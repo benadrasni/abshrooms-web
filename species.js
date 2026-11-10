@@ -147919,5 +147919,1993 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Hapalopilus croceus",
+  "author": "(Pers.) Donk",
+  "family": "Phanerochaetaceae",
+  "genus": "Hapalopilus",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Polyporales",
+    "Phanerochaetaceae",
+    "Hapalopilus"
+  ],
+  "summary": [
+    "Polyporales",
+    "Phanerochaetaceae",
+    "Hapalopilus"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow"
+  ],
+  "capFrom": 5.0,
+  "capTo": 20.0,
+  "label": {
+    "ar": "Hapalopilus croceus",
+    "bg": "Hapalopilus croceus",
+    "cs": "hlinák šafránový",
+    "da": "safrangul fedtporesvamp",
+    "de": "Safrangelber Weichporling",
+    "en": "orange polypore",
+    "es": "Hapalopilus croceus",
+    "et": "krookustorik",
+    "fa": "Hapalopilus croceus",
+    "fi": "sahramikääpä",
+    "fr": "polypore safran",
+    "he": "Hapalopilus croceus",
+    "hi": "Hapalopilus croceus",
+    "hr": "šafranasta mekoporka",
+    "hu": "sáfrányszínű likacsgomba",
+    "id": "Hapalopilus croceus",
+    "it": "Hapalopilus croceus",
+    "ja": "オオカボチャタケ",
+    "ko": "Hapalopilus croceus",
+    "lt": "krokinis minkštenis",
+    "lv": "košā zeltpore",
+    "nl": "prachthoutzwam",
+    "no": "safrankjuke",
+    "pl": "miękusz szafranowy",
+    "pt": "Hapalopilus croceus",
+    "ro": "Hapalopilus croceus",
+    "ru": "аурантипорус шафранно-жёлтый",
+    "sk": "hlinovec šafranový",
+    "sl": "žafranasti mehkopor",
+    "sr": "Hapalopilus croceus",
+    "sv": "saffransticka",
+    "tr": "Hapalopilus croceus",
+    "uk": "Hapalopilus croceus",
+    "zh": "Hapalopilus croceus"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [
+      "safran-fedtporesvamp"
+    ],
+    "de": [
+      "Safrangelber Saftporling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [
+      "krookuspruunik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "гапалопилус шафранный"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://www.myko.cz/myko-atlas/Aurantiporus-croceus/",
+      "https://portal23.nature.cz/redlist/"
+    ],
+    "da": [
+      "https://roedliste.au.dk/data.asp?ID=1872&gruppeID=86",
+      "https://www.iucnredlist.org/species/58521209/58521216"
+    ],
+    "de": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://naturschutzbund.at/pilz-leser/items/id-2016-safrangelber-weichporling-hapalopilus-croceus.html",
+      "https://123pilzsuche.de/daten/details/SafrangelberWeichporling.htm"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=445931",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=445931",
+      "https://www.gbif.org/species/2548619",
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://redlist.info/iucn/species_view/445931/",
+      "https://en.wikipedia.org/wiki/Hapalopilus_croceus",
+      "https://www.mushroomexpert.com/hapalopilus_croceus.html",
+      "https://123pilzsuche.de/daten/details/SafrangelberWeichporling.htm",
+      "https://sarkanagramata.lu.lv/suga/kosa-zeltpore/",
+      "https://roedliste.au.dk/data.asp?ID=1872&gruppeID=86",
+      "https://naturschutzbund.at/pilz-leser/items/id-2016-safrangelber-weichporling-hapalopilus-croceus.html"
+    ],
+    "es": [],
+    "et": [
+      "https://www.keskkonnaamet.ee/sites/default/files/documents/2021-05/krookustorik_ltk_kinnitatud_redigeeritud.pdf",
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://et.wikipedia.org/wiki/Krookuspruunik"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://fi.wikipedia.org/wiki/Sahramikääpä",
+      "https://www.wikidata.org/wiki/Q10659979"
+    ],
+    "fr": [
+      "https://taxref.mnhn.fr/taxref-web/taxa/42664"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://www.iucnredlist.org/species/58521209/58521216"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Sáfrányszínű_likacsgomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://mycoscouter.coolblog.jp/daikinrin/Pages/Hapalopilus_croceus_445931.html",
+      "http://www.tokyokinoko.com/zukan/o/ookabotyatake.htm"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://lt.wikipedia.org/wiki/Krokinis_minkštenis"
+    ],
+    "lv": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://sarkanagramata.lu.lv/suga/kosa-zeltpore/"
+    ],
+    "nl": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://natuurdata.inbo.be/bie-hub/species/2548619"
+    ],
+    "no": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://www.wikidata.org/wiki/Q10659979"
+    ],
+    "pl": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://pl.wikipedia.org/wiki/Miękusz_szafranowy",
+      "https://grzyby.pl/gatunki/Hapalopilus_croceus.htm"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://rpn.gov.ru/upload/iblock/64a/7sdj3u08spvp5e2g4zo9sm0dq8qc1j26/Prikaz_320.pdf",
+      "https://redbookspb.eco-lo.ru/gapalopilus-shafrannyj/"
+    ],
+    "sk": [
+      "https://beliana.sav.sk/heslo/hlinovec",
+      "https://www.iucnredlist.org/species/58521209/58521216"
+    ],
+    "sl": [
+      "https://www.gobe.si/Gobe/HapalopilusCroceus"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.iucnredlist.org/species/58521209/58521216",
+      "https://sv.wikipedia.org/wiki/Saffransticka"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر رفّي نادر ولافت للنظر من جنس Hapalopilus، له أجسام ثمرية طرية مشبعة بالماء بلون برتقالي زعفراني زاهٍ. يسبب عفنًا أبيض في أشجار البلوط المسنّة ذات الجذوع الغليظة، وبصورة أندر بكثير في أشجار الكستناء الحلوة، ويُصنَّف «معرّضًا للخطر» (Vulnerable) في القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة (IUCN) لأن الأشجار المسنّة التي يعتمد عليها تراجعت تراجعًا حادًا.",
+      "cap": "رفّ لاطئ، نصف دائري أو كلوي أو وسادي الشكل، عرضه ٥–٢٠ cm، يبرز من الخشب ٣–١٠ cm وسمكه ١–٦ cm؛ وعلى الجذوع الساقطة قد ينبسط جزئيًا على الخشب بحافة منثنية. برتقالي زعفراني زاهٍ إلى برتقالي مصفر، أشد سمرة نحو موضع الالتصاق، ويبهت مع العمر حتى تصبح الأجسام الثمرية المسنّة بنية باهتة أو رمادية. السطح لبادي ناعم إلى مشعر في الصغر، ثم شبه أملس أو غير مستوٍ أو مجعّد؛ والحافة كليلة مستديرة.",
+      "hymenium": "أنابيب بعمق يصل إلى ١٫٥ cm، بلون اللحم. المسام مستديرة إلى زاويّة، ٢–٣ في كل mm، مرئية بالعين المجردة، برتقالية زاهية إلى برتقالية محمرّة، ولا يتغير لونها عند الضغط؛ وقد تفرز الأجسام الثمرية الفتية قطرات على سطح المسام. وفي الأجسام الثمرية المسنّة تصبح طبقة الأنابيب محمرّة داكنة وقاسية وشبه راتنجية.",
+      "stipe": "غائبة: يلتصق الجسم الثمري بجانبه العريض مباشرة بالخشب.",
+      "flesh": "سميك وطري وإسفنجي وليفي، مشبع بالماء وهو طازج؛ برتقالي مصفر إلى برتقالي شاحب، وكثيرًا ما يكون مخططًا بأشرطة برتقالية وبنية. يتقلص بشدة عند الجفاف ويصبح قاسيًا مائلًا إلى البني. الرائحة والطعم معتدلان وغير مميزين. قطرة من هيدروكسيد البوتاسيوم (KOH) تلوّن جميع الأجزاء فورًا بالأحمر الكرزي إلى البنفسجي الأرجواني.",
+      "sporePrint": "أبيض إلى قشّي شاحب. الأبواغ إهليلجية عريضة، ملساء، عديمة اللون وغير أميلويدية، نحو ٤–٧ × ٣–٤٫٥ µm وفق الأوصاف الأوروبية؛ ووُصفت عينات من أمريكا الشمالية بأبواغ تصل إلى ٨ × ٥ µm.",
+      "habitat": "مترمّم وطفيلي ضعيف يحلّل خشب القلب في أشجار البلوط المسنّة ذات الجذوع الغليظة (Quercus)، وبصورة أندر في الكستناء الحلوة (Castanea)، ونادرًا جدًا في أشجار عريضة الأوراق أخرى. تظهر الأجسام الثمرية على الأجزاء الميتة من الأشجار المسنّة الحية، وفي تجاويف الجذع وجروحه، وعند قاعدته، وعلى الجذوع الساقطة الكبيرة، في غابات البلوط القديمة والمراعي المشجرة والحدائق والممرات المشجرة. وهي حولية تظهر غالبًا من يوليو إلى أكتوبر، لكن الغزل الفطري قد يعيش عقودًا في الشجرة نفسها: ففي الدنمارك يثمر فرد واحد منذ أكثر من ٧٠ عامًا. يوجد في أوروبا المعتدلة وشرق أمريكا الشمالية وشرق آسيا، وهو نادر في كل مكان تقريبًا.",
+      "uses": "غير صالح للأكل. وهو نوع رائد في صون أشجار البلوط المسنّة ومحمي قانونًا في عدة بلدان، منها بولندا والمجر والسويد ولاتفيا وإستونيا؛ ويجب ألا يُجمع أو يُتلف أبدًا.",
+      "confusion": "Hapalopilus rutilans أكثر شيوعًا بكثير، وأصغر، ولونه بني قرفي إلى بني مغري باهت، وينمو على أشجار عريضة الأوراق متنوعة، ويتلون أيضًا بالبنفسجي مع KOH. Pycnoporellus fulgens برتقالي أيضًا لكنه ينمو على الصنوبريات. Pycnoporus cinnabarinus أرق وأصلب وأحمر زنجفري، ويسودّ لحمه مع KOH. Laetiporus sulphureus ينمو في مجموعات من الرفوف المتراكبة بسطح مسام أصفر كبريتي. Aurantiporus alborubescens مبيضّ في البداية، ثم يحمرّ سريعًا، وينمو على الزان.",
+      "notes": "وصفه أول مرة كريستيان هندريك بيرسون عام ١٧٩٦ باسم Boletus croceus، ونقله مارينوس أنطون دونك إلى جنس Hapalopilus عام ١٩٣٣؛ ولا تزال بعض القوائم تستخدم الاسم Aurantiporus croceus. تصنّفه القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة (٢٠١٩) «معرّضًا للخطر»، وهو مدرج في القوائم الحمراء لما لا يقل عن ١١ بلدًا أوروبيًا، بوصفه «مهددًا بشدة بالانقراض» في النرويج وفنلندا والسويد والدنمارك وألمانيا والنمسا وإستونيا وكرواتيا. ومنذ ٢٠٢٣ أُدرج أيضًا في الكتاب الأحمر للاتحاد الروسي. وكان فطر العام في النمسا عام ٢٠١٦.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Рядка, забележима гъба с конзолни плодни тела от рода Hapalopilus, меки, пропити с вода и ярко шафраненооранжеви. Причинява бяло гниене в стари дебелостволи дъбове и много по-рядко в ядливи кестени, а в Червения списък на IUCN е оценена като уязвима (Vulnerable), защото старите дървета, от които зависи, рязко са намалели.",
+      "cap": "Приседнало, полукръгло, бъбрековидно или възглавничесто плодно тяло, широко 5–20 cm, издадено от дървесината 3–10 cm и дебело 1–6 cm; по паднали стволове може частично да се разстила по дървесината с отогнат ръб. Ярко шафраненооранжево до жълтооранжево, към мястото на прикрепване по-кафяво, с възрастта избледнява, докато старите плодни тела станат матово кафеникави или сивкави. Повърхността в младост е фино филцеста до космата, по-късно почти гладка, неравна или набръчкана; ръбът е тъп и закръглен.",
+      "hymenium": "Тръбички с дължина до 1,5 cm, с цвета на месото. Порите са кръгли до ъгловати, 2–3 на mm, видими с просто око, ярко оранжеви до червеникавооранжеви и не променят цвета си при натиск; младите плодни тела могат да отделят капки по повърхността на порите. При старите плодни тела слоят от тръбички става тъмночервеникав, твърд и почти смолист.",
+      "stipe": "Липсва: плодното тяло е прикрепено широко със страната си направо към дървесината.",
+      "flesh": "Дебело, меко, гъбесто и влакнесто, в свежо състояние напоено с вода; жълтооранжево до бледооранжево, често зонирано с оранжеви и кафеникави ивици. При изсъхване силно се свива, става твърдо и кафеникаво. Мирисът и вкусът са меки, нехарактерни. Капка калиев хидроксид (KOH) мигновено оцветява всички части в черешовочервено до пурпурновиолетово.",
+      "sporePrint": "Бял до бледо сламеножълт. Спорите са широко елипсоидни, гладки, безцветни и неамилоидни, по европейски описания около 4–7 × 3–4,5 µm; северноамерикански сбирки са описани със спори до 8 × 5 µm.",
+      "habitat": "Сапротроф и слаб паразит, който разгражда сърцевината на стари дебелостволи дъбове (Quercus), по-рядко на ядливия кестен (Castanea) и много рядко на други широколистни дървета. Плодните тела се появяват по мъртви части на живи стари дървета, в хралупи и рани по ствола, в основата на ствола и по големи паднали стволове, в стари дъбови гори, горски пасища, паркове и алеи. Те са едногодишни и се появяват главно от юли до октомври, но мицелът може да живее десетилетия в едно и също дърво: в Дания един индивид образува плодни тела вече повече от 70 години. Видът се среща в умерена Европа, в източната част на Северна Америка и в Източна Азия и почти навсякъде е рядък.",
+      "uses": "Негодна за ядене. Тя е флагманен вид за опазването на старите дъбове и е защитена със закон в няколко държави, сред които Полша, Унгария, Швеция, Латвия и Естония; никога не бива да се събира или поврежда.",
+      "confusion": "Hapalopilus rutilans е много по-често срещан, по-дребен и матово канеленокафяв до охрестокафяв, расте по различни широколистни дървета и с KOH също се оцветява виолетово. Pycnoporellus fulgens също е оранжев, но расте по иглолистни дървета. Pycnoporus cinnabarinus е по-тънък, жилав и цинобърночервен, а месото му почернява с KOH. Laetiporus sulphureus расте на керемидообразно застъпващи се групи от конзоли със сярножълта повърхност на порите. Aurantiporus alborubescens отначало е белезникав, скоро почервенява и расте по бук.",
+      "notes": "За първи път е описана от Кристиан Хендрик Персон през 1796 г. като Boletus croceus и е прехвърлена в рода Hapalopilus от Маринус Антон Донк през 1933 г.; някои списъци все още използват името Aurantiporus croceus. Червеният списък на IUCN (2019) я оценява като уязвима и тя е включена в червените списъци на поне 11 европейски държави, като критично застрашена в Норвегия, Финландия, Швеция, Дания, Германия, Австрия, Естония и Хърватия. От 2023 г. е вписана и в Червената книга на Руската федерация. През 2016 г. е била гъба на годината в Австрия.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Vzácná, nápadná dřevokazná houba z rodu Hapalopilus s měkkými, vodou nasáklými, zářivě šafránově oranžovými plodnicemi. Způsobuje bílou hnilobu starých tlustokmenných dubů a mnohem vzácněji kaštanovníků jedlých; v Červeném seznamu IUCN je hodnocena jako zranitelná, protože staré stromy, na nichž závisí, prudce ubyly.",
+      "cap": "Přisedlá, polokruhovitá, ledvinitá nebo polštářovitá konzola široká 5–20 cm, od dřeva odstávající 3–10 cm a tlustá 1–6 cm; na padlých kmenech může být částečně rozlitá po dřevě s odstávajícím okrajem. Zářivě šafránově oranžová až žlutooranžová, k místu přirůstání hnědší, stářím bledne, až jsou staré plodnice matně hnědavé nebo šedavé. Povrch je zprvu jemně plstnatý až chlupatý, později téměř hladký, hrbolatý nebo vrásčitý; okraj je tupý a zaoblený.",
+      "hymenium": "Rourky hluboké až 1,5 cm, zbarvené jako dužnina. Póry okrouhlé až hranaté, 2–3 na mm, viditelné pouhým okem, zářivě oranžové až červenooranžové, po otlačení nemění barvu; mladé plodnice mohou na povrchu pórů vylučovat kapky. U starých plodnic se vrstva rourek stává tmavě načervenalou, tvrdou a téměř pryskyřičnatou.",
+      "stipe": "Chybí: plodnice přirůstá širokou boční částí přímo ke dřevu.",
+      "flesh": "Tlustá, měkká, houbovitá a vláknitá, v čerstvém stavu nasáklá vodou; žlutooranžová až světle oranžová, často pásovaná oranžovými a hnědavými zónami. Při sušení se silně smršťuje, tvrdne a hnědne. Vůně a chuť jsou mírné, nevýrazné. Kapka hydroxidu draselného (KOH) okamžitě zbarví všechny části třešňově červeně až purpurově fialově.",
+      "sporePrint": "Bílý až světle slámově žlutý. Výtrusy široce elipsoidní, hladké, bezbarvé a neamyloidní, podle evropských popisů přibližně 4–7 × 3–4,5 µm; severoamerické sběry byly popsány s výtrusy až 8 × 5 µm.",
+      "habitat": "Saprotrof a slabý parazit, který rozkládá jádrové dřevo starých tlustokmenných dubů (Quercus), vzácněji kaštanovníku jedlého (Castanea) a velmi vzácně jiných listnatých stromů. Plodnice vyrůstají na odumřelých částech živých starých stromů, v dutinách a ranách kmene, u báze kmene a na velkých padlých kmenech, ve starých doubravách, na pastvinách se starými stromy, v parcích a alejích. Jsou jednoleté a objevují se hlavně od července do října, mycelium však může v témže stromě žít po desetiletí: v Dánsku jeden jedinec plodí již více než 70 let. Vyskytuje se v mírném pásmu Evropy, na východě Severní Ameriky a ve východní Asii a téměř všude je vzácný.",
+      "uses": "Nejedlá. Je vlajkovým druhem ochrany starých dubů a v několika zemích včetně Polska, Maďarska, Švédska, Lotyšska a Estonska je zákonem chráněna; nikdy ji nesbírejte ani nepoškozujte.",
+      "confusion": "Hapalopilus rutilans je mnohem hojnější, menší a matně skořicově až okrově hnědý, roste na různých listnatých stromech a s KOH se rovněž barví fialově. Pycnoporellus fulgens je také oranžový, ale roste na jehličnanech. Pycnoporus cinnabarinus je tenčí, tuhý a rumělkově červený a jeho dužnina s KOH zčerná. Laetiporus sulphureus roste ve střechovitě uspořádaných trsech konzol se sírově žlutým povrchem pórů. Aurantiporus alborubescens je zprvu bělavý, brzy červená a roste na buku.",
+      "notes": "Poprvé ji popsal Christiaan Hendrik Persoon v roce 1796 jako Boletus croceus a do rodu Hapalopilus ji přeřadil Marinus Anton Donk v roce 1933; některé seznamy dosud používají jméno Aurantiporus croceus. Červený seznam IUCN (2019) ji hodnotí jako zranitelnou a je uvedena v červených seznamech nejméně 11 evropských zemí, jako kriticky ohrožená v Norsku, Finsku, Švédsku, Dánsku, Německu, Rakousku, Estonsku a Chorvatsku. Od roku 2023 je zapsána také v Červené knize Ruské federace. V roce 2016 byla v Rakousku houbou roku.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://www.myko.cz/myko-atlas/Aurantiporus-croceus/",
+        "https://portal23.nature.cz/redlist/"
+      ],
+      "label": "hlinák šafránový"
+    },
+    "da": {
+      "description": "En sjælden, iøjnefaldende konsolsvamp i slægten Hapalopilus med bløde, vandmættede, klart safranorange frugtlegemer. Den forårsager hvidråd i gamle, tykstammede ege og langt sjældnere i ægte kastanje og er vurderet som sårbar (Vulnerable) på IUCN's rødliste, fordi de gamle træer, den er afhængig af, er gået stærkt tilbage.",
+      "cap": "Siddende, halvcirkelformet, nyreformet eller pudeformet konsol, 5–20 cm bred, 3–10 cm udstående fra veddet og 1–6 cm tyk; på liggende stammer kan den delvis være udbredt over veddet med en opadbøjet kant. Klart safranorange til gulorange, brunere mod fæstet, falmer med alderen, til gamle frugtlegemer er mat brunlige eller grålige. Overfladen er som ung fint filtet til håret, senere næsten glat, ujævn eller rynket; randen er butt og afrundet.",
+      "hymenium": "Rør op til 1,5 cm lange, farvet som kødet. Porerne er runde til kantede, 2–3 pr. mm og synlige med det blotte øje, klart orange til rødligt orange og skifter ikke farve ved tryk; unge frugtlegemer kan udskille dråber på poreoverfladen. Hos gamle frugtlegemer bliver rørlaget mørkt rødligt, hårdt og næsten harpiksagtigt.",
+      "stipe": "Mangler: frugtlegemet er bredt fæstnet med siden direkte til veddet.",
+      "flesh": "Tykt, blødt, svampet og trævlet, frisk mættet med vand; gulorange til bleg orange, ofte zoneret med orange og brunlige bånd. Ved tørring skrumper det kraftigt og bliver hårdt og brunligt. Lugt og smag er milde og ukarakteristiske. En dråbe kaliumhydroxid (KOH) farver straks alle dele kirsebærrøde til purpurviolette.",
+      "sporePrint": "Hvidt til blegt stråfarvet. Sporerne er bredt ellipsoide, glatte, farveløse og inamyloide, ifølge europæiske beskrivelser ca. 4–7 × 3–4,5 µm; nordamerikanske indsamlinger er beskrevet med sporer op til 8 × 5 µm.",
+      "habitat": "En saprotrof og svækkelsesparasit, der nedbryder kerneveddet i gamle, tykstammede ege (Quercus), sjældnere ægte kastanje (Castanea) og meget sjældent andre løvtræer. Frugtlegemerne kommer frem på døde dele af levende gamle træer, i stammehulheder og sår, ved stammefoden og på store liggende stammer, i gamle egeskove, græsningsskove, parker og alléer. De er enårige og ses især fra juli til oktober, men myceliet kan leve i årtier i det samme træ: i Danmark har ét individ sat frugtlegemer i mere end 70 år. Arten forekommer i det tempererede Europa, i det østlige Nordamerika og i Østasien og er sjælden næsten overalt.",
+      "uses": "Uspiselig. Den er en flagskibsart for bevarelsen af gamle ege og er lovbeskyttet i flere lande, bl.a. Polen, Ungarn, Sverige, Letland og Estland; den bør aldrig indsamles eller beskadiges.",
+      "confusion": "Hapalopilus rutilans er langt almindeligere, mindre og mat kanel- til okkerbrun, vokser på forskellige løvtræer og farves ligeledes violet med KOH. Pycnoporellus fulgens er også orange, men vokser på nåletræer. Pycnoporus cinnabarinus er tyndere, sej og cinnoberrød, og dens kød bliver sort med KOH. Laetiporus sulphureus vokser i taglagte grupper af konsoller med svovlgul poreoverflade. Aurantiporus alborubescens er først hvidlig, bliver snart rødlig og vokser på bøg.",
+      "notes": "Første gang beskrevet af Christiaan Hendrik Persoon i 1796 som Boletus croceus og overført til slægten Hapalopilus af Marinus Anton Donk i 1933; nogle artslister bruger stadig navnet Aurantiporus croceus. IUCN's rødliste (2019) vurderer den som sårbar, og den er rødlistet i mindst 11 europæiske lande, som kritisk truet i Norge, Finland, Sverige, Danmark, Tyskland, Østrig, Estland og Kroatien. Siden 2023 har den også været opført i Den Russiske Føderations Røde Bog. I 2016 var den årets svamp i Østrig.",
+      "names": [
+        "safran-fedtporesvamp"
+      ],
+      "sourceUrls": [
+        "https://roedliste.au.dk/data.asp?ID=1872&gruppeID=86",
+        "https://www.iucnredlist.org/species/58521209/58521216"
+      ],
+      "label": "safrangul fedtporesvamp"
+    },
+    "de": {
+      "description": "Ein seltener, auffälliger Konsolenpilz aus der Gattung Hapalopilus mit weichen, wassergetränkten, leuchtend safranorangen Fruchtkörpern. Er verursacht eine Weißfäule in alten, dickstämmigen Eichen und viel seltener in Edelkastanien und wird auf der Roten Liste der IUCN als gefährdet (Vulnerable) eingestuft, weil die alten Bäume, auf die er angewiesen ist, stark abgenommen haben.",
+      "cap": "Sitzende, halbkreisförmige, nieren- oder polsterförmige Konsole, 5–20 cm breit, 3–10 cm vom Holz abstehend und 1–6 cm dick; an liegenden Stämmen kann sie teilweise mit abstehender Kante über das Holz ausgebreitet sein. Leuchtend safranorange bis gelborange, zur Anwachsstelle hin brauner, mit dem Alter verblassend, bis alte Fruchtkörper stumpf bräunlich oder gräulich sind. Die Oberfläche ist jung fein filzig bis behaart, später fast glatt, uneben oder runzelig; der Rand ist stumpf und abgerundet.",
+      "hymenium": "Röhren bis 1,5 cm lang, wie das Fleisch gefärbt. Die Poren sind rund bis eckig, 2–3 pro mm und mit bloßem Auge sichtbar, leuchtend orange bis rötlich orange und verfärben sich bei Druck nicht; junge Fruchtkörper können an der Porenfläche Tropfen ausscheiden. In alten Fruchtkörpern wird die Röhrenschicht dunkel rötlich, hart und fast harzartig.",
+      "stipe": "Fehlt: Der Fruchtkörper ist breit seitlich direkt am Holz angewachsen.",
+      "flesh": "Dick, weich, schwammig und faserig, frisch mit Wasser vollgesogen; gelborange bis blass orange, oft mit orangen und bräunlichen Zonen. Beim Trocknen schrumpft es stark und wird hart und bräunlich. Geruch und Geschmack sind mild und unauffällig. Ein Tropfen Kalilauge (KOH) färbt alle Teile sofort kirschrot bis purpurviolett.",
+      "sporePrint": "Weiß bis blass strohfarben. Die Sporen sind breit ellipsoid, glatt, farblos und inamyloid, nach europäischen Beschreibungen etwa 4–7 × 3–4,5 µm; nordamerikanische Aufsammlungen wurden mit Sporen bis 8 × 5 µm beschrieben.",
+      "habitat": "Ein Saprobiont und Schwächeparasit, der das Kernholz alter, dickstämmiger Eichen (Quercus) zersetzt, seltener der Edelkastanie (Castanea) und sehr selten anderer Laubbäume. Die Fruchtkörper erscheinen an abgestorbenen Teilen lebender Altbäume, in Stammhöhlen und Wunden, am Stammfuß und an großen liegenden Stämmen, in alten Eichenwäldern, Hutewäldern, Parks und Alleen. Sie sind einjährig und erscheinen vor allem von Juli bis Oktober, doch das Myzel kann jahrzehntelang im selben Baum leben: In Dänemark fruktifiziert ein Individuum seit mehr als 70 Jahren. Die Art kommt im gemäßigten Europa, im östlichen Nordamerika und in Ostasien vor und ist fast überall selten.",
+      "uses": "Ungenießbar. Er ist eine Leitart für den Schutz alter Eichen und in mehreren Ländern gesetzlich geschützt, darunter Polen, Ungarn, Schweden, Lettland und Estland; er sollte niemals gesammelt oder beschädigt werden.",
+      "confusion": "Hapalopilus rutilans ist viel häufiger, kleiner und stumpf zimt- bis ockerbraun, wächst an verschiedenen Laubbäumen und färbt sich mit KOH ebenfalls violett. Pycnoporellus fulgens ist ebenfalls orange, wächst aber an Nadelbäumen. Pycnoporus cinnabarinus ist dünner, zäh und zinnoberrot, sein Fleisch wird mit KOH schwarz. Laetiporus sulphureus wächst in dachziegelartigen Büscheln von Konsolen mit schwefelgelber Porenfläche. Aurantiporus alborubescens ist anfangs weißlich, rötet bald und wächst an Buche.",
+      "notes": "Erstmals 1796 von Christiaan Hendrik Persoon als Boletus croceus beschrieben und 1933 von Marinus Anton Donk in die Gattung Hapalopilus gestellt; manche Checklisten verwenden noch den Namen Aurantiporus croceus. Die Rote Liste der IUCN (2019) stuft ihn als gefährdet ein, und er steht in mindestens 11 europäischen Ländern auf der Roten Liste, als vom Aussterben bedroht in Norwegen, Finnland, Schweden, Dänemark, Deutschland, Österreich, Estland und Kroatien. Seit 2023 ist er auch im Roten Buch der Russischen Föderation verzeichnet. Pilz des Jahres 2016 in Österreich.",
+      "names": [
+        "Safrangelber Saftporling"
+      ],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://naturschutzbund.at/pilz-leser/items/id-2016-safrangelber-weichporling-hapalopilus-croceus.html",
+        "https://123pilzsuche.de/daten/details/SafrangelberWeichporling.htm"
+      ],
+      "label": "Safrangelber Weichporling"
+    },
+    "en": {
+      "description": "A rare, conspicuous bracket fungus of the genus Hapalopilus with soft, water-soaked, bright saffron-orange fruit bodies. It causes a white rot in old, thick-trunked oaks and, much more rarely, sweet chestnuts, and is assessed as Vulnerable on the IUCN Red List because the veteran trees it depends on have declined steeply.",
+      "cap": "A sessile, semicircular, kidney-shaped or cushion-shaped bracket 5–20 cm wide, projecting 3–10 cm from the wood and 1–6 cm thick; on fallen trunks it may be partly spread over the wood with a turned-back edge. Bright saffron-orange to yellow-orange, browner towards the point of attachment, fading with age until old fruit bodies are dull brownish or greyish. The surface is finely felted to hairy when young, later almost smooth, uneven or wrinkled; the margin is blunt and rounded.",
+      "hymenium": "Tubes up to 1.5 cm deep, coloured like the flesh. The pores are round to angular, 2–3 per mm and visible to the naked eye, bright orange to reddish orange, and do not change colour when bruised; young fruit bodies may exude droplets from the pore surface. In old fruit bodies the pore layer becomes dark reddish, hard and almost resinous.",
+      "stipe": "Absent: the fruit body is attached broadly by its side directly to the wood.",
+      "flesh": "Thick, soft, spongy and fibrous, saturated with water when fresh; yellow-orange to pale orange, often zoned with orange and brownish bands. On drying it shrinks strongly and becomes hard and brownish. The odour and taste are mild and not distinctive. A drop of potassium hydroxide (KOH) instantly turns all parts cherry red to purplish violet.",
+      "sporePrint": "White to pale straw-coloured. The spores are broadly ellipsoid, smooth, colourless and inamyloid, about 4–7 × 3–4.5 µm in European descriptions; North American collections have been described with spores up to 8 × 5 µm.",
+      "habitat": "A saprotroph and weak parasite that rots the heartwood of old, thick-trunked oaks (Quercus), more rarely sweet chestnut (Castanea) and, very rarely, other broadleaved trees. Fruit bodies appear on dead parts of living veteran trees, in trunk cavities and wounds, at the base of the trunk and on large fallen trunks, in old oak forests, wood pastures, parks and avenues. They are annual and appear mainly from July to October, but the mycelium can live in the same tree for decades: in Denmark one individual has fruited for more than 70 years. It occurs across temperate Europe, in eastern North America and in eastern Asia, and is rare almost everywhere.",
+      "uses": "Inedible. It is a flagship species for the conservation of veteran oaks and is legally protected in several countries, including Poland, Hungary, Sweden, Latvia and Estonia; it should never be collected or damaged.",
+      "confusion": "Hapalopilus rutilans is far more common, smaller and dull cinnamon to ochre brown, grows on various broadleaved trees and also turns violet with KOH. Pycnoporellus fulgens is also orange but grows on conifers. Pycnoporus cinnabarinus is thinner, tough and cinnabar red, and its flesh turns black with KOH. Laetiporus sulphureus grows in overlapping clusters of brackets with a sulphur-yellow pore surface. Aurantiporus alborubescens is whitish at first, soon reddens and grows on beech.",
+      "notes": "First described by Christiaan Hendrik Persoon in 1796 as Boletus croceus and transferred to Hapalopilus by Marinus Anton Donk in 1933; some checklists still use the name Aurantiporus croceus. The IUCN Red List (2019) assesses it as Vulnerable, and it is red-listed in at least 11 European countries, as Critically Endangered in Norway, Finland, Sweden, Denmark, Germany, Austria, Estonia and Croatia. Since 2023 it has also been listed in the Red Data Book of the Russian Federation. It was the Austrian Mushroom of the Year in 2016.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=445931",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=445931",
+        "https://www.gbif.org/species/2548619",
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://redlist.info/iucn/species_view/445931/",
+        "https://en.wikipedia.org/wiki/Hapalopilus_croceus",
+        "https://www.mushroomexpert.com/hapalopilus_croceus.html",
+        "https://123pilzsuche.de/daten/details/SafrangelberWeichporling.htm",
+        "https://sarkanagramata.lu.lv/suga/kosa-zeltpore/",
+        "https://roedliste.au.dk/data.asp?ID=1872&gruppeID=86",
+        "https://naturschutzbund.at/pilz-leser/items/id-2016-safrangelber-weichporling-hapalopilus-croceus.html"
+      ],
+      "label": "orange polypore"
+    },
+    "es": {
+      "description": "Un hongo de repisa raro y llamativo del género Hapalopilus, con cuerpos fructíferos blandos, empapados de agua y de color naranja azafrán vivo. Causa una pudrición blanca en robles viejos de tronco grueso y, mucho más raramente, en castaños, y está evaluado como Vulnerable en la Lista Roja de la UICN porque los árboles viejos de los que depende han disminuido drásticamente.",
+      "cap": "Repisa sésil, semicircular, reniforme o en forma de cojín, de 5–20 cm de ancho, que sobresale 3–10 cm de la madera y tiene 1–6 cm de grosor; en troncos caídos puede extenderse en parte sobre la madera con el borde vuelto. De naranja azafrán vivo a amarillo anaranjado, más pardo hacia el punto de inserción, y palidece con la edad hasta que los ejemplares viejos se vuelven pardo apagado o grisáceos. La superficie es finamente afieltrada a pilosa de joven, luego casi lisa, irregular o arrugada; el margen es obtuso y redondeado.",
+      "hymenium": "Tubos de hasta 1,5 cm de profundidad, del color de la carne. Poros redondos a angulosos, 2–3 por mm, visibles a simple vista, de naranja vivo a naranja rojizo, que no cambian de color al rozarlos; los ejemplares jóvenes pueden exudar gotas en la superficie de los poros. En los ejemplares viejos la capa de tubos se vuelve rojiza oscura, dura y casi resinosa.",
+      "stipe": "Ausente: el cuerpo fructífero se une ampliamente por un lado directamente a la madera.",
+      "flesh": "Gruesa, blanda, esponjosa y fibrosa, empapada de agua en fresco; de amarillo anaranjado a naranja pálido, a menudo zonada con bandas naranjas y parduscas. Al secarse se contrae mucho y se vuelve dura y parduzca. Olor y sabor suaves, poco característicos. Una gota de hidróxido de potasio (KOH) tiñe al instante todas las partes de rojo cereza a violeta púrpura.",
+      "sporePrint": "Blanca a pajiza pálida. Esporas anchamente elipsoidales, lisas, hialinas y no amiloides, de unos 4–7 × 3–4,5 µm según las descripciones europeas; se han descrito recolecciones norteamericanas con esporas de hasta 8 × 5 µm.",
+      "habitat": "Saprótrofo y parásito débil que descompone el duramen de robles viejos de tronco grueso (Quercus), más raramente del castaño (Castanea) y, muy raramente, de otros árboles de hoja ancha. Los cuerpos fructíferos aparecen en partes muertas de árboles viejos vivos, en huecos y heridas del tronco, en la base del tronco y en grandes troncos caídos, en robledales antiguos, dehesas arboladas, parques y avenidas. Son anuales y aparecen sobre todo de julio a octubre, pero el micelio puede vivir décadas en el mismo árbol: en Dinamarca un individuo fructifica desde hace más de 70 años. Se encuentra en la Europa templada, en el este de Norteamérica y en el este de Asia, y es raro casi en todas partes.",
+      "uses": "No comestible. Es una especie emblemática de la conservación de los robles viejos y está protegida por ley en varios países, entre ellos Polonia, Hungría, Suecia, Letonia y Estonia; nunca debe recolectarse ni dañarse.",
+      "confusion": "Hapalopilus rutilans es mucho más común, más pequeño y de color canela a pardo ocre apagado, crece sobre diversos árboles de hoja ancha y también se vuelve violeta con KOH. Pycnoporellus fulgens también es anaranjado, pero crece sobre coníferas. Pycnoporus cinnabarinus es más delgado, coriáceo y rojo cinabrio, y su carne se vuelve negra con KOH. Laetiporus sulphureus forma grupos de repisas superpuestas con la superficie de los poros amarillo azufre. Aurantiporus alborubescens es blanquecino al principio, pronto enrojece y crece sobre haya.",
+      "notes": "Descrito por primera vez por Christiaan Hendrik Persoon en 1796 como Boletus croceus y transferido al género Hapalopilus por Marinus Anton Donk en 1933; algunas listas aún usan el nombre Aurantiporus croceus. La Lista Roja de la UICN (2019) lo evalúa como Vulnerable, y figura en las listas rojas de al menos 11 países europeos, como en peligro crítico en Noruega, Finlandia, Suecia, Dinamarca, Alemania, Austria, Estonia y Croacia. Desde 2023 figura también en el Libro Rojo de la Federación de Rusia. Fue la seta del año 2016 en Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Haruldane ja silmatorkav torikseen perekonnast Hapalopilus, mille viljakehad on pehmed, veega küllastunud ja erksalt safranoranžid. See põhjustab valgemädanikku vanades jämedatüvelistes tammedes ja palju harvemini kastanites ning on IUCN-i punases nimestikus hinnatud ohualdiks (Vulnerable), sest vanad puud, millest liik sõltub, on järsult vähenenud.",
+      "cap": "Istuv, poolringjas, neerjas või padjandjas viljakeha, 5–20 cm lai, puidust 3–10 cm eenduv ja 1–6 cm paks; lamatüvedel võib see osaliselt laiuda üle puidu üles pööratud servaga. Erksalt safranoranž kuni kollakasoranž, kinnituskoha poole pruunim, vanusega tuhmuv, kuni vanad viljakehad on tuhmilt pruunikad või hallikad. Pind on noorena peenelt viltjas kuni karvane, hiljem peaaegu sile, ebatasane või kortsus; serv on tömp ja ümar.",
+      "hymenium": "Torukesed kuni 1,5 cm pikad, viljaliha värvi. Poorid on ümarad kuni nurgelised, 2–3 mm kohta ja palja silmaga nähtavad, erksalt oranžid kuni punakasoranžid ega muuda vajutamisel värvi; noored viljakehad võivad pooripinnale tilku eritada. Vanadel viljakehadel muutub torukeste kiht tumepunakaks, kõvaks ja peaaegu vaigutaoliseks.",
+      "stipe": "Puudub: viljakeha on laialt küljega otse puidu külge kinnitunud.",
+      "flesh": "Paks, pehme, käsnjas ja kiuline, värskelt veega küllastunud; kollakasoranž kuni kahvatuoranž, sageli oranžide ja pruunikate vöötidega. Kuivades kahaneb tugevasti ning muutub kõvaks ja pruunikaks. Lõhn ja maitse on mahedad, mitte iseloomulikud. Tilk kaaliumhüdroksiidi (KOH) värvib kõik osad kohe kirsipunaseks kuni purpurvioletseks.",
+      "sporePrint": "Valge kuni kahvatu õlgkollane. Eosed on laialt ellipsoidsed, siledad, värvitud ja mitteamüloidsed, Euroopa kirjelduste järgi umbes 4–7 × 3–4,5 µm; Põhja-Ameerika kogudest on kirjeldatud kuni 8 × 5 µm eoseid.",
+      "habitat": "Saprotroof ja nõrgaparasiit, mis lagundab vanade jämedatüveliste tammede (Quercus) südapuitu, harvemini kastani (Castanea) ja väga harva teiste lehtpuude oma. Viljakehad kasvavad elusate vanade puude surnud osadel, tüveõõnsustes ja haavades, tüve alusel ning suurtel lamatüvedel vanades tammikutes, puiskarjamaadel, parkides ja alleedes. Need on üheaastased ja ilmuvad peamiselt juulist oktoobrini, kuid seeneniidistik võib samas puus elada aastakümneid: Taanis on üks isend moodustanud viljakehi üle 70 aasta. Liik esineb Euroopa parasvöötmes, Põhja-Ameerika idaosas ja Ida-Aasias ning on peaaegu kõikjal haruldane.",
+      "uses": "Mittesöödav. See on vanade tammede kaitse lipuliik ja on seadusega kaitstud mitmes riigis, sealhulgas Poolas, Ungaris, Rootsis, Lätis ja Eestis; seda ei tohi kunagi korjata ega kahjustada.",
+      "confusion": "Hapalopilus rutilans on palju sagedasem, väiksem ning tuhmilt kaneeli- kuni ookerpruun, kasvab mitmesugustel lehtpuudel ja värvub KOH-ga samuti violetseks. Pycnoporellus fulgens on samuti oranž, kuid kasvab okaspuudel. Pycnoporus cinnabarinus on õhem, sitke ja kinaverpunane ning selle viljaliha muutub KOH-ga mustaks. Laetiporus sulphureus kasvab katusekivitaoliselt kattuvate viljakehade rühmadena, väävelkollase pooripinnaga. Aurantiporus alborubescens on algul valkjas, punetab peagi ja kasvab pöögil.",
+      "notes": "Liigi kirjeldas esimest korda Christiaan Hendrik Persoon 1796. aastal nime all Boletus croceus ning Marinus Anton Donk paigutas selle 1933. aastal perekonda Hapalopilus; mõned nimestikud kasutavad endiselt nime Aurantiporus croceus. IUCN-i punane nimestik (2019) hindab liigi ohualdiks ning see on punases nimestikus vähemalt 11 Euroopa riigis, äärmiselt ohustatuna Norras, Soomes, Rootsis, Taanis, Saksamaal, Austrias, Eestis ja Horvaatias. Alates 2023. aastast on see kantud ka Venemaa Föderatsiooni punasesse raamatusse. 2016. aastal oli see Austria aasta seen.",
+      "names": [
+        "krookuspruunik"
+      ],
+      "sourceUrls": [
+        "https://www.keskkonnaamet.ee/sites/default/files/documents/2021-05/krookustorik_ltk_kinnitatud_redigeeritud.pdf",
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://et.wikipedia.org/wiki/Krookuspruunik"
+      ],
+      "label": "krookustorik"
+    },
+    "fa": {
+      "description": "قارچی طاقچه‌ای کمیاب و چشمگیر از سردهٔ Hapalopilus با اندام‌های بارده نرم، آب‌گرفته و به رنگ نارنجی زعفرانی روشن. در درختان بلوط کهنسال با تنهٔ قطور و بسیار کمتر در درختان شاه‌بلوط پوسیدگی سفید ایجاد می‌کند و در فهرست سرخ IUCN «آسیب‌پذیر» (Vulnerable) ارزیابی شده است، زیرا درختان کهنسالی که به آن‌ها وابسته است به‌شدت کاهش یافته‌اند.",
+      "cap": "طاقچه‌ای بی‌پایه، نیم‌دایره، کلیه‌ای یا بالشتکی، به پهنای ۵–۲۰ cm، با بیرون‌زدگی ۳–۱۰ cm از چوب و ضخامت ۱–۶ cm؛ روی تنه‌های افتاده ممکن است تا حدی روی چوب گسترده شود و لبه‌ای برگشته داشته باشد. نارنجی زعفرانی روشن تا زرد نارنجی، به‌سوی محل اتصال قهوه‌ای‌تر، با افزایش سن رنگ‌پریده می‌شود تا اندام‌های بارده کهنه قهوه‌ای یا خاکستری کدر شوند. سطح در جوانی نمدی ریز تا مودار است و بعد تقریباً صاف، ناهموار یا چروکیده؛ لبه کُند و گرد است.",
+      "hymenium": "لوله‌ها تا عمق ۱٫۵ cm، هم‌رنگ گوشت. منافذ گرد تا زاویه‌دار، ۲–۳ در هر mm و با چشم غیرمسلح دیدنی، نارنجی روشن تا نارنجی مایل به قرمز، و با فشار تغییر رنگ نمی‌دهند؛ اندام‌های بارده جوان ممکن است روی سطح منافذ قطره‌هایی ترشح کنند. در اندام‌های بارده کهنه لایهٔ لوله‌ها قرمز تیره، سخت و تقریباً صمغی می‌شود.",
+      "stipe": "وجود ندارد: اندام بارده با پهلوی پهن خود مستقیماً به چوب چسبیده است.",
+      "flesh": "ضخیم، نرم، اسفنجی و رشته‌ای، در حالت تازه اشباع از آب؛ زرد نارنجی تا نارنجی کم‌رنگ، اغلب با نوارهای نارنجی و قهوه‌ای منطقه‌بندی‌شده. هنگام خشک شدن به‌شدت جمع می‌شود و سخت و قهوه‌ای می‌گردد. بو و مزه ملایم و نامشخص است. یک قطره پتاسیم هیدروکسید (KOH) بی‌درنگ همهٔ بخش‌ها را قرمز گیلاسی تا بنفش ارغوانی می‌کند.",
+      "sporePrint": "سفید تا کاهی کم‌رنگ. هاگ‌ها بیضوی پهن، صاف، بی‌رنگ و غیرآمیلوئیدی‌اند و طبق توصیف‌های اروپایی حدود ۴–۷ × ۳–۴٫۵ µm؛ نمونه‌های آمریکای شمالی با هاگ‌هایی تا ۸ × ۵ µm توصیف شده‌اند.",
+      "habitat": "گندروی و انگل ضعیفی که چوب درون تنهٔ بلوط‌های کهنسال قطور (Quercus)، کمتر شاه‌بلوط (Castanea) و به‌ندرت دیگر درختان پهن‌برگ را تجزیه می‌کند. اندام‌های بارده روی بخش‌های مردهٔ درختان کهنسال زنده، در حفره‌ها و زخم‌های تنه، در پای تنه و روی تنه‌های افتادهٔ بزرگ پدید می‌آیند، در جنگل‌های کهن بلوط، چراگاه‌های درخت‌دار، پارک‌ها و خیابان‌های درخت‌کاری‌شده. یک‌ساله‌اند و بیشتر از ژوئیه تا اکتبر ظاهر می‌شوند، اما ریسه‌ها می‌توانند ده‌ها سال در همان درخت زنده بمانند: در دانمارک یک فرد بیش از ۷۰ سال است که اندام بارده می‌سازد. در اروپای معتدل، شرق آمریکای شمالی و شرق آسیا یافت می‌شود و تقریباً همه‌جا کمیاب است.",
+      "uses": "خوراکی نیست. گونه‌ای شاخص برای حفاظت از بلوط‌های کهنسال است و در چند کشور، از جمله لهستان، مجارستان، سوئد، لتونی و استونی، به‌موجب قانون حفاظت می‌شود؛ هرگز نباید آن را چید یا آسیب زد.",
+      "confusion": "Hapalopilus rutilans بسیار رایج‌تر، کوچک‌تر و به رنگ دارچینی تا قهوه‌ای اُخرایی کدر است، روی درختان پهن‌برگ گوناگون می‌روید و با KOH نیز بنفش می‌شود. Pycnoporellus fulgens هم نارنجی است ولی روی سوزنی‌برگان می‌روید. Pycnoporus cinnabarinus نازک‌تر، سفت و شنگرفی است و گوشتش با KOH سیاه می‌شود. Laetiporus sulphureus در دسته‌هایی از طاقچه‌های روی‌هم‌افتاده با سطح منافذ زرد گوگردی می‌روید. Aurantiporus alborubescens نخست سفیدگون است، زود سرخ می‌شود و روی راش می‌روید.",
+      "notes": "نخستین بار کریستیان هندریک پرسون در ۱۷۹۶ آن را با نام Boletus croceus توصیف کرد و مارینوس آنتون دونک در ۱۹۳۳ آن را به سردهٔ Hapalopilus منتقل کرد؛ برخی فهرست‌ها هنوز نام Aurantiporus croceus را به کار می‌برند. فهرست سرخ IUCN (۲۰۱۹) آن را «آسیب‌پذیر» ارزیابی می‌کند و دست‌کم در فهرست‌های سرخ ۱۱ کشور اروپایی آمده است، به‌عنوان «در معرض خطر انقراض بحرانی» در نروژ، فنلاند، سوئد، دانمارک، آلمان، اتریش، استونی و کرواسی. از ۲۰۲۳ در کتاب سرخ فدراسیون روسیه نیز ثبت شده است. در ۲۰۱۶ قارچ سال اتریش بود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Harvinainen ja näyttävä Hapalopilus-suvun kääpä, jonka itiöemät ovat pehmeitä, vettyneitä ja kirkkaan sahraminoransseja. Se aiheuttaa valkolahoa vanhoissa, paksurunkoisissa tammissa ja paljon harvemmin jalokastanjoissa, ja IUCN:n punaisessa listassa se on arvioitu vaarantuneeksi (Vulnerable), koska sen tarvitsemat vanhat puut ovat vähentyneet jyrkästi.",
+      "cap": "Kiinnittynyt, puoliympyrän-, munuaisen- tai tyynymäinen kääpä, 5–20 cm leveä, 3–10 cm puusta ulkoneva ja 1–6 cm paksu; maapuilla se voi olla osittain puun pinnalle levittäytynyt ja reunastaan käänteinen. Kirkkaan sahraminoranssi tai keltaoranssi, kiinnityskohtaa kohti ruskeampi, iän myötä haalistuva, kunnes vanhat itiöemät ovat himmeän ruskehtavia tai harmahtavia. Pinta on nuorena hienosti huopainen tai karvainen, myöhemmin lähes sileä, epätasainen tai ryppyinen; reuna on tylppä ja pyöristynyt.",
+      "hymenium": "Pillit enintään 1,5 cm pitkiä, malon värisiä. Huokoset ovat pyöreitä tai kulmikkaita, 2–3 millimetrillä ja paljain silmin näkyviä, kirkkaan oransseja tai punertavan oransseja, eivätkä ne muuta väriään painettaessa; nuoret itiöemät voivat erittää pisaroita huokospinnalle. Vanhoissa itiöemissä pillikerros muuttuu tummanpunertavaksi, kovaksi ja lähes pihkamaiseksi.",
+      "stipe": "Puuttuu: itiöemä on kiinnittynyt leveästi kyljestään suoraan puuhun.",
+      "flesh": "Paksu, pehmeä, sienimäinen ja kuituinen, tuoreena veden kyllästämä; keltaoranssi tai vaalean oranssi, usein oranssein ja ruskehtavin vyöhykkein. Kuivuessaan se kutistuu voimakkaasti ja muuttuu kovaksi ja ruskehtavaksi. Haju ja maku ovat miedot ja tunnusomattomat. Kaliumhydroksidipisara (KOH) värjää kaikki osat heti kirsikanpunaisiksi tai purppuranvioleteiksi.",
+      "sporePrint": "Valkoinen tai vaalean oljenkeltainen. Itiöt ovat leveän ellipsoidisia, sileitä, värittömiä ja inamyloideja, eurooppalaisten kuvausten mukaan noin 4–7 × 3–4,5 µm; pohjoisamerikkalaisista näytteistä on kuvattu jopa 8 × 5 µm:n itiöitä.",
+      "habitat": "Lahottaja ja heikkousloinen, joka lahottaa vanhojen, paksurunkoisten tammien (Quercus) sydänpuuta, harvemmin jalokastanjan (Castanea) ja hyvin harvoin muiden lehtipuiden. Itiöemiä kasvaa elävien vanhojen puiden kuolleissa osissa, rungon koloissa ja vaurioissa, tyvellä ja suurilla maapuilla vanhoissa tammimetsissä, hakamailla, puistoissa ja puistokujilla. Ne ovat yksivuotisia ja ilmestyvät pääasiassa heinäkuusta lokakuuhun, mutta rihmasto voi elää samassa puussa vuosikymmeniä: Tanskassa yksi yksilö on tuottanut itiöemiä yli 70 vuoden ajan. Lajia tavataan Euroopan lauhkealla vyöhykkeellä, Pohjois-Amerikan itäosissa ja Itä-Aasiassa, ja se on harvinainen lähes kaikkialla.",
+      "uses": "Syötäväksi kelpaamaton. Se on vanhojen tammien suojelun lippulaivalaji ja lailla suojeltu useissa maissa, muun muassa Puolassa, Unkarissa, Ruotsissa, Latviassa ja Virossa; sitä ei saa koskaan kerätä eikä vahingoittaa.",
+      "confusion": "Hapalopilus rutilans on paljon yleisempi, pienempi ja himmeän kanelin- tai okranruskea, kasvaa monilla lehtipuilla ja värjäytyy niin ikään violetiksi KOH:lla. Pycnoporellus fulgens on myös oranssi, mutta kasvaa havupuilla. Pycnoporus cinnabarinus on ohuempi, sitkeä ja sinooperinpunainen, ja sen malto mustuu KOH:lla. Laetiporus sulphureus kasvaa päällekkäisinä kääpäryhminä, ja sen huokospinta on rikinkeltainen. Aurantiporus alborubescens on aluksi valkeahko, punertuu pian ja kasvaa pyökillä.",
+      "notes": "Christiaan Hendrik Persoon kuvasi lajin ensimmäisen kerran vuonna 1796 nimellä Boletus croceus, ja Marinus Anton Donk siirsi sen Hapalopilus-sukuun vuonna 1933; jotkin lajiluettelot käyttävät yhä nimeä Aurantiporus croceus. IUCN:n punainen lista (2019) arvioi sen vaarantuneeksi, ja se on punaisella listalla ainakin 11 Euroopan maassa, äärimmäisen uhanalaisena Norjassa, Suomessa, Ruotsissa, Tanskassa, Saksassa, Itävallassa, Virossa ja Kroatiassa. Vuodesta 2023 se on ollut myös Venäjän federaation punaisessa kirjassa. Vuonna 2016 se oli Itävallan vuoden sieni.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://fi.wikipedia.org/wiki/Sahramikääpä",
+        "https://www.wikidata.org/wiki/Q10659979"
+      ],
+      "label": "sahramikääpä"
+    },
+    "fr": {
+      "description": "Un champignon en console rare et voyant du genre Hapalopilus, aux fructifications molles, gorgées d'eau, d'un orange safran vif. Il provoque une pourriture blanche dans les vieux chênes à tronc épais et, beaucoup plus rarement, dans les châtaigniers ; il est classé Vulnérable sur la Liste rouge de l'UICN parce que les vieux arbres dont il dépend ont fortement régressé.",
+      "cap": "Console sessile, semi-circulaire, réniforme ou en coussinet, large de 5–20 cm, débordant de 3–10 cm du bois et épaisse de 1–6 cm ; sur les troncs tombés, elle peut s'étaler en partie sur le bois avec un bord retroussé. Orange safran vif à jaune orangé, plus brune vers le point d'attache, pâlissant avec l'âge jusqu'à devenir terne, brunâtre ou grisâtre sur les vieux exemplaires. Surface finement feutrée à poilue dans la jeunesse, puis presque lisse, inégale ou ridée ; marge obtuse et arrondie.",
+      "hymenium": "Tubes jusqu'à 1,5 cm de profondeur, de la couleur de la chair. Pores ronds à anguleux, 2–3 par mm, visibles à l'œil nu, orange vif à orange rougeâtre, ne changeant pas de couleur au froissement ; les jeunes fructifications peuvent exsuder des gouttelettes sur la surface poroïde. Chez les vieux exemplaires, la couche de tubes devient rouge sombre, dure et presque résineuse.",
+      "stipe": "Absent : la fructification est fixée largement par le côté, directement sur le bois.",
+      "flesh": "Épaisse, molle, spongieuse et fibreuse, gorgée d'eau à l'état frais ; jaune orangé à orange pâle, souvent zonée de bandes orange et brunâtres. En séchant, elle se rétracte fortement et devient dure et brunâtre. Odeur et saveur douces, sans particularité. Une goutte d'hydroxyde de potassium (KOH) colore instantanément toutes les parties en rouge cerise à violet pourpre.",
+      "sporePrint": "Blanche à paille pâle. Spores largement ellipsoïdes, lisses, hyalines et non amyloïdes, d'environ 4–7 × 3–4,5 µm selon les descriptions européennes ; des récoltes nord-américaines ont été décrites avec des spores atteignant 8 × 5 µm.",
+      "habitat": "Saprotrophe et parasite de faiblesse qui décompose le bois de cœur des vieux chênes à tronc épais (Quercus), plus rarement du châtaignier (Castanea) et, très rarement, d'autres feuillus. Les fructifications apparaissent sur les parties mortes d'arbres âgés vivants, dans les cavités et les blessures du tronc, à la base du tronc et sur les gros troncs tombés, dans les vieilles chênaies, les prés-bois, les parcs et les allées. Elles sont annuelles et apparaissent surtout de juillet à octobre, mais le mycélium peut vivre des décennies dans le même arbre : au Danemark, un individu fructifie depuis plus de 70 ans. L'espèce est présente dans l'Europe tempérée, dans l'est de l'Amérique du Nord et en Asie orientale, et elle est rare presque partout.",
+      "uses": "Non comestible. C'est une espèce emblématique de la conservation des vieux chênes, légalement protégée dans plusieurs pays, dont la Pologne, la Hongrie, la Suède, la Lettonie et l'Estonie ; il ne faut jamais la récolter ni l'endommager.",
+      "confusion": "Hapalopilus rutilans est bien plus commun, plus petit et d'un brun cannelle à ocre terne ; il pousse sur divers feuillus et vire lui aussi au violet avec le KOH. Pycnoporellus fulgens est également orange mais pousse sur les conifères. Pycnoporus cinnabarinus est plus mince, coriace et rouge cinabre, et sa chair noircit avec le KOH. Laetiporus sulphureus forme des touffes de consoles imbriquées à surface poroïde jaune soufre. Aurantiporus alborubescens est d'abord blanchâtre, rougit vite et pousse sur le hêtre.",
+      "notes": "Décrit pour la première fois par Christiaan Hendrik Persoon en 1796 sous le nom de Boletus croceus et transféré dans le genre Hapalopilus par Marinus Anton Donk en 1933 ; certaines listes utilisent encore le nom Aurantiporus croceus. La Liste rouge de l'UICN (2019) le classe Vulnérable, et il figure sur les listes rouges d'au moins 11 pays européens, comme en danger critique en Norvège, en Finlande, en Suède, au Danemark, en Allemagne, en Autriche, en Estonie et en Croatie. Depuis 2023, il est aussi inscrit au Livre rouge de la Fédération de Russie. Il a été le champignon de l'année 2016 en Autriche.",
+      "names": [],
+      "sourceUrls": [
+        "https://taxref.mnhn.fr/taxref-web/taxa/42664"
+      ],
+      "label": "polypore safran"
+    },
+    "he": {
+      "description": "פטרייה מדפית נדירה ובולטת מהסוג Hapalopilus, בעלת גופי פרי רכים, ספוגי מים, בצבע כתום־זעפרן עז. היא גורמת לריקבון לבן באלונים זקנים עבי גזע, ולעיתים נדירות הרבה יותר בערמונים אכילים, והיא מסווגת ברשימה האדומה של IUCN כפגיעה (Vulnerable), משום שהעצים הזקנים שהיא תלויה בהם הידלדלו מאוד.",
+      "cap": "מדף יושב, חצי־עגול, כלייתי או דמוי כרית, ברוחב 5–20 cm, בולט 3–10 cm מן העץ ובעובי 1–6 cm; על גזעים שנפלו הוא עשוי להתפשט חלקית על העץ עם שוליים מופנים כלפי מעלה. כתום־זעפרן עז עד צהוב־כתום, חום יותר לעבר נקודת ההיצמדות, ודוהה עם הגיל עד שגופי הפרי הזקנים נעשים חומחמים או אפרפרים עמומים. פני השטח לבידיים עדינים עד שעירים בצעירותם, ובהמשך כמעט חלקים, לא אחידים או מקומטים; השוליים קהים ומעוגלים.",
+      "hymenium": "צינוריות בעומק של עד 1.5 cm, בצבע הבשר. הנקבוביות עגולות עד זוויתיות, 2–3 לכל mm ונראות בעין בלתי מזוינת, כתומות עזות עד כתומות־אדמדמות, ואינן משנות צבע בלחיצה; גופי פרי צעירים עשויים להפריש טיפות על פני הנקבוביות. בגופי פרי זקנים שכבת הצינוריות נעשית אדמדמה כהה, קשה וכמעט שרפית.",
+      "stipe": "אין: גוף הפרי מחובר בצדו הרחב ישירות אל העץ.",
+      "flesh": "עבה, רך, ספוגי וסיבי, רווי מים כשהוא טרי; צהוב־כתום עד כתום חיוור, לעיתים קרובות מאוזר ברצועות כתומות וחומחמות. בייבוש הוא מתכווץ מאוד ונעשה קשה וחומחם. הריח והטעם עדינים ואינם אופייניים. טיפה של אשלגן הידרוקסידי (KOH) צובעת מיד את כל החלקים באדום דובדבן עד סגול ארגמני.",
+      "sporePrint": "לבן עד צבע קש חיוור. הנבגים אליפסואידיים רחבים, חלקים, חסרי צבע ולא עמילואידיים, כ־4–7 × 3–4.5 µm לפי תיאורים אירופיים; אוספים מצפון אמריקה תוארו עם נבגים של עד 8 × 5 µm.",
+      "habitat": "רקבובית וטפיל חלש המפרק את עצת הלב של אלונים זקנים עבי גזע (Quercus), לעיתים רחוקות יותר של ערמון אכיל (Castanea) ולעיתים נדירות מאוד של עצים רחבי עלים אחרים. גופי הפרי מופיעים על חלקים מתים של עצים זקנים חיים, בחללים ובפצעים בגזע, בבסיס הגזע ועל גזעים גדולים שנפלו, ביערות אלון עתיקים, באחו מיוער, בפארקים ובשדרות. הם חד־שנתיים ומופיעים בעיקר מיולי עד אוקטובר, אך התפטיר יכול לחיות עשרות שנים באותו עץ: בדנמרק פרט אחד מניב גופי פרי כבר יותר מ־70 שנה. המין נפוץ באירופה הממוזגת, במזרח צפון אמריקה ובמזרח אסיה, והוא נדיר כמעט בכל מקום.",
+      "uses": "אינה ראויה למאכל. זהו מין דגל לשימור אלונים זקנים, והוא מוגן בחוק בכמה מדינות, בהן פולין, הונגריה, שוודיה, לטביה ואסטוניה; אין לאסוף אותו או לפגוע בו לעולם.",
+      "confusion": "Hapalopilus rutilans נפוץ הרבה יותר, קטן יותר ובצבע חום־קינמון עד חום־אוכרה עמום, גדל על עצים רחבי עלים שונים וגם הוא מסגיל עם KOH. Pycnoporellus fulgens כתום גם הוא, אך גדל על מחטניים. Pycnoporus cinnabarinus דק יותר, קשיח ואדום צינבר, ובשרו משחיר עם KOH. Laetiporus sulphureus גדל בקבוצות של מדפים חופפים, עם משטח נקבוביות צהוב־גופרית. Aurantiporus alborubescens לבנבן בתחילה, מאדים במהרה וגדל על אשור.",
+      "notes": "תואר לראשונה בידי כריסטיאן הנדריק פרסון ב־1796 בשם Boletus croceus והועבר לסוג Hapalopilus בידי מרינוס אנטון דונק ב־1933; רשימות אחדות עדיין משתמשות בשם Aurantiporus croceus. הרשימה האדומה של IUCN (2019) מסווגת אותו כפגיע, והוא נכלל ברשימות האדומות של 11 מדינות אירופיות לפחות, כנמצא בסכנת הכחדה חמורה בנורווגיה, פינלנד, שוודיה, דנמרק, גרמניה, אוסטריה, אסטוניה וקרואטיה. מאז 2023 הוא רשום גם בספר האדום של הפדרציה הרוסית. ב־2016 הוא היה פטריית השנה באוסטריה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Hapalopilus वंश का एक दुर्लभ और आकर्षक ब्रैकेट कवक, जिसके फलनकाय मुलायम, पानी से भरे और चटक केसरिया-नारंगी होते हैं। यह पुराने, मोटे तने वाले बलूत (ओक) वृक्षों में और बहुत कम ही मीठे चेस्टनट वृक्षों में श्वेत सड़न पैदा करता है, और IUCN की लाल सूची में इसे संवेदनशील (Vulnerable) आँका गया है, क्योंकि जिन पुराने पेड़ों पर यह निर्भर है वे तेज़ी से घटे हैं।",
+      "cap": "अवृंत, अर्धवृत्ताकार, वृक्काकार या गद्दीनुमा ब्रैकेट, 5–20 cm चौड़ा, लकड़ी से 3–10 cm बाहर निकला हुआ और 1–6 cm मोटा; गिरे हुए तनों पर यह आंशिक रूप से लकड़ी पर फैल सकता है और उसका किनारा ऊपर मुड़ा रहता है। चटक केसरिया-नारंगी से पीला-नारंगी, जुड़ाव-स्थल की ओर अधिक भूरा, उम्र के साथ फीका पड़ता है, यहाँ तक कि पुराने फलनकाय धूमिल भूरे या धूसर हो जाते हैं। सतह युवावस्था में महीन नमदेदार से रोएँदार, बाद में लगभग चिकनी, ऊबड़-खाबड़ या झुर्रीदार; किनारा कुंद और गोलाकार।",
+      "hymenium": "नलिकाएँ 1.5 cm तक गहरी, गूदे के रंग की। छिद्र गोल से कोणीय, प्रति mm 2–3, नंगी आँख से दिखाई देने वाले, चटक नारंगी से लालिमायुक्त नारंगी, और दबाने पर रंग नहीं बदलते; युवा फलनकाय छिद्र-सतह पर बूँदें छोड़ सकते हैं। पुराने फलनकायों में नलिका-परत गहरी लालिमायुक्त, कठोर और लगभग रालदार हो जाती है।",
+      "stipe": "अनुपस्थित: फलनकाय अपनी चौड़ी बगल से सीधे लकड़ी से जुड़ा रहता है।",
+      "flesh": "मोटा, मुलायम, स्पंजी और रेशेदार, ताज़ा होने पर पानी से संतृप्त; पीला-नारंगी से हल्का नारंगी, अक्सर नारंगी और भूरी पट्टियों से क्षेत्रित। सूखने पर यह बहुत सिकुड़ जाता है और कठोर तथा भूरा हो जाता है। गंध और स्वाद हल्के, विशिष्ट नहीं। पोटैशियम हाइड्रॉक्साइड (KOH) की एक बूँद सभी भागों को तुरंत चेरी-लाल से बैंगनी-जामुनी कर देती है।",
+      "sporePrint": "सफ़ेद से हल्का भूसे जैसा। बीजाणु चौड़े दीर्घवृत्ताकार, चिकने, रंगहीन और अनएमिलॉइड, यूरोपीय विवरणों के अनुसार लगभग 4–7 × 3–4.5 µm; उत्तर अमेरिकी संग्रहों में 8 × 5 µm तक के बीजाणु बताए गए हैं।",
+      "habitat": "एक मृतोपजीवी और कमज़ोर परजीवी, जो पुराने, मोटे तने वाले बलूत (Quercus), कभी-कभी मीठे चेस्टनट (Castanea) और बहुत कम अन्य चौड़ी पत्ती वाले वृक्षों के अंतःकाष्ठ को सड़ाता है। फलनकाय जीवित पुराने पेड़ों के मृत हिस्सों पर, तने के खोखलों और घावों में, तने के आधार पर तथा बड़े गिरे हुए तनों पर, पुराने बलूत वनों, वृक्षयुक्त चरागाहों, पार्कों और वृक्ष-वीथियों में निकलते हैं। ये एकवर्षी होते हैं और मुख्यतः जुलाई से अक्टूबर तक दिखते हैं, पर कवकजाल उसी पेड़ में दशकों तक जीवित रह सकता है: डेनमार्क में एक व्यष्टि 70 से अधिक वर्षों से फलनकाय बना रहा है। यह समशीतोष्ण यूरोप, पूर्वी उत्तर अमेरिका और पूर्वी एशिया में पाया जाता है और लगभग हर जगह दुर्लभ है।",
+      "uses": "अखाद्य। यह पुराने बलूत वृक्षों के संरक्षण की ध्वजवाहक प्रजाति है और पोलैंड, हंगरी, स्वीडन, लातविया और एस्टोनिया सहित कई देशों में कानून द्वारा संरक्षित है; इसे कभी इकट्ठा या क्षतिग्रस्त नहीं करना चाहिए।",
+      "confusion": "Hapalopilus rutilans कहीं अधिक आम, छोटा और धूमिल दालचीनी से गेरुआ-भूरा होता है, विभिन्न चौड़ी पत्ती वाले वृक्षों पर उगता है और KOH से यह भी बैंगनी हो जाता है। Pycnoporellus fulgens भी नारंगी होता है पर शंकुधारी वृक्षों पर उगता है। Pycnoporus cinnabarinus पतला, सख़्त और सिंदूरी-लाल होता है, और उसका गूदा KOH से काला पड़ जाता है। Laetiporus sulphureus एक-दूसरे पर चढ़े ब्रैकेटों के गुच्छों में उगता है, जिनकी छिद्र-सतह गंधक-पीली होती है। Aurantiporus alborubescens पहले सफ़ेद-सा होता है, जल्दी लाल पड़ता है और बीच वृक्ष पर उगता है।",
+      "notes": "इसका पहला वर्णन क्रिस्टियान हेंड्रिक पर्सून ने 1796 में Boletus croceus नाम से किया, और मारिनुस आंतोन डोंक ने 1933 में इसे Hapalopilus वंश में स्थानांतरित किया; कुछ सूचियाँ अब भी Aurantiporus croceus नाम का प्रयोग करती हैं। IUCN की लाल सूची (2019) इसे संवेदनशील आँकती है, और यह कम से कम 11 यूरोपीय देशों की लाल सूचियों में शामिल है, नॉर्वे, फ़िनलैंड, स्वीडन, डेनमार्क, जर्मनी, ऑस्ट्रिया, एस्टोनिया और क्रोएशिया में गंभीर रूप से संकटग्रस्त के रूप में। 2023 से यह रूसी संघ की लाल पुस्तक में भी दर्ज है। 2016 में यह ऑस्ट्रिया का वर्ष का कवक था।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Rijetka, upadljiva gljiva stalak iz roda Hapalopilus s mekanim, vodom natopljenim, žarko šafranastonarančastim plodnim tijelima. Uzrokuje bijelu trulež u starim hrastovima debelih debala i mnogo rjeđe u pitomim kestenima, a na Crvenom popisu IUCN-a procijenjena je kao osjetljiva (Vulnerable) jer su stara stabla o kojima ovisi naglo prorijeđena.",
+      "cap": "Sjedeće, polukružno, bubrežasto ili jastučasto plodno tijelo, široko 5–20 cm, od drva istaknuto 3–10 cm i debelo 1–6 cm; na oborenim deblima može se djelomično rasprostrijeti po drvu s povijenim rubom. Žarko šafranastonarančasto do žutonarančasto, prema mjestu pričvršćenja smeđe, sa starošću blijedi dok stara plodna tijela ne postanu mutno smećkasta ili sivkasta. Površina je u mladosti fino pustenasta do dlakava, kasnije gotovo glatka, neravna ili naborana; rub je tup i zaobljen.",
+      "hymenium": "Cjevčice duge do 1,5 cm, boje mesa. Pore su okrugle do uglate, 2–3 na mm, vidljive golim okom, žarko narančaste do crvenkastonarančaste i ne mijenjaju boju na pritisak; mlada plodna tijela mogu na površini pora izlučivati kapljice. U starih plodnih tijela sloj cjevčica postaje tamnocrvenkast, tvrd i gotovo smolast.",
+      "stipe": "Nema ga: plodno tijelo širokim je bokom izravno pričvršćeno za drvo.",
+      "flesh": "Debelo, meko, spužvasto i vlaknasto, svježe natopljeno vodom; žutonarančasto do blijedonarančasto, često zonirano narančastim i smećkastim prugama. Sušenjem se jako steže te postaje tvrdo i smećkasto. Miris i okus blagi su i nisu karakteristični. Kap kalijeva hidroksida (KOH) trenutačno oboji sve dijelove trešnjastocrveno do purpurnoljubičasto.",
+      "sporePrint": "Bijeli do blijedo slamnat. Spore su široko elipsoidne, glatke, bezbojne i neamiloidne, prema europskim opisima oko 4–7 × 3–4,5 µm; sjevernoameričke zbirke opisane su sa sporama do 8 × 5 µm.",
+      "habitat": "Saprotrof i slabi parazit koji razgrađuje srževinu starih hrastova debelih debala (Quercus), rjeđe pitomog kestena (Castanea) i vrlo rijetko drugih listopadnih stabala. Plodna tijela pojavljuju se na mrtvim dijelovima živih starih stabala, u dupljama i ranama debla, pri dnu debla i na velikim oborenim deblima, u starim hrastovim šumama, šumskim pašnjacima, parkovima i drvoredima. Jednogodišnja su i javljaju se uglavnom od srpnja do listopada, ali micelij može desetljećima živjeti u istom stablu: u Danskoj jedna jedinka stvara plodna tijela više od 70 godina. Rasprostranjena je u umjerenom pojasu Europe, na istoku Sjeverne Amerike i u istočnoj Aziji te je gotovo posvuda rijetka.",
+      "uses": "Nejestiva. Vodeća je vrsta za zaštitu starih hrastova i zakonom je zaštićena u nekoliko zemalja, među njima u Poljskoj, Mađarskoj, Švedskoj, Latviji i Estoniji; nikada je ne treba sakupljati ni oštećivati.",
+      "confusion": "Hapalopilus rutilans mnogo je češći, manji i mutno cimetastosmeđ do okerastosmeđ, raste na raznim listopadnim stablima i s KOH također postaje ljubičast. Pycnoporellus fulgens također je narančast, ali raste na četinjačama. Pycnoporus cinnabarinus tanji je, žilav i cinoberastocrven, a meso mu s KOH pocrni. Laetiporus sulphureus raste u crjepasto preklopljenim skupinama konzola sa sumporastožutom površinom pora. Aurantiporus alborubescens u početku je bjelkast, ubrzo pocrveni i raste na bukvi.",
+      "notes": "Prvi ju je opisao Christiaan Hendrik Persoon 1796. kao Boletus croceus, a u rod Hapalopilus premjestio ju je Marinus Anton Donk 1933.; neki popisi još upotrebljavaju ime Aurantiporus croceus. Crveni popis IUCN-a (2019) procjenjuje je kao osjetljivu, a nalazi se na crvenim popisima najmanje 11 europskih zemalja, kao kritično ugrožena u Norveškoj, Finskoj, Švedskoj, Danskoj, Njemačkoj, Austriji, Estoniji i Hrvatskoj. Od 2023. upisana je i u Crvenu knjigu Ruske Federacije. Godine 2016. bila je gljiva godine u Austriji.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216"
+      ],
+      "label": "šafranasta mekoporka"
+    },
+    "hu": {
+      "description": "Ritka, feltűnő, a Hapalopilus nemzetségbe tartozó taplógomba puha, vízzel átitatott, élénk sáfránynarancs termőtestekkel. Fehérkorhadást okoz idős, vastag törzsű tölgyekben, sokkal ritkábban szelídgesztenyékben, és az IUCN vörös listáján sebezhető (Vulnerable) besorolású, mert az idős fák, amelyektől függ, erősen megfogyatkoztak.",
+      "cap": "Ülő, félkör, vese vagy párna alakú konzol, 5–20 cm széles, a fából 3–10 cm-re áll ki és 1–6 cm vastag; fekvő törzseken részben szétterülhet a fán, felhajló szegéllyel. Élénk sáfránynarancs vagy sárgásnarancs, a tapadási hely felé barnább, idővel kifakul, míg az idős termőtestek fakóbarnás vagy szürkés színűek lesznek. Felszíne fiatalon finoman nemezes vagy szőrös, később majdnem sima, egyenetlen vagy ráncos; széle tompa és lekerekedő.",
+      "hymenium": "A csövek legfeljebb 1,5 cm hosszúak, a hús színével azonosak. A pórusok kerekek vagy szögletesek, mm-enként 2–3, szabad szemmel is láthatók, élénk narancssárgák vagy vöröses narancssárgák, nyomásra nem színeződnek el; a fiatal termőtestek a pórusfelszínen cseppeket választhatnak ki. Az idős termőtestekben a csőréteg sötét vöröses, kemény és szinte gyantás lesz.",
+      "stipe": "Hiányzik: a termőtest széles oldalával közvetlenül a fához tapad.",
+      "flesh": "Vastag, puha, szivacsos és rostos, frissen vízzel telített; sárgásnarancs vagy halvány narancs, gyakran narancs és barnás sávokkal zónázott. Száradáskor erősen összezsugorodik, megkeményedik és megbarnul. Szaga és íze enyhe, nem jellegzetes. Egy csepp kálium-hidroxid (KOH) azonnal cseresznyepirosra vagy bíborlilára színezi minden részét.",
+      "sporePrint": "Fehér vagy halvány szalmaszínű. A spórák széles ellipszoidok, simák, színtelenek és nem amiloidok, az európai leírások szerint kb. 4–7 × 3–4,5 µm-esek; észak-amerikai gyűjtésekből legfeljebb 8 × 5 µm-es spórákat írtak le.",
+      "habitat": "Szaprotróf és gyengültségi parazita, amely idős, vastag törzsű tölgyek (Quercus) gesztjét bontja, ritkábban a szelídgesztenyéét (Castanea), és nagyon ritkán más lombos fákét. A termőtestek élő idős fák elhalt részein, törzsodvakban és sebekben, a törzs tövén és nagy fekvő törzseken jelennek meg, öreg tölgyesekben, fás legelőkön, parkokban és fasorokban. Egyévesek, és főként júliustól októberig jelennek meg, a micélium azonban évtizedekig élhet ugyanabban a fában: Dániában egy egyed már több mint 70 éve hoz termőtesteket. Előfordul Európa mérsékelt övében, Észak-Amerika keleti részén és Kelet-Ázsiában, és szinte mindenütt ritka.",
+      "uses": "Nem ehető. Az idős tölgyek védelmének zászlóshajó faja, és több országban törvény védi, többek között Lengyelországban, Magyarországon, Svédországban, Lettországban és Észtországban; soha nem szabad gyűjteni vagy megrongálni.",
+      "confusion": "A Hapalopilus rutilans sokkal gyakoribb, kisebb és fakó fahéj- vagy okkerbarna, különféle lombos fákon nő, és KOH-val szintén ibolyára színeződik. A Pycnoporellus fulgens szintén narancsszínű, de tűlevelű fákon nő. A Pycnoporus cinnabarinus vékonyabb, szívós és cinóbervörös, húsa KOH-val megfeketedik. A Laetiporus sulphureus egymásra boruló konzolok csoportjaiban nő, kénsárga pórusfelszínnel. Az Aurantiporus alborubescens eleinte fehéres, hamar pirosodik, és bükkön nő.",
+      "notes": "Christiaan Hendrik Persoon írta le először 1796-ban Boletus croceus néven, és Marinus Anton Donk helyezte át a Hapalopilus nemzetségbe 1933-ban; egyes fajlisták még az Aurantiporus croceus nevet használják. Az IUCN vörös listája (2019) sebezhetőnek értékeli, és legalább 11 európai ország vörös listáján szerepel, súlyosan veszélyeztetettként Norvégiában, Finnországban, Svédországban, Dániában, Németországban, Ausztriában, Észtországban és Horvátországban. 2023 óta az Oroszországi Föderáció Vörös Könyvében is szerepel. 2016-ban Ausztriában az év gombája volt.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Sáfrányszínű_likacsgomba"
+      ],
+      "label": "sáfrányszínű likacsgomba"
+    },
+    "id": {
+      "description": "Jamur kurung yang langka dan mencolok dari genus Hapalopilus, dengan tubuh buah yang lunak, jenuh air, dan berwarna jingga kunyit cerah. Jamur ini menyebabkan busuk putih pada pohon ek tua berbatang tebal dan, jauh lebih jarang, pada pohon kastanye manis, serta dinilai Rentan (Vulnerable) dalam Daftar Merah IUCN karena pohon-pohon tua tempatnya bergantung telah sangat berkurang.",
+      "cap": "Kurung tanpa tangkai, setengah lingkaran, berbentuk ginjal atau bantalan, lebar 5–20 cm, menjorok 3–10 cm dari kayu, dan tebal 1–6 cm; pada batang tumbang dapat sebagian menghampar di atas kayu dengan tepi yang terlipat ke atas. Jingga kunyit cerah hingga kuning jingga, lebih cokelat ke arah titik pelekatan, memudar seiring umur hingga tubuh buah tua menjadi kecokelatan atau keabu-abuan kusam. Permukaannya halus berbulu kempa hingga berambut ketika muda, kemudian hampir licin, tidak rata, atau berkerut; tepinya tumpul dan membulat.",
+      "hymenium": "Tabung sedalam hingga 1,5 cm, berwarna seperti dagingnya. Pori bulat hingga bersudut, 2–3 per mm, terlihat dengan mata telanjang, jingga cerah hingga jingga kemerahan, dan tidak berubah warna bila ditekan; tubuh buah muda dapat mengeluarkan tetesan di permukaan pori. Pada tubuh buah tua lapisan tabung menjadi kemerahan gelap, keras, dan hampir seperti damar.",
+      "stipe": "Tidak ada: tubuh buah melekat lebar dengan sisinya langsung pada kayu.",
+      "flesh": "Tebal, lunak, seperti spons dan berserat, jenuh air ketika segar; kuning jingga hingga jingga pucat, sering berzona dengan pita jingga dan kecokelatan. Saat mengering sangat menyusut serta menjadi keras dan kecokelatan. Bau dan rasanya lembut, tidak khas. Setetes kalium hidroksida (KOH) seketika mewarnai semua bagian menjadi merah ceri hingga ungu lembayung.",
+      "sporePrint": "Putih hingga kuning jerami pucat. Spora lebar elipsoid, halus, tak berwarna, dan tidak amiloid, sekitar 4–7 × 3–4,5 µm menurut deskripsi Eropa; koleksi dari Amerika Utara pernah dideskripsikan dengan spora hingga 8 × 5 µm.",
+      "habitat": "Saprotrof dan parasit lemah yang melapukkan kayu teras pohon ek tua berbatang tebal (Quercus), lebih jarang kastanye manis (Castanea), dan sangat jarang pohon berdaun lebar lainnya. Tubuh buah muncul pada bagian mati pohon tua yang masih hidup, di rongga dan luka batang, di pangkal batang, dan pada batang tumbang yang besar, di hutan ek tua, padang penggembalaan berpohon, taman, dan jalan berpohon. Tubuh buah bersifat semusim dan muncul terutama dari Juli hingga Oktober, tetapi miseliumnya dapat hidup puluhan tahun di pohon yang sama: di Denmark satu individu telah berbuah selama lebih dari 70 tahun. Spesies ini terdapat di Eropa beriklim sedang, Amerika Utara bagian timur, dan Asia Timur, dan langka hampir di mana-mana.",
+      "uses": "Tidak dapat dimakan. Jamur ini merupakan spesies unggulan untuk pelestarian pohon ek tua dan dilindungi undang-undang di beberapa negara, termasuk Polandia, Hungaria, Swedia, Latvia, dan Estonia; jamur ini tidak boleh dikumpulkan atau dirusak.",
+      "confusion": "Hapalopilus rutilans jauh lebih umum, lebih kecil, dan berwarna cokelat kayu manis hingga cokelat oker kusam, tumbuh pada berbagai pohon berdaun lebar, dan juga berubah ungu dengan KOH. Pycnoporellus fulgens juga jingga tetapi tumbuh pada konifer. Pycnoporus cinnabarinus lebih tipis, liat, dan merah sinabar, dan dagingnya menghitam dengan KOH. Laetiporus sulphureus tumbuh dalam kelompok kurung yang saling bertumpuk dengan permukaan pori kuning belerang. Aurantiporus alborubescens mula-mula keputihan, segera memerah, dan tumbuh pada pohon beech.",
+      "notes": "Pertama kali dideskripsikan oleh Christiaan Hendrik Persoon pada 1796 sebagai Boletus croceus dan dipindahkan ke genus Hapalopilus oleh Marinus Anton Donk pada 1933; beberapa daftar masih memakai nama Aurantiporus croceus. Daftar Merah IUCN (2019) menilainya Rentan, dan jamur ini tercantum dalam daftar merah sedikitnya 11 negara Eropa, sebagai Kritis di Norwegia, Finlandia, Swedia, Denmark, Jerman, Austria, Estonia, dan Kroasia. Sejak 2023 jamur ini juga tercantum dalam Buku Merah Federasi Rusia. Pada 2016 jamur ini dinobatkan sebagai jamur tahun itu di Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo a mensola raro e vistoso del genere Hapalopilus, con corpi fruttiferi molli, impregnati d'acqua, di un arancio zafferano brillante. Provoca una carie bianca nelle querce vecchie dal tronco grosso e, molto più raramente, nei castagni, ed è valutato Vulnerabile nella Lista Rossa IUCN perché gli alberi vetusti da cui dipende sono fortemente diminuiti.",
+      "cap": "Mensola sessile, semicircolare, reniforme o a cuscinetto, larga 5–20 cm, sporgente 3–10 cm dal legno e spessa 1–6 cm; sui tronchi caduti può essere in parte espansa sul legno con il bordo rivolto all'insù. Da arancio zafferano brillante a giallo-arancio, più bruna verso il punto di attacco, sbiadisce con l'età finché gli esemplari vecchi diventano brunastri o grigiastri opachi. La superficie è finemente feltrata o pelosa da giovane, poi quasi liscia, irregolare o rugosa; il margine è ottuso e arrotondato.",
+      "hymenium": "Tubuli profondi fino a 1,5 cm, dello stesso colore della carne. Pori da rotondi ad angolosi, 2–3 per mm, visibili a occhio nudo, da arancio brillante ad arancio rossastro, immutabili allo sfregamento; gli esemplari giovani possono essudare goccioline dalla superficie dei pori. Negli esemplari vecchi lo strato dei tubuli diventa rossastro scuro, duro e quasi resinoso.",
+      "stipe": "Assente: il corpo fruttifero è attaccato lateralmente e ampiamente direttamente al legno.",
+      "flesh": "Spessa, molle, spugnosa e fibrosa, impregnata d'acqua da fresca; da giallo-arancio ad arancio pallido, spesso zonata con bande arancioni e brunastre. Seccandosi si ritira molto e diventa dura e brunastra. Odore e sapore miti, non caratteristici. Una goccia di idrossido di potassio (KOH) colora istantaneamente tutte le parti di rosso ciliegia fino a viola porpora.",
+      "sporePrint": "Da bianca a paglierina pallida. Spore largamente ellissoidali, lisce, ialine e non amiloidi, di circa 4–7 × 3–4,5 µm secondo le descrizioni europee; raccolte nordamericane sono state descritte con spore fino a 8 × 5 µm.",
+      "habitat": "Saprotrofo e parassita di debolezza che decompone il durame di querce vecchie dal tronco grosso (Quercus), più raramente del castagno (Castanea) e, molto raramente, di altre latifoglie. I corpi fruttiferi compaiono su parti morte di alberi vetusti vivi, in cavità e ferite del tronco, alla base del tronco e su grossi tronchi caduti, in vecchi querceti, pascoli arborati, parchi e viali. Sono annuali e compaiono soprattutto da luglio a ottobre, ma il micelio può vivere per decenni nello stesso albero: in Danimarca un individuo fruttifica da oltre 70 anni. È presente nell'Europa temperata, nel Nord America orientale e nell'Asia orientale, ed è raro quasi ovunque.",
+      "uses": "Non commestibile. È una specie bandiera per la conservazione delle querce vetuste ed è protetto per legge in diversi paesi, tra cui Polonia, Ungheria, Svezia, Lettonia ed Estonia; non va mai raccolto né danneggiato.",
+      "confusion": "Hapalopilus rutilans è molto più comune, più piccolo e di colore da cannella a bruno ocra opaco, cresce su varie latifoglie e anch'esso diventa violetto con il KOH. Pycnoporellus fulgens è anch'esso arancione, ma cresce sulle conifere. Pycnoporus cinnabarinus è più sottile, coriaceo e rosso cinabro, e la sua carne annerisce con il KOH. Laetiporus sulphureus forma gruppi di mensole embricate con la superficie dei pori giallo zolfo. Aurantiporus alborubescens è dapprima biancastro, presto arrossa e cresce sul faggio.",
+      "notes": "Descritto per la prima volta da Christiaan Hendrik Persoon nel 1796 come Boletus croceus e trasferito nel genere Hapalopilus da Marinus Anton Donk nel 1933; alcune liste usano ancora il nome Aurantiporus croceus. La Lista Rossa IUCN (2019) lo valuta Vulnerabile ed è inserito nelle liste rosse di almeno 11 paesi europei, come in pericolo critico in Norvegia, Finlandia, Svezia, Danimarca, Germania, Austria, Estonia e Croazia. Dal 2023 è iscritto anche nel Libro Rosso della Federazione Russa. Nel 2016 è stato il fungo dell'anno in Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Hapalopilus属の稀で目立つ棚状のきのこで、子実体は柔らかく水を含み、鮮やかなサフラン橙色。太い幹をもつナラ類の老木に、またはるかに稀にヨーロッパグリに白色腐朽を起こす。依存する老齢木が大きく減少したため、IUCNレッドリストでは危急種（Vulnerable）と評価されている。",
+      "cap": "無柄で半円形、腎臓形またはクッション状の棚状で、幅5–20 cm、材から3–10 cm張り出し、厚さ1–6 cm。倒木上では一部が材の上に広がり、縁が反り返ることがある。鮮やかなサフラン橙色から黄橙色で、付着部に向かって褐色を帯び、古くなると色あせて、老成した子実体はくすんだ褐色または灰色になる。表面は若いうちは細かいフェルト状から毛状で、のちにほぼ平滑、でこぼこまたはしわ状になる。縁は鈍く丸い。",
+      "hymenium": "管孔は深さ1.5 cmまで、肉と同色。孔口は円形から角形で、mmあたり2–3個、肉眼で見え、鮮やかな橙色から赤みを帯びた橙色で、押しても変色しない。若い子実体は孔口面に水滴を分泌することがある。老成した子実体では管孔層が暗赤色を帯び、硬く、ほとんど樹脂状になる。",
+      "stipe": "ない。子実体は側面で広く直接材に付着する。",
+      "flesh": "厚く、柔らかく、海綿状で繊維質、新鮮なときは水を飽和している。黄橙色から淡橙色で、しばしば橙色と褐色の環紋がある。乾燥すると強く縮み、硬く褐色になる。におい・味は穏やかで特徴がない。水酸化カリウム（KOH）を一滴たらすと、すべての部分が直ちにサクランボ色の赤から紫紅色に変わる。",
+      "sporePrint": "白色から淡い麦わら色。胞子は広楕円形、平滑、無色、非アミロイドで、ヨーロッパの記載では約4–7 × 3–4.5 µm。北米の採集品では最大8 × 5 µmの胞子が記載されている。",
+      "habitat": "太い幹をもつナラ類（Quercus）の老木、より稀にヨーロッパグリ（Castanea）、ごく稀に他の広葉樹の心材を腐朽させる腐生菌で、弱い寄生菌でもある。子実体は生きている老木の枯れた部分、幹の洞や傷、幹の根元、大きな倒木に発生し、古いナラ林、樹木のある放牧地、公園や並木道に見られる。子実体は一年生で主に七月から十月に発生するが、菌糸体は同じ木の中で数十年生き続けることがあり、デンマークでは一個体が70年以上にわたり子実体を形成している。温帯ヨーロッパ、北米東部、東アジアに分布し、ほぼどこでも稀である。",
+      "uses": "食不適。老齢のナラ類の保全を象徴する種で、ポーランド、ハンガリー、スウェーデン、ラトビア、エストニアなど複数の国で法的に保護されている。決して採取したり傷つけたりしてはならない。",
+      "confusion": "Hapalopilus rutilansははるかに普通で小さく、くすんだ肉桂色から黄土褐色で、さまざまな広葉樹に発生し、KOHでやはり紫色に変わる。Pycnoporellus fulgensも橙色だが針葉樹に発生する。Pycnoporus cinnabarinusはより薄く強靭で辰砂色の赤で、肉はKOHで黒くなる。Laetiporus sulphureusは重なり合う棚状の群れをつくり、孔口面は硫黄色。Aurantiporus alborubescensは初め白っぽく、すぐに赤みを帯び、ブナに発生する。",
+      "notes": "1796年にChristiaan Hendrik PersoonがBoletus croceusとして初めて記載し、1933年にMarinus Anton DonkがHapalopilus属に移した。現在もAurantiporus croceusの名を用いる目録もある。IUCNレッドリスト（2019年）は危急種と評価しており、少なくとも11のヨーロッパ諸国のレッドリストに掲載され、ノルウェー、フィンランド、スウェーデン、デンマーク、ドイツ、オーストリア、エストニア、クロアチアでは深刻な危機（絶滅寸前）とされている。2023年からはロシア連邦レッドデータブックにも掲載されている。2016年にはオーストリアの「今年のきのこ」に選ばれた。",
+      "names": [],
+      "sourceUrls": [
+        "https://mycoscouter.coolblog.jp/daikinrin/Pages/Hapalopilus_croceus_445931.html",
+        "http://www.tokyokinoko.com/zukan/o/ookabotyatake.htm"
+      ],
+      "label": "オオカボチャタケ"
+    },
+    "ko": {
+      "description": "Hapalopilus속의 드물고 눈에 띄는 선반형 버섯으로, 자실체는 부드럽고 물을 머금었으며 선명한 사프란 주황색이다. 줄기가 굵은 참나무 노거수에, 훨씬 드물게는 유럽밤나무에 백색부후를 일으키며, 의존하는 노령목이 크게 줄었기 때문에 IUCN 적색목록에서 취약(Vulnerable)으로 평가된다.",
+      "cap": "자루가 없는 반원형, 콩팥형 또는 방석형 선반으로, 너비 5–20 cm, 나무에서 3–10 cm 돌출하며 두께 1–6 cm이다. 쓰러진 줄기에서는 일부가 나무 위로 퍼지고 가장자리가 위로 젖혀지기도 한다. 선명한 사프란 주황색에서 황주황색이며 부착점 쪽으로 갈수록 갈색을 띠고, 나이가 들면 색이 바래어 오래된 자실체는 칙칙한 갈색 또는 회색이 된다. 표면은 어릴 때 미세한 펠트상에서 털이 있으며, 나중에는 거의 매끄럽거나 울퉁불퉁하거나 주름진다. 가장자리는 뭉툭하고 둥글다.",
+      "hymenium": "관공은 깊이 1.5 cm까지이며 살과 같은 색이다. 구멍은 원형에서 각형으로 mm당 2–3개이고 맨눈으로 보이며, 선명한 주황색에서 붉은 주황색이고 눌러도 색이 변하지 않는다. 어린 자실체는 구멍 면에 물방울을 분비하기도 한다. 오래된 자실체에서는 관공층이 어두운 붉은색을 띠고 단단하며 거의 수지처럼 된다.",
+      "stipe": "없다. 자실체는 넓은 옆면으로 나무에 직접 붙는다.",
+      "flesh": "두껍고 부드러우며 해면질이고 섬유질이며, 신선할 때는 물로 포화되어 있다. 황주황색에서 연한 주황색이며 흔히 주황색과 갈색 띠의 환문이 있다. 마르면 크게 수축하여 단단하고 갈색이 된다. 냄새와 맛은 순하고 특징이 없다. 수산화칼륨(KOH)을 한 방울 떨어뜨리면 모든 부분이 즉시 체리색 빨강에서 자주색 보라로 변한다.",
+      "sporePrint": "흰색에서 연한 볏짚색. 포자는 넓은 타원형이고 매끄러우며 무색, 비아밀로이드이고, 유럽의 기재에 따르면 약 4–7 × 3–4.5 µm이다. 북미 채집품에서는 최대 8 × 5 µm의 포자가 기재되었다.",
+      "habitat": "줄기가 굵은 참나무 노거수(Quercus), 더 드물게 유럽밤나무(Castanea), 아주 드물게 다른 활엽수의 심재를 썩히는 부생균이자 약한 기생균이다. 자실체는 살아 있는 노거수의 죽은 부분, 줄기의 구멍과 상처, 줄기 밑동, 큰 쓰러진 줄기에 나며, 오래된 참나무 숲, 나무가 있는 방목지, 공원과 가로수길에서 볼 수 있다. 자실체는 일년생으로 주로 칠월부터 시월까지 나지만, 균사체는 같은 나무 속에서 수십 년 동안 살 수 있어 덴마크에서는 한 개체가 70년 넘게 자실체를 맺어 왔다. 온대 유럽, 북아메리카 동부, 동아시아에 분포하며 거의 모든 곳에서 드물다.",
+      "uses": "식용 불가. 참나무 노거수 보전의 깃대종으로, 폴란드, 헝가리, 스웨덴, 라트비아, 에스토니아를 비롯한 여러 나라에서 법으로 보호된다. 절대로 채집하거나 훼손해서는 안 된다.",
+      "confusion": "Hapalopilus rutilans는 훨씬 흔하고 작으며 칙칙한 계피색에서 황토 갈색이고, 여러 활엽수에 나며 KOH에 역시 보라색으로 변한다. Pycnoporellus fulgens도 주황색이지만 침엽수에 난다. Pycnoporus cinnabarinus는 더 얇고 질기며 진사색 빨강이고, 살은 KOH에 검게 변한다. Laetiporus sulphureus는 겹겹이 포개진 선반 무리를 이루며 구멍 면이 유황색이다. Aurantiporus alborubescens는 처음에는 희끄무레하다가 곧 붉어지며 너도밤나무에 난다.",
+      "notes": "1796년 Christiaan Hendrik Persoon이 Boletus croceus로 처음 기재했고, 1933년 Marinus Anton Donk가 Hapalopilus속으로 옮겼다. 일부 목록은 여전히 Aurantiporus croceus라는 이름을 쓴다. IUCN 적색목록(2019년)은 취약으로 평가하며, 적어도 11개 유럽 국가의 적색목록에 올라 있고, 노르웨이, 핀란드, 스웨덴, 덴마크, 독일, 오스트리아, 에스토니아, 크로아티아에서는 위급으로 분류된다. 2023년부터는 러시아 연방 적색자료집에도 등재되어 있다. 2016년에는 오스트리아의 올해의 버섯이었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Retas, krintantis į akis Hapalopilus genties kempininis grybas minkštais, vandeniu prisigėrusiais, ryškiai šafraniškai oranžiniais vaisiakūniais. Jis sukelia baltąjį puvinį senuose, storakamieniuose ąžuoluose ir daug rečiau valgomuosiuose kaštonuose, o IUCN Raudonajame sąraše įvertintas kaip pažeidžiamas (Vulnerable), nes senų medžių, nuo kurių jis priklauso, smarkiai sumažėjo.",
+      "cap": "Prisegtinis, pusapvalis, inkstiškas arba pagalvėlės pavidalo vaisiakūnis, 5–20 cm pločio, 3–10 cm atsikišęs nuo medienos ir 1–6 cm storio; ant nuvirtusių kamienų jis gali iš dalies pasklisti medienos paviršiumi atsilenkusiu kraštu. Ryškiai šafraniškai oranžinis iki gelsvai oranžinio, prie prisitvirtinimo vietos rudesnis, su amžiumi blunka, kol seni vaisiakūniai tampa blankiai rusvi ar pilkšvi. Paviršius jaunas smulkiai veltiniškas iki plaukuoto, vėliau beveik lygus, nelygus arba raukšlėtas; kraštas bukas ir suapvalintas.",
+      "hymenium": "Vamzdeliai iki 1,5 cm ilgio, minkštimo spalvos. Poros apvalios iki kampuotų, 2–3 viename mm, matomos plika akimi, ryškiai oranžinės iki rausvai oranžinių, paspaudus spalvos nekeičia; jauni vaisiakūniai poringame paviršiuje gali išskirti lašelių. Senų vaisiakūnių vamzdelių sluoksnis tampa tamsiai rausvas, kietas ir beveik sakingas.",
+      "stipe": "Nėra: vaisiakūnis plačiu šonu prisitvirtina tiesiai prie medienos.",
+      "flesh": "Storas, minkštas, kempiniškas ir pluoštiškas, šviežias prisigėręs vandens; gelsvai oranžinis iki šviesiai oranžinio, dažnai su oranžinėmis ir rusvomis zonomis. Džiūdamas stipriai susitraukia, sukietėja ir parusvėja. Kvapas ir skonis švelnūs, nebūdingi. Kalio hidroksido (KOH) lašas visas dalis akimirksniu nudažo vyšniškai raudonai iki purpuriškai violetinės spalvos.",
+      "sporePrint": "Baltos iki šviesiai šiaudinės spalvos. Sporos plačiai elipsoidinės, lygios, bespalvės ir neamiloidinės, pagal Europos aprašymus apie 4–7 × 3–4,5 µm; Šiaurės Amerikos rinkiniuose aprašytos sporos iki 8 × 5 µm.",
+      "habitat": "Saprotrofas ir silpnas parazitas, ardantis senų, storakamienių ąžuolų (Quercus) branduolinę medieną, rečiau valgomojo kaštono (Castanea) ir labai retai kitų lapuočių. Vaisiakūniai auga ant gyvų senų medžių negyvų dalių, kamienų drevėse ir žaizdose, kamieno apačioje bei ant didelių nuvirtusių kamienų senuose ąžuolynuose, ganomuose miškuose, parkuose ir alėjose. Jie vienmečiai ir pasirodo daugiausia nuo liepos iki spalio, tačiau grybiena tame pačiame medyje gali gyventi dešimtmečius: Danijoje vienas individas vaisiakūnius sudaro jau daugiau kaip 70 metų. Rūšis paplitusi vidutinio klimato Europoje, rytinėje Šiaurės Amerikoje ir Rytų Azijoje ir beveik visur yra reta.",
+      "uses": "Nevalgomas. Tai senų ąžuolų apsaugos pavyzdinė rūšis, įstatymais saugoma keliose šalyse, tarp jų Lenkijoje, Vengrijoje, Švedijoje, Latvijoje ir Estijoje; jo niekada negalima rinkti ar žaloti.",
+      "confusion": "Hapalopilus rutilans yra daug dažnesnis, mažesnis ir blankiai cinamono rudas iki ochrinio rudumo, auga ant įvairių lapuočių ir su KOH taip pat nusidažo violetiškai. Pycnoporellus fulgens irgi oranžinis, bet auga ant spygliuočių. Pycnoporus cinnabarinus plonesnis, kietas ir cinobro raudonumo, o jo minkštimas su KOH pajuoduoja. Laetiporus sulphureus auga čerpiškai susiklojusiomis vaisiakūnių grupėmis su sieros geltonumo poringu paviršiumi. Aurantiporus alborubescens iš pradžių balsvas, greitai parausta ir auga ant bukų.",
+      "notes": "Pirmą kartą jį 1796 m. aprašė Christiaan Hendrik Persoon kaip Boletus croceus, o 1933 m. Marinus Anton Donk perkėlė į Hapalopilus gentį; kai kuriuose sąrašuose vis dar vartojamas pavadinimas Aurantiporus croceus. IUCN Raudonasis sąrašas (2019) jį vertina kaip pažeidžiamą, ir jis įrašytas į mažiausiai 11 Europos šalių raudonuosius sąrašus, kaip kritiškai nykstantis Norvegijoje, Suomijoje, Švedijoje, Danijoje, Vokietijoje, Austrijoje, Estijoje ir Kroatijoje. Nuo 2023 m. jis įrašytas ir į Rusijos Federacijos Raudonąją knygą. 2016 m. jis buvo Austrijos metų grybas.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://lt.wikipedia.org/wiki/Krokinis_minkštenis"
+      ],
+      "label": "krokinis minkštenis"
+    },
+    "lv": {
+      "description": "Reta, uzkrītoša Hapalopilus ģints piepe ar mīkstiem, ūdens piesūktiem, spilgti safrāna oranžiem augļķermeņiem. Tā izraisa balto trupi vecos, resnstumbra ozolos un daudz retāk ēdamajās kastaņās, un IUCN Sarkanajā sarakstā tā novērtēta kā jutīga (Vulnerable), jo vecie koki, no kuriem tā ir atkarīga, ir strauji sarukuši.",
+      "cap": "Piesēdošs, pusapaļš, nierveida vai spilvenveida augļķermenis, 5–20 cm plats, no koksnes izvirzīts 3–10 cm un 1–6 cm biezs; uz kritušiem stumbriem tas var daļēji izplesties pa koksni ar atliektu malu. Spilgti safrāna oranžs līdz dzeltenoranžs, pie piestiprināšanās vietas brūnāks, ar vecumu izbalē, līdz vecie augļķermeņi kļūst blāvi brūngani vai pelēcīgi. Virsma jaunībā smalki filcaina līdz mataina, vēlāk gandrīz gluda, nelīdzena vai krunkaina; mala strupa un noapaļota.",
+      "hymenium": "Stobriņi līdz 1,5 cm gari, mīkstuma krāsā. Poras apaļas līdz stūrainas, 2–3 uz mm, saskatāmas ar neapbruņotu aci, spilgti oranžas līdz sarkanīgi oranžas, nospiežot krāsu nemaina; jauni augļķermeņi uz poru virsmas var izdalīt pilienus. Veciem augļķermeņiem stobriņu slānis kļūst tumši sarkanīgs, ciets un gandrīz sveķains.",
+      "stipe": "Nav: augļķermenis ar plašu sānu daļu piestiprinās tieši pie koksnes.",
+      "flesh": "Biezs, mīksts, sūklains un šķiedrains, svaigā stāvoklī ūdens piesūcies; dzeltenoranžs līdz bāli oranžs, bieži ar oranžām un brūnganām zonām. Žūstot tas stipri saraujas, kļūst ciets un brūngans. Smarža un garša maigas, neizteiktas. Kālija hidroksīda (KOH) piliens visas daļas uzreiz iekrāso ķiršu sarkanas līdz purpurvioletas.",
+      "sporePrint": "Balts līdz bāli salmu krāsas. Sporas plati elipsoidālas, gludas, bezkrāsainas un neamiloīdas, pēc Eiropas aprakstiem apmēram 4–7 × 3–4,5 µm; Ziemeļamerikas vākumi aprakstīti ar sporām līdz 8 × 5 µm.",
+      "habitat": "Saprotrofs un vājuma parazīts, kas sadala vecu, resnstumbra ozolu (Quercus) kodolkoksni, retāk ēdamās kastaņas (Castanea) un ļoti reti citu lapu koku koksni. Augļķermeņi veidojas uz dzīvu vecu koku atmirušajām daļām, stumbra dobumos un brūcēs, stumbra pamatnē un uz lieliem kritušiem stumbriem vecos ozolu mežos, ganītos mežos, parkos un alejās. Tie ir viengadīgi un parādās galvenokārt no jūlija līdz oktobrim, taču micēlijs tajā pašā kokā var dzīvot gadu desmitiem: Dānijā viens indivīds veido augļķermeņus jau vairāk nekā 70 gadus. Suga sastopama Eiropas mērenajā joslā, Ziemeļamerikas austrumos un Austrumāzijā, un gandrīz visur tā ir reta.",
+      "uses": "Neēdama. Tā ir vecu ozolu aizsardzības karogsuga un ir aizsargāta ar likumu vairākās valstīs, tostarp Polijā, Ungārijā, Zviedrijā, Latvijā un Igaunijā; to nekad nedrīkst vākt vai bojāt.",
+      "confusion": "Hapalopilus rutilans ir daudz biežāka, mazāka un blāvi kanēļbrūna līdz okerbrūna, aug uz dažādiem lapu kokiem un ar KOH arī iekrāsojas violeti. Pycnoporellus fulgens arī ir oranža, bet aug uz skujkokiem. Pycnoporus cinnabarinus ir plānāka, stingra un cinobra sarkana, un tās mīkstums ar KOH kļūst melns. Laetiporus sulphureus aug dakstiņveidā pārklājošās augļķermeņu grupās ar sēra dzeltenu poru virsmu. Aurantiporus alborubescens sākumā ir bālgana, drīz kļūst sarkanīga un aug uz dižskābarža.",
+      "notes": "Pirmo reizi to aprakstīja Christiaan Hendrik Persoon 1796. gadā kā Boletus croceus, un Marinus Anton Donk 1933. gadā to pārcēla uz Hapalopilus ģinti; daži saraksti joprojām lieto nosaukumu Aurantiporus croceus. IUCN Sarkanais saraksts (2019) to novērtē kā jutīgu, un tā iekļauta vismaz 11 Eiropas valstu sarkanajos sarakstos, kā kritiski apdraudēta Norvēģijā, Somijā, Zviedrijā, Dānijā, Vācijā, Austrijā, Igaunijā un Horvātijā. Kopš 2023. gada tā iekļauta arī Krievijas Federācijas Sarkanajā grāmatā. 2016. gadā tā bija Austrijas gada sēne.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://sarkanagramata.lu.lv/suga/kosa-zeltpore/"
+      ],
+      "label": "košā zeltpore"
+    },
+    "nl": {
+      "description": "Een zeldzame, opvallende consolezwam uit het geslacht Hapalopilus met zachte, met water doordrenkte, felle saffraanoranje vruchtlichamen. Hij veroorzaakt witrot in oude, dikstammige eiken en veel zeldzamer in tamme kastanjes, en staat op de Rode Lijst van de IUCN als kwetsbaar (Vulnerable) omdat de oude bomen waarvan hij afhankelijk is sterk zijn afgenomen.",
+      "cap": "Zittende, halfronde, niervormige of kussenvormige console, 5–20 cm breed, 3–10 cm uitstekend uit het hout en 1–6 cm dik; op liggende stammen kan hij deels over het hout uitgespreid zijn met een omgeslagen rand. Fel saffraanoranje tot geeloranje, naar de aanhechting toe bruiner, met de leeftijd verblekend tot oude vruchtlichamen dof bruinachtig of grijsachtig zijn. Het oppervlak is jong fijn viltig tot behaard, later bijna glad, oneffen of gerimpeld; de rand is stomp en afgerond.",
+      "hymenium": "Buisjes tot 1,5 cm diep, gekleurd als het vlees. De poriën zijn rond tot hoekig, 2–3 per mm en met het blote oog zichtbaar, fel oranje tot roodachtig oranje, en verkleuren niet bij kneuzing; jonge vruchtlichamen kunnen druppels afscheiden op het poriënoppervlak. Bij oude vruchtlichamen wordt de buisjeslaag donker roodachtig, hard en bijna harsachtig.",
+      "stipe": "Afwezig: het vruchtlichaam is breed met de zijkant direct aan het hout vastgehecht.",
+      "flesh": "Dik, zacht, sponsachtig en vezelig, vers met water verzadigd; geeloranje tot bleek oranje, vaak gezoneerd met oranje en bruinachtige banden. Bij het drogen krimpt het sterk en wordt het hard en bruinachtig. Geur en smaak zijn mild en niet kenmerkend. Een druppel kaliloog (KOH) kleurt alle delen direct kersrood tot purperviolet.",
+      "sporePrint": "Wit tot bleek strokleurig. De sporen zijn breed ellipsoïde, glad, kleurloos en inamyloïde, volgens Europese beschrijvingen ongeveer 4–7 × 3–4,5 µm; Noord-Amerikaanse collecties zijn beschreven met sporen tot 8 × 5 µm.",
+      "habitat": "Een saprotroof en zwakteparasiet die het kernhout van oude, dikstammige eiken (Quercus) afbreekt, zeldzamer van tamme kastanje (Castanea) en zeer zelden van andere loofbomen. De vruchtlichamen verschijnen op dode delen van levende oude bomen, in stamholten en wonden, aan de stamvoet en op grote liggende stammen, in oude eikenbossen, boomweiden, parken en lanen. Ze zijn eenjarig en verschijnen vooral van juli tot oktober, maar het mycelium kan tientallen jaren in dezelfde boom leven: in Denemarken vormt één individu al meer dan 70 jaar vruchtlichamen. De soort komt voor in gematigd Europa, in het oosten van Noord-Amerika en in Oost-Azië, en is bijna overal zeldzaam.",
+      "uses": "Oneetbaar. Hij is een vlaggenschipsoort voor de bescherming van oude eiken en is in verschillende landen wettelijk beschermd, waaronder Polen, Hongarije, Zweden, Letland en Estland; hij mag nooit worden verzameld of beschadigd.",
+      "confusion": "Hapalopilus rutilans is veel algemener, kleiner en dof kaneel- tot okerbruin, groeit op allerlei loofbomen en kleurt eveneens violet met KOH. Pycnoporellus fulgens is ook oranje, maar groeit op naaldbomen. Pycnoporus cinnabarinus is dunner, taai en cinnaberrood, en zijn vlees wordt zwart met KOH. Laetiporus sulphureus groeit in dakpansgewijze groepen consoles met een zwavelgeel poriënoppervlak. Aurantiporus alborubescens is eerst witachtig, wordt snel rood en groeit op beuk.",
+      "notes": "Voor het eerst beschreven door Christiaan Hendrik Persoon in 1796 als Boletus croceus en in 1933 door Marinus Anton Donk overgebracht naar het geslacht Hapalopilus; sommige soortenlijsten gebruiken nog de naam Aurantiporus croceus. De Rode Lijst van de IUCN (2019) beoordeelt hem als kwetsbaar, en hij staat op de rode lijsten van ten minste 11 Europese landen, als ernstig bedreigd in Noorwegen, Finland, Zweden, Denemarken, Duitsland, Oostenrijk, Estland en Kroatië. Sinds 2023 staat hij ook in het Rode Boek van de Russische Federatie. In 2016 was hij in Oostenrijk paddenstoel van het jaar.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://natuurdata.inbo.be/bie-hub/species/2548619"
+      ],
+      "label": "prachthoutzwam"
+    },
+    "no": {
+      "description": "En sjelden, iøynefallende konsollsopp i slekten Hapalopilus med myke, vanndrukne, klart safranoransje fruktlegemer. Den forårsaker hvitråte i gamle, grove eiker og langt sjeldnere i edelkastanje, og den er vurdert som sårbar (Vulnerable) på IUCNs rødliste fordi de gamle trærne den er avhengig av, har gått sterkt tilbake.",
+      "cap": "Sittende, halvsirkelformet, nyreformet eller puteformet konsoll, 5–20 cm bred, 3–10 cm utstående fra veden og 1–6 cm tykk; på liggende stammer kan den delvis være utbredt over veden med en oppbøyd kant. Klart safranoransje til gul-oransje, brunere mot festet, bleknende med alderen til gamle fruktlegemer er matt brunlige eller gråaktige. Overflaten er som ung fint filtet til håret, senere nesten glatt, ujevn eller rynkete; kanten er butt og avrundet.",
+      "hymenium": "Rør opptil 1,5 cm lange, farget som kjøttet. Porene er runde til kantete, 2–3 per mm og synlige for det blotte øye, klart oransje til rødlig oransje, og de skifter ikke farge ved trykk; unge fruktlegemer kan skille ut dråper på poreoverflaten. Hos gamle fruktlegemer blir rørlaget mørkt rødlig, hardt og nesten harpiksaktig.",
+      "stipe": "Mangler: fruktlegemet er bredt festet med siden direkte til veden.",
+      "flesh": "Tykt, mykt, svampaktig og trådet, friskt mettet med vann; gul-oransje til blekt oransje, ofte sonert med oransje og brunlige bånd. Ved tørking krymper det kraftig og blir hardt og brunlig. Lukt og smak er milde og ukarakteristiske. En dråpe kaliumhydroksid (KOH) farger straks alle deler kirsebærrøde til purpurfiolette.",
+      "sporePrint": "Hvitt til blekt halmfarget. Sporene er bredt ellipsoide, glatte, fargeløse og inamyloide, ifølge europeiske beskrivelser omkring 4–7 × 3–4,5 µm; nordamerikanske innsamlinger er beskrevet med sporer opptil 8 × 5 µm.",
+      "habitat": "En saprotrof og svakhetsparasitt som bryter ned kjerneveden i gamle, grove eiker (Quercus), sjeldnere edelkastanje (Castanea) og svært sjelden andre løvtrær. Fruktlegemene kommer fram på døde deler av levende gamle trær, i stammehulrom og sår, ved stammefoten og på store liggende stammer, i gamle eikeskoger, beiteskoger, parker og alleer. De er ettårige og vises særlig fra juli til oktober, men myceliet kan leve i tiår i det samme treet: i Danmark har ett individ dannet fruktlegemer i mer enn 70 år. Arten forekommer i det tempererte Europa, i det østlige Nord-Amerika og i Øst-Asia og er sjelden nesten overalt.",
+      "uses": "Uspiselig. Den er en flaggskipart for bevaring av gamle eiker og er lovbeskyttet i flere land, blant annet Polen, Ungarn, Sverige, Latvia og Estland; den må aldri samles inn eller skades.",
+      "confusion": "Hapalopilus rutilans er mye vanligere, mindre og matt kanel- til okerbrun, vokser på ulike løvtrær og farges også fiolett av KOH. Pycnoporellus fulgens er også oransje, men vokser på bartrær. Pycnoporus cinnabarinus er tynnere, seig og sinoberrød, og kjøttet blir svart av KOH. Laetiporus sulphureus vokser i taklagte grupper av konsoller med svovelgul poreoverflate. Aurantiporus alborubescens er først hvitaktig, blir snart rødlig og vokser på bøk.",
+      "notes": "Først beskrevet av Christiaan Hendrik Persoon i 1796 som Boletus croceus og overført til slekten Hapalopilus av Marinus Anton Donk i 1933; enkelte artslister bruker fortsatt navnet Aurantiporus croceus. IUCNs rødliste (2019) vurderer den som sårbar, og den er rødlistet i minst 11 europeiske land, som kritisk truet i Norge, Finland, Sverige, Danmark, Tyskland, Østerrike, Estland og Kroatia. Siden 2023 har den også stått i Den russiske føderasjonens røde bok. I 2016 ble den kåret til årets sopp i Østerrike.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://www.wikidata.org/wiki/Q10659979"
+      ],
+      "label": "safrankjuke"
+    },
+    "pl": {
+      "description": "Rzadki, okazały grzyb nadrzewny z rodzaju Hapalopilus o miękkich, nasiąkniętych wodą, jaskrawo szafranowopomarańczowych owocnikach. Wywołuje białą zgniliznę starych, grubych dębów, a znacznie rzadziej kasztanów jadalnych; na Czerwonej liście IUCN ma status gatunku narażonego, ponieważ liczba starych drzew, od których zależy, gwałtownie zmalała.",
+      "cap": "Siedzący, półkolisty, nerkowaty lub poduszkowaty owocnik o szerokości 5–20 cm, odstający od drewna na 3–10 cm i gruby na 1–6 cm; na leżących pniach bywa częściowo rozpostarty na drewnie z odgiętym brzegiem. Jaskrawo szafranowopomarańczowy do żółtopomarańczowego, ku nasadzie bardziej brązowy, z wiekiem blednie, aż stare owocniki stają się matowo brązowawe lub szarawe. Powierzchnia za młodu delikatnie filcowata do owłosionej, później niemal gładka, nierówna lub pomarszczona; brzeg tępy i zaokrąglony.",
+      "hymenium": "Rurki do 1,5 cm długości, w kolorze miąższu. Pory okrągłe do kanciastych, 2–3 na mm, widoczne gołym okiem, jaskrawopomarańczowe do czerwonawopomarańczowych, nie zmieniają barwy po uciśnięciu; młode owocniki mogą wydzielać krople na powierzchni porów. W starych owocnikach warstwa rurek staje się ciemnoczerwonawa, twarda i niemal żywiczna.",
+      "stipe": "Brak: owocnik przyrasta szeroko bokiem bezpośrednio do drewna.",
+      "flesh": "Gruby, miękki, gąbczasty i włóknisty, na świeżo nasiąknięty wodą; żółtopomarańczowy do bladopomarańczowego, często strefowany pomarańczowymi i brązowawymi pasami. Podczas suszenia silnie się kurczy, twardnieje i brązowieje. Zapach i smak łagodne, nieswoiste. Kropla wodorotlenku potasu (KOH) natychmiast barwi wszystkie części na kolor wiśniowoczerwony do purpurowofioletowego.",
+      "sporePrint": "Biały do bladosłomkowego. Zarodniki szeroko elipsoidalne, gładkie, bezbarwne i nieamyloidalne, według opisów europejskich około 4–7 × 3–4,5 µm; okazy z Ameryki Północnej opisywano z zarodnikami do 8 × 5 µm.",
+      "habitat": "Saprotrof i słaby pasożyt rozkładający twardziel starych, grubych dębów (Quercus), rzadziej kasztana jadalnego (Castanea), a bardzo rzadko innych drzew liściastych. Owocniki pojawiają się na obumarłych częściach żywych starych drzew, w dziuplach i ranach pnia, u podstawy pnia oraz na dużych leżących pniach, w starych dąbrowach, na pastwiskach leśnych, w parkach i alejach. Są jednoroczne i pojawiają się głównie od lipca do października, lecz grzybnia może żyć w tym samym drzewie przez dziesięciolecia: w Danii jeden osobnik owocnikuje od ponad 70 lat. Występuje w strefie umiarkowanej Europy, we wschodniej części Ameryki Północnej i we wschodniej Azji i niemal wszędzie jest rzadki.",
+      "uses": "Niejadalny. Jest gatunkiem sztandarowym ochrony starych dębów i podlega ochronie prawnej w kilku krajach, m.in. w Polsce, na Węgrzech, w Szwecji, na Łotwie i w Estonii; nigdy nie należy go zbierać ani uszkadzać.",
+      "confusion": "Hapalopilus rutilans jest znacznie pospolitszy, mniejszy i matowo cynamonowy do ochrowobrązowego, rośnie na różnych drzewach liściastych i również barwi się fioletowo pod wpływem KOH. Pycnoporellus fulgens także jest pomarańczowy, ale rośnie na drzewach iglastych. Pycnoporus cinnabarinus jest cieńszy, twardy i cynobrowoczerwony, a jego miąższ czernieje pod wpływem KOH. Laetiporus sulphureus tworzy dachówkowato ułożone skupienia owocników o siarkowożółtej powierzchni porów. Aurantiporus alborubescens jest początkowo białawy, szybko czerwienieje i rośnie na buku.",
+      "notes": "Po raz pierwszy opisał go Christiaan Hendrik Persoon w 1796 roku jako Boletus croceus, a do rodzaju Hapalopilus przeniósł go Marinus Anton Donk w 1933 roku; niektóre wykazy nadal używają nazwy Aurantiporus croceus. Czerwona lista IUCN (2019) klasyfikuje go jako gatunek narażony, a co najmniej 11 krajów europejskich umieszcza go na swoich czerwonych listach, jako krytycznie zagrożony w Norwegii, Finlandii, Szwecji, Danii, Niemczech, Austrii, Estonii i Chorwacji. Od 2023 roku figuruje także w Czerwonej księdze Federacji Rosyjskiej. W 2016 roku był w Austrii grzybem roku.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://pl.wikipedia.org/wiki/Miękusz_szafranowy",
+        "https://grzyby.pl/gatunki/Hapalopilus_croceus.htm"
+      ],
+      "label": "miękusz szafranowy"
+    },
+    "pt": {
+      "description": "Um fungo-orelha raro e vistoso do gênero Hapalopilus, com corpos de frutificação macios, encharcados de água e de cor laranja-açafrão viva. Causa podridão branca em carvalhos velhos de tronco grosso e, muito mais raramente, em castanheiros, e é avaliado como Vulnerável na Lista Vermelha da UICN porque as árvores velhas de que depende diminuíram acentuadamente.",
+      "cap": "Consola séssil, semicircular, reniforme ou em forma de almofada, com 5–20 cm de largura, projetando-se 3–10 cm da madeira e com 1–6 cm de espessura; em troncos caídos pode estender-se em parte sobre a madeira com a borda revirada. De laranja-açafrão vivo a amarelo-alaranjado, mais marrom perto do ponto de fixação, desbota com a idade até os exemplares velhos ficarem marrom-opacos ou acinzentados. A superfície é finamente feltrada a pilosa quando jovem, depois quase lisa, irregular ou enrugada; a margem é obtusa e arredondada.",
+      "hymenium": "Tubos com até 1,5 cm de profundidade, da cor da carne. Poros redondos a angulosos, 2–3 por mm, visíveis a olho nu, de laranja vivo a laranja-avermelhado, sem mudar de cor ao serem tocados; exemplares jovens podem exsudar gotas na superfície dos poros. Nos exemplares velhos a camada de tubos fica vermelho-escura, dura e quase resinosa.",
+      "stipe": "Ausente: o corpo de frutificação prende-se amplamente pela lateral diretamente à madeira.",
+      "flesh": "Espessa, macia, esponjosa e fibrosa, encharcada de água quando fresca; de amarelo-alaranjado a laranja-pálido, frequentemente zonada com faixas laranja e amarronzadas. Ao secar, contrai-se muito e fica dura e amarronzada. Odor e sabor suaves, pouco característicos. Uma gota de hidróxido de potássio (KOH) tinge instantaneamente todas as partes de vermelho-cereja a violeta-púrpura.",
+      "sporePrint": "Branca a palha-pálida. Esporos largamente elipsoides, lisos, hialinos e não amiloides, com cerca de 4–7 × 3–4,5 µm segundo as descrições europeias; coletas norte-americanas foram descritas com esporos de até 8 × 5 µm.",
+      "habitat": "Sapróbio e parasita fraco que decompõe o cerne de carvalhos velhos de tronco grosso (Quercus), mais raramente do castanheiro (Castanea) e, muito raramente, de outras árvores folhosas. Os corpos de frutificação surgem em partes mortas de árvores velhas vivas, em cavidades e ferimentos do tronco, na base do tronco e em grandes troncos caídos, em antigos carvalhais, pastagens arborizadas, parques e alamedas. São anuais e aparecem sobretudo de julho a outubro, mas o micélio pode viver por décadas na mesma árvore: na Dinamarca, um indivíduo frutifica há mais de 70 anos. Ocorre na Europa temperada, no leste da América do Norte e no leste da Ásia, e é raro em quase toda parte.",
+      "uses": "Não comestível. É uma espécie-bandeira da conservação de carvalhos velhos e é protegido por lei em vários países, entre eles Polônia, Hungria, Suécia, Letônia e Estônia; nunca deve ser coletado nem danificado.",
+      "confusion": "Hapalopilus rutilans é muito mais comum, menor e de cor canela a marrom-ocre opaco, cresce em diversas árvores folhosas e também fica violeta com KOH. Pycnoporellus fulgens também é laranja, mas cresce em coníferas. Pycnoporus cinnabarinus é mais fino, coriáceo e vermelho-cinábrio, e sua carne escurece até ficar preta com KOH. Laetiporus sulphureus forma grupos de consolas sobrepostas com a superfície dos poros amarelo-enxofre. Aurantiporus alborubescens é esbranquiçado no início, logo avermelha e cresce em faia.",
+      "notes": "Descrito pela primeira vez por Christiaan Hendrik Persoon em 1796 como Boletus croceus e transferido para o gênero Hapalopilus por Marinus Anton Donk em 1933; algumas listas ainda usam o nome Aurantiporus croceus. A Lista Vermelha da UICN (2019) o avalia como Vulnerável, e ele consta das listas vermelhas de pelo menos 11 países europeus, como criticamente em perigo na Noruega, Finlândia, Suécia, Dinamarca, Alemanha, Áustria, Estônia e Croácia. Desde 2023 consta também do Livro Vermelho da Federação Russa. Foi o cogumelo do ano de 2016 na Áustria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă lignicolă rară și bătătoare la ochi din genul Hapalopilus, cu corpuri fructifere moi, îmbibate cu apă, de un portocaliu-șofran viu. Produce putregai alb în stejari bătrâni cu trunchi gros și, mult mai rar, în castani comestibili, și este evaluată ca Vulnerabilă pe Lista Roșie IUCN deoarece arborii bătrâni de care depinde s-au împuținat drastic.",
+      "cap": "Consolă sesilă, semicirculară, reniformă sau în formă de pernuță, lată de 5–20 cm, proeminentă 3–10 cm față de lemn și groasă de 1–6 cm; pe trunchiurile căzute se poate întinde parțial pe lemn, cu marginea răsfrântă. Portocaliu-șofran viu până la galben-portocaliu, mai brună spre punctul de prindere, se decolorează cu vârsta până când exemplarele bătrâne devin brunii sau cenușii mate. Suprafața este fin pâsloasă până la păroasă la tinerețe, apoi aproape netedă, denivelată sau zbârcită; marginea este obtuză și rotunjită.",
+      "hymenium": "Tuburi de până la 1,5 cm adâncime, de culoarea cărnii. Porii sunt rotunzi până la unghiulari, 2–3 pe mm, vizibili cu ochiul liber, portocaliu viu până la portocaliu-roșiatic, și nu își schimbă culoarea la apăsare; exemplarele tinere pot exsuda picături pe suprafața porilor. La exemplarele bătrâne stratul de tuburi devine roșiatic închis, tare și aproape rășinos.",
+      "stipe": "Absent: corpul fructifer este prins larg, lateral, direct de lemn.",
+      "flesh": "Groasă, moale, spongioasă și fibroasă, îmbibată cu apă în stare proaspătă; galben-portocalie până la portocaliu pal, adesea zonată cu benzi portocalii și brunii. La uscare se contractă puternic și devine tare și brunie. Mirosul și gustul sunt slabe, necaracteristice. O picătură de hidroxid de potasiu (KOH) colorează instantaneu toate părțile în roșu-cireașă până la violet-purpuriu.",
+      "sporePrint": "Albă până la pai pal. Sporii sunt larg elipsoidali, netezi, hialini și neamiloizi, de circa 4–7 × 3–4,5 µm după descrierile europene; colecții nord-americane au fost descrise cu spori de până la 8 × 5 µm.",
+      "habitat": "Saprotrof și parazit de slăbiciune care descompune duramenul stejarilor bătrâni cu trunchi gros (Quercus), mai rar al castanului comestibil (Castanea) și foarte rar al altor foioase. Corpurile fructifere apar pe părțile moarte ale arborilor bătrâni vii, în scorburile și rănile trunchiului, la baza trunchiului și pe trunchiuri mari căzute, în păduri vechi de stejar, pășuni împădurite, parcuri și alei. Sunt anuale și apar mai ales din iulie până în octombrie, dar miceliul poate trăi decenii în același arbore: în Danemarca un individ fructifică de peste 70 de ani. Specia este prezentă în Europa temperată, în estul Americii de Nord și în Asia de Est și este rară aproape peste tot.",
+      "uses": "Necomestibilă. Este o specie emblematică pentru conservarea stejarilor bătrâni și este protejată prin lege în mai multe țări, printre care Polonia, Ungaria, Suedia, Letonia și Estonia; nu trebuie niciodată culeasă sau deteriorată.",
+      "confusion": "Hapalopilus rutilans este mult mai comun, mai mic și de un brun-scorțișoară până la brun-ocru mat, crește pe diverse foioase și se colorează de asemenea violet cu KOH. Pycnoporellus fulgens este tot portocaliu, dar crește pe conifere. Pycnoporus cinnabarinus este mai subțire, tenace și roșu-cinabru, iar carnea lui se înnegrește cu KOH. Laetiporus sulphureus crește în grupuri de console suprapuse, cu suprafața porilor galben-sulf. Aurantiporus alborubescens este la început albicios, se înroșește curând și crește pe fag.",
+      "notes": "Descrisă pentru prima dată de Christiaan Hendrik Persoon în 1796 ca Boletus croceus și transferată în genul Hapalopilus de Marinus Anton Donk în 1933; unele liste folosesc încă numele Aurantiporus croceus. Lista Roșie IUCN (2019) o evaluează ca Vulnerabilă și figurează pe listele roșii a cel puțin 11 țări europene, ca critic periclitată în Norvegia, Finlanda, Suedia, Danemarca, Germania, Austria, Estonia și Croația. Din 2023 este inclusă și în Cartea Roșie a Federației Ruse. În 2016 a fost ciuperca anului în Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Редкий, бросающийся в глаза трутовик из рода Hapalopilus с мягкими, пропитанными водой, ярко-шафранно-оранжевыми плодовыми телами. Вызывает белую гниль старых толстоствольных дубов и гораздо реже каштанов посевных; в Красном списке IUCN оценён как уязвимый (Vulnerable), поскольку старых деревьев, от которых он зависит, стало резко меньше.",
+      "cap": "Сидячее, полукруглое, почковидное или подушковидное плодовое тело шириной 5–20 cm, выступающее от древесины на 3–10 cm и толщиной 1–6 cm; на упавших стволах может быть частично распростёртым по древесине с отогнутым краем. Ярко-шафранно-оранжевое до жёлто-оранжевого, к месту прикрепления более бурое, с возрастом выцветает, пока старые плодовые тела не становятся тускло-буроватыми или сероватыми. Поверхность в молодости тонковойлочная до волосистой, позже почти гладкая, неровная или морщинистая; край тупой, закруглённый.",
+      "hymenium": "Трубочки длиной до 1,5 cm, цвета мякоти. Поры округлые до угловатых, 2–3 на mm, заметны невооружённым глазом, ярко-оранжевые до красновато-оранжевых, при надавливании не меняют цвет; молодые плодовые тела могут выделять капли на поверхности пор. У старых плодовых тел трубчатый слой становится тёмно-красноватым, твёрдым и почти смолистым.",
+      "stipe": "Отсутствует: плодовое тело широко прирастает боком непосредственно к древесине.",
+      "flesh": "Толстая, мягкая, губчатая и волокнистая, в свежем виде пропитана водой; жёлто-оранжевая до бледно-оранжевой, часто зональная, с оранжевыми и буроватыми полосами. При высыхании сильно сжимается, твердеет и буреет. Запах и вкус мягкие, невыразительные. Капля гидроксида калия (KOH) мгновенно окрашивает все части в вишнёво-красный до пурпурно-фиолетового цвет.",
+      "sporePrint": "Белый до бледно-соломенного. Споры широкоэллипсоидные, гладкие, бесцветные и неамилоидные, по европейским описаниям около 4–7 × 3–4,5 µm; у североамериканских сборов описаны споры до 8 × 5 µm.",
+      "habitat": "Сапротроф и слабый паразит, разрушающий ядровую древесину старых толстоствольных дубов (Quercus), реже каштана посевного (Castanea) и очень редко других лиственных деревьев. Плодовые тела появляются на отмерших частях живых старых деревьев, в дуплах и ранах ствола, у основания ствола и на крупных упавших стволах, в старых дубравах, лесопастбищах, парках и аллеях. Они однолетние и появляются главным образом с июля по октябрь, но мицелий может жить в одном и том же дереве десятилетиями: в Дании одна особь образует плодовые тела уже более 70 лет. Вид встречается в умеренной Европе, на востоке Северной Америки и в Восточной Азии и почти везде редок.",
+      "uses": "Несъедобен. Это флагманский вид охраны старых дубов, охраняемый законом в ряде стран, в том числе в Польше, Венгрии, Швеции, Латвии и Эстонии; его ни в коем случае нельзя собирать или повреждать.",
+      "confusion": "Hapalopilus rutilans встречается гораздо чаще, мельче и тускло-коричный до охристо-бурого, растёт на разных лиственных деревьях и от KOH тоже окрашивается в фиолетовый цвет. Pycnoporellus fulgens тоже оранжевый, но растёт на хвойных. Pycnoporus cinnabarinus тоньше, жёсткий и киноварно-красный, а его мякоть от KOH чернеет. Laetiporus sulphureus растёт черепитчатыми группами плодовых тел с серно-жёлтой поверхностью пор. Aurantiporus alborubescens сначала беловатый, вскоре краснеет и растёт на буке.",
+      "notes": "Впервые описан Христианом Хендриком Персоном в 1796 году как Boletus croceus и перенесён в род Hapalopilus Маринусом Антоном Донком в 1933 году; в некоторых списках до сих пор используется название Aurantiporus croceus. Красный список IUCN (2019) оценивает его как уязвимый; он включён в красные списки не менее 11 европейских стран, как находящийся на грани исчезновения — в Норвегии, Финляндии, Швеции, Дании, Германии, Австрии, Эстонии и Хорватии. С 2023 года он также занесён в Красную книгу Российской Федерации. В 2016 году он был грибом года в Австрии.",
+      "names": [
+        "гапалопилус шафранный"
+      ],
+      "sourceUrls": [
+        "https://rpn.gov.ru/upload/iblock/64a/7sdj3u08spvp5e2g4zo9sm0dq8qc1j26/Prikaz_320.pdf",
+        "https://redbookspb.eco-lo.ru/gapalopilus-shafrannyj/"
+      ],
+      "label": "аурантипорус шафранно-жёлтый"
+    },
+    "sk": {
+      "description": "Vzácna, nápadná konzolovitá huba z rodu Hapalopilus s mäkkými, vodou nasiaknutými, žiarivo šafranovooranžovými plodnicami. Spôsobuje bielu hnilobu starých hrubokmenných dubov a oveľa zriedkavejšie gaštanov jedlých; v Červenom zozname IUCN je hodnotená ako zraniteľná, pretože staré stromy, na ktoré je odkázaná, prudko ubudli.",
+      "cap": "Prisadnutá, polkruhovitá, obličkovitá alebo vankúšovitá konzola široká 5–20 cm, od dreva odstávajúca 3–10 cm a hrubá 1–6 cm; na spadnutých kmeňoch môže byť čiastočne rozliata po dreve s odstávajúcim okrajom. Žiarivo šafranovooranžová až žltooranžová, smerom k miestu prirastenia hnedšia, s vekom bledne, až staré plodnice sú matne hnedasté alebo sivasté. Povrch je v mladosti jemne plstnatý až chlpatý, neskôr takmer hladký, hrboľatý alebo zvráskavený; okraj je tupý a zaoblený.",
+      "hymenium": "Rúrky do hĺbky 1,5 cm, sfarbené ako dužina. Póry okrúhle až hranaté, 2–3 na mm, viditeľné voľným okom, žiarivo oranžové až červenooranžové, po otlačení nemenia farbu; mladé plodnice môžu na pórovom povrchu vylučovať kvapky. V starých plodniciach sa pórová vrstva stáva tmavočervenkastou, tvrdou a takmer živicovitou.",
+      "stipe": "Chýba: plodnica prirastá širokou bočnou časťou priamo k drevu.",
+      "flesh": "Hrubá, mäkká, hubovitá a vláknitá, v čerstvom stave nasiaknutá vodou; žltooranžová až bledooranžová, často pásikovaná oranžovými a hnedastými zónami. Pri sušení sa silno zmršťuje, tvrdne a hnedne. Vôňa a chuť sú mierne, nevýrazné. Kvapka hydroxidu draselného (KOH) okamžite sfarbí všetky časti čerešňovočervene až purpurovofialovo.",
+      "sporePrint": "Biely až bledoslamovožltý. Výtrusy široko elipsoidné, hladké, bezfarebné a neamyloidné, podľa európskych opisov približne 4–7 × 3–4,5 µm; severoamerické zbery boli opísané s výtrusmi do 8 × 5 µm.",
+      "habitat": "Saprotrof a slabý parazit, ktorý rozkladá jadrové drevo starých hrubokmenných dubov (Quercus), zriedkavejšie gaštana jedlého (Castanea) a veľmi zriedka iných listnatých stromov. Plodnice vyrastajú na odumretých častiach živých starých stromov, v dutinách a ranách kmeňa, pri báze kmeňa a na veľkých spadnutých kmeňoch, v starých dubových lesoch, na pasienkoch so starými stromami, v parkoch a alejách. Sú jednoročné a objavujú sa najmä od júla do októbra, mycélium však môže v tom istom strome žiť desaťročia: v Dánsku jeden jedinec prináša plodnice už viac ako 70 rokov. Vyskytuje sa v miernom pásme Európy, na východe Severnej Ameriky a vo východnej Ázii a takmer všade je vzácny.",
+      "uses": "Nejedlá. Je vlajkovým druhom ochrany starých dubov a v niekoľkých krajinách vrátane Poľska, Maďarska, Švédska, Lotyšska a Estónska je zákonom chránená; nikdy ju nezbierajte ani nepoškodzujte.",
+      "confusion": "Hapalopilus rutilans je oveľa hojnejší, menší a matne škoricovo až okrovo hnedý, rastie na rôznych listnatých stromoch a s KOH sa tiež farbí fialovo. Pycnoporellus fulgens je tiež oranžový, ale rastie na ihličnanoch. Pycnoporus cinnabarinus je tenší, tuhý a rumelkovočervený a jeho dužina s KOH sčernie. Laetiporus sulphureus rastie v strechovito usporiadaných trsoch konzol so sírovožltým pórovým povrchom. Aurantiporus alborubescens je spočiatku belavý, čoskoro červenie a rastie na buku.",
+      "notes": "Prvýkrát ju opísal Christiaan Hendrik Persoon v roku 1796 ako Boletus croceus a do rodu Hapalopilus ju preradil Marinus Anton Donk v roku 1933; niektoré zoznamy stále používajú meno Aurantiporus croceus. Červený zoznam IUCN (2019) ju hodnotí ako zraniteľnú a je zaradená do červených zoznamov najmenej 11 európskych krajín, ako kriticky ohrozená v Nórsku, Fínsku, Švédsku, Dánsku, Nemecku, Rakúsku, Estónsku a Chorvátsku. Od roku 2023 je zapísaná aj v Červenej knihe Ruskej federácie. V roku 2016 bola v Rakúsku hubou roka.",
+      "names": [],
+      "sourceUrls": [
+        "https://beliana.sav.sk/heslo/hlinovec",
+        "https://www.iucnredlist.org/species/58521209/58521216"
+      ],
+      "label": "hlinovec šafranový"
+    },
+    "sl": {
+      "description": "Redka, opazna lesna goba iz rodu Hapalopilus z mehkimi, z vodo prepojenimi, živo žafranasto oranžnimi trosnjaki. Povzroča belo trohnobo v starih debelih hrastih in veliko redkeje v pravem kostanju, na Rdečem seznamu IUCN pa je ocenjena kot ranljiva (Vulnerable), ker so stara drevesa, od katerih je odvisna, močno upadla.",
+      "cap": "Sedeč, polkrožen, ledvičast ali blazinast trosnjak, širok 5–20 cm, od lesa štrleč 3–10 cm in debel 1–6 cm; na podrtih deblih se lahko delno razprostira po lesu z zavihanim robom. Živo žafranasto oranžen do rumenooranžen, proti pritrdišču bolj rjav, s starostjo bledi, dokler stari trosnjaki niso motno rjavkasti ali sivkasti. Površina je v mladosti drobno polstena do dlakava, pozneje skoraj gladka, neravna ali nagubana; rob je top in zaobljen.",
+      "hymenium": "Cevke do 1,5 cm dolge, barve mesa. Luknjice so okrogle do oglate, 2–3 na mm, vidne s prostim očesom, živo oranžne do rdečkasto oranžne in ob pritisku ne spremenijo barve; mladi trosnjaki lahko na površini luknjic izločajo kapljice. Pri starih trosnjakih postane plast cevk temno rdečkasta, trda in skoraj smolnata.",
+      "stipe": "Ni ga: trosnjak je s široko stranjo pritrjen neposredno na les.",
+      "flesh": "Debelo, mehko, gobasto in vlaknato, sveže prepojeno z vodo; rumenooranžno do bledo oranžno, pogosto pasasto z oranžnimi in rjavkastimi progami. Pri sušenju se močno skrči ter postane trdo in rjavkasto. Vonj in okus sta blaga in nista značilna. Kaplja kalijevega hidroksida (KOH) takoj obarva vse dele češnjevo rdeče do škrlatno vijolično.",
+      "sporePrint": "Bel do bledo slamnat. Trosi so široko elipsoidni, gladki, brezbarvni in neamiloidni, po evropskih opisih približno 4–7 × 3–4,5 µm; severnoameriške nabirke so opisane s trosi do 8 × 5 µm.",
+      "habitat": "Saprotrof in šibkostni zajedavec, ki razkraja jedrovino starih debelih hrastov (Quercus), redkeje pravega kostanja (Castanea) in zelo redko drugih listavcev. Trosnjaki rastejo na odmrlih delih živih starih dreves, v duplih in ranah debla, ob vznožju debla in na velikih podrtih deblih, v starih hrastovih gozdovih, na gozdnih pašnikih, v parkih in drevoredih. So enoletni in se pojavljajo predvsem od julija do oktobra, podgobje pa lahko v istem drevesu živi desetletja: na Danskem en osebek tvori trosnjake že več kot 70 let. Razširjena je v zmernem pasu Evrope, na vzhodu Severne Amerike in v vzhodni Aziji ter je skoraj povsod redka.",
+      "uses": "Neužitna. Je vodilna vrsta za varstvo starih hrastov in je z zakonom zavarovana v več državah, med drugim na Poljskem, Madžarskem, Švedskem, v Latviji in Estoniji; nikoli je ne nabirajte ali poškodujte.",
+      "confusion": "Hapalopilus rutilans je veliko pogostejši, manjši in motno cimetasto do okrasto rjav, raste na različnih listavcih in se s KOH prav tako obarva vijolično. Pycnoporellus fulgens je prav tako oranžen, vendar raste na iglavcih. Pycnoporus cinnabarinus je tanjši, žilav in cinobrasto rdeč, njegovo meso pa s KOH počrni. Laetiporus sulphureus raste v strehasto prekrivajočih se skupinah konzol z žveplenorumeno površino luknjic. Aurantiporus alborubescens je sprva belkast, kmalu pordeči in raste na bukvi.",
+      "notes": "Prvi jo je opisal Christiaan Hendrik Persoon leta 1796 kot Boletus croceus, v rod Hapalopilus pa jo je leta 1933 prestavil Marinus Anton Donk; nekateri seznami še vedno uporabljajo ime Aurantiporus croceus. Rdeči seznam IUCN (2019) jo ocenjuje kot ranljivo, uvrščena pa je na rdeče sezname vsaj 11 evropskih držav, kot skrajno ogrožena na Norveškem, Finskem, Švedskem, Danskem, v Nemčiji, Avstriji, Estoniji in na Hrvaškem. Od leta 2023 je vpisana tudi v Rdečo knjigo Ruske federacije. Leta 2016 je bila v Avstriji goba leta.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gobe.si/Gobe/HapalopilusCroceus"
+      ],
+      "label": "žafranasti mehkopor"
+    },
+    "sr": {
+      "description": "Ретка, упадљива гљива из рода Hapalopilus са меким, водом натопљеним, јарко шафранастонаранџастим плодоносним телима у облику конзоле. Изазива белу трулеж у старим храстовима дебелог стабла и много ређе у питомом кестену, а на Црвеној листи IUCN процењена је као рањива (Vulnerable) јер су стара стабла од којих зависи нагло проређена.",
+      "cap": "Седеће, полукружно, бубрежасто или јастучасто плодоносно тело, широко 5–20 cm, од дрвета истурено 3–10 cm и дебело 1–6 cm; на обореним стаблима може се делимично раширити по дрвету с повијеном ивицом. Јарко шафранастонаранџасто до жутонаранџасто, према месту причвршћења смеђе, са старошћу бледи док стара плодоносна тела не постану мутно смеђкаста или сивкаста. Површина је у младости фино пустенаста до длакава, касније готово глатка, неравна или наборана; ивица је тупа и заобљена.",
+      "hymenium": "Цевчице дуге до 1,5 cm, боје меса. Поре су округле до угласте, 2–3 на mm, видљиве голим оком, јарко наранџасте до црвенкастонаранџасте и не мењају боју на притисак; млада плодоносна тела могу на површини пора излучивати капљице. Код старих плодоносних тела слој цевчица постаје тамноцрвенкаст, тврд и готово смоласт.",
+      "stipe": "Нема је: плодоносно тело је широким бочним делом причвршћено непосредно за дрво.",
+      "flesh": "Дебело, меко, сунђерасто и влакнасто, свеже натопљено водом; жутонаранџасто до бледонаранџасто, често зонирано наранџастим и смеђкастим пругама. Сушењем се јако скупља и постаје тврдо и смеђкасто. Мирис и укус су благи и нису карактеристични. Кап калијум-хидроксида (KOH) тренутно обоји све делове трешњастоцрвено до пурпурнољубичасто.",
+      "sporePrint": "Бео до бледо сламаст. Споре су широко елипсоидне, глатке, безбојне и неамилоидне, према европским описима око 4–7 × 3–4,5 µm; северноамеричке збирке описане су са спорама до 8 × 5 µm.",
+      "habitat": "Сапротроф и слаби паразит који разграђује срж старих храстова дебелог стабла (Quercus), ређе питомог кестена (Castanea) и врло ретко других листопадних стабала. Плодоносна тела појављују се на мртвим деловима живих старих стабала, у дупљама и ранама стабла, у дну стабла и на великим обореним стаблима, у старим храстовим шумама, шумским пашњацима, парковима и дрворедима. Једногодишња су и јављају се углавном од јула до октобра, али мицелијум може деценијама живети у истом стаблу: у Данској једна јединка образује плодоносна тела више од 70 година. Распрострањена је у умереном појасу Европе, на истоку Северне Америке и у источној Азији и готово свуда је ретка.",
+      "uses": "Нејестива. Водећа је врста за заштиту старих храстова и законом је заштићена у неколико земаља, међу њима у Пољској, Мађарској, Шведској, Летонији и Естонији; никада је не треба сакупљати нити оштећивати.",
+      "confusion": "Hapalopilus rutilans је много чешћи, мањи и мутно циметастосмеђ до окерсмеђ, расте на разним листопадним стаблима и са KOH такође постаје љубичаст. Pycnoporellus fulgens је такође наранџаст, али расте на четинарима. Pycnoporus cinnabarinus је тањи, жилав и цинобарноцрвен, а месо му са KOH поцрни. Laetiporus sulphureus расте у цреполико преклопљеним групама конзола са сумпорножутом површином пора. Aurantiporus alborubescens је у почетку беличаст, убрзо поцрвени и расте на букви.",
+      "notes": "Први ју је описао Кристијан Хендрик Персон 1796. као Boletus croceus, а у род Hapalopilus преместио ју је Маринус Антон Донк 1933; неки спискови и даље користе име Aurantiporus croceus. Црвена листа IUCN (2019) процењује је као рањиву, а налази се на црвеним листама најмање 11 европских земаља, као крајње угрожена у Норвешкој, Финској, Шведској, Данској, Немачкој, Аустрији, Естонији и Хрватској. Од 2023. уписана је и у Црвену књигу Руске Федерације. Године 2016. била је гљива године у Аустрији.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En sällsynt, iögonfallande konsolsvamp i släktet Hapalopilus med mjuka, vattendränkta, klart saffransorange fruktkroppar. Den orsakar vitröta i gamla, grova ekar och betydligt mer sällan i äkta kastanj, och den bedöms som sårbar (Vulnerable) på IUCN:s rödlista eftersom de gamla träd den är beroende av har minskat kraftigt.",
+      "cap": "Sittande, halvcirkelformad, njurformad eller kuddformad konsol, 5–20 cm bred, 3–10 cm utstående från veden och 1–6 cm tjock; på liggande stammar kan den delvis vara utbredd över veden med en uppvikt kant. Klart saffransorange till gulorange, brunare mot fästet, bleknar med åldern tills gamla fruktkroppar är matt brunaktiga eller gråaktiga. Ytan är som ung fint filtad till hårig, senare nästan slät, ojämn eller skrynklig; kanten är trubbig och rundad.",
+      "hymenium": "Rör upp till 1,5 cm långa, färgade som köttet. Porerna är runda till kantiga, 2–3 per mm och synliga för blotta ögat, klart orange till rödaktigt orange, och de ändrar inte färg vid tryck; unga fruktkroppar kan avsöndra droppar på porytan. Hos gamla fruktkroppar blir rörlagret mörkt rödaktigt, hårt och nästan kådaktigt.",
+      "stipe": "Saknas: fruktkroppen är brett fäst med sidan direkt mot veden.",
+      "flesh": "Tjockt, mjukt, svampigt och trådigt, färskt mättat med vatten; gulorange till blekt orange, ofta zonerat med orange och brunaktiga band. Vid torkning krymper det kraftigt och blir hårt och brunaktigt. Lukt och smak är milda och okarakteristiska. En droppe kaliumhydroxid (KOH) färgar genast alla delar körsbärsröda till purpurvioletta.",
+      "sporePrint": "Vitt till blekt halmfärgat. Sporerna är brett ellipsoida, släta, färglösa och inamyloida, enligt europeiska beskrivningar ungefär 4–7 × 3–4,5 µm; nordamerikanska insamlingar har beskrivits med sporer upp till 8 × 5 µm.",
+      "habitat": "En saprotrof och svaghetsparasit som bryter ned kärnveden i gamla, grova ekar (Quercus), mer sällan äkta kastanj (Castanea) och mycket sällan andra lövträd. Fruktkropparna kommer fram på döda delar av levande gamla träd, i stamhåligheter och sår, vid stambasen och på stora liggande stammar, i gamla ekskogar, hagmarker, parker och alléer. De är ettåriga och syns främst från juli till oktober, men myceliet kan leva i årtionden i samma träd: i Danmark har en individ bildat fruktkroppar i mer än 70 år. Arten förekommer i det tempererade Europa, i östra Nordamerika och i Östasien och är sällsynt nästan överallt.",
+      "uses": "Oätlig. Den är en signalart för bevarandet av gamla ekar och är lagskyddad i flera länder, bland annat Polen, Ungern, Sverige, Lettland och Estland; den får aldrig samlas in eller skadas.",
+      "confusion": "Hapalopilus rutilans är mycket vanligare, mindre och matt kanel- till ockrabrun, växer på olika lövträd och färgas också violett av KOH. Pycnoporellus fulgens är också orange men växer på barrträd. Pycnoporus cinnabarinus är tunnare, seg och cinnoberröd, och dess kött blir svart av KOH. Laetiporus sulphureus växer i taklagda grupper av konsoler med svavelgul poryta. Aurantiporus alborubescens är först vitaktig, rodnar snart och växer på bok.",
+      "notes": "Först beskriven av Christiaan Hendrik Persoon 1796 som Boletus croceus och förd till släktet Hapalopilus av Marinus Anton Donk 1933; vissa artlistor använder fortfarande namnet Aurantiporus croceus. IUCN:s rödlista (2019) bedömer den som sårbar, och den är rödlistad i minst 11 europeiska länder, som akut hotad i Norge, Finland, Sverige, Danmark, Tyskland, Österrike, Estland och Kroatien. Sedan 2023 finns den också upptagen i Ryska federationens röda bok. År 2016 utsågs den till årets svamp i Österrike.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58521209/58521216",
+        "https://sv.wikipedia.org/wiki/Saffransticka"
+      ],
+      "label": "saffransticka"
+    },
+    "tr": {
+      "description": "Hapalopilus cinsine ait, yumuşak, suya doymuş, parlak safran turuncusu meyve gövdeleri olan nadir ve göze çarpan bir raf mantarı. Yaşlı, kalın gövdeli meşelerde ve çok daha seyrek olarak kestanelerde beyaz çürüklüğe yol açar; bağlı olduğu yaşlı ağaçlar büyük ölçüde azaldığı için IUCN Kırmızı Listesi'nde Hassas (Vulnerable) olarak değerlendirilir.",
+      "cap": "Sapsız, yarım daire, böbrek ya da yastık biçiminde, 5–20 cm genişliğinde, odundan 3–10 cm dışarı taşan ve 1–6 cm kalınlığında bir raf; devrilmiş gövdelerde kısmen odun üzerine yayılabilir ve kenarı yukarı kıvrılır. Parlak safran turuncusundan sarımsı turuncuya, bağlanma noktasına doğru daha kahverengi; yaşla birlikte solar ve yaşlı meyve gövdeleri donuk kahverengimsi ya da grimsi olur. Yüzey gençken ince keçemsi ile tüylü arası, sonra neredeyse düz, engebeli ya da buruşuk; kenar küt ve yuvarlaktır.",
+      "hymenium": "Tüpler 1,5 cm'ye kadar derin, et renginde. Gözenekler yuvarlaktan köşeliye, mm başına 2–3, çıplak gözle görülebilir, parlak turuncudan kırmızımsı turuncuya; bastırıldığında renk değiştirmez. Genç meyve gövdeleri gözenek yüzeyinden damlacıklar salgılayabilir. Yaşlı meyve gövdelerinde tüp tabakası koyu kırmızımsı, sert ve neredeyse reçinemsi olur.",
+      "stipe": "Yoktur: meyve gövdesi geniş bir yan kısmıyla doğrudan oduna tutunur.",
+      "flesh": "Kalın, yumuşak, süngerimsi ve lifli, tazeyken suya doymuş; sarımsı turuncudan soluk turuncuya, çoğu zaman turuncu ve kahverengimsi bantlarla kuşaklı. Kururken çok büzülür, sertleşir ve kahverengileşir. Kokusu ve tadı hafif, ayırt edici değildir. Bir damla potasyum hidroksit (KOH) tüm kısımları anında kiraz kırmızısından mor menekşeye boyar.",
+      "sporePrint": "Beyazdan soluk saman rengine. Sporlar geniş elipsoit, düz, renksiz ve amiloit olmayan, Avrupa tanımlarına göre yaklaşık 4–7 × 3–4,5 µm; Kuzey Amerika örneklerinde 8 × 5 µm'ye kadar sporlar tanımlanmıştır.",
+      "habitat": "Yaşlı, kalın gövdeli meşelerin (Quercus), daha seyrek olarak kestanenin (Castanea) ve çok nadiren başka yapraklı ağaçların öz odununu çürüten bir saprotrof ve zayıf parazit. Meyve gövdeleri yaşayan yaşlı ağaçların ölü kısımlarında, gövde kovuklarında ve yaralarında, gövde dibinde ve büyük devrik gövdelerde; eski meşe ormanlarında, ağaçlı meralarda, parklarda ve yol kenarı ağaç dizilerinde çıkar. Tek yıllıktırlar ve özellikle temmuzdan ekime kadar görülürler, ancak miselyum aynı ağaçta onlarca yıl yaşayabilir: Danimarka'da bir birey 70 yılı aşkın süredir meyve gövdesi vermektedir. Ilıman Avrupa'da, Kuzey Amerika'nın doğusunda ve Doğu Asya'da bulunur ve neredeyse her yerde nadirdir.",
+      "uses": "Yenmez. Yaşlı meşelerin korunmasında amiral tür sayılır ve Polonya, Macaristan, İsveç, Letonya ve Estonya dahil birçok ülkede yasal olarak korunur; asla toplanmamalı ve zarar verilmemelidir.",
+      "confusion": "Hapalopilus rutilans çok daha yaygın, daha küçük ve donuk tarçın ile koyu sarı kahverengi arasıdır, çeşitli yapraklı ağaçlarda yetişir ve KOH ile o da mora boyanır. Pycnoporellus fulgens de turuncudur ama iğne yapraklı ağaçlarda yetişir. Pycnoporus cinnabarinus daha ince, sert ve zincifre kırmızısıdır, eti KOH ile kararır. Laetiporus sulphureus üst üste binen raf grupları hâlinde yetişir ve gözenek yüzeyi kükürt sarısıdır. Aurantiporus alborubescens önce beyazımsıdır, kısa sürede kızarır ve kayın üzerinde yetişir.",
+      "notes": "İlk kez 1796'da Christiaan Hendrik Persoon tarafından Boletus croceus adıyla tanımlanmış ve 1933'te Marinus Anton Donk tarafından Hapalopilus cinsine aktarılmıştır; bazı listeler hâlâ Aurantiporus croceus adını kullanır. IUCN Kırmızı Listesi (2019) türü Hassas olarak değerlendirir ve tür en az 11 Avrupa ülkesinin kırmızı listesinde yer alır; Norveç, Finlandiya, İsveç, Danimarka, Almanya, Avusturya, Estonya ve Hırvatistan'da kritik tehlike altında kabul edilir. 2023'ten beri Rusya Federasyonu Kırmızı Kitabı'nda da yer almaktadır. 2016'da Avusturya'da yılın mantarı seçilmiştir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Рідкісний, помітний трутовик з роду Hapalopilus з м'якими, просякнутими водою, яскраво-шафраново-помаранчевими плодовими тілами. Спричиняє білу гниль старих товстостовбурних дубів і значно рідше каштанів їстівних; у Червоному списку IUCN оцінений як вразливий (Vulnerable), оскільки старих дерев, від яких він залежить, стало різко менше.",
+      "cap": "Сидяче, напівкругле, ниркоподібне або подушкоподібне плодове тіло завширшки 5–20 cm, що виступає з деревини на 3–10 cm, завтовшки 1–6 cm; на повалених стовбурах може частково розпростиратися по деревині з відігнутим краєм. Яскраво-шафраново-помаранчеве до жовто-помаранчевого, до місця прикріплення буріше, з віком вицвітає, доки старі плодові тіла не стають тьмяно-буруватими або сіруватими. Поверхня змолоду тонкоповстиста до волосистої, згодом майже гладенька, нерівна або зморшкувата; край тупий, заокруглений.",
+      "hymenium": "Трубочки завдовжки до 1,5 cm, кольору м'якуша. Пори округлі до кутастих, 2–3 на mm, помітні неозброєним оком, яскраво-помаранчеві до червонувато-помаранчевих, при натисканні не змінюють кольору; молоді плодові тіла можуть виділяти краплі на поверхні пор. У старих плодових тіл трубчастий шар стає темно-червонуватим, твердим і майже смолистим.",
+      "stipe": "Відсутня: плодове тіло широко прикріплюється боком безпосередньо до деревини.",
+      "flesh": "Товстий, м'який, губчастий і волокнистий, у свіжому стані просякнутий водою; жовто-помаранчевий до блідо-помаранчевого, часто зональний, з помаранчевими й буруватими смугами. Під час висихання сильно стискається, твердне й буріє. Запах і смак м'які, невиразні. Крапля гідроксиду калію (KOH) миттєво забарвлює всі частини у вишнево-червоний до пурпурово-фіолетового колір.",
+      "sporePrint": "Білий до блідо-солом'яного. Спори широкоеліпсоїдні, гладенькі, безбарвні й неамілоїдні, за європейськими описами близько 4–7 × 3–4,5 µm; у північноамериканських зборах описано спори до 8 × 5 µm.",
+      "habitat": "Сапротроф і слабкий паразит, що руйнує ядрову деревину старих товстостовбурних дубів (Quercus), рідше каштана їстівного (Castanea) і дуже рідко інших листяних дерев. Плодові тіла з'являються на відмерлих частинах живих старих дерев, у дуплах і ранах стовбура, біля основи стовбура та на великих повалених стовбурах, у старих дібровах, лісопасовищах, парках і алеях. Вони однорічні й з'являються переважно з липня по жовтень, але міцелій може жити в тому самому дереві десятиліттями: у Данії одна особина утворює плодові тіла вже понад 70 років. Вид трапляється в помірній Європі, на сході Північної Америки та у Східній Азії й майже скрізь рідкісний.",
+      "uses": "Неїстівний. Це флагманський вид охорони старих дубів, що охороняється законом у кількох країнах, зокрема в Польщі, Угорщині, Швеції, Латвії та Естонії; його в жодному разі не можна збирати чи пошкоджувати.",
+      "confusion": "Hapalopilus rutilans трапляється значно частіше, дрібніший і тьмяно-коричний до вохристо-бурого, росте на різних листяних деревах і від KOH теж забарвлюється у фіолетовий колір. Pycnoporellus fulgens теж помаранчевий, але росте на хвойних. Pycnoporus cinnabarinus тонший, жорсткий і кіноварно-червоний, а його м'якуш від KOH чорніє. Laetiporus sulphureus росте черепитчастими групами плодових тіл із сірчано-жовтою поверхнею пор. Aurantiporus alborubescens спершу білуватий, згодом червоніє й росте на буку.",
+      "notes": "Уперше описаний Крістіаном Гендріком Персоном у 1796 році як Boletus croceus і перенесений до роду Hapalopilus Марінусом Антоном Донком у 1933 році; у деяких списках досі вживається назва Aurantiporus croceus. Червоний список IUCN (2019) оцінює його як вразливий; він внесений до червоних списків щонайменше 11 європейських країн, як вид на межі зникнення — у Норвегії, Фінляндії, Швеції, Данії, Німеччині, Австрії, Естонії та Хорватії. З 2023 року він також занесений до Червоної книги Російської Федерації. У 2016 році він був грибом року в Австрії.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "Hapalopilus屬中罕見而醒目的層架狀真菌，子實體柔軟、飽含水分，呈鮮豔的番紅花橙色。它在樹幹粗大的老櫟樹上引起白色腐朽，在歐洲栗上則遠為少見；由於其所依賴的老齡樹木急劇減少，IUCN紅色名錄將其評為易危（Vulnerable）。",
+      "cap": "無柄的半圓形、腎形或墊狀層架，寬5–20 cm，自木材伸出3–10 cm，厚1–6 cm；在倒木上可部分平伏於木材表面，邊緣反捲。鮮豔番紅花橙色至黃橙色，近附著處較褐，隨年齡褪色，老子實體變為暗淡的褐色或灰色。表面幼時具細氈毛至毛，後變為近光滑、凹凸不平或有皺紋；邊緣鈍圓。",
+      "hymenium": "菌管深可達1.5 cm，與菌肉同色。孔口圓形至多角形，每mm 2–3個，肉眼可見，鮮橙色至帶紅的橙色，按壓不變色；幼嫩子實體可在孔面分泌水滴。老子實體的菌管層變為暗紅色、堅硬，近似樹脂。",
+      "stipe": "無：子實體以寬闊的側面直接附著於木材。",
+      "flesh": "厚，柔軟，海綿質而具纖維，新鮮時飽含水分；黃橙色至淡橙色，常有橙色與褐色的環帶。乾燥時強烈收縮，變硬並呈褐色。氣味與味道溫和，無特殊之處。滴一滴氫氧化鉀（KOH）會使所有部分立即變為櫻桃紅至紫紅色。",
+      "sporePrint": "白色至淡麥稈色。孢子寬橢圓形，光滑，無色，非澱粉質，據歐洲記述約4–7 × 3–4.5 µm；北美標本曾記述孢子可達8 × 5 µm。",
+      "habitat": "腐生菌兼弱寄生菌，分解樹幹粗大的老櫟樹（Quercus）的心材，較少見於歐洲栗（Castanea），極少見於其他闊葉樹。子實體生於活老樹的枯死部分、樹幹空洞與傷口、樹幹基部及大型倒木上，見於古老櫟林、林間牧場、公園及林蔭道。子實體一年生，主要於七月至十月出現，但菌絲體可在同一棵樹中存活數十年：在丹麥，一個個體已持續形成子實體超過70年。分布於歐洲溫帶、北美東部及東亞，幾乎各地都很罕見。",
+      "uses": "不可食用。它是保育老齡櫟樹的旗艦物種，在波蘭、匈牙利、瑞典、拉脫維亞與愛沙尼亞等多個國家受法律保護；切勿採集或損害。",
+      "confusion": "Hapalopilus rutilans常見得多，較小，呈暗淡的肉桂色至赭褐色，生於多種闊葉樹上，遇KOH同樣變為紫色。Pycnoporellus fulgens也是橙色，但生於針葉樹上。Pycnoporus cinnabarinus較薄、堅韌，呈朱紅色，其菌肉遇KOH變黑。Laetiporus sulphureus形成相互重疊的層架群，孔面為硫黃色。Aurantiporus alborubescens起初帶白色，很快轉紅，生於山毛櫸上。",
+      "notes": "1796年由Christiaan Hendrik Persoon首次以Boletus croceus之名描述，1933年由Marinus Anton Donk移入Hapalopilus屬；部分名錄仍使用Aurantiporus croceus之名。IUCN紅色名錄（2019年）將其評為易危，並列入至少11個歐洲國家的紅色名錄，在挪威、芬蘭、瑞典、丹麥、德國、奧地利、愛沙尼亞與克羅埃西亞被列為極危。自2023年起也列入俄羅斯聯邦紅皮書。2016年曾獲選為奧地利年度蕈菇。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc1.webp",
+      "author": "John S Harper",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/227458430"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc2.webp",
+      "author": "Наталья Пикалова",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/396024518"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc3.webp",
+      "author": "Елена Смирнова",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/129306433"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc4.webp",
+      "author": "Eugene Popov",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/58148788"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc5.webp",
+      "author": "Edmundas Greimas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/233334609"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc1.webp",
+      "author": "John S Harper",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/227458430",
+      "photoUrl": "https://www.inaturalist.org/photos/403518921",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc2.webp",
+      "author": "Наталья Пикалова",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/396024518",
+      "photoUrl": "https://www.inaturalist.org/photos/726220280",
+      "attribution": "(c) Наталья Пикалова, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc3.webp",
+      "author": "Елена Смирнова",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/129306433",
+      "photoUrl": "https://www.inaturalist.org/photos/219725532",
+      "attribution": "(c) Елена Смирнова, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc4.webp",
+      "author": "Eugene Popov",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/58148788",
+      "photoUrl": "https://www.inaturalist.org/photos/92809753",
+      "attribution": "(c) Eugene Popov, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/hc5.webp",
+      "author": "Edmundas Greimas",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/233334609",
+      "photoUrl": "https://www.inaturalist.org/photos/414665464",
+      "attribution": "(c) Edmundas Greimas, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Boletus croceus",
+    "Polyporus croceus",
+    "Inonotus croceus",
+    "Inodermus croceus",
+    "Ochroporus croceus",
+    "Phaeolus croceus",
+    "Polystictus croceus",
+    "Aurantiporus croceus",
+    "Tyromyces croceus",
+    "Polyporus pilotae",
+    "Ochroporus pilotae",
+    "Aurantiporus pilotae",
+    "Polyporus hypococcineus",
+    "Inonotus hypococcineus",
+    "Polyporus castanophilus",
+    "Polyporus subtestaceus",
+    "Phaeolus subtestaceus",
+    "Hapalopilus subtestaceus"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 10,
+  "reserved": false,
+  "id": 148,
+  "added": "2026-11-09",
+  "citation": "Meded. Bot. Mus. Herb. Rijks Univ. Utrecht 9: 172 (1933)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Hapalopilus croceus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "f94128647e93da9c10cd136575c53c39a6c517dccb07fb1eb1efffc5a6bc26c0",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      180,
+      250,
+      780,
+      1094
+    ],
+    "uniformScale": 2.3333333333333335,
+    "placement": [
+      100,
+      215
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1969
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 865024,
+    "opaquePixels": 203821,
+    "partialAlphaPixels": 6355,
+    "signatureBox": [
+      697,
+      1049,
+      794,
+      1104
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 336,
+    "preservedObjects": [
+      "single sessile bracket (pileus) attached to a piece of bark-covered wood: orange, coarsely hairy-tuberculate upper surface with a rolled, rounded margin",
+      "yellow-orange pore surface beneath the margin, shown with fine pores",
+      "the supporting chunk of grey-brown fissured bark/wood as drawn in the source",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 205438.5,
+        "box": [
+          181,
+          251,
+          557,
+          621
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected (fullsize_inspection/, art_fullsize_inspection.png, original_vs_composition.jpg): bracket, pore surface and the drawn bark/wood substrate kept whole with clean jagged edges; existing Gemini mark kept once; source paper removed, one standard background frame only; no double frame, no added mark.",
+    "alphaPNGSHA256": "cf35927b87f06443de367444c0528a5553ecc7c0cb944371cb6e5b4ef1fe127d",
+    "maskSHA256": "fbb5c796a714942caa97bd65477b71c86dfb4a1f66f2a54c4af16ee5ff5d5d54",
+    "recipeSHA256": "6319e36f830a6b5d0ebe7b68306f25a0a91486d25e08b82424f271204cd26dc7",
+    "officialFiles": [
+      {
+        "path": "media/Hapalopilus_croceus@1600.webp",
+        "bytes": 256124,
+        "sha256": "fa78e83e4ddcf3b9ecc99bd10373386a394e6f066c09ab2149d1e765bfdfc811"
+      },
+      {
+        "path": "media/Hapalopilus_croceus@400.webp",
+        "bytes": 36078,
+        "sha256": "fa7d827b9280f0153d08cfecfb6295295e722b4f41ac3334dfbfb5a2eb6687aa"
+      }
+    ]
+  }
+},
+{
+  "name": "Hydnellum mirabile",
+  "author": "(Fr.) P. Karst.",
+  "family": "Bankeraceae",
+  "genus": "Hydnellum",
+  "order": "Thelephorales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Thelephorales",
+    "Bankeraceae",
+    "Hydnellum"
+  ],
+  "summary": [
+    "Thelephorales",
+    "Bankeraceae",
+    "Hydnellum"
+  ],
+  "edibility": "inedible",
+  "hymenium": "teeth",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 1.0,
+  "stipeHeightTo": 5.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 2.5,
+  "label": {
+    "ar": "Hydnellum mirabile",
+    "bg": "Hydnellum mirabile",
+    "cs": "lošákovec podivný",
+    "da": "Hydnellum mirabile",
+    "de": "Striegeliger Korkstacheling",
+    "en": "Hydnellum mirabile",
+    "es": "Hydnellum mirabile",
+    "et": "Hydnellum mirabile",
+    "fa": "Hydnellum mirabile",
+    "fi": "partaorakas",
+    "fr": "hydne remarquable",
+    "he": "Hydnellum mirabile",
+    "hi": "Hydnellum mirabile",
+    "hr": "Hydnellum mirabile",
+    "hu": "Hydnellum mirabile",
+    "id": "Hydnellum mirabile",
+    "it": "Hydnellum mirabile",
+    "ja": "Hydnellum mirabile",
+    "ko": "Hydnellum mirabile",
+    "lt": "Hydnellum mirabile",
+    "lv": "Hydnellum mirabile",
+    "nl": "Hydnellum mirabile",
+    "no": "børstebrunpigg",
+    "pl": "Hydnellum mirabile",
+    "pt": "Hydnellum mirabile",
+    "ro": "Hydnellum mirabile",
+    "ru": "Hydnellum mirabile",
+    "sk": "jelenkovka chlpatá",
+    "sl": "Hydnellum mirabile",
+    "sr": "Hydnellum mirabile",
+    "sv": "raggtaggsvamp",
+    "tr": "Hydnellum mirabile",
+    "uk": "Hydnellum mirabile",
+    "zh": "Hydnellum mirabile"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Wolliger Korkstacheling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "jelenkovka podivuhodná"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://redlist.info/iucn/species_view/100892/",
+      "https://www.wikidata.org/wiki/Q10648554",
+      "https://www.houbareni.cz/houba/losakovec_podivny"
+    ],
+    "da": [],
+    "de": [
+      "https://naturschutzbund.at/pilz-leser/items/2022-striegeliger-korkstacheling.html",
+      "https://doi.org/10.5169/seals-935538",
+      "https://123pilzsuche.de/daten/details/WolligerKorkstacheling.htm",
+      "https://www.pilzkunde.de/index.php/pilz-des-monats/pilz-des-monats-aeltere-beitraege/pilz-des-monats-2022?start=4"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=100892",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=100892",
+      "https://www.gbif.org/species/2522221",
+      "https://www.iucnredlist.org/species/70408415/70408439",
+      "https://redlist.info/iucn/species_view/100892/",
+      "https://en.wikipedia.org/wiki/Hydnellum_mirabile",
+      "https://www.alaskamycoflora.org/genera/hydnellum/hydnellum-mirabile.php",
+      "https://123pilzsuche.de/daten/details/WolligerKorkstacheling.htm",
+      "https://www.pilzkunde.de/index.php/pilz-des-monats/pilz-des-monats-aeltere-beitraege/pilz-des-monats-2022?start=4",
+      "https://naturschutzbund.at/pilz-leser/items/2022-striegeliger-korkstacheling.html",
+      "https://www.houbareni.cz/houba/losakovec_podivny",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/1189",
+      "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [
+      "https://laji.fi/taxon/MX.205980",
+      "https://www.wikidata.org/wiki/Q10648554",
+      "https://fi.wikipedia.org/wiki/Partaorakas"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/2522221"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "https://redlist.info/iucn/species_view/100892/",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/1189",
+      "https://www.wikidata.org/wiki/Q10648554"
+    ],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf",
+      "https://www.nahuby.sk/atlas-hub/Hydnellum-mirabile/jelenkovka/losakovec-podivny/ID13582"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://redlist.info/iucn/species_view/100892/",
+      "https://sv.wikipedia.org/wiki/Raggtaggsvamp",
+      "https://laji.fi/taxon/MX.205980"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر شائك نادر ولافت للنظر من جنس Hydnellum، له أجسام ثمرية متكتلة لبّادية إلى خشنة الشعر، مصفرة إلى بنية، وأشواك بنية على السطح السفلي. يكوّن جذورًا فطرية مع التنوب والصنوبر في الغابات الصنوبرية القديمة على الترب الغنية بالقواعد، ويُقيَّم في القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة (IUCN) على أنه معرّض للخطر (Vulnerable)، لأن القطع الشامل دمّر جزءًا كبيرًا من موائله.",
+      "cap": "عرضها ٣–١٥ سم، مغزلية أو وسائدية أو قمعية ضحلة، شديدة عدم الانتظام ومتكتلة؛ وكثيرًا ما تلتحم الأجسام الثمرية المتجاورة. يكون السطح في البداية مخمليًا لبّاديًا، ثم صوفيًا، وأخيرًا مغطى بشعيرات منتصبة صلبة خشنة؛ أصفر قشي إلى أصفر، خاصة عند الحافة، ويغمق نحو المركز ومع التقدم في العمر إلى بني محمر أو بني زيتوني أو بني داكن.",
+      "hymenium": "أشواك كثيفة يصل طولها إلى ٥ مم، رمادية فاتحة أو مصفرة فاتحة في البداية، ثم بنية إلى بنية أرجوانية بأطراف أفتح، مخرزية إلى مفلطحة ونازلة على الساق.",
+      "stipe": "قصيرة وغالبًا مجرد قاعدة مستدقة، طولها ١–٥ سم وسمكها ٠٫٥–٢٫٥ سم، مخملية لبّادية، بيضاء مائلة في البداية، ثم بنية إلى بنية أرجوانية، أغمق ومشعرة عند القاعدة؛ وعادةً لا توجد ساق منفصلة بوضوح.",
+      "flesh": "فاتح ومنطّق بخطوط أغمق، أبيض مائل إلى بني مصفر، ثم بني؛ ليفي، متين كالفلين لكنه طري نسبيًا وخفيف جدًا. الرائحة دقيقية، والطعم قابض قليلًا إلى مُرّ أو لاذع بعض الشيء. قطرة من هيدروكسيد البوتاسيوم (KOH) بالكاد تغيّر لون اللحم.",
+      "sporePrint": "بني. الأبواغ شبه كروية، ثؤلولية، بقياس نحو ٥–٧ × ٤٫٥–٦ µm.",
+      "habitat": "شريك جذري فطري خارجي لشجرة التنوب النرويجي (Picea abies) وبشكل أندر للصنوبر الاسكتلندي (Pinus sylvestris). ينمو على الأرض بين الطحالب، غالبًا في مجموعات أو صفوف، في الغابات الصنوبرية القديمة الغنية بالطحالب والأعشاب، على ترب غنية بالقواعد أو كلسية ذات استمرارية حرجية طويلة. تظهر الأجسام الثمرية من يوليو إلى أكتوبر. يقع نطاقه الرئيسي في فينوسكانديا، حيث يُعرف نحو ٢٠٠ موقع في النرويج والسويد وفنلندا، ويمتد إلى روسيا؛ وفي أوروبا الوسطى لا توجد سوى ٢٠–٢٥ موقعًا في جبال الألب والكاربات، وفي النمسا على ارتفاع نحو ٨٥٠–١٥٠٠ م. ولا تزال السجلات من أمريكا الشمالية بحاجة إلى مقارنة بالمواد الأوروبية.",
+      "uses": "غير صالح للأكل. وهو مؤشر على غابات التنوب القديمة الغنية بالفطريات النادرة، ومحمي بالقانون في سلوفاكيا؛ ولا ينبغي جمعه أبدًا.",
+      "confusion": "يشبهه Hydnellum compactum للوهلة الأولى، لكنه ينمو تحت الأشجار عريضة الأوراق، وقبعته لبّادية لا خشنة الشعر، وطعمه لاذع بشدة. أما Hydnellum ferrugineum فقبعته مخملية بلا شعيرات خشنة، ويفرز قطرات حمراء وهو صغير. ويتميز Phellodon tomentosus وPhellodon melaleucus بأنهما أنحف ومنطّقان، ولهما أبواغ بيضاء وأشواك رمادية فاتحة.",
+      "notes": "وصفه إلياس فريس لأول مرة عام ١٨٦٣ باسم Hydnum mirabile، ونقله بيتر أدولف كارستن إلى Hydnellum عام ١٨٧٩. وكان اسم Hydnellum acre يُطلق سابقًا على هذا النوع وعلى Hydnellum compactum معًا. تقيّمه القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة (IUCN، ٢٠١٥) على أنه معرّض للخطر (Vulnerable): فقد قلّص القطع الشامل موائله في الغابات القديمة بنحو ٣٠–٥٠% خلال ٥٠ عامًا، ويُعتقد أن عدد مواقعه أقل من ٥٠٠. وهو مدرج في القوائم الحمراء للسويد وفرنسا والنرويج وفنلندا، وكان يُعدّ منقرضًا إقليميًا في التشيك. وكان فطر العام في النمسا عام ٢٠٢٢.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Рядка, забележима бодлива гъба от рода Hydnellum с грапави, филцово-четинести, жълтеникави до кафяви плодни тела и кафяви бодли от долната страна. Образува микориза със смърч и бор в стари естествени иглолистни гори върху богати на основи почви и в Червения списък на IUCN е оценена като уязвима (Vulnerable), защото голите сечи са унищожили голяма част от местообитанията ѝ.",
+      "cap": "Широка 3–15 см, пумпаловидна, възглавничеста или плитко фуниевидна, много неправилна и грапава; съседните плодни тела често се сливат. Повърхността отначало е кадифено филцеста, после вълнеста и накрая покрита с изправени, твърди, четинести власинки; сламеножълта до жълта, особено по ръба, към центъра и с възрастта потъмнява до червеникавокафява, маслиненокафява или тъмнокафява.",
+      "hymenium": "Гъсти бодли с дължина до 5 мм, отначало светлосиви или светложълтеникави, по-късно кафяви до пурпурнокафяви с по-светли върхове, шиловидни до сплескани и низбягващи по пънчето.",
+      "stipe": "Късо и често само стеснена основа, дълго 1–5 см и дебело 0,5–2,5 см, кадифено филцесто, отначало белезникаво, по-късно кафяво до пурпурнокафяво, при основата по-тъмно и власато; ясно обособено пънче обикновено липсва.",
+      "flesh": "Светло и зонирано с по-тъмни линии, белезникаво до жълтеникавокафяво, по-късно кафяво; влакнесто, коркововидно жилаво, но сравнително меко и много леко. Мирисът е брашнен, а вкусът слабо стипчив до горчивоват или леко лютив. Капка калиев хидроксид (KOH) почти не променя цвета на месото.",
+      "sporePrint": "Кафяв. Спорите са почти кълбовидни, брадавичести, около 5–7 × 4,5–6 µm.",
+      "habitat": "Ектомикоризен партньор на обикновения смърч (Picea abies) и по-рядко на белия бор (Pinus sylvestris). Расте на земята сред мъхове, често на групи или в редици, в стари, богати на мъхове и треви иглолистни гори върху богати на основи или варовити почви с дълга непрекъснатост на гората. Плодните тела се появяват от юли до октомври. Основният ареал е във Феноскандия, където в Норвегия, Швеция и Финландия са известни около 200 находища, и достига до Русия; в Централна Европа има само 20–25 находища в Алпите и Карпатите, в Австрия на около 850–1500 м надморска височина. Северноамериканските находки тепърва трябва да се сравнят с европейски материал.",
+      "uses": "Негодна за ядене. Тя е индикатор за стари смърчови гори, богати на редки гъби, и е защитена със закон в Словакия; никога не бива да се бере.",
+      "confusion": "Hydnellum compactum на пръв поглед изглежда подобно, но расте под широколистни дървета, има филцеста, а не четинеста шапка и силно лютив вкус. Hydnellum ferrugineum има кадифена шапка без четинки и докато е млада, отделя червени капки. Phellodon tomentosus и Phellodon melaleucus са по-тънки, зонирани и имат бели спори и светлосиви бодли.",
+      "notes": "За първи път е описана от Елиас Фрис през 1863 г. като Hydnum mirabile и е прехвърлена в Hydnellum от Петер Адолф Карстен през 1879 г. Името Hydnellum acre някога е прилагано както за този вид, така и за Hydnellum compactum. Червеният списък на IUCN (2015) я оценява като уязвима (Vulnerable): голите сечи са намалили местообитанията ѝ в стари гори с около 30–50 % за 50 години и се смята, че съществуват по-малко от 500 находища. Включена е в червените списъци на Швеция, Франция, Норвегия и Финландия, а в Чехия е била смятана за регионално изчезнала. През 2022 г. е била австрийската гъба на годината.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Vzácná, nápadná ostnatá houba z rodu Hydnellum s hrbolatými, plstnatě štětinatými, nažloutlými až hnědými plodnicemi a hnědými ostny na spodní straně. Tvoří mykorhizu se smrkem a borovicí ve starých jehličnatých lesích na bazických půdách a na Červeném seznamu IUCN je hodnocena jako zranitelná (Vulnerable), protože holoseče zničily velkou část jejích stanovišť.",
+      "cap": "Široký 3–15 cm, kuželovitý, polštářovitý nebo mělce nálevkovitý, velmi nepravidelný a hrbolatý; sousední plodnice často srůstají. Povrch je zprvu sametově plstnatý, pak vlnatý a nakonec pokrytý vzpřímenými, tuhými štětinatými chlupy; slámově žlutý až žlutý, hlavně na okraji, ke středu a stářím tmavne do červenohněda, olivově hněda nebo tmavě hněda.",
+      "hymenium": "Husté ostny dlouhé až 5 mm, zprvu světle šedé nebo světle nažloutlé, později hnědé až purpurově hnědé se světlejšími špičkami, šídlovité až zploštělé, sbíhající na třeň.",
+      "stipe": "Krátký, často jen zúžená báze, dlouhý 1–5 cm a tlustý 0,5–2,5 cm, sametově plstnatý, zprvu bělavý, později hnědý až purpurově hnědý, u báze tmavší a chlupatý; zřetelně oddělený třeň obvykle chybí.",
+      "flesh": "Světlá, zónovaná tmavšími liniemi, bělavá až žlutohnědá, později hnědá; vláknitá, korkovitě houževnatá, ale poměrně měkká a velmi lehká. Vůně je moučná, chuť slabě svíravá až nahořklá nebo trochu palčivá. Kapka hydroxidu draselného (KOH) barvu dužniny téměř nezmění.",
+      "sporePrint": "Hnědý. Výtrusy jsou přibližně kulovité, bradavčité, asi 5–7 × 4,5–6 µm.",
+      "habitat": "Ektomykorhizní partner smrku ztepilého (Picea abies) a vzácněji borovice lesní (Pinus sylvestris). Roste na zemi mezi mechy, často ve skupinách nebo řadách, ve starých mechových a bylinných jehličnatých lesích na bazických nebo vápnitých půdách s dlouhou kontinuitou lesa. Plodnice se objevují od července do října. Hlavní areál leží ve Fennoskandinávii, kde je známo asi 200 lokalit v Norsku, Švédsku a Finsku, a zasahuje do Ruska; ve střední Evropě je jen 20–25 lokalit v Alpách a Karpatech, v Rakousku asi v 850–1500 m n. m. Údaje ze Severní Ameriky je ještě třeba porovnat s evropským materiálem.",
+      "uses": "Nejedlá. Je indikátorem starých smrkových lesů bohatých na vzácné houby a na Slovensku je zákonem chráněna; nikdy by se neměla sbírat.",
+      "confusion": "Hydnellum compactum vypadá na první pohled podobně, ale roste pod listnatými stromy, má plstnatý, ne štětinatý klobouk a silně palčivou chuť. Hydnellum ferrugineum má sametový klobouk bez štětin a v mládí vylučuje červené kapky. Phellodon tomentosus a Phellodon melaleucus jsou tenčí, zónované a mají bílé výtrusy a světle šedé ostny.",
+      "notes": "Poprvé ji popsal Elias Fries v roce 1863 jako Hydnum mirabile a do rodu Hydnellum ji přeřadil Petter Adolf Karsten v roce 1879. Jméno Hydnellum acre se dříve používalo pro tento druh i pro Hydnellum compactum. Červený seznam IUCN (2015) ji hodnotí jako zranitelnou (Vulnerable): holoseče zmenšily její staré lesní biotopy odhadem o 30–50 % za 50 let a předpokládá se, že existuje méně než 500 lokalit. Je v červených seznamech Švédska, Francie, Norska a Finska a v České republice byla vedena jako regionálně vyhynulá. V roce 2022 byla rakouskou houbou roku.",
+      "names": [],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/100892/",
+        "https://www.wikidata.org/wiki/Q10648554",
+        "https://www.houbareni.cz/houba/losakovec_podivny"
+      ],
+      "label": "lošákovec podivný"
+    },
+    "da": {
+      "description": "En sjælden, iøjnefaldende pigsvamp i slægten Hydnellum med knoldede, filtet-børstede, gullige til brune frugtlegemer og brune pigge på undersiden. Den danner mykorrhiza med gran og fyr i urskovsagtige nåleskove på baserig jord og er vurderet som sårbar (Vulnerable) på IUCN's rødliste, fordi renafdrift har ødelagt en stor del af dens levesteder.",
+      "cap": "3–15 cm bred, top-, pude- eller fladt tragtformet, meget uregelmæssig og knoldet; nabofrugtlegemer vokser ofte sammen. Overfladen er først fløjlsagtigt filtet, derefter uldet og til sidst dækket af oprette, stive, børsteagtige hår; strågul til gul, især ved randen, mod midten og med alderen mørknende til rødbrun, olivenbrun eller mørkebrun.",
+      "hymenium": "Tætte pigge op til 5 mm lange, først lysegrå eller lyst gullige, senere brune til purpurbrune med lysere spidser, sylformede til fladtrykte og nedløbende på stokken.",
+      "stipe": "Kort og ofte kun en tilspidset basis, 1–5 cm lang og 0,5–2,5 cm tyk, fløjlsagtigt filtet, først hvidlig, senere brun til purpurbrun, mørkere og håret ved basis; en tydeligt afgrænset stok mangler som regel.",
+      "flesh": "Lyst og zoneret med mørkere linjer, hvidligt til gulbrunt, senere brunt; trævlet, korkagtigt sejt, men forholdsvis blødt og meget let. Lugten er melagtig og smagen svagt snerpende til bitterlig eller noget skarp. En dråbe kaliumhydroxid (KOH) ændrer næppe kødets farve.",
+      "sporePrint": "Brunt. Sporerne er næsten kugleformede, vortede og ca. 5–7 × 4,5–6 µm.",
+      "habitat": "En ektomykorrhizapartner til rødgran (Picea abies) og sjældnere skovfyr (Pinus sylvestris). Den vokser på jorden mellem mos, ofte i grupper eller rækker, i gamle mos- og urterige nåleskove på baserig eller kalkrig jord med lang skovkontinuitet. Frugtlegemerne ses fra juli til oktober. Hovedudbredelsen er i Fennoskandien med omkring 200 kendte lokaliteter i Norge, Sverige og Finland og fortsætter ind i Rusland; i Centraleuropa findes kun 20–25 lokaliteter i Alperne og Karpaterne, i Østrig i ca. 850–1500 m højde. Fund fra Nordamerika mangler stadig at blive sammenlignet med europæisk materiale.",
+      "uses": "Uspiselig. Den er en indikator for gamle granskove rige på sjældne svampe og er lovbeskyttet i Slovakiet; den bør aldrig indsamles.",
+      "confusion": "Hydnellum compactum ligner ved første øjekast, men vokser under løvtræer, har en filtet frem for børstet hat og en stærkt skarp smag. Hydnellum ferrugineum har en fløjlsagtig hat uden børster og udskiller røde dråber, når den er ung. Phellodon tomentosus og Phellodon melaleucus er tyndere, zonerede og har hvide sporer og lysegrå pigge.",
+      "notes": "Først beskrevet af Elias Fries i 1863 som Hydnum mirabile og overført til Hydnellum af Petter Adolf Karsten i 1879. Navnet Hydnellum acre blev tidligere brugt både om denne art og om Hydnellum compactum. IUCN's rødliste (2015) vurderer den som sårbar (Vulnerable): renafdrift har formindsket dens gammelskovsmiljøer med anslået 30–50 % på 50 år, og der menes at findes færre end 500 lokaliteter. Den er rødlistet i Sverige, Frankrig, Norge og Finland og blev opført som regionalt uddød i Tjekkiet. Den var Østrigs årets svamp i 2022.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein seltener, auffälliger Stachelpilz der Gattung Hydnellum mit höckerigen, filzig-borstigen, gelblichen bis braunen Fruchtkörpern und braunen Stacheln auf der Unterseite. Er bildet Mykorrhiza mit Fichte und Kiefer in urwaldartigen Nadelwäldern auf basenreichen Böden und ist auf der Roten Liste der IUCN als gefährdet (Vulnerable) eingestuft, weil Kahlschläge einen Großteil seines Lebensraums zerstört haben.",
+      "cap": "3–15 cm breit, kreisel-, polster- oder flach trichterförmig, sehr unregelmäßig und höckerig; benachbarte Fruchtkörper verwachsen oft miteinander. Die Oberfläche ist jung samtig-filzig, dann wollig und schließlich mit aufgerichteten, steifen, borstigen Haaren besetzt; strohgelb bis gelb, besonders am Rand, zur Mitte hin und im Alter rotbraun, olivbraun oder dunkelbraun nachdunkelnd.",
+      "hymenium": "Dicht stehende Stacheln bis 5 mm lang, zuerst hellgrau oder hellgelblich, später braun bis purpurbraun mit helleren Spitzen, pfriemförmig bis abgeflacht und am Stiel herablaufend.",
+      "stipe": "Kurz und oft nur eine verjüngte Basis, 1–5 cm lang und 0,5–2,5 cm dick, samtig-filzig, zuerst weißlich, später braun bis purpurbraun, an der Basis dunkler und behaart; ein deutlich abgesetzter Stiel fehlt meist.",
+      "flesh": "Hell und mit dunkleren Linien gezont, weißlich bis gelbbraun, später braun; faserig, korkig-zäh, aber relativ weich und sehr leicht. Der Geruch ist mehlartig, der Geschmack schwach adstringierend bis bitterlich oder etwas scharf. Ein Tropfen Kalilauge (KOH) verändert die Farbe des Fleisches kaum.",
+      "sporePrint": "Braun. Die Sporen sind annähernd kugelig, warzig und etwa 5–7 × 4,5–6 µm groß.",
+      "habitat": "Ein Ektomykorrhizapartner der Gemeinen Fichte (Picea abies) und seltener der Waldkiefer (Pinus sylvestris). Er wächst am Boden zwischen Moos, oft in Gruppen oder Reihen, in alten, moos- und krautreichen Nadelwäldern auf basenreichen oder kalkhaltigen Böden mit langer Waldkontinuität. Die Fruchtkörper erscheinen von Juli bis Oktober. Das Hauptverbreitungsgebiet liegt in Fennoskandien mit etwa 200 bekannten Fundorten in Norwegen, Schweden und Finnland und reicht bis Russland; in Mitteleuropa gibt es nur 20–25 Fundorte in den Alpen und Karpaten, in Österreich in etwa 850–1500 m Höhe. Meldungen aus Nordamerika müssen noch mit europäischem Material verglichen werden.",
+      "uses": "Ungenießbar. Er ist ein Zeiger alter, an seltenen Pilzen reicher Fichtenwälder und in der Slowakei gesetzlich geschützt; er sollte niemals gesammelt werden.",
+      "confusion": "Hydnellum compactum sieht auf den ersten Blick ähnlich aus, wächst aber unter Laubbäumen, hat einen filzigen statt borstigen Hut und einen stark scharfen Geschmack. Hydnellum ferrugineum hat einen samtigen Hut ohne Borsten und scheidet jung rote Tropfen aus. Phellodon tomentosus und Phellodon melaleucus sind dünner, gezont und haben weiße Sporen und hellgraue Stacheln.",
+      "notes": "Erstmals 1863 von Elias Fries als Hydnum mirabile beschrieben und 1879 von Petter Adolf Karsten zu Hydnellum gestellt. Der Name Hydnellum acre wurde früher sowohl für diese Art als auch für Hydnellum compactum verwendet. Die Rote Liste der IUCN (2015) stuft die Art als gefährdet (Vulnerable) ein: Kahlschläge haben ihren Altwald-Lebensraum in 50 Jahren schätzungsweise um 30–50 % verringert, und vermutlich gibt es weniger als 500 Fundorte. Sie steht auf den Roten Listen Schwedens, Frankreichs, Norwegens und Finnlands und galt in Tschechien als regional ausgestorben. Pilz des Jahres 2022 in Österreich.",
+      "names": [
+        "Wolliger Korkstacheling"
+      ],
+      "sourceUrls": [
+        "https://naturschutzbund.at/pilz-leser/items/2022-striegeliger-korkstacheling.html",
+        "https://doi.org/10.5169/seals-935538",
+        "https://123pilzsuche.de/daten/details/WolligerKorkstacheling.htm",
+        "https://www.pilzkunde.de/index.php/pilz-des-monats/pilz-des-monats-aeltere-beitraege/pilz-des-monats-2022?start=4"
+      ],
+      "label": "Striegeliger Korkstacheling"
+    },
+    "en": {
+      "description": "A rare, conspicuous tooth fungus of the genus Hydnellum with lumpy, felted-bristly, yellowish to brown fruit bodies and brown spines on the underside. It forms mycorrhiza with spruce and pine in old-growth coniferous forests on base-rich soils, and is assessed as Vulnerable on the IUCN Red List because clear-cutting has destroyed much of its habitat.",
+      "cap": "3–15 cm across, top-shaped, cushion-shaped or shallowly funnel-shaped, very irregular and lumpy, and neighbouring fruit bodies often fuse. The surface is velvety-felted when young, then woolly and finally covered with erect, stiff, bristly hairs; straw-yellow to yellow, especially at the margin, darkening to reddish brown, olive-brown or dark brown towards the centre and with age.",
+      "hymenium": "Crowded spines up to 5 mm long, at first pale grey or pale yellowish, later brown to purplish brown with paler tips, awl-shaped to flattened and running down the stem.",
+      "stipe": "Short and often only a tapering base, 1–5 cm long and 0.5–2.5 cm thick, velvety-felted, whitish at first, later brown to purplish brown, darker and hairy at the base; a clearly separate stem is usually absent.",
+      "flesh": "Pale and zoned with darker lines, whitish to yellowish brown, becoming brown; fibrous, corky-tough yet relatively soft and very light. The smell is mealy and the taste weakly astringent to bitterish or somewhat acrid. A drop of potassium hydroxide (KOH) hardly changes the colour of the flesh.",
+      "sporePrint": "Brown. The spores are roughly spherical, warty and about 5–7 × 4.5–6 µm.",
+      "habitat": "An ectomycorrhizal partner of Norway spruce (Picea abies) and, more rarely, Scots pine (Pinus sylvestris). It grows on the ground among moss, often in groups or rows, in old-growth moss- and herb-rich coniferous forests on base-rich or calcareous soils with long forest continuity. Fruit bodies appear from July to October. The main range is in Fennoscandia, with about 200 known localities in Norway, Sweden and Finland, extending into Russia; in central Europe there are only 20–25 localities in the Alps and Carpathians, in Austria at about 850–1500 m. Reports from North America still need comparison with European material.",
+      "uses": "Inedible. It is an indicator of old spruce forests rich in rare fungi and is legally protected in Slovakia; it should never be collected.",
+      "confusion": "Hydnellum compactum looks similar at first glance but grows under broadleaved trees, has a felted rather than bristly cap and a strongly acrid taste. Hydnellum ferrugineum has a velvety cap without bristles and exudes red droplets when young. Phellodon tomentosus and Phellodon melaleucus are thinner, zoned and have white spores and pale grey spines.",
+      "notes": "First described by Elias Fries in 1863 as Hydnum mirabile and transferred to Hydnellum by Petter Adolf Karsten in 1879. The name Hydnellum acre was formerly applied both to this species and to Hydnellum compactum. The IUCN Red List (2015) assesses it as Vulnerable: clear-cutting has reduced its old-growth habitat by an estimated 30–50% in 50 years, and fewer than 500 localities are thought to exist. It is red-listed in Sweden, France, Norway and Finland and was listed as regionally extinct in the Czech Republic. It was the Austrian Mushroom of the Year in 2022.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=100892",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=100892",
+        "https://www.gbif.org/species/2522221",
+        "https://www.iucnredlist.org/species/70408415/70408439",
+        "https://redlist.info/iucn/species_view/100892/",
+        "https://en.wikipedia.org/wiki/Hydnellum_mirabile",
+        "https://www.alaskamycoflora.org/genera/hydnellum/hydnellum-mirabile.php",
+        "https://123pilzsuche.de/daten/details/WolligerKorkstacheling.htm",
+        "https://www.pilzkunde.de/index.php/pilz-des-monats/pilz-des-monats-aeltere-beitraege/pilz-des-monats-2022?start=4",
+        "https://naturschutzbund.at/pilz-leser/items/2022-striegeliger-korkstacheling.html",
+        "https://www.houbareni.cz/houba/losakovec_podivny",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/1189",
+        "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf"
+      ]
+    },
+    "es": {
+      "description": "Un hongo de púas raro y llamativo del género Hydnellum, con cuerpos fructíferos abollonados, afieltrado-híspidos, amarillentos a pardos y púas pardas en la cara inferior. Forma micorrizas con la pícea y el pino en bosques de coníferas maduros sobre suelos ricos en bases y está evaluado como Vulnerable (Vulnerable) en la Lista Roja de la UICN (IUCN), porque las talas a matarrasa han destruido gran parte de su hábitat.",
+      "cap": "De 3–15 cm de diámetro, turbinado, pulviniforme o en embudo poco profundo, muy irregular y abollonado; los cuerpos fructíferos vecinos se fusionan a menudo. La superficie es al principio aterciopelado-afieltrada, luego lanosa y finalmente cubierta de pelos erectos, rígidos e híspidos; amarillo pajizo a amarillo, sobre todo en el margen, oscureciéndose hacia el centro y con la edad a pardo rojizo, pardo oliváceo o pardo oscuro.",
+      "hymenium": "Púas apretadas de hasta 5 mm de largo, al principio gris pálido o amarillento pálido, después pardas a pardo púrpura con las puntas más claras, subuladas a aplanadas y decurrentes sobre el pie.",
+      "stipe": "Corto y a menudo solo una base atenuada, de 1–5 cm de largo y 0,5–2,5 cm de grosor, aterciopelado-afieltrado, al principio blanquecino, después pardo a pardo púrpura, más oscuro y piloso en la base; normalmente falta un pie claramente diferenciado.",
+      "flesh": "Pálida y zonada con líneas más oscuras, blanquecina a pardo amarillenta, después parda; fibrosa, correosa como el corcho pero relativamente blanda y muy ligera. El olor es harinoso y el sabor débilmente astringente a amargo o algo acre. Una gota de hidróxido de potasio (KOH) apenas cambia el color de la carne.",
+      "sporePrint": "Parda. Las esporas son casi esféricas, verrugosas y miden unas 5–7 × 4,5–6 µm.",
+      "habitat": "Simbionte ectomicorrícico de la pícea común (Picea abies) y, más raramente, del pino silvestre (Pinus sylvestris). Crece en el suelo entre musgos, a menudo en grupos o hileras, en bosques de coníferas maduros ricos en musgos y herbáceas, sobre suelos ricos en bases o calizos con larga continuidad forestal. Los cuerpos fructíferos aparecen de julio a octubre. El área principal está en Fenoscandia, con unas 200 localidades conocidas en Noruega, Suecia y Finlandia, y se extiende hasta Rusia; en Europa central solo hay 20–25 localidades en los Alpes y los Cárpatos, en Austria a unos 850–1500 m de altitud. Las citas de Norteamérica aún deben compararse con material europeo.",
+      "uses": "No comestible. Es un indicador de piceales viejos ricos en hongos raros y está protegido por ley en Eslovaquia; nunca debe recolectarse.",
+      "confusion": "Hydnellum compactum se parece a primera vista, pero crece bajo árboles planifolios, tiene el sombrero afieltrado en lugar de híspido y un sabor muy acre. Hydnellum ferrugineum tiene el sombrero aterciopelado sin cerdas y exuda gotitas rojas cuando es joven. Phellodon tomentosus y Phellodon melaleucus son más delgados, zonados y tienen esporas blancas y púas gris pálido.",
+      "notes": "Descrito por primera vez por Elias Fries en 1863 como Hydnum mirabile y transferido a Hydnellum por Petter Adolf Karsten en 1879. El nombre Hydnellum acre se aplicó antiguamente tanto a esta especie como a Hydnellum compactum. La Lista Roja de la UICN (IUCN, 2015) lo evalúa como Vulnerable (Vulnerable): las talas a matarrasa han reducido su hábitat de bosque maduro en un 30–50 % estimado en 50 años, y se cree que existen menos de 500 localidades. Figura en las listas rojas de Suecia, Francia, Noruega y Finlandia y se consideró extinto a nivel regional en Chequia. Fue el hongo del año 2022 en Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Haruldane, silmatorkav ogaseen perekonnast Hydnellum, millel on mügarlikud, viltjad-harjaselised, kollakad kuni pruunid viljakehad ja alaküljel pruunid ogad. See moodustab mükoriisat kuuse ja männiga vanades põlismetsalaadsetes okasmetsades aluselistel muldadel ning on IUCN-i punases nimestikus hinnatud ohualtiks (Vulnerable), sest lageraie on hävitanud suure osa selle elupaikadest.",
+      "cap": "Läbimõõt 3–15 cm, vurrkujuline, padjandjas või madalalt lehterjas, väga ebakorrapärane ja mügarlik; naabruses olevad viljakehad kasvavad sageli kokku. Pind on noorena sametjas-viltjas, seejärel villane ja lõpuks kaetud püstiste, jäikade, harjaseliste karvadega; õlekollane kuni kollane, eriti servast, keskosa suunas ja vanemaks saades tumenedes punakaspruuniks, oliivpruuniks või tumepruuniks.",
+      "hymenium": "Tihedad kuni 5 mm pikad ogad, algul helehallid või helekollakad, hiljem pruunid kuni purpurpruunid heledamate tippudega, naaskeljad kuni lamendunud ja jalale laskuvad.",
+      "stipe": "Lühike ja sageli vaid ahenev alus, 1–5 cm pikk ja 0,5–2,5 cm jäme, sametjas-viltjas, algul valkjas, hiljem pruun kuni purpurpruun, aluselt tumedam ja karvane; selgelt eristuv jalg tavaliselt puudub.",
+      "flesh": "Hele ja tumedamate joontega vööndiline, valkjas kuni kollakaspruun, hiljem pruun; kiuline, korgitaoliselt sitke, kuid suhteliselt pehme ja väga kerge. Lõhn on jahune, maitse nõrgalt kokkutõmbav kuni kibedavõitu või veidi terav. Tilk kaaliumhüdroksiidi (KOH) viljaliha värvi peaaegu ei muuda.",
+      "sporePrint": "Pruun. Eosed on peaaegu kerajad, tüükalised, umbes 5–7 × 4,5–6 µm.",
+      "habitat": "Harilikule kuusele (Picea abies) ja harvem harilikule männile (Pinus sylvestris) ektomükoriisapartner. Kasvab maas sammalde vahel, sageli rühmiti või ridadena, vanades sambla- ja rohurikastes okasmetsades aluselistel või lubjarikastel muldadel, kus metsa järjepidevus on pikk. Viljakehad ilmuvad juulist oktoobrini. Peamine levila on Fennoskandias, kus Norras, Rootsis ja Soomes on teada umbes 200 leiukohta, ja ulatub Venemaale; Kesk-Euroopas on vaid 20–25 leiukohta Alpides ja Karpaatides, Austrias umbes 850–1500 m kõrgusel. Põhja-Ameerika teateid tuleb veel võrrelda Euroopa materjaliga.",
+      "uses": "Söögiks kõlbmatu. See on haruldaste seente poolest rikaste vanade kuusikute indikaator ja Slovakkias seadusega kaitstud; seda ei tohiks kunagi korjata.",
+      "confusion": "Hydnellum compactum näeb esmapilgul sarnane välja, kuid kasvab lehtpuude all, selle kübar on viltjas, mitte harjaseline, ja maitse tugevalt terav. Hydnellum ferrugineum kübar on sametjas ja harjasteta ning noorena eritab see punaseid tilku. Phellodon tomentosus ja Phellodon melaleucus on õhemad, vööndilised ning neil on valged eosed ja helehallid ogad.",
+      "notes": "Esmakirjelduse tegi Elias Fries 1863. aastal nime all Hydnum mirabile ja Petter Adolf Karsten tõstis selle 1879. aastal perekonda Hydnellum. Nime Hydnellum acre kasutati varem nii selle liigi kui ka liigi Hydnellum compactum kohta. IUCN-i punane nimestik (2015) hindab selle ohualtiks (Vulnerable): lageraie on vähendanud selle vanametsa elupaiku hinnanguliselt 30–50% 50 aastaga ning leiukohti arvatakse olevat alla 500. See on punases nimestikus Rootsis, Prantsusmaal, Norras ja Soomes ning Tšehhis peeti seda piirkondlikult väljasurnuks. See oli Austria aasta seen 2022.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچی خاردار، کمیاب و چشمگیر از سردهٔ Hydnellum با اندام‌های بارده برآمده، نمدی تا زبرمو، زردفام تا قهوه‌ای و خارهای قهوه‌ای در سطح زیرین. این قارچ در جنگل‌های سوزنی‌برگ کهن روی خاک‌های غنی از باز با نوئل و کاج قارچ‌ریشه تشکیل می‌دهد و در فهرست سرخ اتحادیهٔ بین‌المللی حفاظت از طبیعت (IUCN) آسیب‌پذیر (Vulnerable) ارزیابی شده است، زیرا قطع یکسره بخش بزرگی از زیستگاه‌هایش را نابود کرده است.",
+      "cap": "پهنای ۳–۱۵ سانتی‌متر، فرفره‌ای، بالشتکی یا قیفی کم‌عمق، بسیار نامنظم و برآمده؛ اندام‌های بارده مجاور اغلب به هم جوش می‌خورند. سطح در آغاز مخملی و نمدی، سپس پشمی و سرانجام پوشیده از موهای راست، سخت و زبر است؛ زرد کاهی تا زرد، به‌ویژه در لبه، و به سوی مرکز و با افزایش سن به قهوه‌ای مایل به سرخ، قهوه‌ای زیتونی یا قهوه‌ای تیره تیره‌تر می‌شود.",
+      "hymenium": "خارهای انبوه با طول تا ۵ میلی‌متر، در آغاز خاکستری روشن یا زردفام روشن، سپس قهوه‌ای تا قهوه‌ای ارغوانی با نوک‌های روشن‌تر، درفشی تا پهن‌شده و پایین‌رونده روی پایه.",
+      "stipe": "کوتاه و اغلب تنها قاعده‌ای باریک‌شونده، به طول ۱–۵ سانتی‌متر و ضخامت ۰٫۵–۲٫۵ سانتی‌متر، مخملی و نمدی، در آغاز سفیدفام، سپس قهوه‌ای تا قهوه‌ای ارغوانی، در قاعده تیره‌تر و مودار؛ پایه‌ای که آشکارا جدا باشد معمولاً وجود ندارد.",
+      "flesh": "روشن و با خطوط تیره‌تر منطقه‌بندی‌شده، سفیدفام تا قهوه‌ای مایل به زرد، سپس قهوه‌ای؛ رشته‌ای، چوب‌پنبه‌ای و سخت ولی نسبتاً نرم و بسیار سبک. بو آردی است و مزه کمی گس تا تلخ‌مایه یا اندکی تند. یک قطره پتاسیم هیدروکسید (KOH) رنگ گوشت را به‌سختی تغییر می‌دهد.",
+      "sporePrint": "قهوه‌ای. هاگ‌ها تقریباً کروی، زگیل‌دار و حدود ۵–۷ × ۴٫۵–۶ µm هستند.",
+      "habitat": "همزیست قارچ‌ریشهٔ بیرونی نوئل اروپایی (Picea abies) و به‌ندرت کاج جنگلی (Pinus sylvestris). روی زمین در میان خزه‌ها، اغلب به‌صورت گروهی یا ردیفی، در جنگل‌های سوزنی‌برگ کهن سرشار از خزه و گیاهان علفی، روی خاک‌های غنی از باز یا آهکی با پیوستگی طولانی جنگل می‌روید. اندام‌های بارده از ژوئیه تا اکتبر پدیدار می‌شوند. گسترهٔ اصلی آن فنوسکاندیا است که در نروژ، سوئد و فنلاند حدود ۲۰۰ رویشگاه شناخته‌شده دارد و تا روسیه امتداد می‌یابد؛ در اروپای مرکزی تنها ۲۰–۲۵ رویشگاه در آلپ و کارپات وجود دارد و در اتریش در ارتفاع حدود ۸۵۰–۱۵۰۰ متری دیده می‌شود. گزارش‌های آمریکای شمالی هنوز باید با نمونه‌های اروپایی مقایسه شوند.",
+      "uses": "خوراکی نیست. نشانگر جنگل‌های کهن نوئل غنی از قارچ‌های کمیاب است و در اسلواکی به‌طور قانونی حفاظت می‌شود؛ هرگز نباید آن را چید.",
+      "confusion": "Hydnellum compactum در نگاه نخست شبیه است، اما زیر درختان پهن‌برگ می‌روید، کلاهکش نمدی است نه زبرمو، و مزه‌ای بسیار تند دارد. Hydnellum ferrugineum کلاهکی مخملی و بی‌مو دارد و در جوانی قطره‌های سرخ تراوش می‌کند. Phellodon tomentosus و Phellodon melaleucus نازک‌تر و منطقه‌بندی‌شده‌اند و هاگ‌های سفید و خارهای خاکستری روشن دارند.",
+      "notes": "نخستین بار الیاس فریس در سال ۱۸۶۳ آن را با نام Hydnum mirabile توصیف کرد و پتر آدولف کارستن در سال ۱۸۷۹ آن را به Hydnellum منتقل کرد. نام Hydnellum acre پیش‌تر هم برای این گونه و هم برای Hydnellum compactum به کار می‌رفت. فهرست سرخ IUCN (۲۰۱۵) آن را آسیب‌پذیر (Vulnerable) ارزیابی می‌کند: قطع یکسره زیستگاه جنگل کهن آن را در ۵۰ سال حدود ۳۰–۵۰% کاهش داده است و گمان می‌رود کمتر از ۵۰۰ رویشگاه وجود داشته باشد. در فهرست‌های سرخ سوئد، فرانسه، نروژ و فنلاند قرار دارد و در چک منقرض منطقه‌ای به شمار می‌رفت. در سال ۲۰۲۲ قارچ سال اتریش بود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Harvinainen, näyttävä orakas Hydnellum-suvusta, jolla on kyhmyiset, huopaisen harjaksiset, kellertävät tai ruskeat itiöemät ja alapinnalla ruskeat piikit. Se muodostaa sienijuuren kuusen ja männyn kanssa vanhoissa luonnontilaisissa havumetsissä emäksisellä maalla ja on arvioitu IUCN:n punaisessa listassa vaarantuneeksi (Vulnerable), koska avohakkuut ovat hävittäneet suuren osan sen elinympäristöistä.",
+      "cap": "Leveys 3–15 cm, hyrrämäinen, tyynymäinen tai matalan suppilomainen, hyvin epäsäännöllinen ja kyhmyinen; vierekkäiset itiöemät kasvavat usein yhteen. Pinta on nuorena samettisen huopainen, sitten villava ja lopulta pystyjen, jäykkien, harjasmaisten karvojen peittämä; oljenkeltainen tai keltainen etenkin reunalta, keskeltä ja vanhetessaan tummuen punaruskeaksi, oliivinruskeaksi tai tummanruskeaksi.",
+      "hymenium": "Tiheät, enintään 5 mm pitkät piikit, aluksi vaaleanharmaat tai vaalean kellertävät, myöhemmin ruskeat tai purppuranruskeat ja kärjistä vaaleammat, naskalimaiset tai litistyneet ja jalalle laskeutuvat.",
+      "stipe": "Lyhyt ja usein vain kapeneva tyvi, pituus 1–5 cm ja paksuus 0,5–2,5 cm, samettisen huopainen, aluksi vaalea, myöhemmin ruskea tai purppuranruskea, tyveltä tummempi ja karvainen; selvästi erottuva jalka yleensä puuttuu.",
+      "flesh": "Vaalea ja tummemmin viiruin vyöhykkeinen, valkeahko tai kellanruskea, myöhemmin ruskea; säikeinen, korkkimaisen sitkeä mutta melko pehmeä ja hyvin kevyt. Haju on jauhomainen ja maku heikosti kitkerä, karvas tai hieman polttava. Tippa kaliumhydroksidia (KOH) tuskin muuttaa mallon väriä.",
+      "sporePrint": "Ruskea. Itiöt ovat lähes pallomaisia, nystyisiä ja noin 5–7 × 4,5–6 µm.",
+      "habitat": "Metsäkuusen (Picea abies) ja harvemmin metsämännyn (Pinus sylvestris) ektomykorritsakumppani. Se kasvaa maassa sammalten seassa, usein ryhminä tai riveinä, vanhoissa sammal- ja ruohoisissa havumetsissä emäksisellä tai kalkkipitoisella maalla, jossa metsäjatkumo on pitkä. Itiöemiä tavataan heinäkuusta lokakuuhun. Pääalue on Fennoskandiassa, jossa tunnetaan noin 200 esiintymää Norjassa, Ruotsissa ja Suomessa, ja levinneisyys jatkuu Venäjälle; Keski-Euroopassa on vain 20–25 esiintymää Alpeilla ja Karpaateilla, Itävallassa noin 850–1500 metrin korkeudella. Pohjois-Amerikan havainnot on vielä verrattava eurooppalaiseen aineistoon.",
+      "uses": "Syötäväksi kelpaamaton. Se on harvinaisista sienistä rikkaiden vanhojen kuusikoiden ilmentäjä ja lailla suojeltu Slovakiassa; sitä ei pidä koskaan kerätä.",
+      "confusion": "Hydnellum compactum muistuttaa sitä ensi silmäyksellä, mutta kasvaa lehtipuiden alla, sen lakki on huopainen eikä harjaksinen ja maku voimakkaasti polttava. Hydnellum ferrugineum -lajin lakki on samettinen ilman harjaksia, ja nuorena se erittää punaisia pisaroita. Phellodon tomentosus ja Phellodon melaleucus ovat ohuempia ja vyöhykkeisiä, ja niillä on valkoiset itiöt ja vaaleanharmaat piikit.",
+      "notes": "Elias Fries kuvasi lajin ensimmäisen kerran vuonna 1863 nimellä Hydnum mirabile, ja Petter Adolf Karsten siirsi sen Hydnellum-sukuun vuonna 1879. Nimeä Hydnellum acre käytettiin aiemmin sekä tästä lajista että lajista Hydnellum compactum. IUCN:n punainen lista (2015) arvioi sen vaarantuneeksi (Vulnerable): avohakkuut ovat vähentäneet sen vanhan metsän elinympäristöjä arviolta 30–50 % 50 vuodessa, ja esiintymiä arvellaan olevan alle 500. Se on punaisella listalla Ruotsissa, Ranskassa, Norjassa ja Suomessa, ja Tšekissä se oli luokiteltu alueellisesti hävinneeksi. Se oli Itävallan vuoden sieni 2022.",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.205980",
+        "https://www.wikidata.org/wiki/Q10648554",
+        "https://fi.wikipedia.org/wiki/Partaorakas"
+      ],
+      "label": "partaorakas"
+    },
+    "fr": {
+      "description": "Un champignon à aiguillons rare et voyant du genre Hydnellum, aux fructifications bosselées, feutrées-hérissées, jaunâtres à brunes, avec des aiguillons bruns à la face inférieure. Il forme des mycorhizes avec l'épicéa et le pin dans des forêts de conifères anciennes sur sols riches en bases et il est classé Vulnérable (Vulnerable) sur la Liste rouge de l'UICN (IUCN), car les coupes rases ont détruit une grande partie de son habitat.",
+      "cap": "3–15 cm de diamètre, en toupie, en coussin ou en entonnoir peu profond, très irrégulier et bosselé ; les fructifications voisines fusionnent souvent. La surface est d'abord veloutée-feutrée, puis laineuse et enfin couverte de poils dressés, raides et hérissés ; jaune paille à jaune, surtout à la marge, s'assombrissant en brun rougeâtre, brun olive ou brun foncé vers le centre et avec l'âge.",
+      "hymenium": "Aiguillons serrés jusqu'à 5 mm de long, d'abord gris pâle ou jaunâtre pâle, puis bruns à brun pourpré avec des pointes plus claires, subulés à aplatis et décurrents sur le pied.",
+      "stipe": "Court et souvent réduit à une base atténuée, 1–5 cm de long et 0,5–2,5 cm d'épaisseur, velouté-feutré, d'abord blanchâtre, puis brun à brun pourpré, plus foncé et poilu à la base ; un pied nettement délimité est généralement absent.",
+      "flesh": "Pâle et zonée de lignes plus sombres, blanchâtre à brun jaunâtre, devenant brune ; fibreuse, coriace comme du liège mais assez molle et très légère. L'odeur est farineuse et la saveur faiblement astringente à amarescente ou un peu âcre. Une goutte d'hydroxyde de potassium (KOH) ne change guère la couleur de la chair.",
+      "sporePrint": "Brune. Les spores sont presque sphériques, verruqueuses et mesurent environ 5–7 × 4,5–6 µm.",
+      "habitat": "Partenaire ectomycorhizien de l'épicéa commun (Picea abies) et plus rarement du pin sylvestre (Pinus sylvestris). Il pousse au sol parmi les mousses, souvent en groupes ou en rangées, dans des forêts de conifères anciennes riches en mousses et en herbacées, sur sols riches en bases ou calcaires à longue continuité forestière. Les fructifications apparaissent de juillet à octobre. L'aire principale se situe en Fennoscandie, avec environ 200 localités connues en Norvège, en Suède et en Finlande, et s'étend jusqu'en Russie ; en Europe centrale il n'existe que 20–25 localités dans les Alpes et les Carpates, en Autriche vers 850–1500 m d'altitude. Les mentions d'Amérique du Nord doivent encore être comparées au matériel européen.",
+      "uses": "Non comestible. C'est un indicateur des vieilles pessières riches en champignons rares et il est légalement protégé en Slovaquie ; il ne doit jamais être récolté.",
+      "confusion": "Hydnellum compactum lui ressemble au premier coup d'œil, mais pousse sous les feuillus, a un chapeau feutré plutôt que hérissé et une saveur fortement âcre. Hydnellum ferrugineum a un chapeau velouté sans soies et exsude des gouttelettes rouges lorsqu'il est jeune. Phellodon tomentosus et Phellodon melaleucus sont plus minces, zonés et ont des spores blanches et des aiguillons gris pâle.",
+      "notes": "Décrit pour la première fois par Elias Fries en 1863 sous le nom d'Hydnum mirabile et transféré dans Hydnellum par Petter Adolf Karsten en 1879. Le nom Hydnellum acre était autrefois appliqué à la fois à cette espèce et à Hydnellum compactum. La Liste rouge de l'UICN (IUCN, 2015) le classe Vulnérable (Vulnerable) : les coupes rases ont réduit son habitat de forêt ancienne d'environ 30–50 % en 50 ans, et l'on estime qu'il existe moins de 500 localités. Il figure sur les listes rouges de Suède, de France, de Norvège et de Finlande et était considéré comme disparu au niveau régional en Tchéquie. Il a été le champignon de l'année 2022 en Autriche.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2522221"
+      ],
+      "label": "hydne remarquable"
+    },
+    "he": {
+      "description": "פטרייה קוצנית נדירה ובולטת מהסוג Hydnellum, בעלת גופי פרי גבשושיים, לבדיים עד זיפיים, צהבהבים עד חומים, וקוצים חומים בצד התחתון. היא יוצרת מיקוריזה עם אשוח ואורן ביערות מחטניים עתיקים על קרקעות עשירות בבסיסים, ומוערכת כפגיעה (Vulnerable) ברשימה האדומה של IUCN, משום שכריתות מלאות הרסו חלק גדול מבתי הגידול שלה.",
+      "cap": "רוחב 3–15 ס״מ, דמוי סביבון, כרית או משפך רדוד, בלתי סדיר מאוד וגבשושי; גופי פרי סמוכים מתאחים לעיתים קרובות. פני השטח בתחילה קטיפתיים־לבדיים, אחר כך צמריים ולבסוף מכוסים בשערות זקופות, נוקשות וזיפיות; צהוב־קש עד צהוב, בעיקר בשוליים, ומכהה לכיוון המרכז ועם הגיל לחום־אדמדם, חום־זיתי או חום כהה.",
+      "hymenium": "קוצים צפופים באורך עד 5 מ״מ, בתחילה אפורים בהירים או צהבהבים בהירים, מאוחר יותר חומים עד חומים־סגלגלים עם קצוות בהירים יותר, מרצעיים עד פחוסים ויורדים על הגבעול.",
+      "stipe": "קצר ולעיתים קרובות רק בסיס מצטמצם, באורך 1–5 ס״מ ובעובי 0.5–2.5 ס״מ, קטיפתי־לבדי, בתחילה לבנבן, מאוחר יותר חום עד חום־סגלגל, כהה יותר ושעיר בבסיס; גבעול נפרד בבירור חסר בדרך כלל.",
+      "flesh": "בהירה ומאוזנת בקווים כהים יותר, לבנבנה עד חומה־צהבהבה, ואחר כך חומה; סיבית, קשוחה כשעם אך רכה יחסית וקלה מאוד. הריח קמחי והטעם מכווץ מעט עד מרירי או חריף במקצת. טיפה של אשלגן הידרוקסידי (KOH) כמעט אינה משנה את צבע הבשר.",
+      "sporePrint": "חום. הנבגים כמעט כדוריים, יבלוליים, בגודל של כ־5–7 × 4.5–6 µm.",
+      "habitat": "שותפה אקטומיקוריזית של אשוחית אירופית (Picea abies) ולעיתים רחוקות יותר של אורן החורש הסקוטי (Pinus sylvestris). היא גדלה על הקרקע בין טחבים, לעיתים קרובות בקבוצות או בשורות, ביערות מחטניים עתיקים עשירים בטחבים ובצמחים עשבוניים, על קרקעות עשירות בבסיסים או גירניות עם רציפות יערנית ארוכה. גופי הפרי מופיעים מיולי עד אוקטובר. תחום התפוצה העיקרי הוא פנוסקנדיה, עם כ־200 אתרים ידועים בנורווגיה, בשוודיה ובפינלנד, והוא משתרע עד רוסיה; במרכז אירופה יש רק 20–25 אתרים בהרי האלפים ובקרפטים, ובאוסטריה בגובה של כ־850–1500 מ׳. דיווחים מצפון אמריקה עדיין דורשים השוואה לחומר אירופי.",
+      "uses": "אינה ראויה למאכל. היא מינה מציין של יערות אשוחית עתיקים העשירים בפטריות נדירות, ומוגנת בחוק בסלובקיה; אין לקטוף אותה לעולם.",
+      "confusion": "Hydnellum compactum דומה לה במבט ראשון, אך גדלה מתחת לעצים רחבי עלים, בעלת כובע לבדי ולא זיפי וטעם חריף מאוד. ל־Hydnellum ferrugineum כובע קטיפתי ללא זיפים, ובצעירותה היא מפרישה טיפות אדומות. Phellodon tomentosus ו־Phellodon melaleucus דקות יותר, מאוזנות, ובעלות נבגים לבנים וקוצים אפורים בהירים.",
+      "notes": "תוארה לראשונה בידי אליאס פריס בשנת 1863 בשם Hydnum mirabile והועברה אל Hydnellum בידי פטר אדולף קרסטן בשנת 1879. השם Hydnellum acre שימש בעבר הן למין זה והן ל־Hydnellum compactum. הרשימה האדומה של IUCN (2015) מעריכה אותה כפגיעה (Vulnerable): כריתות מלאות צמצמו את בתי הגידול שלה ביערות עתיקים בכ־30–50% במשך 50 שנה, ומשערים שקיימים פחות מ־500 אתרים. היא כלולה ברשימות האדומות של שוודיה, צרפת, נורווגיה ופינלנד, ובצ׳כיה נחשבה נכחדת אזורית. בשנת 2022 הייתה פטריית השנה של אוסטריה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Hydnellum वंश का एक दुर्लभ और आकर्षक काँटेदार कवक, जिसके फलनकाय गांठदार, नमदे जैसे से कड़े रोएँदार, पीले से भूरे होते हैं और निचली सतह पर भूरे काँटे होते हैं। यह क्षार-समृद्ध मिट्टी वाले पुराने शंकुधारी वनों में स्प्रूस और चीड़ के साथ कवकमूल बनाता है, और IUCN लाल सूची में संकटग्रस्त (Vulnerable) आँका गया है, क्योंकि पूर्ण कटाई ने इसके आवास का बड़ा भाग नष्ट कर दिया है।",
+      "cap": "3–15 सेमी चौड़ी, लट्टू जैसी, गद्दी जैसी या उथली कीप जैसी, बहुत अनियमित और गांठदार; पास-पास के फलनकाय अक्सर आपस में जुड़ जाते हैं। सतह आरंभ में मखमली नमदे जैसी, फिर ऊनी और अंत में सीधे, कड़े, खुरदरे रोमों से ढकी होती है; भूसे जैसी पीली से पीली, विशेषकर किनारे पर, और केंद्र की ओर तथा उम्र के साथ लाल-भूरी, जैतूनी-भूरी या गहरी भूरी हो जाती है।",
+      "hymenium": "घने काँटे 5 मिमी तक लंबे, पहले हल्के धूसर या हल्के पीले, बाद में भूरे से बैंगनी-भूरे, सिरे अधिक हल्के, सुए जैसे से चपटे और डंठल पर नीचे की ओर उतरते हुए।",
+      "stipe": "छोटा और अक्सर केवल पतला होता आधार, 1–5 सेमी लंबा और 0.5–2.5 सेमी मोटा, मखमली नमदे जैसा, पहले सफ़ेद-सा, बाद में भूरा से बैंगनी-भूरा, आधार पर अधिक गहरा और रोएँदार; स्पष्ट रूप से अलग डंठल प्रायः नहीं होता।",
+      "flesh": "हल्का और गहरी रेखाओं से पट्टीदार, सफ़ेद-सा से पीला-भूरा, बाद में भूरा; रेशेदार, कॉर्क जैसा सख़्त पर अपेक्षाकृत नरम और बहुत हल्का। गंध आटे जैसी और स्वाद हल्का कसैला से कड़वा-सा या थोड़ा तीखा। पोटैशियम हाइड्रॉक्साइड (KOH) की एक बूंद गूदे का रंग लगभग नहीं बदलती।",
+      "sporePrint": "भूरा। बीजाणु लगभग गोल, मस्सेदार, लगभग 5–7 × 4.5–6 µm के होते हैं।",
+      "habitat": "नॉर्वे स्प्रूस (Picea abies) और कम बार स्कॉट्स चीड़ (Pinus sylvestris) का बाह्य कवकमूल साझेदार। यह भूमि पर काई के बीच, अक्सर समूहों या पंक्तियों में, लंबी वन-निरंतरता वाली क्षार-समृद्ध या चूनेदार मिट्टी पर काई और शाकीय पौधों से भरपूर पुराने शंकुधारी वनों में उगता है। फलनकाय जुलाई से अक्टूबर तक दिखाई देते हैं। मुख्य क्षेत्र फ़ेनोस्कैंडिया है, जहाँ नॉर्वे, स्वीडन और फ़िनलैंड में लगभग 200 ज्ञात स्थल हैं, और यह रूस तक फैला है; मध्य यूरोप में आल्प्स और कार्पेथियन में केवल 20–25 स्थल हैं, ऑस्ट्रिया में लगभग 850–1500 मीटर की ऊँचाई पर। उत्तरी अमेरिका के अभिलेखों की अभी यूरोपीय नमूनों से तुलना करनी बाकी है।",
+      "uses": "अखाद्य। यह दुर्लभ कवकों से समृद्ध पुराने स्प्रूस वनों का सूचक है और स्लोवाकिया में कानून द्वारा संरक्षित है; इसे कभी नहीं तोड़ना चाहिए।",
+      "confusion": "Hydnellum compactum पहली नज़र में मिलता-जुलता है, पर चौड़ी पत्ती वाले पेड़ों के नीचे उगता है, इसकी टोपी कड़े रोएँदार के बजाय नमदे जैसी होती है और स्वाद बहुत तीखा होता है। Hydnellum ferrugineum की टोपी बिना कड़े रोमों के मखमली होती है और युवा अवस्था में यह लाल बूंदें स्रावित करता है। Phellodon tomentosus और Phellodon melaleucus पतले, पट्टीदार होते हैं और उनके बीजाणु सफ़ेद तथा काँटे हल्के धूसर होते हैं।",
+      "notes": "इसका पहला वर्णन एलियास फ़्राइस ने 1863 में Hydnum mirabile नाम से किया, और 1879 में पेटर अडोल्फ़ कार्स्टेन ने इसे Hydnellum में स्थानांतरित किया। Hydnellum acre नाम पहले इस प्रजाति और Hydnellum compactum दोनों के लिए प्रयुक्त होता था। IUCN लाल सूची (2015) इसे संकटग्रस्त (Vulnerable) आँकती है: पूर्ण कटाई ने 50 वर्षों में इसके पुराने वन आवास को अनुमानतः 30–50% घटा दिया है, और माना जाता है कि 500 से कम स्थल मौजूद हैं। यह स्वीडन, फ़्रांस, नॉर्वे और फ़िनलैंड की लाल सूचियों में शामिल है और चेकिया में क्षेत्रीय रूप से विलुप्त माना गया था। 2022 में यह ऑस्ट्रिया का वर्ष का कवक था।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Rijetka, upadljiva bodljikava gljiva iz roda Hydnellum s kvrgavim, pustenasto-čekinjastim, žućkastim do smeđim plodištima i smeđim bodljama na donjoj strani. Tvori mikorizu sa smrekom i borom u starim prašumskim crnogoričnim šumama na tlima bogatima bazama i na Crvenom popisu IUCN-a procijenjena je kao osjetljiva (Vulnerable) jer su čiste sječe uništile velik dio njezinih staništa.",
+      "cap": "Širok 3–15 cm, zvrkast, jastučast ili plitko ljevkast, vrlo nepravilan i kvrgav; susjedna plodišta često srastaju. Površina je isprva baršunasto pustenasta, zatim vunasta i naposljetku prekrivena uspravnim, krutim, čekinjastim dlakama; slamnatožut do žut, osobito na rubu, prema sredini i starenjem tamni u crvenkastosmeđu, maslinastosmeđu ili tamnosmeđu.",
+      "hymenium": "Guste bodlje duge do 5 mm, isprva svijetlosive ili svijetložućkaste, kasnije smeđe do purpurnosmeđe sa svjetlijim vršcima, šiljaste do spljoštene i silazne na stručak.",
+      "stipe": "Kratak i često samo suženo podnožje, dug 1–5 cm i debeo 0,5–2,5 cm, baršunasto pustenast, isprva bjelkast, kasnije smeđ do purpurnosmeđ, pri dnu tamniji i dlakav; jasno odvojen stručak obično nedostaje.",
+      "flesh": "Svijetlo i zonirano tamnijim crtama, bjelkasto do žućkastosmeđe, kasnije smeđe; vlaknasto, plutasto žilavo, ali razmjerno meko i vrlo lagano. Miris je brašnast, a okus slabo opor do gorkast ili pomalo ljut. Kap kalijeva hidroksida (KOH) jedva mijenja boju mesa.",
+      "sporePrint": "Smeđi. Spore su gotovo okrugle, bradavičaste, oko 5–7 × 4,5–6 µm.",
+      "habitat": "Ektomikorizni partner obične smreke (Picea abies) i rjeđe običnog bora (Pinus sylvestris). Raste na tlu među mahovinom, često u skupinama ili nizovima, u starim crnogoričnim šumama bogatima mahovinom i zeljastim biljem, na tlima bogatima bazama ili vapnenačkim tlima s dugim kontinuitetom šume. Plodišta se pojavljuju od srpnja do listopada. Glavni areal je u Fenoskandiji, s oko 200 poznatih nalazišta u Norveškoj, Švedskoj i Finskoj, a seže do Rusije; u srednjoj Europi postoji samo 20–25 nalazišta u Alpama i Karpatima, u Austriji na oko 850–1500 m nadmorske visine. Nalaze iz Sjeverne Amerike tek treba usporediti s europskim materijalom.",
+      "uses": "Nejestiva. Pokazatelj je starih smrekovih šuma bogatih rijetkim gljivama i zakonom je zaštićena u Slovačkoj; nikada je ne treba sakupljati.",
+      "confusion": "Hydnellum compactum na prvi pogled izgleda slično, ali raste pod listopadnim drvećem, ima pustenast, a ne čekinjast klobuk i jako ljut okus. Hydnellum ferrugineum ima baršunast klobuk bez čekinja i dok je mlada izlučuje crvene kapljice. Phellodon tomentosus i Phellodon melaleucus tanji su, zonirani i imaju bijele spore i svijetlosive bodlje.",
+      "notes": "Prvi ju je opisao Elias Fries 1863. kao Hydnum mirabile, a u rod Hydnellum premjestio ju je Petter Adolf Karsten 1879. Ime Hydnellum acre nekoć se primjenjivalo i na ovu vrstu i na Hydnellum compactum. Crveni popis IUCN-a (2015) procjenjuje je kao osjetljivu (Vulnerable): čiste sječe smanjile su njezina staništa starih šuma za procijenjenih 30–50 % u 50 godina, a smatra se da postoji manje od 500 nalazišta. Nalazi se na crvenim popisima Švedske, Francuske, Norveške i Finske, a u Češkoj se vodila kao regionalno izumrla. Bila je austrijska gljiva godine 2022.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Ritka, feltűnő gereben a Hydnellum nemzetségből, gumós, nemezes-sörtés, sárgás vagy barna termőtestekkel és alsó oldalán barna tüskékkel. Lucfenyővel és erdeifenyővel alkot gyökérkapcsoltságot idős, természetes fenyvesekben, bázisokban gazdag talajon, és az IUCN Vörös Listáján sebezhető (Vulnerable) besorolású, mert a tarvágások élőhelyeinek nagy részét elpusztították.",
+      "cap": "3–15 cm széles, búgócsiga, párna vagy sekély tölcsér alakú, nagyon szabálytalan és gumós; a szomszédos termőtestek gyakran összenőnek. Felszíne fiatalon bársonyosan nemezes, majd gyapjas, végül felálló, merev, sörteszerű szőrökkel borított; szalmasárga vagy sárga, főleg a szélén, a közepe felé és idővel vörösbarnára, olívbarnára vagy sötétbarnára sötétedik.",
+      "hymenium": "Sűrű, legfeljebb 5 mm hosszú tüskék, eleinte világosszürkék vagy világos sárgásak, később barnák vagy bíborbarnák világosabb csúccsal, árszerűek vagy lapítottak, és lefutnak a tönkre.",
+      "stipe": "Rövid, gyakran csak elkeskenyedő tő, 1–5 cm hosszú és 0,5–2,5 cm vastag, bársonyosan nemezes, eleinte fehéres, később barna vagy bíborbarna, a tövénél sötétebb és szőrös; jól elkülönülő tönk többnyire nincs.",
+      "flesh": "Világos, sötétebb vonalakkal zónázott, fehéres vagy sárgásbarna, később barna; rostos, parafaszerűen szívós, de viszonylag puha és nagyon könnyű. Szaga lisztes, íze gyengén fanyar, kesernyés vagy kissé csípős. Egy csepp kálium-hidroxid (KOH) alig változtatja meg a hús színét.",
+      "sporePrint": "Barna. A spórák csaknem gömbölyűek, szemölcsösek, kb. 5–7 × 4,5–6 µm-esek.",
+      "habitat": "A közönséges lucfenyő (Picea abies) és ritkábban az erdeifenyő (Pinus sylvestris) ektomikorrhizás partnere. A talajon, mohák között nő, gyakran csoportosan vagy sorokban, idős, mohás és lágyszárúakban gazdag fenyvesekben, bázisokban gazdag vagy meszes talajon, hosszú erdőfolytonossággal. Termőtestei júliustól októberig jelennek meg. Fő elterjedési területe Fennoszkandia, ahol Norvégiában, Svédországban és Finnországban mintegy 200 lelőhelye ismert, és Oroszországig terjed; Közép-Európában csak 20–25 lelőhelye van az Alpokban és a Kárpátokban, Ausztriában kb. 850–1500 m magasságban. Az észak-amerikai adatokat még össze kell vetni európai anyaggal.",
+      "uses": "Nem ehető. A ritka gombákban gazdag idős lucosok jelzőfaja, Szlovákiában törvény védi; soha nem szabad gyűjteni.",
+      "confusion": "A Hydnellum compactum első ránézésre hasonló, de lombos fák alatt nő, kalapja nemezes, nem sörtés, és íze erősen csípős. A Hydnellum ferrugineum kalapja bársonyos, sörték nélküli, és fiatalon vörös cseppeket választ ki. A Phellodon tomentosus és a Phellodon melaleucus vékonyabb, zónázott, spórái fehérek, tüskéi világosszürkék.",
+      "notes": "Elias Fries írta le először 1863-ban Hydnum mirabile néven, és Petter Adolf Karsten helyezte át a Hydnellum nemzetségbe 1879-ben. A Hydnellum acre nevet korábban ugyanúgy használták erre a fajra, mint a Hydnellum compactum fajra. Az IUCN Vörös Listája (2015) sebezhetőnek (Vulnerable) minősíti: a tarvágások idős erdei élőhelyét becslések szerint 50 év alatt 30–50%-kal csökkentették, és feltehetően kevesebb mint 500 lelőhelye létezik. Szerepel Svédország, Franciaország, Norvégia és Finnország vörös listáján, Csehországban pedig regionálisan kihaltnak tartották. 2022-ben Ausztria az év gombájának választotta.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur berduri yang langka dan mencolok dari genus Hydnellum, dengan tubuh buah berbenjol, berbulu kempa hingga kasar, kekuningan hingga cokelat, dan duri cokelat di sisi bawah. Jamur ini membentuk mikoriza dengan pohon spruce dan pinus di hutan konifer tua yang alami pada tanah kaya basa, dan dinilai Rentan (Vulnerable) dalam Daftar Merah IUCN karena tebang habis telah menghancurkan sebagian besar habitatnya.",
+      "cap": "Lebar 3–15 cm, berbentuk gasing, bantalan, atau corong dangkal, sangat tidak beraturan dan berbenjol; tubuh buah yang berdekatan sering menyatu. Permukaannya mula-mula berbulu halus seperti beludru dan kempa, kemudian berbulu wol, dan akhirnya tertutup rambut tegak, kaku, dan kasar seperti sikat; kuning jerami hingga kuning, terutama di tepinya, menggelap ke arah tengah dan seiring umur menjadi cokelat kemerahan, cokelat zaitun, atau cokelat tua.",
+      "hymenium": "Duri rapat hingga 5 mm panjangnya, mula-mula abu-abu pucat atau kekuningan pucat, kemudian cokelat hingga cokelat keunguan dengan ujung lebih pucat, berbentuk penusuk hingga pipih dan menurun ke tangkai.",
+      "stipe": "Pendek dan sering hanya berupa pangkal yang menyempit, panjang 1–5 cm dan tebal 0,5–2,5 cm, berbulu seperti beludru, mula-mula keputihan, kemudian cokelat hingga cokelat keunguan, lebih gelap dan berambut di pangkal; tangkai yang jelas terpisah biasanya tidak ada.",
+      "flesh": "Pucat dan berzona dengan garis-garis lebih gelap, keputihan hingga cokelat kekuningan, kemudian cokelat; berserat, liat seperti gabus tetapi relatif lunak dan sangat ringan. Baunya seperti tepung dan rasanya sedikit sepat hingga agak pahit atau sedikit pedas. Setetes kalium hidroksida (KOH) hampir tidak mengubah warna daging buah.",
+      "sporePrint": "Cokelat. Sporanya hampir bulat, berkutil, dan berukuran sekitar 5–7 × 4,5–6 µm.",
+      "habitat": "Mitra ektomikoriza spruce Norwegia (Picea abies) dan lebih jarang pinus skotlandia (Pinus sylvestris). Tumbuh di tanah di antara lumut, sering berkelompok atau berderet, di hutan konifer tua yang kaya lumut dan tumbuhan herba, pada tanah kaya basa atau berkapur dengan kesinambungan hutan yang panjang. Tubuh buah muncul dari Juli hingga Oktober. Wilayah sebaran utamanya di Fenoskandia, dengan sekitar 200 lokasi yang diketahui di Norwegia, Swedia, dan Finlandia, dan meluas hingga Rusia; di Eropa Tengah hanya ada 20–25 lokasi di Pegunungan Alpen dan Karpatia, di Austria pada ketinggian sekitar 850–1500 m. Laporan dari Amerika Utara masih perlu dibandingkan dengan material Eropa.",
+      "uses": "Tidak dapat dimakan. Jamur ini merupakan indikator hutan spruce tua yang kaya jamur langka dan dilindungi undang-undang di Slovakia; jamur ini tidak boleh dipetik.",
+      "confusion": "Hydnellum compactum sekilas tampak mirip, tetapi tumbuh di bawah pohon berdaun lebar, tudungnya berbulu kempa alih-alih kasar, dan rasanya sangat pedas. Hydnellum ferrugineum memiliki tudung seperti beludru tanpa bulu kaku dan mengeluarkan tetesan merah saat muda. Phellodon tomentosus dan Phellodon melaleucus lebih tipis, berzona, serta memiliki spora putih dan duri abu-abu pucat.",
+      "notes": "Pertama kali dideskripsikan oleh Elias Fries pada tahun 1863 sebagai Hydnum mirabile dan dipindahkan ke Hydnellum oleh Petter Adolf Karsten pada tahun 1879. Nama Hydnellum acre dahulu diterapkan baik untuk spesies ini maupun untuk Hydnellum compactum. Daftar Merah IUCN (2015) menilainya Rentan (Vulnerable): tebang habis telah mengurangi habitat hutan tuanya sekitar 30–50% dalam 50 tahun, dan diperkirakan terdapat kurang dari 500 lokasi. Jamur ini masuk daftar merah Swedia, Prancis, Norwegia, dan Finlandia, dan pernah dianggap punah secara regional di Ceko. Jamur ini adalah jamur tahun 2022 di Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo idnoide raro e appariscente del genere Hydnellum, con corpi fruttiferi bitorzoluti, feltrato-ispidi, da giallastri a bruni e aculei bruni sulla faccia inferiore. Forma micorrize con abete rosso e pino in foreste di conifere vetuste su suoli ricchi di basi ed è valutato Vulnerabile (Vulnerable) nella Lista Rossa IUCN, perché i tagli a raso hanno distrutto gran parte del suo habitat.",
+      "cap": "Largo 3–15 cm, turbinato, pulvinato o a imbuto poco profondo, molto irregolare e bitorzoluto; i corpi fruttiferi vicini spesso si fondono. La superficie è dapprima vellutato-feltrata, poi lanosa e infine coperta di peli eretti, rigidi e ispidi; giallo paglierino a giallo, soprattutto al margine, scurisce verso il centro e con l'età in bruno rossastro, bruno oliva o bruno scuro.",
+      "hymenium": "Aculei fitti lunghi fino a 5 mm, dapprima grigio chiaro o giallastro chiaro, poi bruni fino a bruno porpora con le punte più chiare, subulati o appiattiti e decorrenti sul gambo.",
+      "stipe": "Corto e spesso solo una base attenuata, lungo 1–5 cm e spesso 0,5–2,5 cm, vellutato-feltrato, dapprima biancastro, poi bruno fino a bruno porpora, più scuro e peloso alla base; di solito manca un gambo nettamente distinto.",
+      "flesh": "Chiara e zonata da linee più scure, da biancastra a bruno giallastra, poi bruna; fibrosa, tenace come sughero ma relativamente morbida e molto leggera. L'odore è farinoso e il sapore debolmente astringente, amarognolo o un po' acre. Una goccia di idrossido di potassio (KOH) cambia appena il colore della carne.",
+      "sporePrint": "Bruna. Le spore sono quasi sferiche, verrucose e misurano circa 5–7 × 4,5–6 µm.",
+      "habitat": "Partner ectomicorrizico dell'abete rosso (Picea abies) e più raramente del pino silvestre (Pinus sylvestris). Cresce a terra tra i muschi, spesso in gruppi o file, in foreste di conifere vetuste ricche di muschi ed erbe, su suoli ricchi di basi o calcarei con lunga continuità forestale. I corpi fruttiferi compaiono da luglio a ottobre. L'areale principale è in Fennoscandia, con circa 200 località note in Norvegia, Svezia e Finlandia, e si estende fino alla Russia; in Europa centrale vi sono solo 20–25 località nelle Alpi e nei Carpazi, in Austria a circa 850–1500 m di quota. Le segnalazioni nordamericane devono ancora essere confrontate con materiale europeo.",
+      "uses": "Non commestibile. È un indicatore di vecchie peccete ricche di funghi rari ed è protetto per legge in Slovacchia; non dovrebbe mai essere raccolto.",
+      "confusion": "Hydnellum compactum gli somiglia a prima vista, ma cresce sotto latifoglie, ha il cappello feltrato anziché ispido e sapore fortemente acre. Hydnellum ferrugineum ha il cappello vellutato senza setole ed essuda goccioline rosse da giovane. Phellodon tomentosus e Phellodon melaleucus sono più sottili, zonati e hanno spore bianche e aculei grigio chiaro.",
+      "notes": "Descritto per la prima volta da Elias Fries nel 1863 come Hydnum mirabile e trasferito in Hydnellum da Petter Adolf Karsten nel 1879. Il nome Hydnellum acre era un tempo applicato sia a questa specie sia a Hydnellum compactum. La Lista Rossa IUCN (2015) lo valuta Vulnerabile (Vulnerable): i tagli a raso hanno ridotto il suo habitat di foresta vetusta di circa il 30–50 % in 50 anni e si stima che esistano meno di 500 località. È nelle liste rosse di Svezia, Francia, Norvegia e Finlandia ed era considerato estinto a livello regionale in Cechia. È stato il fungo dell'anno 2022 in Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Hydnellum属に属する希少で目立つ針状菌で、こぶ状でフェルト状から剛毛状の、黄色みを帯びたものから褐色の子実体をつけ、裏面には褐色の針がある。塩基に富む土壌の老齢針葉樹林でトウヒやマツと菌根をつくり、皆伐によって生息地の多くが失われたため、IUCNレッドリストで危急種(Vulnerable)と評価されている。",
+      "cap": "径3–15 cm、こま形、クッション形または浅い漏斗形で、非常に不規則でこぶ状。隣り合う子実体はしばしば癒合する。表面は若いうちはビロード状のフェルト質で、のちに綿毛状となり、最後には直立した硬い剛毛状の毛におおわれる。麦わら色から黄色で、特に縁で目立ち、中央に向かって、また古くなると赤褐色、オリーブ褐色または暗褐色に濃くなる。",
+      "hymenium": "密生する針は長さ5 mmまで、はじめ淡灰色または淡黄色、のちに褐色から紫褐色で先端は淡色、錐形から扁平で、柄に垂生する。",
+      "stipe": "短く、しばしば細まった基部にすぎず、長さ1–5 cm、太さ0.5–2.5 cm、ビロード状のフェルト質で、はじめ白っぽく、のちに褐色から紫褐色、基部はより暗色で毛がある。はっきり区別できる柄はふつうない。",
+      "flesh": "淡色で暗色の線による環紋があり、白っぽいものから黄褐色、のちに褐色。繊維質でコルク状に強靭だが、比較的柔らかく非常に軽い。においは粉臭、味はわずかに渋く、やや苦いか少し辛い。水酸化カリウム(KOH)を一滴たらしても肉の色はほとんど変わらない。",
+      "sporePrint": "褐色。胞子はほぼ球形でいぼがあり、約5–7 × 4.5–6 µm。",
+      "habitat": "ドイツトウヒ(Picea abies)、まれにヨーロッパアカマツ(Pinus sylvestris)と外生菌根をつくる。森林が長く連続している、塩基に富むか石灰質の土壌の、コケと草本に富む老齢針葉樹林で、地上のコケの間にしばしば群生または列をなして生える。子実体は七月から十月にかけて見られる。主な分布域はフェノスカンジアで、ノルウェー、スウェーデン、フィンランドに約200か所の既知産地があり、ロシアまで広がる。中央ヨーロッパではアルプスとカルパティア山脈に20–25か所しかなく、オーストリアでは標高約850–1500メートルに産する。北米からの記録は、まだヨーロッパの標本と比較する必要がある。",
+      "uses": "食用不適。希少な菌類に富む古いトウヒ林の指標種で、スロバキアでは法律で保護されている。決して採取してはならない。",
+      "confusion": "Hydnellum compactumは一見よく似るが、広葉樹の下に生え、かさは剛毛状ではなくフェルト状で、味は強く辛い。Hydnellum ferrugineumはかさがビロード状で剛毛がなく、若いうちは赤い液滴を分泌する。Phellodon tomentosusとPhellodon melaleucusはより薄く、環紋があり、胞子は白色で針は淡灰色である。",
+      "notes": "1863年にエリアス・フリースによりHydnum mirabileとして初めて記載され、1879年にペッテル・アドルフ・カルステンによりHydnellum属に移された。Hydnellum acreという名は、かつてこの種とHydnellum compactumの両方に用いられていた。IUCNレッドリスト(2015)は本種を危急種(Vulnerable)と評価している。皆伐により老齢林の生息地は50年間で推定30–50%減少し、産地は500か所未満と考えられている。スウェーデン、フランス、ノルウェー、フィンランドのレッドリストに掲載され、チェコでは地域絶滅とされていた。2022年にはオーストリアの「今年のきのこ」に選ばれた。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "Hydnellum 속에 속하는 희귀하고 눈에 띄는 침버섯으로, 혹이 많고 펠트질에서 거친 털이 난 노르스름하거나 갈색인 자실체와 아랫면의 갈색 침을 가진다. 염기가 풍부한 토양의 오래된 침엽수림에서 가문비나무와 소나무와 균근을 형성하며, 개벌로 서식지 상당 부분이 파괴되어 IUCN 적색목록에서 취약(Vulnerable)으로 평가된다.",
+      "cap": "지름 3–15 cm, 팽이 모양, 방석 모양 또는 얕은 깔때기 모양이며 매우 불규칙하고 울퉁불퉁하다. 이웃한 자실체가 흔히 서로 붙어 자란다. 표면은 어릴 때 벨벳 같은 펠트질이고, 이후 솜털 모양이 되며, 마침내 곧게 선 뻣뻣한 강모 같은 털로 덮인다. 밀짚 노란색에서 노란색이며 특히 가장자리가 그렇고, 중앙 쪽으로 그리고 나이가 들면서 적갈색, 올리브갈색 또는 암갈색으로 짙어진다.",
+      "hymenium": "빽빽한 침은 길이 5 mm까지이며, 처음에는 연회색 또는 연노란색이고 나중에 갈색에서 자갈색이 되며 끝은 더 연하다. 송곳 모양에서 납작한 모양이며 대에 내려붙는다.",
+      "stipe": "짧고 흔히 가늘어지는 밑동에 불과하며, 길이 1–5 cm, 굵기 0.5–2.5 cm, 벨벳 같은 펠트질이다. 처음에는 희끄무레하고 나중에 갈색에서 자갈색이 되며, 밑동은 더 어둡고 털이 있다. 뚜렷이 구분되는 대는 보통 없다.",
+      "flesh": "연한 색이며 더 어두운 선으로 테무늬가 있고, 희끄무레한 색에서 황갈색이며 나중에 갈색이 된다. 섬유질이고 코르크처럼 질기지만 비교적 부드럽고 매우 가볍다. 냄새는 밀가루 냄새이고 맛은 약간 떫거나 쌉쌀하거나 조금 맵다. 수산화칼륨(KOH)을 한 방울 떨어뜨려도 살의 색은 거의 변하지 않는다.",
+      "sporePrint": "갈색. 포자는 거의 구형이고 사마귀 모양 돌기가 있으며 약 5–7 × 4.5–6 µm이다.",
+      "habitat": "독일가문비(Picea abies)와, 드물게는 구주소나무(Pinus sylvestris)와 외생균근을 형성한다. 숲의 연속성이 오래된, 염기가 풍부하거나 석회질인 토양의 이끼와 초본이 풍부한 오래된 침엽수림에서 땅 위 이끼 사이에 흔히 무리 지어 또는 줄지어 자란다. 자실체는 칠월부터 시월까지 나타난다. 주 분포지는 페노스칸디아로, 노르웨이·스웨덴·핀란드에 약 200곳의 알려진 산지가 있으며 러시아까지 이어진다. 중부 유럽에는 알프스와 카르파티아산맥에 20–25곳만 있고, 오스트리아에서는 해발 약 850–1500미터에서 발견된다. 북미의 기록은 아직 유럽 표본과 비교해야 한다.",
+      "uses": "식용 불가. 희귀 균류가 풍부한 오래된 가문비나무 숲의 지표종이며 슬로바키아에서는 법으로 보호된다. 절대 채집해서는 안 된다.",
+      "confusion": "Hydnellum compactum은 언뜻 비슷하지만 활엽수 아래에서 자라고, 갓이 강모질이 아니라 펠트질이며 맛이 매우 맵다. Hydnellum ferrugineum은 강모가 없는 벨벳 같은 갓을 가지며 어릴 때 붉은 물방울을 분비한다. Phellodon tomentosus와 Phellodon melaleucus는 더 얇고 테무늬가 있으며 흰 포자와 연회색 침을 가진다.",
+      "notes": "1863년 엘리아스 프리스가 Hydnum mirabile로 처음 기재했으며, 1879년 페테르 아돌프 카르스텐이 Hydnellum 속으로 옮겼다. Hydnellum acre라는 이름은 예전에 이 종과 Hydnellum compactum 모두에 쓰였다. IUCN 적색목록(2015)은 이 종을 취약(Vulnerable)으로 평가한다. 개벌로 오래된 숲 서식지가 50년 동안 약 30–50% 줄어든 것으로 추정되며, 산지는 500곳 미만으로 여겨진다. 스웨덴, 프랑스, 노르웨이, 핀란드의 적색목록에 올라 있으며, 체코에서는 지역 절멸로 분류되었다. 2022년에는 오스트리아의 올해의 버섯이었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Retas, krintantis į akis dygliagrybis iš Hydnellum genties, turintis gumbuotus, veltiniškai šeriuotus, gelsvus iki rudų vaisiakūnius ir rudus dyglius apatinėje pusėje. Jis sudaro mikorizę su egle ir pušimi senuose natūraliuose spygliuočių miškuose bazėmis turtinguose dirvožemiuose ir IUCN Raudonajame sąraše įvertintas kaip pažeidžiamas (Vulnerable), nes plynieji kirtimai sunaikino didelę dalį jo buveinių.",
+      "cap": "3–15 cm skersmens, sukutiškas, pagalvėliškas arba negiliai piltuviškas, labai netaisyklingas ir gumbuotas; gretimi vaisiakūniai dažnai suauga. Paviršius iš pradžių aksomiškai veltiniškas, vėliau gauruotas ir galiausiai padengtas stačiais, standžiais, šeriškais plaukeliais; šiaudų geltonumo iki geltono, ypač pakraštyje, link vidurio ir senstant tamsėja iki rausvai rudo, alyvuogiškai rudo ar tamsiai rudo.",
+      "hymenium": "Tankūs iki 5 mm ilgio dygliai, iš pradžių šviesiai pilki arba šviesiai gelsvi, vėliau rudi iki purpuriškai rudų šviesesnėmis viršūnėmis, ylos pavidalo iki suplotų, nubėgantys ant kotelio.",
+      "stipe": "Trumpas ir dažnai tik susiaurėjęs pamatas, 1–5 cm ilgio ir 0,5–2,5 cm storio, aksomiškai veltiniškas, iš pradžių balsvas, vėliau rudas iki purpuriškai rudo, prie pagrindo tamsesnis ir plaukuotas; aiškiai atskirto kotelio paprastai nėra.",
+      "flesh": "Šviesi ir tamsesnėmis linijomis zonuota, balsva iki gelsvai rudos, vėliau ruda; pluoštinė, kamštiškai kieta, bet gana minkšta ir labai lengva. Kvapas miltinis, skonis silpnai sutraukiantis iki kartoko ar kiek aitraus. Kalio hidroksido (KOH) lašas minkštimo spalvos beveik nekeičia.",
+      "sporePrint": "Rudi. Sporos beveik rutuliškos, karpuotos, maždaug 5–7 × 4,5–6 µm.",
+      "habitat": "Paprastosios eglės (Picea abies) ir rečiau paprastosios pušies (Pinus sylvestris) ektomikorizinis partneris. Auga ant žemės tarp samanų, dažnai grupėmis ar eilėmis, senuose samanų ir žolių gausiuose spygliuočių miškuose bazėmis turtinguose ar kalkinguose dirvožemiuose, kur miško tęstinumas ilgas. Vaisiakūniai pasirodo nuo liepos iki spalio. Pagrindinis arealas yra Fenoskandijoje, kur Norvegijoje, Švedijoje ir Suomijoje žinoma apie 200 radaviečių, ir tęsiasi į Rusiją; Vidurio Europoje yra tik 20–25 radavietės Alpėse ir Karpatuose, Austrijoje maždaug 850–1500 m aukštyje. Šiaurės Amerikos duomenis dar reikia palyginti su Europos medžiaga.",
+      "uses": "Nevalgomas. Tai senų, retųjų grybų gausių eglynų indikatorius, Slovakijoje saugomas įstatymu; jo niekada nereikėtų rinkti.",
+      "confusion": "Hydnellum compactum iš pirmo žvilgsnio panašus, bet auga po lapuočiais, turi veltinišką, o ne šeriuotą kepurėlę ir labai aitrų skonį. Hydnellum ferrugineum kepurėlė aksominė, be šerelių, o jaunas vaisiakūnis išskiria raudonus lašelius. Phellodon tomentosus ir Phellodon melaleucus yra plonesni, zonuoti, turi baltas sporas ir šviesiai pilkus dyglius.",
+      "notes": "Pirmą kartą 1863 m. aprašė Elias Fries kaip Hydnum mirabile, o 1879 m. Petter Adolf Karsten perkėlė į Hydnellum gentį. Pavadinimas Hydnellum acre anksčiau buvo taikomas ir šiai rūšiai, ir Hydnellum compactum. IUCN Raudonasis sąrašas (2015) vertina jį kaip pažeidžiamą (Vulnerable): plynieji kirtimai per 50 metų jo senųjų miškų buveines sumažino maždaug 30–50 %, ir manoma, kad yra mažiau nei 500 radaviečių. Jis įrašytas į Švedijos, Prancūzijos, Norvegijos ir Suomijos raudonuosius sąrašus, o Čekijoje buvo laikomas regioniškai išnykusiu. 2022 m. jis buvo Austrijos metų grybas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Rets, uzkrītošs adatsēnes tipa sēne no Hydnellum ģints ar pauguriem klātiem, filcaini sarainiem, iedzelteniem līdz brūniem augļķermeņiem un brūniem dzeloņiem apakšpusē. Tā veido mikorizu ar egli un priedi vecos dabiskos skujkoku mežos uz bāzēm bagātām augsnēm un IUCN Sarkanajā sarakstā novērtēta kā jutīga (Vulnerable), jo kailcirtes iznīcinājušas lielu daļu tās dzīvotņu.",
+      "cap": "3–15 cm plata, vilciņveida, spilvenveida vai lēzeni piltuvveida, ļoti neregulāra un paugurota; blakus esošie augļķermeņi bieži saaug. Virsma sākumā samtaini filcaina, tad vilnaina un visbeidzot klāta ar stāviem, stingriem, sariem līdzīgiem matiņiem; salmu dzeltena līdz dzeltena, īpaši malā, uz centru un ar vecumu tumšāka – sarkanbrūna, olīvbrūna vai tumši brūna.",
+      "hymenium": "Blīvi dzeloņi līdz 5 mm gari, sākumā gaiši pelēki vai gaiši iedzelteni, vēlāk brūni līdz purpurbrūni ar gaišākiem galiem, īlenveida līdz saplacināti, nolaižas uz kātiņa.",
+      "stipe": "Īss un bieži tikai sašaurināta pamatne, 1–5 cm garš un 0,5–2,5 cm resns, samtaini filcains, sākumā bālgans, vēlāk brūns līdz purpurbrūns, pie pamatnes tumšāks un matains; skaidri nodalīts kātiņš parasti nav.",
+      "flesh": "Gaiša un ar tumšākām līnijām zonēta, bālgana līdz dzeltenbrūna, vēlāk brūna; šķiedraina, korķaini stingra, taču samērā mīksta un ļoti viegla. Smarža miltaina, garša vāji savelkoša līdz rūgtena vai nedaudz asa. Kālija hidroksīda (KOH) piliens mīkstuma krāsu gandrīz nemaina.",
+      "sporePrint": "Brūns. Sporas gandrīz lodveida, kārpainas, apmēram 5–7 × 4,5–6 µm.",
+      "habitat": "Parastās egles (Picea abies) un retāk parastās priedes (Pinus sylvestris) ektomikorizas partneris. Aug uz zemes starp sūnām, bieži grupās vai rindās, vecos sūnām un lakstaugiem bagātos skujkoku mežos uz bāzēm bagātām vai kaļķainām augsnēm ar ilgu meža nepārtrauktību. Augļķermeņi parādās no jūlija līdz oktobrim. Galvenais areāls ir Fenoskandijā, kur Norvēģijā, Zviedrijā un Somijā zināmas apmēram 200 atradnes, un tas sniedzas līdz Krievijai; Centrāleiropā ir tikai 20–25 atradnes Alpos un Karpatos, Austrijā apmēram 850–1500 m augstumā. Ziemeļamerikas ziņas vēl jāsalīdzina ar Eiropas materiālu.",
+      "uses": "Neēdama. Tā ir vecu, retām sēnēm bagātu egļu mežu indikatorsuga un Slovākijā aizsargāta ar likumu; to nekad nevajadzētu vākt.",
+      "confusion": "Hydnellum compactum no pirmā acu uzmetiena izskatās līdzīga, taču aug zem lapu kokiem, tai ir filcaina, nevis saraina cepurīte un stipri asa garša. Hydnellum ferrugineum ir samtaina cepurīte bez sariem, un jauna tā izdala sarkanus pilienus. Phellodon tomentosus un Phellodon melaleucus ir plānākas, zonētas, ar baltām sporām un gaiši pelēkiem dzeloņiem.",
+      "notes": "Pirmo reizi 1863. gadā to aprakstīja Elias Fries kā Hydnum mirabile, un 1879. gadā Petter Adolf Karsten to pārcēla uz Hydnellum ģinti. Nosaukumu Hydnellum acre agrāk lietoja gan šai sugai, gan Hydnellum compactum. IUCN Sarkanais saraksts (2015) to vērtē kā jutīgu (Vulnerable): kailcirtes 50 gados tās veco mežu dzīvotnes samazinājušas aptuveni par 30–50 %, un tiek uzskatīts, ka pastāv mazāk nekā 500 atradņu. Tā ir iekļauta Zviedrijas, Francijas, Norvēģijas un Somijas sarkanajos sarakstos, bet Čehijā tika uzskatīta par reģionāli izzudušu. 2022. gadā tā bija Austrijas gada sēne.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een zeldzame, opvallende stekelzwam uit het geslacht Hydnellum met knobbelige, viltig-borstelige, gelige tot bruine vruchtlichamen en bruine stekels aan de onderzijde. Hij vormt mycorrhiza met spar en den in oerbosachtige naaldbossen op basenrijke bodem en staat als kwetsbaar (Vulnerable) op de Rode Lijst van de IUCN, omdat kaalkap een groot deel van zijn leefgebied heeft vernietigd.",
+      "cap": "3–15 cm breed, tol-, kussen- of ondiep trechtervormig, zeer onregelmatig en knobbelig; naburige vruchtlichamen groeien vaak samen. Het oppervlak is eerst fluweelachtig viltig, dan wollig en ten slotte bedekt met opgerichte, stijve, borstelige haren; strogeel tot geel, vooral aan de rand, naar het midden en met de leeftijd donkerder wordend tot roodbruin, olijfbruin of donkerbruin.",
+      "hymenium": "Dichte stekels tot 5 mm lang, eerst lichtgrijs of lichtgelig, later bruin tot paarsbruin met lichtere toppen, priemvormig tot afgeplat en aflopend op de steel.",
+      "stipe": "Kort en vaak slechts een versmalde voet, 1–5 cm lang en 0,5–2,5 cm dik, fluweelachtig viltig, eerst witachtig, later bruin tot paarsbruin, aan de voet donkerder en behaard; een duidelijk afgezette steel ontbreekt meestal.",
+      "flesh": "Licht en gezoneerd met donkerdere lijnen, witachtig tot geelbruin, later bruin; vezelig, kurkachtig taai maar betrekkelijk zacht en zeer licht. De geur is meelachtig en de smaak zwak samentrekkend tot bitterachtig of wat scherp. Een druppel kaliumhydroxide (KOH) verandert de kleur van het vlees nauwelijks.",
+      "sporePrint": "Bruin. De sporen zijn bijna bolvormig, wrattig en ongeveer 5–7 × 4,5–6 µm.",
+      "habitat": "Een ectomycorrhizapartner van fijnspar (Picea abies) en zeldzamer grove den (Pinus sylvestris). Hij groeit op de grond tussen mos, vaak in groepen of rijen, in oude mos- en kruidenrijke naaldbossen op basenrijke of kalkhoudende bodem met een lange boscontinuïteit. De vruchtlichamen verschijnen van juli tot oktober. Het hoofdareaal ligt in Fennoscandinavië, met ongeveer 200 bekende vindplaatsen in Noorwegen, Zweden en Finland, en loopt door tot in Rusland; in Midden-Europa zijn er slechts 20–25 vindplaatsen in de Alpen en de Karpaten, in Oostenrijk op ongeveer 850–1500 m hoogte. Meldingen uit Noord-Amerika moeten nog met Europees materiaal worden vergeleken.",
+      "uses": "Oneetbaar. Hij is een indicator van oude sparrenbossen die rijk zijn aan zeldzame paddenstoelen en is in Slowakije wettelijk beschermd; hij mag nooit worden verzameld.",
+      "confusion": "Hydnellum compactum lijkt er op het eerste gezicht op, maar groeit onder loofbomen, heeft een viltige in plaats van borstelige hoed en een sterk scherpe smaak. Hydnellum ferrugineum heeft een fluweelachtige hoed zonder borstels en scheidt in jonge toestand rode druppels af. Phellodon tomentosus en Phellodon melaleucus zijn dunner, gezoneerd en hebben witte sporen en lichtgrijze stekels.",
+      "notes": "Voor het eerst beschreven door Elias Fries in 1863 als Hydnum mirabile en door Petter Adolf Karsten in 1879 naar Hydnellum overgebracht. De naam Hydnellum acre werd vroeger zowel voor deze soort als voor Hydnellum compactum gebruikt. De Rode Lijst van de IUCN (2015) beoordeelt hem als kwetsbaar (Vulnerable): kaalkap heeft zijn oerbosleefgebied in 50 jaar naar schatting met 30–50% verkleind, en vermoedelijk bestaan er minder dan 500 vindplaatsen. Hij staat op de rode lijsten van Zweden, Frankrijk, Noorwegen en Finland en gold in Tsjechië als regionaal uitgestorven. Hij was in 2022 de paddenstoel van het jaar in Oostenrijk.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En sjelden, iøynefallende piggsopp i slekten Hydnellum med knudrete, filtet-børstete, gulaktige til brune fruktlegemer og brune pigger på undersiden. Den danner mykorrhiza med gran og furu i gammelskogsaktige barskoger på baserik mark og er vurdert som sårbar (Vulnerable) på IUCNs rødliste fordi flatehogst har ødelagt mye av leveområdene.",
+      "cap": "3–15 cm bred, kreisel-, pute- eller grunt traktformet, svært uregelmessig og knudrete; nabofruktlegemer vokser ofte sammen. Overflaten er først fløyelsaktig filtet, deretter ullen og til slutt dekket av opprette, stive, børsteaktige hår; strågul til gul, særlig i kanten, mot midten og med alderen mørknende til rødbrun, olivenbrun eller mørkebrun.",
+      "hymenium": "Tette pigger opptil 5 mm lange, først lysegrå eller lyst gulaktige, senere brune til purpurbrune med lysere spisser, sylformede til flattrykte og nedløpende på stilken.",
+      "stipe": "Kort og ofte bare en avsmalnende basis, 1–5 cm lang og 0,5–2,5 cm tykk, fløyelsaktig filtet, først hvitaktig, senere brun til purpurbrun, mørkere og hårete ved basis; en tydelig avgrenset stilk mangler som regel.",
+      "flesh": "Lyst og sonert med mørkere linjer, hvitaktig til gulbrunt, senere brunt; trevlet, korkaktig seigt, men forholdsvis mykt og svært lett. Lukten er melaktig og smaken svakt snerpende til bitteraktig eller noe skarp. En dråpe kaliumhydroksid (KOH) endrer knapt kjøttets farge.",
+      "sporePrint": "Brunt. Sporene er omtrent kulerunde, vortete og ca. 5–7 × 4,5–6 µm.",
+      "habitat": "En ektomykorrhizapartner til gran (Picea abies) og sjeldnere furu (Pinus sylvestris). Den vokser på bakken blant mose, ofte i grupper eller rekker, i gamle mose- og urterike barskoger på baserik eller kalkrik mark med lang skogkontinuitet. Fruktlegemene kommer fra juli til oktober. Hovedutbredelsen ligger i Fennoskandia med rundt 200 kjente lokaliteter i Norge, Sverige og Finland og strekker seg inn i Russland; i Mellom-Europa finnes bare 20–25 lokaliteter i Alpene og Karpatene, i Østerrike i omtrent 850–1500 moh. Funn fra Nord-Amerika må fortsatt sammenlignes med europeisk materiale.",
+      "uses": "Uspiselig. Den er en indikator på gamle granskoger rike på sjeldne sopper og er lovbeskyttet i Slovakia; den bør aldri plukkes.",
+      "confusion": "Hydnellum compactum ligner ved første øyekast, men vokser under løvtrær, har en filtet i stedet for børstete hatt og en sterkt skarp smak. Hydnellum ferrugineum har en fløyelsaktig hatt uten børster og skiller ut røde dråper når den er ung. Phellodon tomentosus og Phellodon melaleucus er tynnere, sonerte og har hvite sporer og lysegrå pigger.",
+      "notes": "Først beskrevet av Elias Fries i 1863 som Hydnum mirabile og overført til Hydnellum av Petter Adolf Karsten i 1879. Navnet Hydnellum acre ble tidligere brukt både om denne arten og om Hydnellum compactum. IUCNs rødliste (2015) vurderer den som sårbar (Vulnerable): flatehogst har redusert gammelskogsmiljøene med anslagsvis 30–50 % på 50 år, og det antas å finnes færre enn 500 lokaliteter. Den er rødlistet i Sverige, Frankrike, Norge og Finland og ble oppført som regionalt utdødd i Tsjekkia. Den var Østerrikes årets sopp i 2022.",
+      "names": [],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/100892/",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/1189",
+        "https://www.wikidata.org/wiki/Q10648554"
+      ],
+      "label": "børstebrunpigg"
+    },
+    "pl": {
+      "description": "Rzadki, rzucający się w oczy grzyb kolczasty z rodzaju Hydnellum o guzowatych, filcowato-szczeciniastych, żółtawych do brązowych owocnikach z brązowymi kolcami na spodzie. Tworzy mikoryzę ze świerkiem i sosną w starych, naturalnych lasach iglastych na glebach zasobnych w zasady i jest oceniony na Czerwonej liście IUCN jako narażony (Vulnerable), ponieważ zręby zupełne zniszczyły znaczną część jego siedlisk.",
+      "cap": "Szerokość 3–15 cm, bąkowaty, poduchowaty lub płytko lejkowaty, bardzo nieregularny i guzowaty; sąsiednie owocniki często się zrastają. Powierzchnia jest początkowo aksamitnie filcowata, potem wełnista, a w końcu pokryta sterczącymi, sztywnymi, szczeciniastymi włoskami; słomkowożółta do żółtej, zwłaszcza na brzegu, ku środkowi i z wiekiem ciemniejąca do czerwonobrązowej, oliwkowobrązowej lub ciemnobrązowej.",
+      "hymenium": "Gęste kolce długości do 5 mm, początkowo jasnoszare lub jasnożółtawe, później brązowe do purpurowobrązowych z jaśniejszymi końcami, szydłowate do spłaszczonych, zbiegające na trzon.",
+      "stipe": "Krótki i często tylko zwężona podstawa, długości 1–5 cm i grubości 0,5–2,5 cm, aksamitnie filcowaty, początkowo białawy, później brązowy do purpurowobrązowego, u podstawy ciemniejszy i owłosiony; wyraźnie odgraniczonego trzonu zwykle brak.",
+      "flesh": "Jasny i strefowany ciemniejszymi liniami, białawy do żółtobrązowego, później brązowy; włóknisty, korkowato twardy, lecz stosunkowo miękki i bardzo lekki. Zapach mączny, smak słabo cierpki do gorzkawego lub nieco ostrego. Kropla wodorotlenku potasu (KOH) prawie nie zmienia barwy miąższu.",
+      "sporePrint": "Brązowy. Zarodniki są niemal kuliste, brodawkowate, około 5–7 × 4,5–6 µm.",
+      "habitat": "Partner ektomikoryzowy świerka pospolitego (Picea abies) i rzadziej sosny zwyczajnej (Pinus sylvestris). Rośnie na ziemi wśród mchów, często w grupach lub szeregach, w starych, bogatych w mchy i rośliny zielne lasach iglastych na glebach zasobnych w zasady lub wapiennych, o długiej ciągłości leśnej. Owocniki pojawiają się od lipca do października. Główny zasięg obejmuje Fennoskandię, gdzie znanych jest około 200 stanowisk w Norwegii, Szwecji i Finlandii, i sięga do Rosji; w Europie Środkowej jest tylko 20–25 stanowisk w Alpach i Karpatach, w Austrii na wysokości około 850–1500 m n.p.m. Doniesienia z Ameryki Północnej wymagają jeszcze porównania z materiałem europejskim.",
+      "uses": "Niejadalny. Jest wskaźnikiem starych świerczyn bogatych w rzadkie grzyby i jest prawnie chroniony na Słowacji; nigdy nie należy go zbierać.",
+      "confusion": "Hydnellum compactum na pierwszy rzut oka jest podobny, ale rośnie pod drzewami liściastymi, ma filcowaty, a nie szczeciniasty kapelusz i silnie ostry smak. Hydnellum ferrugineum ma aksamitny kapelusz bez szczecinek i za młodu wydziela czerwone krople. Phellodon tomentosus i Phellodon melaleucus są cieńsze, strefowane i mają białe zarodniki oraz jasnoszare kolce.",
+      "notes": "Po raz pierwszy opisany przez Eliasa Friesa w 1863 roku jako Hydnum mirabile i przeniesiony do Hydnellum przez Pettera Adolfa Karstena w 1879 roku. Nazwę Hydnellum acre stosowano dawniej zarówno do tego gatunku, jak i do Hydnellum compactum. Czerwona lista IUCN (2015) ocenia go jako narażonego (Vulnerable): zręby zupełne zmniejszyły jego siedliska starych lasów szacunkowo o 30–50% w ciągu 50 lat i przypuszcza się, że istnieje mniej niż 500 stanowisk. Figuruje na czerwonych listach Szwecji, Francji, Norwegii i Finlandii, a w Czechach uznawano go za regionalnie wymarły. W 2022 roku był austriackim grzybem roku.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um fungo de acúleos raro e vistoso do género Hydnellum, com corpos frutíferos irregulares e encaroçados, feltrado-híspidos, amarelados a castanhos e acúleos castanhos na face inferior. Forma micorrizas com o espruce e o pinheiro em florestas de coníferas antigas sobre solos ricos em bases e está avaliado como Vulnerável (Vulnerable) na Lista Vermelha da UICN (IUCN), porque os cortes rasos destruíram grande parte do seu habitat.",
+      "cap": "Com 3–15 cm de diâmetro, em pião, em almofada ou em funil pouco profundo, muito irregular e encaroçado; corpos frutíferos vizinhos fundem-se frequentemente. A superfície é inicialmente aveludado-feltrada, depois lanosa e por fim coberta de pelos eretos, rígidos e híspidos; amarelo-palha a amarelo, sobretudo na margem, escurecendo para castanho-avermelhado, castanho-oliváceo ou castanho-escuro em direção ao centro e com a idade.",
+      "hymenium": "Acúleos densos com até 5 mm de comprimento, a princípio cinzento-pálidos ou amarelado-pálidos, depois castanhos a castanho-púrpura com as pontas mais claras, subulados a achatados e decorrentes no pé.",
+      "stipe": "Curto e frequentemente apenas uma base atenuada, com 1–5 cm de comprimento e 0,5–2,5 cm de espessura, aveludado-feltrado, a princípio esbranquiçado, depois castanho a castanho-púrpura, mais escuro e piloso na base; um pé nitidamente delimitado geralmente falta.",
+      "flesh": "Pálida e zonada com linhas mais escuras, esbranquiçada a castanho-amarelada, depois castanha; fibrosa, tenaz como cortiça mas relativamente mole e muito leve. O cheiro é farinhento e o sabor fracamente adstringente a amargo ou um pouco acre. Uma gota de hidróxido de potássio (KOH) quase não altera a cor da carne.",
+      "sporePrint": "Castanha. Os esporos são quase esféricos, verrugosos e medem cerca de 5–7 × 4,5–6 µm.",
+      "habitat": "Parceiro ectomicorrízico do espruce-europeu (Picea abies) e, mais raramente, do pinheiro-silvestre (Pinus sylvestris). Cresce no solo entre musgos, frequentemente em grupos ou fileiras, em florestas de coníferas antigas ricas em musgos e herbáceas, sobre solos ricos em bases ou calcários com longa continuidade florestal. Os corpos frutíferos surgem de julho a outubro. A área principal fica na Fenoscândia, com cerca de 200 localidades conhecidas na Noruega, Suécia e Finlândia, estendendo-se até à Rússia; na Europa Central há apenas 20–25 localidades nos Alpes e nos Cárpatos, na Áustria a cerca de 850–1500 m de altitude. Os registos da América do Norte ainda precisam de ser comparados com material europeu.",
+      "uses": "Não comestível. É um indicador de florestas antigas de espruce ricas em fungos raros e está protegido por lei na Eslováquia; nunca deve ser colhido.",
+      "confusion": "Hydnellum compactum parece-se à primeira vista, mas cresce sob árvores folhosas, tem o chapéu feltrado em vez de híspido e um sabor fortemente acre. Hydnellum ferrugineum tem o chapéu aveludado sem cerdas e exsuda gotículas vermelhas quando jovem. Phellodon tomentosus e Phellodon melaleucus são mais finos, zonados e têm esporos brancos e acúleos cinzento-pálidos.",
+      "notes": "Descrito pela primeira vez por Elias Fries em 1863 como Hydnum mirabile e transferido para Hydnellum por Petter Adolf Karsten em 1879. O nome Hydnellum acre foi antigamente aplicado tanto a esta espécie como a Hydnellum compactum. A Lista Vermelha da UICN (IUCN, 2015) avalia-o como Vulnerável (Vulnerable): os cortes rasos reduziram o seu habitat de floresta antiga em cerca de 30–50 % em 50 anos, e estima-se que existam menos de 500 localidades. Consta das listas vermelhas da Suécia, França, Noruega e Finlândia e foi considerado regionalmente extinto na Chéquia. Foi o fungo do ano 2022 na Áustria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă cu țepi rară și bătătoare la ochi din genul Hydnellum, cu corpuri fructifere noduroase, pâslos-hirsute, gălbui până la brune și țepi bruni pe fața inferioară. Formează micorize cu molidul și pinul în păduri bătrâne de conifere pe soluri bogate în baze și este evaluată ca Vulnerabilă (Vulnerable) pe Lista Roșie IUCN, deoarece tăierile rase i-au distrus o mare parte din habitat.",
+      "cap": "Lat de 3–15 cm, în formă de titirez, de pernuță sau de pâlnie puțin adâncă, foarte neregulat și noduros; corpurile fructifere vecine concresc adesea. Suprafața este la început catifelat-pâsloasă, apoi lânoasă și în final acoperită cu peri erecți, rigizi și hirsuți; galben-pai până la galbenă, mai ales la margine, închizându-se spre centru și cu vârsta la brun-roșcat, brun-măsliniu sau brun-închis.",
+      "hymenium": "Țepi deși, lungi de până la 5 mm, la început gri-pal sau gălbui-pal, apoi bruni până la brun-purpurii cu vârfuri mai deschise, subulați până la turtiți și decurenți pe picior.",
+      "stipe": "Scurt și adesea doar o bază îngustată, lung de 1–5 cm și gros de 0,5–2,5 cm, catifelat-pâslos, la început albicios, apoi brun până la brun-purpuriu, mai închis și păros la bază; de obicei lipsește un picior clar delimitat.",
+      "flesh": "Palidă și zonată cu linii mai închise, albicioasă până la brun-gălbuie, apoi brună; fibroasă, tenace ca pluta, dar relativ moale și foarte ușoară. Mirosul este de făină, iar gustul slab astringent până la amărui sau ușor iute. O picătură de hidroxid de potasiu (KOH) abia schimbă culoarea cărnii.",
+      "sporePrint": "Brună. Sporii sunt aproape sferici, verucoși, de circa 5–7 × 4,5–6 µm.",
+      "habitat": "Partener ectomicorizic al molidului (Picea abies) și, mai rar, al pinului silvestru (Pinus sylvestris). Crește pe sol printre mușchi, adesea în grupuri sau șiruri, în păduri bătrâne de conifere bogate în mușchi și ierburi, pe soluri bogate în baze sau calcaroase, cu continuitate forestieră îndelungată. Corpurile fructifere apar din iulie până în octombrie. Arealul principal este în Fenoscandia, cu circa 200 de localități cunoscute în Norvegia, Suedia și Finlanda, extinzându-se până în Rusia; în Europa Centrală există doar 20–25 de localități în Alpi și Carpați, în Austria la circa 850–1500 m altitudine. Semnalările din America de Nord trebuie încă comparate cu material european.",
+      "uses": "Necomestibilă. Este un indicator al pădurilor bătrâne de molid bogate în ciuperci rare și este ocrotită prin lege în Slovacia; nu trebuie culeasă niciodată.",
+      "confusion": "Hydnellum compactum seamănă la prima vedere, dar crește sub foioase, are pălăria pâsloasă în loc de hirsută și un gust puternic iute. Hydnellum ferrugineum are pălăria catifelată, fără peri rigizi, și exsudă picături roșii când este tânără. Phellodon tomentosus și Phellodon melaleucus sunt mai subțiri, zonate și au spori albi și țepi gri-pal.",
+      "notes": "Descrisă pentru prima dată de Elias Fries în 1863 ca Hydnum mirabile și transferată în Hydnellum de Petter Adolf Karsten în 1879. Numele Hydnellum acre a fost aplicat odinioară atât acestei specii, cât și lui Hydnellum compactum. Lista Roșie IUCN (2015) o evaluează ca Vulnerabilă (Vulnerable): tăierile rase i-au redus habitatul de pădure bătrână cu circa 30–50% în 50 de ani și se crede că există mai puțin de 500 de localități. Figurează pe listele roșii ale Suediei, Franței, Norvegiei și Finlandei și a fost considerată dispărută la nivel regional în Cehia. A fost ciuperca anului 2022 în Austria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Редкий, заметный ежовиковый гриб из рода Hydnellum с бугристыми, войлочно-щетинистыми, желтоватыми или бурыми плодовыми телами и бурыми шипами на нижней стороне. Образует микоризу с елью и сосной в старовозрастных хвойных лесах на богатых основаниями почвах и в Красном списке IUCN оценён как уязвимый (Vulnerable), поскольку сплошные рубки уничтожили значительную часть его местообитаний.",
+      "cap": "Диаметром 3–15 см, волчковидная, подушковидная или неглубоко воронковидная, очень неправильная и бугристая; соседние плодовые тела часто срастаются. Поверхность сначала бархатисто-войлочная, затем шерстистая и в конце концов покрыта торчащими жёсткими щетинистыми волосками; соломенно-жёлтая или жёлтая, особенно по краю, к центру и с возрастом темнеет до красновато-бурой, оливково-бурой или тёмно-бурой.",
+      "hymenium": "Густые шипы длиной до 5 мм, сначала светло-серые или светло-желтоватые, позднее бурые до пурпурово-бурых со светлыми кончиками, шиловидные или уплощённые, низбегающие на ножку.",
+      "stipe": "Короткая и часто лишь суженное основание, длиной 1–5 см и толщиной 0,5–2,5 см, бархатисто-войлочная, сначала беловатая, позднее бурая до пурпурово-бурой, у основания темнее и опушённая; чётко обособленная ножка обычно отсутствует.",
+      "flesh": "Светлая, зонированная более тёмными линиями, беловатая или желтовато-бурая, позднее бурая; волокнистая, пробково-жёсткая, но сравнительно мягкая и очень лёгкая. Запах мучнистый, вкус слабо вяжущий, горьковатый или слегка острый. Капля гидроксида калия (KOH) почти не меняет цвет мякоти.",
+      "sporePrint": "Бурый. Споры почти шаровидные, бородавчатые, около 5–7 × 4,5–6 µm.",
+      "habitat": "Эктомикоризный партнёр ели европейской (Picea abies) и реже сосны обыкновенной (Pinus sylvestris). Растёт на земле среди мхов, часто группами или рядами, в старых, богатых мхами и травами хвойных лесах на богатых основаниями или известковых почвах с длительной непрерывностью леса. Плодовые тела появляются с июля по октябрь. Основной ареал находится в Фенноскандии, где в Норвегии, Швеции и Финляндии известно около 200 местонахождений, и заходит в Россию; в Центральной Европе известно лишь 20–25 местонахождений в Альпах и Карпатах, в Австрии на высоте около 850–1500 м. Североамериканские находки ещё нужно сравнить с европейским материалом.",
+      "uses": "Несъедобен. Это индикатор старых ельников, богатых редкими грибами, в Словакии он охраняется законом; его никогда не следует собирать.",
+      "confusion": "Hydnellum compactum на первый взгляд похож, но растёт под лиственными деревьями, имеет войлочную, а не щетинистую шляпку и сильно жгучий вкус. Hydnellum ferrugineum имеет бархатистую шляпку без щетинок и в молодости выделяет красные капли. Phellodon tomentosus и Phellodon melaleucus тоньше, зонированы, имеют белые споры и светло-серые шипы.",
+      "notes": "Впервые описан Элиасом Фрисом в 1863 году как Hydnum mirabile и перенесён в род Hydnellum Петтером Адольфом Карстеном в 1879 году. Название Hydnellum acre прежде применяли как к этому виду, так и к Hydnellum compactum. Красный список IUCN (2015) оценивает его как уязвимый (Vulnerable): сплошные рубки сократили его старовозрастные местообитания примерно на 30–50 % за 50 лет, и предполагается, что существует менее 500 местонахождений. Он внесён в красные списки Швеции, Франции, Норвегии и Финляндии, а в Чехии считался регионально исчезнувшим. В 2022 году он был австрийским грибом года.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Vzácna, nápadná hydnoidná huba z rodu Hydnellum s hrboľatými, plstnato-štetinatými, žltkastými až hnedými plodnicami a hnedými ostňami na spodnej strane. Vytvára mykorízu so smrekom a borovicou v starých ihličnatých pralesoch na zásaditých pôdach a v Červenom zozname IUCN je hodnotená ako zraniteľná (Vulnerable), pretože holoruby zničili veľkú časť jej biotopov.",
+      "cap": "Široký 3–15 cm, kužeľovitý, poduškovitý alebo plytko lievikovitý, veľmi nepravidelný a hrboľatý; susedné plodnice často zrastajú. Povrch je v mladosti zamatovo plstnatý, potom vlnatý a napokon pokrytý vzpriamenými, tuhými štetinatými chlpmi; slamovožltý až žltý, najmä na okraji, ku stredu a vekom tmavne do červenohneda, olivovohneda alebo tmavohneda.",
+      "hymenium": "Husté ostne dlhé do 5 mm, spočiatku svetlosivé alebo svetložltkasté, neskôr hnedé až purpurovohnedé so svetlejšími špičkami, šidlovité až sploštené, zbiehajúce na hlúbik.",
+      "stipe": "Krátky, často len zúžená báza, dlhý 1–5 cm a hrubý 0,5–2,5 cm, zamatovo plstnatý, spočiatku belavý, neskôr hnedý až purpurovohnedý, pri báze tmavší a chlpatý; zreteľne oddelený hlúbik zvyčajne chýba.",
+      "flesh": "Svetlá, zónovaná tmavšími líniami, belavá až žltohnedá, neskôr hnedá; vláknitá, korkovito húževnatá, no pomerne mäkká a veľmi ľahká. Vôňa je múčna, chuť slabo zvieravá až nahorklá alebo trochu štipľavá. Kvapka hydroxidu draselného (KOH) farbu dužiny takmer nezmení.",
+      "sporePrint": "Hnedý. Výtrusy sú približne guľovité, bradavičnaté, asi 5–7 × 4,5–6 µm.",
+      "habitat": "Ektomykorízny partner smreka obyčajného (Picea abies) a zriedkavejšie borovice lesnej (Pinus sylvestris). Rastie na zemi medzi machmi, často v skupinách alebo radoch, v starých machových a bylinných ihličnatých lesoch na zásaditých alebo vápenatých pôdach s dlhou kontinuitou lesa. Plodnice sa objavujú od júla do októbra. Hlavný areál je vo Fenoskandinávii, kde je známych asi 200 lokalít v Nórsku, Švédsku a Fínsku, a zasahuje do Ruska; v strednej Európe je len 20–25 lokalít v Alpách a Karpatoch, v Rakúsku asi v 850–1500 m n. m. Údaje zo Severnej Ameriky treba ešte porovnať s európskym materiálom.",
+      "uses": "Nejedlá. Je indikátorom starých smrekových lesov bohatých na vzácne huby a na Slovensku je zákonom chránená; nikdy by sa nemala zbierať.",
+      "confusion": "Hydnellum compactum vyzerá na prvý pohľad podobne, ale rastie pod listnatými stromami, má plstnatý, nie štetinatý klobúk a silne štipľavú chuť. Hydnellum ferrugineum má zamatový klobúk bez štetín a v mladosti vylučuje červené kvapky. Phellodon tomentosus a Phellodon melaleucus sú tenšie, zónované a majú biele výtrusy a svetlosivé ostne.",
+      "notes": "Prvýkrát ju opísal Elias Fries v roku 1863 ako Hydnum mirabile a do rodu Hydnellum ju preradil Petter Adolf Karsten v roku 1879. Meno Hydnellum acre sa kedysi používalo pre tento druh aj pre Hydnellum compactum. Červený zoznam IUCN (2015) ju hodnotí ako zraniteľnú (Vulnerable): holoruby zmenšili jej staré lesné biotopy odhadom o 30–50 % za 50 rokov a predpokladá sa, že existuje menej ako 500 lokalít. Je v červených zoznamoch Švédska, Francúzska, Nórska a Fínska a v Českej republike bola vedená ako regionálne vyhynutá. V roku 2022 bola rakúskou hubou roka.",
+      "names": [
+        "jelenkovka podivuhodná"
+      ],
+      "sourceUrls": [
+        "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf",
+        "https://www.nahuby.sk/atlas-hub/Hydnellum-mirabile/jelenkovka/losakovec-podivny/ID13582"
+      ],
+      "label": "jelenkovka chlpatá"
+    },
+    "sl": {
+      "description": "Redka, opazna bodičasta goba iz rodu Hydnellum z grbastimi, polstenimi do ščetinastimi, rumenkastimi do rjavimi trosnjaki in rjavimi bodicami na spodnji strani. Mikorizo tvori s smreko in borom v starih pragozdnih iglastih gozdovih na tleh, bogatih z bazami, in je na Rdečem seznamu IUCN ocenjena kot ranljiva (Vulnerable), ker so goloseki uničili velik del njenih habitatov.",
+      "cap": "Širok 3–15 cm, vrtavkast, blazinast ali plitvo lijakast, zelo nepravilen in grbast; sosednji trosnjaki pogosto zrastejo. Površina je sprva žametno polstena, nato volnata in nazadnje pokrita s pokončnimi, togimi, ščetinastimi dlakami; slamnato rumena do rumena, zlasti ob robu, proti sredini in s starostjo temni v rdečkasto rjavo, olivno rjavo ali temno rjavo.",
+      "hymenium": "Goste bodice, dolge do 5 mm, sprva svetlo sive ali svetlo rumenkaste, pozneje rjave do škrlatno rjave s svetlejšimi konicami, šilaste do sploščene in se spuščajo po betu.",
+      "stipe": "Kratek in pogosto le zoženo dno, dolg 1–5 cm in debel 0,5–2,5 cm, žametno polsten, sprva belkast, pozneje rjav do škrlatno rjav, pri dnu temnejši in dlakav; jasno ločen bet navadno manjka.",
+      "flesh": "Svetlo in z temnejšimi črtami pasovito, belkasto do rumenkasto rjavo, pozneje rjavo; vlaknato, plutasto žilavo, vendar razmeroma mehko in zelo lahko. Vonj je močnat, okus rahlo trpek do grenkljat ali nekoliko pekoč. Kaplja kalijevega hidroksida (KOH) barve mesa skoraj ne spremeni.",
+      "sporePrint": "Rjav. Trosi so skoraj okrogli, bradavičasti, približno 5–7 × 4,5–6 µm.",
+      "habitat": "Ektomikorizni partner navadne smreke (Picea abies) in redkeje rdečega bora (Pinus sylvestris). Raste na tleh med mahom, pogosto v skupinah ali vrstah, v starih, z mahom in zelišči bogatih iglastih gozdovih na tleh, bogatih z bazami, ali na apnenčastih tleh z dolgo kontinuiteto gozda. Trosnjaki se pojavljajo od julija do oktobra. Glavni areal je v Fenoskandiji, kjer je znanih okoli 200 nahajališč na Norveškem, Švedskem in Finskem, in sega v Rusijo; v srednji Evropi je le 20–25 nahajališč v Alpah in Karpatih, v Avstriji na okoli 850–1500 m nadmorske višine. Podatke iz Severne Amerike je treba še primerjati z evropskim gradivom.",
+      "uses": "Neužitna. Je kazalnica starih smrekovih gozdov, bogatih z redkimi glivami, in je na Slovaškem zakonsko zavarovana; nikoli je ne bi smeli nabirati.",
+      "confusion": "Hydnellum compactum je na prvi pogled podobna, vendar raste pod listavci, ima polsten in ne ščetinast klobuk ter močno pekoč okus. Hydnellum ferrugineum ima žameten klobuk brez ščetin in mlada izloča rdeče kapljice. Phellodon tomentosus in Phellodon melaleucus sta tanjši, pasoviti ter imata bele trose in svetlo sive bodice.",
+      "notes": "Prvi jo je opisal Elias Fries leta 1863 kot Hydnum mirabile, v rod Hydnellum pa jo je prestavil Petter Adolf Karsten leta 1879. Ime Hydnellum acre so nekoč uporabljali tako za to vrsto kot za Hydnellum compactum. Rdeči seznam IUCN (2015) jo ocenjuje kot ranljivo (Vulnerable): goloseki so njene habitate starih gozdov v 50 letih zmanjšali za ocenjenih 30–50 %, domnevno pa obstaja manj kot 500 nahajališč. Je na rdečih seznamih Švedske, Francije, Norveške in Finske, na Češkem pa je veljala za regionalno izumrlo. Leta 2022 je bila avstrijska goba leta.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Ретка, упадљива бодљикава гљива из рода Hydnellum са квргавим, пустенасто-чекињастим, жућкастим до мрким плодним телима и мрким бодљама на доњој страни. Гради микоризу са смрчом и бором у старим прашумским четинарским шумама на земљиштима богатим базама и на Црвеној листи IUCN процењена је као рањива (Vulnerable), јер су чисте сече уништиле велики део њених станишта.",
+      "cap": "Широк 3–15 cm, чиграст, јастучаст или плитко левкаст, веома неправилан и квргав; суседна плодна тела често срастају. Површина је најпре баршунасто пустенаста, затим вунаста и на крају прекривена усправним, крутим, чекињастим длакама; сламастожута до жута, нарочито на ободу, ка средини и с годинама тамни у црвенкастомрку, маслинастомрку или тамномрку.",
+      "hymenium": "Густе бодље дуге до 5 mm, најпре светлосиве или светложућкасте, касније мрке до пурпурномрке са светлијим врховима, шиљасте до спљоштене и силазне на дршку.",
+      "stipe": "Кратка и често само сужена основа, дуга 1–5 cm и дебела 0,5–2,5 cm, баршунасто пустенаста, најпре беличаста, касније мрка до пурпурномрка, при дну тамнија и длакава; јасно одвојена дршка обично недостаје.",
+      "flesh": "Светло и зонирано тамнијим линијама, беличасто до жућкастомрко, касније мрко; влакнасто, плутасто жилаво, али релативно меко и веома лако. Мирис је брашнаст, а укус благо опор до горкаст или помало љут. Кап калијум-хидроксида (KOH) једва мења боју меса.",
+      "sporePrint": "Мрк. Споре су готово лоптасте, брадавичасте, око 5–7 × 4,5–6 µm.",
+      "habitat": "Ектомикоризни партнер обичне смрче (Picea abies) и ређе белог бора (Pinus sylvestris). Расте на тлу међу маховином, често у групама или низовима, у старим четинарским шумама богатим маховином и зељастим биљем, на земљиштима богатим базама или кречњачким земљиштима са дугим континуитетом шуме. Плодна тела се појављују од јула до октобра. Главни ареал је у Феноскандији, где је у Норвешкој, Шведској и Финској познато око 200 налазишта, и досеже до Русије; у средњој Европи постоји само 20–25 налазишта у Алпима и Карпатима, у Аустрији на око 850–1500 м надморске висине. Налазе из Северне Америке тек треба упоредити с европским материјалом.",
+      "uses": "Нејестива. Показатељ је старих смрчевих шума богатих ретким гљивама и законом је заштићена у Словачкој; никада је не треба сакупљати.",
+      "confusion": "Hydnellum compactum на први поглед изгледа слично, али расте под листопадним дрвећем, има пустенаст, а не чекињаст шешир и веома љут укус. Hydnellum ferrugineum има баршунаст шешир без чекиња и док је млада лучи црвене капљице. Phellodon tomentosus и Phellodon melaleucus су тањи, зонирани и имају беле споре и светлосиве бодље.",
+      "notes": "Први ју је описао Елијас Фрис 1863. године као Hydnum mirabile, а у род Hydnellum ју је преместио Петер Адолф Карстен 1879. године. Име Hydnellum acre некада се примењивало и на ову врсту и на Hydnellum compactum. Црвена листа IUCN (2015) процењује је као рањиву (Vulnerable): чисте сече смањиле су њена станишта у старим шумама за процењених 30–50 % за 50 година, а сматра се да постоји мање од 500 налазишта. Налази се на црвеним листама Шведске, Француске, Норвешке и Финске, а у Чешкој је вођена као регионално ишчезла. Била је аустријска гљива године 2022.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En sällsynt, iögonfallande taggsvamp i släktet Hydnellum med knöliga, filtigt borstiga, gulaktiga till bruna fruktkroppar och bruna taggar på undersidan. Den bildar mykorrhiza med gran och tall i gammelskogsartade barrskogar på basrik mark och bedöms som sårbar (Vulnerable) på IUCN:s rödlista eftersom kalavverkningar har förstört en stor del av dess livsmiljöer.",
+      "cap": "3–15 cm bred, topp-, dyn- eller grunt trattformad, mycket oregelbunden och knölig; närliggande fruktkroppar växer ofta ihop. Ytan är först sammetsartat filtig, sedan ullig och till sist täckt av upprätta, styva, borstlika hår; halmgul till gul, särskilt i kanten, mot mitten och med åldern mörknande till rödbrun, olivbrun eller mörkbrun.",
+      "hymenium": "Täta taggar upp till 5 mm långa, först ljusgrå eller ljust gulaktiga, senare bruna till purpurbruna med ljusare spetsar, sylformade till tillplattade och nedlöpande på foten.",
+      "stipe": "Kort och ofta bara en avsmalnande bas, 1–5 cm lång och 0,5–2,5 cm tjock, sammetsartat filtig, först vitaktig, senare brun till purpurbrun, mörkare och hårig vid basen; en tydligt avgränsad fot saknas oftast.",
+      "flesh": "Ljust och zonerat med mörkare linjer, vitaktigt till gulbrunt, senare brunt; trådigt, korkartat segt men relativt mjukt och mycket lätt. Lukten är mjölig och smaken svagt sammandragande till bitteraktig eller något skarp. En droppe kaliumhydroxid (KOH) ändrar knappt köttets färg.",
+      "sporePrint": "Brunt. Sporerna är nästan klotrunda, vårtiga och ungefär 5–7 × 4,5–6 µm.",
+      "habitat": "En ektomykorrhizapartner till gran (Picea abies) och mer sällan tall (Pinus sylvestris). Den växer på marken bland mossa, ofta i grupper eller rader, i gamla moss- och örtrika barrskogar på basrik eller kalkrik mark med lång skoglig kontinuitet. Fruktkropparna visar sig från juli till oktober. Huvudutbredningen ligger i Fennoskandien med omkring 200 kända lokaler i Norge, Sverige och Finland och fortsätter in i Ryssland; i Centraleuropa finns bara 20–25 lokaler i Alperna och Karpaterna, i Österrike på ungefär 850–1500 m höjd. Uppgifter från Nordamerika behöver ännu jämföras med europeiskt material.",
+      "uses": "Oätlig. Den är en indikator på gamla granskogar rika på sällsynta svampar och är lagligt skyddad i Slovakien; den bör aldrig plockas.",
+      "confusion": "Hydnellum compactum liknar den vid första anblick men växer under lövträd, har en filtig i stället för borstig hatt och en starkt skarp smak. Hydnellum ferrugineum har en sammetsartad hatt utan borst och utsöndrar röda droppar som ung. Phellodon tomentosus och Phellodon melaleucus är tunnare, zonerade och har vita sporer och ljusgrå taggar.",
+      "notes": "Beskrevs först av Elias Fries 1863 som Hydnum mirabile och flyttades till Hydnellum av Petter Adolf Karsten 1879. Namnet Hydnellum acre användes tidigare både för denna art och för Hydnellum compactum. IUCN:s rödlista (2015) bedömer den som sårbar (Vulnerable): kalavverkning har minskat dess gammelskogsmiljöer med uppskattningsvis 30–50 % på 50 år, och troligen finns färre än 500 lokaler. Den är rödlistad i Sverige, Frankrike, Norge och Finland och angavs som nationellt utdöd i Tjeckien. Den var Österrikes årets svamp 2022.",
+      "names": [],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/100892/",
+        "https://sv.wikipedia.org/wiki/Raggtaggsvamp",
+        "https://laji.fi/taxon/MX.205980"
+      ],
+      "label": "raggtaggsvamp"
+    },
+    "tr": {
+      "description": "Hydnellum cinsine ait, nadir ve göze çarpan bir dikenli mantar; yumrulu, keçemsi-kıllı, sarımsıdan kahverengiye değişen meyve gövdeleri ve alt yüzünde kahverengi dikenleri vardır. Bazca zengin topraklardaki yaşlı, doğal iğne yapraklı ormanlarda ladin ve çamla mikoriza oluşturur ve IUCN Kırmızı Listesi'nde Hassas (Vulnerable) olarak değerlendirilir, çünkü tıraşlama kesimler yaşam alanlarının büyük bölümünü yok etmiştir.",
+      "cap": "3–15 cm genişliğinde, topaç, yastık veya sığ huni biçiminde, çok düzensiz ve yumrulu; komşu meyve gövdeleri sık sık birbirine kaynaşır. Yüzey gençken kadifemsi keçemsi, sonra yünlü ve sonunda dik, sert, kıl benzeri tüylerle kaplıdır; özellikle kenarda saman sarısından sarıya, merkeze doğru ve yaşla birlikte kırmızımsı kahverengi, zeytin kahverengi veya koyu kahverengiye koyulaşır.",
+      "hymenium": "Sık dizilmiş, 5 mm'ye kadar uzunlukta dikenler; önce açık gri veya açık sarımsı, sonra kahverengiden morumsu kahverengiye, uçları daha açık renkli, biz biçiminden yassılaşmışa kadar değişen ve sapa doğru inen yapıda.",
+      "stipe": "Kısa ve çoğu zaman yalnızca daralan bir taban; 1–5 cm uzunluğunda ve 0,5–2,5 cm kalınlığında, kadifemsi keçemsi, önce beyazımsı, sonra kahverengiden morumsu kahverengiye, tabanda daha koyu ve tüylü; belirgin biçimde ayrılmış bir sap genellikle yoktur.",
+      "flesh": "Açık renkli ve daha koyu çizgilerle zonlu, beyazımsıdan sarımsı kahverengiye, sonra kahverengi; lifli, mantar gibi sert ama nispeten yumuşak ve çok hafif. Kokusu unlu, tadı hafif buruktan acımsıya veya biraz yakıcıya değişir. Bir damla potasyum hidroksit (KOH) etin rengini neredeyse değiştirmez.",
+      "sporePrint": "Kahverengi. Sporlar hemen hemen küresel, siğilli ve yaklaşık 5–7 × 4,5–6 µm'dir.",
+      "habitat": "Avrupa ladini (Picea abies) ve daha seyrek olarak sarıçam (Pinus sylvestris) ile ektomikorizal ortaklık kurar. Yosunlar arasında toprakta, çoğu zaman gruplar veya sıralar hâlinde, yosun ve otsu bitkilerce zengin, bazca zengin veya kireçli topraklarda, uzun orman sürekliliği olan yaşlı iğne yapraklı ormanlarda yetişir. Meyve gövdeleri temmuzdan ekime kadar görülür. Ana yayılış alanı Fennoskandiya'dır; Norveç, İsveç ve Finlandiya'da yaklaşık 200 bilinen yeri vardır ve Rusya'ya kadar uzanır; Orta Avrupa'da Alpler ve Karpatlar'da yalnızca 20–25 yer bilinir, Avusturya'da yaklaşık 850–1500 m yükseklikte. Kuzey Amerika kayıtlarının hâlâ Avrupa materyaliyle karşılaştırılması gerekir.",
+      "uses": "Yenmez. Nadir mantarlarca zengin yaşlı ladin ormanlarının gösterge türüdür ve Slovakya'da yasayla korunur; asla toplanmamalıdır.",
+      "confusion": "Hydnellum compactum ilk bakışta benzer, ancak geniş yapraklı ağaçların altında yetişir, şapkası kıllı değil keçemsidir ve tadı çok yakıcıdır. Hydnellum ferrugineum kılsız, kadifemsi bir şapkaya sahiptir ve gençken kırmızı damlacıklar salgılar. Phellodon tomentosus ve Phellodon melaleucus daha incedir, zonludur, beyaz sporları ve açık gri dikenleri vardır.",
+      "notes": "İlk kez 1863'te Elias Fries tarafından Hydnum mirabile adıyla tanımlanmış ve 1879'da Petter Adolf Karsten tarafından Hydnellum cinsine aktarılmıştır. Hydnellum acre adı eskiden hem bu türe hem de Hydnellum compactum'a uygulanıyordu. IUCN Kırmızı Listesi (2015) onu Hassas (Vulnerable) olarak değerlendirir: tıraşlama kesimler yaşlı orman habitatını 50 yılda tahminen %30–50 oranında azaltmıştır ve 500'den az yer olduğu düşünülmektedir. İsveç, Fransa, Norveç ve Finlandiya'nın kırmızı listelerinde yer alır ve Çekya'da bölgesel olarak tükenmiş kabul edilmiştir. 2022'de Avusturya'nın yılın mantarı seçilmiştir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Рідкісний, помітний їжаковий гриб із роду Hydnellum з горбкуватими, повстисто-щетинистими, жовтуватими або бурими плодовими тілами та бурими шипами на нижньому боці. Утворює мікоризу з ялиною та сосною у старовікових хвойних лісах на багатих на основи ґрунтах і в Червоному списку IUCN оцінений як вразливий (Vulnerable), оскільки суцільні рубки знищили значну частину його оселищ.",
+      "cap": "Діаметром 3–15 см, дзиґоподібна, подушкоподібна або неглибоко лійкоподібна, дуже неправильна й горбкувата; сусідні плодові тіла часто зростаються. Поверхня спершу оксамитово-повстиста, потім вовниста й зрештою вкрита стирчащими жорсткими щетинистими волосками; солом'яно-жовта або жовта, особливо по краю, до центру та з віком темніє до червонувато-бурої, оливково-бурої або темно-бурої.",
+      "hymenium": "Густі шипи завдовжки до 5 мм, спершу світло-сірі або світло-жовтуваті, згодом бурі до пурпурово-бурих зі світлішими кінчиками, шилоподібні або сплющені, низбіжні на ніжку.",
+      "stipe": "Коротка й часто лише звужена основа, завдовжки 1–5 см і завтовшки 0,5–2,5 см, оксамитово-повстиста, спершу білувата, згодом бура до пурпурово-бурої, біля основи темніша й опушена; чітко відокремленої ніжки зазвичай немає.",
+      "flesh": "Світла, зонована темнішими лініями, білувата або жовтувато-бура, згодом бура; волокниста, корково-жорстка, але порівняно м'яка й дуже легка. Запах борошнистий, смак слабко в'яжучий, гіркуватий або трохи гострий. Крапля гідроксиду калію (KOH) майже не змінює кольору м'якуша.",
+      "sporePrint": "Бурий. Спори майже кулясті, бородавчасті, близько 5–7 × 4,5–6 µm.",
+      "habitat": "Ектомікоризний партнер ялини європейської (Picea abies) і рідше сосни звичайної (Pinus sylvestris). Росте на землі серед мохів, часто групами або рядами, у старих, багатих на мохи й трави хвойних лісах на багатих на основи або вапнистих ґрунтах із тривалою безперервністю лісу. Плодові тіла з'являються з липня по жовтень. Основний ареал лежить у Фенноскандії, де в Норвегії, Швеції та Фінляндії відомо близько 200 місцезнаходжень, і заходить у Росію; у Центральній Європі відомо лише 20–25 місцезнаходжень в Альпах і Карпатах, в Австрії на висоті близько 850–1500 м. Північноамериканські знахідки ще потрібно порівняти з європейським матеріалом.",
+      "uses": "Неїстівний. Це індикатор старих ялинників, багатих на рідкісні гриби, у Словаччині він охороняється законом; його ніколи не слід збирати.",
+      "confusion": "Hydnellum compactum на перший погляд схожий, але росте під листяними деревами, має повстисту, а не щетинисту шапинку та дуже пекучий смак. Hydnellum ferrugineum має оксамитову шапинку без щетинок і замолоду виділяє червоні краплі. Phellodon tomentosus і Phellodon melaleucus тонші, зоновані, мають білі спори та світло-сірі шипи.",
+      "notes": "Уперше описаний Еліасом Фрісом у 1863 році як Hydnum mirabile і перенесений до роду Hydnellum Петтером Адольфом Карстеном у 1879 році. Назву Hydnellum acre раніше застосовували як до цього виду, так і до Hydnellum compactum. Червоний список IUCN (2015) оцінює його як вразливий (Vulnerable): суцільні рубки скоротили його старовікові оселища приблизно на 30–50 % за 50 років, і вважається, що існує менше ніж 500 місцезнаходжень. Він занесений до червоних списків Швеції, Франції, Норвегії та Фінляндії, а в Чехії вважався регіонально зниклим. У 2022 році він був австрійським грибом року.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "Hydnellum屬中一種稀有而醒目的齒菌,子實體呈瘤狀、氈毛至剛毛狀,帶黃色至褐色,下表面具褐色菌刺。它在富含鹽基土壤上的老齡針葉林中與雲杉和松樹形成菌根,由於皆伐摧毀了其大部分棲地,在IUCN紅色名錄中被評為易危(Vulnerable)。",
+      "cap": "直徑3–15 cm,陀螺形、墊狀或淺漏斗形,極不規則且多瘤;相鄰的子實體常癒合在一起。表面幼時為天鵝絨狀氈毛,之後呈綿毛狀,最後覆有直立、堅硬的剛毛狀毛;稻草黃至黃色,邊緣尤其明亮,向中央及隨著老化逐漸轉深為紅褐色、橄欖褐色或暗褐色。",
+      "hymenium": "密集的菌刺長可達5 mm,初為淡灰色或淡黃色,後變為褐色至紫褐色,尖端較淡,錐形至扁平,延生至菌柄上。",
+      "stipe": "短,常僅為漸細的基部,長1–5 cm,粗0.5–2.5 cm,天鵝絨狀氈毛,初為白色,後為褐色至紫褐色,基部較暗且有毛;通常沒有明確分開的菌柄。",
+      "flesh": "色淡,具較暗的環紋線,白色至黃褐色,後轉為褐色;纖維質,如軟木般堅韌,但相對柔軟且非常輕。氣味似麵粉,味道微澀至略苦或稍辣。滴一滴氫氧化鉀(KOH)幾乎不會改變菌肉的顏色。",
+      "sporePrint": "褐色。孢子近球形,有疣,約5–7 × 4.5–6 µm。",
+      "habitat": "歐洲雲杉(Picea abies)的外生菌根夥伴,較少與歐洲赤松(Pinus sylvestris)共生。生於地面苔蘚之間,常成群或成列,見於森林延續時間長、富含鹽基或石灰質土壤的老齡針葉林,林內苔蘚與草本豐富。子實體出現於七月至十月。主要分布區在芬諾斯堪地亞,挪威、瑞典和芬蘭已知約200處產地,並延伸至俄羅斯;中歐僅在阿爾卑斯山和喀爾巴阡山有20–25處產地,在奧地利見於海拔約850–1500公尺。北美洲的紀錄仍需與歐洲材料比對。",
+      "uses": "不可食用。它是富含稀有真菌的老雲杉林的指標物種,在斯洛伐克受法律保護;絕不應採集。",
+      "confusion": "Hydnellum compactum乍看相似,但生於闊葉樹下,菌蓋為氈毛狀而非剛毛狀,味道強烈辛辣。Hydnellum ferrugineum菌蓋呈天鵝絨狀而無剛毛,幼時會滲出紅色液滴。Phellodon tomentosus和Phellodon melaleucus較薄,具環紋,孢子白色,菌刺淡灰色。",
+      "notes": "1863年由埃利亞斯·弗里斯首次以Hydnum mirabile之名描述,1879年由佩特·阿道夫·卡斯滕移入Hydnellum屬。Hydnellum acre這個名稱過去曾同時用於本種與Hydnellum compactum。IUCN紅色名錄(2015)將其評為易危(Vulnerable):皆伐使其老齡林棲地在50年內估計減少30–50%,現存產地被認為不到500處。它被列入瑞典、法國、挪威和芬蘭的紅色名錄,在捷克曾被列為區域性滅絕。2022年它是奧地利的年度真菌。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm1.webp",
+      "author": "Kirsti Anne Mandal",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/3889998526"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm2.webp",
+      "author": "Rune Solvang",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/3914194371"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm3.webp",
+      "author": "Ingunn Moslet",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/4928403263"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm4.webp",
+      "author": "Mathilde Norby Lorentzen",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/3898909356"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm5.webp",
+      "author": "Rob van Kruining",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/2425236527"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm1.webp",
+      "author": "Kirsti Anne Mandal",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/3889998526",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2022/8/00289ba2-3be4-4d5c-a63f-d0a313cfdbc8_image.jpg",
+      "attribution": "© Kirsti Anne Mandal, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 3889998526",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm2.webp",
+      "author": "Rune Solvang",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/3914194371",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2022/9/83cb553f-2fcd-4f2d-b4f1-725b88618282_image.jpg",
+      "attribution": "© Rune Solvang, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 3914194371",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm3.webp",
+      "author": "Ingunn Moslet",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/4928403263",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2024/9/beff4deb-4417-42d8-80f5-8ddf08f00d47_image.jpeg",
+      "attribution": "© Ingunn Moslet, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 4928403263",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm4.webp",
+      "author": "Mathilde Norby Lorentzen",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/3898909356",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2022/9/6d195d8c-6a19-42c5-a2e2-5726bce08de1_image.jpg",
+      "attribution": "© Mathilde Norby Lorentzen, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 3898909356",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/hm5.webp",
+      "author": "Rob van Kruining",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/2425236527",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2019/9/481fccb7-60ad-4591-9e84-bf543961051c_image.jpg",
+      "attribution": "© Rob van Kruining, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 2425236527",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Hydnum mirabile",
+    "Calodon mirabilis",
+    "Phaeodon mirabilis",
+    "Hydnum acre",
+    "Sarcodon acris",
+    "Sarcodon acre",
+    "Phaeodon acer",
+    "Phaeodon acris",
+    "Hydnellum acre"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 10,
+  "reserved": false,
+  "id": 149,
+  "added": "2026-11-09",
+  "citation": "Meddn Soc. Fauna Flora fenn. 5: 41 (1879)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "paperResidualP995": 1.3956211838003574,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Hydnellum mirabile.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "e65d0259159e437670e3b38e470cc9ef77a586c91525554642d76547fa5478d7",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      81,
+      225,
+      849,
+      1095
+    ],
+    "uniformScale": 1.8229166666666667,
+    "placement": [
+      100,
+      407
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1586
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 760829,
+    "opaquePixels": 299864,
+    "partialAlphaPixels": 14507,
+    "signatureBox": [
+      700,
+      1036,
+      830,
+      1104
+    ],
+    "signatureComponents": 6,
+    "signaturePixels": 490,
+    "preservedObjects": [
+      "upper-left cluster of several fused, lumpy caps with yellow-ochre to rusty-brown bristly-felted surfaces, pale cream margins and short brown stems, with its drawn cast shadow",
+      "upper-right single fruit body with a yellowish felted cap, pale wavy margin, spines hanging beneath and a short tapering stem",
+      "bottom-left fruit body turned to show the brown spiny (toothed) underside and stem",
+      "bottom-centre longitudinal section showing brown zoned flesh with spines at the cap edge",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 42517.5,
+        "box": [
+          408,
+          688,
+          256,
+          332
+        ]
+      },
+      {
+        "area": 61318.5,
+        "box": [
+          106,
+          688,
+          310,
+          339
+        ]
+      },
+      {
+        "area": 52496.0,
+        "box": [
+          536,
+          441,
+          312,
+          316
+        ]
+      },
+      {
+        "area": 147296.0,
+        "box": [
+          82,
+          226,
+          534,
+          423
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected (fullsize_inspection/, art_fullsize_inspection.png, original_vs_composition.jpg): all four figure groups (fused cluster, upper-right fruit body, spine-side fruit body, longitudinal section) and the drawn cast shadow kept whole with felted edges; paper removed by robust paper-only fit; no visible fringe on the standard background; existing Gemini mark kept once; one standard background frame only; no double frame, no added mark.",
+    "alphaPNGSHA256": "63af4ac3fb8b8768a55152f3948f05489d28322bef2874c8a7d0b8fa6254b95e",
+    "maskSHA256": "183a1404794adaacb5fee1973d97299455e5d10bd6b76149cbba0511df76e40f",
+    "recipeSHA256": "ce5e0d4b29ea58236897ac1c8a95bec0e45fc73ff94ff99b353142ebdb35d212",
+    "officialFiles": [
+      {
+        "path": "media/Hydnellum_mirabile@1600.webp",
+        "bytes": 300130,
+        "sha256": "ef0947cfd2ece72d4b24d5e5910bd8084f14eda775e48528799773499956a6cd"
+      },
+      {
+        "path": "media/Hydnellum_mirabile@400.webp",
+        "bytes": 39072,
+        "sha256": "78624147cd9bf07e409566f29e4ecbf51c797f4d09e2a8ecac25e109c08c0344"
+      }
+    ]
+  }
 }
 ];

@@ -512,7 +512,9 @@ export const TAXA = {
     sk: "jelenkovec"
   },
   Hydnellum: {
-    rank: "genus"
+    rank: "genus",
+    sk: "jelenkovka",
+    cs: "lošákovec"
   },
   Kuehneromycetaceae: {
     rank: "family"
@@ -902,5 +904,10 @@ export const TAXA = {
     rank: "genus",
     sk: "kališník",
     pl: "kielichowiec"
+  },
+  Hapalopilus: {
+    rank: "genus",
+    sk: "hlinovec",
+    cs: "hlinák"
   }
 };
