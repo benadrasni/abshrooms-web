@@ -149907,5 +149907,1032 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Microstoma protractum",
+  "author": "(Fr.) Kanouse",
+  "family": "Sarcoscyphaceae",
+  "genus": "Microstoma",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Sarcoscyphaceae",
+    "Microstoma"
+  ],
+  "summary": [
+    "Pezizales",
+    "Sarcoscyphaceae",
+    "Microstoma"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "ground",
+    "wood"
+  ],
+  "color": [
+    "red",
+    "white"
+  ],
+  "capFrom": 0.5,
+  "capTo": 2.5,
+  "stipeHeightFrom": 1.0,
+  "stipeHeightTo": 4.0,
+  "stipeThickFrom": 0.2,
+  "stipeThickTo": 0.5,
+  "label": {
+    "ar": "Microstoma protractum",
+    "bg": "Алпийска чашка",
+    "cs": "ohnivec zimní",
+    "da": "knippebæger",
+    "de": "Eingerissener Tulpenbecher",
+    "en": "rosy goblet",
+    "es": "Microstoma protractum",
+    "et": "lehterkarikseen",
+    "fa": "Microstoma protractum",
+    "fi": "kukkamaljakas",
+    "fr": "pézize alpine",
+    "he": "Microstoma protractum",
+    "hi": "Microstoma protractum",
+    "hr": "Microstoma protractum",
+    "hu": "csoportos csészegomba",
+    "id": "Microstoma protractum",
+    "it": "Microstoma protractum",
+    "ja": "コベニチャワンタケモドキ",
+    "ko": "Microstoma protractum",
+    "lt": "ilgakotė mikrostoma",
+    "lv": "garkāta agrenīte",
+    "nl": "Microstoma protractum",
+    "no": "blomsterbeger",
+    "pl": "czareczka długotrzonkowa",
+    "pt": "Microstoma protractum",
+    "ro": "Microstoma protractum",
+    "ru": "Микростома вытянутая",
+    "sk": "ohnivček zimný",
+    "sl": "Microstoma protractum",
+    "sr": "Microstoma protractum",
+    "sv": "tulpanskål",
+    "tr": "Microstoma protractum",
+    "uk": "Microstoma protractum",
+    "zh": "Microstoma protractum"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Tulpenbecherling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "http://e-ecodb.bas.bg/rdb/bg/vol1/Micprotr.html"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Microstoma-protractum/",
+      "https://cs.wikipedia.org/wiki/Ohnivec_zimn%C3%AD"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxonomy/17017",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Eingerissener_Tulpenbecher",
+      "https://pilzbestimmer.de/Ascomycota/Pezizomycetes/Pezizales/Sarcoscyphaceae/Microstoma/index.html",
+      "https://123pilzsuche.de/daten/details/Tulpenbecherling.htm"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=521598",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=521598",
+      "https://www.gbif.org/species/5259120",
+      "https://en.wikipedia.org/wiki/Microstoma_protractum",
+      "https://de.wikipedia.org/wiki/Eingerissener_Tulpenbecher",
+      "https://www.myko.cz/myko-atlas/Microstoma-protractum/",
+      "https://123pilzsuche.de/daten/details/Tulpenbecherling.htm",
+      "https://www.nahuby.sk/atlas-hub/Microstoma-protractum/ohnivcek-zimny/ohnivec-zimni/ID2319",
+      "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf",
+      "https://grzyby.pl/gatunki/Microstoma_protracta.htm",
+      "https://evfajai.nhmus.hu/hu/ev-fajai-2020/csoportos-cseszegomba",
+      "https://doi.org/10.5586/am.1114",
+      "http://e-ecodb.bas.bg/rdb/en/vol1/Micprotr.html",
+      "https://laji.fi/taxon/MX.237078",
+      "https://www.mushroomexpert.com/microstoma_floccosum.html",
+      "https://species.nbnatlas.org/species/NHMSYS0020811850",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Lehterkarikseen",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "fa": [],
+    "fi": [
+      "https://laji.fi/taxon/MX.237078"
+    ],
+    "fr": [
+      "https://raymondboyer.mycoquebec.org/Asco_Pezize_vive.htm",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://evfajai.nhmus.hu/hu/ev-fajai-2020/csoportos-cseszegomba",
+      "https://hu.wikipedia.org/wiki/Csoportos_cs%C3%A9szegomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://mycoscouter.coolblog.jp/daikinrin/Pages/Microstoma_protractum_521598.html",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "ko": [],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Fungi_2_Kutorga.pdf"
+    ],
+    "lv": [
+      "https://www.senes.lv/Citado_senju_sugas.htm",
+      "https://lv.wikipedia.org/wiki/Gark%C4%81ta_agren%C4%ABte"
+    ],
+    "nl": [],
+    "no": [
+      "https://artsdatabanken.no/arter/takson/93116",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "pl": [
+      "https://grzyby.pl/gatunki/Microstoma_protracta.htm",
+      "https://pl.wikipedia.org/wiki/Czareczka_d%C5%82ugotrzonkowa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://portal.kgilc.ru/redbook/?q=Microstoma_protractum",
+      "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%B0_%D0%B2%D1%8B%D1%82%D1%8F%D0%BD%D1%83%D1%82%D0%B0%D1%8F"
+    ],
+    "sk": [
+      "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf",
+      "https://www.nahuby.sk/atlas-hub/Microstoma-protractum/ohnivcek-zimny/ohnivec-zimni/ID2319"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://laji.fi/taxon/MX.237078",
+      "https://api.gbif.org/v1/species/5259120/vernacularNames"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كأسي صغير قرمزي زاهٍ من جنس Microstoma، أجسامه الثمرية على شكل كأس تنفتح بحافة شاحبة متشققة على هيئة نجمة ومسننة، وتقوم على سيقان طويلة نحيلة بيضاء تنمو من خشب مدفون في التربة. يثمر في حزم أو مجموعات صغيرة في أواخر الشتاء وأوائل الربيع في الغابات الرطبة عريضة الأوراق والمختلطة، وهو نادر ومحمي في عدة بلدان أوروبية.",
+      "cap": "يبلغ عرض الكأس ٠٫٥–٢٫٥ سم. الأجسام الثمرية الفتية كرات شبه مغلقة ذات فتحة دقيقة في القمة؛ ثم تتسع تدريجيًا وتتشقق على هيئة نجمة وتصبح كأسية إلى قدحية الشكل، ثم شبه مسطحة في النهاية، بحافة مسننة على نحو غير منتظم تجعلها تشبه أزهارًا صغيرة. السطح الخارجي أفتح من الداخل، أحمر برتقالي إلى وردي، ومغطى بشعيرات بيضاء دقيقة تبقى خصوصًا عند الحافة.",
+      "hymenium": "تبطّن الطبقة الخصبة داخل الكأس؛ وهي ملساء، مجعدة قليلًا أحيانًا، قرمزية زاهية إلى حمراء زنجفرية.",
+      "stipe": "طويل ونحيل، طوله ١–٤ سم وسمكه ٠٫٢–٠٫٥ سم، أسطواني ومغمور في معظمه في التربة. الجزء الظاهر أبيض إلى محمر ومغطى بشعر دقيق؛ أما الجزء المدفون فبني إلى أسود وينشأ من جسم حجري أسود يشبه الدرنة ملتصق بالخشب المدفون.",
+      "flesh": "رقيق، متين ومرن إلى حد ما، خصوصًا في الساق، مطاطي إلى هلامي قليلًا. الرائحة غير مميزة.",
+      "sporePrint": "أبيض. الأبواغ ملساء، إهليلجية ضيقة إلى مغزلية ذات أطراف مستديرة، نحو ٢٥–٤٥ × ١٠–١٧ ميكرومتر، فيها قطرة زيت كبيرة وعدة قطرات أصغر؛ ويحوي كل زق ثمانية أبواغ.",
+      "habitat": "مُترمِّم يحلل الأغصان الصغيرة والفروع والجذور الميتة للأشجار عريضة الأوراق المدفونة في التربة أو المغطاة بها، في الغابات الرطبة عريضة الأوراق والمختلطة، ولا سيما غابات السهول الفيضية على التربة الطفلية. يثمر من أواخر الشتاء إلى الربيع، أساسًا من فبراير إلى مايو، وفي أقصى الشمال حتى يونيو. يُعرف من أوروبا وأمريكا الشمالية واليابان، وهو نادر في كل مكان تقريبًا.",
+      "uses": "يُعدّ غير صالح للأكل ولا يُجمع طعامًا؛ ولم تُختبر صلاحيته للأكل في الواقع قط، ربما بسبب ندرته. وهو محمي بالقانون في سلوفاكيا ومحمي حماية صارمة في بولندا، لذا ينبغي تركه في مكانه.",
+      "confusion": "Sarcoscypha austriaca و Sarcoscypha coccinea فطران كأسيان قرمزيان أيضًا يظهران في أواخر الشتاء والربيع، لكن كؤوسهما أكبر، بعرض ١–٦ سم، ولا تنمو عادة في حزم، وليست ذات حافة مسننة، ولها ساق قصيرة أو بلا ساق. أما Microstoma floccosum في أمريكا الشمالية فله كأس حمراء مغطاة بكثافة بشعيرات بيضاء طويلة ويثمر في الصيف.",
+      "notes": "وصفه إلياس فريس لأول مرة عام ١٨٥١ باسم Peziza protracta، ونقلته بيسي كانوز إلى جنس Microstoma عام ١٩٤٨؛ و Microstoma hiemale مرادف لاحق. وهو مدرج في القوائم الحمراء لعدة بلدان أوروبية، بوصفه مهددًا بالانقراض في التشيك والنمسا وبلغاريا، ويُقيَّم في فنلندا على أنه غير مثير للقلق. وفي عام ٢٠٢٠ كان فطر العام في المجر.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка, яркочервена чашковидна гъба от род Microstoma с бокаловидни плодни тела, които се отварят със светъл, звездовидно разпукан, назъбен ръб и стоят на дълги, тънки, белезникави пънчета, израстващи от заровена в почвата дървесина. Плододава на туфи или малки групи в края на зимата и рано напролет във влажни широколистни и смесени гори и в няколко европейски страни е рядка и защитена.",
+      "cap": "Чашката е с диаметър 0,5–2,5 см. Младите плодни тела са почти затворени топчета с мъничък отвор на върха; постепенно се разширяват, разпукват се звездовидно и стават бокаловидни до чашковидни, накрая почти плоски, с неправилно назъбен ръб, поради което приличат на малки цветчета. Външната повърхност е по-светла от вътрешната, оранжевочервена до розовееща и покрита с фини белезникави власинки, които остават главно по ръба.",
+      "hymenium": "Плодният слой покрива вътрешността на чашката; той е гладък, понякога леко набръчкан, яркочервен до цинобърночервен.",
+      "stipe": "Дълго и тънко, 1–4 см дълго и 0,2–0,5 см дебело, цилиндрично и в по-голямата си част потопено в почвата. Видимата част е белезникава до червеникава и фино власеста; заровената част е кафява до черна и израства от черен, грудковиден склероций, прикрепен към заровената дървесина.",
+      "flesh": "Тънко, доста жилаво и еластично, особено в пънчето, гумено до малко желатиново. Мирисът е неизразен.",
+      "sporePrint": "Бял. Спорите са гладки, тясно елипсовидни до вретеновидни със закръглени краища, около 25–45 × 10–17 мкм, с една голяма и няколко по-малки маслени капки; всеки аскус съдържа осем спори.",
+      "habitat": "Сапротроф, който разгражда мъртви клонки, клони и корени на широколистни дървета, заровени в почвата или покрити с пръст, във влажни широколистни и смесени гори, особено в крайречни гори на глинести почви. Плододава от края на зимата до пролетта, главно от февруари до май, а в крайния север и до юни. Известна е от Европа, Северна Америка и Япония и почти навсякъде е рядка.",
+      "uses": "Смята се за негодна за ядене и не се събира за храна; ядливостта ѝ всъщност никога не е проверявана, вероятно поради рядкостта ѝ. В Словакия е защитена със закон, а в Полша е строго защитена, затова трябва да се оставя там, където расте.",
+      "confusion": "Sarcoscypha austriaca и Sarcoscypha coccinea също са яркочервени чашковидни гъби от края на зимата и пролетта, но чашките им са по-големи, 1–6 см в диаметър, обикновено не растат на туфи, нямат назъбен ръб и имат само късо пънче или нямат. Северноамериканската Microstoma floccosum има червен бокал, гъсто покрит с дълги бели власинки, и плододава през лятото.",
+      "notes": "Описана е за първи път от Елиас Фрис през 1851 г. като Peziza protracta и е прехвърлена в род Microstoma от Беси Кануз през 1948 г.; Microstoma hiemale е по-късен синоним. Включена е в червените списъци на няколко европейски страни, като застрашена в Чехия, Австрия и България, а във Финландия е оценена като незастрашена. През 2020 г. е гъба на годината в Унгария.",
+      "names": [],
+      "sourceUrls": [
+        "http://e-ecodb.bas.bg/rdb/bg/vol1/Micprotr.html"
+      ],
+      "label": "Алпийска чашка"
+    },
+    "cs": {
+      "description": "Malá, zářivě šarlatová miskovitá houba z rodu Microstoma s pohárkovitými plodnicemi, které se otevírají světlým, hvězdicovitě rozpukaným, zubatým okrajem a sedí na dlouhých, štíhlých, bělavých třeních vyrůstajících ze dřeva zahrabaného v půdě. Plodnice tvoří v trsech nebo malých skupinách koncem zimy a brzy zjara ve vlhkých listnatých a smíšených lesích a v několika evropských zemích je vzácná a chráněná.",
+      "cap": "Miska široká 0,5–2,5 cm. Mladé plodnice jsou téměř uzavřené kuličky s drobným otvorem na vrcholu; postupně se rozšiřují, hvězdicovitě se rozpukají a stávají se pohárkovitými až miskovitými, nakonec téměř plochými, s nepravidelně zubatým okrajem, takže připomínají malé květy. Vnější povrch je světlejší než vnitřek, oranžově červený až narůžovělý a pokrytý jemnými bělavými chloupky, které vytrvávají hlavně na okraji.",
+      "hymenium": "Plodná vrstva vystýlá vnitřek misky; je hladká, někdy jemně zvrásněná, zářivě šarlatová až rumělkově červená.",
+      "stipe": "Dlouhý a štíhlý, 1–4 cm dlouhý a 0,2–0,5 cm tlustý, válcovitý a z větší části ponořený v půdě. Viditelná část je bělavá až načervenalá a jemně chlupatá; zakopaná část je hnědá až černá a vyrůstá z černé hlízovité sklerocie přirostlé k zahrabanému dřevu.",
+      "flesh": "Tenká, poměrně houževnatá a pružná, zejména v třeni, gumovitá až poněkud rosolovitá. Vůně je nevýrazná.",
+      "sporePrint": "Bílý. Výtrusy jsou hladké, úzce elipsoidní až vřetenovité se zaoblenými konci, asi 25–45 × 10–17 µm, s jednou velkou a několika menšími olejovými kapkami; každé vřecko obsahuje osm výtrusů.",
+      "habitat": "Saprotrof rozkládající odumřelé větvičky, větve a kořeny listnatých stromů uložené v půdě nebo zakryté půdou, ve vlhkých listnatých a smíšených lesích, zejména v lužních lesích na hlinitých půdách. Plodnice tvoří od konce zimy do jara, hlavně od února do května, na dalekém severu až do června. Je známa z Evropy, Severní Ameriky a Japonska a téměř všude je vzácná.",
+      "uses": "Považuje se za nejedlou a nesbírá se k jídlu; její jedlost ve skutečnosti nikdy nebyla ověřena, pravděpodobně kvůli její vzácnosti. Na Slovensku je chráněna zákonem a v Polsku přísně chráněna, proto je třeba ji nechat tam, kde roste.",
+      "confusion": "Sarcoscypha austriaca a Sarcoscypha coccinea jsou také šarlatové miskovité houby konce zimy a jara, ale jejich misky jsou větší, 1–6 cm široké, obvykle nerostou v trsech, nemají zubatý okraj a mají jen krátký třeň nebo žádný. Severoamerický Microstoma floccosum má červený pohárek hustě pokrytý dlouhými bílými chlupy a plodnice tvoří v létě.",
+      "notes": "Poprvé ji popsal Elias Fries v roce 1851 jako Peziza protracta a do rodu Microstoma ji přeřadila Bessie Kanouse v roce 1948; Microstoma hiemale je pozdější synonymum. Je na červených seznamech několika evropských zemí, v Česku, Rakousku a Bulharsku jako ohrožená, a ve Finsku je hodnocena jako málo dotčená. V roce 2020 byla maďarskou houbou roku.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Microstoma-protractum/",
+        "https://cs.wikipedia.org/wiki/Ohnivec_zimn%C3%AD"
+      ],
+      "label": "ohnivec zimní"
+    },
+    "da": {
+      "description": "En lille, klart skarlagenrød bægersvamp i slægten Microstoma med bægerformede frugtlegemer, der åbner sig med en bleg, stjerneformet opsprækket, tandet rand og sidder på lange, slanke, hvidlige stokke, der vokser ud fra ved begravet i jorden. Den danner frugtlegemer i knipper eller små grupper i senvinteren og det tidlige forår i fugtige løv- og blandskove og er sjælden og beskyttet i flere europæiske lande.",
+      "cap": "Bægeret er 0,5–2,5 cm bredt. Unge frugtlegemer er næsten lukkede kugler med en ganske lille åbning i toppen; de udvider sig gradvis, sprækker stjerneformet op og bliver bæger- til skålformede, til sidst næsten flade, med en uregelmæssigt tandet rand, så de ligner små blomster. Ydersiden er blegere end indersiden, orangerød til rosa og dækket af fine hvidlige hår, som især bliver siddende ved randen.",
+      "hymenium": "Det frugtbare lag beklæder indersiden af bægeret; det er glat, undertiden svagt rynket, og klart skarlagen- til cinnoberrødt.",
+      "stipe": "Lang og slank, 1–4 cm lang og 0,2–0,5 cm tyk, cylindrisk og for det meste sænket ned i jorden. Den synlige del er hvidlig til rødlig og fint håret; den begravede del er brun til sort og vokser ud fra et sort, knoldagtigt sklerotium, der sidder fast på den begravede ved.",
+      "flesh": "Tyndt, temmelig sejt og elastisk, især i stokken, gummiagtigt til noget geléagtigt. Lugten er uden særpræg.",
+      "sporePrint": "Hvidt. Sporerne er glatte, smalt elliptiske til tenformede med afrundede ender, omkring 25–45 × 10–17 µm, med én stor og flere mindre oliedråber; hver sporesæk indeholder otte sporer.",
+      "habitat": "En saprotrof, der nedbryder døde kviste, grene og rødder af løvtræer, som ligger i eller er dækket af jord, i fugtige løv- og blandskove, især ådalsskove på leret jord. Den danner frugtlegemer fra senvinteren til foråret, hovedsageligt fra februar til maj, og længst mod nord ind i juni. Den kendes fra Europa, Nordamerika og Japan og er sjælden næsten overalt.",
+      "uses": "Regnes for uspiselig og indsamles ikke til mad; dens spiselighed er egentlig aldrig undersøgt, sandsynligvis på grund af dens sjældenhed. Den er lovbeskyttet i Slovakiet og strengt beskyttet i Polen, så den bør få lov at blive stående, hvor den vokser.",
+      "confusion": "Sarcoscypha austriaca og Sarcoscypha coccinea er også skarlagenrøde bægersvampe fra senvinteren og foråret, men deres bægre er større, 1–6 cm brede, vokser som regel ikke i knipper, mangler tandet rand og har kun en kort stok eller ingen. Den nordamerikanske Microstoma floccosum har et rødt bæger, der er tæt dækket af lange hvide hår, og danner frugtlegemer om sommeren.",
+      "notes": "Den blev første gang beskrevet af Elias Fries i 1851 som Peziza protracta og flyttet til slægten Microstoma af Bessie Kanouse i 1948; Microstoma hiemale er et senere synonym. Den står på rødlisterne i flere europæiske lande, som truet i Tjekkiet, Østrig og Bulgarien, og er vurderet som livskraftig i Finland. I 2020 var den årets svamp i Ungarn.",
+      "names": [],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxonomy/17017",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "knippebæger"
+    },
+    "de": {
+      "description": "Ein kleiner, leuchtend scharlachroter Becherpilz der Gattung Microstoma mit kelchförmigen Fruchtkörpern, die sich mit einem hellen, sternförmig eingerissenen, gezähnten Rand öffnen und auf langen, schlanken, weißlichen Stielen sitzen, die aus im Boden vergrabenem Holz wachsen. Er fruchtet büschelig oder in kleinen Gruppen im Spätwinter und Vorfrühling in feuchten Laub- und Mischwäldern und ist in mehreren europäischen Ländern selten und geschützt.",
+      "cap": "Becher 0,5–2,5 cm breit. Junge Fruchtkörper sind fast geschlossene Kugeln mit einer winzigen Öffnung an der Spitze; sie weiten sich allmählich, reißen sternförmig auf und werden kelch- bis becherförmig, zuletzt fast flach, mit einem unregelmäßig gezähnten Rand, sodass sie kleinen Blüten gleichen. Die Außenseite ist heller als die Innenseite, orangerot bis rosa und mit feinen weißlichen Haaren besetzt, die vor allem am Rand erhalten bleiben.",
+      "hymenium": "Die Fruchtschicht kleidet die Innenseite des Bechers aus; sie ist glatt, manchmal leicht runzelig und leuchtend scharlach- bis zinnoberrot.",
+      "stipe": "Lang und schlank, 1–4 cm lang und 0,2–0,5 cm dick, zylindrisch und größtenteils im Boden steckend. Der sichtbare Teil ist weißlich bis rötlich und fein behaart; der vergrabene Teil ist braun bis schwarz und entspringt einem schwarzen, knollenartigen Sklerotium, das dem vergrabenen Holz anhaftet.",
+      "flesh": "Dünn, ziemlich zäh und elastisch, besonders im Stiel, gummiartig bis etwas gallertig. Der Geruch ist unauffällig.",
+      "sporePrint": "Weiß. Die Sporen sind glatt, schmal elliptisch bis spindelförmig mit abgerundeten Enden, etwa 25–45 × 10–17 µm, mit einem großen und mehreren kleineren Öltropfen; jeder Schlauch enthält acht Sporen.",
+      "habitat": "Ein Saprobiont, der abgestorbene Zweige, Äste und Wurzeln von Laubbäumen zersetzt, die im Boden liegen oder von Erde bedeckt sind, in feuchten Laub- und Mischwäldern, besonders in Auwäldern auf lehmigen Böden. Er fruchtet vom Spätwinter bis zum Frühjahr, hauptsächlich von Februar bis Mai, im hohen Norden bis in den Juni. Er ist aus Europa, Nordamerika und Japan bekannt und fast überall selten.",
+      "uses": "Gilt als ungenießbar und wird nicht zu Speisezwecken gesammelt; seine Essbarkeit wurde eigentlich nie geprüft, wohl wegen seiner Seltenheit. In der Slowakei ist er gesetzlich geschützt und in Polen streng geschützt, deshalb sollte man ihn stehen lassen.",
+      "confusion": "Sarcoscypha austriaca und Sarcoscypha coccinea sind ebenfalls scharlachrote Becherpilze des Spätwinters und Frühjahrs, ihre Becher sind jedoch größer, 1–6 cm breit, meist nicht büschelig, ohne gezähnten Rand und nur kurz oder gar nicht gestielt. Der nordamerikanische Microstoma floccosum hat einen roten Kelch, der dicht mit langen weißen Haaren besetzt ist, und fruchtet im Sommer.",
+      "notes": "Erstmals 1851 von Elias Fries als Peziza protracta beschrieben und 1948 von Bessie Kanouse in die Gattung Microstoma gestellt; Microstoma hiemale ist ein späteres Synonym. Er steht in mehreren europäischen Ländern auf der Roten Liste, als stark gefährdet in Tschechien, Österreich und Bulgarien, und wird in Finnland als nicht gefährdet eingestuft. 2020 war er in Ungarn Pilz des Jahres.",
+      "names": [
+        "Tulpenbecherling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Eingerissener_Tulpenbecher",
+        "https://pilzbestimmer.de/Ascomycota/Pezizomycetes/Pezizales/Sarcoscyphaceae/Microstoma/index.html",
+        "https://123pilzsuche.de/daten/details/Tulpenbecherling.htm"
+      ],
+      "label": "Eingerissener Tulpenbecher"
+    },
+    "en": {
+      "description": "A small, bright scarlet cup fungus of the genus Microstoma with goblet-shaped cups that open with a pale, star-split, toothed margin and sit on long, slender, whitish stalks rising from wood buried in the soil. It fruits in clusters or small groups in late winter and early spring in damp broadleaved and mixed forests, and it is rare and protected in several European countries.",
+      "cap": "Cup 0.5–2.5 cm across. Young fruit bodies are almost closed spheres with a tiny opening at the top; they gradually widen, split open in a star pattern and become goblet- to cup-shaped, finally almost flat, with an irregularly toothed margin that makes them look like small flowers. The outer surface is paler than the inside, orange-red to pinkish, and covered with fine whitish hairs, which persist mainly at the margin.",
+      "hymenium": "The fertile layer lines the inside of the cup; it is smooth, sometimes slightly wrinkled, and bright scarlet to cinnabar red.",
+      "stipe": "Long and slender, 1–4 cm long and 0.2–0.5 cm thick, cylindrical and mostly buried in the soil. The visible part is whitish to reddish and finely hairy; the buried part is brown to black and grows from a black, tuber-like sclerotium attached to the buried wood.",
+      "flesh": "Thin, rather tough and elastic, especially in the stalk, and rubbery to somewhat gelatinous. The smell is indistinct.",
+      "sporePrint": "White. The spores are smooth, narrowly elliptical to spindle-shaped with rounded ends, about 25–45 × 10–17 µm, with one large and several smaller oil drops; each ascus holds eight spores.",
+      "habitat": "A saprotroph that decomposes dead twigs, branches and roots of broadleaved trees lying in or covered by soil, in damp broadleaved and mixed forests, especially floodplain woods on loamy soils. It fruits from late winter to spring, mainly from February to May, and in the far north into June. It is known from Europe, North America and Japan and is rare almost everywhere.",
+      "uses": "Considered inedible and not collected for food; its edibility has never really been tested, probably because it is so rare. It is legally protected in Slovakia and strictly protected in Poland, so it should be left where it grows.",
+      "confusion": "Sarcoscypha austriaca and Sarcoscypha coccinea are also scarlet cup fungi of late winter and spring, but their cups are larger, 1–6 cm across, usually not clustered, without a toothed margin and with only a short stalk or none. The North American Microstoma floccosum has a red goblet densely covered with long white hairs and fruits in summer.",
+      "notes": "First described by Elias Fries in 1851 as Peziza protracta and transferred to Microstoma by Bessie Kanouse in 1948; Microstoma hiemale is a later synonym. It is red-listed in several European countries, as endangered in the Czech Republic, Austria and Bulgaria, and is assessed as least concern in Finland. It was Hungary's Mushroom of the Year in 2020.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=521598",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=521598",
+        "https://www.gbif.org/species/5259120",
+        "https://en.wikipedia.org/wiki/Microstoma_protractum",
+        "https://de.wikipedia.org/wiki/Eingerissener_Tulpenbecher",
+        "https://www.myko.cz/myko-atlas/Microstoma-protractum/",
+        "https://123pilzsuche.de/daten/details/Tulpenbecherling.htm",
+        "https://www.nahuby.sk/atlas-hub/Microstoma-protractum/ohnivcek-zimny/ohnivec-zimni/ID2319",
+        "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf",
+        "https://grzyby.pl/gatunki/Microstoma_protracta.htm",
+        "https://evfajai.nhmus.hu/hu/ev-fajai-2020/csoportos-cseszegomba",
+        "https://doi.org/10.5586/am.1114",
+        "http://e-ecodb.bas.bg/rdb/en/vol1/Micprotr.html",
+        "https://laji.fi/taxon/MX.237078",
+        "https://www.mushroomexpert.com/microstoma_floccosum.html",
+        "https://species.nbnatlas.org/species/NHMSYS0020811850",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "rosy goblet"
+    },
+    "es": {
+      "description": "Pequeño hongo en forma de copa, de color escarlata brillante, del género Microstoma, con fructificaciones en forma de cáliz que se abren con un margen pálido, rasgado en estrella y dentado, y que se apoyan en pies largos, delgados y blanquecinos que nacen de madera enterrada en el suelo. Fructifica en grupos apretados o pequeños grupos a finales del invierno y a principios de la primavera en bosques húmedos de frondosas y mixtos, y es raro y está protegido en varios países europeos.",
+      "cap": "Copa de 0,5–2,5 cm de diámetro. Los ejemplares jóvenes son esferas casi cerradas con una diminuta abertura en el ápice; poco a poco se ensanchan, se rasgan en forma de estrella y adquieren forma de cáliz o de copa, y al final son casi planos, con un margen irregularmente dentado que les da aspecto de pequeñas flores. La superficie externa es más pálida que el interior, de rojo anaranjado a rosada, y está cubierta de finos pelos blanquecinos que persisten sobre todo en el margen.",
+      "hymenium": "La capa fértil tapiza el interior de la copa; es lisa, a veces ligeramente arrugada, de color escarlata brillante a rojo bermellón.",
+      "stipe": "Largo y delgado, de 1–4 cm de largo y 0,2–0,5 cm de grosor, cilíndrico y en su mayor parte hundido en el suelo. La parte visible es de blanquecina a rojiza y finamente pelosa; la parte enterrada es de marrón a negra y nace de un esclerocio negro en forma de tubérculo, adherido a la madera enterrada.",
+      "flesh": "Delgada, bastante tenaz y elástica, sobre todo en el pie, de gomosa a algo gelatinosa. El olor es imperceptible.",
+      "sporePrint": "Blanca. Las esporas son lisas, de estrechamente elípticas a fusiformes con los extremos redondeados, de unas 25–45 × 10–17 µm, con una gota lipídica grande y varias más pequeñas; cada asca contiene ocho esporas.",
+      "habitat": "Saprótrofo que descompone ramitas, ramas y raíces muertas de árboles frondosos enterradas o cubiertas de tierra, en bosques húmedos de frondosas y mixtos, sobre todo en bosques de ribera sobre suelos limosos. Fructifica desde finales del invierno hasta la primavera, principalmente de febrero a mayo, y en el extremo norte hasta junio. Se conoce de Europa, Norteamérica y Japón y es raro casi en todas partes.",
+      "uses": "Se considera no comestible y no se recolecta para comer; en realidad su comestibilidad nunca se ha comprobado, probablemente por su rareza. Está protegido por ley en Eslovaquia y estrictamente protegido en Polonia, por lo que debe dejarse donde crece.",
+      "confusion": "Sarcoscypha austriaca y Sarcoscypha coccinea también son hongos de copa escarlata de finales del invierno y de la primavera, pero sus copas son mayores, de 1–6 cm de diámetro, normalmente no crecen en grupos apretados, no tienen el margen dentado y tienen solo un pie corto o ninguno. El norteamericano Microstoma floccosum tiene un cáliz rojo densamente cubierto de largos pelos blancos y fructifica en verano.",
+      "notes": "Fue descrito por primera vez por Elias Fries en 1851 como Peziza protracta y transferido al género Microstoma por Bessie Kanouse en 1948; Microstoma hiemale es un sinónimo posterior. Figura en las listas rojas de varios países europeos, como en peligro en Chequia, Austria y Bulgaria, y en Finlandia se evalúa como de preocupación menor. En 2020 fue el hongo del año en Hungría.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike, erkpunane kausjas seen perekonnast Microstoma. Selle karikakujulised viljakehad avanevad heleda, tähtjalt lõhenenud, hambulise servaga ja istuvad pikkadel, saledatel, valkjatel jalgadel, mis kasvavad välja mulda maetud puidust. Viljakehi moodustab kimpudes või väikeste rühmadena hilistalvel ja varakevadel niisketes lehtmetsades ja segametsades ning on mitmes Euroopa riigis haruldane ja kaitstud.",
+      "cap": "Karikas on 0,5–2,5 cm lai. Noored viljakehad on peaaegu suletud kerad, mille tipus on tilluke ava; need laienevad järk-järgult, lõhenevad tähtjalt ja muutuvad karika- kuni kausikujuliseks, lõpuks peaaegu lamedaks, ebakorrapäraselt hambulise servaga, nii et meenutavad väikesi õisi. Välispind on sisepinnast heledam, oranžikaspunane kuni roosakas ja kaetud peente valkjate karvadega, mis säilivad peamiselt servas.",
+      "hymenium": "Viljakas kiht katab karika sisekülge; see on sile, mõnikord kergelt kortsuline, erkpunane kuni kinaverpunane.",
+      "stipe": "Pikk ja sale, 1–4 cm pikk ja 0,2–0,5 cm jäme, silindriline ja suuremalt jaolt mulda vajunud. Nähtav osa on valkjas kuni punakas ja peenelt karvane; maetud osa on pruun kuni must ning kasvab välja mustast mugulataolisest sklerootsiumist, mis on kinnitunud maetud puidu külge.",
+      "flesh": "Õhuke, üsna sitke ja elastne, eriti jalas, kummijas kuni veidi želatiinjas. Lõhn on iseloomutu.",
+      "sporePrint": "Valge. Eosed on siledad, kitsalt elliptilised kuni värtnakujulised ümarate otstega, umbes 25–45 × 10–17 µm, ühe suure ja mitme väiksema õlitilgaga; igas eoskotis on kaheksa eost.",
+      "habitat": "Saprotroof, mis lagundab mulda maetud või mullaga kaetud lehtpuude surnud raagusid, oksi ja juuri niisketes lehtmetsades ja segametsades, eriti lammimetsades savikal mullal. Viljakehi moodustab hilistalvest kevadeni, peamiselt veebruarist maini, ja kaugel põhjas kuni juunini. Seda tuntakse Euroopast, Põhja-Ameerikast ja Jaapanist ning see on peaaegu kõikjal haruldane.",
+      "uses": "Peetakse mittesöödavaks ja seda ei korjata toiduks; selle söödavust pole tegelikult kunagi uuritud, tõenäoliselt haruldase esinemise tõttu. Slovakkias on see seadusega kaitstud ja Poolas rangelt kaitstud, seega tuleks see jätta kasvukohale.",
+      "confusion": "Sarcoscypha austriaca ja Sarcoscypha coccinea on samuti hilistalve ja kevade erkpunased kausjad seened, kuid nende karikad on suuremad, 1–6 cm laiad, tavaliselt ei kasva kimpudes, nende serv ei ole hambuline ning jalg on lühike või puudub. Põhja-Ameerika liigil Microstoma floccosum on punane karikas, mida katavad tihedalt pikad valged karvad, ja see moodustab viljakehi suvel.",
+      "notes": "Esmakordselt kirjeldas seda Elias Fries 1851. aastal nimega Peziza protracta ning Bessie Kanouse paigutas selle 1948. aastal perekonda Microstoma; Microstoma hiemale on hilisem sünonüüm. See on mitme Euroopa riigi punases nimistus, Tšehhis, Austrias ja Bulgaarias ohustatuna, ning Soomes on see hinnatud soodsas seisundis olevaks. 2020. aastal oli see Ungaris aasta seen.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Lehterkarikseen",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "lehterkarikseen"
+    },
+    "fa": {
+      "description": "قارچ فنجانی کوچک و سرخ آتشین از سرده Microstoma، با اندام‌های بارده جامی‌شکل که با لبه‌ای کم‌رنگ، ستاره‌وار شکافته و دندانه‌دار باز می‌شوند و روی پایه‌های بلند، باریک و سفیدفام قرار دارند که از چوب مدفون در خاک می‌رویند. در اواخر زمستان و اوایل بهار در جنگل‌های مرطوب پهن‌برگ و آمیخته به‌صورت دسته‌ای یا در گروه‌های کوچک بار می‌دهد و در چند کشور اروپایی کمیاب و حفاظت‌شده است.",
+      "cap": "قطر جام ۰٫۵–۲٫۵ سانتی‌متر است. اندام‌های بارده جوان گوی‌هایی تقریباً بسته با منفذی بسیار ریز در نوک‌اند؛ به‌تدریج گشاد می‌شوند، ستاره‌وار می‌شکافند و جامی تا فنجانی‌شکل و سرانجام تقریباً تخت می‌شوند، با لبه‌ای نامنظم و دندانه‌دار که آن‌ها را شبیه گل‌های کوچک می‌کند. سطح بیرونی روشن‌تر از درون، قرمز نارنجی تا صورتی‌فام و پوشیده از کرک‌های ظریف سفیدفام است که بیشتر در لبه باقی می‌مانند.",
+      "hymenium": "لایه بارور درون جام را می‌پوشاند؛ صاف، گاهی اندکی چروکیده و سرخ آتشین تا قرمز شنگرفی است.",
+      "stipe": "بلند و باریک، به طول ۱–۴ سانتی‌متر و ضخامت ۰٫۲–۰٫۵ سانتی‌متر، استوانه‌ای و بیشتر آن در خاک فرورفته است. بخش نمایان سفیدفام تا مایل به قرمز و با کرک‌های ظریف است؛ بخش مدفون قهوه‌ای تا سیاه است و از یک اسکلروت سیاه غده‌مانند که به چوب مدفون چسبیده می‌روید.",
+      "flesh": "نازک، نسبتاً سفت و کشسان، به‌ویژه در پایه، لاستیکی تا اندکی ژلاتینی. بوی آن نامشخص است.",
+      "sporePrint": "سفید. هاگ‌ها صاف، باریک‌بیضوی تا دوکی با دو سر گرد، حدود ۲۵–۴۵ × ۱۰–۱۷ میکرومتر، با یک قطره روغن بزرگ و چند قطره کوچک‌ترند؛ هر آسک هشت هاگ دارد.",
+      "habitat": "گندرویی که شاخه‌های کوچک، شاخه‌ها و ریشه‌های مرده درختان پهن‌برگ مدفون در خاک یا پوشیده از خاک را تجزیه می‌کند، در جنگل‌های مرطوب پهن‌برگ و آمیخته، به‌ویژه جنگل‌های دشت سیلابی روی خاک‌های لومی. از اواخر زمستان تا بهار بار می‌دهد، بیشتر از فوریه تا مه، و در شمال دور تا ژوئن. از اروپا، آمریکای شمالی و ژاپن شناخته شده و تقریباً همه‌جا کمیاب است.",
+      "uses": "خوراکی به شمار نمی‌آید و برای خوردن جمع‌آوری نمی‌شود؛ در واقع خوراکی بودن آن هرگز آزموده نشده، احتمالاً به سبب کمیابی‌اش. در اسلواکی به حکم قانون و در لهستان به‌طور سخت‌گیرانه حفاظت می‌شود، پس باید آن را در جای خود رها کرد.",
+      "confusion": "Sarcoscypha austriaca و Sarcoscypha coccinea نیز قارچ‌های فنجانی سرخ اواخر زمستان و بهارند، اما جام‌هایشان بزرگ‌تر، به قطر ۱–۶ سانتی‌متر، معمولاً غیردسته‌ای، بدون لبه دندانه‌دار و با پایه‌ای کوتاه یا بی‌پایه است. Microstoma floccosum در آمریکای شمالی جامی قرمز دارد که به‌طور انبوه با کرک‌های بلند سفید پوشیده است و در تابستان بار می‌دهد.",
+      "notes": "الیاس فریس نخستین بار در سال ۱۸۵۱ آن را با نام Peziza protracta توصیف کرد و بسی کانوز در سال ۱۹۴۸ آن را به سرده Microstoma منتقل کرد؛ Microstoma hiemale مترادفی متأخر است. در فهرست‌های سرخ چند کشور اروپایی آمده است: در چک، اتریش و بلغارستان در وضعیت در خطر انقراض، و در فنلاند با کمترین نگرانی ارزیابی شده است. در سال ۲۰۲۰ قارچ سال مجارستان بود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni, kirkkaan helakanpunainen kotelosieni Microstoma-suvusta. Sen maljamaiset itiöemät avautuvat vaalealla, tähtimäisesti repeilevällä, hammaslaitaisella reunalla ja istuvat pitkien, hoikkien, vaaleiden jalkojen päässä, jotka kasvavat maahan hautautuneesta puusta. Se muodostaa itiöemiä kimpuissa tai pieninä ryhminä myöhään talvella ja varhain keväällä kosteissa lehti- ja sekametsissä, ja se on harvinainen ja suojeltu useissa Euroopan maissa.",
+      "cap": "Malja 0,5–2,5 cm leveä. Nuoret itiöemät ovat lähes umpinaisia palloja, joiden huipussa on pieni aukko; ne laajenevat vähitellen, repeävät tähtimäisesti ja muuttuvat malja- tai kuppimaisiksi, lopulta lähes litteiksi, ja niiden reuna on epäsäännöllisesti hammastunut, joten ne muistuttavat pieniä kukkia. Ulkopinta on sisäpintaa vaaleampi, oranssinpunainen tai vaaleanpunertava, ja sitä peittävät hienot vaaleat karvat, jotka säilyvät etenkin reunalla.",
+      "hymenium": "Itiökerros verhoaa maljan sisäpinnan; se on sileä, joskus hieman ryppyinen, kirkkaan helakanpunainen tai sinooberinpunainen.",
+      "stipe": "Pitkä ja hoikka, 1–4 cm pitkä ja 0,2–0,5 cm paksu, lieriömäinen ja suurimmaksi osaksi maan sisässä. Näkyvä osa on vaalea tai punertava ja hienosti karvainen; maanalainen osa on ruskea tai musta ja kasvaa mustasta, mukulamaisesta sklerootiosta, joka on kiinni hautautuneessa puussa.",
+      "flesh": "Ohut, melko sitkeä ja kimmoisa, etenkin jalassa, kumimainen tai hieman hyytelömäinen. Haju on mitäänsanomaton.",
+      "sporePrint": "Valkoinen. Itiöt ovat sileitä, kapean soikeita tai sukkulamaisia, päistään pyöristyneitä, noin 25–45 × 10–17 µm, ja niissä on yksi suuri ja useita pienempiä öljypisaroita; kussakin kotelossa on kahdeksan itiötä.",
+      "habitat": "Lahottaja, joka hajottaa maahan hautautuneita tai mullan peittämiä lehtipuiden kuolleita oksia, varpuja ja juuria kosteissa lehti- ja sekametsissä, erityisesti tulvametsissä savimailla. Se muodostaa itiöemiä myöhäistalvesta kevääseen, pääasiassa helmikuusta toukokuuhun, ja kaukana pohjoisessa kesäkuuhun asti. Sitä tunnetaan Euroopasta, Pohjois-Amerikasta ja Japanista, ja se on lähes kaikkialla harvinainen.",
+      "uses": "Sitä pidetään syötäväksi kelpaamattomana, eikä sitä kerätä ruoaksi; sen syötävyyttä ei ole oikeastaan koskaan selvitetty, luultavasti harvinaisuuden vuoksi. Slovakiassa se on lailla suojeltu ja Puolassa tiukasti suojeltu, joten se kannattaa jättää kasvupaikalleen.",
+      "confusion": "Sarcoscypha austriaca ja Sarcoscypha coccinea ovat myös myöhäistalven ja kevään helakanpunaisia maljasieniä, mutta niiden maljat ovat suurempia, 1–6 cm leveitä, yleensä eivät kasva kimpuissa, niiden reuna ei ole hammastunut ja jalka on lyhyt tai puuttuu. Pohjoisamerikkalaisella Microstoma floccosum -lajilla on punainen malja, jota peittävät tiheät pitkät valkoiset karvat, ja se muodostaa itiöemiä kesällä.",
+      "notes": "Elias Fries kuvasi sen ensimmäisen kerran vuonna 1851 nimellä Peziza protracta, ja Bessie Kanouse siirsi sen Microstoma-sukuun vuonna 1948; Microstoma hiemale on myöhempi synonyymi. Se on useiden Euroopan maiden punaisilla listoilla, Tšekissä, Itävallassa ja Bulgariassa erittäin uhanalaisena, ja Suomessa se on arvioitu elinvoimaiseksi. Vuonna 2020 se oli Unkarin vuoden sieni.",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.237078"
+      ],
+      "label": "kukkamaljakas"
+    },
+    "fr": {
+      "description": "Petit champignon en coupe d'un rouge écarlate vif, du genre Microstoma, aux fructifications en forme de calice qui s'ouvrent par une marge pâle, fendue en étoile et dentée, et reposent sur de longs pieds grêles et blanchâtres issus de bois enfoui dans le sol. Il fructifie en touffes ou en petits groupes à la fin de l'hiver et au début du printemps dans les forêts humides de feuillus et mixtes, et il est rare et protégé dans plusieurs pays européens.",
+      "cap": "Coupe de 0,5–2,5 cm de diamètre. Les jeunes fructifications sont des sphères presque fermées, percées d'une minuscule ouverture au sommet ; elles s'élargissent peu à peu, se fendent en étoile et prennent une forme de calice puis de coupe, enfin presque plate, avec une marge irrégulièrement dentée qui leur donne l'aspect de petites fleurs. La face externe est plus pâle que l'intérieur, rouge orangé à rosâtre, et couverte de fins poils blanchâtres qui persistent surtout à la marge.",
+      "hymenium": "La couche fertile tapisse l'intérieur de la coupe ; elle est lisse, parfois légèrement ridée, d'un rouge écarlate vif à vermillon.",
+      "stipe": "Long et grêle, de 1–4 cm de long et 0,2–0,5 cm d'épaisseur, cylindrique et en grande partie enfoncé dans le sol. La partie visible est blanchâtre à rougeâtre et finement poilue ; la partie enterrée est brune à noire et naît d'un sclérote noir en forme de tubercule, fixé au bois enfoui.",
+      "flesh": "Mince, assez coriace et élastique, surtout dans le pied, caoutchouteuse à un peu gélatineuse. L'odeur est insignifiante.",
+      "sporePrint": "Blanche. Les spores sont lisses, étroitement elliptiques à fusiformes avec des extrémités arrondies, d'environ 25–45 × 10–17 µm, avec une grosse et plusieurs petites gouttes lipidiques ; chaque asque contient huit spores.",
+      "habitat": "Saprotrophe qui décompose les brindilles, branches et racines mortes de feuillus enfouies dans le sol ou recouvertes de terre, dans les forêts humides de feuillus et mixtes, surtout les forêts alluviales sur sols limoneux. Il fructifie de la fin de l'hiver au printemps, principalement de février à mai, et jusqu'en juin dans l'extrême nord. Il est connu d'Europe, d'Amérique du Nord et du Japon et il est rare presque partout.",
+      "uses": "Considéré comme non comestible et non récolté pour la table ; sa comestibilité n'a en réalité jamais été établie, sans doute en raison de sa rareté. Il est protégé par la loi en Slovaquie et strictement protégé en Pologne ; il faut donc le laisser sur place.",
+      "confusion": "Sarcoscypha austriaca et Sarcoscypha coccinea sont aussi des champignons en coupe écarlates de la fin de l'hiver et du printemps, mais leurs coupes sont plus grandes, de 1–6 cm de diamètre, généralement non groupées en touffes, sans marge dentée et avec un pied court ou absent. Le nord-américain Microstoma floccosum a un calice rouge densément couvert de longs poils blancs et fructifie en été.",
+      "notes": "Décrit pour la première fois par Elias Fries en 1851 sous le nom de Peziza protracta et transféré dans le genre Microstoma par Bessie Kanouse en 1948 ; Microstoma hiemale est un synonyme postérieur. Il figure sur les listes rouges de plusieurs pays européens, comme en danger en Tchéquie, en Autriche et en Bulgarie, et il est évalué comme de préoccupation mineure en Finlande. Il a été le champignon de l'année en Hongrie en 2020.",
+      "names": [],
+      "sourceUrls": [
+        "https://raymondboyer.mycoquebec.org/Asco_Pezize_vive.htm",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "pézize alpine"
+    },
+    "he": {
+      "description": "פטרייה גביעית קטנה בצבע ארגמן עז מהסוג Microstoma, שגופי הפרי שלה דמויי גביע נפתחים בשוליים חיוורים, סדוקים בצורת כוכב ומשוננים, ויושבים על גבעולים ארוכים, דקים ולבנבנים הצומחים מעץ קבור באדמה. היא מניבה באשכולות או בקבוצות קטנות בסוף החורף ובתחילת האביב ביערות לחים של עצים רחבי עלים וביערות מעורבים, והיא נדירה ומוגנת בכמה ארצות באירופה.",
+      "cap": "קוטר הגביע 0.5–2.5 ס״מ. גופי פרי צעירים הם כדורים כמעט סגורים עם פתח זעיר בקודקוד; בהדרגה הם מתרחבים, נסדקים בצורת כוכב ונעשים דמויי גביע עד ספל, ולבסוף כמעט שטוחים, עם שוליים משוננים באופן לא סדיר שגורמים להם להיראות כפרחים קטנים. המשטח החיצוני בהיר מהפנים, אדום־כתום עד ורדרד, ומכוסה שערות לבנבנות עדינות שנשארות בעיקר בשוליים.",
+      "hymenium": "השכבה הפורייה מצפה את פנים הגביע; היא חלקה, לעיתים מקומטת מעט, בצבע ארגמן עז עד אדום צינבר.",
+      "stipe": "ארוך ודק, באורך 1–4 ס״מ ובעובי 0.2–0.5 ס״מ, גלילי ושקוע ברובו באדמה. החלק הנראה לבנבן עד אדמדם ושעיר דק; החלק הקבור חום עד שחור ויוצא מסקלרוטיום שחור דמוי פקעת הצמוד לעץ הקבור.",
+      "flesh": "דקה, קשיחה ואלסטית למדי, במיוחד בגבעול, גומית עד מעט ג׳לטינית. הריח אינו מובחן.",
+      "sporePrint": "לבן. הנבגים חלקים, אליפטיים צרים עד כישוריים עם קצוות מעוגלים, כ־25–45 × 10–17 מיקרומטר, עם טיפת שמן גדולה אחת וכמה קטנות יותר; כל נאד מכיל שמונה נבגים.",
+      "habitat": "פטרייה רקבונית המפרקת זרדים, ענפים ושורשים מתים של עצים רחבי עלים הקבורים באדמה או מכוסים בה, ביערות לחים של עצים רחבי עלים וביערות מעורבים, ובעיקר ביערות של מישורי הצפה על קרקעות טיניות. היא מניבה מסוף החורף ועד האביב, בעיקר מפברואר עד מאי, ובצפון הרחוק עד יוני. היא ידועה מאירופה, מצפון אמריקה ומיפן, ונדירה כמעט בכל מקום.",
+      "uses": "נחשבת לא ראויה למאכל ואינה נאספת למאכל; למעשה מעולם לא נבדק אם היא אכילה, כנראה בשל נדירותה. היא מוגנת בחוק בסלובקיה ומוגנת בקפדנות בפולין, ולכן יש להשאיר אותה במקומה.",
+      "confusion": "Sarcoscypha austriaca ו־Sarcoscypha coccinea הן גם פטריות גביעיות ארגמניות של סוף החורף והאביב, אך הגביעים שלהן גדולים יותר, בקוטר 1–6 ס״מ, בדרך כלל אינם צומחים באשכולות, חסרים שוליים משוננים ובעלי גבעול קצר או ללא גבעול. ל־Microstoma floccosum הצפון־אמריקנית גביע אדום המכוסה בצפיפות בשערות לבנות ארוכות, והיא מניבה בקיץ.",
+      "notes": "תוארה לראשונה בידי אליאס פריס בשנת 1851 בשם Peziza protracta והועברה לסוג Microstoma בידי בסי קנוז בשנת 1948; Microstoma hiemale הוא שם נרדף מאוחר יותר. היא מופיעה ברשימות האדומות של כמה ארצות באירופה, כנמצאת בסכנת הכחדה בצ׳כיה, באוסטריה ובבולגריה, ובפינלנד היא מוערכת כבעלת סיכון מזערי. בשנת 2020 הייתה פטריית השנה של הונגריה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Microstoma वंश का एक छोटा, चटक लाल प्याले जैसा कवक, जिसके प्याले के आकार के फलनकाय हल्के रंग के, तारे की तरह फटे और दाँतेदार किनारे के साथ खुलते हैं और लंबे, पतले, सफ़ेद-से डंठलों पर टिके रहते हैं जो मिट्टी में दबी लकड़ी से निकलते हैं। यह देर सर्दियों और शुरुआती वसंत में नम चौड़ी पत्ती वाले और मिश्रित वनों में गुच्छों या छोटे समूहों में फलता है, और कई यूरोपीय देशों में दुर्लभ और संरक्षित है।",
+      "cap": "प्याला 0.5–2.5 सेमी चौड़ा होता है। युवा फलनकाय लगभग बंद गोले होते हैं जिनके शीर्ष पर एक बहुत छोटा छिद्र होता है; धीरे-धीरे वे चौड़े होते हैं, तारे की तरह फटते हैं और प्याले से कटोरे जैसे, अंत में लगभग चपटे हो जाते हैं, जिनका किनारा अनियमित रूप से दाँतेदार होता है, इसलिए वे छोटे फूलों जैसे दिखते हैं। बाहरी सतह भीतरी भाग से हल्की, नारंगी-लाल से गुलाबी और महीन सफ़ेद-से रोमों से ढकी होती है, जो मुख्यतः किनारे पर बने रहते हैं।",
+      "hymenium": "उर्वर परत प्याले के भीतरी भाग को ढकती है; यह चिकनी, कभी-कभी हल्की झुर्रीदार, और चटक लाल से सिंदूरी लाल होती है।",
+      "stipe": "लंबा और पतला, 1–4 सेमी लंबा और 0.2–0.5 सेमी मोटा, बेलनाकार और अधिकांशतः मिट्टी में धँसा हुआ। दिखाई देने वाला भाग सफ़ेद-सा से लालिमा लिए और महीन रोमिल होता है; दबा हुआ भाग भूरा से काला होता है और दबी लकड़ी से जुड़े एक काले, कंद जैसे स्क्लेरोशियम से निकलता है।",
+      "flesh": "पतला, काफ़ी सख़्त और लचीला, विशेषकर डंठल में, रबर जैसा से कुछ जिलेटिनी। गंध अस्पष्ट होती है।",
+      "sporePrint": "सफ़ेद। बीजाणु चिकने, संकरे दीर्घवृत्ताकार से तर्कुरूप, गोल सिरों वाले, लगभग 25–45 × 10–17 माइक्रोमीटर, एक बड़ी और कई छोटी तेल की बूँदों वाले होते हैं; हर ऐस्कस में आठ बीजाणु होते हैं।",
+      "habitat": "एक मृतजीवी जो मिट्टी में दबी या मिट्टी से ढकी चौड़ी पत्ती वाले पेड़ों की मृत टहनियों, शाखाओं और जड़ों का अपघटन करता है, नम चौड़ी पत्ती वाले और मिश्रित वनों में, विशेषकर दोमट मिट्टी वाले बाढ़-मैदानी वनों में। यह देर सर्दियों से वसंत तक, मुख्यतः फ़रवरी से मई तक, और सुदूर उत्तर में जून तक फलता है। यह यूरोप, उत्तरी अमेरिका और जापान से ज्ञात है और लगभग हर जगह दुर्लभ है।",
+      "uses": "इसे अखाद्य माना जाता है और भोजन के लिए एकत्र नहीं किया जाता; वास्तव में इसकी खाद्यता कभी जाँची नहीं गई, शायद इसकी दुर्लभता के कारण। स्लोवाकिया में यह क़ानून द्वारा संरक्षित है और पोलैंड में कड़ाई से संरक्षित है, इसलिए इसे वहीं छोड़ देना चाहिए जहाँ यह उगता है।",
+      "confusion": "Sarcoscypha austriaca और Sarcoscypha coccinea भी देर सर्दियों और वसंत के लाल प्याले जैसे कवक हैं, पर उनके प्याले बड़े, 1–6 सेमी चौड़े, आमतौर पर गुच्छों में नहीं, बिना दाँतेदार किनारे के और छोटे डंठल वाले या बिना डंठल के होते हैं। उत्तरी अमेरिका के Microstoma floccosum का लाल प्याला लंबे सफ़ेद रोमों से घना ढका होता है और यह गर्मियों में फलता है।",
+      "notes": "इसका पहला वर्णन एलियास फ़्रीस ने 1851 में Peziza protracta नाम से किया और 1948 में बेसी कैनूज़ ने इसे Microstoma वंश में स्थानांतरित किया; Microstoma hiemale एक बाद का पर्यायवाची है। यह कई यूरोपीय देशों की रेड लिस्ट में शामिल है, चेक गणराज्य, ऑस्ट्रिया और बुल्गारिया में संकटग्रस्त के रूप में, और फ़िनलैंड में इसे न्यूनतम चिंता वाला आँका गया है। 2020 में यह हंगरी का वर्ष का कवक था।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala, jarko grimizna gljiva čašica iz roda Microstoma s plodištima u obliku pehara koja se otvaraju svijetlim, zvjezdasto rasprsnutim, nazubljenim rubom i sjede na dugim, vitkim, bjelkastim stručcima koji izrastaju iz drva zakopanog u tlu. Plodišta stvara u busenima ili malim skupinama krajem zime i rano u proljeće u vlažnim listopadnim i mješovitim šumama, a u nekoliko europskih zemalja rijetka je i zaštićena.",
+      "cap": "Čašica široka 0,5–2,5 cm. Mlada plodišta gotovo su zatvorene kuglice sa sićušnim otvorom na vrhu; postupno se šire, zvjezdasto pucaju i postaju peharasta do zdjeličasta, na kraju gotovo ravna, s nepravilno nazubljenim rubom zbog kojeg nalikuju malim cvjetovima. Vanjska površina svjetlija je od unutrašnjosti, narančastocrvena do ružičasta i prekrivena finim bjelkastim dlačicama koje se zadržavaju uglavnom na rubu.",
+      "hymenium": "Plodni sloj oblaže unutrašnjost čašice; gladak je, ponekad blago naboran, jarko grimizan do cinober-crven.",
+      "stipe": "Dug i vitak, 1–4 cm dug i 0,2–0,5 cm debeo, valjkast i većim dijelom uronjen u tlo. Vidljivi dio je bjelkast do crvenkast i fino dlakav; zakopani dio je smeđ do crn i izrasta iz crnog sklerocija nalik gomolju, pričvršćenog za zakopano drvo.",
+      "flesh": "Tanko, prilično žilavo i elastično, osobito u stručku, gumasto do pomalo želatinozno. Miris je neizražen.",
+      "sporePrint": "Bijeli. Spore su glatke, usko eliptične do vretenaste sa zaobljenim krajevima, oko 25–45 × 10–17 µm, s jednom velikom i nekoliko manjih uljnih kapljica; svaki askus sadrži osam spora.",
+      "habitat": "Saprotrof koji razgrađuje mrtve grančice, grane i korijenje listopadnog drveća zakopane u tlu ili prekrivene zemljom, u vlažnim listopadnim i mješovitim šumama, osobito poplavnim šumama na ilovastim tlima. Plodišta stvara od kraja zime do proljeća, uglavnom od veljače do svibnja, a na dalekom sjeveru sve do lipnja. Poznata je iz Europe, Sjeverne Amerike i Japana i gotovo je posvuda rijetka.",
+      "uses": "Smatra se nejestivom i ne skuplja se za jelo; njezina jestivost zapravo nikada nije provjerena, vjerojatno zbog rijetkosti. U Slovačkoj je zakonom zaštićena, a u Poljskoj strogo zaštićena, pa je treba ostaviti tamo gdje raste.",
+      "confusion": "Sarcoscypha austriaca i Sarcoscypha coccinea također su grimizne gljive čašice kasne zime i proljeća, ali su im čašice veće, 1–6 cm široke, obično ne rastu u busenima, nemaju nazubljen rub i imaju samo kratak stručak ili ga nemaju. Sjevernoamerička Microstoma floccosum ima crveni pehar gusto prekriven dugim bijelim dlakama i plodišta stvara ljeti.",
+      "notes": "Prvi ju je opisao Elias Fries 1851. kao Peziza protracta, a u rod Microstoma premjestila ju je Bessie Kanouse 1948.; Microstoma hiemale kasniji je sinonim. Nalazi se na crvenim popisima nekoliko europskih zemalja, u Češkoj, Austriji i Bugarskoj kao ugrožena, a u Finskoj je procijenjena kao najmanje zabrinjavajuća. Godine 2020. bila je mađarska gljiva godine.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kis, élénk skarlátvörös csészegomba a Microstoma nemzetségből, kehely alakú termőtestekkel, amelyek világos, csillagosan felrepedő, fogazott szegéllyel nyílnak, és hosszú, karcsú, fehéres tönkön ülnek, amely a talajba temetett fából nő ki. Csomókban vagy kis csoportokban terem késő télen és kora tavasszal nedves lombos és elegyes erdőkben, és több európai országban ritka és védett.",
+      "cap": "A csésze 0,5–2,5 cm széles. A fiatal termőtestek csaknem zárt gömbök, csúcsukon apró nyílással; fokozatosan tágulnak, csillag alakban felrepednek, és kehely- vagy csésze alakúvá, végül csaknem lapossá válnak, szabálytalanul fogazott szegéllyel, így kis virágokra emlékeztetnek. A külső felület halványabb a belsőnél, narancsvörös vagy rózsaszínes, és finom fehéres szőrök borítják, amelyek főleg a szegélyen maradnak meg.",
+      "hymenium": "A termőréteg a csésze belsejét béleli; sima, néha enyhén ráncos, élénk skarlát- vagy cinóbervörös.",
+      "stipe": "Hosszú és karcsú, 1–4 cm hosszú és 0,2–0,5 cm vastag, hengeres, nagyrészt a talajba süllyed. A látható rész fehéres vagy vöröses és finoman szőrös; a földben lévő rész barna vagy fekete, és egy fekete, gumószerű szkleróciumból nő ki, amely a betemetett fához tapad.",
+      "flesh": "Vékony, meglehetősen szívós és rugalmas, főleg a tönkben, gumiszerű vagy kissé kocsonyás. Szaga jellegtelen.",
+      "sporePrint": "Fehér. A spórák simák, keskenyen elliptikusak vagy orsó alakúak, lekerekített végekkel, körülbelül 25–45 × 10–17 µm-esek, egy nagy és néhány kisebb olajcseppel; minden aszkusz nyolc spórát tartalmaz.",
+      "habitat": "Korhadékbontó gomba, amely a talajban fekvő vagy földdel fedett elhalt lombos gallyakat, ágakat és gyökereket bontja, nedves lombos és elegyes erdőkben, különösen ártéri erdőkben, vályogos talajon. Késő téltől tavaszig terem, főleg februártól májusig, a távoli északon júniusig. Európából, Észak-Amerikából és Japánból ismert, és szinte mindenhol ritka.",
+      "uses": "Nem ehetőnek tartják, és nem gyűjtik étkezésre; ehetőségét valójában sosem vizsgálták, valószínűleg ritkasága miatt. Szlovákiában törvény védi, Lengyelországban pedig fokozottan védett, ezért hagyjuk a termőhelyén.",
+      "confusion": "A Sarcoscypha austriaca és a Sarcoscypha coccinea szintén skarlátvörös csészegombák késő télen és tavasszal, de csészéjük nagyobb, 1–6 cm széles, általában nem csomós, szegélyük nem fogazott, és tönkjük rövid vagy hiányzik. Az észak-amerikai Microstoma floccosum vörös kelyhét sűrűn borítják hosszú fehér szőrök, és nyáron terem.",
+      "notes": "Elias Fries írta le először 1851-ben Peziza protracta néven, és Bessie Kanouse helyezte át a Microstoma nemzetségbe 1948-ban; a Microstoma hiemale későbbi szinonimája. Több európai ország vörös listáján szerepel, Csehországban, Ausztriában és Bulgáriában veszélyeztetettként, Finnországban pedig nem veszélyeztetettnek értékelik. Magyarországon 2020-ban az év gombája volt.",
+      "names": [],
+      "sourceUrls": [
+        "https://evfajai.nhmus.hu/hu/ev-fajai-2020/csoportos-cseszegomba",
+        "https://hu.wikipedia.org/wiki/Csoportos_cs%C3%A9szegomba"
+      ],
+      "label": "csoportos csészegomba"
+    },
+    "id": {
+      "description": "Jamur mangkuk kecil berwarna merah tua cerah dari genus Microstoma, dengan tubuh buah berbentuk piala yang membuka dengan tepi pucat, terbelah seperti bintang dan bergerigi, serta duduk di atas tangkai panjang, ramping, dan keputihan yang tumbuh dari kayu yang terkubur di tanah. Jamur ini berbuah dalam rumpun atau kelompok kecil pada akhir musim dingin dan awal musim semi di hutan gugur daun dan hutan campuran yang lembap, serta langka dan dilindungi di beberapa negara Eropa.",
+      "cap": "Mangkuk berdiameter 0,5–2,5 cm. Tubuh buah muda berupa bola yang hampir tertutup dengan lubang sangat kecil di puncaknya; lambat laun melebar, terbelah seperti bintang, dan menjadi berbentuk piala hingga mangkuk, akhirnya hampir datar, dengan tepi bergerigi tidak teratur sehingga tampak seperti bunga kecil. Permukaan luar lebih pucat daripada bagian dalam, merah jingga hingga kemerahmudaan, dan tertutup rambut halus keputihan yang terutama bertahan di tepinya.",
+      "hymenium": "Lapisan subur melapisi bagian dalam mangkuk; halus, kadang sedikit berkerut, merah tua cerah hingga merah sinabar.",
+      "stipe": "Panjang dan ramping, 1–4 cm panjangnya dan 0,2–0,5 cm tebalnya, silindris dan sebagian besar terbenam di tanah. Bagian yang terlihat keputihan hingga kemerahan dan berambut halus; bagian yang terkubur cokelat hingga hitam dan tumbuh dari sklerotium hitam berbentuk umbi yang melekat pada kayu yang terkubur.",
+      "flesh": "Tipis, cukup liat dan elastis, terutama di tangkai, seperti karet hingga agak bergelatin. Baunya tidak khas.",
+      "sporePrint": "Putih. Spora halus, sempit elips hingga berbentuk gelendong dengan ujung membulat, sekitar 25–45 × 10–17 µm, dengan satu tetes minyak besar dan beberapa yang lebih kecil; setiap askus berisi delapan spora.",
+      "habitat": "Saprotrof yang menguraikan ranting, cabang, dan akar mati pohon berdaun lebar yang terkubur di tanah atau tertutup tanah, di hutan gugur daun dan hutan campuran yang lembap, terutama hutan dataran banjir di tanah lempung. Jamur ini berbuah dari akhir musim dingin hingga musim semi, terutama dari Februari hingga Mei, dan di wilayah paling utara hingga Juni. Jamur ini dikenal dari Eropa, Amerika Utara, dan Jepang serta langka hampir di mana-mana.",
+      "uses": "Dianggap tidak dapat dimakan dan tidak dikumpulkan sebagai makanan; sebenarnya kelayakannya untuk dimakan belum pernah diuji, mungkin karena kelangkaannya. Jamur ini dilindungi undang-undang di Slowakia dan dilindungi secara ketat di Polandia, jadi sebaiknya dibiarkan di tempat tumbuhnya.",
+      "confusion": "Sarcoscypha austriaca dan Sarcoscypha coccinea juga merupakan jamur mangkuk merah tua dari akhir musim dingin dan musim semi, tetapi mangkuknya lebih besar, berdiameter 1–6 cm, biasanya tidak tumbuh berumpun, tepinya tidak bergerigi, dan tangkainya pendek atau tidak ada. Microstoma floccosum dari Amerika Utara memiliki piala merah yang tertutup rapat oleh rambut putih panjang dan berbuah pada musim panas.",
+      "notes": "Pertama kali dideskripsikan oleh Elias Fries pada tahun 1851 sebagai Peziza protracta dan dipindahkan ke genus Microstoma oleh Bessie Kanouse pada tahun 1948; Microstoma hiemale adalah sinonim yang lebih kemudian. Jamur ini tercantum dalam daftar merah beberapa negara Eropa, sebagai genting di Ceko, Austria, dan Bulgaria, dan dinilai berisiko rendah di Finlandia. Pada tahun 2020 jamur ini menjadi jamur tahun ini di Hongaria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Piccolo fungo a coppa di colore scarlatto vivo, del genere Microstoma, con corpi fruttiferi a forma di calice che si aprono con un margine chiaro, lacerato a stella e dentato, e poggiano su gambi lunghi, sottili e biancastri che nascono da legno sepolto nel terreno. Fruttifica in cespi o in piccoli gruppi a fine inverno e all'inizio della primavera in boschi umidi di latifoglie e misti, ed è raro e protetto in diversi paesi europei.",
+      "cap": "Coppa di 0,5–2,5 cm di diametro. I corpi fruttiferi giovani sono sfere quasi chiuse con una minuscola apertura all'apice; a poco a poco si allargano, si lacerano a stella e diventano a forma di calice o di coppa, infine quasi piatti, con un margine irregolarmente dentato che li fa somigliare a piccoli fiori. La superficie esterna è più chiara dell'interno, da rosso aranciato a rosata, e coperta di fini peli biancastri che persistono soprattutto al margine.",
+      "hymenium": "Lo strato fertile riveste l'interno della coppa; è liscio, talvolta leggermente rugoso, da scarlatto vivo a rosso cinabro.",
+      "stipe": "Lungo e sottile, 1–4 cm di lunghezza e 0,2–0,5 cm di spessore, cilindrico e in gran parte infossato nel terreno. La parte visibile è da biancastra a rossastra e finemente pelosa; la parte sepolta è da bruna a nera e nasce da uno sclerozio nero a forma di tubero, attaccato al legno sepolto.",
+      "flesh": "Sottile, piuttosto tenace ed elastica, soprattutto nel gambo, da gommosa a un po' gelatinosa. L'odore è indistinto.",
+      "sporePrint": "Bianca. Le spore sono lisce, da strettamente ellittiche a fusiformi con le estremità arrotondate, di circa 25–45 × 10–17 µm, con una grossa goccia lipidica e diverse più piccole; ogni asco contiene otto spore.",
+      "habitat": "Saprotrofo che decompone rametti, rami e radici morti di latifoglie sepolti nel terreno o coperti di terra, in boschi umidi di latifoglie e misti, soprattutto boschi ripariali su suoli limosi. Fruttifica dalla fine dell'inverno alla primavera, soprattutto da febbraio a maggio, e nell'estremo nord fino a giugno. È noto in Europa, Nord America e Giappone ed è raro quasi ovunque.",
+      "uses": "È considerato non commestibile e non viene raccolto a scopo alimentare; in realtà la sua commestibilità non è mai stata accertata, probabilmente per la sua rarità. È protetto per legge in Slovacchia e rigorosamente protetto in Polonia, quindi va lasciato dove cresce.",
+      "confusion": "Sarcoscypha austriaca e Sarcoscypha coccinea sono anch'essi funghi a coppa scarlatti di fine inverno e primavera, ma le loro coppe sono più grandi, di 1–6 cm di diametro, di solito non cespitose, senza margine dentato e con un gambo corto o assente. Il nordamericano Microstoma floccosum ha un calice rosso densamente coperto di lunghi peli bianchi e fruttifica in estate.",
+      "notes": "Descritto per la prima volta da Elias Fries nel 1851 come Peziza protracta e trasferito nel genere Microstoma da Bessie Kanouse nel 1948; Microstoma hiemale è un sinonimo successivo. Compare nelle liste rosse di diversi paesi europei, come in pericolo in Cechia, Austria e Bulgaria, ed è valutato a rischio minimo in Finlandia. Nel 2020 è stato il fungo dell'anno in Ungheria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Microstoma属の小型で鮮やかな緋色の盤菌類。子実体は杯形で、淡色の星形に裂けた鋸歯状の縁をもって開き、土中に埋もれた材から伸びる長く細い白っぽい柄の上にのる。晩冬から早春にかけて、湿った落葉広葉樹林や混交林で束生または小群生し、ヨーロッパの数か国では稀で保護されている。",
+      "cap": "子嚢盤は径0.5–2.5 cm。若い子実体は頂部に小さな孔のあるほぼ閉じた球形で、しだいに広がって星形に裂け、杯形から椀形、最後にはほぼ平らになり、不規則な鋸歯状の縁のため小さな花のように見える。外面は内面より淡く、橙赤色から淡紅色で、細かい白っぽい毛に覆われ、毛は主に縁に残る。",
+      "hymenium": "子実層は子嚢盤の内面を覆い、平滑で時にわずかにしわがあり、鮮やかな緋色から朱赤色。",
+      "stipe": "長く細く、長さ1–4 cm、太さ0.2–0.5 cm、円柱形で大部分が土中に埋まる。地上部は白っぽいから赤みを帯び、細毛がある。地中部は褐色から黒色で、埋もれた材に付着する黒い塊茎状の菌核から生じる。",
+      "flesh": "薄く、かなり強靭で弾力があり、特に柄ではゴム状からやや膠質。においは特にない。",
+      "sporePrint": "白色。胞子は平滑で、狭楕円形から紡錘形、両端は丸く、約25–45 × 10–17 µm、大きな油滴一個と数個の小さな油滴を含む。子嚢一個に胞子は八個。",
+      "habitat": "土中に埋もれた、あるいは土に覆われた広葉樹の枯れた小枝、枝、根を分解する腐生菌で、湿った落葉広葉樹林や混交林、特にローム質土壌の氾濫原の林に生える。晩冬から春にかけて、主に二月から五月に発生し、極北では六月まで見られる。ヨーロッパ、北アメリカ、日本から知られ、ほぼどこでも稀である。",
+      "uses": "食不適とされ、食用に採取されることはない。実際には食毒は確かめられておらず、おそらく稀なためである。スロバキアでは法律で保護され、ポーランドでは厳重に保護されているため、採らずにそのまま残すべきである。",
+      "confusion": "Sarcoscypha austriaca と Sarcoscypha coccinea も晩冬から春に出る緋色の盤菌だが、子嚢盤はより大きく径1–6 cm、ふつう束生せず、縁は鋸歯状にならず、柄は短いか無い。北アメリカの Microstoma floccosum は赤い杯形で、長い白毛が密生し、夏に発生する。",
+      "notes": "1851年にエリアス・フリースが Peziza protracta として初めて記載し、1948年にベッシー・カナウスが Microstoma 属に移した。Microstoma hiemale は後の異名である。ヨーロッパの数か国のレッドリストに掲載され、チェコ、オーストリア、ブルガリアでは絶滅危惧種とされ、フィンランドでは低懸念と評価されている。2020年にはハンガリーで「今年のきのこ」に選ばれた。",
+      "names": [],
+      "sourceUrls": [
+        "https://mycoscouter.coolblog.jp/daikinrin/Pages/Microstoma_protractum_521598.html",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "コベニチャワンタケモドキ"
+    },
+    "ko": {
+      "description": "Microstoma 속의 작고 선명한 주홍색 컵버섯으로, 잔 모양의 자실체는 연한 색의 별 모양으로 갈라진 톱니 모양 가장자리로 벌어지며, 흙 속에 묻힌 나무에서 자라 나온 길고 가늘며 흰빛을 띤 대 위에 달린다. 늦겨울과 이른 봄에 습한 활엽수림과 혼합림에서 다발로 또는 작은 무리로 발생하며, 유럽 여러 나라에서 드물고 보호받는다.",
+      "cap": "자낭반은 지름 0.5–2.5 cm이다. 어린 자실체는 꼭대기에 아주 작은 구멍이 있는 거의 닫힌 공 모양이며, 점차 넓어지면서 별 모양으로 갈라져 잔 모양에서 사발 모양이 되고, 마지막에는 거의 평평해지며, 불규칙한 톱니 모양 가장자리 때문에 작은 꽃처럼 보인다. 바깥 면은 안쪽보다 연하고 주황빛 빨강에서 분홍빛을 띠며, 가는 흰빛 털로 덮여 있고 이 털은 주로 가장자리에 남는다.",
+      "hymenium": "자실층은 자낭반 안쪽을 덮으며, 매끄럽고 때로 약간 주름지며, 선명한 주홍색에서 진사빛 빨강이다.",
+      "stipe": "길고 가늘며, 길이 1–4 cm, 굵기 0.2–0.5 cm이고, 원통형으로 대부분 흙 속에 묻혀 있다. 보이는 부분은 흰빛에서 붉은빛을 띠고 가는 털이 있으며, 묻힌 부분은 갈색에서 검은색으로, 묻힌 나무에 붙은 검은 덩이줄기 모양의 균핵에서 자란다.",
+      "flesh": "얇고 상당히 질기며 탄력이 있고, 특히 대에서 고무질에서 약간 젤라틴질이다. 냄새는 뚜렷하지 않다.",
+      "sporePrint": "흰색. 포자는 매끄럽고 좁은 타원형에서 방추형이며 양 끝이 둥글고, 약 25–45 × 10–17 µm이며, 큰 기름방울 하나와 작은 기름방울 여러 개가 있다. 자낭마다 포자가 여덟 개 들어 있다.",
+      "habitat": "흙 속에 묻히거나 흙으로 덮인 활엽수의 죽은 잔가지, 가지, 뿌리를 분해하는 부생균으로, 습한 활엽수림과 혼합림, 특히 양토의 범람원 숲에서 자란다. 늦겨울부터 봄까지, 주로 이월부터 오월까지 발생하며, 먼 북쪽에서는 유월까지 나타난다. 유럽, 북아메리카, 일본에서 알려져 있으며 거의 모든 곳에서 드물다.",
+      "uses": "식용 불가로 여겨지며 식용으로 채집되지 않는다. 실제로 식용 여부는 한 번도 확인되지 않았는데, 아마도 드물기 때문일 것이다. 슬로바키아에서는 법으로 보호되고 폴란드에서는 엄격히 보호되므로 자라는 자리에 그대로 두어야 한다.",
+      "confusion": "Sarcoscypha austriaca와 Sarcoscypha coccinea도 늦겨울과 봄에 나는 주홍색 컵버섯이지만, 자낭반이 더 크고 지름 1–6 cm이며, 보통 다발로 나지 않고 가장자리가 톱니 모양이 아니며 대가 짧거나 없다. 북아메리카의 Microstoma floccosum은 길고 흰 털이 빽빽한 붉은 잔 모양이며 여름에 발생한다.",
+      "notes": "1851년 엘리아스 프리스가 Peziza protracta로 처음 기재했고, 1948년 베시 카나우스가 Microstoma 속으로 옮겼다. Microstoma hiemale은 나중의 이명이다. 유럽 여러 나라의 적색목록에 올라 있으며 체코, 오스트리아, 불가리아에서는 위기종으로, 핀란드에서는 최소관심종으로 평가된다. 2020년에는 헝가리의 올해의 버섯이었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Nedidelis, ryškiai raudonas taurėtasis grybas iš Microstoma genties. Jo taurės pavidalo vaisiakūniai atsiveria šviesiu, žvaigždiškai įplyšusiu, dantytu kraštu ir laikosi ant ilgų, lieknų, balsvų kotų, išaugančių iš dirvoje užkastos medienos. Vaisiakūnius sudaro kekėmis arba nedidelėmis grupėmis vėlyvą žiemą ir ankstyvą pavasarį drėgnuose lapuočių ir mišriuose miškuose; keliose Europos šalyse jis retas ir saugomas.",
+      "cap": "Taurelė 0,5–2,5 cm skersmens. Jauni vaisiakūniai yra beveik uždari rutuliukai su mažyte anga viršūnėje; jie pamažu platėja, žvaigždiškai įplyšta ir tampa taurės ar dubenėlio pavidalo, galiausiai beveik plokšti, netaisyklingai dantytu kraštu, todėl primena mažus žiedus. Išorinis paviršius šviesesnis už vidinį, oranžiškai raudonas iki rausvo, padengtas smulkiais balsvais plaukeliais, kurie išlieka daugiausia ties kraštu.",
+      "hymenium": "Vaisingasis sluoksnis dengia taurelės vidų; jis lygus, kartais šiek tiek raukšlėtas, ryškiai raudonas iki cinoberinio.",
+      "stipe": "Ilgas ir lieknas, 1–4 cm ilgio ir 0,2–0,5 cm storio, cilindriškas ir didžiąja dalimi įsmigęs į dirvą. Matoma dalis balsva iki rausvos ir smulkiai plaukuota; užkasta dalis ruda iki juodos ir išauga iš juodo, gumbo pavidalo sklerocijaus, prisitvirtinusio prie užkastos medienos.",
+      "flesh": "Plonas, gana tvirtas ir elastingas, ypač kote, gumiškas iki kiek drebutiško. Kvapas neišreikštas.",
+      "sporePrint": "Balti. Sporos lygios, siaurai elipsiškos iki verpstiškų, apvaliais galais, apie 25–45 × 10–17 µm, su vienu dideliu ir keliais mažesniais aliejaus lašeliais; kiekviename aske yra aštuonios sporos.",
+      "habitat": "Saprotrofas, skaidantis dirvoje gulinčias arba žemėmis užklotas negyvas lapuočių šakeles, šakas ir šaknis drėgnuose lapuočių ir mišriuose miškuose, ypač salpų miškuose priemolio dirvose. Vaisiakūnius sudaro nuo vėlyvos žiemos iki pavasario, daugiausia nuo vasario iki gegužės, o tolimojoje šiaurėje iki birželio. Žinomas iš Europos, Šiaurės Amerikos ir Japonijos ir beveik visur retas.",
+      "uses": "Laikomas nevalgomu ir nerenkamas maistui; jo valgomumas iš tikrųjų niekada nebuvo tirtas, tikriausiai dėl retumo. Slovakijoje jis saugomas įstatymu, o Lenkijoje griežtai saugomas, todėl jį reikia palikti augimvietėje.",
+      "confusion": "Sarcoscypha austriaca ir Sarcoscypha coccinea taip pat yra ryškiai raudoni vėlyvos žiemos ir pavasario taurėtieji grybai, tačiau jų taurės didesnės, 1–6 cm skersmens, dažniausiai neauga kekėmis, jų kraštas nedantytas, o kotas trumpas arba jo nėra. Šiaurės Amerikos Microstoma floccosum turi raudoną taurę, tankiai padengtą ilgais baltais plaukeliais, ir vaisiakūnius sudaro vasarą.",
+      "notes": "Pirmą kartą jį 1851 m. aprašė Elias Fries kaip Peziza protracta, o 1948 m. Bessie Kanouse perkėlė į Microstoma gentį; Microstoma hiemale yra vėlesnis sinonimas. Jis įrašytas į kelių Europos šalių raudonuosius sąrašus, Čekijoje, Austrijoje ir Bulgarijoje kaip nykstantis, o Suomijoje įvertintas kaip nekeliantis susirūpinimo. 2020 m. jis buvo Vengrijos metų grybas.",
+      "names": [],
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Fungi_2_Kutorga.pdf"
+      ],
+      "label": "ilgakotė mikrostoma"
+    },
+    "lv": {
+      "description": "Neliela, spilgti sārtināti sarkana kausveida sēne no Microstoma ģints ar biķerveida augļķermeņiem, kas atveras ar gaišu, zvaigžņveidīgi ieplīsušu, robainu malu un atrodas uz gariem, slaidiem, bālganiem kātiem, kas izaug no augsnē ieraktas koksnes. Augļķermeņus veido kušķos vai nelielās grupās vēlā ziemā un agrā pavasarī mitros lapu koku un jauktos mežos, un vairākās Eiropas valstīs tā ir reta un aizsargājama.",
+      "cap": "Kauss 0,5–2,5 cm plats. Jauni augļķermeņi ir gandrīz slēgtas lodītes ar sīku atveri galotnē; tie pamazām paplašinās, zvaigžņveidīgi ieplīst un kļūst biķerveida līdz kausveida, beigās gandrīz plakani, ar neregulāri robainu malu, tāpēc atgādina mazus ziedus. Ārējā virsma ir gaišāka par iekšpusi, oranžsarkana līdz iesārta un klāta ar smalkiem bālganiem matiņiem, kas saglabājas galvenokārt pie malas.",
+      "hymenium": "Auglīgais slānis izklāj kausa iekšpusi; tas ir gluds, dažkārt nedaudz krunkains, spilgti sārtināts līdz cinobra sarkans.",
+      "stipe": "Garš un slaids, 1–4 cm garš un 0,2–0,5 cm resns, cilindrisks un lielākoties iegrimis augsnē. Redzamā daļa ir bālgana līdz iesarkana un smalki mataina; ieraktā daļa ir brūna līdz melna un izaug no melna, bumbuļveida sklerocija, kas piestiprināts pie ieraktās koksnes.",
+      "flesh": "Plāna, diezgan stingra un elastīga, īpaši kātā, gumijveida līdz nedaudz želejveida. Smarža neizteikta.",
+      "sporePrint": "Balts. Sporas ir gludas, šauri eliptiskas līdz vārpstveida ar noapaļotiem galiem, aptuveni 25–45 × 10–17 µm, ar vienu lielu un vairākiem mazākiem eļļas pilieniem; katrā asknā ir astoņas sporas.",
+      "habitat": "Saprotrofs, kas noārda augsnē ieraktus vai ar zemi pārklātus atmirušus lapu koku zariņus, zarus un saknes mitros lapu koku un jauktos mežos, īpaši palieņu mežos uz mālainām augsnēm. Augļķermeņus veido no vēlas ziemas līdz pavasarim, galvenokārt no februāra līdz maijam, un tālos ziemeļos līdz pat jūnijam. Tā zināma no Eiropas, Ziemeļamerikas un Japānas un gandrīz visur ir reta.",
+      "uses": "To uzskata par neēdamu, un to nevāc pārtikai; tās ēdamība patiesībā nekad nav pārbaudīta, droši vien tās retuma dēļ. Slovākijā tā ir aizsargāta ar likumu un Polijā stingri aizsargāta, tāpēc tā jāatstāj augšanas vietā.",
+      "confusion": "Sarcoscypha austriaca un Sarcoscypha coccinea arī ir vēlas ziemas un pavasara sārtināti sarkanas kausveida sēnes, taču to kausi ir lielāki, 1–6 cm plati, parasti neaug kušķos, to mala nav robaina, un kāts ir īss vai tā nav vispār. Ziemeļamerikas Microstoma floccosum ir sarkans biķeris, ko blīvi klāj gari balti matiņi, un tā veido augļķermeņus vasarā.",
+      "notes": "Pirmo reizi to aprakstīja Elias Fries 1851. gadā kā Peziza protracta, un Bessie Kanouse 1948. gadā to pārcēla uz Microstoma ģinti; Microstoma hiemale ir vēlāks sinonīms. Tā ir iekļauta vairāku Eiropas valstu sarkanajos sarakstos, Čehijā, Austrijā un Bulgārijā kā apdraudēta, bet Somijā tā novērtēta kā neapdraudēta. 2020. gadā tā bija Ungārijas gada sēne.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.senes.lv/Citado_senju_sugas.htm",
+        "https://lv.wikipedia.org/wiki/Gark%C4%81ta_agren%C4%ABte"
+      ],
+      "label": "garkāta agrenīte"
+    },
+    "nl": {
+      "description": "Een kleine, felle scharlakenrode bekerzwam uit het geslacht Microstoma met kelkvormige vruchtlichamen die openen met een bleke, stervormig ingescheurde, getande rand en op lange, slanke, witachtige stelen staan die uit in de bodem begraven hout groeien. Hij vormt vruchtlichamen in bundels of kleine groepen in de late winter en het vroege voorjaar in vochtige loof- en gemengde bossen en is in verschillende Europese landen zeldzaam en beschermd.",
+      "cap": "Beker 0,5–2,5 cm breed. Jonge vruchtlichamen zijn bijna gesloten bolletjes met een piepkleine opening aan de top; ze worden geleidelijk wijder, scheuren stervormig open en worden kelk- tot bekervormig, ten slotte bijna vlak, met een onregelmatig getande rand waardoor ze op kleine bloemen lijken. De buitenkant is bleker dan de binnenkant, oranjerood tot roze en bedekt met fijne witachtige haren die vooral aan de rand blijven bestaan.",
+      "hymenium": "De vruchtbare laag bekleedt de binnenkant van de beker; ze is glad, soms licht gerimpeld, en fel scharlaken- tot vermiljoenrood.",
+      "stipe": "Lang en slank, 1–4 cm lang en 0,2–0,5 cm dik, cilindrisch en grotendeels in de bodem verzonken. Het zichtbare deel is witachtig tot roodachtig en fijn behaard; het begraven deel is bruin tot zwart en ontspringt aan een zwart, knolvormig sclerotium dat aan het begraven hout vastzit.",
+      "flesh": "Dun, tamelijk taai en elastisch, vooral in de steel, rubberachtig tot wat gelatineus. De geur is onopvallend.",
+      "sporePrint": "Wit. De sporen zijn glad, smal elliptisch tot spoelvormig met afgeronde uiteinden, ongeveer 25–45 × 10–17 µm, met één grote en enkele kleinere oliedruppels; elke ascus bevat acht sporen.",
+      "habitat": "Een saprotroof die dode twijgjes, takken en wortels van loofbomen afbreekt die in de bodem liggen of met aarde bedekt zijn, in vochtige loof- en gemengde bossen, vooral ooibossen op lemige bodems. Hij vormt vruchtlichamen van de late winter tot het voorjaar, vooral van februari tot mei, en in het hoge noorden tot in juni. Hij is bekend uit Europa, Noord-Amerika en Japan en is bijna overal zeldzaam.",
+      "uses": "Geldt als oneetbaar en wordt niet voor consumptie verzameld; de eetbaarheid is eigenlijk nooit vastgesteld, waarschijnlijk vanwege de zeldzaamheid. In Slowakije is hij wettelijk beschermd en in Polen strikt beschermd, dus laat hem staan waar hij groeit.",
+      "confusion": "Sarcoscypha austriaca en Sarcoscypha coccinea zijn eveneens scharlakenrode bekerzwammen van de late winter en het voorjaar, maar hun bekers zijn groter, 1–6 cm breed, meestal niet in bundels, zonder getande rand en met slechts een korte steel of geen. De Noord-Amerikaanse Microstoma floccosum heeft een rode kelk die dicht bedekt is met lange witte haren en vormt vruchtlichamen in de zomer.",
+      "notes": "Voor het eerst beschreven door Elias Fries in 1851 als Peziza protracta en in 1948 door Bessie Kanouse naar het geslacht Microstoma overgebracht; Microstoma hiemale is een later synoniem. Hij staat op de rode lijsten van verschillende Europese landen, als bedreigd in Tsjechië, Oostenrijk en Bulgarije, en wordt in Finland als niet bedreigd beoordeeld. In 2020 was hij in Hongarije paddenstoel van het jaar.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En liten, klart skarlagensrød begersopp i slekten Microstoma med begerformede fruktlegemer som åpner seg med en blek, stjerneformet oppsprukket, tannet kant og sitter på lange, slanke, hvitaktige stilker som vokser ut fra ved begravd i jorda. Den danner fruktlegemer i knipper eller små grupper på senvinteren og tidlig vår i fuktige løv- og blandingsskoger og er sjelden og vernet i flere europeiske land.",
+      "cap": "Begeret er 0,5–2,5 cm bredt. Unge fruktlegemer er nesten lukkede kuler med en bitte liten åpning i toppen; de utvider seg gradvis, sprekker opp stjerneformet og blir beger- til skålformede, til slutt nesten flate, med en uregelmessig tannet kant som gjør at de ligner små blomster. Utsiden er blekere enn innsiden, oransjerød til rosa og dekket av fine hvitaktige hår som særlig blir værende ved kanten.",
+      "hymenium": "Det fertile laget kler innsiden av begeret; det er glatt, av og til svakt rynket, og klart skarlagensrødt til sinoberrødt.",
+      "stipe": "Lang og slank, 1–4 cm lang og 0,2–0,5 cm tykk, sylindrisk og for det meste nedsenket i jorda. Den synlige delen er hvitaktig til rødlig og fint håret; den begravde delen er brun til svart og vokser ut fra et svart, knollaktig sklerotium som sitter fast i den begravde veden.",
+      "flesh": "Tynt, nokså seigt og elastisk, særlig i stilken, gummiaktig til noe geléaktig. Lukten er uten særpreg.",
+      "sporePrint": "Hvitt. Sporene er glatte, smalt elliptiske til spolformede med avrundede ender, omtrent 25–45 × 10–17 µm, med én stor og flere mindre oljedråper; hver sporesekk inneholder åtte sporer.",
+      "habitat": "En saprotrof som bryter ned døde kvister, greiner og røtter av løvtrær som ligger i eller er dekket av jord, i fuktige løv- og blandingsskoger, særlig flommarksskoger på leirholdig jord. Den danner fruktlegemer fra senvinteren til våren, hovedsakelig fra februar til mai, og langt nord helt inn i juni. Den er kjent fra Europa, Nord-Amerika og Japan og er sjelden nesten overalt.",
+      "uses": "Regnes som uspiselig og samles ikke til mat; spiseligheten er egentlig aldri undersøkt, trolig fordi den er så sjelden. Den er lovbeskyttet i Slovakia og strengt vernet i Polen, så den bør få stå der den vokser.",
+      "confusion": "Sarcoscypha austriaca og Sarcoscypha coccinea er også skarlagensrøde begersopper fra senvinteren og våren, men begrene deres er større, 1–6 cm brede, vokser oftest ikke i knipper, mangler tannet kant og har bare en kort stilk eller ingen. Den nordamerikanske Microstoma floccosum har et rødt beger tett dekket av lange hvite hår og danner fruktlegemer om sommeren.",
+      "notes": "Den ble først beskrevet av Elias Fries i 1851 som Peziza protracta og flyttet til slekten Microstoma av Bessie Kanouse i 1948; Microstoma hiemale er et senere synonym. Den står på rødlistene i flere europeiske land, som sterkt truet i Tsjekkia, Østerrike og Bulgaria, og er vurdert som livskraftig i Finland. I 2020 var den årets sopp i Ungarn.",
+      "names": [],
+      "sourceUrls": [
+        "https://artsdatabanken.no/arter/takson/93116",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "blomsterbeger"
+    },
+    "pl": {
+      "description": "Mały, jaskrawo szkarłatny grzyb miseczkowaty z rodzaju Microstoma o kielichowatych owocnikach, które otwierają się jasnym, gwiaździście rozdartym, ząbkowanym brzegiem i osadzone są na długich, smukłych, białawych trzonach wyrastających z drewna zakopanego w glebie. Owocniki tworzy w kępkach lub małych grupach późną zimą i wczesną wiosną w wilgotnych lasach liściastych i mieszanych; w kilku krajach europejskich jest rzadki i chroniony.",
+      "cap": "Miseczka o średnicy 0,5–2,5 cm. Młode owocniki są niemal zamkniętymi kulkami z maleńkim otworem na szczycie; stopniowo się rozszerzają, pękają gwiaździście i stają się kielichowate do miseczkowatych, w końcu prawie płaskie, z nieregularnie ząbkowanym brzegiem, przez co przypominają małe kwiaty. Zewnętrzna powierzchnia jest jaśniejsza niż wnętrze, pomarańczowoczerwona do różowawej i pokryta delikatnymi białawymi włoskami, które utrzymują się głównie przy brzegu.",
+      "hymenium": "Warstwa zarodnikotwórcza wyściela wnętrze miseczki; jest gładka, czasem lekko pomarszczona, jaskrawo szkarłatna do cynobrowoczerwonej.",
+      "stipe": "Długi i smukły, o długości 1–4 cm i grubości 0,2–0,5 cm, walcowaty i w większości zagłębiony w glebie. Widoczna część jest biaława do czerwonawej i delikatnie owłosiona; zakopana część jest brązowa do czarnej i wyrasta z czarnego, bulwiastego sklerocjum przytwierdzonego do zakopanego drewna.",
+      "flesh": "Cienki, dość twardy i elastyczny, zwłaszcza w trzonie, gumowaty do nieco galaretowatego. Zapach niewyraźny.",
+      "sporePrint": "Biały. Zarodniki są gładkie, wąsko eliptyczne do wrzecionowatych z zaokrąglonymi końcami, około 25–45 × 10–17 µm, z jedną dużą i kilkoma mniejszymi kroplami oleju; każdy worek zawiera osiem zarodników.",
+      "habitat": "Saprotrof rozkładający martwe gałązki, gałęzie i korzenie drzew liściastych leżące w glebie lub przykryte ziemią, w wilgotnych lasach liściastych i mieszanych, zwłaszcza w lasach łęgowych na glebach gliniastych. Owocniki tworzy od późnej zimy do wiosny, głównie od lutego do maja, a na dalekiej północy aż do czerwca. Znany jest z Europy, Ameryki Północnej i Japonii i prawie wszędzie jest rzadki.",
+      "uses": "Uważany za niejadalny i nie zbiera się go do jedzenia; jego jadalność w rzeczywistości nigdy nie została sprawdzona, prawdopodobnie z powodu rzadkości. Na Słowacji jest prawnie chroniony, a w Polsce objęty ochroną ścisłą, dlatego należy go zostawić tam, gdzie rośnie.",
+      "confusion": "Sarcoscypha austriaca i Sarcoscypha coccinea to również szkarłatne grzyby miseczkowate późnej zimy i wiosny, ale ich miseczki są większe, o średnicy 1–6 cm, zwykle nie rosną w kępkach, nie mają ząbkowanego brzegu i mają tylko krótki trzon albo wcale. Północnoamerykański Microstoma floccosum ma czerwony kielich gęsto pokryty długimi białymi włoskami i owocniki tworzy latem.",
+      "notes": "Po raz pierwszy opisał go Elias Fries w 1851 roku jako Peziza protracta, a w 1948 roku Bessie Kanouse przeniosła go do rodzaju Microstoma; Microstoma hiemale jest późniejszym synonimem. Figuruje na czerwonych listach kilku krajów europejskich, jako zagrożony w Czechach, Austrii i Bułgarii, a w Finlandii oceniany jest jako najmniejszej troski. W 2020 roku był na Węgrzech grzybem roku.",
+      "names": [],
+      "sourceUrls": [
+        "https://grzyby.pl/gatunki/Microstoma_protracta.htm",
+        "https://pl.wikipedia.org/wiki/Czareczka_d%C5%82ugotrzonkowa"
+      ],
+      "label": "czareczka długotrzonkowa"
+    },
+    "pt": {
+      "description": "Pequeno fungo em forma de taça, de cor escarlate viva, do género Microstoma, com corpos de frutificação em forma de cálice que se abrem com uma margem pálida, rasgada em estrela e denteada, e assentam em pés longos, delgados e esbranquiçados que nascem de madeira enterrada no solo. Frutifica em tufos ou pequenos grupos no fim do inverno e no início da primavera em florestas húmidas de folhosas e mistas, e é raro e protegido em vários países europeus.",
+      "cap": "Taça com 0,5–2,5 cm de diâmetro. Os corpos de frutificação jovens são esferas quase fechadas com uma minúscula abertura no topo; alargam-se gradualmente, rasgam-se em estrela e tornam-se em forma de cálice a taça, por fim quase planos, com uma margem irregularmente denteada que os faz parecer pequenas flores. A superfície externa é mais pálida do que o interior, de vermelho-alaranjado a rosada, e coberta de finos pelos esbranquiçados que persistem sobretudo na margem.",
+      "hymenium": "A camada fértil reveste o interior da taça; é lisa, por vezes ligeiramente enrugada, de escarlate vivo a vermelho-cinábrio.",
+      "stipe": "Longo e delgado, com 1–4 cm de comprimento e 0,2–0,5 cm de espessura, cilíndrico e em grande parte enterrado no solo. A parte visível é esbranquiçada a avermelhada e finamente pilosa; a parte enterrada é castanha a negra e nasce de um esclerócio negro em forma de tubérculo, preso à madeira enterrada.",
+      "flesh": "Fina, bastante tenaz e elástica, sobretudo no pé, de borrachosa a algo gelatinosa. O cheiro é indistinto.",
+      "sporePrint": "Branca. Os esporos são lisos, estreitamente elípticos a fusiformes com extremidades arredondadas, com cerca de 25–45 × 10–17 µm, com uma gota lipídica grande e várias menores; cada asco contém oito esporos.",
+      "habitat": "Saprotrófico que decompõe raminhos, ramos e raízes mortos de folhosas enterrados ou cobertos de terra, em florestas húmidas de folhosas e mistas, sobretudo florestas ribeirinhas em solos limosos. Frutifica do fim do inverno à primavera, principalmente de fevereiro a maio, e no extremo norte até junho. É conhecido da Europa, da América do Norte e do Japão e é raro quase em toda a parte.",
+      "uses": "É considerado não comestível e não é colhido para alimentação; na verdade, a sua comestibilidade nunca foi comprovada, provavelmente devido à sua raridade. É protegido por lei na Eslováquia e estritamente protegido na Polónia, pelo que deve ser deixado onde cresce.",
+      "confusion": "Sarcoscypha austriaca e Sarcoscypha coccinea também são fungos em taça escarlates do fim do inverno e da primavera, mas as suas taças são maiores, com 1–6 cm de diâmetro, geralmente não em tufos, sem margem denteada e com um pé curto ou ausente. O norte-americano Microstoma floccosum tem um cálice vermelho densamente coberto de longos pelos brancos e frutifica no verão.",
+      "notes": "Foi descrito pela primeira vez por Elias Fries em 1851 como Peziza protracta e transferido para o género Microstoma por Bessie Kanouse em 1948; Microstoma hiemale é um sinónimo posterior. Consta das listas vermelhas de vários países europeus, como em perigo na Chéquia, na Áustria e na Bulgária, e é avaliado como pouco preocupante na Finlândia. Em 2020 foi o cogumelo do ano na Hungria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mică în formă de cupă, de un roșu stacojiu aprins, din genul Microstoma, cu corpuri fructifere în formă de potir care se deschid cu o margine palidă, crăpată în stea și dințată și stau pe picioare lungi, subțiri, albicioase, care cresc din lemn îngropat în sol. Fructifică în tufe sau în grupuri mici la sfârșitul iernii și la începutul primăverii în păduri umede de foioase și amestecate și este rară și ocrotită în mai multe țări europene.",
+      "cap": "Cupa are 0,5–2,5 cm în diametru. Corpurile fructifere tinere sunt sfere aproape închise, cu o deschidere minusculă în vârf; treptat se lărgesc, crapă în formă de stea și devin în formă de potir până la cupă, în cele din urmă aproape plate, cu o margine neregulat dințată care le face să semene cu niște flori mici. Suprafața exterioară este mai palidă decât interiorul, roșu-portocalie până la rozalie, și acoperită cu peri fini albicioși, care persistă mai ales la margine.",
+      "hymenium": "Stratul fertil căptușește interiorul cupei; este neted, uneori ușor încrețit, de un roșu stacojiu aprins până la roșu-cinabru.",
+      "stipe": "Lung și subțire, de 1–4 cm lungime și 0,2–0,5 cm grosime, cilindric și în cea mai mare parte îngropat în sol. Partea vizibilă este albicioasă până la roșiatică și fin păroasă; partea îngropată este brună până la neagră și pornește dintr-un scleroțiu negru, în formă de tubercul, prins de lemnul îngropat.",
+      "flesh": "Subțire, destul de tenace și elastică, mai ales în picior, cauciucată până la oarecum gelatinoasă. Mirosul este neremarcabil.",
+      "sporePrint": "Albă. Sporii sunt netezi, îngust eliptici până la fusiformi, cu capete rotunjite, de circa 25–45 × 10–17 µm, cu o picătură de ulei mare și câteva mai mici; fiecare asc conține opt spori.",
+      "habitat": "Saprotrof care descompune rămurele, ramuri și rădăcini moarte de foioase îngropate în sol sau acoperite cu pământ, în păduri umede de foioase și amestecate, mai ales în zăvoaie pe soluri lutoase. Fructifică de la sfârșitul iernii până primăvara, mai ales din februarie până în mai, iar în nordul îndepărtat până în iunie. Este cunoscută din Europa, America de Nord și Japonia și este rară aproape peste tot.",
+      "uses": "Este considerată necomestibilă și nu se culege pentru consum; comestibilitatea ei nu a fost de fapt niciodată verificată, probabil din cauza rarității. Este ocrotită prin lege în Slovacia și strict ocrotită în Polonia, așa că trebuie lăsată acolo unde crește.",
+      "confusion": "Sarcoscypha austriaca și Sarcoscypha coccinea sunt tot ciuperci-cupă stacojii de la sfârșitul iernii și primăvara, dar cupele lor sunt mai mari, de 1–6 cm în diametru, de obicei nu cresc în tufe, nu au marginea dințată și au doar un picior scurt sau deloc. Specia nord-americană Microstoma floccosum are un potir roșu acoperit des cu peri lungi și albi și fructifică vara.",
+      "notes": "A fost descrisă pentru prima dată de Elias Fries în 1851 ca Peziza protracta și transferată în genul Microstoma de Bessie Kanouse în 1948; Microstoma hiemale este un sinonim ulterior. Figurează pe listele roșii ale mai multor țări europene, ca periclitată în Cehia, Austria și Bulgaria, iar în Finlanda este evaluată ca neamenințată. În 2020 a fost ciuperca anului în Ungaria.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой ярко-алый чашевидный гриб из рода Microstoma с бокаловидными плодовыми телами, которые раскрываются светлым, звёздчато надорванным, зубчатым краем и сидят на длинных, тонких, беловатых ножках, вырастающих из погребённой в почве древесины. Плодоносит пучками или небольшими группами в конце зимы и ранней весной во влажных лиственных и смешанных лесах; в ряде европейских стран редок и охраняется.",
+      "cap": "Чаша 0,5–2,5 см в диаметре. Молодые плодовые тела — почти замкнутые шарики с крошечным отверстием на верхушке; постепенно они расширяются, звёздчато разрываются и становятся бокаловидными или чашевидными, в конце почти плоскими, с неправильно зубчатым краем, из-за чего напоминают маленькие цветки. Наружная поверхность светлее внутренней, оранжево-красная до розоватой, покрыта тонкими беловатыми волосками, которые сохраняются в основном у края.",
+      "hymenium": "Плодущий слой выстилает внутреннюю сторону чаши; он гладкий, иногда слегка морщинистый, ярко-алый до киноварно-красного.",
+      "stipe": "Длинная и тонкая, 1–4 см длиной и 0,2–0,5 см толщиной, цилиндрическая, большей частью погружённая в почву. Видимая часть беловатая до красноватой, тонковолосистая; погружённая часть коричневая до чёрной и отходит от чёрного клубневидного склероция, прикреплённого к погребённой древесине.",
+      "flesh": "Тонкая, довольно плотная и упругая, особенно в ножке, резиновидная до слегка студенистой. Запах невыраженный.",
+      "sporePrint": "Белый. Споры гладкие, узкоэллиптические до веретеновидных с закруглёнными концами, около 25–45 × 10–17 мкм, с одной крупной и несколькими мелкими каплями масла; в каждой сумке по восемь спор.",
+      "habitat": "Сапротроф, разлагающий отмершие веточки, ветви и корни лиственных деревьев, погребённые в почве или присыпанные землёй, во влажных лиственных и смешанных лесах, особенно в пойменных лесах на суглинистых почвах. Плодоносит с конца зимы до весны, главным образом с февраля по май, а на крайнем севере до июня. Известен из Европы, Северной Америки и Японии и почти везде редок.",
+      "uses": "Считается несъедобным и не собирается в пищу; его съедобность на самом деле никогда не проверялась, вероятно из-за редкости. В Словакии охраняется законом, а в Польше находится под строгой охраной, поэтому его следует оставлять на месте.",
+      "confusion": "Sarcoscypha austriaca и Sarcoscypha coccinea — тоже алые чашевидные грибы конца зимы и весны, но их чаши крупнее, 1–6 см в диаметре, обычно не растут пучками, лишены зубчатого края и имеют лишь короткую ножку или вовсе без неё. Североамериканский Microstoma floccosum имеет красный бокал, густо покрытый длинными белыми волосками, и плодоносит летом.",
+      "notes": "Впервые описан Элиасом Фрисом в 1851 году как Peziza protracta и перенесён в род Microstoma Бесси Канауз в 1948 году; Microstoma hiemale — более поздний синоним. Внесён в красные списки ряда европейских стран: в Чехии, Австрии и Болгарии как находящийся под угрозой, а в Финляндии оценён как вызывающий наименьшие опасения. В 2020 году был грибом года в Венгрии.",
+      "names": [],
+      "sourceUrls": [
+        "https://portal.kgilc.ru/redbook/?q=Microstoma_protractum",
+        "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%B0_%D0%B2%D1%8B%D1%82%D1%8F%D0%BD%D1%83%D1%82%D0%B0%D1%8F"
+      ],
+      "label": "Микростома вытянутая"
+    },
+    "sk": {
+      "description": "Malá, žiarivo šarlátová miskovitá huba z rodu Microstoma s pohárikovitými plodnicami, ktoré sa otvárajú svetlým, hviezdicovito rozpukaným, zúbkovaným okrajom a sedia na dlhých, štíhlych, belavých hlúbikoch vyrastajúcich z dreva zahrabaného v pôde. Plodnice tvorí v trsoch alebo malých skupinách koncom zimy a skoro na jar vo vlhkých listnatých a zmiešaných lesoch a v niekoľkých európskych krajinách je vzácna a chránená.",
+      "cap": "Miska široká 0,5–2,5 cm. Mladé plodnice sú takmer uzavreté guľky s drobným otvorom na vrchole; postupne sa rozširujú, hviezdicovito sa roztrhnú a stávajú sa pohárikovitými až miskovitými, napokon takmer plochými, s nepravidelne zúbkovaným okrajom, takže pripomínajú malé kvety. Vonkajší povrch je svetlejší ako vnútro, oranžovočervený až ružovkastý a pokrytý jemnými belavými chĺpkami, ktoré pretrvávajú najmä na okraji.",
+      "hymenium": "Výtrusorodá vrstva vystiela vnútro misky; je hladká, niekedy jemne zvráskavená, žiarivo šarlátová až rumelkovočervená.",
+      "stipe": "Dlhý a štíhly, 1–4 cm dlhý a 0,2–0,5 cm hrubý, valcovitý a väčšinou ponorený v pôde. Viditeľná časť je belavá až červenkastá a jemne chlpatá; zakopaná časť je hnedá až čierna a vyrastá z čierneho, hľuzovitého sklerócia prirasteného k zahrabanému drevu.",
+      "flesh": "Tenká, pomerne húževnatá a pružná, najmä v hlúbiku, gumovitá až trochu rôsolovitá. Vôňa je nevýrazná.",
+      "sporePrint": "Biely. Výtrusy sú hladké, úzko elipsoidné až vretenovité so zaoblenými koncami, asi 25–45 × 10–17 µm, s jednou veľkou a niekoľkými menšími olejovými kvapkami; každé vrecko obsahuje osem výtrusov.",
+      "habitat": "Saprotrof, ktorý rozkladá odumreté vetvičky, konáre a korene listnatých stromov uložené v pôde alebo prikryté pôdou, vo vlhkých listnatých a zmiešaných lesoch, najmä v lužných lesoch na hlinitých pôdach. Plodnice tvorí od konca zimy do jari, hlavne od februára do mája, na ďalekom severe až do júna. Je známa z Európy, Severnej Ameriky a Japonska a takmer všade je vzácna.",
+      "uses": "Považuje sa za nejedlú a nezbiera sa na jedenie; jej jedlosť sa v skutočnosti nikdy neoverila, pravdepodobne pre jej vzácnosť. Na Slovensku je zákonom chránená a v Poľsku prísne chránená, preto ju treba nechať tam, kde rastie.",
+      "confusion": "Sarcoscypha austriaca a Sarcoscypha coccinea sú tiež šarlátové miskovité huby konca zimy a jari, ale ich misky sú väčšie, 1–6 cm široké, zvyčajne nerastú v trsoch, nemajú zúbkovaný okraj a majú len krátky hlúbik alebo žiadny. Severoamerický Microstoma floccosum má červený pohárik husto pokrytý dlhými bielymi chlpmi a plodnice tvorí v lete.",
+      "notes": "Prvýkrát ju opísal Elias Fries v roku 1851 ako Peziza protracta a do rodu Microstoma ju preradila Bessie Kanouse v roku 1948; Microstoma hiemale je neskoršie synonymum. Je v červených zoznamoch viacerých európskych krajín, v Česku, Rakúsku a Bulharsku ako ohrozená, a vo Fínsku je hodnotená ako najmenej ohrozená. V roku 2020 bola maďarskou hubou roka.",
+      "names": [],
+      "sourceUrls": [
+        "https://static.slov-lex.sk/pdf/prilohy/SK/ZZ/2021/170/20250101_5311303-2.pdf",
+        "https://www.nahuby.sk/atlas-hub/Microstoma-protractum/ohnivcek-zimny/ohnivec-zimni/ID2319"
+      ],
+      "label": "ohnivček zimný"
+    },
+    "sl": {
+      "description": "Majhna, živo škrlatna čašasta gliva iz rodu Microstoma s kelihastimi trosnjaki, ki se odprejo s svetlim, zvezdasto razpokanim, nazobčanim robom in sedijo na dolgih, vitkih, belkastih betih, ki rastejo iz lesa, zakopanega v tleh. Trosnjake tvori v šopih ali majhnih skupinah pozno pozimi in zgodaj spomladi v vlažnih listnatih in mešanih gozdovih, v več evropskih državah pa je redka in zavarovana.",
+      "cap": "Čaša je široka 0,5–2,5 cm. Mladi trosnjaki so skoraj zaprte kroglice z drobno odprtino na vrhu; postopoma se razširijo, zvezdasto počijo in postanejo kelihasti do skledasti, nazadnje skoraj ploski, z nepravilno nazobčanim robom, zato spominjajo na majhne cvetove. Zunanja površina je svetlejša od notranjosti, oranžno rdeča do rožnata in pokrita s finimi belkastimi dlačicami, ki ostanejo predvsem ob robu.",
+      "hymenium": "Plodna plast obdaja notranjost čaše; je gladka, včasih rahlo nagubana, živo škrlatna do cinobrasto rdeča.",
+      "stipe": "Dolg in vitek, 1–4 cm dolg in 0,2–0,5 cm debel, valjast in večinoma pogreznjen v tla. Vidni del je belkast do rdečkast in fino dlakav; zakopani del je rjav do črn in izrašča iz črnega, gomoljastega sklerocija, pritrjenega na zakopani les.",
+      "flesh": "Tanko, precej žilavo in prožno, zlasti v betu, gumijasto do nekoliko želatinasto. Vonj je neizrazit.",
+      "sporePrint": "Bel. Trosi so gladki, ozko eliptični do vretenasti z zaobljenimi konci, približno 25–45 × 10–17 µm, z eno veliko in več manjšimi oljnimi kapljicami; vsak askus vsebuje osem trosov.",
+      "habitat": "Saprotrof, ki razkraja odmrle vejice, veje in korenine listavcev, zakopane v tleh ali prekrite z zemljo, v vlažnih listnatih in mešanih gozdovih, zlasti v poplavnih gozdovih na ilovnatih tleh. Trosnjake tvori od pozne zime do pomladi, predvsem od februarja do maja, na skrajnem severu pa do junija. Znana je iz Evrope, Severne Amerike in Japonske in je skoraj povsod redka.",
+      "uses": "Velja za neužitno in je ne nabirajo za hrano; njena užitnost v resnici ni bila nikoli preverjena, verjetno zaradi redkosti. Na Slovaškem je zakonsko zavarovana, na Poljskem pa strogo zavarovana, zato jo je treba pustiti tam, kjer raste.",
+      "confusion": "Sarcoscypha austriaca in Sarcoscypha coccinea sta prav tako škrlatni čašasti glivi pozne zime in pomladi, vendar sta njuni čaši večji, 1–6 cm široki, običajno ne rasteta v šopih, nimata nazobčanega roba in imata le kratek bet ali ga sploh nimata. Severnoameriška Microstoma floccosum ima rdeč kelih, gosto pokrit z dolgimi belimi dlakami, in trosnjake tvori poleti.",
+      "notes": "Prvi jo je opisal Elias Fries leta 1851 kot Peziza protracta, v rod Microstoma pa jo je leta 1948 prestavila Bessie Kanouse; Microstoma hiemale je poznejši sinonim. Uvrščena je na rdeče sezname več evropskih držav, na Češkem, v Avstriji in Bolgariji kot prizadeta, na Finskem pa je ocenjena kot neogrožena. Leta 2020 je bila madžarska goba leta.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Мала, јарко скерлетна гљива пехарица из рода Microstoma, с плодним телима у облику пехара која се отварају светлим, звездасто испуцалим, назубљеним ободом и стоје на дугим, витким, беличастим дршкама које израстају из дрвета закопаног у земљишту. Плодоноси у бусенима или малим групама крајем зиме и рано у пролеће у влажним листопадним и мешовитим шумама, а у неколико европских земаља ретка је и заштићена.",
+      "cap": "Пехарић је широк 0,5–2,5 цм. Млада плодна тела су готово затворене куглице са сићушним отвором на врху; постепено се шире, звездасто пуцају и постају пехараста до чинијаста, на крају готово равна, с неправилно назубљеним ободом због којег подсећају на мале цветове. Спољна површина је светлија од унутрашње, наранџастоцрвена до ружичаста и прекривена финим беличастим длачицама које се задржавају углавном уз обод.",
+      "hymenium": "Плодни слој облаже унутрашњост пехарића; гладак је, понекад благо наборан, јарко скерлетан до цинобер-црвен.",
+      "stipe": "Дуга и витка, 1–4 цм дуга и 0,2–0,5 цм дебела, ваљкаста и већим делом утонула у земљиште. Видљиви део је беличаст до црвенкаст и фино длакав; закопани део је смеђ до црн и израста из црног склероцијума налик кртоли, причвршћеног за закопано дрво.",
+      "flesh": "Танко, прилично жилаво и еластично, нарочито у дршци, гумасто до помало желатинозно. Мирис је неизражен.",
+      "sporePrint": "Бели. Споре су глатке, уско елиптичне до вретенасте са заобљеним крајевима, око 25–45 × 10–17 µm, с једном великом и неколико мањих уљаних капљица; сваки аскус садржи осам спора.",
+      "habitat": "Сапротроф који разграђује мртве гранчице, гране и корење листопадног дрвећа закопане у земљишту или прекривене земљом, у влажним листопадним и мешовитим шумама, нарочито у плавним шумама на иловастим земљиштима. Плодоноси од краја зиме до пролећа, углавном од фебруара до маја, а на далеком северу све до јуна. Позната је из Европе, Северне Америке и Јапана и готово свуда је ретка.",
+      "uses": "Сматра се нејестивом и не сакупља се за јело; њена јестивост заправо никада није проверена, вероватно због реткости. У Словачкој је заштићена законом, а у Пољској строго заштићена, па је треба оставити тамо где расте.",
+      "confusion": "Sarcoscypha austriaca и Sarcoscypha coccinea такође су скерлетне гљиве пехарице касне зиме и пролећа, али су им пехарићи већи, 1–6 цм широки, обично не расту у бусенима, немају назубљен обод и имају само кратку дршку или је немају. Северноамеричка Microstoma floccosum има црвени пехар густо прекривен дугим белим длакама и плодоноси лети.",
+      "notes": "Први ју је описао Елијас Фрис 1851. године као Peziza protracta, а у род Microstoma пренела ју је Беси Кануз 1948. године; Microstoma hiemale је каснији синоним. Налази се на црвеним листама неколико европских земаља, у Чешкој, Аустрији и Бугарској као угрожена, а у Финској је процењена као најмање забрињавајућа. Године 2020. била је мађарска гљива године.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten, klart scharlakansröd skålsvamp i släktet Microstoma med bägarformade fruktkroppar som öppnar sig med en blek, stjärnformigt sönderfliken, tandad kant och sitter på långa, smala, vitaktiga skaft som växer ur ved som ligger begravd i jorden. Den bildar fruktkroppar i knippen eller små grupper under senvintern och tidig vår i fuktiga löv- och blandskogar och är sällsynt och skyddad i flera europeiska länder.",
+      "cap": "Skålen är 0,5–2,5 cm bred. Unga fruktkroppar är nästan slutna klot med en mycket liten öppning i toppen; de vidgas gradvis, spricker upp stjärnformigt och blir bägar- till skålformade, till sist nästan platta, med en oregelbundet tandad kant som gör att de liknar små blommor. Utsidan är ljusare än insidan, orangeröd till rosaaktig och täckt av fina vitaktiga hår som främst finns kvar vid kanten.",
+      "hymenium": "Det fertila lagret klär insidan av skålen; det är slätt, ibland svagt rynkigt, och klart scharlakansrött till cinnoberrött.",
+      "stipe": "Långt och smalt, 1–4 cm långt och 0,2–0,5 cm tjockt, cylindriskt och till största delen nedsänkt i jorden. Den synliga delen är vitaktig till rödaktig och fint hårig; den begravda delen är brun till svart och växer ut från ett svart, knölliknande sklerotium som sitter fast i den begravda veden.",
+      "flesh": "Tunt, ganska segt och elastiskt, särskilt i skaftet, gummiaktigt till något geléartat. Lukten är obetydlig.",
+      "sporePrint": "Vitt. Sporerna är släta, smalt elliptiska till spolformade med rundade ändar, omkring 25–45 × 10–17 µm, med en stor och flera mindre oljedroppar; varje sporsäck innehåller åtta sporer.",
+      "habitat": "En saprotrof som bryter ner döda kvistar, grenar och rötter av lövträd som ligger i eller täcks av jord, i fuktiga löv- och blandskogar, särskilt svämskogar på lerig mark. Den bildar fruktkroppar från senvintern till våren, främst från februari till maj, och längst i norr in i juni. Den är känd från Europa, Nordamerika och Japan och är sällsynt nästan överallt.",
+      "uses": "Anses oätlig och samlas inte för mat; dess ätlighet har egentligen aldrig prövats, troligen på grund av dess sällsynthet. Den är lagligt skyddad i Slovakien och strikt skyddad i Polen, så den bör lämnas där den växer.",
+      "confusion": "Sarcoscypha austriaca och Sarcoscypha coccinea är också scharlakansröda skålsvampar från senvintern och våren, men deras skålar är större, 1–6 cm breda, växer oftast inte i knippen, saknar tandad kant och har bara ett kort skaft eller inget alls. Den nordamerikanska Microstoma floccosum har en röd bägare som är tätt täckt av långa vita hår och bildar fruktkroppar på sommaren.",
+      "notes": "Den beskrevs första gången av Elias Fries 1851 som Peziza protracta och flyttades till släktet Microstoma av Bessie Kanouse 1948; Microstoma hiemale är en senare synonym. Den finns på rödlistorna i flera europeiska länder, som starkt hotad i Tjeckien, Österrike och Bulgarien, och bedöms som livskraftig i Finland. År 2020 var den årets svamp i Ungern.",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.237078",
+        "https://api.gbif.org/v1/species/5259120/vernacularNames"
+      ],
+      "label": "tulpanskål"
+    },
+    "tr": {
+      "description": "Microstoma cinsine ait, küçük, parlak kızıl renkli bir kadeh mantarı; kadeh biçimli meyve gövdeleri soluk, yıldız biçiminde yarılmış, dişli bir kenarla açılır ve toprağa gömülü odundan çıkan uzun, ince, beyazımsı saplar üzerinde durur. Geç kışın ve erken ilkbaharda nemli yapraklı ve karışık ormanlarda demetler veya küçük gruplar hâlinde meyve verir ve birçok Avrupa ülkesinde nadir ve koruma altındadır.",
+      "cap": "Kadeh 0,5–2,5 cm çapındadır. Genç meyve gövdeleri tepesinde minicik bir açıklık bulunan, neredeyse kapalı kürelerdir; yavaş yavaş genişler, yıldız biçiminde yarılır ve kadeh ya da çanak biçimini alır, sonunda neredeyse düzleşir; düzensiz dişli kenarları onları küçük çiçeklere benzetir. Dış yüzey iç yüzeyden daha soluktur, turuncumsu kırmızıdan pembemsiye değişir ve özellikle kenarda kalıcı olan ince beyazımsı tüylerle kaplıdır.",
+      "hymenium": "Verimli tabaka kadehin içini kaplar; düzdür, bazen hafifçe buruşuktur, parlak kızıldan zincifre kırmızısına kadar değişir.",
+      "stipe": "Uzun ve incedir, 1–4 cm uzunluğunda ve 0,2–0,5 cm kalınlığında, silindiriktir ve büyük kısmı toprağa gömülüdür. Görünen kısmı beyazımsıdan kırmızımsıya kadar değişir ve ince tüylüdür; gömülü kısmı kahverengiden siyaha kadardır ve gömülü oduna tutunmuş siyah, yumru benzeri bir sklerotiyumdan çıkar.",
+      "flesh": "İnce, oldukça sert ve esnektir, özellikle sapta; lastiğimsiden biraz jelatinimsiye kadar değişir. Kokusu belirsizdir.",
+      "sporePrint": "Beyaz. Sporlar düz, dar eliptikten iğ biçimine kadar değişen, uçları yuvarlak, yaklaşık 25–45 × 10–17 µm boyutunda, bir büyük ve birkaç küçük yağ damlacıklıdır; her askus sekiz spor içerir.",
+      "habitat": "Toprağa gömülü ya da toprakla örtülü yapraklı ağaçların ölü ince dallarını, dallarını ve köklerini ayrıştıran bir saprotroftur; nemli yapraklı ve karışık ormanlarda, özellikle tınlı topraklardaki taşkın ormanlarında yetişir. Geç kıştan ilkbahara kadar, başlıca şubattan mayısa kadar, uzak kuzeyde ise hazirana kadar meyve verir. Avrupa, Kuzey Amerika ve Japonya'dan bilinir ve neredeyse her yerde nadirdir.",
+      "uses": "Yenmez kabul edilir ve yemek için toplanmaz; yenilebilirliği aslında hiç araştırılmamıştır, muhtemelen nadir olması nedeniyle. Slovakya'da yasayla, Polonya'da ise sıkı biçimde koruma altındadır; bu yüzden yetiştiği yerde bırakılmalıdır.",
+      "confusion": "Sarcoscypha austriaca ve Sarcoscypha coccinea da geç kış ve ilkbaharın kızıl kadeh mantarlarıdır, ancak kadehleri daha büyüktür, 1–6 cm çapındadır, genellikle demet oluşturmaz, kenarları dişli değildir ve sapları kısadır ya da hiç yoktur. Kuzey Amerika'daki Microstoma floccosum'un kırmızı kadehi uzun beyaz tüylerle yoğun biçimde kaplıdır ve yazın meyve verir.",
+      "notes": "İlk kez 1851'de Elias Fries tarafından Peziza protracta adıyla tanımlanmış ve 1948'de Bessie Kanouse tarafından Microstoma cinsine aktarılmıştır; Microstoma hiemale daha sonraki bir sinonimdir. Birçok Avrupa ülkesinin kırmızı listelerinde yer alır; Çekya, Avusturya ve Bulgaristan'da tehlikede olarak listelenmiştir, Finlandiya'da ise asgari endişe kategorisinde değerlendirilmektedir. 2020'de Macaristan'da yılın mantarı seçilmiştir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий яскраво-червоний чашоподібний гриб із роду Microstoma з келихоподібними плодовими тілами, які розкриваються світлим, зірчасто надірваним, зубчастим краєм і сидять на довгих, тонких, білуватих ніжках, що виростають із похованої в ґрунті деревини. Плодоносить пучками або невеликими групами наприкінці зими та ранньої весни у вологих листяних і мішаних лісах; у кількох європейських країнах рідкісний і охороняється.",
+      "cap": "Чаша 0,5–2,5 см у діаметрі. Молоді плодові тіла — майже замкнені кульки з крихітним отвором на верхівці; поступово вони розширюються, зірчасто розриваються й стають келихоподібними або чашоподібними, зрештою майже плоскими, з неправильно зубчастим краєм, через що нагадують маленькі квіти. Зовнішня поверхня світліша за внутрішню, оранжево-червона до рожевуватої, вкрита тонкими білуватими волосками, які зберігаються переважно біля краю.",
+      "hymenium": "Плідний шар вистилає внутрішній бік чаші; він гладкий, іноді злегка зморшкуватий, яскраво-червоний до кіноварно-червоного.",
+      "stipe": "Довга й тонка, 1–4 см завдовжки та 0,2–0,5 см завтовшки, циліндрична, здебільшого занурена в ґрунт. Видима частина білувата до червонуватої, тонковолосиста; занурена частина коричнева до чорної й відходить від чорного бульбоподібного склероцію, прикріпленого до похованої деревини.",
+      "flesh": "Тонка, досить щільна й пружна, особливо в ніжці, гумоподібна до трохи драглистої. Запах невиразний.",
+      "sporePrint": "Білий. Спори гладкі, вузькоеліптичні до веретеноподібних із заокругленими кінцями, близько 25–45 × 10–17 мкм, з однією великою та кількома дрібнішими краплями олії; у кожній сумці по вісім спор.",
+      "habitat": "Сапротроф, що розкладає відмерлі гілочки, гілки й корені листяних дерев, поховані в ґрунті або присипані землею, у вологих листяних і мішаних лісах, особливо в заплавних лісах на суглинкових ґрунтах. Плодоносить від кінця зими до весни, головним чином з лютого по травень, а на крайній півночі до червня. Відомий з Європи, Північної Америки та Японії й майже скрізь рідкісний.",
+      "uses": "Вважається неїстівним і не збирається в їжу; його їстівність насправді ніколи не перевірялася, імовірно через рідкісність. У Словаччині охороняється законом, а в Польщі перебуває під суворою охороною, тому його слід залишати на місці.",
+      "confusion": "Sarcoscypha austriaca і Sarcoscypha coccinea — теж червоні чашоподібні гриби кінця зими та весни, але їхні чаші більші, 1–6 см у діаметрі, зазвичай не ростуть пучками, не мають зубчастого краю й мають лише коротку ніжку або зовсім без неї. Північноамериканський Microstoma floccosum має червоний келих, густо вкритий довгими білими волосками, і плодоносить улітку.",
+      "notes": "Уперше описаний Еліасом Фрісом у 1851 році як Peziza protracta і перенесений до роду Microstoma Бессі Канауз у 1948 році; Microstoma hiemale — пізніший синонім. Занесений до червоних списків кількох європейських країн: у Чехії, Австрії та Болгарії як такий, що перебуває під загрозою, а у Фінляндії оцінений як такий, що викликає найменші побоювання. У 2020 році був грибом року в Угорщині.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "Microstoma 屬的一種小型、鮮豔緋紅色的盤菌，子實體呈高腳杯形，開口時邊緣色淺、呈星狀裂開並有齒，著生於從埋在土中的木頭長出的細長、帶白色的柄上。晚冬至早春在潮濕的闊葉林和混交林中成簇或成小群發生，在歐洲數個國家稀有並受保護。",
+      "cap": "子囊盤直徑0.5–2.5 cm。幼時子實體為近乎閉合的小球，頂端有極小的孔；之後逐漸張開，呈星狀裂開，變成高腳杯形至碗形，最後近乎平展，邊緣不規則齒狀，看起來像小花。外表面比內面淺，橙紅色至淡粉紅色，覆有細密的白色毛，毛主要留存在邊緣。",
+      "hymenium": "子實層覆蓋子囊盤內面，平滑，有時略有皺紋，鮮豔的緋紅色至朱紅色。",
+      "stipe": "細長，長1–4 cm，粗0.2–0.5 cm，圓柱形，大部分埋在土中。可見部分白色至帶紅色，有細毛；埋入部分褐色至黑色，由附著於埋藏木材上的黑色塊莖狀菌核長出。",
+      "flesh": "薄，相當堅韌而有彈性，尤其在柄中，呈橡膠質至稍膠質。氣味不明顯。",
+      "sporePrint": "白色。孢子平滑，窄橢圓形至紡錘形，兩端圓鈍，約25–45 × 10–17 µm，含一個大油滴和數個較小油滴；每個子囊含八個孢子。",
+      "habitat": "腐生菌，分解埋在土中或被土覆蓋的闊葉樹枯死小枝、枝條和根，生於潮濕的闊葉林和混交林，尤其是壤土上的氾濫平原林。晚冬至春季發生，主要在二月至五月，極北地區可至六月。已知分布於歐洲、北美洲和日本，幾乎各地皆稀有。",
+      "uses": "被認為不可食用，不作食用採集；其可食性實際上從未經過驗證，可能是因為稀有。在斯洛伐克受法律保護，在波蘭受嚴格保護，因此應留在原地。",
+      "confusion": "Sarcoscypha austriaca 和 Sarcoscypha coccinea 也是晚冬和春季出現的緋紅色盤菌，但子囊盤較大，直徑1–6 cm，通常不成簇生長，邊緣不呈齒狀，柄短或無柄。北美洲的 Microstoma floccosum 具紅色高腳杯形子囊盤，密被白色長毛，夏季發生。",
+      "notes": "1851年由埃利亞斯·弗里斯首次以 Peziza protracta 之名描述，1948年由貝西·卡諾斯移入 Microstoma 屬；Microstoma hiemale 是較晚的異名。列入數個歐洲國家的紅色名錄，在捷克、奧地利和保加利亞列為瀕危，在芬蘭則評為無危。2020年曾獲選為匈牙利年度蕈菌。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp1.webp",
+      "author": "Jan Ole Olsen",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/4131927521"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp2.webp",
+      "author": "Siri Lie Olsen",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/5131670728"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp3.webp",
+      "author": "Richard Kjelaas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/5131741472"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp4.webp",
+      "author": "Louis Aureglia",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/200930819"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp5.webp",
+      "author": "Line Moe",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/3798249366"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp1.webp",
+      "author": "Jan Ole Olsen",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/4131927521",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2023/5/11a5898c-a570-4a28-8dc0-69a7bb9301b1_image.jpg",
+      "attribution": "© Jan Ole Olsen, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 4131927521",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp2.webp",
+      "author": "Siri Lie Olsen",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/5131670728",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2025/4/56fec2ef-4ed4-4fc4-8d73-32029d7373a1_image.jpg",
+      "attribution": "© Siri Lie Olsen, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 5131670728",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp3.webp",
+      "author": "Richard Kjelaas",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/5131741472",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2025/4/e16f0960-1530-4c7b-bbaf-cda71cf905db_image.jpg",
+      "attribution": "© Richard Kjelaas, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 5131741472",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp4.webp",
+      "author": "Louis Aureglia",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/200930819",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/354595159/original.jpeg",
+      "attribution": "© Louis Aureglia, CC BY 4.0, via iNaturalist observation 200930819 / GBIF occurrence 4847039769",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/mp5.webp",
+      "author": "Line Moe",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/3798249366",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2022/5/da9a6f04-f05d-451e-888c-05116ff20059_image.jpg",
+      "attribution": "© Line Moe, CC BY 4.0, via Artsdatabanken Artsobservasjoner / GBIF occurrence 3798249366",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Peziza protracta",
+    "Sarcoscypha protracta",
+    "Lachnea protracta",
+    "Plectania protracta",
+    "Anthopeziza protracta",
+    "Peziza cruciata",
+    "Sarcoscypha cruciata",
+    "Microstoma hiemale",
+    "Sclerotinia hiemalis",
+    "Peziza hiemalis",
+    "Sarcoscypha hiemalis",
+    "Plectania hiemalis",
+    "Peziza mirabilis",
+    "Lachnea mirabilis",
+    "Anthopeziza mirabilis",
+    "Sclerotinia baccata",
+    "Peziza coccinea subsp. auctior",
+    "Anthopeziza winteri",
+    "Anthopeziza baccata",
+    "Sarcoscypha hiemalis var. urniformis"
+  ],
+  "fruitingFrom": 2,
+  "fruitingTo": 5,
+  "reserved": false,
+  "id": 150,
+  "added": "2026-11-09",
+  "citation": "Mycologia 40(4): 486 (1948)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "paperResidualP995": 1.219478322531706,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Microstoma protractum.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      1024,
+      1024
+    ],
+    "sourceSHA256": "ec7056827aadd5551dfef15e3f0edd782910d5d1eb502c43d34666b4a4a00a79",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      99,
+      159,
+      951,
+      943
+    ],
+    "uniformScale": 1.6431924882629108,
+    "placement": [
+      100,
+      556
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1288
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 875404,
+    "opaquePixels": 160412,
+    "partialAlphaPixels": 12760,
+    "signatureBox": [
+      784,
+      906,
+      864,
+      948
+    ],
+    "signatureComponents": 4,
+    "signaturePixels": 324,
+    "preservedObjects": [
+      "left: cluster of five young, still-closed, globose, finely hairy pinkish-red fruit bodies with small apical slits, on a pale common base",
+      "centre-right: open goblet-shaped cup with star-like toothed margin, scarlet interior, finely hairy pinkish exterior and a long, slender, whitish, curved stalk",
+      "right: second open goblet with toothed margin, scarlet interior and a long, wavy, finely hairy whitish stalk",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 72670.5,
+        "box": [
+          100,
+          480,
+          372,
+          312
+        ]
+      },
+      {
+        "area": 46205.5,
+        "box": [
+          704,
+          304,
+          246,
+          624
+        ]
+      },
+      {
+        "area": 44864.0,
+        "box": [
+          512,
+          160,
+          224,
+          600
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected (fullsize_inspection/, art_fullsize_inspection.png, original_vs_composition.jpg): all three figure groups (closed young cluster, two open stalked goblets) kept whole with felted edges; paper removed by robust paper-only fit; no visible fringe on the standard background; existing Gemini mark kept once; one standard background frame only; no double frame, no added mark.",
+    "alphaPNGSHA256": "36dc5e2eb87c0d54ee9200e1e3dd7b9bacf41b1ba10420360b68d9d3648b0541",
+    "maskSHA256": "ccacb764d4a8922e95e8ae571d843048e95114cee751c0b45e84ddc08e52cdd0",
+    "recipeSHA256": "7f259f85402393bc99bef50795bbd9dc9d5d19ed4bf944141d1cd08c67b8a7ed",
+    "officialFiles": [
+      {
+        "path": "media/Microstoma_protractum@1600.webp",
+        "bytes": 150528,
+        "sha256": "2963d72e1e4d5dff01a298d6a44c14577b744722b844f02210d2ada2114bdfdb"
+      },
+      {
+        "path": "media/Microstoma_protractum@400.webp",
+        "bytes": 16344,
+        "sha256": "59baedb7e225333bea1a94af38743d39a531c23c4b257579ba194389a815339b"
+      }
+    ]
+  }
 }
 ];

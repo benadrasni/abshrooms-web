@@ -56,7 +56,7 @@ export const TAXA = {
   Pezizales: {
     rank: "order",
     lv: "kaussēņu rinda",
-    sk: "kustriebkotvaré"
+    sk: "čiaškotvaré"
   },
   Boletaceae: {
     rank: "family",
@@ -156,7 +156,8 @@ export const TAXA = {
     pl: "smardzowate"
   },
   Pezizaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "čiaškovité"
   },
   Mycenaceae: {
     rank: "family",
@@ -237,7 +238,8 @@ export const TAXA = {
     sk: "smrčok"
   },
   Peziza: {
-    rank: "genus"
+    rank: "genus",
+    sk: "čiaška"
   },
   Pleurotus: {
     rank: "genus",
@@ -909,5 +911,17 @@ export const TAXA = {
     rank: "genus",
     sk: "hlinovec",
     cs: "hlinák"
+  },
+  Sarcoscyphaceae: {
+    rank: "family",
+    lv: "agreņu dzimta",
+    cs: "ohnivcovité",
+    da: "pragtbægerfamilien"
+  },
+  Microstoma: {
+    rank: "genus",
+    cs: "ohnivec",
+    fi: "kukkamaljakkaat",
+    lt: "mikrostoma"
   }
 };
