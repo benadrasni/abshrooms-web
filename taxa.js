@@ -923,5 +923,20 @@ export const TAXA = {
     cs: "ohnivec",
     fi: "kukkamaljakkaat",
     lt: "mikrostoma"
+  },
+  Sarcosomataceae: {
+    rank: "family"
+  },
+  Sarcosoma: {
+    rank: "genus"
+  },
+  Chorioactidaceae: {
+    rank: "family"
+  },
+  Chorioactis: {
+    rank: "genus"
+  },
+  Aspropaxillus: {
+    rank: "genus"
   }
 };

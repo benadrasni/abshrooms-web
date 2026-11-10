@@ -150934,5 +150934,3156 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Sarcosoma globosum",
+  "author": "(Schmidel) Casp.",
+  "family": "Sarcosomataceae",
+  "genus": "Sarcosoma",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Sarcosomataceae",
+    "Sarcosoma"
+  ],
+  "summary": [
+    "Pezizales",
+    "Sarcosomataceae",
+    "Sarcosoma"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "dark"
+  ],
+  "capFrom": 3.0,
+  "capTo": 12.0,
+  "label": {
+    "ar": "Sarcosoma globosum",
+    "bg": "Sarcosoma globosum",
+    "cs": "masečník kulovitý",
+    "da": "kødbæger",
+    "de": "Kugeliger Gallertbecherling",
+    "en": "witches' cauldron",
+    "es": "Sarcosoma globosum",
+    "et": "limatünnik",
+    "fa": "Sarcosoma globosum",
+    "fi": "hytymaljakas",
+    "fr": "pézize globuleuse",
+    "he": "Sarcosoma globosum",
+    "hi": "Sarcosoma globosum",
+    "hr": "Sarcosoma globosum",
+    "hu": "Sarcosoma globosum",
+    "id": "Sarcosoma globosum",
+    "it": "Sarcosoma globosum",
+    "ja": "Sarcosoma globosum",
+    "ko": "Sarcosoma globosum",
+    "lt": "paprastasis taukius",
+    "lv": "toverīšu sarkosoma",
+    "nl": "Sarcosoma globosum",
+    "no": "svartgubbe",
+    "pl": "dzbankówka kulista",
+    "pt": "Sarcosoma globosum",
+    "ro": "Sarcosoma globosum",
+    "ru": "саркосома шаровидная",
+    "sk": "mäsovec guľatý",
+    "sl": "Sarcosoma globosum",
+    "sr": "Sarcosoma globosum",
+    "sv": "bombmurkla",
+    "tr": "Sarcosoma globosum",
+    "uk": "саркосома куляста",
+    "zh": "Sarcosoma globosum"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Gallertkugel",
+      "Dunkle Gallertkugel"
+    ],
+    "en": [
+      "charred-pancake cup"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Sarcosoma-globosum/",
+      "https://cs.wikipedia.org/wiki/Mase%C4%8Dn%C3%ADk_kulovit%C3%BD"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxonomy/61563",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Kugeliger_Gallertbecherling",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames",
+      "https://redlist.info/iucn/species_view/120549/"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=120549",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=120549",
+      "https://www.gbif.org/species/2593417",
+      "https://en.wikipedia.org/wiki/Sarcosoma_globosum",
+      "https://www.iucnredlist.org/species/58515314/58515381",
+      "https://doi.org/10.3390/jof10040263",
+      "https://mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Sarcosoma+globosum",
+      "https://lerum.naturskyddsforeningen.se/wp-content/uploads/sites/281/2014/02/Sarcosoma_globosum_1445.pdf",
+      "https://www.myko.cz/myko-atlas/Sarcosoma-globosum/",
+      "https://grzyby.pl/gatunki/Sarcosoma_globosum.htm",
+      "https://sarkanagramata.lu.lv/suga/toverisu-sarkosoma/",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/16302",
+      "https://laji.fi/taxon/MX.238057",
+      "https://svims.ca/council/Sarcos.htm",
+      "https://www.journalssystem.com/amy/Expanded-geographical-distribution-of-Sarcosoma-globosum-witches-cauldron-in-Canada,195530,0,2.html",
+      "https://www.senes.lv/mikologubiedriba/GADA_SENES.htm",
+      "https://et.wikipedia.org/wiki/Aasta_seen",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Limat%C3%BCnnik",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames",
+      "https://redlist.info/iucn/species_view/120549/",
+      "https://et.wikipedia.org/wiki/Aasta_seen"
+    ],
+    "fa": [],
+    "fi": [
+      "https://laji.fi/taxon/MX.238057",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames"
+    ],
+    "fr": [
+      "https://mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Sarcosoma+globosum",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Fungi_2_Kutorga.pdf",
+      "https://lt.wikipedia.org/wiki/Paprastasis_taukius"
+    ],
+    "lv": [
+      "https://sarkanagramata.lu.lv/suga/toverisu-sarkosoma/",
+      "https://www.iucnredlist.org/species/58515314/58515381",
+      "https://www.senes.lv/mikologubiedriba/GADA_SENES.htm"
+    ],
+    "nl": [],
+    "no": [
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/16302",
+      "https://api.gbif.org/v1/species/2593417/vernacularNames"
+    ],
+    "pl": [
+      "https://grzyby.pl/gatunki/Sarcosoma_globosum.htm",
+      "https://pl.wikipedia.org/wiki/Dzbank%C3%B3wka_kulista"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.iucnredlist.org/species/58515314/58515381",
+      "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D0%BE%D0%BC%D0%B0_%D1%88%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F"
+    ],
+    "sk": [
+      "https://www.iucnredlist.org/species/58515314/58515381",
+      "https://redlist.info/iucn/species_view/120549/",
+      "https://cs.wikipedia.org/wiki/Mase%C4%8Dn%C3%ADk_kulovit%C3%BD"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://lerum.naturskyddsforeningen.se/wp-content/uploads/sites/281/2014/02/Sarcosoma_globosum_1445.pdf",
+      "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/artskyddsforordning-2007845_sfs-2007-845/",
+      "https://laji.fi/taxon/MX.238057"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D0%BE%D0%BC%D0%B0_%D0%BA%D1%83%D0%BB%D1%8F%D1%81%D1%82%D0%B0",
+      "https://www.wikidata.org/wiki/Q1791117"
+    ],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كأسي كبير بني داكن مخملي من جنس Sarcosoma، أجسامه الثمرية ثقيلة كروية إلى برميلية الشكل، ممتلئة بهلام مائي وتحمل في أعلاها قرصًا أسود لامعًا. يظهر في أوائل الربيع بعد ذوبان الثلج بقليل، بين الطحالب تحت أشجار التنوب في الغابات القديمة، ولا سيما في شمال أوروبا، وهو نادر ومتراجع ومحمي في عدة بلدان.",
+      "cap": "لا توجد قبعة: الجسم الثمري كله كأس عرضها ٣–١٢ cm وارتفاعها حتى ١٢ cm. يكون في البداية شبه كروي ومغلقًا، ثم يصبح برميليًا أو مخروطيًا كالدوامة مع قرص ضحل منخفض قليلًا في أعلاه؛ ومع تقدمه في العمر وفقدانه الماء يتجعد ويتسطح. السطح الخارجي بني داكن إلى بني مسود، مخملي ويزداد تجعدًا.",
+      "hymenium": "تشكل الطبقة الخصبة قرصًا مستديرًا في انخفاض ضحل أعلى الجسم الثمري؛ وهي ملساء إلى متشققة تشققًا دقيقًا، لامعة، بنية مسودة إلى سوداء. وفي الأجسام الثمرية المسنّة يتسع القرص حتى قد يغطي معظم السطح العلوي.",
+      "stipe": "لا توجد ساق؛ الجسم الثمري جالس يستقر مباشرة في الطحالب أو في فرشة الإبر المتساقطة، وكثيرًا ما يكون مغمورًا فيها جزئيًا.",
+      "flesh": "يمتلئ الداخل بهلام مائي شفاف إلى رمادي، يجعل الجسم الثمري ثقيلًا على نحو مدهش بالنسبة إلى حجمه؛ إذ يمكن أن يحوي الجسم الثمري الواحد ٣٥–٦٠ ml من السائل، ويتكون من الماء بنسبة نحو ٩٩%. ويحيط به جدار خارجي سميك متين مرن. الرائحة والطعم غير مميزين.",
+      "sporePrint": "أبيض. الأبواغ عديمة اللون، ملساء، إهليلجية، رقيقة الجدار، نحو ٢٣–٣٠ × ٧–١٢ µm؛ ويحوي كل زق ثمانية أبواغ.",
+      "habitat": "مترمم يحلل على الأرجح فرشة إبر التنوب، مع أن علاقة جذرية فطرية مع التنوب لم تُستبعد. ينمو منفردًا أو في مجموعات في الطحالب الكثيفة وفرشة الإبر في غابات تنوب قديمة رطبة غنية بالمغذيات على تربة جيدة التصريف، وغالبًا على امتداد الجداول والأنهار أو على الحواف الحصوية. تظهر الأجسام الثمرية بعد ذوبان الثلج بقليل، غالبًا من فبراير إلى مايو، وفي بعض الأماكن حتى يونيو. يقع موطنه الرئيسي في شمال أوروبا، ولا سيما السويد وفنلندا؛ ويوجد أيضًا في روسيا وشرق أمريكا الشمالية وأرمينيا، لكنه اختفى من معظم أوروبا الوسطى.",
+      "uses": "لا يُستخدم غذاءً: يُعد غير صالح للأكل وبلا قيمة طهوية، مع أنه أُكل أحيانًا حيث يثمر بكثرة، واستُخدم في الطب الشعبي في أجزاء من روسيا. وهو محمي قانونًا في السويد وبولندا وليتوانيا ولاتفيا، لذا لا يجوز جمعه.",
+      "confusion": "حجمه الكبير وداخله المكوّن من هلام مائي وسطحه الخارجي البني المخملي تجعله مميزًا في أوروبا. وفي غرب أمريكا الشمالية يكوّن Urnula padeniana وPseudosarcosoma latahense أيضًا أجسامًا ثمرية داكنة مخروطية كالدوامة وهلامية جزئيًا ذات قرص أسود: فـPseudosarcosoma latahense أصغر، حتى ٤ cm، وله ساق قصيرة ولا يحوي الداخل الهلامي الكثيف، أما Urnula padeniana فيحمل من الخارج شعيرات طويلة داكنة. وPlectania melastoma كأس سوداء أصغر بكثير، حتى ٣ cm، تحمل حبيبات برتقالية من الخارج. وقد تعود بعض السجلات في أمريكا الشمالية إلى مثل هذه الأنواع المشابهة.",
+      "notes": "وصفه أول مرة كازيمير كريستوف شميدل سنة ١٧٩٣ باسم Burcardia globosa، ونقله روبرت كاسباري إلى جنس Sarcosoma سنة ١٨٩١. ويُقيَّم عالميًا في القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة (IUCN) بوصفه قريبًا من التهديد (٢٠١٥) لأن غابات التنوب القديمة تُقطع قطعًا كاملًا، وكان واحدًا من ٣٣ فطرًا مهددًا اقتُرحت لاتفاقية برن. وفي القوائم الحمراء يُصنَّف معرضًا للخطر في السويد ولاتفيا، ومهددًا بالانقراض في النرويج وليتوانيا، وغير مثير للقلق في فنلندا؛ وتضم السويد معظم المواقع الأوروبية المعروفة. واختير فطرَ العام في لاتفيا سنة ٢٠٠٦ وفي إستونيا سنة ٢٠٢٦.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голяма, тъмнокафява, кадифена гъба с чашковидни плодни тела от рода Sarcosoma, чиито тежки, кълбовидни до бъчвовидни плодни тела са изпълнени с воднисто желе и на върха носят лъскав черен диск. Появява се рано напролет, скоро след стопяването на снега, в мъх под смърчове в стари гори, главно в Северна Европа, и е рядка, намаляваща и защитена в няколко страни.",
+      "cap": "Шапка няма: цялото плодно тяло е чашка с диаметър 3–12 cm и височина до 12 cm. Отначало е почти кълбовидно и затворено, после бъчвовидно или пумпаловидно с плитък, леко вдлъбнат диск на върха; със стареенето и загубата на вода се набръчква и сплесква. Външната повърхност е тъмнокафява до черникавокафява, кадифена и все по-набръчкана.",
+      "hymenium": "Плодният слой образува кръгъл диск в плитка вдлъбнатина на върха на плодното тяло; той е гладък до ситно напукан, лъскав, черникавокафяв до черен. При старите плодни тела дискът се разширява, докато може да покрие почти цялата горна повърхност.",
+      "stipe": "Пънче няма; плодното тяло е приседнало и стои направо в мъха или в иглената постилка, често частично потънало в нея.",
+      "flesh": "Вътрешността е изпълнена с прозрачно до сивкаво воднисто желе, което прави плодното тяло изненадващо тежко за размера си; едно плодно тяло може да съдържа 35–60 ml течност и се състои от около 99 % вода. Обвито е от дебела, жилава, еластична външна стена. Мирисът и вкусът са неизразени.",
+      "sporePrint": "Бял. Спорите са безцветни, гладки, елипсоидни и тънкостенни, около 23–30 × 7–12 µm; всеки аскус съдържа осем спори.",
+      "habitat": "Сапротроф, който вероятно разгражда смърчовата иглена постилка, макар че микоризна връзка със смърча не е изключена. Расте поединично или на групи в дълбок мъх и иглена постилка в стари, влажни, богати на хранителни вещества смърчови гори на добре дренирани почви, често покрай потоци и реки или по чакълести хребети. Плодните тела се появяват скоро след стопяването на снега, главно от февруари до май, а на места до юни. Основният ареал е в Северна Европа, особено в Швеция и Финландия; среща се и в Русия, източна Северна Америка и Армения, но е изчезнала от голяма част от Централна Европа.",
+      "uses": "Не се използва за храна: смята се за негодна за ядене и без кулинарна стойност, макар че там, където плододава масово, понякога е яждана и в части на Русия е използвана в народната медицина. Защитена е със закон в Швеция, Полша, Литва и Латвия, затова не бива да се бере.",
+      "confusion": "Големият размер, вътрешността от воднисто желе и кадифената кафява външност я правят безпогрешно разпознаваема в Европа. В западна Северна Америка тъмни, пумпаловидни, частично желатинозни плодни тела с черен диск образуват и Urnula padeniana и Pseudosarcosoma latahense: Pseudosarcosoma latahense е по-малка, до 4 cm, с късо пънче и без силно желатинозна вътрешност, а Urnula padeniana има отвън дълги тъмни власинки. Plectania melastoma е много по-малка черна чашка, до 3 cm, с оранжеви зрънца отвън. Някои северноамерикански находки може да принадлежат на такива сходни видове.",
+      "notes": "Описана за първи път от Казимир Кристоф Шмидел през 1793 г. като Burcardia globosa и преместена в рода Sarcosoma от Роберт Каспари през 1891 г. В Червения списък на IUCN е оценена в световен мащаб като почти застрашена (2015), защото старите смърчови гори се изсичат голо, и е един от 33-те застрашени вида гъби, предложени за Бернската конвенция. В червените списъци е уязвима в Швеция и Латвия, застрашена в Норвегия и Литва и слабо засегната във Финландия; в Швеция се намират повечето известни европейски находища. Видът е избран за гъба на годината в Латвия през 2006 г. и в Естония през 2026 г.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Velká, tmavě hnědá, sametová houba s miskovitými plodnicemi z rodu Sarcosoma, jejíž těžké, kulovité až soudkovité plodnice jsou vyplněné vodnatým rosolem a na vrcholu nesou lesklý černý terčík. Objevuje se brzy na jaře, krátce po tání sněhu, v mechu pod smrky ve starých lesích, hlavně v severní Evropě, a je vzácná, ustupující a v několika zemích chráněná.",
+      "cap": "Klobouk nemá: celá plodnice je miska 3–12 cm široká a až 12 cm vysoká. Zpočátku je téměř kulovitá a uzavřená, pak soudkovitá nebo káčovitá s mělkým, mírně prohloubeným terčíkem na vrcholu; jak stárne a ztrácí vodu, svrašťuje se a zplošťuje. Vnější povrch je tmavě hnědý až černohnědý, sametový a stále vrásčitější.",
+      "hymenium": "Výtrusorodá vrstva tvoří kulatý terčík v mělké prohlubni na vrcholu plodnice; je hladká až jemně rozpraskaná, lesklá, černohnědá až černá. U starých plodnic se terčík rozšiřuje, až může pokrýt téměř celý horní povrch.",
+      "stipe": "Třeň nemá; plodnice je přisedlá a sedí přímo v mechu nebo v jehličí, často do něj částečně zanořená.",
+      "flesh": "Vnitřek vyplňuje čirý až šedavý vodnatý rosol, díky němuž je plodnice na svou velikost překvapivě těžká; jedna plodnice může obsahovat 35–60 ml tekutiny a z asi 99 % ji tvoří voda. Obklopuje ho silná, tuhá, pružná vnější stěna. Vůně a chuť jsou nevýrazné.",
+      "sporePrint": "Bílý. Výtrusy jsou bezbarvé, hladké, elipsoidní a tenkostěnné, asi 23–30 × 7–12 µm; každé vřecko obsahuje osm výtrusů.",
+      "habitat": "Saprotrof, který pravděpodobně rozkládá smrkové jehličí, i když mykorhizní vazbu se smrkem nelze vyloučit. Roste jednotlivě nebo ve skupinách v hlubokém mechu a jehličí ve starých, vlhkých, živinami bohatých smrčinách na dobře odvodněných půdách, často podél potoků a řek nebo na štěrkových hřbetech. Plodnice se objevují krátce po tání sněhu, hlavně od února do května a místy až do června. Hlavní areál má v severní Evropě, zejména ve Švédsku a Finsku; vyskytuje se také v Rusku, na východě Severní Ameriky a v Arménii, ale z velké části střední Evropy vymizela.",
+      "uses": "K jídlu se nepoužívá: považuje se za nejedlou a bez kulinářské hodnoty, i když tam, kde hromadně plodí, byla občas jedena a v některých částech Ruska se používala v lidovém léčitelství. Ve Švédsku, Polsku, Litvě a Lotyšsku je zákonem chráněná, proto se nesmí sbírat.",
+      "confusion": "Velikost, vnitřek z vodnatého rosolu a sametový hnědý povrch ji v Evropě činí nezaměnitelnou. Na západě Severní Ameriky tvoří tmavé, káčovité, částečně rosolovité plodnice s černým terčíkem také Urnula padeniana a Pseudosarcosoma latahense: Pseudosarcosoma latahense je menší, do 4 cm, s krátkou stopkou a bez výrazně rosolovitého vnitřku, a Urnula padeniana má na vnější straně dlouhé tmavé chlupy. Plectania melastoma je mnohem menší černá miska, do 3 cm, s oranžovými zrnky na vnější straně. Některé severoamerické údaje mohou patřit takovým podobným druhům.",
+      "notes": "Poprvé ji popsal Casimir Christoph Schmidel v roce 1793 jako Burcardia globosa a do rodu Sarcosoma ji přeřadil Robert Caspary v roce 1891. Na Červeném seznamu IUCN je celosvětově hodnocena jako téměř ohrožená (2015), protože staré smrkové lesy jsou káceny holosečí, a patřila mezi 33 ohrožených hub navržených do Bernské úmluvy. Jako zranitelná je na červeném seznamu ve Švédsku a Lotyšsku, jako ohrožená v Norsku a Litvě a jako málo dotčená ve Finsku; Švédsko má většinu známých evropských lokalit. V Lotyšsku byl v roce 2006 vyhlášen houbou roku a v Estonsku v roce 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Sarcosoma-globosum/",
+        "https://cs.wikipedia.org/wiki/Mase%C4%8Dn%C3%ADk_kulovit%C3%BD"
+      ],
+      "label": "masečník kulovitý"
+    },
+    "da": {
+      "description": "En stor, mørkebrun, fløjlsagtig bægersvamp i slægten Sarcosoma, hvis tunge, kugleformede til tøndeformede frugtlegemer er fyldt med vandig gelé og bærer en blank, sort skive foroven. Den viser sig tidligt om foråret, kort efter snesmeltningen, i mos under gran i gamle skove, især i Nordeuropa, og den er sjælden, i tilbagegang og beskyttet i flere lande.",
+      "cap": "Der er ingen hat: hele frugtlegemet er et bæger, 3–12 cm bredt og op til 12 cm højt. Først er det næsten kugleformet og lukket, siden tønde- eller topformet med en flad, let nedsænket skive foroven; når det ældes og mister vand, bliver det rynket og flader ud. Ydersiden er mørkebrun til sortbrun, fløjlsagtig og stadig mere rynket.",
+      "hymenium": "Det frugtbare lag danner en rund skive i en lav fordybning øverst på frugtlegemet; det er glat til fint revnet, blankt og sortbrunt til sort. Hos gamle frugtlegemer bliver skiven bredere, indtil den kan dække næsten hele oversiden.",
+      "stipe": "Der er ingen stok; frugtlegemet er siddende og sidder direkte i mos eller nålestrøelse, ofte delvis sænket ned i den.",
+      "flesh": "Indersiden er fyldt med klar til grålig, vandig gelé, som gør frugtlegemet overraskende tungt i forhold til størrelsen; ét frugtlegeme kan rumme 35–60 ml væske og består af omkring 99 % vand. Den omsluttes af en tyk, sej, elastisk ydervæg. Lugt og smag er ubetydelige.",
+      "sporePrint": "Hvidt. Sporerne er farveløse, glatte, ellipsoide og tyndvæggede, omkring 23–30 × 7–12 µm; hver ascus indeholder otte sporer.",
+      "habitat": "En saprotrof, der sandsynligvis nedbryder granens nålestrøelse, selv om en mykorrhizaforbindelse med gran ikke er udelukket. Den vokser enkeltvis eller i grupper i dybt mos og nålestrøelse i gamle, fugtige, næringsrige granskove på veldrænet jord, ofte langs bække og elve eller på grusåse. Frugtlegemerne kommer kort efter snesmeltningen, mest fra februar til maj og lokalt ind i juni. Hovedudbredelsen ligger i Nordeuropa, især i Sverige og Finland; den findes også i Rusland, det østlige Nordamerika og Armenien, men er forsvundet fra store dele af Centraleuropa.",
+      "uses": "Bruges ikke som spisesvamp: den regnes for uspiselig og uden kulinarisk værdi, selv om den af og til er blevet spist, hvor den frugter i mængder, og er brugt i folkemedicin i dele af Rusland. Den er lovbeskyttet i Sverige, Polen, Litauen og Letland og må derfor ikke plukkes.",
+      "confusion": "Den store størrelse, det vandige geléindre og den fløjlsagtige brune yderside gør den umiskendelig i Europa. I det vestlige Nordamerika danner også Urnula padeniana og Pseudosarcosoma latahense mørke, topformede, delvis geléagtige frugtlegemer med sort skive: Pseudosarcosoma latahense er mindre, op til 4 cm, med kort stok og uden det stærkt geléagtige indre, og Urnula padeniana har lange mørke hår på ydersiden. Plectania melastoma er et meget mindre sort bæger, op til 3 cm, med orange korn på ydersiden. Nogle nordamerikanske fund kan tilhøre sådanne lignende arter.",
+      "notes": "Først beskrevet af Casimir Christoph Schmidel i 1793 som Burcardia globosa og flyttet til slægten Sarcosoma af Robert Caspary i 1891. På IUCN's rødliste er den globalt vurderet som næsten truet (2015), fordi gamle granskove renafdrives, og den var en af 33 truede svampe, der blev foreslået til Bernkonventionen. Den er rødlistet som sårbar i Sverige og Letland, truet i Norge og Litauen og livskraftig i Finland; Sverige har de fleste kendte europæiske lokaliteter. Arten blev kåret til årets svamp i Letland i 2006 og i Estland i 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxonomy/61563",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames"
+      ],
+      "label": "kødbæger"
+    },
+    "de": {
+      "description": "Ein großer, dunkelbrauner, samtiger Becherpilz der Gattung Sarcosoma, dessen schwere, kugelige bis tonnenförmige Fruchtkörper mit wässriger Gallerte gefüllt sind und oben eine glänzend schwarze Scheibe tragen. Er erscheint im zeitigen Frühjahr kurz nach der Schneeschmelze im Moos unter Fichten in alten Wäldern, vor allem in Nordeuropa, und ist selten, rückläufig und in mehreren Ländern geschützt.",
+      "cap": "Einen Hut gibt es nicht: Der ganze Fruchtkörper ist ein Becher von 3–12 cm Breite und bis zu 12 cm Höhe. Zuerst ist er fast kugelig und geschlossen, dann tonnen- oder kreiselförmig mit einer flachen, leicht eingesenkten Scheibe oben; mit dem Alter und Wasserverlust wird er runzelig und flacht ab. Die Außenseite ist dunkelbraun bis schwarzbraun, samtig und zunehmend runzelig.",
+      "hymenium": "Die fruchtbare Schicht bildet eine runde Scheibe in einer flachen Vertiefung oben auf dem Fruchtkörper; sie ist glatt bis fein rissig, glänzend und schwarzbraun bis schwarz. Bei alten Fruchtkörpern verbreitert sich die Scheibe, bis sie fast die ganze Oberseite bedecken kann.",
+      "stipe": "Einen Stiel gibt es nicht; der Fruchtkörper ist sitzend und steckt direkt im Moos oder in der Nadelstreu, oft teilweise darin eingesenkt.",
+      "flesh": "Das Innere ist mit klarer bis gräulicher, wässriger Gallerte gefüllt, die den Fruchtkörper für seine Größe überraschend schwer macht; ein Fruchtkörper kann 35–60 ml Flüssigkeit enthalten und besteht zu etwa 99 % aus Wasser. Umschlossen wird es von einer dicken, zähen, elastischen Außenwand. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Weiß. Die Sporen sind farblos, glatt, ellipsoid und dünnwandig, etwa 23–30 × 7–12 µm; jeder Ascus enthält acht Sporen.",
+      "habitat": "Ein Saprobiont, der wahrscheinlich Fichtennadelstreu zersetzt, wobei eine Mykorrhiza-Beziehung zur Fichte nicht ausgeschlossen ist. Er wächst einzeln oder in Gruppen in tiefem Moos und Nadelstreu in alten, feuchten, nährstoffreichen Fichtenwäldern auf gut drainierten Böden, oft entlang von Bächen und Flüssen oder auf Kiesrücken. Die Fruchtkörper erscheinen kurz nach der Schneeschmelze, hauptsächlich von Februar bis Mai, örtlich bis in den Juni. Das Hauptareal liegt in Nordeuropa, besonders in Schweden und Finnland; er kommt auch in Russland, im östlichen Nordamerika und in Armenien vor, ist aber aus weiten Teilen Mitteleuropas verschwunden.",
+      "uses": "Kein Speisepilz: Er gilt als ungenießbar und ohne kulinarischen Wert, obwohl er dort, wo er massenhaft fruchtet, gelegentlich gegessen und in Teilen Russlands in der Volksmedizin verwendet wurde. In Schweden, Polen, Litauen und Lettland ist er gesetzlich geschützt und darf daher nicht gesammelt werden.",
+      "confusion": "Größe, das Innere aus wässriger Gallerte und die samtig braune Außenseite machen ihn in Europa unverwechselbar. Im westlichen Nordamerika bilden auch Urnula padeniana und Pseudosarcosoma latahense dunkle, kreiselförmige, teilweise gallertige Fruchtkörper mit schwarzer Scheibe: Pseudosarcosoma latahense ist kleiner, bis 4 cm, mit kurzem Stiel und ohne stark gallertiges Inneres, und Urnula padeniana hat außen lange dunkle Haare. Plectania melastoma ist ein viel kleinerer schwarzer Becher, bis 3 cm, mit orangefarbenen Körnchen auf der Außenseite. Manche nordamerikanischen Meldungen könnten solche ähnlichen Arten betreffen.",
+      "notes": "Erstmals beschrieben von Casimir Christoph Schmidel 1793 als Burcardia globosa und von Robert Caspary 1891 in die Gattung Sarcosoma gestellt. Auf der Roten Liste der IUCN wird er weltweit als potenziell gefährdet eingestuft (2015), weil alte Fichtenwälder kahlgeschlagen werden, und er war einer von 33 bedrohten Pilzen, die für die Berner Konvention vorgeschlagen wurden. Auf den Roten Listen gilt er in Schweden und Lettland als gefährdet, in Norwegen und Litauen als stark gefährdet und in Finnland als ungefährdet; Schweden beherbergt die meisten bekannten europäischen Fundorte. Die Art wurde 2006 in Lettland und 2026 in Estland zum Pilz des Jahres gewählt.",
+      "names": [
+        "Gallertkugel",
+        "Dunkle Gallertkugel"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Kugeliger_Gallertbecherling",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames",
+        "https://redlist.info/iucn/species_view/120549/"
+      ],
+      "label": "Kugeliger Gallertbecherling"
+    },
+    "en": {
+      "description": "A large, dark brown, velvety cup fungus of the genus Sarcosoma whose heavy, globose to barrel-shaped fruit bodies are filled with watery jelly and carry a glossy black disc on top. It appears in early spring, soon after the snow melts, in moss under spruce in old forests, mainly in northern Europe, and it is rare, declining and protected in several countries.",
+      "cap": "There is no cap: the whole fruit body is a cup 3–12 cm across and up to 12 cm tall. It is first almost spherical and closed, then barrel- or top-shaped with a shallow, slightly sunken disc on top; as it ages and loses water it wrinkles and flattens. The outer surface is dark brown to blackish brown, velvety and increasingly wrinkled.",
+      "hymenium": "The fertile layer forms a round disc in a shallow depression on top of the fruit body; it is smooth to finely cracked, glossy and blackish brown to black. In old fruit bodies the disc widens until it may cover almost the whole upper surface.",
+      "stipe": "There is no stem; the fruit body is sessile and sits directly in moss or needle litter, often partly sunk into it.",
+      "flesh": "The inside is filled with clear to greyish, watery jelly, which makes the fruit body surprisingly heavy for its size; one fruit body can hold 35–60 ml of liquid and is about 99% water. It is enclosed by a thick, tough, elastic outer wall. The smell and taste are indistinct.",
+      "sporePrint": "White. The spores are colourless, smooth, ellipsoid and thin-walled, about 23–30 × 7–12 µm; each ascus holds eight spores.",
+      "habitat": "A saprotroph that probably decomposes spruce needle litter, although a mycorrhizal link with spruce has not been ruled out. It grows singly or in groups in deep moss and needle litter in old, moist, nutrient-rich spruce forests on well-drained soils, often along streams and rivers or on gravel ridges. Fruit bodies appear shortly after the snow melts, mainly from February to May and locally into June. Its main range is northern Europe, especially Sweden and Finland; it also occurs in Russia, eastern North America and Armenia, but it has disappeared from much of central Europe.",
+      "uses": "Not used for food: it is considered inedible and of no culinary value, although it has occasionally been eaten where it fruits in masses and has been used in folk medicine in parts of Russia. It is legally protected in Sweden, Poland, Lithuania and Latvia, so it must not be picked.",
+      "confusion": "Its large size, watery jelly interior and velvety brown exterior make it distinctive in Europe. In western North America, Urnula padeniana and Pseudosarcosoma latahense also form dark, top-shaped, partly gelatinous fruit bodies with a black disc: Pseudosarcosoma latahense is smaller, up to 4 cm, with a short stalk and without the highly gelatinous interior, and Urnula padeniana has long dark hairs on the outside. Plectania melastoma is a much smaller black cup, up to 3 cm, with orange granules on the outside. Some North American reports may belong to such similar species.",
+      "notes": "First described by Casimir Christoph Schmidel in 1793 as Burcardia globosa and transferred to Sarcosoma by Robert Caspary in 1891. It is assessed globally as near threatened on the IUCN Red List (2015) because old spruce forests are being clear-cut, and it was one of 33 threatened fungi proposed for the Bern Convention. It is red-listed as vulnerable in Sweden and Latvia, endangered in Norway and Lithuania, and least concern in Finland; Sweden holds most of the known European sites. It was chosen as Mushroom of the Year in Latvia in 2006 and in Estonia in 2026.",
+      "names": [
+        "charred-pancake cup"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=120549",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=120549",
+        "https://www.gbif.org/species/2593417",
+        "https://en.wikipedia.org/wiki/Sarcosoma_globosum",
+        "https://www.iucnredlist.org/species/58515314/58515381",
+        "https://doi.org/10.3390/jof10040263",
+        "https://mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Sarcosoma+globosum",
+        "https://lerum.naturskyddsforeningen.se/wp-content/uploads/sites/281/2014/02/Sarcosoma_globosum_1445.pdf",
+        "https://www.myko.cz/myko-atlas/Sarcosoma-globosum/",
+        "https://grzyby.pl/gatunki/Sarcosoma_globosum.htm",
+        "https://sarkanagramata.lu.lv/suga/toverisu-sarkosoma/",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/16302",
+        "https://laji.fi/taxon/MX.238057",
+        "https://svims.ca/council/Sarcos.htm",
+        "https://www.journalssystem.com/amy/Expanded-geographical-distribution-of-Sarcosoma-globosum-witches-cauldron-in-Canada,195530,0,2.html",
+        "https://www.senes.lv/mikologubiedriba/GADA_SENES.htm",
+        "https://et.wikipedia.org/wiki/Aasta_seen",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames"
+      ],
+      "label": "witches' cauldron"
+    },
+    "es": {
+      "description": "Un hongo grande, de color marrón oscuro y aterciopelado, con forma de copa, del género Sarcosoma, cuyos cuerpos fructíferos pesados, globosos a en forma de barril, están llenos de una gelatina acuosa y llevan en la parte superior un disco negro brillante. Aparece a comienzos de la primavera, poco después del deshielo, entre el musgo bajo los abetos rojos de bosques viejos, sobre todo en el norte de Europa, y es raro, está en declive y protegido en varios países.",
+      "cap": "No tiene sombrero: todo el cuerpo fructífero es una copa de 3–12 cm de diámetro y hasta 12 cm de alto. Al principio es casi esférico y cerrado, luego en forma de barril o de peonza, con un disco poco profundo y ligeramente hundido en la parte superior; al envejecer y perder agua se arruga y se aplana. La superficie externa es marrón oscuro a marrón negruzco, aterciopelada y cada vez más arrugada.",
+      "hymenium": "La capa fértil forma un disco redondo en una depresión poco profunda en la parte superior del cuerpo fructífero; es lisa a finamente agrietada, brillante y de marrón negruzco a negra. En los ejemplares viejos el disco se ensancha hasta cubrir casi toda la superficie superior.",
+      "stipe": "No tiene pie; el cuerpo fructífero es sésil y se asienta directamente en el musgo o en la hojarasca de acículas, a menudo parcialmente hundido en ella.",
+      "flesh": "El interior está lleno de una gelatina acuosa transparente a grisácea, que hace que el cuerpo fructífero sea sorprendentemente pesado para su tamaño; un solo ejemplar puede contener 35–60 ml de líquido y está formado en un 99 % por agua. Lo rodea una pared externa gruesa, dura y elástica. El olor y el sabor son indistintos.",
+      "sporePrint": "Blanca. Las esporas son incoloras, lisas, elipsoides y de pared delgada, de unos 23–30 × 7–12 µm; cada asca contiene ocho esporas.",
+      "habitat": "Un saprótrofo que probablemente descompone la hojarasca de acículas de abeto rojo, aunque no se ha descartado una relación micorrícica con este árbol. Crece solitario o en grupos en musgo profundo y hojarasca de acículas en bosques viejos de abeto rojo, húmedos y ricos en nutrientes, sobre suelos bien drenados, a menudo junto a arroyos y ríos o en crestas de grava. Los cuerpos fructíferos aparecen poco después del deshielo, sobre todo de febrero a mayo y localmente hasta junio. Su área principal es el norte de Europa, en especial Suecia y Finlandia; también vive en Rusia, el este de Norteamérica y Armenia, pero ha desaparecido de gran parte de Europa central.",
+      "uses": "No se usa como alimento: se considera no comestible y sin valor culinario, aunque ocasionalmente se ha comido donde fructifica en masa y se ha usado en la medicina popular en partes de Rusia. Está protegido por ley en Suecia, Polonia, Lituania y Letonia, por lo que no debe recolectarse.",
+      "confusion": "Su gran tamaño, su interior de gelatina acuosa y su exterior marrón aterciopelado lo hacen inconfundible en Europa. En el oeste de Norteamérica, Urnula padeniana y Pseudosarcosoma latahense también forman cuerpos fructíferos oscuros, en forma de peonza, en parte gelatinosos y con un disco negro: Pseudosarcosoma latahense es más pequeño, de hasta 4 cm, con un pie corto y sin el interior muy gelatinoso, y Urnula padeniana tiene largos pelos oscuros en el exterior. Plectania melastoma es una copa negra mucho más pequeña, de hasta 3 cm, con gránulos anaranjados en el exterior. Algunos registros norteamericanos podrían corresponder a estas especies parecidas.",
+      "notes": "Descrito por primera vez por Casimir Christoph Schmidel en 1793 como Burcardia globosa y transferido al género Sarcosoma por Robert Caspary en 1891. En la Lista Roja de la UICN está evaluado a nivel mundial como casi amenazado (2015), porque los bosques viejos de abeto rojo se talan a matarrasa, y fue uno de los 33 hongos amenazados propuestos para el Convenio de Berna. Figura en las listas rojas como vulnerable en Suecia y Letonia, en peligro en Noruega y Lituania, y de preocupación menor en Finlandia; Suecia alberga la mayoría de las localidades europeas conocidas. La especie fue elegida seta del año en Letonia en 2006 y en Estonia en 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Suur, tumepruun, sametine karikseen perekonnast Sarcosoma, mille rasked, kerajad kuni tünnjad viljakehad on täidetud vesise želeega ja mille pealmisel küljel on läikiv must ketas. See ilmub varakevadel, varsti pärast lume sulamist, sambla sees kuuskede all vanades metsades, peamiselt Põhja-Euroopas, ning on haruldane, taanduv ja mitmes riigis kaitse all.",
+      "cap": "Kübarat ei ole: kogu viljakeha on 3–12 cm laiune ja kuni 12 cm kõrgune karikas. Algul on see peaaegu kerajas ja suletud, hiljem tünnjas või vurrkujuline, pealmisel küljel madal, veidi süvenenud ketas; vananedes ja vett kaotades see kortsub ja lameneb. Välispind on tumepruun kuni mustjaspruun, sametine ja üha kortsulisem.",
+      "hymenium": "Eoskiht moodustab viljakeha pealmisel küljel madalas lohus ümara ketta; see on sile kuni peenelt lõhenenud, läikiv ning mustjaspruun kuni must. Vanadel viljakehadel ketas laieneb, kuni võib katta peaaegu kogu ülemise pinna.",
+      "stipe": "Jalga ei ole; viljakeha on istuv ja asetseb otse samblas või okkavarises, sageli osaliselt sellesse vajunult.",
+      "flesh": "Sisemus on täidetud selge kuni hallika, vesise želeega, mis teeb viljakeha oma suuruse kohta üllatavalt raskeks; üks viljakeha võib sisaldada 35–60 ml vedelikku ja koosneb umbes 99% ulatuses veest. Seda ümbritseb paks, sitke ja elastne välissein. Lõhn ja maitse on vähemärgatavad.",
+      "sporePrint": "Valge. Eosed on värvitud, siledad, ellipsoidsed ja õhukese seinaga, umbes 23–30 × 7–12 µm; igas eoskotis on kaheksa eost.",
+      "habitat": "Saproob, mis tõenäoliselt lagundab kuuse okkavarist, kuigi mükoriisaseost kuusega ei ole välistatud. Kasvab üksikult või rühmiti sügavas samblas ja okkavarises vanades, niisketes, toitainerikastes kuusikutes hästi dreenitud mullal, sageli ojade ja jõgede ääres või kruusaseljakutel. Viljakehad ilmuvad varsti pärast lume sulamist, peamiselt veebruarist maini ja kohati juunini. Peamine levila on Põhja-Euroopas, eriti Rootsis ja Soomes; liiki leidub ka Venemaal, Põhja-Ameerika idaosas ja Armeenias, kuid suurest osast Kesk-Euroopast on see kadunud.",
+      "uses": "Toiduks ei kasutata: seda peetakse söögiks kõlbmatuks ja kulinaarse väärtuseta, kuigi kohtades, kus see massiliselt kasvab, on seda vahel söödud ning osas Venemaast on seda kasutatud rahvameditsiinis. See on seadusega kaitstud Rootsis, Poolas, Leedus ja Lätis, mistõttu seda ei tohi korjata.",
+      "confusion": "Suur kasv, vesisest želeest sisemus ja sametine pruun välispind teevad selle Euroopas eksimatult äratuntavaks. Põhja-Ameerika lääneosas moodustavad tumedaid, vurrkujulisi, osaliselt želeesarnaseid musta kettaga viljakehi ka Urnula padeniana ja Pseudosarcosoma latahense: Pseudosarcosoma latahense on väiksem, kuni 4 cm, lühikese jalaga ja ilma tugevalt želeelise sisemuseta, ning Urnula padeniana välispinnal on pikad tumedad karvad. Plectania melastoma on palju väiksem must karikas, kuni 3 cm, mille välispinnal on oranžid teraksed. Osa Põhja-Ameerika teateid võib kuuluda sellistele sarnastele liikidele.",
+      "notes": "Esmakordselt kirjeldas seda Casimir Christoph Schmidel 1793. aastal nime all Burcardia globosa ja perekonda Sarcosoma viis selle üle Robert Caspary 1891. aastal. IUCN-i punases nimestikus on see ülemaailmselt hinnatud ohulähedaseks (2015), sest vanu kuusikuid raiutakse lageraietega, ning see oli üks 33 ohustatud seenest, mida esitati Berni konventsiooni lisasse. Punastes nimestikes on see ohualdis Rootsis ja Lätis, ohustatud Norras ja Leedus ning soodsas seisundis Soomes; Rootsis asub enamik teadaolevaid Euroopa kasvukohti. Lätis valiti see 2006. aasta seeneks. Eestis 2026. aasta seen.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Limat%C3%BCnnik",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames",
+        "https://redlist.info/iucn/species_view/120549/",
+        "https://et.wikipedia.org/wiki/Aasta_seen"
+      ],
+      "label": "limatünnik"
+    },
+    "fa": {
+      "description": "قارچ فنجانی بزرگ، قهوه‌ای تیره و مخملی از سردهٔ Sarcosoma که اندام‌های باردهی سنگین، کروی تا بشکه‌ای‌شکل آن از ژلهٔ آبکی پر است و بر بالای آن‌ها صفحه‌ای سیاه و براق قرار دارد. در اوایل بهار، اندکی پس از آب شدن برف، در خزه زیر درختان نوئل در جنگل‌های کهن، به‌ویژه در شمال اروپا، ظاهر می‌شود و نادر، رو به کاهش و در چند کشور حفاظت‌شده است.",
+      "cap": "کلاهک ندارد: کل اندام باردهی فنجانی است به پهنای ۳–۱۲ cm و بلندی تا ۱۲ cm. نخست تقریباً کروی و بسته است، سپس بشکه‌ای یا فرفره‌ای می‌شود و بالای آن صفحه‌ای کم‌عمق و اندکی فرورفته دارد؛ با پیر شدن و از دست دادن آب چروکیده و پهن می‌شود. سطح بیرونی قهوه‌ای تیره تا قهوه‌ای مایل به سیاه، مخملی و رفته‌رفته چروکیده‌تر است.",
+      "hymenium": "لایهٔ بارور صفحه‌ای گرد در فرورفتگی کم‌عمقی بر بالای اندام باردهی می‌سازد؛ صاف تا ریزترک‌دار، براق و قهوه‌ای مایل به سیاه تا سیاه است. در اندام‌های باردهی پیر، صفحه پهن‌تر می‌شود تا جایی که ممکن است تقریباً همهٔ سطح بالایی را بپوشاند.",
+      "stipe": "پایه ندارد؛ اندام باردهی نشسته است و مستقیماً در خزه یا لاشبرگ سوزنی قرار می‌گیرد و اغلب بخشی از آن در آن فرو رفته است.",
+      "flesh": "درون آن از ژلهٔ آبکی شفاف تا خاکستری پر است که اندام باردهی را نسبت به اندازه‌اش به‌طرز شگفت‌آوری سنگین می‌کند؛ یک اندام باردهی می‌تواند ۳۵–۶۰ ml مایع داشته باشد و حدود ۹۹% آن آب است. دیوارهٔ بیرونی ضخیم، سخت و کشسانی آن را در بر گرفته است. بو و مزه مشخص نیست.",
+      "sporePrint": "سفید. هاگ‌ها بی‌رنگ، صاف، بیضوی و نازک‌دیواره‌اند، حدود ۲۳–۳۰ × ۷–۱۲ µm؛ هر آسک هشت هاگ دارد.",
+      "habitat": "گندرویی که احتمالاً لاشبرگ سوزنی نوئل را تجزیه می‌کند، هرچند پیوند قارچ‌ریشه‌ای با نوئل رد نشده است. به‌صورت تکی یا گروهی در خزهٔ انبوه و لاشبرگ سوزنی در جنگل‌های کهن، مرطوب و غنی از مواد مغذی نوئل بر خاک‌های دارای زهکشی خوب می‌روید، اغلب در کنار نهرها و رودها یا بر پشته‌های شنی. اندام‌های باردهی اندکی پس از آب شدن برف پدیدار می‌شوند، بیشتر از فوریه تا مه و در برخی جاها تا ژوئن. گسترهٔ اصلی آن شمال اروپا، به‌ویژه سوئد و فنلاند است؛ در روسیه، شرق آمریکای شمالی و ارمنستان نیز دیده می‌شود، اما از بخش بزرگی از اروپای مرکزی ناپدید شده است.",
+      "uses": "خوراکی نیست: آن را ناخوراکی و بی‌ارزش از نظر آشپزی می‌دانند، هرچند گاهی در جاهایی که به فراوانی می‌روید خورده شده و در بخش‌هایی از روسیه در طب عامیانه به کار رفته است. در سوئد، لهستان، لیتوانی و لتونی به‌موجب قانون حفاظت می‌شود، پس نباید آن را چید.",
+      "confusion": "اندازهٔ بزرگ، درون ژله‌ای آبکی و سطح بیرونی قهوه‌ای مخملی آن را در اروپا به‌آسانی شناختنی می‌کند. در غرب آمریکای شمالی، Urnula padeniana و Pseudosarcosoma latahense نیز اندام‌های باردهی تیره، فرفره‌ای و تا حدی ژلاتینی با صفحهٔ سیاه می‌سازند: Pseudosarcosoma latahense کوچک‌تر است، تا ۴ cm، پایه‌ای کوتاه دارد و درون آن به‌شدت ژلاتینی نیست، و Urnula padeniana در بیرون موهای بلند و تیره دارد. Plectania melastoma فنجانی سیاه و بسیار کوچک‌تر است، تا ۳ cm، با دانه‌های نارنجی در سطح بیرونی. برخی گزارش‌های آمریکای شمالی ممکن است به چنین گونه‌های مشابهی تعلق داشته باشند.",
+      "notes": "نخستین بار کازیمیر کریستوف اشمیدل در سال ۱۷۹۳ آن را با نام Burcardia globosa توصیف کرد و روبرت کاسپاری در سال ۱۸۹۱ آن را به سردهٔ Sarcosoma منتقل کرد. در فهرست سرخ IUCN در سطح جهانی «نزدیک به تهدید» (۲۰۱۵) ارزیابی شده است، زیرا جنگل‌های کهن نوئل به‌صورت قطع یکسره بریده می‌شوند، و یکی از ۳۳ قارچ در معرض تهدید بود که برای کنوانسیون برن پیشنهاد شدند. در فهرست‌های سرخ در سوئد و لتونی آسیب‌پذیر، در نروژ و لیتوانی در معرض خطر و در فنلاند کمترین نگرانی است؛ بیشتر رویشگاه‌های شناخته‌شدهٔ اروپایی در سوئد قرار دارند. این گونه در سال ۲۰۰۶ در لتونی و در سال ۲۰۲۶ در استونی به‌عنوان قارچ سال برگزیده شد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, tummanruskea, samettinen maljasieni Sarcosoma-suvusta; sen raskaat, pallomaiset tai tynnyrimäiset itiöemät ovat täynnä vetistä hyytelöä, ja niiden päällä on kiiltävä musta kiekko. Se ilmestyy aikaisin keväällä pian lumien sulamisen jälkeen sammaleeseen kuusten alle vanhoissa metsissä, lähinnä Pohjois-Euroopassa, ja se on harvinainen, taantuva ja useissa maissa suojeltu.",
+      "cap": "Lakkia ei ole: koko itiöemä on malja, joka on 3–12 cm leveä ja enintään 12 cm korkea. Aluksi se on lähes pallomainen ja suljettu, sitten tynnyrimäinen tai hyrrämäinen, ja sen päällä on matala, hieman painunut kiekko; vanhetessaan ja vettä menettäessään se rypistyy ja litistyy. Ulkopinta on tummanruskea tai mustanruskea, samettinen ja yhä ryppyisempi.",
+      "hymenium": "Hedelmällinen kerros muodostaa pyöreän kiekon matalaan kuoppaan itiöemän päälle; se on sileä tai hienosti halkeillut, kiiltävä ja mustanruskea tai musta. Vanhoissa itiöemissä kiekko levenee, kunnes se voi peittää lähes koko yläpinnan.",
+      "stipe": "Jalkaa ei ole; itiöemä on istuva ja on suoraan sammaleessa tai neulaskarikkeessa, usein osittain siihen painuneena.",
+      "flesh": "Sisus on täynnä kirkasta tai harmahtavaa, vetistä hyytelöä, joka tekee itiöemästä yllättävän painavan kokoonsa nähden; yksi itiöemä voi sisältää 35–60 ml nestettä, ja se on noin 99-prosenttisesti vettä. Sitä ympäröi paksu, sitkeä ja kimmoisa ulkoseinä. Haju ja maku ovat mitäänsanomattomat.",
+      "sporePrint": "Valkoinen. Itiöt ovat värittömiä, sileitä, ellipsoidisia ja ohutseinäisiä, noin 23–30 × 7–12 µm; jokaisessa kotelossa on kahdeksan itiötä.",
+      "habitat": "Lahottaja, joka luultavasti hajottaa kuusen neulaskariketta, vaikka sienijuurisuhdetta kuuseen ei ole suljettu pois. Se kasvaa yksittäin tai ryhminä syvässä sammaleessa ja neulaskarikkeessa vanhoissa, kosteissa ja ravinteikkaissa kuusikoissa hyvin vettä läpäisevällä maalla, usein purojen ja jokien varsilla tai soraharjuilla. Itiöemät ilmestyvät pian lumien sulamisen jälkeen, enimmäkseen helmikuusta toukokuuhun ja paikoin kesäkuulle asti. Päälevinneisyysalue on Pohjois-Euroopassa, erityisesti Ruotsissa ja Suomessa; lajia esiintyy myös Venäjällä, Pohjois-Amerikan itäosissa ja Armeniassa, mutta se on hävinnyt suurelta osalta Keski-Eurooppaa.",
+      "uses": "Ei käytetä ruokana: sitä pidetään syömäkelvottomana ja ruokana arvottomana, vaikka sitä on toisinaan syöty paikoissa, joissa se kasvaa runsaasti, ja sitä on käytetty kansanlääkinnässä osissa Venäjää. Se on lailla suojeltu Ruotsissa, Puolassa, Liettuassa ja Latviassa, joten sitä ei saa poimia.",
+      "confusion": "Suuri koko, vetisestä hyytelöstä koostuva sisus ja samettinen ruskea ulkopinta tekevät siitä Euroopassa helposti tunnistettavan. Pohjois-Amerikan länsiosissa myös Urnula padeniana ja Pseudosarcosoma latahense muodostavat tummia, hyrrämäisiä, osittain hyytelömäisiä itiöemiä, joissa on musta kiekko: Pseudosarcosoma latahense on pienempi, enintään 4 cm, sillä on lyhyt jalka eikä voimakkaasti hyytelömäistä sisusta, ja Urnula padeniana on ulkopinnaltaan pitkien tummien karvojen peittämä. Plectania melastoma on paljon pienempi musta malja, enintään 3 cm, ja sen ulkopinnalla on oransseja jyväsiä. Osa Pohjois-Amerikan havainnoista voi koskea tällaisia samannäköisiä lajeja.",
+      "notes": "Casimir Christoph Schmidel kuvasi lajin ensimmäisen kerran vuonna 1793 nimellä Burcardia globosa, ja Robert Caspary siirsi sen Sarcosoma-sukuun vuonna 1891. IUCN:n punaisella listalla se on maailmanlaajuisesti arvioitu silmälläpidettäväksi (2015), koska vanhoja kuusimetsiä avohakataan, ja se oli yksi niistä 33 uhanalaisesta sienestä, joita ehdotettiin Bernin yleissopimukseen. Punaisilla listoilla se on vaarantunut Ruotsissa ja Latviassa, erittäin uhanalainen Norjassa ja Liettuassa sekä elinvoimainen Suomessa; Ruotsissa on suurin osa tunnetuista eurooppalaisista esiintymispaikoista. Laji valittiin vuoden sieneksi Latviassa vuonna 2006 ja Virossa vuonna 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.238057",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames"
+      ],
+      "label": "hytymaljakas"
+    },
+    "fr": {
+      "description": "Un grand champignon en forme de coupe, brun foncé et velouté, du genre Sarcosoma, dont les fructifications lourdes, globuleuses à en forme de tonneau, sont remplies d’une gelée aqueuse et portent au sommet un disque noir brillant. Il apparaît au début du printemps, peu après la fonte des neiges, dans la mousse sous les épicéas des vieilles forêts, surtout en Europe du Nord, et il est rare, en déclin et protégé dans plusieurs pays.",
+      "cap": "Il n’y a pas de chapeau : toute la fructification est une coupe de 3–12 cm de diamètre et jusqu’à 12 cm de haut. D’abord presque sphérique et fermée, elle devient en tonneau ou en toupie, avec un disque peu profond, légèrement déprimé au sommet ; en vieillissant et en perdant son eau, elle se ride et s’aplatit. La face externe est brun foncé à brun noirâtre, veloutée et de plus en plus ridée.",
+      "hymenium": "La couche fertile forme un disque rond dans une dépression peu profonde au sommet de la fructification ; elle est lisse à finement craquelée, brillante, brun noirâtre à noire. Chez les vieux exemplaires, le disque s’élargit jusqu’à couvrir presque toute la face supérieure.",
+      "stipe": "Il n’y a pas de pied ; la fructification est sessile et repose directement dans la mousse ou la litière d’aiguilles, souvent en partie enfoncée.",
+      "flesh": "L’intérieur est rempli d’une gelée aqueuse transparente à grisâtre, qui rend la fructification étonnamment lourde pour sa taille ; une seule fructification peut contenir 35–60 ml de liquide et se compose d’environ 99 % d’eau. Elle est entourée d’une paroi externe épaisse, coriace et élastique. L’odeur et la saveur sont indistinctes.",
+      "sporePrint": "Blanche. Les spores sont incolores, lisses, ellipsoïdes et à paroi mince, d’environ 23–30 × 7–12 µm ; chaque asque contient huit spores.",
+      "habitat": "Un saprotrophe qui décompose probablement la litière d’aiguilles d’épicéa, bien qu’un lien mycorhizien avec l’épicéa n’ait pas été exclu. Il pousse isolé ou en groupes dans la mousse profonde et la litière d’aiguilles des vieilles pessières humides et riches en nutriments, sur des sols bien drainés, souvent le long des ruisseaux et des rivières ou sur des crêtes de gravier. Les fructifications apparaissent peu après la fonte des neiges, surtout de février à mai et localement jusqu’en juin. Son aire principale est l’Europe du Nord, en particulier la Suède et la Finlande ; il est aussi présent en Russie, dans l’est de l’Amérique du Nord et en Arménie, mais il a disparu d’une grande partie de l’Europe centrale.",
+      "uses": "Non consommé : il est considéré comme non comestible et sans valeur culinaire, bien qu’il ait parfois été mangé là où il fructifie en masse et utilisé en médecine populaire dans certaines régions de Russie. Il est légalement protégé en Suède, en Pologne, en Lituanie et en Lettonie ; il ne faut donc pas le cueillir.",
+      "confusion": "Sa grande taille, son intérieur de gelée aqueuse et sa face externe brune et veloutée le rendent caractéristique en Europe. Dans l’ouest de l’Amérique du Nord, Urnula padeniana et Pseudosarcosoma latahense forment aussi des fructifications sombres, en toupie, en partie gélatineuses, à disque noir : Pseudosarcosoma latahense est plus petit, jusqu’à 4 cm, avec un court pied et sans intérieur fortement gélatineux, et Urnula padeniana porte de longs poils sombres à l’extérieur. Plectania melastoma est une coupe noire beaucoup plus petite, jusqu’à 3 cm, avec des granules orange à l’extérieur. Certaines mentions nord-américaines pourraient concerner de telles espèces voisines.",
+      "notes": "Décrit pour la première fois par Casimir Christoph Schmidel en 1793 sous le nom de Burcardia globosa et transféré dans le genre Sarcosoma par Robert Caspary en 1891. Il est évalué au niveau mondial comme quasi menacé sur la Liste rouge de l’UICN (2015), car les vieilles forêts d’épicéas sont coupées à blanc, et il faisait partie des 33 champignons menacés proposés pour la Convention de Berne. Il figure sur les listes rouges comme vulnérable en Suède et en Lettonie, en danger en Norvège et en Lituanie, et de préoccupation mineure en Finlande ; la Suède abrite la plupart des sites européens connus. L’espèce a été choisie comme champignon de l’année en Lettonie en 2006 et en Estonie en 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Sarcosoma+globosum",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames"
+      ],
+      "label": "pézize globuleuse"
+    },
+    "he": {
+      "description": "פטרייה גביעית גדולה, חומה כהה וקטיפתית מהסוג Sarcosoma, שגופי הפרי הכבדים שלה, כדוריים עד דמויי חבית, מלאים בג׳לי מימי ונושאים בראשם דיסקה שחורה מבריקה. היא מופיעה בתחילת האביב, זמן קצר אחרי הפשרת השלג, בתוך טחב מתחת לאשוחיות ביערות עתיקים, בעיקר בצפון אירופה, והיא נדירה, הולכת ומתמעטת ומוגנת בכמה מדינות.",
+      "cap": "אין כובע: גוף הפרי כולו הוא גביע ברוחב 3–12 cm ובגובה של עד 12 cm. בתחילה הוא כמעט כדורי וסגור, אחר כך דמוי חבית או סביבון עם דיסקה רדודה ושקועה מעט בראשו; כשהוא מזדקן ומאבד מים הוא מתקמט ומשתטח. המשטח החיצוני חום כהה עד חום־שחרחר, קטיפתי ומתקמט יותר ויותר.",
+      "hymenium": "השכבה הפורייה יוצרת דיסקה עגולה בשקע רדוד בראש גוף הפרי; היא חלקה עד סדוקה דק, מבריקה, חומה־שחרחרה עד שחורה. בגופי פרי זקנים הדיסקה מתרחבת עד שהיא עשויה לכסות כמעט את כל המשטח העליון.",
+      "stipe": "אין רגל; גוף הפרי יושב ישירות בטחב או בשלכת המחטים, ולעיתים קרובות שקוע בה חלקית.",
+      "flesh": "הפנים מלא בג׳לי מימי שקוף עד אפרפר, שהופך את גוף הפרי לכבד באופן מפתיע ביחס לגודלו; גוף פרי אחד יכול להכיל 35–60 ml נוזל, וכ־99% ממנו מים. הוא עטוף בדופן חיצונית עבה, קשיחה וגמישה. הריח והטעם אינם בולטים.",
+      "sporePrint": "לבן. הנבגים חסרי צבע, חלקים, אליפסואידיים ודקי דופן, בערך 23–30 × 7–12 µm; כל נאדית מכילה שמונה נבגים.",
+      "habitat": "ספרוטרוף שכנראה מפרק שלכת מחטים של אשוחית, אף שקשר מיקוריזי עם האשוחית לא נשלל. גדל יחידי או בקבוצות בטחב עמוק ובשלכת מחטים ביערות אשוחית עתיקים, לחים ועשירים בנוטריינטים, על קרקעות מנוקזות היטב, לעיתים קרובות לאורך פלגים ונהרות או על רכסי חצץ. גופי הפרי מופיעים זמן קצר אחרי הפשרת השלג, בעיקר מפברואר עד מאי ובמקומות מסוימים עד יוני. תחום התפוצה העיקרי הוא צפון אירופה, ובמיוחד שוודיה ופינלנד; הוא נמצא גם ברוסיה, במזרח צפון אמריקה ובארמניה, אך נעלם מרוב מרכז אירופה.",
+      "uses": "אינו משמש למאכל: הוא נחשב לבלתי אכיל וחסר ערך קולינרי, אף שלעיתים נאכל במקומות שבהם הוא מניב בהמוניו ושימש ברפואה עממית בחלקים של רוסיה. הוא מוגן בחוק בשוודיה, בפולין, בליטא ובלטביה, ולכן אסור לקטוף אותו.",
+      "confusion": "גודלו הרב, פנימו העשוי ג׳לי מימי וחיצוניותו החומה והקטיפתית הופכים אותו לבלתי ניתן לטעות באירופה. במערב צפון אמריקה גם Urnula padeniana ו־Pseudosarcosoma latahense יוצרות גופי פרי כהים, דמויי סביבון, ג׳לטיניים בחלקם ובעלי דיסקה שחורה: Pseudosarcosoma latahense קטנה יותר, עד 4 cm, עם רגל קצרה וללא פנים ג׳לטיני מובהק, ול־Urnula padeniana יש שערות ארוכות וכהות בצד החיצוני. Plectania melastoma היא גביע שחור קטן בהרבה, עד 3 cm, עם גרגירים כתומים בצד החיצוני. ייתכן שחלק מהדיווחים מצפון אמריקה שייכים למינים דומים כאלה.",
+      "notes": "תואר לראשונה בידי קזימיר כריסטוף שמידל בשנת 1793 בשם Burcardia globosa והועבר לסוג Sarcosoma בידי רוברט קספרי בשנת 1891. ברשימה האדומה של IUCN הוא מוערך ברמה העולמית כקרוב לסכנה (2015), משום שיערות אשוחית עתיקים נכרתים בכריתה מלאה, והוא היה אחת מ־33 פטריות בסכנה שהוצעו לאמנת ברן. ברשימות האדומות הוא פגיע בשוודיה ובלטביה, בסכנה בנורווגיה ובליטא ובסיכון מזערי בפינלנד; רוב האתרים האירופיים המוכרים נמצאים בשוודיה. המין נבחר לפטריית השנה בלטביה בשנת 2006 ובאסטוניה בשנת 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Sarcosoma वंश का एक बड़ा, गहरा भूरा, मखमली प्याले जैसा कवक, जिसके भारी, गोलाकार से पीपे जैसे फलनकाय पानीदार जेली से भरे होते हैं और जिनके ऊपर एक चमकदार काली तश्तरी होती है। यह शुरुआती वसंत में, बर्फ़ पिघलने के कुछ ही समय बाद, पुराने जंगलों में स्प्रूस के पेड़ों के नीचे काई में, मुख्यतः उत्तरी यूरोप में दिखाई देता है; यह दुर्लभ है, घट रहा है और कई देशों में संरक्षित है।",
+      "cap": "इसकी कोई टोपी नहीं होती: पूरा फलनकाय 3–12 cm चौड़ा और 12 cm तक ऊँचा एक प्याला है। शुरू में यह लगभग गोल और बंद होता है, फिर पीपे या लट्टू जैसा हो जाता है, जिसके ऊपर एक उथली, थोड़ी धँसी हुई तश्तरी होती है; पुराना होने और पानी खोने पर यह सिकुड़कर झुर्रीदार और चपटा हो जाता है। बाहरी सतह गहरी भूरी से काली-भूरी, मखमली और लगातार अधिक झुर्रीदार होती है।",
+      "hymenium": "उर्वर परत फलनकाय के शीर्ष पर एक उथले गड्ढे में गोल तश्तरी बनाती है; यह चिकनी से बारीक दरारों वाली, चमकदार और काली-भूरी से काली होती है। पुराने फलनकायों में तश्तरी फैलती जाती है, यहाँ तक कि लगभग पूरी ऊपरी सतह को ढक सकती है।",
+      "stipe": "इसका कोई डंठल नहीं होता; फलनकाय सीधे काई या गिरी हुई सुइयों की परत में बैठा रहता है, अक्सर आंशिक रूप से उसमें धँसा हुआ।",
+      "flesh": "भीतर का भाग पारदर्शी से धूसर, पानीदार जेली से भरा होता है, जिससे फलनकाय अपने आकार के हिसाब से आश्चर्यजनक रूप से भारी होता है; एक फलनकाय में 35–60 ml द्रव समा सकता है और यह लगभग 99% पानी होता है। इसे एक मोटी, सख़्त, लचीली बाहरी दीवार घेरे रहती है। गंध और स्वाद अस्पष्ट होते हैं।",
+      "sporePrint": "सफ़ेद। बीजाणु रंगहीन, चिकने, दीर्घवृत्ताकार और पतली भित्ति वाले होते हैं, लगभग 23–30 × 7–12 µm; हर ऐस्कस में आठ बीजाणु होते हैं।",
+      "habitat": "एक मृतोपजीवी कवक, जो संभवतः स्प्रूस की गिरी हुई सुइयों को अपघटित करता है, हालाँकि स्प्रूस के साथ कवकमूल संबंध को नकारा नहीं गया है। यह पुराने, नम, पोषक तत्वों से भरपूर स्प्रूस वनों में अच्छी जल-निकासी वाली मिट्टी पर गहरी काई और सुइयों की परत में अकेले या समूहों में उगता है, अक्सर नालों और नदियों के किनारे या बजरी की कटकों पर। फलनकाय बर्फ़ पिघलने के कुछ ही समय बाद निकलते हैं, मुख्यतः फ़रवरी से मई तक और कहीं-कहीं जून तक। इसका मुख्य क्षेत्र उत्तरी यूरोप है, विशेषकर स्वीडन और फ़िनलैंड; यह रूस, पूर्वी उत्तरी अमेरिका और आर्मेनिया में भी मिलता है, लेकिन मध्य यूरोप के बड़े हिस्से से लुप्त हो चुका है।",
+      "uses": "भोजन के रूप में उपयोग नहीं होता: इसे अखाद्य और पाक-कला की दृष्टि से मूल्यहीन माना जाता है, हालाँकि जहाँ यह भारी मात्रा में उगता है वहाँ कभी-कभी खाया गया है और रूस के कुछ हिस्सों में लोक चिकित्सा में इसका उपयोग हुआ है। स्वीडन, पोलैंड, लिथुआनिया और लातविया में यह क़ानून द्वारा संरक्षित है, इसलिए इसे तोड़ना नहीं चाहिए।",
+      "confusion": "बड़ा आकार, पानीदार जेली से भरा भीतरी भाग और मखमली भूरी बाहरी सतह इसे यूरोप में आसानी से पहचानने योग्य बनाते हैं। पश्चिमी उत्तरी अमेरिका में Urnula padeniana और Pseudosarcosoma latahense भी काली तश्तरी वाले गहरे रंग के, लट्टू जैसे, आंशिक रूप से जिलेटिनी फलनकाय बनाते हैं: Pseudosarcosoma latahense छोटा होता है, 4 cm तक, छोटे डंठल वाला और बिना अत्यधिक जिलेटिनी भीतरी भाग के, जबकि Urnula padeniana की बाहरी सतह पर लंबे गहरे रोम होते हैं। Plectania melastoma कहीं छोटा काला प्याला है, 3 cm तक, जिसकी बाहरी सतह पर नारंगी कण होते हैं। उत्तरी अमेरिका के कुछ अभिलेख ऐसी मिलती-जुलती प्रजातियों के हो सकते हैं।",
+      "notes": "इसका पहला वर्णन कासिमिर क्रिस्टोफ़ श्मिडेल ने 1793 में Burcardia globosa नाम से किया और रॉबर्ट कैस्पारी ने 1891 में इसे Sarcosoma वंश में स्थानांतरित किया। IUCN की लाल सूची में इसे वैश्विक स्तर पर संकट-निकट (2015) आँका गया है, क्योंकि पुराने स्प्रूस वनों की पूरी कटाई की जा रही है, और यह बर्न कन्वेंशन के लिए प्रस्तावित 33 संकटग्रस्त कवकों में से एक था। लाल सूचियों में यह स्वीडन और लातविया में असुरक्षित, नॉर्वे और लिथुआनिया में संकटग्रस्त तथा फ़िनलैंड में कम चिंताजनक है; ज्ञात यूरोपीय स्थलों में से अधिकांश स्वीडन में हैं। इसे 2006 में लातविया में और 2026 में एस्टोनिया में वर्ष का कवक चुना गया।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, tamnosmeđa, baršunasta gljiva u obliku pehara iz roda Sarcosoma, čija su teška, kuglasta do bačvasta plodna tijela ispunjena vodenastom želatinom i na vrhu nose sjajan crni disk. Pojavljuje se u rano proljeće, ubrzo nakon otapanja snijega, u mahovini ispod smreka u starim šumama, uglavnom u sjevernoj Europi, a rijetka je, u opadanju i zaštićena u nekoliko zemalja.",
+      "cap": "Klobuka nema: cijelo plodno tijelo je pehar širok 3–12 cm i visok do 12 cm. Isprva je gotovo kuglast i zatvoren, zatim bačvast ili zvrkast s plitkim, blago udubljenim diskom na vrhu; kako stari i gubi vodu, nabire se i spljoštava. Vanjska površina je tamnosmeđa do crnosmeđa, baršunasta i sve naboranija.",
+      "hymenium": "Plodni sloj tvori okrugli disk u plitkom udubljenju na vrhu plodnog tijela; gladak je do sitno ispucan, sjajan, crnosmeđ do crn. Kod starih plodnih tijela disk se širi dok ne prekrije gotovo cijelu gornju površinu.",
+      "stipe": "Stručka nema; plodno tijelo je sjedeće i stoji izravno u mahovini ili u iglicama, često djelomično utonulo u njih.",
+      "flesh": "Unutrašnjost je ispunjena prozirnom do sivkastom, vodenastom želatinom, zbog koje je plodno tijelo iznenađujuće teško za svoju veličinu; jedno plodno tijelo može sadržavati 35–60 ml tekućine i sastoji se od oko 99 % vode. Obavija je debela, žilava, elastična vanjska stijenka. Miris i okus su neupadljivi.",
+      "sporePrint": "Bijeli. Spore su bezbojne, glatke, elipsoidne i tankih stijenki, oko 23–30 × 7–12 µm; svaki askus sadrži osam spora.",
+      "habitat": "Saprotrof koji vjerojatno razgrađuje smrekove iglice, iako mikorizna veza sa smrekom nije isključena. Raste pojedinačno ili u skupinama u dubokoj mahovini i iglicama u starim, vlažnim, hranjivima bogatim smrekovim šumama na dobro dreniranim tlima, često uz potoke i rijeke ili na šljunčanim grebenima. Plodna tijela pojavljuju se ubrzo nakon otapanja snijega, uglavnom od veljače do svibnja, a mjestimično do lipnja. Glavno područje rasprostranjenosti je sjeverna Europa, osobito Švedska i Finska; raste i u Rusiji, istočnoj Sjevernoj Americi i Armeniji, ali je nestala iz velikog dijela srednje Europe.",
+      "uses": "Ne koristi se za jelo: smatra se nejestivom i bez kulinarske vrijednosti, iako se ponegdje gdje masovno plodonosi povremeno jela i u dijelovima Rusije koristila u narodnoj medicini. Zakonom je zaštićena u Švedskoj, Poljskoj, Litvi i Latviji, pa se ne smije brati.",
+      "confusion": "Velika veličina, unutrašnjost od vodenaste želatine i baršunasta smeđa vanjska strana čine je u Europi nepogrešivom. Na zapadu Sjeverne Amerike tamna, zvrkasta, djelomično želatinozna plodna tijela s crnim diskom stvaraju i Urnula padeniana i Pseudosarcosoma latahense: Pseudosarcosoma latahense je manja, do 4 cm, s kratkim stručkom i bez izrazito želatinozne unutrašnjosti, a Urnula padeniana izvana ima duge tamne dlake. Plectania melastoma je mnogo manji crni pehar, do 3 cm, s narančastim zrncima izvana. Neki sjevernoamerički nalazi mogu pripadati takvim sličnim vrstama.",
+      "notes": "Prvi ju je opisao Casimir Christoph Schmidel 1793. kao Burcardia globosa, a u rod Sarcosoma premjestio ju je Robert Caspary 1891. Na Crvenom popisu IUCN-a globalno je procijenjena kao gotovo ugrožena (2015) jer se stare smrekove šume sijeku golom sječom, a bila je jedna od 33 ugrožene gljive predložene za Bernsku konvenciju. Na crvenim popisima osjetljiva je u Švedskoj i Latviji, ugrožena u Norveškoj i Litvi te najmanje zabrinjavajuća u Finskoj; Švedska ima većinu poznatih europskih nalazišta. Izabrana je za gljivu godine u Latviji 2006. i u Estoniji 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Nagy, sötétbarna, bársonyos csészegomba a Sarcosoma nemzetségből, amelynek nehéz, gömbölyű vagy hordó alakú termőtestei vizes kocsonyával teltek, tetejükön pedig fényes fekete korong ül. Kora tavasszal, nem sokkal a hóolvadás után jelenik meg mohában, lucfenyők alatt, idős erdőkben, főként Észak-Európában, és ritka, visszaszorulóban van, több országban pedig védett.",
+      "cap": "Kalapja nincs: az egész termőtest egy 3–12 cm széles és legfeljebb 12 cm magas csésze. Eleinte majdnem gömb alakú és zárt, később hordó vagy pörgettyű alakú, tetején sekély, kissé bemélyedő koronggal; öregedve és vizet veszítve ráncosodik és ellaposodik. Külső felülete sötétbarna vagy feketésbarna, bársonyos és egyre ráncosabb.",
+      "hymenium": "A termőréteg kerek korongot alkot a termőtest tetején lévő sekély mélyedésben; sima vagy finoman repedezett, fényes, feketésbarna vagy fekete. Az idős termőtesteken a korong kiszélesedik, míg csaknem az egész felső felületet beboríthatja.",
+      "stipe": "Tönkje nincs; a termőtest ülő, közvetlenül a mohában vagy a tűavarban ül, gyakran részben belesüllyedve.",
+      "flesh": "Belsejét átlátszó vagy szürkés, vizes kocsonya tölti ki, ezért a termőtest méretéhez képest meglepően nehéz; egyetlen termőtest 35–60 ml folyadékot tartalmazhat, és mintegy 99%-a víz. Vastag, szívós, rugalmas külső fal veszi körül. Szaga és íze jellegtelen.",
+      "sporePrint": "Fehér. A spórák színtelenek, simák, ellipszoidok és vékony falúak, kb. 23–30 × 7–12 µm-esek; minden aszkusz nyolc spórát tartalmaz.",
+      "habitat": "Szaprotróf gomba, amely valószínűleg a lucfenyő tűavarát bontja, bár a lucfenyővel való mikorrhizás kapcsolatot nem zárták ki. Magányosan vagy csoportosan nő mély mohában és tűavarban idős, nedves, tápanyagban gazdag lucosokban, jó vízáteresztő talajon, gyakran patakok és folyók mentén vagy kavicsos hátakon. A termőtestek nem sokkal a hóolvadás után jelennek meg, főként februártól májusig, helyenként júniusig. Fő elterjedési területe Észak-Európa, különösen Svédország és Finnország; előfordul Oroszországban, Észak-Amerika keleti részén és Örményországban is, Közép-Európa nagy részéből azonban eltűnt.",
+      "uses": "Étkezésre nem használják: ehetetlennek és konyhai szempontból értéktelennek tartják, bár ahol tömegesen terem, alkalmanként megették, és Oroszország egyes részein a népi gyógyászatban is használták. Svédországban, Lengyelországban, Litvániában és Lettországban törvény védi, ezért nem szabad leszedni.",
+      "confusion": "Nagy mérete, vizes kocsonyás belseje és bársonyos barna külseje Európában összetéveszthetetlenné teszi. Észak-Amerika nyugati részén az Urnula padeniana és a Pseudosarcosoma latahense is sötét, pörgettyű alakú, részben kocsonyás, fekete korongú termőtesteket hoz: a Pseudosarcosoma latahense kisebb, legfeljebb 4 cm-es, rövid tönkkel és erősen kocsonyás belső nélkül, az Urnula padeniana külsején pedig hosszú, sötét szőrök vannak. A Plectania melastoma sokkal kisebb, legfeljebb 3 cm-es fekete csésze, külsején narancssárga szemcsékkel. Egyes észak-amerikai adatok ilyen hasonló fajokra vonatkozhatnak.",
+      "notes": "Elsőként Casimir Christoph Schmidel írta le 1793-ban Burcardia globosa néven, a Sarcosoma nemzetségbe pedig Robert Caspary helyezte át 1891-ben. Az IUCN Vörös Listáján világszinten mérsékelten fenyegetett (2015), mert az idős lucfenyőerdőket tarra vágják, és egyike volt annak a 33 veszélyeztetett gombának, amelyeket a Berni Egyezménybe javasoltak. A vörös listákon Svédországban és Lettországban sérülékeny, Norvégiában és Litvániában veszélyeztetett, Finnországban pedig nem veszélyeztetett; az ismert európai lelőhelyek többsége Svédországban van. A fajt 2006-ban Lettországban, 2026-ban Észtországban választották az év gombájának.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur mangkuk besar berwarna cokelat tua dan berbulu halus seperti beludru dari genus Sarcosoma, yang tubuh buahnya berat, bulat hingga berbentuk tong, berisi jeli berair dan memiliki cakram hitam mengilap di bagian atas. Jamur ini muncul pada awal musim semi, tidak lama setelah salju mencair, di antara lumut di bawah pohon cemara spruce di hutan tua, terutama di Eropa utara, dan tergolong langka, terus menurun, serta dilindungi di beberapa negara.",
+      "cap": "Tidak ada tudung: seluruh tubuh buah adalah mangkuk berdiameter 3–12 cm dan tinggi hingga 12 cm. Mula-mula hampir bulat dan tertutup, lalu berbentuk tong atau gasing dengan cakram dangkal yang sedikit cekung di bagian atas; seiring bertambah tua dan kehilangan air, tubuh buah mengerut dan memipih. Permukaan luarnya cokelat tua hingga cokelat kehitaman, seperti beludru, dan makin lama makin berkerut.",
+      "hymenium": "Lapisan subur membentuk cakram bundar di cekungan dangkal di puncak tubuh buah; permukaannya halus hingga retak-retak halus, mengilap, dan cokelat kehitaman hingga hitam. Pada tubuh buah tua, cakram melebar hingga dapat menutupi hampir seluruh permukaan atas.",
+      "stipe": "Tidak ada tangkai; tubuh buah duduk langsung di lumut atau serasah daun jarum, sering kali sebagian terbenam di dalamnya.",
+      "flesh": "Bagian dalamnya berisi jeli berair yang bening hingga keabu-abuan, sehingga tubuh buah terasa sangat berat untuk ukurannya; satu tubuh buah dapat menampung 35–60 ml cairan dan sekitar 99% terdiri atas air. Jeli itu diselubungi dinding luar yang tebal, liat, dan lentur. Bau dan rasanya tidak khas.",
+      "sporePrint": "Putih. Sporanya tidak berwarna, halus, elipsoid, dan berdinding tipis, sekitar 23–30 × 7–12 µm; setiap askus berisi delapan spora.",
+      "habitat": "Saprotrof yang kemungkinan besar menguraikan serasah daun jarum spruce, meskipun hubungan mikoriza dengan spruce belum dapat disingkirkan. Tumbuh soliter atau berkelompok di lumut tebal dan serasah daun jarum di hutan spruce tua yang lembap dan kaya hara, pada tanah yang drainasenya baik, sering di sepanjang sungai kecil dan sungai atau di punggungan kerikil. Tubuh buah muncul tidak lama setelah salju mencair, terutama dari Februari hingga Mei dan di beberapa tempat hingga Juni. Wilayah sebaran utamanya adalah Eropa utara, khususnya Swedia dan Finlandia; jamur ini juga ditemukan di Rusia, Amerika Utara bagian timur, dan Armenia, tetapi telah menghilang dari sebagian besar Eropa tengah.",
+      "uses": "Tidak dimanfaatkan sebagai makanan: dianggap tidak dapat dimakan dan tidak bernilai kuliner, meskipun kadang dimakan di tempat ia tumbuh melimpah dan pernah dipakai dalam pengobatan tradisional di beberapa wilayah Rusia. Jamur ini dilindungi undang-undang di Swedia, Polandia, Lituania, dan Latvia, sehingga tidak boleh dipetik.",
+      "confusion": "Ukurannya yang besar, bagian dalam berupa jeli berair, dan permukaan luar cokelat seperti beludru membuatnya mudah dikenali di Eropa. Di Amerika Utara bagian barat, Urnula padeniana dan Pseudosarcosoma latahense juga membentuk tubuh buah gelap berbentuk gasing yang sebagian bergelatin dengan cakram hitam: Pseudosarcosoma latahense lebih kecil, hingga 4 cm, bertangkai pendek dan tanpa bagian dalam yang sangat bergelatin, sedangkan Urnula padeniana memiliki rambut panjang gelap di sisi luarnya. Plectania melastoma adalah mangkuk hitam yang jauh lebih kecil, hingga 3 cm, dengan butiran jingga di sisi luar. Sebagian laporan dari Amerika Utara mungkin sebenarnya merupakan spesies serupa tersebut.",
+      "notes": "Pertama kali dideskripsikan oleh Casimir Christoph Schmidel pada 1793 sebagai Burcardia globosa dan dipindahkan ke genus Sarcosoma oleh Robert Caspary pada 1891. Dalam Daftar Merah IUCN, jamur ini dinilai secara global sebagai hampir terancam (2015) karena hutan spruce tua ditebang habis, dan merupakan salah satu dari 33 jamur terancam yang diusulkan untuk Konvensi Bern. Dalam daftar merah, statusnya rentan di Swedia dan Latvia, genting di Norwegia dan Lituania, serta risiko rendah di Finlandia; Swedia memiliki sebagian besar lokasi Eropa yang diketahui. Spesies ini dipilih sebagai jamur tahunan di Latvia pada 2006 dan di Estonia pada 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande fungo a coppa, bruno scuro e vellutato, del genere Sarcosoma, i cui corpi fruttiferi pesanti, da globosi a forma di botte, sono pieni di una gelatina acquosa e portano in cima un disco nero lucido. Compare all’inizio della primavera, poco dopo lo scioglimento della neve, nel muschio sotto gli abeti rossi dei boschi vecchi, soprattutto nel Nord Europa, ed è raro, in declino e protetto in diversi paesi.",
+      "cap": "Non c’è cappello: l’intero corpo fruttifero è una coppa larga 3–12 cm e alta fino a 12 cm. All’inizio è quasi sferico e chiuso, poi a botte o a trottola con un disco poco profondo e leggermente infossato in cima; invecchiando e perdendo acqua si raggrinzisce e si appiattisce. La superficie esterna è bruno scura fino a bruno nerastra, vellutata e sempre più rugosa.",
+      "hymenium": "Lo strato fertile forma un disco rotondo in una depressione poco profonda sulla sommità del corpo fruttifero; è liscio o finemente screpolato, lucido, da bruno nerastro a nero. Negli esemplari vecchi il disco si allarga fino a coprire quasi tutta la superficie superiore.",
+      "stipe": "Non c’è gambo; il corpo fruttifero è sessile e poggia direttamente nel muschio o nella lettiera di aghi, spesso in parte affondato.",
+      "flesh": "L’interno è pieno di una gelatina acquosa da trasparente a grigiastra, che rende il corpo fruttifero sorprendentemente pesante per le sue dimensioni; un solo esemplare può contenere 35–60 ml di liquido ed è composto per circa il 99% d’acqua. È racchiusa da una parete esterna spessa, tenace ed elastica. Odore e sapore sono indistinti.",
+      "sporePrint": "Bianca. Le spore sono incolori, lisce, ellissoidi e a parete sottile, circa 23–30 × 7–12 µm; ogni asco contiene otto spore.",
+      "habitat": "Un saprotrofo che probabilmente decompone la lettiera di aghi di abete rosso, anche se non è stato escluso un legame micorrizico con l’abete rosso. Cresce isolato o in gruppi nel muschio profondo e nella lettiera di aghi di vecchie peccete umide e ricche di nutrienti, su suoli ben drenati, spesso lungo ruscelli e fiumi o su dorsali ghiaiose. I corpi fruttiferi compaiono poco dopo lo scioglimento della neve, soprattutto da febbraio a maggio e localmente fino a giugno. L’areale principale è il Nord Europa, in particolare Svezia e Finlandia; è presente anche in Russia, nel Nord America orientale e in Armenia, ma è scomparso da gran parte dell’Europa centrale.",
+      "uses": "Non si usa come alimento: è considerato non commestibile e senza valore culinario, anche se occasionalmente è stato mangiato dove fruttifica in massa ed è stato usato nella medicina popolare in alcune parti della Russia. È protetto per legge in Svezia, Polonia, Lituania e Lettonia, quindi non va raccolto.",
+      "confusion": "Le grandi dimensioni, l’interno di gelatina acquosa e la superficie esterna bruna e vellutata lo rendono inconfondibile in Europa. Nel Nord America occidentale anche Urnula padeniana e Pseudosarcosoma latahense formano corpi fruttiferi scuri, a trottola, in parte gelatinosi, con un disco nero: Pseudosarcosoma latahense è più piccolo, fino a 4 cm, con un gambo corto e senza l’interno fortemente gelatinoso, e Urnula padeniana ha lunghi peli scuri all’esterno. Plectania melastoma è una coppa nera molto più piccola, fino a 3 cm, con granuli arancioni all’esterno. Alcune segnalazioni nordamericane potrebbero riferirsi a queste specie simili.",
+      "notes": "Descritto per la prima volta da Casimir Christoph Schmidel nel 1793 come Burcardia globosa e trasferito nel genere Sarcosoma da Robert Caspary nel 1891. Nella Lista Rossa IUCN è valutato a livello globale come quasi minacciato (2015), perché le vecchie foreste di abete rosso vengono tagliate a raso, ed era uno dei 33 funghi minacciati proposti per la Convenzione di Berna. Nelle liste rosse è vulnerabile in Svezia e Lettonia, in pericolo in Norvegia e Lituania e a rischio minimo in Finlandia; la Svezia ospita la maggior parte dei siti europei noti. La specie è stata scelta come fungo dell’anno in Lettonia nel 2006 e in Estonia nel 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Sarcosoma属の大型で暗褐色、ビロード状の盤菌で、重く、球形から樽形の子実体は水っぽいゼリーで満たされ、頂部に光沢のある黒い円盤をもつ。早春、雪解けの直後に、古い森林のトウヒの下のコケの中に現れ、主に北ヨーロッパに分布する。まれで減少しており、いくつかの国で保護されている。",
+      "cap": "傘はない。子実体全体が直径3–12 cm、高さ最大12 cmの椀である。初めはほぼ球形で閉じているが、のちに樽形またはこま形になり、頂部に浅くわずかにくぼんだ円盤ができる。老熟して水分を失うと、しわが寄って平たくなる。外面は暗褐色から黒褐色で、ビロード状、次第にしわが深くなる。",
+      "hymenium": "子実層は子実体の頂部の浅いくぼみに丸い円盤をつくる。平滑から細かくひび割れ、光沢があり、黒褐色から黒色。古い子実体では円盤が広がり、上面のほぼ全体を覆うこともある。",
+      "stipe": "柄はない。子実体は無柄で、コケや針葉の落葉層の中に直接座り、しばしば一部が埋もれている。",
+      "flesh": "内部は透明から灰色がかった水っぽいゼリーで満たされ、そのため子実体は大きさの割に驚くほど重い。一つの子実体は35–60 mlの液体を含むことがあり、約99%が水である。厚く強靱で弾力のある外壁に包まれている。におい・味は特にない。",
+      "sporePrint": "白色。胞子は無色、平滑、楕円形で壁が薄く、約23–30 × 7–12 µm。各子嚢に胞子が八個入る。",
+      "habitat": "腐生菌で、おそらくトウヒの針葉の落葉を分解するが、トウヒとの菌根関係は否定されていない。水はけのよい土壌の、湿った栄養豊富なトウヒの老齢林で、深いコケや針葉の落葉層の中に単生または群生し、しばしば小川や川沿い、砂礫の尾根に見られる。子実体は雪解け直後に現れ、主に二月から五月、場所によっては六月まで見られる。主な分布域は北ヨーロッパ、特にスウェーデンとフィンランドで、ロシア、北アメリカ東部、アルメニアにも分布するが、中央ヨーロッパの大部分からは姿を消した。",
+      "uses": "食用にはされない。食不適で料理上の価値はないとされるが、大量に発生する場所ではときに食べられ、ロシアの一部では民間療法に用いられてきた。スウェーデン、ポーランド、リトアニア、ラトビアでは法律で保護されているため、採取してはならない。",
+      "confusion": "大きさ、水っぽいゼリー状の内部、ビロード状の褐色の外面により、ヨーロッパでは見誤りにくい。北アメリカ西部では、Urnula padenianaとPseudosarcosoma latahenseも、黒い円盤をもつ暗色でこま形の、部分的にゼラチン質の子実体をつくる。Pseudosarcosoma latahenseはより小さく、最大4 cmで、短い柄があり、強いゼラチン質の内部をもたない。Urnula padenianaは外面に長い暗色の毛がある。Plectania melastomaははるかに小さい黒い椀で、最大3 cm、外面にオレンジ色の顆粒がある。北アメリカの記録の一部は、こうした類似種に当たる可能性がある。",
+      "notes": "1793年にカジミール・クリストフ・シュミーデルがBurcardia globosaとして初めて記載し、1891年にロベルト・カスパリーがSarcosoma属に移した。IUCNレッドリストでは、古いトウヒ林が皆伐されているため、世界的に準絶滅危惧（2015）と評価され、ベルン条約への掲載が提案された33種の絶滅危惧菌類の一つであった。各国のレッドリストでは、スウェーデンとラトビアで危急、ノルウェーとリトアニアで絶滅危惧、フィンランドで低懸念とされ、既知のヨーロッパの産地の大半はスウェーデンにある。2006年にラトビアで、2026年にエストニアでその年を代表するきのこに選ばれた。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "Sarcosoma 속의 크고 짙은 갈색이며 벨벳 같은 컵버섯으로, 무겁고 공 모양에서 통 모양인 자실체는 물기 많은 젤리로 차 있으며 꼭대기에 광택 있는 검은 원반을 지닌다. 이른 봄, 눈이 녹은 직후 오래된 숲의 가문비나무 아래 이끼 속에 나타나며 주로 북유럽에 분포하고, 드물고 감소하고 있으며 여러 나라에서 보호받는다.",
+      "cap": "갓은 없다: 자실체 전체가 지름 3–12 cm, 높이 최대 12 cm의 컵이다. 처음에는 거의 공 모양이고 닫혀 있다가, 이후 통 모양이나 팽이 모양이 되며 꼭대기에 얕고 약간 오목한 원반이 생긴다. 늙어서 물을 잃으면 주름지고 납작해진다. 바깥 면은 짙은 갈색에서 흑갈색이며, 벨벳 같고 점점 더 주름진다.",
+      "hymenium": "자실층은 자실체 꼭대기의 얕은 오목한 곳에 둥근 원반을 이룬다. 매끈하거나 잘게 갈라지고, 광택이 있으며 흑갈색에서 검은색이다. 오래된 자실체에서는 원반이 넓어져 윗면 거의 전체를 덮기도 한다.",
+      "stipe": "자루는 없다. 자실체는 자루 없이 이끼나 바늘잎 낙엽층에 바로 앉아 있으며, 흔히 일부가 그 속에 묻혀 있다.",
+      "flesh": "속은 투명하거나 회색빛을 띠는 물기 많은 젤리로 차 있어 자실체가 크기에 비해 놀랄 만큼 무겁다. 자실체 하나에 35–60 ml의 액체가 들어 있을 수 있으며 약 99%가 물이다. 두껍고 질기며 탄력 있는 바깥벽이 이를 감싼다. 냄새와 맛은 뚜렷하지 않다.",
+      "sporePrint": "흰색. 포자는 무색이고 매끈하며 타원형이고 벽이 얇으며, 약 23–30 × 7–12 µm이다. 자낭마다 포자가 여덟 개씩 들어 있다.",
+      "habitat": "가문비나무 바늘잎 낙엽을 분해하는 것으로 보이는 부생균이지만, 가문비나무와의 균근 관계도 배제되지 않았다. 배수가 잘되는 토양의 습하고 영양이 풍부한 오래된 가문비나무 숲에서 깊은 이끼와 바늘잎 낙엽층 속에 홀로 또는 무리 지어 자라며, 흔히 개울과 강을 따라 또는 자갈 능선 위에서 볼 수 있다. 자실체는 눈이 녹은 직후에 나타나며, 주로 이월부터 오월까지, 곳에 따라 유월까지 보인다. 주요 분포지는 북유럽, 특히 스웨덴과 핀란드이며, 러시아, 북아메리카 동부, 아르메니아에도 나지만 중부 유럽 대부분에서는 사라졌다.",
+      "uses": "식용으로 쓰이지 않는다: 먹을 수 없고 요리 가치가 없는 것으로 여겨지지만, 대량으로 나는 곳에서는 가끔 먹었고 러시아 일부 지역에서는 민간요법에 쓰였다. 스웨덴, 폴란드, 리투아니아, 라트비아에서는 법으로 보호되므로 채취해서는 안 된다.",
+      "confusion": "큰 크기, 물기 많은 젤리 같은 속, 벨벳 같은 갈색 바깥 면 때문에 유럽에서는 쉽게 구별된다. 북아메리카 서부에서는 Urnula padeniana와 Pseudosarcosoma latahense도 검은 원반을 지닌 어둡고 팽이 모양이며 부분적으로 젤라틴질인 자실체를 만든다. Pseudosarcosoma latahense는 더 작아 최대 4 cm이고, 짧은 자루가 있으며 강한 젤라틴질 속이 없다. Urnula padeniana는 바깥 면에 긴 짙은 털이 있다. Plectania melastoma는 훨씬 작은 검은 컵으로 최대 3 cm이며, 바깥 면에 주황색 알갱이가 있다. 북아메리카의 일부 기록은 이런 비슷한 종에 해당할 수 있다.",
+      "notes": "1793년 카지미어 크리스토프 슈미델이 Burcardia globosa라는 이름으로 처음 기재했고, 1891년 로베르트 카스파리가 Sarcosoma 속으로 옮겼다. IUCN 적색목록에서는 오래된 가문비나무 숲이 개벌되고 있기 때문에 전 세계적으로 준위협(2015)으로 평가되며, 베른 협약에 제안된 33종의 위협받는 균류 가운데 하나였다. 각국 적색목록에서 스웨덴과 라트비아에서는 취약, 노르웨이와 리투아니아에서는 위기, 핀란드에서는 관심 필요 없음으로 평가되며, 알려진 유럽 산지 대부분이 스웨덴에 있다. 2006년 라트비아와 2026년 에스토니아에서 올해의 버섯으로 선정되었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelis, tamsiai rudas, aksominis taurėtasis grybas iš Sarcosoma genties, kurio sunkūs, rutuliški ar statinės formos vaisiakūniai pripildyti vandeningų drebučių, o viršuje turi blizgų juodą diską. Jis pasirodo ankstyvą pavasarį, netrukus po sniego tirpsmo, samanose po eglėmis senuose miškuose, daugiausia Šiaurės Europoje, ir yra retas, nykstantis bei keliose šalyse saugomas.",
+      "cap": "Kepurėlės nėra: visas vaisiakūnis yra 3–12 cm skersmens ir iki 12 cm aukščio taurė. Iš pradžių jis beveik rutuliškas ir uždaras, vėliau statinės ar vilkelio formos su seklu, šiek tiek įdubusiu disku viršuje; senstant ir netenkant vandens raukšlėjasi ir suplokštėja. Išorinis paviršius tamsiai rudas iki juosvai rudo, aksominis ir vis raukšlėtesnis.",
+      "hymenium": "Vaisingasis sluoksnis sudaro apvalų diską seklioje įduboje vaisiakūnio viršuje; jis lygus ar smulkiai suskilinėjęs, blizgus, juosvai rudas iki juodo. Senų vaisiakūnių diskas platėja, kol gali uždengti beveik visą viršutinį paviršių.",
+      "stipe": "Kotelio nėra; vaisiakūnis bekotis ir tupi tiesiai samanose ar spyglių paklotėje, dažnai iš dalies į ją įsigilinęs.",
+      "flesh": "Vidų užpildo skaidrūs ar pilkšvi vandeningi drebučiai, todėl vaisiakūnis savo dydžiui stebėtinai sunkus; vienas vaisiakūnis gali talpinti 35–60 ml skysčio ir maždaug 99 % sudarytas iš vandens. Juos gaubia stora, kieta, elastinga išorinė sienelė. Kvapas ir skonis neišsiskiriantys.",
+      "sporePrint": "Baltos. Sporos bespalvės, lygios, elipsiškos ir plonasienės, maždaug 23–30 × 7–12 µm; kiekviename aukšlyje yra aštuonios sporos.",
+      "habitat": "Saprotrofas, kuris tikriausiai skaido eglių spyglių paklotę, nors mikorizinis ryšys su egle neatmestas. Auga pavieniui ar grupėmis giliose samanose ir spyglių paklotėje senuose, drėgnuose, maisto medžiagų turtinguose eglynuose ant gerai drenuotų dirvožemių, dažnai palei upelius ir upes arba ant žvyro kalvagūbrių. Vaisiakūniai pasirodo netrukus po sniego tirpsmo, daugiausia nuo vasario iki gegužės, o vietomis iki birželio. Pagrindinis arealas yra Šiaurės Europoje, ypač Švedijoje ir Suomijoje; jis taip pat aptinkamas Rusijoje, rytinėje Šiaurės Amerikoje ir Armėnijoje, tačiau iš didelės Vidurio Europos dalies išnyko.",
+      "uses": "Maistui nenaudojamas: laikomas nevalgomu ir neturinčiu kulinarinės vertės, nors ten, kur masiškai dera, kartais būdavo valgomas, o kai kuriose Rusijos vietose naudotas liaudies medicinoje. Švedijoje, Lenkijoje, Lietuvoje ir Latvijoje jis saugomas įstatymu, todėl jo rinkti negalima.",
+      "confusion": "Dideli matmenys, vandeningų drebučių vidus ir aksominis rudas išorinis paviršius daro jį Europoje nesupainiojamą. Vakarinėje Šiaurės Amerikoje tamsius, vilkelio formos, iš dalies drebutinius vaisiakūnius su juodu disku taip pat sudaro Urnula padeniana ir Pseudosarcosoma latahense: Pseudosarcosoma latahense mažesnė, iki 4 cm, su trumpu koteliu ir be stipriai drebutinio vidaus, o Urnula padeniana išorėje turi ilgus tamsius plaukelius. Plectania melastoma yra daug mažesnė juoda taurelė, iki 3 cm, su oranžiniais grūdeliais išorėje. Kai kurie Šiaurės Amerikos radiniai gali priklausyti tokioms panašioms rūšims.",
+      "notes": "Pirmą kartą jį aprašė Casimir Christoph Schmidel 1793 metais kaip Burcardia globosa, o į Sarcosoma gentį perkėlė Robert Caspary 1891 metais. IUCN Raudonajame sąraše jis pasauliniu mastu įvertintas kaip beveik grėsmingas (2015), nes seni eglynai kertami plynai, ir buvo vienas iš 33 nykstančių grybų, pasiūlytų įtraukti į Berno konvenciją. Raudonuosiuose sąrašuose jis pažeidžiamas Švedijoje ir Latvijoje, nykstantis Norvegijoje ir Lietuvoje ir mažiausiai susirūpinimo keliantis Suomijoje; Švedijoje yra dauguma žinomų Europos radaviečių. Latvijoje jis buvo išrinktas 2006 m. metų grybu, o Estijoje – 2026 m.",
+      "names": [],
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Fungi_2_Kutorga.pdf",
+        "https://lt.wikipedia.org/wiki/Paprastasis_taukius"
+      ],
+      "label": "paprastasis taukius"
+    },
+    "lv": {
+      "description": "Liela, tumši brūna, samtaina kaussēne no Sarcosoma ģints, kuras smagie, lodveida līdz mucveida augļķermeņi ir pildīti ar ūdeņainu recekli un augšpusē nes spīdīgu melnu disku. Tā parādās agrā pavasarī, drīz pēc sniega nokušanas, sūnās zem eglēm vecos mežos, galvenokārt Ziemeļeiropā, un ir reta, izzūdoša un vairākās valstīs aizsargāta.",
+      "cap": "Cepurītes nav: viss augļķermenis ir kauss 3–12 cm platumā un līdz 12 cm augstumā. Sākumā tas ir gandrīz lodveida un slēgts, vēlāk mucveida vai vilciņveida ar seklu, nedaudz iegrimušu disku augšpusē; novecojot un zaudējot ūdeni, tas saraujas grumbās un saplok. Ārējā virsma ir tumši brūna līdz melnbrūna, samtaina un arvien grumbaināka.",
+      "hymenium": "Auglīgais slānis veido apaļu disku seklā iedobē augļķermeņa augšpusē; tas ir gluds līdz smalki saplaisājis, spīdīgs, melnbrūns līdz melns. Veciem augļķermeņiem disks paplašinās, līdz var nosegt gandrīz visu augšējo virsmu.",
+      "stipe": "Kātiņa nav; augļķermenis ir sēdošs un atrodas tieši sūnās vai skuju nobirās, bieži daļēji tajās iegrimis.",
+      "flesh": "Iekšpusi pilda dzidrs līdz pelēcīgs ūdeņains receklis, kas padara augļķermeni pārsteidzoši smagu tā lielumam; viens augļķermenis var saturēt 35–60 ml šķidruma, un tas ir aptuveni 99 % ūdens. To ietver bieza, cieta, elastīga ārējā siena. Smarža un garša ir neizteiksmīgas.",
+      "sporePrint": "Balti. Sporas ir bezkrāsainas, gludas, elipsoīdas un plānsienu, aptuveni 23–30 × 7–12 µm; katrā asku ir astoņas sporas.",
+      "habitat": "Saprotrofs, kas, iespējams, sadala egļu skuju nobiras, lai gan mikorizas saikne ar egli nav izslēgta. Aug pa vienam vai grupās dziļās sūnās un skuju nobirās vecos, mitros, barības vielām bagātos egļu mežos uz labi drenētām augsnēm, bieži gar strautiem un upēm vai uz grants vaļņiem. Augļķermeņi parādās drīz pēc sniega nokušanas, galvenokārt no februāra līdz maijam un vietām līdz jūnijam. Galvenais areāls ir Ziemeļeiropā, īpaši Zviedrijā un Somijā; tā sastopama arī Krievijā, Ziemeļamerikas austrumos un Armēnijā, bet lielā daļā Centrāleiropas tā ir izzudusi.",
+      "uses": "Uzturā neizmanto: to uzskata par neēdamu un bez kulinārās vērtības, lai gan vietās, kur tā aug masveidā, to reizēm ir ēduši un dažos Krievijas apvidos lietojuši tautas medicīnā. Zviedrijā, Polijā, Lietuvā un Latvijā tā ir aizsargāta ar likumu, tāpēc to nedrīkst vākt.",
+      "confusion": "Lielais izmērs, ūdeņainā recekļa iekšpuse un samtainā brūnā ārpuse padara to Eiropā nesajaucamu. Ziemeļamerikas rietumos tumšus, vilciņveida, daļēji recekļainus augļķermeņus ar melnu disku veido arī Urnula padeniana un Pseudosarcosoma latahense: Pseudosarcosoma latahense ir mazāka, līdz 4 cm, ar īsu kātiņu un bez izteikti recekļainas iekšpuses, bet Urnula padeniana ārpusē ir gari tumši matiņi. Plectania melastoma ir daudz mazāks melns kauss, līdz 3 cm, ar oranžiem graudiņiem ārpusē. Daži Ziemeļamerikas ziņojumi var attiekties uz šādām līdzīgām sugām.",
+      "notes": "Pirmo reizi to aprakstīja Casimir Christoph Schmidel 1793. gadā kā Burcardia globosa, un Sarcosoma ģintī to pārcēla Robert Caspary 1891. gadā. IUCN Sarkanajā sarakstā tā globāli novērtēta kā gandrīz apdraudēta (2015), jo vecos egļu mežus nocērt kailcirtēs, un tā bija viena no 33 apdraudētajām sēnēm, kas tika ierosinātas Bernes konvencijai. Sarkanajos sarakstos tā ir jutīga Zviedrijā un Latvijā, apdraudēta Norvēģijā un Lietuvā un neapdraudēta Somijā; Zviedrijā atrodas lielākā daļa zināmo Eiropas atradņu. Igaunijā tā izvēlēta par 2026. gada sēni. Latvijā 2006. gadā bija gada sēne.",
+      "names": [],
+      "sourceUrls": [
+        "https://sarkanagramata.lu.lv/suga/toverisu-sarkosoma/",
+        "https://www.iucnredlist.org/species/58515314/58515381",
+        "https://www.senes.lv/mikologubiedriba/GADA_SENES.htm"
+      ],
+      "label": "toverīšu sarkosoma"
+    },
+    "nl": {
+      "description": "Een grote, donkerbruine, fluweelachtige bekerzwam uit het geslacht Sarcosoma, waarvan de zware, bolvormige tot tonvormige vruchtlichamen gevuld zijn met waterige gelei en bovenop een glanzend zwarte schijf dragen. Hij verschijnt vroeg in het voorjaar, kort na het smelten van de sneeuw, in mos onder sparren in oude bossen, vooral in Noord-Europa, en is zeldzaam, achteruitgaand en in verschillende landen beschermd.",
+      "cap": "Er is geen hoed: het hele vruchtlichaam is een beker van 3–12 cm breed en tot 12 cm hoog. Eerst is het bijna bolrond en gesloten, daarna ton- of tolvormig met een ondiepe, iets verzonken schijf bovenop; als het ouder wordt en water verliest, gaat het rimpelen en wordt het platter. De buitenkant is donkerbruin tot zwartbruin, fluweelachtig en steeds sterker gerimpeld.",
+      "hymenium": "De vruchtbare laag vormt een ronde schijf in een ondiepe kuil bovenop het vruchtlichaam; ze is glad tot fijn gebarsten, glanzend en zwartbruin tot zwart. Bij oude vruchtlichamen wordt de schijf breder tot ze bijna de hele bovenkant kan bedekken.",
+      "stipe": "Er is geen steel; het vruchtlichaam is zittend en staat direct in mos of naaldstrooisel, vaak gedeeltelijk erin weggezakt.",
+      "flesh": "Het binnenste is gevuld met heldere tot grijzige, waterige gelei, waardoor het vruchtlichaam verrassend zwaar is voor zijn grootte; één vruchtlichaam kan 35–60 ml vocht bevatten en bestaat voor ongeveer 99% uit water. Het wordt omsloten door een dikke, taaie, elastische buitenwand. Geur en smaak zijn onopvallend.",
+      "sporePrint": "Wit. De sporen zijn kleurloos, glad, ellipsoïde en dunwandig, ongeveer 23–30 × 7–12 µm; elke ascus bevat acht sporen.",
+      "habitat": "Een saprotroof die waarschijnlijk sparrennaaldstrooisel afbreekt, al is een mycorrhizaband met de spar niet uitgesloten. Hij groeit alleen of in groepen in diep mos en naaldstrooisel in oude, vochtige, voedselrijke sparrenbossen op goed gedraineerde bodems, vaak langs beken en rivieren of op grindruggen. De vruchtlichamen verschijnen kort na het smelten van de sneeuw, vooral van februari tot mei en plaatselijk tot in juni. Het hoofdareaal ligt in Noord-Europa, vooral in Zweden en Finland; hij komt ook voor in Rusland, het oosten van Noord-Amerika en Armenië, maar is uit grote delen van Midden-Europa verdwenen.",
+      "uses": "Niet gebruikt als voedsel: hij geldt als oneetbaar en zonder culinaire waarde, hoewel hij waar hij massaal vrucht draagt soms is gegeten en in delen van Rusland in de volksgeneeskunde is gebruikt. In Zweden, Polen, Litouwen en Letland is hij wettelijk beschermd en mag hij dus niet worden geplukt.",
+      "confusion": "Het grote formaat, het binnenste van waterige gelei en de fluweelachtige bruine buitenkant maken hem in Europa onmiskenbaar. In het westen van Noord-Amerika vormen ook Urnula padeniana en Pseudosarcosoma latahense donkere, tolvormige, deels geleiachtige vruchtlichamen met een zwarte schijf: Pseudosarcosoma latahense is kleiner, tot 4 cm, met een korte steel en zonder het sterk geleiachtige binnenste, en Urnula padeniana heeft aan de buitenkant lange donkere haren. Plectania melastoma is een veel kleinere zwarte beker, tot 3 cm, met oranje korreltjes aan de buitenkant. Sommige Noord-Amerikaanse meldingen kunnen bij zulke gelijkende soorten horen.",
+      "notes": "Voor het eerst beschreven door Casimir Christoph Schmidel in 1793 als Burcardia globosa en door Robert Caspary in 1891 naar het geslacht Sarcosoma overgebracht. Op de Rode Lijst van de IUCN is hij wereldwijd beoordeeld als gevoelig (2015), omdat oude sparrenbossen kaalgekapt worden, en hij was een van de 33 bedreigde paddenstoelen die voor de Conventie van Bern werden voorgedragen. Op rode lijsten staat hij als kwetsbaar in Zweden en Letland, bedreigd in Noorwegen en Litouwen en niet bedreigd in Finland; Zweden herbergt de meeste bekende Europese vindplaatsen. De soort werd in 2006 in Letland en in 2026 in Estland gekozen tot paddenstoel van het jaar.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En stor, mørkebrun, fløyelsaktig begersopp i slekten Sarcosoma, med tunge, kuleformede til tønneformede fruktlegemer som er fylt med vannaktig gelé og har en blank, svart skive på toppen. Den kommer tidlig om våren, kort etter snøsmeltingen, i mose under gran i gamle skoger, særlig i Nord-Europa, og den er sjelden, i tilbakegang og vernet i flere land.",
+      "cap": "Hatt finnes ikke: hele fruktlegemet er et beger som er 3–12 cm bredt og opptil 12 cm høyt. Først er det nesten kuleformet og lukket, deretter tønne- eller snurrebassformet med en grunn, litt nedsenket skive på toppen; når det eldes og mister vann, blir det rynket og flater ut. Utsiden er mørkebrun til svartbrun, fløyelsaktig og stadig mer rynket.",
+      "hymenium": "Det fertile laget danner en rund skive i en grunn fordypning på toppen av fruktlegemet; det er glatt til fint sprukket, blankt og svartbrunt til svart. Hos gamle fruktlegemer blir skiven bredere til den kan dekke nesten hele oversiden.",
+      "stipe": "Stilk mangler; fruktlegemet er sittende og står rett i mosen eller barstrøet, ofte delvis nedsenket i det.",
+      "flesh": "Innsiden er fylt med klar til gråaktig, vannaktig gelé, som gjør fruktlegemet overraskende tungt for størrelsen; ett fruktlegeme kan romme 35–60 ml væske og består av omtrent 99 % vann. Den omsluttes av en tykk, seig, elastisk yttervegg. Lukt og smak er ubetydelige.",
+      "sporePrint": "Hvitt. Sporene er fargeløse, glatte, ellipsoide og tynnveggede, omtrent 23–30 × 7–12 µm; hver ascus inneholder åtte sporer.",
+      "habitat": "En saprotrof som trolig bryter ned barstrø fra gran, selv om en mykorrhizaforbindelse med gran ikke er utelukket. Den vokser enkeltvis eller i grupper i dyp mose og barstrø i gamle, fuktige, næringsrike granskoger på godt drenert jord, ofte langs bekker og elver eller på grusrygger. Fruktlegemene kommer kort etter snøsmeltingen, mest fra februar til mai og stedvis inn i juni. Hovedutbredelsen er i Nord-Europa, særlig i Sverige og Finland; den finnes også i Russland, østlige Nord-Amerika og Armenia, men har forsvunnet fra store deler av Sentral-Europa.",
+      "uses": "Brukes ikke som mat: den regnes som uspiselig og uten kulinarisk verdi, selv om den av og til er blitt spist der den fruktifiserer i mengder og er brukt i folkemedisin i deler av Russland. Den er lovbeskyttet i Sverige, Polen, Litauen og Latvia og må derfor ikke plukkes.",
+      "confusion": "Den store størrelsen, det vannaktige geléinnholdet og den fløyelsaktige brune utsiden gjør den umiskjennelig i Europa. I det vestlige Nord-Amerika danner også Urnula padeniana og Pseudosarcosoma latahense mørke, snurrebassformede, delvis geléaktige fruktlegemer med svart skive: Pseudosarcosoma latahense er mindre, opptil 4 cm, med kort stilk og uten det sterkt geléaktige innholdet, og Urnula padeniana har lange mørke hår på utsiden. Plectania melastoma er et mye mindre svart beger, opptil 3 cm, med oransje korn på utsiden. Noen nordamerikanske funn kan tilhøre slike lignende arter.",
+      "notes": "Først beskrevet av Casimir Christoph Schmidel i 1793 som Burcardia globosa og flyttet til slekten Sarcosoma av Robert Caspary i 1891. På IUCNs rødliste er den globalt vurdert som nær truet (2015) fordi gamle granskoger flatehogges, og den var en av 33 truede sopper som ble foreslått for Bernkonvensjonen. Den er rødlistet som sårbar i Sverige og Latvia, sterkt truet i Norge og Litauen og livskraftig i Finland; Sverige har de fleste kjente europeiske lokalitetene. Arten ble kåret til årets sopp i Latvia i 2006 og i Estland i 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/16302",
+        "https://api.gbif.org/v1/species/2593417/vernacularNames"
+      ],
+      "label": "svartgubbe"
+    },
+    "pl": {
+      "description": "Duży, ciemnobrązowy, aksamitny grzyb o owocnikach w kształcie miseczki z rodzaju Sarcosoma, którego ciężkie, kuliste do beczułkowatych owocniki są wypełnione wodnistą galaretą i mają na szczycie lśniącą czarną tarczkę. Pojawia się wczesną wiosną, wkrótce po stopnieniu śniegu, w mchu pod świerkami w starych lasach, głównie w północnej Europie, i jest rzadki, zanikający i w kilku krajach chroniony.",
+      "cap": "Nie ma kapelusza: cały owocnik jest miseczką o średnicy 3–12 cm i wysokości do 12 cm. Początkowo jest prawie kulisty i zamknięty, potem beczułkowaty lub bąkowaty z płytką, lekko wklęsłą tarczką na szczycie; z wiekiem, tracąc wodę, marszczy się i spłaszcza. Powierzchnia zewnętrzna jest ciemnobrązowa do czarnobrązowej, aksamitna i coraz bardziej pomarszczona.",
+      "hymenium": "Warstwa zarodnikowa tworzy okrągłą tarczkę w płytkim zagłębieniu na szczycie owocnika; jest gładka do drobno popękanej, lśniąca, czarnobrązowa do czarnej. U starych owocników tarczka rozszerza się, aż może pokryć prawie całą górną powierzchnię.",
+      "stipe": "Nie ma trzonu; owocnik jest siedzący i tkwi bezpośrednio w mchu lub w ściółce igliwia, często częściowo w nią zagłębiony.",
+      "flesh": "Wnętrze wypełnia przejrzysta do szarawej, wodnista galareta, przez co owocnik jest zaskakująco ciężki jak na swoje rozmiary; jeden owocnik może zawierać 35–60 ml płynu i w około 99% składa się z wody. Otacza ją gruba, twarda, elastyczna ściana zewnętrzna. Zapach i smak są niewyraźne.",
+      "sporePrint": "Biały. Zarodniki są bezbarwne, gładkie, elipsoidalne i cienkościenne, około 23–30 × 7–12 µm; każdy worek zawiera osiem zarodników.",
+      "habitat": "Saprotrof, który prawdopodobnie rozkłada świerkowe igliwie, choć nie wykluczono związku mikoryzowego ze świerkiem. Rośnie pojedynczo lub w grupach w głębokim mchu i igliwiu w starych, wilgotnych, żyznych lasach świerkowych na dobrze zdrenowanych glebach, często wzdłuż strumieni i rzek lub na żwirowych wałach. Owocniki pojawiają się wkrótce po stopnieniu śniegu, głównie od lutego do maja, a miejscami do czerwca. Główny zasięg obejmuje północną Europę, zwłaszcza Szwecję i Finlandię; występuje też w Rosji, we wschodniej części Ameryki Północnej i w Armenii, ale z dużej części Europy Środkowej zniknął.",
+      "uses": "Nie jest używany do jedzenia: uważa się go za niejadalny i bez wartości kulinarnej, choć tam, gdzie owocnikuje masowo, bywał jedzony, a w niektórych częściach Rosji stosowano go w medycynie ludowej. W Szwecji, Polsce, na Litwie i Łotwie jest prawnie chroniony, więc nie wolno go zbierać.",
+      "confusion": "Duże rozmiary, wnętrze z wodnistej galarety i aksamitna brązowa powierzchnia czynią go w Europie charakterystycznym. W zachodniej części Ameryki Północnej ciemne, bąkowate, częściowo galaretowate owocniki z czarną tarczką tworzą także Urnula padeniana i Pseudosarcosoma latahense: Pseudosarcosoma latahense jest mniejsza, do 4 cm, z krótkim trzonkiem i bez silnie galaretowatego wnętrza, a Urnula padeniana ma na zewnątrz długie ciemne włoski. Plectania melastoma to znacznie mniejsza czarna miseczka, do 3 cm, z pomarańczowymi ziarenkami na zewnątrz. Niektóre doniesienia z Ameryki Północnej mogą dotyczyć takich podobnych gatunków.",
+      "notes": "Po raz pierwszy opisał go Casimir Christoph Schmidel w 1793 roku jako Burcardia globosa, a do rodzaju Sarcosoma przeniósł go Robert Caspary w 1891 roku. Na Czerwonej liście IUCN ma globalnie status gatunku bliskiego zagrożenia (2015), ponieważ stare lasy świerkowe są wycinane zrębami zupełnymi, i był jednym z 33 zagrożonych grzybów proponowanych do Konwencji berneńskiej. Na czerwonych listach ma status narażonego w Szwecji i na Łotwie, zagrożonego w Norwegii i na Litwie oraz najmniejszej troski w Finlandii; Szwecja ma większość znanych europejskich stanowisk. Został wybrany grzybem roku na Łotwie w 2006 roku i w Estonii w 2026 roku.",
+      "names": [],
+      "sourceUrls": [
+        "https://grzyby.pl/gatunki/Sarcosoma_globosum.htm",
+        "https://pl.wikipedia.org/wiki/Dzbank%C3%B3wka_kulista"
+      ],
+      "label": "dzbankówka kulista"
+    },
+    "pt": {
+      "description": "Um fungo grande em forma de taça, castanho-escuro e aveludado, do género Sarcosoma, cujos corpos de frutificação pesados, globosos a em forma de barril, estão cheios de uma geleia aquosa e têm no topo um disco preto brilhante. Aparece no início da primavera, pouco depois do degelo, no musgo sob abetos-vermelhos de florestas antigas, sobretudo no norte da Europa, e é raro, está em declínio e é protegido em vários países.",
+      "cap": "Não tem chapéu: todo o corpo de frutificação é uma taça com 3–12 cm de diâmetro e até 12 cm de altura. No início é quase esférico e fechado, depois em forma de barril ou de pião, com um disco pouco profundo e ligeiramente afundado no topo; ao envelhecer e perder água, enruga-se e achata. A superfície externa é castanho-escura a castanho-enegrecida, aveludada e cada vez mais enrugada.",
+      "hymenium": "A camada fértil forma um disco redondo numa depressão pouco profunda no topo do corpo de frutificação; é lisa a finamente fendida, brilhante e de castanho-enegrecida a preta. Nos exemplares velhos o disco alarga-se até poder cobrir quase toda a superfície superior.",
+      "stipe": "Não tem pé; o corpo de frutificação é séssil e assenta diretamente no musgo ou na manta de agulhas, muitas vezes parcialmente enterrado nela.",
+      "flesh": "O interior está cheio de uma geleia aquosa transparente a acinzentada, que torna o corpo de frutificação surpreendentemente pesado para o seu tamanho; um só exemplar pode conter 35–60 ml de líquido e é composto por cerca de 99% de água. É envolvido por uma parede externa espessa, rija e elástica. O cheiro e o sabor são indistintos.",
+      "sporePrint": "Branca. Os esporos são incolores, lisos, elipsoides e de parede fina, com cerca de 23–30 × 7–12 µm; cada asco contém oito esporos.",
+      "habitat": "Um sapróbio que provavelmente decompõe a manta de agulhas de abeto-vermelho, embora não se tenha excluído uma ligação micorrízica com esta árvore. Cresce isolado ou em grupos em musgo profundo e manta de agulhas em florestas antigas de abeto-vermelho, húmidas e ricas em nutrientes, em solos bem drenados, muitas vezes junto a ribeiros e rios ou em cristas de cascalho. Os corpos de frutificação surgem pouco depois do degelo, sobretudo de fevereiro a maio e localmente até junho. A área principal é o norte da Europa, em especial a Suécia e a Finlândia; ocorre também na Rússia, no leste da América do Norte e na Arménia, mas desapareceu de grande parte da Europa Central.",
+      "uses": "Não é usado na alimentação: é considerado não comestível e sem valor culinário, embora ocasionalmente tenha sido comido onde frutifica em massa e usado na medicina popular em partes da Rússia. É protegido por lei na Suécia, na Polónia, na Lituânia e na Letónia, por isso não deve ser colhido.",
+      "confusion": "O grande tamanho, o interior de geleia aquosa e o exterior castanho e aveludado tornam-no inconfundível na Europa. No oeste da América do Norte, Urnula padeniana e Pseudosarcosoma latahense também formam corpos de frutificação escuros, em forma de pião, em parte gelatinosos e com disco preto: Pseudosarcosoma latahense é mais pequeno, até 4 cm, com um pé curto e sem o interior muito gelatinoso, e Urnula padeniana tem pelos escuros e longos no exterior. Plectania melastoma é uma taça preta muito menor, até 3 cm, com grânulos alaranjados no exterior. Alguns registos norte-americanos podem pertencer a estas espécies semelhantes.",
+      "notes": "Descrito pela primeira vez por Casimir Christoph Schmidel em 1793 como Burcardia globosa e transferido para o género Sarcosoma por Robert Caspary em 1891. Na Lista Vermelha da IUCN está avaliado globalmente como quase ameaçado (2015), porque as florestas antigas de abeto-vermelho estão a ser cortadas a corte raso, e foi um dos 33 fungos ameaçados propostos para a Convenção de Berna. Nas listas vermelhas é vulnerável na Suécia e na Letónia, em perigo na Noruega e na Lituânia e pouco preocupante na Finlândia; a Suécia alberga a maioria dos locais europeus conhecidos. A espécie foi escolhida como cogumelo do ano na Letónia em 2006 e na Estónia em 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mare, brun-închisă și catifelată, în formă de cupă, din genul Sarcosoma, ale cărei corpuri fructifere grele, globuloase până la în formă de butoiaș, sunt pline cu o gelatină apoasă și poartă în vârf un disc negru lucios. Apare la începutul primăverii, la scurt timp după topirea zăpezii, în mușchi sub molizi în păduri bătrâne, mai ales în nordul Europei, și este rară, în declin și protejată în mai multe țări.",
+      "cap": "Nu are pălărie: întregul corp fructifer este o cupă cu diametrul de 3–12 cm și înălțimea de până la 12 cm. La început este aproape sferic și închis, apoi în formă de butoiaș sau de titirez, cu un disc puțin adânc, ușor adâncit în vârf; pe măsură ce îmbătrânește și pierde apă, se zbârcește și se turtește. Suprafața externă este brun-închisă până la brun-negricioasă, catifelată și din ce în ce mai zbârcită.",
+      "hymenium": "Stratul fertil formează un disc rotund într-o adâncitură puțin adâncă din vârful corpului fructifer; este neted până la fin crăpat, lucios și brun-negricios până la negru. La exemplarele bătrâne discul se lărgește până poate acoperi aproape toată suprafața superioară.",
+      "stipe": "Nu are picior; corpul fructifer este sesil și stă direct în mușchi sau în stratul de ace, adesea parțial afundat în el.",
+      "flesh": "Interiorul este plin cu o gelatină apoasă, transparentă până la cenușie, care face corpul fructifer surprinzător de greu pentru mărimea sa; un singur exemplar poate conține 35–60 ml de lichid și este alcătuit în proporție de circa 99% din apă. Este închis de un perete extern gros, tenace și elastic. Mirosul și gustul sunt neremarcabile.",
+      "sporePrint": "Albă. Sporii sunt incolori, netezi, elipsoidali și cu perete subțire, de circa 23–30 × 7–12 µm; fiecare asc conține opt spori.",
+      "habitat": "Un saprotrof care probabil descompune stratul de ace de molid, deși o legătură micorizică cu molidul nu a fost exclusă. Crește solitar sau în grupuri în mușchi adânc și ace căzute în molidișuri bătrâne, umede și bogate în nutrienți, pe soluri bine drenate, adesea de-a lungul pâraielor și râurilor sau pe creste de pietriș. Corpurile fructifere apar la scurt timp după topirea zăpezii, mai ales din februarie până în mai și pe alocuri până în iunie. Arealul principal este nordul Europei, în special Suedia și Finlanda; apare și în Rusia, în estul Americii de Nord și în Armenia, dar a dispărut din mare parte a Europei Centrale.",
+      "uses": "Nu se folosește ca hrană: este considerată necomestibilă și fără valoare culinară, deși ocazional a fost mâncată acolo unde fructifică în masă și a fost folosită în medicina populară în unele părți ale Rusiei. Este protejată prin lege în Suedia, Polonia, Lituania și Letonia, așa că nu trebuie culeasă.",
+      "confusion": "Mărimea, interiorul din gelatină apoasă și exteriorul brun și catifelat o fac inconfundabilă în Europa. În vestul Americii de Nord, Urnula padeniana și Pseudosarcosoma latahense formează de asemenea corpuri fructifere închise la culoare, în formă de titirez, parțial gelatinoase, cu disc negru: Pseudosarcosoma latahense este mai mică, până la 4 cm, cu un picior scurt și fără interiorul puternic gelatinos, iar Urnula padeniana are la exterior peri lungi și închiși la culoare. Plectania melastoma este o cupă neagră mult mai mică, până la 3 cm, cu granule portocalii la exterior. Unele semnalări nord-americane ar putea aparține unor astfel de specii asemănătoare.",
+      "notes": "Descrisă pentru prima dată de Casimir Christoph Schmidel în 1793 ca Burcardia globosa și transferată în genul Sarcosoma de Robert Caspary în 1891. Pe Lista Roșie IUCN este evaluată la nivel global ca aproape amenințată (2015), deoarece pădurile bătrâne de molid sunt tăiate ras, și a fost una dintre cele 33 de ciuperci amenințate propuse pentru Convenția de la Berna. Pe listele roșii este vulnerabilă în Suedia și Letonia, periclitată în Norvegia și Lituania și neamenințată în Finlanda; Suedia găzduiește majoritatea locurilor europene cunoscute. Specia a fost aleasă ciuperca anului în Letonia în 2006 și în Estonia în 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крупный тёмно-коричневый бархатистый чашечный гриб из рода Sarcosoma, тяжёлые шаровидные или бочонковидные плодовые тела которого заполнены водянистым студнем и несут сверху блестящий чёрный диск. Появляется ранней весной, вскоре после таяния снега, во мху под елями в старых лесах, главным образом в Северной Европе; он редок, сокращается и охраняется в нескольких странах.",
+      "cap": "Шляпки нет: всё плодовое тело — это чаша диаметром 3–12 cm и высотой до 12 cm. Сначала оно почти шаровидное и замкнутое, затем бочонковидное или кубаревидное с неглубоким, слегка вдавленным диском наверху; старея и теряя воду, оно морщится и уплощается. Наружная поверхность тёмно-коричневая до черновато-коричневой, бархатистая и всё более морщинистая.",
+      "hymenium": "Плодоносящий слой образует круглый диск в неглубоком углублении на верхушке плодового тела; он гладкий или мелкотрещиноватый, блестящий, черновато-коричневый до чёрного. У старых плодовых тел диск расширяется, пока не покроет почти всю верхнюю поверхность.",
+      "stipe": "Ножки нет; плодовое тело сидячее и сидит прямо во мху или в хвойном опаде, часто частично погружено в него.",
+      "flesh": "Внутренность заполнена прозрачным или сероватым водянистым студнем, из-за которого плодовое тело удивительно тяжёлое для своего размера; одно плодовое тело может содержать 35–60 ml жидкости и примерно на 99 % состоит из воды. Его окружает толстая, жёсткая, упругая наружная стенка. Запах и вкус невыраженные.",
+      "sporePrint": "Белый. Споры бесцветные, гладкие, эллипсоидные и тонкостенные, около 23–30 × 7–12 µm; в каждой сумке восемь спор.",
+      "habitat": "Сапротроф, вероятно разлагающий еловый хвойный опад, хотя микоризная связь с елью не исключена. Растёт одиночно или группами в глубоком мху и хвойном опаде в старых, влажных, богатых питательными веществами ельниках на хорошо дренированных почвах, часто вдоль ручьёв и рек или на гравийных грядах. Плодовые тела появляются вскоре после таяния снега, в основном с февраля по май, местами до июня. Основной ареал — Северная Европа, особенно Швеция и Финляндия; встречается также в России, на востоке Северной Америки и в Армении, но исчез с большей части Центральной Европы.",
+      "uses": "В пищу не используется: считается несъедобным и не имеющим кулинарной ценности, хотя там, где он плодоносит массово, его иногда ели и в некоторых районах России применяли в народной медицине. Он охраняется законом в Швеции, Польше, Литве и Латвии, поэтому собирать его нельзя.",
+      "confusion": "Крупный размер, внутренность из водянистого студня и бархатистая коричневая наружная поверхность делают его в Европе безошибочно узнаваемым. На западе Северной Америки тёмные кубаревидные, частично студенистые плодовые тела с чёрным диском образуют также Urnula padeniana и Pseudosarcosoma latahense: Pseudosarcosoma latahense мельче, до 4 cm, с короткой ножкой и без сильно студенистой внутренности, а у Urnula padeniana снаружи длинные тёмные волоски. Plectania melastoma — гораздо более мелкая чёрная чашечка, до 3 cm, с оранжевыми гранулами снаружи. Некоторые североамериканские находки могут относиться к таким сходным видам.",
+      "notes": "Впервые описан Казимиром Кристофом Шмиделем в 1793 году как Burcardia globosa и перенесён в род Sarcosoma Робертом Каспари в 1891 году. В Красном списке МСОП (IUCN) он глобально оценён как вид, близкий к уязвимому положению (2015), поскольку старые еловые леса вырубаются сплошными рубками, и был одним из 33 угрожаемых грибов, предложенных для Бернской конвенции. В красных списках он имеет статус уязвимого в Швеции и Латвии, находящегося под угрозой в Норвегии и Литве и вызывающего наименьшие опасения в Финляндии; в Швеции находится большинство известных европейских местонахождений. Он был выбран грибом года в Латвии в 2006 году и в Эстонии в 2026 году.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58515314/58515381",
+        "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D0%BE%D0%BC%D0%B0_%D1%88%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F"
+      ],
+      "label": "саркосома шаровидная"
+    },
+    "sk": {
+      "description": "Veľká, tmavohnedá, zamatová miskovitá huba z rodu Sarcosoma, ktorej ťažké, guľovité až súdkovité plodnice sú vyplnené vodnatým rôsolom a na vrchole nesú lesklý čierny terčík. Objavuje sa skoro na jar, krátko po roztopení snehu, v machu pod smrekmi v starých lesoch, najmä v severnej Európe, a je vzácna, ustupujúca a v niekoľkých krajinách chránená.",
+      "cap": "Klobúk nemá: celá plodnica je miska široká 3–12 cm a vysoká až 12 cm. Spočiatku je takmer guľovitá a uzavretá, potom súdkovitá alebo kužeľovitá s plytkým, mierne vhĺbeným terčíkom na vrchole; ako starne a stráca vodu, zvráskavie a splošťuje sa. Vonkajší povrch je tmavohnedý až čiernohnedý, zamatový a čoraz vráskavejší.",
+      "hymenium": "Výtrusorodá vrstva tvorí okrúhly terčík v plytkej priehlbine na vrchole plodnice; je hladká až jemne popraskaná, lesklá, čiernohnedá až čierna. Na starých plodniciach sa terčík rozširuje, až môže pokryť takmer celý horný povrch.",
+      "stipe": "Hlúbik nemá; plodnica je prisadnutá a sedí priamo v machu alebo v opadanom ihličí, často je doň čiastočne ponorená.",
+      "flesh": "Vnútro vypĺňa číry až sivastý vodnatý rôsol, vďaka ktorému je plodnica na svoju veľkosť prekvapivo ťažká; jedna plodnica môže obsahovať 35–60 ml tekutiny a tvorí ju asi z 99 % voda. Obklopuje ho hrubá, tuhá, pružná vonkajšia stena. Vôňa a chuť sú nevýrazné.",
+      "sporePrint": "Biely. Výtrusy sú bezfarebné, hladké, elipsoidné a tenkostenné, asi 23–30 × 7–12 µm; každé vrecko obsahuje osem výtrusov.",
+      "habitat": "Saprotrof, ktorý pravdepodobne rozkladá opadané smrekové ihličie, hoci mykoríznu väzbu so smrekom nemožno vylúčiť. Rastie jednotlivo alebo v skupinách v hlbokom machu a ihličí v starých, vlhkých, živinami bohatých smrečinách na dobre odvodnených pôdach, často pozdĺž potokov a riek alebo na štrkových chrbtoch. Plodnice sa objavujú krátko po roztopení snehu, hlavne od februára do mája a miestami až do júna. Hlavný areál má v severnej Európe, najmä vo Švédsku a Fínsku; vyskytuje sa aj v Rusku, na východe Severnej Ameriky a v Arménsku, no z veľkej časti strednej Európy vymizla.",
+      "uses": "Na jedlo sa nepoužíva: považuje sa za nejedlú a bez kulinárskej hodnoty, hoci tam, kde hromadne plodí, ju občas jedli a v niektorých oblastiach Ruska sa používala v ľudovom liečiteľstve. Vo Švédsku, Poľsku, Litve a Lotyšsku je zákonom chránená, preto sa nesmie zbierať.",
+      "confusion": "Veľkosť, vnútro z vodnatého rôsolu a zamatový hnedý povrch ju v Európe robia nezameniteľnou. Na západe Severnej Ameriky tvoria tmavé, kužeľovité, čiastočne rôsolovité plodnice s čiernym terčíkom aj Urnula padeniana a Pseudosarcosoma latahense: Pseudosarcosoma latahense je menšia, do 4 cm, s krátkou stopkou a bez výrazne rôsolovitého vnútra, a Urnula padeniana má na vonkajšej strane dlhé tmavé chlpy. Plectania melastoma je oveľa menšia čierna miska, do 3 cm, s oranžovými zrniečkami na vonkajšej strane. Niektoré severoamerické údaje môžu patriť takýmto podobným druhom.",
+      "notes": "Prvý ju opísal Casimir Christoph Schmidel v roku 1793 ako Burcardia globosa a do rodu Sarcosoma ju preradil Robert Caspary v roku 1891. Na Červenom zozname IUCN je globálne hodnotená ako takmer ohrozená (2015), pretože staré smrekové lesy sa vyrubujú holorubom, a patrila medzi 33 ohrozených húb navrhnutých do Bernského dohovoru. Ako zraniteľná je na červenom zozname vo Švédsku a Lotyšsku, ako ohrozená v Nórsku a Litve a ako málo dotknutá vo Fínsku; Švédsko má väčšinu známych európskych lokalít. V Lotyšsku bol v roku 2006 vyhlásený za hubu roka a v Estónsku v roku 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.iucnredlist.org/species/58515314/58515381",
+        "https://redlist.info/iucn/species_view/120549/",
+        "https://cs.wikipedia.org/wiki/Mase%C4%8Dn%C3%ADk_kulovit%C3%BD"
+      ],
+      "label": "mäsovec guľatý"
+    },
+    "sl": {
+      "description": "Velika, temno rjava, žametna gliva s plodišči v obliki čaše iz rodu Sarcosoma, katere težka, kroglasta do sodčasta plodišča so napolnjena z vodeno želatino in imajo na vrhu svetleč črn disk. Pojavi se zgodaj spomladi, kmalu po taljenju snega, v mahu pod smrekami v starih gozdovih, predvsem v severni Evropi, in je redka, v upadanju in v več državah zavarovana.",
+      "cap": "Klobuka nima: celotno plodišče je čaša, široka 3–12 cm in visoka do 12 cm. Sprva je skoraj kroglasto in zaprto, nato sodčasto ali vrtavkasto s plitvim, rahlo vdrtim diskom na vrhu; ko se stara in izgublja vodo, se nagubano skrči in splošči. Zunanja površina je temno rjava do črnorjava, žametna in vse bolj nagubana.",
+      "hymenium": "Plodna plast tvori okrogel disk v plitvi vdolbini na vrhu plodišča; je gladka do drobno razpokana, svetleča, črnorjava do črna. Pri starih plodiščih se disk razširi, dokler ne prekrije skoraj vse zgornje površine.",
+      "stipe": "Beta nima; plodišče je sedeče in sedi neposredno v mahu ali v opadu iglic, pogosto delno pogreznjeno vanj.",
+      "flesh": "Notranjost je napolnjena s prozorno do sivkasto vodeno želatino, zaradi katere je plodišče za svojo velikost presenetljivo težko; eno plodišče lahko vsebuje 35–60 ml tekočine in ga sestavlja okoli 99 % vode. Obdaja jo debela, žilava, prožna zunanja stena. Vonj in okus sta neizrazita.",
+      "sporePrint": "Bel. Trosi so brezbarvni, gladki, elipsoidni in tankostenski, približno 23–30 × 7–12 µm; vsak askus vsebuje osem trosov.",
+      "habitat": "Saprotrof, ki verjetno razkraja smrekov opad iglic, čeprav mikorizne povezave s smreko niso izključili. Raste posamič ali v skupinah v globokem mahu in opadu iglic v starih, vlažnih, s hranili bogatih smrekovih gozdovih na dobro odcednih tleh, pogosto ob potokih in rekah ali na prodnatih slemenih. Plodišča se pojavijo kmalu po taljenju snega, večinoma od februarja do maja in ponekod do junija. Glavno območje razširjenosti je severna Evropa, zlasti Švedska in Finska; uspeva tudi v Rusiji, na vzhodu Severne Amerike in v Armeniji, iz velikega dela srednje Evrope pa je izginila.",
+      "uses": "Za hrano se ne uporablja: velja za neužitno in brez kulinarične vrednosti, čeprav so jo tam, kjer množično plodi, občasno jedli in jo v delih Rusije uporabljali v ljudskem zdravilstvu. Na Švedskem, Poljskem, v Litvi in Latviji je zakonsko zavarovana, zato je ne smemo nabirati.",
+      "confusion": "Velikost, notranjost iz vodene želatine in žametna rjava zunanjost jo v Evropi delajo nezamenljivo. Na zahodu Severne Amerike temna, vrtavkasta, delno želatinasta plodišča s črnim diskom oblikujeta tudi Urnula padeniana in Pseudosarcosoma latahense: Pseudosarcosoma latahense je manjša, do 4 cm, s kratkim betom in brez izrazito želatinaste notranjosti, Urnula padeniana pa ima na zunanji strani dolge temne dlake. Plectania melastoma je veliko manjša črna čaša, do 3 cm, z oranžnimi zrnci na zunanji strani. Nekatera severnoameriška poročila se morda nanašajo na take podobne vrste.",
+      "notes": "Prvi jo je opisal Casimir Christoph Schmidel leta 1793 kot Burcardia globosa, v rod Sarcosoma pa jo je prestavil Robert Caspary leta 1891. Na Rdečem seznamu IUCN je globalno ocenjena kot skoraj ogrožena (2015), ker stare smrekove gozdove posekajo na golo, in bila je ena od 33 ogroženih gliv, predlaganih za Bernsko konvencijo. Na rdečih seznamih je ranljiva na Švedskem in v Latviji, prizadeta na Norveškem in v Litvi ter najmanj ogrožena na Finskem; Švedska ima večino znanih evropskih nahajališč. Izbrana je bila za glivo leta v Latviji leta 2006 in v Estoniji leta 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Велика, тамномрка, баршунаста гљива у облику пехара из рода Sarcosoma, чија су тешка, лоптаста до буретаста плодна тела испуњена воденастом желатином и на врху носе сјајан црни диск. Појављује се у рано пролеће, убрзо после топљења снега, у маховини испод смрча у старим шумама, углавном у северној Европи, и ретка је, у опадању и заштићена у неколико земаља.",
+      "cap": "Шешира нема: цело плодно тело је пехар широк 3–12 cm и висок до 12 cm. У почетку је готово лоптаст и затворен, затим буретаст или чиграст са плитким, благо удубљеним диском на врху; како стари и губи воду, набира се и спљоштава. Спољашња површина је тамномрка до црномрка, баршунаста и све набранија.",
+      "hymenium": "Плодни слој образује округао диск у плитком удубљењу на врху плодног тела; гладак је до ситно испуцао, сјајан, црномрк до црн. Код старих плодних тела диск се шири док не прекрије готово целу горњу површину.",
+      "stipe": "Дршке нема; плодно тело је седеће и стоји директно у маховини или у четинама, често делимично утонуло у њих.",
+      "flesh": "Унутрашњост је испуњена провидном до сивкастом, воденастом желатином, због које је плодно тело изненађујуће тешко за своју величину; једно плодно тело може да садржи 35–60 ml течности и састоји се од око 99 % воде. Обавија је дебео, жилав, еластичан спољашњи зид. Мирис и укус су неупадљиви.",
+      "sporePrint": "Бео. Споре су безбојне, глатке, елипсоидне и танких зидова, око 23–30 × 7–12 µm; сваки аскус садржи осам спора.",
+      "habitat": "Сапротроф који вероватно разлаже смрчеве четине, мада микоризна веза са смрчом није искључена. Расте појединачно или у групама у дубокој маховини и четинама у старим, влажним, хранљивим материјама богатим смрчевим шумама на добро дренираном земљишту, често дуж потока и река или на шљунковитим гребенима. Плодна тела се појављују убрзо после топљења снега, углавном од фебруара до маја, а местимично до јуна. Главно подручје распрострањења је северна Европа, нарочито Шведска и Финска; јавља се и у Русији, источној Северној Америци и Јерменији, али је нестала из великог дела средње Европе.",
+      "uses": "Не користи се за јело: сматра се нејестивом и без кулинарске вредности, иако се понегде где масовно плодоноси повремено јела и у деловима Русије користила у народној медицини. Законом је заштићена у Шведској, Пољској, Литванији и Летонији, па се не сме брати.",
+      "confusion": "Велика величина, унутрашњост од воденасте желатине и баршунаста мрка спољашњост чине је у Европи непогрешивом. На западу Северне Америке тамна, чиграста, делимично желатинозна плодна тела са црним диском стварају и Urnula padeniana и Pseudosarcosoma latahense: Pseudosarcosoma latahense је мања, до 4 cm, са кратком дршком и без изразито желатинозне унутрашњости, а Urnula padeniana споља има дуге тамне длаке. Plectania melastoma је много мањи црни пехар, до 3 cm, са наранџастим зрнцима споља. Неки северноамерички налази можда припадају таквим сличним врстама.",
+      "notes": "Први ју је описао Казимир Кристоф Шмидел 1793. као Burcardia globosa, а у род Sarcosoma пренео ју је Роберт Каспари 1891. На Црвеној листи IUCN глобално је процењена као скоро угрожена (2015) јер се старе смрчеве шуме секу чистом сечом, и била је једна од 33 угрожене гљиве предложене за Бернску конвенцију. На црвеним листама рањива је у Шведској и Летонији, угрожена у Норвешкој и Литванији и најмање забрињавајућа у Финској; Шведска има већину познатих европских налазишта. Изабрана је за гљиву године у Летонији 2006. и у Естонији 2026.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En stor, mörkbrun, sammetsluden skålsvamp i släktet Sarcosoma, vars tunga, klotrunda till tunnformade fruktkroppar är fyllda med vattnig gelé och bär en glänsande svart disk upptill. Den visar sig tidigt på våren, strax efter snösmältningen, i mossa under gran i gamla skogar, främst i norra Europa, och den är sällsynt, minskande och skyddad i flera länder.",
+      "cap": "Någon hatt finns inte: hela fruktkroppen är en skål som är 3–12 cm bred och upp till 12 cm hög. Först är den nästan klotrund och sluten, sedan tunn- eller snurrformad med en grund, något nedsänkt disk upptill; när den åldras och förlorar vatten blir den skrynklig och plattas till. Utsidan är mörkbrun till svartbrun, sammetsluden och alltmer skrynklig.",
+      "hymenium": "Det fertila lagret bildar en rund disk i en grund fördjupning överst på fruktkroppen; det är slätt till fint sprucket, glänsande och svartbrunt till svart. Hos gamla fruktkroppar breddas disken tills den kan täcka nästan hela ovansidan.",
+      "stipe": "Fot saknas; fruktkroppen är oskaftad och sitter direkt i mossan eller barrförnan, ofta delvis nedsänkt i den.",
+      "flesh": "Insidan är fylld med klar till gråaktig, vattnig gelé, som gör fruktkroppen förvånansvärt tung för sin storlek; en enda fruktkropp kan rymma 35–60 ml vätska och består till omkring 99 % av vatten. Den omsluts av en tjock, seg, elastisk yttervägg. Lukt och smak är obetydliga.",
+      "sporePrint": "Vitt. Sporerna är färglösa, släta, ellipsoida och tunnväggiga, omkring 23–30 × 7–12 µm; varje ascus innehåller åtta sporer.",
+      "habitat": "En saprotrof som troligen bryter ned granens barrförna, men ett mykorrhizasamband med gran har inte uteslutits. Den växer ensam eller i grupper i djup mossa och barrförna i gamla, fuktiga, näringsrika granskogar på väldränerad mark, ofta längs bäckar och älvar eller på grusåsar. Fruktkropparna kommer strax efter snösmältningen, främst från februari till maj och lokalt in i juni. Huvudutbredningen ligger i norra Europa, särskilt i Sverige och Finland; den finns också i Ryssland, östra Nordamerika och Armenien, men har försvunnit från stora delar av Centraleuropa.",
+      "uses": "Används inte som matsvamp: den anses oätlig och sakna kulinariskt värde, även om den ibland har ätits där den fruktificerar i massor och har använts i folkmedicin i delar av Ryssland. Den är lagligt skyddad i Sverige, Polen, Litauen och Lettland och får därför inte plockas.",
+      "confusion": "Den stora storleken, det vattniga geléinnehållet och den sammetsludna bruna utsidan gör den omisskännlig i Europa. I västra Nordamerika bildar även Urnula padeniana och Pseudosarcosoma latahense mörka, snurrformade, delvis geléartade fruktkroppar med svart disk: Pseudosarcosoma latahense är mindre, upp till 4 cm, med kort fot och utan det starkt geléartade innehållet, och Urnula padeniana har långa mörka hår på utsidan. Plectania melastoma är en mycket mindre svart skål, upp till 3 cm, med orange korn på utsidan. En del nordamerikanska uppgifter kan gälla sådana liknande arter.",
+      "notes": "Först beskriven av Casimir Christoph Schmidel 1793 som Burcardia globosa och flyttad till släktet Sarcosoma av Robert Caspary 1891. På IUCN:s rödlista bedöms den globalt som nära hotad (2015) eftersom gamla granskogar kalavverkas, och den var en av 33 hotade svampar som föreslogs för Bernkonventionen. Den är rödlistad som sårbar i Sverige och Lettland, starkt hotad i Norge och Litauen och livskraftig i Finland; Sverige har de flesta kända europeiska lokalerna. Arten utsågs till årets svamp i Lettland 2006 och i Estland 2026.",
+      "names": [],
+      "sourceUrls": [
+        "https://lerum.naturskyddsforeningen.se/wp-content/uploads/sites/281/2014/02/Sarcosoma_globosum_1445.pdf",
+        "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/artskyddsforordning-2007845_sfs-2007-845/",
+        "https://laji.fi/taxon/MX.238057"
+      ],
+      "label": "bombmurkla"
+    },
+    "tr": {
+      "description": "Sarcosoma cinsine ait, büyük, koyu kahverengi, kadifemsi bir kâse mantarı; ağır, küremsi ile fıçı biçimli meyve gövdeleri sulu bir jöleyle doludur ve tepelerinde parlak siyah bir disk taşır. Erken ilkbaharda, karlar eridikten kısa süre sonra, yaşlı ormanlarda ladinlerin altında yosun içinde, özellikle Kuzey Avrupa’da görülür; nadirdir, azalmaktadır ve birçok ülkede koruma altındadır.",
+      "cap": "Şapkası yoktur: bütün meyve gövdesi 3–12 cm genişliğinde ve en çok 12 cm yüksekliğinde bir kâsedir. Önce neredeyse küre biçimli ve kapalıdır, sonra fıçı ya da topaç biçimini alır ve tepesinde sığ, hafifçe çökük bir disk bulunur; yaşlandıkça ve su kaybettikçe buruşur ve yassılaşır. Dış yüzeyi koyu kahverengiden siyahımsı kahverengiye, kadifemsi ve giderek daha buruşuktur.",
+      "hymenium": "Verimli tabaka, meyve gövdesinin tepesindeki sığ bir çukurda yuvarlak bir disk oluşturur; düzden ince çatlaklıya, parlak ve siyahımsı kahverengiden siyaha kadardır. Yaşlı meyve gövdelerinde disk genişleyerek neredeyse bütün üst yüzeyi kaplayabilir.",
+      "stipe": "Sapı yoktur; meyve gövdesi sapsızdır ve doğrudan yosunun ya da iğne yaprak döküntüsünün içinde, çoğu zaman kısmen içine gömülü olarak durur.",
+      "flesh": "İçi berrak ile grimsi, sulu bir jöleyle doludur; bu yüzden meyve gövdesi boyutuna göre şaşırtıcı derecede ağırdır; tek bir meyve gövdesi 35–60 ml sıvı içerebilir ve yaklaşık %99’u sudur. Onu kalın, sert ve esnek bir dış duvar sarar. Kokusu ve tadı belirgin değildir.",
+      "sporePrint": "Beyaz. Sporlar renksiz, düz, elipsoit ve ince çeperlidir, yaklaşık 23–30 × 7–12 µm; her askusta sekiz spor bulunur.",
+      "habitat": "Muhtemelen ladin iğne yaprak döküntüsünü ayrıştıran bir saprotroftur, ancak ladinle mikorizal bir bağ olasılığı dışlanmamıştır. Yaşlı, nemli, besince zengin ladin ormanlarında, iyi drene olan topraklarda, derin yosun ve iğne yaprak döküntüsü içinde, tek tek ya da gruplar halinde, çoğu zaman dere ve ırmak kenarlarında veya çakıl sırtlarında yetişir. Meyve gövdeleri karlar eridikten kısa süre sonra, çoğunlukla şubattan mayısa kadar, yer yer haziran ayına dek çıkar. Ana yayılış alanı Kuzey Avrupa’dır, özellikle İsveç ve Finlandiya; Rusya’da, Kuzey Amerika’nın doğusunda ve Ermenistan’da da bulunur, ancak Orta Avrupa’nın büyük bölümünden yok olmuştur.",
+      "uses": "Besin olarak kullanılmaz: yenmez ve mutfakta değeri olmayan bir tür kabul edilir; yine de toplu halde çıktığı yerlerde zaman zaman yenmiş ve Rusya’nın bazı bölgelerinde halk hekimliğinde kullanılmıştır. İsveç, Polonya, Litvanya ve Letonya’da yasayla korunur, bu nedenle toplanmamalıdır.",
+      "confusion": "Büyüklüğü, sulu jöleden oluşan içi ve kadifemsi kahverengi dış yüzü onu Avrupa’da kolayca tanınır kılar. Kuzey Amerika’nın batısında Urnula padeniana ve Pseudosarcosoma latahense de koyu renkli, topaç biçimli, kısmen jelatinli, siyah diskli meyve gövdeleri oluşturur: Pseudosarcosoma latahense daha küçüktür, en çok 4 cm, kısa bir sapı vardır ve içi belirgin biçimde jelatinli değildir; Urnula padeniana’nın dışında ise uzun koyu tüyler bulunur. Plectania melastoma çok daha küçük, en çok 3 cm, dışında turuncu taneciklerin bulunduğu siyah bir kâsedir. Kuzey Amerika’daki bazı kayıtlar bu tür benzer türlere ait olabilir.",
+      "notes": "İlk kez 1793’te Casimir Christoph Schmidel tarafından Burcardia globosa adıyla tanımlanmış ve 1891’de Robert Caspary tarafından Sarcosoma cinsine aktarılmıştır. IUCN Kırmızı Listesi’nde küresel olarak tehdide yakın (2015) değerlendirilmektedir, çünkü yaşlı ladin ormanları tıraşlama kesimle yok edilmektedir; ayrıca Bern Sözleşmesi için önerilen 33 tehdit altındaki mantardan biriydi. Kırmızı listelerde İsveç ve Letonya’da hassas, Norveç ve Litvanya’da tehlike altında, Finlandiya’da ise asgari endişe kategorisindedir; bilinen Avrupa yerlerinin çoğu İsveç’tedir. Tür, 2006’da Letonya’da ve 2026’da Estonya’da yılın mantarı seçildi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий темно-коричневий оксамитовий чашоподібний гриб із роду Sarcosoma, важкі кулясті або бочкоподібні плодові тіла якого заповнені водянистим драглем і несуть зверху блискучий чорний диск. З’являється ранньою весною, невдовзі після танення снігу, у моху під ялинами в старих лісах, переважно в Північній Європі; він рідкісний, зникає і охороняється в кількох країнах.",
+      "cap": "Шапки немає: усе плодове тіло — це чаша діаметром 3–12 cm і заввишки до 12 cm. Спершу воно майже кулясте й замкнене, потім бочкоподібне або дзигоподібне з неглибоким, злегка заглибленим диском угорі; старіючи й втрачаючи воду, воно зморщується і сплющується. Зовнішня поверхня темно-коричнева до чорнувато-коричневої, оксамитова і дедалі зморшкуватіша.",
+      "hymenium": "Спороносний шар утворює круглий диск у неглибокому заглибленні на верхівці плодового тіла; він гладенький або дрібнотріщинуватий, блискучий, чорнувато-коричневий до чорного. У старих плодових тіл диск розширюється, аж поки не вкриє майже всю верхню поверхню.",
+      "stipe": "Ніжки немає; плодове тіло сидяче і сидить просто в моху або в хвойному опаді, часто частково занурене в нього.",
+      "flesh": "Усередині воно заповнене прозорим або сіруватим водянистим драглем, через що плодове тіло напрочуд важке як на свій розмір; одне плодове тіло може містити 35–60 ml рідини і приблизно на 99 % складається з води. Його оточує товста, цупка, пружна зовнішня стінка. Запах і смак невиразні.",
+      "sporePrint": "Білий. Спори безбарвні, гладенькі, еліпсоїдні й тонкостінні, близько 23–30 × 7–12 µm; у кожній сумці вісім спор.",
+      "habitat": "Сапротроф, який, імовірно, розкладає ялинову хвою, хоча мікоризний зв’язок з ялиною не виключено. Росте поодинці або групами в глибокому моху та хвойному опаді у старих, вологих, багатих на поживні речовини ялинниках на добре дренованих ґрунтах, часто вздовж струмків і річок або на гравійних гривах. Плодові тіла з’являються невдовзі після танення снігу, переважно з лютого до травня, а місцями до червня. Основний ареал — Північна Європа, особливо Швеція та Фінляндія; трапляється також у Росії, на сході Північної Америки та у Вірменії, але зник з більшої частини Центральної Європи.",
+      "uses": "У їжу не використовується: вважається неїстівним і не має кулінарної цінності, хоча там, де він плодоносить масово, його іноді їли, а в деяких районах Росії застосовували в народній медицині. Він охороняється законом у Швеції, Польщі, Литві та Латвії, тож збирати його не можна.",
+      "confusion": "Великий розмір, нутрощі з водянистого драглю та оксамитова коричнева зовнішня поверхня роблять його в Європі безпомилково впізнаваним. На заході Північної Америки темні дзигоподібні, частково драглисті плодові тіла з чорним диском утворюють також Urnula padeniana і Pseudosarcosoma latahense: Pseudosarcosoma latahense менша, до 4 cm, з короткою ніжкою і без сильно драглистих нутрощів, а Urnula padeniana має зовні довгі темні волоски. Plectania melastoma — значно менша чорна чашечка, до 3 cm, з помаранчевими гранулами зовні. Деякі північноамериканські знахідки можуть належати таким подібним видам.",
+      "notes": "Уперше описаний Казимиром Крістофом Шміделем у 1793 році як Burcardia globosa і перенесений до роду Sarcosoma Робертом Каспарі у 1891 році. У Червоному списку МСОП (IUCN) він глобально оцінений як близький до загрозливого стану (2015), бо старі ялинові ліси вирубують суцільними рубками, і був одним із 33 загрожених грибів, запропонованих для Бернської конвенції. У червоних списках він уразливий у Швеції та Латвії, перебуває під загрозою в Норвегії та Литві й викликає найменше занепокоєння у Фінляндії; у Швеції розташована більшість відомих європейських місцезнаходжень. Його обрано грибом року в Латвії у 2006 році та в Естонії у 2026 році.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D0%BE%D0%BC%D0%B0_%D0%BA%D1%83%D0%BB%D1%8F%D1%81%D1%82%D0%B0",
+        "https://www.wikidata.org/wiki/Q1791117"
+      ],
+      "label": "саркосома куляста"
+    },
+    "zh": {
+      "description": "Sarcosoma 屬的一種大型、深褐色、天鵝絨質感的盤菌，子實體沉重，球形至桶形，內部充滿水狀膠質，頂端有一個光亮的黑色盤面。早春融雪後不久出現在古老森林中雲杉下的苔蘚裡，主要分布於北歐；它稀有、數量減少，並在數個國家受到保護。",
+      "cap": "沒有菌蓋：整個子實體是一個直徑 3–12 cm、高可達 12 cm 的杯狀體。起初近球形且閉合，之後呈桶形或陀螺形，頂端有淺而略凹陷的盤面；隨著老化與失水而起皺並變扁。外表面深褐色至黑褐色，呈天鵝絨狀，皺紋越來越多。",
+      "hymenium": "子實層在子實體頂端的淺凹處形成圓形盤面；表面平滑至有細裂紋，有光澤，黑褐色至黑色。老熟的子實體盤面會擴大，最終可能覆蓋幾乎整個上表面。",
+      "stipe": "沒有菌柄；子實體無柄，直接坐落於苔蘚或針葉落葉層中，常部分陷入其中。",
+      "flesh": "內部充滿透明至灰色的水狀膠質，因此子實體相對其大小重得出奇；一個子實體可含 35–60 ml 液體，約 99% 是水。外面包著厚而堅韌、有彈性的外壁。氣味和味道不明顯。",
+      "sporePrint": "白色。孢子無色、平滑、橢圓形、壁薄，約 23–30 × 7–12 µm；每個子囊含八個孢子。",
+      "habitat": "可能分解雲杉針葉落葉的腐生菌，但與雲杉形成菌根關係的可能尚未排除。單生或群生於排水良好土壤上潮濕、養分豐富的古老雲杉林中，長在厚厚的苔蘚和針葉落葉層裡，常見於溪流與河流沿岸或礫石脊上。子實體在融雪後不久出現，主要在二月至五月，有些地方可延續到六月。主要分布區在北歐，尤其是瑞典和芬蘭；俄羅斯、北美東部和亞美尼亞也有分布，但已從中歐大部分地區消失。",
+      "uses": "不作食用：被視為不可食且沒有烹飪價值，不過在大量發生的地方偶爾有人食用，在俄羅斯部分地區也曾用於民間醫療。它在瑞典、波蘭、立陶宛和拉脫維亞受法律保護，因此不得採摘。",
+      "confusion": "體型大、內部為水狀膠質、外表為天鵝絨質感的褐色，使它在歐洲很容易辨認。在北美西部，Urnula padeniana 和 Pseudosarcosoma latahense 也會形成帶黑色盤面、深色、陀螺形、部分膠質的子實體：Pseudosarcosoma latahense 較小，最大 4 cm，具短柄，內部沒有高度膠質化；Urnula padeniana 外表有長而深色的毛。Plectania melastoma 是小得多的黑色杯狀體，最大 3 cm，外表有橙色顆粒。北美的部分紀錄可能屬於這類相似物種。",
+      "notes": "1793 年由 卡西米爾·克里斯托夫·施密德爾 首次以 Burcardia globosa 之名描述，1891 年由 羅伯特·卡斯帕里 移入 Sarcosoma 屬。在 IUCN 紅色名錄中，由於古老雲杉林遭到皆伐，它在全球被評為近危（2015），並曾是被提議列入伯恩公約的 33 種受威脅真菌之一。在各國紅色名錄中，它在瑞典和拉脫維亞為易危，在挪威和立陶宛為瀕危，在芬蘭為無危；已知的歐洲產地大多位於瑞典。它曾於 2006 年獲選為拉脫維亞年度真菌，並於 2026 年獲選為愛沙尼亞年度真菌。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg1.webp",
+      "author": "Hanna Larsson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/260255284"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg2.webp",
+      "author": "Axel Gudmundsson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/160945528"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg3.webp",
+      "author": "Valentin Kosterin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/76040571"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg4.webp",
+      "author": "Nina Filippova",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/219115173"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg5.webp",
+      "author": "Johan Adler",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/265403723"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg1.webp",
+      "author": "Hanna Larsson",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/260255284",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/467343804/original.jpeg",
+      "attribution": "© Hanna Larsson, CC BY 4.0, via iNaturalist observation 260255284 / GBIF occurrence 5063715274",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg2.webp",
+      "author": "Axel Gudmundsson",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/160945528",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/278156031/original.jpeg",
+      "attribution": "© Axel Gudmundsson, CC BY 4.0, via iNaturalist observation 160945528 / GBIF occurrence 4937064322",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg3.webp",
+      "author": "Valentin Kosterin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/76040571",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/124417939/original.jpeg",
+      "attribution": "© Valentin Kosterin, CC BY 4.0, via iNaturalist observation 76040571 / GBIF occurrence 3112704855",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg4.webp",
+      "author": "Nina Filippova",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/219115173",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/387804946/original.jpeg",
+      "attribution": "© Nina Filippova, CC BY 4.0, via iNaturalist observation 219115173 / GBIF occurrence 4875221519",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/sg5.webp",
+      "author": "Johan Adler",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/265403723",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/476714771/original.jpeg",
+      "attribution": "© Johan Adler, CC BY 4.0, via iNaturalist observation 265403723 / GBIF occurrence 5087790139",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Burcardia globosa",
+    "Bulgaria globosa",
+    "Peziza burcardia",
+    "Sarcosoma globosum var. platydiscus",
+    "Sarcosoma platydiscus"
+  ],
+  "fruitingFrom": 2,
+  "fruitingTo": 5,
+  "reserved": false,
+  "id": 151,
+  "added": "2026-11-09",
+  "citation": "in Winter, Rabenh. Krypt.-Fl., Edn 2 (Leipzig) 1.3(lief. 35): 497 (1891) [1896]",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "paperResidualP995": 1.688255807567304,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Sarcosoma globosum.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      1024,
+      1024
+    ],
+    "sourceSHA256": "dc1e98dda5270860cc60e183e094a9bab61955406223e8a0300e5d9145d25c9b",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      87,
+      133,
+      937,
+      958
+    ],
+    "uniformScale": 1.6470588235294117,
+    "placement": [
+      100,
+      520
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1359
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 715742,
+    "opaquePixels": 322717,
+    "partialAlphaPixels": 10117,
+    "signatureBox": [
+      800,
+      898,
+      924,
+      962
+    ],
+    "signatureComponents": 4,
+    "signaturePixels": 946,
+    "preservedObjects": [
+      "upper left: young, closed-looking globose fruit body with a pleated, velvety reddish-brown exterior and a glossy violet-black disc in the apical opening",
+      "lower right: old, collapsed, deeply wrinkled dark-brown fruit body with an open, irregular mouth and folded glossy black interior",
+      "drawn cast shadows under both figures",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 324941.0,
+        "box": [
+          88,
+          134,
+          848,
+          757
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected (art_fullsize_inspection.png, original_vs_composition.jpg): both figures (young globose fruit body with violet-black disc; old collapsed wrinkled fruit body) kept whole with their drawn shadows; paper removed by robust paper-only fit; no visible fringe on the standard background; existing Gemini mark kept once; one standard background frame only; no double frame, no added mark.",
+    "alphaPNGSHA256": "fac74201685fee0293a020aae725a3cd71d39e4987ca93294a4fee55837a9068",
+    "maskSHA256": "c1dd9e4ad5cf0015dec8403f9ff7c38c5d44aefdf2fd5b713980e97891ff5b09",
+    "recipeSHA256": "05e183c0a723e34e654d96f82c8aa63b14fbef46cf354cd2ac2db6ea8373cd22",
+    "officialFiles": [
+      {
+        "path": "media/Sarcosoma_globosum@1600.webp",
+        "bytes": 230380,
+        "sha256": "421f43010826887a0a5f8dd81138301f1496cfce8c298068ac6430252ef0ee94"
+      },
+      {
+        "path": "media/Sarcosoma_globosum@400.webp",
+        "bytes": 25528,
+        "sha256": "2a03b99ebb91f0df6280c9f35fa7706c4b1f6d2d7c7b2c0c74afca00e0a70c24"
+      }
+    ]
+  }
+},
+{
+  "name": "Chorioactis geaster",
+  "author": "(Peck) Kupfer ex Eckblad",
+  "family": "Chorioactidaceae",
+  "genus": "Chorioactis",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Chorioactidaceae",
+    "Chorioactis"
+  ],
+  "summary": [
+    "Pezizales",
+    "Chorioactidaceae",
+    "Chorioactis"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood",
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "dark",
+    "yellow"
+  ],
+  "capFrom": 10.0,
+  "capTo": 20.0,
+  "stipeHeightFrom": 1.0,
+  "stipeHeightTo": 5.0,
+  "stipeThickFrom": 0.75,
+  "stipeThickTo": 1.5,
+  "label": {
+    "ar": "Chorioactis geaster",
+    "bg": "Chorioactis geaster",
+    "cs": "Chorioactis geaster",
+    "da": "Chorioactis geaster",
+    "de": "Chorioactis geaster",
+    "en": "Texas star",
+    "es": "Chorioactis geaster",
+    "et": "Chorioactis geaster",
+    "fa": "Chorioactis geaster",
+    "fi": "Chorioactis geaster",
+    "fr": "Chorioactis geaster",
+    "he": "Chorioactis geaster",
+    "hi": "Chorioactis geaster",
+    "hr": "Chorioactis geaster",
+    "hu": "Chorioactis geaster",
+    "id": "Chorioactis geaster",
+    "it": "Chorioactis geaster",
+    "ja": "キリノミタケ",
+    "ko": "Chorioactis geaster",
+    "lt": "Chorioactis geaster",
+    "lv": "Chorioactis geaster",
+    "nl": "Chorioactis geaster",
+    "no": "Chorioactis geaster",
+    "pl": "Chorioactis geaster",
+    "pt": "Chorioactis geaster",
+    "ro": "Chorioactis geaster",
+    "ru": "Chorioactis geaster",
+    "sk": "Chorioactis geaster",
+    "sl": "Chorioactis geaster",
+    "sr": "Chorioactis geaster",
+    "sv": "Chorioactis geaster",
+    "tr": "Chorioactis geaster",
+    "uk": "Chorioactis geaster",
+    "zh": "地星狀裂杯菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "devil's cigar"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=328180",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=328180",
+      "https://www.gbif.org/species/7761763",
+      "https://en.wikipedia.org/wiki/Chorioactis",
+      "https://capitol.texas.gov/tlodocs/87R/billtext/html/HC00061F.htm",
+      "https://www.mushroomexpert.com/chorioactis_geaster.html",
+      "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/05-5thredlist-fungi.pdf",
+      "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/10-5threddatabook-fungi.pdf",
+      "https://www.npsot.org/posts/plant-of-the-month-texas-star-mushroom/",
+      "https://texascooppower.com/this-fungus-is-a-star/",
+      "https://api.gbif.org/v1/species/7761763/vernacularNames"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/05-5thredlist-fungi.pdf",
+      "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/10-5threddatabook-fungi.pdf",
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%8E%E3%83%9F%E3%82%BF%E3%82%B1",
+      "https://api.gbif.org/v1/species/7761763/vernacularNames"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://api.gbif.org/v1/species/7761763/vernacularNames"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كأسي نادر من جنس Chorioactis يبدأ على شكل كبسولة بنية داكنة مشعرة تشبه السيجار، ثم ينشق إلى نجمة جلدية سطحها الداخلي برتقالي باهت. ينمو على الجذور الميتة وجذوع الأشجار المقطوعة، ولا سيما الدردار في تكساس والبلوط في اليابان، ولا يُعرف إلا من جنوب الولايات المتحدة واليابان وتايوان.",
+      "cap": "لا قبعة له. الجسم الثمري الفتي كبسولة مغلقة مجوفة، هراوية إلى مغزلية، طولها ٤–١٤ cm وعرضها ١٫٢–٥ cm، مغطاة بكثافة بشعيرات بنية ناعمة. وعند النضج تنشق من القمة إلى ٤–٧ أذرع جلدية تنحني إلى الخارج وإلى الأسفل مكوّنة نجمة قطرها نحو ١٠–٢٠ cm.",
+      "hymenium": "تبطّن الطبقة الحاملة للأبواغ داخل الكبسولة وتنكشف على الوجه العلوي للأذرع عند انفتاحها. وهي ملساء جرداء، بيضاء مائلة في البداية، ثم بلون الزعفران أو السلمون أو برتقالية مائلة إلى البني، وأخيرًا صفراء باهتة إلى بنية كستنائية. ويبقى الوجه الخارجي للأذرع بنيًا داكنًا إلى أسود تقريبًا ومشعرًا.",
+      "stipe": "تصل ساق قصيرة طولها ١–٥ cm وسمكها ٠٫٧٥–١٫٥ cm الجسم الثمري بجذر مدفون. وعادة ما تكون مخفية في التربة، ومثل السطح الخارجي للكبسولة تكسوها شعيرات بنية مخملية.",
+      "flesh": "اللحم أبيض مائل، متماسك وجلدي؛ ويبلغ سمك الأذرع حتى ٠٫٣٥ cm. ليست له رائحة مميزة.",
+      "sporePrint": "غير مسجّل. عندما ينفتح الجسم الثمري قد تخرج الأبواغ على هيئة سحابة بيضاء تشبه الدخان. وهي كبيرة جدًا، نحو ٥٤–٧٥ × ١٠–١٧ µm، مغزلية ومسطحة قليلًا من جانب واحد، عديمة اللون، ملساء أو منقّرة نقرًا دقيقًا جدًا، وفيها ٣–٥ قطرات زيت؛ ويحمل كل كيس ثمانية أبواغ.",
+      "habitat": "غالبًا رمّي يحلل الخشب الميت. في تكساس ينمو منفردًا أو في مجموعات على جذوع متحللة وجذور ميتة لشجرة الدردار Ulmus crassifolia أو بجوارها، وكثيرًا ما يكون ذلك في أماكن تغمرها المياه من حين لآخر، وتنشأ الساق على عمق ٥–١٠ cm تحت سطح الأرض؛ وفي اليابان ينمو على جذوع ساقطة لأشجار البلوط مثل Quercus gilva في الغابات الطبيعية. في تكساس يثمر في الموسم البارد، غالبًا من أكتوبر إلى أبريل. ولا يُعرف إلا من وسط تكساس وشمالها، ومقاطعة واحدة في أوكلاهوما، وبضع محافظات في اليابان، وشمال تايوان؛ وقد انفصلت الجماعات الأمريكية عن اليابانية منذ ١٩ مليون سنة على الأقل.",
+      "uses": "لا يؤكل: لا يُعرف أنه سام، لكنه قاسٍ وجلدي ويُعدّ غير صالح للأكل. ولأنه نادر جدًا، يُفضَّل تصويره بدلًا من قطفه. وفي عام ٢٠٢١ أُعلن الفطر الرسمي لولاية تكساس.",
+      "confusion": "تجعله مرحلته الفتية المشعرة الشبيهة بالسيجار ومرحلته الناضجة النجمية لا يُخلط بغيره. فالنجوم الأرضية (Geastrum) تنفتح هي أيضًا على شكل نجمة، لكنها من أقارب الفطريات النفّاخة، ولها كيس أبواغ مستدير في الوسط وليس لها سطح مفتوح حامل للأبواغ. أما أقاربه في الفصيلة نفسها، مثل Wolfina و Desmazierella، فتكوّن كؤوسًا ذات سطح خصب داكن ولا تنشق على شكل نجمة.",
+      "notes": "جُمع لأول مرة في أوستن بتكساس، ووصفه تشارلز هورتون بيك عام ١٨٩٣ باسم Urnula geaster. واقترحت إلسي كوبفر الجنس Chorioactis عام ١٩٠٢، لكنه لم يُنشر نشرًا صحيحًا إلا على يد فين-إيغيل إكبلاد عام ١٩٦٨؛ ومنذ ٢٠٠٨ يوضع الجنس في فصيلة خاصة به مع ثلاثة أجناس قريبة. ويمكن للجسم الثمري عند انفتاحه أن يطلق أبواغه مع فحيح مسموع. ووُصف طوره اللاجنسي من اليابان عام ٢٠٠٩ باسم Kumanasamuha geaster. وفي اليابان مدرج في القائمة الحمراء بوصفه معرضًا للخطر (٢٠٢٥).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Рядка торбеста гъба от рода Chorioactis, която отначало изглежда като тъмнокафява, космата капсула с форма на пура, а после се разтваря в кожеста звезда със светлооранжева вътрешна повърхност. Расте върху мъртви корени и пънове, главно на брястове в Тексас и на дъбове в Япония, и е известна само от юга на САЩ, от Япония и от Тайван.",
+      "cap": "Шапка няма. Младото плодно тяло е затворена, куха, бухалковидна до вретеновидна капсула, дълга 4–14 cm и широка 1,2–5 cm, гъсто покрита с меки кафяви власинки. При узряване то се разпуква от върха на 4–7 кожести дяла, които се извиват навън и надолу и образуват звезда с диаметър около 10–20 cm.",
+      "hymenium": "Спороносният слой покрива вътрешността на капсулата и след отварянето остава открит по горната страна на дяловете. Той е гладък и гол, отначало белезникав, после шафранов, сьомгов или кафеникавооранжев и накрая матовожълт до кестеновокафяв. Външната страна на дяловете остава тъмнокафява до почти черна и космата.",
+      "stipe": "Късо пънче, дълго 1–5 cm и дебело 0,75–1,5 cm, свързва плодното тяло със заровен корен. Обикновено е скрито в почвата и, както външната страна на капсулата, е покрито с кафяви кадифени власинки.",
+      "flesh": "Месото е белезникаво, твърдо и кожесто; дяловете са дебели до 0,35 cm. Няма отчетлива миризма.",
+      "sporePrint": "Не е описан. Когато плодното тяло се отвори, спорите могат да излязат като белезникаво облаче, подобно на дим. Те са много едри, около 54–75 × 10–17 µm, вретеновидни и леко сплеснати от едната страна, безцветни, гладки или много фино ямчести, с 3–5 маслени капки; всяка торбичка съдържа осем спори.",
+      "habitat": "Вероятно сапротроф на мъртва дървесина. В Тексас расте поединично или на групи върху гниещи пънове и мъртви корени на бряста Ulmus crassifolia или до тях, често на места, които от време на време се наводняват, като пънчето излиза на 5–10 cm под повърхността на почвата; в Япония расте върху паднали стволове на дъбове като Quercus gilva в естествени гори. В Тексас плододава през хладния сезон, най-често от октомври до април. Известна е само от централната и северната част на Тексас, от един окръг в Оклахома, от няколко префектури в Япония и от северен Тайван; американските и японските популации са разделени от поне 19 милиона години.",
+      "uses": "Не се яде: не е известно да е отровна, но е жилава и кожеста и се смята за негодна за ядене. Тъй като е толкова рядка, по-добре е да се снима, отколкото да се бере. През 2021 г. е обявена за официална гъба на щата Тексас.",
+      "confusion": "Космат стадий с форма на пура в младост и звездовиден стадий в зрялост я правят несъмнено разпознаваема. Звездичките (Geastrum) също се разтварят като звезда, но те са родственици на пърхутките, с кръгла торбичка със спори в средата и без открита спороносна повърхност. Нейните родственици от същото семейство, например Wolfina и Desmazierella, образуват чашки с тъмна спороносна повърхност и не се разпукват като звезда.",
+      "notes": "За първи път е събрана в Остин, Тексас, и е описана от Чарлз Хортън Пек през 1893 г. като Urnula geaster. Елси Купфер предлага рода Chorioactis през 1902 г., но валидно той е публикуван едва от Фин-Егил Екблад през 1968 г.; от 2008 г. родът се поставя в собствено семейство заедно с три сродни рода. Разтварящото се плодно тяло може да изпусне спорите си с чуто съскане. Безполовият ѝ стадий е описан от Япония през 2009 г. като Kumanasamuha geaster. В Япония е в Червения списък като уязвима (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Vzácná houba ze skupiny terčoplodých hub z rodu Chorioactis, která nejprve vypadá jako tmavě hnědé, chlupaté pouzdro tvaru doutníku a potom se roztrhne v kožovitou hvězdu se světle oranžovým vnitřním povrchem. Roste na odumřelých kořenech a pařezech, hlavně jilmů v Texasu a dubů v Japonsku, a je známa jen z jihu Spojených států, z Japonska a Tchaj-wanu.",
+      "cap": "Klobouk nemá. Mladá plodnice je uzavřené, duté, kyjovité až vřetenovité pouzdro dlouhé 4–14 cm a široké 1,2–5 cm, hustě pokryté měkkými hnědými chloupky. V dospělosti se od vrcholu roztrhne na 4–7 kožovitých cípů, které se ohýbají ven a dolů a tvoří hvězdu širokou asi 10–20 cm.",
+      "hymenium": "Výtrusorodá vrstva vystýlá vnitřek pouzdra a po otevření je odkrytá na horní straně cípů. Je hladká a lysá, zprvu bělavá, pak šafránová, lososová nebo hnědooranžová a nakonec matně žlutá až kaštanově hnědá. Vnější strana cípů zůstává tmavě hnědá až téměř černá a chlupatá.",
+      "stipe": "Krátký třeň dlouhý 1–5 cm a silný 0,75–1,5 cm spojuje plodnici se zahrabaným kořenem. Obvykle je skrytý v půdě a stejně jako vnějšek pouzdra je pokrytý hnědými sametovými chloupky.",
+      "flesh": "Dužnina je bělavá, pevná a kožovitá; cípy jsou silné až 0,35 cm. Nemá výraznou vůni.",
+      "sporePrint": "Nezaznamenán. Když se plodnice otevře, mohou výtrusy uniknout jako bělavý obláček podobný kouři. Jsou velmi velké, asi 54–75 × 10–17 µm, vřetenovité a na jedné straně mírně zploštělé, bezbarvé, hladké nebo velmi jemně důlkaté, se 3–5 olejovými kapkami; každé vřecko obsahuje osm výtrusů.",
+      "habitat": "Pravděpodobně saprotrof odumřelého dřeva. V Texasu roste jednotlivě nebo ve skupinách na tlejících pařezech a odumřelých kořenech jilmu Ulmus crassifolia nebo vedle nich, často na místech, která občas zaplavuje voda, přičemž třeň vyrůstá 5–10 cm pod povrchem půdy; v Japonsku roste na padlých kmenech dubů, například Quercus gilva, v přirozených lesích. V Texasu plodí v chladném období, většinou od října do dubna. Je známa jen ze středního a severního Texasu, z jednoho okresu v Oklahomě, z několika prefektur v Japonsku a ze severního Tchaj-wanu; americké a japonské populace jsou oddělené nejméně 19 milionů let.",
+      "uses": "Nejí se: není známo, že by byla jedovatá, ale je tuhá a kožovitá a považuje se za nejedlou. Protože je tak vzácná, je lepší ji fotografovat než sbírat. V roce 2021 byla vyhlášena oficiální státní houbou Texasu.",
+      "confusion": "Chlupaté mladé stadium tvaru doutníku a hvězdovité dospělé stadium ji činí nezaměnitelnou. Také houby rodu Geastrum se otevírají do hvězdy, jsou to však příbuzní pýchavek s kulatým výtrusným vakem uprostřed a bez otevřené výtrusorodé plochy. Její příbuzní ze stejné čeledi, například Wolfina a Desmazierella, tvoří misky s tmavým výtrusorodým povrchem a do hvězdy se netrhají.",
+      "notes": "Poprvé byla sbírána v Austinu v Texasu a Charles Horton Peck ji v roce 1893 popsal jako Urnula geaster. Elsie Kupfer navrhla rod Chorioactis v roce 1902, ale platně jej publikoval až Finn-Egil Eckblad v roce 1968; od roku 2008 je rod řazen do vlastní čeledi spolu se třemi příbuznými rody. Otevírající se plodnice může uvolnit výtrusy se slyšitelným syčením. Její nepohlavní stadium bylo popsáno z Japonska v roce 2009 jako Kumanasamuha geaster. V Japonsku je na červeném seznamu jako zranitelná (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En sjælden sæksvamp af slægten Chorioactis, der begynder som en mørkebrun, behåret, cigarformet kapsel og derefter revner op til en læderagtig stjerne med lyst orange inderside. Den vokser på døde rødder og stubbe, især af elm i Texas og af eg i Japan, og kendes kun fra det sydlige USA, Japan og Taiwan.",
+      "cap": "Der er ingen hat. Det unge frugtlegeme er en lukket, hul, kølle- til tenformet kapsel, 4–14 cm lang og 1,2–5 cm bred, tæt dækket af bløde brune hår. Ved modenhed revner den fra toppen i 4–7 læderagtige flige, som bøjer udad og nedad og danner en stjerne på ca. 10–20 cm i tværmål.",
+      "hymenium": "Det sporebærende lag beklæder kapslens inderside og blotlægges på fligenes overside, når den åbner sig. Det er glat og hårløst, først hvidligt, siden safranfarvet, laksefarvet eller brunligt orange og til sidst mat gult til kastanjebrunt. Fligenes yderside forbliver mørkebrun til næsten sort og behåret.",
+      "stipe": "En kort stok, 1–5 cm lang og 0,75–1,5 cm tyk, forbinder frugtlegemet med en nedgravet rod. Den er som regel skjult i jorden og er ligesom kapslens yderside dækket af brune, fløjlsagtige hår.",
+      "flesh": "Kødet er hvidligt, fast og læderagtigt; fligene er op til 0,35 cm tykke. Der er ingen tydelig lugt.",
+      "sporePrint": "Ikke registreret. Når frugtlegemet åbner sig, kan sporerne slippe ud som en hvidlig, røglignende sky. De er meget store, ca. 54–75 × 10–17 µm, tenformede og let affladede på den ene side, farveløse, glatte eller meget fint prikkede, med 3–5 oliedråber; hver sæk indeholder otte sporer.",
+      "habitat": "Sandsynligvis en saprotrof på dødt ved. I Texas vokser den enkeltvis eller i grupper på eller ved siden af rådnende stubbe og døde rødder af elmen Ulmus crassifolia, ofte på steder der jævnligt oversvømmes, og stokken udspringer 5–10 cm under jordoverfladen; i Japan vokser den på væltede stammer af eg som Quercus gilva i naturskov. I Texas danner den frugtlegemer i den kølige årstid, mest fra oktober til april. Den kendes kun fra det centrale og nordlige Texas, et county i Oklahoma, nogle få præfekturer i Japan og det nordlige Taiwan; de amerikanske og japanske bestande har været adskilt i mindst 19 millioner år.",
+      "uses": "Spises ikke: den vides ikke at være giftig, men er sej og læderagtig og regnes for uspiselig. Da den er så sjælden, bør den fotograferes frem for at blive plukket. I 2021 blev den udnævnt til Texas' officielle delstatssvamp.",
+      "confusion": "Det behårede, cigarformede unge stadium og det stjerneformede modne stadium gør den umiskendelig. Stjernebolde (Geastrum) åbner sig også som stjerner, men de er i familie med støvbolde og har en rund sporesæk i midten og ingen åben sporebærende flade. Dens slægtninge i samme familie, såsom Wolfina og Desmazierella, danner bægre med en mørk frugtbar flade og revner ikke op som en stjerne.",
+      "notes": "Den blev først indsamlet i Austin, Texas, og beskrevet af Charles Horton Peck i 1893 som Urnula geaster. Elsie Kupfer foreslog slægten Chorioactis i 1902, men den blev først gyldigt publiceret af Finn-Egil Eckblad i 1968; siden 2008 er slægten placeret i sin egen familie sammen med tre beslægtede slægter. Det åbnende frugtlegeme kan frigive sine sporer med en hørbar hvislen. Dens ukønnede stadium blev beskrevet fra Japan i 2009 som Kumanasamuha geaster. I Japan er den rødlistet som sårbar (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein seltener Schlauchpilz aus der Gattung Chorioactis, der zunächst eine dunkelbraune, behaarte, zigarrenförmige Kapsel bildet und dann zu einem ledrigen Stern mit hellorangefarbener Innenseite aufreißt. Er wächst auf abgestorbenen Wurzeln und Stümpfen, vor allem von Ulmen in Texas und von Eichen in Japan, und ist nur aus dem Süden der Vereinigten Staaten, aus Japan und Taiwan bekannt.",
+      "cap": "Ein Hut fehlt. Der junge Fruchtkörper ist eine geschlossene, hohle, keulen- bis spindelförmige Kapsel von 4–14 cm Länge und 1,2–5 cm Breite, dicht mit weichen braunen Haaren bedeckt. Bei Reife reißt er von der Spitze her in 4–7 ledrige Lappen auf, die sich nach außen und unten biegen und einen Stern von etwa 10–20 cm Durchmesser bilden.",
+      "hymenium": "Die sporenbildende Schicht kleidet das Innere der Kapsel aus und liegt nach dem Öffnen auf der Oberseite der Lappen frei. Sie ist glatt und kahl, anfangs weißlich, dann safranfarben, lachsfarben oder bräunlich orange und schließlich matt gelb bis kastanienbraun. Die Außenseite der Lappen bleibt dunkelbraun bis fast schwarz und behaart.",
+      "stipe": "Ein kurzer Stiel von 1–5 cm Länge und 0,75–1,5 cm Dicke verbindet den Fruchtkörper mit einer vergrabenen Wurzel. Er ist meist im Boden verborgen und wie die Außenseite der Kapsel mit braunen, samtigen Haaren bedeckt.",
+      "flesh": "Das Fleisch ist weißlich, fest und ledrig; die Lappen sind bis 0,35 cm dick. Ein besonderer Geruch fehlt.",
+      "sporePrint": "Nicht dokumentiert. Wenn sich der Fruchtkörper öffnet, können die Sporen als weißliche, rauchartige Wolke entweichen. Sie sind sehr groß, etwa 54–75 × 10–17 µm, spindelförmig und auf einer Seite leicht abgeflacht, farblos, glatt oder sehr fein punktiert, mit 3–5 Öltropfen; jeder Schlauch enthält acht Sporen.",
+      "habitat": "Wahrscheinlich ein Saprobiont von Totholz. In Texas wächst er einzeln oder in Gruppen auf oder neben vermodernden Stümpfen und abgestorbenen Wurzeln der Ulme Ulmus crassifolia, oft an Stellen, die zeitweise überflutet werden, wobei der Stiel 5–10 cm unter der Erdoberfläche entspringt; in Japan wächst er in naturnahen Wäldern auf umgestürzten Stämmen von Eichen wie Quercus gilva. In Texas fruchtet er in der kühlen Jahreszeit, meist von Oktober bis April. Er ist nur aus dem mittleren und nördlichen Texas, einem County in Oklahoma, einigen Präfekturen in Japan und dem Norden Taiwans bekannt; die amerikanischen und japanischen Populationen sind seit mindestens 19 Millionen Jahren getrennt.",
+      "uses": "Kein Speisepilz: Er gilt nicht als giftig, ist aber zäh und ledrig und wird als ungenießbar angesehen. Da er so selten ist, sollte man ihn fotografieren statt sammeln. 2021 wurde er zum offiziellen Staatspilz von Texas erklärt.",
+      "confusion": "Das behaarte, zigarrenförmige Jugendstadium und das sternförmige Reifestadium machen ihn unverwechselbar. Auch Erdsterne (Geastrum) öffnen sich sternförmig, sind aber Verwandte der Stäublinge mit einem runden Sporensack in der Mitte und ohne offene sporenbildende Fläche. Seine Verwandten in derselben Familie, etwa Wolfina und Desmazierella, bilden Becher mit dunkler fruchtbarer Fläche und reißen nicht sternförmig auf.",
+      "notes": "Er wurde zuerst in Austin, Texas, gesammelt und 1893 von Charles Horton Peck als Urnula geaster beschrieben. Elsie Kupfer schlug 1902 die Gattung Chorioactis vor, gültig veröffentlicht wurde sie aber erst 1968 von Finn-Egil Eckblad; seit 2008 steht die Gattung zusammen mit drei verwandten Gattungen in einer eigenen Familie. Der sich öffnende Fruchtkörper kann seine Sporen mit einem hörbaren Zischen freisetzen. Sein ungeschlechtliches Stadium wurde 2009 aus Japan als Kumanasamuha geaster beschrieben. In Japan steht er auf der Roten Liste als gefährdet (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "en": {
+      "description": "A rare cup fungus of the genus Chorioactis that starts as a dark brown, hairy, cigar-shaped capsule and then splits open into a leathery star with a pale orange inner surface. It grows on dead roots and stumps, mainly of cedar elm in Texas and of oaks in Japan, and is known only from the southern United States, Japan and Taiwan.",
+      "cap": "There is no cap. The young fruit body is a closed, hollow, club- to spindle-shaped capsule 4–14 cm long and 1.2–5 cm wide, densely covered in soft brown hairs. At maturity it splits from the top into 4–7 leathery rays that curve outwards and downwards, forming a star about 10–20 cm across.",
+      "hymenium": "The spore-bearing layer lines the inside of the capsule and is exposed on the upper face of the rays when it opens. It is smooth and hairless, whitish at first, then saffron, salmon or brownish orange, and finally dull yellow to chestnut brown. The outer face of the rays stays dark brown to almost black and hairy.",
+      "stipe": "A short stem 1–5 cm long and 0.75–1.5 cm thick connects the fruit body to a buried root. It is usually hidden in the soil and, like the outside of the capsule, is covered in brown velvety hairs.",
+      "flesh": "The flesh is whitish, firm and leathery; the rays are up to 0.35 cm thick. It has no distinctive smell.",
+      "sporePrint": "Not recorded. When the fruit body opens, the spores can escape as a whitish, smoke-like cloud. They are very large, about 54–75 × 10–17 µm, spindle-shaped and slightly flattened on one side, colourless, smooth or very finely pitted, with 3–5 oil drops; each ascus holds eight spores.",
+      "habitat": "Probably a saprotroph of dead wood. In Texas it grows singly or in groups on or next to decaying stumps and dead roots of cedar elm (Ulmus crassifolia), often in places that flood from time to time, with the stem arising 5–10 cm below the ground; in Japan it grows on fallen trunks of oaks such as Quercus gilva in natural forest. In Texas it fruits in the cool season, mostly from October to April. It is known only from central and northern Texas, one county in Oklahoma, a few prefectures in Japan and northern Taiwan; the American and Japanese populations have been separated for at least 19 million years.",
+      "uses": "Not eaten: it is not known to be poisonous, but it is tough and leathery and is considered inedible. Because it is so rare, it should be photographed rather than picked. In 2021 it was designated the official State Mushroom of Texas.",
+      "confusion": "The hairy, cigar-shaped young stage and the star-shaped mature stage make it unmistakable. Earthstars (Geastrum) also open into stars, but they are puffball relatives with a round spore sac in the centre and no open spore-bearing surface. Its relatives in the same family, such as Wolfina and Desmazierella, form cups with a dark fertile surface and do not split into a star.",
+      "notes": "It was first collected in Austin, Texas, and described by Charles Horton Peck in 1893 as Urnula geaster. Elsie Kupfer proposed the genus Chorioactis in 1902, but it was validly published only by Finn-Egil Eckblad in 1968; since 2008 the genus has been placed in its own family together with three related genera. The opening fruit body can release its spores with an audible hiss. Its asexual stage was described from Japan in 2009 as Kumanasamuha geaster. In Japan it is red-listed as vulnerable (2025).",
+      "names": [
+        "devil's cigar"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=328180",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=328180",
+        "https://www.gbif.org/species/7761763",
+        "https://en.wikipedia.org/wiki/Chorioactis",
+        "https://capitol.texas.gov/tlodocs/87R/billtext/html/HC00061F.htm",
+        "https://www.mushroomexpert.com/chorioactis_geaster.html",
+        "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/05-5thredlist-fungi.pdf",
+        "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/10-5threddatabook-fungi.pdf",
+        "https://www.npsot.org/posts/plant-of-the-month-texas-star-mushroom/",
+        "https://texascooppower.com/this-fungus-is-a-star/",
+        "https://api.gbif.org/v1/species/7761763/vernacularNames"
+      ],
+      "label": "Texas star"
+    },
+    "es": {
+      "description": "Un hongo raro del género Chorioactis que empieza como una cápsula marrón oscura, peluda y con forma de puro, y luego se abre en una estrella coriácea con la cara interna de color naranja pálido. Crece sobre raíces muertas y tocones, sobre todo de olmos en Texas y de robles en Japón, y solo se conoce del sur de Estados Unidos, Japón y Taiwán.",
+      "cap": "No tiene sombrero. El cuerpo fructífero joven es una cápsula cerrada, hueca, de claviforme a fusiforme, de 4–14 cm de largo y 1,2–5 cm de ancho, densamente cubierta de pelos marrones y suaves. Al madurar se abre desde el ápice en 4–7 lacinias coriáceas que se curvan hacia fuera y hacia abajo, formando una estrella de unos 10–20 cm de diámetro.",
+      "hymenium": "La capa fértil recubre el interior de la cápsula y queda expuesta en la cara superior de las lacinias al abrirse. Es lisa y glabra, al principio blanquecina, luego azafrán, salmón o naranja parduzco, y finalmente amarillo apagado a castaño. La cara externa de las lacinias sigue siendo marrón oscura a casi negra y peluda.",
+      "stipe": "Un pie corto de 1–5 cm de largo y 0,75–1,5 cm de grosor une el cuerpo fructífero a una raíz enterrada. Suele quedar oculto en el suelo y, como el exterior de la cápsula, está cubierto de pelos marrones aterciopelados.",
+      "flesh": "La carne es blanquecina, firme y coriácea; las lacinias tienen hasta 0,35 cm de grosor. No tiene un olor característico.",
+      "sporePrint": "No registrada. Cuando el cuerpo fructífero se abre, las esporas pueden salir como una nube blanquecina parecida al humo. Son muy grandes, de unos 54–75 × 10–17 µm, fusiformes y ligeramente aplanadas por un lado, incoloras, lisas o muy finamente punteadas, con 3–5 gotas de aceite; cada asca contiene ocho esporas.",
+      "habitat": "Probablemente saprótrofo de madera muerta. En Texas crece aislado o en grupos sobre tocones en descomposición y raíces muertas del olmo Ulmus crassifolia o junto a ellos, a menudo en lugares que se inundan de vez en cuando, con el pie naciendo 5–10 cm bajo el suelo; en Japón crece sobre troncos caídos de robles como Quercus gilva en bosque natural. En Texas fructifica en la estación fresca, sobre todo de octubre a abril. Solo se conoce del centro y norte de Texas, un condado de Oklahoma, algunas prefecturas de Japón y el norte de Taiwán; las poblaciones estadounidenses y japonesas llevan separadas al menos 19 millones de años.",
+      "uses": "No se come: no se sabe que sea venenoso, pero es duro y coriáceo y se considera no comestible. Como es tan raro, conviene fotografiarlo en lugar de recogerlo. En 2021 fue declarado hongo oficial del estado de Texas.",
+      "confusion": "El estadio joven peludo con forma de puro y el estadio maduro en forma de estrella lo hacen inconfundible. Las estrellas de tierra (Geastrum) también se abren en estrella, pero son parientes de los pedos de lobo, con un saco de esporas redondo en el centro y sin superficie fértil abierta. Sus parientes de la misma familia, como Wolfina y Desmazierella, forman copas con una superficie fértil oscura y no se abren en estrella.",
+      "notes": "Se recolectó por primera vez en Austin, Texas, y Charles Horton Peck lo describió en 1893 como Urnula geaster. Elsie Kupfer propuso el género Chorioactis en 1902, pero no fue publicado válidamente hasta 1968, por Finn-Egil Eckblad; desde 2008 el género se sitúa en una familia propia junto con otros tres géneros afines. El cuerpo fructífero, al abrirse, puede liberar sus esporas con un silbido audible. Su fase asexual se describió de Japón en 2009 como Kumanasamuha geaster. En Japón figura en la lista roja como vulnerable (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Haruldane kottseen perekonnast Chorioactis, mis on algul tumepruun, karvane, sigarikujuline kapsel ja lõheneb seejärel nahkjaks täheks, mille sisekülg on kahvatuoranž. Ta kasvab surnud juurtel ja kändudel, Texases peamiselt jalakatel ja Jaapanis tammedel, ning teda tuntakse ainult Ameerika Ühendriikide lõunaosast, Jaapanist ja Taiwanist.",
+      "cap": "Kübarat ei ole. Noor viljakeha on suletud, õõnes, nuia- kuni värtnakujuline kapsel, 4–14 cm pikk ja 1,2–5 cm lai, tihedalt kaetud pehmete pruunide karvadega. Valminuna lõheneb see tipust 4–7 nahkjaks hõlmaks, mis painduvad välja- ja allapoole ning moodustavad umbes 10–20 cm läbimõõduga tähe.",
+      "hymenium": "Eoseid moodustav kiht vooderdab kapsli sisekülge ja jääb avanemisel paljaks hõlmade ülaküljel. See on sile ja paljas, algul valkjas, siis safrani-, lõhe- või pruunikasoranž ning lõpuks tuhmkollane kuni kastanpruun. Hõlmade välimine külg jääb tumepruuniks kuni peaaegu mustaks ja karvaseks.",
+      "stipe": "Lühike, 1–5 cm pikkune ja 0,75–1,5 cm jämedune jalg ühendab viljakeha mattunud juurega. Tavaliselt on see mullas peidus ja nagu kapsli väliskülg kaetud pruunide sametiste karvadega.",
+      "flesh": "Viljaliha on valkjas, tihke ja nahkjas; hõlmad on kuni 0,35 cm paksud. Selget lõhna ei ole.",
+      "sporePrint": "Pole kirjeldatud. Viljakeha avanemisel võivad eosed paiskuda välja valkja, suitsutaolise pilvena. Need on väga suured, umbes 54–75 × 10–17 µm, värtnakujulised ja ühelt küljelt veidi lamenenud, värvitud, siledad või väga peenelt täpilised, 3–5 õlitilgaga; igas eoskotis on kaheksa eost.",
+      "habitat": "Tõenäoliselt surnud puidu lagundaja. Texases kasvab ta üksikult või rühmadena kõdunevatel kändudel ja jalaka Ulmus crassifolia surnud juurtel või nende kõrval, sageli aeg-ajalt üleujutatavates kohtades, kusjuures jalg algab 5–10 cm sügavuselt maapinnast; Jaapanis kasvab ta looduslikes metsades tammede, näiteks Quercus gilva, mahalangenud tüvedel. Texases viljub ta jahedal aastaajal, peamiselt oktoobrist aprillini. Teda tuntakse ainult Texase kesk- ja põhjaosast, ühest Oklahoma maakonnast, mõnest Jaapani prefektuurist ja Taiwani põhjaosast; Ameerika ja Jaapani populatsioonid on olnud lahus vähemalt 19 miljonit aastat.",
+      "uses": "Ei sööda: teda ei peeta mürgiseks, kuid ta on sitke ja nahkjas ning loetakse söödamatuks. Kuna ta on nii haruldane, tuleks teda pigem pildistada kui korjata. 2021. aastal kuulutati ta Texase ametlikuks osariigi seeneks.",
+      "confusion": "Karvane, sigarikujuline noorstaadium ja tähekujuline küps staadium teevad ta eksimatult äratuntavaks. Ka maatähed (Geastrum) avanevad täheks, kuid need on tolmuseente sugulased, kellel on keskel ümar eoskott ja puudub avatud eoseid moodustav pind. Tema sugulased samast sugukonnast, näiteks Wolfina ja Desmazierella, moodustavad tumeda viljakandva pinnaga karikaid ega lõhene täheks.",
+      "notes": "Esimest korda koguti ta Austinis Texases ning Charles Horton Peck kirjeldas teda 1893. aastal nime all Urnula geaster. Elsie Kupfer pakkus perekonna Chorioactis välja 1902. aastal, kuid kehtivalt avaldas selle alles Finn-Egil Eckblad 1968. aastal; alates 2008. aastast paigutatakse perekond koos kolme suguluses oleva perekonnaga omaette sugukonda. Avanev viljakeha võib eosed vabastada kuuldava sisinaga. Tema mittesuguline staadium kirjeldati Jaapanist 2009. aastal nime all Kumanasamuha geaster. Jaapanis on ta punases nimestikus ohualtina (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچ فنجانی کمیابی از سردهٔ Chorioactis که نخست به شکل کپسولی قهوه‌ای تیره، پرمو و سیگارمانند است و سپس شکافته می‌شود و به ستاره‌ای چرمی با سطح درونی نارنجی کم‌رنگ درمی‌آید. روی ریشه‌های مرده و کنده‌ها، به‌ویژه نارون در تگزاس و بلوط در ژاپن، می‌روید و تنها از جنوب ایالات متحده، ژاپن و تایوان شناخته شده است.",
+      "cap": "کلاهک ندارد. اندام باردهی جوان کپسولی بسته، توخالی، گرزی تا دوکی به طول ۴–۱۴ cm و پهنای ۱٫۲–۵ cm است که با موهای نرم قهوه‌ای به‌طور انبوه پوشیده شده است. در زمان رسیدن از نوک به ۴–۷ بازوی چرمی شکافته می‌شود که به بیرون و پایین خم می‌شوند و ستاره‌ای به قطر حدود ۱۰–۲۰ cm می‌سازند.",
+      "hymenium": "لایهٔ هاگ‌زا درون کپسول را می‌پوشاند و هنگام باز شدن روی سطح بالایی بازوها نمایان می‌شود. صاف و بی‌مو است، نخست سفیدفام، سپس زعفرانی، صورتی ماهی‌آزاد یا نارنجی متمایل به قهوه‌ای و سرانجام زرد مات تا قهوه‌ای بلوطی. سطح بیرونی بازوها قهوه‌ای تیره تا تقریباً سیاه و پرمو می‌ماند.",
+      "stipe": "پایه‌ای کوتاه به طول ۱–۵ cm و ضخامت ۰٫۷۵–۱٫۵ cm اندام باردهی را به ریشه‌ای مدفون وصل می‌کند. معمولاً در خاک پنهان است و مانند سطح بیرونی کپسول با موهای قهوه‌ای مخملی پوشیده شده است.",
+      "flesh": "گوشت سفیدفام، سفت و چرمی است؛ ضخامت بازوها تا ۰٫۳۵ cm است. بوی مشخصی ندارد.",
+      "sporePrint": "ثبت نشده است. هنگامی که اندام باردهی باز می‌شود، هاگ‌ها ممکن است به صورت ابری سفیدفام و دودمانند بیرون بزنند. بسیار درشت‌اند، حدود ۵۴–۷۵ × ۱۰–۱۷ µm، دوکی و از یک سو اندکی پهن‌شده، بی‌رنگ، صاف یا با فرورفتگی‌های بسیار ریز، با ۳–۵ قطرهٔ روغن؛ هر آسک هشت هاگ دارد.",
+      "habitat": "احتمالاً گندروی چوب مرده است. در تگزاس به‌تنهایی یا گروهی روی کنده‌های در حال پوسیدن و ریشه‌های مردهٔ نارون Ulmus crassifolia یا در کنار آن‌ها می‌روید، اغلب در جاهایی که گاه‌به‌گاه زیر آب می‌روند، و پایه از عمق ۵–۱۰ cm زیر سطح زمین برمی‌خیزد؛ در ژاپن روی تنه‌های افتادهٔ بلوط‌هایی مانند Quercus gilva در جنگل‌های طبیعی می‌روید. در تگزاس در فصل خنک، بیشتر از اکتبر تا آوریل، بار می‌دهد. تنها از مرکز و شمال تگزاس، یک شهرستان در اوکلاهما، چند استان در ژاپن و شمال تایوان شناخته شده است؛ جمعیت‌های آمریکایی و ژاپنی دست‌کم ۱۹ میلیون سال است که از هم جدا شده‌اند.",
+      "uses": "خوردنی نیست: سمی بودن آن شناخته نشده، اما سفت و چرمی است و ناخوراکی به شمار می‌آید. چون بسیار کمیاب است، بهتر است به جای چیدن از آن عکس گرفت. در سال ۲۰۲۱ به عنوان قارچ رسمی ایالت تگزاس برگزیده شد.",
+      "confusion": "مرحلهٔ جوان پرمو و سیگارمانند و مرحلهٔ بالغ ستاره‌ای آن را غیرقابل اشتباه می‌کنند. ستاره‌های زمینی (Geastrum) نیز به شکل ستاره باز می‌شوند، اما خویشاوند قارچ‌های پفکی‌اند و کیسهٔ هاگ گردی در مرکز دارند و سطح هاگ‌زای باز ندارند. خویشاوندان آن در همان تیره، مانند Wolfina و Desmazierella، جام‌هایی با سطح بارور تیره می‌سازند و به شکل ستاره شکافته نمی‌شوند.",
+      "notes": "نخستین بار در آستین تگزاس گردآوری شد و چارلز هورتون پک در سال ۱۸۹۳ آن را با نام Urnula geaster توصیف کرد. السی کوپفر سردهٔ Chorioactis را در سال ۱۹۰۲ پیشنهاد کرد، اما این سرده تنها در سال ۱۹۶۸ به دست فین-اگیل اکبلاد به‌طور معتبر منتشر شد؛ از سال ۲۰۰۸ این سرده همراه با سه سردهٔ خویشاوند در تیره‌ای جداگانه قرار می‌گیرد. اندام باردهی در حال باز شدن ممکن است هاگ‌هایش را با صدای فش‌فش شنیدنی رها کند. مرحلهٔ غیرجنسی آن در سال ۲۰۰۹ از ژاپن با نام Kumanasamuha geaster توصیف شد. در ژاپن در فهرست سرخ با وضعیت آسیب‌پذیر (۲۰۲۵) آمده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Harvinainen kotelosieni Chorioactis-suvusta. Se on aluksi tummanruskea, karvainen, sikarinmuotoinen kotelo, joka sitten halkeaa nahkeaksi tähdeksi, jonka sisäpinta on vaalean oranssi. Se kasvaa kuolleilla juurilla ja kannoilla, Texasissa etenkin jalavilla ja Japanissa tammilla, ja se tunnetaan vain Yhdysvaltain eteläosista, Japanista ja Taiwanista.",
+      "cap": "Lakkia ei ole. Nuori itiöemä on suljettu, ontto, nuijamainen tai sukkulamainen kotelo, 4–14 cm pitkä ja 1,2–5 cm leveä, tiheästi pehmeän ruskean karvan peittämä. Kypsänä se halkeaa kärjestä 4–7 nahkeaksi liuskaksi, jotka taipuvat ulos- ja alaspäin ja muodostavat noin 10–20 cm leveän tähden.",
+      "hymenium": "Itiöitä tuottava kerros verhoaa kotelon sisäpinnan ja paljastuu liuskojen yläpinnalle kotelon auetessa. Se on sileä ja kalju, aluksi valkeahko, sitten sahraminkeltainen, lohenpunainen tai ruskehtavan oranssi ja lopulta himmeän keltainen tai kastanjanruskea. Liuskojen ulkopinta pysyy tummanruskeana tai lähes mustana ja karvaisena.",
+      "stipe": "Lyhyt, 1–5 cm pitkä ja 0,75–1,5 cm paksu jalka yhdistää itiöemän maahan hautautuneeseen juureen. Se on yleensä piilossa maassa ja kotelon ulkopinnan tavoin ruskean samettisen karvan peittämä.",
+      "flesh": "Malto on valkeahko, kiinteä ja nahkea; liuskat ovat enintään 0,35 cm paksuja. Selvää hajua ei ole.",
+      "sporePrint": "Ei tiedossa. Kun itiöemä aukeaa, itiöt voivat purkautua valkeahkona, savua muistuttavana pilvenä. Ne ovat hyvin suuria, noin 54–75 × 10–17 µm, sukkulamaisia ja toiselta puolelta hieman litistyneitä, värittömiä, sileitä tai hyvin hienosti kuoppaisia, ja niissä on 3–5 öljypisaraa; kussakin kotelossa on kahdeksan itiötä.",
+      "habitat": "Todennäköisesti kuolleen puun lahottaja. Texasissa se kasvaa yksittäin tai ryhminä lahoavilla kannoilla ja jalavan Ulmus crassifolia kuolleilla juurilla tai niiden vieressä, usein paikoissa, jotka tulvivat ajoittain, ja sen jalka lähtee 5–10 cm maanpinnan alta; Japanissa se kasvaa luonnonmetsissä kaatuneilla tammenrungoilla, kuten Quercus gilva. Texasissa se tekee itiöemiä viileänä vuodenaikana, enimmäkseen lokakuusta huhtikuuhun. Se tunnetaan vain Texasin keski- ja pohjoisosista, yhdestä Oklahoman piirikunnasta, muutamasta Japanin prefektuurista ja Taiwanin pohjoisosasta; amerikkalaiset ja japanilaiset populaatiot ovat olleet erillään ainakin 19 miljoonaa vuotta.",
+      "uses": "Ei syödä: sen ei tiedetä olevan myrkyllinen, mutta se on sitkeä ja nahkea ja sitä pidetään syömäkelvottomana. Koska se on niin harvinainen, se kannattaa valokuvata eikä kerätä. Vuonna 2021 se nimettiin Texasin viralliseksi osavaltiosieneksi.",
+      "confusion": "Karvainen, sikarinmuotoinen nuoruusvaihe ja tähtimäinen kypsä vaihe tekevät siitä erehtymättömän. Myös maatähdet (Geastrum) aukeavat tähdiksi, mutta ne ovat tuhkelosienten sukulaisia, joilla on keskellä pyöreä itiösäiliö eikä avointa itiöitä tuottavaa pintaa. Sen sukulaiset samassa heimossa, kuten Wolfina ja Desmazierella, muodostavat maljoja, joiden itiöpinta on tumma, eivätkä ne halkea tähdeksi.",
+      "notes": "Se kerättiin ensimmäisen kerran Austinista Texasista, ja Charles Horton Peck kuvasi sen vuonna 1893 nimellä Urnula geaster. Elsie Kupfer ehdotti Chorioactis-sukua vuonna 1902, mutta pätevästi sen julkaisi vasta Finn-Egil Eckblad vuonna 1968; vuodesta 2008 suku on sijoitettu omaan heimoonsa yhdessä kolmen sukulaissuvun kanssa. Aukeava itiöemä voi vapauttaa itiönsä kuuluvasti sihisten. Sen suvuton vaihe kuvattiin Japanista vuonna 2009 nimellä Kumanasamuha geaster. Japanissa se on uhanalaisluokituksessa vaarantunut (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un champignon rare du genre Chorioactis, d'abord en forme de capsule brun foncé, velue et en forme de cigare, qui se fend ensuite en une étoile coriace à face interne orange pâle. Il pousse sur les racines mortes et les souches, surtout d'ormes au Texas et de chênes au Japon, et n'est connu que du sud des États-Unis, du Japon et de Taïwan.",
+      "cap": "Il n'y a pas de chapeau. La jeune fructification est une capsule fermée, creuse, en massue à fusiforme, de 4–14 cm de long et 1,2–5 cm de large, densément couverte de poils bruns et doux. À maturité, elle se fend depuis le sommet en 4–7 lanières coriaces qui se recourbent vers l'extérieur et vers le bas, formant une étoile d'environ 10–20 cm de diamètre.",
+      "hymenium": "La couche fertile tapisse l'intérieur de la capsule et se trouve exposée sur la face supérieure des lanières à l'ouverture. Elle est lisse et glabre, d'abord blanchâtre, puis safran, saumon ou orange brunâtre, et enfin jaune terne à brun châtain. La face externe des lanières reste brun foncé à presque noire et velue.",
+      "stipe": "Un court pied de 1–5 cm de long et 0,75–1,5 cm d'épaisseur relie la fructification à une racine enterrée. Il est généralement caché dans le sol et, comme l'extérieur de la capsule, couvert de poils bruns veloutés.",
+      "flesh": "La chair est blanchâtre, ferme et coriace ; les lanières atteignent 0,35 cm d'épaisseur. Elle n'a pas d'odeur particulière.",
+      "sporePrint": "Non documentée. À l'ouverture de la fructification, les spores peuvent s'échapper en un nuage blanchâtre semblable à de la fumée. Elles sont très grandes, environ 54–75 × 10–17 µm, fusiformes et légèrement aplaties d'un côté, incolores, lisses ou très finement ponctuées, avec 3–5 gouttelettes d'huile ; chaque asque contient huit spores.",
+      "habitat": "Probablement saprotrophe du bois mort. Au Texas, il pousse isolément ou en groupes sur ou près de souches en décomposition et de racines mortes de l'orme Ulmus crassifolia, souvent dans des lieux inondés de temps à autre, le pied naissant 5–10 cm sous la surface du sol ; au Japon, il pousse sur des troncs tombés de chênes tels que Quercus gilva en forêt naturelle. Au Texas, il fructifie pendant la saison fraîche, surtout d'octobre à avril. Il n'est connu que du centre et du nord du Texas, d'un comté de l'Oklahoma, de quelques préfectures du Japon et du nord de Taïwan ; les populations américaines et japonaises sont séparées depuis au moins 19 millions d'années.",
+      "uses": "Non consommé : il n'est pas connu comme toxique, mais il est dur et coriace et considéré comme non comestible. Comme il est très rare, il vaut mieux le photographier que le cueillir. En 2021, il a été désigné champignon officiel de l'État du Texas.",
+      "confusion": "Le stade jeune velu en forme de cigare et le stade mûr en étoile le rendent inconfondable. Les géastres (Geastrum) s'ouvrent aussi en étoile, mais ce sont des parents des vesses-de-loup, avec un sac sporifère rond au centre et sans surface fertile ouverte. Ses parents de la même famille, comme Wolfina et Desmazierella, forment des coupes à surface fertile sombre et ne se fendent pas en étoile.",
+      "notes": "Il a été récolté pour la première fois à Austin, au Texas, et décrit par Charles Horton Peck en 1893 sous le nom d'Urnula geaster. Elsie Kupfer a proposé le genre Chorioactis en 1902, mais celui-ci n'a été valablement publié que par Finn-Egil Eckblad en 1968 ; depuis 2008, le genre est placé dans sa propre famille avec trois genres apparentés. La fructification qui s'ouvre peut libérer ses spores avec un sifflement audible. Son stade asexué a été décrit du Japon en 2009 sous le nom de Kumanasamuha geaster. Au Japon, il figure sur la liste rouge comme vulnérable (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "he": {
+      "description": "פטרייה נדירה מהסוג Chorioactis, שבתחילה נראית כקופסית חומה כהה ושעירה בצורת סיגר, ואחר כך נפתחת לכוכב עורי שפניו הפנימיים כתומים בהירים. היא גדלה על שורשים מתים ועל גדמים, בעיקר של בוקיצות בטקסס ושל אלונים ביפן, והיא ידועה רק מדרום ארצות הברית, מיפן ומטאיוואן.",
+      "cap": "אין לה כובע. גוף הפרי הצעיר הוא קופסית סגורה וחלולה, דמוית אלה עד דמוית כישור, באורך 4–14 cm וברוחב 1.2–5 cm, מכוסה בצפיפות בשערות חומות רכות. בבגרותה היא נבקעת מן הקצה ל־4–7 זרועות עוריות שמתכופפות החוצה ומטה ויוצרות כוכב שקוטרו כ־10–20 cm.",
+      "hymenium": "השכבה נושאת הנבגים מצפה את פנים הקופסית ונחשפת בצד העליון של הזרועות כשהיא נפתחת. היא חלקה וחסרת שיער, בתחילה לבנבנה, אחר כך בצבע זעפרן, סלמון או כתום חום, ולבסוף צהוב עמום עד חום ערמוני. הצד החיצוני של הזרועות נשאר חום כהה עד כמעט שחור ושעיר.",
+      "stipe": "רגל קצרה באורך 1–5 cm ובעובי 0.75–1.5 cm מחברת את גוף הפרי לשורש קבור. בדרך כלל היא מוסתרת באדמה, וכמו חלקה החיצוני של הקופסית היא מכוסה בשערות חומות קטיפתיות.",
+      "flesh": "הבשר לבנבן, מוצק ועורי; הזרועות עבות עד 0.35 cm. אין לה ריח מובהק.",
+      "sporePrint": "לא תועד. כשגוף הפרי נפתח, הנבגים עשויים להיפלט כענן לבנבן דמוי עשן. הם גדולים מאוד, כ־54–75 × 10–17 µm, דמויי כישור ומעט שטוחים בצד אחד, חסרי צבע, חלקים או מחוררים דק מאוד, עם 3–5 טיפות שמן; כל שק נבגים מכיל שמונה נבגים.",
+      "habitat": "כנראה מפרקת של עץ מת. בטקסס היא גדלה בודדת או בקבוצות על גדמים נרקבים ועל שורשים מתים של הבוקיצה Ulmus crassifolia או לידם, לעיתים קרובות במקומות המוצפים מדי פעם, והרגל יוצאת 5–10 cm מתחת לפני הקרקע; ביפן היא גדלה על גזעים נפולים של אלונים כמו Quercus gilva ביער טבעי. בטקסס היא מניבה פרי בעונה הקרירה, בעיקר מאוקטובר עד אפריל. היא ידועה רק ממרכז טקסס ומצפונה, ממחוז אחד באוקלהומה, מכמה מחוזות ביפן ומצפון טאיוואן; האוכלוסיות האמריקניות והיפניות נפרדו לפני 19 מיליון שנה לפחות.",
+      "uses": "אינה נאכלת: לא ידוע שהיא רעילה, אבל היא קשה ועורית ונחשבת לבלתי אכילה. מכיוון שהיא נדירה כל כך, עדיף לצלם אותה ולא לקטוף אותה. בשנת 2021 הוכרזה כפטריית המדינה הרשמית של טקסס.",
+      "confusion": "השלב הצעיר השעיר דמוי הסיגר והשלב הבוגר דמוי הכוכב הופכים אותה לבלתי ניתנת לטעות. גם כוכבי האדמה (Geastrum) נפתחים לכוכב, אבל הם קרובים של פטריות האבקן, עם שק נבגים עגול במרכז וללא משטח פתוח נושא נבגים. קרוביה מאותה משפחה, כמו Wolfina ו־Desmazierella, יוצרים גביעים עם משטח פורה כהה ואינם נבקעים לכוכב.",
+      "notes": "היא נאספה לראשונה באוסטין שבטקסס ותוארה בידי צ'ארלס הורטון פק בשנת 1893 בשם Urnula geaster. אלסי קופפר הציעה את הסוג Chorioactis בשנת 1902, אך הוא פורסם באופן תקף רק בידי פין־אגיל אקבלאד בשנת 1968; מאז 2008 הסוג ממוקם במשפחה משלו יחד עם שלושה סוגים קרובים. גוף הפרי הנפתח עשוי לשחרר את נבגיו בשריקה נשמעת. השלב הא־מיני שלה תואר מיפן בשנת 2009 בשם Kumanasamuha geaster. ביפן היא רשומה ברשימה האדומה כפגיעה (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Chorioactis वंश का एक दुर्लभ प्याला कवक, जो पहले गहरे भूरे, रोएँदार, सिगार जैसे कैप्सूल के रूप में निकलता है और फिर फटकर हल्की नारंगी भीतरी सतह वाले चमड़े जैसे तारे में खुल जाता है। यह मृत जड़ों और ठूँठों पर उगता है, मुख्यतः टेक्सास में एल्म और जापान में बलूत पर, और केवल दक्षिणी संयुक्त राज्य अमेरिका, जापान और ताइवान से ज्ञात है।",
+      "cap": "इसमें टोपी नहीं होती। युवा फलकाय एक बंद, खोखला, गदा से तकुए के आकार का कैप्सूल होता है, जो 4–14 cm लंबा और 1.2–5 cm चौड़ा होता है और मुलायम भूरे रोमों से घना ढका रहता है। परिपक्व होने पर यह शीर्ष से 4–7 चमड़े जैसी भुजाओं में फट जाता है, जो बाहर और नीचे की ओर मुड़कर लगभग 10–20 cm व्यास का तारा बनाती हैं।",
+      "hymenium": "बीजाणु बनाने वाली परत कैप्सूल के भीतर की ओर होती है और खुलने पर भुजाओं की ऊपरी सतह पर दिखती है। यह चिकनी और रोमहीन होती है, पहले सफ़ेद-सी, फिर केसरिया, सामन रंग की या भूरी-नारंगी, और अंत में फीकी पीली से शाहबलूती भूरी। भुजाओं की बाहरी सतह गहरी भूरी से लगभग काली और रोएँदार बनी रहती है।",
+      "stipe": "1–5 cm लंबा और 0.75–1.5 cm मोटा एक छोटा डंठल फलकाय को दबी हुई जड़ से जोड़ता है। यह आमतौर पर मिट्टी में छिपा रहता है और कैप्सूल की बाहरी सतह की तरह भूरे मखमली रोमों से ढका होता है।",
+      "flesh": "गूदा सफ़ेद-सा, सख़्त और चमड़े जैसा होता है; भुजाएँ 0.35 cm तक मोटी होती हैं। इसकी कोई विशेष गंध नहीं होती।",
+      "sporePrint": "दर्ज नहीं। जब फलकाय खुलता है, तो बीजाणु धुएँ जैसे सफ़ेद-से बादल के रूप में निकल सकते हैं। वे बहुत बड़े होते हैं, लगभग 54–75 × 10–17 µm, तकुए के आकार के और एक ओर थोड़े चपटे, रंगहीन, चिकने या बहुत बारीक गड्ढेदार, जिनमें 3–5 तेल-बूँदें होती हैं; हर ऐस्कस में आठ बीजाणु होते हैं।",
+      "habitat": "संभवतः मृत लकड़ी पर पलने वाला मृतजीवी। टेक्सास में यह अकेले या समूहों में एल्म Ulmus crassifolia के सड़ते ठूँठों और मृत जड़ों पर या उनके पास उगता है, अक्सर ऐसी जगहों पर जहाँ कभी-कभी बाढ़ आती है, और इसका डंठल ज़मीन की सतह से 5–10 cm नीचे से निकलता है; जापान में यह प्राकृतिक वनों में Quercus gilva जैसे बलूतों के गिरे तनों पर उगता है। टेक्सास में यह ठंडे मौसम में, ज़्यादातर अक्टूबर से अप्रैल तक, फल देता है। यह केवल मध्य और उत्तरी टेक्सास, ओक्लाहोमा की एक काउंटी, जापान के कुछ प्रांतों और उत्तरी ताइवान से ज्ञात है; अमेरिकी और जापानी आबादियाँ कम से कम 19 मिलियन वर्षों से अलग हैं।",
+      "uses": "खाया नहीं जाता: इसके ज़हरीले होने की जानकारी नहीं है, पर यह सख़्त और चमड़े जैसा है और अखाद्य माना जाता है। चूँकि यह बहुत दुर्लभ है, इसे तोड़ने के बजाय इसकी तस्वीर लेनी चाहिए। 2021 में इसे टेक्सास का आधिकारिक राज्य कवक घोषित किया गया।",
+      "confusion": "रोएँदार, सिगार जैसी युवा अवस्था और तारे जैसी परिपक्व अवस्था इसे अचूक बनाती हैं। भू-तारे (Geastrum) भी तारे के रूप में खुलते हैं, लेकिन वे पफबॉल कवकों के संबंधी हैं, जिनके बीच में एक गोल बीजाणु-थैली होती है और कोई खुली बीजाणु-सतह नहीं होती। इसी कुल के इसके संबंधी, जैसे Wolfina और Desmazierella, गहरी उर्वर सतह वाले प्याले बनाते हैं और तारे के रूप में नहीं फटते।",
+      "notes": "इसे पहली बार टेक्सास के ऑस्टिन में एकत्र किया गया और चार्ल्स हॉर्टन पेक ने 1893 में Urnula geaster नाम से वर्णित किया। एल्सी कुपफ़र ने 1902 में Chorioactis वंश प्रस्तावित किया, लेकिन इसे वैध रूप से केवल 1968 में फ़िन-एगिल एकब्लाड ने प्रकाशित किया; 2008 से इस वंश को तीन संबंधित वंशों के साथ एक अलग कुल में रखा जाता है। खुलता हुआ फलकाय सुनाई देने वाली फुफकार के साथ अपने बीजाणु छोड़ सकता है। इसकी अलैंगिक अवस्था का वर्णन 2009 में जापान से Kumanasamuha geaster नाम से किया गया। जापान में यह लाल सूची में संवेदनशील (2025) के रूप में दर्ज है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Rijetka gljiva mješinarka iz roda Chorioactis koja se najprije pojavljuje kao tamnosmeđa, dlakava čahura u obliku cigare, a zatim se otvara u kožastu zvijezdu sa svijetlonarančastom unutarnjom površinom. Raste na mrtvom korijenju i panjevima, ponajviše brijestova u Teksasu i hrastova u Japanu, a poznata je samo s juga Sjedinjenih Država, iz Japana i s Tajvana.",
+      "cap": "Klobuka nema. Mlado plodište je zatvorena, šuplja, batasta do vretenasta čahura duga 4–14 cm i široka 1,2–5 cm, gusto prekrivena mekim smeđim dlačicama. U zrelosti se od vrha raspukne u 4–7 kožastih krakova koji se savijaju prema van i prema dolje i tvore zvijezdu promjera oko 10–20 cm.",
+      "hymenium": "Plodni sloj oblaže unutrašnjost čahure i nakon otvaranja ostaje izložen na gornjoj strani krakova. Gladak je i gol, isprva bjelkast, zatim boje šafrana, lososa ili smećkasto narančast, a na kraju mutno žut do kestenjastosmeđ. Vanjska strana krakova ostaje tamnosmeđa do gotovo crna i dlakava.",
+      "stipe": "Kratak stručak dug 1–5 cm i debeo 0,75–1,5 cm povezuje plodište sa zakopanim korijenom. Obično je skriven u tlu i, kao i vanjska strana čahure, prekriven smeđim baršunastim dlačicama.",
+      "flesh": "Meso je bjelkasto, čvrsto i kožasto; krakovi su debeli do 0,35 cm. Nema izražen miris.",
+      "sporePrint": "Nije zabilježen. Kad se plodište otvori, spore mogu izaći kao bjelkast oblačić nalik dimu. Vrlo su velike, oko 54–75 × 10–17 µm, vretenaste i s jedne strane malo spljoštene, bezbojne, glatke ili vrlo sitno točkaste, s 3–5 kapljica ulja; svaki askus sadrži osam spora.",
+      "habitat": "Vjerojatno saprotrof na mrtvom drvu. U Teksasu raste pojedinačno ili u skupinama na trulim panjevima i mrtvom korijenju brijesta Ulmus crassifolia ili pokraj njih, često na mjestima koja povremeno poplavljuju, a stručak izrasta 5–10 cm ispod površine tla; u Japanu raste na palim deblima hrastova poput Quercus gilva u prirodnim šumama. U Teksasu plodonosi u hladnijem dijelu godine, uglavnom od listopada do travnja. Poznata je samo iz središnjeg i sjevernog Teksasa, jednog okruga u Oklahomi, nekoliko prefektura u Japanu i sa sjevera Tajvana; američke i japanske populacije odvojene su najmanje 19 milijuna godina.",
+      "uses": "Ne jede se: nije poznato da je otrovna, ali je žilava i kožasta i smatra se nejestivom. Budući da je tako rijetka, bolje ju je fotografirati nego brati. Godine 2021. proglašena je službenom državnom gljivom Teksasa.",
+      "confusion": "Dlakav mladi stadij u obliku cigare i zvjezdasti zreli stadij čine je nezamjenjivom. I zvjezdače (Geastrum) otvaraju se u zvijezdu, ali su srodnice puhara, s okruglom vrećicom spora u sredini i bez otvorene plodne površine. Njezini srodnici iz iste porodice, poput Wolfina i Desmazierella, tvore čašice s tamnom plodnom površinom i ne raspucavaju se u zvijezdu.",
+      "notes": "Prvi put je sakupljena u Austinu u Teksasu, a Charles Horton Peck opisao ju je 1893. kao Urnula geaster. Elsie Kupfer predložila je rod Chorioactis 1902., ali ga je valjano objavio tek Finn-Egil Eckblad 1968.; od 2008. rod se svrstava u vlastitu porodicu zajedno s tri srodna roda. Plodište koje se otvara može ispustiti spore uz čujno šištanje. Njezin nespolni stadij opisan je iz Japana 2009. kao Kumanasamuha geaster. U Japanu je na crvenom popisu kao osjetljiva (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Ritka tömlősgomba a Chorioactis nemzetségből, amely először sötétbarna, szőrös, szivar alakú tokként jelenik meg, majd bőrszerű csillaggá hasad fel, halvány narancssárga belső felülettel. Elhalt gyökereken és tuskókon nő, főleg szilfákon Texasban és tölgyeken Japánban, és csak az Egyesült Államok déli részéről, Japánból és Tajvanról ismert.",
+      "cap": "Kalapja nincs. A fiatal termőtest zárt, üreges, bunkó- vagy orsó alakú tok, 4–14 cm hosszú és 1,2–5 cm széles, sűrűn borítják puha barna szőrök. Éretten a csúcsától 4–7 bőrszerű karéjra hasad, amelyek kifelé és lefelé hajlanak, és mintegy 10–20 cm átmérőjű csillagot formálnak.",
+      "hymenium": "A spóratermő réteg a tok belsejét béleli, és nyíláskor a karéjok felső oldalán szabaddá válik. Sima és kopasz, eleinte fehéres, majd sáfrány-, lazac- vagy barnás narancsszínű, végül fakósárga vagy gesztenyebarna. A karéjok külső oldala sötétbarna vagy majdnem fekete és szőrös marad.",
+      "stipe": "Egy rövid, 1–5 cm hosszú és 0,75–1,5 cm vastag tönk köti a termőtestet egy földbe temetett gyökérhez. Többnyire a talajban rejtőzik, és a tok külsejéhez hasonlóan barna, bársonyos szőrök borítják.",
+      "flesh": "Húsa fehéres, kemény és bőrszerű; a karéjok legfeljebb 0,35 cm vastagok. Jellegzetes szaga nincs.",
+      "sporePrint": "Nincs adat. Amikor a termőtest kinyílik, a spórák fehéres, füstszerű felhőként távozhatnak. Nagyon nagyok, kb. 54–75 × 10–17 µm, orsó alakúak és egyik oldalukon kissé lapítottak, színtelenek, simák vagy nagyon finoman pontozottak, 3–5 olajcseppel; minden tömlőben nyolc spóra van.",
+      "habitat": "Valószínűleg elhalt fát bontó szaprotróf. Texasban magányosan vagy csoportosan nő az Ulmus crassifolia szilfa korhadó tuskóin és elhalt gyökerein vagy azok mellett, gyakran időnként elárasztott helyeken, a tönk 5–10 cm-rel a talajfelszín alatt ered; Japánban természetes erdőkben, kidőlt tölgytörzseken nő, például a Quercus gilva fáján. Texasban a hűvös évszakban terem, többnyire októbertől áprilisig. Csak Texas középső és északi részéről, egy oklahomai megyéből, néhány japán prefektúrából és Tajvan északi részéről ismert; az amerikai és a japán populációk legalább 19 millió éve elkülönültek.",
+      "uses": "Nem fogyasztják: nem ismert, hogy mérgező volna, de szívós és bőrszerű, ezért ehetetlennek tartják. Mivel nagyon ritka, inkább fényképezni kell, mint gyűjteni. 2021-ben Texas hivatalos állami gombájává nyilvánították.",
+      "confusion": "A szőrös, szivar alakú fiatal és a csillag alakú érett állapot összetéveszthetetlenné teszi. A csillaggombák (Geastrum) is csillag alakúra nyílnak, de ezek a pöfeteggombák rokonai, középen kerek spóratartóval és nyitott spóratermő felület nélkül. Ugyanabba a családba tartozó rokonai, például a Wolfina és a Desmazierella, sötét termőfelületű csészéket fejlesztenek, és nem hasadnak csillaggá.",
+      "notes": "Először a texasi Austinban gyűjtötték, és Charles Horton Peck 1893-ban Urnula geaster néven írta le. Elsie Kupfer 1902-ben javasolta a Chorioactis nemzetséget, de érvényesen csak Finn-Egil Eckblad közölte 1968-ban; 2008 óta a nemzetséget három rokon nemzetséggel együtt külön családba sorolják. A kinyíló termőtest hallható sziszegéssel szórhatja ki spóráit. Ivartalan alakját 2009-ben írták le Japánból Kumanasamuha geaster néven. Japánban a vörös listán sebezhetőként szerepel (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur mangkuk langka dari genus Chorioactis yang mula-mula berupa kapsul cokelat tua, berbulu, berbentuk cerutu, lalu merekah menjadi bintang seperti kulit dengan permukaan dalam berwarna jingga pucat. Jamur ini tumbuh pada akar mati dan tunggul, terutama pohon elm di Texas dan pohon ek di Jepang, dan hanya dikenal dari bagian selatan Amerika Serikat, Jepang, dan Taiwan.",
+      "cap": "Tidak bertudung. Tubuh buah muda berupa kapsul tertutup, berongga, berbentuk gada hingga gelendong, panjang 4–14 cm dan lebar 1,2–5 cm, tertutup rapat oleh bulu cokelat yang lembut. Saat matang, kapsul merekah dari ujungnya menjadi 4–7 lengan seperti kulit yang melengkung ke luar dan ke bawah, membentuk bintang berdiameter sekitar 10–20 cm.",
+      "hymenium": "Lapisan penghasil spora melapisi bagian dalam kapsul dan terbuka pada sisi atas lengan ketika kapsul merekah. Lapisan ini halus dan tidak berbulu, mula-mula keputihan, kemudian berwarna kunyit, salem, atau jingga kecokelatan, dan akhirnya kuning kusam hingga cokelat kastanye. Sisi luar lengan tetap cokelat tua hingga hampir hitam dan berbulu.",
+      "stipe": "Tangkai pendek sepanjang 1–5 cm dan setebal 0,75–1,5 cm menghubungkan tubuh buah dengan akar yang terkubur. Tangkai biasanya tersembunyi di dalam tanah dan, seperti bagian luar kapsul, tertutup bulu cokelat seperti beludru.",
+      "flesh": "Dagingnya keputihan, padat, dan liat seperti kulit; lengannya setebal hingga 0,35 cm. Tidak berbau khas.",
+      "sporePrint": "Tidak tercatat. Ketika tubuh buah membuka, spora dapat keluar sebagai awan keputihan menyerupai asap. Sporanya sangat besar, sekitar 54–75 × 10–17 µm, berbentuk gelendong dan agak pipih pada satu sisi, tidak berwarna, halus atau berlekuk sangat halus, dengan 3–5 tetes minyak; setiap askus berisi delapan spora.",
+      "habitat": "Kemungkinan saprotrof pada kayu mati. Di Texas jamur ini tumbuh soliter atau berkelompok pada atau di samping tunggul yang membusuk dan akar mati pohon elm Ulmus crassifolia, sering di tempat yang sesekali tergenang banjir, dengan tangkai yang muncul 5–10 cm di bawah permukaan tanah; di Jepang jamur ini tumbuh pada batang tumbang pohon ek seperti Quercus gilva di hutan alami. Di Texas jamur ini berbuah pada musim sejuk, terutama dari Oktober hingga April. Jamur ini hanya dikenal dari Texas bagian tengah dan utara, satu county di Oklahoma, beberapa prefektur di Jepang, dan Taiwan bagian utara; populasi Amerika dan Jepang telah terpisah setidaknya selama 19 juta tahun.",
+      "uses": "Tidak dimakan: tidak diketahui beracun, tetapi alot dan liat sehingga dianggap tidak dapat dimakan. Karena sangat langka, jamur ini sebaiknya dipotret, bukan dipetik. Pada 2021 jamur ini ditetapkan sebagai jamur resmi negara bagian Texas.",
+      "confusion": "Tahap muda yang berbulu dan berbentuk cerutu serta tahap dewasa yang berbentuk bintang membuatnya tidak mungkin keliru dikenali. Bintang tanah (Geastrum) juga membuka menjadi bintang, tetapi jamur itu kerabat jamur kentut dengan kantong spora bulat di tengah dan tanpa permukaan penghasil spora yang terbuka. Kerabatnya dalam famili yang sama, seperti Wolfina dan Desmazierella, membentuk mangkuk dengan permukaan subur yang gelap dan tidak merekah menjadi bintang.",
+      "notes": "Jamur ini pertama kali dikumpulkan di Austin, Texas, dan dideskripsikan oleh Charles Horton Peck pada 1893 sebagai Urnula geaster. Elsie Kupfer mengusulkan genus Chorioactis pada 1902, tetapi genus ini baru diterbitkan secara sah oleh Finn-Egil Eckblad pada 1968; sejak 2008 genus ini ditempatkan dalam famili tersendiri bersama tiga genus kerabatnya. Tubuh buah yang sedang membuka dapat melepaskan sporanya dengan desisan yang terdengar. Tahap aseksualnya dideskripsikan dari Jepang pada 2009 sebagai Kumanasamuha geaster. Di Jepang jamur ini masuk daftar merah sebagai rentan (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo raro del genere Chorioactis che si presenta dapprima come una capsula bruno scura, pelosa, a forma di sigaro, e poi si apre in una stella coriacea con la faccia interna arancio pallido. Cresce su radici morte e ceppi, soprattutto di olmi in Texas e di querce in Giappone, ed è noto solo dal sud degli Stati Uniti, dal Giappone e da Taiwan.",
+      "cap": "Non ha cappello. Il corpo fruttifero giovane è una capsula chiusa, cava, da clavata a fusiforme, lunga 4–14 cm e larga 1,2–5 cm, densamente coperta di morbidi peli bruni. A maturità si apre dall'apice in 4–7 lacinie coriacee che si incurvano verso l'esterno e verso il basso, formando una stella di circa 10–20 cm di diametro.",
+      "hymenium": "Lo strato fertile riveste l'interno della capsula e, all'apertura, resta esposto sulla faccia superiore delle lacinie. È liscio e glabro, dapprima biancastro, poi zafferano, salmone o arancio brunastro e infine giallo opaco fino a bruno castano. La faccia esterna delle lacinie resta bruno scura fino a quasi nera e pelosa.",
+      "stipe": "Un gambo corto, lungo 1–5 cm e spesso 0,75–1,5 cm, collega il corpo fruttifero a una radice interrata. Di solito è nascosto nel terreno e, come l'esterno della capsula, è coperto di peli bruni vellutati.",
+      "flesh": "La carne è biancastra, soda e coriacea; le lacinie sono spesse fino a 0,35 cm. Non ha un odore particolare.",
+      "sporePrint": "Non documentata. Quando il corpo fruttifero si apre, le spore possono uscire come una nuvola biancastra simile a fumo. Sono molto grandi, circa 54–75 × 10–17 µm, fusiformi e leggermente appiattite su un lato, incolori, lisce o finissimamente punteggiate, con 3–5 gocce oleose; ogni asco contiene otto spore.",
+      "habitat": "Probabilmente saprotrofo del legno morto. In Texas cresce isolato o in gruppi su ceppi in decomposizione e radici morte dell'olmo Ulmus crassifolia o accanto a essi, spesso in luoghi soggetti a inondazioni periodiche, con il gambo che nasce 5–10 cm sotto il suolo; in Giappone cresce su tronchi caduti di querce come Quercus gilva nelle foreste naturali. In Texas fruttifica nella stagione fresca, soprattutto da ottobre ad aprile. È noto solo dal Texas centrale e settentrionale, da una contea dell'Oklahoma, da alcune prefetture del Giappone e dal nord di Taiwan; le popolazioni americane e giapponesi sono separate da almeno 19 milioni di anni.",
+      "uses": "Non si mangia: non è noto come velenoso, ma è duro e coriaceo ed è considerato non commestibile. Poiché è così raro, va fotografato anziché raccolto. Nel 2021 è stato designato fungo ufficiale dello Stato del Texas.",
+      "confusion": "Lo stadio giovane peloso a forma di sigaro e lo stadio maturo a stella lo rendono inconfondibile. Anche i geastri (Geastrum) si aprono a stella, ma sono parenti delle vescie, con un sacco sporifero rotondo al centro e senza una superficie fertile aperta. I suoi parenti della stessa famiglia, come Wolfina e Desmazierella, formano coppe con una superficie fertile scura e non si aprono a stella.",
+      "notes": "Fu raccolto per la prima volta ad Austin, in Texas, e descritto da Charles Horton Peck nel 1893 come Urnula geaster. Elsie Kupfer propose il genere Chorioactis nel 1902, ma esso fu pubblicato validamente solo da Finn-Egil Eckblad nel 1968; dal 2008 il genere è collocato in una famiglia propria insieme a tre generi affini. Il corpo fruttifero che si apre può liberare le spore con un sibilo udibile. Il suo stadio asessuato fu descritto dal Giappone nel 2009 come Kumanasamuha geaster. In Giappone è nella lista rossa come vulnerabile (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Chorioactis 属の珍しい盤菌類で、はじめは暗褐色で毛に覆われた葉巻形の袋状の子実体として現れ、のちに裂けて、内面が淡い橙色の革質の星形になる。枯れた根や切り株に生え、テキサスでは主にニレ類、日本ではカシ・ナラなどのブナ科の木に発生し、アメリカ合衆国南部、日本、台湾からのみ知られる。",
+      "cap": "傘はない。若い子実体は閉じた中空の棍棒形から紡錘形の袋で、長さ4–14 cm、幅1.2–5 cmあり、柔らかい褐色の毛が密生する。成熟すると先端から4–7枚の革質の裂片に裂け、裂片は外側から下方へ反り返って、径およそ10–20 cmの星形になる。",
+      "hymenium": "胞子を作る層は袋の内面を覆い、開くと裂片の上面に露出する。平滑で無毛、はじめ白っぽく、のちにサフラン色、サーモン色または褐色を帯びた橙色となり、最後にはくすんだ黄色から栗褐色になる。裂片の外面は暗褐色からほぼ黒色で、毛に覆われたままである。",
+      "stipe": "長さ1–5 cm、太さ0.75–1.5 cmの短い柄が、子実体を地中に埋もれた根とつないでいる。柄はふつう土中に隠れており、袋の外面と同様に褐色のビロード状の毛に覆われる。",
+      "flesh": "肉は白っぽく、硬く革質で、裂片の厚さは0.35 cmまで。特徴的なにおいはない。",
+      "sporePrint": "記録されていない。子実体が開くとき、胞子が白っぽい煙のような雲となって噴き出すことがある。胞子は非常に大きく、約54–75 × 10–17 µm、紡錘形で片側がやや扁平、無色、平滑またはごく細かい小孔があり、3–5個の油滴を含む。各子嚢には胞子が八つ入る。",
+      "habitat": "おそらく枯れ木を分解する腐生菌である。テキサスでは、ニレの一種 Ulmus crassifolia の朽ちかけた切り株や枯れた根の上またはその傍らに単生または群生し、時折冠水する場所に多く、柄は地表から5–10 cm下から伸びる。日本では自然林の中で Quercus gilva などのカシ類の倒木上に発生する。テキサスでは涼しい季節、主に十月から四月にかけて発生する。テキサス州の中部と北部、オクラホマ州の一つの郡、日本のいくつかの県、台湾北部からのみ知られ、アメリカと日本の集団は少なくとも1900万年前から隔てられている。",
+      "uses": "食用にはされない。毒性は知られていないが、硬く革質で食用不適とされる。非常に珍しいため、採るよりも写真に収めるべきである。2021年にテキサス州の公式な州のキノコに指定された。",
+      "confusion": "毛に覆われた葉巻形の幼い段階と星形の成熟した段階により、見誤ることはない。ヒメツチグリ類（Geastrum）も星形に開くが、ホコリタケ類の仲間で、中央に丸い胞子袋があり、開いた胞子形成面はない。同じ科の近縁属である Wolfina や Desmazierella は、暗色の子実層をもつ杯形の子実体を作り、星形には裂けない。",
+      "notes": "テキサス州オースティンで初めて採集され、1893年にチャールズ・ホートン・ペックにより Urnula geaster として記載された。エルシー・クプファーが1902年に Chorioactis 属を提唱したが、正式に有効発表されたのは1968年のフィン=エギル・エックブラッドによる。2008年以降、この属は近縁の三つの属とともに独自の科に置かれている。開きつつある子実体は、聞き取れるシューという音とともに胞子を放出することがある。無性世代は2009年に日本から Kumanasamuha geaster として記載された。日本ではレッドリストで絶滅危惧Ⅱ類(2025)に選定されている。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/05-5thredlist-fungi.pdf",
+        "https://www.env.go.jp/nature/kisho/5th-rl-2025-book/10-5threddatabook-fungi.pdf",
+        "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%8E%E3%83%9F%E3%82%BF%E3%82%B1",
+        "https://api.gbif.org/v1/species/7761763/vernacularNames"
+      ],
+      "label": "キリノミタケ"
+    },
+    "ko": {
+      "description": "Chorioactis 속에 속하는 희귀한 컵버섯류로, 처음에는 짙은 갈색에 털이 덮인 시가 모양의 주머니로 나타났다가 이후 갈라져 안쪽 면이 연한 주황색인 가죽질의 별 모양이 된다. 죽은 뿌리와 그루터기에서 자라며, 텍사스에서는 주로 느릅나무, 일본에서는 참나무류에서 나고, 미국 남부, 일본, 타이완에서만 알려져 있다.",
+      "cap": "갓은 없다. 어린 자실체는 닫힌 속이 빈 곤봉형에서 방추형의 주머니로, 길이 4–14 cm, 너비 1.2–5 cm이며 부드러운 갈색 털로 빽빽이 덮여 있다. 성숙하면 꼭대기부터 4–7개의 가죽질 조각으로 갈라지고, 조각들이 바깥쪽과 아래쪽으로 휘어 지름 약 10–20 cm의 별 모양을 이룬다.",
+      "hymenium": "포자를 만드는 층은 주머니 안쪽을 덮고 있다가 열리면 조각의 윗면에 드러난다. 매끄럽고 털이 없으며, 처음에는 흰빛을 띠다가 사프란색, 연어색 또는 갈색빛 주황색이 되고, 마지막에는 칙칙한 노란색에서 밤갈색이 된다. 조각의 바깥 면은 짙은 갈색에서 거의 검은색이며 털이 덮인 채로 남는다.",
+      "stipe": "길이 1–5 cm, 굵기 0.75–1.5 cm의 짧은 대가 자실체를 땅속에 묻힌 뿌리와 연결한다. 대는 보통 흙 속에 숨어 있으며, 주머니 바깥 면처럼 갈색의 벨벳 같은 털로 덮여 있다.",
+      "flesh": "살은 흰빛을 띠고 단단하며 가죽질이고, 조각의 두께는 0.35 cm까지이다. 뚜렷한 냄새는 없다.",
+      "sporePrint": "기록되지 않았다. 자실체가 열릴 때 포자가 흰빛의 연기 같은 구름이 되어 뿜어져 나올 수 있다. 포자는 매우 커서 약 54–75 × 10–17 µm이고, 방추형이며 한쪽이 약간 납작하고, 무색이며, 매끄럽거나 아주 미세한 홈이 있고, 기름방울이 3–5개 들어 있다. 각 자낭에는 포자가 여덟 개 들어 있다.",
+      "habitat": "아마도 죽은 나무를 분해하는 부생균이다. 텍사스에서는 느릅나무의 한 종인 Ulmus crassifolia의 썩어 가는 그루터기와 죽은 뿌리 위나 그 옆에 홀로 또는 무리 지어 나며, 때때로 물에 잠기는 곳에 흔하고, 대는 지표면에서 5–10 cm 아래에서 솟아난다. 일본에서는 자연림에서 Quercus gilva 같은 참나무류의 쓰러진 줄기 위에 난다. 텍사스에서는 서늘한 계절, 주로 시월부터 사월까지 발생한다. 텍사스 중부와 북부, 오클라호마의 한 카운티, 일본의 몇몇 현, 타이완 북부에서만 알려져 있으며, 미국과 일본의 개체군은 적어도 1900만 년 동안 분리되어 왔다.",
+      "uses": "먹지 않는다: 독성은 알려져 있지 않지만 질기고 가죽질이어서 식용 부적합으로 여겨진다. 매우 희귀하므로 채집하기보다는 사진으로 남겨야 한다. 2021년에 텍사스주의 공식 주 버섯으로 지정되었다.",
+      "confusion": "털이 덮인 시가 모양의 어린 단계와 별 모양의 성숙한 단계 덕분에 혼동할 여지가 없다. 땅별버섯류(Geastrum)도 별 모양으로 열리지만, 이들은 말불버섯의 친척으로 가운데에 둥근 포자 주머니가 있고 열린 포자 형성면이 없다. 같은 과의 친척인 Wolfina와 Desmazierella는 어두운 색의 생식면을 가진 컵을 만들며 별 모양으로 갈라지지 않는다.",
+      "notes": "텍사스주 오스틴에서 처음 채집되었고, 1893년 찰스 호턴 펙이 Urnula geaster로 기재하였다. 엘시 쿠퍼가 1902년에 Chorioactis 속을 제안했지만, 1968년에야 핀에길 에크블라드가 유효하게 발표하였다. 2008년부터 이 속은 가까운 세 속과 함께 독자적인 과에 놓인다. 열리는 자실체는 들릴 만한 쉿 소리와 함께 포자를 내보낼 수 있다. 무성 단계는 2009년 일본에서 Kumanasamuha geaster로 기재되었다. 일본에서는 적색목록에 취약종(2025)으로 올라 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Retas aukšliagrybis iš Chorioactis genties, kuris iš pradžių būna tamsiai rudos, plaukuotos, cigaro formos kapsulės pavidalo, o vėliau atsiveria į odišką žvaigždę šviesiai oranžiniu vidiniu paviršiumi. Auga ant negyvų šaknų ir kelmų, daugiausia guobų Teksase ir ąžuolų Japonijoje, ir žinomas tik iš JAV pietų, Japonijos ir Taivano.",
+      "cap": "Kepurėlės nėra. Jaunas vaisiakūnis yra uždara, tuščiavidurė, buožiška ar verpstiška kapsulė, 4–14 cm ilgio ir 1,2–5 cm pločio, tankiai padengta minkštais rudais plaukeliais. Subrendęs jis nuo viršūnės suskyla į 4–7 odiškas skiautes, kurios išsilenkia į išorę ir žemyn ir sudaro maždaug 10–20 cm skersmens žvaigždę.",
+      "hymenium": "Sporas formuojantis sluoksnis iškloja kapsulės vidų ir atsivėrus lieka atidengtas viršutinėje skiaučių pusėje. Jis lygus ir plikas, iš pradžių balsvas, vėliau šafraninis, lašišinis ar rusvai oranžinis, galiausiai blankiai geltonas iki kaštoninio rudumo. Išorinė skiaučių pusė lieka tamsiai ruda iki beveik juodos ir plaukuota.",
+      "stipe": "Trumpas, 1–5 cm ilgio ir 0,75–1,5 cm storio kotas jungia vaisiakūnį su užkasta šaknimi. Paprastai jis būna paslėptas dirvožemyje ir, kaip ir kapsulės išorė, padengtas rudais aksominiais plaukeliais.",
+      "flesh": "Trama balsva, tvirta ir odiška; skiautės iki 0,35 cm storio. Ryškaus kvapo neturi.",
+      "sporePrint": "Neaprašyta. Vaisiakūniui atsivėrus, sporos gali išsiveržti balsvu, į dūmus panašiu debesėliu. Jos labai didelės, apie 54–75 × 10–17 µm, verpstiškos ir iš vienos pusės šiek tiek suplotos, bespalvės, lygios arba labai smulkiai duobėtos, su 3–5 aliejaus lašais; kiekviename aske yra aštuonios sporos.",
+      "habitat": "Tikriausiai negyvos medienos saprotrofas. Teksase auga pavieniui arba grupėmis ant pūvančių kelmų ir negyvų guobos Ulmus crassifolia šaknų ar šalia jų, dažnai retkarčiais užliejamose vietose, o kotas prasideda 5–10 cm po žemės paviršiumi; Japonijoje auga natūraliuose miškuose ant nuvirtusių ąžuolų, pavyzdžiui, Quercus gilva, kamienų. Teksase vaisiakūnius sudaro vėsiuoju metų laiku, dažniausiai nuo spalio iki balandžio. Žinomas tik iš centrinio ir šiaurinio Teksaso, vienos Oklahomos apygardos, kelių Japonijos prefektūrų ir šiaurinio Taivano; Amerikos ir Japonijos populiacijos atskirtos mažiausiai 19 milijonų metų.",
+      "uses": "Nevalgomas: nežinoma, kad būtų nuodingas, tačiau jis kietas ir odiškas ir laikomas nevalgomu. Kadangi jis labai retas, jį geriau fotografuoti nei rinkti. 2021 m. jis paskelbtas oficialiuoju Teksaso valstijos grybu.",
+      "confusion": "Plaukuota, cigaro formos jaunoji stadija ir žvaigždiška subrendusi stadija daro jį nesupainiojamą. Žvaigždinės (Geastrum) taip pat atsiveria į žvaigždę, tačiau jos yra pūkštainių giminaitės, turinčios apvalų sporų maišelį centre ir neturinčios atviro sporas formuojančio paviršiaus. Jo giminaičiai toje pačioje šeimoje, pavyzdžiui, Wolfina ir Desmazierella, sudaro taureles su tamsiu vaisingu paviršiumi ir nesuskyla į žvaigždę.",
+      "notes": "Pirmą kartą jis surinktas Ostine, Teksase, ir Charles Horton Peck jį 1893 m. aprašė kaip Urnula geaster. Elsie Kupfer 1902 m. pasiūlė Chorioactis gentį, tačiau teisėtai ją paskelbė tik Finn-Egil Eckblad 1968 m.; nuo 2008 m. gentis kartu su trimis giminingomis gentimis priskiriama atskirai šeimai. Atsiveriantis vaisiakūnis gali išleisti sporas girdimai šnypšdamas. Jo nelytinė stadija 2009 m. aprašyta iš Japonijos kaip Kumanasamuha geaster. Japonijoje jis įrašytas į raudonąjį sąrašą kaip pažeidžiamas (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Reta asku sēne no Chorioactis ģints, kas sākumā ir tumbrūna, mataina, cigārveida kapsula un pēc tam atveras ādainā zvaigznē ar gaiši oranžu iekšpusi. Tā aug uz atmirušām saknēm un celmiem, galvenokārt uz gobām Teksasā un uz ozoliem Japānā, un ir zināma tikai no ASV dienvidiem, Japānas un Taivānas.",
+      "cap": "Cepurītes nav. Jaunais augļķermenis ir slēgta, dobja, vālesveida līdz vārpstveida kapsula, 4–14 cm gara un 1,2–5 cm plata, blīvi klāta ar mīkstiem brūniem matiņiem. Nobriedis tas no virsotnes pārplīst 4–7 ādainās daivās, kas izliecas uz āru un uz leju un veido apmēram 10–20 cm platu zvaigzni.",
+      "hymenium": "Sporas veidojošais slānis izklāj kapsulas iekšpusi un pēc atvēršanās ir atsegts daivu augšpusē. Tas ir gluds un kails, sākumā bālgans, tad safrāna, laša vai brūngani oranžā krāsā un visbeidzot blāvi dzeltens līdz kastaņbrūns. Daivu ārpuse paliek tumbrūna līdz gandrīz melna un mataina.",
+      "stipe": "Īss kātiņš, 1–5 cm garš un 0,75–1,5 cm resns, savieno augļķermeni ar apraktu sakni. Parasti tas ir paslēpts augsnē un, tāpat kā kapsulas ārpuse, klāts ar brūniem samtainiem matiņiem.",
+      "flesh": "Mīkstums ir bālgans, stingrs un ādains; daivas ir līdz 0,35 cm biezas. Izteiktas smaržas nav.",
+      "sporePrint": "Nav aprakstīts. Kad augļķermenis atveras, sporas var izplūst kā bālgans, dūmiem līdzīgs mākonis. Tās ir ļoti lielas, apmēram 54–75 × 10–17 µm, vārpstveida un no vienas puses nedaudz saplacinātas, bezkrāsainas, gludas vai ļoti smalki bedrainas, ar 3–5 eļļas pilieniem; katrā askā ir astoņas sporas.",
+      "habitat": "Iespējams, atmirušas koksnes saprotrofs. Teksasā tā aug pa vienai vai grupās uz trūdošiem celmiem un gobas Ulmus crassifolia atmirušām saknēm vai blakus tām, bieži vietās, ko laiku pa laikam applūdina, un kātiņš sākas 5–10 cm zem zemes virsmas; Japānā tā aug uz nogāztiem ozolu stumbriem, piemēram, Quercus gilva, dabiskos mežos. Teksasā tā veido augļķermeņus vēsajā sezonā, galvenokārt no oktobra līdz aprīlim. Tā zināma tikai no Teksasas centrālās un ziemeļu daļas, viena apgabala Oklahomā, dažām Japānas prefektūrām un Taivānas ziemeļiem; Amerikas un Japānas populācijas ir nošķirtas vismaz 19 miljonus gadu.",
+      "uses": "Neēd: nav zināms, ka tā būtu indīga, taču tā ir cieta un ādaina un tiek uzskatīta par neēdamu. Tā kā tā ir tik reta, to labāk fotografēt nekā vākt. 2021. gadā tā tika pasludināta par Teksasas oficiālo štata sēni.",
+      "confusion": "Matainā, cigārveida jaunā stadija un zvaigžņveida nobriedusī stadija padara to nesajaucamu. Arī zemeszvaigznes (Geastrum) atveras zvaigznē, taču tās ir pūpēžu radinieces ar apaļu sporu maisiņu centrā un bez atklātas sporas veidojošas virsmas. Tās radinieces tajā pašā dzimtā, piemēram, Wolfina un Desmazierella, veido kausiņus ar tumšu auglīgo virsmu un neatveras zvaigznē.",
+      "notes": "Pirmo reizi tā tika ievākta Ostinā, Teksasā, un Charles Horton Peck to 1893. gadā aprakstīja kā Urnula geaster. Elsie Kupfer 1902. gadā ierosināja ģinti Chorioactis, taču likumīgi to publicēja tikai Finn-Egil Eckblad 1968. gadā; kopš 2008. gada ģints kopā ar trim radniecīgām ģintīm ir ievietota atsevišķā dzimtā. Atveroties augļķermenis var atbrīvot sporas ar dzirdamu šņākoņu. Tās bezdzimuma stadija 2009. gadā tika aprakstīta no Japānas kā Kumanasamuha geaster. Japānā tā ir iekļauta sarkanajā sarakstā kā jutīga (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een zeldzame zakjeszwam uit het geslacht Chorioactis die begint als een donkerbruin, behaard, sigaarvormig kapsel en daarna openscheurt tot een leerachtige ster met een lichtoranje binnenkant. Hij groeit op dode wortels en stronken, vooral van iepen in Texas en van eiken in Japan, en is alleen bekend uit het zuiden van de Verenigde Staten, Japan en Taiwan.",
+      "cap": "Er is geen hoed. Het jonge vruchtlichaam is een gesloten, hol, knots- tot spoelvormig kapsel van 4–14 cm lang en 1,2–5 cm breed, dicht bedekt met zachte bruine haren. Bij rijpheid scheurt het vanaf de top open in 4–7 leerachtige slippen die naar buiten en naar beneden krullen en een ster van ongeveer 10–20 cm doorsnede vormen.",
+      "hymenium": "De sporenvormende laag bekleedt de binnenkant van het kapsel en ligt na het openen bloot op de bovenkant van de slippen. Ze is glad en kaal, eerst witachtig, dan saffraan, zalmkleurig of bruinachtig oranje en ten slotte dofgeel tot kastanjebruin. De buitenkant van de slippen blijft donkerbruin tot bijna zwart en behaard.",
+      "stipe": "Een korte steel van 1–5 cm lang en 0,75–1,5 cm dik verbindt het vruchtlichaam met een begraven wortel. Hij zit meestal verborgen in de grond en is, net als de buitenkant van het kapsel, bedekt met bruine fluweelachtige haren.",
+      "flesh": "Het vlees is witachtig, stevig en leerachtig; de slippen zijn tot 0,35 cm dik. Een duidelijke geur ontbreekt.",
+      "sporePrint": "Niet vastgelegd. Als het vruchtlichaam opengaat, kunnen de sporen ontsnappen als een witachtige, rookachtige wolk. Ze zijn zeer groot, ongeveer 54–75 × 10–17 µm, spoelvormig en aan één kant iets afgeplat, kleurloos, glad of zeer fijn putjesachtig, met 3–5 oliedruppels; elk ascus bevat acht sporen.",
+      "habitat": "Waarschijnlijk een saprotroof van dood hout. In Texas groeit hij alleen of in groepen op of naast vermolmde stronken en dode wortels van de iep Ulmus crassifolia, vaak op plekken die af en toe overstromen, waarbij de steel 5–10 cm onder de grond ontspringt; in Japan groeit hij in natuurlijk bos op omgevallen stammen van eiken zoals Quercus gilva. In Texas vormt hij vruchtlichamen in het koele seizoen, meestal van oktober tot april. Hij is alleen bekend uit midden- en noord-Texas, één county in Oklahoma, enkele prefecturen in Japan en het noorden van Taiwan; de Amerikaanse en Japanse populaties zijn al minstens 19 miljoen jaar van elkaar gescheiden.",
+      "uses": "Niet gegeten: hij staat niet bekend als giftig, maar is taai en leerachtig en geldt als oneetbaar. Omdat hij zo zeldzaam is, kun je hem beter fotograferen dan plukken. In 2021 werd hij uitgeroepen tot officiële staatspaddenstoel van Texas.",
+      "confusion": "Het behaarde, sigaarvormige jonge stadium en het stervormige rijpe stadium maken hem onmiskenbaar. Ook aardsterren (Geastrum) openen zich stervormig, maar dat zijn verwanten van de stuifzwammen met een ronde sporenzak in het midden en zonder open sporenvormend oppervlak. Zijn verwanten in dezelfde familie, zoals Wolfina en Desmazierella, vormen bekers met een donker vruchtbaar oppervlak en scheuren niet stervormig open.",
+      "notes": "Hij werd voor het eerst verzameld in Austin, Texas, en in 1893 door Charles Horton Peck beschreven als Urnula geaster. Elsie Kupfer stelde in 1902 het geslacht Chorioactis voor, maar dat werd pas in 1968 geldig gepubliceerd door Finn-Egil Eckblad; sinds 2008 staat het geslacht samen met drie verwante geslachten in een eigen familie. Het opengaande vruchtlichaam kan zijn sporen met een hoorbaar gesis vrijlaten. Zijn ongeslachtelijke stadium werd in 2009 uit Japan beschreven als Kumanasamuha geaster. In Japan staat hij op de rode lijst als kwetsbaar (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En sjelden sekksporesopp i slekten Chorioactis som først ser ut som en mørkebrun, hårete, sigarformet kapsel og deretter sprekker opp til en læraktig stjerne med lyst oransje innside. Den vokser på døde røtter og stubber, særlig av alm i Texas og av eik i Japan, og er bare kjent fra det sørlige USA, Japan og Taiwan.",
+      "cap": "Hatt mangler. Den unge fruktkroppen er en lukket, hul, kølle- til spoleformet kapsel, 4–14 cm lang og 1,2–5 cm bred, tett dekket av myke brune hår. Ved modenhet sprekker den fra toppen i 4–7 læraktige fliker som bøyer seg utover og nedover og danner en stjerne på omkring 10–20 cm i diameter.",
+      "hymenium": "Det sporedannende laget kler innsiden av kapselen og blottlegges på flikenes overside når den åpner seg. Det er glatt og hårløst, først hvitaktig, så safranfarget, laksefarget eller brunaktig oransje og til slutt matt gult til kastanjebrunt. Flikenes utside forblir mørkebrun til nesten svart og hårete.",
+      "stipe": "En kort stilk, 1–5 cm lang og 0,75–1,5 cm tykk, forbinder fruktkroppen med en nedgravd rot. Den er som regel skjult i jorda og er, i likhet med kapselens utside, dekket av brune, fløyelsaktige hår.",
+      "flesh": "Kjøttet er hvitaktig, fast og læraktig; flikene er opptil 0,35 cm tykke. Det har ingen tydelig lukt.",
+      "sporePrint": "Ikke registrert. Når fruktkroppen åpner seg, kan sporene slippe ut som en hvitaktig, røykliknende sky. De er svært store, omkring 54–75 × 10–17 µm, spoleformede og litt flattrykte på den ene siden, fargeløse, glatte eller svært fint gropete, med 3–5 oljedråper; hver sporesekk inneholder åtte sporer.",
+      "habitat": "Trolig en saprotrof på død ved. I Texas vokser den enkeltvis eller i grupper på eller ved siden av råtnende stubber og døde røtter av almen Ulmus crassifolia, ofte på steder som av og til oversvømmes, og stilken springer ut 5–10 cm under bakken; i Japan vokser den på falne stammer av eik som Quercus gilva i naturskog. I Texas danner den fruktkropper i den kjølige årstiden, mest fra oktober til april. Den er bare kjent fra sentrale og nordlige Texas, ett county i Oklahoma, noen få prefekturer i Japan og nordlige Taiwan; de amerikanske og japanske bestandene har vært atskilt i minst 19 millioner år.",
+      "uses": "Spises ikke: den er ikke kjent som giftig, men er seig og læraktig og regnes som uspiselig. Fordi den er så sjelden, bør den fotograferes i stedet for å plukkes. I 2021 ble den utnevnt til Texas' offisielle delstatssopp.",
+      "confusion": "Det hårete, sigarformede unge stadiet og det stjerneformede modne stadiet gjør den umiskjennelig. Også jordstjerner (Geastrum) åpner seg som stjerner, men de er i slekt med røyksopper og har en rund sporesekk i midten og ingen åpen sporedannende flate. Slektningene i samme familie, som Wolfina og Desmazierella, danner begre med en mørk fertil flate og sprekker ikke opp som en stjerne.",
+      "notes": "Den ble først samlet i Austin i Texas og beskrevet av Charles Horton Peck i 1893 som Urnula geaster. Elsie Kupfer foreslo slekten Chorioactis i 1902, men den ble først gyldig publisert av Finn-Egil Eckblad i 1968; siden 2008 har slekten vært plassert i en egen familie sammen med tre beslektede slekter. Den åpnende fruktkroppen kan slippe ut sporene med en hørbar hvesing. Det ukjønnede stadiet ble beskrevet fra Japan i 2009 som Kumanasamuha geaster. I Japan er den rødlistet som sårbar (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Rzadki grzyb workowy z rodzaju Chorioactis, który początkowo ma postać ciemnobrązowej, owłosionej torebki w kształcie cygara, a potem pęka, tworząc skórzastą gwiazdę o jasnopomarańczowej powierzchni wewnętrznej. Rośnie na martwych korzeniach i pniakach, głównie wiązów w Teksasie i dębów w Japonii, i jest znany tylko z południa Stanów Zjednoczonych, z Japonii i Tajwanu.",
+      "cap": "Nie ma kapelusza. Młody owocnik jest zamkniętą, pustą w środku, maczugowatą do wrzecionowatej torebką o długości 4–14 cm i szerokości 1,2–5 cm, gęsto pokrytą miękkimi brązowymi włoskami. W dojrzałości pęka od szczytu na 4–7 skórzastych ramion, które wyginają się na zewnątrz i w dół, tworząc gwiazdę o średnicy około 10–20 cm.",
+      "hymenium": "Warstwa zarodnikonośna wyściela wnętrze torebki i po otwarciu jest odsłonięta na górnej stronie ramion. Jest gładka i naga, początkowo biaława, potem szafranowa, łososiowa lub brązowopomarańczowa, a w końcu matowo żółta do kasztanowobrązowej. Zewnętrzna strona ramion pozostaje ciemnobrązowa do prawie czarnej i owłosiona.",
+      "stipe": "Krótki trzon o długości 1–5 cm i grubości 0,75–1,5 cm łączy owocnik z zakopanym korzeniem. Zwykle jest ukryty w glebie i, podobnie jak zewnętrzna strona torebki, pokryty brązowymi aksamitnymi włoskami.",
+      "flesh": "Miąższ jest białawy, jędrny i skórzasty; ramiona mają do 0,35 cm grubości. Nie ma wyraźnego zapachu.",
+      "sporePrint": "Nie odnotowano. Gdy owocnik się otwiera, zarodniki mogą wydostać się jako biaława, podobna do dymu chmurka. Są bardzo duże, około 54–75 × 10–17 µm, wrzecionowate i lekko spłaszczone z jednej strony, bezbarwne, gładkie lub bardzo drobno dołkowane, z 3–5 kroplami oleju; każdy worek zawiera osiem zarodników.",
+      "habitat": "Prawdopodobnie saprotrof martwego drewna. W Teksasie rośnie pojedynczo lub w grupach na rozkładających się pniakach i martwych korzeniach wiązu Ulmus crassifolia lub obok nich, często w miejscach od czasu do czasu zalewanych, a trzon wyrasta 5–10 cm pod powierzchnią gruntu; w Japonii rośnie na powalonych pniach dębów, takich jak Quercus gilva, w lasach naturalnych. W Teksasie owocnikuje w chłodnej porze roku, przeważnie od października do kwietnia. Jest znany tylko ze środkowego i północnego Teksasu, z jednego hrabstwa w Oklahomie, z kilku prefektur w Japonii i z północnego Tajwanu; populacje amerykańskie i japońskie są rozdzielone od co najmniej 19 milionów lat.",
+      "uses": "Nie jest jadany: nie wiadomo, by był trujący, ale jest twardy i skórzasty i uważa się go za niejadalny. Ponieważ jest tak rzadki, należy go raczej fotografować niż zbierać. W 2021 roku ustanowiono go oficjalnym stanowym grzybem Teksasu.",
+      "confusion": "Owłosione, cygarowate młode stadium i gwiaździste dojrzałe stadium sprawiają, że jest nie do pomylenia. Również grzyby z rodzaju Geastrum otwierają się w gwiazdę, ale są krewnymi purchawek z okrągłym workiem zarodnikowym pośrodku i bez odsłoniętej powierzchni zarodnikonośnej. Jego krewni z tej samej rodziny, tacy jak Wolfina i Desmazierella, tworzą miseczki z ciemną powierzchnią zarodnikonośną i nie pękają w gwiazdę.",
+      "notes": "Po raz pierwszy zebrano go w Austin w Teksasie, a Charles Horton Peck opisał go w 1893 roku jako Urnula geaster. Elsie Kupfer zaproponowała rodzaj Chorioactis w 1902 roku, ale ważnie opublikował go dopiero Finn-Egil Eckblad w 1968 roku; od 2008 roku rodzaj umieszcza się we własnej rodzinie razem z trzema pokrewnymi rodzajami. Otwierający się owocnik może uwalniać zarodniki ze słyszalnym syczeniem. Jego stadium bezpłciowe opisano z Japonii w 2009 roku jako Kumanasamuha geaster. W Japonii figuruje na czerwonej liście jako narażony (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um fungo raro do género Chorioactis que começa como uma cápsula castanho-escura, pilosa e em forma de charuto e depois se abre numa estrela coriácea com a face interna laranja-pálida. Cresce em raízes mortas e cepos, sobretudo de ulmeiros no Texas e de carvalhos no Japão, e só é conhecido do sul dos Estados Unidos, do Japão e de Taiwan.",
+      "cap": "Não tem chapéu. O corpo frutífero jovem é uma cápsula fechada, oca, claviforme a fusiforme, com 4–14 cm de comprimento e 1,2–5 cm de largura, densamente coberta de pelos castanhos e macios. Na maturidade abre-se a partir do ápice em 4–7 lacínias coriáceas que se curvam para fora e para baixo, formando uma estrela com cerca de 10–20 cm de diâmetro.",
+      "hymenium": "A camada fértil reveste o interior da cápsula e fica exposta na face superior das lacínias quando esta se abre. É lisa e glabra, primeiro esbranquiçada, depois cor de açafrão, salmão ou laranja-acastanhada e, por fim, amarelo-baça a castanho-avermelhada. A face externa das lacínias permanece castanho-escura a quase negra e pilosa.",
+      "stipe": "Um pé curto com 1–5 cm de comprimento e 0,75–1,5 cm de espessura liga o corpo frutífero a uma raiz enterrada. Normalmente está escondido no solo e, tal como o exterior da cápsula, coberto de pelos castanhos aveludados.",
+      "flesh": "A carne é esbranquiçada, firme e coriácea; as lacínias têm até 0,35 cm de espessura. Não tem cheiro característico.",
+      "sporePrint": "Não registada. Quando o corpo frutífero se abre, os esporos podem sair numa nuvem esbranquiçada semelhante a fumo. São muito grandes, cerca de 54–75 × 10–17 µm, fusiformes e ligeiramente achatados de um lado, incolores, lisos ou muito finamente pontuados, com 3–5 gotas de óleo; cada asco contém oito esporos.",
+      "habitat": "Provavelmente sapróbio de madeira morta. No Texas cresce isolado ou em grupos sobre ou junto a cepos em decomposição e raízes mortas do ulmeiro Ulmus crassifolia, muitas vezes em locais que inundam de vez em quando, com o pé a nascer 5–10 cm abaixo do solo; no Japão cresce em troncos caídos de carvalhos como Quercus gilva em floresta natural. No Texas frutifica na estação fresca, sobretudo de outubro a abril. Só é conhecido do centro e norte do Texas, de um condado do Oklahoma, de algumas prefeituras do Japão e do norte de Taiwan; as populações americanas e japonesas estão separadas há pelo menos 19 milhões de anos.",
+      "uses": "Não se come: não se sabe que seja venenoso, mas é duro e coriáceo e considera-se não comestível. Como é tão raro, deve ser fotografado em vez de colhido. Em 2021 foi designado cogumelo oficial do estado do Texas.",
+      "confusion": "A fase jovem pilosa em forma de charuto e a fase madura em estrela tornam-no inconfundível. As estrelas-da-terra (Geastrum) também se abrem em estrela, mas são parentes dos bufa-de-lobo, com um saco de esporos redondo no centro e sem superfície fértil aberta. Os seus parentes da mesma família, como Wolfina e Desmazierella, formam taças com uma superfície fértil escura e não se abrem em estrela.",
+      "notes": "Foi recolhido pela primeira vez em Austin, no Texas, e descrito por Charles Horton Peck em 1893 como Urnula geaster. Elsie Kupfer propôs o género Chorioactis em 1902, mas este só foi publicado validamente por Finn-Egil Eckblad em 1968; desde 2008 o género é colocado numa família própria juntamente com três géneros aparentados. O corpo frutífero, ao abrir-se, pode libertar os esporos com um silvo audível. A sua fase assexuada foi descrita do Japão em 2009 como Kumanasamuha geaster. No Japão consta da lista vermelha como vulnerável (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă rară din genul Chorioactis, care apare mai întâi ca o capsulă brun-închisă, păroasă, în formă de trabuc, apoi se deschide într-o stea pieloasă cu fața interioară portocaliu-pal. Crește pe rădăcini moarte și cioturi, mai ales de ulmi în Texas și de stejari în Japonia, și este cunoscută doar din sudul Statelor Unite, din Japonia și din Taiwan.",
+      "cap": "Nu are pălărie. Corpul fructifer tânăr este o capsulă închisă, goală pe dinăuntru, claviformă până la fusiformă, lungă de 4–14 cm și lată de 1,2–5 cm, acoperită des cu peri moi, bruni. La maturitate se despică de la vârf în 4–7 lobi pieloși care se curbează în afară și în jos, formând o stea cu diametrul de aproximativ 10–20 cm.",
+      "hymenium": "Stratul fertil căptușește interiorul capsulei și rămâne expus pe fața superioară a lobilor după deschidere. Este neted și glabru, la început albicios, apoi șofraniu, somoniu sau portocaliu-brun și în cele din urmă galben-mat până la brun-castaniu. Fața exterioară a lobilor rămâne brun-închisă până aproape neagră și păroasă.",
+      "stipe": "Un picior scurt, lung de 1–5 cm și gros de 0,75–1,5 cm, leagă corpul fructifer de o rădăcină îngropată. De obicei este ascuns în sol și, ca și exteriorul capsulei, este acoperit cu peri bruni catifelați.",
+      "flesh": "Carnea este albicioasă, fermă și pieloasă; lobii au până la 0,35 cm grosime. Nu are un miros distinct.",
+      "sporePrint": "Nu este înregistrată. Când corpul fructifer se deschide, sporii pot ieși sub forma unui nor albicios, asemănător fumului. Sunt foarte mari, de aproximativ 54–75 × 10–17 µm, fusiformi și ușor turtiți pe o parte, incolori, netezi sau foarte fin punctați, cu 3–5 picături de ulei; fiecare asc conține opt spori.",
+      "habitat": "Probabil saprotrofă pe lemn mort. În Texas crește solitar sau în grupuri pe sau lângă cioturi în descompunere și rădăcini moarte ale ulmului Ulmus crassifolia, adesea în locuri inundate din când în când, piciorul pornind de la 5–10 cm sub suprafața solului; în Japonia crește pe trunchiuri căzute de stejari precum Quercus gilva, în păduri naturale. În Texas fructifică în sezonul răcoros, mai ales din octombrie până în aprilie. Este cunoscută doar din centrul și nordul Texasului, dintr-un comitat din Oklahoma, din câteva prefecturi din Japonia și din nordul Taiwanului; populațiile americane și japoneze sunt separate de cel puțin 19 milioane de ani.",
+      "uses": "Nu se consumă: nu se știe să fie otrăvitoare, dar este tare și pieloasă și este considerată necomestibilă. Fiind atât de rară, este bine să fie fotografiată, nu culeasă. În 2021 a fost desemnată ciuperca oficială a statului Texas.",
+      "confusion": "Stadiul tânăr păros, în formă de trabuc, și stadiul matur în formă de stea o fac inconfundabilă. Și ciupercile din genul Geastrum se deschid în formă de stea, dar sunt rude ale pufaielor, cu un sac sporifer rotund în centru și fără suprafață fertilă deschisă. Rudele sale din aceeași familie, precum Wolfina și Desmazierella, formează cupe cu suprafața fertilă închisă la culoare și nu se despică în stea.",
+      "notes": "A fost colectată prima dată la Austin, în Texas, și descrisă de Charles Horton Peck în 1893 ca Urnula geaster. Elsie Kupfer a propus genul Chorioactis în 1902, dar acesta a fost publicat valid abia de Finn-Egil Eckblad în 1968; din 2008 genul este plasat într-o familie proprie împreună cu alte trei genuri înrudite. Corpul fructifer care se deschide își poate elibera sporii cu un șuierat audibil. Stadiul său asexuat a fost descris din Japonia în 2009 ca Kumanasamuha geaster. În Japonia figurează pe lista roșie ca vulnerabilă (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Редкий сумчатый гриб из рода Chorioactis, который сначала имеет вид тёмно-коричневой опушённой капсулы в форме сигары, а затем раскрывается в кожистую звезду со светло-оранжевой внутренней поверхностью. Растёт на отмерших корнях и пнях, в основном вязов в Техасе и дубов в Японии, и известен только с юга США, из Японии и с Тайваня.",
+      "cap": "Шляпки нет. Молодое плодовое тело — замкнутая полая булавовидная или веретеновидная капсула длиной 4–14 cm и шириной 1,2–5 cm, густо покрытая мягкими коричневыми волосками. При созревании оно раскрывается с вершины на 4–7 кожистых лопастей, которые отгибаются наружу и вниз, образуя звезду около 10–20 cm в поперечнике.",
+      "hymenium": "Спороносный слой выстилает внутреннюю сторону капсулы и после раскрытия обнажается на верхней стороне лопастей. Он гладкий и голый, сначала беловатый, затем шафрановый, лососевый или буровато-оранжевый, а под конец тускло-жёлтый или каштаново-коричневый. Наружная сторона лопастей остаётся тёмно-коричневой или почти чёрной и опушённой.",
+      "stipe": "Короткая ножка длиной 1–5 cm и толщиной 0,75–1,5 cm соединяет плодовое тело с погребённым корнем. Обычно она скрыта в почве и, как и наружная сторона капсулы, покрыта коричневыми бархатистыми волосками.",
+      "flesh": "Мякоть беловатая, плотная и кожистая; толщина лопастей до 0,35 cm. Выраженного запаха нет.",
+      "sporePrint": "Не описан. При раскрытии плодового тела споры могут вырываться беловатым облачком, похожим на дым. Они очень крупные, около 54–75 × 10–17 µm, веретеновидные и слегка уплощённые с одной стороны, бесцветные, гладкие или очень мелкоямчатые, с 3–5 каплями масла; в каждой сумке по восемь спор.",
+      "habitat": "Вероятно, сапротроф на мёртвой древесине. В Техасе растёт одиночно или группами на гниющих пнях и отмерших корнях вяза Ulmus crassifolia или рядом с ними, часто в местах, которые время от времени затапливаются, причём ножка отходит на глубине 5–10 cm под поверхностью почвы; в Японии растёт на упавших стволах дубов, таких как Quercus gilva, в естественных лесах. В Техасе плодоносит в прохладный сезон, чаще всего с октября по апрель. Известен только из центральной и северной частей Техаса, одного округа в Оклахоме, нескольких префектур Японии и севера Тайваня; американские и японские популяции разделены не менее 19 миллионов лет.",
+      "uses": "Не употребляется в пищу: о ядовитости не известно, но гриб жёсткий и кожистый и считается несъедобным. Поскольку он очень редок, его лучше фотографировать, чем собирать. В 2021 году он был объявлен официальным грибом штата Техас.",
+      "confusion": "Опушённая сигаровидная молодая стадия и звездчатая зрелая стадия делают его ни с чем не сравнимым. Звездовики (Geastrum) тоже раскрываются звездой, но это родственники дождевиков с круглым спороносным мешочком в центре и без открытой спороносной поверхности. Его родственники из того же семейства, например Wolfina и Desmazierella, образуют чаши с тёмной спороносной поверхностью и не раскрываются звездой.",
+      "notes": "Впервые собран в Остине (Техас) и описан Чарлзом Хортоном Пеком в 1893 году как Urnula geaster. Элси Купфер предложила род Chorioactis в 1902 году, но действительно обнародовал его лишь Финн-Эгиль Экблад в 1968 году; с 2008 года род помещают в собственное семейство вместе с тремя родственными родами. Раскрывающееся плодовое тело может выпускать споры со слышимым шипением. Его бесполая стадия описана из Японии в 2009 году как Kumanasamuha geaster. В Японии внесён в Красный список как уязвимый (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Vzácna miskovitá huba z rodu Chorioactis, ktorá sa najprv objavuje ako tmavohnedá, chlpatá puzdrovitá plodnica v tvare cigary a potom sa roztrhne na kožovitú hviezdu so svetlooranžovým vnútorným povrchom. Rastie na odumretých koreňoch a pňoch, najmä brestov v Texase a dubov v Japonsku, a je známa len z juhu Spojených štátov, z Japonska a Taiwanu.",
+      "cap": "Klobúk nemá. Mladá plodnica je uzavreté, duté, kyjakovité až vretenovité puzdro dlhé 4–14 cm a široké 1,2–5 cm, husto pokryté mäkkými hnedými chĺpkami. V zrelosti sa od vrcholu roztrhne na 4–7 kožovitých lalokov, ktoré sa ohýbajú von a nadol a tvoria hviezdu širokú asi 10–20 cm.",
+      "hymenium": "Výtrusorodá vrstva vystiela vnútro puzdra a po otvorení je odkrytá na hornej strane lalokov. Je hladká a lysá, spočiatku belavá, potom šafranová, lososová alebo hnedooranžová a nakoniec matne žltá až gaštanovohnedá. Vonkajšia strana lalokov zostáva tmavohnedá až takmer čierna a chlpatá.",
+      "stipe": "Krátky hlúbik dlhý 1–5 cm a hrubý 0,75–1,5 cm spája plodnicu so zahrabaným koreňom. Zvyčajne je skrytý v pôde a podobne ako vonkajšok puzdra je pokrytý hnedými zamatovými chĺpkami.",
+      "flesh": "Dužina je belavá, pevná a kožovitá; laloky sú hrubé až 0,35 cm. Nemá výraznú vôňu.",
+      "sporePrint": "Nie je zaznamenaný. Keď sa plodnica otvorí, výtrusy môžu uniknúť ako belavý obláčik podobný dymu. Sú veľmi veľké, asi 54–75 × 10–17 µm, vretenovité a na jednej strane mierne sploštené, bezfarebné, hladké alebo veľmi jemne jamkaté, s 3–5 olejovými kvapkami; každé vrecko obsahuje osem výtrusov.",
+      "habitat": "Pravdepodobne saprotrof odumretého dreva. V Texase rastie jednotlivo alebo v skupinách na rozkladajúcich sa pňoch a odumretých koreňoch bresta Ulmus crassifolia alebo vedľa nich, často na miestach, ktoré občas zaplavuje voda, pričom hlúbik vyrastá 5–10 cm pod povrchom pôdy; v Japonsku rastie na spadnutých kmeňoch dubov, napríklad Quercus gilva, v prirodzených lesoch. V Texase plodí v chladnom období, väčšinou od októbra do apríla. Je známa len zo stredného a severného Texasu, z jedného okresu v Oklahome, z niekoľkých prefektúr v Japonsku a zo severného Taiwanu; americké a japonské populácie sú oddelené najmenej 19 miliónov rokov.",
+      "uses": "Neje sa: nie je známe, že by bola jedovatá, ale je tuhá a kožovitá a považuje sa za nejedlú. Pretože je taká vzácna, treba ju radšej fotografovať než zbierať. V roku 2021 bola vyhlásená za oficiálnu štátnu hubu Texasu.",
+      "confusion": "Chlpaté mladé štádium v tvare cigary a hviezdicovité zrelé štádium ju robia nezameniteľnou. Aj huby rodu Geastrum sa otvárajú do hviezdy, sú to však príbuzné prášnic s okrúhlym výtrusným vakom v strede a bez otvorenej výtrusorodej plochy. Jej príbuzní z tej istej čeľade, napríklad Wolfina a Desmazierella, tvoria misky s tmavým výtrusorodým povrchom a do hviezdy sa netrhajú.",
+      "notes": "Prvý raz ju zbierali v Austine v Texase a Charles Horton Peck ju v roku 1893 opísal ako Urnula geaster. Elsie Kupfer navrhla rod Chorioactis v roku 1902, ale platne ho uverejnil až Finn-Egil Eckblad v roku 1968; od roku 2008 je rod zaradený do vlastnej čeľade spolu s tromi príbuznými rodmi. Otvárajúca sa plodnica môže uvoľniť výtrusy s počuteľným syčaním. Jej nepohlavné štádium bolo opísané z Japonska v roku 2009 ako Kumanasamuha geaster. V Japonsku je na červenom zozname ako zraniteľná (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Redka zaprtotrosnica iz rodu Chorioactis, ki se najprej pojavi kot temno rjava, dlakava ovojnica v obliki cigare, nato pa se razpre v usnjato zvezdo s svetlo oranžno notranjo površino. Raste na odmrlih koreninah in štorih, predvsem brestov v Teksasu in hrastov na Japonskem, in je znana le z juga Združenih držav, z Japonske in s Tajvana.",
+      "cap": "Klobuka nima. Mladi trosnjak je zaprta, votla, kijasta do vretenasta ovojnica, dolga 4–14 cm in široka 1,2–5 cm, gosto pokrita z mehkimi rjavimi dlačicami. Ko dozori, se od vrha razpoči v 4–7 usnjatih krp, ki se upognejo navzven in navzdol ter tvorijo zvezdo s premerom približno 10–20 cm.",
+      "hymenium": "Trosovna plast obdaja notranjost ovojnice in je po odprtju razgaljena na zgornji strani krp. Je gladka in gola, sprva belkasta, nato žafranasta, lososova ali rjavkasto oranžna in na koncu motno rumena do kostanjevo rjava. Zunanja stran krp ostane temno rjava do skoraj črna in dlakava.",
+      "stipe": "Kratek bet, dolg 1–5 cm in debel 0,75–1,5 cm, povezuje trosnjak z zakopano korenino. Navadno je skrit v tleh in je tako kot zunanjost ovojnice pokrit z rjavimi žametnimi dlačicami.",
+      "flesh": "Meso je belkasto, čvrsto in usnjato; krpe so debele do 0,35 cm. Izrazitega vonja nima.",
+      "sporePrint": "Ni zabeležen. Ko se trosnjak odpre, lahko trosi uidejo kot belkast, dimu podoben oblaček. So zelo veliki, okoli 54–75 × 10–17 µm, vretenasti in na eni strani rahlo sploščeni, brezbarvni, gladki ali zelo drobno jamičasti, s 3–5 oljnimi kapljicami; vsak askus vsebuje osem trosov.",
+      "habitat": "Verjetno saprotrof na odmrlem lesu. V Teksasu raste posamič ali v skupinah na trhlečih štorih in odmrlih koreninah bresta Ulmus crassifolia ali ob njih, pogosto na mestih, ki jih občasno poplavlja, bet pa izrašča 5–10 cm pod površjem tal; na Japonskem raste na podrtih deblih hrastov, kot je Quercus gilva, v naravnih gozdovih. V Teksasu tvori trosnjake v hladnem delu leta, večinoma od oktobra do aprila. Znana je le iz osrednjega in severnega Teksasa, enega okrožja v Oklahomi, nekaj prefektur na Japonskem in severnega Tajvana; ameriške in japonske populacije so ločene vsaj 19 milijonov let.",
+      "uses": "Ni užitna: ni znano, da bi bila strupena, vendar je žilava in usnjata ter velja za neužitno. Ker je tako redka, jo je bolje fotografirati kot nabirati. Leta 2021 je bila razglašena za uradno državno gobo Teksasa.",
+      "confusion": "Dlakavi mladi stadij v obliki cigare in zvezdasti zreli stadij jo naredita nezamenljivo. Tudi zvezdice (Geastrum) se odprejo v zvezdo, vendar so sorodnice prašnic z okroglo trosno vrečko v sredini in brez odprte trosovne površine. Njeni sorodniki iz iste družine, kot sta Wolfina in Desmazierella, tvorijo čašice s temno trosovno površino in se ne razpočijo v zvezdo.",
+      "notes": "Prvič so jo nabrali v Austinu v Teksasu, Charles Horton Peck pa jo je leta 1893 opisal kot Urnula geaster. Elsie Kupfer je rod Chorioactis predlagala leta 1902, veljavno pa ga je objavil šele Finn-Egil Eckblad leta 1968; od leta 2008 rod skupaj s tremi sorodnimi rodovi uvrščajo v lastno družino. Trosnjak, ki se odpira, lahko trose izpusti s slišnim sikanjem. Njen nespolni stadij so leta 2009 z Japonske opisali kot Kumanasamuha geaster. Na Japonskem je na rdečem seznamu kot ranljiva (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Ретка гљива мешинарка из рода Chorioactis која се најпре јавља као тамномрка, длакава чаура у облику цигаре, а затим се отвара у кожасту звезду са светлонаранџастом унутрашњом површином. Расте на мртвом корењу и пањевима, углавном брестова у Тексасу и храстова у Јапану, и позната је само са југа Сједињених Држава, из Јапана и са Тајвана.",
+      "cap": "Шешир не постоји. Младо плодоносно тело је затворена, шупља, батинаста до вретенаста чаура дуга 4–14 cm и широка 1,2–5 cm, густо прекривена меким мрким длачицама. У зрелости се од врха распукне у 4–7 кожастих кракова који се савијају ка споља и надоле и образују звезду пречника око 10–20 cm.",
+      "hymenium": "Плодни слој облаже унутрашњост чауре и после отварања остаје откривен на горњој страни кракова. Гладак је и го, у почетку беличаст, затим боје шафрана, лососа или мркоонаранџаст, а на крају мутно жут до кестењастомрк. Спољна страна кракова остаје тамномрка до скоро црна и длакава.",
+      "stipe": "Кратка дршка дуга 1–5 cm и дебела 0,75–1,5 cm повезује плодоносно тело са закопаним кореном. Обично је скривена у земљи и, као и спољашњост чауре, прекривена мрким баршунастим длачицама.",
+      "flesh": "Месо је беличасто, чврсто и кожасто; краци су дебели до 0,35 cm. Нема изражен мирис.",
+      "sporePrint": "Није забележен. Када се плодоносно тело отвори, споре могу изаћи као беличаст облачић налик диму. Веома су крупне, око 54–75 × 10–17 µm, вретенасте и са једне стране благо спљоштене, безбојне, глатке или веома ситно јамичасте, са 3–5 капљица уља; свака кесица садржи осам спора.",
+      "habitat": "Вероватно сапротроф на мртвом дрвету. У Тексасу расте појединачно или у групама на трулим пањевима и мртвом корењу бреста Ulmus crassifolia или поред њих, често на местима која повремено плаве, при чему дршка израста 5–10 cm испод површине тла; у Јапану расте на палим стаблима храстова као што је Quercus gilva у природним шумама. У Тексасу плодоноси у хладнијем делу године, углавном од октобра до априла. Позната је само из средишњег и северног Тексаса, једног округа у Оклахоми, неколико префектура у Јапану и са севера Тајвана; америчке и јапанске популације раздвојене су најмање 19 милиона година.",
+      "uses": "Не једе се: није познато да је отровна, али је жилава и кожаста и сматра се нејестивом. Пошто је толико ретка, боље ју је фотографисати него брати. Године 2021. проглашена је званичном државном гљивом Тексаса.",
+      "confusion": "Длакав млади стадијум у облику цигаре и звездаст зрели стадијум чине је непогрешивом. И звездаче (Geastrum) се отварају у звезду, али су сроднице пухара, са округлом кесицом спора у средини и без отворене плодне површине. Њени сродници из исте породице, као што су Wolfina и Desmazierella, образују чашице са тамном плодном површином и не распуцавају се у звезду.",
+      "notes": "Први пут је сакупљена у Остину у Тексасу, а Чарлс Хортон Пек ју је описао 1893. као Urnula geaster. Елси Купфер је предложила род Chorioactis 1902, али га је ваљано објавио тек Фин-Егил Екблад 1968; од 2008. род се сврстава у сопствену породицу заједно са три сродна рода. Плодоносно тело које се отвара може испустити споре уз чујно шиштање. Њен бесполни стадијум описан је из Јапана 2009. као Kumanasamuha geaster. У Јапану је на црвеној листи као рањива (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En sällsynt sporsäckssvamp i släktet Chorioactis som först ser ut som en mörkbrun, hårig, cigarrformad kapsel och sedan spricker upp till en läderartad stjärna med ljust orange insida. Den växer på döda rötter och stubbar, främst av alm i Texas och av ek i Japan, och är bara känd från södra USA, Japan och Taiwan.",
+      "cap": "Hatt saknas. Den unga fruktkroppen är en sluten, ihålig, klubb- till spolformad kapsel, 4–14 cm lång och 1,2–5 cm bred, tätt täckt av mjuka bruna hår. Vid mognad spricker den från toppen i 4–7 läderartade flikar som böjer sig utåt och nedåt och bildar en stjärna omkring 10–20 cm i diameter.",
+      "hymenium": "Det sporbildande lagret klär kapselns insida och blottas på flikarnas ovansida när den öppnar sig. Det är slätt och kalt, först vitaktigt, sedan saffransgult, laxfärgat eller brunaktigt orange och till sist matt gult till kastanjebrunt. Flikarnas utsida förblir mörkbrun till nästan svart och hårig.",
+      "stipe": "En kort fot, 1–5 cm lång och 0,75–1,5 cm tjock, förbinder fruktkroppen med en nedgrävd rot. Den är oftast dold i jorden och är liksom kapselns utsida täckt av bruna, sammetslena hår.",
+      "flesh": "Köttet är vitaktigt, fast och läderartat; flikarna är upp till 0,35 cm tjocka. Någon tydlig lukt finns inte.",
+      "sporePrint": "Inte dokumenterat. När fruktkroppen öppnar sig kan sporerna strömma ut som ett vitaktigt, rökliknande moln. De är mycket stora, ungefär 54–75 × 10–17 µm, spolformade och något tillplattade på ena sidan, färglösa, släta eller mycket fint gropiga, med 3–5 oljedroppar; varje sporsäck innehåller åtta sporer.",
+      "habitat": "Troligen en saprotrof på död ved. I Texas växer den ensam eller i grupper på eller intill multnande stubbar och döda rötter av almen Ulmus crassifolia, ofta på platser som då och då översvämmas, och foten utgår 5–10 cm under markytan; i Japan växer den på omkullfallna stammar av ek som Quercus gilva i naturskog. I Texas bildar den fruktkroppar under den svala årstiden, mest från oktober till april. Den är bara känd från centrala och norra Texas, ett county i Oklahoma, några prefekturer i Japan och norra Taiwan; de amerikanska och japanska populationerna har varit åtskilda i minst 19 miljoner år.",
+      "uses": "Äts inte: den är inte känd som giftig, men den är seg och läderartad och räknas som oätlig. Eftersom den är så sällsynt bör den fotograferas i stället för att plockas. År 2021 utsågs den till Texas officiella delstatssvamp.",
+      "confusion": "Det håriga, cigarrformade unga stadiet och det stjärnformade mogna stadiet gör den omisskännlig. Även jordstjärnor (Geastrum) öppnar sig som stjärnor, men de är släkt med röksvampar och har en rund sporsäck i mitten och ingen öppen sporbildande yta. Dess släktingar i samma familj, till exempel Wolfina och Desmazierella, bildar bägare med en mörk fertil yta och spricker inte upp som en stjärna.",
+      "notes": "Den samlades först i Austin, Texas, och beskrevs av Charles Horton Peck år 1893 som Urnula geaster. Elsie Kupfer föreslog släktet Chorioactis år 1902, men det publicerades giltigt först av Finn-Egil Eckblad år 1968; sedan 2008 placeras släktet i en egen familj tillsammans med tre närstående släkten. Den öppnande fruktkroppen kan släppa ut sina sporer med ett hörbart väsande. Dess könlösa stadium beskrevs från Japan år 2009 som Kumanasamuha geaster. I Japan är den rödlistad som sårbar (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Chorioactis cinsine ait nadir bir mantar; önce koyu kahverengi, tüylü, puro biçimli bir kapsül olarak görünür, sonra açılarak iç yüzü soluk turuncu olan derimsi bir yıldıza dönüşür. Ölü kökler ve kütükler üzerinde, özellikle Texas'ta karaağaçlar ve Japonya'da meşeler üzerinde yetişir; yalnızca Amerika Birleşik Devletleri'nin güneyinden, Japonya'dan ve Tayvan'dan bilinir.",
+      "cap": "Şapkası yoktur. Genç meyve gövdesi kapalı, içi boş, topuz biçiminden iğ biçimine değişen, 4–14 cm uzunluğunda ve 1,2–5 cm genişliğinde, yumuşak kahverengi tüylerle yoğun biçimde örtülü bir kapsüldür. Olgunlaşınca tepeden başlayarak 4–7 derimsi kola ayrılır; bu kollar dışa ve aşağıya kıvrılarak yaklaşık 10–20 cm çapında bir yıldız oluşturur.",
+      "hymenium": "Spor üreten tabaka kapsülün içini kaplar ve açılınca kolların üst yüzünde açıkta kalır. Pürüzsüz ve tüysüzdür; önce beyazımsı, sonra safran, somon ya da kahverengimsi turuncu, en sonunda da mat sarıdan kestane kahverengisine kadar değişir. Kolların dış yüzü koyu kahverengiden neredeyse siyaha kadar ve tüylü kalır.",
+      "stipe": "1–5 cm uzunluğunda ve 0,75–1,5 cm kalınlığında kısa bir sap, meyve gövdesini gömülü bir köke bağlar. Genellikle toprağın içinde gizlidir ve kapsülün dışı gibi kahverengi kadifemsi tüylerle kaplıdır.",
+      "flesh": "Eti beyazımsı, sıkı ve derimsidir; kollar en çok 0,35 cm kalınlığındadır. Belirgin bir kokusu yoktur.",
+      "sporePrint": "Kaydedilmemiştir. Meyve gövdesi açıldığında sporlar beyazımsı, duman benzeri bir bulut hâlinde çıkabilir. Çok büyüktürler, yaklaşık 54–75 × 10–17 µm, iğ biçimli ve bir yanı hafifçe basıktır; renksiz, pürüzsüz ya da çok ince çukurcuklu olup 3–5 yağ damlası içerirler; her askus sekiz spor taşır.",
+      "habitat": "Büyük olasılıkla ölü odun üzerinde yaşayan bir saprotroftur. Texas'ta Ulmus crassifolia karaağacının çürümekte olan kütükleri ve ölü kökleri üzerinde ya da yanında, tek tek veya gruplar hâlinde, çoğu zaman ara sıra su basan yerlerde yetişir ve sapı toprak yüzeyinin 5–10 cm altından çıkar; Japonya'da doğal ormanlarda Quercus gilva gibi meşelerin devrik gövdeleri üzerinde yetişir. Texas'ta serin mevsimde, çoğunlukla ekimden nisana kadar meyve verir. Yalnızca Texas'ın orta ve kuzey kesimlerinden, Oklahoma'daki bir ilçeden, Japonya'daki birkaç vilayetten ve Tayvan'ın kuzeyinden bilinir; Amerikan ve Japon popülasyonları en az 19 milyon yıldır birbirinden ayrıdır.",
+      "uses": "Yenmez: zehirli olduğu bilinmez, ancak sert ve derimsidir ve yenmez kabul edilir. Çok nadir olduğu için toplanmak yerine fotoğraflanmalıdır. 2021'de Texas'ın resmî eyalet mantarı ilan edildi.",
+      "confusion": "Tüylü, puro biçimli genç evresi ve yıldız biçimli olgun evresi onu karıştırılmaz kılar. Yer yıldızları (Geastrum) da yıldız biçiminde açılır, ancak bunlar ortada yuvarlak bir spor kesesi bulunan ve açık spor üreten yüzeyi olmayan, puf mantarlarının akrabalarıdır. Aynı familyadaki akrabaları, örneğin Wolfina ve Desmazierella, koyu renkli verimli yüzeye sahip kadehler oluşturur ve yıldız biçiminde yarılmaz.",
+      "notes": "İlk kez Texas'ın Austin kentinde toplandı ve Charles Horton Peck tarafından 1893'te Urnula geaster adıyla tanımlandı. Elsie Kupfer Chorioactis cinsini 1902'de önerdi, ancak cins ancak 1968'de Finn-Egil Eckblad tarafından geçerli olarak yayımlandı; 2008'den beri cins, üç akraba cinsle birlikte kendine ait bir familyaya yerleştirilmektedir. Açılan meyve gövdesi sporlarını duyulabilir bir tıslamayla salabilir. Eşeysiz evresi 2009'da Japonya'dan Kumanasamuha geaster adıyla tanımlandı. Japonya'da kırmızı listede hassas (2025) olarak yer alır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Рідкісний сумчастий гриб із роду Chorioactis, який спершу має вигляд темно-коричневої опушеної капсули у формі сигари, а потім розкривається в шкірясту зірку зі світло-помаранчевою внутрішньою поверхнею. Росте на відмерлих коренях і пнях, переважно в'язів у Техасі та дубів в Японії, і відомий лише з півдня США, з Японії та з Тайваню.",
+      "cap": "Шапинки немає. Молоде плодове тіло — замкнена порожниста булавоподібна або веретеноподібна капсула завдовжки 4–14 cm і завширшки 1,2–5 cm, густо вкрита м'якими коричневими волосками. Під час дозрівання воно розкривається від верхівки на 4–7 шкірястих лопатей, які відгинаються назовні й донизу, утворюючи зірку близько 10–20 cm у поперечнику.",
+      "hymenium": "Спороносний шар вистилає внутрішній бік капсули й після розкриття оголюється на верхньому боці лопатей. Він гладенький і голий, спочатку білуватий, потім шафрановий, лососевий або буро-помаранчевий, а наприкінці тьмяно-жовтий або каштаново-коричневий. Зовнішній бік лопатей лишається темно-коричневим або майже чорним і опушеним.",
+      "stipe": "Коротка ніжка завдовжки 1–5 cm і завтовшки 0,75–1,5 cm з'єднує плодове тіло з похованим коренем. Зазвичай вона прихована в ґрунті й, як і зовнішній бік капсули, вкрита коричневими оксамитовими волосками.",
+      "flesh": "М'якуш білуватий, щільний і шкірястий; товщина лопатей до 0,35 cm. Вираженого запаху немає.",
+      "sporePrint": "Не описаний. Під час розкриття плодового тіла спори можуть вириватися білуватою хмаринкою, схожою на дим. Вони дуже великі, близько 54–75 × 10–17 µm, веретеноподібні й трохи сплощені з одного боку, безбарвні, гладенькі або дуже дрібноямчасті, з 3–5 краплями олії; у кожній сумці по вісім спор.",
+      "habitat": "Імовірно, сапротроф на мертвій деревині. У Техасі росте поодинці або групами на трухлявих пнях і відмерлих коренях в'яза Ulmus crassifolia або поруч із ними, часто в місцях, що час від часу затоплюються, причому ніжка відходить на глибині 5–10 cm під поверхнею ґрунту; в Японії росте на повалених стовбурах дубів, як-от Quercus gilva, у природних лісах. У Техасі плодоносить у прохолодний сезон, здебільшого з жовтня до квітня. Відомий лише з центральної та північної частин Техасу, одного округу в Оклахомі, кількох префектур Японії та півночі Тайваню; американські та японські популяції розділені щонайменше 19 мільйонів років.",
+      "uses": "Не вживається в їжу: про отруйність нічого не відомо, але гриб жорсткий і шкірястий і вважається неїстівним. Оскільки він дуже рідкісний, його краще фотографувати, ніж збирати. У 2021 році його оголошено офіційним грибом штату Техас.",
+      "confusion": "Опушена сигароподібна молода стадія та зірчаста зріла стадія роблять його ні з чим не сплутним. Земляні зірочки (Geastrum) теж розкриваються зіркою, але це родичі дощовиків із круглим спороносним мішечком у центрі й без відкритої спороносної поверхні. Його родичі з тієї самої родини, як-от Wolfina і Desmazierella, утворюють чаші з темною спороносною поверхнею і не розкриваються зіркою.",
+      "notes": "Уперше зібраний в Остіні (Техас) і описаний Чарлзом Гортоном Пеком у 1893 році як Urnula geaster. Елсі Купфер запропонувала рід Chorioactis у 1902 році, але дійсно оприлюднив його лише Фінн-Егіль Екблад у 1968 році; з 2008 року рід відносять до власної родини разом із трьома спорідненими родами. Плодове тіло, що розкривається, може випускати спори з чутним шипінням. Його безстатеву стадію описано з Японії у 2009 році як Kumanasamuha geaster. В Японії внесений до Червоного списку як вразливий (2025).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "Chorioactis 屬的一種稀有盤菌，起初為暗褐色、被毛、雪茄形的囊狀子實體，之後裂開成內面淡橙色的革質星形。生長在枯死的根部和樹樁上，在德州主要是榆樹，在日本主要是櫟類，僅知分布於美國南部、日本和臺灣。",
+      "cap": "沒有菌蓋。幼嫩子實體為閉合、中空、棒狀至紡錘形的囊，長 4–14 cm、寬 1.2–5 cm，密被柔軟的褐色毛。成熟時從頂端裂成 4–7 片革質裂片，裂片向外並向下反捲，形成直徑約 10–20 cm 的星形。",
+      "hymenium": "產孢層襯於囊的內面，開裂後露出於裂片上表面。平滑無毛，起初近白色，之後呈番紅花色、鮭魚色或褐橙色，最後為暗黃色至栗褐色。裂片外面始終為暗褐色至近黑色並被毛。",
+      "stipe": "一根長 1–5 cm、粗 0.75–1.5 cm 的短柄把子實體連接到埋在地下的根上。柄通常藏在土中，和囊的外面一樣被褐色絨毛。",
+      "flesh": "菌肉近白色，堅實而呈革質；裂片厚可達 0.35 cm。沒有明顯氣味。",
+      "sporePrint": "未有記錄。子實體開裂時，孢子可能像一團白色煙霧般噴出。孢子非常大，約 54–75 × 10–17 µm，紡錘形，一側略扁，無色，平滑或具極細小凹點，含 3–5 個油滴；每個子囊含八個孢子。",
+      "habitat": "可能是分解枯木的腐生菌。在德州單生或群生於榆樹 Ulmus crassifolia 腐朽的樹樁和枯根上或其旁，常見於不時淹水的地方，柄從地表以下 5–10 cm 處長出；在日本生長於天然林中 Quercus gilva 等櫟類的倒木上。在德州於涼爽季節出菇，多在十月至四月。僅知分布於德州中部和北部、奧克拉荷馬州的一個郡、日本的幾個縣以及臺灣北部；美國和日本的族群已分隔至少 1900 萬年。",
+      "uses": "不供食用：未知有毒，但質地堅韌如皮革，被視為不可食用。由於非常稀有，應拍照而不要採摘。2021 年被定為德州的官方州蘑菇。",
+      "confusion": "被毛的雪茄形幼期和星形的成熟期使它不會被認錯。地星類（Geastrum）也會開裂成星形，但它們是馬勃類的近親，中央有圓形孢子囊，沒有開放的產孢面。同科的近緣屬如 Wolfina 和 Desmazierella 形成具深色產孢面的杯狀子實體，不會裂成星形。",
+      "notes": "最早採集於德州奧斯汀，1893 年由查爾斯·霍頓·佩克以 Urnula geaster 之名描述。艾爾西·庫普弗於 1902 年提出 Chorioactis 屬，但直到 1968 年才由芬恩-埃吉爾·埃克布拉德有效發表；自 2008 年起，此屬與三個近緣屬一同被置於獨立的科中。正在開裂的子實體可能伴隨可聽見的嘶嘶聲釋放孢子。其無性階段於 2009 年從日本以 Kumanasamuha geaster 之名描述。在日本被紅色名錄列為易危（2025）。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7761763/vernacularNames"
+      ],
+      "label": "地星狀裂杯菌"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg1.webp",
+      "author": "Sue Ann Kendall",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/197844379"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg2.webp",
+      "author": "Morgan Hay",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/17364420"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg3.webp",
+      "author": "Evelyn Lazzaretti 🏳️‍⚧️",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/195944953"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg4.webp",
+      "author": "River Ahlquist",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/102488239"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg5.webp",
+      "author": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/18966217"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg1.webp",
+      "author": "Sue Ann Kendall",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/197844379",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348559890/original.jpg",
+      "attribution": "© Sue Ann Kendall, CC BY 4.0, via iNaturalist observation 197844379 / GBIF occurrence 4516914411",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg2.webp",
+      "author": "Morgan Hay",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/17364420",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/26370928/original.jpeg",
+      "attribution": "© Morgan Hay, CC BY 4.0, via iNaturalist observation 17364420 / GBIF occurrence 3858181358",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg3.webp",
+      "author": "Evelyn Lazzaretti 🏳️‍⚧️",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/195944953",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/344850702/original.jpg",
+      "attribution": "© Evelyn Lazzaretti 🏳️‍⚧️, CC0 1.0, via iNaturalist observation 195944953 / GBIF occurrence 4516258353",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg4.webp",
+      "author": "River Ahlquist",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/102488239",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/171334462/original.jpg",
+      "attribution": "© River Ahlquist, CC BY 4.0, via iNaturalist observation 102488239 / GBIF occurrence 4936332961",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/cg5.webp",
+      "author": "Michelle W. （鍾偉瑋）",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/18966217",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/29077100/original.jpeg",
+      "attribution": "© Michelle W. （鍾偉瑋）, CC BY 4.0, via iNaturalist observation 18966217 / GBIF occurrence 3070289553",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Urnula geaster",
+    "Kumanasamuha geaster"
+  ],
+  "fruitingFrom": 10,
+  "fruitingTo": 4,
+  "reserved": false,
+  "id": 152,
+  "added": "2026-11-09",
+  "citation": "Nytt Mag. Bot. 15(1-2): 127 (1968)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 2569.5,
+        "box": [
+          492,
+          430,
+          81,
+          66
+        ]
+      }
+    ],
+    "paperResidualP995": 1.5146542048947254,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Chorioactis geaster.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      1024,
+      1024
+    ],
+    "sourceSHA256": "9a1317468c61ebd2b47d6d342ad388a669cfd26b239229730082f50572a5493d",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      87,
+      40,
+      975,
+      1000
+    ],
+    "uniformScale": 1.5765765765765767,
+    "placement": [
+      100,
+      443
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1514
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 728111,
+    "opaquePixels": 299309,
+    "partialAlphaPixels": 21156,
+    "signatureBox": [
+      880,
+      945,
+      982,
+      1006
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 455,
+    "preservedObjects": [
+      "left: closed, cigar-shaped, densely hairy dark-brown young fruit body on a short dark stalk",
+      "top centre: fruit body splitting at the apex into pointed rays, showing the pale inner (hymenial) surface",
+      "right: fully opened star with about seven recurved orange-tan rays and a dark hairy base/stalk",
+      "lower centre: longitudinal section of a closed fruit body (dark hairy wall, pale yellowish interior)",
+      "four small drawn ascospores (two pairs, fusiform)",
+      "one drawn ascus with eight spores and a short stroke below it",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 1232.5,
+        "box": [
+          584,
+          849,
+          32,
+          79
+        ]
+      },
+      {
+        "area": 1108.5,
+        "box": [
+          551,
+          835,
+          25,
+          77
+        ]
+      },
+      {
+        "area": 1033.0,
+        "box": [
+          183,
+          833,
+          25,
+          70
+        ]
+      },
+      {
+        "area": 1043.0,
+        "box": [
+          214,
+          818,
+          26,
+          67
+        ]
+      },
+      {
+        "area": 3768.5,
+        "box": [
+          675,
+          792,
+          37,
+          157
+        ]
+      },
+      {
+        "area": 54638.5,
+        "box": [
+          288,
+          548,
+          200,
+          420
+        ]
+      },
+      {
+        "area": 128719.5,
+        "box": [
+          464,
+          232,
+          488,
+          516
+        ]
+      },
+      {
+        "area": 66805.5,
+        "box": [
+          88,
+          211,
+          209,
+          493
+        ]
+      },
+      {
+        "area": 49081.5,
+        "box": [
+          368,
+          41,
+          240,
+          326
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected (art_fullsize_inspection.png, original_vs_composition.jpg): all four fruit-body figures, the four spores and the ascus kept whole; paper removed by robust paper-only fit; a faint paper mottle at the right edge excluded; existing Gemini mark kept once; one standard background frame only; no double frame, no added mark.",
+    "alphaPNGSHA256": "732e72cd0f79714f9c5ebda907e255af7f64bd66bea0e8088606ef3f3341c60f",
+    "maskSHA256": "2f3f45960c73e42e8d37028c675ebc7b9635827fe74f7b12045a3ab0b48007da",
+    "recipeSHA256": "9d269b4f5938f8c2f7aa3307ca236127688b9f934d5dea7ecc606107e4b77e70",
+    "officialFiles": [
+      {
+        "path": "media/Chorioactis_geaster@1600.webp",
+        "bytes": 231936,
+        "sha256": "fe3dbd332006e897fc3991e424b6d2095739fc2ec24706941acc11664067c004"
+      },
+      {
+        "path": "media/Chorioactis_geaster@400.webp",
+        "bytes": 25854,
+        "sha256": "b78fec66292d6469d0d3abcfb090ce3529bceb393e4895bc92f30c7721122cc7"
+      }
+    ]
+  }
+},
+{
+  "name": "Aspropaxillus giganteus",
+  "author": "(Sowerby) Kühner & Maire",
+  "family": "Tricholomataceae",
+  "genus": "Aspropaxillus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Tricholomataceae",
+    "Aspropaxillus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Tricholomataceae",
+    "Aspropaxillus"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 15.0,
+  "capTo": 35.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 6.0,
+  "stipeThickFrom": 2.0,
+  "stipeThickTo": 3.0,
+  "label": {
+    "ar": "Aspropaxillus giganteus",
+    "bg": "Aspropaxillus giganteus",
+    "cs": "běločechratka obrovská",
+    "da": "kæmpe-tragtridderhat",
+    "de": "Riesen-Krempentrichterling",
+    "en": "giant funnel",
+    "es": "Aspropaxillus giganteus",
+    "et": "hiid-lehtervahelik",
+    "fa": "Aspropaxillus giganteus",
+    "fi": "jättimalikka",
+    "fr": "leucopaxille géant",
+    "he": "Aspropaxillus giganteus",
+    "hi": "Aspropaxillus giganteus",
+    "hr": "golema podvijenka",
+    "hu": "hatalmas tölcsérgomba",
+    "id": "Aspropaxillus giganteus",
+    "it": "agarico gigante",
+    "ja": "オオイチョウタケ",
+    "ko": "흰우단버섯",
+    "lt": "didžioji meškabudė",
+    "lv": "milzu baltmietene",
+    "nl": "reuzendikhoed",
+    "no": "kjempetraktmusserong",
+    "pl": "gładkokrowiak okazały",
+    "pt": "Aspropaxillus giganteus",
+    "ro": "Aspropaxillus giganteus",
+    "ru": "говорушка гигантская",
+    "sk": "čechratec obrovský",
+    "sl": "orjaški velepodvihanec",
+    "sr": "Aspropaxillus giganteus",
+    "sv": "jättetrattskivling",
+    "tr": "Aspropaxillus giganteus",
+    "uk": "клітоцибе величезний",
+    "zh": "大白樁菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Riesen-Trichterling"
+    ],
+    "en": [
+      "giant funnel-cap",
+      "giant leucopax",
+      "giant clitocybe"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "leucopaxille gigantesque"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "óriás álpereszke",
+      "óriás cölöppereszke"
+    ],
+    "id": [],
+    "it": [
+      "cardinale gigante"
+    ],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "kjempetrektmusserong"
+    ],
+    "pl": [
+      "białokrowiak okazały"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "свинуха гигантская"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "грузлик величезний"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://www.wikidata.org/wiki/Q2454893",
+      "https://www.nahuby.sk/atlas-hub/Leucopaxillus-giganteus/cechratec-obrovsky/belocechratka-obrovska/ID23"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://de.wikipedia.org/wiki/Riesen-Krempentrichterling"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=265972",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=265972",
+      "https://www.gbif.org/species/2532720",
+      "https://en.wikipedia.org/wiki/Aspropaxillus_giganteus",
+      "https://www.first-nature.com/fungi/leucopaxillus-giganteus.php",
+      "https://www.latvijasdaba.lv/senes/leucopaxillus-giganteus-sibthorp-fr-singer/",
+      "https://de.wikipedia.org/wiki/Riesen-Krempentrichterling",
+      "https://api.gbif.org/v1/species/2532719/vernacularNames",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://et.wikipedia.org/wiki/Hiid-lehtervahelik"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://fi.wikipedia.org/wiki/J%C3%A4ttimalikka"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/2532719/vernacularNames",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://fr.wikipedia.org/wiki/Leucopaxille_gigantesque"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://www.cromushrooms.eu/pregled-vrsta?id=3190&option=com_content&view=article"
+    ],
+    "hu": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://hu.wikipedia.org/wiki/Hatalmas_t%C3%B6lcs%C3%A9rgomba"
+    ],
+    "id": [],
+    "it": [
+      "https://it.wikipedia.org/wiki/Leucopaxillus_giganteus"
+    ],
+    "ja": [
+      "https://api.gbif.org/v1/species/2532719/vernacularNames",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BF%E3%82%B1"
+    ],
+    "ko": [
+      "https://www.jadam.kr/news/articleView.html?idxno=11629"
+    ],
+    "lt": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://lt.wikipedia.org/wiki/Did%C5%BEioji_me%C5%A1kabud%C4%97"
+    ],
+    "lv": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://www.latvijasdaba.lv/senes/leucopaxillus-giganteus-sibthorp-fr-singer/",
+      "https://en.wikipedia.org/wiki/Fungus_of_the_Year_in_Latvia"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/2532719/vernacularNames",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/G%C5%82adkokrowiak_okaza%C5%82y",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%88%D0%BA%D0%B0_%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Leucopaxillus-giganteus/cechratec-obrovsky/belocechratka-obrovska/ID23",
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "sl": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames"
+    ],
+    "sr": [],
+    "sv": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://sv.wikipedia.org/wiki/J%C3%A4ttetrattskivling"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D1%96%D1%82%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D0%B7%D0%BD%D0%B8%D0%B9"
+    ],
+    "zh": [
+      "https://api.gbif.org/v1/species/2532720/vernacularNames",
+      "https://www.wikidata.org/wiki/Q2454893"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كبير جدًا أبيض إلى كريمي اللون قمعي الشكل من جنس Aspropaxillus، ولا يزال يُعرف على نطاق واسع باسم Leucopaxillus giganteus. تبلغ القبعة عادةً ١٥–٣٥ cm عرضًا، وتنحدر خياشيمها المتزاحمة على ساق قصيرة وغليظة. ينمو في مجموعات أو أقواس أو حلقات جنيات في المروج والحدائق العامة وبجوار السياجات النباتية وفي فسحات الغابات في المنطقة المعتدلة من نصف الكرة الشمالي.",
+      "cap": "تكون في صغرها بيضاء عاجية محدبة ومخملية ناعمة مع حافة ملتفة إلى الداخل، ثم تنبسط سريعًا وتصبح قمعًا ضحلًا إلى عميق. ومع التقدم في العمر يتحول لونها من المركز إلى البني الفاتح، وقد تظهر عليها شقوق دائرية أو حراشف صغيرة أو بقع بنية؛ وتصبح الحافة متموجة وكثيرًا ما تتشقق. يبلغ عرض معظم القبعات الناضجة ١٥–٣٥ cm، لكن سُجلت قبعات من ٨ cm حتى نحو ٥٠ cm.",
+      "hymenium": "الخياشيم ضيقة ومتزاحمة ونازلة على الساق، وبعضها متشعب. تكون في البداية بيضاء عاجية ثم تغمق مع العمر إلى الكريمي أو البني الفاتح.",
+      "stipe": "الساق قصيرة وغليظة بالنسبة لحجم القبعة، طولها عادةً ٤–٦ cm وسمكها ٢–٣ cm. لونها أبيض كريمي ثم بني فاتح، وعليها ألياف دقيقة بنية محمرة خاصة قرب القمة. القاعدة ليست منتفخة بشكل واضح وغالبًا ما تحمل غزلًا فطريًا أبيض كثيفًا. لا توجد حلقة.",
+      "flesh": "اللحم أبيض ومتماسك، قاسٍ في الساق لكنه هش إلى حد ما في القبعات المنبسطة تمامًا. الرائحة خفيفة ومستحبة، وكثيرًا ما توصف بأنها دقيقية؛ والطعم معتدل.",
+      "sporePrint": "أبيض. الأبواغ إهليلجية ملساء عديمة اللون، ٦–٩ × ٣٫٥–٥٫٥ µm، ضعيفة الأميلويدية، وتتلون بشكل غير منتظم بالأزرق المسود في كاشف ملتسر.",
+      "habitat": "رمّي يحلل المادة العضوية في التربة. ينمو في جماعات أو أقواس أو حلقات جنيات كاملة في المراعي الدائمة والحدائق العامة وحواف الطرق العشبية، وبجوار السياجات النباتية وفي فسحات الغابات وأطرافها. يثمر من أواخر الصيف إلى الخريف، وفي بريطانيا غالبًا من أغسطس حتى أوائل نوفمبر. واسع الانتشار لكنه غير شائع في المناطق المعتدلة من أوروبا وآسيا وأمريكا الشمالية.",
+      "uses": "كثيرًا ما يوصف بأنه صالح للأكل وهو صغير، لكن نكهته متواضعة ويعاني بعض الناس بعد أكله من آلام في المعدة وإسهال وتعرّق، ولذلك يُصنف هنا صالحًا للأكل بحذر. جرّب كمية صغيرة فقط في البداية. وهو نوع محمي في كرواتيا.",
+      "confusion": "يتميز بحجمه الكبير وشكله القمعي الأبيض وخياشيمه النازلة. Infundibulicybe geotropa أصغر عادةً وساقها أطول بكثير، وInfundibulicybe gibba أصغر بكثير؛ ولا تتلون أبواغ أي منهما باليود. أما Clitocybe nebularis فقبعتها رمادية وتنمو أساسًا في فرشة أوراق الغابة. قد تشبهه الفطور اللبنية البيضاء (Lactifluus وLactarius) وفطور الروسولا (Russula)، لكن لحمها هش وينكسر بشكل نظيف. وPaxillus involutus مشابه في الشكل لكن قبعته بنية.",
+      "notes": "وصفه جيمس سويربي عام ١٨٠٠ باسم Agaricus giganteus استنادًا إلى لوحة في كتابه «صور ملونة للفطريات الإنجليزية»، وتنسبه بعض المصادر إلى جون سيبثورب عام ١٧٩٤. وجعله روبير كونر ورينيه مير عام ١٩٣٤ النوع النمطي لجنس Aspropaxillus. ونقله رولف سينغر إلى Leucopaxillus عام ١٩٣٩، لكن بعد أن أظهرت دراسات جزيئية عام ٢٠١٢ أن Leucopaxillus ليس مجموعة طبيعية، أُعيد إلى Aspropaxillus. يحتوي على الكليتوسين، وهو مركب ذو نشاط مضاد للبكتيريا دُرس في المختبر أيضًا ضد الخلايا السرطانية.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Много голяма бяла до кремава гъба с фуниевидна форма от рода Aspropaxillus, която и днес често се посочва като Leucopaxillus giganteus. Шапката обикновено е 15–35 cm в диаметър, а гъстите пластинки се спускат по късо, дебело пънче. Расте на групи, дъги или вещерски кръгове по ливади, в паркове, край жив плет и по горски поляни в умерения пояс на Северното полукълбо.",
+      "cap": "Като млада е слоновокостено бяла, изпъкнала и фино кадифена, с подвит ръб; скоро се изправя и става плитка до дълбока фуния. С възрастта от центъра пожълтява до светлокафяво и може да се напука в кръгове, да образува дребни люспици или кафяви петна; ръбът става вълнист и често се цепи. Повечето зрели шапки са 15–35 cm, но са съобщавани шапки от 8 cm до около 50 cm.",
+      "hymenium": "Пластинките са тесни, гъсти и низходящи по пънчето, някои са раздвоени. Отначало са слоновокостено бели, с възрастта потъмняват до кремави или светлокафяви.",
+      "stipe": "Пънчето е късо и дебело спрямо размера на шапката, обикновено високо 4–6 cm и дебело 2–3 cm. То е кремавобяло, по-късно светлокафяво, с фини червеникавокафяви влакна особено към върха. Основата не е ясно грудковидна и често е покрита с гъст бял мицел. Пръстен няма.",
+      "flesh": "Месото е бяло и плътно, в пънчето жилаво, но в напълно разтворените шапки доста крехко. Мирисът е слаб и приятен, често описван като брашнен; вкусът е мек.",
+      "sporePrint": "Бял. Спорите са елипсоидни, гладки и безцветни, 6–9 × 3,5–5,5 µm, слабо амилоидни, в реактива на Мелцер се оцветяват неравномерно в синьо-черно.",
+      "habitat": "Сапротроф, който разгражда органичната материя в почвата. Расте на ята, дъги или затворени вещерски кръгове в постоянни пасища, паркове и тревисти крайпътни ивици, край жив плет и по горски поляни и окрайнини. Плодните тела се появяват от края на лятото до есента, във Великобритания главно от август до началото на ноември. Разпространен е, но не е чест в умерените райони на Европа, Азия и Северна Америка.",
+      "uses": "Често се описва като ядлив, докато е млад, но вкусът му е посредствен и някои хора получават болки в стомаха, диария и изпотяване след консумация, затова тук е класифициран като ядлив с повишено внимание. Опитайте първо само малко количество. В Хърватия е защитен вид.",
+      "confusion": "Характерни са големият размер, бялата фуниевидна форма и низходящите пластинки. Infundibulicybe geotropa обикновено е по-малка и има много по-високо пънче, а Infundibulicybe gibba е много по-малка; спорите и на двете не се оцветяват с йод. Clitocybe nebularis има сивкава шапка и расте главно в горската постеля. Белите млечници (Lactifluus, Lactarius) и гълъбките (Russula) може да изглеждат подобно, но месото им е крехко и се чупи гладко. Paxillus involutus е с подобна форма, но с кафява шапка.",
+      "notes": "Описан е през 1800 г. от Джеймс Соуърби като Agaricus giganteus по табло от труда му „Цветни изображения на английски гъби“; някои източници приписват авторството на Джон Сибторп през 1794 г. Робер Кюнер и Рене Мер през 1934 г. го определят за типов вид на рода Aspropaxillus. Ролф Сингер го премества в Leucopaxillus през 1939 г., но след като молекулярни изследвания през 2012 г. показват, че Leucopaxillus не е естествена група, той е върнат в Aspropaxillus. Съдържа клитоцин, съединение с антибактериално действие, изследвано в лаборатория и срещу ракови клетки.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Velmi velká bílá až krémová houba nálevkovitého tvaru z rodu Aspropaxillus, dodnes často uváděná jako Leucopaxillus giganteus. Klobouk měří obvykle 15–35 cm a husté lupeny sbíhají na krátký, tlustý třeň. Roste ve skupinách, obloucích nebo čarodějných kruzích na loukách, v parcích, u živých plotů a na lesních mýtinách v mírném pásmu severní polokoule.",
+      "cap": "Zamlada slonovinově bílý, klenutý a jemně sametový s podvinutým okrajem, brzy se oplošťuje a mění v mělkou až hlubokou nálevku. Stářím od středu okrovatí a mohou se objevit kruhovité trhliny, drobné šupinky nebo hnědé skvrny; okraj se zvlní a často trhá. Většina dospělých klobouků měří 15–35 cm, uvádějí se však klobouky od 8 cm až asi do 50 cm.",
+      "hymenium": "Lupeny jsou úzké, husté a sbíhavé na třeň, některé jsou vidličnaté. Zprvu jsou slonovinově bílé, stářím tmavnou do krémova až okrova.",
+      "stipe": "Třeň je na velikost klobouku krátký a tlustý, obvykle 4–6 cm vysoký a 2–3 cm tlustý. Je krémově bílý, později okrový, s jemnými červenohnědými vlákny zejména u vrcholu. Báze není nápadně hlíznatá a často nese husté bílé podhoubí. Prsten chybí.",
+      "flesh": "Dužnina je bílá a pevná, v třeni houževnatá, v plně rozevřených kloboucích dosti křehká. Vůně je slabá a příjemná, často popisovaná jako moučná; chuť je mírná.",
+      "sporePrint": "Bílý. Výtrusy jsou elipsoidní, hladké a bezbarvé, 6–9 × 3,5–5,5 µm, slabě amyloidní, v Melzerově činidle se barví nerovnoměrně modročerně.",
+      "habitat": "Saprotrof, rozkládá organickou hmotu v půdě. Roste v houfech, obloucích nebo úplných čarodějných kruzích na trvalých pastvinách, v parcích, na travnatých okrajích cest, u živých plotů a na lesních mýtinách a okrajích. Plodnice tvoří od konce léta do podzimu, v Británii hlavně od srpna do začátku listopadu. Je rozšířená, ale nehojná v mírném pásmu Evropy, Asie a Severní Ameriky.",
+      "uses": "Často se uvádí jako jedlá zamlada, chuť je však průměrná a někteří lidé mají po jejím požití bolesti břicha, průjem a pocení, proto ji zde vedeme jako jedlou s opatrností. Nejprve vyzkoušejte jen malé množství. V Chorvatsku je chráněným druhem.",
+      "confusion": "Typická je její velikost, bílý nálevkovitý tvar a sbíhavé lupeny. Infundibulicybe geotropa je obvykle menší a má mnohem vyšší třeň, Infundibulicybe gibba je mnohem menší; výtrusy obou se jódem nebarví. Clitocybe nebularis má šedavý klobouk a roste hlavně v lesním opadu. Bílé ryzce (Lactifluus, Lactarius) a holubinky (Russula) mohou vypadat podobně, jejich dužnina je však křehká a čistě se láme. Paxillus involutus má podobný tvar, ale hnědý klobouk.",
+      "notes": "Popsal ji v roce 1800 James Sowerby jako Agaricus giganteus podle tabule ve svém díle Coloured Figures of English Fungi; některé zdroje připisují autorství Johnu Sibthorpovi z roku 1794. Robert Kühner a René Maire z ní v roce 1934 učinili typ rodu Aspropaxillus. Rolf Singer ji v roce 1939 přesunul do rodu Leucopaxillus, ale po molekulární studii z roku 2012, která ukázala, že Leucopaxillus není přirozenou skupinou, se vrátila do rodu Aspropaxillus. Obsahuje klitocin, látku s antibakteriálním účinkem, která byla v laboratoři zkoumána i proti nádorovým buňkám.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://www.wikidata.org/wiki/Q2454893",
+        "https://www.nahuby.sk/atlas-hub/Leucopaxillus-giganteus/cechratec-obrovsky/belocechratka-obrovska/ID23"
+      ],
+      "label": "běločechratka obrovská"
+    },
+    "da": {
+      "description": "En meget stor, hvid til cremefarvet, tragtformet svamp i slægten Aspropaxillus, som stadig ofte omtales som Leucopaxillus giganteus. Hatten er som regel 15–35 cm bred, med tætte lameller, der løber ned ad en kort, kraftig stok. Den vokser i grupper, buer eller heksering på græsarealer, i parker, ved hegn og i skovlysninger i den tempererede del af den nordlige halvkugle.",
+      "cap": "Ung elfenbenshvid, hvælvet og fint fløjlsagtig med indrullet rand, snart udfladet og dernæst en lav til dyb tragt. Med alderen bliver den læderfarvet fra midten og kan få cirkulære revner, små skæl eller brune pletter; randen bliver bølget og flækker ofte. De fleste voksne hatte er 15–35 cm brede, men der er rapporteret hatte fra 8 cm til omkring 50 cm.",
+      "hymenium": "Lamellerne er smalle, tætte og nedløbende, og nogle er gaffeldelte. De er først elfenbenshvide og bliver med alderen creme- til læderfarvede.",
+      "stipe": "Stokken er kort og kraftig i forhold til hatten, som regel 4–6 cm høj og 2–3 cm tyk. Den er cremehvid, senere læderfarvet, med fine rødbrune fibre især foroven. Basis er ikke tydeligt knoldet og bærer ofte tæt hvidt mycelium. Der er ingen ring.",
+      "flesh": "Kødet er hvidt og fast, sejt i stokken, men temmelig skørt i helt udbredte hatte. Lugten er svag og behagelig, ofte beskrevet som melagtig; smagen er mild.",
+      "sporePrint": "Hvidt. Sporerne er ellipsoide, glatte og farveløse, 6–9 × 3,5–5,5 µm, svagt amyloide og farves uensartet blåsorte i Melzers reagens.",
+      "habitat": "Saprotrof, der nedbryder organisk materiale i jorden. Den vokser i flokke, buer eller hele heksering på permanente græsmarker, i parker og på græsklædte vejrabatter, ved hegn og i skovlysninger og skovbryn. Den sætter frugtlegemer fra sensommer til efterår, i Storbritannien især fra august til begyndelsen af november. Den er udbredt, men ikke almindelig i det tempererede Europa, Asien og Nordamerika.",
+      "uses": "Den beskrives ofte som spiselig, når den er ung, men smagen er middelmådig, og nogle mennesker får mavesmerter, diarré og svedeture efter at have spist den; derfor regnes den her som spiselig med forsigtighed. Prøv først kun en lille mængde. I Kroatien er den en fredet art.",
+      "confusion": "Den store størrelse, den hvide tragtform og de nedløbende lameller er karakteristiske. Infundibulicybe geotropa er som regel mindre og har en meget højere stok, og Infundibulicybe gibba er meget mindre; sporerne hos begge farves ikke af jod. Clitocybe nebularis har en grålig hat og vokser mest i skovbundens førne. Hvide mælkehatte (Lactifluus, Lactarius) og skørhatte (Russula) kan ligne, men deres kød er skørt og brækker rent. Paxillus involutus har en lignende form, men en brun hat.",
+      "notes": "Beskrevet i 1800 af James Sowerby som Agaricus giganteus efter en tavle i hans Coloured Figures of English Fungi; nogle kilder krediterer John Sibthorp i 1794. Robert Kühner og René Maire gjorde den i 1934 til typeart for slægten Aspropaxillus. Rolf Singer flyttede den til Leucopaxillus i 1939, men efter at molekylære undersøgelser i 2012 viste, at Leucopaxillus ikke var en naturlig gruppe, kom den tilbage til Aspropaxillus. Den indeholder clitocin, et stof med antibakteriel virkning, som også er undersøgt over for kræftceller i laboratoriet.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "kæmpe-tragtridderhat"
+    },
+    "de": {
+      "description": "Ein sehr großer, weißer bis cremefarbener, trichterförmiger Pilz aus der Gattung Aspropaxillus, der vielfach noch als Leucopaxillus giganteus geführt wird. Der Hut misst meist 15–35 cm, die gedrängten Lamellen laufen an einem kurzen, kräftigen Stiel herab. Er wächst in Gruppen, Bögen oder Hexenringen auf Grasland, in Parks, an Hecken und auf Waldlichtungen in der gemäßigten Nordhalbkugel.",
+      "cap": "Jung elfenbeinweiß, gewölbt und fein samtig mit eingerolltem Rand, bald verflachend und zu einem flachen bis tiefen Trichter werdend. Im Alter von der Mitte her lederfarben, oft mit kreisförmigen Rissen, kleinen Schüppchen oder braunen Flecken; der Rand wird wellig und reißt häufig ein. Die meisten reifen Hüte messen 15–35 cm, berichtet werden aber Hüte von 8 cm bis etwa 50 cm.",
+      "hymenium": "Die Lamellen sind schmal, gedrängt und herablaufend, manche gegabelt. Sie sind zuerst elfenbeinweiß und dunkeln im Alter zu creme- oder lederfarben nach.",
+      "stipe": "Der Stiel ist für die Hutgröße kurz und kräftig, meist 4–6 cm hoch und 2–3 cm dick. Er ist cremeweiß, später lederfarben, mit feinen rotbraunen Fasern vor allem zur Spitze hin. Die Basis ist nicht auffällig knollig und trägt oft dichtes weißes Myzel. Ein Ring fehlt.",
+      "flesh": "Das Fleisch ist weiß und fest, im Stiel zäh, in voll aufgeschirmten Hüten aber ziemlich brüchig. Der Geruch ist schwach und angenehm, oft als mehlartig beschrieben; der Geschmack ist mild.",
+      "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt und farblos, 6–9 × 3,5–5,5 µm, schwach amyloid und färben sich in Melzers Reagenz ungleichmäßig blauschwarz.",
+      "habitat": "Saprotroph, zersetzt organisches Material im Boden. Er wächst gesellig, in Bögen oder geschlossenen Hexenringen auf Dauerweiden, in Parks, an grasigen Wegrändern, an Hecken sowie auf Waldlichtungen und an Waldrändern. Er fruchtet vom Spätsommer bis in den Herbst, in Großbritannien hauptsächlich von August bis Anfang November. Er ist weit verbreitet, aber nicht häufig im gemäßigten Europa, Asien und Nordamerika.",
+      "uses": "Oft als jung essbar bezeichnet, doch der Geschmack ist mittelmäßig, und manche Menschen bekommen nach dem Verzehr Bauchschmerzen, Durchfall und Schweißausbrüche; deshalb wird er hier als mit Vorsicht essbar geführt. Zunächst nur eine kleine Menge probieren. In Kroatien ist er geschützt.",
+      "confusion": "Kennzeichnend sind seine Größe, die weiße Trichterform und die herablaufenden Lamellen. Infundibulicybe geotropa ist meist kleiner und hat einen viel höheren Stiel, Infundibulicybe gibba ist viel kleiner; die Sporen beider färben sich mit Jod nicht. Clitocybe nebularis hat einen grauen Hut und wächst vor allem in der Waldstreu. Weiße Milchlinge (Lactifluus, Lactarius) und Täublinge (Russula) können ähnlich aussehen, haben aber brüchiges Fleisch, das glatt bricht. Paxillus involutus hat eine ähnliche Form, aber einen braunen Hut.",
+      "notes": "Im Jahr 1800 von James Sowerby als Agaricus giganteus nach einer Tafel in seinem Werk Coloured Figures of English Fungi beschrieben; manche Quellen nennen John Sibthorp im Jahr 1794 als Autor. Robert Kühner und René Maire machten ihn 1934 zur Typusart der Gattung Aspropaxillus. Rolf Singer stellte ihn 1939 zu Leucopaxillus, doch nachdem molekulare Untersuchungen 2012 gezeigt hatten, dass Leucopaxillus keine natürliche Gruppe ist, kam er zu Aspropaxillus zurück. Er enthält Clitocin, eine antibakteriell wirksame Substanz, die im Labor auch an Krebszellen untersucht wurde.",
+      "names": [
+        "Riesen-Trichterling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://de.wikipedia.org/wiki/Riesen-Krempentrichterling"
+      ],
+      "label": "Riesen-Krempentrichterling"
+    },
+    "en": {
+      "description": "A very large white to cream funnel-shaped mushroom of the genus Aspropaxillus, still widely known as Leucopaxillus giganteus. The cap is usually 15–35 cm across, with crowded gills running down a short, stout stem. It grows in groups, arcs or fairy rings in grassland, parks, hedgerows and woodland clearings across the temperate Northern Hemisphere.",
+      "cap": "Ivory white, convex and finely velvety with an inrolled margin when young, soon flattening and becoming a shallow to deep funnel. With age it turns buff from the centre and may develop circular cracks, small scales or brown stains; the margin becomes wavy and often splits. Most mature caps are 15–35 cm across, but caps from 8 cm to about 50 cm have been reported.",
+      "hymenium": "The gills are narrow, crowded and decurrent, running down the stem, and some are forked. They are ivory white at first and darken to cream or buff with age.",
+      "stipe": "The stem is short and stout for the size of the cap, usually 4–6 cm tall and 2–3 cm thick. It is creamy white, turning buff, with fine reddish-brown fibres especially near the top. The base is not noticeably bulbous and often carries dense white mycelium. There is no ring.",
+      "flesh": "The flesh is white and firm, tough in the stem but rather fragile in fully expanded caps. The smell is faint and pleasant, often described as mealy; the taste is mild.",
+      "sporePrint": "White. The spores are ellipsoid, smooth and colourless, 6–9 × 3.5–5.5 µm, and weakly amyloid, staining unevenly blue-black in Melzer's reagent.",
+      "habitat": "Saprotrophic, breaking down organic matter in the soil. It grows in troops, arcs or complete fairy rings in permanent pasture, parkland and grassy roadside verges, beside hedges and in woodland clearings and edges. It fruits from late summer to autumn, in Britain mainly from August to early November. It is widespread but uncommon in temperate Europe, Asia and North America.",
+      "uses": "Often described as edible when young, but its flavour is mediocre and some people suffer stomach pains, diarrhoea and sweating after eating it, so it is treated here as edible with caution. Try only a small amount at first. It is a protected species in Croatia.",
+      "confusion": "Its great size, white funnel shape and decurrent gills are distinctive. Infundibulicybe geotropa is usually smaller with a much taller stem, and Infundibulicybe gibba is much smaller; the spores of both do not stain in iodine. Clitocybe nebularis has a greyish cap and grows mainly in woodland litter. White milk-caps (Lactifluus, Lactarius) and brittlegills (Russula) can look similar, but their flesh is brittle and breaks cleanly. Paxillus involutus has a similar shape but a brown cap.",
+      "notes": "Described in 1800 by James Sowerby as Agaricus giganteus from a plate in his Coloured Figures of English Fungi; some sources credit John Sibthorp in 1794. Robert Kühner and René Maire made it the type of the genus Aspropaxillus in 1934. Rolf Singer moved it to Leucopaxillus in 1939, but after molecular work in 2012 showed that Leucopaxillus was not a natural group, it was returned to Aspropaxillus. It contains clitocine, a compound with antibacterial activity that has also been studied against cancer cells in the laboratory.",
+      "names": [
+        "giant funnel-cap",
+        "giant leucopax",
+        "giant clitocybe"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=265972",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=265972",
+        "https://www.gbif.org/species/2532720",
+        "https://en.wikipedia.org/wiki/Aspropaxillus_giganteus",
+        "https://www.first-nature.com/fungi/leucopaxillus-giganteus.php",
+        "https://www.latvijasdaba.lv/senes/leucopaxillus-giganteus-sibthorp-fr-singer/",
+        "https://de.wikipedia.org/wiki/Riesen-Krempentrichterling",
+        "https://api.gbif.org/v1/species/2532719/vernacularNames",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "giant funnel"
+    },
+    "es": {
+      "description": "Una seta muy grande, de color blanco a crema y forma de embudo, del género Aspropaxillus, todavía conocida a menudo como Leucopaxillus giganteus. El sombrero mide normalmente 15–35 cm y tiene láminas apretadas que bajan por un pie corto y robusto. Crece en grupos, arcos o corros de brujas en prados, parques, setos y claros de bosque de las zonas templadas del hemisferio norte.",
+      "cap": "De joven es blanco marfil, convexo y finamente aterciopelado, con el margen enrollado; pronto se aplana y forma un embudo poco o muy profundo. Con la edad se vuelve ocre claro desde el centro y puede presentar grietas circulares, pequeñas escamas o manchas pardas; el margen se ondula y a menudo se agrieta. La mayoría de los sombreros maduros mide 15–35 cm, pero se han citado sombreros de 8 cm hasta unos 50 cm.",
+      "hymenium": "Las láminas son estrechas, apretadas y decurrentes, bajan por el pie, y algunas están bifurcadas. Al principio son blanco marfil y con la edad se oscurecen a crema u ocre claro.",
+      "stipe": "El pie es corto y robusto para el tamaño del sombrero, por lo general de 4–6 cm de alto y 2–3 cm de grosor. Es blanco crema, después ocre claro, con finas fibrillas pardo rojizas sobre todo hacia el ápice. La base no es claramente bulbosa y suele llevar un micelio blanco denso. No tiene anillo.",
+      "flesh": "La carne es blanca y firme, correosa en el pie pero bastante frágil en los sombreros totalmente abiertos. El olor es débil y agradable, a menudo descrito como harinoso; el sabor es suave.",
+      "sporePrint": "Blanca. Las esporas son elipsoidales, lisas e incoloras, de 6–9 × 3,5–5,5 µm, débilmente amiloides, y se tiñen de forma irregular de negro azulado en el reactivo de Melzer.",
+      "habitat": "Saprótrofo: descompone materia orgánica del suelo. Crece en grupos numerosos, arcos o corros de brujas completos en pastos permanentes, parques y cunetas herbosas, junto a setos y en claros y bordes de bosque. Fructifica desde finales del verano hasta el otoño, en Gran Bretaña sobre todo de agosto a principios de noviembre. Está ampliamente distribuido pero es poco común en las regiones templadas de Europa, Asia y Norteamérica.",
+      "uses": "Se describe a menudo como comestible de joven, pero su sabor es mediocre y algunas personas sufren dolor de estómago, diarrea y sudoración tras comerlo, por lo que aquí se clasifica como comestible con precaución. Pruebe primero solo una pequeña cantidad. En Croacia es una especie protegida.",
+      "confusion": "Su gran tamaño, la forma de embudo blanco y las láminas decurrentes son característicos. Infundibulicybe geotropa suele ser más pequeña y tiene un pie mucho más alto, e Infundibulicybe gibba es mucho más pequeña; las esporas de ambas no se tiñen con yodo. Clitocybe nebularis tiene el sombrero grisáceo y crece sobre todo en la hojarasca del bosque. Los lactarios blancos (Lactifluus, Lactarius) y las rúsulas (Russula) pueden parecerse, pero su carne es quebradiza y se rompe limpiamente. Paxillus involutus tiene una forma parecida pero el sombrero pardo.",
+      "notes": "Descrita en 1800 por James Sowerby como Agaricus giganteus a partir de una lámina de su obra Coloured Figures of English Fungi; algunas fuentes atribuyen la autoría a John Sibthorp en 1794. Robert Kühner y René Maire la convirtieron en 1934 en la especie tipo del género Aspropaxillus. Rolf Singer la trasladó a Leucopaxillus en 1939, pero después de que estudios moleculares de 2012 mostraran que Leucopaxillus no era un grupo natural, volvió a Aspropaxillus. Contiene clitocina, un compuesto con actividad antibacteriana que también se ha estudiado en laboratorio frente a células cancerosas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väga suur valge kuni kreemjas lehtrikujuline seen perekonnast Aspropaxillus, mida nimetatakse endiselt sageli Leucopaxillus giganteus. Kübar on tavaliselt 15–35 cm lai ning tihedad eoslehed laskuvad lühikesele jämedale jalale. Kasvab rühmiti, kaarjalt või nõiaringidena rohumaadel, parkides, hekkide ääres ja metsalagendikel põhjapoolkera parasvöötmes.",
+      "cap": "Noorelt elevandiluuvalge, kumer ja peenelt sametjas, serv sissekeeratud; peagi lameneb ja muutub madalaks kuni sügavaks lehtriks. Vanemaks saades muutub keskelt alates nahkpruuniks ning sellele võivad tekkida ringjad praod, väikesed soomused või pruunid laigud; serv muutub lainjaks ja lõheneb sageli. Enamik täiskasvanud kübaraid on 15–35 cm laiad, kuid teatatud on kübaratest 8 cm kuni umbes 50 cm.",
+      "hymenium": "Eoslehed on kitsad, tihedad ja jalale laskuvad, osa neist on kahestunud. Algul on need elevandiluuvalged ning tumenevad vanusega kreemjaks või nahkpruuniks.",
+      "stipe": "Jalg on kübara suurust arvestades lühike ja jäme, tavaliselt 4–6 cm kõrge ja 2–3 cm jäme. See on kreemjasvalge, hiljem nahkpruun, peente punakaspruunide kiududega eriti ülaosas. Jalaalus ei ole märgatavalt mugulja ja kannab sageli tihedat valget seeneniidistikku. Rõngas puudub.",
+      "flesh": "Viljaliha on valge ja tihke, jalas sitke, kuid täielikult avanenud kübarates üsna habras. Lõhn on nõrk ja meeldiv, sageli kirjeldatud jahusena; maitse on mahe.",
+      "sporePrint": "Valge. Eosed on ellipsoidsed, siledad ja värvitud, 6–9 × 3,5–5,5 µm, nõrgalt amüloidsed ning värvuvad Melzeri reagendis ebaühtlaselt sinakasmustaks.",
+      "habitat": "Saprotroof, mis lagundab mullas orgaanilist ainet. Kasvab salkadena, kaarjalt või täielike nõiaringidena püsikarjamaadel, parkides ja rohustunud teeservadel, hekkide ääres ning metsalagendikel ja metsaservadel. Viljub hilissuvest sügiseni, Suurbritannias peamiselt augustist novembri alguseni. Levinud, kuid mitte sage Euroopa, Aasia ja Põhja-Ameerika parasvöötmes.",
+      "uses": "Sageli kirjeldatakse noorelt söödavana, kuid maitse on keskpärane ja mõnel inimesel on pärast söömist tekkinud kõhuvalu, kõhulahtisus ja higistamine, mistõttu on see siin liigitatud ettevaatusega söödavaks. Proovi esialgu vaid väikest kogust. Horvaatias on see kaitsealune liik.",
+      "confusion": "Iseloomulikud on suur kasv, valge lehtrikuju ja laskuvad eoslehed. Infundibulicybe geotropa on tavaliselt väiksem ja palju kõrgema jalaga ning Infundibulicybe gibba on palju väiksem; mõlema eosed joodiga ei värvu. Clitocybe nebularis on hallika kübaraga ja kasvab peamiselt metsakõdus. Valged piimikud (Lactifluus, Lactarius) ja pilvikud (Russula) võivad sarnaneda, kuid nende viljaliha on rabe ja murdub siledalt. Paxillus involutus on sarnase kujuga, kuid pruuni kübaraga.",
+      "notes": "Kirjeldas 1800. aastal James Sowerby nimega Agaricus giganteus oma teose Coloured Figures of English Fungi tahvli järgi; mõned allikad peavad autoriks John Sibthorpi 1794. aastal. Robert Kühner ja René Maire tegid sellest 1934. aastal perekonna Aspropaxillus tüüpliigi. Rolf Singer viis selle 1939. aastal perekonda Leucopaxillus, kuid pärast seda, kui molekulaaruuring 2012. aastal näitas, et Leucopaxillus ei ole looduslik rühm, viidi see tagasi perekonda Aspropaxillus. Sisaldab klitotsiini, antibakteriaalse toimega ühendit, mida on laboris uuritud ka vähirakkude vastu.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://et.wikipedia.org/wiki/Hiid-lehtervahelik"
+      ],
+      "label": "hiid-lehtervahelik"
+    },
+    "fa": {
+      "description": "قارچی بسیار بزرگ، سفید تا کرم‌رنگ و قیفی‌شکل از سردهٔ Aspropaxillus که هنوز هم اغلب با نام Leucopaxillus giganteus شناخته می‌شود. کلاهک معمولاً ۱۵–۳۵ cm پهنا دارد و تیغه‌های فشرده روی پایه‌ای کوتاه و تنومند پایین می‌روند. به‌صورت گروهی، کمانی یا حلقهٔ پریان در علفزارها، پارک‌ها، کنار پرچین‌ها و فضاهای باز جنگلی در نواحی معتدل نیمکرهٔ شمالی می‌روید.",
+      "cap": "در جوانی سفید عاجی، محدب و به‌طور ظریف مخملی با لبهٔ به داخل پیچیده است؛ به‌زودی صاف می‌شود و به قیفی کم‌عمق تا عمیق تبدیل می‌شود. با افزایش سن از مرکز به قهوه‌ای روشن می‌گراید و ممکن است ترک‌های دایره‌ای، فلس‌های ریز یا لکه‌های قهوه‌ای پیدا کند؛ لبه موج‌دار می‌شود و اغلب می‌شکافد. بیشتر کلاهک‌های بالغ ۱۵–۳۵ cm هستند، اما کلاهک‌هایی از ۸ cm تا حدود ۵۰ cm گزارش شده است.",
+      "hymenium": "تیغه‌ها باریک، فشرده و روی پایه پایین‌رونده‌اند و برخی دوشاخه‌اند. در آغاز سفید عاجی‌اند و با افزایش سن به کرم یا قهوه‌ای روشن تیره می‌شوند.",
+      "stipe": "پایه نسبت به اندازهٔ کلاهک کوتاه و تنومند است، معمولاً ۴–۶ cm بلندی و ۲–۳ cm ضخامت دارد. سفید کرم است و بعد قهوه‌ای روشن می‌شود، با رشته‌های ظریف قهوه‌ای مایل به قرمز به‌ویژه نزدیک بالا. قاعده آشکارا پیازی نیست و اغلب ریسه‌های سفید و انبوه دارد. حلقه ندارد.",
+      "flesh": "گوشت سفید و سفت است، در پایه سخت ولی در کلاهک‌های کاملاً گسترده نسبتاً شکننده. بو ضعیف و مطبوع است و اغلب آردی توصیف می‌شود؛ مزه ملایم است.",
+      "sporePrint": "سفید. هاگ‌ها بیضوی، صاف و بی‌رنگ‌اند، ۶–۹ × ۳٫۵–۵٫۵ µm، به‌طور ضعیف آمیلوئید و در معرف ملتزر به‌طور ناهمگون آبی‌سیاه می‌شوند.",
+      "habitat": "گندروی است و مادهٔ آلی خاک را تجزیه می‌کند. به‌صورت دسته‌ای، کمانی یا حلقه‌های کامل پریان در چراگاه‌های دائمی، پارک‌ها و حاشیه‌های علفی جاده‌ها، کنار پرچین‌ها و در فضاهای باز و حاشیهٔ جنگل‌ها می‌روید. از اواخر تابستان تا پاییز میوه می‌دهد و در بریتانیا بیشتر از اوت تا اوایل نوامبر. در نواحی معتدل اروپا، آسیا و آمریکای شمالی گسترده است اما فراوان نیست.",
+      "uses": "اغلب در جوانی خوراکی توصیف می‌شود، اما طعمش معمولی است و برخی افراد پس از خوردن آن دچار دل‌درد، اسهال و تعریق می‌شوند؛ از این رو در اینجا خوراکی با احتیاط طبقه‌بندی شده است. نخست فقط مقدار کمی را امتحان کنید. در کرواسی گونه‌ای حفاظت‌شده است.",
+      "confusion": "اندازهٔ بزرگ، شکل قیفی سفید و تیغه‌های پایین‌رونده از ویژگی‌های آن است. Infundibulicybe geotropa معمولاً کوچک‌تر است و پایه‌ای بسیار بلندتر دارد، و Infundibulicybe gibba بسیار کوچک‌تر است؛ هاگ‌های هیچ‌کدام با ید رنگ نمی‌گیرند. Clitocybe nebularis کلاهکی خاکستری دارد و بیشتر در لاشبرگ جنگل می‌روید. قارچ‌های شیری سفید (Lactifluus، Lactarius) و روسولاها (Russula) ممکن است شبیه باشند، اما گوشتشان شکننده است و تمیز می‌شکند. Paxillus involutus شکلی مشابه اما کلاهکی قهوه‌ای دارد.",
+      "notes": "در سال ۱۸۰۰ جیمز سووربی آن را بر پایهٔ لوحی در کتابش «تصاویر رنگی قارچ‌های انگلیسی» با نام Agaricus giganteus توصیف کرد؛ برخی منابع آن را به جان سیبتورپ در سال ۱۷۹۴ نسبت می‌دهند. روبر کونر و رنه مر در سال ۱۹۳۴ آن را گونهٔ نمونهٔ سردهٔ Aspropaxillus قرار دادند. رولف سینگر در سال ۱۹۳۹ آن را به Leucopaxillus منتقل کرد، اما پس از آنکه پژوهش‌های مولکولی در سال ۲۰۱۲ نشان داد Leucopaxillus گروهی طبیعی نیست، به Aspropaxillus بازگردانده شد. حاوی کلیتوسین است، ترکیبی با فعالیت ضدباکتریایی که در آزمایشگاه علیه سلول‌های سرطانی نیز بررسی شده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Hyvin suuri, valkoinen tai kermanvärinen, suppilomainen sieni Aspropaxillus-suvusta, josta käytetään yhä usein nimeä Leucopaxillus giganteus. Lakki on yleensä 15–35 cm leveä, ja tiheät heltat jatkuvat alas lyhyelle, tanakalle jalalle. Se kasvaa ryhminä, kaarina tai noidankehinä niityillä, puistoissa, pensasaitojen vierillä ja metsäaukioilla pohjoisen pallonpuoliskon lauhkealla vyöhykkeellä.",
+      "cap": "Nuorena norsunluunvalkoinen, kupera ja hienon samettinen, reuna sisäänkääntynyt; pian se litistyy ja muuttuu matalaksi tai syväksi suppiloksi. Vanhetessaan se muuttuu keskeltä alkaen nahanruskeaksi, ja siihen voi tulla rengasmaisia halkeamia, pieniä suomuja tai ruskeita laikkuja; reuna aaltoilee ja halkeilee usein. Useimmat täysikasvuiset lakit ovat 15–35 cm leveitä, mutta lakkeja on ilmoitettu 8 cm:stä noin 50 cm:iin.",
+      "hymenium": "Heltat ovat kapeita, tiheitä ja jalalle laskeutuvia, ja osa on haarautuneita. Ne ovat aluksi norsunluunvalkoisia ja tummuvat iän myötä kermanvärisiksi tai nahanruskeiksi.",
+      "stipe": "Jalka on lakin kokoon nähden lyhyt ja tanakka, yleensä 4–6 cm korkea ja 2–3 cm paksu. Se on kermanvalkoinen, myöhemmin nahanruskea, ja siinä on hienoja punaruskeita säikeitä etenkin yläosassa. Tyvi ei ole selvästi mukulamainen, ja siinä on usein tiheää valkoista rihmastoa. Rengasta ei ole.",
+      "flesh": "Malto on valkoinen ja kiinteä, jalassa sitkeä mutta täysin avautuneissa lakeissa melko hauras. Haju on heikko ja miellyttävä, usein jauhomainen; maku on mieto.",
+      "sporePrint": "Valkoinen. Itiöt ovat ellipsoidisia, sileitä ja värittömiä, 6–9 × 3,5–5,5 µm, heikosti amyloidisia, ja ne värjäytyvät Melzerin reagenssissa epätasaisesti sinimustiksi.",
+      "habitat": "Lahottaja, joka hajottaa maaperän eloperäistä ainesta. Se kasvaa joukkoina, kaarina tai täysinä noidankehinä pysyvillä laitumilla, puistoissa ja ruohoisilla tienpientareilla, pensasaitojen vierillä sekä metsäaukioilla ja metsänreunoilla. Itiöemiä kehittyy loppukesästä syksyyn, Isossa-Britanniassa pääasiassa elokuusta marraskuun alkuun. Se on laajalle levinnyt mutta harvinaisehko Euroopan, Aasian ja Pohjois-Amerikan lauhkealla vyöhykkeellä.",
+      "uses": "Sitä kuvataan usein nuorena syötäväksi, mutta maku on keskinkertainen, ja joillekin ihmisille on syömisen jälkeen tullut vatsakipuja, ripulia ja hikoilua; siksi se luokitellaan tässä varoen syötäväksi. Kokeile aluksi vain pientä määrää. Kroatiassa se on suojeltu laji.",
+      "confusion": "Suuri koko, valkoinen suppilomuoto ja jalalle laskeutuvat heltat ovat tunnusomaisia. Infundibulicybe geotropa on yleensä pienempi ja sen jalka on paljon pidempi, ja Infundibulicybe gibba on paljon pienempi; kummankaan itiöt eivät värjäydy jodissa. Clitocybe nebularis -lajilla on harmahtava lakki, ja se kasvaa enimmäkseen metsän karikkeessa. Valkoiset rouskut (Lactifluus, Lactarius) ja haperot (Russula) voivat muistuttaa sitä, mutta niiden malto on hauras ja katkeaa siististi. Paxillus involutus on samanmuotoinen mutta ruskealakkinen.",
+      "notes": "James Sowerby kuvasi sen vuonna 1800 nimellä Agaricus giganteus teoksensa Coloured Figures of English Fungi kuvalaatan perusteella; joidenkin lähteiden mukaan kuvaaja oli John Sibthorp vuonna 1794. Robert Kühner ja René Maire tekivät siitä vuonna 1934 Aspropaxillus-suvun tyyppilajin. Rolf Singer siirsi sen vuonna 1939 sukuun Leucopaxillus, mutta kun molekyylitutkimus vuonna 2012 osoitti, ettei Leucopaxillus ollut luonnollinen ryhmä, se palautettiin sukuun Aspropaxillus. Se sisältää klitosiinia, yhdistettä, jolla on antibakteerista vaikutusta ja jota on laboratoriossa tutkittu myös syöpäsoluja vastaan.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://fi.wikipedia.org/wiki/J%C3%A4ttimalikka"
+      ],
+      "label": "jättimalikka"
+    },
+    "fr": {
+      "description": "Un très grand champignon blanc à crème, en forme d'entonnoir, du genre Aspropaxillus, encore souvent cité sous le nom de Leucopaxillus giganteus. Le chapeau mesure le plus souvent 15–35 cm, avec des lames serrées qui descendent sur un pied court et trapu. Il pousse en groupes, en arcs ou en ronds de sorcière dans les prairies, les parcs, le long des haies et dans les clairières de l'hémisphère Nord tempéré.",
+      "cap": "Blanc ivoire, convexe et finement velouté avec une marge enroulée dans la jeunesse, il s'aplatit bientôt puis se creuse en entonnoir plus ou moins profond. Avec l'âge, il devient chamois à partir du centre et peut présenter des craquelures circulaires, de petites squames ou des taches brunes ; la marge devient ondulée et se fend souvent. La plupart des chapeaux adultes mesurent 15–35 cm, mais des chapeaux de 8 cm à environ 50 cm ont été signalés.",
+      "hymenium": "Les lames sont étroites, serrées et décurrentes, descendant sur le pied, et certaines sont fourchues. D'abord blanc ivoire, elles foncent jusqu'au crème ou au chamois avec l'âge.",
+      "stipe": "Le pied est court et trapu par rapport au chapeau, généralement haut de 4–6 cm et épais de 2–3 cm. Il est blanc crème puis chamois, orné de fines fibrilles brun rougeâtre surtout vers le sommet. La base n'est pas nettement bulbeuse et porte souvent un mycélium blanc dense. Il n'y a pas d'anneau.",
+      "flesh": "La chair est blanche et ferme, coriace dans le pied mais assez fragile dans les chapeaux bien étalés. L'odeur est faible et agréable, souvent décrite comme farineuse ; la saveur est douce.",
+      "sporePrint": "Blanche. Les spores sont ellipsoïdes, lisses et incolores, 6–9 × 3,5–5,5 µm, faiblement amyloïdes, se colorant irrégulièrement en bleu-noir dans le réactif de Melzer.",
+      "habitat": "Saprotrophe, il décompose la matière organique du sol. Il pousse en troupes, en arcs ou en ronds de sorcière complets dans les pâturages permanents, les parcs et les bords de route herbeux, le long des haies et dans les clairières et lisières forestières. Il fructifie de la fin de l'été à l'automne, en Grande-Bretagne surtout d'août au début de novembre. Il est répandu mais peu commun dans les régions tempérées d'Europe, d'Asie et d'Amérique du Nord.",
+      "uses": "Souvent décrit comme comestible jeune, mais sa saveur est médiocre et certaines personnes souffrent de douleurs d'estomac, de diarrhée et de sueurs après en avoir mangé ; il est donc classé ici comme comestible avec prudence. N'en goûter d'abord qu'une petite quantité. C'est une espèce protégée en Croatie.",
+      "confusion": "Sa grande taille, sa forme d'entonnoir blanc et ses lames décurrentes sont caractéristiques. Infundibulicybe geotropa est généralement plus petit avec un pied beaucoup plus haut, et Infundibulicybe gibba est bien plus petit ; les spores des deux ne se colorent pas à l'iode. Clitocybe nebularis a un chapeau grisâtre et pousse surtout dans la litière forestière. Les lactaires blancs (Lactifluus, Lactarius) et les russules (Russula) peuvent lui ressembler, mais leur chair est cassante et se brise net. Paxillus involutus a une forme semblable mais un chapeau brun.",
+      "notes": "Décrit en 1800 par James Sowerby sous le nom d'Agaricus giganteus d'après une planche de ses Coloured Figures of English Fungi ; certaines sources l'attribuent à John Sibthorp en 1794. Robert Kühner et René Maire en ont fait en 1934 l'espèce type du genre Aspropaxillus. Rolf Singer l'a transféré dans Leucopaxillus en 1939, mais après que des travaux moléculaires de 2012 ont montré que Leucopaxillus n'était pas un groupe naturel, il a été replacé dans Aspropaxillus. Il contient de la clitocine, un composé à activité antibactérienne également étudié en laboratoire contre des cellules cancéreuses.",
+      "names": [
+        "leucopaxille gigantesque"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532719/vernacularNames",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://fr.wikipedia.org/wiki/Leucopaxille_gigantesque"
+      ],
+      "label": "leucopaxille géant"
+    },
+    "he": {
+      "description": "פטרייה גדולה מאוד, לבנה עד בצבע שמנת ומשפכית, מהסוג Aspropaxillus, שעדיין מוכרת לעיתים קרובות בשם Leucopaxillus giganteus. רוחב הכובע בדרך כלל 15–35 cm, והזימים הצפופים יורדים על גבעול קצר ועבה. גדלה בקבוצות, בקשתות או במעגלי פיות באחו, בפארקים, לצד גדרות חיות ובקרחות יער באזור הממוזג של חצי הכדור הצפוני.",
+      "cap": "בצעירותו לבן־שנהב, קמור ומעט קטיפתי עם שוליים מגולגלים פנימה; עד מהרה הוא משתטח והופך למשפך רדוד עד עמוק. עם הגיל הוא משחים לחום בהיר מהמרכז, ועשויים להופיע בו סדקים מעגליים, קשקשים קטנים או כתמים חומים; השוליים נעשים גליים ולעיתים קרובות נסדקים. רוב הכובעים הבוגרים ברוחב 15–35 cm, אך דווחו כובעים מ־8 cm ועד כ־50 cm.",
+      "hymenium": "הזימים צרים, צפופים ויורדים על הגבעול, וחלקם מפוצלים. בתחילה הם לבנים־שנהב, ועם הגיל מתכהים לשמנת או לחום בהיר.",
+      "stipe": "הגבעול קצר ועבה ביחס לגודל הכובע, בדרך כלל בגובה 4–6 cm ובעובי 2–3 cm. הוא לבן־שמנת ובהמשך חום בהיר, עם סיבים דקים בצבע חום־אדמדם במיוחד בחלקו העליון. הבסיס אינו נפוח במידה בולטת ולעיתים קרובות נושא תפטיר לבן וצפוף. אין טבעת.",
+      "flesh": "הבשר לבן ומוצק, קשיח בגבעול אך שביר למדי בכובעים פתוחים לגמרי. הריח חלש ונעים, ולעיתים קרובות מתואר כקמחי; הטעם מתון.",
+      "sporePrint": "לבן. הנבגים אליפסואידיים, חלקים וחסרי צבע, 6–9 × 3.5–5.5 µm, עמילואידיים חלשות, ונצבעים באופן לא אחיד בכחול־שחור בתמיסת מלצר.",
+      "habitat": "ספרוטרוף המפרק חומר אורגני בקרקע. גדל בלהקות, בקשתות או במעגלי פיות שלמים במרעה קבוע, בפארקים ובשולי דרכים מכוסי עשב, לצד גדרות חיות ובקרחות ובשולי יערות. מפרה מסוף הקיץ ועד הסתיו, ובבריטניה בעיקר מאוגוסט ועד תחילת נובמבר. נפוץ אך אינו שכיח באזורים הממוזגים של אירופה, אסיה וצפון אמריקה.",
+      "uses": "מתואר לעיתים קרובות כמאכל בצעירותו, אך טעמו בינוני ויש אנשים הסובלים מכאבי בטן, שלשול והזעה לאחר אכילתו, ולכן הוא מסווג כאן כמאכל בזהירות. יש לטעום תחילה כמות קטנה בלבד. בקרואטיה הוא מין מוגן.",
+      "confusion": "גודלו הרב, צורת המשפך הלבנה והזימים היורדים אופייניים לו. Infundibulicybe geotropa קטנה בדרך כלל ובעלת גבעול גבוה בהרבה, ו־Infundibulicybe gibba קטנה בהרבה; הנבגים של שתיהן אינם נצבעים ביוד. ל־Clitocybe nebularis כובע אפרפר והיא גדלה בעיקר בשכבת העלים של היער. חלביות לבנות (Lactifluus, Lactarius) ורוסולות (Russula) עשויות להיראות דומות, אך בשרן פריך ונשבר בקו נקי. ל־Paxillus involutus צורה דומה אך כובע חום.",
+      "notes": "תואר בשנת 1800 על ידי ג'יימס סוורבי בשם Agaricus giganteus על פי לוח בספרו \"איורים צבעוניים של פטריות אנגליות\"; יש מקורות המייחסים אותו לג'ון סיבת'ורפ בשנת 1794. רובר קינר ורנה מר קבעו אותו בשנת 1934 כמין הטיפוס של הסוג Aspropaxillus. רולף סינגר העביר אותו לסוג Leucopaxillus בשנת 1939, אך לאחר שמחקרים מולקולריים בשנת 2012 הראו ש־Leucopaxillus אינו קבוצה טבעית, הוא הוחזר לסוג Aspropaxillus. הוא מכיל קליטוצין, תרכובת בעלת פעילות אנטיבקטריאלית שנחקרה במעבדה גם נגד תאים סרטניים.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Aspropaxillus वंश का एक बहुत बड़ा, सफ़ेद से क्रीम रंग का कीप के आकार का मशरूम, जिसे अब भी अक्सर Leucopaxillus giganteus के नाम से जाना जाता है। टोपी आमतौर पर 15–35 cm चौड़ी होती है, और घने गलफड़े छोटे, मोटे डंठल पर नीचे तक उतरते हैं। यह उत्तरी गोलार्ध के समशीतोष्ण क्षेत्र में घास के मैदानों, पार्कों, बाड़ों के किनारे और जंगल के खुले स्थानों में समूहों, चापों या परी-वलयों में उगता है।",
+      "cap": "युवा अवस्था में यह हाथीदाँत जैसी सफ़ेद, उत्तल और महीन मखमली होती है, जिसका किनारा अंदर की ओर मुड़ा रहता है; जल्द ही यह चपटी होकर उथली से गहरी कीप बन जाती है। उम्र के साथ यह केंद्र से हल्की भूरी हो जाती है और इस पर गोलाकार दरारें, छोटे शल्क या भूरे धब्बे आ सकते हैं; किनारा लहरदार हो जाता है और अक्सर फट जाता है। अधिकांश परिपक्व टोपियाँ 15–35 cm की होती हैं, लेकिन 8 cm से लगभग 50 cm तक की टोपियाँ दर्ज की गई हैं।",
+      "hymenium": "गलफड़े संकरे, घने और डंठल पर नीचे उतरते हुए होते हैं, और कुछ द्विशाखित होते हैं। शुरू में ये हाथीदाँत जैसे सफ़ेद होते हैं और उम्र के साथ क्रीम या हल्के भूरे हो जाते हैं।",
+      "stipe": "डंठल टोपी के आकार की तुलना में छोटा और मोटा होता है, आमतौर पर 4–6 cm ऊँचा और 2–3 cm मोटा। यह क्रीम-सफ़ेद, बाद में हल्का भूरा होता है, और विशेषकर ऊपरी भाग में महीन लाल-भूरे रेशे होते हैं। आधार स्पष्ट रूप से कंदाकार नहीं होता और अक्सर घने सफ़ेद कवकजाल से ढका रहता है। कोई वलय नहीं होता।",
+      "flesh": "गूदा सफ़ेद और ठोस होता है, डंठल में सख़्त लेकिन पूरी तरह फैली टोपियों में काफ़ी भुरभुरा। गंध हल्की और सुखद होती है, जिसे अक्सर आटे जैसी बताया जाता है; स्वाद सौम्य होता है।",
+      "sporePrint": "सफ़ेद। बीजाणु दीर्घवृत्ताकार, चिकने और रंगहीन होते हैं, 6–9 × 3.5–5.5 µm, कमज़ोर रूप से एमिलॉइड, और मेल्ज़र अभिकर्मक में असमान रूप से नीले-काले रंग के हो जाते हैं।",
+      "habitat": "मृतजीवी, जो मिट्टी में कार्बनिक पदार्थ को विघटित करता है। यह स्थायी चरागाहों, पार्कों और घास वाले सड़क किनारों पर, बाड़ों के पास तथा जंगल के खुले स्थानों और किनारों पर झुंडों, चापों या पूरे परी-वलयों में उगता है। यह देर गर्मियों से शरद ऋतु तक फलता है, ब्रिटेन में मुख्यतः अगस्त से नवंबर की शुरुआत तक। यह यूरोप, एशिया और उत्तरी अमेरिका के समशीतोष्ण क्षेत्रों में व्यापक रूप से फैला है, लेकिन आम नहीं है।",
+      "uses": "इसे अक्सर युवा अवस्था में खाने योग्य बताया जाता है, लेकिन इसका स्वाद साधारण है और कुछ लोगों को इसे खाने के बाद पेट दर्द, दस्त और पसीना आता है, इसलिए यहाँ इसे सावधानी के साथ खाने योग्य श्रेणी में रखा गया है। पहली बार केवल थोड़ी मात्रा आज़माएँ। क्रोएशिया में यह एक संरक्षित प्रजाति है।",
+      "confusion": "इसका बड़ा आकार, सफ़ेद कीप जैसा रूप और नीचे उतरते गलफड़े विशिष्ट हैं। Infundibulicybe geotropa आमतौर पर छोटा होता है और उसका डंठल बहुत ऊँचा होता है, तथा Infundibulicybe gibba बहुत छोटा होता है; दोनों के बीजाणु आयोडीन से नहीं रंगते। Clitocybe nebularis की टोपी धूसर होती है और यह मुख्यतः जंगल की पत्ती-परत में उगता है। सफ़ेद दूधिया मशरूम (Lactifluus, Lactarius) और रुसुला (Russula) मिलते-जुलते दिख सकते हैं, लेकिन उनका गूदा भुरभुरा होता है और साफ़ टूटता है। Paxillus involutus का आकार मिलता-जुलता है पर टोपी भूरी होती है।",
+      "notes": "इसका वर्णन 1800 में जेम्स सोवरबी ने अपनी पुस्तक \"कलर्ड फ़िगर्स ऑफ़ इंग्लिश फ़ंजाई\" की एक प्लेट के आधार पर Agaricus giganteus नाम से किया; कुछ स्रोत इसका श्रेय 1794 में जॉन सिबथॉर्प को देते हैं। रॉबर्ट कुनर और रेने मेयर ने 1934 में इसे Aspropaxillus वंश की प्ररूप प्रजाति बनाया। रॉल्फ़ सिंगर ने 1939 में इसे Leucopaxillus में स्थानांतरित किया, लेकिन 2012 के आणविक अध्ययनों से यह दिखने के बाद कि Leucopaxillus एक प्राकृतिक समूह नहीं है, इसे वापस Aspropaxillus में रखा गया। इसमें क्लिटोसिन होता है, जो जीवाणुरोधी सक्रियता वाला एक यौगिक है और जिसका प्रयोगशाला में कैंसर कोशिकाओं के विरुद्ध भी अध्ययन किया गया है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Vrlo velika bijela do krem gljiva ljevkasta oblika iz roda Aspropaxillus, koja se i danas često navodi kao Leucopaxillus giganteus. Šešir je obično širok 15–35 cm, a gusti listići silaze niz kratki, debeli stručak. Raste u skupinama, lukovima ili vilinskim krugovima na travnjacima, u parkovima, uz živice i na šumskim čistinama umjerenog pojasa sjeverne polutke.",
+      "cap": "U mladosti je bjelokosno bijel, izbočen i fino baršunast s podvijenim rubom, ubrzo se izravna i postane plitak do dubok lijevak. Starenjem od sredine postaje žućkastosmeđ i može dobiti kružne pukotine, sitne ljuskice ili smeđe mrlje; rub postaje valovit i često puca. Većina zrelih šešira široka je 15–35 cm, no zabilježeni su šeširi od 8 cm do oko 50 cm.",
+      "hymenium": "Listići su uski, gusti i silazni niz stručak, a neki su račvasti. Isprva su bjelokosno bijeli, a starenjem potamne do krem ili žućkastosmeđe boje.",
+      "stipe": "Stručak je s obzirom na veličinu šešira kratak i debeo, obično visok 4–6 cm i debeo 2–3 cm. Krem bijel je, kasnije žućkastosmeđ, s finim crvenkastosmeđim vlakancima osobito pri vrhu. Osnova nije izrazito gomoljasta i često nosi gusti bijeli micelij. Vjenčića nema.",
+      "flesh": "Meso je bijelo i čvrsto, u stručku žilavo, ali u potpuno raširenim šeširima prilično krhko. Miris je slab i ugodan, često opisan kao brašnast; okus je blag.",
+      "sporePrint": "Bijel. Spore su elipsoidne, glatke i bezbojne, 6–9 × 3,5–5,5 µm, slabo amiloidne, u Melzerovu reagensu boje se neujednačeno plavocrno.",
+      "habitat": "Saprotrof koji razgrađuje organsku tvar u tlu. Raste u skupinama, lukovima ili potpunim vilinskim krugovima na trajnim pašnjacima, u parkovima i na travnatim rubovima cesta, uz živice te na šumskim čistinama i rubovima šuma. Plodna tijela razvija od kasnog ljeta do jeseni, u Britaniji uglavnom od kolovoza do početka studenoga. Raširen je, ali nije čest u umjerenom pojasu Europe, Azije i Sjeverne Amerike.",
+      "uses": "Često se opisuje kao jestiv dok je mlad, no okus mu je osrednji, a neki ljudi nakon jela dobiju bolove u želucu, proljev i znojenje, pa je ovdje svrstan među jestive uz oprez. Najprije probajte samo malu količinu. U Hrvatskoj je zaštićena vrsta.",
+      "confusion": "Karakteristični su velika veličina, bijeli ljevkasti oblik i silazni listići. Infundibulicybe geotropa obično je manja i ima znatno viši stručak, a Infundibulicybe gibba mnogo je manja; spore obiju ne boje se jodom. Clitocybe nebularis ima sivkast šešir i raste uglavnom u šumskoj stelji. Bijele mliječnice (Lactifluus, Lactarius) i golubače (Russula) mogu izgledati slično, ali im je meso krhko i lomi se glatko. Paxillus involutus sličnog je oblika, ali smeđeg šešira.",
+      "notes": "Opisao ga je 1800. James Sowerby kao Agaricus giganteus prema tabli u svom djelu Coloured Figures of English Fungi; neki izvori autorstvo pripisuju Johnu Sibthorpu 1794. Robert Kühner i René Maire 1934. učinili su ga tipskom vrstom roda Aspropaxillus. Rolf Singer premjestio ga je 1939. u rod Leucopaxillus, no nakon što su molekularna istraživanja 2012. pokazala da Leucopaxillus nije prirodna skupina, vraćen je u rod Aspropaxillus. Sadrži klitocin, spoj s antibakterijskim djelovanjem koji je u laboratoriju ispitivan i protiv stanica raka.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.cromushrooms.eu/pregled-vrsta?id=3190&option=com_content&view=article"
+      ],
+      "label": "golema podvijenka"
+    },
+    "hu": {
+      "description": "Nagyon nagy, fehér vagy krémszínű, tölcsér alakú gomba az Aspropaxillus nemzetségből, amelyet ma is gyakran Leucopaxillus giganteus néven említenek. Kalapja többnyire 15–35 cm átmérőjű, sűrű lemezei lefutnak a rövid, vaskos tönkre. Csoportosan, ívekben vagy boszorkánykörökben nő réteken, parkokban, sövények mentén és erdei tisztásokon az északi félteke mérsékelt övében.",
+      "cap": "Fiatalon elefántcsontfehér, domború és finoman bársonyos, széle begöngyölt; hamarosan kiterül, majd sekély vagy mély tölcsérré válik. Idővel a közepétől kezdve bőrsárgás lesz, és körkörös repedések, apró pikkelyek vagy barna foltok jelenhetnek meg rajta; széle hullámos lesz és gyakran berepedezik. A legtöbb kifejlett kalap 15–35 cm-es, de 8 cm-estől mintegy 50 cm-esig terjedő kalapokat is leírtak.",
+      "hymenium": "A lemezek keskenyek, sűrűk és a tönkre lefutók, némelyik villásan elágazó. Eleinte elefántcsontfehérek, idővel krémszínűre vagy bőrsárgásra sötétednek.",
+      "stipe": "A tönk a kalap méretéhez képest rövid és vaskos, többnyire 4–6 cm magas és 2–3 cm vastag. Krémfehér, később bőrsárgás, finom vörösesbarna szálakkal főleg a csúcsa felé. Töve nem feltűnően gumós, és gyakran sűrű fehér micélium borítja. Gallérja nincs.",
+      "flesh": "Húsa fehér és kemény, a tönkben szívós, a teljesen kiterült kalapokban viszont meglehetősen törékeny. Szaga gyenge és kellemes, gyakran lisztesnek írják le; íze enyhe.",
+      "sporePrint": "Fehér. A spórák ellipszoidok, simák és színtelenek, 6–9 × 3,5–5,5 µm-esek, gyengén amiloidok, Melzer-reagensben egyenetlenül kékesfeketére színeződnek.",
+      "habitat": "Szaprotróf, a talaj szerves anyagait bontja. Csapatosan, ívekben vagy teljes boszorkánykörökben nő állandó legelőkön, parkokban és füves útszéleken, sövények mentén, valamint erdei tisztásokon és erdőszéleken. Termőtesteit a nyár végétől őszig hozza, Nagy-Britanniában főleg augusztustól november elejéig. Elterjedt, de nem gyakori Európa, Ázsia és Észak-Amerika mérsékelt övében.",
+      "uses": "Gyakran fiatalon ehetőnek írják le, de íze közepes, és egyeseknél fogyasztása után hasfájás, hasmenés és izzadás lép fel, ezért itt az óvatosan ehető kategóriába soroljuk. Először csak kis mennyiséget kóstoljon. Horvátországban védett faj.",
+      "confusion": "Jellemző a nagy mérete, a fehér tölcsér alak és a lefutó lemezek. Az Infundibulicybe geotropa többnyire kisebb, és sokkal magasabb a tönkje, az Infundibulicybe gibba pedig jóval kisebb; egyikük spórái sem színeződnek jóddal. A Clitocybe nebularis kalapja szürkés, és főleg az erdei avarban nő. A fehér tejelőgombák (Lactifluus, Lactarius) és galambgombák (Russula) hasonlíthatnak rá, de húsuk törékeny és simán törik. A Paxillus involutus hasonló alakú, de kalapja barna.",
+      "notes": "James Sowerby írta le 1800-ban Agaricus giganteus néven a Coloured Figures of English Fungi című művének egy tábláján; egyes források John Sibthorpnak tulajdonítják 1794-ből. Robert Kühner és René Maire 1934-ben az Aspropaxillus nemzetség típusfajává tette. Rolf Singer 1939-ben a Leucopaxillus nemzetségbe helyezte át, de miután 2012-ben molekuláris vizsgálatok kimutatták, hogy a Leucopaxillus nem természetes csoport, visszakerült az Aspropaxillus nemzetségbe. Klitocint tartalmaz, egy antibakteriális hatású vegyületet, amelyet laboratóriumban rákos sejtekkel szemben is vizsgáltak.",
+      "names": [
+        "óriás álpereszke",
+        "óriás cölöppereszke"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://hu.wikipedia.org/wiki/Hatalmas_t%C3%B6lcs%C3%A9rgomba"
+      ],
+      "label": "hatalmas tölcsérgomba"
+    },
+    "id": {
+      "description": "Jamur yang sangat besar, berwarna putih hingga krem dan berbentuk corong, dari genus Aspropaxillus, yang masih sering disebut Leucopaxillus giganteus. Tudungnya biasanya berdiameter 15–35 cm, dengan bilah rapat yang menurun ke tangkai yang pendek dan gemuk. Tumbuh berkelompok, membentuk busur atau lingkaran peri di padang rumput, taman, tepi pagar tanaman, dan tempat terbuka di hutan di wilayah beriklim sedang Belahan Bumi Utara.",
+      "cap": "Saat muda berwarna putih gading, cembung dan halus seperti beludru dengan tepi menggulung ke dalam; segera mendatar lalu menjadi corong yang dangkal hingga dalam. Seiring bertambahnya umur, warnanya menjadi cokelat muda dari bagian tengah dan dapat muncul retakan melingkar, sisik kecil, atau bercak cokelat; tepinya menjadi bergelombang dan sering pecah. Sebagian besar tudung dewasa berukuran 15–35 cm, tetapi tudung berukuran 8 cm hingga sekitar 50 cm pernah dilaporkan.",
+      "hymenium": "Bilahnya sempit, rapat, dan menurun ke tangkai, sebagian bercabang. Awalnya putih gading, lalu menggelap menjadi krem atau cokelat muda seiring umur.",
+      "stipe": "Tangkainya pendek dan gemuk dibanding ukuran tudung, biasanya tinggi 4–6 cm dan tebal 2–3 cm. Warnanya putih krem, kemudian cokelat muda, dengan serat halus cokelat kemerahan terutama di bagian atas. Pangkalnya tidak tampak menggembung dan sering diselimuti miselium putih yang rapat. Tidak ada cincin.",
+      "flesh": "Dagingnya putih dan padat, liat di tangkai tetapi cukup rapuh pada tudung yang sudah terbuka penuh. Baunya lemah dan menyenangkan, sering digambarkan seperti tepung; rasanya lembut.",
+      "sporePrint": "Putih. Sporanya elipsoid, halus, dan tidak berwarna, 6–9 × 3,5–5,5 µm, amiloid lemah, dan terwarnai biru kehitaman secara tidak merata dalam reagen Melzer.",
+      "habitat": "Saprotrof yang menguraikan bahan organik di dalam tanah. Tumbuh bergerombol, membentuk busur atau lingkaran peri utuh di padang penggembalaan permanen, taman, dan tepi jalan berumput, di tepi pagar tanaman, serta di tempat terbuka dan tepi hutan. Tubuh buahnya muncul dari akhir musim panas hingga musim gugur, di Inggris terutama dari Agustus hingga awal November. Tersebar luas tetapi tidak umum di wilayah beriklim sedang Eropa, Asia, dan Amerika Utara.",
+      "uses": "Sering disebut dapat dimakan saat muda, tetapi rasanya biasa saja dan sebagian orang mengalami sakit perut, diare, dan berkeringat setelah memakannya, sehingga di sini digolongkan dapat dimakan dengan hati-hati. Cobalah sedikit saja terlebih dahulu. Di Kroasia jamur ini merupakan spesies yang dilindungi.",
+      "confusion": "Ukurannya yang besar, bentuk corong putih, dan bilah yang menurun merupakan ciri khasnya. Infundibulicybe geotropa biasanya lebih kecil dengan tangkai yang jauh lebih tinggi, dan Infundibulicybe gibba jauh lebih kecil; spora keduanya tidak terwarnai oleh yodium. Clitocybe nebularis bertudung keabu-abuan dan terutama tumbuh di serasah hutan. Jamur susu putih (Lactifluus, Lactarius) dan jamur rapuh (Russula) dapat tampak mirip, tetapi dagingnya getas dan patah dengan rapi. Paxillus involutus memiliki bentuk serupa tetapi tudungnya cokelat.",
+      "notes": "Dideskripsikan pada tahun 1800 oleh James Sowerby sebagai Agaricus giganteus berdasarkan lempeng gambar dalam karyanya Coloured Figures of English Fungi; beberapa sumber menyebut John Sibthorp pada tahun 1794. Robert Kühner dan René Maire menjadikannya spesies tipe genus Aspropaxillus pada tahun 1934. Rolf Singer memindahkannya ke Leucopaxillus pada tahun 1939, tetapi setelah penelitian molekuler pada tahun 2012 menunjukkan bahwa Leucopaxillus bukan kelompok alami, spesies ini dikembalikan ke Aspropaxillus. Jamur ini mengandung klitosin, senyawa dengan aktivitas antibakteri yang juga telah diteliti terhadap sel kanker di laboratorium.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo molto grande, da bianco a crema e a forma di imbuto, del genere Aspropaxillus, ancora spesso indicato come Leucopaxillus giganteus. Il cappello misura di solito 15–35 cm, con lamelle fitte che scendono su un gambo corto e tozzo. Cresce in gruppi, archi o cerchi delle streghe in prati, parchi, lungo le siepi e nelle radure dei boschi delle zone temperate dell'emisfero boreale.",
+      "cap": "Da giovane è bianco avorio, convesso e finemente vellutato con il margine involuto; presto si appiana e diventa un imbuto da poco a molto profondo. Con l'età diventa camoscio a partire dal centro e può mostrare screpolature circolari, piccole squame o macchie brune; il margine diventa ondulato e spesso si fende. La maggior parte dei cappelli maturi misura 15–35 cm, ma sono stati segnalati cappelli da 8 cm fino a circa 50 cm.",
+      "hymenium": "Le lamelle sono strette, fitte e decorrenti sul gambo, alcune biforcate. Inizialmente bianco avorio, con l'età si scuriscono fino al crema o al camoscio.",
+      "stipe": "Il gambo è corto e tozzo rispetto al cappello, di solito alto 4–6 cm e spesso 2–3 cm. È bianco crema, poi camoscio, con fini fibrille bruno-rossastre soprattutto verso l'apice. La base non è nettamente bulbosa e porta spesso un denso micelio bianco. Non c'è anello.",
+      "flesh": "La carne è bianca e soda, tenace nel gambo ma piuttosto fragile nei cappelli completamente aperti. L'odore è debole e gradevole, spesso descritto come farinoso; il sapore è mite.",
+      "sporePrint": "Bianca. Le spore sono ellissoidali, lisce e incolori, 6–9 × 3,5–5,5 µm, debolmente amiloidi, e si colorano in modo irregolare di nero-bluastro nel reattivo di Melzer.",
+      "habitat": "Saprotrofo, decompone la sostanza organica del suolo. Cresce in schiere, archi o cerchi delle streghe completi in pascoli permanenti, parchi e bordi erbosi delle strade, lungo le siepi e nelle radure e ai margini dei boschi. Fruttifica dalla fine dell'estate all'autunno, in Gran Bretagna soprattutto da agosto all'inizio di novembre. È diffuso ma non comune nelle zone temperate di Europa, Asia e America settentrionale.",
+      "uses": "Spesso descritto come commestibile da giovane, ma il sapore è mediocre e alcune persone soffrono di mal di stomaco, diarrea e sudorazione dopo averlo mangiato, perciò qui è classificato come commestibile con cautela. Assaggiarne inizialmente solo una piccola quantità. In Croazia è una specie protetta.",
+      "confusion": "Le grandi dimensioni, la forma a imbuto bianco e le lamelle decorrenti sono caratteristiche. Infundibulicybe geotropa è di solito più piccola e ha un gambo molto più alto, mentre Infundibulicybe gibba è molto più piccola; le spore di entrambe non si colorano con lo iodio. Clitocybe nebularis ha il cappello grigiastro e cresce soprattutto nella lettiera del bosco. I lattari bianchi (Lactifluus, Lactarius) e le russule (Russula) possono sembrare simili, ma hanno carne fragile che si spezza di netto. Paxillus involutus ha una forma simile ma il cappello bruno.",
+      "notes": "Descritto nel 1800 da James Sowerby come Agaricus giganteus da una tavola della sua opera Coloured Figures of English Fungi; alcune fonti attribuiscono il nome a John Sibthorp nel 1794. Robert Kühner e René Maire ne fecero nel 1934 la specie tipo del genere Aspropaxillus. Rolf Singer lo trasferì in Leucopaxillus nel 1939, ma dopo che studi molecolari del 2012 hanno mostrato che Leucopaxillus non era un gruppo naturale, è tornato in Aspropaxillus. Contiene clitocina, un composto con attività antibatterica studiato in laboratorio anche contro cellule tumorali.",
+      "names": [
+        "cardinale gigante"
+      ],
+      "sourceUrls": [
+        "https://it.wikipedia.org/wiki/Leucopaxillus_giganteus"
+      ],
+      "label": "agarico gigante"
+    },
+    "ja": {
+      "description": "Aspropaxillus属に属する、白色〜クリーム色で漏斗形の非常に大型のきのこで、現在も広くLeucopaxillus giganteusの名で知られる。傘はふつう径15–35 cmで、密なひだが短く太い柄に垂生する。北半球の温帯の草地、公園、生け垣沿い、林間の空き地に群生し、弧状や菌輪（フェアリーリング）をつくる。",
+      "cap": "若いうちは象牙白色で、まんじゅう形、細かいビロード状で縁は内側に巻く。まもなく平らに開き、浅い〜深い漏斗形になる。古くなると中央から淡黄褐色を帯び、同心円状のひび割れ、小さな鱗片、褐色のしみが出ることがあり、縁は波打って裂けやすい。成熟した傘の多くは15–35 cmだが、8 cmから約50 cmまでの傘が報告されている。",
+      "hymenium": "ひだは幅が狭く密で、柄に垂生し、一部は二叉する。初め象牙白色で、古くなるとクリーム色〜淡黄褐色に暗色化する。",
+      "stipe": "柄は傘の大きさに比べて短く太く、ふつう高さ4–6 cm、太さ2–3 cm。クリーム白色で後に淡黄褐色となり、特に上部に細かい赤褐色の繊維がある。基部は目立って膨らまず、しばしば密な白い菌糸に覆われる。つばはない。",
+      "flesh": "肉は白色で締まり、柄では強靭だが、完全に開いた傘ではかなりもろい。においは弱く快く、しばしば粉臭と表現される。味は温和。",
+      "sporePrint": "白色。胞子は楕円形、平滑、無色で6–9 × 3.5–5.5 µm、弱アミロイドで、メルツァー試薬で不均一に青黒色に染まる。",
+      "habitat": "腐生菌で、土壌中の有機物を分解する。永年放牧地、公園、道端の草地、生け垣沿い、林間の空き地や林縁に群生し、弧状や完全な菌輪をつくる。晩夏から秋に発生し、英国では主に八月から十一月上旬。ヨーロッパ、アジア、北アメリカの温帯に広く分布するが、多くはない。",
+      "uses": "若いものは食用とされることが多いが、味は平凡で、食後に腹痛、下痢、発汗を起こす人がいるため、ここでは「注意して食用」に分類する。初めは少量だけ試すこと。クロアチアでは保護種である。",
+      "confusion": "大きさ、白い漏斗形、垂生するひだが特徴的。Infundibulicybe geotropaはふつう小さく、柄がずっと長い。Infundibulicybe gibbaはずっと小さい。両種の胞子はヨウ素で染まらない。Clitocybe nebularisは傘が灰色がかり、主に林内の落葉層に生える。白いチチタケ類（Lactifluus、Lactarius）やベニタケ類（Russula）も似ることがあるが、肉がもろく、すっぱりと割れる。Paxillus involutusは形が似るが、傘は褐色。",
+      "notes": "1800年にジェームズ・ソワビーが著書『英国菌類彩色図譜』の図版に基づきAgaricus giganteusとして記載した。1794年のジョン・シブソープを命名者とする資料もある。1934年にロベール・キューネルとルネ・メールがAspropaxillus属の基準種とした。1939年にロルフ・ジンガーがLeucopaxillus属に移したが、2012年の分子系統解析でLeucopaxillus属が自然群でないことが示された後、Aspropaxillus属に戻された。抗菌作用をもつ化合物クリトシンを含み、実験室ではがん細胞に対する作用も研究されている。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532719/vernacularNames",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E3%82%BF%E3%82%B1"
+      ],
+      "label": "オオイチョウタケ"
+    },
+    "ko": {
+      "description": "Aspropaxillus속에 속하는 흰색에서 크림색의 깔때기 모양 대형 버섯으로, 지금도 흔히 Leucopaxillus giganteus라는 이름으로 알려져 있다. 갓은 보통 지름 15–35 cm이며, 촘촘한 주름살이 짧고 굵은 자루로 내려붙는다. 북반구 온대의 풀밭, 공원, 산울타리 옆, 숲속 빈터에 무리 지어 나며 호 모양이나 균륜(요정의 고리)을 이룬다.",
+      "cap": "어릴 때는 상아색이고 둥근 산 모양이며 미세한 우단 모양이고 가장자리는 안쪽으로 말린다. 곧 평평하게 펴졌다가 얕거나 깊은 깔때기 모양이 된다. 오래되면 중앙부터 연한 황갈색을 띠고 동심원 모양의 균열, 작은 비늘 또는 갈색 얼룩이 생길 수 있으며, 가장자리는 물결 모양이 되고 자주 갈라진다. 다 자란 갓은 대부분 15–35 cm이지만, 8 cm부터 약 50 cm까지의 갓이 보고되었다.",
+      "hymenium": "주름살은 좁고 촘촘하며 자루에 내려붙고, 일부는 두 갈래로 갈라진다. 처음에는 상아색이며 오래되면 크림색 또는 연한 황갈색으로 짙어진다.",
+      "stipe": "자루는 갓 크기에 비해 짧고 굵으며, 보통 높이 4–6 cm, 굵기 2–3 cm이다. 크림빛 흰색이었다가 연한 황갈색이 되며, 특히 위쪽에 가는 적갈색 섬유가 있다. 밑동은 뚜렷하게 부풀지 않고 흔히 빽빽한 흰색 균사로 덮여 있다. 턱받이는 없다.",
+      "flesh": "살은 흰색이고 단단하며, 자루에서는 질기지만 완전히 펴진 갓에서는 꽤 부서지기 쉽다. 냄새는 약하고 좋으며 흔히 밀가루 냄새로 묘사된다. 맛은 순하다.",
+      "sporePrint": "흰색. 포자는 타원형이고 매끈하며 무색으로 6–9 × 3.5–5.5 µm이고, 약한 아밀로이드성으로 멜저 시약에서 고르지 않게 청흑색으로 염색된다.",
+      "habitat": "부생균으로 토양의 유기물을 분해한다. 영구 목초지, 공원, 풀이 난 길가, 산울타리 옆, 숲속 빈터와 숲 가장자리에 무리 지어 나며 호 모양이나 완전한 균륜을 이룬다. 늦여름부터 가을에 발생하며, 영국에서는 주로 팔월부터 십일월 초까지 난다. 유럽, 아시아, 북아메리카의 온대에 널리 분포하지만 흔하지는 않다.",
+      "uses": "어린 것은 식용으로 소개되는 경우가 많지만 맛이 평범하고, 먹은 뒤 복통, 설사, 발한을 겪는 사람이 있어 여기서는 주의가 필요한 식용으로 분류한다. 처음에는 적은 양만 시험해 볼 것. 크로아티아에서는 보호종이다.",
+      "confusion": "큰 크기, 흰색 깔때기 모양, 내려붙은 주름살이 특징이다. Infundibulicybe geotropa는 보통 더 작고 자루가 훨씬 길며, Infundibulicybe gibba는 훨씬 작다. 두 종의 포자는 요오드에 염색되지 않는다. Clitocybe nebularis는 갓이 회색빛이고 주로 숲의 낙엽층에 난다. 흰 젖버섯류(Lactifluus, Lactarius)와 무당버섯류(Russula)도 비슷해 보일 수 있지만 살이 잘 부서지고 깨끗하게 쪼개진다. Paxillus involutus는 모양이 비슷하지만 갓이 갈색이다.",
+      "notes": "1800년 제임스 소어비가 저서 『영국 균류 채색 도감』의 도판을 바탕으로 Agaricus giganteus로 기재했으며, 일부 자료는 1794년의 존 십소프를 명명자로 본다. 1934년 로베르 퀴네르와 르네 메르가 이 종을 Aspropaxillus속의 기준종으로 삼았다. 1939년 롤프 징거가 Leucopaxillus속으로 옮겼으나, 2012년 분자 연구에서 Leucopaxillus속이 자연군이 아님이 밝혀진 뒤 Aspropaxillus속으로 되돌려졌다. 항균 활성이 있는 화합물 클리토신을 함유하며, 실험실에서는 암세포에 대한 작용도 연구되었다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.jadam.kr/news/articleView.html?idxno=11629"
+      ],
+      "label": "흰우단버섯"
+    },
+    "lt": {
+      "description": "Labai didelis baltas ar kreminis piltuvo formos grybas iš Aspropaxillus genties, vis dar dažnai vadinamas Leucopaxillus giganteus. Kepurėlė paprastai 15–35 cm skersmens, o tankios lakštelės nusileidžia trumpu, storu kotu. Auga grupėmis, lankais arba raganų ratais pievose, parkuose, prie gyvatvorių ir miško aikštelėse šiaurės pusrutulio vidutinio klimato juostoje.",
+      "cap": "Jauna dramblio kaulo baltumo, išgaubta ir smulkiai aksominė, užsirietusiu kraštu, netrukus išsiploja ir tampa negiliu ar giliu piltuvu. Senstant nuo vidurio gelsvai paruduoja, gali atsirasti apskritų įtrūkimų, smulkių žvynelių ar rudų dėmių; kraštas tampa banguotas ir dažnai įtrūksta. Dauguma subrendusių kepurėlių yra 15–35 cm, tačiau nurodomos kepurėlės nuo 8 cm iki maždaug 50 cm.",
+      "hymenium": "Lakštelės siauros, tankios ir nubėgančios kotu, kai kurios šakotos. Iš pradžių dramblio kaulo baltumo, senstant patamsėja iki kreminių ar gelsvai rudų.",
+      "stipe": "Kotas, palyginti su kepurėle, trumpas ir storas, paprastai 4–6 cm aukščio ir 2–3 cm storio. Jis kreminės baltos spalvos, vėliau gelsvai rudas, su smulkiais rausvai rudais plaušeliais ypač viršutinėje dalyje. Pagrindas nėra ryškiai gumbuotas ir dažnai apaugęs tankia balta grybiena. Žiedo nėra.",
+      "flesh": "Trama balta ir tvirta, kote kieta, bet visiškai išsiskleidusiose kepurėlėse gana trapi. Kvapas silpnas ir malonus, dažnai apibūdinamas kaip miltų; skonis švelnus.",
+      "sporePrint": "Baltos. Sporos elipsoidinės, lygios ir bespalvės, 6–9 × 3,5–5,5 µm, silpnai amiloidinės, Melzerio reagente nusidažo netolygiai melsvai juodai.",
+      "habitat": "Saprotrofas, skaidantis dirvožemio organines medžiagas. Auga būriais, lankais arba ištisais raganų ratais daugiametėse ganyklose, parkuose ir žolėtose pakelėse, prie gyvatvorių, miško aikštelėse ir pakraščiuose. Vaisiakūnius sudaro nuo vasaros pabaigos iki rudens, Didžiojoje Britanijoje daugiausia nuo rugpjūčio iki lapkričio pradžios. Plačiai paplitęs, bet nedažnas vidutinio klimato Europoje, Azijoje ir Šiaurės Amerikoje.",
+      "uses": "Dažnai nurodomas kaip valgomas jaunas, tačiau jo skonis vidutiniškas, o kai kuriems žmonėms suvalgius skauda pilvą, prasideda viduriavimas ir prakaitavimas, todėl čia jis priskiriamas valgomiems atsargiai. Pirmą kartą paragaukite tik nedidelį kiekį. Kroatijoje tai saugoma rūšis.",
+      "confusion": "Būdingi jo dideli matmenys, balta piltuvo forma ir nubėgančios lakštelės. Infundibulicybe geotropa paprastai mažesnė ir turi daug aukštesnį kotą, o Infundibulicybe gibba daug mažesnė; abiejų sporos jodu nenusidažo. Clitocybe nebularis turi pilkšvą kepurėlę ir auga daugiausia miško paklotėje. Baltosios piengrybės (Lactifluus, Lactarius) ir ūmėdės (Russula) gali atrodyti panašiai, tačiau jų trama trapi ir lūžta lygiai. Paxillus involutus panašios formos, bet su ruda kepurėle.",
+      "notes": "1800 m. jį aprašė James Sowerby kaip Agaricus giganteus pagal lentelę savo veikale Coloured Figures of English Fungi; kai kurie šaltiniai autoriumi nurodo John Sibthorp 1794 m. Robert Kühner ir René Maire 1934 m. jį paskyrė Aspropaxillus genties tipine rūšimi. Rolf Singer 1939 m. perkėlė jį į Leucopaxillus, tačiau 2012 m. molekuliniams tyrimams parodžius, kad Leucopaxillus nėra natūrali grupė, jis grąžintas į Aspropaxillus. Jame yra klitocino, junginio, pasižyminčio antibakteriniu poveikiu, kuris laboratorijoje tirtas ir prieš vėžines ląsteles.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://lt.wikipedia.org/wiki/Did%C5%BEioji_me%C5%A1kabud%C4%97"
+      ],
+      "label": "didžioji meškabudė"
+    },
+    "lv": {
+      "description": "Ļoti liela, balta līdz krēmkrāsas piltuvveida sēne no Aspropaxillus ģints, ko joprojām bieži sauc par Leucopaxillus giganteus. Cepurīte parasti ir 15–35 cm plata, un blīvās lapiņas nolaižas uz īsa, resna kātiņa. Aug grupās, lokos vai raganu riņķos pļavās, parkos, pie dzīvžogiem un meža laucēs ziemeļu puslodes mērenajā joslā.",
+      "cap": "Jauna ziloņkaula balta, izliekta un smalki samtaina ar ieritinātu malu, drīz kļūst plakana un pēc tam sekla līdz dziļa piltuve. Ar vecumu no vidus kļūst iedzeltenbrūna, un uz tās var parādīties apļveida plaisas, sīkas zvīņas vai brūni plankumi; mala kļūst viļņaina un bieži plīst. Lielākā daļa pieaugušu cepurīšu ir 15–35 cm platas, taču ziņots par cepurītēm no 8 cm līdz aptuveni 50 cm.",
+      "hymenium": "Lapiņas ir šauras, blīvas un nolaidenas uz kātiņa, dažas dakšveidīgi zarotas. Sākumā tās ir ziloņkaula baltas, ar vecumu kļūst krēmkrāsas vai iedzeltenbrūnas.",
+      "stipe": "Kātiņš attiecībā pret cepurīti ir īss un resns, parasti 4–6 cm augsts un 2–3 cm resns. Tas ir krēmbalts, vēlāk iedzeltenbrūns, ar smalkām sarkanbrūnām šķiedrām īpaši augšdaļā. Pamatne nav izteikti gumveida un bieži klāta ar blīvu baltu micēliju. Gredzena nav.",
+      "flesh": "Mīkstums ir balts un stingrs, kātiņā sīksts, bet pilnīgi atvērtās cepurītēs diezgan trausls. Smarža ir vāja un patīkama, bieži raksturota kā miltaina; garša ir maiga.",
+      "sporePrint": "Balts. Sporas ir elipsoīdas, gludas un bezkrāsainas, 6–9 × 3,5–5,5 µm, vāji amiloīdas, Melcera reaģentā krāsojas nevienmērīgi zilganmelnas.",
+      "habitat": "Saprotrofs, kas noārda augsnes organiskās vielas. Aug pulciņos, lokos vai pilnos raganu riņķos ilggadīgās ganībās, parkos un zālainās ceļmalās, pie dzīvžogiem un meža laucēs un malās. Augļķermeņus veido no vasaras beigām līdz rudenim, Lielbritānijā galvenokārt no augusta līdz novembra sākumam. Plaši izplatīta, bet nebieža Eiropas, Āzijas un Ziemeļamerikas mērenajā joslā.",
+      "uses": "Bieži minēta kā ēdama jaunībā, taču tās garša ir viduvēja, un dažiem cilvēkiem pēc tās ēšanas radušās sāpes vēderā, caureja un svīšana, tāpēc šeit tā klasificēta kā ēdama ar piesardzību. Sākumā izmēģiniet tikai nelielu daudzumu. Horvātijā tā ir aizsargājama suga.",
+      "confusion": "Raksturīgs ir lielais izmērs, baltā piltuves forma un nolaidenās lapiņas. Infundibulicybe geotropa parasti ir mazāka, ar daudz augstāku kātiņu, un Infundibulicybe gibba ir daudz mazāka; abu sporas jodā nekrāsojas. Clitocybe nebularis ir pelēcīga cepurīte, un tā aug galvenokārt meža nobirās. Baltās krūmenes (Lactifluus, Lactarius) un bērzlapes (Russula) var izskatīties līdzīgi, taču to mīkstums ir trausls un lūst gludi. Paxillus involutus ir līdzīgas formas, bet ar brūnu cepurīti.",
+      "notes": "Latvijā 2007. gadā bija gada sēne. Aprakstīja 1800. gadā James Sowerby kā Agaricus giganteus pēc tāfeles savā darbā Coloured Figures of English Fungi; daži avoti autorību piedēvē John Sibthorp 1794. gadā. Robert Kühner un René Maire 1934. gadā padarīja to par Aspropaxillus ģints tipa sugu. Rolf Singer 1939. gadā pārcēla to uz Leucopaxillus, taču pēc tam, kad molekulārie pētījumi 2012. gadā parādīja, ka Leucopaxillus nav dabiska grupa, tā atgriezta Aspropaxillus ģintī. Satur klitocīnu, savienojumu ar antibakteriālu iedarbību, kas laboratorijā pētīts arī pret vēža šūnām.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://www.latvijasdaba.lv/senes/leucopaxillus-giganteus-sibthorp-fr-singer/",
+        "https://en.wikipedia.org/wiki/Fungus_of_the_Year_in_Latvia"
+      ],
+      "label": "milzu baltmietene"
+    },
+    "nl": {
+      "description": "Een zeer grote, witte tot crèmekleurige, trechtervormige paddenstoel uit het geslacht Aspropaxillus, die nog vaak als Leucopaxillus giganteus wordt vermeld. De hoed is meestal 15–35 cm breed, met dicht opeenstaande plaatjes die aflopen op een korte, stevige steel. Hij groeit in groepen, bogen of heksenkringen in grasland, parken, langs heggen en op open plekken in bossen in het gematigde noordelijk halfrond.",
+      "cap": "Jong ivoorwit, gewelfd en fijn fluweelachtig met een ingerolde rand, al snel afvlakkend en wordend tot een ondiepe tot diepe trechter. Met de leeftijd wordt hij vanuit het midden lichtbruin en kan hij cirkelvormige barsten, kleine schubjes of bruine vlekken krijgen; de rand wordt golvend en scheurt vaak in. De meeste volwassen hoeden zijn 15–35 cm breed, maar hoeden van 8 cm tot ongeveer 50 cm zijn gemeld.",
+      "hymenium": "De plaatjes zijn smal, dicht opeen en aflopend op de steel, sommige gevorkt. Ze zijn eerst ivoorwit en worden met de leeftijd crème tot lichtbruin.",
+      "stipe": "De steel is kort en stevig voor de grootte van de hoed, meestal 4–6 cm hoog en 2–3 cm dik. Hij is crèmewit, later lichtbruin, met fijne roodbruine vezels vooral bij de top. De voet is niet duidelijk knollig en draagt vaak dicht wit mycelium. Een ring ontbreekt.",
+      "flesh": "Het vlees is wit en stevig, taai in de steel maar vrij breekbaar in volledig uitgespreide hoeden. De geur is zwak en aangenaam, vaak als melig beschreven; de smaak is zacht.",
+      "sporePrint": "Wit. De sporen zijn ellipsoïde, glad en kleurloos, 6–9 × 3,5–5,5 µm, zwak amyloïde en kleuren ongelijkmatig blauwzwart in het reagens van Melzer.",
+      "habitat": "Saprotroof, breekt organisch materiaal in de bodem af. Hij groeit in troepen, bogen of volledige heksenkringen in blijvend grasland, parken en grazige bermen, langs heggen en op open plekken en randen van bossen. Hij vormt vruchtlichamen van de late zomer tot de herfst, in Groot-Brittannië vooral van augustus tot begin november. Hij is wijdverbreid maar niet algemeen in gematigd Europa, Azië en Noord-Amerika.",
+      "uses": "Vaak als eetbaar beschreven wanneer hij jong is, maar de smaak is middelmatig en sommige mensen krijgen na het eten maagpijn, diarree en zweetaanvallen; daarom wordt hij hier als met voorzichtigheid eetbaar ingedeeld. Probeer eerst slechts een kleine hoeveelheid. In Kroatië is het een beschermde soort.",
+      "confusion": "Zijn grootte, witte trechtervorm en aflopende plaatjes zijn kenmerkend. Infundibulicybe geotropa is meestal kleiner en heeft een veel hogere steel, en Infundibulicybe gibba is veel kleiner; de sporen van beide kleuren niet met jodium. Clitocybe nebularis heeft een grijzige hoed en groeit vooral in bosstrooisel. Witte melkzwammen (Lactifluus, Lactarius) en russula's (Russula) kunnen erop lijken, maar hun vlees is bros en breekt glad af. Paxillus involutus heeft een vergelijkbare vorm maar een bruine hoed.",
+      "notes": "In 1800 door James Sowerby beschreven als Agaricus giganteus naar een plaat in zijn Coloured Figures of English Fungi; sommige bronnen noemen John Sibthorp in 1794 als auteur. Robert Kühner en René Maire maakten hem in 1934 tot typesoort van het geslacht Aspropaxillus. Rolf Singer plaatste hem in 1939 in Leucopaxillus, maar nadat moleculair onderzoek in 2012 had aangetoond dat Leucopaxillus geen natuurlijke groep was, keerde hij terug naar Aspropaxillus. Hij bevat clitocine, een stof met antibacteriële werking die in het laboratorium ook op kankercellen is onderzocht.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532719/vernacularNames",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "reuzendikhoed"
+    },
+    "no": {
+      "description": "En svært stor, hvit til kremfarget, traktformet sopp i slekten Aspropaxillus, som fortsatt ofte omtales som Leucopaxillus giganteus. Hatten er som regel 15–35 cm bred, med tette skiver som løper ned på en kort, kraftig stilk. Den vokser i grupper, buer eller heksesirkler i gressmark, parker, ved hekker og i skoglysninger på den tempererte nordlige halvkule.",
+      "cap": "Ung elfenbenshvit, hvelvet og fint fløyelsaktig med innrullet kant, snart utflatet og deretter en grunn til dyp trakt. Med alderen blir den lærfarget fra midten og kan få sirkelformede sprekker, små skjell eller brune flekker; kanten blir bølget og sprekker ofte. De fleste voksne hatter er 15–35 cm brede, men hatter fra 8 cm til omkring 50 cm er rapportert.",
+      "hymenium": "Skivene er smale, tette og nedløpende på stilken, og noen er gaffeldelte. De er først elfenbenshvite og mørkner med alderen til krem- eller lærfargede.",
+      "stipe": "Stilken er kort og kraftig i forhold til hatten, som regel 4–6 cm høy og 2–3 cm tykk. Den er kremhvit, senere lærfarget, med fine rødbrune fibrer særlig øverst. Basis er ikke tydelig knollet og har ofte tett hvitt mycel. Ring mangler.",
+      "flesh": "Kjøttet er hvitt og fast, seigt i stilken, men ganske skjørt i helt utbredte hatter. Lukten er svak og behagelig, ofte beskrevet som melaktig; smaken er mild.",
+      "sporePrint": "Hvitt. Sporene er ellipsoide, glatte og fargeløse, 6–9 × 3,5–5,5 µm, svakt amyloide og farges ujevnt blåsvarte i Melzers reagens.",
+      "habitat": "Saprotrof som bryter ned organisk materiale i jorda. Den vokser i flokker, buer eller hele heksesirkler på permanent beitemark, i parker og på gressdekte veikanter, ved hekker og i skoglysninger og skogkanter. Den danner fruktlegemer fra sensommeren til høsten, i Storbritannia hovedsakelig fra august til begynnelsen av november. Den er utbredt, men ikke vanlig i det tempererte Europa, Asia og Nord-Amerika.",
+      "uses": "Den beskrives ofte som spiselig når den er ung, men smaken er middelmådig, og noen får magesmerter, diaré og svetting etter å ha spist den; derfor regnes den her som spiselig med forsiktighet. Prøv først bare en liten mengde. I Kroatia er den en fredet art.",
+      "confusion": "Den store størrelsen, den hvite traktformen og de nedløpende skivene er karakteristiske. Infundibulicybe geotropa er som regel mindre og har en mye høyere stilk, og Infundibulicybe gibba er mye mindre; sporene hos begge farges ikke av jod. Clitocybe nebularis har gråaktig hatt og vokser mest i strøet i skogbunnen. Hvite risker (Lactifluus, Lactarius) og kremler (Russula) kan ligne, men kjøttet deres er sprøtt og brekker rent. Paxillus involutus har lignende form, men brun hatt.",
+      "notes": "Beskrevet i 1800 av James Sowerby som Agaricus giganteus etter en plansje i hans Coloured Figures of English Fungi; noen kilder krediterer John Sibthorp i 1794. Robert Kühner og René Maire gjorde den i 1934 til typeart for slekten Aspropaxillus. Rolf Singer flyttet den til Leucopaxillus i 1939, men etter at molekylære studier i 2012 viste at Leucopaxillus ikke var en naturlig gruppe, ble den ført tilbake til Aspropaxillus. Den inneholder klitocin, et stoff med antibakteriell virkning som også er undersøkt mot kreftceller i laboratoriet.",
+      "names": [
+        "kjempetrektmusserong"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "kjempetraktmusserong"
+    },
+    "pl": {
+      "description": "Bardzo duży, biały do kremowego grzyb o lejkowatym kształcie z rodzaju Aspropaxillus, nadal często podawany jako Leucopaxillus giganteus. Kapelusz ma zwykle 15–35 cm średnicy, a gęste blaszki zbiegają na krótki, gruby trzon. Rośnie w grupach, łukach lub czarcich kręgach na łąkach, w parkach, przy żywopłotach i na leśnych polanach w strefie umiarkowanej półkuli północnej.",
+      "cap": "U młodych owocników kością słoniowej biały, wypukły i delikatnie aksamitny z podwiniętym brzegiem, szybko się spłaszcza i staje się płytkim do głębokiego lejkiem. Z wiekiem od środka płowieje i może mieć koliste spękania, drobne łuseczki lub brązowe plamy; brzeg robi się falisty i często pęka. Większość dojrzałych kapeluszy ma 15–35 cm, notowano jednak kapelusze od 8 cm do około 50 cm.",
+      "hymenium": "Blaszki są wąskie, gęste i zbiegające na trzon, niektóre rozwidlone. Początkowo kością słoniowej białe, z wiekiem ciemnieją do kremowych lub płowych.",
+      "stipe": "Trzon jest krótki i gruby w stosunku do kapelusza, zwykle 4–6 cm wysokości i 2–3 cm grubości. Jest kremowobiały, później płowy, z delikatnymi czerwonobrązowymi włókienkami zwłaszcza przy wierzchołku. Podstawa nie jest wyraźnie bulwiasta i często pokrywa ją gęsta biała grzybnia. Pierścienia brak.",
+      "flesh": "Miąższ jest biały i jędrny, w trzonie twardy, w całkowicie rozpostartych kapeluszach dość kruchy. Zapach słaby i przyjemny, często opisywany jako mączny; smak łagodny.",
+      "sporePrint": "Biały. Zarodniki elipsoidalne, gładkie i bezbarwne, 6–9 × 3,5–5,5 µm, słabo amyloidalne, w odczynniku Melzera barwią się nierównomiernie na niebieskoczarno.",
+      "habitat": "Saprotrof, rozkłada materię organiczną w glebie. Rośnie gromadnie, w łukach lub pełnych czarcich kręgach na trwałych pastwiskach, w parkach, na trawiastych poboczach dróg, przy żywopłotach oraz na leśnych polanach i skrajach lasów. Owocniki wytwarza od późnego lata do jesieni, w Wielkiej Brytanii głównie od sierpnia do początku listopada. Jest szeroko rozprzestrzeniony, ale nieczęsty w strefie umiarkowanej Europy, Azji i Ameryki Północnej.",
+      "uses": "Często opisywany jako jadalny w młodości, ale jego smak jest przeciętny, a niektóre osoby po spożyciu mają bóle brzucha, biegunkę i poty, dlatego traktujemy go tu jako jadalny z zachowaniem ostrożności. Na początek warto spróbować tylko niewielkiej ilości. W Chorwacji jest gatunkiem chronionym.",
+      "confusion": "Charakterystyczne są jego rozmiary, biały lejkowaty kształt i zbiegające blaszki. Infundibulicybe geotropa jest zwykle mniejsza i ma znacznie wyższy trzon, a Infundibulicybe gibba jest dużo mniejsza; zarodniki obu nie barwią się jodem. Clitocybe nebularis ma szarawy kapelusz i rośnie głównie w ściółce leśnej. Białe mleczaje (Lactifluus, Lactarius) i gołąbki (Russula) mogą wyglądać podobnie, ale ich miąższ jest kruchy i łamie się gładko. Paxillus involutus ma podobny kształt, ale brązowy kapelusz.",
+      "notes": "Opisał go w 1800 roku James Sowerby jako Agaricus giganteus na podstawie tablicy w dziele Coloured Figures of English Fungi; niektóre źródła przypisują autorstwo Johnowi Sibthorpowi w 1794 roku. Robert Kühner i René Maire uczynili go w 1934 roku gatunkiem typowym rodzaju Aspropaxillus. Rolf Singer przeniósł go w 1939 roku do rodzaju Leucopaxillus, ale po badaniach molekularnych z 2012 roku, które wykazały, że Leucopaxillus nie jest grupą naturalną, wrócił do rodzaju Aspropaxillus. Zawiera klitocynę, związek o działaniu przeciwbakteryjnym, badany w laboratorium również pod kątem działania na komórki nowotworowe.",
+      "names": [
+        "białokrowiak okazały"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/G%C5%82adkokrowiak_okaza%C5%82y",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "gładkokrowiak okazały"
+    },
+    "pt": {
+      "description": "Um cogumelo muito grande, branco a creme e em forma de funil, do género Aspropaxillus, ainda muitas vezes referido como Leucopaxillus giganteus. O chapéu mede geralmente 15–35 cm e tem lâminas apertadas que descem por um pé curto e robusto. Cresce em grupos, arcos ou círculos de fadas em prados, parques, sebes e clareiras de bosques das regiões temperadas do hemisfério norte.",
+      "cap": "Quando jovem é branco-marfim, convexo e finamente aveludado, com a margem enrolada; depressa se aplana e forma um funil pouco ou muito profundo. Com a idade fica camurça a partir do centro e pode apresentar fendas circulares, pequenas escamas ou manchas castanhas; a margem torna-se ondulada e fende-se muitas vezes. A maioria dos chapéus maduros mede 15–35 cm, mas foram registados chapéus de 8 cm até cerca de 50 cm.",
+      "hymenium": "As lâminas são estreitas, apertadas e decorrentes, descendo pelo pé, e algumas são bifurcadas. São inicialmente branco-marfim e escurecem para creme ou camurça com a idade.",
+      "stipe": "O pé é curto e robusto para o tamanho do chapéu, normalmente com 4–6 cm de altura e 2–3 cm de espessura. É branco-creme, depois camurça, com finas fibrilhas castanho-avermelhadas sobretudo junto ao topo. A base não é nitidamente bulbosa e tem muitas vezes um micélio branco denso. Não tem anel.",
+      "flesh": "A carne é branca e firme, rija no pé mas bastante frágil nos chapéus totalmente abertos. O cheiro é fraco e agradável, muitas vezes descrito como farinhento; o sabor é suave.",
+      "sporePrint": "Branca. Os esporos são elipsoides, lisos e incolores, 6–9 × 3,5–5,5 µm, fracamente amiloides, corando irregularmente de negro-azulado no reagente de Melzer.",
+      "habitat": "Saprotrófico, decompõe matéria orgânica do solo. Cresce em grupos numerosos, arcos ou círculos de fadas completos em pastagens permanentes, parques e bermas relvadas, junto a sebes e em clareiras e orlas de bosques. Frutifica do fim do verão ao outono, na Grã-Bretanha sobretudo de agosto ao início de novembro. Está amplamente distribuído mas é pouco comum nas regiões temperadas da Europa, da Ásia e da América do Norte.",
+      "uses": "É muitas vezes descrito como comestível quando jovem, mas o sabor é medíocre e algumas pessoas sofrem dores de estômago, diarreia e suores depois de o comer, por isso é aqui classificado como comestível com cautela. Prove primeiro apenas uma pequena quantidade. Na Croácia é uma espécie protegida.",
+      "confusion": "O grande tamanho, a forma de funil branco e as lâminas decorrentes são característicos. Infundibulicybe geotropa é geralmente mais pequeno e tem um pé muito mais alto, e Infundibulicybe gibba é muito mais pequeno; os esporos de ambos não coram com iodo. Clitocybe nebularis tem o chapéu acinzentado e cresce sobretudo na manta morta dos bosques. Os lactários brancos (Lactifluus, Lactarius) e as rússulas (Russula) podem parecer semelhantes, mas a sua carne é quebradiça e parte-se de forma limpa. Paxillus involutus tem uma forma semelhante mas o chapéu castanho.",
+      "notes": "Descrito em 1800 por James Sowerby como Agaricus giganteus a partir de uma estampa da sua obra Coloured Figures of English Fungi; algumas fontes atribuem a autoria a John Sibthorp em 1794. Robert Kühner e René Maire fizeram dele em 1934 a espécie-tipo do género Aspropaxillus. Rolf Singer transferiu-o para Leucopaxillus em 1939, mas depois de estudos moleculares de 2012 mostrarem que Leucopaxillus não era um grupo natural, regressou a Aspropaxillus. Contém clitocina, um composto com atividade antibacteriana que também foi estudado em laboratório contra células cancerosas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă foarte mare, albă până la crem, în formă de pâlnie, din genul Aspropaxillus, încă des numită Leucopaxillus giganteus. Pălăria măsoară de obicei 15–35 cm, cu lamele dese care coboară pe un picior scurt și gros. Crește în grupuri, arcuri sau cercuri ale vrăjitoarelor în pajiști, parcuri, de-a lungul gardurilor vii și în luminișuri de pădure din zona temperată a emisferei nordice.",
+      "cap": "Tânără este alb-fildeș, convexă și fin catifelată, cu marginea răsucită; curând se aplatizează și devine o pâlnie puțin sau foarte adâncă. Cu vârsta devine bej-gălbuie dinspre centru și poate prezenta crăpături circulare, solzișori sau pete brune; marginea devine ondulată și adesea crapă. Majoritatea pălăriilor mature au 15–35 cm, dar au fost semnalate pălării de la 8 cm până la circa 50 cm.",
+      "hymenium": "Lamelele sunt înguste, dese și decurente pe picior, unele bifurcate. La început sunt alb-fildeș, iar cu vârsta se închid la crem sau bej-gălbui.",
+      "stipe": "Piciorul este scurt și gros față de mărimea pălăriei, de obicei înalt de 4–6 cm și gros de 2–3 cm. Este alb-crem, apoi bej-gălbui, cu fibrile fine brun-roșcate mai ales spre vârf. Baza nu este evident bulboasă și poartă adesea un miceliu alb dens. Nu are inel.",
+      "flesh": "Carnea este albă și fermă, tenace în picior, dar destul de fragilă în pălăriile complet deschise. Mirosul este slab și plăcut, adesea descris ca de făină; gustul este blând.",
+      "sporePrint": "Albă. Sporii sunt elipsoidali, netezi și incolori, 6–9 × 3,5–5,5 µm, slab amiloizi, colorându-se neuniform în negru-albăstrui în reactivul Melzer.",
+      "habitat": "Saprotrofă, descompune materia organică din sol. Crește în cete, arcuri sau cercuri ale vrăjitoarelor complete în pășuni permanente, parcuri și margini înierbate de drum, lângă garduri vii și în luminișuri și liziere de pădure. Fructifică de la sfârșitul verii până toamna, în Marea Britanie mai ales din august până la începutul lui noiembrie. Este răspândită, dar nu comună în regiunile temperate din Europa, Asia și America de Nord.",
+      "uses": "Este adesea descrisă ca fiind comestibilă când e tânără, dar gustul este mediocru, iar unele persoane suferă de dureri de stomac, diaree și transpirații după consum, de aceea aici este clasificată drept comestibilă cu precauție. Încercați la început doar o cantitate mică. În Croația este o specie protejată.",
+      "confusion": "Mărimea mare, forma de pâlnie albă și lamelele decurente sunt caracteristice. Infundibulicybe geotropa este de obicei mai mică și are un picior mult mai înalt, iar Infundibulicybe gibba este mult mai mică; sporii ambelor nu se colorează cu iod. Clitocybe nebularis are pălăria cenușie și crește mai ales în litiera pădurii. Lăptucile albe (Lactifluus, Lactarius) și pâinișoarele (Russula) pot semăna, dar carnea lor este casantă și se rupe net. Paxillus involutus are o formă asemănătoare, dar pălăria brună.",
+      "notes": "Descrisă în 1800 de James Sowerby ca Agaricus giganteus după o planșă din lucrarea sa Coloured Figures of English Fungi; unele surse o atribuie lui John Sibthorp în 1794. Robert Kühner și René Maire au făcut-o în 1934 specia tip a genului Aspropaxillus. Rolf Singer a mutat-o în Leucopaxillus în 1939, dar după ce studii moleculare din 2012 au arătat că Leucopaxillus nu este un grup natural, a revenit în Aspropaxillus. Conține clitocină, un compus cu activitate antibacteriană studiat în laborator și împotriva celulelor canceroase.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Очень крупный белый или кремовый воронковидный гриб из рода Aspropaxillus, который до сих пор часто называют Leucopaxillus giganteus. Шляпка обычно 15–35 cm в диаметре, частые пластинки нисходят на короткую толстую ножку. Растёт группами, дугами или «ведьмиными кольцами» на лугах, в парках, у живых изгородей и на лесных полянах умеренной зоны Северного полушария.",
+      "cap": "В молодости цвета слоновой кости, выпуклая и тонкобархатистая, с подвёрнутым краем; вскоре распластывается и становится мелкой или глубокой воронкой. С возрастом от центра буреет до палевого цвета, на ней могут появляться концентрические трещины, мелкие чешуйки или бурые пятна; край становится волнистым и часто растрескивается. Большинство зрелых шляпок имеют 15–35 cm, но отмечены шляпки от 8 cm до примерно 50 cm.",
+      "hymenium": "Пластинки узкие, частые, нисходящие на ножку, некоторые вильчатые. Сначала цвета слоновой кости, с возрастом темнеют до кремовых или палевых.",
+      "stipe": "Ножка короткая и толстая для такой шляпки, обычно 4–6 cm высотой и 2–3 cm толщиной. Она кремово-белая, позднее палевая, с тонкими красновато-бурыми волокнами, особенно у вершины. Основание не заметно клубневидное и часто покрыто густым белым мицелием. Кольца нет.",
+      "flesh": "Мякоть белая и плотная, в ножке жёсткая, а в полностью раскрытых шляпках довольно ломкая. Запах слабый и приятный, часто описывается как мучной; вкус мягкий.",
+      "sporePrint": "Белый. Споры эллипсоидные, гладкие и бесцветные, 6–9 × 3,5–5,5 µm, слабо амилоидные, в реактиве Мельцера окрашиваются неравномерно в сине-чёрный цвет.",
+      "habitat": "Сапротроф, разлагающий органическое вещество в почве. Растёт группами, дугами или замкнутыми «ведьмиными кольцами» на многолетних пастбищах, в парках и на травянистых обочинах дорог, у живых изгородей, на лесных полянах и опушках. Плодовые тела образует с конца лета до осени, в Великобритании в основном с августа до начала ноября. Широко распространён, но нечаст в умеренной зоне Европы, Азии и Северной Америки.",
+      "uses": "Часто описывается как съедобный в молодом возрасте, но вкус у него посредственный, а у некоторых людей после употребления возникают боли в животе, диарея и потливость, поэтому здесь он отнесён к съедобным с осторожностью. Сначала попробуйте лишь небольшое количество. В Хорватии это охраняемый вид.",
+      "confusion": "Характерны крупный размер, белая воронковидная форма и нисходящие пластинки. Infundibulicybe geotropa обычно мельче и имеет гораздо более высокую ножку, а Infundibulicybe gibba значительно мельче; споры обеих не окрашиваются йодом. У Clitocybe nebularis сероватая шляпка, и растёт она в основном в лесной подстилке. Белые млечники (Lactifluus, Lactarius) и сыроежки (Russula) могут быть похожи, но их мякоть хрупкая и ломается ровно. Paxillus involutus похож по форме, но имеет бурую шляпку.",
+      "notes": "Описан в 1800 году Джеймсом Соуэрби как Agaricus giganteus по таблице из его труда «Цветные изображения английских грибов»; некоторые источники приписывают авторство Джону Сибторпу в 1794 году. Робер Кюнер и Рене Мэр в 1934 году сделали его типовым видом рода Aspropaxillus. Рольф Зингер в 1939 году перенёс его в род Leucopaxillus, но после того как молекулярные исследования 2012 года показали, что Leucopaxillus не является естественной группой, вид вернули в род Aspropaxillus. Содержит клитоцин — соединение с антибактериальной активностью, которое в лаборатории изучали также против раковых клеток.",
+      "names": [
+        "свинуха гигантская"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%88%D0%BA%D0%B0_%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "говорушка гигантская"
+    },
+    "sk": {
+      "description": "Veľmi veľká biela až krémová huba lievikovitého tvaru z rodu Aspropaxillus, dodnes často uvádzaná ako Leucopaxillus giganteus. Klobúk má zvyčajne 15–35 cm v priemere a husté lupene zbiehajú na krátky, hrubý hlúbik. Rastie v skupinách, oblúkoch alebo čarodejníckych kruhoch na lúkach, v parkoch, pri živých plotoch a na lesných čistinách v miernom pásme severnej pologule.",
+      "cap": "V mladosti slonovinovo biely, vyklenutý a jemne zamatový s podvinutým okrajom, čoskoro sa splošťuje a mení na plytký až hlboký lievik. Vekom od stredu žltohnedne a môžu sa na ňom objaviť kruhovité praskliny, drobné šupinky alebo hnedé škvrny; okraj sa zvlní a často trhá. Väčšina dospelých klobúkov má 15–35 cm, uvádzajú sa však klobúky od 8 cm až do asi 50 cm.",
+      "hymenium": "Lupene sú úzke, husté a zbiehavé na hlúbik, niektoré sú rozvidlené. Najprv sú slonovinovo biele, vekom tmavnú do krémova až žltohneda.",
+      "stipe": "Hlúbik je na veľkosť klobúka krátky a hrubý, zvyčajne 4–6 cm vysoký a 2–3 cm hrubý. Je krémovo biely, neskôr žltohnedý, s jemnými červenohnedými vláknami najmä pri vrchole. Báza nie je výrazne hľuzovitá a často nesie husté biele podhubie. Prsteň chýba.",
+      "flesh": "Dužina je biela a pevná, v hlúbiku húževnatá, v úplne roztiahnutých klobúkoch dosť krehká. Vôňa je slabá a príjemná, často opisovaná ako múčna; chuť je mierna.",
+      "sporePrint": "Biely. Spóry sú elipsoidné, hladké a bezfarebné, 6–9 × 3,5–5,5 µm, slabo amyloidné, v Melzerovom činidle sa farbia nerovnomerne modročierno.",
+      "habitat": "Saprotrof, rozkladá organickú hmotu v pôde. Rastie v zástupoch, oblúkoch alebo úplných čarodejníckych kruhoch na trvalých pasienkoch, v parkoch, na trávnatých okrajoch ciest, pri živých plotoch a na lesných čistinách a okrajoch. Plodnice tvorí od konca leta do jesene, v Británii hlavne od augusta do začiatku novembra. Je rozšírený, ale nehojný v miernom pásme Európy, Ázie a Severnej Ameriky.",
+      "uses": "Často sa uvádza ako jedlý v mladosti, chuť je však priemerná a niektorí ľudia mávajú po jeho požití bolesti brucha, hnačku a potenie, preto ho tu vedieme ako jedlý s opatrnosťou. Najprv vyskúšajte len malé množstvo. V Chorvátsku je chráneným druhom.",
+      "confusion": "Typická je jeho veľkosť, biely lievikovitý tvar a zbiehavé lupene. Infundibulicybe geotropa je zvyčajne menšia a má oveľa vyšší hlúbik, Infundibulicybe gibba je oveľa menšia; spóry oboch sa jódom nefarbia. Clitocybe nebularis má sivastý klobúk a rastie hlavne v lesnej hrabanke. Biele rýdziky (Lactifluus, Lactarius) a plávky (Russula) môžu vyzerať podobne, ich dužina je však krehká a čisto sa láme. Paxillus involutus má podobný tvar, ale hnedý klobúk.",
+      "notes": "Opísal ho v roku 1800 James Sowerby ako Agaricus giganteus podľa tabule vo svojom diele Coloured Figures of English Fungi; niektoré zdroje pripisujú autorstvo Johnovi Sibthorpovi z roku 1794. Robert Kühner a René Maire z neho v roku 1934 urobili typ rodu Aspropaxillus. Rolf Singer ho v roku 1939 presunul do rodu Leucopaxillus, no po molekulárnej štúdii z roku 2012, ktorá ukázala, že Leucopaxillus nie je prirodzenou skupinou, sa vrátil do rodu Aspropaxillus. Obsahuje klitocín, látku s antibakteriálnym účinkom, ktorá sa v laboratóriu skúmala aj proti nádorovým bunkám.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Leucopaxillus-giganteus/cechratec-obrovsky/belocechratka-obrovska/ID23",
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "čechratec obrovský"
+    },
+    "sl": {
+      "description": "Zelo velika bela do kremna goba lijakaste oblike iz rodu Aspropaxillus, ki jo še danes pogosto navajajo kot Leucopaxillus giganteus. Klobuk meri običajno 15–35 cm, gosti lističi pa se spuščajo po kratkem, debelem betu. Raste v skupinah, lokih ali čarovniških krogih na travnikih, v parkih, ob živih mejah in na gozdnih jasah zmernega pasu severne poloble.",
+      "cap": "Mlad je slonokoščeno bel, izbočen in drobno žametast s podvihanim robom, kmalu se zravna in postane plitev do globok lijak. S starostjo od sredine porumeni do usnjeno rjave barve in lahko dobi krožne razpoke, drobne luskice ali rjave madeže; rob postane valovit in pogosto poka. Večina odraslih klobukov meri 15–35 cm, poročali pa so o klobukih od 8 cm do približno 50 cm.",
+      "hymenium": "Lističi so ozki, gosti in se spuščajo po betu, nekateri so razcepljeni. Sprva so slonokoščeno beli, s starostjo potemnijo do kremne ali usnjeno rjave barve.",
+      "stipe": "Bet je glede na velikost klobuka kratek in debel, običajno visok 4–6 cm in debel 2–3 cm. Je kremno bel, pozneje usnjeno rjav, z drobnimi rdečkasto rjavimi vlakni zlasti pri vrhu. Dnišče ni izrazito gomoljasto in pogosto nosi gost bel micelij. Obročka ni.",
+      "flesh": "Meso je belo in čvrsto, v betu žilavo, v povsem razprtih klobukih pa precej krhko. Vonj je šibek in prijeten, pogosto opisan kot močnat; okus je blag.",
+      "sporePrint": "Bel. Trosi so elipsoidni, gladki in brezbarvni, 6–9 × 3,5–5,5 µm, šibko amiloidni, v Melzerjevem reagentu se neenakomerno obarvajo modročrno.",
+      "habitat": "Saprotrof, ki razgrajuje organsko snov v tleh. Raste v tropih, lokih ali sklenjenih čarovniških krogih na trajnih pašnikih, v parkih in na travnatih obcestnih robovih, ob živih mejah ter na gozdnih jasah in gozdnih robovih. Plodišča razvija od poznega poletja do jeseni, v Veliki Britaniji predvsem od avgusta do začetka novembra. Razširjen je, vendar ni pogost v zmernem pasu Evrope, Azije in Severne Amerike.",
+      "uses": "Pogosto ga opisujejo kot užitnega, ko je mlad, vendar je okus povprečen, nekateri ljudje pa po zaužitju dobijo bolečine v želodcu, drisko in potenje, zato ga tu uvrščamo med užitne s previdnostjo. Najprej poskusite le majhno količino. Na Hrvaškem je zavarovana vrsta.",
+      "confusion": "Značilni so velikost, bela lijakasta oblika in navzdol tekoči lističi. Infundibulicybe geotropa je običajno manjša in ima veliko višji bet, Infundibulicybe gibba pa je precej manjša; trosi obeh se z jodom ne obarvajo. Clitocybe nebularis ima sivkast klobuk in raste predvsem v gozdnem opadu. Bele mlečnice (Lactifluus, Lactarius) in golobice (Russula) so lahko podobne, vendar je njihovo meso krhko in se gladko lomi. Paxillus involutus ima podobno obliko, a rjav klobuk.",
+      "notes": "Leta 1800 ga je James Sowerby opisal kot Agaricus giganteus po tabli v svojem delu Coloured Figures of English Fungi; nekateri viri avtorstvo pripisujejo Johnu Sibthorpu leta 1794. Robert Kühner in René Maire sta ga leta 1934 določila za tipsko vrsto rodu Aspropaxillus. Rolf Singer ga je leta 1939 prestavil v rod Leucopaxillus, a ko so molekularne raziskave leta 2012 pokazale, da Leucopaxillus ni naravna skupina, so ga vrnili v rod Aspropaxillus. Vsebuje klitocin, spojino s protibakterijskim delovanjem, ki so jo v laboratoriju preučevali tudi proti rakavim celicam.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames"
+      ],
+      "label": "orjaški velepodvihanec"
+    },
+    "sr": {
+      "description": "Веома велика бела до крем гљива левкастог облика из рода Aspropaxillus, која се и данас често наводи као Leucopaxillus giganteus. Шешир је обично широк 15–35 cm, а густи листићи силазе низ кратку, дебелу дршку. Расте у групама, луковима или вилинским круговима на травњацима, у парковима, поред живих ограда и на шумским чистинама умереног појаса северне хемисфере.",
+      "cap": "У младости је слоновачебео, испупчен и фино сомотаст са подвијеним ободом, ускоро се изравна и постане плитак до дубок левак. Са старењем од средине постаје жућкастомрк и може добити кружне пукотине, ситне љуспице или смеђе мрље; обод постаје таласаст и често пуца. Већина зрелих шешира широка је 15–35 cm, али су забележени шешири од 8 cm до око 50 cm.",
+      "hymenium": "Листићи су уски, густи и силазни низ дршку, а неки су рачвасти. У почетку су слоновачебели, а са старењем потамне до крем или жућкастомрке боје.",
+      "stipe": "Дршка је у односу на величину шешира кратка и дебела, обично висока 4–6 cm и дебела 2–3 cm. Крембела је, касније жућкастомрка, са финим црвенкастосмеђим влакнима нарочито при врху. Основа није изразито кртоласта и често носи густ бели мицелијум. Прстена нема.",
+      "flesh": "Месо је бело и чврсто, у дршци жилаво, али у потпуно раширеним шеширима прилично крто. Мирис је слаб и пријатан, често описан као брашнаст; укус је благ.",
+      "sporePrint": "Бео. Споре су елипсоидне, глатке и безбојне, 6–9 × 3,5–5,5 µm, слабо амилоидне, у Мелцеровом реагенсу боје се неравномерно плавоцрно.",
+      "habitat": "Сапротроф који разграђује органску материју у земљишту. Расте у групама, луковима или потпуним вилинским круговима на трајним пашњацима, у парковима и на травнатим ивицама путева, поред живих ограда и на шумским чистинама и рубовима шума. Плодна тела образује од касног лета до јесени, у Британији углавном од августа до почетка новембра. Распрострањен је, али није чест у умереном појасу Европе, Азије и Северне Америке.",
+      "uses": "Често се описује као јестив док је млад, али му је укус осредњи, а неки људи после јела добију болове у стомаку, пролив и знојење, па је овде сврстан међу јестиве уз опрез. Најпре пробајте само малу количину. У Хрватској је заштићена врста.",
+      "confusion": "Карактеристични су велика величина, бели левкасти облик и силазни листићи. Infundibulicybe geotropa је обично мања и има знатно вишу дршку, а Infundibulicybe gibba је много мања; споре обеју не боје се јодом. Clitocybe nebularis има сивкаст шешир и расте углавном у шумској стељи. Беле млечнице (Lactifluus, Lactarius) и голубаче (Russula) могу изгледати слично, али им је месо крто и ломи се глатко. Paxillus involutus је сличног облика, али смеђег шешира.",
+      "notes": "Описао га је 1800. године Џејмс Соуерби као Agaricus giganteus према табли у свом делу „Обојене слике енглеских гљива“; неки извори ауторство приписују Џону Сибторпу 1794. године. Робер Кинер и Рене Мер су га 1934. године учинили типском врстом рода Aspropaxillus. Ролф Сингер га је 1939. године преместио у род Leucopaxillus, али пошто су молекуларна истраживања 2012. године показала да Leucopaxillus није природна група, враћен је у род Aspropaxillus. Садржи клитоцин, једињење са антибактеријским дејством које је у лабораторији испитивано и против ћелија рака.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En mycket stor, vit till krämfärgad, trattformad svamp i släktet Aspropaxillus, som fortfarande ofta kallas Leucopaxillus giganteus. Hatten är oftast 15–35 cm bred, med täta skivor som löper ned längs en kort, kraftig fot. Den växer i grupper, bågar eller häxringar i gräsmark, parker, vid häckar och i skogsgläntor på det tempererade norra halvklotet.",
+      "cap": "Ung elfenbensvit, välvd och fint sammetslen med inrullad kant, snart utplattad och sedan en grund till djup tratt. Med åldern blir den läderfärgad från mitten och kan få cirkelformade sprickor, små fjäll eller bruna fläckar; kanten blir vågig och spricker ofta. De flesta mogna hattar är 15–35 cm breda, men hattar från 8 cm till omkring 50 cm har rapporterats.",
+      "hymenium": "Skivorna är smala, täta och nedlöpande längs foten, och en del är gaffelgrenade. De är först elfenbensvita och mörknar med åldern till kräm- eller läderfärgade.",
+      "stipe": "Foten är kort och kraftig i förhållande till hatten, oftast 4–6 cm hög och 2–3 cm tjock. Den är krämvit, senare läderfärgad, med fina rödbruna fibrer särskilt upptill. Basen är inte tydligt knölformad och bär ofta tätt vitt mycel. Ring saknas.",
+      "flesh": "Köttet är vitt och fast, segt i foten men ganska skört i helt utbredda hattar. Lukten är svag och behaglig, ofta beskriven som mjölaktig; smaken är mild.",
+      "sporePrint": "Vitt. Sporerna är ellipsoida, släta och färglösa, 6–9 × 3,5–5,5 µm, svagt amyloida och färgas ojämnt blåsvarta i Melzers reagens.",
+      "habitat": "Saprotrof som bryter ned organiskt material i marken. Den växer i skaror, bågar eller hela häxringar på permanenta betesmarker, i parker och på gräsbevuxna vägrenar, vid häckar och i skogsgläntor och skogsbryn. Den bildar fruktkroppar från sensommaren till hösten, i Storbritannien främst från augusti till början av november. Den är spridd men inte vanlig i det tempererade Europa, Asien och Nordamerika.",
+      "uses": "Den beskrivs ofta som ätlig när den är ung, men smaken är medelmåttig och en del människor får magsmärtor, diarré och svettningar efter att ha ätit den; därför räknas den här som ätlig med försiktighet. Prova först bara en liten mängd. I Kroatien är den en skyddad art.",
+      "confusion": "Den stora storleken, den vita trattformen och de nedlöpande skivorna är karakteristiska. Infundibulicybe geotropa är oftast mindre och har en mycket högre fot, och Infundibulicybe gibba är mycket mindre; sporerna hos båda färgas inte av jod. Clitocybe nebularis har grå hatt och växer mest i skogens förna. Vita riskor (Lactifluus, Lactarius) och kremlor (Russula) kan likna den, men deras kött är sprött och bryts av rent. Paxillus involutus har en liknande form men brun hatt.",
+      "notes": "Beskrevs 1800 av James Sowerby som Agaricus giganteus efter en plansch i hans Coloured Figures of English Fungi; vissa källor anger John Sibthorp år 1794. Robert Kühner och René Maire gjorde den 1934 till typart för släktet Aspropaxillus. Rolf Singer flyttade den till Leucopaxillus 1939, men sedan molekylära studier 2012 visat att Leucopaxillus inte var en naturlig grupp återfördes den till Aspropaxillus. Den innehåller klitocin, ett ämne med antibakteriell verkan som även har studerats mot cancerceller i laboratoriet.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://sv.wikipedia.org/wiki/J%C3%A4ttetrattskivling"
+      ],
+      "label": "jättetrattskivling"
+    },
+    "tr": {
+      "description": "Aspropaxillus cinsine ait, hâlâ sıklıkla Leucopaxillus giganteus olarak anılan, çok büyük, beyaz ile krem renkli, huni biçimli bir mantar. Şapka genellikle 15–35 cm çapındadır ve sık lameller kısa, kalın bir sapa doğru iner. Kuzey Yarımküre'nin ılıman kuşağında çayırlarda, parklarda, çit kenarlarında ve orman açıklıklarında gruplar, yaylar veya peri halkaları hâlinde yetişir.",
+      "cap": "Gençken fildişi beyazı, dışbükey ve ince kadifemsi olup kenarı içe kıvrıktır; kısa sürede yassılaşır ve sığ ile derin arası bir huniye dönüşür. Yaşlandıkça ortadan başlayarak açık kahverengiye döner, üzerinde dairesel çatlaklar, küçük pullar veya kahverengi lekeler oluşabilir; kenarı dalgalı hâle gelir ve sık sık yarılır. Olgun şapkaların çoğu 15–35 cm'dir, ancak 8 cm ile yaklaşık 50 cm arasında şapkalar bildirilmiştir.",
+      "hymenium": "Lameller dar, sık ve sapa doğru inerdir; bazıları çatallıdır. Başta fildişi beyazıdır, yaşla birlikte kreme veya açık kahverengiye koyulaşır.",
+      "stipe": "Sap, şapkanın büyüklüğüne göre kısa ve kalındır; genellikle 4–6 cm boyunda ve 2–3 cm kalınlığındadır. Krem beyazıdır, sonra açık kahverengiye döner ve özellikle üst kısmında ince kırmızımsı kahverengi lifler taşır. Tabanı belirgin biçimde soğanlı değildir ve çoğunlukla yoğun beyaz miselyumla kaplıdır. Halka yoktur.",
+      "flesh": "Eti beyaz ve sıkıdır; sapta sert, tamamen açılmış şapkalarda ise oldukça kırılgandır. Kokusu hafif ve hoştur, sıklıkla un kokusu olarak tanımlanır; tadı yumuşaktır.",
+      "sporePrint": "Beyaz. Sporlar elipsoit, düz ve renksizdir, 6–9 × 3,5–5,5 µm, zayıf amiloittir ve Melzer ayıracında düzensiz biçimde mavimsi siyaha boyanır.",
+      "habitat": "Topraktaki organik maddeyi ayrıştıran bir saprotroftur. Kalıcı meralarda, parklarda ve otlu yol kenarlarında, çit kenarlarında, orman açıklıklarında ve kenarlarında kalabalık gruplar, yaylar veya tam peri halkaları hâlinde yetişir. Meyve gövdelerini yaz sonundan sonbahara kadar, Britanya'da çoğunlukla ağustostan kasım başına kadar verir. Avrupa, Asya ve Kuzey Amerika'nın ılıman bölgelerinde yaygın ama seyrektir.",
+      "uses": "Gençken sıklıkla yenebilir olarak tanımlanır, ancak tadı vasattır ve bazı kişilerde yendikten sonra mide ağrısı, ishal ve terleme görülür; bu nedenle burada dikkatle yenebilir olarak sınıflandırılmıştır. İlk seferde yalnızca az bir miktar deneyin. Hırvatistan'da koruma altındaki bir türdür.",
+      "confusion": "Büyük boyu, beyaz huni biçimi ve sapa inen lamelleri ayırt edicidir. Infundibulicybe geotropa genellikle daha küçüktür ve çok daha uzun bir sapı vardır; Infundibulicybe gibba ise çok daha küçüktür; her ikisinin sporları iyotla boyanmaz. Clitocybe nebularis grimsi bir şapkaya sahiptir ve çoğunlukla orman döküntüsünde yetişir. Beyaz sütlü mantarlar (Lactifluus, Lactarius) ve gevrek mantarlar (Russula) benzer görünebilir, ancak etleri gevrektir ve düzgünce kırılır. Paxillus involutus benzer biçimdedir ama şapkası kahverengidir.",
+      "notes": "1800 yılında James Sowerby tarafından Coloured Figures of English Fungi adlı eserindeki bir levhaya dayanılarak Agaricus giganteus adıyla tanımlandı; bazı kaynaklar tanımı 1794 yılında John Sibthorp'a atfeder. Robert Kühner ve René Maire 1934 yılında onu Aspropaxillus cinsinin tip türü yaptı. Rolf Singer 1939 yılında türü Leucopaxillus cinsine aktardı, ancak 2012 yılındaki moleküler çalışmalar Leucopaxillus cinsinin doğal bir grup olmadığını gösterince tür yeniden Aspropaxillus cinsine döndürüldü. Antibakteriyel etkili ve laboratuvarda kanser hücrelerine karşı da incelenmiş bir bileşik olan klitosin içerir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Дуже великий білий або кремовий лійкоподібний гриб із роду Aspropaxillus, якого досі часто називають Leucopaxillus giganteus. Шапка зазвичай 15–35 cm у діаметрі, густі пластинки спускаються на коротку товсту ніжку. Росте групами, дугами або «відьминими кільцями» на луках, у парках, біля живоплотів і на лісових галявинах помірної зони Північної півкулі.",
+      "cap": "Замолоду кольору слонової кістки, опукла й тонкооксамитова, з підгорнутим краєм; невдовзі розпростерта, а потім мілка або глибока лійка. З віком від центру буріє до палевого кольору, на ній можуть з'являтися концентричні тріщини, дрібні лусочки або бурі плями; край стає хвилястим і часто розтріскується. Більшість зрілих шапок мають 15–35 cm, але відомі шапки від 8 cm до приблизно 50 cm.",
+      "hymenium": "Пластинки вузькі, густі, низбіжні на ніжку, деякі вилчасті. Спочатку кольору слонової кістки, з віком темніють до кремових або палевих.",
+      "stipe": "Ніжка коротка й товста як для такої шапки, зазвичай 4–6 cm заввишки і 2–3 cm завтовшки. Вона кремово-біла, пізніше палева, з тонкими червонувато-бурими волокнами, особливо біля верхівки. Основа не помітно бульбоподібна і часто вкрита густим білим міцелієм. Кільця немає.",
+      "flesh": "М'якуш білий і щільний, у ніжці жорсткий, а в повністю розкритих шапках досить ламкий. Запах слабкий і приємний, часто описується як борошнистий; смак м'який.",
+      "sporePrint": "Білий. Спори еліпсоїдні, гладенькі й безбарвні, 6–9 × 3,5–5,5 µm, слабко амілоїдні, у реактиві Мельцера забарвлюються нерівномірно в синьо-чорний колір.",
+      "habitat": "Сапротроф, що розкладає органічну речовину в ґрунті. Росте групами, дугами або замкненими «відьминими кільцями» на багаторічних пасовищах, у парках і на трав'янистих узбіччях доріг, біля живоплотів, на лісових галявинах і узліссях. Плодові тіла утворює з кінця літа до осені, у Великій Британії переважно з серпня до початку листопада. Поширений широко, але нечасто трапляється в помірній зоні Європи, Азії та Північної Америки.",
+      "uses": "Часто описується як їстівний замолоду, але смак у нього посередній, а в деяких людей після вживання виникають болі в животі, діарея та пітливість, тому тут його віднесено до їстівних з обережністю. Спочатку скуштуйте лише невелику кількість. У Хорватії це охоронюваний вид.",
+      "confusion": "Характерні великий розмір, біла лійкоподібна форма і низбіжні пластинки. Infundibulicybe geotropa зазвичай дрібніша і має значно вищу ніжку, а Infundibulicybe gibba значно дрібніша; спори обох не забарвлюються йодом. У Clitocybe nebularis сірувата шапка, і росте вона переважно в лісовій підстилці. Білі молочники (Lactifluus, Lactarius) і сироїжки (Russula) можуть бути схожими, але їхній м'якуш крихкий і ламається рівно. Paxillus involutus схожий за формою, але має буру шапку.",
+      "notes": "Описаний 1800 року Джеймсом Совербі як Agaricus giganteus за таблицею з його праці «Кольорові зображення англійських грибів»; деякі джерела приписують авторство Джону Сібторпу 1794 року. Робер Кюнер і Рене Мер 1934 року зробили його типовим видом роду Aspropaxillus. Рольф Зінгер 1939 року переніс його до роду Leucopaxillus, але після того як молекулярні дослідження 2012 року показали, що Leucopaxillus не є природною групою, вид повернули до роду Aspropaxillus. Містить клітоцин — сполуку з антибактеріальною активністю, яку в лабораторії досліджували також проти ракових клітин.",
+      "names": [
+        "грузлик величезний"
+      ],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D1%96%D1%82%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B5%D0%B7%D0%BD%D0%B8%D0%B9"
+      ],
+      "label": "клітоцибе величезний"
+    },
+    "zh": {
+      "description": "Aspropaxillus屬的一種非常大型的白色至奶油色漏斗狀蘑菇，至今仍常被稱為Leucopaxillus giganteus。菌蓋通常直徑15–35 cm，密集的菌褶延生至短而粗壯的菌柄。在北半球溫帶的草地、公園、樹籬旁及林間空地成群生長，形成弧形或蘑菇圈（仙女環）。",
+      "cap": "幼時象牙白色，凸鏡形，表面有細絨，邊緣內捲；不久即展平，成為淺至深的漏斗形。隨年齡增長從中央開始轉為淺黃褐色，可能出現同心圓狀裂紋、細小鱗片或褐色斑點；邊緣變得波狀並常開裂。大多數成熟菌蓋為15–35 cm，但曾記錄過從8 cm到約50 cm的菌蓋。",
+      "hymenium": "菌褶窄而密，延生至菌柄，部分分叉。初為象牙白色，老後變暗為奶油色或淺黃褐色。",
+      "stipe": "菌柄相對於菌蓋短而粗壯，通常高4–6 cm、粗2–3 cm。奶油白色，後轉淺黃褐色，尤其近頂部有細微的紅褐色纖維。基部不明顯膨大，常附有濃密的白色菌絲。無菌環。",
+      "flesh": "菌肉白色而緊實，在菌柄中堅韌，但在完全展開的菌蓋中相當易碎。氣味微弱而宜人，常被描述為粉味；味道溫和。",
+      "sporePrint": "白色。孢子橢圓形，光滑無色，6–9 × 3.5–5.5 µm，弱類澱粉質，在梅氏試劑中不均勻地染成藍黑色。",
+      "habitat": "腐生菌，分解土壤中的有機物。在永久牧場、公園、長草的路邊、樹籬旁以及林間空地和林緣成群生長，形成弧形或完整的蘑菇圈。夏末至秋季出菇，在英國主要是八月至十一月初。廣泛分布於歐洲、亞洲及北美洲溫帶，但並不常見。",
+      "uses": "幼時常被描述為可食，但風味平庸，有些人食用後會出現胃痛、腹瀉和出汗，因此這裡歸為謹慎食用。初次只宜嘗試少量。在克羅埃西亞屬於受保護物種。",
+      "confusion": "其巨大體型、白色漏斗形和延生菌褶很有特色。Infundibulicybe geotropa通常較小，菌柄高得多；Infundibulicybe gibba則小得多；兩者的孢子遇碘均不變色。Clitocybe nebularis菌蓋灰色，主要生於林中落葉層。白色的乳菇類（Lactifluus、Lactarius）和紅菇類（Russula）可能外觀相似，但其菌肉脆而易乾淨折斷。Paxillus involutus形狀相似，但菌蓋為褐色。",
+      "notes": "1800年由詹姆斯·索爾比根據其著作《英國真菌彩色圖譜》中的一幅圖版以Agaricus giganteus之名描述；部分資料將命名者歸於1794年的約翰·西布索普。1934年羅伯特·屈納與勒內·邁爾將其定為Aspropaxillus屬的模式種。1939年羅爾夫·辛格將其移入Leucopaxillus屬，但2012年的分子研究顯示Leucopaxillus並非自然類群後，又被移回Aspropaxillus屬。含有具抗菌活性的化合物克利托辛，實驗室中也曾研究其對癌細胞的作用。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2532720/vernacularNames",
+        "https://www.wikidata.org/wiki/Q2454893"
+      ],
+      "label": "大白樁菇"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@400.webp",
+  "plateCredit": {
+    "author": "J. Sowerby",
+    "credit": "Credit \"J. Sowerby\" as requested (metadata only). The art registers to James Sowerby, Coloured Figures of English Fungi t.244 (Agaricus giganteus, 1800, public domain); the supplied file is a processed digital derivative (upscaled/cleaned/outpainted; modern \"J. Sowerby\" script mark added; plate number and imprint removed). The mark is not proof of authorship.",
+    "license": "Underlying drawing public domain (Sowerby d. 1822); rights in the processed derivative unverified",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag1.webp",
+      "author": "Jane Tavener",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/321068656"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag2.webp",
+      "author": "pmgaspar",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/315326900"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag3.webp",
+      "author": "Atsushi Nakajima",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/106967590"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag4.webp",
+      "author": "Святослав Власенко",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/310393742"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag5.webp",
+      "author": "bartholomewhasty",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/310171841"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@1600.webp",
+      "author": "J. Sowerby (credit as requested; underlying PD plate t.244; processed derivative of unverified origin)",
+      "license": "Underlying drawing public domain (Sowerby d. 1822); rights in the processed derivative unverified",
+      "sourceUrl": "supplied_original.png",
+      "basedOn": [
+        "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._244.png",
+        "https://commons.wikimedia.org/wiki/File:James_Sowerby00.jpg"
+      ],
+      "existingMark": "\"J. Sowerby\" cursive script mark bottom right; retained once exactly as found; not on the original plate; no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag1.webp",
+      "author": "Jane Tavener",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/321068656",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/580600786/original.jpg",
+      "attribution": "© Jane Tavener, CC BY 4.0, via iNaturalist observation 321068656 / GBIF occurrence 5892645334",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag2.webp",
+      "author": "pmgaspar",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/315326900",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/569623441/original.jpg",
+      "attribution": "© pmgaspar, CC BY 4.0, via iNaturalist observation 315326900 / GBIF occurrence 5838234235",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag3.webp",
+      "author": "Atsushi Nakajima",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/106967590",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/179811835/original.jpg",
+      "attribution": "© Atsushi Nakajima, CC BY 4.0, via iNaturalist observation 106967590 / GBIF occurrence 4519094446",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag4.webp",
+      "author": "Святослав Власенко",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/310393742",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/560200501/original.jpg",
+      "attribution": "© Святослав Власенко, CC BY 4.0, via iNaturalist observation 310393742 / GBIF occurrence 5760912454",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/ag5.webp",
+      "author": "bartholomewhasty",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/310171841",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/559776996/original.jpg",
+      "attribution": "© bartholomewhasty, CC0 1.0, via iNaturalist observation 310171841 / GBIF occurrence 5761053856",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Agaricus giganteus",
+    "Clitocybe gigantea",
+    "Paxillus giganteus",
+    "Leucopaxillus giganteus"
+  ],
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 153,
+  "added": "2026-11-10",
+  "citation": "Bull. Trimestriel Soc. Mycol. France 50: 13 (1934)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "paperResidualP995": 2.177107656707473,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Leucopaxillus giganteus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      1024,
+      1024
+    ],
+    "sourceSHA256": "02ba57ce7804a0d61e128ec08d7c25655d8c1466b816eb8ba005a833ab792bb7",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      199,
+      39,
+      849,
+      1017
+    ],
+    "uniformScale": 2.085889570552147,
+    "placement": [
+      122,
+      180
+    ],
+    "composedArtworkDimensions": [
+      1356,
+      2040
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 738799,
+    "opaquePixels": 290217,
+    "partialAlphaPixels": 19560,
+    "signatureBox": [
+      748,
+      966,
+      858,
+      1014
+    ],
+    "signatureComponents": 4,
+    "signaturePixels": 468,
+    "preservedObjects": [
+      "large mature basidiome: broad funnel-shaped (infundibuliform) cream-grey cap with a pink-flushed and an ochre-streaked zone, wavy inrolled margin, crowded decurrent pale gills, stout white finely striate stipe",
+      "dark soil/humus clod and a brown oak leaf at the stipe base",
+      "smaller young fruit body at right on a thin ground line",
+      "lower left: cut-away / sectional drawing of cap and stipe (pale, schematic)",
+      "existing hand-script \"J. Sowerby\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"J. Sowerby\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested credit \"J. Sowerby\" is metadata only. The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 620.0,
+        "box": [
+          248,
+          768,
+          37,
+          47
+        ]
+      },
+      {
+        "area": 159.5,
+        "box": [
+          248,
+          744,
+          16,
+          24
+        ]
+      },
+      {
+        "area": 33042.0,
+        "box": [
+          200,
+          568,
+          536,
+          448
+        ]
+      },
+      {
+        "area": 23805.5,
+        "box": [
+          638,
+          432,
+          202,
+          208
+        ]
+      },
+      {
+        "area": 237722.5,
+        "box": [
+          200,
+          40,
+          648,
+          720
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected: the large basidiome, soil clod, oak leaf, small young fruit body and the sectional drawing kept whole; paper removed by robust paper-only fit; existing J. Sowerby mark kept once; one standard background frame only; no double frame, no added mark.",
+    "requestedCredit": "J. Sowerby",
+    "creditUse": "metadata only (art credit field); not painted or added",
+    "visibleMarks": [
+      "one cursive hand-script \"J. Sowerby\" at bottom right (~x755-848, y975-1008 in the 1024x1024 source)",
+      "no plate number, no engraved imprint line, no Gemini/AI sparkle mark, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "DIGITAL DERIVATIVE of a genuine public-domain James Sowerby plate, re-rendered/processed (likely AI- or tool-assisted); not an untouched scan of the plate",
+      "underlyingWork": "James Sowerby, Coloured Figures of English Fungi or Mushrooms, vol. 3, tab. 244, Agaricus giganteus (imprint dated 1 Jan 1800; Commons gives 1797-1803); public domain (author d. 1822)",
+      "evidence": [
+        "SIFT + RANSAC affine registration against Commons File:James_Sowerby00.jpg (Glasgow University Library copy of t.244, PD): 179 good matches, 139 inliers, uniform scale ~1.87 with aspect ~0.995, i.e. same drawing geometry (provenance_registration.json, provenance_overlay.jpg)",
+        "Weak registration (7 inliers) to the Internet Archive djvu extraction of t.244 (different impression/colouring with manuscript notes), so the supplied file was not made from that scan",
+        "Original plate carries the plate number 244 and the engraved imprint \"Publish'd by J. Sowerby London\"; both absent here",
+        "The modern cursive \"J. Sowerby\" script at bottom right is not on the original plate, so it was added later; it is not Sowerby's own signature",
+        "Square 1024x1024 JPEG named .png with Exif software Picasa and no download origin, same pattern as previously supplied Gemini-generated art; canvas outpainted to a square and paper re-toned/smoothed"
+      ],
+      "sowerbyLookMatches": true,
+      "looksAIGenerated": "The drawing itself is not AI-invented (it registers to the genuine plate); the file has been AI/tool processed (upscaled, cleaned, outpainted, mark added). Process cannot be proven.",
+      "rightsNote": "Underlying drawing PD; any rights in the modern derivative/processing are unverified. Provenance of the file, the added mark and anatomical fidelity are unverified.",
+      "sources": [
+        "sources/commons_James_Sowerby00.jpg",
+        "sources/commons_James_Sowerby00_info.json",
+        "sources/commons_Sowerby_t244.png",
+        "sources/commons_t244_info.json",
+        "sources/sf_records/221740.html"
+      ]
+    },
+    "alphaPNGSHA256": "2f0736f84aa8fa15308fd8090e45a7be40a99671ef829d9f1fdf947f40aee3e6",
+    "maskSHA256": "fcbdb236f840d28f8b0c24e943486881d486fa67d4ebf07158cb7de53de15483",
+    "recipeSHA256": "3b2d16f3d727c8f542d3c2233c5b912593213c2462301e0a04f0a4c9d7599c44",
+    "registration": {
+      "commons_James_Sowerby00.jpg": {
+        "sha256": "34ebccc8600f638c63bcf7ad3917a6b2361214d8f9801b79e0e9b4ba0ffd2f2f",
+        "dims": [
+          443,
+          600
+        ],
+        "goodMatches": 179,
+        "ransacInliers": 139,
+        "affine": [
+          [
+            0.5343904492851161,
+            -0.0003056665772318042,
+            -52.01563870248565
+          ],
+          [
+            0.00031109494353138577,
+            0.5372609490762941,
+            11.132928109384464
+          ]
+        ],
+        "scaleSuppliedToReference": [
+          0.5343905398369363,
+          0.5372610360284995
+        ],
+        "suppliedPerReferenceScale": 1.8662849193058393,
+        "aspect": 0.9946571666302432
+      },
+      "commons_Sowerby_t244.png": {
+        "sha256": "436ca296d02fedcf19f9cb37bc10ce9443f6e71cd787eb9621ca59074cecf7d5",
+        "dims": [
+          1923,
+          3468
+        ],
+        "goodMatches": 45,
+        "ransacInliers": 7,
+        "affine": [
+          [
+            2.8227959261477693,
+            0.30702054856728356,
+            -684.5378527646915
+          ],
+          [
+            -0.032321956947372846,
+            2.675006939543149,
+            244.49527311472247
+          ]
+        ],
+        "scaleSuppliedToReference": [
+          2.8229809686884804,
+          2.6925682431178153
+        ],
+        "suppliedPerReferenceScale": 0.3627126189691758,
+        "aspect": 1.0484343250738395
+      }
+    },
+    "officialFiles": [
+      {
+        "path": "media/Aspropaxillus_giganteus@1600.webp",
+        "bytes": 249232,
+        "sha256": "0e3654d7f8b646f105731142b73cb6e753be196f366fb9e6467b0f6db5ecffaa"
+      },
+      {
+        "path": "media/Aspropaxillus_giganteus@400.webp",
+        "bytes": 33294,
+        "sha256": "c0ee5d4f172f376f016c50734c4e731a149b9f6f6eb4d88153dd9df8d294b0c9"
+      }
+    ]
+  }
 }
 ];
