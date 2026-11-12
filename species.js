@@ -152618,15 +152618,15 @@ export const CATALOG = [
       "label": "地星狀裂杯菌"
     }
   },
-  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
-  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@400.webp",
-  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
-  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@400.webp",
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp?v=2",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@400.webp?v=2",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp?v=2",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@400.webp?v=2",
   "plateCredit": {
-    "author": "Unknown; owner-supplied artwork",
-    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
-    "license": "User supplied; redistribution rights not independently established",
-    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp"
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only). This is a replacement plate for the published ID 152 illustration. The supplied v2 file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896×1200, Picasa Exif, no source alpha). The arrangement is kept as supplied. The file already carried a cursive \"Gemini\" mark at bottom right; staging kept that mark exactly as found and painted nothing. The mark is not proof of authorship. Not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp?v=2"
   },
   "photos": [
     {
@@ -152669,10 +152669,10 @@ export const CATALOG = [
     {
       "role": "illustration",
       "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
-      "author": "Unknown; owner-supplied artwork",
-      "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
-      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp?v=2",
+      "existingMark": "\"Gemini\" cursive script mark bottom right, present on the supplied v2 file. Retained once exactly as found, in place; no mark added, painted or removed during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -152746,177 +152746,179 @@ export const CATALOG = [
   "added": "2026-11-09",
   "citation": "Nytt Mag. Bot. 15(1-2): 127 (1968)",
   "illustrationProvenance": {
-    "paperHolesRemoved": [
-      {
-        "area": 2569.5,
-        "box": [
-          492,
-          430,
-          81,
-          66
-        ]
-      }
-    ],
-    "paperResidualP995": 1.5146542048947254,
-    "contrastThreshold": 6,
     "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
-    "sourceFile": "Chorioactis geaster.png",
+    "sourceFile": "Chorioactis geaster.png (Mac ~/Downloads)",
     "sourceFormat": "JPEG",
-    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceMode": "RGB",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif, software=Picasa), 896x1200 RGB; no source alpha. A real alpha was produced by segmenting the figures, stump, roots, litter, spore cloud and the existing \"Gemini\" mark from a robust cubic paper fit. Source RGB unchanged; nothing repainted.",
     "sourceDimensions": [
-      1024,
-      1024
+      896,
+      1200
     ],
-    "sourceSHA256": "9a1317468c61ebd2b47d6d342ad388a669cfd26b239229730082f50572a5493d",
+    "sourceSHA256": "6677640c4bdd2ab8a1201044364c42210d307472c7b8337a5cec7c0faa080023",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
-    "alphaPNG": "artwork_rgba.png",
-    "mask": "artwork_alpha_mask.png",
+    "paperResidualP995": 2.3560206775346604,
+    "contrastThreshold": 6,
+    "arrangement": "As supplied: the whole artwork is one rigid piece (relative positions of every figure and the Gemini mark unchanged), uniformly scaled and centred. No rearrangement.",
     "cropBBox": [
+      61,
       87,
-      40,
-      975,
-      1000
+      829,
+      1119
     ],
-    "uniformScale": 1.5765765765765767,
+    "uniformScale": 1.8229166666666667,
     "placement": [
       100,
-      443
+      259
     ],
     "composedArtworkDimensions": [
       1400,
-      1514
+      1881
     ],
+    "haloTrimTolerance": 6,
+    "haloTrimmedPixels": 10703,
+    "sporeCloudSoftAlpha": {
+      "box": [
+        360,
+        470,
+        545,
+        705
+      ],
+      "rule": "alpha = clip((darkness below paper - 3)/25) inside the box, feathered at the box edge; RGB unchanged"
+    },
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 728111,
-    "opaquePixels": 299309,
-    "partialAlphaPixels": 21156,
+    "transparentPixels": 629888,
+    "opaquePixels": 414022,
+    "partialAlphaPixels": 31290,
     "signatureBox": [
-      880,
-      945,
-      982,
-      1006
+      705,
+      1062,
+      775,
+      1110
     ],
-    "signatureComponents": 3,
-    "signaturePixels": 455,
-    "preservedObjects": [
-      "left: closed, cigar-shaped, densely hairy dark-brown young fruit body on a short dark stalk",
-      "top centre: fruit body splitting at the apex into pointed rays, showing the pale inner (hymenial) surface",
-      "right: fully opened star with about seven recurved orange-tan rays and a dark hairy base/stalk",
-      "lower centre: longitudinal section of a closed fruit body (dark hairy wall, pale yellowish interior)",
-      "four small drawn ascospores (two pairs, fusiform)",
-      "one drawn ascus with eight spores and a short stroke below it",
-      "existing Gemini mark"
-    ],
-    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "signatureComponents": 7,
     "contours": [
       {
-        "area": 1232.5,
+        "area": 22.0,
         "box": [
-          584,
-          849,
-          32,
-          79
+          816,
+          1049,
+          8,
+          5
         ]
       },
       {
-        "area": 1108.5,
+        "area": 14.0,
         "box": [
-          551,
-          835,
-          25,
-          77
+          804,
+          1000,
+          4,
+          8
         ]
       },
       {
-        "area": 1033.0,
+        "area": 321395.0,
         "box": [
-          183,
-          833,
-          25,
-          70
+          62,
+          475,
+          766,
+          645
         ]
       },
       {
-        "area": 1043.0,
+        "area": 31863.0,
         "box": [
-          214,
-          818,
-          26,
-          67
+          654,
+          424,
+          146,
+          360
         ]
       },
       {
-        "area": 3768.5,
+        "area": 32432.0,
         "box": [
-          675,
-          792,
-          37,
-          157
-        ]
-      },
-      {
-        "area": 54638.5,
-        "box": [
-          288,
-          548,
           200,
-          420
+          104,
+          144,
+          376
         ]
       },
       {
-        "area": 128719.5,
+        "area": 47475.0,
         "box": [
-          464,
-          232,
-          488,
-          516
-        ]
-      },
-      {
-        "area": 66805.5,
-        "box": [
+          472,
           88,
-          211,
-          209,
-          493
-        ]
-      },
-      {
-        "area": 49081.5,
-        "box": [
-          368,
-          41,
-          240,
-          326
+          312,
+          320
         ]
       }
     ],
-    "backgroundSourceDimensions": [
-      1067,
-      1600
+    "droppedSpecks": 172,
+    "officialWebP": [
+      "media/Chorioactis_geaster@1600.webp",
+      "media/Chorioactis_geaster@400.webp"
     ],
-    "backgroundCanvasDimensions": [
-      1600,
-      2400
-    ],
+    "officialDimensions": {
+      "@1600": [
+        1600,
+        2400
+      ],
+      "@400": [
+        400,
+        600
+      ]
+    },
+    "officialSHA256": {
+      "@1600": "df6f898fb98d4e0dd071473aeaf77cd0dc7d2d5a80e43fa2b025bef3ccdc6f63",
+      "@400": "75943b33ffc3bc88791e5c0874e87d9f893bf272ab10ba0941756857a1a2318a",
+      "@1600_bytes": 402838,
+      "@400_bytes": 47250
+    },
     "generation": false,
     "repainting": false,
     "stretching": false,
     "sourcePaperRemoved": true,
-    "visualReview": "Full-size checker and composition inspected (art_fullsize_inspection.png, original_vs_composition.jpg): all four fruit-body figures, the four spores and the ascus kept whole; paper removed by robust paper-only fit; a faint paper mottle at the right edge excluded; existing Gemini mark kept once; one standard background frame only; no double frame, no added mark.",
-    "alphaPNGSHA256": "732e72cd0f79714f9c5ebda907e255af7f64bd66bea0e8088606ef3f3341c60f",
-    "maskSHA256": "2f3f45960c73e42e8d37028c675ebc7b9635827fe74f7b12045a3ab0b48007da",
-    "recipeSHA256": "9d269b4f5938f8c2f7aa3307ca236127688b9f934d5dea7ecc606107e4b77e70",
+    "doubleFrame": false,
+    "requestedCredit": "Gemini",
+    "preservedObjects": [
+      "top left: longitudinal section of a closed capsule on its stem — hollow, pale tan inner lining, hairy brown outer wall",
+      "top right: capsule beginning to split into five rays, pale tan inner faces, dark hairy outer faces, short stem",
+      "right: closed dark brown hairy cigar-shaped capsule on a short stem in a patch of soil",
+      "centre: open star with five curled pale orange rays among two dark hairy lobes, at the foot of a weathered stump with roots",
+      "a faint stippled smoke-like spore cloud rising above the open star",
+      "leaf litter, twigs and soil around the stump",
+      "existing cursive \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "The cursive \"Gemini\" mark on the supplied file was retained once exactly as found, in place (alpha only). No mark was added or painted. The file had no Latin-name caption. The mark is not proof of authorship.",
+    "holeRemovalDisabled": "Pale enclosed anatomy (capsule lining, ray faces) kept opaque; only the light glow connected to the outside was trimmed.",
+    "creditUse": "Plate credit/author changes from 'Unknown; owner-supplied artwork' to \"Gemini\" as requested (metadata credit only). Apparently AI-generated; rights unverified.",
+    "visibleMarks": [
+      "one cursive \"Gemini\" at bottom right (~x712-768, y1068-1105 in the 896x1200 source)",
+      "no Latin-name caption, plate number, imprint line or other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark), not a scan of a documented historical plate",
+      "evidence": [
+        "Mark reads \"Gemini\" in a modern cursive",
+        "896x1200 JPEG/JFIF with Picasa Exif named .png, the same pattern as other owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint"
+      ],
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "visualReview": "Full-size inspection of the source, checker, lossless composition and both official WebPs: all four capsule/star figures, stump, roots, litter and the spore cloud present; source RGB unchanged; uniform scale; arrangement unchanged; no stretching, no double frame, nothing repainted. Gemini mark complete and legible at 1600.",
+    "alphaPNGSHA256": "4979323e3611604f6453c26ff1562626e667ec99c8343a3a6b59e35e6302a7d5",
+    "maskSHA256": "0b3cd30cb8515a68a8a012a3638ab3ea09bb215e56c71b6fa0ce57d8d24d4f44",
+    "recipeSHA256": "3ac3762460b662065af45c8a05395e543c64c06bb7904474a0adc07dbdd54ce4",
     "officialFiles": [
       {
         "path": "media/Chorioactis_geaster@1600.webp",
-        "bytes": 231936,
-        "sha256": "fe3dbd332006e897fc3991e424b6d2095739fc2ec24706941acc11664067c004"
+        "bytes": 402838,
+        "sha256": "df6f898fb98d4e0dd071473aeaf77cd0dc7d2d5a80e43fa2b025bef3ccdc6f63"
       },
       {
         "path": "media/Chorioactis_geaster@400.webp",
-        "bytes": 25854,
-        "sha256": "b78fec66292d6469d0d3abcfb090ce3529bceb393e4895bc92f30c7721122cc7"
+        "bytes": 47250,
+        "sha256": "75943b33ffc3bc88791e5c0874e87d9f893bf272ab10ba0941756857a1a2318a"
       }
     ]
   }
@@ -155795,15 +155797,15 @@ export const CATALOG = [
       "sourceUrls": []
     }
   },
-  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
-  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@400.webp",
-  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
-  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@400.webp",
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp?v=2",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@400.webp?v=2",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp?v=2",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@400.webp?v=2",
   "plateCredit": {
     "author": "Gemini",
-    "credit": "Credit \"Gemini\" as requested (metadata only; owner t28u, same as Bovista paludosa ID 154). The supplied image is a 19th-century-style colour illustration that appears AI-generated (cursive \"Gemini\" mark bottom right, Picasa-processed JPEG named .png, no matching historical plate found); it is not a documented botanical plate. The mark is not proof of authorship.",
+    "credit": "Credit \"Gemini\" as requested (metadata only). This is a replacement plate for the published ID 155 illustration. The supplied v2 file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 1024×1024, Picasa Exif, no source alpha). At the owner's request the two right-hand figures (a whole fruit body with white base and rhizomorphs, and a longitudinal section) were moved above the left-hand group (a small young fruit body and a mature twin clump on one strip of ground); every figure was cut out whole and placed at one uniform scale. The file already carried a small cursive \"Gemini\" mark at bottom right; staging kept that mark exactly as found (moved to the new bottom-right corner) and painted nothing. The mark is not proof of authorship. Not a documented botanical plate.",
     "license": "Rights unverified (AI-generated image; no human author or licence documented)",
-    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp?v=2"
   },
   "photos": [
     {
@@ -155841,9 +155843,9 @@ export const CATALOG = [
       "path": "photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
       "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
       "license": "Rights unverified (AI-generated image; no human author or licence documented)",
-      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp?v=2",
       "basedOn": [],
-      "existingMark": "\"Gemini\" cursive script mark bottom right (with both i-dots); retained once exactly as found; no new mark painted; no authorship/rights authentication"
+      "existingMark": "\"Gemini\" cursive script mark bottom right, present on the supplied v2 file. Retained once exactly as found (pixels unchanged, placed at the bottom-right corner of the rearranged plate); no mark added, painted or removed during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -155904,167 +155906,902 @@ export const CATALOG = [
   "added": "2026-11-10",
   "citation": "Mycotaxon 115: 194 (2011)",
   "illustrationProvenance": {
-    "paperHolesRemoved": [
-      {
-        "area": 169.5,
-        "box": [
-          374,
-          647,
-          12,
-          18
-        ]
-      },
-      {
-        "area": 3360.0,
-        "box": [
-          143,
-          487,
-          43,
-          120
-        ]
-      },
-      {
-        "area": 2992.0,
-        "box": [
-          272,
-          373,
-          33,
-          156
-        ]
-      },
-      {
-        "area": 225.0,
-        "box": [
-          277,
-          339,
-          14,
-          22
-        ]
-      },
-      {
-        "area": 2765.0,
-        "box": [
-          198,
-          334,
-          37,
-          140
-        ]
-      }
-    ],
-    "paperResidualP995": 3.066719204472175,
-    "contrastThreshold": 6,
-    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
-    "sourceFile": "Phaeoclavulina roellinii.png",
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation and rigid rearrangement; no generation",
+    "sourceFile": "Phaeoclavulina roellinii.png (Mac ~/Downloads)",
     "sourceFormat": "JPEG",
-    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceMode": "RGB",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif, software=Picasa), 1024x1024 RGB; no source alpha. A real alpha was produced by segmenting the specimens, ground, moss/grass, rhizomorphs and the existing \"Gemini\" mark from a robust cubic paper fit. Source RGB unchanged; nothing repainted.",
     "sourceDimensions": [
-      896,
-      1200
+      1024,
+      1024
     ],
-    "sourceSHA256": "e7d9e3bc289efeb30d083e3b4bbbd47ba17e5d0acd953ff04b0fec36de937e52",
+    "sourceSHA256": "960abdd21003d287b5a9ceb552d052d214d9884d28e3f95927613b6433c86f01",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
-    "alphaPNG": "artwork_rgba.png",
-    "mask": "artwork_alpha_mask.png",
-    "cropBBox": [
-      55,
-      167,
-      844,
-      1147
-    ],
-    "uniformScale": 1.7743979721166032,
-    "placement": [
-      100,
-      330
-    ],
-    "composedArtworkDimensions": [
-      1400,
-      1739
-    ],
+    "paperResidualP995": 1.9118214741103663,
+    "contrastThreshold": 6,
+    "minContourArea": 12,
+    "groups": {
+      "left": {
+        "bbox": [
+          87,
+          367,
+          557,
+          849
+        ],
+        "opaquePixels": 133333
+      },
+      "right": {
+        "bbox": [
+          495,
+          328,
+          937,
+          856
+        ],
+        "opaquePixels": 86586
+      },
+      "signature": {
+        "bbox": [
+          963,
+          1000,
+          1013,
+          1022
+        ],
+        "opaquePixels": 208
+      }
+    },
+    "splitX": 560,
+    "haloTrimTolerance": 6,
+    "haloTrimmedPixels": {
+      "left": 6949,
+      "right": 8316
+    },
+    "rowGapSourcePx": 48,
+    "arrangement": "TOP row: the two right-hand specimens of the source (C: whole branched fruit body with white stipe base, soil crumbs and white rhizomorphs; D: longitudinal section), kept side by side in their original relative position as one rigid piece. BOTTOM row: the left-hand group (A: small pale young fruit body; B: twin mature clump with moss, grass blades and sandy ground), kept as one rigid piece because they share one painted ground strip. Each row centred horizontally; stack centred vertically. Existing Gemini mark moved, unscaled relative to the art, to bottom right.",
+    "uniformScale": 1.9281663516068053,
+    "placements": {
+      "top": [
+        374,
+        180
+      ],
+      "bottom": [
+        347,
+        1291
+      ],
+      "signature": [
+        1394,
+        2248
+      ]
+    },
+    "placedSizes": {
+      "top": [
+        852,
+        1018
+      ],
+      "bottom": [
+        906,
+        929
+      ],
+      "signature": [
+        96,
+        42
+      ]
+    },
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 763642,
-    "opaquePixels": 295914,
-    "partialAlphaPixels": 15644,
+    "transparentPixels": 812049,
+    "opaquePixels": 206853,
+    "partialAlphaPixels": 29674,
     "signatureBox": [
-      744,
-      1094,
-      838,
-      1146
+      955,
+      998,
+      1012,
+      1024
     ],
     "signatureComponents": 3,
-    "signaturePixels": 411,
-    "preservedObjects": [
-      "left: a smaller, sparsely branched ochre-orange coral fruit body with a white, tapered base",
-      "right: a larger, densely and repeatedly branched ochre-yellow coral fruit body with a white base and fine white basal mycelial strands",
-      "existing hand-script \"Gemini\" mark at bottom right"
-    ],
-    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only, both i-dots kept); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t28u). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "signaturePixels": 208,
     "contours": [
       {
-        "area": 215032.0,
+        "group": "left",
+        "area": 33.5,
         "box": [
-          345,
-          273,
-          498,
-          695
+          474,
+          840,
+          14,
+          8
         ]
       },
       {
-        "area": 94301.0,
+        "group": "right",
+        "area": 33597.5,
         "box": [
-          56,
-          168,
-          320,
-          531
+          792,
+          400,
+          144,
+          416
+        ]
+      },
+      {
+        "group": "left",
+        "area": 138718.0,
+        "box": [
+          88,
+          368,
+          471,
+          459
+        ]
+      },
+      {
+        "group": "right",
+        "area": 59233.5,
+        "box": [
+          496,
+          328,
+          288,
+          528
         ]
       }
     ],
-    "backgroundSourceDimensions": [
-      1067,
-      1600
+    "droppedSpecks": [
+      {
+        "area": 0.0,
+        "box": [
+          343,
+          992,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          920,
+          968,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          933,
+          961,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 8.5,
+        "box": [
+          921,
+          954,
+          5,
+          4
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          930,
+          946,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 32.5,
+        "box": [
+          944,
+          944,
+          7,
+          7
+        ],
+        "reason": "isolated paper noise"
+      },
+      {
+        "area": 0.0,
+        "box": [
+          936,
+          943,
+          3,
+          1
+        ]
+      },
+      {
+        "area": 3.0,
+        "box": [
+          940,
+          939,
+          4,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          944,
+          935,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          950,
+          932,
+          1,
+          4
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          967,
+          926,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 13.0,
+        "box": [
+          955,
+          919,
+          7,
+          9
+        ],
+        "reason": "isolated paper noise"
+      },
+      {
+        "area": 0.0,
+        "box": [
+          970,
+          912,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 0.5,
+        "box": [
+          92,
+          891,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          1011,
+          880,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          592,
+          855,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          519,
+          839,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          536,
+          837,
+          1,
+          3
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          232,
+          823,
+          3,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          186,
+          823,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          150,
+          815,
+          2,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          547,
+          793,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          552,
+          792,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          564,
+          767,
+          3,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          552,
+          753,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          759,
+          736,
+          1,
+          4
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          864,
+          712,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 1.5,
+        "box": [
+          952,
+          704,
+          2,
+          3
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          592,
+          696,
+          4,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          97,
+          695,
+          4,
+          1
+        ]
+      },
+      {
+        "area": 0.5,
+        "box": [
+          214,
+          694,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          224,
+          666,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          234,
+          663,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          23,
+          656,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          249,
+          637,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          1007,
+          568,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 12.5,
+        "box": [
+          959,
+          568,
+          3,
+          10
+        ],
+        "reason": "isolated paper noise"
+      },
+      {
+        "area": 0.0,
+        "box": [
+          23,
+          552,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 1.0,
+        "box": [
+          184,
+          534,
+          3,
+          2
+        ]
+      },
+      {
+        "area": 0.5,
+        "box": [
+          54,
+          528,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          935,
+          486,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          792,
+          482,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          27,
+          480,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 5.0,
+        "box": [
+          957,
+          475,
+          3,
+          5
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          951,
+          471,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          503,
+          464,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          448,
+          464,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.5,
+        "box": [
+          961,
+          446,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          937,
+          433,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          933,
+          422,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          1008,
+          416,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          903,
+          416,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.5,
+        "box": [
+          816,
+          416,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          960,
+          414,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          40,
+          399,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          43,
+          395,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          710,
+          383,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          317,
+          369,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          319,
+          368,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          37,
+          319,
+          3,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          1006,
+          311,
+          2,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          992,
+          288,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 3.0,
+        "box": [
+          1002,
+          267,
+          4,
+          2
+        ]
+      },
+      {
+        "area": 3.5,
+        "box": [
+          579,
+          264,
+          3,
+          3
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          32,
+          179,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 8.5,
+        "box": [
+          169,
+          104,
+          7,
+          6
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          672,
+          80,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          79,
+          80,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          508,
+          63,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          55,
+          39,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          352,
+          37,
+          1,
+          3
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          847,
+          32,
+          1,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          52,
+          32,
+          2,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          920,
+          24,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 1.0,
+        "box": [
+          24,
+          24,
+          2,
+          2
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          383,
+          15,
+          1,
+          1
+        ]
+      },
+      {
+        "area": 0.0,
+        "box": [
+          895,
+          14,
+          1,
+          2
+        ]
+      }
     ],
-    "backgroundCanvasDimensions": [
-      1600,
-      2400
+    "officialWebP": [
+      "media/Phaeoclavulina_roellinii@1600.webp",
+      "media/Phaeoclavulina_roellinii@400.webp"
     ],
+    "officialDimensions": {
+      "@1600": [
+        1600,
+        2400
+      ],
+      "@400": [
+        400,
+        600
+      ]
+    },
+    "officialSHA256": {
+      "@1600": "3c4e343c14deeae874878c59fd12c467eeb53d27f0033ba8dbf93e92b5d6399f",
+      "@400": "a860eafe2ac4670fa1462a1e1fc2085da36dbc0b5fe35baf2662e66496a6cb2c",
+      "@1600_bytes": 247688,
+      "@400_bytes": 31300
+    },
     "generation": false,
     "repainting": false,
     "stretching": false,
     "sourcePaperRemoved": true,
-    "visualReview": "Full-size inspection: both coral figures whole (left sparse orange-ochre coral with white tapered base; right dense ochre coral with white base and root-like strands); 5 enclosed paper gaps between branches removed; some small paper pockets remain inside the dense right figure; thin pale fringe at edges; the single Gemini mark retained with both i-dots (alpha 235); no double frame, nothing added, painted or repainted. Stylised: the left figure is more orange than the species and neither figure shows the fine ochre-greenish ageing; broadly compatible with a small branched Phaeoclavulina.",
+    "doubleFrame": false,
     "requestedCredit": "Gemini",
-    "creditUse": "Owner t28u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as Bovista paludosa (ID 154). Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "preservedObjects": [
+      "A (source far left, now bottom row left): small pale cream young fruit body with a few upright forked branches, on the shared ground strip",
+      "B (source centre-left, now bottom row centre): mature twin clump of ochre, longitudinally streaked branches with U/V forks and olive-tinted bases, among moss, grass blades and sandy soil",
+      "C (source centre-right, now top row left): single ochre fruit body tapering to a white base with soil crumbs and white branched rhizomorphs",
+      "D (source far right, now top row right): longitudinal section showing white flesh inside an ochre rind, ragged soil-encrusted base",
+      "existing small cursive \"Gemini\" mark (source bottom right, now plate bottom right)"
+    ],
+    "signatureTreatment": "The cursive \"Gemini\" mark on the supplied file was retained once with unchanged pixels (alpha only) and placed in the bottom-right corner of the rearranged plate at the same uniform scale. No mark was added or painted. The file had no Latin-name caption. The mark is not proof of authorship.",
+    "holeRemovalDisabled": "Paper enclosed between branches (closed by outlines) and pale anatomy (white section flesh, white stipe base, white rhizomorphs) kept opaque; only the light glow connected to the outside was trimmed.",
+    "creditUse": "Plate credit/author remains \"Gemini\" as a metadata credit only. Apparently AI-generated; rights unverified.",
     "visibleMarks": [
-      "one cursive hand-script \"Gemini\" at bottom right (~x751-830, y1112-1146; script body plus two i-dots in the 896x1200 source)",
-      "no plate number, no imprint line, no other text"
+      "one small cursive \"Gemini\" at bottom right (~x963-1013, y1000-1022 in the 1024x1024 source)",
+      "no Latin-name caption, plate number, imprint line or other text"
     ],
     "provenanceAssessment": {
-      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark), not a scan of a documented historical plate",
       "evidence": [
-        "Supplied mark reads \"Gemini\" in a modern cursive font",
-        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art (IDs 140-144, 147-152, 154)",
+        "Mark reads \"Gemini\" in a modern cursive",
+        "1024x1024 JPEG/JFIF with Picasa Exif named .png, the same pattern as the v1 Gemini plate and other owner-supplied Gemini art",
         "No plate number, artist, engraver or publisher imprint",
-        "Uniform re-toned paper with synthetic vignette"
+        "Uniform cream paper with soft vignette and a light glow around outlines"
       ],
-      "anatomyCaveat": "Broadly consistent with published descriptions (small ochre-yellow to ochre-brown coral with repeatedly branched upright branches, fine pointed tips and white base with white rhizomorphs), but stylised; the left figure is more orange and more sparsely branched than described, and the right figure looks larger and denser than the sourced up to ~5 cm fruit bodies. Not a verified scientific illustration.",
       "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
     },
-    "steering": [
-      "t27u use supplied file",
-      "t28u signature Gemini"
-    ],
-    "alphaPNGSHA256": "0924106efc35e7e715514cc96391349807f0f24fdff43145f0191b6a3d2c266e",
-    "maskSHA256": "38fbdfa36e8f8044158342bc4cef4229562de37dbc13d5926af6b8a10c942496",
-    "recipeSHA256": "bbb1d64d2ab634c067668f459d70bfb05db1e84db97f439098fbcc2e5bba635b",
+    "visualReview": "Full-size inspection of the source, checker, group split, lossless composition and both official WebPs: all four figures, moss, grass, soil and rhizomorphs present; pale section flesh, white base and rhizomorphs stay opaque; source RGB unchanged; one uniform scale; no stretching, no double frame, nothing repainted. Gemini mark complete and legible at 1600; tiny at 400x600.",
+    "alphaPNGSHA256": "5ef0c666cd2562c00c623369f0c4440d931acbb7e3938f8b637fa5871d464be2",
+    "maskSHA256": "8b9b2163c80411ffb3cc1a4e6a86f4effd7ab283d65cb516d6e33d1c93e2bcc4",
+    "recipeSHA256": "6356d591f2efe4b159e48d2e1291adfd6ffdca961944fa1831120bf030f78a1a",
     "officialFiles": [
       {
         "path": "media/Phaeoclavulina_roellinii@1600.webp",
-        "bytes": 301718,
-        "sha256": "9ba9119206a09aa9539412e13115ad156072706a3dfdb6a2084aa1b05dfa4848"
+        "bytes": 247688,
+        "sha256": "3c4e343c14deeae874878c59fd12c467eeb53d27f0033ba8dbf93e92b5d6399f"
       },
       {
         "path": "media/Phaeoclavulina_roellinii@400.webp",
-        "bytes": 35682,
-        "sha256": "400ece2361877abe106b429374cbed72856e9b4913bfae9340afb2c784da8965"
+        "bytes": 31300,
+        "sha256": "a860eafe2ac4670fa1462a1e1fc2085da36dbc0b5fe35baf2662e66496a6cb2c"
       }
     ]
   }
@@ -159118,6 +159855,2034 @@ export const CATALOG = [
         "sha256": "dbc270c07b9bfe07a59f7117169e85ac52bc00b8c7b537dd8a906caeac2d9e01"
       }
     ]
+  }
+},
+{
+  "name": "Calonarius atrovirens",
+  "author": "(Kalchbr.) Niskanen & Liimat.",
+  "family": "Cortinariaceae",
+  "genus": "Calonarius",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Cortinariaceae",
+    "Calonarius"
+  ],
+  "summary": [
+    "Agaricales",
+    "Cortinariaceae",
+    "Calonarius"
+  ],
+  "edibility": "poisonous",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "green",
+    "yellow",
+    "dark"
+  ],
+  "capFrom": 4.0,
+  "capTo": 9.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 2.5,
+  "label": {
+    "ar": "Calonarius atrovirens",
+    "bg": "Calonarius atrovirens",
+    "cs": "pavučinec zelený",
+    "da": "Calonarius atrovirens",
+    "de": "Schwarzgrüner Klumpfuß",
+    "en": "olive webcap",
+    "es": "Calonarius atrovirens",
+    "et": "piparvöödik",
+    "fa": "Calonarius atrovirens",
+    "fi": "Calonarius atrovirens",
+    "fr": "cortinaire vert foncé",
+    "he": "Calonarius atrovirens",
+    "hi": "Calonarius atrovirens",
+    "hr": "Calonarius atrovirens",
+    "hu": "feketészöld pókhálósgomba",
+    "id": "Calonarius atrovirens",
+    "it": "Calonarius atrovirens",
+    "ja": "Calonarius atrovirens",
+    "ko": "Calonarius atrovirens",
+    "lt": "Calonarius atrovirens",
+    "lv": "Calonarius atrovirens",
+    "nl": "Calonarius atrovirens",
+    "no": "svartgrønn slørsopp",
+    "pl": "zasłonak czarniawy",
+    "pt": "Calonarius atrovirens",
+    "ro": "Calonarius atrovirens",
+    "ru": "паутинник чёрно-зеленый",
+    "sk": "pavučinovec kopytníkový",
+    "sl": "črnozeleni koprenar",
+    "sr": "Calonarius atrovirens",
+    "sv": "svartgrön spindling",
+    "tr": "Calonarius atrovirens",
+    "uk": "Calonarius atrovirens",
+    "zh": "Calonarius atrovirens"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "mörkgrön spindelskivling"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://portal23.nature.cz/redlist/v_cis_redlist.php?akce=seznam&def_str=240&frompage=5975&opener=&order=SKUPINA&orderhow=ASC&vztazne_id=0",
+      "https://www.mykoweb.cz/houba/cortinarius-atrovirens",
+      "https://www.mykologie.net/index.php/houby/podle-morfologie/lupenate/item/1556:cortinarius-atrovirens"
+    ],
+    "da": [],
+    "de": [
+      "https://myk.univie.ac.at/wp-content/uploads/2025/01/Cortinarius-atrovirens_OEMG_2025.pdf",
+      "https://www.dgfm-ev.de/files/dokumente/PSV/2026-06-01_giftpilze-nach-taxa.pdf",
+      "https://api.gbif.org/v1/species/2529006/vernacularNames",
+      "https://naturschutzbund.at/pilz-leser/items/2025-schwarzgruener-klumpfuss.html"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=553803",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=553803",
+      "https://www.gbif.org/species/12086958",
+      "https://www.catalogueoflife.org/data/taxon/B2NHN",
+      "https://doi.org/10.1007/s13225-022-00499-9",
+      "https://www.iucnredlist.org/species/147163231/147776091",
+      "https://myk.univie.ac.at/wp-content/uploads/2025/01/Cortinarius-atrovirens_OEMG_2025.pdf",
+      "https://www.dgfm-ev.de/files/dokumente/PSV/2026-06-01_giftpilze-nach-taxa.pdf",
+      "https://mykolog.de/arten/cortinarius-atrovirens/",
+      "https://123pilzsuche.de/daten/details/SchwarzgruenerKlumpfuss.htm",
+      "https://pilzbestimmer.de/Detailed/11637.html",
+      "https://www.myko.cz/myko-atlas/Cortinarius-atrovirens/",
+      "https://www.mykoweb.cz/houba/cortinarius-atrovirens",
+      "https://www.nahuby.sk/atlas-hub/Cortinarius-atrovirens/pavucinovec-kopytnikovy/pavucinec-zeleny/ID1187",
+      "https://api.gbif.org/v1/species/2529006/vernacularNames",
+      "https://api.gbif.org/v1/species/12086958/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://redlist.info/iucn/species_view/203772",
+      "https://api.gbif.org/v1/species/2529006/vernacularNames"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://www.mycodb.fr/fiche.php?espece=atrovirens&genre=Cortinarius",
+      "https://api.gbif.org/v1/species/12086958/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+      "https://hu.wikipedia.org/wiki/Feket%C3%A9sz%C3%B6ld_p%C3%B3kh%C3%A1l%C3%B3sgomba",
+      "https://api.gbif.org/v1/species/12086958/vernacularNames"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "https://artskart.artsdatabanken.no/publicapi/api/taxon/short?term=Cortinarius%20atrovirens",
+      "https://api.gbif.org/v1/species/2529006/vernacularNames"
+    ],
+    "pl": [
+      "https://www.ptmyk.pl/wp-content/uploads/2026/03/Rekomendacja-7_2026.pdf",
+      "https://api.gbif.org/v1/species/2529006/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://api.gbif.org/v1/species/12086958/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Cortinarius-atrovirens/pavucinovec-kopytnikovy/pavucinec-zeleny/ID1187",
+      "https://api.gbif.org/v1/species/12086958/vernacularNames"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/%C4%8Crnozeleni_koprenar",
+      "https://api.gbif.org/v1/species/12086958/vernacularNames"
+    ],
+    "sr": [],
+    "sv": [
+      "https://api.gbif.org/v1/species/2529006/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Svartgr%C3%B6n_spindling"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر نسيجي ممتلئ ونادر من غابات الشوح القديمة على الحجر الجيري، يُعرف بقبعته اللزجة ذات اللون الأخضر الزيتوني الداكن إلى الأسود تقريبًا، وصفائحه وساقه الصفراء الكبريتية، وبصلة حادة الحافة عند قاعدة الساق، ولحمه الأصفر الزاهي، ورائحته الحارة الشبيهة بالفلفل. لا يُعرف إلا في أوروبا، ضمن النطاق الطبيعي للشوح الأبيض، ويُشتبه في أنه سام.",
+      "cap": "عرضها ٤–٩ cm، ونادرًا حتى نحو ١١ cm؛ نصف كروية في البداية مع حافة ملتفة إلى الداخل مدة طويلة، ثم محدبة وأخيرًا مسطحة. السطح شديد اللزوجة في الرطوبة ولامع في الجفاف، أخضر زيتوني داكن إلى أخضر مسود، أدكن ما يكون في الوسط وغالبًا أفتح وأكثر ميلًا إلى الأخضر المصفر نحو الحافة، مع ألياف داكنة مغروسة شعاعيًا. تبهت القبعات القديمة نحو البني المصفر وقد تتشقق إلى رقع صغيرة. يلوّن هيدروكسيد البوتاسيوم (KOH) جلد القبعة بالبني المحمر الداكن حتى الأسود.",
+      "hymenium": "الصفائح مثلومة عند الساق، متقاربة وضيقة، صفراء كبريتية إلى صفراء كرومية أو صفراء مخضرة في الصغر، ثم مغرة زيتونية، وأخيرًا بنية صدئة من نضج الأبواغ؛ حافتها متموجة قليلًا إلى مسننة بدقة. وفي الأجسام الثمرية الصغيرة يغطيها غشاء عنكبوتي (كورتينا) أصفر مخضر جيد النمو.",
+      "stipe": "طولها ٤–٨ cm وسمكها ١–٢٫٥ cm، أسطوانية ومتماسكة، وفي قاعدتها بصلة عريضة حادة الحافة يصل عرضها إلى نحو ٣ cm. لونها أصفر كبريتي إلى أصفر مخضر، وتسمرّ من القاعدة مع التقدم في العمر؛ وعلى حافة البصلة بقايا غطاء صفراء مخضرة، وتصبح ألياف الكورتينا بنية صدئة من الأبواغ العالقة، وتحمل البصلة غزلًا فطريًا أصفر.",
+      "flesh": "متماسك، أصفر كبريتي إلى أصفر ليموني زاهٍ في كل أجزائه، وأحيانًا أصفر مخضر. الرائحة عطرية تشبه الفلفل، وكثيرًا ما تُشبَّه بالفلفل الأسود أو بأوراق Asarum europaeum المهروسة، لكنها قد تكون خفيفة؛ والطعم معتدل أو حار قليلًا.",
+      "sporePrint": "بني صدئ، وأكثر ميلًا إلى البني المصفر في الصغر. الأبواغ لوزية إلى ليمونية الشكل، واضحة الثآليل، نحو ٩–١٢ × ٥–٧ µm.",
+      "habitat": "فطر جذري خارجي، يعيش أساسًا مع الشوح الأبيض (Abies alba)، وأقل مع التنوب، ومع الصنوبر في جزيرة غوتلاند السويدية، دائمًا في التربة الكلسية. ينمو في غابات جبلية قديمة قريبة من الحالة الطبيعية من الزان والشوح أو التنوب والشوح على الحجر الجيري، مثل الغابة السوداء وجبال الجورا والألب والكاربات، وقد وُجد في سويسرا حتى ارتفاع نحو ١٨٠٠ m. يظهر أساسًا في سنوات الفطر الجيدة، وغالبًا حينئذ في صفوف طويلة أو حلقات جنيات، ولا سيما من منتصف سبتمبر حتى نهاية أكتوبر، لكن إجمالًا من أغسطس حتى نوفمبر.",
+      "uses": "غير صالح للأكل ويُشتبه في أنه سام. تدرجه القوائم الألمانية والنمساوية للفطريات السامة ضمن الأنواع المشتبه في تسببها بمتلازمة الأوريلانوس، وهي تسمم كلوي قد لا تظهر أعراضه إلا بعد أيام من الوجبة؛ والبيانات عن الأوريلانين في هذا النوع متناقضة، ولا يجوز أكله أبدًا.",
+      "confusion": "Cortinarius ionochlorus مطابق تقريبًا من الناحية الوراثية، لكنه ينمو مع البلوط في أماكن أدفأ، وصفائحه الصغيرة مشوبة بالبنفسجي. أما Cortinarius meinhardii وC. splendens وC. flavovirens وC. citrinus فقبعاتها أفتح وأكثر صفرة، وبعضها يرتبط بأشجار عائلة أخرى. ولـCortinarius odoratus رائحة حلوة قوية مميزة. ولـTricholoma equestre أيضًا قبعة صفراء مخضرة وصفائح صفراء، لكنه بلا بصلة محددة الحافة ولا غشاء عنكبوتي، وطبعة أبواغه بيضاء.",
+      "notes": "يصنفه تقييم عالمي أُجري عام ٢٠١٩ ضمن الأنواع القريبة من التهديد (Near Threatened)، قريبًا من المعرضة للخطر (Vulnerable): وُثّق نحو ١٠٠ موقع وربما يوجد نحو ١٠٠٠، بينما تتقلص غابات الشوح الكلسية القديمة التي يعيش فيها بسبب القطع الجائر الشامل وتحويلها إلى مزارع تنوب والبناء. وهو مدرج في القوائم الحمراء كمهدد محتمل في النمسا، وكمهدد بالانقراض في ألمانيا والتشيك، وكقريب من التهديد في سويسرا؛ ولم يُعثر عليه في بريطانيا منذ أواخر القرن التاسع عشر. فُصل جنس Calonarius عن Cortinarius عام ٢٠٢٢ بناءً على بيانات الحمض النووي، ولا يقبله بعض علماء الفطريات بعد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Едър, рядък паяжинник от стари елови гори върху варовик, който се разпознава по лигавата, тъмно маслиненозелена до почти черна шапка, сярножълтите пластинки и пънче, рязко ограничената грудка в основата на пънчето, яркожълтото месо и пикантния, пиперлив мирис. Известен е само от Европа, в естествения ареал на бялата ела, и се подозира, че е отровен.",
+      "cap": "Диаметър 4–9 cm, рядко до около 11 cm; отначало полусферична с дълго подвит ръб, после изпъкнала и накрая сплесната. Повърхността е много лигава във влажно време и лъскава в сухо, тъмно маслиненозелена до черникавозелена, най-тъмна в центъра и към ръба често по-светла и по-жълтеникавозелена, с тъмни, радиално враснали влакънца. Старите шапки избледняват към жълтеникавокафяво и могат да се напукат на малки полета. Калиевата основа (KOH) оцветява кожицата на шапката тъмно червеникавокафява до черна.",
+      "hymenium": "Пластинките са изрязани при пънчето, гъсти и тесни, отначало сярно- до хромовожълти или зеленикавожълти, после маслиненоохрени и накрая ръждивокафяви от узряващите спори; ръбът е леко вълнист до ситно назъбен. При младите плодни тела ги покрива добре развита, жълтозелена, паяжинообразна завеса (кортина).",
+      "stipe": "Дълго 4–8 cm и дебело 1–2,5 cm, цилиндрично и плътно, в основата с широка, рязко ограничена грудка до около 3 cm. Сярножълто до зеленикавожълто е и с възрастта покафенява от основата; по ръба на грудката има зеленикавожълти остатъци от було, влакната на кортината стават ръждивокафяви от задържаните спори, а грудката носи жълт мицел.",
+      "flesh": "Плътно, изцяло ярко сярно- до лимоновожълто, понякога зеленикавожълто. Мирисът е ароматен и пиперлив, често сравняван с черен пипер или смачкани листа от копитник (Asarum europaeum), но може да е слаб; вкусът е мек или леко пикантен.",
+      "sporePrint": "Ръждивокафяв, в младост по-жълтеникавокафяв. Спорите са бадемовидни до лимоновидни, ясно брадавичести, около 9–12 × 5–7 µm.",
+      "habitat": "Ектомикоризен вид, главно с бялата ела (Abies alba), по-рядко със смърч, а на шведския остров Готланд с бор, винаги на варовити почви. Расте в стари, близки до естествените планински букови-елови и смърчови-елови гори върху варовик, например в Шварцвалд, Юра, Алпите и Карпатите, а в Швейцария е намиран до около 1800 m надморска височина. Появява се главно в добри гъбени години, тогава често в дълги редици или вещерски кръгове, предимно от средата на септември до края на октомври, но общо от август до ноември.",
+      "uses": "Негоден за ядене и подозиран, че е отровен. Германските и австрийските списъци на отровните гъби го включват сред видовете, за които се подозира, че предизвикват ореланусов синдром – отравяне на бъбреците, чиито симптоми може да се проявят едва дни след храненето; данните за ореланин в този вид са противоречиви и той никога не бива да се яде.",
+      "confusion": "Cortinarius ionochlorus е почти идентичен генетично, но расте с дъб на по-топли места и в младост има пластинки с виолетов оттенък. Cortinarius meinhardii, C. splendens, C. flavovirens и C. citrinus имат по-светли, по-жълти шапки и отчасти други дървета гостоприемници. Cortinarius odoratus има силен, характерен сладникав мирис. Tricholoma equestre също има жълтозелена шапка и жълти пластинки, но няма ограничена грудка и паяжинообразна завеса, а споровият му отпечатък е бял.",
+      "notes": "Глобална оценка от 2019 г. го определя като почти застрашен (Near Threatened), близо до уязвим (Vulnerable): документирани са около 100 находища, а вероятно съществуват около 1000, като старите му варовити елови гори намаляват поради голи сечи, превръщане в смърчови насаждения и застрояване. В червените списъци е потенциално застрашен в Австрия, застрашен в Германия и Чехия и почти застрашен в Швейцария; във Великобритания не е намиран от края на XIX век. Родът Calonarius е отделен от Cortinarius през 2022 г. въз основа на ДНК данни; някои миколози още не го приемат.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Statný, vzácný pavučinec starých jedlových lesů na vápenci, poznatelný podle slizkého, tmavě olivově zeleného až téměř černého klobouku, sírově žlutých lupenů a třeně, ostře ohraničené hlízy na bázi třeně, jasně žluté dužniny a kořenité, pepřové vůně. Je znám jen z Evropy, v přirozeném areálu jedle bělokoré, a je podezřelý z jedovatosti.",
+      "cap": "Široký 4–9 cm, vzácně až asi 11 cm; nejprve polokulovitý s dlouho podvinutým okrajem, pak vyklenutý a nakonec plochý. Povrch je za vlhka velmi slizký a za sucha lesklý, tmavě olivově zelený až černozelený, ve středu nejtmavší a k okraji často světlejší a žlutěji zelený, s tmavými, paprsčitě vrostlými vlákny. Staré klobouky blednou do žlutohněda a mohou políčkovitě rozpraskat. Hydroxid draselný (KOH) barví pokožku klobouku tmavě červenohnědě až černě.",
+      "hymenium": "Lupeny u třeně vykrojené, husté a úzké, zprvu sírově až chromově žluté nebo zelenožluté, pak olivově okrové a nakonec od zrajících výtrusů rezavě hnědé; ostří je mírně zvlněné až jemně zoubkaté. U mladých plodnic je zakrývá dobře vyvinutá, žlutozelená, pavučinovitá plachetka (kortina).",
+      "stipe": "Dlouhý 4–8 cm a tlustý 1–2,5 cm, válcovitý a pevný, na bázi se širokou, ostře ohraničenou (odsedlou) hlízou širokou asi do 3 cm. Je sírově až zelenavě žlutý a se stářím od báze hnědne; na okraji hlízy jsou zelenožluté zbytky vela, vlákna kortiny se od zachycených výtrusů barví rezavě hnědě a hlíza nese žluté mycelium.",
+      "flesh": "Pevná, v celé plodnici sytě sírově až citronově žlutá, někdy zelenožlutá. Vůně je aromatická a pepřová, často přirovnávaná k černému pepři nebo k rozdrceným listům kopytníku evropského (Asarum europaeum), může však být slabá; chuť je mírná nebo slabě kořenitá.",
+      "sporePrint": "Rezavě hnědý, zamlada spíše žlutohnědý. Výtrusy jsou mandlovité až citronovité, zřetelně bradavčité, asi 9–12 × 5–7 µm.",
+      "habitat": "Ektomykorhizní houba, hlavně s jedlí bělokorou (Abies alba), méně často se smrkem a na švédském ostrově Gotland s borovicí, vždy na vápnitých půdách. Roste ve starých, přírodě blízkých horských bukojedlových a smrkojedlových lesích na vápenci, například ve Schwarzwaldu, v pohoří Jura, v Alpách a v Karpatech, a ve Švýcarsku byla nalezena až v nadmořské výšce asi 1800 m. Objevuje se hlavně v dobrých houbových letech, pak často v dlouhých řadách nebo kruzích, především od poloviny září do konce října, celkově však od srpna do listopadu.",
+      "uses": "Nejedlý a podezřelý z jedovatosti. Německé a rakouské seznamy jedovatých hub jej řadí mezi druhy podezřelé z vyvolání orelanového syndromu, otravy ledvin, jejíž příznaky se mohou objevit až několik dní po jídle; údaje o orelaninu u tohoto druhu si odporují a nikdy se nesmí jíst.",
+      "confusion": "Cortinarius ionochlorus je geneticky téměř totožný, roste však s duby na teplejších místech a zamlada má fialově nadechlé lupeny. Cortinarius meinhardii, C. splendens, C. flavovirens a C. citrinus mají světlejší, žlutější klobouky a zčásti jiné hostitelské dřeviny. Cortinarius odoratus má silnou, výraznou nasládlou vůni. Tricholoma equestre má rovněž žlutozelený klobouk a žluté lupeny, nemá však odsedlou hlízu ani pavučinovitou plachetku a jeho výtrusný prach je bílý.",
+      "notes": "Celosvětové hodnocení z roku 2019 jej řadí mezi téměř ohrožené druhy (Near Threatened), blízko zranitelným (Vulnerable): je doloženo asi 100 lokalit a pravděpodobně jich existuje kolem 1000, přičemž jeho staré vápnomilné jedlové lesy ubývají kvůli holosečím, přeměně na smrkové monokultury a výstavbě. V červených seznamech je veden jako potenciálně ohrožený v Rakousku, jako ohrožený v Německu a v České republice a jako téměř ohrožený ve Švýcarsku; v Británii nebyl nalezen od konce 19. století. Rod Calonarius byl od rodu Cortinarius oddělen v roce 2022 na základě DNA; někteří mykologové jej zatím neuznávají.",
+      "names": [],
+      "sourceUrls": [
+        "https://portal23.nature.cz/redlist/v_cis_redlist.php?akce=seznam&def_str=240&frompage=5975&opener=&order=SKUPINA&orderhow=ASC&vztazne_id=0",
+        "https://www.mykoweb.cz/houba/cortinarius-atrovirens",
+        "https://www.mykologie.net/index.php/houby/podle-morfologie/lupenate/item/1556:cortinarius-atrovirens"
+      ],
+      "label": "pavučinec zelený"
+    },
+    "da": {
+      "description": "En kraftig, sjælden slørhat fra gamle ædelgranskove på kalk, kendelig på den slimede, mørkt olivengrønne til næsten sorte hat, svovlgule lameller og stok, en skarpt kantet knold ved stokkens fod, klart gult kød og en krydret, peberagtig lugt. Den kendes kun fra Europa, inden for ædelgranens naturlige udbredelse, og mistænkes for at være giftig.",
+      "cap": "4–9 cm bred, sjældent op til omkring 11 cm; først halvkugleformet med længe indrullet rand, siden hvælvet og til sidst flad. Overfladen er meget slimet i fugtigt vejr og skinnende i tørvejr, mørkt olivengrøn til sortagtigt grøn, mørkest i midten og ofte lysere og mere gulgrøn mod randen, med mørke, radiært indvoksede trævler. Gamle hatte blegner mod gulbrunt og kan revne i små felter. Kaliumhydroxid (KOH) farver hathuden mørkt rødbrun til sort.",
+      "hymenium": "Lameller udrandet tilhæftede ved stokken, tætte og smalle, unge svovl- til kromgule eller grøngule, siden olivenokker og til sidst rustbrune af de modne sporer; ægen er let bølget til fint tandet. Hos unge frugtlegemer skjules de af et veludviklet, gulgrønt, spindelvævsagtigt slør (cortina).",
+      "stipe": "4–8 cm lang og 1–2,5 cm tyk, cylindrisk og fast, ved foden med en bred, skarpt kantet knold på op til omkring 3 cm. Den er svovl- til grønliggul og bliver med alderen brunere fra foden; på knoldens kant sidder grøngule velumrester, cortinaens tråde bliver rustbrune af fastholdte sporer, og knolden bærer gult mycelium.",
+      "flesh": "Fast, overalt klart svovl- til citrongult, undertiden grønliggult. Lugten er aromatisk og peberagtig, ofte sammenlignet med sort peber eller knuste blade af hasselurt (Asarum europaeum), men kan være svag; smagen er mild eller let krydret.",
+      "sporePrint": "Rustbrunt, i ung tilstand mere gulbrunt. Sporerne er mandel- til citronformede, tydeligt vortede og omkring 9–12 × 5–7 µm.",
+      "habitat": "Ektomykorrhizadanner, især med ædelgran (Abies alba), sjældnere med rødgran og på den svenske ø Gotland med fyr, altid på kalkholdig jord. Den vokser i gamle, naturnære bjergskove af bøg og ædelgran eller rødgran og ædelgran på kalk, for eksempel i Schwarzwald, Jura, Alperne og Karpaterne, og er i Schweiz fundet op til omkring 1800 m højde. Den viser sig mest i gode svampeår, så ofte i lange rækker eller heksekredse, hovedsagelig fra midten af september til slutningen af oktober, men fra august til november.",
+      "uses": "Ikke spiselig og mistænkt for at være giftig. Tyske og østrigske lister over giftsvampe regner den blandt de arter, der mistænkes for at give orellanus-syndrom, en nyreforgiftning hvor symptomerne kan komme først dage efter måltidet; oplysninger om orellanin i arten er modstridende, og den må aldrig spises.",
+      "confusion": "Cortinarius ionochlorus er genetisk næsten identisk, men vokser ved eg på varmere steder og har violettonede lameller som ung. Cortinarius meinhardii, C. splendens, C. flavovirens og C. citrinus har lysere, mere gule hatte og delvis andre værtstræer. Cortinarius odoratus har en stærk, karakteristisk sødlig lugt. Tricholoma equestre har også en gulgrøn hat og gule lameller, men ingen kantet knold eller spindelvævsagtigt slør, og et hvidt sporepulver.",
+      "notes": "En global vurdering fra 2019 klassificerer den som næsten truet (Near Threatened), tæt på sårbar (Vulnerable): omkring 100 lokaliteter er dokumenteret, og der findes måske omkring 1000, og dens gamle kalkrige ædelgranskove skrumper på grund af renafdrift, omlægning til rødgranplantager og byggeri. På rødlister står den som potentielt truet i Østrig, som truet i Tyskland og Tjekkiet og som næsten truet i Schweiz; i Storbritannien er den ikke fundet siden slutningen af 1800-tallet. Slægten Calonarius blev udskilt fra Cortinarius i 2022 på grundlag af DNA; nogle mykologer anerkender den endnu ikke.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein kräftiger, seltener Schleierling alter Tannenwälder auf Kalk, kenntlich am schleimigen, dunkel olivgrünen bis fast schwarzen Hut, an schwefelgelben Lamellen und Stielen, einer scharf gerandeten Knolle an der Stielbasis, leuchtend gelbem Fleisch und einem würzigen, pfeffrigen Geruch. Er ist nur aus Europa bekannt, innerhalb des natürlichen Verbreitungsgebiets der Weißtanne, und steht im Verdacht, giftig zu sein.",
+      "cap": "4–9 cm breit, selten bis etwa 11 cm; zuerst halbkugelig mit lange eingerolltem Rand, dann gewölbt und schließlich flach. Die Oberfläche ist feucht sehr schleimig und trocken glänzend, dunkel olivgrün bis schwärzlich grün, in der Mitte am dunkelsten und zum Rand hin oft heller und gelblicher grün, mit dunklen, radial eingewachsenen Fasern. Alte Hüte verblassen gegen Gelbbraun und können feldrig aufreißen. Kalilauge (KOH) färbt die Huthaut dunkel rotbraun bis schwarz.",
+      "hymenium": "Lamellen am Stiel ausgebuchtet angewachsen, gedrängt und schmal, jung schwefel- bis chromgelb oder grüngelb, dann olivocker und schließlich durch die reifenden Sporen rostbraun; die Schneiden sind leicht wellig bis fein gezähnelt. Bei jungen Fruchtkörpern verdeckt sie ein gut ausgebildeter, gelbgrüner, spinnwebartiger Schleier (Cortina).",
+      "stipe": "4–8 cm lang und 1–2,5 cm dick, zylindrisch und fest, an der Basis mit einer breiten, scharf gerandeten Knolle von bis etwa 3 cm Breite. Er ist schwefel- bis grünlich gelb und bräunt im Alter von der Basis her; am Knollenrand sitzen grüngelbe Velumreste, die Fasern der Cortina werden durch anhaftende Sporen rostbraun, und die Knolle trägt gelbes Myzel.",
+      "flesh": "Fest, durchgehend lebhaft schwefel- bis zitronengelb, manchmal grünlich gelb. Der Geruch ist aromatisch und pfeffrig, oft mit schwarzem Pfeffer oder zerriebenen Blättern der Haselwurz (Asarum europaeum) verglichen, kann aber schwach sein; der Geschmack ist mild oder leicht würzig.",
+      "sporePrint": "Rostbraun, jung eher gelbbraun. Die Sporen sind mandel- bis zitronenförmig, deutlich warzig und etwa 9–12 × 5–7 µm groß.",
+      "habitat": "Ektomykorrhizapilz, vor allem mit der Weißtanne (Abies alba), seltener mit Fichte und auf der schwedischen Insel Gotland mit Kiefer, stets auf kalkhaltigen Böden. Er wächst in alten, naturnahen montanen Buchen-Tannen- und Fichten-Tannen-Wäldern auf Kalk, etwa im Schwarzwald, im Jura, in den Alpen und in den Karpaten, und wurde in der Schweiz bis in etwa 1800 m Höhe gefunden. Er erscheint vor allem in guten Pilzjahren, dann oft in langen Reihen oder Hexenringen, hauptsächlich von Mitte September bis Ende Oktober, insgesamt aber von August bis November.",
+      "uses": "Nicht essbar und giftverdächtig. Deutsche und österreichische Giftpilzlisten führen ihn unter den Arten, die im Verdacht stehen, das Orellanus-Syndrom auszulösen, eine Nierenvergiftung, deren Beschwerden oft erst Tage nach der Mahlzeit auftreten; Angaben zu Orellanin in dieser Art widersprechen sich, und er darf niemals gegessen werden.",
+      "confusion": "Cortinarius ionochlorus ist genetisch nahezu identisch, wächst aber bei Eichen an wärmeren Standorten und hat jung violett getönte Lamellen. Cortinarius meinhardii, C. splendens, C. flavovirens und C. citrinus haben hellere, gelbere Hüte und zum Teil andere Baumpartner. Cortinarius odoratus hat einen starken, eigenartig süßlichen Geruch. Tricholoma equestre hat ebenfalls einen gelbgrünen Hut und gelbe Lamellen, aber keine gerandete Knolle, keinen spinnwebartigen Schleier und ein weißes Sporenpulver.",
+      "notes": "Pilz des Jahres 2025 in Österreich. Eine weltweite Bewertung von 2019 stuft ihn als potenziell gefährdet (Near Threatened) ein, nahe an gefährdet (Vulnerable): Rund 100 Fundorte sind belegt, vermutlich gibt es etwa 1000, und seine alten Kalk-Tannenwälder schwinden durch Kahlschläge, Umwandlung in Fichtenforste und Bebauung. Auf den Roten Listen steht er in Österreich als potenziell gefährdet, in Deutschland und Tschechien als stark gefährdet und in der Schweiz als potenziell gefährdet; in Großbritannien wurde er seit dem späten 19. Jahrhundert nicht mehr gefunden. Die Gattung Calonarius wurde 2022 aufgrund von DNA-Daten von Cortinarius abgetrennt; manche Mykologen erkennen sie noch nicht an.",
+      "names": [],
+      "sourceUrls": [
+        "https://myk.univie.ac.at/wp-content/uploads/2025/01/Cortinarius-atrovirens_OEMG_2025.pdf",
+        "https://www.dgfm-ev.de/files/dokumente/PSV/2026-06-01_giftpilze-nach-taxa.pdf",
+        "https://api.gbif.org/v1/species/2529006/vernacularNames",
+        "https://naturschutzbund.at/pilz-leser/items/2025-schwarzgruener-klumpfuss.html"
+      ],
+      "label": "Schwarzgrüner Klumpfuß"
+    },
+    "en": {
+      "description": "A stout, rare webcap of old silver-fir forests on limestone, recognised by its slimy, dark olive-green to almost black cap, sulphur-yellow gills and stem, a sharply rimmed bulb at the stem base, bright yellow flesh and a spicy, peppery smell. It is known only from Europe, within the natural range of silver fir, and is suspected to be poisonous.",
+      "cap": "4–9 cm across, rarely up to about 11 cm; hemispherical at first with a long inrolled margin, then convex and finally flattened. The surface is very slimy when wet and shiny when dry, dark olive green to blackish green, darkest at the centre and often paler and more yellowish green towards the margin, with dark, radially innate fibres. Old caps fade towards yellowish brown and may crack into small patches. Potassium hydroxide (KOH) turns the cap skin dark red-brown to black.",
+      "hymenium": "Gills notched where they meet the stem, crowded and narrow, sulphur to chrome yellow or greenish yellow when young, then olive ochre and finally rusty brown from the ripening spores; the edges are slightly wavy to finely toothed. In young fruit bodies they are hidden by a well-developed, yellow-green, cobweb-like veil (cortina).",
+      "stipe": "4–8 cm long and 1–2.5 cm thick, cylindrical and firm, with a broad, sharply rimmed (marginate) bulb up to about 3 cm across at the base. It is sulphur to greenish yellow and becomes browner from the base with age; greenish-yellow veil remnants sit on the rim of the bulb, the cortina fibres turn rusty brown from trapped spores, and the bulb carries yellow mycelium.",
+      "flesh": "Firm and vivid sulphur to lemon yellow throughout, sometimes greenish yellow. The smell is aromatic and peppery, often compared with black pepper or crushed leaves of asarabacca (Asarum europaeum), but it can be faint; the taste is mild or slightly spicy.",
+      "sporePrint": "Rusty brown, more yellowish brown when young. The spores are almond- to lemon-shaped, distinctly warty and about 9–12 × 5–7 µm.",
+      "habitat": "Ectomycorrhizal, mainly with silver fir (Abies alba), less often with spruce, and on the Swedish island of Gotland with pine, always on calcareous soils. It grows in old, near-natural montane beech–fir and spruce–fir forests on limestone, for example in the Black Forest, the Jura, the Alps and the Carpathians, and has been found up to about 1,800 m in Switzerland. It appears mainly in good fungus years, then often in long rows or fairy rings, chiefly from mid-September to the end of October but from August to November.",
+      "uses": "Not edible and suspected to be poisonous. German and Austrian lists of poisonous fungi place it among the species suspected of causing orellanus syndrome, a kidney poisoning whose symptoms may appear only days after the meal; reports of orellanine in this species are contradictory, and it must never be eaten.",
+      "confusion": "Cortinarius ionochlorus is almost identical genetically but grows with oak in warmer places and has violet-tinged gills when young. Cortinarius meinhardii, C. splendens, C. flavovirens and C. citrinus have paler, more yellow caps and partly different host trees. Cortinarius odoratus has a strong, distinctive sweet smell. Tricholoma equestre also has a yellow-green cap and yellow gills, but it has no rimmed bulb or cobweb-like veil and leaves a white spore print.",
+      "notes": "A 2019 global assessment rates it Near Threatened, close to Vulnerable: about 100 sites are documented and perhaps 1,000 exist, and its old calcareous fir forests are shrinking through clear-felling, conversion to spruce plantations and building. It is red-listed as potentially endangered in Austria, as endangered in Germany and the Czech Republic and as near threatened in Switzerland, and in Britain it has not been found since the late 19th century. The genus Calonarius was split from Cortinarius in 2022 on DNA evidence; some mycologists do not yet accept it.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=553803",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=553803",
+        "https://www.gbif.org/species/12086958",
+        "https://www.catalogueoflife.org/data/taxon/B2NHN",
+        "https://doi.org/10.1007/s13225-022-00499-9",
+        "https://www.iucnredlist.org/species/147163231/147776091",
+        "https://myk.univie.ac.at/wp-content/uploads/2025/01/Cortinarius-atrovirens_OEMG_2025.pdf",
+        "https://www.dgfm-ev.de/files/dokumente/PSV/2026-06-01_giftpilze-nach-taxa.pdf",
+        "https://mykolog.de/arten/cortinarius-atrovirens/",
+        "https://123pilzsuche.de/daten/details/SchwarzgruenerKlumpfuss.htm",
+        "https://pilzbestimmer.de/Detailed/11637.html",
+        "https://www.myko.cz/myko-atlas/Cortinarius-atrovirens/",
+        "https://www.mykoweb.cz/houba/cortinarius-atrovirens",
+        "https://www.nahuby.sk/atlas-hub/Cortinarius-atrovirens/pavucinovec-kopytnikovy/pavucinec-zeleny/ID1187",
+        "https://api.gbif.org/v1/species/2529006/vernacularNames",
+        "https://api.gbif.org/v1/species/12086958/vernacularNames"
+      ],
+      "label": "olive webcap"
+    },
+    "es": {
+      "description": "Un cortinario robusto y raro de los viejos abetales sobre caliza, reconocible por su sombrero viscoso, verde oliva oscuro a casi negro, sus láminas y su pie amarillo azufre, un bulbo netamente marginado en la base del pie, su carne amarillo vivo y su olor especiado, a pimienta. Solo se conoce de Europa, dentro del área natural del abeto blanco, y se sospecha que es tóxico.",
+      "cap": "De 4–9 cm de diámetro, rara vez hasta unos 11 cm; al principio hemisférico con el margen largo tiempo enrollado, luego convexo y finalmente aplanado. La superficie es muy viscosa en tiempo húmedo y brillante en seco, verde oliva oscuro a verde negruzco, más oscura en el centro y a menudo más clara y más verde amarillenta hacia el margen, con fibrillas oscuras innatas radiales. Los sombreros viejos palidecen hacia pardo amarillento y pueden agrietarse en pequeñas placas. El hidróxido de potasio (KOH) tiñe la cutícula de pardo rojizo oscuro a negro.",
+      "hymenium": "Láminas escotadas junto al pie, apretadas y estrechas, de jóvenes amarillo azufre a amarillo cromo o amarillo verdoso, luego ocre oliváceo y por fin pardo herrumbre al madurar las esporas; la arista es ligeramente ondulada a finamente dentada. En los ejemplares jóvenes las oculta una cortina aracnoide amarillo verdosa bien desarrollada.",
+      "stipe": "De 4–8 cm de largo y 1–2,5 cm de grosor, cilíndrico y firme, con un bulbo ancho y netamente marginado de hasta unos 3 cm en la base. Es amarillo azufre a amarillo verdoso y con la edad se oscurece a pardo desde la base; en el borde del bulbo quedan restos de velo amarillo verdosos, las fibrillas de la cortina se vuelven pardo herrumbre por las esporas retenidas y el bulbo lleva micelio amarillo.",
+      "flesh": "Firme, por completo amarillo azufre a amarillo limón vivo, a veces amarillo verdosa. El olor es aromático y a pimienta, a menudo comparado con la pimienta negra o con hojas trituradas de ásaro (Asarum europaeum), pero puede ser débil; el sabor es suave o algo especiado.",
+      "sporePrint": "Pardo herrumbre, más pardo amarillento al principio. Las esporas son amigdaliformes a citriformes, claramente verrugosas, de unos 9–12 × 5–7 µm.",
+      "habitat": "Ectomicorrícico, sobre todo con el abeto blanco (Abies alba), con menos frecuencia con la pícea y, en la isla sueca de Gotland, con el pino, siempre en suelos calizos. Crece en viejos hayedos-abetales y piceales-abetales montanos próximos al estado natural sobre caliza, por ejemplo en la Selva Negra, el Jura, los Alpes y los Cárpatos, y se ha encontrado hasta unos 1800 m de altitud en Suiza. Aparece sobre todo en los buenos años de setas, entonces a menudo en largas filas o corros de brujas, principalmente desde mediados de septiembre hasta finales de octubre, pero de agosto a noviembre.",
+      "uses": "No comestible y sospechoso de ser tóxico. Las listas alemanas y austriacas de setas tóxicas lo incluyen entre las especies sospechosas de causar el síndrome orellánico, una intoxicación renal cuyos síntomas pueden aparecer solo días después de la comida; los datos sobre orellanina en esta especie son contradictorios y nunca debe consumirse.",
+      "confusion": "Cortinarius ionochlorus es casi idéntico genéticamente, pero crece con robles en lugares más cálidos y de joven tiene láminas teñidas de violeta. Cortinarius meinhardii, C. splendens, C. flavovirens y C. citrinus tienen sombreros más claros y amarillos y en parte otros árboles huéspedes. Cortinarius odoratus tiene un olor dulzón fuerte y característico. Tricholoma equestre también tiene el sombrero amarillo verdoso y láminas amarillas, pero carece de bulbo marginado y de velo aracnoide, y su esporada es blanca.",
+      "notes": "Una evaluación mundial de 2019 lo considera casi amenazado (Near Threatened), cerca de vulnerable (Vulnerable): hay unas 100 localidades documentadas y quizá existan unas 1000, y sus viejos abetales calcícolas se reducen por las cortas a hecho, la conversión en plantaciones de pícea y la construcción. En las listas rojas figura como potencialmente amenazado en Austria, en peligro en Alemania y Chequia y casi amenazado en Suiza; en Gran Bretaña no se ha vuelto a encontrar desde finales del siglo XIX. El género Calonarius se separó de Cortinarius en 2022 a partir de datos de ADN; algunos micólogos aún no lo aceptan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Jässakas, haruldane vöödik lubjarikaste muldade vanadest nulumetsadest, mille tunneb ära limase, tumeda oliivrohelise kuni peaaegu musta kübara, väävelkollaste eoslehtede ja jala, jala alusel oleva teravalt äärisega mugula, erkkollase viljaliha ning vürtsika, pipraka lõhna järgi. Seda tuntakse ainult Euroopast, valge nulu loodusliku levila piires, ja seda kahtlustatakse mürgisuses.",
+      "cap": "Läbimõõt 4–9 cm, harva kuni umbes 11 cm; algul poolkerajas kaua sissekeerdunud servaga, siis kumer ja lõpuks lame. Pind on niiskelt väga limane ja kuivalt läikiv, tume oliivroheline kuni mustjasroheline, keskel kõige tumedam ja serva poole sageli heledam ning kollakamroheline, tumedate radiaalselt sissekasvanud kiududega. Vanad kübarad pleegivad kollakaspruuniks ja võivad väikesteks laikudeks lõheneda. Kaaliumhüdroksiid (KOH) värvib kübaranaha tumedaks punakaspruuniks kuni mustaks.",
+      "hymenium": "Eoslehed on jala juures väljalõikega, tihedad ja kitsad, noorelt väävel- kuni kroomkollased või rohekaskollased, siis oliivookrid ja lõpuks valmivatest eostest roostepruunid; serv on kergelt laineline kuni peenelt hambuline. Noortel viljakehadel katab neid hästi arenenud kollakasroheline ämblikuvõrgutaoline loor (kortiin).",
+      "stipe": "Pikkus 4–8 cm ja jämedus 1–2,5 cm, silindriline ja tihke, alusel lai, teravalt äärisega mugul läbimõõduga kuni umbes 3 cm. Jalg on väävel- kuni rohekaskollane ja muutub vanalt alusest alates pruunimaks; mugula äärel on rohekaskollaseid loorijäänuseid, kortiini kiud muutuvad kinnijäänud eostest roostepruuniks ja mugulal on kollane seeneniidistik.",
+      "flesh": "Tihke, läbinisti erkväävel- kuni sidrunkollane, mõnikord rohekaskollane. Lõhn on aromaatne ja piprane, sageli võrreldud musta pipra või purustatud euroopa kabjalehe (Asarum europaeum) lehtedega, kuid võib olla nõrk; maitse on mahe või kergelt vürtsikas.",
+      "sporePrint": "Roostepruun, noorelt kollakamaltpruun. Eosed on mandli- kuni sidrunikujulised, selgelt tüükalised, umbes 9–12 × 5–7 µm.",
+      "habitat": "Ektomükoriisaseen, peamiselt valge nuluga (Abies alba), harvem kuusega ja Rootsi saarel Gotlandil männiga, alati lubjarikkal mullal. Kasvab vanades, looduslähedastes mägiste piirkondade pöögi-nulu- ja kuuse-nulumetsades lubjakivil, näiteks Schwarzwaldis, Juras, Alpides ja Karpaatides, ning Šveitsis on seda leitud kuni umbes 1800 m kõrguselt. Ilmub peamiselt headel seeneaastatel, siis sageli pikkade ridadena või nõiaringidena, peamiselt septembri keskpaigast oktoobri lõpuni, kuid augustist novembrini.",
+      "uses": "Ei ole söödav ja seda kahtlustatakse mürgisuses. Saksa ja Austria mürkseente nimekirjad loevad selle liikide hulka, mida kahtlustatakse orellanussündroomi põhjustamises – see on neerumürgistus, mille sümptomid võivad ilmneda alles päevi pärast sööki; andmed orellaniini kohta selles liigis on vastuolulised ja seda ei tohi kunagi süüa.",
+      "confusion": "Cortinarius ionochlorus on geneetiliselt peaaegu identne, kuid kasvab tammega soojemates kohtades ja tal on noorelt violetja varjundiga eoslehed. Cortinarius meinhardii, C. splendens, C. flavovirens ja C. citrinus on heledama, kollasema kübaraga ning osalt teiste peremeespuudega. Cortinarius odoratus lõhnab tugevalt ja iseloomulikult magusalt. Tricholoma equestre'l on samuti kollakasroheline kübar ja kollased eoslehed, kuid tal puuduvad äärisega mugul ja ämblikuvõrgutaoline loor ning eospulber on valge.",
+      "notes": "2019. aasta ülemaailmne hinnang liigitab selle ohulähedaseks (Near Threatened), ohualti (Vulnerable) piiril: dokumenteeritud on umbes 100 leiukohta ja neid võib olla umbes 1000, ning selle vanad lubjarikkad nulumetsad kahanevad lageraiete, kuusekultuurideks muutmise ja ehitustegevuse tõttu. Punastes nimestikes on see Austrias potentsiaalselt ohustatud, Saksamaal ja Tšehhis ohustatud ning Šveitsis ohulähedane; Suurbritannias pole seda leitud alates 19. sajandi lõpust. Perekond Calonarius eraldati perekonnast Cortinarius 2022. aastal DNA-andmete põhjal; mõned mükoloogid seda veel ei tunnusta.",
+      "names": [],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/203772",
+        "https://api.gbif.org/v1/species/2529006/vernacularNames"
+      ],
+      "label": "piparvöödik"
+    },
+    "fa": {
+      "description": "قارچی تارعنکبوتی، تنومند و کمیاب از جنگل‌های کهن نراد بر سنگ آهک که با کلاهک لزج و سبز زیتونی تیره تا تقریباً سیاه، تیغه‌ها و پایه زرد گوگردی، غده‌ای با لبه تیز در قاعده پایه، گوشت زرد روشن و بوی تند و فلفلی شناخته می‌شود. فقط از اروپا و در محدوده پراکنش طبیعی نراد سفید شناخته شده و گمان می‌رود سمی باشد.",
+      "cap": "قطر آن ۴–۹ cm و به‌ندرت تا حدود ۱۱ cm است؛ ابتدا نیم‌کروی با لبه‌ای که مدت‌ها به درون پیچیده است، سپس محدب و سرانجام پهن. سطح آن در هوای مرطوب بسیار لزج و در هوای خشک براق است، سبز زیتونی تیره تا سبز مایل به سیاه، در مرکز تیره‌تر و به سوی لبه اغلب روشن‌تر و سبز مایل به زرد، با رشته‌های تیره که به‌صورت شعاعی در پوسته فرو رفته‌اند. کلاهک‌های پیر به قهوه‌ای مایل به زرد رنگ می‌بازند و ممکن است به قطعات کوچک ترک بخورند. هیدروکسید پتاسیم (KOH) پوسته کلاهک را قهوه‌ای مایل به قرمز تیره تا سیاه می‌کند.",
+      "hymenium": "تیغه‌ها در محل پایه بریده، فشرده و باریک‌اند؛ در جوانی زرد گوگردی تا زرد کرومی یا زرد مایل به سبز، سپس اُخرایی زیتونی و سرانجام با رسیدن هاگ‌ها قهوه‌ای زنگاری می‌شوند؛ لبه آن‌ها کمی موج‌دار تا ریزدندانه است. در بازیدیوکارپ‌های جوان، پرده‌ای تارعنکبوتی (کورتینا) زرد مایل به سبز و خوب‌رشدیافته آن‌ها را می‌پوشاند.",
+      "stipe": "طول ۴–۸ cm و ضخامت ۱–۲٫۵ cm، استوانه‌ای و سفت، با غده‌ای پهن و تیزلبه به پهنای حدود ۳ cm در قاعده. رنگ آن زرد گوگردی تا زرد مایل به سبز است و با افزایش سن از قاعده قهوه‌ای می‌شود؛ بر لبه غده بقایای پرده زرد مایل به سبز دیده می‌شود، رشته‌های کورتینا از هاگ‌های گیرافتاده قهوه‌ای زنگاری می‌شوند و غده ریسه‌های زرد دارد.",
+      "flesh": "سفت، در همه بخش‌ها زرد گوگردی تا زرد لیمویی روشن، گاهی زرد مایل به سبز. بوی آن معطر و فلفلی است و اغلب به فلفل سیاه یا برگ‌های لِه‌شده Asarum europaeum تشبیه می‌شود، اما ممکن است ضعیف باشد؛ مزه آن ملایم یا کمی تند است.",
+      "sporePrint": "قهوه‌ای زنگاری، در جوانی بیشتر قهوه‌ای مایل به زرد. هاگ‌ها بادامی تا لیمویی، آشکارا زگیل‌دار و حدود ۹–۱۲ × ۵–۷ µm هستند.",
+      "habitat": "قارچ میکوریزی بیرونی، عمدتاً با نراد سفید (Abies alba)، کمتر با صنوبر نوئل و در جزیره گوتلند سوئد با کاج، همیشه در خاک‌های آهکی. در جنگل‌های کوهستانی کهن و نزدیک به طبیعی راش–نراد و صنوبر نوئل–نراد بر سنگ آهک می‌روید، برای نمونه در جنگل سیاه، ژورا، آلپ و کارپات، و در سوئیس تا ارتفاع حدود ۱۸۰۰ m یافت شده است. بیشتر در سال‌های پربار قارچ ظاهر می‌شود و در آن هنگام اغلب در ردیف‌های بلند یا حلقه‌های پری، عمدتاً از نیمه سپتامبر تا پایان اکتبر، اما در مجموع از اوت تا نوامبر.",
+      "uses": "خوراکی نیست و گمان می‌رود سمی باشد. فهرست‌های قارچ‌های سمی آلمان و اتریش آن را در شمار گونه‌هایی می‌آورند که گمان می‌رود باعث سندرم اورلانوس شوند؛ این سندرم نوعی مسمومیت کلیوی است که نشانه‌هایش ممکن است تنها چند روز پس از غذا پدیدار شود. داده‌ها درباره اورلانین در این گونه متناقض‌اند و هرگز نباید آن را خورد.",
+      "confusion": "Cortinarius ionochlorus از نظر ژنتیکی تقریباً یکسان است، اما با بلوط در جاهای گرم‌تر می‌روید و در جوانی تیغه‌هایی با ته‌رنگ بنفش دارد. Cortinarius meinhardii، C. splendens، C. flavovirens و C. citrinus کلاهک‌های روشن‌تر و زردتر و تا حدی درختان میزبان دیگری دارند. Cortinarius odoratus بویی شیرین، قوی و متمایز دارد. Tricholoma equestre نیز کلاهک زرد مایل به سبز و تیغه‌های زرد دارد، اما غده لبه‌دار و پرده تارعنکبوتی ندارد و نقش هاگ آن سفید است.",
+      "notes": "یک ارزیابی جهانی در سال ۲۰۱۹ آن را در رده نزدیک به تهدید (Near Threatened) و نزدیک به آسیب‌پذیر (Vulnerable) قرار داده است: حدود ۱۰۰ رویشگاه ثبت شده و شاید حدود ۱۰۰۰ رویشگاه وجود داشته باشد، و جنگل‌های کهن نراد آهکی آن بر اثر قطع یکسره، تبدیل به کشتزارهای صنوبر نوئل و ساخت‌وساز رو به کاهش است. در فهرست‌های سرخ در اتریش بالقوه در معرض خطر، در آلمان و چک در معرض خطر و در سوئیس نزدیک به تهدید آمده است؛ در بریتانیا از اواخر سده نوزدهم دیگر یافت نشده است. سرده Calonarius در سال ۲۰۲۲ بر پایه داده‌های DNA از Cortinarius جدا شد؛ برخی قارچ‌شناسان هنوز آن را نپذیرفته‌اند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Tukeva, harvinainen seitikki vanhoista kalkkimaiden pihtametsistä, jonka tunnistaa limaisesta, tumman oliivinvihreästä lähes mustaan lakista, rikinkeltaisista heltoista ja jalasta, terävästi reunustetusta mukulasta jalan tyvessä, kirkkaankeltaisesta lihasta ja mausteisesta, pippurisesta hajusta. Se tunnetaan vain Euroopasta, saksanpihdan luontaiselta levinneisyysalueelta, ja sitä epäillään myrkylliseksi.",
+      "cap": "Halkaisija 4–9 cm, harvoin noin 11 cm; aluksi puolipallomainen ja reuna pitkään sisäänkääntynyt, sitten kupera ja lopulta tasainen. Pinta on kosteana hyvin limainen ja kuivana kiiltävä, tumman oliivinvihreä tai mustanvihreä, keskeltä tummin ja reunaa kohti usein vaaleampi ja kellertävämmän vihreä, ja siinä on tummia, säteittäin sisäänkasvaneita säikeitä. Vanhat lakit haalistuvat kellanruskeiksi ja voivat halkeilla pieniksi laikuiksi. Kaliumhydroksidi (KOH) värjää lakin pintakalvon tumman punaruskeaksi tai mustaksi.",
+      "hymenium": "Heltat ovat jalan kohdalta lovettuja, tiheässä ja kapeita, nuorena rikin- tai kromikeltaisia tai vihertävänkeltaisia, sitten oliivinokrankeltaisia ja lopulta kypsyvistä itiöistä ruosteenruskeita; terä on hieman aaltoileva tai hienosti hammastunut. Nuorissa itiöemissä niitä peittää hyvin kehittynyt, kellanvihreä, hämähäkinseittimäinen verho (kortiina).",
+      "stipe": "Pituus 4–8 cm ja paksuus 1–2,5 cm, lieriömäinen ja kiinteä, tyvessä leveä, terävästi reunustettu mukula, jonka leveys on enintään noin 3 cm. Jalka on rikinkeltainen tai vihertävänkeltainen ja ruskettuu vanhetessaan tyvestä alkaen; mukulan reunassa on vihertävänkeltaisia verhon jäänteitä, kortiinan säikeet ruskettuvat ruosteenruskeiksi tarttuneista itiöistä, ja mukulassa on keltaista rihmastoa.",
+      "flesh": "Kiinteä, kauttaaltaan kirkkaan rikin- tai sitruunankeltainen, joskus vihertävänkeltainen. Haju on aromaattinen ja pippurinen, ja sitä verrataan usein mustapippuriin tai murskattuihin taponlehden (Asarum europaeum) lehtiin, mutta se voi olla heikko; maku on mieto tai hieman mausteinen.",
+      "sporePrint": "Ruosteenruskea, nuorena kellanruskeampi. Itiöt ovat manteli- tai sitruunanmuotoisia, selvästi nystyisiä ja noin 9–12 × 5–7 µm.",
+      "habitat": "Ektomykorritsasieni, joka elää pääasiassa saksanpihdan (Abies alba) kanssa, harvemmin kuusen ja Ruotsin Gotlannissa männyn kanssa, aina kalkkipitoisella maalla. Se kasvaa vanhoissa, luonnontilaisissa vuoriston pyökki-pihta- ja kuusi-pihtametsissä kalkkikivellä, esimerkiksi Schwarzwaldissa, Juravuorilla, Alpeilla ja Karpaateilla, ja Sveitsissä sitä on löydetty noin 1 800 metrin korkeudelta. Se ilmestyy etenkin hyvinä sienivuosina, silloin usein pitkinä riveinä tai noidankehinä, pääasiassa syyskuun puolivälistä lokakuun loppuun mutta kaikkiaan elokuusta marraskuuhun.",
+      "uses": "Ei syötävä ja epäilty myrkylliseksi. Saksalaiset ja itävaltalaiset myrkkysieniluettelot lukevat sen lajeihin, joiden epäillään aiheuttavan orellaanimyrkytyksen, munuaisvaurion, jonka oireet voivat ilmetä vasta päiviä aterian jälkeen; tiedot orellaniinista tässä lajissa ovat ristiriitaisia, eikä sitä saa koskaan syödä.",
+      "confusion": "Cortinarius ionochlorus on perimältään lähes samanlainen, mutta se kasvaa tammen kanssa lämpimämmillä paikoilla, ja nuorena sen heltat ovat violetinsävyiset. Cortinarius meinhardii, C. splendens, C. flavovirens ja C. citrinus ovat lakiltaan vaaleampia ja keltaisempia, ja niillä on osin eri isäntäpuut. Cortinarius odoratus tuoksuu voimakkaan ja omaleimaisen makeahkolta. Myös Tricholoma equestre on lakiltaan kellanvihreä ja heltoiltaan keltainen, mutta siltä puuttuvat reunustettu mukula ja seittimäinen verho, ja sen itiöpöly on valkoinen.",
+      "notes": "Vuoden 2019 maailmanlaajuinen arvio luokittelee sen silmälläpidettäväksi (Near Threatened), lähelle vaarantunutta (Vulnerable): noin 100 kasvupaikkaa on dokumentoitu ja niitä on ehkä noin 1 000, ja sen vanhat kalkkimaiden pihtametsät vähenevät avohakkuiden, kuusiviljelmiksi muuttamisen ja rakentamisen vuoksi. Punaisilla listoilla se on Itävallassa mahdollisesti uhanalainen, Saksassa ja Tšekissä erittäin uhanalainen ja Sveitsissä silmälläpidettävä; Britanniassa sitä ei ole löydetty 1800-luvun lopun jälkeen. Calonarius-suku erotettiin Cortinarius-suvusta vuonna 2022 DNA-tietojen perusteella; kaikki mykologit eivät vielä hyväksy sitä.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un cortinaire trapu et rare des vieilles sapinières sur calcaire, reconnaissable à son chapeau visqueux, vert olive foncé à presque noir, à ses lames et son pied jaune soufre, à un bulbe nettement marginé à la base du pied, à sa chair jaune vif et à son odeur épicée, poivrée. Il n’est connu que d’Europe, dans l’aire naturelle du sapin blanc, et il est suspecté d’être toxique.",
+      "cap": "4–9 cm de diamètre, rarement jusqu’à environ 11 cm ; d’abord hémisphérique avec une marge longtemps enroulée, puis convexe et enfin aplani. La surface est très visqueuse par temps humide et brillante par temps sec, vert olive foncé à vert noirâtre, plus sombre au centre et souvent plus claire et plus jaune verdâtre vers la marge, avec des fibrilles sombres, radialement innées. Les vieux chapeaux pâlissent vers le brun jaunâtre et peuvent se craqueler en petites plaques. L’hydroxyde de potassium (KOH) colore la cuticule en brun rouge foncé à noir.",
+      "hymenium": "Lames échancrées au pied, serrées et étroites, jaune soufre à jaune de chrome ou jaune verdâtre dans la jeunesse, puis ocre olive et enfin brun rouille à maturité des spores ; l’arête est légèrement ondulée à finement denticulée. Chez les jeunes exemplaires, elles sont cachées par un voile aranéeux (cortine) jaune vert bien développé.",
+      "stipe": "Long de 4–8 cm et épais de 1–2,5 cm, cylindrique et ferme, terminé par un large bulbe nettement marginé atteignant environ 3 cm de diamètre. Il est jaune soufre à jaune verdâtre et brunit depuis la base avec l’âge ; des restes de voile jaune vert ornent la marge du bulbe, les fibrilles de la cortine deviennent brun rouille par les spores retenues, et le bulbe porte un mycélium jaune.",
+      "flesh": "Ferme, entièrement jaune soufre à jaune citron vif, parfois jaune verdâtre. L’odeur est aromatique et poivrée, souvent comparée au poivre noir ou aux feuilles froissées d’asaret d’Europe (Asarum europaeum), mais elle peut être faible ; la saveur est douce ou légèrement épicée.",
+      "sporePrint": "Brun rouille, plus brun jaunâtre au début. Les spores sont amygdaliformes à citriformes, nettement verruqueuses, d’environ 9–12 × 5–7 µm.",
+      "habitat": "Ectomycorhizien, surtout avec le sapin blanc (Abies alba), plus rarement avec l’épicéa et, sur l’île suédoise de Gotland, avec le pin, toujours sur sol calcaire. Il pousse dans les vieilles hêtraies-sapinières et pessières-sapinières montagnardes proches de l’état naturel sur calcaire, par exemple en Forêt-Noire, dans le Jura, dans les Alpes et dans les Carpates, et a été trouvé jusqu’à environ 1 800 m d’altitude en Suisse. Il apparaît surtout les bonnes années à champignons, souvent alors en longues files ou en ronds de sorcières, principalement de mi-septembre à fin octobre, mais d’août à novembre.",
+      "uses": "Non comestible et suspecté d’être toxique. Les listes allemandes et autrichiennes de champignons toxiques le classent parmi les espèces suspectées de provoquer le syndrome orellanien, une intoxication rénale dont les symptômes peuvent n’apparaître que plusieurs jours après le repas ; les données sur l’orellanine chez cette espèce sont contradictoires, et il ne doit jamais être consommé.",
+      "confusion": "Cortinarius ionochlorus est presque identique génétiquement mais pousse sous les chênes dans des stations plus chaudes et a des lames teintées de violet dans la jeunesse. Cortinarius meinhardii, C. splendens, C. flavovirens et C. citrinus ont des chapeaux plus clairs, plus jaunes, et en partie d’autres arbres hôtes. Cortinarius odoratus a une forte odeur sucrée caractéristique. Tricholoma equestre a lui aussi un chapeau jaune vert et des lames jaunes, mais pas de bulbe marginé ni de voile aranéeux, et sa sporée est blanche.",
+      "notes": "Une évaluation mondiale de 2019 le classe quasi menacé (Near Threatened), proche de vulnérable (Vulnerable) : environ 100 stations sont documentées et il en existerait peut-être 1 000, et ses vieilles sapinières calcaires régressent du fait des coupes rases, de la conversion en plantations d’épicéas et de la construction. Il figure sur les listes rouges comme potentiellement menacé en Autriche, en danger en Allemagne et en Tchéquie et quasi menacé en Suisse ; en Grande-Bretagne, il n’a plus été trouvé depuis la fin du XIXe siècle. Le genre Calonarius a été séparé de Cortinarius en 2022 sur la base de données ADN ; certains mycologues ne l’acceptent pas encore.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mycodb.fr/fiche.php?espece=atrovirens&genre=Cortinarius",
+        "https://api.gbif.org/v1/species/12086958/vernacularNames"
+      ],
+      "label": "cortinaire vert foncé"
+    },
+    "he": {
+      "description": "פטרייה קורית חסונה ונדירה של יערות אשוח ותיקים על אבן גיר, המזוהה לפי מצנפת רירית בצבע ירוק זית כהה עד כמעט שחור, דפדפים ורגל בצבע צהוב גופרית, פקעת בעלת שוליים חדים בבסיס הרגל, בשר צהוב עז וריח חריף דמוי פלפל. היא ידועה רק מאירופה, בתחום התפוצה הטבעי של האשוח הלבן, וחשודה כרעילה.",
+      "cap": "קוטר 4–9 cm, לעיתים רחוקות עד כ-11 cm; בתחילה חצי כדורית עם שוליים מגולגלים פנימה זמן רב, אחר כך קמורה ולבסוף שטוחה. פני השטח ריריים מאוד בלחות ומבריקים ביובש, ירוק זית כהה עד ירוק שחרחר, כהים ביותר במרכז ולעיתים קרובות בהירים וצהבהבים יותר לכיוון השוליים, עם סיבים כהים המשוקעים באופן רדיאלי. מצנפות זקנות דוהות לחום צהבהב ועשויות להיסדק לטלאים קטנים. אשלגן הידרוקסידי (KOH) צובע את עור המצנפת בחום אדמדם כהה עד שחור.",
+      "hymenium": "הדפדפים מנוסרים ליד הרגל, צפופים וצרים, בצעירותם צהוב גופרית עד צהוב כרום או צהוב ירקרק, אחר כך אוכרה זיתית ולבסוף חום חלודה מהנבגים המבשילים; השפה גלית מעט עד משוננת דק. בגופי פרי צעירים מכסה אותם צעיף דמוי קורי עכביש (קורטינה) צהוב-ירוק ומפותח היטב.",
+      "stipe": "אורך 4–8 cm ועובי 1–2.5 cm, גלילית ומוצקה, ובבסיסה פקעת רחבה בעלת שוליים חדים ברוחב של עד כ-3 cm. צבעה צהוב גופרית עד צהוב ירקרק, ועם הגיל היא מחשיכה לחום מהבסיס; על שולי הפקעת נותרים שרידי צעיף צהובים-ירקרקים, סיבי הקורטינה הופכים לחום חלודה מנבגים שנלכדו בהם, והפקעת נושאת תפטיר צהוב.",
+      "flesh": "מוצק, צהוב גופרית עד צהוב לימוני עז לכל אורכו, לעיתים צהוב ירקרק. הריח ארומטי ודמוי פלפל, ולעיתים קרובות משווים אותו לפלפל שחור או לעלים מעוכים של Asarum europaeum, אך הוא עשוי להיות חלש; הטעם עדין או חריף מעט.",
+      "sporePrint": "חום חלודה, בצעירות חום צהבהב יותר. הנבגים בצורת שקד עד לימון, יבלוליים בבירור, כ-9–12 × 5–7 µm.",
+      "habitat": "פטרייה יוצרת מיקוריזה חיצונית, בעיקר עם אשוח לבן (Abies alba), לעיתים רחוקות יותר עם אשוחית, ובאי השוודי גוטלנד עם אורן, תמיד בקרקע גירית. היא גדלה ביערות הרריים ותיקים וקרובים למצב הטבעי של אשור ואשוח או אשוחית ואשוח על אבן גיר, למשל ביער השחור, בהרי היורה, באלפים ובקרפטים, ובשווייץ נמצאה עד גובה של כ-1800 m. היא מופיעה בעיקר בשנים טובות לפטריות, ואז לעיתים קרובות בשורות ארוכות או במעגלי פיות, בעיקר מאמצע ספטמבר עד סוף אוקטובר, אך בסך הכול מאוגוסט עד נובמבר.",
+      "uses": "אינה ראויה למאכל וחשודה כרעילה. רשימות הפטריות הרעילות בגרמניה ובאוסטריה מונות אותה בין המינים החשודים בגרימת תסמונת אורלנוס, הרעלת כליות שתסמיניה עשויים להופיע רק ימים אחרי הארוחה; הנתונים על אורלנין במין זה סותרים, ואסור לאכול אותה לעולם.",
+      "confusion": "Cortinarius ionochlorus כמעט זהה מבחינה גנטית, אך גדל עם אלונים במקומות חמים יותר ובצעירותו דפדפיו בגוון סגול. ל-Cortinarius meinhardii, ל-C. splendens, ל-C. flavovirens ול-C. citrinus מצנפות בהירות וצהובות יותר ובחלקן עצי פונדקאי אחרים. ל-Cortinarius odoratus ריח מתקתק חזק ואופייני. גם ל-Tricholoma equestre מצנפת צהובה-ירוקה ודפדפים צהובים, אך אין לו פקעת בעלת שוליים וגם לא צעיף דמוי קורי עכביש, וטביעת הנבגים שלו לבנה.",
+      "notes": "הערכה עולמית משנת 2019 מדרגת אותה כקרובה לסיכון (Near Threatened), קרוב לפגיעה (Vulnerable): מתועדים כ-100 אתרים וייתכן שקיימים כ-1000, ויערות האשוח הגיריים הוותיקים שבהם היא חיה מצטמצמים עקב כריתות מלאות, הפיכה למטעי אשוחית ובנייה. ברשימות האדומות היא מופיעה כנמצאת בסיכון פוטנציאלי באוסטריה, כנמצאת בסכנה בגרמניה ובצ'כיה וכקרובה לסיכון בשווייץ; בבריטניה לא נמצאה מאז סוף המאה ה-19. הסוג Calonarius הופרד מ-Cortinarius בשנת 2022 על סמך נתוני DNA; חלק מהמיקולוגים עדיין אינם מקבלים אותו.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "चूना-पत्थर पर पुराने फ़र वनों में मिलने वाला एक मज़बूत और दुर्लभ जालीदार-परदे वाला कवक, जिसे इसकी चिपचिपी, गहरी जैतूनी-हरी से लगभग काली छतरी, गंधक-पीली गलफड़ों और डंठल, डंठल के आधार पर तीखे किनारे वाले कंद, चटक पीले गूदे और मसालेदार, काली मिर्च जैसी गंध से पहचाना जाता है। यह केवल यूरोप में, सिल्वर फ़र के प्राकृतिक क्षेत्र के भीतर ज्ञात है और इसके ज़हरीला होने का संदेह है।",
+      "cap": "4–9 cm चौड़ी, कभी-कभी लगभग 11 cm तक; पहले अर्धगोलाकार और किनारा लंबे समय तक भीतर मुड़ा हुआ, फिर उत्तल और अंत में चपटी। सतह गीली होने पर बहुत चिपचिपी और सूखी होने पर चमकदार होती है, गहरी जैतूनी-हरी से कालिमा लिए हरी, बीच में सबसे गहरी और किनारे की ओर अक्सर हल्की व अधिक पीलापन लिए हरी, जिसमें गहरे रंग के अरीय रूप से धँसे रेशे होते हैं। पुरानी छतरियाँ पीलापन लिए भूरी होकर फीकी पड़ जाती हैं और छोटे-छोटे टुकड़ों में फट सकती हैं। पोटैशियम हाइड्रॉक्साइड (KOH) छतरी की त्वचा को गहरा लाल-भूरा से काला कर देता है।",
+      "hymenium": "गलफड़ डंठल के पास खाँचेदार, घने और संकरे होते हैं; युवावस्था में गंधक-पीले से क्रोम-पीले या हरापन लिए पीले, फिर जैतूनी गेरुए और अंत में पकते बीजाणुओं से जंग-भूरे हो जाते हैं; किनारा हल्का लहरदार से बारीक दाँतेदार होता है। युवा फलकायों में इन्हें एक अच्छी तरह विकसित, पीला-हरा, मकड़ी के जाले जैसा परदा (कॉर्टिना) ढके रहता है।",
+      "stipe": "4–8 cm लंबा और 1–2.5 cm मोटा, बेलनाकार और सख़्त, आधार पर लगभग 3 cm तक चौड़े, तीखे किनारे वाले चौड़े कंद के साथ। यह गंधक-पीले से हरापन लिए पीले रंग का होता है और उम्र के साथ आधार से भूरा होने लगता है; कंद के किनारे पर हरे-पीले परदे के अवशेष रहते हैं, कॉर्टिना के रेशे फँसे बीजाणुओं से जंग-भूरे हो जाते हैं और कंद पर पीला कवकजाल होता है।",
+      "flesh": "सख़्त, पूरी तरह चटक गंधक-पीला से नींबू-पीला, कभी-कभी हरापन लिए पीला। गंध सुगंधित और काली मिर्च जैसी होती है, जिसकी तुलना अक्सर काली मिर्च या मसली हुई Asarum europaeum की पत्तियों से की जाती है, पर यह हल्की भी हो सकती है; स्वाद हल्का या थोड़ा मसालेदार होता है।",
+      "sporePrint": "जंग-भूरा, युवावस्था में अधिक पीलापन लिए भूरा। बीजाणु बादाम से नींबू के आकार के, स्पष्ट रूप से मस्सेदार और लगभग 9–12 × 5–7 µm होते हैं।",
+      "habitat": "बाह्य कवकमूल बनाने वाला कवक, मुख्यतः सिल्वर फ़र (Abies alba) के साथ, कम बार स्प्रूस के साथ और स्वीडन के गोटलैंड द्वीप पर चीड़ के साथ, हमेशा चूनेदार मिट्टी में। यह चूना-पत्थर पर पुराने, प्राकृतिक अवस्था के निकट पर्वतीय बीच–फ़र और स्प्रूस–फ़र वनों में उगता है, जैसे ब्लैक फ़ॉरेस्ट, जुरा, आल्प्स और कार्पेथियन में, और स्विट्ज़रलैंड में लगभग 1800 m की ऊँचाई तक पाया गया है। यह मुख्यतः कवकों के अच्छे वर्षों में दिखाई देता है, तब अक्सर लंबी पंक्तियों या परी-वलयों में, मुख्यतः मध्य सितंबर से अक्टूबर के अंत तक, पर कुल मिलाकर अगस्त से नवंबर तक।",
+      "uses": "खाने योग्य नहीं और ज़हरीला होने का संदेह। जर्मनी और ऑस्ट्रिया की ज़हरीले कवकों की सूचियाँ इसे उन प्रजातियों में गिनती हैं जिन पर ओरेलानस सिंड्रोम पैदा करने का संदेह है; यह गुर्दों की विषाक्तता है जिसके लक्षण भोजन के कई दिन बाद ही प्रकट हो सकते हैं। इस प्रजाति में ओरेलानिन के बारे में आँकड़े परस्पर विरोधी हैं, और इसे कभी नहीं खाना चाहिए।",
+      "confusion": "Cortinarius ionochlorus आनुवंशिक रूप से लगभग समान है, पर गर्म स्थानों में ओक के साथ उगता है और युवावस्था में इसके गलफड़ों पर बैंगनी आभा होती है। Cortinarius meinhardii, C. splendens, C. flavovirens और C. citrinus की छतरियाँ अधिक हल्की और पीली होती हैं और कुछ के मेज़बान वृक्ष भिन्न होते हैं। Cortinarius odoratus की गंध तेज़, विशिष्ट और मीठी होती है। Tricholoma equestre की छतरी भी पीली-हरी और गलफड़ पीले होते हैं, पर इसमें न तो किनारेदार कंद होता है और न ही जाले जैसा परदा, और इसका बीजाणु-छाप सफ़ेद होता है।",
+      "notes": "2019 के एक वैश्विक आकलन ने इसे संकट-निकट (Near Threatened), असुरक्षित (Vulnerable) के क़रीब, श्रेणी में रखा है: लगभग 100 स्थल दर्ज हैं और शायद लगभग 1000 मौजूद हों, जबकि इसके पुराने चूनेदार फ़र वन पूर्ण कटाई, स्प्रूस बागानों में बदलने और निर्माण के कारण सिकुड़ रहे हैं। लाल सूचियों में यह ऑस्ट्रिया में संभावित रूप से संकटग्रस्त, जर्मनी और चेकिया में संकटग्रस्त तथा स्विट्ज़रलैंड में संकट-निकट दर्ज है; ब्रिटेन में यह 19वीं सदी के अंत से नहीं मिला है। Calonarius वंश को 2022 में DNA आँकड़ों के आधार पर Cortinarius से अलग किया गया; कुछ कवकविज्ञानी अभी इसे स्वीकार नहीं करते।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Krupna, rijetka zavjesnica starih jelovih šuma na vapnencu, prepoznatljiva po sluzavom, tamno maslinastozelenom do gotovo crnom šeširu, sumporastožutim listićima i stručku, oštro obrubljenom gomolju na dnu stručka, jarko žutom mesu i začinskom, paprenom mirisu. Poznata je samo iz Europe, unutar prirodnog areala obične jele, i sumnja se da je otrovna.",
+      "cap": "Širok 4–9 cm, rijetko do oko 11 cm; isprva polukuglast s dugo podvijenim rubom, zatim izbočen i na kraju plosnat. Površina je po vlazi vrlo sluzava, a po suhom sjajna, tamno maslinastozelena do crnkastozelena, najtamnija u sredini i prema rubu često svjetlija i žućkastije zelena, s tamnim, radijalno uraslim vlakancima. Stari šeširi izblijede prema žućkastosmeđoj i mogu se raspucati u mala polja. Kalijev hidroksid (KOH) boji kožicu šešira tamno crvenkastosmeđe do crno.",
+      "hymenium": "Listići su uz stručak izrezani, gusti i uski, u mladosti sumporasto do kromžuti ili zelenkastožuti, zatim maslinastookerasti i na kraju od zrelih spora hrđavosmeđi; oštrica je blago valovita do sitno nazubljena. U mladih plodišta prekriva ih dobro razvijena, žutozelena, paučinasta zavjesica (kortina).",
+      "stipe": "Dug 4–8 cm i debeo 1–2,5 cm, valjkast i čvrst, pri dnu sa širokim, oštro obrubljenim gomoljem širine do oko 3 cm. Sumporastožut je do zelenkastožut i sa starošću od dna posmeđi; na rubu gomolja nalaze se zelenkastožuti ostaci ovoja, vlakna kortine od zadržanih spora postaju hrđavosmeđa, a gomolj nosi žuti micelij.",
+      "flesh": "Čvrsto, posvuda živo sumporasto do limunastožuto, ponekad zelenkastožuto. Miris je aromatičan i papren, često uspoređivan s crnim paprom ili zgnječenim listovima kopitnjaka (Asarum europaeum), ali može biti slab; okus je blag ili blago začinski.",
+      "sporePrint": "Hrđavosmeđ, u mladosti više žućkastosmeđ. Spore su bademaste do limunaste, izrazito bradavičaste, oko 9–12 × 5–7 µm.",
+      "habitat": "Ektomikorizna gljiva, ponajprije s običnom jelom (Abies alba), rjeđe sa smrekom, a na švedskom otoku Gotlandu s borom, uvijek na vapnenačkim tlima. Raste u starim, prirodnim planinskim bukovo-jelovim i smrekovo-jelovim šumama na vapnencu, primjerice u Schwarzwaldu, Juri, Alpama i Karpatima, a u Švicarskoj je nađena do oko 1800 m nadmorske visine. Javlja se ponajviše u dobrim gljivarskim godinama, tada često u dugim nizovima ili vilinskim krugovima, uglavnom od sredine rujna do kraja listopada, ali ukupno od kolovoza do studenoga.",
+      "uses": "Nejestiva i sumnja se da je otrovna. Njemački i austrijski popisi otrovnih gljiva ubrajaju je među vrste za koje se sumnja da izazivaju orelanusni sindrom, trovanje bubrega čiji se simptomi mogu javiti tek nekoliko dana nakon obroka; podaci o orelaninu u ovoj vrsti su proturječni, i nikada se ne smije jesti.",
+      "confusion": "Cortinarius ionochlorus genetski je gotovo jednak, ali raste uz hrastove na toplijim mjestima i u mladosti ima ljubičasto obojene listiće. Cortinarius meinhardii, C. splendens, C. flavovirens i C. citrinus imaju svjetlije, žuće šešire i djelomično druga stabla domaćine. Cortinarius odoratus ima jak, osebujan slatkast miris. Tricholoma equestre također ima žutozelen šešir i žute listiće, ali nema obrubljen gomolj ni paučinastu zavjesicu, a otisak spora mu je bijel.",
+      "notes": "Globalna procjena iz 2019. svrstava je u gotovo ugrožene vrste (Near Threatened), blizu osjetljivima (Vulnerable): dokumentirano je oko 100 nalazišta, a vjerojatno ih postoji oko 1000, dok se njezine stare vapnenačke jelove šume smanjuju zbog čistih sječa, pretvaranja u smrekove nasade i gradnje. Na crvenim popisima u Austriji je potencijalno ugrožena, u Njemačkoj i Češkoj ugrožena, a u Švicarskoj gotovo ugrožena; u Velikoj Britaniji nije pronađena od kraja 19. stoljeća. Rod Calonarius odvojen je od roda Cortinarius 2022. na temelju podataka DNK; neki mikolozi ga još ne prihvaćaju.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Zömök, ritka pókhálósgomba a mészkövön álló idős jegenyefenyvesekből, amely nyálkás, sötét olívzöld vagy szinte fekete kalapjáról, kénsárga lemezeiről és tönkjéről, a tönk tövén ülő élesen peremes gumójáról, élénksárga húsáról és fűszeres, borsos illatáról ismerhető fel. Csak Európából ismert, a közönséges jegenyefenyő természetes elterjedési területén belül, és mérgezőnek gyanítják.",
+      "cap": "Átmérője 4–9 cm, ritkán mintegy 11 cm; eleinte félgömb alakú, sokáig begöngyölt széllel, majd domború, végül lapos. Felülete nedvesen nagyon nyálkás, szárazon fénylő, sötét olívzöld vagy feketészöld, közepén a legsötétebb, a szél felé gyakran világosabb és sárgásabb zöld, sötét, sugarasan benőtt szálakkal. Az idős kalapok sárgásbarnára fakulnak, és apró mezőkre repedezhetnek. A kálium-hidroxid (KOH) a kalapbőrt sötét vörösbarnára vagy feketére színezi.",
+      "hymenium": "A lemezek a tönknél kicsípettek, sűrűk és keskenyek, fiatalon kén- vagy krómsárgák, illetve zöldessárgák, később olívokkeresek, végül az érő spóráktól rozsdabarnák; élük kissé hullámos vagy finoman fogazott. A fiatal termőtesteken jól fejlett, sárgászöld, pókhálószerű fátyol (kortina) takarja őket.",
+      "stipe": "Hossza 4–8 cm, vastagsága 1–2,5 cm, hengeres és tömör, tövén széles, élesen peremes, mintegy 3 cm-ig szélesedő gumóval. Kén- vagy zöldessárga, idővel a tövétől barnul; a gumó peremén zöldessárga burokmaradványok ülnek, a kortina szálai a rájuk tapadt spóráktól rozsdabarnák lesznek, a gumón sárga micélium látható.",
+      "flesh": "Tömör, egészében élénk kén- vagy citromsárga, néha zöldessárga. Illata aromás és borsos, gyakran a fekete borshoz vagy a kapotnyak (Asarum europaeum) szétmorzsolt leveleihez hasonlítják, de lehet gyenge is; íze enyhe vagy kissé fűszeres.",
+      "sporePrint": "Rozsdabarna, fiatalon inkább sárgásbarna. A spórák mandula- vagy citrom alakúak, feltűnően szemölcsösek, nagyjából 9–12 × 5–7 µm-esek.",
+      "habitat": "Ektomikorrhizás gomba, főként a közönséges jegenyefenyővel (Abies alba), ritkábban lucfenyővel, a svédországi Gotland szigetén erdeifenyővel él együtt, mindig meszes talajon. Idős, természetközeli hegyvidéki bükkös-jegenyefenyvesekben és lucos-jegenyefenyvesekben nő mészkövön, például a Fekete-erdőben, a Jurában, az Alpokban és a Kárpátokban, Svájcban mintegy 1800 m magasságig találták meg. Főként jó gombás években jelenik meg, ilyenkor gyakran hosszú sorokban vagy boszorkánykörökben, többnyire szeptember közepétől október végéig, de augusztustól novemberig.",
+      "uses": "Nem ehető, mérgezőnek gyanítják. A német és osztrák mérgezőgomba-listák azon fajok közé sorolják, amelyekről feltételezik, hogy orellanus-szindrómát okozhatnak; ez olyan vesemérgezés, amelynek tünetei csak napokkal az étkezés után jelentkezhetnek. A fajban kimutatott orellaninról szóló adatok ellentmondásosak, és soha nem szabad elfogyasztani.",
+      "confusion": "A Cortinarius ionochlorus genetikailag szinte azonos, de melegebb helyeken tölgyek alatt nő, és fiatalon ibolyás árnyalatú lemezei vannak. A Cortinarius meinhardii, a C. splendens, a C. flavovirens és a C. citrinus kalapja világosabb, sárgább, és részben más gazdafákkal élnek. A Cortinarius odoratus erős, jellegzetes édeskés illatú. A Tricholoma equestre kalapja szintén sárgászöld, lemezei sárgák, de nincs peremes gumója és pókhálószerű fátyla, spórapora pedig fehér.",
+      "notes": "Egy 2019-es globális értékelés a mérsékelten fenyegetett (Near Threatened) kategóriába sorolja, közel a sebezhetőhöz (Vulnerable): mintegy 100 lelőhelye ismert, és talán 1000 létezik, idős, meszes talajú jegenyefenyvesei pedig a tarvágások, a lucfenyő-ültetvényekké alakítás és a beépítés miatt fogynak. A vörös listákon Ausztriában potenciálisan veszélyeztetett, Németországban és Csehországban erősen veszélyeztetett, Svájcban mérsékelten fenyegetett; Nagy-Britanniában a 19. század vége óta nem találták meg. A Calonarius nemzetséget 2022-ben DNS-adatok alapján választották le a Cortinarius nemzetségről; egyes mikológusok még nem fogadják el.",
+      "names": [],
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+        "https://hu.wikipedia.org/wiki/Feket%C3%A9sz%C3%B6ld_p%C3%B3kh%C3%A1l%C3%B3sgomba",
+        "https://api.gbif.org/v1/species/12086958/vernacularNames"
+      ],
+      "label": "feketészöld pókhálósgomba"
+    },
+    "id": {
+      "description": "Jamur tudung jaring yang kekar dan langka dari hutan cemara Abies tua di atas batu kapur, mudah dikenali dari tudungnya yang berlendir, hijau zaitun gelap hingga hampir hitam, bilah dan tangkai berwarna kuning belerang, umbi berpinggiran tajam di pangkal tangkai, daging kuning cerah, serta bau pedas seperti lada. Jamur ini hanya diketahui dari Eropa, di dalam wilayah sebaran alami cemara perak, dan diduga beracun.",
+      "cap": "Lebar 4–9 cm, jarang hingga sekitar 11 cm; mula-mula setengah bulat dengan tepi lama tergulung ke dalam, lalu cembung dan akhirnya rata. Permukaannya sangat berlendir saat basah dan mengilap saat kering, hijau zaitun gelap hingga hijau kehitaman, paling gelap di tengah dan sering lebih pucat serta lebih hijau kekuningan ke arah tepi, dengan serat gelap yang tertanam secara radial. Tudung tua memudar menjadi cokelat kekuningan dan dapat retak menjadi petak-petak kecil. Kalium hidroksida (KOH) mewarnai kulit tudung menjadi cokelat kemerahan gelap hingga hitam.",
+      "hymenium": "Bilah berlekuk di dekat tangkai, rapat dan sempit, saat muda kuning belerang hingga kuning krom atau kuning kehijauan, lalu oker zaitun dan akhirnya cokelat karat oleh spora yang matang; tepinya sedikit bergelombang hingga bergerigi halus. Pada tubuh buah muda bilah tertutup oleh selubung seperti sarang laba-laba (kortina) berwarna kuning-hijau yang berkembang baik.",
+      "stipe": "Panjang 4–8 cm dan tebal 1–2,5 cm, silindris dan padat, dengan umbi lebar berpinggiran tajam selebar sekitar 3 cm di pangkalnya. Warnanya kuning belerang hingga kuning kehijauan dan dengan bertambahnya umur menjadi kecokelatan dari pangkal; di tepi umbi terdapat sisa selubung kuning kehijauan, serat kortina menjadi cokelat karat oleh spora yang tertahan, dan umbinya membawa miselium kuning.",
+      "flesh": "Padat, seluruhnya kuning belerang hingga kuning lemon cerah, kadang kuning kehijauan. Baunya aromatik dan seperti lada, sering dibandingkan dengan lada hitam atau daun Asarum europaeum yang diremas, tetapi bisa lemah; rasanya lembut atau sedikit pedas.",
+      "sporePrint": "Cokelat karat, saat muda lebih cokelat kekuningan. Sporanya berbentuk almon hingga lemon, jelas berbintil, sekitar 9–12 × 5–7 µm.",
+      "habitat": "Ektomikoriza, terutama dengan cemara perak (Abies alba), lebih jarang dengan spruce, dan di Pulau Gotland di Swedia dengan pinus, selalu di tanah berkapur. Tumbuh di hutan pegunungan tua yang mendekati alami berupa campuran beech–cemara perak dan spruce–cemara perak di atas batu kapur, misalnya di Schwarzwald, Jura, Pegunungan Alpen, dan Karpatia, dan di Swiss ditemukan hingga ketinggian sekitar 1800 m. Jamur ini muncul terutama pada tahun-tahun jamur yang baik, sering dalam barisan panjang atau lingkaran peri, terutama dari pertengahan September hingga akhir Oktober, tetapi secara keseluruhan dari Agustus hingga November.",
+      "uses": "Tidak dapat dimakan dan diduga beracun. Daftar jamur beracun Jerman dan Austria memasukkannya ke dalam spesies yang diduga menyebabkan sindrom orellanus, keracunan ginjal yang gejalanya dapat baru muncul beberapa hari setelah makan; data tentang orellanin pada spesies ini saling bertentangan, dan jamur ini sama sekali tidak boleh dimakan.",
+      "confusion": "Cortinarius ionochlorus secara genetik hampir identik, tetapi tumbuh bersama ek di tempat yang lebih hangat dan saat muda memiliki bilah bernuansa ungu. Cortinarius meinhardii, C. splendens, C. flavovirens, dan C. citrinus memiliki tudung yang lebih pucat dan lebih kuning serta sebagian pohon inang yang berbeda. Cortinarius odoratus memiliki bau manis yang kuat dan khas. Tricholoma equestre juga bertudung kuning-hijau dan berbilah kuning, tetapi tidak memiliki umbi berpinggiran maupun selubung seperti sarang laba-laba, dan cetak sporanya putih.",
+      "notes": "Penilaian global tahun 2019 menggolongkannya sebagai Hampir Terancam (Near Threatened), mendekati Rentan (Vulnerable): sekitar 100 lokasi telah terdokumentasi dan mungkin ada sekitar 1000, sementara hutan cemara perak tua berkapurnya menyusut akibat tebang habis, konversi menjadi perkebunan spruce, dan pembangunan. Dalam daftar merah ia tercatat berpotensi terancam di Austria, terancam di Jerman dan Ceko, serta hampir terancam di Swiss; di Britania Raya jamur ini tidak ditemukan lagi sejak akhir abad ke-19. Genus Calonarius dipisahkan dari Cortinarius pada 2022 berdasarkan data DNA; sebagian ahli mikologi belum menerimanya.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un cortinario robusto e raro delle vecchie abetine su calcare, riconoscibile dal cappello viscido, verde oliva scuro fino a quasi nero, dalle lamelle e dal gambo giallo zolfo, da un bulbo nettamente marginato alla base del gambo, dalla carne giallo vivo e da un odore speziato, pepato. È noto solo in Europa, entro l’areale naturale dell’abete bianco, ed è sospettato di essere velenoso.",
+      "cap": "4–9 cm di diametro, raramente fino a circa 11 cm; dapprima emisferico con margine a lungo involuto, poi convesso e infine appianato. La superficie è molto viscida con l’umidità e lucida col secco, verde oliva scuro fino a verde nerastro, più scura al centro e spesso più chiara e più verde giallastra verso il margine, con fibrille scure innate in senso radiale. I cappelli vecchi sbiadiscono verso il bruno giallastro e possono screpolarsi in piccole areole. L’idrossido di potassio (KOH) colora la cuticola di bruno rossastro scuro fino a nero.",
+      "hymenium": "Lamelle smarginate al gambo, fitte e strette, da giovani giallo zolfo fino a giallo cromo o giallo verdastro, poi ocra olivastro e infine bruno ruggine per la maturazione delle spore; il filo è leggermente ondulato fino a finemente dentellato. Nei giovani esemplari sono coperte da una cortina ragnatelosa giallo verde ben sviluppata.",
+      "stipe": "Lungo 4–8 cm e spesso 1–2,5 cm, cilindrico e sodo, con alla base un ampio bulbo nettamente marginato largo fino a circa 3 cm. È giallo zolfo fino a giallo verdastro e con l’età imbrunisce dalla base; sul bordo del bulbo restano residui di velo giallo verdi, le fibrille della cortina diventano bruno ruggine per le spore trattenute e il bulbo porta micelio giallo.",
+      "flesh": "Soda, interamente giallo zolfo fino a giallo limone vivo, talvolta giallo verdastra. L’odore è aromatico e pepato, spesso paragonato al pepe nero o alle foglie stropicciate di baccaro (Asarum europaeum), ma può essere debole; il sapore è mite o leggermente speziato.",
+      "sporePrint": "Bruno ruggine, più bruno giallastro da giovane. Le spore sono amigdaliformi fino a citriformi, nettamente verrucose, di circa 9–12 × 5–7 µm.",
+      "habitat": "Ectomicorrizico, soprattutto con l’abete bianco (Abies alba), più di rado con l’abete rosso e, sull’isola svedese di Gotland, con il pino, sempre su suoli calcarei. Cresce in vecchie faggete-abetine e peccete-abetine montane prossime allo stato naturale su calcare, per esempio nella Foresta Nera, nel Giura, nelle Alpi e nei Carpazi, ed è stato trovato fino a circa 1800 m di quota in Svizzera. Compare soprattutto nelle buone annate fungine, allora spesso in lunghe file o cerchi delle streghe, principalmente da metà settembre a fine ottobre, ma da agosto a novembre.",
+      "uses": "Non commestibile e sospettato di essere velenoso. Gli elenchi tedeschi e austriaci dei funghi velenosi lo includono tra le specie sospettate di causare la sindrome orellanica, un avvelenamento renale i cui sintomi possono comparire solo giorni dopo il pasto; i dati sull’orellanina in questa specie sono contraddittori e non deve mai essere consumato.",
+      "confusion": "Cortinarius ionochlorus è geneticamente quasi identico, ma cresce con le querce in luoghi più caldi e da giovane ha lamelle soffuse di viola. Cortinarius meinhardii, C. splendens, C. flavovirens e C. citrinus hanno cappelli più chiari, più gialli, e in parte altri alberi ospiti. Cortinarius odoratus ha un forte odore dolciastro caratteristico. Anche Tricholoma equestre ha cappello giallo verde e lamelle gialle, ma non ha bulbo marginato né velo ragnateloso e la sua sporata è bianca.",
+      "notes": "Una valutazione globale del 2019 lo classifica quasi minacciato (Near Threatened), vicino a vulnerabile (Vulnerable): sono documentate circa 100 stazioni e ne esisterebbero forse 1000, e le sue vecchie abetine calcaree si riducono per tagli rasi, conversione in impianti di abete rosso ed edificazione. Nelle liste rosse figura come potenzialmente minacciato in Austria, minacciato in Germania e in Cechia e quasi minacciato in Svizzera; in Gran Bretagna non è più stato trovato dalla fine del XIX secolo. Il genere Calonarius è stato separato da Cortinarius nel 2022 su basi di DNA; alcuni micologi non lo accettano ancora.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "石灰岩地の古いモミ林に生える、がっしりした稀なフウセンタケの仲間で、ぬめりのある暗いオリーブ緑色からほぼ黒色の傘、硫黄色のひだと柄、柄の基部の明瞭な縁取りのある塊茎状の膨らみ、鮮やかな黄色の肉、そしてスパイシーなコショウのようなにおいで見分けられる。ヨーロッパのみ、ヨーロッパモミの自然分布域内で知られ、有毒の疑いがある。",
+      "cap": "径4–9 cm、まれに約11 cmに達する。はじめ半球形で縁は長く内側に巻き、のち饅頭形を経て最後は平らになる。表面は湿ると強い粘性があり、乾くと光沢があって、暗いオリーブ緑色から黒っぽい緑色、中央が最も暗く、縁に向かってしばしば淡く黄緑色を帯び、暗色の放射状の繊維が表皮に埋もれている。古い傘は黄褐色に退色し、小さな斑状にひび割れることがある。水酸化カリウム(KOH)で傘の表皮は暗赤褐色から黒色に変わる。",
+      "hymenium": "ひだは柄に湾生し、密で幅が狭く、若いうちは硫黄色からクロム黄色または緑黄色、のちオリーブ黄土色になり、最後は成熟した胞子でさび褐色になる。縁はわずかに波打つか細かい鋸歯状。若い子実体では、よく発達した黄緑色のクモの巣状の被膜(コルチナ)に覆われている。",
+      "stipe": "長さ4–8 cm、太さ1–2.5 cm、円柱形でしっかりしており、基部に幅約3 cmまでの、縁が鋭く区切られた幅広い塊茎がある。硫黄色から緑がかった黄色で、古くなると基部から褐色を帯びる。塊茎の縁には緑黄色の外被の名残があり、コルチナの繊維は付着した胞子でさび褐色になり、塊茎には黄色の菌糸が付く。",
+      "flesh": "しっかりしていて全体が鮮やかな硫黄色からレモン黄色、ときに緑黄色。においは芳香があってコショウのようで、黒コショウやつぶしたオウシュウサイシン(Asarum europaeum)の葉にたとえられることが多いが、弱いこともある。味は温和か、わずかにスパイシー。",
+      "sporePrint": "さび褐色で、若いうちはより黄褐色。胞子はアーモンド形からレモン形で、明瞭ないぼがあり、約9–12 × 5–7 µm。",
+      "habitat": "外生菌根菌で、主にヨーロッパモミ(Abies alba)と、まれにトウヒと、スウェーデンのゴットランド島ではマツと共生し、常に石灰質の土壌に生える。石灰岩上の古く自然度の高い山地のブナ-モミ林やトウヒ-モミ林に生え、たとえばシュヴァルツヴァルト、ジュラ山脈、アルプス、カルパティア山脈で知られ、スイスでは標高約1800 mまで見つかっている。主にきのこの当たり年に現れ、その際はしばしば長い列や菌輪をつくる。主に9月中旬から10月末に発生するが、全体では8月から11月まで見られる。",
+      "uses": "食不適で、有毒の疑いがある。ドイツとオーストリアの毒きのこリストでは、食後数日たってから症状が出ることのある腎臓中毒、オレラヌス症候群を起こす疑いのある種に含められている。本種のオレラニンに関する報告は矛盾しており、決して食べてはならない。",
+      "confusion": "Cortinarius ionochlorusは遺伝的にはほぼ同一だが、より温暖な場所でナラ類とともに生え、若いひだは紫色を帯びる。Cortinarius meinhardii、C. splendens、C. flavovirens、C. citrinusは傘がより淡く黄色っぽく、一部は宿主樹木も異なる。Cortinarius odoratusは強く独特な甘いにおいがある。Tricholoma equestreも黄緑色の傘と黄色のひだをもつが、縁取りのある塊茎もクモの巣状の被膜もなく、胞子紋は白色。",
+      "notes": "2019年の世界的評価では準絶滅危惧(Near Threatened)、危急(Vulnerable)に近いとされている。記録された産地は約100か所で、実際には約1000か所あると推定され、その生息地である石灰岩地の古いモミ林は皆伐、トウヒ植林への転換、開発によって縮小している。レッドリストではオーストリアで潜在的に危機、ドイツとチェコで絶滅危惧(Endangered)、スイスで準絶滅危惧とされ、イギリスでは19世紀末以来見つかっていない。Calonarius属は2022年にDNAデータに基づいてCortinarius属から分けられたが、まだ認めていない菌類学者もいる。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "석회암 지대의 오래된 전나무 숲에 나는 단단하고 드문 끈적버섯류로, 점액질의 어두운 올리브녹색에서 거의 검은색인 갓, 유황색 주름살과 자루, 자루 밑동의 테두리가 뚜렷한 덩이뿌리 모양 구근, 선명한 노란 살, 그리고 매콤한 후추 같은 냄새로 알아볼 수 있다. 유럽에서만, 은전나무의 자연 분포 지역 안에서 알려져 있으며 독성이 의심된다.",
+      "cap": "지름 4–9 cm, 드물게 약 11 cm까지 자란다. 처음에는 반구형이고 가장자리가 오랫동안 안쪽으로 말려 있다가 둥근 산 모양을 거쳐 마침내 편평해진다. 표면은 젖으면 매우 끈적하고 마르면 광택이 나며, 어두운 올리브녹색에서 검은빛을 띤 녹색이고, 가운데가 가장 어둡고 가장자리 쪽은 흔히 더 연하고 노란빛 녹색을 띠며, 어두운 섬유가 방사상으로 표피에 박혀 있다. 오래된 갓은 노란빛 갈색으로 바래고 작은 조각으로 갈라질 수 있다. 수산화칼륨(KOH)은 갓 표피를 어두운 적갈색에서 검은색으로 물들인다.",
+      "hymenium": "주름살은 자루에 홈파진주름이고 빽빽하며 폭이 좁고, 어릴 때는 유황색에서 크롬색 또는 녹황색이었다가 올리브 황토색을 거쳐 성숙한 포자 때문에 마침내 녹슨 갈색이 된다. 가장자리는 약간 물결 모양이거나 미세한 톱니 모양이다. 어린 자실체에서는 잘 발달한 황록색의 거미줄 같은 막(코르티나)이 주름살을 덮고 있다.",
+      "stipe": "길이 4–8 cm, 굵기 1–2.5 cm로 원통형이고 단단하며, 밑동에 너비 약 3 cm까지의 테두리가 뚜렷한 넓은 구근이 있다. 유황색에서 녹황색이고 오래되면 밑동부터 갈색을 띤다. 구근 가장자리에는 녹황색 외피 잔여물이 있고, 코르티나 섬유는 붙은 포자 때문에 녹슨 갈색이 되며, 구근에는 노란 균사가 붙어 있다.",
+      "flesh": "단단하고 전체가 선명한 유황색에서 레몬색이며, 때로 녹황색이다. 냄새는 향긋하고 후추 같으며 흔히 흑후추나 으깬 유럽족도리풀(Asarum europaeum) 잎에 비유되지만 약할 수도 있다. 맛은 순하거나 약간 매콤하다.",
+      "sporePrint": "녹슨 갈색이며 어릴 때는 더 노란빛 갈색이다. 포자는 아몬드형에서 레몬형이고 뚜렷한 사마귀 돌기가 있으며 약 9–12 × 5–7 µm이다.",
+      "habitat": "외생균근균으로 주로 은전나무(Abies alba)와, 드물게 가문비나무와, 스웨덴 고틀란드섬에서는 소나무와 공생하며 항상 석회질 토양에 난다. 석회암 위의 오래되고 자연에 가까운 산지 너도밤나무-전나무 숲과 가문비나무-전나무 숲에 나며, 예를 들어 슈바르츠발트, 쥐라산맥, 알프스, 카르파티아산맥에서 알려져 있고 스위스에서는 해발 약 1800 m까지 발견되었다. 주로 버섯이 풍년인 해에 나타나며 그때는 흔히 긴 줄이나 균환을 이룬다. 주로 9월 중순부터 10월 말까지, 전체적으로는 8월부터 11월까지 발생한다.",
+      "uses": "식용할 수 없으며 독성이 의심된다. 독일과 오스트리아의 독버섯 목록은 이 종을, 식사 후 며칠이 지나서야 증상이 나타날 수 있는 신장 중독인 오렐라누스 증후군을 일으킬 것으로 의심되는 종에 포함한다. 이 종의 오렐라닌에 관한 자료는 서로 모순되며 절대 먹어서는 안 된다.",
+      "confusion": "Cortinarius ionochlorus는 유전적으로 거의 같지만 더 따뜻한 곳에서 참나무와 함께 자라며 어릴 때 주름살이 보랏빛을 띤다. Cortinarius meinhardii, C. splendens, C. flavovirens, C. citrinus는 갓이 더 연하고 노랗고 일부는 기주 나무도 다르다. Cortinarius odoratus는 강하고 독특한 단 냄새가 난다. Tricholoma equestre도 황록색 갓과 노란 주름살을 가지지만 테두리 있는 구근과 거미줄 같은 막이 없고 포자문은 흰색이다.",
+      "notes": "2019년 세계 평가에서는 준위협(Near Threatened), 취약(Vulnerable)에 가까운 종으로 분류되었다. 기록된 산지는 약 100곳이며 실제로는 약 1000곳이 있을 것으로 추정되고, 서식지인 석회질의 오래된 전나무 숲은 개벌, 가문비나무 조림지로의 전환, 개발로 줄어들고 있다. 적색목록에서 오스트리아에서는 잠재적 위기, 독일과 체코에서는 위기(Endangered), 스위스에서는 준위협으로 올라 있으며, 영국에서는 19세기 말 이후 발견되지 않았다. Calonarius 속은 2022년 DNA 자료를 근거로 Cortinarius 속에서 분리되었으나 아직 이를 인정하지 않는 균학자도 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Stambus, retas voratinklis iš senų kalkingų dirvožemių kėnynų, atpažįstamas iš gleivėtos, tamsiai alyvžalios iki beveik juodos kepurėlės, sieros geltonumo lakštelių ir kotelio, aštriai apvadu apjuosto gumbo kotelio pagrinde, ryškiai geltono minkštimo ir aštraus, pipirinio kvapo. Jis žinomas tik Europoje, baltojo kėnio natūraliame paplitimo areale, ir įtariama, kad jis nuodingas.",
+      "cap": "Skersmuo 4–9 cm, retai iki maždaug 11 cm; iš pradžių pusrutulio formos ilgai užlenktu kraštu, vėliau išgaubta ir galiausiai plokščia. Paviršius drėgnas labai gleivėtas, sausas blizgus, tamsiai alyvžalis iki juosvai žalio, centre tamsiausias, o link krašto dažnai šviesesnis ir gelsvesnės žalios spalvos, su tamsiomis, radialiai įaugusiomis skaidulomis. Senos kepurėlės išblunka iki gelsvai rudos ir gali suskilinėti į mažus laukelius. Kalio hidroksidas (KOH) kepurėlės odelę nudažo tamsiai rausvai rudai iki juodos.",
+      "hymenium": "Lakšteliai prie kotelio išlenkti, tankūs ir siauri, jauni sieros iki chromo geltonumo arba žalsvai geltoni, vėliau alyvinio ochros atspalvio ir galiausiai nuo bręstančių sporų rūdžių rudumo; briauna šiek tiek banguota iki smulkiai dantyta. Jaunus vaisiakūnius dengia gerai išsivystęs, gelsvai žalias, voratinklinis šydas (kortina).",
+      "stipe": "Ilgis 4–8 cm, storis 1–2,5 cm, cilindriškas ir tvirtas, pagrinde su plačiu, aštriai apvadu apjuostu iki maždaug 3 cm pločio gumbu. Jis sieros iki žalsvai geltonas, su amžiumi nuo pagrindo ruduoja; gumbo krašte lieka žalsvai geltonų šydo liekanų, kortinos skaidulos nuo prilipusių sporų tampa rūdžių rudumo, o ant gumbo yra geltono grybieno.",
+      "flesh": "Tvirtas, visas ryškiai sieros iki citrinos geltonumo, kartais žalsvai geltonas. Kvapas aromatingas ir pipirinis, dažnai lyginamas su juodaisiais pipirais arba sutrintais europinės pipirnės (Asarum europaeum) lapais, tačiau gali būti silpnas; skonis švelnus arba šiek tiek aštrokas.",
+      "sporePrint": "Rūdžių rudumo, jaunų vaisiakūnių labiau gelsvai rudas. Sporos migdolo iki citrinos formos, aiškiai karpuotos, maždaug 9–12 × 5–7 µm.",
+      "habitat": "Ektomikorizinis grybas, daugiausia su baltuoju kėniu (Abies alba), rečiau su egle, o Švedijos Gotlando saloje su pušimi, visada kalkingame dirvožemyje. Auga senuose, natūraliems artimuose kalnų bukų ir kėnių bei eglių ir kėnių miškuose ant klinčių, pavyzdžiui, Švarcvalde, Juros kalnuose, Alpėse ir Karpatuose, o Šveicarijoje rastas iki maždaug 1800 m aukščio. Pasirodo daugiausia gerais grybų metais, tada dažnai ilgomis eilėmis ar raganų ratais, daugiausia nuo rugsėjo vidurio iki spalio pabaigos, bet apskritai nuo rugpjūčio iki lapkričio.",
+      "uses": "Nevalgomas ir įtariamas esąs nuodingas. Vokietijos ir Austrijos nuodingųjų grybų sąrašai jį priskiria rūšims, įtariamoms sukeliant orelanino sindromą – inkstų apsinuodijimą, kurio simptomai gali pasireikšti tik praėjus kelioms dienoms po valgio; duomenys apie orelaniną šioje rūšyje prieštaringi, ir jo niekada negalima valgyti.",
+      "confusion": "Cortinarius ionochlorus genetiškai beveik identiškas, tačiau auga su ąžuolais šiltesnėse vietose ir jaunas turi violetinio atspalvio lakštelius. Cortinarius meinhardii, C. splendens, C. flavovirens ir C. citrinus turi šviesesnes, geltonesnes kepurėles ir iš dalies kitus medžius šeimininkus. Cortinarius odoratus turi stiprų, savitą saldoką kvapą. Tricholoma equestre taip pat turi gelsvai žalią kepurėlę ir geltonus lakštelius, tačiau neturi apvadu apjuosto gumbo ir voratinklinio šydo, o jo sporų milteliai balti.",
+      "notes": "2019 m. pasaulinis vertinimas jį priskiria beveik grėsmingos būklės rūšims (Near Threatened), artimoms pažeidžiamoms (Vulnerable): dokumentuota apie 100 radaviečių, o jų gali būti apie 1000, be to, jo seni kalkingi kėnynai nyksta dėl plynų kirtimų, pavertimo eglių plantacijomis ir statybų. Raudonuosiuose sąrašuose jis Austrijoje įrašytas kaip potencialiai nykstantis, Vokietijoje ir Čekijoje kaip nykstantis, o Šveicarijoje kaip beveik grėsmingos būklės; Didžiojoje Britanijoje jis nerastas nuo XIX a. pabaigos. Gentis Calonarius 2022 m. atskirta nuo Cortinarius remiantis DNR duomenimis; kai kurie mikologai jos dar nepripažįsta.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Masīva, reta tīmeklene no veciem baltegļu mežiem uz kaļķainas augsnes, atpazīstama pēc gļotainas, tumši olīvzaļas līdz gandrīz melnas cepurītes, sēra dzeltenu lapiņu un kātiņa, asi apmalota gumuļa kātiņa pamatnē, spilgti dzeltena mīkstuma un pikantas, piparainas smaržas. Tā zināma tikai Eiropā, baltegles dabiskā areāla robežās, un tiek turēta aizdomās par indīgumu.",
+      "cap": "Diametrs 4–9 cm, reti līdz aptuveni 11 cm; sākumā puslodveida ar ilgi ieliektu malu, vēlāk izliekta un beigās plakana. Virsma mitrumā ļoti gļotaina, sausumā spīdīga, tumši olīvzaļa līdz melnganzaļa, centrā vistumšākā un uz malu bieži gaišāka un dzeltenīgāk zaļa, ar tumšām, radiāli ieaugušām šķiedrām. Vecas cepurītes izbalē līdz dzeltenbrūnai un var saplaisāt mazos laukumos. Kālija hidroksīds (KOH) iekrāso cepurītes ādu tumši sarkanbrūnu līdz melnu.",
+      "hymenium": "Lapiņas pie kātiņa ar izgriezumu, biezas un šauras, jaunas sēra līdz hroma dzeltenas vai zaļgandzeltenas, vēlāk olīvokera un beigās no nobriestošajām sporām rūsganbrūnas; mala viegli viļņaina līdz smalki robota. Jauniem augļķermeņiem tās sedz labi attīstīts, dzeltenzaļš, zirnekļtīklam līdzīgs plīvurs (kortīna).",
+      "stipe": "Garums 4–8 cm un resnums 1–2,5 cm, cilindrisks un stingrs, pamatnē ar platu, asi apmalotu gumuli līdz aptuveni 3 cm platumā. Tas ir sēra līdz zaļgani dzeltens un ar vecumu no pamatnes kļūst brūnāks; uz gumuļa malas ir zaļgandzelteni plīvura atliekas, kortīnas šķiedras no pieķērušajām sporām kļūst rūsganbrūnas, un uz gumuļa ir dzeltens micēlijs.",
+      "flesh": "Stingrs, visā augļķermenī spilgti sēra līdz citrondzeltens, dažkārt zaļgandzeltens. Smarža aromātiska un piparaina, bieži salīdzināta ar melnajiem pipariem vai saberztām Eiropas pakavlapes (Asarum europaeum) lapām, taču var būt vāja; garša maiga vai viegli pikanta.",
+      "sporePrint": "Rūsganbrūns, jaunām sēnēm vairāk dzeltenbrūns. Sporas mandeļveida līdz citronveida, skaidri kārpainas, aptuveni 9–12 × 5–7 µm.",
+      "habitat": "Ektomikorizas sēne, galvenokārt ar balto egli (Abies alba), retāk ar parasto egli un Zviedrijas Gotlandes salā ar priedi, vienmēr uz kaļķainas augsnes. Aug vecos, dabiskiem tuvos kalnu dižskābaržu un balteglu, kā arī egļu un balteglu mežos uz kaļķakmens, piemēram, Švarcvaldē, Jurā, Alpos un Karpatos, un Šveicē atrasta līdz aptuveni 1800 m augstumam. Parādās galvenokārt labos sēņu gados, tad bieži garās rindās vai raganu lokos, galvenokārt no septembra vidus līdz oktobra beigām, bet kopumā no augusta līdz novembrim.",
+      "uses": "Nav ēdama un tiek turēta aizdomās par indīgumu. Vācijas un Austrijas indīgo sēņu saraksti to pieskaita sugām, kuras tur aizdomās par orelānusa sindroma izraisīšanu – nieru saindēšanos, kuras simptomi var parādīties tikai vairākas dienas pēc ēšanas; ziņas par orelanīnu šajā sugā ir pretrunīgas, un to nekad nedrīkst ēst.",
+      "confusion": "Cortinarius ionochlorus ģenētiski ir gandrīz identiska, taču aug pie ozoliem siltākās vietās, un jaunai tai ir violeti iekrāsotas lapiņas. Cortinarius meinhardii, C. splendens, C. flavovirens un C. citrinus ir gaišākas, dzeltenākas cepurītes un daļēji citi saimniekkoki. Cortinarius odoratus ir spēcīga, īpatnēja saldena smarža. Arī Tricholoma equestre ir dzeltenzaļa cepurīte un dzeltenas lapiņas, taču tai nav apmalota gumuļa un zirnekļtīklam līdzīga plīvura, un tās sporu putekšņi ir balti.",
+      "notes": "2019. gada globālais novērtējums to klasificē kā gandrīz apdraudētu (Near Threatened), tuvu jutīgai (Vulnerable): dokumentētas aptuveni 100 atradnes, un, iespējams, tādu ir ap 1000, bet tās vecie kaļķainie baltegļu meži sarūk kailcirtes, pārveides par egļu stādījumiem un apbūves dēļ. Sarkanajos sarakstos tā ir potenciāli apdraudēta Austrijā, apdraudēta Vācijā un Čehijā un gandrīz apdraudēta Šveicē; Lielbritānijā tā nav atrasta kopš 19. gadsimta beigām. Ģints Calonarius tika atdalīta no Cortinarius 2022. gadā, pamatojoties uz DNS datiem; daži mikologi to vēl neatzīst.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een forse, zeldzame gordijnzwam van oude zilversparrenbossen op kalk, herkenbaar aan de slijmerige, donker olijfgroene tot bijna zwarte hoed, zwavelgele plaatjes en steel, een scherp gerande knol aan de steelvoet, felgeel vlees en een kruidige, peperachtige geur. Hij is alleen uit Europa bekend, binnen het natuurlijke areaal van de zilverspar, en wordt verdacht giftig te zijn.",
+      "cap": "4–9 cm breed, zelden tot ongeveer 11 cm; eerst halfbolvormig met lang ingerolde rand, dan gewelfd en ten slotte vlak. Het oppervlak is bij vochtig weer zeer slijmerig en droog glanzend, donker olijfgroen tot zwartachtig groen, in het midden het donkerst en naar de rand vaak lichter en geler groen, met donkere, radiaal ingegroeide vezels. Oude hoeden verbleken naar geelbruin en kunnen in veldjes openscheuren. Kaliloog (KOH) kleurt de hoedhuid donker roodbruin tot zwart.",
+      "hymenium": "Plaatjes bij de steel uitgebogen aangehecht, dicht opeen en smal, jong zwavel- tot chroomgeel of groengeel, dan olijfoker en ten slotte roestbruin door de rijpende sporen; de snede is licht golvend tot fijn getand. Bij jonge vruchtlichamen worden ze bedekt door een goed ontwikkeld, geelgroen, spinnenwebachtig velum (cortina).",
+      "stipe": "4–8 cm lang en 1–2,5 cm dik, cilindrisch en stevig, aan de voet met een brede, scherp gerande knol tot ongeveer 3 cm breed. Hij is zwavel- tot groenachtig geel en wordt met de leeftijd vanaf de voet bruiner; op de knolrand zitten groengele velumresten, de vezels van de cortina worden roestbruin door vastgehouden sporen en de knol draagt geel mycelium.",
+      "flesh": "Stevig, overal levendig zwavel- tot citroengeel, soms groenachtig geel. De geur is aromatisch en peperachtig, vaak vergeleken met zwarte peper of fijngewreven bladeren van mansoor (Asarum europaeum), maar kan zwak zijn; de smaak is zacht of licht kruidig.",
+      "sporePrint": "Roestbruin, jong meer geelbruin. De sporen zijn amandel- tot citroenvormig, duidelijk wrattig en ongeveer 9–12 × 5–7 µm.",
+      "habitat": "Ectomycorrhizavormer, vooral met de zilverspar (Abies alba), minder vaak met fijnspar en op het Zweedse eiland Gotland met den, altijd op kalkrijke bodem. Hij groeit in oude, natuurlijke montane beuken-zilversparren- en fijnspar-zilversparrenbossen op kalk, bijvoorbeeld in het Zwarte Woud, de Jura, de Alpen en de Karpaten, en is in Zwitserland tot op ongeveer 1800 m hoogte gevonden. Hij verschijnt vooral in goede paddenstoelenjaren, dan vaak in lange rijen of heksenkringen, hoofdzakelijk van half september tot eind oktober, maar van augustus tot november.",
+      "uses": "Niet eetbaar en verdacht giftig. Duitse en Oostenrijkse lijsten van giftige paddenstoelen rekenen hem tot de soorten die verdacht worden het orellanussyndroom te veroorzaken, een nierschade-vergiftiging waarvan de klachten pas dagen na de maaltijd kunnen optreden; gegevens over orellanine in deze soort spreken elkaar tegen, en hij mag nooit gegeten worden.",
+      "confusion": "Cortinarius ionochlorus is genetisch vrijwel identiek, maar groeit bij eiken op warmere plaatsen en heeft jong violet getinte plaatjes. Cortinarius meinhardii, C. splendens, C. flavovirens en C. citrinus hebben lichtere, gelere hoeden en deels andere waardbomen. Cortinarius odoratus heeft een sterke, kenmerkende zoetige geur. Tricholoma equestre heeft eveneens een geelgroene hoed en gele plaatjes, maar geen gerande knol of spinnenwebachtig velum, en een witte sporenprint.",
+      "notes": "Een wereldwijde beoordeling uit 2019 stuft hem in als gevoelig (Near Threatened), dicht bij kwetsbaar (Vulnerable): ongeveer 100 vindplaatsen zijn gedocumenteerd en er bestaan er mogelijk zo'n 1000, en zijn oude kalkrijke zilversparrenbossen krimpen door kaalkap, omvorming tot fijnsparplantages en bebouwing. Op rode lijsten staat hij als mogelijk bedreigd in Oostenrijk, als bedreigd in Duitsland en Tsjechië en als gevoelig in Zwitserland; in Groot-Brittannië is hij sinds het eind van de 19e eeuw niet meer gevonden. Het geslacht Calonarius werd in 2022 op grond van DNA-gegevens van Cortinarius afgesplitst; sommige mycologen erkennen het nog niet.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En kraftig, sjelden slørsopp i gamle edelgranskoger på kalk, lett kjent på den slimete, mørkt olivengrønne til nesten svarte hatten, svovelgule skiver og stilk, en skarpt kantet knoll ved stilkbasis, klart gult kjøtt og en krydret, pepperaktig lukt. Den er bare kjent fra Europa, innenfor edelgranens naturlige utbredelse, og mistenkes for å være giftig.",
+      "cap": "4–9 cm bred, sjelden opptil omkring 11 cm; først halvkuleformet med lenge innrullet kant, så hvelvet og til slutt flat. Overflaten er svært slimete i fuktig vær og blank når den er tørr, mørkt olivengrønn til svartaktig grønn, mørkest i midten og mot kanten ofte lysere og gulere grønn, med mørke, radiært innvokste fibre. Gamle hatter blekner mot gulbrunt og kan sprekke opp i små felter. Kaliumhydroksid (KOH) farger hattehuden mørkt rødbrun til svart.",
+      "hymenium": "Skivene er utbuktet tilvokst ved stilken, tette og smale, unge svovel- til kromgule eller grønngule, så olivenoker og til slutt rustbrune av de modne sporene; eggen er svakt bølget til fint tannet. Hos unge fruktlegemer skjules de av et velutviklet, gulgrønt, spindelvevaktig slør (kortina).",
+      "stipe": "4–8 cm lang og 1–2,5 cm tykk, sylindrisk og fast, ved basis med en bred, skarpt kantet knoll opptil omkring 3 cm bred. Den er svovel- til grønnlig gul og blir med alderen brunere fra basis; på knollkanten sitter grønngule velumrester, kortinaens tråder blir rustbrune av fastholdte sporer, og knollen har gult mycel.",
+      "flesh": "Fast, helt igjennom klart svovel- til sitrongult, iblant grønnlig gult. Lukten er aromatisk og pepperaktig, ofte sammenlignet med sort pepper eller knuste blader av hasselurt (Asarum europaeum), men kan være svak; smaken er mild eller svakt krydret.",
+      "sporePrint": "Rustbrunt, ungt mer gulbrunt. Sporene er mandel- til sitronformede, tydelig vortete og omkring 9–12 × 5–7 µm.",
+      "habitat": "Ektomykorrhizasopp, særlig med edelgran (Abies alba), sjeldnere med gran og på den svenske øya Gotland med furu, alltid på kalkrik jord. Den vokser i gamle, naturnære fjellskoger av bøk og edelgran eller gran og edelgran på kalk, for eksempel i Schwarzwald, Jura, Alpene og Karpatene, og er i Sveits funnet opp til omkring 1800 m høyde. Den viser seg mest i gode soppår, da ofte i lange rekker eller heksesirkler, hovedsakelig fra midten av september til slutten av oktober, men fra august til november.",
+      "uses": "Ikke spiselig og mistenkt for å være giftig. Tyske og østerrikske lister over giftsopper regner den blant artene som mistenkes for å gi orellanussyndrom, en nyreforgiftning der symptomene kan komme først dager etter måltidet; opplysningene om orellanin i arten er motstridende, og den må aldri spises.",
+      "confusion": "Cortinarius ionochlorus er genetisk nesten identisk, men vokser ved eik på varmere steder og har som ung fiolettonede skiver. Cortinarius meinhardii, C. splendens, C. flavovirens og C. citrinus har lysere, gulere hatter og delvis andre vertstrær. Cortinarius odoratus har en sterk, særpreget søtlig lukt. Tricholoma equestre har også gulgrønn hatt og gule skiver, men mangler kantet knoll og spindelvevaktig slør og har hvitt sporepulver.",
+      "notes": "En global vurdering fra 2019 klassifiserer den som nær truet (Near Threatened), nær sårbar (Vulnerable): omkring 100 lokaliteter er dokumentert, og det finnes kanskje omkring 1000, og de gamle kalkrike edelgranskogene den lever i, krymper på grunn av flatehogst, omlegging til granplantasjer og utbygging. På rødlister står den som potensielt truet i Østerrike, som sterkt truet i Tyskland og Tsjekkia og som nær truet i Sveits; i Storbritannia er den ikke funnet siden slutten av 1800-tallet. Slekten Calonarius ble skilt ut fra Cortinarius i 2022 på grunnlag av DNA; noen mykologer godtar den ennå ikke.",
+      "names": [],
+      "sourceUrls": [
+        "https://artskart.artsdatabanken.no/publicapi/api/taxon/short?term=Cortinarius%20atrovirens",
+        "https://api.gbif.org/v1/species/2529006/vernacularNames"
+      ],
+      "label": "svartgrønn slørsopp"
+    },
+    "pl": {
+      "description": "Okazały, rzadki zasłonak starych lasów jodłowych na wapieniu, rozpoznawalny po śluzowatym, ciemnooliwkowozielonym do niemal czarnego kapeluszu, siarkowożółtych blaszkach i trzonie, ostro obrzeżonej bulwie u podstawy trzonu, jaskrawożółtym miąższu i korzennym, pieprzowym zapachu. Znany jest tylko z Europy, w naturalnym zasięgu jodły pospolitej, i jest podejrzewany o trujące właściwości.",
+      "cap": "Średnicy 4–9 cm, rzadko do około 11 cm; początkowo półkulisty z długo podwiniętym brzegiem, potem wypukły, w końcu płaski. Powierzchnia w stanie wilgotnym bardzo śluzowata, w suchym błyszcząca, ciemnooliwkowozielona do czarnozielonej, najciemniejsza na środku i ku brzegowi często jaśniejsza, bardziej żółtozielona, z ciemnymi, promieniście wrośniętymi włókienkami. Stare kapelusze płowieją do żółtobrązowych i mogą pękać na poletka. Wodorotlenek potasu (KOH) barwi skórkę kapelusza na ciemno czerwonobrązowo do czarna.",
+      "hymenium": "Blaszki przy trzonie wycięte, gęste i wąskie, za młodu siarkowo- do chromowożółtych lub zielonożółtych, potem oliwkowoochrowe, a w końcu rdzawobrązowe od dojrzewających zarodników; ostrza lekko faliste do drobno ząbkowanych. U młodych owocników zakrywa je dobrze rozwinięta, żółtozielona, pajęczynowata zasnówka.",
+      "stipe": "Długości 4–8 cm i grubości 1–2,5 cm, walcowaty i twardy, u podstawy z szeroką, ostro obrzeżoną bulwą o średnicy do około 3 cm. Jest siarkowo- do zielonkawożółtego i z wiekiem brązowieje od podstawy; na brzegu bulwy pozostają zielonożółte resztki osłony, włókna zasnówki brązowieją rdzawo od osadzonych zarodników, a bulwa jest pokryta żółtą grzybnią.",
+      "flesh": "Twardy, w całym owocniku żywo siarkowo- do cytrynowożółtego, czasem zielonkawożółty. Zapach aromatyczny i pieprzowy, często porównywany z czarnym pieprzem lub roztartymi liśćmi kopytnika pospolitego (Asarum europaeum), bywa jednak słaby; smak łagodny lub lekko korzenny.",
+      "sporePrint": "Rdzawobrązowy, u młodych owocników bardziej żółtobrązowy. Zarodniki migdałowate do cytrynowatych, wyraźnie brodawkowate, około 9–12 × 5–7 µm.",
+      "habitat": "Gatunek ektomykoryzowy, głównie z jodłą pospolitą (Abies alba), rzadziej ze świerkiem, a na szwedzkiej wyspie Gotlandia z sosną, zawsze na glebach wapiennych. Rośnie w starych, zbliżonych do naturalnych górskich lasach bukowo-jodłowych i świerkowo-jodłowych na wapieniu, na przykład w Schwarzwaldzie, w górach Jura, w Alpach i w Karpatach; w Szwajcarii znaleziono go do wysokości około 1800 m n.p.m. Pojawia się głównie w dobrych latach grzybowych, wtedy często w długich rzędach lub czarcich kręgach, przede wszystkim od połowy września do końca października, ogółem od sierpnia do listopada.",
+      "uses": "Niejadalny i podejrzewany o trujące właściwości. Niemieckie i austriackie listy grzybów trujących zaliczają go do gatunków podejrzewanych o wywoływanie zespołu orellanusowego, zatrucia nerek, którego objawy mogą pojawić się dopiero kilka dni po posiłku; doniesienia o orellaninie u tego gatunku są sprzeczne i nigdy nie wolno go jeść.",
+      "confusion": "Cortinarius ionochlorus jest genetycznie niemal identyczny, rośnie jednak z dębami w cieplejszych miejscach i za młodu ma blaszki z fioletowym odcieniem. Cortinarius meinhardii, C. splendens, C. flavovirens i C. citrinus mają jaśniejsze, bardziej żółte kapelusze i częściowo inne drzewa żywicielskie. Cortinarius odoratus ma silny, charakterystyczny słodkawy zapach. Tricholoma equestre również ma żółtozielony kapelusz i żółte blaszki, ale nie ma obrzeżonej bulwy ani pajęczynowatej zasnówki, a jego wysyp zarodników jest biały.",
+      "notes": "Globalna ocena z 2019 roku klasyfikuje go jako bliski zagrożenia (Near Threatened), blisko kategorii narażony (Vulnerable): udokumentowano około 100 stanowisk, a istnieje ich prawdopodobnie około 1000, przy czym jego stare wapienne lasy jodłowe kurczą się wskutek zrębów zupełnych, przekształcania w uprawy świerkowe i zabudowy. Na czerwonych listach figuruje jako potencjalnie zagrożony w Austrii, jako zagrożony w Niemczech i Czechach oraz jako bliski zagrożenia w Szwajcarii; w Wielkiej Brytanii nie znaleziono go od końca XIX wieku. Rodzaj Calonarius wydzielono z Cortinarius w 2022 roku na podstawie danych DNA; część mykologów jeszcze go nie uznaje.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.ptmyk.pl/wp-content/uploads/2026/03/Rekomendacja-7_2026.pdf",
+        "https://api.gbif.org/v1/species/2529006/vernacularNames"
+      ],
+      "label": "zasłonak czarniawy"
+    },
+    "pt": {
+      "description": "Um cortinário robusto e raro de velhos abetais sobre calcário, reconhecível pelo chapéu viscoso, verde-oliva-escuro a quase preto, pelas lâminas e pelo pé amarelo-enxofre, por um bolbo nitidamente marginado na base do pé, pela carne amarelo-viva e por um cheiro condimentado, a pimenta. Só é conhecido na Europa, dentro da área natural do abeto-branco, e suspeita-se que seja venenoso.",
+      "cap": "4–9 cm de diâmetro, raramente até cerca de 11 cm; primeiro hemisférico, com a margem longamente enrolada, depois convexo e por fim aplanado. A superfície é muito viscosa com humidade e brilhante quando seca, verde-oliva-escura a verde-enegrecida, mais escura ao centro e muitas vezes mais clara e mais verde-amarelada para a margem, com fibrilas escuras inatas radiais. Os chapéus velhos desbotam para castanho-amarelado e podem fender-se em pequenas placas. O hidróxido de potássio (KOH) cora a cutícula de castanho-avermelhado-escuro a preto.",
+      "hymenium": "Lâminas chanfradas junto ao pé, apertadas e estreitas, quando jovens amarelo-enxofre a amarelo-cromo ou amarelo-esverdeadas, depois ocre-oliváceas e por fim castanho-ferrugem com a maturação dos esporos; a aresta é ligeiramente ondulada a finamente denticulada. Nos exemplares jovens ficam ocultas por uma cortina aracnoide amarelo-esverdeada bem desenvolvida.",
+      "stipe": "Com 4–8 cm de comprimento e 1–2,5 cm de espessura, cilíndrico e firme, com um bolbo largo e nitidamente marginado de até cerca de 3 cm na base. É amarelo-enxofre a amarelo-esverdeado e acastanha a partir da base com a idade; na margem do bolbo ficam restos de véu amarelo-esverdeados, as fibrilas da cortina tornam-se castanho-ferrugem pelos esporos retidos e o bolbo apresenta micélio amarelo.",
+      "flesh": "Firme, toda amarelo-enxofre a amarelo-limão viva, por vezes amarelo-esverdeada. O cheiro é aromático e apimentado, muitas vezes comparado à pimenta-preta ou a folhas esmagadas de ásaro (Asarum europaeum), mas pode ser fraco; o sabor é suave ou ligeiramente condimentado.",
+      "sporePrint": "Castanho-ferrugem, mais castanho-amarelado no início. Os esporos são amigdaliformes a citriformes, nitidamente verrugosos, com cerca de 9–12 × 5–7 µm.",
+      "habitat": "Ectomicorrízico, sobretudo com o abeto-branco (Abies alba), menos vezes com o espruce e, na ilha sueca de Gotland, com o pinheiro, sempre em solos calcários. Cresce em velhos faiais-abetais e espruçais-abetais de montanha próximos do estado natural sobre calcário, por exemplo na Floresta Negra, no Jura, nos Alpes e nos Cárpatos, e foi encontrado até cerca de 1800 m de altitude na Suíça. Surge sobretudo em bons anos de cogumelos, então muitas vezes em longas filas ou círculos de fadas, principalmente de meados de setembro ao fim de outubro, mas de agosto a novembro.",
+      "uses": "Não comestível e suspeito de ser venenoso. As listas alemãs e austríacas de cogumelos venenosos incluem-no entre as espécies suspeitas de causar a síndrome orelaniana, uma intoxicação renal cujos sintomas podem surgir só dias depois da refeição; os dados sobre orelanina nesta espécie são contraditórios e nunca deve ser comido.",
+      "confusion": "Cortinarius ionochlorus é quase idêntico geneticamente, mas cresce com carvalhos em locais mais quentes e tem lâminas tingidas de violeta quando jovem. Cortinarius meinhardii, C. splendens, C. flavovirens e C. citrinus têm chapéus mais claros e amarelos e em parte outras árvores hospedeiras. Cortinarius odoratus tem um cheiro adocicado forte e característico. Tricholoma equestre também tem chapéu amarelo-esverdeado e lâminas amarelas, mas não tem bolbo marginado nem véu aracnoide, e a sua esporada é branca.",
+      "notes": "Uma avaliação mundial de 2019 classifica-o como quase ameaçado (Near Threatened), perto de vulnerável (Vulnerable): estão documentados cerca de 100 locais e talvez existam uns 1000, e os seus velhos abetais calcícolas diminuem devido a cortes rasos, conversão em plantações de espruce e construção. Nas listas vermelhas figura como potencialmente ameaçado na Áustria, em perigo na Alemanha e na Chéquia e quase ameaçado na Suíça; na Grã-Bretanha não voltou a ser encontrado desde o final do século XIX. O género Calonarius foi separado de Cortinarius em 2022 com base em dados de ADN; alguns micólogos ainda não o aceitam.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă robustă și rară din genul pânzăriilor, din pădurile bătrâne de brad pe calcar, recunoscută după pălăria vâscoasă, verde-măslinie închis până aproape neagră, lamelele și piciorul galben-sulf, un bulb net marginat la baza piciorului, carnea galben-vie și mirosul condimentat, piperat. Este cunoscută doar din Europa, în arealul natural al bradului alb, și este suspectată de a fi otrăvitoare.",
+      "cap": "Diametru de 4–9 cm, rar până la circa 11 cm; la început emisferică, cu marginea mult timp răsfrântă spre interior, apoi convexă și în final aplatizată. Suprafața este foarte vâscoasă pe vreme umedă și lucioasă pe vreme uscată, verde-măslinie închis până la verde-negricios, cea mai închisă la centru și adesea mai deschisă și mai verde-gălbuie spre margine, cu fibrile închise, inserate radial. Pălăriile bătrâne se decolorează spre brun-gălbui și pot crăpa în mici areole. Hidroxidul de potasiu (KOH) colorează cuticula în brun-roșcat închis până la negru.",
+      "hymenium": "Lamele scobite la picior, dese și înguste, la tinerețe galben-sulf până la galben-crom sau galben-verzui, apoi ocru-măsliniu și în final brun-ruginiu de la sporii care se maturizează; muchia este ușor ondulată până la fin dințată. La exemplarele tinere sunt acoperite de o cortină galben-verzuie, ca o pânză de păianjen, bine dezvoltată.",
+      "stipe": "Lung de 4–8 cm și gros de 1–2,5 cm, cilindric și ferm, la bază cu un bulb larg, net marginat, de până la circa 3 cm. Este galben-sulf până la galben-verzui și cu vârsta se brunifică de la bază; pe marginea bulbului rămân resturi de văl galben-verzui, fibrele cortinei devin brun-ruginii de la sporii reținuți, iar bulbul poartă miceliu galben.",
+      "flesh": "Fermă, în întregime galben-sulf până la galben-lămâie viu, uneori galben-verzuie. Mirosul este aromat și piperat, adesea comparat cu piperul negru sau cu frunzele strivite de pochivnic (Asarum europaeum), dar poate fi slab; gustul este blând sau ușor condimentat.",
+      "sporePrint": "Brun-ruginiu, la tinerețe mai brun-gălbui. Sporii sunt amigdaliformi până la citriformi, net verucoși, de circa 9–12 × 5–7 µm.",
+      "habitat": "Specie ectomicoriză, mai ales cu bradul alb (Abies alba), mai rar cu molidul, iar pe insula suedeză Gotland cu pinul, mereu pe soluri calcaroase. Crește în păduri montane bătrâne, apropiate de starea naturală, de fag cu brad și de molid cu brad pe calcar, de exemplu în Pădurea Neagră, Jura, Alpi și Carpați, și a fost găsită până la circa 1800 m altitudine în Elveția. Apare mai ales în anii buni pentru ciuperci, atunci adesea în șiruri lungi sau cercuri ale vrăjitoarelor, în principal de la mijlocul lui septembrie până la sfârșitul lui octombrie, dar în total din august până în noiembrie.",
+      "uses": "Necomestibilă și suspectată de a fi otrăvitoare. Listele germane și austriece de ciuperci otrăvitoare o includ printre speciile suspectate că provoacă sindromul orelanian, o intoxicație renală ale cărei simptome pot apărea abia la câteva zile după masă; datele despre orelanină la această specie sunt contradictorii și nu trebuie consumată niciodată.",
+      "confusion": "Cortinarius ionochlorus este aproape identic genetic, dar crește cu stejari în locuri mai calde și are la tinerețe lamele cu nuanțe violete. Cortinarius meinhardii, C. splendens, C. flavovirens și C. citrinus au pălării mai deschise, mai galbene, și în parte alți arbori gazdă. Cortinarius odoratus are un miros dulceag puternic și caracteristic. Tricholoma equestre are și el pălăria galben-verzuie și lamele galbene, dar nu are bulb marginat și nici cortină, iar sporeea sa este albă.",
+      "notes": "O evaluare globală din 2019 o încadrează ca aproape amenințată (Near Threatened), aproape de vulnerabilă (Vulnerable): sunt documentate circa 100 de stațiuni și există probabil în jur de 1000, iar pădurile sale bătrâne de brad pe calcar se reduc din cauza tăierilor rase, a conversiei în plantații de molid și a construcțiilor. Pe listele roșii figurează ca potențial amenințată în Austria, periclitată în Germania și Cehia și aproape amenințată în Elveția; în Marea Britanie nu a mai fost găsită de la sfârșitul secolului al XIX-lea. Genul Calonarius a fost separat de Cortinarius în 2022 pe baza datelor ADN; unii micologi încă nu îl acceptă.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крепкий, редкий паутинник старых пихтовых лесов на известняке, которого узнают по слизистой, тёмно-оливково-зелёной до почти чёрной шляпке, серно-жёлтым пластинкам и ножке, резко окаймлённому клубню в основании ножки, ярко-жёлтой мякоти и пряному, перечному запаху. Известен только из Европы, в пределах естественного ареала пихты белой, и подозревается в ядовитости.",
+      "cap": "Диаметр 4–9 cm, редко до 11 cm; сначала полушаровидная с долго подвёрнутым краем, затем выпуклая и наконец плоская. Поверхность в сырую погоду очень слизистая, в сухую блестящая, тёмно-оливково-зелёная до черновато-зелёной, темнее всего в центре и к краю часто светлее и более желтовато-зелёная, с тёмными радиально вросшими волокнами. Старые шляпки выцветают до желтовато-коричневых и могут растрескиваться на мелкие участки. Гидроксид калия (KOH) окрашивает кожицу шляпки в тёмно-красновато-коричневый до чёрного цвет.",
+      "hymenium": "Пластинки выемчатые у ножки, частые и узкие, в молодости серно- до хромово-жёлтых или зеленовато-жёлтых, затем оливково-охристые и наконец ржаво-коричневые от созревающих спор; край слегка волнистый до мелкозубчатого. У молодых плодовых тел их скрывает хорошо развитое жёлто-зелёное паутинистое покрывало (кортина).",
+      "stipe": "Длина 4–8 cm, толщина 1–2,5 cm, цилиндрическая и плотная, в основании с широким, резко окаймлённым клубнем до 3 cm в поперечнике. Серно- до зеленовато-жёлтой, с возрастом буреет от основания; по краю клубня остаются зеленовато-жёлтые остатки покрывала, волокна кортины становятся ржаво-коричневыми от осевших спор, а на клубне заметен жёлтый мицелий.",
+      "flesh": "Плотная, целиком ярко серно- до лимонно-жёлтой, иногда зеленовато-жёлтая. Запах ароматный и перечный, его часто сравнивают с чёрным перцем или растёртыми листьями копытня европейского (Asarum europaeum), но он может быть слабым; вкус мягкий или слегка пряный.",
+      "sporePrint": "Ржаво-коричневый, в молодости более желтовато-коричневый. Споры миндалевидные до лимоновидных, отчётливо бородавчатые, около 9–12 × 5–7 µm.",
+      "habitat": "Эктомикоризный гриб, главным образом с пихтой белой (Abies alba), реже с елью, а на шведском острове Готланд с сосной, всегда на известковых почвах. Растёт в старых, близких к естественным горных буково-пихтовых и елово-пихтовых лесах на известняке, например в Шварцвальде, Юре, Альпах и Карпатах, а в Швейцарии найден до высоты около 1800 m. Появляется главным образом в урожайные на грибы годы, тогда часто длинными рядами или «ведьмиными кругами», в основном с середины сентября до конца октября, а в целом с августа по ноябрь.",
+      "uses": "Несъедобен и подозревается в ядовитости. Немецкие и австрийские списки ядовитых грибов относят его к видам, подозреваемым в том, что они вызывают орелланусный синдром – отравление почек, симптомы которого могут появиться лишь через несколько дней после еды; сведения об орелланине у этого вида противоречивы, и его ни в коем случае нельзя есть.",
+      "confusion": "Cortinarius ionochlorus генетически почти идентичен, но растёт с дубом в более тёплых местах и в молодости имеет пластинки с фиолетовым оттенком. У Cortinarius meinhardii, C. splendens, C. flavovirens и C. citrinus шляпки светлее и желтее, и отчасти иные деревья-хозяева. Cortinarius odoratus обладает сильным характерным сладковатым запахом. Tricholoma equestre тоже имеет жёлто-зелёную шляпку и жёлтые пластинки, но у него нет окаймлённого клубня и паутинистого покрывала, а споровый порошок белый.",
+      "notes": "Глобальная оценка 2019 года относит его к видам, близким к угрожаемому положению (Near Threatened), почти уязвимым (Vulnerable): задокументировано около 100 местонахождений, а всего их, возможно, около 1000, при этом его старые пихтовые леса на известняке сокращаются из-за сплошных рубок, замены еловыми посадками и застройки. В красных списках он значится как потенциально угрожаемый в Австрии, как находящийся под угрозой в Германии и Чехии и как близкий к угрожаемому в Швейцарии; в Великобритании его не находили с конца XIX века. Род Calonarius выделен из Cortinarius в 2022 году на основе данных ДНК; некоторые микологи его пока не признают.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/12086958/vernacularNames"
+      ],
+      "label": "паутинник чёрно-зеленый"
+    },
+    "sk": {
+      "description": "Statná, vzácna pavučinovcovitá huba starých jedľových lesov na vápenci, ktorú spoznáte podľa slizkého, tmavoolivovozeleného až takmer čierneho klobúka, sírovožltých lupeňov a hlúbika, ostro ohraničenej hľuzy na báze hlúbika, jasne žltej dužiny a korenistej, pieprovej vône. Je známa len z Európy, v rámci prirodzeného areálu jedle bielej, a je podozrivá z jedovatosti.",
+      "cap": "Široký 4–9 cm, zriedka až asi 11 cm; najprv pologuľovitý s dlho podvinutým okrajom, potom vypuklý a napokon plochý. Povrch je za vlhka veľmi slizký a za sucha lesklý, tmavoolivovozelený až čiernozelený, najtmavší v strede a k okraju často svetlejší a žltkastejšie zelený, s tmavými, radiálne vrastenými vláknami. Staré klobúky vyblednú do žltohneda a môžu políčkovito popraskať. Hydroxid draselný (KOH) sfarbuje pokožku klobúka tmavo červenohnedo až čierno.",
+      "hymenium": "Lupene sú pri hlúbiku vykrojené, husté a úzke, v mladosti sírovo až chrómovo žlté alebo zelenožlté, potom olivovookrové a napokon hrdzavohnedé od dozrievajúcich výtrusov; ostrie je mierne zvlnené až jemne zúbkaté. U mladých plodníc ich zakrýva dobre vyvinutý, žltozelený, pavučinovitý závoj (kortina).",
+      "stipe": "Dlhý 4–8 cm a hrubý 1–2,5 cm, valcovitý a pevný, na báze so širokou, ostro ohraničenou (obrúbenou) hľuzou širokou asi do 3 cm. Je sírovo až zelenožltý a s vekom od bázy hnedne; na okraji hľuzy sú zelenožlté zvyšky závoja, vlákna kortiny sa od zachytených výtrusov sfarbujú hrdzavohnedo a hľuza nesie žlté mycélium.",
+      "flesh": "Pevná, v celej plodnici živo sírovo až citrónovo žltá, niekedy zelenožltá. Vôňa je aromatická a pieprová, často prirovnávaná k čiernemu koreniu alebo k rozdrveným listom kopytníka európskeho (Asarum europaeum), môže však byť slabá; chuť je mierna alebo slabo korenistá.",
+      "sporePrint": "Hrdzavohnedý, v mladosti viac žltohnedý. Výtrusy sú mandľovité až citrónovité, zreteľne bradavičnaté, asi 9–12 × 5–7 µm.",
+      "habitat": "Ektomykorízna huba, najmä s jedľou bielou (Abies alba), menej často so smrekom a na švédskom ostrove Gotland s borovicou, vždy na vápnitých pôdach. Rastie v starých, prírode blízkych horských bukovo-jedľových a smrekovo-jedľových lesoch na vápenci, napríklad v Schwarzwalde, v pohorí Jura, v Alpách a v Karpatoch, a vo Švajčiarsku ju našli až v nadmorskej výške asi 1 800 m. Objavuje sa najmä v dobrých hubových rokoch, potom často v dlhých radoch alebo kruhoch, hlavne od polovice septembra do konca októbra, ale od augusta do novembra.",
+      "uses": "Nejedlá a podozrivá z jedovatosti. Nemecké a rakúske zoznamy jedovatých húb ju radia medzi druhy podozrivé z vyvolania orelanového syndrómu, otravy obličiek, ktorej príznaky sa môžu objaviť až niekoľko dní po jedle; údaje o orelaníne v tomto druhu si odporujú a nikdy sa nesmie jesť.",
+      "confusion": "Cortinarius ionochlorus je geneticky takmer totožný, rastie však s dubom na teplejších miestach a v mladosti má fialovo nádychnuté lupene. Cortinarius meinhardii, C. splendens, C. flavovirens a C. citrinus majú svetlejšie, žltšie klobúky a čiastočne iné hostiteľské dreviny. Cortinarius odoratus má silnú, výraznú sladkastú vôňu. Tricholoma equestre má tiež žltozelený klobúk a žlté lupene, nemá však obrúbenú hľuzu ani pavučinovitý závoj a výtrusný prach má biely.",
+      "notes": "Hodnotenie z roku 2019 ju globálne zaraďuje medzi takmer ohrozené druhy, blízko k zraniteľným: je zdokumentovaných asi 100 lokalít a možno ich existuje okolo 1 000, pričom jej staré vápnomilné jedľové lesy ubúdajú v dôsledku holorubov, premeny na smrekové kultúry a výstavby. Na červených zoznamoch je vedená ako potenciálne ohrozená v Rakúsku, ako ohrozená v Nemecku a v Česku a ako takmer ohrozená vo Švajčiarsku; v Británii ju od konca 19. storočia nenašli. Rod Calonarius bol od rodu Cortinarius oddelený v roku 2022 na základe DNA; niektorí mykológovia ho zatiaľ neuznávajú.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Cortinarius-atrovirens/pavucinovec-kopytnikovy/pavucinec-zeleny/ID1187",
+        "https://api.gbif.org/v1/species/12086958/vernacularNames"
+      ],
+      "label": "pavučinovec kopytníkový"
+    },
+    "sl": {
+      "description": "Čokata, redka koprenka starih jelovih gozdov na apnencu, ki jo prepoznamo po sluzastem, temno olivno zelenem do skoraj črnem klobuku, žveplasto rumenih lističih in betu, ostro obrobljenem gomolju ob dnu beta, živo rumenem mesu in pikantnem, poprastem vonju. Znana je le iz Evrope, znotraj naravnega območja bele jelke, in velja za domnevno strupeno.",
+      "cap": "Širok 4–9 cm, redko do približno 11 cm; sprva polkroglast z dolgo podvihanim robom, nato izbočen in nazadnje sploščen. Površina je v vlažnem zelo sluzasta in v suhem bleščeča, temno olivno zelena do črnikasto zelena, v sredini najtemnejša in proti robu pogosto svetlejša in bolj rumenkasto zelena, z temnimi, radialno vraslimi vlakni. Stari klobuki zbledijo proti rumenkasto rjavi in lahko razpokajo v drobna polja. Kalijev hidroksid (KOH) obarva kožico klobuka temno rdečerjavo do črno.",
+      "hymenium": "Lističi so ob betu izrezani, gosti in ozki, mladi žveplasto do kromovo rumeni ali zelenkasto rumeni, nato olivno okrasti in nazadnje od zorečih trosov rjasto rjavi; rob je rahlo valovit do drobno nazobčan. Pri mladih trosnjakih jih prekriva dobro razvita, rumenozelena, pajčevinasta zastiralka (kortina).",
+      "stipe": "Dolg 4–8 cm in debel 1–2,5 cm, valjast in čvrst, ob dnu s širokim, ostro obrobljenim gomoljem do približno 3 cm. Je žveplasto do zelenkasto rumen in s starostjo od dna porjavi; na robu gomolja so zelenkasto rumeni ostanki zastiralke, vlakna kortine od ujetih trosov porjavijo rjasto, gomolj pa nosi rumen micelij.",
+      "flesh": "Čvrsto, povsod živo žveplasto do limonasto rumeno, včasih zelenkasto rumeno. Vonj je aromatičen in poprast, pogosto primerjan s črnim poprom ali zmečkanimi listi navadnega kopitnika (Asarum europaeum), a je lahko šibek; okus je mil ali rahlo pikanten.",
+      "sporePrint": "Rjasto rjav, v mladosti bolj rumenkasto rjav. Trosi so mandljasti do limonasti, izrazito bradavičasti, približno 9–12 × 5–7 µm.",
+      "habitat": "Ektomikorizna gliva, predvsem z belo jelko (Abies alba), redkeje s smreko, na švedskem otoku Gotland pa z borom, vedno na apnenčastih tleh. Raste v starih, naravnih gorskih bukovo-jelovih in smrekovo-jelovih gozdovih na apnencu, na primer v Schwarzwaldu, Juri, Alpah in Karpatih, v Švici pa so jo našli do približno 1800 m nadmorske višine. Pojavlja se predvsem v dobrih gobarskih letih, takrat pogosto v dolgih vrstah ali čarovniških kolobarjih, večinoma od sredine septembra do konca oktobra, sicer pa od avgusta do novembra.",
+      "uses": "Neužitna in domnevno strupena. Nemški in avstrijski seznami strupenih gob jo uvrščajo med vrste, za katere obstaja sum, da povzročajo orelanusni sindrom, zastrupitev ledvic, katere znaki se lahko pokažejo šele nekaj dni po obroku; podatki o orelaninu v tej vrsti so nasprotujoči si in je nikoli ne smemo jesti.",
+      "confusion": "Cortinarius ionochlorus je genetsko skoraj enak, vendar raste s hrasti na toplejših rastiščih in ima v mladosti vijoličasto nadahnjene lističe. Cortinarius meinhardii, C. splendens, C. flavovirens in C. citrinus imajo svetlejše, bolj rumene klobuke in deloma druga drevesa gostitelje. Cortinarius odoratus ima močan, značilen sladkoben vonj. Tudi Tricholoma equestre ima rumenozelen klobuk in rumene lističe, vendar nima obrobljenega gomolja ne pajčevinaste zastiralke, njegov trosni prah pa je bel.",
+      "notes": "Svetovna ocena iz leta 2019 jo uvršča med skoraj ogrožene vrste (Near Threatened), blizu ranljivim (Vulnerable): dokumentiranih je približno 100 nahajališč, verjetno pa jih obstaja okoli 1000, njeni stari jelovi gozdovi na apnencu pa se krčijo zaradi golosekov, spreminjanja v smrekove nasade in pozidave. Na rdečih seznamih je v Avstriji potencialno ogrožena, v Nemčiji in na Češkem ogrožena, v Švici pa skoraj ogrožena; v Veliki Britaniji je niso našli od konca 19. stoletja. Rod Calonarius so leta 2022 na podlagi podatkov DNK ločili od rodu Cortinarius; nekateri mikologi ga še ne priznavajo.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/%C4%8Crnozeleni_koprenar",
+        "https://api.gbif.org/v1/species/12086958/vernacularNames"
+      ],
+      "label": "črnozeleni koprenar"
+    },
+    "sr": {
+      "description": "Крупна, ретка копренка старих јелових шума на кречњаку, препознатљива по слузавом, тамномаслинастозеленом до готово црном шеширу, сумпорножутим листићима и дршци, оштро обрубљеној кртоли на дну дршке, живо жутом месу и зачинском, папреном мирису. Позната је само из Европе, у природном ареалу беле јеле, и сумња се да је отровна.",
+      "cap": "Широк 4–9 cm, ретко до око 11 cm; у почетку полулоптаст с дуго подвијеним ободом, затим испупчен и на крају раван. Површина је по влажном времену веома слузава, а по сувом сјајна, тамномаслинастозелена до црнкастозелена, најтамнија у средини и према ободу често светлија и жућкастије зелена, с тамним, радијално ураслим влакнима. Стари шешири избледе ка жућкастомрком и могу да испуцају на мала поља. Калијум-хидроксид (KOH) боји кожицу шешира тамно црвенкастомрко до црно.",
+      "hymenium": "Листићи су уз дршку урезани, густи и уски, у младости сумпорножути до хромжути или зеленкастожути, затим маслинастоокер и на крају од зрелих спора рђастомрки; ивица је благо таласаста до ситно назубљена. Код младих плодних тела прекрива их добро развијена, жутозелена, паучинаста копрена (кортина).",
+      "stipe": "Дуга 4–8 cm и дебела 1–2,5 cm, ваљкаста и чврста, при дну са широком, оштро обрубљеном кртолом ширине до око 3 cm. Сумпорножута је до зеленкастожута и са старењем од дна помрки; на ободу кртоле налазе се зеленкастожути остаци омотача, влакна кортине од задржаних спора постају рђастомрка, а кртола носи жути мицелијум.",
+      "flesh": "Чврсто, свуда живо сумпорно до лимунжуто, понекад зеленкастожуто. Мирис је ароматичан и папрен, често упоређиван с црним бибером или згњеченим листовима копитњака (Asarum europaeum), али може бити слаб; укус је благ или благо зачински.",
+      "sporePrint": "Рђастомрк, у младости више жућкастомрк. Споре су бадемасте до лимунасте, изразито брадавичасте, око 9–12 × 5–7 µm.",
+      "habitat": "Ектомикоризна гљива, пре свега с белом јелом (Abies alba), ређе са смрчом, а на шведском острву Готланд с бором, увек на кречњачким земљиштима. Расте у старим, природним планинским буково-јеловим и смрчево-јеловим шумама на кречњаку, на пример у Шварцвалду, Јури, Алпима и Карпатима, а у Швајцарској је нађена до око 1800 m надморске висине. Јавља се углавном у добрим печуркарским годинама, тада често у дугим низовима или вилинским круговима, највише од средине септембра до краја октобра, али укупно од августа до новембра.",
+      "uses": "Нејестива и сумња се да је отровна. Немачки и аустријски спискови отровних гљива сврставају је међу врсте за које се сумња да изазивају ореланусни синдром, тровање бубрега чији се симптоми могу јавити тек неколико дана после оброка; подаци о ореланину у овој врсти су противречни, и никада се не сме јести.",
+      "confusion": "Cortinarius ionochlorus је генетски готово исти, али расте уз храстове на топлијим местима и у младости има љубичасто обојене листиће. Cortinarius meinhardii, C. splendens, C. flavovirens и C. citrinus имају светлије, жуће шешире и делимично друга дрвећа домаћине. Cortinarius odoratus има јак, особен слаткаст мирис. Tricholoma equestre такође има жутозелен шешир и жуте листиће, али нема обрубљену кртолу ни паучинасту копрену, а отисак спора му је бео.",
+      "notes": "Глобална процена из 2019. сврстава је у скоро угрожене врсте (Near Threatened), близу рањивих (Vulnerable): документовано је око 100 налазишта, а вероватно их постоји око 1000, док се њене старе кречњачке јелове шуме смањују због чистих сеча, претварања у смрчеве засаде и градње. На црвеним листама у Аустрији је потенцијално угрожена, у Немачкој и Чешкој угрожена, а у Швајцарској скоро угрожена; у Великој Британији није пронађена од краја 19. века. Род Calonarius одвојен је од рода Cortinarius 2022. на основу података ДНК; неки миколози га још не прихватају.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En kraftig, sällsynt spindling i gamla ädelgranskogar på kalk, igenkännlig på den slemmiga, mörkt olivgröna till nästan svarta hatten, svavelgula skivor och fot, en skarpt kantad knöl vid fotens bas, klargult kött och en kryddig, pepparaktig lukt. Den är bara känd från Europa, inom ädelgranens naturliga utbredning, och misstänks vara giftig.",
+      "cap": "4–9 cm bred, sällan upp till omkring 11 cm; först halvklotformig med länge inrullad kant, sedan välvd och till sist flat. Ytan är mycket slemmig i fuktigt väder och glänsande när den är torr, mörkt olivgrön till svartaktigt grön, mörkast i mitten och mot kanten ofta ljusare och gulare grön, med mörka, radiärt inväxta fibrer. Gamla hattar bleknar mot gulbrunt och kan spricka upp i små fält. Kaliumhydroxid (KOH) färgar hatthuden mörkt rödbrun till svart.",
+      "hymenium": "Skivorna är urnupna vid foten, täta och smala, unga svavel- till kromgula eller grönaktigt gula, sedan olivockra och till sist rostbruna av de mognande sporerna; eggen är svagt vågig till fint tandad. Hos unga fruktkroppar döljs de av ett välutvecklat, gulgrönt, spindelvävsliknande hylle (kortina).",
+      "stipe": "4–8 cm lång och 1–2,5 cm tjock, cylindrisk och fast, vid basen med en bred, skarpt kantad knöl upp till omkring 3 cm bred. Den är svavel- till grönaktigt gul och blir med åldern brunare från basen; på knölkanten sitter gulgröna hyllerester, kortinans trådar blir rostbruna av fastnade sporer och knölen bär gult mycel.",
+      "flesh": "Fast, helt igenom klart svavel- till citrongult, ibland grönaktigt gult. Lukten är aromatisk och pepparaktig, ofta jämförd med svartpeppar eller krossade blad av hasselört (Asarum europaeum), men kan vara svag; smaken är mild eller svagt kryddig.",
+      "sporePrint": "Rostbrunt, ungt mer gulbrunt. Sporerna är mandel- till citronformade, tydligt vårtiga och omkring 9–12 × 5–7 µm.",
+      "habitat": "Ektomykorrhizasvamp, främst med ädelgran (Abies alba), mer sällan med gran och på Gotland med tall, alltid på kalkrik mark. Den växer i gamla, naturnära bergsskogar av bok och ädelgran eller gran och ädelgran på kalk, till exempel i Schwarzwald, Jura, Alperna och Karpaterna, och har i Schweiz hittats upp till omkring 1800 m höjd. Den visar sig främst under goda svampår, då ofta i långa rader eller häxringar, huvudsakligen från mitten av september till slutet av oktober, men från augusti till november.",
+      "uses": "Inte ätlig och misstänkt giftig. Tyska och österrikiska förteckningar över giftsvampar räknar den bland de arter som misstänks orsaka orellanussyndrom, en njurförgiftning vars symtom kan komma först flera dagar efter måltiden; uppgifterna om orellanin hos arten är motstridiga, och den får aldrig ätas.",
+      "confusion": "Cortinarius ionochlorus är genetiskt nästan identisk men växer vid ek på varmare platser och har som ung violettonade skivor. Cortinarius meinhardii, C. splendens, C. flavovirens och C. citrinus har ljusare, gulare hattar och delvis andra värdträd. Cortinarius odoratus har en stark, säregen sötaktig lukt. Tricholoma equestre har också gulgrön hatt och gula skivor, men saknar kantad knöl och spindelvävsliknande hylle och har vitt sporpulver.",
+      "notes": "En global bedömning från 2019 klassar den som nära hotad (Near Threatened), nära sårbar (Vulnerable): omkring 100 lokaler är dokumenterade och det finns kanske omkring 1000, och dess gamla kalkrika ädelgranskogar krymper genom kalavverkning, omföring till granplanteringar och bebyggelse. På rödlistor står den som potentiellt hotad i Österrike, som starkt hotad i Tyskland och Tjeckien och som nära hotad i Schweiz; i Storbritannien har den inte hittats sedan slutet av 1800-talet. Släktet Calonarius bröts ut ur Cortinarius 2022 på grundval av DNA; vissa mykologer godtar det ännu inte.",
+      "names": [
+        "mörkgrön spindelskivling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2529006/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Svartgr%C3%B6n_spindling"
+      ],
+      "label": "svartgrön spindling"
+    },
+    "tr": {
+      "description": "Kireçtaşı üzerindeki yaşlı göknar ormanlarına özgü, iri yapılı ve nadir bir örümcek ağlı mantar; sümüksü, koyu zeytin yeşili ile neredeyse siyah arası şapkası, kükürt sarısı lamelleri ve sapı, sap dibindeki keskin kenarlı yumrusu, parlak sarı eti ve baharatlı, biberimsi kokusuyla tanınır. Yalnızca Avrupa'dan, ak göknarın doğal yayılış alanı içinden bilinir ve zehirli olduğundan şüphelenilir.",
+      "cap": "4–9 cm çapında, nadiren yaklaşık 11 cm'ye kadar; önce yarım küre biçiminde ve kenarı uzun süre içe kıvrık, sonra dışbükey ve sonunda yassı. Yüzey nemliyken çok sümüksü, kuruyken parlaktır; koyu zeytin yeşilinden siyahımsı yeşile kadar değişir, ortada en koyu, kenara doğru çoğu zaman daha açık ve daha sarımsı yeşildir, koyu renkli, ışınsal olarak gömülü liflerle kaplıdır. Yaşlı şapkalar sarımsı kahverengiye solar ve küçük parçalar halinde çatlayabilir. Potasyum hidroksit (KOH) şapka derisini koyu kırmızımsı kahverengiden siyaha boyar.",
+      "hymenium": "Lameller sapa oyuk bağlı, sık ve dar; gençken kükürt sarısından krom sarısına ya da yeşilimsi sarıya, sonra zeytin okrasına ve sonunda olgunlaşan sporlardan pas kahverengisine döner; kenarı hafif dalgalı ile ince dişli arasıdır. Genç meyve gövdelerinde iyi gelişmiş, sarı-yeşil, örümcek ağı gibi bir örtü (kortina) onları gizler.",
+      "stipe": "4–8 cm uzunluğunda ve 1–2,5 cm kalınlığında, silindirik ve sıkı; dibinde yaklaşık 3 cm'ye kadar genişleyen, keskin kenarlı geniş bir yumru bulunur. Kükürt sarısından yeşilimsi sarıya kadar değişir ve yaşlandıkça dipten başlayarak kahverengileşir; yumrunun kenarında yeşilimsi sarı örtü kalıntıları bulunur, kortina lifleri tutulan sporlardan pas kahverengisine döner ve yumru sarı miselyum taşır.",
+      "flesh": "Sıkı, baştan sona canlı kükürt sarısından limon sarısına kadar, bazen yeşilimsi sarı. Kokusu aromatik ve biberimsidir; çoğu zaman karabibere ya da ezilmiş Avrupa kulakotu (Asarum europaeum) yapraklarına benzetilir, ancak zayıf olabilir; tadı yumuşak veya hafif baharatlıdır.",
+      "sporePrint": "Pas kahverengisi, gençken daha sarımsı kahverengi. Sporlar badem ile limon biçimi arasında, belirgin siğilli ve yaklaşık 9–12 × 5–7 µm'dir.",
+      "habitat": "Ektomikorizal; başlıca ak göknar (Abies alba), daha seyrek ladin ve İsveç'in Gotland adasında çam ile birlikte, her zaman kireçli topraklarda yaşar. Kireçtaşı üzerindeki yaşlı, doğala yakın dağ kayın-göknar ve ladin-göknar ormanlarında, örneğin Kara Orman'da, Jura'da, Alpler'de ve Karpatlar'da yetişir; İsviçre'de yaklaşık 1800 m yüksekliğe kadar bulunmuştur. Özellikle mantar açısından verimli yıllarda, o zaman çoğu kez uzun sıralar ya da cadı halkaları halinde, başlıca eylül ortasından ekim sonuna kadar, genel olarak ise ağustostan kasıma kadar görülür.",
+      "uses": "Yenmez ve zehirli olduğundan şüphelenilir. Alman ve Avusturya zehirli mantar listeleri onu, belirtileri yemekten ancak günler sonra ortaya çıkabilen bir böbrek zehirlenmesi olan orellanus sendromuna yol açtığından şüphelenilen türler arasında sayar; bu türde orellanin bulunduğuna ilişkin veriler çelişkilidir ve asla yenmemelidir.",
+      "confusion": "Cortinarius ionochlorus genetik olarak neredeyse aynıdır, ancak daha sıcak yerlerde meşe ile birlikte yetişir ve gençken menekşe tonlu lamellere sahiptir. Cortinarius meinhardii, C. splendens, C. flavovirens ve C. citrinus daha açık, daha sarı şapkalara ve kısmen başka konak ağaçlara sahiptir. Cortinarius odoratus güçlü, kendine özgü tatlımsı bir kokuya sahiptir. Tricholoma equestre de sarı-yeşil şapkalı ve sarı lamellidir, ancak keskin kenarlı yumrusu ve örümcek ağı gibi örtüsü yoktur ve spor izi beyazdır.",
+      "notes": "2019 tarihli küresel bir değerlendirme onu Tehdide Yakın (Near Threatened), Hassas (Vulnerable) sınıfına yakın olarak sınıflandırır: yaklaşık 100 yer belgelenmiştir ve belki 1000 kadar vardır; yaşlı kireçli göknar ormanları ise tıraşlama kesimler, ladin plantasyonlarına dönüştürme ve yapılaşma nedeniyle azalmaktadır. Kırmızı listelerde Avusturya'da potansiyel olarak tehlike altında, Almanya ve Çekya'da tehlike altında, İsviçre'de tehdide yakın olarak yer alır; Büyük Britanya'da 19. yüzyılın sonundan beri bulunamamıştır. Calonarius cinsi 2022'de DNA verilerine dayanarak Cortinarius'tan ayrılmıştır; bazı mikologlar onu henüz kabul etmemektedir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Кремезний, рідкісний павутинник старих ялицевих лісів на вапняку, якого впізнають за слизуватим, темно-оливково-зеленим до майже чорного капелюшком, сірчано-жовтими пластинками й ніжкою, різко облямованою бульбою в основі ніжки, яскраво-жовтою м’якоттю та пряним, перцевим запахом. Відомий лише з Європи, в межах природного ареалу ялиці білої, і вважається ймовірно отруйним.",
+      "cap": "Діаметр 4–9 cm, рідко до близько 11 cm; спочатку напівкулястий з довго підгорнутим краєм, потім опуклий і зрештою плаский. Поверхня у вологу погоду дуже слизувата, у суху блискуча, темно-оливково-зелена до чорнувато-зеленої, найтемніша в центрі й до краю часто світліша та жовтувато-зеленіша, з темними, радіально врослими волокнами. Старі капелюшки вицвітають до жовтувато-бурих і можуть розтріскуватися на дрібні ділянки. Гідроксид калію (KOH) забарвлює шкірку капелюшка в темно-червонувато-бурий до чорного колір.",
+      "hymenium": "Пластинки виїмчасті біля ніжки, густі й вузькі, змолоду сірчано- до хромово-жовтих або зеленувато-жовтих, потім оливково-вохристі й зрештою іржасто-бурі від спор, що дозрівають; край злегка хвилястий до дрібнозубчастого. У молодих плодових тіл їх приховує добре розвинене жовто-зелене павутинисте покривало (кортина).",
+      "stipe": "Завдовжки 4–8 cm і завтовшки 1–2,5 cm, циліндрична й щільна, в основі з широкою, різко облямованою бульбою до близько 3 cm завширшки. Сірчано- до зеленувато-жовтої, з віком буріє від основи; на краю бульби лишаються зеленувато-жовті рештки покривала, волокна кортини стають іржасто-бурими від осілих спор, а на бульбі видно жовтий міцелій.",
+      "flesh": "Щільна, повністю яскраво сірчано- до лимонно-жовтої, іноді зеленувато-жовта. Запах ароматний і перцевий, його часто порівнюють із чорним перцем або розтертим листям копитняка європейського (Asarum europaeum), але він може бути слабким; смак м’який або злегка пряний.",
+      "sporePrint": "Іржасто-бурий, змолоду більш жовтувато-бурий. Спори мигдалеподібні до лимоноподібних, виразно бородавчасті, близько 9–12 × 5–7 µm.",
+      "habitat": "Ектомікоризний гриб, переважно з ялицею білою (Abies alba), рідше з ялиною, а на шведському острові Готланд із сосною, завжди на вапнистих ґрунтах. Росте в старих, близьких до природних гірських буково-ялицевих і ялиново-ялицевих лісах на вапняку, наприклад у Шварцвальді, Юрі, Альпах і Карпатах, а у Швейцарії його знаходили до висоти близько 1800 m. З’являється переважно в урожайні на гриби роки, тоді часто довгими рядами або «відьомськими колами», головно з середини вересня до кінця жовтня, а загалом із серпня до листопада.",
+      "uses": "Неїстівний і ймовірно отруйний. Німецькі та австрійські переліки отруйних грибів зараховують його до видів, які підозрюють у спричиненні орелланусного синдрому – отруєння нирок, симптоми якого можуть з’явитися лише через кілька днів після їжі; дані про орелланін у цього виду суперечливі, і його ніколи не можна їсти.",
+      "confusion": "Cortinarius ionochlorus генетично майже ідентичний, але росте з дубом у тепліших місцях і змолоду має пластинки з фіолетовим відтінком. Cortinarius meinhardii, C. splendens, C. flavovirens і C. citrinus мають світліші, жовтіші капелюшки й частково інші дерева-господарі. Cortinarius odoratus має сильний характерний солодкуватий запах. Tricholoma equestre також має жовто-зелений капелюшок і жовті пластинки, але не має облямованої бульби й павутинистого покривала, а його спорова маса біла.",
+      "notes": "Глобальна оцінка 2019 року відносить його до видів, близьких до загрозливого стану (Near Threatened), майже вразливих (Vulnerable): задокументовано близько 100 місцезнаходжень, а загалом їх, можливо, близько 1000, тоді як його старі вапнякові ялицеві ліси скорочуються через суцільні рубки, заміну ялиновими насадженнями та забудову. У червоних списках він значиться як потенційно загрозливий в Австрії, як такий, що перебуває під загрозою, у Німеччині та Чехії і як близький до загрозливого стану у Швейцарії; у Великій Британії його не знаходили з кінця XIX століття. Рід Calonarius виокремили з Cortinarius у 2022 році на підставі даних ДНК; деякі мікологи його ще не визнають.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種粗壯而稀有的絲膜菌類真菌，生於石灰岩上的古老冷杉林，可憑黏滑、暗橄欖綠至近黑色的菌蓋、硫黃色的菌褶與菌柄、柄基邊緣分明的塊莖狀膨大、鮮黃色的菌肉，以及辛香如胡椒的氣味辨認。僅見於歐洲，分布於歐洲冷杉的天然分布範圍內，疑似有毒。",
+      "cap": "直徑4–9 cm，偶達約11 cm；初為半球形，邊緣長期內捲，後呈凸鏡形，最後平展。表面濕時極黏，乾時有光澤，暗橄欖綠至帶黑的綠色，中央最深，向邊緣常較淡且偏黃綠，具暗色、放射狀內生的纖維。老菌蓋褪為黃褐色，並可龜裂成小塊。氫氧化鉀(KOH)使菌蓋表皮變為暗紅褐色至黑色。",
+      "hymenium": "菌褶彎生，密而窄，幼時硫黃色至鉻黃色或綠黃色，之後呈橄欖赭色，最後因孢子成熟而成鏽褐色；褶緣略呈波狀至細鋸齒狀。幼小子實體的菌褶被發達的黃綠色蛛網狀菌幕(絲膜)遮蓋。",
+      "stipe": "長4–8 cm，粗1–2.5 cm，圓柱形而堅實，基部有寬達約3 cm、邊緣分明的寬大塊莖。硫黃色至帶綠的黃色，老時自基部變褐；塊莖邊緣留有綠黃色的菌幕殘餘，絲膜纖維因附著孢子而成鏽褐色，塊莖上帶有黃色菌絲。",
+      "flesh": "堅實，通體鮮硫黃色至檸檬黃色，有時帶綠黃色。氣味芳香帶胡椒味，常被比作黑胡椒或揉碎的歐洲細辛(Asarum europaeum)葉，但也可能很淡；味道溫和或略帶辛香。",
+      "sporePrint": "鏽褐色，幼時較偏黃褐色。孢子杏仁形至檸檬形，具明顯疣突，約9–12 × 5–7 µm。",
+      "habitat": "外生菌根菌，主要與歐洲冷杉(Abies alba)共生，較少與雲杉共生，在瑞典哥得蘭島則與松樹共生，總是生於石灰質土壤。生於石灰岩上古老、接近自然的山地山毛櫸－冷杉林和雲杉－冷杉林，例如黑森林、侏羅山、阿爾卑斯山和喀爾巴阡山，在瑞士曾見於海拔約1800 m處。主要在菇類豐收年出現，此時常排成長列或形成仙女環，主要發生於9月中旬至10月底，整體而言為8月至11月。",
+      "uses": "不可食用，疑似有毒。德國和奧地利的毒菇名錄將其列為疑似引起奧雷拉尼斯症候群的物種，這是一種腎臟中毒，症狀可能在進食後數日才出現；關於本種含奧雷拉寧的資料互相矛盾，切勿食用。",
+      "confusion": "Cortinarius ionochlorus在遺傳上幾乎相同，但生於較溫暖處的櫟樹下，幼時菌褶帶紫色。Cortinarius meinhardii、C. splendens、C. flavovirens和C. citrinus的菌蓋較淡、較黃，部分宿主樹種也不同。Cortinarius odoratus有強烈而獨特的甜香。Tricholoma equestre也有黃綠色菌蓋和黃色菌褶，但沒有邊緣分明的塊莖和蛛網狀菌幕，孢子印為白色。",
+      "notes": "2019年的全球評估將其列為近危(Near Threatened)，接近易危(Vulnerable)：已記錄約100個產地，實際可能約有1000個，而其棲地——石灰質的古老冷杉林——正因皆伐、改種雲杉人工林和開發而縮減。在紅色名錄中，它在奧地利被列為潛在受威脅，在德國和捷克被列為瀕危(Endangered)，在瑞士被列為近危；在英國自19世紀末以來未再發現。Calonarius屬於2022年依據DNA資料自Cortinarius屬分出，但部分真菌學家尚未接受。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t37u, same form as Bovista paludosa 154, Phaeoclavulina roellinii 155, Agaricus bohusii 156 and Pseudoplectania melaena 158). The supplied image is a 19th-century-style colour illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number; Picasa-processed JPEG named .png); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca1.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/194514599"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca2.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/194514599"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca3.webp",
+      "author": "Davide Puddu",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/9368118"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca4.webp",
+      "author": "Tomaž Vučko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://app.plutof.ut.ee/specimen/view/2705720"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca5.webp",
+      "author": "Tomaž Vučko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://app.plutof.ut.ee/specimen/view/2705720"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/Calonarius_atrovirens@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark at bottom right kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca1.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/194514599",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341934641/original.jpg",
+      "attribution": "© Matej Frančeškin, CC BY 4.0, via iNaturalist observation 194514599 / GBIF occurrence 4518985884",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca2.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/194514599",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/341934628/original.jpg",
+      "attribution": "© Matej Frančeškin, CC BY 4.0, via iNaturalist observation 194514599 / GBIF occurrence 4518985884",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca3.webp",
+      "author": "Davide Puddu",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/9368118",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/12720216/original.jpg",
+      "attribution": "© Davide Puddu, CC BY 4.0, via iNaturalist observation 9368118 / GBIF occurrence 1802774439",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca4.webp",
+      "author": "Tomaž Vučko",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://app.plutof.ut.ee/specimen/view/2705720",
+      "photoUrl": "https://s3.hpc.ut.ee/plutof-public/large/fcdde3b7-afbb-4101-b887-c4b56f0aa26e.jpg",
+      "attribution": "© Tomaž Vučko, CC BY-SA 4.0, Citizens for FunDive (PlutoF specimen 2705720) / GBIF occurrence 6875454484",
+      "shareAlike": true,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Cortinariaceae/Calonarius_atrovirens/ca5.webp",
+      "author": "Tomaž Vučko",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://app.plutof.ut.ee/specimen/view/2705720",
+      "photoUrl": "https://s3.hpc.ut.ee/plutof-public/large/7c6798ea-c322-4153-bfc4-79184c006041.jpg",
+      "attribution": "© Tomaž Vučko, CC BY-SA 4.0, Citizens for FunDive (PlutoF specimen 2705720) / GBIF occurrence 6875454484",
+      "shareAlike": true,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Cortinarius atrovirens",
+    "Cortinarius prasinus var. atrovirens",
+    "Gomphos atrovirens",
+    "Phlegmacium atrovirens"
+  ],
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 159,
+  "added": "2026-11-12",
+  "citation": "in Liimatainen, Kim, Pokorny, Kirk, Dentinger & Niskanen, Fungal Diversity 112: 128 (2022)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "No enclosed-region removal; cream pockets between moss fronds kept as found.",
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 9372,
+    "paperResidualP995": 2.0555582726008836,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Calonarius atrovirens.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "81d5b3cd643d425c78aeea3f299f352426b01168b03816592cd1eb2153b68c11",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      71,
+      183,
+      865,
+      1125
+    ],
+    "uniformScale": 1.7632241813602014,
+    "placement": [
+      100,
+      369
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1661
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 651362,
+    "opaquePixels": 396681,
+    "partialAlphaPixels": 27157,
+    "signatureBox": [
+      785,
+      1095,
+      855,
+      1132
+    ],
+    "signatureComponents": 4,
+    "signaturePixels": 169,
+    "preservedObjects": [
+      "left: a young fruit body with a rounded, dark olive-green cap, yellowish gills seen through a whitish-yellow cortina, and a yellow, bulbous base with yellow velum",
+      "centre back: a mature upright fruit body with a broad, glossy, dark olive-green cap dotted darker, a long pale-yellow stipe banded with rusty-orange cortina remnants and a yellow, swollen bulbous base in moss",
+      "centre front: a fruit body seen from below, showing crowded yellow-green gills with a rusty-brown blush, a yellowish stipe with rusty fibres and a pale bulb with soil at the base",
+      "right: a longitudinal section showing yellow flesh throughout the cap and stipe, yellow-green gills and a large rounded bulb",
+      "ground: green moss, conifer needles, a flat-needled fir (Abies-like) sprig and a patch of soil",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t37u; Bovista 154 / Phaeoclavulina 155 / Agaricus bohusii precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 413505.5,
+        "box": [
+          72,
+          184,
+          792,
+          896
+        ],
+        "medianContrast": 110.28283243900133
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "See art_visual_review",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t29u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as Bovista paludosa (ID 154) and Phaeoclavulina roellinii (ID 155). Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right (~x796-843, y1104-1124 in the 896x1200 source)",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform re-toned paper with synthetic vignette",
+        "No other Calonarius-related file was found in the Mac Downloads folder"
+      ],
+      "anatomyCaveat": "Broadly consistent with published descriptions (dark olive-green glossy cap, yellow-green gills becoming rusty, sulphur-yellow stipe with rusty cortina remnants, yellow flesh in section, bulbous base, moss and fir needles for the calcareous fir-forest habitat). Mismatches/stylisation: (1) the bulbs are drawn as rounded, club-like swellings; sources describe a SHARPLY MARGINATE (rimmed) bulb, which only the young left figure hints at; (2) the cap of the sectioned right figure is drawn yellow-green on top instead of the dark olive-green cap skin of the species; (3) the mature stipe is drawn long and slender relative to the cap (sources: stipe 4-8 cm, 1-2.5 cm thick, cap 4-9 cm); (4) the cap is shown with dark spots rather than innate dark radial fibres. No smell (pepper) or KOH reaction can be shown. Not a verified scientific illustration.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented",
+      "disclosure": "AI-generated illustration (credited \"Gemini\" at the owner's request; existing \"Gemini\" mark on the image)."
+    },
+    "anatomyReview": "Broadly consistent with published descriptions (dark olive-green glossy cap, yellow-green gills becoming rusty, sulphur-yellow stipe with rusty cortina remnants, yellow flesh in section, bulbous base, moss and fir needles for the calcareous fir-forest habitat). Mismatches/stylisation: (1) the bulbs are drawn as rounded, club-like swellings; sources describe a SHARPLY MARGINATE (rimmed) bulb, which only the young left figure hints at; (2) the cap of the sectioned right figure is drawn yellow-green on top instead of the dark olive-green cap skin of the species; (3) the mature stipe is drawn long and slender relative to the cap (sources: stipe 4-8 cm, 1-2.5 cm thick, cap 4-9 cm); (4) the cap is shown with dark spots rather than innate dark radial fibres. No smell (pepper) or KOH reaction can be shown. Not a verified scientific illustration.",
+    "art_visual_review": "Full-size inspection (plate_preview.png, transparency_checker.png, original_vs_composition.jpg, fullsize_inspection/*.png): all four fruit-body figures, moss, fir sprig and ground whole; no clipped anatomy; existing Gemini mark retained; clean alpha edges after a 3-pass peel (9,372 edge pixels); a few isolated light JPEG-ringing specks remain at the section figure's outline (invisible on the cream background); source RGB unchanged; uniform scale; composed on ingest/data/background.webp (SHA256 d32f4fc0…, same file as /workspace/uploads/background.webp).",
+    "alphaPNGSHA256": "14615132eb27c9cd1eb873ca5632357ea1806712c6af5946d93ad0c668f85aae",
+    "maskSHA256": "3b4a16056c0e8ef9356a108afd1dada640c42d4a8d299b5de577a584dc5d6cc9",
+    "recipeSHA256": "e7c2ed391560aeac0c6e307e5dcab1fad785c6b454ae7eccfd0405ddc89faa79",
+    "officialFiles": [
+      {
+        "path": "media/Calonarius_atrovirens@1600.webp",
+        "bytes": 398052,
+        "sha256": "08c821ca4b77e380074aa3ee7d4609fb734cdb90a5a4a96137e4d2f1f667730f"
+      },
+      {
+        "path": "media/Calonarius_atrovirens@400.webp",
+        "bytes": 45938,
+        "sha256": "42e5ecb6be55544d20f6733d4193ae9577648e16e06409aadfee9797eb47fc23"
+      }
+    ]
+  }
+},
+{
+  "name": "Aureoboletus projectellus",
+  "author": "(Murrill) Halling",
+  "family": "Boletaceae",
+  "genus": "Aureoboletus",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Boletaceae",
+    "Aureoboletus"
+  ],
+  "summary": [
+    "Boletales",
+    "Boletaceae",
+    "Aureoboletus"
+  ],
+  "edibility": "edible",
+  "hymenium": "tubes",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "red"
+  ],
+  "capFrom": 4.0,
+  "capTo": 14.0,
+  "stipeHeightFrom": 6.0,
+  "stipeHeightTo": 17.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 3.0,
+  "label": {
+    "ar": "Aureoboletus projectellus",
+    "bg": "Aureoboletus projectellus",
+    "cs": "hřib štíhlotřenný",
+    "da": "ribbestokket guldrørhat",
+    "de": "Falsche Rotkappe",
+    "en": "Aureoboletus projectellus",
+    "es": "Aureoboletus projectellus",
+    "et": "männi-kuldpoorik",
+    "fa": "Aureoboletus projectellus",
+    "fi": "vaskitatti",
+    "fr": "bolet élancé",
+    "he": "Aureoboletus projectellus",
+    "hi": "Aureoboletus projectellus",
+    "hr": "Aureoboletus projectellus",
+    "hu": "Aureoboletus projectellus",
+    "id": "Aureoboletus projectellus",
+    "it": "Aureoboletus projectellus",
+    "ja": "Aureoboletus projectellus",
+    "ko": "Aureoboletus projectellus",
+    "lt": "raudonasis auksabaravykis",
+    "lv": "dzīslkāta beka",
+    "nl": "bruinrode boleet",
+    "no": "amerikarørsopp",
+    "pl": "złotoborowik wysmukły",
+    "pt": "Aureoboletus projectellus",
+    "ro": "Aureoboletus projectellus",
+    "ru": "боровик золотистый",
+    "sk": "Aureoboletus projectellus",
+    "sl": "Aureoboletus projectellus",
+    "sr": "Aureoboletus projectellus",
+    "sv": "ribbsopp",
+    "tr": "Aureoboletus projectellus",
+    "uk": "Aureoboletus projectellus",
+    "zh": "Aureoboletus projectellus"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [
+      "ribbestokket rørhat"
+    ],
+    "de": [
+      "Großsporiger Kiefernröhrling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "авреоболет крупноспоровый"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.denik.cz/cesko/cesko-rostou-nove-houby-hrib/",
+      "https://living.iprima.cz/americky-hrib-se-siri-evropou-objevi-se-i-u-nas-a-vytlaci-domaci-houby-483275",
+      "https://medium.seznam.cz/clanek/lukas-fogl-kdo-je-ten-cizinec-s-dlouhyma-nohama-320607"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxon/67753",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames",
+      "https://species.wikimedia.org/wiki/Aureoboletus_projectellus"
+    ],
+    "de": [
+      "https://www.pilze-deutschland.de/organismen/aureoboletus-projectellus-murrill-halling-2015-1",
+      "https://123pilzsuche.de/daten/details/Pinienroehrling.htm",
+      "https://www.wikidata.org/wiki/Q41710336",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=811405",
+      "https://www.gbif.org/species/8339825",
+      "https://www.catalogueoflife.org/data/taxon/JTGN",
+      "https://doi.org/10.1071/SB14049",
+      "https://www.mushroomexpert.com/aureoboletus_projectellus.html",
+      "https://en.wikipedia.org/wiki/Aureoboletus_projectellus",
+      "https://123pilzsuche.de/daten/details/Pinienroehrling.htm",
+      "https://www.pilze-deutschland.de/organismen/aureoboletus-projectellus-murrill-halling-2015-1",
+      "https://paddenstoelenonderzoek.nl/kijk-op-exoten-nummer-54/",
+      "https://www.sydowia.at/syd63-2/T6-Motie.htm",
+      "https://lister.artsdatabanken.no/fremmedartslista/2023/2711",
+      "https://www.inaturalist.org/taxa/831551-Aureoboletus-projectellus"
+    ],
+    "es": [],
+    "et": [
+      "https://elurikkus.ee/app/taxonomy/taxon/243327",
+      "https://et.wikipedia.org/wiki/M%C3%A4nni-kuldpoorik"
+    ],
+    "fa": [],
+    "fi": [
+      "https://laji.fi/taxon/MX.71687",
+      "https://fi.wikipedia.org/wiki/Vaskitatti"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Aureoboletus_projectellus",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Raudonasis_auksabaravykis",
+      "https://doi.org/10.35513/nrc.2024.1.07",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Dz%C4%ABslk%C4%81ta_beka",
+      "https://www.senes.lv/mikologubiedriba/YEARS_FUNGUS.htm",
+      "https://species.wikimedia.org/wiki/Aureoboletus_projectellus",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "nl": [
+      "https://kvmv.be/_uploads/files/Nieuwe-Nederlandse-namen-2025-voor-website.pdf",
+      "https://paddenstoelenonderzoek.nl/kijk-op-exoten-nummer-54/",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "no": [
+      "https://lister.artsdatabanken.no/fremmedartslista/2023/2711",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Z%C5%82otoborowik_wysmuk%C5%82y",
+      "https://species.wikimedia.org/wiki/Aureoboletus_projectellus",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B%D0%B9",
+      "https://api.gbif.org/v1/species/8339825/vernacularNames",
+      "https://species.wikimedia.org/wiki/Aureoboletus_projectellus"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://api.gbif.org/v1/species/8339825/vernacularNames"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر بوليطي طويل من غابات الصنوبر الرملية، يُعرف بقبعته البنية المحمرة ذات الحافة البارزة، ومسامه الصفراء إلى الزيتونية، وساقه الطويلة جدًا المحززة بعمق إلى الشبكية الخشنة مع غزل فطري أبيض عند قاعدتها، ولحمه الذي لا يزرقّ. موطنه الأصلي شرق أمريكا الشمالية والمكسيك، ومنذ أوائل سنوات الـ٢٠٠٠ ينتشر في أوروبا حول بحر البلطيق.",
+      "cap": "قطرها ٤–١٤ cm، وأحيانًا حتى ٢٠ cm؛ نصف كروية أولًا، ثم محدبة إلى محدبة عريضة، ونادرًا ما تصبح مسطحة تمامًا. سطحها جاف ومخملي ناعم في الصغر، ولزج قليلًا في الطقس الرطب، وكثيرًا ما يتشقق تشققًا دقيقًا مع التقدم في العمر. لونها بني قرفي إلى بني محمر أو بني محمر داكن أو بني أرجواني، وقد تشوبها في الصغر مسحة رمادية أو زيتونية. يمتد جلد القبعة متجاوزًا الأنابيب على هيئة حافة عقيمة عرضها ١–٣ mm. تُلوّن الأمونيا سطح القبعة بالأسود، وهيدروكسيد البوتاسيوم (KOH) بلون الماهوغني.",
+      "hymenium": "الأنابيب بطول ١–٢٫٥ cm ومنخفضة حول الساق؛ المسام مستديرة، عرضها نحو ٠٫٥–٢ mm، صفراء باهتة إلى زاهية أولًا، ثم صفراء زيتونية، وأخيرًا بنية زيتونية باهتة. لا تزرقّ عند الضغط، أو تزرقّ نادرًا وبشكل خفيف. البازيديات رباعية الأبواغ غالبًا وثنائيتها أحيانًا، والسيستيديات أسطوانية إلى مغزلية، ٣٥–٧٠ × ٧٫٥–١٠ µm.",
+      "stipe": "طولها ٦–١٧ cm، وأحيانًا حتى ٢٤ cm، وسمكها ١–٣ cm، وأحيانًا حتى ٥ cm؛ طويلة جدًا قياسًا بالقبعة، مصمتة، متساوية السمك أو منتفخة قليلًا نحو القاعدة. الساق الفتية محززة طوليًا بشكل ضحل؛ ومع النضج تصبح الحزوز عميقة وخشنة وتشكل شبكة بارزة، لا سيما على الثلثين العلويين. لونها مصفر إلى بني وردي أو بني محمر، وعادةً أفتح من القبعة، ولزجة قليلًا وهي طازجة أو مبتلة، وتلتف حول قاعدتها كمية وفيرة من الغزل الفطري الأبيض.",
+      "flesh": "مبيض إلى مصفر باهت، وأحيانًا بمسحة وردية، متماسك. لا يزرقّ عند القطع، لكنه قد يصير ببطء بنيًا مصفرًا، وقد تدكن طبقة رقيقة فوق الأنابيب مباشرةً حتى الأحمر الداكن. الرائحة غير مميزة، والطعم معتدل إلى حامض قليلًا.",
+      "sporePrint": "زيتوني إلى بني زيتوني. الأبواغ مغزلية إلى بيضوية مستطيلة، ملساء، ذهبية في KOH وكبيرة على نحو استثنائي، نحو ١٨–٣٣ × ٧٫٥–١٢ µm، وهي الأكبر بين جميع الفطور البوليطية في أمريكا الشمالية.",
+      "habitat": "يُكوّن جذورًا فطرية خارجية مع أشجار الصنوبر: في أمريكا الشمالية مع أنواع مختلفة من الصنوبر ثنائي الإبر وخماسي الإبر، وفي أوروبا مع الصنوبر الاسكتلندي (Pinus sylvestris) والصنوبر الجبلي (Pinus mugo) والصنوبر الأسود (Pinus nigra). ينمو منفردًا أو متفرقًا أو في مجموعات، وأحيانًا في حلقات كبيرة، على الترب الرملية الجافة الفقيرة بالمغذيات في غابات الصنوبر، وعلى الكثبان الساحلية والأراضي الخلنجية المكسوة بالصنوبر، وأحيانًا في مستنقعات الخث المستغلة. يُثمر من الصيف إلى الخريف، وبخاصة من يوليو إلى أكتوبر، وفي أوروبا غالبًا من أغسطس إلى أكتوبر.",
+      "uses": "صالح للأكل. طعمه حامض قليلًا، ويُجمع في دول البلطيق وبولندا حيث أصبح شائعًا. تُفضَّل الثمار الفتية، ومن الأفضل التخلص من السيقان القاسية الليفية للثمار الأكبر سنًا، ولا يؤكل إلا مطهوًا جيدًا. ويُستعمل أيضًا في الصباغة بالفطور، فيعطي بحسب المثبّت ألوانًا صفراء أو برتقالية مائلة إلى البني أو برتقالية داكنة أو بنية مخضرة أو صفراء مخضرة.",
+      "confusion": "لفطر Aureoboletus russellii ساق أشعث شبكي ممزق، وينمو في الغالب تحت الأشجار عريضة الأوراق، وأبواغه مختلفة تمامًا. لفطر Imleria badia ساق أقصر وأملس بلا حزوز خشنة، وتزرقّ مسامه عند الضغط. لأنواع Leccinum سيقان طويلة بالقدر نفسه، لكنها مغطاة بحراشف داكنة بدل الحزوز، ومسامها مبيضة إلى رمادية. أما Xerocomus subtomentosus فأصغر، بساق أقصر بلا شبكة عميقة ومسام كبيرة مضلعة.",
+      "notes": "نوع دخيل في أوروبا: تأكد وجوده أول مرة في ٢٠٠٧–٢٠٠٩ على برزخ كورونيا في ليتوانيا، حيث كان جامعو الفطور المحليون يعرفونه منذ ثمانينيات القرن العشرين (منذ نحو ١٩٨٠)، وربما وصل مع شتلات صنوبر أمريكية شمالية زُرعت لتثبيت الكثبان الساحلية. ومنذ ذلك الحين انتشر بسرعة حول البلطيق إلى لاتفيا وإستونيا وبولندا وألمانيا والدنمارك والسويد والنرويج وفنلندا، ومؤخرًا أيضًا إلى هولندا وبيلاروس وأوكرانيا وروسيا وتشيكيا وسلوفاكيا. وفي إستونيا قد يتسع نطاق انتشاره بما يصل إلى نحو ١٠٠ km سنويًا. ويُعدّ نوعًا غازيًا محتملًا، وقد ظهر نحو ٤٥٠٠ جسم ثمري في موقع واحد في بولندا عام ٢٠١٦.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Висока тръбеста гъба от песъчливи борови гори с червеникавокафява шапка с надвиснал ръб, жълти до маслинени пори, много дълго, дълбоко набраздено до грубо мрежесто пънче с бял мицел в основата и месо, което не посинява. Произхожда от изтока на Северна Америка и от Мексико, а в Европа от началото на 2000-те години се разпространява около Балтийско море.",
+      "cap": "Диаметър 4–14 cm, понякога до 20 cm; отначало полусферична, после изпъкнала до широко изпъкнала и само рядко съвсем плоска. Повърхността е суха и на млади години фино кадифена, при влажно време леко лепкава, а с възрастта често ситно напукана. Тя е канеленокафява до червеникавокафява, тъмно червеникавокафява или пурпурнокафява, при младите понякога със сивкав или маслинен оттенък. Кожицата на шапката излиза над тръбиците като стерилна ивица, широка 1–3 mm. Амонякът оцветява повърхността на шапката в черно, а калиевата основа (KOH) — в цвят махагон.",
+      "hymenium": "Тръбиците са дълги 1–2,5 cm и вдлъбнати около пънчето; порите са кръгли, около 0,5–2 mm, отначало бледо до ярко жълти, после маслиненожълти и накрая мръсно маслиненокафяви. При натиск не посиняват или посиняват само рядко и слабо. Базидиите са предимно четириспорови, по-рядко двуспорови, а цистидите са цилиндрични до вретеновидни, 35–70 × 7,5–10 µm.",
+      "stipe": "Дължина 6–17 cm, понякога до 24 cm, и дебелина 1–3 cm, понякога до 5 cm; много дълго в сравнение с шапката, плътно, равномерно дебело или леко удебелено към основата. Младите пънчета са плитко надлъжно набраздени; със съзряването браздите стават дълбоки и груби и образуват изразена мрежа, особено в горните две трети. То е жълтеникаво до розовокафяво или червеникавокафяво, обикновено по-светло от шапката, прясно или влажно леко лепкаво, а основата е обвита в обилен бял мицел.",
+      "flesh": "Белезникаво до бледо жълтеникаво, понякога с розов оттенък, твърдо. При разрязване не посинява, но може бавно да стане жълтеникавокафяво, а тънка зона точно над тръбиците може да потъмнее до тъмночервено. Мирисът не е характерен, а вкусът е мек до леко киселеещ.",
+      "sporePrint": "Маслинен до маслиненокафяв. Спорите са вретеновидни до удължено овални, гладки, в KOH златисти и изключително едри, около 18–33 × 7,5–12 µm, най-едрите сред всички тръбести гъби в Северна Америка.",
+      "habitat": "Образува ектомикориза с борове: в Северна Америка с различни дву- и петиглени борове, в Европа с бял бор (Pinus sylvestris), клек (Pinus mugo) и черен бор (Pinus nigra). Расте единично, разпръснато или на групи, понякога в големи кръгове, върху сухи, бедни песъчливи почви в борови гори, по обрасли с бор крайбрежни дюни и пустоши с пирен, а понякога и върху изкопани торфища. Плодните тела се появяват от лятото до есента, главно от юли до октомври, в Европа предимно от август до октомври.",
+      "uses": "Ядлива. Има леко кисел вкус и се събира в балтийските страни и в Полша, където е станала обичайна. Предпочитат се младите плодни тела, жилавите и влакнести пънчета на по-старите е по-добре да се отстраняват, а гъбата трябва да се яде само добре термично обработена. Използва се и за багрене с гъби и според байцовото вещество дава жълти, кафеникавооранжеви, тъмнооранжеви, зеленикавокафяви или зеленикавожълти цветове.",
+      "confusion": "Aureoboletus russellii има рошаво, разкъсано мрежесто пънче, расте по-често под широколистни дървета и има съвсем различни спори. Imleria badia има по-късо, гладко пънче без груби бразди, а порите ѝ посиняват при натиск. Видовете от род Leccinum имат също толкова дълги пънчета, но те са покрити с тъмни люспици вместо бразди, а порите им са белезникави до сиви. Xerocomus subtomentosus е по-дребна, с по-късо пънче без дълбока мрежа и с едри, ъгловати пори.",
+      "notes": "Внесен вид в Европа: за първи път е потвърден през 2007–2009 г. на Куршската коса в Литва, където местните гъбари са го познавали още от 1980-те години; възможно е да е пристигнал със северноамерикански борови фиданки, засадени за укрепване на крайбрежните дюни. Оттогава бързо се е разпространил около Балтийско море в Латвия, Естония, Полша, Германия, Дания, Швеция, Норвегия и Финландия, а напоследък и в Нидерландия, Беларус, Украйна, Русия, Чехия и Словакия. В Естония ареалът му може да се разширява с до около 100 km годишно. Смята се за потенциално инвазивен, а на едно-единствено находище в Полша през 2016 г. са се появили около 4500 плодни тела.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Vysoký hřib písčitých borů s červenohnědým kloboukem s přečnívajícím okrajem, žlutými až olivovými póry, velmi dlouhým, hluboce rýhovaným až hrubě síťkovaným třeněm s bílým myceliem na bázi a dužninou, která nemodrá. Původní je na východě Severní Ameriky a v Mexiku; v Evropě se od počátku nového tisíciletí (po roce 2000) šíří kolem Baltského moře.",
+      "cap": "4–14 cm široký, výjimečně až 20 cm; nejprve polokulovitý, pak vyklenutý až široce vyklenutý a jen zřídka zcela plochý. Povrch je suchý a za mládí jemně sametový, za vlhka mírně lepkavý a stářím často jemně rozpraskaný. Je skořicově hnědý až červenohnědý, tmavě červenohnědý nebo purpurově hnědý, za mládí někdy s šedým nebo olivovým nádechem. Pokožka klobouku přesahuje rourky jako sterilní lem široký 1–3 mm. Čpavek barví povrch klobouku černě a hydroxid draselný (KOH) mahagonově.",
+      "hymenium": "Rourky jsou 1–2,5 cm dlouhé a u třeně vykrojené; póry jsou okrouhlé, asi 0,5–2 mm široké, nejprve světle až jasně žluté, pak olivově žluté a nakonec špinavě olivově hnědé. Po stisknutí nemodrají, nanejvýš vzácně a slabě. Basidie jsou většinou čtyřvýtrusé, méně často dvouvýtrusé, a cystidy jsou válcovité až vřetenovité, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm dlouhý, někdy až 24 cm, a 1–3 cm tlustý, výjimečně až 5 cm; v poměru ke klobouku velmi dlouhý, plný, stejně tlustý nebo k bázi mírně rozšířený. Mladé třeně jsou mělce podélně rýhované; v dospělosti jsou rýhy hluboké a hrubé a tvoří výraznou síťku, hlavně na horních dvou třetinách. Je nažloutlý až růžovohnědý nebo červenohnědý, obvykle světlejší než klobouk, za čerstva nebo za vlhka mírně lepkavý a báze je obalena hojným bílým myceliem.",
+      "flesh": "Bělavá až světle nažloutlá, někdy s růžovým nádechem, pevná. Na řezu nemodrá, ale může se pomalu zbarvit do žlutohněda a tenká vrstva těsně nad rourkami může ztmavnout do tmavě červena. Vůně není výrazná a chuť je mírná až slabě nakyslá.",
+      "sporePrint": "Olivový až olivově hnědý. Výtrusy jsou vřetenovité až protáhle oválné, hladké, v KOH zlatavé a mimořádně velké, asi 18–33 × 7,5–12 µm, největší ze všech severoamerických hřibovitých hub.",
+      "habitat": "Ektomykorhizní s borovicemi: v Severní Americe s různými dvoujehličnatými i pětijehličnatými borovicemi, v Evropě s borovicí lesní (Pinus sylvestris), borovicí klečí (Pinus mugo) a borovicí černou (Pinus nigra). Roste jednotlivě, roztroušeně nebo ve skupinách, někdy ve velkých kruzích, na suchých, živinami chudých písčitých půdách v borech, na borovicemi zarostlých přímořských dunách a vřesovištích a příležitostně i na vytěžených rašeliništích. Plodnice tvoří od léta do podzimu, hlavně od července do října, v Evropě převážně od srpna do října.",
+      "uses": "Jedlý. Má mírně nakyslou chuť a v pobaltských zemích a v Polsku, kde se stal běžným, se sbírá. Dává se přednost mladým plodnicím, tuhé a vláknité třeně starších je lépe odstranit a jíst jej je třeba jen důkladně tepelně upravený. Používá se také k barvení houbami a podle mořidla dává žluté, hnědooranžové, tmavě oranžové, zelenohnědé nebo zelenožluté barvy.",
+      "confusion": "Aureoboletus russellii má chlupatý, rozedraně síťkovaný třeň, roste častěji pod listnatými stromy a má zcela odlišné výtrusy. Imleria badia má kratší, hladký třeň bez hrubých rýh a jeho póry po stisknutí modrají. Druhy rodu Leccinum mají podobně dlouhé třeně, ty jsou však místo rýh pokryty tmavými šupinkami a jejich póry jsou bělavé až šedé. Xerocomus subtomentosus je menší, s kratším třeněm bez hluboké síťky a s velkými hranatými póry.",
+      "notes": "V Evropě jde o zavlečený druh: poprvé byl potvrzen v letech 2007–2009 na Kuršské kose v Litvě, kde jej místní houbaři znali už zhruba od roku 1980; možná se sem dostal se severoamerickými sazenicemi borovic vysazovaných ke zpevnění přímořských dun. Od té doby se rychle rozšířil kolem Baltského moře do Lotyšska, Estonska, Polska, Německa, Dánska, Švédska, Norska a Finska a v poslední době také do Nizozemska, Běloruska, na Ukrajinu, do Ruska, Česka a na Slovensko. V Estonsku se jeho areál může rozšířit až asi o 100 km za rok. Považuje se za potenciálně invazní druh a na jediné lokalitě v Polsku se v roce 2016 objevilo asi 4 500 plodnic.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.denik.cz/cesko/cesko-rostou-nove-houby-hrib/",
+        "https://living.iprima.cz/americky-hrib-se-siri-evropou-objevi-se-i-u-nas-a-vytlaci-domaci-houby-483275",
+        "https://medium.seznam.cz/clanek/lukas-fogl-kdo-je-ten-cizinec-s-dlouhyma-nohama-320607"
+      ],
+      "label": "hřib štíhlotřenný"
+    },
+    "da": {
+      "description": "En højstammet rørhat fra sandede fyrreskove med rødbrun hat med fremstående rand, gule til olivenfarvede porer, en meget lang, dybt riflet til groft netmønstret stok med hvidt mycelium ved basis og kød, der ikke blåner. Den er hjemmehørende i det østlige Nordamerika og Mexico og har siden begyndelsen af 2000'erne spredt sig rundt om Østersøen i Europa.",
+      "cap": "4–14 cm bred, undertiden op til 20 cm; først halvkugleformet, siden hvælvet til bredt hvælvet og kun sjældent helt flad. Overfladen er tør og som ung fint fløjlsagtig, lidt klæbrig i fugtigt vejr og med alderen ofte fint opsprækkende. Den er kanelbrun til rødbrun, mørkt rødbrun eller purpurbrun, som ung undertiden med grå eller olivenfarvet tone. Hathuden rager ud over rørene som en steril, 1–3 mm bred rand. Ammoniak farver hatoverfladen sort og kaliumhydroxid (KOH) mahognibrun.",
+      "hymenium": "Rørene er 1–2,5 cm lange og nedtrykte omkring stokken; porerne er runde, omkring 0,5–2 mm vide, først bleg- til klargule, siden olivengule og til sidst snavset olivenbrune. De blåner ikke ved tryk, eller kun sjældent og svagt. Basidierne er for det meste firesporede, sjældnere tosporede, og cystiderne er cylindriske til spoleformede, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm lang, undertiden op til 24 cm, og 1–3 cm tyk, af og til op til 5 cm; meget lang i forhold til hatten, massiv, jævntyk eller let fortykket mod basis. Unge stokke er lavt længderiflede; med alderen bliver riflerne dybe og grove og danner et tydeligt net, især på de øverste to tredjedele. Den er gullig til rosabrun eller rødbrun, som regel lysere end hatten, lidt klæbrig når den er frisk eller våd, og basis er omgivet af rigeligt hvidt mycelium.",
+      "flesh": "Hvidligt til blegt gulligt, undertiden med rosa tone, fast. Det blåner ikke ved snit, men kan langsomt blive gulbrunt, og et tyndt lag lige over rørene kan mørkne til mørkerødt. Lugten er ubetydelig og smagen mild til svagt syrlig.",
+      "sporePrint": "Oliven til olivenbrunt. Sporerne er spoleformede til aflangt ovale, glatte, gyldne i KOH og usædvanligt store, omkring 18–33 × 7,5–12 µm, de største blandt alle nordamerikanske rørhatte.",
+      "habitat": "Danner ektomykorrhiza med fyr: i Nordamerika med forskellige to- og femnålede fyrrearter, i Europa med skovfyr (Pinus sylvestris), bjergfyr (Pinus mugo) og østrigsk fyr (Pinus nigra). Den vokser enkeltvis, spredt eller i grupper, undertiden i store ringe, på tør, næringsfattig sandbund i fyrreskov, på fyrrebevoksede kystklitter og heder og undertiden på afgravede tørvemoser. Frugtlegemerne dannes fra sommer til efterår, især fra juli til oktober, i Europa mest fra august til oktober.",
+      "uses": "Spiselig. Den har en svagt syrlig smag og samles i de baltiske lande og i Polen, hvor den er blevet almindelig. Unge frugtlegemer foretrækkes, de seje, trævlede stokke på ældre eksemplarer bør fjernes, og den må kun spises godt tilberedt. Den bruges også til svampefarvning og giver, afhængigt af bejdsemidlet, gule, brunorange, mørkorange, grønbrune eller grønliggule farver.",
+      "confusion": "Aureoboletus russellii har en laset, opflosset netmønstret stok, vokser oftere under løvtræer og har helt andre sporer. Imleria badia har en kortere, glat stok uden grove rifler, og dens porer blåner ved tryk. Leccinum-arter har lige så lange stokke, men de er dækket af mørke skæl i stedet for rifler, og deres porer er hvidlige til grå. Xerocomus subtomentosus er mindre, med kortere stok uden dybt net og med store, kantede porer.",
+      "notes": "En indført art i Europa: den blev første gang bekræftet i 2007–2009 på Den Kuriske Landtange i Litauen, hvor lokale svampesamlere havde kendt den siden 1980'erne, og kom muligvis dertil med nordamerikanske fyrreplanter, der blev plantet for at binde kystklitter. Siden har den hurtigt spredt sig rundt om Østersøen til Letland, Estland, Polen, Tyskland, Danmark, Sverige, Norge og Finland og på det seneste også til Nederlandene, Belarus, Ukraine, Rusland, Tjekkiet og Slovakiet. I Estland kan udbredelsesområdet vokse med op til omkring 100 km om året. Den betragtes som potentielt invasiv, og på en enkelt lokalitet i Polen dannedes omkring 4500 frugtlegemer i 2016.",
+      "names": [
+        "ribbestokket rørhat"
+      ],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxon/67753",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames",
+        "https://species.wikimedia.org/wiki/Aureoboletus_projectellus"
+      ],
+      "label": "ribbestokket guldrørhat"
+    },
+    "de": {
+      "description": "Ein hochwüchsiger Röhrling sandiger Kiefernwälder mit rotbraunem Hut mit überstehendem Rand, gelben bis olivfarbenen Poren, einem sehr langen, tief gerieften bis grob genetzten Stiel mit weißem Myzel an der Basis und nicht blauendem Fleisch. Er stammt aus dem Osten Nordamerikas und aus Mexiko und breitet sich in Europa seit Anfang der 2000er-Jahre rund um die Ostsee aus.",
+      "cap": "4–14 cm breit, gelegentlich bis 20 cm; zuerst halbkugelig, dann gewölbt bis breit gewölbt und nur selten ganz flach. Die Oberfläche ist trocken und jung fein samtig, bei Nässe etwas klebrig und im Alter oft fein rissig. Sie ist zimtbraun bis rotbraun, dunkel rotbraun oder purpurbraun, jung mitunter grau oder oliv getönt. Die Huthaut überragt die Röhren als steriler, 1–3 mm breiter Saum. Ammoniak färbt die Hutoberfläche schwarz, Kalilauge (KOH) mahagonibraun.",
+      "hymenium": "Röhren 1–2,5 cm lang und am Stiel ausgebuchtet; die Poren sind rund, etwa 0,5–2 mm weit, zuerst blass- bis leuchtend gelb, dann olivgelb und schließlich schmutzig olivbraun. Auf Druck blauen sie nicht oder nur selten und schwach. Die Basidien sind meist viersporig, seltener zweisporig, die Zystiden zylindrisch bis spindelig, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm lang, mitunter bis 24 cm, und 1–3 cm dick, gelegentlich bis 5 cm; im Verhältnis zum Hut sehr lang, voll, gleich dick oder zur Basis leicht verdickt. Junge Stiele sind seicht längsgerieft; im Alter werden die Rippen tief und grob und bilden ein auffälliges Netz, vor allem im oberen Zweidrittel. Er ist gelblich bis rosabraun oder rotbraun, meist heller als der Hut, frisch oder bei Nässe etwas klebrig, und die Basis ist von reichlichem weißem Myzel umhüllt.",
+      "flesh": "Weißlich bis blass gelblich, mitunter rosa getönt, fest. Im Schnitt blaut es nicht, kann aber langsam gelbbraun werden, und eine dünne Zone direkt über den Röhren kann sich dunkelrot färben. Der Geruch ist unauffällig, der Geschmack mild bis leicht säuerlich.",
+      "sporePrint": "Oliv bis olivbraun. Die Sporen sind spindelig bis langoval, glatt, in KOH goldgelb und außergewöhnlich groß, etwa 18–33 × 7,5–12 µm, die größten aller nordamerikanischen Röhrlinge.",
+      "habitat": "Ektomykorrhizapilz von Kiefern: in Nordamerika mit verschiedenen zwei- und fünfnadeligen Kiefern, in Europa mit Wald-Kiefer (Pinus sylvestris), Berg-Kiefer (Pinus mugo) und Schwarz-Kiefer (Pinus nigra). Er wächst einzeln, zerstreut oder in Gruppen, mitunter in großen Ringen, auf trockenen, nährstoffarmen Sandböden in Kiefernwäldern, auf kiefernbewachsenen Küstendünen und Heiden und gelegentlich auf abgetorften Mooren. Er fruktifiziert vom Sommer bis in den Herbst, vor allem von Juli bis Oktober, in Europa meist von August bis Oktober.",
+      "uses": "Essbar. Er schmeckt leicht säuerlich und wird in den baltischen Ländern und in Polen, wo er häufig geworden ist, gesammelt. Junge Fruchtkörper werden bevorzugt, die zähen, faserigen Stiele älterer Exemplare entfernt man besser, und er sollte nur gut durchgegart gegessen werden. Außerdem wird er zum Färben mit Pilzen verwendet und ergibt je nach Beize gelbe, bräunlich orange, dunkelorange, grünlich braune oder grünlich gelbe Farben.",
+      "confusion": "Aureoboletus russellii hat einen zottigen, zerrissen genetzten Stiel, wächst häufiger unter Laubbäumen und hat ganz andere Sporen. Imleria badia hat einen kürzeren, glatten Stiel ohne grobe Rippen, und ihre Poren blauen auf Druck. Leccinum-Arten haben ähnlich lange Stiele, die jedoch statt Rippen dunkle Schüppchen tragen, und ihre Poren sind weißlich bis grau. Xerocomus subtomentosus ist kleiner, mit kürzerem Stiel ohne tiefes Netz und mit großen, eckigen Poren.",
+      "notes": "In Europa eine eingeschleppte Art: Sie wurde 2007–2009 erstmals auf der Kurischen Nehrung in Litauen bestätigt, wo einheimische Sammler sie schon seit den 1980er-Jahren kannten, möglicherweise eingeschleppt mit nordamerikanischen Kiefernsetzlingen zur Befestigung von Küstendünen. Seitdem hat sie sich rasch rund um die Ostsee nach Lettland, Estland, Polen, Deutschland, Dänemark, Schweden, Norwegen und Finnland ausgebreitet, in jüngerer Zeit auch in die Niederlande, nach Belarus, in die Ukraine, nach Russland, Tschechien und in die Slowakei. In Estland kann sich ihr Areal um bis zu etwa 100 km pro Jahr vergrößern. Sie gilt als potenziell invasiv, und an einem einzigen Fundort in Polen erschienen 2016 etwa 4500 Fruchtkörper.",
+      "names": [
+        "Großsporiger Kiefernröhrling"
+      ],
+      "sourceUrls": [
+        "https://www.pilze-deutschland.de/organismen/aureoboletus-projectellus-murrill-halling-2015-1",
+        "https://123pilzsuche.de/daten/details/Pinienroehrling.htm",
+        "https://www.wikidata.org/wiki/Q41710336",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "Falsche Rotkappe"
+    },
+    "en": {
+      "description": "A tall bolete of sandy pine woods with a reddish-brown cap that has a projecting rim, yellow to olive pores, a very long, deeply ridged to coarsely netted stem with white mycelium at the base, and flesh that does not turn blue. Native to eastern North America and Mexico, it has spread around the Baltic Sea in Europe since the early 2000s.",
+      "cap": "4–14 cm across, occasionally up to 20 cm; hemispherical at first, then convex to broadly convex and rarely quite flat. The surface is dry and finely velvety when young, becoming slightly tacky in wet weather and often finely cracked with age. It is cinnamon brown to reddish brown, dark reddish brown or purplish brown, sometimes tinged grey or olive when young. The cap skin projects beyond the tubes as a sterile rim 1–3 mm wide. Ammonia turns the cap surface black and potassium hydroxide (KOH) mahogany.",
+      "hymenium": "Tubes 1–2.5 cm deep and depressed around the stem; the pores are round, about 0.5–2 mm wide, pale to bright yellow at first, then olive yellow and finally dirty olive brown. They do not turn blue when pressed, or only rarely and faintly. The basidia are mostly four-spored, less often two-spored, and the cystidia are cylindrical to spindle-shaped, 35–70 × 7.5–10 µm.",
+      "stipe": "6–17 cm long, sometimes up to 24 cm, and 1–3 cm thick, occasionally up to 5 cm; very long in proportion to the cap, solid, equal or slightly swollen towards the base. Young stems are shallowly ridged lengthwise; with maturity the ridges become deep and coarse and form a prominent net, especially over the upper two-thirds. It is yellowish to pinkish brown or reddish brown, usually paler than the cap, slightly sticky when fresh or wet, and the base is wrapped in copious white mycelium.",
+      "flesh": "Whitish to pale yellowish, sometimes with pinkish tints, firm. It does not turn blue when cut but may slowly become yellowish brown, and a thin zone just above the tubes can turn dark red. The smell is not distinctive and the taste is mild to slightly sour.",
+      "sporePrint": "Olive to olive brown. The spores are spindle-shaped to elongated oval, smooth, golden in KOH and exceptionally large, about 18–33 × 7.5–12 µm, the largest of any North American bolete.",
+      "habitat": "Ectomycorrhizal with pines: in North America with various two- and five-needled pines, in Europe with Scots pine (Pinus sylvestris), mountain pine (Pinus mugo) and black pine (Pinus nigra). It grows singly, scattered or in groups, sometimes in large rings, on dry, nutrient-poor sandy soils in pine woods, on pine-covered coastal dunes and heaths, and occasionally on cut-over peat bogs. It fruits from summer to autumn, mainly from July to October, and in Europe mostly from August to October.",
+      "uses": "Edible. It has a slightly sour taste and is collected in the Baltic countries and Poland, where it has become common. Young fruit bodies are preferred, the tough, fibrous stems of older ones are best discarded, and it should be eaten only well cooked. It is also used for mushroom dyeing, giving yellow, brownish orange, dark orange, greenish brown or greenish yellow colours depending on the mordant.",
+      "confusion": "Aureoboletus russellii has a shaggy, lacerated-reticulate stem, grows more often under broadleaved trees and has very different spores. Imleria badia has a shorter, smooth stem without coarse ridges, and its pores bruise blue. Leccinum species have similarly long stems, but these are covered in dark scales instead of ridges, and their pores are whitish to grey. Xerocomus subtomentosus is smaller, with a shorter stem without a deep net and large, angular pores.",
+      "notes": "An introduced species in Europe: it was first confirmed in 2007–2009 on the Curonian Spit in Lithuania, where local collectors had known it since the 1980s, possibly brought with North American pine seedlings planted to stabilise coastal dunes. It has since spread rapidly around the Baltic Sea to Latvia, Estonia, Poland, Germany, Denmark, Sweden, Norway and Finland, and more recently to the Netherlands, Belarus, Ukraine, Russia, the Czech Republic and Slovakia. In Estonia its range can grow by up to about 100 km a year. It is regarded as potentially invasive, and a single site in Poland produced about 4,500 fruit bodies in 2016.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=811405",
+        "https://www.gbif.org/species/8339825",
+        "https://www.catalogueoflife.org/data/taxon/JTGN",
+        "https://doi.org/10.1071/SB14049",
+        "https://www.mushroomexpert.com/aureoboletus_projectellus.html",
+        "https://en.wikipedia.org/wiki/Aureoboletus_projectellus",
+        "https://123pilzsuche.de/daten/details/Pinienroehrling.htm",
+        "https://www.pilze-deutschland.de/organismen/aureoboletus-projectellus-murrill-halling-2015-1",
+        "https://paddenstoelenonderzoek.nl/kijk-op-exoten-nummer-54/",
+        "https://www.sydowia.at/syd63-2/T6-Motie.htm",
+        "https://lister.artsdatabanken.no/fremmedartslista/2023/2711",
+        "https://www.inaturalist.org/taxa/831551-Aureoboletus-projectellus"
+      ]
+    },
+    "es": {
+      "description": "Un boleto alto de pinares arenosos, con sombrero pardo rojizo de margen sobresaliente, poros amarillos a oliváceos, un pie muy largo, profundamente acanalado a toscamente reticulado, con micelio blanco en la base, y carne que no azulea. Es nativo del este de Norteamérica y de México y desde principios de la década de 2000 se ha extendido por Europa alrededor del mar Báltico.",
+      "cap": "4–14 cm de diámetro, ocasionalmente hasta 20 cm; al principio hemisférico, después convexo a ampliamente convexo y solo rara vez del todo plano. La superficie es seca y finamente aterciopelada de joven, algo pegajosa con tiempo húmedo y a menudo finamente agrietada con la edad. Es pardo canela a pardo rojizo, pardo rojizo oscuro o pardo purpúreo, a veces con tonos grises u oliváceos de joven. La cutícula sobresale de los tubos formando un margen estéril de 1–3 mm de ancho. El amoníaco tiñe de negro la superficie del sombrero y el hidróxido de potasio (KOH) de color caoba.",
+      "hymenium": "Tubos de 1–2,5 cm de largo, deprimidos alrededor del pie; poros redondos, de unos 0,5–2 mm, primero amarillo pálido a amarillo vivo, luego amarillo oliváceo y finalmente pardo oliva sucio. No azulean al presionarlos, o solo rara vez y débilmente. Los basidios son en su mayoría tetraspóricos, con menos frecuencia bispóricos, y los cistidios son cilíndricos a fusiformes, de 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm de largo, a veces hasta 24 cm, y 1–3 cm de grosor, ocasionalmente hasta 5 cm; muy largo en proporción al sombrero, macizo, cilíndrico o algo engrosado hacia la base. Los pies jóvenes tienen surcos longitudinales poco profundos; con la madurez los surcos se vuelven profundos y toscos y forman un retículo marcado, sobre todo en los dos tercios superiores. Es amarillento a pardo rosado o pardo rojizo, generalmente más claro que el sombrero, algo viscoso en fresco o con humedad, y la base está envuelta en abundante micelio blanco.",
+      "flesh": "Blanquecina a amarillenta pálida, a veces con tonos rosados, firme. No azulea al corte, pero puede volverse lentamente pardo amarillenta, y una fina zona justo encima de los tubos puede oscurecerse a rojo oscuro. El olor no es distintivo y el sabor es suave a ligeramente ácido.",
+      "sporePrint": "Oliva a pardo oliva. Las esporas son fusiformes a ovales alargadas, lisas, doradas en KOH y excepcionalmente grandes, de unos 18–33 × 7,5–12 µm, las mayores de todos los boletos de Norteamérica.",
+      "habitat": "Ectomicorrícico con pinos: en Norteamérica con diversos pinos de dos y de cinco acículas, en Europa con pino silvestre (Pinus sylvestris), pino negro de montaña (Pinus mugo) y pino laricio (Pinus nigra). Crece solitario, disperso o en grupos, a veces en grandes corros, en suelos arenosos secos y pobres de pinares, en dunas costeras y brezales con pinos y a veces en turberas explotadas. Fructifica de verano a otoño, sobre todo de julio a octubre, y en Europa principalmente de agosto a octubre.",
+      "uses": "Comestible. Tiene un sabor ligeramente ácido y se recolecta en los países bálticos y en Polonia, donde se ha vuelto común. Se prefieren los ejemplares jóvenes, es mejor desechar los pies duros y fibrosos de los más viejos, y solo debe consumirse bien cocinado. También se usa para teñir con hongos y, según el mordiente, da colores amarillos, naranja parduzco, naranja oscuro, pardo verdoso o amarillo verdoso.",
+      "confusion": "Aureoboletus russellii tiene un pie hirsuto, lacerado-reticulado, crece con más frecuencia bajo árboles de hoja ancha y tiene esporas muy distintas. Imleria badia tiene un pie más corto y liso, sin surcos toscos, y sus poros azulean al presionarlos. Los Leccinum tienen pies igual de largos, pero cubiertos de escamas oscuras en lugar de surcos, y sus poros son blanquecinos a grises. Xerocomus subtomentosus es más pequeño, con un pie más corto sin retículo profundo y poros grandes y angulosos.",
+      "notes": "Especie introducida en Europa: se confirmó por primera vez en 2007–2009 en el istmo de Curlandia, en Lituania, donde los recolectores locales la conocían desde la década de 1980, y quizá llegó con plantones de pino norteamericanos plantados para fijar las dunas costeras. Desde entonces se ha extendido rápidamente alrededor del Báltico hacia Letonia, Estonia, Polonia, Alemania, Dinamarca, Suecia, Noruega y Finlandia y, más recientemente, también hacia los Países Bajos, Bielorrusia, Ucrania, Rusia, Chequia y Eslovaquia. En Estonia su área de distribución puede ampliarse hasta unos 100 km al año. Se considera potencialmente invasora, y en una sola localidad de Polonia aparecieron unos 4500 carpóforos en 2016.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Liivaste männikute kõrge puravik punakaspruuni, üleulatuva servaga kübara, kollaste kuni oliivikate pooride, väga pika, sügavalt vaolise kuni jämedalt võrkja jala, jalaaluse valge seeneniidistiku ning sinetamatu viljalihaga. Looduslikult levinud Põhja-Ameerika idaosas ja Mehhikos, Euroopas levib 2000. aastate algusest Läänemere ümbruses.",
+      "cap": "Läbimõõt 4–14 cm, vahel kuni 20 cm; algul poolkerajas, hiljem kumer kuni laialt kumer ja vaid harva päris lame. Pind on kuiv, noorena peenelt sametjas, niiske ilmaga veidi kleepjas ja vanemana sageli peenelt lõhenenud. See on kaneelpruun kuni punakaspruun, tumepunakaspruun või purpurpruun, noorena mõnikord hallika või oliivika varjundiga. Kübaranahk ulatub torukeste servast üle 1–3 mm laiuse steriilse äärisena. Ammoniaak värvib kübara pinna mustaks ja kaaliumhüdroksiid (KOH) mahagonpruuniks.",
+      "hymenium": "Torukesed 1–2,5 cm pikad, jala juures sisselõikega; poorid ümarad, umbes 0,5–2 mm laiad, algul kahvatu- kuni erekollased, hiljem oliivkollased ja lõpuks määrdunud oliivpruunid. Vajutamisel need ei sineta või sinetavad vaid harva ja nõrgalt. Kandurid on enamasti neljaeosed, harvem kaheeosed, tsüstiidid silindrilised kuni spindlikujulised, 35–70 × 7,5–10 µm.",
+      "stipe": "Pikkus 6–17 cm, mõnikord kuni 24 cm, jämedus 1–3 cm, vahel kuni 5 cm; kübaraga võrreldes väga pikk, täidisega, ühtlaselt jäme või aluse poole veidi jämenev. Noored jalad on madalalt pikivaolised; vananedes muutuvad vaod sügavaks ja jämedaks ning moodustavad silmatorkava võrgustiku, eriti ülemises kahes kolmandikus. See on kollakas kuni roosakaspruun või punakaspruun, tavaliselt kübarast heledam, värskena või niiskena veidi kleepjas ning alus on mähitud rohkesse valgesse seeneniidistikku.",
+      "flesh": "Valkjas kuni kahvatukollakas, mõnikord roosaka varjundiga, tihke. Lõikamisel ei sineta, kuid võib aeglaselt muutuda kollakaspruuniks ning õhuke kiht vahetult torukeste kohal võib tumeneda tumepunaseks. Lõhn on iseloomutu ja maitse mahe kuni kergelt hapukas.",
+      "sporePrint": "Oliivikas kuni oliivpruun. Eosed on spindlikujulised kuni piklikovaalsed, siledad, KOH-s kuldsed ja erakordselt suured, umbes 18–33 × 7,5–12 µm, suurimad kõigist Põhja-Ameerika puravikest.",
+      "habitat": "Moodustab ektomükoriisat männiga: Põhja-Ameerikas mitmesuguste kahe- ja viieokkaliste mändidega, Euroopas harilikku männi (Pinus sylvestris), mägimänni (Pinus mugo) ja mustmänniga (Pinus nigra). Kasvab üksikult, hajusalt või rühmiti, mõnikord suurte ringidena, kuivadel toitainevaestel liivmuldadel männikutes, männiga kaetud rannaluidetel ja nõmmedel ning vahel ka ammendatud turbaraba aladel. Viljakehi moodustab suvest sügiseni, peamiselt juulist oktoobrini, Euroopas enamasti augustist oktoobrini.",
+      "uses": "Söödav. Maitse on kergelt hapukas; seda korjatakse Balti riikides ja Poolas, kus see on muutunud sagedaseks. Eelistatakse noori viljakehi, vanemate sitked ja kiulised jalad on parem ära visata ning süüa tohib seda ainult hästi kuumtöödelduna. Seda kasutatakse ka seentega värvimiseks: olenevalt peitsist annab see kollaseid, pruunikasoranže, tumeoranže, rohekaspruune või roheka-kollaseid toone.",
+      "confusion": "Aureoboletus russellii jalg on narmaline ja rebenenult võrkjas, see kasvab sagedamini lehtpuude all ja selle eosed on hoopis teistsugused. Liigil Imleria badia on lühem, sile jalg ilma jämedate vagudeta ja selle poorid vajutamisel sinetavad. Leccinum’i liikidel on samuti pikk jalg, kuid see on vagude asemel kaetud tumedate soomustega ja nende poorid on valkjad kuni hallid. Xerocomus subtomentosus on väiksem, lühema sügava võrgustikuta jala ja suurte nurgeliste pooridega.",
+      "notes": "Euroopas sissetoodud liik: esmakordselt kinnitati see aastatel 2007–2009 Kura säärel Leedus, kus kohalikud seenelised tundsid seda juba 1980. aastatest; võimalik, et see jõudis sinna koos Põhja-Ameerika männiistikutega, mida istutati rannaluidete kinnistamiseks. Sellest ajast on see kiiresti levinud ümber Läänemere Lätti, Eestisse, Poola, Saksamaale, Taani, Rootsi, Norrasse ja Soome ning viimasel ajal ka Hollandisse, Valgevenesse, Ukrainasse, Venemaale, Tšehhi ja Slovakkiasse. Eestis võib selle levila laieneda kuni umbes 100 km aastas. Seda peetakse potentsiaalselt invasiivseks liigiks ning ühes leiukohas Poolas kasvas 2016. aastal umbes 4500 viljakeha.",
+      "names": [],
+      "sourceUrls": [
+        "https://elurikkus.ee/app/taxonomy/taxon/243327",
+        "https://et.wikipedia.org/wiki/M%C3%A4nni-kuldpoorik"
+      ],
+      "label": "männi-kuldpoorik"
+    },
+    "fa": {
+      "description": "قارچی بولتی و بلندقامت از جنگل‌های کاج شنی که با کلاهک قهوه‌ای مایل به قرمز با لبهٔ بیرون‌زده، منافذ زرد تا زیتونی، پایهٔ بسیار بلند با شیارهای عمیق تا شبکهٔ درشت و ریسه‌های سفید در قاعده، و گوشتی که آبی نمی‌شود شناخته می‌شود. بومی شرق آمریکای شمالی و مکزیک است و از اوایل دههٔ ۲۰۰۰ در اروپا پیرامون دریای بالتیک گسترش یافته است.",
+      "cap": "قطر ۴–۱۴ cm، گاهی تا ۲۰ cm؛ ابتدا نیم‌کروی، سپس محدب تا محدب پهن و تنها به‌ندرت کاملاً تخت. سطح آن خشک و در جوانی به‌نرمی مخملی است، در هوای مرطوب کمی چسبنده می‌شود و با افزایش سن اغلب ریز ترک می‌خورد. رنگ آن قهوه‌ای دارچینی تا قهوه‌ای مایل به قرمز، قهوه‌ای قرمز تیره یا قهوه‌ای ارغوانی است و در جوانی گاهی ته‌رنگ خاکستری یا زیتونی دارد. پوست کلاهک به‌صورت حاشیه‌ای سترون به پهنای ۱–۳ mm از لوله‌ها فراتر می‌رود. آمونیاک سطح کلاهک را سیاه و هیدروکسید پتاسیم (KOH) آن را به رنگ ماهون درمی‌آورد.",
+      "hymenium": "لوله‌ها به طول ۱–۲٫۵ cm و در اطراف پایه فرورفته‌اند؛ منافذ گرد، به پهنای حدود ۰٫۵–۲ mm، ابتدا زرد کم‌رنگ تا زرد روشن، سپس زرد زیتونی و سرانجام قهوه‌ای زیتونی کدر. با فشار آبی نمی‌شوند یا تنها به‌ندرت و ضعیف آبی می‌شوند. بازیدیوم‌ها بیشتر چهارهاگی و کمتر دوهاگی‌اند و سیستیدیوم‌ها استوانه‌ای تا دوکی، ۳۵–۷۰ × ۷٫۵–۱۰ µm.",
+      "stipe": "طول ۶–۱۷ cm، گاهی تا ۲۴ cm، و ضخامت ۱–۳ cm، گاه تا ۵ cm؛ نسبت به کلاهک بسیار بلند، توپر، یکنواخت یا به سوی قاعده اندکی ضخیم‌شده. پایه‌های جوان شیارهای طولی کم‌عمق دارند؛ با بلوغ، شیارها عمیق و درشت می‌شوند و شبکه‌ای برجسته می‌سازند، به‌ویژه در دوسوم بالایی. رنگ آن زردفام تا قهوه‌ای صورتی یا قهوه‌ای مایل به قرمز است، معمولاً روشن‌تر از کلاهک، در حالت تازه یا خیس کمی چسبنده، و قاعدهٔ آن در ریسه‌های سفید فراوان پیچیده است.",
+      "flesh": "سفیدفام تا زرد کم‌رنگ، گاهی با ته‌رنگ صورتی، سفت. در برش آبی نمی‌شود، ولی ممکن است به‌آرامی قهوه‌ای زردفام شود، و لایه‌ای نازک درست بالای لوله‌ها ممکن است تا قرمز تیره تیره شود. بوی آن متمایز نیست و مزه‌اش ملایم تا کمی ترش است.",
+      "sporePrint": "زیتونی تا قهوه‌ای زیتونی. هاگ‌ها دوکی تا بیضوی کشیده، صاف، در KOH طلایی و به‌طور استثنایی بزرگ‌اند، حدود ۱۸–۳۳ × ۷٫۵–۱۲ µm، و بزرگ‌ترین هاگ‌ها را در میان همهٔ قارچ‌های بولتی آمریکای شمالی دارند.",
+      "habitat": "با کاج‌ها اکتومیکوریز می‌سازد: در آمریکای شمالی با کاج‌های گوناگون دوسوزنی و پنج‌سوزنی، و در اروپا با کاج اسکاتلندی (Pinus sylvestris)، کاج کوهی (Pinus mugo) و کاج سیاه (Pinus nigra). به‌صورت تکی، پراکنده یا گروهی و گاهی در حلقه‌های بزرگ، بر خاک‌های شنی خشک و کم‌مایه در جنگل‌های کاج، بر تپه‌های ماسه‌ای ساحلی و خلنگ‌زارهای پوشیده از کاج، و گاه در تورب‌زارهای بهره‌برداری‌شده می‌روید. از تابستان تا پاییز، به‌ویژه از ژوئیه تا اکتبر، و در اروپا بیشتر از اوت تا اکتبر بار می‌دهد.",
+      "uses": "خوراکی. مزه‌ای کمی ترش دارد و در کشورهای بالتیک و لهستان، جایی که فراوان شده است، جمع‌آوری می‌شود. اندام‌های بارده جوان ترجیح داده می‌شوند، بهتر است پایه‌های سفت و رشته‌ای نمونه‌های پیرتر دور ریخته شوند، و تنها باید کاملاً پخته خورده شود. در رنگرزی با قارچ نیز به کار می‌رود و بسته به دندانه، رنگ‌های زرد، نارنجی مایل به قهوه‌ای، نارنجی تیره، قهوه‌ای مایل به سبز یا زرد مایل به سبز می‌دهد.",
+      "confusion": "Aureoboletus russellii پایه‌ای پشمالو و شبکه‌ای پاره‌پاره دارد، بیشتر زیر درختان پهن‌برگ می‌روید و هاگ‌هایش کاملاً متفاوت است. Imleria badia پایه‌ای کوتاه‌تر و صاف بدون شیارهای درشت دارد و منافذش با فشار آبی می‌شوند. گونه‌های Leccinum پایه‌هایی به همان اندازه بلند دارند، اما به‌جای شیار با فلس‌های تیره پوشیده شده‌اند و منافذشان سفیدفام تا خاکستری است. Xerocomus subtomentosus کوچک‌تر است، با پایهٔ کوتاه‌تر بدون شبکهٔ عمیق و منافذ بزرگ و زاویه‌دار.",
+      "notes": "گونه‌ای واردشده در اروپا: نخستین بار در ۲۰۰۷–۲۰۰۹ در دماغهٔ کورونی در لیتوانی تأیید شد، جایی که قارچ‌چینان محلی از دههٔ ۱۹۸۰ آن را می‌شناختند، و شاید همراه با نهال‌های کاج آمریکای شمالی که برای تثبیت تپه‌های ماسه‌ای ساحلی کاشته شده بودند به آنجا رسیده باشد. از آن پس به‌سرعت پیرامون بالتیک به لتونی، استونی، لهستان، آلمان، دانمارک، سوئد، نروژ و فنلاند، و اخیراً به هلند، بلاروس، اوکراین، روسیه، چک و اسلواکی گسترش یافته است. در استونی گسترهٔ پراکنش آن ممکن است سالانه تا حدود ۱۰۰ km افزایش یابد. گونه‌ای بالقوه مهاجم به شمار می‌رود و در یک رویشگاه در لهستان در سال ۲۰۱۶ حدود ۴۵۰۰ اندام بارده پدیدار شد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Kookas hiekkaisten mäntymetsien tatti, jolla on punaruskea, reunastaan ulkoneva lakki, keltaiset tai oliivinväriset pillit, hyvin pitkä, syvään uurteinen tai karkeasti verkkokuvioinen jalka, jonka tyvellä on valkoista rihmastoa, sekä malto, joka ei sinerry. Se on kotoperäinen Pohjois-Amerikan itäosissa ja Meksikossa, ja Euroopassa se on 2000-luvun alusta levinnyt Itämeren ympäristöön.",
+      "cap": "Leveys 4–14 cm, joskus jopa 20 cm; aluksi puolipallomainen, sitten kupera tai leveän kupera ja vain harvoin aivan tasainen. Pinta on kuiva ja nuorena hienosti samettinen, kostealla säällä hieman tahmea ja vanhana usein hienosti rakoileva. Väriltään se on kanelinruskea tai punaruskea, tummanpunaruskea tai purppuranruskea, nuorena joskus harmaan- tai oliivinsävyinen. Lakin pintakelmu ulottuu pillien yli 1–3 mm leveänä steriilinä reunuksena. Ammoniakki värjää lakin pinnan mustaksi ja kaliumhydroksidi (KOH) mahonginruskeaksi.",
+      "hymenium": "Pillistö 1–2,5 cm paksu ja jalan ympäriltä painunut; pillien suut ovat pyöreitä, noin 0,5–2 mm leveitä, aluksi vaalean- tai kirkkaankeltaisia, sitten oliivinkeltaisia ja lopulta likaisen oliivinruskeita. Painettaessa ne eivät sinerry tai sinertyvät vain harvoin ja heikosti. Kantasolut ovat useimmiten nelisporisia, harvemmin kaksisporisia, ja kystidit ovat lieriömäisiä tai sukkulamaisia, 35–70 × 7,5–10 µm.",
+      "stipe": "Pituus 6–17 cm, joskus jopa 24 cm, ja paksuus 1–3 cm, joskus jopa 5 cm; lakkiin nähden hyvin pitkä, täyteinen, tasapaksu tai tyveä kohti hieman paksuneva. Nuori jalka on matalasti pitkittäin uurteinen; vanhemmiten uurteet muuttuvat syviksi ja karkeiksi ja muodostavat selvän verkon, etenkin ylimmässä kahdessa kolmanneksessa. Se on kellertävä tai vaaleanpunaisenruskea tai punaruskea, yleensä lakkia vaaleampi, tuoreena tai kosteana hieman tahmea, ja tyveä peittää runsas valkoinen rihmasto.",
+      "flesh": "Valkoinen tai vaalean kellertävä, joskus vaaleanpunasävyinen, kiinteä. Leikattaessa se ei sinerry, mutta voi hitaasti muuttua kellanruskeaksi, ja ohut kerros aivan pillistön yläpuolella voi tummua tummanpunaiseksi. Haju on mieto ja maku mieto tai hieman hapahko.",
+      "sporePrint": "Oliivinvärinen tai oliivinruskea. Itiöt ovat sukkulamaisia tai pitkänsoikeita, sileitä, KOH:ssa kullankeltaisia ja poikkeuksellisen suuria, noin 18–33 × 7,5–12 µm, suurimmat kaikista Pohjois-Amerikan tateista.",
+      "habitat": "Muodostaa ektomykorritsan mäntyjen kanssa: Pohjois-Amerikassa erilaisten kaksi- ja viisineulaisten mäntyjen, Euroopassa metsämännyn (Pinus sylvestris), vuorimännyn (Pinus mugo) ja euroopanmustamännyn (Pinus nigra) kanssa. Kasvaa yksittäin, hajallaan tai ryhminä, joskus suurina noidankehinä, kuivilla, karuilla hiekkamailla mäntymetsissä, männyn peittämillä rannikon dyyneillä ja kanervanummilla sekä toisinaan turvetuotannosta poistetuilla soilla. Itiöemiä muodostuu kesästä syksyyn, pääasiassa heinäkuusta lokakuuhun, Euroopassa enimmäkseen elokuusta lokakuuhun.",
+      "uses": "Syötävä. Maku on hieman hapahko, ja sitä kerätään Baltian maissa ja Puolassa, joissa siitä on tullut yleinen. Nuoria itiöemiä suositaan, vanhempien sitkeät ja kuituiset jalat on parasta poistaa, ja sen saa syödä vain hyvin kypsennettynä. Sitä käytetään myös sienivärjäykseen, ja puretteesta riippuen se antaa keltaisia, ruskehtavan oransseja, tummanoransseja, vihertävänruskeita tai vihertävänkeltaisia sävyjä.",
+      "confusion": "Aureoboletus russellii -lajilla on takkuinen, repaleisesti verkkokuvioinen jalka, se kasvaa useammin lehtipuiden alla ja sen itiöt ovat aivan erilaiset. Imleria badia -lajilla on lyhyempi, sileä jalka ilman karkeita uurteita, ja sen pillit sinertyvät painettaessa. Leccinum-suvun lajeilla on yhtä pitkä jalka, mutta siinä on uurteiden sijaan tummia suomuja, ja niiden pillit ovat valkoisia tai harmaita. Xerocomus subtomentosus on pienempi, ja sillä on lyhyempi jalka ilman syvää verkkoa ja suuret, kulmikkaat pillien suut.",
+      "notes": "Euroopassa vieraslaji: se varmistettiin ensimmäisen kerran vuosina 2007–2009 Kuurinkynnäällä Liettuassa, missä paikalliset sienestäjät olivat tunteneet sen jo 1980-luvulta lähtien; se saattoi kulkeutua sinne pohjoisamerikkalaisten männyntaimien mukana, joita istutettiin rannikon dyynien sitomiseksi. Sittemmin se on levinnyt nopeasti Itämeren ympäri Latviaan, Viroon, Puolaan, Saksaan, Tanskaan, Ruotsiin, Norjaan ja Suomeen sekä viime aikoina myös Alankomaihin, Valko-Venäjälle, Ukrainaan, Venäjälle, Tšekkiin ja Slovakiaan. Virossa sen levinneisyysalue voi laajentua jopa noin 100 km vuodessa. Sitä pidetään mahdollisesti haitallisena vieraslajina, ja yhdellä kasvupaikalla Puolassa kasvoi vuonna 2016 noin 4 500 itiöemää.",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.71687",
+        "https://fi.wikipedia.org/wiki/Vaskitatti"
+      ],
+      "label": "vaskitatti"
+    },
+    "fr": {
+      "description": "Un bolet élevé des pinèdes sableuses, au chapeau brun rougeâtre à marge débordante, aux pores jaunes à olivâtres, au pied très long, profondément sillonné à grossièrement réticulé, garni de mycélium blanc à la base, et à la chair qui ne bleuit pas. Originaire de l'est de l'Amérique du Nord et du Mexique, il s'étend en Europe autour de la mer Baltique depuis le début des années 2000.",
+      "cap": "4–14 cm de diamètre, parfois jusqu'à 20 cm ; d'abord hémisphérique, puis convexe à largement convexe et rarement tout à fait plan. La surface est sèche et finement veloutée dans la jeunesse, un peu collante par temps humide et souvent finement craquelée avec l'âge. Elle est brun cannelle à brun rougeâtre, brun rouge foncé ou brun pourpré, parfois teintée de gris ou d'olive chez les jeunes. La cuticule dépasse les tubes en une marge stérile de 1–3 mm de large. L'ammoniaque colore la surface du chapeau en noir et la potasse (KOH) en acajou.",
+      "hymenium": "Tubes de 1–2,5 cm de long, déprimés autour du pied ; pores ronds, d'environ 0,5–2 mm de large, d'abord jaune pâle à jaune vif, puis jaune olive et finalement brun olive sale. Ils ne bleuissent pas à la pression, ou seulement rarement et faiblement. Les basides sont surtout tétrasporiques, plus rarement bisporiques, et les cystides sont cylindriques à fusiformes, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm de long, parfois jusqu'à 24 cm, et 1–3 cm d'épaisseur, parfois jusqu'à 5 cm ; très long par rapport au chapeau, plein, égal ou légèrement épaissi vers la base. Les jeunes pieds sont faiblement sillonnés dans la longueur ; à maturité, les sillons deviennent profonds et grossiers et forment un réseau marqué, surtout sur les deux tiers supérieurs. Il est jaunâtre à brun rosé ou brun rougeâtre, généralement plus pâle que le chapeau, un peu visqueux à l'état frais ou humide, et la base est enveloppée d'un abondant mycélium blanc.",
+      "flesh": "Blanchâtre à jaunâtre pâle, parfois teintée de rose, ferme. Elle ne bleuit pas à la coupe mais peut lentement devenir brun jaunâtre, et une fine zone juste au-dessus des tubes peut virer au rouge foncé. L'odeur est banale et la saveur douce à légèrement acidulée.",
+      "sporePrint": "Olive à brun olive. Les spores sont fusiformes à ovales allongées, lisses, dorées dans la potasse (KOH) et exceptionnellement grandes, environ 18–33 × 7,5–12 µm, les plus grandes de tous les bolets d'Amérique du Nord.",
+      "habitat": "Ectomycorhizien des pins : en Amérique du Nord avec divers pins à deux et à cinq aiguilles, en Europe avec le pin sylvestre (Pinus sylvestris), le pin de montagne (Pinus mugo) et le pin noir (Pinus nigra). Il pousse isolément, de façon dispersée ou en groupes, parfois en grands cercles, sur des sols sableux secs et pauvres en pinède, sur des dunes côtières et des landes plantées de pins, et parfois sur des tourbières exploitées. Il fructifie de l'été à l'automne, surtout de juillet à octobre, et en Europe principalement d'août à octobre.",
+      "uses": "Comestible. Il a une saveur légèrement acidulée et il est récolté dans les pays baltes et en Pologne, où il est devenu commun. On préfère les jeunes exemplaires, il vaut mieux écarter les pieds durs et fibreux des plus âgés, et il ne doit être consommé que bien cuit. Il sert aussi à la teinture aux champignons et donne, selon le mordant, des teintes jaunes, orange brunâtre, orange foncé, brun verdâtre ou jaune verdâtre.",
+      "confusion": "Aureoboletus russellii a un pied hirsute, lacéré-réticulé, pousse plus souvent sous les feuillus et a des spores très différentes. Imleria badia a un pied plus court et lisse, sans sillons grossiers, et ses pores bleuissent à la pression. Les Leccinum ont des pieds tout aussi longs, mais couverts de mèches sombres au lieu de sillons, et leurs pores sont blanchâtres à gris. Xerocomus subtomentosus est plus petit, avec un pied plus court sans réseau profond et de grands pores anguleux.",
+      "notes": "Espèce introduite en Europe : elle a été confirmée pour la première fois en 2007–2009 sur l'isthme de Courlande, en Lituanie, où les cueilleurs locaux la connaissaient depuis les années 1980 ; elle est peut-être arrivée avec des plants de pins nord-américains plantés pour fixer les dunes côtières. Depuis, elle s'est rapidement étendue autour de la Baltique, en Lettonie, en Estonie, en Pologne, en Allemagne, au Danemark, en Suède, en Norvège et en Finlande, puis plus récemment aux Pays-Bas, en Biélorussie, en Ukraine, en Russie, en Tchéquie et en Slovaquie. En Estonie, son aire peut s'étendre d'environ 100 km par an. Elle est considérée comme potentiellement envahissante, et une seule station en Pologne a produit environ 4 500 carpophores en 2016.",
+      "names": [],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Aureoboletus_projectellus",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "bolet élancé"
+    },
+    "he": {
+      "description": "פטרייה גבוהה בעלת צינוריות מיערות אורן חוליים, עם כובע חום-אדמדם בעל שוליים בולטים, נקבוביות צהובות עד זיתיות, רגל ארוכה מאוד, מחורצת עמוק עד מרושתת בגסות, עם תפטיר לבן בבסיסה, ובשר שאינו מכחיל. מקורה במזרח צפון אמריקה ובמקסיקו, ומאז תחילת שנות ה-2000 היא מתפשטת באירופה סביב הים הבלטי.",
+      "cap": "קוטר 4–14 cm, לעיתים עד 20 cm; תחילה חצי-כדורי, אחר כך קמור עד קמור ורחב, ורק לעיתים רחוקות שטוח לגמרי. פני הכובע יבשים ובצעירותם קטיפתיים דקות, דביקים מעט במזג אוויר לח, ועם הגיל לעיתים קרובות סדוקים דקות. צבעו חום-קינמון עד חום-אדמדם, חום-אדמדם כהה או חום-סגלגל, ובצעירותו לעיתים בגוון אפור או זיתי. עור הכובע בולט מעבר לצינוריות כשוליים סטריליים ברוחב 1–3 mm. אמוניה צובעת את פני הכובע בשחור, ואשלגן הידרוקסידי (KOH) בצבע מהגוני.",
+      "hymenium": "הצינוריות באורך 1–2.5 cm ושקועות סביב הרגל; הנקבוביות עגולות, ברוחב כ-0.5–2 mm, תחילה צהובות חיוורות עד עזות, אחר כך צהובות-זיתיות ולבסוף חומות-זיתיות עכורות. בלחיצה אינן מכחילות, או רק לעיתים רחוקות ובחולשה. הבזידיות בדרך כלל ארבע-נבגיות, לעיתים רחוקות יותר דו-נבגיות, והציסטידות גליליות עד כישוריות, 35–70 × 7.5–10 µm.",
+      "stipe": "אורך 6–17 cm, לעיתים עד 24 cm, ועובי 1–3 cm, לפעמים עד 5 cm; ארוכה מאוד ביחס לכובע, מלאה, אחידה בעובייה או מתעבה מעט לעבר הבסיס. רגליים צעירות מחורצות לאורכן באופן רדוד; עם ההבשלה החריצים נעשים עמוקים וגסים ויוצרים רשת בולטת, בעיקר בשני השלישים העליונים. צבעה צהבהב עד חום-ורדרד או חום-אדמדם, לרוב בהיר מהכובע, דביקה מעט כשהיא טרייה או רטובה, והבסיס עטוף בתפטיר לבן שופע.",
+      "flesh": "לבנבן עד צהבהב חיוור, לעיתים בגוון ורדרד, מוצק. בחיתוך אינו מכחיל, אך עשוי להפוך באיטיות לחום-צהבהב, ושכבה דקה ממש מעל הצינוריות עשויה להתכהות עד אדום כהה. הריח אינו מיוחד והטעם עדין עד חמצמץ מעט.",
+      "sporePrint": "זיתי עד חום-זיתי. הנבגים כישוריים עד סגלגלים-מוארכים, חלקים, זהובים ב-KOH וגדולים במיוחד, כ-18–33 × 7.5–12 µm, הגדולים ביותר מבין כל הפטריות בעלות הצינוריות בצפון אמריקה.",
+      "habitat": "יוצרת אקטומיקוריזה עם אורנים: בצפון אמריקה עם אורנים שונים בעלי שתי מחטים ובעלי חמש מחטים, ובאירופה עם אורן סקוטי (Pinus sylvestris), אורן ההרים (Pinus mugo) ואורן שחור (Pinus nigra). גדלה בודדת, מפוזרת או בקבוצות, לעיתים במעגלים גדולים, בקרקעות חוליות יבשות ודלות בחומרי מזון ביערות אורן, בדיונות חוף ובשטחי אברש מכוסי אורנים, ולעיתים גם בביצות כבול שנכרו. גופי הפרי מופיעים מהקיץ עד הסתיו, בעיקר מיולי עד אוקטובר, ובאירופה בעיקר מאוגוסט עד אוקטובר.",
+      "uses": "מאכלית. טעמה חמצמץ מעט, והיא נאספת בארצות הבלטיות ובפולין, שבהן נעשתה נפוצה. מעדיפים גופי פרי צעירים, את הרגליים הקשות והסיביות של פטריות מבוגרות עדיף להשליך, ויש לאכול אותה רק לאחר בישול יסודי. היא משמשת גם לצביעה בפטריות, ובהתאם לחומר הקיבוע היא מעניקה גוונים צהובים, כתומים-חומים, כתומים כהים, חומים-ירקרקים או צהובים-ירקרקים.",
+      "confusion": "ל-Aureoboletus russellii רגל שעירה ומרושתת-קרועה, הוא גדל לעיתים קרובות יותר תחת עצים רחבי עלים ונבגיו שונים לגמרי. ל-Imleria badia רגל קצרה וחלקה יותר ללא חריצים גסים, ונקבוביותיה מכחילות בלחיצה. למיני Leccinum רגליים ארוכות באותה מידה, אך הן מכוסות קשקשים כהים במקום חריצים, ונקבוביותיהן לבנבנות עד אפורות. Xerocomus subtomentosus קטנה יותר, עם רגל קצרה יותר ללא רשת עמוקה ועם נקבוביות גדולות וזוויתיות.",
+      "notes": "מין מוכנס באירופה: הוא אושר לראשונה בשנים 2007–2009 בלשון היבשה הקורונית שבליטא, שם הכירו אותו לקטים מקומיים כבר משנות ה-1980, וייתכן שהגיע עם שתילי אורן מצפון אמריקה שניטעו לייצוב דיונות החוף. מאז התפשט במהירות סביב הים הבלטי ללטביה, אסטוניה, פולין, גרמניה, דנמרק, שוודיה, נורווגיה ופינלנד, ובשנים האחרונות גם להולנד, בלארוס, אוקראינה, רוסיה, צ'כיה וסלובקיה. באסטוניה תחום תפוצתו עשוי להתרחב בעד כ-100 km בשנה. הוא נחשב לפולש פוטנציאלי, ובאתר יחיד בפולין הופיעו בשנת 2016 כ-4,500 גופי פרי.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "रेतीले चीड़ वनों का एक ऊँचा बोलेट कवक, जिसे इसकी उभरे किनारे वाली लालिमा-लिए भूरी टोपी, पीले से जैतूनी छिद्रों, बहुत लंबे, गहरी धारियों वाले से मोटे जालीदार डंठल, जिसके आधार पर सफ़ेद कवकजाल होता है, और नीले न पड़ने वाले गूदे से पहचाना जाता है। यह पूर्वी उत्तर अमेरिका और मेक्सिको का मूल निवासी है और 2000 के दशक की शुरुआत से यूरोप में बाल्टिक सागर के आसपास फैल रहा है।",
+      "cap": "व्यास 4–14 cm, कभी-कभी 20 cm तक; पहले अर्धगोलाकार, फिर उत्तल से चौड़ी उत्तल और केवल कभी-कभार पूरी तरह चपटी। सतह सूखी और युवावस्था में महीन मखमली होती है, नम मौसम में थोड़ी चिपचिपी और उम्र के साथ अक्सर महीन दरारों वाली। रंग दालचीनी-भूरे से लालिमा-लिए भूरे, गहरे लाल-भूरे या बैंगनी-भूरे तक होता है, युवावस्था में कभी-कभी धूसर या जैतूनी आभा के साथ। टोपी की त्वचा नलिकाओं से आगे 1–3 mm चौड़े बाँझ किनारे के रूप में निकली रहती है। अमोनिया टोपी की सतह को काला और पोटैशियम हाइड्रॉक्साइड (KOH) महोगनी रंग का कर देता है।",
+      "hymenium": "नलिकाएँ 1–2.5 cm लंबी और डंठल के चारों ओर दबी हुई; छिद्र गोल, लगभग 0.5–2 mm चौड़े, पहले हल्के से चटक पीले, फिर जैतूनी-पीले और अंत में मटमैले जैतूनी-भूरे। दबाने पर ये नीले नहीं पड़ते, या केवल कभी-कभार और हल्के से पड़ते हैं। बेसिडिया अधिकतर चार-बीजाणु वाले, कम ही दो-बीजाणु वाले होते हैं, और सिस्टिडिया बेलनाकार से तर्कुरूपी, 35–70 × 7.5–10 µm।",
+      "stipe": "लंबाई 6–17 cm, कभी-कभी 24 cm तक, और मोटाई 1–3 cm, कभी-कभार 5 cm तक; टोपी की तुलना में बहुत लंबा, ठोस, समान मोटाई वाला या आधार की ओर थोड़ा फूला हुआ। युवा डंठल पर उथली लंबवत धारियाँ होती हैं; परिपक्व होने पर धारियाँ गहरी और मोटी होकर एक स्पष्ट जाल बनाती हैं, विशेषकर ऊपरी दो-तिहाई भाग पर। रंग पीलापन लिए से गुलाबी-भूरा या लालिमा-लिए भूरा, प्रायः टोपी से हल्का, ताज़ा या गीला होने पर थोड़ा चिपचिपा, और आधार प्रचुर सफ़ेद कवकजाल में लिपटा रहता है।",
+      "flesh": "सफ़ेद-सा से हल्का पीलापन लिए, कभी-कभी गुलाबी आभा के साथ, सख़्त। काटने पर नीला नहीं पड़ता, पर धीरे-धीरे पीलापन-लिए भूरा हो सकता है, और नलिकाओं के ठीक ऊपर की एक पतली परत गहरे लाल तक गहरी हो सकती है। गंध विशिष्ट नहीं होती और स्वाद हल्का से थोड़ा खट्टा होता है।",
+      "sporePrint": "जैतूनी से जैतूनी-भूरा। बीजाणु तर्कुरूपी से लंबोतरे अंडाकार, चिकने, KOH में सुनहरे और असाधारण रूप से बड़े, लगभग 18–33 × 7.5–12 µm, उत्तर अमेरिका के सभी बोलेट कवकों में सबसे बड़े।",
+      "habitat": "चीड़ के पेड़ों के साथ बाह्यकवकमूल बनाता है: उत्तर अमेरिका में दो और पाँच सुइयों वाले विभिन्न चीड़ों के साथ, और यूरोप में स्कॉट्स पाइन (Pinus sylvestris), पर्वतीय चीड़ (Pinus mugo) और काले चीड़ (Pinus nigra) के साथ। यह अकेले, बिखरे हुए या समूहों में, कभी-कभी बड़े घेरों में, चीड़ वनों की सूखी, पोषक-तत्वहीन रेतीली मिट्टी पर, चीड़ से ढके तटीय टीलों और हीथ भूमि पर, और कभी-कभी उत्खनित पीट दलदलों पर उगता है। इसके फलन गर्मी से पतझड़ तक होते हैं, मुख्यतः जुलाई से अक्टूबर तक, और यूरोप में अधिकतर अगस्त से अक्टूबर तक।",
+      "uses": "खाद्य। इसका स्वाद थोड़ा खट्टा होता है और इसे बाल्टिक देशों और पोलैंड में एकत्र किया जाता है, जहाँ यह आम हो गया है। युवा फलन पसंद किए जाते हैं, पुराने नमूनों के सख़्त, रेशेदार डंठल फेंक देना बेहतर है, और इसे केवल अच्छी तरह पकाकर ही खाना चाहिए। इसका उपयोग कवक से रंगाई में भी होता है, और रंगबंधक के अनुसार यह पीले, भूरापन-लिए नारंगी, गहरे नारंगी, हरापन-लिए भूरे या हरापन-लिए पीले रंग देता है।",
+      "confusion": "Aureoboletus russellii का डंठल झबरा और फटा-जालीदार होता है, यह अधिकतर चौड़ी पत्ती वाले पेड़ों के नीचे उगता है और इसके बीजाणु बिलकुल भिन्न होते हैं। Imleria badia का डंठल छोटा और चिकना होता है, उसमें मोटी धारियाँ नहीं होतीं, और उसके छिद्र दबाने पर नीले पड़ जाते हैं। Leccinum प्रजातियों के डंठल भी उतने ही लंबे होते हैं, पर उन पर धारियों के बजाय गहरे शल्क होते हैं, और उनके छिद्र सफ़ेद-से से धूसर होते हैं। Xerocomus subtomentosus छोटा होता है, उसका डंठल छोटा और गहरे जाल से रहित होता है, और छिद्र बड़े व कोणीय होते हैं।",
+      "notes": "यूरोप में एक बाहर से लाई गई प्रजाति: इसकी पहली पुष्टि 2007–2009 में लिथुआनिया के क्यूरोनियन स्पिट पर हुई, जहाँ स्थानीय संग्राहक इसे 1980 के दशक से जानते थे, और संभवतः यह तटीय टीलों को स्थिर करने के लिए लगाए गए उत्तर अमेरिकी चीड़ के पौधों के साथ वहाँ पहुँची। तब से यह बाल्टिक के चारों ओर तेज़ी से लातविया, एस्टोनिया, पोलैंड, जर्मनी, डेनमार्क, स्वीडन, नॉर्वे और फ़िनलैंड तक, और हाल में नीदरलैंड, बेलारूस, यूक्रेन, रूस, चेकिया और स्लोवाकिया तक फैल गई है। एस्टोनिया में इसका वितरण क्षेत्र प्रति वर्ष लगभग 100 km तक बढ़ सकता है। इसे संभावित रूप से आक्रामक माना जाता है, और पोलैंड के एक ही स्थल पर 2016 में लगभग 4,500 फलन निकले थे।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Visoka gljiva s cjevčicama iz pjeskovitih borovih šuma s crvenkastosmeđim šeširom izbočena ruba, žutim do maslinastim porama, vrlo dugim, duboko izbrazdanim do grubo mrežastim stručkom s bijelim micelijem na dnu i mesom koje ne modri. Autohtona je na istoku Sjeverne Amerike i u Meksiku, a u Europi se od početka 2000-ih širi oko Baltičkog mora.",
+      "cap": "Promjera 4–14 cm, ponekad do 20 cm; isprva polukuglast, zatim izbočen do široko izbočen i tek rijetko posve plosnat. Površina je suha i u mladosti fino baršunasta, po vlažnom vremenu malo ljepljiva, a starenjem često sitno ispucala. Cimetastosmeđa je do crvenkastosmeđa, tamno crvenkastosmeđa ili purpurnosmeđa, u mladosti ponekad sa sivkastim ili maslinastim tonom. Kožica šešira strši preko cjevčica kao sterilan rub širok 1–3 mm. Amonijak boji površinu šešira crno, a kalijev hidroksid (KOH) boje mahagonija.",
+      "hymenium": "Cjevčice su duge 1–2,5 cm i oko stručka udubljene; pore su okrugle, oko 0,5–2 mm široke, isprva blijedo do jarko žute, zatim maslinastožute i na kraju prljavo maslinastosmeđe. Na pritisak ne modre ili tek rijetko i slabo. Bazidije su uglavnom četverosporne, rjeđe dvosporne, a cistide valjkaste do vretenaste, 35–70 × 7,5–10 µm.",
+      "stipe": "Dug 6–17 cm, ponekad do 24 cm, i debeo 1–3 cm, katkad do 5 cm; u odnosu na šešir vrlo dug, pun, jednako debeo ili prema dnu malo zadebljan. Mladi stručci plitko su uzdužno izbrazdani; u zrelosti brazde postaju duboke i grube te tvore izraženu mrežu, osobito na gornjim dvjema trećinama. Žućkast je do ružičastosmeđ ili crvenkastosmeđ, obično svjetliji od šešira, svjež ili vlažan malo ljepljiv, a dno je obavijeno obilnim bijelim micelijem.",
+      "flesh": "Bjelkasto do blijedo žućkasto, ponekad s ružičastim tonom, čvrsto. Na prerezu ne modri, ali može polako postati žućkastosmeđe, a tanka zona tik iznad cjevčica može potamnjeti do tamnocrvene. Miris nije karakterističan, a okus je blag do blago kiselkast.",
+      "sporePrint": "Maslinast do maslinastosmeđ. Spore su vretenaste do izduženo ovalne, glatke, u KOH zlatne i iznimno velike, oko 18–33 × 7,5–12 µm, najveće među svim sjevernoameričkim gljivama s cjevčicama.",
+      "habitat": "Ektomikorizna s borovima: u Sjevernoj Americi s raznim dvoigličastim i peteroigličastim borovima, u Europi s običnim borom (Pinus sylvestris), klekovinom (Pinus mugo) i crnim borom (Pinus nigra). Raste pojedinačno, raštrkano ili u skupinama, ponekad u velikim krugovima, na suhim, siromašnim pjeskovitim tlima u borovim šumama, na borom obraslim obalnim dinama i vrištinama te ponekad na iskopanim tresetištima. Plodna tijela razvija od ljeta do jeseni, uglavnom od srpnja do listopada, u Europi većinom od kolovoza do listopada.",
+      "uses": "Jestiva. Ima blago kiselkast okus i skuplja se u baltičkim zemljama i u Poljskoj, gdje je postala česta. Prednost se daje mladim plodnim tijelima, žilave i vlaknaste stručke starijih bolje je odbaciti, a jesti se smije samo dobro termički obrađena. Koristi se i za bojenje gljivama te, ovisno o močilu, daje žute, smećkastonarančaste, tamnonarančaste, zelenkastosmeđe ili zelenkastožute boje.",
+      "confusion": "Aureoboletus russellii ima čupav, razderano mrežast stručak, češće raste pod listopadnim drvećem i ima posve drukčije spore. Imleria badia ima kraći, gladak stručak bez grubih brazda, a pore joj na pritisak modre. Vrste roda Leccinum imaju jednako duge stručke, ali su umjesto brazda prekriveni tamnim ljuskicama, a pore su im bjelkaste do sive. Xerocomus subtomentosus je manji, s kraćim stručkom bez duboke mreže i s velikim, uglatim porama.",
+      "notes": "Unesena vrsta u Europi: prvi je put potvrđena 2007.–2009. na Kurškoj prevlaci u Litvi, gdje su je mjesni gljivari poznavali još od 1980-ih, a možda je stigla sa sjevernoameričkim sadnicama borova sađenima radi učvršćivanja obalnih dina. Otada se brzo proširila oko Baltika u Latviju, Estoniju, Poljsku, Njemačku, Dansku, Švedsku, Norvešku i Finsku, a u novije vrijeme i u Nizozemsku, Bjelorusiju, Ukrajinu, Rusiju, Češku i Slovačku. U Estoniji se njezin areal može širiti i do oko 100 km godišnje. Smatra se potencijalno invazivnom, a na jednom jedinom nalazištu u Poljskoj 2016. pojavilo se oko 4500 plodnih tijela.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Homokos fenyvesek magas termetű tinóruja vörösesbarna, túlnyúló szélű kalappal, sárga vagy olívás pórusokkal, nagyon hosszú, mélyen bordázott vagy durván hálózatos tönkkel, amelynek tövén fehér micélium van, és nem kékülő hússal. Kelet-Észak-Amerikában és Mexikóban őshonos, Európában a 2000-es évek eleje óta terjed a Balti-tenger körül.",
+      "cap": "4–14 cm átmérőjű, néha 20 cm-es is; eleinte félgömb alakú, később domború vagy szélesen domború, és csak ritkán egészen lapos. Felszíne száraz, fiatalon finoman bársonyos, nedves időben kissé tapadós, idősen gyakran finoman repedezett. Fahéjbarna vagy vörösesbarna, sötét vörösesbarna vagy bíborbarna, fiatalon olykor szürkés vagy olívás árnyalatú. A kalapbőr 1–3 mm széles, meddő szegélyként túlnyúlik a csöveken. Az ammónia a kalap felszínét feketére, a kálium-hidroxid (KOH) mahagóniszínűre festi.",
+      "hymenium": "A csövek 1–2,5 cm hosszúak, a tönk körül benyomottak; a pórusok kerekek, kb. 0,5–2 mm szélesek, eleinte halvány- vagy élénksárgák, majd olívsárgák, végül piszkos olívbarnák. Nyomásra nem kékülnek, vagy csak ritkán és gyengén. A bazídiumok többnyire négyspórásak, ritkábban kétspórásak, a cisztídiumok hengeresek vagy orsó alakúak, 35–70 × 7,5–10 µm-esek.",
+      "stipe": "6–17 cm hosszú, néha 24 cm-es is, és 1–3 cm vastag, olykor 5 cm-es is; a kalaphoz képest nagyon hosszú, tömör, egyenletesen vastag vagy a töve felé kissé megvastagodó. Fiatalon sekélyen, hosszanti irányban bordázott; idősen a bordák mélyek és durvák lesznek, és feltűnő hálózatot alkotnak, főleg a felső kétharmadán. Sárgás, rózsásbarna vagy vörösesbarna, rendszerint világosabb a kalapnál, frissen vagy nedvesen kissé tapadós, tövét pedig dús fehér micélium borítja.",
+      "flesh": "Fehéres vagy halvány sárgás, néha rózsás árnyalatú, kemény. Vágásra nem kékül, de lassan sárgásbarnára színeződhet, és a csövek feletti vékony réteg sötétvörösre sötétedhet. Szaga nem jellegzetes, íze enyhe vagy kissé savanykás.",
+      "sporePrint": "Olív vagy olívbarna. A spórák orsó alakúak vagy megnyúlt oválisak, simák, KOH-ban aranysárgák és rendkívül nagyok, kb. 18–33 × 7,5–12 µm-esek, Észak-Amerika összes tinóruja közül a legnagyobbak.",
+      "habitat": "Ektomikorrhizás a fenyőkkel: Észak-Amerikában különféle két- és ötűs fenyőkkel, Európában erdeifenyővel (Pinus sylvestris), havasi törpefenyővel (Pinus mugo) és feketefenyővel (Pinus nigra). Magányosan, szórványosan vagy csoportosan, néha nagy körökben nő száraz, tápanyagszegény homoktalajokon fenyvesekben, fenyővel benőtt tengerparti dűnéken és hangás pusztákon, olykor kitermelt tőzeglápokon is. Termőtesteit nyártól őszig hozza, főleg júliustól októberig, Európában többnyire augusztustól októberig.",
+      "uses": "Ehető. Íze kissé savanykás, a balti országokban és Lengyelországban, ahol gyakorivá vált, gyűjtik. A fiatal termőtestek kedveltebbek, az idősebbek szívós, rostos tönkjét jobb eltávolítani, és csak alaposan hőkezelve szabad fogyasztani. Gombafestésre is használják, és a pácanyagtól függően sárga, barnás narancs, sötét narancs, zöldesbarna vagy zöldessárga színt ad.",
+      "confusion": "Az Aureoboletus russellii tönkje bozontos, szakadozottan hálózatos, inkább lombos fák alatt nő, és spórái egészen mások. Az Imleria badia tönkje rövidebb, sima, durva bordák nélküli, pórusai nyomásra kékülnek. A Leccinum fajok tönkje hasonlóan hosszú, de bordák helyett sötét pikkelyek borítják, pórusaik fehéresek vagy szürkék. A Xerocomus subtomentosus kisebb, rövidebb, mély hálózat nélküli tönkkel és nagy, szögletes pórusokkal.",
+      "notes": "Európában behurcolt faj: először 2007–2009-ben igazolták a litvániai Kur-földnyelven, ahol a helyi gombászok már az 1980-as évek óta ismerték; talán a tengerparti dűnék megkötésére ültetett észak-amerikai fenyőcsemetékkel került oda. Azóta gyorsan elterjedt a Balti-tenger körül Lettországba, Észtországba, Lengyelországba, Németországba, Dániába, Svédországba, Norvégiába és Finnországba, újabban pedig Hollandiába, Fehéroroszországba, Ukrajnába, Oroszországba, Csehországba és Szlovákiába is. Észtországban elterjedési területe évente akár mintegy 100 km-rel is bővülhet. Potenciálisan inváziósnak tekintik, és egyetlen lengyelországi lelőhelyen 2016-ban mintegy 4500 termőtest jelent meg.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur bolet bertubuh tinggi dari hutan pinus berpasir, dengan tudung cokelat kemerahan bertepi menjorok, pori kuning hingga zaitun, tangkai sangat panjang yang beralur dalam hingga berjala kasar dengan miselium putih di pangkalnya, serta daging yang tidak membiru. Asli dari bagian timur Amerika Utara dan Meksiko, dan sejak awal tahun 2000-an menyebar di Eropa di sekitar Laut Baltik.",
+      "cap": "Lebar 4–14 cm, kadang hingga 20 cm; mula-mula setengah bulat, lalu cembung hingga cembung lebar dan hanya jarang benar-benar datar. Permukaannya kering dan halus seperti beludru ketika muda, agak lengket saat cuaca basah, dan sering retak halus seiring umur. Warnanya cokelat kayu manis hingga cokelat kemerahan, cokelat kemerahan gelap, atau cokelat keunguan, ketika muda kadang bernuansa abu-abu atau zaitun. Kulit tudung menjorok melewati tabung sebagai tepi steril selebar 1–3 mm. Amonia mewarnai permukaan tudung menjadi hitam dan kalium hidroksida (KOH) menjadi merah mahoni.",
+      "hymenium": "Tabung sepanjang 1–2,5 cm dan melekuk di sekitar tangkai; pori bulat, lebar sekitar 0,5–2 mm, mula-mula kuning pucat hingga kuning cerah, lalu kuning zaitun, dan akhirnya cokelat zaitun kusam. Pori tidak membiru bila ditekan, atau hanya jarang dan samar. Basidium sebagian besar berspora empat, lebih jarang berspora dua, dan sistidium berbentuk silinder hingga gelendong, 35–70 × 7,5–10 µm.",
+      "stipe": "Panjang 6–17 cm, kadang hingga 24 cm, dan tebal 1–3 cm, sesekali hingga 5 cm; sangat panjang dibanding tudungnya, padat, sama tebal atau sedikit membesar ke arah pangkal. Tangkai muda beralur dangkal memanjang; seiring kematangan alurnya menjadi dalam dan kasar serta membentuk jala yang mencolok, terutama pada dua pertiga bagian atas. Warnanya kekuningan hingga cokelat merah muda atau cokelat kemerahan, biasanya lebih pucat daripada tudung, agak lengket ketika segar atau basah, dan pangkalnya terbungkus miselium putih yang melimpah.",
+      "flesh": "Keputihan hingga kekuningan pucat, kadang bernuansa merah muda, padat. Tidak membiru bila dipotong, tetapi lambat laun dapat menjadi cokelat kekuningan, dan lapisan tipis tepat di atas tabung dapat menggelap menjadi merah tua. Baunya tidak khas dan rasanya lembut hingga agak asam.",
+      "sporePrint": "Zaitun hingga cokelat zaitun. Spora berbentuk gelendong hingga lonjong memanjang, halus, keemasan dalam KOH, dan luar biasa besar, sekitar 18–33 × 7,5–12 µm, terbesar di antara semua jamur bolet Amerika Utara.",
+      "habitat": "Membentuk ektomikoriza dengan pinus: di Amerika Utara dengan berbagai pinus berdaun jarum dua dan lima, di Eropa dengan pinus skot (Pinus sylvestris), pinus gunung (Pinus mugo), dan pinus hitam (Pinus nigra). Tumbuh soliter, tersebar, atau berkelompok, kadang membentuk lingkaran besar, di tanah berpasir yang kering dan miskin hara di hutan pinus, di bukit pasir pesisir dan padang semak yang ditumbuhi pinus, dan kadang di lahan gambut bekas tambang. Tubuh buah muncul dari musim panas hingga musim gugur, terutama dari Juli hingga Oktober, dan di Eropa kebanyakan dari Agustus hingga Oktober.",
+      "uses": "Dapat dimakan. Rasanya agak asam dan jamur ini dikumpulkan di negara-negara Baltik dan Polandia, tempat jamur ini menjadi umum. Tubuh buah muda lebih disukai, tangkai yang alot dan berserat pada yang tua sebaiknya dibuang, dan jamur ini hanya boleh dimakan setelah dimasak matang. Jamur ini juga dipakai untuk pewarnaan dengan jamur dan, tergantung mordannya, menghasilkan warna kuning, jingga kecokelatan, jingga tua, cokelat kehijauan, atau kuning kehijauan.",
+      "confusion": "Aureoboletus russellii memiliki tangkai berbulu kasar yang berjala sobek, lebih sering tumbuh di bawah pohon berdaun lebar, dan sporanya sangat berbeda. Imleria badia memiliki tangkai yang lebih pendek dan licin tanpa alur kasar, dan porinya membiru bila ditekan. Spesies Leccinum memiliki tangkai yang sama panjangnya, tetapi tertutup sisik gelap alih-alih alur, dan porinya keputihan hingga abu-abu. Xerocomus subtomentosus lebih kecil, dengan tangkai lebih pendek tanpa jala dalam dan pori yang besar serta bersudut.",
+      "notes": "Spesies introduksi di Eropa: pertama kali dikonfirmasi pada 2007–2009 di Tanah Genting Curonia di Lituania, tempat para pengumpul setempat sudah mengenalnya sejak tahun 1980-an, dan mungkin terbawa bersama bibit pinus Amerika Utara yang ditanam untuk menstabilkan bukit pasir pesisir. Sejak itu jamur ini dengan cepat menyebar di sekitar Laut Baltik ke Latvia, Estonia, Polandia, Jerman, Denmark, Swedia, Norwegia, dan Finlandia, serta belakangan juga ke Belanda, Belarus, Ukraina, Rusia, Ceko, dan Slowakia. Di Estonia wilayah sebarannya dapat meluas hingga sekitar 100 km per tahun. Jamur ini dianggap berpotensi invasif, dan di satu lokasi di Polandia muncul sekitar 4500 tubuh buah pada tahun 2016.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un boleto slanciato delle pinete sabbiose, con cappello bruno-rossastro dal margine sporgente, pori da gialli a olivastri, gambo lunghissimo, profondamente solcato o grossolanamente reticolato, con micelio bianco alla base, e carne che non vira al blu. È originario del Nord America orientale e del Messico e dall'inizio degli anni 2000 si è diffuso in Europa attorno al Mar Baltico.",
+      "cap": "4–14 cm di diametro, talvolta fino a 20 cm; dapprima emisferico, poi convesso o largamente convesso e solo di rado del tutto piano. La superficie è asciutta e finemente vellutata da giovane, un po' appiccicosa con tempo umido e spesso finemente screpolata con l'età. È bruno cannella o bruno-rossastra, bruno-rossastra scura o bruno-porpora, da giovane talvolta con toni grigi od olivastri. La cuticola sporge oltre i tubuli formando un margine sterile largo 1–3 mm. L'ammoniaca colora di nero la superficie del cappello e l'idrossido di potassio (KOH) color mogano.",
+      "hymenium": "Tubuli lunghi 1–2,5 cm, depressi attorno al gambo; pori rotondi, di circa 0,5–2 mm, dapprima giallo pallido o giallo vivo, poi giallo olivastro e infine bruno oliva sporco. Alla pressione non virano al blu, o solo raramente e debolmente. I basidi sono per lo più tetrasporici, meno spesso bisporici, e i cistidi sono da cilindrici a fusiformi, 35–70 × 7,5–10 µm.",
+      "stipe": "Lungo 6–17 cm, talvolta fino a 24 cm, e spesso 1–3 cm, a volte fino a 5 cm; lunghissimo rispetto al cappello, pieno, cilindrico o leggermente ingrossato verso la base. Da giovane è percorso da solchi longitudinali poco profondi; a maturità i solchi diventano profondi e grossolani e formano un reticolo evidente, soprattutto nei due terzi superiori. È giallastro o bruno-rosato o bruno-rossastro, di solito più chiaro del cappello, un po' vischioso da fresco o con l'umidità, e la base è avvolta da abbondante micelio bianco.",
+      "flesh": "Biancastra o giallastra pallida, talvolta con sfumature rosate, soda. Al taglio non vira al blu ma può diventare lentamente bruno-giallastra, e una sottile zona appena sopra i tubuli può scurirsi fino al rosso scuro. L'odore non è caratteristico e il sapore è da dolce a leggermente acidulo.",
+      "sporePrint": "Da oliva a bruno oliva. Le spore sono da fusiformi a ovali allungate, lisce, dorate in KOH ed eccezionalmente grandi, circa 18–33 × 7,5–12 µm, le più grandi fra tutti i boleti nordamericani.",
+      "habitat": "Ectomicorrizico con i pini: in Nord America con vari pini a due e a cinque aghi, in Europa con pino silvestre (Pinus sylvestris), pino mugo (Pinus mugo) e pino nero (Pinus nigra). Cresce isolato, sparso o in gruppi, talvolta in grandi cerchi, su suoli sabbiosi secchi e poveri nelle pinete, su dune costiere e brughiere coperte di pini e a volte su torbiere sfruttate. Fruttifica dall'estate all'autunno, soprattutto da luglio a ottobre, e in Europa per lo più da agosto a ottobre.",
+      "uses": "Commestibile. Ha un sapore leggermente acidulo e viene raccolto nei Paesi baltici e in Polonia, dove è diventato comune. Si preferiscono gli esemplari giovani, è meglio scartare i gambi duri e fibrosi di quelli più vecchi, e va consumato solo ben cotto. Si usa anche per la tintura con i funghi e, a seconda del mordente, dà colori gialli, arancio-brunastri, arancio scuro, bruno-verdastri o giallo-verdastri.",
+      "confusion": "Aureoboletus russellii ha un gambo irsuto, lacerato-reticolato, cresce più spesso sotto latifoglie e ha spore molto diverse. Imleria badia ha un gambo più corto e liscio, senza solchi grossolani, e i suoi pori virano al blu alla pressione. Le specie di Leccinum hanno gambi altrettanto lunghi, ma coperti di squamette scure anziché di solchi, e i loro pori sono da biancastri a grigi. Xerocomus subtomentosus è più piccolo, con gambo più corto senza reticolo profondo e pori grandi e angolosi.",
+      "notes": "Specie introdotta in Europa: è stata confermata per la prima volta nel 2007–2009 sull'istmo di Curlandia, in Lituania, dove i raccoglitori locali la conoscevano dal 1980 circa, ed è forse arrivata con piantine di pino nordamericane messe a dimora per consolidare le dune costiere. Da allora si è diffusa rapidamente attorno al Baltico in Lettonia, Estonia, Polonia, Germania, Danimarca, Svezia, Norvegia e Finlandia e, più di recente, anche nei Paesi Bassi, in Bielorussia, Ucraina, Russia, Cechia e Slovacchia. In Estonia il suo areale può espandersi fino a circa 100 km all'anno. È considerata potenzialmente invasiva, e in una sola stazione in Polonia sono comparsi circa 4500 carpofori nel 2016.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "砂質のマツ林に生える背の高いイグチで、縁が張り出した赤褐色の傘、黄色からオリーブ色の孔口、非常に長く深い縦溝から粗い網目のある柄、柄の基部の白い菌糸、そして青変しない肉が特徴である。北アメリカ東部とメキシコが原産で、ヨーロッパでは2000年代初めからバルト海周辺に広がっている。",
+      "cap": "径4–14 cm、ときに20 cmに達する。初め半球形、のち饅頭形から広い饅頭形となり、まれにほぼ平らになる。表面は乾いており、若いうちは細かいビロード状、湿った天候ではやや粘り、古くなるとしばしば細かくひび割れる。色はシナモン褐色から赤褐色、暗赤褐色または紫褐色で、若いうちはときに灰色やオリーブ色を帯びる。傘の表皮は管孔を越えて幅1–3 mmの不稔の縁として張り出す。アンモニアで傘表面は黒色に、水酸化カリウム(KOH)ではマホガニー色に変わる。",
+      "hymenium": "管孔は長さ1–2.5 cmで、柄の周りで陥入する。孔口は円形で径約0.5–2 mm、初め淡黄色から鮮黄色、のちオリーブ黄色、最後に汚れたオリーブ褐色となる。押しても青変しないか、まれにわずかに青変する程度である。担子器は主に4胞子性、まれに2胞子性で、シスチジアは円柱形から紡錘形、35–70 × 7.5–10 µm。",
+      "stipe": "長さ6–17 cm、ときに24 cm、太さ1–3 cm、ときに5 cmに達し、傘に比べて非常に長く、中実で、上下同大か基部に向かってやや太まる。若い柄には浅い縦溝があり、成熟すると溝は深く粗くなって目立つ網目をつくり、特に上部3分の2で顕著である。色は黄色みを帯びたものからピンク褐色または赤褐色で、通常は傘より淡く、新鮮なときや湿ったときはやや粘り、基部は豊富な白い菌糸に包まれる。",
+      "flesh": "白色から淡黄色で、ときにピンクを帯び、締まっている。切っても青変しないが、ゆっくり黄褐色になることがあり、管孔のすぐ上の薄い層が暗赤色に変わることがある。においは特徴がなく、味は温和からわずかに酸味がある。",
+      "sporePrint": "オリーブ色からオリーブ褐色。胞子は紡錘形から長楕円形で平滑、KOHで金色を呈し、約18–33 × 7.5–12 µmと非常に大きく、北アメリカのイグチ類の中で最大である。",
+      "habitat": "マツと外生菌根を形成する。北アメリカでは2葉および5葉の様々なマツと、ヨーロッパではヨーロッパアカマツ(Pinus sylvestris)、モンタナマツ(Pinus mugo)、ヨーロッパクロマツ(Pinus nigra)と共生する。単生、散生または群生し、ときに大きな菌輪をつくり、マツ林の乾いた貧栄養の砂質土、マツに覆われた海岸砂丘やヒース、ときに泥炭採掘跡の湿原に発生する。夏から秋、主に7月から10月に発生し、ヨーロッパではおもに8月から10月である。",
+      "uses": "食用。わずかに酸味があり、普通種となったバルト三国やポーランドで採集される。若い子実体が好まれ、古いものの硬く繊維質の柄は取り除くのがよく、必ず十分に加熱してから食べる。キノコ染めにも使われ、媒染剤によって黄色、褐色がかった橙色、濃い橙色、緑がかった褐色、緑がかった黄色に染まる。",
+      "confusion": "Aureoboletus russelliiは柄が毛羽立ち裂けた網目状で、広葉樹の下に生えることが多く、胞子がまったく異なる。Imleria badiaは柄が短く平滑で粗い溝がなく、孔口は押すと青変する。Leccinum属の種は同様に長い柄をもつが、溝ではなく暗色の鱗片に覆われ、孔口は白っぽいものから灰色である。Xerocomus subtomentosusはより小型で、柄は短く深い網目がなく、孔口は大きく角張る。",
+      "notes": "ヨーロッパでは外来種である。2007–2009年にリトアニアのクルシュー砂州で初めて確認されたが、地元の採集者は1980年代から知っていた。海岸砂丘の固定のために植えられた北アメリカ産マツの苗木とともに持ち込まれた可能性がある。以後バルト海周辺のラトビア、エストニア、ポーランド、ドイツ、デンマーク、スウェーデン、ノルウェー、フィンランドへ急速に広がり、近年はオランダ、ベラルーシ、ウクライナ、ロシア、チェコ、スロバキアにも達した。エストニアでは分布域が年に最大約100 km拡大することがある。侵略的となる可能性があるとみなされ、ポーランドのある1か所では2016年に約4500個の子実体が発生した。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "모래땅 소나무숲에 나는 키 큰 그물버섯류로, 가장자리가 돌출한 적갈색 갓, 노란색에서 올리브색의 관공, 깊은 세로 홈에서 거친 그물눈이 있는 매우 긴 자루, 자루 밑동의 흰 균사, 그리고 청변하지 않는 살이 특징이다. 북아메리카 동부와 멕시코가 원산지이며, 유럽에서는 2000년대 초부터 발트해 주변으로 퍼지고 있다.",
+      "cap": "지름 4–14 cm, 때로 20 cm에 이른다. 처음에는 반구형이다가 둥근 산 모양에서 넓은 둥근 산 모양이 되며, 드물게 거의 편평해진다. 표면은 건조하고 어릴 때는 미세한 벨벳 모양이며, 습한 날씨에는 약간 끈적이고 오래되면 흔히 잘게 갈라진다. 색은 계피 갈색에서 적갈색, 짙은 적갈색 또는 자갈색이며, 어릴 때는 때로 회색이나 올리브색을 띤다. 갓 표피는 관공 너머로 폭 1–3 mm의 불임성 가장자리로 돌출한다. 암모니아는 갓 표면을 검게, 수산화칼륨(KOH)은 마호가니색으로 물들인다.",
+      "hymenium": "관공은 길이 1–2.5 cm이고 자루 주위에서 함몰한다. 구멍은 둥글고 지름 약 0.5–2 mm이며, 처음에는 연노란색에서 선명한 노란색, 이후 올리브 노란색, 마지막에는 칙칙한 올리브 갈색이 된다. 누르면 청변하지 않거나 드물게 약하게만 청변한다. 담자기는 주로 4포자성이고 드물게 2포자성이며, 낭상체는 원통형에서 방추형으로 35–70 × 7.5–10 µm이다.",
+      "stipe": "길이 6–17 cm, 때로 24 cm, 굵기 1–3 cm, 때로 5 cm에 이르며, 갓에 비해 매우 길고 속이 차 있으며 위아래 굵기가 같거나 밑동 쪽으로 약간 굵어진다. 어린 자루에는 얕은 세로 홈이 있고, 성숙하면 홈이 깊고 거칠어져 뚜렷한 그물눈을 이루며 특히 위쪽 3분의 2에서 두드러진다. 색은 노르스름한 색에서 분홍빛 갈색 또는 적갈색이며, 보통 갓보다 연하고, 신선하거나 젖었을 때 약간 끈적이며, 밑동은 풍부한 흰 균사에 싸여 있다.",
+      "flesh": "흰색에서 연노란색이며 때로 분홍빛을 띠고 단단하다. 자르면 청변하지 않지만 천천히 황갈색으로 변할 수 있고, 관공 바로 위의 얇은 층은 짙은 적색까지 어두워질 수 있다. 냄새는 특별하지 않고 맛은 순하거나 약간 시큼하다.",
+      "sporePrint": "올리브색에서 올리브 갈색. 포자는 방추형에서 긴 타원형이며 매끄럽고, KOH에서 금색을 띠며 약 18–33 × 7.5–12 µm로 매우 커서 북아메리카의 모든 그물버섯류 가운데 가장 크다.",
+      "habitat": "소나무와 외생균근을 형성한다. 북아메리카에서는 2엽 및 5엽의 여러 소나무와, 유럽에서는 구주소나무(Pinus sylvestris), 무고소나무(Pinus mugo), 유럽흑송(Pinus nigra)과 공생한다. 홀로, 흩어져 또는 무리 지어, 때로 큰 균륜을 이루며, 소나무숲의 건조하고 척박한 모래땅, 소나무로 덮인 해안 사구와 황야, 때로 이탄을 채굴한 습지에서 자란다. 여름부터 가을까지, 주로 7월부터 10월까지 발생하며, 유럽에서는 대개 8월부터 10월까지이다.",
+      "uses": "식용. 맛이 약간 시큼하며, 흔해진 발트 국가들과 폴란드에서 채취된다. 어린 자실체가 선호되며, 오래된 것의 질기고 섬유질인 자루는 버리는 것이 좋고, 반드시 충분히 익혀서 먹어야 한다. 버섯 염색에도 쓰이며, 매염제에 따라 노란색, 갈색빛 주황색, 짙은 주황색, 녹갈색 또는 녹황색을 낸다.",
+      "confusion": "Aureoboletus russellii는 자루가 털이 많고 찢어진 그물 모양이며, 활엽수 아래에 더 자주 나고 포자가 전혀 다르다. Imleria badia는 자루가 더 짧고 매끄러우며 거친 홈이 없고, 관공은 누르면 청변한다. Leccinum 속의 종들은 비슷하게 긴 자루를 가지지만 홈 대신 어두운 인편으로 덮여 있고, 관공은 흰색에서 회색이다. Xerocomus subtomentosus는 더 작고, 자루가 짧으며 깊은 그물눈이 없고, 관공 구멍이 크고 각지다.",
+      "notes": "유럽에서는 도입종이다. 2007–2009년 리투아니아의 쿠로니아 사주에서 처음 확인되었는데, 그곳의 현지 채집가들은 1980년대부터 이 버섯을 알고 있었다. 해안 사구를 고정하려고 심은 북아메리카산 소나무 묘목과 함께 들어왔을 가능성이 있다. 이후 발트해 주변의 라트비아, 에스토니아, 폴란드, 독일, 덴마크, 스웨덴, 노르웨이, 핀란드로 빠르게 퍼졌고, 최근에는 네덜란드, 벨라루스, 우크라이나, 러시아, 체코, 슬로바키아에도 이르렀다. 에스토니아에서는 분포 지역이 해마다 최대 약 100 km까지 넓어질 수 있다. 잠재적 침입종으로 여겨지며, 폴란드의 한 장소에서는 2016년에 약 4500개의 자실체가 발생했다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Aukštas smėlėtų pušynų baravykinis grybas su raudonai ruda kepure, kurios kraštas išsikišęs, geltonomis iki alyvuogių spalvos poromis, labai ilgu, giliai vagotu iki stambiai tinkliško koto su balta grybiena pamatinėje dalyje ir nemėlynuojančiu minkštimu. Natūraliai paplitęs rytinėje Šiaurės Amerikoje ir Meksikoje, o Europoje nuo 2000-ųjų pradžios plinta aplink Baltijos jūrą.",
+      "cap": "4–14 cm skersmens, kartais iki 20 cm; iš pradžių pusrutulio formos, vėliau išgaubta iki plačiai išgaubtos ir tik retai visiškai plokščia. Paviršius sausas, jaunų vaisiakūnių smulkiai aksominis, drėgnu oru kiek lipnus, su amžiumi dažnai smulkiai suskilinėjęs. Jis cinamono rudumo iki raudonai rudo, tamsiai raudonai rudo ar purpuriškai rudo, jaunų kartais su pilku ar alyvuogišku atspalviu. Kepurės odelė išsikiša už vamzdelių kaip sterilus 1–3 mm pločio apvadas. Amoniakas kepurės paviršių nudažo juodai, o kalio hidroksidas (KOH) – raudonmedžio spalva.",
+      "hymenium": "Vamzdeliai 1–2,5 cm ilgio, prie koto įlinkę; poros apvalios, maždaug 0,5–2 mm pločio, iš pradžių blyškiai iki ryškiai geltonos, vėliau alyvuogiškai geltonos ir galiausiai nešvariai alyvuogiškai rudos. Paspaustos nemėlynuoja arba tik retai ir silpnai. Bazidės dažniausiai keturių sporų, rečiau dviejų sporų, o cistidės cilindriškos iki verpstiškų, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm ilgio, kartais iki 24 cm, ir 1–3 cm storio, retkarčiais iki 5 cm; palyginti su kepure labai ilgas, pilnaviduris, vienodo storio arba link pagrindo kiek sustorėjęs. Jauni kotai negiliai išilgai vagoti; subrendus vagos tampa gilios ir stambios ir sudaro ryškų tinklą, ypač viršutiniuose dviejuose trečdaliuose. Kotas gelsvas iki rausvai rudo ar raudonai rudo, paprastai šviesesnis už kepurę, šviežias ar drėgnas kiek lipnus, o pagrindą gaubia gausi balta grybiena.",
+      "flesh": "Balsvas iki blyškiai gelsvo, kartais su rausvu atspalviu, tvirtas. Perpjautas nemėlynuoja, bet gali pamažu tapti gelsvai rudas, o plona juostelė tiesiai virš vamzdelių gali patamsėti iki tamsiai raudonos. Kvapas neišsiskiriantis, skonis švelnus iki kiek rūgštoko.",
+      "sporePrint": "Alyvuogių spalvos iki alyvuogiškai rudų. Sporos verpstiškos iki pailgai ovalių, lygios, KOH tirpale auksinės ir išskirtinai didelės, maždaug 18–33 × 7,5–12 µm, didžiausios iš visų Šiaurės Amerikos baravykinių grybų.",
+      "habitat": "Sudaro ektomikorizę su pušimis: Šiaurės Amerikoje su įvairiomis dviaspyglėmis ir penkiaspyglėmis pušimis, Europoje su paprastąja pušimi (Pinus sylvestris), kalnine pušimi (Pinus mugo) ir juodąja pušimi (Pinus nigra). Auga pavieniui, išsibarstęs ar grupėmis, kartais dideliais ratais, sausuose, nederlinguose smėlio dirvožemiuose pušynuose, pušimis apaugusiose pajūrio kopose ir viržynuose, kartais ir iškastuose durpynuose. Vaisiakūnius veda nuo vasaros iki rudens, daugiausia nuo liepos iki spalio, Europoje dažniausiai nuo rugpjūčio iki spalio.",
+      "uses": "Valgomas. Skonis kiek rūgštokas; jis renkamas Baltijos šalyse ir Lenkijoje, kur tapo dažnas. Labiau vertinami jauni vaisiakūniai, kietus ir plaušingus senesnių grybų kotus geriau pašalinti, o valgyti jį reikia tik gerai termiškai apdorotą. Jis naudojamas ir dažymui grybais: priklausomai nuo kandiklio gaunamos geltona, rusvai oranžinė, tamsiai oranžinė, žalsvai ruda ar žalsvai geltona spalvos.",
+      "confusion": "Aureoboletus russellii turi gauruotą, draskytai tinklišką kotą, dažniau auga po lapuočiais ir turi visai kitokias sporas. Imleria badia turi trumpesnį, lygų kotą be stambių vagų, o jos poros paspaudus mėlynuoja. Leccinum genties rūšys turi panašiai ilgus kotus, tačiau jie vietoje vagų padengti tamsiais žvyneliais, o jų poros balsvos iki pilkų. Xerocomus subtomentosus yra mažesnis, trumpesniu kotu be gilaus tinklo ir didelėmis, kampuotomis poromis.",
+      "notes": "Lietuvoje 2023 m. išrinktas metų grybu. Europoje tai įvežtinė rūšis: pirmą kartą patvirtinta 2007–2009 m. Kuršių nerijoje Lietuvoje, kur vietiniai grybautojai ją žinojo jau maždaug nuo 1980 m.; galbūt ji pateko kartu su Šiaurės Amerikos pušų sodinukais, sodintais pajūrio kopoms sutvirtinti. Nuo tada ji sparčiai išplito aplink Baltijos jūrą į Latviją, Estiją, Lenkiją, Vokietiją, Daniją, Švediją, Norvegiją ir Suomiją, o pastaruoju metu ir į Nyderlandus, Baltarusiją, Ukrainą, Rusiją, Čekiją ir Slovakiją. Estijoje jos arealas per metus gali padidėti iki maždaug 100 km. Ji laikoma potencialiai invazine, o vienoje vietoje Lenkijoje 2016 m. išaugo apie 4500 vaisiakūnių.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Raudonasis_auksabaravykis",
+        "https://doi.org/10.35513/nrc.2024.1.07",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "raudonasis auksabaravykis"
+    },
+    "lv": {
+      "description": "Augsta smilšainu priežu mežu beka ar sarkanbrūnu cepurīti ar pārkarenu malu, dzelteniem līdz olīvkrāsas poriem, ļoti garu, dziļi rievotu līdz rupji tīklotu kātu ar baltu micēliju pie pamatnes un mīkstumu, kas nezilē. Dabiski izplatīta Ziemeļamerikas austrumos un Meksikā, bet Eiropā kopš 2000. gadu sākuma izplatās ap Baltijas jūru.",
+      "cap": "4–14 cm diametrā, reizēm līdz 20 cm; sākumā puslodveida, vēlāk izliekta līdz plati izliekta un tikai reti pavisam plakana. Virsma sausa, jaunām sēnēm smalki samtaina, mitrā laikā nedaudz lipīga, ar vecumu bieži smalki saplaisājusi. Tā ir kanēļbrūna līdz sarkanbrūna, tumši sarkanbrūna vai purpurbrūna, jaunām sēnēm dažkārt ar pelēku vai olīvkrāsas nokrāsu. Cepurītes miziņa pārsniedz stobriņus kā sterila 1–3 mm plata maliņa. Amonjaks cepurītes virsmu iekrāso melnu, bet kālija hidroksīds (KOH) – sarkankoka krāsā.",
+      "hymenium": "Stobriņi 1–2,5 cm gari, pie kāta iegriezti; pori apaļi, apmēram 0,5–2 mm plati, sākumā gaiši līdz spilgti dzelteni, vēlāk olīvdzelteni un beigās netīri olīvbrūni. Uzspiežot tie nezilē vai zilē tikai reti un vāji. Bazīdijas pārsvarā četrsporu, retāk divsporu, cistīdas cilindriskas līdz vārpstveida, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm garš, dažkārt līdz 24 cm, un 1–3 cm resns, reizēm līdz 5 cm; salīdzinājumā ar cepurīti ļoti garš, pildīts, vienāda resnuma vai uz pamatni nedaudz paresnināts. Jauniem kātiem ir sekls garenisks rievojums; pieaugušām sēnēm rievas kļūst dziļas un rupjas un veido izteiktu tīklu, īpaši augšējās divās trešdaļās. Tas ir dzeltenīgs līdz sārti brūns vai sarkanbrūns, parasti gaišāks par cepurīti, svaigs vai mitrs nedaudz lipīgs, un pamatni ietver bagātīgs balts micēlijs.",
+      "flesh": "Bālgans līdz gaiši dzeltenīgs, dažkārt ar sārtu nokrāsu, stingrs. Pārgriezts nezilē, bet var lēnām kļūt dzeltenbrūns, un plāna josla tieši virs stobriņiem var kļūt tumši sarkana. Smarža neizteikta, garša maiga līdz viegli skābena.",
+      "sporePrint": "Olīvkrāsas līdz olīvbrūns. Sporas vārpstveida līdz iegareni ovālas, gludas, KOH zeltainas un ārkārtīgi lielas, apmēram 18–33 × 7,5–12 µm, lielākās no visām Ziemeļamerikas bekām.",
+      "habitat": "Veido ektomikorizu ar priedēm: Ziemeļamerikā ar dažādām divskuju un piecskuju priedēm, Eiropā ar parasto priedi (Pinus sylvestris), kalnu priedi (Pinus mugo) un melno priedi (Pinus nigra). Aug pa vienai, izklaidus vai grupās, dažkārt lielos lokos, sausās, barības vielām nabadzīgās smilšainās augsnēs priežu mežos, ar priedēm apaugušās piejūras kāpās un virsājos, reizēm arī izstrādātos kūdras purvos. Augļķermeņus veido no vasaras līdz rudenim, galvenokārt no jūlija līdz oktobrim, Eiropā pārsvarā no augusta līdz oktobrim.",
+      "uses": "Ēdama. Tai ir viegli skābena garša, un to vāc Baltijas valstīs un Polijā, kur tā kļuvusi bieža. Priekšroka dodama jaunām sēnēm, vecāku sēņu cietos, šķiedrainos kātus labāk izmest, un ēst to drīkst tikai labi termiski apstrādātu. To izmanto arī krāsošanai ar sēnēm, un atkarībā no kodinātāja tā dod dzeltenu, brūngani oranžu, tumši oranžu, zaļganbrūnu vai zaļgandzeltenu krāsu.",
+      "confusion": "Aureoboletus russellii ir pinkains, saplēsti tīklots kāts, tā biežāk aug zem lapu kokiem un tai ir pavisam citādas sporas. Imleria badia ir īsāks, gluds kāts bez rupjām rievām, un tās pori uzspiežot zilē. Leccinum ģints sugām ir līdzīgi gari kāti, taču tos rievu vietā klāj tumšas zvīņiņas, un to pori ir bālgani līdz pelēki. Xerocomus subtomentosus ir mazāka, ar īsāku kātu bez dziļa tīkla un ar lieliem, stūrainiem poriem.",
+      "notes": "Latvijā 2014. gadā bija gada sēne. Eiropā tā ir ievazāta suga: pirmo reizi apstiprināta 2007.–2009. gadā Kuršu kāpā Lietuvā, kur vietējie sēņotāji to pazina jau kopš 1980. gadiem; iespējams, tā nonāca šeit kopā ar Ziemeļamerikas priežu stādiem, kas tika stādīti piejūras kāpu nostiprināšanai. Kopš tā laika tā strauji izplatījusies ap Baltijas jūru uz Latviju, Igauniju, Poliju, Vāciju, Dāniju, Zviedriju, Norvēģiju un Somiju, bet pēdējā laikā arī uz Nīderlandi, Baltkrieviju, Ukrainu, Krieviju, Čehiju un Slovākiju. Igaunijā tās areāls gadā var paplašināties pat par aptuveni 100 km. To uzskata par potenciāli invazīvu sugu, un vienā atradnē Polijā 2016. gadā izauga ap 4500 augļķermeņu.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Dz%C4%ABslk%C4%81ta_beka",
+        "https://www.senes.lv/mikologubiedriba/YEARS_FUNGUS.htm",
+        "https://species.wikimedia.org/wiki/Aureoboletus_projectellus",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "dzīslkāta beka"
+    },
+    "nl": {
+      "description": "Een hoge boleet van zandige dennenbossen met een roodbruine hoed met een overhangende rand, gele tot olijfkleurige poriën, een zeer lange, diep gegroefde tot grof genetste steel met wit mycelium aan de voet en vlees dat niet blauwt. Hij is inheems in het oosten van Noord-Amerika en in Mexico en verspreidt zich in Europa sinds het begin van de jaren 2000 rond de Oostzee.",
+      "cap": "4–14 cm breed, soms tot 20 cm; eerst halfbolvormig, dan gewelfd tot breed gewelfd en slechts zelden helemaal vlak. Het oppervlak is droog en jong fijn fluweelachtig, bij nat weer wat kleverig en op leeftijd vaak fijn gebarsten. Het is kaneelbruin tot roodbruin, donker roodbruin of paarsbruin, jong soms met een grijze of olijfkleurige tint. De hoedhuid steekt als een steriele rand van 1–3 mm breed voorbij de buisjes uit. Ammoniak kleurt het hoedoppervlak zwart en kaliloog (KOH) mahoniebruin.",
+      "hymenium": "Buisjes 1–2,5 cm lang en rond de steel ingedrukt; de poriën zijn rond, ongeveer 0,5–2 mm wijd, eerst bleek- tot heldergeel, dan olijfgeel en ten slotte vuil olijfbruin. Ze blauwen niet bij druk, of slechts zelden en zwak. De basidiën zijn meestal viersporig, minder vaak tweesporig, en de cystiden zijn cilindrisch tot spoelvormig, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm lang, soms tot 24 cm, en 1–3 cm dik, soms tot 5 cm; zeer lang in verhouding tot de hoed, vol, gelijk dik of naar de voet iets verdikt. Jonge stelen zijn ondiep in de lengte gegroefd; bij rijpheid worden de groeven diep en grof en vormen ze een opvallend net, vooral over de bovenste twee derde. Hij is gelig tot rozebruin of roodbruin, meestal lichter dan de hoed, vers of nat iets kleverig, en de voet is omhuld door overvloedig wit mycelium.",
+      "flesh": "Witachtig tot bleek gelig, soms met een roze tint, stevig. Het blauwt niet bij doorsnijden, maar kan langzaam geelbruin worden, en een dunne zone vlak boven de buisjes kan donkerrood verkleuren. De geur is onopvallend en de smaak mild tot licht zurig.",
+      "sporePrint": "Olijf tot olijfbruin. De sporen zijn spoelvormig tot langwerpig ovaal, glad, goudkleurig in KOH en uitzonderlijk groot, ongeveer 18–33 × 7,5–12 µm, de grootste van alle Noord-Amerikaanse boleten.",
+      "habitat": "Ectomycorrhizavormer met dennen: in Noord-Amerika met verschillende twee- en vijfnaaldige dennen, in Europa met grove den (Pinus sylvestris), bergden (Pinus mugo) en zwarte den (Pinus nigra). Hij groeit alleen, verspreid of in groepen, soms in grote heksenkringen, op droge, voedselarme zandgronden in dennenbossen, op met dennen begroeide kustduinen en heiden en soms op afgegraven veengebieden. Hij vormt vruchtlichamen van de zomer tot de herfst, vooral van juli tot oktober, in Europa meestal van augustus tot oktober.",
+      "uses": "Eetbaar. Hij smaakt licht zurig en wordt verzameld in de Baltische landen en in Polen, waar hij algemeen is geworden. Jonge vruchtlichamen hebben de voorkeur, de taaie, vezelige stelen van oudere exemplaren kunnen beter worden verwijderd, en hij mag alleen goed verhit worden gegeten. Hij wordt ook gebruikt om met paddenstoelen te verven en geeft, afhankelijk van het beitsmiddel, gele, bruinoranje, donkeroranje, groenbruine of groengele kleuren.",
+      "confusion": "Aureoboletus russellii heeft een ruige, gescheurd-genetste steel, groeit vaker onder loofbomen en heeft heel andere sporen. Imleria badia heeft een kortere, gladde steel zonder grove groeven, en zijn poriën blauwen bij druk. Leccinum-soorten hebben even lange stelen, maar die zijn bedekt met donkere schubjes in plaats van groeven, en hun poriën zijn witachtig tot grijs. Xerocomus subtomentosus is kleiner, met een kortere steel zonder diep net en met grote, hoekige poriën.",
+      "notes": "Een ingevoerde soort in Europa: hij werd voor het eerst in 2007–2009 bevestigd op de Koerse Schoorwal in Litouwen, waar lokale verzamelaars hem al sinds de jaren 1980 kenden, en kwam daar mogelijk terecht met Noord-Amerikaanse dennenzaailingen die werden geplant om kustduinen vast te leggen. Sindsdien heeft hij zich snel rond de Oostzee verspreid naar Letland, Estland, Polen, Duitsland, Denemarken, Zweden, Noorwegen en Finland en recenter ook naar Nederland, Belarus, Oekraïne, Rusland, Tsjechië en Slowakije. In Estland kan zijn verspreidingsgebied met tot ongeveer 100 km per jaar groeien. Hij wordt als potentieel invasief beschouwd, en op één enkele vindplaats in Polen verschenen in 2016 ongeveer 4500 vruchtlichamen.",
+      "names": [],
+      "sourceUrls": [
+        "https://kvmv.be/_uploads/files/Nieuwe-Nederlandse-namen-2025-voor-website.pdf",
+        "https://paddenstoelenonderzoek.nl/kijk-op-exoten-nummer-54/",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "bruinrode boleet"
+    },
+    "no": {
+      "description": "En høyvokst rørsopp i sandige furuskoger med rødbrun hatt med utstikkende kant, gule til olivenfargede porer, en svært lang, dypt riflet til grovt nettmønstret stilk med hvitt mycel ved basis og kjøtt som ikke blåner. Den er naturlig hjemmehørende i østlige Nord-Amerika og Mexico og har siden begynnelsen av 2000-tallet spredt seg rundt Østersjøen i Europa.",
+      "cap": "4–14 cm bred, av og til opptil 20 cm; først halvkuleformet, så hvelvet til bredt hvelvet og bare sjelden helt flat. Overflaten er tørr og som ung fint fløyelsaktig, litt klebrig i fuktig vær og med alderen ofte fint oppsprukket. Den er kanelbrun til rødbrun, mørkt rødbrun eller purpurbrun, som ung iblant med grå eller olivenfarget tone. Hattehuden stikker ut forbi rørene som en steril, 1–3 mm bred kant. Ammoniakk farger hatteoverflaten svart og kaliumhydroksid (KOH) mahognibrun.",
+      "hymenium": "Rørene er 1–2,5 cm lange og nedtrykte rundt stilken; porene er runde, omkring 0,5–2 mm vide, først blekt til klart gule, så olivengule og til slutt skittent olivenbrune. De blåner ikke ved trykk, eller bare sjelden og svakt. Basidiene er for det meste firesporede, sjeldnere tosporede, og cystidene er sylindriske til spolformede, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm lang, iblant opptil 24 cm, og 1–3 cm tykk, av og til opptil 5 cm; svært lang i forhold til hatten, massiv, jevntykk eller litt fortykket mot basis. Unge stilker er grunt langsriflet; med alderen blir riflene dype og grove og danner et tydelig nett, særlig på de øvre to tredjedelene. Den er gulaktig til rosabrun eller rødbrun, vanligvis lysere enn hatten, litt klebrig når den er fersk eller våt, og basis er omgitt av rikelig hvitt mycel.",
+      "flesh": "Hvitaktig til blekt gulaktig, iblant med rosa tone, fast. Det blåner ikke i snitt, men kan langsomt bli gulbrunt, og et tynt sjikt like over rørene kan mørkne til mørkerødt. Lukten er ubetydelig og smaken mild til svakt syrlig.",
+      "sporePrint": "Oliven til olivenbrunt. Sporene er spolformede til avlangt ovale, glatte, gylne i KOH og uvanlig store, omkring 18–33 × 7,5–12 µm, de største blant alle nordamerikanske rørsopper.",
+      "habitat": "Danner ektomykorrhiza med furu: i Nord-Amerika med ulike to- og femnålede furuarter, i Europa med vanlig furu (Pinus sylvestris), buskfuru (Pinus mugo) og svartfuru (Pinus nigra). Den vokser enkeltvis, spredt eller i grupper, iblant i store ringer, på tørr, næringsfattig sandjord i furuskog, på furukledde kystdyner og lyngheier og iblant på avtorvede myrer. Fruktlegemene dannes fra sommer til høst, hovedsakelig fra juli til oktober, i Europa mest fra august til oktober.",
+      "uses": "Spiselig. Den har en svakt syrlig smak og sankes i de baltiske landene og i Polen, der den har blitt vanlig. Unge fruktlegemer foretrekkes, de seige, trevlete stilkene på eldre eksemplarer bør fjernes, og den skal bare spises godt varmebehandlet. Den brukes også til soppfarging og gir, avhengig av beisemiddel, gule, brunoransje, mørkt oransje, grønnbrune eller grønnlig gule farger.",
+      "confusion": "Aureoboletus russellii har en raggete, oppflist nettmønstret stilk, vokser oftere under løvtrær og har helt andre sporer. Imleria badia har en kortere, glatt stilk uten grove rifler, og porene blåner ved trykk. Leccinum-arter har like lange stilker, men de er dekket av mørke skjell i stedet for rifler, og porene er hvitaktige til grå. Xerocomus subtomentosus er mindre, med kortere stilk uten dypt nett og med store, kantete porer.",
+      "notes": "En innført art i Europa: den ble første gang bekreftet i 2007–2009 på Det kuriske nes i Litauen, der lokale soppsankere hadde kjent den siden 1980-tallet, og kom muligens dit med nordamerikanske furuplanter som ble plantet for å binde kystdyner. Siden har den raskt spredt seg rundt Østersjøen til Latvia, Estland, Polen, Tyskland, Danmark, Sverige, Norge og Finland og i senere tid også til Nederland, Belarus, Ukraina, Russland, Tsjekkia og Slovakia. I Estland kan utbredelsesområdet utvides med opptil omkring 100 km i året. Den regnes som potensielt invasiv, og på én enkelt lokalitet i Polen ble det i 2016 dannet omkring 4500 fruktlegemer.",
+      "names": [],
+      "sourceUrls": [
+        "https://lister.artsdatabanken.no/fremmedartslista/2023/2711",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "amerikarørsopp"
+    },
+    "pl": {
+      "description": "Wysoki borowik piaszczystych borów sosnowych o czerwonobrązowym kapeluszu z wystającym brzegiem, żółtych do oliwkowych porach, bardzo długim, głęboko bruzdowanym do grubo siateczkowatym trzonie z białą grzybnią u podstawy i miąższu, który nie sinieje. Pochodzi ze wschodniej części Ameryki Północnej i z Meksyku, a w Europie od początku XXI wieku (po 2000 roku) rozprzestrzenia się wokół Morza Bałtyckiego.",
+      "cap": "4–14 cm średnicy, wyjątkowo do 20 cm; początkowo półkulisty, potem wypukły do szeroko wypukłego i tylko rzadko zupełnie płaski. Powierzchnia sucha i za młodu delikatnie aksamitna, w wilgotną pogodę lekko lepka, z wiekiem często drobno popękana. Jest cynamonowobrązowa do czerwonobrązowej, ciemnoczerwonobrązowej lub purpurowobrązowej, u młodych owocników czasem z szarym lub oliwkowym odcieniem. Skórka kapelusza wystaje poza rurki jako płonny rąbek szerokości 1–3 mm. Amoniak barwi powierzchnię kapelusza na czarno, a wodorotlenek potasu (KOH) na mahoniowo.",
+      "hymenium": "Rurki długości 1–2,5 cm, przy trzonie wycięte; pory okrągłe, około 0,5–2 mm szerokości, początkowo bladożółte do jaskrawożółtych, potem oliwkowożółte, w końcu brudnooliwkowobrązowe. Po uciśnięciu nie sinieją albo tylko rzadko i słabo. Podstawki są przeważnie czterozarodnikowe, rzadziej dwuzarodnikowe, a cystydy cylindryczne do wrzecionowatych, 35–70 × 7,5–10 µm.",
+      "stipe": "Długości 6–17 cm, czasem do 24 cm, i grubości 1–3 cm, wyjątkowo do 5 cm; w stosunku do kapelusza bardzo długi, pełny, równogruby lub ku podstawie lekko zgrubiały. Młode trzony są płytko podłużnie bruzdowane; z wiekiem bruzdy stają się głębokie i grube i tworzą wyraźną siateczkę, zwłaszcza na górnych dwóch trzecich długości. Jest żółtawy do różowobrązowego lub czerwonobrązowego, zwykle jaśniejszy od kapelusza, świeży lub wilgotny lekko lepki, a podstawę otacza obfita biała grzybnia.",
+      "flesh": "Białawy do bladożółtawego, czasem z różowawym odcieniem, jędrny. Na przekroju nie sinieje, ale może powoli żółknąć do żółtobrązowego, a cienka warstwa tuż nad rurkami może ciemnieć na ciemnoczerwono. Zapach niewyraźny, smak łagodny do lekko kwaskowatego.",
+      "sporePrint": "Oliwkowy do oliwkowobrązowego. Zarodniki wrzecionowate do wydłużonie owalnych, gładkie, w KOH złociste i wyjątkowo duże, około 18–33 × 7,5–12 µm, największe spośród wszystkich borowikowatych Ameryki Północnej.",
+      "habitat": "Grzyb ektomykoryzowy związany z sosnami: w Ameryce Północnej z różnymi sosnami dwuigłowymi i pięcioigłowymi, w Europie z sosną zwyczajną (Pinus sylvestris), kosodrzewiną (Pinus mugo) i sosną czarną (Pinus nigra). Rośnie pojedynczo, w rozproszeniu lub w grupach, czasem w dużych kręgach, na suchych, ubogich glebach piaszczystych w borach sosnowych, na porośniętych sosnami wydmach nadmorskich i wrzosowiskach, a niekiedy także na wyeksploatowanych torfowiskach. Owocniki wytwarza od lata do jesieni, głównie od lipca do października, w Europie przeważnie od sierpnia do października.",
+      "uses": "Jadalny. Ma lekko kwaskowaty smak i jest zbierany w krajach bałtyckich i w Polsce, gdzie stał się pospolity. Preferuje się młode owocniki, twarde i włókniste trzony starszych lepiej usunąć, a jeść go należy wyłącznie dobrze ugotowanego lub usmażonego. Używa się go również do barwienia grzybami; w zależności od zaprawy daje barwy żółte, brązowopomarańczowe, ciemnopomarańczowe, zielonobrązowe lub zielonożółte.",
+      "confusion": "Aureoboletus russellii ma kosmaty, postrzępiono-siateczkowaty trzon, rośnie częściej pod drzewami liściastymi i ma zupełnie inne zarodniki. Imleria badia ma krótszy, gładki trzon bez grubych bruzd, a jego pory po uciśnięciu sinieją. Gatunki z rodzaju Leccinum mają podobnie długie trzony, ale zamiast bruzd pokryte ciemnymi łuseczkami, a ich pory są białawe do szarych. Xerocomus subtomentosus jest mniejszy, ma krótszy trzon bez głębokiej siateczki i duże, kanciaste pory.",
+      "notes": "W Europie gatunek zawleczony: po raz pierwszy potwierdzono go w latach 2007–2009 na Mierzei Kurońskiej na Litwie, gdzie miejscowi grzybiarze znali go już od około 1980 roku; być może dotarł tam z północnoamerykańskimi sadzonkami sosen sadzonymi w celu umocnienia wydm nadmorskich. Od tego czasu szybko rozprzestrzenił się wokół Bałtyku na Łotwę, do Estonii, Polski, Niemiec, Danii, Szwecji, Norwegii i Finlandii, a ostatnio także do Holandii, na Białoruś, Ukrainę, do Rosji, Czech i na Słowację. W Estonii jego zasięg może się powiększać nawet o około 100 km rocznie. Uważany jest za gatunek potencjalnie inwazyjny, a na jednym stanowisku w Polsce w 2016 roku pojawiło się około 4500 owocników.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Z%C5%82otoborowik_wysmuk%C5%82y",
+        "https://species.wikimedia.org/wiki/Aureoboletus_projectellus",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "złotoborowik wysmukły"
+    },
+    "pt": {
+      "description": "Um boleto alto de pinhais arenosos, com chapéu castanho-avermelhado de margem saliente, poros amarelos a oliváceos, um pé muito longo, profundamente sulcado a grosseiramente reticulado, com micélio branco na base, e carne que não azula. É nativo do leste da América do Norte e do México e, desde o início da década de 2000, tem-se expandido na Europa em torno do mar Báltico.",
+      "cap": "4–14 cm de diâmetro, por vezes até 20 cm; primeiro hemisférico, depois convexo a largamente convexo e só raramente bem plano. A superfície é seca e finamente aveludada quando jovem, um pouco pegajosa com tempo húmido e muitas vezes finamente gretada com a idade. É castanho-canela a castanho-avermelhada, castanho-avermelhada escura ou castanho-púrpura, por vezes com tons cinzentos ou oliváceos quando jovem. A cutícula ultrapassa os tubos, formando uma margem estéril com 1–3 mm de largura. O amoníaco cora de negro a superfície do chapéu e o hidróxido de potássio (KOH) de cor de mogno.",
+      "hymenium": "Tubos com 1–2,5 cm de comprimento, deprimidos em torno do pé; poros redondos, com cerca de 0,5–2 mm, primeiro amarelo-pálidos a amarelo-vivos, depois amarelo-oliváceos e por fim castanho-oliva sujos. Não azulam quando pressionados, ou só rara e fracamente. Os basídios são sobretudo tetraspóricos, menos vezes bispóricos, e os cistídios são cilíndricos a fusiformes, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm de comprimento, por vezes até 24 cm, e 1–3 cm de espessura, ocasionalmente até 5 cm; muito longo em relação ao chapéu, cheio, cilíndrico ou ligeiramente engrossado para a base. Os pés jovens têm sulcos longitudinais pouco profundos; com a maturidade os sulcos tornam-se profundos e grosseiros e formam um retículo marcado, sobretudo nos dois terços superiores. É amarelado a castanho-rosado ou castanho-avermelhado, geralmente mais claro do que o chapéu, um pouco viscoso quando fresco ou húmido, e a base está envolta em abundante micélio branco.",
+      "flesh": "Esbranquiçada a amarelada-pálida, por vezes com tons rosados, firme. Não azula ao corte, mas pode tornar-se lentamente castanho-amarelada, e uma fina zona logo acima dos tubos pode escurecer até vermelho-escuro. O cheiro não é característico e o sabor é suave a ligeiramente ácido.",
+      "sporePrint": "Oliva a castanho-oliva. Os esporos são fusiformes a ovais alongados, lisos, dourados em KOH e excecionalmente grandes, com cerca de 18–33 × 7,5–12 µm, os maiores de todos os boletos da América do Norte.",
+      "habitat": "Ectomicorrízico com pinheiros: na América do Norte com vários pinheiros de duas e de cinco agulhas, na Europa com pinheiro-silvestre (Pinus sylvestris), pinheiro-montanhês (Pinus mugo) e pinheiro-negro (Pinus nigra). Cresce isolado, disperso ou em grupos, por vezes em grandes círculos, em solos arenosos secos e pobres de pinhais, em dunas costeiras e charnecas com pinheiros e por vezes em turfeiras exploradas. Frutifica do verão ao outono, sobretudo de julho a outubro, e na Europa principalmente de agosto a outubro.",
+      "uses": "Comestível. Tem um sabor ligeiramente ácido e é apanhado nos países bálticos e na Polónia, onde se tornou comum. Preferem-se os exemplares jovens, é melhor descartar os pés duros e fibrosos dos mais velhos, e só deve ser consumido bem cozinhado. Também é usado para tingir com cogumelos e, conforme o mordente, dá cores amarelas, laranja-acastanhadas, laranja-escuras, castanho-esverdeadas ou amarelo-esverdeadas.",
+      "confusion": "Aureoboletus russellii tem um pé hirsuto, lacerado-reticulado, cresce mais vezes sob folhosas e tem esporos muito diferentes. Imleria badia tem um pé mais curto e liso, sem sulcos grosseiros, e os seus poros azulam quando pressionados. As espécies de Leccinum têm pés igualmente longos, mas cobertos de escamas escuras em vez de sulcos, e os seus poros são esbranquiçados a cinzentos. Xerocomus subtomentosus é mais pequeno, com pé mais curto sem retículo profundo e poros grandes e angulosos.",
+      "notes": "Espécie introduzida na Europa: foi confirmada pela primeira vez em 2007–2009 no istmo da Curlândia, na Lituânia, onde os apanhadores locais a conheciam desde a década de 1980, e talvez tenha chegado com plantas de pinheiro norte-americanas plantadas para fixar as dunas costeiras. Desde então expandiu-se rapidamente em torno do Báltico para a Letónia, Estónia, Polónia, Alemanha, Dinamarca, Suécia, Noruega e Finlândia e, mais recentemente, também para os Países Baixos, Bielorrússia, Ucrânia, Rússia, Chéquia e Eslováquia. Na Estónia a sua área de distribuição pode alargar-se até cerca de 100 km por ano. É considerada potencialmente invasora, e num único local na Polónia surgiram cerca de 4500 carpóforos em 2016.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă înaltă cu tuburi din pădurile nisipoase de pin, cu pălărie brun-roșcată cu margine proeminentă, pori galbeni până la olivacei, picior foarte lung, adânc brăzdat până la grosier reticulat, cu miceliu alb la bază, și carne care nu se albăstrește. Este originară din estul Americii de Nord și din Mexic, iar de la începutul anilor 2000 s-a răspândit în Europa în jurul Mării Baltice.",
+      "cap": "4–14 cm în diametru, uneori până la 20 cm; la început emisferică, apoi convexă până la larg convexă și doar rareori complet plată. Suprafața este uscată și fin catifelată la tinerețe, ușor lipicioasă pe vreme umedă și adesea fin crăpată la bătrânețe. Este brun-scorțișoarie până la brun-roșcată, brun-roșcată închisă sau brun-purpurie, la exemplarele tinere uneori cu nuanțe cenușii sau olivacee. Cuticula depășește tuburile sub forma unei margini sterile late de 1–3 mm. Amoniacul colorează suprafața pălăriei în negru, iar hidroxidul de potasiu (KOH) în culoarea mahonului.",
+      "hymenium": "Tuburi lungi de 1–2,5 cm, adâncite în jurul piciorului; pori rotunzi, de circa 0,5–2 mm, la început galben-pal până la galben-viu, apoi galben-olivacei și în final brun-olivacei murdari. La apăsare nu se albăstresc sau doar rareori și slab. Bazidiile sunt în majoritate tetrasporice, mai rar bisporice, iar cistidele sunt cilindrice până la fusiforme, 35–70 × 7,5–10 µm.",
+      "stipe": "Lung de 6–17 cm, uneori până la 24 cm, și gros de 1–3 cm, ocazional până la 5 cm; foarte lung în raport cu pălăria, plin, egal sau ușor îngroșat spre bază. Picioarele tinere sunt brăzdate longitudinal superficial; la maturitate brazdele devin adânci și grosiere și formează o rețea evidentă, mai ales pe cele două treimi superioare. Este gălbui până la brun-rozaliu sau brun-roșcat, de obicei mai deschis decât pălăria, ușor vâscos când este proaspăt sau ud, iar baza este învelită de miceliu alb abundent.",
+      "flesh": "Albicioasă până la gălbuie-pală, uneori cu nuanțe rozalii, fermă. La tăiere nu se albăstrește, dar poate deveni încet brun-gălbuie, iar o zonă subțire chiar deasupra tuburilor se poate închide până la roșu închis. Mirosul nu este caracteristic, iar gustul este dulceag până la ușor acrișor.",
+      "sporePrint": "Olivaceu până la brun-olivaceu. Sporii sunt fusiformi până la oval-alungiți, netezi, aurii în KOH și excepțional de mari, de circa 18–33 × 7,5–12 µm, cei mai mari dintre toate ciupercile cu tuburi nord-americane.",
+      "habitat": "Ectomicorizant cu pinii: în America de Nord cu diverși pini cu două și cu cinci ace, în Europa cu pinul silvestru (Pinus sylvestris), jneapănul (Pinus mugo) și pinul negru (Pinus nigra). Crește solitar, răzleț sau în grupuri, uneori în cercuri mari, pe soluri nisipoase uscate și sărace din pădurile de pin, pe dune litorale și landuri cu pini și uneori pe turbării exploatate. Fructifică din vară până toamna, mai ales din iulie până în octombrie, iar în Europa în principal din august până în octombrie.",
+      "uses": "Comestibilă. Are un gust ușor acrișor și se culege în țările baltice și în Polonia, unde a devenit comună. Se preferă exemplarele tinere, picioarele tari și fibroase ale celor bătrâne se îndepărtează de preferință, iar ciuperca trebuie consumată numai bine gătită. Se folosește și la vopsitul cu ciuperci și, în funcție de mordant, dă culori galbene, portocaliu-brunii, portocaliu închis, brun-verzui sau galben-verzui.",
+      "confusion": "Aureoboletus russellii are un picior hirsut, lacerat-reticulat, crește mai des sub foioase și are spori foarte diferiți. Imleria badia are un picior mai scurt și neted, fără brazde grosiere, iar porii ei se albăstresc la apăsare. Speciile de Leccinum au picioare la fel de lungi, dar acoperite cu solzișori închiși în loc de brazde, iar porii lor sunt albicioși până la cenușii. Xerocomus subtomentosus este mai mic, cu picior mai scurt, fără rețea adâncă, și cu pori mari și unghiulari.",
+      "notes": "Specie introdusă în Europa: a fost confirmată pentru prima dată în 2007–2009 pe Isthmul Curonian din Lituania, unde culegătorii locali o cunoșteau încă din anii 1980, și poate a ajuns acolo cu puieți de pin nord-americani plantați pentru fixarea dunelor litorale. De atunci s-a răspândit rapid în jurul Mării Baltice, în Letonia, Estonia, Polonia, Germania, Danemarca, Suedia, Norvegia și Finlanda, iar mai recent și în Țările de Jos, Belarus, Ucraina, Rusia, Cehia și Slovacia. În Estonia arealul său se poate extinde cu până la aproximativ 100 km pe an. Este considerată potențial invazivă, iar într-un singur loc din Polonia au apărut circa 4500 de corpuri fructifere în 2016.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Высокий болетовый гриб песчаных сосняков с красновато-бурой шляпкой со свисающим краем, жёлтыми до оливковых порами, очень длинной, глубоко бороздчатой до грубо-сетчатой ножкой с белым мицелием у основания и мякотью, которая не синеет. Родом с востока Северной Америки и из Мексики, а в Европе с начала 2000-х годов распространяется вокруг Балтийского моря.",
+      "cap": "Диаметр 4–14 cm, иногда до 20 cm; сначала полушаровидная, затем выпуклая до широковыпуклой и лишь изредка совсем плоская. Поверхность сухая, в молодости тонко бархатистая, в сырую погоду слегка липкая, с возрастом часто мелко растрескивающаяся. Окраска от коричневой с оттенком корицы до красновато-бурой, тёмной красновато-бурой или пурпурно-бурой, у молодых грибов иногда с сероватым или оливковым оттенком. Кожица шляпки выступает за трубочки стерильной каймой шириной 1–3 mm. Аммиак окрашивает поверхность шляпки в чёрный цвет, а гидроксид калия (KOH) — в цвет красного дерева.",
+      "hymenium": "Трубочки длиной 1–2,5 cm, у ножки выемчатые; поры округлые, около 0,5–2 mm, сначала бледно- до ярко-жёлтых, затем оливково-жёлтые и наконец грязно-оливково-бурые. При надавливании не синеют или синеют лишь изредка и слабо. Базидии в основном четырёхспоровые, реже двуспоровые, цистиды цилиндрические до веретеновидных, 35–70 × 7,5–10 µm.",
+      "stipe": "Длина 6–17 cm, иногда до 24 cm, толщина 1–3 cm, изредка до 5 cm; очень длинная по сравнению со шляпкой, сплошная, ровная или слегка утолщённая к основанию. Молодые ножки неглубоко продольно-бороздчатые; с возрастом борозды становятся глубокими и грубыми и образуют выраженную сетку, особенно на верхних двух третях. Окраска от желтоватой до розовато-бурой или красновато-бурой, обычно светлее шляпки; в свежем или влажном состоянии ножка слегка липкая, а основание окутано обильным белым мицелием.",
+      "flesh": "Беловатая до бледно-желтоватой, иногда с розоватым оттенком, плотная. На срезе не синеет, но может медленно становиться желтовато-бурой, а тонкий слой прямо над трубочками может темнеть до тёмно-красного. Запах невыразительный, вкус мягкий до слегка кисловатого.",
+      "sporePrint": "Оливковый до оливково-бурого. Споры веретеновидные до удлинённо-овальных, гладкие, в KOH золотистые и исключительно крупные, около 18–33 × 7,5–12 µm, самые крупные среди всех болетовых грибов Северной Америки.",
+      "habitat": "Образует эктомикоризу с соснами: в Северной Америке с различными двух- и пятихвойными соснами, в Европе с сосной обыкновенной (Pinus sylvestris), сосной горной (Pinus mugo) и сосной чёрной (Pinus nigra). Растёт одиночно, рассеянно или группами, иногда большими кругами, на сухих бедных песчаных почвах в сосняках, на поросших сосной приморских дюнах и вересковых пустошах, а иногда и на выработанных торфяниках. Плодоносит с лета до осени, главным образом с июля по октябрь, в Европе преимущественно с августа по октябрь.",
+      "uses": "Съедобен. Вкус слегка кисловатый; гриб собирают в странах Балтии и в Польше, где он стал обычным. Предпочтительны молодые плодовые тела, жёсткие волокнистые ножки старых экземпляров лучше удалять, а есть гриб можно только после хорошей тепловой обработки. Его также используют для крашения грибами: в зависимости от протравы он даёт жёлтые, буровато-оранжевые, тёмно-оранжевые, зеленовато-бурые или зеленовато-жёлтые тона.",
+      "confusion": "Aureoboletus russellii имеет косматую, рваносетчатую ножку, чаще растёт под лиственными деревьями и имеет совершенно иные споры. Imleria badia имеет более короткую гладкую ножку без грубых борозд, а его поры при надавливании синеют. Виды рода Leccinum имеют столь же длинные ножки, но они покрыты тёмными чешуйками вместо борозд, а поры у них беловатые до серых. Xerocomus subtomentosus мельче, с более короткой ножкой без глубокой сетки и с крупными угловатыми порами.",
+      "notes": "Занесённый вид в Европе: впервые подтверждён в 2007–2009 годах на Куршской косе в Литве, где местные грибники знали его ещё с 1980-х годов; возможно, он попал туда с саженцами североамериканских сосен, высаженными для закрепления приморских дюн. С тех пор он быстро распространился вокруг Балтики в Латвию, Эстонию, Польшу, Германию, Данию, Швецию, Норвегию и Финляндию, а в последнее время также в Нидерланды, Беларусь, Украину, Россию, Чехию и Словакию. В Эстонии его ареал может расширяться до примерно 100 km в год. Он считается потенциально инвазивным, а на одном-единственном местонахождении в Польше в 2016 году появилось около 4500 плодовых тел.",
+      "names": [
+        "авреоболет крупноспоровый"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D1%8B%D0%B9",
+        "https://api.gbif.org/v1/species/8339825/vernacularNames",
+        "https://species.wikimedia.org/wiki/Aureoboletus_projectellus"
+      ],
+      "label": "боровик золотистый"
+    },
+    "sk": {
+      "description": "Vysoký hríb piesočnatých borín s červenohnedým klobúkom s presahujúcim okrajom, žltými až olivovými pórmi, veľmi dlhým, hlboko ryhovaným až hrubo sieťkovaným hlúbikom s bielym myceliom na báze a dužinou, ktorá nemodrie. Pôvodný je na východe Severnej Ameriky a v Mexiku; v Európe sa od začiatku nového tisícročia (po roku 2000) šíri okolo Baltského mora.",
+      "cap": "4–14 cm široký, výnimočne až 20 cm; najprv polguľovitý, potom vypuklý až široko vypuklý a len zriedka celkom plochý. Povrch je suchý a za mladi jemne zamatový, za vlhka mierne lepkavý a vekom často jemne rozpraskaný. Je škoricovohnedý až červenohnedý, tmavočervenohnedý alebo purpurovohnedý, za mladi niekedy so sivým alebo olivovým nádychom. Pokožka klobúka presahuje rúrky ako sterilný lem široký 1–3 mm. Amoniak sfarbuje povrch klobúka načierno a hydroxid draselný (KOH) do mahagónovej farby.",
+      "hymenium": "Rúrky sú 1–2,5 cm dlhé a pri hlúbiku vykrojené; póry sú okrúhle, asi 0,5–2 mm široké, najprv bledo až jasne žlté, potom olivovožlté a nakoniec špinavo olivovohnedé. Po stlačení nemodrejú, prípadne len zriedka a slabo. Bazídiá sú väčšinou štvorvýtrusné, menej často dvojvýtrusné, a cystidy sú valcovité až vretenovité, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm dlhý, niekedy až 24 cm, a 1–3 cm hrubý, výnimočne až 5 cm; v pomere ku klobúku veľmi dlhý, plný, rovnako hrubý alebo k báze mierne rozšírený. Mladé hlúbiky sú plytko pozdĺžne ryhované; v dospelosti sú ryhy hlboké a hrubé a tvoria výraznú sieťku, najmä na hornej dvojtretine. Je žltkastý až ružovohnedý alebo červenohnedý, zvyčajne svetlejší ako klobúk, za čerstva alebo za vlhka mierne lepkavý a báza je obalená hojným bielym myceliom.",
+      "flesh": "Belavá až bledožltkastá, niekedy s ružovkastým nádychom, pevná. Na reze nemodrie, ale môže pomaly zhnednúť do žltohneda a tenká vrstva tesne nad rúrkami môže stmavnúť do tmavočervena. Vôňa nie je výrazná a chuť je mierna až slabo kyslastá.",
+      "sporePrint": "Olivový až olivovohnedý. Výtrusy sú vretenovité až predĺžene oválne, hladké, v KOH zlatisté a mimoriadne veľké, asi 18–33 × 7,5–12 µm, najväčšie spomedzi všetkých severoamerických hríbov.",
+      "habitat": "Ektomykorízna s borovicami: v Severnej Amerike s rôznymi dvojihličnatými aj päťihličnatými borovicami, v Európe s borovicou lesnou (Pinus sylvestris), borovicou horskou (Pinus mugo) a borovicou čiernou (Pinus nigra). Rastie jednotlivo, roztrúsene alebo v skupinách, niekedy vo veľkých kruhoch, na suchých, živinami chudobných piesočnatých pôdach v borinách, na borovicami zarastených prímorských dunách a vresoviskách a príležitostne aj na vyťažených rašeliniskách. Plodnice tvorí od leta do jesene, najmä od júla do októbra, v Európe väčšinou od augusta do októbra.",
+      "uses": "Jedlá. Má mierne kyslastú chuť a v pobaltských krajinách a v Poľsku, kde sa stala bežnou, sa zbiera. Uprednostňujú sa mladé plodnice, tuhé a vláknité hlúbiky starších je lepšie odstrániť a jesť ju treba len dôkladne tepelne upravenú. Používa sa aj na farbenie hubami, pričom podľa moridla dáva žlté, hnedooranžové, tmavooranžové, zelenohnedé alebo zelenožlté farby.",
+      "confusion": "Aureoboletus russellii má strapatý, rozstrapkane sieťkovaný hlúbik, rastie častejšie pod listnatými stromami a má úplne odlišné výtrusy. Imleria badia má kratší, hladký hlúbik bez hrubých rýh a jeho póry po stlačení modrejú. Druhy rodu Leccinum majú podobne dlhé hlúbiky, tie sú však namiesto rýh pokryté tmavými šupinkami a ich póry sú belavé až sivé. Xerocomus subtomentosus je menší, s kratším hlúbikom bez hlbokej sieťky a s veľkými hranatými pórmi.",
+      "notes": "V Európe ide o zavlečený druh: prvýkrát ho potvrdili v rokoch 2007–2009 na Kurskej kose v Litve, kde ho miestni hubári poznali už približne od roku 1980; možno sa sem dostal so severoamerickými sadenicami borovíc vysádzaných na spevnenie prímorských dún. Odvtedy sa rýchlo rozšíril okolo Baltského mora do Lotyšska, Estónska, Poľska, Nemecka, Dánska, Švédska, Nórska a Fínska a v poslednom čase aj do Holandska, Bieloruska, na Ukrajinu, do Ruska, Česka a na Slovensko. V Estónsku sa jeho areál môže zväčšiť až asi o 100 km za rok. Považuje sa za potenciálne invázny druh a na jedinej lokalite v Poľsku sa v roku 2016 objavilo asi 4 500 plodníc.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Visok goban peščenih borovih gozdov z rdečkasto rjavim klobukom s štrlečim robom, rumenimi do olivnimi porami, zelo dolgim, globoko brazdastim do grobo mrežastim betom z belim micelijem ob dnu in mesom, ki ne pomodri. Samonikel je na vzhodu Severne Amerike in v Mehiki, v Evropi pa se od začetka tega tisočletja (po letu 2000) širi okrog Baltskega morja.",
+      "cap": "Premer 4–14 cm, včasih do 20 cm; sprva polkroglast, nato izbočen do široko izbočen in le redko povsem raven. Površina je suha in v mladosti drobno žametasta, v vlažnem vremenu rahlo lepljiva, s starostjo pogosto drobno razpokana. Je cimetasto rjava do rdečkasto rjava, temno rdečkasto rjava ali škrlatno rjava, v mladosti včasih s sivim ali olivnim odtenkom. Kožica klobuka sega čez cevke kot sterilen, 1–3 mm širok rob. Amoniak obarva površino klobuka črno, kalijev hidroksid (KOH) pa mahagonijevo.",
+      "hymenium": "Cevke so dolge 1–2,5 cm in ob betu vbočene; pore so okrogle, približno 0,5–2 mm široke, sprva bledo do živo rumene, nato olivno rumene in nazadnje umazano olivno rjave. Ob pritisku ne pomodrijo ali le redko in šibko. Bazidiji so večinoma štiritrosni, redkeje dvotrosni, cistide pa valjaste do vretenaste, 35–70 × 7,5–10 µm.",
+      "stipe": "Dolg 6–17 cm, včasih do 24 cm, in debel 1–3 cm, občasno do 5 cm; v primerjavi s klobukom zelo dolg, poln, enakomerno debel ali proti dnu rahlo odebeljen. Mladi beti so plitvo vzdolžno brazdasti; z zrelostjo postanejo brazde globoke in grobe ter tvorijo izrazito mrežo, zlasti na zgornjih dveh tretjinah. Je rumenkast do rožnato rjav ali rdečkasto rjav, običajno svetlejši od klobuka, svež ali moker rahlo lepljiv, dno pa ovija obilen bel micelij.",
+      "flesh": "Belkasto do bledo rumenkasto, včasih z rožnatim odtenkom, čvrsto. Na prerezu ne pomodri, lahko pa počasi postane rumenkasto rjavo, tanek pas tik nad cevkami pa lahko potemni do temno rdeče. Vonj ni značilen, okus pa je blag do rahlo kiselkast.",
+      "sporePrint": "Olivno do olivno rjav. Trosi so vretenasti do podolgovato ovalni, gladki, v KOH zlati in izjemno veliki, približno 18–33 × 7,5–12 µm, največji med vsemi severnoameriškimi gobani.",
+      "habitat": "Ektomikorizna z bori: v Severni Ameriki z različnimi dvoigličastimi in petigličastimi bori, v Evropi z rdečim borom (Pinus sylvestris), rušjem (Pinus mugo) in črnim borom (Pinus nigra). Raste posamič, raztreseno ali v skupinah, včasih v velikih krogih, na suhih, s hranili revnih peščenih tleh v borovih gozdovih, na z bori poraslih obalnih sipinah in resavah ter včasih na izkopanih šotiščih. Trosnjake razvija od poletja do jeseni, predvsem od julija do oktobra, v Evropi večinoma od avgusta do oktobra.",
+      "uses": "Užitna. Ima rahlo kiselkast okus in jo nabirajo v baltskih državah in na Poljskem, kjer je postala pogosta. Prednost imajo mladi trosnjaki, žilave in vlaknate bete starejših je bolje zavreči, jesti pa jo je treba le dobro toplotno obdelano. Uporablja se tudi za barvanje z gobami in glede na čimžo daje rumene, rjavkasto oranžne, temno oranžne, zelenkasto rjave ali zelenkasto rumene barve.",
+      "confusion": "Aureoboletus russellii ima kosmat, razcefrano mrežast bet, pogosteje raste pod listavci in ima povsem drugačne trose. Imleria badia ima krajši, gladek bet brez grobih brazd, njene pore pa ob pritisku pomodrijo. Vrste rodu Leccinum imajo enako dolge bete, ki pa so namesto z brazdami pokriti s temnimi luskicami, njihove pore pa so belkaste do sive. Xerocomus subtomentosus je manjši, s krajšim betom brez globoke mreže in z velikimi, oglatimi porami.",
+      "notes": "V Evropi vnesena vrsta: prvič so jo potrdili v letih 2007–2009 na Kurski kosi v Litvi, kjer so jo domači gobarji poznali že od okoli leta 1980; morda je prišla s severnoameriškimi sadikami borov, posajenimi za utrjevanje obalnih sipin. Od takrat se je hitro razširila okrog Baltika v Latvijo, Estonijo, na Poljsko, v Nemčijo, na Dansko, Švedsko, Norveško in Finsko, v zadnjem času pa tudi na Nizozemsko, v Belorusijo, Ukrajino, Rusijo, na Češko in Slovaško. V Estoniji se njeno območje razširjenosti lahko poveča za do približno 100 km na leto. Velja za potencialno invazivno, na enem samem nahajališču na Poljskem pa se je leta 2016 pojavilo približno 4500 trosnjakov.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Висока гљива са цевчицама из песковитих борових шума са црвенкастосмеђим шеширом испупченог руба, жутим до маслинастим порама, веома дугом, дубоко избразданом до грубо мрежастом дршком са белим мицелијумом при дну и месом које не плави. Аутохтона је на истоку Северне Америке и у Мексику, а у Европи се од почетка 2000-их шири око Балтичког мора.",
+      "cap": "Пречника 4–14 cm, понекад до 20 cm; у почетку полулоптаст, затим испупчен до широко испупчен и тек ретко сасвим раван. Површина је сува и у младости фино сомотаста, по влажном времену благо лепљива, а старењем често ситно испуцала. Циметастосмеђа је до црвенкастосмеђа, тамно црвенкастосмеђа или пурпурносмеђа, у младости понекад са сивкастим или маслинастим тоном. Кожица шешира прелази преко цевчица као стерилан руб широк 1–3 mm. Амонијак боји површину шешира црно, а калијум-хидроксид (KOH) у боју махагонија.",
+      "hymenium": "Цевчице су дуге 1–2,5 cm и око дршке удубљене; поре су округле, око 0,5–2 mm широке, у почетку бледо до јарко жуте, затим маслинастожуте и на крају прљаво маслинастосмеђе. На притисак не плаве или тек ретко и слабо. Базидије су углавном четвороспорне, ређе двоспорне, а цистиде ваљкасте до вретенасте, 35–70 × 7,5–10 µm.",
+      "stipe": "Дуга 6–17 cm, понекад до 24 cm, и дебела 1–3 cm, повремено до 5 cm; у односу на шешир веома дуга, пуна, једнаке дебљине или ка дну благо задебљала. Младе дршке су плитко уздужно избраздане; у зрелости бразде постају дубоке и грубе и образују изразиту мрежу, нарочито на горњим двема трећинама. Жућкаста је до ружичастосмеђа или црвенкастосмеђа, обично светлија од шешира, свежа или влажна благо лепљива, а дно је обавијено обилним белим мицелијумом.",
+      "flesh": "Беличасто до бледо жућкасто, понекад са ружичастим тоном, чврсто. На пресеку не плави, али може полако постати жућкастосмеђе, а танка зона тик изнад цевчица може потамнети до тамноцрвене. Мирис није карактеристичан, а укус је благ до благо киселкаст.",
+      "sporePrint": "Маслинаст до маслинастосмеђ. Споре су вретенасте до издужено овалне, глатке, у KOH златне и изузетно крупне, око 18–33 × 7,5–12 µm, највеће међу свим северноамеричким гљивама са цевчицама.",
+      "habitat": "Ектомикоризна са боровима: у Северној Америци са разним двоигличастим и петоигличастим боровима, у Европи са белим бором (Pinus sylvestris), кривуљом (Pinus mugo) и црним бором (Pinus nigra). Расте појединачно, раштркано или у групама, понекад у великим круговима, на сувим, хранљивим материјама сиромашним песковитим земљиштима у боровим шумама, на бором обраслим приобалним динама и вресиштима, а понекад и на ископаним тресетиштима. Плодна тела образује од лета до јесени, углавном од јула до октобра, у Европи највише од августа до октобра.",
+      "uses": "Јестива. Има благо киселкаст укус и сакупља се у балтичким земљама и у Пољској, где је постала честа. Предност се даје младим плодним телима, жилаве и влакнасте дршке старијих боље је одбацити, а јести се сме само добро термички обрађена. Користи се и за бојење гљивама и, у зависности од мочила, даје жуте, браонкастонаранџасте, тамнонаранџасте, зеленкастосмеђе или зеленкастожуте боје.",
+      "confusion": "Aureoboletus russellii има чупаву, раздерано мрежасту дршку, чешће расте под листопадним дрвећем и има сасвим другачије споре. Imleria badia има краћу, глатку дршку без грубих бразди, а поре јој на притисак плаве. Врсте рода Leccinum имају подједнако дуге дршке, али су уместо браздама прекривене тамним љуспицама, а поре су им беличасте до сиве. Xerocomus subtomentosus је мањи, са краћом дршком без дубоке мреже и са крупним, угластим порама.",
+      "notes": "Унета врста у Европи: први пут је потврђена 2007–2009. на Куршкој превлаци у Литванији, где су је локални гљивари познавали још од 1980-их, а можда је стигла са северноамеричким садницама борова сађеним ради учвршћивања приобалних дина. Од тада се брзо проширила око Балтика у Летонију, Естонију, Пољску, Немачку, Данску, Шведску, Норвешку и Финску, а у новије време и у Холандију, Белорусију, Украјину, Русију, Чешку и Словачку. У Естонији њен ареал може да се шири и до око 100 km годишње. Сматра се потенцијално инвазивном, а на једном једином налазишту у Пољској 2016. године појавило се око 4500 плодних тела.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En reslig sopp i sandiga tallskogar med rödbrun hatt med utskjutande kant, gula till olivfärgade porer, en mycket lång, djupt räfflad till grovt nätådrad fot med vitt mycel vid basen och kött som inte blånar. Den är ursprunglig i östra Nordamerika och Mexiko och har sedan början av 2000-talet spridit sig runt Östersjön i Europa.",
+      "cap": "4–14 cm bred, ibland upp till 20 cm; först halvklotformig, sedan välvd till brett välvd och bara sällan helt platt. Ytan är torr och som ung fint sammetslen, något klibbig i fuktigt väder och med åldern ofta fint sprickig. Den är kanelbrun till rödbrun, mörkt rödbrun eller purpurbrun, som ung ibland med grå eller olivfärgad ton. Hatthuden skjuter ut förbi rören som en steril, 1–3 mm bred kant. Ammoniak färgar hattytan svart och kaliumhydroxid (KOH) mahognybrun.",
+      "hymenium": "Rören är 1–2,5 cm långa och nedtryckta runt foten; porerna är runda, omkring 0,5–2 mm vida, först blekt till klart gula, sedan olivgula och till sist smutsigt olivbruna. De blånar inte vid tryck, eller bara sällan och svagt. Basidierna är oftast fyrsporiga, mer sällan tvåsporiga, och cystiderna är cylindriska till spolformiga, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm lång, ibland upp till 24 cm, och 1–3 cm tjock, ibland upp till 5 cm; mycket lång i förhållande till hatten, massiv, jämntjock eller något förtjockad mot basen. Unga fötter är grunt längsräfflade; med åldern blir räfflorna djupa och grova och bildar ett tydligt nät, särskilt på de övre två tredjedelarna. Den är gulaktig till rosabrun eller rödbrun, oftast ljusare än hatten, något klibbig när den är färsk eller våt, och basen är omsluten av rikligt vitt mycel.",
+      "flesh": "Vitaktigt till blekt gulaktigt, ibland med rosa ton, fast. Det blånar inte i snitt men kan långsamt bli gulbrunt, och ett tunt skikt strax ovanför rören kan mörkna till mörkrött. Lukten är obetydlig och smaken mild till svagt syrlig.",
+      "sporePrint": "Oliv till olivbrunt. Sporerna är spolformiga till långsträckt ovala, släta, gyllene i KOH och ovanligt stora, omkring 18–33 × 7,5–12 µm, de största bland alla nordamerikanska soppar.",
+      "habitat": "Bildar ektomykorrhiza med tall: i Nordamerika med olika två- och fembarriga tallar, i Europa med vanlig tall (Pinus sylvestris), bergtall (Pinus mugo) och svarttall (Pinus nigra). Den växer ensam, spridd eller i grupper, ibland i stora ringar, på torra, näringsfattiga sandjordar i tallskog, på tallbevuxna kustdyner och ljunghedar och ibland på avtorvade mossar. Fruktkropparna bildas från sommar till höst, främst från juli till oktober, i Europa mest från augusti till oktober.",
+      "uses": "Ätlig. Den har en svagt syrlig smak och plockas i de baltiska länderna och i Polen, där den har blivit vanlig. Unga fruktkroppar föredras, de sega, fibriga fötterna på äldre exemplar tas helst bort, och den ska bara ätas väl tillagad. Den används också till svampfärgning och ger beroende på betmedel gula, brunorange, mörkorange, grönbruna eller grönaktigt gula färger.",
+      "confusion": "Aureoboletus russellii har en raggig, trasigt nätådrad fot, växer oftare under lövträd och har helt andra sporer. Imleria badia har en kortare, slät fot utan grova räfflor, och dess porer blånar vid tryck. Leccinum-arter har lika långa fötter, men de är täckta av mörka fjäll i stället för räfflor, och deras porer är vitaktiga till grå. Xerocomus subtomentosus är mindre, med kortare fot utan djupt nät och med stora, kantiga porer.",
+      "notes": "En införd art i Europa: den bekräftades första gången 2007–2009 på Kuriska näset i Litauen, där lokala svampplockare hade känt till den sedan 1980-talet, och kom möjligen dit med nordamerikanska tallplantor som planterades för att binda kustdyner. Sedan dess har den snabbt spridit sig runt Östersjön till Lettland, Estland, Polen, Tyskland, Danmark, Sverige, Norge och Finland och på senare tid även till Nederländerna, Belarus, Ukraina, Ryssland, Tjeckien och Slovakien. I Estland kan utbredningsområdet växa med upp till omkring 100 km per år. Den betraktas som potentiellt invasiv, och på en enda lokal i Polen bildades omkring 4 500 fruktkroppar 2016.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/8339825/vernacularNames"
+      ],
+      "label": "ribbsopp"
+    },
+    "tr": {
+      "description": "Kumlu çam ormanlarında yetişen, çıkıntılı kenarlı kırmızımsı kahverengi şapkası, sarıdan zeytin rengine porları, tabanında beyaz miselyum bulunan, derin oluklu ile kaba ağsı arası çok uzun sapı ve maviye dönmeyen etiyle tanınan uzun boylu, borulu bir mantar. Doğu Kuzey Amerika ve Meksika'ya özgüdür; Avrupa'da 2000'lerin başından beri Baltık Denizi çevresinde yayılmaktadır.",
+      "cap": "4–14 cm çapında, bazen 20 cm'ye kadar; önce yarım küre biçiminde, sonra dışbükey ila geniş dışbükey ve yalnızca nadiren tamamen düz. Yüzeyi kuru, gençken ince kadifemsi, nemli havada biraz yapışkan ve yaşla birlikte çoğunlukla ince çatlaklıdır. Tarçın kahverengisinden kırmızımsı kahverengiye, koyu kırmızımsı kahverengi veya morumsu kahverengiye kadar değişir; gençken bazen gri ya da zeytin tonludur. Şapka derisi borucukların ötesine 1–3 mm genişliğinde steril bir kenar olarak taşar. Amonyak şapka yüzeyini siyaha, potasyum hidroksit (KOH) ise maun rengine boyar.",
+      "hymenium": "Borucuklar 1–2,5 cm uzunluğunda ve sapın çevresinde çökük; porlar yuvarlak, yaklaşık 0,5–2 mm genişliğinde, önce soluk ila parlak sarı, sonra zeytin sarısı ve sonunda kirli zeytin kahverengi. Bastırıldığında maviye dönmez ya da yalnızca nadiren ve zayıfça döner. Bazidyumlar çoğunlukla dört sporlu, daha seyrek iki sporlu; sistidiyumlar silindirik ila iğ biçiminde, 35–70 × 7,5–10 µm.",
+      "stipe": "6–17 cm uzunluğunda, bazen 24 cm'ye kadar, ve 1–3 cm kalınlığında, ara sıra 5 cm'ye kadar; şapkaya oranla çok uzun, dolgun, eşit kalınlıkta ya da tabana doğru hafifçe kalınlaşan. Genç saplar boyuna sığ oluklu; olgunlukla oluklar derin ve kaba hale gelir ve özellikle üst üçte ikilik kısımda belirgin bir ağ oluşturur. Sarımsı ila pembemsi kahverengi veya kırmızımsı kahverengi, genellikle şapkadan daha açık renkli, tazeyken ya da ıslakken biraz yapışkandır ve tabanı bol beyaz miselyumla sarılıdır.",
+      "flesh": "Beyazımsı ila soluk sarımsı, bazen pembemsi tonlu, sıkı. Kesildiğinde maviye dönmez, ancak yavaşça sarımsı kahverengiye dönebilir ve borucukların hemen üstündeki ince bir bölge koyu kırmızıya kadar koyulaşabilir. Kokusu belirgin değildir, tadı yumuşak ila hafif ekşimsidir.",
+      "sporePrint": "Zeytin ila zeytin kahverengi. Sporlar iğ biçiminden uzunca ovale, düzgün yüzeyli, KOH içinde altın renkli ve olağanüstü büyük, yaklaşık 18–33 × 7,5–12 µm; Kuzey Amerika'daki tüm borulu mantarların en büyükleridir.",
+      "habitat": "Çamlarla ektomikoriza oluşturur: Kuzey Amerika'da çeşitli iki ve beş iğneli çamlarla, Avrupa'da sarıçam (Pinus sylvestris), dağ çamı (Pinus mugo) ve karaçam (Pinus nigra) ile. Tek tek, dağınık ya da gruplar halinde, bazen büyük halkalar oluşturarak çam ormanlarındaki kuru, besince fakir kumlu topraklarda, çamlarla kaplı kıyı kumullarında ve fundalıklarda, ara sıra da işletilmiş turbalıklarda yetişir. Yazdan sonbahara kadar, özellikle temmuzdan ekime, Avrupa'da ise çoğunlukla ağustostan ekime kadar meyve verir.",
+      "uses": "Yenir. Hafif ekşimsi bir tadı vardır ve yaygınlaştığı Baltık ülkelerinde ve Polonya'da toplanır. Genç meyve gövdeleri tercih edilir, yaşlı örneklerin sert ve lifli saplarını atmak daha iyidir ve yalnızca iyice pişirilerek yenmelidir. Mantarla boyamada da kullanılır ve mordana bağlı olarak sarı, kahverengimsi turuncu, koyu turuncu, yeşilimsi kahverengi veya yeşilimsi sarı renkler verir.",
+      "confusion": "Aureoboletus russellii'nin sapı tüylü ve yırtık ağsıdır; daha çok yapraklı ağaçların altında yetişir ve sporları çok farklıdır. Imleria badia'nın sapı daha kısa ve düzdür, kaba olukları yoktur ve porları bastırıldığında maviye döner. Leccinum türlerinin sapları da benzer uzunluktadır, ancak oluk yerine koyu pullarla kaplıdır ve porları beyazımsı ila gridir. Xerocomus subtomentosus daha küçüktür; sapı daha kısadır, derin ağı yoktur ve porları büyük ve köşelidir.",
+      "notes": "Avrupa'ya sonradan girmiş bir türdür: ilk kez 2007–2009 yıllarında Litvanya'daki Kuron Kıstağı'nda doğrulanmıştır; yerel toplayıcılar onu 1980'lerden beri tanıyordu. Kıyı kumullarını sabitlemek için dikilen Kuzey Amerika çam fidanlarıyla gelmiş olabilir. O zamandan beri Baltık çevresinde hızla Letonya, Estonya, Polonya, Almanya, Danimarka, İsveç, Norveç ve Finlandiya'ya, son zamanlarda da Hollanda, Belarus, Ukrayna, Rusya, Çekya ve Slovakya'ya yayılmıştır. Estonya'da yayılış alanı yılda yaklaşık 100 km'ye kadar genişleyebilmektedir. Potansiyel olarak istilacı kabul edilir ve Polonya'daki tek bir bölgede 2016'da yaklaşık 4500 meyve gövdesi ortaya çıkmıştır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Високий болетовий гриб піщаних соснових лісів із червонувато-бурим капелюшком зі звисаючим краєм, жовтими до оливкових порами, дуже довгою, глибоко борозенчастою до грубо сітчастої ніжкою з білим міцелієм біля основи та м'якоттю, що не синіє. Походить зі сходу Північної Америки та з Мексики, а в Європі з початку 2000-х років поширюється довкола Балтійського моря.",
+      "cap": "Діаметр 4–14 cm, іноді до 20 cm; спершу напівкулястий, потім опуклий до широкоопуклого і лише зрідка зовсім плаский. Поверхня суха, замолоду тонко оксамитова, у вологу погоду трохи липка, з віком часто дрібно розтріскується. Забарвлення від цинамоново-бурого до червонувато-бурого, темно-червонувато-бурого або пурпурово-бурого, у молодих грибів іноді із сіруватим чи оливковим відтінком. Шкірка капелюшка виступає за трубочки стерильною облямівкою завширшки 1–3 mm. Аміак забарвлює поверхню капелюшка в чорний колір, а гідроксид калію (KOH) — у колір червоного дерева.",
+      "hymenium": "Трубочки завдовжки 1–2,5 cm, біля ніжки виїмчасті; пори округлі, близько 0,5–2 mm, спершу блідо- до яскраво-жовтих, потім оливково-жовті й зрештою брудно-оливково-бурі. Від натискання не синіють або синіють лише зрідка й слабко. Базидії переважно чотириспорові, рідше двоспорові, цистиди циліндричні до веретеноподібних, 35–70 × 7,5–10 µm.",
+      "stipe": "Завдовжки 6–17 cm, іноді до 24 cm, завтовшки 1–3 cm, зрідка до 5 cm; дуже довга порівняно з капелюшком, суцільна, рівна або трохи потовщена до основи. Молоді ніжки неглибоко поздовжньо борозенчасті; з віком борозни стають глибокими й грубими та утворюють виразну сітку, особливо на верхніх двох третинах. Забарвлення від жовтуватого до рожево-бурого або червонувато-бурого, зазвичай світліше за капелюшок; свіжа або волога ніжка трохи липка, а основу огортає рясний білий міцелій.",
+      "flesh": "Білувата до блідо-жовтуватої, іноді з рожевуватим відтінком, щільна. На зрізі не синіє, але може повільно ставати жовтувато-бурою, а тонкий шар просто над трубочками може темніти до темно-червоного. Запах невиразний, смак м'який до злегка кислуватого.",
+      "sporePrint": "Оливковий до оливково-бурого. Спори веретеноподібні до видовжено-овальних, гладенькі, у KOH золотисті та надзвичайно великі, близько 18–33 × 7,5–12 µm, найбільші серед усіх болетових грибів Північної Америки.",
+      "habitat": "Утворює ектомікоризу із соснами: у Північній Америці з різними дво- та п'ятихвойними соснами, у Європі із сосною звичайною (Pinus sylvestris), сосною гірською (Pinus mugo) та сосною чорною (Pinus nigra). Росте поодиноко, розсіяно або групами, іноді великими колами, на сухих бідних піщаних ґрунтах у соснових лісах, на порослих сосною приморських дюнах і вересовищах, а іноді й на відпрацьованих торфовищах. Плодоносить з літа до осені, переважно з липня по жовтень, у Європі здебільшого з серпня по жовтень.",
+      "uses": "Їстівний. Смак злегка кислуватий; гриб збирають у країнах Балтії та в Польщі, де він став звичайним. Перевагу віддають молодим плодовим тілам, жорсткі волокнисті ніжки старших екземплярів краще видаляти, а їсти гриб можна лише після ретельної термічної обробки. Його також використовують для фарбування грибами: залежно від протрави він дає жовті, буро-помаранчеві, темно-помаранчеві, зеленувато-бурі або зеленувато-жовті барви.",
+      "confusion": "Aureoboletus russellii має кошлату, рвано-сітчасту ніжку, частіше росте під листяними деревами й має зовсім інші спори. Imleria badia має коротшу гладеньку ніжку без грубих борозен, а його пори від натискання синіють. Види роду Leccinum мають так само довгі ніжки, але вони вкриті темними лусочками замість борозен, а пори в них білуваті до сірих. Xerocomus subtomentosus дрібніший, з коротшою ніжкою без глибокої сітки та з великими кутастими порами.",
+      "notes": "Занесений вид у Європі: уперше підтверджений у 2007–2009 роках на Куршській косі в Литві, де місцеві грибники знали його ще з 1980-х років; можливо, він потрапив туди із саджанцями північноамериканських сосен, висадженими для закріплення приморських дюн. Відтоді він швидко поширився довкола Балтики до Латвії, Естонії, Польщі, Німеччини, Данії, Швеції, Норвегії та Фінляндії, а останнім часом також до Нідерландів, Білорусі, України, Росії, Чехії та Словаччини. В Естонії його ареал може розширюватися до приблизно 100 km на рік. Він вважається потенційно інвазивним, а на одному-єдиному місцезнаходженні в Польщі 2016 року з'явилося близько 4500 плодових тіл.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種生於沙質松林的高大牛肝菌，可憑邊緣突出的紅褐色菌蓋、黃色至橄欖色的菌孔、極長且具深縱溝至粗網紋的菌柄、柄基的白色菌絲，以及不變藍的菌肉辨認。原產於北美洲東部與墨西哥，自2000年代初起在歐洲沿波羅的海周邊擴散。",
+      "cap": "直徑4–14 cm，偶達20 cm；初為半球形，後呈凸鏡形至寬凸鏡形，僅偶爾完全平展。表面乾燥，幼時具細緻絨毛，潮濕時略黏，老後常細裂。顏色為肉桂褐色至紅褐色、暗紅褐色或紫褐色，幼時有時帶灰色或橄欖色調。菌蓋表皮延伸超出菌管，形成寬1–3 mm的不孕邊緣。氨水使菌蓋表面變黑，氫氧化鉀（KOH）使其呈桃花心木色。",
+      "hymenium": "菌管長1–2.5 cm，在菌柄周圍凹陷；菌孔圓形，寬約0.5–2 mm，初為淡黃至鮮黃色，後轉橄欖黃色，最終為污橄欖褐色。按壓不變藍，或僅偶爾微弱變藍。擔子多為四孢，較少為二孢；囊狀體圓柱形至紡錘形，35–70 × 7.5–10 µm。",
+      "stipe": "長6–17 cm，有時達24 cm，粗1–3 cm，偶達5 cm；相對菌蓋極長，實心，上下等粗或向基部略膨大。幼柄具淺縱溝；成熟後縱溝變深變粗並形成明顯網紋，尤以上部三分之二最顯著。顏色為淡黃色至粉褐色或紅褐色，通常比菌蓋淺，新鮮或潮濕時略黏，基部包裹大量白色菌絲。",
+      "flesh": "白色至淡黃色，有時帶粉紅色調，質地緊實。切開不變藍，但可緩慢轉為黃褐色，菌管正上方的薄層可變暗至深紅色。氣味不明顯，味道溫和至微酸。",
+      "sporePrint": "橄欖色至橄欖褐色。孢子紡錘形至長橢圓形，平滑，在KOH中呈金黃色，且異常巨大，約18–33 × 7.5–12 µm，為北美洲所有牛肝菌中最大者。",
+      "habitat": "與松樹形成外生菌根：在北美洲與多種二針及五針松共生，在歐洲與歐洲赤松（Pinus sylvestris）、歐洲山松（Pinus mugo）及歐洲黑松（Pinus nigra）共生。單生、散生或群生，有時形成大型蘑菇圈，生於松林中乾燥貧瘠的沙質土、松樹覆蓋的海岸沙丘與石南荒原，偶見於已採掘的泥炭沼地。夏季至秋季出菇，主要在7月至10月，歐洲多在8月至10月。",
+      "uses": "可食用。味道微酸，在已變得常見的波羅的海國家與波蘭有人採集。以幼嫩子實體為佳，較老個體堅韌多纖維的菌柄最好去除，且必須充分煮熟後才可食用。亦用於菌類染色，依媒染劑不同可染出黃色、褐橙色、深橙色、綠褐色或綠黃色。",
+      "confusion": "Aureoboletus russellii的菌柄蓬鬆、呈撕裂狀網紋，較常生於闊葉樹下，孢子也截然不同。Imleria badia的菌柄較短而平滑，無粗糙縱溝，菌孔按壓後變藍。Leccinum屬物種的菌柄同樣很長，但覆有深色鱗片而非縱溝，菌孔為白色至灰色。Xerocomus subtomentosus較小，菌柄較短且無深網紋，菌孔大而多角形。",
+      "notes": "在歐洲為引入種：2007–2009年首次在立陶宛的庫爾斯沙嘴獲得確認，但當地採菇人自1980年代起已知其存在；可能是隨著為固定海岸沙丘而種植的北美松樹苗傳入。此後迅速沿波羅的海擴散至拉脫維亞、愛沙尼亞、波蘭、德國、丹麥、瑞典、挪威和芬蘭，近年也擴及荷蘭、白俄羅斯、烏克蘭、俄羅斯、捷克和斯洛伐克。在愛沙尼亞，其分布範圍每年可擴大達約100 km。被視為具潛在入侵性，波蘭某單一地點在2016年曾出現約4500個子實體。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t40u, same form as Bovista paludosa 154, Phaeoclavulina roellinii 155, Agaricus bohusii 156, Pseudoplectania melaena 158 and Calonarius atrovirens 159). The supplied image is a 19th-century-style colour illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number; Picasa-processed JPEG named .png); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap1.webp",
+      "author": "Annie Weissman",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/59909404"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap2.webp",
+      "author": "Dmitry Pietrow",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/401457058"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap3.webp",
+      "author": "Christian Pietzsch",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/398042158"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap4.webp",
+      "author": "Andrejus Gaidamavičius",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/398801748"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap5.webp",
+      "author": "K.P.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/389162763"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Aureoboletus_projectellus/Aureoboletus_projectellus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark at bottom right kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap1.webp",
+      "author": "Annie Weissman",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/59909404",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95759787/original.jpg",
+      "attribution": "© Annie Weissman, CC BY 4.0, via iNaturalist observation 59909404 / GBIF occurrence 3079518909",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap2.webp",
+      "author": "Dmitry Pietrow",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/401457058",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/736850650/original.jpg",
+      "attribution": "© Dmitry Pietrow, CC BY 4.0, via iNaturalist observation 401457058 / GBIF occurrence 6551129341",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap3.webp",
+      "author": "Christian Pietzsch",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/398042158",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/730134183/original.jpg",
+      "attribution": "Christian Pietzsch, CC0 1.0 Universal (no rights reserved), via iNaturalist observation 398042158 / GBIF occurrence 6519193469",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap4.webp",
+      "author": "Andrejus Gaidamavičius",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/398801748",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/731583995/original.jpg",
+      "attribution": "© Andrejus Gaidamavičius, CC BY 4.0, via iNaturalist observation 398801748 / GBIF occurrence 6551986452",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Boletaceae/Aureoboletus_projectellus/ap5.webp",
+      "author": "K.P.",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/389162763",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/712810251/original.jpg",
+      "attribution": "© K.P., CC BY 4.0, via iNaturalist observation 389162763 / GBIF occurrence 6481198807",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Ceriomyces projectellus",
+    "Boletus projectellus",
+    "Boletellus projectellus"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 10,
+  "reserved": false,
+  "id": 160,
+  "added": "2026-11-12",
+  "citation": "in Halling, Fechner, Nuhn, Osmundson, Soytong, Arora, Binder & Hibbett, Australian Systematic Botany 28: 19 (2015)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "No enclosed-region removal; pale section flesh and stipe interiors stay opaque",
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 8387,
+    "paperResidualP995": 2.1581862032966614,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Aureoboletus projectellus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "c37f37788a56cd1101ae731ad59a21fda34ecf13853127adad1a8b572150731e",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      79,
+      151,
+      841,
+      1108
+    ],
+    "uniformScale": 1.837270341207349,
+    "placement": [
+      100,
+      321
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1758
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 688125,
+    "opaquePixels": 359533,
+    "partialAlphaPixels": 27542,
+    "signatureBox": [
+      730,
+      1068,
+      796,
+      1102
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 212,
+    "preservedObjects": [
+      "left: a young fruit body with a small rounded orange-brown cap on a tall, slender, pinkish-brown, longitudinally ridged stipe with white basal mycelium",
+      "centre: a mature fruit body with a broad, convex, dull purplish-brown, finely felted cap with a fringed overhanging margin, on a very tall, coarsely lacerate-reticulate, reddish-brown stipe with white basal mycelium",
+      "upper right: a detached longitudinal section showing pinkish-white flesh, a wine-red cap rim, lemon-yellow tubes and a pinkish stipe ending in a ragged base",
+      "lower right: a fallen fruit body seen from below, showing an olive-yellow pore surface, a purplish-brown cap and a ridged reddish-brown stipe with soil at the base",
+      "ground: green moss, a pine sprig with paired long needles, fallen pine needles, a small pine cone and a patch of sandy soil",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t40u; IDs 154-159 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 40302.5,
+        "box": [
+          536,
+          371,
+          288,
+          397
+        ],
+        "medianContrast": 29.437768007444895
+      },
+      {
+        "area": 335385.0,
+        "box": [
+          80,
+          152,
+          760,
+          955
+        ],
+        "medianContrast": 87.67855891334253
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "SEE art_visual_review in art_provenance (set after full-size inspection)",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t40u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-159. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right (~x736-788, y1072-1098 in the 896x1200 source)",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform re-toned paper with synthetic vignette"
+      ],
+      "anatomyCaveat": "SEE art_visual_review (set after full-size inspection)",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "alphaPNGSHA256": "961883538a349738b35b6e8def4e715836132e23c596094f4cb210d2b3d54a32",
+    "maskSHA256": "d037f5e063a07abf48de185911fea7a26482304a757c6c3887cb5b89d0b85d52",
+    "recipeSHA256": "73966b63af37e805aeaed09020e23919eaa7b03ccf53bc88d6fdde78c602fae6",
+    "officialFiles": [
+      {
+        "path": "media/Aureoboletus_projectellus@1600.webp",
+        "bytes": 329354,
+        "sha256": "668744466f53ef7388692ce2de27ea4a01d8651f56abb4b9ae3762597d7d43c3"
+      },
+      {
+        "path": "media/Aureoboletus_projectellus@400.webp",
+        "bytes": 40464,
+        "sha256": "f3693eadbf64c36113ffb39578dd3f3be72cdf5f325265e68bbc8ec7516ebe53"
+      }
+    ],
+    "anatomyCaveat": "ART: AI-generated-looking illustration with an existing cursive \"Gemini\" mark (kept as found; none painted); credited \"Gemini\" in metadata only. Rights/authorship unverified. ANATOMY: (1) the sectioned upper-right figure has a SMOOTH pale pinkish-white stipe with no ridges or net, and a pinkish cap surface with a wine-red rim instead of reddish-brown; (2) its tubes are drawn as gill-like striations; (3) the mature centre stipe is drawn shaggy/lacerate (closer to A. russellii) rather than longitudinally ridged-reticulate; (4) the young left cap is bright orange. Long stipe, projecting cap margin, white basal mycelium, olive-yellow pores (fallen figure) and the pine needles/cone/sandy ground fit. Decision for Adrian."
   }
 }
 ];

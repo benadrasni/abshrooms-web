@@ -985,5 +985,11 @@ export const TAXA = {
   },
   Pseudoplectania: {
     rank: "genus"
+  },
+  Calonarius: {
+    rank: "genus"
+  },
+  Aureoboletus: {
+    rank: "genus"
   }
 };
