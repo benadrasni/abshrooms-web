@@ -154840,15 +154840,15 @@ export const CATALOG = [
       "sourceUrls": []
     }
   },
-  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
-  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@400.webp",
-  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
-  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@400.webp",
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp?v=2",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@400.webp?v=2",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp?v=2",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@400.webp?v=2",
   "plateCredit": {
     "author": "Gemini",
-    "credit": "Credit \"Gemini\" as requested (metadata only). The supplied image is a 19th-century-style colour illustration that appears AI-generated (cursive \"Gemini\" mark bottom right, Picasa-processed JPEG named .png, no matching historical plate found); it is not a documented botanical plate. The mark is not proof of authorship.",
+    "credit": "Credit \"Gemini\" as requested (metadata only). This is a replacement plate for the published ID 154 illustration. The supplied v2 file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896×1200, no source alpha). The file already had no Latin-name caption and already carried a cursive \"Gemini\" signature at bottom right; staging retained that mark once exactly as found and painted nothing. The mark is not proof of authorship. Not a documented botanical plate.",
     "license": "Rights unverified (AI-generated image; no human author or licence documented)",
-    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp?v=2"
   },
   "photos": [
     {
@@ -154893,9 +154893,9 @@ export const CATALOG = [
       "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
       "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
       "license": "Rights unverified (AI-generated image; no human author or licence documented)",
-      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp?v=2",
       "basedOn": [],
-      "existingMark": "\"Gemini\" cursive script mark bottom right; retained once exactly as found; no authorship/rights authentication"
+      "existingMark": "\"Gemini\" cursive script mark bottom right, present on the supplied v2 file. Retained once exactly as found; no mark added, painted or removed during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -154970,80 +154970,66 @@ export const CATALOG = [
   "citation": "Annls Sci. Nat., Bot., sér. 3 5: 163 (1846)",
   "illustrationProvenance": {
     "paperHolesRemoved": [],
-    "paperResidualP995": 2.3691274367699484,
+    "holeRemovalDisabled": "Enclosed pale interiors (white young fruit body, cut white gleba) kept opaque; no hole fill/removal",
+    "paperResidualP995": 2.5086429634266607,
     "contrastThreshold": 6,
     "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
-    "sourceFile": "Bovista paludosa.png",
+    "sourceFile": "Bovista_paludosa_plate_supplied.png",
     "sourceFormat": "JPEG",
-    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif present); no source alpha. A JPEG has no alpha channel; a real alpha was produced by segmenting the specimen, litter and the existing \"Gemini\" mark from a robust cubic paper fit, then compositing onto the standard background. Source RGB is unchanged; nothing was repainted.",
     "sourceDimensions": [
       896,
       1200
     ],
-    "sourceSHA256": "e82fddfdd8adc1cc0a1d386d7e8df8030855a106efe050ab3c71471bf13121a8",
+    "sourceSHA256": "9cf277b274a2787e777c781074e83c52245ce4d323629c0c17d846ed8473a437",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
     "alphaPNG": "artwork_rgba.png",
     "mask": "artwork_alpha_mask.png",
     "cropBBox": [
-      79,
-      375,
-      833,
-      1147
+      96,
+      256,
+      825,
+      1059
     ],
-    "uniformScale": 1.856763925729443,
+    "uniformScale": 1.9204389574759946,
     "placement": [
       100,
-      483
+      429
     ],
     "composedArtworkDimensions": [
       1400,
-      1433
+      1542
     ],
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 933334,
-    "opaquePixels": 131352,
-    "partialAlphaPixels": 10514,
+    "transparentPixels": 735139,
+    "opaquePixels": 320774,
+    "partialAlphaPixels": 19287,
     "signatureBox": [
-      748,
-      1106,
-      828,
-      1152
+      740,
+      1020,
+      820,
+      1070
     ],
     "signatureComponents": 3,
-    "signaturePixels": 342,
+    "signaturePixels": 314,
     "preservedObjects": [
-      "left: young fruit body, white, globose with a narrowed pleated pseudostem and fine root-like mycelial strands",
-      "centre: larger pear-shaped fruit body, cream with brown and ochre flecks (outer skin breaking into patches), narrowed base with mycelial strands",
-      "right: mature fruit body with dark grey-brown, wrinkled papery inner skin and an irregular apical opening, mycelial strands below",
-      "existing hand-script \"Gemini\" mark at bottom right"
+      "far left: a young, smooth, almost white pyriform fruit body with a narrowed base",
+      "left-centre: a cream, pear-shaped fruit body whose outer skin is breaking into pale polygonal patches",
+      "centre top: a larger ochre fruit body with a cracked, flaking outer skin and a dark opening",
+      "right-centre: a mature dark grey-brown fruit body with a wrinkled papery inner skin and an irregular apical opening, set in moss",
+      "lower right: a fruit body cut or shown as a white interior with a short pseudostem, moss at the crown, fine root-like mycelial strands below, and a green grass blade beside it",
+      "a cushion of green moss, some brown decaying moss, and fine grass blades around the group",
+      "existing hand-script \"Gemini\" mark at bottom right, present on the supplied file"
     ],
-    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only. The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "signatureTreatment": "The cursive \"Gemini\" mark on the supplied file was retained once exactly as found (alpha only). No mark was added, painted or removed during staging. The file already had no Latin name. The mark is not proof of authorship.",
     "contours": [
       {
-        "area": 30014.5,
+        "area": 326077.0,
         "box": [
-          80,
-          440,
-          176,
-          322
-        ]
-      },
-      {
-        "area": 41209.0,
-        "box": [
-          600,
-          416,
-          232,
-          312
-        ]
-      },
-      {
-        "area": 62811.5,
-        "box": [
-          304,
-          376,
-          264,
-          407
+          97,
+          257,
+          727,
+          797
         ]
       }
     ],
@@ -155055,43 +155041,72 @@ export const CATALOG = [
       1600,
       2400
     ],
+    "officialWebP": [
+      "media/Bovista_paludosa@1600.webp",
+      "media/Bovista_paludosa@400.webp"
+    ],
+    "officialDimensions": {
+      "@1600": [
+        1600,
+        2400
+      ],
+      "@400": [
+        400,
+        600
+      ]
+    },
+    "officialSHA256": {
+      "@1600": "940650f362b9700a3fcd43677f98a31c9cf0e844749b42fcad056aa35ba3dede",
+      "@400": "d9b5f1b7915a9fb87ab8af2e86bd0d96d19e4b767598e6d315e29617af8717e5",
+      "@1600_bytes": 351124,
+      "@400_bytes": 44406
+    },
     "generation": false,
     "repainting": false,
     "stretching": false,
     "sourcePaperRemoved": true,
-    "visualReview": "Full-size checker and composition inspected: all three fruit bodies and their fine mycelial strands kept whole (a thin pale paper fringe remains along some strands); paper and vignette removed by robust paper-only fit; existing Gemini mark kept once, in its original relative position; one standard background frame only; no double frame, no added mark.",
+    "doubleFrame": false,
     "requestedCredit": "Gemini",
-    "creditUse": "metadata only (art credit field); not painted or added",
+    "creditUse": "Plate credit/author remains \"Gemini\" as a metadata credit only. The supplied file is a 19th-century-style colour illustration that appears AI-generated. Rights unverified. Existing mark kept as found on the file; staging painted none.",
     "visibleMarks": [
-      "one cursive hand-script \"Gemini\" at bottom right (~x756-819, y1114-1145 in the 896x1200 source)",
-      "no plate number, no imprint line, no other text"
+      "one cursive hand-script \"Gemini\" at bottom right (~x749-809, y1031-1058 in the 896x1200 source)",
+      "no Latin-name caption, plate number, imprint line or other text"
     ],
     "provenanceAssessment": {
-      "verdict": "AI-GENERATED illustration in a 19th-century plate style (consistent with Google Gemini image generation); not a scan of a historical plate",
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
       "evidence": [
-        "The supplied mark reads \"Gemini\", the name of an image-generating AI model, in a modern cursive font",
-        "File named .png is a 896x1200 JPEG with Exif software Picasa and no source/download metadata, the same pattern as earlier Gemini-supplied art in this catalogue",
-        "No plate number, artist, engraver or publisher imprint; no historical plate of Bovista paludosa with this layout was identified",
-        "Uniformly smooth re-toned paper with a synthetic vignette, and texture typical of generated imagery"
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG/JFIF with Exif, the same pattern as the published v1 Gemini plate of this species and earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform cream paper with a soft vignette"
       ],
-      "anatomyCaveat": "Generally consistent with published descriptions (small white to cream globose-pyriform fruit bodies with a narrowed pleated base, outer skin breaking up, dark brown papery inner skin opening at the top, attachment by mycelial strands in moss), but the conspicuous brown/ochre flecking of the middle figure and the root-like strands are stylised; not a verified scientific illustration",
-      "rights": "Unverified; AI-generated output, no human author identified"
+      "anatomyNote": "The v2 composition shows five fruit-body stages on a moss cushion, including a white interior with mycelial strands, closer to a plate-style habit study than the three-figure v1 plate. Still a stylised AI illustration, not a verified scientific plate.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
     },
-    "alphaPNGSHA256": "9aabab9bc251128d7c1f3b5eb442a70fe120e48cad568f7130a90df4e198baab",
-    "maskSHA256": "b30ff25163675b54b3c96e156cb9e8593430a97206ef5e6816a13393a095db66",
-    "recipeSHA256": "fc524dfddc0fd641773e6ef625845478f70902973c9fc9ae4a53c1b2ab8219c7",
+    "alphaPNGSHA256": "b10236eecc065e29d8285ac0d331faa4669027e46c71f205f92ed08489091a11",
+    "maskSHA256": "a7a7be014a7e8b7d82cd640419f5feb596783553cd15bebe805bce4bde4a3878",
+    "recipeSHA256": "97c119df1ab74b882a17279e3e930f920accc43db4f83796943f5d79f0c3caaa",
     "officialFiles": [
       {
         "path": "media/Bovista_paludosa@1600.webp",
-        "bytes": 129420,
-        "sha256": "f028f1c21347cd5deff59d09023a494285bc5f084e77fe2a03aadfacf6bb7b6b"
+        "bytes": 351124,
+        "sha256": "940650f362b9700a3fcd43677f98a31c9cf0e844749b42fcad056aa35ba3dede",
+        "dims": [
+          1600,
+          2400
+        ]
       },
       {
         "path": "media/Bovista_paludosa@400.webp",
-        "bytes": 18010,
-        "sha256": "ee4250c425dcce4974c09c5251e4c9524457a78a29e22cf13dee68d5c8fed119"
+        "bytes": 44406,
+        "sha256": "d9b5f1b7915a9fb87ab8af2e86bd0d96d19e4b767598e6d315e29617af8717e5",
+        "dims": [
+          400,
+          600
+        ]
       }
-    ]
+    ],
+    "visualReview": "Full-size inspection of the source JPEG, the checker, the lossless composition and both official WebPs: all five fruit-body stages, moss, grass blades and mycelial strands are present; pale interiors of the young body and the white section stay opaque; source RGB is unchanged; the JPEG had no alpha, so a real alpha was produced by segmenting the specimen from a robust paper fit; uniform scale, no stretching, no double frame, nothing repainted. The cursive \"Gemini\" signature is complete (including i-dots) and remains readable at 400x600. No Latin-name caption or leftover letterforms were found at normal viewing or under invert/strong contrast."
   }
 },
 {
@@ -156780,15 +156795,15 @@ export const CATALOG = [
       "sourceUrls": []
     }
   },
-  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
-  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@400.webp",
-  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
-  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@400.webp",
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp?v=2",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@400.webp?v=2",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp?v=2",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@400.webp?v=2",
   "plateCredit": {
     "author": "Gemini",
-    "credit": "Credit \"Gemini\" as requested (metadata only; owner t29u, same as Bovista paludosa ID 154 and Phaeoclavulina roellinii ID 155). The supplied image is a 19th-century-style colour illustration that appears AI-generated (cursive \"Gemini\" mark bottom right, Picasa-processed JPEG named .png, no matching historical plate found); it is not a documented botanical plate. The mark is not proof of authorship.",
+    "credit": "Credit \"Gemini\" as requested (metadata only). This is a replacement plate for the published ID 156 illustration. The supplied v2 file is a 19th-century-style colour illustration that appears AI-generated (true PNG, 896×1200). Manager reported removing a Latin-name caption and painting the cursive \"Gemini\" signature at bottom right; staging retained that mark once exactly as found on the file and painted nothing. A very faint, illegible ghost of the removed caption remains in the source PNG lower margin and was not retouched; it does not appear on the official plate. The mark is not proof of authorship. Not a documented botanical plate.",
     "license": "Rights unverified (AI-generated image; no human author or licence documented)",
-    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp?v=2"
   },
   "photos": [
     {
@@ -156833,9 +156848,9 @@ export const CATALOG = [
       "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
       "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
       "license": "Rights unverified (AI-generated image; no human author or licence documented)",
-      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp?v=2",
       "basedOn": [],
-      "existingMark": "\"Gemini\" cursive script mark bottom right; retained once exactly as found; no new mark painted; no authorship/rights authentication"
+      "existingMark": "\"Gemini\" cursive script mark bottom right, present on the supplied v2 file (Manager reported painting it after removing a Latin-name caption). Retained once exactly as found on that file; no mark added, painted or removed during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -156907,98 +156922,70 @@ export const CATALOG = [
   "citation": "Docums Mycol. 13(no. 49): 56 (1983)",
   "illustrationProvenance": {
     "paperHolesRemoved": [],
-    "holeRemovalDisabled": "All 12 candidate enclosed low-contrast regions were pale stipe/ring interiors; kept opaque",
-    "paperPatchesExcluded": [
-      {
-        "area": 813.0,
-        "box": [
-          808,
-          1079,
-          37,
-          62
-        ],
-        "medianContrast": 7.361425870773756
-      }
-    ],
-    "edgePaperPixelsPeeled": 8132,
-    "paperResidualP995": 1.7300861376183783,
+    "holeRemovalDisabled": "Enclosed low-contrast interiors (pale stipe, young cap, cut-flesh highlights) kept opaque; no hole fill/removal",
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 6961,
+    "paperResidualP995": 4.15814975733162,
     "contrastThreshold": 6,
     "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
-    "sourceFile": "Agaricus bohusii.png",
-    "sourceFormat": "JPEG",
-    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceFile": "Agaricus_bohusii_plate_v2_gemini.png",
+    "sourceFormat": "PNG",
+    "sourceFormatNote": "True PNG, RGB, 896x1200, no source alpha; alpha produced by segmentation. SHA256 6a11859d4f9185cc175de8ba03f1991c5643d36fdaab143f74d5389c8093e5d7.",
     "sourceDimensions": [
       896,
       1200
     ],
-    "sourceSHA256": "a5391f88c71a48f237914225f04ff97cbe29d154b220e4a3e2ea8ee88b085e6b",
+    "sourceSHA256": "6a11859d4f9185cc175de8ba03f1991c5643d36fdaab143f74d5389c8093e5d7",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
     "alphaPNG": "artwork_rgba.png",
     "mask": "artwork_alpha_mask.png",
     "cropBBox": [
-      63,
-      151,
-      857,
-      1158
+      56,
+      183,
+      849,
+      1147
     ],
-    "uniformScale": 1.7632241813602014,
+    "uniformScale": 1.7654476670870114,
     "placement": [
       100,
-      312
+      349
     ],
     "composedArtworkDimensions": [
       1400,
-      1776
+      1702
     ],
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 697847,
-    "opaquePixels": 353559,
-    "partialAlphaPixels": 23794,
+    "transparentPixels": 528673,
+    "opaquePixels": 524602,
+    "partialAlphaPixels": 21925,
     "signatureBox": [
-      600,
-      1104,
-      706,
-      1162
+      650,
+      1098,
+      755,
+      1152
     ],
-    "signatureComponents": 3,
-    "signaturePixels": 542,
+    "signatureComponents": 4,
+    "signaturePixels": 578,
     "preservedObjects": [
-      "upper left: a young closed fruit body with a hemispherical cap covered in concentric brown scales and a short, bulbous whitish stipe",
-      "right: a mature upright fruit body with a convex, coarsely scaly brown cap, a large pendant ring, and a whitish fibrillose, spindle-shaped stipe tapering to a scurfy base",
-      "lower left: a fruit body lying on its side showing the pink-brown free gills, the ring and a long curved stipe with a club-shaped base",
-      "existing hand-script \"Gemini\" mark at bottom right"
+      "upper left: a mature fruit body with a convex, coarsely brown-scaly cap, a pendant ring and a pale fibrillose stipe",
+      "upper right: a mature fruit body leaning right, dark-brown gills, scaly cap and a pendant ring",
+      "centre rear: a third upright fruit body partly hidden between the two larger caps",
+      "lower left: a young closed, almost white fruit body with a brown patch at the apex and a short bulbous stipe",
+      "lower right: a fruit body cut lengthwise, showing reddish-pink flesh and a dark scaly cap margin, lying on oak leaves and moss",
+      "leaf-and-moss litter at the base (oak leaves, moss, soil)",
+      "existing hand-script \"Gemini\" mark at bottom right, present on the supplied file"
     ],
-    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only, both i-dots kept); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t29u, Bovista 154 / Phaeoclavulina 155 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "signatureTreatment": "The cursive \"Gemini\" mark on the supplied v2 file was retained once exactly as found (alpha only). No mark was added, painted or removed during staging. Manager reported having removed a Latin-name caption and painted this \"Gemini\" signature on the file before handover. The mark is not proof of authorship.",
     "contours": [
       {
-        "area": 153552.5,
+        "area": 537659.5,
         "box": [
-          64,
-          640,
-          589,
-          464
+          57,
+          184,
+          791,
+          908
         ],
-        "medianContrast": 116.44756667088338
-      },
-      {
-        "area": 164396.5,
-        "box": [
-          328,
-          232,
-          528,
-          684
-        ],
-        "medianContrast": 99.50444076841738
-      },
-      {
-        "area": 50360.5,
-        "box": [
-          95,
-          152,
-          233,
-          320
-        ],
-        "medianContrast": 134.71871089968312
+        "medianContrast": 100.58020866604859
       }
     ],
     "backgroundSourceDimensions": [
@@ -157009,44 +156996,74 @@ export const CATALOG = [
       1600,
       2400
     ],
+    "officialWebP": [
+      "media/Agaricus_bohusii@1600.webp",
+      "media/Agaricus_bohusii@400.webp"
+    ],
+    "officialDimensions": {
+      "@1600": [
+        1600,
+        2400
+      ],
+      "@400": [
+        400,
+        600
+      ]
+    },
+    "officialSHA256": {
+      "@1600": "44b20ba48726a88f89836ce9af8b05e6f9daab7be3d46c48d7cbc385a0e518e1",
+      "@400": "a5e7414953e33d1f76dabb280243c60fb5c7d79649a8ec0aa9b9a0a702d8d9ac",
+      "@1600_bytes": 511154,
+      "@400_bytes": 59674
+    },
     "generation": false,
     "repainting": false,
     "stretching": false,
     "sourcePaperRemoved": true,
-    "visualReview": "SEE art_visual_review in art_provenance (set after full-size inspection)",
+    "doubleFrame": false,
     "requestedCredit": "Gemini",
-    "creditUse": "Owner t29u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as Bovista paludosa (ID 154) and Phaeoclavulina roellinii (ID 155). Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "creditUse": "Plate credit/author remains \"Gemini\" as a metadata credit only. The supplied v2 file is a 19th-century-style colour illustration that appears AI-generated. Rights unverified. Existing mark kept as found on the file; staging painted none.",
     "visibleMarks": [
-      "one cursive hand-script \"Gemini\" at bottom right (~x607-698, y1112-1156 in the 896x1200 source; script body plus i-dots)",
-      "no plate number, no imprint line, no other text"
+      "one cursive hand-script \"Gemini\" at bottom right (~x657-746, y1103-1146 in the 896x1200 source)",
+      "no readable Latin-name caption, plate number, imprint line or other text",
+      "a very faint, illegible soft rectangular discoloration in the lower margin left of the signature, consistent with inpainting where a caption may have been removed; no leftover letterforms are legible even under invert and strong contrast",
+      "a few isolated paper-dust specks near the signature, not letterforms"
     ],
     "provenanceAssessment": {
       "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
       "evidence": [
-        "Supplied mark reads \"Gemini\" in a modern cursive font",
-        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art (IDs 140-144, 147-155)",
+        "Supplied mark reads \"Gemini\" in a modern cursive font; Manager reported painting that mark after removing a Latin-name caption",
+        "File is an 896x1200 RGB PNG with no embedded metadata, supplied as a replacement for the earlier Gemini plate of the same species",
         "No plate number, artist, engraver or publisher imprint",
-        "Uniform re-toned paper with synthetic vignette",
-        "A CC BY-SA 2.0 Commons photo of Agaricus bohusii (Flickr 33229461686, Lukas from London) was downloaded to the same Downloads folder 2 minutes earlier; it may have been a reference for the generation, but no derivation is established and none is claimed"
+        "Uniform cream paper with a soft vignette"
       ],
-      "anatomyCaveat": "Broadly consistent with published descriptions (coarse brown upturned scales on a paler ground, large double/pendant ring, spindle-shaped tapering stipe, pink then brown free gills), but stylised and drawn as three SEPARATE fruit bodies: the species typically grows in tight caespitose clusters with fused, rooting stipe bases, which the plate does not show; the reddening/browning of cut flesh is not shown. Not a verified scientific illustration.",
+      "anatomyNote": "The v2 composition shows a tight group on oak-leaf litter and a longitudinal section with reddish-pink flesh, closer to the species habit (caespitose clusters; reddening flesh) than the three separate fruit bodies of the published v1 plate. Still a stylised AI illustration, not a verified scientific plate.",
       "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
     },
-    "alphaPNGSHA256": "5469ca0d9da9bb9a85ebdf0ac127f7fef8afd50f9c7174be38a13bf9fe9a5f82",
-    "maskSHA256": "d8d74e6c99c8c4aeac2c5837a8710c7e35f3a8036caef89cff3772bf1370bab0",
-    "recipeSHA256": "f3767c0070d5d7e61e6288d68ed7f0c39240cb578faae1c0bb53eed87c222822",
+    "alphaPNGSHA256": "28ac145365870b76b450aaff11e50d861fbbba89533079bc77b93dcc3339a35e",
+    "maskSHA256": "b7648d5eefd40c4bc20f79b26c5ddd32e1a4cef2430a7cee9fa196c4e263a188",
+    "recipeSHA256": "a846e702e3fc6a4105e5037d23d33e939319d3445eca29166a302fc2d70100be",
     "officialFiles": [
       {
         "path": "media/Agaricus_bohusii@1600.webp",
-        "bytes": 374624,
-        "sha256": "eaec32c6bb73f7ba162a8289b724bc2800080d03e5b1512ace7eac287b27b737"
+        "bytes": 511154,
+        "sha256": "44b20ba48726a88f89836ce9af8b05e6f9daab7be3d46c48d7cbc385a0e518e1",
+        "dims": [
+          1600,
+          2400
+        ]
       },
       {
         "path": "media/Agaricus_bohusii@400.webp",
-        "bytes": 43588,
-        "sha256": "28507cc131a70e8cb66c7f5c4b4b30029f5803bb4c5df13b6d0eed1bed2bc61f"
+        "bytes": 59674,
+        "sha256": "a5e7414953e33d1f76dabb280243c60fb5c7d79649a8ec0aa9b9a0a702d8d9ac",
+        "dims": [
+          400,
+          600
+        ]
       }
-    ]
+    ],
+    "visualReview": "Full-size inspection of the source PNG, the checker, the lossless composition and both official WebPs: all organs, oak-leaf litter, moss and the cursive \"Gemini\" mark are present; pale stipe, young-cap and cut-flesh interiors stay opaque; source RGB is unchanged; paper is a real alpha, not an opaque page; uniform scale, no stretching, no double frame. The \"Gemini\" signature is complete (including i-dots) and remains readable at 400x600. A very faint ghost of a two-word italic caption, consistent with \"Agaricus bohusii\", is visible in the source PNG lower margin only under extreme contrast/residual analysis; those pixels were treated as paper and do not appear on the official composed plate. Staging did not paint or retouch them."
   }
 },
 {
@@ -158110,6 +158127,995 @@ export const CATALOG = [
         "path": "media/Suillus_collinitus@400.webp",
         "bytes": 13650,
         "sha256": "802230f6d837a36092afa9b9b8033b53682ed21c57825883fe0c1f4ff69389c7"
+      }
+    ]
+  }
+},
+{
+  "name": "Pseudoplectania melaena",
+  "author": "(Fr.) Sacc.",
+  "family": "Sarcosomataceae",
+  "genus": "Pseudoplectania",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Sarcosomataceae",
+    "Pseudoplectania"
+  ],
+  "summary": [
+    "Pezizales",
+    "Sarcosomataceae",
+    "Pseudoplectania"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood",
+    "ground"
+  ],
+  "color": [
+    "dark",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 6.0,
+  "stipeHeightFrom": 0.2,
+  "stipeHeightTo": 2.0,
+  "stipeThickFrom": 0.2,
+  "stipeThickTo": 0.7,
+  "label": {
+    "ar": "Pseudoplectania melaena",
+    "bg": "чернееща четинковидна плектания",
+    "cs": "ušíčko černavé",
+    "da": "Pseudoplectania melaena",
+    "de": "Gestielter Tannen-Schwarzborstling",
+    "en": "Pseudoplectania melaena",
+    "es": "Pseudoplectania melaena",
+    "et": "Pseudoplectania melaena",
+    "fa": "Pseudoplectania melaena",
+    "fi": "Pseudoplectania melaena",
+    "fr": "pézize des Vosges",
+    "he": "Pseudoplectania melaena",
+    "hi": "Pseudoplectania melaena",
+    "hr": "Pseudoplectania melaena",
+    "hu": "nyeles gyászoscsészegomba",
+    "id": "Pseudoplectania melaena",
+    "it": "Pseudoplectania melaena",
+    "ja": "ニセクロチャワンタケ",
+    "ko": "Pseudoplectania melaena",
+    "lt": "Pseudoplectania melaena",
+    "lv": "Pseudoplectania melaena",
+    "nl": "Pseudoplectania melaena",
+    "no": "Pseudoplectania melaena",
+    "pl": "czarkóweczka czarna",
+    "pt": "Pseudoplectania melaena",
+    "ro": "Pseudoplectania melaena",
+    "ru": "Pseudoplectania melaena",
+    "sk": "misôčka tmavá",
+    "sl": "temneča polpletenka",
+    "sr": "Pseudoplectania melaena",
+    "sv": "Pseudoplectania melaena",
+    "tr": "Pseudoplectania melaena",
+    "uk": "Pseudoplectania melaena",
+    "zh": "Pseudoplectania melaena"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "ušíčko jedlové"
+    ],
+    "da": [],
+    "de": [
+      "Gestielter Schwarzborstling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "czareczka czarniawa",
+      "czarkóweczka czarniawa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "http://e-ecodb.bas.bg/rdb/bg/vol1/Plemelae.html",
+      "https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%B5%D1%89%D0%B0_%D1%87%D0%B5%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0_%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+    ],
+    "cs": [
+      "https://portal.nature.cz/w/druh-79990",
+      "https://www.mykologie.net/index.php/houby/podle-morfologie/apothecia/item/980:pseudoplectania-melaena",
+      "https://www.iucnredlist.org/species/147440561/148048893"
+    ],
+    "da": [],
+    "de": [
+      "https://naturschutzbund.at/pilz-leser/items/id-2018-gestielter-tannen-schwarzborstling.html",
+      "https://www.iucnredlist.org/species/147440561/148048893",
+      "https://de.wikipedia.org/wiki/Pilz_des_Jahres_%28%C3%96sterreich%29",
+      "https://api.gbif.org/v1/species/8517490/vernacularNames"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=180025",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=180025",
+      "https://www.gbif.org/species/8517490",
+      "https://www.catalogueoflife.org/data/taxon/4P85Z",
+      "https://doi.org/10.25664/art-0080",
+      "https://ascomycete.org/Portals/0/Archives/AscomyceteOrg%2006-01%2017-33.pdf",
+      "https://www.iucnredlist.org/species/147440561/148048893",
+      "https://naturschutzbund.at/pilz-leser/items/id-2018-gestielter-tannen-schwarzborstling.html",
+      "https://www.gobe.si/Gobe/PseudoplectaniaMelaena",
+      "https://portal.nature.cz/w/druh-79990",
+      "http://e-ecodb.bas.bg/rdb/en/vol1/Plemelae.html",
+      "https://chawantake.sakura.ne.jp/data/Pseudoplectania_melaena.html",
+      "https://www.npsumava.cz/wp-content/uploads/2019/06/sg_19_2_holeckriz_final.pdf",
+      "https://en.wikipedia.org/wiki/Pseudoplectania"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://api.gbif.org/v1/species/8517490/vernacularNames",
+      "https://www.catalogueoflife.org/data/taxon/4P85Z"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+      "https://api.gbif.org/v1/species/8517490/vernacularNames"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://api.gbif.org/v1/species/8517490/vernacularNames",
+      "https://chawantake.sakura.ne.jp/data/Pseudoplectania_melaena.html"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "https://www.grzyby.pl/gatunki/Pseudoplectania_melaena.htm",
+      "https://pl.wikipedia.org/wiki/Pseudoplectania"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Pseudoplectania-melaena/misocka-tmava/usicko-cernave/ID2388",
+      "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2021/170/20250101",
+      "https://sk.wikipedia.org/wiki/Zoznam_chr%C3%A1nen%C3%BDch_rastl%C3%ADn_na_Slovensku",
+      "https://www.iucnredlist.org/species/147440561/148048893"
+    ],
+    "sl": [
+      "https://www.gobe.si/Gobe/PseudoplectaniaMelaena",
+      "https://sl.wikipedia.org/wiki/Rde%C4%8Di_seznam_gliv_v_Sloveniji"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كأسي صغير أسود قصير الساق ينمو في غابات الجبال على جذوع الشوح الساقطة شديدة التعفن والمكسوة بالطحالب، ويظهر في أواخر الشتاء وفي الربيع، وغالبًا بعد ذوبان الثلج بقليل. ينتشر في أنحاء أوروبا ضمن نطاق الشوح الأبيض، وكذلك في أمريكا الشمالية وشرق آسيا، لكنه نادر ومتناقص.",
+      "cap": "لا توجد قبعة: الجسم الثمري كأس قطرها ٢–٦ cm، تكون في البداية عميقة الشكل الكأسي، ثم تنفتح إلى وعاء ضحل أو قرص شبه مسطح، وتصبح مع التقدم في العمر متموجة أو غير منتظمة في الغالب. الحافة ملتفة إلى الداخل في الصغر، ثم ممزقة ومشعرة وأغمق من السطح الداخلي. السطح الخارجي أسود إلى بني مسود، متجعد ولبادي ناعم بفعل شعيرات قصيرة بنية داكنة.",
+      "hymenium": "تبطن الطبقة الخصبة داخل الكأس؛ وهي ملساء، سوداء تمامًا ولامعة في الصغر، ثم رمادية داكنة مع مسحة زيتونية أو بنية مسودة، لامعة في الرطوبة وباهتة في الجفاف. الأكياس أسطوانية، ٣٢٠–٤٥٠ × ١١–١٣ µm، ثمانية الأبواغ، تنفتح بغطاء ولا تزرق في اليود. الخيوط العقيمة رفيعة ومحجزة، منحنية إلى خطافية عند القمة، وبينها شعيرات مستقيمة مائلة إلى البني.",
+      "stipe": "ساق واضحة رفيعة سوداء، طولها ٠٫٢–٢ cm وسمكها ٠٫٢–٠٫٧ cm، أسطوانية متعرجة وملساء؛ وكثيرًا ما تكون غائرة في الطحالب أو الخشب بحيث قد تبدو الكأس عديمة الساق. تتثبت القاعدة بخصلة من ألياف الغزل الفطري البيضاء.",
+      "flesh": "رقيق، متين ومرن إلى حد ما، رمادي إلى رمادي زيتوني؛ وتصفه بعض الأوصاف بأنه أبيض شفاف.",
+      "sporePrint": "أبيض مائل (الأبواغ عديمة اللون). الأبواغ كروية، قطرها ١٢–١٣ µm (وفي بعض الأوصاف ١٠–١٤ µm)، ملساء وسميكة الجدار نسبيًا، تحوي قطرات زيت صغيرة أو قطرة كبيرة واحدة.",
+      "habitat": "رمّي على الخشب الميت للمخروطيات، وفي أوروبا يكاد يقتصر على الشوح الأبيض (Abies alba): غالبًا على جذوع كبيرة ساقطة سمكها ٤٠–٨٠ cm، شديدة التحلل، منزوعة اللحاء ومكسوة بالطحالب، وأحيانًا على أغصان مدفونة، فيبدو كأنه ينمو على الأرض. التنوب عائل نادر. ينمو منفردًا أو في مجموعات في غابات الزان والشوح والتنوب المختلطة القريبة من الحالة الطبيعية وفي غابات الوديان الضيقة في الجبال، ويثمر من أواخر الشتاء حتى الربيع، ولا سيما من مارس إلى مايو. وخارج أوروبا ينمو في أمريكا الشمالية على أشجار الشوح وعلى الثويا العملاقة (Thuja plicata)، ومعروف أيضًا من اليابان وتايوان والصين.",
+      "uses": "غير صالح للأكل: الأجسام الثمرية صغيرة ومتينة ولا قيمة طهوية لها.",
+      "confusion": "Pseudoplectania nigrella أصغر، سوداء بالكامل وعديمة الساق، وتنمو على الأرض في فرشة إبر التنوب والطحالب. أما Pseudoplectania lignicola فكؤوسها أصغر وتنمو غالبًا على خشب التنوب. وPseudoplectania sphagnophila أصغر من ذلك، بساق دقيقة، وتنمو بين طحالب السفاغنوم في المستنقعات الخثية. ولـ Plectania melastoma حبيبات برتقالية صدئية على السطح الخارجي، في حين تكوّن Sarcosoma globosum أجسامًا ثمرية أكبر بكثير مملوءة بالهلام.",
+      "notes": "يصنفه تقييم أُجري عام ٢٠١٩ عالميًا ضمن الأنواع القريبة من التهديد (Near Threatened): تُعرف نحو ١٧٠ مجموعة فرعية، وموطنه من غابات الشوح القديمة آخذ في التناقص، والجذوع الكبيرة المتعفنة من الشوح قليلة في الغابات المستغلة تجاريًا. وهو مدرج في القوائم الحمراء على الأقل كمهدد بالانقراض في ألمانيا والنمسا وسويسرا وسلوفاكيا والتشيك، وكمهدد بشدة بالانقراض في بلغاريا. وحيث يكثر خشب الشوح الميت قد يثمر بأعداد كبيرة، ويُعدّ مؤشرًا على الغابات القريبة من الحالة الطبيعية؛ وفي موقع واحد في النمسا عُثر عليه مرارًا من ١٩٩٢ إلى ٢٠١٧.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка черна чашковидна гъба с къс пънче, която расте в планински гори върху силно изгнили, обрасли с мъх паднали стволове на ела и се появява в края на зимата и през пролетта, често скоро след топенето на снега. Среща се в цяла Европа в ареала на бялата ела, а също в Северна Америка и Източна Азия, но е рядка и намалява.",
+      "cap": "Шапка няма: плодното тяло е чашка с диаметър 2–6 cm, отначало дълбоко чашковидна, после се разтваря в плитка паничка или почти плосък диск, с възрастта често вълниста или неправилна. Ръбът при младите плодни тела е подвит, по-късно накъсан, космат и по-тъмен от вътрешната страна. Външната повърхност е черна до черникавокафява, набръчкана и фино филцеста от къси тъмнокафяви власинки.",
+      "hymenium": "Плодният слой покрива вътрешността на чашката; той е гладък, при младите плодни тела изцяло черен и лъскав, по-късно тъмносив с маслинен оттенък или черникавокафяв, лъскав във влажно време и матов в сухо. Асците са цилиндрични, 320–450 × 11–13 µm, осемспорови, отварят се с капаче и не посиняват в йод. Тънките, септирани парафизи са извити до куковидни на върха, а между тях има прави кафеникави власинки.",
+      "stipe": "Ясно изразено, тънко черно пънче, дълго 0,2–2 cm и дебело 0,2–0,7 cm, цилиндрично, извито и гладко; често е дълбоко потънало в мъха или дървесината, така че чашката може да изглежда приседнала. Основата е прикрепена със снопче бели мицелни влакна.",
+      "flesh": "Тънка, жилава и доста еластична, сивкава до маслиненосива; според някои описания полупрозрачно белезникава.",
+      "sporePrint": "Белезникав (спорите са безцветни). Спорите са кълбовидни, с диаметър 12–13 µm (според някои описания 10–14 µm), гладки и с доста дебела стена, с дребни маслени капки или една голяма капка.",
+      "habitat": "Сапротроф върху мъртва иглолистна дървесина, в Европа почти само върху бяла ела (Abies alba): най-често върху големи паднали стволове с дебелина 40–80 cm, силно разложени, без кора и обрасли с мъх, понякога и върху заровени клони, така че може да изглежда, че расте на земята. Смърчът е рядък гостоприемник. Расте единично или на групи в естествени смесени букови-елови-смърчови и дерейни гори в планините и образува плодни тела от края на зимата до пролетта, главно от март до май. Извън Европа расте в Северна Америка върху ели и гигантска туя (Thuja plicata) и е известна също от Япония, Тайван и Китай.",
+      "uses": "Негодна за консумация: малките, жилави плодни тела нямат кулинарна стойност.",
+      "confusion": "Pseudoplectania nigrella е по-малка, изцяло черна и без пънче и расте на земята в смърчова постилка и мъх. Pseudoplectania lignicola има по-малки чашки и расте предимно върху смърчова дървесина. Pseudoplectania sphagnophila е още по-малка, с мъничко пънче, и расте сред сфагнум в торфища. Plectania melastoma има ръждивооранжеви гранули по външната страна, а Sarcosoma globosum образува много по-големи плодни тела, пълни с желе.",
+      "notes": "Оценка от 2019 г. я определя в световен мащаб като почти застрашена (Near Threatened): известни са около 170 субпопулации, местообитанието ѝ – старите елови гори – намалява, а големите гниещи елови стволове са малко в стопанските гори. В червените списъци е вписана най-малко като застрашена в Германия, Австрия, Швейцария, Словакия и Чехия и като критично застрашена в България. Там, където има много мъртва елова дървесина, може да плодоноси масово и се смята за индикатор за гори, близки до естествените; на едно находище в Австрия е намирана многократно от 1992 до 2017 г. В България е известна от Витошкия район (Плана планина) и Странджа (над село Кости).",
+      "names": [],
+      "sourceUrls": [
+        "http://e-ecodb.bas.bg/rdb/bg/vol1/Plemelae.html",
+        "https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%B5%D1%89%D0%B0_%D1%87%D0%B5%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0_%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
+      ],
+      "label": "чернееща четинковидна плектания"
+    },
+    "cs": {
+      "description": "Malá černá pohárkovitá houba s krátkým třeněm, která roste na silně zetlelých, mechem porostlých padlých kmenech jedlí v horských lesích a objevuje se koncem zimy a na jaře, často krátce po tání sněhu. Vyskytuje se v celé Evropě v areálu jedle bělokoré a také v Severní Americe a východní Asii, je však vzácná a ubývá.",
+      "cap": "Klobouk nemá: plodnice je pohárek 2–6 cm široký, zpočátku hluboce miskovitý, pak se otevírá do mělké misky nebo téměř plochého terčíku, ve stáří často zvlněný nebo nepravidelný. Okraj je v mládí podvinutý, později roztřepený, chlupatý a tmavší než vnitřní strana. Vnější povrch je černý až černohnědý, vrásčitý a jemně plstnatý od krátkých tmavohnědých chlupů.",
+      "hymenium": "Výtrusorodá vrstva vystýlá vnitřek pohárku; je hladká, v mládí celá černá a lesklá, později tmavě šedá s olivovým nádechem nebo černohnědá, za vlhka lesklá a za sucha matná. Vřecka jsou válcovitá, 320–450 × 11–13 µm, osmivýtrusá, otevírají se víčkem a v jódu nemodrají. Tenké, přehrádkované parafýzy jsou na konci zahnuté až hákovité a mezi nimi jsou rovné nahnědlé chlupy.",
+      "stipe": "Zřetelný, tenký černý třeň 0,2–2 cm dlouhý a 0,2–0,7 cm tlustý, válcovitý, ohebný a hladký; často je hluboko zanořený v mechu nebo dřevě, takže pohárek může vypadat jako přisedlý. Báze je přichycena chomáčem bílých myceliových vláken.",
+      "flesh": "Tenká, houževnatá a dosti pružná, šedavá až olivově šedá; podle některých popisů průsvitně bělavá.",
+      "sporePrint": "Bělavý (výtrusy jsou bezbarvé). Askospory jsou kulovité, 12–13 µm v průměru (podle některých popisů 10–14 µm), hladké, s poměrně tlustou stěnou a s drobnými olejovými kapkami nebo jednou velkou kapkou.",
+      "habitat": "Saprotrofní na mrtvém dřevě jehličnanů, v Evropě téměř výhradně na jedli bělokoré (Abies alba): většinou na mohutných padlých kmenech o průměru 40–80 cm, které jsou silně rozložené, bez kůry a porostlé mechem, někdy i na zahrabaných větvích, takže se může zdát, že roste na zemi. Smrk je vzácným hostitelem. Roste jednotlivě nebo ve skupinách v přirozených smíšených bukovo-jedlovo-smrkových a suťových lesích v horách a plodnice tvoří od konce zimy do jara, hlavně od března do května. Mimo Evropu roste v Severní Americe na jedlích a zeravu obrovském (Thuja plicata) a je známa také z Japonska, Tchaj-wanu a Číny.",
+      "uses": "Nejedlá: malé, houževnaté plodnice nemají kulinářskou hodnotu.",
+      "confusion": "Pseudoplectania nigrella je menší, celá černá a bez třeně a roste na zemi ve smrkovém opadu a mechu. Pseudoplectania lignicola má menší pohárky a roste hlavně na smrkovém dřevě. Pseudoplectania sphagnophila je ještě menší, s drobným třeněm, a roste mezi rašeliníky na rašeliništích. Plectania melastoma má na vnější straně rezavě oranžová zrníčka a Sarcosoma globosum tvoří mnohem větší plodnice vyplněné rosolem.",
+      "notes": "Hodnocení z roku 2019 ji celosvětově řadí mezi téměř ohrožené druhy (Near Threatened): je známo asi 170 subpopulací, její biotop starých jedlových lesů ubývá a v hospodářských lesích je velkých tlejících jedlových kmenů málo. Na červených seznamech je vedena nejméně jako ohrožená v Německu, Rakousku, Švýcarsku, na Slovensku a v Česku a jako kriticky ohrožená v Bulharsku. Kde je dost mrtvého jedlového dřeva, může plodit ve velkém množství a je považována za indikátor přírodě blízkých lesů; na jedné lokalitě v Rakousku byla opakovaně nalézána v letech 1992 až 2017. V Česku je v současnosti známa z méně než deseti lokalit, hlavně z pralesovitých rezervací na Šumavě, v Novohradských horách, Moravském krasu a Beskydech.",
+      "names": [
+        "ušíčko jedlové"
+      ],
+      "sourceUrls": [
+        "https://portal.nature.cz/w/druh-79990",
+        "https://www.mykologie.net/index.php/houby/podle-morfologie/apothecia/item/980:pseudoplectania-melaena",
+        "https://www.iucnredlist.org/species/147440561/148048893"
+      ],
+      "label": "ušíčko černavé"
+    },
+    "da": {
+      "description": "En lille, sort, kortstilket bægersvamp, der vokser på meget morsne, mosbevoksede liggende stammer af ædelgran i bjergskove og kommer frem sidst på vinteren og om foråret, ofte kort efter snesmeltningen. Den findes i hele Europa inden for ædelgranens udbredelse og desuden i Nordamerika og Østasien, men den er sjælden og i tilbagegang.",
+      "cap": "Der er ingen hat: frugtlegemet er et bæger, 2–6 cm i diameter, først dybt bægerformet, siden åbnet til en lav skål eller en næsten flad skive, med alderen ofte bølget eller uregelmæssig. Randen er indbøjet hos unge frugtlegemer, senere flosset, håret og mørkere end indersiden. Ydersiden er sort til sortbrun, rynket og fint filtet af korte, mørkebrune hår.",
+      "hymenium": "Det frugtbare lag beklæder bægerets inderside; det er glat, som ungt helt sort og blankt, senere mørkegråt med olivenskær eller sortbrunt, blankt i fugtigt vejr og mat i tørt. Sporesækkene (asci) er cylindriske, 320–450 × 11–13 µm, ottesporede, åbner sig med et låg og bliver ikke blå i jod. De tynde, septerede parafyser er bøjede til krogede i spidsen, og imellem dem står lige, brunlige hår.",
+      "stipe": "En tydelig, tynd, sort stok, 0,2–2 cm lang og 0,2–0,7 cm tyk, cylindrisk, bugtet og glat; den sidder ofte dybt i mosset eller veddet, så bægeret kan se ustilket ud. Basis er hæftet fast med en dusk af hvide myceliefibre.",
+      "flesh": "Tyndt, sejt og temmelig elastisk, gråligt til olivengråt; nogle beskrivelser kalder det gennemskinneligt hvidligt.",
+      "sporePrint": "Hvidligt (sporerne er farveløse). Sporerne er kugleformede, 12–13 µm i diameter (10–14 µm ifølge nogle beskrivelser), glatte og temmelig tykvæggede, med små oliedråber eller én stor dråbe.",
+      "habitat": "Saprotrof på dødt nåletræ, i Europa næsten kun på ædelgran (Abies alba): mest på store liggende stammer, 40–80 cm tykke, der er stærkt nedbrudte, barkløse og mosbevoksede, undertiden også på nedgravede grene, så den kan synes at vokse på jorden. Rødgran er en sjælden vært. Den vokser enkeltvis eller i grupper i naturnære blandskove af bøg, ædelgran og rødgran og i kløftskove i bjergene og danner frugtlegemer fra sidst på vinteren til foråret, mest fra marts til maj. Uden for Europa vokser den i Nordamerika på ædelgraner og kæmpethuja (Thuja plicata), og den kendes også fra Japan, Taiwan og Kina.",
+      "uses": "Uspiselig: de små, seje frugtlegemer har ingen kulinarisk værdi.",
+      "confusion": "Pseudoplectania nigrella er mindre, helt sort og ustilket og vokser på jorden i rødgranførne og mos. Pseudoplectania lignicola har mindre bægre og vokser mest på rødgranved. Pseudoplectania sphagnophila er endnu mindre, med en ganske lille stok, og vokser mellem tørvemos i moser. Plectania melastoma har rustorange korn på ydersiden, og Sarcosoma globosum danner langt større frugtlegemer fyldt med gelé.",
+      "notes": "En vurdering fra 2019 betegner den globalt som næsten truet (Near Threatened): omkring 170 delbestande kendes, dens levested, gamle ædelgranskove, går tilbage, og store, morsne ædelgranstammer er sjældne i driftsskove. Den står på rødlisterne mindst som truet (Endangered) i Tyskland, Østrig, Schweiz, Slovakiet og Tjekkiet og som kritisk truet i Bulgarien. Hvor der er rigeligt dødt ædelgranved, kan den sætte frugtlegemer i stort tal, og den regnes for en indikator for naturnære skove; på en lokalitet i Østrig blev den fundet gentagne gange fra 1992 til 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein kleiner, schwarzer, kurz gestielter Becherling, der auf stark vermorschten, bemoosten liegenden Tannenstämmen in Bergwäldern wächst und im Spätwinter und Frühling erscheint, oft bald nach der Schneeschmelze. Er kommt in ganz Europa im Verbreitungsgebiet der Weißtanne sowie in Nordamerika und Ostasien vor, ist aber selten und im Rückgang.",
+      "cap": "Einen Hut gibt es nicht: Der Fruchtkörper ist ein Becher von 2–6 cm Durchmesser, zuerst tief becherförmig, dann zu einer flachen Schale oder fast flachen Scheibe geöffnet, im Alter oft wellig oder unregelmäßig. Der Rand ist jung eingebogen, später ausgefranst, behaart und dunkler als die Innenseite. Die Außenseite ist schwarz bis schwarzbraun, runzelig und fein filzig von kurzen, dunkelbraunen Haaren.",
+      "hymenium": "Die fruchtbare Schicht kleidet das Innere des Bechers aus; sie ist glatt, jung ganz schwarz und glänzend, später dunkelgrau mit olivfarbenem Ton oder schwarzbraun, feucht glänzend und trocken matt. Die Schläuche (Asci) sind zylindrisch, 320–450 × 11–13 µm, achtsporig, öffnen sich mit einem Deckel und färben sich in Jod nicht blau. Die dünnen, septierten Paraphysen sind an der Spitze gebogen bis hakig, dazwischen stehen gerade, bräunliche Haare.",
+      "stipe": "Ein deutlicher, dünner schwarzer Stiel, 0,2–2 cm lang und 0,2–0,7 cm dick, zylindrisch, verbogen und glatt; oft steckt er tief im Moos oder Holz, sodass der Becher ungestielt wirken kann. Die Basis ist mit einem Büschel weißer Myzelfasern angeheftet.",
+      "flesh": "Dünn, zäh und ziemlich elastisch, gräulich bis olivgrau; manche Beschreibungen nennen es durchscheinend weißlich.",
+      "sporePrint": "Weißlich (die Sporen sind farblos). Die Sporen sind kugelig, 12–13 µm im Durchmesser (nach manchen Beschreibungen 10–14 µm), glatt und ziemlich dickwandig, mit kleinen Öltropfen oder einem großen Tropfen.",
+      "habitat": "Saprotroph auf totem Nadelholz, in Europa fast nur auf Weißtanne (Abies alba): meist auf großen liegenden Stämmen von 40–80 cm Dicke, die stark vermorscht, entrindet und bemoost sind, manchmal auch auf vergrabenen Ästen, sodass er scheinbar auf dem Boden wächst. Fichte ist ein seltenes Substrat. Er wächst einzeln oder gesellig in naturnahen Buchen-Tannen-Fichten-Mischwäldern und Schluchtwäldern der Berglagen und fruchtet vom Spätwinter bis in den Frühling, hauptsächlich von März bis Mai. Außerhalb Europas wächst er in Nordamerika auf Tannen und Riesen-Lebensbaum (Thuja plicata) und ist auch aus Japan, Taiwan und China bekannt.",
+      "uses": "Ungenießbar: Die kleinen, zähen Fruchtkörper haben keinen Speisewert.",
+      "confusion": "Pseudoplectania nigrella ist kleiner, ganz schwarz und ungestielt und wächst am Boden in Fichtenstreu und Moos. Pseudoplectania lignicola hat kleinere Becher und wächst vor allem auf Fichtenholz. Pseudoplectania sphagnophila ist noch kleiner, mit winzigem Stiel, und wächst zwischen Torfmoosen in Mooren. Plectania melastoma hat außen rostorange Körnchen, und Sarcosoma globosum bildet viel größere, mit Gallerte gefüllte Fruchtkörper.",
+      "notes": "Pilz des Jahres 2018 in Österreich. Eine Bewertung von 2019 stuft ihn weltweit als potenziell gefährdet (Near Threatened) ein: Etwa 170 Teilpopulationen sind bekannt, sein Lebensraum, alte Tannenwälder, schwindet, und große morsche Tannenstämme sind in Wirtschaftswäldern selten. In Deutschland, Österreich, der Schweiz, der Slowakei und Tschechien steht er mindestens als stark gefährdet auf der Roten Liste, in Bulgarien als vom Aussterben bedroht. Wo reichlich Tannentotholz vorhanden ist, kann er sehr zahlreich fruchten, und er gilt als Zeigerart naturnaher Wälder; an einem Fundort in Österreich wurde er von 1992 bis 2017 wiederholt gefunden.",
+      "names": [
+        "Gestielter Schwarzborstling"
+      ],
+      "sourceUrls": [
+        "https://naturschutzbund.at/pilz-leser/items/id-2018-gestielter-tannen-schwarzborstling.html",
+        "https://www.iucnredlist.org/species/147440561/148048893",
+        "https://de.wikipedia.org/wiki/Pilz_des_Jahres_%28%C3%96sterreich%29",
+        "https://api.gbif.org/v1/species/8517490/vernacularNames"
+      ],
+      "label": "Gestielter Tannen-Schwarzborstling"
+    },
+    "en": {
+      "description": "A small, black, short-stalked cup fungus that grows on very rotten, moss-covered fallen trunks of fir in mountain forests and appears in late winter and spring, often soon after the snow melts. It occurs across Europe within the range of silver fir and also in North America and East Asia, but it is rare and declining.",
+      "cap": "There is no cap: the fruit body is a cup 2–6 cm across, deeply cup-shaped at first, then opening to a shallow bowl or almost flat disc, often wavy or irregular in age. The margin is incurved when young, later ragged, hairy and darker than the inner surface. The outer surface is black to blackish brown, wrinkled and finely felted with short, dark brown hairs.",
+      "hymenium": "The fertile layer lines the inside of the cup; it is smooth, wholly black and shiny when young, later dark grey with an olive tinge or blackish brown, glossy when moist and dull when dry. The asci are cylindrical, 320–450 × 11–13 µm, eight-spored, open by a lid and do not turn blue in iodine. The thin, septate paraphyses are curved to hooked at the tip, with straight brownish hairs among them.",
+      "stipe": "A distinct, thin black stalk 0.2–2 cm long and 0.2–0.7 cm thick, cylindrical, flexuous and smooth; it is often sunk deep in the moss or wood, so the cup can look stalkless. The base is attached by a tuft of white mycelial fibres.",
+      "flesh": "Thin, tough and rather elastic, greyish to olive grey; some descriptions call it translucent whitish.",
+      "sporePrint": "Whitish (the spores are colourless). The spores are globose, 12–13 µm across (10–14 µm in some descriptions), smooth and fairly thick-walled, with small oil drops or one large drop.",
+      "habitat": "Saprotrophic on dead conifer wood, in Europe almost only on silver fir (Abies alba): mostly large fallen trunks 40–80 cm thick that are well decayed, barkless and covered in moss, and sometimes buried branches, so that it can seem to grow on the ground. Spruce is a rare host. It grows singly or in groups in near-natural mixed beech–fir–spruce and ravine forests in the mountains, fruiting from late winter to spring, mainly from March to May. Outside Europe it grows on fir and western red cedar (Thuja plicata) in North America and is also known from Japan, Taiwan and China.",
+      "uses": "Inedible: the small, tough fruit bodies have no culinary value.",
+      "confusion": "Pseudoplectania nigrella is smaller, entirely black and stalkless, and grows on the ground in spruce litter and moss. Pseudoplectania lignicola has smaller cups and grows mostly on spruce wood. Pseudoplectania sphagnophila is smaller still, with a tiny stalk, and grows among Sphagnum in bogs. Plectania melastoma has rusty orange granules on the outside, and Sarcosoma globosum forms much larger fruit bodies filled with jelly.",
+      "notes": "A 2019 assessment rates it globally as Near Threatened: about 170 subpopulations are known, its old-growth fir forest habitat is declining, and large rotting fir trunks are scarce in commercially managed forests. It is red-listed as at least endangered in Germany, Austria, Switzerland, Slovakia and the Czech Republic, and as critically endangered in Bulgaria. Where dead fir wood is plentiful it can fruit in large numbers, and it is regarded as an indicator of near-natural forests; at one Austrian site it was found repeatedly from 1992 to 2017.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=180025",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=180025",
+        "https://www.gbif.org/species/8517490",
+        "https://www.catalogueoflife.org/data/taxon/4P85Z",
+        "https://doi.org/10.25664/art-0080",
+        "https://ascomycete.org/Portals/0/Archives/AscomyceteOrg%2006-01%2017-33.pdf",
+        "https://www.iucnredlist.org/species/147440561/148048893",
+        "https://naturschutzbund.at/pilz-leser/items/id-2018-gestielter-tannen-schwarzborstling.html",
+        "https://www.gobe.si/Gobe/PseudoplectaniaMelaena",
+        "https://portal.nature.cz/w/druh-79990",
+        "http://e-ecodb.bas.bg/rdb/en/vol1/Plemelae.html",
+        "https://chawantake.sakura.ne.jp/data/Pseudoplectania_melaena.html",
+        "https://www.npsumava.cz/wp-content/uploads/2019/06/sg_19_2_holeckriz_final.pdf",
+        "https://en.wikipedia.org/wiki/Pseudoplectania"
+      ]
+    },
+    "es": {
+      "description": "Un pequeño hongo de copa negro, de pie corto, que crece sobre troncos caídos de abeto muy podridos y cubiertos de musgo en bosques de montaña y aparece a finales del invierno y en primavera, a menudo poco después del deshielo. Se encuentra en toda Europa dentro del área del abeto blanco y también en Norteamérica y Asia oriental, pero es raro y está en declive.",
+      "cap": "No tiene sombrero: el cuerpo fructífero es una copa de 2–6 cm de diámetro, al principio profundamente cupuliforme, luego abierta en un cuenco poco profundo o un disco casi plano, a menudo ondulado o irregular con la edad. El margen es incurvado en los ejemplares jóvenes, luego erosionado, peloso y más oscuro que la cara interna. La superficie externa es de negra a marrón negruzca, arrugada y finamente afieltrada por pelos cortos de color marrón oscuro.",
+      "hymenium": "La capa fértil reviste el interior de la copa; es lisa, al principio totalmente negra y brillante, luego gris oscura con tono oliváceo o marrón negruzca, brillante en tiempo húmedo y mate en seco. Las ascas son cilíndricas, de 320–450 × 11–13 µm, octospóricas, se abren por un opérculo y no se tiñen de azul con el yodo. Las paráfisis, delgadas y septadas, son curvas a ganchudas en el ápice, con pelos rectos parduscos entre ellas.",
+      "stipe": "Un pie bien definido, delgado y negro, de 0,2–2 cm de largo y 0,2–0,7 cm de grosor, cilíndrico, flexuoso y liso; a menudo está hundido en el musgo o la madera, de modo que la copa puede parecer sésil. La base se fija mediante un mechón de fibras miceliares blancas.",
+      "flesh": "Delgada, tenaz y bastante elástica, de grisácea a gris oliva; algunas descripciones la consideran blanquecina translúcida.",
+      "sporePrint": "Blanquecina (las esporas son incoloras). Las esporas son globosas, de 12–13 µm de diámetro (10–14 µm según algunas descripciones), lisas y de pared bastante gruesa, con pequeñas gútulas oleosas o una sola gota grande.",
+      "habitat": "Saprótrofo sobre madera muerta de coníferas, en Europa casi solo sobre abeto blanco (Abies alba): sobre todo en grandes troncos caídos de 40–80 cm de grosor, muy descompuestos, descortezados y cubiertos de musgo, y a veces en ramas enterradas, de modo que puede parecer que crece en el suelo. La pícea es un huésped raro. Crece solitario o en grupos en bosques mixtos de haya, abeto y pícea cercanos al estado natural y en bosques de barranco de montaña, y fructifica desde finales del invierno hasta la primavera, sobre todo de marzo a mayo. Fuera de Europa crece en Norteamérica sobre abetos y sobre el cedro rojo occidental (Thuja plicata) y se conoce también de Japón, Taiwán y China.",
+      "uses": "No comestible: sus cuerpos fructíferos, pequeños y tenaces, no tienen valor culinario.",
+      "confusion": "Pseudoplectania nigrella es más pequeña, totalmente negra y sin pie, y crece en el suelo entre la hojarasca de pícea y el musgo. Pseudoplectania lignicola tiene copas más pequeñas y crece sobre todo en madera de pícea. Pseudoplectania sphagnophila es aún más pequeña, con un pie diminuto, y crece entre esfagnos en turberas. Plectania melastoma tiene gránulos de color naranja óxido en la cara externa, y Sarcosoma globosum forma cuerpos fructíferos mucho mayores, llenos de gelatina.",
+      "notes": "Una evaluación de 2019 lo clasifica a escala mundial como casi amenazado (Near Threatened): se conocen unas 170 subpoblaciones, su hábitat de abetales viejos está en retroceso y los grandes troncos podridos de abeto escasean en los bosques explotados. Figura en las listas rojas al menos como en peligro en Alemania, Austria, Suiza, Eslovaquia y la República Checa, y como en peligro crítico en Bulgaria. Donde abunda la madera muerta de abeto puede fructificar en gran número, y se considera un indicador de bosques cercanos al estado natural; en una localidad austriaca se encontró repetidamente entre 1992 y 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike must lühikese jalaga karikseen, mis kasvab mägimetsades väga kõdunenud, sammaldunud lamapuuna lebavatel nulutüvedel ning ilmub hilistalvel ja kevadel, sageli varsti pärast lume sulamist. Seda leidub kogu Euroopas euroopa nulu levilas ning ka Põhja-Ameerikas ja Ida-Aasias, kuid see on haruldane ja taandub.",
+      "cap": "Kübarat ei ole: viljakeha on 2–6 cm läbimõõduga karikas, algul sügavalt karikakujuline, hiljem avaneb madalaks kausiks või peaaegu lamedaks kettaks, vanana sageli laineline või ebakorrapärane. Serv on noorelt sissepoole keerdunud, hiljem narmendav, karvane ja sisepinnast tumedam. Välispind on must kuni mustjaspruun, kortsus ja lühikestest tumepruunidest karvadest peenelt viltjas.",
+      "hymenium": "Eoskiht vooderdab kariku sisepinda; see on sile, noorelt üleni must ja läikiv, hiljem oliivika varjundiga tumehall või mustjaspruun, niiskelt läikiv ja kuivalt matt. Eoskotid on silindrilised, 320–450 × 11–13 µm, kaheksaeoselised, avanevad kaanega ega muutu joodis siniseks. Peenikesed, vaheseintega parafüüsid on tipust kõverad kuni konksjad ning nende vahel on sirged pruunikad karvad.",
+      "stipe": "Selgelt eristuv peenike must jalg, 0,2–2 cm pikk ja 0,2–0,7 cm jäme, silindriline, looklev ja sile; see on sageli sügavalt sambla või puidu sees, nii et karikas võib paista jalatu. Alus on kinnitunud valgete seeneniidikiudude tutiga.",
+      "flesh": "Õhuke, sitke ja üsna elastne, hallikas kuni oliivhall; mõne kirjelduse järgi läbikumav valkjas.",
+      "sporePrint": "Valkjas (eosed on värvitud). Eosed on kerajad, läbimõõduga 12–13 µm (mõne kirjelduse järgi 10–14 µm), siledad ja üsna paksuseinalised, väikeste õlitilkade või ühe suure tilgaga.",
+      "habitat": "Saprotroof okaspuude surnud puidul, Euroopas peaaegu ainult euroopa nulul (Abies alba): enamasti suurtel, 40–80 cm jämedustel lamatüvedel, mis on tugevasti lagunenud, kooreta ja sammaldunud, mõnikord ka mattunud okstel, nii et võib tunduda, nagu kasvaks see maas. Kuusel kasvab harva. Kasvab üksikult või rühmiti looduslähedastes pöögi-nulu-kuuse segametsades ja mägede jäärakumetsades ning viljub hilistalvest kevadeni, peamiselt märtsist maini. Väljaspool Euroopat kasvab Põhja-Ameerikas nulgudel ja hiigeltuijal (Thuja plicata) ning on teada ka Jaapanist, Taiwanist ja Hiinast.",
+      "uses": "Mittesöödav: väikestel sitketel viljakehadel puudub kulinaarne väärtus.",
+      "confusion": "Pseudoplectania nigrella on väiksem, üleni must ja jalatu ning kasvab maas kuusekõdus ja samblas. Pseudoplectania lignicola karikad on väiksemad ja see kasvab peamiselt kuusepuidul. Pseudoplectania sphagnophila on veelgi väiksem, pisikese jalaga, ja kasvab soodes turbasammalde vahel. Plectania melastoma välispinnal on roosteoranžid terakesed ning Sarcosoma globosum moodustab palju suuremaid, želeega täidetud viljakehi.",
+      "notes": "2019. aasta hinnangu järgi on see ülemaailmselt ohulähedane (Near Threatened): teada on umbes 170 alampopulatsiooni, selle elupaik, vanad nulumetsad, väheneb ning suuri kõdunevaid nulutüvesid on majandusmetsades vähe. See on punastes nimistutes vähemalt ohustatuna Saksamaal, Austrias, Šveitsis, Slovakkias ja Tšehhis ning äärmiselt ohustatuna Bulgaarias. Kus surnud nulupuitu on rohkesti, võib see viljuda väga arvukalt, ning seda peetakse looduslähedaste metsade indikaatorliigiks; ühes Austria leiukohas leiti seda korduvalt aastatel 1992–2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچی فنجانی، کوچک، سیاه و با پایهٔ کوتاه که در جنگل‌های کوهستانی روی تنه‌های افتادهٔ بسیار پوسیده و خزه‌پوش نراد می‌روید و در اواخر زمستان و در بهار، اغلب اندکی پس از آب شدن برف، ظاهر می‌شود. در سراسر اروپا در محدودهٔ پراکنش نراد سفید و همچنین در آمریکای شمالی و شرق آسیا یافت می‌شود، اما کمیاب است و رو به کاهش دارد.",
+      "cap": "کلاهک ندارد: اندام باردهی فنجانی به قطر ۲–۶ cm است که نخست عمیقاً فنجانی شکل است، سپس به کاسه‌ای کم‌عمق یا صفحه‌ای تقریباً تخت باز می‌شود و با افزایش سن اغلب موج‌دار یا نامنظم است. لبه در جوانی به درون برگشته، بعدها ریش‌ریش، کرک‌دار و تیره‌تر از سطح درونی است. سطح بیرونی سیاه تا قهوه‌ای مایل به سیاه، چروکیده و به‌سبب کرک‌های کوتاه قهوه‌ای تیره، ریز نمدی است.",
+      "hymenium": "لایهٔ بارور درون فنجان را می‌پوشاند؛ صاف است، در جوانی یکسره سیاه و براق، بعدها خاکستری تیره با ته‌رنگ زیتونی یا قهوه‌ای مایل به سیاه، در هوای مرطوب براق و در خشکی مات. آسک‌ها استوانه‌ای، ۳۲۰–۴۵۰ × ۱۱–۱۳ µm، هشت‌هاگی‌اند، با سرپوش باز می‌شوند و در ید آبی نمی‌شوند. پارافیزهای باریک و دیواره‌دار در نوک خمیده تا قلاب‌مانندند و میان آن‌ها کرک‌های راست مایل به قهوه‌ای دیده می‌شود.",
+      "stipe": "پایه‌ای مشخص، باریک و سیاه، به طول ۰٫۲–۲ cm و ضخامت ۰٫۲–۰٫۷ cm، استوانه‌ای، پیچ‌دار و صاف؛ اغلب در خزه یا چوب عمیقاً فرو رفته است، چنان‌که فنجان ممکن است بی‌پایه به نظر برسد. قاعده با دسته‌ای از رشته‌های سفید میسلیوم چسبیده است.",
+      "flesh": "نازک، سفت و نسبتاً کشسان، خاکستری‌گون تا خاکستری زیتونی؛ برخی توصیف‌ها آن را سفیدفام و نیمه‌شفاف می‌دانند.",
+      "sporePrint": "سفیدفام (هاگ‌ها بی‌رنگ‌اند). هاگ‌ها کروی، به قطر ۱۲–۱۳ µm (در برخی توصیف‌ها ۱۰–۱۴ µm)، صاف و با دیوارهٔ نسبتاً ضخیم‌اند و قطره‌های ریز روغن یا یک قطرهٔ درشت دارند.",
+      "habitat": "گندرو روی چوب مردهٔ سوزنی‌برگان، و در اروپا تقریباً فقط روی نراد سفید (Abies alba): بیشتر روی تنه‌های افتادهٔ بزرگ به ضخامت ۴۰–۸۰ cm که به‌شدت پوسیده، بی‌پوست و خزه‌پوش‌اند، و گاهی روی شاخه‌های مدفون، به‌طوری که ممکن است به نظر برسد روی زمین می‌روید. نوئل میزبانی کمیاب است. به‌صورت تکی یا گروهی در جنگل‌های آمیختهٔ راش، نراد و نوئلِ نزدیک به حالت طبیعی و در جنگل‌های دره‌ای کوهستان می‌روید و از اواخر زمستان تا بهار، به‌ویژه از مارس تا مه، اندام باردهی تشکیل می‌دهد. بیرون از اروپا در آمریکای شمالی روی نرادها و سرو قرمز غربی (Thuja plicata) می‌روید و از ژاپن، تایوان و چین نیز شناخته شده است.",
+      "uses": "خوراکی نیست: اندام‌های باردهی کوچک و سفت ارزش خوراکی ندارند.",
+      "confusion": "Pseudoplectania nigrella کوچک‌تر، یکسره سیاه و بی‌پایه است و روی زمین در لاشبرگ نوئل و خزه می‌روید. Pseudoplectania lignicola فنجان‌های کوچک‌تری دارد و بیشتر روی چوب نوئل می‌روید. Pseudoplectania sphagnophila باز هم کوچک‌تر است، با پایه‌ای بسیار کوچک، و میان خزه‌های اسفاگنوم در تورب‌زارها می‌روید. Plectania melastoma روی سطح بیرونی دانه‌های نارنجی زنگاری دارد و Sarcosoma globosum اندام‌های باردهی بسیار بزرگ‌تر و پر از ژله می‌سازد.",
+      "notes": "ارزیابی‌ای در سال ۲۰۱۹ آن را در سطح جهانی در ردهٔ نزدیک به تهدید (Near Threatened) قرار می‌دهد: حدود ۱۷۰ زیرجمعیت شناخته شده است، زیستگاه آن، یعنی جنگل‌های کهن نراد، رو به کاهش است و تنه‌های بزرگ و پوسیدهٔ نراد در جنگل‌های تجاری کم‌اند. در فهرست‌های سرخ آلمان، اتریش، سوئیس، اسلواکی و چک دست‌کم در ردهٔ در معرض خطر و در بلغارستان در ردهٔ به‌شدت در معرض خطر آمده است. جایی که چوب مردهٔ نراد فراوان باشد، می‌تواند به تعداد زیاد بار دهد و نشانگر جنگل‌های نزدیک به حالت طبیعی به شمار می‌آید؛ در یکی از رویشگاه‌های اتریش از ۱۹۹۲ تا ۲۰۱۷ بارها یافت شده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni, musta, lyhytjalkainen maljasieni, joka kasvaa vuoristometsissä erittäin lahoilla, sammaloituneilla maapuina makaavilla pihtojen rungoilla ja ilmestyy myöhään talvella ja keväällä, usein pian lumien sulamisen jälkeen. Sitä tavataan koko Euroopassa saksanpihdan levinneisyysalueella sekä Pohjois-Amerikassa ja Itä-Aasiassa, mutta se on harvinainen ja taantuva.",
+      "cap": "Lakkia ei ole: itiöemä on 2–6 cm leveä malja, aluksi syvän maljamainen, sitten avautuen mataluksi kupiksi tai lähes litteäksi kiekoksi, vanhana usein aaltoileva tai epäsäännöllinen. Reuna on nuorena sisäänkääntynyt, myöhemmin rispaantunut, karvainen ja sisäpintaa tummempi. Ulkopinta on musta tai mustanruskea, ryppyinen ja lyhyiden tummanruskeiden karvojen vuoksi hienosti huopainen.",
+      "hymenium": "Hedelmällinen kerros verhoaa maljan sisäpinnan; se on sileä, nuorena kokonaan musta ja kiiltävä, myöhemmin tummanharmaa ja oliivinsävyinen tai mustanruskea, kosteana kiiltävä ja kuivana himmeä. Kotelot (askit) ovat lieriömäisiä, 320–450 × 11–13 µm, kahdeksanitiöisiä, aukeavat kannen avulla eivätkä sinisty jodissa. Ohuet, väliseinälliset parafyysit ovat kärjestään käyriä tai koukkumaisia, ja niiden välissä on suoria ruskehtavia karvoja.",
+      "stipe": "Selvä, ohut, musta jalka, 0,2–2 cm pitkä ja 0,2–0,7 cm paksu, lieriömäinen, mutkainen ja sileä; se on usein syvällä sammalessa tai puussa, joten malja voi näyttää jalattomalta. Tyvi on kiinnittynyt valkoisten rihmastosäikeiden tupsulla.",
+      "flesh": "Ohut, sitkeä ja melko kimmoisa, harmahtava tai oliivinharmaa; joissakin kuvauksissa läpikuultavan vaalea.",
+      "sporePrint": "Vaalea (itiöt ovat värittömiä). Itiöt ovat pallomaisia, läpimitaltaan 12–13 µm (joidenkin kuvausten mukaan 10–14 µm), sileitä ja melko paksuseinäisiä, ja niissä on pieniä öljypisaroita tai yksi suuri pisara.",
+      "habitat": "Saprotrofi havupuiden kuolleella puulla, Euroopassa lähes yksinomaan saksanpihdalla (Abies alba): enimmäkseen suurilla, 40–80 cm paksuilla maapuurungoilla, jotka ovat pitkälle lahonneita, kuorettomia ja sammaloituneita, joskus myös maahan hautautuneilla oksilla, jolloin se voi näyttää kasvavan maassa. Kuusella se kasvaa harvoin. Se kasvaa yksittäin tai ryhminä luonnontilaisissa pyökki-pihta-kuusisekametsissä ja rotkometsissä vuoristossa ja tuottaa itiöemiä myöhäistalvesta kevääseen, pääasiassa maaliskuusta toukokuuhun. Euroopan ulkopuolella se kasvaa Pohjois-Amerikassa pihdoilla ja jättiläistuijalla (Thuja plicata), ja se tunnetaan myös Japanista, Taiwanista ja Kiinasta.",
+      "uses": "Syötäväksi kelpaamaton: pienillä, sitkeillä itiöemillä ei ole ruoka-arvoa.",
+      "confusion": "Pseudoplectania nigrella on pienempi, kokonaan musta ja jalaton, ja se kasvaa maassa kuusen karikkeessa ja sammalessa. Pseudoplectania lignicola on maljoiltaan pienempi ja kasvaa pääasiassa kuusen puulla. Pseudoplectania sphagnophila on vielä pienempi, ja sillä on pikkuruinen jalka; se kasvaa rahkasammalten seassa soilla. Plectania melastoma -lajin ulkopinnalla on ruosteenoransseja jyväsiä, ja Sarcosoma globosum muodostaa paljon suurempia, hyytelöllä täyttyneitä itiöemiä.",
+      "notes": "Vuoden 2019 arvioinnissa se luokitellaan maailmanlaajuisesti silmälläpidettäväksi (Near Threatened): tunnetaan noin 170 osapopulaatiota, sen elinympäristö, vanhat pihtametsät, vähenee, ja suuria lahoavia pihdanrunkoja on talousmetsissä niukasti. Se on punaisilla listoilla vähintään erittäin uhanalaisena Saksassa, Itävallassa, Sveitsissä, Slovakiassa ja Tšekissä sekä äärimmäisen uhanalaisena Bulgariassa. Missä kuollutta pihtapuuta on runsaasti, se voi tuottaa itiöemiä suurin joukoin, ja sitä pidetään luonnontilaisten metsien ilmentäjänä; eräällä paikalla Itävallassa se löydettiin toistuvasti vuosina 1992–2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Petit champignon en coupe noir, brièvement pédicellé, qui pousse sur des troncs de sapin tombés, très pourris et couverts de mousse, dans les forêts de montagne, et apparaît à la fin de l’hiver et au printemps, souvent peu après la fonte des neiges. Il est présent dans toute l’Europe dans l’aire du sapin pectiné ainsi qu’en Amérique du Nord et en Asie orientale, mais il est rare et en régression.",
+      "cap": "Il n’y a pas de chapeau : la fructification est une coupe de 2–6 cm de diamètre, d’abord profondément cupuliforme, puis s’ouvrant en une écuelle peu profonde ou un disque presque plat, souvent ondulé ou irrégulier avec l’âge. La marge est enroulée chez les jeunes, puis érodée, poilue et plus sombre que la face interne. La face externe est noire à brun noirâtre, ridée et finement feutrée de courts poils brun foncé.",
+      "hymenium": "La couche fertile tapisse l’intérieur de la coupe ; elle est lisse, entièrement noire et brillante chez les jeunes, puis gris foncé à reflet olivâtre ou brun noirâtre, brillante à l’état humide et mate par temps sec. Les asques sont cylindriques, 320–450 × 11–13 µm, à huit spores, s’ouvrent par un opercule et ne bleuissent pas dans l’iode. Les paraphyses, fines et septées, sont courbées à crochues au sommet, avec entre elles des poils droits brunâtres.",
+      "stipe": "Un pied distinct, mince et noir, de 0,2–2 cm de long et 0,2–0,7 cm d’épaisseur, cylindrique, flexueux et lisse ; il est souvent profondément enfoncé dans la mousse ou le bois, si bien que la coupe peut paraître sessile. La base est fixée par une touffe de fibres mycéliennes blanches.",
+      "flesh": "Mince, coriace et assez élastique, grisâtre à gris olive ; certaines descriptions la disent blanchâtre translucide.",
+      "sporePrint": "Blanchâtre (les spores sont incolores). Les spores sont globuleuses, de 12–13 µm de diamètre (10–14 µm selon certaines descriptions), lisses et à paroi assez épaisse, avec de petites gouttelettes lipidiques ou une seule grosse goutte.",
+      "habitat": "Saprotrophe sur le bois mort de conifères, en Europe presque uniquement sur le sapin pectiné (Abies alba) : surtout sur de gros troncs couchés de 40–80 cm d’épaisseur, très décomposés, sans écorce et moussus, parfois aussi sur des branches enfouies, de sorte qu’il peut sembler pousser sur le sol. L’épicéa est un hôte rare. Il pousse isolé ou en groupes dans les hêtraies-sapinières-pessières mixtes proches de l’état naturel et les forêts de ravin en montagne, et fructifie de la fin de l’hiver au printemps, surtout de mars à mai. Hors d’Europe, il pousse en Amérique du Nord sur des sapins et sur le thuya géant (Thuja plicata) et il est aussi connu du Japon, de Taïwan et de Chine.",
+      "uses": "Non comestible : les fructifications, petites et coriaces, n’ont aucune valeur culinaire.",
+      "confusion": "Pseudoplectania nigrella est plus petite, entièrement noire et sans pied, et pousse sur le sol dans la litière d’épicéa et la mousse. Pseudoplectania lignicola a des coupes plus petites et pousse surtout sur le bois d’épicéa. Pseudoplectania sphagnophila est encore plus petite, avec un minuscule pied, et pousse parmi les sphaignes dans les tourbières. Plectania melastoma porte des granules orange rouille sur la face externe, et Sarcosoma globosum forme des fructifications beaucoup plus grandes, remplies de gelée.",
+      "notes": "Une évaluation de 2019 le classe au niveau mondial comme quasi menacé (Near Threatened) : environ 170 sous-populations sont connues, son habitat de vieilles sapinières régresse et les gros troncs de sapin pourrissants sont rares dans les forêts exploitées. Il figure au moins comme en danger sur les listes rouges d’Allemagne, d’Autriche, de Suisse, de Slovaquie et de Tchéquie, et comme en danger critique en Bulgarie. Là où le bois mort de sapin abonde, il peut fructifier en grand nombre, et il est considéré comme un indicateur des forêts proches de l’état naturel ; sur un site autrichien, il a été retrouvé à plusieurs reprises de 1992 à 2017.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/8517490/vernacularNames",
+        "https://www.catalogueoflife.org/data/taxon/4P85Z"
+      ],
+      "label": "pézize des Vosges"
+    },
+    "he": {
+      "description": "פטרייה קטנה, שחורה, דמוית גביע ובעלת רגל קצרה, הגדלה ביערות הרים על גזעי אשוח שנפלו, רקובים מאוד ומכוסים טחב, ומופיעה בסוף החורף ובאביב, לעיתים קרובות זמן קצר אחרי הפשרת השלג. היא נפוצה בכל אירופה בתחום תפוצתו של האשוח הלבן, וגם בצפון אמריקה ובמזרח אסיה, אך היא נדירה ומצויה בירידה.",
+      "cap": "אין כובע: גוף הפרי הוא גביע בקוטר 2–6 cm, בתחילה דמוי גביע עמוק, אחר כך נפתח לקערית רדודה או לדיסקה כמעט שטוחה, ועם הגיל לעיתים קרובות גלי או לא סדיר. השוליים מקופלים פנימה בצעירותם, ואחר כך מרופטים, שעירים וכהים יותר מהצד הפנימי. הצד החיצוני שחור עד חום־שחרחר, מקומט ולבדי עדין בשל שערות קצרות בצבע חום כהה.",
+      "hymenium": "השכבה הפורייה מצפה את פנים הגביע; היא חלקה, בצעירותה שחורה כולה ומבריקה, אחר כך אפורה כהה עם גוון זיתי או חומה־שחרחרה, מבריקה בלחות ועמומה ביובש. השקיקים (אסקים) גליליים, 320–450 × 11–13 µm, בעלי שמונה נבגים, נפתחים במכסה ואינם מכחילים ביוד. הפרפיזות הדקות והמחוצצות מעוקלות עד דמויות וו בקצה, וביניהן שערות ישרות חומות־בהירות.",
+      "stipe": "רגל ברורה, דקה ושחורה, באורך 0.2–2 cm ובעובי 0.2–0.7 cm, גלילית, מתפתלת וחלקה; לעיתים קרובות היא שקועה עמוק בטחב או בעץ, כך שהגביע עשוי להיראות חסר רגל. הבסיס מחובר בציצה של סיבי תפטיר לבנים.",
+      "flesh": "דקה, קשיחה וגמישה למדי, אפרפרה עד אפורה־זיתית; יש תיאורים המציינים שהיא לבנבנה ושקופה למחצה.",
+      "sporePrint": "לבנבן (הנבגים חסרי צבע). הנבגים כדוריים, בקוטר 12–13 µm (לפי תיאורים אחדים 10–14 µm), חלקים ובעלי דופן עבה למדי, ובהם טיפות שמן קטנות או טיפה גדולה אחת.",
+      "habitat": "ספרוטרופית על עץ מת של מחטניים, ובאירופה כמעט רק על אשוח לבן (Abies alba): בעיקר על גזעים גדולים שנפלו, בעובי 40–80 cm, רקובים מאוד, חסרי קליפה ומכוסים טחב, ולעיתים גם על ענפים קבורים, כך שהיא עשויה להיראות כגדלה על הקרקע. אשוחית היא פונדקאי נדיר. היא גדלה יחידה או בקבוצות ביערות מעורבים של אשור, אשוח ואשוחית הקרובים למצב טבעי וביערות ערוצים בהרים, ומניבה גופי פרי מסוף החורף ועד האביב, בעיקר ממרץ עד מאי. מחוץ לאירופה היא גדלה בצפון אמריקה על אשוחים ועל תויה ענקית (Thuja plicata), ומוכרת גם מיפן, מטאיוואן ומסין.",
+      "uses": "אינה ראויה למאכל: לגופי הפרי הקטנים והקשיחים אין ערך קולינרי.",
+      "confusion": "Pseudoplectania nigrella קטנה יותר, שחורה כולה וחסרת רגל, וגדלה על הקרקע בשלכת אשוחית ובטחב. ל־Pseudoplectania lignicola גביעים קטנים יותר, והיא גדלה בעיקר על עץ אשוחית. Pseudoplectania sphagnophila קטנה עוד יותר, בעלת רגל זעירה, וגדלה בין טחבי כבול בביצות כבול. ל־Plectania melastoma גרגירים כתומים־חלודים בצד החיצוני, ו־Sarcosoma globosum יוצרת גופי פרי גדולים בהרבה, מלאים בג׳לי.",
+      "notes": "הערכה משנת 2019 מדרגת אותה ברמה העולמית כקרובה לסיכון (Near Threatened): ידועות כ־170 תת־אוכלוסיות, בית הגידול שלה, יערות אשוח עתיקים, הולך ומצטמצם, וגזעי אשוח גדולים ורקובים מעטים ביערות מנוצלים. ברשימות האדומות היא מופיעה לפחות כבסכנת הכחדה בגרמניה, באוסטריה, בשווייץ, בסלובקיה ובצ׳כיה, וכבסכנת הכחדה חמורה בבולגריה. במקומות שבהם יש שפע של עץ אשוח מת היא עשויה להניב גופי פרי בכמויות גדולות, והיא נחשבת למין מציין של יערות קרובים למצב טבעי; באתר אחד באוסטריה נמצאה שוב ושוב מ־1992 עד 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक छोटा, काला, छोटे डंठल वाला प्यालेनुमा कवक, जो पहाड़ी जंगलों में बहुत सड़े हुए, काई से ढके गिरे हुए फ़र के तनों पर उगता है और देर सर्दियों तथा वसंत में, अक्सर बर्फ़ पिघलने के कुछ ही समय बाद दिखाई देता है। यह पूरे यूरोप में सिल्वर फ़र के फैलाव-क्षेत्र में तथा उत्तरी अमेरिका और पूर्वी एशिया में भी मिलता है, पर यह दुर्लभ है और घट रहा है।",
+      "cap": "इसकी कोई टोपी नहीं होती: फलनकाय 2–6 cm व्यास का प्याला है, जो पहले गहरा प्यालेनुमा होता है, फिर खुलकर उथली कटोरी या लगभग सपाट तश्तरी बन जाता है और उम्र के साथ अक्सर लहरदार या अनियमित हो जाता है। किनारा युवावस्था में भीतर की ओर मुड़ा होता है, बाद में फटा-फटा, रोयेंदार और भीतरी सतह से गहरा होता है। बाहरी सतह काली से काली-भूरी, झुर्रीदार और छोटे गहरे भूरे रोयों के कारण बारीक नमदे जैसी होती है।",
+      "hymenium": "उर्वर परत प्याले के भीतरी भाग को ढकती है; यह चिकनी होती है, युवावस्था में पूरी काली और चमकदार, बाद में जैतूनी झलक वाली गहरी धूसर या काली-भूरी, नमी में चमकदार और सूखे में फीकी। ऐस्काई बेलनाकार, 320–450 × 11–13 µm, आठ बीजाणुओं वाली होती हैं, एक ढक्कन से खुलती हैं और आयोडीन में नीली नहीं होतीं। पतले, पटयुक्त पैराफ़ाइसिस सिरे पर मुड़े से लेकर हुकनुमा होते हैं, और उनके बीच सीधे भूरापन लिए रोयें होते हैं।",
+      "stipe": "एक स्पष्ट, पतला काला डंठल, 0.2–2 cm लंबा और 0.2–0.7 cm मोटा, बेलनाकार, टेढ़ा-मेढ़ा और चिकना; यह अक्सर काई या लकड़ी में गहराई तक धँसा रहता है, जिससे प्याला बिना डंठल का लग सकता है। आधार सफ़ेद कवकजाल रेशों के गुच्छे से जुड़ा रहता है।",
+      "flesh": "पतला, सख़्त और काफ़ी लचीला, धूसर से जैतूनी-धूसर; कुछ विवरणों में इसे पारभासी सफ़ेद-सा बताया गया है।",
+      "sporePrint": "सफ़ेद-सा (बीजाणु रंगहीन होते हैं)। बीजाणु गोल, 12–13 µm व्यास के (कुछ विवरणों में 10–14 µm), चिकने और काफ़ी मोटी भित्ति वाले होते हैं, जिनमें तेल की छोटी बूँदें या एक बड़ी बूँद होती है।",
+      "habitat": "शंकुधारी वृक्षों की मृत लकड़ी पर मृतोपजीवी, यूरोप में लगभग केवल सिल्वर फ़र (Abies alba) पर: अधिकतर 40–80 cm मोटे बड़े गिरे हुए तनों पर, जो बहुत सड़े हुए, छालरहित और काई से ढके होते हैं, और कभी-कभी दबी हुई शाखाओं पर भी, जिससे यह ज़मीन पर उगता हुआ लग सकता है। स्प्रूस पर यह कम ही मिलता है। यह पहाड़ों के प्राकृतिक-जैसे मिश्रित बीच–फ़र–स्प्रूस वनों और घाटी-वनों में अकेले या समूहों में उगता है और देर सर्दियों से वसंत तक, मुख्यतः मार्च से मई तक फलनकाय बनाता है। यूरोप के बाहर यह उत्तरी अमेरिका में फ़र वृक्षों और वेस्टर्न रेड सीडर (Thuja plicata) पर उगता है, और जापान, ताइवान तथा चीन से भी ज्ञात है।",
+      "uses": "अखाद्य: छोटे, सख़्त फलनकायों का कोई पाक-मूल्य नहीं है।",
+      "confusion": "Pseudoplectania nigrella छोटा, पूरी तरह काला और बिना डंठल का होता है, और ज़मीन पर स्प्रूस की पत्तियों के कूड़े और काई में उगता है। Pseudoplectania lignicola के प्याले छोटे होते हैं और यह मुख्यतः स्प्रूस की लकड़ी पर उगता है। Pseudoplectania sphagnophila और भी छोटा होता है, जिसका डंठल बहुत छोटा होता है, और यह दलदलों में स्फ़ैग्नम काई के बीच उगता है। Plectania melastoma की बाहरी सतह पर जंग-नारंगी दाने होते हैं, और Sarcosoma globosum जेली से भरे कहीं बड़े फलनकाय बनाता है।",
+      "notes": "2019 के एक आकलन में इसे वैश्विक स्तर पर संकट-निकट (Near Threatened) माना गया है: लगभग 170 उप-आबादियाँ ज्ञात हैं, इसका आवास, पुराने फ़र वन, घट रहा है, और व्यावसायिक रूप से प्रबंधित वनों में फ़र के बड़े सड़ते तने कम हैं। जर्मनी, ऑस्ट्रिया, स्विट्ज़रलैंड, स्लोवाकिया और चेकिया की लाल सूचियों में यह कम से कम संकटग्रस्त के रूप में, और बुल्गारिया में गंभीर रूप से संकटग्रस्त के रूप में दर्ज है। जहाँ फ़र की मृत लकड़ी प्रचुर होती है, वहाँ यह बड़ी संख्या में फलनकाय बना सकता है, और इसे प्राकृतिक-जैसे वनों का सूचक माना जाता है; ऑस्ट्रिया के एक स्थल पर यह 1992 से 2017 तक बार-बार पाया गया।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala crna gljiva u obliku pehara s kratkim stručkom, koja raste u planinskim šumama na jako istrunulim, mahovinom obraslim srušenim deblima jele i pojavljuje se krajem zime i u proljeće, često ubrzo nakon otapanja snijega. Rasprostranjena je diljem Europe u arealu obične jele te u Sjevernoj Americi i istočnoj Aziji, ali je rijetka i u opadanju.",
+      "cap": "Klobuka nema: plodno tijelo je pehar promjera 2–6 cm, isprva duboko čašast, zatim se otvara u plitku zdjelicu ili gotovo ravan disk, sa starošću često valovit ili nepravilan. Rub je kod mladih plodnih tijela podvijen, kasnije razdrpan, dlakav i tamniji od unutarnje strane. Vanjska površina je crna do crnkastosmeđa, naborana i fino pustenasta od kratkih tamnosmeđih dlačica.",
+      "hymenium": "Plodni sloj oblaže unutrašnjost pehara; gladak je, kod mladih plodnih tijela potpuno crn i sjajan, kasnije tamnosiv s maslinastim tonom ili crnkastosmeđ, sjajan po vlažnom i mat po suhom vremenu. Askusi su valjkasti, 320–450 × 11–13 µm, s osam spora, otvaraju se poklopcem i ne plave u jodu. Tanke, pregradne parafize na vrhu su savijene do kukaste, a između njih su ravne smećkaste dlačice.",
+      "stipe": "Jasno izražen, tanak crn stručak, dug 0,2–2 cm i debeo 0,2–0,7 cm, valjkast, vijugav i gladak; često je duboko utonuo u mahovinu ili drvo, pa pehar može izgledati sjedeći. Osnova je pričvršćena čuperkom bijelih micelijskih vlakana.",
+      "flesh": "Tanko, žilavo i prilično elastično, sivkasto do maslinastosivo; neki opisi navode da je prozirno bjelkasto.",
+      "sporePrint": "Bjelkast (spore su bezbojne). Spore su kuglaste, promjera 12–13 µm (prema nekim opisima 10–14 µm), glatke i prilično debele stijenke, sa sitnim uljnim kapljicama ili jednom velikom kapljom.",
+      "habitat": "Saprotrof na mrtvom drvu četinjača, u Europi gotovo isključivo na običnoj jeli (Abies alba): uglavnom na velikim srušenim deblima debljine 40–80 cm, koja su jako razgrađena, bez kore i obrasla mahovinom, ponekad i na zakopanim granama, pa se može činiti da raste na tlu. Smreka je rijedak domaćin. Raste pojedinačno ili u skupinama u prirodnim mješovitim šumama bukve, jele i smreke te u šumama klanaca u planinama, a plodna tijela razvija od kraja zime do proljeća, uglavnom od ožujka do svibnja. Izvan Europe raste u Sjevernoj Americi na jelama i divovskoj tuji (Thuja plicata), a poznata je i iz Japana, Tajvana i Kine.",
+      "uses": "Nejestiva: mala, žilava plodna tijela nemaju kulinarsku vrijednost.",
+      "confusion": "Pseudoplectania nigrella je manja, potpuno crna i bez stručka te raste na tlu u smrekovoj stelji i mahovini. Pseudoplectania lignicola ima manje pehare i raste uglavnom na smrekovu drvu. Pseudoplectania sphagnophila je još manja, sa sićušnim stručkom, i raste među tresetnim mahovinama na cretovima. Plectania melastoma ima hrđavonarančaste granule na vanjskoj strani, a Sarcosoma globosum tvori mnogo veća plodna tijela ispunjena želatinom.",
+      "notes": "Procjena iz 2019. godine svrstava je na svjetskoj razini među gotovo ugrožene vrste (Near Threatened): poznato je oko 170 subpopulacija, njezino stanište, stare jelove šume, nestaje, a velikih trulih jelovih debala u gospodarskim šumama ima malo. Na crvenim popisima navedena je najmanje kao ugrožena u Njemačkoj, Austriji, Švicarskoj, Slovačkoj i Češkoj te kao kritično ugrožena u Bugarskoj. Gdje ima dosta mrtvog jelova drva, može plodonositi u velikom broju i smatra se pokazateljem šuma bliskih prirodnima; na jednom nalazištu u Austriji nalažena je više puta od 1992. do 2017. godine.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kicsi, fekete, rövid tönkű csészegomba, amely hegyvidéki erdőkben, erősen korhadt, mohos, kidőlt jegenyefenyőtörzseken nő, és késő télen, tavasszal jelenik meg, gyakran röviddel a hóolvadás után. Európa-szerte előfordul a közönséges jegenyefenyő elterjedési területén, továbbá Észak-Amerikában és Kelet-Ázsiában, de ritka és állománya csökken.",
+      "cap": "Kalapja nincs: a termőtest 2–6 cm átmérőjű csésze, eleinte mélyen csésze alakú, majd sekély tállá vagy majdnem lapos koronggá nyílik, idősen gyakran hullámos vagy szabálytalan. Széle fiatalon begöngyölt, később rojtos, szőrös és sötétebb a belső oldalnál. Külső felülete fekete vagy feketésbarna, ráncos, rövid, sötétbarna szőröktől finoman nemezes.",
+      "hymenium": "A termőréteg a csésze belsejét béleli; sima, fiatalon egészen fekete és fényes, később olívás árnyalatú sötétszürke vagy feketésbarna, nedvesen fényes, szárazon matt. Az aszkuszok hengeresek, 320–450 × 11–13 µm-esek, nyolcspórásak, fedővel nyílnak, és jódban nem kékülnek. A vékony, szeptált parafízisek csúcsa hajlott vagy horgas, köztük egyenes, barnás szőrök állnak.",
+      "stipe": "Jól elkülönülő, vékony, fekete tönk, 0,2–2 cm hosszú és 0,2–0,7 cm vastag, hengeres, hajlongó és sima; gyakran mélyen a mohába vagy a fába süllyed, így a csésze ülőnek tűnhet. Tövét fehér micéliumfonalak csomója rögzíti.",
+      "flesh": "Vékony, szívós és meglehetősen rugalmas, szürkés vagy olívszürke; egyes leírások szerint áttetszően fehéres.",
+      "sporePrint": "Fehéres (a spórák színtelenek). A spórák gömbölyűek, 12–13 µm átmérőjűek (egyes leírások szerint 10–14 µm), simák, viszonylag vastag falúak, apró olajcseppekkel vagy egy nagy csepppel.",
+      "habitat": "Szaprotróf tűlevelűek elhalt faanyagán, Európában szinte csak közönséges jegenyefenyőn (Abies alba): főleg 40–80 cm vastag, nagy, kidőlt törzseken, amelyek erősen korhadtak, kéregtelenek és mohával benőttek, néha földbe temetett ágakon is, így úgy tűnhet, mintha a talajon nőne. Lucfenyőn ritkán fordul elő. Egyesével vagy csoportosan nő természetközeli bükkös-jegenyefenyves-lucos elegyes erdőkben és szurdokerdőkben a hegyekben; késő télen és tavasszal, főleg márciustól májusig terem. Európán kívül Észak-Amerikában jegenyefenyőkön és óriás tuján (Thuja plicata) nő, és ismert Japánból, Tajvanról és Kínából is.",
+      "uses": "Nem ehető: a kicsi, szívós termőtesteknek nincs étkezési értéke.",
+      "confusion": "A Pseudoplectania nigrella kisebb, egészen fekete és tönktelen, a talajon nő lucfenyőavarban és mohában. A Pseudoplectania lignicola csészéi kisebbek, és főleg lucfenyő faanyagán nő. A Pseudoplectania sphagnophila még kisebb, apró tönkkel, és tőzegmohák között nő lápokban. A Plectania melastoma külső oldalán rozsdanarancs szemcsék vannak, a Sarcosoma globosum pedig sokkal nagyobb, kocsonyával telt termőtesteket fejleszt.",
+      "notes": "Egy 2019-es értékelés világszinten a mérsékelten fenyegetett fajok közé sorolja (Near Threatened): mintegy 170 alpopulációja ismert, élőhelye, az idős jegenyefenyvesek területe csökken, a gazdasági erdőkben pedig kevés a nagy, korhadó jegenyefenyőtörzs. Németországban, Ausztriában, Svájcban, Szlovákiában és Csehországban legalább veszélyeztetettként szerepel a vörös listán, Bulgáriában pedig a kritikusan veszélyeztetett fajok között. Ahol bőven van elhalt jegenyefenyőfa, nagy számban teremhet, és a természetközeli erdők jelzőfajának tartják; egy ausztriai lelőhelyen 1992 és 2017 között többször is megtalálták.",
+      "names": [],
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+        "https://api.gbif.org/v1/species/8517490/vernacularNames"
+      ],
+      "label": "nyeles gyászoscsészegomba"
+    },
+    "id": {
+      "description": "Jamur mangkuk kecil berwarna hitam dengan tangkai pendek yang tumbuh di hutan pegunungan pada batang pohon fir tumbang yang sangat lapuk dan tertutup lumut, serta muncul pada akhir musim dingin dan musim semi, sering kali tidak lama setelah salju mencair. Jamur ini terdapat di seluruh Eropa dalam wilayah sebaran fir perak, juga di Amerika Utara dan Asia Timur, tetapi langka dan populasinya menurun.",
+      "cap": "Tidak ada tudung: tubuh buahnya berupa mangkuk berdiameter 2–6 cm, mula-mula berbentuk cawan dalam, lalu membuka menjadi mangkuk dangkal atau cakram yang hampir datar, dan seiring bertambah tua sering bergelombang atau tidak beraturan. Tepinya melengkung ke dalam saat muda, kemudian compang-camping, berambut, dan lebih gelap daripada sisi dalam. Permukaan luarnya hitam hingga cokelat kehitaman, berkerut, dan berlapis halus seperti kempa oleh rambut pendek berwarna cokelat tua.",
+      "hymenium": "Lapisan subur melapisi bagian dalam mangkuk; permukaannya halus, saat muda seluruhnya hitam dan mengilap, kemudian abu-abu gelap dengan semburat zaitun atau cokelat kehitaman, mengilap saat lembap dan kusam saat kering. Askusnya silindris, 320–450 × 11–13 µm, berspora delapan, membuka melalui tutup, dan tidak membiru dalam yodium. Parafisisnya ramping, bersekat, melengkung hingga berbentuk kait di ujungnya, dengan rambut lurus kecokelatan di antaranya.",
+      "stipe": "Tangkai yang jelas, ramping, dan hitam, panjang 0,2–2 cm dan tebal 0,2–0,7 cm, silindris, berkelok, dan halus; tangkai ini sering terbenam dalam lumut atau kayu sehingga mangkuk dapat tampak tak bertangkai. Pangkalnya melekat dengan seberkas serat miselium putih.",
+      "flesh": "Tipis, liat, dan cukup elastis, keabu-abuan hingga abu-abu zaitun; beberapa deskripsi menyebutnya keputihan dan tembus cahaya.",
+      "sporePrint": "Keputihan (sporanya tidak berwarna). Sporanya bulat, berdiameter 12–13 µm (10–14 µm menurut beberapa deskripsi), halus, dan berdinding cukup tebal, dengan tetesan minyak kecil atau satu tetes besar.",
+      "habitat": "Saprotrof pada kayu mati pohon konifer, di Eropa hampir hanya pada fir perak (Abies alba): kebanyakan pada batang tumbang besar setebal 40–80 cm yang sudah sangat lapuk, tanpa kulit kayu, dan tertutup lumut, kadang juga pada cabang yang terkubur sehingga tampak seperti tumbuh di tanah. Spruce jarang menjadi inangnya. Jamur ini tumbuh soliter atau berkelompok di hutan campuran beech–fir–spruce yang mendekati alami dan di hutan ngarai pegunungan, serta membentuk tubuh buah dari akhir musim dingin hingga musim semi, terutama dari Maret hingga Mei. Di luar Eropa jamur ini tumbuh di Amerika Utara pada pohon fir dan western red cedar (Thuja plicata), dan juga dikenal dari Jepang, Taiwan, dan Tiongkok.",
+      "uses": "Tidak dapat dimakan: tubuh buahnya kecil dan liat sehingga tidak bernilai kuliner.",
+      "confusion": "Pseudoplectania nigrella lebih kecil, seluruhnya hitam dan tak bertangkai, serta tumbuh di tanah pada serasah spruce dan lumut. Pseudoplectania lignicola memiliki mangkuk lebih kecil dan terutama tumbuh pada kayu spruce. Pseudoplectania sphagnophila lebih kecil lagi, dengan tangkai yang sangat kecil, dan tumbuh di antara lumut gambut di rawa gambut. Plectania melastoma memiliki butiran jingga karat di permukaan luarnya, sedangkan Sarcosoma globosum membentuk tubuh buah yang jauh lebih besar dan berisi jeli.",
+      "notes": "Sebuah penilaian tahun 2019 menggolongkannya secara global sebagai hampir terancam (Near Threatened): sekitar 170 subpopulasi diketahui, habitatnya berupa hutan fir tua terus menyusut, dan batang fir besar yang membusuk jarang ada di hutan produksi. Dalam daftar merah Jerman, Austria, Swiss, Slowakia, dan Ceko jamur ini tercantum setidaknya sebagai genting, dan di Bulgaria sebagai kritis. Di tempat yang kaya kayu fir mati, jamur ini dapat berbuah dalam jumlah besar dan dianggap sebagai indikator hutan yang mendekati alami; di satu lokasi di Austria jamur ini ditemukan berulang kali dari 1992 hingga 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un piccolo fungo a coppa nero, con gambo corto, che cresce su tronchi caduti di abete molto marcescenti e coperti di muschio nei boschi di montagna e compare a fine inverno e in primavera, spesso poco dopo lo scioglimento della neve. È presente in tutta Europa nell’areale dell’abete bianco e anche in Nord America e in Asia orientale, ma è raro e in declino.",
+      "cap": "Non c’è cappello: il corpo fruttifero è una coppa di 2–6 cm di diametro, dapprima profondamente cupoliforme, poi aperta a scodella poco profonda o a disco quasi piatto, spesso ondulata o irregolare con l’età. Il margine è involuto da giovane, poi eroso, peloso e più scuro della faccia interna. La superficie esterna è da nera a bruno nerastra, rugosa e finemente feltrata da corti peli bruno scuri.",
+      "hymenium": "Lo strato fertile riveste l’interno della coppa; è liscio, da giovane del tutto nero e lucido, poi grigio scuro con sfumatura olivastra o bruno nerastro, lucido da umido e opaco da secco. Gli aschi sono cilindrici, 320–450 × 11–13 µm, ottosporici, si aprono con un opercolo e non si colorano di blu in iodio. Le parafisi, sottili e settate, sono curve o uncinate all’apice, e tra di esse si trovano peli diritti brunastri.",
+      "stipe": "Un gambo distinto, sottile e nero, lungo 0,2–2 cm e spesso 0,2–0,7 cm, cilindrico, flessuoso e liscio; è spesso affondato nel muschio o nel legno, tanto che la coppa può sembrare sessile. La base è fissata da un ciuffo di fibre miceliari bianche.",
+      "flesh": "Sottile, tenace e piuttosto elastica, grigiastra o grigio oliva; alcune descrizioni la indicano biancastra traslucida.",
+      "sporePrint": "Biancastra (le spore sono incolori). Le spore sono sferiche, 12–13 µm di diametro (10–14 µm secondo alcune descrizioni), lisce e con parete piuttosto spessa, con piccole guttule oleose o una sola grande goccia.",
+      "habitat": "Saprotrofo sul legno morto di conifere, in Europa quasi solo su abete bianco (Abies alba): per lo più su grossi tronchi caduti di 40–80 cm di spessore, molto degradati, scortecciati e coperti di muschio, a volte anche su rami interrati, così che può sembrare crescere sul terreno. L’abete rosso è un ospite raro. Cresce isolato o in gruppi in faggete-abetine miste con abete rosso prossime allo stato naturale e in boschi di forra in montagna, e fruttifica da fine inverno a primavera, soprattutto da marzo a maggio. Fuori dall’Europa cresce in Nord America su abeti e sulla tuia gigante (Thuja plicata) ed è noto anche in Giappone, Taiwan e Cina.",
+      "uses": "Non commestibile: i corpi fruttiferi piccoli e tenaci non hanno valore culinario.",
+      "confusion": "Pseudoplectania nigrella è più piccola, tutta nera e priva di gambo, e cresce sul terreno nella lettiera di abete rosso e nel muschio. Pseudoplectania lignicola ha coppe più piccole e cresce soprattutto su legno di abete rosso. Pseudoplectania sphagnophila è ancora più piccola, con un minuscolo gambo, e cresce tra gli sfagni nelle torbiere. Plectania melastoma ha granuli arancio ruggine sulla superficie esterna, e Sarcosoma globosum forma corpi fruttiferi molto più grandi, pieni di gelatina.",
+      "notes": "Una valutazione del 2019 lo classifica a livello globale come quasi minacciato (Near Threatened): sono note circa 170 sottopopolazioni, il suo habitat di vecchie abetine è in calo e i grandi tronchi marcescenti di abete sono scarsi nei boschi gestiti. È inserito nelle liste rosse almeno come in pericolo in Germania, Austria, Svizzera, Slovacchia e Repubblica Ceca, e come in pericolo critico in Bulgaria. Dove il legno morto di abete abbonda può fruttificare in gran numero ed è considerato un indicatore di foreste prossime allo stato naturale; in un sito austriaco è stato ritrovato più volte dal 1992 al 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "山地の森林で、ひどく腐朽してコケに覆われたモミ類の倒木上に生える、小型で黒色の短い柄をもつチャワンタケ類で、晩冬から春、しばしば雪解けの直後に現れる。ヨーロッパではヨーロッパモミの分布域全体に見られ、北アメリカと東アジアにも分布するが、まれで減少している。",
+      "cap": "傘はない。子実体は直径2–6 cmの椀で、初めは深い椀形、のちに浅い皿形からほぼ平らな円盤状に開き、老成するとしばしば波打つか不規則になる。縁は若いうちは内側に巻き、のちにぎざぎざになり、毛があって内面より暗色。外面は黒色から黒褐色で、しわがあり、短い暗褐色の毛でこまかなフェルト状になる。",
+      "hymenium": "子実層は椀の内面を覆う。平滑で、若いうちは全体が黒く光沢があり、のちにオリーブ色を帯びた暗灰色または黒褐色となり、湿ると光沢があり、乾くとつやがない。子嚢は円筒形、320–450 × 11–13 µm、8胞子性で、蓋によって開き、ヨウ素で青変しない。細く隔壁のある側糸は先端が曲がるか鉤状で、その間にまっすぐな褐色がかった毛がある。",
+      "stipe": "はっきりした細い黒色の柄で、長さ0.2–2 cm、太さ0.2–0.7 cm、円柱形で屈曲し、平滑。しばしばコケや材の中に深く埋もれるため、椀は無柄に見えることがある。基部は白色の菌糸繊維の房で付着する。",
+      "flesh": "薄く、強靭でかなり弾力があり、灰色がかった色からオリーブ灰色。半透明の白っぽい色とする記載もある。",
+      "sporePrint": "白っぽい(胞子は無色)。胞子は球形、直径12–13 µm(記載によっては10–14 µm)、平滑でやや厚壁、小さな油滴または1個の大きな油滴を含む。",
+      "habitat": "針葉樹の枯死材に生える腐生菌で、ヨーロッパではほぼヨーロッパモミ(Abies alba)のみに生える。主に太さ40–80 cmの大きな倒木で、よく腐朽し、樹皮が落ちてコケに覆われたものに生え、ときに埋もれた枝にも生えるため、地上に生えているように見えることがある。トウヒ類に生えることはまれ。山地の自然に近いブナ・モミ・トウヒ混交林や渓谷林に単生または群生し、晩冬から春、主に3月から5月に子実体をつくる。ヨーロッパ以外では北アメリカでモミ類とベイスギ(Thuja plicata)に生え、日本、台湾、中国からも知られる。",
+      "uses": "食不適。小さく強靭な子実体には食用価値がない。",
+      "confusion": "Pseudoplectania nigrellaはより小型で全体が黒く無柄、トウヒ類の落葉層やコケの間の地上に生える。Pseudoplectania lignicolaは椀がより小さく、主にトウヒ類の材に生える。Pseudoplectania sphagnophilaはさらに小型でごく短い柄をもち、湿原のミズゴケの間に生える。Plectania melastomaは外面に錆びたオレンジ色の粒をもち、Sarcosoma globosumははるかに大きく、内部がゼリーで満たされた子実体をつくる。",
+      "notes": "2019年の評価では世界的に準絶滅危惧(Near Threatened)とされている。約170の亜個体群が知られ、生息地である老齢のモミ林は減少しており、経済林では大きな腐朽したモミの倒木が乏しい。ドイツ、オーストリア、スイス、スロバキア、チェコのレッドリストでは少なくとも絶滅危惧(Endangered)として、ブルガリアでは深刻な絶滅危惧(Critically Endangered)として掲載されている。モミの枯死材が豊富な場所では多数の子実体を生じることがあり、自然度の高い森林の指標種とみなされている。オーストリアのある産地では1992年から2017年まで繰り返し見つかった。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/8517490/vernacularNames",
+        "https://chawantake.sakura.ne.jp/data/Pseudoplectania_melaena.html"
+      ],
+      "label": "ニセクロチャワンタケ"
+    },
+    "ko": {
+      "description": "산지 숲에서 심하게 썩고 이끼로 덮인 전나무류의 쓰러진 줄기 위에 자라는 작고 검은, 짧은 대를 가진 컵버섯으로, 늦겨울과 봄, 흔히 눈이 녹은 직후에 나타난다. 유럽에서는 유럽전나무의 분포 지역 전역에서 볼 수 있고 북아메리카와 동아시아에도 분포하지만, 드물고 감소하고 있다.",
+      "cap": "갓은 없다: 자실체는 지름 2–6 cm의 컵으로, 처음에는 깊은 컵 모양이다가 얕은 사발이나 거의 평평한 원반 모양으로 펼쳐지며, 늙으면 흔히 물결 모양이거나 불규칙해진다. 가장자리는 어릴 때 안쪽으로 말리고, 나중에는 너덜너덜해지며 털이 있고 안쪽 면보다 어둡다. 바깥 면은 검은색에서 흑갈색이며, 주름지고 짧은 암갈색 털 때문에 미세한 펠트 모양이다.",
+      "hymenium": "자실층은 컵의 안쪽 면을 덮는다. 매끈하며, 어릴 때는 전체가 검고 광택이 있고, 나중에는 올리브빛이 도는 짙은 회색이나 흑갈색이 되며, 젖으면 광택이 있고 마르면 광택이 없다. 자낭은 원통형, 320–450 × 11–13 µm, 8포자성이며 뚜껑으로 열리고 아이오딘에서 푸르게 변하지 않는다. 가늘고 격벽이 있는 측사는 끝이 굽거나 갈고리 모양이며, 그 사이에 곧은 갈색빛 털이 있다.",
+      "stipe": "뚜렷하고 가는 검은 대로, 길이 0.2–2 cm, 굵기 0.2–0.7 cm이며 원통형이고 구불구불하며 매끈하다. 흔히 이끼나 나무 속에 깊이 묻혀 있어 컵이 대가 없는 것처럼 보일 수 있다. 밑동은 흰 균사 섬유 다발로 붙어 있다.",
+      "flesh": "얇고 질기며 꽤 탄력이 있고, 회색빛에서 올리브 회색이다. 반투명한 흰빛이라고 기재한 자료도 있다.",
+      "sporePrint": "흰빛(포자는 무색이다). 포자는 구형, 지름 12–13 µm(일부 기재에서는 10–14 µm)이고 매끈하며 벽이 꽤 두껍고, 작은 기름방울들이나 큰 기름방울 하나를 가진다.",
+      "habitat": "침엽수의 죽은 목재에 사는 부생균으로, 유럽에서는 거의 유럽전나무(Abies alba)에만 자란다. 주로 굵기 40–80 cm의 큰 쓰러진 줄기로, 많이 썩고 껍질이 벗겨지고 이끼로 덮인 것에 자라며, 때로는 땅에 묻힌 가지에도 자라 땅에서 나는 것처럼 보일 수 있다. 가문비나무류에는 드물게 자란다. 산지의 자연 상태에 가까운 너도밤나무–전나무–가문비나무 혼효림과 계곡림에 홀로 또는 무리 지어 자라며, 늦겨울부터 봄까지, 주로 3월부터 5월까지 자실체를 만든다. 유럽 밖에서는 북아메리카에서 전나무류와 측백나무류인 Thuja plicata에 자라며, 일본, 타이완, 중국에서도 알려져 있다.",
+      "uses": "식용 불가: 작고 질긴 자실체는 요리 가치가 없다.",
+      "confusion": "Pseudoplectania nigrella는 더 작고 전체가 검으며 대가 없고, 가문비나무 낙엽층과 이끼 사이의 땅에 자란다. Pseudoplectania lignicola는 컵이 더 작고 주로 가문비나무 목재에 자란다. Pseudoplectania sphagnophila는 그보다 더 작고 아주 작은 대가 있으며 습원의 물이끼 사이에 자란다. Plectania melastoma는 바깥 면에 녹슨 주황색 알갱이가 있고, Sarcosoma globosum은 훨씬 크고 속이 젤리로 찬 자실체를 만든다.",
+      "notes": "2019년 평가에서는 세계적으로 준위협(Near Threatened)으로 분류된다. 약 170개의 아개체군이 알려져 있으며, 서식지인 오래된 전나무 숲이 줄어들고 있고, 경제림에는 크고 썩어 가는 전나무 줄기가 드물다. 독일, 오스트리아, 스위스, 슬로바키아, 체코의 적색목록에는 적어도 위기 등급으로, 불가리아에서는 위급 등급으로 올라 있다. 죽은 전나무 목재가 풍부한 곳에서는 많은 수의 자실체를 낼 수 있으며, 자연에 가까운 숲의 지표종으로 여겨진다. 오스트리아의 한 산지에서는 1992년부터 2017년까지 거듭 발견되었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Mažas juodas trumpakotis taurės formos grybas, augantis kalnų miškuose ant labai supuvusių, samanomis apaugusių nuvirtusių kėnių kamienų ir pasirodantis žiemos pabaigoje bei pavasarį, dažnai netrukus po sniego tirpsmo. Jis paplitęs visoje Europoje baltojo kėnio arealo ribose, taip pat Šiaurės Amerikoje ir Rytų Azijoje, tačiau yra retas ir nyksta.",
+      "cap": "Kepurėlės nėra: vaisiakūnis yra 2–6 cm skersmens taurelė, iš pradžių giliai taurės formos, vėliau atsiveria į seklų dubenėlį ar beveik plokščią diską, senas dažnai banguotas ar netaisyklingas. Jaunų vaisiakūnių kraštas įlenktas, vėliau suiręs, plaukuotas ir tamsesnis už vidinę pusę. Išorinis paviršius juodas iki juosvai rudo, raukšlėtas ir smulkiai veltinis nuo trumpų tamsiai rudų plaukelių.",
+      "hymenium": "Vaisingasis sluoksnis iškloja taurelės vidų; jis lygus, jaunas visiškai juodas ir blizgus, vėliau tamsiai pilkas su alyvuogių atspalviu ar juosvai rudas, drėgnas blizgus, sausas matinis. Aukšliai cilindriški, 320–450 × 11–13 µm, aštuonsporiai, atsidaro dangteliu ir jode nemėlynuoja. Plonos, pertvaruotos parafizės viršūnėje išlinkusios iki kabliškų, o tarp jų yra tiesių rusvų plaukelių.",
+      "stipe": "Aiškus, plonas juodas kotas, 0,2–2 cm ilgio ir 0,2–0,7 cm storio, cilindriškas, vingiuotas ir lygus; jis dažnai giliai įsmigęs į samanas ar medieną, todėl taurelė gali atrodyti bekotė. Pagrindas pritvirtintas baltų micelio gijų kuokšteliu.",
+      "flesh": "Plona, kieta ir gana elastinga, pilkšva iki alyvuogiškai pilkos; kai kuriuose aprašymuose vadinama permatomai balsva.",
+      "sporePrint": "Balsvi (sporos bespalvės). Sporos rutuliškos, 12–13 µm skersmens (kai kuriuose aprašymuose 10–14 µm), lygios ir gana storasienės, su smulkiais aliejaus lašeliais arba vienu dideliu lašu.",
+      "habitat": "Saprotrofas ant negyvos spygliuočių medienos, Europoje beveik vien ant baltojo kėnio (Abies alba): dažniausiai ant didelių, 40–80 cm storio nuvirtusių kamienų, kurie stipriai suirę, be žievės ir apaugę samanomis, kartais ir ant užkastų šakų, todėl gali atrodyti, kad auga ant žemės. Ant eglės auga retai. Auga pavieniui arba grupėmis natūraliuose mišriuose bukų, kėnių ir eglių miškuose bei daubų miškuose kalnuose, vaisiakūnius brandina nuo žiemos pabaigos iki pavasario, daugiausia nuo kovo iki gegužės. Už Europos ribų Šiaurės Amerikoje auga ant kėnių ir milžiniškosios tujos (Thuja plicata), taip pat žinomas iš Japonijos, Taivano ir Kinijos.",
+      "uses": "Nevalgomas: maži, kieti vaisiakūniai neturi kulinarinės vertės.",
+      "confusion": "Pseudoplectania nigrella yra mažesnė, visiškai juoda ir bekotė, auga ant žemės eglių paklotėje ir samanose. Pseudoplectania lignicola taurelės mažesnės, ji auga daugiausia ant eglės medienos. Pseudoplectania sphagnophila dar mažesnė, su mažyčiu koteliu, auga tarp kiminų pelkėse. Plectania melastoma išorėje turi rūdžių oranžinės spalvos grūdelių, o Sarcosoma globosum sudaro daug didesnius, drebučiais pripildytus vaisiakūnius.",
+      "notes": "2019 m. vertinimu jis pasauliniu mastu laikomas beveik grėsmingos būklės (Near Threatened): žinoma apie 170 subpopuliacijų, jo buveinė, seni kėnynai, nyksta, o ūkiniuose miškuose didelių pūvančių kėnių kamienų yra mažai. Raudonuosiuose sąrašuose jis įrašytas bent kaip nykstantis Vokietijoje, Austrijoje, Šveicarijoje, Slovakijoje ir Čekijoje, o kaip kritiškai nykstantis – Bulgarijoje. Kur negyvos kėnių medienos daug, jis gali vesti vaisiakūnius gausiai ir laikomas natūralių miškų indikatoriumi; vienoje Austrijos radvietėje jis buvo pakartotinai rastas 1992–2017 m.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Neliela, melna kausveida sēne ar īsu kātiņu, kas aug kalnu mežos uz ļoti satrupējušiem, ar sūnām apaugušiem kritušiem dižegļu stumbriem un parādās ziemas beigās un pavasarī, bieži drīz pēc sniega nokušanas. Tā sastopama visā Eiropā baltās dižegles areālā, kā arī Ziemeļamerikā un Austrumāzijā, taču tā ir reta, un tās izplatība samazinās.",
+      "cap": "Cepurītes nav: augļķermenis ir 2–6 cm diametrā liels kauss, sākumā dziļi kausveida, vēlāk atveras par seklu bļodiņu vai gandrīz plakanu disku, vecumā bieži viļņains vai neregulārs. Mala jauniem augļķermeņiem ir ieliekta, vēlāk saplūkāta, mataina un tumšāka par iekšpusi. Ārpuse ir melna līdz melnbrūna, grumbuļaina un smalki filcaina no īsiem, tumši brūniem matiņiem.",
+      "hymenium": "Auglīgais slānis izklāj kausa iekšpusi; tas ir gluds, jaunībā pilnīgi melns un spīdīgs, vēlāk tumši pelēks ar olīvzaļganu nokrāsu vai melnbrūns, mitrā laikā spīdīgs, sausā – matēts. Asci ir cilindriski, 320–450 × 11–13 µm, astoņsporu, atveras ar vāciņu un jodā nekļūst zili. Tievās, starpsienotās parafīzes galā ir izliektas līdz āķveida, un starp tām ir taisni, brūngani matiņi.",
+      "stipe": "Skaidri izteikts, tievs, melns kātiņš 0,2–2 cm garš un 0,2–0,7 cm resns, cilindrisks, līkumains un gluds; tas bieži ir dziļi iegrimis sūnās vai koksnē, tāpēc kauss var izskatīties bez kātiņa. Pamatne piestiprināta ar baltu micēlija šķiedru kušķi.",
+      "flesh": "Plāna, stingra un diezgan elastīga, pelēcīga līdz olīvpelēka; daži apraksti to sauc par caurspīdīgi bālganu.",
+      "sporePrint": "Bālgans (sporas ir bezkrāsainas). Sporas ir lodveida, 12–13 µm diametrā (pēc dažiem aprakstiem 10–14 µm), gludas un ar diezgan biezu sieniņu, ar sīkiem eļļas pilieniem vai vienu lielu pilienu.",
+      "habitat": "Saprotrofs uz atmirušas skuju koku koksnes, Eiropā gandrīz tikai uz baltās dižegles (Abies alba): pārsvarā uz lieliem kritušiem 40–80 cm resniem stumbriem, kas ir stipri satrupējuši, bez mizas un apauguši ar sūnām, dažreiz arī uz ieraktiem zariem, tāpēc var šķist, ka tā aug uz zemes. Uz egles aug reti. Aug pa vienai vai grupās dabiskos jauktos dižskābaržu, dižegļu un egļu mežos un gravu mežos kalnos un veido augļķermeņus no ziemas beigām līdz pavasarim, galvenokārt no marta līdz maijam. Ārpus Eiropas tā Ziemeļamerikā aug uz dižeglēm un milzu tūjām (Thuja plicata), un tā zināma arī no Japānas, Taivānas un Ķīnas.",
+      "uses": "Neēdama: mazajiem, stingrajiem augļķermeņiem nav kulinārās vērtības.",
+      "confusion": "Pseudoplectania nigrella ir mazāka, pilnīgi melna un bez kātiņa, un tā aug uz zemes egļu nobirās un sūnās. Pseudoplectania lignicola kausi ir mazāki, un tā aug galvenokārt uz egles koksnes. Pseudoplectania sphagnophila ir vēl mazāka, ar sīku kātiņu, un aug starp sfagniem purvos. Plectania melastoma ārpusē ir rūsganoranžas granulas, bet Sarcosoma globosum veido daudz lielākus, ar recekli pildītus augļķermeņus.",
+      "notes": "2019. gada novērtējumā tā pasaulē klasificēta kā gandrīz apdraudēta (Near Threatened): zināmas aptuveni 170 subpopulācijas, tās dzīvotne, veci dižegļu meži, sarūk, un saimnieciskajos mežos ir maz lielu trūdošu dižegļu stumbru. Sarkanajos sarakstos tā iekļauta vismaz kā apdraudēta Vācijā, Austrijā, Šveicē, Slovākijā un Čehijā un kā kritiski apdraudēta Bulgārijā. Kur atmirušas dižegļu koksnes ir daudz, tā var veidot augļķermeņus lielā skaitā, un to uzskata par dabisku mežu indikatoru; vienā atradnē Austrijā to atkārtoti atrada no 1992. līdz 2017. gadam.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een kleine, zwarte, kortgesteelde bekerzwam die groeit op sterk vergane, met mos begroeide liggende stammen van zilverspar in bergbossen en verschijnt in de late winter en de lente, vaak kort na het smelten van de sneeuw. Hij komt in heel Europa voor binnen het verspreidingsgebied van de gewone zilverspar en ook in Noord-Amerika en Oost-Azië, maar is zeldzaam en gaat achteruit.",
+      "cap": "Er is geen hoed: het vruchtlichaam is een beker van 2–6 cm doorsnede, eerst diep bekervormig, daarna open tot een ondiepe schaal of een bijna vlakke schijf, op latere leeftijd vaak golvend of onregelmatig. De rand is jong ingebogen, later gerafeld, behaard en donkerder dan de binnenkant. De buitenkant is zwart tot zwartbruin, gerimpeld en fijn viltig door korte, donkerbruine haren.",
+      "hymenium": "De vruchtbare laag bekleedt de binnenkant van de beker; ze is glad, jong geheel zwart en glanzend, later donkergrijs met een olijfkleurige zweem of zwartbruin, glanzend bij vochtig weer en mat bij droogte. De asci zijn cilindrisch, 320–450 × 11–13 µm, achtsporig, openen met een dekseltje en kleuren niet blauw in jodium. De dunne, gesepteerde parafysen zijn aan de top gebogen tot haakvormig, met daartussen rechte, bruinachtige haren.",
+      "stipe": "Een duidelijke, dunne zwarte steel van 0,2–2 cm lang en 0,2–0,7 cm dik, cilindrisch, kronkelig en glad; hij zit vaak diep in het mos of het hout, zodat de beker ongesteeld kan lijken. De voet is vastgehecht met een bosje witte myceliumdraden.",
+      "flesh": "Dun, taai en vrij elastisch, grijsachtig tot olijfgrijs; sommige beschrijvingen noemen het doorschijnend witachtig.",
+      "sporePrint": "Witachtig (de sporen zijn kleurloos). De sporen zijn bolrond, 12–13 µm in doorsnede (10–14 µm volgens sommige beschrijvingen), glad en vrij dikwandig, met kleine oliedruppeltjes of één grote druppel.",
+      "habitat": "Saprotroof op dood naaldhout, in Europa bijna alleen op gewone zilverspar (Abies alba): vooral op grote liggende stammen van 40–80 cm dik die sterk vergaan, ontschorst en met mos begroeid zijn, soms ook op begraven takken, zodat hij op de grond lijkt te groeien. Fijnspar is een zeldzame gastheer. Hij groeit alleen of in groepen in natuurlijke gemengde beuken-zilverspar-fijnsparbossen en ravijnbossen in de bergen en vormt vruchtlichamen van de late winter tot de lente, vooral van maart tot mei. Buiten Europa groeit hij in Noord-Amerika op zilversparren en reuzenlevensboom (Thuja plicata) en hij is ook bekend uit Japan, Taiwan en China.",
+      "uses": "Oneetbaar: de kleine, taaie vruchtlichamen hebben geen culinaire waarde.",
+      "confusion": "Pseudoplectania nigrella is kleiner, geheel zwart en ongesteeld, en groeit op de grond in fijnsparstrooisel en mos. Pseudoplectania lignicola heeft kleinere bekers en groeit vooral op fijnsparhout. Pseudoplectania sphagnophila is nog kleiner, met een piepklein steeltje, en groeit tussen veenmos in venen. Plectania melastoma heeft roestoranje korreltjes aan de buitenkant, en Sarcosoma globosum vormt veel grotere vruchtlichamen die met gelei gevuld zijn.",
+      "notes": "Een beoordeling uit 2019 deelt hem wereldwijd in als gevoelig (Near Threatened): er zijn ongeveer 170 deelpopulaties bekend, zijn leefgebied, oude zilversparbossen, gaat achteruit en grote rottende zilversparstammen zijn schaars in productiebossen. Hij staat ten minste als bedreigd op de rode lijsten van Duitsland, Oostenrijk, Zwitserland, Slowakije en Tsjechië en als ernstig bedreigd in Bulgarije. Waar veel dood zilversparhout ligt, kan hij in grote aantallen vrucht vormen, en hij geldt als indicator van natuurlijke bossen; op één plek in Oostenrijk werd hij van 1992 tot 2017 herhaaldelijk gevonden.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En liten, svart, kortstilket begersopp som vokser på svært morkne, mosegrodde liggende stammer av edelgran i fjellskoger og kommer fram sent på vinteren og om våren, ofte kort tid etter snøsmeltingen. Den finnes i hele Europa innenfor utbredelsen til edelgran og dessuten i Nord-Amerika og Øst-Asia, men den er sjelden og i tilbakegang.",
+      "cap": "Hatt finnes ikke: fruktlegemet er et beger, 2–6 cm i diameter, først dypt begerformet, senere åpnet til en grunn skål eller en nesten flat skive, med alderen ofte bølget eller uregelmessig. Kanten er innbøyd hos unge fruktlegemer, senere frynsete, hårete og mørkere enn innsiden. Utsiden er svart til svartbrun, rynkete og fint filtet av korte, mørkebrune hår.",
+      "hymenium": "Det fertile laget kler innsiden av begeret; det er glatt, som ungt helt svart og blankt, senere mørkegrått med olivenskjær eller svartbrunt, blankt i fuktig vær og matt i tørt. Sporesekkene (asci) er sylindriske, 320–450 × 11–13 µm, åttesporede, åpner seg med et lokk og blir ikke blå i jod. De tynne, septerte parafysene er bøyde til krokete i spissen, og mellom dem står rette, brunlige hår.",
+      "stipe": "En tydelig, tynn, svart stilk, 0,2–2 cm lang og 0,2–0,7 cm tykk, sylindrisk, bøyd og glatt; den sitter ofte dypt i mosen eller veden, slik at begeret kan se ustilket ut. Basis er festet med en dusk av hvite myceltråder.",
+      "flesh": "Tynt, seigt og ganske elastisk, gråaktig til olivengrått; noen beskrivelser kaller det gjennomskinnelig hvitaktig.",
+      "sporePrint": "Hvitaktig (sporene er fargeløse). Sporene er kuleformede, 12–13 µm i diameter (10–14 µm ifølge noen beskrivelser), glatte og ganske tykkveggede, med små oljedråper eller én stor dråpe.",
+      "habitat": "Saprotrof på død bartreved, i Europa nesten bare på edelgran (Abies alba): mest på store liggende stammer, 40–80 cm tykke, som er sterkt nedbrutt, barkløse og mosegrodde, av og til også på nedgravde greiner, slik at den kan se ut til å vokse på bakken. Gran er en sjelden vert. Den vokser enkeltvis eller i grupper i naturnære blandingsskoger av bøk, edelgran og gran og i kløftskoger i fjellet og danner fruktlegemer fra sent på vinteren til våren, mest fra mars til mai. Utenfor Europa vokser den i Nord-Amerika på edelgraner og kjempetuja (Thuja plicata), og den er også kjent fra Japan, Taiwan og Kina.",
+      "uses": "Uspiselig: de små, seige fruktlegemene har ingen kulinarisk verdi.",
+      "confusion": "Pseudoplectania nigrella er mindre, helt svart og ustilket og vokser på bakken i granstrø og mose. Pseudoplectania lignicola har mindre begre og vokser mest på granved. Pseudoplectania sphagnophila er enda mindre, med en bitteliten stilk, og vokser mellom torvmoser i myrer. Plectania melastoma har rustoransje korn på utsiden, og Sarcosoma globosum danner mye større fruktlegemer fylt med gelé.",
+      "notes": "En vurdering fra 2019 regner den globalt som nær truet (Near Threatened): omkring 170 delpopulasjoner er kjent, leveområdet, gamle edelgranskoger, går tilbake, og store, morkne edelgranstammer er sjeldne i produksjonsskog. Den står på rødlistene minst som sterkt truet i Tyskland, Østerrike, Sveits, Slovakia og Tsjekkia og som kritisk truet i Bulgaria. Der det er rikelig med død edelgranved, kan den sette fruktlegemer i stort antall, og den regnes som en indikator på naturnær skog; på en lokalitet i Østerrike ble den funnet gjentatte ganger fra 1992 til 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Mały, czarny grzyb o miseczkowatym owocniku na krótkim trzonie, który rośnie na silnie zbutwiałych, porośniętych mchem leżących pniach jodeł w lasach górskich i pojawia się późną zimą i wiosną, często wkrótce po stopnieniu śniegu. Występuje w całej Europie w zasięgu jodły pospolitej, a także w Ameryce Północnej i Azji Wschodniej, jest jednak rzadki i ustępuje.",
+      "cap": "Nie ma kapelusza: owocnik jest miseczką o średnicy 2–6 cm, początkowo głęboko kubkowatą, potem otwierającą się w płytką miseczkę lub prawie płaską tarczkę, z wiekiem często faliście wygiętą lub nieregularną. Brzeg u młodych owocników jest podwinięty, później postrzępiony, owłosiony i ciemniejszy od strony wewnętrznej. Strona zewnętrzna jest czarna do czarnobrązowej, pomarszczona i delikatnie filcowata od krótkich, ciemnobrązowych włosków.",
+      "hymenium": "Warstwa zarodnikowa wyściela wnętrze miseczki; jest gładka, u młodych owocników cała czarna i lśniąca, później ciemnoszara z oliwkowym odcieniem lub czarnobrązowa, w stanie wilgotnym błyszcząca, a w suchym matowa. Worki są cylindryczne, 320–450 × 11–13 µm, ośmiozarodnikowe, otwierają się wieczkiem i nie barwią się na niebiesko w jodzie. Cienkie, septowane wstawki są na szczycie wygięte do hakowatych, a między nimi występują proste, brązowawe włoski.",
+      "stipe": "Wyraźny, cienki, czarny trzon o długości 0,2–2 cm i grubości 0,2–0,7 cm, cylindryczny, wygięty i gładki; często jest głęboko zagłębiony w mchu lub drewnie, tak że miseczka może wyglądać na siedzącą. Podstawa jest przytwierdzona kępką białych strzępek grzybni.",
+      "flesh": "Cienki, twardy i dość elastyczny, szarawy do oliwkowoszarego; według niektórych opisów przeświecająco białawy.",
+      "sporePrint": "Białawy (zarodniki są bezbarwne). Zarodniki są kuliste, o średnicy 12–13 µm (według niektórych opisów 10–14 µm), gładkie, o dość grubej ścianie, z drobnymi kroplami oleju lub jedną dużą kroplą.",
+      "habitat": "Saprotrof na martwym drewnie drzew iglastych, w Europie niemal wyłącznie na jodle pospolitej (Abies alba): przeważnie na dużych leżących pniach o grubości 40–80 cm, silnie rozłożonych, pozbawionych kory i porośniętych mchem, czasem także na zagrzebanych gałęziach, tak że może się wydawać, że rośnie na ziemi. Świerk jest rzadkim żywicielem. Rośnie pojedynczo lub w grupach w naturalnych bukowo-jodłowo-świerkowych lasach mieszanych i lasach jarowych w górach, owocniki wytwarza od późnej zimy do wiosny, głównie od marca do maja. Poza Europą rośnie w Ameryce Północnej na jodłach i żywotniku olbrzymim (Thuja plicata), znany jest także z Japonii, Tajwanu i Chin.",
+      "uses": "Niejadalny: małe, twarde owocniki nie mają wartości kulinarnej.",
+      "confusion": "Pseudoplectania nigrella jest mniejsza, cała czarna i bez trzonu, rośnie na ziemi w ściółce świerkowej i mchu. Pseudoplectania lignicola ma mniejsze miseczki i rośnie głównie na drewnie świerkowym. Pseudoplectania sphagnophila jest jeszcze mniejsza, z maleńkim trzonem, i rośnie wśród torfowców na torfowiskach. Plectania melastoma ma na zewnętrznej stronie rdzawopomarańczowe ziarenka, a Sarcosoma globosum tworzy znacznie większe owocniki wypełnione galaretą.",
+      "notes": "Ocena z 2019 roku uznaje go w skali globalnej za gatunek bliski zagrożenia (Near Threatened): znanych jest około 170 subpopulacji, jego siedlisko, stare lasy jodłowe, kurczy się, a dużych butwiejących pni jodłowych jest mało w lasach gospodarczych. Na czerwonych listach figuruje co najmniej jako zagrożony w Niemczech, Austrii, Szwajcarii, na Słowacji i w Czechach, a jako krytycznie zagrożony w Bułgarii. Tam, gdzie martwego drewna jodłowego jest dużo, może owocnikować bardzo licznie i uważany jest za wskaźnik lasów o charakterze naturalnym; na jednym stanowisku w Austrii znajdowano go wielokrotnie w latach 1992–2017.",
+      "names": [
+        "czareczka czarniawa",
+        "czarkóweczka czarniawa"
+      ],
+      "sourceUrls": [
+        "https://www.grzyby.pl/gatunki/Pseudoplectania_melaena.htm",
+        "https://pl.wikipedia.org/wiki/Pseudoplectania"
+      ],
+      "label": "czarkóweczka czarna"
+    },
+    "pt": {
+      "description": "Um pequeno fungo em forma de taça, negro e de pé curto, que cresce em troncos caídos de abeto muito apodrecidos e cobertos de musgo nas florestas de montanha e aparece no fim do inverno e na primavera, muitas vezes pouco depois do degelo. Ocorre em toda a Europa na área de distribuição do abeto-branco e também na América do Norte e na Ásia Oriental, mas é raro e está em declínio.",
+      "cap": "Não tem chapéu: o corpo de frutificação é uma taça com 2–6 cm de diâmetro, de início profundamente cupuliforme, depois abrindo-se numa tigela pouco funda ou num disco quase plano, muitas vezes ondulado ou irregular com a idade. A margem é enrolada para dentro nos exemplares jovens, depois esfarrapada, pilosa e mais escura do que a face interna. A superfície externa é preta a castanho-enegrecida, enrugada e finamente feltrada por pelos curtos castanho-escuros.",
+      "hymenium": "A camada fértil reveste o interior da taça; é lisa, de início inteiramente preta e brilhante, depois cinzento-escura com tom oliváceo ou castanho-enegrecida, brilhante quando húmida e baça quando seca. Os ascos são cilíndricos, 320–450 × 11–13 µm, com oito esporos, abrem-se por um opérculo e não ficam azuis no iodo. As paráfises, finas e septadas, são curvas a ganchosas no ápice, com pelos retos acastanhados entre elas.",
+      "stipe": "Um pé distinto, fino e preto, com 0,2–2 cm de comprimento e 0,2–0,7 cm de espessura, cilíndrico, flexuoso e liso; muitas vezes fica enterrado no musgo ou na madeira, de modo que a taça pode parecer séssil. A base está presa por um tufo de fibras miceliais brancas.",
+      "flesh": "Fina, tenaz e bastante elástica, acinzentada a cinzento-oliva; algumas descrições chamam-lhe esbranquiçada e translúcida.",
+      "sporePrint": "Esbranquiçada (os esporos são incolores). Os esporos são globosos, com 12–13 µm de diâmetro (10–14 µm segundo algumas descrições), lisos e de parede bastante espessa, com pequenas gotículas de óleo ou uma única gota grande.",
+      "habitat": "Saprotrófico em madeira morta de coníferas, na Europa quase só em abeto-branco (Abies alba): sobretudo em grandes troncos caídos com 40–80 cm de espessura, muito decompostos, sem casca e cobertos de musgo, e por vezes em ramos enterrados, de modo que pode parecer crescer no solo. A pícea é um hospedeiro raro. Cresce isolado ou em grupos em florestas mistas de faia, abeto e pícea próximas do estado natural e em florestas de ravina na montanha, e frutifica do fim do inverno à primavera, sobretudo de março a maio. Fora da Europa cresce na América do Norte em abetos e no cedro-vermelho-do-oeste (Thuja plicata) e é também conhecido do Japão, de Taiwan e da China.",
+      "uses": "Não comestível: os corpos de frutificação, pequenos e tenazes, não têm valor culinário.",
+      "confusion": "Pseudoplectania nigrella é mais pequena, inteiramente preta e sem pé, e cresce no solo, na manta morta de pícea e no musgo. Pseudoplectania lignicola tem taças mais pequenas e cresce sobretudo em madeira de pícea. Pseudoplectania sphagnophila é ainda mais pequena, com um pé minúsculo, e cresce entre esfagnos em turfeiras. Plectania melastoma tem grânulos cor de laranja-ferrugem na face externa, e Sarcosoma globosum forma corpos de frutificação muito maiores, cheios de gelatina.",
+      "notes": "Uma avaliação de 2019 classifica-o a nível mundial como quase ameaçado (Near Threatened): conhecem-se cerca de 170 subpopulações, o seu habitat de velhos abetais está em declínio e os grandes troncos de abeto em decomposição são escassos nas florestas exploradas. Consta das listas vermelhas pelo menos como em perigo na Alemanha, Áustria, Suíça, Eslováquia e Chéquia, e como criticamente em perigo na Bulgária. Onde a madeira morta de abeto é abundante pode frutificar em grande número, e é considerado um indicador de florestas próximas do estado natural; num local austríaco foi encontrado repetidamente entre 1992 e 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mică, neagră, în formă de cupă, cu picior scurt, care crește pe trunchiuri căzute de brad foarte putrezite și acoperite de mușchi în pădurile de munte și apare la sfârșitul iernii și primăvara, adesea la scurt timp după topirea zăpezii. Este răspândită în toată Europa în arealul bradului și, de asemenea, în America de Nord și în Asia de Est, dar este rară și în declin.",
+      "cap": "Nu are pălărie: corpul fructifer este o cupă cu diametrul de 2–6 cm, la început adânc cupuliformă, apoi deschisă într-un castron puțin adânc sau un disc aproape plat, adesea ondulat sau neregulat la maturitate. Marginea este răsfrântă spre interior la exemplarele tinere, apoi zdrențuită, păroasă și mai închisă decât fața internă. Suprafața externă este neagră până la brun-negricioasă, zbârcită și fin pâsloasă din cauza perișorilor scurți, brun-închiși.",
+      "hymenium": "Stratul fertil căptușește interiorul cupei; este neted, la început complet negru și lucios, apoi cenușiu-închis cu nuanță oliv sau brun-negricios, lucios pe vreme umedă și mat pe vreme uscată. Ascele sunt cilindrice, 320–450 × 11–13 µm, cu opt spori, se deschid printr-un opercul și nu se colorează în albastru în iod. Parafizele, subțiri și septate, sunt curbate până la încârligate la vârf, iar printre ele se află peri drepți, brunii.",
+      "stipe": "Un picior distinct, subțire și negru, lung de 0,2–2 cm și gros de 0,2–0,7 cm, cilindric, sinuos și neted; adesea este adânc înfundat în mușchi sau în lemn, astfel încât cupa poate părea sesilă. Baza este prinsă printr-un smoc de fibre miceliene albe.",
+      "flesh": "Subțire, tenace și destul de elastică, cenușie până la cenușiu-oliv; unele descrieri o numesc alburie translucidă.",
+      "sporePrint": "Alburiu (sporii sunt incolori). Sporii sunt globuloși, cu diametrul de 12–13 µm (10–14 µm după unele descrieri), netezi și cu perete destul de gros, cu mici picături de ulei sau o singură picătură mare.",
+      "habitat": "Saprotrofă pe lemn mort de conifere, în Europa aproape numai pe brad (Abies alba): mai ales pe trunchiuri mari căzute, groase de 40–80 cm, puternic descompuse, fără scoarță și acoperite de mușchi, uneori și pe ramuri îngropate, astfel încât poate părea că crește pe sol. Molidul este o gazdă rară. Crește solitar sau în grupuri în păduri amestecate de fag, brad și molid apropiate de starea naturală și în păduri de ravene din munți și fructifică de la sfârșitul iernii până primăvara, mai ales din martie până în mai. În afara Europei crește în America de Nord pe brazi și pe tuia gigantică (Thuja plicata) și este cunoscută și din Japonia, Taiwan și China.",
+      "uses": "Necomestibilă: corpurile fructifere mici și tenace nu au valoare culinară.",
+      "confusion": "Pseudoplectania nigrella este mai mică, complet neagră și fără picior și crește pe sol, în litiera de molid și în mușchi. Pseudoplectania lignicola are cupe mai mici și crește mai ales pe lemn de molid. Pseudoplectania sphagnophila este și mai mică, cu un picior minuscul, și crește printre mușchii de turbă în turbării. Plectania melastoma are pe fața externă granule portocaliu-ruginii, iar Sarcosoma globosum formează corpuri fructifere mult mai mari, umplute cu gelatină.",
+      "notes": "O evaluare din 2019 o clasifică la nivel mondial drept aproape amenințată (Near Threatened): se cunosc circa 170 de subpopulații, habitatul ei de păduri bătrâne de brad este în declin, iar trunchiurile mari de brad în putrezire sunt rare în pădurile exploatate. Figurează pe listele roșii cel puțin ca periclitată în Germania, Austria, Elveția, Slovacia și Cehia și ca critic periclitată în Bulgaria. Acolo unde lemnul mort de brad abundă poate fructifica în număr mare și este considerată un indicator al pădurilor apropiate de starea naturală; într-un sit din Austria a fost găsită în mod repetat între 1992 și 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой чёрный чашевидный гриб на короткой ножке, который растёт в горных лесах на сильно разложившихся, поросших мхом упавших стволах пихты и появляется в конце зимы и весной, часто вскоре после таяния снега. Он встречается по всей Европе в пределах ареала пихты белой, а также в Северной Америке и Восточной Азии, но редок и сокращается в численности.",
+      "cap": "Шляпки нет: плодовое тело — чаша диаметром 2–6 cm, сначала глубоко чашевидная, затем раскрывается в неглубокую мисочку или почти плоский диск, с возрастом часто волнистая или неправильной формы. Край у молодых плодовых тел подвёрнут, позже рваный, волосистый и темнее внутренней стороны. Наружная поверхность чёрная или черновато-коричневая, морщинистая и тонковойлочная от коротких тёмно-коричневых волосков.",
+      "hymenium": "Плодоносящий слой выстилает внутреннюю сторону чаши; он гладкий, у молодых плодовых тел целиком чёрный и блестящий, позже тёмно-серый с оливковым оттенком или черновато-коричневый, во влажную погоду блестящий, а в сухую матовый. Сумки (аски) цилиндрические, 320–450 × 11–13 µm, восьмиспоровые, открываются крышечкой и не синеют в йоде. Тонкие септированные парафизы на верхушке изогнутые или крючковидные, между ними находятся прямые буроватые волоски.",
+      "stipe": "Отчётливая тонкая чёрная ножка длиной 0,2–2 cm и толщиной 0,2–0,7 cm, цилиндрическая, извилистая и гладкая; часто она глубоко погружена в мох или древесину, так что чаша может казаться сидячей. Основание прикреплено пучком белых волокон мицелия.",
+      "flesh": "Тонкая, жёсткая и довольно упругая, сероватая или оливково-серая; в некоторых описаниях — полупрозрачная беловатая.",
+      "sporePrint": "Беловатый (споры бесцветные). Споры шаровидные, 12–13 µm в диаметре (по некоторым описаниям 10–14 µm), гладкие, с довольно толстой стенкой, с мелкими каплями масла или одной крупной каплей.",
+      "habitat": "Сапротроф на мёртвой древесине хвойных, в Европе почти исключительно на пихте белой (Abies alba): чаще всего на крупных упавших стволах толщиной 40–80 cm, сильно разложившихся, без коры и поросших мхом, иногда и на погребённых ветвях, так что может казаться, будто он растёт на земле. Ель — редкий субстрат. Растёт одиночно или группами в естественных смешанных буково-пихтово-еловых и овражных лесах в горах, плодовые тела образует с конца зимы до весны, главным образом с марта по май. За пределами Европы растёт в Северной Америке на пихтах и туе складчатой (Thuja plicata), известен также из Японии, Тайваня и Китая.",
+      "uses": "Несъедобен: мелкие жёсткие плодовые тела не имеют кулинарной ценности.",
+      "confusion": "Pseudoplectania nigrella мельче, целиком чёрная и без ножки, растёт на земле в еловом опаде и мху. У Pseudoplectania lignicola чаши мельче, и она растёт в основном на еловой древесине. Pseudoplectania sphagnophila ещё мельче, с крошечной ножкой, и растёт среди сфагнума на болотах. У Plectania melastoma на наружной стороне ржаво-оранжевые гранулы, а Sarcosoma globosum образует гораздо более крупные плодовые тела, заполненные студнем.",
+      "notes": "Оценка 2019 года относит его в мировом масштабе к видам, близким к уязвимому положению (Near Threatened): известно около 170 субпопуляций, его местообитание — старовозрастные пихтовые леса — сокращается, а крупных гниющих пихтовых стволов в хозяйственных лесах мало. В красных списках он значится по меньшей мере как находящийся под угрозой исчезновения в Германии, Австрии, Швейцарии, Словакии и Чехии и как находящийся на грани исчезновения в Болгарии. Там, где много мёртвой пихтовой древесины, он может плодоносить в большом количестве и считается индикатором лесов, близких к естественным; на одном местонахождении в Австрии его неоднократно находили с 1992 по 2017 год.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Malá čierna miskovitá huba s krátkym hlúbikom, ktorá rastie na silne rozložených, machom porastených padnutých kmeňoch jedlí v horských lesoch a objavuje sa koncom zimy a na jar, často krátko po roztopení snehu. Vyskytuje sa v celej Európe v oblasti rozšírenia jedle bielej a aj v Severnej Amerike a východnej Ázii, je však vzácna a ubúda.",
+      "cap": "Klobúk nemá: plodnica je miska široká 2–6 cm, spočiatku hlboko miskovitá, potom sa otvára do plytkej misky alebo takmer plochého terčíka, v starobe často zvlnená alebo nepravidelná. Okraj je v mladosti podvinutý, neskôr rozstrapkaný, chlpatý a tmavší ako vnútorná strana. Vonkajší povrch je čierny až čiernohnedý, zvráskavený a jemne plstnatý od krátkych tmavohnedých chĺpkov.",
+      "hymenium": "Hladký povrch – výtrusorodá vrstva – vystiela vnútro misky; v mladosti je celý čierny a lesklý, neskôr tmavosivý s olivovým nádychom alebo čiernohnedý, za vlhka lesklý a za sucha matný. Vrecká sú valcovité, 320–450 × 11–13 µm, osemvýtrusné, otvárajú sa viečkom a v jóde nemodrajú. Tenké, priehradkované parafýzy sú na konci zahnuté až hákovité a medzi nimi sú rovné hnedasté chlpy.",
+      "stipe": "Zreteľný, tenký čierny hlúbik dlhý 0,2–2 cm a hrubý 0,2–0,7 cm, valcovitý, ohybný a hladký; často je hlboko zanorený v machu alebo dreve, takže miska môže pôsobiť ako bez hlúbika. Báza je prichytená chumáčom bielych myceliálnych vlákien.",
+      "flesh": "Tenká, tuhá a dosť pružná, sivastá až olivovosivá; podľa niektorých opisov priesvitne belavá.",
+      "sporePrint": "Belavý (výtrusy sú bezfarebné). Askospóry sú guľovité, 12–13 µm v priemere (podľa niektorých opisov 10–14 µm), hladké, s pomerne hrubou stenou a s drobnými olejovými kvapkami alebo jednou veľkou kvapkou.",
+      "habitat": "Saprotrofná na mŕtvom dreve ihličnanov, v Európe takmer výlučne na jedli bielej (Abies alba): väčšinou na veľkých padnutých kmeňoch hrubých 40–80 cm, ktoré sú silne rozložené, bez kôry a porastené machom, niekedy aj na zahrabaných konároch, takže sa môže zdať, že rastie na zemi. Smrek je vzácnym hostiteľom. Rastie jednotlivo alebo v skupinách v prirodzených zmiešaných bukovo-jedľovo-smrekových a suťových lesoch v horách a plodnice tvorí od konca zimy do jari, hlavne od marca do mája. Mimo Európy rastie v Severnej Amerike na jedliach a tuji riasenej (Thuja plicata) a známa je aj z Japonska, Taiwanu a Číny.",
+      "uses": "Nejedlá: malé, tuhé plodnice nemajú kulinársku hodnotu.",
+      "confusion": "Pseudoplectania nigrella je menšia, celá čierna a bez hlúbika a rastie na zemi v smrekovom opade a machu. Pseudoplectania lignicola má menšie misky a rastie hlavne na smrekovom dreve. Pseudoplectania sphagnophila je ešte menšia, s drobným hlúbikom, a rastie medzi rašeliníkmi na rašeliniskách. Plectania melastoma má na vonkajšej strane hrdzavooranžové zrniečka a Sarcosoma globosum tvorí oveľa väčšie plodnice vyplnené rôsolom.",
+      "notes": "Hodnotenie z roku 2019 ju globálne zaraďuje medzi takmer ohrozené druhy: je známych asi 170 subpopulácií, jej biotop starých jedľových lesov ubúda a v hospodárskych lesoch je veľkých tlejúcich jedľových kmeňov málo. Na červených zoznamoch je vedená najmenej ako ohrozená v Nemecku, Rakúsku, Švajčiarsku, na Slovensku a v Česku a ako kriticky ohrozená v Bulharsku. Kde je dosť mŕtveho jedľového dreva, môže plodiť vo veľkom množstve a považuje sa za indikátor prírode blízkych lesov; na jednej lokalite v Rakúsku ju opakovane nachádzali v rokoch 1992 až 2017.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Pseudoplectania-melaena/misocka-tmava/usicko-cernave/ID2388",
+        "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2021/170/20250101",
+        "https://sk.wikipedia.org/wiki/Zoznam_chr%C3%A1nen%C3%BDch_rastl%C3%ADn_na_Slovensku",
+        "https://www.iucnredlist.org/species/147440561/148048893"
+      ],
+      "label": "misôčka tmavá"
+    },
+    "sl": {
+      "description": "Majhna, črna, kratkobetna čašasta goba, ki raste na močno trhlih, z mahom poraslih podrtih deblih jelk v gorskih gozdovih in se pojavi konec zime in spomladi, pogosto kmalu po kopnenju snega. Pojavlja se po vsej Evropi na območju razširjenosti bele jelke ter tudi v Severni Ameriki in vzhodni Aziji, vendar je redka in njeno število upada.",
+      "cap": "Klobuka nima: plodišče je čaša s premerom 2–6 cm, sprva globoko skodeličasta, nato se odpre v plitvo skledico ali skoraj ploščat disk, v starosti pogosto valovita ali nepravilna. Rob je v mladosti podvihan, pozneje razcefran, dlakav in temnejši od notranje strani. Zunanja površina je črna do črnorjava, nagubana in drobno polstena od kratkih temnorjavih dlačic.",
+      "hymenium": "Plodna plast pokriva notranjost čaše; je gladka, v mladosti povsem črna in svetleča, pozneje temno siva z olivnim odtenkom ali črnorjava, v vlažnem svetleča in v suhem motna. Aski so valjasti, 320–450 × 11–13 µm, osemtrosni, odpirajo se s pokrovčkom in se v jodu ne obarvajo modro. Tanke, pregradne parafize so na vrhu ukrivljene do kljukaste, med njimi so ravne rjavkaste dlačice.",
+      "stipe": "Izrazit, tanek, črn bet, dolg 0,2–2 cm in debel 0,2–0,7 cm, valjast, upogljiv in gladek; pogosto je globoko pogreznjen v mah ali les, tako da je čaša lahko videti brezbetna. Osnova je pritrjena s šopom belih micelijskih vlaken.",
+      "flesh": "Tanko, žilavo in precej prožno, sivkasto do olivno sivo; po nekaterih opisih prosojno belkasto.",
+      "sporePrint": "Belkast (trosi so brezbarvni). Trosi so kroglasti, s premerom 12–13 µm (po nekaterih opisih 10–14 µm), gladki in s precej debelo steno, z drobnimi oljnimi kapljicami ali eno veliko kapljo.",
+      "habitat": "Saprotrofna na odmrlem lesu iglavcev, v Evropi skoraj le na beli jelki (Abies alba): večinoma na velikih podrtih deblih debeline 40–80 cm, ki so močno razkrojena, brez skorje in poraščena z mahom, včasih tudi na zakopanih vejah, tako da je videti, kot da raste na tleh. Smreka je redek gostitelj. Raste posamič ali v skupinah v naravnih mešanih bukovo-jelovo-smrekovih in grapnih gozdovih v gorah, plodišča pa razvija od konca zime do pomladi, predvsem od marca do maja. Zunaj Evrope raste v Severni Ameriki na jelkah in orjaškem kleku (Thuja plicata), znana pa je tudi z Japonske, Tajvana in Kitajske.",
+      "uses": "Neužitna: majhna, žilava plodišča nimajo kulinarične vrednosti.",
+      "confusion": "Pseudoplectania nigrella je manjša, povsem črna in brez beta ter raste na tleh v smrekovem opadu in mahu. Pseudoplectania lignicola ima manjše čaše in raste predvsem na smrekovem lesu. Pseudoplectania sphagnophila je še manjša, z drobnim betom, in raste med šotnimi mahovi na barjih. Plectania melastoma ima na zunanji strani rjasto oranžna zrnca, Sarcosoma globosum pa oblikuje veliko večja plodišča, napolnjena z žolco.",
+      "notes": "Ocena iz leta 2019 jo v svetovnem merilu uvršča med skoraj ogrožene vrste (Near Threatened): znanih je približno 170 subpopulacij, njen življenjski prostor, stari jelovi gozdovi, se krči, velikih trhlih jelovih debel pa je v gospodarskih gozdovih malo. Na rdečih seznamih je uvrščena najmanj kot ogrožena v Nemčiji, Avstriji, Švici, na Slovaškem in Češkem ter kot kritično ogrožena v Bolgariji. Kjer je odmrlega jelovega lesa dovolj, lahko plodi zelo številčno in velja za kazalnik sonaravnih gozdov; na enem nahajališču v Avstriji so jo večkrat našli v letih od 1992 do 2017. V Sloveniji je na rdečem seznamu gliv uvrščena kot redka vrsta.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gobe.si/Gobe/PseudoplectaniaMelaena",
+        "https://sl.wikipedia.org/wiki/Rde%C4%8Di_seznam_gliv_v_Sloveniji"
+      ],
+      "label": "temneča polpletenka"
+    },
+    "sr": {
+      "description": "Мала црна чашаста гљива са кратком дршком, која расте у планинским шумама на веома иструлелим, маховином обраслим обореним стаблима јеле и појављује се крајем зиме и у пролеће, често убрзо после отапања снега. Распрострањена је широм Европе у ареалу беле јеле, као и у Северној Америци и источној Азији, али је ретка и у опадању.",
+      "cap": "Шешира нема: плодно тело је чаша пречника 2–6 cm, у почетку дубоко чашаста, затим се отвара у плитку зделицу или готово раван диск, а с годинама је често таласаста или неправилна. Ивица је код младих плодних тела подврнута, касније искидана, длакава и тамнија од унутрашње стране. Спољашња површина је црна до црнкастомрка, наборана и фино пустенаста од кратких тамномрких длачица.",
+      "hymenium": "Плодни слој облаже унутрашњост чаше; гладак је, код младих плодних тела потпуно црн и сјајан, касније тамносив са маслинастим тоном или црнкастомрк, сјајан по влажном и мат по сувом времену. Аскуси су ваљкасти, 320–450 × 11–13 µm, са осам спора, отварају се поклопцем и не плаве у јоду. Танке, преградне парафизе су на врху савијене до кукасте, а између њих су праве мркасте длачице.",
+      "stipe": "Јасно изражена, танка црна дршка, дуга 0,2–2 cm и дебела 0,2–0,7 cm, ваљкаста, вијугава и глатка; често је дубоко утонула у маховину или дрво, па чаша може изгледати седећа. Основа је причвршћена чуперком белих мицелијских влакана.",
+      "flesh": "Танко, жилаво и прилично еластично, сивкасто до маслинастосиво; неки описи га наводе као провидно беличасто.",
+      "sporePrint": "Беличаст (споре су безбојне). Споре су лоптасте, пречника 12–13 µm (према неким описима 10–14 µm), глатке и прилично дебелог зида, са ситним уљаним капима или једном великом капи.",
+      "habitat": "Сапротроф на мртвом дрвету четинара, у Европи готово искључиво на белој јели (Abies alba): углавном на великим обореним стаблима дебљине 40–80 cm, која су јако разложена, без коре и обрасла маховином, понекад и на закопаним гранама, па може изгледати као да расте на тлу. Смрча је ретки домаћин. Расте појединачно или у групама у природним мешовитим шумама букве, јеле и смрче и у шумама клисура у планинама, а плодна тела образује од краја зиме до пролећа, углавном од марта до маја. Изван Европе расте у Северној Америци на јелама и џиновској туји (Thuja plicata), а позната је и из Јапана, Тајвана и Кине.",
+      "uses": "Нејестива: мала, жилава плодна тела немају кулинарску вредност.",
+      "confusion": "Pseudoplectania nigrella је мања, потпуно црна и без дршке, и расте на тлу у смрчевој стељи и маховини. Pseudoplectania lignicola има мање чаше и расте углавном на смрчевом дрвету. Pseudoplectania sphagnophila је још мања, са сићушном дршком, и расте међу тресетницама на тресетиштима. Plectania melastoma има рђастонаранџасте грануле на спољашњој страни, а Sarcosoma globosum образује много већа плодна тела испуњена желатином.",
+      "notes": "Процена из 2019. године сврстава је на светском нивоу међу скоро угрожене врсте (Near Threatened): познато је око 170 субпопулација, њено станиште, старе јелове шуме, нестаје, а великих трулих јелових стабала у привредним шумама има мало. На црвеним листама наведена је најмање као угрожена у Немачкој, Аустрији, Швајцарској, Словачкој и Чешкој и као крајње угрожена у Бугарској. Тамо где има доста мртвог јеловог дрвета може плодоносити у великом броју и сматра се показатељем шума блиских природним; на једном налазишту у Аустрији налажена је више пута од 1992. до 2017. године.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten, svart, kortskaftad skålsvamp som växer på mycket murkna, mossbeklädda liggande stammar av silvergran i bergsskogar och dyker upp sent på vintern och på våren, ofta strax efter snösmältningen. Den förekommer i hela Europa inom silvergranens utbredning och dessutom i Nordamerika och Östasien, men den är sällsynt och minskar.",
+      "cap": "Någon hatt finns inte: fruktkroppen är en skål, 2–6 cm i diameter, först djupt bägarformad, sedan öppnad till en grund skål eller en nästan platt skiva, med åldern ofta vågig eller oregelbunden. Kanten är inböjd hos unga fruktkroppar, senare fransig, hårig och mörkare än insidan. Utsidan är svart till svartbrun, skrynklig och fint filtad av korta, mörkbruna hår.",
+      "hymenium": "Det fertila lagret klär skålens insida; det är slätt, som ungt helt svart och glänsande, senare mörkgrått med olivton eller svartbrunt, glänsande i fuktigt väder och matt i torrt. Sporsäckarna (asci) är cylindriska, 320–450 × 11–13 µm, åttasporiga, öppnar sig med ett lock och blir inte blå i jod. De tunna, septerade parafyserna är böjda till krokformade i spetsen, och mellan dem sitter raka, brunaktiga hår.",
+      "stipe": "En tydlig, tunn, svart fot, 0,2–2 cm lång och 0,2–0,7 cm tjock, cylindrisk, böjd och slät; den sitter ofta djupt i mossan eller veden, så att skålen kan se oskaftad ut. Basen är fäst med en tofs av vita mycelfibrer.",
+      "flesh": "Tunt, segt och ganska elastiskt, gråaktigt till olivgrått; vissa beskrivningar kallar det genomskinligt vitaktigt.",
+      "sporePrint": "Vitaktigt (sporerna är färglösa). Sporerna är klotrunda, 12–13 µm i diameter (10–14 µm enligt vissa beskrivningar), släta och ganska tjockväggiga, med små oljedroppar eller en enda stor droppe.",
+      "habitat": "Saprotrof på död barrved, i Europa nästan bara på silvergran (Abies alba): mest på stora liggande stammar, 40–80 cm tjocka, som är kraftigt nedbrutna, barklösa och mossbeklädda, ibland också på nedgrävda grenar, så att den kan tyckas växa på marken. Gran är en sällsynt värd. Den växer enstaka eller i grupper i naturnära blandskogar av bok, silvergran och gran och i ravinskogar i bergen och bildar fruktkroppar från sen vinter till vår, främst från mars till maj. Utanför Europa växer den i Nordamerika på ädelgranar och jättetuja (Thuja plicata), och den är även känd från Japan, Taiwan och Kina.",
+      "uses": "Oätlig: de små, sega fruktkropparna saknar matvärde.",
+      "confusion": "Pseudoplectania nigrella är mindre, helt svart och oskaftad och växer på marken i granförna och mossa. Pseudoplectania lignicola har mindre skålar och växer mest på granved. Pseudoplectania sphagnophila är ännu mindre, med en mycket liten fot, och växer bland vitmossor i myrar. Plectania melastoma har rostorange korn på utsidan, och Sarcosoma globosum bildar mycket större fruktkroppar fyllda med gelé.",
+      "notes": "En bedömning från 2019 klassar den globalt som nära hotad (Near Threatened): omkring 170 delpopulationer är kända, dess livsmiljö, gamla silvergranskogar, minskar, och stora murkna silvergranstammar är sällsynta i brukad skog. Den står på rödlistorna minst som starkt hotad i Tyskland, Österrike, Schweiz, Slovakien och Tjeckien och som akut hotad i Bulgarien. Där det finns gott om död silvergranved kan den bilda fruktkroppar i stort antal, och den räknas som en indikator på naturnära skog; på en lokal i Österrike hittades den upprepade gånger från 1992 till 2017.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Dağ ormanlarında çok çürümüş, yosunla kaplı devrik göknar gövdeleri üzerinde yetişen, kış sonunda ve ilkbaharda, çoğu zaman karların erimesinden hemen sonra ortaya çıkan, küçük, siyah, kısa saplı bir kâse mantarıdır. Avrupa’nın her yerinde Avrupa göknarının yayılış alanı içinde, ayrıca Kuzey Amerika ve Doğu Asya’da bulunur, ancak nadirdir ve azalmaktadır.",
+      "cap": "Şapkası yoktur: meyve gövdesi 2–6 cm çapında bir kâsedir; önce derin kâse biçimli, sonra sığ bir çanak ya da neredeyse düz bir disk biçiminde açılır, yaşlandıkça çoğu zaman dalgalı veya düzensizdir. Kenarı gençken içe kıvrık, sonra yırtık pırtık, tüylü ve iç yüzeyden daha koyudur. Dış yüzey siyahtan siyahımsı kahverengiye kadardır, buruşuktur ve kısa, koyu kahverengi tüylerle ince keçemsidir.",
+      "hymenium": "Verimli tabaka kâsenin iç yüzünü kaplar; düzdür, gençken tamamen siyah ve parlak, sonra zeytin tonlu koyu gri ya da siyahımsı kahverengidir, nemliyken parlak, kuruyken mattır. Askuslar silindirik, 320–450 × 11–13 µm, sekiz sporlu, bir kapakla açılır ve iyotta mavileşmez. İnce, bölmeli parafizlerin ucu kıvrıktan çengel biçimliye kadardır ve aralarında düz, kahverengimsi tüyler bulunur.",
+      "stipe": "Belirgin, ince, siyah bir sap; 0,2–2 cm uzunluğunda ve 0,2–0,7 cm kalınlığında, silindirik, kıvrımlı ve düzdür; çoğu zaman yosunun veya odunun içine derince gömülüdür, bu yüzden kâse sapsız görünebilir. Tabanı beyaz miselyum liflerinden bir tutamla tutunur.",
+      "flesh": "İnce, sert ve oldukça esnek, grimsiden zeytin grisine kadar; bazı tanımlarda yarı saydam beyazımsı olarak geçer.",
+      "sporePrint": "Beyazımsı (sporlar renksizdir). Sporlar küremsi, 12–13 µm çapında (bazı tanımlara göre 10–14 µm), düz ve oldukça kalın çeperlidir; küçük yağ damlacıkları ya da tek bir büyük damla içerir.",
+      "habitat": "Ölü iğne yapraklı ağaç odunu üzerinde saprotrofik; Avrupa’da neredeyse yalnızca Avrupa göknarı (Abies alba) üzerinde, çoğunlukla 40–80 cm kalınlığında, çok çürümüş, kabuksuz ve yosunla kaplı büyük devrik gövdelerde, bazen de toprağa gömülü dallarda yetişir; bu nedenle toprakta yetişiyormuş gibi görünebilir. Ladin nadir bir konakçıdır. Dağlardaki doğala yakın karışık kayın-göknar-ladin ormanlarında ve vadi ormanlarında tek tek ya da gruplar halinde yetişir ve kış sonundan ilkbahara kadar, özellikle marttan mayısa meyve verir. Avrupa dışında Kuzey Amerika’da göknarlar ve dev mazı (Thuja plicata) üzerinde yetişir; Japonya, Tayvan ve Çin’den de bilinir.",
+      "uses": "Yenmez: küçük ve sert meyve gövdelerinin mutfakta değeri yoktur.",
+      "confusion": "Pseudoplectania nigrella daha küçüktür, tamamen siyah ve sapsızdır; toprakta ladin döküntüsü ve yosun arasında yetişir. Pseudoplectania lignicola’nın kâseleri daha küçüktür ve çoğunlukla ladin odunu üzerinde yetişir. Pseudoplectania sphagnophila daha da küçüktür, minicik bir sapı vardır ve turbalıklarda turba yosunları arasında yetişir. Plectania melastoma’nın dış yüzünde pas turuncusu granüller bulunur; Sarcosoma globosum ise jöleyle dolu, çok daha büyük meyve gövdeleri oluşturur.",
+      "notes": "2019 tarihli bir değerlendirme onu dünya ölçeğinde tehdide yakın (Near Threatened) olarak sınıflandırır: yaklaşık 170 alt popülasyonu bilinmektedir, yaşam alanı olan yaşlı göknar ormanları azalmaktadır ve işletme ormanlarında büyük, çürüyen göknar gövdeleri azdır. Kırmızı listelerde Almanya, Avusturya, İsviçre, Slovakya ve Çekya’da en az tehlikede, Bulgaristan’da ise kritik tehlikede olarak yer alır. Ölü göknar odununun bol olduğu yerlerde çok sayıda meyve verebilir ve doğala yakın ormanların gösterge türü sayılır; Avusturya’daki bir yerde 1992’den 2017’ye kadar tekrar tekrar bulunmuştur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий чорний чашоподібний гриб на короткій ніжці, який росте в гірських лісах на сильно розкладених, порослих мохом повалених стовбурах ялиці й з’являється наприкінці зими та навесні, часто незабаром після танення снігу. Він трапляється по всій Європі в межах ареалу ялиці білої, а також у Північній Америці та Східній Азії, але рідкісний і зникає.",
+      "cap": "Шапки немає: плодове тіло — чаша діаметром 2–6 cm, спершу глибоко чашоподібна, потім розкривається в неглибоку мисочку або майже плаский диск, з віком часто хвиляста чи неправильна. Край у молодих плодових тіл підгорнутий, пізніше пошарпаний, волосистий і темніший за внутрішній бік. Зовнішня поверхня чорна або чорнувато-коричнева, зморшкувата й тонко повстиста від коротких темно-коричневих волосків.",
+      "hymenium": "Спороносний шар вистилає внутрішній бік чаші; він гладенький, у молодих плодових тіл цілком чорний і блискучий, пізніше темно-сірий з оливковим відтінком або чорнувато-коричневий, у вологу погоду блискучий, а в суху матовий. Сумки (аски) циліндричні, 320–450 × 11–13 µm, восьмиспорові, відкриваються кришечкою і не синіють у йоді. Тонкі септовані парафізи на верхівці зігнуті або гачкуваті, між ними є прямі буруваті волоски.",
+      "stipe": "Чітка тонка чорна ніжка завдовжки 0,2–2 cm і завтовшки 0,2–0,7 cm, циліндрична, звивиста й гладенька; часто вона глибоко занурена в мох або деревину, тож чаша може здаватися сидячою. Основа прикріплена пучком білих волокон міцелію.",
+      "flesh": "Тонка, жорстка й досить пружна, сірувата або оливково-сіра; у деяких описах — напівпрозора білувата.",
+      "sporePrint": "Білуватий (спори безбарвні). Спори кулясті, 12–13 µm у діаметрі (за деякими описами 10–14 µm), гладенькі, з досить товстою стінкою, з дрібними краплями олії або однією великою краплею.",
+      "habitat": "Сапротроф на мертвій деревині хвойних, у Європі майже виключно на ялиці білій (Abies alba): здебільшого на великих повалених стовбурах завтовшки 40–80 cm, сильно розкладених, без кори й порослих мохом, іноді й на закопаних гілках, тож може здаватися, що він росте на землі. Ялина — рідкісний субстрат. Росте поодинці або групами в природних мішаних буково-ялицево-ялинових і яружних лісах у горах, плодові тіла утворює від кінця зими до весни, переважно з березня по травень. Поза Європою росте в Північній Америці на ялицях і туї велетенській (Thuja plicata), відомий також з Японії, Тайваню та Китаю.",
+      "uses": "Неїстівний: дрібні жорсткі плодові тіла не мають кулінарної цінності.",
+      "confusion": "Pseudoplectania nigrella дрібніша, цілком чорна й без ніжки, росте на землі в ялиновій підстилці та моху. У Pseudoplectania lignicola чаші дрібніші, і вона росте переважно на ялиновій деревині. Pseudoplectania sphagnophila ще дрібніша, з крихітною ніжкою, і росте серед сфагнуму на болотах. У Plectania melastoma на зовнішньому боці іржаво-помаранчеві гранули, а Sarcosoma globosum утворює значно більші плодові тіла, заповнені драглями.",
+      "notes": "Оцінка 2019 року відносить його у світовому масштабі до видів, близьких до загрозливого стану (Near Threatened): відомо близько 170 субпопуляцій, його оселище — старовікові ялицеві ліси — скорочується, а великих гнилих ялицевих стовбурів у господарських лісах мало. У червоних списках він значиться щонайменше як зникаючий у Німеччині, Австрії, Швейцарії, Словаччині та Чехії і як у критичному стані в Болгарії. Там, де багато мертвої ялицевої деревини, він може плодоносити рясно й вважається індикатором лісів, близьких до природних; на одному місцезнаходженні в Австрії його неодноразово знаходили з 1992 по 2017 рік.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種小型、黑色、具短柄的杯狀真菌，生長於山地森林中嚴重腐朽、覆滿苔蘚的冷杉倒木上，於冬末及春季出現，常在融雪後不久即可見到。分布於整個歐洲的歐洲冷杉分布範圍內，北美洲和東亞也有，但十分稀少且正在減少。",
+      "cap": "沒有菌蓋：子實體為直徑 2–6 cm 的杯狀體，起初呈深杯形，之後展開成淺碗形或近乎平坦的盤狀，老熟時常呈波狀或不規則。邊緣幼時內捲，後變得參差不齊，具毛，顏色比內面深。外表面黑色至黑褐色，有皺紋，被短的暗褐色毛而呈細氈毛狀。",
+      "hymenium": "子實層覆蓋杯的內面；表面平滑，幼時全黑而有光澤，之後變為帶橄欖色調的暗灰色或黑褐色，濕時有光澤，乾時無光澤。子囊圓柱形，320–450 × 11–13 µm，具八個孢子，以囊蓋開裂，遇碘不變藍。側絲細，具隔膜，頂端彎曲至鉤狀，其間夾有直的淡褐色毛。",
+      "stipe": "柄明顯、細而黑，長 0.2–2 cm、粗 0.2–0.7 cm，圓柱形，彎曲，平滑；常深埋於苔蘚或木材中，因此杯體看似無柄。基部以一叢白色菌絲纖維附著。",
+      "flesh": "薄、堅韌而頗有彈性，灰色至橄欖灰色；也有描述稱其為半透明的白色。",
+      "sporePrint": "白色（孢子無色）。孢子球形，直徑 12–13 µm（部分描述為 10–14 µm），平滑，壁頗厚，內含小油滴或一個大油滴。",
+      "habitat": "腐生於針葉樹的死木上，在歐洲幾乎只生於歐洲冷杉（Abies alba）：多見於直徑 40–80 cm、嚴重腐朽、樹皮脫落並覆滿苔蘚的大型倒木上，有時也生於埋在土中的枝條上，因此看似生於地上。雲杉是罕見的寄主。單生或群生於山區接近自然狀態的山毛櫸–冷杉–雲杉混交林和溪谷林中，從冬末至春季產生子實體，主要在三月至五月。在歐洲以外，生於北美洲的冷杉和大側柏（Thuja plicata）上，日本、臺灣和中國也有紀錄。",
+      "uses": "不可食用：子實體小而堅韌，沒有食用價值。",
+      "confusion": "Pseudoplectania nigrella 較小，全黑且無柄，生於地上的雲杉落葉層和苔蘚中。Pseudoplectania lignicola 的杯體較小，主要生於雲杉木材上。Pseudoplectania sphagnophila 更小，柄極短，生於沼澤的泥炭蘚之間。Plectania melastoma 外表面有鏽橙色顆粒，而 Sarcosoma globosum 形成大得多、內部充滿膠質的子實體。",
+      "notes": "2019 年的一項評估將其在全球列為近危（Near Threatened）：已知約 170 個亞族群，其棲地——老齡冷杉林——正在減少，而經營林中大型腐朽冷杉樹幹很少。在德國、奧地利、瑞士、斯洛伐克和捷克的紅色名錄中至少列為瀕危，在保加利亞則列為極危。在冷杉死木豐富的地方可大量產生子實體，被視為接近自然狀態之森林的指標物種；在奧地利的一處產地，1992 年至 2017 年間曾多次被發現。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t31u, same form as Sarcosoma globosum ID 151, Bovista paludosa 154, Phaeoclavulina roellinii 155 and Agaricus bohusii 156). The supplied image is a 19th-century-style colour illustration that appears AI-generated (no signature, caption or plate number; Picasa-processed JPEG named .png; no matching historical plate found); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm1.webp",
+      "author": "Alex Abair",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/21658893"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm2.webp",
+      "author": "Bryn",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/70708910"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm3.webp",
+      "author": "Hilary Rose Dawson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/147568047"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm4.webp",
+      "author": "Nina Filippova",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/26436804"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm5.webp",
+      "author": "pynklynx",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/57697512"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/Pseudoplectania_melaena@1600.webp",
+      "basedOn": [],
+      "existingMark": "none on the source; no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm1.webp",
+      "author": "Alex Abair",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/21658893",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/33533565/original.jpg",
+      "attribution": "© Alex Abair, CC BY 4.0, via iNaturalist observation 21658893 / GBIF occurrence 2234798937",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm2.webp",
+      "author": "Bryn",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/70708910",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114998980/original.jpeg",
+      "attribution": "© Bryn, CC BY 4.0, via iNaturalist observation 70708910 / GBIF occurrence 3109060458",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm3.webp",
+      "author": "Hilary Rose Dawson",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/147568047",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/253947588/original.jpg",
+      "attribution": "© Hilary Rose Dawson, CC BY 4.0, via iNaturalist observation 147568047 / GBIF occurrence 4028955965",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm4.webp",
+      "author": "Nina Filippova",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/26436804",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/41051888/original.jpeg",
+      "attribution": "© Nina Filippova, CC BY 4.0, via iNaturalist observation 26436804 / GBIF occurrence 2273210583",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Sarcosomataceae/Pseudoplectania_melaena/pm5.webp",
+      "author": "pynklynx",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/57697512",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/92056731/original.jpg",
+      "attribution": "pynklynx, CC0 1.0 (no rights reserved), via iNaturalist observation 57697512",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Peziza melaena",
+    "Melascypha melaena",
+    "Plectania melaena",
+    "Peziza fuscocana",
+    "Peziza melania var. fuscocana",
+    "Peziza melaena β fuscocana",
+    "Pseudoplectania melaena var. fuscocana",
+    "Otidella fuscocana",
+    "Melascypha melaena var. fuscocana",
+    "Melascypha fuscocana",
+    "Peziza vogesiaca",
+    "Peziza melania var. vogesiaca",
+    "Pseudoplectania vogesiaca"
+  ],
+  "fruitingFrom": 2,
+  "fruitingTo": 5,
+  "reserved": false,
+  "id": 158,
+  "added": "2026-11-11",
+  "citation": "Syll. Fung. (Abellini) 8: 165 (1889)",
+  "illustrationProvenance": {
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 8002,
+    "paperResidualP995": 2.858947264176148,
+    "contrastThreshold": 6,
+    "contours": [
+      {
+        "area": 418015.5,
+        "box": [
+          54,
+          299,
+          762,
+          821
+        ],
+        "medianContrast": 159.34819209970962
+      },
+      {
+        "area": 50458.0,
+        "box": [
+          552,
+          88,
+          272,
+          416
+        ],
+        "medianContrast": 156.07133212650174
+      }
+    ],
+    "cropBBox": [
+      53,
+      87,
+      825,
+      1121
+    ],
+    "uniformScale": 1.8134715025906736,
+    "placement": [
+      100,
+      262
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1875
+    ],
+    "signatureBox": null,
+    "signatureComponents": 0,
+    "signaturePixels": 0,
+    "transparentPixels": 599308,
+    "opaquePixels": 453852,
+    "partialAlphaPixels": 22040,
+    "sourceFormat": "JPEG",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "a0e541b73fc23d58babfe88c6a538e8e3fa35753e11609e7c6a85c8f62d9e421",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "Enclosed low-contrast regions (cream paper between moss fronds and inside the cup cluster) kept as found; removing them would cut into moss and flesh.",
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Pseudoplectania melaena.png",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa), RGB, no source alpha; alpha produced by segmentation.",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "allSourceRGBChangedPixels": 0,
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "preservedObjects": [
+      "main group on a moss-covered rotten log with snow patches: two glossy blue-black cups seen from above/side, one deeper cup on a short stalk with a dark brown felty exterior, and a small young globose fruit body",
+      "top right: a separate figure of a vertically sectioned stalked cup showing thin grey flesh and the stalk"
+    ],
+    "signatureTreatment": "No signature, monogram or text exists anywhere on the supplied image (all corners inspected); none added, painted or removed. The requested signature \"Gemini\" is used as the plate credit in metadata only (t31u).",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t31u \"signature Gemini\": plateCredit author \"Gemini\" as metadata only, same form as Bovista paludosa (154), Phaeoclavulina roellinii (155), Agaricus bohusii (156) and Sarcosoma globosum (151). No mark painted.",
+    "visibleMarks": [
+      "none"
+    ],
+    "provenanceAssessment": {
+      "verdict": "APPEARS AI-GENERATED (requested credit \"Gemini\"): 19th-century chromolithograph style with no caption, plate number, imprint or signature; Picasa-processed JPEG named .png; no matching historical plate found. Not a documented botanical plate; rights and authorship unverified.",
+      "disclosure": "AI-generated illustration (credited \"Gemini\" at the owner's request)."
+    },
+    "anatomyReview": "Broadly compatible with P. melaena: stalked dark cups on mossy rotten wood with snow (early-spring, saproxylic). Deviations: the hymenium is rendered distinctly blue-black/glossy blue, whereas sources give black to dark grey/olive-grey or black-brown; the felty dark-brown exterior and short stalk are plausible; the sectioned figure shows grey flesh, which matches one description (\"greyish or olivaceous grey\", Van Vooren et al. 2013) though another calls it translucent whitish. No wood host identifiable.",
+    "art_visual_review": "Full-size inspection (plate_preview.png, transparency_checker.png, original_vs_composition.jpg): both figure groups whole, clean alpha edges after a 3-pass peel (8,002 edge pixels), no clipped anatomy; small cream paper pockets between moss fronds kept as found; source RGB unchanged; uniform scale; composed on ingest/data/background.webp.",
+    "visualReview": "See art_visual_review",
+    "alphaPNGSHA256": "ad69cf087d0a8228892b92fb1f13e14b99c4dccce596b0f68b48a455a58e9fdb",
+    "maskSHA256": "c506baf1838f4f592ab93cc350fbfecfd50b5c65bbb265497e4aa72ccf5800bf",
+    "recipeSHA256": "7df5828c4808d30313c82ce92b555d7752299d36956fdb7fdf2f0a04a57793c6",
+    "officialFiles": [
+      {
+        "path": "media/Pseudoplectania_melaena@1600.webp",
+        "bytes": 433916,
+        "sha256": "de3ca6e1f387c8af4bc24d8df8db82bf6800f971b9fb1e7f803b8876e8ad18cd"
+      },
+      {
+        "path": "media/Pseudoplectania_melaena@400.webp",
+        "bytes": 50532,
+        "sha256": "dbc270c07b9bfe07a59f7117169e85ac52bc00b8c7b537dd8a906caeac2d9e01"
       }
     ]
   }

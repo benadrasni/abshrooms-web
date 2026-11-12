@@ -982,5 +982,8 @@ export const TAXA = {
   },
   Phaeoclavulina: {
     rank: "genus"
+  },
+  Pseudoplectania: {
+    rank: "genus"
   }
 };
