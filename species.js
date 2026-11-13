@@ -163532,7 +163532,7 @@ export const CATALOG = [
   "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
   "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@400.webp",
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
-  "plateGrid": null,
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@400.webp",
   "plateCredit": {
     "author": "Gemini",
     "credit": "Credit \"Gemini\" as requested (metadata only; owner t43u \"signature Gemini\"). The supplied file \"Picipes rhizophilus.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
