@@ -290,6 +290,9 @@ export const TAXA = {
     rank: "genus",
     sk: "trúdnik"
   },
+  Picipes: {
+    rank: "genus"
+  },
   Fomes: {
     rank: "genus",
     sk: "práchnovec"
@@ -990,6 +993,9 @@ export const TAXA = {
     rank: "genus"
   },
   Aureoboletus: {
+    rank: "genus"
+  },
+  Sarcodontia: {
     rank: "genus"
   }
 };

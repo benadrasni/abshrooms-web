@@ -202,7 +202,7 @@ export const LISTS = [
         "year": 2022
       },
       {
-        "name": "Maublancomyces inflatus",
+        "name": "Gyromitra inflata",
         "year": 2023
       },
       {
@@ -337,7 +337,7 @@ export const LISTS = [
         "year": 2020
       },
       {
-        "name": "Noblesia crocea",
+        "name": "Sarcodontia setosa",
         "year": 2019
       },
       {

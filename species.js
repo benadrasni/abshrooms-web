@@ -161884,5 +161884,1939 @@ export const CATALOG = [
     ],
     "anatomyCaveat": "ART: AI-generated-looking illustration with an existing cursive \"Gemini\" mark (kept as found; none painted); credited \"Gemini\" in metadata only. Rights/authorship unverified. ANATOMY: (1) the sectioned upper-right figure has a SMOOTH pale pinkish-white stipe with no ridges or net, and a pinkish cap surface with a wine-red rim instead of reddish-brown; (2) its tubes are drawn as gill-like striations; (3) the mature centre stipe is drawn shaggy/lacerate (closer to A. russellii) rather than longitudinally ridged-reticulate; (4) the young left cap is bright orange. Long stipe, projecting cap margin, white basal mycelium, olive-yellow pores (fallen figure) and the pine needles/cone/sandy ground fit. Decision for Adrian."
   }
+},
+{
+  "name": "Sarcodontia setosa",
+  "author": "(Pers.) Donk",
+  "family": "Meruliaceae",
+  "genus": "Sarcodontia",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Polyporales",
+    "Meruliaceae",
+    "Sarcodontia"
+  ],
+  "summary": [
+    "Polyporales",
+    "Meruliaceae",
+    "Sarcodontia"
+  ],
+  "edibility": "inedible",
+  "hymenium": "teeth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow"
+  ],
+  "label": {
+    "ar": "Sarcodontia setosa",
+    "bg": "Sarcodontia setosa",
+    "cs": "hrotnatka zápašná",
+    "da": "æblepig",
+    "de": "Krustenförmiger Stachelbart",
+    "en": "orchard toothcrust",
+    "es": "Sarcodontia setosa",
+    "et": "krookusnarmik",
+    "fa": "Sarcodontia setosa",
+    "fi": "toraturkki",
+    "fr": "hydne safran des pommiers",
+    "he": "Sarcodontia setosa",
+    "hi": "Sarcodontia setosa",
+    "hr": "Sarcodontia setosa",
+    "hu": "farontó fésűsgomba",
+    "id": "Sarcodontia setosa",
+    "it": "Sarcodontia setosa",
+    "ja": "Sarcodontia setosa",
+    "ko": "Sarcodontia setosa",
+    "lt": "obelinis minkštadyglis",
+    "lv": "ābeļu sarkodoncija",
+    "nl": "boomgaardstekelkorstzwam",
+    "no": "Sarcodontia setosa",
+    "pl": "kolcówka owocowonna",
+    "pt": "Sarcodontia setosa",
+    "ro": "Sarcodontia setosa",
+    "ru": "саркодонция шафранно-жёлтая",
+    "sk": "ostňovka jabloňová",
+    "sl": "jablanova bodičevka",
+    "sr": "Sarcodontia setosa",
+    "sv": "apeltagging",
+    "tr": "Sarcodontia setosa",
+    "uk": "Sarcodontia setosa",
+    "zh": "Sarcodontia setosa"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Gelber Apfelbaum-Stachelschwamm"
+    ],
+    "en": [
+      "orchard tooth"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "almafa-fogastapló",
+      "sárga fogastapló"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "kolcówka jabłoniowa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://preslia.cz/article/pdf?id=10169",
+      "https://www.houbareni.cz/houba/hrotnatka_zapasna",
+      "https://redlist.info/iucn/species_view/305493/"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "de": [
+      "https://www.rote-liste-zentrum.de/de/Artensuchmaschine.html?q=Stachelbart",
+      "https://fundkorb.de/pilze/sarcodontia-setosa-krustenf%C3%B6rmiger-stachelbart",
+      "https://pilzbestimmer.de/Detailed/22476.html"
+    ],
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=305495",
+      "https://www.gbif.org/species/2543620",
+      "https://www.catalogueoflife.org/data/taxon/79LRZ",
+      "https://www.fs.usda.gov/nrs/pubs/jrnl/2021/nrs_2021_nakasone_001.pdf",
+      "https://en.wikipedia.org/wiki/Sarcodontia_setosa",
+      "https://www.senes.lv/species/sarcodontia_crocea.htm",
+      "https://sarkanagramata.lu.lv/suga/abelu-sarkodoncija/",
+      "https://www.iucnredlist.org/species/147533826/148058863",
+      "https://www.houbareni.cz/houba/hrotnatka_zapasna",
+      "https://123pilzsuche.de/daten/details/Krustenstachelbart.htm",
+      "https://fundkorb.de/pilze/sarcodontia-setosa-krustenf%C3%B6rmiger-stachelbart",
+      "https://www.inaturalist.org/taxa/1623280",
+      "https://species.nbnatlas.org/species/BMSSYS0000016678",
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Krookusnarmik",
+      "https://redlist.info/iucn/species_view/305493/"
+    ],
+    "fa": [],
+    "fi": [
+      "https://laji.fi/taxon/MX.205890",
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/2543620/vernacularNames",
+      "https://www.mycodb.fr/fiche.php?espece=crocea&genre=Sarcodontia"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://miskolcigombasz.hu/fajlista/index.php",
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.raudonojiknyga.lt/uzkulisiai/100-lietuvos-raudonosios-knygos-saugomu-rusiu-sarasas-2020-m",
+      "https://vb.gamtc.lt/object/elaba:215108716/215108716.pdf"
+    ],
+    "lv": [
+      "https://www.senes.lv/mikologubiedriba/Annual_pages/2019_Sarcodontia_crocea.htm",
+      "https://www.senes.lv/species/sarcodontia_crocea.htm",
+      "https://sarkanagramata.lu.lv/suga/abelu-sarkodoncija/",
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/2543652/vernacularNames"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Kolc%C3%B3wka_owocowonna",
+      "https://pl.wikipedia.org/wiki/Kolc%C3%B3wka_jab%C5%82oniowa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.senes.lv/mikologubiedriba/Annual_pages/2019_Sarcodontia_crocea.htm",
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Sarcodontia-crocea/ostnovka-jablonova/hrotnatka-zapasna/ID2985",
+      "https://redlist.info/iucn/species_view/305493/"
+    ],
+    "sl": [
+      "https://boletusinformaticus.si/sre_seznam.aspx?crka=J",
+      "https://api.gbif.org/v1/species/2543620/vernacularNames"
+    ],
+    "sr": [],
+    "sv": [
+      "https://api.gbif.org/v1/species/2543620/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Apeltagging"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر قشري شائك لافت للنظر ينمو على أشجار التفاح المسنّة. يكوّن على جروح الجذوع والأغصان وشقوقها وتجاويفها بقعًا سميكة شمعية صفراء كبريتية مغطاة بأشواك طويلة كثيفة متجهة إلى الأسفل، وتطلق الأجسام الثمرية الطازجة رائحة قوية حلوة فاكهية كثيرًا ما تُشبَّه بالأناناس أو اليانسون. وهو نادر ومتناقص في أنحاء أوروبا كلها.",
+      "cap": "لا قبعة له. الجسم الثمري قشرة ممتدة ملتصقة بالخشب (منبسطة)، وعلى الأسطح العمودية يكوّن وسائد سميكة متكتلة. تبلغ البقع عادة نحو ٣–٢٠ cm عرضًا و٥–٢٠ cm طولًا، وقد تندمج لتغطي ما يصل إلى نحو ١ m² من اللحاء. القاعدة حبيبية صفراء كبريتية إلى مصفرّة، والحافة ليفية مهدّبة، بيضاء أو مصفرّة في البداية ثم بُنّية. والجسم الثمري الطازج سميك نسبيًا وشمعي، وعند الجفاف قاسٍ.",
+      "hymenium": "تغطي الجسمَ الثمري أشواك مخرزية شديدة التزاحم تتدلى إلى الأسفل. يبلغ طولها غالبًا ٣–١٥ mm وسمكها نحو ١٫٥ mm، وهي ملتحمة عند القاعدة، مستديرة في المقطع العرضي أو مفلطحة نادرًا، ومستدقة الأطراف. تكون وهي طازجة صفراء كبريتية باهتة إلى زاهية، ومع التقدم في العمر أو عند الضغط تصير برتقالية أو حمراء نبيذية أو بنية. البازيديات هراوية رباعية الأبواغ، نحو ١٥–٤٠ × ٥–٧ µm.",
+      "stipe": "لا ساق له. يلتصق الجسم الثمري باللحاء والخشب بكامل سطحه السفلي.",
+      "flesh": "اللحم (السُّبيكولوم) أصفر فاتح، أحيانًا بمسحة خضراء خفيفة، حبيبي وشمعي، ويصل سمكه في الأجسام الثمرية الوسادية إلى نحو ٣ cm. ويحتوي على خلايا مميزة منتفخة سميكة الجدران (سكليروسيستات) قد تبدو تحت العدسة المكبرة عُقيدات صغيرة فاتحة. للأجسام الثمرية الطازجة رائحة قوية جدًا حلوة فاكهية تشبه الأناناس أو التفاح المبشور أو اليانسون، يمكن تمييزها من على بُعد عدة أمتار؛ ويصفها بعضهم بأنها فاكهية لكنها كريهة.",
+      "sporePrint": "لا تذكر المصادر المستخدمة لون طبعة الأبواغ. الأبواغ عديمة اللون، ملساء، إهليلجية إلى إهليلجية عريضة، وغالبًا ما تحوي قطرة زيتية كبيرة واحدة، ولا تتفاعل في كاشف ملتسر؛ ويبلغ حجمها نحو ٥–٥٫٥ × ٣٫٥–٤٫٥ µm (والمدى الكلي نحو ٤٫٥–٦ × ٣٫٥–٥ µm).",
+      "habitat": "فطر محلّل للخشب يسبب العفن الأبيض. ينمو أساسًا على أشجار التفاح المسنّة الحية (Malus)، وأندر بكثير على الكمثرى (Pyrus) والغبيراء (Sorbus) والبرقوق (Prunus) والصفصاف، وأحيانًا على أشجار عريضة الأوراق أخرى مثل القيقب والمران والزان والبلوط. يظهر على الأغصان الميتة الجافة، وفي شقوق اللحاء، وعلى الجروح، وفي التجاويف المتعفنة للأشجار الناضجة والمسنّة في البساتين القديمة والحدائق والمتنزهات وأشجار جوانب الطرق، وكثيرًا في البلدات والقرى. الأجسام الثمرية حولية وتظهر أساسًا من يوليو إلى نوفمبر، وأحيانًا في الشتاءات المعتدلة. ينتشر في أوروبا كلها، ولا سيما في المنطقة المعتدلة، وشرقًا حتى روسيا.",
+      "uses": "غير صالح للأكل. يستمد لونه الأصفر من حمض الساركودونتيك، وهو صبغة مشتقة من البنزوكينون، ويمكن استخدامه في الصباغة بالفطريات فيعطي مع مثبّتات مختلفة درجات بنية وردية.",
+      "confusion": "يصعب الخلط بينه وبين غيره على شجرة تفاح مسنّة بفضل قشرته الصفراء الزاهية ذات الأشواك الطويلة ورائحته الفاكهية القوية. ينمو النوع الشديد الشبه Sarcodontia amplissima على أشجار عريضة الأوراق مختلفة في شرق أمريكا الشمالية ووسطها، ويختلف أساسًا في الصفات المجهرية. ويكوّن Sarcodontia uda قشورًا أرق ذات أشواك أقصر بكثير، يصل طولها إلى ٣ mm، تحمرّ في هيدروكسيد البوتاسيوم (KOH). أما Hericium coralloides فله أجسام ثمرية بيضاء متفرعة مرجانية الشكل ذات أشواك متدلية على خشب الزان وغيره من الأشجار عريضة الأوراق. ويكوّن Climacodon septentrionalis رفوفًا متدرجة بيضاء مائلة إلى الصفرة تحمل أشواكًا على جانبها السفلي، وغالبًا على أشجار القيقب.",
+      "notes": "يسمي جزء كبير من الأدبيات الأوروبية هذا الفطر Sarcodontia crocea. وقد بيّنت دراسة نُشرت عام ٢٠٢١ أن هذا الاسم قائم على خطأ في التعرف: فهو يعود إلى فطر من أمريكا الشمالية ينمو على خشب الكستناء ويُسمّى اليوم Noblesia crocea، أما الاسم الصحيح للفطر ذي الأشواك الصفراء على أشجار التفاح والكمثرى في أوروبا فهو Sarcodontia setosa. وهو نادر في أوروبا كلها ومتناقص بسبب إزالة البساتين القديمة وأشجار الفاكهة المسنّة. في عام ٢٠١٩ قُيّم في القائمة الحمراء العالمية للاتحاد الدولي لحفظ الطبيعة (IUCN) بوصفه معرّضًا للخطر (VU) تحت اسم Sarcodontia crocea، وهو مدرج في القوائم الحمراء لكثير من الدول الأوروبية؛ وتصنّفه لاتفيا مهدّدًا بالانقراض (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Впечатляваща коровидна гъба с шипове, която расте по стари ябълкови дървета. По рани, пукнатини и хралупи на стволове и клони образува дебели, восъчни, сярножълти петна, покрити с дълги, гъсти, насочени надолу шипове, а пресните плодни тела излъчват силна, сладка, плодова миризма, често сравнявана с ананас или анасон. В цяла Европа е рядка и намалява.",
+      "cap": "Шапка няма. Плодното тяло е кора, плътно прилепнала към дървесината (разпростряна), а на отвесни повърхности образува дебели, бучести възглавнички. Петната обикновено са около 3–20 cm широки и 5–20 cm дълги и могат да се сливат, покривайки до около 1 m² кора. Основата е зърнеста, сярножълта до жълтеникава, а ръбът – влакнест и ресничест, отначало бял или жълтеникав, по-късно кафеникав. Прясното плодно тяло е доста дебело и восъчно, а сухото – жилаво.",
+      "hymenium": "Плодното тяло е покрито с много гъсти, шиловидни шипове, които висят надолу. Обикновено са 3–15 mm дълги и около 1,5 mm дебели, сраснали в основата, кръгли в напречен разрез или рядко сплеснати, със заострени върхове. В прясно състояние са бледо до ярко сярножълти, а с възрастта или при натиск стават оранжеви, винено червени или кафяви. Базидиите са бухалковидни, четириспорови, около 15–40 × 5–7 µm.",
+      "stipe": "Пънче няма. Плодното тяло е прикрепено към кората и дървесината с цялата си долна страна.",
+      "flesh": "Месото (субикулум) е светложълто, понякога със слаб зеленикав оттенък, зърнесто и восъчно, а във възглавничестите плодни тела е дебело до около 3 cm. Съдържа характерни дебелостенни, издути клетки (склероцисти), които под лупа може да изглеждат като дребни светли възелчета. Пресните плодни тела имат много силна, сладникаво-плодова миризма на ананас, настъргани ябълки или анасон, която се усеща от няколко метра; някои я описват като плодова, но неприятна.",
+      "sporePrint": "Използваните източници не посочват цвета на споровия отпечатък. Спорите са безцветни, гладки, елипсовидни до широко елипсовидни, често с една голяма маслена капка, и не реагират в реактива на Мелцер; размерът им е около 5–5,5 × 3,5–4,5 µm (общо около 4,5–6 × 3,5–5 µm).",
+      "habitat": "Дървесноразрушаваща гъба, която причинява бяло гниене. Расте предимно по стари живи ябълкови дървета (Malus), много по-рядко по круша (Pyrus), офика (Sorbus), слива (Prunus) и върба, а понякога и по други широколистни дървета като клен, ясен, бук и дъб. Появява се по мъртви, сухи клони, в пукнатини на кората, по рани и в гниещи хралупи на зрели и стари дървета в стари овощни градини, градини, паркове и крайпътни насаждения, често в градове и села. Плодните тела са едногодишни и се появяват главно от юли до ноември, понякога и през меки зими. Среща се в цяла Европа, главно в умерения пояс, и на изток до Русия.",
+      "uses": "Негодна за консумация. Жълтият цвят се дължи на саркодонтовата киселина – пигмент, производен на бензохинона, и гъбата може да се използва за багрене, като с различни багрилни протрави дава розовокафяви оттенъци.",
+      "confusion": "По старо ябълково дърво трудно може да бъде сбъркана заради яркожълтата си кора с дълги шипове и силната плодова миризма. Много сходната Sarcodontia amplissima расте по различни широколистни дървета в източната и централната част на Северна Америка и се различава главно микроскопски. Sarcodontia uda образува по-тънки кори с много по-къси шипове, до 3 mm дълги, които почервеняват в калиев хидроксид (KOH). Hericium coralloides има бели, разклонени, коралоподобни плодни тела с висящи шипове по дървесина на бук и други широколистни. Climacodon septentrionalis образува етажирани, белезникави до жълтеникави конзоли с шипове от долната страна, най-често по кленове.",
+      "notes": "Голяма част от европейската литература нарича тази гъба Sarcodontia crocea. Проучване от 2021 г. показа, че това име се основава на погрешно идентифициране: то принадлежи на северноамериканска гъба по кестенова дървесина, днес наричана Noblesia crocea, а правилното име на европейската гъба с жълти шипове по ябълки и круши е Sarcodontia setosa. Тя е рядка в цяла Европа и намалява, защото старите овощни градини и старите овощни дървета се изсичат. През 2019 г. е оценена като уязвима (VU) в глобалния Червен списък на IUCN под името Sarcodontia crocea и е включена в червените списъци на много европейски държави; Латвия я определя като застрашена (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Nápadná rozlitá houba s ostny, rostoucí na starých jabloních. Vytváří tlusté, voskovité, sírově žluté plochy pokryté dlouhými, hustými, dolů směřujícími ostny na ranách, v trhlinách a dutinách kmenů a větví a čerstvé plodnice vydávají silnou, sladkou, ovocnou vůni, často přirovnávanou k ananasu nebo anýzu. V celé Evropě je vzácná a ubývá.",
+      "cap": "Klobouk chybí. Plodnice je kůra přitisklá naplocho ke dřevu (rozlitá), na svislých plochách tvoří tlusté, hrbolaté polštáře. Plochy mají obvykle asi 3–20 cm na šířku a 5–20 cm na délku a mohou splývat a pokrýt až asi 1 m² kůry. Báze je zrnitá, sírově žlutá až nažloutlá, okraj vláknitý a třásnitý, zprvu bílý nebo nažloutlý, později nahnědlý. Čerstvá plodnice je dosti tlustá a voskovitá, suchá tuhá.",
+      "hymenium": "Hustě nahloučené, šídlovité ostny pokrývají plodnici a visí dolů. Jsou většinou 3–15 mm dlouhé a asi 1,5 mm silné, u báze srostlé, v průřezu okrouhlé nebo vzácně zploštělé, se zúženými špičkami. Čerstvé jsou bledě až jasně sírově žluté, stářím nebo otlačením oranžovějí, vínově červenají nebo hnědnou. Basidie jsou kyjovité, čtyřvýtrusé, asi 15–40 × 5–7 µm.",
+      "stipe": "Třeň chybí. Plodnice přirůstá ke kůře a dřevu celou spodní stranou.",
+      "flesh": "Dužnina (subikulum) je světle žlutá, někdy se slabým zelenavým nádechem, zrnitá a voskovitá, v polštářovitých plodnicích až asi 3 cm tlustá. Obsahuje charakteristické tlustostěnné, nafouklé buňky (sklerocysty), které se pod lupou mohou jevit jako drobné světlé uzlíky. Čerstvé plodnice mají velmi silnou, nasládle ovocnou vůni po ananasu, strouhaných jablkách nebo anýzu, cítit ji lze i na několik metrů; někteří ji popisují jako ovocnou, ale nepříjemnou.",
+      "sporePrint": "Použité zdroje neuvádějí barvu výtrusného prachu. Výtrusy jsou bezbarvé, hladké, elipsoidní až široce elipsoidní, často s jednou velkou olejovou kapkou, a v Melzerově činidle nereagují; měří asi 5–5,5 × 3,5–4,5 µm (celkově asi 4,5–6 × 3,5–5 µm).",
+      "habitat": "Dřevokazná houba, která způsobuje bílou hnilobu. Roste hlavně na starých živých jabloních (Malus), mnohem vzácněji na hrušni (Pyrus), jeřábu (Sorbus), slivoni (Prunus) a vrbě a příležitostně na dalších listnáčích, jako je javor, jasan, buk a dub. Objevuje se na odumřelých suchých větvích, v trhlinách kůry, na ranách a v trouchnivějících dutinách dospělých a starých stromů ve starých sadech, zahradách, parcích a stromořadích, často ve městech a vesnicích. Plodnice jsou jednoleté a objevují se hlavně od července do listopadu, někdy i v mírných zimách. Vyskytuje se v celé Evropě, hlavně v mírném pásmu, a na východ až do Ruska.",
+      "uses": "Nejedlá. Žlutou barvu způsobuje kyselina sarkodontová, pigment odvozený od benzochinonu, a houbu lze použít k barvení, kdy s různými mořidly dává růžovohnědé odstíny.",
+      "confusion": "Na staré jabloni je díky jasně žluté kůře s dlouhými ostny a silné ovocné vůni těžko zaměnitelná. Velmi podobná Sarcodontia amplissima roste na různých listnáčích na východě a ve středu Severní Ameriky a liší se hlavně mikroskopicky. Sarcodontia uda tvoří tenčí povlaky s mnohem kratšími ostny, dlouhými do 3 mm, které v hydroxidu draselném (KOH) červenají. Hericium coralloides má bílé, větvené, korálovité plodnice s visícími ostny na dřevě buku a jiných listnáčů. Climacodon septentrionalis tvoří nad sebou uspořádané, bělavé až nažloutlé konzoly s ostny na spodní straně, nejčastěji na javorech.",
+      "notes": "Velká část evropské literatury nazývá tuto houbu Sarcodontia crocea. Studie z roku 2021 ukázala, že toto jméno vychází z omylu: patří severoamerické houbě na dřevě kaštanovníku, dnes nazývané Noblesia crocea, a správné jméno žlutoostné houby jabloní a hrušní v Evropě je Sarcodontia setosa. V celé Evropě je vzácná a ubývá, protože se kácejí staré sady a staré ovocné stromy. V roce 2019 byla v globálním Červeném seznamu IUCN pod jménem Sarcodontia crocea hodnocena jako zranitelná (VU) a je na červených seznamech mnoha evropských zemí; Lotyšsko ji řadí mezi ohrožené (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://preslia.cz/article/pdf?id=10169",
+        "https://www.houbareni.cz/houba/hrotnatka_zapasna",
+        "https://redlist.info/iucn/species_view/305493/"
+      ],
+      "label": "hrotnatka zápašná"
+    },
+    "da": {
+      "description": "En iøjnefaldende skorpeformet pigsvamp på gamle æbletræer. Den danner tykke, vokslignende, svovlgule pletter dækket af lange, tætstående, nedadrettede pigge på sår, revner og hulheder i stammer og grene, og friske frugtlegemer udsender en kraftig, sød, frugtagtig duft, der ofte sammenlignes med ananas eller anis. Den er sjælden og i tilbagegang i hele Europa.",
+      "cap": "Der er ingen hat. Frugtlegemet er en skorpe, der ligger fladt på veddet (resupinat), eller som på lodrette flader danner tykke, knoldede puder. Pletterne er som regel ca. 3–20 cm brede og 5–20 cm lange og kan flyde sammen og dække op til ca. 1 m² bark. Basis er kornet og svovlgul til gullig, og randen er trævlet og frynset, først hvid eller gullig, senere brunlig. Frisk er frugtlegemet ret tykt og vokslignende, tørt sejt.",
+      "hymenium": "Tætstående, sylformede pigge dækker frugtlegemet og hænger nedad. De er mest 3–15 mm lange og ca. 1,5 mm tykke, sammenvoksede ved basis, runde i tværsnit eller sjældent fladtrykte, med tilspidsede spidser. Friske er de blegt til klart svovlgule, og med alderen eller ved tryk bliver de orange, vinrøde eller brune. Basidierne er køllede og firesporede, ca. 15–40 × 5–7 µm.",
+      "stipe": "Der er ingen stok. Frugtlegemet er fastvokset til bark og ved med hele undersiden.",
+      "flesh": "Kødet (subiculum) er lysegult, undertiden med et svagt grønligt skær, kornet og vokslignende, og op til ca. 3 cm tykt i pudeformede frugtlegemer. Det indeholder karakteristiske tykvæggede, opsvulmede celler (sklerocyster), der under lup kan ses som små lyse knuder. Friske frugtlegemer har en meget kraftig, sødlig frugtagtig duft af ananas, revne æbler eller anis, som kan mærkes flere meter væk; nogle beskriver den som frugtagtig, men ubehagelig.",
+      "sporePrint": "De anvendte kilder angiver ingen sporefarve. Sporerne er farveløse, glatte, ellipsoide til bredt ellipsoide, ofte med en enkelt stor oliedråbe, og reagerer ikke i Melzers reagens; de måler ca. 5–5,5 × 3,5–4,5 µm (i alt ca. 4,5–6 × 3,5–5 µm).",
+      "habitat": "En vednedbrydende svamp, der giver hvidmuld. Den vokser især på gamle, levende æbletræer (Malus), langt sjældnere på pære (Pyrus), røn (Sorbus), blomme (Prunus) og pil og lejlighedsvis på andre løvtræer som ahorn, ask, bøg og eg. Den viser sig på døde, tørre grene, i barkrevner, på sår og i rådne hulheder i modne og gamle træer i gamle frugtplantager, haver, parker og vejbeplantninger, ofte i byer og landsbyer. Frugtlegemerne er enårige og kommer især fra juli til november, undertiden også i milde vintre. Den findes i hele Europa, især i den tempererede zone, og mod øst til Rusland.",
+      "uses": "Ikke spiselig. Den gule farve skyldes sarcodontinsyre, et pigment afledt af benzokinon, og svampen kan bruges til svampefarvning, hvor den med forskellige bejdsemidler giver rosabrune farver.",
+      "confusion": "På et gammelt æbletræ er den svær at forveksle på grund af den klart gule skorpe med lange pigge og den kraftige frugtagtige duft. Den meget lignende Sarcodontia amplissima vokser på forskellige løvtræer i det østlige og centrale Nordamerika og adskiller sig mest mikroskopisk. Sarcodontia uda danner tyndere skorper med meget kortere pigge, op til 3 mm lange, der bliver røde i kaliumhydroxid (KOH). Hericium coralloides har hvide, forgrenede, korallignende frugtlegemer med hængende pigge på ved af bøg og andre løvtræer. Climacodon septentrionalis danner etagerede, hvidlige til gullige konsoller med pigge på undersiden, mest på ahorn.",
+      "notes": "En stor del af den europæiske litteratur kalder denne svamp Sarcodontia crocea. En undersøgelse fra 2021 viste, at navnet bygger på en forveksling: det tilhører en nordamerikansk svamp på kastanjeved, i dag kaldet Noblesia crocea, og det korrekte navn for den gulpiggede svamp på æble- og pæretræer i Europa er Sarcodontia setosa. Den er sjælden i hele Europa og i tilbagegang, fordi gamle frugtplantager og gamle frugttræer ryddes. I 2019 blev den vurderet som sårbar (VU) på IUCN's globale rødliste under navnet Sarcodontia crocea, og den er rødlistet i mange europæiske lande; Letland klassificerer den som moderat truet (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "æblepig"
+    },
+    "de": {
+      "description": "Ein auffälliger krustenförmiger Stachelpilz alter Apfelbäume. Er bildet dicke, wachsartige, schwefelgelbe Flächen mit langen, dicht stehenden, abwärts gerichteten Stacheln an Wunden, Rissen und Höhlungen von Stämmen und Ästen, und frische Fruchtkörper verströmen einen starken, süßlich-fruchtigen Geruch, der oft mit Ananas oder Anis verglichen wird. In ganz Europa ist er selten und geht zurück.",
+      "cap": "Ein Hut fehlt. Der Fruchtkörper ist eine flach dem Holz aufliegende Kruste (resupinat) oder bildet an senkrechten Flächen dicke, höckerige Polster. Die Flächen sind meist etwa 3–20 cm breit und 5–20 cm lang und können zusammenfließen und bis etwa 1 m² Rinde bedecken. Die Basis ist körnig und schwefelgelb bis gelblich, der Rand faserig und gefranst, anfangs weiß oder gelblich, später bräunlich. Frisch ist der Fruchtkörper ziemlich dick und wachsartig, trocken zäh.",
+      "hymenium": "Dicht gedrängte, pfriemliche Stacheln bedecken den Fruchtkörper und hängen nach unten. Sie sind meist 3–15 mm lang und etwa 1,5 mm dick, an der Basis miteinander verwachsen, im Querschnitt rund oder selten abgeflacht und zur Spitze hin verjüngt. Frisch sind sie blass bis leuchtend schwefelgelb, im Alter oder bei Verletzung werden sie orange, weinrot oder braun. Die Basidien sind keulenförmig und viersporig, etwa 15–40 × 5–7 µm.",
+      "stipe": "Ein Stiel fehlt. Der Fruchtkörper ist mit seiner ganzen Unterseite an Rinde und Holz angewachsen.",
+      "flesh": "Das Fleisch (Subiculum) ist hellgelb, manchmal mit schwach grünlichem Ton, körnig und wachsartig und in polsterförmigen Fruchtkörpern bis etwa 3 cm dick. Es enthält charakteristische dickwandige, aufgeblähte Zellen (Sklerozysten), die unter der Lupe als kleine helle Knötchen erscheinen können. Frische Fruchtkörper riechen sehr stark süßlich-fruchtig nach Ananas, geriebenen Äpfeln oder Anis, was man schon aus mehreren Metern Entfernung wahrnehmen kann; manche beschreiben den Geruch als fruchtig, aber unangenehm.",
+      "sporePrint": "Die verwendeten Quellen nennen keine Sporenpulverfarbe. Die Sporen sind farblos, glatt, ellipsoid bis breit ellipsoid, oft mit einem einzelnen großen Öltropfen, und reagieren nicht in Melzers Reagenz; sie messen etwa 5–5,5 × 3,5–4,5 µm (insgesamt etwa 4,5–6 × 3,5–5 µm).",
+      "habitat": "Ein Holzzersetzer, der eine Weißfäule verursacht. Er wächst vor allem an alten, lebenden Apfelbäumen (Malus), viel seltener an Birne (Pyrus), Eberesche (Sorbus), Pflaume (Prunus) und Weide und gelegentlich an anderen Laubbäumen wie Ahorn, Esche, Buche und Eiche. Er erscheint an abgestorbenen, trockenen Ästen, in Rindenrissen, an Wunden und in morschen Höhlungen reifer und alter Bäume in alten Obstgärten, Gärten, Parks und Straßenpflanzungen, oft in Städten und Dörfern. Die Fruchtkörper sind einjährig und erscheinen vor allem von Juli bis November, manchmal auch in milden Wintern. Er kommt in ganz Europa vor, vor allem in der gemäßigten Zone, und ostwärts bis nach Russland.",
+      "uses": "Nicht essbar. Seine gelbe Farbe stammt von der Sarcodontinsäure, einem vom Benzochinon abgeleiteten Pigment, und er kann zum Pilzfärben verwendet werden, wobei er mit verschiedenen Beizen rosabraune Farbtöne ergibt.",
+      "confusion": "An einem alten Apfelbaum ist er dank seiner leuchtend gelben, langstacheligen Kruste und seines starken fruchtigen Geruchs kaum zu verwechseln. Die sehr ähnliche Sarcodontia amplissima wächst an verschiedenen Laubbäumen im Osten und in der Mitte Nordamerikas und unterscheidet sich vor allem mikroskopisch. Sarcodontia uda bildet dünnere Krusten mit viel kürzeren, bis 3 mm langen Stacheln, die sich in Kalilauge (KOH) rot färben. Hericium coralloides hat weiße, verzweigte, korallenartige Fruchtkörper mit hängenden Stacheln an Buchen- und anderem Laubholz. Climacodon septentrionalis bildet übereinanderstehende, weißliche bis gelbliche Konsolen mit Stacheln auf der Unterseite, meist an Ahorn.",
+      "notes": "In weiten Teilen der europäischen Literatur heißt dieser Pilz Sarcodontia crocea. Eine Studie von 2021 zeigte, dass dieser Name auf einer Verwechslung beruht: Er gehört zu einem nordamerikanischen Pilz auf Kastanienholz, der heute Noblesia crocea heißt, und der korrekte Name für den gelbstacheligen Pilz an Apfel- und Birnbäumen in Europa ist Sarcodontia setosa. Er ist in ganz Europa selten und geht zurück, weil alte Obstgärten und alte Obstbäume beseitigt werden. 2019 wurde er auf der globalen Roten Liste der IUCN unter dem Namen Sarcodontia crocea als gefährdet (VU) eingestuft, und er steht in vielen europäischen Ländern auf der Roten Liste; Lettland stuft ihn als stark gefährdet (EN) ein.",
+      "names": [
+        "Gelber Apfelbaum-Stachelschwamm"
+      ],
+      "sourceUrls": [
+        "https://www.rote-liste-zentrum.de/de/Artensuchmaschine.html?q=Stachelbart",
+        "https://fundkorb.de/pilze/sarcodontia-setosa-krustenf%C3%B6rmiger-stachelbart",
+        "https://pilzbestimmer.de/Detailed/22476.html"
+      ],
+      "label": "Krustenförmiger Stachelbart"
+    },
+    "en": {
+      "description": "A striking toothed crust fungus of old apple trees. It forms thick, waxy, sulphur-yellow patches covered in long, crowded, downward-pointing spines on wounds, cracks and hollows of trunks and branches, and fresh fruit bodies give off a strong, sweet, fruity smell often compared to pineapple or anise. It is rare and declining throughout Europe.",
+      "cap": "There is no cap. The fruit body is a crust that lies flat on the wood (resupinate) or, on vertical surfaces, forms thick, lumpy cushions. Patches are usually about 3–20 cm wide and 5–20 cm long and can merge to cover up to about 1 m² of bark. The base is granular and sulphur yellow to yellowish, and the margin is fibrous and fringed, white or yellowish at first and later brownish. The fruit body is fairly thick and waxy when fresh and tough when dry.",
+      "hymenium": "Densely crowded, awl-shaped spines cover the fruit body and hang downward. They are mostly 3–15 mm long and about 1.5 mm thick, fused together at the base, round in cross-section or rarely flattened, with tapering tips. They are pale to bright sulphur yellow when fresh and turn orange, wine red or brown with age or bruising. The basidia are club-shaped and four-spored, about 15–40 × 5–7 µm.",
+      "stipe": "There is no stem. The fruit body is attached to the bark and wood over its whole underside.",
+      "flesh": "The flesh (subiculum) is light yellow, sometimes with a faint greenish tint, granular and waxy, and up to about 3 cm thick in cushion-like fruit bodies. It contains characteristic thick-walled, swollen cells (sclerocysts) that can show as small pale nodules under a hand lens. Fresh fruit bodies have a very strong, sweetish fruity smell of pineapple, grated apples or anise that can be noticed from several metres away; some describe it as fruity but unpleasant.",
+      "sporePrint": "The sources used give no spore-print colour. The spores are colourless, smooth, ellipsoid to broadly ellipsoid, often with a single large oil droplet, and do not react in Melzer's reagent; they measure about 5–5.5 × 3.5–4.5 µm (overall range about 4.5–6 × 3.5–5 µm).",
+      "habitat": "A wood-decay fungus that causes a white rot. It grows mainly on old, living apple trees (Malus), much more rarely on pear (Pyrus), rowan (Sorbus), plum (Prunus) and willow, and occasionally on other broadleaved trees such as maple, ash, beech and oak. It appears on dead, dry branches, in bark cracks, at wounds and in rotting hollows of mature and old trees in old orchards, gardens, parks and roadside plantings, often in towns and villages. The fruit bodies are annual and appear mainly from July to November, sometimes also in mild winters. It occurs across Europe, mainly in the temperate zone, and eastward into Russia.",
+      "uses": "Not edible. Its yellow colour comes from sarcodontic acid, a benzoquinone-derived pigment, and it can be used for mushroom dyeing, giving pinkish-brown colours with various mordants.",
+      "confusion": "On an old apple tree it is hard to mistake because of its bright yellow crust with long spines and its strong fruity smell. The very similar Sarcodontia amplissima grows on various broadleaved trees in eastern and central North America and differs mainly under the microscope. Sarcodontia uda forms thinner crusts with much shorter spines, up to 3 mm long, that turn red in potassium hydroxide (KOH). Hericium coralloides has white, branched, coral-like fruit bodies with hanging spines on beech and other broadleaved wood. Climacodon septentrionalis forms tiered, whitish to yellowish shelves with spines underneath, mostly on maples.",
+      "notes": "Much of the European literature calls this fungus Sarcodontia crocea. A 2021 study showed that this name rests on a mistaken identity: it belongs to a North American fungus of chestnut wood, now called Noblesia crocea, and the correct name for the yellow-spined fungus of apple and pear trees in Europe is Sarcodontia setosa. It is rare throughout Europe and declining because old orchards and old fruit trees are being cleared. In 2019 it was assessed as Vulnerable (VU) on the global IUCN Red List under the name Sarcodontia crocea, and it is red-listed in many European countries; Latvia classes it as Endangered (EN).",
+      "names": [
+        "orchard tooth"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=305495",
+        "https://www.gbif.org/species/2543620",
+        "https://www.catalogueoflife.org/data/taxon/79LRZ",
+        "https://www.fs.usda.gov/nrs/pubs/jrnl/2021/nrs_2021_nakasone_001.pdf",
+        "https://en.wikipedia.org/wiki/Sarcodontia_setosa",
+        "https://www.senes.lv/species/sarcodontia_crocea.htm",
+        "https://sarkanagramata.lu.lv/suga/abelu-sarkodoncija/",
+        "https://www.iucnredlist.org/species/147533826/148058863",
+        "https://www.houbareni.cz/houba/hrotnatka_zapasna",
+        "https://123pilzsuche.de/daten/details/Krustenstachelbart.htm",
+        "https://fundkorb.de/pilze/sarcodontia-setosa-krustenf%C3%B6rmiger-stachelbart",
+        "https://www.inaturalist.org/taxa/1623280",
+        "https://species.nbnatlas.org/species/BMSSYS0000016678",
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "orchard toothcrust"
+    },
+    "es": {
+      "description": "Un llamativo hongo costroso con púas de los manzanos viejos. Forma placas gruesas, céreas, de color amarillo azufre, cubiertas de púas largas, apretadas y dirigidas hacia abajo, en heridas, grietas y huecos de troncos y ramas, y los cuerpos fructíferos frescos desprenden un olor fuerte, dulce y afrutado que a menudo se compara con la piña o el anís. Es raro y está en declive en toda Europa.",
+      "cap": "No tiene sombrero. El cuerpo fructífero es una costra aplicada a la madera (resupinada) o, en superficies verticales, forma cojines gruesos y abollonados. Las placas suelen medir unos 3–20 cm de ancho y 5–20 cm de largo y pueden unirse hasta cubrir alrededor de 1 m² de corteza. La base es granulosa y de amarillo azufre a amarillenta, y el margen es fibroso y fimbriado, blanco o amarillento al principio y después parduzco. En fresco el cuerpo fructífero es bastante grueso y céreo, y en seco, duro.",
+      "hymenium": "Púas subuladas muy apretadas cubren el cuerpo fructífero y cuelgan hacia abajo. Miden por lo general 3–15 mm de largo y alrededor de 1,5 mm de grosor, están soldadas en la base, son redondas en sección o rara vez aplanadas y se afinan hacia la punta. En fresco son de amarillo azufre pálido a vivo y con la edad o al rozarse se vuelven anaranjadas, rojo vino o pardas. Los basidios son claviformes y tetraspóricos, de unos 15–40 × 5–7 µm.",
+      "stipe": "No tiene pie. El cuerpo fructífero está adherido a la corteza y la madera por toda su cara inferior.",
+      "flesh": "La carne (subículo) es amarillo claro, a veces con un leve tono verdoso, granulosa y cérea, y alcanza unos 3 cm de grosor en los cuerpos fructíferos en forma de cojín. Contiene células características hinchadas y de pared gruesa (esclerocistos), que con lupa pueden verse como pequeños nódulos pálidos. Los cuerpos fructíferos frescos tienen un olor muy fuerte, dulzón y afrutado, a piña, manzana rallada o anís, perceptible a varios metros; algunos lo describen como afrutado pero desagradable.",
+      "sporePrint": "Las fuentes consultadas no indican el color de la esporada. Las esporas son incoloras, lisas, de elipsoides a anchamente elipsoides, a menudo con una sola gota oleosa grande, y no reaccionan con el reactivo de Melzer; miden unos 5–5,5 × 3,5–4,5 µm (en conjunto, unos 4,5–6 × 3,5–5 µm).",
+      "habitat": "Un hongo descomponedor de la madera que causa una podredumbre blanca. Crece sobre todo en manzanos viejos vivos (Malus), mucho más rara vez en peral (Pyrus), serbal (Sorbus), ciruelo (Prunus) y sauce, y ocasionalmente en otras frondosas como arce, fresno, haya y roble. Aparece en ramas muertas y secas, en grietas de la corteza, en heridas y en huecos podridos de árboles maduros y viejos, en huertos antiguos, jardines, parques y plantaciones de borde de carretera, a menudo en pueblos y ciudades. Los cuerpos fructíferos son anuales y aparecen sobre todo de julio a noviembre, a veces también en inviernos suaves. Se encuentra en toda Europa, sobre todo en la zona templada, y hacia el este hasta Rusia.",
+      "uses": "No comestible. Su color amarillo se debe al ácido sarcodóntico, un pigmento derivado de la benzoquinona, y puede usarse para teñir con hongos, dando tonos pardo rosados con distintos mordientes.",
+      "confusion": "En un manzano viejo es difícil de confundir por su costra amarillo vivo con púas largas y su fuerte olor afrutado. La muy parecida Sarcodontia amplissima crece en diversas frondosas del este y el centro de Norteamérica y se distingue sobre todo al microscopio. Sarcodontia uda forma costras más delgadas con púas mucho más cortas, de hasta 3 mm, que se vuelven rojas con hidróxido de potasio (KOH). Hericium coralloides tiene cuerpos fructíferos blancos, ramificados y coraloides, con púas colgantes, sobre madera de haya y otras frondosas. Climacodon septentrionalis forma repisas escalonadas, blanquecinas a amarillentas, con púas en la cara inferior, sobre todo en arces.",
+      "notes": "Gran parte de la literatura europea llama a este hongo Sarcodontia crocea. Un estudio de 2021 demostró que ese nombre se basa en un error de identidad: corresponde a un hongo norteamericano de la madera de castaño, hoy llamado Noblesia crocea, y el nombre correcto del hongo de púas amarillas de manzanos y perales de Europa es Sarcodontia setosa. Es raro en toda Europa y está en declive porque se talan los huertos viejos y los frutales viejos. En 2019 fue evaluado como Vulnerable (VU) en la Lista Roja mundial de la UICN con el nombre de Sarcodontia crocea, y figura en las listas rojas de muchos países europeos; Letonia lo clasifica como En peligro (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Silmatorkav ogadega kooriksjas seen, mis kasvab vanadel õunapuudel. See moodustab tüvede ja okste haavadele, lõhedesse ja õõnsustesse paksud, vahajad, väävelkollased laigud, mida katavad pikad, tihedad, allapoole suunatud ogad, ning värsked viljakehad levitavad tugevat, magusat, puuviljast lõhna, mida võrreldakse sageli ananassi või aniisiga. Kogu Euroopas on see haruldane ja taandub.",
+      "cap": "Kübarat ei ole. Viljakeha on puidule lamedalt liibuv koorik (resupinaatne), püstistel pindadel moodustab see aga paksud, mügarlikud padjandid. Laigud on tavaliselt umbes 3–20 cm laiad ja 5–20 cm pikad ning võivad kokku sulades katta kuni umbes 1 m² koort. Alus on teraline ja väävelkollane kuni kollakas, serv kiuline ja narmendav, algul valge või kollakas, hiljem pruunikas. Värskena on viljakeha üsna paks ja vahajas, kuivana sitke.",
+      "hymenium": "Tihedalt asetsevad, naaskeljad ogad katavad viljakeha ja ripuvad allapoole. Need on enamasti 3–15 mm pikad ja umbes 1,5 mm jämedad, aluselt kokku kasvanud, ristlõikes ümarad või harva lamendunud ning teravnevate tippudega. Värskena on need kahvatu- kuni erkväävelkollased, vanemaks saades või vajutamisel muutuvad oranžiks, veinipunaseks või pruuniks. Kandurid on nuijad ja neljaeoselised, umbes 15–40 × 5–7 µm.",
+      "stipe": "Jalga ei ole. Viljakeha on kogu alumise küljega kinnitunud koore ja puidu külge.",
+      "flesh": "Viljaliha (subiikulum) on helekollane, mõnikord nõrga rohekate varjundiga, teraline ja vahajas ning padjandjates viljakehades kuni umbes 3 cm paks. See sisaldab iseloomulikke paksuseinalisi paisunud rakke (sklerotsüste), mis võivad luubiga paista väikeste heledate sõlmekestena. Värsketel viljakehadel on väga tugev, magusalt puuviljane ananassi, riivitud õunte või aniisi lõhn, mida võib tunda mitme meetri kauguselt; mõned kirjeldavad seda kui puuviljast, kuid ebameeldivat.",
+      "sporePrint": "Kasutatud allikad eospulbri värvust ei nimeta. Eosed on värvitud, siledad, ellipsoidsed kuni laialt ellipsoidsed, sageli ühe suure õlitilgaga ega reageeri Melzeri reaktiivis; nende suurus on umbes 5–5,5 × 3,5–4,5 µm (kokku umbes 4,5–6 × 3,5–5 µm).",
+      "habitat": "Puitu lagundav seen, mis põhjustab valgemädanikku. Kasvab peamiselt vanadel elusatel õunapuudel (Malus), palju harvem pirnipuul (Pyrus), pihlakal (Sorbus), ploomipuul (Prunus) ja pajul ning aeg-ajalt teistel lehtpuudel, nagu vaher, saar, pöök ja tamm. Seda leidub surnud kuivadel okstel, koorelõhedes, haavadel ja mädanevates õõnsustes küpsetel ja vanadel puudel vanades viljapuuaedades, aedades, parkides ja teeäärsetes istutustes, sageli linnades ja külades. Viljakehad on üheaastased ja ilmuvad peamiselt juulist novembrini, mõnikord ka pehmetel talvedel. Esineb kogu Euroopas, peamiselt parasvöötmes, ning idas kuni Venemaani.",
+      "uses": "Ei ole söödav. Kollase värvuse annab sellele sarkodontiinhape, bensokinoonist tuletatud pigment, ning seent saab kasutada seenevärvimisel, kus see annab eri peitsidega roosakaspruune toone.",
+      "confusion": "Vanal õunapuul on seda erekollase pikkade ogadega kooriku ja tugeva puuviljase lõhna tõttu raske millegi muuga segi ajada. Väga sarnane Sarcodontia amplissima kasvab mitmesugustel lehtpuudel Põhja-Ameerika ida- ja keskosas ning erineb peamiselt mikroskoobi all. Sarcodontia uda moodustab õhemaid koorikuid palju lühemate, kuni 3 mm pikkuste ogadega, mis kaaliumhüdroksiidis (KOH) punaseks muutuvad. Hericium coralloides'il on valged, harunenud, korallitaolised viljakehad rippuvate ogadega pöögi ja teiste lehtpuude puidul. Climacodon septentrionalis moodustab astmeliselt paiknevaid valkjaid kuni kollakaid konsoole, mille alaküljel on ogad, enamasti vahtratel.",
+      "notes": "Suur osa Euroopa kirjandusest nimetab seda seent Sarcodontia crocea. 2021. aasta uuring näitas, et see nimi põhineb eksitusel: see kuulub Põhja-Ameerika seenele kastanipuidul, mida praegu nimetatakse Noblesia crocea, ning Euroopa õuna- ja pirnipuude kollaste ogadega seene õige nimi on Sarcodontia setosa. See on kogu Euroopas haruldane ja taandub, sest vanu viljapuuaedu ja vanu viljapuid raiutakse maha. 2019. aastal hinnati see IUCN-i ülemaailmses punases nimestikus nime Sarcodontia crocea all ohualtiks (VU) ning see on paljude Euroopa riikide punases nimestikus; Lätis on see liigitatud ohustatuks (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Krookusnarmik",
+        "https://redlist.info/iucn/species_view/305493/"
+      ],
+      "label": "krookusnarmik"
+    },
+    "fa": {
+      "description": "قارچی پوسته‌ای و خاردار و چشمگیر که روی درختان سیب کهنسال می‌روید. روی زخم‌ها، شکاف‌ها و حفره‌های تنه و شاخه‌ها لکه‌هایی ضخیم، مومی و زرد گوگردی می‌سازد که با خارهای بلند، انبوه و رو به پایین پوشیده شده‌اند، و پیکره‌های بارده تازه بوی قوی، شیرین و میوه‌ای می‌پراکنند که اغلب به آناناس یا انیسون تشبیه می‌شود. در سراسر اروپا کمیاب است و رو به کاهش دارد.",
+      "cap": "کلاهک ندارد. پیکرهٔ بارده پوسته‌ای است که صاف روی چوب می‌خوابد (گسترده) و روی سطوح عمودی بالشتک‌های ضخیم و برآمده می‌سازد. لکه‌ها معمولاً حدود ۳–۲۰ cm پهنا و ۵–۲۰ cm درازا دارند و می‌توانند به هم بپیوندند و تا حدود ۱ m² از پوست درخت را بپوشانند. قاعده دانه‌دار و زرد گوگردی تا زردفام است و لبه رشته‌ای و ریشه‌دار، در آغاز سفید یا زردفام و سپس قهوه‌ای‌فام. پیکرهٔ بارده تازه نسبتاً ضخیم و مومی و در حالت خشک سفت است.",
+      "hymenium": "خارهای درفشی بسیار انبوه پیکرهٔ بارده را می‌پوشانند و رو به پایین آویزان‌اند. طول آن‌ها بیشتر ۳–۱۵ mm و ضخامتشان حدود ۱٫۵ mm است؛ در قاعده به هم جوش خورده‌اند، در برش عرضی گرد یا به‌ندرت پهن‌اند و نوکشان باریک می‌شود. در حالت تازه زرد گوگردی کم‌رنگ تا روشن‌اند و با افزایش سن یا با فشار نارنجی، شرابی یا قهوه‌ای می‌شوند. بازیدیوم‌ها گرزی‌شکل و چهارهاگی‌اند، حدود ۱۵–۴۰ × ۵–۷ µm.",
+      "stipe": "پایه ندارد. پیکرهٔ بارده با تمام سطح زیرین خود به پوست و چوب چسبیده است.",
+      "flesh": "گوشت (زیرلایه یا سوبیکولوم) زرد روشن، گاهی با ته‌رنگ سبز کم‌رنگ، دانه‌دار و مومی است و در پیکره‌های بارده بالشتکی تا حدود ۳ cm ضخامت دارد. سلول‌های ویژهٔ متورم و ضخیم‌دیواره (اسکلروسیست) دارد که زیر ذره‌بین ممکن است به‌صورت گره‌های ریز و روشن دیده شوند. پیکره‌های بارده تازه بوی بسیار قوی، شیرین و میوه‌ای مانند آناناس، سیب رنده‌شده یا انیسون دارند که از چند متری هم حس می‌شود؛ برخی آن را میوه‌ای اما ناخوشایند توصیف می‌کنند.",
+      "sporePrint": "منابع به‌کاررفته رنگ اثر هاگ را ذکر نمی‌کنند. هاگ‌ها بی‌رنگ، صاف، بیضوی تا بیضوی پهن‌اند، اغلب یک قطرهٔ روغنی بزرگ دارند و در معرف ملتزر واکنش نشان نمی‌دهند؛ اندازهٔ آن‌ها حدود ۵–۵٫۵ × ۳٫۵–۴٫۵ µm است (در مجموع حدود ۴٫۵–۶ × ۳٫۵–۵ µm).",
+      "habitat": "قارچی چوب‌تجزیه‌کننده که پوسیدگی سفید ایجاد می‌کند. بیشتر روی درختان سیب کهنسال و زنده (Malus) می‌روید، بسیار کمتر روی گلابی (Pyrus)، بارانک (Sorbus)، آلو (Prunus) و بید، و گاهی روی دیگر درختان پهن‌برگ مانند افرا، زبان‌گنجشک، راش و بلوط. روی شاخه‌های مرده و خشک، در شکاف‌های پوست، روی زخم‌ها و در حفره‌های پوسیدهٔ درختان بالغ و کهنسال در باغ‌های میوهٔ قدیمی، باغچه‌ها، پارک‌ها و درختکاری‌های کنار جاده، اغلب در شهرها و روستاها ظاهر می‌شود. پیکره‌های بارده یک‌ساله‌اند و بیشتر از ژوئیه تا نوامبر و گاهی در زمستان‌های ملایم نیز پدیدار می‌شوند. در سراسر اروپا، به‌ویژه در منطقهٔ معتدل، و به سوی شرق تا روسیه پراکنده است.",
+      "uses": "خوراکی نیست. رنگ زرد آن از اسید سارکودونتیک، رنگدانه‌ای برگرفته از بنزوکینون، است و می‌توان از آن در رنگرزی با قارچ استفاده کرد که با دندانه‌های گوناگون رنگ‌های قهوه‌ای مایل به صورتی می‌دهد.",
+      "confusion": "روی درخت سیب کهنسال به سبب پوستهٔ زرد روشن با خارهای بلند و بوی میوه‌ای قوی به‌سختی با قارچ دیگری اشتباه می‌شود. گونهٔ بسیار شبیه Sarcodontia amplissima روی درختان پهن‌برگ گوناگون در شرق و مرکز آمریکای شمالی می‌روید و بیشتر در ویژگی‌های میکروسکوپی تفاوت دارد. Sarcodontia uda پوسته‌های نازک‌تری با خارهای بسیار کوتاه‌تر، تا ۳ mm، می‌سازد که در پتاسیم هیدروکسید (KOH) سرخ می‌شوند. Hericium coralloides پیکره‌های بارده سفید، منشعب و مرجان‌مانند با خارهای آویزان روی چوب راش و دیگر پهن‌برگان دارد. Climacodon septentrionalis قفسه‌های طبقه‌طبقهٔ سفیدفام تا زردفام با خارهایی در سطح زیرین می‌سازد، بیشتر روی افراها.",
+      "notes": "بخش بزرگی از منابع اروپایی این قارچ را Sarcodontia crocea می‌نامند. پژوهشی در سال ۲۰۲۱ نشان داد که این نام بر شناسایی نادرستی استوار است: این نام به قارچی از آمریکای شمالی روی چوب شاه‌بلوط تعلق دارد که امروزه Noblesia crocea نامیده می‌شود، و نام درست قارچ خارزرد درختان سیب و گلابی در اروپا Sarcodontia setosa است. در سراسر اروپا کمیاب است و رو به کاهش دارد، زیرا باغ‌های قدیمی و درختان میوهٔ کهنسال بریده می‌شوند. در سال ۲۰۱۹ در فهرست سرخ جهانی IUCN با نام Sarcodontia crocea آسیب‌پذیر (VU) ارزیابی شد و در فهرست‌های سرخ بسیاری از کشورهای اروپایی آمده است؛ لتونی آن را در معرض خطر (EN) طبقه‌بندی می‌کند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Näyttävä, piikikäs kuorimainen sieni, joka kasvaa vanhoilla omenapuilla. Se muodostaa runkojen ja oksien haavoihin, halkeamiin ja koloihin paksuja, vahamaisia, rikinkeltaisia laikkuja, joita peittävät pitkät, tiheät, alaspäin suuntautuvat piikit, ja tuoreet itiöemät levittävät voimakasta, makeaa, hedelmäistä tuoksua, jota verrataan usein ananakseen tai aniksiin. Se on harvinainen ja taantuva koko Euroopassa.",
+      "cap": "Lakkia ei ole. Itiöemä on puun pintaan tiiviisti kiinnittynyt kuorimainen kerros (resupinaattinen), ja pystysuorilla pinnoilla se muodostaa paksuja, kyhmyisiä tyynyjä. Laikut ovat tavallisesti noin 3–20 cm leveitä ja 5–20 cm pitkiä ja voivat yhtyä peittäen jopa noin 1 m² kuorta. Pohja on rakeinen ja rikinkeltainen tai kellertävä, ja reuna on säikeinen ja ripsimäinen, aluksi valkoinen tai kellertävä, myöhemmin ruskehtava. Tuoreena itiöemä on melko paksu ja vahamainen, kuivana sitkeä.",
+      "hymenium": "Tiheässä kasvavat, naskalimaiset piikit peittävät itiöemän ja riippuvat alaspäin. Ne ovat useimmiten 3–15 mm pitkiä ja noin 1,5 mm paksuja, tyveltään yhteenkasvaneita, poikkileikkaukseltaan pyöreitä tai harvoin litistyneitä ja kärjestään suippenevia. Tuoreina ne ovat vaalean- tai kirkkaan rikinkeltaisia, ja vanhetessaan tai painettaessa ne muuttuvat oransseiksi, viininpunaisiksi tai ruskeiksi. Kantasolut ovat nuijamaisia ja neliitiöisiä, noin 15–40 × 5–7 µm.",
+      "stipe": "Jalkaa ei ole. Itiöemä on kiinnittynyt kuoreen ja puuhun koko alapinnaltaan.",
+      "flesh": "Malto (subikulum) on vaaleankeltainen, joskus heikosti vihertävä, rakeinen ja vahamainen, ja tyynymäisissä itiöemissä jopa noin 3 cm paksu. Siinä on tunnusomaisia paksuseinäisiä, paisuneita soluja (sklerokystidejä), jotka voivat näkyä luupilla pieninä vaaleina nystyröinä. Tuoreilla itiöemillä on erittäin voimakas, makeahko hedelmäinen ananaksen, raastetun omenan tai aniksen tuoksu, joka voi tuntua useiden metrien päähän; jotkut kuvaavat sitä hedelmäiseksi mutta epämiellyttäväksi.",
+      "sporePrint": "Käytetyt lähteet eivät kerro itiöpölyn väriä. Itiöt ovat värittömiä, sileitä, ellipsoidisia tai leveän ellipsoidisia, usein yksi suuri öljypisara sisällään, eivätkä ne reagoi Melzerin reagenssissa; niiden koko on noin 5–5,5 × 3,5–4,5 µm (kaikkiaan noin 4,5–6 × 3,5–5 µm).",
+      "habitat": "Puuta lahottava sieni, joka aiheuttaa valkolahoa. Se kasvaa pääasiassa vanhoilla, elävillä omenapuilla (Malus), paljon harvemmin päärynällä (Pyrus), pihlajalla (Sorbus), luumulla (Prunus) ja pajulla sekä toisinaan muilla lehtipuilla, kuten vaahteralla, saarnella, pyökillä ja tammella. Sitä tavataan kuolleilla, kuivilla oksilla, kuoren halkeamissa, haavoissa ja lahoissa koloissa varttuneissa ja vanhoissa puissa vanhoissa hedelmätarhoissa, puutarhoissa, puistoissa ja tienvarsi-istutuksissa, usein kaupungeissa ja kylissä. Itiöemät ovat yksivuotisia ja ilmestyvät pääasiassa heinäkuusta marraskuuhun, joskus myös leutoina talvina. Lajia esiintyy koko Euroopassa, lähinnä lauhkealla vyöhykkeellä, ja idässä Venäjälle asti.",
+      "uses": "Ei ole syötävä. Sen keltainen väri johtuu sarkodonttihaposta, bentsokinonista johdetusta pigmentistä, ja sientä voi käyttää sienivärjäykseen, jolloin se antaa eri puretteilla vaaleanpunaisenruskeita sävyjä.",
+      "confusion": "Vanhalla omenapuulla sitä on vaikea sekoittaa muihin kirkkaankeltaisen, pitkäpiikkisen kuorikerroksensa ja voimakkaan hedelmäisen tuoksunsa vuoksi. Hyvin samankaltainen Sarcodontia amplissima kasvaa erilaisilla lehtipuilla Pohjois-Amerikan itä- ja keskiosissa ja eroaa lähinnä mikroskooppisesti. Sarcodontia uda muodostaa ohuempia kerroksia, joissa on paljon lyhyemmät, enintään 3 mm pitkät piikit, jotka punertuvat kaliumhydroksidissa (KOH). Hericium coralloides -lajilla on valkoiset, haarovat, korallimaiset itiöemät, joissa on riippuvat piikit, ja se kasvaa pyökin ja muiden lehtipuiden puulla. Climacodon septentrionalis muodostaa kerroksittaisia, valkeahkoja tai kellertäviä hyllyjä, joiden alapinnalla on piikkejä, enimmäkseen vaahteroilla.",
+      "notes": "Suuressa osassa eurooppalaista kirjallisuutta tätä sientä kutsutaan nimellä Sarcodontia crocea. Vuonna 2021 julkaistu tutkimus osoitti, että nimi perustuu virheelliseen tunnistukseen: se kuuluu pohjoisamerikkalaiselle kastanjapuulla kasvavalle sienelle, jota nykyään kutsutaan nimellä Noblesia crocea, ja Euroopan omena- ja päärynäpuiden keltapiikkisen sienen oikea nimi on Sarcodontia setosa. Se on harvinainen koko Euroopassa ja taantuu, koska vanhoja hedelmätarhoja ja vanhoja hedelmäpuita raivataan. Vuonna 2019 se arvioitiin IUCN:n maailmanlaajuisella punaisella listalla vaarantuneeksi (VU) nimellä Sarcodontia crocea, ja se on punaisella listalla monissa Euroopan maissa; Latviassa se on luokiteltu erittäin uhanalaiseksi (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.205890",
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "toraturkki"
+    },
+    "fr": {
+      "description": "Un champignon croûteux à aiguillons, spectaculaire, des vieux pommiers. Il forme des plaques épaisses, cireuses, jaune soufre, couvertes de longs aiguillons serrés et tournés vers le bas, sur les plaies, les fissures et les cavités des troncs et des branches, et les fructifications fraîches dégagent une forte odeur sucrée et fruitée, souvent comparée à l'ananas ou à l'anis. Il est rare et en déclin dans toute l'Europe.",
+      "cap": "Il n'y a pas de chapeau. La fructification est une croûte appliquée à plat sur le bois (résupinée) ou, sur les surfaces verticales, forme d'épais coussinets bosselés. Les plaques mesurent généralement environ 3–20 cm de large et 5–20 cm de long et peuvent confluer pour couvrir jusqu'à environ 1 m² d'écorce. La base est granuleuse, jaune soufre à jaunâtre, et la marge est fibreuse et frangée, blanche ou jaunâtre puis brunâtre. La fructification est assez épaisse et cireuse à l'état frais, coriace à l'état sec.",
+      "hymenium": "Des aiguillons subulés, très serrés, couvrent la fructification et pendent vers le bas. Ils mesurent le plus souvent 3–15 mm de long et environ 1,5 mm d'épaisseur, sont soudés à la base, ronds en coupe ou rarement aplatis, et effilés à la pointe. Ils sont jaune soufre pâle à vif à l'état frais et deviennent orange, rouge vineux ou bruns avec l'âge ou au froissement. Les basides sont claviformes et tétrasporiques, d'environ 15–40 × 5–7 µm.",
+      "stipe": "Il n'y a pas de pied. La fructification est fixée à l'écorce et au bois par toute sa face inférieure.",
+      "flesh": "La chair (subiculum) est jaune clair, parfois avec une faible teinte verdâtre, granuleuse et cireuse, et atteint environ 3 cm d'épaisseur dans les fructifications en coussinet. Elle contient des cellules caractéristiques, renflées et à paroi épaisse (sclérocystes), qui peuvent apparaître à la loupe comme de petits nodules pâles. Les fructifications fraîches ont une odeur très forte, sucrée et fruitée, d'ananas, de pomme râpée ou d'anis, perceptible à plusieurs mètres ; certains la décrivent comme fruitée mais désagréable.",
+      "sporePrint": "Les sources utilisées n'indiquent pas la couleur de la sporée. Les spores sont incolores, lisses, ellipsoïdes à largement ellipsoïdes, souvent avec une seule grosse gouttelette huileuse, et ne réagissent pas au réactif de Melzer ; elles mesurent environ 5–5,5 × 3,5–4,5 µm (en tout environ 4,5–6 × 3,5–5 µm).",
+      "habitat": "Un champignon lignicole qui provoque une pourriture blanche. Il pousse surtout sur de vieux pommiers vivants (Malus), beaucoup plus rarement sur poirier (Pyrus), sorbier (Sorbus), prunier (Prunus) et saule, et parfois sur d'autres feuillus comme l'érable, le frêne, le hêtre et le chêne. Il apparaît sur les branches mortes et sèches, dans les fissures de l'écorce, sur les plaies et dans les cavités pourries d'arbres mûrs et âgés, dans les vieux vergers, les jardins, les parcs et les plantations d'alignement, souvent en ville et dans les villages. Les fructifications sont annuelles et apparaissent surtout de juillet à novembre, parfois aussi lors d'hivers doux. Il est présent dans toute l'Europe, surtout dans la zone tempérée, et vers l'est jusqu'en Russie.",
+      "uses": "Non comestible. Sa couleur jaune provient de l'acide sarcodontique, un pigment dérivé de la benzoquinone, et il peut servir à la teinture aux champignons, donnant des tons brun rosé avec divers mordants.",
+      "confusion": "Sur un vieux pommier, il est difficile à confondre grâce à sa croûte jaune vif à longs aiguillons et à sa forte odeur fruitée. Sarcodontia amplissima, très semblable, pousse sur divers feuillus dans l'est et le centre de l'Amérique du Nord et s'en distingue surtout au microscope. Sarcodontia uda forme des croûtes plus minces avec des aiguillons beaucoup plus courts, jusqu'à 3 mm, qui rougissent à l'hydroxyde de potassium (KOH). Hericium coralloides a des fructifications blanches, ramifiées, coralloïdes, à aiguillons pendants, sur le hêtre et d'autres feuillus. Climacodon septentrionalis forme des consoles étagées, blanchâtres à jaunâtres, avec des aiguillons dessous, surtout sur les érables.",
+      "notes": "Une grande partie de la littérature européenne nomme ce champignon Sarcodontia crocea. Une étude de 2021 a montré que ce nom repose sur une erreur d'identité : il désigne un champignon nord-américain du bois de châtaignier, appelé aujourd'hui Noblesia crocea, et le nom correct du champignon à aiguillons jaunes des pommiers et poiriers d'Europe est Sarcodontia setosa. Il est rare dans toute l'Europe et en déclin parce que les vieux vergers et les vieux arbres fruitiers sont abattus. En 2019, il a été évalué Vulnérable (VU) sur la Liste rouge mondiale de l'UICN sous le nom de Sarcodontia crocea, et il figure sur la liste rouge de nombreux pays européens ; la Lettonie le classe En danger (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2543620/vernacularNames",
+        "https://www.mycodb.fr/fiche.php?espece=crocea&genre=Sarcodontia"
+      ],
+      "label": "hydne safran des pommiers"
+    },
+    "he": {
+      "description": "פטרייה קרומית ודוקרנית בולטת הגדלה על עצי תפוח זקנים. היא יוצרת על פצעים, סדקים וחללים בגזעים ובענפים כתמים עבים, שעוותיים, צהובי גופרית, המכוסים בקוצים ארוכים, צפופים ופונים כלפי מטה, וגופי פרי טריים מפיצים ריח חזק, מתוק ופירותי, שמשווים אותו לעיתים קרובות לאננס או לאניס. בכל אירופה היא נדירה והולכת ומתמעטת.",
+      "cap": "אין לה כיפה. גוף הפרי הוא קרום הצמוד שטוח לעץ (רזופינטי), ועל משטחים אנכיים הוא יוצר כריות עבות ומגובששות. הכתמים הם בדרך כלל ברוחב של כ־3–20 cm ובאורך של 5–20 cm, ויכולים להתמזג ולכסות עד כ־1 m² של קליפה. הבסיס גרגרי, צהוב גופרית עד צהבהב, והשוליים סיביים ומצויצים, בתחילה לבנים או צהבהבים ובהמשך חומים. גוף פרי טרי עבה למדי ושעוותי, ויבש – קשיח.",
+      "hymenium": "קוצים מרצעיים צפופים מאוד מכסים את גוף הפרי ותלויים כלפי מטה. אורכם לרוב 3–15 mm ועוביים כ־1.5 mm; הם מאוחים בבסיסם, עגולים בחתך או לעיתים רחוקות פחוסים, ומחודדים בקצה. כשהם טריים הם צהובי גופרית חיוורים עד עזים, ועם הגיל או בלחיצה הם הופכים לכתומים, אדומי יין או חומים. הבזידיות אלתיות ונושאות ארבעה נבגים, כ־15–40 × 5–7 µm.",
+      "stipe": "אין לה רגל. גוף הפרי צמוד לקליפה ולעץ בכל צדו התחתון.",
+      "flesh": "הבשר (סוביקולום) צהוב בהיר, לעיתים עם גוון ירקרק קלוש, גרגרי ושעוותי, ובגופי פרי דמויי כרית עוביו מגיע עד כ־3 cm. הוא מכיל תאים אופייניים תפוחים ועבי דופן (סקלרוציסטות), שבזכוכית מגדלת עשויים להיראות כגושים זעירים ובהירים. לגופי פרי טריים ריח חזק מאוד, מתקתק ופירותי, של אננס, תפוחים מגוררים או אניס, שאפשר להבחין בו ממרחק כמה מטרים; יש המתארים אותו כפירותי אך לא נעים.",
+      "sporePrint": "המקורות ששימשו אינם מציינים את צבע אבקת הנבגים. הנבגים חסרי צבע, חלקים, אליפסואידיים עד אליפסואידיים רחבים, לעיתים קרובות עם טיפת שמן גדולה אחת, ואינם מגיבים בריאגנט מלצר; גודלם כ־5–5.5 × 3.5–4.5 µm (בסך הכול כ־4.5–6 × 3.5–5 µm).",
+      "habitat": "פטרייה מפרקת עץ הגורמת לריקבון לבן. היא גדלה בעיקר על עצי תפוח זקנים וחיים (Malus), לעיתים רחוקות הרבה יותר על אגס (Pyrus), חוזרר (Sorbus), שזיף (Prunus) וערבה, ולפעמים על עצים רחבי עלים אחרים כגון אדר, מילה, אשור ואלון. היא מופיעה על ענפים מתים ויבשים, בסדקי הקליפה, על פצעים ובחללים נרקבים של עצים בוגרים וזקנים במטעים ותיקים, בגינות, בפארקים ובנטיעות לאורך דרכים, לעיתים קרובות בעיירות ובכפרים. גופי הפרי חד־שנתיים ומופיעים בעיקר מיולי עד נובמבר, לעיתים גם בחורפים מתונים. היא נפוצה בכל אירופה, בעיקר באזור הממוזג, ומזרחה עד רוסיה.",
+      "uses": "אינה מאכל. את צבעה הצהוב היא מקבלת מחומצה סרקודונטית, פיגמנט שמקורו בבנזוקינון, ואפשר להשתמש בה לצביעה בפטריות, כשעם מקבעים שונים היא נותנת גוונים חומים־ורדרדים.",
+      "confusion": "על עץ תפוח זקן קשה להחליף אותה בזכות הקרום הצהוב העז עם הקוצים הארוכים והריח הפירותי החזק. Sarcodontia amplissima הדומה מאוד גדלה על עצים רחבי עלים שונים במזרח ובמרכז צפון אמריקה ונבדלת בעיקר במאפיינים מיקרוסקופיים. Sarcodontia uda יוצרת קרומים דקים יותר עם קוצים קצרים בהרבה, באורך של עד 3 mm, המאדימים באשלגן הידרוקסידי (KOH). ל־Hericium coralloides גופי פרי לבנים, מסועפים ודמויי אלמוגים עם קוצים תלויים, על עץ אשור ועצים רחבי עלים אחרים. Climacodon septentrionalis יוצרת מדפים מדורגים, לבנבנים עד צהבהבים, עם קוצים בצדם התחתון, בעיקר על עצי אדר.",
+      "notes": "בחלק גדול מהספרות האירופית נקראת פטרייה זו Sarcodontia crocea. מחקר משנת 2021 הראה שהשם מבוסס על זיהוי שגוי: הוא שייך לפטרייה צפון־אמריקנית הגדלה על עץ ערמון, הנקראת כיום Noblesia crocea, והשם הנכון לפטרייה צהובת הקוצים של עצי התפוח והאגס באירופה הוא Sarcodontia setosa. היא נדירה בכל אירופה והולכת ומתמעטת משום שמטעים ותיקים ועצי פרי זקנים נכרתים. בשנת 2019 הוערכה ברשימה האדומה העולמית של IUCN כפגיעה (VU) בשם Sarcodontia crocea, והיא מופיעה ברשימות האדומות של מדינות רבות באירופה; לטביה מסווגת אותה כבסכנת הכחדה (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "पुराने सेब के पेड़ों पर उगने वाला एक आकर्षक, काँटेदार, पपड़ीनुमा कवक। यह तनों और शाखाओं के घावों, दरारों और खोखलों पर मोटे, मोम जैसे, गंधक-पीले धब्बे बनाता है, जो लंबे, घने, नीचे की ओर मुड़े काँटों से ढके होते हैं, और ताज़े फलनकाय तेज़, मीठी, फलों जैसी गंध छोड़ते हैं, जिसकी तुलना अक्सर अनानास या सौंफ से की जाती है। पूरे यूरोप में यह दुर्लभ है और घट रहा है।",
+      "cap": "इसकी कोई टोपी नहीं होती। फलनकाय लकड़ी पर सपाट चिपकी एक पपड़ी (रिज़्यूपिनेट) होता है, और खड़ी सतहों पर यह मोटे, गांठदार गद्दे बनाता है। धब्बे आमतौर पर लगभग 3–20 cm चौड़े और 5–20 cm लंबे होते हैं और आपस में मिलकर लगभग 1 m² तक छाल ढक सकते हैं। आधार दानेदार और गंधक-पीले से पीलापन लिए होता है, और किनारा रेशेदार व झालरदार, पहले सफ़ेद या पीलापन लिए, बाद में भूरापन लिए होता है। ताज़ा फलनकाय काफ़ी मोटा और मोम जैसा, और सूखने पर सख़्त होता है।",
+      "hymenium": "बहुत घने, सुए जैसे काँटे फलनकाय को ढकते हैं और नीचे की ओर लटकते हैं। ये अधिकतर 3–15 mm लंबे और लगभग 1.5 mm मोटे होते हैं, आधार पर आपस में जुड़े, अनुप्रस्थ काट में गोल या कभी-कभी चपटे, और सिरों की ओर पतले होते जाते हैं। ताज़ा होने पर ये हल्के से चटक गंधक-पीले होते हैं और उम्र बढ़ने या दबाने पर नारंगी, वाइन-लाल या भूरे हो जाते हैं। बेसिडिया गदा के आकार के और चार-बीजाणु वाले, लगभग 15–40 × 5–7 µm होते हैं।",
+      "stipe": "इसका कोई डंठल नहीं होता। फलनकाय अपनी पूरी निचली सतह से छाल और लकड़ी से जुड़ा रहता है।",
+      "flesh": "गूदा (सबिकुलम) हल्का पीला, कभी-कभी हल्की हरी आभा लिए, दानेदार और मोम जैसा होता है, और गद्देदार फलनकायों में लगभग 3 cm तक मोटा होता है। इसमें विशिष्ट मोटी भित्ति वाली, फूली हुई कोशिकाएँ (स्क्लेरोसिस्ट) होती हैं, जो आवर्धक लेंस से छोटी हल्की गाँठों जैसी दिख सकती हैं। ताज़े फलनकायों में अनानास, कद्दूकस किए सेब या सौंफ जैसी बहुत तेज़, हल्की मीठी फलों जैसी गंध होती है, जो कई मीटर दूर से महसूस हो सकती है; कुछ लोग इसे फलों जैसी लेकिन अप्रिय बताते हैं।",
+      "sporePrint": "प्रयुक्त स्रोत बीजाणु छाप का रंग नहीं बताते। बीजाणु रंगहीन, चिकने, दीर्घवृत्ताकार से चौड़े दीर्घवृत्ताकार होते हैं, अक्सर एक बड़ी तेल-बूँद के साथ, और मेल्ज़र अभिकर्मक में कोई प्रतिक्रिया नहीं देते; इनका आकार लगभग 5–5.5 × 3.5–4.5 µm (कुल मिलाकर लगभग 4.5–6 × 3.5–5 µm) होता है।",
+      "habitat": "लकड़ी को अपघटित करने वाला कवक, जो सफ़ेद सड़न पैदा करता है। यह मुख्यतः पुराने, जीवित सेब के पेड़ों (Malus) पर उगता है, बहुत कम नाशपाती (Pyrus), रोवन (Sorbus), आलूबुखारा (Prunus) और विलो पर, और कभी-कभी अन्य चौड़ी पत्ती वाले पेड़ों जैसे मेपल, ऐश, बीच और ओक पर। यह पुराने बागों, बगीचों, पार्कों और सड़क किनारे के वृक्षारोपणों में परिपक्व और पुराने पेड़ों की मृत, सूखी शाखाओं, छाल की दरारों, घावों और सड़ते खोखलों पर दिखाई देता है, अक्सर कस्बों और गाँवों में। फलनकाय एकवर्षीय होते हैं और मुख्यतः जुलाई से नवंबर तक, कभी-कभी हल्की सर्दियों में भी निकलते हैं। यह पूरे यूरोप में, मुख्यतः समशीतोष्ण क्षेत्र में, और पूर्व की ओर रूस तक पाया जाता है।",
+      "uses": "खाने योग्य नहीं। इसका पीला रंग सार्कोडॉन्टिक अम्ल से आता है, जो बेंज़ोक्विनोन से व्युत्पन्न एक वर्णक है, और इसे कवक-रंगाई में इस्तेमाल किया जा सकता है, जिसमें विभिन्न रंगबंधकों के साथ यह गुलाबी-भूरे रंग देता है।",
+      "confusion": "पुराने सेब के पेड़ पर लंबे काँटों वाली चटक पीली पपड़ी और तेज़ फलों जैसी गंध के कारण इसे किसी और से भ्रमित करना कठिन है। बहुत मिलती-जुलती Sarcodontia amplissima उत्तरी अमेरिका के पूर्वी और मध्य भाग में विभिन्न चौड़ी पत्ती वाले पेड़ों पर उगती है और मुख्यतः सूक्ष्मदर्शी लक्षणों में भिन्न होती है। Sarcodontia uda पतली पपड़ियाँ बनाती है, जिनके काँटे बहुत छोटे, 3 mm तक लंबे होते हैं और पोटैशियम हाइड्रॉक्साइड (KOH) में लाल हो जाते हैं। Hericium coralloides के फलनकाय सफ़ेद, शाखित, मूँगे जैसे और लटकते काँटों वाले होते हैं, जो बीच और अन्य चौड़ी पत्ती वाले पेड़ों की लकड़ी पर उगते हैं। Climacodon septentrionalis परतदार, सफ़ेद से पीलापन लिए ताकनुमा फलनकाय बनाता है जिनकी निचली सतह पर काँटे होते हैं, अधिकतर मेपल पर।",
+      "notes": "यूरोपीय साहित्य का बड़ा हिस्सा इस कवक को Sarcodontia crocea कहता है। 2021 के एक अध्ययन ने दिखाया कि यह नाम एक गलत पहचान पर आधारित है: यह नाम चेस्टनट की लकड़ी पर उगने वाले एक उत्तरी अमेरिकी कवक का है, जिसे अब Noblesia crocea कहा जाता है, जबकि यूरोप में सेब और नाशपाती के पेड़ों पर उगने वाले पीले काँटों वाले कवक का सही नाम Sarcodontia setosa है। पूरे यूरोप में यह दुर्लभ है और घट रहा है, क्योंकि पुराने बाग और पुराने फलदार पेड़ काटे जा रहे हैं। 2019 में IUCN की वैश्विक रेड लिस्ट में इसे Sarcodontia crocea नाम से असुरक्षित (VU) आँका गया, और यह कई यूरोपीय देशों की रेड लिस्ट में शामिल है; लातविया इसे संकटग्रस्त (EN) श्रेणी में रखता है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Upadljiva korasta gljiva s bodljama koja raste na starim jabukama. Na ranama, pukotinama i šupljinama debala i grana stvara debele, voštane, sumporno žute plohe prekrivene dugim, gustim, prema dolje usmjerenim bodljama, a svježa plodišta ispuštaju jak, sladak, voćni miris koji se često uspoređuje s ananasom ili anisom. U cijeloj je Europi rijetka i u opadanju.",
+      "cap": "Klobuka nema. Plodište je kora koja leži plosnato na drvu (rasprostrta), a na okomitim površinama stvara debele, kvrgave jastučiće. Plohe su obično široke oko 3–20 cm i duge 5–20 cm te se mogu spajati i prekriti do oko 1 m² kore. Podloga je zrnata, sumporno žuta do žućkasta, a rub vlaknast i resast, isprva bijel ili žućkast, poslije smećkast. Svježe plodište prilično je debelo i voštano, a suho žilavo.",
+      "hymenium": "Gusto zbijene, šilaste bodlje prekrivaju plodište i vise prema dolje. Uglavnom su duge 3–15 mm i debele oko 1,5 mm, pri dnu srasle, u presjeku okrugle ili rijetko spljoštene, sa suženim vrhovima. Svježe su blijedo do jarko sumporno žute, a starenjem ili pritiskom postaju narančaste, vinskocrvene ili smeđe. Bazidije su batinaste, s četiri spore, oko 15–40 × 5–7 µm.",
+      "stipe": "Stručka nema. Plodište je cijelom donjom stranom pričvršćeno za koru i drvo.",
+      "flesh": "Meso (subikulum) je svijetložuto, ponekad sa slabim zelenkastim tonom, zrnato i voštano, u jastučastim plodištima debelo do oko 3 cm. Sadrži karakteristične debelostijene, napuhnute stanice (sklerociste) koje se pod povećalom mogu vidjeti kao sitni svijetli čvorići. Svježa plodišta imaju vrlo jak, slatkasto voćni miris na ananas, naribane jabuke ili anis, koji se osjeti i s nekoliko metara; neki ga opisuju kao voćni, ali neugodan.",
+      "sporePrint": "Korišteni izvori ne navode boju otiska spora. Spore su bezbojne, glatke, elipsoidne do široko elipsoidne, često s jednom velikom uljnom kapljicom, i ne reagiraju u Melzerovu reagensu; veličine su oko 5–5,5 × 3,5–4,5 µm (ukupno oko 4,5–6 × 3,5–5 µm).",
+      "habitat": "Gljiva razgrađivač drva koja uzrokuje bijelu trulež. Raste ponajviše na starim živim jabukama (Malus), mnogo rjeđe na kruški (Pyrus), oskoruši i jarebici (Sorbus), šljivi (Prunus) i vrbi, a povremeno na drugim listopadnim stablima poput javora, jasena, bukve i hrasta. Pojavljuje se na mrtvim, suhim granama, u pukotinama kore, na ranama i u trulim šupljinama zrelih i starih stabala u starim voćnjacima, vrtovima, parkovima i drvoredima uz ceste, često u gradovima i selima. Plodišta su jednogodišnja i javljaju se uglavnom od srpnja do studenoga, ponekad i u blagim zimama. Rasprostranjena je u cijeloj Europi, uglavnom u umjerenom pojasu, a na istok do Rusije.",
+      "uses": "Nije jestiva. Žutu boju daje joj sarkodontska kiselina, pigment izveden iz benzokinona, a može se koristiti za bojenje gljivama, pri čemu s raznim močilima daje ružičastosmeđe tonove.",
+      "confusion": "Na staroj jabuci teško ju je zamijeniti zbog jarko žute kore s dugim bodljama i jakog voćnog mirisa. Vrlo slična Sarcodontia amplissima raste na raznim listopadnim stablima na istoku i u središnjem dijelu Sjeverne Amerike i razlikuje se uglavnom mikroskopski. Sarcodontia uda stvara tanje kore s mnogo kraćim bodljama, dugim do 3 mm, koje u kalijevu hidroksidu (KOH) pocrvene. Hericium coralloides ima bijela, razgranata, koraljasta plodišta s visećim bodljama na drvu bukve i drugih listača. Climacodon septentrionalis stvara katove bjelkastih do žućkastih konzola s bodljama na donjoj strani, uglavnom na javorima.",
+      "notes": "Velik dio europske literature ovu gljivu naziva Sarcodontia crocea. Studija iz 2021. pokazala je da se to ime temelji na zabuni: pripada sjevernoameričkoj gljivi na kestenovu drvu, danas nazvanoj Noblesia crocea, a ispravno ime za žutobodljastu gljivu jabuka i krušaka u Europi je Sarcodontia setosa. U cijeloj je Europi rijetka i u opadanju jer se krče stari voćnjaci i stara voćna stabla. Godine 2019. na globalnom Crvenom popisu IUCN-a pod imenom Sarcodontia crocea procijenjena je kao osjetljiva (VU) i nalazi se na crvenim popisima mnogih europskih zemalja; Latvija je svrstava među ugrožene (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Feltűnő, tüskés, kéregszerű gomba, amely öreg almafákon él. A törzsek és ágak sebein, repedéseiben és üregeiben vastag, viaszos, kénsárga foltokat képez, amelyeket hosszú, sűrű, lefelé irányuló tüskék borítanak, a friss termőtestek pedig erős, édes, gyümölcsös illatot árasztanak, amelyet gyakran az ananászéhoz vagy az ánizséhoz hasonlítanak. Egész Európában ritka és visszaszorulóban van.",
+      "cap": "Kalapja nincs. A termőtest a fához laposan simuló kéreg (reszupinát), függőleges felületeken pedig vastag, göröngyös párnákat alkot. A foltok általában kb. 3–20 cm szélesek és 5–20 cm hosszúak, és összeolvadva akár kb. 1 m² kérget is beboríthatnak. Az alap szemcsés, kénsárga vagy sárgás, a szél szálas és rojtos, eleinte fehér vagy sárgás, később barnás. Frissen a termőtest meglehetősen vastag és viaszos, szárazon szívós.",
+      "hymenium": "Sűrűn álló, árszerű tüskék borítják a termőtestet és lefelé lógnak. Többnyire 3–15 mm hosszúak és kb. 1,5 mm vastagok, tövüknél összenőttek, keresztmetszetben kerekek vagy ritkán lapítottak, csúcsuk felé elkeskenyednek. Frissen halvány- vagy élénk kénsárgák, idősen vagy nyomásra narancssárgák, borvörösek vagy barnák lesznek. A bazídiumok bunkósak, négyspórásak, kb. 15–40 × 5–7 µm-esek.",
+      "stipe": "Tönkje nincs. A termőtest egész alsó felületével a kéreghez és a fához nő.",
+      "flesh": "A hús (szubikulum) világossárga, néha halvány zöldes árnyalatú, szemcsés és viaszos, párnaszerű termőtestekben kb. 3 cm vastag is lehet. Jellegzetes vastag falú, felfúvódott sejteket (szklerocisztákat) tartalmaz, amelyek nagyítóval apró, világos csomóknak látszhatnak. A friss termőtestek illata nagyon erős, édeskés-gyümölcsös, ananászra, reszelt almára vagy ánizsra emlékeztet, és több méterről is érezhető; egyesek gyümölcsösnek, de kellemetlennek írják le.",
+      "sporePrint": "A felhasznált források nem adják meg a spórapor színét. A spórák színtelenek, simák, elliptikusak vagy szélesen elliptikusak, gyakran egyetlen nagy olajcseppel, Melzer-reagensben nem reagálnak; méretük kb. 5–5,5 × 3,5–4,5 µm (összességében kb. 4,5–6 × 3,5–5 µm).",
+      "habitat": "Fehérkorhadást okozó, fát bontó gomba. Főként öreg, élő almafákon (Malus) nő, sokkal ritkábban körtén (Pyrus), berkenyén (Sorbus), szilván (Prunus) és fűzön, alkalmanként más lombos fákon is, például juharon, kőrisen, bükkön és tölgyön. Elhalt, száraz ágakon, kéregrepedésekben, sebeken és korhadó üregekben jelenik meg idős és öreg fákon, régi gyümölcsösökben, kertekben, parkokban és útszéli fasorokban, gyakran városokban és falvakban. A termőtestek egyévesek, főként júliustól novemberig jelennek meg, néha enyhe teleken is. Egész Európában előfordul, főként a mérsékelt övben, keleten Oroszországig.",
+      "uses": "Nem ehető. Sárga színét a szarkodontinsav, egy benzokinonból származó pigment adja, és gombás festésre is használható: különféle pácokkal rózsás-barna árnyalatokat ad.",
+      "confusion": "Öreg almafán élénksárga, hosszú tüskés kérge és erős gyümölcsös illata miatt nehéz összetéveszteni. A nagyon hasonló Sarcodontia amplissima Észak-Amerika keleti és középső részén különféle lombos fákon nő, és főként mikroszkopikus bélyegekben különbözik. A Sarcodontia uda vékonyabb kérget képez jóval rövidebb, legfeljebb 3 mm-es tüskékkel, amelyek kálium-hidroxidban (KOH) megvörösödnek. A Hericium coralloides termőteste fehér, elágazó, korallszerű, lecsüngő tüskékkel, bükk és más lombos fák faanyagán. A Climacodon septentrionalis emeletesen álló, fehéres vagy sárgás konzolokat képez, alsó oldalukon tüskékkel, főként juharokon.",
+      "notes": "Az európai szakirodalom nagy része ezt a gombát Sarcodontia crocea néven említi. Egy 2021-es tanulmány kimutatta, hogy ez a név téves azonosításon alapul: egy gesztenyefán élő észak-amerikai gombához tartozik, amelyet ma Noblesia crocea néven ismerünk, az európai alma- és körtefák sárga tüskés gombájának helyes neve pedig Sarcodontia setosa. Egész Európában ritka és visszaszorulóban van, mert kivágják a régi gyümölcsösöket és az öreg gyümölcsfákat. 2019-ben az IUCN globális vörös listáján Sarcodontia crocea néven sebezhetőnek (VU) minősítették, és számos európai ország vörös listáján szerepel; Lettországban veszélyeztetettnek (EN) tartják.",
+      "names": [
+        "almafa-fogastapló",
+        "sárga fogastapló"
+      ],
+      "sourceUrls": [
+        "https://miskolcigombasz.hu/fajlista/index.php",
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "farontó fésűsgomba"
+    },
+    "id": {
+      "description": "Jamur kerak berduri yang mencolok pada pohon apel tua. Jamur ini membentuk bercak tebal, berlilin, kuning belerang yang tertutup duri panjang, rapat, dan mengarah ke bawah pada luka, retakan, dan rongga batang serta cabang, dan tubuh buah yang segar mengeluarkan bau kuat, manis, dan buah-buahan yang sering dibandingkan dengan nanas atau adas manis. Jamur ini langka dan terus menyusut di seluruh Eropa.",
+      "cap": "Tidak bertudung. Tubuh buahnya berupa kerak yang menempel datar pada kayu (resupinat) atau, pada permukaan tegak, membentuk bantalan tebal yang berbenjol. Bercaknya biasanya sekitar 3–20 cm lebarnya dan 5–20 cm panjangnya dan dapat menyatu hingga menutupi sekitar 1 m² kulit kayu. Dasarnya bergranula dan kuning belerang hingga kekuningan, dan tepinya berserat serta berumbai, mula-mula putih atau kekuningan, kemudian kecokelatan. Saat segar tubuh buah cukup tebal dan berlilin, saat kering liat.",
+      "hymenium": "Duri berbentuk penusuk yang sangat rapat menutupi tubuh buah dan menggantung ke bawah. Panjangnya kebanyakan 3–15 mm dan tebalnya sekitar 1,5 mm, menyatu di pangkal, bulat pada penampang atau jarang pipih, dengan ujung meruncing. Saat segar berwarna kuning belerang pucat hingga cerah, dan seiring umur atau bila ditekan menjadi jingga, merah anggur, atau cokelat. Basidiumnya berbentuk gada dan berspora empat, sekitar 15–40 × 5–7 µm.",
+      "stipe": "Tidak bertangkai. Tubuh buah melekat pada kulit kayu dan kayu dengan seluruh sisi bawahnya.",
+      "flesh": "Dagingnya (subikulum) kuning muda, kadang dengan semburat kehijauan samar, bergranula dan berlilin, dan pada tubuh buah berbentuk bantalan tebalnya hingga sekitar 3 cm. Daging ini mengandung sel-sel khas yang menggembung dan berdinding tebal (sklerosista) yang dengan kaca pembesar dapat tampak sebagai bintil kecil berwarna pucat. Tubuh buah segar berbau sangat kuat, agak manis dan seperti buah, menyerupai nanas, apel parut, atau adas manis, yang dapat tercium dari beberapa meter; sebagian orang menyebutnya berbau buah tetapi tidak sedap.",
+      "sporePrint": "Sumber yang digunakan tidak menyebutkan warna cetakan spora. Sporanya tidak berwarna, halus, elipsoid hingga elipsoid lebar, sering dengan satu tetes minyak besar, dan tidak bereaksi dalam reagen Melzer; ukurannya sekitar 5–5,5 × 3,5–4,5 µm (keseluruhan sekitar 4,5–6 × 3,5–5 µm).",
+      "habitat": "Jamur pengurai kayu yang menyebabkan busuk putih. Tumbuh terutama pada pohon apel tua yang masih hidup (Malus), jauh lebih jarang pada pir (Pyrus), rowan (Sorbus), plum (Prunus), dan dedalu, dan sesekali pada pohon berdaun lebar lain seperti maple, ash, beech, dan ek. Jamur ini muncul pada cabang mati yang kering, di retakan kulit kayu, pada luka, dan di rongga lapuk pohon dewasa dan tua di kebun buah lama, pekarangan, taman, dan tanaman tepi jalan, sering di kota dan desa. Tubuh buahnya bersifat tahunan dan muncul terutama dari Juli hingga November, kadang juga pada musim dingin yang hangat. Tersebar di seluruh Eropa, terutama di zona beriklim sedang, dan ke timur hingga Rusia.",
+      "uses": "Tidak dapat dimakan. Warna kuningnya berasal dari asam sarkodontat, pigmen turunan benzokuinon, dan jamur ini dapat digunakan untuk pewarnaan dengan jamur, menghasilkan warna cokelat kemerahmudaan dengan berbagai mordan.",
+      "confusion": "Pada pohon apel tua jamur ini sulit dikelirukan karena keraknya yang kuning cerah dengan duri panjang dan baunya yang kuat seperti buah. Sarcodontia amplissima yang sangat mirip tumbuh pada berbagai pohon berdaun lebar di Amerika Utara bagian timur dan tengah dan terutama dibedakan secara mikroskopis. Sarcodontia uda membentuk kerak lebih tipis dengan duri jauh lebih pendek, hingga 3 mm, yang menjadi merah dalam kalium hidroksida (KOH). Hericium coralloides memiliki tubuh buah putih, bercabang, mirip karang, dengan duri menggantung, pada kayu beech dan pohon berdaun lebar lainnya. Climacodon septentrionalis membentuk rak bertingkat berwarna keputihan hingga kekuningan dengan duri di sisi bawah, sebagian besar pada pohon maple.",
+      "notes": "Sebagian besar literatur Eropa menyebut jamur ini Sarcodontia crocea. Sebuah studi tahun 2021 menunjukkan bahwa nama ini didasarkan pada kekeliruan identitas: nama itu milik jamur Amerika Utara pada kayu kastanye, kini disebut Noblesia crocea, sedangkan nama yang benar untuk jamur berduri kuning pada pohon apel dan pir di Eropa adalah Sarcodontia setosa. Jamur ini langka di seluruh Eropa dan terus menyusut karena kebun buah tua dan pohon buah tua ditebang. Pada 2019 jamur ini dinilai Rentan (VU) dalam Daftar Merah global IUCN dengan nama Sarcodontia crocea, dan masuk daftar merah di banyak negara Eropa; Latvia menggolongkannya Genting (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un vistoso fungo crostoso con aculei dei vecchi meli. Forma placche spesse, cerose, giallo zolfo, coperte di aculei lunghi, fitti e rivolti verso il basso, su ferite, fessure e cavità di tronchi e rami, e i corpi fruttiferi freschi emanano un forte odore dolce e fruttato, spesso paragonato all'ananas o all'anice. È raro e in declino in tutta Europa.",
+      "cap": "Il cappello manca. Il corpo fruttifero è una crosta appiattita sul legno (resupinata) oppure, sulle superfici verticali, forma spessi cuscinetti bitorzoluti. Le placche misurano di solito circa 3–20 cm di larghezza e 5–20 cm di lunghezza e possono confluire fino a coprire circa 1 m² di corteccia. La base è granulosa, da giallo zolfo a giallastra, e il margine è fibroso e frangiato, dapprima bianco o giallastro, poi brunastro. Da fresco il corpo fruttifero è piuttosto spesso e ceroso, da secco tenace.",
+      "hymenium": "Aculei subulati, molto fitti, ricoprono il corpo fruttifero e pendono verso il basso. Sono lunghi per lo più 3–15 mm e spessi circa 1,5 mm, saldati alla base, rotondi in sezione o raramente appiattiti, con la punta assottigliata. Da freschi sono giallo zolfo da pallido a vivo e con l'età o al tocco diventano arancioni, rosso vino o bruni. I basidi sono clavati e tetrasporici, di circa 15–40 × 5–7 µm.",
+      "stipe": "Il gambo manca. Il corpo fruttifero aderisce alla corteccia e al legno con tutta la faccia inferiore.",
+      "flesh": "La carne (subicolo) è giallo chiaro, talvolta con una debole sfumatura verdastra, granulosa e cerosa, e nei corpi fruttiferi a cuscinetto raggiunge circa 3 cm di spessore. Contiene caratteristiche cellule rigonfie a parete spessa (sclerocisti), che con una lente possono apparire come piccoli noduli chiari. I corpi fruttiferi freschi hanno un odore molto forte, dolciastro e fruttato, di ananas, mela grattugiata o anice, percepibile a diversi metri; alcuni lo descrivono come fruttato ma sgradevole.",
+      "sporePrint": "Le fonti consultate non indicano il colore della sporata. Le spore sono incolori, lisce, da ellissoidi a largamente ellissoidi, spesso con una sola grande goccia oleosa, e non reagiscono al reattivo di Melzer; misurano circa 5–5,5 × 3,5–4,5 µm (nel complesso circa 4,5–6 × 3,5–5 µm).",
+      "habitat": "Un fungo che decompone il legno causando una carie bianca. Cresce soprattutto su vecchi meli vivi (Malus), molto più raramente su pero (Pyrus), sorbo (Sorbus), susino (Prunus) e salice, e occasionalmente su altre latifoglie come acero, frassino, faggio e quercia. Compare su rami morti e secchi, nelle fessure della corteccia, sulle ferite e nelle cavità marcescenti di alberi maturi e vecchi, in vecchi frutteti, giardini, parchi e alberature stradali, spesso in città e paesi. I corpi fruttiferi sono annuali e compaiono soprattutto da luglio a novembre, talvolta anche negli inverni miti. È presente in tutta Europa, soprattutto nella zona temperata, e verso est fino alla Russia.",
+      "uses": "Non commestibile. Il colore giallo deriva dall'acido sarcodontico, un pigmento derivato dal benzochinone, e può essere usato per la tintura con i funghi, dando toni bruno-rosati con diversi mordenti.",
+      "confusion": "Su un vecchio melo è difficile da confondere per la crosta giallo vivo con lunghi aculei e il forte odore fruttato. La molto simile Sarcodontia amplissima cresce su varie latifoglie nel Nord America orientale e centrale e si distingue soprattutto al microscopio. Sarcodontia uda forma croste più sottili con aculei molto più corti, fino a 3 mm, che diventano rossi con l'idrossido di potassio (KOH). Hericium coralloides ha corpi fruttiferi bianchi, ramificati, coralloidi, con aculei pendenti, su legno di faggio e di altre latifoglie. Climacodon septentrionalis forma mensole sovrapposte, da biancastre a giallastre, con aculei sulla faccia inferiore, soprattutto sugli aceri.",
+      "notes": "Gran parte della letteratura europea chiama questo fungo Sarcodontia crocea. Uno studio del 2021 ha dimostrato che questo nome si basa su un errore di identità: appartiene a un fungo nordamericano del legno di castagno, oggi chiamato Noblesia crocea, mentre il nome corretto del fungo dagli aculei gialli di meli e peri in Europa è Sarcodontia setosa. È raro in tutta Europa e in declino perché i vecchi frutteti e i vecchi alberi da frutto vengono abbattuti. Nel 2019 è stato valutato Vulnerabile (VU) nella Lista Rossa globale IUCN con il nome di Sarcodontia crocea, ed è inserito nelle liste rosse di molti paesi europei; la Lettonia lo classifica In pericolo (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "古いリンゴの木に生える、目を引く背着生の針状菌。幹や枝の傷、割れ目、うろに、長く密で下向きの針に覆われた厚くろう質の硫黄色の斑をつくり、新鮮な子実体はパイナップルやアニスにたとえられることの多い、強く甘い果実のような香りを放つ。ヨーロッパ全域でまれで、減少している。",
+      "cap": "傘はない。子実体は材の上に平たく張りつく殻状(背着生)で、垂直な面では厚くこぶ状のクッションをつくる。斑は通常幅約3–20 cm、長さ5–20 cmで、融合して樹皮を約1 m²まで覆うことがある。基部は粒状で硫黄色〜黄色っぽく、縁は繊維状で房状、はじめ白色または黄色っぽく、のち褐色を帯びる。新鮮な子実体はかなり厚くろう質で、乾くと強靭になる。",
+      "hymenium": "密生する錐形の針が子実体を覆い、下向きに垂れ下がる。長さはおもに3–15 mm、太さ約1.5 mmで、基部で互いに癒合し、断面は円形でまれに扁平、先端に向かって細くなる。新鮮なときは淡〜鮮やかな硫黄色で、古くなったり傷ついたりすると橙色、ワインレッドまたは褐色になる。担子器は棍棒形で4胞子性、約15–40 × 5–7 µm。",
+      "stipe": "柄はない。子実体は下面全体で樹皮と材に付着している。",
+      "flesh": "肉(サブイクルム)は淡黄色で、ときにかすかに緑色を帯び、粒状でろう質、クッション状の子実体では厚さ約3 cmに達する。特徴的な厚壁で膨らんだ細胞(スクレロシスト)を含み、ルーペで見ると小さな淡色の粒に見えることがある。新鮮な子実体はパイナップル、すりおろしたリンゴまたはアニスのような、非常に強いやや甘い果実臭をもち、数メートル離れていても感じられる。果実臭だが不快と表現されることもある。",
+      "sporePrint": "参照した資料には胞子紋の色の記載がない。胞子は無色、平滑、楕円形〜広楕円形で、しばしば大きな油滴を1個含み、メルツァー試薬で反応しない。大きさは約5–5.5 × 3.5–4.5 µm(全体で約4.5–6 × 3.5–5 µm)。",
+      "habitat": "白色腐朽を起こす木材腐朽菌。おもに生きている古いリンゴの木(Malus)に生え、ナシ(Pyrus)、ナナカマド(Sorbus)、スモモ(Prunus)、ヤナギにははるかにまれで、ときにカエデ、トネリコ、ブナ、ナラなどほかの広葉樹にも生える。古い果樹園、庭、公園、街路樹の成木や老木の枯れた乾いた枝、樹皮の割れ目、傷、腐ったうろに現れ、町や村の中でもよく見られる。子実体は一年生で、おもに7月から11月に、ときに暖冬にも発生する。ヨーロッパ全域、とくに温帯に分布し、東はロシアに及ぶ。",
+      "uses": "食用不適。黄色はベンゾキノンに由来する色素サルコドント酸によるもので、きのこ染めに使うことができ、さまざまな媒染剤でピンクがかった褐色を出す。",
+      "confusion": "古いリンゴの木の上では、長い針をもつ鮮やかな黄色の殻状の子実体と強い果実臭から、ほかと間違えにくい。よく似たSarcodontia amplissimaは北アメリカ東部・中部のさまざまな広葉樹に生え、おもに顕微鏡的な特徴で区別される。Sarcodontia udaはより薄い殻状で、針ははるかに短く長さ3 mmまでで、水酸化カリウム(KOH)で赤くなる。Hericium coralloidesは白く枝分かれしたサンゴ状の子実体に垂れ下がる針をもち、ブナなどの広葉樹材に生える。Climacodon septentrionalisは下面に針のある、白っぽい〜黄色っぽい棚状の子実体を段々に重ね、おもにカエデに生える。",
+      "notes": "ヨーロッパの文献の多くはこのきのこをSarcodontia croceaと呼んでいる。2021年の研究で、この名は誤った同定に基づくことが示された。この名はクリ材に生える北アメリカのきのこ(現在のNoblesia crocea)のものであり、ヨーロッパのリンゴやナシの木に生える黄色い針のきのこの正しい名はSarcodontia setosaである。古い果樹園や古い果樹が伐採されるため、ヨーロッパ全域でまれで減少している。2019年にIUCNの世界レッドリストでSarcodontia croceaの名で危急種(VU)と評価され、多くのヨーロッパ諸国のレッドリストに掲載されている。ラトビアでは絶滅危惧IB類(EN)に分類されている。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "오래된 사과나무에 자라는 눈에 띄는 가시 달린 껍질 모양 버섯. 줄기와 가지의 상처, 갈라진 틈, 구멍에 길고 빽빽하며 아래로 향한 가시로 덮인 두껍고 밀랍 같은 유황색 반점을 만들며, 신선한 자실체는 흔히 파인애플이나 아니스에 비유되는 강하고 달콤한 과일 향을 풍긴다. 유럽 전역에서 드물며 감소하고 있다.",
+      "cap": "갓이 없다. 자실체는 나무에 납작하게 붙는 껍질 모양(배착생)이거나, 수직면에서는 두껍고 울퉁불퉁한 방석 모양을 이룬다. 반점은 보통 너비 약 3–20 cm, 길이 5–20 cm이며 서로 합쳐져 나무껍질을 약 1 m²까지 덮기도 한다. 기부는 알갱이 모양이고 유황색에서 노르스름한 색이며, 가장자리는 섬유질이고 술 모양으로, 처음에는 흰색 또는 노르스름하다가 나중에 갈색을 띤다. 신선한 자실체는 꽤 두껍고 밀랍 같으며, 마르면 질겨진다.",
+      "hymenium": "아주 빽빽한 송곳 모양의 가시가 자실체를 덮고 아래로 늘어진다. 가시는 대개 길이 3–15 mm, 굵기 약 1.5 mm이며, 기부에서 서로 붙어 있고 단면은 둥글거나 드물게 납작하며 끝으로 갈수록 가늘어진다. 신선할 때는 연한 유황색에서 선명한 유황색이며, 오래되거나 눌리면 주황색, 포도주색 또는 갈색으로 변한다. 담자기는 곤봉 모양이고 4포자성이며 약 15–40 × 5–7 µm이다.",
+      "stipe": "대가 없다. 자실체는 아랫면 전체로 나무껍질과 목재에 붙어 있다.",
+      "flesh": "살(기층)은 연한 노란색으로 때로 희미한 녹색을 띠고, 알갱이 모양이며 밀랍 같고, 방석 모양 자실체에서는 두께가 약 3 cm에 이른다. 특징적인 두꺼운 벽의 부푼 세포(스클레로시스트)를 지니며, 확대경으로 보면 작고 옅은 색의 혹처럼 보일 수 있다. 신선한 자실체는 파인애플, 간 사과 또는 아니스 같은 매우 강하고 달짝지근한 과일 냄새가 나며, 몇 미터 떨어져서도 느낄 수 있다. 과일 향이지만 불쾌하다고 묘사하는 사람도 있다.",
+      "sporePrint": "참고한 자료에는 포자문 색이 나와 있지 않다. 포자는 무색이고 매끈하며 타원형에서 넓은 타원형으로, 흔히 큰 기름방울 하나를 품고 있고 멜처 시약에 반응하지 않는다. 크기는 약 5–5.5 × 3.5–4.5 µm(전체 범위 약 4.5–6 × 3.5–5 µm)이다.",
+      "habitat": "백색부후를 일으키는 목재부후균이다. 주로 살아 있는 오래된 사과나무(Malus)에 자라며, 배나무(Pyrus), 마가목(Sorbus), 자두나무(Prunus), 버드나무에서는 훨씬 드물고, 때로 단풍나무, 물푸레나무, 너도밤나무, 참나무 같은 다른 활엽수에도 자란다. 오래된 과수원, 정원, 공원, 길가 가로수의 다 자란 나무와 노목의 죽은 마른 가지, 껍질의 갈라진 틈, 상처, 썩은 구멍에 나타나며, 마을과 도시 안에서도 자주 보인다. 자실체는 일년생이며 주로 7월부터 11월까지, 때로는 따뜻한 겨울에도 나타난다. 유럽 전역, 특히 온대 지역에 분포하며 동쪽으로 러시아까지 이른다.",
+      "uses": "식용 불가. 노란색은 벤조퀴논에서 유래한 색소인 사르코돈트산 때문이며, 버섯 염색에 쓸 수 있고 여러 매염제와 함께 분홍빛 갈색을 낸다.",
+      "confusion": "오래된 사과나무 위에서는 긴 가시가 달린 선명한 노란 껍질과 강한 과일 향 때문에 다른 버섯과 혼동하기 어렵다. 매우 비슷한 Sarcodontia amplissima는 북아메리카 동부와 중부의 여러 활엽수에 자라며 주로 현미경적 특징으로 구별된다. Sarcodontia uda는 더 얇은 껍질을 이루고 가시가 훨씬 짧아 길이 3 mm 이하이며 수산화칼륨(KOH)에서 붉게 변한다. Hericium coralloides는 흰색으로 가지가 갈라진 산호 모양 자실체에 늘어진 가시가 있으며 너도밤나무와 다른 활엽수 목재에 자란다. Climacodon septentrionalis는 아랫면에 가시가 있는 흰색에서 노르스름한 선반 모양 자실체를 층층이 이루며 주로 단풍나무에 자란다.",
+      "notes": "유럽 문헌 상당수는 이 버섯을 Sarcodontia crocea라고 부른다. 2021년 연구에 따르면 이 이름은 잘못된 동정에 근거한 것으로, 밤나무 목재에 자라는 북아메리카 버섯(현재 Noblesia crocea)의 이름이며, 유럽의 사과나무와 배나무에 자라는 노란 가시 버섯의 올바른 이름은 Sarcodontia setosa이다. 오래된 과수원과 늙은 과일나무가 베어지면서 유럽 전역에서 드물고 감소하고 있다. 2019년 IUCN 세계 적색목록에서 Sarcodontia crocea라는 이름으로 취약(VU)으로 평가되었고, 여러 유럽 나라의 적색목록에 올라 있으며, 라트비아는 위기(EN)로 분류한다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Įspūdingas paplokščias dygliuotas grybas, augantis ant senų obelų. Ant kamienų ir šakų žaizdų, plyšiuose ir drevėse jis sudaro storas, vaškiškas, sieros geltonumo dėmes, padengtas ilgais, tankiais, žemyn nukreiptais dygliais, o švieži vaisiakūniai skleidžia stiprų, saldų, vaisių kvapą, dažnai lyginamą su ananasu ar anyžiumi. Visoje Europoje jis retas ir nyksta.",
+      "cap": "Kepurėlės nėra. Vaisiakūnis – plokščiai prie medienos prigludusi pluta (paplokščias), o ant vertikalių paviršių jis sudaro storas, gumbuotas pagalvėles. Dėmės paprastai būna apie 3–20 cm pločio ir 5–20 cm ilgio ir gali susilieti, padengdamos iki maždaug 1 m² žievės. Pagrindas grūdėtas, sieros geltonumo iki gelsvo, kraštas pluoštiškas ir kutuotas, iš pradžių baltas ar gelsvas, vėliau rusvas. Šviežias vaisiakūnis gana storas ir vaškiškas, sausas – kietas.",
+      "hymenium": "Tankiai susispaudę, ylos formos dygliai dengia vaisiakūnį ir kabo žemyn. Jie dažniausiai 3–15 mm ilgio ir apie 1,5 mm storio, prie pagrindo suaugę, skerspjūvyje apvalūs ar retai suploti, smailėjančiomis viršūnėmis. Švieži jie blyškiai ar ryškiai sieros geltonumo, o senstant ar paspaudus tampa oranžiniai, vyno raudonumo ar rudi. Bazidės buožiškos, keturių sporų, apie 15–40 × 5–7 µm.",
+      "stipe": "Kotelio nėra. Vaisiakūnis visa apatine puse prisitvirtinęs prie žievės ir medienos.",
+      "flesh": "Minkštimas (subikulas) šviesiai geltonas, kartais su silpnu žalsvu atspalviu, grūdėtas ir vaškiškas, pagalvėlės formos vaisiakūniuose iki maždaug 3 cm storio. Jame yra būdingų storasienių, išsipūtusių ląstelių (sklerocistų), kurios pro lupą gali atrodyti kaip smulkūs šviesūs mazgeliai. Švieži vaisiakūniai turi labai stiprų, saldoką vaisių kvapą, primenantį ananasą, tarkuotus obuolius ar anyžių, juntamą net už kelių metrų; kai kas jį apibūdina kaip vaisių, bet nemalonų.",
+      "sporePrint": "Naudotuose šaltiniuose sporų atspaudo spalva nenurodyta. Sporos bespalvės, lygios, elipsoidiškos iki plačiai elipsoidiškų, dažnai su vienu dideliu aliejaus lašu, Melcerio reagente nereaguoja; jų dydis apie 5–5,5 × 3,5–4,5 µm (iš viso apie 4,5–6 × 3,5–5 µm).",
+      "habitat": "Medieną ardantis grybas, sukeliantis baltąjį puvinį. Auga daugiausia ant senų gyvų obelų (Malus), daug rečiau ant kriaušių (Pyrus), šermukšnių (Sorbus), slyvų (Prunus) ir gluosnių, kartais ir ant kitų lapuočių, pavyzdžiui, klevų, uosių, bukų ir ąžuolų. Jis pasirodo ant negyvų sausų šakų, žievės plyšiuose, žaizdose ir pūvančiose drevėse brandžių ir senų medžių senuose soduose, soduose prie namų, parkuose ir pakelių želdiniuose, dažnai miestuose ir kaimuose. Vaisiakūniai vienmečiai, pasirodo daugiausia nuo liepos iki lapkričio, kartais ir per šiltas žiemas. Paplitęs visoje Europoje, daugiausia vidutinio klimato juostoje, ir į rytus iki Rusijos.",
+      "uses": "Nevalgomas. Geltoną spalvą jam suteikia sarkodonto rūgštis – iš benzochinono kilęs pigmentas, todėl grybą galima naudoti dažymui; su įvairiais kandikliais jis duoda rausvai rudus atspalvius.",
+      "confusion": "Ant senos obels jį sunku su kuo nors supainioti dėl ryškiai geltonos plutos su ilgais dygliais ir stipraus vaisių kvapo. Labai panaši Sarcodontia amplissima auga ant įvairių lapuočių Šiaurės Amerikos rytuose ir centre ir skiriasi daugiausia mikroskopiniais požymiais. Sarcodontia uda sudaro plonesnes plutas su daug trumpesniais, iki 3 mm ilgio dygliais, kurie kalio hidrokside (KOH) parausta. Hericium coralloides vaisiakūniai balti, šakoti, koralų pavidalo, su kabančiais dygliais, auga ant bukų ir kitų lapuočių medienos. Climacodon septentrionalis sudaro aukštais išsidėsčiusias, balsvas iki gelsvų konsoles su dygliais apatinėje pusėje, daugiausia ant klevų.",
+      "notes": "Didelė dalis Europos literatūros šį grybą vadina Sarcodontia crocea. 2021 m. tyrimas parodė, kad šis pavadinimas pagrįstas klaidingu tapatinimu: jis priklauso Šiaurės Amerikos grybui ant kaštono medienos, dabar vadinamam Noblesia crocea, o teisingas Europos obelų ir kriaušių geltondyglio grybo pavadinimas yra Sarcodontia setosa. Jis retas visoje Europoje ir nyksta, nes kertami seni sodai ir seni vaismedžiai. 2019 m. pasauliniame IUCN Raudonajame sąraše jis pavadinimu Sarcodontia crocea įvertintas kaip pažeidžiamas (VU) ir įrašytas į daugelio Europos šalių raudonuosius sąrašus; Latvijoje jis priskirtas nykstančioms rūšims (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.raudonojiknyga.lt/uzkulisiai/100-lietuvos-raudonosios-knygos-saugomu-rusiu-sarasas-2020-m",
+        "https://vb.gamtc.lt/object/elaba:215108716/215108716.pdf"
+      ],
+      "label": "obelinis minkštadyglis"
+    },
+    "lv": {
+      "description": "Krāšņa klājeniska adateņsēne, kas aug uz vecām ābelēm. Tā veido biezus, vaskveida, sērdzeltenus plankumus, kas klāti ar garām, blīvām, uz leju vērstām adatiņām, uz stumbru un zaru brūcēm, plaisām un dobumos, un svaigi augļķermeņi izdala stipru, saldu, augļainu smaržu, ko bieži salīdzina ar ananasu vai anīsu. Visā Eiropā tā ir reta un kļūst arvien retāka.",
+      "cap": "Cepurītes nav. Augļķermenis ir klājenisks, plakaniski piekļauts koksnei, bet uz vertikālām virsmām veido biezus, paugurainus spilventiņus. Plankumi parasti ir apmēram 3–20 cm plati un 5–20 cm gari un var saplūst, noklājot līdz apmēram 1 m² mizas. Pamatne ir graudaina, sērdzeltena līdz dzeltenīga, mala šķiedraina un bārkstaina, sākumā balta vai dzeltenīga, vēlāk brūngana. Svaigs augļķermenis ir diezgan biezs un vaskveida, sauss – ciets.",
+      "hymenium": "Augļķermeni klāj ļoti blīvas, īlenveida, uz leju nokārušās adatiņas. Tās parasti ir 3–15 mm garas un apmēram 1,5 mm resnas, pie pamatnes saaugušas, šķērsgriezumā apaļas, retāk saplacinātas, ar smailiem galiem. Svaigas tās ir gaiši līdz spilgti sērdzeltenas, ar vecumu vai pēc saspiešanas kļūst oranžas, vīnsarkanas vai brūnas. Bazīdijas ir vālesveida, ar četrām sporām, apmēram 15–40 × 5–7 µm.",
+      "stipe": "Kātiņa nav. Augļķermenis ar visu apakšpusi ir piestiprināts mizai un koksnei.",
+      "flesh": "Mīkstums (subikuls) ir gaiši dzeltens, dažkārt ar vāju zaļganu nokrāsu, graudains un vaskveida, spilventiņveida augļķermeņos līdz apmēram 3 cm biezs. Tajā ir raksturīgas biezsienu, uzpūstas šūnas (sklerocistas), kas lupā var izskatīties kā sīki, gaiši mezgliņi. Svaigiem augļķermeņiem ir ļoti stipra, saldeni augļaina ananasa, rīvētu ābolu vai anīsa smarža, ko var sajust pat vairāku metru attālumā; daži to raksturo kā augļainu, bet nepatīkamu.",
+      "sporePrint": "Izmantotajos avotos sporu nospieduma krāsa nav norādīta. Sporas ir bezkrāsainas, gludas, elipsoidālas līdz plati elipsoidālas, bieži ar vienu lielu eļļas pilienu, Melcera reaģentā nereaģē; to izmērs ir apmēram 5–5,5 × 3,5–4,5 µm (kopumā apmēram 4,5–6 × 3,5–5 µm).",
+      "habitat": "Koksni noārdoša sēne, kas izraisa balto trupi. Aug galvenokārt uz vecām, dzīvām ābelēm (Malus), daudz retāk uz bumbierēm (Pyrus), pīlādžiem (Sorbus), plūmēm (Prunus) un vītoliem, un dažkārt uz citiem lapu kokiem, piemēram, kļavām, ošiem, dižskābaržiem un ozoliem. Tā parādās uz atmirušiem, sausiem zariem, mizas plaisās, brūcēs un trūdošos dobumos pieaugušiem un veciem kokiem vecos augļu dārzos, dārzos, parkos un ceļmalu stādījumos, bieži pilsētās un ciemos. Augļķermeņi ir viengadīgi un parādās galvenokārt no jūlija līdz novembrim, dažkārt arī siltās ziemās. Sastopama visā Eiropā, galvenokārt mērenajā joslā, un uz austrumiem līdz Krievijai.",
+      "uses": "Nav ēdama. Tās dzelteno krāsu nosaka sarkodontskābe – no benzohinona atvasināts pigments, un to var izmantot sēņu krāsošanā, ar dažādiem kodinātājiem iegūstot rozīgi brūnus toņus.",
+      "confusion": "Uz vecas ābeles to grūti sajaukt, jo tai ir spilgti dzelteni klājeniski augļķermeņi ar garām adatiņām un stipra augļaina smarža. Ļoti līdzīgā Sarcodontia amplissima aug uz dažādiem lapu kokiem Ziemeļamerikas austrumos un centrālajā daļā un atšķiras galvenokārt mikroskopiski. Sarcodontia uda veido plānākus klājumus ar daudz īsākām, līdz 3 mm garām adatiņām, kas kālija hidroksīdā (KOH) kļūst sarkanas. Hericium coralloides ir balti, zaroti, koraļļveida augļķermeņi ar nokārušām adatiņām uz dižskābaržu un citu lapu koku koksnes. Climacodon septentrionalis veido stāvos izvietotas, bālganas līdz dzeltenīgas konsoles ar adatiņām apakšpusē, galvenokārt uz kļavām.",
+      "notes": "Latvijā 2019. gadā bija gada sēne. Lielākajā daļā Eiropas literatūras šo sēni sauc par Sarcodontia crocea. 2021. gada pētījums parādīja, ka šis nosaukums balstīts uz kļūdainu identifikāciju: tas pieder Ziemeļamerikas sēnei uz kastaņu koksnes, ko tagad sauc par Noblesia crocea, bet pareizais nosaukums Eiropas dzeltenadatainajai ābeļu un bumbieru sēnei ir Sarcodontia setosa. Tā ir reta visā Eiropā un kļūst arvien retāka, jo tiek izcirsti veci augļu dārzi un veci augļu koki. 2019. gadā IUCN globālajā Sarkanajā sarakstā tā ar nosaukumu Sarcodontia crocea novērtēta kā jutīga (VU), un tā ir iekļauta daudzu Eiropas valstu sarkanajos sarakstos; Latvijā tā atzīta par stipri apdraudētu (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.senes.lv/mikologubiedriba/Annual_pages/2019_Sarcodontia_crocea.htm",
+        "https://www.senes.lv/species/sarcodontia_crocea.htm",
+        "https://sarkanagramata.lu.lv/suga/abelu-sarkodoncija/",
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "ābeļu sarkodoncija"
+    },
+    "nl": {
+      "description": "Een opvallende korstvormige stekelzwam van oude appelbomen. Hij vormt dikke, wasachtige, zwavelgele plakken, bedekt met lange, dicht opeenstaande, naar beneden gerichte stekels, op wonden, scheuren en holten van stammen en takken, en verse vruchtlichamen verspreiden een sterke, zoete, fruitige geur die vaak met ananas of anijs wordt vergeleken. Hij is in heel Europa zeldzaam en gaat achteruit.",
+      "cap": "Er is geen hoed. Het vruchtlichaam is een korst die plat op het hout ligt (resupinaat) of op verticale vlakken dikke, bultige kussens vormt. De plakken zijn meestal ongeveer 3–20 cm breed en 5–20 cm lang en kunnen samenvloeien tot ongeveer 1 m² schors. De basis is korrelig en zwavelgeel tot geelachtig, de rand vezelig en gefranjerd, eerst wit of geelachtig, later bruinachtig. Vers is het vruchtlichaam vrij dik en wasachtig, droog taai.",
+      "hymenium": "Dicht opeenstaande, priemvormige stekels bedekken het vruchtlichaam en hangen naar beneden. Ze zijn meestal 3–15 mm lang en ongeveer 1,5 mm dik, aan de basis vergroeid, rond in doorsnede of zelden afgeplat, met spits toelopende toppen. Vers zijn ze bleek tot helder zwavelgeel; met de leeftijd of bij kneuzing worden ze oranje, wijnrood of bruin. De basidiën zijn knotsvormig en viersporig, ongeveer 15–40 × 5–7 µm.",
+      "stipe": "Er is geen steel. Het vruchtlichaam is met de hele onderzijde aan schors en hout vastgegroeid.",
+      "flesh": "Het vlees (subiculum) is lichtgeel, soms met een zwakke groenige tint, korrelig en wasachtig, en in kussenvormige vruchtlichamen tot ongeveer 3 cm dik. Het bevat kenmerkende dikwandige, opgezwollen cellen (sclerocysten) die onder een loep als kleine bleke knobbeltjes kunnen verschijnen. Verse vruchtlichamen hebben een zeer sterke, zoetig fruitige geur van ananas, geraspte appel of anijs, die al op meters afstand te ruiken is; sommigen noemen hem fruitig maar onaangenaam.",
+      "sporePrint": "De gebruikte bronnen geven geen kleur van de sporenprint. De sporen zijn kleurloos, glad, ellipsoïde tot breed ellipsoïde, vaak met één grote oliedruppel, en reageren niet in Melzers reagens; ze meten ongeveer 5–5,5 × 3,5–4,5 µm (in totaal ongeveer 4,5–6 × 3,5–5 µm).",
+      "habitat": "Een houtafbrekende schimmel die witrot veroorzaakt. Hij groeit vooral op oude, levende appelbomen (Malus), veel zeldzamer op peer (Pyrus), lijsterbes (Sorbus), pruim (Prunus) en wilg, en soms op andere loofbomen zoals esdoorn, es, beuk en eik. Hij verschijnt op dode, droge takken, in schorsscheuren, op wonden en in rottende holten van volwassen en oude bomen in oude boomgaarden, tuinen, parken en wegbeplantingen, vaak in steden en dorpen. De vruchtlichamen zijn eenjarig en verschijnen vooral van juli tot november, soms ook in zachte winters. Hij komt in heel Europa voor, vooral in de gematigde zone, en oostwaarts tot in Rusland.",
+      "uses": "Niet eetbaar. De gele kleur komt van sarcodontinezuur, een van benzochinon afgeleid pigment, en hij kan worden gebruikt om met paddenstoelen te verven, waarbij hij met verschillende beitsen roze-bruine tinten geeft.",
+      "confusion": "Op een oude appelboom is hij door zijn heldergele korst met lange stekels en zijn sterke fruitige geur moeilijk te verwarren. De zeer gelijkende Sarcodontia amplissima groeit op diverse loofbomen in het oosten en midden van Noord-Amerika en verschilt vooral microscopisch. Sarcodontia uda vormt dunnere korsten met veel kortere stekels, tot 3 mm lang, die rood kleuren in kaliumhydroxide (KOH). Hericium coralloides heeft witte, vertakte, koraalachtige vruchtlichamen met hangende stekels op beuken- en ander loofhout. Climacodon septentrionalis vormt boven elkaar staande, witachtige tot geelachtige consoles met stekels aan de onderzijde, meestal op esdoorns.",
+      "notes": "Een groot deel van de Europese literatuur noemt deze zwam Sarcodontia crocea. Een studie uit 2021 toonde aan dat deze naam op een vergissing berust: hij hoort bij een Noord-Amerikaanse zwam op kastanjehout, nu Noblesia crocea genoemd, en de juiste naam voor de geelgestekelde zwam van appel- en perenbomen in Europa is Sarcodontia setosa. Hij is in heel Europa zeldzaam en gaat achteruit doordat oude boomgaarden en oude fruitbomen worden gerooid. In 2019 werd hij op de mondiale Rode Lijst van de IUCN onder de naam Sarcodontia crocea als kwetsbaar (VU) beoordeeld, en hij staat op de rode lijst van veel Europese landen; Letland beschouwt hem als bedreigd (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2543652/vernacularNames"
+      ],
+      "label": "boomgaardstekelkorstzwam"
+    },
+    "no": {
+      "description": "En iøynefallende skorpeformet piggsopp på gamle epletrær. Den danner tykke, vokslignende, svovelgule flekker dekket av lange, tette, nedovervendte pigger på sår, sprekker og hulrom i stammer og greiner, og ferske fruktlegemer gir fra seg en kraftig, søt, fruktaktig lukt som ofte sammenlignes med ananas eller anis. Den er sjelden og i tilbakegang i hele Europa.",
+      "cap": "Hatt mangler. Fruktlegemet er en skorpe som ligger flatt på veden (resupinat), eller som på loddrette flater danner tykke, knudrete puter. Flekkene er vanligvis omtrent 3–20 cm brede og 5–20 cm lange og kan flyte sammen og dekke opptil omtrent 1 m² bark. Basis er kornet og svovelgul til gulaktig, og kanten er trevlet og frynset, først hvit eller gulaktig, senere brunaktig. Friskt er fruktlegemet ganske tykt og vokslignende, tørt seigt.",
+      "hymenium": "Tettstilte, sylformede pigger dekker fruktlegemet og henger nedover. De er for det meste 3–15 mm lange og omtrent 1,5 mm tykke, sammenvokste ved basis, runde i tverrsnitt eller sjelden flattrykte, med tilspissede tupper. Friske er de bleikt til klart svovelgule, og med alderen eller ved trykk blir de oransje, vinrøde eller brune. Basidiene er kølleformede og firesporede, omtrent 15–40 × 5–7 µm.",
+      "stipe": "Stilk mangler. Fruktlegemet er festet til bark og ved med hele undersiden.",
+      "flesh": "Kjøttet (subiculum) er lysegult, noen ganger med et svakt grønnlig skjær, kornet og vokslignende, og opptil omtrent 3 cm tykt i puteformede fruktlegemer. Det inneholder karakteristiske tykkveggede, oppsvulmede celler (sklerocyster) som under lupe kan synes som små lyse knuter. Ferske fruktlegemer har en svært kraftig, søtlig fruktaktig lukt av ananas, revne epler eller anis, som kan merkes flere meter unna; noen beskriver den som fruktaktig, men ubehagelig.",
+      "sporePrint": "Kildene som er brukt, oppgir ingen sporefarge. Sporene er fargeløse, glatte, ellipsoide til bredt ellipsoide, ofte med én stor oljedråpe, og reagerer ikke i Melzers reagens; de måler omtrent 5–5,5 × 3,5–4,5 µm (samlet omtrent 4,5–6 × 3,5–5 µm).",
+      "habitat": "En vednedbrytende sopp som gir hvitråte. Den vokser særlig på gamle, levende epletrær (Malus), langt sjeldnere på pære (Pyrus), rogn (Sorbus), plomme (Prunus) og vier, og av og til på andre løvtrær som lønn, ask, bøk og eik. Den kommer på døde, tørre greiner, i barksprekker, på sår og i råtnende hulrom i voksne og gamle trær i gamle frukthager, hager, parker og veibeplantninger, ofte i byer og bygder. Fruktlegemene er ettårige og kommer hovedsakelig fra juli til november, noen ganger også i milde vintre. Den forekommer i hele Europa, særlig i den tempererte sonen, og østover til Russland.",
+      "uses": "Ikke spiselig. Den gule fargen skyldes sarkodontinsyre, et pigment avledet av benzokinon, og soppen kan brukes til soppfarging, der den med ulike beisemidler gir rosabrune fargetoner.",
+      "confusion": "På et gammelt epletre er den vanskelig å forveksle på grunn av den klart gule skorpen med lange pigger og den kraftige fruktaktige lukten. Den svært like Sarcodontia amplissima vokser på ulike løvtrær i det østlige og sentrale Nord-Amerika og skiller seg mest mikroskopisk. Sarcodontia uda danner tynnere skorper med mye kortere pigger, opptil 3 mm lange, som blir røde i kaliumhydroksid (KOH). Hericium coralloides har hvite, greinete, korallignende fruktlegemer med hengende pigger på ved av bøk og andre løvtrær. Climacodon septentrionalis danner etasjevise, hvitaktige til gulaktige konsoller med pigger på undersiden, mest på lønn.",
+      "notes": "En stor del av den europeiske litteraturen kaller denne soppen Sarcodontia crocea. En studie fra 2021 viste at navnet bygger på en forveksling: det tilhører en nordamerikansk sopp på kastanjeved, i dag kalt Noblesia crocea, og det korrekte navnet på den gulpiggete soppen på eple- og pæretrær i Europa er Sarcodontia setosa. Den er sjelden i hele Europa og i tilbakegang fordi gamle frukthager og gamle frukttrær blir ryddet. I 2019 ble den vurdert som sårbar (VU) på IUCNs globale rødliste under navnet Sarcodontia crocea, og den er rødlistet i mange europeiske land; Latvia klassifiserer den som sterkt truet (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Efektowny, rozpostarty grzyb z kolcami, rosnący na starych jabłoniach. Tworzy grube, woskowate, siarkowożółte płaty pokryte długimi, gęstymi, skierowanymi w dół kolcami na ranach, w szczelinach i dziuplach pni oraz gałęzi, a świeże owocniki wydzielają silny, słodki, owocowy zapach, często porównywany do ananasa lub anyżu. W całej Europie jest rzadki i ustępuje.",
+      "cap": "Kapelusza brak. Owocnik jest płasko przylegającą do drewna skorupą (resupinowaty), a na pionowych powierzchniach tworzy grube, guzowate poduchy. Płaty mają zwykle około 3–20 cm szerokości i 5–20 cm długości i mogą zlewać się, pokrywając do około 1 m² kory. Podstawa jest ziarnista, siarkowożółta do żółtawej, a brzeg włóknisty i strzępiasty, początkowo biały lub żółtawy, później brązowawy. Świeży owocnik jest dość gruby i woskowaty, suchy – twardy.",
+      "hymenium": "Gęsto ustawione, szydłowate kolce pokrywają owocnik i zwisają w dół. Mają zwykle 3–15 mm długości i około 1,5 mm grubości, u podstawy są zrośnięte, w przekroju okrągłe lub rzadko spłaszczone, ze zwężonymi wierzchołkami. Świeże są bladożółte do jaskrawo siarkowożółtych, a z wiekiem lub po uciśnięciu stają się pomarańczowe, winnoczerwone lub brązowe. Podstawki są maczugowate, czterozarodnikowe, około 15–40 × 5–7 µm.",
+      "stipe": "Trzonu brak. Owocnik przyrasta do kory i drewna całą dolną powierzchnią.",
+      "flesh": "Miąższ (subikulum) jest jasnożółty, czasem z lekkim zielonkawym odcieniem, ziarnisty i woskowaty, w poduszkowatych owocnikach do około 3 cm grubości. Zawiera charakterystyczne grubościenne, rozdęte komórki (sklerocysty), które pod lupą mogą wyglądać jak drobne, jasne grudki. Świeże owocniki mają bardzo silny, słodkawo-owocowy zapach ananasa, startych jabłek lub anyżu, wyczuwalny nawet z kilku metrów; niektórzy opisują go jako owocowy, lecz nieprzyjemny.",
+      "sporePrint": "Wykorzystane źródła nie podają barwy wysypu zarodników. Zarodniki są bezbarwne, gładkie, elipsoidalne do szeroko elipsoidalnych, często z jedną dużą kroplą oleistą, i nie reagują w odczynniku Melzera; mają około 5–5,5 × 3,5–4,5 µm (łącznie około 4,5–6 × 3,5–5 µm).",
+      "habitat": "Grzyb rozkładający drewno, powodujący białą zgniliznę. Rośnie głównie na starych, żywych jabłoniach (Malus), znacznie rzadziej na gruszy (Pyrus), jarzębie (Sorbus), śliwie (Prunus) i wierzbie, a sporadycznie na innych drzewach liściastych, takich jak klon, jesion, buk i dąb. Pojawia się na martwych, suchych gałęziach, w szczelinach kory, na ranach i w próchniejących dziuplach dojrzałych i starych drzew w starych sadach, ogrodach, parkach i nasadzeniach przydrożnych, często w miastach i wsiach. Owocniki są jednoroczne i pojawiają się głównie od lipca do listopada, czasem także w łagodne zimy. Występuje w całej Europie, głównie w strefie umiarkowanej, a na wschodzie aż po Rosję.",
+      "uses": "Niejadalny. Żółta barwa pochodzi od kwasu sarkodontowego, barwnika pochodnego benzochinonu, a grzyb może służyć do barwienia, dając z różnymi zaprawami różowobrązowe odcienie.",
+      "confusion": "Na starej jabłoni trudno go z czymś pomylić dzięki jaskrawożółtej skorupie z długimi kolcami i silnemu owocowemu zapachowi. Bardzo podobna Sarcodontia amplissima rośnie na różnych drzewach liściastych we wschodniej i środkowej części Ameryki Północnej i różni się głównie cechami mikroskopowymi. Sarcodontia uda tworzy cieńsze skorupy z dużo krótszymi kolcami, do 3 mm długości, które czerwienieją w wodorotlenku potasu (KOH). Hericium coralloides ma białe, rozgałęzione, koralowate owocniki ze zwisającymi kolcami na drewnie buka i innych drzew liściastych. Climacodon septentrionalis tworzy dachówkowato ułożone, białawe do żółtawych konsole z kolcami od spodu, najczęściej na klonach.",
+      "notes": "W dużej części literatury europejskiej grzyb ten nazywany jest Sarcodontia crocea. Badanie z 2021 roku wykazało, że nazwa ta opiera się na pomyłce: należy do północnoamerykańskiego grzyba z drewna kasztana, nazywanego dziś Noblesia crocea, a poprawną nazwą żółtokolczastego grzyba jabłoni i grusz w Europie jest Sarcodontia setosa. Jest rzadki w całej Europie i ustępuje, ponieważ stare sady i stare drzewa owocowe są wycinane. W 2019 roku na globalnej Czerwonej liście IUCN oceniono go jako narażonego (VU) pod nazwą Sarcodontia crocea; figuruje też na czerwonych listach wielu krajów europejskich, a Łotwa uznaje go za zagrożonego (EN).",
+      "names": [
+        "kolcówka jabłoniowa"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Kolc%C3%B3wka_owocowonna",
+        "https://pl.wikipedia.org/wiki/Kolc%C3%B3wka_jab%C5%82oniowa"
+      ],
+      "label": "kolcówka owocowonna"
+    },
+    "pt": {
+      "description": "Um vistoso fungo crostoso com espinhos das macieiras velhas. Forma placas espessas, cerosas, amarelo-enxofre, cobertas de espinhos longos, apertados e voltados para baixo, em feridas, fendas e cavidades de troncos e ramos, e os corpos de frutificação frescos libertam um cheiro forte, doce e frutado, muitas vezes comparado ao ananás ou ao anis. É raro e está em declínio em toda a Europa.",
+      "cap": "Não tem chapéu. O corpo de frutificação é uma crosta aplicada sobre a madeira (ressupinada) ou, em superfícies verticais, forma almofadas espessas e irregulares. As placas medem geralmente cerca de 3–20 cm de largura e 5–20 cm de comprimento e podem fundir-se até cobrir cerca de 1 m² de casca. A base é granulosa, amarelo-enxofre a amarelada, e a margem é fibrosa e franjada, branca ou amarelada no início e depois acastanhada. Fresco, o corpo de frutificação é bastante espesso e ceroso; seco, é rijo.",
+      "hymenium": "Espinhos subulados, muito apertados, cobrem o corpo de frutificação e pendem para baixo. Medem geralmente 3–15 mm de comprimento e cerca de 1,5 mm de espessura, estão soldados na base, são redondos em corte ou raramente achatados e afilam para a ponta. Frescos, são amarelo-enxofre pálido a vivo e, com a idade ou ao serem tocados, tornam-se alaranjados, vermelho-vinho ou castanhos. Os basídios são claviformes e tetraspóricos, com cerca de 15–40 × 5–7 µm.",
+      "stipe": "Não tem pé. O corpo de frutificação está preso à casca e à madeira por toda a face inferior.",
+      "flesh": "A carne (subículo) é amarelo-clara, por vezes com um leve tom esverdeado, granulosa e cerosa, e atinge cerca de 3 cm de espessura nos corpos de frutificação em forma de almofada. Contém células características, dilatadas e de parede espessa (esclerocistos), que à lupa podem surgir como pequenos nódulos claros. Os corpos de frutificação frescos têm um cheiro muito forte, adocicado e frutado, a ananás, maçã ralada ou anis, perceptível a vários metros; há quem o descreva como frutado mas desagradável.",
+      "sporePrint": "As fontes consultadas não indicam a cor da esporada. Os esporos são incolores, lisos, elipsoides a largamente elipsoides, muitas vezes com uma única gota oleosa grande, e não reagem ao reagente de Melzer; medem cerca de 5–5,5 × 3,5–4,5 µm (no conjunto, cerca de 4,5–6 × 3,5–5 µm).",
+      "habitat": "Um fungo decompositor da madeira que causa podridão branca. Cresce sobretudo em macieiras velhas vivas (Malus), muito mais raramente em pereira (Pyrus), sorveira (Sorbus), ameixeira (Prunus) e salgueiro, e ocasionalmente noutras folhosas como bordo, freixo, faia e carvalho. Aparece em ramos mortos e secos, em fendas da casca, em feridas e em cavidades apodrecidas de árvores maduras e velhas, em pomares antigos, jardins, parques e plantações à beira da estrada, muitas vezes em vilas e cidades. Os corpos de frutificação são anuais e surgem sobretudo de julho a novembro, por vezes também em invernos amenos. Ocorre em toda a Europa, sobretudo na zona temperada, e para leste até à Rússia.",
+      "uses": "Não comestível. A cor amarela deve-se ao ácido sarcodôntico, um pigmento derivado da benzoquinona, e pode ser usado no tingimento com cogumelos, dando tons castanho-rosados com vários mordentes.",
+      "confusion": "Numa macieira velha é difícil de confundir pela crosta amarelo-viva com espinhos longos e pelo forte cheiro frutado. A muito semelhante Sarcodontia amplissima cresce em várias folhosas no leste e no centro da América do Norte e distingue-se sobretudo ao microscópio. Sarcodontia uda forma crostas mais finas com espinhos muito mais curtos, até 3 mm, que ficam vermelhos com hidróxido de potássio (KOH). Hericium coralloides tem corpos de frutificação brancos, ramificados e coraloides, com espinhos pendentes, em madeira de faia e de outras folhosas. Climacodon septentrionalis forma prateleiras sobrepostas, esbranquiçadas a amareladas, com espinhos na face inferior, sobretudo em bordos.",
+      "notes": "Grande parte da literatura europeia chama a este fungo Sarcodontia crocea. Um estudo de 2021 mostrou que este nome assenta num erro de identidade: pertence a um fungo norte-americano da madeira de castanheiro, hoje chamado Noblesia crocea, e o nome correto do fungo de espinhos amarelos das macieiras e pereiras da Europa é Sarcodontia setosa. É raro em toda a Europa e está em declínio porque os pomares velhos e as árvores de fruto velhas estão a ser abatidos. Em 2019 foi avaliado como Vulnerável (VU) na Lista Vermelha global da IUCN com o nome Sarcodontia crocea, e consta das listas vermelhas de muitos países europeus; a Letónia classifica-o como Em perigo (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă crustoasă cu țepi, spectaculoasă, a merilor bătrâni. Pe răni, crăpături și scorburi ale trunchiurilor și ramurilor formează plăci groase, ceroase, galben-sulf, acoperite cu țepi lungi, deși, îndreptați în jos, iar corpurile fructifere proaspete răspândesc un miros puternic, dulce, fructat, comparat adesea cu ananasul sau anasonul. Este rară și în declin în toată Europa.",
+      "cap": "Nu are pălărie. Corpul fructifer este o crustă culcată pe lemn (resupinată) sau, pe suprafețe verticale, formează perne groase, noduroase. Plăcile au de obicei cam 3–20 cm lățime și 5–20 cm lungime și pot conflua, acoperind până la aproximativ 1 m² de scoarță. Baza este granulară, galben-sulf până la gălbuie, iar marginea fibroasă și franjurată, la început albă sau gălbuie, apoi brunie. Proaspăt, corpul fructifer este destul de gros și ceros, iar uscat, tenace.",
+      "hymenium": "Țepi subulați, foarte deși, acoperă corpul fructifer și atârnă în jos. Au de obicei 3–15 mm lungime și circa 1,5 mm grosime, sunt uniți la bază, rotunzi în secțiune sau rar turtiți, cu vârfuri ascuțite. Proaspeți sunt galben-sulf palid până la viu, iar cu vârsta sau la apăsare devin portocalii, roșu-vișinii sau bruni. Bazidiile sunt claviforme, tetrasporice, de circa 15–40 × 5–7 µm.",
+      "stipe": "Nu are picior. Corpul fructifer este prins de scoarță și de lemn cu toată fața inferioară.",
+      "flesh": "Carnea (subiculum) este galben-deschis, uneori cu o slabă nuanță verzuie, granulară și ceroasă, iar în corpurile fructifere în formă de pernă atinge circa 3 cm grosime. Conține celule caracteristice umflate, cu pereți groși (sclerociste), care la lupă pot apărea ca mici noduli deschiși la culoare. Corpurile fructifere proaspete au un miros foarte puternic, dulceag-fructat, de ananas, mere rase sau anason, perceptibil de la câțiva metri; unii îl descriu ca fructat, dar neplăcut.",
+      "sporePrint": "Sursele folosite nu indică culoarea amprentei de spori. Sporii sunt incolori, netezi, elipsoidali până la larg elipsoidali, adesea cu o singură picătură mare de ulei, și nu reacționează în reactivul Melzer; măsoară circa 5–5,5 × 3,5–4,5 µm (în total circa 4,5–6 × 3,5–5 µm).",
+      "habitat": "O ciupercă ce descompune lemnul, producând putregai alb. Crește mai ales pe meri bătrâni vii (Malus), mult mai rar pe păr (Pyrus), scoruș (Sorbus), prun (Prunus) și salcie și ocazional pe alte foioase precum arțarul, frasinul, fagul și stejarul. Apare pe ramuri moarte și uscate, în crăpăturile scoarței, pe răni și în scorburi putrede ale arborilor maturi și bătrâni din livezi vechi, grădini, parcuri și aliniamente de drum, adesea în orașe și sate. Corpurile fructifere sunt anuale și apar mai ales din iulie până în noiembrie, uneori și în ierni blânde. Este răspândită în toată Europa, mai ales în zona temperată, și spre est până în Rusia.",
+      "uses": "Necomestibilă. Culoarea galbenă se datorează acidului sarcodontic, un pigment derivat din benzochinonă, iar ciuperca poate fi folosită la vopsirea cu ciuperci, dând nuanțe brun-rozalii cu diferite mordanturi.",
+      "confusion": "Pe un măr bătrân este greu de confundat datorită crustei galben-vii cu țepi lungi și mirosului puternic fructat. Foarte asemănătoarea Sarcodontia amplissima crește pe diverse foioase în estul și centrul Americii de Nord și se deosebește mai ales microscopic. Sarcodontia uda formează cruste mai subțiri, cu țepi mult mai scurți, de până la 3 mm, care se înroșesc în hidroxid de potasiu (KOH). Hericium coralloides are corpuri fructifere albe, ramificate, coraloide, cu țepi atârnători, pe lemn de fag și de alte foioase. Climacodon septentrionalis formează console etajate, albicioase până la gălbui, cu țepi pe partea inferioară, mai ales pe arțari.",
+      "notes": "O mare parte din literatura europeană numește această ciupercă Sarcodontia crocea. Un studiu din 2021 a arătat că acest nume se bazează pe o confuzie: aparține unei ciuperci nord-americane de pe lemn de castan, numită astăzi Noblesia crocea, iar numele corect al ciupercii cu țepi galbeni a merilor și perilor din Europa este Sarcodontia setosa. Este rară în toată Europa și în declin, pentru că livezile vechi și pomii fructiferi bătrâni sunt defrișați. În 2019 a fost evaluată ca vulnerabilă (VU) în Lista Roșie globală IUCN sub numele Sarcodontia crocea și figurează pe listele roșii ale multor țări europene; Letonia o clasifică drept periclitată (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Эффектный распростёртый гриб с шипами, растущий на старых яблонях. На ранах, трещинах и в дуплах стволов и ветвей он образует толстые, восковидные, серно-жёлтые пятна, покрытые длинными, густыми, направленными вниз шипами, а свежие плодовые тела издают сильный сладкий фруктовый запах, который часто сравнивают с ананасом или анисом. По всей Европе он редок и сокращается.",
+      "cap": "Шляпки нет. Плодовое тело — корочка, плоско прилегающая к древесине (распростёртая), а на вертикальных поверхностях образующая толстые бугристые подушки. Пятна обычно около 3–20 cm шириной и 5–20 cm длиной и могут сливаться, покрывая до примерно 1 m² коры. Основание зернистое, серно-жёлтое до желтоватого, край волокнистый и бахромчатый, сначала белый или желтоватый, позже буроватый. Свежее плодовое тело довольно толстое и восковидное, сухое — жёсткое.",
+      "hymenium": "Плодовое тело покрыто очень густыми шиловидными шипами, свисающими вниз. Обычно они 3–15 mm длиной и около 1,5 mm толщиной, у основания сросшиеся, в сечении округлые или изредка уплощённые, с заострёнными концами. В свежем виде они бледно- или ярко-серно-жёлтые, с возрастом или при надавливании становятся оранжевыми, винно-красными или бурыми. Базидии булавовидные, четырёхспоровые, около 15–40 × 5–7 µm.",
+      "stipe": "Ножки нет. Плодовое тело прикреплено к коре и древесине всей нижней поверхностью.",
+      "flesh": "Мякоть (субикулум) светло-жёлтая, иногда со слабым зеленоватым оттенком, зернистая и восковидная, в подушковидных плодовых телах толщиной до примерно 3 cm. Она содержит характерные толстостенные вздутые клетки (склероцисты), которые под лупой могут выглядеть как мелкие светлые узелки. Свежие плодовые тела имеют очень сильный сладковато-фруктовый запах ананаса, тёртых яблок или аниса, ощутимый даже за несколько метров; некоторые описывают его как фруктовый, но неприятный.",
+      "sporePrint": "Использованные источники не указывают цвет спорового порошка. Споры бесцветные, гладкие, эллипсоидные до широкоэллипсоидных, часто с одной крупной масляной каплей, в реактиве Мельцера не реагируют; их размер около 5–5,5 × 3,5–4,5 µm (в целом около 4,5–6 × 3,5–5 µm).",
+      "habitat": "Дереворазрушающий гриб, вызывающий белую гниль. Растёт главным образом на старых живых яблонях (Malus), гораздо реже на груше (Pyrus), рябине (Sorbus), сливе (Prunus) и иве, изредка на других лиственных деревьях, таких как клён, ясень, бук и дуб. Появляется на отмерших сухих ветвях, в трещинах коры, на ранах и в гниющих дуплах зрелых и старых деревьев в старых садах, парках и придорожных посадках, часто в городах и сёлах. Плодовые тела однолетние и появляются в основном с июля по ноябрь, иногда и в мягкие зимы. Встречается по всей Европе, главным образом в умеренной зоне, и на восток до России.",
+      "uses": "Несъедобен. Жёлтую окраску ему придаёт саркодонтовая кислота — пигмент, производный бензохинона, и гриб можно использовать для крашения, получая с разными протравами розовато-коричневые оттенки.",
+      "confusion": "На старой яблоне его трудно с чем-либо спутать благодаря ярко-жёлтой корочке с длинными шипами и сильному фруктовому запаху. Очень похожая Sarcodontia amplissima растёт на разных лиственных деревьях на востоке и в центре Северной Америки и отличается в основном микроскопически. Sarcodontia uda образует более тонкие корочки с гораздо более короткими шипами, до 3 mm длиной, которые краснеют в гидроксиде калия (KOH). У Hericium coralloides белые, ветвистые, кораллообразные плодовые тела со свисающими шипами на древесине бука и других лиственных пород. Climacodon septentrionalis образует черепитчато расположенные беловатые или желтоватые консоли с шипами на нижней стороне, чаще всего на клёнах.",
+      "notes": "Во многих европейских публикациях этот гриб называют Sarcodontia crocea. Исследование 2021 года показало, что это название основано на ошибочном отождествлении: оно принадлежит североамериканскому грибу на древесине каштана, ныне называемому Noblesia crocea, а правильное название европейского гриба с жёлтыми шипами на яблонях и грушах — Sarcodontia setosa. Он редок по всей Европе и сокращается, потому что вырубаются старые сады и старые плодовые деревья. В 2019 году он был оценён в глобальном Красном списке МСОП как уязвимый (VU) под названием Sarcodontia crocea и включён в красные списки многих европейских стран; в Латвии он отнесён к находящимся под угрозой исчезновения (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.senes.lv/mikologubiedriba/Annual_pages/2019_Sarcodontia_crocea.htm",
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "саркодонция шафранно-жёлтая"
+    },
+    "sk": {
+      "description": "Nápadná rozliata huba s ostňami, ktorá rastie na starých jabloniach. Vytvára hrubé, voskovité, sírovožlté plochy pokryté dlhými, hustými, nadol smerujúcimi ostňami na ranách, v trhlinách a dutinách kmeňov a konárov a čerstvé plodnice vydávajú silnú, sladkú, ovocnú vôňu, často prirovnávanú k ananásu alebo anízu. V celej Európe je vzácna a ubúda.",
+      "cap": "Klobúk chýba. Plodnica je kôra prisadnutá naplocho k drevu (rozliata), na zvislých plochách tvorí hrubé, hrboľaté vankúše. Plochy majú zvyčajne asi 3–20 cm na šírku a 5–20 cm na dĺžku a môžu splývať a pokryť až asi 1 m² kôry. Báza je zrnitá, sírovožltá až žltkastá, okraj vláknitý a strapkatý, spočiatku biely alebo žltkastý, neskôr hnedastý. Čerstvá plodnica je dosť hrubá a voskovitá, suchá tuhá.",
+      "hymenium": "Husto nahlúčené, šidlovité ostne pokrývajú plodnicu a visia nadol. Sú väčšinou 3–15 mm dlhé a asi 1,5 mm hrubé, pri báze zrastené, v priereze okrúhle alebo zriedka sploštené, so zúženými špičkami. Čerstvé sú bledo až jasne sírovožlté, starnutím alebo otlačením oranžovejú, vínovo červenejú alebo hnednú. Bazídiá sú kyjakovité, štvorvýtrusné, asi 15–40 × 5–7 µm.",
+      "stipe": "Hlúbik chýba. Plodnica prirastá ku kôre a drevu celou spodnou stranou.",
+      "flesh": "Dužina (subikulum) je svetložltá, niekedy so slabým zelenkastým nádychom, zrnitá a voskovitá, v vankúšovitých plodniciach až asi 3 cm hrubá. Obsahuje charakteristické hrubostenné, nafúknuté bunky (sklerocysty), ktoré sa pod lupou môžu javiť ako drobné svetlé uzlíky. Čerstvé plodnice majú veľmi silnú, nasladlo ovocnú vôňu po ananáse, strúhaných jablkách alebo aníze, cítiť ju aj na niekoľko metrov; niektorí ju opisujú ako ovocnú, ale nepríjemnú.",
+      "sporePrint": "Použité zdroje neuvádzajú farbu výtrusného prachu. Výtrusy sú bezfarebné, hladké, elipsoidné až široko elipsoidné, často s jednou veľkou olejovou kvapkou, a v Melzerovom činidle nereagujú; merajú asi 5–5,5 × 3,5–4,5 µm (celkovo asi 4,5–6 × 3,5–5 µm).",
+      "habitat": "Drevokazná huba, ktorá spôsobuje bielu hnilobu. Rastie hlavne na starých živých jabloniach (Malus), oveľa zriedkavejšie na hruške (Pyrus), jarabine (Sorbus), slivke (Prunus) a vŕbe a príležitostne na iných listnáčoch, ako je javor, jaseň, buk a dub. Objavuje sa na odumretých suchých konároch, v trhlinách kôry, na ranách a v trúchnivejúcich dutinách dospelých a starých stromov v starých sadoch, záhradách, parkoch a stromoradiach, často v mestách a dedinách. Plodnice sú jednoročné a objavujú sa hlavne od júla do novembra, niekedy aj v miernych zimách. Vyskytuje sa v celej Európe, hlavne v miernom pásme, a na východ až po Rusko.",
+      "uses": "Nejedlá. Žltú farbu spôsobuje kyselina sarkodontová, pigment odvodený od benzochinónu, a hubu možno použiť na farbenie, keď s rôznymi moridlami dáva ružovohnedé odtiene.",
+      "confusion": "Na starej jabloni je vďaka jasne žltej kôre s dlhými ostňami a silnej ovocnej vôni ťažko zameniteľná. Veľmi podobná Sarcodontia amplissima rastie na rôznych listnáčoch na východe a v strede Severnej Ameriky a líši sa hlavne mikroskopicky. Sarcodontia uda tvorí tenšie povlaky s oveľa kratšími ostňami, dlhými do 3 mm, ktoré v hydroxide draselnom (KOH) červenejú. Hericium coralloides má biele, rozvetvené, koralovité plodnice s visiacimi ostňami na dreve buka a iných listnáčov. Climacodon septentrionalis tvorí nad sebou usporiadané, belavé až žltkasté konzoly s ostňami na spodnej strane, najčastejšie na javoroch.",
+      "notes": "Veľká časť európskej literatúry nazýva túto hubu Sarcodontia crocea. Štúdia z roku 2021 ukázala, že toto meno vychádza z omylu: patrí severoamerickej hube na dreve gaštana, dnes nazývanej Noblesia crocea, a správne meno žltoostnej huby jabloní a hrušiek v Európe je Sarcodontia setosa. V celej Európe je vzácna a ubúda, pretože sa rúbu staré sady a staré ovocné stromy. V roku 2019 bola v globálnom Červenom zozname IUCN pod menom Sarcodontia crocea hodnotená ako zraniteľná (VU) a je na červených zoznamoch mnohých európskych krajín; Lotyšsko ju zaraďuje medzi ohrozené (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Sarcodontia-crocea/ostnovka-jablonova/hrotnatka-zapasna/ID2985",
+        "https://redlist.info/iucn/species_view/305493/"
+      ],
+      "label": "ostňovka jabloňová"
+    },
+    "sl": {
+      "description": "Opazna skorjasta goba z bodicami, ki raste na starih jablanah. Na ranah, v razpokah in duplih debel in vej tvori debele, voskaste, žveplenorumene ploskve, prekrite z dolgimi, gostimi, navzdol obrnjenimi bodicami, sveži trosnjaki pa oddajajo močan, sladek, sadni vonj, ki ga pogosto primerjajo z ananasom ali janežem. Po vsej Evropi je redka in v upadanju.",
+      "cap": "Klobuka ni. Trosnjak je skorja, ki leži ploščato na lesu (razprostrta), na navpičnih površinah pa tvori debele, grbaste blazinice. Ploskve so navadno široke približno 3–20 cm in dolge 5–20 cm ter se lahko zlijejo in prekrijejo do približno 1 m² lubja. Podlaga je zrnata, žveplenorumena do rumenkasta, rob pa vlaknat in resast, sprva bel ali rumenkast, pozneje rjavkast. Svež trosnjak je precej debel in voskast, suh pa žilav.",
+      "hymenium": "Gosto nagnetene, šilaste bodice prekrivajo trosnjak in visijo navzdol. Večinoma so dolge 3–15 mm in debele približno 1,5 mm, ob dnu zrasle, v prerezu okrogle ali redko sploščene, s koničastimi vrhovi. Sveže so bledo do živo žveplenorumene, s starostjo ali ob pritisku postanejo oranžne, vinsko rdeče ali rjave. Bazidiji so betičasti, štiritrosni, približno 15–40 × 5–7 µm.",
+      "stipe": "Beta ni. Trosnjak je z vso spodnjo stranjo pritrjen na lubje in les.",
+      "flesh": "Meso (subikulum) je svetlo rumeno, včasih z rahlim zelenkastim odtenkom, zrnato in voskasto, v blazinastih trosnjakih debelo do približno 3 cm. Vsebuje značilne debelostenske, napihnjene celice (sklerociste), ki so pod lupo lahko vidne kot drobni svetli vozlički. Sveži trosnjaki imajo zelo močan, sladkobno sadni vonj po ananasu, naribanih jabolkih ali janežu, ki ga je mogoče zaznati tudi z več metrov; nekateri ga opisujejo kot sadnega, a neprijetnega.",
+      "sporePrint": "Uporabljeni viri ne navajajo barve trosnega prahu. Trosi so brezbarvni, gladki, elipsoidni do široko elipsoidni, pogosto z eno veliko oljno kapljico, in v Melzerjevem reagentu ne reagirajo; merijo približno 5–5,5 × 3,5–4,5 µm (skupno približno 4,5–6 × 3,5–5 µm).",
+      "habitat": "Lesna goba, ki povzroča belo trohnobo. Raste predvsem na starih živih jablanah (Malus), veliko redkeje na hruški (Pyrus), jerebiki (Sorbus), slivi (Prunus) in vrbi ter občasno na drugih listavcih, kot so javor, jesen, bukev in hrast. Pojavlja se na odmrlih suhih vejah, v razpokah lubja, na ranah in v trhlih duplih odraslih in starih dreves v starih sadovnjakih, vrtovih, parkih in obcestnih nasadih, pogosto v mestih in vaseh. Trosnjaki so enoletni in se pojavljajo predvsem od julija do novembra, včasih tudi v milih zimah. Razširjena je po vsej Evropi, predvsem v zmernem pasu, in proti vzhodu do Rusije.",
+      "uses": "Ni užitna. Rumeno barvo ji daje sarkodontska kislina, pigment, ki izhaja iz benzokinona, gobo pa je mogoče uporabiti za barvanje, saj z različnimi čimžami daje rožnato rjave odtenke.",
+      "confusion": "Na stari jablani jo je zaradi živo rumene skorje z dolgimi bodicami in močnega sadnega vonja težko zamenjati. Zelo podobna Sarcodontia amplissima raste na različnih listavcih na vzhodu in v osrednjem delu Severne Amerike in se razlikuje predvsem mikroskopsko. Sarcodontia uda tvori tanjše skorje z veliko krajšimi, do 3 mm dolgimi bodicami, ki v kalijevem hidroksidu (KOH) pordečijo. Hericium coralloides ima bele, razvejane, koralaste trosnjake z visečimi bodicami na lesu bukve in drugih listavcev. Climacodon septentrionalis tvori nadstropno razporejene, belkaste do rumenkaste police z bodicami na spodnji strani, večinoma na javorjih.",
+      "notes": "Velik del evropske literature to gobo imenuje Sarcodontia crocea. Študija iz leta 2021 je pokazala, da to ime temelji na zamenjavi: pripada severnoameriški gobi na kostanjevem lesu, ki se danes imenuje Noblesia crocea, pravilno ime za rumenobodičasto gobo jablan in hrušk v Evropi pa je Sarcodontia setosa. Po vsej Evropi je redka in v upadanju, ker sekajo stare sadovnjake in stara sadna drevesa. Leta 2019 je bila na globalnem Rdečem seznamu IUCN pod imenom Sarcodontia crocea ocenjena kot ranljiva (VU) in je na rdečih seznamih številnih evropskih držav; Latvija jo uvršča med prizadete (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://boletusinformaticus.si/sre_seznam.aspx?crka=J",
+        "https://api.gbif.org/v1/species/2543620/vernacularNames"
+      ],
+      "label": "jablanova bodičevka"
+    },
+    "sr": {
+      "description": "Упадљива кораста гљива са бодљама која расте на старим јабукама. На ранама, пукотинама и шупљинама стабала и грана ствара дебеле, воштане, сумпорножуте површине прекривене дугим, густим, надоле усмереним бодљама, а свежа плодишта испуштају јак, сладак, воћни мирис који се често пореди са ананасом или анисом. У целој Европи је ретка и у опадању.",
+      "cap": "Шешира нема. Плодиште је кора која лежи пљоснато на дрвету (распрострта), а на усправним површинама ствара дебеле, квргаве јастучиће. Површине су обично широке око 3–20 cm и дугачке 5–20 cm и могу се спајати и прекрити до око 1 m² коре. Основа је зрнаста, сумпорножута до жућкаста, а ивица влакнаста и ресаста, у почетку бела или жућкаста, касније мрка. Свеже плодиште је прилично дебело и воштано, а суво жилаво.",
+      "hymenium": "Густо збијене, шиласте бодље прекривају плодиште и висе надоле. Углавном су дугачке 3–15 mm и дебеле око 1,5 mm, при дну срасле, у пресеку округле или ретко спљоштене, са суженим врховима. Свеже су бледо до јарко сумпорножуте, а старењем или притиском постају наранџасте, винскоцрвене или мрке. Базидије су батинасте, са четири споре, око 15–40 × 5–7 µm.",
+      "stipe": "Дршке нема. Плодиште је целом доњом страном причвршћено за кору и дрво.",
+      "flesh": "Месо (субикулум) је светложуто, понекад са слабим зеленкастим тоном, зрнасто и воштано, у јастучастим плодиштима дебело до око 3 cm. Садржи карактеристичне дебелозидне, надувене ћелије (склероцисте) које се под лупом могу видети као ситни светли чворићи. Свежа плодишта имају веома јак, слаткасто воћни мирис на ананас, рендане јабуке или анис, који се осећа и са неколико метара; неки га описују као воћни, али непријатан.",
+      "sporePrint": "Коришћени извори не наводе боју отиска спора. Споре су безбојне, глатке, елипсоидне до широко елипсоидне, често са једном великом уљаном капљицом, и не реагују у Мелцеровом реагенсу; величине су око 5–5,5 × 3,5–4,5 µm (укупно око 4,5–6 × 3,5–5 µm).",
+      "habitat": "Гљива разграђивач дрвета која изазива белу трулеж. Расте пре свега на старим живим јабукама (Malus), много ређе на крушки (Pyrus), оскоруши и јаребици (Sorbus), шљиви (Prunus) и врби, а повремено на другим листопадним стаблима као што су јавор, јасен, буква и храст. Појављује се на мртвим, сувим гранама, у пукотинама коре, на ранама и у трулим шупљинама зрелих и старих стабала у старим воћњацима, баштама, парковима и дрворедима поред путева, често у градовима и селима. Плодишта су једногодишња и јављају се углавном од јула до новембра, понекад и у благим зимама. Распрострањена је у целој Европи, углавном у умереном појасу, а на исток до Русије.",
+      "uses": "Није јестива. Жуту боју јој даје саркодонтска киселина, пигмент изведен из бензохинона, а може се користити за бојење гљивама, при чему са разним средствима за фиксирање даје ружичастомрке тонове.",
+      "confusion": "На старој јабуци тешко ју је заменити због јарко жуте коре са дугим бодљама и јаког воћног мириса. Веома слична Sarcodontia amplissima расте на разним листопадним стаблима на истоку и у средишњем делу Северне Америке и разликује се углавном микроскопски. Sarcodontia uda ствара тање коре са много краћим бодљама, дугим до 3 mm, које у калијум-хидроксиду (KOH) поцрвене. Hericium coralloides има бела, разграната, кораласта плодишта са висећим бодљама на дрвету букве и других лишћара. Climacodon septentrionalis ствара спратове беличастих до жућкастих конзола са бодљама на доњој страни, углавном на јаворима.",
+      "notes": "Велики део европске литературе ову гљиву назива Sarcodontia crocea. Студија из 2021. показала је да се то име заснива на забуни: припада северноамеричкој гљиви на дрвету питомог кестена, данас названој Noblesia crocea, а исправно име за жутободљасту гљиву јабука и крушака у Европи је Sarcodontia setosa. У целој Европи је ретка и у опадању јер се крче стари воћњаци и стара воћна стабла. Године 2019. на глобалној Црвеној листи IUCN под именом Sarcodontia crocea процењена је као рањива (VU) и налази се на црвеним листама многих европских земаља; Летонија је сврстава међу угрожене (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En iögonfallande skorplik taggsvamp på gamla äppelträd. Den bildar tjocka, vaxartade, svavelgula fläckar täckta av långa, täta, nedåtriktade taggar på sår, sprickor och håligheter i stammar och grenar, och färska fruktkroppar avger en stark, söt, fruktig doft som ofta jämförs med ananas eller anis. Den är sällsynt och minskar i hela Europa.",
+      "cap": "Hatt saknas. Fruktkroppen är en skorpa som ligger platt på veden (resupinat) eller som på lodräta ytor bildar tjocka, knöliga dynor. Fläckarna är oftast omkring 3–20 cm breda och 5–20 cm långa och kan flyta ihop och täcka upp till omkring 1 m² bark. Basen är kornig och svavelgul till gulaktig, och kanten är trådig och fransig, först vit eller gulaktig, senare brunaktig. Färsk är fruktkroppen ganska tjock och vaxartad, torr seg.",
+      "hymenium": "Tätt sittande, sylformade taggar täcker fruktkroppen och hänger nedåt. De är oftast 3–15 mm långa och omkring 1,5 mm tjocka, sammanvuxna vid basen, runda i tvärsnitt eller sällan tillplattade, med avsmalnande spetsar. Färska är de blekt till klart svavelgula, och med åldern eller vid tryck blir de orange, vinröda eller bruna. Basidierna är klubbformade och fyrsporiga, omkring 15–40 × 5–7 µm.",
+      "stipe": "Fot saknas. Fruktkroppen är fastvuxen vid bark och ved med hela undersidan.",
+      "flesh": "Köttet (subiculum) är ljusgult, ibland med en svag grönaktig ton, kornigt och vaxartat, och upp till omkring 3 cm tjockt i dynformade fruktkroppar. Det innehåller karakteristiska tjockväggiga, uppsvällda celler (sklerocystider) som i lupp kan synas som små ljusa knölar. Färska fruktkroppar har en mycket stark, sötaktigt fruktig doft av ananas, rivna äpplen eller anis som kan kännas flera meter bort; somliga beskriver den som fruktig men obehaglig.",
+      "sporePrint": "De använda källorna anger ingen sporfärg. Sporerna är färglösa, släta, ellipsoida till brett ellipsoida, ofta med en enda stor oljedroppe, och reagerar inte i Melzers reagens; de mäter omkring 5–5,5 × 3,5–4,5 µm (sammantaget omkring 4,5–6 × 3,5–5 µm).",
+      "habitat": "En vednedbrytande svamp som orsakar vitröta. Den växer främst på gamla, levande äppelträd (Malus), mycket sällsyntare på päron (Pyrus), rönn (Sorbus), plommon (Prunus) och vide, och ibland på andra lövträd som lönn, ask, bok och ek. Den uppträder på döda, torra grenar, i barksprickor, på sår och i murkna håligheter i mogna och gamla träd i gamla fruktträdgårdar, trädgårdar, parker och vägplanteringar, ofta i städer och byar. Fruktkropparna är ettåriga och visar sig främst från juli till november, ibland även under milda vintrar. Den förekommer i hela Europa, främst i den tempererade zonen, och österut till Ryssland.",
+      "uses": "Inte ätlig. Den gula färgen kommer från sarkodontinsyra, ett pigment som härleds från bensokinon, och svampen kan användas till svampfärgning, där den med olika betmedel ger rosabruna färger.",
+      "confusion": "På ett gammalt äppelträd är den svår att förväxla tack vare den klargula skorpan med långa taggar och den starka fruktiga doften. Den mycket lika Sarcodontia amplissima växer på olika lövträd i östra och centrala Nordamerika och skiljer sig främst mikroskopiskt. Sarcodontia uda bildar tunnare skorpor med mycket kortare taggar, upp till 3 mm långa, som blir röda i kaliumhydroxid (KOH). Hericium coralloides har vita, grenade, korallika fruktkroppar med hängande taggar på ved av bok och andra lövträd. Climacodon septentrionalis bildar våningsvisa, vitaktiga till gulaktiga konsoler med taggar på undersidan, mest på lönn.",
+      "notes": "En stor del av den europeiska litteraturen kallar svampen Sarcodontia crocea. En studie från 2021 visade att namnet bygger på en förväxling: det tillhör en nordamerikansk svamp på kastanjeved, i dag kallad Noblesia crocea, och det korrekta namnet på den gultaggiga svampen på äppel- och päronträd i Europa är Sarcodontia setosa. Den är sällsynt i hela Europa och minskar eftersom gamla fruktträdgårdar och gamla fruktträd röjs. 2019 bedömdes den som sårbar (VU) på IUCN:s globala rödlista under namnet Sarcodontia crocea, och den är rödlistad i många europeiska länder; Lettland klassar den som starkt hotad (EN).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2543620/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Apeltagging"
+      ],
+      "label": "apeltagging"
+    },
+    "tr": {
+      "description": "Yaşlı elma ağaçlarında yetişen, göz alıcı, dikenli, kabuk biçimli bir mantar. Gövde ve dalların yaralarında, çatlaklarında ve kovuklarında uzun, sık, aşağı doğru yönelmiş dikenlerle kaplı kalın, mumsu, kükürt sarısı lekeler oluşturur ve taze meyve gövdeleri sık sık ananas ya da anasonla karşılaştırılan güçlü, tatlı, meyvemsi bir koku yayar. Tüm Avrupa'da nadirdir ve azalmaktadır.",
+      "cap": "Şapkası yoktur. Meyve gövdesi oduna yassıca yapışan bir kabuktur (rezüpinat) ya da dikey yüzeylerde kalın, yumrulu yastıklar oluşturur. Lekeler genellikle yaklaşık 3–20 cm genişliğinde ve 5–20 cm uzunluğundadır ve birleşerek yaklaşık 1 m²'ye kadar kabuğu kaplayabilir. Taban granüllü, kükürt sarısından sarımsıya kadar renklidir; kenar lifli ve saçaklıdır, önce beyaz ya da sarımsı, sonra kahverengimsidir. Tazeyken meyve gövdesi oldukça kalın ve mumsu, kuruyunca serttir.",
+      "hymenium": "Çok sık dizilmiş, biz biçimli dikenler meyve gövdesini kaplar ve aşağı sarkar. Çoğunlukla 3–15 mm uzunluğunda ve yaklaşık 1,5 mm kalınlığındadır; tabanda kaynaşmış, kesitte yuvarlak ya da nadiren yassı ve uçlara doğru incelir. Tazeyken soluk ile parlak kükürt sarısı arasındadır, yaşlandıkça ya da bastırılınca turuncu, şarap kırmızısı veya kahverengi olur. Bazidyumlar topuz biçimli ve dört sporludur, yaklaşık 15–40 × 5–7 µm.",
+      "stipe": "Sapı yoktur. Meyve gövdesi tüm alt yüzüyle kabuğa ve oduna tutunur.",
+      "flesh": "Etli kısım (subikulum) açık sarı, bazen hafif yeşilimsi tonlu, granüllü ve mumsudur; yastık biçimli meyve gövdelerinde yaklaşık 3 cm kalınlığa ulaşır. Büyüteçle küçük açık renkli yumrucuklar gibi görünebilen, kalın çeperli, şişkin karakteristik hücreler (sklerosistler) içerir. Taze meyve gövdelerinin birkaç metre öteden bile fark edilebilen, ananas, rendelenmiş elma ya da anason andıran çok güçlü, tatlımsı meyvemsi bir kokusu vardır; bazıları bu kokuyu meyvemsi ama hoş olmayan diye tanımlar.",
+      "sporePrint": "Kullanılan kaynaklar spor izi rengini belirtmez. Sporlar renksiz, düz, elipsoit ile geniş elipsoit arasında, çoğunlukla tek büyük bir yağ damlacıklıdır ve Melzer ayıracında tepki vermez; boyutları yaklaşık 5–5,5 × 3,5–4,5 µm'dir (toplamda yaklaşık 4,5–6 × 3,5–5 µm).",
+      "habitat": "Beyaz çürüklüğe yol açan, odun ayrıştırıcı bir mantar. Başlıca yaşlı, canlı elma ağaçlarında (Malus), çok daha seyrek olarak armut (Pyrus), üvez (Sorbus), erik (Prunus) ve söğüt üzerinde, ara sıra da akçaağaç, dişbudak, kayın ve meşe gibi diğer geniş yapraklı ağaçlarda yetişir. Eski meyve bahçelerinde, bahçelerde, parklarda ve yol kenarı dikimlerinde, çoğu zaman kasaba ve köylerde, olgun ve yaşlı ağaçların ölü, kuru dallarında, kabuk çatlaklarında, yaralarında ve çürüyen kovuklarında görülür. Meyve gövdeleri tek yıllıktır ve çoğunlukla temmuzdan kasıma kadar, bazen ılıman kışlarda da ortaya çıkar. Tüm Avrupa'da, özellikle ılıman kuşakta ve doğuda Rusya'ya kadar bulunur.",
+      "uses": "Yenmez. Sarı rengini benzokinondan türeyen bir pigment olan sarkodontik asitten alır; mantar boyamada kullanılabilir ve farklı mordanlarla pembemsi kahverengi tonlar verir.",
+      "confusion": "Yaşlı bir elma ağacında, uzun dikenli parlak sarı kabuğu ve güçlü meyvemsi kokusu sayesinde karıştırılması zordur. Çok benzeyen Sarcodontia amplissima, Kuzey Amerika'nın doğusunda ve orta kesiminde çeşitli geniş yapraklı ağaçlarda yetişir ve başlıca mikroskobik olarak ayrılır. Sarcodontia uda daha ince kabuklar oluşturur; dikenleri çok daha kısa, en çok 3 mm'dir ve potasyum hidroksitte (KOH) kızarır. Hericium coralloides kayın ve diğer geniş yapraklı ağaçların odununda, sarkık dikenli, beyaz, dallı, mercan benzeri meyve gövdeleri oluşturur. Climacodon septentrionalis, alt yüzünde dikenler bulunan, kat kat dizilmiş beyazımsı ile sarımsı raflar oluşturur ve çoğunlukla akçaağaçlarda yetişir.",
+      "notes": "Avrupa literatürünün büyük bölümünde bu mantar Sarcodontia crocea olarak anılır. 2021'de yayımlanan bir çalışma, bu adın yanlış bir tanımlamaya dayandığını gösterdi: Ad, bugün Noblesia crocea olarak bilinen ve kestane odununda yetişen bir Kuzey Amerika mantarına aittir; Avrupa'daki elma ve armut ağaçlarının sarı dikenli mantarının doğru adı ise Sarcodontia setosa'dır. Eski meyve bahçeleri ve yaşlı meyve ağaçları kesildiği için tüm Avrupa'da nadirdir ve azalmaktadır. 2019'da IUCN küresel Kırmızı Listesi'nde Sarcodontia crocea adıyla Hassas (VU) olarak değerlendirildi ve birçok Avrupa ülkesinin kırmızı listesinde yer alır; Letonya onu Tehlikede (EN) olarak sınıflandırır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Ефектний розпростертий гриб із шипами, що росте на старих яблунях. На ранах, тріщинах і в дуплах стовбурів і гілок він утворює товсті, воскоподібні, сірчано-жовті плями, вкриті довгими, густими, спрямованими донизу шипами, а свіжі плодові тіла видають сильний солодкий фруктовий запах, який часто порівнюють з ананасом або анісом. По всій Європі він рідкісний і зникає.",
+      "cap": "Шапинки немає. Плодове тіло — кірочка, що пласко прилягає до деревини (розпростерта), а на вертикальних поверхнях утворює товсті горбкуваті подушки. Плями зазвичай близько 3–20 cm завширшки і 5–20 cm завдовжки і можуть зливатися, вкриваючи до приблизно 1 m² кори. Основа зерниста, сірчано-жовта до жовтуватої, край волокнистий і торочкуватий, спершу білий або жовтуватий, згодом буруватий. Свіже плодове тіло досить товсте і воскоподібне, сухе — жорстке.",
+      "hymenium": "Плодове тіло вкрите дуже густими шилоподібними шипами, що звисають донизу. Зазвичай вони 3–15 mm завдовжки і близько 1,5 mm завтовшки, біля основи зрослі, у перерізі округлі або зрідка сплющені, із загостреними кінцями. Свіжі вони блідо- або яскраво-сірчано-жовті, з віком або від натискання стають оранжевими, винно-червоними або бурими. Базидії булавоподібні, чотириспорові, близько 15–40 × 5–7 µm.",
+      "stipe": "Ніжки немає. Плодове тіло прикріплене до кори й деревини всією нижньою поверхнею.",
+      "flesh": "М'якуш (субікулум) світло-жовтий, іноді зі слабким зеленуватим відтінком, зернистий і воскоподібний, у подушкоподібних плодових тілах завтовшки до приблизно 3 cm. Він містить характерні товстостінні здуті клітини (склероцисти), які під лупою можуть мати вигляд дрібних світлих вузликів. Свіжі плодові тіла мають дуже сильний солодкувато-фруктовий запах ананаса, тертих яблук або анісу, відчутний навіть за кілька метрів; дехто описує його як фруктовий, але неприємний.",
+      "sporePrint": "Використані джерела не вказують колір спорового порошку. Спори безбарвні, гладенькі, еліпсоїдні до широкоеліпсоїдних, часто з однією великою олійною краплею, у реактиві Мельцера не реагують; їхній розмір близько 5–5,5 × 3,5–4,5 µm (загалом близько 4,5–6 × 3,5–5 µm).",
+      "habitat": "Дереворуйнівний гриб, що спричиняє білу гниль. Росте переважно на старих живих яблунях (Malus), набагато рідше на груші (Pyrus), горобині (Sorbus), сливі (Prunus) і вербі, зрідка на інших листяних деревах, як-от клен, ясен, бук і дуб. З'являється на відмерлих сухих гілках, у тріщинах кори, на ранах і в трухлявих дуплах дорослих і старих дерев у старих садах, парках і придорожніх насадженнях, часто в містах і селах. Плодові тіла однорічні й з'являються переважно з липня по листопад, іноді й у м'які зими. Поширений по всій Європі, переважно в помірній зоні, і на схід до Росії.",
+      "uses": "Неїстівний. Жовте забарвлення йому надає саркодонтова кислота — пігмент, похідний бензохінону, і гриб можна використовувати для фарбування, отримуючи з різними протравами рожево-коричневі відтінки.",
+      "confusion": "На старій яблуні його важко з чимось сплутати завдяки яскраво-жовтій кірочці з довгими шипами та сильному фруктовому запаху. Дуже схожа Sarcodontia amplissima росте на різних листяних деревах на сході та в центрі Північної Америки й відрізняється переважно мікроскопічно. Sarcodontia uda утворює тонші кірочки з набагато коротшими шипами, до 3 mm завдовжки, які червоніють у гідроксиді калію (KOH). Hericium coralloides має білі, розгалужені, коралоподібні плодові тіла зі звислими шипами на деревині бука та інших листяних порід. Climacodon septentrionalis утворює черепичасто розташовані білуваті або жовтуваті консолі з шипами на нижньому боці, найчастіше на кленах.",
+      "notes": "У багатьох європейських публікаціях цей гриб називають Sarcodontia crocea. Дослідження 2021 року показало, що ця назва ґрунтується на помилковому ототожненні: вона належить північноамериканському грибу на деревині каштана, який тепер називають Noblesia crocea, а правильна назва європейського гриба з жовтими шипами на яблунях і грушах — Sarcodontia setosa. Він рідкісний по всій Європі й зникає, бо вирубують старі сади та старі плодові дерева. У 2019 році його оцінено в глобальному Червоному списку МСОП як уразливий (VU) під назвою Sarcodontia crocea, і він внесений до червоних списків багатьох європейських країн; у Латвії його віднесено до видів, що перебувають під загрозою зникнення (EN).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種生於老蘋果樹上的醒目平伏刺狀真菌。它在樹幹與枝條的傷口、裂縫和樹洞上形成厚而呈蠟質的硫黃色斑塊，表面密布細長、向下的菌刺；新鮮子實體散發濃烈、甜美的果香，常被比作鳳梨或茴芹。它在整個歐洲都很稀少，而且數量正在減少。",
+      "cap": "沒有菌蓋。子實體為平貼於木材上的殼狀（平伏）結構，在垂直面上則形成厚實、凹凸不平的墊狀體。斑塊通常寬約3–20 cm、長5–20 cm，可彼此癒合，覆蓋多達約1 m²的樹皮。基部呈顆粒狀，硫黃色至淡黃色；邊緣纖維狀並呈流蘇狀，初為白色或淡黃色，後轉為褐色調。新鮮子實體相當厚且呈蠟質，乾燥後變得堅韌。",
+      "hymenium": "極為密集的錐形菌刺覆蓋子實體並向下垂掛。菌刺多長3–15 mm、粗約1.5 mm，基部相互癒合，橫切面圓形或少數扁平，頂端漸尖。新鮮時為淡至鮮明的硫黃色，老化或受壓後變為橙色、酒紅色或褐色。擔子棍棒形，具4孢子，約15–40 × 5–7 µm。",
+      "stipe": "沒有菌柄。子實體以整個下表面附著於樹皮和木材上。",
+      "flesh": "菌肉（菌絲墊）淡黃色，有時略帶綠色調，呈顆粒狀與蠟質，在墊狀子實體中厚可達約3 cm。其中含有特徵性的厚壁膨大細胞（厚壁囊狀體），以放大鏡觀察時可能呈現為細小的淺色瘤粒。新鮮子實體具有非常濃烈、略甜的果香，似鳳梨、磨碎的蘋果或茴芹，數公尺外即可聞到；也有人形容為果香但令人不快。",
+      "sporePrint": "所用資料未記載孢子印顏色。孢子無色、平滑，橢圓形至寬橢圓形，常含一個大油滴，在梅爾策試劑中無反應；大小約5–5.5 × 3.5–4.5 µm（整體範圍約4.5–6 × 3.5–5 µm）。",
+      "habitat": "一種引起白腐的木材腐朽真菌。主要生於存活的老蘋果樹（Malus）上，少見得多於梨（Pyrus）、花楸（Sorbus）、李（Prunus）和柳，偶見於其他闊葉樹，如槭、白蠟樹、山毛櫸和櫟。出現在老果園、庭院、公園和行道樹中成熟及老齡樹木的枯乾枝條、樹皮裂縫、傷口及腐爛樹洞上，常見於城鎮和村莊。子實體為一年生，主要於7月至11月出現，有時在溫暖的冬季也可見。分布於整個歐洲，主要在溫帶，向東延伸至俄羅斯。",
+      "uses": "不可食用。其黃色來自sarcodontic acid，一種由苯醌衍生的色素；它可用於菇類染色，配合不同媒染劑可染出帶粉紅的褐色。",
+      "confusion": "在老蘋果樹上，憑其鮮黃色、具長刺的殼狀子實體和濃烈果香，很難與其他物種混淆。極為相似的Sarcodontia amplissima生於北美洲東部和中部的多種闊葉樹上，主要以顯微特徵區分。Sarcodontia uda形成較薄的殼狀子實體，菌刺短得多，長不超過3 mm，遇氫氧化鉀（KOH）變紅。Hericium coralloides的子實體白色、分枝、珊瑚狀，具下垂菌刺，生於山毛櫸及其他闊葉樹木材上。Climacodon septentrionalis形成層疊的白色至淡黃色架狀子實體，下表面具菌刺，多生於槭樹上。",
+      "notes": "歐洲大部分文獻將此菌稱為Sarcodontia crocea。2021年的一項研究表明，這個名稱源於錯誤鑑定：它屬於一種生於栗木上的北美真菌，現稱Noblesia crocea；而歐洲蘋果樹和梨樹上這種黃刺真菌的正確名稱是Sarcodontia setosa。由於老果園和老果樹不斷被砍伐，它在整個歐洲都很稀少且正在減少。2019年，它以Sarcodontia crocea之名在IUCN全球紅色名錄中被評為易危（VU），並列入許多歐洲國家的紅色名錄；拉脫維亞將其列為瀕危（EN）。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t41u \"signature Gemini\", same form as IDs 154–160). The supplied image is a 19th-century-style colour illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number; Picasa-processed JPEG named .png); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss1.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Krookusnarmik4.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss2.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Krookusnarmik2.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss3.webp",
+      "author": "Павлик Лисицын",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/236258091"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss4.webp",
+      "author": "Павлик Лисицын",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/236258091"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss5.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/258884299"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Sarcodontia_setosa/Sarcodontia_setosa@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark (and a small ink squiggle above it) kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss1.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krookusnarmik4.jpg",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Krookusnarmik4.jpg",
+      "attribution": "© Svencapoeira, CC BY-SA 4.0, via Wikimedia Commons",
+      "shareAlike": true,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss2.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krookusnarmik2.jpg",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Krookusnarmik2.jpg",
+      "attribution": "© Svencapoeira, CC BY-SA 4.0, via Wikimedia Commons",
+      "shareAlike": true,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss3.webp",
+      "author": "Павлик Лисицын",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/236258091",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/420298053/original.jpg",
+      "attribution": "© Павлик Лисицын, CC BY 4.0, via iNaturalist observation 236258091",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss4.webp",
+      "author": "Павлик Лисицын",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/236258091",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/420298096/original.jpg",
+      "attribution": "© Павлик Лисицын, CC BY 4.0, via iNaturalist observation 236258091",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Polyporales/Meruliaceae/Sarcodontia_setosa/ss5.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/258884299",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/464588361/original.jpg",
+      "attribution": "© Michal Honskus, CC BY 4.0, via iNaturalist observation 258884299",
+      "shareAlike": false,
+      "adaptation": "True-source square crop, downsampled to 1024, WebP; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Hydnum setosum",
+    "Kneiffia setigera var. pomicola",
+    "Dryodon setosum",
+    "Acia setosa",
+    "Mycoacia setosa",
+    "Oxydontia setosa",
+    "Sarcodontia crocea"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 161,
+  "added": "2026-11-12",
+  "citation": "Mycologia 44(2): 262 (1952)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "No enclosed-region removal; pale subiculum and spine interiors stay opaque",
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 11703,
+    "paperResidualP995": 2.471340646480636,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Sarcodontia crocea.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "02596c82874e712e3824da9b05983bb9bedce44f978d73f57cc0fb2a5997cf22",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      47,
+      79,
+      841,
+      1113
+    ],
+    "uniformScale": 1.7632241813602014,
+    "placement": [
+      100,
+      288
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1823
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 623601,
+    "opaquePixels": 418836,
+    "partialAlphaPixels": 32763,
+    "signatureBox": [
+      755,
+      1072,
+      806,
+      1104
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 217,
+    "preservedObjects": [
+      "upper left: an apple branch with five green leaves and a single yellow-red apple (host context)",
+      "upper right: a detached cluster of long, tapering, pale-yellow awl-shaped spines fused at a fibrous base (spine detail)",
+      "centre left: a small young fruit body on a bark fragment: a pale-yellow cushion with a white fringed margin and first spine initials",
+      "lower left: a section through bark and wood with the yellow subiculum underneath bearing hanging yellow spines",
+      "centre right: an old mossy apple trunk with a large effused, sulphur-yellow, densely spiny fruit body with a white fringed margin and an orange-brown older patch",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t41u; IDs 154-160 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 53024.0,
+        "box": [
+          48,
+          832,
+          328,
+          248
+        ],
+        "medianContrast": 62.17625261208383
+      },
+      {
+        "area": 35025.5,
+        "box": [
+          57,
+          488,
+          263,
+          220
+        ],
+        "medianContrast": 40.955085052003035
+      },
+      {
+        "area": 280841.0,
+        "box": [
+          304,
+          368,
+          536,
+          744
+        ],
+        "medianContrast": 85.87515024387663
+      },
+      {
+        "area": 21319.0,
+        "box": [
+          633,
+          97,
+          159,
+          255
+        ],
+        "medianContrast": 27.51330391020733
+      },
+      {
+        "area": 49488.0,
+        "box": [
+          121,
+          80,
+          351,
+          288
+        ],
+        "medianContrast": 86.47774503150698
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection done (art_visual_review): composition is consistent with Sarcodontia setosa on apple; caveats listed.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t41u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-160. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right (~x757-803, y1073-1103 in the 896x1200 source)",
+      "a small ink squiggle (possibly a monogram-like stroke) on the trunk base just above the \"Gemini\" script (~x775-795, y1035-1060), kept as found",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform re-toned paper with synthetic vignette"
+      ],
+      "anatomyCaveat": "See art_visual_review: face-on spines shown as short ticks; detached spine cluster drawn tips-up; no scale.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "art_visual_review": {
+      "checkedAtCST": "2026-11-12, full-size inspection of the 896x1200 source",
+      "fits": [
+        "effused, resupinate, sulphur-yellow fruit body on an old apple trunk with a white fringed margin (fits S. setosa: yellow resupinate tooth fungus on Malus, white fimbriate margin)",
+        "hanging yellow spines from a subiculum in the bark/wood section (fits spines 3-15 mm)",
+        "orange-brown older patch (fits ageing/darkening to brownish-orange)",
+        "apple branch, leaves and fruit as host context (Malus is the main host)"
+      ],
+      "caveats": [
+        "main fruit body spines are drawn face-on as short uniform hair-like ticks, so spine length (3-15 mm) is not shown there; the section figure shows them better",
+        "detached spine cluster at upper right is drawn tips-up (spines hang downward in nature) and paler/longer than typical",
+        "the young fruit body is drawn as a smooth dotted cushion (plausible early stage, not documented)",
+        "no scale bar; style and mark suggest AI generation, not a documented historical plate"
+      ],
+      "verdict": "Acceptable for a staged plate with caveats; owner must accept the AI-looking art and the drawn spine details."
+    },
+    "alphaPNGSHA256": "47647d2c5b02c1c56681d56735d74048cc723731279f817196d1081c8fb8a85a",
+    "maskSHA256": "c4cff56aa05292a33e6dc43f74a7e65235ad8b7793a6f386c64a1caf2798320b",
+    "recipeSHA256": "cd803294f94773206ba9af9488d44f2bb1ed76de1c664d4304ffc0e00afa9991",
+    "officialFiles": [
+      {
+        "path": "media/Sarcodontia_setosa@1600.webp",
+        "bytes": 400658,
+        "sha256": "46b6f3cac1f1360396475cbaca9bd8a1d204ca0a3107c5e0bcbf0de18a767f99"
+      },
+      {
+        "path": "media/Sarcodontia_setosa@400.webp",
+        "bytes": 48492,
+        "sha256": "87076938a43b316530e8f6f44c1d2bc7ee94a75bf28a6cbd115e26860011a916"
+      }
+    ],
+    "anatomyCaveat": "ART: AI-generated-looking illustration with an existing cursive \"Gemini\" mark (and a small ink squiggle above it), kept as found; none painted; credited \"Gemini\" in metadata only. Rights/authorship unverified. ANATOMY: fits S. setosa on apple (sulphur-yellow effused crust with white fringed margin on an old trunk, hanging spines in the section, orange-brown older patch, apple branch as host). Caveats: main fruit body spines drawn face-on as short hair-like ticks (length not shown); detached spine cluster drawn tips-up; no scale. Decision for Adrian."
+  }
+},
+{
+  "name": "Picipes rhizophilus",
+  "author": "(Pat.) J.L. Zhou & B.K. Cui",
+  "family": "Polyporaceae",
+  "genus": "Picipes",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Polyporales",
+    "Polyporaceae",
+    "Picipes"
+  ],
+  "summary": [
+    "Polyporales",
+    "Polyporaceae",
+    "Picipes"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "grass",
+    "ground"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 1.0,
+  "capTo": 4.0,
+  "stipeHeightFrom": 1.0,
+  "stipeHeightTo": 3.0,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 0.6,
+  "label": {
+    "ar": null,
+    "bg": null,
+    "cs": "choroš travní",
+    "da": null,
+    "de": "Steppengras-Stielporling",
+    "en": null,
+    "es": "poliporo de las gramíneas",
+    "et": null,
+    "fa": null,
+    "fi": null,
+    "fr": null,
+    "he": null,
+    "hi": null,
+    "hr": null,
+    "hu": null,
+    "id": null,
+    "it": null,
+    "ja": null,
+    "ko": null,
+    "lt": null,
+    "lv": null,
+    "nl": null,
+    "no": null,
+    "pl": "czarnostopka korzonkowa",
+    "pt": null,
+    "ro": null,
+    "ru": "трутовик корнелюбивый",
+    "sk": "trúdnik trávomilný",
+    "sl": null,
+    "sr": null,
+    "sv": null,
+    "tr": null,
+    "uk": "смолоніг коренелюбний",
+    "zh": null
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Wurzel-Stielporling",
+      "Steppengras-Schwarzfußporling"
+    ],
+    "en": [],
+    "es": [
+      "poliporo de las raíces"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "żagiew korzonkowa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "трутовик коренелюбний"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Polyporus-rhizophilus/",
+      "https://www.iucnredlist.org/species/147299479/147869074"
+    ],
+    "da": [],
+    "de": [
+      "https://de.wikipedia.org/wiki/Steppengras-Stielporling",
+      "https://www.iucnredlist.org/species/147299479/147869074"
+    ],
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=817141",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=817141",
+      "https://www.gbif.org/species/9788739",
+      "https://www.catalogueoflife.org/data/taxon/6VJ2H",
+      "https://www.wikidata.org/wiki/Q81797855",
+      "https://www.inaturalist.org/taxa/965507-Picipes-rhizophilus",
+      "https://doi.org/10.1371/journal.pone.0159495",
+      "https://www.biodiversitylibrary.org/page/2163933",
+      "https://www.myko.cz/myko-atlas/Polyporus-rhizophilus/",
+      "https://www.fungipedia.org/hongos/cerioporus-rhizophilus.html",
+      "https://de.wikipedia.org/wiki/Steppengras-Stielporling",
+      "https://www.iucnredlist.org/species/147299479/147869074"
+    ],
+    "es": [
+      "https://www.fungipedia.org/hongos/cerioporus-rhizophilus.html"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Czarnostopka_korzonkowa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://redbook-ua.org/ru/item/polyporus-rhizophilus/"
+    ],
+    "sk": [
+      "http://mykospol.sk/wp-content/uploads/2019/04/Spravodajca_c-272002.pdf"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "https://red-book4.land.kiev.ua/4rbr-5-1.php",
+      "https://redbook-ua.org/item/polyporus-rhizophilus/"
+    ],
+    "zh": []
+  },
+  "text": {
+    "en": {
+      "description": "A small stipitate polypore of dry steppes, xerothermic grasslands and coastal dunes from North Africa and Europe across continental Eurasia, and also reported from North America. Fruit bodies appear at the bases of grasses, often seeming to stand on bare soil away from trees.",
+      "cap": "The cap is typically 1–4 cm across, occasionally to 5 cm. It is rounded, at first convex, later flat or slightly depressed, with a thin, often slightly wavy margin that is inrolled when young. The surface is whitish, then cream to pale ochre or greyish, smooth or finely velvety, sometimes slightly wrinkled or very finely scaly.",
+      "hymenium": "The tubes are short, about 1–2 mm long, white then cream to dingy yolk-yellow, and shortly to deeply decurrent. The pores are angular and irregular, often rather large (about 1–4 per millimetre), with thin walls.",
+      "stipe": "The stipe is central or eccentric, 1–3 cm long and typically 0.3–0.6 cm thick, sometimes a little stouter. It is smooth and solid, often slightly curved, pale like the cap above and brown to blackish from the base. The base may be slightly swollen and is attached to grass roots or rhizomes; the protologue also describes a longer, sand-encrusted rooting base.",
+      "flesh": "The flesh is thin, whitish to cream, and leathery to corky, more fibrous in the stipe. No distinctive smell or taste is reported.",
+      "sporePrint": "The spores are hyaline, smooth, and cylindrical to fusiform. Published measurements overlap around 6–12 × 2.5–4.5 µm; Zhou et al. (2016) give 8.2–10.1 × 3.2–4.1 µm, and the protologue 10–12 × 4 µm. Cystidia are absent. The hyphal system is dimitic, with clamped generative hyphae.",
+      "habitat": "It grows on the bases, roots and rhizomes of living or dying steppe grasses, including feather grasses (Stipa) and many other genera, in dry, usually sandy soils of steppes, dry grasslands and, less often, grassy open woodland, parks and coastal dunes. Whether it is parasitic, perthophytic or simply saprotrophic is unclear; loose hyphae may also surround living roots. Fruiting times vary by region: in Czechia it is recorded from May to November; a Bulgarian account gives June to October; German accounts describe fruit bodies in late autumn or early spring; a Kazakhstan collection was made in late April. The type was described from high plateaus between Tébessa and Bou Chebka, on the bases of living grasses.",
+      "confusion": "Similar small, cream, stipitate polypores such as Polyporus arcularius, Polyporus brumalis and Polyporus tuberaster grow from wood, which may be buried. This species is distinguished by its small fruit bodies and by growth on grass roots and rhizomes, apparently away from trees. Wood-inhabiting black-stiped relatives in Picipes, typically larger and lignicolous.",
+      "notes": "A 2019 assessment rates it Vulnerable, with an estimated 2500–5000 mature individuals in small, declining subpopulations, threatened by the loss and change of dry grassland. It is red-listed in several European countries. The trophic relationship with the host grasses remains uncertain."
+    },
+    "de": {
+      "description": "Ein kleiner gestielter Porling trockener Steppen, xerothermer Grasländer und Küstendünen, von Nordafrika und Europa durch das kontinentale Eurasien verbreitet und auch aus Nordamerika angegeben. Die Fruchtkörper erscheinen an den Basen von Gräsern und scheinen oft auf kahlem Boden, fern von Bäumen, zu stehen.",
+      "cap": "Der Hut ist typischerweise 1–4 cm breit, gelegentlich bis 5 cm. Er ist rundlich, zuerst gewölbt, später flach oder etwas vertieft, mit dünnem, oft leicht welligem Rand, der jung eingerollt ist. Die Oberfläche ist weißlich, dann cremefarben bis blass ocker oder graulich, glatt oder fein samtig, bisweilen leicht runzelig oder sehr fein schuppig.",
+      "hymenium": "Die Röhren sind kurz, etwa 1–2 mm lang, weiß, dann cremefarben bis schmutzig dottergelb, und kurz bis weit am Stiel herablaufend. Die Poren sind eckig und unregelmäßig, oft recht groß (etwa 1–4 je Millimeter), mit dünnen Wänden.",
+      "stipe": "Der Stiel ist zentral oder exzentrisch, 1–3 cm lang und typischerweise 0,3–0,6 cm dick, manchmal etwas kräftiger. Er ist glatt und fest, oft leicht gebogen, oben blass wie der Hut und von der Basis her braun bis schwärzlich. Die Basis kann etwas verdickt sein und ist an Graswurzeln oder Rhizomen befestigt; die Erstbeschreibung nennt auch eine längere, sandverkrustete wurzelnde Basis.",
+      "flesh": "Das Fleisch ist dünn, weißlich bis cremefarben und ledrig bis korkig, im Stiel faseriger. Ein auffälliger Geruch oder Geschmack wird nicht angegeben.",
+      "sporePrint": "Die Sporen sind hyalin, glatt und zylindrisch bis spindelförmig. Veröffentlichte Maße überlappen sich bei etwa 6–12 × 2,5–4,5 µm; Zhou und Mitarbeiter (2016) geben 8,2–10,1 × 3,2–4,1 µm an, die Erstbeschreibung 10–12 × 4 µm. Zystiden fehlen. Das Hyphensystem ist dimitisch, mit geschnallten generativen Hyphen.",
+      "habitat": "Er wächst an den Basen, Wurzeln und Rhizomen lebender oder absterbender Steppengräser, darunter Federgräser (Stipa) und viele andere Gattungen, in trockenen, meist sandigen Böden von Steppen, Trockenrasen und seltener in grasigem lichten Wald, in Parks und auf Küstendünen. Ob er parasitisch, perthophytisch oder lediglich saprotroph lebt, ist unklar; lockere Hyphen können auch lebende Wurzeln umgeben. Die Fruktifikationszeiten unterscheiden sich nach Region: in Tschechien wird er von Mai bis November angegeben; eine bulgarische Angabe nennt Juni bis Oktober; deutsche Angaben beschreiben Fruchtkörper im späten Herbst oder frühen Frühjahr; eine Aufsammlung in Kasachstan erfolgte Ende April. Der Typus wurde von Hochplateaus zwischen Tébessa und Bou Chebka beschrieben, an den Basen lebender Gräser.",
+      "confusion": "Ähnliche kleine, cremefarbene, gestielte Porlinge wie Polyporus arcularius, Polyporus brumalis und Polyporus tuberaster wachsen an Holz, das auch vergraben sein kann. Diese Art unterscheidet sich durch die kleinen Fruchtkörper und das Wachstum an Graswurzeln und Rhizomen, scheinbar fern von Bäumen. Holzbewohnende, schwarzstielige Verwandte in der Gattung Picipes sind typischerweise größer und lignicol.",
+      "notes": "Eine Bewertung von 2019 stuft ihn als gefährdet (Vulnerable) ein, mit geschätzten 2500–5000 reifen Individuen in kleinen, rückläufigen Teilpopulationen, bedroht durch Verlust und Veränderung von Trockenrasen. In mehreren europäischen Ländern steht er auf der Roten Liste. Die trophische Beziehung zu den Wirtgräsern bleibt unklar."
+    },
+    "cs": {
+      "description": "Malý stopkatý choroš suchých stepí, xerotermních trávníků a pobřežních dun, rozšířený od severní Afriky a Evropy přes kontinentální Eurasii a uváděný také ze Severní Ameriky. Plodnice vyrůstají na bázích trav a často působí, jako by stály na holé půdě mimo stromy.",
+      "cap": "Klobouk je typicky 1–4 cm široký, příležitostně až 5 cm. Je okrouhlý, zprvu vypouklý, později plochý nebo mírně vmáčklý, s tenkým, často mírně zvlněným okrajem, který je v mládí podvinutý. Povrch je bělavý, později krémový až bledě okrový nebo našedlý, hladký nebo jemně sametový, někdy mírně svraskalý nebo velmi jemně šupinatý.",
+      "hymenium": "Rourky jsou krátké, asi 1–2 mm dlouhé, bílé, později krémové až špinavě žloutkově žluté, a krátce až hluboce sbíhavé na třeň. Póry jsou hranaté a nepravidelné, často dosti velké (asi 1–4 na milimetr), s tenkými stěnami.",
+      "stipe": "Třeň je středový nebo výstředný, 1–3 cm dlouhý a typicky 0,3–0,6 cm tlustý, někdy trochu silnější. Je hladký a plný, často mírně zahnutý, nahoře bledý jako klobouk a od báze hnědý až černavý. Báze může být mírně ztlustělá a je přirostlá ke kořenům nebo oddenkům trav; první popis uvádí také delší, pískem obalenou kořenující bázi.",
+      "flesh": "Dužnina je tenká, bělavá až krémová a kožovitá až korkovitá, ve třeni více vláknitá. Výrazná vůně ani chuť nejsou uváděny.",
+      "sporePrint": "Výtrusy jsou hyalinní, hladké a válcovité až vřetenovité. Publikované rozměry se překrývají kolem 6–12 × 2,5–4,5 µm; Zhou a kol. (2016) uvádějí 8,2–10,1 × 3,2–4,1 µm a první popis 10–12 × 4 µm. Cystidy chybějí. Hyfový systém je dimitický, s přezkatými generativními hyfami.",
+      "habitat": "Roste na bázích, kořenech a oddencích živých nebo odumírajících stepních trav, včetně kavylů (Stipa) a mnoha dalších rodů, v suchých, obvykle písčitých půdách stepí, suchých trávníků a méně často v travnatých světlých lesích, parcích a na pobřežních dunách. Zda je parazitický, perthofytický, nebo pouze saprotrofní, není jasné; volné hyfy mohou obklopovat i živé kořeny. Doba fruktifikace se liší podle oblasti: v Česku je uváděn od května do listopadu; bulharský údaj uvádí červen až říjen; německé údaje popisují plodnice v pozdním podzimu nebo časném jaře; sběr v Kazachstánu byl uskutečněn koncem dubna. Typ byl popsán z náhorních plošin mezi Tébessou a Bou Chebkou, na bázích živých trav.",
+      "confusion": "Podobné malé, krémové, stopkaté choroše, jako jsou Polyporus arcularius, Polyporus brumalis a Polyporus tuberaster, rostou ze dřeva, které může být i zahrabané. Tento druh se odlišuje malými plodnicemi a růstem na kořenech a oddencích trav, zdánlivě mimo stromy. Dřevní, černostopkatí příbuzní v rodu Picipes jsou typicky větší a lignikolní.",
+      "notes": "Hodnocení z roku 2019 ho řadí jako zranitelný (Vulnerable), s odhadovanými 2500–5000 dospělými jedinci v malých, ustupujících subpopulacích, ohrožených ztrátou a proměnou suchých trávníků. V několika evropských zemích je na červeném seznamu. Trofický vztah k hostitelským travám zůstává nejistý."
+    },
+    "sk": {
+      "description": "Malý stopkatý trúdnik suchých stepí, xerotermných trávnikov a pobrežných dún, rozšírený od severnej Afriky a Európy cez kontinentálnu Euráziu a uvádzaný aj zo Severnej Ameriky. Plodnice vyrastajú na báze tráv a často pôsobia, akoby stáli na holej pôde mimo stromov.",
+      "cap": "Klobúk je typicky 1–4 cm široký, príležitostne až 5 cm. Je okrúhly, spočiatku vypuklý, neskôr plochý alebo mierne vmáčknutý, s tenkým, často mierne zvlneným okrajom, ktorý je v mladosti podvinutý. Povrch je belavý, neskôr krémový až bledo okrový alebo sivastý, hladký alebo jemne zamatový, niekedy mierne zvráskavený alebo veľmi jemne šupinatý.",
+      "hymenium": "Rúrky sú krátke, asi 1–2 mm dlhé, biele, neskôr krémové až špinavo žĺtkovo žlté, a krátko až hlboko zbiehajúce na hlúbik. Póry sú hranaté a nepravidelné, často pomerne veľké (asi 1–4 na milimeter), s tenkými stenami.",
+      "stipe": "Hlúbik je stredový alebo výstredný, 1–3 cm dlhý a typicky 0,3–0,6 cm hrubý, niekedy trochu hrubší. Je hladký a plný, často mierne zahnutý, hore bledý ako klobúk a od bázy hnedý až černastý. Báza môže byť mierne zhrubnutá a je prirastená ku koreňom alebo podzemkom tráv; prvý opis uvádza aj dlhšiu, pieskom obalenú zakoreňujúcu bázu.",
+      "flesh": "Dužina je tenká, belavá až krémová a kožovitá až korkovitá, v hlúbiku viac vláknitá. Výrazná vôňa ani chuť nie sú uvádzané.",
+      "sporePrint": "Výtrusy sú hyalínne, hladké a valcovité až vretenovité. Publikované rozmery sa prekrývajú okolo 6–12 × 2,5–4,5 µm; Zhou a kol. (2016) uvádzajú 8,2–10,1 × 3,2–4,1 µm a prvý opis 10–12 × 4 µm. Cystidy chýbajú. Hyfový systém je dimitický, s prackami na generatívnych hyfách.",
+      "habitat": "Rastie na bázach, koreňoch a podzemkoch živých alebo odumierajúcich stepných tráv, vrátane kavyľov (Stipa) a mnohých ďalších rodov, v suchých, zvyčajne piesočnatých pôdach stepí, suchých trávnikov a menej často v trávnatých svetlinách, parkoch a na pobrežných dunách. Či je parazitický, perthofytický, alebo len saprotrofný, nie je jasné; voľné hyfy môžu obklopovať aj živé korene. Čas fruktifikácie sa líši podľa oblasti: v Česku je uvádzaný od mája do novembra; bulharský údaj uvádza jún až október; nemecké údaje opisujú plodnice v neskorú jeseň alebo skoro na jar; zber v Kazachstane sa uskutočnil koncom apríla. Typ bol opísaný z náhorných plošín medzi Tébessou a Bou Chebkou, na bázach živých tráv.",
+      "confusion": "Podobné malé, krémové, stopkaté trúdniky, ako sú Polyporus arcularius, Polyporus brumalis a Polyporus tuberaster, rastú z dreva, ktoré môže byť aj zahrabané. Tento druh sa odlišuje malými plodnicami a rastom na koreňoch a podzemkoch tráv, zdanlivo mimo stromov. Drevné, čiernostopkaté príbuzné druhy v rode Picipes sú typicky väčšie a lignikolné.",
+      "notes": "Hodnotenie z roku 2019 ho zaraďuje ako zraniteľný druh (Vulnerable), s odhadovanými 2500–5000 dospelými jedincami v malých, ustupujúcich subpopuláciách, ohrozených stratou a premenou suchých trávnikov. V niekoľkých európskych krajinách je na červenom zozname. Trofický vzťah k hostiteľským trávam zostáva neistý. Na Slovensku bol zaznamenaný niekoľkokrát na Podunajskej nížine a v Strážovských vrchoch."
+    },
+    "pl": {
+      "description": "Mały trzonkowy grzyb porowaty suchych stepów, kserotermicznych muraw i wydm nadmorskich, rozprzestrzeniony od Afryki Północnej i Europy przez kontynentalną Eurazję, podawany także z Ameryki Północnej. Owocniki pojawiają się u nasady traw i często sprawiają wrażenie, jakby stały na nagiej glebie z dala od drzew.",
+      "cap": "Kapelusz ma typowo 1–4 cm średnicy, okazjonalnie do 5 cm. Jest zaokrąglony, początkowo wypukły, później płaski lub nieco wklęsły, z cienkim, często lekko falistym brzegiem, który w młodości jest podwinięty. Powierzchnia jest biaława, potem kremowa do bladoochrowej lub szarawej, gładka lub delikatnie aksamitna, czasem lekko pomarszczona lub bardzo drobno łuseczkowata.",
+      "hymenium": "Rurki są krótkie, około 1–2 mm długości, białe, potem kremowe do brudno żółtkowożółtych, krótko do głęboko zbiegające na trzon. Pory są kanciaste i nieregularne, często dość duże (około 1–4 na milimetr), o cienkich ściankach.",
+      "stipe": "Trzon jest centralny lub ekscentryczny, 1–3 cm długi i typowo 0,3–0,6 cm gruby, czasem nieco tęższy. Jest gładki i pełny, często lekko wygięty, u góry blady jak kapelusz, a od nasady brązowy do czarniawego. Nasada może być lekko zgrubiała i jest przyrośnięta do korzeni lub kłączy traw; pierwszy opis podaje także dłuższą, obtoczoną piaskiem korzeniącą się nasadę.",
+      "flesh": "Miąższ jest cienki, białawy do kremowego, skórzasty do korkowatego, w trzonie bardziej włóknisty. Nie podaje się wyraźnego zapachu ani smaku.",
+      "sporePrint": "Zarodniki są hialinowe, gładkie i walcowate do wrzecionowatych. Opublikowane wymiary pokrywają się w zakresie około 6–12 × 2,5–4,5 µm; Zhou i in. (2016) podają 8,2–10,1 × 3,2–4,1 µm, a pierwszy opis 10–12 × 4 µm. Cystyd brak. System strzępkowy jest dimityczny, ze sprzążkami na strzępkach generatywnych.",
+      "habitat": "Rośnie u nasady, na korzeniach i kłączach żywych lub zamierających traw stepowych, w tym ostnic (Stipa) i wielu innych rodzajów, na suchych, zwykle piaszczystych glebach stepów, suchych muraw, a rzadziej w trawiastych świetlistych lasach, parkach i na wydmach nadmorskich. Czy jest pasożytem, perthofitem, czy tylko saprotrofem, nie jest jasne; luźne strzępki mogą też otaczać żywe korzenie. Okres owocnikowania różni się w zależności od regionu: w Czechach podawany jest od maja do listopada; bułgarskie dane wskazują czerwiec–październik; niemieckie relacje opisują owocniki późną jesienią lub wczesną wiosną; zbiór w Kazachstanie pochodzi z końca kwietnia. Typ opisano z wysokich płaskowyżów między Tébessą a Bou Chebką, u nasady żywych traw.",
+      "confusion": "Podobne małe, kremowe, trzonkowe grzyby porowate, takie jak Polyporus arcularius, Polyporus brumalis i Polyporus tuberaster, wyrastają z drewna, które może być przysypane. Gatunek ten odróżnia się małymi owocnikami oraz wzrostem na korzeniach i kłączach traw, pozornie z dala od drzew. Drewnolubne, czarnotrzonowe gatunki pokrewne z rodzaju Picipes są typowo większe i lignikolne.",
+      "notes": "Ocena z 2019 roku uznaje go za narażonego (Vulnerable), z szacowanymi 2500–5000 dojrzałymi osobnikami w małych, zanikających subpopulacjach, zagrożonych utratą i przekształcaniem suchych muraw. W kilku krajach europejskich znajduje się na czerwonej liście. Związek troficzny z trawami żywicielskimi pozostaje niepewny."
+    },
+    "es": {
+      "description": "Un poliporo estipitado pequeño de estepas secas, pastizales xerotermos y dunas costeras, extendido desde el norte de África y Europa a través de la Eurasia continental y citado también de Norteamérica. Los carpóforos aparecen en la base de las gramíneas y a menudo parecen erguirse sobre suelo desnudo, lejos de los árboles.",
+      "cap": "El sombrero mide típicamente 1–4 cm de diámetro, en ocasiones hasta 5 cm. Es redondeado, al principio convexo y luego plano o ligeramente deprimido, con un margen delgado, a menudo un poco ondulado, enrollado de joven. La superficie es blanquecina, después crema hasta ocre pálido o grisácea, lisa o finamente aterciopelada, a veces un poco arrugada o muy finamente escamosa.",
+      "hymenium": "Los tubos son cortos, de unos 1–2 mm de longitud, blancos y luego crema hasta amarillo yema sucio, y decurrentes de forma corta a profunda. Los poros son angulosos e irregulares, a menudo bastante grandes (unos 1–4 por milímetro), de paredes finas.",
+      "stipe": "El pie es central o excéntrico, de 1–3 cm de largo y típicamente 0,3–0,6 cm de grosor, a veces un poco más robusto. Es liso y macizo, a menudo ligeramente curvado, pálido como el sombrero en la parte superior y pardo a negruzco desde la base. La base puede estar un poco ensanchada y se sujeta a las raíces o rizomas de las gramíneas; la descripción original menciona también una base radicante más larga, incrustada de arena.",
+      "flesh": "La carne es delgada, blanquecina a crema, y correosa a suberosa, más fibrosa en el pie. No se indica un olor ni un sabor distintivos.",
+      "sporePrint": "Las esporas son hialinas, lisas y cilíndricas a fusiformes. Las medidas publicadas se solapan en torno a 6–12 × 2,5–4,5 µm; Zhou y colaboradores (2016) dan 8,2–10,1 × 3,2–4,1 µm, y la descripción original 10–12 × 4 µm. No hay cistidios. El sistema hifal es dimítico, con hifas generativas fibuladas.",
+      "habitat": "Crece en la base, las raíces y los rizomas de gramíneas esteparias vivas o moribundas, incluidas las estipas (Stipa) y muchos otros géneros, en suelos secos, por lo general arenosos, de estepas, pastizales secos y, con menos frecuencia, en bosques claros herbáceos, parques y dunas costeras. Si es parásito, pertofito o simplemente saprótrofo no está claro; las hifas sueltas pueden rodear también raíces vivas. El período de fructificación varía según la región: en Chequia se cita de mayo a noviembre; una fuente búlgara indica de junio a octubre; las fuentes alemanas describen carpóforos a finales de otoño o a principios de primavera; una recolección en Kazajistán se hizo a finales de abril. El tipo se describió de las mesetas altas entre Tébessa y Bou Chebka, en la base de gramíneas vivas.",
+      "confusion": "Políporos estipitados pequeños y crema semejantes, como Polyporus arcularius, Polyporus brumalis y Polyporus tuberaster, crecen en madera, que puede estar enterrada. Esta especie se distingue por sus carpóforos pequeños y por crecer en raíces y rizomas de gramíneas, aparentemente lejos de los árboles. Los parientes de pie negruzco y hábitat lignícola del género Picipes son típicamente más grandes y lignícolas.",
+      "notes": "Una evaluación de 2019 lo califica como Vulnerable (Vulnerable), con una estimación de 2500–5000 individuos maduros en subpoblaciones pequeñas y en declive, amenazadas por la pérdida y la transformación de los pastizales secos. Figura en las listas rojas de varios países europeos. La relación trófica con las gramíneas hospedadoras sigue siendo incierta."
+    },
+    "it": {
+      "description": "Un poliporo stipitato di piccole dimensioni delle steppe aride, delle praterie xerotermiche e delle dune costiere, diffuso dal Nord Africa e dall'Europa attraverso l'Eurasia continentale e segnalato anche in Nord America. I corpi fruttiferi compaiono alla base delle graminacee e spesso sembrano ergersi sul suolo nudo, lontano dagli alberi.",
+      "cap": "Il cappello misura in genere 1–4 cm di diametro, occasionalmente fino a 5 cm. È arrotondato, dapprima convesso, poi piano o lievemente depresso, con un margine sottile, spesso un po' ondulato, involuto da giovane. La superficie è biancastra, poi crema fino a ocra pallido o grigiastra, liscia o finemente vellutata, a volte lievemente rugosa o molto finemente squamulosa.",
+      "hymenium": "I tubuli sono corti, lunghi circa 1–2 mm, bianchi poi crema fino a giallo tuorlo sporco, e decorrenti in modo breve o profondo. I pori sono angolosi e irregolari, spesso piuttosto larghi (circa 1–4 per millimetro), con pareti sottili.",
+      "stipe": "Il gambo è centrale o eccentrico, lungo 1–3 cm e tipicamente spesso 0,3–0,6 cm, a volte un po' più robusto. È liscio e pieno, spesso lievemente curvo, pallido come il cappello in alto e bruno fino a nerastro dalla base. La base può essere un po' ingrossata ed è attaccata alle radici o ai rizomi delle graminacee; la descrizione originale menziona anche una base radicante più lunga, incrostata di sabbia.",
+      "flesh": "La carne è sottile, biancastra fino a crema, e coriacea fino a suberosa, più fibrosa nel gambo. Non si segnalano odore né sapore distintivi.",
+      "sporePrint": "Le spore sono ialine, lisce e cilindriche fino a fusiformi. Le misure pubblicate si sovrappongono intorno a 6–12 × 2,5–4,5 µm; Zhou e collaboratori (2016) indicano 8,2–10,1 × 3,2–4,1 µm, e la descrizione originale 10–12 × 4 µm. I cistidi sono assenti. Il sistema ifale è dimitico, con ife generative fibulate.",
+      "habitat": "Cresce alla base, sulle radici e sui rizomi di graminacee steppiche vive o morenti, comprese le stipa (Stipa) e molti altri generi, in suoli asciutti, di solito sabbiosi, di steppe, praterie aride e, piu di rado, di boschi aperti erbosi, parchi e dune costiere. Se sia parassita, pertofita o semplicemente saprotrofa non è chiaro; ife libere possono circondare anche radici vive. I periodi di fruttificazione variano a seconda della regione: in Cechia è segnalata da maggio a novembre; una fonte bulgara indica da giugno a ottobre; le fonti tedesche descrivono corpi fruttiferi in tardo autunno o all'inizio della primavera; una raccolta in Kazakistan è stata fatta a fine aprile. Il tipo fu descritto dagli altopiani tra Tebessa e Bou Chebka, alla base di graminacee vive.",
+      "confusion": "Piccoli polipori stipitati color crema simili, come Polyporus arcularius, Polyporus brumalis e Polyporus tuberaster, crescono sul legno, che può essere interrato. Questa specie si distingue per i corpi fruttiferi piccoli e per la crescita su radici e rizomi di graminacee, apparentemente lontano dagli alberi. I parenti a gambo nerastro e habitat lignicolo del genere Picipes sono in genere più grandi e lignicoli.",
+      "notes": "Una valutazione del 2019 la classifica Vulnerabile (Vulnerable), con una stima di 2500–5000 individui maturi in piccole sottopopolazioni in declino, minacciate dalla perdita e dalla trasformazione delle praterie aride. Figura nelle liste rosse di diversi Paesi europei. La relazione trofica con le graminacee ospiti rimane incerta."
+    },
+    "pt": {
+      "description": "Um poliporo estipitado de pequeno porte das estepes secas, relvados xerotérmicos e dunas costeiras, espalhado do Norte de África e da Europa através da Eurásia continental e também referido da América do Norte. Os basidiomas aparecem na base das gramíneas e muitas vezes parecem erguer-se em solo nu, longe das árvores.",
+      "cap": "O chapéu mede tipicamente 1–4 cm de diâmetro, por vezes até 5 cm. É arredondado, primeiro convexo, depois plano ou ligeiramente deprimido, com margem fina, frequentemente um pouco ondulada, enrolada quando jovem. A superfície é esbranquiçada, depois creme até ocre pálido ou acinzentada, lisa ou finamente aveludada, por vezes ligeiramente enrugada ou muito finamente escamosa.",
+      "hymenium": "Os tubos são curtos, com cerca de 1–2 mm de comprimento, brancos e depois creme até amarelo-de-gema baço, e decurrentes de forma curta a profunda. Os poros são angulosos e irregulares, muitas vezes bastante grandes (cerca de 1–4 por milímetro), com paredes finas.",
+      "stipe": "O estipe é central ou excêntrico, com 1–3 cm de comprimento e tipicamente 0,3–0,6 cm de espessura, por vezes um pouco mais robusto. É liso e maciço, frequentemente um pouco curvado, pálido como o chapéu na parte superior e pardo a negrento a partir da base. A base pode estar um pouco inchada e prende-se às raízes ou rizomas das gramíneas; a descrição original refere também uma base radicante mais longa, incrustada de areia.",
+      "flesh": "A carne é fina, esbranquiçada a creme, e coriácea a suberosa, mais fibrosa no estipe. Não se indica cheiro nem sabor distintivos.",
+      "sporePrint": "Os esporos são hialinos, lisos e cilíndricos a fusiformes. As medidas publicadas sobrepõem-se em torno de 6–12 × 2,5–4,5 µm; Zhou e colaboradores (2016) indicam 8,2–10,1 × 3,2–4,1 µm, e a descrição original 10–12 × 4 µm. Não há cistídios. O sistema hifal é dimítico, com hifas generativas fíbuladas.",
+      "habitat": "Cresce na base, nas raízes e nos rizomas de gramíneas esteparias vivas ou moribundas, incluindo os espartos e as Stipa e muitos outros géneros, em solos secos, geralmente arenosos, de estepes, relvados secos e, com menor frequência, de bosques claros herbáceos, parques e dunas costeiras. Se é parasita, pertófito ou simplesmente saprótrofo não é claro; hifas soltas podem também rodear raízes vivas. Os períodos de frutificação variam conforme a região: na Chéquia é citado de maio a novembro; uma fonte búlgara indica junho a outubro; as fontes alemãs descrevem basidiomas no fim do outono ou no início da primavera; uma colheita no Cazaquistão foi feita no fim de abril. O tipo foi descrito dos planaltos elevados entre Tébessa e Bou Chebka, na base de gramíneas vivas.",
+      "confusion": "Pequenos poliporos estipitados de cor creme semelhantes, como Polyporus arcularius, Polyporus brumalis e Polyporus tuberaster, crescem em madeira, que pode estar enterrada. Esta espécie distingue-se pelos basidiomas pequenos e pelo crescimento em raízes e rizomas de gramíneas, aparentemente longe das árvores. Os parentes de estipe enegrecido e habitat lenhícola do género Picipes são tipicamente maiores e lenhícolas.",
+      "notes": "Uma avaliação de 2019 classifica-a como Vulnerável (Vulnerable), com uma estimativa de 2500–5000 indivíduos maduros em subpopulações pequenas e em declínio, ameaçadas pela perda e pela transformação dos relvados secos. Consta das listas vermelhas de vários países europeus. A relação trófica com as gramíneas hospedeiras permanece incerta."
+    },
+    "fr": {
+      "description": "Un polypore stipité de petite taille des steppes sèches, des pelouses xérothermiques et des dunes côtières, répandu de l'Afrique du Nord et de l'Europe à travers l'Eurasie continentale, et également signalé d'Amérique du Nord. Les sporophores apparaissent à la base des graminées et semblent souvent se dresser sur un sol nu, loin des arbres.",
+      "cap": "Le chapeau mesure typiquement 1–4 cm de diamètre, parfois jusqu'à 5 cm. Il est arrondi, d'abord convexe, puis plan ou légèrement déprimé, à marge mince, souvent un peu ondulée, enroulée chez les jeunes exemplaires. La surface est blanchâtre, puis crème à ocre pâle ou grisâtre, lisse ou finement veloutée, parfois légèrement ridée ou très finement squamuleuse.",
+      "hymenium": "Les tubes sont courts, d'environ 1–2 mm de long, blancs puis crème à jaune d'œuf terne, et décurrents de façon courte à profonde. Les pores sont anguleux et irréguliers, souvent assez grands (environ 1–4 par millimètre), à parois minces.",
+      "stipe": "Le pied est central ou excentrique, long de 1–3 cm et typiquement épais de 0,3–0,6 cm, parfois un peu plus robuste. Il est lisse et plein, souvent légèrement courbé, pâle comme le chapeau dans le haut et brun à noirâtre depuis la base. La base peut être un peu renflée et s'attache aux racines ou rhizomes des graminées; la description originale mentionne aussi une base radicante plus longue, incrustée de sable.",
+      "flesh": "La chair est mince, blanchâtre à crème, et coriace à subéreuse, plus fibreuse dans le pied. Aucune odeur ni saveur distinctives ne sont signalées.",
+      "sporePrint": "Les spores sont hyalines, lisses et cylindriques à fusiformes. Les mesures publiées se chevauchent autour de 6–12 × 2,5–4,5 µm; Zhou et collaborateurs (2016) donnent 8,2–10,1 × 3,2–4,1 µm, et la description originale 10–12 × 4 µm. Il n'y a pas de cystides. Le système hyphal est dimitique, avec des hyphes génératrices bouclées.",
+      "habitat": "Il pousse à la base, sur les racines et les rhizomes de graminées steppiques vivantes ou mourantes, y compris les graminées du genre Stipa et de nombreux autres genres, dans des sols secs, le plus souvent sablonneux, de steppes, de pelouses sèches et, plus rarement, de bois clairs herbeux, de parcs et de dunes côtières. S'il est parasite, perthophyte ou simplement saprotrophe n'est pas clair; des hyphes lâches peuvent aussi entourer des racines vivantes. Les périodes de fructification varient selon les régions : en Tchéquie, il est cité de mai à novembre; une source bulgare indique juin à octobre; les sources allemandes décrivent des sporophores à la fin de l'automne ou au début du printemps; une récolte au Kazakhstan a été faite fin avril. Le type a été décrit des hauts plateaux entre Tébessa et Bou Chebka, à la base de graminées vivantes.",
+      "confusion": "De petits polypores stipités crème semblables, tels que Polyporus arcularius, Polyporus brumalis et Polyporus tuberaster, poussent sur le bois, qui peut être enterré. Cette espèce se distingue par ses petits sporophores et par sa croissance sur les racines et rhizomes de graminées, apparemment loin des arbres. Les parents à pied noirâtre et habitat lignicole du genre Picipes sont typiquement plus grands et lignicoles.",
+      "notes": "Une évaluation de 2019 le classe Vulnérable (Vulnerable), avec une estimation de 2500–5000 individus matures dans de petites sous-populations en déclin, menacées par la perte et la transformation des pelouses sèches. Il figure sur les listes rouges de plusieurs pays européens. La relation trophique avec les graminées hôtes demeure incertaine."
+    },
+    "nl": {
+      "description": "Een kleine gesteelde gaatjeszwam van droge steppen, xerotherme graslanden en kustduinen, verspreid van Noord-Afrika en Europa over het continentale Eurazië en ook opgegeven uit Noord-Amerika. De vruchtlichamen verschijnen aan de basis van grassen en lijken vaak op kale grond te staan, ver van bomen.",
+      "cap": "De hoed is typisch 1–4 cm breed, soms tot 5 cm. Hij is afgerond, eerst gewelfd, later vlak of iets ingedeukt, met een dunne, vaak iets golvende rand die jong ingerold is. Het oppervlak is witachtig, daarna roomkleurig tot bleek oker of grijsachtig, glad of fijn fluwelig, soms iets gerimpeld of zeer fijn schubbig.",
+      "hymenium": "De buizen zijn kort, ongeveer 1–2 mm lang, wit, daarna roomkleurig tot vaal dooiergeel, en kort tot diep aflopend. De poriën zijn hoekig en onregelmatig, vaak vrij groot (ongeveer 1–4 per millimeter), met dunne wanden.",
+      "stipe": "De steel is centraal of excentrisch, 1–3 cm lang en typisch 0,3–0,6 cm dik, soms iets stouter. Hij is glad en massief, vaak iets gebogen, bovenaan bleek zoals de hoed en vanaf de basis bruin tot zwartachtig. De basis kan iets gezwollen zijn en is bevestigd aan graswortels of rizomen; de oorspronkelijke beschrijving noemt ook een langere, met zand bezette wortelende basis.",
+      "flesh": "Het vlees is dun, witachtig tot roomkleurig, en taai tot kurkachtig, in de steel vezeliger. Er wordt geen opvallende geur of smaak vermeld.",
+      "sporePrint": "De sporen zijn hyalien, glad en cilindrisch tot spoelvormig. Gepubliceerde maten overlappen rond 6–12 × 2,5–4,5 µm; Zhou en medewerkers (2016) geven 8,2–10,1 × 3,2–4,1 µm, en de oorspronkelijke beschrijving 10–12 × 4 µm. Cystiden ontbreken. Het hyfensysteem is dimitisch, met gespen op de generatieve hyfen.",
+      "habitat": "Hij groeit aan de basis, wortels en rizomen van levende of afstervende steppegrassen, waaronder vedergrassen (Stipa) en vele andere geslachten, in droge, meestal zandige bodems van steppen, droge graslanden en, minder vaak, grazige open bossen, parken en kustduinen. Of hij parasitair, perthofytisch of slechts saprotroof is, is onduidelijk; losse hyfen kunnen ook levende wortels omgeven. De vruchttijden verschillen per streek: in Tsjechië wordt hij van mei tot november opgegeven; een Bulgaarse bron noemt juni tot oktober; Duitse bronnen beschrijven vruchtlichamen in de late herfst of het vroege voorjaar; een collectie in Kazachstan werd eind april gedaan. Het type werd beschreven van hoge plateaus tussen Tébessa en Bou Chebka, aan de basis van levende grassen.",
+      "confusion": "Vergelijkbare kleine, roomkleurige, gesteelde gaatjeszwammen zoals Polyporus arcularius, Polyporus brumalis en Polyporus tuberaster groeien op hout, dat ook begraven kan zijn. Deze soort onderscheidt zich door de kleine vruchtlichamen en door groei op graswortels en rizomen, ogenschijnlijk ver van bomen. Houtbewonende, zwartstelige verwanten in het geslacht Picipes zijn typisch groter en lignicool.",
+      "notes": "Een beoordeling uit 2019 schaart hem onder Kwetsbaar (Vulnerable), met naar schatting 2500–5000 volwassen individuen in kleine, afnemende deelpopulaties, bedreigd door verlies en verandering van droog grasland. Hij staat op de rode lijsten van verschillende Europese landen. De trofische relatie met de waardgrassen blijft onzeker."
+    },
+    "da": {
+      "description": "En lille stilket poresvamp fra tørre stepper, xerotherme græsland og kystklitter, udbredt fra Nordafrika og Europa gennem det kontinentale Eurasien og også angivet fra Nordamerika. Frugtlegemerne vises ved basis af græsser og synes ofte at stå på bar jord, væk fra træer.",
+      "cap": "Hatten er typisk 1–4 cm bred, lejlighedsvis op til 5 cm. Den er afrundet, først hvælvet, senere flad eller svagt nedtrykt, med en tynd, ofte lidt bølget rand, der er indrullet i ungdommen. Overfladen er hvidlig, derefter cremefarvet til bleg okker eller grålig, glat eller fint fløjlsgagtig, undertiden lidt rynket eller meget fint skællet.",
+      "hymenium": "Rørene er korte, omkring 1–2 mm lange, hvide, derefter cremefarvede til smudsig blomme-gule, og kort til dybt nedløbende. Porerne er kantede og uregelmæssige, ofte ret store (omkring 1–4 pr. millimeter), med tynde vægge.",
+      "stipe": "Stokken er central eller excentrisk, 1–3 cm lang og typisk 0,3–0,6 cm tyk, undertiden lidt kraftigere. Den er glat og fast, ofte lidt krum, bleg som hatten foroven og brun til sortagtig fra basis. Basis kan være lidt fortykket og er fæstnet til græsrødder eller jordstængler; den oprindelige beskrivelse nævner også en længere, sandskorpet rodslående basis.",
+      "flesh": "Kødet er tyndt, hvidligt til cremefarvet og læderagtigt til korkagtigt, mere trådet i stokken. Der angives ingen karakteristisk lugt eller smag.",
+      "sporePrint": "Sporerne er hyaline, glatte og cylindriske til tenformede. Offentliggjorte mål overlapper omkring 6–12 × 2,5–4,5 µm; Zhou m.fl. (2016) angiver 8,2–10,1 × 3,2–4,1 µm, og den oprindelige beskrivelse 10–12 × 4 µm. Cystider mangler. Hyfesystemet er dimitisk, med øskner på de generative hyfer.",
+      "habitat": "Den vokser ved basis, rødder og jordstængler af levende eller døende steppegræsser, herunder fjergræsser (Stipa) og mange andre slægter, i tør, sædvanligvis sandet jord på stepper, tørt græsland og sjældnere i græsset åben skov, parker og kystklitter. Om den er parasitisk, perthofytisk eller blot saprotrof, er uklart; løse hyfer kan også omgive levende rødder. Frugttiden varierer med området: i Tjekkiet angives den fra maj til november; en bulgarsk kilde nævner juni til oktober; tyske kilder beskriver frugtlegemer sent på efteråret eller tidligt om foråret; en indsamling i Kasakhstan blev gjort sidst i april. Typen blev beskrevet fra høje plateauer mellem Tébessa og Bou Chebka, ved basis af levende græsser.",
+      "confusion": "Lignende små, cremefarvede, stilkede poresvampe som Polyporus arcularius, Polyporus brumalis og Polyporus tuberaster vokser på ved, der kan være begravet. Denne art kendes på de små frugtlegemer og på vækst på græsrødder og jordstængler, tilsyneladende væk fra træer. Vedboende, sortstilkede slægtninge i slægten Picipes er typisk større og lignikole.",
+      "notes": "En vurdering fra 2019 bedømmer den som Sårbar (Vulnerable), med anslået 2500–5000 modne individer i små, tilbagegående delbestande, truet af tab og ændring af tørt græsland. Den er rødlistet i flere europæiske lande. Det trofiske forhold til værtsgræsserne er stadig usikkert."
+    },
+    "sv": {
+      "description": "En liten skaftad ticksvamp från torra stäpper, xeroterma gräsmarker och kustdyner, utbredd från Nordafrika och Europa genom det kontinentala Eurasien och även uppgiven från Nordamerika. Fruktkropparna uppträder vid basen av gräs och tycks ofta stå på bar jord, borta från träd.",
+      "cap": "Hatten är typiskt 1–4 cm bred, tillfälligtvis upp till 5 cm. Den är rundad, först välvd, senare plan eller svagt nedsänkt, med en tunn, ofta något vågig kant som är invikt i ungdomen. Ytan är vitaktig, sedan gräddfärgad till blekt ockra eller gråaktig, slät eller fint sammetsluden, ibland något skrynklig eller mycket fint fjällig.",
+      "hymenium": "Rören är korta, ungefär 1–2 mm långa, vita, sedan gräddfärgade till smutsigt äggulegula, och kort till djupt nedlöpande. Porerna är kantiga och oregelbundna, ofta tämligen stora (ungefär 1–4 per millimeter), med tunna väggar.",
+      "stipe": "Foten är central eller excentrisk, 1–3 cm lång och typiskt 0,3–0,6 cm tjock, ibland något kraftigare. Den är slät och solid, ofta något böjd, blek som hatten upptill och brun till svartaktig från basen. Basen kan vara något svullen och är fäst vid gräsrötter eller jordstammar; originalbeskrivningen nämner också en längre, sandskorpad rotnande bas.",
+      "flesh": "Köttet är tunt, vitaktigt till gräddfärgat och läderartat till korkartat, mer fibröst i foten. Ingen särpräglad lukt eller smak anges.",
+      "sporePrint": "Sporerna är hyalina, släta och cylindriska till spolformade. Publicerade mått överlappar kring 6–12 × 2,5–4,5 µm; Zhou med flera (2016) anger 8,2–10,1 × 3,2–4,1 µm, och originalbeskrivningen 10–12 × 4 µm. Cystidier saknas. Hyfsystemet är dimitiskt, med söljor på de generativa hyferna.",
+      "habitat": "Den växer vid basen, rötterna och jordstammarna av levande eller döende stäppgräs, däribland fjädergräs (Stipa) och många andra släkten, i torr, vanligen sandig jord på stäpper, torra gräsmarker och mer sällan i gräsrik öppen skog, parker och kustdyner. Om den är parasitisk, perthofytisk eller enbart saprotrof är oklart; lösa hyfer kan också omge levande rötter. Fruktperioden varierar med området: i Tjeckien anges den från maj till november; en bulgarisk källa nämner juni till oktober; tyska källor beskriver fruktkroppar sent på hösten eller tidigt på våren; en insamling i Kazakstan gjordes i slutet av april. Typen beskrevs från höga platåer mellan Tébessa och Bou Chebka, vid basen av levande gräs.",
+      "confusion": "Liknande små, gräddfärgade, skaftade ticksvampar som Polyporus arcularius, Polyporus brumalis och Polyporus tuberaster växer på ved, som kan vara begravd. Denna art känns igen på de små fruktkropparna och på växt på gräsrötter och jordstammar, skenbart borta från träd. Vedlevande, svartfotade släktingar i släktet Picipes är typiskt större och lignikola.",
+      "notes": "En bedömning från 2019 klassar den som Sårbar (Vulnerable), med uppskattningsvis 2500–5000 mogna individer i små, minskande delpopulationer, hotade av förlust och förändring av torr gräsmark. Den är rödlistad i flera europeiska länder. Det trofiska förhållandet till värdgräsen förblir oklart."
+    },
+    "no": {
+      "description": "En liten stilket poresopp fra tørre stepper, xerotherme grasmarker og kystdyner, utbredt fra Nord-Afrika og Europa gjennom det kontinentale Eurasia og også oppgitt fra Nord-Amerika. Fruktlegemene viser seg ved basis av gras og synes ofte å stå på bar jord, borte fra trær.",
+      "cap": "Hatten er typisk 1–4 cm bred, av og til opptil 5 cm. Den er avrundet, først hvelvet, senere flat eller svakt nedtrykt, med en tynn, ofte noe bølget rand som er innrullet i ungdommen. Overflaten er hvitaktig, deretter kremfarget til blekt oker eller gråaktig, glatt eller fint fløyelsaktig, av og til noe rynket eller svært fint skjellkledd.",
+      "hymenium": "Rørene er korte, om lag 1–2 mm lange, hvite, deretter kremfarget til skittent eggeplommegult, og kort til dypt nedløpende. Porene er kantete og uregelmessige, ofte ganske store (om lag 1–4 per millimeter), med tynne vegger.",
+      "stipe": "Stilken er sentral eller eksentrisk, 1–3 cm lang og typisk 0,3–0,6 cm tykk, av og til litt kraftigere. Den er glatt og fast, ofte noe krum, blek som hatten øverst og brun til svartaktig fra basis. Basis kan være noe oppsvulmet og er festet til grasrøtter eller jordstengler; den opprinnelige beskrivelsen nevner også en lengre, sandskorpet rotslående basis.",
+      "flesh": "Kjøttet er tynt, hvitaktig til kremfarget og læraktig til korkaktig, mer fibrøst i stilken. Ingen særegen lukt eller smak er oppgitt.",
+      "sporePrint": "Sporene er hyaline, glatte og sylindriske til tenformede. Publiserte mål overlapper omkring 6–12 × 2,5–4,5 µm; Zhou mfl. (2016) angir 8,2–10,1 × 3,2–4,1 µm, og den opprinnelige beskrivelsen 10–12 × 4 µm. Cystider mangler. Hyfesystemet er dimitisk, med spenner på de generative hyfene.",
+      "habitat": "Den vokser ved basis, røtter og jordstengler av levende eller døende steppegras, deriblant fjærgras (Stipa) og mange andre slekter, i tørr, vanligvis sandholdig jord på stepper, tørt grasland og sjeldnere i grasrik åpen skog, parker og kystdyner. Om den er parasitisk, perthofytisk eller bare saprotrof, er uklart; løse hyfer kan også omgi levende røtter. Fruktiden varierer med området: i Tsjekkia oppgis den fra mai til november; en bulgarsk kilde nevner juni til oktober; tyske kilder beskriver fruktlegemer seint på høsten eller tidlig på våren; en innsamling i Kasakhstan ble gjort sent i april. Typen ble beskrevet fra høye platåer mellom Tébessa og Bou Chebka, ved basis av levende gras.",
+      "confusion": "Lignende små, kremfargede, stilkede poresopper som Polyporus arcularius, Polyporus brumalis og Polyporus tuberaster vokser på ved, som kan være begravd. Denne arten kjennes på de små fruktlegemene og på vekst på grasrøtter og jordstengler, tilsynelatende borte fra trær. Vedboende, svartstilkte slektninger i slekten Picipes er typisk større og lignikole.",
+      "notes": "En vurdering fra 2019 bedømmer den som sårbar (Vulnerable), med anslagsvis 2500–5000 modne individer i små, minkende delbestander, truet av tap og endring av tørt grasland. Den er rødlistet i flere europeiske land. Det trofiske forholdet til vertgraset er fortsatt usikkert."
+    },
+    "fi": {
+      "description": "Pieni jalkainen kääpä kuivilta aroilta, kserotermisiltä niityiltä ja rannikon dyyniltä, levinnyt Pohjois-Afrikasta ja Euroopasta halki mantereisen Euraasian ja ilmoitettu myös Pohjois-Amerikasta. Itiöemät ilmestyvät heinien tyvelle ja näyttävät usein seisovan paljaalla maalla kaukana puista.",
+      "cap": "Lakki on tyypillisesti 1–4 cm leveä, satunnaisesti jopa 5 cm. Se on pyöreähkö, aluksi kupera, myöhemmin tasainen tai hieman painunut, ohut, usein hieman aaltoileva reuna, joka on nuorena sisäänkiertynyt. Pinta on valkeahko, sitten kermanvärinen vaaleanokraan tai harmahtavaan, sileä tai hienon samettinen, toisinaan hieman ryppyinen tai hyvin hienosuomuinen.",
+      "hymenium": "Pillit ovat lyhyitä, noin 1–2 mm pitkiä, valkoisia, sitten kermanvärisiä tai himmeän keltuaisenkeltainen, ja lyhyesti tai syvästi jalkaa myöten johteisia. Huokoset ovat kulmikkaita ja epäsäännöllisiä, usein melko suuria (noin 1–4 millimetriä kohti), ohutseinäisiä.",
+      "stipe": "Jalka on keskinen tai epäkeskinen, 1–3 cm pitkä ja tyypillisesti 0,3–0,6 cm paksu, joskus hieman tanakampi. Se on sileä ja umpinainen, usein hieman kaareva, ylhäältä lakin kaltainen vaalea ja tyvestä ruskea tai mustahko. Tyvi voi olla hieman paksuuntunut ja kiinnittyy heinien juuriin tai rönsyihin; alkuperäinen kuvaus mainitsee myös pitemmän, hiekan peittämän juurehtivan tyven.",
+      "flesh": "Malto on ohut, valkeahko tai kermanvärinen ja nahkamainen tai korkkimainen, jalassa säikeisempi. Erityistä hajua tai makua ei ilmoiteta.",
+      "sporePrint": "Itiöt ovat hyaliinisia, sileitä ja lieriömäisiä tai sukkulamaisia. Julkaistut mitat limittyvät noin 6–12 × 2,5–4,5 µm; Zhou työtovereineen (2016) ilmoittaa 8,2–10,1 × 3,2–4,1 µm ja alkuperäinen kuvaus 10–12 × 4 µm. Kystidejä ei ole. Rihmasto on dimiittinen, ja generatiivisissa rihmoissa sokkia.",
+      "habitat": "Se kasvaa elävien tai kuolevien aroheinien, muun muassa sulkaheinien (Stipa) ja monien muiden sukujen, tyvillä, juurilla ja rönsyillä kuivissa, tavallisesti hiekkaisissa maissa aroilla, kuivilla niityillä ja harvemmin ruohoisissa avoimissa metsissä, puistoissa ja rannikon dyyneillä. Onko se loinen, perthofyytti vai pelkästään saprotrofi, on epäselvää; irtonaiset rihmat voivat ympäröidä myös eläviä juuria. Itiöemien ilmestymisaika vaihtelee alueittain: Tšekissä se on merkitty toukokuusta marraskuuhun; bulgarialainen lähde ilmoittaa kesä–lokakuun; saksalaiset lähteet kuvaavat itiöemiä myöhään syksyllä tai varhain keväällä; Kazakstanissa tehty keruu oli huhtikuun lopussa. Tyyppi kuvattiin Tébessan ja Bou Chebkan välisiltä ylätasangoilta, elävien heinien tyveltä.",
+      "confusion": "Samankaltaiset pienet, kermanväriset, jalkaiset käävät, kuten Polyporus arcularius, Polyporus brumalis ja Polyporus tuberaster, kasvavat puusta, joka voi olla maan peitossa. Tämän lajin erottaa pienistä itiöemistä ja kasvusta heinien juurilla ja rönsyillä, näennäisesti kaukana puista. Picipes-suvun puulla elävät, mustajalkaiset sukulaiset ovat tyypillisesti kookkaampia ja lignikoolisia.",
+      "notes": "Vuoden 2019 arvio luokittelee sen vaarantuneeksi (Vulnerable); kypsiä yksilöitä arvioidaan olevan 2500–5000 pienissä, taantuvissa osapopulaatioissa, joita uhkaa kuivan niityn katoaminen ja muuttuminen. Se on monien Euroopan maiden punaisilla listoilla. Ravintosuhde isäntäheiniin on yhä epävarma."
+    },
+    "et": {
+      "description": "Väike jalaga torik seen kuivadelt steppidelt, kserotermsetelt rohumaadelt ja rannikuluitedelt, levinud Põhja-Aafrikast ja Euroopast üle mandrilise Euraasia ning teada ka Põhja-Ameerikast. Viljakehad ilmuvad kõrreliste alusele ja näivad sageli seisvat paljal mullal, puude eest eemal.",
+      "cap": "Kübar on tüüpiliselt 1–4 cm lai, vahel kuni 5 cm. See on ümar, algul kumer, hiljem lame või veidi sissevajunud, peene, sageli veidi lainelise servaga, mis noorelt on sissekäänud. Pind on valkjas, seejärel kreemikas kuni kahvatult ookerjas või hallikas, sile või peenelt sametine, mõnikord veidi kortsuline või väga peenelt soomuseline.",
+      "hymenium": "Torukesed on lühikesed, umbes 1–2 mm pikkused, valged, seejärel kreemikad kuni tuhmilt munakollased, ning lühidalt kuni sügavalt jalgamööda laskuvad. Poorid on nurgelised ja ebakorrapärased, sageli üsna suured (umbes 1–4 millimeetri kohta), õhukeste seintega.",
+      "stipe": "Jalg on keskmine või ekstsentriline, 1–3 cm pikk ja tüüpiliselt 0,3–0,6 cm jäme, vahel veidi jämedam. See on sile ja täis, sageli veidi kaarjas, ülevalt kübaraga sarnaselt hele ning aluselt pruun kuni mustjas. Alus võib olla veidi paksenenud ja kinnitub kõrreliste juurtele või risoomidele; esialgne kirjeldus mainib ka pikemat, liivaga kaetud juurduvat alust.",
+      "flesh": "Seeneliha on õhuke, valkjas kuni kreemikas ning nahkjas kuni korgitaoline, jalas kiulisem. Iseloomulikku lõhna ega maitset ei ole märgitud.",
+      "sporePrint": "Eosed on hüaliinsed, siledad ning silinderjad kuni fusiformsed. Avaldatud mõõtmed kattuvad umbes 6–12 × 2,5–4,5 µm; Zhou jt (2016) annavad 8,2–10,1 × 3,2–4,1 µm ja esialgne kirjeldus 10–12 × 4 µm. Tsüstiide ei ole. Hüüfisüsteem on dimiitne, kinnistega generatiivsetel hüüfidel.",
+      "habitat": "Ta kasvab elavate või surevate stepikõrreliste, sealhulgas sulgheinade (Stipa) ja paljude teiste perekondade, alustel, juurtel ja risoomidel kuivades, tavaliselt liivastes muldades steppidel, kuivadel rohumaadel ja harvem rohtunud hõredas metsas, parkides ja rannikuluitedel. Kas ta on parasiit, perthofüüt või üksnes saprotroof, ei ole selge; hõredad hüüfid võivad ümbritseda ka elavaid juuri. Viljumisaeg erineb piirkonniti: Tšehhis on teda märgitud maist novembrini; Bulgaaria allikas nimetab juunist oktoobrini; Saksa allikad kirjeldavad viljakehi hilissügisel või varakevadel; Kasahstanis tehtud korje oli aprilli lõpus. Tüüp kirjeldati kõrgetelt platoodelt Tébessa ja Bou Chebka vahel, elavate kõrreliste alustelt.",
+      "confusion": "Sarnased väikesed, kreemikad, jalaga torikseened, nagu Polyporus arcularius, Polyporus brumalis ja Polyporus tuberaster, kasvavad puidul, mis võib olla maetud. Seda liiki eristavad väikesed viljakehad ja kasv kõrreliste juurtel ja risoomidel, näiliselt puude eest eemal. Picipes'e perekonna puidul elavad mustajaolised sugulased on tüüpiliselt suuremad ja lignikoolsed.",
+      "notes": "2019. aasta hinnang liigitab ta ohualtiks (Vulnerable), hinnanguliselt 2500–5000 täiskasvanud isendiga väikestes, kahanevates osapopulatsioonides, mida ohustab kuiva rohumaade kadu ja muutumine. Ta on mitme Euroopa riigi punasel nimestikus. Troofiline suhe peremeeskõrrelistega jääb ebaselgeks."
+    },
+    "hu": {
+      "description": "Kis termetű, tönkös likacsosgomba száraz sztyeppékről, xerotherm gyepekről és parti dűnékről, Észak-Afrikától és Európától a kontinentális Eurázsián át elterjedt, és Észak-Amerikából is jelezték. A termőtestek a fűfélék tövénél jelennek meg, és gyakran úgy tűnik, mintha csupasz talajon, fáktól távol állnának.",
+      "cap": "A kalap tipikusan 1–4 cm széles, alkalmanként akár 5 cm. Kerekded, eleinte domború, később lapos vagy kissé benyomott, vékony, gyakran kissé hullámos széllel, amely fiatalon begöngyölt. A felszín fehéres, majd krémszínű, halvány okkeres vagy szürkés, sima vagy finoman bársonyos, néha kissé ráncos vagy nagyon finoman pikkelyes.",
+      "hymenium": "A csövek rövidek, körülbelül 1–2 mm hosszúak, fehérek, majd krémszínűek a piszkos sárgája-sárgáig, és röviden vagy mélyen lefutók. A pórusok szögletesek és szabálytalanok, gyakran meglehetősen tágak (kb. 1–4 milliméterenként), vékony falúak.",
+      "stipe": "A tönk középső vagy excentrikus, 1–3 cm hosszú és tipikusan 0,3–0,6 cm vastag, néha kicsit vaskosabb. Sima és tömör, gyakran kissé hajlott, felül a kalaphoz hasonlóan sápadt, a tövétől barnás vagy feketés. A tő kissé duzzadt lehet, és a fűfélék gyökereihez vagy rizómáihoz kapcsolódik; az eredeti leírás hosszabb, homokkal borított, gyökerező tőről is szól.",
+      "flesh": "A hús vékony, fehéres vagy krémszínű, és bőrszerű vagy parafaszerű, a tönkben rostosabb. Jellegzetes szagot vagy ízt nem említenek.",
+      "sporePrint": "A spórák hialinok, simák és hengeresek vagy orsó alakúak. A közölt méretek körülbelül 6–12 × 2,5–4,5 µm körül átfednek; Zhou és munkatársai (2016) 8,2–10,1 × 3,2–4,1 µm-t adnak meg, az eredeti leírás 10–12 × 4 µm-t. Cisztidiumok nincsenek. A hifarendszer dimitikus, a generatív hifákon csatokkal.",
+      "habitat": "Élő vagy pusztuló sztyeppei fűfélék, köztük árvalányhajfélék (Stipa) és sok más nemzetség tövén, gyökerén és rizómáján nő, száraz, általában homokos talajokon, sztyeppéken, száraz gyepeken, ritkábban füves, nyílt erdőkben, parkokban és parti dűnéken. Hogy parazita, perthofita vagy csupán szaprotróf, nem világos; laza hifák élő gyökereket is körülvehetnek. A termőidő tájanként változik: Csehországban májustól novemberig jegyezték; egy bolgár forrás júniustól októberig említi; német források késő őszi vagy kora tavaszi termőtestekről írnak; egy kazahsztáni gyűjtés április végén történt. A típust a Tébessa és Bou Chebka közötti fennsíkokról írták le, élő fűfélék tövén.",
+      "confusion": "Hasonló kis, krémszínű, tönkös likacsosgombák, például a Polyporus arcularius, a Polyporus brumalis és a Polyporus tuberaster fán nőnek, amely el is temetődhet. Ezt a fajt a kis termőtestek és a fűfélék gyökerén, rizómáján – látszólag fáktól távol – való növekedés különbözteti meg. A Picipes nemzetség faanyagon élő, fekete tönkű rokonai tipikusan nagyobbak és lignikolok.",
+      "notes": "Egy 2019-es értékelés sebezhetőnek (Vulnerable) minősíti, becslés szerint 2500–5000 érett egyeddel kis, csökkenő részpopulációkban, amelyeket a száraz gyepek elvesztése és átalakulása veszélyeztet. Több európai ország vörös listáján szerepel. A gazdanövény fűfélékkel való trofikus kapcsolat továbbra is bizonytalan."
+    },
+    "ro": {
+      "description": "Un polipor stipitat de talie mică al stepelor uscate, pajiștilor xeroterme și dunelor litorale, răspândit din Africa de Nord și Europa prin Eurasia continentală și semnalat și din America de Nord. Corpurile de fructificare apar la baza gramineelor și par adesea să stea pe sol gol, departe de arbori.",
+      "cap": "Pălăria are de obicei 1–4 cm în diametru, ocazional până la 5 cm. Este rotunjită, la început convexă, apoi plană sau ușor deprimată, cu o margine subțire, adesea ușor ondulată, involută la exemplarele tinere. Suprafața este albicioasă, apoi crem până la ocru pal sau cenușie, netedă sau fin catifelată, uneori ușor zbârcită sau foarte fin solzoasă.",
+      "hymenium": "Tuburile sunt scurte, de circa 1–2 mm lungime, albe, apoi crem până la galben-gălbui murdar, și decurente scurt până profund. Porii sunt unghiulari și neregulați, adesea destul de largi (circa 1–4 pe milimetru), cu pereți subțiri.",
+      "stipe": "Piciorul este central sau excentric, lung de 1–3 cm și de obicei gros de 0,3–0,6 cm, uneori puțin mai robust. Este neted și plin, adesea ușor curbat, palid ca pălăria în partea superioară și brun până la negricios de la bază. Baza poate fi ușor umflată și este prinsă de rădăcinile sau rizomii gramineelor; descrierea originală menționează și o bază radicantă mai lungă, incrustată cu nisip.",
+      "flesh": "Carnea este subțire, albicioasă până la crem, și coriacee până la suberoasă, mai fibroasă în picior. Nu se indică un miros sau un gust distinctiv.",
+      "sporePrint": "Sporii sunt hialini, netezi și cilindrici până la fusiformi. Măsurătorile publicate se suprapun în jurul valorilor 6–12 × 2,5–4,5 µm; Zhou și colaboratorii (2016) dau 8,2–10,1 × 3,2–4,1 µm, iar descrierea originală 10–12 × 4 µm. Cistidele lipsesc. Sistemul hifal este dimitic, cu hife generative fibulate.",
+      "habitat": "Crește la baza, pe rădăcinile și rizomii gramineelor de stepă vii sau pe cale de uscare, inclusiv Stipa și multe alte genuri, în soluri uscate, de obicei nisipoase, de stepă, pajiști uscate și, mai rar, în păduri deschise ierboase, parcuri și dune litorale. Dacă este parazit, pertofit sau doar saprotrof nu este clar; hifele libere pot înconjura și rădăcini vii. Perioadele de fructificare variază după regiune: în Cehia este citat din mai până în noiembrie; o sursă bulgară indică iunie–octombrie; sursele germane descriu corpuri de fructificare toamna târziu sau primăvara devreme; o recoltă din Kazahstan a fost făcută la sfârșitul lunii aprilie. Tipul a fost descris de pe platourile înalte dintre Tébessa și Bou Chebka, la baza gramineelor vii.",
+      "confusion": "Polipori stipitați mici, de culoare crem, asemănători, precum Polyporus arcularius, Polyporus brumalis și Polyporus tuberaster, cresc pe lemn, care poate fi îngropat. Această specie se deosebește prin corpurile de fructificare mici și prin creșterea pe rădăcinile și rizomii gramineelor, aparent departe de arbori. Rudele cu picior negricios și habitat lignicol din genul Picipes sunt de obicei mai mari și lignicole.",
+      "notes": "O evaluare din 2019 o clasează ca Vulnerabilă (Vulnerable), cu o estimare de 2500–5000 de indivizi maturi în subpopulații mici, în declin, amenințate de pierderea și transformarea pajiștilor uscate. Figurează pe listele roșii ale mai multor țări europene. Relația trofică cu gramineele gazdă rămâne incertă."
+    },
+    "bg": {
+      "description": "Малка пънчеста тръбеста гъба на сухи степи, ксеротермни тревни съобщества и крайбрежни дюни, разпространена от Северна Африка и Европа през континентална Евразия и посочвана също от Северна Америка. Плодните тела се появяват в основата на тревите и често изглеждат сякаш стоят на гола почва, далеч от дървета.",
+      "cap": "Гуглата е обикновено 1–4 cm широка, понякога до 5 cm. Тя е закръглена, отначало изпъкнала, по-късно плоска или леко вдлъбната, с тънък, често леко вълнист ръб, който в младост е подвит. Повърхността е белезникава, после кремава до бледо охра или сивкава, гладка или фино кадифена, понякога леко набръчкана или много фино люспеста.",
+      "hymenium": "Тръбичките са къси, около 1–2 mm дълги, бели, после кремави до мръсно жълтъчножълти, и късо до дълбоко низбягващи. Порите са ъгловати и неправилни, често доста едри (около 1–4 на милиметър), с тънки стени.",
+      "stipe": "Пънчето е централно или ексцентрично, 1–3 cm дълго и обикновено 0,3–0,6 cm дебело, понякога малко по-дебело. То е гладко и плътно, често леко извито, бледо като гуглата горе и кафяво до черникаво от основата. Основата може да е леко подута и е прикрепена към корени или коренища на треви; първоописанието споменава и по-дълга, обвита с пясък вкореняваща се основа.",
+      "flesh": "Месото е тънко, белезникаво до кремаво и жилаво до коркоподобно, в пънчето по-влакнесто. Не се посочва отличителна миризма или вкус.",
+      "sporePrint": "Спорите са хиалинни, гладки и цилиндрични до вретеновидни. Публикуваните размери се припокриват около 6–12 × 2,5–4,5 µm; Zhou и сътр. (2016) дават 8,2–10,1 × 3,2–4,1 µm, а първоописанието — 10–12 × 4 µm. Цистиди липсват. Хифната система е димитична, със скоби на генеративните хифи.",
+      "habitat": "Расте в основите, корените и коренищата на живи или загиващи степни треви, включително коило (Stipa) и много други родове, в сухи, обикновено песъчливи почви на степи, сухи тревни съобщества и по-рядко в тревисти светли гори, паркове и крайбрежни дюни. Дали е паразитна, пертофитна или само сапротрофна, не е ясно; свободни хифи могат да обгръщат и живи корени. Времето на плодоношение се различава по райони: в Чехия се посочва от май до ноември; български данни дават юни–октомври; немски източници описват плодни тела късно през есента или рано напролет; сбор в Казахстан е направен в края на април. Типът е описан от високи плата между Тебеса и Бу Шебка, в основата на живи треви.",
+      "confusion": "Подобни малки, кремави, пънчести тръбести гъби като Polyporus arcularius, Polyporus brumalis и Polyporus tuberaster растат от дървесина, която може да е заровена. Този вид се отличава с малките плодни тела и с растежа върху корени и коренища на треви, привидно далеч от дървета. Дървесноживеещите, черно пънчести роднини в род Picipes са обикновено по-едри и лигниколни.",
+      "notes": "Оценка от 2019 г. го определя като уязвим (Vulnerable), с около 2500–5000 зрели индивида в малки, намаляващи субпопулации, застрашени от загуба и промяна на сухите тревни съобщества. Включен е в червените списъци на няколко европейски държави. Трофичната връзка с гостоприемните треви остава неясна."
+    },
+    "hr": {
+      "description": "Mala stručkasta rupičava gljiva suhih stepa, kserotermnih travnjaka i obalnih dina, rasprostranjena od sjeverne Afrike i Europe kroz kontinentalnu Euroaziju i navođena i iz Sjeverne Amerike. Plodna tijela pojavljuju se pri dnu trava i često izgledaju kao da stoje na golu tlu, podalje od stabala.",
+      "cap": "Klobuk je tipično 1–4 cm širok, ponekad do 5 cm. Zaobljen je, najprije ispupčen, poslije ravan ili malo udubljen, s tankim, često malo valovitim rubom koji je u mladosti podvinut. Površina je bjelkasta, zatim krem do blijedo okrasta ili sivkasta, glatka ili fino baršunasta, katkad malo naborana ili vrlo fino ljuskava.",
+      "hymenium": "Cjevčice su kratke, oko 1–2 mm duge, bijele, zatim krem do prljavo žumanjčasto žute, i kratko do duboko silazne. Pore su uglate i nepravilne, često prilično široke (oko 1–4 po milimetru), tankih stijenki.",
+      "stipe": "Stručak je središnji ili ekscentričan, 1–3 cm dug i tipično 0,3–0,6 cm debel, ponekad malo deblji. Gladak je i pun, često malo savijen, blijed kao klobuk gore i smeđ do crnkast od osnove. Osnova može biti malo zadebljala i pričvršćena je na korijenje ili rizome trava; izvorni opis spominje i dulju, pijeskom obloženu korijenajuću osnovu.",
+      "flesh": "Meso je tanko, bjelkasto do krem i kožnato do plutenasto, u stručku vlaknastije. Nije naveden osobit miris ni okus.",
+      "sporePrint": "Spore su hijaline, glatke i cilindrične do vretenaste. Objavljene mjere preklapaju se oko 6–12 × 2,5–4,5 µm; Zhou i sur. (2016) navode 8,2–10,1 × 3,2–4,1 µm, a izvorni opis 10–12 × 4 µm. Cistida nema. Hifni sustav je dimitičan, s kopčama na generativnim hifama.",
+      "habitat": "Raste na osnovama, korijenju i rizomima živih ili umirućih stepskih trava, uključujući kovilje (Stipa) i mnoge druge rodove, u suhim, obično pjeskovitim tlima stepa, suhih travnjaka te rjeđe u travnatim svijetlim šumama, parkovima i na obalnim dinama. Je li parazitska, pertofitna ili samo saprotrofna, nije jasno; slobodne hife mogu okruživati i živo korijenje. Vrijeme plodonošenja razlikuje se po područjima: u Češkoj se navodi od svibnja do studenoga; bugarski izvor daje lipanj do listopada; njemački izvori opisuju plodna tijela kasne jeseni ili ranog proljeća; nalaz u Kazahstanu učinjen je krajem travnja. Tip je opisan s visokih visoravni između Tébesse i Bou Chebke, pri dnu živih trava.",
+      "confusion": "Slične male, krem, stručkaste rupičave gljive kao što su Polyporus arcularius, Polyporus brumalis i Polyporus tuberaster rastu iz drva, koje može biti zakopano. Ovu vrstu odlikuju mala plodna tijela i rast na korijenju i rizomima trava, naizgled podalje od stabala. Drvne, crnostručkaste srodnice u rodu Picipes tipično su veće i lignikolne.",
+      "notes": "Procjena iz 2019. svrstava je kao ranjivu (Vulnerable), s procijenjenih 2500–5000 zrelih jedinki u malim, opadajućim subpopulacijama, ugroženima gubitkom i promjenom suhih travnjaka. Na crvenim je popisima nekoliko europskih zemalja. Trofički odnos prema trava-domaćinima ostaje neizvjestan."
+    },
+    "sr": {
+      "description": "Мала дршкаста рупичава гљива сувих степа, ксеротермних травњака и обалских дина, распрострањена од северне Африке и Европе кроз континенталну Евроазију и навођена и из Северне Америке. Плодна тела појављују се при дну трава и често изгледају као да стоје на голом тлу, далеко од стабала.",
+      "cap": "Шешир је типично 1–4 cm широк, понекад до 5 cm. Заобљен је, најпре испупчен, потом раван или мало удубљен, с танким, често мало таласастим рубом који је у младости подвијен. Површина је беличаста, затим крем до бледо окер или сивкаста, глатка или фино баршунаста, каткад мало наборана или врло фино љускава.",
+      "hymenium": "Цевчице су кратке, око 1–2 mm дуге, беле, затим крем до прљаво жуманчасто жуте, и кратко до дубоко силазне. Поре су угласте и неправилне, често прилично широке (око 1–4 по милиметру), танких зидова.",
+      "stipe": "Дршка је средишња или ексцентрична, 1–3 cm дуга и типично 0,3–0,6 cm дебела, понекад мало дебља. Глатка је и пуна, често мало савијена, бледа као шешир горе и смеђа до црнкаста од основе. Основа може бити мало задебљала и причвршћена је за корење или ризоме трава; изворни опис помиње и дужу, песком обложену коренајућу основу.",
+      "flesh": "Месо је танко, беличасто до крем и кожнато до плутасто, у дршци влакнастије. Није наведен особит мирис ни укус.",
+      "sporePrint": "Споре су хијалине, глатке и цилиндричне до вретенасте. Објављене мере преклапају се око 6–12 × 2,5–4,5 µm; Zhou и сар. (2016) наводе 8,2–10,1 × 3,2–4,1 µm, а изворни опис 10–12 × 4 µm. Цистида нема. Хифни систем је димитичан, с копчама на генеративним хифама.",
+      "habitat": "Расте на основама, корењу и ризомима живих или умирућих степских трава, укључујући ковиље (Stipa) и многе друге родове, у сувим, обично песковитим земљиштима степа, сувих травњака и ређе у травнатим светлим шумама, парковима и на обалским динама. Да ли је паразитска, пертофитна или само сапротрофна, није јасно; слободне хифе могу окруживати и живо корење. Време плодоношења разликује се по подручјима: у Чешкој се наводи од маја до новембра; бугарски извор даје јун до октобар; немачки извори описују плодна тела касне јесени или раног пролећа; налаз у Казахстану учињен је крајем априла. Тип је описан са високих висоравни између Тебесе и Бу Шебке, при дну живих трава.",
+      "confusion": "Сличне мале, крем, дршкасте рупичаве гљиве као што су Polyporus arcularius, Polyporus brumalis и Polyporus tuberaster расту из дрвета, које може бити закопано. Ову врсту одликују мала плодна тела и раст на корењу и ризомима трава, наизглед далеко од стабала. Дрвне, црнодршене сроднице у роду Picipes типично су веће и лигниколне.",
+      "notes": "Процена из 2019. сврстава је као рањиву (Vulnerable), с процењених 2500–5000 зрелих јединки у малим, опадајућим субпопулацијама, угроженима губитком и променом сувих травњака. На црвеним је списковима неколико европских земаља. Трофички однос према травама домаћинима остаје неизвестан."
+    },
+    "sl": {
+      "description": "Majhna betasta cevarka suhih step, kserotermnih travišč in obalnih sipin, razširjena od severne Afrike in Evrope prek celinske Evrazije in navedena tudi iz Severne Amerike. Trosišča se pojavljajo pri dnu trav in pogosto zgledajo, kakor da stojijo na golih tleh, stran od dreves.",
+      "cap": "Klobuk je tipično 1–4 cm širok, občasno do 5 cm. Zaokrožen je, najprej izbočen, pozneje raven ali rahlo vdrt, s tankim, pogosto rahlo valovitim robom, ki je v mladosti podvit. Površina je belkasta, nato kremasta do bledo okrasta ali sivkasta, gladka ali fino žametasta, včasih rahlo nagubana ali zelo fino luskasta.",
+      "hymenium": "Cevke so kratke, približno 1–2 mm dolge, bele, nato kremaste do umazano rumenjakasto rumene, in kratko do globoko pojemajoče. Pore so kotne in nepravilne, pogosto precej široke (približno 1–4 na milimeter), s tankimi stenami.",
+      "stipe": "Bet je osrednji ali ekscentričen, 1–3 cm dolg in tipično 0,3–0,6 cm debel, včasih malo debelejši. Gladak je in poln, pogosto rahlo ukrivljen, bled kot klobuk zgoraj in rjav do črnikast od dna. Dno je lahko rahlo zadebeljeno in je pritrjeno na korenine ali korenike trav; izvirni opis omenja tudi daljše, s peskom obdano koreneče dno.",
+      "flesh": "Meso je tanko, belkasto do kremasto in usnjato do plutasto, v betu bolj vlaknato. Značilnega vonja ali okusa ni navedenega.",
+      "sporePrint": "Trosi so hialini, gladki in valjasti do vretenasti. Objavljene mere se prekrivajo okoli 6–12 × 2,5–4,5 µm; Zhou in sod. (2016) navajajo 8,2–10,1 × 3,2–4,1 µm, izvirni opis pa 10–12 × 4 µm. Cistid ni. Hifni sistem je dimitičen, s sponkami na generativnih hifah.",
+      "habitat": "Raste na dnu, koreninah in korenikah živih ali odmirajočih stepskih trav, vključno s koviljem (Stipa) in številnimi drugimi rodovi, v suhih, običajno peščenih tleh step, suhih travišč in redkeje v travnatih svetlih gozdovih, parkih in na obalnih sipinah. Ali je parazitska, pertofitna ali le saprotrofna, ni jasno; proste hife lahko obdajajo tudi žive korenine. Čas trosnjenja se razlikuje po območjih: na Češkem jo navajajo od maja do novembra; bolgarski vir navaja junij do oktober; nemški viri opisujejo trosišča pozno jeseni ali zgodaj spomladi; najdba v Kazahstanu je bila opravljena konec aprila. Tip je bil opisan z visokih planot med Tébesso in Bou Chebko, pri dnu živih trav.",
+      "confusion": "Podobne majhne, kremaste, betaste cevarke, kot so Polyporus arcularius, Polyporus brumalis in Polyporus tuberaster, rastejo iz lesa, ki je lahko zakopan. To vrsto ločijo majhna trosišča in rast na koreninah in korenikah trav, navidezno stran od dreves. Lesne, črnobeljne sorodnice v rodu Picipes so tipično večje in lignikolne.",
+      "notes": "Ocena iz leta 2019 jo uvršča med ranljive (Vulnerable), z ocenjenimi 2500–5000 zrelimi osebki v majhnih, upadajočih podpopulacijah, ki jih ogrožata izguba in spreminjanje suhih travišč. Na rdečih seznamih je v več evropskih državah. Trofično razmerje z gostiteljskimi travami ostaja negotovo."
+    },
+    "lt": {
+      "description": "Mažas kotuotas, vamzdelinis grybas sausų stepių, kseroterminių pievų ir pajūrio kopų, paplitęs nuo Šiaurės Afrikos ir Europos per žemyninę Euraziją ir nurodomas ir iš Šiaurės Amerikos. Vaisiakūniai atsiranda prie žolių pamato ir dažnai atrodo tarsi stovintys ant plikos dirvos, atokiau nuo medžių.",
+      "cap": "Kepurėlė paprastai būna 1–4 cm pločio, kartais iki 5 cm. Ji apskrita, iš pradžių iškila, vėliau plokščia arba truputį įdubusi, su plonu, dažnai šiek tiek banguotu kraštu, kuris jaunystėje būna užsirietęs. Paviršius balsvas, paskui kreminis iki blyškiai ochrinio arba pilkšvas, lygus arba smulkiai aksominis, kartais šiek tiek raukšlėtas arba labai smulkiai žvynuotas.",
+      "hymenium": "Vamzdeliai trumpi, apie 1–2 mm ilgio, balti, paskui kreminiai iki purvinai trynio geltonumo, ir trumpai arba giliai nuaugantys kotu. Poros kampuotos ir netaisyklingos, dažnai gana didelės (apie 1–4 milimetre), plonasienės.",
+      "stipe": "Kotas centrinis arba ekscentrinis, 1–3 cm ilgio ir paprastai 0,3–0,6 cm storio, kartais šiek tiek storesnis. Jis lygus ir vientisas, dažnai šiek tiek lenktas, viršuje blyškus kaip kepurėlė, o nuo pamato rudas iki juosvas. Pamatas gali būti šiek tiek pastorėjęs ir prisitvirtinęs prie žolių šaknų ar šakniastiebių; pirmasis aprašymas mini ir ilgesnį, smėliu apkibusi įsišaknijantį pamatą.",
+      "flesh": "Trama plona, balsva iki kreminės ir odiška iki kamštiška, kote plaušingesnė. Ryškesnis kvapas ar skonis nenurodomi.",
+      "sporePrint": "Sporos hialininės, lygios ir cilindriškos iki verpstiškų. Paskelbti matmenys persidengia apie 6–12 × 2,5–4,5 µm; Zhou ir kt. (2016) nurodo 8,2–10,1 × 3,2–4,1 µm, o pirmasis aprašymas — 10–12 × 4 µm. Cistidžių nėra. Hifų sistema dimitinė, su sagtimis ant generatyvinių hifų.",
+      "habitat": "Auga ant gyvų ar nykstančių stepių žolių, įskaitant kovylius (Stipa) ir daugelį kitų genčių, pamatų, šaknų ir šakniastiebių sausose, paprastai smėlingose stepinių, sausų pievų ir rečiau žolėtų šviesių miškų, parkų bei pajūrio kopų dirvose. Ar jis parazitinis, pertofitinis, ar tik saprotrofinis, neaišku; palaidos hifos gali apsupti ir gyvas šaknis. Derėjimo laikas skiriasi pagal sritį: Čekijoje nurodomas nuo gegužės iki lapkričio; bulgarų šaltinis mini birželį–spalį; vokiečių šaltiniai aprašo vaisiakūnius vėlyvą rudenį arba ankstyvą pavasarį; rinkinys Kazachstane padarytas balandžio pabaigoje. Tipas aprašytas nuo aukštumų plokščiakalnių tarp Tebesos ir Bou Chebkos, prie gyvų žolių pamato.",
+      "confusion": "Panašūs maži, kreminiai, kotuoti vamzdeliniai grybai, tokie kaip Polyporus arcularius, Polyporus brumalis ir Polyporus tuberaster, auga iš medienos, kuri gali būti užkasta. Šią rūšį skiria maži vaisiakūniai ir augimas ant žolių šaknų bei šakniastiebių, tariamai atokiau nuo medžių. Medienoje gyvenantys, juodakčiai giminaičiai iš genties Picipes paprastai yra didesni ir lignikoliniai.",
+      "notes": "2019 m. vertinimas priskiria ją pažeidžiamoms (Vulnerable), su apytiksliai 2500–5000 brandžių individų mažose, mažėjančiose subpopuliacijose, kurias kelia grėsmę sausų pievų nykimas ir kaita. Ji yra kelių Europos šalių raudonuosiuose sąrašuose. Trofinis ryšys su šeimininkėmis žolėmis lieka neaiškus."
+    },
+    "lv": {
+      "description": "Neliela kātaina poru sēne sausām stepēm, kserotermām pļavām un piekrastes kāpām, izplatīta no Ziemeļāfrikas un Eiropas cauri kontinentālajai Eirāzijai un norādīta arī no Ziemeļamerikas. Augļķermeņi parādās zāļu pamatnē un bieži izskatās, it kā stāvētu uz kailas augsnes, tālu no kokiem.",
+      "cap": "Cepurīte parasti ir 1–4 cm plata, reizēm līdz 5 cm. Tā ir noapaļota, sākumā izliekta, vēlāk plakana vai nedaudz ieliekta, ar plānu, bieži nedaudz viļņotu malu, kas jaunībā ir ieritināta. Virsma ir bālgana, pēc tam krēmkrāsas līdz bāli okraina vai pelēcīga, gluda vai sīki samtaina, dažkārt nedaudz saburzīta vai ļoti sīki zvīņaina.",
+      "hymenium": "Stobriņi ir īsi, ap 1–2 mm gari, balti, pēc tam krēmkrāsas līdz netīri dzeltenuma dzelteni, un īsi līdz dziļi nolaideni pa kātiņu. Poras ir stūrainas un neregulāras, bieži diezgan lielas (ap 1–4 uz milimetru), ar plānām sieniņām.",
+      "stipe": "Kātiņš ir centrāls vai ekscentrisks, 1–3 cm garš un parasti 0,3–0,6 cm resns, dažkārt nedaudz resnāks. Tas ir gluds un masīvs, bieži nedaudz locīts, augšdaļā bāls kā cepurīte un no pamatnes brūns līdz melnīgs. Pamatne var būt nedaudz uzpampusi un ir piestiprināta pie zāļu saknēm vai rhizomām; sākotnējais apraksts min arī garāku, ar smiltīm apklātu iesakņojošu pamatni.",
+      "flesh": "Mīkstums ir plāns, bālgans līdz krēmkrāsas un ādains līdz korķains, kātiņā šķiedraināks. Īpaša smarža vai garša nav norādīta.",
+      "sporePrint": "Sporas ir hialīnas, gludas un cilindriskas līdz vārpstveida. Publicētie izmēri pārklājas ap 6–12 × 2,5–4,5 µm; Zhou un līdzautori (2016) norāda 8,2–10,1 × 3,2–4,1 µm, bet sākotnējais apraksts — 10–12 × 4 µm. Cistīdu nav. Hifu sistēma ir dimītiska, ar sprādzēm uz ģeneratīvajām hifām.",
+      "habitat": "Aug uz dzīvu vai atmirstošu stepi zāļu, tostarp visgarā (Stipa) un daudzu citu ģinšu, pamatnēm, saknēm un rhizomām sausās, parasti smilšainās augsnēs stepēs, sausās pļavās un retāk zāļainos gaišos mežos, parkos un piekrastes kāpās. Vai tā ir parazītiska, pertofitiska vai tikai saprotrofa, nav skaidrs; brīvas hifas var apņemt arī dzīvas saknes. Augļošanās laiks atšķiras pēc apgabala: Čehijā to norāda no maija līdz novembrim; bulgāru avots min jūniju–oktobri; vācu avoti apraksta augļķermeņus vēlā rudenī vai agrā pavasarī; ievākums Kazahstānā izdarīts aprīļa beigās. Tips aprakstīts no augstiem plato starp Tebesu un Bou Šebku, pie dzīvu zāļu pamatnes.",
+      "confusion": "Līdzīgas nelielas, krēmkrāsas, kātainas poru sēnes, piemēram, Polyporus arcularius, Polyporus brumalis un Polyporus tuberaster, aug no koksnes, kas var būt aprakta. Šo sugu atšķir mazi augļķermeņi un augšana uz zāļu saknēm un rhizomām, it kā tālu no kokiem. Koksnes, tumškāta radinieki ģintī Picipes parasti ir lielāki un lignikoli.",
+      "notes": "2019. gada novērtējums to klasificē kā ievainojamu (Vulnerable), ar aptuveni 2500–5000 pieaugušiem īpatņiem nelielās, samazinošās apakšpopulācijās, ko apdraud sauso pļavu zudums un pārveidošanās. Tā ir iekļauta vairāku Eiropas valstu sarkanajos sarakstos. Trofiskā saistība ar saimniekzālēm paliek neskaidra."
+    },
+    "ru": {
+      "description": "Небольшой ножковый трутовик сухих степей, ксеротермных лугов и прибрежных дюн, распространённый от Северной Африки и Европы через континентальную Евразию и указываемый также из Северной Америки. Плодовые тела появляются у оснований злаков и часто кажутся стоящими на голой почве, вдали от деревьев.",
+      "cap": "Шляпка обычно 1–4 cm в поперечнике, иногда до 5 cm. Она округлая, сначала выпуклая, позднее плоская или слегка вдавленная, с тонким, часто слегка волнистым краем, который в молодости подвёрнут. Поверхность беловатая, затем кремовая до бледно-охристой или сероватая, гладкая или тонко бархатистая, иногда слегка морщинистая или очень мелко чешуйчатая.",
+      "hymenium": "Трубочки короткие, около 1–2 мм длиной, белые, затем кремовые до грязновато-желточных, коротко или глубоко низбегающие. Поры угловатые и неправильные, часто довольно крупные (около 1–4 на миллиметр), с тонкими стенками.",
+      "stipe": "Ножка центральная или эксцентрическая, 1–3 cm длиной и обычно 0,3–0,6 cm толщиной, иногда немного толще. Она гладкая и сплошная, часто слегка изогнутая, сверху бледная, как шляпка, и от основания коричневая до черноватой. Основание может быть слегка вздутым и прикреплено к корням или корневищам злаков; в первоописании упоминается также более длинное, покрытое песком укореняющееся основание.",
+      "flesh": "Мякоть тонкая, беловатая до кремовой, кожистая до пробковой, в ножке более волокнистая. Отчётливый запах или вкус не указываются.",
+      "sporePrint": "Споры гиалиновые, гладкие и цилиндрические до веретеновидных. Опубликованные размеры перекрываются около 6–12 × 2,5–4,5 µm; Чжоу и соавторы (2016) дают 8,2–10,1 × 3,2–4,1 µm, а первоописание — 10–12 × 4 µm. Цистид нет. Гифальная система димитическая, с пряжками на генеративных гифах.",
+      "habitat": "Растёт у оснований, на корнях и корневищах живых или отмирающих степных злаков, включая ковыли (Stipa) и многие другие роды, на сухих, обычно песчаных почвах степей, сухих лугов и реже в травянистых светлых лесах, парках и на прибрежных дюнах. Паразит ли это, пертофит или просто сапротроф, неясно; свободные гифы могут окружать и живые корни. Сроки плодоношения различаются по регионам: в Чехии его указывают с мая по ноябрь; болгарские данные дают июнь–октябрь; немецкие источники описывают плодовые тела поздней осенью или ранней весной; сбор в Казахстане сделан в конце апреля. Тип описан с высоких плато между Тебессой и Бу-Шебкой, у оснований живых злаков.",
+      "confusion": "Сходные небольшие кремовые ножковые трутовики, такие как Polyporus arcularius, Polyporus brumalis и Polyporus tuberaster, растут из древесины, которая может быть погребена. Этот вид отличается мелкими плодовыми телами и ростом на корнях и корневищах злаков, по-видимому вдали от деревьев. Древесные, черноножковые родственники в роде Picipes обычно крупнее и лигникольны.",
+      "notes": "Оценка 2019 года относит его к уязвимым (Vulnerable), с примерно 2500–5000 взрослыми особями в небольших, сокращающихся субпопуляциях, которым угрожают утрата и изменение сухих лугов. Он внесён в красные списки нескольких европейских стран. Трофическая связь с растениями-хозяевами остаётся неясной."
+    },
+    "uk": {
+      "description": "Невеликий ніжковий трутовик сухих степів, ксеротермних лук і прибережних дюн, поширений від Північної Африки та Європи через континентальну Євразію і зазначений також із Північної Америки. Плодові тіла з'являються біля основ злаків і часто здаються такими, що стоять на голому ґрунті, осторонь від дерев.",
+      "cap": "Шапинка зазвичай 1–4 cm у поперечнику, іноді до 5 cm. Вона округла, спочатку опукла, пізніше плоска або злегка втиснута, з тонким, часто злегка хвилястим краєм, який у молодості підгорнений. Поверхня білувата, потім кремова до блідо-охристої або сірувата, гладенька або тонко оксамитова, іноді злегка зморшкувата або дуже дрібно луската.",
+      "hymenium": "Трубочки короткі, близько 1–2 мм завдовжки, білі, потім кремові до брудно-жовткових, коротко або глибоко низбіжні. Пори кутасті й неправильні, часто досить великі (близько 1–4 на міліметр), із тонкими стінками.",
+      "stipe": "Ніжка центральна або ексцентрична, 1–3 cm завдовжки і зазвичай 0,3–0,6 cm завтовшки, іноді трохи товща. Вона гладенька і суцільна, часто злегка зігнута, зверху бліда, як шапинка, і від основи коричнева до чорнуватої. Основа може бути злегка здутою і прикріплена до коренів або кореневищ злаків; у першоописі згадується також довша, вкрита піском укорінювальна основа.",
+      "flesh": "М'якуш тонкий, білуватий до кремового, шкірястий до коркового, у ніжці волокнистіший. Виразного запаху чи смаку не вказують.",
+      "sporePrint": "Спори гіалінові, гладенькі й циліндричні до веретеноподібних. Опубліковані розміри перекриваються близько 6–12 × 2,5–4,5 µm; Чжоу зі співавторами (2016) дають 8,2–10,1 × 3,2–4,1 µm, а першоопис — 10–12 × 4 µm. Цистид немає. Гіфальна система димітична, із пряжками на генеративних гіфах.",
+      "habitat": "Росте біля основ, на коренях і кореневищах живих або відмираючих степових злаків, зокрема ковил (Stipa) і багатьох інших родів, на сухих, зазвичай піщаних ґрунтах степів, сухих лук і рідше в трав'янистих світлих лісах, парках і на прибережних дюнах. Чи це паразит, пертофіт, чи просто сапротроф, неясно; вільні гіфи можуть оточувати й живі корені. Строки плодоношення різняться за регіонами: у Чехії його зазначають із травня по листопад; болгарські дані дають червень–жовтень; німецькі джерела описують плодові тіла пізньої осені або ранньої весни; збір у Казахстані зроблено наприкінці квітня. Тип описано з високих плато між Тебессою і Бу-Шебкою, біля основ живих злаків.",
+      "confusion": "Схожі невеликі кремові ніжкові трутовики, такі як Polyporus arcularius, Polyporus brumalis і Polyporus tuberaster, ростуть із деревини, яка може бути похована. Цей вид відрізняється дрібними плодовими тілами і ростом на коренях і кореневищах злаків, очевидно осторонь від дерев. Деревні, чорноніжкові родичі в роді Picipes зазвичай більші й лігнікольні.",
+      "notes": "Оцінка 2019 року відносить його до уразливих (Vulnerable), з приблизно 2500–5000 дорослими особинами в невеликих, скорочуваних субпопуляціях, яким загрожують втрата і зміна сухих лук. Він внесений до червоних списків кількох європейських країн. Трофічний зв'язок із рослинами-господарями залишається неясним. Занесений до Червоної книги України."
+    },
+    "tr": {
+      "description": "Kuru bozkırların, kseroterm çayırların ve kıyı kumullarının küçük saplı bir gözenekli mantarı; Kuzey Afrika ve Avrupa'dan kıtasal Avrasya'ya yayılır ve Kuzey Amerika'dan da bildirilir. Meyve cisimleri çimenlerin tabanında ortaya çıkar ve çoğu zaman ağaçlardan uzakta, çıplak toprak üzerinde duruyor gibi görünür.",
+      "cap": "Şapka tipik olarak 1–4 cm genişliğinde, ara sıra 5 cm'ye kadar çıkar. Yuvarlaktır, önce tümsek, sonra düz veya hafifçe çukur, ince, çoğu zaman hafif dalgalı ve gençken içe kıvrık bir kenara sahiptir. Yüzey beyazımsı, sonra kremden soluk okraya veya grimsiye döner, düz veya ince kadifemsi, bazen hafif buruşuk veya çok ince pulludur.",
+      "hymenium": "Borucuklar kısadır, yaklaşık 1–2 mm uzunluğunda, beyaz, sonra kremden kirli yumurta sarısına döner ve kısa veya derin iniktir. Gözenekler köşeli ve düzensizdir, çoğu zaman oldukça büyüktür (milimetrede yaklaşık 1–4), ince duvarlıdır.",
+      "stipe": "Sap merkezî veya eksantriktir, 1–3 cm uzunluğunda ve tipik olarak 0,3–0,6 cm kalınlığında, bazen biraz daha kalındır. Düz ve doludur, çoğu zaman hafifçe kıvrık, üstte şapka gibi soluk, tabandan kahverengi veya siyahımsıdır. Taban biraz şişkin olabilir ve çimen köklerine veya rizomlarına tutunur; ilk betimleme ayrıca daha uzun, kumla kaplı kökleşen bir tabandan söz eder.",
+      "flesh": "Etli kısım incedir, beyazımsı veya krem renginde ve derimsi veya mantarımsı, sapta daha liflidir. Belirgin bir koku veya tat bildirilmez.",
+      "sporePrint": "Sporlar hiyalin, düz ve silindirik veya iğ biçimlidir. Yayımlanan ölçüler yaklaşık 6–12 × 2,5–4,5 µm dolayında örtüşür; Zhou ve çalışma arkadaşları (2016) 8,2–10,1 × 3,2–4,1 µm, ilk betimleme ise 10–12 × 4 µm verir. Sistidyum yoktur. Hif sistemi dimitiktir, üretici hiflerde tokalar bulunur.",
+      "habitat": "Canlı veya ölmekte olan bozkır çimenlerinin, aralarında Stipa (kılçıksız yele otları) ve birçok başka cinsin tabanında, köklerinde ve rizomlarında, bozkırların, kuru çayırların ve daha seyrek olarak otlu açık ormanların, parkların ve kıyı kumullarının kuru, genellikle kumlu topraklarında büyür. Parazit, pertofit mi yoksa yalnızca saprotrof mu olduğu açık değildir; gevşek hifler canlı kökleri de sarabilir. Meyve verme zamanı bölgeye göre değişir: Çekya'da mayıstan kasıma kadar kaydedilir; bir Bulgar kaynağı haziran–ekim verir; Alman kaynaklar geç sonbahar veya erken ilkbahardaki meyve cisimlerini anlatır; Kazakistan'daki bir örnek nisan sonunda toplanmıştır. Tip, Tébessa ile Bou Chebka arasındaki yüksek platolardan, canlı çimenlerin tabanından tanımlanmıştır.",
+      "confusion": "Polyporus arcularius, Polyporus brumalis ve Polyporus tuberaster gibi benzer küçük, krem, saplı gözenekli mantarlar odundan, kimi zaman gömülü odundan büyür. Bu tür, küçük meyve cisimleri ve görünüşte ağaçlardan uzakta, çimen kökleri ve rizomları üzerinde büyümesiyle ayırt edilir. Picipes cinsindeki odunda yaşayan, siyah saplı akrabalar tipik olarak daha büyük ve odunculudur.",
+      "notes": "2019 tarihli bir değerlendirme onu Hassas (Vulnerable) olarak sınıflandırır; kuru çayırların kaybı ve değişimiyle tehdit edilen küçük, gerileyen alt popülasyonlarda tahminen 2500–5000 olgun birey bulunur. Birkaç Avrupa ülkesinin kırmızı listelerinde yer alır. Konukçu çimenlerle trofik ilişki belirsizliğini korur."
+    },
+    "id": {
+      "description": "Poliporus bertangkai berukuran kecil dari stepa kering, padang rumput kseroterm, dan gumuk pantai, tersebar dari Afrika Utara dan Eropa lintas Eurasia daratan, dan juga dilaporkan dari Amerika Utara. Tubuh buah muncul di pangkal rumput dan sering tampak berdiri di tanah gundul, jauh dari pohon.",
+      "cap": "Tudung biasanya berdiameter 1–4 cm, kadang hingga 5 cm. Bentuknya membulat, mula-mula cembung, kemudian datar atau sedikit cekung, dengan tepi tipis yang sering agak bergelombang dan menggulung ke dalam ketika muda. Permukaan keputihan, lalu krem hingga oker pucat atau keabuan, halus atau berbulu halus seperti beludru, kadang sedikit berkerut atau sangat halus bersisik.",
+      "hymenium": "Pori pendek, panjangnya sekitar 1–2 mm, putih lalu krem hingga kuning kuning telur yang kusam, dan turun pendek hingga dalam sepanjang tangkai. Lubang pori bersudut dan tidak teratur, sering cukup besar (sekitar 1–4 per milimeter), berdinding tipis.",
+      "stipe": "Tangkai di tengah atau eksentrik, panjang 1–3 cm dan biasanya tebal 0,3–0,6 cm, kadang sedikit lebih kekar. Licin dan padat, sering sedikit lengkung, pucat seperti tudung di bagian atas dan cokelat hingga kehitaman dari pangkal. Pangkal dapat sedikit membengkak dan melekat pada akar atau rimpang rumput; uraian asli juga menyebut pangkal pengakar yang lebih panjang, berlapis pasir.",
+      "flesh": "Daging tipis, keputihan hingga krem, dan seperti kulit hingga seperti gabus, lebih berserat pada tangkai. Tidak disebutkan bau atau rasa yang khas.",
+      "sporePrint": "Spora hialin, halus, dan silindris hingga fusiform. Ukuran yang diterbitkan tumpang tindih sekitar 6–12 × 2,5–4,5 µm; Zhou dkk. (2016) memberi 8,2–10,1 × 3,2–4,1 µm, dan uraian asli 10–12 × 4 µm. Sistidia tidak ada. Sistem hifa dimitik, dengan hifa generatif berpengait.",
+      "habitat": "Tumbuh pada pangkal, akar, dan rimpang rumput stepa yang hidup atau sekarat, termasuk rumput bulu (Stipa) dan banyak genus lain, di tanah kering, biasanya berpasir, pada stepa, padang rumput kering, dan lebih jarang di hutan terbuka berumput, taman, dan gumuk pantai. Apakah parasit, pertofit, atau hanya saprotrof, tidak jelas; hifa lepas juga dapat mengelilingi akar hidup. Waktu berbuah berbeda menurut wilayah: di Ceko dicatat dari Mei hingga November; suatu sumber Bulgaria menyebut Juni hingga Oktober; sumber Jerman menggambarkan tubuh buah pada akhir musim gugur atau awal musim semi; suatu koleksi di Kazakhstan dibuat pada akhir April. Tipe diuraikan dari dataran tinggi antara Tébessa dan Bou Chebka, pada pangkal rumput hidup.",
+      "confusion": "Poliporus bertangkai kecil berwarna krem yang serupa, seperti Polyporus arcularius, Polyporus brumalis, dan Polyporus tuberaster, tumbuh dari kayu, yang mungkin terkubur. Spesies ini dibedakan oleh tubuh buahnya yang kecil dan pertumbuhannya pada akar serta rimpang rumput, tampak jauh dari pohon. Kerabat bertangkai hitam yang hidup di kayu dalam genus Picipes biasanya lebih besar dan lignikol.",
+      "notes": "Penilaian tahun 2019 menilainya Rentan (Vulnerable), dengan perkiraan 2500–5000 individu dewasa dalam subpopulasi kecil yang menurun, terancam oleh hilang dan berubahnya padang rumput kering. Spesies ini masuk daftar merah di beberapa negara Eropa. Hubungan trofik dengan rumput inang masih belum pasti."
+    },
+    "ar": {
+      "description": "فطر مسام صغير ذو ساق ينمو في السهوب الجافة والمروج الجافة الحارة وكثبان السواحل، ممتد من شمال أفريقيا وأوروبا عبر أوراسيا القارية، ويُذكر أيضاً من أمريكا الشمالية. تظهر الأجسام الثمرية عند قواعد الأعشاب وغالباً تبدو قائمة على تربة عارية بعيداً عن الأشجار.",
+      "cap": "يبلغ قطر القبعة عادة 1–4 سم، وأحياناً حتى 5 سم. وهي مستديرة، محدبة أولاً ثم مسطحة أو منخفضة قليلاً، ذات حافة رقيقة غالباً متموجة قليلاً، ملفوفة إلى الداخل وهي فتية. السطح مبيض ثم كريمي إلى أصفر ترابي شاحب أو رمادي، أملس أو مخملي ناعم، وأحياناً متجعد قليلاً أو حرشفي دقيق جداً.",
+      "hymenium": "الأنابيب قصيرة، طولها نحو 1–2 مم، بيضاء ثم كريمية إلى أصفر صفار باهت، ونازلة قصيراً أو بعمق على الساق. المسام زاوية وغير منتظمة، وغالباً كبيرة نسبياً (نحو 1–4 في المليمتر)، ذات جدران رقيقة.",
+      "stipe": "الساق مركزية أو لامركزية، طولها 1–3 سم وسمكها عادة 0.3–0.6 سم، وأحياناً أثخن قليلاً. وهي ملساء ومصمتة، وغالباً منحنية قليلاً، شاحبة مثل القبعة في الأعلى وبنية إلى مسودة من القاعدة. قد تكون القاعدة منتفخة قليلاً وتتصل بجذور الأعشاب أو جذورها الأرضية؛ ويذكر الوصف الأصلي أيضاً قاعدة جذرية أطول مغطاة بالرمل.",
+      "flesh": "اللحم رقيق، مبيض إلى كريمي، جلدي إلى فليني، وأكثر أليافاً في الساق. لا يُذكر رائحة أو طعم مميز.",
+      "sporePrint": "الأبواغ شفافة ملساء وأسطوانية إلى مغزليّة. تتداخل القياسات المنشورة حول 6–12 × 2.5–4.5 µm؛ ويعطي تشو وزملاؤه (2016) 8.2–10.1 × 3.2–4.1 µm، والوصف الأصلي 10–12 × 4 µm. لا توجد كيسيدات. الجهاز الهيفي ثنائي الخيوط، مع مشابك على الخيوط التوليدية.",
+      "habitat": "ينمو عند قواعد جذور وجذامير أعشاب السهوب الحية أو المحتضرة، بما فيها أعشاب الريش (Stipa) وأجناس كثيرة أخرى، في ترب جافة رملية في العادة من السهوب والمروج الجافة، وبشكل أقل في الغابات المفتوحة العشبية والحدائق وكثبان السواحل. وهل هو طفيلي أو بيرتوفيتي أو رمّي فحسب، أمر غير واضح؛ وقد تحيط خيوط فضفاضة أيضاً بجذور حية. تختلف أوقات الإثمار حسب المنطقة: في التشيك يُسجل من مايو/أيار إلى نوفمبر/تشرين الثاني؛ ومصدر بلغاري يذكر يونيو/حزيران إلى أكتوبر/تشرين الأول؛ والمصادر الألمانية تصف أجساماً ثمرية في أواخر الخريف أو أوائل الربيع؛ وجُمع نموذج في كازاخستان في أواخر أبريل/نيسان. وُصف النمط من هضاب عالية بين تبسة وبو شبكة، عند قواعد أعشاب حية.",
+      "confusion": "فطريات مسام صغيرة كريمية ذات ساق مشابهة، مثل Polyporus arcularius وPolyporus brumalis وPolyporus tuberaster، تنمو من الخشب وقد يكون مدفوناً. يتميز هذا النوع بأجسامه الثمرية الصغيرة وبنموّه على جذور الأعشاب وجذاميرها، بعيداً عن الأشجار في الظاهر. الأقارب ذات الساق السوداء التي تعيش على الخشب في جنس Picipes أكبر عادة وخشبية المسكن.",
+      "notes": "يصنّفه تقييم عام 2019 على أنه معرض للخطر (Vulnerable)، مع تقدير 2500–5000 فرد ناضج في تجمعات فرعية صغيرة متراجعة، مهددة بفقدان المروج الجافة وتغيّرها. وهو مدرج في القوائم الحمراء لعدة بلدان أوروبية. وتبقى العلاقة الغذائية مع الأعشاب العائلة غير مؤكدة."
+    },
+    "fa": {
+      "description": "پولیپور پایه‌دار کوچک استپ‌های خشک، علفزارهای خشک گرم و تپه‌های ماسه‌ای ساحلی، از شمال آفریقا و اروپا در سراسر اوراسیای قاره‌ای پراکنده و از آمریکای شمالی نیز گزارش شده است. اندام‌های بارده در پایهٔ گندمیان ظاهر می‌شوند و اغلب چنان می‌نمایند که روی خاک برهنه، دور از درختان، ایستاده‌اند.",
+      "cap": "کلاهک معمولاً ۱–۴ سانتی‌متر پهنا دارد و گاه تا ۵ سانتی‌متر می‌رسد. گرد است، نخست محدب و سپس تخت یا اندکی فرورفته، با حاشیهٔ نازک که اغلب کمی موج‌دار است و در جوانی به درون پیچیده. سطح سفیدفام، سپس کرم تا اخرایی کم‌رنگ یا خاکستری، صاف یا مخملی ظریف، گاهی کمی چین‌خورده یا بسیار ریزفلس‌دار است.",
+      "hymenium": "لوله‌ها کوتاه‌اند، حدود ۱–۲ میلی‌متر طول، سفید سپس کرم تا زرد زردهٔ تیره، و کوتاه یا عمیق پایین‌رونده. روزنه‌ها گوشه‌دار و نامنظم‌اند، اغلب نسبتاً بزرگ (حدود ۱–۴ در هر میلی‌متر)، با دیوارهٔ نازک.",
+      "stipe": "ساقه مرکزی یا نامتقارن است، ۱–۳ سانتی‌متر طول و معمولاً ۰٫۳–۰٫۶ سانتی‌متر ضخامت، گاهی کمی ستبرتر. صاف و توپُر است، اغلب کمی خمیده، در بالا مانند کلاهک رنگ‌پریده و از پایه قهوه‌ای تا سیاه‌فام. پایه ممکن است کمی متورم باشد و به ریشه‌ها یا ریزوم‌های گندمیان متصل است؛ توصیف اصلی همچنین از پایه‌ای ریشه‌دارِ بلندتر، پوشیده از شن، سخن می‌گوید.",
+      "flesh": "گوشت نازک، سفیدفام تا کرم، و چرم‌مانند تا چوب‌پنبه‌ای است و در ساقه رشته‌ای‌تر. بوی یا طعم متمایزی گزارش نشده است.",
+      "sporePrint": "هاگ‌ها شفاف، صاف و استوانه‌ای تا دوکی‌شکل‌اند. اندازه‌های منتشرشده حدود ۶–۱۲ × ۲٫۵–۴٫۵ µm همپوشانی دارند؛ جو و همکاران (۲۰۱۶) ۸٫۲–۱۰٫۱ × ۳٫۲–۴٫۱ µm و توصیف اصلی ۱۰–۱۲ × ۴ µm را می‌دهند. سیستیدیوم وجود ندارد. سامانهٔ ریسه دیمیتیک است، با قلاب روی ریسه‌های زایشی.",
+      "habitat": "روی پایه، ریشه و ریزوم گندمیان استپی زنده یا در حال مرگ، از جمله چمن‌های پری (Stipa) و بسیاری سرده‌های دیگر، در خاک‌های خشک معمولاً شنی استپ‌ها، علفزارهای خشک و کمتر در بیشه‌های باز علفی، پارک‌ها و تپه‌های ماسه‌ای ساحلی می‌روید. اینکه انگل، پرتوفیت یا صرفاً ساپروتروف است روشن نیست؛ ریسه‌های آزاد ممکن است ریشه‌های زنده را نیز در بر گیرند. زمان میوه‌دهی برحسب منطقه فرق می‌کند: در چک از مه تا نوامبر ثبت شده؛ منبعی بلغاری ژوئن تا اکتبر را می‌دهد؛ منابع آلمانی اندام‌های بارده را در اواخر پاییز یا اوایل بهار وصف می‌کنند؛ نمونه‌ای در قزاقستان در اواخر آوریل گردآوری شده است. نمونهٔ تیپ از فلات‌های بلند میان تبسه و بو شبکا، در پایهٔ گندمیان زنده، وصف شده است.",
+      "confusion": "پولیپورهای پایه‌دار کوچک و کرم‌رنگ مشابه، مانند Polyporus arcularius، Polyporus brumalis و Polyporus tuberaster، از چوب می‌رویند که ممکن است مدفون باشد. این گونه با اندام‌های بارده کوچک و رشد روی ریشه و ریزوم گندمیان، ظاهراً دور از درختان، متمایز می‌شود. خویشاوندان ساکن چوب با ساقهٔ سیاه در سردهٔ Picipes معمولاً بزرگ‌تر و چوب‌زی‌اند.",
+      "notes": "ارزیابی سال ۲۰۱۹ آن را آسیب‌پذیر (Vulnerable) می‌شمارد، با حدود ۲۵۰۰–۵۰۰۰ فرد بالغ در زیرجمعیت‌های کوچک رو به کاهش که با از دست رفتن و دگرگونی علفزارهای خشک تهدید می‌شوند. در فهرست‌های سرخ چند کشور اروپایی آمده است. رابطهٔ تغذیه‌ای با گندمیان میزبان همچنان نامشخص است."
+    },
+    "he": {
+      "description": "פטריית נקבים קטנה בעלת רגל של ערבות יבשות, עשבוניים יובשניים וחולות חוף, הנפוצה מצפון אפריקה ומאירופה ברחבי אירואסיה היבשתית ומדווחת גם מצפון אמריקה. גופי הפרי מופיעים בבסיסי עשבים ונראים לעיתים קרובות כאילו הם עומדים על קרקע חשופה, הרחק מעצים.",
+      "cap": "הכובע בדרך כלל בקוטר 1–4 ס\"מ, לעיתים עד 5 ס\"מ. הוא מעוגל, תחילה קמור ואחר כך שטוח או שקוע מעט, בעל שוליים דקים, לעיתים גליים מעט, המגולגלים פנימה בצעירותו. המשטח לבנבן, אחר כך קרם עד אוכרה חיוור או אפרפר, חלק או קטיפתי עדין, לעיתים מקומט מעט או קשקשי דק מאוד.",
+      "hymenium": "הצינורות קצרים, באורך של כ־1–2 מ\"מ, לבנים ואחר כך קרם עד צהוב חלמון עכור, ויורדים קיצור או עמוק על הרגל. הנקבוביות זוויתיות ובלתי סדירות, לעיתים גדולות למדי (כ־1–4 למילימטר), בעלות דופן דקה.",
+      "stipe": "הרגל מרכזית או אקסצנטרית, באורך 1–3 ס\"מ ובעובי טיפוסי של 0.3–0.6 ס\"מ, לעיתים מעט עבה יותר. היא חלקה ומוצקה, לעיתים מעוקלת מעט, חיוורת כמו הכובע למעלה וחומה עד שחרחרה מן הבסיס. הבסיס עשוי להיות נפוח מעט ומחובר לשורשי העשבים או לקנה השורש; התיאור המקורי מזכיר גם בסיס משתרש ארוך יותר, מכוסה בחול.",
+      "flesh": "הבשר דק, לבנבן עד קרם, ועורי עד דמוי שעם, סיבי יותר ברגל. לא מצוינים ריח או טעם ייחודיים.",
+      "sporePrint": "הנבגים שקופים, חלקים וגליליים עד כישוריים. המידות שפורסמו חופפות סביב 6–12 × 2.5–4.5 µm; ג'ואו ועמיתים (2016) נותנים 8.2–10.1 × 3.2–4.1 µm, והתיאור המקורי 10–12 × 4 µm. אין ציסטידות. מערכת ההיפות דימיטית, עם מהדקים על היפות יוצרות.",
+      "habitat": "הוא גדל בבסיסים, בשורשים ובקני שורש של עשבי ערבה חיים או גוססים, לרבות עשבי נוצה (Stipa) וסוגים רבים אחרים, בקרקעות יבשות, בדרך כלל חוליות, של ערבות, עשבוניים יבשים ולעיתים רחוקות יותר ביער פתוח עשבוני, בפארקים ובחולות חוף. האם הוא טפילי, פרתופיטי או רק ספרוטרופי אינו ברור; היפות חופשיות עשויות להקיף גם שורשים חיים. זמני הפרי משתנים לפי האזור: בצ'כיה הוא מתועד ממאי עד נובמבר; מקור בולגרי מציין יוני עד אוקטובר; מקורות גרמניים מתארים גופי פרי בסוף הסתיו או בתחילת האביב; איסוף בקזחסטן נעשה בסוף אפריל. הטיפוס תואר מרמות גבוהות בין טבסה לבו שבקה, בבסיסי עשבים חיים.",
+      "confusion": "פטריות נקבים קטנות דמויות קרם בעלות רגל, כגון Polyporus arcularius, Polyporus brumalis ו־Polyporus tuberaster, גדלות מעץ, שעשוי להיות קבור. מין זה מובחן בגופי הפרי הקטנים ובגידול על שורשי עשבים וקני שורש, לכאורה הרחק מעצים. קרובים בעלי רגל שחורה החיים על עץ בסוג Picipes גדולים בדרך כלל וליגניקוליים.",
+      "notes": "הערכה משנת 2019 מדרגת אותו כפגיע (Vulnerable), עם הערכה של 2500–5000 פרטים בוגרים בתת־אוכלוסיות קטנות ופוחתות, המאוימות באובדן ובשינוי של עשבוניים יבשים. הוא מופיע ברשימות אדומות של כמה מדינות באירופה. הקשר התזונתי עם עשבי הפונדקאי נותר בלתי ודאי."
+    },
+    "hi": {
+      "description": "सूखे मैदानों, शुष्क-उष्ण घासभूमियों और तटीय टिब्बों का एक छोटा डंठल वाला छिद्रकवक, जो उत्तरी अफ्रीका और यूरोप से लेकर महाद्वीपीय यूरेशिया तक फैला है और उत्तरी अमेरिका से भी बताया गया है। फलकाय घास के आधार पर दिखाई देते हैं और अक्सर वृक्षों से दूर नंगी मिट्टी पर खड़े प्रतीत होते हैं।",
+      "cap": "टोपी आमतौर पर 1–4 सेमी चौड़ी होती है, कभी-कभी 5 सेमी तक। यह गोलाकार होती है, पहले उत्तल, बाद में चपटी या थोड़ी धँसी, पतले, अक्सर थोड़े लहरदार किनारे के साथ जो युवावस्था में अन्दर की ओर मुड़ा होता है। सतह सफ़ेद-सी, फिर क्रीम से हल्की गेरुआ या धूसर, चिकनी या महीन मखमली, कभी-कभी थोड़ी झुर्रीदार या बहुत महीन शल्कदार होती है।",
+      "hymenium": "नलिकाएँ छोटी होती हैं, लगभग 1–2 मिमी लंबी, सफ़ेद फिर क्रीम से मटमैले अंडपीत पीले तक, और छोटे या गहरे रूप से डंठल पर उतरती हैं। छिद्र कोणीय और अनियमित होते हैं, अक्सर काफी बड़े (प्रति मिलीमीटर लगभग 1–4), पतली दीवारों वाले।",
+      "stipe": "डंठल केन्द्रीय या विकेन्द्रित होता है, 1–3 सेमी लंबा और आमतौर पर 0.3–0.6 सेमी मोटा, कभी-कभी थोड़ा मोटा। यह चिकना और ठोस होता है, अक्सर थोड़ा मुड़ा, ऊपर टोपी जैसा फिका और आधार से भूरा से काला-सा। आधार थोड़ा फूला हो सकता है और घास की जड़ों या प्रकंदों से जुड़ा होता है; मूल वर्णन एक लंबा, रेत से लिप्त जड़ जैसा आधार भी बताता है।",
+      "flesh": "गूदा पतला, सफ़ेद-सा से क्रीम, और चमड़े जैसा से कॉर्क जैसा होता है, डंठल में अधिक रेशेदार। कोई विशिष्ट गंध या स्वाद नहीं बताया गया है।",
+      "sporePrint": "बीजाणु पारदर्शी, चिकने और बेलनाकार से तर्कुरूप होते हैं। प्रकाशित माप लगभग 6–12 × 2.5–4.5 µm के आसपास ओवरलैप करते हैं; झोउ व अन्य (2016) 8.2–10.1 × 3.2–4.1 µm देते हैं, और मूल वर्णन 10–12 × 4 µm। सिस्टिडिया नहीं होते। कवकसूत्र तंत्र द्विक प्रकार का है, जनन कवकसूत्रों पर क्लैंप के साथ।",
+      "habitat": "यह जीवित या मरती स्टेपी घासों, जिनमें पंख-घास (Stipa) और कई अन्य वंश शामिल हैं, के आधार, जड़ों और प्रकंदों पर, स्टेपी, सूखी घासभूमियों और कम अक्सर घास वाले खुले वन, उद्यानों और तटीय टिब्बों की सूखी, आमतौर पर बलुई मिट्टी में उगता है। यह परजीवी है, पर्थोफाइट है या केवल मृतोपजीवी, यह स्पष्ट नहीं; ढीले कवकसूत्र जीवित जड़ों को भी घेर सकते हैं। फलन-काल क्षेत्र के अनुसार भिन्न है: चेकिया में मई से नवंबर तक दर्ज है; एक बल्गेरियाई स्रोत जून से अक्टूबर देता है; जर्मन स्रोत देर शरद या शुरुआती वसंत के फलकाय बताते हैं; कज़ाखस्तान में एक संग्रह अप्रैल के अंत में किया गया। प्ररूप तेबेसा और बू शेबका के बीच ऊँचे पठारों से, जीवित घासों के आधार पर, वर्णित किया गया।",
+      "confusion": "इसी तरह के छोटे, क्रीम, डंठल वाले छिद्रकवक, जैसे Polyporus arcularius, Polyporus brumalis और Polyporus tuberaster, लकड़ी से उगते हैं, जो दबी हो सकती है। यह प्रजाति छोटे फलकायों और घास की जड़ों तथा प्रकंदों पर — प्रतीत होता है वृक्षों से दूर — वृद्धि से पहचानी जाती है। Picipes वंश के काले डंठल वाले, लकड़ी में रहने वाले संबंधी आमतौर पर बड़े और काष्ठवासी होते हैं।",
+      "notes": "2019 के एक आकलन में इसे संकटासन्न (Vulnerable) माना गया है, सूखी घासभूमियों की हानि और परिवर्तन से संकटग्रस्त छोटी, घटती उपसमष्टियों में अनुमानित 2500–5000 परिपक्व व्यष्टियों के साथ। यह कई यूरोपीय देशों की लाल सूचियों में है। परपोषी घासों के साथ पोषण संबंध अनिश्चित ही है।"
+    },
+    "ja": {
+      "description": "乾燥したステップ、乾熱性の草地、海岸砂丘に生じる小型の柄のある多孔菌で、北アフリカとヨーロッパからユーラシア内陸にわたり、北アメリカからも報告される。子実体は草の基部に現れ、しばしば樹木から離れた裸地に立っているように見える。",
+      "cap": "傘は通常直径1–4 cm、ときに5 cmに達する。円みがあり、初めは中高、のちに平らまたはやや窪み、薄く、しばしばやや波打つ縁は若いときは内巻き。表面は白っぽく、のちにクリームから淡い黄土色または灰色を帯び、平滑または細かくビロード状、ときにややしわになり、ごく細かく鱗片を付けることもある。",
+      "hymenium": "管孔は短く、長さ約1–2 mm、白色、のちにクリームからくすんだ卵黄色となり、短いまたは深く柄に垂生する。孔口は角形で不規則、しばしばかなり大きく（1 mmあたり約1–4個）、壁は薄い。",
+      "stipe": "柄は中心生または偏心生、長さ1–3 cm、太さは通常0.3–0.6 cm、ときにやや太い。平滑で充実、しばしばやや曲がり、上部は傘と同様に淡色、基部から褐色ないし黒色を帯びる。基部はやや膨らむことがあり、草の根や地下茎に付く。原記載には、砂をまとった、より長い根状の基部も記されている。",
+      "flesh": "肉は薄く、白っぽいからクリーム色、革質からコルク質で、柄ではより繊維質。特有の臭いや味は記されていない。",
+      "sporePrint": "胞子は無色、平滑、円筒形から紡錘形。公表された大きさはおよそ6–12 × 2.5–4.5 µmで重なり、Zhouら（2016）は8.2–10.1 × 3.2–4.1 µm、原記載は10–12 × 4 µmとする。シスチジアはない。菌糸型は二菌糸型で、生殖菌糸にはクランプがある。",
+      "habitat": "生きた、または枯れかけのステップの草、ススキやハネガヤ類（Stipa）をはじめ多くの属の基部、根、地下茎に生じ、ステップ、乾いた草地、よりまれに草の多い疎林、公園、海岸砂丘の乾燥した、多くは砂質の土壌に生育する。寄生か、枯死しつつある組織に付くものか、単なる腐生かは明らかでなく、遊離した菌糸が生きた根を取り巻くこともある。発生時期は地域により異なる。チェコでは5月から11月、ブルガリアの記録では6月から10月、ドイツの記録では晩秋または早春の子実体が記され、カザフスタンの採集は4月末である。タイプはテベサとブー・シェブカの間の高原で、生きた草の基部から記載された。",
+      "confusion": "Polyporus arcularius、Polyporus brumalis、Polyporus tuberaster のような、似た小型でクリーム色の柄のある多孔菌は木材から生じ、その材は土中にあることもある。本種は小型の子実体と、一見樹木から離れた草の根や地下茎に生じることで区別される。Picipes属の、黒色の柄をもち材上に生じる近縁種は、通常より大型で材生である。",
+      "notes": "2019年の評価では危急（Vulnerable）とされ、乾燥草地の消失と改変に脅かされる小さな減少中の個体群に、成熟個体は推定2500–5000とされる。いくつかのヨーロッパ諸国のレッドリストに掲載されている。宿主の草との栄養関係はなお不明である。"
+    },
+    "ko": {
+      "description": "건조한 초원, 건열성 초지, 해안 사구에 나는 작은 대가 있는 구멍장이버섯으로, 북아프리카와 유럽에서 대륙성 유라시아를 가로질러 분포하며 북아메리카에서도 보고된다. 자실체는 풀 기부에 나타나며, 종종 나무에서 떨어진 맨땅에 서 있는 것처럼 보인다.",
+      "cap": "갓은 보통 지름 1–4 cm이며, 가끔 5 cm에 이른다. 둥글고, 처음에는 볼록하다가 나중에 편평하거나 약간 오목해지며, 얇고 자주 약간 물결치는 가장자리는 어릴 때 안쪽으로 말린다. 표면은 희고, 이어서 크림색에서 옅은 황토색 또는 잿빛을 띠며, 매끄럽거나 곱게 벨벳 같고, 때로 약간 주름지거나 매우 곱게 비늘이 있다.",
+      "hymenium": "관공은 짧고, 길이 약 1–2 mm이며, 흰색이었다가 크림색에서 탁한 난황황색이 되고, 짧게 또는 깊게 대를 따라 내린다. 구멍은 각지고 불규칙하며, 자주 꽤 크고(밀리미터당 약 1–4개), 벽이 얇다.",
+      "stipe": "대는 중앙생 또는 편심생이며, 길이 1–3 cm, 굵기는 보통 0.3–0.6 cm이고 때로 조금 더 굵다. 매끄럽고 충실하며, 자주 약간 굽고, 위는 갓처럼 옅으며 기부에서부터 갈색 내지 흑색을 띤다. 기부는 약간 부풀 수 있고 풀의 뿌리 또는 뿌리줄기에 붙는다. 원기재에는 모래가 묻은, 더 긴 뿌리 모양의 기부도 적혀 있다.",
+      "flesh": "살은 얇고, 희거나 크림색이며 가죽질에서 코르크질이고, 대에서는 더 섬유질이다. 뚜렷한 냄새나 맛은 기록되어 있지 않다.",
+      "sporePrint": "포자는 무색, 매끈하며 원통형에서 방추형이다. 발표된 크기는 대략 6–12 × 2.5–4.5 µm에서 겹치고, Zhou 등(2016)은 8.2–10.1 × 3.2–4.1 µm, 원기재는 10–12 × 4 µm를 든다. 낭상체는 없다. 균사 체계는 이균사형이며, 생식균사에는 클램프가 있다.",
+      "habitat": "살아 있거나 죽어 가는 초원 풀, 깃털풀(Stipa)을 비롯한 여러 속의 기부, 뿌리, 뿌리줄기에서 자라며, 초원, 건조 초지, 드물게는 풀이 있는 열린 숲, 공원, 해안 사구의 건조하고 대개 모래질인 흙에 난다. 기생인지, 고사 조직에 붙는 페르토파이트인지, 단순히 부생인지는 분명하지 않으며, 느슨한 균사가 살아 있는 뿌리를 둘러싸기도 한다. 발생 시기는 지역에 따라 다르다. 체코에서는 5월부터 11월, 불가리아 기록은 6월부터 10월, 독일 기록은 늦가을 또는 이른 봄의 자실체를 적고, 카자흐스탄의 채집은 4월 말에 이루어졌다. 기준표본은 테베사와 부셰브카 사이의 고원에서, 살아 있는 풀 기부로부터 기재되었다.",
+      "confusion": "Polyporus arcularius, Polyporus brumalis, Polyporus tuberaster와 같은 비슷한 작고 크림색의 대가 있는 구멍장이버섯은 나무에서 나며, 그 나무는 땅에 묻혀 있을 수 있다. 이 종은 작은 자실체와, 겉보기에는 나무에서 떨어진 풀의 뿌리와 뿌리줄기에서 자라는 점으로 구별된다. Picipes속의 검은 대를 가진 목재성 근연종은 보통 더 크고 목생이다.",
+      "notes": "2019년 평가에서는 취약(Vulnerable)으로 분류되며, 건조 초지의 소실과 변화로 위협받는 작고 줄어드는 아개체군에 성숙 개체는 약 2500–5000으로 추정된다. 여러 유럽 국가의 적색 목록에 올라 있다. 기주 풀과의 영양 관계는 아직 불확실하다."
+    },
+    "zh": {
+      "description": "乾燥草原、乾熱草地與海岸沙丘上的小型有柄多孔菌，分布自北非與歐洲橫貫歐亞大陸內部，北美洲亦有紀錄。子實體出現在禾草基部，常看似立於遠離樹木的裸土上。",
+      "cap": "菌蓋通常寬1–4 cm，偶可達5 cm。圓形，初期凸起，後來平坦或稍凹陷，邊緣薄，常略呈波狀，幼時內捲。表面近白色，其後呈奶油色至淡赭色或灰白色，平滑或細絨狀，有時稍皺或極細鱗片狀。",
+      "hymenium": "菌管短，長約1–2 mm，白色，其後呈奶油色至暗鬱的蛋黃色，短或深地下延於菌柄。管口多角形且不規則，常相當大（每毫米約1–4個），管壁薄。",
+      "stipe": "菌柄中生或偏生，長1–3 cm，粗通常0.3–0.6 cm，有時稍粗。平滑而實心，常略彎曲，上部與菌蓋同為淡色，自基部起呈褐色至近黑色。基部可稍膨大，並附著於禾草的根或根狀莖；原記載亦提到較長、覆有沙粒的根狀基部。",
+      "flesh": "菌肉薄，近白色至奶油色，皮革質至軟木質，在菌柄中較纖維質。未記載特殊氣味或味道。",
+      "sporePrint": "孢子透明、平滑，圓柱形至紡錘形。已發表的量測約重疊於6–12 × 2.5–4.5 µm；Zhou等人（2016）給出8.2–10.1 × 3.2–4.1 µm，原記載為10–12 × 4 µm。無囊狀體。菌絲系統為二體型，生殖菌絲具鎖狀聯合。",
+      "habitat": "生長於存活或枯死中的草原禾草（包括針茅屬Stipa及其他多屬）的基部、根與根狀莖上，見於草原、乾燥草地，較少見於草多的疏林、公園與海岸沙丘的乾燥、多為沙質的土壤。究竟是寄生、附生於瀕死組織，或僅是腐生，尚不清楚；鬆散的菌絲也可能包圍活根。出菇期因地而異：捷克紀錄為5月至11月；保加利亞資料為6月至10月；德國資料描述晚秋或早春的子實體；哈薩克一筆採集在4月底。模式標本記述自泰貝薩與布舍卜卡之間的高原，生於活禾草基部。",
+      "confusion": "類似的小型奶油色有柄多孔菌，如Polyporus arcularius、Polyporus brumalis與Polyporus tuberaster，自木材長出，木材可能埋於土中。本種以小型子實體、以及看似遠離樹木、生於禾草根與根狀莖上而可區別。Picipes屬中具黑柄、生於木材的近緣種通常較大，且為木生。",
+      "notes": "2019年的評估將其列為易危（Vulnerable），估計在受乾燥草地流失與改變威脅的小型、衰退亞族群中有2500–5000個成熟個體。它被列入若干歐洲國家的紅名錄。與寄主禾草的營養關係仍不確定。"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
+  "plateGrid": null,
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t43u \"signature Gemini\"). The supplied file \"Picipes rhizophilus.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr1.webp",
+      "author": "Tatiana Svetasheva",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/511313923"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr2.webp",
+      "author": "Tánczos Enikő",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/439481007"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr3.webp",
+      "author": "Olga Ermolaeva",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/339920836"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr4.webp",
+      "author": "Javier Marcos Martínez",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/732165625"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr5.webp",
+      "author": "Olga Ermolaeva",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/341478298"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Picipes_rhizophilus/Picipes_rhizophilus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr1.webp",
+      "author": "Tatiana Svetasheva",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/511313923"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr2.webp",
+      "author": "Tánczos Enikő",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/439481007"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr3.webp",
+      "author": "Olga Ermolaeva",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/339920836"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr4.webp",
+      "author": "Javier Marcos Martínez",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/732165625"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Polyporales/Polyporaceae/Picipes_rhizophilus/pr5.webp",
+      "author": "Olga Ermolaeva",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/341478298"
+    }
+  ],
+  "synonyms": [
+    "Polyporus rhizophilus Pat. 1894",
+    "Cerioporus rhizophilus (Pat.) Zmitr. & Kovalenko 2016",
+    "Polyporus cryptopus Ellis & Barthol. 1896",
+    "Scutiger cryptopus (Ellis & Barthol.) Murrill 1903"
+  ],
+  "fruitingFrom": 4,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 162,
+  "added": "2026-11-12",
+  "citation": "PLoS ONE 11(8): e0159495, 16 (2016)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "No enclosed-region removal; pale cap and stipe interiors stay opaque",
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 12681,
+    "paperResidualP995": 2.262551924607479,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Picipes rhizophilus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      843,
+      1264
+    ],
+    "sourceSHA256": "84c24ea945f25badc2dcaadc4dda70cd51d858c79380837dbc04880ace0381d4",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      83,
+      119,
+      784,
+      1150
+    ],
+    "uniformScale": 1.9786614936954414,
+    "placement": [
+      106,
+      180
+    ],
+    "composedArtworkDimensions": [
+      1387,
+      2040
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 716871,
+    "opaquePixels": 295400,
+    "partialAlphaPixels": 53281,
+    "signatureBox": [
+      670,
+      1035,
+      760,
+      1130
+    ],
+    "signatureComponents": 5,
+    "signaturePixels": 947,
+    "preservedObjects": [
+      "upper centre: a grass tussock in sandy soil with two mature, cream, slightly depressed caps; stipes pale above and blackish toward the base, with visible roots",
+      "upper right: two detached grass leaves or awns (feather-grass-like)",
+      "lower left, upper button: a young white convex fruit body with a blackish base",
+      "lower left, lower button: a smaller young white fruit body with a blackish base",
+      "lower centre: underside view of a fruit body with angular cream pores and a stipe that is pale above and black at a rooting base",
+      "lower right: a longitudinal section showing short tubes, pale flesh, and attachment to a grass root or rhizome",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t43u; IDs 154-161 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 5606.5,
+        "box": [
+          138,
+          952,
+          78,
+          120
+        ],
+        "medianContrast": 35.63964000940071
+      },
+      {
+        "area": 27251.5,
+        "box": [
+          537,
+          784,
+          240,
+          344
+        ],
+        "medianContrast": 31.195101954083437
+      },
+      {
+        "area": 52930.0,
+        "box": [
+          248,
+          757,
+          294,
+          392
+        ],
+        "medianContrast": 66.02617892722868
+      },
+      {
+        "area": 10406.5,
+        "box": [
+          113,
+          736,
+          103,
+          151
+        ],
+        "medianContrast": 30.88486399802316
+      },
+      {
+        "area": 227250.0,
+        "box": [
+          84,
+          120,
+          699,
+          715
+        ],
+        "medianContrast": 44.50769009229259
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": {
+      "inspectedAtCST": "2026-11-12T19:03:00-06:00",
+      "plate_preview": "plate_preview.png",
+      "checker": "transparency_checker.png",
+      "original_vs_composition": "original_vs_composition.jpg",
+      "officialWebp": [
+        "media/Picipes_rhizophilus@1600.webp",
+        "media/Picipes_rhizophilus@400.webp"
+      ],
+      "alpha": "Clean extraction of all figures, grass awns, sandy soil, roots and the existing Gemini mark; source paper removed; pale interiors opaque; no generation or repainting.",
+      "anatomyFit": [
+        "Cream, slightly depressed caps among a grass tussock in sandy soil match the steppe-grass habit.",
+        "Stipes pale above and blackish toward the base match the Picipes/Melanopus black-foot character and the protologue.",
+        "Angular, irregular cream pores, short tubes in section, and attachment to a grass root or rhizome fit the sources.",
+        "Young white buttons with black bases are plausible."
+      ],
+      "anatomyCaveats": [
+        "The plate appears AI-generated in a 19th-century style; rights are unverified.",
+        "The sectioned stipe is drawn pale throughout and does not show the blackening of the base that the habit figures and the sources describe.",
+        "The underside figure has a rather bulbous black base, a little heavier than the typical “moderately thickened” base.",
+        "Pores are drawn quite large and honeycomb-like; sources do call the pores rather large and irregular, so this is plausible rather than clearly wrong."
+      ]
+    },
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t43u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-161. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 843x1264 source",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 843x1264 JPEG/JFIF with no source metadata, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform re-toned paper with a synthetic vignette"
+      ],
+      "anatomyCaveat": "SEE art_visual_review (set after full-size inspection)",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Picipes_rhizophilus@1600.webp",
+        "bytes": 351050,
+        "sha256": "144a2fe8aae29c4ca3aa3d279079867d29a1ee698910f82f3cc28b893fe4f388"
+      },
+      {
+        "path": "media/Picipes_rhizophilus@400.webp",
+        "bytes": 46896,
+        "sha256": "ef9fb5b6e596d9db1c753a7a98be1cfa65609fb295f35ededf56dc24d0469f89"
+      }
+    ]
+  }
 }
 ];
