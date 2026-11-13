@@ -157,38 +157,18 @@ function writePage(relParts, html) {
   fs.writeFileSync(path.join(dir, 'index.html'), html);
 }
 
-function sitemapXml(entries) {
+// hreflang stays on each HTML shell. Repeating every language on every URL
+// made this one file nearly 50MB, and Google had not taken it into the known set.
+export function sitemapXml(entries) {
   const body = entries
     .map((entry) => {
-      const loc = pageUrl(entry.lang, entry.parts);
-      const codes = entry.langs && entry.langs.length ? entry.langs : INDEXED;
-      const fallback = codes.indexOf('en') >= 0 ? 'en' : codes[0];
-      const links = codes
-        .map(
-          (lang) =>
-            '    <xhtml:link rel="alternate" hreflang="' +
-            lang +
-            '" href="' +
-            pageUrl(lang, entry.parts).replace(/&/g, '&amp;') +
-            '"/>'
-        )
-        .concat([
-          '    <xhtml:link rel="alternate" hreflang="x-default" href="' +
-            pageUrl(fallback, entry.parts).replace(/&/g, '&amp;') +
-            '"/>',
-        ]);
-      return (
-        '  <url>\n    <loc>' +
-        loc.replace(/&/g, '&amp;') +
-        '</loc>\n' +
-        links.join('\n') +
-        '\n  </url>'
-      );
+      const loc = pageUrl(entry.lang, entry.parts).replace(/&/g, '&amp;');
+      return '  <url>\n    <loc>' + loc + '</loc>\n  </url>';
     })
     .join('\n');
   return (
     '<?xml version="1.0" encoding="UTF-8"?>\n' +
-    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' +
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
     body +
     '\n</urlset>\n'
   );

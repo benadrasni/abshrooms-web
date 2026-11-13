@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import test from 'node:test';
-import { jsonLdScript, renderNotFound } from './generate_seo.js';
+import { jsonLdScript, renderNotFound, sitemapXml } from './generate_seo.js';
 import { COPY, viewModel } from '../catalog.js';
 
 const TEMPLATE = `<!DOCTYPE html>
@@ -51,6 +51,17 @@ test('the generated 404 shell is a real not-found page', () => {
   assert.equal(html.includes('rel="canonical"'), false);
   assert.equal(html.includes('hreflang'), false);
   assert.equal(html.includes('og:url'), false);
+});
+
+test('the sitemap lists each url once and leaves hreflang on the html shells', () => {
+  const xml = sitemapXml([
+    { lang: 'en', parts: ['mushroom', 'Boletus edulis'] },
+    { lang: 'sk', parts: ['mushroom', 'Boletus edulis'] },
+  ]);
+  assert.match(xml, /<loc>https:\/\/whatsthatmushroom\.app\/mushroom\/Boletus%20edulis\/<\/loc>/);
+  assert.match(xml, /<loc>https:\/\/whatsthatmushroom\.app\/sk\/mushroom\/Boletus%20edulis\/<\/loc>/);
+  assert.equal(xml.includes('xhtml'), false);
+  assert.equal(xml.includes('hreflang'), false);
 });
 
 test('json-ld escapes < and unicode line separators', () => {
