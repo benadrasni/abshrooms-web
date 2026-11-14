@@ -65807,11 +65807,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-27",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@400.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600_v2.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@400_v2.webp",
     plateCredit: {
       author: "Gemini",
-      license: "not stated"
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 66 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: two standing fruit bodies in leaf litter, a host-plant sprig with leaves and two spiny burs, a longitudinal section, a button section, an underside/gill view, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600_v2.webp"
     },
     photos: [
       {
@@ -66707,11 +66709,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-27",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@400.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600_v2.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@400_v2.webp",
     plateCredit: {
       author: "Gemini",
-      license: "not stated"
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 67 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: two standing fruit bodies in leaf litter, an underside/gill view, a longitudinal section, a button section, a host-plant sprig with serrated leaves and an acorn, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600_v2.webp"
     },
     photos: [
       {
@@ -67535,11 +67539,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-27",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@400.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600_v2.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@400_v2.webp",
     plateCredit: {
       author: "Gemini",
-      license: "not stated"
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 68 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: two standing fruit bodies in mixed leaf and needle litter, an underside/gill view, a longitudinal section, a button section, a pine sprig with needles, cone and leaves, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600_v2.webp"
     },
     photos: [
       {
@@ -171245,6 +171251,1523 @@ export const CATALOG = [
         "path": "media/Fomitopsis_betulina@400.webp",
         "bytes": 39458,
         "sha256": "92224ffe9b352bc4253694551745f6dca3049533cc1f6e34d03871a9c6d88e9e"
+      }
+    ]
+  }
+},
+{
+  "name": "Hypholoma capnoides",
+  "author": "(Fr.) P. Kumm.",
+  "family": "Strophariaceae",
+  "genus": "Hypholoma",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Strophariaceae",
+    "Hypholoma"
+  ],
+  "summary": [
+    "Agaricales",
+    "Strophariaceae",
+    "Hypholoma"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 8.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 0.4,
+  "stipeThickTo": 1.0,
+  "label": {
+    "ar": null,
+    "bg": "борова пънчушка",
+    "cs": "třepenitka maková",
+    "da": "gran-svovlhat",
+    "de": "Rauchblättriger Schwefelkopf",
+    "en": "conifer tuft",
+    "es": "hifoloma de láminas grises",
+    "et": "suits-kollanutt",
+    "fa": null,
+    "fi": "kuusilahokka",
+    "fr": "hypholome à lames enfumées",
+    "he": null,
+    "hi": null,
+    "hr": "sivolisnata panjevka",
+    "hu": "fenyő-kénvirággomba",
+    "id": null,
+    "it": null,
+    "ja": "クリタケモドキ",
+    "ko": null,
+    "lt": "švelnioji kelmabudė",
+    "lv": "dūmainā sērsēne",
+    "nl": "Dennenzwavelkop",
+    "no": "svovelsopp",
+    "pl": "maślanka łagodna",
+    "pt": null,
+    "ro": null,
+    "ru": "ложноопёнок серопластинчатый",
+    "sk": "strapcovka maková",
+    "sl": "sivolistna žveplenjača",
+    "sr": null,
+    "sv": "rökslöjskivling",
+    "tr": null,
+    "uk": "опеньок хибний сіропластинчатий",
+    "zh": "煙色垂幕菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "třepenitka zakouřená",
+      "žlutotřepenitka maková"
+    ],
+    "da": [],
+    "de": [
+      "Graublättriger Schwefelkopf"
+    ],
+    "en": [
+      "smoky-gilled hypholoma"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "hypholome doux",
+      "hypholome à lames grises"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "Dennezwavelkop"
+    ],
+    "no": [
+      "vanlig svovelsopp"
+    ],
+    "pl": [
+      "łysiczka łagodna"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "ложноопёнок маковый"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "röksvavelskivling"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "烟色垂幕菇"
+    ]
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Hypholoma-capnoides/",
+      "https://botany.cz/cs/hypholoma-capnoides/",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://de.wikipedia.org/wiki/Graublättriger_Schwefelkopf",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=159037",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=159037",
+      "https://www.gbif.org/species/2533439",
+      "https://www.catalogueoflife.org/data/taxon/3NSG5",
+      "https://www.wikidata.org/wiki/Q1543695",
+      "https://www.inaturalist.org/taxa/64071-Hypholoma-capnoides",
+      "https://en.wikipedia.org/wiki/Hypholoma_capnoides",
+      "https://www.first-nature.com/fungi/hypholoma-capnoides.php",
+      "https://de.wikipedia.org/wiki/Graublättriger_Schwefelkopf",
+      "https://fi.wikipedia.org/wiki/Kuusilahokka",
+      "https://www.nahuby.sk/atlas-hub/Hypholoma-capnoides/strapcovka-makova/trepenitka-makova/ID644",
+      "https://www.myko.cz/myko-atlas/Hypholoma-capnoides/",
+      "https://botany.cz/cs/hypholoma-capnoides/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.09.02.00.01.00?from=gallery",
+      "https://www.fungi.lv/hypholoma_capnoides.htm",
+      "https://www.fichasmicologicas.com/?alf=*&art=384&micos=1",
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "es": [
+      "https://www.fichasmicologicas.com/?alf=*&art=384&micos=1",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.09.02.00.01.00?from=gallery",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "et": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://et.wikipedia.org/wiki/Suits-kollanutt"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Kuusilahokka"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Hypholoma_capnoides",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Sivolisnata_panjevka"
+    ],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "ko": [],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+      "https://lt.wikipedia.org/wiki/Švelnioji_kelmabudė"
+    ],
+    "lv": [
+      "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf",
+      "https://www.fungi.lv/hypholoma_capnoides.htm"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Dennenzwavelkop"
+    ],
+    "no": [
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://no.wikipedia.org/wiki/Svovelsopp"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Maślanka_łagodna",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Ложноопёнок_серопластинчатый",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Hypholoma-capnoides/strapcovka-makova/trepenitka-makova/ID644",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=159037",
+      "https://www.gbif.org/species/2533439"
+    ],
+    "sl": [
+      "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "sr": [],
+    "sv": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Rökslöjskivling"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Опеньок_хибний_сіропластинчатий",
+      "https://api.gbif.org/v1/species/2533439/vernacularNames"
+    ],
+    "zh": [
+      "https://api.gbif.org/v1/species/2533439/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1543695"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر صفائحي صغير إلى متوسط الحجم ينمو في عناقيد كثيفة على جذوع وجذور الأشجار المخروطية المتحللة. تشبه قبعاته الصفراء إلى المغرّة كثيرًا قبعات الفطر السام Hypholoma fasciculare، لكن صفائحه رمادية بلون الدخان ولا تكون مخضرّة أبدًا، وطعمه معتدل غير مرّ. ينتشر في نصف الكرة الشمالي، في أوروبا وشمال آسيا وأمريكا الشمالية، وهو شائع في أماكن كثيرة.",
+      "cap": "يبلغ قطر القبعة ٢–٨ cm، وتكون في البداية مستديرة إلى جرسية، ثم محدّبة، وأخيرًا مسطحة. سطحها أملس وجاف، لامع قليلًا أو دهني عند الرطوبة، أصفر مغرّي إلى أصفر برتقالي، ووسطها دائمًا أغمق وأقرب إلى البني البرتقالي؛ ويبهت عند الجفاف إلى لون مغرّي فاتح. في الفطور الصغيرة تحمل الحافة بقايا خيطية مبيضّة من الغلاف، سرعان ما تغمق أو تختفي.",
+      "hymenium": "الصفائح ملتصقة بالساق، متقاربة إلى حد ما، وتتخللها صفائح أقصر. تكون في البداية مبيضّة إلى قشدية باهتة، ثم رمادية بلون الدخان إلى رمادية ليلكية كبذور الخشخاش، وأخيرًا بنية أرجوانية عند نضج الأبواغ. ولا تظهر عليها أبدًا درجات صفراء مخضرّة.",
+      "stipe": "يبلغ طول الساق ٤–١٠ cm وسمكها ٠٫٤–١ cm، وهي أسطوانية، كثيرًا ما تكون منحنية لأن الأجسام الثمرية تنمو في عناقيد متراصة، وسرعان ما تصبح جوفاء. لونها أصفر باهت تحت القبعة ويتحول إلى البني الصدئي نحو القاعدة. سطحها ليفي دقيق، وقد تظهر على الفطور الصغيرة منطقة حلقية باهتة من الغلاف، لكن لا توجد حلقة دائمة.",
+      "flesh": "اللحم رقيق، مبيضّ إلى أصفر باهت في القبعة ومائل إلى البني في قاعدة الساق. الرائحة ضعيفة، وأحيانًا عفنة قليلًا، والطعم معتدل وغير مرّ أبدًا.",
+      "sporePrint": "طبعة الأبواغ بنية أرجوانية داكنة إلى رمادية بنفسجية. الأبواغ ملساء، إهليلجية، سميكة الجدار، ولها ثقب إنبات واضح، نحو ٦–٨٫٥ × ٣٫٥–٥ µm.",
+      "habitat": "هو فطر رمّي يحلّل الخشب الميت. ينمو في عناقيد كثيفة، وأحيانًا منفردًا، على الجذوع المتحللة وعلى الجذور المدفونة أو المكشوفة للأشجار المخروطية، ولا سيما التنوب، وكذلك الصنوبر والشوح، ونادرًا فقط على خشب الأشجار عريضة الأوراق مثل الزان. يوجد في الغابات المخروطية والمختلطة، وأكثر في المناطق التلّية والجبلية. الموسم الرئيسي في أوروبا من سبتمبر إلى نوفمبر، لكن في الطقس المعتدل قد تظهر الأجسام الثمرية في أي شهر تقريبًا، بما في ذلك الربيع.",
+      "uses": "يؤكل بعد الطهي، وهو مستحسن في وسط أوروبا وشمالها، لكن تُستخدم القبعات فقط لأن السيقان قاسية. يناسب الحساء وأطباق الفطر المشكّل، ويمكن تخليله أيضًا. تنصح أدلة كثيرة بالحذر، لأن العناقيد تُخلط بسهولة مع أنواع سامة وقاتلة تنمو على الجذوع نفسها. لا تجمعه إلا إذا كان كل جسم ثمري قد تم تحديده بيقين.",
+      "confusion": "الفطر السام Hypholoma fasciculare أصفر كبريتي أزهى، وصفائحه صفراء مخضرّة إلى زيتونية وطعمه مرّ جدًا. أما Hypholoma lateritium فأمتن بنية، ووسط قبعته أحمر قرميدي وصفائحه مصفرّة؛ وهو مرّ وينمو غالبًا على خشب الأشجار عريضة الأوراق. والفطر القاتل Galerina marginata ينمو أيضًا في عناقيد على خشب المخروطيات، لكن صفائحه بنية صدئية وله حلقة رقيقة وطبعة أبواغ بنية صدئية. ولـ Kuehneromyces mutabilis قبعة ثنائية اللون مشبعة بالماء، وحلقة، وساق حرشفية تحتها. افحص لون الصفائح وطبعة الأبواغ لكل جسم ثمري.",
+      "notes": "يعني النعت النوعي capnoides «شبيه بالدخان»، ويشير إلى الصفائح الرمادية بلون الدخان التي تميزه عن أنواع Hypholoma الأخرى النامية في عناقيد. وصفه إلياس فريس عام ١٨١٨ باسم Agaricus capnoides، ثم نقله باول كومر عام ١٨٧١ إلى الجنس Hypholoma. وهو النوع الوحيد من أنواع Hypholoma النامية في عناقيد الذي يُعدّ عمومًا صالحًا للأكل.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка до средно голяма пластинчата гъба, която расте в гъсти туфи върху гниещи пънове и корени на иглолистни дървета. Жълтите до охрени шапки много приличат на шапките на отровната Hypholoma fasciculare, но пластинките ѝ са димносиви и никога не са зеленикави, а вкусът е мек, не горчив. Разпространена е в Северното полукълбо — в Европа, Северна Азия и Северна Америка — и на много места е обичайна.",
+      "cap": "Шапката е 2–8 cm в диаметър, отначало заоблена до камбановидна, после изпъкнала и накрая разперена. Повърхността е гладка и суха, при влажно време леко лъскава или мазна, охреножълта до оранжевожълта и в центъра винаги по-тъмна, по-оранжевокафява; при изсъхване избледнява до светлоохрена. При младите гъби по ръба има белезникави, нишковидни остатъци от було, които скоро потъмняват или изчезват.",
+      "hymenium": "Пластинките са прирасли към пънчето, доста гъсти и примесени с по-къси пластинки. Отначало са белезникави до бледокремави, после димносиви до сиво-люлякови като маково семе и накрая пурпурнокафяви, когато спорите узреят. Никога нямат жълтозелени оттенъци.",
+      "stipe": "Пънчето е дълго 4–10 cm и дебело 0,4–1 cm, цилиндрично, заради растежа в стегнати туфи често извито и скоро кухо. Под шапката е бледожълто, а към основата става ръждивокафяво. Финовлакнесто е и младите гъби може да имат слаба пръстеновидна зона от булото, но траен пръстен няма.",
+      "flesh": "Месото е тънко, в шапката белезникаво до бледожълто, а в основата на пънчето кафеникаво. Мирисът е слаб, понякога леко на плесен, а вкусът е мек, никога горчив.",
+      "sporePrint": "Споровият отпечатък е тъмен пурпурнокафяв до сиво-виолетов. Спорите са гладки, елипсоидни, дебелостенни, с ясна покълнителна пора, около 6–8,5 × 3,5–5 µm.",
+      "habitat": "Тя е сапротроф, който разгражда мъртва дървесина. Расте в гъсти туфи, понякога поединично, върху гниещи пънове и върху заровени или оголени корени на иглолистни дървета, особено смърч, но и бор и ела, и само рядко върху дървесина на широколистни видове като бук. Среща се в иглолистни и смесени гори, по-често в хълмисти и планински райони. Основният сезон в Европа е от септември до ноември, но при меко време плодните тела могат да се появят почти през всеки месец, включително през пролетта.",
+      "uses": "След термична обработка е ядлива и ценена в Централна и Северна Европа, но се използват само шапките, защото пънчетата са жилави. Подходяща е за супи и смесени гъбени ястия и може да се маринова. Много определители съветват предпазливост, защото туфите лесно се бъркат с отровни и смъртоносно отровни видове, растящи на същите пънове. Берете я само ако всяко плодно тяло е определено със сигурност.",
+      "confusion": "Отровната Hypholoma fasciculare е по-ярко сярножълта, с жълтозелени до маслиненозелени пластинки и много горчив вкус. Hypholoma lateritium е по-едра, с тухленочервен център на шапката и жълтеникави пластинки; горчива е и расте предимно върху дървесина на широколистни. Смъртоносно отровната Galerina marginata също расте на туфи върху иглолистна дървесина, но има ръждивокафяви пластинки, тънък пръстен и ръждивокафяв споров отпечатък. Kuehneromyces mutabilis има двуцветна, воднисто напоена шапка, пръстен и люспесто пънче под него. Проверявайте цвета на пластинките и споровия отпечатък на всяко плодно тяло.",
+      "notes": "Видовият епитет capnoides означава „подобен на дим“ и се отнася до димносивите пластинки, които я отличават от другите растящи на туфи видове от рода Hypholoma. Елиас Фрис я описва през 1818 г. като Agaricus capnoides, а Паул Кумер я премества в рода Hypholoma през 1871 г. Това е единственият растящ на туфи вид от рода Hypholoma, който обикновено се смята за ядлив.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "борова пънчушка"
+    },
+    "cs": {
+      "description": "Malá až středně velká lupenatá houba, která roste v hustých trsech na tlejících pařezech a kořenech jehličnanů. Její žluté až okrové klobouky se velmi podobají kloboukům jedovaté Hypholoma fasciculare, lupeny má však kouřově šedé a nikdy nazelenalé a chuť mírnou, ne hořkou. Je rozšířená na severní polokouli, v Evropě, severní Asii a Severní Americe, a na mnoha místech je hojná.",
+      "cap": "Klobouk má 2–8 cm v průměru, nejprve je polokulovitý až zvoncovitý, pak vyklenutý a nakonec plochý. Povrch je hladký a suchý, za vlhka slabě lesklý nebo mastný, okrově žlutý až oranžově žlutý a ve středu vždy tmavší, více oranžově hnědý; při vysychání bledne do světle okrové. V mládí nese okraj bělavé vláknité zbytky vela, které brzy tmavnou nebo mizí.",
+      "hymenium": "Lupeny jsou ke třeni připojené, dosti husté a promísené s kratšími lupínky. Nejprve jsou bělavé až světle krémové, pak kouřově šedé až makově šedofialové a nakonec purpurově hnědé, jak dozrávají výtrusy. Nikdy nemají žlutozelené tóny.",
+      "stipe": "Třeň je 4–10 cm dlouhý a 0,4–1 cm silný, válcovitý, kvůli růstu v těsných trsech často zakřivený a brzy dutý. Pod kloboukem je světle žlutý a směrem k bázi rezavě hnědý. Je jemně vláknitý a mladé plodnice mohou mít po velu slabou prstenovou zónu, trvalý prsten však chybí.",
+      "flesh": "Dužnina je tenká, v klobouku bělavá až světle žlutá, v bázi třeně nahnědlá. Vůně je slabá, někdy lehce zatuchlá, a chuť je mírná, nikdy hořká.",
+      "sporePrint": "Výtrusný prach je tmavě purpurově hnědý až šedofialový. Výtrusy jsou hladké, elipsoidní, tlustostěnné, s výrazným klíčním pórem, asi 6–8,5 × 3,5–5 µm.",
+      "habitat": "Je to saprotrof, který rozkládá mrtvé dřevo. Roste v hustých trsech, někdy i jednotlivě, na tlejících pařezech a na zasypaných nebo obnažených kořenech jehličnanů, hlavně smrku, ale i borovice a jedle, a jen vzácně na listnatém dřevě, například buku. Vyskytuje se v jehličnatých a smíšených lesích, častěji v pahorkatinách a horách. Hlavní sezóna v Evropě je září až listopad, za mírného počasí se však plodnice mohou objevit téměř v kterémkoli měsíci, i na jaře.",
+      "uses": "Po tepelné úpravě je jedlá a ve střední a severní Evropě oblíbená, používají se však jen klobouky, protože třeně jsou tuhé. Hodí se do polévek a houbových směsí a dá se i nakládat. Mnohé příručky radí opatrnost, protože trsy se snadno zamění s jedovatými a smrtelně jedovatými druhy, které rostou na stejných pařezech. Sbírejte ji jen tehdy, je-li každá plodnice s jistotou určena.",
+      "confusion": "Jedovatá Hypholoma fasciculare je zářivěji sírově žlutá, se žlutozelenými až olivovými lupeny a velmi hořkou chutí. Hypholoma lateritium je statnější, se středem klobouku cihlově červeným a nažloutlými lupeny; je hořká a roste převážně na listnatém dřevě. Smrtelně jedovatá Galerina marginata roste také v trsech na jehličnatém dřevě, má však rezavě hnědé lupeny, tenký prsten a rezavě hnědý výtrusný prach. Kuehneromyces mutabilis má dvoubarevný, nasáklý klobouk, prsten a pod ním šupinatý třeň. U každé plodnice zkontrolujte barvu lupenů a výtrusný prach.",
+      "notes": "Druhové jméno capnoides znamená podobný kouři a odkazuje na kouřově šedé lupeny, které ji odlišují od ostatních trsnatě rostoucích druhů rodu Hypholoma. Elias Fries ji v roce 1818 popsal jako Agaricus capnoides a Paul Kummer ji v roce 1871 přeřadil do rodu Hypholoma. Je to jediný trsnatě rostoucí druh rodu Hypholoma, který je obecně považován za jedlý.",
+      "names": [
+        "třepenitka zakouřená",
+        "žlutotřepenitka maková"
+      ],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Hypholoma-capnoides/",
+        "https://botany.cz/cs/hypholoma-capnoides/",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "třepenitka maková"
+    },
+    "da": {
+      "description": "En lille til mellemstor bladsvamp, der vokser i tætte knipper på rådnende stubbe og rødder af nåletræer. Dens gule til okkerfarvede hatte ligner meget hattene hos den giftige Hypholoma fasciculare, men lamellerne er røggrå og aldrig grønlige, og smagen er mild, ikke bitter. Den er udbredt på den nordlige halvkugle, i Europa, det nordlige Asien og Nordamerika, og mange steder er den almindelig.",
+      "cap": "Hatten er 2–8 cm bred, først rundet til klokkeformet, derefter hvælvet og til sidst flad. Overfladen er glat og tør, i fugtigt vejr let skinnende eller fedtet, okkergul til orangegul og i midten altid mørkere, mere orangebrun; når den tørrer, blegner den til lys okker. Hos unge eksemplarer bærer randen hvidlige, trådagtige slørrester, som snart mørkner eller forsvinder.",
+      "hymenium": "Lamellerne er tilvoksede til stokken, ret tætte og blandet med kortere lameller. De er først hvidlige til bleg cremefarvede, så røggrå til valmuefrøgrå med lilla tone og til sidst purpurbrune, når sporerne modner. De har aldrig gulgrønne toner.",
+      "stipe": "Stokken er 4–10 cm lang og 0,4–1 cm tyk, cylindrisk, ofte krummet, fordi frugtlegemerne vokser i tætte knipper, og snart hul. Den er bleggul under hatten og bliver rustbrun mod basis. Den er fint trævlet, og unge eksemplarer kan vise en svag ringzone fra sløret, men der er ingen blivende ring.",
+      "flesh": "Kødet er tyndt, hvidligt til bleggult i hatten og brunligt i stokkens basis. Lugten er svag, undertiden let muggen, og smagen er mild, aldrig bitter.",
+      "sporePrint": "Sporefarven er mørkt purpurbrun til gråviolet. Sporerne er glatte, ellipsoide og tykvæggede med en tydelig kimpore, ca. 6–8,5 × 3,5–5 µm.",
+      "habitat": "Den er en saprotrof, der nedbryder dødt ved. Den vokser i tætte knipper, undertiden enkeltvis, på rådnende stubbe og på begravede eller blottede rødder af nåletræer, især gran, men også fyr og ædelgran, og kun sjældent på løvtræ som bøg. Den findes i nåle- og blandskove, oftere i bakke- og bjergegne. Hovedsæsonen i Europa er september til november, men i mildt vejr kan frugtlegemerne komme frem i næsten alle måneder, også om foråret.",
+      "uses": "Den er spiselig efter tilberedning og værdsat i Central- og Nordeuropa, men kun hattene bruges, fordi stokkene er seje. Den er god i supper og blandede svamperetter og kan også syltes. Mange svampebøger råder til forsigtighed, fordi knipperne let forveksles med giftige og dødeligt giftige arter, der vokser på de samme stubbe. Saml den kun, hvis hvert eneste frugtlegeme er bestemt med sikkerhed.",
+      "confusion": "Den giftige Hypholoma fasciculare er klarere svovlgul, med gulgrønne til olivenfarvede lameller og en meget bitter smag. Hypholoma lateritium er kraftigere, med teglrød hattemidte og gullige lameller; den er bitter og vokser mest på løvtræ. Den dødeligt giftige Galerina marginata vokser også i knipper på nåletræ, men har rustbrune lameller, en tynd ring og rustbrunt sporestøv. Kuehneromyces mutabilis har en tofarvet, vandtrukken hat, en ring og en skællet stok under ringen. Kontrollér lamelfarven og sporefarven på hvert frugtlegeme.",
+      "notes": "Artsnavnet capnoides betyder røglignende og henviser til de røggrå lameller, der adskiller den fra de øvrige knippevoksende Hypholoma-arter. Elias Fries beskrev den i 1818 som Agaricus capnoides, og Paul Kummer flyttede den i 1871 til slægten Hypholoma. Den er den eneste knippevoksende Hypholoma-art, der almindeligvis regnes for spiselig.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "gran-svovlhat"
+    },
+    "de": {
+      "description": "Ein kleiner bis mittelgroßer Blätterpilz, der in dichten Büscheln auf morschen Nadelholzstümpfen und -wurzeln wächst. Seine gelben bis ockerfarbenen Hüte ähneln stark denen des giftigen Hypholoma fasciculare, doch seine Lamellen sind rauchgrau und nie grünlich, und er schmeckt mild statt bitter. Er ist auf der Nordhalbkugel verbreitet, in Europa, Nordasien und Nordamerika, und vielerorts häufig.",
+      "cap": "Der Hut ist 2–8 cm breit, zunächst rundlich bis glockig, dann gewölbt und schließlich abgeflacht. Die Oberfläche ist glatt und trocken, bei Nässe leicht glänzend oder fettig, ockergelb bis orangegelb und in der Mitte stets dunkler, mehr orangebraun; beim Abtrocknen blasst sie zu hellem Ocker aus. Jung trägt der Rand weißliche, fädige Velumreste, die bald nachdunkeln oder verschwinden.",
+      "hymenium": "Die Lamellen sind am Stiel angewachsen, ziemlich gedrängt und mit kürzeren Lamelletten untermischt. Sie sind zuerst weißlich bis blass cremefarben, dann rauchgrau bis mohngrau-lila und schließlich purpurbraun, wenn die Sporen reifen. Gelbgrüne Töne zeigen sie nie.",
+      "stipe": "Der Stiel ist 4–10 cm lang und 0,4–1 cm dick, zylindrisch, wegen des Wachstums in engen Büscheln oft gebogen und bald hohl. Unter dem Hut ist er blassgelb, zur Basis hin rostbraun. Er ist fein faserig, und junge Fruchtkörper können eine schwache Ringzone vom Velum zeigen, einen bleibenden Ring gibt es aber nicht.",
+      "flesh": "Das Fleisch ist dünn, im Hut weißlich bis blassgelb und in der Stielbasis bräunlich. Der Geruch ist schwach, manchmal leicht muffig, und der Geschmack ist mild, nie bitter.",
+      "sporePrint": "Das Sporenpulver ist dunkel purpurbraun bis grauviolett. Die Sporen sind glatt, ellipsoid und dickwandig mit deutlichem Keimporus, etwa 6–8,5 × 3,5–5 µm.",
+      "habitat": "Er ist ein Saprobiont, der totes Holz zersetzt. Er wächst in dichten Büscheln, manchmal auch einzeln, auf morschen Stümpfen und auf vergrabenen oder freiliegenden Wurzeln von Nadelbäumen, besonders Fichte, aber auch Kiefer und Tanne, und nur selten auf Laubholz wie Buche. Man findet ihn in Nadel- und Mischwäldern, häufiger im Hügel- und Bergland. Die Hauptsaison in Europa ist September bis November, bei mildem Wetter können Fruchtkörper aber in fast jedem Monat erscheinen, auch im Frühjahr.",
+      "uses": "Gegart ist er essbar und in Mittel- und Nordeuropa geschätzt, verwendet werden aber nur die Hüte, weil die Stiele zäh sind. Er eignet sich für Suppen und Mischpilzgerichte und lässt sich auch einlegen. Viele Pilzbücher raten zur Vorsicht, da die Büschel leicht mit giftigen und tödlich giftigen Arten verwechselt werden, die auf denselben Stümpfen wachsen. Sammeln Sie ihn nur, wenn jeder Fruchtkörper sicher bestimmt ist.",
+      "confusion": "Der giftige Hypholoma fasciculare ist leuchtender schwefelgelb, mit gelbgrünen bis olivfarbenen Lamellen und sehr bitterem Geschmack. Hypholoma lateritium ist kräftiger, mit ziegelroter Hutmitte und gelblichen Lamellen; er ist bitter und wächst meist auf Laubholz. Die tödlich giftige Galerina marginata wächst ebenfalls büschelig auf Nadelholz, hat aber rostbraune Lamellen, einen dünnen Ring und rostbraunes Sporenpulver. Kuehneromyces mutabilis hat einen zweifarbigen, wässrig durchfeuchteten Hut, einen Ring und darunter einen schuppigen Stiel. Prüfen Sie bei jedem Fruchtkörper die Lamellenfarbe und das Sporenpulver.",
+      "notes": "Der Artname capnoides bedeutet rauchähnlich und bezieht sich auf die rauchgrauen Lamellen, die ihn von den übrigen büschelig wachsenden Hypholoma-Arten unterscheiden. Elias Fries beschrieb ihn 1818 als Agaricus capnoides, und Paul Kummer stellte ihn 1871 in die Gattung Hypholoma. Er ist die einzige büschelig wachsende Hypholoma-Art, die allgemein als essbar gilt.",
+      "names": [
+        "Graublättriger Schwefelkopf"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://de.wikipedia.org/wiki/Graublättriger_Schwefelkopf",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "Rauchblättriger Schwefelkopf"
+    },
+    "en": {
+      "description": "A small to medium-sized gilled mushroom that grows in dense tufts on rotting conifer stumps and roots. Its yellow to ochre caps look much like those of the poisonous Hypholoma fasciculare, but its gills are smoky grey and never greenish, and it tastes mild rather than bitter. It is widespread in the Northern Hemisphere, in Europe, northern Asia and North America, and in many places it is common.",
+      "cap": "The cap is 2–8 cm across, rounded to bell-shaped at first, then convex and finally flattened. The surface is smooth and dry, slightly shiny or greasy when wet, ochre-yellow to orange-yellow and always darker, more orange-brown at the centre, fading to pale ochre as it dries. When young, the margin carries whitish, thread-like veil remnants, which soon darken or disappear.",
+      "hymenium": "The gills are attached to the stem, fairly crowded and mixed with shorter gills. They are whitish to pale cream at first, then smoky grey to poppy-seed grey-lilac, and finally purple-brown as the spores ripen. They never show yellow-green tones.",
+      "stipe": "The stem is 4–10 cm long and 0.4–1 cm thick, cylindrical, often curved because the fruit bodies grow in tight clusters, and soon hollow. It is pale yellow below the cap and becomes rust-brown towards the base. It is finely fibrous, and young specimens may show a faint ring zone from the veil, but there is no persistent ring.",
+      "flesh": "The flesh is thin, whitish to pale yellow in the cap and brownish in the stem base. The smell is weak, sometimes faintly musty, and the taste is mild, never bitter.",
+      "sporePrint": "The spore print is dark purple-brown to grey-violet. The spores are smooth, ellipsoid and thick-walled with a distinct germ pore, about 6–8.5 × 3.5–5 µm.",
+      "habitat": "It is a saprobe that decays dead wood. It grows in dense tufts, sometimes singly, on rotting stumps and on buried or exposed roots of conifers, especially spruce and also pine and fir, and only rarely on broadleaved wood such as beech. It is found in coniferous and mixed forests, more often in hills and mountains. The main season in Europe is September to November, but in mild weather fruit bodies can appear in almost any month, including spring.",
+      "uses": "It is edible when cooked and well regarded in Central and Northern Europe, but only the caps are used because the stems are tough. It is good in soups and mixed mushroom dishes and can also be pickled. Many guides advise caution because the clusters are easily confused with poisonous and deadly species growing on the same stumps. Pick it only if every fruit body has been identified with certainty.",
+      "confusion": "The poisonous Hypholoma fasciculare is brighter sulphur-yellow, with yellow-green to olive gills and a very bitter taste. Hypholoma lateritium is sturdier, with a brick-red cap centre and yellowish gills; it is bitter and grows mostly on broadleaved wood. Galerina marginata, which is deadly, also grows in tufts on conifer wood, but it has rusty-brown gills, a thin ring and a rusty-brown spore print. Kuehneromyces mutabilis has a two-coloured, water-soaked cap, a ring and a scaly stem below it. Check the gill colour and the spore print of every fruit body.",
+      "notes": "The species name capnoides means smoke-like and refers to the smoky grey gills, which separate it from the other clustered Hypholoma species. Elias Fries described it in 1818 as Agaricus capnoides, and Paul Kummer moved it to Hypholoma in 1871. It is the only clustered Hypholoma species that is generally regarded as edible.",
+      "names": [
+        "smoky-gilled hypholoma"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=159037",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=159037",
+        "https://www.gbif.org/species/2533439",
+        "https://www.catalogueoflife.org/data/taxon/3NSG5",
+        "https://www.wikidata.org/wiki/Q1543695",
+        "https://www.inaturalist.org/taxa/64071-Hypholoma-capnoides",
+        "https://en.wikipedia.org/wiki/Hypholoma_capnoides",
+        "https://www.first-nature.com/fungi/hypholoma-capnoides.php",
+        "https://de.wikipedia.org/wiki/Graublättriger_Schwefelkopf",
+        "https://fi.wikipedia.org/wiki/Kuusilahokka",
+        "https://www.nahuby.sk/atlas-hub/Hypholoma-capnoides/strapcovka-makova/trepenitka-makova/ID644",
+        "https://www.myko.cz/myko-atlas/Hypholoma-capnoides/",
+        "https://botany.cz/cs/hypholoma-capnoides/",
+        "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.09.02.00.01.00?from=gallery",
+        "https://www.fungi.lv/hypholoma_capnoides.htm",
+        "https://www.fichasmicologicas.com/?alf=*&art=384&micos=1",
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "conifer tuft"
+    },
+    "es": {
+      "description": "Una seta de láminas, de tamaño pequeño a mediano, que crece en grupos densos sobre tocones y raíces podridos de coníferas. Sus sombreros amarillos a ocres se parecen mucho a los de la tóxica Hypholoma fasciculare, pero sus láminas son gris humo y nunca verdosas, y su sabor es suave, no amargo. Está extendida por el hemisferio norte, en Europa, el norte de Asia y Norteamérica, y en muchos lugares es común.",
+      "cap": "El sombrero mide 2–8 cm de diámetro; primero es redondeado a acampanado, luego convexo y finalmente aplanado. La superficie es lisa y seca, algo brillante o grasienta con humedad, amarillo ocre a amarillo anaranjado y siempre más oscura, más pardo anaranjada, en el centro; al secarse palidece a ocre claro. En los ejemplares jóvenes el margen lleva restos de velo blanquecinos y filamentosos, que pronto se oscurecen o desaparecen.",
+      "hymenium": "Las láminas están unidas al pie, son bastante apretadas y van mezcladas con laminillas más cortas. Primero son blanquecinas a crema pálido, luego gris humo a gris lila como la semilla de amapola y finalmente pardo púrpura al madurar las esporas. Nunca muestran tonos amarillo verdosos.",
+      "stipe": "El pie mide 4–10 cm de largo y 0,4–1 cm de grosor; es cilíndrico, a menudo curvado porque los carpóforos crecen en grupos apretados, y pronto hueco. Es amarillo pálido bajo el sombrero y se vuelve pardo óxido hacia la base. Es finamente fibriloso, y los ejemplares jóvenes pueden mostrar una débil zona anular dejada por el velo, pero no hay anillo persistente.",
+      "flesh": "La carne es delgada, blanquecina a amarillo pálido en el sombrero y parduzca en la base del pie. El olor es débil, a veces ligeramente a moho, y el sabor es suave, nunca amargo.",
+      "sporePrint": "La esporada es pardo púrpura oscura a gris violácea. Las esporas son lisas, elipsoidales, de pared gruesa y con un poro germinativo nítido, de unos 6–8,5 × 3,5–5 µm.",
+      "habitat": "Es un saprótrofo que descompone madera muerta. Crece en grupos densos, a veces aislada, sobre tocones podridos y sobre raíces enterradas o expuestas de coníferas, sobre todo píceas, pero también pinos y abetos, y solo raramente sobre madera de frondosas como el haya. Se encuentra en bosques de coníferas y mixtos, más a menudo en zonas de colinas y montaña. La temporada principal en Europa va de septiembre a noviembre, pero con tiempo suave los carpóforos pueden aparecer casi cualquier mes, también en primavera.",
+      "uses": "Es comestible cocinada y apreciada en Europa central y del norte, pero solo se usan los sombreros, porque los pies son correosos. Va bien en sopas y en mezclas de setas y también puede encurtirse. Muchas guías aconsejan precaución, porque los grupos se confunden fácilmente con especies tóxicas y mortales que crecen en los mismos tocones. Recójala solo si cada carpóforo está identificado con total seguridad.",
+      "confusion": "La tóxica Hypholoma fasciculare es de un amarillo azufre más vivo, con láminas amarillo verdosas a oliváceas y sabor muy amargo. Hypholoma lateritium es más robusta, con el centro del sombrero rojo ladrillo y láminas amarillentas; es amarga y crece sobre todo en madera de frondosas. La mortal Galerina marginata también crece en grupos sobre madera de coníferas, pero tiene láminas pardo óxido, un anillo fino y esporada pardo óxido. Kuehneromyces mutabilis tiene un sombrero bicolor e higrófano, un anillo y el pie escamoso por debajo de él. Compruebe el color de las láminas y la esporada de cada carpóforo.",
+      "notes": "El epíteto capnoides significa parecido al humo y alude a las láminas gris humo, que la distinguen de las demás especies de Hypholoma que crecen en grupos. Elias Fries la describió en 1818 como Agaricus capnoides, y Paul Kummer la trasladó al género Hypholoma en 1871. Es la única especie de Hypholoma de crecimiento fasciculado que se considera generalmente comestible.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.fichasmicologicas.com/?alf=*&art=384&micos=1",
+        "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.09.02.00.01.00?from=gallery",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "hifoloma de láminas grises"
+    },
+    "et": {
+      "description": "Väike kuni keskmise suurusega lehikseen, mis kasvab tihedates kobarates okaspuude kõdunevatel kändudel ja juurtel. Selle kollased kuni ookrikarva kübarad sarnanevad väga mürgise Hypholoma fasciculare kübaratega, kuid eoslehed on suitsuhallid ega ole kunagi rohekad, ja maitse on mahe, mitte kibe. Liik on levinud põhjapoolkeral, Euroopas, Põhja-Aasias ja Põhja-Ameerikas, ning paljudes kohtades on see tavaline.",
+      "cap": "Kübar on 2–8 cm lai, alguses ümar kuni kellukjas, siis kumer ja lõpuks lame. Pind on sile ja kuiv, niiskena veidi läikiv või rasvane, ookerkollane kuni oranžikaskollane ning keskelt alati tumedam, rohkem oranžikaspruun; kuivades tuhmub see heledaks ookriks. Noortel viljakehadel on serval valkjad, niitjad looriku jäänused, mis peagi tumenevad või kaovad.",
+      "hymenium": "Eoslehed on jala külge kinnitunud, üsna tihedad ja vaheldumisi lühemate eoslehtedega. Need on alguses valkjad kuni kahvatukreemjad, siis suitsuhallid kuni hallikaslillad ja lõpuks purpurpruunid, kui eosed valmivad. Kollakasrohelisi toone neil kunagi ei ole.",
+      "stipe": "Jalg on 4–10 cm pikk ja 0,4–1 cm jäme, silindriline, tihedates kobarates kasvamise tõttu sageli kõver ja peagi õõnes. Kübara all on see kahvatukollane ja muutub aluse poole roostepruuniks. See on peenkiuline ning noortel viljakehadel võib olla looriku jäetud nõrk rõngavöönd, kuid püsivat rõngast ei ole.",
+      "flesh": "Viljaliha on õhuke, kübaras valkjas kuni kahvatukollane ja jala alusel pruunikas. Lõhn on nõrk, mõnikord kergelt kopitanud, ja maitse on mahe, mitte kunagi kibe.",
+      "sporePrint": "Eoste mass on tume purpurpruun kuni hallikasviolett. Eosed on siledad, ellipsoidsed ja paksuseinalised, selge idupooriga, umbes 6–8,5 × 3,5–5 µm.",
+      "habitat": "See on saproob, mis lagundab surnud puitu. Kasvab tihedates kobarates, mõnikord üksikult, kõdunevatel kändudel ning maetud või paljastunud okaspuujuurtel, eriti kuusel, aga ka männil ja nulul, ning ainult harva lehtpuidul, näiteks pöögil. Seda leidub okas- ja segametsades, sagedamini küngastel ja mägedes. Euroopas on põhihooaeg septembrist novembrini, kuid pehme ilmaga võivad viljakehad ilmuda peaaegu igal kuul, ka kevadel.",
+      "uses": "Kuumtöödelduna on see söödav ning Kesk- ja Põhja-Euroopas hinnatud, kuid kasutatakse ainult kübaraid, sest jalad on sitked. Sobib suppidesse ja seenesegudesse ning seda saab ka marineerida. Paljud seeneraamatud soovitavad ettevaatust, sest kobaraid on kerge segi ajada samadel kändudel kasvavate mürgiste ja surmavalt mürgiste liikidega. Korja seda ainult siis, kui iga viljakeha on kindlalt määratud.",
+      "confusion": "Mürgine Hypholoma fasciculare on erksamalt väävelkollane, kollakasroheliste kuni oliivikate eoslehtede ja väga kibeda maitsega. Hypholoma lateritium on tüsedam, telliskivipunase kübarakeskme ja kollakate eoslehtedega; see on kibe ja kasvab peamiselt lehtpuidul. Surmavalt mürgine Galerina marginata kasvab samuti kobarates okaspuidul, kuid sellel on roostepruunid eoslehed, õhuke rõngas ja roostepruun eoste mass. Kuehneromyces mutabilis'el on kahevärviline, vesine kübar, rõngas ja selle all soomuseline jalg. Kontrolli iga viljakeha eoslehtede värvi ja eoste massi.",
+      "notes": "Liiginimi capnoides tähendab suitsutaolist ja viitab suitsuhallidele eoslehtedele, mis eristavad seda teistest kobaras kasvavatest Hypholoma liikidest. Elias Fries kirjeldas seda 1818. aastal nimega Agaricus capnoides ning Paul Kummer viis selle 1871. aastal perekonda Hypholoma. See on ainus kobaras kasvav Hypholoma liik, mida üldiselt peetakse söödavaks.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://et.wikipedia.org/wiki/Suits-kollanutt"
+      ],
+      "label": "suits-kollanutt"
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار، کوچک تا متوسط، که به‌صورت دسته‌های انبوه روی کنده‌ها و ریشه‌های پوسیدهٔ درختان سوزنی‌برگ می‌روید. کلاهک‌های زرد تا اُخرایی آن بسیار شبیه کلاهک‌های قارچ سمی Hypholoma fasciculare است، اما تیغه‌هایش خاکستری دودی‌اند و هرگز سبزگون نیستند و مزه‌اش ملایم است، نه تلخ. در نیمکرهٔ شمالی، در اروپا، شمال آسیا و آمریکای شمالی پراکنده است و در بسیاری از جاها فراوان است.",
+      "cap": "کلاهک ۲–۸ cm قطر دارد، در آغاز گرد تا زنگوله‌ای، سپس محدب و سرانجام پهن است. سطح آن صاف و خشک، در هوای مرطوب کمی براق یا چرب، زرد اُخرایی تا زرد نارنجی و در مرکز همیشه تیره‌تر و نارنجی‌قهوه‌ای‌تر است؛ با خشک شدن به اُخرایی روشن رنگ می‌بازد. در نمونه‌های جوان، لبه بقایای سفیدفام و رشته‌ای پرده دارد که زود تیره می‌شوند یا از بین می‌روند.",
+      "hymenium": "تیغه‌ها به پایه چسبیده، نسبتاً فشرده و آمیخته با تیغه‌های کوتاه‌ترند. در آغاز سفیدفام تا کرم کم‌رنگ، سپس خاکستری دودی تا خاکستری یاسی مانند دانهٔ خشخاش و سرانجام با رسیدن هاگ‌ها قهوه‌ای ارغوانی‌اند. هرگز رنگ زرد مایل به سبز ندارند.",
+      "stipe": "پایه ۴–۱۰ cm طول و ۰٫۴–۱ cm ضخامت دارد، استوانه‌ای است، چون اندام‌های بارده در دسته‌های فشرده می‌رویند اغلب خمیده است و زود توخالی می‌شود. زیر کلاهک زرد کم‌رنگ است و به سمت قاعده قهوه‌ای زنگاری می‌شود. سطح آن ریز رشته‌ای است و نمونه‌های جوان ممکن است ناحیهٔ حلقه‌مانند کم‌رنگی از پرده داشته باشند، اما حلقهٔ پایدار ندارد.",
+      "flesh": "گوشت نازک است، در کلاهک سفیدفام تا زرد کم‌رنگ و در قاعدهٔ پایه مایل به قهوه‌ای. بو ضعیف و گاهی کمی کپک‌زده است و مزه ملایم است و هرگز تلخ نیست.",
+      "sporePrint": "اثر هاگ قهوه‌ای ارغوانی تیره تا خاکستری بنفش است. هاگ‌ها صاف، بیضوی و ضخیم‌دیواره‌اند و روزنهٔ رویشی آشکاری دارند، حدود ۶–۸٫۵ × ۳٫۵–۵ µm.",
+      "habitat": "گندرویی است که چوب مرده را تجزیه می‌کند. به‌صورت دسته‌های انبوه و گاهی تکی روی کنده‌های پوسیده و روی ریشه‌های دفن‌شده یا بیرون‌زدهٔ درختان سوزنی‌برگ، به‌ویژه نوئل و همچنین کاج و نراد می‌روید و تنها به‌ندرت روی چوب درختان پهن‌برگ مانند راش دیده می‌شود. در جنگل‌های سوزنی‌برگ و آمیخته، بیشتر در تپه‌ها و کوهستان‌ها یافت می‌شود. فصل اصلی در اروپا سپتامبر تا نوامبر است، اما در هوای معتدل اندام‌های بارده ممکن است تقریباً در هر ماهی، از جمله در بهار، ظاهر شوند.",
+      "uses": "پس از پختن خوراکی است و در اروپای مرکزی و شمالی محبوب است، اما فقط کلاهک‌ها مصرف می‌شوند، زیرا پایه‌ها سفت‌اند. برای سوپ و خوراک‌های قارچ مخلوط مناسب است و می‌توان آن را ترشی هم انداخت. بسیاری از راهنماها به احتیاط توصیه می‌کنند، زیرا دسته‌ها به‌آسانی با گونه‌های سمی و کشنده‌ای که روی همان کنده‌ها می‌رویند اشتباه گرفته می‌شوند. آن را فقط وقتی بچینید که هر اندام بارده با اطمینان شناسایی شده باشد.",
+      "confusion": "Hypholoma fasciculare سمی، زرد گوگردی روشن‌تری دارد، تیغه‌هایش زرد مایل به سبز تا زیتونی و مزه‌اش بسیار تلخ است. Hypholoma lateritium تنومندتر است، مرکز کلاهکش قرمز آجری و تیغه‌هایش زردفام است؛ تلخ است و بیشتر روی چوب پهن‌برگان می‌روید. Galerina marginata کشنده نیز به‌صورت دسته‌ای روی چوب سوزنی‌برگان می‌روید، اما تیغه‌های قهوه‌ای زنگاری، حلقهٔ نازک و اثر هاگ قهوه‌ای زنگاری دارد. Kuehneromyces mutabilis کلاهکی دورنگ و آب‌گرفته، حلقه و پایه‌ای پولک‌دار در زیر حلقه دارد. رنگ تیغه‌ها و اثر هاگ هر اندام بارده را بررسی کنید.",
+      "notes": "صفت گونه‌ای capnoides به معنای «دودمانند» است و به تیغه‌های خاکستری دودی اشاره دارد که آن را از دیگر گونه‌های دسته‌روی Hypholoma جدا می‌کند. الیاس فریس آن را در سال ۱۸۱۸ با نام Agaricus capnoides توصیف کرد و پاول کومر در سال ۱۸۷۱ آن را به سردهٔ Hypholoma منتقل کرد. این تنها گونهٔ دسته‌روی Hypholoma است که عموماً خوراکی شمرده می‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni tai keskikokoinen helttasieni, joka kasvaa tiiviinä tuppaina havupuiden lahoilla kannoilla ja juurilla. Sen keltaiset tai okranväriset lakit muistuttavat paljon myrkyllisen Hypholoma fasciculare -lajin lakkeja, mutta sen heltat ovat savunharmaat eivätkä koskaan vihertävät, ja maku on mieto eikä kitkerä. Laji on levinnyt pohjoiselle pallonpuoliskolle, Eurooppaan, Pohjois-Aasiaan ja Pohjois-Amerikkaan, ja monin paikoin se on yleinen.",
+      "cap": "Lakki on 2–8 cm leveä, aluksi pyöreähkö tai kellomainen, sitten kupera ja lopulta laakea. Pinta on sileä ja kuiva, kosteana hieman kiiltävä tai rasvainen, okrankeltainen tai oranssinkeltainen ja keskeltä aina tummempi, oranssinruskeampi; kuivuessaan se vaalenee vaalean okraksi. Nuorten lakkien reunassa on valkeahkoja, rihmamaisia suojusjätteitä, jotka pian tummuvat tai häviävät.",
+      "hymenium": "Heltat ovat kiinnittyneet jalkaan, melko tiheässä ja niiden välissä on lyhyempiä välihelttoja. Ne ovat aluksi valkeahkot tai vaalean kermanväriset, sitten savunharmaat tai unikonsiemenen harmaanlilat ja lopulta purppuranruskeat itiöiden kypsyessä. Niissä ei koskaan ole kellanvihreitä sävyjä.",
+      "stipe": "Jalka on 4–10 cm pitkä ja 0,4–1 cm paksu, lieriömäinen, usein kaareva, koska itiöemät kasvavat tiiviinä tuppaina, ja pian ontto. Se on lakin alta vaaleankeltainen ja muuttuu tyveä kohti ruosteenruskeaksi. Se on hienosäikeinen, ja nuorissa itiöemissä voi näkyä heikko suojuksen jättämä rengasvyöhyke, mutta pysyvää rengasta ei ole.",
+      "flesh": "Malto on ohut, lakissa valkeahko tai vaaleankeltainen ja jalan tyvessä ruskehtava. Tuoksu on heikko, joskus hieman ummehtunut, ja maku on mieto, ei koskaan kitkerä.",
+      "sporePrint": "Itiöjauhe on tumman purppuranruskea tai harmaanvioletti. Itiöt ovat sileitä, ellipsoidisia ja paksuseinäisiä, ja niissä on selvä itureikä; koko noin 6–8,5 × 3,5–5 µm.",
+      "habitat": "Se on lahottaja, joka hajottaa kuollutta puuta. Se kasvaa tiiviinä tuppaina, joskus yksittäin, lahoilla kannoilla sekä maahan hautautuneilla tai paljailla havupuiden juurilla, erityisesti kuusen, mutta myös männyn ja jalokuusen, ja vain harvoin lehtipuulla, kuten pyökillä. Sitä tavataan havu- ja sekametsissä, useammin mäki- ja vuoristoseuduilla. Euroopassa pääsesonki on syyskuusta marraskuuhun, mutta leudolla säällä itiöemiä voi ilmestyä lähes minä kuukautena tahansa, myös keväällä.",
+      "uses": "Se on kypsennettynä syötävä ja Keski- ja Pohjois-Euroopassa arvostettu, mutta vain lakit käytetään, koska jalat ovat sitkeitä. Se sopii keittoihin ja sekasieniruokiin, ja sen voi myös säilöä. Monet sienioppaat kehottavat varovaisuuteen, koska tupaat sekoittuvat helposti samoilla kannoilla kasvaviin myrkyllisiin ja tappavan myrkyllisiin lajeihin. Kerää sitä vain, jos jokainen itiöemä on tunnistettu varmasti.",
+      "confusion": "Myrkyllinen Hypholoma fasciculare on kirkkaamman rikinkeltainen, sen heltat ovat kellanvihreät tai oliivinvihreät ja maku hyvin kitkerä. Hypholoma lateritium on tukevampi, sen lakin keskusta on tiilenpunainen ja heltat kellertävät; se on kitkerä ja kasvaa enimmäkseen lehtipuulla. Tappavan myrkyllinen Galerina marginata kasvaa myös tuppaina havupuulla, mutta sillä on ruosteenruskeat heltat, ohut rengas ja ruosteenruskea itiöjauhe. Kuehneromyces mutabilis -lajilla on kaksivärinen, kosteusmuuntuva lakki, rengas ja sen alapuolella suomuinen jalka. Tarkista jokaisen itiöemän helttojen väri ja itiöjauhe.",
+      "notes": "Lajinimi capnoides tarkoittaa savun kaltaista ja viittaa savunharmaisiin helttoihin, jotka erottavat sen muista tuppaina kasvavista Hypholoma-lajeista. Elias Fries kuvasi sen vuonna 1818 nimellä Agaricus capnoides, ja Paul Kummer siirsi sen vuonna 1871 Hypholoma-sukuun. Se on ainoa tuppaina kasvava Hypholoma-laji, jota pidetään yleisesti syötävänä.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://fi.wikipedia.org/wiki/Kuusilahokka"
+      ],
+      "label": "kuusilahokka"
+    },
+    "fr": {
+      "description": "Un champignon à lames de petite à moyenne taille qui pousse en touffes denses sur les souches et les racines pourrissantes de conifères. Ses chapeaux jaunes à ocre ressemblent beaucoup à ceux de l’Hypholoma fasciculare, toxique, mais ses lames sont gris fumée et jamais verdâtres, et sa saveur est douce, non amère. Il est répandu dans l’hémisphère Nord, en Europe, en Asie du Nord et en Amérique du Nord, et il est commun en de nombreux endroits.",
+      "cap": "Le chapeau mesure 2–8 cm de diamètre ; il est d’abord arrondi à campanulé, puis convexe et enfin aplani. La surface est lisse et sèche, un peu brillante ou grasse par temps humide, jaune ocre à jaune orangé et toujours plus foncée, plus brun orangé, au centre ; elle pâlit en ocre clair en séchant. Chez les jeunes exemplaires, la marge porte des restes de voile blanchâtres et filamenteux, qui foncent ou disparaissent bientôt.",
+      "hymenium": "Les lames sont adnées au pied, assez serrées et entremêlées de lamelles plus courtes. Elles sont d’abord blanchâtres à crème pâle, puis gris fumée à gris lilas couleur de graine de pavot, et enfin brun pourpre à la maturité des spores. Elles ne montrent jamais de teintes jaune-vert.",
+      "stipe": "Le pied mesure 4–10 cm de long et 0,4–1 cm d’épaisseur ; il est cylindrique, souvent courbé parce que les carpophores poussent en touffes serrées, et bientôt creux. Il est jaune pâle sous le chapeau et devient brun rouille vers la base. Il est finement fibrilleux, et les jeunes exemplaires peuvent montrer une faible zone annulaire laissée par le voile, mais il n’y a pas d’anneau persistant.",
+      "flesh": "La chair est mince, blanchâtre à jaune pâle dans le chapeau et brunâtre à la base du pied. L’odeur est faible, parfois légèrement de moisi, et la saveur est douce, jamais amère.",
+      "sporePrint": "La sporée est brun pourpre foncé à gris violet. Les spores sont lisses, ellipsoïdes, à paroi épaisse et à pore germinatif net, d’environ 6–8,5 × 3,5–5 µm.",
+      "habitat": "C’est un saprotrophe qui décompose le bois mort. Il pousse en touffes denses, parfois isolément, sur les souches pourrissantes et sur les racines enterrées ou dégagées de conifères, surtout l’épicéa, mais aussi le pin et le sapin, et seulement rarement sur bois de feuillus comme le hêtre. On le trouve dans les forêts de conifères et les forêts mixtes, plus souvent en colline et en montagne. En Europe, la saison principale va de septembre à novembre, mais par temps doux les carpophores peuvent apparaître presque n’importe quel mois, y compris au printemps.",
+      "uses": "Il est comestible cuit et apprécié en Europe centrale et du Nord, mais on n’utilise que les chapeaux, car les pieds sont coriaces. Il convient aux soupes et aux mélanges de champignons et peut aussi être conservé au vinaigre. De nombreux guides recommandent la prudence, car les touffes se confondent facilement avec des espèces toxiques et mortelles qui poussent sur les mêmes souches. Ne le cueillez que si chaque carpophore a été identifié avec certitude.",
+      "confusion": "L’Hypholoma fasciculare, toxique, est d’un jaune soufre plus vif, avec des lames jaune-vert à olive et une saveur très amère. L’Hypholoma lateritium est plus robuste, avec le centre du chapeau rouge brique et des lames jaunâtres ; il est amer et pousse surtout sur bois de feuillus. La Galerina marginata, mortelle, pousse aussi en touffes sur bois de conifères, mais elle a des lames brun rouille, un anneau mince et une sporée brun rouille. Le Kuehneromyces mutabilis a un chapeau bicolore, imbu, un anneau et un pied écailleux sous celui-ci. Vérifiez la couleur des lames et la sporée de chaque carpophore.",
+      "notes": "L’épithète capnoides signifie semblable à la fumée et fait allusion aux lames gris fumée, qui le distinguent des autres Hypholoma poussant en touffes. Elias Fries l’a décrit en 1818 sous le nom d’Agaricus capnoides, et Paul Kummer l’a placé dans le genre Hypholoma en 1871. C’est le seul Hypholoma poussant en touffes qui soit généralement considéré comme comestible.",
+      "names": [
+        "hypholome doux",
+        "hypholome à lames grises"
+      ],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Hypholoma_capnoides",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "hypholome à lames enfumées"
+    },
+    "he": {
+      "description": "פטרייה בעלת למלים, קטנה עד בינונית, הגדלה באשכולות צפופים על גדמים ושורשים נרקבים של עצי מחט. כובעיה הצהובים עד האוכריים דומים מאוד לכובעים של הפטרייה הרעילה Hypholoma fasciculare, אך הלמלים שלה אפורים כעשן ולעולם אינם ירקרקים, וטעמה עדין ולא מר. היא נפוצה בחצי הכדור הצפוני, באירופה, בצפון אסיה ובצפון אמריקה, ובמקומות רבים היא שכיחה.",
+      "cap": "הכובע בקוטר 2–8 cm, בתחילה מעוגל עד פעמוני, אחר כך קמור ולבסוף שטוח. פני השטח חלקים ויבשים, מבריקים מעט או שמנוניים בלחות, צהובים־אוכריים עד צהובים־כתומים, ובמרכז תמיד כהים יותר, חומים־כתומים יותר; בהתייבשות הם דוהים לאוכרה בהירה. אצל פרטים צעירים נושא השוליים שאריות מעטה לבנבנות דמויות חוטים, שמהר מאוד מכהות או נעלמות.",
+      "hymenium": "הלמלים מחוברים לרגל, צפופים למדי ומעורבים בלמלים קצרים יותר. בתחילה הם לבנבנים עד קרם חיוור, אחר כך אפורים כעשן עד אפורים־לילכיים כזרעי פרג, ולבסוף חומים־סגלגלים כשהנבגים מבשילים. אין בהם לעולם גוונים צהובים־ירוקים.",
+      "stipe": "הרגל באורך 4–10 cm ובעובי 0.4–1 cm, גלילית, לעיתים קרובות מעוקלת משום שגופי הפרי גדלים באשכולות צפופים, ומהר נעשית חלולה. מתחת לכובע היא צהובה חיוורת, ולכיוון הבסיס היא נעשית חומה־חלודה. היא סיבית דקה, ובפרטים צעירים עשוי להיראות אזור טבעתי חלש שהשאיר המעטה, אך אין טבעת קבועה.",
+      "flesh": "הבשר דק, לבנבן עד צהוב חיוור בכובע וחום בבסיס הרגל. הריח חלש, לפעמים מעופש מעט, והטעם עדין, לעולם לא מר.",
+      "sporePrint": "הדפס הנבגים חום־סגלגל כהה עד אפור־סגול. הנבגים חלקים, אליפסואידיים, עבי דופן, עם נקבובית נביטה ברורה, כ־6–8.5 × 3.5–5 µm.",
+      "habitat": "זוהי פטרייה ספרופיטית המפרקת עץ מת. היא גדלה באשכולות צפופים, לפעמים ביחידים, על גדמים נרקבים ועל שורשים קבורים או חשופים של עצי מחט, בעיקר אשוחית, וגם אורן ואשוח, ורק לעיתים נדירות על עץ של עצים רחבי עלים כמו אשור. היא נמצאת ביערות מחטניים ומעורבים, לעיתים קרובות יותר בגבעות ובהרים. העונה העיקרית באירופה היא ספטמבר עד נובמבר, אך במזג אוויר מתון גופי פרי עשויים להופיע כמעט בכל חודש, גם באביב.",
+      "uses": "היא אכילה לאחר בישול ומוערכת במרכז אירופה ובצפונה, אך משתמשים רק בכובעים, כי הרגליים קשות. היא מתאימה למרקים ולתבשילי פטריות מעורבות, ואפשר גם לכבוש אותה. מדריכים רבים ממליצים על זהירות, משום שאת האשכולות קל לבלבל עם מינים רעילים וקטלניים הגדלים על אותם גדמים. יש לאסוף אותה רק אם כל גוף פרי זוהה בוודאות.",
+      "confusion": "הרעילה Hypholoma fasciculare צהובה־גופרית עזה יותר, עם למלים צהובים־ירוקים עד זיתיים וטעם מר מאוד. Hypholoma lateritium חסונה יותר, עם מרכז כובע אדום־לבנה ולמלים צהבהבים; היא מרה וגדלה בעיקר על עץ של עצים רחבי עלים. הקטלנית Galerina marginata גדלה אף היא באשכולות על עץ מחטני, אך יש לה למלים חומים־חלודים, טבעת דקה והדפס נבגים חום־חלוד. ל־Kuehneromyces mutabilis כובע דו־גוני ספוג מים, טבעת ורגל קשקשית מתחתיה. יש לבדוק את צבע הלמלים ואת הדפס הנבגים של כל גוף פרי.",
+      "notes": "שם המין capnoides פירושו דמוי עשן, והוא מתייחס ללמלים האפורים כעשן, המבדילים אותה משאר מיני Hypholoma הגדלים באשכולות. אליאס פריס תיאר אותה ב־1818 בשם Agaricus capnoides, ופאול קומר העביר אותה ב־1871 לסוג Hypholoma. זהו המין היחיד מבין מיני Hypholoma הגדלים באשכולות שנחשב בדרך כלל לאכיל.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक छोटा से मध्यम आकार का गिल वाला मशरूम, जो शंकुधारी पेड़ों के सड़ते ठूँठों और जड़ों पर घने गुच्छों में उगता है। इसकी पीली से गेरुआ टोपियाँ विषैले Hypholoma fasciculare की टोपियों से बहुत मिलती-जुलती हैं, पर इसके गिल धुएँ जैसे धूसर होते हैं और कभी हरे नहीं होते, और इसका स्वाद हल्का होता है, कड़वा नहीं। यह उत्तरी गोलार्ध में, यूरोप, उत्तरी एशिया और उत्तरी अमेरिका में फैला हुआ है और कई स्थानों पर आम है।",
+      "cap": "टोपी 2–8 cm चौड़ी होती है, पहले गोल से घंटी जैसी, फिर उत्तल और अंत में चपटी। सतह चिकनी और सूखी होती है, नमी में थोड़ी चमकदार या चिकनाई वाली, गेरुआ-पीली से नारंगी-पीली, और बीच में हमेशा गहरी, अधिक नारंगी-भूरी; सूखने पर यह हल्के गेरुए रंग में फीकी पड़ जाती है। युवा नमूनों में किनारे पर सफ़ेद-से, धागे जैसे आवरण के अवशेष होते हैं, जो जल्दी गहरे हो जाते हैं या गायब हो जाते हैं।",
+      "hymenium": "गिल वृंत से जुड़े होते हैं, काफ़ी घने होते हैं और उनके बीच छोटे गिल भी होते हैं। पहले वे सफ़ेद-से से हल्के क्रीम रंग के, फिर धुएँ जैसे धूसर से खसखस के दानों जैसे धूसर-बैंगनी और अंत में बीजाणु पकने पर बैंगनी-भूरे हो जाते हैं। उनमें कभी पीले-हरे रंग नहीं दिखते।",
+      "stipe": "वृंत 4–10 cm लंबा और 0.4–1 cm मोटा, बेलनाकार होता है; फलनकाय कसे हुए गुच्छों में उगते हैं, इसलिए यह अक्सर मुड़ा होता है, और जल्दी खोखला हो जाता है। टोपी के नीचे यह हल्का पीला होता है और आधार की ओर ज़ंग जैसा भूरा हो जाता है। यह बारीक रेशेदार होता है, और युवा नमूनों पर आवरण से बना हल्का छल्ला-क्षेत्र दिख सकता है, पर कोई स्थायी छल्ला नहीं होता।",
+      "flesh": "गूदा पतला होता है, टोपी में सफ़ेद-सा से हल्का पीला और वृंत के आधार में भूरा-सा। गंध हल्की होती है, कभी-कभी थोड़ी सीलन जैसी, और स्वाद हल्का होता है, कभी कड़वा नहीं।",
+      "sporePrint": "बीजाणु छाप गहरी बैंगनी-भूरी से धूसर-बैंगनी होती है। बीजाणु चिकने, दीर्घवृत्ताकार और मोटी भित्ति वाले होते हैं, जिनमें स्पष्ट अंकुरण छिद्र होता है, लगभग 6–8.5 × 3.5–5 µm।",
+      "habitat": "यह एक मृतजीवी कवक है जो मृत लकड़ी को अपघटित करता है। यह घने गुच्छों में, कभी-कभी अकेले, सड़ते ठूँठों पर और शंकुधारी पेड़ों की दबी हुई या खुली जड़ों पर उगता है, विशेषकर स्प्रूस पर, और पाइन तथा फ़र पर भी, और केवल कभी-कभार बीच जैसे चौड़ी पत्ती वाले पेड़ों की लकड़ी पर। यह शंकुधारी और मिश्रित वनों में, अधिकतर पहाड़ियों और पर्वतों में मिलता है। यूरोप में मुख्य मौसम सितंबर से नवंबर तक है, पर हल्के मौसम में फलनकाय लगभग किसी भी महीने में, वसंत में भी, निकल सकते हैं।",
+      "uses": "पकाने के बाद यह खाने योग्य है और मध्य तथा उत्तरी यूरोप में पसंद किया जाता है, पर केवल टोपियाँ उपयोग की जाती हैं, क्योंकि वृंत सख़्त होते हैं। यह सूप और मिले-जुले मशरूम व्यंजनों के लिए अच्छा है और इसका अचार भी बनाया जा सकता है। कई गाइड सावधानी की सलाह देते हैं, क्योंकि इसके गुच्छों को उन्हीं ठूँठों पर उगने वाली विषैली और घातक प्रजातियों से आसानी से भ्रमित किया जा सकता है। इसे तभी तोड़ें जब हर फलनकाय की पहचान पूरी निश्चितता से हो चुकी हो।",
+      "confusion": "विषैला Hypholoma fasciculare अधिक चटक गंधक-पीला होता है, उसके गिल पीले-हरे से जैतूनी होते हैं और स्वाद बहुत कड़वा होता है। Hypholoma lateritium अधिक मज़बूत होता है, उसकी टोपी का बीच ईंट जैसा लाल और गिल पीले-से होते हैं; यह कड़वा होता है और ज़्यादातर चौड़ी पत्ती वाले पेड़ों की लकड़ी पर उगता है। घातक Galerina marginata भी शंकुधारी लकड़ी पर गुच्छों में उगता है, पर उसके गिल ज़ंग जैसे भूरे, छल्ला पतला और बीजाणु छाप ज़ंग जैसी भूरी होती है। Kuehneromyces mutabilis की टोपी दो रंगों वाली और पानी से भीगी-सी होती है, उसमें छल्ला होता है और उसके नीचे वृंत शल्कदार होता है। हर फलनकाय के गिल का रंग और बीजाणु छाप जाँचें।",
+      "notes": "प्रजाति नाम capnoides का अर्थ है धुएँ जैसा, और यह धुएँ जैसे धूसर गिलों की ओर संकेत करता है, जो इसे गुच्छों में उगने वाली अन्य Hypholoma प्रजातियों से अलग करते हैं। एलियास फ़्रीस ने 1818 में इसे Agaricus capnoides नाम से वर्णित किया, और पॉल कुमर ने 1871 में इसे वंश Hypholoma में स्थानांतरित किया। गुच्छों में उगने वाली Hypholoma प्रजातियों में यही एकमात्र है जिसे आम तौर पर खाने योग्य माना जाता है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala do srednje velika listićava gljiva koja raste u gustim busenima na trulim panjevima i korijenju četinjača. Njezini žuti do okerasti klobuci vrlo su slični klobucima otrovne Hypholoma fasciculare, ali su joj listići dimnosivi i nikad zelenkasti, a okus je blag, ne gorak. Rasprostranjena je na sjevernoj polutki, u Europi, sjevernoj Aziji i Sjevernoj Americi, i na mnogim je mjestima česta.",
+      "cap": "Klobuk je širok 2–8 cm, isprva zaobljen do zvonolik, zatim ispupčen i naposljetku ravan. Površina je glatka i suha, po vlazi pomalo sjajna ili masna, okerasto žuta do narančasto žuta i u sredini uvijek tamnija, više narančasto smeđa; sušenjem blijedi u svijetlu okeru. Kod mladih gljiva rub nosi bjelkaste, končaste ostatke zastorka, koji ubrzo potamne ili nestanu.",
+      "hymenium": "Listići su prirasli uz stručak, prilično gusti i izmiješani s kraćim listićima. Isprva su bjelkasti do blijedo krem, zatim dimnosivi do sivoljubičasti poput makova sjemena i naposljetku purpurno smeđi kad spore sazriju. Nikad nemaju žutozelene tonove.",
+      "stipe": "Stručak je dug 4–10 cm i debeo 0,4–1 cm, valjkast, zbog rasta u zbijenim busenima često zakrivljen i ubrzo šupalj. Ispod klobuka je blijedožut, a prema dnu postaje hrđavosmeđ. Fino je vlaknast, a mlade gljive mogu imati slabu prstenastu zonu od zastorka, ali trajnog prstena nema.",
+      "flesh": "Meso je tanko, u klobuku bjelkasto do blijedožuto, a u dnu stručka smeđkasto. Miris je slab, ponekad blago pljesniv, a okus je blag, nikad gorak.",
+      "sporePrint": "Otisak spora je tamno purpurnosmeđ do sivoljubičast. Spore su glatke, elipsoidne, debelih stijenki, s jasnom klicinom porom, oko 6–8,5 × 3,5–5 µm.",
+      "habitat": "To je saprotrof koji razgrađuje mrtvo drvo. Raste u gustim busenima, ponekad pojedinačno, na trulim panjevima i na zakopanom ili ogoljenom korijenju četinjača, osobito smreke, ali i bora i jele, a samo rijetko na drvu listača poput bukve. Nalazi se u crnogoričnim i mješovitim šumama, češće u brežuljkastim i planinskim krajevima. Glavna sezona u Europi traje od rujna do studenoga, ali po blagom vremenu plodišta se mogu pojaviti gotovo u bilo kojem mjesecu, i u proljeće.",
+      "uses": "Nakon termičke obrade je jestiva i cijenjena u srednjoj i sjevernoj Europi, ali koriste se samo klobuci jer su stručci žilavi. Dobra je u juhama i miješanim jelima od gljiva, a može se i ukiseliti. Mnogi priručnici savjetuju oprez jer se buseni lako zamijene s otrovnim i smrtno otrovnim vrstama koje rastu na istim panjevima. Berite je samo ako je svako plodište sigurno određeno.",
+      "confusion": "Otrovna Hypholoma fasciculare živahnije je sumporno žuta, sa žutozelenim do maslinastim listićima i vrlo gorkim okusom. Hypholoma lateritium je krupnija, s ciglastocrvenom sredinom klobuka i žućkastim listićima; gorka je i raste uglavnom na drvu listača. Smrtno otrovna Galerina marginata također raste u busenima na drvu četinjača, ali ima hrđavosmeđe listiće, tanak prsten i hrđavosmeđ otisak spora. Kuehneromyces mutabilis ima dvobojan, vodenast klobuk, prsten i ispod njega ljuskav stručak. Kod svakog plodišta provjerite boju listića i otisak spora.",
+      "notes": "Vrsni pridjevak capnoides znači sličan dimu i odnosi se na dimnosive listiće, po kojima se razlikuje od ostalih busenastih vrsta roda Hypholoma. Elias Fries opisao ju je 1818. kao Agaricus capnoides, a Paul Kummer premjestio ju je 1871. u rod Hypholoma. Jedina je busenasta vrsta roda Hypholoma koja se općenito smatra jestivom.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Sivolisnata_panjevka"
+      ],
+      "label": "sivolisnata panjevka"
+    },
+    "hu": {
+      "description": "Kis vagy közepes termetű lemezes gomba, amely sűrű csokrokban nő tűlevelű fák korhadó tuskóin és gyökerein. Sárga vagy okkersárga kalapjai nagyon hasonlítanak a mérgező Hypholoma fasciculare kalapjaira, lemezei azonban füstszürkék és sohasem zöldesek, íze pedig enyhe, nem keserű. Az északi féltekén elterjedt, Európában, Észak-Ázsiában és Észak-Amerikában, és sok helyen gyakori.",
+      "cap": "A kalap 2–8 cm széles, eleinte kerekded vagy harang alakú, majd domború, végül kiterül. Felszíne sima és száraz, nedvesen kissé fényes vagy zsíros tapintású, okkersárga vagy narancssárga, közepe mindig sötétebb, inkább narancsbarna; kiszáradva világos okkerré fakul. Fiatalon a szélén fehéres, szálas burokmaradványok vannak, amelyek hamar besötétednek vagy eltűnnek.",
+      "hymenium": "A lemezek a tönkhöz nőttek, elég sűrűk, és rövidebb lemezkék tarkítják őket. Eleinte fehéresek vagy halvány krémszínűek, majd füstszürkék vagy mákszürkés-lilásak, végül a spórák érésével bíborbarnák. Sárgászöld árnyalatuk sohasem lesz.",
+      "stipe": "A tönk 4–10 cm hosszú és 0,4–1 cm vastag, hengeres, a szoros csokrokban való növekedés miatt gyakran görbült, és hamar üregessé válik. A kalap alatt halványsárga, a tövénél rozsdabarnává válik. Finoman szálas, a fiatal termőtesteken a buroktól halvány gyűrűzóna lehet, de maradandó gyűrű nincs.",
+      "flesh": "A hús vékony, a kalapban fehéres vagy halványsárga, a tönk tövében barnás. Szaga gyenge, néha enyhén dohos, íze enyhe, sohasem keserű.",
+      "sporePrint": "A spórapor sötét bíborbarna vagy szürkésibolya. A spórák simák, ellipszoidok, vastag falúak, jól látható csírapórussal, kb. 6–8,5 × 3,5–5 µm-esek.",
+      "habitat": "Szaprotróf, az elhalt fát bontja. Sűrű csokrokban, néha magányosan nő korhadó tuskókon és a tűlevelű fák eltemetett vagy szabadon álló gyökerein, különösen lucfenyőn, de erdeifenyőn és jegenyefenyőn is, lombos fán, például bükkön csak ritkán. Tűlevelű és elegyes erdőkben fordul elő, inkább dombvidéken és hegyvidéken. Európában a fő szezon szeptembertől novemberig tart, enyhe időben azonban szinte bármelyik hónapban, tavasszal is megjelenhetnek termőtestei.",
+      "uses": "Hőkezelés után ehető, és Közép- és Észak-Európában kedvelt, de csak a kalapját használják, mert a tönkje szívós. Levesekbe és vegyes gombaételekbe való, és savanyítható is. Sok gombahatározó óvatosságra int, mert a csokrok könnyen összetéveszthetők az ugyanazokon a tuskókon növő mérgező és halálosan mérgező fajokkal. Csak akkor gyűjtse, ha minden egyes termőtestet biztosan meghatározott.",
+      "confusion": "A mérgező Hypholoma fasciculare élénkebb kénsárga, lemezei sárgászöldek vagy olívzöldek, íze nagyon keserű. A Hypholoma lateritium zömökebb, kalapjának közepe téglavörös, lemezei sárgásak; keserű, és többnyire lombos fán nő. A halálosan mérgező Galerina marginata szintén csokrokban nő tűlevelű fán, de lemezei rozsdabarnák, gyűrűje vékony, spórapora rozsdabarna. A Kuehneromyces mutabilis kalapja kétszínű, vizenyős, gyűrűje van, alatta a tönk pikkelyes. Minden termőtestnél ellenőrizze a lemezek színét és a spóraport.",
+      "notes": "A capnoides fajnév jelentése füstszerű, és a füstszürke lemezekre utal, amelyek elkülönítik a többi csokrosan növő Hypholoma fajtól. Elias Fries 1818-ban Agaricus capnoides néven írta le, Paul Kummer pedig 1871-ben a Hypholoma nemzetségbe helyezte. Ez az egyetlen csokrosan növő Hypholoma faj, amelyet általában ehetőnek tartanak.",
+      "names": [],
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+      ],
+      "label": "fenyő-kénvirággomba"
+    },
+    "id": {
+      "description": "Jamur berbilah berukuran kecil hingga sedang yang tumbuh dalam rumpun rapat pada tunggul dan akar pohon konifer yang membusuk. Tudungnya yang kuning hingga oker sangat mirip dengan tudung Hypholoma fasciculare yang beracun, tetapi bilahnya berwarna kelabu asap dan tidak pernah kehijauan, dan rasanya lembut, tidak pahit. Jamur ini tersebar di belahan bumi utara, di Eropa, Asia utara, dan Amerika Utara, dan di banyak tempat umum dijumpai.",
+      "cap": "Tudung berdiameter 2–8 cm, mula-mula membulat hingga berbentuk lonceng, kemudian cembung, dan akhirnya mendatar. Permukaannya halus dan kering, agak mengilap atau berminyak saat basah, kuning oker hingga kuning jingga, dan bagian tengahnya selalu lebih gelap, lebih cokelat jingga; saat mengering warnanya memudar menjadi oker pucat. Pada jamur muda, tepinya membawa sisa selubung keputihan seperti benang, yang segera menggelap atau menghilang.",
+      "hymenium": "Bilah melekat pada tangkai, cukup rapat, dan diselingi bilah-bilah yang lebih pendek. Mula-mula keputihan hingga krem pucat, kemudian kelabu asap hingga kelabu lila seperti biji opium, dan akhirnya cokelat keunguan saat spora matang. Bilahnya tidak pernah menunjukkan nuansa kuning kehijauan.",
+      "stipe": "Tangkai panjangnya 4–10 cm dan tebalnya 0,4–1 cm, silindris, sering melengkung karena tubuh buah tumbuh dalam rumpun yang rapat, dan segera berongga. Di bawah tudung warnanya kuning pucat dan ke arah pangkal menjadi cokelat karat. Permukaannya berserat halus, dan jamur muda dapat menunjukkan zona cincin samar dari selubung, tetapi tidak ada cincin yang menetap.",
+      "flesh": "Dagingnya tipis, keputihan hingga kuning pucat di tudung dan kecokelatan di pangkal tangkai. Baunya lemah, kadang agak apak, dan rasanya lembut, tidak pernah pahit.",
+      "sporePrint": "Cetakan sporanya cokelat keunguan gelap hingga kelabu ungu. Sporanya halus, elipsoid, berdinding tebal, dengan pori kecambah yang jelas, sekitar 6–8,5 × 3,5–5 µm.",
+      "habitat": "Jamur ini adalah saprotrof yang menguraikan kayu mati. Ia tumbuh dalam rumpun rapat, kadang soliter, pada tunggul yang membusuk dan pada akar konifer yang terpendam atau terbuka, terutama cemara norwegia (spruce), juga pinus dan cemara abies, dan hanya jarang pada kayu pohon berdaun lebar seperti beech. Jamur ini ditemukan di hutan konifer dan hutan campuran, lebih sering di perbukitan dan pegunungan. Musim utamanya di Eropa adalah September hingga November, tetapi pada cuaca yang tidak terlalu dingin tubuh buah dapat muncul hampir setiap bulan, termasuk pada musim semi.",
+      "uses": "Jamur ini dapat dimakan setelah dimasak dan disukai di Eropa Tengah dan Utara, tetapi hanya tudungnya yang digunakan karena tangkainya alot. Cocok untuk sup dan masakan campuran jamur, dan dapat juga diasinkan. Banyak buku panduan menganjurkan kehati-hatian, karena rumpunnya mudah tertukar dengan spesies beracun dan mematikan yang tumbuh di tunggul yang sama. Petiklah hanya jika setiap tubuh buah telah diidentifikasi dengan pasti.",
+      "confusion": "Hypholoma fasciculare yang beracun berwarna kuning belerang lebih cerah, dengan bilah kuning kehijauan hingga zaitun dan rasa yang sangat pahit. Hypholoma lateritium lebih kekar, dengan bagian tengah tudung merah bata dan bilah kekuningan; rasanya pahit dan tumbuh terutama pada kayu pohon berdaun lebar. Galerina marginata yang mematikan juga tumbuh berumpun pada kayu konifer, tetapi bilahnya cokelat karat, cincinnya tipis, dan cetakan sporanya cokelat karat. Kuehneromyces mutabilis memiliki tudung dua warna yang tampak basah, cincin, dan tangkai bersisik di bawah cincin. Periksa warna bilah dan cetakan spora setiap tubuh buah.",
+      "notes": "Nama spesies capnoides berarti seperti asap dan merujuk pada bilah kelabu asap, yang membedakannya dari spesies Hypholoma lain yang tumbuh berumpun. Elias Fries mendeskripsikannya pada tahun 1818 sebagai Agaricus capnoides, dan Paul Kummer memindahkannya ke genus Hypholoma pada tahun 1871. Ini satu-satunya spesies Hypholoma yang tumbuh berumpun yang umumnya dianggap dapat dimakan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo a lamelle di taglia piccola o media che cresce in cespi fitti su ceppaie e radici marcescenti di conifere. I suoi cappelli da gialli a ocra somigliano molto a quelli della velenosa Hypholoma fasciculare, ma le sue lamelle sono grigio fumo e mai verdastre, e il sapore è mite, non amaro. È diffuso nell’emisfero settentrionale, in Europa, Asia settentrionale e Nord America, e in molti luoghi è comune.",
+      "cap": "Il cappello misura 2–8 cm di diametro; dapprima è arrotondato o campanulato, poi convesso e infine appianato. La superficie è liscia e asciutta, un po’ lucida o untuosa con l’umidità, giallo ocra o giallo arancio e sempre più scura, più bruno-arancio, al centro; asciugandosi schiarisce fino a ocra chiaro. Negli esemplari giovani il margine porta residui di velo biancastri e filamentosi, che presto scuriscono o scompaiono.",
+      "hymenium": "Le lamelle sono adnate al gambo, piuttosto fitte e intercalate da lamellule più corte. Sono dapprima biancastre o crema pallido, poi grigio fumo o grigio lilla color semi di papavero e infine bruno porpora quando maturano le spore. Non mostrano mai toni giallo-verdi.",
+      "stipe": "Il gambo è lungo 4–10 cm e spesso 0,4–1 cm, cilindrico, spesso curvo perché i carpofori crescono in cespi stretti, e presto cavo. È giallo pallido sotto il cappello e diventa bruno ruggine verso la base. È finemente fibrilloso, e gli esemplari giovani possono mostrare una debole zona anulare lasciata dal velo, ma non c’è un anello persistente.",
+      "flesh": "La carne è sottile, da biancastra a giallo pallido nel cappello e brunastra alla base del gambo. L’odore è debole, a volte leggermente di muffa, e il sapore è mite, mai amaro.",
+      "sporePrint": "La sporata è bruno porpora scuro o grigio violacea. Le spore sono lisce, ellissoidali, a parete spessa e con un poro germinativo evidente, di circa 6–8,5 × 3,5–5 µm.",
+      "habitat": "È un saprotrofo che decompone il legno morto. Cresce in cespi fitti, talvolta isolato, su ceppaie marcescenti e su radici interrate o scoperte di conifere, soprattutto abete rosso, ma anche pino e abete bianco, e solo di rado su legno di latifoglie come il faggio. Si trova in boschi di conifere e misti, più spesso in collina e in montagna. In Europa la stagione principale va da settembre a novembre, ma con clima mite i carpofori possono comparire quasi in ogni mese, anche in primavera.",
+      "uses": "È commestibile dopo cottura ed è apprezzato nell’Europa centrale e settentrionale, ma si usano solo i cappelli, perché i gambi sono tenaci. È adatto a zuppe e misti di funghi e si può anche conservare sott’aceto. Molte guide consigliano prudenza, perché i cespi si confondono facilmente con specie velenose e mortali che crescono sulle stesse ceppaie. Raccoglierlo solo se ogni carpoforo è stato identificato con certezza.",
+      "confusion": "La velenosa Hypholoma fasciculare è di un giallo zolfo più vivo, con lamelle da giallo-verdi a olivastre e sapore molto amaro. Hypholoma lateritium è più robusta, con il centro del cappello rosso mattone e lamelle giallastre; è amara e cresce per lo più su legno di latifoglie. La mortale Galerina marginata cresce anch’essa in cespi su legno di conifere, ma ha lamelle bruno ruggine, un anello sottile e sporata bruno ruggine. Kuehneromyces mutabilis ha un cappello bicolore e igrofano, un anello e il gambo squamoso sotto di esso. Controllare il colore delle lamelle e la sporata di ogni carpoforo.",
+      "notes": "L’epiteto capnoides significa simile al fumo e si riferisce alle lamelle grigio fumo, che lo distinguono dalle altre specie di Hypholoma a crescita cespitosa. Elias Fries lo descrisse nel 1818 come Agaricus capnoides, e Paul Kummer lo trasferì nel genere Hypholoma nel 1871. È l’unica specie cespitosa di Hypholoma generalmente considerata commestibile.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "小型から中型のハラタケ型のきのこで、針葉樹の腐った切り株や根に密な株をなして生える。黄色から黄土色の傘は有毒のHypholoma fasciculareの傘によく似ているが、ひだは煙のような灰色で決して緑色を帯びず、味は穏やかで苦くない。北半球のヨーロッパ、北アジア、北アメリカに広く分布し、多くの地域でふつうに見られる。",
+      "cap": "傘は径2–8 cmで、はじめ丸みを帯びた形から鐘形、のちに饅頭形となり、最後には平らに開く。表面は平滑で乾いており、湿るとやや光沢があるか脂っぽく、黄土黄色から橙黄色で、中央は常に濃く、より橙褐色を帯びる；乾くと淡い黄土色に退色する。若いうちは縁に白っぽい糸状の被膜の残りがあるが、まもなく暗色になるか消える。",
+      "hymenium": "ひだは柄に直生し、やや密で、短いひだが混じる。はじめ白っぽいから淡いクリーム色、のちに煙のような灰色からケシの種子のような灰紫色となり、胞子が熟すと最後には紫褐色になる。黄緑色を帯びることは決してない。",
+      "stipe": "柄は長さ4–10 cm、太さ0.4–1 cmで円柱形、密な株をなして生えるためしばしば曲がり、まもなく中空になる。傘のすぐ下は淡黄色で、基部に向かって錆褐色になる。表面は細かい繊維状で、若い子実体には被膜による淡いつば状の部分が見られることがあるが、永続するつばはない。",
+      "flesh": "肉は薄く、傘では白っぽいから淡黄色、柄の基部では褐色を帯びる。においは弱く、ときにわずかにかび臭く、味は穏やかで決して苦くない。",
+      "sporePrint": "胞子紋は暗い紫褐色から灰紫色。胞子は平滑な楕円形で壁が厚く、明瞭な発芽孔があり、約6–8.5 × 3.5–5 µm。",
+      "habitat": "枯れた木材を分解する腐生菌である。密な株をなして、ときに単生で、腐った切り株や、地中に埋もれたり露出したりした針葉樹の根に生える。とくにトウヒに多く、マツやモミにも生え、ブナなど広葉樹の材に生えることはまれである。針葉樹林や混交林に見られ、丘陵地や山地に多い。ヨーロッパでの主な発生期は9月から11月だが、穏やかな天候ではほぼどの月にも、春にも子実体が現れることがある。",
+      "uses": "加熱すれば食用になり、中央ヨーロッパと北ヨーロッパで好まれるが、柄は硬いので傘だけを使う。スープや雑きのこ料理に向き、酢漬けにもできる。株が同じ切り株に生える有毒種や猛毒種と取り違えやすいため、多くの図鑑が注意を促している。すべての子実体を確実に同定できた場合にのみ採取すること。",
+      "confusion": "有毒のHypholoma fasciculareは硫黄色がより鮮やかで、ひだは黄緑色からオリーブ色、味は非常に苦い。Hypholoma lateritiumはよりがっしりしており、傘の中央はれんが色、ひだは黄色っぽい；苦味があり、主に広葉樹の材に生える。猛毒のGalerina marginataも針葉樹材に株をなして生えるが、ひだは錆褐色で、薄いつばがあり、胞子紋は錆褐色である。Kuehneromyces mutabilisは傘が二色に分かれた吸水性のもので、つばがあり、その下の柄は鱗片に覆われる。すべての子実体についてひだの色と胞子紋を確かめること。",
+      "notes": "種小名capnoidesは「煙のような」という意味で、煙のような灰色のひだを指し、このひだによって株をなして生える他のHypholoma属の種と区別される。エリアス・フリースが1818年にAgaricus capnoidesとして記載し、パウル・クンマーが1871年にHypholoma属に移した。株をなして生えるHypholoma属の種のうち、一般に食用とされるのは本種だけである。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "クリタケモドキ"
+    },
+    "ko": {
+      "description": "작거나 중간 크기의 주름버섯으로, 침엽수의 썩은 그루터기와 뿌리에 빽빽한 다발을 이루어 자란다. 노란색에서 황토색의 갓은 독버섯인 Hypholoma fasciculare의 갓과 매우 닮았지만, 주름은 연기 같은 회색이고 결코 초록빛을 띠지 않으며, 맛은 순하고 쓰지 않다. 북반구의 유럽, 북아시아, 북아메리카에 널리 분포하며, 많은 곳에서 흔하다.",
+      "cap": "갓은 지름 2–8 cm이고, 처음에는 둥근 모양에서 종 모양이다가 볼록해지고 마침내 평평하게 편다. 표면은 매끄럽고 건조하며, 습하면 약간 광택이 있거나 기름기가 돌고, 황토빛 노란색에서 주황빛 노란색이며 가운데는 항상 더 짙어 주황빛 갈색에 가깝다. 마르면 연한 황토색으로 바랜다. 어릴 때는 가장자리에 희끄무레한 실 모양의 내피막 잔존물이 있으나 곧 어두워지거나 사라진다.",
+      "hymenium": "주름은 자루에 붙은 바른주름이고, 꽤 빽빽하며 짧은 주름이 섞여 있다. 처음에는 희끄무레하거나 연한 크림색이다가 연기 같은 회색에서 양귀비 씨앗 같은 회자주색이 되며, 포자가 익으면 마지막에는 자갈색이 된다. 황록색 색조는 결코 띠지 않는다.",
+      "stipe": "자루는 길이 4–10 cm, 굵기 0.4–1 cm이며 원통형이고, 촘촘한 다발로 자라기 때문에 흔히 휘어 있으며 곧 속이 빈다. 갓 바로 아래는 연한 노란색이고 밑동 쪽으로 갈수록 녹슨 갈색이 된다. 표면은 가는 섬유질이고, 어린 자실체에는 내피막이 남긴 희미한 턱받이 흔적이 있을 수 있으나 오래 남는 턱받이는 없다.",
+      "flesh": "살은 얇고, 갓에서는 희끄무레하거나 연한 노란색이며 자루 밑동에서는 갈색을 띤다. 냄새는 약하고 때로 약간 곰팡내가 나며, 맛은 순하고 결코 쓰지 않다.",
+      "sporePrint": "포자문은 짙은 자갈색에서 회보라색이다. 포자는 매끄러운 타원형이고 벽이 두꺼우며 뚜렷한 발아공이 있고, 약 6–8.5 × 3.5–5 µm이다.",
+      "habitat": "죽은 나무를 분해하는 부생균이다. 빽빽한 다발로, 때로는 홑으로, 썩은 그루터기와 땅에 묻히거나 드러난 침엽수 뿌리에 자란다. 특히 가문비나무에 많고 소나무와 전나무에도 나며, 너도밤나무 같은 활엽수 목재에는 드물게 난다. 침엽수림과 혼효림에서 볼 수 있으며 구릉지와 산지에서 더 흔하다. 유럽에서 주된 발생 시기는 9월부터 11월까지이지만, 날씨가 온화하면 봄을 포함해 거의 어느 달에나 자실체가 나올 수 있다.",
+      "uses": "익히면 식용할 수 있고 중부와 북부 유럽에서 즐겨 먹지만, 자루가 질겨서 갓만 사용한다. 수프나 여러 버섯을 섞은 요리에 알맞고 초절임으로도 만들 수 있다. 같은 그루터기에 자라는 독버섯이나 맹독버섯과 다발째 혼동하기 쉬우므로 많은 도감이 주의를 권한다. 모든 자실체를 확실히 동정한 경우에만 채취해야 한다.",
+      "confusion": "독버섯인 Hypholoma fasciculare는 더 선명한 유황색이고, 주름은 황록색에서 올리브색이며 맛이 매우 쓰다. Hypholoma lateritium은 더 굵고 단단하며 갓 가운데가 벽돌색이고 주름은 노르스름하다. 쓴맛이 나며 주로 활엽수 목재에 자란다. 맹독성인 Galerina marginata도 침엽수 목재에 다발로 자라지만, 주름이 녹슨 갈색이고 얇은 턱받이가 있으며 포자문이 녹슨 갈색이다. Kuehneromyces mutabilis는 두 가지 색으로 물에 젖은 듯한 갓, 턱받이, 그리고 그 아래 비늘이 덮인 자루를 가진다. 모든 자실체의 주름 색과 포자문을 확인해야 한다.",
+      "notes": "종소명 capnoides는 '연기 같은'이라는 뜻으로 연기 같은 회색 주름을 가리키며, 이 주름으로 다발로 자라는 다른 Hypholoma 속 종들과 구별된다. 엘리아스 프리스가 1818년에 Agaricus capnoides로 기재했고, 파울 쿰머가 1871년에 Hypholoma 속으로 옮겼다. 다발로 자라는 Hypholoma 속 종 가운데 일반적으로 식용으로 여겨지는 것은 이 종뿐이다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Mažas ar vidutinio dydžio lakštinis grybas, augantis tankiais kuokštais ant pūvančių spygliuočių kelmų ir šaknų. Jo geltonos ar ochros spalvos kepurėlės labai primena nuodingosios Hypholoma fasciculare kepurėles, tačiau jo lakšteliai yra dūmų pilkumo ir niekada nebūna žalsvi, o skonis švelnus, ne kartus. Jis paplitęs Šiaurės pusrutulyje – Europoje, Šiaurės Azijoje ir Šiaurės Amerikoje – ir daug kur yra dažnas.",
+      "cap": "Kepurėlė 2–8 cm skersmens, iš pradžių apvali ar varpelio formos, vėliau iškili ir galiausiai plokščia. Paviršius lygus ir sausas, drėgnu oru kiek blizgus ar riebaluotas, ochriškai geltonas ar oranžiškai geltonas, o viduryje visada tamsesnis, labiau oranžiškai rudas; džiūdamas išblunka iki šviesios ochros. Jaunų grybų kraštelyje yra balsvų, siūliškų šydo liekanų, kurios greitai patamsėja arba išnyksta.",
+      "hymenium": "Lakšteliai prisitvirtinę prie kotelio, gana tankūs, tarp jų yra trumpesnių lakštelių. Iš pradžių jie balsvi ar šviesiai kreminiai, vėliau dūmų pilkumo ar aguonų sėklų pilkšvai alyviniai, o galiausiai purpuriškai rudi, kai sunoksta sporos. Gelsvai žalių atspalvių jie niekada neturi.",
+      "stipe": "Kotelis 4–10 cm ilgio ir 0,4–1 cm storio, cilindriškas, dėl augimo tankiais kuokštais dažnai išlinkęs ir greitai tuščiaviduris. Po kepurėle jis šviesiai geltonas, link pagrindo tampa rūdžių rudumo. Jis smulkiai pluoštiškas, o jauni grybai gali turėti silpną šydo paliktą žiedo zoną, tačiau nuolatinio žiedo nėra.",
+      "flesh": "Trama plona, kepurėlėje balsva ar šviesiai geltona, kotelio pagrinde rusva. Kvapas silpnas, kartais lengvai pelėsių, o skonis švelnus, niekada nebūna kartus.",
+      "sporePrint": "Sporų milteliai tamsiai purpuriškai rudi ar pilkšvai violetiniai. Sporos lygios, elipsoidiškos, storasienės, su aiškia dygimo pora, maždaug 6–8,5 × 3,5–5 µm.",
+      "habitat": "Tai saprotrofas, ardantis negyvą medieną. Auga tankiais kuokštais, kartais pavieniui, ant pūvančių kelmų ir ant užkastų ar atsidengusių spygliuočių šaknų, ypač eglių, bet ir pušų bei kėnių, o tik retai ant lapuočių medienos, pavyzdžiui, bukų. Aptinkamas spygliuočių ir mišriuose miškuose, dažniau kalvose ir kalnuose. Europoje pagrindinis sezonas – rugsėjis–lapkritis, tačiau esant švelniems orams vaisiakūniai gali pasirodyti beveik bet kurį mėnesį, taip pat ir pavasarį.",
+      "uses": "Termiškai apdorotas jis valgomas ir vertinamas Vidurio bei Šiaurės Europoje, tačiau naudojamos tik kepurėlės, nes koteliai kieti. Tinka sriuboms ir grybų mišiniams, jį galima ir marinuoti. Daugelis grybų vadovų pataria būti atsargiems, nes kuokštus lengva supainioti su nuodingomis ir mirtinai nuodingomis rūšimis, augančiomis ant tų pačių kelmų. Rinkite jį tik tada, kai kiekvienas vaisiakūnis atpažintas visiškai tiksliai.",
+      "confusion": "Nuodingoji Hypholoma fasciculare yra ryškiau sieros geltonumo, gelsvai žaliais ar alyvuogių spalvos lakšteliais ir labai karčiu skoniu. Hypholoma lateritium yra stambesnė, plytų raudonumo kepurėlės viduriu ir gelsvais lakšteliais; ji karti ir auga daugiausia ant lapuočių medienos. Mirtinai nuodinga Galerina marginata taip pat auga kuokštais ant spygliuočių medienos, tačiau turi rūdžių rudumo lakštelius, ploną žiedą ir rūdžių rudumo sporų miltelius. Kuehneromyces mutabilis turi dvispalvę, vandeningą kepurėlę, žiedą ir žvynuotą kotelį po juo. Kiekvieno vaisiakūnio patikrinkite lakštelių spalvą ir sporų miltelius.",
+      "notes": "Rūšies epitetas capnoides reiškia „panašus į dūmus“ ir nurodo dūmų pilkumo lakštelius, kurie skiria jį nuo kitų kuokštais augančių Hypholoma rūšių. Elias Fries 1818 m. jį aprašė kaip Agaricus capnoides, o Paul Kummer 1871 m. perkėlė į Hypholoma gentį. Tai vienintelė kuokštais auganti Hypholoma rūšis, kuri paprastai laikoma valgoma.",
+      "names": [],
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+        "https://lt.wikipedia.org/wiki/Švelnioji_kelmabudė"
+      ],
+      "label": "švelnioji kelmabudė"
+    },
+    "lv": {
+      "description": "Neliela līdz vidēji liela lapiņsēne, kas aug blīvos pušķos uz trūdošiem skuju koku celmiem un saknēm. Tās dzeltenās līdz okera cepurītes ļoti atgādina indīgās Hypholoma fasciculare cepurītes, taču lapiņas ir dūmu pelēkas un nekad nav zaļganas, un garša ir maiga, nevis rūgta. Tā ir izplatīta ziemeļu puslodē – Eiropā, Ziemeļāzijā un Ziemeļamerikā – un daudzviet ir bieži sastopama.",
+      "cap": "Cepurīte ir 2–8 cm diametrā, sākumā noapaļota līdz zvanveida, tad izliekta un beigās plakana. Virsma ir gluda un sausa, mitrumā nedaudz spīdīga vai taukaina, okerdzeltena līdz oranždzeltena un vidū vienmēr tumšāka, vairāk oranžbrūna; izžūstot tā izbalē līdz gaišam okeram. Jaunām sēnēm malā ir bālgandi, pavedienveida plīvura atliekas, kas drīz satumst vai izzūd.",
+      "hymenium": "Lapiņas ir pieaugušas pie kātiņa, diezgan biezas un mijas ar īsākām lapiņām. Sākumā tās ir bālganas līdz gaiši krēmkrāsas, tad dūmu pelēkas līdz magoņu sēklu pelēcīgi lillā un beigās purpurbrūnas, kad nogatavojas sporas. Dzeltenzaļu toņu tām nekad nav.",
+      "stipe": "Kātiņš ir 4–10 cm garš un 0,4–1 cm resns, cilindrisks, augšanas ciešos pušķos dēļ bieži izliekts un drīz dobs. Zem cepurītes tas ir gaiši dzeltens, bet pamatnes virzienā kļūst rūsganbrūns. Tas ir smalki šķiedrains, un jaunām sēnēm var būt vāja plīvura atstāta gredzena zona, taču pastāvīga gredzena nav.",
+      "flesh": "Mīkstums ir plāns, cepurītē bālgans līdz gaiši dzeltens, kātiņa pamatnē brūngans. Smarža ir vāja, dažreiz viegli sasmakusi, un garša ir maiga, nekad nav rūgta.",
+      "sporePrint": "Sporu pulveris ir tumši purpurbrūns līdz pelēcīgi violets. Sporas ir gludas, elipsoidālas, biezsienu, ar skaidru dīgšanas poru, apmēram 6–8,5 × 3,5–5 µm.",
+      "habitat": "Tā ir saprotrofs, kas noārda atmirušu koksni. Aug blīvos pušķos, dažreiz pa vienai, uz trūdošiem celmiem un uz apraktām vai atsegtām skuju koku saknēm, īpaši eglei, bet arī priedei un baltegle, un tikai reti uz lapu koku koksnes, piemēram, dižskābarža. Sastopama skuju koku un jauktos mežos, biežāk pakalnos un kalnos. Eiropā galvenā sezona ir no septembra līdz novembrim, taču siltā laikā augļķermeņi var parādīties gandrīz jebkurā mēnesī, arī pavasarī.",
+      "uses": "Pēc termiskas apstrādes tā ir ēdama un Centrāleiropā un Ziemeļeiropā iecienīta, taču izmanto tikai cepurītes, jo kātiņi ir sīksti. Tā der zupām un sēņu maisījumiem, un to var arī marinēt. Daudzi sēņu noteicēji iesaka piesardzību, jo pušķus viegli sajaukt ar indīgām un nāvīgi indīgām sugām, kas aug uz tiem pašiem celmiem. Vāciet to tikai tad, ja katrs augļķermenis ir noteikts ar pilnīgu drošību.",
+      "confusion": "Indīgā Hypholoma fasciculare ir spilgtāk sērdzeltena, ar dzeltenzaļām līdz olīvkrāsas lapiņām un ļoti rūgtu garšu. Hypholoma lateritium ir druknāka, ar ķieģeļsarkanu cepurītes vidu un dzeltenīgām lapiņām; tā ir rūgta un aug galvenokārt uz lapu koku koksnes. Nāvīgi indīgā Galerina marginata arī aug pušķos uz skuju koku koksnes, taču tai ir rūsganbrūnas lapiņas, plāns gredzens un rūsganbrūns sporu pulveris. Sugai Kuehneromyces mutabilis ir divkrāsaina, mitrumā piesūkusies cepurīte, gredzens un zem tā zvīņains kātiņš. Pārbaudiet katram augļķermenim lapiņu krāsu un sporu pulveri.",
+      "notes": "Sugas nosaukums capnoides nozīmē 'dūmiem līdzīgs' un attiecas uz dūmu pelēkajām lapiņām, kas to atšķir no citām pušķos augošām Hypholoma sugām. Eliass Frīss to 1818. gadā aprakstīja kā Agaricus capnoides, bet Pauls Kummers 1871. gadā to pārcēla uz Hypholoma ģinti. Tā ir vienīgā pušķos augošā Hypholoma suga, ko parasti uzskata par ēdamu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf",
+        "https://www.fungi.lv/hypholoma_capnoides.htm"
+      ],
+      "label": "dūmainā sērsēne"
+    },
+    "nl": {
+      "description": "Een kleine tot middelgrote plaatjeszwam die in dichte bundels groeit op rottende stronken en wortels van naaldbomen. De gele tot okerkleurige hoeden lijken sterk op die van de giftige Hypholoma fasciculare, maar de plaatjes zijn rookgrijs en nooit groenig, en de smaak is zacht, niet bitter. De soort is verspreid over het noordelijk halfrond, in Europa, Noord-Azië en Noord-Amerika, en is op veel plaatsen algemeen.",
+      "cap": "De hoed is 2–8 cm breed, eerst rond tot klokvormig, dan gewelfd en ten slotte vlak. Het oppervlak is glad en droog, bij vocht wat glanzend of vettig, okergeel tot oranjegeel en in het midden altijd donkerder, meer oranjebruin; bij uitdrogen verbleekt het tot lichtoker. Bij jonge exemplaren draagt de rand witachtige, draderige velumresten, die snel donkerder worden of verdwijnen.",
+      "hymenium": "De plaatjes zijn aangehecht aan de steel, vrij dicht en afgewisseld met kortere lamellulae. Ze zijn eerst witachtig tot bleek crème, dan rookgrijs tot maanzaadgrijs-lila en ten slotte purperbruin als de sporen rijpen. Geelgroene tinten vertonen ze nooit.",
+      "stipe": "De steel is 4–10 cm lang en 0,4–1 cm dik, cilindrisch, door de groei in dichte bundels vaak gebogen en al snel hol. Onder de hoed is hij bleekgeel en naar de voet toe roestbruin. Hij is fijn vezelig, en jonge exemplaren kunnen een zwakke ringzone van het velum hebben, maar een blijvende ring is er niet.",
+      "flesh": "Het vlees is dun, in de hoed witachtig tot bleekgeel en in de steelvoet bruinachtig. De geur is zwak, soms licht muf, en de smaak is zacht, nooit bitter.",
+      "sporePrint": "De sporenprint is donker purperbruin tot grijsviolet. De sporen zijn glad, ellipsoïde en dikwandig met een duidelijke kiemporie, ongeveer 6–8,5 × 3,5–5 µm.",
+      "habitat": "Het is een saprotroof die dood hout afbreekt. De soort groeit in dichte bundels, soms alleen, op rottende stronken en op begraven of blootliggende wortels van naaldbomen, vooral spar, maar ook den en zilverspar, en slechts zelden op loofhout zoals beuk. Hij komt voor in naald- en gemengde bossen, vaker in heuvelland en gebergte. Het hoofdseizoen in Europa is september tot november, maar bij zacht weer kunnen vruchtlichamen in bijna elke maand verschijnen, ook in het voorjaar.",
+      "uses": "Gekookt is hij eetbaar en in Midden- en Noord-Europa gewaardeerd, maar alleen de hoeden worden gebruikt, omdat de stelen taai zijn. Hij past in soepen en gemengde paddenstoelengerechten en kan ook worden ingemaakt. Veel gidsen raden voorzichtigheid aan, omdat de bundels makkelijk worden verward met giftige en dodelijk giftige soorten die op dezelfde stronken groeien. Pluk hem alleen als elk vruchtlichaam met zekerheid is gedetermineerd.",
+      "confusion": "De giftige Hypholoma fasciculare is feller zwavelgeel, met geelgroene tot olijfkleurige plaatjes en een zeer bittere smaak. Hypholoma lateritium is forser, met een steenrood hoedcentrum en gelige plaatjes; hij is bitter en groeit vooral op loofhout. De dodelijk giftige Galerina marginata groeit eveneens in bundels op naaldhout, maar heeft roestbruine plaatjes, een dunne ring en een roestbruine sporenprint. Kuehneromyces mutabilis heeft een tweekleurige, waterig doordrenkte hoed, een ring en daaronder een geschubde steel. Controleer bij elk vruchtlichaam de kleur van de plaatjes en de sporenprint.",
+      "notes": "De soortnaam capnoides betekent rookachtig en verwijst naar de rookgrijze plaatjes, die hem onderscheiden van de andere in bundels groeiende Hypholoma-soorten. Elias Fries beschreef hem in 1818 als Agaricus capnoides, en Paul Kummer plaatste hem in 1871 in het geslacht Hypholoma. Het is de enige in bundels groeiende Hypholoma-soort die algemeen als eetbaar geldt.",
+      "names": [
+        "Dennezwavelkop"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Dennenzwavelkop"
+      ],
+      "label": "Dennenzwavelkop"
+    },
+    "no": {
+      "description": "En liten til middels stor skivesopp som vokser i tette knipper på råtnende stubber og røtter av bartrær. De gule til okerfargede hattene ligner mye på hattene til den giftige Hypholoma fasciculare, men skivene er røykgrå og aldri grønnlige, og smaken er mild, ikke bitter. Den er utbredt på den nordlige halvkule, i Europa, Nord-Asia og Nord-Amerika, og mange steder er den vanlig.",
+      "cap": "Hatten er 2–8 cm bred, først rundet til klokkeformet, så hvelvet og til slutt flat. Overflaten er glatt og tørr, i fuktig vær litt skinnende eller fettet, okergul til oransjegul og i midten alltid mørkere, mer oransjebrun; når den tørker, blekner den til lys oker. Hos unge eksemplarer har kanten hvitaktige, trådaktige slørrester, som snart mørkner eller forsvinner.",
+      "hymenium": "Skivene er tilvokst stilken, ganske tette og blandet med kortere skiver. De er først hvitaktige til blekt kremfargede, så røykgrå til valmuefrøgrå med lilla tone og til slutt purpurbrune når sporene modnes. De har aldri gulgrønne toner.",
+      "stipe": "Stilken er 4–10 cm lang og 0,4–1 cm tykk, sylindrisk, ofte bøyd fordi fruktlegemene vokser i tette knipper, og snart hul. Den er blekgul under hatten og blir rustbrun mot basis. Den er fint trådet, og unge eksemplarer kan vise en svak ringsone etter sløret, men det finnes ingen varig ring.",
+      "flesh": "Kjøttet er tynt, hvitaktig til blekgult i hatten og brunlig i stilkbasis. Lukten er svak, iblant litt muggen, og smaken er mild, aldri bitter.",
+      "sporePrint": "Sporefargen er mørkt purpurbrun til gråfiolett. Sporene er glatte, ellipsoide og tykkveggede med en tydelig spirepore, omtrent 6–8,5 × 3,5–5 µm.",
+      "habitat": "Den er en saprotrof som bryter ned død ved. Den vokser i tette knipper, iblant enkeltvis, på råtnende stubber og på nedgravde eller blottlagte røtter av bartrær, særlig gran, men også furu og edelgran, og bare sjelden på lauvved som bøk. Den finnes i bar- og blandingsskog, oftere i ås- og fjelltrakter. Hovedsesongen i Europa er september til november, men i mildt vær kan fruktlegemer komme fram nesten hver måned, også om våren.",
+      "uses": "Den er spiselig etter varmebehandling og verdsatt i Sentral- og Nord-Europa, men bare hattene brukes, fordi stilkene er seige. Den passer i supper og blandede soppretter og kan også syltes. Mange soppbøker råder til forsiktighet, fordi knippene lett forveksles med giftige og dødelig giftige arter som vokser på de samme stubbene. Plukk den bare hvis hvert fruktlegeme er sikkert bestemt.",
+      "confusion": "Den giftige Hypholoma fasciculare er klarere svovelgul, med gulgrønne til olivenfargede skiver og svært bitter smak. Hypholoma lateritium er kraftigere, med teglrød hattemidte og gulaktige skiver; den er bitter og vokser mest på lauvved. Den dødelig giftige Galerina marginata vokser også i knipper på barved, men har rustbrune skiver, en tynn ring og rustbrunt sporepulver. Kuehneromyces mutabilis har en tofarget, vasstrukken hatt, en ring og skjellet stilk under ringen. Kontroller skivefargen og sporefargen på hvert fruktlegeme.",
+      "notes": "Artsnavnet capnoides betyr røyklik og viser til de røykgrå skivene, som skiller den fra de andre knippevoksende Hypholoma-artene. Elias Fries beskrev den i 1818 som Agaricus capnoides, og Paul Kummer flyttet den i 1871 til slekten Hypholoma. Den er den eneste knippevoksende Hypholoma-arten som vanligvis regnes som spiselig.",
+      "names": [
+        "vanlig svovelsopp"
+      ],
+      "sourceUrls": [
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://no.wikipedia.org/wiki/Svovelsopp"
+      ],
+      "label": "svovelsopp"
+    },
+    "pl": {
+      "description": "Mały lub średniej wielkości grzyb blaszkowy, który rośnie w gęstych kępach na butwiejących pniakach i korzeniach drzew iglastych. Jego żółte do ochrowych kapelusze bardzo przypominają kapelusze trującej Hypholoma fasciculare, ale blaszki ma dymnoszare i nigdy zielonkawe, a smak łagodny, nie gorzki. Jest rozpowszechniony na półkuli północnej, w Europie, północnej Azji i Ameryce Północnej, i w wielu miejscach jest pospolity.",
+      "cap": "Kapelusz ma 2–8 cm średnicy, początkowo jest półkulisty do dzwonkowatego, potem wypukły, a w końcu płaski. Powierzchnia jest gładka i sucha, w wilgoci lekko błyszcząca lub tłustawa, ochrowożółta do pomarańczowożółtej, a na środku zawsze ciemniejsza, bardziej pomarańczowobrązowa; wysychając blednie do jasnoochrowej. U młodych owocników brzeg ma białawe, włókniste resztki osłony, które wkrótce ciemnieją lub znikają.",
+      "hymenium": "Blaszki są przyrośnięte do trzonu, dość gęste, z licznymi krótszymi blaszkami pośrednimi. Początkowo są białawe do jasnokremowych, potem dymnoszare do makowo szaroliliowych, a w końcu purpurowobrązowe, gdy dojrzewają zarodniki. Nigdy nie mają żółtozielonych odcieni.",
+      "stipe": "Trzon ma 4–10 cm długości i 0,4–1 cm grubości, jest walcowaty, z powodu wzrostu w ciasnych kępach często wygięty i wkrótce pusty. Pod kapeluszem jest bladożółty, a ku podstawie rdzawobrązowy. Jest delikatnie włóknisty, a młode owocniki mogą mieć słabą strefę pierścieniową po osłonie, nie ma jednak trwałego pierścienia.",
+      "flesh": "Miąższ jest cienki, w kapeluszu białawy do bladożółtego, w podstawie trzonu brązowawy. Zapach jest słaby, czasem lekko stęchły, a smak łagodny, nigdy gorzki.",
+      "sporePrint": "Wysyp zarodników jest ciemnopurpurowobrązowy do szarofioletowego. Zarodniki są gładkie, elipsoidalne, grubościenne, z wyraźną porą rostkową, około 6–8,5 × 3,5–5 µm.",
+      "habitat": "Jest saprotrofem rozkładającym martwe drewno. Rośnie w gęstych kępach, czasem pojedynczo, na butwiejących pniakach oraz na zagrzebanych lub odsłoniętych korzeniach drzew iglastych, zwłaszcza świerka, ale też sosny i jodły, a tylko rzadko na drewnie liściastym, na przykład bukowym. Występuje w lasach iglastych i mieszanych, częściej na pogórzu i w górach. Główny sezon w Europie trwa od września do listopada, ale przy łagodnej pogodzie owocniki mogą się pojawić niemal w każdym miesiącu, także wiosną.",
+      "uses": "Po obróbce termicznej jest jadalny i ceniony w Europie Środkowej i Północnej, ale używa się tylko kapeluszy, bo trzony są łykowate. Nadaje się do zup i mieszanek grzybowych, można go też marynować. Wiele atlasów zaleca ostrożność, ponieważ kępy łatwo pomylić z trującymi i śmiertelnie trującymi gatunkami rosnącymi na tych samych pniakach. Zbieraj go tylko wtedy, gdy każdy owocnik jest oznaczony z całą pewnością.",
+      "confusion": "Trująca Hypholoma fasciculare jest jaskrawiej siarkowożółta, ma żółtozielone do oliwkowych blaszki i bardzo gorzki smak. Hypholoma lateritium jest bardziej krępa, ze środkiem kapelusza ceglastoczerwonym i żółtawymi blaszkami; jest gorzka i rośnie głównie na drewnie liściastym. Śmiertelnie trująca Galerina marginata również rośnie w kępach na drewnie iglastym, ale ma rdzawobrązowe blaszki, cienki pierścień i rdzawobrązowy wysyp zarodników. Kuehneromyces mutabilis ma dwubarwny, nasiąknięty wodą kapelusz, pierścień i łuskowaty trzon poniżej pierścienia. Przy każdym owocniku sprawdź barwę blaszek i wysyp zarodników.",
+      "notes": "Epitet capnoides oznacza podobny do dymu i odnosi się do dymnoszarych blaszek, które odróżniają ten gatunek od innych kępkowo rosnących gatunków z rodzaju Hypholoma. Elias Fries opisał go w 1818 roku jako Agaricus capnoides, a Paul Kummer przeniósł go w 1871 roku do rodzaju Hypholoma. Jest to jedyny kępkowo rosnący gatunek z rodzaju Hypholoma, który powszechnie uważa się za jadalny.",
+      "names": [
+        "łysiczka łagodna"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Maślanka_łagodna",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "maślanka łagodna"
+    },
+    "pt": {
+      "description": "Um cogumelo de lâminas, de tamanho pequeno a médio, que cresce em tufos densos sobre cepos e raízes de coníferas em decomposição. Os seus chapéus amarelos a ocre lembram muito os da venenosa Hypholoma fasciculare, mas as lâminas são cinzento-fumo e nunca esverdeadas, e o sabor é suave, não amargo. Está distribuído pelo hemisfério norte, na Europa, no norte da Ásia e na América do Norte, e em muitos locais é comum.",
+      "cap": "O chapéu mede 2–8 cm de diâmetro; primeiro é arredondado a campanulado, depois convexo e por fim aplanado. A superfície é lisa e seca, um pouco brilhante ou gordurosa com humidade, amarelo-ocre a amarelo-alaranjada e sempre mais escura, mais castanho-alaranjada, no centro; ao secar empalidece para ocre-claro. Nos exemplares jovens a margem tem restos de véu esbranquiçados e filamentosos, que depressa escurecem ou desaparecem.",
+      "hymenium": "As lâminas são aderentes ao pé, bastante apertadas e intercaladas com lamélulas mais curtas. Primeiro são esbranquiçadas a creme-pálido, depois cinzento-fumo a cinzento-lilás cor de semente de papoila e por fim castanho-púrpura quando os esporos amadurecem. Nunca mostram tons amarelo-esverdeados.",
+      "stipe": "O pé mede 4–10 cm de comprimento e 0,4–1 cm de espessura; é cilíndrico, muitas vezes curvo porque os basidiomas crescem em tufos apertados, e cedo oco. É amarelo-pálido sob o chapéu e torna-se castanho-ferrugem para a base. É finamente fibriloso, e os exemplares jovens podem mostrar uma fraca zona anelar deixada pelo véu, mas não há anel persistente.",
+      "flesh": "A carne é fina, esbranquiçada a amarelo-pálida no chapéu e acastanhada na base do pé. O cheiro é fraco, às vezes ligeiramente a mofo, e o sabor é suave, nunca amargo.",
+      "sporePrint": "A esporada é castanho-púrpura escura a cinzento-violácea. Os esporos são lisos, elipsoides, de parede espessa e com um poro germinativo nítido, com cerca de 6–8,5 × 3,5–5 µm.",
+      "habitat": "É um sapróbio que decompõe madeira morta. Cresce em tufos densos, às vezes isolado, sobre cepos em decomposição e sobre raízes enterradas ou expostas de coníferas, sobretudo espruce, mas também pinheiro e abeto, e só raramente sobre madeira de folhosas como a faia. Encontra-se em florestas de coníferas e mistas, mais frequentemente em colinas e montanhas. A época principal na Europa vai de setembro a novembro, mas com tempo ameno os basidiomas podem surgir em quase qualquer mês, também na primavera.",
+      "uses": "É comestível depois de cozinhado e apreciado na Europa Central e do Norte, mas só se usam os chapéus, porque os pés são rijos. Fica bem em sopas e em misturas de cogumelos e também pode ser conservado em vinagre. Muitos guias aconselham cautela, porque os tufos se confundem facilmente com espécies venenosas e mortais que crescem nos mesmos cepos. Apanhe-o só se cada basidioma estiver identificado com certeza.",
+      "confusion": "A venenosa Hypholoma fasciculare é de um amarelo-enxofre mais vivo, com lâminas amarelo-esverdeadas a oliváceas e sabor muito amargo. Hypholoma lateritium é mais robusta, com o centro do chapéu vermelho-tijolo e lâminas amareladas; é amarga e cresce sobretudo em madeira de folhosas. A mortal Galerina marginata também cresce em tufos sobre madeira de coníferas, mas tem lâminas castanho-ferrugem, um anel fino e esporada castanho-ferrugem. Kuehneromyces mutabilis tem o chapéu bicolor e higrófano, um anel e o pé escamoso abaixo dele. Verifique a cor das lâminas e a esporada de cada basidioma.",
+      "notes": "O epíteto capnoides significa semelhante ao fumo e refere-se às lâminas cinzento-fumo, que o distinguem das outras espécies de Hypholoma que crescem em tufos. Elias Fries descreveu-o em 1818 como Agaricus capnoides, e Paul Kummer transferiu-o para o género Hypholoma em 1871. É a única espécie de Hypholoma de crescimento em tufos geralmente considerada comestível.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă cu lamele, mică până la mijlocie, care crește în tufe dese pe cioturi și rădăcini putrezite de conifere. Pălăriile ei galbene până la ocru seamănă mult cu cele ale otrăvitoarei Hypholoma fasciculare, dar lamelele sunt cenușii ca fumul și niciodată verzui, iar gustul este blând, nu amar. Este răspândită în emisfera nordică, în Europa, nordul Asiei și America de Nord, și în multe locuri este comună.",
+      "cap": "Pălăria are 2–8 cm în diametru; la început este rotunjită până la campanulată, apoi convexă și în final aplatizată. Suprafața este netedă și uscată, puțin lucioasă sau unsuroasă pe vreme umedă, galben-ocru până la galben-portocalie și mereu mai închisă, mai brun-portocalie, la centru; la uscare se decolorează până la ocru-deschis. La exemplarele tinere, marginea poartă resturi de văl albicioase, filamentoase, care curând se închid la culoare sau dispar.",
+      "hymenium": "Lamelele sunt aderente la picior, destul de dese și intercalate cu lamelule mai scurte. La început sunt albicioase până la crem-pal, apoi cenușii ca fumul până la cenușiu-liliachii ca semințele de mac și în final brun-purpurii, pe măsură ce sporii se maturizează. Nu au niciodată nuanțe galben-verzui.",
+      "stipe": "Piciorul are 4–10 cm lungime și 0,4–1 cm grosime, este cilindric, adesea curbat pentru că sporoforii cresc în tufe strânse, și curând gol. Este galben-pal sub pălărie și devine brun-ruginiu spre bază. Este fin fibros, iar exemplarele tinere pot avea o zonă inelară slabă lăsată de văl, dar nu există inel persistent.",
+      "flesh": "Carnea este subțire, albicioasă până la galben-pal în pălărie și brunie la baza piciorului. Mirosul este slab, uneori ușor de mucegai, iar gustul este blând, niciodată amar.",
+      "sporePrint": "Amprenta sporilor este brun-purpurie închisă până la cenușiu-violetă. Sporii sunt netezi, elipsoidali, cu perete gros și por germinativ distinct, de circa 6–8,5 × 3,5–5 µm.",
+      "habitat": "Este un saprotrof care descompune lemnul mort. Crește în tufe dese, uneori solitar, pe cioturi putrezite și pe rădăcini îngropate sau dezgolite de conifere, mai ales molid, dar și pin și brad, și doar rar pe lemn de foioase, de exemplu fag. Se găsește în păduri de conifere și amestecate, mai des în zone de deal și de munte. Sezonul principal în Europa este septembrie–noiembrie, dar pe vreme blândă sporoforii pot apărea aproape în orice lună, inclusiv primăvara.",
+      "uses": "Este comestibilă după gătire și apreciată în Europa Centrală și de Nord, dar se folosesc doar pălăriile, deoarece picioarele sunt tari. Se potrivește în supe și în amestecuri de ciuperci și poate fi și murată. Multe ghiduri recomandă prudență, deoarece tufele se confundă ușor cu specii otrăvitoare și mortale care cresc pe aceleași cioturi. Culegeți-o doar dacă fiecare sporofor a fost identificat cu certitudine.",
+      "confusion": "Otrăvitoarea Hypholoma fasciculare este de un galben-sulf mai viu, cu lamele galben-verzui până la oliv și gust foarte amar. Hypholoma lateritium este mai robustă, cu centrul pălăriei roșu-cărămiziu și lamele gălbui; este amară și crește mai ales pe lemn de foioase. Mortala Galerina marginata crește tot în tufe pe lemn de conifere, dar are lamele brun-ruginii, un inel subțire și amprentă de spori brun-ruginie. Kuehneromyces mutabilis are pălăria bicoloră, higrofană, un inel și piciorul solzos sub acesta. Verificați culoarea lamelelor și amprenta sporilor la fiecare sporofor.",
+      "notes": "Epitetul capnoides înseamnă asemănător fumului și se referă la lamelele cenușii ca fumul, care o deosebesc de celelalte specii de Hypholoma ce cresc în tufe. Elias Fries a descris-o în 1818 ca Agaricus capnoides, iar Paul Kummer a mutat-o în genul Hypholoma în 1871. Este singura specie de Hypholoma cu creștere în tufe considerată în general comestibilă.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой или средний пластинчатый гриб, растущий плотными пучками на гниющих пнях и корнях хвойных деревьев. Его жёлтые или охристые шляпки очень похожи на шляпки ядовитого Hypholoma fasciculare, но пластинки у него дымчато-серые и никогда не бывают зеленоватыми, а вкус мягкий, не горький. Распространён в Северном полушарии — в Европе, Северной Азии и Северной Америке — и во многих местах обычен.",
+      "cap": "Шляпка 2–8 cm в диаметре, сначала округлая или колокольчатая, затем выпуклая и в конце концов распростёртая. Поверхность гладкая и сухая, во влажную погоду слегка блестящая или жирноватая, охристо-жёлтая или оранжево-жёлтая и в центре всегда темнее, более оранжево-бурая; при подсыхании выцветает до светло-охристой. У молодых грибов по краю видны беловатые нитевидные остатки покрывала, которые вскоре темнеют или исчезают.",
+      "hymenium": "Пластинки приросшие к ножке, довольно частые, с более короткими пластиночками. Сначала они беловатые или бледно-кремовые, затем дымчато-серые или серо-лиловые, как маковое зерно, и наконец пурпурно-бурые, когда созревают споры. Жёлто-зелёных оттенков у них никогда не бывает.",
+      "stipe": "Ножка длиной 4–10 cm и толщиной 0,4–1 cm, цилиндрическая, из-за роста тесными пучками часто изогнутая, рано становится полой. Под шляпкой она бледно-жёлтая, к основанию ржаво-бурая. Она тонковолокнистая, у молодых грибов может быть слабая кольцевая зона от покрывала, но постоянного кольца нет.",
+      "flesh": "Мякоть тонкая, в шляпке беловатая или бледно-жёлтая, в основании ножки буроватая. Запах слабый, иногда слегка затхлый, вкус мягкий, никогда не горький.",
+      "sporePrint": "Споровый порошок тёмный пурпурно-бурый или серо-фиолетовый. Споры гладкие, эллипсоидные, толстостенные, с отчётливой ростковой порой, около 6–8,5 × 3,5–5 µm.",
+      "habitat": "Это сапротроф, разлагающий мёртвую древесину. Растёт плотными пучками, иногда поодиночке, на гниющих пнях и на погребённых или обнажённых корнях хвойных деревьев, особенно ели, а также сосны и пихты, и лишь изредка на древесине лиственных пород, например бука. Встречается в хвойных и смешанных лесах, чаще в холмистой и горной местности. Основной сезон в Европе — с сентября по ноябрь, но в мягкую погоду плодовые тела могут появляться почти в любом месяце, в том числе весной.",
+      "uses": "После термической обработки съедобен и ценится в Центральной и Северной Европе, но используют только шляпки, так как ножки жёсткие. Подходит для супов и грибных ассорти, его также можно мариновать. Многие определители советуют осторожность, поскольку пучки легко спутать с ядовитыми и смертельно ядовитыми видами, растущими на тех же пнях. Собирайте его, только если каждое плодовое тело определено с полной уверенностью.",
+      "confusion": "Ядовитый Hypholoma fasciculare ярче, серно-жёлтый, с жёлто-зелёными или оливковыми пластинками и очень горьким вкусом. Hypholoma lateritium крупнее и плотнее, с кирпично-красным центром шляпки и желтоватыми пластинками; он горький и растёт в основном на древесине лиственных пород. Смертельно ядовитая Galerina marginata тоже растёт пучками на хвойной древесине, но у неё ржаво-бурые пластинки, тонкое кольцо и ржаво-бурый споровый порошок. У Kuehneromyces mutabilis двухцветная, водянистая шляпка, кольцо и чешуйчатая ножка ниже кольца. Проверяйте цвет пластинок и споровый порошок каждого плодового тела.",
+      "notes": "Видовой эпитет capnoides означает «похожий на дым» и указывает на дымчато-серые пластинки, отличающие этот вид от других растущих пучками видов рода Hypholoma. Элиас Фрис описал его в 1818 году как Agaricus capnoides, а Пауль Куммер в 1871 году перенёс его в род Hypholoma. Это единственный растущий пучками вид рода Hypholoma, который обычно считается съедобным.",
+      "names": [
+        "ложноопёнок маковый"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Ложноопёнок_серопластинчатый",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "ложноопёнок серопластинчатый"
+    },
+    "sk": {
+      "description": "Malá až stredne veľká lupeňová huba, ktorá rastie v hustých trsoch na hnijúcich pňoch a koreňoch ihličnanov. Jej žlté až okrové klobúky sa veľmi podobajú klobúkom jedovatej Hypholoma fasciculare, jej lupene sú však dymovosivé a nikdy nie zelenkasté a chuť má miernu, nie horkú. Je rozšírená na severnej pologuli, v Európe, severnej Ázii a Severnej Amerike, a na mnohých miestach je hojná.",
+      "cap": "Klobúk má 2–8 cm v priemere, najprv je guľovitý až zvoncovitý, potom vypuklý a napokon plochý. Povrch je hladký a suchý, za vlhka mierne lesklý alebo mastný, okrovožltý až oranžovožltý a v strede vždy tmavší, viac oranžovohnedý; pri vysychaní bledne do svetlookrovej. Za mladi nesie okraj belavé vláknité zvyšky závoja, ktoré čoskoro tmavnú alebo miznú.",
+      "hymenium": "Lupene sú pripojené k hlúbiku, dosť husté a premiešané s kratšími lupienkami. Najprv sú belavé až svetlokrémové, potom dymovosivé až makovo sivofialové a napokon purpurovohnedé, keď dozrievajú výtrusy. Nikdy nemajú žltozelené odtiene.",
+      "stipe": "Hlúbik je 4–10 cm dlhý a 0,4–1 cm hrubý, valcovitý, pre rast v tesných trsoch často zakrivený a čoskoro dutý. Pod klobúkom je bledožltý a smerom k báze hrdzavohnedý. Je jemne vláknitý a mladé plodnice môžu mať po závoji slabú prsteňovú zónu, trvalý prsteň však nemajú.",
+      "flesh": "Dužina je tenká, v klobúku belavá až bledožltá, v báze hlúbika hnedastá. Vôňa je slabá, niekedy jemne zatuchnutá, a chuť je mierna, nikdy nie horká.",
+      "sporePrint": "Výtrusný prach je tmavo purpurovohnedý až sivofialový. Výtrusy sú hladké, elipsoidné, s hrubou stenou a zreteľným klíčnym pórom, asi 6–8,5 × 3,5–5 µm.",
+      "habitat": "Je to saprotrof, ktorý rozkladá mŕtve drevo. Rastie v hustých trsoch, niekedy aj jednotlivo, na hnijúcich pňoch a na zahrabaných alebo obnažených koreňoch ihličnanov, najmä smreka, ale aj borovice a jedle, a len zriedka na listnatom dreve, napríklad buka. Nachádza sa v ihličnatých a zmiešaných lesoch, častejšie v pahorkatinách a horách. Hlavná sezóna v Európe je september až november, za mierneho počasia sa však plodnice môžu objaviť takmer v každom mesiaci, aj na jar.",
+      "uses": "Po tepelnej úprave je jedlá a v strednej a severnej Európe obľúbená, používajú sa však len klobúky, pretože hlúbiky sú tuhé. Hodí sa do polievok a hubových zmesí a dá sa aj nakladať. Mnohé príručky radia opatrnosť, pretože trsy sa ľahko zamenia s jedovatými a smrteľne jedovatými druhmi, ktoré rastú na tých istých pňoch. Zbierajte ju len vtedy, ak je každá plodnica s istotou určená.",
+      "confusion": "Jedovatá Hypholoma fasciculare je žiarivejšie sírovožltá, so žltozelenými až olivovými lupeňmi a veľmi horkou chuťou. Hypholoma lateritium je statnejšia, so stredom klobúka tehlovočerveným a žltkastými lupeňmi; je horká a rastie prevažne na listnatom dreve. Smrteľne jedovatá Galerina marginata rastie tiež v trsoch na ihličnatom dreve, má však hrdzavohnedé lupene, tenký prsteň a hrdzavohnedý výtrusný prach. Kuehneromyces mutabilis má dvojfarebný, nasiaknutý klobúk, prsteň a pod ním šupinatý hlúbik. Pri každej plodnici skontrolujte farbu lupeňov a výtrusný prach.",
+      "notes": "Druhové meno capnoides znamená podobný dymu a vzťahuje sa na dymovosivé lupene, ktoré ju odlišujú od ostatných trsovito rastúcich druhov rodu Hypholoma. Elias Fries ju v roku 1818 opísal ako Agaricus capnoides a Paul Kummer ju v roku 1871 preradil do rodu Hypholoma. Je to jediný trsovito rastúci druh rodu Hypholoma, ktorý sa všeobecne považuje za jedlý.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Hypholoma-capnoides/strapcovka-makova/trepenitka-makova/ID644",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=159037",
+        "https://www.gbif.org/species/2533439"
+      ],
+      "label": "strapcovka maková"
+    },
+    "sl": {
+      "description": "Majhna do srednje velika lističasta goba, ki raste v gostih šopih na trhlih štorih in koreninah iglavcev. Njeni rumeni do okrasti klobuki so zelo podobni klobukom strupene Hypholoma fasciculare, vendar so njeni lističi dimasto sivi in nikoli zelenkasti, okus pa je mil, ne grenak. Razširjena je na severni polobli, v Evropi, severni Aziji in Severni Ameriki, in je marsikje pogosta.",
+      "cap": "Klobuk je širok 2–8 cm, sprva zaobljen do zvonast, nato izbočen in nazadnje sploščen. Površina je gladka in suha, v vlagi nekoliko svetleča ali mastna, okrasto rumena do oranžno rumena in na sredini vedno temnejša, bolj oranžno rjava; ko se suši, zbledi v svetlo okrasto. Pri mladih gobah so na robu belkasti, nitasti ostanki zastiralca, ki kmalu potemnijo ali izginejo.",
+      "hymenium": "Lističi so priraščeni na bet, precej gosti in pomešani s krajšimi lističi. Sprva so belkasti do bledo smetanasti, nato dimasto sivi do makovo sivo lila in nazadnje škrlatno rjavi, ko trosi dozorijo. Rumeno zelenih odtenkov nimajo nikoli.",
+      "stipe": "Bet je dolg 4–10 cm in debel 0,4–1 cm, valjast, zaradi rasti v tesnih šopih pogosto ukrivljen in kmalu votel. Pod klobukom je bledo rumen, proti dnu pa postane rjasto rjav. Je drobno vlaknat, mlade gobe imajo lahko šibko obročasto cono od zastiralca, trajnega obročka pa ni.",
+      "flesh": "Meso je tanko, v klobuku belkasto do bledo rumeno, v dnu beta rjavkasto. Vonj je šibek, včasih rahlo zatohel, okus pa mil, nikoli grenak.",
+      "sporePrint": "Trosni prah je temno škrlatno rjav do sivo vijoličast. Trosi so gladki, elipsoidni, debelostenski, z izrazito kalilno poro, približno 6–8,5 × 3,5–5 µm.",
+      "habitat": "Je saprotrof, ki razkraja odmrli les. Raste v gostih šopih, včasih posamič, na trhlih štorih in na zakopanih ali razgaljenih koreninah iglavcev, zlasti smreke, pa tudi bora in jelke, le redko pa na lesu listavcev, na primer bukve. Najdemo jo v iglastih in mešanih gozdovih, pogosteje v gričevju in gorah. Glavna sezona v Evropi je od septembra do novembra, ob milem vremenu pa se trosnjaki lahko pojavijo skoraj v vsakem mesecu, tudi spomladi.",
+      "uses": "Po toplotni obdelavi je užitna in v srednji in severni Evropi cenjena, uporabljajo pa se le klobuki, ker so beti žilavi. Primerna je za juhe in mešane gobje jedi, lahko jo tudi vložimo. Mnogi gobarski priročniki svetujejo previdnost, ker se šopi zlahka zamenjajo s strupenimi in smrtno strupenimi vrstami, ki rastejo na istih štorih. Nabirajte jo le, če je vsak trosnjak zanesljivo določen.",
+      "confusion": "Strupena Hypholoma fasciculare je živahneje žveplasto rumena, z rumeno zelenimi do olivnimi lističi in zelo grenkim okusom. Hypholoma lateritium je čokatejša, z opečnato rdečo sredino klobuka in rumenkastimi lističi; je grenka in raste večinoma na lesu listavcev. Smrtno strupena Galerina marginata prav tako raste v šopih na lesu iglavcev, vendar ima rjasto rjave lističe, tanek obroček in rjasto rjav trosni prah. Kuehneromyces mutabilis ima dvobarven, vodeno prepojen klobuk, obroček in pod njim luskast bet. Pri vsakem trosnjaku preverite barvo lističev in trosni prah.",
+      "notes": "Vrstni pridevek capnoides pomeni dimu podoben in se nanaša na dimasto sive lističe, ki jo ločijo od drugih v šopih rastočih vrst rodu Hypholoma. Elias Fries jo je leta 1818 opisal kot Agaricus capnoides, Paul Kummer pa jo je leta 1871 premestil v rod Hypholoma. Je edina v šopih rastoča vrsta rodu Hypholoma, ki velja za splošno užitno.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "sivolistna žveplenjača"
+    },
+    "sr": {
+      "description": "Мала до средње велика листићава гљива која расте у густим бусенима на трулим пањевима и корењу четинара. Њени жути до окер шешири веома личе на шешире отровне Hypholoma fasciculare, али су јој листићи димносиви и никад зеленкасти, а укус је благ, не горак. Распрострањена је на северној хемисфери, у Европи, северној Азији и Северној Америци, и на многим местима је честа.",
+      "cap": "Шешир је широк 2–8 cm, најпре заобљен до звонаст, затим испупчен и најзад раван. Површина је глатка и сува, по влази помало сјајна или масна, окер жута до наранџасто жута и у средини увек тамнија, више наранџасто смеђа; сушењем бледи у светлу окер боју. Код младих гљива ивица носи беличасте, кончасте остатке вела, који ускоро потамне или нестану.",
+      "hymenium": "Листићи су прирасли уз дршку, прилично густи и измешани са краћим листићима. Најпре су беличасти до бледо крем, затим димносиви до сиволила попут семена мака и најзад пурпурно смеђи када споре сазру. Никад немају жутозелене тонове.",
+      "stipe": "Дршка је дуга 4–10 cm и дебела 0,4–1 cm, ваљкаста, због раста у збијеним бусенима често савијена и убрзо шупља. Испод шешира је бледожута, а према дну постаје рђасто смеђа. Фино је влакнаста, а младе гљиве могу имати слабу прстенасту зону од вела, али трајног прстена нема.",
+      "flesh": "Месо је танко, у шеширу беличасто до бледожуто, а у дну дршке смеђкасто. Мирис је слаб, понекад благо буђав, а укус је благ, никад горак.",
+      "sporePrint": "Отисак спора је тамно пурпурно смеђ до сивољубичаст. Споре су глатке, елипсоидне, дебелих зидова, са јасном клицином пором, око 6–8,5 × 3,5–5 µm.",
+      "habitat": "То је сапротроф који разлаже мртво дрво. Расте у густим бусенима, понекад појединачно, на трулим пањевима и на закопаном или огољеном корењу четинара, нарочито смрче, али и бора и јеле, а само ретко на дрвету лишћара као што је буква. Налази се у четинарским и мешовитим шумама, чешће у брдским и планинским крајевима. Главна сезона у Европи траје од септембра до новембра, али по благом времену плодишта се могу појавити готово у било ком месецу, и у пролеће.",
+      "uses": "После термичке обраде је јестива и цењена у средњој и северној Европи, али се користе само шешири, јер су дршке жилаве. Добра је у супама и мешаним јелима од гљива, а може се и укиселити. Многи приручници саветују опрез, јер се бусени лако замене са отровним и смртно отровним врстама које расту на истим пањевима. Берите је само ако је свако плодиште сигурно одређено.",
+      "confusion": "Отровна Hypholoma fasciculare је живље сумпорно жута, са жутозеленим до маслинастим листићима и веома горким укусом. Hypholoma lateritium је крупнија, са циглено црвеном средином шешира и жућкастим листићима; горка је и расте углавном на дрвету лишћара. Смртно отровна Galerina marginata такође расте у бусенима на дрвету четинара, али има рђасто смеђе листиће, танак прстен и рђасто смеђ отисак спора. Kuehneromyces mutabilis има двобојан, воденаст шешир, прстен и испод њега љускаву дршку. Код сваког плодишта проверите боју листића и отисак спора.",
+      "notes": "Врсни епитет capnoides значи сличан диму и односи се на димносиве листиће, по којима се разликује од осталих бусенастих врста рода Hypholoma. Елијас Фрис ју је описао 1818. као Agaricus capnoides, а Паул Кумер ју је 1871. преместио у род Hypholoma. Једина је бусенаста врста рода Hypholoma која се генерално сматра јестивом.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten till medelstor skivling som växer i täta tuvor på murkna stubbar och rötter av barrträd. Dess gula till ockrafärgade hattar liknar mycket hattarna hos den giftiga Hypholoma fasciculare, men skivorna är rökgrå och aldrig grönaktiga, och smaken är mild, inte bitter. Den är utbredd på norra halvklotet, i Europa, norra Asien och Nordamerika, och på många håll är den vanlig.",
+      "cap": "Hatten är 2–8 cm bred, först rundad till klocklik, sedan välvd och till sist utbredd. Ytan är slät och torr, i fuktigt väder något glänsande eller flottig, ockragul till orangegul och i mitten alltid mörkare, mer orangebrun; när den torkar bleknar den till ljus ockra. Hos unga exemplar bär kanten vitaktiga, trådiga hyllerester, som snart mörknar eller försvinner.",
+      "hymenium": "Skivorna är fastvuxna vid foten, ganska täta och blandade med kortare skivor. De är först vitaktiga till blekt krämfärgade, sedan rökgrå till vallmofrögrå med lila ton och till sist purpurbruna när sporerna mognar. De har aldrig gulgröna toner.",
+      "stipe": "Foten är 4–10 cm lång och 0,4–1 cm tjock, cylindrisk, ofta krökt eftersom fruktkropparna växer i täta tuvor, och snart ihålig. Den är blekgul under hatten och blir rostbrun mot basen. Den är fint trådig, och unga exemplar kan visa en svag ringzon efter hyllet, men någon bestående ring finns inte.",
+      "flesh": "Köttet är tunt, vitaktigt till blekgult i hatten och brunaktigt i fotens bas. Lukten är svag, ibland lätt unken, och smaken är mild, aldrig bitter.",
+      "sporePrint": "Sporavtrycket är mörkt purpurbrunt till gråviolett. Sporerna är släta, ellipsoida och tjockväggiga med en tydlig groddpor, omkring 6–8,5 × 3,5–5 µm.",
+      "habitat": "Den är en saprotrof som bryter ned död ved. Den växer i täta tuvor, ibland ensam, på murkna stubbar och på begravda eller blottade rötter av barrträd, särskilt gran men också tall och ädelgran, och bara sällan på lövved som bok. Den förekommer i barr- och blandskog, oftare i kulliga och bergiga trakter. Huvudsäsongen i Europa är september till november, men i milt väder kan fruktkroppar dyka upp nästan alla månader, även på våren.",
+      "uses": "Den är ätlig efter tillagning och uppskattad i Central- och Nordeuropa, men bara hattarna används eftersom foten är seg. Den passar i soppor och blandade svamprätter och kan även läggas in. Många svampböcker råder till försiktighet, eftersom tuvorna lätt förväxlas med giftiga och dödligt giftiga arter som växer på samma stubbar. Plocka den bara om varje fruktkropp är säkert bestämd.",
+      "confusion": "Den giftiga Hypholoma fasciculare är klarare svavelgul, med gulgröna till olivfärgade skivor och mycket bitter smak. Hypholoma lateritium är kraftigare, med tegelröd hattmitt och gulaktiga skivor; den är bitter och växer mest på lövved. Den dödligt giftiga Galerina marginata växer också i tuvor på barrved, men har rostbruna skivor, en tunn ring och rostbrunt sporavtryck. Kuehneromyces mutabilis har en tvåfärgad, vattnig hatt, en ring och en fjällig fot nedanför ringen. Kontrollera skivornas färg och sporavtrycket på varje fruktkropp.",
+      "notes": "Artnamnet capnoides betyder röklik och syftar på de rökgrå skivorna, som skiljer den från de andra tuvade Hypholoma-arterna. Elias Fries beskrev den 1818 som Agaricus capnoides, och Paul Kummer förde 1871 över den till släktet Hypholoma. Den är den enda tuvade Hypholoma-arten som allmänt anses vara ätlig.",
+      "names": [
+        "röksvavelskivling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Rökslöjskivling"
+      ],
+      "label": "rökslöjskivling"
+    },
+    "tr": {
+      "description": "İğne yapraklı ağaçların çürüyen kütükleri ve kökleri üzerinde sık demetler hâlinde büyüyen, küçük ila orta boy, lamelli bir mantar. Sarı ila koyu sarı (okr) şapkaları zehirli Hypholoma fasciculare'nin şapkalarına çok benzer, ancak lamelleri duman grisidir ve asla yeşilimsi değildir; tadı da acı değil, yumuşaktır. Kuzey Yarımküre'de, Avrupa, Kuzey Asya ve Kuzey Amerika'da yayılış gösterir ve birçok yerde yaygındır.",
+      "cap": "Şapka 2–8 cm çapındadır; başlangıçta yuvarlak ila çan biçimli, sonra dışbükey ve sonunda yassıdır. Yüzeyi düz ve kurudur, nemliyken biraz parlak ya da yağlıdır, okr sarısı ila turuncumsu sarıdır ve ortası her zaman daha koyu, daha turuncumsu kahverengidir; kurudukça açık okr rengine solar. Genç örneklerde kenarda beyazımsı, iplik gibi örtü kalıntıları bulunur; bunlar kısa sürede koyulaşır ya da kaybolur.",
+      "hymenium": "Lameller sapa bitişiktir, oldukça sıktır ve aralarında daha kısa lameller bulunur. Başlangıçta beyazımsı ila soluk krem rengindedir, sonra duman grisi ila haşhaş tohumu gibi gri-leylak olur ve sporlar olgunlaştıkça sonunda mor-kahverengiye döner. Hiçbir zaman sarı-yeşil tonlar göstermez.",
+      "stipe": "Sap 4–10 cm uzunluğunda ve 0,4–1 cm kalınlığındadır; silindiriktir, meyve gövdeleri sıkı demetler hâlinde büyüdüğü için çoğunlukla kıvrıktır ve kısa sürede içi boşalır. Şapkanın altında soluk sarıdır, tabana doğru pas kahverengisine döner. İnce lifli yapıdadır; genç örneklerde örtüden kalma belli belirsiz bir halka bölgesi görülebilir, ancak kalıcı bir halka yoktur.",
+      "flesh": "Et incedir; şapkada beyazımsı ila soluk sarı, sapın tabanında kahverengimsidir. Kokusu zayıftır, bazen hafifçe küflüdür; tadı yumuşaktır, asla acı değildir.",
+      "sporePrint": "Spor izi koyu mor-kahverengi ila gri-menekşedir. Sporlar düz, elipsoit, kalın çeperlidir ve belirgin bir çimlenme porü bulunur; yaklaşık 6–8,5 × 3,5–5 µm.",
+      "habitat": "Ölü odunu ayrıştıran bir saprotroftur. Sık demetler hâlinde, bazen tek tek, çürüyen kütüklerde ve iğne yapraklı ağaçların gömülü ya da açıkta kalmış köklerinde, özellikle ladinde, ayrıca çam ve göknarda, yalnızca nadiren de kayın gibi geniş yapraklı ağaçların odununda büyür. İğne yapraklı ve karışık ormanlarda, daha çok tepelik ve dağlık yerlerde bulunur. Avrupa'da ana mevsim eylülden kasıma kadardır, ancak ılıman havalarda meyve gövdeleri ilkbahar dâhil neredeyse her ay görülebilir.",
+      "uses": "Pişirildikten sonra yenebilir ve Orta ve Kuzey Avrupa'da sevilir, ancak sapları sert olduğu için yalnızca şapkaları kullanılır. Çorbalara ve karışık mantar yemeklerine uygundur, turşusu da yapılabilir. Birçok rehber dikkatli olunmasını önerir, çünkü demetler aynı kütüklerde büyüyen zehirli ve öldürücü türlerle kolayca karıştırılır. Yalnızca her meyve gövdesi kesin olarak tanımlandıysa toplayın.",
+      "confusion": "Zehirli Hypholoma fasciculare daha canlı bir kükürt sarısıdır; lamelleri sarı-yeşil ila zeytin rengidir ve tadı çok acıdır. Hypholoma lateritium daha iri yapılıdır, şapkasının ortası tuğla kırmızısı, lamelleri sarımsıdır; acıdır ve çoğunlukla geniş yapraklı ağaçların odununda büyür. Öldürücü Galerina marginata da iğne yapraklı odun üzerinde demetler hâlinde büyür, ancak lamelleri pas kahverengisidir, ince bir halkası vardır ve spor izi pas kahverengisidir. Kuehneromyces mutabilis'in iki renkli, su emmiş görünümlü bir şapkası, bir halkası ve halkanın altında pullu bir sapı vardır. Her meyve gövdesinin lamel rengini ve spor izini kontrol edin.",
+      "notes": "Tür adı capnoides duman benzeri anlamına gelir ve onu demet hâlinde büyüyen diğer Hypholoma türlerinden ayıran duman grisi lamellere işaret eder. Elias Fries onu 1818'de Agaricus capnoides adıyla tanımlamış, Paul Kummer 1871'de Hypholoma cinsine aktarmıştır. Demet hâlinde büyüyen Hypholoma türleri arasında genel olarak yenebilir kabul edilen tek türdür.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий або середній пластинчастий гриб, що росте щільними пучками на гниючих пнях і коренях хвойних дерев. Його жовті або вохристі шапинки дуже схожі на шапинки отруйного Hypholoma fasciculare, але пластинки в нього димчасто-сірі й ніколи не бувають зеленуватими, а смак м’який, не гіркий. Поширений у Північній півкулі — в Європі, Північній Азії та Північній Америці — і в багатьох місцях звичайний.",
+      "cap": "Шапинка 2–8 cm у діаметрі, спочатку округла або дзвоникувата, потім опукла й зрештою розпростерта. Поверхня гладенька й суха, у вологу погоду трохи блискуча або жирнувата, вохристо-жовта або оранжево-жовта й у центрі завжди темніша, більш оранжево-бура; підсихаючи, вицвітає до світло-вохристої. У молодих грибів по краю є білуваті ниткоподібні рештки покривала, які невдовзі темніють або зникають.",
+      "hymenium": "Пластинки прирослі до ніжки, досить часті, з коротшими пластиночками. Спочатку вони білуваті або блідо-кремові, потім димчасто-сірі або сіро-бузкові, як макове зерно, і зрештою пурпурово-бурі, коли достигають спори. Жовто-зелених відтінків у них ніколи не буває.",
+      "stipe": "Ніжка завдовжки 4–10 cm і завтовшки 0,4–1 cm, циліндрична, через ріст тісними пучками часто вигнута, рано стає порожнистою. Під шапинкою вона блідо-жовта, до основи іржаво-бура. Вона тонковолокниста, у молодих грибів може бути слабка кільцева зона від покривала, але постійного кільця немає.",
+      "flesh": "М’якуш тонкий, у шапинці білуватий або блідо-жовтий, в основі ніжки буруватий. Запах слабкий, іноді трохи затхлий, смак м’який, ніколи не гіркий.",
+      "sporePrint": "Споровий порошок темний пурпурово-бурий або сіро-фіолетовий. Спори гладенькі, еліпсоїдні, товстостінні, з чіткою ростковою порою, близько 6–8,5 × 3,5–5 µm.",
+      "habitat": "Це сапротроф, що розкладає мертву деревину. Росте щільними пучками, іноді поодинці, на гниючих пнях і на заглиблених чи оголених коренях хвойних дерев, особливо ялини, а також сосни та ялиці, і лише зрідка на деревині листяних порід, наприклад бука. Трапляється в хвойних і мішаних лісах, частіше в горбистій і гірській місцевості. Основний сезон у Європі — з вересня по листопад, але в м’яку погоду плодові тіла можуть з’являтися майже в будь-якому місяці, зокрема навесні.",
+      "uses": "Після термічної обробки їстівний і цінується в Центральній та Північній Європі, але використовують лише шапинки, бо ніжки жорсткі. Підходить для супів і грибних асорті, його також можна маринувати. Багато визначників радять обережність, бо пучки легко сплутати з отруйними та смертельно отруйними видами, що ростуть на тих самих пнях. Збирайте його, лише якщо кожне плодове тіло визначене з повною впевненістю.",
+      "confusion": "Отруйний Hypholoma fasciculare яскравіший, сірчано-жовтий, із жовто-зеленими або оливковими пластинками й дуже гірким смаком. Hypholoma lateritium більший і щільніший, з цеглясто-червоним центром шапинки та жовтуватими пластинками; він гіркий і росте переважно на деревині листяних порід. Смертельно отруйна Galerina marginata теж росте пучками на хвойній деревині, але має іржаво-бурі пластинки, тонке кільце та іржаво-бурий споровий порошок. У Kuehneromyces mutabilis двоколірна, водяниста шапинка, кільце й луската ніжка нижче кільця. Перевіряйте колір пластинок і споровий порошок кожного плодового тіла.",
+      "notes": "Видовий епітет capnoides означає «схожий на дим» і вказує на димчасто-сірі пластинки, що відрізняють цей вид від інших видів роду Hypholoma, які ростуть пучками. Еліас Фріс описав його 1818 року як Agaricus capnoides, а Пауль Куммер 1871 року переніс його до роду Hypholoma. Це єдиний вид роду Hypholoma, що росте пучками й зазвичай вважається їстівним.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Опеньок_хибний_сіропластинчатий",
+        "https://api.gbif.org/v1/species/2533439/vernacularNames"
+      ],
+      "label": "опеньок хибний сіропластинчатий"
+    },
+    "zh": {
+      "description": "一種小型至中型的傘菌，成密叢生於針葉樹腐朽的樹樁和根上。其黃色至赭色的菌蓋與有毒的Hypholoma fasciculare非常相似，但菌褶呈煙灰色，從不帶綠色，味道溫和而不苦。廣泛分布於北半球的歐洲、亞洲北部和北美洲，在許多地方相當常見。",
+      "cap": "菌蓋直徑2–8 cm，初時圓形至鐘形，後呈凸鏡形，最後平展。表面平滑而乾燥，潮濕時略有光澤或呈油脂狀，赭黃色至橙黃色，中央總是較深，更偏橙褐色；乾燥時褪為淡赭色。幼時邊緣有白色絲狀的菌幕殘片，不久變暗或消失。",
+      "hymenium": "菌褶直生於菌柄，頗密，間有較短的小菌褶。初為白色至淡奶油色，後變為煙灰色至如罌粟籽般的灰紫色，孢子成熟時最終呈紫褐色。從不帶黃綠色調。",
+      "stipe": "菌柄長4–10 cm，粗0.4–1 cm，圓柱形，因密集叢生而常彎曲，不久變為中空。菌蓋下方淡黃色，向基部漸變為鏽褐色。表面具細纖維，幼嫩子實體可能有菌幕留下的模糊環帶，但沒有持久的菌環。",
+      "flesh": "菌肉薄，菌蓋內白色至淡黃色，菌柄基部帶褐色。氣味微弱，有時略帶霉味，味道溫和，從不苦。",
+      "sporePrint": "孢子印暗紫褐色至灰紫色。孢子平滑，橢圓形，壁厚，具明顯的芽孔，約6–8.5 × 3.5–5 µm。",
+      "habitat": "為分解枯木的腐生菌。成密叢生，有時單生，生於腐朽樹樁以及埋於地下或裸露的針葉樹根上，尤其是雲杉，也見於松樹和冷杉，僅偶爾生於山毛櫸等闊葉樹木材上。見於針葉林和混交林，較常見於丘陵和山地。在歐洲主要季節為9月至11月，但天氣溫和時幾乎任何月份都可能出現子實體，春季亦然。",
+      "uses": "煮熟後可食，在中歐和北歐頗受喜愛，但菌柄堅韌，只取菌蓋食用。適合做湯和混合菇類菜餚，也可醃漬。許多圖鑑建議謹慎，因為其菌叢很容易與生長在同一樹樁上的有毒和劇毒物種混淆。只有在每一個子實體都確定鑑定無誤時才可採集。",
+      "confusion": "有毒的Hypholoma fasciculare呈更鮮豔的硫黃色，菌褶黃綠色至橄欖色，味道極苦。Hypholoma lateritium較粗壯，菌蓋中央磚紅色，菌褶帶黃色；味苦，主要生於闊葉樹木材上。劇毒的Galerina marginata同樣叢生於針葉樹木材上，但菌褶鏽褐色，有薄菌環，孢子印鏽褐色。Kuehneromyces mutabilis的菌蓋呈雙色、水浸狀，有菌環，菌環以下的菌柄有鱗片。請檢查每一個子實體的菌褶顏色和孢子印。",
+      "notes": "種加詞capnoides意為「像煙的」，指其煙灰色的菌褶，這一特徵使它有別於其他叢生的Hypholoma屬物種。埃利亞斯·弗里斯於1818年將其描述為Agaricus capnoides，保羅·庫默於1871年將其移入Hypholoma屬。它是叢生的Hypholoma屬物種中唯一普遍被認為可食的種類。",
+      "names": [
+        "烟色垂幕菇"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533439/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1543695"
+      ],
+      "label": "煙色垂幕菇"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t59u \"signature Gemini\"). The supplied file \"Hypholoma capnoides.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right and a small illegible monogram below the stump, both kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc1.webp",
+      "author": "sallynicholson",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/234891611"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc2.webp",
+      "author": "Stephan Pflume",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/237708319"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc3.webp",
+      "author": "Igor",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/568187030"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc4.webp",
+      "author": "ikelman",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/441796435"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc5.webp",
+      "author": "pulmat",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/156867529"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Hypholoma_capnoides/Hypholoma_capnoides@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark and small ink monogram kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc1.webp",
+      "author": "sallynicholson",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/234891611"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc2.webp",
+      "author": "Stephan Pflume",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/237708319"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc3.webp",
+      "author": "Igor",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/568187030"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc4.webp",
+      "author": "ikelman",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/441796435"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Strophariaceae/Hypholoma_capnoides/hc5.webp",
+      "author": "pulmat",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/156867529"
+    }
+  ],
+  "synonyms": [
+    "Agaricus capnoides",
+    "Naematoloma capnoides",
+    "Geophila capnoides",
+    "Dryophila fascicularis var. capnoides",
+    "Dryophila capnoides",
+    "Hypholoma fasciculare var. capnoides",
+    "Psilocybe capnoides"
+  ],
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "reserved": false,
+  "id": 169,
+  "added": "2026-11-14",
+  "citation": "Führ. Pilzk. (Zerbst): 72 (1871)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 351,
+        "box": [
+          453,
+          280,
+          20,
+          24
+        ],
+        "medianContrast": 2.01
+      },
+      {
+        "area": 35,
+        "box": [
+          465,
+          305,
+          5,
+          7
+        ],
+        "medianContrast": 3.23
+      },
+      {
+        "area": 373,
+        "box": [
+          510,
+          407,
+          21,
+          23
+        ],
+        "medianContrast": 2.42
+      },
+      {
+        "area": 150,
+        "box": [
+          431,
+          422,
+          10,
+          18
+        ],
+        "medianContrast": 1.6
+      },
+      {
+        "area": 25,
+        "box": [
+          579,
+          442,
+          5,
+          5
+        ],
+        "medianContrast": 2.29
+      },
+      {
+        "area": 440,
+        "box": [
+          582,
+          445,
+          25,
+          35
+        ],
+        "medianContrast": 2.35
+      },
+      {
+        "area": 1141,
+        "box": [
+          536,
+          496,
+          49,
+          48
+        ],
+        "medianContrast": 1.66
+      },
+      {
+        "area": 25,
+        "box": [
+          492,
+          499,
+          5,
+          5
+        ],
+        "medianContrast": 3.88
+      },
+      {
+        "area": 223,
+        "box": [
+          496,
+          503,
+          17,
+          18
+        ],
+        "medianContrast": 3.18
+      },
+      {
+        "area": 15,
+        "box": [
+          774,
+          763,
+          5,
+          3
+        ],
+        "medianContrast": 3.16
+      },
+      {
+        "area": 61,
+        "box": [
+          768,
+          768,
+          8,
+          8
+        ],
+        "medianContrast": 2.8
+      },
+      {
+        "area": 52,
+        "box": [
+          684,
+          777,
+          6,
+          9
+        ],
+        "medianContrast": 2.53
+      },
+      {
+        "area": 59,
+        "box": [
+          698,
+          781,
+          10,
+          9
+        ],
+        "medianContrast": 2.53
+      },
+      {
+        "area": 42,
+        "box": [
+          702,
+          792,
+          6,
+          7
+        ],
+        "medianContrast": 2.64
+      },
+      {
+        "area": 41,
+        "box": [
+          717,
+          800,
+          6,
+          7
+        ],
+        "medianContrast": 3.03
+      },
+      {
+        "area": 78,
+        "box": [
+          731,
+          803,
+          8,
+          11
+        ],
+        "medianContrast": 2.63
+      },
+      {
+        "area": 34,
+        "box": [
+          716,
+          808,
+          6,
+          6
+        ],
+        "medianContrast": 3.84
+      },
+      {
+        "area": 233,
+        "box": [
+          725,
+          816,
+          13,
+          24
+        ],
+        "medianContrast": 2.68
+      },
+      {
+        "area": 74,
+        "box": [
+          768,
+          824,
+          8,
+          10
+        ],
+        "medianContrast": 2.48
+      },
+      {
+        "area": 661,
+        "box": [
+          661,
+          880,
+          37,
+          57
+        ],
+        "medianContrast": 1.45
+      },
+      {
+        "area": 41,
+        "box": [
+          642,
+          886,
+          7,
+          6
+        ],
+        "medianContrast": 2.04
+      },
+      {
+        "area": 48,
+        "box": [
+          769,
+          888,
+          7,
+          7
+        ],
+        "medianContrast": 1.91
+      },
+      {
+        "area": 83,
+        "box": [
+          648,
+          896,
+          8,
+          11
+        ],
+        "medianContrast": 0.47
+      },
+      {
+        "area": 169,
+        "box": [
+          749,
+          896,
+          19,
+          16
+        ],
+        "medianContrast": 2.08
+      },
+      {
+        "area": 2100,
+        "box": [
+          642,
+          920,
+          40,
+          89
+        ],
+        "medianContrast": 0.81
+      },
+      {
+        "area": 745,
+        "box": [
+          672,
+          991,
+          48,
+          33
+        ],
+        "medianContrast": 1.39
+      },
+      {
+        "area": 25,
+        "box": [
+          736,
+          1031,
+          5,
+          5
+        ],
+        "medianContrast": 4.45
+      },
+      {
+        "area": 51,
+        "box": [
+          680,
+          1035,
+          8,
+          7
+        ],
+        "medianContrast": 2.75
+      },
+      {
+        "area": 95,
+        "box": [
+          660,
+          1039,
+          14,
+          8
+        ],
+        "medianContrast": 1.87
+      },
+      {
+        "area": 51,
+        "box": [
+          713,
+          1041,
+          9,
+          6
+        ],
+        "medianContrast": 3.07
+      }
+    ],
+    "holeRule": "enclosed near-paper regions (median contrast<7) cleared except inside KEEP boxes",
+    "keepBoxes": [
+      [
+        70,
+        860,
+        480,
+        1065
+      ],
+      [
+        445,
+        755,
+        635,
+        1095
+      ],
+      [
+        620,
+        530,
+        752,
+        690
+      ]
+    ],
+    "keptEnclosedRegions": [
+      {
+        "area": 1436,
+        "box": [
+          512,
+          776,
+          86,
+          43
+        ]
+      },
+      {
+        "area": 90,
+        "box": [
+          627,
+          928,
+          8,
+          15
+        ]
+      },
+      {
+        "area": 66,
+        "box": [
+          153,
+          956,
+          7,
+          10
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          155,
+          972,
+          5,
+          5
+        ]
+      }
+    ],
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 11493,
+    "paperResidualP995": 2.2009855228573807,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Hypholoma capnoides.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "743863844fffbd6e49179dbbb884c41913335a21074004a43a5e812ef37b4eee",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      71,
+      103,
+      824,
+      1112
+    ],
+    "uniformScale": 1.8592297476759627,
+    "placement": [
+      100,
+      262
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1876
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 643159,
+    "opaquePixels": 391296,
+    "partialAlphaPixels": 40745,
+    "signatureBox": [
+      748,
+      1078,
+      815,
+      1112
+    ],
+    "signatureComponents": 3,
+    "secondMarkBox": [
+      450,
+      710,
+      495,
+      746
+    ],
+    "secondMarkComponents": 4,
+    "pinePaperBox": [
+      [
+        636,
+        748,
+        830,
+        1092
+      ],
+      [
+        612,
+        850,
+        636,
+        1092
+      ]
+    ],
+    "pinePaperPixelsCleared": 12579,
+    "signaturePixels": 280,
+    "preservedObjects": [
+      "upper left: a mossy, decaying conifer stump with dark bark, green moss and a fallen bark piece at its foot",
+      "the main cluster (about eleven fruit bodies) growing from the stump: smooth, convex to flattened ochre-yellow caps with a darker orange-brown centre, slender pale yellowish stems becoming rusty brown towards the base",
+      "right: a young, rounded, veiled button with a whitish cobweb-like partial veil below the cap",
+      "bottom left: three gill-side views in a row showing the gill colour changing with age, from pale whitish-grey through smoky grey-lilac to dark purple-brown, each with a short stem stump and veil remnants on the stems",
+      "bottom centre: a longitudinal section of one fruit body, showing the thin pale flesh, the attached gills and the hollow-looking stem darkening to rust-brown at the base",
+      "bottom right: a decorative pine twig with needles and one cone",
+      "a small existing ink monogram below the stump and the existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); the small existing ink monogram below the stump is also kept as found; no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t59u; IDs 154-168 precedent). Neither mark is proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 62441.0,
+        "box": [
+          72,
+          856,
+          405,
+          209
+        ],
+        "medianContrast": 98.92985691269973
+      },
+      {
+        "area": 19823.0,
+        "box": [
+          440,
+          760,
+          194,
+          336
+        ],
+        "medianContrast": 38.34831432203027
+      },
+      {
+        "area": 43891.5,
+        "box": [
+          616,
+          752,
+          208,
+          336
+        ],
+        "medianContrast": 60.76188505420474
+      },
+      {
+        "area": 13848.0,
+        "box": [
+          624,
+          535,
+          128,
+          153
+        ],
+        "medianContrast": 72.57242606490668
+      },
+      {
+        "area": 296860.0,
+        "box": [
+          88,
+          104,
+          648,
+          696
+        ],
+        "medianContrast": 117.74391797556143
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Hand-coloured 19th-century-style plate on cream paper: a dense tuft of about eleven ochre-yellow, orange-centred fruit bodies on a mossy stump (upper left), a young veiled button (right), three gill-side views from pale grey to grey-lilac to purple-brown (bottom left), a longitudinal section (bottom centre) and a pine twig with a cone (bottom right); small monogram below the stump and a cursive \"Gemini\" mark (kept as found).",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t59u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-168. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 896x1200 source",
+      "one small illegible ink monogram (imitation engraver-style mark) just below the stump, left of centre",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG/JFIF with EXIF and no source alpha, the same pattern as earlier owner-supplied Gemini art (IDs 154-168)",
+        "No plate number, artist, engraver or publisher imprint; the small monogram is illegible",
+        "Uniform cream paper with a soft vignette"
+      ],
+      "anatomyCaveat": "Broadly consistent with H. capnoides (tufted on a mossy conifer stump; ochre-yellow caps with darker orange centres; pale yellow stems turning rust-brown below; gills whitish then smoky grey-lilac then purple-brown, never green; conifer twig context). Unverified details: mature caps show no whitish veil remnants at the margin (usually present when young); the young button's cobweb-like veil looks more like a Cortinarius cortina than the fibrillose Hypholoma veil; the section shows cream rather than greyish gills and a stem that looks solid rather than becoming hollow; the pine twig is decorative (spruce is the commonest host). The plate alone cannot separate this species from H. fasciculare / Galerina marginata: gill colour, mild taste and spore print are needed.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Hypholoma_capnoides@1600.webp",
+        "bytes": 436144,
+        "sha256": "79536c357192168232875bb5075ea5fb2033e90bb88af78fad5fce30a6c04d49"
+      },
+      {
+        "path": "media/Hypholoma_capnoides@400.webp",
+        "bytes": 51770,
+        "sha256": "18183d4563df450dab4def4ccb3f54db0e41fcef529981531a27e8b735f73e3a"
       }
     ]
   }
