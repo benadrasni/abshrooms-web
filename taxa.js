@@ -1003,5 +1003,8 @@ export const TAXA = {
   },
   Scleroderma: {
     rank: "genus"
+  },
+  Coprinopsis: {
+    rank: "genus"
   }
 };

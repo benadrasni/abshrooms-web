@@ -166483,5 +166483,3143 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Coprinopsis atramentaria",
+  "author": "(Bull.) Redhead, Vilgalys & Moncalvo",
+  "family": "Psathyrellaceae",
+  "genus": "Coprinopsis",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinopsis"
+  ],
+  "summary": [
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinopsis"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "wood",
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "dark",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 7.0,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 15.0,
+  "stipeThickFrom": 0.7,
+  "stipeThickTo": 1.5,
+  "label": {
+    "ar": null,
+    "bg": "мастилена копринка",
+    "cs": "hnojník inkoustový",
+    "da": "almindelig blækhat",
+    "de": "Faltentintling",
+    "en": "common inkcap",
+    "es": null,
+    "et": "voldiline tindik",
+    "fa": null,
+    "fi": "harmaamustesieni",
+    "fr": "coprin noir d'encre",
+    "he": null,
+    "hi": null,
+    "hr": null,
+    "hu": "ráncos tintagomba",
+    "id": null,
+    "it": null,
+    "ja": "ヒトヨタケ",
+    "ko": "두엄먹물버섯",
+    "lt": "rašalinė mėšlabudė",
+    "lv": "pelēkā tintene",
+    "nl": "Grote kale inktzwam",
+    "no": "grå blekksopp",
+    "pl": "czernidłówka pospolita",
+    "pt": null,
+    "ro": null,
+    "ru": "навозник серый",
+    "sk": "hnojník atramentový",
+    "sl": "prava tintovka",
+    "sr": "сиви јарчић",
+    "sv": "grå bläcksvamp",
+    "tr": null,
+    "uk": "гнойовик чорнильний",
+    "zh": "墨汁鬼傘"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Falten-Tintling",
+      "Gemeiner Falten-Tintling",
+      "Grauer Falten-Tintling",
+      "Knoten-Tintling"
+    ],
+    "en": [
+      "common ink cap",
+      "alcohol inky cap",
+      "tippler's bane"
+    ],
+    "es": [],
+    "et": [
+      "voltjas tindik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "czernidłak pospolity"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "навозник чернильный"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Мастилена_копринка"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Coprinopsis-atramentaria/",
+      "https://cs.wikipedia.org/wiki/Hnojník_inkoustový"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://da.wikipedia.org/wiki/Almindelig_blækhat"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://de.wikipedia.org/wiki/Falten-Tintling"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474167",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=474167",
+      "https://www.gbif.org/species/5242740",
+      "https://www.catalogueoflife.org/data/taxon/Y56N",
+      "https://www.wikidata.org/wiki/Q728673",
+      "https://www.inaturalist.org/taxa/48521-Coprinopsis-atramentaria",
+      "https://www.mushroomexpert.com/coprinus_atramentarius.html",
+      "https://en.wikipedia.org/wiki/Coprinopsis_atramentaria",
+      "https://www.first-nature.com/fungi/coprinopsis-atramentaria.php",
+      "https://de.wikipedia.org/wiki/Falten-Tintling",
+      "https://www.nahuby.sk/atlas-hub/Coprinopsis-atramentaria/hnojnik-atramentovy/hnojnik-inkoustovy/ID97",
+      "https://www.myko.cz/myko-atlas/Coprinopsis-atramentaria/",
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+      "https://nihhs.go.kr/mushroom/psnMush/content0105.do",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://et.wikipedia.org/wiki/Voldiline_tindik",
+      "https://elurikkus.ee/app/taxonomy/taxon/141212"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Harmaamustesieni"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Coprin_noir_d'encre",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+      "https://hu.wikipedia.org/wiki/Ráncos_tintagomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://ja.wikipedia.org/wiki/ヒトヨタケ"
+    ],
+    "ko": [
+      "https://species.nibr.go.kr/home/mainHome.do?contCd=009002&cont_link=009&ktsn=120000009372&subMenu=009002",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "lv": [
+      "https://www.latvijasdaba.lv/senes/coprinus-atramentarius-bull-fr-pers/",
+      "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Grote_kale_inktzwam"
+    ],
+    "no": [
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Czernidłówka_pospolita",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Навозник_серый",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Coprinopsis-atramentaria/hnojnik-atramentovy/hnojnik-inkoustovy/ID97",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474167",
+      "https://www.gbif.org/species/5242740"
+    ],
+    "sl": [
+      "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+      "https://sl.wikipedia.org/wiki/Prava_tintovka"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Сиви_јарчић"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/5242740/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Grå_bläcksvamp"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Гнойовик_чорнильний",
+      "https://api.gbif.org/v1/species/5242740/vernacularNames"
+    ],
+    "zh": [
+      "https://taicol.tw/zh-hant/taxon/t0035123",
+      "https://zh.wikipedia.org/wiki/墨汁鬼傘"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر شائع قصير العمر من فطور الحبر، ينمو في عناقيد من خشب مدفون أو متحلل، وغالبًا حول جذوع وجذور قديمة، في الغابات والحدائق العامة والبساتين والمروج وجوانب الطرق وغيرها من الأراضي المضطربة. وهو واسع الانتشار في نصف الكرة الشمالي كله في أوروبا وآسيا وأمريكا الشمالية، وسُجّل أيضًا في جنوب أفريقيا وأستراليا.",
+      "cap": "يبلغ قطر القبعة ٣–٧ cm، وحتى ١٠ cm عند انبساطها الكامل، وارتفاعها ٣–٨ cm. تكون في البداية بيضوية، ثم جرسية إلى مخروطية محدّبة. سطحها رمادي إلى رمادي بني، أملس إلى حدّ ما، وفيه أخاديد أو ثنيات دقيقة تبدأ من الحافة، مع حراشف صغيرة مسطحة بنّية في الوسط. ومع التقدّم في العمر تتشقق الحافة وتلتف إلى الأعلى وتسودّ، وتذوب القبعة من الحافة نحو الوسط إلى سائل أسود يشبه الحبر.",
+      "hymenium": "الصفائح حرّة أو ملتصقة التصاقًا ضيقًا، متزاحمة جدًا وعريضة، بيضاء مائلة إلى رمادي باهت في البداية، ثم بنية وأخيرًا سوداء، وتذوب مع القبعة إلى حبر أسود. حوافّ الصفائح زغبية دقيقة. وتعمل خلايا عقيمة كبيرة (الكيسيات) على الصفائح كفواصل تُبقي الصفائح المتزاحمة متباعدة، وتحيط بالبازيديات رباعية الأبواغ بازيديات عقيمة قصيرة.",
+      "stipe": "يبلغ طول الساق ٥–١٥ cm وسمكها ٠٫٧–١٫٥ cm، وهي أسطوانية وتضيق قليلًا نحو الأعلى، بيضاء، ملساء إلى ليفية دقيقة وحريرية قليلًا، مصمتة في البداية ثم مجوفة وهشة. لا توجد حلقة حقيقية، لكن الجزء السفلي من الساق قد يحمل ألياف بنية محمرة وحافة باهتة شبيهة بالحلقة خلّفها الغلاف، وكثيرًا ما تكون القاعدة منتفخة قليلًا أو تمتد داخل الخشب المدفون.",
+      "flesh": "اللحم أبيض إلى رمادي باهت، رقيق وطري وهش، ويسودّ أثناء الذوبان. الرائحة ضعيفة والطعم معتدل.",
+      "sporePrint": "بصمة الأبواغ سوداء. الأبواغ إهليلجية إلى لوزية الشكل، ملساء، ٦٫٥–١١ × ٤–٦٫٥ µm، بنية محمرة داكنة تحت المجهر، ولها مسام إنبات مركزي.",
+      "habitat": "وهو رمّي على الخشب المتحلل، وينمو في عناقيد كثيفة وأحيانًا منفردًا، عند قاعدة الجذوع وحولها وعلى الخشب المدفون والجذور الميتة، لذلك قد يبدو كأنه ينبت من التربة. يوجد في الغابات عريضة الأوراق، وعلى جوانب الممرات والخنادق، وفي الحدائق العامة والبساتين والمروج، وعلى حواف الطرق، وفي السماد العضوي والأراضي البور، ويمكنه أن يخترق الأسفلت. في أوروبا يُثمر من مايو إلى نوفمبر، وأحيانًا منذ أبريل، وكثيرًا ما يظهر عدة مرات في السنة بعد المطر؛ وفي أمريكا الشمالية يظهر من الربيع إلى الخريف وأحيانًا في الشتاء.",
+      "uses": "صالح للأكل فقط وهو صغير، ما دامت الصفائح بيضاء، وفقط من دون كحول؛ ويجب طهيه في يوم قطفه قبل أن يبدأ بالذوبان، وطعمه عادي. يحتوي على الكوبرين الذي يمنع تكسير الكحول في الجسم على نحو يشبه دواء ديسلفيرام (أنتابيوس). ويسبب الكحول الذي يُشرب خلال نحو ثلاثة أيام قبل الوجبة أو بعدها احمرار الوجه وطعمًا معدنيًا وخفقانًا وصداعًا وغثيانًا وقيئًا ووخزًا في الأطراف، تبدأ بعد دقائق من الشرب وتهدأ عادة في غضون ساعات قليلة؛ واضطرابات نظم القلب نادرة. وبسبب هذا الخطر تنصح جهات متخصصة كثيرة بعدم أكله إطلاقًا. وقد استُعمل السائل الأسود للقبعات الذائبة قديمًا حبرًا.",
+      "confusion": "لدى Coprinopsis romagnesiana حراشف لافتة برتقالية بنية إلى بنية صدئية على القبعة والجزء السفلي من الساق. أما Coprinopsis acuminata فأصغر قليلًا، وقبعتها مدببة ذات نتوء وأقل تثنيًا، وأبواغها أضيق. ولدى Coprinopsis alopecia ساق زغبية مرقطة بلا قاعدة منتفخة، ورقائق بيضاء من الغلاف على القبعات الصغيرة، وأبواغ خشنة. وCoprinellus micaceus أصغر ويميل إلى البني المصفر إلى البني المحمر، وتحمل قبعاته الصغيرة حبيبات لامعة تشبه الميكا. أما Coprinus comatus فأطول، بقبعة بيضاء أسطوانية ذات حراشف أشعث، وحلقة متحركة.",
+      "notes": "الكوبرين بحد ذاته غير ضار: إذ يتكوّن منه في الجسم ١-أمينوسيكلوبروبانول الذي يثبط إنزيم نازعة هيدروجين الأسيتالديهيد، فيتراكم الأسيتالديهيد الناتج عن الكحول. وتحتوي الأجسام الثمرية الطازجة على نحو ١٣٠ ملغ من الكوبرين لكل كيلوغرام. ولم يُعرف هذا التفاعل إلا منذ أوائل القرن العشرين، واستُخدم هذا الفطر أحيانًا لعلاج إدمان الكحول. وفي تجارب مخبرية ألحقت جرعات كبيرة وطويلة من الكوبرين الضرر بخصى الجرذان والكلاب. والأجسام الثمرية قوية بما يكفي لرفع بلاط الأرصفة واختراق الأسفلت.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Често срещана, краткотрайна копринка, която расте на туфи от заровена или гниеща дървесина, често около стари пънове и корени, в гори, паркове, градини, тревни площи, крайпътни ивици и други нарушени терени. Разпространена е в цялото Северно полукълбо в Европа, Азия и Северна Америка, а е съобщавана и от Южна Африка и Австралия.",
+      "cap": "Шапката е широка 3–7 cm, при пълно разтваряне до 10 cm, и висока 3–8 cm. Отначало е яйцевидна, после камбанковидна до конусовидно изпъкнала. Повърхността е сива до сивокафява, доста гладка и от ръба фино набраздена до нагъната, в центъра с дребни, плоски кафеникави люспици. С възрастта ръбът се разпуква, извива се нагоре и почернява, а шапката се разтича от ръба към центъра в черна, подобна на мастило течност.",
+      "hymenium": "Пластинките са свободни или тясно прикрепени, много гъсти и широки, отначало белезникави до бледосиви, после кафяви и накрая черни, и заедно с шапката се разтичат в черно мастило. Ръбът им е фино люспест. Големи стерилни клетки (цистиди) по пластинките действат като дистанционни елементи, които държат гъстите пластинки раздалечени, а четириспоровите базидии са обградени от къси стерилни брахибазидии.",
+      "stipe": "Пънчето е дълго 5–15 cm и дебело 0,7–1,5 cm, цилиндрично и леко стеснено нагоре, бяло, гладко до фино влакнесто и леко копринено, отначало плътно, по-късно кухо и крехко. Истински пръстен няма, но долната част на пънчето може да има червеникавокафяви влакънца и слаб пръстеновиден ръб от булото, а основата често е леко задебелена или продължава в заровената дървесина.",
+      "flesh": "Месото е бяло до бледосиво, тънко, меко и крехко и почернява при разтичането. Мирисът е слаб, а вкусът мек.",
+      "sporePrint": "Споровият прашец е черен. Спорите са елипсовидни до бадемовидни, гладки, 6,5–11 × 4–6,5 µm, под микроскоп тъмни червеникавокафяви, с централна покълнителна пора.",
+      "habitat": "Сапротрофна е върху гниеща дървесина и расте на гъсти туфи, понякога поединично, в основата и около пънове, както и върху заровена дървесина и мъртви корени, поради което може да изглежда, че расте от почвата. Среща се в широколистни гори, покрай пътеки и канавки, в паркове, градини и тревни площи, по крайпътни ивици, върху компост и пустеещи места и може да пробие дори асфалт. В Европа плододава от май до ноември, понякога още от април, след дъжд често няколко пъти в годината; в Северна Америка се появява от пролетта до есента, а понякога и през зимата.",
+      "uses": "Ядлива е само млада, докато пластинките са още бели, и само без алкохол; трябва да се приготви в деня на събирането, преди да започне да се разтича, а вкусът ѝ не е с нищо забележителен. Съдържа коприн, който в организма блокира разграждането на алкохола подобно на лекарството дисулфирам (Антабус). Алкохол, изпит в рамките на около три дни преди или след храненето, предизвиква зачервяване на лицето, метален вкус, сърцебиене, главоболие, гадене, повръщане и изтръпване на крайниците; симптомите започват минути след пиенето и обикновено отшумяват за няколко часа, а нарушенията на сърдечния ритъм са редки. Заради този риск много специализирани институции съветват изобщо да не се яде. Черната течност от разтеклите се шапки някога е била използвана като мастило.",
+      "confusion": "Coprinopsis romagnesiana има ясно изразени оранжевокафяви до ръждивокафяви люспи по шапката и долната част на пънчето. Coprinopsis acuminata е малко по-дребна, с островърха, с гърбица, по-слабо нагъната шапка и по-тесни спори. Coprinopsis alopecia има люспесто, петнисто пънче без задебелена основа, бели люспици от булото по младите шапки и грапави спори. Coprinellus micaceus е по-дребна и по-скоро жълтеникавокафява до червеникавокафява, а младите шапки са покрити с блестящи, подобни на слюда зрънца. Coprinus comatus е по-висока, с бяла, цилиндрична, рошаво люспеста шапка и подвижен пръстен.",
+      "notes": "Сам по себе си копринът е безвреден: в организма от него се образува 1-аминоциклопропанол, който потиска ензима ацеталдехиддехидрогеназа, така че ацеталдехидът от алкохола се натрупва. Пресните плодни тела съдържат около 130 mg коприн на килограм. Тази реакция е известна едва от началото на XX век, а гъбата понякога е използвана за лечение на алкохолизъм. При лабораторни опити големи и продължителни дози коприн увреждат тестисите на плъхове и кучета. Плодните тела са толкова силни, че могат да повдигнат плочки и да пробият асфалт.",
+      "names": [],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Мастилена_копринка"
+      ],
+      "label": "мастилена копринка"
+    },
+    "cs": {
+      "description": "Běžná, krátce žijící hnojníkovitá houba, která roste v trsech ze zahrabaného nebo rozkládajícího se dřeva, často kolem starých pařezů a kořenů, v lesích, parcích, zahradách, na trávnících, okrajích cest a jiných narušených místech. Je rozšířená na celé severní polokouli v Evropě, Asii a Severní Americe a byla zaznamenána také v Jižní Africe a Austrálii.",
+      "cap": "Klobouk je široký 3–7 cm, plně rozevřený až 10 cm, a vysoký 3–8 cm. Zprvu je vejčitý, pak zvoncovitý až kuželovitě klenutý. Povrch je šedý až šedohnědý, poměrně hladký, od okraje jemně rýhovaný až zřasený, ve středu s drobnými plochými hnědavými šupinkami. Stářím se okraj trhá, zvedá vzhůru a černá a klobouk se od okraje ke středu rozplývá v černou inkoustovou tekutinu.",
+      "hymenium": "Lupeny jsou volné nebo úzce připojené, velmi husté a široké, zprvu bělavé až světle šedé, pak hnědé a nakonec černé a spolu s kloboukem se rozplývají v černý inkoust. Ostří lupenů je jemně vločkaté. Velké sterilní buňky (cystidy) na lupenech slouží jako rozpěrky, které drží husté lupeny od sebe, a čtyřvýtrusné bazidie obklopují krátké sterilní brachybazidie.",
+      "stipe": "Třeň je 5–15 cm dlouhý a 0,7–1,5 cm tlustý, válcovitý, směrem vzhůru mírně zúžený, bílý, hladký až jemně vláknitý a slabě lesklý, zprvu plný, později dutý a křehký. Pravý prsten nemá, ale v dolní části může mít červenohnědá vlákna a nevýrazný prstenovitý lem po velu a báze je často mírně rozšířená nebo pokračuje do zahrabaného dřeva.",
+      "flesh": "Dužnina je bílá až světle šedá, tenká, měkká a křehká a při rozplývání černá. Vůně je slabá a chuť mírná.",
+      "sporePrint": "Výtrusný prach je černý. Výtrusy jsou elipsoidní až mandlovité, hladké, 6,5–11 × 4–6,5 µm, v mikroskopu tmavě rezavě hnědé, s centrálním klíčním pórem.",
+      "habitat": "Je saprotrofní na rozkládajícím se dřevě a roste v hustých trsech, někdy jednotlivě, u báze a kolem pařezů a na zahrabaném dřevě a odumřelých kořenech, takže se může zdát, že roste ze země. Vyskytuje se v listnatých lesích, u cest a v příkopech, v parcích, zahradách a na trávnících, na okrajích silnic, na kompostech a rumištích a dokáže prorůst i asfaltem. V Evropě plodí od května do listopadu, někdy už od dubna, často několikrát do roka po deštích; v Severní Americe roste od jara do podzimu a někdy i v zimě.",
+      "uses": "Jedlý je jen mladý, dokud jsou lupeny ještě bílé, a jen bez alkoholu; je třeba ho upravit v den sběru, než se začne rozplývat, a chuťově nijak nevyniká. Obsahuje koprin, který v těle blokuje odbourávání alkoholu podobně jako lék disulfiram (Antabus). Alkohol vypitý zhruba do tří dnů před jídlem nebo po něm vyvolává zčervenání obličeje, kovovou pachuť, bušení srdce, bolest hlavy, nevolnost, zvracení a mravenčení končetin; příznaky začínají několik minut po napití a obvykle během několika hodin odezní, poruchy srdečního rytmu jsou vzácné. Kvůli tomuto riziku mnohé odborné instituce jeho konzumaci nedoporučují. Černá tekutina z rozplynutých klobouků se kdysi používala jako inkoust.",
+      "confusion": "Coprinopsis romagnesiana má na klobouku a ve spodní části třeně výrazné oranžově hnědé až rezavě hnědé šupiny. Coprinopsis acuminata je o něco menší, s kuželovitým, hrbolatým, méně zřaseným kloboukem a užšími výtrusy. Coprinopsis alopecia má vločkatý, skvrnitý třeň bez rozšířené báze, bílé zbytky vela na mladých kloboucích a drsné výtrusy. Coprinellus micaceus je menší, žlutohnědý až červenohnědý a mladé klobouky má pokryté lesklými zrníčky připomínajícími slídu. Coprinus comatus je vyšší, s bílým, válcovitým, střapatě šupinatým kloboukem a posuvným prstenem.",
+      "notes": "Koprin sám o sobě není škodlivý: v těle z něj vzniká 1-aminocyklopropanol, který blokuje enzym acetaldehyddehydrogenázu, takže se hromadí acetaldehyd z alkoholu. Čerstvé plodnice obsahují asi 130 mg koprinu na kilogram. Tato reakce je známa teprve od počátku 20. století a houba se příležitostně používala k léčbě alkoholismu. V laboratorních pokusech velké a dlouhodobé dávky koprinu poškozovaly varlata potkanů a psů. Plodnice jsou tak silné, že dokážou nadzvednout dlažbu a prorůst asfaltem.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Coprinopsis-atramentaria/",
+        "https://cs.wikipedia.org/wiki/Hnojník_inkoustový"
+      ],
+      "label": "hnojník inkoustový"
+    },
+    "da": {
+      "description": "En almindelig, kortlivet blækhat, der vokser i knipper fra nedgravet eller rådnende ved, ofte omkring gamle stubbe og rødder, i skove, parker, haver, græsplæner, vejkanter og på anden forstyrret jord. Den er udbredt over hele den nordlige halvkugle i Europa, Asien og Nordamerika og er også fundet i Sydafrika og Australien.",
+      "cap": "Hatten er 3–7 cm bred, op til 10 cm når den er helt udspilet, og 3–8 cm høj. Den er først ægformet, siden klokkeformet til kegleformet-hvælvet. Overfladen er grå til gråbrun, temmelig glat og fint furet til foldet fra randen, med små, flade, brunlige skæl på midten. Med alderen flænges randen, ruller sig opad og bliver sort, og hatten opløses fra randen og indad til en sort, blæklignende væske.",
+      "hymenium": "Lamellerne er fri eller smalt tilhæftede, meget tætte og brede, først hvidlige til blegt grå, derefter brune og til sidst sorte, og de opløses til sort blæk sammen med hatten. Æggen er fint fnugget. Store sterile celler (cystider) på lamellerne virker som afstandsstykker, der holder de tætte lameller fra hinanden, og de firesporede basidier er omgivet af korte sterile brachybasidier.",
+      "stipe": "Stokken er 5–15 cm lang og 0,7–1,5 cm tyk, cylindrisk og let tilspidset opad, hvid, glat til fint trævlet og svagt silkeagtig, først massiv, senere hul og skør. Der er ingen ægte ring, men den nederste del af stokken kan have rødbrune trævler og en svag ringagtig kant efter sløret, og basis er ofte let opsvulmet eller fortsætter ned i det nedgravede ved.",
+      "flesh": "Kødet er hvidt til blegt gråt, tyndt, blødt og skørt og sortner, når det opløses. Lugten er svag og smagen mild.",
+      "sporePrint": "Sporepulveret er sort. Sporerne er ellipsoide til mandelformede, glatte, 6,5–11 × 4–6,5 µm, mørkt rødbrune i mikroskop, med en central spirepore.",
+      "habitat": "Den er saprotrof på nedbrudt ved og vokser i tætte knipper, undertiden enkeltvis, ved foden af og omkring stubbe og på nedgravet ved og døde rødder, så den kan se ud til at vokse fra jorden. Den findes i løvskove, langs stier og grøfter, i parker, haver og græsplæner, i vejrabatter, på kompost og på affaldspladser og kan bryde op gennem asfalt. I Europa sætter den frugtlegemer fra maj til november, undertiden fra april, ofte flere gange om året efter regn; i Nordamerika viser den sig fra forår til efterår og undertiden om vinteren.",
+      "uses": "Spiselig kun som ung, mens lamellerne endnu er hvide, og kun uden alkohol; den skal tilberedes samme dag, som den plukkes, før den begynder at opløses, og smagen er uden noget særligt. Den indeholder coprin, som blokerer kroppens nedbrydning af alkohol på samme måde som lægemidlet disulfiram (Antabus). Alkohol drukket inden for omkring tre dage før eller efter måltidet giver rødme i ansigtet, metalsmag, hjertebanken, hovedpine, kvalme, opkastning og prikken i lemmerne; symptomerne begynder minutter efter drikken og aftager som regel inden for få timer, og hjerterytmeforstyrrelser er sjældne. På grund af denne risiko fraråder mange myndigheder at spise den. Den sorte væske fra opløste hatte blev tidligere brugt som blæk.",
+      "confusion": "Coprinopsis romagnesiana har tydelige orangebrune til rustbrune skæl på hatten og nederst på stokken. Coprinopsis acuminata er lidt mindre, med en spids, puklet, mindre foldet hat og smallere sporer. Coprinopsis alopecia har en fnugget, plettet stok uden opsvulmet basis, hvide slørrester på unge hatte og ru sporer. Coprinellus micaceus er mindre og mere gulbrun til rødbrun, og unge hatte bærer glitrende, glimmeragtige korn. Coprinus comatus er højere, med en hvid, cylindrisk, laset-skællet hat og en bevægelig ring.",
+      "notes": "Coprin er i sig selv uskadeligt: i kroppen dannes 1-aminocyclopropanol, som hæmmer enzymet acetaldehyd-dehydrogenase, så acetaldehyd fra alkohol hober sig op. Friske frugtlegemer indeholder omkring 130 mg coprin pr. kilogram. Reaktionen har kun været kendt siden begyndelsen af 1900-tallet, og svampen er lejlighedsvis brugt til behandling af alkoholisme. I laboratorieforsøg skadede store og langvarige doser coprin testiklerne hos rotter og hunde. Frugtlegemerne er så stærke, at de kan løfte fliser og bryde gennem asfalt.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://da.wikipedia.org/wiki/Almindelig_blækhat"
+      ],
+      "label": "almindelig blækhat"
+    },
+    "de": {
+      "description": "Ein häufiger, kurzlebiger Tintling, der büschelig aus vergrabenem oder morschem Holz wächst, oft rund um alte Stümpfe und Wurzeln, in Wäldern, Parks, Gärten, auf Rasen, an Wegrändern und auf anderem gestörtem Boden. Er ist auf der gesamten Nordhalbkugel in Europa, Asien und Nordamerika verbreitet und wurde auch in Südafrika und Australien nachgewiesen.",
+      "cap": "Der Hut ist 3–7 cm breit, voll aufgeschirmt bis 10 cm, und 3–8 cm hoch. Er ist zuerst eiförmig, dann glockig bis kegelig-gewölbt. Die Oberfläche ist grau bis graubraun, ziemlich glatt und vom Rand her fein gerieft bis gefaltet, in der Mitte mit kleinen, flachen, bräunlichen Schüppchen. Im Alter reißt der Rand ein, rollt sich nach oben und wird schwarz, und der Hut zerfließt vom Rand zur Mitte hin zu einer schwarzen, tintenartigen Flüssigkeit.",
+      "hymenium": "Die Lamellen sind frei oder schmal angeheftet, sehr gedrängt und breit, zuerst weißlich bis blassgrau, dann braun und schließlich schwarz, und sie zerfließen zusammen mit dem Hut zu schwarzer Tinte. Die Schneiden sind fein flockig. Große sterile Zellen (Zystiden) auf den Lamellen dienen als Abstandshalter, die die gedrängten Lamellen auseinanderhalten, und die viersporigen Basidien sind von kurzen sterilen Brachybasidien umgeben.",
+      "stipe": "Der Stiel ist 5–15 cm lang und 0,7–1,5 cm dick, zylindrisch und nach oben leicht verjüngt, weiß, glatt bis fein faserig und schwach seidig, zuerst voll, später hohl und zerbrechlich. Einen echten Ring gibt es nicht, doch der untere Stiel kann rotbraune Fasern und einen schwachen ringartigen Wulst als Velumrest tragen, und die Basis ist oft leicht verdickt oder setzt sich in das vergrabene Holz fort.",
+      "flesh": "Das Fleisch ist weiß bis blassgrau, dünn, weich und brüchig und schwärzt beim Zerfließen. Der Geruch ist schwach, der Geschmack mild.",
+      "sporePrint": "Das Sporenpulver ist schwarz. Die Sporen sind ellipsoid bis mandelförmig, glatt, 6,5–11 × 4–6,5 µm, unter dem Mikroskop dunkel rotbraun, mit einem zentralen Keimporus.",
+      "habitat": "Er lebt saprotroph auf zersetztem Holz und wächst in dichten Büscheln, manchmal einzeln, am Fuß und rund um Baumstümpfe sowie auf vergrabenem Holz und abgestorbenen Wurzeln, sodass er scheinbar aus dem Boden wächst. Er kommt in Laubwäldern, an Wegen und Gräben, in Parks, Gärten und auf Rasen, an Straßenrändern, auf Kompost und auf Brachflächen vor und kann sogar Asphalt durchbrechen. In Europa fruchtet er von Mai bis November, manchmal schon ab April, nach Regen oft mehrmals im Jahr; in Nordamerika erscheint er vom Frühjahr bis zum Herbst und manchmal im Winter.",
+      "uses": "Essbar nur jung, solange die Lamellen noch weiß sind, und nur ohne Alkohol; er muss noch am Tag des Sammelns zubereitet werden, bevor er zu zerfließen beginnt, und geschmacklich ist er unauffällig. Er enthält Coprin, das im Körper den Abbau von Alkohol ähnlich wie das Medikament Disulfiram (Antabus) blockiert. Alkohol, der etwa innerhalb von drei Tagen vor oder nach der Mahlzeit getrunken wird, verursacht Gesichtsrötung, metallischen Geschmack, Herzklopfen, Kopfschmerzen, Übelkeit, Erbrechen und Kribbeln in den Gliedmaßen; die Beschwerden beginnen Minuten nach dem Trinken und klingen meist innerhalb weniger Stunden ab, Herzrhythmusstörungen sind selten. Wegen dieses Risikos raten viele Fachstellen ganz vom Verzehr ab. Die schwarze Flüssigkeit zerflossener Hüte wurde früher als Tinte verwendet.",
+      "confusion": "Coprinopsis romagnesiana hat auffällige orangebraune bis rostbraune Schuppen auf dem Hut und am unteren Stiel. Coprinopsis acuminata ist etwas kleiner, mit spitzem, gebuckeltem, weniger gefaltetem Hut und schmaleren Sporen. Coprinopsis alopecia hat einen flockigen, gesprenkelten Stiel ohne verdickte Basis, weiße Velumflocken auf jungen Hüten und raue Sporen. Coprinellus micaceus ist kleiner und eher gelbbraun bis rötlich braun, und junge Hüte tragen glitzernde, glimmerartige Körnchen. Coprinus comatus ist höher, mit weißem, walzenförmigem, zottig geschupptem Hut und einem verschiebbaren Ring.",
+      "notes": "Coprin ist für sich allein harmlos: Im Körper entsteht daraus 1-Aminocyclopropanol, das das Enzym Acetaldehyd-Dehydrogenase hemmt, sodass sich Acetaldehyd aus dem Alkohol anstaut. Frische Fruchtkörper enthalten etwa 130 mg Coprin pro Kilogramm. Die Reaktion ist erst seit dem frühen 20. Jahrhundert bekannt, und der Pilz wurde gelegentlich zur Behandlung von Alkoholismus eingesetzt. In Laborversuchen schädigten große und lang andauernde Coprin-Gaben die Hoden von Ratten und Hunden. Die Fruchtkörper sind so kräftig, dass sie Pflastersteine anheben und Asphalt durchbrechen können.",
+      "names": [
+        "Falten-Tintling",
+        "Gemeiner Falten-Tintling",
+        "Grauer Falten-Tintling",
+        "Knoten-Tintling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://de.wikipedia.org/wiki/Falten-Tintling"
+      ],
+      "label": "Faltentintling"
+    },
+    "en": {
+      "description": "A common, short-lived ink cap that grows in tufts from buried or decaying wood, often around old stumps and roots, in woods, parks, gardens, lawns, roadsides and other disturbed ground. It is widespread across the Northern Hemisphere in Europe, Asia and North America, and is also recorded from South Africa and Australia.",
+      "cap": "The cap is 3–7 cm across, up to 10 cm when fully expanded, and 3–8 cm tall. It is egg-shaped at first, then bell-shaped to conical-convex. The surface is grey to grey-brown, fairly smooth, and finely grooved or pleated from the margin, with small, flat brownish scales at the centre. With age the margin splits, curls upwards and blackens, and the cap dissolves from the edge inwards into a black, inky liquid.",
+      "hymenium": "The gills are free or narrowly attached, very crowded and broad, whitish to pale grey at first, then brown and finally black, and they dissolve into black ink together with the cap. The gill edges are finely flocculose. Large sterile cells (cystidia) on the gills act as spacers that keep the crowded gills apart, and the four-spored basidia are surrounded by short sterile brachybasidia.",
+      "stipe": "The stem is 5–15 cm long and 0.7–1.5 cm thick, cylindrical and slightly narrower towards the top, white, smooth to finely fibrous and slightly silky, solid at first and later hollow and fragile. There is no true ring, but the lower stem may bear reddish-brown fibrils and a faint ring-like rim left by the veil, and the base is often slightly swollen or extends into the buried wood.",
+      "flesh": "The flesh is white to pale grey, thin, soft and fragile, and blackens as it dissolves. The smell is weak and the taste mild.",
+      "sporePrint": "The spore print is black. The spores are ellipsoid to almond-shaped, smooth, 6.5–11 × 4–6.5 µm, dark reddish brown under the microscope, with a central germ pore.",
+      "habitat": "It is saprotrophic on decaying wood and grows in dense tufts, sometimes singly, at the base of and around stumps and on buried wood and dead roots, so it can seem to grow from the soil. It occurs in broadleaved woods, along paths and ditches, in parks, gardens and lawns, on roadside verges, on compost and on waste ground, and can push up through asphalt. In Europe it fruits from May to November, sometimes from April, often several times a year after rain; in North America it appears from spring to autumn and sometimes in winter.",
+      "uses": "Edible only when young, while the gills are still white, and only without alcohol; it has to be cooked on the day it is picked, before it starts to dissolve, and its flavour is unremarkable. It contains coprine, which blocks the breakdown of alcohol in the body much like the drug disulfiram (Antabuse). Alcohol drunk within about three days before or after the meal causes facial flushing, a metallic taste, palpitations, headache, nausea, vomiting and tingling of the limbs, starting minutes after drinking and usually easing within a few hours; heart-rhythm disturbances are rare. Because of this risk, many authorities advise against eating it. The black liquid of dissolved caps was once used as ink.",
+      "confusion": "Coprinopsis romagnesiana has conspicuous orange-brown to rust-brown scales on the cap and lower stem. Coprinopsis acuminata is somewhat smaller, with a pointed, umbonate, less pleated cap and narrower spores. Coprinopsis alopecia has a flocky, speckled stem without a swollen base, white veil flecks on young caps and roughened spores. Coprinellus micaceus is smaller and more tawny to reddish brown, and young caps carry glistening, mica-like granules. Coprinus comatus is taller, with a white, cylindrical, shaggy-scaled cap and a movable ring.",
+      "notes": "Coprine is harmless on its own: in the body it yields 1-aminocyclopropanol, which inhibits the enzyme acetaldehyde dehydrogenase, so acetaldehyde from alcohol builds up. Fresh fruit bodies contain about 130 mg of coprine per kilogram. The reaction has only been known since the early 20th century, and the mushroom has occasionally been used to treat alcoholism. In laboratory tests, large and prolonged doses of coprine damaged the testes of rats and dogs. The fruit bodies are strong enough to lift paving stones and push through asphalt.",
+      "names": [
+        "common ink cap",
+        "alcohol inky cap",
+        "tippler's bane"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474167",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=474167",
+        "https://www.gbif.org/species/5242740",
+        "https://www.catalogueoflife.org/data/taxon/Y56N",
+        "https://www.wikidata.org/wiki/Q728673",
+        "https://www.inaturalist.org/taxa/48521-Coprinopsis-atramentaria",
+        "https://www.mushroomexpert.com/coprinus_atramentarius.html",
+        "https://en.wikipedia.org/wiki/Coprinopsis_atramentaria",
+        "https://www.first-nature.com/fungi/coprinopsis-atramentaria.php",
+        "https://de.wikipedia.org/wiki/Falten-Tintling",
+        "https://www.nahuby.sk/atlas-hub/Coprinopsis-atramentaria/hnojnik-atramentovy/hnojnik-inkoustovy/ID97",
+        "https://www.myko.cz/myko-atlas/Coprinopsis-atramentaria/",
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+        "https://nihhs.go.kr/mushroom/psnMush/content0105.do",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "common inkcap"
+    },
+    "es": {
+      "description": "Un coprino común y efímero que crece en grupos desde madera enterrada o en descomposición, a menudo alrededor de tocones y raíces viejas, en bosques, parques, jardines, céspedes, cunetas y otros terrenos alterados. Está ampliamente distribuido por todo el hemisferio norte, en Europa, Asia y Norteamérica, y también se ha registrado en Sudáfrica y Australia.",
+      "cap": "El sombrero mide 3–7 cm de diámetro, hasta 10 cm totalmente extendido, y 3–8 cm de alto. Al principio es ovoide, luego acampanado a cónico-convexo. La superficie es gris a gris parduzca, bastante lisa y finamente estriada o plisada desde el margen, con pequeñas escamas planas parduscas en el centro. Con la edad el margen se raja, se enrolla hacia arriba y se ennegrece, y el sombrero se disuelve desde el borde hacia el centro en un líquido negro como tinta.",
+      "hymenium": "Las láminas son libres o estrechamente adheridas, muy apretadas y anchas, al principio blanquecinas a gris pálido, luego pardas y finalmente negras, y se disuelven en tinta negra junto con el sombrero. Las aristas son finamente flocosas. Unas grandes células estériles (cistidios) en las láminas actúan como separadores que mantienen apartadas las láminas apretadas, y los basidios tetraspóricos están rodeados de cortos braquibasidios estériles.",
+      "stipe": "El pie mide 5–15 cm de largo y 0,7–1,5 cm de grosor, es cilíndrico y algo más estrecho hacia arriba, blanco, liso a finamente fibroso y algo sedoso, al principio macizo y después hueco y frágil. No tiene anillo verdadero, pero la parte inferior del pie puede llevar fibrillas pardo rojizas y un débil reborde anular dejado por el velo, y la base suele estar algo engrosada o se prolonga en la madera enterrada.",
+      "flesh": "La carne es blanca a gris pálido, delgada, blanda y frágil, y se ennegrece al disolverse. El olor es débil y el sabor suave.",
+      "sporePrint": "La esporada es negra. Las esporas son elipsoides a amigdaliformes, lisas, de 6,5–11 × 4–6,5 µm, pardo rojizas oscuras al microscopio, con un poro germinativo central.",
+      "habitat": "Es saprótrofo sobre madera en descomposición y crece en grupos densos, a veces solitario, en la base y alrededor de tocones y sobre madera enterrada y raíces muertas, por lo que puede parecer que brota del suelo. Aparece en bosques de frondosas, junto a senderos y zanjas, en parques, jardines y céspedes, en bordes de carreteras, sobre compost y en terrenos baldíos, y puede atravesar el asfalto. En Europa fructifica de mayo a noviembre, a veces desde abril, a menudo varias veces al año tras las lluvias; en Norteamérica aparece de primavera a otoño y a veces en invierno.",
+      "uses": "Comestible solo cuando es joven, mientras las láminas siguen blancas, y solo sin alcohol; hay que cocinarlo el mismo día de la recolección, antes de que empiece a disolverse, y su sabor no tiene nada de especial. Contiene coprina, que bloquea la degradación del alcohol en el organismo de forma parecida al fármaco disulfiram (Antabus). El alcohol tomado en los tres días aproximadamente antes o después de la comida provoca enrojecimiento facial, sabor metálico, palpitaciones, dolor de cabeza, náuseas, vómitos y hormigueo en las extremidades, que empiezan minutos después de beber y suelen remitir en pocas horas; las alteraciones del ritmo cardiaco son raras. Por este riesgo, muchas instituciones desaconsejan consumirlo. El líquido negro de los sombreros disueltos se usó antiguamente como tinta.",
+      "confusion": "Coprinopsis romagnesiana tiene llamativas escamas pardo anaranjadas a pardo herrumbre en el sombrero y la parte baja del pie. Coprinopsis acuminata es algo más pequeña, con el sombrero puntiagudo, umbonado y menos plisado, y esporas más estrechas. Coprinopsis alopecia tiene el pie flocoso y moteado sin base engrosada, copos blancos de velo en los sombreros jóvenes y esporas rugosas. Coprinellus micaceus es más pequeño y más leonado a pardo rojizo, y los sombreros jóvenes llevan gránulos brillantes como mica. Coprinus comatus es más alto, con el sombrero blanco, cilíndrico y de escamas lanosas, y un anillo móvil.",
+      "notes": "La coprina es inocua por sí sola: en el organismo produce 1-aminociclopropanol, que inhibe la enzima aldehído deshidrogenasa, de modo que el acetaldehído procedente del alcohol se acumula. Los carpóforos frescos contienen unos 130 mg de coprina por kilogramo. La reacción solo se conoce desde principios del siglo XX, y la seta se ha usado ocasionalmente para tratar el alcoholismo. En ensayos de laboratorio, dosis altas y prolongadas de coprina dañaron los testículos de ratas y perros. Los carpóforos tienen fuerza suficiente para levantar baldosas y atravesar el asfalto.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Tavaline lühiealine tindik, mis kasvab kimpudena maasse mattunud või lagunevast puidust, sageli vanade kändude ja juurte ümber, metsades, parkides, aedades, murul, teeservades ja muul rikutud pinnasel. Ta on levinud kogu põhjapoolkeral Euroopas, Aasias ja Põhja-Ameerikas ning teda on leitud ka Lõuna-Aafrikast ja Austraaliast.",
+      "cap": "Kübar on 3–7 cm lai, täielikult avanenult kuni 10 cm, ja 3–8 cm kõrge. Algul on see munajas, seejärel kellukjas kuni koonusjalt kumer. Pind on hall kuni hallikaspruun, üsna sile ja servast peenelt vagune kuni voldiline, keskel väikeste lamedate pruunikate soomustega. Vanemaks saades serv rebeneb, rullub üles ja muutub mustaks ning kübar sulab servast keskme poole mustaks tindisarnaseks vedelikuks.",
+      "hymenium": "Eoslehed on vabad või kitsalt kinnituvad, väga tihedad ja laiad, algul valkjad kuni kahvatuhallid, siis pruunid ja lõpuks mustad ning sulavad koos kübaraga mustaks tindiks. Eoslehtede serv on peenelt helbeline. Eoslehtedel olevad suured steriilsed rakud (tsüstiidid) toimivad vahetükkidena, mis hoiavad tihedaid eoslehti lahus, ning neljaeoselisi kandeid ümbritsevad lühikesed steriilsed brahhübasiidid.",
+      "stipe": "Jalg on 5–15 cm pikk ja 0,7–1,5 cm jäme, silindriline ja ülespoole veidi ahenev, valge, sile kuni peenelt kiuline ja kergelt siidjas, algul täidisega, hiljem õõnes ja habras. Tõelist rõngast ei ole, kuid jala alaosas võivad olla punakaspruunid kiud ja nõrk rõngasjas äär katte jäänusena ning alus on sageli veidi paksenenud või jätkub maasse mattunud puitu.",
+      "flesh": "Viljaliha on valge kuni kahvatuhall, õhuke, pehme ja habras ning muutub sulades mustaks. Lõhn on nõrk ja maitse mahe.",
+      "sporePrint": "Eospulber on must. Eosed on ellipsoidsed kuni mandlikujulised, siledad, 6,5–11 × 4–6,5 µm, mikroskoobis tumedalt punakaspruunid, keskse idupooriga.",
+      "habitat": "Ta on lagunevas puidus elav saprotroof ja kasvab tihedate kimpudena, mõnikord üksikult, kändude jalamil ja ümber ning maasse mattunud puidul ja surnud juurtel, nii et ta võib näida kasvavat otse mullast. Teda leidub lehtmetsades, radade ja kraavide ääres, parkides, aedades ja murul, teepeenardel, kompostil ja jäätmaal ning ta võib tungida isegi läbi asfaldi. Euroopas moodustab ta viljakehi maist novembrini, mõnikord juba aprillis, pärast vihma sageli mitu korda aastas; Põhja-Ameerikas ilmub ta kevadest sügiseni ja mõnikord talvel.",
+      "uses": "Söödav ainult noorelt, kuni eoslehed on veel valged, ja ainult ilma alkoholita; ta tuleb valmistada korjamise päeval, enne kui ta hakkab sulama, ning maitse poolest ei ole ta midagi erilist. Ta sisaldab kopriini, mis blokeerib organismis alkoholi lagundamise sarnaselt ravimiga disulfiraam (Antabus). Alkohol, mida juuakse umbes kolme päeva jooksul enne või pärast sööki, põhjustab näo punetust, metallimaitset, südamepekslemist, peavalu, iiveldust, oksendamist ja jäsemete kipitust; sümptomid algavad mõni minut pärast joomist ja taanduvad tavaliselt mõne tunniga, südamerütmi häired on haruldased. Selle ohu tõttu soovitavad paljud asutused teda üldse mitte süüa. Sulanud kübarate musta vedelikku kasutati kunagi tindina.",
+      "confusion": "Coprinopsis romagnesiana kübaral ja jala alaosas on silmatorkavad oranžikaspruunid kuni roostepruunid soomused. Coprinopsis acuminata on veidi väiksem, terava, künkja ja vähem voldilise kübara ning kitsamate eostega. Coprinopsis alopecia jalg on helbeline ja täpiline, ilma paksenenud aluseta, noortel kübaratel on valged katteebemed ja eosed on karedad. Coprinellus micaceus on väiksem ning pigem kollakas- kuni punakaspruun ja noortel kübaratel on läikivad, vilgukivi meenutavad terakesed. Coprinus comatus on kõrgem, valge silindrilise narmassoomuselise kübara ja liikuva rõngaga.",
+      "notes": "Kopriin on iseenesest kahjutu: organismis tekib sellest 1-aminotsüklopropanool, mis pärsib ensüümi atsetaldehüüddehüdrogenaasi, nii et alkoholist tekkiv atsetaldehüüd koguneb. Värsked viljakehad sisaldavad umbes 130 mg kopriini kilogrammi kohta. Reaktsioon on teada alles 20. sajandi algusest ja seent on mõnikord kasutatud alkoholismi raviks. Laborikatsetes kahjustasid suured ja pikaajalised kopriiniannused rottide ja koerte munandeid. Viljakehad on nii tugevad, et suudavad kergitada sillutisekive ja tungida läbi asfaldi.",
+      "names": [
+        "voltjas tindik"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://et.wikipedia.org/wiki/Voldiline_tindik",
+        "https://elurikkus.ee/app/taxonomy/taxon/141212"
+      ],
+      "label": "voldiline tindik"
+    },
+    "fa": {
+      "description": "قارچی رایج و کم‌عمر از گروه قارچ‌های مرکبی که به‌صورت دسته‌ای از چوب مدفون یا در حال پوسیدن می‌روید، اغلب پیرامون کنده‌ها و ریشه‌های کهنه، در جنگل‌ها، پارک‌ها، باغچه‌ها، چمن‌زارها، کنار جاده‌ها و دیگر زمین‌های آشفته. این قارچ در سراسر نیمکرهٔ شمالی در اروپا، آسیا و آمریکای شمالی گسترده است و از آفریقای جنوبی و استرالیا نیز ثبت شده است.",
+      "cap": "کلاهک ۳–۷ cm قطر دارد، در حالت کاملاً باز تا ۱۰ cm، و ۳–۸ cm ارتفاع. ابتدا تخم‌مرغی است، سپس زنگوله‌ای تا مخروطی-محدب. سطح آن خاکستری تا خاکستری-قهوه‌ای، نسبتاً صاف و از لبه دارای شیارها یا چین‌های ظریف است و در مرکز فلس‌های کوچک، پهن و قهوه‌ای‌رنگ دارد. با افزایش سن لبه شکاف برمی‌دارد، به بالا می‌پیچد و سیاه می‌شود و کلاهک از لبه به سوی مرکز به مایعی سیاه و مرکب‌مانند حل می‌شود.",
+      "hymenium": "تیغه‌ها آزاد یا با اتصال باریک، بسیار فشرده و پهن‌اند، ابتدا سفیدفام تا خاکستری کم‌رنگ، سپس قهوه‌ای و سرانجام سیاه می‌شوند و همراه با کلاهک به مرکب سیاه حل می‌شوند. لبهٔ تیغه‌ها ریز کرک‌دار است. یاخته‌های عقیم بزرگ (سیستیدیوم‌ها) روی تیغه‌ها مانند فاصله‌انداز عمل می‌کنند و تیغه‌های فشرده را از هم جدا نگه می‌دارند، و بازیدیوم‌های چهارهاگی را براکی‌بازیدیوم‌های عقیم کوتاه احاطه کرده‌اند.",
+      "stipe": "پایه ۵–۱۵ cm طول و ۰٫۷–۱٫۵ cm ضخامت دارد، استوانه‌ای و رو به بالا کمی باریک‌تر، سفید، صاف تا ریزرشته‌ای و اندکی ابریشمی است، ابتدا توپر و بعد توخالی و شکننده. حلقهٔ واقعی ندارد، اما بخش پایینی پایه ممکن است رشته‌های قهوه‌ای مایل به قرمز و لبه‌ای کم‌رنگ و حلقه‌مانند داشته باشد که از پوشش به جا مانده است، و قاعده اغلب کمی متورم است یا به درون چوب مدفون ادامه می‌یابد.",
+      "flesh": "گوشت سفید تا خاکستری کم‌رنگ، نازک، نرم و شکننده است و هنگام حل‌شدن سیاه می‌شود. بو ضعیف و مزه ملایم است.",
+      "sporePrint": "اثر هاگ سیاه است. هاگ‌ها بیضوی تا بادامی‌شکل، صاف، ۶٫۵–۱۱ × ۴–۶٫۵ µm، زیر میکروسکوپ قهوه‌ای مایل به قرمز تیره و دارای یک منفذ جوانه‌زنی مرکزی‌اند.",
+      "habitat": "روی چوب پوسیده گندرو است و به‌صورت دسته‌های فشرده، گاه تکی، در پای کنده‌ها و پیرامون آن‌ها و روی چوب مدفون و ریشه‌های مرده می‌روید، به همین دلیل ممکن است به نظر برسد که از خاک بیرون آمده است. در جنگل‌های پهن‌برگ، کنار راه‌ها و جوی‌ها، در پارک‌ها، باغچه‌ها و چمن‌زارها، حاشیهٔ جاده‌ها، روی کمپوست و در زمین‌های بایر دیده می‌شود و حتی می‌تواند آسفالت را بشکافد. در اروپا از مه تا نوامبر، گاه از آوریل، و پس از باران اغلب چند بار در سال میوه می‌دهد؛ در آمریکای شمالی از بهار تا پاییز و گاه در زمستان پدیدار می‌شود.",
+      "uses": "فقط در جوانی، تا وقتی تیغه‌ها هنوز سفیدند، و فقط بدون الکل خوراکی است؛ باید همان روز چیدن و پیش از آغاز حل‌شدن پخته شود و مزهٔ آن چیز خاصی ندارد. دارای کوپرین است که مانند داروی دی‌سولفیرام (آنتابوس) تجزیهٔ الکل را در بدن مسدود می‌کند. نوشیدن الکل در حدود سه روز پیش یا پس از وعدهٔ غذا موجب برافروختگی صورت، مزهٔ فلزی، تپش قلب، سردرد، تهوع، استفراغ و گزگز اندام‌ها می‌شود که چند دقیقه پس از نوشیدن آغاز می‌شود و معمولاً ظرف چند ساعت فروکش می‌کند؛ اختلال در ریتم قلب نادر است. به دلیل این خطر، بسیاری از نهادهای تخصصی توصیه می‌کنند اصلاً خورده نشود. مایع سیاه کلاهک‌های حل‌شده زمانی به‌عنوان مرکب به کار می‌رفت.",
+      "confusion": "Coprinopsis romagnesiana فلس‌های چشمگیر نارنجی-قهوه‌ای تا قهوه‌ای زنگاری روی کلاهک و بخش پایینی پایه دارد. Coprinopsis acuminata کمی کوچک‌تر است، با کلاهکی نوک‌تیز، برآمده و کم‌چین‌تر و هاگ‌های باریک‌تر. Coprinopsis alopecia پایه‌ای کرکی و خال‌دار بدون قاعدهٔ متورم، تکه‌های سفید پوشش روی کلاهک‌های جوان و هاگ‌های زبر دارد. Coprinellus micaceus کوچک‌تر و بیشتر زرد-قهوه‌ای تا قهوه‌ای مایل به قرمز است و کلاهک‌های جوانش دانه‌های درخشان میکامانند دارند. Coprinus comatus بلندتر است، با کلاهکی سفید، استوانه‌ای و فلس‌دار ژولیده و حلقه‌ای متحرک.",
+      "notes": "کوپرین به‌تنهایی بی‌ضرر است: در بدن از آن ۱-آمینوسیکلوپروپانول پدید می‌آید که آنزیم استالدهید دهیدروژناز را مهار می‌کند و در نتیجه استالدهید حاصل از الکل انباشته می‌شود. اندام‌های بارده تازه در هر کیلوگرم حدود ۱۳۰ میلی‌گرم کوپرین دارند. این واکنش تنها از اوایل سدهٔ بیستم شناخته شده است و از این قارچ گاه برای درمان الکلیسم استفاده شده است. در آزمایش‌های آزمایشگاهی، مقادیر زیاد و طولانی‌مدت کوپرین به بیضه‌های موش صحرایی و سگ آسیب رساند. اندام‌های بارده آن‌قدر نیرومندند که می‌توانند سنگ‌فرش را بلند کنند و آسفالت را بشکافند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Yleinen, lyhytikäinen mustesieni, joka kasvaa kimpuittain maahan hautautuneesta tai lahoavasta puusta, usein vanhojen kantojen ja juurten ympärillä, metsissä, puistoissa, puutarhoissa, nurmikoilla, tienvarsilla ja muilla muokatuilla mailla. Se on levinnyt koko pohjoiselle pallonpuoliskolle Eurooppaan, Aasiaan ja Pohjois-Amerikkaan, ja sitä on tavattu myös Etelä-Afrikasta ja Australiasta.",
+      "cap": "Lakki on 3–7 cm leveä, täysin avautuneena jopa 10 cm, ja 3–8 cm korkea. Se on aluksi munamainen, sitten kellomainen tai kartiomaisen kupera. Pinta on harmaa tai harmaanruskea, melko sileä ja reunasta hienosti uurteinen tai poimuinen, ja keskellä on pieniä, litteitä ruskehtavia suomuja. Vanhetessaan reuna repeilee, kiertyy ylöspäin ja mustuu, ja lakki liukenee reunasta keskustaa kohti mustaksi, mustemaiseksi nesteeksi.",
+      "hymenium": "Heltat ovat vapaat tai kapeasti kiinnittyneet, hyvin tiheät ja leveät, aluksi vaaleat tai vaaleanharmaat, sitten ruskeat ja lopulta mustat, ja ne liukenevat lakin mukana mustaksi musteeksi. Helttojen särmä on hienosti hötyinen. Heltoissa olevat suuret steriilit solut (kystidit) toimivat välikkeinä, jotka pitävät tiheät heltat erillään, ja neliitiöisiä kantasoluja ympäröivät lyhyet steriilit brakybasidit.",
+      "stipe": "Jalka on 5–15 cm pitkä ja 0,7–1,5 cm paksu, lieriömäinen ja ylöspäin hieman kapeneva, valkoinen, sileä tai hienosti säikeinen ja hieman silkinhohtoinen, aluksi täyteinen, myöhemmin ontto ja hauras. Varsinaista rengasta ei ole, mutta jalan alaosassa voi olla punaruskeita säikeitä ja heikko rengasmainen reunus suojuksen jäänteenä, ja tyvi on usein hieman paksuuntunut tai jatkuu maahan hautautuneeseen puuhun.",
+      "flesh": "Malto on valkoinen tai vaaleanharmaa, ohut, pehmeä ja hauras, ja se mustuu liuetessaan. Haju on heikko ja maku mieto.",
+      "sporePrint": "Itiöjauhe on musta. Itiöt ovat ellipsoidisia tai mantelinmuotoisia, sileitä, 6,5–11 × 4–6,5 µm, mikroskoopissa tumman punaruskeita, ja niissä on keskellä itämishuokonen.",
+      "habitat": "Se on lahottaja ja kasvaa tiheinä kimppuina, joskus yksittäin, kantojen tyvellä ja ympärillä sekä maahan hautautuneessa puussa ja kuolleissa juurissa, joten se voi näyttää kasvavan maasta. Sitä tavataan lehtimetsissä, polkujen ja ojien varsilla, puistoissa, puutarhoissa ja nurmikoilla, tienpientareilla, kompostissa ja joutomailla, ja se voi tunkeutua jopa asfaltin läpi. Euroopassa se muodostaa itiöemiä toukokuusta marraskuuhun, joskus jo huhtikuussa, sateiden jälkeen usein monta kertaa vuodessa; Pohjois-Amerikassa sitä esiintyy keväästä syksyyn ja joskus talvella.",
+      "uses": "Syötävä vain nuorena, niin kauan kuin heltat ovat vielä valkoiset, ja vain ilman alkoholia; se on valmistettava keräyspäivänä ennen kuin se alkaa liueta, eikä sen maussa ole mitään erityistä. Se sisältää kopriinia, joka estää elimistössä alkoholin hajoamista samaan tapaan kuin disulfiraamilääke (Antabus). Alkoholi, joka nautitaan noin kolmen päivän kuluessa ennen ateriaa tai sen jälkeen, aiheuttaa kasvojen punoitusta, metallinmakua, sydämentykytystä, päänsärkyä, pahoinvointia, oksentelua ja raajojen kihelmöintiä; oireet alkavat minuuttien kuluttua juomisesta ja häviävät yleensä muutamassa tunnissa, ja sydämen rytmihäiriöt ovat harvinaisia. Tämän riskin vuoksi monet asiantuntijatahot neuvovat jättämään sen kokonaan syömättä. Liuenneiden lakkien mustaa nestettä käytettiin aikoinaan musteena.",
+      "confusion": "Coprinopsis romagnesiana -lajilla on lakissa ja jalan alaosassa selvät oranssinruskeat tai ruosteenruskeat suomut. Coprinopsis acuminata on hieman pienempi, ja sen lakki on suippo, kyttyräinen ja vähemmän poimuinen ja itiöt kapeammat. Coprinopsis alopecia -lajin jalka on hötyinen ja täplikäs ilman paksuuntunutta tyveä, nuorissa lakeissa on valkoisia suojuksen hiutaleita ja itiöt ovat karheat. Coprinellus micaceus on pienempi ja kellanruskeampi tai punaruskeampi, ja nuorissa lakeissa on kimaltelevia, kiillettä muistuttavia jyväsiä. Coprinus comatus on kookkaampi, ja sillä on valkoinen, lieriömäinen, takkuisen suomuinen lakki ja liikkuva rengas.",
+      "notes": "Kopriini on sinänsä vaaraton: elimistössä siitä muodostuu 1-aminosyklopropanolia, joka estää asetaldehydidehydrogenaasientsyymiä, jolloin alkoholista syntyvä asetaldehydi kertyy elimistöön. Tuoreissa itiöemissä on noin 130 mg kopriinia kilogrammassa. Reaktio on tunnettu vasta 1900-luvun alusta, ja sientä on toisinaan käytetty alkoholismin hoitoon. Laboratoriokokeissa suuret ja pitkäaikaiset kopriiniannokset vaurioittivat rottien ja koirien kiveksiä. Itiöemät ovat niin voimakkaita, että ne voivat nostaa katukiviä ja puskea asfaltin läpi.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://fi.wikipedia.org/wiki/Harmaamustesieni"
+      ],
+      "label": "harmaamustesieni"
+    },
+    "fr": {
+      "description": "Un coprin commun et éphémère qui pousse en touffes à partir de bois enfoui ou en décomposition, souvent autour de vieilles souches et de racines, dans les bois, les parcs, les jardins, les pelouses, les bords de route et d'autres terrains remaniés. Il est répandu dans tout l'hémisphère Nord, en Europe, en Asie et en Amérique du Nord, et a aussi été signalé en Afrique du Sud et en Australie.",
+      "cap": "Le chapeau mesure 3–7 cm de diamètre, jusqu'à 10 cm une fois bien étalé, et 3–8 cm de haut. D'abord ovoïde, il devient campanulé puis conique-convexe. La surface est grise à gris-brun, assez lisse, finement striée à plissée depuis la marge, avec de petites squames plates brunâtres au centre. Avec l'âge, la marge se fend, se relève et noircit, et le chapeau se liquéfie de la marge vers le centre en un liquide noir comme de l'encre.",
+      "hymenium": "Les lames sont libres ou étroitement adnées, très serrées et larges, d'abord blanchâtres à gris pâle, puis brunes et enfin noires, et elles se liquéfient en encre noire avec le chapeau. L'arête est finement floconneuse. De grandes cellules stériles (cystides) sur les lames servent d'entretoises qui maintiennent écartées les lames serrées, et les basides tétrasporiques sont entourées de courtes brachybasides stériles.",
+      "stipe": "Le pied mesure 5–15 cm de long et 0,7–1,5 cm d'épaisseur ; il est cylindrique et un peu aminci vers le haut, blanc, lisse à finement fibrilleux et légèrement soyeux, d'abord plein puis creux et fragile. Il n'y a pas de véritable anneau, mais le bas du pied peut porter des fibrilles brun rougeâtre et un faible bourrelet annulaire laissé par le voile, et la base est souvent un peu renflée ou se prolonge dans le bois enfoui.",
+      "flesh": "La chair est blanche à gris pâle, mince, molle et fragile, et noircit en se liquéfiant. L'odeur est faible et la saveur douce.",
+      "sporePrint": "La sporée est noire. Les spores sont ellipsoïdes à amygdaliformes, lisses, 6,5–11 × 4–6,5 µm, brun rougeâtre foncé au microscope, avec un pore germinatif central.",
+      "habitat": "Il est saprotrophe sur le bois en décomposition et pousse en touffes denses, parfois isolément, au pied et autour des souches ainsi que sur du bois enfoui et des racines mortes, si bien qu'il semble sortir du sol. On le trouve dans les bois de feuillus, le long des chemins et des fossés, dans les parcs, les jardins et les pelouses, sur les accotements, le compost et les terrains vagues, et il peut percer l'asphalte. En Europe, il fructifie de mai à novembre, parfois dès avril, souvent plusieurs fois par an après la pluie ; en Amérique du Nord, il apparaît du printemps à l'automne et parfois en hiver.",
+      "uses": "Comestible seulement jeune, tant que les lames sont encore blanches, et seulement sans alcool ; il doit être cuisiné le jour de la cueillette, avant de commencer à se liquéfier, et sa saveur est quelconque. Il contient de la coprine, qui bloque la dégradation de l'alcool dans l'organisme, comme le médicament disulfirame (Antabuse). L'alcool bu dans les trois jours environ avant ou après le repas provoque rougeur du visage, goût métallique, palpitations, maux de tête, nausées, vomissements et fourmillements dans les membres ; les symptômes débutent quelques minutes après la boisson et s'atténuent en général en quelques heures, les troubles du rythme cardiaque étant rares. En raison de ce risque, de nombreux organismes déconseillent de le consommer. Le liquide noir des chapeaux liquéfiés servait autrefois d'encre.",
+      "confusion": "Coprinopsis romagnesiana porte des squames bien visibles, brun orangé à brun rouille, sur le chapeau et le bas du pied. Coprinopsis acuminata est un peu plus petit, avec un chapeau pointu, mamelonné, moins plissé, et des spores plus étroites. Coprinopsis alopecia a un pied floconneux et moucheté sans base renflée, des flocons blancs de voile sur les jeunes chapeaux et des spores rugueuses. Coprinellus micaceus est plus petit, plutôt fauve à brun rougeâtre, et ses jeunes chapeaux portent des granules brillants comme du mica. Coprinus comatus est plus grand, avec un chapeau blanc, cylindrique, à mèches laineuses, et un anneau mobile.",
+      "notes": "La coprine est inoffensive à elle seule : dans l'organisme, elle donne du 1-aminocyclopropanol, qui inhibe l'enzyme acétaldéhyde déshydrogénase, de sorte que l'acétaldéhyde issu de l'alcool s'accumule. Les carpophores frais contiennent environ 130 mg de coprine par kilogramme. Cette réaction n'est connue que depuis le début du XXe siècle, et le champignon a parfois servi à traiter l'alcoolisme. Lors d'essais en laboratoire, des doses fortes et prolongées de coprine ont endommagé les testicules de rats et de chiens. Les carpophores sont assez puissants pour soulever des pavés et percer l'asphalte.",
+      "names": [],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Coprin_noir_d'encre",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "coprin noir d'encre"
+    },
+    "he": {
+      "description": "פטרייה נפוצה וקצרת ימים מקבוצת הדיואיות, הגדלה בקבוצות צפופות מעץ קבור או נרקב, לעיתים קרובות סביב גדמים ושורשים ישנים, ביערות, בגנים ציבוריים, בגינות, במדשאות, בשולי דרכים ובשטחים מופרים אחרים. היא נפוצה בכל חצי הכדור הצפוני באירופה, באסיה ובצפון אמריקה, ותועדה גם בדרום אפריקה ובאוסטרליה.",
+      "cap": "הכיפה בקוטר 3–7 cm, עד 10 cm כשהיא פתוחה לגמרי, ובגובה 3–8 cm. בתחילה היא ביצית, אחר כך פעמונית עד חרוטית-קמורה. פני השטח אפורים עד אפורים-חומים, חלקים למדי, ועם חריצים או קפלים עדינים מהשוליים, ובמרכז קשקשים קטנים, שטוחים וחומים. עם הזמן השוליים נסדקים, מתגלגלים כלפי מעלה ומשחירים, והכיפה נמסה מהשוליים פנימה לנוזל שחור דמוי דיו.",
+      "hymenium": "המדפים חופשיים או מחוברים צרות, צפופים מאוד ורחבים, בתחילה לבנבנים עד אפורים חיוורים, אחר כך חומים ולבסוף שחורים, והם נמסים לדיו שחורה יחד עם הכיפה. שולי המדפים פתיתיים עדינים. תאים עקרים גדולים (ציסטידות) על המדפים משמשים כמרווחים המרחיקים זה מזה את המדפים הצפופים, ובזידיות בעלות ארבעה נבגים מוקפות בבזידיות עקרות קצרות (ברכיבזידיות).",
+      "stipe": "הרגל באורך 5–15 cm ובעובי 0.7–1.5 cm, גלילית ומעט צרה יותר כלפי מעלה, לבנה, חלקה עד סיבית עדינה ומעט משיית, בתחילה מלאה ובהמשך חלולה ושבירה. אין לה טבעת אמיתית, אך בחלק התחתון של הרגל עשויים להיות סיבים אדמדמים-חומים ושפה דמוית טבעת קלושה שהשאיר המעטה, והבסיס לעיתים קרובות מעט נפוח או ממשיך אל תוך העץ הקבור.",
+      "flesh": "הבשר לבן עד אפור חיוור, דק, רך ושביר, ומשחיר כשהוא נמס. הריח חלש והטעם עדין.",
+      "sporePrint": "אבקת הנבגים שחורה. הנבגים אליפסואידיים עד שקדיים, חלקים, 6.5–11 × 4–6.5 µm, חומים-אדמדמים כהים במיקרוסקופ, עם נקבובית נביטה מרכזית.",
+      "habitat": "היא ספרוטרופית על עץ נרקב וגדלה בקבוצות צפופות, לפעמים בודדת, בבסיס גדמים ומסביבם ועל עץ קבור ושורשים מתים, ולכן היא עשויה להיראות כאילו היא צומחת מהקרקע. היא מופיעה ביערות רחבי-עלים, לאורך שבילים ותעלות, בגנים ציבוריים, בגינות ובמדשאות, בשולי כבישים, על קומפוסט ובשטחי בור, ויכולה אף לפרוץ דרך אספלט. באירופה היא מניבה גופי פרי ממאי עד נובמבר, לפעמים כבר מאפריל, ולעיתים קרובות כמה פעמים בשנה אחרי גשם; בצפון אמריקה היא מופיעה מהאביב עד הסתיו ולפעמים בחורף.",
+      "uses": "אכילה רק כשהיא צעירה, כל עוד המדפים עדיין לבנים, ורק ללא אלכוהול; יש לבשל אותה ביום הליקוט, לפני שהיא מתחילה להימס, וטעמה אינו מיוחד. היא מכילה קופרין, החוסם את פירוק האלכוהול בגוף בדומה לתרופה דיסולפירם (אנטבוס). אלכוהול שנשתה בתוך כשלושה ימים לפני הארוחה או אחריה גורם להסמקת הפנים, לטעם מתכתי, לדפיקות לב, לכאב ראש, לבחילה, להקאות ולעקצוץ בגפיים; התסמינים מתחילים דקות אחרי השתייה ובדרך כלל חולפים בתוך שעות ספורות, והפרעות בקצב הלב נדירות. בשל סיכון זה גופים מקצועיים רבים ממליצים שלא לאכול אותה כלל. הנוזל השחור של כיפות נמסות שימש בעבר כדיו.",
+      "confusion": "ל-Coprinopsis romagnesiana יש קשקשים בולטים בצבע כתום-חום עד חום-חלודה על הכיפה ועל החלק התחתון של הרגל. Coprinopsis acuminata קטנה במקצת, עם כיפה מחודדת, בעלת פטמה ופחות מקופלת, ונבגים צרים יותר. ל-Coprinopsis alopecia יש רגל פתיתית ומנומרת ללא בסיס נפוח, פתיתי מעטה לבנים על כיפות צעירות ונבגים מחוספסים. Coprinellus micaceus קטנה יותר ונוטה לצהבהב-חום עד אדמדם-חום, ועל הכיפות הצעירות יש גרגרים נוצצים דמויי נציץ. Coprinus comatus גבוהה יותר, עם כיפה לבנה, גלילית ובעלת קשקשים פרועים, וטבעת ניידת.",
+      "notes": "הקופרין עצמו אינו מזיק: בגוף נוצר ממנו 1-אמינוציקלופרופנול, המעכב את האנזים אצטאלדהיד דהידרוגנאז, כך שאצטאלדהיד מהאלכוהול מצטבר. גופי פרי טריים מכילים כ-130 מ״ג קופרין לקילוגרם. התגובה ידועה רק מתחילת המאה ה-20, והפטרייה שימשה מדי פעם לטיפול באלכוהוליזם. בניסויי מעבדה מינונים גבוהים וממושכים של קופרין פגעו באשכים של חולדות וכלבים. גופי הפרי חזקים דיים כדי להרים אבני ריצוף ולפרוץ דרך אספלט.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "इंक कैप समूह का एक आम, अल्पजीवी कवक, जो दबी हुई या सड़ती लकड़ी से गुच्छों में उगता है, अक्सर पुराने ठूँठों और जड़ों के आसपास, जंगलों, पार्कों, बगीचों, लॉन, सड़क किनारों और अन्य अस्त-व्यस्त भूमि पर। यह पूरे उत्तरी गोलार्ध में यूरोप, एशिया और उत्तरी अमेरिका में व्यापक रूप से फैला है, और दक्षिण अफ्रीका तथा ऑस्ट्रेलिया से भी दर्ज किया गया है।",
+      "cap": "छत्रक 3–7 cm चौड़ा होता है, पूरी तरह फैलने पर 10 cm तक, और 3–8 cm ऊँचा। पहले यह अंडाकार होता है, फिर घंटी के आकार से शंक्वाकार-उत्तल हो जाता है। सतह धूसर से धूसर-भूरी, काफ़ी चिकनी, और किनारे से बारीक खाँचेदार या चुन्नटदार होती है, बीच में छोटे, चपटे, भूरे शल्क होते हैं। उम्र के साथ किनारा फट जाता है, ऊपर की ओर मुड़ता है और काला हो जाता है, और छत्रक किनारे से भीतर की ओर काले, स्याही जैसे द्रव में घुल जाता है।",
+      "hymenium": "गलफड़े मुक्त या सँकरे जुड़े हुए, बहुत घने और चौड़े होते हैं, पहले सफ़ेद-से से हल्के धूसर, फिर भूरे और अंत में काले, और छत्रक के साथ काली स्याही में घुल जाते हैं। गलफड़ों के किनारे बारीक रोएँदार होते हैं। गलफड़ों पर बड़ी बाँझ कोशिकाएँ (सिस्टीडिया) दूरी बनाए रखने वाले टुकड़ों की तरह काम करती हैं जो घने गलफड़ों को अलग रखती हैं, और चार-बीजाणु वाले बेसिडिया छोटे बाँझ ब्रैकीबेसिडिया से घिरे होते हैं।",
+      "stipe": "वृंत 5–15 cm लंबा और 0.7–1.5 cm मोटा, बेलनाकार और ऊपर की ओर थोड़ा पतला, सफ़ेद, चिकना से बारीक रेशेदार और हल्का रेशमी होता है, पहले ठोस और बाद में खोखला और भंगुर। इसमें असली वलय नहीं होता, पर वृंत के निचले हिस्से पर लाल-भूरे रेशे और आवरण से बची एक धुँधली वलय जैसी किनारी हो सकती है, और आधार अक्सर थोड़ा फूला होता है या दबी लकड़ी के भीतर तक जाता है।",
+      "flesh": "गूदा सफ़ेद से हल्का धूसर, पतला, नरम और भंगुर होता है, और घुलते समय काला हो जाता है। गंध कमज़ोर और स्वाद हल्का होता है।",
+      "sporePrint": "बीजाणु छाप काली होती है। बीजाणु दीर्घवृत्ताकार से बादाम के आकार के, चिकने, 6.5–11 × 4–6.5 µm, सूक्ष्मदर्शी में गहरे लाल-भूरे, और एक केंद्रीय अंकुरण छिद्र वाले होते हैं।",
+      "habitat": "यह सड़ती लकड़ी पर मृतोपजीवी है और घने गुच्छों में, कभी-कभी अकेला, ठूँठों के आधार पर और आसपास तथा दबी लकड़ी और मृत जड़ों पर उगता है, इसलिए ऐसा लग सकता है कि यह मिट्टी से निकल रहा है। यह चौड़ी पत्ती वाले जंगलों, पगडंडियों और नालियों के किनारे, पार्कों, बगीचों और लॉन में, सड़क के किनारों, खाद के ढेरों और बंजर ज़मीन पर मिलता है, और डामर को भी फोड़कर निकल सकता है। यूरोप में यह मई से नवंबर तक, कभी-कभी अप्रैल से, फलता है और बारिश के बाद अक्सर साल में कई बार निकलता है; उत्तरी अमेरिका में यह वसंत से पतझड़ तक और कभी-कभी सर्दियों में दिखता है।",
+      "uses": "केवल युवा अवस्था में, जब तक गलफड़े अभी सफ़ेद हों, और केवल शराब के बिना खाने योग्य; इसे तोड़ने के दिन ही, घुलना शुरू होने से पहले पकाना पड़ता है, और इसका स्वाद साधारण है। इसमें कोप्रिन होता है, जो दवा डाइसल्फ़िरम (एंटाब्यूज़) की तरह शरीर में शराब के टूटने को रोकता है। भोजन से लगभग तीन दिन पहले या बाद तक पी गई शराब से चेहरे पर लाली, धातु जैसा स्वाद, धड़कन तेज़ होना, सिरदर्द, जी मिचलाना, उल्टी और हाथ-पैरों में झुनझुनी होती है, जो पीने के कुछ मिनट बाद शुरू होकर आमतौर पर कुछ घंटों में कम हो जाती है; हृदय की लय में गड़बड़ी दुर्लभ है। इस जोखिम के कारण कई विशेषज्ञ संस्थाएँ इसे बिल्कुल न खाने की सलाह देती हैं। घुले हुए छत्रकों का काला द्रव कभी स्याही के रूप में इस्तेमाल होता था।",
+      "confusion": "Coprinopsis romagnesiana के छत्रक और वृंत के निचले हिस्से पर स्पष्ट नारंगी-भूरे से जंग-भूरे शल्क होते हैं। Coprinopsis acuminata कुछ छोटा होता है, जिसका छत्रक नुकीला, उभारदार और कम चुन्नटदार होता है और बीजाणु सँकरे होते हैं। Coprinopsis alopecia का वृंत रोएँदार और चित्तीदार होता है जिसका आधार फूला नहीं होता, युवा छत्रकों पर आवरण के सफ़ेद टुकड़े होते हैं और बीजाणु खुरदरे होते हैं। Coprinellus micaceus छोटा और अधिक पीला-भूरा से लाल-भूरा होता है, और युवा छत्रकों पर अभ्रक जैसे चमकीले कण होते हैं। Coprinus comatus अधिक ऊँचा होता है, जिसका छत्रक सफ़ेद, बेलनाकार और झबरीले शल्कों वाला होता है, और वलय खिसकने वाला होता है।",
+      "notes": "कोप्रिन अपने आप में हानिरहित है: शरीर में इससे 1-अमीनोसाइक्लोप्रोपेनॉल बनता है, जो एसीटैल्डिहाइड डिहाइड्रोजिनेज़ एंज़ाइम को रोकता है, जिससे शराब से बना एसीटैल्डिहाइड जमा होने लगता है। ताज़े फलन-काय में प्रति किलोग्राम लगभग 130 मिलीग्राम कोप्रिन होता है। यह प्रतिक्रिया 20वीं सदी की शुरुआत से ही ज्ञात है, और इस कवक का कभी-कभी शराब की लत के इलाज में उपयोग किया गया है। प्रयोगशाला परीक्षणों में कोप्रिन की बड़ी और लंबी खुराकों ने चूहों और कुत्तों के वृषणों को नुकसान पहुँचाया। फलन-काय इतने ताक़तवर होते हैं कि फ़र्श के पत्थर उठा सकते हैं और डामर फोड़ सकते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Česta, kratkovječna gljiva iz skupine gnojištarki koja raste u busenima iz zakopanog ili trulog drva, često oko starih panjeva i korijenja, u šumama, parkovima, vrtovima, na travnjacima, uz ceste i na drugom poremećenom tlu. Raširena je po cijeloj sjevernoj polutki u Europi, Aziji i Sjevernoj Americi, a zabilježena je i u Južnoj Africi i Australiji.",
+      "cap": "Klobuk je širok 3–7 cm, potpuno raširen do 10 cm, i visok 3–8 cm. Isprva je jajolik, zatim zvonolik do stožasto ispupčen. Površina je siva do sivosmeđa, prilično glatka i od ruba fino izbrazdana do naborana, u sredini sa sitnim, plosnatim smećkastim ljuskicama. Starenjem rub puca, savija se prema gore i crni, a klobuk se od ruba prema sredini rastapa u crnu tekućinu nalik tinti.",
+      "hymenium": "Listići su slobodni ili usko prirasli, vrlo gusti i široki, isprva bjelkasti do blijedosivi, zatim smeđi i na kraju crni, a zajedno s klobukom rastapaju se u crnu tintu. Oštrice listića su fino pahuljičaste. Velike sterilne stanice (cistide) na listićima služe kao razmaknice koje guste listiće drže razmaknutima, a četverosporne bazidije okružuju kratke sterilne brahibazidije.",
+      "stipe": "Stručak je dug 5–15 cm i debeo 0,7–1,5 cm, valjkast i prema vrhu blago sužen, bijel, gladak do fino vlaknast i blago svilenkast, isprva pun, kasnije šupalj i krhak. Pravog vjenčića nema, ali donji dio stručka može imati crvenkastosmeđa vlakanca i slab prstenast rub od ovoja, a osnova je često blago zadebljana ili se nastavlja u zakopano drvo.",
+      "flesh": "Meso je bijelo do blijedosivo, tanko, meko i krhko, a pri rastapanju pocrni. Miris je slab, a okus blag.",
+      "sporePrint": "Otisak spora je crn. Spore su elipsoidne do bademaste, glatke, 6,5–11 × 4–6,5 µm, pod mikroskopom tamno crvenkastosmeđe, sa središnjom klicinom porom.",
+      "habitat": "Saprotrofna je na trulom drvu i raste u gustim busenima, ponekad pojedinačno, u podnožju i oko panjeva te na zakopanom drvu i mrtvom korijenju, pa se može činiti da raste iz tla. Pojavljuje se u listopadnim šumama, uz staze i jarke, u parkovima, vrtovima i na travnjacima, uz ceste, na kompostu i zapuštenom zemljištu, a može se probiti i kroz asfalt. U Europi plodonosi od svibnja do studenoga, ponekad već od travnja, nakon kiše često nekoliko puta godišnje; u Sjevernoj Americi pojavljuje se od proljeća do jeseni, a ponekad i zimi.",
+      "uses": "Jestiva je samo mlada, dok su listići još bijeli, i samo bez alkohola; treba je pripremiti na dan branja, prije nego što se počne rastapati, a okus joj nije ničim poseban. Sadrži koprin, koji u tijelu blokira razgradnju alkohola slično lijeku disulfiramu (Antabus). Alkohol popijen unutar otprilike tri dana prije ili nakon obroka izaziva crvenilo lica, metalni okus, lupanje srca, glavobolju, mučninu, povraćanje i trnce u udovima; simptomi počinju nekoliko minuta nakon pića i obično se smire unutar nekoliko sati, a poremećaji srčanog ritma su rijetki. Zbog toga rizika mnoge stručne ustanove savjetuju da se uopće ne jede. Crna tekućina rastopljenih klobuka nekad se koristila kao tinta.",
+      "confusion": "Coprinopsis romagnesiana ima upadljive narančastosmeđe do hrđastosmeđe ljuske na klobuku i donjem dijelu stručka. Coprinopsis acuminata je nešto manja, sa šiljastim, grbičastim, manje naboranim klobukom i užim sporama. Coprinopsis alopecia ima pahuljičast, pjegav stručak bez zadebljane osnove, bijele pahuljice ovoja na mladim klobucima i hrapave spore. Coprinellus micaceus je manji, više žućkastosmeđ do crvenkastosmeđ, a mladi klobuci nose svjetlucava zrnca nalik tinjcu. Coprinus comatus je viši, s bijelim, valjkastim, čupavo ljuskavim klobukom i pomičnim vjenčićem.",
+      "notes": "Koprin sam po sebi nije štetan: u tijelu iz njega nastaje 1-aminociklopropanol, koji koči enzim acetaldehid-dehidrogenazu, pa se acetaldehid iz alkohola nakuplja. Svježa plodišta sadrže oko 130 mg koprina po kilogramu. Ta je reakcija poznata tek od početka 20. stoljeća, a gljiva se povremeno koristila za liječenje alkoholizma. U laboratorijskim pokusima velike i dugotrajne doze koprina oštećivale su testise štakora i pasa. Plodišta su toliko snažna da mogu podići ploče pločnika i probiti asfalt.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Gyakori, rövid életű tintagomba, amely csoportosan nő földbe temetett vagy korhadó fából, gyakran régi tuskók és gyökerek körül, erdőkben, parkokban, kertekben, gyepeken, útszéleken és más bolygatott talajon. Az egész északi féltekén elterjedt Európában, Ázsiában és Észak-Amerikában, és Dél-Afrikából és Ausztráliából is előkerült.",
+      "cap": "A kalap 3–7 cm széles, teljesen kiterülve akár 10 cm, és 3–8 cm magas. Eleinte tojásdad, majd harang alakú vagy kúposan domború. Felülete szürke vagy szürkésbarna, meglehetősen sima, a szélétől finoman bordázott vagy ráncos, közepén apró, lapos, barnás pikkelyekkel. Idővel a széle beszakadozik, felfelé kunkorodik és megfeketedik, a kalap pedig a szélétől befelé fekete, tintaszerű folyadékká folyósodik el.",
+      "hymenium": "A lemezek szabadok vagy keskenyen hozzánőttek, nagyon sűrűk és szélesek, eleinte fehéresek vagy halványszürkék, majd barnák, végül feketék, és a kalappal együtt fekete tintává folyósodnak el. Az élük finoman pelyhes. A lemezeken lévő nagy, steril sejtek (ciszitídiumok) távtartóként tartják szét a sűrű lemezeket, a négyspórás bazídiumokat pedig rövid, steril brachibazídiumok veszik körül.",
+      "stipe": "A tönk 5–15 cm hosszú és 0,7–1,5 cm vastag, hengeres, felfelé kissé elvékonyodó, fehér, sima vagy finoman szálas és enyhén selymes, eleinte tömör, később üreges és törékeny. Valódi gallérja nincs, de a tönk alsó részén vörösesbarna szálak és a burok maradványaként halvány, gallérszerű perem lehet, a tönkalap pedig gyakran kissé megvastagodott vagy a földbe temetett fába nyúlik.",
+      "flesh": "A hús fehér vagy halványszürke, vékony, puha és törékeny, elfolyósodáskor megfeketedik. Szaga gyenge, íze enyhe.",
+      "sporePrint": "A spórapor fekete. A spórák ellipszoidok vagy mandula alakúak, simák, 6,5–11 × 4–6,5 µm-esek, mikroszkóp alatt sötét vörösesbarnák, központi csírapórussal.",
+      "habitat": "Korhadó fán élő szaprotróf faj, sűrű csoportokban, néha magányosan nő tuskók tövében és körülöttük, valamint földbe temetett fán és elhalt gyökereken, ezért úgy tűnhet, mintha a talajból nőne. Lomberdőkben, utak és árkok mentén, parkokban, kertekben és gyepeken, útszegélyeken, komposzton és parlagon fordul elő, és akár az aszfalton is áttör. Európában májustól novemberig, néha már áprilistól terem, eső után gyakran évente többször is; Észak-Amerikában tavasztól őszig, néha télen is megjelenik.",
+      "uses": "Csak fiatalon ehető, amíg a lemezei még fehérek, és csak alkohol nélkül; a szedés napján el kell készíteni, mielőtt elfolyósodni kezd, íze pedig jellegtelen. Koprint tartalmaz, amely a szervezetben a disulfiram (Antabus) gyógyszerhez hasonlóan gátolja az alkohol lebontását. Az étkezés előtt vagy után nagyjából három napon belül fogyasztott alkohol arcpírt, fémes ízt, szívdobogást, fejfájást, hányingert, hányást és a végtagok zsibbadását okozza; a tünetek néhány perccel az ivás után kezdődnek, és általában néhány órán belül enyhülnek, szívritmuszavar ritkán fordul elő. E kockázat miatt sok szakmai szervezet azt tanácsolja, hogy egyáltalán ne fogyasszák. Az elfolyósodott kalapok fekete folyadékát régen tintaként használták.",
+      "confusion": "A Coprinopsis romagnesiana kalapján és tönkjének alsó részén feltűnő narancsbarna vagy rozsdabarna pikkelyek vannak. A Coprinopsis acuminata kissé kisebb, kalapja hegyes, púpos, kevésbé ráncos, spórái keskenyebbek. A Coprinopsis alopecia tönkje pelyhes, pettyezett, megvastagodott tönkalap nélkül, fiatal kalapján fehér burokpelyhek ülnek, spórái érdesek. A Coprinellus micaceus kisebb, inkább sárgásbarna vagy vörösesbarna, fiatal kalapját csillogó, csillámszerű szemcsék borítják. A Coprinus comatus magasabb, kalapja fehér, hengeres, bozontosan pikkelyes, gallérja elmozdítható.",
+      "notes": "A koprin önmagában ártalmatlan: a szervezetben 1-aminociklopropanol keletkezik belőle, amely gátolja az acetaldehid-dehidrogenáz enzimet, így az alkoholból képződő acetaldehid felhalmozódik. A friss termőtestek kilogrammonként mintegy 130 mg koprint tartalmaznak. A reakciót csak a 20. század eleje óta ismerik, és a gombát alkalmanként az alkoholizmus kezelésére is használták. Laboratóriumi kísérletekben a nagy és tartós koprinadagok károsították patkányok és kutyák heréit. A termőtestek olyan erősek, hogy járólapokat emelhetnek meg és áttörhetik az aszfaltot.",
+      "names": [],
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+        "https://hu.wikipedia.org/wiki/Ráncos_tintagomba"
+      ],
+      "label": "ráncos tintagomba"
+    },
+    "id": {
+      "description": "Jamur tinta yang umum dan berumur pendek, tumbuh berumpun dari kayu yang terkubur atau membusuk, sering di sekitar tunggul dan akar tua, di hutan, taman, kebun, halaman berumput, tepi jalan, dan lahan terganggu lainnya. Jamur ini tersebar luas di seluruh belahan bumi utara di Eropa, Asia, dan Amerika Utara, dan juga tercatat di Afrika Selatan dan Australia.",
+      "cap": "Tudung berdiameter 3–7 cm, hingga 10 cm bila terbuka penuh, dan tingginya 3–8 cm. Mula-mula berbentuk telur, lalu seperti lonceng hingga kerucut-cembung. Permukaannya kelabu hingga kelabu kecokelatan, cukup halus, dan beralur atau berlipit halus dari tepi, dengan sisik kecil, pipih, kecokelatan di bagian tengah. Seiring bertambah tua, tepinya pecah, menggulung ke atas, dan menghitam, lalu tudung meleleh dari tepi ke tengah menjadi cairan hitam seperti tinta.",
+      "hymenium": "Bilah bebas atau melekat sempit, sangat rapat dan lebar, mula-mula keputihan hingga kelabu pucat, lalu cokelat dan akhirnya hitam, dan meleleh menjadi tinta hitam bersama tudung. Tepi bilah berbulu halus. Sel steril besar (sistidia) pada bilah berfungsi sebagai pengatur jarak yang menjaga bilah yang rapat tetap terpisah, dan basidia bersepora empat dikelilingi brakibasidia steril yang pendek.",
+      "stipe": "Tangkai panjangnya 5–15 cm dan tebalnya 0,7–1,5 cm, silindris dan sedikit menyempit ke atas, putih, halus hingga berserat halus dan agak seperti sutra, mula-mula padat lalu berongga dan rapuh. Tidak ada cincin sejati, tetapi bagian bawah tangkai dapat memiliki serat cokelat kemerahan dan tepian samar menyerupai cincin yang ditinggalkan selubung, dan pangkalnya sering agak menggembung atau memanjang ke dalam kayu yang terkubur.",
+      "flesh": "Dagingnya putih hingga kelabu pucat, tipis, lunak, dan rapuh, dan menghitam saat meleleh. Baunya lemah dan rasanya lembut.",
+      "sporePrint": "Cetak spora berwarna hitam. Spora berbentuk elipsoid hingga seperti almond, halus, 6,5–11 × 4–6,5 µm, cokelat kemerahan gelap di bawah mikroskop, dengan pori kecambah di tengah.",
+      "habitat": "Jamur ini saprotrof pada kayu yang membusuk dan tumbuh dalam rumpun rapat, kadang soliter, di pangkal dan sekitar tunggul serta pada kayu terkubur dan akar mati, sehingga bisa tampak tumbuh dari tanah. Jamur ini ditemukan di hutan berdaun lebar, di sepanjang jalan setapak dan parit, di taman, kebun, dan halaman berumput, di tepi jalan, pada kompos dan lahan kosong, dan bahkan dapat menembus aspal. Di Eropa jamur ini berbuah dari Mei hingga November, kadang sejak April, sering beberapa kali setahun setelah hujan; di Amerika Utara muncul dari musim semi hingga musim gugur dan kadang pada musim dingin.",
+      "uses": "Dapat dimakan hanya ketika masih muda, selama bilahnya masih putih, dan hanya tanpa alkohol; harus dimasak pada hari dipetik, sebelum mulai meleleh, dan rasanya biasa saja. Jamur ini mengandung koprin, yang menghambat penguraian alkohol di dalam tubuh seperti obat disulfiram (Antabuse). Alkohol yang diminum dalam sekitar tiga hari sebelum atau sesudah makan menyebabkan wajah memerah, rasa logam, jantung berdebar, sakit kepala, mual, muntah, dan kesemutan pada anggota badan, yang dimulai beberapa menit setelah minum dan biasanya mereda dalam beberapa jam; gangguan irama jantung jarang terjadi. Karena risiko ini, banyak lembaga menyarankan agar jamur ini tidak dimakan sama sekali. Cairan hitam dari tudung yang meleleh dulu digunakan sebagai tinta.",
+      "confusion": "Coprinopsis romagnesiana memiliki sisik mencolok berwarna cokelat jingga hingga cokelat karat pada tudung dan bagian bawah tangkai. Coprinopsis acuminata sedikit lebih kecil, dengan tudung runcing, berbenjol, dan kurang berlipit, serta spora yang lebih sempit. Coprinopsis alopecia memiliki tangkai berbulu dan berbintik tanpa pangkal menggembung, serpihan selubung putih pada tudung muda, dan spora yang kasar. Coprinellus micaceus lebih kecil dan lebih cokelat kekuningan hingga cokelat kemerahan, dan tudung mudanya berbutir mengilap seperti mika. Coprinus comatus lebih tinggi, dengan tudung putih, silindris, bersisik kusut, dan cincin yang dapat digeser.",
+      "notes": "Koprin sendiri tidak berbahaya: di dalam tubuh senyawa ini menghasilkan 1-aminosiklopropanol, yang menghambat enzim asetaldehida dehidrogenase, sehingga asetaldehida dari alkohol menumpuk. Tubuh buah segar mengandung sekitar 130 mg koprin per kilogram. Reaksi ini baru dikenal sejak awal abad ke-20, dan jamur ini kadang digunakan untuk mengobati alkoholisme. Dalam uji laboratorium, dosis koprin yang tinggi dan berkepanjangan merusak testis tikus dan anjing. Tubuh buahnya cukup kuat untuk mengangkat batu paving dan menembus aspal.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un coprino comune ed effimero che cresce a cespi da legno interrato o in decomposizione, spesso attorno a vecchie ceppaie e radici, in boschi, parchi, giardini, prati, bordi stradali e altri terreni disturbati. È ampiamente diffuso in tutto l'emisfero boreale, in Europa, Asia e Nord America, ed è segnalato anche in Sudafrica e Australia.",
+      "cap": "Il cappello misura 3–7 cm di diametro, fino a 10 cm quando è del tutto disteso, e 3–8 cm di altezza. All'inizio è ovoide, poi campanulato fino a conico-convesso. La superficie è grigia o grigio-brunastra, piuttosto liscia e finemente striata o plissettata dal margine, con piccole squame piatte brunastre al centro. Con l'età il margine si fessura, si arriccia verso l'alto e annerisce, e il cappello si dissolve dal bordo verso il centro in un liquido nero simile a inchiostro.",
+      "hymenium": "Le lamelle sono libere o strettamente adnate, molto fitte e larghe, all'inizio biancastre o grigio pallido, poi brune e infine nere, e si dissolvono in inchiostro nero insieme al cappello. Il filo è finemente fioccoso. Grandi cellule sterili (cistidi) sulle lamelle fanno da distanziatori che tengono separate le lamelle fitte, e i basidi tetrasporici sono circondati da brevi brachibasidi sterili.",
+      "stipe": "Il gambo è lungo 5–15 cm e spesso 0,7–1,5 cm, cilindrico e un po' più stretto verso l'alto, bianco, liscio o finemente fibrilloso e un po' sericeo, all'inizio pieno, poi cavo e fragile. Non c'è un vero anello, ma la parte bassa del gambo può portare fibrille bruno-rossastre e un debole orlo anulare lasciato dal velo, e la base è spesso leggermente ingrossata o si prolunga nel legno interrato.",
+      "flesh": "La carne è bianca o grigio pallido, sottile, morbida e fragile, e annerisce dissolvendosi. L'odore è debole e il sapore mite.",
+      "sporePrint": "La sporata è nera. Le spore sono ellissoidali o amigdaliformi, lisce, 6,5–11 × 4–6,5 µm, bruno-rossastre scure al microscopio, con un poro germinativo centrale.",
+      "habitat": "È saprotrofo su legno in decomposizione e cresce in cespi fitti, talvolta isolato, alla base e attorno alle ceppaie e su legno interrato e radici morte, per cui può sembrare che nasca dal terreno. Si trova in boschi di latifoglie, lungo sentieri e fossi, in parchi, giardini e prati, ai bordi delle strade, su compost e su terreni incolti, e può perfino forare l'asfalto. In Europa fruttifica da maggio a novembre, talvolta già da aprile, spesso più volte all'anno dopo le piogge; in Nord America compare dalla primavera all'autunno e talvolta in inverno.",
+      "uses": "Commestibile solo da giovane, finché le lamelle sono ancora bianche, e solo senza alcol; va cucinato il giorno stesso della raccolta, prima che inizi a dissolversi, e il suo sapore non ha nulla di particolare. Contiene coprina, che blocca la degradazione dell'alcol nell'organismo in modo simile al farmaco disulfiram (Antabuse). L'alcol bevuto entro circa tre giorni prima o dopo il pasto provoca arrossamento del viso, sapore metallico, palpitazioni, mal di testa, nausea, vomito e formicolio agli arti, che iniziano pochi minuti dopo aver bevuto e di solito si attenuano in poche ore; i disturbi del ritmo cardiaco sono rari. Per questo rischio molti enti sconsigliano di consumarlo. Il liquido nero dei cappelli dissolti era un tempo usato come inchiostro.",
+      "confusion": "Coprinopsis romagnesiana ha vistose squame bruno-arancio o bruno-ruggine sul cappello e sulla parte bassa del gambo. Coprinopsis acuminata è un po' più piccola, con cappello appuntito, umbonato e meno plissettato, e spore più strette. Coprinopsis alopecia ha gambo fioccoso e punteggiato senza base ingrossata, fiocchi bianchi di velo sui cappelli giovani e spore ruvide. Coprinellus micaceus è più piccolo e più fulvo o bruno-rossastro, e i cappelli giovani portano granuli lucenti simili a mica. Coprinus comatus è più alto, con cappello bianco, cilindrico, a squame lanose, e un anello mobile.",
+      "notes": "La coprina di per sé è innocua: nell'organismo dà origine all'1-amminociclopropanolo, che inibisce l'enzima acetaldeide deidrogenasi, così l'acetaldeide derivata dall'alcol si accumula. I carpofori freschi contengono circa 130 mg di coprina per chilogrammo. La reazione è nota solo dall'inizio del XX secolo, e il fungo è stato occasionalmente usato per trattare l'alcolismo. In prove di laboratorio, dosi elevate e prolungate di coprina hanno danneggiato i testicoli di ratti e cani. I carpofori sono abbastanza forti da sollevare le piastrelle e forare l'asfalto.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "埋もれた材や腐朽材から株立ちになって生える、ありふれた短命なきのこで、古い切り株や根の周りによく見られ、林、公園、庭、芝生、道端などの攪乱された場所に発生する。北半球全域のヨーロッパ、アジア、北アメリカに広く分布し、南アフリカやオーストラリアからも記録されている。",
+      "cap": "傘は径3–7 cm、完全に開くと10 cmほどになり、高さは3–8 cm。はじめは卵形で、のちに釣鐘形から円錐状の饅頭形になる。表面は灰色～灰褐色で、かなり平滑、縁から細かい条線またはひだ状の溝があり、中央には小さく平たい褐色の鱗片がある。古くなると縁が裂けて上に反り返り黒くなり、傘は縁から中心へ向かって黒いインク状の液体に溶ける。",
+      "hymenium": "ひだは離生または狭く付き、非常に密で幅広く、はじめは白っぽい～淡灰色、のちに褐色、最後には黒くなり、傘とともに黒いインク状に溶ける。ひだの縁は細かい綿くず状。ひだにある大型の不稔細胞（シスチジア）は、密なひだ同士を離しておくスペーサーの役割を果たし、4胞子性の担子器は短い不稔の偽担子器（ブラキバシディア）に囲まれている。",
+      "stipe": "柄は長さ5–15 cm、太さ0.7–1.5 cm、円柱形で上に向かってやや細く、白色、平滑～細かい繊維状でやや絹状の光沢があり、はじめは中実でのちに中空でもろくなる。本物のつばはないが、柄の下部には赤褐色の繊維と、被膜の名残であるかすかなつば状の縁があることがあり、基部はしばしばやや膨らむか、埋もれた材の中へ伸びている。",
+      "flesh": "肉は白色～淡灰色で、薄く柔らかくもろく、溶けるにつれて黒くなる。においは弱く、味は温和。",
+      "sporePrint": "胞子紋は黒色。胞子は楕円形～アーモンド形で平滑、6.5–11 × 4–6.5 µm、顕微鏡下で暗赤褐色、中央に発芽孔がある。",
+      "habitat": "腐朽材を分解する腐生菌で、密な株立ちになり、ときに単生し、切り株の根元や周り、埋もれた材や枯れた根に生えるため、地面から生えているように見えることがある。広葉樹林、小道や溝の脇、公園、庭、芝生、道路の路肩、堆肥や空き地に発生し、アスファルトを突き破ることさえある。ヨーロッパでは5月から11月、ときに4月から発生し、雨の後に年に何度も出ることが多い。北アメリカでは春から秋、ときに冬にも現れる。",
+      "uses": "食べられるのは若いうち、ひだがまだ白い間だけで、しかもアルコールを一切とらない場合に限る。溶け始める前に採ったその日のうちに調理しなければならず、味に特徴はない。コプリンを含み、これは薬のジスルフィラム（抗酒薬）と同じように体内でのアルコールの分解を妨げる。食事の前後およそ3日以内に飲酒すると、顔面紅潮、金属のような味、動悸、頭痛、吐き気、嘔吐、手足のしびれが起こる。症状は飲酒の数分後に始まり、通常は数時間で治まり、心拍の乱れはまれである。この危険のため、多くの機関は食べないよう勧めている。溶けた傘の黒い液体は、かつてインクとして使われた。",
+      "confusion": "Coprinopsis romagnesiana は傘と柄の下部に目立つ橙褐色～さび褐色の鱗片がある。Coprinopsis acuminata はやや小さく、傘は尖って中丘があり、ひだ状の溝が少なく、胞子は細い。Coprinopsis alopecia は柄が綿くず状で斑点があり、基部は膨らまず、若い傘に白い被膜片がつき、胞子は粗面。Coprinellus micaceus はより小さく、黄褐色～赤褐色がかり、若い傘には雲母のように光る粒がつく。Coprinus comatus はより背が高く、傘は白く円柱形でささくれ状の鱗片に覆われ、可動性のつばがある。",
+      "notes": "コプリン自体は無害だが、体内で1-アミノシクロプロパノールを生じ、これがアセトアルデヒド脱水素酵素を阻害するため、アルコール由来のアセトアルデヒドが蓄積する。新鮮な子実体には1キログラムあたり約130 mgのコプリンが含まれる。この反応が知られるようになったのは20世紀初めからで、このきのこはアルコール依存症の治療に用いられたこともある。実験室での試験では、大量かつ長期間のコプリン投与がラットやイヌの精巣を傷つけた。子実体は敷石を持ち上げ、アスファルトを突き破るほどの力がある。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://ja.wikipedia.org/wiki/ヒトヨタケ"
+      ],
+      "label": "ヒトヨタケ"
+    },
+    "ko": {
+      "description": "묻힌 나무나 썩어 가는 나무에서 다발로 자라는 흔하고 수명이 짧은 먹물버섯류로, 오래된 그루터기와 뿌리 주변에서 자주 보이며 숲, 공원, 정원, 잔디밭, 길가 등 교란된 땅에서 난다. 북반구 전역의 유럽, 아시아, 북아메리카에 널리 분포하며, 남아프리카와 오스트레일리아에서도 기록되었다.",
+      "cap": "갓은 지름 3–7 cm, 완전히 펴지면 10 cm까지이고 높이는 3–8 cm이다. 처음에는 달걀 모양이다가 종 모양에서 원뿔형 볼록 모양이 된다. 표면은 회색에서 회갈색이며 꽤 매끄럽고, 가장자리에서부터 가는 줄무늬 또는 주름진 홈이 있으며, 가운데에는 작고 납작한 갈색 비늘이 있다. 오래되면 가장자리가 갈라지고 위로 말리며 검게 변하고, 갓은 가장자리에서 안쪽으로 검은 먹물 같은 액체로 녹는다.",
+      "hymenium": "주름살은 떨어진주름살이거나 좁게 붙으며, 매우 빽빽하고 폭이 넓고, 처음에는 흰색에서 연한 회색이다가 갈색을 거쳐 마침내 검게 되며, 갓과 함께 검은 먹물로 녹는다. 주름살 가장자리는 미세한 솜털 모양이다. 주름살에 있는 큰 불임세포(낭상체)는 빽빽한 주름살을 서로 떨어뜨려 놓는 간격재 역할을 하며, 4포자형 담자기는 짧은 불임 단담자기로 둘러싸여 있다.",
+      "stipe": "대는 길이 5–15 cm, 굵기 0.7–1.5 cm로 원통형이고 위쪽으로 약간 가늘어지며, 흰색이고 매끄럽거나 미세한 섬유질이며 약간 비단 광택이 있고, 처음에는 속이 차 있다가 나중에 비고 부서지기 쉬워진다. 진짜 턱받이는 없지만 대의 아랫부분에 적갈색 섬유와 외피가 남긴 희미한 턱받이 모양의 테가 있을 수 있으며, 밑동은 흔히 약간 부풀거나 묻힌 나무 속으로 이어진다.",
+      "flesh": "살은 흰색에서 연한 회색이고 얇고 부드러우며 부서지기 쉬우며, 녹으면서 검게 변한다. 냄새는 약하고 맛은 순하다.",
+      "sporePrint": "포자문은 검은색이다. 포자는 타원형에서 아몬드 모양이고 매끄러우며 6.5–11 × 4–6.5 µm이고, 현미경에서 짙은 적갈색이며 가운데에 발아공이 있다.",
+      "habitat": "썩은 나무를 분해하는 부생균으로, 빽빽한 다발로, 때로는 홀로, 그루터기 밑동과 주변, 묻힌 나무와 죽은 뿌리에서 자라기 때문에 흙에서 나는 것처럼 보일 수 있다. 활엽수림, 오솔길과 도랑가, 공원, 정원, 잔디밭, 도로변, 퇴비와 빈터에서 나며, 아스팔트를 뚫고 올라오기도 한다. 유럽에서는 5월부터 11월까지, 때로는 4월부터 발생하며 비가 온 뒤 1년에 여러 번 나는 경우가 많고, 북아메리카에서는 봄부터 가을까지, 때로는 겨울에도 나타난다.",
+      "uses": "어릴 때, 주름살이 아직 흰 동안에만, 그리고 술을 전혀 마시지 않을 때에만 먹을 수 있다. 녹기 시작하기 전에 딴 날 바로 요리해야 하며, 맛은 특별할 것이 없다. 코프린을 함유하는데, 이 물질은 약물 디설피람(안타부스)처럼 몸속에서 알코올 분해를 막는다. 식사 전후 약 3일 이내에 술을 마시면 얼굴 붉어짐, 금속 맛, 두근거림, 두통, 메스꺼움, 구토, 팔다리 저림이 나타나며, 증상은 술을 마신 지 몇 분 뒤에 시작해 보통 몇 시간 안에 가라앉고, 심장 박동 이상은 드물다. 이러한 위험 때문에 많은 기관이 아예 먹지 말라고 권한다. 녹은 갓의 검은 액체는 예전에 잉크로 쓰였다.",
+      "confusion": "Coprinopsis romagnesiana는 갓과 대 아랫부분에 눈에 띄는 주황갈색에서 녹슨 갈색의 비늘이 있다. Coprinopsis acuminata는 약간 작고, 갓이 뾰족하고 볼록한 돌기가 있으며 주름진 홈이 적고, 포자가 더 좁다. Coprinopsis alopecia는 대가 솜털 모양이고 얼룩덜룩하며 밑동이 부풀지 않고, 어린 갓에 흰 외피 조각이 붙으며, 포자 표면이 거칠다. Coprinellus micaceus는 더 작고 황갈색에서 적갈색을 띠며, 어린 갓에 운모처럼 반짝이는 알갱이가 붙어 있다. Coprinus comatus는 키가 더 크고, 갓이 희고 원통형이며 털 같은 비늘로 덮여 있고, 움직이는 턱받이가 있다.",
+      "notes": "코프린 자체는 해가 없지만, 몸속에서 1-아미노사이클로프로판올이 생기고 이것이 아세트알데하이드 탈수소효소를 억제하여 알코올에서 생긴 아세트알데하이드가 쌓이게 된다. 신선한 자실체에는 1킬로그램당 약 130 mg의 코프린이 들어 있다. 이 반응은 20세기 초부터야 알려졌으며, 이 버섯은 알코올 중독 치료에 가끔 쓰이기도 했다. 실험실 시험에서 많은 양의 코프린을 오래 투여하자 쥐와 개의 고환이 손상되었다. 자실체는 보도블록을 들어 올리고 아스팔트를 뚫을 만큼 힘이 세다.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.nibr.go.kr/home/mainHome.do?contCd=009002&cont_link=009&ktsn=120000009372&subMenu=009002",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "두엄먹물버섯"
+    },
+    "lt": {
+      "description": "Dažnas, trumpaamžis grybas, augantis kuokštais iš užkastos ar pūvančios medienos, dažnai aplink senus kelmus ir šaknis, miškuose, parkuose, soduose, vejose, pakelėse ir kitose pažeistose vietose. Jis paplitęs visame šiauriniame pusrutulyje – Europoje, Azijoje ir Šiaurės Amerikoje, taip pat rastas Pietų Afrikoje ir Australijoje.",
+      "cap": "Kepurėlė 3–7 cm pločio, visiškai išsiskleidusi iki 10 cm, ir 3–8 cm aukščio. Iš pradžių ji kiaušiniška, vėliau varpelio formos iki kūgiškai išgaubtos. Paviršius pilkas iki pilkai rudo, gana lygus, nuo krašto smulkiai vagotas iki raukšlėto, viduryje su smulkiais, plokščiais rusvais žvyneliais. Senstant kraštas suplyšta, užsiriečia į viršų ir pajuoduoja, o kepurėlė nuo krašto link vidurio ištirpsta į juodą, rašalą primenantį skystį.",
+      "hymenium": "Lakšteliai laisvi arba siaurai prisitvirtinę, labai tankūs ir platūs, iš pradžių balsvi iki šviesiai pilkų, paskui rudi ir galiausiai juodi, kartu su kepurėle ištirpsta į juodą rašalą. Lakštelių briauna smulkiai dribsniuota. Didelės sterilios lakštelių ląstelės (cistidės) veikia kaip tarpikliai, laikantys tankius lakštelius atskirai, o keturių sporų bazidijas supa trumpos sterilios brachibazidijos.",
+      "stipe": "Kotas 5–15 cm ilgio ir 0,7–1,5 cm storio, cilindriškas, į viršų šiek tiek siaurėjantis, baltas, lygus iki smulkiai pluoštuoto ir šiek tiek šilkinio, iš pradžių pilnaviduris, vėliau tuščiaviduris ir trapus. Tikro žiedo nėra, tačiau apatinėje koto dalyje gali būti rausvai rudų plaušelių ir silpnas žiedo pavidalo apvadas, likęs nuo šydo, o pamatas dažnai šiek tiek sustorėjęs arba tęsiasi į užkastą medieną.",
+      "flesh": "Trama balta iki šviesiai pilkos, plona, minkšta ir trapi, tirpdama pajuoduoja. Kvapas silpnas, skonis švelnus.",
+      "sporePrint": "Sporų milteliai juodi. Sporos elipsoidinės iki migdolo formos, lygios, 6,5–11 × 4–6,5 µm, mikroskopu tamsiai rausvai rudos, su centrine dygimo pora.",
+      "habitat": "Jis yra saprotrofas ant pūvančios medienos ir auga tankiais kuokštais, kartais pavieniui, prie kelmų pamato ir aplink juos, taip pat ant užkastos medienos ir negyvų šaknų, todėl gali atrodyti, kad auga iš dirvožemio. Aptinkamas lapuočių miškuose, prie takų ir griovių, parkuose, soduose ir vejose, pakelėse, ant komposto ir dykvietėse, gali prasiskverbti net pro asfaltą. Europoje vaisiakūnius veda nuo gegužės iki lapkričio, kartais jau nuo balandžio, po lietaus dažnai kelis kartus per metus; Šiaurės Amerikoje pasirodo nuo pavasario iki rudens ir kartais žiemą.",
+      "uses": "Valgomas tik jaunas, kol lakšteliai dar balti, ir tik be alkoholio; jį reikia paruošti surinkimo dieną, kol dar nepradėjo tirpti, o skonis niekuo neišsiskiria. Jame yra koprino, kuris organizme blokuoja alkoholio skaidymą panašiai kaip vaistas disulfiramas (Antabusas). Alkoholis, išgertas maždaug per tris dienas prieš valgį ar po jo, sukelia veido paraudimą, metalo skonį, širdies plakimą, galvos skausmą, pykinimą, vėmimą ir galūnių dilgčiojimą; simptomai prasideda praėjus kelioms minutėms po gėrimo ir paprastai per kelias valandas praeina, širdies ritmo sutrikimai reti. Dėl šios rizikos daugelis institucijų pataria jo visai nevalgyti. Ištirpusių kepurėlių juodas skystis kadaise buvo naudojamas kaip rašalas.",
+      "confusion": "Coprinopsis romagnesiana kepurėlė ir apatinė koto dalis turi ryškius oranžiškai rudus iki rūdžių rudumo žvynelius. Coprinopsis acuminata šiek tiek mažesnė, su smailia, gumburėta, mažiau raukšlėta kepurėle ir siauresnėmis sporomis. Coprinopsis alopecia kotas dribsniuotas, dėmėtas, be sustorėjusio pamato, ant jaunų kepurėlių yra baltų šydo dribsnių, o sporos šiurkščios. Coprinellus micaceus mažesnis, labiau gelsvai rudas iki rausvai rudo, o jaunos kepurėlės padengtos blizgančiais, žėrutį primenančiais grūdeliais. Coprinus comatus aukštesnis, su balta, cilindriška, plaukuotai žvynuota kepurėle ir judamu žiedu.",
+      "notes": "Koprinas pats savaime nekenksmingas: organizme iš jo susidaro 1-aminociklopropanolis, kuris slopina fermentą acetaldehido dehidrogenazę, todėl iš alkoholio susidaręs acetaldehidas kaupiasi. Švieži vaisiakūniai turi apie 130 mg koprino kilograme. Ši reakcija žinoma tik nuo XX a. pradžios, o grybas kartais buvo naudojamas alkoholizmui gydyti. Laboratoriniuose bandymuose didelės ir ilgalaikės koprino dozės pažeidė žiurkių ir šunų sėklides. Vaisiakūniai tokie stiprūs, kad gali pakelti grindinio plyteles ir prasiskverbti pro asfaltą.",
+      "names": [],
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "rašalinė mėšlabudė"
+    },
+    "lv": {
+      "description": "Bieži sastopama, īslaicīga tintene, kas aug kušķos no aprakas vai trūdošas koksnes, bieži ap veciem celmiem un saknēm, mežos, parkos, dārzos, zālienos, ceļmalās un citās traucētās vietās. Tā ir izplatīta visā ziemeļu puslodē Eiropā, Āzijā un Ziemeļamerikā, un tā konstatēta arī Dienvidāfrikā un Austrālijā.",
+      "cap": "Cepurīte ir 3–7 cm plata, pilnībā atvērusies līdz 10 cm, un 3–8 cm augsta. Sākumā tā ir olveida, vēlāk zvanveida līdz konusveidīgi izliekta. Virsma ir pelēka līdz pelēkbrūna, diezgan gluda un no malas smalki rievota līdz krokota, centrā ar sīkām, plakanām brūnganām zvīņām. Vecumā mala saplaisā, saritinās uz augšu un kļūst melna, un cepurīte no malas uz centru izšķīst melnā, tintei līdzīgā šķidrumā.",
+      "hymenium": "Lapiņas ir brīvas vai šauri pieaugušas, ļoti blīvas un platas, sākumā bālganas līdz gaiši pelēkas, tad brūnas un beigās melnas, un tās kopā ar cepurīti izšķīst melnā tintē. Lapiņu mala ir smalki pārslaina. Lielas sterilas šūnas (cistīdas) uz lapiņām darbojas kā starplikas, kas notur blīvās lapiņas atstatus, un četrsporu bazīdijas ieskauj īsas sterilas brahibazīdijas.",
+      "stipe": "Kātiņš ir 5–15 cm garš un 0,7–1,5 cm resns, cilindrisks un uz augšu nedaudz sašaurināts, balts, gluds līdz smalki šķiedrains un viegli zīdains, sākumā pilns, vēlāk dobs un trausls. Īsta gredzena nav, taču kātiņa apakšdaļā var būt sarkanbrūnas šķiedras un vājš gredzenveida valnītis no plīvura, un pamatne bieži ir nedaudz resnāka vai turpinās aprakajā koksnē.",
+      "flesh": "Mīkstums ir balts līdz gaiši pelēks, plāns, mīksts un trausls, un, šķīstot, tas kļūst melns. Smarža ir vāja, garša maiga.",
+      "sporePrint": "Sporu masa ir melna. Sporas ir elipsoīdas līdz mandeļveida, gludas, 6,5–11 × 4–6,5 µm, mikroskopā tumši sarkanbrūnas, ar centrālu dīgšanas poru.",
+      "habitat": "Tā ir saprotrofa uz trūdošas koksnes un aug blīvos kušķos, reizēm pa vienai, celmu pamatnē un ap tiem, kā arī uz aprakas koksnes un atmirušām saknēm, tāpēc var šķist, ka tā aug no augsnes. Tā sastopama lapu koku mežos, gar takām un grāvjiem, parkos, dārzos un zālienos, ceļmalās, uz komposta un atmatās un spēj izlauzties pat cauri asfaltam. Eiropā tā veido augļķermeņus no maija līdz novembrim, reizēm jau no aprīļa, pēc lietus bieži vairākas reizes gadā; Ziemeļamerikā tā parādās no pavasara līdz rudenim un reizēm ziemā.",
+      "uses": "Ēdama tikai jauna, kamēr lapiņas vēl ir baltas, un tikai bez alkohola; tā jāpagatavo vākšanas dienā, pirms tā sāk šķīst, un garšas ziņā tā ne ar ko neizceļas. Tā satur koprīnu, kas organismā bloķē alkohola noārdīšanos līdzīgi kā zāles disulfirāms (Antabuss). Alkohols, kas izdzerts aptuveni trīs dienu laikā pirms vai pēc maltītes, izraisa sejas apsārtumu, metālisku piegaršu, sirdsklauves, galvassāpes, nelabumu, vemšanu un tirpšanu locekļos; simptomi sākas dažas minūtes pēc dzeršanas un parasti dažu stundu laikā mazinās, sirds ritma traucējumi ir reti. Šī riska dēļ daudzas iestādes iesaka to neēst vispār. Izšķīdušo cepurīšu melno šķidrumu agrāk izmantoja kā tinti.",
+      "confusion": "Coprinopsis romagnesiana uz cepurītes un kātiņa apakšdaļas ir izteiktas oranžbrūnas līdz rūsganbrūnas zvīņas. Coprinopsis acuminata ir nedaudz mazāka, ar smailu, paugurainu, mazāk krokotu cepurīti un šaurākām sporām. Coprinopsis alopecia ir pārslains, raibs kātiņš bez resnākas pamatnes, balti plīvura pārslas uz jaunām cepurītēm un raupjas sporas. Coprinellus micaceus ir mazāka un drīzāk dzeltenbrūna līdz sarkanbrūna, un jaunām cepurītēm ir mirdzoši, vizlai līdzīgi graudiņi. Coprinus comatus ir augstāka, ar baltu, cilindrisku, pinkaini zvīņainu cepurīti un kustīgu gredzenu.",
+      "notes": "Koprīns pats par sevi ir nekaitīgs: organismā no tā veidojas 1-aminociklopropanols, kas kavē enzīmu acetaldehīddehidrogenāzi, tāpēc no alkohola radušais acetaldehīds uzkrājas. Svaigi augļķermeņi satur apmēram 130 mg koprīna uz kilogramu. Šī reakcija zināma tikai kopš 20. gadsimta sākuma, un sēne dažkārt izmantota alkoholisma ārstēšanā. Laboratorijas izmēģinājumos lielas un ilgstošas koprīna devas bojāja žurku un suņu sēklinieku audus. Augļķermeņi ir tik spēcīgi, ka spēj pacelt bruģakmeņus un izlauzties cauri asfaltam.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.latvijasdaba.lv/senes/coprinus-atramentarius-bull-fr-pers/",
+        "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+      ],
+      "label": "pelēkā tintene"
+    },
+    "nl": {
+      "description": "Een algemene, kortlevende inktzwam die in bundels groeit uit begraven of rottend hout, vaak rond oude stronken en wortels, in bossen, parken, tuinen, gazons, bermen en op andere verstoorde grond. Hij is wijdverbreid op het hele noordelijk halfrond in Europa, Azië en Noord-Amerika en is ook gemeld uit Zuid-Afrika en Australië.",
+      "cap": "De hoed is 3–7 cm breed, volledig uitgespreid tot 10 cm, en 3–8 cm hoog. Hij is eerst eivormig, daarna klokvormig tot kegelvormig-gewelfd. Het oppervlak is grijs tot grijsbruin, vrij glad en vanaf de rand fijn gegroefd tot geplooid, met kleine, platte bruinachtige schubjes in het midden. Met de leeftijd scheurt de rand in, krult omhoog en wordt zwart, en de hoed vervloeit van de rand naar het midden tot een zwarte, inktachtige vloeistof.",
+      "hymenium": "De plaatjes zijn vrij of smal aangehecht, zeer dicht opeen en breed, eerst witachtig tot bleekgrijs, dan bruin en ten slotte zwart, en ze vervloeien samen met de hoed tot zwarte inkt. De snede is fijn vlokkig. Grote steriele cellen (cystiden) op de plaatjes werken als afstandhouders die de dicht opeenstaande plaatjes uit elkaar houden, en de viersporige basidiën zijn omgeven door korte steriele brachybasidiën.",
+      "stipe": "De steel is 5–15 cm lang en 0,7–1,5 cm dik, cilindrisch en naar boven iets versmald, wit, glad tot fijn vezelig en licht zijdeachtig, eerst vol, later hol en breekbaar. Er is geen echte ring, maar het onderste deel van de steel kan roodbruine vezels en een zwakke ringvormige rand van het velum dragen, en de voet is vaak iets verdikt of loopt door in het begraven hout.",
+      "flesh": "Het vlees is wit tot bleekgrijs, dun, zacht en breekbaar en wordt zwart bij het vervloeien. De geur is zwak en de smaak mild.",
+      "sporePrint": "De sporenprint is zwart. De sporen zijn ellipsoïde tot amandelvormig, glad, 6,5–11 × 4–6,5 µm, onder de microscoop donker roodbruin, met een centrale kiemporie.",
+      "habitat": "Hij leeft saprotroof op verterend hout en groeit in dichte bundels, soms alleen, aan de voet van en rond stronken en op begraven hout en dode wortels, zodat hij uit de grond lijkt te komen. Hij komt voor in loofbossen, langs paden en sloten, in parken, tuinen en gazons, in bermen, op compost en op braakliggend terrein, en kan zelfs door asfalt heen breken. In Europa vormt hij vruchtlichamen van mei tot november, soms al vanaf april, na regen vaak meerdere keren per jaar; in Noord-Amerika verschijnt hij van het voorjaar tot de herfst en soms in de winter.",
+      "uses": "Alleen eetbaar als hij jong is, zolang de plaatjes nog wit zijn, en alleen zonder alcohol; hij moet nog op de dag van het plukken worden bereid, voordat hij begint te vervloeien, en zijn smaak is onopvallend. Hij bevat coprine, dat de afbraak van alcohol in het lichaam blokkeert, vergelijkbaar met het geneesmiddel disulfiram (Antabus). Alcohol die ongeveer binnen drie dagen voor of na de maaltijd wordt gedronken, veroorzaakt een rood gezicht, een metaalsmaak, hartkloppingen, hoofdpijn, misselijkheid, braken en tintelingen in de ledematen; de klachten beginnen minuten na het drinken en nemen meestal binnen enkele uren af, hartritmestoornissen zijn zeldzaam. Vanwege dit risico raden veel instanties af hem te eten. De zwarte vloeistof van vervloeide hoeden werd vroeger als inkt gebruikt.",
+      "confusion": "Coprinopsis romagnesiana heeft opvallende oranjebruine tot roestbruine schubben op de hoed en het onderste deel van de steel. Coprinopsis acuminata is iets kleiner, met een spitse, gebulte, minder geplooide hoed en smallere sporen. Coprinopsis alopecia heeft een vlokkige, gespikkelde steel zonder verdikte voet, witte velumvlokken op jonge hoeden en ruwe sporen. Coprinellus micaceus is kleiner en eerder taankleurig tot roodbruin, en jonge hoeden dragen glinsterende, mica-achtige korreltjes. Coprinus comatus is hoger, met een witte, cilindrische, ruig geschubde hoed en een losse ring.",
+      "notes": "Coprine is op zichzelf onschadelijk: in het lichaam ontstaat er 1-aminocyclopropanol uit, dat het enzym aceetaldehyde-dehydrogenase remt, zodat aceetaldehyde uit alcohol zich ophoopt. Verse vruchtlichamen bevatten ongeveer 130 mg coprine per kilogram. De reactie is pas sinds het begin van de 20e eeuw bekend, en de paddenstoel is af en toe gebruikt om alcoholisme te behandelen. In laboratoriumproeven beschadigden grote en langdurige doses coprine de testes van ratten en honden. De vruchtlichamen zijn zo sterk dat ze stoeptegels kunnen optillen en door asfalt kunnen breken.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Grote_kale_inktzwam"
+      ],
+      "label": "Grote kale inktzwam"
+    },
+    "no": {
+      "description": "En vanlig, kortlevd blekksopp som vokser i knipper fra nedgravd eller råtnende ved, ofte rundt gamle stubber og røtter, i skog, parker, hager, plener, veikanter og på annen forstyrret mark. Den er utbredt over hele den nordlige halvkule i Europa, Asia og Nord-Amerika og er også funnet i Sør-Afrika og Australia.",
+      "cap": "Hatten er 3–7 cm bred, opptil 10 cm når den er helt utbredt, og 3–8 cm høy. Den er først eggformet, deretter klokkeformet til kjegleformet-hvelvet. Overflaten er grå til gråbrun, ganske glatt og fint furet til foldet fra kanten, med små, flate, brunlige skjell midt på. Med alderen sprekker kanten, ruller seg oppover og blir svart, og hatten løses opp fra kanten og innover til en svart, blekkaktig væske.",
+      "hymenium": "Skivene er frie eller smalt tilvokste, svært tette og brede, først hvitaktige til blekt grå, deretter brune og til slutt svarte, og de løses opp til svart blekk sammen med hatten. Eggen er fint fnokket. Store sterile celler (cystider) på skivene virker som avstandsstykker som holder de tette skivene fra hverandre, og de firesporede basidiene er omgitt av korte sterile brachybasidier.",
+      "stipe": "Stilken er 5–15 cm lang og 0,7–1,5 cm tykk, sylindrisk og litt avsmalnende oppover, hvit, glatt til fint trådet og svakt silkeaktig, først fylt, senere hul og skjør. Det finnes ingen ekte ring, men nedre del av stilken kan ha rødbrune trevler og en svak ringaktig kant etter sløret, og basis er ofte litt oppsvulmet eller fortsetter ned i den nedgravde veden.",
+      "flesh": "Kjøttet er hvitt til blekt grått, tynt, mykt og skjørt og svartner når det løses opp. Lukten er svak og smaken mild.",
+      "sporePrint": "Sporepulveret er svart. Sporene er ellipsoide til mandelformede, glatte, 6,5–11 × 4–6,5 µm, mørkt rødbrune i mikroskop, med en sentral spirepore.",
+      "habitat": "Den er saprotrof på nedbrutt ved og vokser i tette knipper, noen ganger enkeltvis, ved foten av og rundt stubber og på nedgravd ved og døde røtter, slik at den kan se ut til å vokse fra jorda. Den finnes i løvskog, langs stier og grøfter, i parker, hager og plener, i veikanter, på kompost og på skrotemark, og den kan bryte opp gjennom asfalt. I Europa danner den fruktlegemer fra mai til november, noen ganger fra april, ofte flere ganger i året etter regn; i Nord-Amerika kommer den fra vår til høst og noen ganger om vinteren.",
+      "uses": "Spiselig bare som ung, mens skivene ennå er hvite, og bare uten alkohol; den må tilberedes samme dag som den plukkes, før den begynner å løses opp, og smaken er lite spesiell. Den inneholder koprin, som blokkerer kroppens nedbrytning av alkohol omtrent som legemidlet disulfiram (Antabus). Alkohol drukket innen omtrent tre dager før eller etter måltidet gir rødme i ansiktet, metallsmak, hjertebank, hodepine, kvalme, oppkast og prikking i armer og bein; symptomene begynner minutter etter at man har drukket og avtar som regel i løpet av noen timer, og forstyrrelser i hjerterytmen er sjeldne. På grunn av denne risikoen fraråder mange fagmyndigheter å spise den. Den svarte væsken fra oppløste hatter ble tidligere brukt som blekk.",
+      "confusion": "Coprinopsis romagnesiana har tydelige oransjebrune til rustbrune skjell på hatten og nederst på stilken. Coprinopsis acuminata er litt mindre, med en spiss, puklet, mindre foldet hatt og smalere sporer. Coprinopsis alopecia har en fnokket, flekket stilk uten oppsvulmet basis, hvite slørrester på unge hatter og ru sporer. Coprinellus micaceus er mindre og mer gulbrun til rødbrun, og unge hatter bærer glitrende, glimmeraktige korn. Coprinus comatus er høyere, med en hvit, sylindrisk, laset-skjellet hatt og en bevegelig ring.",
+      "notes": "Koprin er i seg selv ufarlig: i kroppen dannes 1-aminosyklopropanol, som hemmer enzymet acetaldehyddehydrogenase, slik at acetaldehyd fra alkohol hoper seg opp. Friske fruktlegemer inneholder omtrent 130 mg koprin per kilogram. Reaksjonen har bare vært kjent siden tidlig på 1900-tallet, og soppen har av og til vært brukt til å behandle alkoholisme. I laboratorieforsøk skadet store og langvarige doser koprin testiklene hos rotter og hunder. Fruktlegemene er så sterke at de kan løfte heller og bryte gjennom asfalt.",
+      "names": [],
+      "sourceUrls": [
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "grå blekksopp"
+    },
+    "pl": {
+      "description": "Pospolity, krótkotrwały grzyb z grupy czernidłaków, rosnący kępami z zakopanego lub rozkładającego się drewna, często wokół starych pniaków i korzeni, w lasach, parkach, ogrodach, na trawnikach, poboczach dróg i innych przekształconych terenach. Jest szeroko rozprzestrzeniony na całej półkuli północnej w Europie, Azji i Ameryce Północnej, a notowano go także w Afryce Południowej i Australii.",
+      "cap": "Kapelusz ma 3–7 cm średnicy, po pełnym rozpostarciu do 10 cm, i 3–8 cm wysokości. Początkowo jest jajowaty, potem dzwonkowaty do stożkowato-wypukłego. Powierzchnia jest szara do szarobrązowej, dość gładka, od brzegu delikatnie bruzdowana do fałdowanej, w środku z drobnymi, płaskimi, brązowawymi łuseczkami. Z wiekiem brzeg pęka, podwija się ku górze i czernieje, a kapelusz rozpływa się od brzegu ku środkowi w czarną, atramentową ciecz.",
+      "hymenium": "Blaszki są wolne lub wąsko przyrośnięte, bardzo gęste i szerokie, początkowo białawe do bladoszarych, potem brązowe i w końcu czarne, i rozpływają się wraz z kapeluszem w czarny atrament. Ostrza blaszek są drobno kosmkowate. Duże sterylne komórki (cystydy) na blaszkach działają jak przekładki utrzymujące gęste blaszki z dala od siebie, a czterozarodnikowe podstawki otaczają krótkie sterylne brachybazydie.",
+      "stipe": "Trzon ma 5–15 cm długości i 0,7–1,5 cm grubości, jest walcowaty, ku górze lekko zwężony, biały, gładki do delikatnie włókienkowatego i lekko jedwabisty, początkowo pełny, później pusty i kruchy. Prawdziwego pierścienia brak, ale dolna część trzonu może mieć czerwonobrązowe włókienka i słabą pierścieniowatą listewkę po osłonie, a podstawa jest często lekko zgrubiała lub przechodzi w zakopane drewno.",
+      "flesh": "Miąższ jest biały do bladoszarego, cienki, miękki i kruchy, a przy rozpływaniu czernieje. Zapach jest słaby, smak łagodny.",
+      "sporePrint": "Wysyp zarodników jest czarny. Zarodniki są elipsoidalne do migdałowatych, gładkie, 6,5–11 × 4–6,5 µm, pod mikroskopem ciemnoczerwonobrązowe, z centralną porą rostkową.",
+      "habitat": "Jest saprotrofem na rozkładającym się drewnie i rośnie w gęstych kępach, czasem pojedynczo, u podstawy i wokół pniaków oraz na zakopanym drewnie i martwych korzeniach, przez co może się wydawać, że wyrasta z gleby. Występuje w lasach liściastych, przy ścieżkach i rowach, w parkach, ogrodach i na trawnikach, na poboczach dróg, na kompostach i nieużytkach, a nawet potrafi przebić się przez asfalt. W Europie owocnikuje od maja do listopada, czasem już od kwietnia, po deszczach często kilka razy w roku; w Ameryce Północnej pojawia się od wiosny do jesieni, a czasem zimą.",
+      "uses": "Jadalny tylko młody, dopóki blaszki są jeszcze białe, i tylko bez alkoholu; trzeba go przyrządzić w dniu zbioru, zanim zacznie się rozpływać, a smakiem niczym się nie wyróżnia. Zawiera koprynę, która blokuje w organizmie rozkład alkoholu podobnie jak lek disulfiram (Antabus). Alkohol wypity w ciągu mniej więcej trzech dni przed posiłkiem lub po nim wywołuje zaczerwienienie twarzy, metaliczny posmak, kołatanie serca, ból głowy, nudności, wymioty i mrowienie kończyn; objawy zaczynają się kilka minut po wypiciu i zwykle ustępują w ciągu kilku godzin, a zaburzenia rytmu serca są rzadkie. Z powodu tego ryzyka wiele instytucji odradza jedzenie go w ogóle. Czarny płyn z rozpłyniętych kapeluszy dawniej używano jako atramentu.",
+      "confusion": "Coprinopsis romagnesiana ma wyraźne pomarańczowobrązowe do rdzawobrązowych łuski na kapeluszu i dolnej części trzonu. Coprinopsis acuminata jest nieco mniejsza, ma spiczasty, garbkowaty, słabiej fałdowany kapelusz i węższe zarodniki. Coprinopsis alopecia ma kosmkowaty, cętkowany trzon bez zgrubiałej podstawy, białe płatki osłony na młodych kapeluszach i szorstkie zarodniki. Coprinellus micaceus jest mniejszy, raczej płowy do czerwonobrązowego, a młode kapelusze pokrywają błyszczące, przypominające mikę ziarenka. Coprinus comatus jest wyższy, ma biały, walcowaty, kosmato łuseczkowaty kapelusz i ruchomy pierścień.",
+      "notes": "Sama kopryna jest nieszkodliwa: w organizmie powstaje z niej 1-aminocyklopropanol, który hamuje enzym dehydrogenazę aldehydu octowego, przez co aldehyd octowy z alkoholu się kumuluje. Świeże owocniki zawierają około 130 mg kopryny na kilogram. Reakcja ta jest znana dopiero od początku XX wieku, a grzyb bywał wykorzystywany w leczeniu alkoholizmu. W badaniach laboratoryjnych duże i długotrwałe dawki kopryny uszkadzały jądra szczurów i psów. Owocniki są tak silne, że potrafią unieść płyty chodnikowe i przebić się przez asfalt.",
+      "names": [
+        "czernidłak pospolity"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Czernidłówka_pospolita",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "czernidłówka pospolita"
+    },
+    "pt": {
+      "description": "Um cogumelo-tinta comum e efémero que cresce em tufos a partir de madeira enterrada ou em decomposição, muitas vezes em volta de cepos e raízes velhas, em bosques, parques, jardins, relvados, bermas e outros terrenos perturbados. Está amplamente distribuído por todo o hemisfério norte, na Europa, Ásia e América do Norte, e também foi registado na África do Sul e na Austrália.",
+      "cap": "O chapéu mede 3–7 cm de diâmetro, até 10 cm quando totalmente aberto, e 3–8 cm de altura. Primeiro é ovoide, depois campanulado a cónico-convexo. A superfície é cinzenta a cinzento-acastanhada, bastante lisa e finamente estriada ou pregueada a partir da margem, com pequenas escamas planas acastanhadas no centro. Com a idade a margem fende-se, enrola-se para cima e enegrece, e o chapéu dissolve-se da borda para o centro num líquido negro como tinta.",
+      "hymenium": "As lâminas são livres ou estreitamente aderentes, muito apertadas e largas, primeiro esbranquiçadas a cinzento-pálidas, depois castanhas e por fim negras, e dissolvem-se em tinta negra juntamente com o chapéu. As arestas são finamente flocosas. Grandes células estéreis (cistídios) nas lâminas funcionam como espaçadores que mantêm afastadas as lâminas apertadas, e os basídios tetraspóricos estão rodeados por curtos braquibasídios estéreis.",
+      "stipe": "O pé mede 5–15 cm de comprimento e 0,7–1,5 cm de espessura, é cilíndrico e um pouco mais estreito para o topo, branco, liso a finamente fibroso e ligeiramente sedoso, primeiro cheio e depois oco e frágil. Não tem anel verdadeiro, mas a parte inferior do pé pode ter fibrilas castanho-avermelhadas e um ténue rebordo anelar deixado pelo véu, e a base é frequentemente um pouco engrossada ou prolonga-se na madeira enterrada.",
+      "flesh": "A carne é branca a cinzento-pálida, fina, mole e frágil, e enegrece ao dissolver-se. O cheiro é fraco e o sabor suave.",
+      "sporePrint": "A esporada é negra. Os esporos são elipsoides a amigdaliformes, lisos, 6,5–11 × 4–6,5 µm, castanho-avermelhados escuros ao microscópio, com um poro germinativo central.",
+      "habitat": "É saprótrofo em madeira em decomposição e cresce em tufos densos, por vezes isolado, na base e em volta de cepos e em madeira enterrada e raízes mortas, pelo que pode parecer nascer do solo. Ocorre em bosques de folhosas, ao longo de caminhos e valas, em parques, jardins e relvados, em bermas de estrada, em composto e em terrenos baldios, e consegue até romper o asfalto. Na Europa frutifica de maio a novembro, por vezes desde abril, muitas vezes várias vezes por ano depois da chuva; na América do Norte aparece da primavera ao outono e por vezes no inverno.",
+      "uses": "Comestível apenas quando jovem, enquanto as lâminas ainda estão brancas, e apenas sem álcool; tem de ser cozinhado no dia da colheita, antes de começar a dissolver-se, e o sabor não tem nada de especial. Contém coprina, que bloqueia a degradação do álcool no organismo de forma semelhante ao medicamento dissulfiram (Antabuse). O álcool bebido nos cerca de três dias antes ou depois da refeição provoca rubor facial, sabor metálico, palpitações, dor de cabeça, náuseas, vómitos e formigueiro nos membros, que começam minutos depois de beber e costumam atenuar-se em poucas horas; as perturbações do ritmo cardíaco são raras. Devido a este risco, muitas instituições desaconselham o seu consumo. O líquido negro dos chapéus dissolvidos foi outrora usado como tinta.",
+      "confusion": "Coprinopsis romagnesiana tem escamas vistosas castanho-alaranjadas a castanho-ferrugem no chapéu e na parte inferior do pé. Coprinopsis acuminata é um pouco menor, com chapéu pontiagudo, umbonado e menos pregueado, e esporos mais estreitos. Coprinopsis alopecia tem o pé flocoso e salpicado sem base engrossada, flocos brancos de véu nos chapéus jovens e esporos rugosos. Coprinellus micaceus é menor e mais fulvo a castanho-avermelhado, e os chapéus jovens têm grânulos brilhantes semelhantes a mica. Coprinus comatus é mais alto, com chapéu branco, cilíndrico e de escamas lanosas, e um anel móvel.",
+      "notes": "A coprina por si só é inofensiva: no organismo origina 1-aminociclopropanol, que inibe a enzima acetaldeído desidrogenase, pelo que o acetaldeído vindo do álcool se acumula. Os corpos frutíferos frescos contêm cerca de 130 mg de coprina por quilograma. A reação só é conhecida desde o início do século XX, e o cogumelo foi ocasionalmente usado para tratar o alcoolismo. Em ensaios laboratoriais, doses elevadas e prolongadas de coprina danificaram os testículos de ratos e cães. Os corpos frutíferos são suficientemente fortes para levantar lajes e romper o asfalto.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă comună și efemeră, care crește în tufe din lemn îngropat sau în descompunere, adesea în jurul cioatelor și rădăcinilor vechi, în păduri, parcuri, grădini, peluze, margini de drum și alte terenuri deranjate. Este larg răspândită în toată emisfera nordică, în Europa, Asia și America de Nord, și a fost semnalată și în Africa de Sud și Australia.",
+      "cap": "Pălăria are 3–7 cm în diametru, până la 10 cm când este complet desfăcută, și 3–8 cm înălțime. La început este ovoidă, apoi campanulată până la conic-convexă. Suprafața este cenușie până la cenușiu-maronie, destul de netedă și fin striată sau plisată de la margine, cu solzișori mici, plați, maronii în centru. Odată cu vârsta marginea crapă, se răsucește în sus și se înnegrește, iar pălăria se dizolvă de la margine spre centru într-un lichid negru ca cerneala.",
+      "hymenium": "Lamelele sunt libere sau îngust aderente, foarte dese și late, la început albicioase până la cenușiu-pal, apoi maronii și în final negre, și se dizolvă în cerneală neagră împreună cu pălăria. Muchiile lamelelor sunt fin floconoase. Celule sterile mari (cistide) de pe lamele acționează ca distanțiere care țin separate lamelele dese, iar bazidiile tetrasporice sunt înconjurate de brahibazidii sterile scurte.",
+      "stipe": "Piciorul are 5–15 cm lungime și 0,7–1,5 cm grosime, este cilindric și ușor îngustat spre vârf, alb, neted până la fin fibros și ușor mătăsos, la început plin, apoi gol și fragil. Nu are inel adevărat, dar partea inferioară a piciorului poate purta fibrile roșiatic-maronii și o bordură inelară slabă lăsată de văl, iar baza este adesea ușor îngroșată sau se continuă în lemnul îngropat.",
+      "flesh": "Carnea este albă până la cenușiu-pal, subțire, moale și fragilă și se înnegrește când se dizolvă. Mirosul este slab, iar gustul blând.",
+      "sporePrint": "Sporeea este neagră. Sporii sunt elipsoidali până la migdaliformi, netezi, 6,5–11 × 4–6,5 µm, roșiatic-maronii închis la microscop, cu un por germinativ central.",
+      "habitat": "Este saprotrofă pe lemn în descompunere și crește în tufe dese, uneori solitar, la baza și în jurul cioatelor și pe lemn îngropat și rădăcini moarte, așa că poate părea că răsare din sol. Apare în păduri de foioase, de-a lungul potecilor și șanțurilor, în parcuri, grădini și peluze, pe marginea drumurilor, pe compost și pe terenuri virane și poate străpunge chiar asfaltul. În Europa fructifică din mai până în noiembrie, uneori încă din aprilie, adesea de mai multe ori pe an după ploi; în America de Nord apare din primăvară până toamna și uneori iarna.",
+      "uses": "Comestibilă doar tânără, cât timp lamelele sunt încă albe, și doar fără alcool; trebuie gătită în ziua culegerii, înainte să înceapă să se dizolve, iar gustul ei nu are nimic deosebit. Conține coprină, care blochează descompunerea alcoolului în organism asemenea medicamentului disulfiram (Antabuse). Alcoolul băut cu aproximativ trei zile înainte sau după masă provoacă înroșirea feței, gust metalic, palpitații, durere de cap, greață, vărsături și furnicături în membre, care încep la câteva minute după băutură și de obicei se ameliorează în câteva ore; tulburările de ritm cardiac sunt rare. Din cauza acestui risc, multe instituții de specialitate recomandă să nu fie consumată deloc. Lichidul negru al pălăriilor dizolvate a fost folosit cândva drept cerneală.",
+      "confusion": "Coprinopsis romagnesiana are solzi vizibili maroniu-portocalii până la maroniu-ruginii pe pălărie și pe partea inferioară a piciorului. Coprinopsis acuminata este ceva mai mică, cu pălăria ascuțită, umbonată, mai puțin plisată, și spori mai înguști. Coprinopsis alopecia are piciorul floconos, pestriț, fără bază îngroșată, fulgi albi de văl pe pălăriile tinere și spori aspri. Coprinellus micaceus este mai mic, mai degrabă gălbui-maroniu până la roșiatic-maroniu, iar pălăriile tinere poartă granule strălucitoare asemănătoare micei. Coprinus comatus este mai înalt, cu pălăria albă, cilindrică, cu solzi lânoși, și un inel mobil.",
+      "notes": "Coprina în sine este inofensivă: în organism din ea se formează 1-aminociclopropanol, care inhibă enzima acetaldehid-dehidrogenază, astfel încât acetaldehida din alcool se acumulează. Corpurile fructifere proaspete conțin circa 130 mg de coprină pe kilogram. Reacția este cunoscută abia de la începutul secolului XX, iar ciuperca a fost folosită ocazional pentru tratarea alcoolismului. În teste de laborator, doze mari și prelungite de coprină au afectat testiculele șobolanilor și câinilor. Corpurile fructifere sunt atât de puternice încât pot ridica dale de pavaj și străpunge asfaltul.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Обычный, недолговечный навозник, растущий пучками из погребённой или гниющей древесины, часто вокруг старых пней и корней, в лесах, парках, садах, на газонах, обочинах дорог и других нарушенных местах. Широко распространён по всему Северному полушарию в Европе, Азии и Северной Америке, а также отмечен в Южной Африке и Австралии.",
+      "cap": "Шляпка 3–7 cm в диаметре, полностью раскрытая — до 10 cm, и 3–8 cm высотой. Сначала она яйцевидная, затем колокольчатая до конусовидно-выпуклой. Поверхность серая до серо-коричневой, довольно гладкая, от края тонко бороздчатая до складчатой, в центре с мелкими плоскими коричневатыми чешуйками. С возрастом край разрывается, загибается вверх и чернеет, а шляпка от края к центру расплывается в чёрную, похожую на чернила жидкость.",
+      "hymenium": "Пластинки свободные или узкоприросшие, очень частые и широкие, сначала беловатые до бледно-серых, затем коричневые и наконец чёрные, вместе со шляпкой расплываются в чёрные чернила. Край пластинок тонкохлопьевидный. Крупные стерильные клетки (цистиды) на пластинках служат распорками, удерживающими частые пластинки на расстоянии друг от друга, а четырёхспоровые базидии окружены короткими стерильными брахибазидиями.",
+      "stipe": "Ножка 5–15 cm длиной и 0,7–1,5 cm толщиной, цилиндрическая, слегка суженная кверху, белая, гладкая до тонковолокнистой и слегка шелковистой, сначала сплошная, позднее полая и ломкая. Настоящего кольца нет, но в нижней части ножки могут быть красновато-коричневые волокна и слабый кольцевидный валик — остаток покрывала, а основание часто слегка утолщено или уходит в погребённую древесину.",
+      "flesh": "Мякоть белая до бледно-серой, тонкая, мягкая и ломкая, при расплывании чернеет. Запах слабый, вкус мягкий.",
+      "sporePrint": "Споровый порошок чёрный. Споры эллипсоидные до миндалевидных, гладкие, 6,5–11 × 4–6,5 µm, под микроскопом тёмные красновато-коричневые, с центральной ростковой порой.",
+      "habitat": "Сапротроф на гниющей древесине; растёт густыми пучками, иногда поодиночке, у основания и вокруг пней, а также на погребённой древесине и отмерших корнях, поэтому может казаться, что он растёт прямо из почвы. Встречается в лиственных лесах, вдоль тропинок и канав, в парках, садах и на газонах, на обочинах дорог, на компосте и пустырях и может пробиваться даже сквозь асфальт. В Европе плодоносит с мая по ноябрь, иногда уже с апреля, после дождей часто по нескольку раз в год; в Северной Америке появляется с весны до осени, а иногда и зимой.",
+      "uses": "Съедобен только молодым, пока пластинки ещё белые, и только без алкоголя; его нужно приготовить в день сбора, пока он не начал расплываться, а вкус у него ничем не примечателен. Содержит коприн, который блокирует расщепление алкоголя в организме подобно препарату дисульфирам (Антабус). Алкоголь, выпитый примерно в течение трёх дней до или после еды, вызывает покраснение лица, металлический привкус, сердцебиение, головную боль, тошноту, рвоту и покалывание в конечностях; симптомы начинаются через несколько минут после приёма спиртного и обычно проходят за несколько часов, нарушения сердечного ритма редки. Из-за этого риска многие профильные учреждения советуют вовсе его не есть. Чёрную жидкость расплывшихся шляпок когда-то использовали как чернила.",
+      "confusion": "У Coprinopsis romagnesiana на шляпке и в нижней части ножки заметные оранжево-коричневые до ржаво-коричневых чешуйки. Coprinopsis acuminata немного мельче, с заострённой, бугорчатой, менее складчатой шляпкой и более узкими спорами. У Coprinopsis alopecia хлопьевидная, крапчатая ножка без утолщённого основания, белые хлопья покрывала на молодых шляпках и шероховатые споры. Coprinellus micaceus мельче, скорее желтовато-бурый до красновато-коричневого, а молодые шляпки покрыты блестящими, похожими на слюду крупинками. Coprinus comatus выше, с белой цилиндрической лохматочешуйчатой шляпкой и подвижным кольцом.",
+      "notes": "Сам по себе коприн безвреден: в организме из него образуется 1-аминоциклопропанол, который подавляет фермент ацетальдегиддегидрогеназу, поэтому ацетальдегид из алкоголя накапливается. Свежие плодовые тела содержат около 130 мг коприна на килограмм. Эта реакция известна лишь с начала XX века, а гриб иногда использовали для лечения алкоголизма. В лабораторных опытах большие и длительные дозы коприна повреждали семенники крыс и собак. Плодовые тела настолько сильны, что могут приподнимать тротуарную плитку и пробиваться сквозь асфальт.",
+      "names": [
+        "навозник чернильный"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Навозник_серый",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "навозник серый"
+    },
+    "sk": {
+      "description": "Bežná, krátkoveká hnojníkovitá huba, ktorá rastie v trsoch zo zahrabaného alebo rozkladajúceho sa dreva, často okolo starých pňov a koreňov, v lesoch, parkoch, záhradách, na trávnikoch, okrajoch ciest a iných narušených miestach. Je rozšírená na celej severnej pologuli v Európe, Ázii a Severnej Amerike a zaznamenali ju aj v Južnej Afrike a Austrálii.",
+      "cap": "Klobúk má priemer 3–7 cm, plne roztvorený až 10 cm, a výšku 3–8 cm. Spočiatku je vajcovitý, potom zvoncovitý až kužeľovito vypuklý. Povrch je sivý až sivohnedý, pomerne hladký, od okraja jemne ryhovaný až zriasený, v strede s drobnými plochými hnedastými šupinkami. Vekom sa okraj trhá, dvíha nahor a černie a klobúk sa od okraja k stredu rozpúšťa na čiernu, atramentovú tekutinu.",
+      "hymenium": "Lupene sú voľné alebo úzko pripojené, veľmi husté a široké, spočiatku belavé až svetlosivé, potom hnedé a napokon čierne a spolu s klobúkom sa rozpúšťajú na čierny atrament. Ostrie lupeňov je jemne vločkaté. Veľké sterilné bunky (cystidy) na lupeňoch slúžia ako rozpery, ktoré držia husté lupene od seba, a štvorvýtrusné bazídie obklopujú krátke sterilné brachybazídie.",
+      "stipe": "Hlúbik je 5–15 cm dlhý a 0,7–1,5 cm hrubý, valcovitý, smerom nahor mierne zúžený, biely, hladký až jemne vláknitý a slabo lesklý, spočiatku plný, neskôr dutý a krehký. Pravý prsteň nemá, no v dolnej časti môže mať červenohnedé vlákna a nevýrazný prsteňovitý lem po závoji a báza je často mierne zhrubnutá alebo pokračuje do zahrabaného dreva.",
+      "flesh": "Dužina je biela až svetlosivá, tenká, mäkká a krehká a pri rozpúšťaní černie. Vôňa je slabá a chuť mierna.",
+      "sporePrint": "Výtrusný prach je čierny. Výtrusy sú elipsoidné až mandľovité, hladké, 6,5–11 × 4–6,5 µm, pod mikroskopom tmavo červenohnedé, s centrálnym klíčnym pórom.",
+      "habitat": "Je saprotrofná na rozkladajúcom sa dreve a rastie v hustých trsoch, niekedy jednotlivo, pri báze a okolo pňov a na zahrabanom dreve a odumretých koreňoch, takže sa môže zdať, že rastie zo zeme. Vyskytuje sa v listnatých lesoch, pri cestách a v priekopách, v parkoch, záhradách a na trávnikoch, na okrajoch ciest, na kompostoch a rumoviskách a dokáže sa pretlačiť aj cez asfalt. V Európe prináša plodnice od mája do novembra, niekedy už od apríla, často niekoľkokrát do roka po dažďoch; v Severnej Amerike rastie od jari do jesene a niekedy aj v zime.",
+      "uses": "Jedlá je iba mladá, kým sú lupene ešte biele, a iba bez alkoholu; treba ju pripraviť v deň zberu, skôr než sa začne rozpúšťať, a chuťou nijako zvlášť nevyniká. Obsahuje koprín, ktorý v tele blokuje odbúravanie alkoholu podobne ako liek disulfiram (Antabus). Alkohol vypitý približne do troch dní pred jedlom alebo po ňom spôsobuje sčervenanie tváre, kovovú pachuť, búšenie srdca, bolesť hlavy, nevoľnosť, vracanie a mravčenie končatín; príznaky sa objavia niekoľko minút po napití a zvyčajne do niekoľkých hodín ustúpia, poruchy srdcového rytmu sú zriedkavé. Pre toto riziko mnohé odborné inštitúcie odporúčajú nejesť ju vôbec. Čierna tekutina z rozpustených klobúkov sa kedysi používala ako atrament.",
+      "confusion": "Coprinopsis romagnesiana má na klobúku a v dolnej časti hlúbika výrazné oranžovohnedé až hrdzavohnedé šupiny. Coprinopsis acuminata je o niečo menšia, s kužeľovitým, hrboľatým, menej zriaseným klobúkom a užšími výtrusmi. Coprinopsis alopecia má vločkatý, škvrnitý hlúbik bez zhrubnutej bázy, biele zvyšky závoja na mladých klobúkoch a drsné výtrusy. Coprinellus micaceus je menší, žltohnedý až červenohnedý a mladé klobúky má pokryté lesklými zrniečkami pripomínajúcimi sľudu. Coprinus comatus je vyšší, s bielym, valcovitým, strapato šupinatým klobúkom a pohyblivým prsteňom.",
+      "notes": "Koprín sám osebe nie je škodlivý: v tele z neho vzniká 1-aminocyklopropanol, ktorý blokuje enzým acetaldehyddehydrogenázu, takže sa hromadí acetaldehyd z alkoholu. Čerstvé plodnice obsahujú asi 130 mg koprínu na kilogram. Táto reakcia je známa až od začiatku 20. storočia a huba sa príležitostne používala na liečbu alkoholizmu. V laboratórnych pokusoch veľké a dlhodobé dávky koprínu poškodzovali semenníky potkanov a psov. Plodnice sú také silné, že dokážu nadvihnúť dlažbu a prerásť cez asfalt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Coprinopsis-atramentaria/hnojnik-atramentovy/hnojnik-inkoustovy/ID97",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474167",
+        "https://www.gbif.org/species/5242740"
+      ],
+      "label": "hnojník atramentový"
+    },
+    "sl": {
+      "description": "Pogosta, kratkoživa tintovka, ki raste v šopih iz zakopanega ali trohnečega lesa, pogosto okoli starih štorov in korenin, v gozdovih, parkih, vrtovih, na tratah, ob cestah in na drugih motenih tleh. Razširjena je po vsej severni polobli v Evropi, Aziji in Severni Ameriki, zabeležena pa je bila tudi v Južni Afriki in Avstraliji.",
+      "cap": "Klobuk je širok 3–7 cm, povsem razprt do 10 cm, in visok 3–8 cm. Sprva je jajčast, nato zvonast do stožčasto izbočen. Površina je siva do sivorjava, precej gladka in od roba drobno progasta do nagubana, v sredini z drobnimi, ploščatimi rjavkastimi luskami. S starostjo se rob raztrga, zavije navzgor in počrni, klobuk pa se od roba proti sredini raztopi v črno, črnilu podobno tekočino.",
+      "hymenium": "Listi so prosti ali ozko pritrjeni, zelo gosti in široki, sprva belkasti do bledo sivi, nato rjavi in nazadnje črni, skupaj s klobukom pa se raztopijo v črno črnilo. Rezi listov so drobno kosmičasti. Velike sterilne celice (cistide) na listih delujejo kot distančniki, ki goste liste držijo narazen, štiritrosne bazidije pa obdajajo kratke sterilne brahibazidije.",
+      "stipe": "Bet je dolg 5–15 cm in debel 0,7–1,5 cm, valjast in navzgor rahlo zožen, bel, gladek do drobno vlaknat in rahlo svilnat, sprva poln, pozneje votel in krhek. Pravega obročka nima, spodnji del beta pa ima lahko rdečerjava vlakna in šibek obročkast rob, ostanek zastiralca, osnova pa je pogosto rahlo odebeljena ali se nadaljuje v zakopani les.",
+      "flesh": "Meso je belo do bledo sivo, tanko, mehko in krhko ter pri raztapljanju počrni. Vonj je šibek, okus mil.",
+      "sporePrint": "Trosni prah je črn. Trosi so elipsoidni do mandljasti, gladki, 6,5–11 × 4–6,5 µm, pod mikroskopom temno rdečerjavi, z osrednjo kalilno poro.",
+      "habitat": "Je saprotrofna na trohnečem lesu in raste v gostih šopih, včasih posamič, ob vznožju in okoli štorov ter na zakopanem lesu in odmrlih koreninah, zato je videti, kot da raste iz tal. Pojavlja se v listnatih gozdovih, ob poteh in jarkih, v parkih, vrtovih in na tratah, ob cestah, na kompostu in na zapuščenih zemljiščih ter se lahko prebije celo skozi asfalt. V Evropi tvori trosnjake od maja do novembra, včasih že od aprila, po dežju pogosto večkrat na leto; v Severni Ameriki se pojavlja od pomladi do jeseni in včasih pozimi.",
+      "uses": "Užitna je le mlada, dokler so listi še beli, in le brez alkohola; pripraviti jo je treba na dan nabiranja, preden se začne raztapljati, okus pa ni nič posebnega. Vsebuje koprin, ki v telesu zavira razgradnjo alkohola podobno kot zdravilo disulfiram (Antabus). Alkohol, popit v približno treh dneh pred obrokom ali po njem, povzroči rdečico obraza, kovinski okus, razbijanje srca, glavobol, slabost, bruhanje in mravljinčenje v udih; simptomi se začnejo nekaj minut po pitju in običajno v nekaj urah izzvenijo, motnje srčnega ritma so redke. Zaradi tega tveganja številne ustanove odsvetujejo njeno uživanje. Črno tekočino raztopljenih klobukov so nekoč uporabljali kot črnilo.",
+      "confusion": "Coprinopsis romagnesiana ima na klobuku in spodnjem delu beta izrazite oranžnorjave do rjastorjave luske. Coprinopsis acuminata je nekoliko manjša, s koničastim, grbastim, manj nagubanim klobukom in ožjimi trosi. Coprinopsis alopecia ima kosmičast, pegast bet brez odebeljene osnove, bele kosmiče zastiralca na mladih klobukih in hrapave trose. Coprinellus micaceus je manjši, bolj rumenkastorjav do rdečkastorjav, mladi klobuki pa so posuti z bleščečimi, sljudi podobnimi zrnci. Coprinus comatus je višji, z belim, valjastim, kosmato luskastim klobukom in premičnim obročkom.",
+      "notes": "Koprin sam po sebi ni škodljiv: v telesu iz njega nastane 1-aminociklopropanol, ki zavira encim acetaldehid-dehidrogenazo, zato se acetaldehid iz alkohola kopiči. Sveži trosnjaki vsebujejo približno 130 mg koprina na kilogram. Ta reakcija je znana šele od začetka 20. stoletja, gobo pa so občasno uporabljali tudi za zdravljenje alkoholizma. V laboratorijskih poskusih so velike in dolgotrajne odmerke koprina poškodovali moda podgan in psov. Trosnjaki so tako močni, da lahko dvignejo tlakovce in se prebijejo skozi asfalt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+        "https://sl.wikipedia.org/wiki/Prava_tintovka"
+      ],
+      "label": "prava tintovka"
+    },
+    "sr": {
+      "description": "Честа гљива кратког века из групе гнојиштарки, која расте у бусенима из закопаног или трулог дрвета, често око старих пањева и корења, у шумама, парковима, вртовима, на травњацима, уз путеве и на другом поремећеном тлу. Распрострањена је на целој северној полулопти у Европи, Азији и Северној Америци, а забележена је и у Јужној Африци и Аустралији.",
+      "cap": "Шешир је широк 3–7 cm, потпуно раширен до 10 cm, и висок 3–8 cm. Најпре је јајаст, затим звонаст до купасто испупчен. Површина је сива до сивосмеђа, прилично глатка и од ивице фино избраздана до набрана, у средини са ситним, пљоснатим смеђкастим љуспицама. Са старењем ивица пуца, подврће се навише и црни, а шешир се од ивице ка средини разлива у црну течност налик мастилу.",
+      "hymenium": "Листићи су слободни или уско прирасли, веома густи и широки, најпре беличасти до бледосиви, затим смеђи и на крају црни, и заједно са шеширом се разливају у црно мастило. Ивице листића су фино пахуљичасте. Велике стерилне ћелије (цистиде) на листићима служе као одстојници који држе густе листиће раздвојене, а четвороспорне базидије окружују кратке стерилне брахибазидије.",
+      "stipe": "Дршка је дуга 5–15 cm и дебела 0,7–1,5 cm, ваљкаста и навише благо сужена, бела, глатка до фино влакнаста и благо свиласта, најпре пуна, касније шупља и крхка. Правог прстена нема, али доњи део дршке може имати црвенкастосмеђа влакна и слаб прстенаст обод од вела, а основа је често благо задебљала или се наставља у закопано дрво.",
+      "flesh": "Месо је бело до бледосиво, танко, меко и крхко, а при разливању поцрни. Мирис је слаб, а укус благ.",
+      "sporePrint": "Отисак спора је црн. Споре су елипсоидне до бадемасте, глатке, 6,5–11 × 4–6,5 µm, под микроскопом тамно црвенкастосмеђе, са централном клицином пором.",
+      "habitat": "Сапротрофна је на трулом дрвету и расте у густим бусенима, понекад појединачно, у подножју и око пањева, као и на закопаном дрвету и угинулом корењу, па може изгледати као да расте из земље. Јавља се у листопадним шумама, уз стазе и канале, у парковима, вртовима и на травњацима, уз путеве, на компосту и на запуштеном земљишту, а може да се пробије и кроз асфалт. У Европи доноси плодоносна тела од маја до новембра, понекад већ од априла, после кише често више пута годишње; у Северној Америци се јавља од пролећа до јесени, а понекад и зими.",
+      "uses": "Јестива је само млада, док су листићи још бели, и само без алкохола; треба је припремити истог дана када је убрана, пре него што почне да се разлива, а укус јој није ничим посебан. Садржи коприн, који у организму блокира разградњу алкохола слично леку дисулфираму (Антабус). Алкохол попијен у року од отприлике три дана пре или после оброка изазива црвенило лица, метални укус, лупање срца, главобољу, мучнину, повраћање и трњење удова; симптоми почињу неколико минута после пића и обично се смирују за неколико сати, а поремећаји срчаног ритма су ретки. Због овог ризика многе стручне установе саветују да се уопште не једе. Црна течност разливених шешира некада је коришћена као мастило.",
+      "confusion": "Coprinopsis romagnesiana има упадљиве наранџастосмеђе до рђастосмеђе љуспе на шеширу и доњем делу дршке. Coprinopsis acuminata је нешто мања, са шиљатим, грбавим, мање набраним шеширом и ужим спорама. Coprinopsis alopecia има пахуљичасту, пегаву дршку без задебљале основе, беле пахуљице вела на младим шеширима и храпаве споре. Coprinellus micaceus је мањи, више жућкастосмеђ до црвенкастосмеђ, а млади шешири носе светлуцава зрнца налик лискуну. Coprinus comatus је виши, са белим, ваљкастим, чупаво љуспастим шеширом и покретним прстеном.",
+      "notes": "Коприн сам по себи није штетан: у организму из њега настаје 1-аминоциклопропанол, који кочи ензим ацеталдехид-дехидрогеназу, па се ацеталдехид из алкохола нагомилава. Свежа плодоносна тела садрже око 130 mg коприна по килограму. Ова реакција позната је тек од почетка 20. века, а гљива је повремено коришћена у лечењу алкохолизма. У лабораторијским огледима велике и дуготрајне дозе коприна оштећивале су семенике пацова и паса. Плодоносна тела су толико снажна да могу да подигну плоче тротоара и пробију асфалт.",
+      "names": [],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/Сиви_јарчић"
+      ],
+      "label": "сиви јарчић"
+    },
+    "sv": {
+      "description": "En vanlig, kortlivad bläcksvamp som växer i knippen från nedgrävd eller multnande ved, ofta kring gamla stubbar och rötter, i skogar, parker, trädgårdar, gräsmattor, vägkanter och på annan störd mark. Den är spridd över hela norra halvklotet i Europa, Asien och Nordamerika och har även rapporterats från Sydafrika och Australien.",
+      "cap": "Hatten är 3–7 cm bred, upp till 10 cm när den är helt utbredd, och 3–8 cm hög. Den är först äggformad, sedan klocklik till konisk-välvd. Ytan är grå till gråbrun, ganska slät och fint fårad till veckad från kanten, med små, platta brunaktiga fjäll i mitten. Med åldern spricker kanten, rullar sig uppåt och svartnar, och hatten löses upp från kanten och inåt till en svart, bläckliknande vätska.",
+      "hymenium": "Skivorna är fria eller smalt fästade, mycket täta och breda, först vitaktiga till blekt grå, sedan bruna och till sist svarta, och de löses upp till svart bläck tillsammans med hatten. Eggen är fint flockig. Stora sterila celler (cystider) på skivorna fungerar som distanser som håller isär de täta skivorna, och de fyrsporiga basidierna omges av korta sterila brachybasidier.",
+      "stipe": "Foten är 5–15 cm lång och 0,7–1,5 cm tjock, cylindrisk och något avsmalnande uppåt, vit, slät till fint trådig och svagt sidenglänsande, först massiv, senare ihålig och skör. Någon äkta ring finns inte, men nedre delen av foten kan ha rödbruna fibrer och en svag ringlik kant efter höljet, och basen är ofta något uppsvälld eller fortsätter ner i den nedgrävda veden.",
+      "flesh": "Köttet är vitt till blekt grått, tunt, mjukt och skört och svartnar när det löses upp. Lukten är svag och smaken mild.",
+      "sporePrint": "Sporpulvret är svart. Sporerna är ellipsoida till mandelformade, släta, 6,5–11 × 4–6,5 µm, mörkt rödbruna i mikroskop, med en central groningspor.",
+      "habitat": "Den är saprotrof på nedbruten ved och växer i täta knippen, ibland ensam, vid basen av och runt stubbar samt på nedgrävd ved och döda rötter, så att den kan se ut att växa ur marken. Den förekommer i lövskog, längs stigar och diken, i parker, trädgårdar och gräsmattor, i vägrenar, på kompost och på ruderatmark och kan tränga upp genom asfalt. I Europa bildar den fruktkroppar från maj till november, ibland redan i april, ofta flera gånger om året efter regn; i Nordamerika visar den sig från vår till höst och ibland på vintern.",
+      "uses": "Ätlig bara som ung, medan skivorna ännu är vita, och bara utan alkohol; den måste tillagas samma dag som den plockas, innan den börjar lösas upp, och smaken är inget särskilt. Den innehåller koprin, som blockerar kroppens nedbrytning av alkohol ungefär som läkemedlet disulfiram (Antabus). Alkohol som dricks inom ungefär tre dagar före eller efter måltiden ger rodnad i ansiktet, metallsmak, hjärtklappning, huvudvärk, illamående, kräkningar och stickningar i armar och ben; besvären börjar minuter efter att man druckit och avtar oftast inom några timmar, och rubbningar i hjärtrytmen är sällsynta. På grund av denna risk avråder många myndigheter från att äta den. Den svarta vätskan från upplösta hattar användes förr som bläck.",
+      "confusion": "Coprinopsis romagnesiana har tydliga orangebruna till rostbruna fjäll på hatten och nedre delen av foten. Coprinopsis acuminata är något mindre, med en spetsig, puckelförsedd, mindre veckad hatt och smalare sporer. Coprinopsis alopecia har en flockig, prickig fot utan uppsvälld bas, vita höljerester på unga hattar och sträva sporer. Coprinellus micaceus är mindre och mer gulbrun till rödbrun, och unga hattar bär glittrande, glimmerlika korn. Coprinus comatus är högre, med en vit, cylindrisk, raggigt fjällig hatt och en lös ring.",
+      "notes": "Koprin är i sig ofarligt: i kroppen bildas 1-aminocyklopropanol, som hämmar enzymet acetaldehyddehydrogenas, så att acetaldehyd från alkohol ansamlas. Färska fruktkroppar innehåller omkring 130 mg koprin per kilogram. Reaktionen har bara varit känd sedan början av 1900-talet, och svampen har ibland använts för att behandla alkoholism. I laboratorieförsök skadade stora och långvariga doser koprin testiklarna hos råttor och hundar. Fruktkropparna är så starka att de kan lyfta gatstenar och tränga igenom asfalt.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5242740/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Grå_bläcksvamp"
+      ],
+      "label": "grå bläcksvamp"
+    },
+    "tr": {
+      "description": "Gömülü ya da çürümekte olan odundan, çoğunlukla eski kütüklerin ve köklerin çevresinde öbekler hâlinde çıkan, yaygın ve kısa ömürlü bir mürekkep mantarıdır; ormanlarda, parklarda, bahçelerde, çimenliklerde, yol kenarlarında ve diğer bozulmuş alanlarda görülür. Kuzey Yarımküre'nin tamamında Avrupa, Asya ve Kuzey Amerika'da yaygındır, Güney Afrika ve Avustralya'dan da kaydedilmiştir.",
+      "cap": "Şapka 3–7 cm çapında, tamamen açıldığında 10 cm'ye kadar ve 3–8 cm yüksekliktedir. Önce yumurta biçimli, sonra çan biçimliden konik-dışbükeye geçer. Yüzeyi gri ile gri-kahverengi arası, oldukça düzgün ve kenardan itibaren ince oluklu ya da pilili, ortasında küçük, yassı, kahverengimsi pullar vardır. Yaşlandıkça kenar yarılır, yukarı doğru kıvrılır ve kararır; şapka kenardan merkeze doğru siyah, mürekkep gibi bir sıvıya dönüşerek erir.",
+      "hymenium": "Lameller serbest ya da dar yapışık, çok sık ve geniştir; önce beyazımsı ile soluk gri, sonra kahverengi ve en sonunda siyah olur ve şapkayla birlikte siyah mürekkebe dönüşerek erir. Lamel kenarları ince pamuksudur. Lamellerdeki büyük kısır hücreler (sistidler) sık lamelleri birbirinden ayrı tutan ara parçaları gibi çalışır ve dört sporlu bazidyumlar kısa kısır brakibazidyumlarla çevrilidir.",
+      "stipe": "Sap 5–15 cm uzunluğunda ve 0,7–1,5 cm kalınlığında, silindirik ve yukarıya doğru hafifçe incelen, beyaz, düzgünden ince lifli ve hafif ipeksidir; önce dolu, sonra içi boş ve kırılgandır. Gerçek bir halkası yoktur, ancak sapın alt kısmında kırmızımsı kahverengi lifler ve örtüden kalan belli belirsiz halka benzeri bir kenar bulunabilir; taban çoğunlukla hafifçe şişkindir ya da gömülü oduna doğru uzanır.",
+      "flesh": "Etli kısım beyaz ile soluk gri arası, ince, yumuşak ve kırılgandır ve eridikçe kararır. Kokusu zayıf, tadı hafiftir.",
+      "sporePrint": "Spor izi siyahtır. Sporlar elipsoit ile badem biçimli arası, düzgün, 6,5–11 × 4–6,5 µm, mikroskopta koyu kırmızımsı kahverengi ve merkezî bir çimlenme gözeneklidir.",
+      "habitat": "Çürüyen odun üzerinde saprotrofik olarak yaşar ve sık öbekler hâlinde, bazen tek tek, kütüklerin dibinde ve çevresinde, gömülü odunda ve ölü köklerde çıkar; bu yüzden topraktan çıkıyormuş gibi görünebilir. Geniş yapraklı ormanlarda, patika ve hendek kenarlarında, parklarda, bahçelerde ve çimenliklerde, yol kenarlarında, kompostta ve boş arazilerde bulunur, hatta asfaltı delip çıkabilir. Avrupa'da mayıstan kasıma, bazen nisandan itibaren meyve verir ve yağmurlardan sonra çoğu zaman yılda birkaç kez çıkar; Kuzey Amerika'da ilkbahardan sonbahara, bazen de kışın görülür.",
+      "uses": "Yalnızca gençken, lameller hâlâ beyazken ve yalnızca alkol olmadan yenebilir; erimeye başlamadan önce toplandığı gün pişirilmelidir ve tadı sıradandır. Vücutta alkolün parçalanmasını disülfiram (Antabus) ilacına benzer biçimde engelleyen koprin içerir. Yemekten yaklaşık üç gün önce ya da sonra içilen alkol yüzde kızarma, metalik tat, çarpıntı, baş ağrısı, bulantı, kusma ve kol ve bacaklarda karıncalanmaya yol açar; belirtiler içtikten birkaç dakika sonra başlar ve genellikle birkaç saat içinde hafifler, kalp ritmi bozuklukları nadirdir. Bu risk nedeniyle birçok kurum hiç yenmemesini önerir. Erimiş şapkaların siyah sıvısı bir zamanlar mürekkep olarak kullanılmıştır.",
+      "confusion": "Coprinopsis romagnesiana'nın şapkasında ve sapının alt kısmında belirgin turuncu-kahverengi ile pas kahverengisi pullar vardır. Coprinopsis acuminata biraz daha küçüktür; şapkası sivri, tümsekli ve daha az pililidir, sporları daha dardır. Coprinopsis alopecia'nın sapı pamuksu ve beneklidir, tabanı şişkin değildir, genç şapkalarında beyaz örtü pulları ve pürüzlü sporları vardır. Coprinellus micaceus daha küçüktür, daha çok sarımsı kahverengi ile kırmızımsı kahverengidir ve genç şapkalarında mika gibi parlayan tanecikler bulunur. Coprinus comatus daha uzundur; şapkası beyaz, silindirik ve tüylü pulludur, hareketli bir halkası vardır.",
+      "notes": "Koprin tek başına zararsızdır: vücutta ondan 1-aminosiklopropanol oluşur, bu da asetaldehit dehidrogenaz enzimini baskılar ve böylece alkolden gelen asetaldehit birikir. Taze meyve gövdeleri kilogram başına yaklaşık 130 mg koprin içerir. Bu tepki ancak 20. yüzyılın başından beri bilinmektedir ve mantar zaman zaman alkolizm tedavisinde kullanılmıştır. Laboratuvar deneylerinde yüksek ve uzun süreli koprin dozları sıçanların ve köpeklerin testislerine zarar vermiştir. Meyve gövdeleri kaldırım taşlarını kaldıracak ve asfaltı delecek kadar güçlüdür.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Поширений, недовговічний гнойовик, що росте пучками з похованої або гниючої деревини, часто навколо старих пнів і коренів, у лісах, парках, садах, на газонах, узбіччях доріг та інших порушених місцях. Він поширений по всій Північній півкулі в Європі, Азії та Північній Америці, а також відомий з Південної Африки та Австралії.",
+      "cap": "Шапка 3–7 cm у діаметрі, повністю розкрита — до 10 cm, і 3–8 cm заввишки. Спочатку вона яйцеподібна, потім дзвоникоподібна до конусоподібно-опуклої. Поверхня сіра до сіро-коричневої, досить гладенька, від краю тонко борозниста до складчастої, у центрі з дрібними пласкими коричнюватими лусочками. З віком край розривається, загинається догори й чорніє, а шапка від краю до центру розпливається в чорну, схожу на чорнило рідину.",
+      "hymenium": "Пластинки вільні або вузько прирослі, дуже густі й широкі, спочатку білуваті до блідо-сірих, потім коричневі й нарешті чорні, разом із шапкою розпливаються в чорне чорнило. Край пластинок тонко пластівчастий. Великі стерильні клітини (цистиди) на пластинках слугують розпірками, що тримають густі пластинки на відстані одна від одної, а чотириспорові базидії оточені короткими стерильними брахібазидіями.",
+      "stipe": "Ніжка 5–15 cm завдовжки і 0,7–1,5 cm завтовшки, циліндрична, догори трохи звужена, біла, гладенька до тонковолокнистої та злегка шовковиста, спочатку суцільна, згодом порожниста й ламка. Справжнього кільця немає, але в нижній частині ніжки можуть бути червонувато-коричневі волокна і слабкий кільцеподібний валик — залишок покривала, а основа часто злегка потовщена або заходить у поховану деревину.",
+      "flesh": "М'якуш білий до блідо-сірого, тонкий, м'який і ламкий, під час розпливання чорніє. Запах слабкий, смак м'який.",
+      "sporePrint": "Спорова маса чорна. Спори еліпсоїдні до мигдалеподібних, гладенькі, 6,5–11 × 4–6,5 µm, під мікроскопом темні червонувато-коричневі, з центральною ростковою порою.",
+      "habitat": "Сапротроф на гниючій деревині; росте густими пучками, іноді поодинці, біля основи й навколо пнів, а також на похованій деревині та відмерлих коренях, тож може здаватися, що він росте просто з ґрунту. Трапляється в листяних лісах, уздовж стежок і канав, у парках, садах і на газонах, на узбіччях доріг, на компості й пустирях і може пробиватися навіть крізь асфальт. У Європі плодоносить з травня по листопад, іноді вже з квітня, після дощів часто кілька разів на рік; у Північній Америці з'являється від весни до осені, а іноді й узимку.",
+      "uses": "Їстівний лише молодим, поки пластинки ще білі, і лише без алкоголю; його треба приготувати в день збирання, доки він не почав розпливатися, а смак у нього нічим не примітний. Містить коприн, який блокує розщеплення алкоголю в організмі подібно до препарату дисульфірам (Антабус). Алкоголь, випитий приблизно протягом трьох днів до або після їжі, спричиняє почервоніння обличчя, металевий присмак, серцебиття, головний біль, нудоту, блювання та поколювання в кінцівках; симптоми починаються за кілька хвилин після вживання спиртного й зазвичай минають за кілька годин, порушення серцевого ритму рідкісні. Через цей ризик багато фахових установ радять зовсім його не їсти. Чорну рідину розпливлих шапок колись використовували як чорнило.",
+      "confusion": "Coprinopsis romagnesiana має помітні помаранчево-коричневі до іржасто-коричневих лусочки на шапці та в нижній частині ніжки. Coprinopsis acuminata трохи менший, із загостреною, горбкуватою, менш складчастою шапкою та вужчими спорами. Coprinopsis alopecia має пластівчасту, цяткову ніжку без потовщеної основи, білі пластівці покривала на молодих шапках і шорсткі спори. Coprinellus micaceus менший, радше жовтувато-бурий до червонувато-коричневого, а молоді шапки вкриті блискучими, схожими на слюду крупинками. Coprinus comatus вищий, з білою циліндричною кошлато-лускатою шапкою та рухомим кільцем.",
+      "notes": "Сам по собі коприн нешкідливий: в організмі з нього утворюється 1-аміноциклопропанол, який пригнічує фермент ацетальдегіддегідрогеназу, тож ацетальдегід з алкоголю накопичується. Свіжі плодові тіла містять близько 130 мг коприну на кілограм. Цю реакцію відомо лише з початку XX століття, а гриб іноді використовували для лікування алкоголізму. У лабораторних дослідах великі й тривалі дози коприну пошкоджували сім'яники щурів і собак. Плодові тіла настільки сильні, що можуть піднімати тротуарну плитку й пробиватися крізь асфальт.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Гнойовик_чорнильний",
+        "https://api.gbif.org/v1/species/5242740/vernacularNames"
+      ],
+      "label": "гнойовик чорнильний"
+    },
+    "zh": {
+      "description": "一種常見、短命的鬼傘，從埋藏或腐朽的木材上成叢生長，常見於老樹樁和樹根周圍，出現在林地、公園、花園、草坪、路邊及其他受擾動的地面。廣泛分布於整個北半球的歐洲、亞洲和北美洲，在南非和澳洲也有紀錄。",
+      "cap": "菌蓋直徑3–7 cm，完全展開時可達10 cm，高3–8 cm。初為卵形，後呈鐘形至圓錐狀凸形。表面灰色至灰褐色，相當平滑，自邊緣起有細條紋或褶狀溝紋，中央有細小、扁平的褐色鱗片。隨著老化，邊緣開裂、向上捲起並變黑，菌蓋從邊緣向中央溶解成黑色墨汁狀的液體。",
+      "hymenium": "菌褶離生或窄貼生，非常密而寬，初為白色至淡灰色，後轉褐色，最後變黑，並與菌蓋一同溶解成黑色墨汁。褶緣有細絮狀物。菌褶上的大型不孕細胞（囊狀體）如同間隔物，使密集的菌褶彼此分開，四孢擔子周圍環繞著短的不孕短擔子。",
+      "stipe": "菌柄長5–15 cm，粗0.7–1.5 cm，圓柱形，向上略細，白色，平滑至具細纖毛，略帶絲光，初為實心，後變中空而易碎。沒有真正的菌環，但菌柄下部可有紅褐色纖毛及菌幕殘留的模糊環狀邊緣，基部常略膨大或延伸入埋藏的木材中。",
+      "flesh": "菌肉白色至淡灰色，薄、軟而易碎，溶解時變黑。氣味微弱，味道溫和。",
+      "sporePrint": "孢子印黑色。孢子橢圓形至杏仁形，平滑，6.5–11 × 4–6.5 µm，在顯微鏡下呈暗紅褐色，有一個中央發芽孔。",
+      "habitat": "為腐朽木材上的腐生菌，密集成叢生長，有時單生，長在樹樁基部和周圍以及埋藏的木材和枯死的樹根上，因此看起來像從土中長出。見於闊葉林、小徑和溝渠旁、公園、花園和草坪、路肩、堆肥和荒地上，甚至能頂破柏油路面。在歐洲於5月至11月出菇，有時從4月開始，雨後常一年出現數次；在北美洲則從春季到秋季出現，有時冬季也會出現。",
+      "uses": "僅在幼嫩、菌褶仍為白色時，且完全不飲酒的情況下才可食用；必須在採摘當天、開始溶解之前烹調，味道並不出色。含有鬼傘素，會像藥物雙硫崙（戒酒硫）一樣阻斷體內酒精的分解。在進食前後約三天內飲酒，會引起臉部潮紅、金屬味、心悸、頭痛、噁心、嘔吐及四肢刺麻感，症狀在飲酒後數分鐘出現，通常在數小時內緩解；心律紊亂很少見。由於這種風險，許多機構建議完全不要食用。溶解菌蓋的黑色液體過去曾被用作墨水。",
+      "confusion": "Coprinopsis romagnesiana 的菌蓋和菌柄下部有明顯的橙褐色至鏽褐色鱗片。Coprinopsis acuminata 稍小，菌蓋尖、有臍突、褶狀溝紋較少，孢子較窄。Coprinopsis alopecia 的菌柄呈絮狀、有斑點，基部不膨大，幼蓋上有白色菌幕碎片，孢子表面粗糙。Coprinellus micaceus 較小，偏黃褐色至紅褐色，幼蓋上有雲母般閃亮的顆粒。Coprinus comatus 較高，菌蓋白色、圓柱形、具蓬鬆鱗片，並有可移動的菌環。",
+      "notes": "鬼傘素本身無害：它在體內產生1-胺基環丙醇，抑制乙醛去氫酶，使酒精產生的乙醛累積。新鮮子實體每公斤約含130毫克鬼傘素。這種反應直到20世紀初才為人所知，這種蕈類偶爾也被用來治療酗酒。在實驗室試驗中，大劑量且長期的鬼傘素損害了大鼠和狗的睪丸。子實體的力量足以頂起鋪路石並穿透柏油路面。",
+      "names": [],
+      "sourceUrls": [
+        "https://taicol.tw/zh-hant/taxon/t0035123",
+        "https://zh.wikipedia.org/wiki/墨汁鬼傘"
+      ],
+      "label": "墨汁鬼傘"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t55u \"signature Gemini\"). The supplied file \"Coprinopsis atramentaria.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing faint cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca1.webp",
+      "author": "denise_harris",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/320871836"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca2.webp",
+      "author": "Vincent B.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/751297716"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca3.webp",
+      "author": "Carlene Cliver",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/57327501"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca4.webp",
+      "author": "tessmcbride",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/65980421"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca5.webp",
+      "author": "Vincent B.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/751297796"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/Coprinopsis_atramentaria@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing faint cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca1.webp",
+      "author": "denise_harris",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/320871836"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca2.webp",
+      "author": "Vincent B.",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/751297716"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca3.webp",
+      "author": "Carlene Cliver",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/57327501"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca4.webp",
+      "author": "tessmcbride",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/65980421"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_atramentaria/ca5.webp",
+      "author": "Vincent B.",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/751297796"
+    }
+  ],
+  "synonyms": [
+    "Agaricus atramentarius",
+    "Hypophyllum atramentarium",
+    "Coprinus atramentarius",
+    "Pselliophora atramentaria",
+    "Agaricus fuscescens",
+    "Coprinus fuscescens",
+    "Pselliophora fuscescens",
+    "Coprinopsis fuscescens",
+    "Coprinus atramentarius subsp. fuscescens",
+    "Agaricus luridus",
+    "Coprinus luridus",
+    "Agaricus sobolifer",
+    "Coprinus fuscescens var. soboliferus",
+    "Coprinus plicatus",
+    "Agaricus plicatus",
+    "Coprinus sobolifer",
+    "Pselliophora sobolifera",
+    "Coprinus atramentarius var. sobolifer"
+  ],
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 166,
+  "added": "2026-11-14",
+  "citation": "in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 226 (2001)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 111,
+        "box": [
+          472,
+          584,
+          9,
+          13
+        ],
+        "medianContrast": 3.38
+      },
+      {
+        "area": 262,
+        "box": [
+          420,
+          599,
+          20,
+          20
+        ],
+        "medianContrast": 2.14
+      },
+      {
+        "area": 42,
+        "box": [
+          529,
+          607,
+          8,
+          7
+        ],
+        "medianContrast": 2.62
+      },
+      {
+        "area": 183,
+        "box": [
+          359,
+          614,
+          11,
+          20
+        ],
+        "medianContrast": 2.34
+      },
+      {
+        "area": 35,
+        "box": [
+          101,
+          685,
+          5,
+          7
+        ],
+        "medianContrast": 2.39
+      },
+      {
+        "area": 651,
+        "box": [
+          519,
+          709,
+          49,
+          47
+        ],
+        "medianContrast": 4.21
+      },
+      {
+        "area": 2929,
+        "box": [
+          591,
+          719,
+          58,
+          89
+        ],
+        "medianContrast": 1.29
+      },
+      {
+        "area": 396,
+        "box": [
+          541,
+          732,
+          20,
+          37
+        ],
+        "medianContrast": 2.83
+      },
+      {
+        "area": 25,
+        "box": [
+          651,
+          751,
+          5,
+          5
+        ],
+        "medianContrast": 3.04
+      },
+      {
+        "area": 25,
+        "box": [
+          585,
+          765,
+          5,
+          5
+        ],
+        "medianContrast": 2.0
+      },
+      {
+        "area": 25,
+        "box": [
+          524,
+          769,
+          5,
+          5
+        ],
+        "medianContrast": 3.91
+      },
+      {
+        "area": 30,
+        "box": [
+          544,
+          770,
+          5,
+          6
+        ],
+        "medianContrast": 2.4
+      },
+      {
+        "area": 56,
+        "box": [
+          473,
+          773,
+          8,
+          7
+        ],
+        "medianContrast": 4.48
+      },
+      {
+        "area": 30,
+        "box": [
+          581,
+          779,
+          6,
+          5
+        ],
+        "medianContrast": 2.79
+      },
+      {
+        "area": 25,
+        "box": [
+          553,
+          785,
+          5,
+          5
+        ],
+        "medianContrast": 4.24
+      },
+      {
+        "area": 474,
+        "box": [
+          78,
+          789,
+          26,
+          28
+        ],
+        "medianContrast": 2.19
+      },
+      {
+        "area": 30,
+        "box": [
+          579,
+          788,
+          6,
+          5
+        ],
+        "medianContrast": 3.17
+      },
+      {
+        "area": 431,
+        "box": [
+          632,
+          791,
+          34,
+          25
+        ],
+        "medianContrast": 2.17
+      },
+      {
+        "area": 35,
+        "box": [
+          578,
+          794,
+          6,
+          6
+        ],
+        "medianContrast": 2.85
+      },
+      {
+        "area": 46,
+        "box": [
+          624,
+          794,
+          7,
+          7
+        ],
+        "medianContrast": 2.17
+      },
+      {
+        "area": 65,
+        "box": [
+          674,
+          815,
+          10,
+          9
+        ],
+        "medianContrast": 3.25
+      },
+      {
+        "area": 48,
+        "box": [
+          645,
+          823,
+          9,
+          6
+        ],
+        "medianContrast": 2.7
+      },
+      {
+        "area": 65,
+        "box": [
+          521,
+          831,
+          9,
+          8
+        ],
+        "medianContrast": 3.89
+      },
+      {
+        "area": 25,
+        "box": [
+          632,
+          832,
+          5,
+          5
+        ],
+        "medianContrast": 3.38
+      },
+      {
+        "area": 75,
+        "box": [
+          504,
+          848,
+          10,
+          11
+        ],
+        "medianContrast": 3.29
+      },
+      {
+        "area": 25,
+        "box": [
+          497,
+          871,
+          5,
+          5
+        ],
+        "medianContrast": 5.12
+      },
+      {
+        "area": 40,
+        "box": [
+          296,
+          875,
+          8,
+          5
+        ],
+        "medianContrast": 4.77
+      },
+      {
+        "area": 143,
+        "box": [
+          114,
+          936,
+          15,
+          12
+        ],
+        "medianContrast": 2.08
+      },
+      {
+        "area": 23,
+        "box": [
+          139,
+          999,
+          4,
+          6
+        ],
+        "medianContrast": 2.67
+      },
+      {
+        "area": 71,
+        "box": [
+          152,
+          1014,
+          12,
+          8
+        ],
+        "medianContrast": 3.83
+      },
+      {
+        "area": 40,
+        "box": [
+          601,
+          1033,
+          7,
+          6
+        ],
+        "medianContrast": 2.21
+      }
+    ],
+    "holeRule": "enclosed near-paper regions (median contrast<7) cleared except inside KEEP boxes",
+    "keepBoxes": [
+      [
+        680,
+        340,
+        845,
+        795
+      ],
+      [
+        372,
+        600,
+        418,
+        890
+      ]
+    ],
+    "keptEnclosedRegions": [
+      {
+        "area": 47,
+        "box": [
+          784,
+          369,
+          7,
+          7
+        ]
+      },
+      {
+        "area": 971,
+        "box": [
+          743,
+          374,
+          28,
+          73
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          796,
+          379,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 576,
+        "box": [
+          784,
+          392,
+          26,
+          40
+        ]
+      },
+      {
+        "area": 87,
+        "box": [
+          744,
+          413,
+          9,
+          11
+        ]
+      },
+      {
+        "area": 518,
+        "box": [
+          695,
+          414,
+          27,
+          37
+        ]
+      },
+      {
+        "area": 97,
+        "box": [
+          760,
+          511,
+          13,
+          14
+        ]
+      },
+      {
+        "area": 134,
+        "box": [
+          767,
+          520,
+          10,
+          24
+        ]
+      },
+      {
+        "area": 30,
+        "box": [
+          746,
+          531,
+          6,
+          5
+        ]
+      },
+      {
+        "area": 84,
+        "box": [
+          745,
+          538,
+          6,
+          14
+        ]
+      },
+      {
+        "area": 84,
+        "box": [
+          745,
+          572,
+          7,
+          12
+        ]
+      },
+      {
+        "area": 80,
+        "box": [
+          744,
+          600,
+          10,
+          8
+        ]
+      },
+      {
+        "area": 30,
+        "box": [
+          771,
+          601,
+          5,
+          6
+        ]
+      },
+      {
+        "area": 89,
+        "box": [
+          407,
+          608,
+          9,
+          11
+        ]
+      },
+      {
+        "area": 61,
+        "box": [
+          746,
+          609,
+          8,
+          8
+        ]
+      },
+      {
+        "area": 47,
+        "box": [
+          746,
+          619,
+          7,
+          7
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          404,
+          633,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 168,
+        "box": [
+          744,
+          672,
+          8,
+          22
+        ]
+      },
+      {
+        "area": 71,
+        "box": [
+          744,
+          704,
+          8,
+          10
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          744,
+          715,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 142,
+        "box": [
+          387,
+          720,
+          8,
+          23
+        ]
+      },
+      {
+        "area": 121,
+        "box": [
+          381,
+          750,
+          13,
+          11
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          762,
+          772,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 374,
+        "box": [
+          384,
+          789,
+          15,
+          35
+        ]
+      }
+    ],
+    "paperPatchesExcluded": [
+      {
+        "area": 273.0,
+        "box": [
+          126,
+          1032,
+          18,
+          40
+        ],
+        "medianContrast": 6.438652027540056
+      },
+      {
+        "area": 235.0,
+        "box": [
+          73,
+          994,
+          23,
+          48
+        ],
+        "medianContrast": 6.547709993257914
+      }
+    ],
+    "edgePaperPixelsPeeled": 6615,
+    "paperResidualP995": 2.6605772841348054,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Coprinopsis atramentaria.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "c92395442cb749e7ad23b9b584da1d433faf204052c9c9da74d08c9760c07b99",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      61,
+      335,
+      847,
+      1065
+    ],
+    "uniformScale": 1.7811704834605597,
+    "placement": [
+      100,
+      550
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1300
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 682416,
+    "opaquePixels": 368256,
+    "partialAlphaPixels": 24528,
+    "signatureBox": [
+      698,
+      1015,
+      782,
+      1060
+    ],
+    "signatureComponents": 7,
+    "signaturePixels": 249,
+    "preservedObjects": [
+      "main group, centre: two tall mature fruit bodies with bell-shaped, grey to grey-brown, radially grooved caps bearing small brownish scales at the centre, on long white stems",
+      "main group, front left: four young egg-shaped to oval grey caps (two in front, two behind) with fine brownish apical scales, on short white stems among grass",
+      "main group, middle: a partly hidden grey bell-shaped cap behind the tall stems, and a ragged ring-like zone on two of the stems",
+      "main group, right: a leaning older fruit body whose cap margin is rolled up, blackened and deliquescing into drops of black ink",
+      "habitat: a mossy, rotting tree stump behind the cluster, grass blades, soil with moss, a bare twig and fallen brown birch-like leaves, one leaf spotted with black ink",
+      "upper right, detached: a vertical cut section of a cap and stem showing a white stem running up into a bell-shaped cap, crowded pale gills greying to black at the lower edge",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t55u; IDs 154-165 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 351519.0,
+        "box": [
+          62,
+          384,
+          730,
+          680
+        ],
+        "medianContrast": 89.83665316024376
+      },
+      {
+        "area": 37485.5,
+        "box": [
+          672,
+          336,
+          174,
+          464
+        ],
+        "medianContrast": 16.30071130017179
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection of composition_lossless.png, transparency_checker.png and original_vs_composition.jpg: all drawn objects kept with real alpha on the standard background at one uniform upscale (x1.781 from the 896x1200 JPEG source; some softness at full size). Kept as drawn: the stump with moss, the tufted cluster of young egg-shaped and mature bell-shaped grey caps on white stems with ring-like collars, the leaning fruit body dissolving into black ink drops, grass, soil, twig and fallen leaves (one ink-spotted), the detached cut section upper right, and the faint cursive \"Gemini\" mark at bottom right. 31 enclosed near-paper gaps (6461 px) between stems, grass and caps were cleared; 24 enclosed pale regions inside two fixed KEEP boxes (the cut section and the tall white stem, whose RGB equals paper) stay opaque. Two small faint soil-wash fringes at the lower left (18x40 px, 23x48 px) were excluded as paper.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t55u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-165. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 896x1200 source",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG/JFIF with EXIF (software=Picasa) and no source alpha, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform cream paper with a soft darker vignette at the edges"
+      ],
+      "anatomyCaveat": "Anatomy broadly matches C. atramentaria (tufted clusters at the base of a rotting stump; grey to grey-brown, egg-shaped young caps opening bell-shaped, radially grooved, with small brownish scales at the centre; white stems; older caps blackening and dissolving into black ink from the margin; crowded pale gills turning black). Caveats: the ragged ring-like collars are drawn on several stems, some well above the base, whereas in this species it is a faint fibrillose zone low on the stem near the base; the inky margin of the leaning cap is drawn as thick rolled curls, more dramatic than the real ragged, dissolving edge; the cut section shows a solid stem (the real stem is hollow) and no gill attachment detail. The twig, stump moss and leaves are decorative habitat elements. AI-generated look (Gemini mark), rights and authorship unverified; decision for Adrian.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Coprinopsis_atramentaria@1600.webp",
+        "bytes": 337044,
+        "sha256": "862c62f756e872469d8b6244b44bbc1b5f41940216819fc0e5c3cb6aa497cad9"
+      },
+      {
+        "path": "media/Coprinopsis_atramentaria@400.webp",
+        "bytes": 40896,
+        "sha256": "a770bda2eaa1f4698398a74306565327ea5da378567b9bb1c91587ecd8f920f4"
+      }
+    ]
+  }
+},
+{
+  "name": "Craterellus tubaeformis",
+  "author": "(Fr.) Quél.",
+  "family": "Hydnaceae",
+  "genus": "Craterellus",
+  "order": "Cantharellales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Cantharellales",
+    "Hydnaceae",
+    "Craterellus"
+  ],
+  "summary": [
+    "Cantharellales",
+    "Hydnaceae",
+    "Craterellus"
+  ],
+  "edibility": "choice",
+  "hymenium": "ridges",
+  "where": [
+    "ground",
+    "wood"
+  ],
+  "color": [
+    "brown",
+    "yellow"
+  ],
+  "capFrom": 2.0,
+  "capTo": 6.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 1.0,
+  "label": {
+    "ar": null,
+    "bg": null,
+    "cs": "liška nálevkovitá",
+    "da": "tragtkantarel",
+    "de": "Trompetenpfifferling",
+    "en": "trumpet chanterelle",
+    "es": "rebozuelo atrompetado",
+    "et": "lehter-torbikseen",
+    "fa": null,
+    "fi": "suppilovahvero",
+    "fr": "chanterelle en tube",
+    "he": null,
+    "hi": null,
+    "hr": "ljevkasta lisičica",
+    "hu": "tölcséres rókagomba",
+    "id": null,
+    "it": null,
+    "ja": "ミキイロウスタケ",
+    "ko": "깔때기꾀꼬리버섯",
+    "lt": "rudasis trimitėlis",
+    "lv": "sekstainā gailene",
+    "nl": "Trechtercantharel",
+    "no": "traktkantarell",
+    "pl": "lejkowiec trąbkowy",
+    "pt": null,
+    "ro": "trompeta căprioarei",
+    "ru": "лисичка трубчатая",
+    "sk": "kuriatko lievikovité",
+    "sl": "lijasta trobenta",
+    "sr": "ситна лисичарка",
+    "sv": "trattkantarell",
+    "tr": null,
+    "uk": "лисичка трубчаста",
+    "zh": "管形喇叭菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [
+      "tragt-kantarel"
+    ],
+    "de": [
+      "Trompeten-Pfifferling",
+      "Durchbohrter Leistling"
+    ],
+    "en": [
+      "yellowfoot",
+      "winter chanterelle",
+      "funnel chanterelle",
+      "yellowlegs"
+    ],
+    "es": [],
+    "et": [
+      "lehter-kukeseen"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "chanterelle grise",
+      "chanterelle d'automne"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "pieprznik trąbkowy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "лисичка ворончатая",
+      "лисичка трубковидная"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "管形雞油菌"
+    ]
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Craterellus-tubaeformis/",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "da": [
+      "https://da.wikipedia.org/wiki/Tragtkantarel",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Trompetenpfifferling",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=455453",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=455453",
+      "https://www.gbif.org/species/2554536",
+      "https://www.catalogueoflife.org/data/taxon/Z8TV",
+      "https://www.wikidata.org/wiki/Q371126",
+      "https://www.inaturalist.org/taxa/350511-Craterellus-tubaeformis",
+      "https://www.mushroomexpert.com/craterellus_tubaeformis.html",
+      "https://en.wikipedia.org/wiki/Craterellus_tubaeformis",
+      "https://www.first-nature.com/fungi/cantharellus-tubaeformis.php",
+      "https://de.wikipedia.org/wiki/Trompetenpfifferling",
+      "https://www.nahuby.sk/atlas-hub/Craterellus-tubaeformis/kuriatko-lievikovite/liska-nalevkovita/ID232",
+      "https://www.myko.cz/myko-atlas/Craterellus-tubaeformis/",
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "es": [
+      "https://www.fichasmicologicas.com/?alf=*&art=264&micos=1",
+      "https://micoradar.com/es/setas/rebozuelo-atrompetado"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Lehter-torbikseen",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Suppilovahvero"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://fr.wikipedia.org/wiki/Craterellus_tubaeformis",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://cromushrooms.eu/images/files/popisgljivazaispite.pdf"
+    ],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://ja.wikipedia.org/wiki/アンズタケ"
+    ],
+    "ko": [
+      "https://species.nibr.go.kr/"
+    ],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "lv": [
+      "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Trechtercantharel"
+    ],
+    "no": [
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Lejkowiec_trąbkowy",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Craterellus_tubaeformis"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Лисичка_трубчатая",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Craterellus-tubaeformis/kuriatko-lievikovite/liska-nalevkovita/ID232",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=455453",
+      "https://www.gbif.org/species/2554536"
+    ],
+    "sl": [
+      "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+      "https://api.gbif.org/v1/species/2554536/vernacularNames"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Ситна_лисичарка"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Trattkantarell"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Лисичка_трубчаста"
+    ],
+    "zh": [
+      "https://api.gbif.org/v1/species/2554536/vernacularNames",
+      "https://zh.wikipedia.org/wiki/喇叭菌属"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر صغير نحيل على شكل قمع، ينمو غالبًا في مجموعات كبيرة، وأحيانًا بالآلاف، بين الطحالب تحت الأشجار المخروطية. وهو واسع الانتشار في المنطقتين المعتدلة الباردة والشمالية من نصف الكرة الشمالي، في أوروبا وشمال آسيا وأمريكا الشمالية، كما سُجّل في جبال الهيمالايا. وهو شائع جدًا في إسكندنافيا، بينما يوجد في المناطق الأبعد جنوبًا من أوروبا أساسًا في التلال والجبال.",
+      "cap": "يبلغ قطر القبعة ٢–٦ cm ولحمها رقيق. تكون في البداية محدّبة مع انخفاض يشبه السرّة، ثم تصبح سريعًا قمعية أو بوقية الشكل، وكثيرًا ما تكون مثقوبة في الوسط حتى الساق المجوفة. تكون الحافة ملتفة إلى الداخل في الثمار الفتية، ثم تصبح مع التقدم في العمر متموجة ومفصّصة وممزقة. سطحها بني مصفرّ إلى بني داكن أو بني رمادي، وأحيانًا بمسحة زيتونية، ذو حراشف دقيقة إلى لبّادي، وشمعي قليلًا عند الرطوبة؛ ويبهت مع العمر إلى لون رمادي.",
+      "hymenium": "بدلًا من الصفائح الحقيقية توجد ثنيات كليلة منخفضة تشبه العروق، تمتد بعيدًا إلى أسفل الساق، وتتفرع مرارًا تفرعًا شوكيًا، وتربط بينها عروق عرضية. تكون في البداية مصفرّة، ثم سرعان ما تصبح رمادية مع غبرة خفيفة، وأحيانًا بمسحة ليلكية، ونادرًا ما تبقى صفراء باهتة.",
+      "stipe": "يبلغ طول الساق ٤–٨ cm وسمكها ٠٫٣–١ cm، وهي أسطوانية غير منتظمة، وكثيرًا ما تكون مفلطحة أو مخدّدة، ملساء وشمعية، صفراء إلى صفراء برتقالية أو بنية مصفرّة، ورمادية مباشرة تحت القبعة. وهي مجوفة من وسط القبعة حتى القاعدة تقريبًا؛ وكثيرًا ما تكون القاعدة هراوية قليلًا، مع غزل فطري أبيض مائل إلى أصفر باهت.",
+      "flesh": "اللحم رقيق ومرن، مصفرّ إلى بنّي. الرائحة والطعم غير مميزين، وأحيانًا عطريان قليلًا؛ وقد يكون طعمه نيئًا لاذعًا قليلًا كالفلفل.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى صفراء باهتة جدًا. الأبواغ إهليلجية عريضة إلى شبه كروية، ملساء وعديمة اللون، ٨–١٢ × ٦–١٠ µm.",
+      "habitat": "يكوّن جذورًا فطرية (ميكوريزا) مع الأشجار المخروطية، ولا سيما التنوب والشوح، وأحيانًا مع الأشجار عريضة الأوراق مثل الزان. ينمو في جماعات، وغالبًا بأعداد كبيرة جدًا، بين الطحالب وعلى خشب شديد التحلل مكسوّ بالطحالب، في الغابات المخروطية والمختلطة الرطبة الحمضية الفقيرة بالمغذيات وفي المستنقعات الخثية. وفي أوروبا يثمر من أغسطس إلى ديسمبر، أي في وقت متأخر عن معظم الفطور الصالحة للأكل الأخرى.",
+      "uses": "فطر جيد صالح للأكل ومقدَّر كثيرًا. ورغم رقة لحمه، يسهل جمعه بكميات كبيرة حيث ينمو، وله قوام متماسك لطيف وطعم معتدل. يناسب الحساء والصلصات وأطباق اللحم والمعكرونة، ويجفّ جيدًا، لذا يمكن تخزينه للشتاء. وكما هو الحال مع أي فطر بري، لا تأكل إلا الثمار المعرَّفة بيقين تام.",
+      "confusion": "Craterellus lutescens أزهى لونًا، ساقه صفراء برتقالية، وسطحه السفلي أملس تقريبًا أو متجعد فقط دون ثنيات واضحة، وله رائحة فاكهية، ويفضّل الأماكن الأكثر رطوبة. Craterellus cinereus رمادي إلى بني رمادي بالكامل دون درجات صفراء. Cantharellus cibarius أكبر وأكثر اكتنازًا وأصفر بالكامل، ساقه مصمتة ورائحته تشبه المشمش. أما Leotia lubrica غير الصالحة للأكل فقد تنمو في الأماكن نفسها، لكنها مطاطية هلامية، ورأسها صغير بلا ثنيات أو تجاعيد في الأسفل.",
+      "notes": "نقلت الدراسات الجزيئية هذا النوع من الجنس Cantharellus إلى الجنس Craterellus. وتشكّل جماعات غرب أمريكا الشمالية سلالة وراثية منفصلة قد توصف نوعًا مستقلًا؛ ويبقى الاسم C. tubaeformis للفطر الموجود في أوروبا وشرق أمريكا الشمالية، لأن عيّنته النموذجية جاءت من السويد. ولأنه فطر جذري تكافلي، لا يمكن زراعته.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка, стройна гъба с фуниевидна форма, която често расте на големи групи, понякога с хиляди, в мъх под иглолистни дървета. Широко разпространена е в хладния умерен и бореалния пояс на Северното полукълбо, в Европа, Северна Азия и Северна Америка, съобщавана е и от Хималаите. В Скандинавия е много честа, а по на юг в Европа се среща главно в хълмисти и планински райони.",
+      "cap": "Шапката е 2–6 cm в диаметър, тънкомесеста. Отначало е изпъкнала, с пъповидна вдлъбнатина, скоро става фуниевидна или тръбовидна, а в центъра често е пробита до кухото пънче. Ръбът при младите гъби е подвит, с възрастта става вълнист, наделен и разкъсан. Повърхността е жълтеникавокафява до тъмнокафява или сивокафява, понякога с маслинен оттенък, ситно люспеста до филцеста и при влажно време леко восъчна; с възрастта избледнява до сивкава.",
+      "hymenium": "Вместо истински ламели има тъпи, ниски, жилковидни гънки, които се спускат далеч по пънчето, многократно се разклоняват вилообразно и са свързани с напречни жилки. Отначало са жълтеникави, скоро сиви със слаб налеп, понякога с люляков оттенък, и само рядко остават бледожълти.",
+      "stipe": "Пънчето е дълго 4–8 cm и дебело 0,3–1 cm, неправилно цилиндрично, често сплеснато или набраздено, гладко и восъчно, жълто до оранжевожълто или жълтеникавокафяво, точно под шапката сивкаво. Кухо е от центъра на шапката почти до основата; основата често е леко бухалковидна, с белезникав до бледожълт мицел.",
+      "flesh": "Месото е тънко, еластично, жълтеникаво до кафеникаво. Мирисът и вкусът са неизразени, понякога леко ароматни; сурово може да има леко пиперлив вкус.",
+      "sporePrint": "Споровият отпечатък е бял до много бледо жълтеникав. Спорите са широко елипсоидни до почти кръгли, гладки и безцветни, 8–12 × 6–10 µm.",
+      "habitat": "Образува микориза с иглолистни дървета, особено със смърч и ела, понякога и с широколистни, например с бук. Расте на групи, често в много голям брой, между мъхове и върху силно изгнила, обрасла с мъх дървесина във влажни, кисели, бедни на хранителни вещества иглолистни и смесени гори и в торфища. В Европа плододава от август до декември, по-късно от повечето други ядливи гъби.",
+      "uses": "Добра, високо ценена ядлива гъба. Макар че месото ѝ е тънко, по находищата лесно се събира в големи количества, а има приятно плътна консистенция и мек вкус. Подходяща е за супи, сосове, ястия с месо и паста и се суши добре, така че може да се съхранява за зимата. Както при всяка дива гъба, яжте само плодни тела, определени със сигурност.",
+      "confusion": "Craterellus lutescens е по-ярко оцветен, с оранжевожълто пънче, почти гладка или само набръчкана долна страна без ясни гънки и плодов мирис, и предпочита по-влажни места. Craterellus cinereus е изцяло сив до сивокафяв, без жълти тонове. Cantharellus cibarius е по-едър, по-набит и изцяло жълт, с плътно пънче и мирис на кайсии. Неядливата Leotia lubrica може да расте на същите места, но е гумоподобна и желатинозна, с малка главичка без гънки и бръчки отдолу.",
+      "notes": "Молекулярни изследвания преместиха този вид от рода Cantharellus в рода Craterellus. Популациите в западната част на Северна Америка образуват отделна генетична линия, която може да бъде описана като самостоятелен вид; името C. tubaeformis остава за гъбата от Европа и източната част на Северна Америка, защото типът ѝ произхожда от Швеция. Тъй като образува микориза, не може да се култивира.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Malá, štíhlá houba nálevkovitého tvaru, která často roste ve velkých houfech, někdy po tisících, v mechu pod jehličnany. Je hojně rozšířena v chladném mírném a boreálním pásmu severní polokoule, v Evropě, severní Asii a Severní Americe, a uvádí se i z Himálaje. Ve Skandinávii je velmi hojná, kdežto dále na jih v Evropě se vyskytuje hlavně v pahorkatinách a horách.",
+      "cap": "Klobouk je 2–6 cm široký a tenkomasý. Nejprve je sklenutý s pupkovitě prohloubeným středem, brzy nálevkovitý až trubkovitý a uprostřed často proděravělý až do dutého třeně. Okraj je v mládí podehnutý, ve stáří zvlněný, laločnatý a roztřepený. Povrch je žlutohnědý až tmavě hnědý nebo šedohnědý, někdy s olivovým nádechem, jemně šupinkatý až plstnatý a za vlhka mírně voskový; stářím bledne do šedava.",
+      "hymenium": "Místo pravých lupenů má tupé, nízké, žilkovité lišty, které daleko sbíhají na třeň, opakovaně se vidličnatě větví a jsou pospojované příčnými žilkami. Zpočátku jsou nažloutlé, brzy šedé s jemným ojíněním, občas s lila nádechem, a jen vzácně zůstávají světle žluté.",
+      "stipe": "Třeň je 4–8 cm dlouhý a 0,3–1 cm tlustý, nepravidelně válcovitý, často zploštělý nebo rýhovaný, hladký a voskový, žlutý až žlutooranžový nebo žlutohnědý, těsně pod kloboukem šedavý. Je dutý od středu klobouku téměř k bázi; báze je často mírně kyjovitá, s bělavým až světle žlutým myceliem.",
+      "flesh": "Dužnina je tenká, pružná, nažloutlá až nahnědlá. Vůně a chuť jsou nevýrazné, někdy slabě vonné; syrová může chutnat mírně peprně.",
+      "sporePrint": "Výtrusný prach je bílý až velmi bledě nažloutlý. Výtrusy jsou široce elipsoidní až téměř kulovité, hladké a bezbarvé, 8–12 × 6–10 µm.",
+      "habitat": "Tvoří mykorhizu s jehličnany, zejména se smrkem a jedlí, někdy i s listnáči, jako je buk. Roste pospolitě, často ve velkém množství, mezi mechy a na silně zetlelém, mechem porostlém dřevě ve vlhkých, kyselých, živinami chudých jehličnatých a smíšených lesích a na rašeliništích. V Evropě plodí od srpna do prosince, později než většina ostatních jedlých hub.",
+      "uses": "Dobrá, vysoce ceněná jedlá houba. Přestože je tenkomasá, na místech výskytu ji lze snadno nasbírat ve velkém množství a má příjemně pevnou konzistenci a jemnou chuť. Hodí se do polévek, omáček, masových jídel a těstovin a dobře se suší, takže ji lze uchovat na zimu. Jako u každé volně rostoucí houby jezte jen plodnice s jistotou určené.",
+      "confusion": "Craterellus lutescens je zářivěji zbarvena, se žlutooranžovým třeněm, téměř hladkou nebo jen vrásčitou spodní stranou bez zřetelných lišt a ovocnou vůní, a dává přednost vlhčím místům. Craterellus cinereus je celá šedá až šedohnědá, bez žlutých odstínů. Cantharellus cibarius je větší, zavalitější a celá žlutá, s plným třeněm a meruňkovou vůní. Nejedlá Leotia lubrica může růst na stejných místech, je však gumovitá a rosolovitá, s malou hlavičkou bez lišt i vrásek na spodní straně.",
+      "notes": "Molekulární studie přeřadily tento druh z rodu Cantharellus do rodu Craterellus. Populace na západě Severní Ameriky tvoří samostatnou genetickou linii, která může být popsána jako samostatný druh; jméno C. tubaeformis zůstává houbě z Evropy a východu Severní Ameriky, protože její typ pochází ze Švédska. Protože tvoří mykorhizu, nelze ji pěstovat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Craterellus-tubaeformis/",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "liška nálevkovitá"
+    },
+    "da": {
+      "description": "En lille, slank, tragtformet svamp, der ofte vokser i store flokke, nogle gange i tusindvis, i mos under nåletræer. Den er vidt udbredt i den køligt tempererede og boreale zone på den nordlige halvkugle, i Europa, Nordasien og Nordamerika, og er også meldt fra Himalaya. Den er meget almindelig i Skandinavien, mens den længere mod syd i Europa især findes i bakke- og bjergegne.",
+      "cap": "Hatten er 2–6 cm bred og tyndkødet. Den er først hvælvet med en navleformet fordybning, bliver snart tragt- eller trompetformet og er ofte gennemboret i midten ned i den hule stok. Randen er indrullet hos unge frugtlegemer og bliver med alderen bølget, lappet og flosset. Overfladen er gulbrun til mørkebrun eller gråbrun, undertiden med olivenagtig tone, fint skællet til filtet og let voksagtig i fugtigt vejr; med alderen falmer den til gråligt.",
+      "hymenium": "I stedet for ægte lameller har den butte, lave, årelignende lister, der løber langt ned ad stokken, gaffeldeler sig gentagne gange og er forbundet af tværårer. De er først gullige, snart grå med svag dug, undertiden med lilla tone, og forbliver kun sjældent blegt gule.",
+      "stipe": "Stokken er 4–8 cm lang og 0,3–1 cm tyk, uregelmæssigt cylindrisk, ofte sammentrykt eller furet, glat og voksagtig, gul til orangegul eller gulbrun og grålig lige under hatten. Den er hul fra hattens midte næsten til basis; basis er ofte svagt køllet, med hvidligt til blegt gult mycelium.",
+      "flesh": "Kødet er tyndt, elastisk og gulligt til brunligt. Lugt og smag er uudpræget, nogle gange svagt duftende; rå kan den smage en smule peberagtig.",
+      "sporePrint": "Sporepulveret er hvidt til meget blegt gulligt. Sporerne er bredt ellipsoide til næsten runde, glatte og farveløse, 8–12 × 6–10 µm.",
+      "habitat": "Den danner mykorrhiza med nåletræer, især gran og ædelgran, og undertiden med løvtræer som bøg. Den vokser selskabeligt, ofte i meget stort antal, mellem mos og på stærkt formuldet, mosbegroet ved i fugtige, sure, næringsfattige nåle- og blandskove og i moser. I Europa sætter den frugtlegemer fra august til december, senere end de fleste andre spisesvampe.",
+      "uses": "En god, meget værdsat spisesvamp. Selv om den er tyndkødet, er den let at samle i mængder, hvor den vokser, og den har en behageligt fast konsistens og en mild smag. Den passer til supper, saucer, kød- og pastaretter og tørrer godt, så den kan gemmes til vinteren. Som med enhver vild svamp bør man kun spise frugtlegemer, der er bestemt med sikkerhed.",
+      "confusion": "Craterellus lutescens er klarere farvet, med orangegul stok, en næsten glat eller kun rynket underside uden tydelige lister og en frugtagtig lugt, og den foretrækker vådere steder. Craterellus cinereus er grå til gråbrun overalt, uden gule toner. Cantharellus cibarius er større, mere undersætsig og gul overalt, med massiv stok og abrikosagtig lugt. Leotia lubrica, som ikke er spiselig, kan vokse på de samme steder, men den er gummiagtig og geléagtig, med et lille hoved uden lister eller rynker på undersiden.",
+      "notes": "Molekylære undersøgelser har flyttet arten fra Cantharellus til Craterellus. Bestande i det vestlige Nordamerika udgør en separat genetisk linje, som måske beskrives som en selvstændig art; navnet C. tubaeformis bliver ved svampen fra Europa og det østlige Nordamerika, fordi dens type stammer fra Sverige. Da den danner mykorrhiza, kan den ikke dyrkes.",
+      "names": [
+        "tragt-kantarel"
+      ],
+      "sourceUrls": [
+        "https://da.wikipedia.org/wiki/Tragtkantarel",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "tragtkantarel"
+    },
+    "de": {
+      "description": "Ein kleiner, schlanker, trichterförmiger Pilz, der oft in großen Scharen, manchmal zu Tausenden, im Moos unter Nadelbäumen wächst. Er ist in der kühl-gemäßigten und borealen Zone der Nordhalbkugel weit verbreitet, in Europa, Nordasien und Nordamerika, und wird auch aus dem Himalaya gemeldet. In Skandinavien ist er sehr häufig, weiter südlich in Europa findet man ihn vor allem im Hügel- und Bergland.",
+      "cap": "Der Hut ist 2–6 cm breit und dünnfleischig. Er ist zuerst gewölbt mit einer nabelartigen Vertiefung, bald trichter- bis trompetenförmig und in der Mitte oft bis in den hohlen Stiel durchbohrt. Der Rand ist jung eingerollt und wird im Alter wellig, gelappt und zerschlitzt. Die Oberfläche ist gelblich braun bis dunkelbraun oder graubraun, manchmal mit olivlichem Ton, fein schuppig bis filzig und feucht etwas wachsartig; im Alter verblasst sie gräulich.",
+      "hymenium": "Statt echter Lamellen trägt er stumpfe, niedrige, aderartige Leisten, die weit am Stiel herablaufen, sich wiederholt gabeln und durch Queradern verbunden sind. Sie sind zuerst gelblich, bald grau mit schwachem Reif, gelegentlich mit lila Ton, und bleiben nur selten blassgelb.",
+      "stipe": "Der Stiel ist 4–8 cm lang und 0,3–1 cm dick, unregelmäßig zylindrisch, oft zusammengedrückt oder gefurcht, glatt und wachsartig, gelb bis orangegelb oder gelblich braun und direkt unter dem Hut gräulich. Er ist von der Hutmitte fast bis zur Basis hohl; die Basis ist oft leicht keulig, mit weißlichem bis blassgelbem Myzel.",
+      "flesh": "Das Fleisch ist dünn, elastisch und gelblich bis bräunlich. Geruch und Geschmack sind unauffällig, manchmal leicht duftend; roh kann es etwas pfeffrig schmecken.",
+      "sporePrint": "Das Sporenpulver ist weiß bis sehr blass gelblich. Die Sporen sind breit ellipsoid bis fast rund, glatt und farblos, 8–12 × 6–10 µm.",
+      "habitat": "Er bildet Mykorrhiza mit Nadelbäumen, vor allem Fichte und Tanne, manchmal auch mit Laubbäumen wie der Buche. Er wächst gesellig, oft in sehr großer Zahl, zwischen Moos und auf stark vermorschtem, bemoostem Holz in feuchten, sauren, nährstoffarmen Nadel- und Mischwäldern sowie in Mooren. In Europa fruktifiziert er von August bis Dezember, später als die meisten anderen Speisepilze.",
+      "uses": "Ein guter, sehr geschätzter Speisepilz. Obwohl er dünnfleischig ist, lässt er sich an seinen Standorten leicht in Menge sammeln, und er hat eine angenehm feste Konsistenz und einen milden Geschmack. Er eignet sich für Suppen, Soßen, Fleisch- und Nudelgerichte und lässt sich gut trocknen, sodass man ihn für den Winter aufbewahren kann. Wie bei jedem Wildpilz sollte man nur sicher bestimmte Fruchtkörper essen.",
+      "confusion": "Craterellus lutescens ist leuchtender gefärbt, mit orangegelbem Stiel, einer fast glatten oder nur runzeligen Unterseite ohne deutliche Leisten und einem fruchtigen Geruch, und er bevorzugt nassere Standorte. Craterellus cinereus ist durchgehend grau bis graubraun, ohne gelbe Töne. Cantharellus cibarius ist größer, gedrungener und durchgehend gelb, mit vollem Stiel und aprikosenartigem Geruch. Die nicht essbare Leotia lubrica kann an denselben Stellen wachsen, ist aber gummiartig-gallertig und hat ein kleines Köpfchen ohne Leisten oder Runzeln auf der Unterseite.",
+      "notes": "Molekulare Untersuchungen haben diese Art von Cantharellus zu Craterellus gestellt. Populationen im westlichen Nordamerika bilden eine eigene genetische Linie, die als eigene Art beschrieben werden könnte; der Name C. tubaeformis bleibt beim Pilz Europas und des östlichen Nordamerikas, weil sein Typus aus Schweden stammt. Als Mykorrhizapilz lässt er sich nicht kultivieren.",
+      "names": [
+        "Trompeten-Pfifferling",
+        "Durchbohrter Leistling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Trompetenpfifferling",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "Trompetenpfifferling"
+    },
+    "en": {
+      "description": "A small, slender, funnel-shaped fungus that often grows in large troops, sometimes in thousands, in moss under conifers. It is widespread in the cool temperate and boreal zones of the Northern Hemisphere, in Europe, northern Asia and North America, and is also reported from the Himalayas. It is very common in Scandinavia, whereas further south in Europe it is found mainly in hills and mountains.",
+      "cap": "The cap is 2–6 cm across and thin-fleshed. It is convex with a navel-like depression at first, soon funnel- or trumpet-shaped, and often perforated at the centre into the hollow stem. The margin is inrolled when young and becomes wavy, lobed and ragged with age. The surface is yellowish brown to dark brown or grey-brown, sometimes with an olive tinge, finely scaly to felty and slightly waxy when moist, fading to greyish with age.",
+      "hymenium": "Instead of true gills there are blunt, shallow, vein-like ridges that run far down the stem, fork repeatedly and are joined by cross-veins. They are yellowish at first, soon grey with a faint bloom, occasionally with a lilac tinge, and only rarely stay pale yellow.",
+      "stipe": "The stem is 4–8 cm long and 0.3–1 cm thick, irregularly cylindrical, often flattened or grooved, smooth and waxy, yellow to orange-yellow or yellowish brown, and greyish just below the cap. It is hollow from the cap centre almost to the base; the base is often slightly club-shaped, with whitish to pale yellow mycelium.",
+      "flesh": "The flesh is thin, elastic and yellowish to brownish. The smell and taste are indistinct, sometimes slightly fragrant; raw it can taste a little peppery.",
+      "sporePrint": "The spore print is white to very pale yellowish. The spores are broadly ellipsoid to almost round, smooth and colourless, 8–12 × 6–10 µm.",
+      "habitat": "It is mycorrhizal with conifers, especially spruce and fir, and sometimes with broadleaved trees such as beech. It grows gregariously, often in very large numbers, among moss and on well-rotted, moss-covered wood in damp, acidic, nutrient-poor coniferous and mixed forests and in bogs. In Europe it fruits from August to December, later than most other edible mushrooms.",
+      "uses": "A good, highly regarded edible mushroom. Although it is thin-fleshed, it is easy to gather in quantity where it grows, and it has a pleasantly firm texture and a mild flavour. It suits soups, sauces, meat and pasta dishes, and it dries well, so it can be stored for the winter. As with any wild mushroom, eat only fruit bodies identified with certainty.",
+      "confusion": "Craterellus lutescens is brighter, with an orange-yellow stem, an almost smooth or only wrinkled underside without distinct ridges and a fruity smell, and it prefers wetter places. Craterellus cinereus is grey to grey-brown throughout, without yellow tones. Cantharellus cibarius is larger, squatter and yellow throughout, with a solid stem and an apricot-like smell. Leotia lubrica, which is not edible, can grow in the same places, but it is rubbery and gelatinous, with a small head that has neither ridges nor wrinkles underneath.",
+      "notes": "Molecular studies moved this species out of Cantharellus and into Craterellus. Populations in western North America form a separate genetic lineage that may be described as a distinct species; the name C. tubaeformis stays with the fungus of Europe and eastern North America, because its type came from Sweden. Being mycorrhizal, it cannot be cultivated.",
+      "names": [
+        "yellowfoot",
+        "winter chanterelle",
+        "funnel chanterelle",
+        "yellowlegs"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=455453",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=455453",
+        "https://www.gbif.org/species/2554536",
+        "https://www.catalogueoflife.org/data/taxon/Z8TV",
+        "https://www.wikidata.org/wiki/Q371126",
+        "https://www.inaturalist.org/taxa/350511-Craterellus-tubaeformis",
+        "https://www.mushroomexpert.com/craterellus_tubaeformis.html",
+        "https://en.wikipedia.org/wiki/Craterellus_tubaeformis",
+        "https://www.first-nature.com/fungi/cantharellus-tubaeformis.php",
+        "https://de.wikipedia.org/wiki/Trompetenpfifferling",
+        "https://www.nahuby.sk/atlas-hub/Craterellus-tubaeformis/kuriatko-lievikovite/liska-nalevkovita/ID232",
+        "https://www.myko.cz/myko-atlas/Craterellus-tubaeformis/",
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "trumpet chanterelle"
+    },
+    "es": {
+      "description": "Una seta pequeña y esbelta, en forma de embudo, que suele crecer en grandes grupos, a veces por miles, entre el musgo bajo coníferas. Está ampliamente distribuida por las zonas templadas frescas y boreales del hemisferio norte, en Europa, Asia septentrional y Norteamérica, y también se cita en el Himalaya. En Escandinavia es muy común, mientras que más al sur en Europa se encuentra sobre todo en colinas y montañas.",
+      "cap": "El sombrero mide 2–6 cm de diámetro y tiene la carne delgada. Al principio es convexo con una depresión umbilicada, pronto se vuelve en forma de embudo o de trompeta y a menudo está perforado en el centro hasta el pie hueco. El margen está enrollado en los ejemplares jóvenes y con la edad se vuelve ondulado, lobulado y desgarrado. La superficie es pardo amarillenta a pardo oscura o pardo grisácea, a veces con un tono oliváceo, finamente escamosa a afieltrada y algo cerosa con la humedad; con la edad palidece hacia grisáceo.",
+      "hymenium": "En lugar de verdaderas láminas presenta pliegues romos, bajos, parecidos a venas, largamente decurrentes por el pie, repetidamente bifurcados y unidos por venas transversales. Al principio son amarillentos, pronto grises con una ligera pruina, a veces con un tono lila, y solo raramente permanecen amarillo pálido.",
+      "stipe": "El pie mide 4–8 cm de largo y 0,3–1 cm de grosor; es irregularmente cilíndrico, a menudo comprimido o surcado, liso y ceroso, amarillo a amarillo anaranjado o pardo amarillento y grisáceo justo debajo del sombrero. Es hueco desde el centro del sombrero casi hasta la base; la base suele ser algo claviforme, con micelio blanquecino a amarillo pálido.",
+      "flesh": "La carne es delgada, elástica, amarillenta a parduzca. El olor y el sabor son poco destacables, a veces ligeramente perfumados; cruda puede tener un sabor algo picante, como a pimienta.",
+      "sporePrint": "La esporada es blanca a amarillenta muy pálida. Las esporas son anchamente elipsoidales a casi redondas, lisas e incoloras, 8–12 × 6–10 µm.",
+      "habitat": "Forma micorrizas con coníferas, sobre todo abeto rojo y abeto blanco, y a veces con frondosas como el haya. Crece gregaria, a menudo en cantidades muy grandes, entre musgos y sobre madera muy descompuesta y cubierta de musgo en bosques de coníferas y mixtos húmedos, ácidos y pobres en nutrientes, y en turberas. En Europa fructifica de agosto a diciembre, más tarde que la mayoría de las demás setas comestibles.",
+      "uses": "Un buen comestible, muy apreciado. Aunque tiene la carne delgada, donde crece es fácil recogerla en cantidad, y tiene una textura agradablemente firme y un sabor suave. Es adecuada para sopas, salsas y platos de carne y pasta, y se seca bien, por lo que puede conservarse para el invierno. Como con cualquier seta silvestre, consuma solo ejemplares identificados con total seguridad.",
+      "confusion": "Craterellus lutescens tiene colores más vivos, con el pie amarillo anaranjado, la cara inferior casi lisa o solo arrugada, sin pliegues marcados, y olor afrutado, y prefiere lugares más húmedos. Craterellus cinereus es totalmente gris a pardo grisáceo, sin tonos amarillos. Cantharellus cibarius es más grande, más robusto y totalmente amarillo, con el pie macizo y olor a albaricoque. Leotia lubrica, que no es comestible, puede crecer en los mismos lugares, pero es gomosa y gelatinosa, con una cabeza pequeña sin pliegues ni arrugas por debajo.",
+      "notes": "Los estudios moleculares trasladaron esta especie del género Cantharellus al género Craterellus. Las poblaciones del oeste de Norteamérica forman un linaje genético aparte que podría describirse como especie distinta; el nombre C. tubaeformis se mantiene para la seta de Europa y del este de Norteamérica, porque su tipo procede de Suecia. Al ser micorrícica, no puede cultivarse.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.fichasmicologicas.com/?alf=*&art=264&micos=1",
+        "https://micoradar.com/es/setas/rebozuelo-atrompetado"
+      ],
+      "label": "rebozuelo atrompetado"
+    },
+    "et": {
+      "description": "Väike, sale, lehterjas seen, mis kasvab sageli suurte salkadena, mõnikord tuhandete kaupa, samblas okaspuude all. See on laialt levinud põhjapoolkera jahedas parasvöötmes ja boreaalses vöötmes Euroopas, Põhja-Aasias ja Põhja-Ameerikas ning seda on teatatud ka Himaalajast. Skandinaavias on see väga sage, Euroopas lõuna pool leidub seda peamiselt küngastel ja mägedes.",
+      "cap": "Kübar on 2–6 cm lai ja õhukese viljalihaga. Alguses on see kumer ja keskelt nabaja lohuga, peagi lehtri- või trompetikujuline ning keskelt sageli läbi õõnsa jala avatud. Serv on noorelt sissepoole rullunud ja muutub vanemaks saades lainjaks, hõlmiseks ja narmendavaks. Pind on kollakaspruun kuni tumepruun või hallikaspruun, mõnikord oliivika tooniga, peenelt soomuseline kuni viltjas ja niiskena veidi vahajas; vanemaks saades tuhmub hallikaks.",
+      "hymenium": "Päris eoslehtede asemel on tal nürid, madalad, soonjad voldid, mis laskuvad kaugele jalale, hargnevad korduvalt ja on ühendatud ristsoontega. Need on alguses kollakad, peagi hallid ja nõrgalt kirmega, mõnikord lillaka tooniga, ning jäävad vaid harva kahvatukollaseks.",
+      "stipe": "Jalg on 4–8 cm pikk ja 0,3–1 cm jäme, ebakorrapäraselt silindriline, sageli lame või vaoline, sile ja vahajas, kollane kuni oranžikaskollane või kollakaspruun ning vahetult kübara all hallikas. See on õõnes kübara keskelt peaaegu aluseni; alus on sageli veidi nuiajas, valkja kuni kahvatukollase seeneniidistikuga.",
+      "flesh": "Viljaliha on õhuke, elastne ja kollakas kuni pruunikas. Lõhn ja maitse on vähemärgatavad, mõnikord nõrgalt lõhnavad; toorelt võib see maitseda veidi pipraselt.",
+      "sporePrint": "Eospulber on valge kuni väga kahvatult kollakas. Eosed on laialt ellipsoidsed kuni peaaegu ümarad, siledad ja värvitud, 8–12 × 6–10 µm.",
+      "habitat": "See moodustab mükoriisat okaspuudega, eriti kuuse ja nulguga, ning mõnikord lehtpuudega, näiteks pöögiga. See kasvab rühmiti, sageli väga arvukalt, sammalde vahel ja tugevasti kõdunenud, samblaga kaetud puidul niisketes, happelistes, toitainevaestes okas- ja segametsades ning soodes. Euroopas moodustab see viljakehi augustist detsembrini, hiljem kui enamik teisi söögiseeni.",
+      "uses": "Hea, kõrgelt hinnatud söögiseen. Kuigi selle viljaliha on õhuke, on seda kasvukohtades lihtne suurtes kogustes korjata ning sellel on meeldivalt kindel tekstuur ja mahe maitse. See sobib suppidesse, kastmetesse, liha- ja pastaroogadesse ning kuivab hästi, nii et seda saab talveks säilitada. Nagu kõigi metsaseente puhul, söö ainult kindlalt määratud viljakehi.",
+      "confusion": "Craterellus lutescens on erksamat värvi, oranžikaskollase jala, peaaegu sileda või ainult kortsulise alakülje ilma selgete voltideta ning puuviljase lõhnaga, ja eelistab märjemaid kohti. Craterellus cinereus on üleni hall kuni hallikaspruun, ilma kollaste toonideta. Cantharellus cibarius on suurem, jässakam ja üleni kollane, täidisega jala ja aprikoosilaadse lõhnaga. Mittesöödav Leotia lubrica võib kasvada samades kohtades, kuid see on kummitaoline ja želatiinjas ning selle väikese pea alaküljel pole volte ega kortse.",
+      "notes": "Molekulaaruuringud viisid selle liigi perekonnast Cantharellus perekonda Craterellus. Lääne-Põhja-Ameerika populatsioonid moodustavad eraldi geneetilise liini, mida võidakse kirjeldada omaette liigina; nimi C. tubaeformis jääb Euroopa ja ida-Põhja-Ameerika seenele, sest selle tüüp pärineb Rootsist. Kuna see moodustab mükoriisat, ei saa seda kasvatada.",
+      "names": [
+        "lehter-kukeseen"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Lehter-torbikseen",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "lehter-torbikseen"
+    },
+    "fa": {
+      "description": "قارچی کوچک، باریک و قیفی‌شکل که اغلب در دسته‌های بزرگ، گاهی هزاران عدد، در میان خزه‌ها زیر درختان سوزنی‌برگ می‌روید. این قارچ در منطقه‌های معتدل خنک و شمالگانی نیمکره شمالی، در اروپا، شمال آسیا و آمریکای شمالی، گسترش وسیعی دارد و از هیمالیا نیز گزارش شده است. در اسکاندیناوی بسیار فراوان است، اما در جنوب‌تر اروپا بیشتر در تپه‌ها و کوهستان‌ها یافت می‌شود.",
+      "cap": "کلاهک ۲–۶ cm قطر دارد و گوشت آن نازک است. در آغاز محدب با فرورفتگی ناف‌مانند است، به‌زودی قیفی یا شیپوری می‌شود و مرکز آن اغلب تا درون پایهٔ توخالی سوراخ است. لبه در نمونه‌های جوان به داخل برگشته است و با افزایش سن موج‌دار، لوب‌دار و پاره‌پاره می‌شود. سطح آن قهوه‌ای مایل به زرد تا قهوه‌ای تیره یا قهوه‌ای خاکستری است، گاهی با ته‌رنگ زیتونی، با فلس‌های ریز تا نمدی و در هوای مرطوب کمی مومی؛ با افزایش سن به خاکستری رنگ می‌بازد.",
+      "hymenium": "به جای تیغه‌های واقعی، چین‌هایی کُند، کم‌ارتفاع و رگ‌مانند دارد که تا پایین پایه امتداد می‌یابند، بارها دوشاخه می‌شوند و با رگه‌های عرضی به هم متصل‌اند. این چین‌ها در آغاز زردفام‌اند، به‌زودی خاکستری با پوشش گردمانند ضعیف می‌شوند، گاهی با ته‌رنگ یاسی، و تنها به‌ندرت زرد کم‌رنگ می‌مانند.",
+      "stipe": "پایه ۴–۸ cm طول و ۰٫۳–۱ cm ضخامت دارد، به‌طور نامنظم استوانه‌ای، اغلب پهن‌شده یا شیاردار، صاف و مومی است و رنگ آن زرد تا زرد نارنجی یا قهوه‌ای مایل به زرد و درست زیر کلاهک خاکستری‌فام است. از مرکز کلاهک تقریباً تا قاعده توخالی است؛ قاعده اغلب اندکی گرزی‌شکل است و ریسه‌های سفیدفام تا زرد کم‌رنگ دارد.",
+      "flesh": "گوشت نازک، کشسان و زردفام تا قهوه‌ای‌فام است. بو و مزه چندان مشخص نیست و گاهی اندکی معطر است؛ خام ممکن است کمی تند و فلفلی باشد.",
+      "sporePrint": "اثر هاگ سفید تا زرد بسیار کم‌رنگ است. هاگ‌ها بیضوی پهن تا تقریباً گرد، صاف و بی‌رنگ‌اند، ۸–۱۲ × ۶–۱۰ µm.",
+      "habitat": "با درختان سوزنی‌برگ، به‌ویژه نوئل و شوکا، و گاهی با درختان پهن‌برگ مانند راش، رابطه قارچ‌ریشه‌ای برقرار می‌کند. به‌صورت گروهی و اغلب به تعداد بسیار زیاد، میان خزه‌ها و روی چوب کاملاً پوسیده و خزه‌پوش در جنگل‌های سوزنی‌برگ و آمیخته مرطوب، اسیدی و کم‌مواد مغذی و در تورب‌زارها می‌روید. در اروپا از اوت تا دسامبر میوه می‌دهد، دیرتر از بیشتر قارچ‌های خوراکی دیگر.",
+      "uses": "قارچی خوراکی خوب و بسیار ارزشمند. با آنکه گوشت آن نازک است، در رویشگاه‌هایش به‌آسانی می‌توان آن را به مقدار زیاد جمع کرد و بافتی به‌طرز دلپذیری سفت و طعمی ملایم دارد. برای سوپ، سس، غذاهای گوشتی و پاستا مناسب است و به‌خوبی خشک می‌شود، بنابراین می‌توان آن را برای زمستان نگه داشت. مانند هر قارچ وحشی دیگر، فقط نمونه‌هایی را بخورید که با اطمینان کامل شناسایی شده‌اند.",
+      "confusion": "Craterellus lutescens رنگ روشن‌تری دارد، با پایه زرد نارنجی، سطح زیرین تقریباً صاف یا فقط چروکیده بدون چین‌های مشخص و بوی میوه‌ای، و مکان‌های مرطوب‌تر را ترجیح می‌دهد. Craterellus cinereus سراسر خاکستری تا قهوه‌ای خاکستری و بدون ته‌رنگ زرد است. Cantharellus cibarius بزرگ‌تر، تنومندتر و سراسر زرد است، با پایه توپر و بویی شبیه زردآلو. Leotia lubrica که خوراکی نیست، ممکن است در همان مکان‌ها بروید، اما لاستیکی و ژلاتینی است و سر کوچکش در زیر نه چین دارد و نه چروک.",
+      "notes": "مطالعات مولکولی این گونه را از سرده Cantharellus به سرده Craterellus منتقل کرده‌اند. جمعیت‌های غرب آمریکای شمالی دودمان ژنتیکی جداگانه‌ای تشکیل می‌دهند که ممکن است به‌عنوان گونه‌ای مستقل توصیف شود؛ نام C. tubaeformis برای قارچ اروپا و شرق آمریکای شمالی باقی می‌ماند، زیرا نمونه تیپ آن از سوئد است. از آنجا که قارچ‌ریشه‌ای است، نمی‌توان آن را کشت کرد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni, hoikka, suppilomainen sieni, joka kasvaa usein suurina joukkoina, joskus tuhansittain, sammalikossa havupuiden alla. Se on laajalle levinnyt pohjoisen pallonpuoliskon viileässä lauhkeassa ja boreaalisessa vyöhykkeessä Euroopassa, Pohjois-Aasiassa ja Pohjois-Amerikassa, ja sitä on ilmoitettu myös Himalajalta. Skandinaviassa se on hyvin yleinen, kun taas etelämpänä Euroopassa sitä tavataan lähinnä mäki- ja vuoristoseuduilla.",
+      "cap": "Lakki on 2–6 cm leveä ja ohutmaltoinen. Se on aluksi kupera ja keskeltä napamaisesti painunut, pian suppilon tai torven muotoinen, ja sen keskusta on usein puhkeama ontoksi jalaksi. Reuna on nuorena sisäänkääntynyt ja muuttuu vanhetessaan aaltoilevaksi, liuskaiseksi ja repaleiseksi. Pinta on kellanruskea–tummanruskea tai harmaanruskea, joskus oliivinsävyinen, hienosti suomuinen–huopamainen ja kosteana hieman vahamainen; vanhetessaan se haalistuu harmahtavaksi.",
+      "hymenium": "Varsinaisten heltojen sijaan siinä on tylppiä, matalia, suonimaisia poimuja, jotka jatkuvat pitkälle jalkaa alas, haarautuvat toistuvasti ja ovat poikkisuonten yhdistämiä. Ne ovat aluksi kellertäviä, pian harmaita ja heikosti huurteisia, joskus liilansävyisiä, ja vain harvoin ne pysyvät vaaleankeltaisina.",
+      "stipe": "Jalka on 4–8 cm pitkä ja 0,3–1 cm paksu, epäsäännöllisen lieriömäinen, usein litistynyt tai uurteinen, sileä ja vahamainen, keltainen–oranssinkeltainen tai kellanruskea ja aivan lakin alla harmahtava. Se on ontto lakin keskeltä melkein tyveen asti; tyvi on usein hieman nuijamainen, ja siinä on valkeahkoa–vaaleankeltaista rihmastoa.",
+      "flesh": "Malto on ohut, kimmoisa ja kellertävä–ruskehtava. Haju ja maku ovat mitäänsanomattomat, joskus heikosti tuoksuvat; raakana se voi maistua hieman pippuriselta.",
+      "sporePrint": "Itiöpöly on valkoinen–hyvin vaalean kellertävä. Itiöt ovat leveän ellipsoidisia–lähes pyöreitä, sileitä ja värittömiä, 8–12 × 6–10 µm.",
+      "habitat": "Se muodostaa sienijuuren havupuiden, etenkin kuusen ja jalokuusen, ja joskus lehtipuiden, kuten pyökin, kanssa. Se kasvaa ryhmissä, usein hyvin runsaana, sammalten seassa ja pitkälle lahonneella, sammaloituneella puulla kosteissa, happamissa, karuissa havu- ja sekametsissä sekä soilla. Euroopassa se muodostaa itiöemiä elokuusta joulukuuhun, myöhemmin kuin useimmat muut ruokasienet.",
+      "uses": "Hyvä, erittäin arvostettu ruokasieni. Vaikka se on ohutmaltoinen, sitä on helppo kerätä runsaasti sen kasvupaikoilta, ja sen rakenne on miellyttävän kiinteä ja maku mieto. Se sopii keittoihin, kastikkeisiin sekä liha- ja pastaruokiin, ja se kuivuu hyvin, joten sitä voi säilöä talveksi. Kuten kaikista luonnonvaraisista sienistä, syö vain varmasti tunnistettuja itiöemiä.",
+      "confusion": "Craterellus lutescens on kirkkaamman värinen, ja sillä on oranssinkeltainen jalka, lähes sileä tai vain ryppyinen alapinta ilman selviä poimuja sekä hedelmäinen tuoksu; se suosii märempiä paikkoja. Craterellus cinereus on kauttaaltaan harmaa–harmaanruskea, ilman keltaisia sävyjä. Cantharellus cibarius on suurempi, tanakampi ja kauttaaltaan keltainen, ja sillä on umpinainen jalka ja aprikoosimainen tuoksu. Syötäväksi kelpaamaton Leotia lubrica voi kasvaa samoilla paikoilla, mutta se on kumimainen ja hyytelömäinen, ja sen pienen pään alapinnalla ei ole poimuja eikä ryppyjä.",
+      "notes": "Molekyylitutkimukset ovat siirtäneet lajin Cantharellus-suvusta Craterellus-sukuun. Läntisen Pohjois-Amerikan populaatiot muodostavat oman geneettisen linjansa, joka saatetaan kuvata erillisenä lajina; nimi C. tubaeformis säilyy Euroopan ja itäisen Pohjois-Amerikan sienellä, koska sen tyyppi on peräisin Ruotsista. Koska se muodostaa sienijuuren, sitä ei voi viljellä.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://fi.wikipedia.org/wiki/Suppilovahvero"
+      ],
+      "label": "suppilovahvero"
+    },
+    "fr": {
+      "description": "Un petit champignon élancé, en forme d'entonnoir, qui pousse souvent en grandes troupes, parfois par milliers, dans la mousse sous les conifères. Il est largement répandu dans les zones tempérées fraîches et boréales de l'hémisphère Nord, en Europe, en Asie du Nord et en Amérique du Nord, et il est aussi signalé dans l'Himalaya. Il est très commun en Scandinavie, tandis que plus au sud en Europe on le trouve surtout en colline et en montagne.",
+      "cap": "Le chapeau mesure 2–6 cm de diamètre et a une chair mince. D'abord convexe avec une dépression ombiliquée, il devient vite en entonnoir ou en trompette et est souvent perforé au centre jusque dans le pied creux. La marge est enroulée chez les jeunes puis devient ondulée, lobée et déchiquetée avec l'âge. La surface est brun jaunâtre à brun foncé ou brun-gris, parfois teintée d'olive, finement squamuleuse à feutrée et un peu cireuse par temps humide ; elle pâlit en grisâtre avec l'âge.",
+      "hymenium": "Au lieu de vraies lames, il porte des plis obtus, peu saillants, en forme de veines, longuement décurrents sur le pied, fourchus à plusieurs reprises et reliés par des anastomoses. Ils sont d'abord jaunâtres, puis vite gris avec une légère pruine, parfois teintés de lilas, et ne restent que rarement jaune pâle.",
+      "stipe": "Le pied mesure 4–8 cm de long et 0,3–1 cm d'épaisseur ; il est irrégulièrement cylindrique, souvent comprimé ou sillonné, lisse et cireux, jaune à jaune orangé ou brun jaunâtre, et grisâtre juste sous le chapeau. Il est creux du centre du chapeau presque jusqu'à la base ; la base est souvent un peu claviforme, avec un mycélium blanchâtre à jaune pâle.",
+      "flesh": "La chair est mince, élastique, jaunâtre à brunâtre. L'odeur et la saveur sont indistinctes, parfois légèrement parfumées ; crue, elle peut être un peu poivrée.",
+      "sporePrint": "La sporée est blanche à jaunâtre très pâle. Les spores sont largement ellipsoïdes à presque rondes, lisses et incolores, 8–12 × 6–10 µm.",
+      "habitat": "Il est mycorhizien des conifères, surtout de l'épicéa et du sapin, parfois aussi de feuillus comme le hêtre. Il pousse en groupes, souvent en très grand nombre, parmi les mousses et sur du bois très décomposé et moussu, dans les forêts de conifères et les forêts mixtes humides, acides et pauvres en éléments nutritifs, ainsi que dans les tourbières. En Europe, il fructifie d'août à décembre, plus tard que la plupart des autres champignons comestibles.",
+      "uses": "Un bon comestible, très apprécié. Bien que sa chair soit mince, il est facile à récolter en quantité là où il pousse, et il a une texture agréablement ferme et une saveur douce. Il convient aux soupes, aux sauces, aux plats de viande et de pâtes, et il se sèche bien, ce qui permet de le conserver pour l'hiver. Comme pour tout champignon sauvage, ne consommer que des exemplaires identifiés avec certitude.",
+      "confusion": "Craterellus lutescens est plus vivement coloré, avec un pied jaune orangé, une face inférieure presque lisse ou seulement ridée sans plis nets et une odeur fruitée ; il préfère les endroits plus humides. Craterellus cinereus est entièrement gris à brun-gris, sans tons jaunes. Cantharellus cibarius est plus grand, plus trapu et entièrement jaune, avec un pied plein et une odeur d'abricot. Leotia lubrica, qui n'est pas comestible, peut pousser aux mêmes endroits, mais elle est caoutchouteuse et gélatineuse, avec une petite tête sans plis ni rides en dessous.",
+      "notes": "Des études moléculaires ont fait passer cette espèce du genre Cantharellus au genre Craterellus. Les populations de l'ouest de l'Amérique du Nord forment une lignée génétique distincte qui pourrait être décrite comme une espèce à part ; le nom C. tubaeformis reste attaché au champignon d'Europe et de l'est de l'Amérique du Nord, car son type provient de Suède. Étant mycorhizien, il ne peut pas être cultivé.",
+      "names": [
+        "chanterelle grise",
+        "chanterelle d'automne"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://fr.wikipedia.org/wiki/Craterellus_tubaeformis",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "chanterelle en tube"
+    },
+    "he": {
+      "description": "פטרייה קטנה ודקה בצורת משפך, הגדלה לעיתים קרובות בקבוצות גדולות, לפעמים באלפים, בין טחבים מתחת לעצי מחט. היא נפוצה באזורים הממוזגים הקרירים והבוריאליים של חצי הכדור הצפוני, באירופה, בצפון אסיה ובצפון אמריקה, ודווחה גם מההימלאיה. בסקנדינביה היא שכיחה מאוד, ואילו דרומה יותר באירופה היא נמצאת בעיקר בגבעות ובהרים.",
+      "cap": "הכובע בקוטר 2–6 cm ובשרו דק. בתחילה הוא קמור עם שקע דמוי טבור, ובמהרה הופך למשפך או לחצוצרה, ומרכזו מנוקב לעיתים קרובות עד לרגל החלולה. השוליים מגולגלים פנימה בפטריות צעירות, ועם הגיל הופכים גליים, מאונים ומרופטים. פני הכובע חומים־צהבהבים עד חומים כהים או חומים־אפרפרים, לעיתים בגוון זיתי, קשקשיים דק עד לבידיים ושעוויים מעט בלחות; עם הגיל הם דוהים לאפרפר.",
+      "hymenium": "במקום למלים אמיתיים יש לה קפלים קהים ונמוכים דמויי עורקים, היורדים הרחק לאורך הרגל, מתפצלים שוב ושוב ומחוברים בעורקים רוחביים. בתחילה הם צהבהבים, ובמהרה אפורים עם אבקה דקה, לעיתים בגוון לילך, ורק לעיתים נדירות נשארים צהובים חיוורים.",
+      "stipe": "הרגל באורך 4–8 cm ובעובי 0.3–1 cm, גלילית באופן לא סדיר, לעיתים קרובות פחוסה או מחורצת, חלקה ושעווית, צהובה עד צהובה־כתומה או חומה־צהבהבה, ואפרפרה ממש מתחת לכובע. היא חלולה ממרכז הכובע כמעט עד הבסיס; הבסיס לעיתים קרובות מעובה מעט כמו אלה, עם תפטיר לבנבן עד צהוב חיוור.",
+      "flesh": "הבשר דק, גמיש, צהבהב עד חומחם. הריח והטעם אינם בולטים, לעיתים ריחניים מעט; כשהיא לא מבושלת טעמה עשוי להיות מעט פלפלי.",
+      "sporePrint": "הדפס הנבגים לבן עד צהבהב חיוור מאוד. הנבגים אליפסואידיים רחבים עד כמעט עגולים, חלקים וחסרי צבע, 8–12 × 6–10 µm.",
+      "habitat": "היא יוצרת מיקוריזה עם עצי מחט, בעיקר אשוחית ואשוח, ולעיתים עם עצים רחבי עלים כמו אשור. היא גדלה בקבוצות, לעיתים קרובות במספרים גדולים מאוד, בין טחבים ועל עץ מרקיב מאוד ומכוסה טחב, ביערות מחטניים ומעורבים לחים, חומציים ודלי מזון ובביצות כבול. באירופה היא מניבה מאוגוסט עד דצמבר, מאוחר יותר מרוב פטריות המאכל האחרות.",
+      "uses": "פטריית מאכל טובה ומוערכת מאוד. אף שבשרה דק, קל לאסוף אותה בכמויות גדולות במקומות שבהם היא גדלה, ויש לה מרקם מוצק ונעים וטעם עדין. היא מתאימה למרקים, לרטבים ולמנות בשר ופסטה, ומתייבשת היטב, כך שאפשר לשמור אותה לחורף. כמו בכל פטרייה בר, יש לאכול רק גופי פרי שזוהו בוודאות.",
+      "confusion": "Craterellus lutescens צבעוני יותר, עם רגל צהובה־כתומה, צד תחתון כמעט חלק או מקומט בלבד ללא קפלים ברורים וריח פירותי, והוא מעדיף מקומות רטובים יותר. Craterellus cinereus אפור עד חום־אפרפר כולו, ללא גוונים צהובים. Cantharellus cibarius גדול יותר, גוץ יותר וצהוב כולו, עם רגל מלאה וריח דמוי משמש. Leotia lubrica, שאינה ראויה למאכל, עשויה לגדול באותם מקומות, אך היא גומית וג'לטינית, עם ראש קטן ללא קפלים או קמטים מלמטה.",
+      "notes": "מחקרים מולקולריים העבירו מין זה מהסוג Cantharellus לסוג Craterellus. אוכלוסיות במערב צפון אמריקה יוצרות שושלת גנטית נפרדת שעשויה להיות מתוארת כמין עצמאי; השם C. tubaeformis נשאר לפטרייה של אירופה ומזרח צפון אמריקה, משום שהטיפוס שלה מקורו בשוודיה. מכיוון שהיא יוצרת מיקוריזה, אי אפשר לגדל אותה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक छोटा, पतला, कीप के आकार का कवक जो अक्सर शंकुधारी पेड़ों के नीचे काई में बड़े झुंडों में, कभी-कभी हज़ारों की संख्या में, उगता है। यह उत्तरी गोलार्ध के ठंडे शीतोष्ण और बोरियल क्षेत्रों में, यूरोप, उत्तरी एशिया और उत्तरी अमेरिका में व्यापक रूप से फैला है, और हिमालय से भी दर्ज किया गया है। स्कैंडिनेविया में यह बहुत आम है, जबकि यूरोप में और दक्षिण की ओर यह मुख्यतः पहाड़ियों और पहाड़ों में मिलता है।",
+      "cap": "टोपी 2–6 cm चौड़ी और पतले गूदे वाली होती है। पहले यह नाभि जैसे गड्ढे के साथ उत्तल होती है, जल्द ही कीप या तुरही के आकार की हो जाती है, और इसका केंद्र अक्सर खोखले वृंत तक छिदा होता है। किनारा युवा अवस्था में भीतर की ओर मुड़ा होता है और उम्र के साथ लहरदार, पालियुक्त और फटा हुआ हो जाता है। सतह पीली-भूरी से गहरी भूरी या धूसर-भूरी होती है, कभी-कभी जैतूनी आभा के साथ, बारीक शल्कयुक्त से नमदे जैसी, और नमी में थोड़ी मोमी; उम्र के साथ यह धूसर रंग में फीकी पड़ जाती है।",
+      "hymenium": "असली गिल्स के बजाय इसमें कुंद, उथली, शिराओं जैसी धारियाँ होती हैं जो वृंत पर दूर तक नीचे उतरती हैं, बार-बार द्विशाखित होती हैं और अनुप्रस्थ शिराओं से जुड़ी रहती हैं। ये पहले पीलापन लिए होती हैं, जल्द ही हल्की धूल-सी परत के साथ धूसर हो जाती हैं, कभी-कभी बकाइनी आभा के साथ, और केवल कभी-कभार ही हल्की पीली रहती हैं।",
+      "stipe": "वृंत 4–8 cm लंबा और 0.3–1 cm मोटा, अनियमित रूप से बेलनाकार, अक्सर चपटा या खाँचेदार, चिकना और मोमी, पीला से नारंगी-पीला या पीला-भूरा, और टोपी के ठीक नीचे धूसर होता है। यह टोपी के केंद्र से लगभग आधार तक खोखला होता है; आधार अक्सर थोड़ा गदाकार होता है, जिस पर सफ़ेद-सा से हल्का पीला कवकजाल होता है।",
+      "flesh": "गूदा पतला, लचीला और पीलापन लिए से भूरापन लिए होता है। गंध और स्वाद विशिष्ट नहीं होते, कभी-कभी हल्के सुगंधित; कच्चा होने पर इसका स्वाद थोड़ा काली मिर्च जैसा तीखा हो सकता है।",
+      "sporePrint": "बीजाणु छाप सफ़ेद से बहुत हल्की पीली होती है। बीजाणु चौड़े दीर्घवृत्ताकार से लगभग गोल, चिकने और रंगहीन होते हैं, 8–12 × 6–10 µm।",
+      "habitat": "यह शंकुधारी पेड़ों, विशेषकर स्प्रूस और फ़र, और कभी-कभी बीच जैसे चौड़ी पत्ती वाले पेड़ों के साथ कवकमूल (माइकोराइज़ा) बनाता है। यह नम, अम्लीय, पोषक तत्वों में कम शंकुधारी और मिश्रित वनों में तथा दलदलों में काई के बीच और अच्छी तरह सड़ी, काई से ढकी लकड़ी पर, अक्सर बहुत बड़ी संख्या में, समूहों में उगता है। यूरोप में यह अगस्त से दिसंबर तक फलता है, अधिकांश अन्य खाद्य मशरूमों से बाद में।",
+      "uses": "एक अच्छा, बहुत सराहा जाने वाला खाद्य मशरूम। गूदा पतला होने के बावजूद, जहाँ यह उगता है वहाँ इसे बड़ी मात्रा में इकट्ठा करना आसान है, और इसकी बनावट सुखद रूप से सख़्त और स्वाद हल्का होता है। यह सूप, सॉस, मांस और पास्ता के व्यंजनों के लिए उपयुक्त है और अच्छी तरह सूखता है, इसलिए इसे सर्दियों के लिए रखा जा सकता है। किसी भी जंगली मशरूम की तरह, केवल उन्हीं फलकायों को खाएँ जिनकी पहचान पूरी निश्चितता से हुई हो।",
+      "confusion": "Craterellus lutescens अधिक चटक रंग का होता है, इसका वृंत नारंगी-पीला, निचली सतह लगभग चिकनी या केवल झुर्रीदार और स्पष्ट धारियों से रहित, और गंध फल जैसी होती है; यह अधिक गीले स्थानों को पसंद करता है। Craterellus cinereus पूरी तरह धूसर से धूसर-भूरा होता है, बिना पीली आभा के। Cantharellus cibarius बड़ा, अधिक गठीला और पूरी तरह पीला होता है, ठोस वृंत और खुबानी जैसी गंध के साथ। Leotia lubrica, जो खाने योग्य नहीं है, उन्हीं स्थानों पर उग सकता है, लेकिन यह रबड़ जैसा और जेलीनुमा होता है, और इसके छोटे सिर के नीचे न धारियाँ होती हैं न झुर्रियाँ।",
+      "notes": "आणविक अध्ययनों ने इस प्रजाति को वंश Cantharellus से वंश Craterellus में स्थानांतरित किया। पश्चिमी उत्तरी अमेरिका की आबादियाँ एक अलग आनुवंशिक वंशावली बनाती हैं जिसे एक अलग प्रजाति के रूप में वर्णित किया जा सकता है; नाम C. tubaeformis यूरोप और पूर्वी उत्तरी अमेरिका के कवक के पास रहता है, क्योंकि इसका प्रारूप नमूना स्वीडन से आया था। कवकमूल बनाने के कारण इसकी खेती नहीं की जा सकती।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala, vitka gljiva ljevkastog oblika koja često raste u velikim skupinama, ponekad u tisućama, u mahovini ispod četinjača. Široko je rasprostranjena u hladnom umjerenom i borealnom pojasu sjeverne polutke, u Europi, sjevernoj Aziji i Sjevernoj Americi, a navodi se i s Himalaje. U Skandinaviji je vrlo česta, dok se južnije u Europi nalazi uglavnom u brdima i planinama.",
+      "cap": "Klobuk je širok 2–6 cm i tankog mesa. Isprva je ispupčen s pupkastim udubljenjem, ubrzo postaje ljevkast ili trubast, a u sredini je često probušen sve do šupljeg stručka. Rub je kod mladih gljiva podvijen, sa starošću postaje valovit, režnjast i razderan. Površina je žućkastosmeđa do tamnosmeđa ili sivosmeđa, ponekad s maslinastim tonom, sitno ljuskava do pustenasta i po vlažnom vremenu blago voštana; sa starošću blijedi do sivkaste.",
+      "hymenium": "Umjesto pravih listića ima tupe, niske, žilama slične letvice koje se daleko spuštaju niz stručak, više puta se rašljasto granaju i povezane su poprečnim žilicama. Isprva su žućkaste, ubrzo sive s blagim maškom, ponekad s lila tonom, i samo rijetko ostaju blijedožute.",
+      "stipe": "Stručak je dug 4–8 cm i debeo 0,3–1 cm, nepravilno valjkast, često spljošten ili izbrazdan, gladak i voštan, žut do narančastožut ili žućkastosmeđ, a odmah ispod klobuka sivkast. Šupalj je od sredine klobuka gotovo do osnove; osnova je često blago batićasta, s bjelkastim do blijedožutim micelijem.",
+      "flesh": "Meso je tanko, elastično, žućkasto do smeđkasto. Miris i okus su neizraziti, ponekad blago mirisni; sirovo može imati pomalo paprenast okus.",
+      "sporePrint": "Otisak spora je bijel do vrlo blijedo žućkast. Spore su široko elipsoidne do gotovo okrugle, glatke i bezbojne, 8–12 × 6–10 µm.",
+      "habitat": "Stvara mikorizu s četinjačama, osobito sa smrekom i jelom, a ponekad i s listačama poput bukve. Raste skupno, često u vrlo velikom broju, među mahovinama i na jako istrunulom, mahovinom obraslom drvu u vlažnim, kiselim, hranjivima siromašnim crnogoričnim i mješovitim šumama te na tresetištima. U Europi plodi od kolovoza do prosinca, kasnije od većine drugih jestivih gljiva.",
+      "uses": "Dobra, vrlo cijenjena jestiva gljiva. Iako je tankog mesa, na staništima ju je lako nabrati u velikim količinama, a ima ugodno čvrstu teksturu i blag okus. Prikladna je za juhe, umake, jela s mesom i tjesteninom, a dobro se suši pa se može čuvati za zimu. Kao i kod svake samonikle gljive, jedite samo plodišta koja su sigurno određena.",
+      "confusion": "Craterellus lutescens jarkije je obojen, s narančastožutim stručkom, gotovo glatkom ili samo naboranom donjom stranom bez jasnih letvica i voćnim mirisom, a radije raste na vlažnijim mjestima. Craterellus cinereus je potpuno siv do sivosmeđ, bez žutih tonova. Cantharellus cibarius je veći, zdepastiji i potpuno žut, s punim stručkom i mirisom na marelice. Nejestiva Leotia lubrica može rasti na istim mjestima, ali je gumasta i želatinozna, s malom glavicom bez letvica i nabora s donje strane.",
+      "notes": "Molekularna istraživanja premjestila su ovu vrstu iz roda Cantharellus u rod Craterellus. Populacije na zapadu Sjeverne Amerike čine zasebnu genetsku liniju koja bi mogla biti opisana kao posebna vrsta; ime C. tubaeformis ostaje gljivi iz Europe i istoka Sjeverne Amerike jer njezin tip potječe iz Švedske. Budući da stvara mikorizu, ne može se uzgajati.",
+      "names": [],
+      "sourceUrls": [
+        "https://cromushrooms.eu/images/files/popisgljivazaispite.pdf"
+      ],
+      "label": "ljevkasta lisičica"
+    },
+    "hu": {
+      "description": "Kicsi, karcsú, tölcsér alakú gomba, amely gyakran nagy csapatokban, néha ezrével nő a mohában tűlevelűek alatt. Az északi félteke hűvös mérsékelt és boreális övében széles körben elterjedt Európában, Észak-Ázsiában és Észak-Amerikában, és a Himalájából is jelezték. Skandináviában nagyon gyakori, Európában délebbre viszont főként dombvidéken és hegyvidéken található.",
+      "cap": "A kalap 2–6 cm széles, vékony húsú. Eleinte domború, köldökszerű mélyedéssel, hamar tölcsér vagy trombita alakú lesz, közepe gyakran egészen az üreges tönkig átlyukad. Széle fiatalon begöngyölt, idősen hullámos, karéjos és szakadozott. Felszíne sárgásbarna, sötétbarna vagy szürkésbarna, néha olívás árnyalatú, finoman pikkelyes vagy nemezes, nedvesen kissé viaszos; idővel szürkésre fakul.",
+      "hymenium": "Valódi lemezek helyett tompa, alacsony, érszerű lécek borítják, amelyek messze lefutnak a tönkre, ismételten villásan elágaznak, és harántos erek kötik össze őket. Eleinte sárgásak, hamar szürkék, enyhén hamvasak, néha lilás árnyalatúak, és csak ritkán maradnak halványsárgák.",
+      "stipe": "A tönk 4–8 cm hosszú és 0,3–1 cm vastag, szabálytalanul hengeres, gyakran lapított vagy barázdált, sima és viaszos, sárga, narancssárga vagy sárgásbarna, közvetlenül a kalap alatt szürkés. A kalap közepétől majdnem a tövéig üreges; töve gyakran kissé bunkós, fehéres vagy halványsárga micéliummal.",
+      "flesh": "Húsa vékony, rugalmas, sárgás vagy barnás. Szaga és íze jellegtelen, néha enyhén illatos; nyersen kissé borsos ízű lehet.",
+      "sporePrint": "Spórapora fehér vagy nagyon halványan sárgás. Spórái szélesen ellipszoidok vagy majdnem gömbölyűek, simák és színtelenek, 8–12 × 6–10 µm.",
+      "habitat": "Tűlevelűekkel, főleg lucfenyővel és jegenyefenyővel, néha lombos fákkal, például bükkel képez mikorrhizát. Csoportosan, gyakran nagyon nagy számban nő mohák között és erősen korhadt, mohos fán, nedves, savanyú, tápanyagszegény tűlevelű és elegyes erdőkben, valamint lápokon. Európában augusztustól decemberig terem, később, mint a legtöbb más ehető gomba.",
+      "uses": "Jó, nagyra becsült ehető gomba. Bár vékony húsú, termőhelyein könnyű nagy mennyiségben gyűjteni, állaga kellemesen feszes, íze enyhe. Levesekbe, mártásokba, hús- és tésztaételekbe való, jól szárítható, így télre is eltehető. Mint minden vadon termő gombából, csak a biztosan felismert termőtesteket szabad megenni.",
+      "confusion": "A Craterellus lutescens élénkebb színű, narancssárga tönkkel, majdnem sima vagy csak ráncos, határozott lécek nélküli alsó felülettel és gyümölcsös illattal, és a nedvesebb helyeket kedveli. A Craterellus cinereus egészen szürke vagy szürkésbarna, sárga árnyalatok nélkül. A Cantharellus cibarius nagyobb, zömökebb és egészen sárga, tömör tönkkel és sárgabarackra emlékeztető illattal. A nem ehető Leotia lubrica ugyanott nőhet, de gumiszerű és kocsonyás, kis fejecskéjének alján nincsenek sem lécek, sem ráncok.",
+      "notes": "Molekuláris vizsgálatok alapján a fajt a Cantharellus nemzetségből a Craterellus nemzetségbe sorolták át. Észak-Amerika nyugati részének populációi külön genetikai vonalat alkotnak, amelyet önálló fajként írhatnak le; a C. tubaeformis név az európai és kelet-észak-amerikai gombánál marad, mert típusa Svédországból származik. Mivel mikorrhizás, nem termeszthető.",
+      "names": [],
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+      ],
+      "label": "tölcséres rókagomba"
+    },
+    "id": {
+      "description": "Jamur kecil dan ramping berbentuk corong yang sering tumbuh dalam kelompok besar, kadang ribuan, di antara lumut di bawah pohon konifer. Jamur ini tersebar luas di zona beriklim sedang yang sejuk dan zona boreal di belahan bumi utara, di Eropa, Asia bagian utara, dan Amerika Utara, dan juga dilaporkan dari Himalaya. Di Skandinavia jamur ini sangat umum, sedangkan lebih ke selatan di Eropa terutama ditemukan di perbukitan dan pegunungan.",
+      "cap": "Tudung berdiameter 2–6 cm dan berdaging tipis. Mula-mula cembung dengan lekukan seperti pusar, segera menjadi berbentuk corong atau terompet, dan bagian tengahnya sering berlubang hingga ke tangkai yang berongga. Tepinya tergulung ke dalam saat muda dan menjadi bergelombang, berlekuk, dan compang-camping seiring bertambahnya umur. Permukaannya cokelat kekuningan hingga cokelat tua atau cokelat keabu-abuan, kadang dengan semburat zaitun, bersisik halus hingga seperti kain kempa dan agak berlilin saat lembap; seiring umur warnanya memudar menjadi keabu-abuan.",
+      "hymenium": "Alih-alih bilah sejati, terdapat lipatan tumpul, dangkal, dan menyerupai urat yang menurun jauh ke tangkai, bercabang berulang kali, dan dihubungkan oleh urat melintang. Lipatan ini mula-mula kekuningan, segera menjadi abu-abu dengan lapisan tepung tipis, kadang dengan semburat ungu muda, dan hanya jarang tetap kuning pucat.",
+      "stipe": "Tangkai panjangnya 4–8 cm dan tebalnya 0,3–1 cm, silindris tidak teratur, sering pipih atau beralur, halus dan berlilin, kuning hingga kuning jingga atau cokelat kekuningan, dan keabu-abuan tepat di bawah tudung. Tangkai berongga dari tengah tudung hampir sampai ke pangkal; pangkalnya sering agak membesar seperti gada, dengan miselium keputihan hingga kuning pucat.",
+      "flesh": "Dagingnya tipis, elastis, dan kekuningan hingga kecokelatan. Bau dan rasanya tidak khas, kadang agak harum; saat mentah rasanya bisa sedikit pedas seperti lada.",
+      "sporePrint": "Cetakan sporanya putih hingga kekuningan sangat pucat. Sporanya lonjong lebar hingga hampir bulat, halus dan tidak berwarna, 8–12 × 6–10 µm.",
+      "habitat": "Jamur ini membentuk mikoriza dengan pohon konifer, terutama cemara norwegia dan cemara perak, dan kadang dengan pohon berdaun lebar seperti beech. Jamur ini tumbuh berkelompok, sering dalam jumlah sangat besar, di antara lumut dan pada kayu yang sangat lapuk dan berlumut di hutan konifer dan hutan campuran yang lembap, asam, dan miskin hara, serta di rawa gambut. Di Eropa jamur ini berbuah dari Agustus hingga Desember, lebih lambat daripada sebagian besar jamur pangan lainnya.",
+      "uses": "Jamur pangan yang baik dan sangat dihargai. Meskipun dagingnya tipis, jamur ini mudah dikumpulkan dalam jumlah banyak di tempat tumbuhnya, dan memiliki tekstur yang kenyal menyenangkan serta rasa yang lembut. Cocok untuk sup, saus, serta hidangan daging dan pasta, dan mudah dikeringkan sehingga dapat disimpan untuk musim dingin. Seperti halnya jamur liar mana pun, makanlah hanya tubuh buah yang telah diidentifikasi dengan pasti.",
+      "confusion": "Craterellus lutescens berwarna lebih cerah, dengan tangkai kuning jingga, sisi bawah yang hampir halus atau hanya berkerut tanpa lipatan yang jelas, dan bau buah, serta lebih menyukai tempat yang lebih basah. Craterellus cinereus seluruhnya abu-abu hingga cokelat keabu-abuan, tanpa warna kuning. Cantharellus cibarius lebih besar, lebih gempal, dan seluruhnya kuning, dengan tangkai padat dan bau seperti aprikot. Leotia lubrica, yang tidak dapat dimakan, dapat tumbuh di tempat yang sama, tetapi bertekstur seperti karet dan gelatin, dengan kepala kecil tanpa lipatan maupun kerutan di bagian bawahnya.",
+      "notes": "Studi molekuler memindahkan spesies ini dari genus Cantharellus ke genus Craterellus. Populasi di Amerika Utara bagian barat membentuk garis keturunan genetik tersendiri yang mungkin akan dideskripsikan sebagai spesies terpisah; nama C. tubaeformis tetap digunakan untuk jamur dari Eropa dan Amerika Utara bagian timur, karena spesimen tipenya berasal dari Swedia. Karena bermikoriza, jamur ini tidak dapat dibudidayakan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo piccolo e slanciato, a forma di imbuto, che cresce spesso in grandi gruppi, a volte a migliaia, nel muschio sotto le conifere. È ampiamente diffuso nella zona temperata fresca e boreale dell'emisfero settentrionale, in Europa, Asia settentrionale e America settentrionale, ed è segnalato anche dall'Himalaya. In Scandinavia è molto comune, mentre più a sud in Europa si trova soprattutto in collina e in montagna.",
+      "cap": "Il cappello misura 2–6 cm di diametro e ha carne sottile. All'inizio è convesso con una depressione ombelicata, presto diventa a imbuto o a trombetta ed è spesso perforato al centro fino al gambo cavo. Il margine è involuto negli esemplari giovani e con l'età diventa ondulato, lobato e lacerato. La superficie è bruno-giallastra fino a bruno scura o bruno-grigia, a volte con una sfumatura olivastra, finemente squamulosa fino a feltrata e leggermente cerosa con l'umidità; con l'età sbiadisce verso il grigiastro.",
+      "hymenium": "Al posto delle vere lamelle presenta pliche ottuse, basse, simili a venature, lungamente decorrenti sul gambo, ripetutamente forcate e collegate da venature trasversali. Sono dapprima giallastre, presto grigie con una leggera pruina, talvolta con una sfumatura lilla, e solo raramente restano giallo pallido.",
+      "stipe": "Il gambo è lungo 4–8 cm e spesso 0,3–1 cm, irregolarmente cilindrico, spesso compresso o solcato, liscio e ceroso, giallo fino a giallo-arancio o bruno-giallastro e grigiastro subito sotto il cappello. È cavo dal centro del cappello quasi fino alla base; la base è spesso leggermente clavata, con micelio biancastro fino a giallo pallido.",
+      "flesh": "La carne è sottile, elastica, giallastra fino a brunastra. Odore e sapore sono poco distintivi, a volte leggermente profumati; da cruda può avere un sapore un po' pepato.",
+      "sporePrint": "La sporata è bianca fino a giallastra molto pallida. Le spore sono largamente ellissoidali fino a quasi rotonde, lisce e incolori, 8–12 × 6–10 µm.",
+      "habitat": "Forma micorrize con le conifere, soprattutto abete rosso e abete bianco, a volte anche con latifoglie come il faggio. Cresce gregario, spesso in numero elevatissimo, tra i muschi e su legno molto marcescente e coperto di muschio, in boschi di conifere e misti umidi, acidi e poveri di nutrienti e nelle torbiere. In Europa fruttifica da agosto a dicembre, più tardi della maggior parte degli altri funghi commestibili.",
+      "uses": "Un buon commestibile, molto apprezzato. Pur avendo carne sottile, dove cresce è facile raccoglierlo in quantità, e ha una consistenza piacevolmente soda e un sapore delicato. È adatto a zuppe, sughi, piatti di carne e di pasta e si essicca bene, così da poter essere conservato per l'inverno. Come per qualsiasi fungo selvatico, consumare solo esemplari identificati con certezza.",
+      "confusion": "Craterellus lutescens ha colori più vivaci, con gambo giallo-arancio, faccia inferiore quasi liscia o solo rugosa senza pliche distinte e odore fruttato, e preferisce i luoghi più umidi. Craterellus cinereus è interamente grigio fino a bruno-grigio, senza toni gialli. Cantharellus cibarius è più grande, più tozzo e interamente giallo, con gambo pieno e odore di albicocca. Leotia lubrica, non commestibile, può crescere negli stessi luoghi, ma è gommosa e gelatinosa, con una piccola testa priva di pliche e di rughe sulla faccia inferiore.",
+      "notes": "Studi molecolari hanno spostato questa specie dal genere Cantharellus al genere Craterellus. Le popolazioni dell'America settentrionale occidentale formano una linea genetica separata che potrebbe essere descritta come specie distinta; il nome C. tubaeformis resta al fungo dell'Europa e dell'America settentrionale orientale, perché il suo tipo proviene dalla Svezia. Essendo micorrizico, non può essere coltivato.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "小形で細身の漏斗形のきのこで、針葉樹の下のコケの中に大群をなして、ときに数千本も生える。北半球の冷温帯から亜寒帯にかけて、ヨーロッパ、北アジア、北アメリカに広く分布し、ヒマラヤからも報告されている。スカンジナビアではごく普通に見られるが、ヨーロッパのより南の地域では主に丘陵地や山地に見られる。",
+      "cap": "傘は径2–6 cmで肉は薄い。はじめはへそ状のくぼみのある饅頭形で、まもなく漏斗形からラッパ形になり、中央はしばしば中空の柄まで穴が開く。縁は若いうちは内側に巻き、古くなると波打ち、裂片状になって裂ける。表面は黄褐色から暗褐色または灰褐色で、ときにオリーブ色を帯び、細かい鱗片状からフェルト状で、湿るとやや蝋質；古くなると灰色っぽく退色する。",
+      "hymenium": "本当のひだの代わりに、鈍く低い脈状のしわひだがあり、柄に長く垂生し、何度も二又に分岐し、横脈で互いに連絡する。はじめは黄色っぽく、まもなく弱い粉をふいた灰色になり、ときに淡紫色を帯び、淡黄色のままのことはまれである。",
+      "stipe": "柄は長さ4–8 cm、太さ0.3–1 cmで、不規則な円柱形、しばしば扁平または溝があり、平滑で蝋質、黄色から橙黄色または黄褐色で、傘のすぐ下は灰色っぽい。傘の中央から基部近くまで中空で、基部はしばしばやや棍棒状になり、白っぽいから淡黄色の菌糸がある。",
+      "flesh": "肉は薄く弾力があり、黄色っぽいから褐色っぽい。におい・味は特徴がなく、ときにかすかに芳香がある；生ではやや胡椒のような辛みを感じることがある。",
+      "sporePrint": "胞子紋は白色からごく淡い黄色。胞子は広楕円形からほぼ球形、平滑で無色、8–12 × 6–10 µm。",
+      "habitat": "針葉樹、特にトウヒやモミ類と、ときにブナのような広葉樹と菌根を形成する。湿った酸性で栄養に乏しい針葉樹林や混交林、湿原で、コケの間やよく腐朽したコケむした材上に、しばしば非常に多数が群生する。ヨーロッパでは8月から12月に発生し、ほかの多くの食用きのこより遅い。",
+      "uses": "良質で高く評価される食用きのこ。肉は薄いが、生える場所では大量に採りやすく、心地よい歯ごたえと穏やかな風味がある。スープ、ソース、肉料理やパスタに合い、よく乾燥するので冬に向けて保存できる。どの野生のきのことも同じく、確実に同定した子実体だけを食べること。",
+      "confusion": "Craterellus lutescensは色がより鮮やかで、柄は橙黄色、裏面はほぼ平滑かしわがあるだけで明瞭なしわひだがなく、果物のようなにおいがあり、より湿った場所を好む。Craterellus cinereusは全体が灰色から灰褐色で、黄色みがない。Cantharellus cibariusはより大きくずんぐりして全体が黄色く、柄は中実でアンズのようなにおいがある。食用にならないLeotia lubricaは同じ場所に生えることがあるが、ゴム質からゼラチン質で、小さな頭部の下面にはしわひだもしわもない。",
+      "notes": "分子系統学的研究により、本種はCantharellus属からCraterellus属に移された。北アメリカ西部の個体群は別の遺伝的系統をなし、独立した種として記載される可能性がある；タイプ標本がスウェーデン産であるため、C. tubaeformisの名はヨーロッパと北アメリカ東部のきのこに残る。菌根菌であるため、栽培することはできない。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://ja.wikipedia.org/wiki/アンズタケ"
+      ],
+      "label": "ミキイロウスタケ"
+    },
+    "ko": {
+      "description": "작고 가느다란 깔때기 모양의 버섯으로, 침엽수 아래 이끼 속에서 흔히 큰 무리를 지어, 때로는 수천 개씩 자란다. 북반구의 서늘한 온대와 아한대 지역, 즉 유럽, 북아시아, 북아메리카에 널리 분포하며 히말라야에서도 보고되었다. 스칸디나비아에서는 매우 흔하지만, 유럽의 더 남쪽 지역에서는 주로 구릉지와 산지에서 발견된다.",
+      "cap": "갓은 지름 2–6 cm이고 살이 얇다. 처음에는 배꼽 모양으로 오목한 반구형이며, 곧 깔때기 모양이나 나팔 모양이 되고, 가운데는 흔히 속이 빈 자루까지 뚫려 있다. 가장자리는 어릴 때 안쪽으로 말려 있다가 나이가 들면 물결 모양이 되고 갈라지며 너덜너덜해진다. 표면은 황갈색에서 암갈색 또는 회갈색이며, 때로 올리브색을 띠고, 미세한 인편이 있거나 펠트 모양이며 습할 때 약간 밀랍질이다. 나이가 들면 회색빛으로 바랜다.",
+      "hymenium": "진짜 주름살 대신 무디고 낮은 맥상의 주름이 있어 자루를 따라 길게 내려가며, 여러 번 두 갈래로 갈라지고 가로맥으로 서로 연결된다. 처음에는 노르스름하다가 곧 약한 분상의 회색이 되며, 때로 연보라색을 띠고, 연노란색으로 남는 경우는 드물다.",
+      "stipe": "자루는 길이 4–8 cm, 굵기 0.3–1 cm이며, 불규칙한 원통형으로 흔히 납작하거나 홈이 있고, 매끄럽고 밀랍질이며, 노란색에서 주황빛 노란색 또는 황갈색이고 갓 바로 아래는 회색빛이다. 갓 가운데에서 밑동 가까이까지 속이 비어 있으며, 밑동은 흔히 약간 곤봉 모양이고 흰색에서 연노란색의 균사가 있다.",
+      "flesh": "살은 얇고 탄력이 있으며 노르스름하거나 갈색빛이다. 냄새와 맛은 뚜렷하지 않고 때로 약한 향이 있으며, 날것은 약간 후추처럼 매운맛이 날 수 있다.",
+      "sporePrint": "포자문은 흰색에서 아주 연한 노란색이다. 포자는 넓은 타원형에서 거의 구형이며, 매끄럽고 무색이고, 8–12 × 6–10 µm이다.",
+      "habitat": "침엽수, 특히 가문비나무와 전나무류와, 때로는 너도밤나무 같은 활엽수와 균근을 형성한다. 습하고 산성이며 양분이 적은 침엽수림과 혼합림, 그리고 습지에서 이끼 사이나 잘 썩은 이끼 낀 목재 위에 흔히 매우 많은 수가 무리 지어 자란다. 유럽에서는 8월부터 12월까지 발생하며, 대부분의 다른 식용 버섯보다 늦다.",
+      "uses": "맛이 좋고 높이 평가되는 식용 버섯이다. 살은 얇지만 자라는 곳에서는 많은 양을 쉽게 채취할 수 있으며, 기분 좋게 단단한 식감과 순한 맛이 있다. 수프, 소스, 고기 요리와 파스타에 잘 어울리고 잘 마르므로 겨울을 위해 저장할 수 있다. 다른 모든 야생 버섯과 마찬가지로 확실하게 동정한 자실체만 먹어야 한다.",
+      "confusion": "Craterellus lutescens는 색이 더 선명하며, 자루는 주황빛 노란색이고, 아랫면은 거의 매끄럽거나 주름만 있을 뿐 뚜렷한 맥상 주름이 없으며, 과일 같은 냄새가 나고 더 축축한 곳을 좋아한다. Craterellus cinereus는 전체가 회색에서 회갈색이며 노란빛이 없다. Cantharellus cibarius는 더 크고 땅딸막하며 전체가 노랗고, 자루 속이 차 있으며 살구 같은 냄새가 난다. 먹을 수 없는 Leotia lubrica는 같은 장소에서 자랄 수 있으나, 고무질이고 젤라틴질이며 작은 머리 아랫면에 주름도 잔주름도 없다.",
+      "notes": "분자 연구에 따라 이 종은 Cantharellus 속에서 Craterellus 속으로 옮겨졌다. 북아메리카 서부의 개체군은 별개의 유전 계통을 이루어 독립된 종으로 기재될 수 있다. 기준 표본이 스웨덴에서 왔기 때문에 C. tubaeformis라는 이름은 유럽과 북아메리카 동부의 버섯에 남는다. 균근을 형성하므로 재배할 수 없다.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.nibr.go.kr/"
+      ],
+      "label": "깔때기꾀꼬리버섯"
+    },
+    "lt": {
+      "description": "Nedidelis, lieknas, piltuvo formos grybas, dažnai augantis didelėmis grupėmis, kartais tūkstančiais, samanose po spygliuočiais. Jis plačiai paplitęs Šiaurės pusrutulio vėsiojoje vidutinio klimato ir borealinėje zonoje Europoje, Šiaurės Azijoje ir Šiaurės Amerikoje, taip pat nurodomas Himalajuose. Skandinavijoje jis labai dažnas, o toliau į pietus Europoje randamas daugiausia kalvotose ir kalnuotose vietovėse.",
+      "cap": "Kepurėlė 2–6 cm skersmens, plono minkštimo. Iš pradžių ji išgaubta su bambine įduba, netrukus tampa piltuvo ar trimito formos, o jos centras dažnai prakiuręs iki tuščiaviduro kotelio. Kraštas jaunų grybų įsuktas, su amžiumi tampa banguotas, skiautėtas ir suskilinėjęs. Paviršius gelsvai rudas iki tamsiai rudo ar pilkai rudo, kartais alyvinio atspalvio, smulkiai žvynuotas iki veltiniško, drėgnas kiek vaškiškas; senstant blunka iki pilkšvo.",
+      "hymenium": "Vietoj tikrų lakštelių yra buki, žemi, gyslas primenantys raukšlėti klostai, kurie toli nubėga koteliu, pakartotinai šakojasi ir yra sujungti skersinėmis gyslomis. Iš pradžių jie gelsvi, netrukus pilki su silpnu apnašu, kartais alyvinio atspalvio, ir tik retai lieka šviesiai geltoni.",
+      "stipe": "Kotelis 4–8 cm ilgio ir 0,3–1 cm storio, netaisyklingai cilindriškas, dažnai suplotas ar vagotas, lygus ir vaškiškas, geltonas iki oranžiškai geltono ar gelsvai rudo, o tiesiai po kepurėle pilkšvas. Jis tuščiaviduris nuo kepurėlės centro beveik iki pagrindo; pagrindas dažnai kiek buožiškas, su balsvu iki šviesiai geltono micelio.",
+      "flesh": "Minkštimas plonas, elastingas, gelsvas iki rusvo. Kvapas ir skonis neišsiskiriantys, kartais švelniai kvapnūs; žalias gali būti kiek aitrokas, pipirinio skonio.",
+      "sporePrint": "Sporų atspaudas baltas iki labai šviesiai gelsvo. Sporos plačiai elipsoidinės iki beveik apvalių, lygios ir bespalvės, 8–12 × 6–10 µm.",
+      "habitat": "Jis sudaro mikorizę su spygliuočiais, ypač eglėmis ir kėniais, kartais su lapuočiais, pavyzdžiui, bukais. Auga grupėmis, dažnai labai gausiai, tarp samanų ir ant stipriai supuvusios, samanotos medienos drėgnuose, rūgščiuose, maisto medžiagų skurdžiuose spygliuočių ir mišriuose miškuose bei pelkėse. Europoje vaisiakūnius sudaro nuo rugpjūčio iki gruodžio, vėliau nei dauguma kitų valgomųjų grybų.",
+      "uses": "Geras, labai vertinamas valgomasis grybas. Nors jo minkštimas plonas, augavietėse jį lengva prisirinkti dideliais kiekiais, be to, jis malonios tvirtos tekstūros ir švelnaus skonio. Tinka sriuboms, padažams, mėsos ir makaronų patiekalams, gerai džiūsta, todėl jį galima laikyti žiemai. Kaip ir bet kurį laukinį grybą, valgykite tik tiksliai atpažintus vaisiakūnius.",
+      "confusion": "Craterellus lutescens yra ryškesnės spalvos, su oranžiškai geltonu koteliu, beveik lygia ar tik raukšlėta apatine puse be aiškių klostų ir vaisių kvapu, be to, jis mėgsta drėgnesnes vietas. Craterellus cinereus visas pilkas iki pilkai rudo, be geltonų atspalvių. Cantharellus cibarius didesnis, kresnesnis ir visas geltonas, su pilnaviduriu koteliu ir abrikosų kvapu. Nevalgoma Leotia lubrica gali augti tose pačiose vietose, tačiau ji guminė ir drebučių konsistencijos, su maža galvute, kurios apačioje nėra nei klostų, nei raukšlių.",
+      "notes": "Molekuliniai tyrimai šią rūšį perkėlė iš genties Cantharellus į gentį Craterellus. Vakarų Šiaurės Amerikos populiacijos sudaro atskirą genetinę liniją, kuri gali būti aprašyta kaip atskira rūšis; pavadinimas C. tubaeformis lieka Europos ir rytų Šiaurės Amerikos grybui, nes jo tipas kilęs iš Švedijos. Kadangi jis sudaro mikorizę, jo negalima auginti.",
+      "names": [],
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "rudasis trimitėlis"
+    },
+    "lv": {
+      "description": "Neliela, slaida, piltuvveida sēne, kas bieži aug lielos baros, dažkārt tūkstošiem, sūnās zem skuju kokiem. Tā ir plaši izplatīta ziemeļu puslodes vēsajā mērenajā un boreālajā joslā Eiropā, Ziemeļāzijā un Ziemeļamerikā, un ziņots arī par atradnēm Himalajos. Skandināvijā tā ir ļoti bieža, savukārt tālāk uz dienvidiem Eiropā tā sastopama galvenokārt pakalnu un kalnu apvidos.",
+      "cap": "Cepurīte ir 2–6 cm plata, ar plānu mīkstumu. Sākumā tā ir izliekta ar nabveida iedobumu, drīz kļūst piltuvveida vai taurveida, un tās vidus bieži ir caurs līdz dobajam kātiņam. Mala jaunām sēnēm ir ieliekta, ar vecumu kļūst viļņaina, daivaina un saplēsta. Virsma ir dzeltenbrūna līdz tumši brūna vai pelēkbrūna, dažkārt ar olīvkrāsas toni, smalki zvīņaina līdz filcaina un mitrumā nedaudz vaskaina; ar vecumu izbalē pelēcīga.",
+      "hymenium": "Īstu lapiņu vietā tai ir strupas, zemas, dzīslām līdzīgas krokas, kas tālu nolaižas pa kātiņu, atkārtoti dakšveidīgi zarojas un ir savienotas ar šķērsdzīslām. Sākumā tās ir dzeltenīgas, drīz pelēkas ar vāju apsarmi, dažkārt ar violetu toni, un tikai reti paliek gaiši dzeltenas.",
+      "stipe": "Kātiņš ir 4–8 cm garš un 0,3–1 cm resns, neregulāri cilindrisks, bieži saplacināts vai rievots, gluds un vaskains, dzeltens līdz oranždzeltens vai dzeltenbrūns un tieši zem cepurītes pelēcīgs. Tas ir dobs no cepurītes vidus gandrīz līdz pamatnei; pamatne bieži ir nedaudz vālesveida, ar bālganu līdz gaiši dzeltenu micēliju.",
+      "flesh": "Mīkstums ir plāns, elastīgs, dzeltenīgs līdz brūngans. Smarža un garša ir neizteiksmīga, dažkārt viegli smaržīga; svaigā veidā garša var būt nedaudz pipariska.",
+      "sporePrint": "Sporu nospiedums ir balts līdz ļoti gaiši dzeltenīgs. Sporas ir plati elipsoidālas līdz gandrīz apaļas, gludas un bezkrāsainas, 8–12 × 6–10 µm.",
+      "habitat": "Tā veido mikorizu ar skuju kokiem, īpaši egli un baltegli, un dažkārt ar lapu kokiem, piemēram, dižskābardi. Tā aug grupās, bieži ļoti lielā skaitā, starp sūnām un uz stipri satrūdējušas, apsūnojušas koksnes mitros, skābos, barības vielām nabadzīgos skuju koku un jauktos mežos un purvos. Eiropā augļķermeņi veidojas no augusta līdz decembrim, vēlāk nekā lielākajai daļai citu ēdamo sēņu.",
+      "uses": "Laba, augsti vērtēta ēdamā sēne. Lai gan tās mīkstums ir plāns, augšanas vietās to viegli salasīt lielā daudzumā, un tai ir patīkami stingra konsistence un maiga garša. Tā der zupām, mērcēm, gaļas un makaronu ēdieniem un labi žūst, tāpēc to var uzglabāt ziemai. Tāpat kā jebkuru savvaļas sēni, ēd tikai droši noteiktus augļķermeņus.",
+      "confusion": "Craterellus lutescens ir spilgtāk krāsota, ar oranždzeltenu kātiņu, gandrīz gludu vai tikai krunkainu apakšpusi bez skaidrām krokām un augļu smaržu, un tā dod priekšroku mitrākām vietām. Craterellus cinereus ir visa pelēka līdz pelēkbrūna, bez dzelteniem toņiem. Cantharellus cibarius ir lielāka, druknāka un visa dzeltena, ar pildītu kātiņu un aprikožu smaržu. Neēdamā Leotia lubrica var augt tajās pašās vietās, taču tā ir gumijveida un recekļaina, ar nelielu galviņu, kuras apakšpusē nav ne kroku, ne krunku.",
+      "notes": "Molekulārie pētījumi šo sugu pārcēla no ģints Cantharellus uz ģinti Craterellus. Populācijas Ziemeļamerikas rietumos veido atsevišķu ģenētisko līniju, ko var aprakstīt kā patstāvīgu sugu; nosaukums C. tubaeformis paliek Eiropas un Ziemeļamerikas austrumu sēnei, jo tās tips nāk no Zviedrijas. Tā kā tā veido mikorizu, to nevar audzēt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "sekstainā gailene"
+    },
+    "nl": {
+      "description": "Een kleine, slanke, trechtervormige paddenstoel die vaak in grote groepen, soms bij duizenden, in mos onder naaldbomen groeit. Hij is wijdverbreid in de koel-gematigde en boreale zone van het noordelijk halfrond, in Europa, Noord-Azië en Noord-Amerika, en wordt ook uit de Himalaya gemeld. In Scandinavië is hij zeer algemeen, terwijl hij verder naar het zuiden in Europa vooral in heuvel- en bergland voorkomt.",
+      "cap": "De hoed is 2–6 cm breed en dunvlezig. Hij is eerst gewelfd met een navelvormige indeuking, wordt al snel trechter- of trompetvormig en is in het midden vaak doorboord tot in de holle steel. De rand is jong ingerold en wordt met de leeftijd golvend, gelobd en gerafeld. Het oppervlak is geelbruin tot donkerbruin of grijsbruin, soms met een olijfkleurige tint, fijn schubbig tot viltig en vochtig iets wasachtig; met de leeftijd verbleekt het tot grijzig.",
+      "hymenium": "In plaats van echte plaatjes zijn er stompe, lage, aderachtige lijsten die ver langs de steel aflopen, zich herhaaldelijk vorken en door dwarsaders verbonden zijn. Ze zijn eerst geelachtig, al snel grijs met een lichte berijping, soms met een lila tint, en blijven slechts zelden lichtgeel.",
+      "stipe": "De steel is 4–8 cm lang en 0,3–1 cm dik, onregelmatig cilindrisch, vaak samengedrukt of gegroefd, glad en wasachtig, geel tot oranjegeel of geelbruin en vlak onder de hoed grijzig. Hij is hol van het midden van de hoed tot bijna aan de voet; de voet is vaak licht knotsvormig, met witachtig tot lichtgeel mycelium.",
+      "flesh": "Het vlees is dun, elastisch en geelachtig tot bruinachtig. Geur en smaak zijn onopvallend, soms licht geurig; rauw kan het een beetje peperig smaken.",
+      "sporePrint": "De sporenprint is wit tot zeer lichtgeelachtig. De sporen zijn breed ellipsoïde tot bijna rond, glad en kleurloos, 8–12 × 6–10 µm.",
+      "habitat": "Hij vormt mycorrhiza met naaldbomen, vooral spar en zilverspar, soms ook met loofbomen zoals beuk. Hij groeit in groepen, vaak in zeer grote aantallen, tussen mos en op sterk vermolmd, bemost hout in vochtige, zure, voedselarme naald- en gemengde bossen en in venen. In Europa vormt hij vruchtlichamen van augustus tot december, later dan de meeste andere eetbare paddenstoelen.",
+      "uses": "Een goede, zeer gewaardeerde eetbare paddenstoel. Hoewel hij dunvlezig is, kan hij op zijn groeiplaatsen gemakkelijk in grote hoeveelheden worden verzameld, en hij heeft een aangenaam stevige textuur en een milde smaak. Hij is geschikt voor soepen, sauzen, vlees- en pastagerechten en laat zich goed drogen, zodat hij voor de winter bewaard kan worden. Eet, zoals bij elke wilde paddenstoel, alleen vruchtlichamen die met zekerheid zijn gedetermineerd.",
+      "confusion": "Craterellus lutescens is feller gekleurd, met een oranjegele steel, een bijna gladde of alleen gerimpelde onderkant zonder duidelijke lijsten en een fruitige geur, en hij geeft de voorkeur aan nattere plekken. Craterellus cinereus is geheel grijs tot grijsbruin, zonder gele tinten. Cantharellus cibarius is groter, gedrongener en geheel geel, met een volle steel en een abrikoosachtige geur. Leotia lubrica, die niet eetbaar is, kan op dezelfde plekken groeien, maar is rubberachtig en gelatineus, met een klein kopje zonder lijsten of rimpels aan de onderkant.",
+      "notes": "Moleculair onderzoek heeft deze soort van Cantharellus naar Craterellus verplaatst. Populaties in het westen van Noord-Amerika vormen een aparte genetische lijn die als afzonderlijke soort beschreven zou kunnen worden; de naam C. tubaeformis blijft bij de paddenstoel van Europa en het oosten van Noord-Amerika, omdat het type uit Zweden komt. Omdat hij mycorrhiza vormt, kan hij niet worden gekweekt.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Trechtercantharel"
+      ],
+      "label": "Trechtercantharel"
+    },
+    "no": {
+      "description": "En liten, slank, traktformet sopp som ofte vokser i store flokker, noen ganger i tusenvis, i mose under bartrær. Den er vidt utbredt i den kjølig tempererte og boreale sonen på den nordlige halvkule, i Europa, Nord-Asia og Nord-Amerika, og er også meldt fra Himalaya. Den er svært vanlig i Skandinavia, mens den lenger sør i Europa særlig finnes i ås- og fjellstrøk.",
+      "cap": "Hatten er 2–6 cm bred og tynnkjøttet. Den er først hvelvet med en navleaktig fordypning, blir snart trakt- eller trompetformet og er ofte gjennomhullet i midten ned i den hule stilken. Kanten er innrullet hos unge fruktlegemer og blir med alderen bølget, lappet og frynsete. Overflaten er gulbrun til mørkebrun eller gråbrun, av og til med olivenaktig tone, fint skjellet til filtet og litt voksaktig i fuktig vær; med alderen blekner den til gråaktig.",
+      "hymenium": "I stedet for ekte skiver har den butte, lave, årelignende lister som løper langt ned på stilken, gaffeldeler seg gjentatte ganger og er forbundet med tverrårer. De er først gulaktige, snart grå med svak dogg, av og til med lilla tone, og forblir bare sjelden blekgule.",
+      "stipe": "Stilken er 4–8 cm lang og 0,3–1 cm tykk, uregelmessig sylindrisk, ofte sammentrykt eller furet, glatt og voksaktig, gul til oransjegul eller gulbrun og gråaktig rett under hatten. Den er hul fra midten av hatten nesten ned til basis; basis er ofte svakt kølleformet, med hvitaktig til blekgult mycel.",
+      "flesh": "Kjøttet er tynt, elastisk og gulaktig til brunaktig. Lukt og smak er uutpreget, noen ganger svakt duftende; rå kan den smake litt pepperaktig.",
+      "sporePrint": "Sporepulveret er hvitt til svært blekt gulaktig. Sporene er bredt ellipsoide til nesten runde, glatte og fargeløse, 8–12 × 6–10 µm.",
+      "habitat": "Den danner mykorrhiza med bartrær, særlig gran og edelgran, og av og til med løvtrær som bøk. Den vokser selskapelig, ofte i svært stort antall, blant mose og på sterkt nedbrutt, mosegrodd ved i fuktige, sure, næringsfattige bar- og blandingsskoger og i myrer. I Europa danner den fruktlegemer fra august til desember, senere enn de fleste andre matsopper.",
+      "uses": "En god, svært verdsatt matsopp. Selv om den er tynnkjøttet, er den lett å plukke i mengder der den vokser, og den har en behagelig fast konsistens og en mild smak. Den passer i supper, sauser, kjøtt- og pastaretter og tørker godt, slik at den kan lagres til vinteren. Som med all viltvoksende sopp skal man bare spise fruktlegemer som er sikkert bestemt.",
+      "confusion": "Craterellus lutescens er klarere farget, med oransjegul stilk, en nesten glatt eller bare rynket underside uten tydelige lister og en fruktig lukt, og den foretrekker våtere steder. Craterellus cinereus er grå til gråbrun overalt, uten gule toner. Cantharellus cibarius er større, mer kompakt og gul overalt, med massiv stilk og aprikosaktig lukt. Leotia lubrica, som ikke er spiselig, kan vokse på de samme stedene, men den er gummiaktig og geléaktig, med et lite hode uten lister eller rynker på undersiden.",
+      "notes": "Molekylære undersøkelser har flyttet arten fra Cantharellus til Craterellus. Bestander i det vestlige Nord-Amerika utgjør en egen genetisk linje som kan bli beskrevet som en selvstendig art; navnet C. tubaeformis blir værende hos soppen i Europa og det østlige Nord-Amerika, fordi typen stammer fra Sverige. Siden den danner mykorrhiza, kan den ikke dyrkes.",
+      "names": [],
+      "sourceUrls": [
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "traktkantarell"
+    },
+    "pl": {
+      "description": "Niewielki, smukły grzyb o lejkowatym kształcie, rosnący często w dużych gromadach, czasem tysiącami, w mchu pod drzewami iglastymi. Jest szeroko rozpowszechniony w chłodnej strefie umiarkowanej i borealnej półkuli północnej, w Europie, północnej Azji i Ameryce Północnej, notowano go także w Himalajach. W Skandynawii jest bardzo pospolity, natomiast dalej na południe w Europie występuje głównie na pogórzach i w górach.",
+      "cap": "Kapelusz ma 2–6 cm średnicy i cienki miąższ. Początkowo jest wypukły z pępkowatym wgłębieniem, szybko staje się lejkowaty lub trąbkowaty, a jego środek często jest przedziurawiony do pustego trzonu. Brzeg u młodych owocników jest podwinięty, z wiekiem staje się falisty, klapowany i postrzępiony. Powierzchnia jest żółtobrązowa do ciemnobrązowej lub szarobrązowej, czasem z oliwkowym odcieniem, drobno łuseczkowata do filcowatej, w stanie wilgotnym nieco woskowata; z wiekiem blaknie do szarawej.",
+      "hymenium": "Zamiast prawdziwych blaszek ma tępe, niskie, żyłkowate listewki, które daleko zbiegają na trzon, wielokrotnie się rozwidlają i są połączone poprzecznymi żyłkami. Początkowo są żółtawe, szybko szare z lekkim nalotem, czasem z liliowym odcieniem, i tylko rzadko pozostają bladożółte.",
+      "stipe": "Trzon ma 4–8 cm długości i 0,3–1 cm grubości, jest nieregularnie walcowaty, często spłaszczony lub bruzdowany, gładki i woskowaty, żółty do pomarańczowożółtego lub żółtobrązowego, tuż pod kapeluszem szarawy. Jest pusty od środka kapelusza prawie do podstawy; podstawa jest często lekko maczugowata, z białawą do bladożółtej grzybnią.",
+      "flesh": "Miąższ jest cienki, elastyczny, żółtawy do brązowawego. Zapach i smak są niewyraźne, czasem lekko aromatyczne; na surowo może być nieco pieprzny.",
+      "sporePrint": "Wysyp zarodników jest biały do bardzo bladożółtawego. Zarodniki są szeroko elipsoidalne do prawie okrągłych, gładkie i bezbarwne, 8–12 × 6–10 µm.",
+      "habitat": "Tworzy mikoryzę z drzewami iglastymi, zwłaszcza ze świerkiem i jodłą, czasem z drzewami liściastymi, takimi jak buk. Rośnie gromadnie, często w bardzo dużej liczbie, wśród mchów i na silnie zbutwiałym, omszałym drewnie w wilgotnych, kwaśnych, ubogich lasach iglastych i mieszanych oraz na torfowiskach. W Europie owocniki wytwarza od sierpnia do grudnia, później niż większość innych grzybów jadalnych.",
+      "uses": "Dobry, wysoko ceniony grzyb jadalny. Choć ma cienki miąższ, w miejscach występowania łatwo zebrać go w dużych ilościach, a jego konsystencja jest przyjemnie jędrna, smak zaś łagodny. Nadaje się do zup, sosów, dań mięsnych i makaronów, dobrze się suszy, więc można go przechowywać na zimę. Jak w przypadku każdego dzikiego grzyba, należy jeść tylko owocniki oznaczone z całą pewnością.",
+      "confusion": "Craterellus lutescens jest jaskrawiej ubarwiony, ma pomarańczowożółty trzon, prawie gładki lub tylko pomarszczony spód bez wyraźnych listewek i owocowy zapach, a także woli wilgotniejsze miejsca. Craterellus cinereus jest w całości szary do szarobrązowego, bez żółtych tonów. Cantharellus cibarius jest większy, bardziej krępy i w całości żółty, z pełnym trzonem i morelowym zapachem. Niejadalna Leotia lubrica może rosnąć w tych samych miejscach, ale jest gumowata i galaretowata, z małą główką bez listewek i zmarszczek od spodu.",
+      "notes": "Badania molekularne przeniosły ten gatunek z rodzaju Cantharellus do rodzaju Craterellus. Populacje z zachodniej części Ameryki Północnej tworzą odrębną linię genetyczną, która może zostać opisana jako osobny gatunek; nazwa C. tubaeformis pozostaje przy grzybie z Europy i wschodniej części Ameryki Północnej, ponieważ jego typ pochodzi ze Szwecji. Jako grzyb mikoryzowy nie może być uprawiany.",
+      "names": [
+        "pieprznik trąbkowy"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Lejkowiec_trąbkowy",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "lejkowiec trąbkowy"
+    },
+    "pt": {
+      "description": "Um cogumelo pequeno e esguio, em forma de funil, que cresce muitas vezes em grandes grupos, por vezes aos milhares, no musgo sob coníferas. Está amplamente distribuído nas zonas temperadas frescas e boreais do hemisfério norte, na Europa, na Ásia setentrional e na América do Norte, e é também referido nos Himalaias. Na Escandinávia é muito comum, enquanto mais a sul na Europa se encontra sobretudo em colinas e montanhas.",
+      "cap": "O chapéu mede 2–6 cm de diâmetro e tem carne fina. A princípio é convexo, com uma depressão umbilicada, logo se torna em forma de funil ou de trompete e muitas vezes está perfurado no centro até ao pé oco. A margem é enrolada nos exemplares jovens e com a idade torna-se ondulada, lobada e esfarrapada. A superfície é castanho-amarelada a castanho-escura ou castanho-acinzentada, por vezes com um tom oliváceo, finamente escamosa a feltrosa e um pouco cerosa com humidade; com a idade desbota para acinzentada.",
+      "hymenium": "Em vez de verdadeiras lâminas tem pregas rombas, baixas, semelhantes a veias, longamente decorrentes no pé, repetidamente bifurcadas e ligadas por veias transversais. São a princípio amareladas, logo cinzentas com uma leve pruína, por vezes com um tom lilás, e só raramente permanecem amarelo-pálidas.",
+      "stipe": "O pé mede 4–8 cm de comprimento e 0,3–1 cm de espessura, é irregularmente cilíndrico, muitas vezes comprimido ou sulcado, liso e ceroso, amarelo a amarelo-alaranjado ou castanho-amarelado e acinzentado logo abaixo do chapéu. É oco desde o centro do chapéu quase até à base; a base é muitas vezes ligeiramente claviforme, com micélio esbranquiçado a amarelo-pálido.",
+      "flesh": "A carne é fina, elástica, amarelada a acastanhada. O cheiro e o sabor são pouco distintos, por vezes levemente perfumados; crua pode ter um sabor um pouco apimentado.",
+      "sporePrint": "A esporada é branca a amarelada muito pálida. Os esporos são largamente elipsoides a quase redondos, lisos e incolores, 8–12 × 6–10 µm.",
+      "habitat": "Forma micorrizas com coníferas, sobretudo abeto-vermelho e abeto-branco, e por vezes com folhosas como a faia. Cresce em grupos, muitas vezes em número muito grande, entre musgos e sobre madeira muito apodrecida e coberta de musgo, em florestas de coníferas e mistas húmidas, ácidas e pobres em nutrientes, e em turfeiras. Na Europa frutifica de agosto a dezembro, mais tarde do que a maioria dos outros cogumelos comestíveis.",
+      "uses": "Um bom comestível, muito apreciado. Embora tenha carne fina, onde cresce é fácil apanhá-lo em quantidade, e tem uma textura agradavelmente firme e um sabor suave. É adequado para sopas, molhos, pratos de carne e de massa e seca bem, podendo ser guardado para o inverno. Como com qualquer cogumelo silvestre, coma apenas exemplares identificados com toda a certeza.",
+      "confusion": "Craterellus lutescens tem cores mais vivas, com pé amarelo-alaranjado, face inferior quase lisa ou apenas enrugada, sem pregas nítidas, e cheiro frutado, e prefere locais mais húmidos. Craterellus cinereus é inteiramente cinzento a castanho-acinzentado, sem tons amarelos. Cantharellus cibarius é maior, mais atarracado e inteiramente amarelo, com pé maciço e cheiro a damasco. Leotia lubrica, que não é comestível, pode crescer nos mesmos locais, mas é borrachosa e gelatinosa, com uma cabeça pequena sem pregas nem rugas por baixo.",
+      "notes": "Estudos moleculares transferiram esta espécie do género Cantharellus para o género Craterellus. As populações do oeste da América do Norte formam uma linhagem genética separada que poderá ser descrita como espécie distinta; o nome C. tubaeformis mantém-se para o cogumelo da Europa e do leste da América do Norte, porque o seu tipo provém da Suécia. Sendo micorrízico, não pode ser cultivado.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mică, zveltă, în formă de pâlnie, care crește adesea în grupuri mari, uneori cu miile, în mușchi sub conifere. Este larg răspândită în zona temperată rece și în zona boreală a emisferei nordice, în Europa, Asia de Nord și America de Nord, și este semnalată și din Himalaya. În Scandinavia este foarte comună, în timp ce mai la sud în Europa se găsește mai ales în zonele de deal și de munte.",
+      "cap": "Pălăria are 2–6 cm în diametru și carne subțire. La început este convexă, cu o adâncitură ca un buric, curând devine în formă de pâlnie sau de trompetă, iar în centru este adesea perforată până în piciorul gol. Marginea este răsfrântă la exemplarele tinere și devine ondulată, lobată și zdrențuită cu vârsta. Suprafața este brun-gălbuie până la brun-închisă sau brun-cenușie, uneori cu o nuanță de măsliniu, fin solzoasă până la pâsloasă și ușor ceroasă pe vreme umedă; cu vârsta se decolorează spre cenușiu.",
+      "hymenium": "În locul lamelelor adevărate are pliuri obtuze, joase, asemănătoare unor vine, care coboară mult pe picior, se bifurcă repetat și sunt unite prin vinișoare transversale. La început sunt gălbui, curând cenușii, cu o pruină slabă, uneori cu o nuanță de liliachiu, și doar rareori rămân galben-pal.",
+      "stipe": "Piciorul are 4–8 cm lungime și 0,3–1 cm grosime, este neregulat cilindric, adesea turtit sau brăzdat, neted și ceros, galben până la galben-portocaliu sau brun-gălbui și cenușiu imediat sub pălărie. Este gol din centrul pălăriei aproape până la bază; baza este adesea ușor măciucată, cu miceliu albicios până la galben-pal.",
+      "flesh": "Carnea este subțire, elastică, gălbuie până la brunie. Mirosul și gustul sunt nedistinctive, uneori ușor parfumate; crudă poate avea un gust ușor piperat.",
+      "sporePrint": "Amprenta sporilor este albă până la galben foarte pal. Sporii sunt larg elipsoidali până aproape rotunzi, netezi și incolori, 8–12 × 6–10 µm.",
+      "habitat": "Formează micorize cu coniferele, mai ales cu molidul și bradul, uneori și cu foioase precum fagul. Crește în grupuri, adesea în număr foarte mare, printre mușchi și pe lemn foarte putrezit, acoperit de mușchi, în păduri de conifere și păduri mixte umede, acide, sărace în nutrienți și în turbării. În Europa fructifică din august până în decembrie, mai târziu decât majoritatea celorlalte ciuperci comestibile.",
+      "uses": "O ciupercă comestibilă bună, foarte apreciată. Deși are carnea subțire, în locurile unde crește se poate culege ușor în cantități mari și are o textură plăcut fermă și un gust blând. Se potrivește în supe, sosuri, mâncăruri cu carne și paste și se usucă bine, astfel încât poate fi păstrată pentru iarnă. Ca în cazul oricărei ciuperci sălbatice, consumați numai exemplare identificate cu certitudine.",
+      "confusion": "Craterellus lutescens are culori mai vii, cu picior galben-portocaliu, partea inferioară aproape netedă sau doar zbârcită, fără pliuri distincte, și miros fructat, și preferă locurile mai umede. Craterellus cinereus este cenușiu până la brun-cenușiu în întregime, fără tonuri galbene. Cantharellus cibarius este mai mare, mai îndesat și galben în întregime, cu picior plin și miros de caise. Leotia lubrica, necomestibilă, poate crește în aceleași locuri, dar este cauciucoasă și gelatinoasă, cu un cap mic fără pliuri sau zbârcituri pe partea inferioară.",
+      "notes": "Studiile moleculare au mutat această specie din genul Cantharellus în genul Craterellus. Populațiile din vestul Americii de Nord formează o linie genetică separată, care ar putea fi descrisă ca specie distinctă; numele C. tubaeformis rămâne ciupercii din Europa și estul Americii de Nord, deoarece tipul ei provine din Suedia. Fiind micorizantă, nu poate fi cultivată.",
+      "names": [],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Craterellus_tubaeformis"
+      ],
+      "label": "trompeta căprioarei"
+    },
+    "ru": {
+      "description": "Небольшой стройный гриб воронковидной формы, который часто растёт большими группами, иногда тысячами, во мху под хвойными деревьями. Он широко распространён в прохладной умеренной и бореальной зонах Северного полушария, в Европе, Северной Азии и Северной Америке, а также отмечен в Гималаях. В Скандинавии он очень обычен, тогда как южнее в Европе встречается главным образом в холмистой местности и горах.",
+      "cap": "Шляпка 2–6 cm в диаметре, тонкомясистая. Сначала она выпуклая, с пупковидным углублением, вскоре становится воронковидной или трубовидной, а в центре часто бывает продырявлена до полой ножки. Край у молодых грибов подвёрнут, с возрастом становится волнистым, лопастным и рваным. Поверхность желтовато-коричневая до тёмно-коричневой или серовато-коричневой, иногда с оливковым оттенком, мелкочешуйчатая до войлочной, во влажную погоду слегка восковидная; с возрастом выцветает до сероватой.",
+      "hymenium": "Вместо настоящих пластинок у него тупые, низкие, жилковидные складки, которые далеко нисходят на ножку, многократно вильчато ветвятся и соединены поперечными жилками. Сначала они желтоватые, вскоре серые со слабым налётом, иногда с сиреневым оттенком, и лишь изредка остаются бледно-жёлтыми.",
+      "stipe": "Ножка длиной 4–8 cm и толщиной 0,3–1 cm, неправильно цилиндрическая, часто сплюснутая или бороздчатая, гладкая и восковидная, жёлтая до оранжево-жёлтой или желтовато-коричневой, прямо под шляпкой сероватая. Она полая от центра шляпки почти до основания; основание часто слегка булавовидное, с беловатым до бледно-жёлтого мицелием.",
+      "flesh": "Мякоть тонкая, упругая, желтоватая до буроватой. Запах и вкус невыразительные, иногда слабо ароматные; в сыром виде она может быть слегка перечной на вкус.",
+      "sporePrint": "Споровый порошок белый до очень бледно-желтоватого. Споры широкоэллипсоидные до почти округлых, гладкие и бесцветные, 8–12 × 6–10 µm.",
+      "habitat": "Образует микоризу с хвойными деревьями, особенно с елью и пихтой, иногда с лиственными, например с буком. Растёт группами, часто в очень большом количестве, среди мхов и на сильно разложившейся, замшелой древесине во влажных, кислых, бедных питательными веществами хвойных и смешанных лесах и на болотах. В Европе плодоносит с августа по декабрь, позже большинства других съедобных грибов.",
+      "uses": "Хороший, высоко ценимый съедобный гриб. Хотя мякоть у него тонкая, в местах произрастания его легко собрать в большом количестве; у него приятно плотная консистенция и мягкий вкус. Подходит для супов, соусов, блюд из мяса и макарон и хорошо сушится, поэтому его можно заготовить на зиму. Как и любые дикорастущие грибы, употребляйте в пищу только плодовые тела, определённые с полной уверенностью.",
+      "confusion": "Craterellus lutescens окрашен ярче, у него оранжево-жёлтая ножка, почти гладкая или лишь морщинистая нижняя сторона без отчётливых складок и фруктовый запах; он предпочитает более сырые места. Craterellus cinereus целиком серый до серо-коричневого, без жёлтых тонов. Cantharellus cibarius крупнее, коренастее и целиком жёлтый, с плотной ножкой и абрикосовым запахом. Несъедобная Leotia lubrica может расти в тех же местах, но она резиновидная и студенистая, с маленькой головкой без складок и морщин снизу.",
+      "notes": "Молекулярные исследования перенесли этот вид из рода Cantharellus в род Craterellus. Популяции на западе Северной Америки образуют отдельную генетическую линию, которая может быть описана как самостоятельный вид; название C. tubaeformis сохраняется за грибом Европы и востока Северной Америки, поскольку его тип происходит из Швеции. Так как он образует микоризу, его невозможно культивировать.",
+      "names": [
+        "лисичка ворончатая",
+        "лисичка трубковидная"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Лисичка_трубчатая",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "лисичка трубчатая"
+    },
+    "sk": {
+      "description": "Malá, štíhla huba lievikovitého tvaru, ktorá často rastie vo veľkých skupinách, niekedy po tisícoch, v machu pod ihličnanmi. Je hojne rozšírená v chladnom miernom a boreálnom pásme severnej pologule, v Európe, severnej Ázii a Severnej Amerike, a uvádza sa aj z Himalájí. V Škandinávii je veľmi hojná, kým ďalej na juh v Európe sa vyskytuje najmä v pahorkatinách a horách.",
+      "cap": "Klobúk má 2–6 cm v priemere a tenkú dužinu. Najprv je klenutý s pupkovitou priehlbinou, čoskoro lievikovitý až trúbkovitý a v strede často prederavený až do dutého hlúbika. Okraj je v mladosti podvinutý, v starobe zvlnený, laločnatý a roztrhaný. Povrch je žltohnedý až tmavohnedý alebo sivohnedý, niekedy s olivovým nádychom, jemne šupinkatý až plstnatý a za vlhka mierne voskový; starnutím bledne do sivasta.",
+      "hymenium": "Namiesto pravých lupeňov má tupé, nízke, žilkovité lišty, ktoré ďaleko zbiehajú na hlúbik, opakovane sa vidlicovito rozvetvujú a sú pospájané priečnymi žilkami. Spočiatku sú žltkasté, čoskoro sivé s jemným oinovatením, občas s fialkastým nádychom, a len zriedka zostávajú svetložlté.",
+      "stipe": "Hlúbik je 4–8 cm dlhý a 0,3–1 cm hrubý, nepravidelne valcovitý, často stlačený alebo ryhovaný, hladký a voskový, žltý až žltooranžový alebo žltohnedý, tesne pod klobúkom sivastý. Je dutý od stredu klobúka takmer po bázu; báza je často mierne kyjakovitá, s belavým až svetložltým podhubím.",
+      "flesh": "Dužina je tenká, pružná, žltkastá až hnedastá. Vôňa a chuť sú nevýrazné, niekedy slabo voňavé; surová môže chutiť mierne korenisto.",
+      "sporePrint": "Výtrusný prach je biely až veľmi bledo žltkastý. Výtrusy sú široko elipsoidné až takmer guľovité, hladké a bezfarebné, 8–12 × 6–10 µm.",
+      "habitat": "Tvorí mykorízu s ihličnanmi, najmä so smrekom a jedľou, niekedy aj s listnáčmi, ako je buk. Rastie v skupinách, často vo veľkom množstve, medzi machmi a na silne strúchnivenom, machom obrastenom dreve vo vlhkých, kyslých, na živiny chudobných ihličnatých a zmiešaných lesoch a na rašeliniskách. V Európe plodí od augusta do decembra, neskôr ako väčšina ostatných jedlých húb.",
+      "uses": "Dobrá, vysoko cenená jedlá huba. Hoci má tenkú dužinu, na miestach výskytu sa dá ľahko nazbierať vo veľkom množstve a má príjemne pevnú konzistenciu a jemnú chuť. Hodí sa do polievok, omáčok, mäsových jedál a cestovín a dobre sa suší, takže sa dá uchovať na zimu. Ako pri každej voľne rastúcej hube jedzte len plodnice s istotou určené.",
+      "confusion": "Craterellus lutescens je žiarivejšie sfarbený, so žltooranžovým hlúbikom, takmer hladkou alebo len vráskavou spodnou stranou bez zreteľných líšt a ovocnou vôňou, a uprednostňuje vlhšie miesta. Craterellus cinereus je celý sivý až sivohnedý, bez žltých odtieňov. Cantharellus cibarius je väčší, zavalitejší a celý žltý, s plným hlúbikom a marhuľovou vôňou. Nejedlá Leotia lubrica môže rásť na tých istých miestach, je však gumovitá a rôsolovitá, s malou hlavičkou bez líšt aj vrások na spodnej strane.",
+      "notes": "Molekulárne štúdie preradili tento druh z rodu Cantharellus do rodu Craterellus. Populácie na západe Severnej Ameriky tvoria samostatnú genetickú líniu, ktorá môže byť opísaná ako samostatný druh; meno C. tubaeformis zostáva hube z Európy a východu Severnej Ameriky, pretože jej typ pochádza zo Švédska. Keďže tvorí mykorízu, nedá sa pestovať.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Craterellus-tubaeformis/kuriatko-lievikovite/liska-nalevkovita/ID232",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=455453",
+        "https://www.gbif.org/species/2554536"
+      ],
+      "label": "kuriatko lievikovité"
+    },
+    "sl": {
+      "description": "Majhna, vitka goba lijaste oblike, ki pogosto raste v velikih skupinah, včasih na tisoče, v mahu pod iglavci. Široko je razširjena v hladnem zmernem in borealnem pasu severne poloble, v Evropi, severni Aziji in Severni Ameriki, navajajo pa jo tudi iz Himalaje. V Skandinaviji je zelo pogosta, južneje v Evropi pa jo najdemo predvsem v gričevju in gorah.",
+      "cap": "Klobuk je širok 2–6 cm in tankomesnat. Sprva je izbočen s popkasto vdolbino, kmalu postane lijast do trobentast, v sredini pa je pogosto preluknjan do votlega beta. Rob je pri mladih gobah podvihan, s starostjo postane valovit, krpast in razcefran. Površina je rumenkasto rjava do temno rjava ali sivo rjava, včasih z olivnim odtenkom, drobno luskasta do pustena in v vlažnem vremenu rahlo voskasta; s starostjo zbledi do sivkaste.",
+      "hymenium": "Namesto pravih lističev ima topa, nizka, žilam podobna rebra, ki daleč zbegajo po betu, se večkrat vilasto razcepijo in so povezana s prečnimi žilami. Sprva so rumenkasta, kmalu siva z rahlim poprhom, včasih z lila odtenkom, in le redko ostanejo bledo rumena.",
+      "stipe": "Bet je dolg 4–8 cm in debel 0,3–1 cm, nepravilno valjast, pogosto sploščen ali brazdast, gladek in voskast, rumen do oranžno rumen ali rumenkasto rjav, tik pod klobukom sivkast. Od sredine klobuka skoraj do dna je votel; dno je pogosto rahlo kijasto, z belkastim do bledo rumenim micelijem.",
+      "flesh": "Meso je tanko, prožno, rumenkasto do rjavkasto. Vonj in okus sta neizrazita, včasih rahlo dišeča; surovo ima lahko rahlo popprast okus.",
+      "sporePrint": "Trosni prah je bel do zelo bledo rumenkast. Trosi so široko elipsoidni do skoraj okrogli, gladki in brezbarvni, 8–12 × 6–10 µm.",
+      "habitat": "Tvori mikorizo z iglavci, zlasti s smreko in jelko, včasih tudi z listavci, kot je bukev. Raste v skupinah, pogosto v zelo velikem številu, med mahovi in na močno strohnelem, z mahom poraslem lesu v vlažnih, kislih, s hranili revnih iglastih in mešanih gozdovih ter na barjih. V Evropi plodiči rastejo od avgusta do decembra, pozneje kot pri večini drugih užitnih gob.",
+      "uses": "Dobra, zelo cenjena užitna goba. Čeprav je tankomesnata, jo je na rastiščih lahko nabrati v velikih količinah, ima pa prijetno čvrsto teksturo in blag okus. Primerna je za juhe, omake, mesne jedi in testenine, dobro se suši, zato jo lahko shranimo za zimo. Kot pri vsaki divje rastoči gobi jejte le plodiče, ki so zanesljivo določeni.",
+      "confusion": "Craterellus lutescens je živahneje obarvan, z oranžno rumenim betom, skoraj gladko ali le nagubano spodnjo stranjo brez izrazitih reber in sadnim vonjem, raje pa raste na bolj mokrih mestih. Craterellus cinereus je ves siv do sivo rjav, brez rumenih odtenkov. Cantharellus cibarius je večji, čokatejši in ves rumen, s polnim betom in vonjem po marelicah. Neužitna Leotia lubrica lahko raste na istih mestih, vendar je gumijasta in želatinasta, z majhno glavico, ki na spodnji strani nima ne reber ne gub.",
+      "notes": "Molekularne raziskave so to vrsto prestavile iz rodu Cantharellus v rod Craterellus. Populacije na zahodu Severne Amerike tvorijo ločeno genetsko linijo, ki bi jo lahko opisali kot samostojno vrsto; ime C. tubaeformis ostaja gobi iz Evrope in vzhoda Severne Amerike, ker njen tip izvira iz Švedske. Ker tvori mikorizo, je ni mogoče gojiti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+        "https://api.gbif.org/v1/species/2554536/vernacularNames"
+      ],
+      "label": "lijasta trobenta"
+    },
+    "sr": {
+      "description": "Мала, витка гљива левкастог облика која често расте у великим групама, понекад у хиљадама, у маховини испод четинара. Широко је распрострањена у хладном умереном и бореалном појасу северне хемисфере, у Европи, северној Азији и Северној Америци, а наводи се и са Хималаја. У Скандинавији је веома честа, док се јужније у Европи налази углавном у брдима и планинама.",
+      "cap": "Шешир је широк 2–6 cm и танког меса. У почетку је испупчен с пупчастим удубљењем, убрзо постаје левкаст или трубаст, а у средини је често пробушен све до шупље дршке. Ивица је код младих гљива подвијена, а са старењем постаје таласаста, режњевита и поцепана. Површина је жућкастосмеђа до тамносмеђа или сивосмеђа, понекад с маслинастим тоном, ситно љуспаста до пустенаста и по влажном времену благо воштана; са старењем бледи до сивкасте.",
+      "hymenium": "Уместо правих листића има тупе, ниске, жилама сличне летвице које се далеко спуштају низ дршку, више пута се рачвају и повезане су попречним жилицама. У почетку су жућкасте, убрзо сиве с благим пепељком, понекад с љубичастим тоном, и само ретко остају бледожуте.",
+      "stipe": "Дршка је дуга 4–8 cm и дебела 0,3–1 cm, неправилно ваљкаста, често спљоштена или избраздана, глатка и воштана, жута до наранџастожута или жућкастосмеђа, а одмах испод шешира сивкаста. Шупља је од средине шешира готово до основе; основа је често благо батинаста, с белкастим до бледожутим мицелијумом.",
+      "flesh": "Месо је танко, еластично, жућкасто до смеђкасто. Мирис и укус су неизражени, понекад благо мирисни; сирово може имати помало папреаст укус.",
+      "sporePrint": "Отисак спора је бео до веома бледо жућкаст. Споре су широко елипсоидне до готово округле, глатке и безбојне, 8–12 × 6–10 µm.",
+      "habitat": "Ствара микоризу с четинарима, посебно са смрчом и јелом, а понекад и с лишћарима као што је буква. Расте у групама, често у веома великом броју, међу маховинама и на јако иструлелом, маховином обраслом дрвету у влажним, киселим, хранљивим материјама сиромашним четинарским и мешовитим шумама и на тресетиштима. У Европи плоди од августа до децембра, касније од већине других јестивих гљива.",
+      "uses": "Добра, веома цењена јестива гљива. Иако је танког меса, на стаништима ју је лако набрати у великим количинама, а има пријатно чврсту текстуру и благ укус. Погодна је за супе, сосове, јела с месом и тестенином, а добро се суши, па се може чувати за зиму. Као и код сваке самоникле гљиве, једите само плодишта која су сигурно одређена.",
+      "confusion": "Craterellus lutescens је јарчије обојен, с наранџастожутом дршком, готово глатком или само набраном доњом страном без јасних летвица и воћним мирисом, а радије расте на влажнијим местима. Craterellus cinereus је потпуно сив до сивосмеђ, без жутих тонова. Cantharellus cibarius је већи, здепастији и потпуно жут, с пуном дршком и мирисом на кајсије. Нејестива Leotia lubrica може расти на истим местима, али је гумаста и желатинозна, с малом главицом без летвица и набора с доње стране.",
+      "notes": "Молекуларна истраживања преместила су ову врсту из рода Cantharellus у род Craterellus. Популације на западу Северне Америке чине засебну генетску линију која би могла бити описана као посебна врста; име C. tubaeformis остаје гљиви из Европе и истока Северне Америке јер њен тип потиче из Шведске. Пошто ствара микоризу, не може се гајити.",
+      "names": [],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/Ситна_лисичарка"
+      ],
+      "label": "ситна лисичарка"
+    },
+    "sv": {
+      "description": "En liten, smal, trattformad svamp som ofta växer i stora skaror, ibland i tusental, i mossa under barrträd. Den är vida spridd i den svalt tempererade och boreala zonen på norra halvklotet, i Europa, norra Asien och Nordamerika, och rapporteras även från Himalaya. Den är mycket vanlig i Skandinavien, medan den längre söderut i Europa främst förekommer i kulliga och bergiga trakter.",
+      "cap": "Hatten är 2–6 cm bred och tunnköttig. Den är först välvd med en naveliknande fördjupning, blir snart tratt- eller trumpetformad och är ofta genomborrad i mitten ner i den ihåliga foten. Kanten är inrullad hos unga exemplar och blir med åldern vågig, flikig och trasig. Ytan är gulbrun till mörkbrun eller gråbrun, ibland med olivton, fint fjällig till filtig och något vaxartad i fuktigt väder; med åldern bleknar den till gråaktig.",
+      "hymenium": "I stället för äkta skivor har den trubbiga, låga, ådriga åsar som löper långt ner på foten, gaffelgrenar sig upprepade gånger och förbinds av tvärådror. De är först gulaktiga, snart grå med svag dagg, ibland med lila ton, och förblir bara sällan blekgula.",
+      "stipe": "Foten är 4–8 cm lång och 0,3–1 cm tjock, oregelbundet cylindrisk, ofta tillplattad eller fårad, slät och vaxartad, gul till orangegul eller gulbrun och gråaktig strax under hatten. Den är ihålig från hattens mitt nästan ner till basen; basen är ofta något klubbformad, med vitaktigt till blekgult mycel.",
+      "flesh": "Köttet är tunt, elastiskt och gulaktigt till brunaktigt. Lukt och smak är obetydliga, ibland svagt doftande; rå kan den smaka lite pepprigt.",
+      "sporePrint": "Sporavtrycket är vitt till mycket blekt gulaktigt. Sporerna är brett ellipsoida till nästan runda, släta och färglösa, 8–12 × 6–10 µm.",
+      "habitat": "Den bildar mykorrhiza med barrträd, särskilt gran och ädelgran, och ibland med lövträd som bok. Den växer i grupper, ofta i mycket stort antal, bland mossa och på kraftigt murken, mossbevuxen ved i fuktiga, sura, näringsfattiga barr- och blandskogar och i myrar. I Europa bildar den fruktkroppar från augusti till december, senare än de flesta andra matsvampar.",
+      "uses": "En god, mycket uppskattad matsvamp. Fast den är tunnköttig är den lätt att plocka i mängd där den växer, och den har en behagligt fast konsistens och en mild smak. Den passar i soppor, såser, kött- och pastarätter och torkar bra, så att den kan sparas till vintern. Som med alla vilda svampar ska man bara äta fruktkroppar som artbestämts med säkerhet.",
+      "confusion": "Craterellus lutescens är klarare färgad, med orangegul fot, en nästan slät eller bara rynkig undersida utan tydliga åsar och en fruktig lukt, och den föredrar blötare platser. Craterellus cinereus är grå till gråbrun överallt, utan gula toner. Cantharellus cibarius är större, mer satt och gul överallt, med massiv fot och aprikosliknande lukt. Leotia lubrica, som inte är ätlig, kan växa på samma platser, men den är gummiaktig och geléartad, med ett litet huvud utan åsar eller rynkor på undersidan.",
+      "notes": "Molekylära studier har flyttat arten från Cantharellus till Craterellus. Populationer i västra Nordamerika bildar en egen genetisk linje som kan komma att beskrivas som en separat art; namnet C. tubaeformis stannar hos svampen i Europa och östra Nordamerika, eftersom dess typ kommer från Sverige. Eftersom den bildar mykorrhiza kan den inte odlas.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Trattkantarell"
+      ],
+      "label": "trattkantarell"
+    },
+    "tr": {
+      "description": "İğne yapraklı ağaçların altında yosunlar arasında çoğunlukla büyük topluluklar hâlinde, bazen binlercesi bir arada yetişen küçük, ince, huni biçimli bir mantar. Kuzey Yarımküre'nin serin ılıman ve boreal kuşağında, Avrupa'da, Kuzey Asya'da ve Kuzey Amerika'da geniş bir yayılışa sahiptir; Himalayalardan da bildirilmiştir. İskandinavya'da çok yaygındır, Avrupa'nın daha güneyinde ise başlıca tepelik ve dağlık bölgelerde bulunur.",
+      "cap": "Şapka 2–6 cm çapında ve ince etlidir. Başlangıçta göbek gibi bir çukurluğa sahip dışbükeydir, kısa sürede huni ya da boru biçimini alır ve ortası çoğunlukla içi boş sapa kadar delinmiştir. Kenarı gençken içe kıvrıktır, yaşlandıkça dalgalı, loplu ve yırtık hâle gelir. Yüzeyi sarımsı kahverengiden koyu kahverengiye veya gri kahverengiye kadar değişir, bazen zeytinimsi bir tona sahiptir, ince pullu ile keçemsi arasındadır ve nemliyken biraz mumsudur; yaşlandıkça grimsiye solar.",
+      "hymenium": "Gerçek lameller yerine sap üzerinde uzun süre aşağı inen, tekrar tekrar çatallanan ve enine damarlarla birbirine bağlanan küt, alçak, damar benzeri kıvrımları vardır. Başlangıçta sarımsıdır, kısa sürede hafif bir pusla grileşir, bazen leylak tonludur ve yalnızca nadiren soluk sarı kalır.",
+      "stipe": "Sap 4–8 cm uzunluğunda ve 0,3–1 cm kalınlığındadır; düzensiz silindirik, çoğunlukla basık veya oluklu, düz ve mumsudur; sarıdan turuncumsu sarıya veya sarımsı kahverengiye kadar değişir ve şapkanın hemen altında grimsidir. Şapkanın ortasından neredeyse tabana kadar içi boştur; tabanı çoğunlukla hafifçe tokmak biçimlidir ve beyazımsı ile soluk sarı arası miselyuma sahiptir.",
+      "flesh": "Eti ince, esnek, sarımsı ile kahverengimsi arasıdır. Kokusu ve tadı belirgin değildir, bazen hafifçe hoş kokuludur; çiğken biraz biberimsi bir tadı olabilir.",
+      "sporePrint": "Spor izi beyazdan çok soluk sarımsıya kadardır. Sporlar geniş elipsoit ile neredeyse yuvarlak arası, düz ve renksizdir, 8–12 × 6–10 µm.",
+      "habitat": "İğne yapraklı ağaçlarla, özellikle ladin ve göknarla, bazen de kayın gibi geniş yapraklı ağaçlarla mikoriza oluşturur. Nemli, asidik, besince fakir iğne yapraklı ve karışık ormanlarda ve turbalıklarda yosunlar arasında ve iyice çürümüş, yosun kaplı odun üzerinde, çoğunlukla çok büyük sayılarda, topluluklar hâlinde yetişir. Avrupa'da ağustostan aralığa kadar meyve verir; diğer yenebilir mantarların çoğundan daha geç çıkar.",
+      "uses": "İyi ve çok değer verilen yenebilir bir mantar. İnce etli olmasına rağmen yetiştiği yerlerde bol miktarda toplamak kolaydır; hoş biçimde sıkı bir dokusu ve hafif bir tadı vardır. Çorbalara, soslara, et ve makarna yemeklerine uygundur ve iyi kurur, bu nedenle kış için saklanabilir. Her yabani mantarda olduğu gibi, yalnızca kesin olarak tanımlanmış meyve gövdelerini yiyin.",
+      "confusion": "Craterellus lutescens daha canlı renklidir; turuncumsu sarı bir sapı, belirgin kıvrımları olmayan, neredeyse düz ya da yalnızca buruşuk bir alt yüzü ve meyvemsi bir kokusu vardır ve daha ıslak yerleri tercih eder. Craterellus cinereus baştan sona griden gri kahverengiye kadardır, sarı tonları yoktur. Cantharellus cibarius daha büyük, daha tıknaz ve baştan sona sarıdır; dolgun bir sapı ve kayısıyı andıran bir kokusu vardır. Yenmeyen Leotia lubrica aynı yerlerde yetişebilir, ancak lastiğimsi ve jelatinimsidir ve küçük başının alt yüzünde ne kıvrım ne de buruşukluk bulunur.",
+      "notes": "Moleküler çalışmalar bu türü Cantharellus cinsinden Craterellus cinsine taşımıştır. Batı Kuzey Amerika'daki popülasyonlar, ayrı bir tür olarak tanımlanabilecek ayrı bir genetik soy oluşturur; C. tubaeformis adı, tipi İsveç'ten geldiği için Avrupa ve doğu Kuzey Amerika'daki mantarda kalır. Mikoriza oluşturduğu için kültürü yapılamaz.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий стрункий гриб лійкоподібної форми, що часто росте великими групами, іноді тисячами, у моху під хвойними деревами. Він широко поширений у прохолодній помірній і бореальній зонах Північної півкулі, в Європі, Північній Азії та Північній Америці, а також відомий з Гімалаїв. У Скандинавії він дуже звичайний, тоді як південніше в Європі трапляється переважно на пагорбах і в горах.",
+      "cap": "Шапинка 2–6 cm у діаметрі, тонком’ясиста. Спочатку вона опукла, з пупкоподібним заглибленням, невдовзі стає лійкоподібною або трубоподібною, а в центрі часто продірявлена до порожнистої ніжки. Край у молодих грибів підгорнутий, з віком стає хвилястим, лопатевим і пошматованим. Поверхня жовтувато-коричнева до темно-коричневої або сірувато-коричневої, іноді з оливковим відтінком, дрібнолуската до повстистої, у вологу погоду злегка воскоподібна; з віком вицвітає до сіруватої.",
+      "hymenium": "Замість справжніх пластинок у нього тупі, низькі, жилкоподібні складки, що далеко збігають на ніжку, багаторазово вилчасто галузяться і з’єднані поперечними жилками. Спочатку вони жовтуваті, невдовзі сірі зі слабким нальотом, іноді з бузковим відтінком, і лише зрідка лишаються блідо-жовтими.",
+      "stipe": "Ніжка завдовжки 4–8 cm і завтовшки 0,3–1 cm, неправильно циліндрична, часто сплющена або борозниста, гладенька і воскоподібна, жовта до оранжево-жовтої або жовтувато-коричневої, просто під шапинкою сірувата. Вона порожниста від центру шапинки майже до основи; основа часто злегка булавоподібна, з білуватим до блідо-жовтого міцелієм.",
+      "flesh": "М’якуш тонкий, пружний, жовтуватий до буруватого. Запах і смак невиразні, іноді слабко ароматні; у сирому вигляді може бути трохи перцевим на смак.",
+      "sporePrint": "Споровий порошок білий до дуже блідо-жовтуватого. Спори широкоеліпсоїдні до майже округлих, гладенькі й безбарвні, 8–12 × 6–10 µm.",
+      "habitat": "Утворює мікоризу з хвойними деревами, особливо з ялиною та ялицею, іноді з листяними, наприклад з буком. Росте групами, часто в дуже великій кількості, серед мохів і на сильно розкладеній, замшілій деревині у вологих, кислих, бідних на поживні речовини хвойних і мішаних лісах та на болотах. У Європі плодоносить із серпня до грудня, пізніше за більшість інших їстівних грибів.",
+      "uses": "Добрий, високо цінований їстівний гриб. Хоча м’якуш у нього тонкий, у місцях зростання його легко зібрати у великій кількості; він має приємно щільну консистенцію і м’який смак. Придатний для супів, соусів, страв з м’яса і макаронів, добре сушиться, тож його можна заготовити на зиму. Як і будь-які дикорослі гриби, їжте лише плодові тіла, визначені з повною впевненістю.",
+      "confusion": "Craterellus lutescens забарвлений яскравіше, має оранжево-жовту ніжку, майже гладенький або лише зморшкуватий нижній бік без чітких складок і фруктовий запах; він віддає перевагу вологішим місцям. Craterellus cinereus цілком сірий до сіро-коричневого, без жовтих тонів. Cantharellus cibarius більший, кремезніший і цілком жовтий, із щільною ніжкою та абрикосовим запахом. Неїстівна Leotia lubrica може рости в тих самих місцях, але вона гумоподібна й драглиста, з маленькою голівкою без складок і зморшок знизу.",
+      "notes": "Молекулярні дослідження перенесли цей вид з роду Cantharellus до роду Craterellus. Популяції на заході Північної Америки утворюють окрему генетичну лінію, яку можуть описати як самостійний вид; назва C. tubaeformis залишається за грибом Європи та сходу Північної Америки, оскільки його тип походить зі Швеції. Оскільки він утворює мікоризу, його неможливо культивувати.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Лисичка_трубчаста"
+      ],
+      "label": "лисичка трубчаста"
+    },
+    "zh": {
+      "description": "一種小型、纖細、漏斗形的真菌，常在針葉樹下的苔蘚中成大群生長，有時多達數千個。它廣泛分布於北半球的冷溫帶和寒帶，包括歐洲、亞洲北部和北美洲，在喜馬拉雅山區也有記錄。它在斯堪的納維亞非常常見，而在歐洲較南的地區則主要見於丘陵和山地。",
+      "cap": "菌蓋直徑2–6 cm，菌肉薄。初時凸起，中央有臍狀凹陷，不久變為漏斗形或喇叭形，中央常穿孔直通中空的菌柄。邊緣幼時內卷，老後呈波狀、分裂成瓣並破裂。表面黃褐色至暗褐色或灰褐色，有時帶橄欖色調，具細鱗片至氈毛狀，潮濕時略呈蠟質；老後褪成灰色。",
+      "hymenium": "沒有真正的菌褶，而是有鈍而低、脈狀的稜褶，沿菌柄長距離下延，多次叉狀分枝，並由橫脈相連。初為淡黃色，不久變灰色並帶淡粉霜，有時帶淡紫色調，僅少數保持淡黃色。",
+      "stipe": "菌柄長4–8 cm，粗0.3–1 cm，不規則圓柱形，常扁壓或具溝紋，平滑而呈蠟質，黃色至橙黃色或黃褐色，緊靠菌蓋下方處帶灰色。從菌蓋中央至近基部中空；基部常略呈棒狀，有白色至淡黃色的菌絲。",
+      "flesh": "菌肉薄，有彈性，淡黃色至淡褐色。氣味和味道不明顯，有時略有香氣；生食時可能略帶胡椒般的辛辣味。",
+      "sporePrint": "孢子印白色至極淡黃色。孢子寬橢圓形至近球形，平滑，無色，8–12 × 6–10 µm。",
+      "habitat": "與針葉樹，特別是雲杉和冷杉形成菌根，有時也與山毛櫸等闊葉樹形成菌根。常大量群生於潮濕、酸性、貧瘠的針葉林和混交林以及沼澤中的苔蘚之間和腐朽透徹、長滿苔蘚的木材上。在歐洲，於8月至12月出菇，比大多數其他食用菇晚。",
+      "uses": "一種優良且備受推崇的食用菇。雖然菌肉薄，但在其生長地很容易大量採集，口感緊實宜人，味道溫和。適合做湯、醬汁、肉類和意大利麵菜餚，而且容易乾燥，可儲存過冬。與任何野生菇類一樣，只可食用確實鑑定無誤的子實體。",
+      "confusion": "Craterellus lutescens顏色較鮮豔，菌柄橙黃色，下表面近平滑或僅有皺紋而無明顯稜褶，有果香，並偏好較潮濕的地方。Craterellus cinereus全體灰色至灰褐色，無黃色調。Cantharellus cibarius較大、較粗壯，全體黃色，菌柄實心，有杏子般的香氣。不可食用的Leotia lubrica可能生於同樣的地方，但它呈橡膠質至膠質，小小的頭部下方既無稜褶也無皺紋。",
+      "notes": "分子研究將本種從Cantharellus屬移至Craterellus屬。北美洲西部的族群形成獨立的遺傳譜系，可能會被描述為一個獨立的物種；由於其模式標本來自瑞典，C. tubaeformis這個名稱仍保留給歐洲和北美洲東部的真菌。由於它是菌根真菌，無法人工栽培。",
+      "names": [
+        "管形雞油菌"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2554536/vernacularNames",
+        "https://zh.wikipedia.org/wiki/喇叭菌属"
+      ],
+      "label": "管形喇叭菌"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t56u \"signature Gemini\"). The supplied file \"Craterellus tubaeformis.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing faint cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct1.webp",
+      "author": "Ludwig Treuter",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/327004825"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct2.webp",
+      "author": "Antero Ahola",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/154944461"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct3.webp",
+      "author": "Peter Gabler",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/327489953"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct4.webp",
+      "author": "nataliamyco",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/318834886"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct5.webp",
+      "author": "Lutra lutra",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/424797349"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/Craterellus_tubaeformis@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing faint cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct1.webp",
+      "author": "Ludwig Treuter",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/327004825"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct2.webp",
+      "author": "Antero Ahola",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/154944461"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct3.webp",
+      "author": "Peter Gabler",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/327489953"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct4.webp",
+      "author": "nataliamyco",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/318834886"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Cantharellales/Hydnaceae/Craterellus_tubaeformis/ct5.webp",
+      "author": "Lutra lutra",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/424797349"
+    }
+  ],
+  "synonyms": [
+    "Cantharellus tubaeformis",
+    "Merulius infundibuliformis",
+    "Cantharellus infundibuliformis",
+    "Chanterel infundibuliformis",
+    "Agaricus pruinatus",
+    "Merulius pruinatus",
+    "Merulius fuligineus var. pruinatus",
+    "Hyponevris pruinata",
+    "Peziza undulata",
+    "Helvella cantharelloides",
+    "Merulius cantharelloides",
+    "Cantharellus cantharelloides",
+    "Craterellus cantharelloides",
+    "Agaricus cantharelloides",
+    "Merulius fuligineus",
+    "Merulius hydrolips var. fuligineus",
+    "Merulius fuligineus var. concolor",
+    "Cantharellus tubaeformis var. zonatus",
+    "Merulius tubaeformis var. zonatus",
+    "Merulius xanthopus",
+    "Cantharellus xanthopus",
+    "Cantharellus tubaeformis var. pallidus",
+    "Cantharellus tubaeformis f. pallidus",
+    "Craterellus tubaeformis f. pallidus",
+    "Cantharellus infundibuliformis var. subramosus",
+    "Cantharellus tubaeformis var. subramosus",
+    "Cantharellus infundibuliformis var. nigricans",
+    "Craterellus tubaeformis f. griseus"
+  ],
+  "fruitingFrom": 8,
+  "fruitingTo": 12,
+  "reserved": false,
+  "id": 167,
+  "added": "2026-11-14",
+  "citation": "Fl. mycol. France (Paris): 36 (1888)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 189,
+        "box": [
+          463,
+          371,
+          18,
+          14
+        ],
+        "medianContrast": 2.4
+      },
+      {
+        "area": 558,
+        "box": [
+          412,
+          389,
+          38,
+          29
+        ],
+        "medianContrast": 3.01
+      },
+      {
+        "area": 3792,
+        "box": [
+          404,
+          419,
+          93,
+          94
+        ],
+        "medianContrast": 1.48
+      },
+      {
+        "area": 47,
+        "box": [
+          501,
+          549,
+          7,
+          7
+        ],
+        "medianContrast": 2.86
+      },
+      {
+        "area": 795,
+        "box": [
+          465,
+          560,
+          43,
+          48
+        ],
+        "medianContrast": 3.2
+      },
+      {
+        "area": 839,
+        "box": [
+          399,
+          566,
+          26,
+          46
+        ],
+        "medianContrast": 2.77
+      },
+      {
+        "area": 1415,
+        "box": [
+          300,
+          573,
+          45,
+          52
+        ],
+        "medianContrast": 1.82
+      },
+      {
+        "area": 64,
+        "box": [
+          459,
+          580,
+          7,
+          10
+        ],
+        "medianContrast": 3.78
+      },
+      {
+        "area": 12,
+        "box": [
+          558,
+          587,
+          5,
+          3
+        ],
+        "medianContrast": 3.18
+      },
+      {
+        "area": 76,
+        "box": [
+          455,
+          592,
+          9,
+          9
+        ],
+        "medianContrast": 2.62
+      },
+      {
+        "area": 35,
+        "box": [
+          460,
+          616,
+          6,
+          6
+        ],
+        "medianContrast": 2.73
+      },
+      {
+        "area": 64,
+        "box": [
+          570,
+          622,
+          7,
+          10
+        ],
+        "medianContrast": 4.4
+      },
+      {
+        "area": 25,
+        "box": [
+          314,
+          626,
+          5,
+          5
+        ],
+        "medianContrast": 2.44
+      },
+      {
+        "area": 25,
+        "box": [
+          316,
+          636,
+          5,
+          5
+        ],
+        "medianContrast": 3.61
+      },
+      {
+        "area": 59,
+        "box": [
+          589,
+          659,
+          8,
+          9
+        ],
+        "medianContrast": 2.79
+      },
+      {
+        "area": 64,
+        "box": [
+          633,
+          662,
+          8,
+          9
+        ],
+        "medianContrast": 2.65
+      },
+      {
+        "area": 25,
+        "box": [
+          652,
+          685,
+          5,
+          5
+        ],
+        "medianContrast": 3.18
+      },
+      {
+        "area": 30,
+        "box": [
+          270,
+          697,
+          5,
+          6
+        ],
+        "medianContrast": 3.54
+      },
+      {
+        "area": 48,
+        "box": [
+          245,
+          714,
+          8,
+          7
+        ],
+        "medianContrast": 2.06
+      },
+      {
+        "area": 9,
+        "box": [
+          227,
+          721,
+          3,
+          3
+        ],
+        "medianContrast": 2.93
+      },
+      {
+        "area": 40,
+        "box": [
+          264,
+          776,
+          5,
+          8
+        ],
+        "medianContrast": 4.3
+      },
+      {
+        "area": 25,
+        "box": [
+          221,
+          828,
+          5,
+          5
+        ],
+        "medianContrast": 3.28
+      },
+      {
+        "area": 30,
+        "box": [
+          480,
+          856,
+          5,
+          6
+        ],
+        "medianContrast": 2.55
+      },
+      {
+        "area": 25,
+        "box": [
+          325,
+          882,
+          5,
+          5
+        ],
+        "medianContrast": 3.3
+      },
+      {
+        "area": 58,
+        "box": [
+          367,
+          938,
+          6,
+          11
+        ],
+        "medianContrast": 3.12
+      },
+      {
+        "area": 159,
+        "box": [
+          376,
+          943,
+          19,
+          12
+        ],
+        "medianContrast": 3.61
+      },
+      {
+        "area": 14,
+        "box": [
+          99,
+          947,
+          4,
+          5
+        ],
+        "medianContrast": 3.86
+      },
+      {
+        "area": 46,
+        "box": [
+          136,
+          960,
+          8,
+          6
+        ],
+        "medianContrast": 5.32
+      },
+      {
+        "area": 232,
+        "box": [
+          119,
+          975,
+          25,
+          20
+        ],
+        "medianContrast": 2.7
+      },
+      {
+        "area": 60,
+        "box": [
+          407,
+          975,
+          8,
+          9
+        ],
+        "medianContrast": 2.86
+      },
+      {
+        "area": 47,
+        "box": [
+          147,
+          1047,
+          8,
+          6
+        ],
+        "medianContrast": 2.94
+      },
+      {
+        "area": 25,
+        "box": [
+          252,
+          1087,
+          5,
+          5
+        ],
+        "medianContrast": 2.88
+      }
+    ],
+    "holeRule": "enclosed near-paper regions (median contrast<7) cleared except inside KEEP boxes",
+    "keepBoxes": [
+      [
+        540,
+        88,
+        825,
+        500
+      ],
+      [
+        645,
+        775,
+        835,
+        1095
+      ]
+    ],
+    "keptEnclosedRegions": [],
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 10317,
+    "paperResidualP995": 2.3963409471943753,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Craterellus tubaeformis.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "753f0a14113512cd92553cc1511c368346f0ed1853925c438a88d8b56ff9be93",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      63,
+      87,
+      885,
+      1199
+    ],
+    "uniformScale": 1.70316301703163,
+    "placement": [
+      100,
+      253
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1894
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 702998,
+    "opaquePixels": 335830,
+    "partialAlphaPixels": 36372,
+    "signatureBox": [
+      822,
+      1166,
+      890,
+      1200
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 253,
+    "preservedObjects": [
+      "main group, centre: three tall fruit bodies with deep, wavy-margined funnel caps (two olive-brown, the right one grey-brown) on long, hollow-looking, grooved orange-yellow stems",
+      "main group, behind and right: three small young fruit bodies with grey-brown funnel caps on slender yellow stems",
+      "habitat: a mound of green moss with spruce needles and a small bark chip at the base of the group",
+      "upper right, detached: a fruit body seen from below showing the grey, forked, vein-like ridges running down onto a tapering yellow stem",
+      "lower right, detached: a vertical section of a fruit body with a thin funnel cap and a hollow yellow stem",
+      "lower left: a spruce twig with an elongated brown cone on moss with needles",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t56u; IDs 154-166 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 18608.0,
+        "box": [
+          648,
+          776,
+          184,
+          320
+        ],
+        "medianContrast": 76.59019571846784
+      },
+      {
+        "area": 73026.5,
+        "box": [
+          64,
+          728,
+          394,
+          377
+        ],
+        "medianContrast": 120.14963205596769
+      },
+      {
+        "area": 215544.5,
+        "box": [
+          138,
+          235,
+          582,
+          652
+        ],
+        "medianContrast": 108.53529485694719
+      },
+      {
+        "area": 59170.5,
+        "box": [
+          536,
+          88,
+          290,
+          416
+        ],
+        "medianContrast": 85.78278208369356
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection of composition_lossless.png, transparency_checker.png and original_vs_composition.jpg: all drawn objects kept with real alpha on the standard background at one uniform upscale (x1.703 from the 896x1200 JPEG source; some softness at full size). Kept as drawn: the group of six funnel-capped fruit bodies on yellow stems in moss with spruce needles and a bark chip, the detached underside view (upper right) with grey forked ridges, the detached vertical section (lower right), the spruce twig with cone on moss (lower left) and the faint cursive \"Gemini\" mark (bottom right). 32 enclosed paper gaps (between stems, ridges, needles and moss) cleared to the background; no drawn area removed; no repainting, no stretching.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t56u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-166. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 896x1200 source",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG/JFIF with EXIF and no source alpha, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform cream paper with a soft darker vignette at the edges"
+      ],
+      "anatomyCaveat": "Anatomy broadly matches C. tubaeformis (small, thin, funnel-shaped caps with wavy margins; grey, blunt, forked, decurrent ridges instead of true gills; hollow, yellow to orange-yellow stems; groups in moss under spruce). Caveats: the caps are drawn a fairly saturated olive-green, whereas the real cap is yellowish brown to dark or grey-brown (de.wikipedia allows olive-grey tones, but not green); the characteristic perforation of the cap centre into the hollow stem is not shown clearly; the cut section is idealized (a smooth, even tube); the spruce twig and cone are decorative habitat props. The three tall fruit bodies are drawn rather robust for this slender species. AI-like art; rights unverified.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Craterellus_tubaeformis@1600.webp",
+        "bytes": 366936,
+        "sha256": "f756e6da91ceaacbc1ab8bb83e12af7c0bdd565927b137ae9af7a15948bbd221"
+      },
+      {
+        "path": "media/Craterellus_tubaeformis@400.webp",
+        "bytes": 42184,
+        "sha256": "982871d401fc6864c018bd80899f1098cf7b8494b67ae733d2763f4cb530fed4"
+      }
+    ]
+  }
 }
 ];
