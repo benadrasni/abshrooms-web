@@ -164621,5 +164621,927 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Agaricus xanthodermus",
+  "author": "Genev.",
+  "family": "Agaricaceae",
+  "genus": "Agaricus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Agaricaceae",
+    "Agaricus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Agaricaceae",
+    "Agaricus"
+  ],
+  "edibility": "poisonous",
+  "hymenium": "gills",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "white"
+  ],
+  "capFrom": 5.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 15.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 3.0,
+  "label": {
+    "ar": null,
+    "bg": "карболова печурка",
+    "cs": "pečárka zápašná",
+    "da": "karbol-champignon",
+    "de": "Karbol-Champignon",
+    "en": "yellow stainer",
+    "es": "champiñón amarilleante",
+    "et": "mürkšampinjon",
+    "fa": null,
+    "fi": "myrkkyherkkusieni",
+    "fr": "agaric jaunissant",
+    "he": null,
+    "hi": null,
+    "hr": "otrovna pečurka",
+    "hu": "karbolszagú csiperke",
+    "id": null,
+    "it": null,
+    "ja": null,
+    "ko": null,
+    "lt": "nuodingasis pievagrybis",
+    "lv": "indīgā atmatene",
+    "nl": "karbolchampignon",
+    "no": "giftsjampinjong",
+    "pl": "pieczarka karbolowa",
+    "pt": "agárico-amarelado",
+    "ro": "șampinion sulfuros",
+    "ru": "шампиньон желтокожий",
+    "sk": "pečiarka páchnuca",
+    "sl": "karbolni kukmak",
+    "sr": "отровна рудњача",
+    "sv": "karbolchampinjon",
+    "tr": null,
+    "uk": "печериця рудіюча отруйна",
+    "zh": "黃斑蘑菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "žampion zápašný"
+    ],
+    "da": [],
+    "de": [
+      "Gift-Egerling",
+      "Karbol-Egerling"
+    ],
+    "en": [
+      "yellow-staining mushroom",
+      "yellow-stainer"
+    ],
+    "es": [
+      "agárico amarilleante",
+      "champiñón amarillo",
+      "champiñón maloliente"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "psalliote jaunissante"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "giftchampinjon"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%87%D1%83%D1%80%D0%BA%D0%B0"
+    ],
+    "cs": [
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://cs.wikipedia.org/wiki/Pe%C4%8D%C3%A1rka_z%C3%A1pa%C5%A1n%C3%A1"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus",
+      "https://de.wikipedia.org/wiki/Karbol-Champignon"
+    ],
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=155072",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=155072",
+      "https://www.gbif.org/species/5243412",
+      "https://www.catalogueoflife.org/data/taxon/65PSN",
+      "https://www.wikidata.org/wiki/Q1349044",
+      "https://www.inaturalist.org/taxa/118394-Agaricus-xanthodermus",
+      "https://www.mushroomexpert.com/agaricus_xanthodermus.html",
+      "https://en.wikipedia.org/wiki/Agaricus_xanthodermus",
+      "https://www.first-nature.com/fungi/agaricus-xanthodermus.php",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames"
+    ],
+    "et": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://et.wikipedia.org/wiki/M%C3%BCrk%C5%A1ampinjon"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Myrkkyherkkusieni"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus",
+      "https://fr.wikipedia.org/wiki/Agaric_jaunissant"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://www.cromushrooms.eu/",
+      "https://hr.wikipedia.org/wiki/Otrovna_pe%C4%8Durka"
+    ],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://hu.wikipedia.org/wiki/Karbolszag%C3%BA_csiperke"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://lt.wikipedia.org/wiki/Nuodingasis_pievagrybis"
+    ],
+    "lv": [
+      "https://www.latvijasdaba.lv/senes/",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://lv.wikipedia.org/wiki/Ind%C4%ABg%C4%81_atmatene"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Karbolchampignon"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://no.wikipedia.org/wiki/Giftsjampinjong"
+    ],
+    "pl": [
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://pl.wikipedia.org/wiki/Pieczarka_karbolowa"
+    ],
+    "pt": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://pt.wikipedia.org/wiki/Agaricus_xanthodermus"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Agaricus_xanthodermus"
+    ],
+    "ru": [
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD_%D0%B6%D0%B5%D0%BB%D1%82%D0%BE%D0%BA%D0%BE%D0%B6%D0%B8%D0%B9"
+    ],
+    "sk": [
+      "https://species.wikimedia.org/wiki/Agaricus_xanthodermus",
+      "https://www.nahuby.sk/atlas-hub/Agaricus-xanthodermus/pieczarka-pachnaca/ID403",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=155072",
+      "https://www.gbif.org/species/5243412"
+    ],
+    "sl": [
+      "https://www.gobe-zveza.si/literatura-mzs/",
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://sl.wikipedia.org/wiki/Karbolni_kukmak"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_%D1%80%D1%83%D0%B4%D1%9A%D0%B0%D1%87%D0%B0"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/5243412/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Karbolchampinjon"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D1%86%D1%8F_%D1%80%D1%83%D0%B4%D1%96%D1%8E%D1%87%D0%B0_%D0%BE%D1%82%D1%80%D1%83%D0%B9%D0%BD%D0%B0"
+    ],
+    "zh": [
+      "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%96%91%E8%98%91%E8%8F%87"
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A medium-sized to large, white, ringed mushroom of lawns, parks, gardens, hedgerows and open woodland, often growing in troops or fairy rings. It is common and widespread in Europe, North America, western Asia including Anatolia and Iran, and northern and southern Africa, and it has been introduced to Australia.",
+      "cap": "The cap is 5–15 cm across, occasionally up to 20 cm. Young caps are globose with a flattened top, giving a characteristically squarish or trapezoid profile, then become convex and finally nearly flat; the margin is inrolled only when young. The surface is dry, matt and smooth to finely fibrillose, pure white at first and later greyish or light brown towards the centre; old caps may become finely scaly or crack, especially in warm, dry weather. Scratching or rubbing the surface, especially at the margin, turns it bright chrome yellow within seconds; the bruise later fades to brown.",
+      "hymenium": "The gills are free, crowded and of unequal length. They are whitish to pale grey at first, soon pink, and finally chocolate brown to dark purplish brown as the spores mature; in the button stage they are covered by a membranous white partial veil. Basidia are four-spored. The gill edge is often eroded and poorly defined; cheilocystidia, when found, are club-shaped, about 20–30 × 4–8 µm, and pleurocystidia have not been found.",
+      "stipe": "The stipe is 5–15 cm long and 1–3 cm thick, cylindrical and often curved, smooth and silky, white, with a clearly swollen, bulbous base. It carries a large, persistent, pendulous white ring with a thick, double outer edge, flocculose on its underside. The stipe surface also bruises yellow, and when the stipe base is cut lengthwise its flesh turns intense chrome yellow at once.",
+      "flesh": "The flesh is white and rather thin in the cap. It yellows immediately under the cap skin and when cut or rubbed, most strongly in the stipe base, where it stays bright yellow even in old fruit bodies; the yellow later turns brownish. The odour is unpleasant, of phenol, ink, iodine or carbolic disinfectant, sometimes only faint in fresh material but strongest when the stipe base is crushed and much stronger on cooking, never of aniseed. The cap surface turns yellow with KOH.",
+      "sporePrint": "The spore print is dark chocolate brown to very dark purplish brown. Spores are ellipsoid to ovoid, smooth and thick-walled with a small apiculus, brown in KOH, mostly about 4.5–6.5 × 3–5.5 µm, with occasional reports up to 7 µm long.",
+      "habitat": "It is saprotrophic, growing singly, scattered or more often in groups, troops or arcs on nitrogen-rich, disturbed soil in lawns, parks, gardens, roadsides and hedgerows, along woodland edges and in open woods. It fruits from June to November in Europe, in summer and autumn in North America, and also through the winter in mild climates such as California.",
+      "uses": "It is poisonous and must not be eaten. It causes gastrointestinal poisoning, usually soon after the meal, with nausea, stomach cramps, vomiting, diarrhoea, sweating and flushing, and in severe cases dizziness and visual disturbances; severity depends on the amount eaten. A minority of people appear to eat it without noticeable ill effects, which does not make it safe.",
+      "confusion": "Agaricus arvensis bruises only slowly and faintly yellow, evenly over the whole fruit body rather than most strongly in the stipe base, and smells of aniseed; it is edible. Agaricus campestris does not turn yellow and has no phenolic smell, a thin, fugacious ring and a tapering rather than bulbous stipe base; it is edible. Agaricus bitorquis has reddening rather than yellowing flesh. Agaricus moelleri and Agaricus praeclaresquamosus belong to the same yellow-staining, phenol-scented group but have grey-brown to dark grey scales on the cap, and Agaricus pilatianus of the same group lacks a bulbous stipe base. Agaricus xanthodermulus is a smaller, less yellowing, poisonous lookalike with a radially cracked grey-brown cap. Deadly Amanita verna can have a squarish young cap but keeps white gills and has a volva at the stipe base.",
+      "notes": "The bright yellow staining and the phenolic smell come from phenolic and diazo compounds, including phenol, xanthodermin and agaricone, which oxidise to yellow forms when the tissue is damaged or cooked. It is one of the most frequent causes of mushroom poisoning wherever it is common: in 2022 it headed the French list of mushroom poisonings by number of cases, and in Victoria, Australia, where it is introduced and often more common in towns than edible mushrooms, it causes most poisonings from wild fungi."
+    },
+    "de": {
+      "description": "Ein mittelgroßer bis großer, weißer, beringter Pilz von Rasenflächen, Parks, Gärten, Hecken und lichten Wäldern, der oft in Scharen oder Hexenringen wächst. Er ist häufig und weit verbreitet in Europa, Nordamerika, Westasien einschließlich Anatoliens und des Iran sowie in Nord- und Südafrika und wurde nach Australien eingeschleppt.",
+      "cap": "Der Hut misst 5–15 cm, gelegentlich bis 20 cm. Junge Hüte sind kugelig mit abgeflachtem Scheitel, wodurch ein typisch kantiges oder trapezförmiges Profil entsteht; später werden sie gewölbt und schließlich fast flach, der Rand ist nur in der Jugend eingerollt. Die Oberfläche ist trocken, matt und glatt bis fein faserig, anfangs reinweiß, später zur Mitte hin gräulich oder hellbraun; alte Hüte können fein schuppig werden oder aufreißen, besonders bei warmem, trockenem Wetter. Kratzen oder Reiben der Oberfläche, vor allem am Rand, färbt sie innerhalb von Sekunden leuchtend chromgelb; die Verfärbung geht später in Braun über.",
+      "hymenium": "Die Lamellen sind frei, gedrängt und ungleich lang. Sie sind anfangs weißlich bis blassgrau, bald rosa und schließlich schokoladenbraun bis dunkel purpurbraun, wenn die Sporen reifen; im Knollenstadium sind sie von einem häutigen weißen Teilvelum bedeckt. Die Basidien sind viersporig. Die Lamellenschneide ist oft ausgefranst und undeutlich begrenzt; Cheilozystiden sind, wenn vorhanden, keulenförmig und etwa 20–30 × 4–8 µm groß, Pleurozystiden wurden nicht gefunden.",
+      "stipe": "Der Stiel ist 5–15 cm lang und 1–3 cm dick, zylindrisch und oft gebogen, glatt und seidig, weiß, mit deutlich verdickter, knolliger Basis. Er trägt einen großen, beständigen, hängenden weißen Ring mit dickem, doppeltem Außenrand, der unterseits flockig ist. Auch die Stieloberfläche gilbt bei Berührung, und wird die Stielbasis längs aufgeschnitten, färbt sich das Fleisch sofort intensiv chromgelb.",
+      "flesh": "Das Fleisch ist weiß und im Hut ziemlich dünn. Es gilbt sofort unter der Huthaut sowie beim Anschneiden oder Reiben, am stärksten in der Stielbasis, wo es selbst bei alten Fruchtkörpern leuchtend gelb bleibt; das Gelb wird später bräunlich. Der Geruch ist unangenehm nach Phenol, Tinte, Jod oder Karbol-Desinfektionsmittel, bei frischen Stücken mitunter nur schwach, am stärksten beim Zerdrücken der Stielbasis und beim Kochen viel intensiver, niemals nach Anis. Die Huthaut färbt sich mit KOH gelb.",
+      "sporePrint": "Das Sporenpulver ist dunkel schokoladenbraun bis sehr dunkel purpurbraun. Die Sporen sind elliptisch bis eiförmig, glatt und dickwandig mit kleinem Apikulus, in KOH braun, meist etwa 4,5–6,5 × 3–5,5 µm groß; vereinzelt werden bis 7 µm Länge angegeben.",
+      "habitat": "Er lebt saprotroph und wächst einzeln, verstreut oder häufiger in Gruppen, Scharen oder Bögen auf stickstoffreichem, gestörtem Boden in Rasenflächen, Parks, Gärten, an Wegrändern und Hecken, an Waldrändern und in lichten Wäldern. Er fruktifiziert in Europa von Juni bis November, in Nordamerika im Sommer und Herbst und in milden Klimaten wie Kalifornien auch den Winter hindurch.",
+      "uses": "Er ist giftig und darf nicht gegessen werden. Er verursacht eine Magen-Darm-Vergiftung, meist kurz nach der Mahlzeit, mit Übelkeit, Magenkrämpfen, Erbrechen, Durchfall, Schweißausbrüchen und Hautrötung, in schweren Fällen auch mit Schwindel und Sehstörungen; die Schwere hängt von der verzehrten Menge ab. Eine Minderheit von Menschen scheint ihn ohne merkliche Beschwerden zu vertragen, was ihn jedoch nicht sicher macht.",
+      "confusion": "Agaricus arvensis gilbt nur langsam und schwach, gleichmäßig am ganzen Fruchtkörper statt am stärksten in der Stielbasis, und riecht nach Anis; er ist essbar. Agaricus campestris gilbt nicht, hat keinen Phenolgeruch, einen dünnen, vergänglichen Ring und eine zugespitzte statt knollige Stielbasis; er ist essbar. Agaricus bitorquis hat rötendes statt gilbendes Fleisch. Agaricus moelleri und Agaricus praeclaresquamosus gehören zur selben gilbenden, nach Phenol riechenden Gruppe, haben aber graubraune bis dunkelgraue Schuppen auf dem Hut, und Agaricus pilatianus aus derselben Gruppe hat keine knollige Stielbasis. Agaricus xanthodermulus ist ein kleinerer, weniger gilbender, giftiger Doppelgänger mit radial rissigem, graubraunem Hut. Der tödlich giftige Amanita verna kann einen kantigen jungen Hut haben, behält aber weiße Lamellen und besitzt eine Volva an der Stielbasis.",
+      "notes": "Das leuchtende Gilben und der Phenolgeruch gehen auf phenolische und Diazoverbindungen zurück, darunter Phenol, Xanthodermin und Agaricon, die bei Verletzung oder beim Kochen des Gewebes zu gelben Formen oxidieren. Er gehört überall dort, wo er häufig ist, zu den häufigsten Verursachern von Pilzvergiftungen: 2022 stand er in Frankreich nach Zahl der Fälle an der Spitze der Pilzvergiftungen, und in Victoria (Australien), wo er eingeschleppt und in Städten oft häufiger als essbare Pilze ist, verursacht er die meisten Vergiftungen durch Wildpilze."
+    },
+    "fr": {
+      "description": "Un champignon blanc, de taille moyenne à grande, muni d'un anneau, des pelouses, parcs, jardins, haies et bois clairs, poussant souvent en troupes ou en ronds de sorcières. Il est commun et largement répandu en Europe, en Amérique du Nord, en Asie occidentale, y compris l'Anatolie et l'Iran, ainsi qu'en Afrique du Nord et en Afrique australe, et il a été introduit en Australie.",
+      "cap": "Le chapeau mesure 5–15 cm, parfois jusqu'à 20 cm. Jeune, il est globuleux au sommet aplati, ce qui lui donne un profil typiquement cubique ou trapézoïdal, puis devient convexe et enfin presque plat ; la marge n'est enroulée que dans la jeunesse. La surface est sèche, mate, lisse à finement fibrilleuse, d'abord blanc pur, puis grisâtre ou brun clair vers le centre ; les vieux chapeaux peuvent devenir finement squamuleux ou se crevasser, surtout par temps chaud et sec. Gratter ou frotter la surface, surtout à la marge, la fait virer au jaune de chrome vif en quelques secondes ; la tache passe ensuite au brun.",
+      "hymenium": "Les lames sont libres, serrées et inégales. D'abord blanchâtres à gris pâle, elles deviennent vite roses, puis brun chocolat à brun pourpre foncé à maturité des spores ; au stade bouton, elles sont couvertes d'un voile partiel blanc et membraneux. Les basides sont tétrasporiques. L'arête des lames est souvent érodée et mal délimitée ; les cheilocystides, quand on les trouve, sont claviformes, d'environ 20–30 × 4–8 µm, et aucune pleurocystide n'a été observée.",
+      "stipe": "Le pied mesure 5–15 cm de long et 1–3 cm d'épaisseur ; il est cylindrique et souvent courbé, lisse et soyeux, blanc, avec une base nettement renflée en bulbe. Il porte un grand anneau blanc, persistant et pendant, à bord externe épais et double, floconneux à sa face inférieure. La surface du pied jaunit aussi au toucher, et lorsque la base est coupée en long, sa chair vire immédiatement au jaune de chrome intense.",
+      "flesh": "La chair est blanche et plutôt mince dans le chapeau. Elle jaunit aussitôt sous la cuticule et à la coupe ou au frottement, surtout dans la base du pied, où elle reste jaune vif même chez les vieux sporophores ; le jaune vire ensuite au brunâtre. L'odeur est désagréable, de phénol, d'encre, d'iode ou de désinfectant phénolé, parfois faible sur le frais mais maximale quand on écrase la base du pied et bien plus forte à la cuisson, jamais anisée. La cuticule jaunit au KOH.",
+      "sporePrint": "La sporée est brun chocolat foncé à brun pourpre très foncé. Les spores sont elliptiques à ovoïdes, lisses, à paroi épaisse et petit apicule, brunes dans le KOH, mesurant le plus souvent environ 4,5–6,5 × 3–5,5 µm, avec des mentions occasionnelles jusqu'à 7 µm de long.",
+      "habitat": "Il est saprotrophe et pousse isolé, dispersé ou plus souvent en groupes, en troupes ou en arcs sur des sols riches en azote et remaniés, dans les pelouses, parcs, jardins, bords de chemins et haies, en lisière et dans les bois clairs. Il fructifie de juin à novembre en Europe, en été et en automne en Amérique du Nord, et aussi tout l'hiver sous les climats doux comme celui de la Californie.",
+      "uses": "Il est toxique et ne doit pas être consommé. Il provoque une intoxication gastro-intestinale, en général peu après le repas, avec nausées, crampes d'estomac, vomissements, diarrhée, sueurs et bouffées de chaleur, et dans les cas graves vertiges et troubles visuels ; la gravité dépend de la quantité ingérée. Une minorité de personnes semble le consommer sans effet notable, ce qui ne le rend pas sûr pour autant.",
+      "confusion": "Agaricus arvensis ne jaunit que lentement et faiblement, de façon uniforme sur tout le sporophore plutôt que surtout à la base du pied, et sent l'anis ; il est comestible. Agaricus campestris ne jaunit pas, n'a pas d'odeur phénolique, possède un anneau mince et fugace et une base du pied atténuée plutôt que bulbeuse ; il est comestible. Agaricus bitorquis a une chair rougissante et non jaunissante. Agaricus moelleri et Agaricus praeclaresquamosus appartiennent au même groupe jaunissant à odeur de phénol, mais ont des squames brun-gris à gris foncé sur le chapeau, et Agaricus pilatianus, du même groupe, n'a pas de bulbe à la base du pied. Agaricus xanthodermulus est un sosie toxique plus petit, moins jaunissant, au chapeau brun-gris craquelé radialement. La mortelle Amanita verna peut avoir un jeune chapeau cubique, mais garde des lames blanches et possède une volve à la base du pied.",
+      "notes": "Le jaunissement vif et l'odeur phénolique proviennent de composés phénoliques et diazoïques, dont le phénol, la xanthodermine et l'agaricone, qui s'oxydent en formes jaunes lorsque les tissus sont lésés ou cuits. C'est l'une des causes les plus fréquentes d'intoxication par les champignons partout où il est commun : en 2022, il arrivait en tête des intoxications par les champignons en France en nombre de cas, et dans l'État de Victoria, en Australie, où il a été introduit et est souvent plus commun en ville que les champignons comestibles, il cause la plupart des intoxications dues aux champignons sauvages."
+    },
+    "nl": {
+      "description": "Een middelgrote tot grote, witte paddenstoel met een ring, van gazons, parken, tuinen, heggen en open bos, die vaak in groepen of heksenkringen groeit. Hij is algemeen en wijdverbreid in Europa, Noord-Amerika, West-Azië met inbegrip van Anatolië en Iran, en Noord- en zuidelijk Afrika, en is ingevoerd in Australië.",
+      "cap": "De hoed is 5–15 cm breed, soms tot 20 cm. Jonge hoeden zijn bolvormig met een afgeplatte top, wat een kenmerkend hoekig of trapeziumvormig profiel geeft, worden daarna gewelfd en ten slotte bijna vlak; de rand is alleen bij jonge exemplaren ingerold. Het oppervlak is droog, mat en glad tot fijn vezelig, eerst zuiver wit, later naar het midden grijzig of lichtbruin; oude hoeden kunnen fijn schubbig worden of openscheuren, vooral bij warm, droog weer. Krabben of wrijven over het oppervlak, vooral aan de rand, kleurt het binnen enkele seconden fel chroomgeel; de verkleuring wordt later bruin.",
+      "hymenium": "De plaatjes zijn vrij, dicht opeen en ongelijk van lengte. Ze zijn eerst witachtig tot bleekgrijs, al snel roze en ten slotte chocoladebruin tot donker purperbruin als de sporen rijpen; in het knopstadium worden ze bedekt door een vliezig wit gedeeltelijk velum. De basidiën zijn viersporig. De snede is vaak aangevreten en slecht afgegrensd; cheilocystiden zijn, als ze worden gevonden, knotsvormig en ongeveer 20–30 × 4–8 µm, en pleurocystiden zijn niet gevonden.",
+      "stipe": "De steel is 5–15 cm lang en 1–3 cm dik, cilindrisch en vaak gebogen, glad en zijdeachtig, wit, met een duidelijk verdikte, knolvormige voet. Hij draagt een grote, blijvende, hangende witte ring met een dikke, dubbele buitenrand die aan de onderzijde vlokkig is. Ook het steeloppervlak verkleurt geel bij aanraking, en wanneer de steelvoet in de lengte wordt doorgesneden, kleurt het vlees onmiddellijk intens chroomgeel.",
+      "flesh": "Het vlees is wit en in de hoed vrij dun. Het verkleurt direct geel onder de hoedhuid en bij snijden of wrijven, het sterkst in de steelvoet, waar het zelfs bij oude vruchtlichamen fel geel blijft; het geel wordt later bruinachtig. De geur is onaangenaam, naar fenol, inkt, jodium of carbolzeep, bij vers materiaal soms maar zwak, maar het sterkst als de steelvoet wordt fijngeknepen en veel sterker bij het koken, nooit naar anijs. De hoedhuid kleurt geel met KOH.",
+      "sporePrint": "De sporenprint is donker chocoladebruin tot zeer donker purperbruin. De sporen zijn ellipsvormig tot eivormig, glad en dikwandig met een kleine apiculus, bruin in KOH, meestal ongeveer 4,5–6,5 × 3–5,5 µm, met incidentele opgaven tot 7 µm lang.",
+      "habitat": "Hij is saprotroof en groeit alleen, verspreid of vaker in groepen, troepen of bogen op stikstofrijke, verstoorde grond in gazons, parken, tuinen, bermen en heggen, langs bosranden en in open bos. Hij vormt vruchtlichamen van juni tot november in Europa, in de zomer en herfst in Noord-Amerika en in milde klimaten zoals Californië ook de hele winter door.",
+      "uses": "Hij is giftig en mag niet gegeten worden. Hij veroorzaakt een maag-darmvergiftiging, meestal kort na de maaltijd, met misselijkheid, maagkrampen, braken, diarree, zweten en blozen, en in ernstige gevallen duizeligheid en gezichtsstoornissen; de ernst hangt af van de gegeten hoeveelheid. Een minderheid van de mensen lijkt hem zonder merkbare klachten te eten, wat hem niet veilig maakt.",
+      "confusion": "Agaricus arvensis verkleurt slechts langzaam en zwak geel, gelijkmatig over het hele vruchtlichaam in plaats van het sterkst in de steelvoet, en ruikt naar anijs; hij is eetbaar. Agaricus campestris verkleurt niet geel, heeft geen fenolgeur, een dunne, vergankelijke ring en een toelopende in plaats van knolvormige steelvoet; hij is eetbaar. Agaricus bitorquis heeft roodverkleurend in plaats van geelverkleurend vlees. Agaricus moelleri en Agaricus praeclaresquamosus behoren tot dezelfde geelverkleurende, naar fenol ruikende groep, maar hebben grijsbruine tot donkergrijze schubben op de hoed, en Agaricus pilatianus uit dezelfde groep mist een knolvormige steelvoet. Agaricus xanthodermulus is een kleinere, minder geel verkleurende, giftige dubbelganger met een radiaal gescheurde grijsbruine hoed. De dodelijk giftige Amanita verna kan een hoekige jonge hoed hebben, maar houdt witte plaatjes en heeft een beurs aan de steelvoet.",
+      "notes": "De felgele verkleuring en de fenolgeur komen van fenolische en diazoverbindingen, waaronder fenol, xanthodermine en agaricon, die tot gele vormen oxideren als het weefsel beschadigd of gekookt wordt. Hij is overal waar hij algemeen is een van de vaakste oorzaken van paddenstoelvergiftiging: in 2022 stond hij in Frankrijk naar aantal gevallen bovenaan de lijst van paddenstoelvergiftigingen, en in Victoria (Australië), waar hij is ingevoerd en in steden vaak algemener is dan eetbare paddenstoelen, veroorzaakt hij de meeste vergiftigingen door wilde paddenstoelen."
+    },
+    "da": {
+      "description": "En mellemstor til stor, hvid svamp med ring, der vokser på plæner, i parker, haver, hegn og lysåben skov, ofte i flokke eller heksering. Den er almindelig og vidt udbredt i Europa, Nordamerika, Vestasien inklusive Anatolien og Iran samt i det nordlige og sydlige Afrika, og den er indslæbt til Australien.",
+      "cap": "Hatten er 5–15 cm bred, undertiden op til 20 cm. Unge hatte er kugleformede med fladtrykt top, hvilket giver en karakteristisk kantet eller trapezformet profil; senere bliver de hvælvede og til sidst næsten flade, og randen er kun indrullet hos unge eksemplarer. Overfladen er tør, mat og glat til fint trævlet, først rent hvid, senere grålig eller lysebrun mod midten; gamle hatte kan blive fint skællede eller revne, især i varmt, tørt vejr. Skrabes eller gnides overfladen, især ved randen, bliver den skarpt kromgul i løbet af sekunder; misfarvningen bliver senere brun.",
+      "hymenium": "Lamellerne er fri, tætstillede og af ulige længde. De er først hvidlige til blegt grå, snart lyserøde og til sidst chokoladebrune til mørkt purpurbrune, når sporerne modnes; i knopstadiet er de dækket af et hindeagtigt hvidt delvist velum. Basidierne er firesporede. Lamelæggen er ofte gnavet og utydeligt afgrænset; cheilocystider er, når de findes, kølleformede, omkring 20–30 × 4–8 µm, og pleurocystider er ikke fundet.",
+      "stipe": "Stokken er 5–15 cm lang og 1–3 cm tyk, cylindrisk og ofte bøjet, glat og silkeagtig, hvid, med en tydeligt fortykket, knoldformet basis. Den bærer en stor, vedvarende, hængende hvid ring med en tyk, dobbelt yderkant, der er fnugget på undersiden. Også stokkens overflade gulner ved berøring, og når stokbasis skæres igennem på langs, bliver kødet straks intenst kromgult.",
+      "flesh": "Kødet er hvidt og temmelig tyndt i hatten. Det gulner straks under hathuden og ved snit eller gnidning, stærkest i stokbasis, hvor det forbliver skarpt gult selv hos gamle frugtlegemer; det gule bliver senere brunligt. Lugten er ubehagelig, af fenol, blæk, jod eller karbol, hos friske eksemplarer undertiden kun svag, men stærkest når stokbasis knuses og langt stærkere ved tilberedning, aldrig af anis. Hathuden bliver gul med KOH.",
+      "sporePrint": "Sporepulveret er mørkt chokoladebrunt til meget mørkt purpurbrunt. Sporerne er ellipsoide til ægformede, glatte og tykvæggede med en lille apikulus, brune i KOH, oftest omkring 4,5–6,5 × 3–5,5 µm, med enkelte angivelser op til 7 µm i længden.",
+      "habitat": "Den er saprotrof og vokser enkeltvis, spredt eller oftere i grupper, flokke eller buer på kvælstofrig, forstyrret jord på plæner, i parker, haver, vejkanter og hegn, langs skovbryn og i lysåben skov. Den danner frugtlegemer fra juni til november i Europa, om sommeren og efteråret i Nordamerika og i milde klimaer som Californien også hele vinteren.",
+      "uses": "Den er giftig og må ikke spises. Den forårsager mave-tarm-forgiftning, som regel kort efter måltidet, med kvalme, mavekramper, opkastning, diarré, sved og rødmen, og i alvorlige tilfælde svimmelhed og synsforstyrrelser; sværhedsgraden afhænger af den spiste mængde. Et mindretal af mennesker ser ud til at kunne spise den uden mærkbare gener, hvilket ikke gør den sikker.",
+      "confusion": "Agaricus arvensis gulner kun langsomt og svagt, jævnt over hele frugtlegemet i stedet for stærkest i stokbasis, og lugter af anis; den er spiselig. Agaricus campestris gulner ikke, har ingen fenollugt, en tynd, forgængelig ring og en tilspidset i stedet for knoldformet stokbasis; den er spiselig. Agaricus bitorquis har rødmende i stedet for gulnende kød. Agaricus moelleri og Agaricus praeclaresquamosus hører til samme gulnende, fenolduftende gruppe, men har gråbrune til mørkegrå skæl på hatten, og Agaricus pilatianus fra samme gruppe mangler en knoldformet stokbasis. Agaricus xanthodermulus er en mindre, svagere gulnende, giftig dobbeltgænger med radiært revnet gråbrun hat. Den dødeligt giftige Amanita verna kan have en kantet ung hat, men beholder hvide lameller og har en volva ved stokbasis.",
+      "notes": "Den skarpe gulning og fenollugten skyldes fenoliske og diazoforbindelser, blandt andet fenol, xanthodermin og agaricon, som oxiderer til gule former, når vævet beskadiges eller koges. Den er en af de hyppigste årsager til svampeforgiftning, hvor den er almindelig: i 2022 toppede den i Frankrig listen over svampeforgiftninger efter antal tilfælde, og i Victoria i Australien, hvor den er indslæbt og i byer ofte mere almindelig end spiselige svampe, forårsager den de fleste forgiftninger med vilde svampe."
+    },
+    "sv": {
+      "description": "En medelstor till stor, vit svamp med ring som växer på gräsmattor, i parker, trädgårdar, häckar och gles skog, ofta i flockar eller häxringar. Den är vanlig och vitt spridd i Europa, Nordamerika, Västasien inklusive Anatolien och Iran samt i norra och södra Afrika, och den har införts till Australien.",
+      "cap": "Hatten är 5–15 cm bred, ibland upp till 20 cm. Unga hattar är klotformiga med avplattad topp, vilket ger en karakteristiskt kantig eller trapetsformad profil; sedan blir de välvda och till sist nästan platta, och kanten är inrullad bara hos unga exemplar. Ytan är torr, matt och slät till fint trådig, först rent vit, senare gråaktig eller ljusbrun mot mitten; gamla hattar kan bli fint fjälliga eller spricka, särskilt i varmt, torrt väder. Skrapas eller gnids ytan, särskilt vid kanten, blir den lysande kromgul inom några sekunder; missfärgningen övergår senare i brunt.",
+      "hymenium": "Skivorna är fria, täta och olika långa. De är först vitaktiga till blekt grå, snart rosa och till sist chokladbruna till mörkt purpurbruna när sporerna mognar; i knoppstadiet täcks de av ett hinnartat vitt partiellt hylle. Basidierna är fyrsporiga. Eggen är ofta naggad och otydligt avgränsad; cheilocystider är, när de hittas, klubbformiga, omkring 20–30 × 4–8 µm, och pleurocystider har inte påträffats.",
+      "stipe": "Foten är 5–15 cm lång och 1–3 cm tjock, cylindrisk och ofta böjd, slät och silkig, vit, med en tydligt uppsvälld, knölformad bas. Den bär en stor, bestående, hängande vit ring med en tjock, dubbel ytterkant som är flockig på undersidan. Även fotens yta gulnar vid beröring, och när fotbasen skärs itu på längden blir köttet genast intensivt kromgult.",
+      "flesh": "Köttet är vitt och ganska tunt i hatten. Det gulnar genast under hatthuden och vid snitt eller gnidning, starkast i fotbasen, där det förblir lysande gult även hos gamla fruktkroppar; det gula blir senare brunaktigt. Lukten är obehaglig, av fenol, bläck, jod eller karbol, hos färskt material ibland bara svag men starkast när fotbasen krossas och mycket starkare vid tillagning, aldrig av anis. Hatthuden blir gul med KOH.",
+      "sporePrint": "Sporpulvret är mörkt chokladbrunt till mycket mörkt purpurbrunt. Sporerna är ellipsoida till äggformiga, släta och tjockväggiga med en liten apikulus, bruna i KOH, oftast omkring 4,5–6,5 × 3–5,5 µm, med enstaka uppgifter upp till 7 µm i längd.",
+      "habitat": "Den är saprotrof och växer ensam, spridd eller oftare i grupper, flockar eller bågar på kväverik, störd mark på gräsmattor, i parker, trädgårdar, vägkanter och häckar, längs skogsbryn och i gles skog. Den bildar fruktkroppar från juni till november i Europa, under sommar och höst i Nordamerika och i milda klimat som Kalifornien även hela vintern.",
+      "uses": "Den är giftig och får inte ätas. Den orsakar mag-tarmförgiftning, vanligen strax efter måltiden, med illamående, magkramper, kräkningar, diarré, svettningar och rodnad, och i svåra fall yrsel och synstörningar; svårighetsgraden beror på den ätna mängden. En minoritet av människor tycks kunna äta den utan märkbara besvär, vilket inte gör den säker.",
+      "confusion": "Agaricus arvensis gulnar bara långsamt och svagt, jämnt över hela fruktkroppen i stället för starkast i fotbasen, och luktar anis; den är ätlig. Agaricus campestris gulnar inte, saknar fenollukt, har en tunn, förgänglig ring och en avsmalnande i stället för knölformad fotbas; den är ätlig. Agaricus bitorquis har rodnande i stället för gulnande kött. Agaricus moelleri och Agaricus praeclaresquamosus tillhör samma gulnande, fenoldoftande grupp men har gråbruna till mörkgrå fjäll på hatten, och Agaricus pilatianus i samma grupp saknar knölformad fotbas. Agaricus xanthodermulus är en mindre, svagare gulnande, giftig dubbelgångare med radiärt sprucken gråbrun hatt. Den dödligt giftiga Amanita verna kan ha en kantig ung hatt men behåller vita skivor och har en strumpa vid fotbasen.",
+      "notes": "Den lysande gulningen och fenollukten beror på fenoliska föreningar och diazoföreningar, bland dem fenol, xanthodermin och agaricon, som oxiderar till gula former när vävnaden skadas eller kokas. Den är en av de vanligaste orsakerna till svampförgiftning där den är vanlig: år 2022 toppade den i Frankrike listan över svampförgiftningar efter antal fall, och i Victoria i Australien, där den är införd och i städer ofta vanligare än ätliga svampar, orsakar den flest förgiftningar av vilda svampar."
+    },
+    "no": {
+      "description": "En middels stor til stor, hvit sopp med ring som vokser på plener, i parker, hager, hekker og åpen skog, ofte i flokker eller heksringer. Den er vanlig og vidt utbredt i Europa, Nord-Amerika, Vest-Asia inkludert Anatolia og Iran og i det nordlige og sørlige Afrika, og den er innført til Australia.",
+      "cap": "Hatten er 5–15 cm bred, av og til opptil 20 cm. Unge hatter er kuleformede med avflatet topp, noe som gir en karakteristisk kantet eller trapesformet profil; senere blir de hvelvede og til slutt nesten flate, og kanten er bare innrullet hos unge eksemplarer. Overflaten er tørr, matt og glatt til fint trådet, først rent hvit, senere gråaktig eller lysebrun mot midten; gamle hatter kan bli fint skjellete eller sprekke, særlig i varmt, tørt vær. Skrapes eller gnis overflaten, særlig ved kanten, blir den knallende kromgul i løpet av sekunder; misfargingen blir senere brun.",
+      "hymenium": "Skivene er frie, tettstilte og ulike lange. De er først hvitaktige til blekt grå, snart rosa og til slutt sjokoladebrune til mørkt purpurbrune når sporene modnes; i knoppstadiet er de dekket av et hinneaktig hvitt delvis velum. Basidiene er firesporede. Eggen er ofte gnagd og utydelig avgrenset; cheilocystider er, når de finnes, kølleformede, omkring 20–30 × 4–8 µm, og pleurocystider er ikke funnet.",
+      "stipe": "Stilken er 5–15 cm lang og 1–3 cm tykk, sylindrisk og ofte bøyd, glatt og silkeaktig, hvit, med en tydelig fortykket, knollformet basis. Den bærer en stor, varig, hengende hvit ring med en tykk, dobbel ytterkant som er flokete på undersiden. Også stilkoverflaten gulner ved berøring, og når stilkbasisen skjæres over på langs, blir kjøttet straks intenst kromgult.",
+      "flesh": "Kjøttet er hvitt og ganske tynt i hatten. Det gulner straks under hatthuden og ved snitt eller gnidning, sterkest i stilkbasisen, der det forblir knallgult selv hos gamle fruktlegemer; det gule blir senere brunaktig. Lukten er ubehagelig, av fenol, blekk, jod eller karbol, hos friskt materiale av og til bare svak, men sterkest når stilkbasisen knuses og mye sterkere ved tilberedning, aldri av anis. Hatthuden blir gul med KOH.",
+      "sporePrint": "Sporepulveret er mørkt sjokoladebrunt til svært mørkt purpurbrunt. Sporene er ellipsoide til eggformede, glatte og tykkveggede med en liten apikulus, brune i KOH, oftest omkring 4,5–6,5 × 3–5,5 µm, med enkelte angivelser opptil 7 µm i lengde.",
+      "habitat": "Den er saprotrof og vokser enkeltvis, spredt eller oftere i grupper, flokker eller buer på nitrogenrik, forstyrret jord på plener, i parker, hager, veikanter og hekker, langs skogkanter og i åpen skog. Den danner fruktlegemer fra juni til november i Europa, om sommeren og høsten i Nord-Amerika og i milde klima som California også gjennom hele vinteren.",
+      "uses": "Den er giftig og må ikke spises. Den gir mage-tarm-forgiftning, vanligvis kort tid etter måltidet, med kvalme, magekramper, oppkast, diaré, svetting og rødming, og i alvorlige tilfeller svimmelhet og synsforstyrrelser; alvorlighetsgraden avhenger av mengden som er spist. Et mindretall av mennesker ser ut til å kunne spise den uten merkbare plager, noe som ikke gjør den trygg.",
+      "confusion": "Agaricus arvensis gulner bare langsomt og svakt, jevnt over hele fruktlegemet i stedet for sterkest i stilkbasisen, og lukter anis; den er spiselig. Agaricus campestris gulner ikke, har ingen fenollukt, en tynn, forgjengelig ring og en avsmalnende i stedet for knollformet stilkbasis; den er spiselig. Agaricus bitorquis har rødmende i stedet for gulnende kjøtt. Agaricus moelleri og Agaricus praeclaresquamosus hører til samme gulnende, fenolduftende gruppe, men har gråbrune til mørkegrå skjell på hatten, og Agaricus pilatianus fra samme gruppe mangler knollformet stilkbasis. Agaricus xanthodermulus er en mindre, svakere gulnende, giftig dobbeltgjenger med radiært sprukken gråbrun hatt. Den dødelig giftige Amanita verna kan ha en kantet ung hatt, men beholder hvite skiver og har en strømpe ved stilkbasisen.",
+      "notes": "Den knallgule fargingen og fenollukten skyldes fenoliske forbindelser og diazoforbindelser, blant annet fenol, xanthodermin og agaricon, som oksideres til gule former når vevet skades eller kokes. Den er en av de hyppigste årsakene til soppforgiftning der den er vanlig: i 2022 toppet den listen over soppforgiftninger i Frankrike etter antall tilfeller, og i Victoria i Australia, der den er innført og i byer ofte vanligere enn spiselige sopper, forårsaker den de fleste forgiftningene med vill sopp."
+    },
+    "fi": {
+      "description": "Keskikokoinen tai suuri, valkoinen, renkaallinen sieni, joka kasvaa nurmikoilla, puistoissa, puutarhoissa, pensasaidanteissa ja valoisissa metsissä, usein parvina tai noidankehinä. Se on yleinen ja laajalle levinnyt Euroopassa, Pohjois-Amerikassa, Länsi-Aasiassa Anatolia ja Iran mukaan lukien sekä Pohjois- ja eteläisessä Afrikassa, ja se on levinnyt ihmisen mukana Australiaan.",
+      "cap": "Lakki on 5–15 cm leveä, joskus jopa 20 cm. Nuoret lakit ovat pallomaisia ja laelta litistyneitä, mikä antaa niille tyypillisen kulmikkaan tai puolisuunnikkaan muotoisen profiilin; myöhemmin ne kaartuvat kupeiksi ja lopulta lähes litteiksi, ja reuna on sisäänkääntynyt vain nuorena. Pinta on kuiva, himmeä ja sileä tai hienosäikeinen, aluksi puhtaanvalkoinen, myöhemmin keskeltä harmahtava tai vaaleanruskea; vanhat lakit voivat muuttua hienosuomuisiksi tai halkeilla, etenkin lämpimällä ja kuivalla säällä. Pinnan raapiminen tai hankaaminen, etenkin reunalta, värjää sen sekunneissa kirkkaan kromikeltaiseksi; värjäymä muuttuu myöhemmin ruskeaksi.",
+      "hymenium": "Heltat ovat vapaat, tiheät ja eripituiset. Ne ovat aluksi valkeahkot tai vaaleanharmaat, pian vaaleanpunaiset ja lopulta suklaanruskeat tai tumman purppuranruskeat itiöiden kypsyessä; nuppuvaiheessa niitä peittää kalvomainen valkoinen osittaisverho. Itiökannat ovat neli-itiöisiä. Helttojen särmä on usein rispaantunut ja epäselvä; särmäkystidit ovat, jos niitä löytyy, nuijamaisia, noin 20–30 × 4–8 µm, eikä pintakystidejä ole löydetty.",
+      "stipe": "Jalka on 5–15 cm pitkä ja 1–3 cm paksu, lieriömäinen ja usein kaareva, sileä ja silkkinen, valkoinen, ja sen tyvi on selvästi paksuuntunut mukulaksi. Siinä on suuri, pysyvä, riippuva valkoinen rengas, jonka paksu, kaksinkertainen ulkoreuna on alapinnaltaan hiutaleinen. Myös jalan pinta kellertyy kosketuksesta, ja kun jalan tyvi halkaistaan pitkittäin, malto muuttuu heti voimakkaan kromikeltaiseksi.",
+      "flesh": "Malto on valkoinen ja lakissa melko ohut. Se kellertyy heti lakin pintakalvon alta sekä leikattaessa tai hangattaessa, voimakkaimmin jalan tyvessä, jossa se pysyy kirkkaankeltaisena vanhoissakin itiöemissä; keltainen muuttuu myöhemmin ruskehtavaksi. Haju on epämiellyttävä, fenolin, musteen, jodin tai karbolin kaltainen, tuoreessa sienessä joskus vain heikko mutta voimakkain jalan tyveä murskattaessa ja paljon voimakkaampi kypsennettäessä, ei koskaan aniksinen. Lakin pinta kellastuu KOH:sta.",
+      "sporePrint": "Itiöjauhe on tumman suklaanruskea tai hyvin tumman purppuranruskea. Itiöt ovat ellipsoidisia tai munanmuotoisia, sileitä ja paksuseinäisiä, ja niissä on pieni apikulus; KOH:ssa ne ovat ruskeita, useimmiten noin 4,5–6,5 × 3–5,5 µm, ja joskus mainitaan jopa 7 µm:n pituus.",
+      "habitat": "Se on saprotrofi ja kasvaa yksittäin, hajallaan tai useammin ryhminä, parvina tai kaarina typpipitoisella, muokatulla maalla nurmikoilla, puistoissa, puutarhoissa, tienpientareilla ja pensasaidanteissa, metsänreunoissa ja valoisissa metsissä. Se tuottaa itiöemiä Euroopassa kesäkuusta marraskuuhun, Pohjois-Amerikassa kesällä ja syksyllä ja leudossa ilmastossa, kuten Kaliforniassa, myös läpi talven.",
+      "uses": "Se on myrkyllinen, eikä sitä saa syödä. Se aiheuttaa ruoansulatuskanavan myrkytyksen, tavallisesti pian aterian jälkeen, ja oireina ovat pahoinvointi, vatsakrampit, oksentelu, ripuli, hikoilu ja punoitus sekä vakavissa tapauksissa huimaus ja näköhäiriöt; oireiden vakavuus riippuu syödystä määrästä. Pieni osa ihmisistä näyttää voivan syödä sitä ilman havaittavia haittoja, mutta se ei tee siitä turvallista.",
+      "confusion": "Agaricus arvensis kellertyy vain hitaasti ja heikosti, tasaisesti koko itiöemästä eikä voimakkaimmin jalan tyvestä, ja tuoksuu anikselta; se on syötävä. Agaricus campestris ei kellerry, siinä ei ole fenolin hajua, sen rengas on ohut ja häviävä ja jalan tyvi suippeneva eikä mukulamainen; se on syötävä. Agaricus bitorquis -lajin malto punertuu eikä kellerry. Agaricus moelleri ja Agaricus praeclaresquamosus kuuluvat samaan kellertyvään, fenolille haisevaan ryhmään, mutta niiden lakissa on harmaanruskeita tai tummanharmaita suomuja, ja saman ryhmän Agaricus pilatianus -lajilta puuttuu mukulamainen jalan tyvi. Agaricus xanthodermulus on pienempi, heikommin kellertyvä, myrkyllinen kaksoisolento, jonka harmaanruskea lakki on säteittäin halkeillut. Tappavan myrkyllisellä Amanita verna -lajilla voi olla kulmikas nuori lakki, mutta sen heltat pysyvät valkoisina ja jalan tyvellä on tuppi.",
+      "notes": "Kirkas kellertyminen ja fenolin haju johtuvat fenolisista ja diatsoyhdisteistä, kuten fenolista, ksantodermiinista ja agarikonista, jotka hapettuvat keltaisiksi muodoiksi, kun kudos vaurioituu tai kypsennetään. Se on yksi yleisimmistä sienimyrkytysten aiheuttajista kaikkialla, missä se on yleinen: vuonna 2022 se oli Ranskassa sienimyrkytysten kärjessä tapausmäärältään, ja Australian Victoriassa, jonne se on levinnyt ihmisen mukana ja jossa se on kaupungeissa usein syötäviä sieniä yleisempi, se aiheuttaa suurimman osan luonnonvaraisten sienten myrkytyksistä."
+    },
+    "et": {
+      "description": "Keskmise suurusega kuni suur valge rõngaga seen, mis kasvab murudel, parkides, aedades, hekkides ja hõredas metsas, sageli salkadena või nõiaringidena. See on tavaline ja laialt levinud Euroopas, Põhja-Ameerikas, Lääne-Aasias koos Anatoolia ja Iraaniga ning Põhja- ja Lõuna-Aafrikas ning on sisse toodud Austraaliasse.",
+      "cap": "Kübar on 5–15 cm lai, mõnikord kuni 20 cm. Noored kübarad on kerakujulised lameda tipuga, mis annab neile iseloomuliku nurgelise või trapetsikujulise profiili; hiljem muutuvad nad kumeraks ja lõpuks peaaegu lamedaks ning serv on sissepoole rullunud ainult noorena. Pind on kuiv, matt ja sile kuni peenkiuline, algul puhasvalge, hiljem keskelt hallikas või helepruun; vanad kübarad võivad muutuda peensoomuseliseks või lõhenema, eriti sooja ja kuiva ilmaga. Pinna kraapimine või hõõrumine, eriti serval, muudab selle mõne sekundiga erkkroomkollaseks; laik muutub hiljem pruuniks.",
+      "hymenium": "Eoslehed on vabad, tihedad ja ebavõrdse pikkusega. Algul on need valkjad kuni kahvatuhallid, peagi roosad ja lõpuks eoste valmides šokolaadipruunid kuni tumedalt purpurpruunid; nupustaadiumis katab neid kilejas valge osaloor. Kandurid on neljaeoselised. Eoslehtede serv on sageli narmendav ja ebaselge; servatsüstiidid on, kui neid leidub, nuiakujulised, umbes 20–30 × 4–8 µm, ning pleurotsüstiide ei ole leitud.",
+      "stipe": "Jalg on 5–15 cm pikk ja 1–3 cm jäme, silindriline ja sageli kõver, sile ja siidjas, valge, selgelt paksenenud mugulja alusega. Sellel on suur, püsiv, rippuv valge rõngas paksu kahekordse välisservaga, mille alakülg on helbeline. Ka jala pind kollaseb puudutamisel ning kui jala alus pikuti läbi lõigata, muutub viljaliha kohe intensiivselt kroomkollaseks.",
+      "flesh": "Viljaliha on valge ja kübaras üsna õhuke. See kollaseb kohe kübaranaha all ning lõikamisel või hõõrumisel, kõige tugevamini jala aluses, kus see jääb erkkollaseks ka vanades viljakehades; kollane muutub hiljem pruunikaks. Lõhn on ebameeldiv, fenooli, tindi, joodi või karbooli moodi, värskel seenel mõnikord vaid nõrk, kuid kõige tugevam jala aluse purustamisel ja keetmisel palju tugevam, mitte kunagi aniisilõhnaline. Kübara pind muutub KOH-ga kollaseks.",
+      "sporePrint": "Eospulber on tume šokolaadipruun kuni väga tume purpurpruun. Eosed on ellipsoidsed kuni munajad, siledad ja paksuseinalised väikese apikulusega, KOH-s pruunid, enamasti umbes 4,5–6,5 × 3–5,5 µm, harva on märgitud kuni 7 µm pikkust.",
+      "habitat": "See on saprotroof ja kasvab üksikult, hajusalt või sagedamini rühmade, salkade või kaartena lämmastikurikkal, rikutud mullal murudel, parkides, aedades, teeservadel ja hekkides, metsaservades ja hõredas metsas. Viljakehi moodustab see Euroopas juunist novembrini, Põhja-Ameerikas suvel ja sügisel ning pehmes kliimas, näiteks Californias, ka kogu talve.",
+      "uses": "See on mürgine ja seda ei tohi süüa. See põhjustab seedetrakti mürgistust, tavaliselt varsti pärast sööki, millega kaasnevad iiveldus, kõhukrambid, oksendamine, kõhulahtisus, higistamine ja punetus ning rasketel juhtudel peapööritus ja nägemishäired; raskus sõltub söödud kogusest. Väike osa inimestest näib seda söövat ilma märgatavate vaevusteta, kuid see ei tee seda ohutuks.",
+      "confusion": "Agaricus arvensis kollaseb vaid aeglaselt ja nõrgalt, ühtlaselt kogu viljakehal, mitte kõige tugevamini jala aluses, ning lõhnab aniisi järele; see on söödav. Agaricus campestris ei kollase, sellel puudub fenoolilõhn, rõngas on õhuke ja kaduv ning jala alus aheneb, mitte ei ole mugulja; see on söödav. Agaricus bitorquis'el on punetav, mitte kollasev viljaliha. Agaricus moelleri ja Agaricus praeclaresquamosus kuuluvad samasse kollasevasse, fenooli järele lõhnavasse rühma, kuid nende kübaral on hallikaspruunid kuni tumehallid soomused, ja sama rühma Agaricus pilatianus'el puudub mugulja jala alus. Agaricus xanthodermulus on väiksem, nõrgemalt kollasev mürgine teisik radiaalselt lõhenenud hallikaspruuni kübaraga. Surmavalt mürgisel Amanita verna'l võib olla nurgeline noor kübar, kuid selle eoslehed jäävad valgeks ja jala alusel on tupp.",
+      "notes": "Erkkollane värvumine ja fenoolilõhn tulenevad fenoolsetest ja diasoühenditest, sealhulgas fenoolist, ksantodermiinist ja agarikoonist, mis koe vigastamisel või keetmisel oksüdeeruvad kollasteks vormideks. See on üks sagedasemaid seenemürgistuste põhjustajaid kõikjal, kus ta on tavaline: 2022. aastal oli see Prantsusmaal seenemürgistuste juhtude arvult esikohal ning Austraalias Victorias, kuhu see on sisse toodud ja kus see on linnades sageli tavalisem kui söödavad seened, põhjustab see enamiku looduslike seente mürgistustest."
+    },
+    "lv": {
+      "description": "Vidēji liela līdz liela, balta sēne ar gredzenu, kas aug zālienos, parkos, dārzos, dzīvžogos un retos mežos, bieži grupās vai raganu lokos. Tā ir bieža un plaši izplatīta Eiropā, Ziemeļamerikā, Rietumāzijā, ieskaitot Anatoliju un Irānu, kā arī Āfrikas ziemeļos un dienvidos, un tā ir ievesta Austrālijā.",
+      "cap": "Cepurīte ir 5–15 cm plata, dažkārt līdz 20 cm. Jaunas cepurītes ir lodveida ar saplacinātu virsotni, kas tām piešķir raksturīgi stūrainu vai trapecveida profilu; vēlāk tās kļūst izliektas un visbeidzot gandrīz plakanas, un mala ir ieritināta tikai jaunām sēnēm. Virsma ir sausa, matēta un gluda līdz smalki šķiedraina, sākumā tīri balta, vēlāk centrā pelēcīga vai gaiši brūna; vecas cepurītes var kļūt smalki zvīņainas vai saplaisāt, īpaši siltā, sausā laikā. Skrāpējot vai berzējot virsmu, īpaši pie malas, tā dažās sekundēs kļūst spilgti hromdzeltena; vēlāk krāsojums kļūst brūns.",
+      "hymenium": "Lapiņas ir brīvas, biezas un nevienāda garuma. Sākumā tās ir bālganas līdz gaiši pelēkas, drīz rožainas un, sporām nobriestot, beigās šokolādes brūnas līdz tumši purpurbrūnas; jaunām sēnēm tās sedz plēvains balts daļējais plīvurs. Bazīdijas ir četrsporu. Lapiņu mala bieži ir robota un neskaidri norobežota; heilocistīdas, ja tās atrod, ir vālesveida, apmēram 20–30 × 4–8 µm, bet pleirocistīdas nav atrastas.",
+      "stipe": "Kātiņš ir 5–15 cm garš un 1–3 cm resns, cilindrisks un bieži izliekts, gluds un zīdains, balts, ar skaidri resnu, bumbuļveida pamatni. Uz tā ir liels, noturīgs, nokarens balts gredzens ar biezu, dubultu ārējo malu, kura apakšpusē ir pārslaina. Arī kātiņa virsma pieskaroties dzeltē, un, ja kātiņa pamatni pārgriež garenvirzienā, mīkstums uzreiz kļūst intensīvi hromdzeltens.",
+      "flesh": "Mīkstums ir balts un cepurītē diezgan plāns. Tas uzreiz dzeltē zem cepurītes ādiņas un griežot vai berzējot, visstiprāk kātiņa pamatnē, kur tas paliek spilgti dzeltens pat vecām augļķermeņiem; dzeltenais vēlāk kļūst brūngans. Smarža ir nepatīkama, pēc fenola, tintes, joda vai karbola dezinfekcijas līdzekļa, svaigām sēnēm dažkārt tikai vāja, bet visstiprākā, saspiežot kātiņa pamatni, un daudz stiprāka gatavojot, nekad pēc anīsa. Cepurītes virsma ar KOH kļūst dzeltena.",
+      "sporePrint": "Sporu nospiedums ir tumši šokolādes brūns līdz ļoti tumši purpurbrūns. Sporas ir elipsoīdas līdz olveida, gludas un biezsienu ar nelielu apikulu, KOH brūnas, pārsvarā apmēram 4,5–6,5 × 3–5,5 µm, dažkārt minētas līdz 7 µm garas.",
+      "habitat": "Tā ir saprotrofa un aug pa vienai, izklaidus vai biežāk grupās, pulkos vai lokos uz slāpekli bagātas, traucētas augsnes zālienos, parkos, dārzos, ceļmalās un dzīvžogos, mežmalās un retos mežos. Augļķermeņus tā veido Eiropā no jūnija līdz novembrim, Ziemeļamerikā vasarā un rudenī, bet maigā klimatā, piemēram, Kalifornijā, arī visu ziemu.",
+      "uses": "Tā ir indīga, un to nedrīkst ēst. Tā izraisa kuņģa un zarnu trakta saindēšanos, parasti drīz pēc ēdienreizes, ar sliktu dūšu, kuņģa krampjiem, vemšanu, caureju, svīšanu un pietvīkumu, smagos gadījumos arī ar reiboni un redzes traucējumiem; smagums atkarīgs no apēstā daudzuma. Neliela daļa cilvēku, šķiet, to ēd bez manāmām sekām, taču tas to nepadara drošu.",
+      "confusion": "Agaricus arvensis dzeltē tikai lēni un vāji, vienmērīgi visā augļķermenī, nevis visstiprāk kātiņa pamatnē, un smaržo pēc anīsa; tā ir ēdama. Agaricus campestris nedzeltē, tai nav fenola smaržas, tai ir plāns, gaistošs gredzens un sašaurināta, nevis bumbuļveida kātiņa pamatne; tā ir ēdama. Agaricus bitorquis mīkstums sarkst, nevis dzeltē. Agaricus moelleri un Agaricus praeclaresquamosus pieder tai pašai dzeltējošajai, pēc fenola smaržojošajai grupai, taču to cepurītei ir pelēkbrūnas līdz tumši pelēkas zvīņas, un tās pašas grupas Agaricus pilatianus nav bumbuļveida kātiņa pamatnes. Agaricus xanthodermulus ir mazāka, vājāk dzeltējoša indīga līdzīga sēne ar radiāli saplaisājušu pelēkbrūnu cepurīti. Nāvējoši indīgajai Amanita verna var būt stūraina jauna cepurīte, taču tās lapiņas paliek baltas un kātiņa pamatnē ir maksts.",
+      "notes": "Spilgtā dzeltēšana un fenola smarža rodas no fenola un diazo savienojumiem, tostarp fenola, ksantodermīna un agarikona, kas, audus bojājot vai karsējot, oksidējas dzeltenās formās. Visur, kur tā ir bieža, tā ir viens no biežākajiem saindēšanās ar sēnēm cēloņiem: 2022. gadā Francijā tā bija pirmajā vietā saindēšanās gadījumu skaita ziņā, bet Viktorijā Austrālijā, kur tā ir ievesta un pilsētās bieži sastopama biežāk nekā ēdamās sēnes, tā izraisa lielāko daļu saindēšanos ar savvaļas sēnēm."
+    },
+    "lt": {
+      "description": "Vidutinio dydžio ar didelis baltas grybas su žiedu, augantis vejose, parkuose, soduose, gyvatvorėse ir šviesiuose miškuose, dažnai būriais ar raganų ratais. Jis dažnas ir plačiai paplitęs Europoje, Šiaurės Amerikoje, Vakarų Azijoje, įskaitant Anatoliją ir Iraną, taip pat Šiaurės ir Pietų Afrikoje, o į Australiją jis įvežtas.",
+      "cap": "Kepurėlė 5–15 cm skersmens, kartais iki 20 cm. Jaunos kepurėlės rutuliškos su suplota viršūne, todėl jų profilis būdingai kampuotas ar trapecijos formos; vėliau jos tampa išgaubtos ir galiausiai beveik plokščios, o kraštas įsuktas tik jaunų grybų. Paviršius sausas, matinis, lygus ar smulkiai pluoštuotas, iš pradžių grynai baltas, vėliau centre pilkšvas ar šviesiai rudas; senos kepurėlės gali tapti smulkiai žvynuotos ar suskilinėti, ypač šiltu ir sausu oru. Pabraukus ar patrynus paviršių, ypač ties kraštu, jis per kelias sekundes tampa ryškiai chromo geltonas; vėliau dėmė paruduoja.",
+      "hymenium": "Lakšteliai laisvi, tankūs, nevienodo ilgio. Iš pradžių jie balsvi ar blyškiai pilki, netrukus rausvi, o sporoms bręstant galiausiai šokolado rudi ar tamsiai purpuriškai rudi; jaunų grybų juos dengia plėviška balta dalinė uždanga. Bazidės ketursporės. Lakštelių briauna dažnai išgraužta ir neryški; cheilocistidės, kai randamos, buožiškos, apie 20–30 × 4–8 µm, o pleurocistidžių nerasta.",
+      "stipe": "Kotas 5–15 cm ilgio ir 1–3 cm storio, cilindriškas ir dažnai išlinkęs, lygus ir šilkinis, baltas, su aiškiai išsipūtusiu, gumbuotu pagrindu. Ant jo yra didelis, išliekantis, nukaręs baltas žiedas su storu dvigubu išoriniu kraštu, kurio apatinė pusė dribsniuota. Koto paviršius taip pat gelsta prisilietus, o perpjovus koto pagrindą išilgai, minkštimas tuoj pat tampa ryškiai chromo geltonas.",
+      "flesh": "Minkštimas baltas, kepurėlėje gana plonas. Jis tuoj pat pagelsta po kepurėlės odele ir perpjautas ar patrintas, stipriausiai koto pagrinde, kur net senų vaisiakūnių lieka ryškiai geltonas; geltona spalva vėliau tampa rusva. Kvapas nemalonus, fenolio, rašalo, jodo ar karbolio dezinfekcinio skysčio, šviežių grybų kartais tik silpnas, bet stipriausias sutraiškius koto pagrindą ir daug stipresnis verdant, niekada ne anyžių. Kepurėlės paviršius nuo KOH pagelsta.",
+      "sporePrint": "Sporų atspaudas tamsiai šokolado rudas ar labai tamsiai purpuriškai rudas. Sporos elipsoidinės ar kiaušiniškos, lygios, storasienės, su mažu apikulu, KOH rudos, dažniausiai apie 4,5–6,5 × 3–5,5 µm, kartais nurodoma iki 7 µm ilgio.",
+      "habitat": "Jis saprotrofas ir auga pavieniui, išsibarstęs ar dažniau grupėmis, būriais ar lankais ant azoto turtingo, sutrikdyto dirvožemio vejose, parkuose, soduose, pakelėse ir gyvatvorėse, miško pakraščiuose ir šviesiuose miškuose. Vaisiakūnius jis sudaro Europoje nuo birželio iki lapkričio, Šiaurės Amerikoje vasarą ir rudenį, o švelnaus klimato vietose, pavyzdžiui, Kalifornijoje, ir visą žiemą.",
+      "uses": "Jis nuodingas ir negali būti valgomas. Jis sukelia virškinamojo trakto apsinuodijimą, paprastai netrukus po valgio, su pykinimu, skrandžio spazmais, vėmimu, viduriavimu, prakaitavimu ir paraudimu, o sunkiais atvejais svaiguliu ir regėjimo sutrikimais; sunkumas priklauso nuo suvalgyto kiekio. Nedidelė dalis žmonių, atrodo, jį valgo be pastebimų pasekmių, tačiau tai nedaro jo saugaus.",
+      "confusion": "Agaricus arvensis gelsta tik lėtai ir silpnai, tolygiai visame vaisiakūnyje, o ne stipriausiai koto pagrinde, ir kvepia anyžiais; jis valgomas. Agaricus campestris negelsta, neturi fenolio kvapo, jo žiedas plonas ir greitai nykstantis, o koto pagrindas siaurėjantis, ne gumbuotas; jis valgomas. Agaricus bitorquis minkštimas rausta, o ne gelsta. Agaricus moelleri ir Agaricus praeclaresquamosus priklauso tai pačiai gelstančiai, fenoliu kvepiančiai grupei, bet jų kepurėlė turi pilkai rudų ar tamsiai pilkų žvynelių, o tos pačios grupės Agaricus pilatianus neturi gumbuoto koto pagrindo. Agaricus xanthodermulus yra mažesnis, silpniau gelstantis nuodingas antrininkas su radialiai suskilinėjusia pilkai ruda kepurėle. Mirtinai nuodinga Amanita verna gali turėti kampuotą jauną kepurėlę, bet jos lakšteliai lieka balti, o koto pagrinde yra makštis.",
+      "notes": "Ryškų gelsvėjimą ir fenolio kvapą lemia fenoliniai ir diazo junginiai, tarp jų fenolis, ksantoderminas ir agarikonas, kurie, pažeidus ar verdant audinius, oksiduojasi į geltonas formas. Visur, kur jis dažnas, jis yra viena dažniausių apsinuodijimo grybais priežasčių: 2022 m. Prancūzijoje jis pirmavo pagal apsinuodijimo grybais atvejų skaičių, o Viktorijoje, Australijoje, kur jis įvežtas ir miestuose dažnai paplitęs labiau nei valgomieji grybai, jis sukelia daugumą apsinuodijimų laukiniais grybais."
+    },
+    "pl": {
+      "description": "Średni do dużego, biały grzyb z pierścieniem, rosnący na trawnikach, w parkach, ogrodach, żywopłotach i widnych lasach, często gromadnie lub w czarcich kręgach. Jest pospolity i szeroko rozprzestrzeniony w Europie, Ameryce Północnej, Azji Zachodniej, w tym w Anatolii i Iranie, a także w północnej i południowej Afryce; został zawleczony do Australii.",
+      "cap": "Kapelusz ma 5–15 cm średnicy, czasem do 20 cm. Młode kapelusze są kuliste ze spłaszczonym szczytem, co nadaje im charakterystycznie kanciasty lub trapezowaty profil, później stają się wypukłe, a w końcu prawie płaskie; brzeg jest podwinięty tylko u młodych owocników. Powierzchnia jest sucha, matowa, gładka do drobno włókienkowatej, początkowo czysto biała, później ku środkowi szarawa lub jasnobrązowa; stare kapelusze mogą stać się drobno łuseczkowate lub pękać, zwłaszcza przy ciepłej, suchej pogodzie. Zadrapanie lub potarcie powierzchni, szczególnie przy brzegu, w ciągu kilku sekund barwi ją na jaskrawy chromowożółty kolor; przebarwienie później brązowieje.",
+      "hymenium": "Blaszki są wolne, gęste i nierównej długości. Początkowo są białawe do bladoszarych, wkrótce różowe, a w miarę dojrzewania zarodników czekoladowobrązowe do ciemnopurpurowobrązowych; u młodych owocników okrywa je błoniasta biała osłona częściowa. Podstawki są czterozarodnikowe. Ostrze blaszek jest często postrzępione i słabo odgraniczone; cheilocystydy, jeśli występują, są maczugowate, około 20–30 × 4–8 µm, a pleurocystyd nie stwierdzono.",
+      "stipe": "Trzon ma 5–15 cm długości i 1–3 cm grubości, jest walcowaty i często wygięty, gładki i jedwabisty, biały, z wyraźnie zgrubiałą, bulwiastą podstawą. Nosi duży, trwały, zwisający biały pierścień z grubym, podwójnym zewnętrznym brzegiem, od spodu kłaczkowaty. Powierzchnia trzonu również żółknie po dotknięciu, a po przecięciu podstawy trzonu wzdłuż miąższ natychmiast barwi się na intensywnie chromowożółto.",
+      "flesh": "Miąższ jest biały, w kapeluszu raczej cienki. Żółknie natychmiast pod skórką kapelusza oraz po przekrojeniu lub potarciu, najsilniej w podstawie trzonu, gdzie pozostaje jaskrawożółty nawet u starych owocników; żółć później brązowieje. Zapach jest nieprzyjemny, fenolu, atramentu, jodyny lub środka dezynfekcyjnego z karbolem, u świeżych owocników czasem tylko słaby, najsilniejszy po zgnieceniu podstawy trzonu i znacznie silniejszy podczas gotowania, nigdy anyżowy. Powierzchnia kapelusza żółknie od KOH.",
+      "sporePrint": "Wysyp zarodników jest ciemnoczekoladowobrązowy do bardzo ciemnopurpurowobrązowego. Zarodniki są elipsoidalne do jajowatych, gładkie, grubościenne, z małym apikulusem, brązowe w KOH, przeważnie około 4,5–6,5 × 3–5,5 µm, sporadycznie podaje się długość do 7 µm.",
+      "habitat": "Jest saprotrofem i rośnie pojedynczo, w rozproszeniu lub częściej w grupach, gromadach lub łukach na bogatej w azot, przekształconej glebie na trawnikach, w parkach, ogrodach, na poboczach i przy żywopłotach, na skrajach lasów i w widnych lasach. Owocniki wytwarza w Europie od czerwca do listopada, w Ameryce Północnej latem i jesienią, a w łagodnym klimacie, na przykład w Kalifornii, także przez całą zimę.",
+      "uses": "Jest trujący i nie wolno go jeść. Wywołuje zatrucie żołądkowo-jelitowe, zwykle wkrótce po posiłku, z nudnościami, skurczami żołądka, wymiotami, biegunką, potami i zaczerwienieniem skóry, a w ciężkich przypadkach z zawrotami głowy i zaburzeniami widzenia; nasilenie zależy od zjedzonej ilości. Niewielka część ludzi zdaje się jeść go bez zauważalnych dolegliwości, co jednak nie czyni go bezpiecznym.",
+      "confusion": "Agaricus arvensis żółknie tylko powoli i słabo, równomiernie na całym owocniku, a nie najsilniej w podstawie trzonu, i pachnie anyżem; jest jadalny. Agaricus campestris nie żółknie, nie ma zapachu fenolu, ma cienki, nietrwały pierścień i zwężoną, a nie bulwiastą podstawę trzonu; jest jadalny. Agaricus bitorquis ma miąższ czerwieniejący, a nie żółknący. Agaricus moelleri i Agaricus praeclaresquamosus należą do tej samej żółknącej, pachnącej fenolem grupy, ale mają szarobrązowe do ciemnoszarych łuski na kapeluszu, a Agaricus pilatianus z tej samej grupy nie ma bulwiastej podstawy trzonu. Agaricus xanthodermulus to mniejszy, słabiej żółknący, trujący sobowtór o promieniście popękanym szarobrązowym kapeluszu. Śmiertelnie trujący Amanita verna może mieć kanciasty młody kapelusz, ale zachowuje białe blaszki i ma pochwę u podstawy trzonu.",
+      "notes": "Jaskrawe żółknięcie i fenolowy zapach pochodzą od związków fenolowych i diazowych, w tym fenolu, ksantoderminy i agarikonu, które utleniają się do żółtych form, gdy tkanka zostanie uszkodzona lub ugotowana. Wszędzie tam, gdzie jest pospolity, należy do najczęstszych przyczyn zatruć grzybami: w 2022 roku we Francji zajmował pierwsze miejsce pod względem liczby przypadków zatruć grzybami, a w stanie Wiktoria w Australii, gdzie został zawleczony i w miastach często występuje liczniej niż grzyby jadalne, powoduje większość zatruć dzikimi grzybami."
+    },
+    "cs": {
+      "description": "Středně velká až velká, bílá houba s prstenem, rostoucí na trávnících, v parcích, zahradách, živých plotech a světlých lesích, často v houfech nebo čarodějných kruzích. Je hojná a široce rozšířená v Evropě, Severní Americe, západní Asii včetně Anatolie a Íránu a v severní a jižní Africe; do Austrálie byla zavlečena.",
+      "cap": "Klobouk měří 5–15 cm, výjimečně až 20 cm. Mladé klobouky jsou kulovité se zploštělým temenem, což jim dává charakteristicky hranatý nebo lichoběžníkový profil, později jsou klenuté a nakonec téměř ploché; okraj je podvinutý jen v mládí. Povrch je suchý, matný, hladký až jemně vláknitý, zprvu čistě bílý, později ke středu šedavý nebo světle hnědý; staré klobouky mohou být jemně šupinaté nebo rozpraskané, zvláště za teplého a suchého počasí. Po škrábnutí nebo otření, zejména na okraji, povrch se během několika sekund zbarví jasně chromově žlutě; skvrna později zhnědne.",
+      "hymenium": "Lupeny jsou volné, husté a nestejně dlouhé. Zprvu jsou bělavé až světle šedé, brzy růžové a nakonec se zráním výtrusů čokoládově hnědé až tmavě purpurově hnědé; v mládí je kryje blanitá bílá částečná plachetka. Basidie jsou čtyřvýtrusé. Ostří lupenů je často rozeklané a nezřetelně ohraničené; cheilocystidy, pokud se najdou, jsou kyjovité, asi 20–30 × 4–8 µm, a pleurocystidy nebyly nalezeny.",
+      "stipe": "Třeň je 5–15 cm dlouhý a 1–3 cm tlustý, válcovitý a často zakřivený, hladký a hedvábný, bílý, s výrazně ztlustlou, hlízovitou bází. Nese velký, trvalý, převislý bílý prsten s tlustým dvojitým vnějším okrajem, na spodní straně vločkatý. Také povrch třeně se po doteku barví žlutě, a když se báze třeně podélně rozřízne, dužnina se okamžitě zbarví intenzivně chromově žlutě.",
+      "flesh": "Dužnina je bílá a v klobouku dosti tenká. Žloutne okamžitě pod pokožkou klobouku a po rozříznutí nebo otření, nejsilněji v bázi třeně, kde zůstává jasně žlutá i u starých plodnic; žluť později hnědne. Pach je nepříjemný, po fenolu, inkoustu, jódu nebo karbolovém dezinfekčním prostředku, u čerstvých plodnic někdy jen slabý, ale nejsilnější po rozmačkání báze třeně a mnohem silnější při vaření, nikdy ne po anýzu. Povrch klobouku žloutne s KOH.",
+      "sporePrint": "Výtrusný prach je tmavě čokoládově hnědý až velmi tmavě purpurově hnědý. Výtrusy jsou elipsoidní až vejčité, hladké a tlustostěnné s malým apikulem, v KOH hnědé, většinou asi 4,5–6,5 × 3–5,5 µm, ojediněle se uvádí délka až 7 µm.",
+      "habitat": "Je saprotrofní a roste jednotlivě, roztroušeně nebo častěji ve skupinách, houfech nebo obloucích na dusíkem bohaté, narušené půdě na trávnících, v parcích, zahradách, na okrajích cest a u živých plotů, na okrajích lesů a ve světlých lesích. Plodnice tvoří v Evropě od června do listopadu, v Severní Americe v létě a na podzim a v mírném podnebí, jako je Kalifornie, i přes celou zimu.",
+      "uses": "Je jedovatá a nesmí se jíst. Způsobuje otravu trávicího ústrojí, obvykle brzy po jídle, s nevolností, žaludečními křečemi, zvracením, průjmem, pocením a zčervenáním, v těžkých případech i se závratěmi a poruchami vidění; závažnost závisí na snědeném množství. Menšina lidí ji podle všeho jí bez znatelných obtíží, což ji však nečiní bezpečnou.",
+      "confusion": "Agaricus arvensis žloutne jen pomalu a slabě, rovnoměrně po celé plodnici, a ne nejsilněji v bázi třeně, a voní po anýzu; je jedlá. Agaricus campestris nežloutne, nemá fenolový pach, má tenký, pomíjivý prsten a zúženou, nikoli hlízovitou bázi třeně; je jedlá. Agaricus bitorquis má červenající, nikoli žloutnoucí dužninu. Agaricus moelleri a Agaricus praeclaresquamosus patří do téže žloutnoucí, fenolem páchnoucí skupiny, ale mají na klobouku šedohnědé až tmavě šedé šupiny, a Agaricus pilatianus z téže skupiny nemá hlízovitou bázi třeně. Agaricus xanthodermulus je menší, méně žloutnoucí jedovatý dvojník s paprsčitě rozpraskaným šedohnědým kloboukem. Smrtelně jedovatá Amanita verna může mít hranatý mladý klobouk, ale lupeny jí zůstávají bílé a na bázi třeně má pochvu.",
+      "notes": "Jasné žloutnutí a fenolový pach způsobují fenolické a diazosloučeniny, mezi nimi fenol, xanthodermin a agarikon, které se při poškození nebo vaření pletiva oxidují na žluté formy. Všude, kde je hojná, patří k nejčastějším příčinám otrav houbami: v roce 2022 byla ve Francii podle počtu případů na prvním místě mezi otravami houbami a ve státě Victoria v Austrálii, kam byla zavlečena a kde je ve městech často hojnější než jedlé houby, způsobuje většinu otrav volně rostoucími houbami."
+    },
+    "sk": {
+      "description": "Stredne veľká až veľká, biela huba s prsteňom, ktorá rastie na trávnikoch, v parkoch, záhradách, živých plotoch a svetlých lesoch, často v skupinách alebo čarodejných kruhoch. Je hojná a široko rozšírená v Európe, Severnej Amerike, západnej Ázii vrátane Anatólie a Iránu a v severnej a južnej Afrike; do Austrálie bola zavlečená.",
+      "cap": "Klobúk má 5–15 cm, výnimočne až 20 cm. Mladé klobúky sú guľovité so splošteným temenom, čo im dáva charakteristicky hranatý alebo lichobežníkový profil, neskôr sú klenuté a nakoniec takmer ploché; okraj je podvinutý len v mladosti. Povrch je suchý, matný, hladký až jemne vláknitý, spočiatku čisto biely, neskôr k stredu sivastý alebo svetlohnedý; staré klobúky môžu byť jemne šupinaté alebo rozpukané, najmä za teplého a suchého počasia. Po poškriabaní alebo pošúchaní, najmä na okraji, sa povrch v priebehu niekoľkých sekúnd sfarbí jasne chrómovo žlto; škvrna neskôr zhnedne.",
+      "hymenium": "Lupene sú voľné, husté a nerovnako dlhé. Spočiatku sú belavé až svetlosivé, čoskoro ružové a nakoniec s dozrievaním výtrusov čokoládovohnedé až tmavo purpurovohnedé; v mladosti ich kryje blanitý biely čiastočný závoj. Bazídiá sú štvorvýtrusné. Ostrie lupeňov je často rozstrapkané a nezreteľne ohraničené; cheilocystidy, ak sa nájdu, sú kyjakovité, asi 20–30 × 4–8 µm, a pleurocystidy sa nenašli.",
+      "stipe": "Hlúbik má dĺžku 5–15 cm a hrúbku 1–3 cm, je valcovitý a často zakrivený, hladký a hodvábny, biely, s výrazne zhrubnutou, hľuzovitou bázou. Nesie veľký, trvácny, previsnutý biely prsteň s hrubým dvojitým vonkajším okrajom, na spodnej strane vločkatý. Aj povrch hlúbika sa po dotyku farbí do žlta, a keď sa báza hlúbika pozdĺžne prereže, dužina sa okamžite sfarbí intenzívne chrómovo žlto.",
+      "flesh": "Dužina je biela a v klobúku dosť tenká. Žltne okamžite pod pokožkou klobúka a po prerezaní alebo pošúchaní, najsilnejšie v báze hlúbika, kde zostáva jasne žltá aj pri starých plodniciach; žltá farba neskôr hnedne. Pach je nepríjemný, po fenole, atramente, jóde alebo karbolovom dezinfekčnom prostriedku, pri čerstvých plodniciach niekedy len slabý, ale najsilnejší po rozmliaždení bázy hlúbika a oveľa silnejší pri varení, nikdy nie po aníze. Povrch klobúka žltne s KOH.",
+      "sporePrint": "Výtrusný prach je tmavo čokoládovohnedý až veľmi tmavo purpurovohnedý. Výtrusy sú elipsoidné až vajcovité, hladké a hrubostenné s malým apikulom, v KOH hnedé, väčšinou asi 4,5–6,5 × 3–5,5 µm, ojedinele sa uvádza dĺžka až 7 µm.",
+      "habitat": "Je saprotrofná a rastie jednotlivo, roztrúsene alebo častejšie v skupinách, húfoch alebo oblúkoch na dusíkom bohatej, narušenej pôde na trávnikoch, v parkoch, záhradách, pri cestách a živých plotoch, na okrajoch lesov a vo svetlých lesoch. Plodnice tvorí v Európe od júna do novembra, v Severnej Amerike v lete a na jeseň a v miernom podnebí, ako je Kalifornia, aj počas celej zimy.",
+      "uses": "Je jedovatá a nesmie sa jesť. Spôsobuje otravu tráviaceho traktu, zvyčajne krátko po jedle, s nevoľnosťou, žalúdočnými kŕčmi, vracaním, hnačkou, potením a sčervenaním, v ťažkých prípadoch aj so závratmi a poruchami videnia; závažnosť závisí od zjedeného množstva. Menšina ľudí ju podľa všetkého je bez badateľných ťažkostí, čo ju však nerobí bezpečnou.",
+      "confusion": "Agaricus arvensis žltne len pomaly a slabo, rovnomerne po celej plodnici, a nie najsilnejšie v báze hlúbika, a vonia po aníze; je jedlá. Agaricus campestris nežltne, nemá fenolový pach, má tenký, pominuteľný prsteň a zúženú, nie hľuzovitú bázu hlúbika; je jedlá. Agaricus bitorquis má červenajúcu, nie žltnúcu dužinu. Agaricus moelleri a Agaricus praeclaresquamosus patria do tej istej žltnúcej, po fenole zapáchajúcej skupiny, ale majú na klobúku sivohnedé až tmavosivé šupiny, a Agaricus pilatianus z tej istej skupiny nemá hľuzovitú bázu hlúbika. Agaricus xanthodermulus je menší, menej žltnúci jedovatý dvojník s radiálne rozpukaným sivohnedým klobúkom. Smrteľne jedovatá Amanita verna môže mať hranatý mladý klobúk, ale lupene jej zostávajú biele a na báze hlúbika má pošvu.",
+      "notes": "Jasné žltnutie a fenolový pach spôsobujú fenolové a diazozlúčeniny vrátane fenolu, xantodermínu a agarikónu, ktoré sa pri poškodení alebo varení pletiva oxidujú na žlté formy. Všade, kde je hojná, patrí k najčastejším príčinám otráv hubami: v roku 2022 bola vo Francúzsku podľa počtu prípadov na prvom mieste medzi otravami hubami a v štáte Victoria v Austrálii, kam bola zavlečená a kde je v mestách často hojnejšia než jedlé huby, spôsobuje väčšinu otráv voľne rastúcimi hubami."
+    },
+    "hu": {
+      "description": "Közepes vagy nagy termetű, fehér, galléros gomba, amely gyepeken, parkokban, kertekben, sövények mentén és ritkás erdőkben nő, gyakran csapatosan vagy boszorkánykörökben. Gyakori és széles körben elterjedt Európában, Észak-Amerikában, Nyugat-Ázsiában, beleértve Anatóliát és Iránt, valamint Afrika északi és déli részén, Ausztráliába pedig behurcolták.",
+      "cap": "A kalap 5–15 cm széles, néha 20 cm-es is. A fiatal kalapok gömbölyűek, lapított tetővel, ami jellegzetesen szögletes vagy trapéz alakú profilt ad nekik; később domborúvá, végül csaknem laposra terülnek, széle csak fiatalon begöngyölt. A felszín száraz, matt, sima vagy finoman szálas, eleinte tiszta fehér, később a közepe felé szürkés vagy világosbarna; az idős kalapok finoman pikkelyessé válhatnak vagy felrepedezhetnek, különösen meleg, száraz időben. A felszín megkarcolva vagy megdörzsölve, főleg a szélén, másodpercek alatt élénk krómsárgára színeződik; a folt később megbarnul.",
+      "hymenium": "A lemezek szabadok, sűrűk és különböző hosszúságúak. Eleinte fehéresek vagy halványszürkék, hamar rózsaszínűek, végül a spórák érésével csokoládébarnák vagy sötét bíborbarnák; a fiatal termőtestekben hártyás fehér részleges burok fedi őket. A bazídiumok négyspórásak. Az élük gyakran csipkézett és elmosódott; a cheilocisztídiumok, ha találhatók, bunkó alakúak, kb. 20–30 × 4–8 µm-esek, pleurocisztídiumot nem találtak.",
+      "stipe": "A tönk 5–15 cm hosszú és 1–3 cm vastag, hengeres és gyakran görbült, sima és selymes, fehér, jól láthatóan megvastagodott, gumós tövű. Nagy, tartós, lecsüngő fehér gallért visel, amelynek vastag, kettős külső pereme alul pelyhes. A tönk felszíne is megsárgul érintésre, és ha a tönk tövét hosszában kettévágják, a hús azonnal élénk krómsárgára színeződik.",
+      "flesh": "A hús fehér, a kalapban meglehetősen vékony. Azonnal megsárgul a kalapbőr alatt, valamint vágásra vagy dörzsölésre, legerősebben a tönk tövében, ahol még idős termőtestekben is élénksárga marad; a sárga később barnásra vált. Szaga kellemetlen, fenolra, tintára, jódra vagy karbolos fertőtlenítőszerre emlékeztet, friss állapotban néha csak gyenge, de a tönk tövének szétnyomásakor a legerősebb, főzéskor pedig sokkal erősebb, sosem ánizsos. A kalapbőr KOH-val sárgul.",
+      "sporePrint": "A spórapor sötét csokoládébarna vagy nagyon sötét bíborbarna. A spórák ellipszoidok vagy tojásdadok, simák és vastag falúak, kis apikulusszal, KOH-ban barnák, többnyire kb. 4,5–6,5 × 3–5,5 µm-esek, olykor 7 µm hosszúságot is említenek.",
+      "habitat": "Szaprotróf, egyesével, szórványosan vagy gyakrabban csoportosan, csapatosan vagy ívekben nő nitrogénben gazdag, bolygatott talajon gyepeken, parkokban, kertekben, útszéleken és sövények mentén, erdőszéleken és ritkás erdőkben. Termőtesteket Európában júniustól novemberig hoz, Észak-Amerikában nyáron és ősszel, enyhe éghajlaton, például Kaliforniában, egész télen át is.",
+      "uses": "Mérgező, nem szabad megenni. Gyomor-bél rendszeri mérgezést okoz, általában röviddel az étkezés után, hányingerrel, gyomorgörcsökkel, hányással, hasmenéssel, verejtékezéssel és kipirulással, súlyos esetekben szédüléssel és látászavarokkal; a súlyosság az elfogyasztott mennyiségtől függ. Úgy tűnik, az emberek egy kisebb része észrevehető panasz nélkül fogyasztja, ez azonban nem teszi biztonságossá.",
+      "confusion": "Az Agaricus arvensis csak lassan és gyengén sárgul, egyenletesen az egész termőtesten, nem pedig a tönk tövében a legerősebben, és ánizsszagú; ehető. Az Agaricus campestris nem sárgul, nincs fenolszaga, gallérja vékony, múlékony, tönkje töve elvékonyodó, nem gumós; ehető. Az Agaricus bitorquis húsa pirosodik, nem sárgul. Az Agaricus moelleri és az Agaricus praeclaresquamosus ugyanabba a sárguló, fenolszagú csoportba tartozik, de kalapjukon szürkésbarna vagy sötétszürke pikkelyek vannak, az ugyanebbe a csoportba tartozó Agaricus pilatianus tönkjének pedig nincs gumós töve. Az Agaricus xanthodermulus kisebb, kevésbé sárguló, mérgező hasonmás, sugarasan repedezett szürkésbarna kalappal. A halálosan mérgező Amanita verna fiatal kalapja szintén lehet szögletes, de lemezei fehérek maradnak, és tönkje tövén bocskor van.",
+      "notes": "Az élénk sárgulást és a fenolszagot fenolos és diazovegyületek okozzák, köztük a fenol, a xantodermin és az agarikon, amelyek a szövet sérülésekor vagy főzésekor sárga formákká oxidálódnak. Mindenütt, ahol gyakori, a gombamérgezések egyik leggyakoribb okozója: 2022-ben Franciaországban az esetszám alapján az első helyen állt a gombamérgezések között, az ausztráliai Victoria államban pedig, ahová behurcolták, és ahol a városokban gyakran gyakoribb az ehető gombáknál, a vadon termő gombák okozta mérgezések többségéért felelős."
+    },
+    "sl": {
+      "description": "Srednje velika do velika, bela goba z obročkom, ki raste na tratah, v parkih, vrtovih, živih mejah in svetlih gozdovih, pogosto v skupinah ali čarovniških krogih. Je pogosta in široko razširjena v Evropi, Severni Ameriki, zahodni Aziji vključno z Anatolijo in Iranom ter v severni in južni Afriki, v Avstralijo pa je bila zanesena.",
+      "cap": "Klobuk meri 5–15 cm, včasih do 20 cm. Mladi klobuki so kroglasti s sploščenim temenom, kar jim daje značilno oglat ali trapezast profil, nato postanejo izbočeni in nazadnje skoraj ploski; rob je podvihan le v mladosti. Površina je suha, motna, gladka do drobno vlaknata, sprva čisto bela, pozneje proti sredini sivkasta ali svetlo rjava; stari klobuki lahko postanejo drobno luskasti ali razpokajo, zlasti v toplem, suhem vremenu. Ob praskanju ali drgnjenju, zlasti na robu, se površina v nekaj sekundah obarva živo kromovo rumeno; madež pozneje porjavi.",
+      "hymenium": "Listi so prosti, gosti in neenako dolgi. Sprva so belkasti do bledo sivi, kmalu rožnati in nazadnje, ko trosi dozorijo, čokoladno rjavi do temno vijoličasto rjavi; pri mladih trosnjakih jih pokriva kožnata bela delna ovojnica. Bazidiji so štiritrosni. Rob listov je pogosto nazobčan in slabo omejen; heilocistide so, kadar jih najdemo, betičaste, približno 20–30 × 4–8 µm, plevrocistid pa niso našli.",
+      "stipe": "Bet je 5–15 cm dolg in 1–3 cm debel, valjast in pogosto ukrivljen, gladek in svilnat, bel, z izrazito odebeljenim, gomoljastim dnom. Nosi velik, obstojen, viseč bel obroček z debelim, dvojnim zunanjim robom, ki je na spodnji strani kosmičast. Tudi površina beta ob dotiku porumeni, in ko dno beta prerežemo po dolgem, meso takoj postane močno kromovo rumeno.",
+      "flesh": "Meso je belo in v klobuku precej tanko. Takoj porumeni pod kožico klobuka ter ob rezanju ali drgnjenju, najmočneje v dnu beta, kjer ostane živo rumeno tudi pri starih trosnjakih; rumena barva pozneje porjavi. Vonj je neprijeten, po fenolu, črnilu, jodu ali karbolnem razkužilu, pri svežih gobah včasih le šibak, najmočnejši pa, ko zmečkamo dno beta, in med kuhanjem veliko močnejši, nikoli po janežu. Kožica klobuka s KOH porumeni.",
+      "sporePrint": "Trosni prah je temno čokoladno rjav do zelo temno vijoličasto rjav. Trosi so elipsoidni do jajčasti, gladki in debelostenski z majhnim apikulom, v KOH rjavi, večinoma približno 4,5–6,5 × 3–5,5 µm, občasno navajajo dolžino do 7 µm.",
+      "habitat": "Je saprotrofna in raste posamič, raztreseno ali pogosteje v skupinah, tropih ali lokih na z dušikom bogatih, motenih tleh na tratah, v parkih, vrtovih, ob cestah in živih mejah, na gozdnih robovih in v svetlih gozdovih. Trosnjake razvija v Evropi od junija do novembra, v Severni Ameriki poleti in jeseni, v milem podnebju, kot je Kalifornija, pa tudi vso zimo.",
+      "uses": "Je strupena in je ne smemo jesti. Povzroča zastrupitev prebavil, navadno kmalu po obroku, s slabostjo, želodčnimi krči, bruhanjem, drisko, potenjem in rdečico, v hudih primerih pa tudi z omotico in motnjami vida; resnost je odvisna od zaužite količine. Manjši del ljudi jo očitno uživa brez opaznih težav, kar pa je ne dela varne.",
+      "confusion": "Agaricus arvensis rumeni le počasi in šibko, enakomerno po vsem trosnjaku, ne pa najmočneje v dnu beta, in diši po janežu; je užitna. Agaricus campestris ne rumeni, nima vonja po fenolu, ima tanek, minljiv obroček in zoženo, ne gomoljasto dno beta; je užitna. Agaricus bitorquis ima meso, ki rdeči in ne rumeni. Agaricus moelleri in Agaricus praeclaresquamosus spadata v isto rumeneče skupino z vonjem po fenolu, a imata na klobuku sivorjave do temno sive luske, Agaricus pilatianus iz iste skupine pa nima gomoljastega dna beta. Agaricus xanthodermulus je manjša, manj rumeneča strupena dvojnica z radialno razpokanim sivorjavim klobukom. Smrtno strupena Amanita verna ima lahko oglat mlad klobuk, a ji listi ostanejo beli in ima na dnu beta nožnico.",
+      "notes": "Živo rumenenje in vonj po fenolu povzročajo fenolne in diazo spojine, med njimi fenol, ksantodermin in agarikon, ki se ob poškodbi ali kuhanju tkiva oksidirajo v rumene oblike. Povsod, kjer je pogosta, je eden najpogostejših vzrokov zastrupitev z gobami: leta 2022 je bila v Franciji po številu primerov na prvem mestu med zastrupitvami z gobami, v zvezni državi Victoria v Avstraliji, kamor so jo zanesli in kjer je v mestih pogosto pogostejša od užitnih gob, pa povzroča večino zastrupitev z divjimi gobami."
+    },
+    "hr": {
+      "description": "Srednje velika do velika, bijela gljiva s vjenčićem koja raste na travnjacima, u parkovima, vrtovima, živicama i svijetlim šumama, često u skupinama ili vilinskim krugovima. Česta je i široko rasprostranjena u Europi, Sjevernoj Americi, zapadnoj Aziji uključujući Anatoliju i Iran te u sjevernoj i južnoj Africi, a u Australiju je unesena.",
+      "cap": "Klobuk je širok 5–15 cm, ponekad do 20 cm. Mladi klobuci su kuglasti sa spljoštenim tjemenom, što im daje karakterističan uglat ili trapezast profil, zatim postaju ispupčeni i naposljetku gotovo ravni; rub je podvijen samo u mladosti. Površina je suha, mat, glatka do fino vlaknasta, isprva čisto bijela, kasnije prema sredini sivkasta ili svijetlosmeđa; stari klobuci mogu postati sitno ljuskavi ili ispucati, osobito po toplom i suhom vremenu. Grebanje ili trljanje površine, osobito na rubu, za nekoliko sekundi oboji je jarko kromžuto; mrlja kasnije posmeđi.",
+      "hymenium": "Listići su slobodni, gusti i nejednake duljine. Isprva su bjelkasti do blijedosivi, ubrzo ružičasti, a naposljetku, kako spore sazrijevaju, čokoladnosmeđi do tamno purpurnosmeđi; u mladosti ih prekriva opnasti bijeli djelomični veo. Bazidiji su četverosporni. Oštrica listića često je izgrizena i slabo omeđena; heilocistide su, kad se nađu, batićaste, oko 20–30 × 4–8 µm, a pleurocistide nisu nađene.",
+      "stipe": "Stručak je dug 5–15 cm i debeo 1–3 cm, valjkast i često savijen, gladak i svilenkast, bijel, s jasno zadebljanim, gomoljastim dnom. Nosi velik, postojan, viseći bijeli vjenčić s debelim, dvostrukim vanjskim rubom koji je s donje strane pahuljičast. I površina stručka žuti na dodir, a kad se dno stručka uzdužno prereže, meso odmah postane jarko kromžuto.",
+      "flesh": "Meso je bijelo i u klobuku prilično tanko. Odmah žuti ispod kožice klobuka te pri rezanju ili trljanju, najjače u dnu stručka, gdje ostaje jarkožuto i kod starih plodišta; žuta boja kasnije posmeđi. Miris je neugodan, na fenol, tintu, jod ili karbolno sredstvo za dezinfekciju, kod svježih primjeraka ponekad tek slab, ali najjači kad se zgnječi dno stručka i mnogo jači pri kuhanju, nikada na anis. Površina klobuka s KOH požuti.",
+      "sporePrint": "Otisak spora je tamno čokoladnosmeđ do vrlo tamno purpurnosmeđ. Spore su elipsoidne do jajaste, glatke i debelih stijenki s malim apikulusom, u KOH smeđe, uglavnom oko 4,5–6,5 × 3–5,5 µm, a povremeno se navodi duljina do 7 µm.",
+      "habitat": "Saprotrofna je i raste pojedinačno, raštrkano ili češće u skupinama, gomilama ili lukovima na tlu bogatom dušikom i poremećenom tlu na travnjacima, u parkovima, vrtovima, uz putove i živice, na rubovima šuma i u svijetlim šumama. Plodišta razvija u Europi od lipnja do studenoga, u Sjevernoj Americi ljeti i u jesen, a u blagoj klimi, poput Kalifornije, i tijekom cijele zime.",
+      "uses": "Otrovna je i ne smije se jesti. Uzrokuje probavno trovanje, obično ubrzo nakon obroka, s mučninom, grčevima u želucu, povraćanjem, proljevom, znojenjem i crvenilom, a u teškim slučajevima i vrtoglavicom te smetnjama vida; težina ovisi o pojedenoj količini. Čini se da je manjina ljudi jede bez primjetnih tegoba, što je ne čini sigurnom.",
+      "confusion": "Agaricus arvensis žuti samo polako i slabo, ravnomjerno po cijelom plodištu, a ne najjače u dnu stručka, i miriše na anis; jestiva je. Agaricus campestris ne žuti, nema miris fenola, ima tanak, prolazan vjenčić i suženo, a ne gomoljasto dno stručka; jestiva je. Agaricus bitorquis ima meso koje crveni, a ne žuti. Agaricus moelleri i Agaricus praeclaresquamosus pripadaju istoj skupini koja žuti i miriše na fenol, ali imaju sivosmeđe do tamnosive ljuske na klobuku, a Agaricus pilatianus iz iste skupine nema gomoljasto dno stručka. Agaricus xanthodermulus je manji, slabije žuteći otrovni dvojnik s radijalno ispucanim sivosmeđim klobukom. Smrtonosno otrovna Amanita verna može imati uglat mladi klobuk, ali listići joj ostaju bijeli, a na dnu stručka ima ovojnicu.",
+      "notes": "Jarko žućenje i miris fenola potječu od fenolnih i diazo spojeva, među njima fenola, ksantodermina i agarikona, koji se pri oštećenju ili kuhanju tkiva oksidiraju u žute oblike. Svugdje gdje je česta jedan je od najčešćih uzroka trovanja gljivama: 2022. bila je u Francuskoj prva po broju slučajeva trovanja gljivama, a u australskoj saveznoj državi Victoriji, kamo je unesena i gdje je u gradovima često češća od jestivih gljiva, uzrokuje većinu trovanja divljim gljivama."
+    },
+    "sr": {
+      "description": "Средње велика до велика, бела гљива с прстеном, која расте на травњацима, у парковима, баштама, живим оградама и светлим шумама, често у групама или вилинским круговима. Честа је и широко распрострањена у Европи, Северној Америци, западној Азији укључујући Анадолију и Иран, као и у северној и јужној Африци, а у Аустралију је унесена.",
+      "cap": "Шешир је широк 5–15 cm, понекад до 20 cm. Млади шешири су лоптасти са спљоштеним теменом, што им даје карактеристичан угласт или трапезаст профил, затим постају испупчени и на крају готово равни; руб је подвијен само у младости. Површина је сува, мат, глатка до фино влакнаста, у почетку чисто бела, касније према средини сивкаста или светлосмеђа; стари шешири могу постати ситно љускави или испуцати, нарочито по топлом и сувом времену. Гребање или трљање површине, нарочито на рубу, за неколико секунди је боји јарко хромжуто; мрља касније посмеђи.",
+      "hymenium": "Листићи су слободни, густи и неједнаке дужине. У почетку су беличасти до бледосиви, убрзо ружичасти, а на крају, како споре сазревају, чоколадносмеђи до тамно пурпурносмеђи; у младости их покрива опнасти бели делимични вео. Базидије су четвороспорне. Оштрица листића често је изгризена и слабо омеђена; хеилоцистиде су, када се нађу, батичасте, око 20–30 × 4–8 µm, а плеуроцистиде нису нађене.",
+      "stipe": "Дршка је дуга 5–15 cm и дебела 1–3 cm, ваљкаста и често савијена, глатка и свиленкаста, бела, с јасно задебљаним, кртоластим дном. Носи велики, постојан, висећи бели прстен с дебелим, двоструким спољним рубом, који је с доње стране пахуљичаст. И површина дршке жути на додир, а када се дно дршке уздужно пресече, месо одмах постаје јарко хромжуто.",
+      "flesh": "Месо је бело и у шеширу прилично танко. Одмах жути испод кожице шешира и при сечењу или трљању, најјаче у дну дршке, где остаје јаркожуто и код старих плодних тела; жута боја касније посмеђи. Мирис је непријатан, на фенол, мастило, јод или карболно средство за дезинфекцију, код свежих примерака понекад тек слаб, али најјачи када се згњечи дно дршке и много јачи при кувању, никада на анис. Површина шешира од KOH пожути.",
+      "sporePrint": "Отисак спора је тамно чоколадносмеђ до веома тамно пурпурносмеђ. Споре су елипсоидне до јајасте, глатке и дебелих зидова с малим апикулусом, у KOH смеђе, углавном око 4,5–6,5 × 3–5,5 µm, а повремено се наводи дужина до 7 µm.",
+      "habitat": "Сапротрофна је и расте појединачно, раштркано или чешће у групама, гомилама или луковима на земљишту богатом азотом и поремећеном земљишту на травњацима, у парковима, баштама, поред путева и живих ограда, на рубовима шума и у светлим шумама. Плодна тела развија у Европи од јуна до новембра, у Северној Америци лети и у јесен, а у благој клими, као у Калифорнији, и током целе зиме.",
+      "uses": "Отровна је и не сме се јести. Изазива тровање органа за варење, обично убрзо после оброка, с мучнином, грчевима у стомаку, повраћањем, проливом, знојењем и црвенилом, а у тешким случајевима и вртоглавицом и сметњама вида; тежина зависи од поједене количине. Изгледа да је мањина људи једе без приметних тегоба, што је не чини безбедном.",
+      "confusion": "Agaricus arvensis жути само полако и слабо, равномерно по целом плодном телу, а не најјаче у дну дршке, и мирише на анис; јестива је. Agaricus campestris не жути, нема мирис фенола, има танак, пролазан прстен и сужено, а не кртоласто дно дршке; јестива је. Agaricus bitorquis има месо које црвени, а не жути. Agaricus moelleri и Agaricus praeclaresquamosus припадају истој групи која жути и мирише на фенол, али имају сивосмеђе до тамносиве љуске на шеширу, а Agaricus pilatianus из исте групе нема кртоласто дно дршке. Agaricus xanthodermulus је мањи, слабије жутећи отровни двојник с радијално испуцалим сивосмеђим шеширом. Смртоносно отровна Amanita verna може имати угласт млади шешир, али листићи јој остају бели, а на дну дршке има овојницу.",
+      "notes": "Јарко жућење и мирис фенола потичу од фенолних и диазо једињења, међу којима су фенол, ксантодермин и агарикон, који се при оштећењу или кувању ткива оксидују у жуте облике. Свуда где је честа један је од најчешћих узрока тровања гљивама: 2022. године била је у Француској прва по броју случајева тровања гљивама, а у аустралијској савезној држави Викторији, где је унесена и где је у градовима често чешћа од јестивих гљива, изазива већину тровања дивљим гљивама."
+    },
+    "bg": {
+      "description": "Средно голяма до голяма бяла гъба с пръстен, която расте по тревни площи, в паркове, градини, жив плет и светли гори, често на групи или във вълшебни кръгове. Тя е често срещана и широко разпространена в Европа, Северна Америка, Западна Азия, включително Анатолия и Иран, както и в Северна и Южна Африка, а в Австралия е пренесена.",
+      "cap": "Шапката е 5–15 cm в диаметър, понякога до 20 cm. Младите шапки са кълбовидни със сплеснат връх, което им придава характерен ъгловат или трапецовиден профил; по-късно стават изпъкнали и накрая почти плоски, а ръбът е подвит само в младостта. Повърхността е суха, матова, гладка до фино влакнеста, отначало чисто бяла, по-късно към центъра сивкава или светлокафява; старите шапки могат да станат фино люспести или да се напукат, особено при топло и сухо време. При драскане или търкане на повърхността, особено по ръба, тя за секунди става ярко хромовожълта; петното по-късно покафенява.",
+      "hymenium": "Ламелите са свободни, гъсти и с различна дължина. Отначало са белезникави до бледосиви, скоро розови и накрая, с узряването на спорите, шоколадовокафяви до тъмно пурпурнокафяви; в младостта ги покрива ципесто бяло частично було. Базидиите са четириспорови. Ръбът на ламелите често е назъбен и неясно очертан; хейлоцистидите, когато се открият, са бухалковидни, около 20–30 × 4–8 µm, а плевроцистиди не са открити.",
+      "stipe": "Пънчето е дълго 5–15 cm и дебело 1–3 cm, цилиндрично и често извито, гладко и копринено, бяло, с ясно издута, грудковидна основа. Носи голям, траен, висящ бял пръстен с дебел, двоен външен ръб, който отдолу е люспесто-вълнест. Повърхността на пънчето също пожълтява при допир, а когато основата му се разреже надлъжно, месото веднага става наситено хромовожълто.",
+      "flesh": "Месото е бяло и доста тънко в шапката. Пожълтява веднага под кожицата на шапката и при разрязване или търкане, най-силно в основата на пънчето, където остава яркожълто дори при стари плодни тела; жълтото по-късно преминава в кафеникаво. Мирисът е неприятен, на фенол, мастило, йод или карболов дезинфектант, при пресни екземпляри понякога само слаб, но най-силен при смачкване на основата на пънчето и много по-силен при готвене, никога на анасон. Повърхността на шапката пожълтява с KOH.",
+      "sporePrint": "Споровият отпечатък е тъмно шоколадовокафяв до много тъмно пурпурнокафяв. Спорите са елипсоидни до яйцевидни, гладки и дебелостенни с малък апикулус, кафяви в KOH, най-често около 4,5–6,5 × 3–5,5 µm, като понякога се посочва дължина до 7 µm.",
+      "habitat": "Тя е сапротроф и расте поединично, разпръснато или по-често на групи, ята или дъги върху богата на азот, нарушена почва по тревни площи, в паркове, градини, крайпътни ивици и жив плет, по горски окрайнини и в светли гори. Плодните тела се появяват в Европа от юни до ноември, в Северна Америка през лятото и есента, а в мек климат като този на Калифорния и през цялата зима.",
+      "uses": "Тя е отровна и не бива да се яде. Причинява стомашно-чревно отравяне, обикновено скоро след храненето, с гадене, стомашни спазми, повръщане, диария, изпотяване и зачервяване, а в тежки случаи и със замайване и зрителни смущения; тежестта зависи от изядените количества. Изглежда, че малцинство от хората я ядат без забележими неразположения, което не я прави безопасна.",
+      "confusion": "Agaricus arvensis пожълтява само бавно и слабо, равномерно по цялото плодно тяло, а не най-силно в основата на пънчето, и мирише на анасон; той е ядлив. Agaricus campestris не пожълтява, няма фенолов мирис, има тънък, преходен пръстен и стеснена, а не грудковидна основа на пънчето; той е ядлив. Agaricus bitorquis има почервеняващо, а не пожълтяващо месо. Agaricus moelleri и Agaricus praeclaresquamosus принадлежат към същата пожълтяваща група с мирис на фенол, но имат сивокафяви до тъмносиви люспи по шапката, а Agaricus pilatianus от същата група няма грудковидна основа на пънчето. Agaricus xanthodermulus е по-дребен, по-слабо пожълтяващ отровен двойник с радиално напукана сивокафява шапка. Смъртоносно отровната Amanita verna може да има ъгловата млада шапка, но ламелите ѝ остават бели и в основата на пънчето има волва.",
+      "notes": "Яркото пожълтяване и феноловият мирис се дължат на фенолни и диазосъединения, сред които фенол, ксантодермин и агарикон, които при нараняване или готвене на тъканите се окисляват до жълти форми. Навсякъде, където е често срещана, тя е една от най-честите причини за отравяния с гъби: през 2022 г. във Франция тя оглавява списъка на отравянията с гъби по брой случаи, а в австралийския щат Виктория, където е пренесена и в градовете често е по-разпространена от ядливите гъби, причинява повечето отравяния с диворастящи гъби."
+    },
+    "ru": {
+      "description": "Средний или крупный белый гриб с кольцом, растущий на газонах, в парках, садах, живых изгородях и светлых лесах, часто группами или «ведьмиными кругами». Он обычен и широко распространён в Европе, Северной Америке, Западной Азии, включая Анатолию и Иран, а также в Северной и Южной Африке, а в Австралию был занесён.",
+      "cap": "Шляпка 5–15 cm в диаметре, иногда до 20 cm. Молодые шляпки шаровидные со сплюснутой верхушкой, что придаёт им характерный угловатый или трапециевидный профиль; затем они становятся выпуклыми и наконец почти плоскими, край подвёрнут только в молодости. Поверхность сухая, матовая, гладкая или тонковолокнистая, сначала чисто-белая, позднее к центру сероватая или светло-коричневая; старые шляпки могут становиться мелкочешуйчатыми или растрескиваться, особенно в тёплую сухую погоду. При царапании или трении поверхности, особенно у края, она за несколько секунд окрашивается в ярко-хромово-жёлтый цвет; пятно позднее буреет.",
+      "hymenium": "Пластинки свободные, частые, неравной длины. Сначала они беловатые или бледно-серые, вскоре розовые, а по мере созревания спор шоколадно-коричневые или тёмно-пурпурно-коричневые; у молодых грибов их закрывает плёнчатое белое частное покрывало. Базидии четырёхспоровые. Край пластинок часто изъеденный и нечётко выраженный; хейлоцистиды, если встречаются, булавовидные, около 20–30 × 4–8 µm, а плевроцистиды не обнаружены.",
+      "stipe": "Ножка 5–15 cm длиной и 1–3 cm толщиной, цилиндрическая и часто изогнутая, гладкая и шелковистая, белая, с отчётливо вздутым клубневидным основанием. На ней крупное, долговечное, свисающее белое кольцо с толстым двойным наружным краем, хлопьевидным снизу. Поверхность ножки тоже желтеет от прикосновения, а если основание ножки разрезать вдоль, мякоть сразу становится интенсивно хромово-жёлтой.",
+      "flesh": "Мякоть белая, в шляпке довольно тонкая. Она сразу желтеет под кожицей шляпки и на разрезе или при трении, сильнее всего в основании ножки, где остаётся ярко-жёлтой даже у старых плодовых тел; позднее жёлтый цвет переходит в буроватый. Запах неприятный — фенола, чернил, йода или карболового дезинфицирующего средства, у свежих грибов иногда лишь слабый, но сильнее всего при раздавливании основания ножки и намного сильнее при варке, никогда не анисовый. Поверхность шляпки от KOH желтеет.",
+      "sporePrint": "Споровый порошок тёмно-шоколадно-коричневый или очень тёмный пурпурно-коричневый. Споры эллипсоидные или яйцевидные, гладкие, толстостенные, с небольшим апикулюсом, в KOH коричневые, обычно около 4,5–6,5 × 3–5,5 µm, иногда указывается длина до 7 µm.",
+      "habitat": "Сапротроф; растёт поодиночке, рассеянно или чаще группами, скоплениями или дугами на богатой азотом нарушенной почве на газонах, в парках, садах, по обочинам дорог и у живых изгородей, на опушках и в светлых лесах. Плодоносит в Европе с июня по ноябрь, в Северной Америке летом и осенью, а в мягком климате, например в Калифорнии, и всю зиму.",
+      "uses": "Ядовит, есть его нельзя. Вызывает желудочно-кишечное отравление, обычно вскоре после еды, с тошнотой, спазмами желудка, рвотой, диареей, потливостью и покраснением кожи, а в тяжёлых случаях с головокружением и нарушениями зрения; тяжесть зависит от количества съеденного. Небольшая часть людей, по-видимому, ест его без заметных последствий, однако это не делает его безопасным.",
+      "confusion": "Agaricus arvensis желтеет лишь медленно и слабо, равномерно по всему плодовому телу, а не сильнее всего в основании ножки, и пахнет анисом; он съедобен. Agaricus campestris не желтеет, не имеет фенольного запаха, у него тонкое, быстро исчезающее кольцо и суженное, а не клубневидное основание ножки; он съедобен. У Agaricus bitorquis мякоть краснеет, а не желтеет. Agaricus moelleri и Agaricus praeclaresquamosus относятся к той же желтеющей группе с запахом фенола, но имеют серо-коричневые или тёмно-серые чешуйки на шляпке, а у Agaricus pilatianus из той же группы нет клубневидного основания ножки. Agaricus xanthodermulus — более мелкий, слабее желтеющий ядовитый двойник с радиально растрескивающейся серо-коричневой шляпкой. Смертельно ядовитая Amanita verna может иметь угловатую молодую шляпку, но её пластинки остаются белыми, а у основания ножки есть вольва.",
+      "notes": "Яркое пожелтение и фенольный запах обусловлены фенольными и диазосоединениями, в том числе фенолом, ксантодермином и агариконом, которые при повреждении или варке тканей окисляются в жёлтые формы. Везде, где он обычен, это одна из самых частых причин отравлений грибами: в 2022 году во Франции он возглавил список отравлений грибами по числу случаев, а в австралийском штате Виктория, куда он занесён и где в городах часто встречается чаще съедобных грибов, он вызывает большинство отравлений дикорастущими грибами."
+    },
+    "uk": {
+      "description": "Середній або великий білий гриб з кільцем, що росте на газонах, у парках, садах, живоплотах і світлих лісах, часто групами або «відьминими колами». Він звичайний і широко поширений у Європі, Північній Америці, Західній Азії, зокрема в Анатолії та Ірані, а також у Північній і Південній Африці, а до Австралії його занесено.",
+      "cap": "Шапка 5–15 cm у діаметрі, іноді до 20 cm. Молоді шапки кулясті зі сплющеною верхівкою, що надає їм характерного кутастого або трапецієподібного профілю; згодом вони стають опуклими й нарешті майже плоскими, край підгорнутий лише в молодості. Поверхня суха, матова, гладенька або тонковолокниста, спершу чисто-біла, пізніше до центру сірувата або світло-коричнева; старі шапки можуть ставати дрібнолускатими або розтріскуватися, особливо в теплу суху погоду. Якщо подряпати або потерти поверхню, особливо біля краю, вона за кілька секунд стає яскраво-хромово-жовтою; пляма згодом буріє.",
+      "hymenium": "Пластинки вільні, густі, неоднакової довжини. Спершу вони білуваті або блідо-сірі, незабаром рожеві, а з дозріванням спор шоколадно-коричневі або темно-пурпурово-коричневі; у молодих грибів їх вкриває плівчасте біле часткове покривало. Базидії чотириспорові. Край пластинок часто нерівний і нечітко окреслений; хейлоцистиди, якщо трапляються, булавоподібні, близько 20–30 × 4–8 µm, а плевроцистид не виявлено.",
+      "stipe": "Ніжка завдовжки 5–15 cm і завтовшки 1–3 cm, циліндрична й часто вигнута, гладенька й шовковиста, біла, з чітко здутою бульбоподібною основою. На ній велике, тривке, звисле біле кільце з товстим подвійним зовнішнім краєм, пластівчастим знизу. Поверхня ніжки теж жовтіє від дотику, а якщо основу ніжки розрізати вздовж, м'якуш одразу стає інтенсивно хромово-жовтим.",
+      "flesh": "М'якуш білий, у шапці досить тонкий. Він одразу жовтіє під шкіркою шапки та на розрізі або від тертя, найсильніше в основі ніжки, де лишається яскраво-жовтим навіть у старих плодових тілах; жовтий колір згодом переходить у буруватий. Запах неприємний — фенолу, чорнила, йоду або карболового дезінфекційного засобу, у свіжих грибів іноді лише слабкий, але найсильніший, коли розчавити основу ніжки, і набагато сильніший під час варіння, ніколи не анісовий. Поверхня шапки від KOH жовтіє.",
+      "sporePrint": "Споровий порошок темно-шоколадно-коричневий або дуже темний пурпурово-коричневий. Спори еліпсоїдні або яйцеподібні, гладенькі, товстостінні, з невеликим апікулюсом, у KOH коричневі, переважно близько 4,5–6,5 × 3–5,5 µm, іноді вказують довжину до 7 µm.",
+      "habitat": "Сапротроф; росте поодинці, розсіяно або частіше групами, скупченнями чи дугами на багатому на азот порушеному ґрунті на газонах, у парках, садах, обабіч доріг і біля живоплотів, на узліссях і в світлих лісах. Плодоносить у Європі з червня до листопада, у Північній Америці влітку й восени, а в м'якому кліматі, як-от у Каліфорнії, і всю зиму.",
+      "uses": "Отруйний, їсти його не можна. Спричиняє шлунково-кишкове отруєння, зазвичай невдовзі після їди, з нудотою, спазмами шлунка, блюванням, діареєю, пітливістю й почервонінням шкіри, а в тяжких випадках із запамороченням і порушеннями зору; тяжкість залежить від кількості з'їденого. Невелика частина людей, схоже, їсть його без помітних наслідків, проте це не робить його безпечним.",
+      "confusion": "Agaricus arvensis жовтіє лише повільно й слабко, рівномірно по всьому плодовому тілу, а не найсильніше в основі ніжки, і пахне анісом; він їстівний. Agaricus campestris не жовтіє, не має фенольного запаху, має тонке, швидкоплинне кільце й звужену, а не бульбоподібну основу ніжки; він їстівний. В Agaricus bitorquis м'якуш червоніє, а не жовтіє. Agaricus moelleri та Agaricus praeclaresquamosus належать до тієї самої жовтіючої групи із запахом фенолу, але мають сіро-коричневі або темно-сірі луски на шапці, а в Agaricus pilatianus з тієї ж групи немає бульбоподібної основи ніжки. Agaricus xanthodermulus — дрібніший, слабше жовтіючий отруйний двійник із радіально розтріснутою сіро-коричневою шапкою. Смертельно отруйна Amanita verna може мати кутасту молоду шапку, але її пластинки лишаються білими, а біля основи ніжки є вольва.",
+      "notes": "Яскраве пожовтіння й фенольний запах спричиняють фенольні та діазосполуки, зокрема фенол, ксантодермін і агарикон, які в разі пошкодження або варіння тканин окиснюються до жовтих форм. Скрізь, де він звичайний, це одна з найчастіших причин отруєнь грибами: 2022 року у Франції він очолив список отруєнь грибами за кількістю випадків, а в австралійському штаті Вікторія, куди його занесено і де в містах він часто трапляється частіше за їстівні гриби, він спричиняє більшість отруєнь дикорослими грибами."
+    },
+    "ro": {
+      "description": "O ciupercă albă, de talie medie până la mare, cu inel, care crește pe peluze, în parcuri, grădini, garduri vii și păduri luminoase, adesea în cete sau în cercuri de vrăjitoare. Este comună și larg răspândită în Europa, America de Nord, Asia de Vest, inclusiv Anatolia și Iran, precum și în nordul și sudul Africii, iar în Australia a fost introdusă.",
+      "cap": "Pălăria are 5–15 cm, uneori până la 20 cm. Pălăriile tinere sunt globuloase, cu vârful turtit, ceea ce le dă un profil caracteristic colțuros sau trapezoidal, apoi devin convexe și în final aproape plate; marginea este răsfrântă doar la exemplarele tinere. Suprafața este uscată, mată, netedă până la fin fibriloasă, la început alb pur, mai târziu cenușie sau brun-deschis spre centru; pălăriile bătrâne pot deveni fin solzoase sau se pot crăpa, mai ales pe vreme caldă și uscată. Zgârierea sau frecarea suprafeței, mai ales la margine, o colorează în câteva secunde în galben de crom aprins; pata devine apoi brună.",
+      "hymenium": "Lamelele sunt libere, dese și inegale. La început sunt albicioase până la cenușiu-pal, curând roz, iar în final, pe măsură ce sporii se maturizează, brun-ciocolatiu până la brun-purpuriu închis; în stadiul tânăr sunt acoperite de un văl parțial alb, membranos. Bazidiile sunt tetrasporice. Muchia lamelelor este adesea erodată și slab delimitată; cheilocistidele, când sunt găsite, sunt claviforme, de circa 20–30 × 4–8 µm, iar pleurocistide nu au fost găsite.",
+      "stipe": "Piciorul are 5–15 cm lungime și 1–3 cm grosime, este cilindric și adesea curbat, neted și mătăsos, alb, cu baza clar umflată, bulboasă. Poartă un inel alb mare, persistent și pendul, cu marginea exterioară groasă și dublă, flocoasă pe partea inferioară. Și suprafața piciorului se îngălbenește la atingere, iar când baza piciorului este tăiată pe lungime, carnea devine imediat intens galben de crom.",
+      "flesh": "Carnea este albă și destul de subțire în pălărie. Se îngălbenește imediat sub cuticulă și la tăiere sau frecare, cel mai puternic în baza piciorului, unde rămâne galben aprins chiar și la exemplarele bătrâne; galbenul devine apoi brunatic. Mirosul este neplăcut, de fenol, cerneală, iod sau dezinfectant carbolic, la exemplarele proaspete uneori doar slab, dar cel mai puternic când baza piciorului este strivită și mult mai puternic la gătit, niciodată de anason. Cuticula se îngălbenește cu KOH.",
+      "sporePrint": "Sporeea este brun-ciocolatie închisă până la brun-purpurie foarte închisă. Sporii sunt elipsoidali până la ovoizi, netezi și cu perete gros, cu un apicul mic, bruni în KOH, de cele mai multe ori circa 4,5–6,5 × 3–5,5 µm, ocazional fiind raportați până la 7 µm lungime.",
+      "habitat": "Este saprotrofă și crește solitar, răzleț sau mai des în grupuri, cete sau arcuri pe soluri bogate în azot și perturbate, pe peluze, în parcuri, grădini, pe margini de drum și lângă garduri vii, la liziere și în păduri luminoase. Fructifică din iunie până în noiembrie în Europa, vara și toamna în America de Nord și, în climate blânde precum cel al Californiei, și pe tot parcursul iernii.",
+      "uses": "Este otrăvitoare și nu trebuie consumată. Provoacă o intoxicație gastrointestinală, de obicei la scurt timp după masă, cu greață, crampe stomacale, vărsături, diaree, transpirație și înroșirea pielii, iar în cazurile grave amețeală și tulburări de vedere; gravitatea depinde de cantitatea consumată. O minoritate de oameni par să o consume fără efecte vizibile, ceea ce nu o face sigură.",
+      "confusion": "Agaricus arvensis se îngălbenește doar lent și slab, uniform pe tot corpul fructifer, nu cel mai puternic în baza piciorului, și miroase a anason; este comestibilă. Agaricus campestris nu se îngălbenește, nu are miros de fenol, are un inel subțire, efemer și baza piciorului îngustată, nu bulboasă; este comestibilă. Agaricus bitorquis are carnea care se înroșește, nu se îngălbenește. Agaricus moelleri și Agaricus praeclaresquamosus aparțin aceluiași grup care se îngălbenește și miroase a fenol, dar au solzi brun-cenușii până la cenușiu-închis pe pălărie, iar Agaricus pilatianus din același grup nu are baza piciorului bulboasă. Agaricus xanthodermulus este o sosie otrăvitoare mai mică, ce se îngălbenește mai slab, cu pălăria brun-cenușie crăpată radial. Mortala Amanita verna poate avea o pălărie tânără colțuroasă, dar își păstrează lamelele albe și are volvă la baza piciorului.",
+      "notes": "Îngălbenirea aprinsă și mirosul de fenol se datorează compușilor fenolici și diazoici, printre care fenolul, xantodermina și agaricona, care se oxidează în forme galbene când țesutul este lezat sau gătit. Oriunde este comună, este una dintre cele mai frecvente cauze de intoxicație cu ciuperci: în 2022 se afla în Franța pe primul loc între intoxicațiile cu ciuperci după numărul de cazuri, iar în statul Victoria din Australia, unde a fost introdusă și unde în orașe este adesea mai frecventă decât ciupercile comestibile, provoacă majoritatea intoxicațiilor cu ciuperci sălbatice."
+    },
+    "es": {
+      "description": "Una seta blanca, mediana a grande y con anillo, de céspedes, parques, jardines, setos y bosques abiertos, que a menudo crece en grupos o en corros de brujas. Es común y está ampliamente distribuida por Europa, Norteamérica, Asia occidental, incluidas Anatolia e Irán, y el norte y el sur de África, y ha sido introducida en Australia.",
+      "cap": "El sombrero mide 5–15 cm, a veces hasta 20 cm. Los sombreros jóvenes son globosos con la parte superior aplanada, lo que les da un perfil característicamente cuadrado o trapezoidal; después se vuelven convexos y finalmente casi planos, y el margen solo está enrollado en los ejemplares jóvenes. La superficie es seca, mate y lisa a finamente fibrilosa, al principio blanca pura y más tarde grisácea o pardo clara hacia el centro; los sombreros viejos pueden volverse finamente escamosos o agrietarse, sobre todo con tiempo cálido y seco. Al rascar o frotar la superficie, sobre todo en el margen, se vuelve amarillo cromo intenso en segundos; la mancha pasa después a pardo.",
+      "hymenium": "Las láminas son libres, apretadas y de longitud desigual. Al principio son blanquecinas a gris pálido, pronto rosadas y finalmente pardo chocolate a pardo púrpura oscuro al madurar las esporas; en el estado de botón están cubiertas por un velo parcial blanco y membranoso. Los basidios son tetraspóricos. La arista de las láminas suele estar erosionada y mal definida; los queilocistidios, cuando se encuentran, son claviformes, de unos 20–30 × 4–8 µm, y no se han encontrado pleurocistidios.",
+      "stipe": "El pie mide 5–15 cm de largo y 1–3 cm de grosor; es cilíndrico y a menudo curvado, liso y sedoso, blanco, con la base claramente engrosada y bulbosa. Lleva un anillo blanco grande, persistente y colgante, con un borde exterior grueso y doble, flocoso por la cara inferior. La superficie del pie también amarillea al tacto, y al cortar longitudinalmente la base del pie, la carne se vuelve al instante de un amarillo cromo intenso.",
+      "flesh": "La carne es blanca y bastante delgada en el sombrero. Amarillea de inmediato bajo la cutícula y al cortarla o frotarla, con más fuerza en la base del pie, donde sigue siendo amarillo vivo incluso en ejemplares viejos; el amarillo pasa después a parduzco. El olor es desagradable, a fenol, tinta, yodo o desinfectante fenicado, a veces solo débil en ejemplares frescos, pero más fuerte al aplastar la base del pie y mucho más intenso al cocinarla, nunca anisado. La cutícula amarillea con KOH.",
+      "sporePrint": "La esporada es pardo chocolate oscuro a pardo púrpura muy oscuro. Las esporas son elipsoidales a ovoides, lisas y de pared gruesa, con una pequeña apícula, pardas en KOH, en su mayoría de unos 4,5–6,5 × 3–5,5 µm, con citas ocasionales de hasta 7 µm de largo.",
+      "habitat": "Es saprótrofa y crece aislada, dispersa o más a menudo en grupos, corros o arcos sobre suelos ricos en nitrógeno y alterados de céspedes, parques, jardines, bordes de caminos y setos, en lindes de bosque y en bosques abiertos. Fructifica de junio a noviembre en Europa, en verano y otoño en Norteamérica y también durante todo el invierno en climas suaves como el de California.",
+      "uses": "Es tóxica y no debe consumirse. Provoca una intoxicación gastrointestinal, por lo general poco después de la comida, con náuseas, calambres de estómago, vómitos, diarrea, sudoración y enrojecimiento, y en casos graves mareo y alteraciones visuales; la gravedad depende de la cantidad ingerida. Una minoría de personas parece consumirla sin efectos apreciables, lo que no la convierte en segura.",
+      "confusion": "Agaricus arvensis amarillea solo lenta y débilmente, de forma uniforme en todo el carpóforo y no con más fuerza en la base del pie, y huele a anís; es comestible. Agaricus campestris no amarillea, no tiene olor fenólico, posee un anillo fino y fugaz y la base del pie atenuada en lugar de bulbosa; es comestible. Agaricus bitorquis tiene la carne que enrojece en vez de amarillear. Agaricus moelleri y Agaricus praeclaresquamosus pertenecen al mismo grupo amarilleante y de olor fenólico, pero tienen escamas pardo grisáceas a gris oscuro en el sombrero, y Agaricus pilatianus, del mismo grupo, carece de base del pie bulbosa. Agaricus xanthodermulus es un doble tóxico más pequeño y menos amarilleante, con el sombrero pardo grisáceo agrietado radialmente. La mortal Amanita verna puede tener un sombrero joven cuadrado, pero conserva las láminas blancas y tiene volva en la base del pie.",
+      "notes": "El amarilleo intenso y el olor fenólico se deben a compuestos fenólicos y diazoicos, entre ellos el fenol, la xantodermina y la agaricona, que se oxidan a formas amarillas cuando el tejido se daña o se cocina. Es una de las causas más frecuentes de intoxicación por setas allí donde es común: en 2022 encabezó en Francia la lista de intoxicaciones por setas por número de casos, y en el estado de Victoria, en Australia, donde fue introducida y en las ciudades suele ser más común que las setas comestibles, causa la mayoría de las intoxicaciones por hongos silvestres."
+    },
+    "pt": {
+      "description": "Um cogumelo branco, de tamanho médio a grande, com anel, de relvados, parques, jardins, sebes e bosques abertos, que cresce frequentemente em grupos ou em círculos de fadas. É comum e está amplamente distribuído na Europa, na América do Norte, na Ásia ocidental, incluindo a Anatólia e o Irão, e no norte e no sul de África, tendo sido introduzido na Austrália.",
+      "cap": "O chapéu mede 5–15 cm, por vezes até 20 cm. Os chapéus jovens são globosos com o topo achatado, o que lhes dá um perfil caracteristicamente quadrado ou trapezoidal; depois tornam-se convexos e por fim quase planos, e a margem só é enrolada nos exemplares jovens. A superfície é seca, mate e lisa a finamente fibrilosa, de início branca pura e mais tarde acinzentada ou castanho-clara para o centro; os chapéus velhos podem tornar-se finamente escamosos ou fender, sobretudo com tempo quente e seco. Riscar ou esfregar a superfície, sobretudo na margem, torna-a amarelo-cromo vivo em segundos; a mancha passa depois a castanha.",
+      "hymenium": "As lâminas são livres, apertadas e de comprimento desigual. São de início esbranquiçadas a cinzento-pálidas, cedo cor-de-rosa e por fim castanho-chocolate a castanho-púrpura escuro à medida que os esporos amadurecem; na fase de botão estão cobertas por um véu parcial branco e membranoso. Os basídios são tetraspóricos. A aresta das lâminas é muitas vezes erodida e mal definida; os queilocistídios, quando encontrados, são claviformes, com cerca de 20–30 × 4–8 µm, e não foram encontrados pleurocistídios.",
+      "stipe": "O pé mede 5–15 cm de comprimento e 1–3 cm de espessura; é cilíndrico e muitas vezes curvo, liso e sedoso, branco, com a base claramente dilatada e bulbosa. Tem um anel branco grande, persistente e pendente, com bordo exterior espesso e duplo, flocoso na face inferior. A superfície do pé também amarelece ao toque, e quando a base do pé é cortada longitudinalmente, a carne torna-se de imediato amarelo-cromo intenso.",
+      "flesh": "A carne é branca e bastante fina no chapéu. Amarelece de imediato sob a cutícula e ao ser cortada ou esfregada, com mais força na base do pé, onde permanece amarelo-viva mesmo em exemplares velhos; o amarelo passa depois a acastanhado. O cheiro é desagradável, a fenol, tinta, iodo ou desinfetante fenicado, por vezes apenas fraco em material fresco, mas mais forte quando a base do pé é esmagada e muito mais intenso ao cozinhar, nunca anisado. A cutícula amarelece com KOH.",
+      "sporePrint": "A esporada é castanho-chocolate escura a castanho-púrpura muito escura. Os esporos são elipsoides a ovoides, lisos e de parede espessa, com um pequeno apículo, castanhos em KOH, na maioria com cerca de 4,5–6,5 × 3–5,5 µm, com registos ocasionais até 7 µm de comprimento.",
+      "habitat": "É saprotrófico e cresce isolado, disperso ou mais frequentemente em grupos, bandos ou arcos em solos ricos em azoto e perturbados de relvados, parques, jardins, bermas e sebes, orlas de bosque e bosques abertos. Frutifica de junho a novembro na Europa, no verão e no outono na América do Norte e também durante todo o inverno em climas amenos como o da Califórnia.",
+      "uses": "É venenoso e não deve ser comido. Causa uma intoxicação gastrointestinal, geralmente pouco depois da refeição, com náuseas, cólicas de estômago, vómitos, diarreia, suores e rubor, e nos casos graves tonturas e perturbações visuais; a gravidade depende da quantidade ingerida. Uma minoria de pessoas parece comê-lo sem efeitos visíveis, o que não o torna seguro.",
+      "confusion": "Agaricus arvensis amarelece apenas lenta e fracamente, de forma uniforme em todo o corpo frutífero e não com mais força na base do pé, e cheira a anis; é comestível. Agaricus campestris não amarelece, não tem cheiro fenólico, tem um anel fino e fugaz e a base do pé afilada em vez de bulbosa; é comestível. Agaricus bitorquis tem carne que avermelha em vez de amarelecer. Agaricus moelleri e Agaricus praeclaresquamosus pertencem ao mesmo grupo que amarelece e cheira a fenol, mas têm escamas castanho-acinzentadas a cinzento-escuras no chapéu, e Agaricus pilatianus, do mesmo grupo, não tem base do pé bulbosa. Agaricus xanthodermulus é um sósia venenoso mais pequeno e que amarelece menos, com o chapéu castanho-acinzentado fendido radialmente. A mortal Amanita verna pode ter um chapéu jovem quadrado, mas mantém as lâminas brancas e tem volva na base do pé.",
+      "notes": "O amarelecimento vivo e o cheiro fenólico devem-se a compostos fenólicos e diazóicos, entre eles o fenol, a xantodermina e a agaricona, que oxidam a formas amarelas quando o tecido é danificado ou cozinhado. É uma das causas mais frequentes de intoxicação por cogumelos onde quer que seja comum: em 2022 liderou em França a lista de intoxicações por cogumelos em número de casos, e no estado de Victoria, na Austrália, onde foi introduzido e nas cidades é muitas vezes mais comum do que os cogumelos comestíveis, causa a maioria das intoxicações por cogumelos silvestres."
+    },
+    "it": {
+      "description": "Un fungo bianco, di taglia media o grande, con anello, di prati, parchi, giardini, siepi e boschi radi, che cresce spesso in gruppi o in cerchi delle streghe. È comune e ampiamente diffuso in Europa, Nord America, Asia occidentale, comprese l'Anatolia e l'Iran, e in Africa settentrionale e meridionale, ed è stato introdotto in Australia.",
+      "cap": "Il cappello misura 5–15 cm, talvolta fino a 20 cm. I cappelli giovani sono globosi con la sommità appiattita, il che dà loro un profilo tipicamente squadrato o trapezoidale, poi diventano convessi e infine quasi piani; il margine è involuto solo da giovane. La superficie è asciutta, opaca, liscia o finemente fibrillosa, dapprima bianco puro, poi grigiastra o bruno chiara verso il centro; i cappelli vecchi possono diventare finemente squamulosi o screpolarsi, soprattutto con tempo caldo e secco. Graffiando o strofinando la superficie, soprattutto al margine, essa diventa giallo cromo vivo in pochi secondi; la macchia vira poi al bruno.",
+      "hymenium": "Le lamelle sono libere, fitte e disuguali. Sono dapprima biancastre o grigio pallido, presto rosa e infine bruno cioccolato o bruno porpora scuro con la maturazione delle spore; allo stadio di bottone sono coperte da un velo parziale bianco e membranoso. I basidi sono tetrasporici. Il filo delle lamelle è spesso eroso e poco definito; i cheilocistidi, quando presenti, sono clavati, di circa 20–30 × 4–8 µm, e non sono stati trovati pleurocistidi.",
+      "stipe": "Il gambo è lungo 5–15 cm e spesso 1–3 cm, cilindrico e spesso curvo, liscio e sericeo, bianco, con base nettamente ingrossata e bulbosa. Porta un grande anello bianco, persistente e pendente, con orlo esterno spesso e doppio, fioccoso nella faccia inferiore. Anche la superficie del gambo ingiallisce al tocco, e se la base del gambo viene tagliata per il lungo, la carne diventa subito di un giallo cromo intenso.",
+      "flesh": "La carne è bianca e piuttosto sottile nel cappello. Ingiallisce subito sotto la cuticola e al taglio o allo sfregamento, più intensamente nella base del gambo, dove resta giallo vivo anche negli esemplari vecchi; il giallo vira poi al brunastro. L'odore è sgradevole, di fenolo, inchiostro, iodio o disinfettante fenicato, talvolta solo debole negli esemplari freschi, ma più forte schiacciando la base del gambo e molto più intenso in cottura, mai di anice. La cuticola ingiallisce con KOH.",
+      "sporePrint": "La sporata è bruno cioccolato scuro o bruno porpora molto scuro. Le spore sono ellissoidali od ovoidali, lisce e a parete spessa, con un piccolo apicolo, brune in KOH, per lo più di circa 4,5–6,5 × 3–5,5 µm, con segnalazioni occasionali fino a 7 µm di lunghezza.",
+      "habitat": "È saprotrofo e cresce isolato, sparso o più spesso in gruppi, schiere o archi su suoli ricchi di azoto e disturbati di prati, parchi, giardini, bordi delle strade e siepi, ai margini dei boschi e nei boschi radi. Fruttifica da giugno a novembre in Europa, in estate e autunno in Nord America e, nei climi miti come quello della California, anche per tutto l'inverno.",
+      "uses": "È velenoso e non deve essere mangiato. Provoca un'intossicazione gastrointestinale, di solito poco dopo il pasto, con nausea, crampi allo stomaco, vomito, diarrea, sudorazione e arrossamento, e nei casi gravi capogiri e disturbi visivi; la gravità dipende dalla quantità ingerita. Una minoranza di persone sembra mangiarlo senza disturbi evidenti, il che non lo rende sicuro.",
+      "confusion": "Agaricus arvensis ingiallisce solo lentamente e debolmente, in modo uniforme su tutto il carpoforo e non più intensamente alla base del gambo, e profuma di anice; è commestibile. Agaricus campestris non ingiallisce, non ha odore fenolico, ha un anello sottile e fugace e la base del gambo attenuata anziché bulbosa; è commestibile. Agaricus bitorquis ha carne arrossante anziché ingiallente. Agaricus moelleri e Agaricus praeclaresquamosus appartengono allo stesso gruppo ingiallente e dall'odore di fenolo, ma hanno squame bruno-grigie o grigio scuro sul cappello, e Agaricus pilatianus, dello stesso gruppo, non ha la base del gambo bulbosa. Agaricus xanthodermulus è un sosia velenoso più piccolo e meno ingiallente, con il cappello bruno-grigio screpolato radialmente. La mortale Amanita verna può avere un cappello giovane squadrato, ma conserva lamelle bianche e ha una volva alla base del gambo.",
+      "notes": "L'ingiallimento vivo e l'odore fenolico derivano da composti fenolici e diazoici, tra cui fenolo, xantodermina e agaricone, che si ossidano in forme gialle quando il tessuto viene danneggiato o cotto. È una delle cause più frequenti di avvelenamento da funghi ovunque sia comune: nel 2022 era al primo posto in Francia tra gli avvelenamenti da funghi per numero di casi, e nello stato di Victoria, in Australia, dove è stato introdotto e nelle città è spesso più comune dei funghi commestibili, causa la maggior parte degli avvelenamenti da funghi selvatici."
+    },
+    "tr": {
+      "description": "Çimenliklerde, parklarda, bahçelerde, çit kenarlarında ve seyrek ormanlarda yetişen, çoğu kez kalabalık gruplar ya da peri halkaları oluşturan, orta boydan büyüğe, beyaz, halkalı bir mantar. Avrupa'da, Kuzey Amerika'da, Anadolu ve İran dahil Batı Asya'da ve Kuzey ile Güney Afrika'da yaygın ve geniş yayılışlıdır; Avustralya'ya ise sonradan taşınmıştır.",
+      "cap": "Şapka 5–15 cm, bazen 20 cm'ye kadar genişliktedir. Genç şapkalar tepesi basık, küremsi yapıdadır; bu da onlara tipik olarak köşeli ya da yamuk biçimli bir profil verir; sonra dışbükey, en sonunda neredeyse düz olur ve kenar yalnızca gençken içe kıvrıktır. Yüzey kuru, mat, düzgün ya da ince lifli, başta saf beyaz, sonra ortaya doğru grimsi veya açık kahverengidir; yaşlı şapkalar özellikle sıcak ve kuru havada ince pullu hale gelebilir ya da çatlayabilir. Yüzey, özellikle kenarda, kazınır veya ovulursa birkaç saniye içinde parlak krom sarısına döner; leke sonra kahverengiye dönüşür.",
+      "hymenium": "Lameller serbest, sık ve farklı uzunluktadır. Başta beyazımsı ila soluk gri, kısa sürede pembe ve sporlar olgunlaştıkça en sonunda çikolata kahverengisi ila koyu morumsu kahverengi olur; tomurcuk evresinde zarımsı beyaz bir kısmi örtüyle kaplıdır. Bazitler dört sporludur. Lamel kenarı çoğu kez aşınmış ve belirsizdir; keilosistitler bulunduğunda topuz biçimli, yaklaşık 20–30 × 4–8 µm'dir; plörosistit bulunmamıştır.",
+      "stipe": "Sap 5–15 cm uzunluğunda ve 1–3 cm kalınlığında, silindirik ve çoğu kez eğri, düz ve ipeksi, beyaz, tabanı belirgin biçimde şişkin ve soğanlıdır. Üzerinde kalın, çift dış kenarlı, alt yüzü pamuksu, büyük, kalıcı, sarkık beyaz bir halka taşır. Sapın yüzeyi de dokununca sararır ve sap tabanı boyuna kesildiğinde eti hemen yoğun krom sarısına döner.",
+      "flesh": "Et beyazdır ve şapkada oldukça incedir. Şapka derisinin hemen altında ve kesildiğinde ya da ovulduğunda hemen sararır; en güçlü sararma sap tabanındadır ve orada yaşlı meyve gövdelerinde bile parlak sarı kalır; sarı renk sonra kahverengimsiye döner. Kokusu hoş değildir; fenol, mürekkep, iyot ya da karbollü dezenfektan kokar, taze örneklerde bazen yalnızca hafiftir, ancak sap tabanı ezildiğinde en güçlüdür ve pişirildiğinde çok daha keskinleşir, asla anason kokmaz. Şapka yüzeyi KOH ile sararır.",
+      "sporePrint": "Spor izi koyu çikolata kahverengisi ila çok koyu morumsu kahverengidir. Sporlar elipsoit ila yumurtamsı, düz ve kalın çeperli, küçük bir apikulusludur; KOH içinde kahverengidir, çoğunlukla yaklaşık 4,5–6,5 × 3–5,5 µm'dir, zaman zaman 7 µm uzunluğa kadar bildirilir.",
+      "habitat": "Saprotroftur; azotça zengin, bozulmuş topraklarda, çimenliklerde, parklarda, bahçelerde, yol kenarlarında ve çit diplerinde, orman kenarlarında ve seyrek ormanlarda tek tek, dağınık ya da daha sık olarak gruplar, kalabalıklar veya yaylar halinde yetişir. Avrupa'da haziran-kasım arasında, Kuzey Amerika'da yaz ve sonbaharda, Kaliforniya gibi ılıman iklimlerde ise kış boyunca da meyve verir.",
+      "uses": "Zehirlidir ve yenmemelidir. Genellikle yemekten kısa süre sonra bulantı, mide krampları, kusma, ishal, terleme ve kızarmayla, ağır olgularda baş dönmesi ve görme bozukluklarıyla seyreden mide-bağırsak zehirlenmesine yol açar; şiddeti yenen miktara bağlıdır. İnsanların küçük bir kısmı onu belirgin bir rahatsızlık olmadan yiyor görünse de bu onu güvenli yapmaz.",
+      "confusion": "Agaricus arvensis yalnızca yavaş ve zayıf, sap tabanında en güçlü değil tüm meyve gövdesinde eşit biçimde sararır ve anason kokar; yenilebilir. Agaricus campestris sararmaz, fenol kokusu yoktur, ince ve geçici bir halkası ve soğanlı değil incelen bir sap tabanı vardır; yenilebilir. Agaricus bitorquis'in eti sararmaz, kızarır. Agaricus moelleri ve Agaricus praeclaresquamosus aynı sararan, fenol kokulu gruba aittir, ancak şapkalarında gri-kahverengi ila koyu gri pullar bulunur; aynı gruptaki Agaricus pilatianus'ta ise soğanlı sap tabanı yoktur. Agaricus xanthodermulus daha küçük, daha az sararan, şapkası ışınsal çatlaklı gri-kahverengi, zehirli bir benzerdir. Ölümcül zehirli Amanita verna köşeli bir genç şapkaya sahip olabilir, ancak lamelleri beyaz kalır ve sap tabanında volva bulunur.",
+      "notes": "Parlak sarı renklenme ve fenol kokusu, doku zarar gördüğünde ya da piştiğinde sarı biçimlere oksitlenen fenol, ksantodermin ve agarikon gibi fenolik ve diazo bileşiklerinden kaynaklanır. Yaygın olduğu her yerde mantar zehirlenmelerinin en sık nedenlerinden biridir: 2022'de Fransa'da olgu sayısına göre mantar zehirlenmeleri listesinin başında yer almış, sonradan taşındığı ve kentlerde çoğu kez yenilebilir mantarlardan daha yaygın olduğu Avustralya'nın Victoria eyaletinde ise yabani mantar zehirlenmelerinin çoğuna yol açmaktadır."
+    },
+    "id": {
+      "description": "Jamur putih bercincin berukuran sedang hingga besar yang tumbuh di halaman rumput, taman, kebun, pagar tanaman, dan hutan terbuka, sering dalam kelompok besar atau lingkaran peri. Jamur ini umum dan tersebar luas di Eropa, Amerika Utara, Asia barat termasuk Anatolia dan Iran, serta Afrika utara dan selatan, dan telah terintroduksi ke Australia.",
+      "cap": "Tudung berukuran 5–15 cm, kadang hingga 20 cm. Tudung muda bulat dengan puncak rata sehingga tampak khas bersegi atau berbentuk trapesium, lalu menjadi cembung dan akhirnya hampir datar; tepinya menggulung ke dalam hanya saat muda. Permukaannya kering, kusam, dan licin hingga berserabut halus, mula-mula putih bersih, kemudian keabu-abuan atau cokelat muda ke arah tengah; tudung tua dapat menjadi bersisik halus atau retak, terutama saat cuaca hangat dan kering. Bila permukaannya digores atau digosok, terutama di tepi, warnanya berubah menjadi kuning krom terang dalam hitungan detik; noda itu kemudian memudar menjadi cokelat.",
+      "hymenium": "Bilah bebas, rapat, dan tidak sama panjang. Mula-mula keputihan hingga abu-abu pucat, segera merah muda, dan akhirnya cokelat tua hingga cokelat keunguan gelap seiring matangnya spora; pada tahap kuncup bilah tertutup selubung parsial putih yang bermembran. Basidia bersepora empat. Tepi bilah sering tergerus dan tidak jelas batasnya; keilosistidia, bila ditemukan, berbentuk gada, sekitar 20–30 × 4–8 µm, dan pleurosistidia belum ditemukan.",
+      "stipe": "Tangkai berukuran panjang 5–15 cm dan tebal 1–3 cm, silindris dan sering melengkung, licin dan berkilau seperti sutra, putih, dengan pangkal yang jelas menggembung seperti umbi. Tangkai membawa cincin putih besar, tahan lama, dan menggantung dengan tepi luar tebal berlapis dua yang berbulu kapas di sisi bawahnya. Permukaan tangkai juga menguning bila disentuh, dan bila pangkal tangkai dibelah memanjang, dagingnya segera menjadi kuning krom pekat.",
+      "flesh": "Daging berwarna putih dan agak tipis di tudung. Daging langsung menguning di bawah kulit tudung serta saat dipotong atau digosok, paling kuat di pangkal tangkai, tempat warnanya tetap kuning terang bahkan pada tubuh buah tua; warna kuning itu kemudian menjadi kecokelatan. Baunya tidak sedap, seperti fenol, tinta, yodium, atau disinfektan karbol, kadang hanya samar pada bahan segar, tetapi paling kuat saat pangkal tangkai diremas dan jauh lebih kuat saat dimasak, tidak pernah berbau adas manis. Permukaan tudung menguning dengan KOH.",
+      "sporePrint": "Cetakan spora cokelat tua gelap hingga cokelat keunguan sangat gelap. Spora elipsoid hingga bulat telur, licin dan berdinding tebal dengan apikulus kecil, cokelat dalam KOH, umumnya sekitar 4,5–6,5 × 3–5,5 µm, dengan laporan sesekali hingga panjang 7 µm.",
+      "habitat": "Jamur ini saprotrof dan tumbuh soliter, tersebar, atau lebih sering berkelompok, bergerombol, atau membentuk busur di tanah kaya nitrogen yang terganggu di halaman rumput, taman, kebun, tepi jalan, dan pagar tanaman, di tepi hutan, dan di hutan terbuka. Jamur ini berbuah dari Juni hingga November di Eropa, pada musim panas dan gugur di Amerika Utara, dan juga sepanjang musim dingin di iklim yang lebih lunak seperti California.",
+      "uses": "Jamur ini beracun dan tidak boleh dimakan. Jamur ini menyebabkan keracunan saluran cerna, biasanya tak lama setelah makan, dengan mual, kram perut, muntah, diare, berkeringat, dan wajah memerah, serta pada kasus berat pusing dan gangguan penglihatan; tingkat keparahannya bergantung pada jumlah yang dimakan. Sebagian kecil orang tampaknya memakannya tanpa gangguan berarti, tetapi hal itu tidak membuatnya aman.",
+      "confusion": "Agaricus arvensis menguning hanya lambat dan samar, merata di seluruh tubuh buah dan bukan paling kuat di pangkal tangkai, serta berbau adas manis; jamur ini dapat dimakan. Agaricus campestris tidak menguning, tidak berbau fenol, memiliki cincin tipis yang mudah hilang, dan pangkal tangkai yang meruncing, bukan menggembung; jamur ini dapat dimakan. Agaricus bitorquis memiliki daging yang memerah, bukan menguning. Agaricus moelleri dan Agaricus praeclaresquamosus termasuk kelompok yang sama yang menguning dan berbau fenol, tetapi memiliki sisik cokelat keabu-abuan hingga abu-abu gelap pada tudung, dan Agaricus pilatianus dari kelompok yang sama tidak memiliki pangkal tangkai berumbi. Agaricus xanthodermulus adalah kembaran beracun yang lebih kecil dan kurang menguning, dengan tudung cokelat keabu-abuan yang retak secara radial. Amanita verna yang mematikan dapat memiliki tudung muda bersegi, tetapi bilahnya tetap putih dan terdapat volva di pangkal tangkainya.",
+      "notes": "Pewarnaan kuning terang dan bau fenol berasal dari senyawa fenolik dan diazo, termasuk fenol, xantodermin, dan agarikon, yang teroksidasi menjadi bentuk kuning ketika jaringan rusak atau dimasak. Di mana pun jamur ini umum, jamur ini termasuk penyebab keracunan jamur yang paling sering: pada 2022 jamur ini menduduki peringkat pertama dalam daftar keracunan jamur di Prancis menurut jumlah kasus, dan di negara bagian Victoria, Australia, tempat jamur ini terintroduksi dan di kota-kota sering lebih umum daripada jamur yang dapat dimakan, jamur ini menyebabkan sebagian besar keracunan akibat jamur liar."
+    },
+    "ar": {
+      "description": "فطر أبيض متوسط إلى كبير الحجم ذو حلقة، ينمو في المروج والحدائق العامة والبساتين والأسيجة النباتية والغابات المفتوحة، وكثيراً ما ينمو في جماعات أو حلقات الجنيات. وهو شائع وواسع الانتشار في أوروبا وأمريكا الشمالية وغرب آسيا بما في ذلك الأناضول وإيران، وفي شمال أفريقيا وجنوبها، وقد أُدخل إلى أستراليا.",
+      "cap": "القبعة بعرض ٥–١٥ cm، وأحياناً حتى ٢٠ cm. القبعات الفتية كروية ذات قمة مسطحة، مما يمنحها مظهراً جانبياً مربعاً أو شبه منحرف مميزاً، ثم تصبح محدبة وأخيراً شبه مسطحة، ولا تكون الحافة ملتفة إلى الداخل إلا في الصغر. السطح جاف وغير لامع وأملس إلى دقيق الألياف، أبيض ناصع في البداية ثم رمادي أو بني فاتح نحو المركز، وقد تصبح القبعات المسنة دقيقة الحراشف أو تتشقق، خاصة في الطقس الدافئ الجاف. يؤدي خدش السطح أو فركه، خاصة عند الحافة، إلى تحوله إلى أصفر كرومي زاهٍ في غضون ثوانٍ، ثم يتحول الأثر لاحقاً إلى البني.",
+      "hymenium": "الصفائح حرة ومتزاحمة وغير متساوية الطول. تكون في البداية مبيضة إلى رمادية باهتة، ثم سرعان ما تصبح وردية، وأخيراً بنية شوكولاتية إلى بنية أرجوانية داكنة مع نضج الأبواغ، وفي طور البرعم يغطيها حجاب جزئي أبيض غشائي. البازيديات رباعية الأبواغ. حافة الصفائح كثيراً ما تكون متآكلة وغير واضحة الحدود، والكيسيات الحافية، عند وجودها، هراوية الشكل بنحو ٢٠–٣٠ × ٤–٨ µm، ولم يُعثر على كيسيات جانبية.",
+      "stipe": "الساق طولها ٥–١٥ cm وسمكها ١–٣ cm، أسطوانية وكثيراً ما تكون منحنية، ملساء حريرية بيضاء، ذات قاعدة منتفخة بصلية واضحة. تحمل حلقة بيضاء كبيرة دائمة متدلية ذات حافة خارجية سميكة مزدوجة، زغبية من الأسفل. يصفرّ سطح الساق أيضاً عند اللمس، وعند شق قاعدة الساق طولياً يتحول لحمها فوراً إلى أصفر كرومي شديد.",
+      "flesh": "اللحم أبيض ورقيق نوعاً ما في القبعة. يصفرّ فوراً تحت جلد القبعة وعند القطع أو الفرك، وبأشد درجة في قاعدة الساق حيث يبقى أصفر زاهياً حتى في الأجسام الثمرية المسنة، ثم يتحول الأصفر لاحقاً إلى بني. الرائحة كريهة، تشبه الفينول أو الحبر أو اليود أو مطهر الكربول، وقد تكون خفيفة فقط في العينات الطازجة، لكنها أقوى ما تكون عند سحق قاعدة الساق وأشد بكثير عند الطهي، ولا تشبه اليانسون أبداً. يصفرّ سطح القبعة مع KOH.",
+      "sporePrint": "طبعة الأبواغ بنية شوكولاتية داكنة إلى بنية أرجوانية داكنة جداً. الأبواغ إهليلجية إلى بيضوية، ملساء سميكة الجدار ذات زائدة قمية صغيرة، بنية في KOH، وأبعادها غالباً نحو ٤٫٥–٦٫٥ × ٣–٥٫٥ µm، مع تقارير عرضية بطول يصل إلى ٧ µm.",
+      "habitat": "فطر رمي، ينمو منفرداً أو متفرقاً أو في الغالب في مجموعات أو جماعات أو أقواس على تربة غنية بالنيتروجين ومضطربة في المروج والحدائق العامة والبساتين وجوانب الطرق والأسيجة النباتية، وعلى أطراف الغابات وفي الغابات المفتوحة. يثمر من يونيو إلى نوفمبر في أوروبا، وفي الصيف والخريف في أمريكا الشمالية، وطوال الشتاء أيضاً في المناخات المعتدلة مثل كاليفورنيا.",
+      "uses": "هو سام ويجب عدم أكله. يسبب تسمماً هضمياً، عادة بعد الوجبة بوقت قصير، مع غثيان وتقلصات في المعدة وقيء وإسهال وتعرق واحمرار، وفي الحالات الشديدة دوار واضطرابات في الرؤية، وتتوقف الشدة على الكمية المأكولة. يبدو أن أقلية من الناس تأكله دون آثار ملحوظة، لكن ذلك لا يجعله آمناً.",
+      "confusion": "يصفرّ Agaricus arvensis ببطء وبشكل خفيف فقط، وبالتساوي على كامل الجسم الثمري لا بأشد درجة في قاعدة الساق، وله رائحة اليانسون، وهو صالح للأكل. لا يصفرّ Agaricus campestris وليست له رائحة فينولية، وله حلقة رقيقة زائلة وقاعدة ساق مستدقة لا بصلية، وهو صالح للأكل. أما Agaricus bitorquis فلحمه يحمرّ ولا يصفرّ. وينتمي Agaricus moelleri وAgaricus praeclaresquamosus إلى المجموعة نفسها المصفرّة ذات رائحة الفينول، لكن على قبعتيهما حراشف رمادية بنية إلى رمادية داكنة، ويفتقر Agaricus pilatianus من المجموعة نفسها إلى قاعدة ساق بصلية. وAgaricus xanthodermulus شبيه سام أصغر وأقل اصفراراً، ذو قبعة رمادية بنية متشققة شعاعياً. وقد تكون لـAmanita verna القاتلة قبعة فتية مربعة الشكل، لكنها تحتفظ بصفائح بيضاء ولها جراب عند قاعدة الساق.",
+      "notes": "ينتج الاصفرار الزاهي والرائحة الفينولية عن مركبات فينولية ومركبات ديازو، منها الفينول والزانثودرمين والأغاريكون، التي تتأكسد إلى أشكال صفراء عند تلف النسيج أو طهيه. وهو من أكثر أسباب التسمم بالفطر شيوعاً حيثما كان شائعاً: ففي عام ٢٠٢٢ تصدّر في فرنسا قائمة حالات التسمم بالفطر من حيث عدد الحالات، وفي ولاية فيكتوريا بأستراليا، حيث أُدخل وكثيراً ما يكون في المدن أكثر شيوعاً من الفطر الصالح للأكل، يسبب معظم حالات التسمم بالفطر البري."
+    },
+    "fa": {
+      "description": "قارچی سفید، متوسط تا بزرگ و حلقه‌دار که در چمنزارها، پارک‌ها، باغ‌ها، پرچین‌ها و جنگل‌های باز می‌روید و اغلب دسته‌جمعی یا به شکل حلقهٔ پریان ظاهر می‌شود. این قارچ در اروپا، آمریکای شمالی، غرب آسیا از جمله آناتولی و ایران، و شمال و جنوب آفریقا رایج و گسترده است و به استرالیا نیز وارد شده است.",
+      "cap": "کلاهک ۵–۱۵ cm پهنا دارد و گاهی تا ۲۰ cm می‌رسد. کلاهک‌های جوان کروی با سر تخت‌اند و نیم‌رخی مشخصاً چهارگوش یا ذوزنقه‌ای دارند، سپس محدب و سرانجام تقریباً تخت می‌شوند و لبه فقط در جوانی به درون پیچیده است. سطح خشک، مات و صاف تا ریزرشته‌ای است، نخست سفید خالص و بعدها به‌سوی مرکز خاکستری یا قهوه‌ای روشن؛ کلاهک‌های پیر ممکن است ریزفلس‌دار شوند یا ترک بخورند، به‌ویژه در هوای گرم و خشک. خراشیدن یا مالیدن سطح، به‌ویژه در لبه، آن را در چند ثانیه به زرد کرومی درخشان درمی‌آورد و این لکه بعدها قهوه‌ای می‌شود.",
+      "hymenium": "تیغه‌ها آزاد، فشرده و با طول نابرابرند. نخست سفیدفام تا خاکستری کم‌رنگ‌اند، به‌زودی صورتی و سرانجام با رسیدن هاگ‌ها قهوه‌ای شکلاتی تا قهوه‌ای ارغوانی تیره می‌شوند؛ در مرحلهٔ غنچه پردهٔ جزئی سفید و غشایی آن‌ها را می‌پوشاند. بازیدیوم‌ها چهارهاگی‌اند. لبهٔ تیغه‌ها اغلب فرسوده و نامشخص است؛ سیستیدیوم‌های لبه، اگر یافت شوند، گرزی‌شکل و حدود ۲۰–۳۰ × ۴–۸ µm هستند و سیستیدیوم سطحی یافت نشده است.",
+      "stipe": "پایه ۵–۱۵ cm طول و ۱–۳ cm قطر دارد، استوانه‌ای و اغلب خمیده، صاف و ابریشمی و سفید است و قاعده‌ای آشکارا متورم و پیازی دارد. حلقه‌ای سفید، بزرگ، پایدار و آویخته با لبهٔ بیرونی ضخیم و دولایه دارد که زیر آن کرکی است. سطح پایه نیز با لمس زرد می‌شود و هنگامی که قاعدهٔ پایه از درازا بریده شود، گوشت آن بی‌درنگ زرد کرومی شدید می‌شود.",
+      "flesh": "گوشت سفید و در کلاهک نسبتاً نازک است. بلافاصله زیر پوست کلاهک و هنگام بریدن یا مالیدن زرد می‌شود، با بیشترین شدت در قاعدهٔ پایه، جایی که حتی در اندام‌های بارده پیر زرد درخشان می‌ماند؛ این زردی بعدها مایل به قهوه‌ای می‌شود. بوی آن ناخوشایند و شبیه فنل، جوهر، ید یا ضدعفونی‌کنندهٔ کربولیک است؛ در نمونه‌های تازه گاهی فقط ضعیف است، ولی هنگام له کردن قاعدهٔ پایه بیشترین شدت را دارد و هنگام پختن بسیار قوی‌تر می‌شود، و هرگز بوی بادیان ندارد. سطح کلاهک با KOH زرد می‌شود.",
+      "sporePrint": "هاگ‌نگاره قهوه‌ای شکلاتی تیره تا قهوه‌ای ارغوانی بسیار تیره است. هاگ‌ها بیضوی تا تخم‌مرغی، صاف و ضخیم‌دیواره با زائدهٔ نوک کوچک، در KOH قهوه‌ای و بیشتر حدود ۴٫۵–۶٫۵ × ۳–۵٫۵ µm هستند و گاهی طول تا ۷ µm نیز گزارش شده است.",
+      "habitat": "این قارچ گندرو است و به‌صورت تکی، پراکنده یا بیشتر گروهی، دسته‌ای یا کمانی بر خاک‌های غنی از نیتروژن و برهم‌خورده در چمنزارها، پارک‌ها، باغ‌ها، کنار جاده‌ها و پرچین‌ها، در حاشیهٔ جنگل‌ها و در جنگل‌های باز می‌روید. در اروپا از ژوئن تا نوامبر، در آمریکای شمالی در تابستان و پاییز، و در اقلیم‌های معتدل مانند کالیفرنیا در سراسر زمستان نیز اندام بارده تشکیل می‌دهد.",
+      "uses": "این قارچ سمی است و نباید خورده شود. مسمومیت گوارشی ایجاد می‌کند که معمولاً کمی پس از غذا با تهوع، دل‌پیچه، استفراغ، اسهال، تعریق و برافروختگی همراه است و در موارد شدید سرگیجه و اختلال بینایی نیز رخ می‌دهد؛ شدت آن به مقدار خورده‌شده بستگی دارد. به نظر می‌رسد اقلیتی از مردم آن را بدون عارضهٔ محسوس می‌خورند، اما این آن را بی‌خطر نمی‌کند.",
+      "confusion": "Agaricus arvensis فقط آهسته و کم‌رنگ زرد می‌شود، آن هم یکنواخت در تمام اندام بارده و نه با بیشترین شدت در قاعدهٔ پایه، و بوی بادیان دارد؛ خوراکی است. Agaricus campestris زرد نمی‌شود، بوی فنلی ندارد، حلقه‌ای نازک و زودگذر و قاعدهٔ پایه‌ای باریک‌شونده و نه پیازی دارد؛ خوراکی است. گوشت Agaricus bitorquis به‌جای زرد شدن سرخ می‌شود. Agaricus moelleri و Agaricus praeclaresquamosus به همان گروه زردشونده و فنل‌بو تعلق دارند، اما روی کلاهکشان فلس‌های خاکستری‌قهوه‌ای تا خاکستری تیره دارند، و Agaricus pilatianus از همان گروه قاعدهٔ پایهٔ پیازی ندارد. Agaricus xanthodermulus همتای سمی کوچک‌تر و کم‌زردشونده‌ای با کلاهک خاکستری‌قهوه‌ای و ترک‌خوردهٔ شعاعی است. Amanita verna کشنده ممکن است کلاهک جوان چهارگوشی داشته باشد، اما تیغه‌هایش سفید می‌ماند و در قاعدهٔ پایه ولوا دارد.",
+      "notes": "زرد شدن درخشان و بوی فنلی از ترکیب‌های فنلی و دیازو، از جمله فنل، زانتودرمین و آگاریکون، ناشی می‌شود که هنگام آسیب دیدن یا پختن بافت به شکل‌های زرد اکسید می‌شوند. هر جا که رایج باشد، از شایع‌ترین علل مسمومیت با قارچ است: در سال ۲۰۲۲ در فرانسه از نظر شمار موارد در صدر فهرست مسمومیت‌های قارچی بود، و در ایالت ویکتوریای استرالیا، که به آن‌جا وارد شده و در شهرها اغلب از قارچ‌های خوراکی رایج‌تر است، بیشتر مسمومیت‌ها با قارچ‌های وحشی را سبب می‌شود."
+    },
+    "he": {
+      "description": "פטרייה לבנה בינונית עד גדולה בעלת טבעת, של מדשאות, פארקים, גינות, משוכות ויערות פתוחים, הצומחת לעיתים קרובות בקבוצות או במעגלי פיות. היא נפוצה ובעלת תפוצה רחבה באירופה, בצפון אמריקה, במערב אסיה כולל אנטוליה ואיראן, ובצפון אפריקה ובדרומה, והוכנסה לאוסטרליה.",
+      "cap": "הכובע ברוחב 5–15 cm, לעיתים עד 20 cm. כובעים צעירים כדוריים בעלי פסגה שטוחה, המעניקה להם פרופיל מרובע או טרפזי אופייני; לאחר מכן הם נעשים קמורים ולבסוף כמעט שטוחים, והשוליים מגולגלים פנימה רק בצעירות. פני השטח יבשים, עמומים וחלקים עד סיביים דקות, תחילה לבנים טהורים ומאוחר יותר אפרפרים או חומים בהירים לכיוון המרכז; כובעים ישנים עשויים להפוך לקשקשיים דקות או להיסדק, במיוחד במזג אוויר חם ויבש. גירוד או שפשוף של פני השטח, במיוחד בשוליים, צובע אותם בתוך שניות בצהוב כרום בוהק; הכתם מתחלף אחר כך לחום.",
+      "hymenium": "הדפים חופשיים, צפופים ושונים באורכם. תחילה הם לבנבנים עד אפורים חיוורים, עד מהרה ורודים ולבסוף חומים כשוקולד עד חומים סגלגלים כהים עם הבשלת הנבגים; בשלב הניצן מכסה אותם צעיף חלקי לבן וקרומי. הבסידיות נושאות ארבעה נבגים. שפת הדף לעיתים קרובות מכורסמת ולא מוגדרת היטב; ציסטידות השפה, כאשר הן נמצאות, אלתיות, כ־20–30 × 4–8 µm, וציסטידות צד לא נמצאו.",
+      "stipe": "הרגל באורך 5–15 cm ובעובי 1–3 cm, גלילית ולעיתים קרובות מעוקלת, חלקה ומשיית, לבנה, עם בסיס נפוח ופקעתי בבירור. היא נושאת טבעת לבנה גדולה, קבועה ותלויה, בעלת שפה חיצונית עבה וכפולה, פתיתית בצידה התחתון. גם פני הרגל מצהיבים במגע, וכאשר חותכים את בסיס הרגל לאורכו, הבשר הופך מיד לצהוב כרום עז.",
+      "flesh": "הבשר לבן ודק למדי בכובע. הוא מצהיב מיד מתחת לעור הכובע וכאשר חותכים או משפשפים אותו, בעוצמה הרבה ביותר בבסיס הרגל, שם הוא נשאר צהוב בוהק גם בגופי פרי ישנים; הצהוב מתחלף אחר כך לחום. הריח לא נעים, של פנול, דיו, יוד או חומר חיטוי קרבולי, לעיתים חלש בלבד בחומר טרי, אך חזק ביותר כאשר מועכים את בסיס הרגל וחזק הרבה יותר בבישול, ולעולם לא של אניס. פני הכובע מצהיבים עם KOH.",
+      "sporePrint": "אבקת הנבגים חומה כשוקולד כהה עד חומה סגלגלה כהה מאוד. הנבגים אליפסואידיים עד ביציים, חלקים ועבי דופן עם בליטת קצה קטנה, חומים ב־KOH, לרוב כ־4.5–6.5 × 3–5.5 µm, עם דיווחים מזדמנים על אורך של עד 7 µm.",
+      "habitat": "היא ספרוטרופית וצומחת בודדת, מפוזרת או לעיתים קרובות יותר בקבוצות, בהמונים או בקשתות על קרקע מופרת ועשירה בחנקן במדשאות, בפארקים, בגינות, בשולי דרכים ובמשוכות, בשולי יערות וביערות פתוחים. היא מניבה מיוני עד נובמבר באירופה, בקיץ ובסתיו בצפון אמריקה, וגם לאורך החורף באקלים מתון כמו בקליפורניה.",
+      "uses": "היא רעילה ואסור לאכול אותה. היא גורמת להרעלה במערכת העיכול, בדרך כלל זמן קצר לאחר הארוחה, עם בחילה, התכווצויות בקיבה, הקאות, שלשולים, הזעה והסמקה, ובמקרים קשים סחרחורת והפרעות ראייה; החומרה תלויה בכמות שנאכלה. נראה כי מיעוט מהאנשים אוכלים אותה ללא השפעות ניכרות, אך הדבר אינו הופך אותה לבטוחה.",
+      "confusion": "Agaricus arvensis מצהיב רק לאט ובחולשה, באופן אחיד על פני כל גוף הפרי ולא בעוצמה הרבה ביותר בבסיס הרגל, וריחו כאניס; הוא מאכל. Agaricus campestris אינו מצהיב, אין לו ריח פנולי, יש לו טבעת דקה וחולפת ובסיס רגל מתחדד ולא פקעתי; הוא מאכל. לבשרו של Agaricus bitorquis יש נטייה להאדים ולא להצהיב. Agaricus moelleri ו־Agaricus praeclaresquamosus שייכים לאותה קבוצה מצהיבה בעלת ריח פנול, אך יש להם קשקשים חומים־אפורים עד אפורים כהים על הכובע, ול־Agaricus pilatianus מאותה קבוצה אין בסיס רגל פקעתי. Agaricus xanthodermulus הוא כפיל רעיל קטן יותר ומצהיב פחות, עם כובע חום־אפור סדוק בקרינה. ל־Amanita verna הקטלנית עשוי להיות כובע צעיר מרובע, אך דפיה נשארים לבנים ויש לה נדן בבסיס הרגל.",
+      "notes": "ההצהבה הבוהקת והריח הפנולי נובעים מתרכובות פנוליות ותרכובות דיאזו, ביניהן פנול, קסנתודרמין ואגריקון, המתחמצנות לצורות צהובות כאשר הרקמה ניזוקה או מבושלת. בכל מקום שבו היא נפוצה, היא מהגורמים השכיחים ביותר להרעלות פטריות: בשנת 2022 עמדה בצרפת בראש רשימת הרעלות הפטריות לפי מספר המקרים, ובמדינת ויקטוריה שבאוסטרליה, שאליה הוכנסה ושבה היא נפוצה לעיתים קרובות בערים יותר מפטריות מאכל, היא גורמת לרוב ההרעלות מפטריות בר."
+    },
+    "hi": {
+      "description": "लॉन, पार्कों, बगीचों, बाड़ों और खुले वनों का एक मध्यम से बड़ा, सफेद, वलययुक्त मशरूम, जो अक्सर झुंडों या परी-वलयों में उगता है। यह यूरोप, उत्तरी अमेरिका, अनातोलिया और ईरान सहित पश्चिमी एशिया, और उत्तरी व दक्षिणी अफ्रीका में आम और व्यापक रूप से फैला है, और ऑस्ट्रेलिया में इसे बाहर से लाया गया है।",
+      "cap": "टोपी 5–15 cm चौड़ी होती है, कभी-कभी 20 cm तक। युवा टोपियाँ गोलाकार और ऊपर से चपटी होती हैं, जिससे उनका पार्श्व रूप विशिष्ट रूप से चौकोर या समलंबाकार दिखता है; बाद में वे उत्तल और अंततः लगभग सपाट हो जाती हैं, और किनारा केवल युवावस्था में भीतर मुड़ा रहता है। सतह सूखी, मैट और चिकनी से बारीक रेशेदार होती है, पहले शुद्ध सफेद और बाद में केंद्र की ओर धूसर या हल्की भूरी; पुरानी टोपियाँ, विशेषकर गर्म और शुष्क मौसम में, बारीक शल्की हो सकती हैं या फट सकती हैं। सतह को, विशेषकर किनारे पर, खरोंचने या रगड़ने पर वह कुछ ही सेकंड में चमकीली क्रोम पीली हो जाती है; यह धब्बा बाद में भूरा पड़ जाता है।",
+      "hymenium": "गलफड़े मुक्त, घने और असमान लंबाई के होते हैं। वे पहले सफेदी लिए से हल्के धूसर, जल्द ही गुलाबी और बीजाणुओं के पकने के साथ अंततः चॉकलेटी भूरे से गहरे बैंगनी-भूरे हो जाते हैं; कली अवस्था में उन्हें एक झिल्लीदार सफेद आंशिक आवरण ढके रहता है। बेसिडिया चार-बीजाणु वाले होते हैं। गलफड़े का किनारा अक्सर घिसा हुआ और अस्पष्ट होता है; किनारी सिस्टिडिया, जब मिलते हैं, गदाकार और लगभग 20–30 × 4–8 µm होते हैं, और फलक सिस्टिडिया नहीं पाए गए हैं।",
+      "stipe": "डंठल 5–15 cm लंबा और 1–3 cm मोटा, बेलनाकार और अक्सर मुड़ा हुआ, चिकना और रेशमी, सफेद होता है, जिसका आधार स्पष्ट रूप से फूला हुआ और कंदाकार होता है। इस पर एक बड़ा, स्थायी, लटकता सफेद वलय होता है, जिसका बाहरी किनारा मोटा और दोहरा तथा निचली ओर रोएँदार होता है। डंठल की सतह भी छूने पर पीली पड़ती है, और डंठल के आधार को लंबाई में काटने पर उसका गूदा तुरंत गहरा क्रोम पीला हो जाता है।",
+      "flesh": "गूदा सफेद और टोपी में काफी पतला होता है। यह टोपी की त्वचा के ठीक नीचे और काटने या रगड़ने पर तुरंत पीला पड़ता है, सबसे अधिक डंठल के आधार में, जहाँ यह पुराने फलकायों में भी चमकीला पीला बना रहता है; पीलापन बाद में भूरा-सा हो जाता है। गंध अप्रिय होती है, फिनोल, स्याही, आयोडीन या कार्बोलिक कीटाणुनाशक जैसी; ताज़ी सामग्री में कभी-कभी केवल हल्की, पर डंठल के आधार को कुचलने पर सबसे तेज़ और पकाने पर कहीं अधिक तीव्र, कभी सौंफ जैसी नहीं। टोपी की सतह KOH से पीली हो जाती है।",
+      "sporePrint": "बीजाणु छाप गहरी चॉकलेटी भूरी से बहुत गहरी बैंगनी-भूरी होती है। बीजाणु दीर्घवृत्ताकार से अंडाकार, चिकने और मोटी भित्ति वाले, एक छोटे शीर्षांकुर सहित होते हैं, KOH में भूरे, अधिकतर लगभग 4.5–6.5 × 3–5.5 µm, और कभी-कभी 7 µm लंबाई तक दर्ज किए गए हैं।",
+      "habitat": "यह मृतजीवी है और नाइट्रोजन-समृद्ध, अशांत मिट्टी पर लॉन, पार्कों, बगीचों, सड़क किनारों और बाड़ों में, वनों के किनारों पर और खुले वनों में अकेले, बिखरे हुए या अधिकतर समूहों, झुंडों या चापों में उगता है। यह यूरोप में जून से नवंबर तक, उत्तरी अमेरिका में गर्मी और पतझड़ में, और कैलिफ़ोर्निया जैसी सौम्य जलवायु में पूरी सर्दी भी फलन करता है।",
+      "uses": "यह विषैला है और इसे नहीं खाना चाहिए। यह जठरांत्र विषाक्तता पैदा करता है, आमतौर पर भोजन के कुछ ही समय बाद, जिसमें मतली, पेट में ऐंठन, उल्टी, दस्त, पसीना और चेहरे की लाली होती है, और गंभीर मामलों में चक्कर और दृष्टि-विकार भी; गंभीरता खाई गई मात्रा पर निर्भर करती है। कुछ लोग इसे बिना उल्लेखनीय दुष्प्रभाव के खाते प्रतीत होते हैं, पर इससे यह सुरक्षित नहीं हो जाता।",
+      "confusion": "Agaricus arvensis केवल धीरे-धीरे और हल्का पीला पड़ता है, डंठल के आधार में सबसे अधिक नहीं बल्कि पूरे फलकाय पर समान रूप से, और इसमें सौंफ की गंध होती है; यह खाने योग्य है। Agaricus campestris पीला नहीं पड़ता, इसमें फिनोल जैसी गंध नहीं होती, इसका वलय पतला और क्षणिक होता है और डंठल का आधार कंदाकार नहीं बल्कि पतला होता जाता है; यह खाने योग्य है। Agaricus bitorquis का गूदा पीला नहीं बल्कि लाल पड़ता है। Agaricus moelleri और Agaricus praeclaresquamosus उसी पीले पड़ने वाले, फिनोल-गंधी समूह के हैं, पर उनकी टोपी पर धूसर-भूरे से गहरे धूसर शल्क होते हैं, और उसी समूह के Agaricus pilatianus में कंदाकार डंठल-आधार नहीं होता। Agaricus xanthodermulus एक छोटा, कम पीला पड़ने वाला विषैला हमशक्ल है, जिसकी धूसर-भूरी टोपी अरीय रूप से फटी होती है। घातक Amanita verna की युवा टोपी चौकोर हो सकती है, पर उसके गलफड़े सफेद बने रहते हैं और डंठल के आधार पर वोल्वा होता है।",
+      "notes": "चमकीला पीलापन और फिनोल जैसी गंध फिनोलिक और डायज़ो यौगिकों से आती है, जिनमें फिनोल, ज़ैंथोडर्मिन और एगेरिकोन शामिल हैं, जो ऊतक के क्षतिग्रस्त होने या पकाए जाने पर पीले रूपों में ऑक्सीकृत हो जाते हैं। जहाँ भी यह आम है, वहाँ यह मशरूम विषाक्तता के सबसे लगातार कारणों में से एक है: 2022 में यह फ़्रांस में मामलों की संख्या के आधार पर मशरूम विषाक्तता की सूची में सबसे ऊपर था, और ऑस्ट्रेलिया के विक्टोरिया राज्य में, जहाँ इसे बाहर से लाया गया है और जहाँ शहरों में यह अक्सर खाने योग्य मशरूमों से अधिक आम है, यह जंगली कवकों से होने वाली अधिकांश विषाक्तताओं का कारण बनता है।"
+    },
+    "ja": {
+      "description": "芝生、公園、庭、生け垣、明るい林に生える、中型から大型の白いつばのあるきのこで、しばしば群生したり菌輪を作ったりする。ヨーロッパ、北アメリカ、アナトリアとイランを含む西アジア、アフリカ北部と南部に普通で広く分布し、オーストラリアには持ち込まれた。",
+      "cap": "傘は径5–15 cm、ときに20 cmに達する。若い傘は頂部が平らな球形で、特徴的な角ばった、あるいは台形の輪郭を示し、のちにまんじゅう形からほぼ平らに開く。縁は若いときだけ内側に巻く。表面は乾いてつやがなく、平滑から細かい繊維状で、初め純白、のちに中央部が灰色がかるか淡褐色になる。古い傘は、特に暖かく乾いた天候では細かい鱗片状になったりひび割れたりする。表面、特に縁を引っかいたりこすったりすると、数秒以内に鮮やかなクロムイエローに変わり、変色部はのちに褐色になる。",
+      "hymenium": "ひだは離生し、密で、長短がある。初め白っぽいか淡灰色、まもなくピンク色になり、胞子が熟すと最後はチョコレート褐色から暗紫褐色になる。幼菌の段階では膜質の白い部分的被膜に覆われる。担子器は4胞子性。ひだの縁はしばしば欠けて不明瞭で、縁シスチジアは見られる場合こん棒形で約20–30 × 4–8 µm、側シスチジアは見つかっていない。",
+      "stipe": "柄は長さ5–15 cm、太さ1–3 cm、円柱形でしばしば曲がり、平滑で絹状、白色で、基部ははっきりと膨らんで球根状になる。大きく、消えにくい、垂れ下がった白いつばがあり、その外縁は厚い二重で、下面は綿くず状である。柄の表面も触れると黄変し、柄の基部を縦に切ると肉はただちに強いクロムイエローに変わる。",
+      "flesh": "肉は白く、傘では比較的薄い。傘の表皮のすぐ下と、切ったりこすったりした部分がただちに黄変し、最も強いのは柄の基部で、古い子実体でも鮮やかな黄色のままである。黄色はのちに褐色を帯びる。においは不快で、フェノール、インク、ヨード、または石炭酸系消毒薬のようであり、新鮮なものでは弱いこともあるが、柄の基部をつぶすと最も強く、加熱するとはるかに強くなり、アニスのにおいは決してしない。傘の表面はKOHで黄色になる。",
+      "sporePrint": "胞子紋は暗いチョコレート褐色からごく暗い紫褐色。胞子は楕円形から卵形、平滑で厚壁、小さな付着点突起があり、KOH中で褐色、大きさは多くが約4.5–6.5 × 3–5.5 µmで、まれに長さ7 µmまでの報告がある。",
+      "habitat": "腐生性で、窒素に富む攪乱された土壌の芝生、公園、庭、道端、生け垣、林縁、明るい林に、単生、散生、またはより多くは群生し、群れや弧を描いて発生する。ヨーロッパでは6月から11月、北アメリカでは夏から秋に発生し、カリフォルニアのような温暖な気候では冬の間も発生する。",
+      "uses": "有毒で、食べてはならない。通常は食後まもなく、吐き気、胃けいれん、嘔吐、下痢、発汗、顔面紅潮を伴う胃腸系の中毒を起こし、重い場合にはめまいや視覚障害も生じる。重さは食べた量による。少数の人は目立った害なく食べられるようだが、それで安全になるわけではない。",
+      "confusion": "Agaricus arvensisはゆっくりと弱く、柄の基部で最も強くではなく子実体全体に均一に黄変し、アニスのにおいがある。食用。Agaricus campestrisは黄変せず、フェノール臭がなく、つばは薄く消えやすく、柄の基部は球根状ではなく細まる。食用。Agaricus bitorquisは肉が黄変ではなく赤変する。Agaricus moelleriとAgaricus praeclaresquamosusは同じ黄変しフェノール臭のあるグループに属するが、傘に灰褐色から暗灰色の鱗片があり、同じグループのAgaricus pilatianusは柄の基部が球根状にならない。Agaricus xanthodermulusはより小型で黄変が弱い有毒のそっくりさんで、灰褐色の傘が放射状にひび割れる。猛毒のAmanita vernaは若い傘が角ばることがあるが、ひだは白いままで、柄の基部につぼがある。",
+      "notes": "鮮やかな黄変とフェノール臭は、フェノール、キサントデルミン、アガリコンなどのフェノール性化合物とジアゾ化合物によるもので、組織が傷ついたり加熱されたりすると酸化して黄色い形になる。普通に見られる地域では、きのこ中毒の最も多い原因の一つである。2022年にはフランスで件数によるきのこ中毒の一覧の首位となり、持ち込まれて都市部では食用きのこよりも多いことが多いオーストラリアのビクトリア州では、野生きのこによる中毒の大半を引き起こしている。"
+    },
+    "ko": {
+      "description": "잔디밭, 공원, 정원, 산울타리, 트인 숲에 나는 중형에서 대형의 흰 턱받이 버섯으로, 흔히 무리 지어 나거나 균륜을 이룬다. 유럽, 북아메리카, 아나톨리아와 이란을 포함한 서아시아, 아프리카 북부와 남부에 흔하고 넓게 분포하며, 오스트레일리아에는 유입되었다.",
+      "cap": "갓은 지름 5–15 cm이고 때로 20 cm까지 이른다. 어린 갓은 윗면이 납작한 구형이어서 특징적인 각진 모양이나 사다리꼴 윤곽을 보이고, 이후 둥근 산 모양을 거쳐 마침내 거의 편평해지며, 가장자리는 어릴 때만 안쪽으로 말린다. 표면은 건조하고 광택이 없으며 매끈하거나 미세한 섬유상이고, 처음에는 순백색이다가 나중에 중앙 쪽이 회색빛 또는 연한 갈색이 된다. 오래된 갓은 특히 따뜻하고 건조한 날씨에 미세한 비늘 모양이 되거나 갈라질 수 있다. 표면, 특히 가장자리를 긁거나 문지르면 몇 초 안에 선명한 크롬 노란색으로 변하고, 변색 부위는 나중에 갈색이 된다.",
+      "hymenium": "주름살은 떨어진주름살이며 빽빽하고 길이가 고르지 않다. 처음에는 흰색에서 연한 회색이다가 곧 분홍색이 되고, 포자가 익으면 마침내 초콜릿 갈색에서 짙은 자갈색이 된다. 어린 단계에서는 막질의 흰 내피막에 덮여 있다. 담자기는 4포자형이다. 주름살 가장자리는 흔히 닳은 듯하고 경계가 불분명하며, 연낭상체는 발견될 경우 곤봉형으로 약 20–30 × 4–8 µm이고, 측낭상체는 발견되지 않았다.",
+      "stipe": "대는 길이 5–15 cm, 두께 1–3 cm로, 원통형이며 흔히 굽고, 매끈하며 비단 같은 광택이 있는 흰색이고, 밑동은 뚜렷하게 부풀어 구근 모양이다. 크고 오래 남으며 아래로 늘어진 흰 턱받이가 있는데, 바깥 가장자리는 두껍고 이중이며 아랫면은 솜털 모양이다. 대의 표면도 만지면 노랗게 변하고, 대 밑동을 세로로 자르면 살이 즉시 짙은 크롬 노란색으로 변한다.",
+      "flesh": "살은 흰색이고 갓에서는 다소 얇다. 갓 표피 바로 아래와 자르거나 문지른 곳이 즉시 노랗게 변하는데, 대 밑동에서 가장 강하며, 그곳은 오래된 자실체에서도 선명한 노란색을 유지한다. 노란색은 나중에 갈색빛으로 바뀐다. 냄새는 불쾌하여 페놀, 잉크, 요오드 또는 석탄산 소독약 같으며, 신선한 것에서는 약할 때도 있지만 대 밑동을 으깰 때 가장 강하고 조리하면 훨씬 강해지며, 아니스 냄새는 절대 나지 않는다. 갓 표면은 KOH에 노랗게 변한다.",
+      "sporePrint": "포자문은 짙은 초콜릿 갈색에서 매우 짙은 자갈색이다. 포자는 타원형에서 난형이며 매끈하고 벽이 두껍고 작은 돌기가 있으며, KOH에서 갈색이고 대개 약 4.5–6.5 × 3–5.5 µm이며, 드물게 길이 7 µm까지 보고된다.",
+      "habitat": "부생성이며, 질소가 풍부하고 교란된 토양의 잔디밭, 공원, 정원, 길가, 산울타리, 숲 가장자리와 트인 숲에 홀로, 흩어져, 또는 더 흔히 무리를 지어 떼나 호를 이루며 난다. 유럽에서는 6월부터 11월까지, 북아메리카에서는 여름과 가을에 발생하며, 캘리포니아처럼 온화한 기후에서는 겨울 내내 발생하기도 한다.",
+      "uses": "독버섯이므로 먹어서는 안 된다. 보통 식사 후 얼마 지나지 않아 메스꺼움, 위경련, 구토, 설사, 발한, 홍조를 동반하는 위장관 중독을 일으키며, 심한 경우 어지럼증과 시각 장애도 나타난다. 중증도는 먹은 양에 따라 다르다. 소수의 사람은 뚜렷한 해 없이 먹는 것으로 보이지만, 그렇다고 안전한 것은 아니다.",
+      "confusion": "Agaricus arvensis는 천천히 약하게, 대 밑동에서 가장 강하게가 아니라 자실체 전체에 고르게 노랗게 변하며, 아니스 냄새가 난다. 식용이다. Agaricus campestris는 노랗게 변하지 않고 페놀 냄새가 없으며, 턱받이는 얇고 쉽게 사라지고, 대 밑동은 구근 모양이 아니라 가늘어진다. 식용이다. Agaricus bitorquis는 살이 노랗게가 아니라 붉게 변한다. Agaricus moelleri와 Agaricus praeclaresquamosus는 노랗게 변하고 페놀 냄새가 나는 같은 무리에 속하지만 갓에 회갈색에서 짙은 회색의 비늘이 있으며, 같은 무리의 Agaricus pilatianus는 대 밑동이 구근 모양이 아니다. Agaricus xanthodermulus는 더 작고 덜 노랗게 변하는 유독한 닮은꼴로, 회갈색 갓이 방사상으로 갈라진다. 맹독성 Amanita verna는 어린 갓이 각질 수 있으나 주름살이 흰색으로 남고 대 밑동에 대주머니가 있다.",
+      "notes": "선명한 노란 변색과 페놀 냄새는 페놀, 크산토데르민, 아가리콘 등 페놀성 화합물과 디아조 화합물에서 비롯되며, 이들은 조직이 손상되거나 가열되면 노란 형태로 산화된다. 흔한 곳이면 어디서나 버섯 중독의 가장 잦은 원인 중 하나이다. 2022년 프랑스에서는 사례 수 기준으로 버섯 중독 목록의 1위를 차지했고, 유입되어 도시에서는 흔히 식용 버섯보다 더 흔한 오스트레일리아 빅토리아주에서는 야생 버섯 중독의 대부분을 일으킨다."
+    },
+    "zh": {
+      "description": "一種中型至大型、白色、具菌環的蘑菇，生於草坪、公園、庭園、樹籬與疏林中，常成群或形成蘑菇圈。它在歐洲、北美洲、包括安那托利亞與伊朗在內的西亞，以及非洲北部與南部常見且分布廣泛，並已被引入澳洲。",
+      "cap": "菌蓋寬5–15 cm，偶可達20 cm。幼時菌蓋呈頂部扁平的球形，使其側面輪廓呈特有的方形或梯形，之後變為凸形，最後近平展；邊緣僅於幼時內捲。表面乾燥、無光澤，平滑至具細纖毛，初為純白色，後中央帶灰色或淺褐色；老熟菌蓋可變為細鱗片狀或龜裂，尤其在溫暖乾燥的天氣中。刮擦或摩擦表面，尤其是邊緣，數秒內即變為鮮豔的鉻黃色，變色處其後轉為褐色。",
+      "hymenium": "菌褶離生、密，長短不一。初為帶白色至淡灰色，不久變為粉紅色，孢子成熟時最終為巧克力褐色至暗紫褐色；幼菌階段由膜質的白色內菌幕覆蓋。擔子具四孢。菌褶邊緣常呈齧蝕狀且界線不清；緣生囊狀體若可見則為棒狀，約20–30 × 4–8 µm，尚未發現側生囊狀體。",
+      "stipe": "菌柄長5–15 cm、粗1–3 cm，圓柱形且常彎曲，平滑而具絲光，白色，基部明顯膨大呈球莖狀。具一大型、宿存、下垂的白色菌環，外緣厚而呈雙層，下表面呈絮狀。菌柄表面觸碰後亦會變黃；將菌柄基部縱向切開時，菌肉立即變為濃烈的鉻黃色。",
+      "flesh": "菌肉白色，於菌蓋中頗薄。菌蓋表皮下方及切開或摩擦處立即變黃，以菌柄基部最為強烈，即使在老熟子實體中仍保持鮮黃色；黃色其後轉為帶褐色。氣味令人不快，似苯酚、墨水、碘或石炭酸消毒劑，新鮮標本有時僅微弱，但壓碎菌柄基部時最強，烹煮時更為濃烈，絕無茴香味。菌蓋表面遇KOH變黃。",
+      "sporePrint": "孢子印暗巧克力褐色至極暗紫褐色。孢子橢圓形至卵形，平滑、壁厚，具小尖突，於KOH中呈褐色，多約4.5–6.5 × 3–5.5 µm，偶有長達7 µm的紀錄。",
+      "habitat": "腐生，單生、散生或更常群生，成群或排成弧形，生於富含氮且受擾動的土壤上，見於草坪、公園、庭園、路旁與樹籬，以及林緣與疏林中。在歐洲於6月至11月出菇，在北美洲於夏季與秋季出菇，在加州等溫和氣候地區整個冬季亦可出菇。",
+      "uses": "有毒，不可食用。會引起腸胃型中毒，通常於餐後不久發作，症狀包括噁心、胃痙攣、嘔吐、腹瀉、出汗與潮紅，嚴重時有暈眩與視覺障礙；嚴重程度視食用量而定。少數人似乎食用後無明顯不適，但這並不代表它安全。",
+      "confusion": "Agaricus arvensis僅緩慢而微弱地變黃，且均勻遍及整個子實體，而非以菌柄基部最強，並有茴香味；可食。Agaricus campestris不變黃，無苯酚味，菌環薄而易脫落，菌柄基部漸細而非球莖狀；可食。Agaricus bitorquis的菌肉變紅而非變黃。Agaricus moelleri與Agaricus praeclaresquamosus屬於同一變黃、具苯酚味的類群，但菌蓋上有灰褐色至暗灰色鱗片；同一類群的Agaricus pilatianus則無球莖狀的菌柄基部。Agaricus xanthodermulus是較小、變黃較弱的有毒相似種，菌蓋灰褐色並呈放射狀龜裂。劇毒的Amanita verna幼時菌蓋也可能呈方形，但菌褶始終為白色，菌柄基部具菌托。",
+      "notes": "鮮明的變黃與苯酚氣味來自包括苯酚在內的酚類與重氮化合物，這些物質在組織受損或加熱時氧化為黃色形式。凡是它常見的地方，它都是蕈類中毒最常見的原因之一：2022年它在法國依病例數居蕈類中毒之首；在澳洲維多利亞州，它是外來種，在城鎮中常比可食蘑菇更常見，造成大部分野生蕈類中毒。"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t51u \"signature Gemini\"). The supplied file \"Agaricus xanthodermus.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa1.webp",
+      "author": "Johan Adler",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/533951164"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa2.webp",
+      "author": "Brenda Cameron",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/93806430"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa3.webp",
+      "author": "Duncan Brooks",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/299294079"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa4.webp",
+      "author": "Xavier HURIEZ",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/436517943"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa5.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/390647612"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/Agaricus_xanthodermus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa1.webp",
+      "author": "Johan Adler",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/533951164"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa2.webp",
+      "author": "Brenda Cameron",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/93806430"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa3.webp",
+      "author": "Duncan Brooks",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/299294079"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa4.webp",
+      "author": "Xavier HURIEZ",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/436517943"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_xanthodermus/xa5.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/390647612"
+    }
+  ],
+  "synonyms": [
+    "Pratella xanthoderma",
+    "Psalliota xanthoderma",
+    "Psalliota flavescens var. xanthoderma",
+    "Fungus xanthodermus",
+    "Psalliota flavescens",
+    "Agaricus pseudocretaceus",
+    "Agaricus xanthodermus var. lepiotoides",
+    "Psalliota xanthoderma var. lepiotoides",
+    "Psalliota xanthoderma var. grisea",
+    "Agaricus meleagris var. grisea",
+    "Agaricus xanthodermus var. griseus",
+    "Agaricus pearsonianus",
+    "Agaricus xanthodermus var. antibioticus",
+    "Psalliota xanthoderma var. meleagrioides",
+    "Agaricus xanthodermus var. meleagrioides",
+    "Agaricus xanthodermus var. croceus",
+    "Agaricus xanthodermus var. macrosporus"
+  ],
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 164,
+  "added": "2026-11-13",
+  "citation": "Bull. Soc. Bot. Fr. 23: 31 (1876)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "No enclosed-region removal; pale cap and stipe interiors stay opaque",
+    "paperPatchesExcluded": [
+      {
+        "area": 694.0,
+        "box": [
+          73,
+          1024,
+          41,
+          34
+        ],
+        "medianContrast": 6.334076940633106
+      }
+    ],
+    "edgePaperPixelsPeeled": 7471,
+    "paperResidualP995": 2.914785651191914,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Agaricus xanthodermus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "d5c328efafe34c4341aaccbb5c9eb1c8940052f99418cefc52f9d20045312546",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      71,
+      215,
+      833,
+      1049
+    ],
+    "uniformScale": 1.837270341207349,
+    "placement": [
+      100,
+      434
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1532
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 621558,
+    "opaquePixels": 431976,
+    "partialAlphaPixels": 21666,
+    "signatureBox": [
+      706,
+      1012,
+      780,
+      1050
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 266,
+    "preservedObjects": [
+      "upper left: a large mature fruit body with a broad, flat-topped white cap with a grey-brown centre, chrome-yellow bruises at the cap margin, a large pendulous white skirt-like ring and a tall white stipe rising from grass",
+      "upper centre-right: a second mature fruit body, its cap partly behind the first, with a yellowing margin, a flaring white ring and a white stipe in grass",
+      "left: a young closed button with a squarish, flat-topped white cap and short white stipe in grass",
+      "right, detached: a halved or cut fruit body seen from the side showing pinkish-grey gills under a white cap with a yellow bruise, a white ring and a stipe whose base is bright chrome yellow, with soil at the base",
+      "lower left: a fruit body lying on its side showing crowded free pinkish-brown gills, a white double-edged ring and a white stipe with soil at the base",
+      "foreground: grass tufts, fallen brown leaves, a green compound leaf sprig and a cluster of black elderberries on red-purple stalks with a soft grey cast shadow",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t51u; IDs 154-163 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 92.5,
+        "box": [
+          449,
+          267,
+          31,
+          13
+        ],
+        "medianContrast": 8.25443438167954
+      },
+      {
+        "area": 445410.0,
+        "box": [
+          72,
+          216,
+          760,
+          832
+        ],
+        "medianContrast": 44.407832972345496
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection of composition_lossless.png, transparency_checker.png and original_vs_composition.jpg: all drawn objects kept with real alpha on the standard background at one uniform upscale (×1.837 from the 896×1200 JPEG source; some softness at full size). Kept as drawn: two mature white caps with chrome-yellow margin bruises and large pendulous rings, a squarish young button, a whole fruit body at right with a chrome-yellow stipe base, a lying fruit body showing pinkish-brown free gills and a ring, grass, fallen leaves, a green compound-leaf sprig and an elderberry cluster, and the faint cursive “Gemini” mark at bottom right. A soft cream ground wash remains around the litter edge and under the elderberry (drawn shadow/ground tint in the source, not a rectangular frame). One isolated 41×34 px plain-paper patch near the lower left was excluded as paper.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t51u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-163. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 896x1200 source",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG/JFIF with EXIF (software=Picasa) and no source alpha, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform cream paper with a soft vignette"
+      ],
+      "anatomyCaveat": "Anatomy broadly matches A. xanthodermus (white caps, yellow bruising at the cap margin, large ring, bulbous base turning chrome yellow, pink-to-brown free gills, squarish young cap). Caveats: the yellow at the right stipe base is drawn on the outside surface rather than as a cut section; ring shapes are stylised; the elderberry sprig and compound leaf are decorative and not identification features. AI-generated look (Gemini mark), rights and authorship unverified; decision for Adrian.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Agaricus_xanthodermus@1600.webp",
+        "bytes": 352102,
+        "sha256": "84d12aadb351a475c5861333a4a08780ac91c83ac7075139c562b1bb5cd41d5b"
+      },
+      {
+        "path": "media/Agaricus_xanthodermus@400.webp",
+        "bytes": 43574,
+        "sha256": "19c3cdd4eba0fd9372f8803f08066820647559dfee44317af07e7302b6881e8f"
+      }
+    ]
+  }
 }
 ];
