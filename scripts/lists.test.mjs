@@ -59,14 +59,26 @@ test('the deadly list matches species marked deadly', () => {
 test('region lists sort by place and year lists put the newest year first', () => {
   const states = viewModel({ lang: 'en', view: 'list', key: 'us-state-mushrooms', search: '' });
   assert.match(states.html, /en\.wikipedia\.org/);
-  assert.match(states.html, /class="year state">Illinois/);
-  assert.match(states.html, /class="year state">Minnesota/);
-  assert.match(states.html, /class="year state">Utah/);
-  const order = listSpecies('us-state-mushrooms').map((row) => row.region);
-  assert.deepEqual(order, ['Illinois', 'Minnesota', 'Utah']);
-  const html = states.html;
-  assert.ok(html.indexOf('Illinois') < html.indexOf('Minnesota'));
-  assert.ok(html.indexOf('Minnesota') < html.indexOf('Utah'));
+  const order = listSpecies('us-state-mushrooms').map((row) => [row.region, row.name]);
+  assert.deepEqual(order, [
+    ['California', 'Cantharellus californicus'],
+    ['Colorado', 'Agaricus julius'],
+    ['Illinois', 'Calvatia gigantea'],
+    ['Kentucky', 'Lactarius indigo'],
+    ['Minnesota', 'Morchella esculenta'],
+    ['Oregon', 'Cantharellus formosus'],
+    ['Texas', 'Chorioactis geaster'],
+    ['Utah', 'Boletus edulis'],
+    ['Vermont', 'Hericium americanum'],
+  ]);
+  let previous = -1;
+  for (const [region] of order) {
+    const badge = `class="year state">${region}`;
+    assert.match(states.html, new RegExp(badge));
+    const at = states.html.indexOf(badge);
+    assert.ok(at > previous, region);
+    previous = at;
+  }
 
   const years = listSpecies('mushroom-of-the-year-de');
   assert.equal(years[0].name, 'Lactarius lignyotus');
@@ -121,15 +133,18 @@ test('a list shows only the Latin name when the species has no vernacular', () =
 
 test('the Estonian year list keeps a genus pick as a genus', () => {
   const rows = listSpecies('mushroom-of-the-year-et');
-  assert.equal(rows[0].genus, 'Heterobasidion');
-  assert.equal(rows[0].year, 2025);
-  assert.equal(rows[1].name, 'Boletus edulis');
-  assert.equal(rows[1].year, 2023);
+  assert.equal(rows[0].name, 'Sarcosoma globosum');
+  assert.equal(rows[0].genus, '');
+  assert.equal(rows[0].year, 2026);
+  const root = rows.find((row) => row.year === 2025);
+  assert.equal(root.name, 'Heterobasidion');
+  assert.equal(root.genus, 'Heterobasidion');
+  const penny = rows.find((row) => row.year === 2023);
+  assert.equal(penny.name, 'Boletus edulis');
+  assert.equal(penny.genus, '');
   const chanterelle = rows.find((row) => row.year === 2017);
   assert.equal(chanterelle.genus, 'Cantharellus');
   assert.equal(chanterelle.name, 'Cantharellus');
-  const root = rows.find((row) => row.year === 2025);
-  assert.equal(root.genus, 'Heterobasidion');
   const page = viewModel({ lang: 'et', view: 'list', key: 'mushroom-of-the-year-et', search: '' });
   assert.match(page.html, /href="\/et\/genus\/Cantharellus\/"/);
   assert.match(page.html, /class="n latin">Cantharellus/);
@@ -137,6 +152,7 @@ test('the Estonian year list keeps a genus pick as a genus', () => {
   assert.doesNotMatch(page.html, /Cantharellus%20cibarius/);
   assert.match(page.html, /Heterobasidion/);
   assert.match(page.html, /href="\/et\/genus\/Heterobasidion\/"/);
+  assert.ok(page.html.indexOf('>2026<') < page.html.indexOf('>2023<'));
   assert.ok(page.html.indexOf('>2023<') < page.html.indexOf('>2017<'));
 });
 
@@ -187,11 +203,12 @@ test('a list for another language is not a page', () => {
   assert.match(page.html, /Táto stránka v katalógu nie je/);
 });
 
-test('mushroom page falls back to English when text for language is missing', () => {
-  const fallback = viewModel({ lang: 'ja', view: 'mushroom', key: 'Boletus edulis', search: '' });
-  assert.ok(fallback.description.length > 0);
-  assert.match(fallback.description, /^A large ectomycorrhizal mushroom/);
-  assert.match(fallback.html, /A large ectomycorrhizal mushroom/);
+test('a species page shows the text for that language', () => {
+  const japanese = viewModel({ lang: 'ja', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  assert.ok(japanese.description.length > 0);
+  assert.match(japanese.description, /^大型の外生菌根菌です/);
+  assert.match(japanese.html, /大型の外生菌根菌です/);
+  assert.equal(japanese.html.includes('A large ectomycorrhizal mushroom'), false);
 
   const skAuricularia = viewModel({ lang: 'sk', view: 'mushroom', key: 'Auricularia auricula-judae', search: '' });
   assert.ok(skAuricularia.description.length > 0);
