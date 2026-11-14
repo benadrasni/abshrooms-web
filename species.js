@@ -165543,5 +165543,945 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Scleroderma citrinum",
+  "author": "Pers.",
+  "family": "Sclerodermataceae",
+  "genus": "Scleroderma",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Sclerodermataceae",
+    "Scleroderma"
+  ],
+  "summary": [
+    "Boletales",
+    "Sclerodermataceae",
+    "Scleroderma"
+  ],
+  "edibility": "poisonous",
+  "hymenium": "gleba",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 10.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "label": {
+    "ar": null,
+    "bg": "лъжлив трюфел",
+    "cs": "pestřec obecný",
+    "da": "almindelig bruskbold",
+    "de": "Dickschaliger Kartoffelbovist",
+    "en": "common earthball",
+    "es": "escleroderma amarilla",
+    "et": "harilik murukera",
+    "fa": null,
+    "fi": "nystymukulakuukunen",
+    "fr": "scléroderme vulgaire",
+    "he": null,
+    "hi": null,
+    "hr": "ispucana krumpirača",
+    "hu": "rőt áltrifla",
+    "id": null,
+    "it": null,
+    "ja": null,
+    "ko": null,
+    "lt": "gelsvoji ankštenė",
+    "lv": "parastais cietpūpēdis",
+    "nl": "gele aardappelbovist",
+    "no": "gul potetrøyksopp",
+    "pl": "tęgoskór cytrynowy",
+    "pt": null,
+    "ro": null,
+    "ru": "ложнодождевик обыкновенный",
+    "sk": "pestrec obyčajný",
+    "sl": "navadna trdokožnica",
+    "sr": "отровна пухара",
+    "sv": "gul rottryffel",
+    "tr": null,
+    "uk": "склеродерма золотиста",
+    "zh": null
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Gemeiner Kartoffelbovist"
+    ],
+    "en": [
+      "pigskin poison puffball"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "scléroderme commun",
+      "scléroderme citron",
+      "scléroderme orangé"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "paprastoji ankštenė"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "tęgoskór pospolity"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "склеродерма лимонная",
+      "склеродерма обыкновенная"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "allmän rottryffel"
+    ],
+    "tr": [],
+    "uk": [
+      "псевдодощовик золотистий"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Лъжлив_трюфел"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Scleroderma-citrinum/",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://cs.wikipedia.org/wiki/Pestřec_obecný"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://www.catalogueoflife.org/data/taxon/4VPLV"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://de.wikipedia.org/wiki/Dickschaliger_Kartoffelbovist"
+    ],
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=181865",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=181865",
+      "https://www.gbif.org/species/5239982",
+      "https://www.catalogueoflife.org/data/taxon/4VPLV",
+      "https://www.wikidata.org/wiki/Q1210127",
+      "https://www.inaturalist.org/taxa/55927-Scleroderma-citrinum",
+      "https://www.mushroomexpert.com/scleroderma_citrinum.html",
+      "https://en.wikipedia.org/wiki/Scleroderma_citrinum",
+      "https://www.first-nature.com/fungi/scleroderma-citrinum.php",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames"
+    ],
+    "et": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://et.wikipedia.org/wiki/Harilik_murukera"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Nystymukulakuukunen"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://www.catalogueoflife.org/data/taxon/4VPLV"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://www.cromushrooms.eu/"
+    ],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://hu.wikipedia.org/wiki/Rőt_áltrifla"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://lt.wikipedia.org/wiki/Paprastoji_ankštenė"
+    ],
+    "lv": [
+      "https://www.latvijasdaba.lv/senes/sistematiskais-raditajs/boletales/",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://tezaurs.lv/"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Gele_aardappelbovist"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://no.wikipedia.org/wiki/Gul_potetrøyksopp"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Tęgoskór_cytrynowy",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://ru.wikipedia.org/wiki/Ложнодождевик_обыкновенный"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Scleroderma-citrinum/pestrec-obycajny/pestrec-obecny/ID423",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=181865",
+      "https://www.gbif.org/species/5239982"
+    ],
+    "sl": [
+      "https://www.gobe-zveza.si/literatura-mzs/",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://sl.wikipedia.org/wiki/Navadna_trdokožnica"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Отровна_пухара"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/5239982/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Gul_rottryffel"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Склеродерма_золотиста",
+      "https://api.gbif.org/v1/species/5239982/vernacularNames"
+    ],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كروي واسع الانتشار ذو قشرة صلبة سميكة حرشفية، ينمو على الأرض في الغابات والأراضي الشجيرية والحدائق، عادةً في التربة الحمضية الرملية، شريكاً فطرياً جذرياً للبلوط والبتولا والصنوبر وأشجار أخرى. وهو شائع في أوروبا وأمريكا الشمالية، ومُسجَّل أيضاً في آسيا وأفريقيا وأمريكا الجنوبية وأوقيانوسيا.",
+      "cap": "لا توجد قبعة: الجسم الثمري كله كرة صلبة مستديرة إلى شبيهة بالبطاطس أو مفلطحة قليلاً، عرضها عادةً ٣–١٠ cm وارتفاعها ٣–٦ cm، وقد يصل عرضها أحياناً إلى ١٥ cm؛ أما العينات من أمريكا الشمالية فكثيراً ما لا تتجاوز ٢–٥ cm. القشرة الخارجية (الغلاف) متينة جلدية سمكها ١–٤ mm، بيضاء مائلة إلى الكريمي أو مصفرة في البداية، ثم صفراء مغرية إلى بنية مصفرة، وغالباً ما تحمل مسحة صفراء ليمونية في أعلاها. وسرعان ما تتشقق إلى حراشف خشنة غير منتظمة أغمق بنيةً أو إلى ثآليل مضلعة مسطحة تكبر وتتباعد بوضوح مع العمر، بينما يبقى الجزء السفلي شبه أملس ومتجعداً حيث يضيق نحو القاعدة. قد تتلون القشرة الطازجة عند الضغط بالأصفر إلى الأحمر الوردي، ويلوّن KOH السطح بالأحمر إلى الأحمر البني. وعند النضج تتمزق القشرة في أعلاها تمزقاً غير منتظم من دون فتحة محددة.",
+      "hymenium": "لا توجد صفائح ولا أنابيب: تتكون الأبواغ داخل الجسم الثمري، في الغليبة. الغليبة بيضاء مائلة فقط في الأجسام الثمرية الصغيرة جداً، وسرعان ما تصبح رمادية أرجوانية إلى سوداء أرجوانية من المركز نحو الخارج، مرخّمة بعروق رفيعة بيضاء من نسيج عقيم. تبقى متماسكة مضغوطة مدة طويلة، ثم تصبح مسودة إلى بنية داكنة ومسحوقية، وفي الشيخوخة خضراء رمادية. لا يوجد عمود مركزي. تخرج الأبواغ عبر القشرة الممزقة وتنشرها الرياح والأمطار، وقد تبقى القشور الفارغة شهوراً.",
+      "stipe": "لا توجد ساق حقيقية. يضيق الجسم الثمري عند قاعدته إلى طرف مقروص متجعد، يمتد أحياناً إلى قاعدة قصيرة شبيهة بالساق، تخرج منها خصلة من حبال فطرية (جذامير) بيضاء مائلة إلى مصفرة تثبّته في التربة.",
+      "flesh": "عند القطع تنفصل القشرة البيضاء بوضوح عن الداخل الداكن، وقد تتلون بالأصفر أو الوردي أو المحمر. الداخل صلب مضغوط ويغمق مبكراً جداً، على خلاف الداخل الطري لفطريات الغبار الكروية الذي يبقى أبيض مدة طويلة. تختلف أوصاف الرائحة، من غير مميزة إلى قوية حارة أو ثومية أو معدنية أو شبيهة بالغاز، وتكون أوضح ما تكون عند قطع الجسم الثمري أو تجفيفه.",
+      "sporePrint": "كتلة الأبواغ بنية داكنة إلى بنية مسودة، وغالباً ما تكون ذات مسحة أرجوانية وهي طازجة؛ وتصفها بعض المراجع بأنها بنية زيتونية. الأبواغ كروية إلى شبه كروية، قطرها ٨–١٣ µm (٧–١١ µm من دون الزخرفة)، بنية داكنة ومغطاة بكثافة بأشواك طولها ١–١٫٥ µm، تتصل عادةً بأعراف في شبكة كاملة أو جزئية؛ وفي بعض العينات تكون الشبكة ناقصة أو غائبة، حتى داخل الجسم الثمري الواحد.",
+      "habitat": "يكوّن جذوراً فطرية خارجية مع الأشجار عريضة الأوراق والصنوبرية، ولا سيما البلوط والبتولا والزان والصنوبر. ينمو منفرداً أو متفرقاً أو في مجموعات في التربة الفقيرة الحمضية الرملية أو الحجرية أو الخثية في الغابات الصنوبرية وعريضة الأوراق والمختلطة، وفي الأراضي الشجيرية والحدائق والعشب القصير، وغالباً على الأرض العارية المرصوصة بجانب الطرق الحرجية وعلى المنحدرات وعلى طول قنوات التصريف، وأحياناً بين الطحالب أو على خشب شديد التحلل. يثمر في أوروبا من يوليو إلى نوفمبر، وفي بريطانيا وأيرلندا حتى أوائل ديسمبر، وقد تبقى الأجسام الثمرية القديمة حتى الشتاء. ويظهر في أمريكا الشمالية في الصيف والخريف، وفي المناخات الدافئة خلال الشتاء أيضاً.",
+      "uses": "سام. يسبب أكله تسمماً معدياً معوياً مع غثيان وقيء وألم في البطن، وأحياناً مع تعرق وانخفاض ضغط الدم ودوار وانهيار؛ وقد تبدأ الأعراض بعد ٣٠–٤٥ دقيقة من الوجبة، والمواد المسؤولة عنها غير معروفة. يقطّع بعض جامعي الفطر الأجسام الثمرية الصغيرة جداً ذات الداخل الذي لا يزال فاتحاً ويجففونها لاستعمالها تابلاً بكميات صغيرة، وقد استُخدم الفطر قديماً لتزييف الكمأ في معاجين الكبد ونقانق الكبد، لكن ذلك غير آمن لأن بعض الناس يتفاعلون معه بشدة. وقد تهيّج الأبواغ المستنشقة العينين والأنف.",
+      "confusion": "فطريات الغبار الكروية مثل Lycoperdon perlatum وApioperdon pyriforme طرية إسفنجية ذات قشرة رقيقة، يبقى داخلها أبيض مدة طويلة، وتطلق أبواغها من فتحة واحدة في قمتها؛ ويحمل Lycoperdon perlatum فوق ذلك أشواكاً مدببة لؤلؤية. أما Scleroderma verrucosum وScleroderma areolatum فتكوّنان أجساماً ثمرية أصغر ذات قشرة أرق وأكثر بنية وحراشف أقل وضوحاً، وأبواغهما شوكية بلا شبكة.",
+      "notes": "مع أنه يشبه فطر الغبار الكروي، فهو ينتمي إلى رتبة Boletales وقريب جداً من البوليطات من جنس Gyroporus. وهو العائل الوحيد المعروف للبوليط Pseudoboletus parasiticus الذي ينمو على أجسامه الثمرية."
+    },
+    "bg": {
+      "description": "Широко разпространена склеродерма с твърда, дебела, люспеста обвивка, която расте по земята в гори, пустеещи земи с пирен и паркове, обикновено на кисели песъчливи почви, като микоризен партньор на дъбове, брези, борове и други дървета. Обичайна е в Европа и Северна Америка, а се съобщава и от Азия, Африка, Южна Америка и Океания.",
+      "cap": "Шапка няма: цялото плодно тяло е твърда, закръглена до грудковидна или леко сплесната топка, обикновено 3–10 cm широка и 3–6 cm висока, понякога до 15 cm широка; северноамериканските находки често са само 2–5 cm. Външната обвивка (перидий) е жилава, кожеста и дебела 1–4 mm, отначало белезникава, кремава или жълтеникава, после охрено жълта до жълтеникавокафява, отгоре често с лимоненожълт оттенък. Скоро се напуква на груби, неправилни, по-тъмнокафяви люспи или плоски многоъгълни брадавици, които с възрастта стават големи и ясно разделени, докато долната част остава почти гладка и набръчкана там, където се стеснява към основата. Свежата обвивка при натиск може да пожълтее до розовочервено, а KOH оцветява повърхността в червено до кафеникавочервено. При узряване обвивката се разкъсва неправилно на върха, без оформен отвор.",
+      "hymenium": "Пластинки и тръбички няма: спорите се образуват вътре в плодното тяло, в глебата. Глебата е белезникава само при съвсем младите плодни тела и скоро от центъра навън става пурпурносива до пурпурночерна, мраморирана от тънки белезникави жилки стерилна тъкан. Дълго остава плътна и компактна, после става черникава до тъмнокафява и прахообразна, а при стареене сивкавозелена. Централна колонка няма. Спорите излизат през разкъсаната обвивка и се разнасят от вятъра и дъжда; празните обвивки могат да се запазят с месеци.",
+      "stipe": "Истинско пънче няма. В основата плодното тяло се стеснява в стиснат, набръчкан връх, понякога удължен в късо пънчевидно основание, от което сноп белезникави до жълтеникави мицелни въженца (ризоморфи) го закрепва в почвата.",
+      "flesh": "При разрязване бялата кора ясно се отделя от тъмната вътрешност и може да пожълтее, порозовее или почервенее. Вътрешността е твърда и компактна и потъмнява много рано, за разлика от меката вътрешност на пърхутките, която дълго остава бяла. Миризмата се описва различно, от неотличителна до силна, пикантна, чеснова, метална или напомняща газ, и се усеща най-силно при разрязване или сушене на плодното тяло.",
+      "sporePrint": "Спорната маса е тъмнокафява до черникавокафява, в свежо състояние често с пурпурен оттенък; някои описания я определят като маслиненокафява. Спорите са кълбовидни до почти кълбовидни, 8–13 µm (7–11 µm без орнамента), тъмнокафяви и гъсто покрити с шипове, дълги 1–1,5 µm, обикновено свързани с гребенчета в пълна или частична мрежа; при някои находки мрежата е непълна или липсва, дори в едно и също плодно тяло.",
+      "habitat": "Образува ектомикориза с широколистни и иглолистни дървета, особено с дъбове, брези, бук и борове. Расте единично, пръснато или на групи по бедни, кисели, песъчливи, каменисти или торфени почви в иглолистни, широколистни и смесени гори, в пустеещи земи с пирен, в паркове и на ниска трева, често на гола утъпкана земя край горски пътища, по откоси и покрай отводнителни канавки, понякога сред мъх или върху силно изгнила дървесина. В Европа плододава от юли до ноември, във Великобритания и Ирландия до началото на декември, а старите плодни тела могат да се запазят до зимата. В Северна Америка се появява през лятото и есента, а в топъл климат и през зимата.",
+      "uses": "Отровна. Консумацията причинява стомашно-чревно отравяне с гадене, повръщане и коремни болки, понякога с изпотяване, ниско кръвно налягане, световъртеж и колапс; симптомите могат да започнат 30–45 минути след храненето, а отговорните вещества не са известни. Някои гъбари нарязват и сушат съвсем млади плодни тела с още светла вътрешност като подправка в малки количества, а някога гъбата е била използвана за фалшифициране на трюфели в пастети и дроб-колбаси, но това не е безопасно, защото някои хора реагират силно на нея. Вдишаните спори могат да дразнят очите и носа.",
+      "confusion": "Пърхутките, например Lycoperdon perlatum и Apioperdon pyriforme, са меки и гъбести, с тънка обвивка, дълго остават бели отвътре и освобождават спорите си през един отвор на върха; Lycoperdon perlatum има освен това бисерни заострени шипчета. Scleroderma verrucosum и Scleroderma areolatum образуват по-дребни плодни тела с по-тънка, по-кафява обвивка и по-малко забележими люспи, а спорите им са бодливи, без мрежа.",
+      "notes": "Макар да прилича на пърхутка, тя принадлежи към разред Boletales и е близкородствена с манатарките от род Gyroporus. Тя е единственият известен гостоприемник на манатарката Pseudoboletus parasiticus, която расте върху плодните ѝ тела."
+    },
+    "cs": {
+      "description": "Hojně rozšířený pestřec s tvrdou, tlustou, šupinatou okrovkou, který roste na zemi v lesích, na vřesovištích a v parcích, obvykle na kyselých, písčitých půdách, jako mykorhizní partner dubů, bříz, borovic a dalších stromů. Je hojný v Evropě a Severní Americe a uvádí se také z Asie, Afriky, Jižní Ameriky a Oceánie.",
+      "cap": "Klobouk chybí: celá plodnice je tvrdá, okrouhlá až hlízovitá nebo mírně zploštělá koule, obvykle 3–10 cm široká a 3–6 cm vysoká, výjimečně až 15 cm široká; severoamerické nálezy mívají často jen 2–5 cm. Vnější okrovka (peridie) je tuhá, kožovitá a 1–4 mm tlustá, zprvu bělavá, krémová nebo nažloutlá, později okrově žlutá až žlutohnědá, nahoře často s citronově žlutým nádechem. Brzy rozpraská v hrubé, nepravidelné, tmavěji hnědé šupiny nebo ploché mnohoúhelníkové bradavky, které se stářím zvětšují a zřetelně oddělují, zatímco spodní část zůstává téměř hladká a je zvrásněná tam, kde se zužuje k bázi. Čerstvá okrovka může na otlačených místech žloutnout až růžově červenat a KOH barví povrch červeně až hnědočerveně. V dospělosti okrovka na vrcholu nepravidelně puká, bez vyvinutého otvoru.",
+      "hymenium": "Lupeny ani rourky nejsou: výtrusy vznikají uvnitř plodnice, v glebě. Gleba je bělavá jen u velmi mladých plodnic a brzy se od středu ke krajům zbarvuje fialově šedě až fialově černě, mramorovaná jemnými bělavými žilkami sterilního pletiva. Dlouho zůstává pevná a kompaktní, pak zčerná nebo tmavě zhnědne a zpráškovatí a ve stáří je šedozelená. Sloupek chybí. Výtrusy unikají roztrženou okrovkou a roznáší je vítr a déšť; prázdné okrovky mohou vydržet celé měsíce.",
+      "stipe": "Pravý třeň chybí. Plodnice se na bázi zužuje do staženého, zvrásněného hrotu, někdy protaženého v krátkou třeňovitou bázi, z níž ji v půdě ukotvuje svazek bělavých až nažloutlých myceliálních provazců (rhizomorf).",
+      "flesh": "Na řezu je bílá kůra zřetelně oddělená od tmavého vnitřku a může nažloutnout, zrůžovět nebo zčervenat. Vnitřek je tvrdý a kompaktní a velmi brzy tmavne, na rozdíl od měkkého vnitřku pýchavek, který zůstává dlouho bílý. Pach se popisuje různě, od nevýrazného po silný, kořenitý, česnekový, kovový nebo připomínající svítiplyn, a nejvíce je cítit po rozříznutí nebo usušení plodnice.",
+      "sporePrint": "Výtrusný prach je tmavě hnědý až černohnědý, čerstvý často s fialovým nádechem; některé popisy jej uvádějí jako olivově hnědý. Výtrusy jsou kulovité až téměř kulovité, 8–13 µm (7–11 µm bez ornamentiky), tmavě hnědé a hustě pokryté ostny dlouhými 1–1,5 µm, které jsou obvykle spojeny lištami v úplnou nebo částečnou síťku; u některých nálezů je síťka neúplná nebo chybí, a to i v rámci jedné plodnice.",
+      "habitat": "Tvoří ektomykorhizu s listnatými i jehličnatými stromy, zejména s duby, břízami, bukem a borovicemi. Roste jednotlivě, roztroušeně nebo ve skupinách na chudých, kyselých, písčitých, kamenitých nebo rašelinných půdách v jehličnatých, listnatých i smíšených lesích, na vřesovištích, v parcích a v nízké trávě, často na holé, udusané zemi u lesních cest, na náspech a podél odvodňovacích příkopů, někdy i mezi mechem nebo na silně ztrouchnivělém dřevě. V Evropě plodí od července do listopadu, ve Velké Británii a Irsku až do začátku prosince, a staré plodnice mohou přetrvat do zimy. V Severní Americe se objevuje v létě a na podzim, v teplém podnebí i přes zimu.",
+      "uses": "Jedovatý. Požití způsobuje otravu s trávicími potížemi, nevolností, zvracením a bolestmi břicha, někdy s pocením, nízkým krevním tlakem, závratí a kolapsem; příznaky mohou nastoupit 30–45 minut po jídle a odpovědné látky nejsou známy. Někteří houbaři krájejí a suší velmi mladé plodnice s ještě světlým vnitřkem jako koření v malém množství a dříve se houba používala k falšování lanýžů v paštikách a játrových jitrnicích, to však není bezpečné, protože někteří lidé na ni reagují silně. Vdechnuté výtrusy mohou dráždit oči a nos.",
+      "confusion": "Pýchavky, například Lycoperdon perlatum a Apioperdon pyriforme, jsou měkké a houbovité s tenkou okrovkou, uvnitř dlouho zůstávají bílé a výtrusy uvolňují jediným otvorem na vrcholu; Lycoperdon perlatum má navíc perleťové, špičaté ostny. Scleroderma verrucosum a Scleroderma areolatum tvoří menší plodnice s tenčí, hnědší okrovkou a méně nápadnými šupinami a jejich výtrusy jsou ostnité bez síťky.",
+      "notes": "Přestože vypadá jako pýchavka, patří do řádu Boletales a je blízce příbuzný hřibovitým houbám rodu Gyroporus. Je jediným známým hostitelem hřibovité houby Pseudoboletus parasiticus, která roste na jeho plodnicích."
+    },
+    "da": {
+      "description": "En udbredt bruskbold med hård, tyk, skællet hud, der vokser på jorden i skove, på heder og i parker, oftest på sur, sandet jord, som mykorrhizapartner for eg, birk, fyr og andre træer. Den er almindelig i Europa og Nordamerika og er også rapporteret fra Asien, Afrika, Sydamerika og Oceanien.",
+      "cap": "Der er ingen hat: hele frugtlegemet er en hård, rundagtig til kartoffelformet eller lidt fladtrykt kugle, oftest 3–10 cm bred og 3–6 cm høj og undertiden op til 15 cm bred; nordamerikanske fund er ofte kun 2–5 cm. Yderhuden (peridiet) er sej, læderagtig og 1–4 mm tyk, først hvidlig, cremefarvet eller gullig, siden okkergul til gulbrun, ofte med et citrongult skær foroven. Den revner snart i grove, uregelmæssige, mørkere brune skæl eller flade mangekantede vorter, som bliver store og tydeligt adskilte med alderen, mens den nederste del forbliver næsten glat og er rynket, hvor den indsnævres mod basis. Frisk hud kan ved tryk blive gullig til rosenrød, og KOH farver overfladen rød til brunligt rød. Ved modenhed revner huden uregelmæssigt i toppen uden nogen fast åbning.",
+      "hymenium": "Der er hverken lameller eller rør: sporerne dannes inde i frugtlegemet, i gleba. Gleba er kun hvidlig hos meget unge frugtlegemer og bliver snart purpurgrå til purpursort fra midten og udad, marmoreret af fine hvidlige årer af sterilt væv. Den forbliver længe fast og kompakt, bliver så sortagtig til mørkebrun og støvet og til sidst grågrøn. Der er ingen midtsøjle. Sporerne slipper ud gennem den sprækkede hud og spredes af vind og regn, og tomme skaller kan holde sig i månedsvis.",
+      "stipe": "Der er ingen egentlig stok. Frugtlegemet indsnævres ved basis til en sammenknebet, rynket spids, undertiden trukket ud til en kort stokagtig fod, hvorfra en dusk af hvidlige til gullige myceliestrenge (rhizomorfer) forankrer det i jorden.",
+      "flesh": "I snit er den hvide skal tydeligt adskilt fra det mørke indre og kan anløbe gulligt, rosa eller rødligt. Det indre er hårdt og kompakt og mørkner meget tidligt, i modsætning til det bløde indre hos støvbolde, der længe forbliver hvidt. Lugten beskrives forskelligt, fra ubetydelig til stærk, krydret, hvidløgsagtig, metallisk eller gasagtig, og er tydeligst, når frugtlegemet skæres over eller tørres.",
+      "sporePrint": "Sporemassen er mørkebrun til sortbrun, frisk ofte med et purpurt skær; nogle beskrivelser kalder den olivenbrun. Sporerne er kuglerunde til næsten kuglerunde, 8–13 µm (7–11 µm uden ornamentering), mørkebrune og tæt besat med 1–1,5 µm lange pigge, der som regel er forbundet af lister til et fuldstændigt eller delvist net; hos nogle fund er nettet ufuldstændigt eller mangler, endda i det samme frugtlegeme.",
+      "habitat": "Den danner ektomykorrhiza med løv- og nåletræer, især eg, birk, bøg og fyr. Den vokser enkeltvis, spredt eller i grupper på næringsfattig, sur, sandet, stenet eller tørveagtig jord i nåle-, løv- og blandskove, på heder, i parker og i kort græs, ofte på bar, sammentrykt jord langs skovveje, på skrænter og langs drængrøfter, og undertiden mellem mos eller på stærkt nedbrudt ved. I Europa sætter den frugtlegemer fra juli til november, i Storbritannien og Irland til begyndelsen af december, og gamle frugtlegemer kan holde sig ind i vinteren. I Nordamerika kommer den om sommeren og efteråret og i varme klimaer også om vinteren.",
+      "uses": "Giftig. Den giver mave-tarm-forgiftning med kvalme, opkastning og mavesmerter, undertiden med sveden, lavt blodtryk, svimmelhed og kollaps; symptomerne kan begynde 30–45 minutter efter måltidet, og de ansvarlige stoffer kendes ikke. Nogle svampesamlere skærer og tørrer meget unge frugtlegemer med stadig lyst indre som krydderi i små mængder, og svampen blev tidligere brugt til at forfalske trøfler i postejer og leverpølse, men det er ikke sikkert, for nogle mennesker reagerer kraftigt på den. Indåndede sporer kan irritere øjne og næse.",
+      "confusion": "Støvbolde som Lycoperdon perlatum og Apioperdon pyriforme er bløde og svampede med tynd hud, forbliver længe hvide indeni og frigiver sporerne gennem en enkelt åbning i toppen; Lycoperdon perlatum har desuden perleagtige, spidse pigge. Scleroderma verrucosum og Scleroderma areolatum danner mindre frugtlegemer med tyndere, brunere hud og mindre iøjnefaldende skæl, og deres sporer er piggede uden net.",
+      "notes": "Selv om den ligner en støvbold, hører den til ordenen Boletales og er nært beslægtet med rørhatte i slægten Gyroporus. Den er den eneste kendte vært for rørhatten Pseudoboletus parasiticus, som vokser på dens frugtlegemer."
+    },
+    "de": {
+      "description": "Ein weit verbreiteter Kartoffelbovist mit harter, dicker, schuppiger Haut, der in Wäldern, auf Heiden und in Parks auf dem Boden wächst, meist auf sauren, sandigen Böden, als Mykorrhizapartner von Eichen, Birken, Kiefern und anderen Bäumen. Er ist in Europa und Nordamerika häufig und wird auch aus Asien, Afrika, Südamerika und Ozeanien gemeldet.",
+      "cap": "Ein Hut fehlt: Der ganze Fruchtkörper ist eine harte, rundliche bis kartoffelförmige oder etwas abgeflachte Kugel, meist 3–10 cm breit und 3–6 cm hoch, gelegentlich bis 15 cm breit; nordamerikanische Funde messen oft nur 2–5 cm. Die Außenhaut (Peridie) ist zäh, lederartig und 1–4 mm dick, anfangs weißlich, cremefarben oder gelblich, dann ockergelb bis gelbbraun, oben oft mit zitronengelbem Ton. Sie reißt bald in grobe, unregelmäßige, dunkler braune Schuppen oder flache vieleckige Warzen auf, die im Alter groß und deutlich getrennt werden, während der untere Teil fast glatt bleibt und dort, wo er sich zur Basis verschmälert, runzelig ist. Frische Haut kann sich bei Druck gelblich bis rosarot verfärben, und KOH färbt die Oberfläche rot bis bräunlich rot. Bei Reife reißt die Haut oben unregelmäßig auf, ohne eine vorgebildete Öffnung.",
+      "hymenium": "Lamellen und Röhren fehlen: Die Sporen entstehen im Inneren des Fruchtkörpers, in der Gleba. Die Gleba ist nur bei sehr jungen Fruchtkörpern weißlich und färbt sich bald von der Mitte aus purpurgrau bis purpurschwarz, marmoriert von feinen weißlichen Adern aus sterilem Gewebe. Sie bleibt lange fest und kompakt, wird dann schwärzlich bis dunkelbraun und pulverig und im Alter graugrün. Eine Mittelsäule fehlt. Die Sporen entweichen durch die aufgerissene Haut und werden von Wind und Regen verbreitet; leere Hüllen können monatelang erhalten bleiben.",
+      "stipe": "Ein echter Stiel fehlt. Der Fruchtkörper verschmälert sich an der Basis zu einer zusammengezogenen, runzeligen Spitze, die gelegentlich zu einer kurzen stielartigen Basis ausgezogen ist; von dort verankert ihn ein Büschel weißlicher bis gelblicher Myzelstränge (Rhizomorphen) im Boden.",
+      "flesh": "Im Schnitt ist die weiße Rinde deutlich vom dunklen Inneren abgesetzt und kann sich gelblich, rosa oder rötlich verfärben. Das Innere ist hart und kompakt und dunkelt sehr früh nach, anders als das weiche Innere von Stäublingen und Bovisten, das lange weiß bleibt. Der Geruch wird unterschiedlich beschrieben, von unauffällig bis stark, würzig, knoblauchartig, metallisch oder gasartig, und ist am deutlichsten, wenn der Fruchtkörper angeschnitten oder getrocknet wird.",
+      "sporePrint": "Die Sporenmasse ist dunkelbraun bis schwärzlich braun, frisch oft mit purpurnem Ton; manche Beschreibungen nennen sie olivbraun. Die Sporen sind kugelig bis fast kugelig, 8–13 µm groß (7–11 µm ohne Ornament), dunkelbraun und dicht mit 1–1,5 µm langen Stacheln besetzt, die meist durch Grate zu einem vollständigen oder teilweisen Netz verbunden sind; bei manchen Funden ist das Netz unvollständig oder fehlt, sogar innerhalb eines Fruchtkörpers.",
+      "habitat": "Er ist ein Ektomykorrhizapilz von Laub- und Nadelbäumen, besonders von Eichen, Birken, Buchen und Kiefern. Er wächst einzeln, zerstreut oder gesellig auf nährstoffarmen, sauren, sandigen, steinigen oder torfigen Böden in Nadel-, Laub- und Mischwäldern, auf Heiden, in Parks und in kurzem Gras, oft auf nacktem, verdichtetem Boden an Waldwegen, an Böschungen und entlang von Entwässerungsgräben, manchmal auch zwischen Moos oder auf stark vermorschtem Holz. In Europa fruktifiziert er von Juli bis November, in Großbritannien und Irland bis Anfang Dezember, und alte Fruchtkörper können bis in den Winter überdauern. In Nordamerika erscheint er im Sommer und Herbst, in warmem Klima auch über den Winter.",
+      "uses": "Giftig. Der Verzehr verursacht eine Magen-Darm-Vergiftung mit Übelkeit, Erbrechen und Bauchschmerzen, manchmal mit Schweißausbrüchen, niedrigem Blutdruck, Schwindel und Kollaps; die Beschwerden können 30–45 Minuten nach der Mahlzeit beginnen, und die verantwortlichen Stoffe sind nicht bekannt. Manche Sammler schneiden und trocknen sehr junge Fruchtkörper mit noch hellem Inneren als Würze in kleinen Mengen, und früher wurde der Pilz zum Fälschen von Trüffeln in Pasteten und Leberwurst verwendet, doch das ist nicht sicher, weil manche Menschen heftig darauf reagieren. Eingeatmete Sporen können Augen und Nase reizen.",
+      "confusion": "Stäublinge wie Lycoperdon perlatum und Apioperdon pyriforme sind weich und schwammig mit dünner Haut, bleiben innen lange weiß und entlassen ihre Sporen durch eine einzige Öffnung am Scheitel; Lycoperdon perlatum trägt außerdem perlartige, spitze Stacheln. Scleroderma verrucosum und Scleroderma areolatum bilden kleinere Fruchtkörper mit dünnerer, bräunlicherer Haut und weniger auffälligen Schuppen, und ihre Sporen sind stachelig ohne Netz.",
+      "notes": "Obwohl er wie ein Bovist aussieht, gehört er zur Ordnung Boletales und ist eng mit den Röhrlingen der Gattung Gyroporus verwandt. Er ist der einzige bekannte Wirt des Röhrlings Pseudoboletus parasiticus, der auf seinen Fruchtkörpern wächst."
+    },
+    "en": {
+      "description": "A widespread earthball with a hard, thick, scaly skin that grows on the ground in woods, on heaths and in parks, usually on acid, sandy soils, as a mycorrhizal partner of oaks, birches, pines and other trees. It is common in Europe and North America and is also reported from Asia, Africa, South America and Oceania.",
+      "cap": "There is no cap: the whole fruit body is a hard, rounded to potato-shaped or slightly flattened ball, usually 3–10 cm across and 3–6 cm tall and occasionally up to 15 cm across; North American collections are often only 2–5 cm. The outer skin (peridium) is tough, leathery and 1–4 mm thick, whitish, cream or yellowish at first, then ochre-yellow to yellow-brown, often with a lemon-yellow tinge on top. It soon cracks into coarse, irregular, darker brown scales or flat polygonal warts that become large and well separated with age, while the lower part stays almost smooth and is wrinkled where it narrows to the base. Fresh skin may bruise yellowish to pinkish red, and KOH turns the surface red to brownish red. At maturity the skin splits irregularly at the top, with no defined pore.",
+      "hymenium": "There are no gills or tubes: the spores form inside the fruit body, in the gleba. The gleba is whitish only in very young fruit bodies and soon turns purplish grey to purple-black from the centre outwards, marbled with fine whitish veins of sterile tissue. It stays firm and compact for a long time, then becomes blackish to dark brown and powdery and, when old, greyish green. There is no central column. The spores escape through the torn skin, dispersed by wind and rain, and empty skins can persist for months.",
+      "stipe": "There is no true stem. The fruit body narrows at the base into a pinched, wrinkled point, occasionally drawn out into a short stem-like base, from which a tuft of whitish to yellowish mycelial cords (rhizomorphs) anchors it in the soil.",
+      "flesh": "When cut, the white rind is clearly separate from the dark interior and may blush yellowish, pinkish or reddish. The interior is hard and compact and darkens very early, unlike the soft interior of puffballs, which stays white for a long time. The smell varies between reports, from not distinctive to strong, spicy, garlicky, metallic or gas-like, and is most noticeable when the fruit body is cut or dried.",
+      "sporePrint": "The spore mass is dark brown to blackish brown, often with a purplish tint when fresh; some descriptions call it olive-brown. The spores are globose to subglobose, 8–13 µm across (7–11 µm without the ornamentation), dark brown, and densely covered with spines 1–1.5 µm long that are usually joined by ridges into a complete or partial network; in some collections the network is incomplete or absent, even within one fruit body.",
+      "habitat": "It is ectomycorrhizal with broadleaved and coniferous trees, especially oaks, birches, beech and pines. It grows alone, scattered or in groups on poor, acid, sandy, stony or peaty soils in coniferous, broadleaved and mixed woods, on heaths, in parks and in short grass, often on bare compacted ground beside forest tracks, on banks and along drainage ditches, and sometimes among moss or on well-rotted wood. In Europe it fruits from July to November, in Britain and Ireland until early December, and old fruit bodies can persist into winter. In North America it appears in summer and autumn, and over winter in warm climates.",
+      "uses": "Poisonous. Eating it causes gastrointestinal poisoning with nausea, vomiting and abdominal pain, sometimes with sweating, low blood pressure, dizziness and collapse; symptoms can begin 30–45 minutes after the meal, and the substances responsible are not known. Some foragers slice and dry very young fruit bodies with a still-pale interior as a spice in small amounts, and the fungus was once used to fake truffles in pâtés and liver sausage, but this is not safe, because some people react strongly to it. Inhaled spores can irritate the eyes and nose.",
+      "confusion": "Puffballs such as Lycoperdon perlatum and Apioperdon pyriforme are soft and spongy with a thin skin, stay white inside for a long time and release their spores through a single opening at the top; Lycoperdon perlatum also has pearly, pointed spines. Scleroderma verrucosum and Scleroderma areolatum form smaller fruit bodies with a thinner, browner skin and less conspicuous scales, and their spores are spiny without a network.",
+      "notes": "Although it looks like a puffball, it belongs to the order Boletales and is closely related to the boletes of the genus Gyroporus. It is the only known host of the bolete Pseudoboletus parasiticus, which grows on its fruit bodies. In the United Kingdom it is the most frequently found earthball."
+    },
+    "es": {
+      "description": "Un escleroderma muy extendido de piel dura, gruesa y escamosa que crece en el suelo de bosques, brezales y parques, normalmente en suelos ácidos y arenosos, como socio micorrícico de robles, abedules, pinos y otros árboles. Es común en Europa y Norteamérica y también se ha citado en Asia, África, Sudamérica y Oceanía.",
+      "cap": "No hay sombrero: todo el cuerpo fructífero es una bola dura, redondeada a tuberiforme o algo aplanada, normalmente de 3–10 cm de ancho y 3–6 cm de alto y a veces de hasta 15 cm de ancho; las recolecciones norteamericanas miden a menudo solo 2–5 cm. La envoltura externa (peridio) es tenaz, correosa y de 1–4 mm de grosor, al principio blanquecina, crema o amarillenta, luego amarillo ocre a pardo amarillento, a menudo con un tono amarillo limón en la parte superior. Pronto se agrieta en escamas gruesas, irregulares, de color pardo más oscuro, o en verrugas poligonales aplanadas que con la edad se hacen grandes y bien separadas, mientras que la parte inferior permanece casi lisa y se arruga donde se estrecha hacia la base. La piel fresca puede mancharse de amarillento a rojo rosado al presionarla, y el KOH tiñe la superficie de rojo a rojo pardusco. En la madurez, la piel se rasga irregularmente por arriba, sin un poro definido.",
+      "hymenium": "No hay láminas ni tubos: las esporas se forman en el interior del cuerpo fructífero, en la gleba. La gleba solo es blanquecina en los ejemplares muy jóvenes y pronto se vuelve gris púrpura a negro púrpura desde el centro hacia fuera, jaspeada por finas venas blanquecinas de tejido estéril. Permanece firme y compacta mucho tiempo, luego se vuelve negruzca a pardo oscura y pulverulenta y, al envejecer, verde grisácea. No hay columela. Las esporas salen por la piel desgarrada y las dispersan el viento y la lluvia; las envolturas vacías pueden persistir meses.",
+      "stipe": "No hay pie verdadero. El cuerpo fructífero se estrecha en la base en una punta pellizcada y arrugada, a veces prolongada en una corta base en forma de pie, de la que sale un mechón de cordones miceliares (rizomorfos) blanquecinos a amarillentos que lo ancla al suelo.",
+      "flesh": "Al corte, la corteza blanca se separa claramente del interior oscuro y puede teñirse de amarillento, rosado o rojizo. El interior es duro y compacto y se oscurece muy pronto, a diferencia del interior blando de los pedos de lobo, que permanece blanco mucho tiempo. El olor se describe de formas diversas, desde poco destacable hasta fuerte, especiado, a ajo, metálico o parecido al gas, y se nota sobre todo al cortar o secar el cuerpo fructífero.",
+      "sporePrint": "La masa de esporas es pardo oscura a pardo negruzca, a menudo con tono purpúreo cuando está fresca; algunas descripciones la dan como pardo oliva. Las esporas son globosas a subglobosas, de 8–13 µm (7–11 µm sin la ornamentación), pardo oscuras y densamente cubiertas de espinas de 1–1,5 µm de largo, generalmente unidas por crestas en un retículo completo o parcial; en algunas recolecciones el retículo es incompleto o falta, incluso dentro de un mismo cuerpo fructífero.",
+      "habitat": "Forma ectomicorrizas con árboles caducifolios y coníferas, sobre todo robles, abedules, haya y pinos. Crece solitario, disperso o en grupos en suelos pobres, ácidos, arenosos, pedregosos o turbosos de bosques de coníferas, caducifolios y mixtos, en brezales, parques y césped corto, a menudo en suelo desnudo y compactado junto a pistas forestales, en taludes y a lo largo de zanjas de drenaje, y a veces entre musgo o sobre madera muy descompuesta. En Europa fructifica de julio a noviembre, en Gran Bretaña e Irlanda hasta principios de diciembre, y los ejemplares viejos pueden persistir hasta el invierno. En Norteamérica aparece en verano y otoño, y en invierno en climas cálidos.",
+      "uses": "Tóxico. Su consumo causa una intoxicación gastrointestinal con náuseas, vómitos y dolor abdominal, a veces con sudoración, tensión baja, mareo y colapso; los síntomas pueden empezar 30–45 minutos después de la comida, y no se conocen las sustancias responsables. Algunos recolectores cortan y secan ejemplares muy jóvenes con el interior aún pálido para usarlos como condimento en pequeñas cantidades, y antiguamente se empleó para falsificar trufas en patés y embutidos de hígado, pero no es seguro, porque algunas personas reaccionan con fuerza. Las esporas inhaladas pueden irritar los ojos y la nariz.",
+      "confusion": "Los pedos de lobo como Lycoperdon perlatum y Apioperdon pyriforme son blandos y esponjosos, de piel fina, permanecen blancos por dentro mucho tiempo y liberan las esporas por una sola abertura apical; Lycoperdon perlatum tiene además espinas puntiagudas nacaradas. Scleroderma verrucosum y Scleroderma areolatum forman cuerpos fructíferos más pequeños, de piel más fina y parda y escamas menos marcadas, y sus esporas son espinosas sin retículo.",
+      "notes": "Aunque parece un pedo de lobo, pertenece al orden Boletales y está estrechamente emparentado con los boletos del género Gyroporus. Es el único hospedador conocido del boleto Pseudoboletus parasiticus, que crece sobre sus cuerpos fructíferos."
+    },
+    "et": {
+      "description": "Laialt levinud murukera kõva, paksu ja soomuselise kestaga, mis kasvab maas metsades, nõmmedel ja parkides, enamasti happelisel liivasel pinnasel, tamme, kase, männi ja teiste puude mükoriisapartnerina. See on Euroopas ja Põhja-Ameerikas sage ning seda on teatatud ka Aasiast, Aafrikast, Lõuna-Ameerikast ja Okeaaniast.",
+      "cap": "Kübarat ei ole: kogu viljakeha on kõva, ümar kuni kartulikujuline või veidi lapik pall, tavaliselt 3–10 cm lai ja 3–6 cm kõrge, mõnikord kuni 15 cm lai; Põhja-Ameerika leiud on sageli vaid 2–5 cm. Väliskest (periidium) on sitke, nahkjas ja 1–4 mm paks, algul valkjas, kreemjas või kollakas, hiljem ookerkollane kuni kollakaspruun, pealt sageli sidrunkollase varjundiga. See praguneb peagi jämedateks, ebakorrapärasteks, tumedamalt pruunideks soomusteks või lamedateks hulknurksete tüügasteks, mis muutuvad vanusega suureks ja selgelt eraldunuks, samal ajal kui alaosa jääb peaaegu siledaks ja on kortsus seal, kus see aheneb aluse poole. Värske kest võib vajutamisel muutuda kollakaks kuni roosakaspunaseks ning KOH värvib pinna punaseks kuni pruunikaspunaseks. Küpsena rebeneb kest tipust ebakorrapäraselt, ilma kindla avata.",
+      "hymenium": "Eoslehti ega torukesi ei ole: eosed tekivad viljakeha sees, glebas. Gleba on valkjas ainult väga noortel viljakehadel ja muutub peagi keskelt väljapoole purpurhalliks kuni purpurmustaks, marmoreerituna peente valkjate steriilse koe soontega. See püsib kaua tihke ja kompaktne, muutub siis mustjaks kuni tumepruuniks ja tolmjaks ning vanana hallikasroheliseks. Keskmist sammast ei ole. Eosed pääsevad välja rebenenud kesta kaudu ning tuul ja vihm levitavad neid; tühjad kestad võivad püsida kuid.",
+      "stipe": "Päris jalga ei ole. Viljakeha aheneb alusel kokkusurutud, kortsuliseks tipuks, mis on mõnikord välja venitatud lühikeseks jalataoliseks aluseks, ja sealt kinnitab teda mulda valkjate kuni kollakate seeneniidistiku nööride (risomorfide) kimp.",
+      "flesh": "Lõikel on valge koor tumedast sisemusest selgelt eraldatud ja võib muutuda kollakaks, roosakaks või punakaks. Sisemus on kõva ja tihke ning tumeneb väga vara, erinevalt tolmuseente pehmest sisemusest, mis jääb kauaks valgeks. Lõhna kirjeldatakse erinevalt, tähelepandamatust kuni tugeva, vürtsika, küüslaugulise, metallilise või gaasilaadseni, ning see on kõige märgatavam, kui viljakeha lõigatakse või kuivatatakse.",
+      "sporePrint": "Eosmass on tumepruun kuni mustjaspruun, värskelt sageli purpurse varjundiga; mõnes kirjelduses nimetatakse seda oliivpruuniks. Eosed on kerajad kuni peaaegu kerajad, 8–13 µm (7–11 µm ilma ornamendita), tumepruunid ja tihedalt kaetud 1–1,5 µm pikkuste ogadega, mis on tavaliselt harjadega ühendatud täielikuks või osaliseks võrgustikuks; mõnel leiul on võrgustik puudulik või puudub, isegi sama viljakeha piires.",
+      "habitat": "See moodustab ektomükoriisat leht- ja okaspuudega, eriti tamme, kase, pöögi ja männiga. See kasvab üksikult, hajusalt või rühmiti vaesel, happelisel, liivasel, kivisel või turbasel pinnasel okas-, leht- ja segametsades, nõmmedel, parkides ja madalas rohus, sageli paljal tihendatud pinnasel metsateede ääres, nõlvadel ja kuivenduskraavide kallastel, mõnikord ka sambla seas või tugevasti kõdunenud puidul. Euroopas viljub see juulist novembrini, Suurbritannias ja Iirimaal detsembri alguseni, ning vanad viljakehad võivad püsida talveni. Põhja-Ameerikas ilmub see suvel ja sügisel, sooja kliimaga piirkondades ka talvel.",
+      "uses": "Mürgine. Söömine põhjustab seedetrakti mürgistuse iivelduse, oksendamise ja kõhuvaluga, mõnikord ka higistamise, madala vererõhu, pearingluse ja kollapsiga; sümptomid võivad alata 30–45 minutit pärast sööki ja neid põhjustavad ained pole teada. Mõned seenelised viilutavad ja kuivatavad väga noori, veel heleda sisemusega viljakehi väikeses koguses maitseaineks ning varem kasutati seent trühvlite võltsimiseks pasteetides ja maksavorstis, kuid see ei ole ohutu, sest mõned inimesed reageerivad sellele tugevalt. Sissehingatud eosed võivad ärritada silmi ja nina.",
+      "confusion": "Tolmuseened, näiteks Lycoperdon perlatum ja Apioperdon pyriforme, on pehmed ja käsnjad õhukese kestaga, jäävad seest kauaks valgeks ja vabastavad eosed ühe tipuava kaudu; Lycoperdon perlatum on lisaks kaetud pärljate teravate ogadega. Scleroderma verrucosum ja Scleroderma areolatum moodustavad väiksemaid viljakehi õhema, pruunima kesta ja vähem silmatorkavate soomustega ning nende eosed on ogalised ilma võrgustikuta.",
+      "notes": "Kuigi see meenutab tolmuseent, kuulub see seltsi Boletales ja on lähedalt suguluses perekonna Gyroporus puravikega. See on puraviku Pseudoboletus parasiticus ainus teadaolev peremees; too kasvab selle viljakehadel."
+    },
+    "fa": {
+      "description": "قارچی کروی و گسترده با پوسته‌ای سخت، ضخیم و فلس‌دار که در جنگل‌ها، خلنگ‌زارها و پارک‌ها روی زمین می‌روید، معمولاً در خاک اسیدی و شنی، و شریک قارچ‌ریشه‌ای بلوط، توس، کاج و درختان دیگر است. در اروپا و آمریکای شمالی رایج است و از آسیا، آفریقا، آمریکای جنوبی و اقیانوسیه نیز گزارش شده است.",
+      "cap": "کلاهک ندارد: کل اندام بارده گوی سخت، گرد تا سیب‌زمینی‌مانند یا اندکی پهن است، معمولاً ۳–۱۰ cm پهنا و ۳–۶ cm بلندی دارد و گاهی پهنایش به ۱۵ cm می‌رسد؛ نمونه‌های آمریکای شمالی اغلب فقط ۲–۵ cm هستند. پوستهٔ بیرونی (پریدیوم) محکم، چرمی و ۱–۴ mm ضخیم است، نخست سفیدفام، کرم یا زردفام، سپس زرد اُخرایی تا قهوه‌ای زردفام، و اغلب در بالا ته‌رنگ زرد لیمویی دارد. به‌زودی به فلس‌های درشت، نامنظم و قهوه‌ای تیره‌تر یا زگیل‌های چندضلعی پهن ترک می‌خورد که با افزایش سن بزرگ و آشکارا از هم جدا می‌شوند، در حالی که بخش پایینی تقریباً صاف می‌ماند و در جایی که به سوی پایه باریک می‌شود چین‌خورده است. پوستهٔ تازه ممکن است با فشار زردفام تا قرمز صورتی شود و KOH سطح را قرمز تا قرمز قهوه‌ای می‌کند. در بلوغ، پوسته در بالا به‌طور نامنظم پاره می‌شود و منفذ مشخصی ندارد.",
+      "hymenium": "تیغه و لوله ندارد: هاگ‌ها درون اندام بارده، در گلبا، پدید می‌آیند. گلبا فقط در اندام‌های بسیار جوان سفیدفام است و به‌زودی از مرکز به سوی بیرون خاکستری ارغوانی تا سیاه ارغوانی می‌شود و رگه‌های باریک سفیدفامی از بافت سترون آن را مرمرنما می‌کند. مدتی طولانی سفت و فشرده می‌ماند، سپس سیاه‌فام تا قهوه‌ای تیره و پودری می‌شود و در پیری سبز خاکستری است. ستون مرکزی ندارد. هاگ‌ها از پوستهٔ پاره‌شده بیرون می‌آیند و باد و باران آن‌ها را پراکنده می‌کند؛ پوسته‌های خالی ممکن است ماه‌ها باقی بمانند.",
+      "stipe": "پایهٔ واقعی ندارد. اندام بارده در پایه به نوکی فشرده و چین‌خورده باریک می‌شود که گاهی به پایه‌ای کوتاه و پایه‌مانند کشیده شده است و دسته‌ای از رشته‌های میسلیومی (ریزومورف) سفیدفام تا زردفام از آن آن را در خاک محکم می‌کند.",
+      "flesh": "در برش، پوستهٔ سفید به‌روشنی از درون تیره جدا است و ممکن است زردفام، صورتی یا سرخ‌فام شود. درون سخت و فشرده است و خیلی زود تیره می‌شود، برخلاف درون نرم قارچ‌های پفکی که مدتی طولانی سفید می‌ماند. بو به گونه‌های مختلف توصیف شده است، از بی‌ویژگی تا قوی، تند، سیرمانند، فلزی یا شبیه گاز، و بیش از همه هنگام بریدن یا خشک کردن اندام بارده حس می‌شود.",
+      "sporePrint": "تودهٔ هاگ قهوه‌ای تیره تا قهوه‌ای سیاه‌فام است و در حالت تازه اغلب ته‌رنگ ارغوانی دارد؛ برخی توصیف‌ها آن را قهوه‌ای زیتونی می‌نامند. هاگ‌ها کروی تا نیمه‌کروی، ۸–۱۳ µm (بدون تزئینات ۷–۱۱ µm)، قهوه‌ای تیره و به‌طور انبوه پوشیده از خارهایی به درازای ۱–۱٫۵ µm هستند که معمولاً با برآمدگی‌هایی به شبکه‌ای کامل یا ناقص پیوسته‌اند؛ در برخی نمونه‌ها شبکه ناقص است یا وجود ندارد، حتی درون یک اندام بارده.",
+      "habitat": "با درختان پهن‌برگ و سوزنی‌برگ، به‌ویژه بلوط، توس، راش و کاج، قارچ‌ریشهٔ بیرونی می‌سازد. به‌صورت تکی، پراکنده یا گروهی در خاک‌های فقیر، اسیدی، شنی، سنگلاخی یا تورب‌دار در جنگل‌های سوزنی‌برگ، پهن‌برگ و آمیخته، در خلنگ‌زارها، پارک‌ها و چمن کوتاه می‌روید، اغلب روی خاک برهنه و کوبیده کنار جاده‌های جنگلی، روی شیب‌ها و در امتداد جوی‌های زهکشی، و گاهی در میان خزه‌ها یا روی چوب بسیار پوسیده. در اروپا از ژوئیه تا نوامبر بار می‌دهد، در بریتانیا و ایرلند تا اوایل دسامبر، و اندام‌های بارده کهنه ممکن است تا زمستان باقی بمانند. در آمریکای شمالی در تابستان و پاییز پیدا می‌شود و در اقلیم‌های گرم در زمستان نیز.",
+      "uses": "سمی. خوردن آن مسمومیت گوارشی با تهوع، استفراغ و درد شکم ایجاد می‌کند، گاهی همراه با تعریق، افت فشار خون، سرگیجه و از حال رفتن؛ نشانه‌ها ممکن است ۳۰–۴۵ دقیقه پس از غذا آغاز شوند و مواد مسئول آن شناخته نشده‌اند. برخی قارچ‌چینان اندام‌های بارده بسیار جوان را که درونشان هنوز روشن است برش می‌زنند و خشک می‌کنند تا به مقدار کم چاشنی کنند، و در گذشته این قارچ برای تقلب در ترافل در پاته‌ها و سوسیس جگر به کار می‌رفت، اما این کار ایمن نیست، زیرا برخی افراد به‌شدت به آن واکنش نشان می‌دهند. هاگ‌های استنشاق‌شده ممکن است چشم و بینی را تحریک کنند.",
+      "confusion": "قارچ‌های پفکی مانند Lycoperdon perlatum و Apioperdon pyriforme نرم و اسفنجی با پوسته‌ای نازک‌اند، درونشان مدتی طولانی سفید می‌ماند و هاگ‌هایشان را از یک منفذ در نوک آزاد می‌کنند؛ Lycoperdon perlatum افزون بر این خارهای نوک‌تیز مرواریدگون دارد. Scleroderma verrucosum و Scleroderma areolatum اندام‌های بارده کوچک‌تری با پوسته‌ای نازک‌تر و قهوه‌ای‌تر و فلس‌های کم‌نمودتر می‌سازند و هاگ‌هایشان خاردار و بدون شبکه است.",
+      "notes": "هرچند به قارچ پفکی شبیه است، به راستهٔ Boletales تعلق دارد و خویشاوند نزدیک بولت‌های سردهٔ Gyroporus است. تنها میزبان شناخته‌شدهٔ بولت Pseudoboletus parasiticus است که روی اندام‌های بارده‌اش می‌روید."
+    },
+    "fi": {
+      "description": "Laajalle levinnyt mukulakuukunen, jolla on kova, paksu ja suomuinen kuori. Se kasvaa maassa metsissä, nummilla ja puistoissa, yleensä happamalla, hiekkaisella maalla, tammen, koivun, männyn ja muiden puiden sienijuurikumppanina. Se on yleinen Euroopassa ja Pohjois-Amerikassa, ja sitä on ilmoitettu myös Aasiasta, Afrikasta, Etelä-Amerikasta ja Oseaniasta.",
+      "cap": "Lakkia ei ole: koko itiöemä on kova, pyöreähkö, perunamainen tai hieman litistynyt pallo, tavallisesti 3–10 cm leveä ja 3–6 cm korkea, joskus jopa 15 cm leveä; Pohjois-Amerikan löydöt ovat usein vain 2–5 cm. Ulkokuori (peridi) on sitkeä, nahkea ja 1–4 mm paksu, aluksi valkeahko, kermanvärinen tai kellertävä, sitten okrankeltainen tai kellanruskea, päältä usein sitruunankeltaisen sävyinen. Se halkeilee pian karkeiksi, epäsäännöllisiksi, tummemmanruskeiksi suomuiksi tai litteiksi monikulmaisiksi nystyiksi, jotka vanhetessaan suurenevat ja erkanevat selvästi toisistaan, kun taas alaosa pysyy lähes sileänä ja on ryppyinen kohdasta, jossa se kapenee tyveä kohti. Tuore kuori voi painettaessa muuttua kellertäväksi tai ruusunpunaiseksi, ja KOH värjää pinnan punaiseksi tai ruskehtavanpunaiseksi. Kypsänä kuori repeää huipulta epäsäännöllisesti ilman valmista aukkoa.",
+      "hymenium": "Heltoja tai pillejä ei ole: itiöt muodostuvat itiöemän sisällä, glebassa. Gleba on valkeahko vain hyvin nuorissa itiöemissä ja muuttuu pian keskeltä ulospäin purppuranharmaaksi tai purppuranmustaksi, ja sitä marmoroivat hienot valkeahkot steriilin solukon suonet. Se pysyy pitkään kiinteänä ja tiiviinä, muuttuu sitten mustahkoksi tai tummanruskeaksi ja jauhoiseksi ja vanhana harmaanvihreäksi. Keskipylvästä ei ole. Itiöt pääsevät ulos revenneen kuoren läpi, ja tuuli ja sade levittävät niitä; tyhjät kuoret voivat säilyä kuukausia.",
+      "stipe": "Varsinaista jalkaa ei ole. Itiöemä kapenee tyveltä puristuneeksi, ryppyiseksi kärjeksi, joka on joskus venynyt lyhyeksi jalkamaiseksi tyveksi, ja siitä lähtevä valkeahkojen tai kellertävien rihmastojuosteiden (risomorfien) tupsu kiinnittää sen maahan.",
+      "flesh": "Leikattaessa valkoinen kuori erottuu selvästi tummasta sisuksesta ja voi muuttua kellertäväksi, vaaleanpunaiseksi tai punertavaksi. Sisus on kova ja tiivis ja tummuu hyvin varhain, toisin kuin tuhkeloiden pehmeä sisus, joka pysyy pitkään valkoisena. Haju kuvataan eri tavoin, mitäänsanomattomasta voimakkaaseen, mausteiseen, valkosipulimaiseen, metalliseen tai kaasumaiseen, ja se tuntuu selvimmin, kun itiöemä leikataan tai kuivataan.",
+      "sporePrint": "Itiömassa on tummanruskea tai mustanruskea, tuoreena usein purppurasävyinen; joissakin kuvauksissa sitä sanotaan oliivinruskeaksi. Itiöt ovat pallomaisia tai lähes pallomaisia, 8–13 µm (7–11 µm ilman koristetta), tummanruskeita ja tiheästi 1–1,5 µm pitkien piikkien peittämiä; piikit ovat tavallisesti harjanteiden yhdistämiä täydelliseksi tai osittaiseksi verkoksi, mutta joissakin löydöissä verkko on vajaa tai puuttuu, jopa saman itiöemän sisällä.",
+      "habitat": "Se muodostaa ektomykorritsan lehti- ja havupuiden, erityisesti tammen, koivun, pyökin ja männyn kanssa. Se kasvaa yksittäin, hajallaan tai ryhminä karuilla, happamilla, hiekkaisilla, kivisillä tai turpeisilla mailla havu-, lehti- ja sekametsissä, nummilla, puistoissa ja matalassa nurmikossa, usein paljaalla, tiivistyneellä maalla metsäteiden varsilla, penkereillä ja ojien varsilla, joskus myös sammalen seassa tai hyvin lahonneella puulla. Euroopassa se muodostaa itiöemiä heinäkuusta marraskuuhun, Britanniassa ja Irlannissa joulukuun alkuun asti, ja vanhat itiöemät voivat säilyä talveen. Pohjois-Amerikassa sitä tavataan kesällä ja syksyllä, lämpimässä ilmastossa myös talven yli.",
+      "uses": "Myrkyllinen. Syöminen aiheuttaa maha-suolikanavan myrkytyksen, jonka oireita ovat pahoinvointi, oksentelu ja vatsakipu, joskus myös hikoilu, matala verenpaine, huimaus ja romahdus; oireet voivat alkaa 30–45 minuuttia aterian jälkeen, eikä niitä aiheuttavia aineita tunneta. Jotkut sienestäjät viipaloivat ja kuivaavat hyvin nuoria, sisältä vielä vaaleita itiöemiä mausteeksi pieninä määrinä, ja sientä käytettiin aikoinaan tryffelin väärentämiseen pasteijoissa ja maksamakkarassa, mutta se ei ole turvallista, koska jotkut reagoivat siihen voimakkaasti. Hengitetyt itiöt voivat ärsyttää silmiä ja nenää.",
+      "confusion": "Tuhkelot, kuten Lycoperdon perlatum ja Apioperdon pyriforme, ovat pehmeitä ja sienimäisiä, ohutkuorisia, pysyvät sisältä pitkään valkoisina ja vapauttavat itiönsä huipun yhden aukon kautta; Lycoperdon perlatum -lajilla on lisäksi helmimäisiä, teräviä piikkejä. Scleroderma verrucosum ja Scleroderma areolatum muodostavat pienempiä itiöemiä, joiden kuori on ohuempi ja ruskeampi ja suomut vähemmän näkyviä, ja niiden itiöt ovat piikkisiä ilman verkkoa.",
+      "notes": "Vaikka se näyttää tuhkelolta, se kuuluu lahkoon Boletales ja on läheistä sukua Gyroporus-suvun tatteille. Se on ainoa tunnettu isäntä tatille Pseudoboletus parasiticus, joka kasvaa sen itiöemillä."
+    },
+    "fr": {
+      "description": "Un scléroderme très répandu à peau dure, épaisse et écailleuse, qui pousse sur le sol dans les bois, les landes et les parcs, généralement sur des sols acides et sableux, en association mycorhizienne avec les chênes, les bouleaux, les pins et d'autres arbres. Il est commun en Europe et en Amérique du Nord et est aussi signalé en Asie, en Afrique, en Amérique du Sud et en Océanie.",
+      "cap": "Il n'y a pas de chapeau : tout le carpophore est une boule dure, arrondie à tubériforme ou un peu aplatie, mesurant le plus souvent 3–10 cm de large et 3–6 cm de haut, parfois jusqu'à 15 cm de large ; les récoltes nord-américaines ne mesurent souvent que 2–5 cm. L'enveloppe externe (péridium) est coriace, d'aspect de cuir et épaisse de 1–4 mm, d'abord blanchâtre, crème ou jaunâtre, puis jaune ocre à brun jaune, souvent teintée de jaune citron au sommet. Elle se craquelle bientôt en grosses écailles irrégulières d'un brun plus foncé ou en verrues polygonales aplaties, qui deviennent grandes et bien séparées avec l'âge, tandis que la partie inférieure reste presque lisse et se ride là où elle se rétrécit vers la base. La peau fraîche peut se tacher de jaunâtre à rouge rosé au toucher, et la potasse (KOH) colore la surface en rouge à rouge brunâtre. À maturité, la peau se déchire irrégulièrement au sommet, sans pore défini.",
+      "hymenium": "Il n'y a ni lames ni tubes : les spores se forment à l'intérieur du carpophore, dans la glèbe. La glèbe n'est blanchâtre que chez les très jeunes carpophores et devient bientôt gris pourpre à noir pourpre du centre vers l'extérieur, marbrée de fines veines blanchâtres de tissu stérile. Elle reste longtemps ferme et compacte, puis devient noirâtre à brun foncé et pulvérulente et, à la fin, gris verdâtre. Il n'y a pas de columelle. Les spores s'échappent par la peau déchirée et sont dispersées par le vent et la pluie ; les enveloppes vides peuvent persister des mois.",
+      "stipe": "Il n'y a pas de vrai pied. Le carpophore se rétrécit à la base en une pointe pincée et ridée, parfois étirée en une courte base en forme de pied, d'où une touffe de cordons mycéliens (rhizomorphes) blanchâtres à jaunâtres l'ancre dans le sol.",
+      "flesh": "À la coupe, l'écorce blanche se distingue nettement de l'intérieur sombre et peut rosir ou prendre une teinte jaunâtre ou rougeâtre. L'intérieur est dur et compact et fonce très tôt, contrairement à l'intérieur mou des vesses-de-loup, qui reste longtemps blanc. L'odeur varie selon les auteurs, de non distinctive à forte, épicée, alliacée, métallique ou rappelant le gaz d'éclairage, et se remarque surtout quand le carpophore est coupé ou séché.",
+      "sporePrint": "La masse sporale est brun foncé à brun noirâtre, souvent teintée de pourpre à l'état frais ; certaines descriptions la disent brun olive. Les spores sont globuleuses à subglobuleuses, de 8–13 µm (7–11 µm sans l'ornementation), brun foncé et densément couvertes d'épines longues de 1–1,5 µm, généralement reliées par des crêtes en un réseau complet ou partiel ; chez certaines récoltes, le réseau est incomplet ou absent, même au sein d'un seul carpophore.",
+      "habitat": "Il est ectomycorhizien avec les feuillus et les conifères, surtout les chênes, les bouleaux, le hêtre et les pins. Il pousse isolé, dispersé ou en groupes sur des sols pauvres, acides, sableux, caillouteux ou tourbeux dans les bois de conifères, de feuillus et mixtes, dans les landes, les parcs et l'herbe rase, souvent sur la terre nue et tassée au bord des chemins forestiers, sur les talus et le long des fossés de drainage, et parfois parmi les mousses ou sur du bois très décomposé. En Europe, il fructifie de juillet à novembre, en Grande-Bretagne et en Irlande jusqu'au début de décembre, et les vieux carpophores peuvent persister jusqu'en hiver. En Amérique du Nord, il apparaît en été et en automne, et en hiver sous les climats chauds.",
+      "uses": "Toxique. Sa consommation provoque une intoxication gastro-intestinale avec nausées, vomissements et douleurs abdominales, parfois avec sueurs, baisse de la tension artérielle, vertiges et malaise grave ; les symptômes peuvent apparaître 30–45 minutes après le repas, et les substances responsables ne sont pas connues. Certains cueilleurs tranchent et font sécher de très jeunes carpophores à l'intérieur encore pâle pour s'en servir comme condiment en petite quantité, et ce champignon a autrefois servi à imiter la truffe dans les pâtés et le saucisson de foie, mais ce n'est pas sûr, car certaines personnes y réagissent fortement. Les spores inhalées peuvent irriter les yeux et le nez.",
+      "confusion": "Les vesses-de-loup comme Lycoperdon perlatum et Apioperdon pyriforme sont molles et spongieuses à peau mince, restent longtemps blanches à l'intérieur et libèrent leurs spores par une seule ouverture au sommet ; Lycoperdon perlatum porte en outre des aiguillons pointus nacrés. Scleroderma verrucosum et Scleroderma areolatum forment des carpophores plus petits à peau plus mince et plus brune et à écailles moins marquées, et leurs spores sont épineuses sans réseau.",
+      "notes": "Bien qu'il ressemble à une vesse-de-loup, il appartient à l'ordre des Boletales et est étroitement apparenté aux bolets du genre Gyroporus. C'est le seul hôte connu du bolet Pseudoboletus parasiticus, qui pousse sur ses carpophores."
+    },
+    "he": {
+      "description": "פטרייה כדורית נפוצה בעלת קליפה קשה, עבה וקשקשית, הגדלה על הקרקע ביערות, בבתות ובפארקים, לרוב בקרקע חומצית וחולית, כשותפה מיקוריזית של אלונים, ליבנים, אורנים ועצים אחרים. היא נפוצה באירופה ובצפון אמריקה ומדווחת גם מאסיה, מאפריקה, מדרום אמריקה ומאוקיאניה.",
+      "cap": "אין כובע: כל גוף הפרי הוא כדור קשה, מעוגל עד דמוי תפוח אדמה או פחוס מעט, לרוב ברוחב 3–10 cm ובגובה 3–6 cm ולעיתים ברוחב של עד 15 cm; ממצאים מצפון אמריקה הם לעיתים קרובות רק 2–5 cm. הקליפה החיצונית (פרידיום) קשיחה, דמוית עור ועוביה 1–4 mm, בתחילה לבנבנה, קרמית או צהבהבה, ואחר כך צהובה-אוכרה עד חומה-צהבהבה, ולעיתים קרובות בעלת גוון צהוב-לימון בחלקה העליון. עד מהרה היא נסדקת לקשקשים גסים ולא סדירים בצבע חום כהה יותר או ליבלות שטוחות מצולעות, ההולכות וגדלות ונפרדות בבירור עם הגיל, בעוד שהחלק התחתון נשאר כמעט חלק ומקומט במקום שבו הוא מוצר לעבר הבסיס. קליפה טרייה עשויה להכתים בלחיצה בצהבהב עד אדום-ורדרד, ו־KOH צובע את פני השטח באדום עד אדום-חום. בבגרות הקליפה נקרעת באופן לא סדיר בחלקה העליון, ללא פתח מוגדר.",
+      "hymenium": "אין דפים ואין צינוריות: הנבגים נוצרים בתוך גוף הפרי, בגלבה. הגלבה לבנבנה רק בגופי פרי צעירים מאוד, ועד מהרה היא נעשית אפורה-סגולה עד שחורה-סגולה מהמרכז כלפי חוץ, משוישת בעורקים לבנבנים דקים של רקמה עקרה. היא נשארת זמן רב מוצקה ודחוסה, אחר כך נעשית שחרחרה עד חומה כהה ואבקתית, ובזקנתה ירוקה-אפרפרה. אין עמוד מרכזי. הנבגים יוצאים דרך הקליפה הקרועה ומפוזרים ברוח ובגשם; קליפות ריקות עשויות להחזיק מעמד חודשים.",
+      "stipe": "אין רגל של ממש. בבסיסו גוף הפרי מוצר לקצה צבוט ומקומט, שלעיתים נמתח לבסיס קצר דמוי רגל, וממנו צרור של חוטי תפטיר (ריזומורפים) לבנבנים עד צהבהבים מעגן אותו בקרקע.",
+      "flesh": "בחתך, הקליפה הלבנה נפרדת בבירור מהפנים הכהה ועשויה להאדים או לקבל גוון צהבהב או ורדרד. הפנים קשה ודחוס ומשחיר מוקדם מאוד, בניגוד לפנים הרך של פטריות אבקן, הנשאר לבן זמן רב. הריח מתואר באופנים שונים, מלא מיוחד ועד חזק, מתובל, שומי, מתכתי או דמוי גז, והוא מורגש ביותר כשגוף הפרי נחתך או מיובש.",
+      "sporePrint": "מסת הנבגים חומה כהה עד חומה-שחרחרה, ולעיתים קרובות בעלת גוון סגלגל כשהיא טרייה; יש תיאורים המכנים אותה חומה-זיתית. הנבגים כדוריים עד כמעט כדוריים, 8–13 µm (7–11 µm בלי העיטור), חומים כהים ומכוסים בצפיפות בקוצים באורך 1–1.5 µm, המחוברים לרוב ברכסים לרשת שלמה או חלקית; בחלק מהממצאים הרשת חלקית או חסרה, אפילו בתוך גוף פרי אחד.",
+      "habitat": "היא יוצרת אקטומיקוריזה עם עצים רחבי עלים ומחטניים, במיוחד אלונים, ליבנים, אשור ואורנים. היא גדלה בודדת, מפוזרת או בקבוצות בקרקע דלה, חומצית, חולית, אבנית או כבולית ביערות מחטניים, רחבי עלים ומעורבים, בבתות, בפארקים ובדשא נמוך, לעיתים קרובות על קרקע חשופה ודחוסה לצד דרכי יער, על מדרונות ולאורך תעלות ניקוז, ולפעמים בין טחבים או על עץ רקוב מאוד. באירופה היא מניבה פרי מיולי עד נובמבר, בבריטניה ובאירלנד עד תחילת דצמבר, וגופי פרי ישנים עשויים להחזיק מעמד עד החורף. בצפון אמריקה היא מופיעה בקיץ ובסתיו, ובאקלים חם גם בחורף.",
+      "uses": "רעילה. אכילתה גורמת להרעלה במערכת העיכול עם בחילה, הקאות וכאבי בטן, לעיתים עם הזעה, לחץ דם נמוך, סחרחורת והתמוטטות; התסמינים עשויים להתחיל 30–45 דקות אחרי הארוחה, והחומרים האחראים אינם ידועים. יש לקטים הפורסים ומייבשים גופי פרי צעירים מאוד שפנימם עדיין חיוור, לשימוש כתבלין בכמויות קטנות, ובעבר שימשה הפטרייה לזיוף כמהין בפטה ובנקניק כבד, אך הדבר אינו בטוח, משום שאנשים מסוימים מגיבים אליה בחריפות. נבגים שנשאפו עלולים לגרות את העיניים והאף.",
+      "confusion": "פטריות אבקן כמו Lycoperdon perlatum ו־Apioperdon pyriforme רכות וספוגיות בעלות קליפה דקה, נשארות לבנות מבפנים זמן רב ומשחררות את נבגיהן דרך פתח יחיד בראשן; ל־Lycoperdon perlatum יש בנוסף קוצים מחודדים דמויי פנינה. Scleroderma verrucosum ו־Scleroderma areolatum יוצרות גופי פרי קטנים יותר בעלי קליפה דקה וחומה יותר וקשקשים בולטים פחות, ונבגיהן קוצניים ללא רשת.",
+      "notes": "אף שהיא נראית כמו פטריית אבקן, היא שייכת לסדרה Boletales וקרובה מאוד לבולטים מהסוג Gyroporus. היא המאכסנת היחידה הידועה של הבולט Pseudoboletus parasiticus, הגדל על גופי הפרי שלה."
+    },
+    "hi": {
+      "description": "कठोर, मोटी और शल्कदार त्वचा वाला एक व्यापक रूप से फैला गोलाकार कवक, जो जंगलों, झाड़ीदार खुले मैदानों और पार्कों में ज़मीन पर उगता है, आमतौर पर अम्लीय, रेतीली मिट्टी में, और बलूत, भोजपत्र, चीड़ तथा अन्य पेड़ों का कवकमूल साझेदार होता है। यह यूरोप और उत्तरी अमेरिका में आम है तथा एशिया, अफ़्रीका, दक्षिण अमेरिका और ओशिनिया से भी दर्ज किया गया है।",
+      "cap": "टोपी नहीं होती: पूरा फलनकाय एक कठोर, गोल से आलू जैसी या थोड़ी चपटी गेंद होता है, आमतौर पर 3–10 cm चौड़ा और 3–6 cm ऊँचा, कभी-कभी 15 cm तक चौड़ा; उत्तरी अमेरिका के नमूने प्रायः केवल 2–5 cm के होते हैं। बाहरी त्वचा (पेरिडियम) मज़बूत, चमड़े जैसी और 1–4 mm मोटी होती है, पहले सफ़ेद-सी, क्रीम या पीली-सी, फिर गेरुआ-पीली से पीली-भूरी, और ऊपर अक्सर नींबू-पीली आभा लिए। यह जल्दी ही मोटे, अनियमित, गहरे भूरे शल्कों या चपटे बहुभुजी मस्सों में दरक जाती है, जो उम्र के साथ बड़े और स्पष्ट रूप से अलग हो जाते हैं, जबकि निचला भाग लगभग चिकना रहता है और जहाँ आधार की ओर सँकरा होता है वहाँ झुर्रीदार होता है। ताज़ी त्वचा दबाने पर पीली-सी से गुलाबी-लाल हो सकती है, और KOH सतह को लाल से भूरा-लाल कर देता है। परिपक्व होने पर त्वचा ऊपर से अनियमित रूप से फट जाती है, कोई निश्चित छिद्र नहीं होता।",
+      "hymenium": "गलफड़े या नलिकाएँ नहीं होतीं: बीजाणु फलनकाय के भीतर, ग्लेबा में बनते हैं। ग्लेबा केवल बहुत युवा फलनकायों में सफ़ेद-सा होता है और जल्दी ही केंद्र से बाहर की ओर बैंगनी-धूसर से बैंगनी-काला हो जाता है, जिसमें बंध्य ऊतक की बारीक सफ़ेद-सी शिराएँ संगमरमर जैसा पैटर्न बनाती हैं। यह लंबे समय तक ठोस और सघन रहता है, फिर कालापन लिए से गहरा भूरा और चूर्णी हो जाता है, और पुराना होने पर धूसर-हरा। कोई केंद्रीय स्तंभ नहीं होता। बीजाणु फटी त्वचा से बाहर निकलते हैं और हवा व बारिश से फैलते हैं; खाली खोल महीनों तक बने रह सकते हैं।",
+      "stipe": "असली डंठल नहीं होता। फलनकाय आधार पर एक भिंचे, झुर्रीदार सिरे में सँकरा हो जाता है, जो कभी-कभी एक छोटे डंठल जैसे आधार में खिंच जाता है, और वहाँ से सफ़ेद-सी से पीली-सी कवकजाल डोरियों (राइज़ोमॉर्फ़) का एक गुच्छा इसे मिट्टी में टिकाए रखता है।",
+      "flesh": "काटने पर सफ़ेद छाल गहरे भीतरी भाग से स्पष्ट रूप से अलग दिखती है और पीली-सी, गुलाबी-सी या लाल-सी हो सकती है। भीतरी भाग कठोर और सघन होता है और बहुत जल्दी गहरा हो जाता है, जबकि पफ़बॉल कवकों का नरम भीतरी भाग लंबे समय तक सफ़ेद रहता है। गंध का वर्णन अलग-अलग मिलता है, विशिष्ट नहीं से लेकर तेज़, मसालेदार, लहसुन जैसी, धात्विक या गैस जैसी तक, और यह फलनकाय को काटने या सुखाने पर सबसे अधिक महसूस होती है।",
+      "sporePrint": "बीजाणु-पुंज गहरा भूरा से कालापन लिए भूरा होता है, ताज़ा होने पर अक्सर बैंगनी आभा लिए; कुछ विवरण इसे जैतूनी-भूरा बताते हैं। बीजाणु गोल से लगभग गोल, 8–13 µm (अलंकरण के बिना 7–11 µm), गहरे भूरे होते हैं और 1–1.5 µm लंबे काँटों से घने ढके होते हैं, जो आमतौर पर उभारों से जुड़कर पूर्ण या आंशिक जाल बनाते हैं; कुछ नमूनों में जाल अधूरा या अनुपस्थित होता है, यहाँ तक कि एक ही फलनकाय के भीतर भी।",
+      "habitat": "यह चौड़ी पत्ती वाले और शंकुधारी पेड़ों, विशेषकर बलूत, भोजपत्र, बीच और चीड़ के साथ बाह्य-कवकमूल बनाता है। यह अकेले, बिखरे हुए या समूहों में शंकुधारी, चौड़ी पत्ती वाले और मिश्रित जंगलों, झाड़ीदार खुले मैदानों, पार्कों और छोटी घास में गरीब, अम्लीय, रेतीली, पथरीली या पीटयुक्त मिट्टी पर उगता है, अक्सर वन मार्गों के किनारे नंगी, दबी हुई ज़मीन पर, ढलानों पर और जल-निकासी नालियों के किनारे, और कभी-कभी काई के बीच या बहुत सड़ी लकड़ी पर। यूरोप में यह जुलाई से नवंबर तक फल देता है, ब्रिटेन और आयरलैंड में दिसंबर की शुरुआत तक, और पुराने फलनकाय सर्दियों तक बने रह सकते हैं। उत्तरी अमेरिका में यह गर्मी और पतझड़ में दिखता है, और गर्म जलवायु में सर्दियों में भी।",
+      "uses": "विषैला। इसे खाने से मतली, उल्टी और पेट दर्द के साथ जठरांत्र विषाक्तता होती है, कभी-कभी पसीना, निम्न रक्तचाप, चक्कर और बेहोशी के साथ; लक्षण भोजन के 30–45 मिनट बाद शुरू हो सकते हैं, और ज़िम्मेदार पदार्थ ज्ञात नहीं हैं। कुछ संग्राहक अभी भी हल्के भीतरी भाग वाले बहुत युवा फलनकायों को काटकर और सुखाकर कम मात्रा में मसाले के रूप में इस्तेमाल करते हैं, और कभी इस कवक का उपयोग पाते और कलेजी के सॉसेज में ट्रफ़ल की नकल के लिए होता था, पर यह सुरक्षित नहीं है, क्योंकि कुछ लोग इस पर तीव्र प्रतिक्रिया करते हैं। साँस से भीतर गए बीजाणु आँखों और नाक में जलन पैदा कर सकते हैं।",
+      "confusion": "Lycoperdon perlatum और Apioperdon pyriforme जैसे पफ़बॉल कवक नरम और स्पंजी होते हैं, उनकी त्वचा पतली होती है, वे भीतर से लंबे समय तक सफ़ेद रहते हैं और अपने बीजाणु शीर्ष के एक ही छिद्र से छोड़ते हैं; Lycoperdon perlatum पर मोती जैसे नुकीले काँटे भी होते हैं। Scleroderma verrucosum और Scleroderma areolatum पतली, अधिक भूरी त्वचा और कम उभरे शल्कों वाले छोटे फलनकाय बनाते हैं, और उनके बीजाणु बिना जाल के काँटेदार होते हैं।",
+      "notes": "पफ़बॉल जैसा दिखने के बावजूद यह Boletales गण से संबंधित है और Gyroporus वंश के बोलीट कवकों से निकट संबंधित है। यह बोलीट Pseudoboletus parasiticus का एकमात्र ज्ञात परपोषी है, जो इसके फलनकायों पर उगता है।"
+    },
+    "hr": {
+      "description": "Široko rasprostranjena krumpirača s tvrdom, debelom, ljuskavom kožicom koja raste na tlu u šumama, na vrištinama i u parkovima, obično na kiselim, pjeskovitim tlima, kao mikorizni partner hrastova, breza, borova i drugog drveća. Česta je u Europi i Sjevernoj Americi, a navodi se i iz Azije, Afrike, Južne Amerike i Oceanije.",
+      "cap": "Klobuka nema: cijelo plodište je tvrda, okrugla do gomoljasta ili blago spljoštena kugla, obično 3–10 cm široka i 3–6 cm visoka, ponekad do 15 cm široka; sjevernoamerički nalazi često imaju samo 2–5 cm. Vanjska kožica (peridij) je žilava, kožasta i 1–4 mm debela, isprva bjelkasta, krem ili žućkasta, zatim okerastožuta do žutosmeđa, odozgo često s limunastožutim tonom. Ubrzo puca u grube, nepravilne, tamnije smeđe ljuske ili plosnate mnogokutne bradavice koje sa starošću postaju velike i jasno odvojene, dok donji dio ostaje gotovo gladak i naboran ondje gdje se sužava prema osnovi. Svježa kožica na pritisak može požutjeti do ružičastocrveno pocrvenjeti, a KOH boji površinu crveno do smećkastocrveno. U zrelosti kožica na vrhu nepravilno pukne, bez oblikovanog otvora.",
+      "hymenium": "Listića ni cjevčica nema: spore nastaju unutar plodišta, u glebi. Gleba je bjelkasta samo u vrlo mladim plodištima i ubrzo od sredine prema van postaje ljubičastosiva do ljubičastocrna, mramorirana tankim bjelkastim žilicama sterilnog tkiva. Dugo ostaje čvrsta i kompaktna, zatim postaje crnkasta do tamnosmeđa i praškasta, a u starosti sivozelena. Središnjeg stupića nema. Spore izlaze kroz rasprsnutu kožicu i raznose ih vjetar i kiša; prazne ovojnice mogu se održati mjesecima.",
+      "stipe": "Prave stručke nema. Plodište se pri osnovi sužava u stisnut, naboran vrh, ponekad izdužen u kratku stručkoliku osnovu, iz koje ga snop bjelkastih do žućkastih micelijskih vrpci (rizomorfa) učvršćuje u tlu.",
+      "flesh": "Na prerezu je bijela kora jasno odvojena od tamne unutrašnjosti i može požutjeti, poružičastiti ili pocrvenjeti. Unutrašnjost je tvrda i kompaktna i vrlo rano potamni, za razliku od mekane unutrašnjosti puhara, koja dugo ostaje bijela. Miris se opisuje različito, od neupadljivog do jakog, začinskog, češnjakastog, metalnog ili nalik plinu, a najjače se osjeća kad se plodište prereže ili osuši.",
+      "sporePrint": "Masa spora je tamnosmeđa do crnkastosmeđa, svježa često s ljubičastim tonom; neki je opisi navode kao maslinastosmeđu. Spore su kuglaste do gotovo kuglaste, 8–13 µm (7–11 µm bez ukrasa), tamnosmeđe i gusto prekrivene bodljama dugim 1–1,5 µm koje su obično povezane grebenima u potpunu ili djelomičnu mrežicu; u nekim nalazima mrežica je nepotpuna ili je nema, čak i unutar jednog plodišta.",
+      "habitat": "Tvori ektomikorizu s listopadnim i crnogoričnim drvećem, osobito s hrastovima, brezama, bukvom i borovima. Raste pojedinačno, raštrkano ili u skupinama na siromašnim, kiselim, pjeskovitim, kamenitim ili tresetnim tlima u crnogoričnim, bjelogoričnim i mješovitim šumama, na vrištinama, u parkovima i na niskoj travi, često na goloj, utabanoj zemlji uz šumske putove, na kosinama i uz odvodne jarke, ponekad i među mahovinom ili na jako trulom drvu. U Europi plodi od srpnja do studenoga, u Velikoj Britaniji i Irskoj do početka prosinca, a stara plodišta mogu se održati do zime. U Sjevernoj Americi pojavljuje se ljeti i u jesen, a u toplom podneblju i preko zime.",
+      "uses": "Otrovna. Konzumacija uzrokuje probavno trovanje s mučninom, povraćanjem i bolovima u trbuhu, ponekad sa znojenjem, niskim krvnim tlakom, vrtoglavicom i kolapsom; simptomi mogu početi 30–45 minuta nakon obroka, a odgovorne tvari nisu poznate. Neki gljivari režu i suše vrlo mlada plodišta još svijetle unutrašnjosti kao začin u malim količinama, a nekoć se gljiva rabila za krivotvorenje tartufa u paštetama i jetrenim kobasicama, no to nije sigurno jer neki ljudi na nju snažno reagiraju. Udahnute spore mogu nadražiti oči i nos.",
+      "confusion": "Puhare, poput vrsta Lycoperdon perlatum i Apioperdon pyriforme, mekane su i spužvaste s tankom kožicom, iznutra dugo ostaju bijele i otpuštaju spore kroz jedan otvor na vrhu; Lycoperdon perlatum uz to ima biserne, šiljaste bodlje. Scleroderma verrucosum i Scleroderma areolatum tvore manja plodišta s tanjom, smeđijom kožicom i manje uočljivim ljuskama, a spore su im bodljikave bez mrežice.",
+      "notes": "Iako izgleda kao puhara, pripada redu Boletales i blisko je srodna vrganjevkama roda Gyroporus. Jedini je poznati domaćin vrganjevke Pseudoboletus parasiticus, koja raste na njezinim plodištima."
+    },
+    "hu": {
+      "description": "Széles körben elterjedt áltrifla kemény, vastag, pikkelyes burokkal, amely a talajon nő erdőkben, fenyérekben és parkokban, többnyire savanyú, homokos talajon, tölgyek, nyírek, fenyők és más fák mikorrhizapartnereként. Európában és Észak-Amerikában gyakori, és Ázsiából, Afrikából, Dél-Amerikából és Óceániából is jelezték.",
+      "cap": "Kalapja nincs: az egész termőtest kemény, kerekded vagy gumó alakú, esetleg kissé lapított gömb, általában 3–10 cm széles és 3–6 cm magas, olykor 15 cm-ig szélesedik; az észak-amerikai példányok gyakran csak 2–5 cm-esek. A külső burok (perídium) szívós, bőrszerű és 1–4 mm vastag, eleinte fehéres, krémszínű vagy sárgás, később okkersárga vagy sárgásbarna, felül gyakran citromsárgás árnyalattal. Hamar durva, szabálytalan, sötétebb barna pikkelyekre vagy lapos sokszögű szemölcsökre repedezik, amelyek idővel nagyok és jól elkülönülők lesznek, míg az alsó rész csaknem sima marad, és ott ráncos, ahol a tövéhez keskenyedik. A friss burok nyomásra sárgásan vagy rózsásvörösen színeződhet, a KOH pedig vörösre vagy barnásvörösre festi a felszínt. Éretten a burok a csúcsán szabálytalanul felreped, kialakult nyílás nélkül.",
+      "hymenium": "Lemezei és csövei nincsenek: a spórák a termőtest belsejében, a glebában képződnek. A gleba csak az egészen fiatal termőtestekben fehéres, hamar a közepétől kifelé lilásszürke vagy lilásfekete lesz, finom fehéres, meddő szövetből álló erekkel márványozott. Sokáig kemény és tömör marad, majd feketés vagy sötétbarna és porszerű lesz, idősen szürkészöld. Középoszlopa nincs. A spórák a felszakadt burkon át jutnak ki, és a szél meg az eső terjeszti őket; az üres burkok hónapokig megmaradhatnak.",
+      "stipe": "Valódi tönkje nincs. A termőtest töve összeszűkülő, ráncos csúcsban végződik, amely néha rövid, tönkszerű tővé nyúlik, és ebből fehéres vagy sárgás micéliumzsinórok (rizomorfák) csomója rögzíti a talajban.",
+      "flesh": "Átvágva a fehér kéreg élesen elválik a sötét belsőtől, és sárgásra, rózsásra vagy vöröses árnyalatúra színeződhet. A belseje kemény és tömör, és nagyon korán sötétedik, ellentétben a pöfetegek puha belsejével, amely sokáig fehér marad. Szagát eltérően írják le, a jellegtelentől az erős, fűszeres, fokhagymás, fémes vagy gázszerű szagig, és leginkább átvágáskor vagy szárításkor érezhető.",
+      "sporePrint": "A spóratömeg sötétbarna vagy feketésbarna, frissen gyakran lilás árnyalatú; egyes leírások olajbarnának mondják. A spórák gömbölyűek vagy csaknem gömbölyűek, 8–13 µm-esek (díszítés nélkül 7–11 µm-esek), sötétbarnák, és sűrűn borítják őket 1–1,5 µm hosszú tüskék, amelyeket többnyire bordák kötnek össze teljes vagy részleges hálózattá; egyes leleteknél a hálózat hiányos vagy hiányzik, akár ugyanazon a termőtesten belül is.",
+      "habitat": "Lomb- és tűlevelű fákkal, főként tölgyekkel, nyírekkel, bükkel és fenyőkkel alkot ektomikorrhizát. Magányosan, szórtan vagy csoportosan nő tápanyagszegény, savanyú, homokos, köves vagy tőzeges talajon tűlevelű, lombos és elegyes erdőkben, fenyéreken, parkokban és alacsony füvön, gyakran csupasz, letaposott talajon erdei utak mentén, rézsűkön és vízelvezető árkok partján, néha mohák között vagy erősen korhadt fán is. Európában júliustól novemberig terem, Nagy-Britanniában és Írországban december elejéig, és az idős termőtestek a télig is megmaradhatnak. Észak-Amerikában nyáron és ősszel jelenik meg, meleg éghajlaton télen át is.",
+      "uses": "Mérgező. Fogyasztása gyomor-bél rendszeri mérgezést okoz hányingerrel, hányással és hasi fájdalommal, néha verejtékezéssel, alacsony vérnyomással, szédüléssel és ájulással; a tünetek 30–45 perccel az étkezés után kezdődhetnek, és a felelős anyagok nem ismertek. Egyes gombászok az egészen fiatal, még világos belsejű termőtesteket felszeletelve és megszárítva kis mennyiségben fűszerként használják, és régen a gombát szarvasgomba hamisítására is használták pástétomokban és májas hurkában, ez azonban nem biztonságos, mert egyes emberek erősen reagálnak rá. A belélegzett spórák irritálhatják a szemet és az orrot.",
+      "confusion": "A pöfetegek, például a Lycoperdon perlatum és az Apioperdon pyriforme, puhák és szivacsosak, vékony burkúak, belsejük sokáig fehér marad, és spóráikat egyetlen csúcsi nyíláson át bocsátják ki; a Lycoperdon perlatum ráadásul gyöngyszerű, hegyes tüskéket visel. A Scleroderma verrucosum és a Scleroderma areolatum kisebb termőtesteket fejleszt vékonyabb, barnább burokkal és kevésbé feltűnő pikkelyekkel, spóráik pedig tüskések, hálózat nélkül.",
+      "notes": "Bár pöfetegre hasonlít, a Boletales rendbe tartozik, és közeli rokonságban áll a Gyroporus nemzetség tinórugombáival. A Pseudoboletus parasiticus tinóru egyetlen ismert gazdája; ez a tinóru a termőtestein nő."
+    },
+    "id": {
+      "description": "Bola bumi yang tersebar luas dengan kulit keras, tebal, dan bersisik, tumbuh di tanah di hutan, padang semak, dan taman, biasanya di tanah masam berpasir, sebagai mitra mikoriza pohon ek, birch, pinus, dan pohon lainnya. Jamur ini umum di Eropa dan Amerika Utara serta juga dilaporkan dari Asia, Afrika, Amerika Selatan, dan Oseania.",
+      "cap": "Tidak ada tudung: seluruh tubuh buah berupa bola keras, membulat hingga berbentuk kentang atau agak pipih, biasanya lebar 3–10 cm dan tinggi 3–6 cm, kadang lebar hingga 15 cm; temuan di Amerika Utara sering hanya 2–5 cm. Kulit luar (peridium) liat, seperti kulit samak, dan tebalnya 1–4 mm, mula-mula keputihan, krem, atau kekuningan, kemudian kuning oker hingga cokelat kekuningan, sering dengan nuansa kuning lemon di bagian atas. Kulit ini segera retak menjadi sisik kasar tak beraturan berwarna cokelat lebih gelap atau kutil poligonal pipih yang makin besar dan terpisah jelas seiring umur, sedangkan bagian bawah tetap hampir licin dan berkerut di tempat menyempit ke pangkal. Kulit segar dapat bernoda kekuningan hingga merah kemerahmudaan bila ditekan, dan KOH mewarnai permukaan menjadi merah hingga merah kecokelatan. Saat matang, kulit robek tidak beraturan di bagian atas, tanpa lubang tertentu.",
+      "hymenium": "Tidak ada bilah maupun tabung: spora terbentuk di dalam tubuh buah, di gleba. Gleba hanya keputihan pada tubuh buah yang sangat muda dan segera menjadi abu-abu keunguan hingga hitam keunguan dari tengah ke luar, berpola marmer oleh urat-urat halus keputihan dari jaringan steril. Gleba lama tetap padat dan kompak, lalu menjadi kehitaman hingga cokelat tua dan bertepung, dan saat tua hijau keabu-abuan. Tidak ada tiang tengah. Spora keluar melalui kulit yang robek dan disebarkan oleh angin dan hujan; kulit yang kosong dapat bertahan berbulan-bulan.",
+      "stipe": "Tidak ada tangkai sejati. Tubuh buah menyempit di pangkal menjadi ujung yang terjepit dan berkerut, kadang memanjang menjadi pangkal pendek menyerupai tangkai, dan dari situ seberkas tali miselium (rizomorf) keputihan hingga kekuningan menambatkannya di tanah.",
+      "flesh": "Bila dipotong, kerak putih tampak jelas terpisah dari bagian dalam yang gelap dan dapat berubah kekuningan, kemerahmudaan, atau kemerahan. Bagian dalam keras dan kompak serta menggelap sangat dini, berbeda dengan bagian dalam jamur kentut yang lunak dan lama tetap putih. Baunya dilaporkan beragam, dari tidak khas hingga kuat, pedas, seperti bawang putih, logam, atau gas, dan paling terasa saat tubuh buah dipotong atau dikeringkan.",
+      "sporePrint": "Massa spora cokelat tua hingga cokelat kehitaman, sering bernuansa ungu saat segar; sebagian deskripsi menyebutnya cokelat zaitun. Spora bulat hingga hampir bulat, 8–13 µm (7–11 µm tanpa ornamen), cokelat tua, dan rapat tertutup duri sepanjang 1–1,5 µm yang biasanya dihubungkan oleh rigi menjadi jaring lengkap atau sebagian; pada beberapa temuan jaringnya tidak lengkap atau tidak ada, bahkan dalam satu tubuh buah.",
+      "habitat": "Jamur ini membentuk ektomikoriza dengan pohon berdaun lebar dan konifer, terutama ek, birch, beech, dan pinus. Tumbuh soliter, tersebar, atau berkelompok di tanah miskin, masam, berpasir, berbatu, atau bergambut di hutan konifer, hutan berdaun lebar, dan hutan campuran, di padang semak, taman, dan rumput pendek, sering di tanah gundul yang padat di tepi jalan hutan, di tebing, dan di sepanjang parit drainase, kadang di antara lumut atau di kayu yang sangat lapuk. Di Eropa jamur ini berbuah dari Juli hingga November, di Britania Raya dan Irlandia hingga awal Desember, dan tubuh buah tua dapat bertahan hingga musim dingin. Di Amerika Utara jamur ini muncul pada musim panas dan gugur, dan di iklim hangat juga sepanjang musim dingin.",
+      "uses": "Beracun. Memakannya menyebabkan keracunan saluran cerna dengan mual, muntah, dan sakit perut, kadang disertai berkeringat, tekanan darah rendah, pusing, dan kolaps; gejala dapat muncul 30–45 menit setelah makan, dan zat penyebabnya belum diketahui. Sebagian pencari jamur mengiris dan mengeringkan tubuh buah yang sangat muda dengan bagian dalam yang masih pucat sebagai bumbu dalam jumlah kecil, dan dulu jamur ini dipakai untuk memalsukan truffle dalam pate dan sosis hati, tetapi hal ini tidak aman karena sebagian orang bereaksi keras terhadapnya. Spora yang terhirup dapat mengiritasi mata dan hidung.",
+      "confusion": "Jamur kentut seperti Lycoperdon perlatum dan Apioperdon pyriforme lunak dan seperti spons dengan kulit tipis, bagian dalamnya lama tetap putih, dan melepaskan spora melalui satu lubang di puncak; Lycoperdon perlatum juga memiliki duri runcing seperti mutiara. Scleroderma verrucosum dan Scleroderma areolatum membentuk tubuh buah lebih kecil dengan kulit lebih tipis dan lebih cokelat serta sisik yang kurang mencolok, dan sporanya berduri tanpa jaring.",
+      "notes": "Meskipun mirip jamur kentut, jamur ini termasuk ordo Boletales dan berkerabat dekat dengan bolete genus Gyroporus. Jamur ini satu-satunya inang yang diketahui bagi bolete Pseudoboletus parasiticus, yang tumbuh di atas tubuh buahnya."
+    },
+    "it": {
+      "description": "Uno scleroderma molto diffuso dalla pelle dura, spessa e squamosa, che cresce a terra nei boschi, nelle brughiere e nei parchi, di solito su suoli acidi e sabbiosi, come partner micorrizico di querce, betulle, pini e altri alberi. È comune in Europa e in Nord America ed è segnalato anche in Asia, Africa, Sud America e Oceania.",
+      "cap": "Non c'è cappello: l'intero corpo fruttifero è una palla dura, tondeggiante, a forma di tubero o leggermente appiattita, di solito larga 3–10 cm e alta 3–6 cm, talvolta larga fino a 15 cm; le raccolte nordamericane misurano spesso solo 2–5 cm. L'involucro esterno (peridio) è tenace, coriaceo e spesso 1–4 mm, dapprima biancastro, crema o giallastro, poi giallo ocra fino a bruno-giallastro, spesso con una sfumatura giallo limone in alto. Presto si screpola in squame grossolane, irregolari, di un bruno più scuro, o in verruche poligonali appiattite che con l'età diventano grandi e ben separate, mentre la parte inferiore resta quasi liscia ed è rugosa dove si restringe verso la base. La pelle fresca può macchiarsi di giallastro fino a rosso rosato alla pressione, e il KOH colora la superficie di rosso fino a rosso brunastro. A maturità la pelle si lacera irregolarmente in alto, senza un poro definito.",
+      "hymenium": "Non ci sono lamelle né tubuli: le spore si formano all'interno del corpo fruttifero, nella gleba. La gleba è biancastra solo negli esemplari giovanissimi e presto diventa grigio-porpora fino a nero-porpora dal centro verso l'esterno, marmorizzata da sottili venature biancastre di tessuto sterile. Resta a lungo soda e compatta, poi diventa nerastra fino a bruno scuro e polverulenta e, da vecchia, verde-grigiastra. Non c'è columella. Le spore escono attraverso la pelle lacerata e vengono disperse dal vento e dalla pioggia; gli involucri vuoti possono persistere per mesi.",
+      "stipe": "Non c'è un vero gambo. Il corpo fruttifero si restringe alla base in una punta strozzata e rugosa, talvolta allungata in una corta base simile a un gambo, da cui un ciuffo di cordoni miceliari (rizomorfe) da biancastri a giallastri lo ancora al terreno.",
+      "flesh": "Al taglio, la scorza bianca si distingue nettamente dall'interno scuro e può virare al giallastro, al rosato o al rossastro. L'interno è duro e compatto e scurisce molto presto, a differenza dell'interno morbido delle vesce, che resta a lungo bianco. L'odore è descritto in modi diversi, da non particolare a forte, speziato, agliaceo, metallico o simile al gas, e si nota soprattutto quando il corpo fruttifero viene tagliato o essiccato.",
+      "sporePrint": "La massa sporale è bruno scuro fino a bruno-nerastra, spesso con una sfumatura porpora da fresca; alcune descrizioni la indicano bruno-olivastra. Le spore sono globose fino a subglobose, di 8–13 µm (7–11 µm senza ornamentazione), bruno scuro e fittamente coperte di aculei lunghi 1–1,5 µm, di solito uniti da creste in un reticolo completo o parziale; in alcune raccolte il reticolo è incompleto o assente, persino all'interno dello stesso corpo fruttifero.",
+      "habitat": "È ectomicorrizico con latifoglie e conifere, soprattutto querce, betulle, faggio e pini. Cresce isolato, sparso o in gruppi su suoli poveri, acidi, sabbiosi, sassosi o torbosi in boschi di conifere, di latifoglie e misti, nelle brughiere, nei parchi e nell'erba bassa, spesso sul terreno nudo e compattato lungo le piste forestali, sulle scarpate e lungo i fossi di drenaggio, e talvolta tra il muschio o su legno molto decomposto. In Europa fruttifica da luglio a novembre, in Gran Bretagna e Irlanda fino all'inizio di dicembre, e i corpi fruttiferi vecchi possono persistere fino all'inverno. In Nord America compare in estate e in autunno, e d'inverno nei climi caldi.",
+      "uses": "Velenoso. Il consumo provoca un'intossicazione gastrointestinale con nausea, vomito e dolori addominali, talvolta con sudorazione, pressione bassa, vertigini e collasso; i sintomi possono comparire 30–45 minuti dopo il pasto, e le sostanze responsabili non sono note. Alcuni raccoglitori affettano ed essiccano esemplari giovanissimi con l'interno ancora chiaro da usare come condimento in piccole quantità, e un tempo il fungo servì a contraffare il tartufo in paté e insaccati di fegato, ma non è sicuro, perché alcune persone reagiscono fortemente. Le spore inalate possono irritare occhi e naso.",
+      "confusion": "Le vesce come Lycoperdon perlatum e Apioperdon pyriforme sono morbide e spugnose, dalla pelle sottile, restano a lungo bianche all'interno e liberano le spore da un'unica apertura apicale; Lycoperdon perlatum ha inoltre aculei appuntiti perlacei. Scleroderma verrucosum e Scleroderma areolatum formano corpi fruttiferi più piccoli con pelle più sottile e più bruna e squame meno evidenti, e le loro spore sono spinose senza reticolo.",
+      "notes": "Pur somigliando a una vescia, appartiene all'ordine Boletales ed è strettamente imparentato con i boleti del genere Gyroporus. È l'unico ospite noto del boleto Pseudoboletus parasiticus, che cresce sui suoi corpi fruttiferi."
+    },
+    "ja": {
+      "description": "硬く厚い鱗片状の皮をもつ広く分布する球状のきのこで、林内、ヒース、公園の地上に、ふつう酸性の砂質土壌に生え、ナラ類、カバノキ類、マツ類などの樹木と菌根を形成する。ヨーロッパと北アメリカに普通で、アジア、アフリカ、南アメリカ、オセアニアからも報告されている。",
+      "cap": "傘はない。子実体全体が硬い球で、丸形からジャガイモ形、またはやや扁平で、ふつう幅3–10 cm、高さ3–6 cm、ときに幅15 cmに達する。北アメリカの標本は2–5 cmほどにとどまることが多い。外皮（殻皮）は丈夫な革質で厚さ1–4 mm、初め白っぽいかクリーム色または黄色っぽく、のち黄土黄色から黄褐色になり、上部にしばしばレモン黄色を帯びる。まもなく粗く不規則な、より濃い褐色の鱗片や扁平な多角形のいぼに割れ、それらは古くなると大きくなってはっきり離れるが、下部はほぼ平滑なままで、基部へ細まるところにしわがある。新鮮な外皮は押すと黄色っぽく、あるいはピンクがかった赤色に変わることがあり、KOHで表面は赤色から褐赤色になる。成熟すると外皮は頂部で不規則に裂け、決まった孔はない。",
+      "hymenium": "ひだも管孔もない。胞子は子実体の内部のグレバでつくられる。グレバはごく若い子実体でだけ白っぽく、まもなく中心から外側へ紫灰色から紫黒色になり、不稔組織の細い白っぽい脈で大理石模様を示す。長いあいだ硬く締まっているが、やがて黒っぽいか暗褐色の粉状になり、古くなると灰緑色になる。中軸はない。胞子は裂けた外皮から出て風雨によって散布され、空の殻は数か月残ることがある。",
+      "stipe": "本当の柄はない。子実体は基部ですぼまったしわのある先端へと細まり、ときに短い柄状の基部へと伸び、そこから出る白っぽいから黄色っぽい菌糸束（根状菌糸束）の房が土に固定している。",
+      "flesh": "切ると白い外皮は暗色の内部とはっきり区別され、黄色っぽく、ピンクがかって、あるいは赤みを帯びて変色することがある。内部は硬く締まり、ごく早い段階で黒ずむ。長いあいだ白いままのホコリタケ類の柔らかい内部とは異なる。においの記述はさまざまで、特徴がないものから、強い、スパイシー、ニンニク様、金属的、あるいはガスのようなものまであり、子実体を切ったときや乾燥させたときに最も目立つ。",
+      "sporePrint": "胞子塊は暗褐色から黒褐色で、新鮮なときはしばしば紫色を帯びる。オリーブ褐色とする記載もある。胞子は球形から類球形、径8–13 µm（装飾を除くと7–11 µm）、暗褐色で、長さ1–1.5 µmの刺に密に覆われ、刺はふつう隆起で連結して完全または不完全な網目をつくる。標本によっては、同じ子実体の中でさえ網目が不完全か欠ける。",
+      "habitat": "広葉樹や針葉樹、特にナラ類、カバノキ類、ブナ、マツ類と外生菌根を形成する。針葉樹林、広葉樹林、混交林、ヒース、公園、短い草地のやせた酸性の砂質土、礫質土、泥炭質の土壌に単生、散生または群生し、林道沿いの踏み固められた裸地、土手、排水溝沿いに多く、ときにコケの間やよく腐朽した材上にも生える。ヨーロッパでは7月から11月、イギリスとアイルランドでは12月初めまで発生し、古い子実体は冬まで残ることがある。北アメリカでは夏から秋に、温暖な気候では冬にも見られる。",
+      "uses": "有毒。食べると吐き気、嘔吐、腹痛を伴う胃腸系の中毒を起こし、ときに発汗、血圧低下、めまい、虚脱を伴う。症状は食後30–45分で始まることがあり、原因物質はわかっていない。内部がまだ淡色のごく若い子実体を薄切りにして乾燥させ、少量を香辛料として使う採集者もおり、かつてはパテやレバーソーセージでトリュフの偽物に使われたこともあるが、強く反応する人がいるため安全ではない。吸い込んだ胞子は目や鼻を刺激することがある。",
+      "confusion": "Lycoperdon perlatumやApioperdon pyriformeなどのホコリタケ類は柔らかくスポンジ状で外皮が薄く、内部が長く白いままで、頂部の一つの孔から胞子を放出する。Lycoperdon perlatumにはさらに真珠のような尖った刺がある。Scleroderma verrucosumとScleroderma areolatumはより小さな子実体をつくり、外皮はより薄く褐色が強く、鱗片は目立たず、胞子は網目のない刺状である。",
+      "notes": "ホコリタケ類に似ているが、Boletales目に属し、Gyroporus属のイグチ類に近縁である。子実体上に生えるイグチPseudoboletus parasiticusの唯一知られた宿主である。"
+    },
+    "ko": {
+      "description": "단단하고 두꺼우며 비늘 모양의 껍질을 지닌 널리 분포하는 공 모양 버섯으로, 숲, 황야, 공원의 땅 위에, 대개 산성의 모래 토양에서 자라며 참나무류, 자작나무류, 소나무류 및 다른 나무와 균근을 맺는다. 유럽과 북아메리카에 흔하며 아시아, 아프리카, 남아메리카, 오세아니아에서도 보고된다.",
+      "cap": "갓이 없다. 자실체 전체가 단단한 공 모양으로, 둥글거나 감자 모양 또는 약간 납작하며, 대개 너비 3–10 cm, 높이 3–6 cm이고 때로 너비 15 cm에 이른다. 북아메리카의 표본은 흔히 2–5 cm에 불과하다. 바깥 껍질(각피)은 질기고 가죽질이며 두께 1–4 mm이고, 처음에는 흰빛, 크림색 또는 노란빛이다가 황토색을 띤 노란색에서 황갈색이 되며, 윗부분은 흔히 레몬색 기운을 띤다. 곧 거칠고 불규칙한, 더 짙은 갈색의 비늘이나 납작한 다각형 사마귀로 갈라지며, 이들은 오래되면 커지고 뚜렷이 떨어지는 반면, 아랫부분은 거의 매끈하게 남고 기부 쪽으로 좁아지는 곳에 주름이 있다. 신선한 껍질은 누르면 노란빛에서 분홍빛 도는 붉은색으로 변할 수 있고, KOH는 표면을 붉은색에서 갈색 도는 붉은색으로 물들인다. 성숙하면 껍질이 꼭대기에서 불규칙하게 찢어지며 정해진 구멍은 없다.",
+      "hymenium": "주름살도 관공도 없다. 포자는 자실체 내부의 기본체에서 만들어진다. 기본체는 아주 어린 자실체에서만 흰빛이고 곧 중심에서 바깥쪽으로 자회색에서 자흑색이 되며, 불임성 조직의 가는 흰빛 맥으로 대리석 무늬를 이룬다. 오랫동안 단단하고 치밀하다가 거무스름하거나 짙은 갈색의 가루 모양이 되고, 오래되면 회녹색이 된다. 중축은 없다. 포자는 찢어진 껍질을 통해 나와 바람과 비에 퍼지며, 빈 껍질은 몇 달 동안 남아 있을 수 있다.",
+      "stipe": "진짜 대가 없다. 자실체는 기부에서 오므라든 주름진 끝으로 좁아지며, 때로 짧은 대 모양 기부로 늘어나고, 그곳에서 나온 흰빛에서 노란빛의 균사 다발(근상균사속) 뭉치가 자실체를 땅에 고정한다.",
+      "flesh": "자르면 흰 껍질이 어두운 내부와 뚜렷이 구별되며 노란빛, 분홍빛 또는 붉은빛으로 변할 수 있다. 내부는 단단하고 치밀하며 아주 일찍 어두워지는데, 오랫동안 흰색을 유지하는 말불버섯류의 부드러운 내부와 다르다. 냄새는 보고에 따라 다르게 묘사되며, 특징이 없는 것부터 강하고 향신료 같거나 마늘 같거나 금속성이거나 가스 같은 것까지 있고, 자실체를 자르거나 말릴 때 가장 뚜렷하다.",
+      "sporePrint": "포자 덩어리는 짙은 갈색에서 흑갈색이며, 신선할 때는 흔히 자줏빛을 띤다. 일부 기재에서는 올리브갈색이라고 한다. 포자는 구형에서 아구형으로 지름 8–13 µm(장식을 빼면 7–11 µm)이고 짙은 갈색이며, 길이 1–1.5 µm의 가시로 빽빽하게 덮여 있고, 가시는 대개 융기선으로 이어져 완전하거나 부분적인 그물을 이룬다. 일부 표본에서는 한 자실체 안에서도 그물이 불완전하거나 없다.",
+      "habitat": "활엽수와 침엽수, 특히 참나무류, 자작나무류, 너도밤나무, 소나무류와 외생균근을 맺는다. 침엽수림, 활엽수림, 혼합림, 황야, 공원, 짧은 풀밭의 척박하고 산성이며 모래질, 돌이 많은 또는 이탄질 토양에 단생, 산생 또는 군생하며, 흔히 숲길 가장자리의 다져진 맨땅, 둑, 배수로를 따라 나고, 때로 이끼 사이나 잘 썩은 나무 위에도 난다. 유럽에서는 7월부터 11월까지, 영국과 아일랜드에서는 12월 초까지 발생하며, 오래된 자실체는 겨울까지 남을 수 있다. 북아메리카에서는 여름과 가을에, 따뜻한 기후에서는 겨울에도 나타난다.",
+      "uses": "독버섯이다. 먹으면 메스꺼움, 구토, 복통을 동반한 위장관 중독을 일으키며, 때로 발한, 저혈압, 어지럼증, 허탈이 따른다. 증상은 식후 30–45분에 시작될 수 있으며, 원인 물질은 알려져 있지 않다. 일부 채집가는 내부가 아직 옅은 아주 어린 자실체를 얇게 썰어 말려 소량을 향신료로 쓰고, 예전에는 파테와 간 소시지에서 트러플을 위조하는 데 쓰이기도 했으나, 일부 사람은 강하게 반응하므로 안전하지 않다. 들이마신 포자는 눈과 코를 자극할 수 있다.",
+      "confusion": "Lycoperdon perlatum과 Apioperdon pyriforme 같은 말불버섯류는 부드럽고 해면질이며 껍질이 얇고, 내부가 오랫동안 흰색을 유지하며, 꼭대기의 구멍 하나로 포자를 내보낸다. Lycoperdon perlatum에는 진주 같은 뾰족한 가시도 있다. Scleroderma verrucosum과 Scleroderma areolatum은 더 작은 자실체를 만들고, 껍질이 더 얇고 더 갈색이며 비늘이 덜 두드러지고, 포자는 그물 없이 가시가 있다.",
+      "notes": "말불버섯류처럼 보이지만 Boletales 목에 속하며 Gyroporus 속의 그물버섯류와 가까운 친척이다. 자실체 위에서 자라는 그물버섯 Pseudoboletus parasiticus의 유일하게 알려진 숙주이다."
+    },
+    "lt": {
+      "description": "Plačiai paplitusi ankštenė kietu, storu, žvynuotu apvalkalu, auganti ant žemės miškuose, viržynuose ir parkuose, dažniausiai rūgščiame, smėlingame dirvožemyje, kaip ąžuolų, beržų, pušų ir kitų medžių mikorizės partnerė. Ji dažna Europoje ir Šiaurės Amerikoje, taip pat nurodoma iš Azijos, Afrikos, Pietų Amerikos ir Okeanijos.",
+      "cap": "Kepurėlės nėra: visas vaisiakūnis yra kietas, apvalus iki bulvės formos ar šiek tiek suplotas rutulys, dažniausiai 3–10 cm skersmens ir 3–6 cm aukščio, kartais iki 15 cm skersmens; Šiaurės Amerikos radiniai dažnai tesiekia 2–5 cm. Išorinis apvalkalas (peridis) tvirtas, odiškas ir 1–4 mm storio, iš pradžių balsvas, kreminis ar gelsvas, vėliau ochros geltonumo iki gelsvai rudo, viršuje dažnai su citrinos geltonumo atspalviu. Jis greitai suskilinėja į stambius, netaisyklingus, tamsiau rudus žvynus arba plokščias daugiakampes karpas, kurios su amžiumi tampa didelės ir aiškiai atskirtos, o apatinė dalis lieka beveik lygi ir raukšlėta ten, kur siaurėja link pagrindo. Šviežias apvalkalas paspaustas gali pagelsti ar parausti iki rausvai raudono, o KOH nudažo paviršių raudonai iki rusvai raudonai. Subrendęs apvalkalas viršuje netaisyklingai suplyšta, be aiškios angos.",
+      "hymenium": "Lakštelių ir vamzdelių nėra: sporos susidaro vaisiakūnio viduje, glebos audinyje. Gleba balsva tik labai jauniems vaisiakūniams ir greitai nuo centro į išorę tampa purpuriškai pilka iki purpuriškai juodos, marmuruota smulkiomis balsvomis sterilaus audinio gyslomis. Ji ilgai lieka tvirta ir kompaktiška, vėliau tampa juosva iki tamsiai rudos ir dulkanti, o sena – pilkšvai žalia. Centrinės kolonėlės nėra. Sporos išsiveržia pro suplyšusį apvalkalą, jas išnešioja vėjas ir lietus; tušti apvalkalai gali išlikti kelis mėnesius.",
+      "stipe": "Tikro koto nėra. Prie pagrindo vaisiakūnis susiaurėja į suspaustą, raukšlėtą smaigalį, kartais ištemptą į trumpą kotą primenantį pagrindą, iš kurio balsvų iki gelsvų micelio virvelių (rizomorfų) kuokštas įtvirtina jį dirvožemyje.",
+      "flesh": "Perpjovus balta žievelė aiškiai atsiskiria nuo tamsaus vidaus ir gali pagelsti, parausti ar įgauti rausvą atspalvį. Vidus kietas ir kompaktiškas ir labai anksti patamsėja, kitaip nei minkštas pūkštainių vidus, kuris ilgai lieka baltas. Kvapas apibūdinamas įvairiai – nuo neryškaus iki stipraus, aštroko, česnakinio, metalinio ar primenančio dujas – ir labiausiai juntamas vaisiakūnį perpjovus ar išdžiovinus.",
+      "sporePrint": "Sporų masė tamsiai ruda iki juosvai rudos, šviežia dažnai purpurinio atspalvio; kai kuriuose aprašymuose ji vadinama alyvmedžio rudumo. Sporos rutuliškos iki beveik rutuliškų, 8–13 µm (7–11 µm be ornamento), tamsiai rudos ir tankiai padengtos 1–1,5 µm ilgio dygliais, kuriuos paprastai jungia keteros į ištisinį ar dalinį tinklą; kai kuriuose radiniuose tinklas nepilnas arba jo nėra, net viename vaisiakūnyje.",
+      "habitat": "Ji sudaro ektomikorizę su lapuočiais ir spygliuočiais medžiais, ypač ąžuolais, beržais, bukais ir pušimis. Auga pavieniui, išsibarsčiusiai ar grupėmis nederlingame, rūgščiame, smėlingame, akmeningame ar durpingame dirvožemyje spygliuočių, lapuočių ir mišriuose miškuose, viržynuose, parkuose ir žemoje žolėje, dažnai ant plikos, suplūktos žemės prie miško kelių, šlaituose ir palei melioracijos griovius, kartais tarp samanų ar ant stipriai suirusios medienos. Europoje vaisiakūniai auga nuo liepos iki lapkričio, Didžiojoje Britanijoje ir Airijoje iki gruodžio pradžios, o seni vaisiakūniai gali išlikti iki žiemos. Šiaurės Amerikoje ji pasirodo vasarą ir rudenį, o šiltame klimate ir žiemą.",
+      "uses": "Nuodinga. Suvalgius sukelia virškinimo trakto apsinuodijimą su pykinimu, vėmimu ir pilvo skausmais, kartais su prakaitavimu, žemu kraujospūdžiu, svaiguliu ir kolapsu; simptomai gali prasidėti praėjus 30–45 minutėms po valgio, o už juos atsakingos medžiagos nežinomos. Kai kurie grybautojai labai jaunus, dar šviesaus vidaus vaisiakūnius supjausto ir išdžiovina kaip prieskonį nedideliais kiekiais, o anksčiau šis grybas buvo naudojamas triufeliams klastoti paštetuose ir kepenų dešroje, tačiau tai nesaugu, nes kai kurie žmonės į jį stipriai reaguoja. Įkvėptos sporos gali dirginti akis ir nosį.",
+      "confusion": "Pūkštainiai, pavyzdžiui, Lycoperdon perlatum ir Apioperdon pyriforme, yra minkšti ir kempiniški, plono apvalkalo, ilgai lieka balti viduje ir sporas išleidžia pro vieną angą viršūnėje; Lycoperdon perlatum dar turi perlinius, smailius dyglius. Scleroderma verrucosum ir Scleroderma areolatum sudaro mažesnius vaisiakūnius plonesniu, rudesniu apvalkalu ir mažiau ryškiais žvynais, o jų sporos dygliuotos be tinklo.",
+      "notes": "Nors ji atrodo kaip pūkštainis, priklauso Boletales eilei ir yra artima Gyroporus genties baravykams. Tai vienintelis žinomas baravyko Pseudoboletus parasiticus šeimininkas; šis baravykas auga ant jos vaisiakūnių."
+    },
+    "lv": {
+      "description": "Plaši izplatīts cietpūpēdis ar cietu, biezu, zvīņainu apvalku, kas aug uz zemes mežos, virsājos un parkos, parasti skābās, smilšainās augsnēs, kā ozolu, bērzu, priežu un citu koku mikorizas partneris. Tas ir bieži sastopams Eiropā un Ziemeļamerikā, un ziņots arī par atradnēm Āzijā, Āfrikā, Dienvidamerikā un Okeānijā.",
+      "cap": "Cepurītes nav: viss augļķermenis ir ciets, apaļš līdz kartupeļveida vai nedaudz saplacināts bumbulis, parasti 3–10 cm plats un 3–6 cm augsts, reizēm līdz 15 cm plats; Ziemeļamerikas eksemplāri bieži ir tikai 2–5 cm. Ārējais apvalks (peridijs) ir stingrs, ādains un 1–4 mm biezs, sākumā bālgans, krēmkrāsas vai dzeltenīgs, vēlāk okerdzeltens līdz dzeltenbrūns, augšpusē bieži ar citrondzeltenu nokrāsu. Tas drīz saplaisā rupjās, neregulārās, tumšāk brūnās zvīņās vai plakanās daudzstūrainās kārpās, kas ar vecumu kļūst lielas un skaidri atdalītas, bet apakšdaļa paliek gandrīz gluda un ir krunkaina tur, kur tā sašaurinās pret pamatni. Svaigs apvalks spiedienā var kļūt dzeltenīgs līdz sārti sarkans, un KOH iekrāso virsmu sarkanu līdz brūngani sarkanu. Nobriedis apvalks galotnē neregulāri pārplīst, bez noteiktas atveres.",
+      "hymenium": "Lapiņu un stobriņu nav: sporas veidojas augļķermeņa iekšpusē, glebā. Gleba ir bālgana tikai ļoti jauniem augļķermeņiem un drīz no centra uz āru kļūst purpurpelēka līdz purpurmelna, marmorēta ar smalkām bālganām sterilo audu dzīslām. Tā ilgi paliek stingra un blīva, tad kļūst melnīga līdz tumši brūna un putekļaina, bet vecumā pelēkzaļa. Centrālās kolonnas nav. Sporas izkļūst caur pārplīsušo apvalku, un tās izplata vējš un lietus; tukši apvalki var saglabāties mēnešiem.",
+      "stipe": "Īsta kātiņa nav. Pie pamatnes augļķermenis sašaurinās saspiestā, krunkainā smailē, kas reizēm ir izstiepta īsā kātiņveida pamatnē, no kuras bālganu līdz dzeltenīgu micēlija auklu (rizomorfu) kušķis to nostiprina augsnē.",
+      "flesh": "Griezumā baltā miza ir skaidri atdalīta no tumšās iekšpuses un var iekrāsoties dzeltenīga, sārta vai sarkanīga. Iekšpuse ir cieta un blīva un satumst ļoti agri, atšķirībā no pūpēžu mīkstās iekšpuses, kas ilgi paliek balta. Smaržu apraksta dažādi, no neizteiktas līdz spēcīgai, pikantai, ķiplokainai, metāliskai vai gāzei līdzīgai, un tā ir visjūtamākā, kad augļķermeni pārgriež vai izžāvē.",
+      "sporePrint": "Sporu masa ir tumši brūna līdz melnbrūna, svaiga bieži ar purpura nokrāsu; dažos aprakstos to sauc par olīvbrūnu. Sporas ir lodveida līdz gandrīz lodveida, 8–13 µm (7–11 µm bez ornamenta), tumši brūnas un blīvi klātas ar 1–1,5 µm gariem dzeloņiem, kurus parasti savieno izciļņi pilnā vai daļējā tīklā; dažiem eksemplāriem tīkls ir nepilnīgs vai tā nav, pat viena augļķermeņa robežās.",
+      "habitat": "Tas veido ektomikorizu ar lapu un skuju kokiem, īpaši ozoliem, bērziem, dižskābaržiem un priedēm. Tas aug pa vienam, izklaidus vai grupās nabadzīgās, skābās, smilšainās, akmeņainās vai kūdrainās augsnēs skujkoku, lapkoku un jauktos mežos, virsājos, parkos un īsā zālē, bieži uz kailas, noblīvētas zemes gar meža ceļiem, uz nogāzēm un gar meliorācijas grāvjiem, reizēm arī starp sūnām vai uz stipri satrūdējušas koksnes. Eiropā augļķermeņi veidojas no jūlija līdz novembrim, Lielbritānijā un Īrijā līdz decembra sākumam, un veci augļķermeņi var saglabāties līdz ziemai. Ziemeļamerikā tas parādās vasarā un rudenī, bet siltā klimatā arī ziemā.",
+      "uses": "Indīgs. Tā ēšana izraisa kuņģa un zarnu trakta saindēšanos ar nelabumu, vemšanu un sāpēm vēderā, reizēm ar svīšanu, pazeminātu asinsspiedienu, reiboni un kolapsu; simptomi var sākties 30–45 minūtes pēc maltītes, un par tiem atbildīgās vielas nav zināmas. Daži sēņotāji sagriež un izžāvē ļoti jaunus augļķermeņus ar vēl gaišu iekšpusi, lai nelielā daudzumā lietotu kā garšvielu, un agrāk sēni izmantoja trifeļu viltošanai pastētēs un aknu desā, taču tas nav droši, jo daži cilvēki uz to reaģē spēcīgi. Ieelpotas sporas var kairināt acis un degunu.",
+      "confusion": "Pūpēži, piemēram, Lycoperdon perlatum un Apioperdon pyriforme, ir mīksti un sūkļaini ar plānu apvalku, ilgi paliek iekšpusē balti un izlaiž sporas caur vienu atveri galotnē; Lycoperdon perlatum turklāt ir pērļveida, smaili dzeloņi. Scleroderma verrucosum un Scleroderma areolatum veido mazākus augļķermeņus ar plānāku, brūnāku apvalku un mazāk pamanāmām zvīņām, un to sporas ir dzeloņainas bez tīkla.",
+      "notes": "Lai gan tas izskatās pēc pūpēža, tas pieder kārtai Boletales un ir cieši radniecīgs ģints Gyroporus bekām. Tas ir vienīgais zināmais bekas Pseudoboletus parasiticus saimnieks; šī beka aug uz tā augļķermeņiem."
+    },
+    "nl": {
+      "description": "Een wijdverbreide aardappelbovist met een harde, dikke, schubbige huid die in bossen, op heiden en in parken op de grond groeit, meestal op zure, zandige bodem, als mycorrhizapartner van eiken, berken, dennen en andere bomen. Hij is algemeen in Europa en Noord-Amerika en wordt ook gemeld uit Azië, Afrika, Zuid-Amerika en Oceanië.",
+      "cap": "Er is geen hoed: het hele vruchtlichaam is een harde, ronde tot aardappelvormige of iets afgeplatte bal, meestal 3–10 cm breed en 3–6 cm hoog en soms tot 15 cm breed; Noord-Amerikaanse vondsten zijn vaak maar 2–5 cm. De buitenhuid (peridium) is taai, leerachtig en 1–4 mm dik, eerst witachtig, crème of geelachtig, daarna okergeel tot geelbruin, bovenaan vaak met een citroengele tint. Ze barst al snel open in grove, onregelmatige, donkerder bruine schubben of vlakke veelhoekige wratten die met de leeftijd groot en duidelijk gescheiden worden, terwijl het onderste deel bijna glad blijft en gerimpeld is waar het naar de basis versmalt. Verse huid kan bij aanraking geelachtig tot rozerood verkleuren, en KOH kleurt het oppervlak rood tot bruinrood. Bij rijpheid scheurt de huid bovenaan onregelmatig open, zonder vaste opening.",
+      "hymenium": "Er zijn geen plaatjes of buisjes: de sporen ontstaan binnen in het vruchtlichaam, in de gleba. De gleba is alleen bij heel jonge vruchtlichamen witachtig en wordt al snel vanuit het midden paarsgrijs tot paarszwart, gemarmerd met fijne witachtige aders van steriel weefsel. Ze blijft lang stevig en compact, wordt dan zwartachtig tot donkerbruin en poederig en op oudere leeftijd grijsgroen. Er is geen centrale zuil. De sporen ontsnappen door de opengescheurde huid en worden door wind en regen verspreid; lege omhulsels kunnen maandenlang blijven staan.",
+      "stipe": "Er is geen echte steel. Het vruchtlichaam versmalt aan de basis tot een samengeknepen, gerimpelde punt, soms uitgerekt tot een korte steelachtige voet, van waaruit een bundel witachtige tot geelachtige myceliumstrengen (rizomorfen) het in de bodem verankert.",
+      "flesh": "Op doorsnede is de witte schil duidelijk gescheiden van het donkere binnenste en kan geelachtig, rozeachtig of roodachtig aanlopen. Het binnenste is hard en compact en verdonkert al heel vroeg, anders dan het zachte binnenste van stuifzwammen, dat lang wit blijft. De geur wordt verschillend beschreven, van onopvallend tot sterk, kruidig, knoflookachtig, metaalachtig of gasachtig, en valt het meest op als het vruchtlichaam wordt doorgesneden of gedroogd.",
+      "sporePrint": "De sporenmassa is donkerbruin tot zwartbruin, vers vaak met een paarse tint; sommige beschrijvingen noemen haar olijfbruin. De sporen zijn bolvormig tot bijna bolvormig, 8–13 µm (7–11 µm zonder ornamentatie), donkerbruin en dicht bezet met 1–1,5 µm lange stekels die meestal door richels tot een volledig of gedeeltelijk netwerk verbonden zijn; bij sommige vondsten is het netwerk onvolledig of afwezig, zelfs binnen één vruchtlichaam.",
+      "habitat": "Hij vormt ectomycorrhiza met loof- en naaldbomen, vooral eiken, berken, beuken en dennen. Hij groeit alleen, verspreid of in groepen op arme, zure, zandige, stenige of venige bodem in naald-, loof- en gemengde bossen, op heiden, in parken en in kort gras, vaak op kale, aangestampte grond langs bospaden, op taluds en langs afwateringssloten, en soms tussen mos of op sterk vergaan hout. In Europa vormt hij vruchtlichamen van juli tot november, in Groot-Brittannië en Ierland tot begin december, en oude vruchtlichamen kunnen tot in de winter blijven staan. In Noord-Amerika verschijnt hij in de zomer en de herfst, en in warme klimaten ook in de winter.",
+      "uses": "Giftig. Het eten ervan veroorzaakt een maag-darmvergiftiging met misselijkheid, braken en buikpijn, soms met zweten, lage bloeddruk, duizeligheid en collaps; de klachten kunnen 30–45 minuten na de maaltijd beginnen, en de verantwoordelijke stoffen zijn niet bekend. Sommige verzamelaars snijden en drogen heel jonge vruchtlichamen met een nog bleek binnenste als kruiderij in kleine hoeveelheden, en vroeger werd de zwam gebruikt om truffels na te maken in paté en leverworst, maar dat is niet veilig, omdat sommige mensen er heftig op reageren. Ingeademde sporen kunnen de ogen en de neus irriteren.",
+      "confusion": "Stuifzwammen zoals Lycoperdon perlatum en Apioperdon pyriforme zijn zacht en sponsachtig met een dunne huid, blijven lang wit vanbinnen en laten hun sporen vrij door één opening bovenaan; Lycoperdon perlatum heeft bovendien parelachtige, puntige stekels. Scleroderma verrucosum en Scleroderma areolatum vormen kleinere vruchtlichamen met een dunnere, bruinere huid en minder opvallende schubben, en hun sporen zijn stekelig zonder netwerk.",
+      "notes": "Hoewel hij op een stuifzwam lijkt, behoort hij tot de orde Boletales en is hij nauw verwant aan de boleten van het geslacht Gyroporus. Hij is de enige bekende gastheer van de boleet Pseudoboletus parasiticus, die op zijn vruchtlichamen groeit."
+    },
+    "no": {
+      "description": "En vidt utbredt potetrøyksopp med hard, tykk, skjellet hud som vokser på bakken i skog, på heier og i parker, oftest på sur, sandholdig jord, som mykorrhizapartner for eik, bjørk, furu og andre trær. Den er vanlig i Europa og Nord-Amerika og er også rapportert fra Asia, Afrika, Sør-Amerika og Oseania.",
+      "cap": "Det finnes ingen hatt: hele fruktlegemet er en hard, rundaktig til potetformet eller litt flattrykt kule, oftest 3–10 cm bred og 3–6 cm høy og av og til opptil 15 cm bred; nordamerikanske funn er ofte bare 2–5 cm. Ytterhuden (peridiet) er seig, læraktig og 1–4 mm tykk, først hvitaktig, kremfarget eller gulaktig, senere okergul til gulbrun, ofte med et sitrongult preg oppå. Den sprekker snart opp i grove, uregelmessige, mørkere brune skjell eller flate mangekantede vorter som blir store og tydelig adskilte med alderen, mens den nedre delen forblir nesten glatt og er rynket der den smalner inn mot basis. Frisk hud kan ved trykk bli gulaktig til rosarød, og KOH farger overflaten rød til brunrød. Ved modenhet sprekker huden uregelmessig opp i toppen, uten noen fast åpning.",
+      "hymenium": "Det finnes verken skiver eller rør: sporene dannes inne i fruktlegemet, i gleba. Gleba er bare hvitaktig hos svært unge fruktlegemer og blir snart purpurgrå til purpursvart fra midten og utover, marmorert av fine hvitaktige årer av sterilt vev. Den forblir lenge fast og kompakt, blir så svartaktig til mørkebrun og støvete og til slutt grågrønn. Det finnes ingen midtsøyle. Sporene slipper ut gjennom den sprukne huden og spres av vind og regn, og tomme skall kan bli stående i månedsvis.",
+      "stipe": "Det finnes ingen ekte stilk. Fruktlegemet smalner ved basis inn til en sammenklemt, rynket spiss, av og til trukket ut til en kort stilkaktig fot, der en dusk av hvitaktige til gulaktige myselstrenger (rhizomorfer) forankrer det i jorda.",
+      "flesh": "I snitt er det hvite skallet tydelig atskilt fra det mørke indre og kan anløpe gulaktig, rosa eller rødlig. Det indre er hardt og kompakt og mørkner svært tidlig, i motsetning til det myke indre hos røyksopper, som lenge forblir hvitt. Lukten beskrives ulikt, fra uten særpreg til sterk, krydret, hvitløkaktig, metallisk eller gassaktig, og merkes best når fruktlegemet skjæres over eller tørkes.",
+      "sporePrint": "Sporemassen er mørkebrun til svartbrun, fersk ofte med et purpurpreg; noen beskrivelser kaller den olivenbrun. Sporene er kuleformede til nesten kuleformede, 8–13 µm (7–11 µm uten ornamentering), mørkebrune og tett besatt med 1–1,5 µm lange pigger som oftest er forbundet med lister til et fullstendig eller delvis nettverk; hos noen funn er nettet ufullstendig eller mangler, selv innenfor ett fruktlegeme.",
+      "habitat": "Den danner ektomykorrhiza med løv- og bartrær, særlig eik, bjørk, bøk og furu. Den vokser enkeltvis, spredt eller i grupper på næringsfattig, sur, sandholdig, steinete eller torvaktig jord i bar-, løv- og blandingsskog, på heier, i parker og i kort gress, ofte på bar, kompakt jord langs skogsveier, i skråninger og langs grøfter, og av og til blant mose eller på sterkt nedbrutt ved. I Europa danner den fruktlegemer fra juli til november, i Storbritannia og Irland til begynnelsen av desember, og gamle fruktlegemer kan bli stående inn i vinteren. I Nord-Amerika kommer den om sommeren og høsten, og i varme klima også gjennom vinteren.",
+      "uses": "Giftig. Den gir mage-tarm-forgiftning med kvalme, oppkast og magesmerter, av og til med svetting, lavt blodtrykk, svimmelhet og kollaps; symptomene kan begynne 30–45 minutter etter måltidet, og hvilke stoffer som er ansvarlige, er ukjent. Noen sankere skjærer og tørker svært unge fruktlegemer med fortsatt lyst indre som krydder i små mengder, og soppen ble tidligere brukt til å forfalske trøfler i postei og leverpølse, men dette er ikke trygt, fordi noen mennesker reagerer kraftig på den. Innåndede sporer kan irritere øyne og nese.",
+      "confusion": "Røyksopper som Lycoperdon perlatum og Apioperdon pyriforme er myke og svampaktige med tynn hud, forblir lenge hvite inni og slipper ut sporene gjennom én enkelt åpning i toppen; Lycoperdon perlatum har i tillegg perleaktige, spisse pigger. Scleroderma verrucosum og Scleroderma areolatum danner mindre fruktlegemer med tynnere, brunere hud og mindre iøynefallende skjell, og sporene deres er piggete uten nettverk.",
+      "notes": "Selv om den ligner en røyksopp, hører den til ordenen Boletales og er nær beslektet med rørsopper i slekten Gyroporus. Den er den eneste kjente verten for rørsoppen Pseudoboletus parasiticus, som vokser på fruktlegemene dens."
+    },
+    "pl": {
+      "description": "Szeroko rozpowszechniony tęgoskór o twardej, grubej, łuskowatej okrywie, rosnący na ziemi w lasach, na wrzosowiskach i w parkach, zwykle na kwaśnych, piaszczystych glebach, jako partner mikoryzowy dębów, brzóz, sosen i innych drzew. Jest pospolity w Europie i Ameryce Północnej, notowany także w Azji, Afryce, Ameryce Południowej i Oceanii.",
+      "cap": "Kapelusza brak: cały owocnik jest twardą, zaokrągloną do bulwiastej lub nieco spłaszczonej kulą, zwykle o szerokości 3–10 cm i wysokości 3–6 cm, czasem do 15 cm szerokości; okazy z Ameryki Północnej mają często tylko 2–5 cm. Okrywa zewnętrzna (perydium) jest twarda, skórzasta i gruba na 1–4 mm, początkowo biaława, kremowa lub żółtawa, potem ochrowożółta do żółtobrązowej, u góry często z cytrynowożółtym odcieniem. Wkrótce pęka na grube, nieregularne, ciemniejsze brązowe łuski lub płaskie wielokątne brodawki, które z wiekiem stają się duże i wyraźnie od siebie oddzielone, podczas gdy dolna część pozostaje prawie gładka i jest pomarszczona tam, gdzie zwęża się ku podstawie. Świeża okrywa po uciśnięciu może żółknąć do różowoczerwonej, a KOH barwi powierzchnię na czerwono do brązowoczerwonej. W dojrzałości okrywa pęka nieregularnie na szczycie, bez wykształconego otworu.",
+      "hymenium": "Blaszek ani rurek brak: zarodniki powstają wewnątrz owocnika, w glebie. Gleba jest biaława tylko u bardzo młodych owocników i wkrótce od środka ku brzegom staje się purpurowoszara do purpurowoczarnej, marmurkowana cienkimi białawymi żyłkami płonnej tkanki. Długo pozostaje jędrna i zwarta, potem staje się czarniawa do ciemnobrązowej i pylista, a na starość szarozielona. Kolumelli brak. Zarodniki wydostają się przez popękaną okrywę i są roznoszone przez wiatr i deszcz; puste okrywy mogą przetrwać wiele miesięcy.",
+      "stipe": "Prawdziwego trzonu brak. Owocnik zwęża się u podstawy w ściśnięty, pomarszczony koniuszek, niekiedy wyciągnięty w krótką trzonowatą nóżkę, z której pęczek białawych do żółtawych sznurów grzybni (ryzomorf) zakotwicza go w glebie.",
+      "flesh": "Na przekroju biała skórka wyraźnie oddziela się od ciemnego wnętrza i może zabarwiać się na żółtawo, różowawo lub czerwonawo. Wnętrze jest twarde i zwarte i ciemnieje bardzo wcześnie, w przeciwieństwie do miękkiego wnętrza purchawek, które długo pozostaje białe. Zapach opisywany jest różnie, od niewyróżniającego się po silny, korzenny, czosnkowy, metaliczny lub przypominający gaz, i jest najbardziej wyczuwalny po przekrojeniu lub wysuszeniu owocnika.",
+      "sporePrint": "Masa zarodników jest ciemnobrązowa do czarnobrązowej, świeża często z purpurowym odcieniem; niektóre opisy podają barwę oliwkowobrązową. Zarodniki są kuliste do prawie kulistych, 8–13 µm (7–11 µm bez ornamentacji), ciemnobrązowe i gęsto pokryte kolcami długości 1–1,5 µm, zwykle połączonymi grzebieniami w pełną lub częściową siateczkę; u niektórych okazów siateczka jest niepełna lub jej brak, nawet w obrębie jednego owocnika.",
+      "habitat": "Tworzy ektomikoryzę z drzewami liściastymi i iglastymi, zwłaszcza z dębami, brzozami, bukiem i sosnami. Rośnie pojedynczo, w rozproszeniu lub grupami na ubogich, kwaśnych, piaszczystych, kamienistych lub torfowych glebach w lasach iglastych, liściastych i mieszanych, na wrzosowiskach, w parkach i w niskiej trawie, często na gołej, ubitej ziemi przy leśnych drogach, na skarpach i wzdłuż rowów melioracyjnych, czasem wśród mchów lub na silnie zbutwiałym drewnie. W Europie owocniki pojawiają się od lipca do listopada, w Wielkiej Brytanii i Irlandii do początku grudnia, a stare owocniki mogą przetrwać do zimy. W Ameryce Północnej pojawia się latem i jesienią, a w ciepłym klimacie także zimą.",
+      "uses": "Trujący. Spożycie wywołuje zatrucie żołądkowo-jelitowe z nudnościami, wymiotami i bólem brzucha, czasem z poceniem się, niskim ciśnieniem krwi, zawrotami głowy i zapaścią; objawy mogą wystąpić 30–45 minut po posiłku, a odpowiedzialne za nie substancje nie są znane. Niektórzy grzybiarze kroją i suszą bardzo młode owocniki o jeszcze jasnym wnętrzu jako przyprawę w małych ilościach, a dawniej grzyb służył do fałszowania trufli w pasztetach i kiszce wątrobianej, jednak nie jest to bezpieczne, bo niektórzy ludzie reagują na niego silnie. Wdychane zarodniki mogą podrażniać oczy i nos.",
+      "confusion": "Purchawki, takie jak Lycoperdon perlatum i Apioperdon pyriforme, są miękkie i gąbczaste, mają cienką okrywę, długo pozostają białe w środku i uwalniają zarodniki przez jeden otwór na szczycie; Lycoperdon perlatum ma ponadto perłowe, spiczaste kolce. Scleroderma verrucosum i Scleroderma areolatum tworzą mniejsze owocniki o cieńszej, bardziej brązowej okrywie i mniej wyraźnych łuskach, a ich zarodniki są kolczaste bez siateczki.",
+      "notes": "Choć przypomina purchawkę, należy do rzędu Boletales i jest blisko spokrewniony z borowikowatymi z rodzaju Gyroporus. Jest jedynym znanym żywicielem grzyba Pseudoboletus parasiticus, który rośnie na jego owocnikach."
+    },
+    "pt": {
+      "description": "Um escleroderma muito difundido, de pele dura, espessa e escamosa, que cresce no solo de bosques, charnecas e parques, geralmente em solos ácidos e arenosos, como parceiro micorrízico de carvalhos, bétulas, pinheiros e outras árvores. É comum na Europa e na América do Norte e é também referido na Ásia, em África, na América do Sul e na Oceânia.",
+      "cap": "Não há chapéu: todo o corpo frutífero é uma bola dura, arredondada a tuberiforme ou ligeiramente achatada, geralmente com 3–10 cm de largura e 3–6 cm de altura e por vezes até 15 cm de largura; as colheitas norte-americanas têm muitas vezes apenas 2–5 cm. O invólucro externo (perídio) é resistente, coriáceo e com 1–4 mm de espessura, primeiro esbranquiçado, creme ou amarelado, depois amarelo-ocre a castanho-amarelado, muitas vezes com um tom amarelo-limão no topo. Cedo fende-se em escamas grosseiras, irregulares, de castanho mais escuro, ou em verrugas poligonais achatadas que com a idade se tornam grandes e bem separadas, enquanto a parte inferior permanece quase lisa e enrugada onde se estreita para a base. A pele fresca pode manchar-se de amarelado a vermelho-rosado ao toque, e o KOH cora a superfície de vermelho a vermelho-acastanhado. Na maturação, a pele rasga-se irregularmente no topo, sem poro definido.",
+      "hymenium": "Não há lâminas nem tubos: os esporos formam-se no interior do corpo frutífero, na gleba. A gleba só é esbranquiçada nos exemplares muito jovens e cedo se torna cinzento-púrpura a negro-púrpura do centro para fora, marmoreada por finas veias esbranquiçadas de tecido estéril. Mantém-se firme e compacta durante muito tempo, depois torna-se enegrecida a castanho-escura e pulverulenta e, quando velha, verde-acinzentada. Não há columela. Os esporos saem pela pele rasgada e são dispersos pelo vento e pela chuva; os invólucros vazios podem persistir durante meses.",
+      "stipe": "Não há pé verdadeiro. O corpo frutífero estreita-se na base numa ponta comprimida e enrugada, por vezes prolongada numa base curta em forma de pé, de onde um tufo de cordões miceliais (rizomorfos) esbranquiçados a amarelados o ancora ao solo.",
+      "flesh": "Ao corte, a casca branca distingue-se claramente do interior escuro e pode tingir-se de amarelado, rosado ou avermelhado. O interior é duro e compacto e escurece muito cedo, ao contrário do interior mole dos licoperdos, que se mantém branco durante muito tempo. O cheiro é descrito de formas diferentes, desde pouco distinto até forte, condimentado, a alho, metálico ou semelhante a gás, e nota-se sobretudo quando o corpo frutífero é cortado ou seco.",
+      "sporePrint": "A massa de esporos é castanho-escura a castanho-enegrecida, muitas vezes com tom purpúreo quando fresca; algumas descrições chamam-lhe castanho-olivácea. Os esporos são globosos a subglobosos, com 8–13 µm (7–11 µm sem a ornamentação), castanho-escuros e densamente cobertos de espinhos com 1–1,5 µm de comprimento, geralmente unidos por cristas num retículo completo ou parcial; em algumas colheitas o retículo é incompleto ou ausente, mesmo dentro do mesmo corpo frutífero.",
+      "habitat": "É ectomicorrízico com folhosas e coníferas, sobretudo carvalhos, bétulas, faia e pinheiros. Cresce isolado, disperso ou em grupos em solos pobres, ácidos, arenosos, pedregosos ou turfosos de bosques de coníferas, folhosas e mistos, em charnecas, parques e relvados baixos, muitas vezes em terra nua e compactada junto a caminhos florestais, em taludes e ao longo de valas de drenagem, e por vezes entre musgo ou sobre madeira muito decomposta. Na Europa frutifica de julho a novembro, na Grã-Bretanha e na Irlanda até ao início de dezembro, e os corpos frutíferos velhos podem persistir até ao inverno. Na América do Norte surge no verão e no outono, e no inverno em climas quentes.",
+      "uses": "Tóxico. A sua ingestão provoca uma intoxicação gastrointestinal com náuseas, vómitos e dores abdominais, por vezes com sudação, tensão arterial baixa, tonturas e colapso; os sintomas podem começar 30–45 minutos após a refeição, e as substâncias responsáveis não são conhecidas. Alguns apanhadores cortam e secam exemplares muito jovens de interior ainda pálido para usar como condimento em pequenas quantidades, e outrora o fungo foi usado para falsificar trufas em patés e enchidos de fígado, mas isto não é seguro, porque algumas pessoas reagem fortemente. Os esporos inalados podem irritar os olhos e o nariz.",
+      "confusion": "Os licoperdos como Lycoperdon perlatum e Apioperdon pyriforme são moles e esponjosos, de pele fina, mantêm-se brancos por dentro durante muito tempo e libertam os esporos por uma única abertura apical; Lycoperdon perlatum tem ainda espinhos pontiagudos nacarados. Scleroderma verrucosum e Scleroderma areolatum formam corpos frutíferos mais pequenos, de pele mais fina e acastanhada e escamas menos evidentes, e os seus esporos são espinhosos sem retículo.",
+      "notes": "Embora pareça um licoperdo, pertence à ordem Boletales e é estreitamente aparentado com os boletos do género Gyroporus. É o único hospedeiro conhecido do boleto Pseudoboletus parasiticus, que cresce sobre os seus corpos frutíferos."
+    },
+    "ro": {
+      "description": "O specie de scleroderma larg răspândită, cu înveliș dur, gros și solzos, care crește pe sol în păduri, în lande și în parcuri, de obicei pe soluri acide și nisipoase, ca partener micorizic al stejarilor, mestecenilor, pinilor și altor arbori. Este comună în Europa și America de Nord și este semnalată și din Asia, Africa, America de Sud și Oceania.",
+      "cap": "Nu există pălărie: întregul corp fructifer este o bilă tare, rotunjită până la tuberiformă sau ușor turtită, de obicei de 3–10 cm lățime și 3–6 cm înălțime, uneori până la 15 cm lățime; exemplarele nord-americane au adesea doar 2–5 cm. Învelișul exterior (peridia) este tenace, pielos și gros de 1–4 mm, la început albicios, crem sau gălbui, apoi galben-ocru până la brun-gălbui, adesea cu o nuanță galben-lămâie în partea de sus. Curând crapă în solzi grosieri, neregulați, de un brun mai închis, sau în negi poligonali turtiți, care cu vârsta devin mari și bine separați, în timp ce partea inferioară rămâne aproape netedă și este încrețită acolo unde se îngustează spre bază. Învelișul proaspăt se poate păta gălbui până la roșu-rozaliu la apăsare, iar KOH colorează suprafața în roșu până la roșu-brun. La maturitate, învelișul se rupe neregulat în partea de sus, fără un por definit.",
+      "hymenium": "Nu există lamele sau tuburi: sporii se formează în interiorul corpului fructifer, în glebă. Gleba este albicioasă doar la exemplarele foarte tinere și devine curând cenușiu-purpurie până la negru-purpurie dinspre centru spre exterior, marmorată de vene fine albicioase de țesut steril. Rămâne mult timp fermă și compactă, apoi devine negricioasă până la brun-închisă și pulverulentă, iar la bătrânețe verde-cenușie. Nu există columelă. Sporii ies prin învelișul rupt și sunt răspândiți de vânt și ploaie; învelișurile goale pot persista luni de zile.",
+      "stipe": "Nu există picior adevărat. Corpul fructifer se îngustează la bază într-un vârf strâns și încrețit, uneori alungit într-o bază scurtă asemănătoare unui picior, din care un smoc de cordoane miceliene (rizomorfe) albicioase până la gălbui îl ancorează în sol.",
+      "flesh": "În secțiune, coaja albă se deosebește clar de interiorul închis la culoare și se poate colora gălbui, rozaliu sau roșiatic. Interiorul este tare și compact și se închide la culoare foarte devreme, spre deosebire de interiorul moale al pufaielor, care rămâne mult timp alb. Mirosul este descris diferit, de la nedistinctiv la puternic, condimentat, de usturoi, metalic sau asemănător gazului, și se simte mai ales când corpul fructifer este tăiat sau uscat.",
+      "sporePrint": "Masa sporilor este brun-închisă până la brun-negricioasă, adesea cu o nuanță purpurie în stare proaspătă; unele descrieri o numesc brun-oliv. Sporii sunt globuloși până la subglobuloși, de 8–13 µm (7–11 µm fără ornamentație), brun-închiși și dens acoperiți cu țepi lungi de 1–1,5 µm, de obicei uniți prin creste într-o rețea completă sau parțială; la unele exemplare rețeaua este incompletă sau lipsește, chiar și în același corp fructifer.",
+      "habitat": "Formează ectomicorize cu foioase și conifere, mai ales cu stejari, mesteceni, fag și pini. Crește solitar, răzleț sau în grupuri pe soluri sărace, acide, nisipoase, pietroase sau turboase în păduri de conifere, de foioase și amestecate, în lande, în parcuri și în iarbă scurtă, adesea pe pământ gol și bătătorit lângă drumuri forestiere, pe taluzuri și de-a lungul șanțurilor de drenaj, uneori printre mușchi sau pe lemn foarte putrezit. În Europa fructifică din iulie până în noiembrie, în Marea Britanie și Irlanda până la începutul lui decembrie, iar corpurile fructifere vechi pot persista până iarna. În America de Nord apare vara și toamna, iar în climatele calde și iarna.",
+      "uses": "Otrăvitoare. Consumul provoacă o intoxicație gastrointestinală cu greață, vărsături și dureri abdominale, uneori cu transpirații, tensiune arterială scăzută, amețeli și colaps; simptomele pot începe la 30–45 de minute după masă, iar substanțele responsabile nu sunt cunoscute. Unii culegători taie și usucă exemplare foarte tinere, cu interiorul încă palid, ca condiment în cantități mici, iar odinioară ciuperca a fost folosită pentru a falsifica trufele în pateuri și în caltaboș, însă acest lucru nu este sigur, deoarece unii oameni reacționează puternic la ea. Sporii inhalați pot irita ochii și nasul.",
+      "confusion": "Pufaielele, precum Lycoperdon perlatum și Apioperdon pyriforme, sunt moi și buretoase, cu înveliș subțire, rămân mult timp albe în interior și își eliberează sporii printr-o singură deschidere în vârf; Lycoperdon perlatum are în plus țepi ascuțiți sidefii. Scleroderma verrucosum și Scleroderma areolatum formează corpuri fructifere mai mici, cu înveliș mai subțire și mai brun și solzi mai puțin vizibili, iar sporii lor sunt spinoși, fără rețea.",
+      "notes": "Deși seamănă cu o pufaică, aparține ordinului Boletales și este strâns înrudită cu bureții din genul Gyroporus. Este singura gazdă cunoscută a buretelui Pseudoboletus parasiticus, care crește pe corpurile ei fructifere."
+    },
+    "ru": {
+      "description": "Широко распространённый ложнодождевик с твёрдой, толстой, чешуйчатой оболочкой, растущий на земле в лесах, на пустошах и в парках, обычно на кислых песчаных почвах, как микоризный партнёр дубов, берёз, сосен и других деревьев. Обычен в Европе и Северной Америке, а также известен из Азии, Африки, Южной Америки и Океании.",
+      "cap": "Шляпки нет: всё плодовое тело — твёрдый, округлый до клубневидного или слегка приплюснутый шар, обычно 3–10 cm в ширину и 3–6 cm в высоту, иногда до 15 cm в ширину; североамериканские находки часто лишь 2–5 cm. Наружная оболочка (перидий) прочная, кожистая, толщиной 1–4 mm, сначала беловатая, кремовая или желтоватая, затем охристо-жёлтая до желтовато-бурой, сверху часто с лимонно-жёлтым оттенком. Вскоре она растрескивается на грубые, неправильные, более тёмные бурые чешуи или плоские многоугольные бородавки, которые с возрастом становятся крупными и чётко разделёнными, тогда как нижняя часть остаётся почти гладкой и морщинистой там, где сужается к основанию. Свежая оболочка при надавливании может желтеть до розовато-красного, а KOH окрашивает поверхность в красный до буровато-красного цвет. При созревании оболочка неправильно разрывается на верхушке, без оформленного отверстия.",
+      "hymenium": "Пластинок и трубочек нет: споры образуются внутри плодового тела, в глебе. Глеба беловатая лишь у совсем молодых плодовых тел и вскоре от центра к краям становится пурпурно-серой до пурпурно-чёрной, мраморной от тонких беловатых прожилок стерильной ткани. Она долго остаётся плотной и компактной, затем становится черноватой до тёмно-бурой и порошистой, а в старости серовато-зелёной. Центральной колонки нет. Споры выходят через разорванную оболочку и разносятся ветром и дождём; пустые оболочки могут сохраняться месяцами.",
+      "stipe": "Настоящей ножки нет. У основания плодовое тело сужается в сжатый, морщинистый кончик, иногда вытянутый в короткое ножковидное основание, из которого пучок беловатых до желтоватых мицелиальных тяжей (ризоморф) закрепляет его в почве.",
+      "flesh": "На разрезе белая корка чётко отделена от тёмной внутренней части и может желтеть, розоветь или краснеть. Внутренняя часть твёрдая и плотная и темнеет очень рано, в отличие от мягкой мякоти дождевиков, которая долго остаётся белой. Запах описывают по-разному, от невыраженного до сильного, пряного, чесночного, металлического или напоминающего газ; сильнее всего он ощущается при разрезании или сушке плодового тела.",
+      "sporePrint": "Споровая масса тёмно-бурая до черновато-бурой, в свежем виде часто с пурпурным оттенком; в некоторых описаниях её называют оливково-бурой. Споры шаровидные до почти шаровидных, 8–13 µm (7–11 µm без орнамента), тёмно-бурые, густо покрытые шипами длиной 1–1,5 µm, которые обычно соединены гребнями в полную или частичную сеточку; у некоторых находок сеточка неполная или отсутствует, даже в пределах одного плодового тела.",
+      "habitat": "Образует эктомикоризу с лиственными и хвойными деревьями, особенно с дубами, берёзами, буком и соснами. Растёт одиночно, рассеянно или группами на бедных, кислых, песчаных, каменистых или торфянистых почвах в хвойных, лиственных и смешанных лесах, на пустошах, в парках и на низкой траве, часто на голой утоптанной земле у лесных дорог, на склонах и вдоль дренажных канав, иногда среди мха или на сильно разложившейся древесине. В Европе плодоносит с июля по ноябрь, в Великобритании и Ирландии до начала декабря, а старые плодовые тела могут сохраняться до зимы. В Северной Америке появляется летом и осенью, а в тёплом климате и зимой.",
+      "uses": "Ядовит. Употребление вызывает желудочно-кишечное отравление с тошнотой, рвотой и болью в животе, иногда с потливостью, пониженным давлением, головокружением и коллапсом; симптомы могут начаться через 30–45 минут после еды, а ответственные вещества неизвестны. Некоторые грибники нарезают и сушат совсем молодые плодовые тела с ещё светлой внутренней частью как приправу в малых количествах, а прежде гриб использовали для подделки трюфелей в паштетах и ливерной колбасе, однако это небезопасно, так как некоторые люди сильно на него реагируют. Вдыхаемые споры могут раздражать глаза и нос.",
+      "confusion": "Дождевики, например Lycoperdon perlatum и Apioperdon pyriforme, мягкие и губчатые, с тонкой оболочкой, долго остаются белыми внутри и выпускают споры через одно отверстие на верхушке; у Lycoperdon perlatum к тому же есть жемчужные остроконечные шипики. Scleroderma verrucosum и Scleroderma areolatum образуют более мелкие плодовые тела с более тонкой, более бурой оболочкой и менее заметными чешуйками, а их споры шиповатые, без сеточки.",
+      "notes": "Хотя он похож на дождевик, он относится к порядку Boletales и близкородствен болетовым грибам рода Gyroporus. Это единственный известный хозяин болетового гриба Pseudoboletus parasiticus, который растёт на его плодовых телах."
+    },
+    "sk": {
+      "description": "Hojne rozšírený pestrec s tvrdou, hrubou, šupinatou okrovkou, ktorý rastie na zemi v lesoch, na vresoviskách a v parkoch, zvyčajne na kyslých, piesočnatých pôdach, ako ektomykorízny partner dubov, briez, borovíc a ďalších stromov. Je hojný v Európe a Severnej Amerike a uvádza sa aj z Ázie, Afriky, Južnej Ameriky a Oceánie.",
+      "cap": "Klobúk chýba: celá plodnica je tvrdá, okrúhla až hľuzovitá alebo mierne sploštená guľa, zvyčajne 3–10 cm široká a 3–6 cm vysoká, výnimočne až 15 cm široká; severoamerické nálezy mávajú často len 2–5 cm. Vonkajšia okrovka (peridia) je tuhá, kožovitá a 1–4 mm hrubá, spočiatku belavá, krémová alebo žltkastá, neskôr okrovožltá až žltohnedá, navrchu často s citrónovožltým nádychom. Čoskoro rozpraská na hrubé, nepravidelné, tmavšie hnedé šupiny alebo ploché mnohouholníkové bradavice, ktoré sa vekom zväčšujú a zreteľne oddeľujú, kým spodná časť zostáva takmer hladká a je zvráskavená tam, kde sa zužuje k báze. Čerstvá okrovka môže na otlačených miestach žltnúť až ružovočervenať a KOH farbí povrch na červeno až hnedočerveno. V zrelosti okrovka na vrchole nepravidelne praskne, bez vyvinutého otvoru.",
+      "hymenium": "Lupene ani rúrky nie sú: výtrusy vznikajú vo vnútri plodnice, v glébe. Gléba je belavá len u veľmi mladých plodníc a čoskoro sa od stredu k okrajom sfarbuje na fialovosivo až fialovočierno, mramorovaná jemnými belavými žilkami sterilného pletiva. Dlho zostáva pevná a kompaktná, potom sčernie alebo tmavohnedo zhnedne a sprášnatie a v starobe je sivozelená. Stĺpik chýba. Výtrusy unikajú cez roztrhnutú okrovku a roznáša ich vietor a dážď; prázdne okrovky môžu vydržať celé mesiace.",
+      "stipe": "Pravý hlúbik chýba. Plodnica sa na báze zužuje do stiahnutého, zvráskaveného hrotu, niekedy predĺženého do krátkej hlúbikovitej bázy, z ktorej ju v pôde ukotvuje zväzok belavých až žltkastých myceliálnych povrázkov (rizomorf).",
+      "flesh": "Na reze je biela kôra zreteľne oddelená od tmavého vnútra a môže zažltnúť, zružovieť alebo sčervenieť. Vnútro je tvrdé a kompaktné a veľmi skoro tmavne, na rozdiel od mäkkého vnútra prášnic, ktoré zostáva dlho biele. Vôňa sa opisuje rôzne, od nevýraznej po silnú, korenistú, cesnakovú, kovovú alebo pripomínajúcu svietiplyn, a najviac je cítiť po rozrezaní alebo usušení plodnice.",
+      "sporePrint": "Výtrusný prach je tmavohnedý až čiernohnedý, čerstvý často s fialovým nádychom; niektoré opisy ho uvádzajú ako olivovohnedý. Výtrusy sú guľovité až takmer guľovité, 8–13 µm (7–11 µm bez ornamentiky), tmavohnedé a husto pokryté ostňami dlhými 1–1,5 µm, ktoré sú zvyčajne spojené lištami do úplnej alebo čiastočnej sieťky; u niektorých nálezov je sieťka neúplná alebo chýba, a to aj v rámci jednej plodnice.",
+      "habitat": "Je ektomykorízny s listnatými aj ihličnatými stromami, najmä s dubmi, brezami, bukom a borovicami. Rastie jednotlivo, roztrúsene alebo v skupinách na chudobných, kyslých, piesočnatých, kamenistých alebo rašelinných pôdach v ihličnatých, listnatých aj zmiešaných lesoch, na vresoviskách, v parkoch a v nízkej tráve, často na holej, udupanej zemi pri lesných cestách, na násypoch a pozdĺž odvodňovacích priekop, niekedy aj medzi machom alebo na silne strúchnivenom dreve. V Európe rastie od júla do novembra, vo Veľkej Británii a Írsku až do začiatku decembra, a staré plodnice môžu pretrvať do zimy. V Severnej Amerike sa objavuje v lete a na jeseň, v teplom podnebí aj cez zimu.",
+      "uses": "Jedovatý. Požitie spôsobuje tráviacu otravu s nevoľnosťou, vracaním a bolesťami brucha, niekedy s potením, nízkym krvným tlakom, závratmi a kolapsom; príznaky môžu nastúpiť 30–45 minút po jedle a zodpovedné látky nie sú známe. Niektorí hubári krájajú a sušia veľmi mladé plodnice s ešte svetlým vnútrom ako korenie v malom množstve a kedysi sa huba používala na falšovanie hľuzoviek v paštétach a pečeňových jaterniciach, to však nie je bezpečné, lebo niektorí ľudia na ňu reagujú silno. Vdýchnuté výtrusy môžu dráždiť oči a nos.",
+      "confusion": "Prášnice, napríklad Lycoperdon perlatum a Apioperdon pyriforme, sú mäkké a hubovité s tenkou okrovkou, vo vnútri dlho zostávajú biele a výtrusy uvoľňujú jediným otvorom na vrchole; Lycoperdon perlatum má navyše perleťové, špicaté ostne. Scleroderma verrucosum a Scleroderma areolatum tvoria menšie plodnice s tenšou, hnedšou okrovkou a menej nápadnými šupinami a ich výtrusy sú ostnité bez sieťky.",
+      "notes": "Hoci vyzerá ako prášnica, patrí do radu Boletales a je blízko príbuzný hríbovitým hubám rodu Gyroporus. Je jediným známym hostiteľom hríbovitej huby Pseudoboletus parasiticus, ktorá rastie na jeho plodniciach."
+    },
+    "sl": {
+      "description": "Široko razširjena trdokožnica s trdo, debelo, luskasto ovojnico, ki raste na tleh v gozdovih, na resavah in v parkih, navadno na kislih, peščenih tleh, kot mikorizni partner hrastov, brez, borov in drugih dreves. Pogosta je v Evropi in Severni Ameriki, poročajo pa o njej tudi iz Azije, Afrike, Južne Amerike in Oceanije.",
+      "cap": "Klobuka ni: celoten trosnjak je trda, okrogla do gomoljasta ali rahlo sploščena krogla, navadno 3–10 cm široka in 3–6 cm visoka, včasih do 15 cm široka; severnoameriške najdbe merijo pogosto le 2–5 cm. Zunanja ovojnica (peridij) je žilava, usnjata in 1–4 mm debela, sprva belkasta, kremasta ali rumenkasta, nato okrasto rumena do rumenkasto rjava, zgoraj pogosto s citronasto rumenim odtenkom. Kmalu razpoka v grobe, nepravilne, temneje rjave luske ali ploščate mnogokotne bradavice, ki s starostjo postanejo velike in jasno ločene, spodnji del pa ostane skoraj gladek in je naguban, kjer se zoži proti dnu. Sveža ovojnica lahko ob pritisku porumeni do rožnato pordeči, KOH pa obarva površino rdeče do rjavkasto rdeče. Ob zrelosti ovojnica na vrhu nepravilno poči, brez izoblikovane odprtine.",
+      "hymenium": "Lističev in cevk ni: trosi nastajajo v notranjosti trosnjaka, v glebi. Gleba je belkasta le pri zelo mladih trosnjakih in kmalu od sredine navzven postane vijoličasto siva do vijoličasto črna, marmorirana s tankimi belkastimi žilami sterilnega tkiva. Dolgo ostane čvrsta in kompaktna, nato postane črnikasta do temno rjava in prašnata, v starosti pa sivozelena. Osrednjega stebrička ni. Trosi uhajajo skozi raztrgano ovojnico, raznašata jih veter in dež; prazne ovojnice lahko vztrajajo več mesecev.",
+      "stipe": "Pravega beta ni. Trosnjak se na dnu zoži v stisnjeno, nagubano konico, včasih podaljšano v kratko betu podobno osnovo, iz katere ga šop belkastih do rumenkastih micelijskih vrvic (rizomorfov) zasidra v tla.",
+      "flesh": "Na prerezu je bela skorja jasno ločena od temne notranjosti in lahko porumeni, porožnati ali pordeči. Notranjost je trda in kompaktna ter zelo zgodaj potemni, v nasprotju z mehko notranjostjo prašnic, ki dolgo ostane bela. Vonj opisujejo različno, od neznačilnega do močnega, začimbnega, česnovega, kovinskega ali podobnega plinu, najbolj pa je opazen, ko trosnjak prerežemo ali posušimo.",
+      "sporePrint": "Trosna masa je temno rjava do črnikasto rjava, sveža pogosto z vijoličastim odtenkom; nekateri opisi jo navajajo kot olivno rjavo. Trosi so kroglasti do skoraj kroglasti, 8–13 µm (7–11 µm brez okrasja), temno rjavi in gosto pokriti z 1–1,5 µm dolgimi bodicami, ki jih navadno povezujejo grebeni v popolno ali delno mrežico; pri nekaterih najdbah je mrežica nepopolna ali je ni, celo znotraj enega trosnjaka.",
+      "habitat": "Tvori ektomikorizo z listavci in iglavci, zlasti s hrasti, brezami, bukvijo in bori. Raste posamič, raztreseno ali v skupinah na revnih, kislih, peščenih, kamnitih ali šotnih tleh v iglastih, listnatih in mešanih gozdovih, na resavah, v parkih in v nizki travi, pogosto na goli, steptani zemlji ob gozdnih poteh, na brežinah in ob odvodnih jarkih, včasih tudi med mahom ali na močno strohnelem lesu. V Evropi plodi od julija do novembra, v Veliki Britaniji in na Irskem do začetka decembra, stari trosnjaki pa lahko vztrajajo do zime. V Severni Ameriki se pojavlja poleti in jeseni, v toplem podnebju tudi čez zimo.",
+      "uses": "Strupena. Uživanje povzroča prebavno zastrupitev s slabostjo, bruhanjem in bolečinami v trebuhu, včasih s potenjem, nizkim krvnim tlakom, vrtoglavico in kolapsom; znaki se lahko pojavijo 30–45 minut po obroku, odgovorne snovi pa niso znane. Nekateri gobarji zelo mlade trosnjake s še svetlo notranjostjo narežejo in posušijo kot začimbo v majhnih količinah, nekoč pa so z gobo ponarejali gomoljike v paštetah in jetrnih klobasah, vendar to ni varno, ker se nekateri ljudje nanjo močno odzovejo. Vdihani trosi lahko dražijo oči in nos.",
+      "confusion": "Prašnice, kot sta Lycoperdon perlatum in Apioperdon pyriforme, so mehke in gobaste s tanko ovojnico, v notranjosti dolgo ostanejo bele in trose sproščajo skozi eno samo odprtino na vrhu; Lycoperdon perlatum ima poleg tega biserne, koničaste bodice. Scleroderma verrucosum in Scleroderma areolatum tvorita manjše trosnjake s tanjšo, bolj rjavo ovojnico in manj opaznimi luskami, njuni trosi pa so bodičasti brez mrežice.",
+      "notes": "Čeprav spominja na prašnice, spada v red Boletales in je v tesnem sorodu z gobani iz rodu Gyroporus. Je edini znani gostitelj gobana Pseudoboletus parasiticus, ki raste na njenih trosnjakih."
+    },
+    "sr": {
+      "description": "Широко распрострањена тврдокожица с тврдом, дебелом, љускавом опном, која расте на тлу у шумама, на вриштинама и у парковима, обично на киселим, песковитим земљиштима, као микоризни партнер храстова, бреза, борова и другог дрвећа. Честа је у Европи и Северној Америци, а наводи се и из Азије, Африке, Јужне Америке и Океаније.",
+      "cap": "Шешира нема: цело плодно тело је тврда, округла до кртоласта или благо спљоштена лопта, обично 3–10 cm широка и 3–6 cm висока, понекад до 15 cm широка; северноамерички налази често имају само 2–5 cm. Спољна опна (перидијум) је жилава, кожаста и 1–4 mm дебела, најпре беличаста, крем или жућкаста, затим окерастожута до жутосмеђа, одозго често с лимунастожутим тоном. Убрзо пуца у грубе, неправилне, тамније смеђе љуске или пљоснате многоугаоне брадавице које с годинама постају велике и јасно одвојене, док доњи део остаје готово гладак и набран тамо где се сужава према основи. Свежа опна на притисак може пожутети до ружичастоцрвено, а KOH боји површину црвено до смеђецрвено. У зрелости опна на врху неправилно пукне, без обликованог отвора.",
+      "hymenium": "Листића ни цевчица нема: споре настају унутар плодног тела, у глеби. Глеба је беличаста само код сасвим младих плодних тела и убрзо од средине ка спољашњости постаје љубичастосива до љубичастоцрна, мраморирана танким беличастим жилицама стерилног ткива. Дуго остаје чврста и збијена, затим постаје црнкаста до тамносмеђа и прашкаста, а у старости сивозелена. Средишњег стубића нема. Споре излазе кроз распуклу опну и разносе их ветар и киша; празне опне могу опстати месецима.",
+      "stipe": "Праве дршке нема. Плодно тело се при основи сужава у стиснут, набран врх, понекад издужен у кратку дршколику основу, из које га сноп беличастих до жућкастих мицелијских врпци (ризоморфа) учвршћује у тлу.",
+      "flesh": "На пресеку је бела кора јасно одвојена од тамне унутрашњости и може пожутети, поружичастити или поцрвенети. Унутрашњост је тврда и збијена и веома рано потамни, за разлику од меке унутрашњости пухара, која дуго остаје бела. Мирис се описује различито, од неупадљивог до јаког, зачинског, белолучног, металног или налик гасу, а најјаче се осећа кад се плодно тело пресече или осуши.",
+      "sporePrint": "Маса спора је тамносмеђа до црнкастосмеђа, свежа често с љубичастим тоном; неки описи је наводе као маслинастосмеђу. Споре су лоптасте до готово лоптасте, 8–13 µm (7–11 µm без украса), тамносмеђе и густо прекривене бодљама дугим 1–1,5 µm које су обично повезане гребенима у потпуну или делимичну мрежицу; код неких налаза мрежица је непотпуна или је нема, чак и унутар једног плодног тела.",
+      "habitat": "Гради ектомикоризу с листопадним и четинарским дрвећем, нарочито с храстовима, брезама, буквом и боровима. Расте појединачно, раштркано или у групама на сиромашним, киселим, песковитим, каменитим или тресетним земљиштима у четинарским, листопадним и мешовитим шумама, на вриштинама, у парковима и на ниској трави, често на голој, утабаној земљи поред шумских путева, на косинама и дуж одводних канала, понекад и међу маховином или на јако трулом дрвету. У Европи плодоноси од јула до новембра, у Великој Британији и Ирској до почетка децембра, а стара плодна тела могу опстати до зиме. У Северној Америци јавља се лети и у јесен, а у топлој клими и преко зиме.",
+      "uses": "Отровна. Конзумирање изазива тровање органа за варење с мучнином, повраћањем и боловима у стомаку, понекад са знојењем, ниским крвним притиском, вртоглавицом и колапсом; симптоми могу почети 30–45 минута после оброка, а одговорне материје нису познате. Неки гљивари секу и суше сасвим млада плодна тела још светле унутрашњости као зачин у малим количинама, а некада се гљива користила за кривотворење тартуфа у паштетама и џигерњачама, али то није безбедно јер неки људи на њу снажно реагују. Удахнуте споре могу надражити очи и нос.",
+      "confusion": "Пухаре, попут врста Lycoperdon perlatum и Apioperdon pyriforme, меке су и сунђерасте с танком опном, изнутра дуго остају беле и ослобађају споре кроз један отвор на врху; Lycoperdon perlatum уз то има бисерне, шиљате бодље. Scleroderma verrucosum и Scleroderma areolatum граде мања плодна тела с тањом, смеђијом опном и мање упадљивим љускама, а споре су им бодљикаве без мрежице.",
+      "notes": "Иако изгледа као пухара, припада реду Boletales и блиско је сродна вргањима из рода Gyroporus. Једини је познати домаћин вргања Pseudoboletus parasiticus, који расте на њеним плодним телима."
+    },
+    "sv": {
+      "description": "En vida spridd rottryffel med hård, tjock, fjällig hud som växer på marken i skogar, på hedar och i parker, oftast på sur, sandig mark, som mykorrhizapartner till ek, björk, tall och andra träd. Den är vanlig i Europa och Nordamerika och rapporteras även från Asien, Afrika, Sydamerika och Oceanien.",
+      "cap": "Det finns ingen hatt: hela fruktkroppen är en hård, rundad till potatisformad eller något tillplattad kula, oftast 3–10 cm bred och 3–6 cm hög och ibland upp till 15 cm bred; nordamerikanska fynd är ofta bara 2–5 cm. Ytterhuden (peridiet) är seg, läderartad och 1–4 mm tjock, först vitaktig, krämfärgad eller gulaktig, sedan ockragul till gulbrun, upptill ofta med en citrongul ton. Den spricker snart upp i grova, oregelbundna, mörkare bruna fjäll eller platta månghörniga vårtor som blir stora och tydligt åtskilda med åldern, medan den nedre delen förblir nästan slät och är rynkig där den smalnar av mot basen. Färsk hud kan vid tryck bli gulaktig till rosaröd, och KOH färgar ytan röd till brunröd. Vid mognad spricker huden oregelbundet upptill, utan någon bestämd öppning.",
+      "hymenium": "Det finns varken skivor eller rör: sporerna bildas inuti fruktkroppen, i gleban. Gleban är vitaktig bara hos mycket unga fruktkroppar och blir snart purpurgrå till purpursvart inifrån och ut, marmorerad av fina vitaktiga ådror av steril vävnad. Den förblir länge fast och kompakt, blir sedan svartaktig till mörkbrun och pulvrig och till sist grågrön. Det finns ingen mittpelare. Sporerna kommer ut genom den spruckna huden och sprids av vind och regn, och tomma skal kan finnas kvar i månader.",
+      "stipe": "Det finns ingen äkta fot. Fruktkroppen smalnar vid basen av till en hopknipen, rynkig spets, ibland utdragen till en kort fotliknande bas, varifrån en tofs av vitaktiga till gulaktiga myselsträngar (rhizomorfer) förankrar den i marken.",
+      "flesh": "I snitt är det vita skalet tydligt avgränsat från det mörka inre och kan anlöpa gulaktigt, rosa eller rödaktigt. Det inre är hårt och kompakt och mörknar mycket tidigt, till skillnad från det mjuka inre hos röksvampar, som länge förblir vitt. Lukten beskrivs olika, från obetydlig till stark, kryddig, vitlöksaktig, metallisk eller gasaktig, och märks mest när fruktkroppen skärs itu eller torkas.",
+      "sporePrint": "Spormassan är mörkbrun till svartbrun, i färskt tillstånd ofta med en purpur ton; vissa beskrivningar kallar den olivbrun. Sporerna är klotrunda till nästan klotrunda, 8–13 µm (7–11 µm utan ornamentering), mörkbruna och tätt besatta med 1–1,5 µm långa taggar som oftast är förbundna av åsar till ett fullständigt eller ofullständigt nätverk; hos vissa fynd är nätet ofullständigt eller saknas, till och med inom samma fruktkropp.",
+      "habitat": "Den bildar ektomykorrhiza med löv- och barrträd, särskilt ek, björk, bok och tall. Den växer ensam, spridd eller i grupper på näringsfattig, sur, sandig, stenig eller torvig mark i barr-, löv- och blandskog, på hedar, i parker och i kort gräs, ofta på bar, packad mark vid skogsvägar, på slänter och längs diken, och ibland bland mossa eller på kraftigt förmultnad ved. I Europa bildar den fruktkroppar från juli till november, i Storbritannien och Irland till början av december, och gamla fruktkroppar kan finnas kvar in på vintern. I Nordamerika uppträder den på sommaren och hösten och i varma klimat även över vintern.",
+      "uses": "Giftig. Den orsakar mag-tarmförgiftning med illamående, kräkningar och buksmärtor, ibland med svettningar, lågt blodtryck, yrsel och kollaps; symtomen kan börja 30–45 minuter efter måltiden, och de ansvariga ämnena är okända. Vissa svampplockare skivar och torkar mycket unga fruktkroppar med ännu ljust inre som krydda i små mängder, och svampen användes förr för att förfalska tryffel i pastejer och leverkorv, men det är inte säkert, eftersom vissa människor reagerar kraftigt på den. Inandade sporer kan irritera ögon och näsa.",
+      "confusion": "Röksvampar som Lycoperdon perlatum och Apioperdon pyriforme är mjuka och svampiga med tunn hud, förblir länge vita inuti och släpper ut sporerna genom en enda öppning i toppen; Lycoperdon perlatum har dessutom pärlliknande, spetsiga taggar. Scleroderma verrucosum och Scleroderma areolatum bildar mindre fruktkroppar med tunnare, brunare hud och mindre iögonfallande fjäll, och deras sporer är taggiga utan nätverk.",
+      "notes": "Trots att den liknar en röksvamp hör den till ordningen Boletales och är nära släkt med soppar i släktet Gyroporus. Den är den enda kända värden för soppen Pseudoboletus parasiticus, som växer på dess fruktkroppar."
+    },
+    "tr": {
+      "description": "Sert, kalın ve pullu bir kabuğa sahip, geniş yayılışlı bir sert kabuklu yer topu; ormanlarda, fundalıklarda ve parklarda toprak üzerinde, genellikle asidik, kumlu topraklarda, meşe, huş, çam ve başka ağaçların mikoriza ortağı olarak yetişir. Avrupa ve Kuzey Amerika'da yaygındır; Asya, Afrika, Güney Amerika ve Okyanusya'dan da bildirilmiştir.",
+      "cap": "Şapka yoktur: meyve gövdesinin tamamı sert, yuvarlak ila patates biçimli ya da hafifçe basık bir topdur; genellikle 3–10 cm genişliğinde ve 3–6 cm yüksekliğindedir, bazen 15 cm'ye kadar genişler; Kuzey Amerika örnekleri çoğu zaman yalnızca 2–5 cm'dir. Dış kabuk (peridyum) sağlam, deri gibi ve 1–4 mm kalınlığındadır; önce beyazımsı, krem ya da sarımsı, sonra okr sarısı ila sarımsı kahverengidir ve üstte çoğu zaman limon sarısı bir ton taşır. Kısa sürede iri, düzensiz, daha koyu kahverengi pullara ya da yassı çokgen siğillere çatlar; bunlar yaşla birlikte büyür ve belirgin biçimde ayrılır, alt kısım ise neredeyse düz kalır ve tabana doğru daraldığı yerde buruşuktur. Taze kabuk bastırılınca sarımsı ila pembemsi kırmızı lekelenebilir ve KOH yüzeyi kırmızı ila kahverengimsi kırmızıya boyar. Olgunlukta kabuk tepede düzensizce yırtılır; belirli bir delik yoktur.",
+      "hymenium": "Lamel ya da tüp yoktur: sporlar meyve gövdesinin içinde, glebada oluşur. Gleba yalnızca çok genç meyve gövdelerinde beyazımsıdır ve kısa sürede merkezden dışa doğru morumsu griden mor-siyaha döner; ince, beyazımsı, steril doku damarlarıyla mermer desenlidir. Uzun süre sıkı ve yoğun kalır, sonra siyahımsı ila koyu kahverengi ve tozlu hâle gelir, yaşlanınca grimsi yeşil olur. Merkezî sütun yoktur. Sporlar yırtılan kabuktan çıkar ve rüzgâr ile yağmurla yayılır; boş kabuklar aylarca kalabilir.",
+      "stipe": "Gerçek bir sap yoktur. Meyve gövdesi tabanda sıkışık, buruşuk bir uca daralır; bu uç bazen kısa, sap benzeri bir tabana uzar ve buradan çıkan beyazımsı ila sarımsı bir miselyum kordonu (rizomorf) demeti onu toprağa bağlar.",
+      "flesh": "Kesitte beyaz kabuk koyu iç kısımdan açıkça ayrılır ve sarımsı, pembemsi ya da kırmızımsı renk alabilir. İç kısım sert ve yoğundur ve çok erken koyulaşır; uzun süre beyaz kalan puf mantarlarının yumuşak içinden bu yönüyle ayrılır. Kokusu farklı biçimlerde tanımlanır; belirgin olmayandan güçlü, baharatlı, sarımsaksı, metalik ya da gaz benzeri kokuya kadar değişir ve en çok meyve gövdesi kesildiğinde ya da kurutulduğunda fark edilir.",
+      "sporePrint": "Spor kütlesi koyu kahverengi ila siyahımsı kahverengidir, tazeyken çoğu zaman morumsu bir ton taşır; bazı tanımlarda zeytin kahverengisi olarak verilir. Sporlar küresel ila küresele yakın, 8–13 µm (süs olmadan 7–11 µm), koyu kahverengidir ve 1–1,5 µm uzunluğunda dikenlerle sıkça kaplıdır; bu dikenler genellikle sırtlarla tam ya da kısmi bir ağ oluşturacak biçimde birleşir, bazı örneklerde ise ağ eksik ya da hiç yoktur, hatta aynı meyve gövdesi içinde bile.",
+      "habitat": "Geniş yapraklı ve iğne yapraklı ağaçlarla, özellikle meşe, huş, kayın ve çamlarla ektomikoriza oluşturur. Tek tek, dağınık ya da gruplar hâlinde; iğne yapraklı, geniş yapraklı ve karışık ormanlarda, fundalıklarda, parklarda ve kısa çimlerde fakir, asidik, kumlu, taşlı ya da turbalı topraklarda, çoğu zaman orman yollarının kenarındaki çıplak, sıkışmış toprakta, şevlerde ve drenaj hendekleri boyunca, bazen de yosunlar arasında ya da iyice çürümüş odun üzerinde yetişir. Avrupa'da temmuzdan kasıma kadar, Büyük Britanya ve İrlanda'da aralık başına kadar meyve verir ve yaşlı meyve gövdeleri kışa kadar kalabilir. Kuzey Amerika'da yazın ve sonbaharda, ılık iklimlerde kışın da görülür.",
+      "uses": "Zehirlidir. Yenmesi bulantı, kusma ve karın ağrısıyla seyreden, bazen terleme, düşük tansiyon, baş dönmesi ve bayılmanın eşlik ettiği bir mide-bağırsak zehirlenmesine yol açar; belirtiler yemekten 30–45 dakika sonra başlayabilir ve sorumlu maddeler bilinmemektedir. Bazı toplayıcılar içi hâlâ açık renkli çok genç meyve gövdelerini dilimleyip kurutarak az miktarda baharat olarak kullanır ve mantar eskiden pate ve ciğer sucuklarında yer mantarı taklidi için kullanılmıştır; ancak bu güvenli değildir, çünkü bazı insanlar ona şiddetli tepki verir. Solunan sporlar gözleri ve burnu tahriş edebilir.",
+      "confusion": "Lycoperdon perlatum ve Apioperdon pyriforme gibi puf mantarları yumuşak ve süngerimsidir, ince kabukludur, içleri uzun süre beyaz kalır ve sporlarını tepedeki tek bir açıklıktan bırakır; Lycoperdon perlatum ayrıca inci gibi sivri dikenler taşır. Scleroderma verrucosum ve Scleroderma areolatum daha ince ve daha kahverengi kabuklu, pulları daha az belirgin, daha küçük meyve gövdeleri oluşturur ve sporları ağsız, dikenlidir.",
+      "notes": "Puf mantarına benzese de Boletales takımına aittir ve Gyroporus cinsindeki çörekmantarlarıyla yakın akrabadır. Meyve gövdeleri üzerinde yetişen Pseudoboletus parasiticus çörekmantarının bilinen tek konağıdır."
+    },
+    "uk": {
+      "description": "Широко поширений несправжній дощовик із твердою, товстою, лускатою оболонкою, що росте на землі в лісах, на пустищах і в парках, зазвичай на кислих піщаних ґрунтах, як мікоризний партнер дубів, беріз, сосен та інших дерев. Звичайний у Європі та Північній Америці, а також відомий з Азії, Африки, Південної Америки й Океанії.",
+      "cap": "Шапинки немає: усе плодове тіло — тверда, округла до бульбоподібної або трохи сплющена куля, зазвичай 3–10 cm завширшки і 3–6 cm заввишки, іноді до 15 cm завширшки; північноамериканські знахідки часто лише 2–5 cm. Зовнішня оболонка (перидій) міцна, шкіряста, завтовшки 1–4 mm, спершу білувата, кремова або жовтувата, потім вохристо-жовта до жовтувато-бурої, зверху часто з лимонно-жовтим відтінком. Невдовзі вона розтріскується на грубі, неправильні, темніші бурі луски або пласкі багатокутні бородавки, які з віком стають великими й чітко відокремленими, тоді як нижня частина лишається майже гладенькою і зморшкуватою там, де звужується до основи. Свіжа оболонка при натисканні може жовтіти до рожевувато-червоної, а KOH забарвлює поверхню в червоний до бурувато-червоного колір. Під час дозрівання оболонка неправильно розривається на верхівці, без сформованого отвору.",
+      "hymenium": "Пластинок і трубочок немає: спори утворюються всередині плодового тіла, у глебі. Глеба білувата лише в зовсім молодих плодових тілах і невдовзі від центру до країв стає пурпурово-сірою до пурпурово-чорної, мармуровою від тонких білуватих прожилок стерильної тканини. Вона довго лишається щільною та компактною, потім стає чорнуватою до темно-бурої й порошистою, а в старості сірувато-зеленою. Центральної колонки немає. Спори виходять крізь розірвану оболонку й розносяться вітром і дощем; порожні оболонки можуть зберігатися місяцями.",
+      "stipe": "Справжньої ніжки немає. Біля основи плодове тіло звужується в стиснутий, зморшкуватий кінчик, іноді витягнутий у коротку ніжкоподібну основу, з якої пучок білуватих до жовтуватих міцеліальних тяжів (ризоморф) закріплює його в ґрунті.",
+      "flesh": "На розрізі біла кірка чітко відокремлена від темної внутрішньої частини й може жовтіти, рожевіти або червоніти. Внутрішня частина тверда й щільна і темніє дуже рано, на відміну від м'якої м'якоті дощовиків, яка довго лишається білою. Запах описують по-різному, від невиразного до сильного, пряного, часникового, металевого або схожого на газ; найсильніше він відчувається під час розрізання або сушіння плодового тіла.",
+      "sporePrint": "Спорова маса темно-бура до чорнувато-бурої, свіжа часто з пурпуровим відтінком; у деяких описах її називають оливково-бурою. Спори кулясті до майже кулястих, 8–13 µm (7–11 µm без орнаменту), темно-бурі, густо вкриті шипами завдовжки 1–1,5 µm, які зазвичай з'єднані гребенями в повну або часткову сіточку; у деяких знахідках сіточка неповна або відсутня, навіть у межах одного плодового тіла.",
+      "habitat": "Утворює ектомікоризу з листяними та хвойними деревами, особливо з дубами, березами, буком і соснами. Росте поодинці, розсіяно або групами на бідних, кислих, піщаних, кам'янистих або торф'янистих ґрунтах у хвойних, листяних і мішаних лісах, на пустищах, у парках і на низькій траві, часто на голій утоптаній землі біля лісових доріг, на схилах і вздовж дренажних канав, іноді серед моху або на сильно розкладеній деревині. У Європі плодоносить з липня по листопад, у Великій Британії та Ірландії до початку грудня, а старі плодові тіла можуть зберігатися до зими. У Північній Америці з'являється влітку й восени, а в теплому кліматі і взимку.",
+      "uses": "Отруйний. Споживання спричиняє шлунково-кишкове отруєння з нудотою, блюванням і болем у животі, іноді з пітливістю, зниженим тиском, запамороченням і колапсом; симптоми можуть початися через 30–45 хвилин після їжі, а відповідальні речовини невідомі. Деякі грибники нарізають і сушать зовсім молоді плодові тіла з ще світлою внутрішньою частиною як приправу в малих кількостях, а колись гриб використовували для підробки трюфелів у паштетах і ліверній ковбасі, проте це небезпечно, бо деякі люди сильно на нього реагують. Вдихнуті спори можуть подразнювати очі й ніс.",
+      "confusion": "Дощовики, наприклад Lycoperdon perlatum і Apioperdon pyriforme, м'які й губчасті, з тонкою оболонкою, довго лишаються білими всередині й випускають спори через один отвір на верхівці; Lycoperdon perlatum має ще й перлисті загострені шипики. Scleroderma verrucosum і Scleroderma areolatum утворюють дрібніші плодові тіла з тоншою, бурішою оболонкою й менш помітними лусочками, а їхні спори шипуваті, без сіточки.",
+      "notes": "Хоча він схожий на дощовик, він належить до порядку Boletales і близько споріднений з болетовими грибами роду Gyroporus. Це єдиний відомий господар болетового гриба Pseudoboletus parasiticus, що росте на його плодових тілах."
+    },
+    "zh": {
+      "description": "一種分布廣泛的球形真菌，外皮堅硬、厚而具鱗片，生於林地、石南荒原和公園的地上，通常在酸性砂質土壤中，與櫟樹、樺樹、松樹及其他樹木形成菌根。在歐洲和北美洲常見，亞洲、非洲、南美洲和大洋洲也有記錄。",
+      "cap": "沒有菌蓋：整個子實體是一個堅硬的球體，圓形至馬鈴薯形或略扁，通常寬3–10 cm、高3–6 cm，偶可寬達15 cm；北美洲的標本常僅2–5 cm。外包被堅韌、革質，厚1–4 mm，初為白色、奶油色或淡黃色，後變為赭黃色至黃褐色，頂部常帶檸檬黃色調。不久便龜裂成粗糙、不規則、顏色較深的褐色鱗片或扁平的多角形疣，隨年齡增長而變大並明顯分離，而下部則幾乎保持平滑，在向基部收窄處有皺紋。新鮮的外皮受壓後可變為淡黃色至帶粉紅的紅色，KOH使表面呈紅色至褐紅色。成熟時外皮在頂部不規則地裂開，沒有固定的孔口。",
+      "hymenium": "沒有菌褶，也沒有菌管：孢子在子實體內部的產孢組織中形成。產孢組織僅在極幼嫩的子實體中呈白色，不久便由中心向外變為紫灰色至紫黑色，並有不育組織形成的細白色脈紋，呈大理石紋。它長時間保持堅實緊密，之後變為黑色至暗褐色並呈粉狀，老熟時呈灰綠色。沒有中軸。孢子從裂開的外皮逸出，由風雨傳播；空殼可留存數月。",
+      "stipe": "沒有真正的菌柄。子實體基部收窄成捏縮、具皺紋的尖端，有時延伸成短的柄狀基部，由此長出一叢白色至淡黃色的菌絲索（根狀菌索），將其固定在土中。",
+      "flesh": "切開時，白色的外皮與深色的內部界限分明，並可變為淡黃色、粉紅色或帶紅色。內部堅硬緊密，很早便變暗，不同於馬勃類柔軟的內部長時間保持白色。氣味的描述不一，從無特殊氣味到濃烈、辛香、蒜味、金屬味或似煤氣味，在切開或乾燥子實體時最明顯。",
+      "sporePrint": "孢子團暗褐色至黑褐色，新鮮時常帶紫色調；有些描述稱其為橄欖褐色。孢子球形至近球形，直徑8–13 µm（不含紋飾為7–11 µm），暗褐色，密布長1–1.5 µm的刺，刺通常由脊連接成完整或不完整的網紋；部分標本的網紋不完整或缺失，即使在同一子實體內也是如此。",
+      "habitat": "與闊葉樹和針葉樹形成外生菌根，尤其是櫟樹、樺樹、山毛櫸和松樹。單生、散生或群生於針葉林、闊葉林和混交林、石南荒原、公園及短草地中貧瘠、酸性、砂質、多石或泥炭質的土壤上，常見於林道旁裸露夯實的地面、土堤和排水溝沿岸，有時也生於苔蘚間或高度腐爛的木頭上。在歐洲，7月至11月出菇，在英國和愛爾蘭可至12月初，老的子實體可留存至冬季。在北美洲，夏秋季出現，在溫暖氣候下冬季也有。",
+      "uses": "有毒。食用會引起胃腸道中毒，出現噁心、嘔吐和腹痛，有時伴有出汗、血壓降低、頭暈和虛脫；症狀可於餐後30–45分鐘開始，致病物質尚不清楚。有些採菇者將內部仍呈淺色的極幼嫩子實體切片曬乾，少量作為香料使用，過去此菌也曾被用來在肉醬和肝腸中假冒松露，但這並不安全，因為有些人對其反應強烈。吸入孢子可刺激眼睛和鼻子。",
+      "confusion": "Lycoperdon perlatum和Apioperdon pyriforme等馬勃類質地柔軟、呈海綿狀，外皮薄，內部長時間保持白色，並經由頂部單一開口釋放孢子；Lycoperdon perlatum另有珍珠般的尖刺。Scleroderma verrucosum和Scleroderma areolatum形成較小的子實體，外皮較薄、較褐，鱗片較不明顯，孢子具刺而無網紋。",
+      "notes": "雖然外形像馬勃，卻屬於Boletales目，與Gyroporus屬的牛肝菌關係密切。它是生長在其子實體上的牛肝菌Pseudoboletus parasiticus唯一已知的寄主。"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t52u \"signature Gemini\"). The supplied file \"Scleroderma citrinum.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc1.webp",
+      "author": "merchant73",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/586091007"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc2.webp",
+      "author": "Filip Vyskočil",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/55296621"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc3.webp",
+      "author": "Vincenzo Gulino",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/581381510"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc4.webp",
+      "author": "teddydolstra",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/457282210"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc5.webp",
+      "author": "maricel patino",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/463050351"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/Scleroderma_citrinum@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc1.webp",
+      "author": "merchant73",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/586091007"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc2.webp",
+      "author": "Filip Vyskočil",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/55296621"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc3.webp",
+      "author": "Vincenzo Gulino",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/581381510"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc4.webp",
+      "author": "teddydolstra",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/457282210"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Sclerodermataceae/Scleroderma_citrinum/sc5.webp",
+      "author": "maricel patino",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/463050351"
+    }
+  ],
+  "synonyms": [
+    "Scleroderma vulgare",
+    "Scleroderma vulgare β macrorhizum",
+    "Scleroderma macrorhizum",
+    "Scleroderma aurantium var. macrorhizum",
+    "Scleroderma vulgare var. novoguineense",
+    "Scleroderma vulgare var. bogoriense",
+    "Scleroderma vulgare var. aurantiacum",
+    "Scleroderma aurantium var. aurantiacum"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 165,
+  "added": "2026-11-13",
+  "citation": "Syn. meth. fung. (Göttingen) 1: 153 (1801)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "No enclosed-region removal; pale fruit-body interiors stay opaque",
+    "paperPatchesExcluded": [
+      {
+        "area": 836.0,
+        "box": [
+          769,
+          1120,
+          18,
+          72
+        ],
+        "medianContrast": 6.882900502261142
+      }
+    ],
+    "edgePaperPixelsPeeled": 5344,
+    "rootBoxPaperCleared": {
+      "box": [
+        140,
+        980,
+        420,
+        1135
+      ],
+      "pixels": 1263,
+      "paperReferenceRGB": [
+        247.0,
+        231.0,
+        205.0
+      ],
+      "rule": "inside ROOTBOX only: alpha 0 where RGB distance to the local unmasked paper median is <16, keeping a 1 px dilation of everything else (cords, soil crumbs, anti-aliasing); RGB unchanged"
+    },
+    "paperResidualP995": 1.8879768430282058,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Scleroderma citrinum.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      843,
+      1264
+    ],
+    "sourceSHA256": "e741954933434ed666f6ee1df53bf1aa7e4b8ec58056f2026d4f67e76dab04f9",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      82,
+      295,
+      777,
+      1190
+    ],
+    "uniformScale": 2.014388489208633,
+    "placement": [
+      100,
+      298
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1803
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 741800,
+    "opaquePixels": 299716,
+    "partialAlphaPixels": 24036,
+    "signatureBox": [
+      676,
+      1145,
+      762,
+      1194
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 346,
+    "preservedObjects": [
+      "upper group, left: a large mature fruit body with a coarsely scaly, ochre-yellow peridium covered in dark brown polygonal warts, torn open at the top in irregular lobes to show a dark olive-green to blackish spore mass",
+      "upper group, right: a second large, intact, rounded fruit body with a paler yellow-ochre peridium and smaller brown warts, partly behind the first",
+      "upper group, front right: a small young, pale yellowish fruit body with fine scales",
+      "upper group ground: green moss, sandy soil with a drawn soil tint, and fallen brown leaves (birch- and oak-like)",
+      "lower left, detached: a whole fruit body seen from the side, its base pinched into a short folded stem-like base from which yellow mycelial cords spread through soil crumbs",
+      "lower centre, decorative: a birch twig with two green toothed leaves and a hanging catkin",
+      "lower right, detached: a vertical cut section showing a thick whitish rind blushing pink, a purple-black gleba marbled with white veins that converge downwards in a tree-like pattern, and a whitish pinched base with fine cords",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t52u; IDs 154-164 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 15036.0,
+        "box": [
+          392,
+          856,
+          192,
+          288
+        ],
+        "medianContrast": 92.19996687724459
+      },
+      {
+        "area": 48404.0,
+        "box": [
+          504,
+          755,
+          272,
+          261
+        ],
+        "medianContrast": 97.65790583573767
+      },
+      {
+        "area": 60219.5,
+        "box": [
+          83,
+          745,
+          307,
+          371
+        ],
+        "medianContrast": 80.55040488882959
+      },
+      {
+        "area": 190157.5,
+        "box": [
+          84,
+          296,
+          687,
+          390
+        ],
+        "medianContrast": 96.61814560164464
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection of composition_lossless.png, transparency_checker.png and original_vs_composition.jpg: all drawn objects kept with real alpha on the standard background at one uniform upscale (x2.014 from the 843x1264 JPEG source; some softness at full size). Kept as drawn: the upper group of two large scaly fruit bodies (one torn open at the top) and a small young pale one on moss, soil and fallen leaves; the detached lower-left fruit body with its pinched base and yellow mycelial cords in soil crumbs; the decorative birch twig with leaves and catkin; the cut section with pink-blushing rind and white-marbled purple-black gleba; and the faint cursive \"Gemini\" mark at bottom right. A pale yellow drawn wash between the mycelial cords is kept (it is painted tint, not paper); 1263 near-paper pixels enclosed between the cords were cleared inside a fixed box only. The drawn soil tint under the upper group stays (ground wash, not a frame). One isolated 18x72 px plain-paper strip at the right edge beside the mark was excluded as paper.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t52u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-164. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 843x1264 source",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 843x1264 JPEG/JFIF with EXIF (software=Picasa) and no source alpha, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform cream paper with a soft darker vignette at the edges"
+      ],
+      "anatomyCaveat": "Anatomy broadly matches S. citrinum (coarsely scaly, ochre-yellow, thick-skinned, stemless rounded fruit bodies; irregular rupture at the top; pinched base with yellowish mycelial cords; thick whitish rind blushing pink when cut; purple-black gleba marbled with white veins). Caveats: in the cut section the white veins converge downwards into a stylised tree-like trunk over a whitish sterile base, which suggests a central column that the species does not have; the exposed spore mass of the torn fruit body is drawn dark olive-green (mature spore mass is usually purple-black to blackish brown, greying-green only when old and powdery); the stem-like base of the lower-left fruit body is somewhat exaggerated. The birch twig with catkin and the leaves are decorative habitat elements, not identification features. AI-generated look (Gemini mark), rights and authorship unverified; decision for Adrian.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Scleroderma_citrinum@1600.webp",
+        "bytes": 356822,
+        "sha256": "a94b661632ce1e1ae7696d57cf0191cfacc88759c4510ee74edb715a90fe82f3"
+      },
+      {
+        "path": "media/Scleroderma_citrinum@400.webp",
+        "bytes": 48172,
+        "sha256": "fec7f9efcc4065c715c0757a11441870b3b17d680dd63454f042b8ede94c1089"
+      }
+    ]
+  }
 }
 ];

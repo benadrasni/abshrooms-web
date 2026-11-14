@@ -997,5 +997,11 @@ export const TAXA = {
   },
   Sarcodontia: {
     rank: "genus"
+  },
+  Sclerodermataceae: {
+    rank: "family"
+  },
+  Scleroderma: {
+    rank: "genus"
   }
 };
