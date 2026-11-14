@@ -1006,5 +1006,11 @@ export const TAXA = {
   },
   Coprinopsis: {
     rank: "genus"
+  },
+  Fomitopsidaceae: {
+    rank: "family"
+  },
+  Fomitopsis: {
+    rank: "genus"
   }
 };

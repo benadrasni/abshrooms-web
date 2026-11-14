@@ -61743,11 +61743,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-24",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@400.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600_v2.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@400_v2.webp",
     plateCredit: {
       author: "Gemini",
-      license: "not stated"
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 61 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a whole fruit body in leaf litter, an underside/gill view, a longitudinal section, a button section, an oak sprig with acorn, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600_v2.webp"
     },
     photos: [
       {
@@ -169618,6 +169620,1631 @@ export const CATALOG = [
         "path": "media/Craterellus_tubaeformis@400.webp",
         "bytes": 42184,
         "sha256": "982871d401fc6864c018bd80899f1098cf7b8494b67ae733d2763f4cb530fed4"
+      }
+    ]
+  }
+},
+{
+  "name": "Fomitopsis betulina",
+  "author": "(Bull.) B.K. Cui, M.L. Han & Y.C. Dai",
+  "family": "Fomitopsidaceae",
+  "genus": "Fomitopsis",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Polyporales",
+    "Fomitopsidaceae",
+    "Fomitopsis"
+  ],
+  "summary": [
+    "Polyporales",
+    "Fomitopsidaceae",
+    "Fomitopsis"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 8.0,
+  "capTo": 20.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "label": {
+    "ar": null,
+    "bg": "брезова пореста гъба",
+    "cs": "březovník obecný",
+    "da": "birkeporesvamp",
+    "de": "Birkenporling",
+    "en": "birch polypore",
+    "es": "yesquero del abedul",
+    "et": "kasekäsn",
+    "fa": null,
+    "fi": "pökkelökääpä",
+    "fr": "polypore du bouleau",
+    "he": null,
+    "hi": null,
+    "hr": "brezina guba",
+    "hu": "nyírfatapló",
+    "id": null,
+    "it": "poliporo della betulla",
+    "ja": "カンバタケ",
+    "ko": "자작나무버섯",
+    "lt": "beržinis pintenis",
+    "lv": "brūnā bērzupiepe",
+    "nl": "Berkenzwam",
+    "no": "knivkjuke",
+    "pl": "pniarek brzozowy",
+    "pt": null,
+    "ro": "iasca mesteacănului",
+    "ru": "трутовик берёзовый",
+    "sk": "brezovník obyčajný",
+    "sl": "brezova kresilača",
+    "sr": "брезова губа",
+    "sv": "björkticka",
+    "tr": null,
+    "uk": "губка березова",
+    "zh": "樺擬層孔菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [
+      "брезова праханова гъба"
+    ],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Birken-Porling"
+    ],
+    "en": [
+      "razor strop fungus",
+      "birch bracket"
+    ],
+    "es": [
+      "yesquero de abedul"
+    ],
+    "et": [
+      "kasekäsnak"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "brezovača"
+    ],
+    "hu": [
+      "nyírfa-kérgestapló",
+      "nyírfa-tapló"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [
+      "parastā bērzupiepe"
+    ],
+    "nl": [
+      "Berkezwam"
+    ],
+    "no": [],
+    "pl": [
+      "białoporek brzozowy"
+    ],
+    "pt": [],
+    "ro": [
+      "iască de mesteacăn",
+      "urechea mesteacănului"
+    ],
+    "ru": [],
+    "sk": [],
+    "sl": [
+      "brezova odpadljivka"
+    ],
+    "sr": [
+      "брезов труд"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "трутовик березовий"
+    ],
+    "zh": [
+      "白樺菌菇"
+    ]
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Брезова_пореста_гъба"
+    ],
+    "cs": [
+      "https://www.nahuby.sk/atlas-hub/Fomitopsis-betulina/brezovnik-obycajny/brezovnik-obecny/ID14",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/9173916/vernacularNames",
+      "https://de.wikipedia.org/wiki/Birkenporling",
+      "https://www.fungi.lv/piptoporus_betulinus.htm"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=812646",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=812646",
+      "https://www.gbif.org/species/9819973",
+      "https://www.catalogueoflife.org/data/taxon/6JCB8",
+      "https://www.wikidata.org/wiki/Q96894257",
+      "https://www.inaturalist.org/taxa/775410-Fomitopsis-betulina",
+      "https://en.wikipedia.org/wiki/Fomitopsis_betulina",
+      "https://www.first-nature.com/fungi/piptoporus-betulinus.php",
+      "https://de.wikipedia.org/wiki/Birkenporling",
+      "https://www.nahuby.sk/atlas-hub/Fomitopsis-betulina/brezovnik-obycajny/brezovnik-obecny/ID14",
+      "https://www.fungi.lv/piptoporus_betulinus.htm",
+      "https://wiki.mycoradar.ch/it/especes/polypore-du-bouleau",
+      "https://api.gbif.org/v1/species/9173916/vernacularNames"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/9173916/vernacularNames",
+      "https://es.wikipedia.org/wiki/Fomitopsis_betulina"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Kasekäsn",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/9819973/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Pökkelökääpä"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/9173916/vernacularNames",
+      "https://fr.wikipedia.org/wiki/Polypore_du_bouleau"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Brezina_guba"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Nyírfatapló",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "id": [],
+    "it": [
+      "https://wiki.mycoradar.ch/it/especes/polypore-du-bouleau"
+    ],
+    "ja": [
+      "https://api.gbif.org/v1/species/9173916/vernacularNames",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "ko": [
+      "https://species.nibr.go.kr/"
+    ],
+    "lt": [
+      "https://api.gbif.org/v1/species/9819973/vernacularNames",
+      "https://lt.wikipedia.org/wiki/Beržinis_pintenis"
+    ],
+    "lv": [
+      "https://www.fungi.lv/piptoporus_betulinus.htm",
+      "https://tezaurs.lv/b%C4%93rzupiepe:1",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/9173916/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Berkenzwam"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/9819973/vernacularNames",
+      "https://nn.wikipedia.org/wiki/Knivkjuke"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Pniarek_brzozowy",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Piptoporus_betulinus"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Трутовик_берёзовый",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Fomitopsis-betulina/brezovnik-obycajny/brezovnik-obecny/ID14",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=812646",
+      "https://www.gbif.org/species/9819973"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Brezova_kresilača",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Брезова_губа",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/9819973/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Björkticka"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Fomitopsis_betulina",
+      "https://api.gbif.org/v1/species/9819973/vernacularNames"
+    ],
+    "zh": [
+      "https://api.gbif.org/v1/species/9819973/vernacularNames",
+      "https://zh.wikipedia.org/wiki/白樺菌菇"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كبير فاتح اللون على شكل رف، ينمو حصرًا على أشجار البتولا. وهو من أكثر الفطريات الرفّية شيوعًا حيثما تنمو أشجار البتولا، في كامل النطاق المعتدل والشمالي البارد من نصف الكرة الشمالي في أوروبا وآسيا وأمريكا الشمالية. الأجسام الثمرية حولية، لكن الأجسام القديمة تبقى على الأشجار مدة طويلة بعد إطلاق أبواغها، لذا يمكن رؤية الفطر على مدار السنة.",
+      "cap": "يبلغ عرض الجسم الثمري ٨–٢٠ سم، وأحيانًا حتى ٢٥ سم أو أكثر، وسُمكه ٢–٦ سم. يبدأ كعقدة صغيرة مستديرة مائلة إلى البياض تنبثق من اللحاء، ثم ينمو إلى رف على شكل كلية أو حافر، منتفخ كالوسادة من الأعلى ومسطح من الأسفل، متصل بالجذع بقاعدة مستدقة تشبه الساق. السطح أملس، مائل إلى البياض حتى البني الرمادي أو البني المغري، مغطى بجلد رقيق يمكن نزعه ويتشقق في الأجسام الأقدم إلى قشور صغيرة. الحافة سميكة ومستديرة وملتفة إلى الداخل، مائلة إلى البياض، وتبرز فوق السطح المسامي.",
+      "hymenium": "في الوجه السفلي طبقة واحدة من الأنابيب القصيرة طولها ١٫٥–٨ مم، تنفصل بسهولة عن اللحم في الأجسام القديمة. المسام صغيرة جدًا ومستديرة، نحو ٣–٤ في كل ملليمتر، بيضاء أولًا ثم رمادية إلى لون الجلد المدبوغ.",
+      "stipe": "لا توجد ساق حقيقية. يتصل الجسم الثمري مباشرة بلحاء البتولا، عادةً بقاعدة قصيرة مستدقة تشبه الساق، وكثيرًا ما يكون عليها من الأعلى نتوء صغير.",
+      "flesh": "اللحم سميك وأبيض، في الصغر طري وعصيري ومطاطي، ثم يصبح جافًا وقاسيًا وفلّينيًا. الرائحة ضعيفة، فطرية أو حامضة قليلًا؛ والطعم حامض قليلًا في الأجسام الفتية ويزداد مرارة مع التقدم في العمر.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ أسطوانية إلى مقوسة قليلًا على شكل نقانق، ملساء وعديمة اللون، نحو ٤–٧ × ١٫٣–٢ µm.",
+      "habitat": "ينمو على البتولا فقط، على الأشجار الضعيفة أو المحتضرة وعلى الجذوع الميتة القائمة والجذوع الساقطة التي ما زال لحاؤها سليمًا. وبصفته طفيليًا يدخل عادة عبر الأغصان المكسورة والجروح، وقد يبقى كامنًا في الخشب سنوات؛ وحين تضعف الشجرة يسبب تعفنًا بنيًا مكعبيًا شديدًا ويستمر في العيش على الخشب الميت. تتكوّن الأجسام الثمرية الطازجة من الصيف إلى الخريف (في أوروبا الوسطى غالبًا من يوليو إلى نوفمبر) وتطلق أبواغها في أواخر الصيف والخريف، لكن الأجسام القديمة تبقى على الجذوع طوال الشتاء.",
+      "uses": "غير صالح للأكل: لحمه قاسٍ ومرّ. يُذكر أن الأجسام الفتية جدًا التي ما زالت عصيرية صالحة للأكل بعد الطهي، لكنها رديئة الجودة ولا تستحق الجمع. استُخدم هذا الفطر منذ زمن بعيد جدًا. فقد حمل أوتزي، المومياء الجليدية التي يبلغ عمرها نحو ٥٣٠٠ سنة والتي عُثر عليها في جبال الألب الأوتزتالية، قطعتين منه منظومتين في سير، ربما علاجًا للديدان المعوية. واستُخدمت شرائح مقطوعة منه سيرًا لشحذ أمواس الحلاقة، وضمادات للجروح، وصوفانًا لإشعال النار، وقاعدة لتثبيت الحشرات بالدبابيس في المجموعات.",
+      "confusion": "قد تشبه الأجسام الفتية النوع Fomes fomentarius الذي ينمو أيضًا على البتولا، لكن أجسامه الثمرية صلبة على شكل حافر ذات أحزمة متحدة المركز، ولحمه بني، ويسبب تعفنًا أبيض. أما الأجسام القديمة المفلطحة فتشبه في شكلها قليلًا النوع Cerioporus squamosus، الذي له قبعة حرشفية وساق قصيرة. والرف الأملس الفاتح الخالي من الأحزمة على البتولا مميز.",
+      "notes": "وصف بوليار هذا النوع عام ١٧٨٨ باسم Boletus betulinus، وعُرف طويلًا باسم Piptoporus betulinus. ثم نقلته الدراسات الجزيئية عام ٢٠١٦ إلى الجنس Fomitopsis. تصبح أشجار البتولا المصابة هشة وكثيرًا ما تنكسر عند مستوى التعفن؛ لذا يُعد الفطر في العناية بالأشجار علامة على أن الشجرة لم تعد آمنة. وتؤوي الأجسام القديمة كثيرًا من الحشرات والعث.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голяма светла гъба с конзолни плодни тела, която расте само върху бреза. Навсякъде, където растат брези, тя е една от най-обикновените гъби по дърветата — в цялата умерена и бореална зона на Северното полукълбо, в Европа, Азия и Северна Америка. Плодните тела са едногодишни, но старите плодни тела остават по дърветата дълго след разпръсването на спорите, затова гъбата може да се види през цялата година.",
+      "cap": "Плодното тяло е широко 8–20 cm, понякога до 25 cm и повече, и дебело 2–6 cm. Отначало то пробива кората като малка, закръглена, белезникава гърбица, после израства в бъбрековидна или копитовидна конзола, възглавничеста отгоре и плоска отдолу, прикрепена към ствола със стеснена, подобна на пънче основа. Повърхността е гладка, белезникава до сивокафява или охрено-кафява, покрита с тънка кожица, която може да се отдели и при по-старите плодни тела се напуква на дребни люспички. Ръбът е дебел, закръглен и подвит, белезникав, и надвисва над порестата повърхност.",
+      "hymenium": "Долната страна има един-единствен слой къси тръбички с дължина 1,5–8 mm, който при старите плодни тела лесно се отделя от месото. Порите са много малки и кръгли, около 3–4 на mm, отначало бели, по-късно сивкави до светлокафяви.",
+      "stipe": "Истинско пънче няма. Плодното тяло е прикрепено направо към кората на брезата, обикновено с къса, стеснена, подобна на пънче основа, която отгоре често има малка издатина.",
+      "flesh": "Месото е дебело и бяло, при младите плодни тела меко, сочно и гумено, по-късно сухо, жилаво и коркоподобно. Мирисът е слаб, на гъби или леко кисел; вкусът при младите е кисел и с възрастта става все по-горчив.",
+      "sporePrint": "Спорите на маса са бели. Спорите са цилиндрични до леко наденицовидни, гладки и безцветни, около 4–7 × 1,3–2 µm.",
+      "habitat": "Расте само върху бреза — върху отслабени или загиващи дървета, както и върху мъртви изправени стволове и паднали стволове, по които все още има кора. Като паразит обикновено прониква през счупени клони и рани и може години наред да остане в покой в дървесината; когато дървото отслабне, причинява силно кафяво кубично гниене и продължава да живее върху мъртвата дървесина. Свежите плодни тела се образуват от лятото до есента (в Централна Европа главно от юли до ноември) и разпръсват спори в края на лятото и през есента, но старите плодни тела остават по стволовете през цялата зима.",
+      "uses": "Негодна за ядене: месото е жилаво и горчиво. Съобщава се, че много младите, още сочни плодни тела са ядливи след варене, но са с ниско качество и не си струва да се събират. Гъбата се използва от много дълго време. Йоци — ледниковата мумия на около 5300 години, открита в Йоцталските Алпи, — носел със себе си две парчета от нея, нанизани на ремък, вероятно като средство срещу чревни паразити. Ивици от плодното тяло са служили като каиш за точене на бръсначи, като превръзка за рани, като прахан и като подложка за забождане на насекоми в колекции.",
+      "confusion": "Младите плодни тела може да напомнят Fomes fomentarius, който също расте върху бреза, но той има твърди, копитовидни, концентрично зонирани плодни тела, кафеникаво месо и причинява бяло гниене. Старите, сплескани плодни тела по форма донякъде напомнят Cerioporus squamosus, който има люсповидна шапка и късо пънче. Гладкото, светло, незонирано плодно тяло върху бреза е характерно.",
+      "notes": "Видът е описан от Бюлиар през 1788 г. като Boletus betulinus и дълго време е бил известен като Piptoporus betulinus. Молекулярни изследвания през 2016 г. го преместват в рода Fomitopsis. Заразените брези стават крехки и често се пречупват на нивото на гниенето; затова при грижата за дърветата гъбата е знак, че дървото вече не е безопасно. В старите плодни тела живеят много насекоми и акари.",
+      "names": [
+        "брезова праханова гъба"
+      ],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Брезова_пореста_гъба"
+      ],
+      "label": "брезова пореста гъба"
+    },
+    "cs": {
+      "description": "Velký, světlý choroš s plodnicemi ve tvaru konzol, který roste výhradně na břízách. Všude, kde rostou břízy, patří k nejběžnějším chorošům, v celé mírné a boreální části severní polokoule v Evropě, Asii a Severní Americe. Plodnice jsou jednoleté, ale staré plodnice zůstávají na stromech ještě dlouho po uvolnění výtrusů, takže houbu lze vidět po celý rok.",
+      "cap": "Plodnice je 8–20 cm široká, výjimečně až 25 cm i více, a 2–6 cm tlustá. Nejprve vyrůstá z kůry jako malá, kulatá, bělavá hlíza, pak se rozroste v ledvinovitou nebo kopytovitou plodnici, nahoře polštářovitou a vespod plochou, přirostlou ke kmeni zúženou, třeňovitou bází. Povrch je hladký, bělavý až šedohnědý nebo okrově hnědý, kryje ho tenká pokožka, která se dá stáhnout a u starších plodnic rozpraská v drobné šupinky. Okraj je tlustý, zaoblený a podvinutý, bělavý a přečnívá přes rourkovou vrstvu.",
+      "hymenium": "Spodní strana nese jedinou vrstvu krátkých rourek, dlouhých 1,5–8 mm, která se u starých plodnic snadno odděluje od dužiny. Póry jsou velmi drobné a okrouhlé, asi 3–4 na mm, nejprve bílé, později našedlé až kožovitě nahnědlé.",
+      "stipe": "Pravý třeň chybí. Plodnice přirůstá přímo ke kůře břízy, obvykle krátkou, zúženou, třeňovitou bází, která mívá nahoře malý hrbolek.",
+      "flesh": "Dužina je tlustá a bílá, v mládí měkká, šťavnatá a gumovitá, později suchá, tuhá a korkovitá. Voní slabě houbově nebo lehce nakysle; chuť je v mládí nakyslá a s věkem stále hořčí.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou válcovité až mírně párkovité, hladké a bezbarvé, asi 4–7 × 1,3–2 µm.",
+      "habitat": "Roste pouze na břízách, na oslabených nebo odumírajících stromech a na odumřelých stojících kmenech i padlých kmenech, které mají ještě kůru. Jako parazit proniká obvykle zlomenými větvemi a ranami a může v dřevě léta přežívat v klidovém stavu; jakmile strom zeslábne, způsobuje intenzivní hnědou kostkovitou hnilobu a dál žije na odumřelém dřevě. Čerstvé plodnice vznikají od léta do podzimu (ve střední Evropě hlavně od července do listopadu) a výtrusy uvolňují koncem léta a na podzim, staré plodnice však zůstávají na kmenech přes zimu.",
+      "uses": "Nejedlá: dužina je tuhá a hořká. Velmi mladé, ještě šťavnaté plodnice jsou prý po tepelné úpravě jedlé, ale mají nízkou kvalitu a nestojí za sběr. Houba se používá odedávna. Ötzi, asi 5300 let stará ledovcová mumie nalezená v Ötztalských Alpách, měl u sebe dva kousky navlečené na řemínku, možná jako lék proti střevním červům. Proužky plodnice sloužily jako obtahovací řemen na břitvy, jako obvaz na rány, jako troud a jako podložka pro napichování hmyzu ve sbírkách.",
+      "confusion": "Mladé plodnice se mohou podobat druhu Fomes fomentarius, který roste také na břízách, má však tvrdé, kopytovité, soustředně pásované plodnice, nahnědlou dužinu a způsobuje bílou hnilobu. Staré, zploštělé plodnice tvarem trochu připomínají druh Cerioporus squamosus, který má šupinatý klobouk a krátký třeň. Hladká, světlá, nepásovaná plodnice na bříze je charakteristická.",
+      "notes": "Druh popsal Bulliard v roce 1788 jako Boletus betulinus a dlouho byl znám jako Piptoporus betulinus. Molekulární studie jej v roce 2016 přeřadily do rodu Fomitopsis. Napadené břízy křehnou a často se lámou ve výšce hniloby; v péči o stromy je proto houba znamením, že strom už není bezpečný. Staré plodnice hostí mnoho druhů hmyzu a roztočů.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Fomitopsis-betulina/brezovnik-obycajny/brezovnik-obecny/ID14",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "březovník obecný"
+    },
+    "da": {
+      "description": "En stor, lys konsolsvamp, der kun vokser på birk. Den er en af de almindeligste poresvampe overalt, hvor der vokser birk, i hele den tempererede og boreale nordlige halvkugle i Europa, Asien og Nordamerika. Frugtlegemerne er enårige, men gamle konsoller bliver siddende på træerne længe efter, at de har afgivet deres sporer, så svampen kan ses hele året.",
+      "cap": "Konsollen er 8–20 cm bred, af og til op til 25 cm eller mere, og 2–6 cm tyk. Den begynder som en lille, rund, hvidlig knold, der bryder frem gennem barken, og vokser derefter til en nyre- eller hovformet konsol, pudeformet foroven og flad forneden, fæstnet til stammen med en indsnævret, stokagtig basis. Overfladen er glat, hvidlig til gråbrun eller okkerbrun og dækket af en tynd hud, der kan trækkes af, og som på ældre konsoller revner i små flager. Randen er tyk, afrundet og indbøjet, hvidlig og rager ud over poresiden.",
+      "hymenium": "Undersiden har et enkelt lag korte rør, 1,5–8 mm lange, som på gamle konsoller let skiller sig fra kødet. Porerne er meget små og runde, ca. 3–4 pr. mm, først hvide, senere grålige til læderfarvede.",
+      "stipe": "Der er ingen egentlig stok. Konsollen sidder direkte på birkebarken, som regel med en kort, indsnævret, stokagtig basis, der ofte har en lille pukkel foroven.",
+      "flesh": "Kødet er tykt og hvidt, som ung blødt, saftigt og gummiagtigt, senere tørt, sejt og korkagtigt. Lugten er svag, svampeagtig eller let syrlig; smagen er syrlig på unge eksemplarer og bliver stadig mere bitter med alderen.",
+      "sporePrint": "Sporepulveret er hvidt. Sporerne er cylindriske til svagt pølseformede, glatte og farveløse, ca. 4–7 × 1,3–2 µm.",
+      "habitat": "Den vokser kun på birk, på svækkede eller døende træer og på døde stående stammer og væltede stammer, hvor barken stadig er intakt. Som parasit trænger den som regel ind gennem afbrækkede grene og sår og kan ligge i dvale i veddet i årevis; når træet er svækket, forårsager den en kraftig brun terningråd og lever videre på det døde ved. Friske konsoller dannes fra sommer til efterår (i Mellemeuropa især fra juli til november) og afgiver sporer sidst på sommeren og om efteråret, men de gamle konsoller bliver siddende på stammerne vinteren igennem.",
+      "uses": "Ikke spiselig: kødet er sejt og bittert. Meget unge, endnu saftige frugtlegemer skulle være spiselige efter kogning, men de er af ringe kvalitet og ikke værd at samle. Svampen har været brugt i meget lang tid. Ötzi, den omkring 5300 år gamle gletsjermumie fra Ötztal-Alperne, bar to stykker af den trukket på en rem, muligvis som middel mod indvoldsorm. Strimler af konsollen blev brugt som strygerem til at skærpe barberknive, som sårforbinding, som tøndersvamp og som underlag til at nåle insekter i samlinger.",
+      "confusion": "Unge konsoller kan minde om Fomes fomentarius, der også vokser på birk, men den har hårde, hovformede, koncentrisk zonerede frugtlegemer, brunligt kød og forårsager hvidråd. Gamle, flade konsoller minder i formen lidt om Cerioporus squamosus, der har en skællet hat og en kort stok. Den glatte, lyse, uzonerede konsol på birk er karakteristisk.",
+      "notes": "Arten blev beskrevet af Bulliard i 1788 som Boletus betulinus og var længe kendt som Piptoporus betulinus. Molekylære undersøgelser flyttede den i 2016 til slægten Fomitopsis. Angrebne birke bliver skøre og knækker ofte i højde med rådet; i træpleje er svampen derfor et tegn på, at et træ ikke længere er sikkert. Gamle konsoller huser mange insekter og mider.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "birkeporesvamp"
+    },
+    "de": {
+      "description": "Ein großer, heller Konsolenpilz, der ausschließlich an Birken wächst. Er gehört überall, wo Birken wachsen, zu den häufigsten Konsolenpilzen – in der gesamten gemäßigten und borealen Nordhalbkugel in Europa, Asien und Nordamerika. Die Fruchtkörper sind einjährig, alte Konsolen bleiben aber noch lange nach dem Sporenabwurf an den Bäumen, sodass der Pilz das ganze Jahr über zu sehen ist.",
+      "cap": "Die Konsole ist 8–20 cm breit, gelegentlich bis 25 cm oder mehr, und 2–6 cm dick. Sie beginnt als kleiner, rundlicher, weißlicher Knollen, der aus der Rinde bricht, und wächst dann zu einer nieren- oder hufförmigen Konsole heran, oben polsterförmig und unten flach, mit einer verschmälerten, stielartigen Basis am Stamm angewachsen. Die Oberfläche ist glatt, weißlich bis graubraun oder ockerbraun und von einer dünnen Haut bedeckt, die sich abziehen lässt und bei älteren Konsolen in kleine Schüppchen aufreißt. Der Rand ist dick, abgerundet und eingebogen, weißlich und überragt die Porenschicht.",
+      "hymenium": "Die Unterseite trägt eine einzige Schicht kurzer Röhren von 1,5–8 mm Länge, die sich bei alten Konsolen leicht vom Fleisch lösen lässt. Die Poren sind sehr klein und rund, etwa 3–4 pro mm, zuerst weiß, später gräulich bis lederfarben.",
+      "stipe": "Ein echter Stiel fehlt. Die Konsole sitzt direkt auf der Birkenrinde, meist mit einer kurzen, verschmälerten, stielartigen Basis, die oben oft einen kleinen Buckel trägt.",
+      "flesh": "Das Fleisch ist dick und weiß, jung weich, saftig und gummiartig, später trocken, zäh und korkartig. Es riecht schwach pilzartig oder leicht säuerlich; der Geschmack ist jung säuerlich und wird mit dem Alter zunehmend bitter.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind zylindrisch bis leicht wurstförmig, glatt und farblos, etwa 4–7 × 1,3–2 µm.",
+      "habitat": "Er wächst nur an Birken, an geschwächten oder absterbenden Bäumen sowie an toten stehenden Stämmen und liegenden Stämmen, deren Rinde noch erhalten ist. Als Parasit dringt er meist über abgebrochene Äste und Wunden ein und kann jahrelang ruhend im Holz verharren; ist der Baum geschwächt, verursacht er eine starke braune Würfelfäule und lebt am toten Holz weiter. Frische Konsolen bilden sich von Sommer bis Herbst (in Mitteleuropa vor allem von Juli bis November) und geben im Spätsommer und Herbst Sporen ab, die alten Konsolen bleiben jedoch den Winter über an den Stämmen.",
+      "uses": "Nicht essbar: Das Fleisch ist zäh und bitter. Sehr junge, noch saftige Fruchtkörper sollen gekocht essbar sein, sind aber minderwertig und das Sammeln nicht wert. Der Pilz wird seit langer Zeit genutzt. Ötzi, die rund 5300 Jahre alte Gletschermumie aus den Ötztaler Alpen, trug zwei auf ein Band gefädelte Stücke davon bei sich, möglicherweise als Mittel gegen Darmwürmer. Streifen der Konsole dienten als Streichriemen zum Abziehen von Rasiermessern, als Wundauflage, als Zunder und als Unterlage zum Aufstecken von Insekten in Sammlungen.",
+      "confusion": "Junge Konsolen können dem Fomes fomentarius ähneln, der ebenfalls an Birken wächst; dieser hat jedoch harte, hufförmige, konzentrisch gezonte Fruchtkörper, bräunliches Fleisch und verursacht eine Weißfäule. Alte, abgeflachte Konsolen erinnern in der Form etwas an Cerioporus squamosus, der einen schuppigen Hut und einen kurzen Stiel hat. Die glatte, helle, ungezonte Konsole an Birke ist unverwechselbar.",
+      "notes": "Die Art wurde 1788 von Bulliard als Boletus betulinus beschrieben und war lange als Piptoporus betulinus bekannt. Molekulare Untersuchungen stellten sie 2016 in die Gattung Fomitopsis. Befallene Birken werden brüchig und brechen oft auf Höhe der Fäule ab; in der Baumpflege gilt der Pilz daher als Zeichen, dass ein Baum nicht mehr verkehrssicher ist. Alte Konsolen beherbergen zahlreiche Insekten und Milben.",
+      "names": [
+        "Birken-Porling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9173916/vernacularNames",
+        "https://de.wikipedia.org/wiki/Birkenporling",
+        "https://www.fungi.lv/piptoporus_betulinus.htm"
+      ],
+      "label": "Birkenporling"
+    },
+    "en": {
+      "description": "A large, pale bracket fungus that grows only on birch. It is one of the commonest bracket fungi wherever birches grow, throughout the temperate and boreal Northern Hemisphere in Europe, Asia and North America. The fruit bodies are annual, but old brackets stay on the trees long after shedding their spores, so the fungus can be seen all year round.",
+      "cap": "The bracket is 8–20 cm across, occasionally up to 25 cm or more, and 2–6 cm thick. It starts as a small, rounded, whitish knob bursting from the bark, then grows into a kidney- or hoof-shaped bracket, cushioned above and flat below, attached to the trunk by a narrowed, stem-like base. The surface is smooth, whitish to grey-brown or ochre-brown, and covered by a thin skin that can be peeled off and on older brackets cracks into small flakes. The margin is thick, rounded and incurved, whitish, overhanging the pore surface.",
+      "hymenium": "The underside has a single layer of short tubes, 1.5–8 mm long, which in old brackets separates easily from the flesh. The pores are very small and round, about 3–4 per mm, white at first, later greyish to buff.",
+      "stipe": "There is no true stem. The bracket is attached directly to the birch bark, usually by a short, narrowed, stem-like base that often has a small bump on top.",
+      "flesh": "The flesh is thick and white, soft, juicy and rubbery when young, later dry, tough and corky. It smells faintly mushroomy or slightly sour; the taste is sourish when young and becomes increasingly bitter with age.",
+      "sporePrint": "The spore print is white. The spores are cylindrical to slightly sausage-shaped, smooth and colourless, about 4–7 × 1.3–2 µm.",
+      "habitat": "It grows only on birch, on weakened or dying trees and on dead standing trunks and fallen logs whose bark is still intact. As a parasite it usually enters through broken branches and wounds and may stay dormant in the wood for years; once the tree is weakened it causes an intense brown cubical rot, and it continues to live on the dead wood. Fresh brackets develop from summer to autumn (in Central Europe mainly July to November) and release spores in late summer and autumn, but the old brackets remain on the trunks through the winter.",
+      "uses": "Not edible: the flesh is tough and bitter. Very young, still juicy fruit bodies are reportedly edible after cooking, but they are of poor quality and not worth collecting. The fungus has a long history of use. Ötzi, the roughly 5300-year-old glacier mummy found in the Ötztal Alps, carried two pieces of it threaded on a thong, possibly as a remedy against intestinal worms. Strips of the bracket were used as a strop for honing razors, as wound dressings, as tinder and as a mounting material for insect collections.",
+      "confusion": "Young brackets can resemble Fomes fomentarius, which also grows on birch, but that species has hard, hoof-shaped, concentrically zoned fruit bodies, brownish flesh and causes a white rot. Old, flattened brackets are shaped somewhat like Cerioporus squamosus (dryad's saddle), which has a scaly cap and a short stem. The smooth, pale, unzoned bracket on birch is distinctive.",
+      "notes": "The species was described by Bulliard in 1788 as Boletus betulinus and was long known as Piptoporus betulinus. Molecular studies moved it to the genus Fomitopsis in 2016. Infected birches become brittle and often snap at the level of the decay, so in tree care it is a sign that a tree is no longer safe. Old brackets are home to many insects and mites.",
+      "names": [
+        "razor strop fungus",
+        "birch bracket"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=812646",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=812646",
+        "https://www.gbif.org/species/9819973",
+        "https://www.catalogueoflife.org/data/taxon/6JCB8",
+        "https://www.wikidata.org/wiki/Q96894257",
+        "https://www.inaturalist.org/taxa/775410-Fomitopsis-betulina",
+        "https://en.wikipedia.org/wiki/Fomitopsis_betulina",
+        "https://www.first-nature.com/fungi/piptoporus-betulinus.php",
+        "https://de.wikipedia.org/wiki/Birkenporling",
+        "https://www.nahuby.sk/atlas-hub/Fomitopsis-betulina/brezovnik-obycajny/brezovnik-obecny/ID14",
+        "https://www.fungi.lv/piptoporus_betulinus.htm",
+        "https://wiki.mycoradar.ch/it/especes/polypore-du-bouleau",
+        "https://api.gbif.org/v1/species/9173916/vernacularNames"
+      ],
+      "label": "birch polypore"
+    },
+    "es": {
+      "description": "Un hongo grande y pálido en forma de repisa que crece únicamente sobre abedules. Allí donde crecen abedules es uno de los poliporos más comunes, en toda la zona templada y boreal del hemisferio norte, en Europa, Asia y Norteamérica. Los cuerpos fructíferos son anuales, pero los ejemplares viejos permanecen en los árboles mucho tiempo después de liberar las esporas, de modo que el hongo puede verse durante todo el año.",
+      "cap": "El cuerpo fructífero mide 8–20 cm de ancho, a veces hasta 25 cm o más, y 2–6 cm de grosor. Empieza como un pequeño bulto redondeado y blanquecino que brota de la corteza y luego crece hasta formar una repisa en forma de riñón o de casco, abombada por arriba y plana por debajo, unida al tronco por una base estrechada parecida a un pie. La superficie es lisa, blanquecina a pardo grisácea u ocre parda, cubierta por una cutícula fina que se puede desprender y que en los ejemplares viejos se agrieta en pequeñas escamas. El margen es grueso, redondeado e incurvado, blanquecino, y sobresale por encima de la superficie de poros.",
+      "hymenium": "La cara inferior tiene una sola capa de tubos cortos, de 1,5–8 mm de largo, que en los ejemplares viejos se separa fácilmente de la carne. Los poros son muy pequeños y redondos, unos 3–4 por mm, primero blancos y después grisáceos a color ante.",
+      "stipe": "No tiene un pie verdadero. El cuerpo fructífero se une directamente a la corteza del abedul, normalmente mediante una base corta, estrechada y parecida a un pie, que a menudo presenta una pequeña joroba en la parte superior.",
+      "flesh": "La carne es gruesa y blanca, blanda, jugosa y gomosa en los ejemplares jóvenes, más tarde seca, dura y acorchada. El olor es débil, fúngico o ligeramente ácido; el sabor es acídulo en los ejemplares jóvenes y se vuelve cada vez más amargo con la edad.",
+      "sporePrint": "La esporada es blanca. Las esporas son cilíndricas a ligeramente alantoides (en forma de salchicha), lisas e incoloras, de unos 4–7 × 1,3–2 µm.",
+      "habitat": "Crece solo sobre abedules, en árboles debilitados o moribundos y en troncos muertos en pie y troncos caídos que aún conservan la corteza. Como parásito suele penetrar por ramas rotas y heridas y puede permanecer latente en la madera durante años; cuando el árbol se debilita, provoca una intensa podredumbre parda cúbica y sigue viviendo sobre la madera muerta. Los cuerpos fructíferos frescos se forman de verano a otoño (en Europa central sobre todo de julio a noviembre) y liberan las esporas a finales del verano y en otoño, pero los ejemplares viejos permanecen en los troncos durante todo el invierno.",
+      "uses": "No comestible: la carne es dura y amarga. Los ejemplares muy jóvenes, aún jugosos, serían comestibles tras cocinarlos, pero son de mala calidad y no merece la pena recolectarlos. El hongo se ha utilizado desde hace mucho tiempo. Ötzi, la momia glaciar de unos 5300 años hallada en los Alpes de Ötztal, llevaba consigo dos trozos ensartados en una correa, posiblemente como remedio contra los gusanos intestinales. Con tiras del hongo se hacían suavizadores para afilar navajas de afeitar, apósitos para heridas, yesca y soportes para clavar insectos en colecciones.",
+      "confusion": "Los ejemplares jóvenes pueden parecerse a Fomes fomentarius, que también crece sobre abedules, pero este tiene cuerpos fructíferos duros, en forma de casco, con zonas concéntricas, carne parduzca y causa una podredumbre blanca. Los ejemplares viejos y aplanados recuerdan algo por su forma a Cerioporus squamosus, que tiene un sombrero escamoso y un pie corto. La repisa lisa, pálida y sin zonas sobre abedul es característica.",
+      "notes": "La especie fue descrita por Bulliard en 1788 como Boletus betulinus y durante mucho tiempo se conoció como Piptoporus betulinus. Los estudios moleculares la trasladaron en 2016 al género Fomitopsis. Los abedules afectados se vuelven quebradizos y a menudo se parten a la altura de la podredumbre; en el cuidado del arbolado, el hongo es por ello señal de que un árbol ya no es seguro. Los ejemplares viejos albergan muchos insectos y ácaros.",
+      "names": [
+        "yesquero de abedul"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9173916/vernacularNames",
+        "https://es.wikipedia.org/wiki/Fomitopsis_betulina"
+      ],
+      "label": "yesquero del abedul"
+    },
+    "et": {
+      "description": "Suur hele torikujuline seen, mis kasvab ainult kasel. See on üks levinumaid torikseeni kõikjal, kus kasvavad kased, kogu põhjapoolkera parasvöötmes ja boreaalses vööndis Euroopas, Aasias ja Põhja-Ameerikas. Viljakehad on üheaastased, kuid vanad viljakehad jäävad puudele kauaks pärast eoste levitamist, nii et seent võib näha aasta ringi.",
+      "cap": "Viljakeha on 8–20 cm lai, mõnikord kuni 25 cm või rohkemgi, ja 2–6 cm paks. See algab väikese ümara valkja muhuna, mis tungib koore alt välja, ning kasvab siis neeru- või kabjakujuliseks viljakehaks, mis on pealt padjakujuline ja alt lame ning kinnitub tüvele ahenenud, jalataolise alusega. Pind on sile, valkjas kuni hallikaspruun või ookerpruun ning kaetud õhukese nahaga, mida saab maha tõmmata ja mis vanematel viljakehadel praguneb väikesteks helvesteks. Serv on paks, ümar ja sissepoole keerdunud, valkjas ning ulatub üle pooripinna.",
+      "hymenium": "Alaküljel on üksainus kiht lühikesi, 1,5–8 mm pikkusi torukesi, mis vanadel viljakehadel eralduvad kergesti viljalihast. Poorid on väga väikesed ja ümarad, umbes 3–4 mm kohta, alguses valged, hiljem hallikad kuni nahkjaskollased.",
+      "stipe": "Pärisjalga ei ole. Viljakeha kinnitub otse kasetohule, tavaliselt lühikese, ahenenud, jalataolise alusega, mille peal on sageli väike küür.",
+      "flesh": "Viljaliha on paks ja valge, noorena pehme, mahlane ja kummitaoline, hiljem kuiv, sitke ja korgitaoline. Lõhn on nõrk, seenelõhnaline või kergelt hapukas; maitse on noorena hapukas ja muutub vanusega üha kibedamaks.",
+      "sporePrint": "Eoste kogum on valge. Eosed on silindrilised kuni kergelt vorstikujulised, siledad ja värvitud, umbes 4–7 × 1,3–2 µm.",
+      "habitat": "See kasvab ainult kasel, nõrgestatud või surevatel puudel ning surnud püsttüvedel ja lamapuidul, mille koor on veel alles. Parasiidina tungib see tavaliselt puusse murdunud okste ja haavade kaudu ning võib aastaid puidus uinunult püsida; kui puu nõrgeneb, põhjustab see tugevat pruunmädanikku, mille puhul puit praguneb kuubikuteks, ja elab edasi surnud puidul. Värsked viljakehad tekivad suvest sügiseni (Kesk-Euroopas peamiselt juulist novembrini) ja levitavad eoseid suve lõpus ja sügisel, kuid vanad viljakehad jäävad tüvedele kogu talveks.",
+      "uses": "Ei ole söödav: viljaliha on sitke ja kibe. Väga noored, veel mahlased viljakehad olevat keedetult söödavad, kuid need on halva kvaliteediga ega ole korjamist väärt. Seent on kasutatud väga kaua. Ötzi, Ötztali Alpidest leitud umbes 5300 aasta vanune liustikumuumia, kandis kaasas kaht rihmale lükitud tükki sellest seenest, võimalik et vahendina soolenugiliste vastu. Viljakehast lõigatud ribasid kasutati habemenugade teritusrihmana, haavasidemena, taelana ja aluspinnana putukate nõeltamiseks kogudes.",
+      "confusion": "Noored viljakehad võivad meenutada liiki Fomes fomentarius, mis kasvab samuti kasel, kuid sellel on kõvad, kabjakujulised, kontsentriliselt vöötjad viljakehad, pruunikas viljaliha ja see põhjustab valgemädanikku. Vanad, lamenenud viljakehad meenutavad kujult mõnevõrra liiki Cerioporus squamosus, millel on soomuseline kübar ja lühike jalg. Sile, hele, vöötideta viljakeha kasel on iseloomulik.",
+      "notes": "Liigi kirjeldas Bulliard 1788. aastal nime all Boletus betulinus ning see oli kaua tuntud kui Piptoporus betulinus. Molekulaaruuringud viisid selle 2016. aastal perekonda Fomitopsis. Nakatunud kased muutuvad hapraks ja murduvad sageli mädaniku kõrguselt; puudehoolduses on seen seetõttu märk, et puu ei ole enam ohutu. Vanades viljakehades elab palju putukaid ja lestasid.",
+      "names": [
+        "kasekäsnak"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Kasekäsn",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "kasekäsn"
+    },
+    "fa": {
+      "description": "قارچی بزرگ و کم‌رنگ به شکل تاقچه که فقط روی درختان توس می‌روید. هر جا که توس می‌روید، از رایج‌ترین قارچ‌های تاقچه‌ای است و در سراسر نوار معتدل و شمالیِ سرد نیمکرهٔ شمالی در اروپا، آسیا و آمریکای شمالی یافت می‌شود. اندام‌های بارده یک‌ساله‌اند، اما اندام‌های کهنه مدت‌ها پس از رهاکردن هاگ‌ها روی درختان باقی می‌مانند، بنابراین قارچ را می‌توان در تمام سال دید.",
+      "cap": "اندام بارده ۸–۲۰ سانتی‌متر پهنا دارد، گاهی تا ۲۵ سانتی‌متر یا بیشتر، و ضخامت آن ۲–۶ سانتی‌متر است. ابتدا به‌صورت برآمدگی کوچک، گرد و سفیدفامی از پوست درخت بیرون می‌زند و سپس به تاقچه‌ای کلیه‌ای یا سم‌مانند تبدیل می‌شود که رویش بالشتکی و زیرش صاف است و با پایه‌ای باریک‌شده و ساقه‌مانند به تنه چسبیده است. سطح صاف، سفیدفام تا قهوه‌ای خاکستری یا قهوه‌ای اُخرایی است و پوستهٔ نازکی آن را می‌پوشاند که جدا می‌شود و در نمونه‌های مسن‌تر به پولک‌های ریز ترک می‌خورد. لبه ضخیم، گرد و به درون خمیده و سفیدفام است و از سطح منفذدار بیرون می‌زند.",
+      "hymenium": "سطح زیرین تنها یک لایه لولهٔ کوتاه به طول ۱٫۵–۸ میلی‌متر دارد که در نمونه‌های کهنه به‌آسانی از گوشت جدا می‌شود. منافذ بسیار ریز و گردند، حدود ۳–۴ عدد در هر میلی‌متر، ابتدا سفید و بعد خاکستری‌فام تا نخودی.",
+      "stipe": "ساقهٔ واقعی ندارد. اندام بارده مستقیماً به پوست توس چسبیده است، معمولاً با پایه‌ای کوتاه، باریک‌شده و ساقه‌مانند که اغلب روی آن برآمدگی کوچکی دیده می‌شود.",
+      "flesh": "گوشت ضخیم و سفید است؛ در جوانی نرم، آبدار و لاستیکی و بعدها خشک، سفت و چوب‌پنبه‌ای. بوی آن ضعیف، قارچی یا کمی ترش است؛ مزه در جوانی ترش‌مزه است و با افزایش سن به‌تدریج تلخ‌تر می‌شود.",
+      "sporePrint": "اثر هاگ سفید است. هاگ‌ها استوانه‌ای تا کمی سوسیسی‌شکل، صاف و بی‌رنگ‌اند، حدود ۴–۷ × ۱٫۳–۲ µm.",
+      "habitat": "فقط روی توس می‌روید، روی درختان ضعیف یا رو به مرگ و نیز تنه‌های مردهٔ ایستاده و تنه‌های افتاده‌ای که هنوز پوستشان سالم است. به‌عنوان انگل معمولاً از راه شاخه‌های شکسته و زخم‌ها وارد می‌شود و ممکن است سال‌ها در چوب به حالت نهفته بماند؛ وقتی درخت ضعیف شد، پوسیدگی قهوه‌ای مکعبی شدیدی پدید می‌آورد و روی چوب مرده به زندگی ادامه می‌دهد. اندام‌های بارده تازه از تابستان تا پاییز تشکیل می‌شوند (در اروپای مرکزی بیشتر از ژوئیه تا نوامبر) و در اواخر تابستان و پاییز هاگ رها می‌کنند، اما اندام‌های کهنه تمام زمستان روی تنه‌ها می‌مانند.",
+      "uses": "خوراکی نیست: گوشت آن سفت و تلخ است. گفته می‌شود نمونه‌های بسیار جوان و هنوز آبدار پس از پختن خوراکی‌اند، اما کیفیت پایینی دارند و ارزش چیدن ندارند. این قارچ از زمان‌های بسیار دور به کار رفته است. اوتزی، مومیایی یخچالی حدوداً ۵۳۰۰ ساله‌ای که در آلپ اوتستال پیدا شد، دو تکه از آن را که به بندی کشیده شده بود همراه داشت، شاید به‌عنوان دارویی برضد کرم‌های روده. از نوارهای بریده‌شده از این قارچ به‌عنوان چرم تیزکردن تیغ سلمانی، پانسمان زخم، آتش‌گیره و زیرلایه‌ای برای سنجاق‌کردن حشرات در مجموعه‌ها استفاده می‌شد.",
+      "confusion": "نمونه‌های جوان ممکن است به Fomes fomentarius شبیه باشند که آن هم روی توس می‌روید، اما این گونه اندام‌های بارده سخت، سم‌مانند و دارای نوارهای هم‌مرکز، گوشت قهوه‌ای‌فام دارد و پوسیدگی سفید ایجاد می‌کند. نمونه‌های کهنه و پهن‌شده از نظر شکل اندکی به Cerioporus squamosus شباهت دارند که کلاهکی فلس‌دار و ساقه‌ای کوتاه دارد. تاقچهٔ صاف، کم‌رنگ و بی‌نوار روی توس شاخص است.",
+      "notes": "این گونه را بولیار در سال ۱۷۸۸ با نام Boletus betulinus توصیف کرد و مدت‌ها با نام Piptoporus betulinus شناخته می‌شد. مطالعات مولکولی در سال ۲۰۱۶ آن را به سردهٔ Fomitopsis منتقل کردند. توس‌های آلوده شکننده می‌شوند و اغلب در ارتفاع پوسیدگی می‌شکنند؛ از این رو در نگهداری درختان، این قارچ نشانهٔ آن است که درخت دیگر ایمن نیست. اندام‌های کهنه پناهگاه بسیاری از حشرات و کنه‌ها هستند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, vaalea kääpä, joka kasvaa ainoastaan koivulla. Se on yksi yleisimmistä käävistä kaikkialla, missä koivuja kasvaa, koko pohjoisen pallonpuoliskon lauhkealla ja boreaalisella vyöhykkeellä Euroopassa, Aasiassa ja Pohjois-Amerikassa. Itiöemät ovat yksivuotisia, mutta vanhat käävät pysyvät puissa pitkään itiöiden levittämisen jälkeen, joten sienen voi nähdä ympäri vuoden.",
+      "cap": "Kääpä on 8–20 cm leveä, joskus jopa 25 cm tai enemmän, ja 2–6 cm paksu. Se alkaa pienenä, pyöreähkönä, vaaleana nystyränä, joka puhkeaa kuoresta, ja kasvaa sitten munuaisen- tai kavionmuotoiseksi kääväksi, joka on yläpuolelta tyynymäinen ja alta tasainen ja kiinnittyy runkoon kapenevalla, jalkamaisella tyvellä. Pinta on sileä, vaalea tai harmaanruskea tai okranruskea, ja sitä peittää ohut pintakalvo, joka on irrotettavissa ja joka vanhemmissa käävissä halkeilee pieniksi hiutaleiksi. Reuna on paksu, pyöristynyt ja sisäänkääntynyt, vaalea, ja se ulottuu pillipinnan yli.",
+      "hymenium": "Alapinnalla on yksi kerros lyhyitä, 1,5–8 mm pitkiä pillejä, jotka vanhoissa käävissä irtoavat helposti maltosta. Huokoset ovat hyvin pieniä ja pyöreitä, noin 3–4 millimetrillä, aluksi valkoisia, myöhemmin harmahtavia tai nahanvärisiä.",
+      "stipe": "Varsinaista jalkaa ei ole. Kääpä kiinnittyy suoraan koivun kuoreen, tavallisesti lyhyellä, kapenevalla, jalkamaisella tyvellä, jonka päällä on usein pieni kyhmy.",
+      "flesh": "Malto on paksu ja valkoinen, nuorena pehmeä, mehukas ja kumimainen, myöhemmin kuiva, sitkeä ja korkkimainen. Haju on heikko, sienimäinen tai hieman hapan; maku on nuorena hapahko ja muuttuu iän myötä yhä karvaammaksi.",
+      "sporePrint": "Itiöpöly on valkoinen. Itiöt ovat lieriömäisiä tai hieman makkaranmuotoisia, sileitä ja värittömiä, noin 4–7 × 1,3–2 µm.",
+      "habitat": "Se kasvaa vain koivulla, heikentyneissä tai kuolevissa puissa sekä kuolleissa pystyrungoissa ja maapuissa, joissa kuori on vielä tallella. Loisena se tunkeutuu tavallisesti puuhun katkenneiden oksien ja haavojen kautta ja voi olla puussa lepotilassa vuosia; kun puu heikkenee, se aiheuttaa voimakkaan ruskolahon, jossa puu halkeilee kuutioiksi, ja jatkaa elämäänsä kuolleessa puussa. Tuoreita kääpiä muodostuu kesästä syksyyn (Keski-Euroopassa lähinnä heinäkuusta marraskuuhun) ja ne levittävät itiöitä loppukesällä ja syksyllä, mutta vanhat käävät pysyvät rungoissa talven yli.",
+      "uses": "Ei syötävä: malto on sitkeää ja karvasta. Hyvin nuorten, vielä mehukkaiden itiöemien kerrotaan olevan syötäviä kypsennettyinä, mutta ne ovat laadultaan huonoja eivätkä keräämisen arvoisia. Sientä on käytetty hyvin pitkään. Ötzi, noin 5300 vuotta vanha Ötztalin Alpeilta löydetty jäätikkömuumio, kantoi mukanaan kahta nauhaan pujotettua palaa sitä, mahdollisesti suolistomatojen vastaisena lääkkeenä. Käävästä leikattuja suikaleita käytettiin partaveitsien hiomahihnana, haavasiteenä, taulana ja alustana hyönteisten neulaamiseen kokoelmissa.",
+      "confusion": "Nuoret käävät voivat muistuttaa lajia Fomes fomentarius, joka kasvaa myös koivulla, mutta sen itiöemät ovat kovia, kavionmuotoisia ja samankeskisesti vyöhykkeisiä, malto on ruskehtava ja se aiheuttaa valkolahoa. Vanhat, litistyneet käävät muistuttavat muodoltaan hieman lajia Cerioporus squamosus, jolla on suomuinen lakki ja lyhyt jalka. Sileä, vaalea, vyöhykkeetön kääpä koivulla on tunnusomainen.",
+      "notes": "Bulliard kuvasi lajin vuonna 1788 nimellä Boletus betulinus, ja se tunnettiin pitkään nimellä Piptoporus betulinus. Molekyylitutkimukset siirsivät sen vuonna 2016 sukuun Fomitopsis. Lahoavat koivut haurastuvat ja katkeavat usein lahon kohdalta; puunhoidossa sieni on siksi merkki siitä, ettei puu ole enää turvallinen. Vanhoissa käävissä elää monia hyönteisiä ja punkkeja.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9819973/vernacularNames",
+        "https://fi.wikipedia.org/wiki/Pökkelökääpä"
+      ],
+      "label": "pökkelökääpä"
+    },
+    "fr": {
+      "description": "Un grand polypore pâle en console qui pousse uniquement sur le bouleau. C'est l'un des polypores les plus communs partout où poussent des bouleaux, dans tout l'hémisphère Nord tempéré et boréal, en Europe, en Asie et en Amérique du Nord. Les carpophores sont annuels, mais les vieilles consoles restent longtemps sur les arbres après avoir libéré leurs spores, si bien que l'on peut voir ce champignon toute l'année.",
+      "cap": "La console mesure 8–20 cm de large, parfois jusqu'à 25 cm ou plus, et 2–6 cm d'épaisseur. Elle apparaît d'abord comme une petite boule arrondie et blanchâtre qui perce l'écorce, puis devient une console en forme de rein ou de sabot, bombée dessus et plane dessous, fixée au tronc par une base rétrécie, semblable à un pied. La surface est lisse, blanchâtre à brun-gris ou brun ocre, couverte d'une fine cuticule qui se détache et qui, sur les consoles âgées, se craquelle en petites écailles. La marge est épaisse, arrondie et enroulée, blanchâtre, et déborde la surface poroïde.",
+      "hymenium": "La face inférieure porte une seule couche de tubes courts, longs de 1,5–8 mm, qui se détache facilement de la chair sur les vieilles consoles. Les pores sont très petits et ronds, environ 3–4 par mm, d'abord blancs, puis grisâtres à chamois.",
+      "stipe": "Il n'y a pas de vrai pied. La console est fixée directement sur l'écorce du bouleau, le plus souvent par une base courte, rétrécie et pédiforme, qui porte souvent une petite bosse sur le dessus.",
+      "flesh": "La chair est épaisse et blanche, tendre, juteuse et caoutchouteuse dans la jeunesse, puis sèche, coriace et subéreuse. L'odeur est faiblement fongique ou légèrement acidulée ; la saveur est aigrelette chez les jeunes exemplaires et devient de plus en plus amère avec l'âge.",
+      "sporePrint": "La sporée est blanche. Les spores sont cylindriques à légèrement allantoïdes (en forme de saucisse), lisses et incolores, d'environ 4–7 × 1,3–2 µm.",
+      "habitat": "Il pousse uniquement sur le bouleau, sur des arbres affaiblis ou dépérissants ainsi que sur des troncs morts encore debout et des troncs tombés dont l'écorce est intacte. En parasite, il pénètre généralement par des branches cassées et des blessures et peut rester latent dans le bois pendant des années ; une fois l'arbre affaibli, il provoque une intense pourriture brune cubique et continue à vivre sur le bois mort. Les consoles fraîches se forment de l'été à l'automne (en Europe centrale surtout de juillet à novembre) et libèrent leurs spores à la fin de l'été et en automne, mais les vieilles consoles restent sur les troncs tout l'hiver.",
+      "uses": "Non comestible : la chair est coriace et amère. Les très jeunes carpophores encore juteux seraient comestibles après cuisson, mais ils sont de piètre qualité et ne valent pas la cueillette. Ce champignon est utilisé depuis très longtemps. Ötzi, la momie des glaces vieille d'environ 5300 ans découverte dans les Alpes de l'Ötztal, en portait deux morceaux enfilés sur une lanière, peut-être comme remède contre les vers intestinaux. Des lanières découpées dans la console servaient de cuir à rasoir pour affûter les lames, de pansement, d'amadou et de support pour épingler les insectes des collections.",
+      "confusion": "Les jeunes consoles peuvent ressembler à Fomes fomentarius, qui pousse aussi sur le bouleau, mais celui-ci a des carpophores durs, en sabot, zonés concentriquement, une chair brunâtre, et provoque une pourriture blanche. Les vieilles consoles aplaties rappellent un peu par leur forme Cerioporus squamosus, qui a un chapeau écailleux et un pied court. La console lisse, pâle et non zonée sur bouleau est caractéristique.",
+      "notes": "L'espèce a été décrite par Bulliard en 1788 sous le nom de Boletus betulinus et a longtemps été connue sous le nom de Piptoporus betulinus. Des études moléculaires l'ont placée en 2016 dans le genre Fomitopsis. Les bouleaux atteints deviennent cassants et se brisent souvent au niveau de la pourriture ; en arboriculture, sa présence indique qu'un arbre n'est plus sûr. Les vieilles consoles abritent de nombreux insectes et acariens.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9173916/vernacularNames",
+        "https://fr.wikipedia.org/wiki/Polypore_du_bouleau"
+      ],
+      "label": "polypore du bouleau"
+    },
+    "he": {
+      "description": "פטרייה גדולה ובהירה בצורת מדף, הגדלה אך ורק על עצי ליבנה. בכל מקום שבו גדלים עצי ליבנה היא מן הפטריות המדפיות הנפוצות ביותר, בכל החגורה הממוזגת והבוריאלית של חצי הכדור הצפוני, באירופה, באסיה ובצפון אמריקה. גופי הפרי חד-שנתיים, אבל גופי פרי ישנים נשארים על העצים זמן רב לאחר שפיזרו את נבגיהם, ולכן אפשר לראות את הפטרייה כל השנה.",
+      "cap": "גוף הפרי ברוחב 8–20 ס\"מ, לעיתים עד 25 ס\"מ ויותר, ובעובי 2–6 ס\"מ. בתחילה הוא פורץ מבעד לקליפה כגבשושית קטנה, מעוגלת ולבנבנה, ואחר כך גדל למדף דמוי כליה או פרסה, דמוי כרית מלמעלה ושטוח מלמטה, המחובר לגזע בבסיס מוצר דמוי רגל. פני השטח חלקים, לבנבנים עד חומים-אפורים או חומים-אוכריים, ומכוסים בעור דק שאפשר לקלף ושבגופי פרי מבוגרים נסדק לקשקשים קטנים. השוליים עבים, מעוגלים ומקופלים פנימה, לבנבנים, ובולטים מעל משטח הנקבוביות.",
+      "hymenium": "בצד התחתון שכבה אחת של צינוריות קצרות באורך 1.5–8 מ\"מ, הנפרדת בקלות מהבשר בגופי פרי ישנים. הנקבוביות זעירות ועגולות, כ-3–4 למ\"מ, לבנות בתחילה ומאוחר יותר אפרפרות עד בצבע עור מעובד.",
+      "stipe": "אין רגל אמיתית. גוף הפרי מחובר ישירות לקליפת הליבנה, בדרך כלל בבסיס קצר, מוצר ודמוי רגל, שלעיתים קרובות יש עליו מלמעלה בליטה קטנה.",
+      "flesh": "הבשר עבה ולבן, בצעירותו רך, עסיסי וגומי, ובהמשך יבש, קשוח ושעמי. הריח חלש, פטרייתי או חמצמץ מעט; הטעם חמצמץ בגופי פרי צעירים והופך מר יותר ויותר עם הגיל.",
+      "sporePrint": "הדפס הנבגים לבן. הנבגים גליליים עד מעט דמויי נקניקייה, חלקים וחסרי צבע, כ-4–7 × 1.3–2 µm.",
+      "habitat": "גדלה רק על ליבנה, על עצים מוחלשים או גוססים ועל גזעים מתים עומדים וגזעים שנפלו שקליפתם עדיין שלמה. כטפיל היא חודרת בדרך כלל דרך ענפים שבורים ופצעים ויכולה להישאר רדומה בעץ במשך שנים; כשהעץ נחלש היא גורמת לריקבון חום קובייתי עז וממשיכה לחיות על העץ המת. גופי פרי טריים מתפתחים מהקיץ עד הסתיו (במרכז אירופה בעיקר מיולי עד נובמבר) ומפזרים נבגים בסוף הקיץ ובסתיו, אך גופי הפרי הישנים נשארים על הגזעים לאורך כל החורף.",
+      "uses": "לא מאכלית: הבשר קשוח ומר. מדווח שגופי פרי צעירים מאוד, שעדיין עסיסיים, אכילים לאחר בישול, אבל איכותם ירודה ואין טעם לאסוף אותם. הפטרייה משמשת את האדם מימים קדומים מאוד. אצי, מומיית הקרחון בת כ-5300 השנים שנמצאה בהרי האלפים של אצטל, נשא עימו שתי חתיכות ממנה שהושחלו על רצועה, אולי כתרופה נגד תולעי מעיים. רצועות שנחתכו מגוף הפרי שימשו להשחזת תערי גילוח, כחבישה לפצעים, כחומר הצתה וכמצע לנעיצת חרקים באוספים.",
+      "confusion": "גופי פרי צעירים עשויים להזכיר את Fomes fomentarius, הגדלה גם היא על ליבנה, אך לזו גופי פרי קשים דמויי פרסה עם אזורים קונצנטריים, בשר חום והיא גורמת לריקבון לבן. גופי פרי ישנים ושטוחים מזכירים מעט בצורתם את Cerioporus squamosus, שלה כובע קשקשי ורגל קצרה. המדף החלק, הבהיר וחסר האזורים על ליבנה אופייני.",
+      "notes": "המין תואר על ידי ביליאר בשנת 1788 בשם Boletus betulinus והיה מוכר זמן רב בשם Piptoporus betulinus. מחקרים מולקולריים העבירו אותו בשנת 2016 לסוג Fomitopsis. עצי ליבנה נגועים נעשים שבירים ולעיתים קרובות נשברים בגובה הריקבון; לכן בטיפול בעצים הפטרייה היא סימן לכך שהעץ כבר אינו בטוח. גופי פרי ישנים משמשים בית לחרקים ולקרדיות רבים.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक बड़ा, हल्के रंग का, शेल्फ़ के आकार का कवक जो केवल भोज (बर्च) के पेड़ों पर उगता है। जहाँ भी भोज के पेड़ उगते हैं, वहाँ यह सबसे आम ब्रैकेट कवकों में से एक है, और उत्तरी गोलार्ध के पूरे शीतोष्ण और बोरियल क्षेत्र में यूरोप, एशिया और उत्तरी अमेरिका में पाया जाता है। फलनकाय एकवर्षीय होते हैं, लेकिन पुराने फलनकाय बीजाणु छोड़ने के बाद भी लंबे समय तक पेड़ों पर बने रहते हैं, इसलिए यह कवक साल भर देखा जा सकता है।",
+      "cap": "फलनकाय 8–20 cm चौड़ा, कभी-कभी 25 cm या उससे अधिक, और 2–6 cm मोटा होता है। शुरुआत में यह छाल को फाड़कर निकलने वाली एक छोटी, गोल, सफ़ेद-सी गाँठ होता है, फिर गुर्दे या खुर के आकार की शेल्फ़ में बढ़ता है, जो ऊपर से गद्दी जैसी उभरी और नीचे से सपाट होती है, और तने से एक सँकरे, डंठल जैसे आधार द्वारा जुड़ी रहती है। सतह चिकनी, सफ़ेद-सी से धूसर-भूरी या गेरुआ-भूरी होती है और एक पतली त्वचा से ढकी रहती है, जिसे छीला जा सकता है और जो पुराने फलनकायों पर छोटे-छोटे शल्कों में चटक जाती है। किनारा मोटा, गोलाकार और भीतर की ओर मुड़ा हुआ, सफ़ेद-सा होता है और छिद्र-सतह के ऊपर निकला रहता है।",
+      "hymenium": "निचली सतह पर 1.5–8 mm लंबी छोटी नलिकाओं की केवल एक परत होती है, जो पुराने फलनकायों में गूदे से आसानी से अलग हो जाती है। छिद्र बहुत छोटे और गोल होते हैं, प्रति mm लगभग 3–4, पहले सफ़ेद, बाद में धूसर-से से हल्के पीले-भूरे।",
+      "stipe": "असली डंठल नहीं होता। फलनकाय सीधे भोज की छाल से जुड़ा रहता है, आमतौर पर एक छोटे, सँकरे, डंठल जैसे आधार से, जिसके ऊपर अक्सर एक छोटा उभार होता है।",
+      "flesh": "गूदा मोटा और सफ़ेद होता है; युवा अवस्था में मुलायम, रसीला और रबर जैसा, बाद में सूखा, सख़्त और कॉर्क जैसा। गंध हल्की, कवक जैसी या थोड़ी खट्टी होती है; स्वाद युवा अवस्था में खट्टा होता है और उम्र के साथ अधिकाधिक कड़वा होता जाता है।",
+      "sporePrint": "बीजाणु छाप सफ़ेद होती है। बीजाणु बेलनाकार से थोड़े सॉसेज के आकार के, चिकने और रंगहीन होते हैं, लगभग 4–7 × 1.3–2 µm।",
+      "habitat": "यह केवल भोज पर उगता है, कमज़ोर या मरते हुए पेड़ों पर तथा उन मृत खड़े तनों और गिरे हुए तनों पर जिनकी छाल अभी भी बची हो। परजीवी के रूप में यह आमतौर पर टूटी शाखाओं और घावों से प्रवेश करता है और वर्षों तक लकड़ी में सुप्त अवस्था में रह सकता है; पेड़ के कमज़ोर होने पर यह तीव्र भूरी घनाकार सड़न पैदा करता है और मृत लकड़ी पर जीवित रहता है। ताज़े फलनकाय गर्मियों से शरद ऋतु तक बनते हैं (मध्य यूरोप में मुख्यतः जुलाई से नवंबर तक) और गर्मियों के अंत तथा शरद ऋतु में बीजाणु छोड़ते हैं, लेकिन पुराने फलनकाय पूरी सर्दी तनों पर बने रहते हैं।",
+      "uses": "खाने योग्य नहीं: गूदा सख़्त और कड़वा होता है। बताया जाता है कि बहुत युवा, अभी भी रसीले फलनकाय पकाने के बाद खाए जा सकते हैं, लेकिन वे घटिया गुणवत्ता के होते हैं और इकट्ठा करने लायक नहीं। इस कवक का उपयोग बहुत प्राचीन काल से होता आया है। ओट्ज़टाल आल्प्स में मिली लगभग 5300 वर्ष पुरानी हिमनद ममी ओट्ज़ी अपने साथ इसके दो टुकड़े एक पट्टी में पिरोकर रखे हुए थी, संभवतः आँतों के कृमियों के विरुद्ध औषधि के रूप में। इसके फलनकाय से काटी गई पट्टियों का उपयोग उस्तरे पर धार देने के चमड़े, घाव की पट्टी, आग जलाने के लिए टिंडर और संग्रहों में कीटों को पिन से लगाने के आधार के रूप में होता था।",
+      "confusion": "युवा फलनकाय Fomes fomentarius से मिलते-जुलते हो सकते हैं, जो भोज पर भी उगता है, लेकिन उसके फलनकाय कठोर, खुर के आकार के और संकेंद्रित पट्टियों वाले होते हैं, गूदा भूरा-सा होता है और वह सफ़ेद सड़न पैदा करता है। पुराने, चपटे फलनकाय आकार में कुछ हद तक Cerioporus squamosus जैसे लगते हैं, जिसकी टोपी शल्कयुक्त और डंठल छोटा होता है। भोज पर उगने वाली चिकनी, हल्के रंग की, पट्टी-रहित शेल्फ़ विशिष्ट होती है।",
+      "notes": "इस प्रजाति का वर्णन बुलियार ने 1788 में Boletus betulinus नाम से किया था, और यह लंबे समय तक Piptoporus betulinus नाम से जानी जाती रही। आणविक अध्ययनों ने 2016 में इसे वंश Fomitopsis में स्थानांतरित किया। संक्रमित भोज के पेड़ भंगुर हो जाते हैं और अक्सर सड़न की ऊँचाई पर टूट जाते हैं; इसलिए वृक्ष-देखभाल में यह कवक इस बात का संकेत है कि पेड़ अब सुरक्षित नहीं है। पुराने फलनकायों में अनेक कीट और माइट रहते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, svijetla gljiva u obliku konzole koja raste isključivo na brezi. Svugdje gdje rastu breze jedna je od najčešćih gljiva na drveću, u cijelom umjerenom i borealnom pojasu sjeverne polutke, u Europi, Aziji i Sjevernoj Americi. Plodišta su jednogodišnja, ali stara plodišta ostaju na stablima još dugo nakon što otpuste spore, pa se gljiva može vidjeti tijekom cijele godine.",
+      "cap": "Plodište je široko 8–20 cm, ponekad do 25 cm ili više, i debelo 2–6 cm. Najprije probija koru kao mala, zaobljena, bjelkasta kvrga, a zatim izraste u bubrežastu ili kopitastu konzolu, jastučastu odozgo i ravnu odozdo, pričvršćenu za deblo suženom bazom nalik na stručak. Površina je glatka, bjelkasta do sivosmeđa ili okersmeđa, prekrivena tankom kožicom koja se može oguliti i koja na starijim plodištima puca u sitne ljuskice. Rub je debeo, zaobljen i podvinut, bjelkast, te nadvisuje poroznu površinu.",
+      "hymenium": "Donja strana ima jedan sloj kratkih cjevčica, dugih 1,5–8 mm, koji se kod starih plodišta lako odvaja od mesa. Pore su vrlo sitne i okrugle, oko 3–4 na mm, najprije bijele, kasnije sivkaste do žućkastosmeđe.",
+      "stipe": "Pravog stručka nema. Plodište je pričvršćeno izravno za koru breze, obično kratkom, suženom bazom nalik na stručak, koja na vrhu često ima malu izbočinu.",
+      "flesh": "Meso je debelo i bijelo, u mladosti mekano, sočno i gumasto, kasnije suho, žilavo i plutasto. Miris je slab, na gljive ili blago kiselkast; okus je u mladosti kiselkast, a sa starošću postaje sve gorči.",
+      "sporePrint": "Otisak spora je bijel. Spore su valjkaste do blago kobasičaste, glatke i bezbojne, oko 4–7 × 1,3–2 µm.",
+      "habitat": "Raste samo na brezi, na oslabljenim ili odumirućim stablima te na mrtvim stojećim i palim deblima na kojima je kora još očuvana. Kao parazit obično ulazi kroz odlomljene grane i rane te može godinama mirovati u drvu; kad stablo oslabi, uzrokuje intenzivnu smeđu kockastu trulež i nastavlja živjeti na mrtvom drvu. Svježa plodišta razvijaju se od ljeta do jeseni (u srednjoj Europi uglavnom od srpnja do studenoga) i otpuštaju spore krajem ljeta i u jesen, ali stara plodišta ostaju na deblima cijelu zimu.",
+      "uses": "Nije jestiva: meso je žilavo i gorko. Vrlo mlada, još sočna plodišta navodno su jestiva nakon kuhanja, ali su loše kakvoće i ne isplati ih se brati. Gljiva se koristi od davnina. Ötzi, oko 5300 godina stara ledenjačka mumija pronađena u Ötztalskim Alpama, nosio je sa sobom dva komada nanizana na remen, možda kao lijek protiv crijevnih glista. Trake izrezane iz plodišta služile su kao remen za oštrenje britvi, kao zavoj za rane, kao materijal za paljenje vatre i kao podloga za pribadanje kukaca u zbirkama.",
+      "confusion": "Mlada plodišta mogu nalikovati vrsti Fomes fomentarius, koja također raste na brezi, ali ima tvrda, kopitasta, koncentrično zonirana plodišta, smećkasto meso i uzrokuje bijelu trulež. Stara, spljoštena plodišta oblikom pomalo podsjećaju na Cerioporus squamosus, koji ima ljuskav klobuk i kratak stručak. Glatka, svijetla konzola bez zona na brezi je karakteristična.",
+      "notes": "Vrstu je opisao Bulliard 1788. godine kao Boletus betulinus, a dugo je bila poznata kao Piptoporus betulinus. Molekularna istraživanja premjestila su je 2016. godine u rod Fomitopsis. Zaražene breze postaju krhke i često se lome u visini truleži; u njezi stabala gljiva je stoga znak da stablo više nije sigurno. U starim plodištima živi mnogo kukaca i grinja.",
+      "names": [
+        "brezovača"
+      ],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Brezina_guba"
+      ],
+      "label": "brezina guba"
+    },
+    "hu": {
+      "description": "Nagy, világos színű, konzolos taplógomba, amely kizárólag nyírfán nő. Mindenütt, ahol nyír él, az egyik leggyakoribb tapló, az északi félteke egész mérsékelt és boreális övében Európában, Ázsiában és Észak-Amerikában. A termőtestek egyévesek, de a régi termőtestek még sokáig a fákon maradnak a spóraszórás után, így a gomba egész évben látható.",
+      "cap": "A termőtest 8–20 cm széles, alkalmanként 25 cm-es vagy nagyobb, és 2–6 cm vastag. Kezdetben kis, kerekded, fehéres gumóként tör elő a kéregből, majd vese- vagy pata alakú konzollá nő, felül párnás, alul lapos, és a törzshöz elkeskenyedő, tönkszerű alappal kapcsolódik. Felszíne sima, fehéres, szürkésbarna vagy okkerbarna, vékony bőr borítja, amely lehúzható, és idősebb példányokon apró pikkelyekre repedezik. Széle vastag, lekerekített és begöngyölt, fehéres, túlnyúlik a pórusos felületen.",
+      "hymenium": "Az alsó oldalon egyetlen réteg rövid, 1,5–8 mm hosszú csövecske található, amely idős példányokon könnyen leválik a húsról. A pórusok nagyon aprók és kerekek, kb. 3–4 milliméterenként, eleinte fehérek, később szürkések vagy bőrszínűek.",
+      "stipe": "Valódi tönkje nincs. A termőtest közvetlenül a nyírfa kérgéhez nő, többnyire rövid, elkeskenyedő, tönkszerű alappal, amelynek tetején gyakran kis púp van.",
+      "flesh": "Húsa vastag és fehér, fiatalon puha, lédús és gumiszerű, később száraz, szívós és parafaszerű. Szaga gyenge, gombaszerű vagy enyhén savanykás; íze fiatalon savanykás, idővel egyre keserűbb.",
+      "sporePrint": "Spórapora fehér. A spórák hengeresek vagy enyhén kolbász alakúak, simák és színtelenek, kb. 4–7 × 1,3–2 µm-esek.",
+      "habitat": "Csak nyírfán nő, legyengült vagy pusztuló fákon, valamint álló holt törzseken és kidőlt törzseken, amelyeken még megvan a kéreg. Parazitaként általában letört ágakon és sebeken keresztül jut be, és évekig nyugvó állapotban maradhat a fában; ha a fa legyengül, erős, kockás barnakorhadást okoz, és tovább él a holt fán. Friss termőtestei nyártól őszig fejlődnek (Közép-Európában főleg júliustól novemberig), spóráikat nyár végén és ősszel szórják, a régi termőtestek azonban egész télen a törzseken maradnak.",
+      "uses": "Nem ehető: húsa szívós és keserű. A nagyon fiatal, még lédús termőtestek állítólag főzve ehetők, de gyenge minőségűek, és nem érdemes gyűjteni őket. A gombát nagyon régóta használják. Ötzi, az Ötztali-Alpokban talált, mintegy 5300 éves gleccsermúmia két szíjra fűzött darabot hordott magánál belőle, talán bélférgek elleni szerként. A termőtestből vágott csíkokat borotvafenő szíjként, sebkötözőként, taplóként és rovargyűjtemények tűzésre szolgáló alátéteként használták.",
+      "confusion": "A fiatal termőtestek hasonlíthatnak a szintén nyírfán növő Fomes fomentarius fajra, ennek azonban kemény, pata alakú, koncentrikusan zónázott termőteste és barnás húsa van, és fehérkorhadást okoz. Az idős, ellaposodott termőtestek alakra némileg a Cerioporus squamosus fajra emlékeztetnek, amelynek pikkelyes kalapja és rövid tönkje van. A nyírfán növő sima, világos, zónázatlan konzol jellegzetes.",
+      "notes": "A fajt Bulliard írta le 1788-ban Boletus betulinus néven, és sokáig Piptoporus betulinus néven ismerték. Molekuláris vizsgálatok alapján 2016-ban a Fomitopsis nemzetségbe sorolták. A fertőzött nyírfák törékennyé válnak, és gyakran a korhadás magasságában kettétörnek; a fakezelésben ezért a gomba annak jele, hogy a fa már nem biztonságos. A régi termőtestekben sok rovar és atka él.",
+      "names": [
+        "nyírfa-kérgestapló",
+        "nyírfa-tapló"
+      ],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Nyírfatapló",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "nyírfatapló"
+    },
+    "id": {
+      "description": "Jamur besar berwarna pucat berbentuk rak yang hanya tumbuh pada pohon birch. Di mana pun pohon birch tumbuh, jamur ini termasuk jamur rak yang paling umum, di seluruh zona beriklim sedang dan boreal di belahan bumi utara, di Eropa, Asia, dan Amerika Utara. Tubuh buahnya bersifat semusim, tetapi tubuh buah tua tetap menempel di pohon lama setelah melepaskan sporanya, sehingga jamur ini dapat dilihat sepanjang tahun.",
+      "cap": "Tubuh buah berukuran lebar 8–20 cm, kadang-kadang hingga 25 cm atau lebih, dan tebal 2–6 cm. Awalnya muncul sebagai benjolan kecil, bulat, dan keputihan yang menembus kulit kayu, lalu tumbuh menjadi rak berbentuk ginjal atau kuku kuda, menggembung seperti bantal di bagian atas dan datar di bagian bawah, melekat pada batang dengan pangkal menyempit yang menyerupai tangkai. Permukaannya halus, keputihan hingga cokelat keabu-abuan atau cokelat oker, tertutup kulit tipis yang dapat dikelupas dan pada tubuh buah yang lebih tua retak menjadi sisik-sisik kecil. Tepinya tebal, membulat, dan melengkung ke dalam, keputihan, serta menjorok melewati permukaan berpori.",
+      "hymenium": "Sisi bawah memiliki satu lapisan tabung pendek sepanjang 1,5–8 mm yang pada tubuh buah tua mudah terlepas dari dagingnya. Porinya sangat kecil dan bulat, sekitar 3–4 per mm, mula-mula putih, kemudian keabu-abuan hingga kuning kecokelatan.",
+      "stipe": "Tidak ada tangkai sejati. Tubuh buah melekat langsung pada kulit kayu birch, biasanya dengan pangkal pendek yang menyempit dan menyerupai tangkai, yang sering memiliki tonjolan kecil di bagian atasnya.",
+      "flesh": "Dagingnya tebal dan putih, saat muda lunak, berair, dan kenyal seperti karet, kemudian kering, liat, dan seperti gabus. Baunya lemah, seperti jamur atau sedikit asam; rasanya agak asam saat muda dan makin lama makin pahit seiring bertambahnya umur.",
+      "sporePrint": "Cetak spora berwarna putih. Spora berbentuk silinder hingga sedikit menyerupai sosis, halus, dan tidak berwarna, sekitar 4–7 × 1,3–2 µm.",
+      "habitat": "Jamur ini hanya tumbuh pada birch, pada pohon yang melemah atau sekarat serta pada batang mati yang masih berdiri dan batang tumbang yang kulit kayunya masih utuh. Sebagai parasit, jamur ini biasanya masuk melalui cabang patah dan luka, dan dapat tetap dorman di dalam kayu selama bertahun-tahun; ketika pohon melemah, jamur ini menyebabkan busuk cokelat kubus yang hebat dan terus hidup pada kayu mati. Tubuh buah segar terbentuk dari musim panas hingga musim gugur (di Eropa Tengah terutama dari Juli hingga November) dan melepaskan spora pada akhir musim panas dan musim gugur, tetapi tubuh buah tua tetap berada di batang sepanjang musim dingin.",
+      "uses": "Tidak dapat dimakan: dagingnya liat dan pahit. Tubuh buah yang sangat muda dan masih berair konon dapat dimakan setelah dimasak, tetapi mutunya buruk dan tidak layak dikumpulkan. Jamur ini sudah dimanfaatkan sejak zaman yang sangat lampau. Ötzi, mumi gletser berusia sekitar 5300 tahun yang ditemukan di Pegunungan Alpen Ötztal, membawa dua potong jamur ini yang diuntai pada seutas tali kulit, mungkin sebagai obat cacing usus. Potongan-potongan tubuh buahnya dipakai sebagai pengasah pisau cukur, pembalut luka, rabuk untuk menyalakan api, dan alas untuk menyematkan serangga dalam koleksi.",
+      "confusion": "Tubuh buah muda dapat menyerupai Fomes fomentarius, yang juga tumbuh pada birch, tetapi spesies itu memiliki tubuh buah yang keras, berbentuk kuku kuda, berzona konsentris, berdaging kecokelatan, dan menyebabkan busuk putih. Tubuh buah tua yang memipih bentuknya agak mirip Cerioporus squamosus, yang memiliki tudung bersisik dan tangkai pendek. Rak yang halus, pucat, dan tidak berzona pada birch sangat khas.",
+      "notes": "Spesies ini dideskripsikan oleh Bulliard pada tahun 1788 sebagai Boletus betulinus dan lama dikenal sebagai Piptoporus betulinus. Kajian molekuler memindahkannya pada tahun 2016 ke genus Fomitopsis. Pohon birch yang terinfeksi menjadi rapuh dan sering patah setinggi bagian yang busuk; karena itu dalam perawatan pohon, jamur ini menjadi tanda bahwa pohon tidak lagi aman. Tubuh buah tua menjadi tempat hidup banyak serangga dan tungau.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande fungo a mensola, chiaro, che cresce esclusivamente sulle betulle. Ovunque crescano betulle è uno dei polipori più comuni, in tutta la fascia temperata e boreale dell'emisfero settentrionale, in Europa, Asia e Nord America. I corpi fruttiferi sono annuali, ma le vecchie mensole restano sugli alberi a lungo dopo aver liberato le spore, per cui il fungo si può vedere tutto l'anno.",
+      "cap": "La mensola è larga 8–20 cm, talvolta fino a 25 cm o più, e spessa 2–6 cm. Nasce come un piccolo nodulo arrotondato e biancastro che sbuca dalla corteccia, poi cresce in una mensola a forma di rene o di zoccolo, convessa sopra e piatta sotto, attaccata al tronco da una base ristretta simile a un gambo. La superficie è liscia, da biancastra a bruno-grigia o bruno-ocra, coperta da una sottile cuticola che si stacca facilmente e che negli esemplari vecchi si screpola in piccole squame. Il margine è spesso, arrotondato e involuto, biancastro, e sporge oltre la superficie dei pori.",
+      "hymenium": "La faccia inferiore porta un solo strato di tubuli corti, lunghi 1,5–8 mm, che negli esemplari vecchi si separa facilmente dalla carne. I pori sono molto piccoli e rotondi, circa 3–4 per mm, dapprima bianchi, poi grigiastri o color camoscio.",
+      "stipe": "Non c'è un vero gambo. La mensola è attaccata direttamente alla corteccia della betulla, di solito con una base corta e ristretta simile a un gambo, che spesso porta una piccola gobba sulla parte superiore.",
+      "flesh": "La carne è spessa e bianca, da giovane morbida, succosa e gommosa, poi secca, tenace e sugherosa. L'odore è debole, fungino o leggermente acidulo; il sapore è acidulo negli esemplari giovani e diventa sempre più amaro con l'età.",
+      "sporePrint": "La sporata è bianca. Le spore sono cilindriche o leggermente allantoidi (a forma di salsiccia), lisce e incolori, di circa 4–7 × 1,3–2 µm.",
+      "habitat": "Cresce solo sulle betulle, su alberi indeboliti o deperienti e su tronchi morti in piedi e tronchi caduti che conservano ancora la corteccia. Come parassita penetra di solito attraverso rami spezzati e ferite e può restare latente nel legno per anni; quando l'albero si indebolisce provoca un'intensa carie bruna cubica e continua a vivere sul legno morto. Le mensole fresche si formano dall'estate all'autunno (in Europa centrale soprattutto da luglio a novembre) e liberano le spore a fine estate e in autunno, ma le vecchie mensole restano sui tronchi per tutto l'inverno.",
+      "uses": "Non commestibile: la carne è tenace e amara. Gli esemplari molto giovani, ancora succosi, sarebbero commestibili dopo cottura, ma sono di scarsa qualità e non vale la pena raccoglierli. Il fungo è usato da tempi antichissimi. Ötzi, la mummia del ghiacciaio di circa 5300 anni ritrovata nelle Alpi dell'Ötztal, ne portava con sé due pezzi infilati su una striscia di cuoio, forse come rimedio contro i vermi intestinali. Strisce ricavate dalla mensola servivano come coramella per affilare i rasoi, come medicazione per le ferite, come materiale per accendere il fuoco e come supporto per spillare gli insetti nelle collezioni.",
+      "confusion": "Gli esemplari giovani possono somigliare a Fomes fomentarius, che cresce anch'esso sulle betulle, ma questo ha corpi fruttiferi duri, a zoccolo, zonati concentricamente, carne brunastra e provoca una carie bianca. Le vecchie mensole appiattite ricordano un po' nella forma Cerioporus squamosus, che ha un cappello squamoso e un gambo corto. La mensola liscia, chiara e non zonata su betulla è caratteristica.",
+      "notes": "La specie fu descritta da Bulliard nel 1788 come Boletus betulinus ed è stata a lungo nota come Piptoporus betulinus. Studi molecolari l'hanno trasferita nel 2016 nel genere Fomitopsis. Le betulle colpite diventano fragili e spesso si spezzano all'altezza della carie; nella cura degli alberi il fungo è quindi un segnale che un albero non è più sicuro. Le vecchie mensole ospitano molti insetti e acari.",
+      "names": [],
+      "sourceUrls": [
+        "https://wiki.mycoradar.ch/it/especes/polypore-du-bouleau"
+      ],
+      "label": "poliporo della betulla"
+    },
+    "ja": {
+      "description": "カバノキ類だけに生える、大型で淡色の棚状のキノコ。カバノキが生える所ならどこでも最も普通に見られるサルノコシカケ類の一つで、北半球の温帯から亜寒帯にかけてヨーロッパ、アジア、北アメリカに広く分布する。子実体は一年生だが、古い子実体は胞子を放出した後も長く樹上に残るため、一年中見ることができる。",
+      "cap": "子実体は幅8–20 cm、時に25 cm以上になり、厚さ2–6 cm。はじめ樹皮を破って現れる小さな丸い白っぽいこぶとして始まり、やがて腎臓形から馬蹄形の棚状になる。上面はクッション状に盛り上がり、下面は平らで、幹には細くくびれた柄のような基部で付着する。表面は平滑で、白っぽい色から灰褐色または黄土褐色、薄い表皮に覆われ、表皮ははがすことができ、古い子実体では細かい鱗片状にひび割れる。縁は厚く丸みを帯びて内側に巻き、白っぽく、孔口面の上に張り出す。",
+      "hymenium": "下面には長さ1.5–8 mmの短い管孔が1層だけあり、古い子実体では肉から容易にはがれる。孔口はごく小さく円形で、1 mmあたり約3–4個、はじめ白色、のち灰色がかった色から淡黄褐色になる。",
+      "stipe": "本当の柄はない。子実体はカバノキの樹皮に直接付着し、ふつう短く細くくびれた柄のような基部で付き、その上面にはしばしば小さなこぶがある。",
+      "flesh": "肉は厚く白色で、若いうちは柔らかく、多汁でゴムのような弾力があり、のちに乾いて強靭なコルク質になる。においは弱く、キノコ臭またはわずかに酸っぱいにおいがある。味は若いうちは酸味があり、古くなるにつれて次第に苦くなる。",
+      "sporePrint": "胞子紋は白色。胞子は円柱形からややソーセージ形、平滑で無色、約4–7 × 1.3–2 µm。",
+      "habitat": "カバノキ類だけに生え、弱った木や枯れかけた木、樹皮がまだ残っている立ち枯れの幹や倒木に発生する。寄生菌として通常は折れた枝や傷口から侵入し、何年も材の中で休眠状態のまま潜むことがある。木が弱ると激しい褐色の立方体状腐朽(褐色腐朽)を起こし、枯死後も材の上で生き続ける。新しい子実体は夏から秋にかけて(中央ヨーロッパでは主に7月から11月)形成され、夏の終わりから秋に胞子を放出するが、古い子実体は冬の間も幹に残る。",
+      "uses": "食用不適:肉は硬く苦い。ごく若くまだ多汁な子実体は加熱すれば食べられるとされるが、品質が悪く採集する価値はない。このキノコは非常に古くから利用されてきた。エッツタール・アルプスで発見された約5300年前の氷河のミイラ「エッツィ」は、ひもに通したこのキノコの断片を2個身に着けており、腸内寄生虫の薬として使っていた可能性がある。子実体から切り出した細片は、かみそりを研ぐ革砥、傷の手当ての当て物、火口(ほくち)、昆虫標本を留める台として使われた。",
+      "confusion": "若い子実体は、同じくカバノキに生えるFomes fomentariusに似ることがあるが、こちらは硬い馬蹄形の子実体で同心円状の環紋があり、肉は褐色を帯び、白色腐朽を起こす。古く平たくなった子実体は形がいくらかCerioporus squamosusに似るが、こちらは傘に鱗片があり、短い柄がある。カバノキ上の、平滑で淡色の環紋のない棚状の子実体は特徴的である。",
+      "notes": "本種は1788年にビュイヤールによってBoletus betulinusとして記載され、長くPiptoporus betulinusの名で知られてきた。分子系統学的研究により2016年にFomitopsis属へ移された。感染したカバノキはもろくなり、腐朽部の高さでしばしば折れるため、樹木管理では本種の存在は木がもはや安全でないことを示す目安とされる。古い子実体には多くの昆虫やダニがすむ。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9173916/vernacularNames",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "カンバタケ"
+    },
+    "ko": {
+      "description": "자작나무류에서만 자라는 크고 빛깔이 옅은 선반 모양의 버섯이다. 자작나무가 자라는 곳이면 어디서나 가장 흔한 구멍장이버섯류 가운데 하나로, 북반구의 온대와 아한대 전역, 곧 유럽, 아시아, 북아메리카에 분포한다. 자실체는 한해살이지만, 오래된 자실체는 포자를 퍼뜨린 뒤에도 오랫동안 나무에 남아 있어 일 년 내내 볼 수 있다.",
+      "cap": "자실체는 너비 8–20 cm, 때로는 25 cm 이상이며 두께는 2–6 cm이다. 처음에는 나무껍질을 뚫고 나오는 작고 둥근 흰빛의 혹으로 시작하여, 점차 콩팥 모양이나 말발굽 모양의 선반으로 자란다. 윗면은 방석처럼 부풀고 아랫면은 평평하며, 줄기에는 잘록해진 자루 모양의 밑부분으로 붙는다. 표면은 매끄럽고 흰색에서 회갈색 또는 황토갈색이며, 벗겨지는 얇은 표피로 덮여 있는데 오래된 자실체에서는 이 표피가 작은 비늘 조각으로 갈라진다. 가장자리는 두껍고 둥글며 안쪽으로 말리고 흰빛을 띠며, 구멍 면 위로 돌출한다.",
+      "hymenium": "아랫면에는 길이 1.5–8 mm의 짧은 관공이 한 층만 있으며, 오래된 자실체에서는 살에서 쉽게 떨어진다. 구멍은 매우 작고 둥글며 1 mm당 약 3–4개이고, 처음에는 흰색이다가 나중에 회색빛 또는 연한 황갈색이 된다.",
+      "stipe": "진짜 대는 없다. 자실체는 자작나무 껍질에 직접 붙으며, 보통 짧고 잘록한 자루 모양의 밑부분으로 붙고 그 위쪽에는 흔히 작은 혹이 있다.",
+      "flesh": "살은 두껍고 흰색이며, 어릴 때는 부드럽고 즙이 많으며 고무처럼 탄력이 있으나 나중에는 마르고 질기며 코르크질이 된다. 냄새는 약하며 버섯 냄새나 약간 신 냄새가 난다. 맛은 어릴 때 시큼하고 나이가 들수록 점점 더 쓰다.",
+      "sporePrint": "포자문은 흰색이다. 포자는 원통형에서 약간 소시지 모양이며, 매끄럽고 무색이고, 약 4–7 × 1.3–2 µm이다.",
+      "habitat": "자작나무류에서만 자라며, 약해졌거나 죽어 가는 나무와 껍질이 아직 남아 있는 선 채로 죽은 줄기와 쓰러진 줄기에 난다. 기생균으로서 보통 부러진 가지와 상처를 통해 들어가며, 여러 해 동안 목재 속에서 휴면 상태로 머물 수 있다. 나무가 약해지면 강한 갈색 입방형 부후(갈색부후)를 일으키고, 나무가 죽은 뒤에도 목재에서 계속 살아간다. 새 자실체는 여름부터 가을까지(중부 유럽에서는 주로 7월부터 11월까지) 생기며 늦여름과 가을에 포자를 퍼뜨리지만, 오래된 자실체는 겨울 내내 줄기에 남아 있다.",
+      "uses": "식용 불가: 살이 질기고 쓰다. 아주 어리고 아직 즙이 많은 자실체는 익히면 먹을 수 있다고 하지만 품질이 나빠 채취할 가치가 없다. 이 버섯은 아주 오래전부터 이용되어 왔다. 외츠탈 알프스에서 발견된 약 5300년 전의 빙하 미라 외치는 끈에 꿴 이 버섯 조각 두 개를 지니고 있었는데, 장내 기생충을 없애는 약으로 썼을 가능성이 있다. 자실체에서 잘라 낸 띠는 면도칼을 가는 가죽숫돌, 상처 드레싱, 불을 붙이는 부싯깃, 곤충 표본을 꽂는 받침으로 쓰였다.",
+      "confusion": "어린 자실체는 역시 자작나무에 자라는 Fomes fomentarius와 비슷할 수 있으나, 이 종은 단단하고 말발굽 모양이며 동심원 모양의 테가 있는 자실체와 갈색빛 살을 가지며 백색부후를 일으킨다. 오래되어 납작해진 자실체는 모양이 다소 Cerioporus squamosus와 닮았지만, 이 종은 갓에 비늘이 있고 짧은 대가 있다. 자작나무 위의 매끄럽고 빛깔이 옅으며 테가 없는 선반 모양 자실체가 특징적이다.",
+      "notes": "이 종은 1788년 뷜리아르가 Boletus betulinus로 기재하였고, 오랫동안 Piptoporus betulinus로 알려졌다. 분자 연구에 따라 2016년 Fomitopsis 속으로 옮겨졌다. 감염된 자작나무는 약해져 부후 부위 높이에서 자주 부러지므로, 수목 관리에서 이 버섯은 나무가 더 이상 안전하지 않다는 신호로 여겨진다. 오래된 자실체에는 많은 곤충과 진드기가 산다.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.nibr.go.kr/"
+      ],
+      "label": "자작나무버섯"
+    },
+    "lt": {
+      "description": "Didelis, šviesus kempininis grybas, augantis tik ant beržų. Visur, kur auga beržai, tai vienas dažniausių kempininių grybų – visoje šiaurės pusrutulio vidutinio klimato ir borealinėje juostoje Europoje, Azijoje ir Šiaurės Amerikoje. Vaisiakūniai vienamečiai, tačiau seni vaisiakūniai išlieka ant medžių dar ilgai po sporų išbarstymo, todėl grybą galima matyti ištisus metus.",
+      "cap": "Vaisiakūnis 8–20 cm pločio, kartais iki 25 cm ar daugiau, ir 2–6 cm storio. Iš pradžių jis prasiveržia pro žievę kaip mažas, apvalus, balsvas gumbas, vėliau išauga į inksto ar kanopos formos vaisiakūnį, viršuje pagalvėlišką, apačioje plokščią, prie kamieno prisitvirtinusį susiaurėjusiu, kotą primenančiu pagrindu. Paviršius lygus, balsvas iki pilkai rudo ar ochriškai rudo, padengtas plona odele, kurią galima nulupti ir kuri ant senesnių vaisiakūnių sutrūkinėja į smulkius žvynelius. Kraštas storas, užapvalintas ir įlinkęs, balsvas, kyšo virš porų paviršiaus.",
+      "hymenium": "Apatinėje pusėje yra vienas trumpų, 1,5–8 mm ilgio vamzdelių sluoksnis, kuris seniems vaisiakūniams lengvai atsiskiria nuo minkštimo. Poros labai mažos ir apvalios, apie 3–4 viename mm, iš pradžių baltos, vėliau pilkšvos iki gelsvai rusvų.",
+      "stipe": "Tikro koto nėra. Vaisiakūnis tiesiogiai prisitvirtina prie beržo žievės, dažniausiai trumpu, susiaurėjusiu, kotą primenančiu pagrindu, kurio viršuje dažnai būna nedidelis gumburėlis.",
+      "flesh": "Minkštimas storas ir baltas, jaunų vaisiakūnių minkštas, sultingas ir gumiškas, vėliau sausas, kietas ir kamštiškas. Kvapas silpnas, grybiškas arba šiek tiek rūgštokas; skonis jaunų vaisiakūnių rūgštokas, su amžiumi vis labiau kartėja.",
+      "sporePrint": "Sporų milteliai balti. Sporos cilindriškos iki šiek tiek dešrelės formos, lygios ir bespalvės, apie 4–7 × 1,3–2 µm.",
+      "habitat": "Auga tik ant beržų – ant nusilpusių ar džiūstančių medžių, taip pat ant negyvų stovinčių kamienų ir nuvirtusių kamienų, kurių žievė dar nenukritusi. Kaip parazitas dažniausiai patenka per nulūžusias šakas ir žaizdas ir gali metų metus ramybės būsenoje išlikti medienoje; medžiui nusilpus sukelia intensyvų rudąjį kubinį puvinį ir toliau gyvena negyvoje medienoje. Švieži vaisiakūniai susidaro nuo vasaros iki rudens (Vidurio Europoje daugiausia nuo liepos iki lapkričio) ir sporas barsto vasaros pabaigoje bei rudenį, tačiau seni vaisiakūniai ant kamienų išlieka visą žiemą.",
+      "uses": "Nevalgomas: minkštimas kietas ir kartus. Labai jauni, dar sultingi vaisiakūniai, kaip teigiama, išvirti valgomi, tačiau jie prastos kokybės ir neverti rinkti. Grybas naudojamas nuo labai seno laikų. Ötzi – maždaug 5300 metų senumo ledyno mumija, rasta Ötztalio Alpėse, – nešiojosi du ant dirželio suvertus šio grybo gabalėlius, galbūt kaip vaistą nuo žarnyno kirmėlių. Iš vaisiakūnio pjaustytos juostelės buvo naudojamos kaip diržas skustuvams galąsti, kaip žaizdų tvarstis, kaip medžiaga ugniai įžiebti ir kaip pagrindas vabzdžiams smeigti kolekcijose.",
+      "confusion": "Jauni vaisiakūniai gali būti panašūs į Fomes fomentarius, kuris taip pat auga ant beržų, tačiau jo vaisiakūniai kieti, kanopos formos, koncentriškai zonuoti, minkštimas rusvas, ir jis sukelia baltąjį puvinį. Seni, suplokštėję vaisiakūniai forma šiek tiek primena Cerioporus squamosus, kuris turi žvynuotą kepurę ir trumpą kotą. Lygus, šviesus, nezonuotas vaisiakūnis ant beržo yra būdingas.",
+      "notes": "Rūšį 1788 m. aprašė Bulliard kaip Boletus betulinus, ir ji ilgai buvo žinoma kaip Piptoporus betulinus. Molekuliniai tyrimai 2016 m. ją perkėlė į Fomitopsis gentį. Pažeisti beržai tampa trapūs ir dažnai nulūžta puvinio aukštyje; medžių priežiūroje grybas todėl rodo, kad medis nebėra saugus. Senuose vaisiakūniuose gyvena daug vabzdžių ir erkių.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9819973/vernacularNames",
+        "https://lt.wikipedia.org/wiki/Beržinis_pintenis"
+      ],
+      "label": "beržinis pintenis"
+    },
+    "lv": {
+      "description": "Liela, gaiša piepe, kas aug tikai uz bērziem. Visur, kur aug bērzi, tā ir viena no visbiežāk sastopamajām piepēm – visā ziemeļu puslodes mērenajā un boreālajā joslā Eiropā, Āzijā un Ziemeļamerikā. Augļķermeņi ir viengadīgi, taču vecās piepes paliek uz kokiem vēl ilgi pēc sporu izkaisīšanas, tāpēc sēni var redzēt visu gadu.",
+      "cap": "Augļķermenis ir 8–20 cm plats, dažkārt līdz 25 cm vai vairāk, un 2–6 cm biezs. Sākumā tas izlaužas cauri mizai kā mazs, apaļš, bālgans pumpulis, pēc tam izaug nieres vai naga formas piepē, kas virspusē ir spilvenveida, apakšpusē plakana un piestiprinās stumbram ar sašaurinātu, kātiņam līdzīgu pamatni. Virsma ir gluda, bālgana līdz pelēkbrūna vai okerbrūna, klāta ar plānu ādiņu, ko var novilkt un kas vecākām piepēm sasprēgā sīkās plēksnītēs. Mala ir bieza, noapaļota un ieliekta, bālgana, un tā pārkaras pār poru virsmu.",
+      "hymenium": "Apakšpusē ir viens īsu, 1,5–8 mm garu stobriņu slānis, kas vecām piepēm viegli atdalās no mīkstuma. Poras ir ļoti sīkas un apaļas, apmēram 3–4 uz mm, sākumā baltas, vēlāk pelēcīgas līdz iedzeltenbrūnas.",
+      "stipe": "Īsta kātiņa nav. Piepe piestiprinās tieši bērza mizai, parasti ar īsu, sašaurinātu, kātiņam līdzīgu pamatni, kuras augšpusē bieži ir neliels paugurs.",
+      "flesh": "Mīkstums ir biezs un balts, jaunām piepēm mīksts, sulīgs un gumijveida, vēlāk sauss, stingrs un korķains. Smarža vāja, sēņu vai viegli skābena; garša jaunām piepēm skābena, ar vecumu kļūst arvien rūgtāka.",
+      "sporePrint": "Sporu pulveris ir balts. Sporas ir cilindriskas līdz nedaudz desiņveida, gludas un bezkrāsainas, apmēram 4–7 × 1,3–2 µm.",
+      "habitat": "Aug tikai uz bērziem – uz novājinātiem vai atmirstošiem kokiem, kā arī uz nedzīviem stāvošiem stumbriem un kritušiem stumbriem, kuriem vēl saglabājusies miza. Kā parazīts tā parasti iekļūst caur nolauztiem zariem un brūcēm un var gadiem ilgi miera stāvoklī palikt koksnē; kad koks novājinās, tā izraisa intensīvu brūno kubisko trupi un turpina dzīvot uz nedzīvās koksnes. Svaigas piepes veidojas no vasaras līdz rudenim (Centrāleiropā galvenokārt no jūlija līdz novembrim) un sporas izkaisa vasaras beigās un rudenī, taču vecās piepes uz stumbriem paliek visu ziemu.",
+      "uses": "Neēdama: mīkstums ir stingrs un rūgts. Ļoti jauni, vēl sulīgi augļķermeņi pēc novārīšanas esot ēdami, taču tie ir sliktas kvalitātes un nav vākšanas vērti. Sēne tiek izmantota kopš seniem laikiem. Ötzi – apmēram 5300 gadus vecā ledāja mūmija, kas atrasta Ectāles Alpos, – nēsāja līdzi divus uz siksniņas uzvērtus šīs sēnes gabalus, iespējams, kā līdzekli pret zarnu tārpiem. No piepes grieztas strēmeles izmantoja kā siksnu bārdas nažu asināšanai, kā brūču pārsēju, kā posu uguns iekuršanai un kā pamatni kukaiņu saspraušanai kolekcijās.",
+      "confusion": "Jaunas piepes var atgādināt Fomes fomentarius, kas arī aug uz bērziem, taču tai ir cieti, naga formas, koncentriski joslaini augļķermeņi, brūngans mīkstums, un tā izraisa balto trupi. Vecas, saplacinātas piepes pēc formas nedaudz atgādina Cerioporus squamosus, kam ir zvīņaina cepure un īss kātiņš. Gludā, gaišā, bezjoslu piepe uz bērza ir raksturīga.",
+      "notes": "Sugu 1788. gadā aprakstīja Bulliārs kā Boletus betulinus, un ilgu laiku tā bija pazīstama kā Piptoporus betulinus. Molekulārie pētījumi 2016. gadā to pārcēla uz Fomitopsis ģinti. Inficētie bērzi kļūst trausli un bieži nolūst trupes augstumā; koku kopšanā sēne tādēļ liecina, ka koks vairs nav drošs. Vecajās piepēs dzīvo daudz kukaiņu un ērču.",
+      "names": [
+        "parastā bērzupiepe"
+      ],
+      "sourceUrls": [
+        "https://www.fungi.lv/piptoporus_betulinus.htm",
+        "https://tezaurs.lv/b%C4%93rzupiepe:1",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "brūnā bērzupiepe"
+    },
+    "nl": {
+      "description": "Een grote, bleke konzolvormige zwam die uitsluitend op berken groeit. Overal waar berken staan, is het een van de algemeenste houtzwammen, in het hele gematigde en boreale noordelijk halfrond in Europa, Azië en Noord-Amerika. De vruchtlichamen zijn eenjarig, maar oude exemplaren blijven nog lang na het verspreiden van hun sporen aan de bomen hangen, zodat de zwam het hele jaar te zien is.",
+      "cap": "De konzol is 8–20 cm breed, soms tot 25 cm of meer, en 2–6 cm dik. Hij begint als een kleine, ronde, witachtige knol die uit de schors breekt en groeit dan uit tot een nier- of hoefvormige konzol, bovenaan kussenvormig en onderaan vlak, met een versmalde, steelachtige voet aan de stam vastgehecht. Het oppervlak is glad, witachtig tot grijsbruin of okerbruin en bedekt met een dunne huid die zich laat aftrekken en bij oudere exemplaren in kleine schilfers openbarst. De rand is dik, afgerond en ingebogen, witachtig, en steekt uit over het poriënoppervlak.",
+      "hymenium": "De onderzijde heeft één laag korte buisjes van 1,5–8 mm lang, die bij oude exemplaren gemakkelijk van het vlees loslaat. De poriën zijn zeer klein en rond, ongeveer 3–4 per mm, eerst wit, later grijzig tot zeemkleurig.",
+      "stipe": "Er is geen echte steel. De konzol zit direct op de berkenschors vast, meestal met een korte, versmalde, steelachtige voet die bovenop vaak een kleine bult heeft.",
+      "flesh": "Het vlees is dik en wit, jong zacht, sappig en rubberachtig, later droog, taai en kurkachtig. Het ruikt zwak naar paddenstoel of licht zurig; de smaak is jong zurig en wordt met de leeftijd steeds bitterder.",
+      "sporePrint": "De sporenprint is wit. De sporen zijn cilindrisch tot licht worstvormig, glad en kleurloos, ongeveer 4–7 × 1,3–2 µm.",
+      "habitat": "Hij groeit alleen op berken, op verzwakte of afstervende bomen en op dode staande stammen en liggende stammen waarvan de schors nog intact is. Als parasiet dringt hij meestal binnen via afgebroken takken en wonden en kan hij jarenlang sluimerend in het hout blijven; is de boom eenmaal verzwakt, dan veroorzaakt hij een sterke bruine blokjesrot en leeft hij verder op het dode hout. Verse vruchtlichamen ontstaan van zomer tot herfst (in Midden-Europa vooral van juli tot november) en geven in de nazomer en herfst sporen af, maar de oude exemplaren blijven de hele winter aan de stammen.",
+      "uses": "Niet eetbaar: het vlees is taai en bitter. Zeer jonge, nog sappige vruchtlichamen zouden na koken eetbaar zijn, maar ze zijn van slechte kwaliteit en niet de moeite van het verzamelen waard. De zwam wordt al heel lang gebruikt. Ötzi, de ongeveer 5300 jaar oude ijsmummie uit de Ötztaler Alpen, droeg twee stukken ervan aan een riempje geregen bij zich, mogelijk als middel tegen darmwormen. Repen van de zwam werden gebruikt als aanzetriem om scheermessen te slijpen, als wondverband, als tondel en als ondergrond om insecten in collecties op te prikken.",
+      "confusion": "Jonge exemplaren kunnen lijken op Fomes fomentarius, die ook op berken groeit, maar die heeft harde, hoefvormige, concentrisch gezoneerde vruchtlichamen, bruinachtig vlees en veroorzaakt witrot. Oude, afgeplatte exemplaren lijken qua vorm enigszins op Cerioporus squamosus, die een geschubde hoed en een korte steel heeft. De gladde, bleke, ongezoneerde konzol op berk is kenmerkend.",
+      "notes": "De soort werd in 1788 door Bulliard beschreven als Boletus betulinus en stond lang bekend als Piptoporus betulinus. Moleculair onderzoek plaatste hem in 2016 in het geslacht Fomitopsis. Aangetaste berken worden bros en breken vaak af ter hoogte van de rot; in de boomverzorging geldt de zwam daarom als teken dat een boom niet meer veilig is. Oude exemplaren herbergen veel insecten en mijten.",
+      "names": [
+        "Berkezwam"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9173916/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Berkenzwam"
+      ],
+      "label": "Berkenzwam"
+    },
+    "no": {
+      "description": "En stor, lys kjuke som bare vokser på bjørk. Den er en av de vanligste kjukene overalt der det vokser bjørk, i hele den tempererte og boreale nordlige halvkule i Europa, Asia og Nord-Amerika. Fruktlegemene er ettårige, men gamle kjuker blir sittende på trærne lenge etter at de har spredt sporene sine, slik at soppen kan sees hele året.",
+      "cap": "Kjuken er 8–20 cm bred, av og til opptil 25 cm eller mer, og 2–6 cm tykk. Den begynner som en liten, rundaktig, hvitaktig knoll som bryter fram gjennom barken, og vokser deretter til en nyre- eller hovformet kjuke, puteformet oppe og flat under, festet til stammen med en innsnevret, stilkaktig basis. Overflaten er glatt, hvitaktig til gråbrun eller okerbrun og dekket av en tynn hud som kan trekkes av, og som på eldre kjuker sprekker opp i små flak. Kanten er tykk, avrundet og innbøyd, hvitaktig og stikker ut over poreflaten.",
+      "hymenium": "Undersiden har ett enkelt lag korte rør, 1,5–8 mm lange, som på gamle kjuker lett løsner fra kjøttet. Porene er svært små og runde, omtrent 3–4 per mm, først hvite, senere gråaktige til lærfargede.",
+      "stipe": "Det finnes ingen egentlig stilk. Kjuken sitter direkte på bjørkebarken, som regel med en kort, innsnevret, stilkaktig basis som ofte har en liten pukkel på oversiden.",
+      "flesh": "Kjøttet er tykt og hvitt, hos unge eksemplarer mykt, saftig og gummiaktig, senere tørt, seigt og korkaktig. Lukten er svak, soppaktig eller lett syrlig; smaken er syrlig hos unge eksemplarer og blir stadig mer bitter med alderen.",
+      "sporePrint": "Sporepulveret er hvitt. Sporene er sylindriske til svakt pølseformede, glatte og fargeløse, omtrent 4–7 × 1,3–2 µm.",
+      "habitat": "Den vokser bare på bjørk, på svekkede eller døende trær og på døde stående stammer og liggende stammer der barken fortsatt sitter på. Som parasitt trenger den vanligvis inn gjennom avbrukne greiner og sår og kan ligge i dvale i veden i årevis; når treet er svekket, gir den en kraftig brunråte med terningformede sprekker og lever videre på den døde veden. Ferske kjuker dannes fra sommer til høst (i Mellom-Europa særlig fra juli til november) og sprer sporer på sensommeren og høsten, men de gamle kjukene blir sittende på stammene gjennom vinteren.",
+      "uses": "Ikke spiselig: kjøttet er seigt og bittert. Svært unge, fortsatt saftige fruktlegemer skal være spiselige etter koking, men de er av dårlig kvalitet og ikke verdt å plukke. Soppen har vært brukt i svært lang tid. Ötzi, den omkring 5300 år gamle bremumien fra Ötztal-Alpene, bar to biter av den tredd på en reim, muligens som middel mot innvollsorm. Strimler av kjuken ble brukt som strykereim til å kvesse barberkniver, som sårbandasje, som knusk og som underlag for å nåle insekter i samlinger.",
+      "confusion": "Unge kjuker kan likne Fomes fomentarius, som også vokser på bjørk, men den har harde, hovformede, konsentrisk sonerte fruktlegemer, brunaktig kjøtt og gir hvitråte. Gamle, flate kjuker minner i formen noe om Cerioporus squamosus, som har en skjellete hatt og en kort stilk. Den glatte, lyse, usonerte kjuken på bjørk er karakteristisk.",
+      "notes": "Arten ble beskrevet av Bulliard i 1788 som Boletus betulinus og var lenge kjent som Piptoporus betulinus. Molekylære studier flyttet den i 2016 til slekten Fomitopsis. Angrepne bjørker blir sprø og brekker ofte i høyde med råten; i trepleie er soppen derfor et tegn på at et tre ikke lenger er trygt. Gamle kjuker huser mange insekter og midd.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9819973/vernacularNames",
+        "https://nn.wikipedia.org/wiki/Knivkjuke"
+      ],
+      "label": "knivkjuke"
+    },
+    "pl": {
+      "description": "Duży, jasny grzyb o owocnikach w kształcie konsol, rosnący wyłącznie na brzozach. Wszędzie tam, gdzie rosną brzozy, należy do najpospolitszych grzybów nadrzewnych, w całej umiarkowanej i borealnej strefie półkuli północnej w Europie, Azji i Ameryce Północnej. Owocniki są jednoroczne, ale stare owocniki pozostają na drzewach jeszcze długo po uwolnieniu zarodników, więc grzyb można oglądać przez cały rok.",
+      "cap": "Owocnik ma 8–20 cm szerokości, czasem do 25 cm lub więcej, i 2–6 cm grubości. Początkowo jest małą, zaokrągloną, białawą bulwą przebijającą się przez korę, potem rozrasta się w nerkowatą lub kopytowatą konsolę, poduszkowatą od góry i płaską od spodu, przyrośniętą do pnia zwężoną nasadą przypominającą trzon. Powierzchnia jest gładka, biaława do szarobrązowej lub ochrowobrązowej, pokryta cienką skórką, którą można zdjąć i która na starszych owocnikach pęka na drobne łuseczki. Brzeg jest gruby, zaokrąglony i podwinięty, białawy, wystaje ponad warstwę porów.",
+      "hymenium": "Spód ma jedną warstwę krótkich rurek o długości 1,5–8 mm, która u starych owocników łatwo oddziela się od miąższu. Pory są bardzo drobne i okrągłe, około 3–4 na mm, początkowo białe, później szarawe do płowych.",
+      "stipe": "Prawdziwego trzonu brak. Owocnik przyrasta bezpośrednio do kory brzozy, zwykle krótką, zwężoną nasadą przypominającą trzon, która często ma u góry niewielki garb.",
+      "flesh": "Miąższ jest gruby i biały, u młodych owocników miękki, soczysty i gumowaty, później suchy, twardy i korkowaty. Zapach słaby, grzybowy lub lekko kwaskowy; smak u młodych owocników kwaskowy, z wiekiem coraz bardziej gorzki.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są cylindryczne do lekko kiełbaskowatych, gładkie i bezbarwne, około 4–7 × 1,3–2 µm.",
+      "habitat": "Rośnie wyłącznie na brzozach, na osłabionych lub zamierających drzewach oraz na martwych stojących pniach i leżących kłodach, na których zachowała się kora. Jako pasożyt wnika zwykle przez złamane gałęzie i rany i może przez lata pozostawać w drewnie w stanie uśpienia; gdy drzewo osłabnie, powoduje intensywną brunatną zgniliznę kostkową i dalej żyje na martwym drewnie. Świeże owocniki powstają od lata do jesieni (w Europie Środkowej głównie od lipca do listopada) i uwalniają zarodniki pod koniec lata i jesienią, ale stare owocniki pozostają na pniach przez całą zimę.",
+      "uses": "Niejadalny: miąższ jest twardy i gorzki. Bardzo młode, jeszcze soczyste owocniki mają być jadalne po ugotowaniu, lecz są niskiej jakości i nie warto ich zbierać. Grzyb wykorzystywano od bardzo dawna. Ötzi, licząca około 5300 lat lodowcowa mumia odnaleziona w Alpach Ötztalskich, miał przy sobie dwa kawałki tego grzyba nawleczone na rzemyk, być może jako lek na pasożyty jelitowe. Paski wycięte z owocnika służyły jako pasy do ostrzenia brzytew, jako opatrunki na rany, jako hubka do rozpalania ognia oraz jako podkład do szpilkowania owadów w kolekcjach.",
+      "confusion": "Młode owocniki mogą przypominać Fomes fomentarius, który również rośnie na brzozach, ale ma twarde, kopytowate, koncentrycznie strefowane owocniki, brązowawy miąższ i powoduje białą zgniliznę. Stare, spłaszczone owocniki kształtem nieco przypominają Cerioporus squamosus, który ma łuskowaty kapelusz i krótki trzon. Gładka, jasna, niestrefowana konsola na brzozie jest charakterystyczna.",
+      "notes": "Gatunek opisał Bulliard w 1788 roku jako Boletus betulinus i przez długi czas był znany jako Piptoporus betulinus. Badania molekularne przeniosły go w 2016 roku do rodzaju Fomitopsis. Porażone brzozy stają się kruche i często łamią się na wysokości zgnilizny; w pielęgnacji drzew grzyb jest więc sygnałem, że drzewo nie jest już bezpieczne. Stare owocniki są siedliskiem wielu owadów i roztoczy.",
+      "names": [
+        "białoporek brzozowy"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Pniarek_brzozowy",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "pniarek brzozowy"
+    },
+    "pt": {
+      "description": "Um fungo grande e pálido em forma de prateleira que cresce exclusivamente em bétulas. Onde quer que cresçam bétulas, é um dos políporos mais comuns, em toda a zona temperada e boreal do hemisfério norte, na Europa, Ásia e América do Norte. Os corpos de frutificação são anuais, mas os exemplares velhos permanecem nas árvores muito tempo depois de libertarem os esporos, pelo que o fungo pode ser visto durante todo o ano.",
+      "cap": "O corpo de frutificação mede 8–20 cm de largura, por vezes até 25 cm ou mais, e 2–6 cm de espessura. Começa como uma pequena saliência arredondada e esbranquiçada que rompe a casca e depois cresce até formar uma prateleira em forma de rim ou de casco, almofadada em cima e plana em baixo, presa ao tronco por uma base estreitada semelhante a um pé. A superfície é lisa, esbranquiçada a castanho-acinzentada ou castanho-ocre, coberta por uma película fina que se pode destacar e que nos exemplares velhos estala em pequenas escamas. A margem é espessa, arredondada e enrolada para dentro, esbranquiçada, e ultrapassa a superfície dos poros.",
+      "hymenium": "A face inferior tem uma única camada de tubos curtos, com 1,5–8 mm de comprimento, que nos exemplares velhos se separa facilmente da carne. Os poros são muito pequenos e redondos, cerca de 3–4 por mm, primeiro brancos e depois acinzentados a cor de camurça.",
+      "stipe": "Não tem pé verdadeiro. O corpo de frutificação prende-se diretamente à casca da bétula, geralmente por uma base curta, estreitada e semelhante a um pé, que muitas vezes tem uma pequena bossa na parte superior.",
+      "flesh": "A carne é espessa e branca, mole, suculenta e borrachuda nos exemplares jovens, depois seca, rija e suberosa. O cheiro é fraco, a cogumelo ou ligeiramente ácido; o sabor é acídulo nos exemplares jovens e torna-se cada vez mais amargo com a idade.",
+      "sporePrint": "A esporada é branca. Os esporos são cilíndricos a ligeiramente alantoides (em forma de salsicha), lisos e incolores, com cerca de 4–7 × 1,3–2 µm.",
+      "habitat": "Cresce apenas em bétulas, em árvores enfraquecidas ou moribundas e em troncos mortos de pé e troncos caídos que ainda mantêm a casca. Como parasita, entra geralmente por ramos partidos e feridas e pode permanecer latente na madeira durante anos; quando a árvore enfraquece, provoca uma intensa podridão castanha cúbica e continua a viver na madeira morta. Os corpos de frutificação frescos formam-se do verão ao outono (na Europa Central sobretudo de julho a novembro) e libertam esporos no fim do verão e no outono, mas os exemplares velhos permanecem nos troncos durante todo o inverno.",
+      "uses": "Não comestível: a carne é rija e amarga. Os exemplares muito jovens, ainda suculentos, seriam comestíveis depois de cozinhados, mas são de má qualidade e não vale a pena apanhá-los. O fungo é usado desde tempos muito antigos. Ötzi, a múmia glaciar com cerca de 5300 anos encontrada nos Alpes de Ötztal, levava consigo dois pedaços enfiados numa correia, possivelmente como remédio contra vermes intestinais. Tiras do fungo eram usadas como assentador para afiar navalhas de barbear, como pensos para feridas, como material para acender o fogo e como suporte para alfinetar insetos em coleções.",
+      "confusion": "Os exemplares jovens podem lembrar Fomes fomentarius, que também cresce em bétulas, mas este tem corpos de frutificação duros, em forma de casco, com zonas concêntricas, carne acastanhada e provoca podridão branca. Os exemplares velhos e achatados lembram um pouco, pela forma, Cerioporus squamosus, que tem um chapéu escamoso e um pé curto. A prateleira lisa, pálida e sem zonas em bétula é característica.",
+      "notes": "A espécie foi descrita por Bulliard em 1788 como Boletus betulinus e foi durante muito tempo conhecida como Piptoporus betulinus. Estudos moleculares transferiram-na em 2016 para o género Fomitopsis. As bétulas afetadas tornam-se quebradiças e partem-se muitas vezes à altura da podridão; nos cuidados com as árvores, o fungo é por isso sinal de que uma árvore já não é segura. Os exemplares velhos albergam muitos insetos e ácaros.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mare și deschisă la culoare, în formă de consolă, care crește exclusiv pe mesteacăn. Oriunde cresc mesteceni, este una dintre cele mai comune ciuperci de pe trunchiuri, în toată zona temperată și boreală a emisferei nordice, în Europa, Asia și America de Nord. Corpurile fructifere sunt anuale, dar exemplarele vechi rămân pe copaci mult timp după eliberarea sporilor, astfel încât ciuperca poate fi văzută tot anul.",
+      "cap": "Corpul fructifer are 8–20 cm lățime, uneori până la 25 cm sau mai mult, și 2–6 cm grosime. Apare mai întâi ca un mic nodul rotunjit și albicios care străpunge scoarța, apoi crește într-o consolă în formă de rinichi sau de copită, bombată deasupra și plată dedesubt, prinsă de trunchi printr-o bază îngustată asemănătoare unui picior. Suprafața este netedă, albicioasă până la brun-cenușie sau brun-ocru, acoperită de o cuticulă subțire care se poate desprinde și care la exemplarele mai vechi crapă în solzișori mici. Marginea este groasă, rotunjită și răsfrântă, albicioasă, și depășește suprafața cu pori.",
+      "hymenium": "Fața inferioară are un singur strat de tuburi scurte, lungi de 1,5–8 mm, care la exemplarele vechi se desprinde ușor de carne. Porii sunt foarte mici și rotunzi, cam 3–4 pe mm, la început albi, apoi cenușii până la gălbui-pieloși.",
+      "stipe": "Nu are picior adevărat. Corpul fructifer este prins direct de scoarța mesteacănului, de obicei printr-o bază scurtă, îngustată, asemănătoare unui picior, care are adesea o mică cocoașă deasupra.",
+      "flesh": "Carnea este groasă și albă, la tinerețe moale, suculentă și cauciucoasă, mai târziu uscată, tare și asemănătoare plutei. Mirosul este slab, de ciupercă sau ușor acrișor; gustul este acrișor la exemplarele tinere și devine tot mai amar cu vârsta.",
+      "sporePrint": "Sporii în masă sunt albi. Sporii sunt cilindrici până la ușor în formă de cârnăcior, netezi și incolori, de circa 4–7 × 1,3–2 µm.",
+      "habitat": "Crește numai pe mesteacăn, pe arbori slăbiți sau pe cale să se usuce, precum și pe trunchiuri moarte în picioare și trunchiuri căzute care încă își păstrează scoarța. Ca parazit pătrunde de obicei prin ramuri rupte și răni și poate rămâne ani de zile latent în lemn; când arborele slăbește, produce un putregai brun cubic intens și continuă să trăiască pe lemnul mort. Corpurile fructifere proaspete se formează din vară până toamna (în Europa Centrală mai ales din iulie până în noiembrie) și eliberează sporii la sfârșitul verii și toamna, dar exemplarele vechi rămân pe trunchiuri toată iarna.",
+      "uses": "Necomestibilă: carnea este tare și amară. Exemplarele foarte tinere, încă suculente, ar fi comestibile după fierbere, dar sunt de calitate slabă și nu merită culese. Ciuperca este folosită din vremuri străvechi. Ötzi, mumia din ghețar veche de aproximativ 5300 de ani găsită în Alpii Ötztal, purta cu el două bucăți înșirate pe o curelușă, poate ca remediu împotriva viermilor intestinali. Fâșii tăiate din ciupercă au servit drept curea pentru ascuțit briciul, pansament pentru răni, material pentru aprinderea focului și suport pentru înfipt insecte în colecții.",
+      "confusion": "Exemplarele tinere pot semăna cu Fomes fomentarius, care crește tot pe mesteacăn, dar acesta are corpuri fructifere tari, în formă de copită, zonate concentric, carne brunie și produce putregai alb. Exemplarele vechi, turtite, amintesc puțin ca formă de Cerioporus squamosus, care are pălăria solzoasă și un picior scurt. Consola netedă, deschisă la culoare și fără zone, pe mesteacăn, este caracteristică.",
+      "notes": "Specia a fost descrisă de Bulliard în 1788 sub numele Boletus betulinus și a fost multă vreme cunoscută ca Piptoporus betulinus. Studiile moleculare au mutat-o în 2016 în genul Fomitopsis. Mestecenii infectați devin fragili și se rup adesea la nivelul putregaiului; în îngrijirea arborilor, ciuperca este de aceea un semn că un arbore nu mai este sigur. Exemplarele vechi adăpostesc numeroase insecte și acarieni.",
+      "names": [
+        "iască de mesteacăn",
+        "urechea mesteacănului"
+      ],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Piptoporus_betulinus"
+      ],
+      "label": "iasca mesteacănului"
+    },
+    "ru": {
+      "description": "Крупный светлый трутовик с плодовыми телами в виде копытец, растущий только на берёзе. Везде, где растут берёзы, это один из самых обычных трутовиков — во всей умеренной и бореальной зоне Северного полушария, в Европе, Азии и Северной Америке. Плодовые тела однолетние, но старые плодовые тела ещё долго остаются на деревьях после рассеивания спор, поэтому гриб можно увидеть круглый год.",
+      "cap": "Плодовое тело 8–20 cm шириной, иногда до 25 cm и более, и 2–6 cm толщиной. Сначала оно прорывается сквозь кору в виде небольшого округлого беловатого желвака, затем разрастается в почковидную или копытовидную шляпку, подушковидную сверху и плоскую снизу, прикреплённую к стволу суженным ножкообразным основанием. Поверхность гладкая, беловатая, серо-бурая или охристо-бурая, покрыта тонкой кожицей, которая легко снимается и у старых плодовых тел растрескивается на мелкие чешуйки. Край толстый, закруглённый и подвёрнутый, беловатый, нависает над пористой поверхностью.",
+      "hymenium": "Нижняя сторона несёт один слой коротких трубочек длиной 1,5–8 mm, который у старых плодовых тел легко отделяется от мякоти. Поры очень мелкие и округлые, около 3–4 на mm, сначала белые, позже сероватые или желтовато-коричневатые.",
+      "stipe": "Настоящей ножки нет. Плодовое тело прикрепляется прямо к коре берёзы, обычно коротким суженным ножкообразным основанием, на верхней стороне которого часто есть небольшой бугорок.",
+      "flesh": "Мякоть толстая и белая, в молодости мягкая, сочная и резиноватая, позже сухая, жёсткая и пробковая. Запах слабый, грибной или слегка кисловатый; вкус у молодых плодовых тел кисловатый, с возрастом становится всё более горьким.",
+      "sporePrint": "Споровый порошок белый. Споры цилиндрические или слегка колбасовидные, гладкие и бесцветные, около 4–7 × 1,3–2 µm.",
+      "habitat": "Растёт только на берёзе — на ослабленных или усыхающих деревьях, а также на мёртвых стоящих стволах и упавших стволах, на которых ещё сохранилась кора. Как паразит он обычно проникает через обломанные ветви и раны и может годами оставаться в древесине в покоящемся состоянии; когда дерево ослабевает, вызывает интенсивную бурую призматическую гниль и продолжает жить на мёртвой древесине. Свежие плодовые тела образуются с лета до осени (в Центральной Европе в основном с июля по ноябрь) и рассеивают споры в конце лета и осенью, но старые плодовые тела остаются на стволах всю зиму.",
+      "uses": "Несъедобен: мякоть жёсткая и горькая. Очень молодые, ещё сочные плодовые тела, по сообщениям, съедобны после отваривания, но они низкого качества и собирать их не стоит. Гриб используют с древнейших времён. Эци — ледниковая мумия возрастом около 5300 лет, найденная в Эцтальских Альпах, — носил с собой два кусочка этого гриба, нанизанных на ремешок, возможно, как средство от кишечных паразитов. Полоски плодового тела служили ремнём для правки бритв, повязкой на раны, трутом и подложкой для накалывания насекомых в коллекциях.",
+      "confusion": "Молодые плодовые тела могут напоминать Fomes fomentarius, который тоже растёт на берёзе, но у него твёрдые копытовидные концентрически-зональные плодовые тела, буроватая мякоть, и он вызывает белую гниль. Старые уплощённые плодовые тела по форме немного напоминают Cerioporus squamosus, у которого чешуйчатая шляпка и короткая ножка. Гладкое светлое плодовое тело без зон на берёзе характерно.",
+      "notes": "Вид описал Бюйяр в 1788 году как Boletus betulinus, и долгое время он был известен как Piptoporus betulinus. Молекулярные исследования в 2016 году перенесли его в род Fomitopsis. Поражённые берёзы становятся хрупкими и часто ломаются на уровне гнили; поэтому в уходе за деревьями этот гриб служит признаком того, что дерево больше не безопасно. В старых плодовых телах живёт множество насекомых и клещей.",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Трутовик_берёзовый",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "трутовик берёзовый"
+    },
+    "sk": {
+      "description": "Veľká, svetlá konzolovitá huba, ktorá rastie výlučne na brezách. Všade, kde rastú brezy, patrí medzi najbežnejšie choroše, v celej miernej a boreálnej časti severnej pologule v Európe, Ázii a Severnej Amerike. Plodnice sú jednoročné, ale staré plodnice zostávajú na stromoch ešte dlho po uvoľnení výtrusov, takže hubu možno vidieť celý rok.",
+      "cap": "Plodnica je 8–20 cm široká, občas až 25 cm aj viac, a 2–6 cm hrubá. Najprv vyrastá z kôry ako malá, okrúhla, belavá hľuza, potom sa rozrastie do obličkovitej alebo kopytovitej plodnice, navrchu vankúšovitej a naspodku plochej, prirastenej ku kmeňu zúženou, hlúbikovitou bázou. Povrch je hladký, belavý až sivohnedý alebo okrovohnedý, pokrytý tenkou pokožkou, ktorá sa dá stiahnuť a na starších plodniciach rozpraská na drobné šupinky. Okraj je hrubý, zaoblený a podvinutý, belavý a prečnieva cez rúrkovú vrstvu.",
+      "hymenium": "Spodná strana nesie jedinú vrstvu krátkych rúrok, dlhých 1,5–8 mm, ktorá sa na starých plodniciach ľahko oddeľuje od dužiny. Póry sú veľmi malé a okrúhle, asi 3–4 na mm, najprv biele, neskôr sivasté až kožovo hnedasté.",
+      "stipe": "Pravý hlúbik chýba. Plodnica prirastá priamo ku kôre brezy, zvyčajne krátkou, zúženou, hlúbikovitou bázou, ktorá má navrchu často malý hrbolček.",
+      "flesh": "Dužina je hrubá a biela, za mlada mäkká, šťavnatá a gumovitá, neskôr suchá, tuhá a korkovitá. Vonia slabo hubovo alebo mierne kyslasto; chuť je za mlada kyslastá a s vekom čoraz horkejšia.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú valcovité až mierne klobáskovité, hladké a bezfarebné, asi 4–7 × 1,3–2 µm.",
+      "habitat": "Rastie len na brezách, na oslabených alebo odumierajúcich stromoch a na odumretých stojacich kmeňoch i padnutých kmeňoch, ktoré majú ešte kôru. Ako parazit preniká zvyčajne cez zlomené konáre a rany a môže v dreve roky pretrvávať v pokoji; keď strom zoslabne, spôsobuje intenzívnu hnedú kockovitú hnilobu a ďalej žije na odumretom dreve. Čerstvé plodnice vznikajú od leta do jesene (v strednej Európe hlavne od júla do novembra) a výtrusy uvoľňujú koncom leta a na jeseň, staré plodnice však zostávajú na kmeňoch cez zimu.",
+      "uses": "Nejedlá: dužina je tuhá a horká. Veľmi mladé, ešte šťavnaté plodnice sú vraj po tepelnej úprave jedlé, ale majú nízku kvalitu a neoplatí sa ich zbierať. Huba sa využíva odpradávna. Ötzi, asi 5300 rokov stará ľadovcová múmia nájdená v Ötztalských Alpách, mal pri sebe dva kúsky navlečené na remienku, možno ako liek proti črevným červom. Pásiky plodnice slúžili ako obťahovací remeň na britvy, ako obväz na rany, ako trúd a ako podložka na napichovanie hmyzu v zbierkach.",
+      "confusion": "Mladé plodnice sa môžu podobať druhu Fomes fomentarius, ktorý tiež rastie na brezách, má však tvrdé, kopytovité, sústredne pásikované plodnice, hnedastú dužinu a spôsobuje bielu hnilobu. Staré, sploštené plodnice tvarom trochu pripomínajú druh Cerioporus squamosus, ktorý má šupinatý klobúk a krátky hlúbik. Hladká, svetlá, nepásikovaná plodnica na breze je charakteristická.",
+      "notes": "Druh opísal Bulliard v roku 1788 ako Boletus betulinus a dlho bol známy ako Piptoporus betulinus. Molekulárne štúdie ho v roku 2016 preradili do rodu Fomitopsis. Napadnuté brezy krehnú a často sa lámu vo výške hniloby; pri starostlivosti o stromy je preto huba znakom, že strom už nie je bezpečný. Staré plodnice hostia mnoho druhov hmyzu a roztočov.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Fomitopsis-betulina/brezovnik-obycajny/brezovnik-obecny/ID14",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=812646",
+        "https://www.gbif.org/species/9819973"
+      ],
+      "label": "brezovník obyčajný"
+    },
+    "sl": {
+      "description": "Velika, svetla goba v obliki konzole, ki raste izključno na brezi. Povsod, kjer rastejo breze, je ena najpogostejših gob na drevju, v vsem zmernem in borealnem pasu severne poloble, v Evropi, Aziji in Severni Ameriki. Trosnjaki so enoletni, vendar stari trosnjaki ostanejo na drevesih še dolgo po tem, ko so sprostili trose, zato je gobo mogoče videti vse leto.",
+      "cap": "Trosnjak je širok 8–20 cm, občasno do 25 cm ali več, in debel 2–6 cm. Najprej prodre skozi lubje kot majhna, zaobljena, belkasta gomoljica, nato zraste v ledvičasto ali kopitasto konzolo, zgoraj blazinasto in spodaj ploščato, pritrjeno na deblo z zoženim, betu podobnim dnom. Površina je gladka, belkasta do sivorjava ali okrastorjava, prekrita s tanko kožico, ki se da olupiti in ki na starejših trosnjakih razpoka v drobne luskice. Rob je debel, zaobljen in podvihan, belkast ter sega čez površino s porami.",
+      "hymenium": "Spodnja stran ima eno samo plast kratkih cevk, dolgih 1,5–8 mm, ki se pri starih trosnjakih zlahka loči od mesa. Pore so zelo drobne in okrogle, okoli 3–4 na mm, sprva bele, pozneje sivkaste do usnjeno rumenkaste.",
+      "stipe": "Pravega beta ni. Trosnjak je pritrjen neposredno na brezovo lubje, običajno s kratkim, zoženim, betu podobnim dnom, ki ima na vrhu pogosto majhno grbo.",
+      "flesh": "Meso je debelo in belo, v mladosti mehko, sočno in gumijasto, pozneje suho, žilavo in plutasto. Vonj je šibak, gobji ali rahlo kiselkast; okus je v mladosti kiselkast, s starostjo pa vse bolj grenak.",
+      "sporePrint": "Trosni prah je bel. Trosi so valjasti do rahlo klobasasti, gladki in brezbarvni, okoli 4–7 × 1,3–2 µm.",
+      "habitat": "Raste samo na brezi, na oslabelih ali odmirajočih drevesih ter na odmrlih stoječih in podrtih deblih, ki imajo še lubje. Kot zajedavec običajno vdre skozi odlomljene veje in rane ter lahko leta miruje v lesu; ko drevo oslabi, povzroči močno rjavo kockasto trohnobo in živi naprej na odmrlem lesu. Sveži trosnjaki se razvijejo od poletja do jeseni (v srednji Evropi predvsem od julija do novembra) in trose sproščajo pozno poleti in jeseni, stari trosnjaki pa ostanejo na deblih vso zimo.",
+      "uses": "Ni užitna: meso je žilavo in grenko. Zelo mladi, še sočni trosnjaki naj bi bili po kuhanju užitni, vendar so slabe kakovosti in jih ni vredno nabirati. Gobo uporabljajo že od davnine. Ötzi, približno 5300 let stara ledeniška mumija, najdena v Ötztalskih Alpah, je imel pri sebi dva kosa, nanizana na jermenček, morda kot zdravilo proti črevesnim zajedavcem. Trakovi, izrezani iz trosnjaka, so služili kot jermen za brušenje britev, kot obveza za rane, kot material za netenje ognja in kot podlaga za nabadanje žuželk v zbirkah.",
+      "confusion": "Mladi trosnjaki so lahko podobni vrsti Fomes fomentarius, ki prav tako raste na brezi, vendar ima ta trde, kopitaste, koncentrično pasaste trosnjake, rjavkasto meso in povzroča belo trohnobo. Stari, sploščeni trosnjaki po obliki nekoliko spominjajo na Cerioporus squamosus, ki ima luskast klobuk in kratek bet. Gladka, svetla konzola brez pasov na brezi je značilna.",
+      "notes": "Vrsto je leta 1788 opisal Bulliard kot Boletus betulinus, dolgo pa je bila znana kot Piptoporus betulinus. Molekularne raziskave so jo leta 2016 premestile v rod Fomitopsis. Okužene breze postanejo krhke in se pogosto prelomijo v višini trohnobe; pri negi dreves je goba zato znak, da drevo ni več varno. V starih trosnjakih živi veliko žuželk in pršic.",
+      "names": [
+        "brezova odpadljivka"
+      ],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Brezova_kresilača",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "brezova kresilača"
+    },
+    "sr": {
+      "description": "Крупна, светла гљива у облику конзоле која расте искључиво на брези. Свуда где расту брезе, једна је од најчешћих гљива на дрвећу — у целом умереном и бореалном појасу северне хемисфере, у Европи, Азији и Северној Америци. Плодна тела су једногодишња, али стара плодна тела остају на стаблима још дуго након што отпусте споре, па се гљива може видети током целе године.",
+      "cap": "Плодно тело је широко 8–20 cm, понекад до 25 cm или више, и дебело 2–6 cm. Најпре пробија кору као мала, заобљена, беличаста кврга, а затим израсте у бубрежасту или копитасту конзолу, јастучасту одозго и равну одоздо, причвршћену за стабло суженом основом налик на дршку. Површина је глатка, беличаста до сивосмеђа или окерсмеђа, покривена танком кожицом која се може огулити и која на старијим плодним телима пуца у ситне љуспице. Обод је дебео, заобљен и подвијен, беличаст, и надвисује порозну површину.",
+      "hymenium": "Доња страна има један слој кратких цевчица, дугих 1,5–8 mm, који се код старих плодних тела лако одваја од меса. Поре су веома ситне и округле, око 3–4 на mm, најпре беле, касније сивкасте до жућкастосмеђе.",
+      "stipe": "Праве дршке нема. Плодно тело је причвршћено директно за кору брезе, обично кратком, суженом основом налик на дршку, која на врху често има малу избочину.",
+      "flesh": "Месо је дебело и бело, у младости меко, сочно и гумасто, касније суво, жилаво и плутасто. Мирис је слаб, на гљиве или благо киселкаст; укус је у младости киселкаст, а са старошћу постаје све горчи.",
+      "sporePrint": "Отисак спора је бео. Споре су ваљкасте до благо кобасичасте, глатке и безбојне, око 4–7 × 1,3–2 µm.",
+      "habitat": "Расте само на брези, на ослабљеним или угинулим стаблима, као и на мртвим усправним и обореним стаблима на којима је кора још очувана. Као паразит обично продире кроз поломљене гране и ране и може годинама да мирује у дрвету; када стабло ослаби, изазива интензивну мрку коцкасту трулеж и наставља да живи на мртвом дрвету. Свежа плодна тела развијају се од лета до јесени (у средњој Европи углавном од јула до новембра) и отпуштају споре крајем лета и у јесен, али стара плодна тела остају на стаблима целе зиме.",
+      "uses": "Није јестива: месо је жилаво и горко. Веома млада, још сочна плодна тела наводно су јестива после кувања, али су лошег квалитета и не исплати се брати их. Гљива се користи од давнина. Еци, око 5300 година стара ледничка мумија пронађена у Ецталским Алпима, носио је са собом два комада нанизана на каиш, можда као лек против цревних глиста. Траке исечене из плодног тела служиле су као каиш за оштрење бријача, као завој за ране, као материјал за потпалу ватре и као подлога за прибадање инсеката у збиркама.",
+      "confusion": "Млада плодна тела могу подсећати на врсту Fomes fomentarius, која такође расте на брези, али има тврда, копитаста, концентрично зонирана плодна тела, смеђкасто месо и изазива белу трулеж. Стара, спљоштена плодна тела обликом помало подсећају на Cerioporus squamosus, који има љуспаст шешир и кратку дршку. Глатка, светла конзола без зона на брези је карактеристична.",
+      "notes": "Врсту је описао Бијар 1788. године као Boletus betulinus, а дуго је била позната као Piptoporus betulinus. Молекуларна истраживања су је 2016. године преместила у род Fomitopsis. Заражене брезе постају крте и често се ломе у висини трулежи; у нези дрвећа гљива је зато знак да стабло више није безбедно. У старим плодним телима живи много инсеката и гриња.",
+      "names": [
+        "брезов труд"
+      ],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/Брезова_губа",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "брезова губа"
+    },
+    "sv": {
+      "description": "En stor, ljus ticka som bara växer på björk. Den hör till de vanligaste tickorna överallt där det finns björk, i hela den tempererade och boreala norra hemisfären i Europa, Asien och Nordamerika. Fruktkropparna är ettåriga, men gamla tickor sitter kvar på träden långt efter att de har spridit sina sporer, så svampen kan ses året runt.",
+      "cap": "Tickan är 8–20 cm bred, ibland upp till 25 cm eller mer, och 2–6 cm tjock. Den börjar som en liten, rundad, vitaktig knöl som bryter fram ur barken och växer sedan ut till en njur- eller hovformad ticka, kuddformad ovan och plan under, fäst vid stammen med en avsmalnande, foterliknande bas. Ytan är slät, vitaktig till gråbrun eller ockrabrun och täckt av en tunn hud som går att dra av och som på äldre tickor spricker upp i små flagor. Kanten är tjock, rundad och inböjd, vitaktig och skjuter ut över porytan.",
+      "hymenium": "Undersidan har ett enda lager korta rör, 1,5–8 mm långa, som på gamla tickor lätt lossnar från köttet. Porerna är mycket små och runda, ungefär 3–4 per mm, först vita, senare gråaktiga till läderfärgade.",
+      "stipe": "Någon egentlig fot finns inte. Tickan sitter direkt på björkbarken, oftast med en kort, avsmalnande, fotliknande bas som ofta har en liten puckel ovanpå.",
+      "flesh": "Köttet är tjockt och vitt, hos unga exemplar mjukt, saftigt och gummiartat, senare torrt, segt och korkartat. Lukten är svag, svampaktig eller lätt syrlig; smaken är syrlig hos unga exemplar och blir allt bittrare med åldern.",
+      "sporePrint": "Sporpulvret är vitt. Sporerna är cylindriska till svagt korvformade, släta och färglösa, ungefär 4–7 × 1,3–2 µm.",
+      "habitat": "Den växer bara på björk, på försvagade eller döende träd och på döda stående stammar och kullfallna stammar där barken fortfarande sitter kvar. Som parasit tränger den vanligen in genom avbrutna grenar och sår och kan ligga vilande i veden i flera år; när trädet har försvagats orsakar den en kraftig brunröta med kubisk sprickbildning och lever vidare på den döda veden. Färska tickor bildas från sommar till höst (i Centraleuropa främst juli till november) och sprider sporer på sensommaren och hösten, men de gamla tickorna sitter kvar på stammarna hela vintern.",
+      "uses": "Inte ätlig: köttet är segt och beskt. Mycket unga, fortfarande saftiga fruktkroppar uppges vara ätliga efter tillagning, men de är av dålig kvalitet och inte värda att plocka. Svampen har använts sedan mycket länge. Ötzi, den omkring 5300 år gamla glaciärmumien från Ötztalalperna, bar två bitar av den uppträdda på en rem, möjligen som medel mot inälvsmask. Remsor av tickan användes som strigel för att bryna rakknivar, som sårförband, som fnöske och som underlag för att nåla upp insekter i samlingar.",
+      "confusion": "Unga tickor kan likna Fomes fomentarius, som också växer på björk, men den har hårda, hovformade, koncentriskt zonerade fruktkroppar, brunaktigt kött och orsakar vitröta. Gamla, tillplattade tickor påminner till formen något om Cerioporus squamosus, som har en fjällig hatt och en kort fot. Den släta, ljusa, ozonerade tickan på björk är karakteristisk.",
+      "notes": "Arten beskrevs av Bulliard 1788 som Boletus betulinus och var länge känd som Piptoporus betulinus. Molekylära studier flyttade den 2016 till släktet Fomitopsis. Angripna björkar blir sköra och bryts ofta av i höjd med rötan; inom trädvård är svampen därför ett tecken på att ett träd inte längre är säkert. Gamla tickor hyser många insekter och kvalster.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9819973/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Björkticka"
+      ],
+      "label": "björkticka"
+    },
+    "tr": {
+      "description": "Yalnızca huş ağaçlarında yetişen, büyük ve açık renkli, raf biçimli bir mantar. Huşların yetiştiği her yerde en yaygın ağaç mantarlarından biridir; Kuzey Yarımküre’nin tüm ılıman ve boreal kuşağında, Avrupa, Asya ve Kuzey Amerika’da bulunur. Meyve gövdeleri tek yıllıktır, ancak yaşlı gövdeler sporlarını saldıktan sonra da uzun süre ağaçlarda kalır; bu yüzden mantar yıl boyunca görülebilir.",
+      "cap": "Meyve gövdesi 8–20 cm genişliğinde, bazen 25 cm veya daha fazla, ve 2–6 cm kalınlığındadır. Önce kabuğu yararak çıkan küçük, yuvarlak, beyazımsı bir yumru olarak başlar, ardından üstü yastık gibi kabarık, altı düz, böbrek ya da toynak biçiminde bir rafa dönüşür ve gövdeye daralmış, sapa benzeyen bir tabanla tutunur. Yüzey düzgün, beyazımsıdan gri kahverengiye veya okra kahverengiye kadardır; soyulabilen ince bir zarla kaplıdır ve bu zar yaşlı örneklerde küçük pullar halinde çatlar. Kenar kalın, yuvarlak ve içe kıvrık, beyazımsıdır ve gözenekli yüzeyin üzerine taşar.",
+      "hymenium": "Alt yüzde 1,5–8 mm uzunluğunda tek bir kısa borucuk katmanı vardır; bu katman yaşlı örneklerde etten kolayca ayrılır. Gözenekler çok küçük ve yuvarlaktır, milimetrede yaklaşık 3–4 tane, önce beyaz, sonra grimsi ile devetüyü arasında renktedir.",
+      "stipe": "Gerçek bir sapı yoktur. Meyve gövdesi doğrudan huş kabuğuna tutunur; genellikle kısa, daralmış, sapa benzeyen bir tabanla bağlanır ve bu tabanın üstünde çoğu zaman küçük bir tümsek bulunur.",
+      "flesh": "Et kalın ve beyazdır; gençken yumuşak, sulu ve lastiğimsi, sonra kuru, sert ve mantarımsı (tıpa gibi) olur. Kokusu zayıf, mantar kokusunda ya da hafif ekşimsidir; tadı gençken ekşimsidir ve yaşla giderek acılaşır.",
+      "sporePrint": "Spor izi beyazdır. Sporlar silindirik ile hafif sosis biçimli arasında, düz ve renksizdir, yaklaşık 4–7 × 1,3–2 µm.",
+      "habitat": "Yalnızca huş ağaçlarında, zayıflamış ya da ölmekte olan ağaçlarda ve kabuğu hâlâ yerinde olan ayakta ölü gövdelerde ve devrilmiş gövdelerde yetişir. Parazit olarak genellikle kırık dallardan ve yaralardan girer ve odunda yıllarca uykuda kalabilir; ağaç zayıfladığında yoğun bir kahverengi küp çürüklüğüne yol açar ve ölü odunda yaşamayı sürdürür. Taze meyve gövdeleri yazdan sonbahara kadar oluşur (Orta Avrupa’da çoğunlukla temmuzdan kasıma) ve sporlarını yaz sonunda ve sonbaharda salar, ancak yaşlı gövdeler kış boyunca ağaç gövdelerinde kalır.",
+      "uses": "Yenmez: eti sert ve acıdır. Çok genç, hâlâ sulu meyve gövdelerinin pişirildikten sonra yenebildiği bildirilir, ancak bunlar düşük kalitelidir ve toplamaya değmez. Mantar çok eski zamanlardan beri kullanılır. Ötztal Alpleri’nde bulunan yaklaşık 5300 yıllık buzul mumyası Ötzi, bu mantarın bir kayışa dizilmiş iki parçasını yanında taşıyordu; bunlar belki bağırsak kurtlarına karşı bir ilaçtı. Mantardan kesilen şeritler ustura bilemek için kayış, yara sargısı, ateş yakmak için kav ve koleksiyonlarda böcekleri iğnelemek için altlık olarak kullanılmıştır.",
+      "confusion": "Genç örnekler, yine huş ağaçlarında yetişen Fomes fomentarius türüne benzeyebilir; ancak bu türün meyve gövdeleri sert, toynak biçimli ve eşmerkezli kuşaklıdır, eti kahverengimsidir ve beyaz çürüklüğe yol açar. Yaşlı, yassılaşmış örnekler biçim olarak biraz Cerioporus squamosus türünü andırır; onun şapkası pullu ve sapı kısadır. Huş üzerindeki düzgün, açık renkli, kuşaksız raf karakteristiktir.",
+      "notes": "Tür, 1788’de Bulliard tarafından Boletus betulinus adıyla tanımlanmış ve uzun süre Piptoporus betulinus olarak bilinmiştir. Moleküler çalışmalar onu 2016’da Fomitopsis cinsine aktarmıştır. Enfekte huşlar kırılganlaşır ve çoğu zaman çürüklüğün bulunduğu yükseklikten kırılır; bu nedenle ağaç bakımında mantar, bir ağacın artık güvenli olmadığının işaretidir. Yaşlı gövdeler birçok böcek ve akara ev sahipliği yapar.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий світлий трутовий гриб із плодовими тілами у вигляді консолей, що росте лише на березі. Скрізь, де ростуть берези, це один із найпоширеніших трутовиків — у всій помірній і бореальній зоні Північної півкулі, в Європі, Азії та Північній Америці. Плодові тіла однорічні, але старі плодові тіла ще довго залишаються на деревах після розсіювання спор, тож гриб можна побачити цілий рік.",
+      "cap": "Плодове тіло 8–20 cm завширшки, іноді до 25 cm і більше, і 2–6 cm завтовшки. Спершу воно проривається крізь кору у вигляді невеликого округлого білуватого жовна, потім розростається в нирко- або копитоподібну консоль, подушкоподібну зверху і пласку знизу, прикріплену до стовбура звуженою ніжкоподібною основою. Поверхня гладенька, білувата, сіро-бура або вохряно-бура, вкрита тонкою шкірочкою, яку можна зняти і яка на старших плодових тілах розтріскується на дрібні лусочки. Край товстий, заокруглений і підгорнутий, білуватий, нависає над пористою поверхнею.",
+      "hymenium": "Нижній бік має один шар коротких трубочок завдовжки 1,5–8 mm, який у старих плодових тіл легко відокремлюється від м’якуша. Пори дуже дрібні й округлі, близько 3–4 на mm, спершу білі, згодом сіруваті або жовтувато-бурі.",
+      "stipe": "Справжньої ніжки немає. Плодове тіло прикріплюється безпосередньо до кори берези, зазвичай короткою звуженою ніжкоподібною основою, на верхньому боці якої часто є невеликий горбок.",
+      "flesh": "М’якуш товстий і білий, у молодості м’який, соковитий і гумоподібний, згодом сухий, жорсткий і корковий. Запах слабкий, грибний або злегка кислуватий; смак у молодих плодових тіл кислуватий, з віком стає дедалі гіркішим.",
+      "sporePrint": "Спорова маса біла. Спори циліндричні або злегка ковбасоподібні, гладенькі й безбарвні, близько 4–7 × 1,3–2 µm.",
+      "habitat": "Росте лише на березі — на ослаблених або всихаючих деревах, а також на мертвих стоячих стовбурах і повалених стовбурах, на яких ще збереглася кора. Як паразит зазвичай проникає через обламані гілки й рани і може роками перебувати в деревині у стані спокою; коли дерево слабшає, спричиняє інтенсивну буру призматичну гниль і далі живе на мертвій деревині. Свіжі плодові тіла утворюються від літа до осені (у Центральній Європі переважно з липня до листопада) і розсіюють спори наприкінці літа та восени, але старі плодові тіла залишаються на стовбурах усю зиму.",
+      "uses": "Неїстівний: м’якуш жорсткий і гіркий. Дуже молоді, ще соковиті плодові тіла, за повідомленнями, їстівні після варіння, але вони низької якості й не варті збирання. Гриб використовують із давніх-давен. Еці — льодовикова мумія віком близько 5300 років, знайдена в Ецтальських Альпах, — мав при собі два шматочки цього гриба, нанизані на ремінець, можливо, як засіб від кишкових глистів. Смужки плодового тіла слугували ременем для правлення бритв, пов’язкою на рани, трутом і підкладкою для наколювання комах у колекціях.",
+      "confusion": "Молоді плодові тіла можуть нагадувати Fomes fomentarius, який теж росте на березі, але має тверді копитоподібні концентрично-зональні плодові тіла, буруватий м’якуш і спричиняє білу гниль. Старі сплощені плодові тіла формою трохи нагадують Cerioporus squamosus, який має лускату шапинку й коротку ніжку. Гладеньке світле плодове тіло без зон на березі є характерним.",
+      "notes": "Вид описав Бюйяр у 1788 році як Boletus betulinus, і тривалий час він був відомий як Piptoporus betulinus. Молекулярні дослідження у 2016 році перенесли його до роду Fomitopsis. Уражені берези стають крихкими й часто ламаються на рівні гнилі; тож у догляді за деревами цей гриб є ознакою того, що дерево вже не безпечне. У старих плодових тілах живе багато комах і кліщів.",
+      "names": [
+        "трутовик березовий"
+      ],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Fomitopsis_betulina",
+        "https://api.gbif.org/v1/species/9819973/vernacularNames"
+      ],
+      "label": "губка березова"
+    },
+    "zh": {
+      "description": "一種大型、色淺的層架狀真菌，只生長在樺樹上。凡有樺樹生長之處，它都是最常見的多孔菌之一，遍布北半球溫帶及寒溫帶的歐洲、亞洲和北美洲。子實體為一年生，但老的子實體在釋放孢子後仍會長時間留在樹上，因此全年都能見到。",
+      "cap": "子實體寬8–20 cm，偶可達25 cm或更大，厚2–6 cm。起初是從樹皮中冒出的小而圓、帶白色的瘤狀物，之後長成腎形或馬蹄形的層架，上面呈墊狀隆起，下面平坦，以收窄、似柄的基部附著於樹幹。表面平滑，白色至灰褐色或赭褐色，覆有一層可剝離的薄表皮，老的子實體表皮會龜裂成細小鱗片。邊緣厚、圓鈍而內卷，帶白色，突出於孔面之上。",
+      "hymenium": "下面只有一層短菌管，長1.5–8 mm，老的子實體中菌管層容易與菌肉分離。管口極小而圓，每毫米約3–4個，初為白色，後變灰白色至淡黃褐色。",
+      "stipe": "沒有真正的菌柄。子實體直接附著在樺樹皮上，通常以短而收窄、似柄的基部相連，基部上方常有一個小隆起。",
+      "flesh": "菌肉厚，白色，幼時柔軟多汁、富有彈性，後變乾燥、堅韌，呈木栓質。氣味微弱，帶菇味或略帶酸味；味道幼時微酸，隨年齡增長越來越苦。",
+      "sporePrint": "孢子印白色。孢子圓柱形至稍呈臘腸形，平滑，無色，約4–7 × 1.3–2 µm。",
+      "habitat": "只生長在樺樹上，見於衰弱或垂死的樹木，以及仍保留樹皮的直立枯幹和倒木上。作為寄生菌，它通常從折斷的枝條和傷口侵入，並可在木材中潛伏多年；樹木衰弱後，引起強烈的褐色立方狀腐朽（褐腐），樹死後仍在枯木上繼續生活。新鮮子實體在夏季至秋季形成（在中歐主要為7月至11月），於夏末和秋季釋放孢子，但老的子實體整個冬季都留在樹幹上。",
+      "uses": "不可食用：菌肉堅韌而苦。據說非常幼嫩、仍多汁的子實體煮熟後可食，但品質差，不值得採集。這種真菌自古即被人利用。在奧茨塔爾阿爾卑斯山發現、距今約5300年的冰川木乃伊「奧茨」身上帶著兩塊用細繩穿起的這種真菌，可能用作驅除腸道寄生蟲的藥物。從子實體切下的條帶曾用作磨剃刀的皮帶、傷口敷料、引火的火絨，以及在昆蟲收藏中插針固定標本的墊材。",
+      "confusion": "幼小的子實體可能與同樣生長在樺樹上的Fomes fomentarius相似，但後者子實體堅硬、呈馬蹄形、有同心環紋，菌肉帶褐色，並引起白腐。老而扁平的子實體形狀略似Cerioporus squamosus，但後者菌蓋有鱗片，並有短柄。樺樹上平滑、色淺、無環紋的層架狀子實體很有特徵。",
+      "notes": "本種於1788年由比利亞爾以Boletus betulinus之名描述，長期被稱為Piptoporus betulinus。分子研究於2016年將其移入Fomitopsis屬。受感染的樺樹會變脆，常在腐朽處的高度折斷，因此在樹木養護中，這種真菌是樹木已不再安全的徵兆。老的子實體中棲息著許多昆蟲和蟎類。",
+      "names": [
+        "白樺菌菇"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9819973/vernacularNames",
+        "https://zh.wikipedia.org/wiki/白樺菌菇"
+      ],
+      "label": "樺擬層孔菌"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t57u \"signature Gemini\"). The supplied file \"Fomitopsis betulina.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing faint cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb1.webp",
+      "author": "richp_uk",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/252932120"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb2.webp",
+      "author": "Niko Ioannidis",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/235196602"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb3.webp",
+      "author": "Stephen James McWilliam",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/165671770"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb4.webp",
+      "author": "Vanya",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/166870200"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb5.webp",
+      "author": "Cilla Moerman",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/52105562"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/Fomitopsis_betulina@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing faint cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb1.webp",
+      "author": "richp_uk",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/252932120"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb2.webp",
+      "author": "Niko Ioannidis",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/235196602"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb3.webp",
+      "author": "Stephen James McWilliam",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/165671770"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb4.webp",
+      "author": "Vanya",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/166870200"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Polyporales/Fomitopsidaceae/Fomitopsis_betulina/fb5.webp",
+      "author": "Cilla Moerman",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/52105562"
+    }
+  ],
+  "synonyms": [
+    "Boletus betulinus",
+    "Suillus betulinus",
+    "Polyporus betulinus",
+    "Piptoporus betulinus",
+    "Placodes betulinus",
+    "Fomes betulinus",
+    "Ungulina betulina",
+    "Ungularia betulina",
+    "Agarico-pulpa pseudoagaricon",
+    "Daedalea pseudoagaricon",
+    "Agaricum conchatum"
+  ],
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "reserved": false,
+  "id": 168,
+  "added": "2026-11-14",
+  "citation": "in Han, Chen, Shen, Song, Vlasák, Dai & Cui, Fungal Diversity 80: 359 (2016)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 23,
+        "box": [
+          239,
+          340,
+          6,
+          4
+        ],
+        "medianContrast": 2.62
+      }
+    ],
+    "holeRule": "enclosed near-paper regions (median contrast<7) cleared except inside KEEP boxes",
+    "keepBoxes": [
+      [
+        280,
+        225,
+        815,
+        965
+      ],
+      [
+        100,
+        470,
+        405,
+        760
+      ],
+      [
+        88,
+        800,
+        440,
+        1072
+      ]
+    ],
+    "keptEnclosedRegions": [
+      {
+        "area": 118,
+        "box": [
+          519,
+          252,
+          10,
+          16
+        ]
+      },
+      {
+        "area": 120,
+        "box": [
+          515,
+          295,
+          9,
+          15
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          517,
+          314,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 62,
+        "box": [
+          584,
+          418,
+          10,
+          7
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          437,
+          540,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 137,
+        "box": [
+          477,
+          542,
+          22,
+          7
+        ]
+      },
+      {
+        "area": 81,
+        "box": [
+          728,
+          623,
+          13,
+          8
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          689,
+          624,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 89,
+        "box": [
+          711,
+          627,
+          16,
+          6
+        ]
+      },
+      {
+        "area": 52,
+        "box": [
+          143,
+          637,
+          6,
+          9
+        ]
+      },
+      {
+        "area": 117,
+        "box": [
+          502,
+          664,
+          16,
+          9
+        ]
+      },
+      {
+        "area": 331,
+        "box": [
+          192,
+          666,
+          37,
+          15
+        ]
+      },
+      {
+        "area": 255,
+        "box": [
+          164,
+          668,
+          26,
+          15
+        ]
+      },
+      {
+        "area": 1166,
+        "box": [
+          248,
+          680,
+          111,
+          52
+        ]
+      },
+      {
+        "area": 93,
+        "box": [
+          504,
+          680,
+          11,
+          9
+        ]
+      },
+      {
+        "area": 300,
+        "box": [
+          528,
+          680,
+          19,
+          27
+        ]
+      },
+      {
+        "area": 80,
+        "box": [
+          152,
+          686,
+          8,
+          10
+        ]
+      },
+      {
+        "area": 52,
+        "box": [
+          152,
+          697,
+          8,
+          7
+        ]
+      },
+      {
+        "area": 35,
+        "box": [
+          354,
+          733,
+          5,
+          7
+        ]
+      },
+      {
+        "area": 49,
+        "box": [
+          586,
+          738,
+          8,
+          7
+        ]
+      },
+      {
+        "area": 30,
+        "box": [
+          356,
+          748,
+          6,
+          5
+        ]
+      },
+      {
+        "area": 210,
+        "box": [
+          468,
+          763,
+          17,
+          23
+        ]
+      },
+      {
+        "area": 68,
+        "box": [
+          594,
+          801,
+          12,
+          7
+        ]
+      },
+      {
+        "area": 77,
+        "box": [
+          272,
+          828,
+          10,
+          9
+        ]
+      },
+      {
+        "area": 53,
+        "box": [
+          311,
+          832,
+          9,
+          6
+        ]
+      },
+      {
+        "area": 64,
+        "box": [
+          280,
+          840,
+          9,
+          8
+        ]
+      },
+      {
+        "area": 199,
+        "box": [
+          280,
+          848,
+          24,
+          19
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          120,
+          855,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 123,
+        "box": [
+          593,
+          867,
+          10,
+          18
+        ]
+      },
+      {
+        "area": 66,
+        "box": [
+          504,
+          870,
+          8,
+          9
+        ]
+      },
+      {
+        "area": 30,
+        "box": [
+          533,
+          872,
+          5,
+          6
+        ]
+      },
+      {
+        "area": 64,
+        "box": [
+          514,
+          888,
+          9,
+          8
+        ]
+      },
+      {
+        "area": 53,
+        "box": [
+          503,
+          890,
+          9,
+          6
+        ]
+      },
+      {
+        "area": 48,
+        "box": [
+          530,
+          890,
+          8,
+          6
+        ]
+      },
+      {
+        "area": 628,
+        "box": [
+          503,
+          904,
+          41,
+          30
+        ]
+      },
+      {
+        "area": 40,
+        "box": [
+          103,
+          912,
+          5,
+          8
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          592,
+          921,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 59,
+        "box": [
+          633,
+          925,
+          7,
+          9
+        ]
+      },
+      {
+        "area": 81,
+        "box": [
+          112,
+          935,
+          8,
+          13
+        ]
+      },
+      {
+        "area": 40,
+        "box": [
+          547,
+          938,
+          7,
+          6
+        ]
+      },
+      {
+        "area": 303,
+        "box": [
+          560,
+          943,
+          32,
+          11
+        ]
+      },
+      {
+        "area": 80,
+        "box": [
+          129,
+          966,
+          8,
+          11
+        ]
+      },
+      {
+        "area": 42,
+        "box": [
+          141,
+          986,
+          8,
+          6
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          157,
+          1000,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          167,
+          1011,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 95,
+        "box": [
+          176,
+          1018,
+          14,
+          11
+        ]
+      },
+      {
+        "area": 135,
+        "box": [
+          330,
+          1032,
+          20,
+          11
+        ]
+      },
+      {
+        "area": 257,
+        "box": [
+          297,
+          1040,
+          32,
+          11
+        ]
+      }
+    ],
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 5535,
+    "paperResidualP995": 2.3536563524563645,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Fomitopsis betulina.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "8b2f8add121309d33249d29e28861676c9eaee3fa95a2608f91b4db3fc281050",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      88,
+      87,
+      812,
+      1105
+    ],
+    "uniformScale": 1.9337016574585635,
+    "placement": [
+      100,
+      215
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1969
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 701249,
+    "opaquePixels": 350713,
+    "partialAlphaPixels": 23238,
+    "signatureBox": [
+      734,
+      1078,
+      796,
+      1108
+    ],
+    "signatureComponents": 6,
+    "signaturePixels": 235,
+    "preservedObjects": [
+      "centre right: a section of white birch trunk with black lenticel marks, peeling bark strips and dark cracks",
+      "two large, overlapping hoof- to shelf-shaped brackets on the trunk: pale grey-brown caps with patches of peeling skin and a thick, rounded, whitish incurved margin",
+      "a young, rounded, buff fruit body (knob stage) bulging from the trunk below the brackets",
+      "left, detached: a white vertical (longitudinal) section of a bracket attached to a strip of bark, showing white flesh over a short tube layer",
+      "lower left, detached: a bracket seen from below showing the fine whitish pore surface inside the rolled margin, with a cracked brown cap edge at the top",
+      "upper left: a birch twig with three serrated leaves and two hanging catkins",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t57u; IDs 154-167 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 67354.0,
+        "box": [
+          89,
+          808,
+          351,
+          265
+        ],
+        "medianContrast": 17.59101149123639
+      },
+      {
+        "area": 51554.5,
+        "box": [
+          104,
+          480,
+          304,
+          280
+        ],
+        "medianContrast": 11.994614941768013
+      },
+      {
+        "area": 216437.0,
+        "box": [
+          287,
+          232,
+          524,
+          728
+        ],
+        "medianContrast": 42.0451806909775
+      },
+      {
+        "area": 27638.5,
+        "box": [
+          136,
+          88,
+          348,
+          332
+        ],
+        "medianContrast": 54.02041054717679
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection of composition_lossless.png, transparency_checker.png, original_vs_composition.jpg and art_fullsize_inspection.png: all drawn objects kept with real alpha on the standard background at one uniform upscale (x1.934 from the 896x1200 JPEG source; some JPEG softness at full size). Kept as drawn: the birch trunk with two brackets and the young knob, the white vertical section on its bark strip, the pore-surface view, the birch twig with leaves and catkins, and the faint cursive \"Gemini\" mark (bottom right). White bark, white flesh and the pale pore surface stay fully opaque (KEEP boxes); enclosed paper gaps between leaves, catkins and twig were cleared; no drawn area removed; no repainting, no stretching.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t57u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as IDs 154-167. Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right in the 896x1200 source",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG/JFIF with EXIF (software Picasa) and no source alpha, the same pattern as earlier owner-supplied Gemini art",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform cream paper with a soft darker vignette at the edges"
+      ],
+      "anatomyCaveat": "Anatomy broadly matches F. betulina (smooth, pale grey-brown hoof- to kidney-shaped brackets with a thick, rounded, incurved whitish margin, growing only on birch; white flesh; fine white pore surface; a young knob-like fruit body). Caveats: the vertical section shows the tube layer as coarse, comb-like vertical lines (real tubes are a short, fine, even layer and the pores are tiny, 3-4 per mm); the brackets are drawn sitting broadly on the trunk with no hint of the short, narrowed stem-like attachment that many specimens have; the peeling cap skin is drawn as large torn flakes on fresh-looking brackets (the skin usually cracks and flakes on older brackets); the birch twig with catkins and leaves is a decorative host prop (catkins and green leaves would not occur with the autumn brackets in exactly this way). AI-like art; rights unverified.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "officialFiles": [
+      {
+        "path": "media/Fomitopsis_betulina@1600.webp",
+        "bytes": 315872,
+        "sha256": "af1162a1afd8afeb85c8b4c5b6a9eb6f81985e35943d10792a8da85b3d40783b"
+      },
+      {
+        "path": "media/Fomitopsis_betulina@400.webp",
+        "bytes": 39458,
+        "sha256": "92224ffe9b352bc4253694551745f6dca3049533cc1f6e34d03871a9c6d88e9e"
       }
     ]
   }
