@@ -517,6 +517,30 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356530",
+          detail: "356530"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/3200"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5954958",
+          detail: "5954958"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Boletus_edulis"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -1364,6 +1388,41 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=161267",
+          detail: "161267"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=17045",
+          detail: "17045"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/name/Amanita%20muscaria"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8168319",
+          detail: "8168319"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-muscaria.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_muscaria"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -2368,6 +2427,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=200345",
+          detail: "200345"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=17236",
+          detail: "17236"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/200345"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5249504",
+          detail: "5249504"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/cantharellus-cibarius.php"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/chanterelle-3/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Cantharellus_cibarius"
+        },
+        {
+          group: "text",
+          name: "britmycolsoc.org.uk",
+          href: "https://www.britmycolsoc.org.uk/english-names.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -3389,6 +3493,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=200521",
+          detail: "200521"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=17175",
+          detail: "17175"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/200521"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5954691",
+          detail: "5954691"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/boletus-reticulatus.php"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/summer-bolete/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Boletus_reticulatus"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090240/222968893"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -4432,6 +4581,52 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=287857",
+          detail: "287857"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=150116",
+          detail: "150116"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=18007",
+          detail: "18007"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/287857"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8914748",
+          detail: "8914748"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/macrolepiota-procera.php"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/parasol/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Macrolepiota_procera"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -5450,6 +5645,46 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=178962",
+          detail: "178962"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=178962",
+          detail: "178962"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/178962"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5240325",
+          detail: "5240325"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-phalloides.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_phalloides"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/amanita_phalloides.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -6402,6 +6637,41 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=156565",
+          detail: "156565"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=156565",
+          detail: "156565"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/156565"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8961574",
+          detail: "8961574"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-pantherina.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_pantherina"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -7338,6 +7608,58 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=247978",
+          detail: "247978"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=142968",
+          detail: "142968"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=3268",
+          detail: "3268"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=247978",
+          detail: "247978"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/247978"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2594602",
+          detail: "2594602"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/morchella-esculenta.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Morchella_esculenta"
+        },
+        {
+          group: "text",
+          name: "species.nbnatlas.org",
+          href: "https://species.nbnatlas.org/species/NBNSYS0000019646"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -8430,6 +8752,46 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=174220",
+          detail: "174220"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=189924",
+          detail: "189924"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/174220"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2526530",
+          detail: "2526530"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/pleurotus-ostreatus.php"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/oyster-mushroom/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Pleurotus_ostreatus"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -9429,6 +9791,58 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=299348",
+          detail: "299348"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=299348",
+          detail: "299348"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=159365",
+          detail: "159365"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/genusrecord.asp?RecordID=17899",
+          detail: "17899"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/299348"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/9072021",
+          detail: "9072021"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/laetiporus-sulphureus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Laetiporus_sulphureus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/laetiporus_sulphureus.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -10504,6 +10918,62 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=550569",
+          detail: "550569"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=476862",
+          detail: "476862"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/550569"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7832732",
+          detail: "7832732"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/imleria-badia.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Imleria_badia"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/imleria_badia.html"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/bay-bolete-boletus-imleria-badia/"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/138329440/138330311"
+        },
+        {
+          group: "text",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Publications/Index%20Fungorum%20no.147.pdf",
+          detail: "no. 147"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -11579,6 +12049,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=190066",
+          detail: "190066"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=190066",
+          detail: "190066"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/190066"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2536891",
+          detail: "2536891"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/armillaria-mellea.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/armillaria_mellea.html"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Armillaria%20mellea.htm"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Armillaria_mellea"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -12592,6 +13107,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=148667",
+          detail: "148667"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=148667",
+          detail: "148667"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/name/Coprinus%20comatus"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7987658",
+          detail: "7987658"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/coprinus-comatus.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/coprinus_comatus.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Coprinus_comatus"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090475/222967238"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -13544,6 +14104,62 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=236690",
+          detail: "236690"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=2184",
+          detail: "2184"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=236690",
+          detail: "236690"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/236690"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5258510",
+          detail: "5258510"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/gyromitra-esculenta.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Gyromitra_esculenta"
+        },
+        {
+          group: "text",
+          name: "fungi.myspecies.info",
+          href: "https://fungi.myspecies.info/content/gyromitra-esculenta"
+        },
+        {
+          group: "text",
+          name: "species.nbnatlas.org",
+          href: "https://species.nbnatlas.org/species/NBNSYS0000019569"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/species/Gyromitra_esculenta.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -14595,6 +15211,41 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=172799",
+          detail: "172799"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=172799",
+          detail: "172799"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/172799"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7496350",
+          detail: "7496350"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-rubescens.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_rubescens"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -15502,6 +16153,53 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=152334",
+          detail: "152334"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=228168",
+          detail: "228168"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17828",
+          detail: "17828"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=700041",
+          detail: "700041"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/152334"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3293632",
+          detail: "3293632"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hypholoma-fasciculare.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hypholoma_fasciculare"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -16537,6 +17235,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356498",
+          detail: "356498"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=356498",
+          detail: "356498"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356498"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5243458",
+          detail: "5243458"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/agaricus-campestris.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/agaricus_campestris.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Agaricus_campestris"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090215/222966644"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -17482,6 +18225,52 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=100712",
+          detail: "100712"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=194176",
+          detail: "194176"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17918",
+          detail: "17918"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/100712"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/9141390",
+          detail: "9141390"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/leccinum-scabrum.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_scabrum"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/brown-birch-bolete/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -18540,6 +19329,57 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=120823",
+          detail: "120823"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=120823",
+          detail: "120823"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=147334",
+          detail: "147334"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/120823"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7777157",
+          detail: "7777157"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/suillus-luteus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Suillus_luteus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/suillus_luteus.html"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090818/122091108"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -19583,6 +20423,47 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=224737",
+          detail: "224737"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=196882",
+          detail: "196882"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17895",
+          detail: "17895"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/224737"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5248629",
+          detail: "5248629"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/lactarius-deliciosus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Lactarius_deliciosus"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -20553,6 +21434,41 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=163692",
+          detail: "163692"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=163692",
+          detail: "163692"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/163692"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5240323",
+          detail: "5240323"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-virosa.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_virosa"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -21467,6 +22383,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=809241",
+          detail: "809241"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=809235",
+          detail: "809235"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/809241"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7722553",
+          detail: "7722553"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/rubroboletus-satanas.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Rubroboletus_satanas"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Boletus-satanas/"
+        },
+        {
+          group: "text",
+          name: "species.nbnatlas.org",
+          href: "https://species.nbnatlas.org/species/BMSSYS0000050748"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -22445,6 +23406,47 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=166839",
+          detail: "166839"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17391",
+          detail: "17391"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=247773",
+          detail: "247773"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/166839"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2528663",
+          detail: "2528663"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/cortinarius-rubellus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Cortinarius_rubellus"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -23386,6 +24388,46 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=153130",
+          detail: "153130"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/genusrecord.asp?RecordID=17398",
+          detail: "17398"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/153130"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2554662",
+          detail: "2554662"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/craterellus-cornucopioides.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Craterellus_cornucopioides"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090489/122090908"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -24367,6 +25409,79 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=193923",
+          detail: "193923"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=193923",
+          detail: "193923"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=231009",
+          detail: "231009"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/names/genusrecord.asp?RecordID=17591",
+          detail: "17591"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/193923"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2531012",
+          detail: "2531012"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/fistulina-hepatica.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Fistulina_hepatica"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/fistulina_hepatica.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Fistulina-hepatica/pecenovec-dubovy/pstren-dubovy/ID393"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Eichen-Leberreischling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Fistulina-hepatica/"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1007/s11557-021-01696-7"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -25532,6 +26647,57 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=550771",
+          detail: "550771"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/550771"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8208185",
+          detail: "8208185"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/neoboletus-luridiformis.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Neoboletus_luridiformis"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Flockenstieliger_Hexen-R%C3%B6hrling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Neoboletus-luridiformis/hrib-zrnitohlubikovy/hrib-kovar/ID145"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/clanok.php?clanok_id=32"
+        },
+        {
+          group: "text",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Publications/Index%20Fungorum%20no.192.pdf",
+          detail: "no. 192"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -26536,6 +27702,91 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=293917",
+          detail: "293917"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/293917"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8936224",
+          detail: "8936224"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/calocybe-gambosa.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Calocybe_gambosa"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090261/222965313"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/calocybe-gambosa.html"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/microscopias/josep/calocybe-gambosa"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Calocybe&espece=gambosa"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/%C4%8C%C3%ADrovnica_m%C3%A1jov%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Calocybe-gambosa/cirovnica-majova/ciruvka-majovka/ID57"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas_hub_dvojniky_detail.php?dvojniky_id=14"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Calocybe-gambosa/"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/calocybe-gambosa.html"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Calocybe_gambosa.htm"
+        },
+        {
+          group: "text",
+          name: "bioimages.org.uk",
+          href: "https://www.bioimages.org.uk/html/Calocybe_gambosa.htm"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -27644,6 +28895,71 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=830361",
+          detail: "830361"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/573045"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/10776858",
+          detail: "10776858"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Inosperma_erubescens"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/inocybe-erubescens.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Vl%C3%A1knica_Patouillardova",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Inosperma-erubescens/vlaknica-Patouillardova/vlaknice-zacervenala--Patouillardova-/ID796"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/inosperma-erubescens.html"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Inocybe_erubescens.htm"
+        },
+        {
+          group: "text",
+          name: "grzyby-pk.pl",
+          href: "https://grzyby-pk.pl/gatunki/i/inocybe-erubescens.html"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/inocybe-erubescens/"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/PDF/FungaNordica/FungaNordica-Inocybe.pdf"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -28668,6 +29984,90 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=225014",
+          detail: "225014"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/225014"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2554716",
+          detail: "2554716"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hydnum-repandum.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hydnum_repandum"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1080/00275514.2018.1477004"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/hydnum_repandum.html"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090544/222978763"
+        },
+        {
+          group: "text",
+          name: "biodiversitylibrary.org",
+          href: "https://www.biodiversitylibrary.org/page/3270722"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hydnum-repandum/jelenka-poprehybana/lisak-zprohybany/ID169"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Hydnum-repandum/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Hydnum_repandum.htm"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hydnum&espece=repandum"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/hydnum-repandum.html"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/hydnum-repandum.html"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hydnum-repandum/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -29823,6 +31223,62 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=198239",
+          detail: "198239"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=18501",
+          detail: "18501"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/414481"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5238865",
+          detail: "5238865"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Sarcodon_imbricatus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/sarcodon_imbricatus.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Sarcodon-imbricatus/jelenkovec-skridlicovity/losak-jeleni/ID172"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Sarniak_%C5%9Bwierkowy",
+          detail: "Polish"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Sarcodon_imbricatus.htm"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1017/S0953756299008709"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -30858,6 +32314,61 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=190250",
+          detail: "190250"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/details/26/37935"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2551542",
+          detail: "2551542"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/russula-cyanoxantha.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Russula_cyanoxantha"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/russula_cyanoxantha.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Frauen-Täubling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/russula-cyanoxantha/"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Russula-langei/plavka-Langeova/holubinka-Langeova/ID11938"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/230148367/260413995"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -31881,6 +33392,87 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=287387",
+          detail: "287387"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=158909",
+          detail: "158909"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17884",
+          detail: "17884"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/287387"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2533962",
+          detail: "2533962"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/kuehneromyces-mutabilis.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Kuehneromyces_mutabilis"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/kuehneromyces_mutabilis.html"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/Pholiota/species/Pholiota_mutabilis.html"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Kuehneromyces-mutabilis/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/kuehneromyces-mutabilis/"
+        },
+        {
+          group: "text",
+          name: "treking.cz",
+          href: "https://www.treking.cz/priroda/openka-menliva.htm"
+        },
+        {
+          group: "text",
+          name: "archive.org",
+          href: "https://archive.org/details/atlasdeschampign00dufo"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090579/223015247"
+        },
+        {
+          group: "text",
+          name: "biodiversitylibrary.org",
+          href: "https://www.biodiversitylibrary.org/page/4338329"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -32994,6 +34586,67 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=253217",
+          detail: "253217"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=144051",
+          detail: "144051"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/genusrecord.asp?RecordID=17631",
+          detail: "17631"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/253217"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8118872",
+          detail: "8118872"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/galerina-marginata.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Galerina_marginata"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/galerina_marginata.html"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Galerina-marginata/"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/galerina-marginata.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas_hub_dvojniky_detail.php?dvojniky_id=1"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -34011,6 +35664,71 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=228848",
+          detail: "228848"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/228848"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2550247",
+          detail: "2550247"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/sparassis-crispa.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Sparassis_crispa"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/cauliflower-fungus/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Krause_Glucke",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Sparassis-crispa"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Sparassis-crispa/kucierka-velka/kotrc-kaderavy/ID226"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Sparassis_crispa.htm"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/sparassis-crispa.html"
+        },
+        {
+          group: "text",
+          name: "fungimag.com",
+          href: "https://fungimag.com/fall-09-articles/sparassis.pdf"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -35065,6 +36783,77 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=191172",
+          detail: "191172"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/191172"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5240002",
+          detail: "5240002"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Paxillus_involutus"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/paxillus-involutus.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/paxillus_involutus.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Kahler_Krempling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/%C4%8Cechratka_podvinut%C3%A1",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Paxillus-involutus/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/paxillus-involutus/"
+        },
+        {
+          group: "text",
+          name: "treking.cz",
+          href: "https://www.treking.cz/priroda/cechratka-podvinuta.htm"
+        },
+        {
+          group: "text",
+          name: "englishfungi.org",
+          href: "https://www.englishfungi.org/Species/Paxillus%20involutus"
+        },
+        {
+          group: "text",
+          name: "pubmed.ncbi.nlm.nih.gov",
+          href: "https://pubmed.ncbi.nlm.nih.gov/24433674/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -36130,6 +37919,71 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356735",
+          detail: "356735"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/name/Lepista%20nuda"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5242048",
+          detail: "5242048"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Collybia_nuda"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/lepista-nuda.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/clitocybe_nuda.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/P%C3%B4vabnica_fialov%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Lepista-nuda/povabnica-fialova/ciruvka-fialova/ID507"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/lepista-nuda.html"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Lepista-nuda/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/lepista-nuda.html"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Lepista_nuda.htm"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -37168,6 +39022,76 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=110490",
+          detail: "110490"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/110490"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2550493",
+          detail: "2550493"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/artomyces_pyxidatus.html"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://mushroomexpert.com/fungionwood/club%20and%20coral/species%20pages/Artomyces%20pyxidatus.htm"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Artomyces_pyxidatus"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Verzweigte_Becherkoralle",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Artomyces-pyxidatus/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Clavicorona_pyxidata.htm"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Artomyces-pyxidatus/korunovec-svietnikovity/korunokyjka-svicnovita/ID984"
+        },
+        {
+          group: "text",
+          name: "asturnatura.com",
+          href: "https://www.asturnatura.com/en/nature/species/artomyces-pyxidatus"
+        },
+        {
+          group: "text",
+          name: "sciencepress.mnhn.fr",
+          href: "https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/cryptogamie-mycologie2008v29f3a2.pdf"
+        },
+        {
+          group: "text",
+          name: "ukrbotj.co.ua",
+          href: "https://ukrbotj.co.ua/archive/81/4/271"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -38215,6 +40139,61 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=240963",
+          detail: "240963"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/240963"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5246840",
+          detail: "5246840"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/polyporus-umbellatus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Polyporus_umbellatus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/polyporus_umbellatus.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Eichhase",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Polyporus-umbellatus/trudnik-klobuckaty/choros-oris/ID753"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/polyporus-umbellatus.html"
+        },
+        {
+          group: "text",
+          name: "biodiversitylibrary.org",
+          href: "https://www.biodiversitylibrary.org/page/4338396"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -39190,6 +41169,46 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=344338",
+          detail: "344338"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=344338",
+          detail: "344338"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/344338"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7869532",
+          detail: "7869532"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_albostipitatum"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/leccinum-albostipitatum/"
+        },
+        {
+          group: "text",
+          name: "repository.naturalis.nl",
+          href: "http://www.repository.naturalis.nl/document/570067"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -40103,6 +42122,71 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=357220",
+          detail: "357220"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/357220"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2525710",
+          detail: "2525710"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hygrophoropsis_aurantiaca"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hygrophoropsis-aurantiaca.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/hygrophoropsis_aurantiaca.html"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/species/Hygrophoropsis_aurantiaca.html"
+        },
+        {
+          group: "text",
+          name: "explore.beatymuseum.ubc.ca",
+          href: "https://explore.beatymuseum.ubc.ca/mushroomsup/H_aurantiaca.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Falscher_Pfifferling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hygrophoropsis-aurantiaca/liska-oranzova/listicka-pomerancova/ID250"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hygrophoropsis-aurantica/"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hygrophoropsis&espece=aurantiaca"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -41133,6 +43217,58 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=224074",
+          detail: "224074"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/224074"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2539308",
+          detail: "2539308"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Entoloma_sinuatum"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/entoloma-sinuatum.php"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/entoloma-sinuatum.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Riesen-R%C3%B6tling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Hodv%C3%A1bnica_ve%C4%BEk%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Z%C3%A1vojenka_olovov%C3%A1",
+          detail: "Czech"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -42085,6 +44221,73 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=245934",
+          detail: "245934"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/245934"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3314876",
+          detail: "3314876"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/phallus-impudicus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Phallus_impudicus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/phallus_impudicus.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gemeine_Stinkmorchel",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Phallus-impudicus/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Phallus_impudicus.htm"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Sromotnik_smrodliwy",
+          detail: "Polish"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Hadovka_smradľavá",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "beliana.sav.sk",
+          href: "https://beliana.sav.sk/heslo/hadovka"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -43096,6 +45299,72 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=194860",
+          detail: "194860"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/194860"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8068867",
+          detail: "8068867"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/fomes-fomentarius.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Fomes_fomentarius"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/fomes_fomentarius.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Zunderschwamm",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Fomes-fomentarius/prachnovec-kopytovity/troudnatec-kopytovity/ID516"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/fomes-fomentarius.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Troudnatec_kopytovit%C3%BD",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1186/s43008-019-0016-4"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1007/s11557-023-01928-y"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -44151,6 +46420,72 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=102281",
+          detail: "102281"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=102281",
+          detail: "102281"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/102281"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5249271",
+          detail: "5249271"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Auricularia_auricula-judae"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/auricularia-auricula-judae.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Judasohr",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Auricularia-auricula-judae/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/auricularia-auricula-judae/"
+        },
+        {
+          group: "text",
+          name: "mdpi.com",
+          href: "https://www.mdpi.com/2309-608X/7/11/933"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1007/s11557-015-1113-4"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/microscopias/josep/auricularia-auricula-judae"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -45195,6 +47530,62 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=122480",
+          detail: "122480"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=122480",
+          detail: "122480"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=220917",
+          detail: "220917"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/122480"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2524910",
+          detail: "2524910"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/tylopilus-felleus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Tylopilus_felleus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/tylopilus_felleus.html"
+        },
+        {
+          group: "text",
+          name: "boletales.com",
+          href: "https://boletales.com/genera/tylopilus/t-felleus/"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/228712563/277338286"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -46204,6 +48595,61 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=374433",
+          detail: "374433"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/374433"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5955395",
+          detail: "5955395"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/chlorophyllum-rhacodes.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/chlorophyllum_rhacodes.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Chlorophyllum_rhacodes"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/chlorophyllum-rhacodes/"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Chlorophyllum-rachodes/"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Chlorophyllum-rhacodes/bedla-cervenejuca/bedla-cervenajici/ID1"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Bedla_červenající",
+          detail: "Czech"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -47170,6 +49616,56 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=191650",
+          detail: "191650"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/details/26/38695"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2551213",
+          detail: "2551213"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/russula-emetica.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Russula_emetica"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Kirschroter_Spei-Täubling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "http://www.myko.cz/myko-atlas/Russula-emetica/"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Russula-emetica/plavka-skodliva/holubinka-vrhavka/ID470"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/260332962/260426845"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -48164,6 +50660,66 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=176119",
+          detail: "176119"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/176119"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3324883",
+          detail: "3324883"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Tricholoma_equestre"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/tricholoma-equestre.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/tricholoma_equestre.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Tricholoma-equestre/cirovka-zelenkasta/ciruvka-zelanka/ID52"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Grünling_(Pilz)",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/tricholoma-equestre.html"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Tricholoma_equestre.htm"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/tricholoma-equestre.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -49164,6 +51720,67 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=220647",
+          detail: "220647"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/220647"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5243258",
+          detail: "5243258"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/lycoperdon-perlatum.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Lycoperdon_perlatum"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/lycoperdon_perlatum.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Flaschen-St%C3%A4ubling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Lycoperdon_perlatum.htm"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Pr%C3%A1%C5%A1nica_bradavi%C4%8Dnat%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "polovnictvo-rybarstvo.pluska.sk",
+          href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/prasnica-bradavicnata-je-vyborna-jedla-huba-viete-vsak-cim-je-pozoruhodna"
+        },
+        {
+          group: "text",
+          name: "polovnictvo-rybarstvo.pluska.sk",
+          href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/prasnicu-bielou-tvrdou-duzi-nou-mozno-bez-obav-konzumovat-co-este-hodi"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -50140,6 +52757,57 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=101071",
+          detail: "101071"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=452868",
+          detail: "452868"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17918",
+          detail: "17918"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/101071"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2524513",
+          detail: "2524513"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/leccinum-aurantiacum.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_aurantiacum"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Leccinum&espece=aurantiacum"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Leccinum-aurantiacum/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -51145,6 +53813,62 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=205574",
+          detail: "205574"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=205574",
+          detail: "205574"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/205574"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3328320",
+          detail: "3328320"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-citrina.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_citrina"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gelber_Knollenbl%C3%A4tterpilz",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Amanita-citrina/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/amanita-citrina/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/amanita-citrina.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -52146,6 +54870,61 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356853",
+          detail: "356853"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356853"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7242174",
+          detail: "7242174"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Tricholoma_pardinum"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Tiger-Ritterling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Tricholoma-pardinum/cirovka-tigrovana/ciruvka-tigrovana/ID13008"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Tricholoma_pardinum.htm"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Tricholoma-pardinum/"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Tricholoma&espece=pardinum"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/tricholoma_pardinum.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -53076,6 +55855,81 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=265958",
+          detail: "265958"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/265958"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2536058",
+          detail: "2536058"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/calvatia-gigantea.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Calvatia_gigantea"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/calvatia_gigantea.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Riesenbovist",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Calvatia-gigantea/"
+        },
+        {
+          group: "text",
+          name: "treking.cz",
+          href: "https://www.treking.cz/priroda/pychavka-obrovska.htm"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/calvatia-gigantea.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Calvatia-gigantea/vatovec-obrovsky/vatovec-obrovsky/ID783"
+        },
+        {
+          group: "text",
+          name: "polovnictvo-rybarstvo.pluska.sk",
+          href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/nasli-ste-uz-na-hubach-giganta-vatovce-si-nemozno-nevsimnut"
+        },
+        {
+          group: "text",
+          name: "archive.org",
+          href: "https://archive.org/details/britishbasidiomy00reac"
+        },
+        {
+          group: "text",
+          name: "archive.org",
+          href: "https://archive.org/details/mycologicalwriti01lloy"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -54138,6 +56992,84 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=164796",
+          detail: "164796"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/164796"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2531072",
+          detail: "2531072"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Clitocybe_nebularis"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/clitocybe-nebularis.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/clitocybe_nebularis.html"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/species/Clitocybe_nebularis.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Nebelgrauer_Trichterling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Strmu%C4%BEka_inova%C5%A5ov%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Strm%C4%9Blka_ml%C5%BEenka",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Clitocybe-nebularis/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/clitocybe-nebularis.html"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/clitocybe-nebularis.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://fr.wikipedia.org/wiki/Clitocybe_n%C3%A9buleux",
+          detail: "French"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -55198,6 +58130,62 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=281625",
+          detail: "281625"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/281625"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2548311",
+          detail: "2548311"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/trametes-versicolor.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Trametes_versicolor"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/trametes_versicolor.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Schmetterlings-Tramete",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/trametes-versicolor/"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Trametes-versicolor"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Outkovka_pestr%C3%A1",
+          detail: "Czech"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -56229,6 +59217,66 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=309751",
+          detail: "309751"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=309751",
+          detail: "309751"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/309751"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5954949",
+          detail: "5954949"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/boletus-pinophilus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Boletus_pinophilus"
+        },
+        {
+          group: "text",
+          name: "boletales.com",
+          href: "https://boletales.com/genera/boletus/b-pinophilus/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/boletus-pinophilus.html"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090237/222968707"
+        },
+        {
+          group: "text",
+          name: "smnf.fr",
+          href: "https://www.smnf.fr/wp-content/Photos_SMNF/Photos_SMNF_B/Boletus_pinophilus.htm"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Boletus-pinophilus/hrib-sosnovy/hrib-borovy/ID137"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -57269,6 +60317,79 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=550547",
+          detail: "550547"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=550547",
+          detail: "550547"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/550547"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8203051",
+          detail: "8203051"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/caloboletus-calopus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Caloboletus_calopus"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Sch%C3%B6nfu%C3%9F-R%C3%B6hrling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://it.wikipedia.org/wiki/Caloboletus_calopus",
+          detail: "Italian"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Caloboletus-calopus/hrib-cerveny/hrib-krist/ID121"
+        },
+        {
+          group: "text",
+          name: "polovnictvo-rybarstvo.pluska.sk",
+          href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/huba-mesiaca-hrib-cerveny"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Caloboletus-calopus/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/boletus-calopus/"
+        },
+        {
+          group: "text",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Publications/Index%20Fungorum%20no.146.pdf",
+          detail: "no. 146"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -58378,6 +61499,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=121483",
+          detail: "121483"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=216300",
+          detail: "216300"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/121483"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2519457",
+          detail: "2519457"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/boletus-subtomentosus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Xerocomus_subtomentosus"
+        },
+        {
+          group: "text",
+          name: "boletales.com",
+          href: "https://boletales.com/genera/xerocomus/x-subtomentosus/"
+        },
+        {
+          group: "text",
+          name: "antropocene.it",
+          href: "https://antropocene.it/en/2022/12/10/boletus-subtomentosus-2/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -59348,6 +62514,68 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=287526",
+          detail: "287526"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=168210",
+          detail: "168210"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=287526",
+          detail: "287526"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17918",
+          detail: "17918"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/287526"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2524490",
+          detail: "2524490"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/leccinum-versipelle.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_versipelle"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Leccinum-versipelle/"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Leccinum&espece=versipelle"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/122090640/277348262"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -60399,6 +63627,57 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=287520",
+          detail: "287520"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=227403",
+          detail: "227403"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17918",
+          detail: "17918"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/287520"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8562027",
+          detail: "8562027"
+        },
+        {
+          group: "text",
+          name: "wildfooduk.com",
+          href: "https://www.wildfooduk.com/mushroom-guide/slate-bolete/"
+        },
+        {
+          group: "text",
+          name: "englishfungi.org",
+          href: "https://www.englishfungi.org/Species/Leccinum%20duriusculum"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_duriusculum"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/228710903/277346417"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -61353,6 +64632,50 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=289763",
+          detail: "289763"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/289763"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2538000",
+          detail: "2538000"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/pleurocybella-porrigens.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Pleurocybella_porrigens"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Pleurocybella%20porrigens.htm"
+        },
+        {
+          group: "text",
+          name: "linnet.geog.ubc.ca",
+          href: "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Pleurocybella%20porrigens"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/microscopias/josep/pleurocybella-porrigens"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -62228,6 +65551,52 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=208433",
+          detail: "208433"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=208433",
+          detail: "208433"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/208433"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5452051",
+          detail: "5452051"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/amanita_bisporigera.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_bisporigera"
+        },
+        {
+          group: "text",
+          name: "amanitaceae.org",
+          href: "http://www.amanitaceae.org/content/uploaded/legacy/bisporig.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Amanita_bisporigera",
+          detail: "Polish"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -63046,6 +66415,41 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=247927",
+          detail: "247927"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=247927",
+          detail: "247927"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/247927"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2535390",
+          detail: "2535390"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/lepiota-brunneoincarnata.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Lepiota_brunneoincarnata"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -63907,6 +67311,41 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=163667",
+          detail: "163667"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=163667",
+          detail: "163667"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/163667"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5240320",
+          detail: "5240320"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-verna.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_verna"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -64787,6 +68226,36 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=305414",
+          detail: "305414"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=305414",
+          detail: "305414"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/305414"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3359054",
+          detail: "3359054"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Russula_subnigricans"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -65527,6 +68996,36 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=808371",
+          detail: "808371"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=808371",
+          detail: "808371"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/808371"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/9698565",
+          detail: "9698565"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Trichoderma_cornu-damae"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -66277,6 +69776,65 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=467883",
+          detail: "467883"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/467883"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5452714",
+          detail: "5452714"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_exitialis"
+        },
+        {
+          group: "text",
+          name: "tullabs.com",
+          href: "http://tullabs.com/amanita/?Amanita+exitialis"
+        },
+        {
+          group: "text",
+          name: "biodiversitylibrary.org",
+          href: "https://www.biodiversitylibrary.org/partpdf/414857"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.3390/genes12121907"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1177/0960327117721960"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.3390/toxins17120576"
+        },
+        {
+          group: "text",
+          name: "mycopedia.top",
+          href: "http://www.mycopedia.top/result.php?details=Amanita%20exitialis"
+        },
+        {
+          group: "text",
+          name: "web.archive.org",
+          href: "https://web.archive.org/web/20110720144108/http://www.gdfs.gov.cn/rdgz/ShowArticle.asp?ArticleID=1507"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -67177,6 +70735,55 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=292451",
+          detail: "292451"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/292451"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5451781",
+          detail: "5451781"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_fuliginea"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.51033/jjapbot.28_3_3541"
+        },
+        {
+          group: "text",
+          name: "mikawanoyasou.org",
+          href: "https://mikawanoyasou.org/kinoko/kurotamagotengutake.htm"
+        },
+        {
+          group: "text",
+          name: "fungaldiversity.org",
+          href: "https://www.fungaldiversity.org/fdp/sfdp/32-7.pdf"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.3852/16-008"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1016/j.myc.2017.03.003"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -67972,6 +71579,45 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=515098",
+          detail: "515098"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/515098"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8091988",
+          detail: "8091988"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.11646/phytotaxa.286.4.1"
+        },
+        {
+          group: "text",
+          name: "niohp.chinacdc.cn",
+          href: "https://niohp.chinacdc.cn/kpdw/zdkz/201806/t20180601_172885.htm"
+        },
+        {
+          group: "text",
+          name: "iNaturalist",
+          href: "https://www.inaturalist.org/observations/334488169"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -68698,6 +72344,80 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=549597",
+          detail: "549597"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/561711"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8342755",
+          detail: "8342755"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1007/s11557-012-0809-y"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1371/journal.pone.0035894"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1371/journal.pone.0038712"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1371/journal.pone.0149507"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1002/anie.201106502"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1128/AEM.01798-12"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.59265/mycoasia.2025-09"
+        },
+        {
+          group: "text",
+          name: "cen.acs.org",
+          href: "https://cen.acs.org/articles/90/i7/Behind-Mushroom-Scourge.html"
+        },
+        {
+          group: "text",
+          name: "chemistryviews.org",
+          href: "https://www.chemistryviews.org/details/ezine/1455939/Deadly_Chinese_Mushrooms/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Trogia_venenata"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.3897/mycokeys.105.118826"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -69796,6 +73516,78 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=433576",
+          detail: "433576"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/433576"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2530983",
+          detail: "2530983"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Laccaria_amethystina"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/laccaria-amethystina.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/laccaria_amethystina.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Lakovka_ametystov%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Lakovka_ametystov%C3%A1",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/laccaria-amethistina/"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Laccaria-amethystina/"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/laccaria-amethystina.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lak%C3%B3wka_ametystowa",
+          detail: "Polish"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/laccaria-amethystina.html"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -70883,6 +74675,72 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356885",
+          detail: "356885"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356885"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2538524",
+          detail: "2538524"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hygrocybe_conica"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hygrocybe-conica.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/hygrocybe_conica.html"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/species/Hygrocybe_conica.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Kegeliger_Saftling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Voskovka_ku%C5%BEelovit%C3%A1",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hygrocybe-conica/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/hygrocybe-conica.html"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hygrocybe&espece=conica"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -71934,6 +75792,60 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=174712",
+          detail: "174712"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/174712"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2537250",
+          detail: "2537250"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/marasmius-oreades.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/marasmius_oreades.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Marasmius_oreades"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/marasmius-oreades.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Marasmius-oreades/tanecnica-polna/spicka-obecna/ID733"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Marasmius-oreades/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/marasmius-oreades/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -72947,6 +76859,71 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=237604",
+          detail: "237604"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/237604"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7567077",
+          detail: "7567077"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Cordyceps_militaris"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/cordyceps-militaris.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/cordyceps_militaris.html"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/cordyceps_ophioglossoides.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Puppen-Kernkeule",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Cordyceps&espece=militaris"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Cordyceps-militaris/zezlovka-hmyzova/housenice-cervena/ID825"
+        },
+        {
+          group: "text",
+          name: "mycologen.nl",
+          href: "https://www.mycologen.nl/onderzoek/soort-van-het-jaar/"
+        },
+        {
+          group: "text",
+          name: "nvwa.nl",
+          href: "https://www.nvwa.nl/onderwerpen/voedingssupplementen/inspectie--en-onderzoeksresultaten-supplementen/inspectieresultaten-2025/inspectieresultaten-cordyceps-militaris-2025"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -73983,6 +77960,85 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356812",
+          detail: "356812"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356812"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5248508",
+          detail: "5248508"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hericium-erinaceus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hericium_erinaceus"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.3114/persoonia.2025.55.04"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/hericium_erinaceus.html"
+        },
+        {
+          group: "text",
+          name: "IUCN Red List",
+          href: "https://www.iucnredlist.org/species/70401627/70401637"
+        },
+        {
+          group: "text",
+          name: "biodiversitylibrary.org",
+          href: "https://www.biodiversitylibrary.org/page/3270856"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hericium-erinaceus/koralovec-jezovity/koralovec-jezaty/ID198"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Hericium-erinaceus/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Hericium_erinaceum.htm"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hericium&espece=erinaceus"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/hericium-erinaceus.html"
+        },
+        {
+          group: "text",
+          name: "asturnatura.com",
+          href: "https://www.asturnatura.com/especie/hericium-erinaceus"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -75171,6 +79227,66 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=148413",
+          detail: "148413"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/11228"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2549730",
+          detail: "2549730"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/ganoderma-lucidum.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Ganoderma_lucidum"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gl%C3%A4nzender_Lackporling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Ganoderma-lucidum/lesklokorovka-obycajna/lesklokorka-leskla/ID245"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/diskusia.php?parent_message_id=1969511"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Ganoderma-lucidum/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/ganoderma-lucidum.html"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/microscopias/josep/ganoderma-lucidum"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -76242,6 +80358,84 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356880",
+          detail: "356880"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356880",
+          detail: "356880"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356880"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5238786",
+          detail: "5238786"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Gomphus_clavatus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/gomphus_clavatus.html"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/species/Gomphus_clavatus.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Schweinsohr_(Pilz)",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Stro%C4%8Dkovec_kyjovit%C3%BD",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://fr.wikipedia.org/wiki/Gomphus_clavatus",
+          detail: "French"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Gomphus&espece=clavatus"
+        },
+        {
+          group: "text",
+          name: "123pilzsuche.de",
+          href: "https://123pilzsuche.de/daten/details/Schweinsohr.htm"
+        },
+        {
+          group: "text",
+          name: "beliana.sav.sk",
+          href: "https://beliana.sav.sk/heslo/lievikovec"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/obrazok_detail.php?obrazok_id=599525"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -77409,6 +81603,98 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=103376",
+          detail: "103376"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/103376"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3345400",
+          detail: "3345400"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Gliophorus_psittacinus"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/gliophorus-psittacinus.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/gliophorus_psittacinus.html"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/gliophorus_sp_01.html"
+        },
+        {
+          group: "text",
+          name: "mykoweb.com",
+          href: "https://www.mykoweb.com/CAF/species/Gliophorus_psittacinus.html"
+        },
+        {
+          group: "text",
+          name: "bioimages.org.uk",
+          href: "https://www.bioimages.org.uk/html/Gliophorus_psittacinus.htm"
+        },
+        {
+          group: "text",
+          name: "linnet.geog.ubc.ca",
+          href: "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Gliophorus%20psittacinus%20group&noTransfer=1"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Papageigr%C3%BCner_Saftling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Voskovka_papou%C5%A1%C4%8D%C3%AD",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hygrocybe-psittacina/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/gliophorus-psittacinus.html"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Gliophorus&espece=psittacinus"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://it.wikipedia.org/wiki/Hygrocybe_psittacina",
+          detail: "Italian"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Gliophorus-reginae/lucnica-kralovska/voskovka/ID14436"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -78587,6 +82873,66 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=159051",
+          detail: "159051"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=159051",
+          detail: "159051"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/159051"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8733688",
+          detail: "8733688"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/boletus-aereus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Boletus_aereus"
+        },
+        {
+          group: "text",
+          name: "boletales.com",
+          href: "https://boletales.com/genera/boletus/b-aereus/"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/en/hongos/boletus-aereus.html"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Boletus&espece=aereus"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Boletus-aereus/hrib-bronzovy/hrib-bronzovy/ID120"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Boletus-aereus/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -79625,6 +83971,61 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=847253",
+          detail: "847253"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/847253"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5242070",
+          detail: "5242070"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Collybia_personata"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/lepista-saeva.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/P%C3%B4vabnica_dvojfarebn%C3%A1",
+          detail: "Slovak"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Lepista-personata/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Lepista_personata.htm"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/lepista-personata.html"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/microscopias/josep/lepista-personata"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -80546,6 +84947,60 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=102458",
+          detail: "102458"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/details/26/53886"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5239534",
+          detail: "5239534"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Serpula_lacrymans"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Serpula_(fungus)"
+        },
+        {
+          group: "text",
+          name: "rogersmushrooms.com",
+          href: "https://rogersmushrooms.com/gallery/DisplayBlock~bid~6778~gid~.asp"
+        },
+        {
+          group: "text",
+          name: "brill.com",
+          href: "https://brill.com/edcollchap/book/9789086867226/BP000007.pdf"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Serpula-lacrymans/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Serpula_lacrymans.htm"
+        },
+        {
+          group: "text",
+          name: "carodreva.sk",
+          href: "https://carodreva.sk/starostlivost/pozor-na-drevokazne-huby-nie-je-lahke-zbavit-sa-ich/"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -81529,6 +85984,92 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=147587",
+          detail: "147587"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/147587"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2593184",
+          detail: "2593184"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Choiromyces-meandriformis/bielohluzovka-obycajna/belolanyz-obecny/ID15"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Choiromyces-meandriformis/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Choiromyces_meandriformis.htm"
+        },
+        {
+          group: "text",
+          name: "pilzfreun.de",
+          href: "https://www.pilzfreun.de/2018/08/august-2018-maeandertrueffel/"
+        },
+        {
+          group: "text",
+          name: "fundkorb.de",
+          href: "https://fundkorb.de/pilze/choiromyces-maeandriformis-stachelsporige-m%C3%A4andertr%C3%BCffel"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Stachelsporige_M%C3%A4andertr%C3%BCffel",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://ro.wikipedia.org/wiki/Choiromyces_meandriformis",
+          detail: "Romanian"
+        },
+        {
+          group: "text",
+          name: "trufamania.com",
+          href: "https://trufamania.com/Choiromyces%20venosus%20English.htm"
+        },
+        {
+          group: "text",
+          name: "trufamania.com",
+          href: "https://trufamania.com/false-truffles.htm"
+        },
+        {
+          group: "text",
+          name: "antropocene.it",
+          href: "https://antropocene.it/en/2023/02/10/choiromyces-meandriformis-2/"
+        },
+        {
+          group: "text",
+          name: "dgfm-ev.de",
+          href: "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2001-maeandertrueffel"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/choiromyces-meandriformis.html"
+        },
+        {
+          group: "text",
+          name: "species.nbnatlas.org",
+          href: "https://species.nbnatlas.org/species/NBNSYS0000019510"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -82605,6 +87146,86 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=120231",
+          detail: "120231"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/120231"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5248532",
+          detail: "5248532"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hericium_coralloides"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/hericium_coralloides.html"
+        },
+        {
+          group: "text",
+          name: "fungi.myspecies.info",
+          href: "https://fungi.myspecies.info/taxonomy/term/6996"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.3114/persoonia.2025.55.04"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hericium-clathroides/koralovec-bukovy/koralovec-bukovy/ID196"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Hericium-coralloides/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Hericium_coralloides.htm"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Kor%C3%A1lovec_bukov%C3%BD",
+          detail: "Czech"
+        },
+        {
+          group: "text",
+          name: "fungipedia.org",
+          href: "https://www.fungipedia.org/hongos/hericium-coralloides.html"
+        },
+        {
+          group: "text",
+          name: "mycodb.fr",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hericium&espece=coralloides"
+        },
+        {
+          group: "text",
+          name: "sopsr.sk",
+          href: "https://www.sopsr.sk/publikacie/ochprsl/OP2_2006.pdf"
+        },
+        {
+          group: "text",
+          name: "zilina.sp21.sk",
+          href: "https://www.zilina.sp21.sk/a/qu9ucxlstzml9xv9nzkobhwi/vzacny-nalez-vo-velkej-fatre-ak-ho-objavite-nechajte-ho-na-mieste"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -83672,6 +88293,50 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=333327",
+          detail: "333327"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/333327"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2535598",
+          detail: "2535598"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/leucocoprinus-birnbaumii.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/leucocoprinus_birnbaumii.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leucocoprinus_birnbaumii"
+        },
+        {
+          group: "text",
+          name: "Česká mykologická společnost",
+          href: "https://www.myko.cz/myko-atlas/Leucocoprinus-birnbaumii/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Leucocoprinus_birnbaumii.htm"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -84521,6 +89186,51 @@ export const CATALOG = [
     }
     },
     sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=252929",
+          detail: "252929"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5243575",
+          detail: "5243575"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Crucibulum_(fungus)"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert.Com",
+          href: "https://www.mushroomexpert.com/crucibulum_laeve.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gemeiner_Tiegelteuerling",
+          detail: "German"
+        },
+        {
+          group: "text",
+          name: "Gobarsko društvo Lisička Maribor",
+          href: "https://www.gobe.si/Gobe/CrucibulumLaeve"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Crucibulum-laeve/poharovcek-obycajny/poharovka-obecna/ID496"
+        },
+        {
+          group: "text",
+          name: "fotonet.sk",
+          href: "https://fotonet.sk/atlas/fungi_huby/crucibulum-laeve"
+        }
+      ],
       tr: [
           {
                 "group": "name",
@@ -119352,6 +124062,47 @@ export const CATALOG = [
         notes: "Дюфур зобразив вид на Planche 48 як Polyporus ovinus (Polypore de brebis). Плодові тіла часто зростаються в неправильні групи в моховій хвойній підстилці.",
         sourceUrls: ["https://www.first-nature.com/fungi/albatrellus-ovinus.php", "https://www.nahuby.sk/atlas-hub/Albatrellus-ovinus/krasnoporovec-ovci/krasnoporka-mlynarka/ID222", "https://kderostouhouby.cz/en/atlas/krasnoporka-zemlova", "https://www.mycopedia.ch/pilze/10746.htm", "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=292351", "https://en.wikipedia.org/wiki/Albatrellus_ovinus"],
       }
+    },
+    sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=292351",
+          detail: "292351"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2551823",
+          detail: "2551823"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/albatrellus-ovinus.php"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Albatrellus-ovinus/krasnoporovec-ovci/krasnoporka-mlynarka/ID222"
+        },
+        {
+          group: "text",
+          name: "kderostouhouby.cz",
+          href: "https://kderostouhouby.cz/en/atlas/krasnoporka-zemlova"
+        },
+        {
+          group: "text",
+          name: "mycopedia.ch",
+          href: "https://www.mycopedia.ch/pilze/10746.htm"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Albatrellus_ovinus"
+        }
+      ]
     }
   },
   {
@@ -119899,6 +124650,59 @@ export const CATALOG = [
         notes: "Це типовий вид роду Melanoleuca. Авторитети не згодні, наскільки вузько його окреслювати, а старіші назви на кшталт Melanoleuca vulgaris застосовували непослідовно — Species Fungorum пов’язує M. vulgaris з M. polioleuca, а не з M. melaleuca. Польові записи як M. melaleuca можуть тому належати ширшому комплексу подібних меланоливок.",
         sourceUrls: ["https://www.first-nature.com/fungi/melanoleuca-melaleuca.php", "https://en.wikipedia.org/wiki/Melanoleuca_melaleuca", "https://www.wikidata.org/wiki/Q6811485"],
       }
+    },
+    sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=288051",
+          detail: "288051"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=288051",
+          detail: "288051"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5242142",
+          detail: "5242142"
+        },
+        {
+          group: "name",
+          name: "Wikidata",
+          href: "https://www.wikidata.org/wiki/Q6811485"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/melanoleuca-melaleuca.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Melanoleuca_melaleuca"
+        },
+        {
+          group: "text",
+          name: "species.nbnatlas.org",
+          href: "https://species.nbnatlas.org/species/NHMSYS0001489197"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Ciemnobia%C5%82ka_ciemna",
+          detail: "Polish"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Melanoleuca_melaleuca.htm"
+        }
+      ]
     }
   },
   {
@@ -120465,6 +125269,48 @@ export const CATALOG = [
         notes: "Англійські назви poison pie та старіша fairy cakes стосуються цього таксона; епітет означає у формі тонкої випічки. Vesterholt, Beker і колеги типіфікували сучасну концепцію лектотипною ілюстрацією та епітипним збором.",
         sourceUrls: ["https://www.first-nature.com/fungi/hebeloma-crustuliniforme.php", "https://en.wikipedia.org/wiki/Hebeloma_crustuliniforme", "https://hebeloma.org/species/crustuliniforme", "https://www.wikidata.org/wiki/Q180150"],
       }
+    },
+    sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=241497",
+          detail: "241497"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=241497",
+          detail: "241497"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2533043",
+          detail: "2533043"
+        },
+        {
+          group: "name",
+          name: "Wikidata",
+          href: "https://www.wikidata.org/wiki/Q180150"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hebeloma-crustuliniforme.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hebeloma_crustuliniforme"
+        },
+        {
+          group: "text",
+          name: "hebeloma.org",
+          href: "https://hebeloma.org/species/crustuliniforme"
+        }
+      ]
     }
   },
   {
@@ -121000,6 +125846,22 @@ export const CATALOG = [
         confusion: "У Chlorophyllum rhacodes темніші лусочки сильніше контрастують зі світлішим тлом, і він частіше росте в парках, садах і на багатих відкритих місцях, ніж у глибокій лісовій підстилці. У C. brunneum різко обідчаста бульбоподібна основа, грубіші контрастні лусочки і тонше кільце; віддає перевагу компосту й угноєному ґрунту і в деяких європейських визначниках вважається токсичним або погано переносним. Отруйний C. molybdites має зелений споровий порошок і зеленуваті зрілі пластинки. Macrolepiota procera зазвичай більша, з коричнево-смугастою (зміїною) ніжкою і м’якушем, що не червоніє так само. Не об’єднувати C. olivieri з C. rhacodes чи C. brunneum—сучасні обробки тримають їх окремо.",
         notes: "Else Vellinga перенесла цей таксон до Chlorophyllum у 2002 р.; багато старих європейських ілюстрацій із підписом Macrolepiota rhacodes (або rachodes) насправді зображують C. olivieri. Окремої української народної назви лише для цього виду не знайдено. Немає влучень MOTY для цього виду мовами каталогу.",
       }
+    },
+    sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=374428",
+          detail: "374428"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5955386",
+          detail: "5955386"
+        }
+      ]
     }
   },
   {
@@ -121526,6 +126388,22 @@ export const CATALOG = [
         confusion: "Clavulinopsis fusiformis утворює густіші пучки гострих жовтих веретен і має широко еліпсоїдні спори. Clavulinopsis laeticolor рідко в пучку, веретеноподібний або вузько булавоподібний, з майже кулястими спорами.",
         notes: "Persoon описав вид 1797 р.; Fries санкціонував назву.",
       }
+    },
+    sources: {
+      en: [
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=199211",
+          detail: "199211"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5244493",
+          detail: "5244493"
+        }
+      ]
     }
   },
 {
@@ -122359,6 +127237,47 @@ export const CATALOG = [
         "https://et.wikipedia.org/wiki/Areoolpilvik"
       ]
     }
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=203449",
+        "detail": "203449"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2551423",
+        "detail": "2551423"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/russula-virescens.php"
+      },
+      {
+        "group": "text",
+        "name": "botany.cz",
+        "href": "https://botany.cz/cs/russula-virescens/"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Russula-virescens/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Russula_virescens"
+      },
+      {
+        "group": "text",
+        "name": "IUCN Red List",
+        "href": "https://www.iucnredlist.org/species/230148498/260413110"
+      }
+    ]
   }
 },
 {
@@ -123232,6 +128151,57 @@ export const CATALOG = [
         "https://redlist.info/iucn/species_view/307781/"
       ]
     }
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=307781",
+        "detail": "307781"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241399",
+        "detail": "5241399"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/volvariella-bombycina.php"
+      },
+      {
+        "group": "text",
+        "name": "botany.cz",
+        "href": "https://botany.cz/cs/volvariella-bombycina/"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Volvariella-bombycina/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Volvariella_bombycina"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert.Com",
+        "href": "https://www.mushroomexpert.com/volvariella_bombycina.html"
+      },
+      {
+        "group": "text",
+        "name": "lister.artsdatabanken.no",
+        "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791"
+      },
+      {
+        "group": "text",
+        "name": "redlist.info",
+        "href": "https://redlist.info/iucn/species_view/307781/"
+      }
+    ]
   }
 },
 {
@@ -124121,6 +129091,66 @@ export const CATALOG = [
     }
   },
   "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=431548",
+        "detail": "431548"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2541815",
+        "detail": "2541815"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert.Com",
+        "href": "https://www.mushroomexpert.com/climacodon_septentrionalis.html"
+      },
+      {
+        "group": "text",
+        "name": "naturschutzbund.at",
+        "href": "https://naturschutzbund.at/pilz-leser/items/id-2020-noerdlicher-stachelseitling.html"
+      },
+      {
+        "group": "text",
+        "name": "arbres.ccdmd.qc.ca",
+        "href": "https://arbres.ccdmd.qc.ca/fiche/hydne-septentrional"
+      },
+      {
+        "group": "text",
+        "name": "funga.fi",
+        "href": "https://www.funga.fi/Karstenia/Karstenia%2027-2%201987-2.pdf"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Zębniczek_północny",
+        "detail": "Polish"
+      },
+      {
+        "group": "text",
+        "name": "minnesotaseasons.com",
+        "href": "https://www.minnesotaseasons.com/Fungi/Northern_Tooth.html"
+      },
+      {
+        "group": "text",
+        "name": "lister.artsdatabanken.no",
+        "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/18625"
+      },
+      {
+        "group": "text",
+        "name": "doi.org",
+        "href": "https://doi.org/10.1007/s10267-011-0128-1"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Climacodon_septentrionalis"
+      }
+    ],
     "ko": [
       "https://www.mushroomexpert.com/climacodon_septentrionalis.html",
       "https://naturschutzbund.at/pilz-leser/items/id-2020-noerdlicher-stachelseitling.html",
@@ -125077,6 +130107,61 @@ export const CATALOG = [
     }
   },
   "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=487939",
+        "detail": "487939"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2531146",
+        "detail": "2531146"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/clitocybe-gibba.php"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/"
+      },
+      {
+        "group": "text",
+        "name": "aranzadi.eus",
+        "href": "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00"
+      },
+      {
+        "group": "text",
+        "name": "englishfungi.org",
+        "href": "https://www.englishfungi.org/Species/Infundibulicybe%20gibba"
+      },
+      {
+        "group": "text",
+        "name": "albertamushrooms.ca",
+        "href": "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Infundibulicybe_gibba"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+        "detail": "Japanese"
+      },
+      {
+        "group": "text",
+        "name": "doi.org",
+        "href": "https://doi.org/10.1002/hlca.19760590718"
+      }
+    ],
     "bg": [
       "https://www.first-nature.com/fungi/clitocybe-gibba.php",
       "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
@@ -125985,6 +131070,40 @@ export const CATALOG = [
     }
   },
   "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=900881",
+        "detail": "900881"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2535875",
+        "detail": "2535875"
+      },
+      {
+        "group": "text",
+        "name": "explore.beatymuseum.ubc.ca",
+        "href": "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php"
+      },
+      {
+        "group": "text",
+        "name": "Gobarsko društvo Lisička Maribor",
+        "href": "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
+      }
+    ],
     "da": [
       "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
       "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
@@ -126898,6 +132017,35 @@ export const CATALOG = [
     }
   },
   "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=213898",
+        "detail": "213898"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5243374",
+        "detail": "5243374"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/agaricus-bitorquis.php"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/"
+      },
+      {
+        "group": "text",
+        "name": "Gobarsko društvo Lisička Maribor",
+        "href": "https://www.gobe.si/Gobe/AgaricusBitorquis"
+      }
+    ],
     "da": [
       "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
       "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",

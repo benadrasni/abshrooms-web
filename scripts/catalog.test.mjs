@@ -502,6 +502,66 @@ test('three species store the English stipe size in centimetres', () => {
   assert.deepEqual(stipeSize('Cantharellus cibarius'), [2, 8, 0.5, 1.5]);
 });
 
+function sourceItems(html) {
+  const column = html.slice(html.indexOf('class="src-col"'));
+  const bib = column.slice(column.indexOf('class="bib"'), column.indexOf('</section>'));
+  return [...bib.matchAll(/<li>([\s\S]*?)<\/li>/g)].map((match) => match[1]);
+}
+
+test('a URL source list renders short titles', () => {
+  const bolete = viewModel({ lang: 'sk', view: 'mushroom', key: 'Boletus edulis' });
+  const boleteItems = sourceItems(bolete.html);
+  assert.ok(boleteItems.some((item) => item.includes('>Index Fungorum</a>')));
+  assert.ok(boleteItems.some((item) => item.includes('Ottova encyklopédia húb')));
+  const englishBolete = sourceItems(viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus edulis' }).html);
+  assert.ok(englishBolete.some((item) => item.includes('>Index Fungorum</a>') && item.includes('356530')));
+  assert.ok(englishBolete.some((item) => item.includes('>MycoBank</a>')));
+  assert.ok(englishBolete.some((item) => item.includes('>GBIF</a>') && item.includes('5954958')));
+  assert.ok(englishBolete.some((item) => item.includes('https://en.wikipedia.org/wiki/Boletus_edulis') && item.includes('>Wikipedia</a>')));
+  assert.equal(englishBolete.length, 4);
+
+  const velvet = viewModel({ lang: 'sk', view: 'mushroom', key: 'Flammulina velutipes' });
+  const velvetItems = sourceItems(velvet.html);
+  assert.ok(velvetItems.some((item) => item.includes('>nahuby.sk</a>')));
+  assert.ok(velvetItems.some((item) => item.includes('>Species Fungorum</a>') && item.includes('330940')));
+  assert.ok(velvetItems.some((item) => item.includes('>GBIF</a>') && item.includes('3341441')));
+  assert.ok(velvetItems.some((item) => item.includes('>botany.cz</a>')));
+  for (const item of velvetItems) {
+    assert.equal(/<a\b[^>]*><\/a>/.test(item), false, item);
+    assert.notEqual(item.replace(/<[^>]+>/g, '').trim(), '');
+  }
+
+  const english = viewModel({ lang: 'en', view: 'mushroom', key: 'Flammulina velutipes' });
+  const englishItems = sourceItems(english.html);
+  assert.ok(englishItems.some((item) => item.includes('>Index Fungorum</a>')));
+  assert.ok(englishItems.some((item) => item.includes('>Wikipedia</a>') && !item.includes('class="sub"')));
+  assert.ok(englishItems.some((item) => item.includes('>Wikipedia</a>') && item.includes('German')));
+  assert.ok(englishItems.some((item) => item.includes('>First Nature</a>')));
+  assert.equal(englishItems.filter((item) => item.includes('>Species Fungorum</a>')).length, 1);
+  assert.equal(englishItems.filter((item) => item.includes('>GBIF</a>')).length, 1);
+  const danish = sourceItems(viewModel({ lang: 'da', view: 'mushroom', key: 'Flammulina velutipes' }).html);
+  assert.equal(danish.filter((item) => item.includes('>GBIF</a>')).length, 1);
+  assert.equal(englishItems.some((item) => /^<a [^>]*><\/a>$/.test(item) || item.replace(/<[^>]+>/g, '').trim() === ''), false);
+
+  for (const name of ['Amanita muscaria', 'Cantharellus cibarius', 'Macrolepiota procera']) {
+    const items = sourceItems(viewModel({ lang: 'en', view: 'mushroom', key: name }).html);
+    assert.ok(items.some((item) => item.includes('>Index Fungorum</a>')), name);
+    assert.ok(items.some((item) => item.includes('>First Nature</a>')), name);
+    assert.ok(items.some((item) => item.includes('>Wikipedia</a>')), name);
+    for (const item of items) {
+      assert.equal(/<a\b[^>]*><\/a>/.test(item), false, name + ' ' + item);
+      assert.notEqual(item.replace(/<[^>]+>/g, '').trim(), '', name);
+    }
+  }
+  const slovakFly = sourceItems(viewModel({ lang: 'sk', view: 'mushroom', key: 'Amanita muscaria' }).html);
+  assert.equal(slovakFly.length, 5);
+  assert.ok(slovakFly.some((item) => item.includes('>nahuby.sk</a>')));
+  const shaggy = sourceItems(viewModel({ lang: 'en', view: 'mushroom', key: 'Chlorophyllum olivieri' }).html);
+  assert.equal(shaggy.length, 2);
+  assert.ok(shaggy.some((item) => item.includes('>Index Fungorum</a>') && item.includes('374428')));
+  assert.ok(shaggy.some((item) => item.includes('>GBIF</a>') && item.includes('5955386')));
+});
+
 test('a bad percent-encoding is the missing page, including lists', () => {
   assert.equal(parse('/mushroom/%E0%A4%A/').view, 'missing');
   assert.equal(parse('/family/%/').view, 'missing');

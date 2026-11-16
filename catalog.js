@@ -1295,6 +1295,84 @@ function speciesLine(species, lang, full) {
   return '<div class="' + (full ? "rank-full" : "rank") + '"><div class="rk">' + esc(copy.ranks.species) + '</div><div class="latin">' + esc(species.name) + ' <span class="author">' + esc(species.author) + "</span></div></div>";
 }
 
+var NAME_SOURCE_TITLES = {
+  "indexfungorum.org": "Index Fungorum",
+  "speciesfungorum.org": "Species Fungorum",
+  "mycobank.org": "MycoBank",
+  "gbif.org": "GBIF",
+  "api.gbif.org": "GBIF",
+  "catalogueoflife.org": "Catalogue of Life",
+  "species.wikimedia.org": "Wikispecies",
+  "wikidata.org": "Wikidata",
+  "species.data.kew.org": "Kew"
+};
+
+var WIKI_LANGUAGE = {
+  ar: "Arabic", bg: "Bulgarian", cs: "Czech", da: "Danish", de: "German",
+  en: "English", es: "Spanish", et: "Estonian", fa: "Persian", fi: "Finnish",
+  fr: "French", he: "Hebrew", hi: "Hindi", hr: "Croatian", hu: "Hungarian",
+  id: "Indonesian", it: "Italian", ja: "Japanese", ko: "Korean", lt: "Lithuanian",
+  lv: "Latvian", nl: "Dutch", no: "Norwegian", pl: "Polish", pt: "Portuguese",
+  ro: "Romanian", ru: "Russian", sk: "Slovak", sl: "Slovenian", sr: "Serbian",
+  sv: "Swedish", tr: "Turkish", uk: "Ukrainian", zh: "Chinese"
+};
+
+var TEXT_SOURCE_TITLES = {
+  "first-nature.com": "First Nature",
+  "mushroomexpert.com": "MushroomExpert.Com",
+  "nahuby.sk": "nahuby.sk",
+  "myko.cz": "Česká mykologická společnost",
+  "iucnredlist.org": "IUCN Red List",
+  "gobe.si": "Gobarsko društvo Lisička Maribor",
+  "artsdatabanken.no": "Artsdatabanken",
+  "svampe.databasen.org": "Danmarks Svampeatlas",
+  "inpn.mnhn.fr": "INPN",
+  "commons.wikimedia.org": "Wikimedia Commons",
+  "inaturalist.org": "iNaturalist",
+  "botany.cz": "botany.cz",
+  "latvijasdaba.lv": "Latvijas daba",
+  "woodlandtrust.org.uk": "Woodland Trust",
+  "burkeherbarium.org": "Burke Herbarium"
+};
+
+function sourceTitle(url) {
+  var host = sourceHost(url);
+  var name = TEXT_SOURCE_TITLES[host] || "";
+  var group = "text";
+  if (NAME_SOURCE_TITLES[host]) {
+    name = NAME_SOURCE_TITLES[host];
+    group = "name";
+  } else if (/(^|\.)wikipedia\.org$/.test(host)) {
+    name = "Wikipedia";
+  } else if (!name) {
+    name = host || url;
+  }
+  var detail = "";
+  var record = String(url).match(/[?&]RecordID=(\d+)/i);
+  if (record && (host === "indexfungorum.org" || host === "speciesfungorum.org")) detail = record[1];
+  var speciesKey = String(url).match(/(?:^|\.)gbif\.org\/species\/(\d+)/i);
+  if (speciesKey) detail = speciesKey[1];
+  return { name: name, group: group, detail: detail };
+}
+
+function sourceEntry(item) {
+  if (typeof item === "string") {
+    var url = httpUrl(item);
+    if (!url) return null;
+    var titled = sourceTitle(url);
+    return { group: titled.group, name: titled.name, href: url, detail: titled.detail };
+  }
+  if (!item || typeof item !== "object") return null;
+  var name = String(item.name || "").trim();
+  if (!name) return null;
+  return {
+    group: item.group === "name" ? "name" : "text",
+    name: name,
+    href: httpUrl(item.href),
+    detail: item.detail ? String(item.detail).trim() : ""
+  };
+}
+
 function sourceItem(item) {
   var label = item.href
     ? '<a href="' + esc(item.href) + '" target="_blank" rel="noopener noreferrer">' + esc(item.name) + "</a>"
@@ -1314,9 +1392,29 @@ function sourcesColumn(species, lang) {
   var sources = (species.sources && species.sources[lang] && species.sources[lang].length)
     ? species.sources[lang]
     : ((species.sources && species.sources.en) || []);
+  var seen = {};
   sources.forEach(function (item) {
-    (grouped[item.group] || grouped.text).push(item);
+    var entry = sourceEntry(item);
+    if (!entry) return;
+    if (!entry.detail && typeof item === "string") {
+      var wiki = sourceHost(entry.href).match(/^([a-z-]+)\.wikipedia\.org$/);
+      if (wiki && wiki[1] !== lang && WIKI_LANGUAGE[wiki[1]]) entry.detail = WIKI_LANGUAGE[wiki[1]];
+    }
+    var key = entry.detail
+      ? entry.group + "\n" + entry.name + "\n" + entry.detail
+      : (entry.href || entry.name);
+    if (seen[key]) return;
+    seen[key] = true;
+    (grouped[entry.group] || grouped.text).push(entry);
   });
+  var hasGbifSpecies = grouped.name.some(function (entry) {
+    return /(?:^|\.)gbif\.org\/species\/\d+/.test(entry.href);
+  });
+  if (hasGbifSpecies) {
+    grouped.name = grouped.name.filter(function (entry) {
+      return sourceHost(entry.href) !== "api.gbif.org";
+    });
+  }
   var columns = sourceColumn(copy.sourcesName, grouped.name) + sourceColumn(copy.sourcesText, grouped.text);
   if (!columns) return "";
   return (
