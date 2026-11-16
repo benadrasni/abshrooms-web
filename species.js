@@ -61743,13 +61743,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-24",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600_v2.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@400_v2.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@400.webp",
     plateCredit: {
       author: "Gemini",
       credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 61 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a whole fruit body in leaf litter, an underside/gill view, a longitudinal section, a button section, an oak sprig with acorn, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
       license: "Rights unverified (AI-generated image; no human author or licence documented)",
-      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600_v2.webp"
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_bisporigera/Amanita_bisporigera@1600.webp"
     },
     photos: [
       {
@@ -62551,7 +62551,9 @@ export const CATALOG = [
     plateGrid: STORAGE + "photos/Agaricales/Agaricaceae/Lepiota_brunneoincarnata/Lepiota_brunneoincarnata@400.webp",
     plateCredit: {
       author: "Gemini",
-      license: "not stated"
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live figures[0].author and species.js plateCredit.author (both already \"Gemini\"; Firestore plateCredit is currently null). This is a replacement plate for the published ID 62 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a cluster of three standing mature fruit bodies in grass with pinkish-vinaceous scaly caps, cottony ring zones and pinkish-brown banded stipes; a young button at left; a beech-like leaf and a grass spray; an underside/gill disc; a longitudinal section showing white flesh, free gills and a slightly clavate stipe without a volva; and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live figures[0].license was \"not stated\", figures[0] had no sourceUrl, and Firestore plateCredit was null; those gaps are filled here with the public @1600.webp URL and an unverified-rights licence. A \"public domain\" claim is not repeated and was not present on the live record.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Lepiota_brunneoincarnata/Lepiota_brunneoincarnata@1600.webp"
     },
     photos: [
       {
@@ -65807,13 +65809,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-27",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600_v2.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@400_v2.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@400.webp",
     plateCredit: {
       author: "Gemini",
       credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 66 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: two standing fruit bodies in leaf litter, a host-plant sprig with leaves and two spiny burs, a longitudinal section, a button section, an underside/gill view, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
       license: "Rights unverified (AI-generated image; no human author or licence documented)",
-      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600_v2.webp"
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600.webp"
     },
     photos: [
       {
@@ -66709,13 +66711,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-27",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600_v2.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@400_v2.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@400.webp",
     plateCredit: {
       author: "Gemini",
       credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 67 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: two standing fruit bodies in leaf litter, an underside/gill view, a longitudinal section, a button section, a host-plant sprig with serrated leaves and an acorn, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
       license: "Rights unverified (AI-generated image; no human author or licence documented)",
-      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600_v2.webp"
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600.webp"
     },
     photos: [
       {
@@ -67539,13 +67541,13 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Amanitaceae", "Amanita"],
     added: "2026-10-27",
-    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600_v2.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@400_v2.webp",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@400.webp",
     plateCredit: {
       author: "Gemini",
       credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live plateCredit.author and figures[0].author (both already \"Gemini\"). This is a replacement plate for the published ID 68 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: two standing fruit bodies in mixed leaf and needle litter, an underside/gill view, a longitudinal section, a button section, a pine sprig with needles, cone and leaves, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified.",
       license: "Rights unverified (AI-generated image; no human author or licence documented)",
-      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600_v2.webp"
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600.webp"
     },
     photos: [
       {
@@ -95105,7 +95107,9 @@ export const CATALOG = [
     plateGrid: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/Clathrus_columnatus@400.webp",
     plateCredit: {
       author: "Gemini",
-      license: "not stated"
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live figures[0].author and species.js plateCredit.author (both already \"Gemini\"; Firestore plateCredit is currently null). This is a replacement plate for the published ID 96 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a standing mature fruit body of three orange-red spongy columns joined at the apex and arising from a white volva in sandy litter; a close-up of the joined columns with olive-brown gleba on the inner upper surfaces; a longitudinal section of the egg showing the folded orange fruit body in a gelatinous layer; an unopened whitish egg with white rhizomorphs; a palmetto frond; and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live figures[0].license and species.js plateCredit.license said \"not stated\"; that incomplete claim is not repeated here.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Phallales/Phallaceae/Clathrus_columnatus/Clathrus_columnatus@1600.webp"
     },
     photos: [
       {
@@ -116523,7 +116527,12 @@ export const CATALOG = [
     // PLATE: Gemini (AI-generated), user-supplied Downloads plate, recomposed onto background.webp.
     plate: STORAGE + "photos/Agaricales/Hymenogastraceae/Gymnopilus_luteofolius/Gymnopilus_luteofolius@1600.webp",
     plateGrid: STORAGE + "photos/Agaricales/Hymenogastraceae/Gymnopilus_luteofolius/Gymnopilus_luteofolius@400.webp",
-    plateCredit: { author: "Gemini", license: "AI-generated" },
+    plateCredit: {
+      author: "Gemini",
+      credit: "Credit \"Gemini\" as assumed from the existing italic \"Gemini\" mark on the supplied file and from the live species.js plateCredit.author, already \"Gemini\" (license \"AI-generated\"). The owner request (t80u) did not name a credit. This is a replacement plate for the published ID 117 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896×1200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a cluster of four mature scaly-capped fruit bodies on a decaying log, with a young dark button and a smaller paler one among moss and debris; a detached fruit body at lower left showing crowded yellow-orange gills, with a rusty-orange spore-print smear beside it; a standing section/side view at lower right with a yellowish cap flushed pink, fibrous stipe and a greenish-blue base; and the existing italic \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live licence wording (\"AI-generated\") is replaced here with an explicit unverified-rights/AI-art statement. plateCredit.source is the public @1600.webp URL (plain, no versioned object name and no query). plate and plateGrid stay the same official object paths. A \"public domain\" claim is not made.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_luteofolius/Gymnopilus_luteofolius@1600.webp"
+    },
     photos: [
       {
         src: STORAGE + "photos/Agaricales/Hymenogastraceae/Gymnopilus_luteofolius/gl1.webp",
@@ -120476,7 +120485,12 @@ export const CATALOG = [
     // SK label: bedľa Olivierova (user-supplied; capital O).
     plate: STORAGE + "photos/Agaricales/Agaricaceae/Chlorophyllum_olivieri/Chlorophyllum_olivieri@1600.webp",
     plateGrid: STORAGE + "photos/Agaricales/Agaricaceae/Chlorophyllum_olivieri/Chlorophyllum_olivieri@400.webp",
-    plateCredit: { author: "Gemini", license: "public domain" },
+    plateCredit: {
+      author: "Gemini",
+      credit: "Credit \"Gemini\" as assumed from the existing mark on the supplied file and from the live figures[0].author and species.js plateCredit.author (both already \"Gemini\"; Firestore plateCredit is currently null). This is a replacement plate for the published ID 124 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a standing mature fruit body in needle and leaf litter, an underside/gill view, a longitudinal section showing reddening flesh and a bulbous base without a volva, a young button, a spruce/pine sprig with needles, cone and litter wash, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live figures[0].license claimed \"Public domain / user-supplied historical illustration scan\" and figures[0].sourceUrl was a local file:// path; those claims are not repeated here.",
+      license: "Rights unverified (AI-generated image; no human author or licence documented)",
+      source: "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Chlorophyllum_olivieri/Chlorophyllum_olivieri@1600.webp"
+    },
     photos: [
       {
         src: STORAGE + "photos/Agaricales/Agaricaceae/Chlorophyllum_olivieri/co1_2098.webp",
@@ -140065,10 +140079,10 @@ export const CATALOG = [
     {
       "role": "illustration",
       "path": "photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
-      "author": "Unknown; owner-supplied artwork",
-      "license": "User supplied; redistribution rights not independently established",
+      "author": "Gemini (credit assumed from the existing mark and the live existingMark; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
       "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
-      "existingMark": "Gemini; retained once, no attribution/authorship authentication"
+      "existingMark": "Italic \"Gemini\" mark at bottom right, present on the supplied file. Retained once exactly as found (pixels unchanged, original position preserved); no mark added, painted, removed or moved during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -140136,9 +140150,9 @@ export const CATALOG = [
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@400.webp",
   "plateCredit": {
-    "author": "Unknown; owner-supplied artwork",
-    "credit": "Existing requested Gemini mark retained once; not authenticated authorship.",
-    "license": "User supplied; redistribution rights not independently established",
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as assumed from the existing italic \"Gemini\" mark on the supplied file and from the live figures[0].existingMark (\"Gemini; retained once, no attribution/authorship authentication\"). The owner request (t81u) did not name a credit. Firestore and species.js plateCredit.author are currently \"Unknown; owner-supplied artwork\". This is a replacement plate for the published ID 140 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896×1200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: centre, a densely forked white cascading cluster of hanging teeth on a mossy hardwood log; upper right, a young compact cluster on bark; lower left, a close-up of hanging teeth; lower centre, a section showing white flesh and branches arising from a shared rooting base, with no distinct stipe; lower right, a white spore print on a dark square (the dark ground is kept); and the existing italic \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live figures[0].author and licence wording (\"Unknown; owner-supplied artwork\" / \"User supplied; redistribution rights not independently established\") are replaced here with an explicit unverified-rights/AI-art statement. plateCredit.source and figures[0].sourceUrl remain the public @1600.webp URL (plain, no _v2 and no query). A \"public domain\" claim is not made.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
     "source": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp"
   },
   "fruitingFrom": 7,
@@ -140146,613 +140160,92 @@ export const CATALOG = [
   "id": 140,
   "added": "2026-11-08",
   "citation": "Mycotaxon 20(1): 43 (1984)",
-  "illustrationProvenance": {
+    "illustrationProvenance": {
     "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Hericium americanum.png",
     "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by KEEP-aware cubic paper-fit segmentation of the cream paper background. The dark spore-print square was kept, including its dark ground.",
     "sourceDimensions": [
       896,
       1200
     ],
-    "sourceSHA256": "55e1416bb018a7dc051280e7a3b643cca7f93df5c968f9bf53b7d90b5ae6e6ee",
+    "sourceSHA256": "5bb5ee5da25455701b628cc7799014e3226c628ccecee57368213dd5eae6cc06",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
     "alphaPNG": "artwork_rgba.png",
     "mask": "artwork_alpha_mask.png",
     "cropBBox": [
-      101,
-      143,
-      791,
-      1109
+      47,
+      89,
+      887,
+      1200
     ],
-    "uniformScale": 2.028985507246377,
+    "uniformScale": 1.6666666666666667,
     "placement": [
       100,
-      220
+      274
     ],
     "composedArtworkDimensions": [
       1400,
-      1960
+      1852
     ],
-    "interiorRGBChangedPixels": 0,
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 650362,
-    "opaquePixels": 412862,
-    "partialAlphaPixels": 11976,
-    "paleInteriorsProtected": true,
+    "opaquePixels": 539543,
+    "partialAlphaPixels": 21778,
+    "looseSpeckPixelsKept": 0,
+    "signatureBox": [
+      821,
+      1165,
+      886,
+      1200
+    ],
+    "signatureComponents": 8,
+    "signaturePixels": 204,
     "preservedObjects": [
-      "main entire branched fungus",
-      "entire diagonal log",
-      "detached branch/cut section",
-      "existing Gemini mark including its punctuation"
+      "main densely forked white cascading teeth on a mossy hardwood log",
+      "upper-right young compact cluster on bark",
+      "lower-left close-up of hanging teeth",
+      "lower-center section showing white flesh and branches from a shared rooting base, with no distinct stipe",
+      "lower-right white spore print on a dark square (dark ground kept)",
+      "existing italic Gemini mark at bottom right"
     ],
-    "signatureTreatment": "Existing requested Gemini mark retained once; zero added marks. No authenticated creator, rights or species identity inferred.",
-    "contours": [
-      {
-        "area": 51074.0,
-        "box": [
-          102,
-          817,
-          323,
-          291
-        ]
-      },
-      {
-        "area": 356085.5,
-        "box": [
-          114,
-          144,
-          676,
-          784
-        ]
-      }
-    ],
-    "paleCoreProtectionPolygons": [
+    "signatureTreatment": "Existing italic \"Gemini\" mark kept exactly as found at bottom right; strokes copied with alpha only; no new mark painted or moved.",
+    "keepBoxes": [
       [
-        [
-          137,
-          873
-        ],
-        [
-          163,
-          862
-        ],
-        [
-          194,
-          867
-        ],
-        [
-          214,
-          879
-        ],
-        [
-          242,
-          889
-        ],
-        [
-          272,
-          909
-        ],
-        [
-          296,
-          928
-        ],
-        [
-          331,
-          943
-        ],
-        [
-          362,
-          957
-        ],
-        [
-          392,
-          982
-        ],
-        [
-          410,
-          1010
-        ],
-        [
-          419,
-          1034
-        ],
-        [
-          396,
-          1025
-        ],
-        [
-          369,
-          1007
-        ],
-        [
-          337,
-          995
-        ],
-        [
-          306,
-          981
-        ],
-        [
-          272,
-          964
-        ],
-        [
-          237,
-          949
-        ],
-        [
-          199,
-          928
-        ],
-        [
-          166,
-          914
-        ],
-        [
-          143,
-          909
-        ],
-        [
-          136,
-          891
-        ]
+        30,
+        20,
+        880,
+        720
       ],
       [
-        [
-          235,
-          834
-        ],
-        [
-          247,
-          832
-        ],
-        [
-          249,
-          852
-        ],
-        [
-          245,
-          866
-        ],
-        [
-          249,
-          878
-        ],
-        [
-          272,
-          909
-        ],
-        [
-          290,
-          922
-        ],
-        [
-          276,
-          920
-        ],
-        [
-          258,
-          909
-        ],
-        [
-          242,
-          892
-        ],
-        [
-          237,
-          875
-        ],
-        [
-          234,
-          861
-        ]
+        10,
+        690,
+        430,
+        1170
       ],
       [
-        [
-          350,
-          851
-        ],
-        [
-          362,
-          851
-        ],
-        [
-          368,
-          864
-        ],
-        [
-          364,
-          877
-        ],
-        [
-          363,
-          891
-        ],
-        [
-          374,
-          921
-        ],
-        [
-          387,
-          939
-        ],
-        [
-          405,
-          960
-        ],
-        [
-          417,
-          979
-        ],
-        [
-          420,
-          1003
-        ],
-        [
-          412,
-          996
-        ],
-        [
-          399,
-          977
-        ],
-        [
-          377,
-          957
-        ],
-        [
-          364,
-          945
-        ],
-        [
-          354,
-          923
-        ],
-        [
-          350,
-          902
-        ],
-        [
-          348,
-          884
-        ]
+        360,
+        720,
+        680,
+        1160
       ],
       [
-        [
-          123,
-          880
-        ],
-        [
-          151,
-          867
-        ],
-        [
-          177,
-          866
-        ],
-        [
-          206,
-          879
-        ],
-        [
-          226,
-          888
-        ],
-        [
-          252,
-          906
-        ],
-        [
-          280,
-          921
-        ],
-        [
-          316,
-          938
-        ],
-        [
-          349,
-          948
-        ],
-        [
-          381,
-          967
-        ],
-        [
-          403,
-          993
-        ],
-        [
-          420,
-          1020
-        ],
-        [
-          422,
-          1041
-        ],
-        [
-          397,
-          1029
-        ],
-        [
-          375,
-          1015
-        ],
-        [
-          344,
-          1004
-        ],
-        [
-          322,
-          998
-        ],
-        [
-          292,
-          982
-        ],
-        [
-          264,
-          966
-        ],
-        [
-          232,
-          948
-        ],
-        [
-          199,
-          933
-        ],
-        [
-          167,
-          920
-        ],
-        [
-          146,
-          912
-        ],
-        [
-          126,
-          912
-        ]
-      ],
-      [
-        [
-          354,
-          847
-        ],
-        [
-          365,
-          852
-        ],
-        [
-          370,
-          862
-        ],
-        [
-          369,
-          874
-        ],
-        [
-          362,
-          885
-        ],
-        [
-          363,
-          896
-        ],
-        [
-          369,
-          913
-        ],
-        [
-          378,
-          927
-        ],
-        [
-          392,
-          946
-        ],
-        [
-          394,
-          927
-        ],
-        [
-          403,
-          949
-        ],
-        [
-          404,
-          960
-        ],
-        [
-          417,
-          979
-        ],
-        [
-          419,
-          995
-        ],
-        [
-          422,
-          1032
-        ],
-        [
-          411,
-          1011
-        ],
-        [
-          402,
-          997
-        ],
-        [
-          388,
-          981
-        ],
-        [
-          368,
-          963
-        ],
-        [
-          355,
-          948
-        ],
-        [
-          346,
-          927
-        ],
-        [
-          341,
-          908
-        ],
-        [
-          341,
-          888
-        ],
-        [
-          344,
-          866
-        ]
-      ],
-      [
-        [
-          286,
-          861
-        ],
-        [
-          296,
-          858
-        ],
-        [
-          306,
-          861
-        ],
-        [
-          309,
-          868
-        ],
-        [
-          313,
-          879
-        ],
-        [
-          326,
-          892
-        ],
-        [
-          333,
-          906
-        ],
-        [
-          338,
-          919
-        ],
-        [
-          354,
-          934
-        ],
-        [
-          363,
-          949
-        ],
-        [
-          351,
-          955
-        ],
-        [
-          335,
-          943
-        ],
-        [
-          315,
-          926
-        ],
-        [
-          301,
-          908
-        ],
-        [
-          293,
-          892
-        ],
-        [
-          288,
-          875
-        ]
-      ],
-      [
-        [
-          235,
-          830
-        ],
-        [
-          245,
-          827
-        ],
-        [
-          254,
-          831
-        ],
-        [
-          257,
-          839
-        ],
-        [
-          251,
-          848
-        ],
-        [
-          247,
-          854
-        ],
-        [
-          249,
-          865
-        ],
-        [
-          257,
-          878
-        ],
-        [
-          269,
-          892
-        ],
-        [
-          282,
-          906
-        ],
-        [
-          296,
-          919
-        ],
-        [
-          283,
-          922
-        ],
-        [
-          268,
-          912
-        ],
-        [
-          253,
-          898
-        ],
-        [
-          240,
-          882
-        ],
-        [
-          231,
-          866
-        ],
-        [
-          227,
-          853
-        ],
-        [
-          228,
-          840
-        ]
+        655,
+        890,
+        852,
+        1130
       ]
     ],
+    "sporePrintSquare": [
+      667,
+      903,
+      840,
+      1118
+    ],
+    "edgePaperPixelsPeeled": 156,
+    "postGrowFringePixelsPeeled": 4481,
+    "grownPixels": 6590,
+    "isolatedStainsRemoved": 238,
+    "paperResidualP995": 3.747799142000539,
     "backgroundSourceDimensions": [
       1067,
       1600
@@ -140764,23 +140257,32 @@ export const CATALOG = [
     "generation": false,
     "repainting": false,
     "stretching": false,
+    "doubleFrame": false,
     "sourcePaperRemoved": true,
-    "visualReview": "PASS: full supplied source, actual-alpha checker, official400/full-size composition and detached pale anatomy inspected. Original RGB unchanged; all depicted specimens/log/section/mark retained without generation or repainting. Signature is faint but readable at400; no duplicate added. Source identity/rights remain unverified.",
-    "alphaPNGSHA256": "4ccbaf45ebfdd341120f52c694db0722eed5d10f34d1740f6a2f3b0ba45cc088",
-    "maskSHA256": "2b7c9beef95debd4dcea63a05ea7021a8d69c29ac295d380584072650df4cca8",
-    "recipeSHA256": "3a8d6c6d724ae951405c682208ae9dc8c550a801eaa64a9201de42c40001bc00",
+    "visualReview": "Reviewed after_plate.png, transparency_checker.png, before_after_side_by_side.jpg and inspection crops. Composition complete: main cascading cluster, young inset, hanging-teeth close-up, section with a shared rooting base and no distinct stipe, dark spore-print square and the Gemini mark are present. Alpha is clean; no double frame; source RGB unchanged. The dark spore-print square was kept as a square.",
     "officialFiles": [
       {
         "path": "media/Hericium_americanum@1600.webp",
-        "bytes": 430752,
-        "sha256": "f0a421b0fe18538055da0816f3cc2df7e2f6105b68fceca9a2901bfd85f7ad27"
+        "bytes": 405628,
+        "sha256": "ef3d5891ee426c007556f7764b21438e04ffb365ed5c040d8c27682a8fdd83ec",
+        "dimensions": [
+          1600,
+          2400
+        ]
       },
       {
         "path": "media/Hericium_americanum@400.webp",
-        "bytes": 54424,
-        "sha256": "88ba8470acd41f7c2f0b5aa578c6eefe149f0d474a29016101f5e21ffc98ccd5"
+        "bytes": 46126,
+        "sha256": "d027b17d25e1646bb79d1bb3efc0cbfa94494391edcb0322b32a71807d628132",
+        "dimensions": [
+          400,
+          600
+        ]
       }
-    ]
+    ],
+    "rights": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "anatomyVerified": false,
+    "urlPolicy": "In-place overwrite of the original @1600/@400 object names; plain public URLs; no _v2 and no ?v=N."
   }
 },
 {
@@ -142391,9 +141893,9 @@ export const CATALOG = [
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@400.webp",
   "plateCredit": {
-    "author": "Unknown; owner-supplied artwork",
-    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
-    "license": "User supplied; redistribution rights not independently established",
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" from the cursive \"Gemini\" mark on the supplied file, retained exactly as found at bottom right. Owner t66u did not name a credit. Live Firestore figures[0].existingMark already notes Gemini, but figures[0].author and species.js plateCredit.author are currently \"Unknown; owner-supplied artwork\" (Firestore plateCredit is null). Those author fields are updated to Gemini from the visible mark. This is a metadata credit only, not proof of authorship. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: an underside view with pale-pinkish forked false gills; a longitudinal section; a cluster of fruit bodies in moss and needle litter; a young button; a conifer sprig with a hanging cone; and the existing Gemini mark. The mark was kept exactly as found; nothing was painted or moved. Not a documented botanical plate. Rights unverified. The previous live licence (\"User supplied; redistribution rights not independently established\") is replaced with an explicit AI-art/unverified-rights statement. The previous sourceUrl was already the public https @1600 URL (not a file:// link); it is updated to the public @1600 URL.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
     "source": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp"
   },
   "photos": [
@@ -142437,10 +141939,10 @@ export const CATALOG = [
     {
       "role": "illustration",
       "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
-      "author": "Unknown; owner-supplied artwork",
-      "license": "User supplied; redistribution rights not independently established",
+      "author": "Gemini",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
       "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
-      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+      "existingMark": "Cursive \"Gemini\" mark at bottom right, present on the supplied file. Retained once exactly as found (pixels unchanged, original position preserved); no mark added, painted, removed or moved during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -143330,9 +142832,9 @@ export const CATALOG = [
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@400.webp",
   "plateCredit": {
-    "author": "Unknown; owner-supplied artwork",
-    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
-    "license": "User supplied; redistribution rights not independently established",
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as assumed from the existing italic \"Gemini\" mark on the supplied file and from the live figures[0].existingMark (\"Gemini; retained once, no authorship/rights authentication\"). The owner request (t79u) did not name a credit. Firestore plateCredit is currently null; species.js plateCredit.author is \"Unknown; owner-supplied artwork\". This is a replacement plate for the published ID 143 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896×1200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: top left, the exterior of a cup with a sandy/warty outer surface; right, an excavated/longitudinal view of a deep funnel-shaped cup with a long buried stipe-like base, sand grains, branching mycelial cords and dune grass; mid left, a mature cup with deeply split lobes sitting in sand; bottom left, a young closed button with a cracked apex, in sand; and the existing italic \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live figures[0].author and licence wording (\"Unknown; owner-supplied artwork\" / \"User supplied; redistribution rights not independently established\") are replaced here with an explicit unverified-rights/AI-art statement. plateCredit.source and figures[0].sourceUrl remain the public @1600.webp URL (plain, no _v2 and no query). A \"public domain\" claim is not made.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
     "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp"
   },
   "photos": [
@@ -143376,10 +142878,10 @@ export const CATALOG = [
     {
       "role": "illustration",
       "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
-      "author": "Unknown; owner-supplied artwork",
-      "license": "User supplied; redistribution rights not independently established",
+      "author": "Gemini (credit assumed from the existing mark and the live existingMark; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
       "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
-      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+      "existingMark": "Italic \"Gemini\" mark at bottom right, present on the supplied file. Retained once exactly as found (pixels unchanged, original position preserved); no mark added, painted, removed or moved during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -143456,83 +142958,85 @@ export const CATALOG = [
   "id": 143,
   "added": "2026-11-09",
   "citation": "in Durieu, Expl. Sci. Algérie, Bot. 1: tab. 28, fig. 2 (1848) [1846–49]",
-  "illustrationProvenance": {
+    "illustrationProvenance": {
     "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
     "sourceFile": "Peziza ammophila.png",
     "sourceFormat": "JPEG",
-    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation of the cream paper background.",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by KEEP-aware cubic paper-fit segmentation of the cream paper background.",
     "sourceDimensions": [
-      1024,
-      1024
+      896,
+      1200
     ],
-    "sourceSHA256": "9e42c8826e2c4985269ec5aa49f92e87f01fdd11a224b785f78241290723353b",
+    "sourceSHA256": "3f7b87eeb13076c24ccad438191559a604811d5d9ba0ee933591f814dc1a7599",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
     "alphaPNG": "artwork_rgba.png",
     "mask": "artwork_alpha_mask.png",
     "cropBBox": [
-      87,
       71,
-      961,
-      991
+      103,
+      833,
+      1101
     ],
-    "uniformScale": 1.6018306636155606,
+    "uniformScale": 1.837270341207349,
     "placement": [
       100,
-      463
+      283
     ],
     "composedArtworkDimensions": [
       1400,
-      1474
+      1834
     ],
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 767715,
-    "opaquePixels": 267431,
-    "partialAlphaPixels": 13430,
+    "opaquePixels": 347704,
+    "partialAlphaPixels": 37292,
     "looseSpeckPixelsKept": 0,
     "signatureBox": [
-      840,
-      930,
-      960,
-      1000
+      745,
+      1062,
+      820,
+      1110
     ],
-    "signatureComponents": 3,
-    "signaturePixels": 575,
+    "signatureComponents": 4,
+    "signaturePixels": 209,
     "preservedObjects": [
-      "closed young-to-opening globose apothecium with star-split margin, sandy granular exterior and short tapering stalk-like base (upper left)",
-      "cluster of several small cups with granular exteriors (upper right)",
-      "longitudinal section of an apothecium showing the dark hymenium, pale flesh and long tapering stalk-like base (centre)",
-      "existing Gemini mark"
+      "top-left exterior cup with sandy/warty outer surface and irregular margin",
+      "right longitudinal/excavated view with deep brown hymenium, long buried stipe-like base, sand grains, branching mycelial cords and dune grass",
+      "mid-left mature cup with deeply split lobes sitting in sand",
+      "bottom-left young closed button with a cracked apex, in sand",
+      "existing italic Gemini mark at bottom right"
     ],
-    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
-    "contours": [
-      {
-        "area": 80826.0,
-        "box": [
-          358,
-          458,
-          312,
-          512
-        ]
-      },
-      {
-        "area": 89900.0,
-        "box": [
-          88,
-          80,
-          336,
-          490
-        ]
-      },
-      {
-        "area": 97410.5,
-        "box": [
-          531,
-          72,
-          429,
-          357
-        ]
-      }
+    "signatureTreatment": "Existing italic \"Gemini\" mark kept exactly as found at bottom right; strokes copied with alpha only; no new mark painted or moved.",
+    "keepBoxes": [
+      [
+        20,
+        40,
+        360,
+        430
+      ],
+      [
+        400,
+        40,
+        890,
+        1100
+      ],
+      [
+        20,
+        380,
+        500,
+        850
+      ],
+      [
+        20,
+        740,
+        380,
+        1120
+      ]
     ],
+    "edgePaperPixelsPeeled": 240,
+    "postGrowFringePixelsPeeled": 11031,
+    "grownPixels": 16544,
+    "isolatedStainsRemoved": 535,
+    "paperResidualP995": 1.9801854395025693,
     "backgroundSourceDimensions": [
       1067,
       1600
@@ -143544,25 +143048,32 @@ export const CATALOG = [
     "generation": false,
     "repainting": false,
     "stretching": false,
+    "doubleFrame": false,
     "sourcePaperRemoved": true,
-    "visualReview": "PENDING",
-    "alphaPNGSHA256": "c606e8572fd4e5edc91c849fea5b2df6ccbea357259d9ac1b73879771d3038c4",
-    "maskSHA256": "cd4e60b5ca8bf87e72223e7ee1c8f6f11e2cf9ce38d2b12715aa5aca9a429f00",
-    "recipeSHA256": "019216462e2884dc2a7ce9c5e98b16744171f2e437c2f2499f8bcf13a3343eef",
+    "visualReview": "Reviewed after_plate.png, transparency_checker.png, before_after_side_by_side.jpg and inspection crops. Composition complete: exterior cup, star-lobed open cup, young button, excavated section with buried stipe-like base, sand, dune grass, mycelial cords and the Gemini mark are present. Alpha is clean; no double frame; source RGB unchanged.",
     "officialFiles": [
       {
         "path": "media/Peziza_ammophila@1600.webp",
-        "bytes": 221902,
-        "sha256": "7fc77ac3f9fea10adc04b00968e34d3c7e3238cf0a56dd313089a6ccad713d3b"
+        "bytes": 373720,
+        "sha256": "c22adfdcb95c130b7dc7cad3d3a91d4ca162ad612eadba83bc40a45f2be0c7e9",
+        "dimensions": [
+          1600,
+          2400
+        ]
       },
       {
         "path": "media/Peziza_ammophila@400.webp",
-        "bytes": 25400,
-        "sha256": "0dcb12b368fcf22b08dcf7bbea5cd64fc21f3e67e0c5b843907a63cfa145720d"
+        "bytes": 41744,
+        "sha256": "dc33848b83c411bdd21d4e4949a8ffc80d7726f2fa48e81939073da2e8cf9de8",
+        "dimensions": [
+          400,
+          600
+        ]
       }
     ],
-    "rights": "User supplied; creator, generator, authorship and redistribution rights unverified",
-    "anatomyVerified": false
+    "rights": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "anatomyVerified": false,
+    "urlPolicy": "In-place overwrite of the original @1600/@400 object names; plain public URLs; no _v2 and no ?v=N."
   }
 },
 {
@@ -147707,9 +147218,9 @@ export const CATALOG = [
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@400.webp",
   "plateCredit": {
-    "author": "Unknown; owner-supplied artwork",
-    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
-    "license": "User supplied; redistribution rights not independently established",
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as assumed from the existing cursive \"Gemini\" mark on the supplied file (the live figures[0].existingMark already records \"Gemini\"). The live figures[0].author and species.js plateCredit.author are \"Unknown; owner-supplied artwork\"; Firestore plateCredit is currently null. This is a replacement plate for the published ID 147 illustration. The supplied file is a 19th-century-style colour illustration that appears AI-generated (JPEG/JFIF data named .png, 896\u00d71200, Picasa Exif, no source alpha). Arrangement was preserved as one rigid piece: a longitudinal section, a sprig with an acorn and spiny holly-like leaves, an underside/ridge view, a standing mature fruit body in leaf litter, a young button, and the existing cursive \"Gemini\" mark at bottom right. The mark was kept exactly as found; nothing was painted or moved. The mark is not proof of authorship. Not a documented botanical plate. Rights unverified. The previous live figures[0].license and species.js plateCredit.license said \"User supplied; redistribution rights not independently established\"; those claims are replaced here with an explicit unverified-rights / AI-art statement.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
     "source": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp"
   },
   "photos": [
@@ -147753,10 +147264,10 @@ export const CATALOG = [
     {
       "role": "illustration",
       "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
-      "author": "Unknown; owner-supplied artwork",
-      "license": "User supplied; redistribution rights not independently established",
+      "author": "Gemini",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
       "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
-      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+      "existingMark": "Cursive \"Gemini\" mark at bottom right, present on the supplied file. Retained once exactly as found (pixels unchanged, original position preserved); no mark added, painted, removed or moved during staging; not proof of authorship or rights."
     },
     {
       "role": "photo1",
@@ -147828,88 +147339,93 @@ export const CATALOG = [
   "citation": "Econ. Bot. 62(3): 381 (2008)",
   "illustrationProvenance": {
     "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
-    "sourceFile": "Cantharellus californicus.png",
+    "sourceFile": "Cantharellus californicus.png (Mac ~/Downloads; copied unchanged as supplied_original.png)",
     "sourceFormat": "JPEG",
-    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif, software=Picasa), 896×1200 RGB; no source alpha. A real alpha was produced by segmenting the specimens, litter, oak sprig and the existing \"Gemini\" mark from a robust cubic paper fit. Source RGB unchanged; nothing repainted or rearranged.",
     "sourceDimensions": [
       896,
       1200
     ],
-    "sourceSHA256": "4149fc66fc0d5694ea6bb22a844d44b113d0a35f7960e235c184ef8ec429500c",
+    "sourceSHA256": "94c7160d7187fb14a2034f6187e866a68e0ff35d29d2e3530a4acf62335fcc7c",
     "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
     "alphaPNG": "artwork_rgba.png",
     "mask": "artwork_alpha_mask.png",
     "cropBBox": [
-      92,
-      100,
-      817,
-      1144
+      55,
+      63,
+      841,
+      1089
     ],
-    "uniformScale": 1.9310344827586208,
+    "uniformScale": 1.7811704834605597,
     "placement": [
       100,
-      192
+      286
     ],
     "composedArtworkDimensions": [
       1400,
-      2016
+      1827
     ],
     "allSourceRGBChangedPixels": 0,
-    "transparentPixels": 742757,
-    "opaquePixels": 317368,
-    "partialAlphaPixels": 15075,
+    "transparentPixels": 614165,
+    "opaquePixels": 434734,
+    "partialAlphaPixels": 26301,
     "signatureBox": [
-      720,
-      1092,
-      829,
-      1151
+      688,
+      1028,
+      778,
+      1082
     ],
-    "signatureComponents": 3,
-    "signaturePixels": 572,
+    "signatureComponents": 7,
+    "signaturePixels": 379,
     "preservedObjects": [
-      "mature upright fruit body with wavy, lobed vase-shaped cap, decurrent forked ridges and stout stipe",
-      "fallen fruit body showing the ridged underside and a pale stipe with soil at the base",
-      "young button-stage fruit body with a soil-flecked cap and stout stipe",
-      "longitudinal section showing thick white flesh with a thin yellow-orange rim",
-      "existing Gemini mark"
+      "standing mature fruit body in oak-leaf litter (large wavy funnel-shaped cap with soil flecks and fallen leaves, stout stipe with decurrent ridges), in original position",
+      "underside/ridge view at top right (wavy cap margin, blunt decurrent ridges, thick pale stipe with a soiled base), in original position",
+      "longitudinal section at top left (thick white flesh, thin yellow-orange rind, decurrent hymenium), in original position",
+      "young button at bottom left (convex orange-yellow cap, stout pale stipe in litter), in original position",
+      "sprig with an acorn and spiny, holly-like leaves at top centre, in original position",
+      "existing cursive \"Gemini\" mark at bottom right, in original position"
     ],
-    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "signatureTreatment": "Existing cursive \"Gemini\" mark kept exactly as found at its original bottom-right position; pixels unchanged; no mark added, painted or moved.",
     "contours": [
       {
-        "area": 58939.0,
+        "area": 288059.0,
         "box": [
-          452,
-          684,
-          268,
-          379
-        ]
+          88,
+          472,
+          728,
+          616
+        ],
+        "medianContrast": 105.6970392752117
       },
       {
-        "area": 67688.5,
+        "area": 82147.0,
         "box": [
-          136,
-          667,
-          259,
-          395
-        ]
+          484,
+          216,
+          356,
+          432
+        ],
+        "medianContrast": 62.40717585342786
       },
       {
-        "area": 75398.5,
+        "area": 43652.0,
         "box": [
-          418,
-          323,
-          395,
-          330
-        ]
+          56,
+          184,
+          320,
+          352
+        ],
+        "medianContrast": 8.750224988190375
       },
       {
-        "area": 118194.0,
+        "area": 26895.0,
         "box": [
-          93,
-          101,
-          459,
-          507
-        ]
+          376,
+          64,
+          240,
+          273
+        ],
+        "medianContrast": 126.87927538725077
       }
     ],
     "backgroundSourceDimensions": [
@@ -147924,20 +147440,20 @@ export const CATALOG = [
     "repainting": false,
     "stretching": false,
     "sourcePaperRemoved": true,
-    "visualReview": "Full-size checker and composition inspected (art_fullsize_inspection.png, original_vs_composition.jpg): four objects and the Gemini mark kept whole with clean edges; soil specks on the button and fallen stipe base retained as source pixels; source paper removed, one standard background frame only; no double frame, no added mark.",
-    "alphaPNGSHA256": "2e428f6d3ccb848177a24a7ba0ddb3f92811ea673be363a288adb8e8e6eb4ff7",
-    "maskSHA256": "6f241431e16056188f64212a600a403fca7aac166edb08ca475ad1b987595bff",
-    "recipeSHA256": "7ee62c55631758179c737299c05600e52c3277869433d64c806549060fb9181d",
+    "visualReview": "Arrangement preserved as one rigid piece (no rearrangement). Real alpha; source paper removed; source RGB unchanged; uniform scale onto /workspace/uploads/background.webp; no double frame, no generation, no repainting.",
+    "alphaPNGSHA256": "d333b93043486200d63cb5a4c339cd86421f09127f7646373658b7bc76885686",
+    "maskSHA256": "f835729060308e480ef2cdb1637fcc91a57d69ba9f529a55337f6b5f27013761",
+    "recipeSHA256": "47dd1b5356b1f22e08a79a519e2e506bb5274da8f030e3978e56a946da71c050",
     "officialFiles": [
       {
         "path": "media/Cantharellus_californicus@1600.webp",
-        "bytes": 307604,
-        "sha256": "0e5885fba946be7a6e91759d3e047c2ad8a689586609d3498ca0922839919446"
+        "bytes": 372364,
+        "sha256": "a1c8a173ae114fe727f4296456f0eedb9e3ad8d092ac6d37342d2cb041165a66"
       },
       {
         "path": "media/Cantharellus_californicus@400.webp",
-        "bytes": 39694,
-        "sha256": "6bd1228c3c0a122504ac5fbf617afa47a74dcbe4d62cbcc47968bc3ad7abbfbd"
+        "bytes": 49224,
+        "sha256": "f03fbff2654190ad7f3d919b7ee348f7e8447af7ba022edc9c82c8ee676c732f"
       }
     ]
   }
@@ -172768,6 +172284,1294 @@ export const CATALOG = [
         "path": "media/Hypholoma_capnoides@400.webp",
         "bytes": 51770,
         "sha256": "18183d4563df450dab4def4ccb3f54db0e41fcef529981531a27e8b735f73e3a"
+      }
+    ]
+  }
+},
+{
+  "name": "Flammulina velutipes",
+  "author": "(Curtis) Singer",
+  "family": "Physalacriaceae",
+  "genus": "Flammulina",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Physalacriaceae",
+    "Flammulina"
+  ],
+  "summary": [
+    "Agaricales",
+    "Physalacriaceae",
+    "Flammulina"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 1.5,
+  "capTo": 10.0,
+  "stipeHeightFrom": 2.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 1.2,
+  "label": {
+    "ar": null,
+    "bg": "зимна припънка",
+    "cs": "penízovka sametonohá",
+    "da": "gul fløjlsfod",
+    "de": "Gemeiner Samtfußrübling",
+    "en": "velvet shank",
+    "es": null,
+    "et": "puidu-sametkõrges",
+    "fa": null,
+    "fi": "puistotalvijuurekas",
+    "fr": "collybie à pied velouté",
+    "he": null,
+    "hi": null,
+    "hr": "baršunasta panjevčica",
+    "hu": "téli fülőke",
+    "id": null,
+    "it": null,
+    "ja": null,
+    "ko": null,
+    "lt": "juodkotė ugniabudė",
+    "lv": null,
+    "nl": "gewoon fluweelpootje",
+    "no": null,
+    "pl": "płomiennica zimowa",
+    "pt": null,
+    "ro": null,
+    "ru": "опёнок зимний",
+    "sk": "plamienka zimná",
+    "sl": "zimska panjevka",
+    "sr": "баршунаста пањевчица",
+    "sv": "vinterskivling",
+    "tr": null,
+    "uk": "гриб зимовий",
+    "zh": null
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Samtfußrübling",
+      "Winterrübling",
+      "Gewöhnlicher Samtfußrübling"
+    ],
+    "en": [
+      "velvet foot",
+      "velvet stem"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "žieminis kelmutis",
+      "juodkotė plempė"
+    ],
+    "lv": [],
+    "nl": [
+      "fluweelpootje"
+    ],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "зимний гриб",
+      "фламмулина бархатистоножковая"
+    ],
+    "sk": [
+      "penízovka sametonohá",
+      "plamienka zamatovohlúbiková"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Зимна_припънка",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Flammulina-velutipes/",
+      "https://botany.cz/cs/flammulina-velutipes/",
+      "https://api.gbif.org/v1/species/3341441/vernacularNames"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/3341441/vernacularNames"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Gemeiner_Samtfußrübling",
+      "https://api.gbif.org/v1/species/3341441/vernacularNames",
+      "https://api.gbif.org/v1/species/3341441/vernacularNames"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=330940",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=330940",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=330940",
+      "https://www.gbif.org/species/3341441",
+      "https://www.wikidata.org/wiki/Q372893",
+      "https://www.inaturalist.org/taxa/67594-Flammulina-velutipes",
+      "https://en.wikipedia.org/wiki/Flammulina_velutipes",
+      "https://www.first-nature.com/fungi/flammulina-velutipes.php",
+      "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/velvet-shank/",
+      "https://www.mushroomexpert.com/flammulina_velutipes.html",
+      "https://mdc.mo.gov/discover-nature/field-guide/velvet-foot/",
+      "https://www.nahuby.sk/atlas-hub/Flammulina-velutipes/plamienka-zimna/penizovka-sametonoha/ID429",
+      "https://www.myko.cz/myko-atlas/Flammulina-velutipes/",
+      "https://botany.cz/cs/flammulina-velutipes/",
+      "https://de.wikipedia.org/wiki/Gemeiner_Samtfußrübling",
+      "https://api.gbif.org/v1/species/3341441/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Puidu-sametkõrges",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/3341441/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Puistotalvijuurekas"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/3341441/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Baršunasta_panjevčica",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Téli_fülőke",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.wikidata.org/wiki/Q372893",
+      "https://lt.wikipedia.org/wiki/Juodkotė_ugniabudė"
+    ],
+    "lv": [],
+    "nl": [
+      "https://api.gbif.org/v1/species/3341441/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Gewoon_fluweelpootje",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Płomiennica_zimowa",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Опёнок_зимний",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Flammulina-velutipes/plamienka-zimna/penizovka-sametonoha/ID429",
+      "https://botany.cz/cs/flammulina-velutipes/",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=330940",
+      "https://www.gbif.org/species/3341441"
+    ],
+    "sl": [
+      "https://api.gbif.org/v1/species/3341441/vernacularNames",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q372893",
+      "https://sr.wikipedia.org/wiki/Баршунаста_пањевчица"
+    ],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Vinterskivling",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Гриб_зимовий",
+      "https://www.wikidata.org/wiki/Q372893"
+    ],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر يعيش على الخشب ويُثمر في خصلات في الشتاء على خشب الأشجار عريضة الأوراق الميت وأحيانًا الحي أيضًا، واسع الانتشار في أوروبا ويوجد كذلك في شمال أفريقيا وأمريكا الشمالية. يظهر غالبًا بعد الصقيع، وأحيانًا عبر الثلج، وقد يبدو نابتًا من التربة عندما يكون الخشب مدفونًا.",
+      "cap": "القبعة عرضها 1,5–10 سم، محدبة أولًا ثم تتسطح، وفي الخصلات غالبًا ما تتشوه حيث تضغط القبعات المتجاورة بعضها على بعض. لونها بني برتقالي زاهٍ إلى بني مصفر، عادة أغمق نحو الوسط وأشحب نحو الحافة، جرداء ولزجة أو دبقة في الرطوبة؛ وهي جافة تكتسب لمعانًا أملس. قد تصبح الحافة محززة مع التقدم في العمر.",
+      "hymenium": "الخياشيم متصلة اتصالًا عريضًا أو ضيقًا، عريضة وكثيفة إلى متباعدة إلى حد ما، مع خياشيم بينية متكررة. تكون أولًا بيضاء أو كريمية وتصبح صفراء شاحبة إلى برتقالية شاحبة مع نضج الجسم الثمري. الدعامات رباعية الأبواغ؛ وتوجد سيستيديا شكلها من زجاجي إلى أسطواني على أوجه الخياشيم وحافتها.",
+      "stipe": "الساق طولها 2–10 سم وسمكها 0,3–1,2 سم، قاسية، أسطوانية أو متثخنة قليلًا نحو القاعدة وأحيانًا غير مركزية قليلًا. مباشرة تحت القبعة تكون صفراء شاحبة أو بلون العسل، ومن القاعدة إلى أعلى تصبح بنية داكنة إلى شبه سوداء وكثيفة المخمل. قد يمتد امتداد جذري طويل ونحيل إلى داخل الخشب. تذكر الأوصاف الأوروبية غالبًا طولًا قدره 5–10 سم؛ أما المجموعات الأمريكية الشمالية فعادة أقصر.",
+      "flesh": "اللحم رقيق، مبيض أو كريمي ولا يتغير لونه عند القطع؛ وقد تكون قاعدة الساق مصفرة. الطعم معتدل والرائحة ضعيفة فطرية أو غير ملحوظة.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ ملساء وغير نشوية وإهليلجية إلى شبه أسطوانية؛ وتشمل المقاييس المنقولة 6,5–10 × 3–4 ميكرومتر و5–10 × 2,5–3,5 ميكرومتر.",
+      "habitat": "يثمر من أواخر الخريف إلى الربيع — في بريطانيا ووسط أوروبا خاصة من نوفمبر إلى مارس، وفي أمريكا الشمالية من الخريف إلى الربيع — في خصلات على جذوع وأغصان ساقطة وجذوع الأشجار عريضة الأوراق، ولا سيما الزان والرماد والبلوط والدردار والحور والصفصاف، ونادرًا فقط على الصنوبريات. يظهر أحيانًا على أشجار حية مريضة وقد يبدو نابتًا من التربة عندما يكون الخشب مدفونًا.",
+      "uses": "القبعات صالحة للأكل بعد الطهي؛ أما السوق فقاسية وعادة ما تُرمى. طالما قُدّر كفطر شتوي صالح للأكل. يجب تحديده بعناية، لأن نوعًا قاتلًا من Galerina قد ينمو على الخشب نفسه. إنوكي أو إنوكيتاكي الأبيض الطويل الساق الذي يُباع في المتاجر نوع شرق آسيوي آخر، وليس هذا.",
+      "confusion": "Galerina marginata سام قاتل، ينمو على الخشب نفسه وله خياشيم مصفرة إلى بنية صدئية وطبعة أبواغ بنية وعادة حلقة على الساق قد تختفي مع العمر. لدى Kuehneromyces mutabilis ساق حرشفية تحت الحلقة وطبعة أبواغ بنية. Flammulina populicola شبه متطابق في الحقل، لكنه ينمو على الحور ويختلف مجهريًا. قد يتعذر تمييز Flammulina elastica وأقاربها القريبين في المجمع نفسه دون مجهر. لدى Flammulina fennae وFlammulina rossica قبعات أشحب بكثير عادة، وغالبًا شبه بيضاء. الإنوكي المزروع هو Flammulina filiformis، نوع شرق آسيوي كان يُخلط سابقًا بهذا.",
+      "notes": "أظهرت دراسات جزيئية نُشرت عام 2018 أن فطر الشتاء المزروع في شرق آسيا، الذي طالما عُدّ هذا النوع، منفصل ويُسمى Flammulina filiformis؛ وقد تنتمي التسجيلات البرية الشرق آسيوية بالاسم الأقدم إليه. وعُيّنت لاحقًا مجموعة إنجليزية نمطًا نائبًا. قد تظهر الأجسام الثمرية أثناء ذوبان الجليد في منتصف الشتاء، حين يثمر قليل من الفطريات ذات الخياشيم الأخرى.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Растяща на туфи, плодоносеща през зимата дървесна гъба върху мъртва и понякога също жива широколистна дървесина, широко разпространена в Европа и също присъстваща в Северна Африка и Северна Америка. Често се появява след слана, понякога през снега, и може да изглежда, че расте от почвата, когато дървесината е скрита.",
+      "cap": "Шапката е 1,5–10 cm широка, отначало изпъкнала, по-късно сплескана, а в туфите често деформирана там, където съседните шапки се притискат една в друга. Ярко оранжево-кафява до жълтеникавокафява, обикновено по-тъмна към средата и по-бледа към ръба, гола и във влажно време слузеста или лепкава; суха придобива гланцов блясък. Ръбът с възрастта може да стане набразден.",
+      "hymenium": "Пластинките са широко или тясно прираснали, широки и гъсти или доста редки, с чести междинни пластинки. Отначало са бели или кремави и стават бледожълти до бледооранжеви, когато плодното тяло узрява. Базидиите са четириспорови; бутилковидни до цилиндрични цистиди седят върху лицата и ръба на пластинките.",
+      "stipe": "Пънчето е 2–10 cm дълго и 0,3–1,2 cm дебело, жилаво, цилиндрично или леко удебелено към основата и понякога леко ексцентрично. Непосредствено под шапката е бледожълто или меденожълто и от основата нагоре става тъмнокафяво до почти черно и гъсто кадифено. Дълго, тънко кореновидно продължение може да навлезе в дървесината. Европейските описания често посочват дължина 5–10 cm; северноамериканските находки обикновено са по-къси.",
+      "flesh": "Месото е тънко, белезникаво или кремаво и не променя цвета си при разрез; основата на пънчето може да бъде жълтеникава. Вкусът е мек, а мирисът слаб и гъбен или почти незабележим.",
+      "sporePrint": "Споровият прах е бял. Спорите са гладки, инамилоидни и елипсовидни до почти цилиндрични; посочените размери включват 6,5–10 × 3–4 µm и 5–10 × 2,5–3,5 µm.",
+      "habitat": "Плодоноси от късна есен до пролет — във Великобритания и Централна Европа предимно от ноември до март, а в Северна Америка от есента до пролетта — на туфи върху пънове, лежащи стволове и стволове на широколистни дървета, особено бук, ясен, дъб, бряст, топола и върба, и само рядко върху иглолистни. Понякога се появява върху болни живи дървета и може да изглежда, че расте от почвата, когато дървесината е скрита.",
+      "uses": "Шапките са ядливи, когато са сварени; пънчетата са жилави и обикновено се изхвърлят. Отдавна се цени като ядлива зимна гъба. Трябва да се определя внимателно, защото върху същата дървесина може да расте смъртоносно отровна Galerina. Бялата, дългопънчеста еноки или енокитаке, продавана в магазините, е друг източноазиатски вид, не този.",
+      "confusion": "Отровна галерина (Galerina marginata) е смъртоносно отровна, расте върху същата дървесина и има жълтеникави до ръждивокафяви пластинки, кафяв споров прах и обикновено пръстен на пънчето, който с възрастта може да изчезне. кичуреста пънчушка (Kuehneromyces mutabilis) има люспесто пънче под пръстена и кафяв споров прах. Flammulina populicola на терена е почти идентична, но расте върху тополи и се различава микроскопски. Flammulina elastica и други близки роднини от същия комплекс могат да бъдат неразличими без микроскоп. Flammulina fennae и Flammulina rossica обикновено имат много по-бледи, често почти бели шапки. Култивираната еноки е Flammulina filiformis, източноазиатски вид, който някога е бил бъркан с този.",
+      "notes": "Молекулярни изследвания, публикувани през 2018 г., показаха, че зимната гъба, култивирана в Източна Азия и дълго време третирана като този вид, е отделна и се нарича Flammulina filiformis; дивите източноазиатски находки под по-старото име могат да принадлежат към нея. По-късно за епитип беше определен английски сбор. Плодните тела могат да се появят по време на размразявания посред зима, когато плодоносят малко други пластинчати гъби.",
+      "names": [],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Зимна_припънка",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "зимна припънка"
+    },
+    "cs": {
+      "description": "Trsnatá, v zimě plodící dřevokazná houba odumřelého a příležitostně i živého listnatého dřeva, rozšířená v Evropě a přítomná také v severní Africe a v Severní Americe. Často se objevuje po mrazech, někdy i skrz sníh, a může se zdát, že roste ze země, je-li dřevo zanesené.",
+      "cap": "Klobouk má 1,5–10 cm v průměru, nejprve je klenutý, později se zplošťuje a v trsech bývá často zprohýbaný tam, kde se sousední klobouky tlačí na sebe. Je jasně oranžovohnědý až žlutohnědý, zpravidla tmavší ve středu a bledší na okraji, holý a za vlhka slizký nebo lepkavý; po oschnutí má hladký lesk. Okraj může být ve stáří rýhovaný.",
+      "hymenium": "Lupeny jsou široce nebo úzce připojené, široké a husté až dosti řídké, s častými kratšími lupénky. Nejprve jsou bílé nebo krémové a při dozrávání plodnice blednou do bleděžluta až bleděoranžova. Bazidie jsou čtyřvýtrusné; na plochách a ostří lupenů jsou lahvicovité až válcovité cystidy.",
+      "stipe": "Třeň je 2–10 cm dlouhý a 0,3–1,2 cm tlustý, tuhý, válcovitý nebo k bázi mírně tlustší a někdy trochu výstředný. Těsně pod kloboukem je bleděžlutý nebo medově žlutý a od báze nahoru tmavne do tmavohněda až černohněda a hustě sametoví. Do dřeva může zasahovat dlouhý, tenký kořenovitý výběžek. Evropské popisy často uvádějí délku 5–10 cm; severoamerické sběry bývají kratší.",
+      "flesh": "Dužnina je tenká, bělavá nebo krémová a na řezu nemění barvu; báze třeně může být nažloutlá. Chuť je mírná a vůně slabá, houbová, nebo nevýrazná.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou hladké, inamyloidní a elipsoidní až téměř válcovité; uváděné rozměry zahrnují 6,5–10 × 3–4 µm a 5–10 × 2,5–3,5 µm.",
+      "habitat": "Plodí od pozdního podzimu do jara — v Británii a ve střední Evropě především od listopadu do března a v Severní Americe od podzimu do jara — v trsech na pařezech, padlých kmenech a kmenech listnatých stromů, zejména buku, jasanu, dubu, jilmu, topolu a vrby, a jen zřídka na jehličnanech. Příležitostně roste i na nemocných živých stromech a někdy se zdá, že roste ze země, je-li dřevo zanesené.",
+      "uses": "Klobouky jsou po uvaření jedlé; třeně jsou tuhé a obvykle se odhazují. Jako zimní jedlá houba je dlouho ceněná. Je třeba ji určovat opatrně, protože na témže dřevě může růst smrtelně jedovatá Galerina. Bílá, dlouhotřeňová enoki nebo enokitake prodávaná v obchodech je jiný východoasijský druh, ne tento.",
+      "confusion": "Čepičatka jehličnanová (Galerina marginata) je smrtelně jedovatá, roste na témže dřevě a má nažloutlé až rezavohnědé lupeny, hnědý výtrusný prach a na třeni obvykle prsten, který může s věkem zmizet. opeňka měnlivá (Kuehneromyces mutabilis) má pod prstenem šupinatý třeň a hnědý výtrusný prach. Flammulina populicola je v terénu téměř shodná, ale roste na topolech a liší se mikroskopicky. Flammulina elastica a další blízce příbuzné v témže komplexu mohou být bez mikroskopu k nerozeznání. Flammulina fennae a Flammulina rossica mají obvykle mnohem bledší, často téměř bílé klobouky. Pěstovaná enoki je Flammulina filiformis, východoasijský druh, který se s tímto dříve zaměňoval.",
+      "notes": "Molekulární studie zveřejněné v roce 2018 ukázaly, že zimní houba pěstovaná ve východní Asii, dlouho považovaná za tento druh, je odlišná a nazývá se Flammulina filiformis; volně rostoucí východoasijské záznamy pod starším jménem k ní mohou patřit. Za epityp byla později určena anglická položka. Plodnice se mohou objevit při oblevách uprostřed zimy, kdy plodí jen málo jiných lupenatých hub.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Flammulina-velutipes/",
+        "https://botany.cz/cs/flammulina-velutipes/",
+        "https://api.gbif.org/v1/species/3341441/vernacularNames"
+      ],
+      "label": "penízovka sametonohá"
+    },
+    "da": {
+      "description": "En knippevoksende, vinterfrugtende vednedbrydende svamp på dødt og lejlighedsvis også levende løvtræ, udbredt i Europa og også til stede i Nordafrika og Nordamerika. Den viser sig ofte efter frost, undertiden gennem sne, og kan synes at vokse fra jorden, når veddet er skjult.",
+      "cap": "Hatten er 1,5–10 cm bred, først hvælvet, senere fladtrykt, og i knipper ofte forvredet dér, hvor nabohatte trykker mod hinanden. Den er klart orangebrun til gulligbrun, sædvanligvis mørkere mod midten og blegere ved randen, glat og slimet eller klæbrig i fugtigt vejr; tør får den en glat glans. Randen kan med alderen blive furet.",
+      "hymenium": "Lamellerne er bredt eller smalt tilheftede, brede og tætte til ret åbne, med hyppige mellemlameller. De er først hvide eller cremefarvede og bliver bleggule til blegorange, efterhånden som frugtlegemet modnes. Basidierne er firesporede; flaskeformede til cylindriske cystider sidder på lamellernes flader og æg.",
+      "stipe": "Stokken er 2–10 cm lang og 0,3–1,2 cm tyk, sej, jævn eller lidt tykkere mod basis og undertiden lidt excentrisk. Lige under hatten er den bleggul eller honninggul og bliver fra basis og opefter mørkebrun til sortagtig og tæt fløjlsagtig. En lang, slank rodagtig forlængelse kan gå ind i veddet. Europæiske beskrivelser angiver ofte en længde på 5–10 cm; nordamerikanske fund er almindeligvis kortere.",
+      "flesh": "Kødet er tyndt, hvidligt eller cremefarvet og skifter ikke farve ved gennemskæring; stokkens basis kan være gullig. Smagen er mild, og duften er svag og svampeagtig eller ubetydelig.",
+      "sporePrint": "Sporeaftrykket er hvidt. Sporerne er glatte, inamyloide og ellipsoidiske til næsten cylindriske; angivne mål omfatter 6,5–10 × 3–4 µm og 5–10 × 2,5–3,5 µm.",
+      "habitat": "Den frugter fra det sene efterår til foråret — i Storbritannien og Centraleuropa især fra november til marts, og i Nordamerika fra efteråret ind i foråret — i knipper på stubbe, liggende stammer og stammer af løvtræer, især bøg, ask, eg, elm, poppel og pil, og kun sjældent på nåletræer. Den findes lejlighedsvis på syge levende træer og kan synes at vokse fra jorden, når veddet er skjult.",
+      "uses": "Hattene er spiselige, når de er kogt; stokkene er seje og kasseres sædvanligvis. Den har længe været værdsat som en spiselig vintersvamp. Den skal bestemmes omhyggeligt, fordi en dødelig Galerina kan vokse på det samme ved. Den hvide, langstokkede enoki eller enokitake i butikkerne er en anden østasiatisk art, ikke denne.",
+      "confusion": "Den randbæltede hjelmhat (Galerina marginata) er dødeligt giftig, vokser på det samme ved og har gullige til rustbrune lameller, et brunt sporeaftryk og sædvanligvis en ring på stokken, som kan forsvinde med alderen. Den foranderlige skælhat (Kuehneromyces mutabilis) har en skællet stok under ringen og et brunt sporeaftryk. Flammulina populicola er i felten næsten identisk, men vokser på poppel og adskiller sig mikroskopisk. Flammulina elastica og andre nære slægtninge i det samme kompleks kan være umulige at skelne uden mikroskop. Flammulina fennae og Flammulina rossica har sædvanligvis langt blegere, ofte næsten hvide hatte. Den dyrkede enoki er Flammulina filiformis, en østasiatisk art der tidligere blev forvekslet med denne.",
+      "notes": "Molekylære undersøgelser offentliggjort i 2018 viste, at den vintersvamp, der dyrkes i Østasien og længe blev behandlet som denne art, er særskilt og hedder Flammulina filiformis; vilde østasiatiske fund under det ældre navn kan høre dertil. En engelsk kollektion blev senere udpeget som epitype. Frugtlegemer kan vise sig under tø midt om vinteren, når kun få andre lamelsvampe frugter.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/3341441/vernacularNames"
+      ],
+      "label": "gul fløjlsfod"
+    },
+    "de": {
+      "description": "Ein büschelig wachsender, im Winter fruktifizierender holzzersetzender Pilz an totem und gelegentlich auch lebendem Laubholz, in Europa weit verbreitet und auch in Nordafrika und Nordamerika vorkommend. Er erscheint oft nach Frost, manchmal durch den Schnee, und kann vom Boden zu wachsen scheinen, wenn das Holz verborgen ist.",
+      "cap": "Der Hut ist 1,5–10 cm breit, zunächst gewölbt, später abgeflacht und in Büscheln oft verbogen, wo benachbarte Hüte aneinanderdrücken. Er ist leuchtend orangebraun bis gelblich braun, gewöhnlich zur Mitte dunkler und am Rand blasser, kahl und feucht schleimig oder klebrig; trocken erhält er einen glatten Glanz. Der Rand kann im Alter gerieft werden.",
+      "hymenium": "Die Lamellen sind breit oder schmal angewachsen, breit und eng bis ziemlich weit stehend, mit häufigen Zwischenlamellen. Sie sind zunächst weiß oder cremefarben und werden beim Reifen des Fruchtkörpers blassgelb bis blassorange. Die Basidien sind viersporig; an Flächen und Schneiden der Lamellen sitzen flaschenförmige bis zylindrische Zystiden.",
+      "stipe": "Der Stiel ist 2–10 cm lang und 0,3–1,2 cm dick, zäh, gleich dick oder zur Basis etwas verdickt und manchmal etwas exzentrisch. Dicht unter dem Hut ist er blassgelb oder honiggelb und wird von der Basis aufwärts dunkelbraun bis schwärzlich und dicht samtig. Eine lange, dünne wurzelartige Verlängerung kann ins Holz reichen. Europäische Beschreibungen nennen oft eine Länge von 5–10 cm; nordamerikanische Aufsammlungen sind gewöhnlich kürzer.",
+      "flesh": "Das Fleisch ist dünn, weißlich oder cremefarben und verändert beim Anschneiden die Farbe nicht; die Stielbasis kann gelblich sein. Der Geschmack ist mild, der Geruch schwach und pilzartig oder unauffällig.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind glatt, inamyloid und ellipsoid bis nahezu zylindrisch; angegebene Maße umfassen 6,5–10 × 3–4 µm und 5–10 × 2,5–3,5 µm.",
+      "habitat": "Er fruktifiziert vom Spätherbst bis zum Frühling — in Großbritannien und Mitteleuropa vor allem von November bis März und in Nordamerika vom Herbst bis in den Frühling — in Büscheln an Stümpfen, liegenden Stämmen und Stämmen von Laubbäumen, besonders Buche, Esche, Eiche, Ulme, Pappel und Weide, und nur selten an Nadelbäumen. Gelegentlich findet man ihn an erkrankten lebenden Bäumen, und manchmal scheint er aus dem Boden zu wachsen, wenn das Holz verborgen ist.",
+      "uses": "Die Hüte sind gekocht essbar; die Stiele sind zäh und werden gewöhnlich verworfen. Als Winterpilz wird er seit langem geschätzt. Man muss ihn sorgfältig bestimmen, weil eine tödliche Galerina am selben Holz wachsen kann. Der weiße, langstielige Enoki oder Enokitake im Handel ist eine andere ostasiatische Art, nicht diese.",
+      "confusion": "Der Gifthäubling (Galerina marginata) ist tödlich giftig, wächst am selben Holz und hat gelbliche bis rostbraune Lamellen, braunes Sporenpulver und gewöhnlich einen Ring am Stiel, der mit dem Alter verschwinden kann. Das Gemeine Stockschwämmchen (Kuehneromyces mutabilis) hat unter dem Ring einen schuppigen Stiel und braunes Sporenpulver. Flammulina populicola ist im Gelände praktisch identisch, wächst aber an Pappeln und unterscheidet sich mikroskopisch. Flammulina elastica und andere nahe Verwandte desselben Komplexes können ohne Mikroskop ununterscheidbar sein. Flammulina fennae und Flammulina rossica haben gewöhnlich viel blassere, oft nahezu weiße Hüte. Der kultivierte Enoki ist Flammulina filiformis, eine ostasiatische Art, die früher mit dieser verwechselt wurde.",
+      "notes": "Molekulare Studien aus dem Jahr 2018 zeigten, dass der in Ostasien kultivierte Winterpilz, der lange als diese Art galt, eigenständig ist und Flammulina filiformis heißt; wilde ostasiatische Angaben unter dem älteren Namen können zu ihr gehören. Als Epityp wurde später eine englische Aufsammlung festgelegt. Fruchtkörper können bei Tauwetter mitten im Winter erscheinen, wenn nur wenige andere Lamellenpilze fruktifizieren.",
+      "names": [
+        "Samtfußrübling",
+        "Winterrübling",
+        "Gewöhnlicher Samtfußrübling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Gemeiner_Samtfußrübling",
+        "https://api.gbif.org/v1/species/3341441/vernacularNames",
+        "https://api.gbif.org/v1/species/3341441/vernacularNames"
+      ],
+      "label": "Gemeiner Samtfußrübling"
+    },
+    "en": {
+      "description": "A tufted, winter-fruiting wood-rotting fungus of dead and occasionally living hardwood, widespread in Europe and also present in North Africa and North America. It often appears after frost, sometimes through snow, and may seem to grow from the ground when the wood is buried.",
+      "cap": "The cap is 1.5–10 cm across, convex then flattening, and often distorted where neighbouring caps press together in a tuft. It is bright orange-brown to yellowish brown, usually darker towards the centre and paler at the margin, bald, and slimy or sticky when moist, drying to a smooth sheen. The margin may become lined with age.",
+      "hymenium": "The gills are broadly or narrowly attached, broad, and close to fairly well spaced, with frequent short-gills. They are white or cream at first and become pale yellow to pale orangish as the fruit body matures. The basidia are four-spored; flask-shaped to cylindrical cystidia are present on the gill faces and edges.",
+      "stipe": "The stem is 2–10 cm long and 0.3–1.2 cm thick, tough, equal or slightly thickened towards the base, and sometimes slightly off-centre. It is pale yellow or honey-yellow just below the cap and becomes dark brown to blackish and densely velvety from the base upwards. A long, slender root-like extension may run into the wood. European descriptions often give a length of 5–10 cm; North American collections are commonly shorter.",
+      "flesh": "The flesh is thin, whitish or cream, and does not change colour when cut; the stem base may be yellowish. The taste is mild and the odour is faint and mushroom-like, or not distinctive.",
+      "sporePrint": "The spore print is white. The spores are smooth, inamyloid, and ellipsoidal to almost cylindrical; reported sizes include 6.5–10 × 3–4 µm and 5–10 × 2.5–3.5 µm.",
+      "habitat": "It fruits from late autumn to spring — in Britain and Central Europe mainly from November to March, and in North America from autumn into spring — in clusters on stumps, fallen logs and trunks of broadleaved trees, especially beech, ash, oak, elm, poplar and willow, and only rarely on conifers. It is occasionally found on diseased living trees, and sometimes appears to grow from soil when the wood is buried.",
+      "uses": "The caps are edible when cooked; the stems are tough and usually discarded. It has long been valued as a winter edible. It must be identified with care, because a deadly Galerina can grow on the same wood. The white, long-stemmed enoki or enokitake sold in shops is a different East Asian species, not this one.",
+      "confusion": "Galerina marginata is deadly poisonous, grows on the same wood, and has yellowish to rusty-brown gills, a brown spore print and usually a ring on the stem, which may disappear with age. Kuehneromyces mutabilis has a scaly stem below a ring and a brown spore print. Flammulina populicola is virtually identical in the field but grows on poplars and differs microscopically. Flammulina elastica and other close relatives in the same complex may be indistinguishable without a microscope. Flammulina fennae and Flammulina rossica usually have much paler, often nearly white caps. The cultivated enoki mushroom is Flammulina filiformis, an East Asian species formerly confused with this one.",
+      "notes": "Molecular studies published in 2018 showed that the winter mushroom cultivated in East Asia, long treated as this species, is distinct and is now called Flammulina filiformis; wild East Asian records under the older name may belong there. An English collection was later designated as the epitype. Fruit bodies can appear during thaws in midwinter, when few other gilled fungi are fruiting.",
+      "names": [
+        "velvet foot",
+        "velvet stem"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=330940",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=330940",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=330940",
+        "https://www.gbif.org/species/3341441",
+        "https://www.wikidata.org/wiki/Q372893",
+        "https://www.inaturalist.org/taxa/67594-Flammulina-velutipes",
+        "https://en.wikipedia.org/wiki/Flammulina_velutipes",
+        "https://www.first-nature.com/fungi/flammulina-velutipes.php",
+        "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/velvet-shank/",
+        "https://www.mushroomexpert.com/flammulina_velutipes.html",
+        "https://mdc.mo.gov/discover-nature/field-guide/velvet-foot/",
+        "https://www.nahuby.sk/atlas-hub/Flammulina-velutipes/plamienka-zimna/penizovka-sametonoha/ID429",
+        "https://www.myko.cz/myko-atlas/Flammulina-velutipes/",
+        "https://botany.cz/cs/flammulina-velutipes/",
+        "https://de.wikipedia.org/wiki/Gemeiner_Samtfußrübling",
+        "https://api.gbif.org/v1/species/3341441/vernacularNames"
+      ],
+      "label": "velvet shank"
+    },
+    "es": {
+      "description": "Un hongo lignícola que fructifica en racimos en invierno sobre madera muerta y ocasionalmente viva de planifolios, muy extendido en Europa y también presente en el norte de África y en Norteamérica. Aparece a menudo después de las heladas, a veces a través de la nieve, y puede parecer que crece del suelo cuando la madera está enterrada.",
+      "cap": "El sombrero mide de 1,5 a 10 cm de diámetro, primero convexo y luego aplanado, y en los racimos a menudo queda deformado donde los sombreros vecinos se aprietan unos contra otros. Es de un pardo anaranjado vivo a pardo amarillento, por lo general más oscuro hacia el centro y más pálido hacia el margen, lampiño y viscoso o pegajoso en tiempo húmedo; en seco adquiere un brillo liso. El margen puede volverse estriado con la edad.",
+      "hymenium": "Las láminas están unidas de forma ancha o estrecha, son anchas y están apretadas o bastante espaciadas, con láminas intermedias frecuentes. Al principio son blancas o crema y se vuelven amarillo pálido o naranja pálido a medida que madura el carpóforo. Los basidios son tetraspóricos; hay cistidios de forma de botella a cilíndrica en las caras y en el filo de las láminas.",
+      "stipe": "El pie mide de 2 a 10 cm de largo y de 0,3 a 1,2 cm de grosor, es correoso, cilíndrico o un poco engrosado hacia la base y a veces algo excéntrico. Justo debajo del sombrero es amarillo pálido o color miel y, de la base hacia arriba, se vuelve pardo oscuro o casi negro y densamente aterciopelado. Una prolongación radical larga y delgada puede internarse en la madera. Las descripciones europeas indican a menudo una longitud de 5 a 10 cm; las recoltas norteamericanas suelen ser más cortas.",
+      "flesh": "La carne es delgada, blanquecina o crema y no cambia de color al corte; la base del pie puede ser amarillenta. El sabor es suave y el olor débil y fúngico, o poco perceptible.",
+      "sporePrint": "La esporada es blanca. Las esporas son lisas, inamiloides y elipsoides o casi cilíndricas; las medidas publicadas incluyen 6,5–10 × 3–4 µm y 5–10 × 2,5–3,5 µm.",
+      "habitat": "Fructifica desde finales del otoño hasta la primavera —en Gran Bretaña y Europa central sobre todo de noviembre a marzo, y en Norteamérica desde el otoño hasta la primavera— en racimos sobre tocones, troncos caídos y troncos de planifolios, en especial haya, fresno, roble, olmo, chopo y sauce, y solo rara vez sobre coníferas. A veces aparece en árboles vivos enfermos y puede parecer que crece del suelo cuando la madera está enterrada.",
+      "uses": "Los sombreros son comestibles una vez cocidos; los pies son correosos y suelen desecharse. Se ha apreciado desde hace tiempo como seta comestible de invierno. Debe determinarse con cuidado, porque una Galerina mortal puede crecer en la misma madera. El enoki o enokitake blanco de pie largo que se vende en las tiendas es otra especie de Asia oriental, no esta.",
+      "confusion": "La galerina rebordeada (Galerina marginata) es mortalmente tóxica, crece en la misma madera y tiene láminas amarillentas o pardo-oxidado, esporada parda y por lo general un anillo en el pie, que puede desaparecer con la edad. La foliota cambiante (Kuehneromyces mutabilis) tiene el pie escamoso por debajo del anillo y esporada parda. Flammulina populicola es casi idéntica en el campo, pero crece sobre chopos y se diferencia al microscopio. Flammulina elastica y otros parientes próximos del mismo complejo pueden resultar indistinguibles sin microscopio. Flammulina fennae y Flammulina rossica tienen por lo general sombreros mucho más pálidos, a menudo casi blancos. El enoki cultivado es Flammulina filiformis, una especie de Asia oriental que antes se confundía con esta.",
+      "notes": "Estudios moleculares publicados en 2018 mostraron que la seta de invierno cultivada en Asia oriental, durante mucho tiempo tratada como esta especie, es distinta y se llama Flammulina filiformis; los registros silvestres de Asia oriental bajo el nombre antiguo pueden corresponder a ella. Más tarde se designó como epitipo una recolta inglesa. Los carpóforos pueden aparecer durante los deshielos a mediados del invierno, cuando fructifican pocas otras setas con láminas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Kobarates kasvav, talvel viljakehi moodustav puitu lagundav seen surnud ja aeg-ajalt ka elusal lehtpuul, laialt levinud Euroopas ning esinev ka Põhja-Aafrikas ja Põhja-Ameerikas. Ta ilmub sageli pärast külma, vahel läbi lume, ja võib paista maast kasvavat, kui puit on varjul.",
+      "cap": "Kübar on 1,5–10 cm lai, algul kumer, hiljem lapik, ja kobarates sageli moonutatud seal, kus naaberkübarad üksteise vastu suruvad. Ta on ereoranžikaspruun kuni kollakaspruun, tavaliselt keskosa suunas tumedam ja serva suunas kahvatum, paljas ning niiskena limane või kleepuv; kuivana saab sileda läike. Serv võib vananedes sooneliseks muutuda.",
+      "hymenium": "Eoslehekesed on laialt või kitsalt kinnitunud, laiad ning tihedad või üsna hõredad, sagedaste vahelehekestega. Need on algul valged või kreemikad ja muutuvad viljakeha valmimisel kahvatukollaseks kuni kahvatoranžiks. Basiidid on neljaeoselised; pudelja kuni silindrilise kujuga tsüstiidid asuvad eoslehekeste pindadel ja servadel.",
+      "stipe": "Jalg on 2–10 cm pikk ja 0,3–1,2 cm paks, sitke, silindriline või aluse suunas veidi jämenenud ning vahel veidi ekstsentriline. Kohe kübara all on ta kahvatukollane või meekollane ning muutub alusest ülespoole tumepruuniks kuni peaaegu mustaks ja tihedalt sametiseks. Pikk, peenike juuretaoline jätke võib kasvada puitu. Euroopa kirjeldused annavad sageli pikkuseks 5–10 cm; Põhja-Ameerika kogud on tavaliselt lühemad.",
+      "flesh": "Lihaskude on õhuke, valkjas või kreemikas ega muuda lõikepinnal värvi; jala alus võib olla kollakas. Maitse on leebe ja lõhn nõrk ning seenelõhnaline või vaevumärgatav.",
+      "sporePrint": "Eospulber on valge. Eosed on siledad, inamüloidsed ning ellipsoidse kuni peaaegu silindrilise kujuga; esitatud mõõtmed hõlmavad 6,5–10 × 3–4 µm ja 5–10 × 2,5–3,5 µm.",
+      "habitat": "Viljakehad ilmuvad hilissügisest kevadeni — Suurbritannias ja Kesk-Euroopas eriti novembrist märtsini ning Põhja-Ameerikas sügisest kevadeni — kobarates kändudel, lamavatel tüvedel ja lehtpuude tüvedel, eriti pöögil, saarel, tammel, jalakal, paplil ja pajul, ning vaid harva okaspuudel. Vahel esineb ta haigestunud eluspuudel ja võib paista maast kasvavat, kui puit on varjul.",
+      "uses": "Kübarad on keedetuna söödavad; jalad on sitked ja need tavaliselt visatakse ära. Teda on ammu hinnatud söödava taliseenena. Ta tuleb hoolikalt määrata, sest samal puidul võib kasvada surmavalt mürgine Galerina. Poodides müüdav valge, pika jalaga enoki ehk enokitake on teine Ida-Aasia liik, mitte see.",
+      "confusion": "Jahutanuk (Galerina marginata) on surmavalt mürgine, kasvab samal puidul ning tal on kollakad kuni roostepunased eoslehekesed, pruun eospulber ja tavaliselt rõngas jalal, mis võib vananedes kaduda. harilik kännumampel (Kuehneromyces mutabilis) jalal on rõnga all soomused ja eospulber on pruun. Flammulina populicola on looduses peaaegu identne, kuid kasvab paplitel ja erineb mikroskoobi all. Flammulina elastica ja teised sama kompleksi lähedased sugulased võivad olla mikroskoobita eristamatud. Flammulina fennae ja Flammulina rossica kübarad on tavaliselt palju kahvatumad, sageli peaaegu valged. Viljeldav enoki on Flammulina filiformis, Ida-Aasia liik, mida varem segamini aeti selle liigiga.",
+      "notes": "2018. aastal avaldatud molekulaaruuringud näitasid, et Ida-Aasias viljeldav taliseen, mida kaua peeti selleks liigiks, on eraldi liik nimega Flammulina filiformis; vanema nime all kirja pandud Ida-Aasia looduslikud leiud võivad sinna kuuluda. Hiljem määrati epituübiks inglise kogu. Viljakehad võivad ilmuda sula ajal kesktalvel, kui viljuvad vähesed teised eoslehekesega seened.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Puidu-sametkõrges",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "puidu-sametkõrges"
+    },
+    "fa": {
+      "description": "قارچی چوب‌زی که در زمستان به صورت دسته‌ای روی چوب مرده و گاه زنده درختان پهن‌برگ میوه‌دهی می‌کند، در اروپا گسترده است و در شمال آفریقا و آمریکای شمالی نیز وجود دارد. اغلب پس از یخبندان ظاهر می‌شود، گاه از میان برف، و وقتی چوب پنهان باشد ممکن است از خاک روییده به نظر برسد.",
+      "cap": "کلاهک ۱٫۵–۱۰ سانتی‌متر پهنا دارد، ابتدا محدب است و سپس پهن می‌شود و در دسته‌ها اغلب جایی که کلاهک‌های همسایه به هم فشار می‌آورند تغییر شکل می‌دهد. نارنجی‌قهوه‌ای روشن تا قهوه‌ای مایل به زرد است، معمولاً به سوی مرکز تیره‌تر و به سوی حاشیه رنگ‌پریده‌تر، بی‌کرک، و در رطوبت لزج یا چسبناک؛ خشک که باشد جلایی صاف می‌گیرد. حاشیه ممکن است با سن شیاردار شود.",
+      "hymenium": "تیغه‌ها پهن یا باریک پیوسته‌اند، پهن و متراکم تا نسبتاً تنک، با تیغه‌های میانی مکرر. ابتدا سفید یا کرم‌رنگ‌اند و با رسیدن اندام میوه‌ای زرد کمرنگ تا نارنجی کمرنگ می‌شوند. بازیدی‌ها چهاراسپوری‌اند؛ سیستیدهایی به شکل بطری تا استوانه‌ای روی سطح و لبه تیغه‌ها قرار دارند.",
+      "stipe": "ساقه ۲–۱۰ سانتی‌متر طول و ۰٫۳–۱٫۲ سانتی‌متر ضخامت دارد، سفت، استوانه‌ای یا کمی به سوی پایه ضخیم‌تر و گاه اندکی خارج از مرکز است. درست زیر کلاهک زرد کمرنگ یا عسلی است و از پایه به بالا قهوه‌ای تیره تا نزدیک به سیاه و انبوه مخملی می‌شود. امتدادی ریشه‌مانند، دراز و باریک ممکن است به درون چوب برود. توصیف‌های اروپایی اغلب طول ۵–۱۰ سانتی‌متر را ذکر می‌کنند؛ نمونه‌های آمریکای شمالی معمولاً کوتاه‌ترند.",
+      "flesh": "گوشت نازک، سفیدک یا کرم‌رنگ است و هنگام برش رنگ عوض نمی‌کند؛ پایه ساقه ممکن است مایل به زرد باشد. طعم ملایم و بو ضعیف و قارچی است، یا چندان محسوس نیست.",
+      "sporePrint": "نقش هاگ سفید است. هاگ‌ها صاف، غیرآمیلوییدی و بیضوی تا تقریباً استوانه‌ای‌اند؛ اندازه‌های گزارش‌شده شامل ۶٫۵–۱۰ × ۳–۴ میکرومتر و ۵–۱۰ × ۲٫۵–۳٫۵ میکرومتر است.",
+      "habitat": "از اواخر پاییز تا بهار میوه‌دهی می‌کند — در بریتانیا و اروپای مرکزی به‌ویژه از نوامبر تا مارس، و در آمریکای شمالی از پاییز تا بهار — به صورت دسته‌ای روی کنده، تنه‌های افتاده و تنه درختان پهن‌برگ، به‌ویژه راش، زبان‌گنجشک، بلوط، نارون، صنوبر و بید، و تنها به‌ندرت روی سوزنی‌برگ‌ها. گاه روی درختان زنده بیمار ظاهر می‌شود و وقتی چوب پنهان باشد ممکن است از خاک روییده به نظر برسد.",
+      "uses": "کلاهک‌ها پس از پخته شدن خوراکی‌اند؛ ساقه‌ها سفت‌اند و معمولاً دور ریخته می‌شوند. از دیرباز به‌عنوان قارچ خوراکی زمستانی ارزش داشته است. باید با دقت شناسایی شود، زیرا یک Galerina مرگبار ممکن است روی همان چوب رشد کند. انوکی یا انوکیتاکی سفید با ساقه بلند که در فروشگاه‌ها فروخته می‌شود گونه دیگری از شرق آسیاست، نه این گونه.",
+      "confusion": "Galerina marginata به‌شدت سمی و مرگبار است، روی همان چوب می‌روید و تیغه‌های مایل به زرد تا قهوه‌ای زنگاری، نقش هاگ قهوه‌ای و معمولاً حلقه‌ای روی ساقه دارد که ممکن است با سن از بین برود. Kuehneromyces mutabilis زیر حلقه ساقه‌ای پولک‌دار و نقش هاگ قهوه‌ای دارد. Flammulina populicola در طبیعت تقریباً یکسان است، اما روی صنوبر می‌روید و در زیر میکروسکوپ تفاوت دارد. Flammulina elastica و خویشاوندان نزدیک دیگر همان مجموعه ممکن است بدون میکروسکوپ تشخیص‌ناپذیر باشند. Flammulina fennae و Flammulina rossica معمولاً کلاهک‌هایی بسیار رنگ‌پریده‌تر، اغلب تقریباً سفید دارند. انوکی پرورشی Flammulina filiformis است، گونه‌ای شرق آسیایی که پیش‌تر با این گونه اشتباه گرفته می‌شد.",
+      "notes": "مطالعات مولکولی منتشرشده در ۲۰۱۸ نشان داد که قارچ زمستانی پرورش‌یافته در شرق آسیا، که دیرزمانی این گونه پنداشته می‌شد، جداست و نامش Flammulina filiformis است؛ گزارش‌های وحشی شرق آسیا با نام قدیمی‌تر ممکن است به آن تعلق داشته باشند. بعداً یک نمونه انگلیسی به‌عنوان اپی‌تیپ تعیین شد. اندام‌های میوه‌ای ممکن است هنگام آب‌شدن برف در میانه زمستان ظاهر شوند، وقتی قارچ‌های تیغه‌دار دیگر اندکی میوه‌دهی می‌کنند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Tuppaina kasvava, talvella itiöemiä muodostava puuta lahottava sieni kuolleessa ja toisinaan myös elävässä lehtipuussa, laajalti levinnyt Euroopassa ja esiintyy myös Pohjois-Afrikassa ja Pohjois-Amerikassa. Se ilmestyy usein hallan jälkeen, joskus lumen läpi, ja voi vaikuttaa maasta kasvavalta, kun puuaines on kätkössä.",
+      "cap": "Lakki on 1,5–10 cm leveä, ensin kupera, myöhemmin litistyvä, ja tupissa usein vääristynyt siinä, missä viereiset lakit painuvat toisiaan vasten. Se on kirkkaan oranssinruskea tai kellertävän ruskea, tavallisesti keskustaa kohti tummempi ja reunaa kohti vaaleampi, kalju ja kosteana limainen tai tahmea; kuivana se saa sileän kiillon. Reuna voi vanhetessa uurteutua.",
+      "hymenium": "Heltat ovat leveästi tai kapeasti kiinnittyneet, leveät ja tiheät tai melko harvat, ja lyhyempiä välihelttoja on usein. Ne ovat aluksi valkoiset tai kermanväriset ja muuttuvat itiöemän kypsyessä vaaleankeltaisiksi tai vaaleanoransseiksi. Basidit ovat neli-itiöisiä; helttojen pinnoilla ja terillä on pullomaisia tai lieriömäisiä kystidejä.",
+      "stipe": "Jalka on 2–10 cm pitkä ja 0,3–1,2 cm paksu, sitkeä, tasapaksu tai tyveä kohti hieman paksuneva ja toisinaan hieman eksentrinen. Lakin alla se on vaaleankeltainen tai hunajankeltainen ja tummuu tyvestä ylöspäin tummanruskeaksi tai mustanruskeaksi ja tiheän samettiseksi. Pitkä, hoikka juurimainen jatke voi ulottua puuhun. Eurooppalaiset kuvaukset antavat usein pituudeksi 5–10 cm; pohjoisamerikkalaiset kokoelmat ovat tavallisesti lyhyempiä.",
+      "flesh": "Malto on ohut, vaaleanvalkoinen tai kermanvärinen eikä muuta väriään leikkauspinnalta; jalan tyvi voi olla kellertävä. Maku on mieto ja tuoksu heikko ja sienimäinen tai huomaamaton.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat sileitä, inamyloideja ja ellipsoideja tai lähes lieriömäisiä; ilmoitetut mitat sisältävät 6,5–10 × 3–4 µm ja 5–10 × 2,5–3,5 µm.",
+      "habitat": "Se tekee itiöemiä myöhäissyksystä kevääseen — Britanniassa ja Keski-Euroopassa etenkin marraskuusta maaliskuuhun ja Pohjois-Amerikassa syksystä kevääseen — tuppaina kannoilla, kaatuneilla rungoilla ja lehtipuiden rungoilla, erityisesti pyökillä, saarnella, tammella, jalavalla, poppelilla ja pajulla, ja vain harvoin havupuilla. Sitä tavataan toisinaan sairaissa elävissä puissa, ja se voi vaikuttaa maasta kasvavalta, kun puuaines on kätkössä.",
+      "uses": "Lakit ovat syötäviä kypsennettyinä; jalat ovat sitkeitä ja ne tavallisesti hylätään. Sitä on pitkään arvostettu talvisena ruokasienenä. Se on määritettävä huolellisesti, koska samalla puulla voi kasvaa tappavan myrkyllinen Galerina. Kaupoissa myytävä valkoinen, pitkäjalkainen enoki eli enokitake on toinen itäaasialainen laji, ei tämä.",
+      "confusion": "Myrkkynääpikkä (Galerina marginata) on tappavan myrkyllinen, kasvaa samalla puulla ja sillä on kellertävät tai ruosteenruskeat heltat, ruskea itiöpöly ja tavallisesti rengas jalassa, joka voi kadota vanhetessa. koivunkantosieni (Kuehneromyces mutabilis) -lajilla on renkaan alla suomuinen jalka ja ruskea itiöpöly. Flammulina populicola on maastossa lähes identtinen, mutta kasvaa poppeleilla ja eroaa mikroskooppisesti. Flammulina elastica ja muut saman kompleksin lähisukulaiset voivat olla erottamattomia ilman mikroskooppia. Flammulina fennae- ja Flammulina rossica -lajeilla on tavallisesti paljon vaaleammat, usein lähes valkoiset lakit. Viljelty enoki on Flammulina filiformis, itäaasialainen laji, joka aiemmin sekoitettiin tähän.",
+      "notes": "Vuonna 2018 julkaistut molekyylitutkimukset osoittivat, että Itä-Aasiassa viljelty talvisieni, jota pitkään pidettiin tänä lajina, on erillinen ja sen nimi on Flammulina filiformis; vanhalla nimellä kirjatut itäaasialaiset villihavainnot voivat kuulua siihen. Epityypiksi määrättiin myöhemmin englantilainen kokoelma. Itiöemiä voi ilmestyä suojasäällä keskitalvella, jolloin harvat muut helttasienet tekevät itiöemiä.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/3341441/vernacularNames",
+        "https://fi.wikipedia.org/wiki/Puistotalvijuurekas"
+      ],
+      "label": "puistotalvijuurekas"
+    },
+    "fr": {
+      "description": "Un champignon lignicole en touffes, fructifiant en hiver sur le bois mort et parfois vivant des feuillus, largement répandu en Europe et également présent en Afrique du Nord et en Amérique du Nord. Il apparaît souvent après le gel, parfois à travers la neige, et peut sembler sortir du sol lorsque le bois est enterré.",
+      "cap": "Le chapeau mesure 1,5–10 cm de diamètre, d’abord convexe puis s’aplatissant, et souvent déformé dans les touffes là où les chapeaux voisins se compriment. Il est d’un brun orangé vif à brun jaunâtre, généralement plus foncé au centre et plus pâle à la marge, glabre, et visqueux ou collant par temps humide ; il sèche avec un éclat lisse. La marge peut devenir striée avec l’âge.",
+      "hymenium": "Les lames sont largement ou étroitement adnées, larges, et serrées à assez espacées, avec de fréquentes lamellules. Elles sont d’abord blanches ou crème et deviennent jaune pâle à orangé pâle à maturité. Les basides sont tétrasporiques ; des cystides en forme de flacon à cylindriques sont présentes sur les faces et les arêtes des lames.",
+      "stipe": "Le pied mesure 2–10 cm de long et 0,3–1,2 cm d’épaisseur, il est tenace, égal ou un peu épaissi vers la base, parfois légèrement excentré. Juste sous le chapeau il est jaune pâle ou jaune miel, et devient brun foncé à noirâtre et densément velouté de la base vers le haut. Un long prolongement grêle, presque racinaire, peut s’enfoncer dans le bois. Les descriptions européennes indiquent souvent une longueur de 5–10 cm ; les récoltes nord-américaines sont généralement plus courtes.",
+      "flesh": "La chair est mince, blanchâtre ou crème, et ne change pas de couleur à la coupe ; la base du pied peut être jaunâtre. La saveur est douce et l’odeur faible, fongique, ou peu distincte.",
+      "sporePrint": "La sporée est blanche. Les spores sont lisses, inamyloïdes et ellipsoïdales à presque cylindriques ; les dimensions rapportées comprennent 6,5–10 × 3–4 µm et 5–10 × 2,5–3,5 µm.",
+      "habitat": "Il fructifie de la fin de l’automne au printemps — en Grande-Bretagne et en Europe centrale surtout de novembre à mars, et en Amérique du Nord de l’automne au printemps — en touffes sur les souches, les troncs abattus et les troncs de feuillus, notamment le hêtre, le frêne, le chêne, l’orme, le peuplier et le saule, et seulement rarement sur les conifères. On le trouve parfois sur des arbres vivants malades, et il peut sembler sortir du sol lorsque le bois est enterré.",
+      "uses": "Les chapeaux sont comestibles une fois cuits ; les pieds sont tenaces et généralement écartés. Il est longtemps apprécié comme comestible d’hiver. Il faut l’identifier avec soin, car une Galerina mortelle peut pousser sur le même bois. L’enoki ou enokitake blanc à long pied vendu dans le commerce est une autre espèce d’Asie de l’Est, et non celle-ci.",
+      "confusion": "La galère marginée (Galerina marginata) est mortellement toxique, pousse sur le même bois et possède des lames jaunâtres à brun rouille, une sporée brune et généralement un anneau sur le pied, qui peut disparaître avec l’âge. La pholiote changeante (Kuehneromyces mutabilis) a un pied squameux sous l’anneau et une sporée brune. Flammulina populicola est presque identique sur le terrain mais pousse sur les peupliers et diffère microscopiquement. Flammulina elastica et d’autres proches du même complexe peuvent être indiscernables sans microscope. Flammulina fennae et Flammulina rossica ont généralement des chapeaux beaucoup plus pâles, souvent presque blancs. L’enoki cultivé est Flammulina filiformis, une espèce d’Asie de l’Est autrefois confondue avec celle-ci.",
+      "notes": "Des études moléculaires publiées en 2018 ont montré que le champignon d’hiver cultivé en Asie de l’Est, longtemps traité comme cette espèce, est distinct et s’appelle Flammulina filiformis ; les mentions sauvages d’Asie de l’Est sous l’ancien nom peuvent s’y rapporter. Une récolte anglaise a plus tard été désignée comme épitype. Les basidiomes peuvent apparaître lors des redoux au milieu de l’hiver, lorsque peu d’autres champignons à lames fructifient.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/3341441/vernacularNames"
+      ],
+      "label": "collybie à pied velouté"
+    },
+    "he": {
+      "description": "פטרייה מעכלת עץ הפורייה בצרורות בחורף על עץ מת ולעתים גם חי של עצים רחבי־עלים, נפוצה באירופה וקיימת גם בצפון אפריקה ובצפון אמריקה. היא מופיעה לעתים קרובות אחרי כפור, לפעמים דרך השלג, ועשויה להיראות כצומחת מהקרקע כאשר העץ חבוי.",
+      "cap": "הכובע רוחבו 1.5–10 ס\"מ, קמור בהתחלה ואחר כך שטוח, ובצרורות הוא לעתים קרובות מעוות במקום שבו כובעים שכנים לוחצים זה על זה. צבעו חום־כתום עז עד חום־צהבהב, בדרך כלל כהה יותר לכיוון המרכז וחיוור יותר לכיוון השוליים, חלק ורירני או דביק בלחות; יבש הוא מקבל ברק חלק. השוליים עשויים להיחרץ עם הגיל.",
+      "hymenium": "הזימים מחוברים באופן רחב או צר, רחבים וצפופים עד דלילים למדי, עם זימים ביניים תכופים. בהתחלה הם לבנים או קרם והופכים צהוב־חיוור עד כתום־חיוור ככל שגוף הפרי מבשיל. הבסידיות הן בעלות ארבעה נבגים; ציסטידות דמויות בקבוק עד גליליות יושבות על פני הזימים ועל שפתם.",
+      "stipe": "הרגל אורכה 2–10 ס\"מ ועוביה 0.3–1.2 ס\"מ, קשיחה, גלילית או מעט מתעבה לכיוון הבסיס ולעתים מעט אקסצנטרית. מיד מתחת לכובע היא צהובה־חיוורת או בצבע דבש, ומהבסיס כלפי מעלה היא הופכת חומה כהה עד כמעט שחורה וצפופה כמו קטיפה. הארכה שורשית ארוכה ודקה עשויה להיכנס אל תוך העץ. תיאורים אירופיים מציינים לעתים קרובות אורך של 5–10 ס\"מ; איסופים מצפון אמריקה קצרים בדרך כלל יותר.",
+      "flesh": "הבשר דק, לבנבן או קרם ואינו משנה צבע בחיתוך; בסיס הרגל עשוי להיות צהבהב. הטעם עדין והריח חלש ופטרייתי, או כמעט בלתי מורגש.",
+      "sporePrint": "טביעת הנבגים לבנה. הנבגים חלקים, לא עמילואידיים ואליפסואידיים עד כמעט גליליים; המידות שפורסמו כוללות 6.5–10 × 3–4 µm ו־5–10 × 2.5–3.5 µm.",
+      "habitat": "היא פורייה מסוף הסתיו עד האביב — בבריטניה ובמרכז אירופה בעיקר מנובמבר עד מרץ, ובצפון אמריקה מהסתיו עד האביב — בצרורות על גדמים, גזעים שרועים וגזעי עצים רחבי־עלים, בייחוד אשור, מילה, אלון, בוקיצה, צפצפה וערבה, ורק לעתים נדירות על מחטניים. לעתים היא מופיעה על עצים חיים חולים ועשויה להיראות כצומחת מהקרקע כאשר העץ חבוי.",
+      "uses": "הכובעים אכילים כשהם מבושלים; הרגליים קשיחות ובדרך כלל נזרקות. היא מוערכת זה זמן רב כפטריית מאכל חורפית. יש לקבוע אותה בזהירות, כי Galerina קטלנית עשויה לגדול על אותו עץ. האנוקי או אנוקיטאקה הלבנה ארוכת הרגל הנמכרת בחנויות היא מין מזרח־אסייתי אחר, לא זה.",
+      "confusion": "Galerina marginata רעילה קטלנית, גדלה על אותו עץ ויש לה זימים צהבהבים עד חום־חלודה, טביעת נבגים חומה ובדרך כלל טבעת על הרגל, שעשויה להיעלם עם הגיל. ל־Kuehneromyces mutabilis רגל קשקשית מתחת לטבעת וטביעת נבגים חומה. Flammulina populicola כמעט זהה בשטח, אך גדלה על צפצפות ונבדלת במיקרוסקופ. Flammulina elastica וקרובים אחרים באותו מכלול עשויים להיות בלתי ניתנים להבחנה בלי מיקרוסקופ. ל־Flammulina fennae ול־Flammulina rossica כובעים חיוורים בהרבה בדרך כלל, לעתים קרובות כמעט לבנים. האנוקי המגודלת היא Flammulina filiformis, מין מזרח־אסייתי שבעבר בלבלו אותו עם זו.",
+      "notes": "מחקרים מולקולריים שפורסמו ב־2018 הראו שפטריית החורף המגודלת במזרח אסיה, שנחשבה זמן רב למין הזה, נפרדת ושמה Flammulina filiformis; רישומים פראיים ממזרח אסיה תחת השם הישן עשויים להשתייך אליה. מאוחר יותר מונה איסוף אנגלי כאפיטיפ. גופי פרי עשויים להופיע במהלך הפשרות באמצע החורף, כשמעט פטריות זימים אחרות פוריות.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "गुच्छों में उगने वाला, सर्दियों में फलने वाला, मृत और कभी-कभी जीवित चौड़ी पत्ती वाले वृक्षों की लकड़ी को सड़ाने वाला कवक, यूरोप में व्यापक और उत्तरी अफ्रीका तथा उत्तरी अमेरिका में भी पाया जाता है। यह अक्सर पाला पड़ने के बाद दिखाई देता है, कभी-कभी बर्फ के आर-पार से, और जब लकड़ी दबी हो तो मिट्टी से उगता हुआ लग सकता है।",
+      "cap": "टोपी 1.5–10 सेमी चौड़ी होती है, पहले उभरी हुई, बाद में चपटी, और गुच्छों में अक्सर वहाँ विकृत जहाँ पड़ोसी टोपियाँ एक-दूसरे पर दबती हैं। यह चमकीली नारंगी-भूरी से पीली-भूरी होती है, आमतौर पर केंद्र की ओर गहरी और किनारे की ओर अधिक फीकी, चिकनी, और नमी में चिपचिपी या लसलसी; सूखी होने पर चिकनी चमक लेती है। उम्र के साथ किनारा धारीदार हो सकता है।",
+      "hymenium": "गिलें चौड़ी या संकरी जुड़ी होती हैं, चौड़ी और घनी से काफी विरल तक, और बीच की छोटी गिलें अक्सर होती हैं। वे पहले सफेद या क्रीम रंग की होती हैं और फलकाय पकने पर हल्की पीली से हल्की नारंगी हो जाती हैं। बेसिडियम चार-बीजाणु वाले होते हैं; बोतलनुमा से बेलनाकार सिस्टिड गिलों की सतहों और किनारे पर होते हैं।",
+      "stipe": "दंड 2–10 सेमी लंबा और 0.3–1.2 सेमी मोटा होता है, सख्त, बेलनाकार या आधार की ओर थोड़ा मोटा और कभी-कभी थोड़ा विकेंद्रित। टोपी के ठीक नीचे यह हल्का पीला या शहद जैसा पीला होता है और आधार से ऊपर की ओर गहरा भूरा से लगभग काला तथा घना मखमली हो जाता है। एक लंबा, पतला जड़ जैसा विस्तार लकड़ी में जा सकता है। यूरोपीय विवरण अक्सर 5–10 सेमी लंबाई देते हैं; उत्तरी अमेरिकी संग्रह आमतौर पर छोटे होते हैं।",
+      "flesh": "मांस पतला, सफेदी लिए या क्रीम रंग का होता है और काटने पर रंग नहीं बदलता; दंड का आधार पीलापन लिए हो सकता है। स्वाद मृदु है और गंध हल्की कवकीय, या लगभग अगोचर।",
+      "sporePrint": "बीजाणु चित्र सफेद होता है। बीजाणु चिकने, अएमिलॉयड और अंडाकार से लगभग बेलनाकार होते हैं; बताए गए आकारों में 6.5–10 × 3–4 µm और 5–10 × 2.5–3.5 µm शामिल हैं।",
+      "habitat": "यह देर पतझड़ से वसंत तक फलता है — ब्रिटेन और मध्य यूरोप में खासकर नवंबर से मार्च तक, और उत्तरी अमेरिका में पतझड़ से वसंत तक — ठूँठों, गिरे तनों और चौड़ी पत्ती वाले वृक्षों के तनों पर गुच्छों में, विशेषकर Fagus, Fraxinus, Quercus, Ulmus, Populus और Salix पर, और केवल कभी-कभी शंकुधारियों पर। कभी-कभी यह बीमार जीवित वृक्षों पर भी दिखाई देता है और जब लकड़ी दबी हो तो मिट्टी से उगता हुआ लग सकता है।",
+      "uses": "टोपी पकाने के बाद खाने योग्य होती हैं; दंड सख्त होते हैं और आमतौर पर फेंक दिए जाते हैं। इसे लंबे समय से सर्दियों की खाद्य कुकुरमुत्ता के रूप में सराहा गया है। इसकी पहचान सावधानी से करनी चाहिए, क्योंकि उसी लकड़ी पर घातक Galerina उग सकता है। दुकानों में बिकने वाला सफेद, लंबे दंड वाला एनोकी या एनोकिटाके पूर्वी एशिया की दूसरी प्रजाति है, यह नहीं।",
+      "confusion": "Galerina marginata घातक विषैला है, उसी लकड़ी पर उगता है और इसकी गिलें पीली से जंग-भूरी, बीजाणु चित्र भूरा और दंड पर आमतौर पर एक वलय होता है, जो उम्र के साथ गायब हो सकता है। Kuehneromyces mutabilis के वलय के नीचे शल्कीय दंड और भूरा बीजाणु चित्र होता है। Flammulina populicola मैदान में लगभग समान है, लेकिन पॉपलर पर उगता है और सूक्ष्मदर्शी से भिन्न होता है। Flammulina elastica और उसी समूह के अन्य निकट संबंधी सूक्ष्मदर्शी के बिना अविभेद्य हो सकते हैं। Flammulina fennae और Flammulina rossica की टोपियाँ आमतौर पर कहीं अधिक फीकी, अक्सर लगभग सफेद होती हैं। उगाया जाने वाला एनोकी Flammulina filiformis है, पूर्वी एशिया की वह प्रजाति जिसे पहले इसके साथ मिलाया जाता था।",
+      "notes": "2018 में प्रकाशित आणविक अध्ययनों ने दिखाया कि पूर्वी एशिया में उगाई जाने वाली सर्दियों की कुकुरमुत्ता, जिसे लंबे समय तक यही प्रजाति माना जाता था, अलग है और उसका नाम Flammulina filiformis है; पुराने नाम के अंतर्गत जंगली पूर्वी एशियाई अभिलेख उसी से संबंधित हो सकते हैं। बाद में एक अंग्रेज़ी संग्रह को एपिटाइप नियुक्त किया गया। फलकाय मध्य सर्दी के पिघलाव के दौरान दिखाई दे सकते हैं, जब अन्य गिल वाली कुकुरमुत्ताएँ कम फलती हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "U kitama rastuća, zimi plodonosna drvna gljiva na mrtvom i povremeno i živom lisnatom drvu, široko rasprostranjena u Europi i prisutna i u sjevernoj Africi i Sjevernoj Americi. Često se pojavljuje nakon mraza, ponekad kroz snijeg, i može izgledati kao da raste iz tla kada je drvo skriveno.",
+      "cap": "Klobuk je širok 1,5–10 cm, najprije ispupčen, poslije spljošten, a u kitama često deformiran tamo gdje se susjedni klobuci pritiskaju jedan o drugi. Živo je narančastosmđe do žućkastosmđe boje, obično tamniji prema sredini i bljeđi prema rubu, gol i u vlazi sluzav ili ljepljiv; suh dobiva gladak sjaj. Rub s godinama može postati rebrast.",
+      "hymenium": "Listići su široko ili usko prirasli, široki i gusti ili prilično rijetki, s čestim međulistićima. Najprije su bijeli ili kremasti i postaju blijedožuti do blijedonarančasti kako plodište dozrijeva. Bazidiji su četverosporni; bočasti do valjkasti cistidi sjede na plohama i oštrici listića.",
+      "stipe": "Stručak je dug 2–10 cm i debeo 0,3–1,2 cm, žilav, valjkast ili prema dnu malo zadebljan i ponekad malo ekscentričan. Neposredno ispod klobuka blijedožut je ili medenožut te od dna prema gore postaje tamnosmeđ do gotovo crn i gusto baršunast. Dugačak, vitak korijenast nastavak može urasti u drvo. Europski opisi često navode duljinu 5–10 cm; sjevernoamerički nalazi obično su kraći.",
+      "flesh": "Meso je tanko, bjelkasto ili kremasto i pri prerezu ne mijenja boju; dno stručka može biti žućkasto. Okus je blag, a miris slab i gljivast ili jedva zamjetan.",
+      "sporePrint": "Otisak spora bijel je. Spore su glatke, inamiloidne i elipsoidne do gotovo valjkaste; navedene mjere uključuju 6,5–10 × 3–4 µm i 5–10 × 2,5–3,5 µm.",
+      "habitat": "Plodi od kasne jeseni do proljeća — u Velikoj Britaniji i srednjoj Europi ponajprije od studenoga do ožujka, a u Sjevernoj Americi od jeseni do proljeća — u kitama na panjevima, poleglim deblima i deblima lisnatog drveća, osobito bukve, jasena, hrasta, brijesta, topole i vrbe, i samo rijetko na crnogorici. Ponekad se pojavljuje na bolesnim živim stablima i može izgledati kao da raste iz tla kada je drvo skriveno.",
+      "uses": "Klobuci su jestivi kad su kuhani; stručci su žilavi i obično se odbacuju. Odavna ju cijene kao jestivu zimsku gljivu. Treba je pažljivo odrediti, jer na istom drvu može rasti smrtonosno otrovna Galerina. Bijela, dugog stručka enoki ili enokitake koja se prodaje u trgovinama druga je istočnoazijska vrsta, ne ova.",
+      "confusion": "Rebrasta patuljica (Galerina marginata) smrtonosno je otrovna, raste na istom drvu i ima žućkaste do hrđavosmeđe listiće, smeđi otisak spora i obično prsten na stručku, koji s godinama može nestati. aromatična panjevčica (Kuehneromyces mutabilis) ima ispod prstena ljuskav stručak i smeđi otisak spora. Flammulina populicola na terenu je gotovo istovjetna, ali raste na topolama i razlikuje se mikroskopski. Flammulina elastica i drugi bliski srodnici istog kompleksa mogu biti nerazlučivi bez mikroskopa. Flammulina fennae i Flammulina rossica imaju obično znatno bljeđe, često gotovo bijele klobuke. Uzgojena enoki je Flammulina filiformis, istočnoazijska vrsta koja se nekoć miješala s ovom.",
+      "notes": "Molekularna istraživanja objavljena 2018. pokazala su da je zimska gljiva uzgajana u Istočnoj Aziji, dugo tretirana kao ova vrsta, zasebna i zove se Flammulina filiformis; divlji istočnoazijski nalazi pod starijim imenom mogu spadati tamo. Poslije je za epitip određen engleski primjerak. Plodišta se mogu pojaviti tijekom otapanja usred zime, kada plodi malo drugih listićastih gljiva.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Baršunasta_panjevčica",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "baršunasta panjevčica"
+    },
+    "hu": {
+      "description": "Csoportosan növő, télen termő, fát bontó gomba elhalt és alkalmanként élő lombos fán is, Európában széles körben elterjedt, és Észak-Afrikában, valamint Észak-Amerikában is előfordul. Gyakran fagy után jelenik meg, néha a hóban, és a földből növőnek tűnhet, ha a faanyag rejtve van.",
+      "cap": "A kalap 1,5–10 cm széles, eleinte domború, később ellaposodik, és csoportokban gyakran torzul ott, ahol a szomszédos kalapok egymáshoz nyomódnak. Élénk narancsbarna vagy sárgásbarna, rendszerint a közepe felé sötétebb és a széle felé halványabb, kopasz, nedvesen nyálkás vagy tapadós; szárazon sima fényt kap. A széle korral barázdálttá válhat.",
+      "hymenium": "A lemezek szélesen vagy keskenyen tönkhöz nőttek, szélesek, sűrűek vagy meglehetősen ritkák, és gyakran vannak köztes lemezek. Eleinte fehérek vagy krémszínűek, és a termőtest érésével halványsárgává vagy halvány narancsszínűvé válnak. A bazídiumok négyspórásak; palack alakú vagy hengeres cisztidák ülnek a lemezek lapjain és élén.",
+      "stipe": "A tönk 2–10 cm hosszú és 0,3–1,2 cm vastag, szívós, hengeres vagy a töve felé kissé vastagodó, és néha kissé excentrikus. Közvetlenül a kalap alatt halványsárga vagy mézsárga, a tövétől fölfelé sötétbarnává vagy feketésbarnává és sűrűn bársonyossá válik. Hosszú, vékony, gyökérszerű nyúlvány nőhet a fába. Az európai leírások gyakran 5–10 cm hosszt adnak meg; az észak-amerikai gyűjtések általában rövidebbek.",
+      "flesh": "A hús vékony, fehéres vagy krémszínű, és vágáskor nem változtatja a színét; a tönk töve sárgás lehet. Íze enyhe, szaga gyenge, gombaszerű, vagy alig észrevehető.",
+      "sporePrint": "A spórapor fehér. A spórák simák, inamiloidok, ellipszoidok vagy csaknem hengeresek; a közölt méretek között szerepel 6,5–10 × 3–4 µm és 5–10 × 2,5–3,5 µm.",
+      "habitat": "Késő ősztől tavaszig terem — Nagy-Britanniában és Közép-Európában főként novembertől márciusig, Észak-Amerikában őszről tavaszig — csoportosan tuskókon, fekvő törzseken és lombos fák törzsein, különösen bükkön, kőrisen, tölgyön, szilen, nyárfán és fűzön, és csak ritkán tűlevelűeken. Alkalmanként beteg élő fákon is megjelenik, és a földből növőnek tűnhet, ha a faanyag rejtve van.",
+      "uses": "A kalapok főzve ehetők; a tönkök szívósak, ezért általában eldobják őket. Téli ehető gombaként régóta becsülik. Gondosan meg kell határozni, mert ugyanazon a fán halálosan mérgező Galerina is nőhet. A boltokban kapható fehér, hosszú tönkű enoki vagy enokitake egy másik kelet-ázsiai faj, nem ez.",
+      "confusion": "A fenyves sisakgomba (Galerina marginata) halálosan mérgező, ugyanazon a fán nő, sárgás vagy rozsdabarna lemezei, barna spórapora van, és a tönkön rendszerint gallér van, amely korral eltűnhet. Az ízletes tőkegomba (Kuehneromyces mutabilis) tönkje a gallér alatt pikkelyes, spórapora barna. A Flammulina populicola a terepen csaknem azonos, de nyárfákon nő, és mikroszkóposan különbözik. A Flammulina elastica és a komplex más közeli rokonai mikroszkóp nélkül megkülönböztethetetlenek lehetnek. A Flammulina fennae és a Flammulina rossica kalapja rendszerint sokkal halványabb, gyakran csaknem fehér. A termesztett enoki a Flammulina filiformis, egy kelet-ázsiai faj, amelyet korábban ezzel kevertek össze.",
+      "notes": "A 2018-ban közzétett molekuláris vizsgálatok kimutatták, hogy a Kelet-Ázsiában termesztett, sokáig e fajnak tartott téli gomba különálló, és a neve Flammulina filiformis; a régi név alatt jegyzett vad kelet-ázsiai előfordulások ahhoz tartozhatnak. Epitípusként később egy angol gyűjtést jelöltek ki. A termőtestek a tél közepi olvadáskor is megjelenhetnek, amikor kevés más lemezes gomba terem.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Téli_fülőke",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "téli fülőke"
+    },
+    "id": {
+      "description": "Jamur pelapuk kayu yang berbuah dalam rumpun di musim dingin pada kayu mati dan kadang juga kayu hidup dari pohon berdaun lebar, tersebar luas di Eropa dan juga ada di Afrika Utara serta Amerika Utara. Ia sering muncul setelah embun beku, kadang menembus salju, dan dapat tampak tumbuh dari tanah ketika kayunya terpendam.",
+      "cap": "Tudung berdiameter 1,5–10 cm, mula-mula cembung lalu merata, dan dalam rumpun sering berubah bentuk di tempat tudung tetangga saling menekan. Warnanya cokelat jingga cerah hingga cokelat kekuningan, biasanya lebih gelap ke tengah dan lebih pucat ke tepi, gundul, dan berlendir atau lengket saat basah; kering ia mendapat kilau yang licin. Tepi dapat beralur seiring usia.",
+      "hymenium": "Insang melekat secara lebar atau sempit, lebar dan rapat hingga cukup jarang, dengan insang sisipan yang sering. Mula-mula putih atau krem dan menjadi kuning pucat hingga jingga pucat seiring kematangan tubuh buah. Basidium berempat spora; sistidium berbentuk botol hingga silindris terdapat pada permukaan dan tepi insang.",
+      "stipe": "Tangkai sepanjang 2–10 cm dan setebal 0,3–1,2 cm, liat, silindris atau sedikit menebal ke pangkal dan kadang sedikit eksentrik. Tepat di bawah tudung ia kuning pucat atau kuning madu dan dari pangkal ke atas menjadi cokelat tua hingga hampir hitam serta rapat seperti beludru. Perpanjangan seperti akar yang panjang dan ramping dapat masuk ke dalam kayu. Deskripsi Eropa sering menyebut panjang 5–10 cm; koleksi Amerika Utara biasanya lebih pendek.",
+      "flesh": "Daging tipis, keputihan atau krem dan tidak berubah warna saat dipotong; pangkal tangkai dapat kekuningan. Rasa lembut dan bau lemah seperti jamur, atau hampir tidak terasa.",
+      "sporePrint": "Jejak spora berwarna putih. Spora licin, inamiloid, dan elipsoid hingga hampir silindris; ukuran yang dilaporkan mencakup 6,5–10 × 3–4 µm dan 5–10 × 2,5–3,5 µm.",
+      "habitat": "Ia berbuah dari akhir musim gugur hingga musim semi — di Britania dan Eropa Tengah terutama dari November hingga Maret, dan di Amerika Utara dari musim gugur hingga musim semi — dalam rumpun pada tunggul, batang rebah, dan batang pohon berdaun lebar, terutama Fagus, Fraxinus, Quercus, Ulmus, Populus, dan Salix, dan hanya jarang pada konifer. Kadang ia muncul pada pohon hidup yang sakit dan dapat tampak tumbuh dari tanah ketika kayunya terpendam.",
+      "uses": "Tudung dapat dimakan setelah dimasak; tangkai liat dan biasanya dibuang. Ia sudah lama dihargai sebagai jamur pangan musim dingin. Ia harus diidentifikasi dengan cermat, karena Galerina yang mematikan dapat tumbuh pada kayu yang sama. Enoki atau enokitake putih bertangkai panjang yang dijual di toko adalah spesies Asia Timur yang lain, bukan ini.",
+      "confusion": "Galerina marginata beracun mematikan, tumbuh pada kayu yang sama, dan memiliki insang kekuningan hingga cokelat karat, jejak spora cokelat, serta biasanya cincin pada tangkai yang dapat hilang seiring usia. Kuehneromyces mutabilis memiliki tangkai bersisik di bawah cincin dan jejak spora cokelat. Flammulina populicola di lapangan hampir identik, tetapi tumbuh pada poplar dan berbeda secara mikroskopis. Flammulina elastica dan kerabat dekat lain dalam kompleks yang sama dapat tak terbedakan tanpa mikroskop. Flammulina fennae dan Flammulina rossica biasanya memiliki tudung jauh lebih pucat, sering hampir putih. Enoki budidaya adalah Flammulina filiformis, spesies Asia Timur yang dahulu dikacaukan dengan ini.",
+      "notes": "Kajian molekuler yang diterbitkan pada 2018 menunjukkan bahwa jamur musim dingin yang dibudidayakan di Asia Timur, lama dianggap spesies ini, terpisah dan bernama Flammulina filiformis; catatan liar Asia Timur di bawah nama yang lebih lama mungkin termasuk ke dalamnya. Kemudian sebuah koleksi Inggris ditetapkan sebagai epitipe. Tubuh buah dapat muncul selama pencairan di tengah musim dingin, ketika hanya sedikit jamur berinsang lain yang berbuah.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo lignicolo che fruttifica in cespi in inverno su legno morto e talvolta anche vivo di latifoglie, ampiamente diffuso in Europa e presente anche nel Nord Africa e in Nord America. Compare spesso dopo le gelate, a volte attraverso la neve, e può sembrare emergere dal suolo quando il legno è sepolto.",
+      "cap": "Il cappello misura 1,5–10 cm di diametro, dapprima convesso, poi appiattito, e nei cespi è spesso deformato dove i cappelli vicini si premono l’uno contro l’altro. È arancio-bruno vivo o bruno giallastro, di solito più scuro verso il centro e più pallido verso il margine, glabro e vischioso o appiccicoso a umido; da secco assume una lucentezza liscia. Il margine può diventare striato con l’età.",
+      "hymenium": "Le lamelle sono annesse in modo largo o stretto, larghe e fitte o piuttosto rade, con lamellule frequenti. Dapprima sono bianche o crema e diventano giallo pallido o arancio pallido man mano che il carpoforo matura. I basidi sono tetrasporici; cistidi da ampolliformi a cilindrici si trovano sulle facce e sul filo delle lamelle.",
+      "stipe": "Il gambo è lungo 2–10 cm e spesso 0,3–1,2 cm, tenace, cilindrico o un po’ ingrossato verso la base e talvolta leggermente eccentrico. Subito sotto il cappello è giallo pallido o color miele e, dalla base verso l’alto, diventa bruno scuro o nerastro e densamente vellutato. Una lunga e sottile prolunga radiciforme può penetrare nel legno. Le descrizioni europee indicano spesso una lunghezza di 5–10 cm; le raccolte nordamericane sono di solito più corte.",
+      "flesh": "La carne è sottile, biancastra o crema e non cambia colore al taglio; la base del gambo può essere giallastra. Il sapore è mite e l’odore debole e fungino, o poco percepibile.",
+      "sporePrint": "La sporata è bianca. Le spore sono lisce, inamiloidi ed ellissoidi o quasi cilindriche; le misure riportate comprendono 6,5–10 × 3–4 µm e 5–10 × 2,5–3,5 µm.",
+      "habitat": "Fruttifica dalla tarda autunno alla primavera — in Gran Bretagna e nell’Europa centrale soprattutto da novembre a marzo, e in Nord America dall’autunno fino alla primavera — in cespi su ceppaie, tronchi a terra e fusti di latifoglie, in particolare faggio, frassino, quercia, olmo, pioppo e salice, e solo di rado su conifere. Talvolta compare su alberi vivi malati e può sembrare emergere dal suolo quando il legno è sepolto.",
+      "uses": "I cappelli sono commestibili una volta cotti; i gambi sono tenaci e di solito si scartano. È da tempo apprezzato come fungo commestibile invernale. Va determinato con cura, perché una Galerina mortale può crescere sullo stesso legno. L’enoki o enokitake bianco a gambo lungo venduto nei negozi è un’altra specie dell’Asia orientale, non questa.",
+      "confusion": "Galerina marginata è mortalmente velenosa, cresce sullo stesso legno e ha lamelle giallastre o bruno-ruggine, sporata bruna e di solito un anello sul gambo, che può scomparire con l’età. La famigliola cangiante (Kuehneromyces mutabilis) ha il gambo squamoso sotto l’anello e sporata bruna. Flammulina populicola è sul campo quasi identica, ma cresce sui pioppi e si distingue al microscopio. Flammulina elastica e altri parenti prossimi dello stesso complesso possono essere indistinguibili senza microscopio. Flammulina fennae e Flammulina rossica hanno di solito cappelli molto più pallidi, spesso quasi bianchi. L’enoki coltivato è Flammulina filiformis, una specie dell’Asia orientale che in passato veniva confusa con questa.",
+      "notes": "Studi molecolari pubblicati nel 2018 hanno mostrato che il fungo invernale coltivato in Asia orientale, a lungo considerato questa specie, è distinto e si chiama Flammulina filiformis; i ritrovamenti spontanei dell’Asia orientale sotto il nome più antico possono appartenere a esso. Più tardi una raccolta inglese è stata designata come epitipo. I carpofori possono comparire durante i disgeli a metà inverno, quando fruttificano pochi altri funghi a lamelle.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "束生し、冬に子実体をつける、枯れた広葉樹、ときには生きた広葉樹の材を腐らせる菌で、ヨーロッパに広く分布し、北アフリカと北アメリカにも見られる。霜のあと、ときに雪を突き破って現れ、材が埋もれていると地面から生えているように見えることがある。",
+      "cap": "かさは径1.5–10 cm、初めはまんじゅう形、のちに平らになり、束生では隣のかさ同士が押し合うところでしばしばゆがむ。鮮やかな橙褐色から黄褐色で、ふつう中央ほど色が濃く縁ほど淡く、無毛で、湿っているときは粘性またはねばりがあり、乾くと滑らかな光沢を帯びる。縁は老成すると条線を生じることがある。",
+      "hymenium": "ひだは広くまたは狭く着き、幅広く、密からかなり疎まであり、短いひだがしばしば混じる。初めは白またはクリーム色で、子実体が成熟するにつれて淡黄から淡橙になる。担子器は4胞子性で、ひだの面と縁にはびん形から円筒形のシスチジアがある。",
+      "stipe": "柄は長さ2–10 cm、太さ0.3–1.2 cm、強靭で、円柱形または基部に向かってやや太く、ときにやや偏心する。かさの直下は淡黄または蜂蜜色で、基部から上へ暗褐色からほぼ黒色になり、密にビロード状となる。長く細い根状の延長が材の中へ伸びることがある。ヨーロッパの記載ではしばしば長さ5–10 cmとされ、北アメリカの採集品はふつうより短い。",
+      "flesh": "肉は薄く、白みを帯びた色またはクリーム色で、切っても変色しない。柄の基部は黄みを帯びることがある。味は温和で、においはやや弱いキノコ臭か、ほとんど感じない。",
+      "sporePrint": "胞子紋は白色。胞子は平滑、非アミロイド性で、楕円形からほぼ円筒形。報告されている大きさには6.5–10 × 3–4 µmと5–10 × 2.5–3.5 µmがある。",
+      "habitat": "晩秋から春にかけて子実体をつける。イギリスと中欧ではとくに11月から3月、北アメリカでは秋から春にかけて、切り株、倒木、広葉樹の幹に束生し、とくにブナ、トネリコ、ナラ、ニレ、ポプラ、ヤナギに多く、針葉樹にはまれにしか出ない。ときには病んだ生きた木にも現れ、材が埋もれていると地面から生えているように見えることがある。",
+      "uses": "かさは加熱すれば食用になる。柄は強靭なので、ふつう捨てる。冬の食用キノコとして古くから珍重されてきた。同じ材に致死性のGalerinaが生えることがあるため、同定は慎重に行う必要がある。店で売られる白くて柄の長いエノキまたはエノキタケは、東アジアの別種であり、本種ではない。",
+      "confusion": "ヒメアジロガサ（Galerina marginata）は致死性の毒菌で、同じ材に生え、ひだは黄みを帯びた色からさび褐色、胞子紋は褐色、柄にはふつうつばがあり、老成すると消えることがある。センボンイチメガサ（Kuehneromyces mutabilis）はつばの下が鱗片状の柄を持ち、胞子紋は褐色である。Flammulina populicolaは野外ではほとんど区別できないが、ポプラに生え、顕微鏡で異なる。Flammulina elasticaおよび同じ複合体の近縁種は、顕微鏡なしでは見分けられないことがある。Flammulina fennaeとFlammulina rossicaのかさはふつうはるかに淡く、しばしばほぼ白色である。栽培されるエノキはFlammulina filiformisで、かつては本種と混同されていた東アジアの種である。",
+      "notes": "2018年に公表された分子研究により、東アジアで栽培され、長く本種とされてきた冬のキノコは別種であり、Flammulina filiformisと呼ばれることが示された。旧名で記録された東アジアの野生の産出は、そちらに属する可能性がある。のちにイギリスの採集品がエピタイプに指定された。ほかのひだのあるキノコがほとんど出ない真冬の雪解けに、子実体が現れることがある。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "다발로 나고 겨울에 자실체를 만드는, 죽은 활엽수와 때로는 살아 있는 활엽수의 나무를 썩히는 균으로, 유럽에 널리 퍼져 있고 북아프리카와 북아메리카에도 있다. 서리 뒤에, 때로는 눈을 뚫고 나타나며, 나무가 묻혀 있으면 땅에서 나는 것처럼 보일 수 있다.",
+      "cap": "갓은 지름 1.5–10 cm로, 처음에는 볼록하다가 나중에 납작해지며, 다발에서는 이웃한 갓이 서로 누르는 곳에서 흔히 비틀린다. 선명한 주황갈색에서 누런갈색이며, 대개 가운데가 더 어둡고 가장자리가 더 옅고, 털이 없으며, 습할 때 점성이 있거나 끈적하고 마르면 매끄러운 광택을 띤다. 가장자리는 나이가 들면서 홈이 질 수 있다.",
+      "hymenium": "주름살은 넓게 또는 좁게 붙고, 넓으며, 촘촘하거나 꽤 성기고, 짧은 주름살이 자주 섞인다. 처음에는 흰색 또는 크림색이고 자실체가 익으면서 연한 노랑에서 연한 주황이 된다. 담자기는 4포자성이며, 주름살의 면과 가장자리에는 병 모양에서 원통형인 낭상체가 있다.",
+      "stipe": "대는 길이 2–10 cm, 두께 0.3–1.2 cm로, 질기고, 원통형이거나 밑동 쪽으로 조금 굵어지며 때로 조금 치우친다. 갓 바로 아래는 연한 노랑 또는 꿀색이고, 밑동에서 위로 짙은 갈색에서 거의 검은색이 되며 촘촘히 벨벳처럼 된다. 길고 가느다란 뿌리 같은 연장이 나무 속으로 들어갈 수 있다. 유럽 기재는 흔히 길이 5–10 cm를 제시하며, 북아메리카 채집물은 보통 더 짧다.",
+      "flesh": "살은 얇고 희끄무레하거나 크림색이며 잘라도 색이 변하지 않는다. 대의 밑동은 누런빛을 띨 수 있다. 맛은 온화하고 냄새는 약한 버섯 냄새이거나 거의 느껴지지 않는다.",
+      "sporePrint": "포자무늬는 흰색이다. 포자는 매끄럽고 비아밀로이드성이며 타원형에서 거의 원통형이다. 보고된 크기에는 6.5–10 × 3–4 µm와 5–10 × 2.5–3.5 µm가 있다.",
+      "habitat": "늦은 가을부터 봄까지 자실체를 만든다. 영국과 중부 유럽에서는 특히 11월부터 3월까지, 북아메리카에서는 가을부터 봄까지, 그루터기, 쓰러진 줄기, 활엽수 줄기에 다발로 나며, 특히 너도밤나무, 물푸레나무, 참나무, 느릅나무, 포플러, 버들에 많고 침엽수에는 드물다. 때로는 병든 살아 있는 나무에도 나타나며, 나무가 묻혀 있으면 땅에서 나는 것처럼 보일 수 있다.",
+      "uses": "갓은 익히면 먹을 수 있다. 대는 질기므로 보통 버린다. 겨울 식용 버섯으로 오래전부터 귀하게 여겨졌다. 같은 나무에 치명적인 Galerina가 날 수 있으므로 동정은 신중해야 한다. 가게에서 파는 희고 대가 긴 에노키 또는 에노키타케는 동아시아의 다른 종이며, 이 종이 아니다.",
+      "confusion": "갈황색투구버섯(Galerina marginata)은 치명적인 독버섯으로, 같은 나무에 나며 주름살은 누런빛에서 녹슨 갈색, 포자무늬는 갈색이고, 대에는 대개 갓주름(턱받이)이 있으며 나이가 들면 사라질 수 있다. 개암비늘버섯(Kuehneromyces mutabilis)은 턱받이 아래가 비늘이 있는 대이며 포자무늬는 갈색이다. Flammulina populicola는 야외에서는 거의 구별되지 않지만 포플러에 나며 현미경으로 다르다. Flammulina elastica와 같은 복합체의 가까운 친척은 현미경 없이는 구별되지 않을 수 있다. Flammulina fennae와 Flammulina rossica의 갓은 대개 훨씬 더 옅고, 흔히 거의 흰색이다. 재배되는 에노키는 예전에 이 종과 혼동되던 동아시아 종 Flammulina filiformis이다.",
+      "notes": "2018년에 발표된 분자 연구는 동아시아에서 재배되며 오랫동안 이 종으로 여겨진 겨울 버섯이 별종이며 이름이 Flammulina filiformis임을 보여 주었다. 옛 이름으로 기록된 동아시아의 야생 기록은 그쪽으로 속할 수 있다. 나중에 영국 채집물이 에피타입으로 지정되었다. 다른 주름살 버섯이 거의 나지 않는 한겨울 해빙기에 자실체가 나타날 수 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Kuokštais augantis, žiemą derantis medieną ardantis grybas ant negyvos ir kartais ir gyvos lapuočių medienos, plačiai paplitęs Europoje ir taip pat aptinkamas Šiaurės Afrikoje ir Šiaurės Amerikoje. Dažnai pasirodo po šalnų, kartais pro sniegą, ir gali atrodyti augantis iš dirvos, kai mediena paslėpta.",
+      "cap": "Kepurėlė 1,5–10 cm pločio, iš pradžių iškili, vėliau suplokštėjusi, o kuokštuose dažnai deformuota ten, kur kaimyninės kepurėlės spaudžia viena kitą. Ryškiai oranžinė ruda iki gelsvai rudos, paprastai tamsesnė link centro ir šviesesnė link krašto, plika ir drėgnu oru gleivėta arba lipni; sausa įgyja lygų blizgesį. Kraštas su amžiumi gali tapti vagotas.",
+      "hymenium": "Lakemėlės plačiai arba siaurai priaugusios, plačios ir tankios arba gana retos, su dažnais tarpiniais lakšteliais. Iš pradžių baltos arba kreminės ir tampa blyškiai geltonos iki blyškiai oranžinės, kai vaisiakūnis bręsta. Bazidės keturiasporės; buteliško iki cilindriško pavidalo cistidės sėdi ant lakštelių paviršių ir ašmenų.",
+      "stipe": "Kotas 2–10 cm ilgio ir 0,3–1,2 cm storio, kietas, cilindriškas arba šiek tiek sustorėjęs prie pagrindo ir kartais šiek tiek ekscentriškas. Tiesiai po kepurėle blyškiai geltonas arba medaus geltonumo ir nuo pagrindo aukštyn tampa tamsiai rudas iki beveik juodo ir tankiai aksominis. Ilgas, plonas šakniškas tęsinys gali įaugti į medieną. Europiniuose aprašuose dažnai nurodomas 5–10 cm ilgis; Šiaurės Amerikos rinkiniai paprastai trumpesni.",
+      "flesh": "Mėsa plona, balkšva arba kreminė ir perpjovus nesikeičia spalva; koto pagrindas gali būti gelsvas. Skonis švelnus, kvapas silpnas ir grybiškas arba vos juntamas.",
+      "sporePrint": "Sporų milteliai balti. Sporos lygios, inamiloidinės ir elipsoidinės iki beveik cilindriškų; nurodyti matmenys apima 6,5–10 × 3–4 µm ir 5–10 × 2,5–3,5 µm.",
+      "habitat": "Derlius brandinamas nuo vėlyvo rudens iki pavasario — Jungtinėje Karalystėje ir Vidurio Europoje ypač nuo lapkričio iki kovo, o Šiaurės Amerikoje nuo rudens iki pavasario — kuokštais ant kelmų, gulinčių kamienų ir lapuočių kamienų, ypač buko, uosio, ąžuolo, vinkšnos, tuopos ir gluosnio, ir tik retai ant spygliuočių. Kartais pasirodo ant sergančių gyvų medžių ir gali atrodyti augantis iš dirvos, kai mediena paslėpta.",
+      "uses": "Kepurėlės valgomos išvirtos; kotai kieti ir paprastai išmetami. Jau seniai vertinamas kaip valgomasis žieminis grybas. Jį reikia atidžiai nustatyti, nes toje pačioje medienoje gali augti mirtinai nuodinga Galerina. Parduotuvėse parduodama balta, ilgu kotu enoki arba enokitake yra kita Rytų Azijos rūšis, ne ši.",
+      "confusion": "Eglinė kūgiabudė (Galerina marginata) yra mirtinai nuodinga, auga toje pačioje medienoje ir turi gelsvas iki rūdžių rudos lakšteles, rudus sporų miltelius ir paprastai žiedą ant koto, kuris su amžiumi gali išnykti. kislioji kelmiukė (Kuehneromyces mutabilis) turi po žiedu žvynuotą kotą ir rudus sporų miltelius. Flammulina populicola lauke beveik identiška, bet auga ant tuopų ir skiriasi mikroskopu. Flammulina elastica ir kiti to paties komplekso artimi giminaičiai be mikroskopo gali būti neatskiriami. Flammulina fennae ir Flammulina rossica paprastai turi gerokai šviesesnes, dažnai beveik baltas kepurėles. Auginama enoki yra Flammulina filiformis, Rytų Azijos rūšis, kuri anksčiau buvo painiojama su šia.",
+      "notes": "2018 m. paskelbti molekuliniai tyrimai parodė, kad Rytų Azijoje auginamas žieminis grybas, ilgai laikytas šia rūšimi, yra atskiras ir vadinamas Flammulina filiformis; laukiniai Rytų Azijos radiniai senuoju vardu gali priklausyti jai. Vėliau epitipu paskirtas angliškas rinkinys. Vaisiakūniai gali pasirodyti per atlydžius viduržiemį, kai dera nedaug kitų lakštuotųjų grybų.",
+      "names": [
+        "žieminis kelmutis",
+        "juodkotė plempė"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q372893",
+        "https://lt.wikipedia.org/wiki/Juodkotė_ugniabudė"
+      ],
+      "label": "juodkotė ugniabudė"
+    },
+    "lv": {
+      "description": "Kūļos augoša, ziemā augļķermeņus veidojoša koksni noārdoša sēne uz atmirušas un reizēm arī dzīvas lapu koku koksnes, plaši izplatīta Eiropā un sastopama arī Ziemeļāfrikā un Ziemeļamerikā. Tā bieži parādās pēc sala, dažreiz caur sniegu, un var šķist augam no augsnes, kad koksne ir paslēpta.",
+      "cap": "Cepurīte ir 1,5–10 cm plata, sākumā izliekta, vēlāk saplacināta, un kūļos bieži deformēta tur, kur kaimiņu cepurītes spiežas viena pret otru. Tā ir spilgti oranžbrūna līdz dzeltenīgi brūnai, parasti tumšāka pret centru un bālāka pret malu, kaila un mitrumā gļotaina vai lipīga; sausa iegūst gludu spīdumu. Mala ar vecumu var kļūt rievota.",
+      "hymenium": "Lapiņas ir plati vai šauri pieaugušas, platas un biezas vai diezgan retas, ar biežām starplapiņām. Tās sākumā ir baltas vai krēmkrāsas un kļūst bāli dzeltenas līdz bāli oranžām, kad augļķermenis nobriest. Bazīdijas ir četrsporu; pudelītes līdz cilindriskas formas cistīdas atrodas uz lapiņu virsmām un asmeņiem.",
+      "stipe": "Kātiņš ir 2–10 cm garš un 0,3–1,2 cm resns, stingrs, cilindrisks vai pie pamatnes nedaudz resnāks un reizēm nedaudz ekscentrisks. Tieši zem cepurītes tas ir bāli dzeltens vai medus dzeltens un no pamatnes uz augšu kļūst tumši brūns līdz gandrīz melnam un blīvi samtainu. Garš, tievīs sakņveida turpinājums var ieaugt koksnē. Eiropas aprakstos bieži norādīts garums 5–10 cm; Ziemeļamerikas ievākumi parasti ir īsāki.",
+      "flesh": "Mīkstums ir plāns, bālgans vai krēmkrāsas un griezumā nemaina krāsu; kātiņa pamatne var būt dzeltenīga. Garša ir maiga, un smarža vāja un sēņaina vai gandrīz nemanāma.",
+      "sporePrint": "Spores nospiedums ir balts. Spores ir gludas, inamiloidas un elipsoidālas līdz gandrīz cilindriskām; norādītie izmēri ietver 6,5–10 × 3–4 µm un 5–10 × 2,5–3,5 µm.",
+      "habitat": "Tā augļķermeņus veido no vēla rudens līdz pavasarim — Lielbritānijā un Centrāleiropā īpaši no novembra līdz martam, bet Ziemeļamerikā no rudens līdz pavasarim — kūļos uz celmiem, gulošiem stumbriem un lapu koku stumbriem, īpaši dižskābarža, oša, ozola, gobas, apses un vītola, un tikai reti uz skuju kokiem. Reizēm tā parādās uz slimiem dzīviem kokiem un var šķist augam no augsnes, kad koksne ir paslēpta.",
+      "uses": "Cepurītes ir ēdamas vārītas; kātiņi ir stingri un parasti tos izmet. Tā jau sen tiek novērtēta kā ēdama ziemas sēne. Tā jānosaka rūpīgi, jo uz tās pašas koksnes var augt nāvējoši indīga Galerina. Veikalos pārdotā baltā, gara kātiņa enoki jeb enokitake ir cita Austrumāzijas suga, ne šī.",
+      "confusion": "Apmalotā ķiverene (Galerina marginata) ir nāvējoši indīga, aug uz tās pašas koksnes un tai ir dzeltenīgas līdz rūsganbrūnas lapiņas, brūns sporu nospiedums un parasti gredzens uz kātiņa, kas ar vecumu var izzust. mainīgā pacelmene (Kuehneromyces mutabilis) zem gredzena ir zvīņains kātiņš un brūns sporu nospiedums. Flammulina populicola laukā ir gandrīz identiska, bet aug uz apsēm un atšķiras mikroskopiski. Flammulina elastica un citi tā paša kompleksa tuvi radinieki bez mikroskopa var būt neatšķirami. Flammulina fennae un Flammulina rossica parasti ir daudz bālākas, bieži gandrīz baltas cepurītes. Kultivētā enoki ir Flammulina filiformis, Austrumāzijas suga, ko agrāk jauca ar šo.",
+      "notes": "2018. gadā publicētie molekulārie pētījumi parādīja, ka Austrumāzijā kultivētā ziemas sēne, ko ilgi uzskatīja par šo sugu, ir atsevišķa un saucas Flammulina filiformis; savvaļas Austrumāzijas atradumi zem vecākā nosaukuma var tai piederēt. Vēlāk par epitipu tika norādīts angļu ievākums. Augļķermeņi var parādīties atkušņu laikā ziemas vidū, kad augļķermeņus veido dažas citas lapiņu sēnes.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een in bundels groeiende, in de winter vruchtende houtverterende paddenstoel van dood en soms ook levend loofhout, wijdverbreid in Europa en ook aanwezig in Noord-Afrika en Noord-Amerika. Hij verschijnt vaak na vorst, soms door de sneeuw, en kan uit de grond lijken te groeien wanneer het hout bedekt is.",
+      "cap": "De hoed is 1,5–10 cm breed, eerst gewelfd, later afgeplat, en in bundels vaak vervormd waar naburige hoeden tegen elkaar drukken. Hij is helder oranjebruin tot geelachtig bruin, meestal donkerder naar het midden en bleker aan de rand, kaal, en slijmerig of kleverig bij vocht; droog krijgt hij een gladde glans. De rand kan met de leeftijd gegroefd raken.",
+      "hymenium": "De lamellen zijn breed of smal aangehecht, breed, en dicht tot vrij wijd uiteen, met frequente tussenlamellen. Ze zijn eerst wit of crèmekleurig en worden bleekgeel tot bleekoranje naarmate het vruchtlichaam rijpt. De basidiën zijn viersporig; flesvormige tot cilindrische cystiden zitten op de vlakken en sneden van de lamellen.",
+      "stipe": "De steel is 2–10 cm lang en 0,3–1,2 cm dik, taai, cilindrisch of naar de basis iets verdikt, en soms iets excentrisch. Direct onder de hoed is hij bleekgeel of honinggeel en wordt van de basis omhoog donkerbruin tot zwartachtig en dicht fluweelachtig. Een lange, slanke wortelachtige verlenging kan het hout in groeien. Europese beschrijvingen geven vaak een lengte van 5–10 cm; Noord-Amerikaanse collecties zijn gewoonlijk korter.",
+      "flesh": "Het vlees is dun, witachtig of crèmekleurig en verandert niet van kleur bij doorsnijden; de steelbasis kan geelachtig zijn. De smaak is mild en de geur zwak en paddenstoelachtig, of weinig opvallend.",
+      "sporePrint": "De sporenafdruk is wit. De sporen zijn glad, inamyloïd en ellipsoïd tot bijna cilindrisch; opgegeven maten omvatten 6,5–10 × 3–4 µm en 5–10 × 2,5–3,5 µm.",
+      "habitat": "Hij vrucht van de late herfst tot de lente — in Groot-Brittannië en Midden-Europa vooral van november tot maart, en in Noord-Amerika van de herfst tot in de lente — in bundels op stronken, liggende stammen en stammen van loofbomen, vooral beuk, es, eik, iep, populier en wilg, en slechts zelden op naaldbomen. Soms staat hij op zieke levende bomen, en soms lijkt hij uit de grond te groeien wanneer het hout bedekt is.",
+      "uses": "De hoeden zijn eetbaar wanneer ze gekookt zijn; de stelen zijn taai en worden gewoonlijk weggegooid. Als winterse eetbare paddenstoel wordt hij al lang gewaardeerd. Hij moet zorgvuldig worden gedetermineerd, omdat een dodelijke Galerina op hetzelfde hout kan groeien. De witte, langstelige enoki of enokitake in de winkel is een andere Oost-Aziatische soort, niet deze.",
+      "confusion": "Het bundelmosklokje (Galerina marginata) is dodelijk giftig, groeit op hetzelfde hout en heeft geelachtige tot roestbruine lamellen, een bruine sporenafdruk en gewoonlijk een ring aan de steel, die met de leeftijd kan verdwijnen. Het stobbezwammetje (Kuehneromyces mutabilis) heeft onder de ring een schubbige steel en een bruine sporenafdruk. Flammulina populicola is in het veld vrijwel identiek, maar groeit op populieren en verschilt microscopisch. Flammulina elastica en andere naaste verwanten in hetzelfde complex kunnen zonder microscoop niet te onderscheiden zijn. Flammulina fennae en Flammulina rossica hebben gewoonlijk veel blekere, vaak bijna witte hoeden. De gekweekte enoki is Flammulina filiformis, een Oost-Aziatische soort die vroeger met deze werd verward.",
+      "notes": "Moleculaire studies uit 2018 toonden aan dat de in Oost-Azië gekweekte winterpaddenstoel, lang als deze soort beschouwd, apart staat en Flammulina filiformis heet; wilde Oost-Aziatische waarnemingen onder de oudere naam kunnen daarbij horen. Als epitype werd later een Engelse collectie aangewezen. Vruchtlichamen kunnen tijdens dooi midden in de winter verschijnen, wanneer weinig andere lamellenpaddenstoelen vruchten.",
+      "names": [
+        "fluweelpootje"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/3341441/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Gewoon_fluweelpootje",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "gewoon fluweelpootje"
+    },
+    "no": {
+      "description": "En tuvevoksende, vinterfruktifiserende vednedbrytende sopp på død og av og til også levende lauvved, vidt utbredt i Europa og også til stede i Nord-Afrika og Nord-Amerika. Den viser seg ofte etter frost, noen ganger gjennom snøen, og kan synes å vokse fra bakken når veden er skjult.",
+      "cap": "Hatten er 1,5–10 cm bred, først hvelvet, senere avflatet, og i tuer ofte deformert der nabohatter trykker mot hverandre. Den er klart oransjebrun til gulaktig brun, vanligvis mørkere mot midten og blekere mot kanten, glatt og slimete eller klebrig i fuktig vær; tørr får den en jevn glans. Kanten kan med alderen bli furet.",
+      "hymenium": "Skivene er bredt eller smalt tilheftede, brede og tette til ganske glisne, med hyppige mellomskiver. De er først hvite eller kremfargede og blir blekgule til blekoransje etter hvert som fruktlegemet modnes. Basidiene er firesporede; flaskeformede til sylindriske cystider sitter på skivenes flater og egg.",
+      "stipe": "Stokken er 2–10 cm lang og 0,3–1,2 cm tykk, seig, jevntykk eller litt tykkere mot basis og av og til litt eksentrisk. Like under hatten er den blekgul eller honninggul og blir fra basis og oppover mørkebrun til svartaktig og tett fløyelsaktig. En lang, slank rotaktig forlengelse kan gå inn i veden. Europeiske beskrivelser angir ofte en lengde på 5–10 cm; nordamerikanske funn er vanligvis kortere.",
+      "flesh": "Kjøttet er tynt, hvitaktig eller kremfarget og skifter ikke farge ved gjennomskjæring; stokkens basis kan være gulaktig. Smaken er mild, og lukten er svak og soppaktig, eller ubetydelig.",
+      "sporePrint": "Sporeavtrykket er hvitt. Sporene er glatte, inamyloide og ellipsoide til nesten sylindriske; angitte mål omfatter 6,5–10 × 3–4 µm og 5–10 × 2,5–3,5 µm.",
+      "habitat": "Den fruktifiserer fra sein høst til våren — i Storbritannia og Sentral-Europa særlig fra november til mars, og i Nord-Amerika fra høsten inn i våren — i tuer på stubber, liggende stammer og stammer av lauvtrær, særlig bøk, ask, eik, alm, poppel og vier, og bare sjelden på bartrær. Den finnes av og til på syke levende trær og kan synes å vokse fra bakken når veden er skjult.",
+      "uses": "Hattene er spiselige når de er kokt; stokkene er seige og kastes vanligvis. Den har lenge vært verdsatt som en spiselig vintersopp. Den må bestemmes omhyggelig, fordi en dødelig Galerina kan vokse på den samme veden. Den hvite, langstokkede enoki eller enokitake som selges i butikkene, er en annen østasiatisk art, ikke denne.",
+      "confusion": "Flatklokkehatt (Galerina marginata) er dødelig giftig, vokser på den samme veden og har gulaktige til rustbrune skiver, brunt sporeavtrykk og vanligvis en ring på stokken, som kan forsvinne med alderen. stubbeskjellsopp (Kuehneromyces mutabilis) har en skjellkledd stokk under ringen og brunt sporeavtrykk. Flammulina populicola er i feltet nesten identisk, men vokser på poppel og skiller seg mikroskopisk. Flammulina elastica og andre nære slektninger i det samme komplekset kan være umulige å skille uten mikroskop. Flammulina fennae og Flammulina rossica har vanligvis langt blekere, ofte nesten hvite hatter. Den dyrkede enokien er Flammulina filiformis, en østasiatisk art som tidligere ble forvekslet med denne.",
+      "notes": "Molekylære studier offentliggjort i 2018 viste at vintersoppen som dyrkes i Øst-Asia og lenge ble behandlet som denne arten, er særskilt og heter Flammulina filiformis; ville østasiatiske funn under det eldre navnet kan høre dit. En engelsk kolleksjon ble senere utpekt som epitype. Fruktlegemer kan vise seg under tø midt på vinteren, når få andre skivesopper fruktifiserer.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Grzyb nadrzewny, rosnący kępkami i owocnikujący zimą na martwym, a czasem także żywym drewnie liściastym, szeroko rozpowszechniony w Europie i obecny również w Afryce Północnej oraz w Ameryce Północnej. Często pojawia się po mrozach, niekiedy przez śnieg, i może sprawiać wrażenie, że rośnie z ziemi, gdy drewno jest przysypane.",
+      "cap": "Kapelusz ma 1,5–10 cm średnicy, najpierw jest wypukły, później się spłaszcza i w kępkach bywa często zniekształcony tam, gdzie sąsiednie kapelusze napierają na siebie. Jest jaskrawo pomarańczowobrązowy do żółtawobrązowego, zwykle ciemniejszy w środku i jaśniejszy przy brzegu, nagi oraz w wilgoci śluzowaty lub lepki; po wyschnięciu ma gładki połysk. Brzeg z wiekiem może być prążkowany.",
+      "hymenium": "Blaszki są szeroko lub wąsko przyrośnięte, szerokie i gęste do dość rzadkich, z częstymi krótszymi blaszkami. Najpierw są białe lub kremowe, a w miarę dojrzewania owocnika bledną do jasnożółtych lub jasnopomarańczowych. Podstawki są czterozarodnikowe; na powierzchniach i ostrzach blaszek występują cystydy butelkowate do walcowatych.",
+      "stipe": "Trzon ma 2–10 cm długości i 0,3–1,2 cm grubości, jest twardy, równy lub ku podstawie nieco zgrubiały, niekiedy trochę mimośrodowy. Tuż pod kapeluszem jest bladożółty lub miodowożółty, a od podstawy ku górze ciemnieje do ciemnobrązowego lub czarnobrązowego i gęsto aksamitnieje. W drewno może wnikać długi, cienki korzeniasty wyrostek. Europejskie opisy często podają długość 5–10 cm; zbiory północnoamerykańskie bywają krótsze.",
+      "flesh": "Miąższ jest cienki, białawy lub kremowy i nie zmienia barwy po przekrojeniu; podstawa trzonu może być żółtawa. Smak jest łagodny, zapach słaby, grzybowy, albo niewyraźny.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są gładkie, nieamyloidalne i elipsoidalne do niemal walcowatych; podawane wymiary obejmują 6,5–10 × 3–4 µm oraz 5–10 × 2,5–3,5 µm.",
+      "habitat": "Owocnikuje od późnej jesieni do wiosny — w Wielkiej Brytanii i w Europie Środkowej głównie od listopada do marca, a w Ameryce Północnej od jesieni do wiosny — w kępkach na pniakach, leżących kłodach i pniach drzew liściastych, zwłaszcza buka, jesionu, dębu, wiązu, topoli i wierzby, a tylko rzadko na drzewach iglastych. Czasem rośnie też na chorych żywych drzewach i niekiedy wydaje się wyrastać z gleby, gdy drewno jest przysypane.",
+      "uses": "Kapelusze są jadalne po ugotowaniu; trzony są twarde i zwykle się je odrzuca. Od dawna jest ceniona jako jadalny grzyb zimowy. Należy oznaczać ją ostrożnie, bo na tym samym drewnie może rosnąć śmiertelnie trująca Galerina. Biała, długotrzonowa enoki albo enokitake sprzedawana w sklepach to inny gatunek wschodnioazjatycki, nie ten.",
+      "confusion": "Hełmówka jadowita (Galerina marginata) jest śmiertelnie trująca, rośnie na tym samym drewnie i ma żółtawe do rdzawobrązowych blaszki, brązowy wysyp zarodników oraz zwykle pierścień na trzonie, który z wiekiem może zniknąć. łuskwiak zmienny (Kuehneromyces mutabilis) ma pod pierścieniem łuskowaty trzon i brązowy wysyp zarodników. Flammulina populicola jest w terenie niemal identyczna, ale rośnie na topolach i różni się mikroskopowo. Flammulina elastica i inne blisko spokrewnione gatunki z tego samego kompleksu mogą być bez mikroskopu nierozróżnialne. Flammulina fennae i Flammulina rossica mają zwykle znacznie bledsze, często niemal białe kapelusze. Uprawiana enoki to Flammulina filiformis, gatunek wschodnioazjatycki dawniej mylony z tym.",
+      "notes": "Badania molekularne opublikowane w 2018 roku wykazały, że grzyb zimowy uprawiany w Azji Wschodniej, długo uważany za ten gatunek, jest odrębny i nosi nazwę Flammulina filiformis; dziko rosnące wschodnioazjatyckie stanowiska pod starszą nazwą mogą do niego należeć. Jako epityp wyznaczono później zbiór angielski. Owocniki mogą pojawiać się podczas odwilży w środku zimy, gdy owocnikuje niewiele innych grzybów blaszkowych.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Płomiennica_zimowa",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "płomiennica zimowa"
+    },
+    "pt": {
+      "description": "Um fungo lignícola que frutifica em tufos no inverno sobre madeira morta e ocasionalmente viva de folhosas, amplamente difundido na Europa e também presente no Norte de África e na América do Norte. Aparece frequentemente após as geadas, por vezes através da neve, e pode parecer emergir do solo quando a madeira está enterrada.",
+      "cap": "O chapéu mede 1,5–10 cm de diâmetro, primeiro convexo e depois aplanado, e nos tufos fica muitas vezes deformado onde os chapéus vizinhos se comprimem uns contra os outros. É de um castanho-alaranjado vivo a castanho-amarelado, geralmente mais escuro no centro e mais pálido na margem, glabro e viscoso ou pegajoso com humidade; em seco adquire um brilho liso. A margem pode tornar-se estriada com a idade.",
+      "hymenium": "As lâminas estão ligadas de forma larga ou estreita, são largas e densas ou bastante espaçadas, com lâminas intermédias frequentes. No início são brancas ou cor de creme e tornam-se amarelo-pálido ou laranja-pálido à medida que o carpóforo amadurece. Os basídios são tetraspóricos; há cistídios de forma de frasco a cilíndrica nas faces e no fio das lâminas.",
+      "stipe": "O pé mede 2–10 cm de comprimento e 0,3–1,2 cm de espessura, é coriáceo, cilíndrico ou um pouco espessado na base e por vezes ligeiramente excêntrico. Logo abaixo do chapéu é amarelo-pálido ou cor de mel e, da base para cima, torna-se castanho-escuro ou quase negro e densamente aveludado. Um prolongamento radical longo e fino pode penetrar na madeira. As descrições europeias indicam frequentemente um comprimento de 5–10 cm; as colheitas norte-americanas são geralmente mais curtas.",
+      "flesh": "A carne é fina, esbranquiçada ou cor de creme e não muda de cor ao corte; a base do pé pode ser amarelada. O sabor é suave e o cheiro fraco e fúngico, ou pouco perceptível.",
+      "sporePrint": "A esporada é branca. Os esporos são lisos, inamiloides e elipsoides ou quase cilíndricos; as medidas publicadas incluem 6,5–10 × 3–4 µm e 5–10 × 2,5–3,5 µm.",
+      "habitat": "Frutifica do fim do outono até à primavera — na Grã-Bretanha e na Europa Central sobretudo de novembro a março, e na América do Norte do outono até à primavera — em tufos sobre cepos, troncos caídos e fustes de folhosas, em especial faia, freixo, carvalho, ulmeiro, choupo e salgueiro, e só raramente sobre coníferas. Por vezes aparece em árvores vivas doentes e pode parecer emergir do solo quando a madeira está enterrada.",
+      "uses": "Os chapéus são comestíveis depois de cozidos; os pés são coriáceos e geralmente descartam-se. Há muito que é apreciado como cogumelo comestível de inverno. Deve ser determinado com cuidado, porque uma Galerina mortal pode crescer na mesma madeira. O enoki ou enokitake branco de pé longo vendido nas lojas é outra espécie do Leste Asiático, não esta.",
+      "confusion": "Galerina marginata é mortalmente tóxica, cresce na mesma madeira e tem lâminas amareladas ou castanho-ferrugem, esporada castanha e geralmente um anel no pé, que pode desaparecer com a idade. Kuehneromyces mutabilis tem o pé escamoso abaixo do anel e esporada castanha. Flammulina populicola é no campo quase idêntica, mas cresce em choupos e distingue-se ao microscópio. Flammulina elastica e outros parentes próximos do mesmo complexo podem ser indistinguíveis sem microscópio. Flammulina fennae e Flammulina rossica têm geralmente chapéus muito mais pálidos, muitas vezes quase brancos. O enoki cultivado é Flammulina filiformis, uma espécie do Leste Asiático que outrora se confundia com esta.",
+      "notes": "Estudos moleculares publicados em 2018 mostraram que o cogumelo de inverno cultivado no Leste Asiático, durante muito tempo tratado como esta espécie, é distinto e chama-se Flammulina filiformis; os registos silvestres do Leste Asiático sob o nome antigo podem pertencer-lhe. Mais tarde foi designada como epitipo uma colheita inglesa. Os carpóforos podem aparecer durante os degelos em pleno inverno, quando frutificam poucos outros cogumelos com lâminas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă lignicolă care fructifică în tufe iarna pe lemn mort și uneori și viu de foioase, larg răspândită în Europa și prezentă și în Africa de Nord și în America de Nord. Apare adesea după înghețuri, uneori prin zăpadă, și poate părea că iese din sol atunci când lemnul este îngropat.",
+      "cap": "Pălăria are 1,5–10 cm în diametru, mai întâi convexă, apoi turtită, iar în tufe este adesea deformată acolo unde pălăriile învecinate se apasă una pe alta. Este brun-portocalie viu până la brun-gălbuie, de obicei mai întunecată spre centru și mai palidă spre margine, glabră și vâscoasă sau lipicioasă pe vreme umedă; uscată capătă un luciu neted. Marginea poate deveni striată odată cu vârsta.",
+      "hymenium": "Lamelele sunt atașate larg sau îngust, late și dese sau destul de rare, cu lamele intermediare frecvente. La început sunt albe sau crem și devin galben-palid sau portocaliu-palid pe măsură ce corpul de fructificație se maturează. Bazidiile sunt tetrasporice; cistide de formă de sticlă până la cilindrice se află pe fețele și pe muchia lamelelor.",
+      "stipe": "Piciorul are 2–10 cm lungime și 0,3–1,2 cm grosime, este tenace, cilindric sau ușor îngroșat spre bază și uneori puțin excentric. Chiar sub pălărie este galben-palid sau de culoarea mierii și, de la bază în sus, devine brun-închis sau aproape negru și dens catifelat. O prelungire radiciformă lungă și subțire poate intra în lemn. Descrierile europene indică adesea o lungime de 5–10 cm; recoltările nord-americane sunt de obicei mai scurte.",
+      "flesh": "Carnea este subțire, albicioasă sau crem și nu își schimbă culoarea la tăiere; baza piciorului poate fi gălbuie. Gustul este blând, iar mirosul slab și fungic, sau greu de sesizat.",
+      "sporePrint": "Pulberea sporiferă este albă. Sporii sunt netezi, inamiloizi și elipsoidali până aproape cilindrici; dimensiunile publicate includ 6,5–10 × 3–4 µm și 5–10 × 2,5–3,5 µm.",
+      "habitat": "Fructifică de la sfârșitul toamnei până în primăvară — în Marea Britanie și Europa Centrală mai ales din noiembrie până în martie, iar în America de Nord din toamnă până în primăvară — în tufe pe cioate, trunchiuri căzute și tulpini de foioase, în special fag, frasin, stejar, ulm, plop și salcie, și doar rar pe conifere. Uneori apare pe arbori vii bolnavi și poate părea că iese din sol atunci când lemnul este îngropat.",
+      "uses": "Pălăriile sunt comestibile după fierbere; picioarele sunt tenace și de obicei se aruncă. Este de mult apreciată ca ciupercă comestibilă de iarnă. Trebuie determinată cu grijă, deoarece o Galerina mortală poate crește pe același lemn. Enoki sau enokitake alb, cu picior lung, vândut în magazine, este o altă specie din Asia de Est, nu aceasta.",
+      "confusion": "Gheba de brad (Galerina marginata) este mortal de toxică, crește pe același lemn și are lamele gălbui sau brun-ruginii, pulbere sporiferă brună și de obicei un inel pe picior, care poate dispărea odată cu vârsta. Gheba ciobanilor (Kuehneromyces mutabilis) are piciorul solzos sub inel și pulbere sporiferă brună. Flammulina populicola este pe teren aproape identică, dar crește pe plopi și se deosebește la microscop. Flammulina elastica și alți rude apropiate din același complex pot fi indiscernabile fără microscop. Flammulina fennae și Flammulina rossica au de obicei pălării mult mai palide, adesea aproape albe. Enoki cultivat este Flammulina filiformis, o specie din Asia de Est care odinioară era confundată cu aceasta.",
+      "notes": "Studii moleculare publicate în 2018 au arătat că ciuperca de iarnă cultivată în Asia de Est, multă vreme considerată această specie, este distinctă și se numește Flammulina filiformis; înregistrările sălbatice din Asia de Est sub numele vechi pot aparține acesteia. Ulterior a fost desemnată ca epitip o recoltare engleză. Corpurile de fructificație pot apărea în timpul dezghețurilor de la mijlocul iernii, când fructifică puține alte ciuperci cu lamele.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Растущий пучками, плодоносящий зимой дереворазрушающий гриб на мёртвой и иногда также на живой древесине лиственных пород, широко распространённый в Европе и встречающийся также в Северной Африке и Северной Америке. Часто появляется после заморозков, иногда сквозь снег, и может казаться растущим из почвы, когда древесина скрыта.",
+      "cap": "Шляпка 1,5–10 см в диаметре, сначала выпуклая, позднее уплощённая, а в пучках нередко деформированная там, где соседние шляпки прижимаются друг к другу. Ярко-оранжево-коричневая или желтовато-коричневая, обычно темнее к центру и бледнее к краю, голая, во влажную погоду слизистая или липкая; в сухую приобретает гладкий блеск. Край с возрастом может становиться рубчатым.",
+      "hymenium": "Пластинки широко или узко приросшие, широкие, частые или довольно редкие, с частыми промежуточными пластинками. Сначала белые или кремовые, по мере созревания плодового тела становятся бледно-жёлтыми или бледно-оранжевыми. Базидии четырёхспоровые; на поверхностях и краях пластинок есть бутылевидные или цилиндрические цистиды.",
+      "stipe": "Ножка 2–10 см длиной и 0,3–1,2 см толщиной, жёсткая, цилиндрическая или слегка утолщённая к основанию и иногда слегка эксцентрическая. Сразу под шляпкой бледно-жёлтая или медово-жёлтая, от основания вверх становится тёмно-коричневой или почти чёрной и густо бархатистой. Длинный тонкий корневидный отросток может уходить в древесину. Европейские описания часто указывают длину 5–10 см; североамериканские сборы обычно короче.",
+      "flesh": "Мякоть тонкая, беловатая или кремовая и не меняет цвет на разрезе; основание ножки может быть желтоватым. Вкус мягкий, запах слабый грибной или почти незаметный.",
+      "sporePrint": "Споровый порошок белый. Споры гладкие, неамилоидные, эллипсоидные или почти цилиндрические; приводимые размеры включают 6,5–10 × 3–4 мкм и 5–10 × 2,5–3,5 мкм.",
+      "habitat": "Плодоносит с поздней осени до весны — в Великобритании и Центральной Европе преимущественно с ноября по март, а в Северной Америке с осени до весны — пучками на пнях, лежащих стволах и стволах лиственных деревьев, особенно бука, ясеня, дуба, вяза, тополя и ивы, и лишь изредка на хвойных. Иногда встречается на больных живых деревьях и может казаться растущим из почвы, когда древесина скрыта.",
+      "uses": "Шляпки съедобны в варёном виде; ножки жёсткие и обычно отбрасываются. Издавна ценится как съедобный зимний гриб. Его нужно определять тщательно, потому что на той же древесине может расти смертельно ядовитая Galerina. Белый длинноногий эноки, или энокитаке, продаваемый в магазинах, — другой восточноазиатский вид, не этот.",
+      "confusion": "Галерина окаймлённая (Galerina marginata) смертельно ядовита, растёт на той же древесине и имеет желтоватые или ржаво-коричневые пластинки, коричневый споровый порошок и обычно кольцо на ножке, которое с возрастом может исчезать. У опёнок летний (Kuehneromyces mutabilis) ножка ниже кольца чешуйчатая, а споровый порошок коричневый. Flammulina populicola в поле почти неотличима, но растёт на тополях и отличается микроскопически. Flammulina elastica и другие близкие виды того же комплекса могут быть неразличимы без микроскопа. У Flammulina fennae и Flammulina rossica шляпки обычно гораздо бледнее, часто почти белые. Культивируемый эноки — Flammulina filiformis, восточноазиатский вид, который прежде смешивали с этим.",
+      "notes": "Молекулярные исследования, опубликованные в 2018 году, показали, что культивируемый в Восточной Азии зимний гриб, долго считавшийся этим видом, обособлен и называется Flammulina filiformis; дикие восточноазиатские находки под прежним именем могут относиться к нему. Позднее английский сбор был назначен эпитипом. Плодовые тела могут появляться во время оттепелей среди зимы, когда почти никакие другие пластинчатые грибы не плодоносят.",
+      "names": [
+        "зимний гриб",
+        "фламмулина бархатистоножковая"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Опёнок_зимний",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "опёнок зимний"
+    },
+    "sk": {
+      "description": "Trsnatá, v zime plodivá drevokazná huba odumretého a príležitostne aj živého listnatého dreva, rozšírená v Európe a prítomná aj v severnej Afrike a v Severnej Amerike. Často sa objavuje po mrazoch, niekedy aj cez sneh, a môže sa zdať, že rastie zo zeme, keď je drevo zasypané.",
+      "cap": "Klobúk má 1,5–10 cm v priemere, najprv je klenutý, neskôr sa splošťuje a v trsoch býva často zdeformovaný tam, kde sa susedné klobúky tlačia na seba. Je jasne oranžovohnedý až žltohnedý, spravidla tmavší v strede a bledší na okraji, holý a za vlhka slizký alebo lepkavý; po uschnutí má hladký lesk. Okraj môže byť v starobe ryhovaný.",
+      "hymenium": "Lupene sú široko alebo úzko pripojené, široké a husté až dosť riedke, s častými krátkymi lupušikmi. Najprv sú biele alebo krémové a pri dozrievaní plodnice blednú do bledožlta až bledooranžova. Bazídiá sú štvorvýtrusné; na plochách a hranách lupeňov sú fľaškovité až valcovité cystidy.",
+      "stipe": "Hlúbik je 2–10 cm dlhý a 0,3–1,2 cm hrubý, tuhý, valcovitý alebo k báze mierne hrubší a niekedy trochu výstredný. Tesne pod klobúkom je bledožltý alebo medovo žltý a od bázy nahor tmavne do tmavohneda až čiernohneda a husto zamatovie. Do dreva môže zasahovať dlhý, tenký koreňovitý výbežok. Európske opisy často uvádzajú dĺžku 5–10 cm; severoamerické zbierky bývajú kratšie.",
+      "flesh": "Dužina je tenká, belavá alebo krémová a na reze nemení farbu; báza hlúbika môže byť žltkastá. Chuť je mierna a vôňa slabá, hubová, alebo nevýrazná.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú hladké, inamyloidné a elipsoidné až takmer valcovité; uvádzané rozmery zahŕňajú 6,5–10 × 3–4 µm a 5–10 × 2,5–3,5 µm.",
+      "habitat": "Plodí od neskorej jesene do jari — v Británii a v strednej Európe predovšetkým od novembra do marca a v Severnej Amerike od jesene do jari — v trsoch na pňoch, padnutých kmeňoch a kmeňoch listnatých stromov, najmä buka, jaseňa, duba, brestu, topoľa a vŕby, a len zriedka na ihličnanoch. Príležitostne rastie aj na chorých živých stromoch a niekedy sa zdá, že rastie zo zeme, keď je drevo zasypané.",
+      "uses": "Klobúky sú po uvarení jedlé; hlúbiky sú tuhé a zvyčajne sa odhadzujú. Ako zimná jedlá huba je dlho cenená. Treba ju určovať opatrne, lebo na tom istom dreve môže rásť smrteľne jedovatá Galerina. Biela, dlhohlúbikatá enoki alebo enokitake predávaná v obchodoch je iný východoázijský druh, nie tento.",
+      "confusion": "Kapucňovka okrovohnedastá (Galerina marginata) je smrteľne jedovatá, rastie na tom istom dreve a má žltkasté až hrdzavohnedé lupene, hnedý výtrusný prach a na hlúbiku zvyčajne prsten, ktorý môže s vekom zmiznúť. šupinačka menlivá (Kuehneromyces mutabilis) má pod prsteňom šupinatý hlúbik a hnedý výtrusný prach. Flammulina populicola je v teréne takmer zhodná, ale rastie na topoľoch a líši sa mikroskopicky. Flammulina elastica a ďalšie blízke príbuzné v tom istom komplexe môžu byť bez mikroskopu nerozoznateľné. Flammulina fennae a Flammulina rossica majú zvyčajne omnoho bledšie, často takmer biele klobúky. Pestovaná enoki je Flammulina filiformis, východoázijský druh, ktorý sa s týmto predtým zamieňal.",
+      "notes": "Molekulárne štúdie uverejnené v roku 2018 ukázali, že zimná huba pestovaná vo východnej Ázii, dlho považovaná za tento druh, je odlišná a nazýva sa Flammulina filiformis; voľne rastúce východoázijské záznamy pod starším menom môžu patriť k nej. Za epityp bola neskôr určená anglická zbierka. Plodnice sa môžu objaviť počas odmäkov uprostred zimy, keď plodí len málo iných lupeňových húb.",
+      "names": [
+        "penízovka sametonohá",
+        "plamienka zamatovohlúbiková"
+      ],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Flammulina-velutipes/plamienka-zimna/penizovka-sametonoha/ID429",
+        "https://botany.cz/cs/flammulina-velutipes/",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=330940",
+        "https://www.gbif.org/species/3341441"
+      ],
+      "label": "plamienka zimná"
+    },
+    "sl": {
+      "description": "V šopih rastoča, pozimi plodonosna lesna goba na odmrlem in občasno tudi živem listnatem lesu, široko razširjena v Evropi in prisotna tudi v Severni Afriki in Severni Ameriki. Pogosto se pojavi po zmrzali, včasih skozi sneg, in se lahko zdi, da raste iz tal, kadar je les skrit.",
+      "cap": "Klobuk meri 1,5–10 cm v premeru, je najprej izbočen, pozneje sploščen, v šopih pa pogosto deformiran tam, kjer se sosednji klobuki stiskajo drug ob drugega. Je živo oranžnorjav do rumenkastorjav, navadno temnejši proti sredini in bledši proti robu, gol in v vlagi sluzast ali lepljiv; suh dobi gladki sijaj. Rob lahko s starostjo postane rebrast.",
+      "hymenium": "Lističi so široko ali ozko prirasli, široki in gosti ali precej redki, s pogostimi vmesnimi lističi. Najprej so beli ali kremasti in postanejo bledo rumeni do bledo oranžni, ko trosnjak dozori. Bazidiji so štiritrosoni; stekleničasti do valjasti cistidi sedijo na ploskvah in ostrem robu lističev.",
+      "stipe": "Bet meri 2–10 cm v dolžino in 0,3–1,2 cm v debelino, je žilav, valjast ali proti dnu nekoliko odebeljen in včasih nekoliko ekscentričen. Tik pod klobukom je bledorumen ali medeno rumen in od dna navzgor postane temnorjav do skoraj črn in gosto žameten. Dolg, vitek koreninast podaljšek lahko zraste v les. Evropski opisi pogosto navajajo dolžino 5–10 cm; severnoameriški nabiri so navadno krajši.",
+      "flesh": "Meso je tanko, belkasto ali kremasto in ob prerezu ne spremeni barve; dno beta je lahko rumenkasto. Okus je blag, vonj pa šibek in gobast ali komaj zaznaven.",
+      "sporePrint": "Trosni prah je bel. Trosi so gladki, inamiloidni in elipsoidni do skoraj valjasti; navedene mere vključujejo 6,5–10 × 3–4 µm in 5–10 × 2,5–3,5 µm.",
+      "habitat": "Plodovi od pozne jeseni do pomladi — v Veliki Britaniji in srednji Evropi predvsem od novembra do marca, v Severni Ameriki pa od jeseni do pomladi — v šopih na panjih, ležečih deblih in deblih listavcev, zlasti bukve, jesena, hrasta, bresta, topola in vrbe, in le redko na iglavcih. Včasih se pojavi na bolnih živih drevesih in se lahko zdi, da raste iz tal, kadar je les skrit.",
+      "uses": "Klobuki so užitni, ko so kuhani; beti so žilavi in jih navadno zavržejo. Že dolgo jo cenijo kot užitno zimsko gobo. Določiti jo je treba pazljivo, ker na istem lesu lahko raste smrtno strupena Galerina. Bela, dolgo beta enoki ali enokitake, ki jo prodajajo v trgovinah, je druga vzhodnoazijska vrsta, ne ta.",
+      "confusion": "Obrobljena kučmica (Galerina marginata) je smrtno strupena, raste na istem lesu in ima rumenkaste do rjasto rjave lističe, rjav trosni prah in navadno obroček na betu, ki s starostjo lahko izgine. mala štorovka (Kuehneromyces mutabilis) ima pod obročkom luskat bet in rjav trosni prah. Flammulina populicola je na terenu skoraj enaka, a raste na topolih in se loči mikroskopsko. Flammulina elastica in drugi bližnji sorodniki istega kompleksa so lahko brez mikroskopa nerazločljivi. Flammulina fennae in Flammulina rossica imata navadno precej bledše, pogosto skoraj bele klobuke. Gojena enoki je Flammulina filiformis, vzhodnoazijska vrsta, ki so jo nekoč zamenjevali s to.",
+      "notes": "Molekulske raziskave, objavljene leta 2018, so pokazale, da je zimska goba, ki jo gojijo v Vzhodni Aziji in so jo dolgo obravnavali kot to vrsto, ločena in se imenuje Flammulina filiformis; prostoživeča vzhodnoazijska najdišča pod starejšim imenom lahko spadajo k njej. Pozneje je bila za epitip določena angleška zbirka. Trosnjaki se lahko pojavijo med otoplitvami sredi zime, ko plodi le malo drugih lističastih gob.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/3341441/vernacularNames",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "zimska panjevka"
+    },
+    "sr": {
+      "description": "У китама растућа, зими плодоносна дрвна гљива на мртвом и повремено и живом лиснатом дрвету, широко распрострањена у Европи и присутна и у северној Африци и Северној Америци. Често се појављује после мраза, понекад кроз снег, и може изгледати као да расте из тла када је дрво скривено.",
+      "cap": "Шешир је широк 1,5–10 cm, најпре испупчен, касније спљоштен, а у китама често деформисан тамо где се суседни шешири притискају један о други. Живо је наранџастосмеђе до жућкастосмеђе боје, обично тамнији према средини и блеђи према рубу, го и у влази слузав или лепљив; сув добија гладак сјај. Руб са старошћу може постати ребраст.",
+      "hymenium": "Листићи су широко или уско прирасли, широки и густи или прилично ретки, са честим међулистићима. Најпре су бели или кремасти и постају бледожути до бледонаранџасти како плодоносно тело сазрева. Базидијуми су четвороспорни; боцасти до ваљкасти цистиди седе на плохама и оштрици листића.",
+      "stipe": "Дршка је дуга 2–10 cm и дебела 0,3–1,2 cm, жилава, ваљкаста или према дну мало задебљана и понекад мало ексцентрична. Непосредно испод шешира бледожута је или меденожута и од дна навише постаје тамносмеђа до скоро црна и густо баршунаста. Дугачак, витак коренов наставак може ући у дрво. Европски описи често наводе дужину 5–10 cm; северноамерички налази обично су краћи.",
+      "flesh": "Месо је танко, беличасто или кремасто и при пресеку не мења боју; дно дршке може бити жућкасто. Укус је благ, а мирис слаб и гљиваст или једва приметан.",
+      "sporePrint": "Отисак спора је бео. Споре су глатке, инамилоидне и елипсоидне до скоро ваљкасте; наведене мере укључују 6,5–10 × 3–4 µm и 5–10 × 2,5–3,5 µm.",
+      "habitat": "Плоди од касне јесени до пролећа — у Великој Британији и средњој Европи пре свега од новембра до марта, а у Северној Америци од јесени до пролећа — у китама на пањевима, полеглим стаблима и стаблима лиснатог дрвећа, нарочито букве, јасена, храста, бреста, тополе и врбе, и само ретко на четинарима. Понекад се појављује на болесним живим стаблима и може изгледати као да расте из тла када је дрво скривено.",
+      "uses": "Шешири су јестиви кад су кувани; дршке су жилаве и обично се одбацују. Одавно је цене као јестиву зимску гљиву. Треба је пажљиво одредити, јер на истом дрвету може расти смртоносно отровна Galerina. Бела, дуге дршке еноки или енокитаке која се продаје у продавницама друга је источноазијска врста, не ова.",
+      "confusion": "Мала смрт (Galerina marginata) смртоносно је отровна, расте на истом дрвету и има жућкасте до рђавосмеђе листиће, смеђи отисак спора и обично прстен на дршци, који са старошћу може нестати. променљива пањевчица (Kuehneromyces mutabilis) има испод прстена љускаву дршку и смеђи отисак спора. Flammulina populicola на терену је готово истоветна, али расте на тополама и разликује се микроскопски. Flammulina elastica и други блиски сродници истог комплекса могу бити неразлучиви без микроскопа. Flammulina fennae и Flammulina rossica имају обично знатно блеђе, често готово беле шешире. Гајена еноки је Flammulina filiformis, источноазијска врста која се некад мешала са овом.",
+      "notes": "Молекуларна истраживања објављена 2018. показала су да је зимска гљива гајена у Источној Азији, дуго третирана као ова врста, засебна и зове се Flammulina filiformis; дивљи источноазијски налази под старијим именом могу припадати њој. Касније је за епитип одређен енглески примерак. Плодоносна тела могу се појавити током отопљавања средином зиме, када плоди мало других листичастих гљива.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q372893",
+        "https://sr.wikipedia.org/wiki/Баршунаста_пањевчица"
+      ],
+      "label": "баршунаста пањевчица"
+    },
+    "sv": {
+      "description": "En tuvväxande, vinterfruktifierande vednedbrytande svamp på död och ibland även levande lövved, vida spridd i Europa och också förekommande i Nordafrika och Nordamerika. Den visar sig ofta efter frost, ibland genom snön, och kan tyckas växa ur marken när veden är dold.",
+      "cap": "Hatten är 1,5–10 cm bred, först välvd, senare tillplattad, och i tuvor ofta deformerad där grannhattar trycker mot varandra. Den är klart orangebrun till gulaktigt brun, vanligen mörkare mot mitten och blekare mot kanten, kal och slemmig eller klibbig i fuktigt väder; torr får den en slät glans. Kanten kan med åldern bli räfflad.",
+      "hymenium": "Skivorna är brett eller smalt vidfästa, breda och täta till ganska glesa, med ofta förekommande mellanskivor. De är först vita eller gräddfärgade och blir blekgula till blekorange när fruktkroppen mognar. Basidierna är fyrsproriga; flaskformade till cylindriska cystidor sitter på skivornas ytor och eggar.",
+      "stipe": "Foten är 2–10 cm lång och 0,3–1,2 cm tjock, seg, jämntjock eller något tjockare mot basen och ibland något excentrisk. Strax under hatten är den blekgul eller honungsgul och blir från basen uppåt mörkbrun till svartaktig och tätt sammetsluden. En lång, smal rotlik förlängning kan gå in i veden. Europeiska beskrivningar anger ofta en längd på 5–10 cm; nordamerikanska kollektioner är vanligen kortare.",
+      "flesh": "Köttet är tunt, vitaktigt eller gräddfärgat och ändrar inte färg vid genomskärning; fotens bas kan vara gulaktig. Smaken är mild och lukten svag och svampartad, eller obetydlig.",
+      "sporePrint": "Sporavtrycket är vitt. Sporerna är släta, inamyloida och ellipsoida till nästan cylindriska; angivna mått omfattar 6,5–10 × 3–4 µm och 5–10 × 2,5–3,5 µm.",
+      "habitat": "Den fruktifierar från senhösten till våren — i Storbritannien och Centraleuropa främst från november till mars, och i Nordamerika från hösten in i våren — i tuvor på stubbar, liggande stammar och stammar av lövträd, särskilt bok, ask, ek, alm, poppel och vide, och endast sällan på barrträd. Den påträffas ibland på sjuka levande träd och kan tyckas växa ur marken när veden är dold.",
+      "uses": "Hattarna är ätliga när de kokats; fötterna är sega och kasseras vanligen. Den har länge värderats som en ätlig vintersvamp. Den måste artbestämmas med omsorg, eftersom en dödlig Galerina kan växa på samma ved. Den vita, långfotade enoki eller enokitake som säljs i butik är en annan östasiatisk art, inte denna.",
+      "confusion": "Gifthätting (Galerina marginata) är dödligt giftig, växer på samma ved och har gulaktiga till rostbruna skivor, brunt sporavtryck och vanligen en ring på foten, som kan försvinna med åldern. föränderlig tofsskivling (Kuehneromyces mutabilis) har en fjällig fot under ringen och brunt sporavtryck. Flammulina populicola är i fält i det närmaste identisk men växer på poppel och skiljer sig mikroskopiskt. Flammulina elastica och andra närstående i samma komplex kan vara omöjliga att skilja utan mikroskop. Flammulina fennae och Flammulina rossica har vanligen mycket blekare, ofta nästan vita hattar. Den odlade enokin är Flammulina filiformis, en östasiatisk art som tidigare förväxlades med denna.",
+      "notes": "Molekylära studier offentliggjorda 2018 visade att den vintersvamp som odlas i Östasien och länge behandlats som denna art är skild och heter Flammulina filiformis; vilda östasiatiska uppgifter under det äldre namnet kan höra dit. En engelsk kollektion utsågs senare till epityp. Fruktkroppar kan visa sig vid tö midvintertid, när få andra skivlingar fruktifierar.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Vinterskivling",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "vinterskivling"
+    },
+    "tr": {
+      "description": "Demetler halinde büyüyen, kışın meyve veren, ölü ve zaman zaman canlı yapraklı ağaç odunu üzerinde odun çürüten bir mantar; Avrupa’da yaygın, Kuzey Afrika ve Kuzey Amerika’da da bulunur. Sıklıkla don sonrası, bazen karın içinden görünür ve odun gizlendiğinde topraktan çıkıyormuş gibi görünebilir.",
+      "cap": "Şapka 1,5–10 cm genişliğinde, önce kubbemsi, sonra basıklaşır ve demetlerde komşu şapkaların birbirine bastığı yerlerde çoğu kez bozulur. Parlak turuncu kahverenginden sarımsı kahverengine kadar değişir, genellikle merkeze doğru daha koyu, kenara doğru daha soluktur, tüysüzdür ve nemliyken sümüksü veya yapışkandır; kuruyunca düzgün bir parlaklık alır. Kenar yaşla birlikte oluklu olabilir.",
+      "hymenium": "Lameller geniş veya dar birleşik, geniş ve sık veya oldukça seyrektir ve sık ara lameller bulunur. Başta beyaz veya krem rengi olup meyve gövdesi olgunlaştıkça soluk sarıdan soluk turuncuya döner. Bazitler dört sporludur; şişe biçiminden silindirik biçime kadar değişen sistitler lamellerin yüzlerinde ve keskin kenarında bulunur.",
+      "stipe": "Sap 2–10 cm uzunluğunda ve 0,3–1,2 cm kalınlığında, sert, silindirik veya tabana doğru biraz kalınlaşmış ve bazen biraz eksantriktir. Şapkanın hemen altında soluk sarı veya bal sarısıdır ve tabandan yukarı doğru koyu kahverengiden neredeyse siyaha kadar değişir ve sık kadifemsi olur. Uzun, ince kök benzeri bir uzantı oduna girebilir. Avrupa betimlemeleri çoğu kez 5–10 cm uzunluk verir; Kuzey Amerika örnekleri genellikle daha kısadır.",
+      "flesh": "Et ince, beyazımsı veya krem rengindedir ve kesildiğinde renk değiştirmez; sapın tabanı sarımsı olabilir. Tat yumuşak, koku zayıf ve mantarimsı veya pek fark edilmez.",
+      "sporePrint": "Spor izi beyazdır. Sporlar pürüzsüz, inamiloid ve elipsoitten neredeyse silindirik biçime kadar değişir; verilen ölçüler 6,5–10 × 3–4 µm ve 5–10 × 2,5–3,5 µm değerlerini kapsar.",
+      "habitat": "Geç sonbahardan ilkbahara kadar meyve verir — Britanya ve Orta Avrupa’da özellikle kasımdan marta, Kuzey Amerika’da sonbahardan ilkbahara kadar — kütüklerde, devrik gövdelerde ve yapraklı ağaç gövdelerinde, özellikle kayın, dişbudak, meşe, karaağaç, kavak ve söğütte demetler halinde, iğne yapraklılarda ise pek seyrek. Zaman zaman hasta canlı ağaçlarda da görülür ve odun gizlendiğinde topraktan çıkıyormuş gibi görünebilir.",
+      "uses": "Şapkalar pişirildiğinde yenilebilir; saplar serttir ve genellikle atılır. Uzun süredir yenilebilir bir kış mantarı olarak değer görmüştür. Dikkatle teşhis edilmelidir, çünkü aynı odunda ölümcül bir Galerina büyüyebilir. Dükkânlarda satılan beyaz, uzun saplı enoki veya enokitake başka bir Doğu Asya türüdür, bu değildir.",
+      "confusion": "Cenaze çanı mantarı (Galerina marginata) ölümcül zehirlidir, aynı odunda büyür ve sarımsı ila pas kahverengisi lamellere, kahverengi spor izine ve sapta genellikle yaşla kaybolabilen bir halkaya sahiptir. püsküllüoynak mantarı (Kuehneromyces mutabilis) halkasının altında pul pul bir sapa ve kahverengi spor izine sahiptir. Flammulina populicola arazide neredeyse özdeştir, ancak kavaklarda büyür ve mikroskopta ayrılır. Flammulina elastica ve aynı kompleksin diğer yakın akrabaları mikroskopsuz ayırt edilemez olabilir. Flammulina fennae ve Flammulina rossica genellikle çok daha soluk, çoğu kez neredeyse beyaz şapkalara sahiptir. Yetiştirilen enoki, eskiden bununla karıştırılan bir Doğu Asya türü olan Flammulina filiformis’tir.",
+      "notes": "2018’de yayımlanan moleküler çalışmalar, Doğu Asya’da yetiştirilen ve uzun süre bu tür sayılan kış mantarının ayrı olduğunu ve adının Flammulina filiformis olduğunu gösterdi; eski ad altındaki yabanıl Doğu Asya kayıtları ona ait olabilir. Daha sonra bir İngiliz örneği epitip olarak belirlendi. Meyve gövdeleri, başka az sayıda lamelli mantarın meyve verdiği kış ortası çözülmelerinde görülebilir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Гриб, що росте пучками, плодоносить узимку й руйнує деревину на мертвій і іноді також живій листяній деревині, широко поширений у Європі й також присутній у Північній Африці та Північній Америці. Часто з’являється після приморозків, іноді крізь сніг, і може здаватися, що росте з ґрунту, коли деревина схована.",
+      "cap": "Шапинка 1,5–10 см завширшки, спочатку опукла, пізніше сплощена, а в пучках часто деформована там, де сусідні шапинки тиснуть одна на одну. Яскраво-помаранчево-коричнева до жовтувато-коричневої, зазвичай темніша до середини й блідіша до краю, гола й у вологу погоду слизиста або липка; суха набуває гладкого блиску. Край із віком може ставати рубчастим.",
+      "hymenium": "Пластинки широко або вузько прирослі, широкі й густі або досить рідкі, з частими проміжними пластинками. Спочатку білі або кремові й стають блідо-жовтими до блідо-помаранчевих, коли плодове тіло дозріває. Базидії чотириспорові; пляшкоподібні до циліндричних цистиди сидять на поверхнях і вістрі пластинок.",
+      "stipe": "Ніжка 2–10 см завдовжки і 0,3–1,2 см завтовшки, жорстка, циліндрична або трохи потовщена до основи й іноді трохи ексцентрична. Безпосередньо під шапинкою блідо-жовта або медово-жовта й від основи вгору стає темно-коричневою до майже чорної й густо оксамитовою. Довгий тонкий коренеподібний відросток може заходити в деревину. Європейські описи часто вказують довжину 5–10 см; північноамериканські збори зазвичай коротші.",
+      "flesh": "М’якоть тонка, білувата або кремова й не змінює колір на розрізі; основа ніжки може бути жовтуватою. Смак м’який, запах слабкий грибний або майже непомітний.",
+      "sporePrint": "Споровий порошок білий. Спори гладкі, інамілоїдні й еліпсоїдні до майже циліндричних; наведені розміри включають 6,5–10 × 3–4 мкм і 5–10 × 2,5–3,5 мкм.",
+      "habitat": "Плодоносить з пізньої осені до весни — у Великій Британії та Центральній Європі переважно з листопада до березня, а в Північній Америці з осені до весни — пучками на пнях, лежачих стовбурах і стовбурах листяних дерев, особливо бука, ясена, дуба, в’яза, тополі та верби, і лише зрідка на хвойних. Іноді з’являється на хворих живих деревах і може здаватися, що росте з ґрунту, коли деревина схована.",
+      "uses": "Шапинки їстівні у вареному вигляді; ніжки жорсткі й зазвичай відкидають. Віддавна цінують як їстівний зимовий гриб. Його треба визначати уважно, бо на тій самій деревині може рости смертельно отруйна Galerina. Білий довгоніжковий енокі, або енокітаке, що продається в крамницях, — інший східноазійський вид, не цей.",
+      "confusion": "Галерина облямована (Galerina marginata) смертельно отруйна, росте на тій самій деревині й має жовтуваті до іржаво-коричневих пластинки, коричневий споровий порошок і зазвичай кільце на ніжці, яке з віком може зникати. У опеньок літній (Kuehneromyces mutabilis) ніжка нижче кільця луската, а споровий порошок коричневий. Flammulina populicola в полі майже тотожна, але росте на тополях і відрізняється мікроскопічно. Flammulina elastica та інші близькі родичі того самого комплексу можуть бути нерозрізненні без мікроскопа. У Flammulina fennae і Flammulina rossica шапинки зазвичай значно блідіші, часто майже білі. Культивований енокі — Flammulina filiformis, східноазійський вид, який колись плутали з цим.",
+      "notes": "Молекулярні дослідження, опубліковані 2018 року, показали, що зимовий гриб, який культивують у Східній Азії й довго вважали цим видом, є окремим і називається Flammulina filiformis; дикі східноазійські знахідки під давнішою назвою можуть належати до нього. Пізніше англійський збір призначили епітипом. Плодові тіла можуть з’являтися під час відлиг серед зими, коли плодоносить мало інших пластинчастих грибів.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Гриб_зимовий",
+        "https://www.wikidata.org/wiki/Q372893"
+      ],
+      "label": "гриб зимовий"
+    },
+    "zh": {
+      "description": "簇生、冬季出菇、分解阔叶树木质的真菌，生于枯木，有时也生于活立木，广泛分布于欧洲，北非和北美也有。常在霜冻之后出现，有时穿雪而出；当木材被掩埋时，看起来像从地面长出。",
+      "cap": "菌盖宽1.5–10 cm，先凸起，后变扁平，簇生时相邻菌盖互相挤压处常会变形。鲜橙褐色至黄褐色，通常中央较深、边缘较淡，光滑，潮湿时黏滑或发黏，干燥时有平滑光泽。边缘随年龄可能出现条纹。",
+      "hymenium": "菌褶广着生或狭着生，宽，密集至较稀疏，常有短褶。初为白色或奶油色，子实体成熟后变为浅黄至浅橙。担子四孢；菌褶表面和边缘有瓶状至圆柱状囊状体。",
+      "stipe": "菌柄长2–10 cm、粗0.3–1.2 cm，坚韧，圆柱形或向基部略增粗，有时略偏生。紧贴菌盖处为浅黄或蜜黄色，自基部向上变为深褐至近黑色并密被绒毛。细长的根状延伸可伸入木材。欧洲描述常给出5–10 cm的长度；北美标本通常更短。",
+      "flesh": "菌肉薄，近白或奶油色，切开不变色；菌柄基部可带黄色。味道温和，气味淡而似蘑菇，或不明显。",
+      "sporePrint": "孢子印白色。孢子光滑、非淀粉质、椭圆形至近圆柱形；已发表的大小包括6.5–10 × 3–4 µm和5–10 × 2.5–3.5 µm。",
+      "habitat": "晚秋至春季出菇——在英国和中欧尤其是11月至3月，在北美则从秋季持续到春季——簇生于阔叶树的树桩、倒木和树干上，尤其是山毛榉、白蜡、栎、榆、杨和柳，很少见于针叶树。有时也出现在患病的活立木上；当木材被掩埋时，看起来像从地面长出。",
+      "uses": "菌盖煮熟后可食；菌柄坚韧，通常弃去。长期以来被当作冬季食用菌。必须仔细鉴定，因为同一木材上可能生长致命的Galerina。商店出售的白色、长柄金针菇或榎茸是另一种东亚物种，不是本种。",
+      "confusion": "Galerina marginata有致命毒性，生长在同一木材上，菌褶淡黄至锈褐色，孢子印褐色，菌柄上通常有菌环，可随年龄消失。Kuehneromyces mutabilis在菌环以下有鳞片状菌柄，孢子印褐色。Flammulina populicola在野外几乎无法区分，但生于杨树上，显微镜下有差异。Flammulina elastica及同一复合体中的近缘种在没有显微镜时可能无法分辨。Flammulina fennae和Flammulina rossica的菌盖通常淡得多，常常近白色。栽培金针菇是Flammulina filiformis，一种过去常与本种混淆的东亚物种。",
+      "notes": "2018年发表的分子研究表明，东亚栽培、长期被当作本种的冬季蘑菇实为另一物种，名为Flammulina filiformis；以旧名记录的东亚野生记录可能属于该种。后来指定一份英格兰标本为后选模式。子实体可在隆冬解冻时出现，那时很少有其他褶菌出菇。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t82u \"signature Gemini\"). The supplied file \"Flammulina velutipes.png\" is a JPEG/JFIF illustration that appears AI-generated (an existing cursive \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv1.webp",
+      "author": "lara_pilze",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/340921428"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv2.webp",
+      "author": "Summit Metro Parks",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/39597175"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv3.webp",
+      "author": "W Rao",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/253983747"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv4.webp",
+      "author": "Shirley Zundell",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/245463886"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv5.webp",
+      "author": "grinnin",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/348929963"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Flammulina_velutipes/Flammulina_velutipes@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive \"Gemini\" mark kept exactly as found (alpha only); no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv1.webp",
+      "author": "lara_pilze",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/340921428"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv2.webp",
+      "author": "Summit Metro Parks",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/39597175"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv3.webp",
+      "author": "W Rao",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/253983747"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv4.webp",
+      "author": "Shirley Zundell",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/245463886"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Physalacriaceae/Flammulina_velutipes/fv5.webp",
+      "author": "grinnin",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/348929963"
+    }
+  ],
+  "synonyms": [
+    "Agaricus velutipes",
+    "Gymnopus velutipes",
+    "Collybia velutipes",
+    "Pleurotus velutipes",
+    "Myxocollybia velutipes",
+    "Agaricus sphinx",
+    "Agaricus nigripes",
+    "Agaricus fuscipes",
+    "Agaricus atropes",
+    "Collybia eriocephala",
+    "Agaricus veluticeps",
+    "Collybia veluticeps"
+  ],
+  "fruitingFrom": 10,
+  "fruitingTo": 5,
+  "reserved": false,
+  "id": 170,
+  "added": "2026-11-15",
+  "citation": "Lilloa 22: 307 (1951) [1949]",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 141,
+        "box": [
+          559,
+          286,
+          16,
+          10
+        ],
+        "medianContrast": 2.8
+      },
+      {
+        "area": 117,
+        "box": [
+          505,
+          306,
+          14,
+          11
+        ],
+        "medianContrast": 2.7
+      },
+      {
+        "area": 687,
+        "box": [
+          467,
+          309,
+          37,
+          27
+        ],
+        "medianContrast": 2.65
+      }
+    ],
+    "holeRule": "enclosed near-paper regions (median contrast<7) cleared except inside KEEP boxes",
+    "keepBoxes": [
+      [
+        400,
+        250,
+        470,
+        410
+      ],
+      [
+        250,
+        330,
+        325,
+        560
+      ],
+      [
+        330,
+        400,
+        405,
+        680
+      ],
+      [
+        425,
+        400,
+        505,
+        700
+      ],
+      [
+        530,
+        350,
+        625,
+        680
+      ],
+      [
+        360,
+        300,
+        430,
+        420
+      ],
+      [
+        90,
+        830,
+        390,
+        1075
+      ],
+      [
+        630,
+        500,
+        890,
+        725
+      ],
+      [
+        630,
+        750,
+        890,
+        1108
+      ]
+    ],
+    "keptEnclosedRegions": [
+      {
+        "area": 36,
+        "box": [
+          409,
+          306,
+          6,
+          6
+        ]
+      },
+      {
+        "area": 2189,
+        "box": [
+          340,
+          429,
+          48,
+          86
+        ]
+      },
+      {
+        "area": 2375,
+        "box": [
+          504,
+          464,
+          65,
+          103
+        ]
+      },
+      {
+        "area": 1569,
+        "box": [
+          459,
+          471,
+          29,
+          83
+        ]
+      },
+      {
+        "area": 81,
+        "box": [
+          312,
+          494,
+          8,
+          11
+        ]
+      },
+      {
+        "area": 98,
+        "box": [
+          380,
+          516,
+          10,
+          12
+        ]
+      },
+      {
+        "area": 25,
+        "box": [
+          464,
+          555,
+          5,
+          5
+        ]
+      },
+      {
+        "area": 1156,
+        "box": [
+          704,
+          780,
+          65,
+          39
+        ]
+      },
+      {
+        "area": 30,
+        "box": [
+          229,
+          935,
+          6,
+          5
+        ]
+      },
+      {
+        "area": 152,
+        "box": [
+          182,
+          938,
+          12,
+          16
+        ]
+      },
+      {
+        "area": 86,
+        "box": [
+          203,
+          950,
+          9,
+          11
+        ]
+      },
+      {
+        "area": 341,
+        "box": [
+          232,
+          952,
+          21,
+          25
+        ]
+      }
+    ],
+    "paperPatchesExcluded": [],
+    "edgePaperPixelsPeeled": 6174,
+    "paperResidualP995": 2.3821902147551577,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Flammulina velutipes.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "17073321eabaab532cc5f18b739100e76da444bcae51dd472db8186c82643837",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      95,
+      145,
+      849,
+      1168
+    ],
+    "uniformScale": 1.856763925729443,
+    "placement": [
+      100,
+      250
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1899
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 696365,
+    "opaquePixels": 356029,
+    "partialAlphaPixels": 22806,
+    "signatureBox": [
+      770,
+      1136,
+      838,
+      1170
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 279,
+    "preservedObjects": [
+      "main tuft on decaying log, including moss and pale flecks on the bark",
+      "young cluster on a small piece of wood",
+      "detached gill underside",
+      "longitudinal section with dark velvety stem base",
+      "existing cursive Gemini mark, kept as found"
+    ],
+    "signatureTreatment": "Existing cursive \"Gemini\" mark at bottom right kept exactly as found by local stroke detection in SIGBOX; no new mark painted. Credit is metadata only.",
+    "contours": [
+      {
+        "area": 33135.5,
+        "box": [
+          112,
+          848,
+          224,
+          234
+        ],
+        "medianContrast": 109.00842646814849
+      },
+      {
+        "area": 22700.0,
+        "box": [
+          632,
+          760,
+          216,
+          352
+        ],
+        "medianContrast": 41.23977804980181
+      },
+      {
+        "area": 34161.0,
+        "box": [
+          608,
+          511,
+          238,
+          214
+        ],
+        "medianContrast": 43.084015549258275
+      },
+      {
+        "area": 279694.5,
+        "box": [
+          96,
+          146,
+          648,
+          875
+        ],
+        "medianContrast": 99.76252100233367
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Hand-coloured 19th-century-style plate on cream paper: a tuft of about eight orange-brown caps on a mossy, snow-flecked decaying log (centre); a small young cluster on a twig (lower left); a gill underside (upper right); a longitudinal section with a dark velvety stem base (lower right); a cursive \"Gemini\" mark bottom right, kept as found. No other mark.",
+    "anatomyReview": "Broadly consistent with wild Flammulina velutipes: a tuft of orange-brown, darker-centred caps on a mossy decaying hardwood log; yellowish stems darkening to a blackish velvety base; a detached gill-side view with pale creamy gills and a pale stem; a longitudinal section with pale flesh and a dark velvety stem base; a small young cluster with brighter orange convex caps. Unverified / caveats: the hanging gills on the right-hand underside look slightly long and even; the sectioned cap is paler and more flared than a typical wild cap and does not show the slimy cuticle clearly; snow or mycelial flecks on the log are decorative and cannot be verified; wild East Asian Flammulina filiformis can look similar, so the plate alone cannot separate the 2018 split. The plate depicts the wild, coloured, short-stemmed habit, not cultivated white enoki.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t82u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only. Existing mark kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      {
+        "text": "Gemini",
+        "kind": "cursive script, bottom right",
+        "box": [
+          770,
+          1136,
+          838,
+          1170
+        ],
+        "treatment": "kept as found"
+      }
+    ],
+    "provenanceAssessment": "Owner-supplied file \"Flammulina velutipes.png\" from Mac Downloads. File is JPEG/JFIF 896×1200 RGB, no source alpha, despite the .png extension. The art is in a 19th-century hand-coloured plate style with a visible \"Gemini\" mark. Treated as AI-generated art, rights unverified. No historic artist is claimed. Source RGB of every retained pixel is unchanged.",
+    "enlargementNote": "Source is 896×1200, uniformly scaled by about 1.86× onto the 1600×2400 canvas (shorter side 896 → composed height 1899); lines may look slightly soft.",
+    "officialFiles": [
+      {
+        "path": "media/Flammulina_velutipes@1600.webp",
+        "bytes": 347386,
+        "sha256": "e1d5c6cc3d071bc3ec6194e68165d01a2d175ae5572ec6e421043e33ab52bbc4"
+      },
+      {
+        "path": "media/Flammulina_velutipes@400.webp",
+        "bytes": 43676,
+        "sha256": "9b92d907a2728c1db290b05a183caa213b4cb7050fd55cb6cafb1df04fbc1ff6"
       }
     ]
   }

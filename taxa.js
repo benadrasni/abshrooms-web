@@ -999,10 +999,12 @@ export const TAXA = {
     rank: "genus"
   },
   Sclerodermataceae: {
-    rank: "family"
+    rank: "family",
+    sk: "pestrecovité"
   },
   Scleroderma: {
-    rank: "genus"
+    rank: "genus",
+    sk: "pestrec"
   },
   Coprinopsis: {
     rank: "genus"
@@ -1011,6 +1013,9 @@ export const TAXA = {
     rank: "family"
   },
   Fomitopsis: {
+    rank: "genus"
+  },
+  Flammulina: {
     rank: "genus"
   }
 };
