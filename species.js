@@ -179544,5 +179544,2499 @@ export const CATALOG = [
     "Lactarius torminosus var. nordmanensis"
   ],
   "reserved": false
+},
+{
+  "id": 172,
+  "name": "Cerioporus squamosus",
+  "author": "(Huds.) Quél.",
+  "family": "Polyporaceae",
+  "genus": "Cerioporus",
+  "order": "Polyporales",
+  "edibility": "edible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Polyporales",
+    "Polyporaceae",
+    "Cerioporus"
+  ],
+  "summary": [
+    "Polyporales",
+    "Polyporaceae",
+    "Cerioporus"
+  ],
+  "added": "2026-11-16",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/Cerioporus_squamosus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/Cerioporus_squamosus@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" per the owner default (t85u: assume signature Gemini unless told otherwise; metadata only). The supplied file \"Cerioporus squamosus.png\" (from ~/Downloads) is a JPEG/JFIF illustration that appears AI-generated (an existing \"Gemini\" mark at bottom right, kept as found; printer registration marks removed from the alpha; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/Cerioporus_squamosus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs1.webp",
+      "author": "aegithalos",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/201559914"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs2.webp",
+      "author": "sophieheadland",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/291250824"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs3.webp",
+      "author": "aegithalos",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/201560542"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs4.webp",
+      "author": "josehigas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/697253955"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs5.webp",
+      "author": "remoremo",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/225323054"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Polyporaceae/Cerioporus_squamosus/Cerioporus_squamosus@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Polyporaceae/Cerioporus_squamosus/Cerioporus_squamosus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing \"Gemini\" mark kept exactly as found (alpha only); registration marks erased from alpha; no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs1.webp",
+      "author": "aegithalos",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/201559914"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs2.webp",
+      "author": "sophieheadland",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/291250824"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs3.webp",
+      "author": "aegithalos",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/201560542"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs4.webp",
+      "author": "josehigas",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/697253955"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Polyporales/Polyporaceae/Cerioporus_squamosus/cs5.webp",
+      "author": "remoremo",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/225323054"
+    }
+  ],
+  "capFrom": 10.0,
+  "capTo": 30.0,
+  "stipeHeightFrom": 2.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 6.0,
+  "fruitingFrom": 5,
+  "fruitingTo": 8,
+  "label": {
+    "ar": "صوفان حرشفي",
+    "bg": "пъстърва",
+    "cs": "choroš šupinatý",
+    "da": "skællet stilkporesvamp",
+    "de": "Schuppiger Porling",
+    "en": "dryad's saddle",
+    "es": "políporo escamoso",
+    "et": "harilik soomustorik",
+    "fa": null,
+    "fi": "suomukääpä",
+    "fr": "polypore écailleux",
+    "he": "נקבובנית קשקשית",
+    "hi": null,
+    "hr": null,
+    "hu": "pisztricgomba",
+    "id": null,
+    "it": null,
+    "ja": "アミヒラタケ",
+    "ko": null,
+    "lt": "žvynuotoji skylėtbudė",
+    "lv": "zvīņainā kātiņpiepe",
+    "nl": "zadelzwam",
+    "no": "skjellkjuke",
+    "pl": "żagwiak łuskowaty",
+    "pt": null,
+    "ro": "păstrăv de nuc",
+    "ru": "трутовик чешуйчатый",
+    "sk": "trúdnik šupinatý",
+    "sl": "luskasti luknjičar",
+    "sr": "шкрипавац",
+    "sv": "fjällticka",
+    "tr": "pullu mantar",
+    "uk": "трутовик лускатий",
+    "zh": "寬鱗多孔菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "chorošovník šupinatý"
+    ],
+    "da": [],
+    "de": [
+      "Schuppiger Stielporling",
+      "Schuppiger Schwarzfußporling"
+    ],
+    "en": [
+      "pheasant's back mushroom",
+      "pheasant's back polypore"
+    ],
+    "es": [],
+    "et": [
+      "soomustorik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "bagolygomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "チャウチワタケ"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "żagiew łuskowata"
+    ],
+    "pt": [],
+    "ro": [
+      "buretele nucului",
+      "burete păstrăv",
+      "ciupercă păstrăv",
+      "nucari",
+      "urechea nucului",
+      "urechea ulmului"
+    ],
+    "ru": [
+      "трутовик пёстрый",
+      "пестрец",
+      "заячник",
+      "вязовик"
+    ],
+    "sk": [],
+    "sl": [
+      "luskati luknjičar",
+      "luskati satovničar"
+    ],
+    "sr": [
+      "шкрипац"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=163056",
+        "detail": "163056"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=163056",
+        "detail": "163056"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2547092",
+        "detail": "2547092"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Polyporus_squamosus"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q96934111"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Cerioporus_squamosus"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/polyporus-squamosus.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/polyporus_squamosus.html"
+      },
+      {
+        "group": "text",
+        "name": "nahuby.sk",
+        "href": "https://www.nahuby.sk/atlas-hub/Polyporus-squamosus/trudnik-supinaty/choros-supinaty/ID757"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Polyporus-squamosus/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Schuppiger_Stielporling",
+        "detail": "German"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fr.wikipedia.org/wiki/Polypore_écailleux",
+        "detail": "French"
+      }
+    ],
+    "ar": [
+      "https://ar.wikipedia.org/wiki/صوفان_حرشفي"
+    ],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Пъстърва_(гъба)"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Polyporus-squamosus/",
+      "https://cs.wikipedia.org/wiki/Choroš_šupinatý",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/7365370/vernacularNames",
+      "https://de.wikipedia.org/wiki/Schuppiger_Stielporling",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/7365370/vernacularNames"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Harilik_soomustorik",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Suomukääpä",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Polypore_écailleux",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "he": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Pisztricgomba",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "ja": [
+      "https://www.mycology-jp.org/_userdata/Katumoto-Wamei.xlsx",
+      "https://ja.wikipedia.org/wiki/アミヒラタケ"
+    ],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Žvynuotoji_skylėtbudė",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "lv": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Zadelzwam",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Żagwiak_łuskowaty",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Polyporus_squamosus"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Трутовик_чешуйчатый",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Polyporus-squamosus/trudnik-supinaty/choros-supinaty/ID757",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=163056",
+      "https://www.gbif.org/species/2547092"
+    ],
+    "sl": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Шкрипавац",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Fjällticka"
+    ],
+    "tr": [
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Трутовик_лускатий",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ],
+    "zh": [
+      "https://zh.wikipedia.org/wiki/寬鱗多孔菌",
+      "https://api.gbif.org/v1/species/2547092/vernacularNames"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كبير حولي على شكل رف، ينمو منفردًا أو في مجموعات متراكبة كالقرميد على الأشجار عريضة الأوراق الحية والميتة، حيث يكون طفيليًا ومحلِّلًا في آن واحد ويسبب عفنًا أبيض في خشب القلب. وهو شائع وواسع الانتشار في أوروبا وآسيا المعتدلة وأمريكا الشمالية، ولا سيما شرق جبال روكي، ويوجد أيضًا في أستراليا.",
+      "cap": "يبلغ عرض القبعة ١٠–٣٠ سم، وفي حالات استثنائية حتى ٦٠ سم، ويكون سمكها قرب موضع الاتصال عادةً ١–٤ سم. وهي مروحية أو كلوية أو نصف دائرية، مسطحة إلى محدبة قليلًا ومنخفضة نحو الساق، وقد تكون الأجسام الثمرية النابتة من جذور مدفونة قمعية الشكل. السطح الجاف قشدي شاحب إلى مغري أو أصفر قشي، ومغطى بحراشف كبيرة ملتصقة بنية إلى بنية مسودّة مرتبة في صفوف متحدة المركز. الحافة الرقيقة ملتفة إلى الداخل في البداية.",
+      "hymenium": "يبلغ طول الأنابيب ٥–١٠ مم، وحتى ١٥ مم في الأجسام الثمرية الكبيرة، وهي نازلة على الساق ولا تنفصل عن اللحم. المسام كبيرة ومضلّعة وغير منتظمة، عرضها نحو ١–٣ مم، وتشكّل سطحًا يشبه قرص العسل، أبيض في البداية ثم قشديًا إلى أصفر مغري شاحب، ولا يتغير لونه عند الضغط. الجهاز الخيطي ثنائي، ولا توجد كيسيات غشائية.",
+      "stipe": "الساق قصيرة وغليظة، طولها ٢–٨ سم وسمكها ١٫٥–٦ سم، وعادةً جانبية أو لامركزية ونادرًا ما تكون مركزية. وهي مصمتة وقاسية، مائلة إلى البياض أو قشدية في أعلاها حيث تشكّل المسام النازلة نقشًا شبكيًا، وقاعدتها مغطاة بزغب مخملي بني داكن إلى أسود ينتشر إلى الأعلى مع التقدم في العمر.",
+      "flesh": "اللحم أبيض، سمكه ١–٣ سم، ولا يتغير لونه عند القطع. وهو في الأجسام الثمرية الفتية عصيري وطري إلى حد ما، لكنه سرعان ما يصبح فلّينيًا وجلديًا، ولا سيما في الساق وقرب موضع الاتصال. الرائحة دقيقية قوية، كثيرًا ما تُشبَّه بالخيار، والطعم معتدل، دقيقي إلى جوزي قليلًا.",
+      "sporePrint": "أبيض. الأبواغ ١٠–١٦ × ٤–٦ ميكرومتر، أسطوانية إلى إهليلجية مستطيلة، ملساء، رقيقة الجدار، شفافة وغير أميلويدية.",
+      "habitat": "ينمو منفردًا أو في مجموعات متراكبة على جذوع الأشجار عريضة الأوراق الحية والميتة وأعقابها وجذوعها الساقطة وفروعها الغليظة، وكثيرًا ما يظهر عند الجروح وأحيانًا على ارتفاع عدة أمتار عن الأرض، ومن حين لآخر من جذور مدفونة. من عوائله الشائعة الدردار والقيقب ومنه القيقب الجبلي والمران والزان وكستناء الحصان والجوز والزيزفون والحور والصفصاف، وفي غرب أمريكا الشمالية ينمو أساسًا على الحور الرجراج الأمريكي. وهو شائع في الحدائق العامة والطرق المشجرة والبساتين وغابات السهول الفيضية. تظهر الأجسام الثمرية من مايو إلى أغسطس، وبأكبر وفرة في مايو ويونيو، وأحيانًا في أبريل أو في الخريف.",
+      "uses": "لا تؤكل إلا الأجسام الثمرية الفتية جدًا التي ما زال لحمها طريًا بما يكفي ليُقطع بسهولة، وأفضل جزء هو الحواف الخارجية الطرية للقبعات الفتية. تُقطَّع شرائح رقيقة، وتُفحص للتأكد من خلوها من اليرقات، وتُطهى جيدًا على نار هادئة، فتُقلى أو تُضاف إلى الحساء أو تُخلَّل بالخل أو تُجفف وتُطحن مسحوقًا للتتبيل. تُعد قيمتها الطهوية عادةً متواضعة، وقد تسبب لبعض الأشخاص الحساسين اضطرابًا في المعدة. أما الأجسام الثمرية الأكبر سنًا فقاسية فلّينية وسرعان ما تغزوها يرقات الحشرات، فلا تؤكل.",
+      "confusion": "Polyporus tuberaster أصغر حجمًا، وقبعته أكثر استدارة على ساق أقرب إلى المركز، وحراشفه داكنة عند أطرافها فقط، وحافته مهدبة؛ وينمو من جسم حجري مدفون أو على أغصان ساقطة ولا رائحة دقيقية له. وقد يكون لـ Fomitopsis betulina البالغ شكل مشابه، لكنه بني من الأعلى وأبيض من الأسفل، ولا ينمو إلا على أشجار البتولا.",
+      "notes": "بوصفه مسببًا لعفن خشب القلب في الأشجار الحية، فهو محلِّل مهم لخشب أشجار الشوارع والحدائق العامة والبساتين، ومنها الجوز، ويُتوقع أن يصبح أكثر تكرارًا على أشجار المران التي أضعفها مرض موت أفرع المران. يمكن أن تنمو الأجسام الثمرية بسرعة لافتة: فقد بلغ أحدها، سُجّل في اسكتلندا عام ١٨١٠، محيطًا قدره ٢٫٣ م ووزنًا قدره ١٥٫٥ كغ في أربعة أسابيع. وهي تتحلل في غضون أسابيع قليلة، وتتغذى عليها خنافس الفطر مثل Dacne quadrimaculata وTritoma humeralis ويرقات ذباب الفطر."
+    },
+    "bg": {
+      "description": "Голяма едногодишна конзолообразна гъба, която расте единично или на керемидообразни групи по живи и мъртви широколистни дървета, където е едновременно паразит и разградител и причинява бяло гниене на сърцевинната дървесина. Обикновена и широко разпространена в Европа, умерена Азия и Северна Америка, особено на изток от Скалистите планини, среща се и в Австралия.",
+      "cap": "Шапката е 10–30 cm в диаметър, по изключение до 60 cm, и при мястото на прикрепване обикновено е дебела 1–4 cm. Тя е ветрилообразна, бъбрековидна или полукръгла, плоска до леко изпъкнала и вдлъбната към пънчето; плодните тела, израстващи от заровени корени, могат да бъдат фуниевидни. Сухата повърхност е бледокремава до охрена или сламеножълта и покрита с едри, прилепнали, кафяви до черникавокафяви люспи, подредени в концентрични редове. Тънкият ръб отначало е подвит.",
+      "hymenium": "Тръбиците са дълги 5–10 mm, при големите плодни тела до 15 mm, низходящи по пънчето и не се отделят от месото. Порите са едри, ъгловати и неправилни, около 1–3 mm широки, и образуват пчелноклетъчна повърхност, отначало бяла, после кремава до бледоохреножълта, която не променя цвета си при натиск. Хифната система е димитична, химениални цистиди липсват.",
+      "stipe": "Пънчето е късо и набито, дълго 2–8 cm и дебело 1,5–6 cm, обикновено странично или ексцентрично и само рядко централно. То е плътно и жилаво, отгоре белезникаво до кремаво, където низходящите пори образуват мрежест рисунък, а основата му е покрита с кадифен, тъмнокафяв до черен мъх, който с възрастта се разпростира нагоре.",
+      "flesh": "Месото е бяло, дебело 1–3 cm и не променя цвета си при разрязване. При младите плодни тела е сочно и доста меко, но скоро става коркоподобно и кожесто, особено в пънчето и при мястото на прикрепване. Мирисът е силно брашнен, често сравняван с краставица, а вкусът е мек, брашнен до леко орехов.",
+      "sporePrint": "Бял. Спорите са 10–16 × 4–6 µm, цилиндрични до удължено елипсовидни, гладки, тънкостенни, хиалинни и неамилоидни.",
+      "habitat": "Расте единично или на керемидообразни групи по стволове, пънове, паднали стволове и дебели клони на живи и мъртви широколистни дървета, често при рани и понякога на няколко метра над земята, а от време на време и от заровени корени. Чести гостоприемници са брястът, кленът, включително белият клен, ясенът, букът, конският кестен, орехът, липата, тополата и върбата; в западната част на Северна Америка расте предимно по трепетликовидна топола. Обикновена е в паркове, алеи, градини, овощни градини и заливни гори. Плодните тела се появяват от май до август, най-обилно през май и юни, а понякога още през април или есента.",
+      "uses": "Ядат се само много млади плодни тела, чието месо е още толкова меко, че се реже лесно, а най-добрата част са нежните външни ръбове на младите шапки. Нарязват се на тънки резени, проверяват се дали не са червясали и се приготвят старателно на слаб огън; пържат се, слагат се в супи, мариноват се в оцет или се сушат и смилат на подправка на прах. Кулинарната им стойност обикновено се оценява като скромна, а у някои чувствителни хора причиняват стомашно неразположение. По-старите плодни тела са жилави, коркоподобни и скоро се нападат от ларви на насекоми, затова не се ядат.",
+      "confusion": "Polyporus tuberaster е по-дребна, с по-заоблена шапка върху по-централно пънче, люспи, тъмни само по върховете, и ресничест ръб; расте от заровен склероций или по паднали клони и няма брашнен мирис. Възрастна брезова пореста гъба (Fomitopsis betulina) може да има подобна форма, но е кафява отгоре и бяла отдолу и расте само по брези.",
+      "notes": "Като причинител на гниене на сърцевината на живи дървета тя е сериозен разградител на дървесината на улични, паркови и овощни дървета, включително ореха, и се очаква да става по-честа по ясени, отслабени от некрозата по ясена. Плодните тела могат да растат забележително бързо: едно, отбелязано в Шотландия през 1810 г., за четири седмици достига обиколка 2,3 m и тегло 15,5 kg. Те се разпадат за няколко седмици и с тях се хранят гъбни бръмбари като Dacne quadrimaculata и Tritoma humeralis, както и ларвите на гъбни комарчета."
+    },
+    "cs": {
+      "description": "Velká jednoletá houba konzolovitého tvaru, která roste jednotlivě nebo ve střechovitých skupinách na živých i odumřelých listnatých stromech, kde je parazitem i rozkladačem a způsobuje bílou hnilobu jádrového dřeva. Je hojná a rozšířená v Evropě, mírné Asii a Severní Americe, zejména východně od Skalistých hor, a vyskytuje se také v Austrálii.",
+      "cap": "Klobouk je 10–30 cm široký, výjimečně až 60 cm, a u přirůstání obvykle 1–4 cm tlustý. Je vějířovitý, ledvinitý nebo polokruhovitý, plochý až mírně klenutý a směrem ke třeni vtlačený; plodnice vyrůstající ze zahrabaných kořenů mohou být nálevkovité. Suchý povrch je bledě krémový až okrový nebo slámově žlutý a pokrývají ho velké přitisklé hnědé až černohnědé šupiny uspořádané v soustředných řadách. Tenký okraj je zprvu podvinutý.",
+      "hymenium": "Rourky jsou 5–10 mm dlouhé, u velkých plodnic až 15 mm, sbíhají na třeň a neoddělují se od dužniny. Póry jsou velké, hranaté a nepravidelné, asi 1–3 mm široké, a tvoří plástvovitý povrch, který je zprvu bílý, později krémový až bledě okrově žlutý a otlakem nemění barvu. Hyfový systém je dimitický a hymeniální cystidy chybějí.",
+      "stipe": "Třeň je krátký a zavalitý, 2–8 cm dlouhý a 1,5–6 cm tlustý, obvykle postranní nebo výstředný a jen zřídka centrální. Je plný a tuhý, nahoře bělavý až krémový, kde sbíhající póry tvoří síťkovanou kresbu, a jeho bázi pokrývá sametová tmavohnědá až černá plsť, která se s věkem šíří vzhůru.",
+      "flesh": "Dužnina je bílá, 1–3 cm tlustá a na řezu nemění barvu. U mladých plodnic je šťavnatá a poměrně měkká, ale brzy korkovatí a stává se kožovitou, zejména ve třeni a u přirůstání. Vůně je výrazně moučná, často přirovnávaná k okurce, a chuť je mírná, moučná až slabě oříšková.",
+      "sporePrint": "Bílý. Výtrusy měří 10–16 × 4–6 µm, jsou válcovité až protáhle elipsoidní, hladké, tenkostěnné, hyalinní a neamyloidní.",
+      "habitat": "Roste jednotlivě nebo ve střechovitých skupinách na kmenech, pařezech, ležících kmenech a silných větvích živých i odumřelých listnatých stromů, často v místech poranění a někdy i několik metrů nad zemí, příležitostně i ze zahrabaných kořenů. Častými hostiteli jsou jilm, javor včetně javoru klenu, jasan, buk, jírovec maďal, ořešák, lípa, topol a vrba; na západě Severní Ameriky roste hlavně na osice. Je hojná v parcích, alejích, zahradách, sadech a lužních lesích. Plodnice se objevují od května do srpna, nejhojněji v květnu a červnu, ojediněle již v dubnu nebo na podzim.",
+      "uses": "Jedí se jen velmi mladé plodnice, jejichž dužnina je ještě tak měkká, že se dá snadno krájet, a nejlepší částí jsou jemné vnější okraje mladých klobouků. Krájejí se na tenké plátky, kontrolují se, zda nejsou červivé, a důkladně se vaří na mírném ohni; smaží se, dávají se do polévek, nakládají do octa nebo se suší a melou na kořenící prášek. Jejich kuchyňská hodnota se obvykle hodnotí jako skromná a některým citlivým lidem působí žaludeční potíže. Starší plodnice jsou tuhé, korkovité a brzy je napadnou larvy hmyzu, proto se nejedí.",
+      "confusion": "Polyporus tuberaster je menší, má okrouhlejší klobouk na centrálnějším třeni, šupiny tmavé jen na špičkách a brvitý okraj; roste ze zahrabaného sklerocia nebo na spadlých větvích a nemá moučnou vůni. Dospělý březovník obecný (Fomitopsis betulina) může mít podobný tvar, ale shora je hnědý a zespodu bílý a roste jen na břízách.",
+      "notes": "Jako hniloba jádrového dřeva živých stromů je vážným původcem rozkladu dřeva stromů v ulicích, parcích a sadech včetně ořešáků a očekává se, že bude častější na jasanech oslabených odumíráním jasanu. Plodnice mohou růst pozoruhodně rychle: jedna zaznamenaná ve Skotsku v roce 1810 dosáhla za čtyři týdny obvodu 2,3 m a hmotnosti 15,5 kg. Během několika týdnů se rozkládají a živí se jimi houboví brouci, například Dacne quadrimaculata a Tritoma humeralis, a larvy houbových much."
+    },
+    "da": {
+      "description": "En stor, enårig hyldeformet svamp, der vokser enkeltvis eller i taglagte grupper på levende og døde løvtræer, hvor den både er parasit og nedbryder og forårsager hvidmuld i kerneveddet. Den er almindelig og vidt udbredt i Europa, det tempererede Asien og Nordamerika, især øst for Rocky Mountains, og findes også i Australien.",
+      "cap": "Hatten er 10–30 cm bred, undtagelsesvis op til 60 cm, og ved fæstet som regel 1–4 cm tyk. Den er vifteformet, nyreformet eller halvcirkelformet, flad til svagt hvælvet og nedsænket mod stokken; frugtlegemer, der vokser fra nedgravede rødder, kan være tragtformede. Den tørre overflade er blegt cremefarvet til okker eller strågul og dækket af store, tiltrykte, brune til sortbrune skæl i koncentriske rækker. Den tynde rand er først indbøjet.",
+      "hymenium": "Rørene er 5–10 mm lange, op til 15 mm hos store frugtlegemer, nedløbende på stokken og kan ikke skilles fra kødet. Porerne er store, kantede og uregelmæssige, omkring 1–3 mm vide, og danner en bikagelignende flade, der først er hvid, siden cremefarvet til blegt okkergul, og som ikke misfarves ved tryk. Hyfesystemet er dimitisk, og hymeniale cystider mangler.",
+      "stipe": "Stokken er kort og kraftig, 2–8 cm lang og 1,5–6 cm tyk, som regel sidestillet eller excentrisk og kun sjældent central. Den er massiv og sej, foroven hvidlig til cremefarvet, hvor de nedløbende porer danner et netmønster, og basis er dækket af fløjlsagtig, mørkebrun til sort filt, der breder sig opad med alderen.",
+      "flesh": "Kødet er hvidt, 1–3 cm tykt og skifter ikke farve i snit. Hos unge frugtlegemer er det saftigt og ret blødt, men det bliver snart korkagtigt og læderagtigt, især i stokken og ved fæstet. Lugten er stærkt melagtig, ofte sammenlignet med agurk, og smagen mild, melagtig til svagt nøddeagtig.",
+      "sporePrint": "Hvidt. Sporerne måler 10–16 × 4–6 µm og er cylindriske til langstrakt ellipsoide, glatte, tyndvæggede, hyaline og inamyloide.",
+      "habitat": "Den vokser enkeltvis eller i taglagte grupper på stammer, stubbe, liggende stammer og tykke grene af levende og døde løvtræer, ofte ved sår og undertiden flere meter over jorden, og af og til fra nedgravede rødder. Almindelige værter er elm, løn inklusive ahorn, ask, bøg, hestekastanje, valnød, lind, poppel og pil; i det vestlige Nordamerika vokser den især på amerikansk bævreasp. Den er almindelig i parker, alléer, haver, frugtplantager og flodskove. Frugtlegemerne viser sig fra maj til august, rigest i maj og juni, og en sjælden gang allerede i april eller om efteråret.",
+      "uses": "Kun meget unge frugtlegemer, hvis kød stadig er så blødt, at det let kan skæres, spises, og de møre yderkanter af unge hatte er den bedste del. De skæres i tynde skiver, kontrolleres for larver og tilberedes grundigt ved svag varme, og de steges, bruges i supper, syltes i eddike eller tørres og males til et krydderipulver. Deres madværdi vurderes som regel som beskeden, og nogle følsomme personer får maveproblemer af dem. Ældre frugtlegemer er seje, korkagtige og snart angrebet af insektlarver, og spises ikke.",
+      "confusion": "Polyporus tuberaster er mindre, med en rundere hat på en mere central stok, skæl der kun er mørke i spidsen, og en frynset rand; den vokser fra et nedgravet sklerotium eller på nedfaldne grene og mangler mellugten. En fuldvoksen birkeporesvamp (Fomitopsis betulina) kan have en lignende form, men den er brun foroven og hvid forneden og vokser kun på birk.",
+      "notes": "Som kernemuld i levende træer er den en betydelig vednedbryder i vej-, park- og frugttræer, herunder valnød, og den forventes at blive hyppigere på asketræer svækket af asketoptørre. Frugtlegemerne kan vokse bemærkelsesværdigt hurtigt: et, der blev registreret i Skotland i 1810, nåede på fire uger en omkreds på 2,3 m og en vægt på 15,5 kg. De nedbrydes inden for få uger og ædes af svampebiller som Dacne quadrimaculata og Tritoma humeralis og af larver af svampemyg."
+    },
+    "de": {
+      "description": "Ein großer, einjähriger Konsolenpilz, der einzeln oder in dachziegelartig übereinanderstehenden Gruppen an lebenden und toten Laubbäumen wächst, wo er zugleich Parasit und Zersetzer ist und eine Weißfäule des Kernholzes verursacht. Er ist in Europa, im gemäßigten Asien und in Nordamerika, besonders östlich der Rocky Mountains, häufig und weit verbreitet und kommt auch in Australien vor.",
+      "cap": "Der Hut ist 10–30 cm breit, ausnahmsweise bis 60 cm, und an der Ansatzstelle meist 1–4 cm dick. Er ist fächer-, nieren- oder halbkreisförmig, flach bis leicht gewölbt und zum Stiel hin vertieft; Fruchtkörper, die aus vergrabenen Wurzeln wachsen, können trichterförmig sein. Die trockene Oberfläche ist blass cremefarben bis ocker oder strohgelb und mit großen, anliegenden, braunen bis schwarzbraunen Schuppen in konzentrischen Reihen bedeckt. Der dünne Rand ist anfangs eingebogen.",
+      "hymenium": "Die Röhren sind 5–10 mm lang, bei großen Fruchtkörpern bis 15 mm, laufen am Stiel herab und lassen sich nicht vom Fleisch lösen. Die Poren sind groß, eckig und unregelmäßig, etwa 1–3 mm weit, und bilden eine wabenartige Fläche, die zuerst weiß, dann creme bis blass ockergelb ist und auf Druck nicht verfärbt. Das Hyphensystem ist dimitisch, Hymenialzystiden fehlen.",
+      "stipe": "Der Stiel ist kurz und gedrungen, 2–8 cm lang und 1,5–6 cm dick, meist seitlich oder exzentrisch und nur selten zentral. Er ist voll und zäh, oben weißlich bis creme, wo die herablaufenden Poren ein netzartiges Muster bilden, und seine Basis ist von einem samtigen, dunkelbraunen bis schwarzen Filz bedeckt, der sich mit dem Alter nach oben ausbreitet.",
+      "flesh": "Das Fleisch ist weiß, 1–3 cm dick und verfärbt sich im Schnitt nicht. Bei jungen Fruchtkörpern ist es saftig und ziemlich weich, wird aber bald korkig und lederartig, besonders im Stiel und an der Ansatzstelle. Der Geruch ist stark mehlartig, oft mit Gurke verglichen, der Geschmack mild, mehlig bis leicht nussartig.",
+      "sporePrint": "Weiß. Die Sporen messen 10–16 × 4–6 µm und sind zylindrisch bis lang elliptisch, glatt, dünnwandig, hyalin und inamyloid.",
+      "habitat": "Er wächst einzeln oder in dachziegelartigen Gruppen an Stämmen, Stümpfen, liegenden Stämmen und dicken Ästen lebender und toter Laubbäume, oft an Wunden und manchmal mehrere Meter über dem Boden, gelegentlich auch aus vergrabenen Wurzeln. Häufige Wirte sind Ulme, Ahorn einschließlich Berg-Ahorn, Esche, Buche, Rosskastanie, Walnuss, Linde, Pappel und Weide; im Westen Nordamerikas wächst er vor allem an Zitter-Pappeln. Er ist in Parks, Alleen, Gärten, Obstgärten und Auwäldern häufig. Die Fruchtkörper erscheinen von Mai bis August, am zahlreichsten im Mai und Juni, vereinzelt schon im April oder im Herbst.",
+      "uses": "Gegessen werden nur sehr junge Fruchtkörper, deren Fleisch noch so weich ist, dass es sich leicht schneiden lässt; die zarten äußeren Ränder junger Hüte sind der beste Teil. Sie werden in dünne Scheiben geschnitten, auf Maden geprüft und bei geringer Hitze gründlich gegart, und man brät sie, gibt sie in Suppen, legt sie in Essig ein oder trocknet und mahlt sie zu einem Würzpulver. Ihr Speisewert gilt meist als gering, und manche empfindliche Menschen bekommen davon Magenbeschwerden. Ältere Fruchtkörper sind zäh, korkig und bald von Insektenlarven befallen und werden nicht gegessen.",
+      "confusion": "Der Sklerotien-Stielporling (Polyporus tuberaster) ist kleiner, hat einen rundlicheren Hut mit zentralerem Stiel, Schuppen, die nur an den Spitzen dunkel sind, und einen bewimperten Rand; er wächst aus einem vergrabenen Sklerotium oder an abgefallenen Ästen und hat keinen Mehlgeruch. Ein ausgewachsener Birkenporling (Fomitopsis betulina) kann eine ähnliche Form haben, ist aber oben braun und unten weiß und wächst nur an Birken.",
+      "notes": "Als Kernfäule lebender Bäume ist er ein bedeutender Holzzersetzer an Straßen-, Park- und Obstbäumen, auch an Walnuss, und es wird erwartet, dass er an durch das Eschentriebsterben geschwächten Eschen häufiger wird. Die Fruchtkörper können bemerkenswert schnell wachsen: Einer, der 1810 in Schottland beobachtet wurde, erreichte in vier Wochen einen Umfang von 2,3 m und ein Gewicht von 15,5 kg. Sie zerfallen innerhalb weniger Wochen und werden von Pilzkäfern wie Dacne quadrimaculata und Tritoma humeralis sowie von den Larven von Pilzmücken gefressen."
+    },
+    "en": {
+      "description": "A large annual bracket fungus that grows singly or in overlapping tiers on living and dead broadleaved trees, where it is both a parasite and a decomposer that causes a white rot of the heartwood. It is common and widespread across Europe, temperate Asia and North America, especially east of the Rocky Mountains, and also occurs in Australia.",
+      "cap": "The cap is 10–30 cm across, exceptionally up to 60 cm, and usually 1–4 cm thick near the attachment. It is fan-shaped, kidney-shaped or semicircular, flat to slightly convex and depressed towards the stipe, and fruit bodies arising from buried roots can be funnel-shaped. The dry surface is pale cream to ochre or straw-yellow and is covered with large, flattened, brown to blackish-brown scales arranged in concentric rows. The thin margin is incurved at first.",
+      "hymenium": "The tubes are 5–10 mm long, up to 15 mm in large fruit bodies, run down onto the stipe and do not separate from the flesh. The pores are large, angular and irregular, about 1–3 mm across, forming a honeycomb-like surface that is white at first, then cream to pale ochre-yellow, and does not bruise. The hyphal system is dimitic, and there are no hymenial cystidia.",
+      "stipe": "The stipe is short and stout, 2–8 cm long and 1.5–6 cm thick, usually lateral or off-centre and only rarely central. It is solid and tough, whitish to cream above, where the decurrent pores form a net-like pattern, and its base is covered with velvety, dark brown to black down that spreads upwards with age.",
+      "flesh": "The flesh is white, 1–3 cm thick, and does not change colour when cut. It is juicy and fairly soft in young fruit bodies but soon becomes corky and leathery, especially in the stipe and near the attachment. The smell is strongly mealy, often likened to cucumber, and the taste is mild, mealy to slightly nutty.",
+      "sporePrint": "White. The spores are 10–16 × 4–6 µm, cylindrical to long-ellipsoid, smooth, thin-walled, hyaline and inamyloid.",
+      "habitat": "It grows alone or in tiered groups on trunks, stumps, logs and large branches of living and dead broadleaved trees, often at wounds and sometimes several metres above the ground, and occasionally from buried roots. Elm, maple and sycamore, ash, beech, horse chestnut, walnut, lime, poplar and willow are frequent hosts, and in western North America it grows mainly on aspen. It is common in parks, avenues, gardens, orchards and floodplain forests. Fruit bodies appear from May to August, most abundantly in May and June, with occasional fruitings as early as April or in autumn.",
+      "uses": "Only very young fruit bodies, whose flesh is still soft enough to slice easily, are eaten, and the tender outer edges of young caps are the best part. They are sliced thinly, checked for maggots and cooked thoroughly over low heat, and are fried, used in soups, pickled in vinegar, or dried and ground into a seasoning powder. Their culinary value is usually rated as modest, and some sensitive people get stomach upsets from them. Older fruit bodies are tough, corky and soon infested with insect larvae, and are not eaten.",
+      "confusion": "Polyporus tuberaster is smaller, with a rounder cap on a more central stipe, scales that are dark only at their tips and a fringed margin; it grows from a buried sclerotium or on fallen branches and lacks the mealy smell. A fully grown Fomitopsis betulina can have a similar shape, but it is brown on top and white underneath, and it grows only on birch.",
+      "notes": "As a heartwood rot of living trees, it is a serious decay agent in street, park and orchard trees, including walnut, and it is expected to become more frequent on ash trees weakened by ash dieback. Fruit bodies can grow remarkably fast: one recorded in Scotland in 1810 reached a circumference of 2.3 m and a weight of 15.5 kg in four weeks. They decay within a few weeks and are eaten by fungus beetles such as Dacne quadrimaculata and Tritoma humeralis and by the larvae of fungus flies."
+    },
+    "es": {
+      "description": "Un hongo grande, anual y en forma de repisa que crece solitario o en grupos imbricados sobre árboles planifolios vivos y muertos, donde es a la vez parásito y descomponedor y causa una pudrición blanca del duramen. Es común y está ampliamente distribuido por Europa, Asia templada y Norteamérica, sobre todo al este de las Montañas Rocosas, y también se encuentra en Australia.",
+      "cap": "El sombrero mide 10–30 cm de ancho, excepcionalmente hasta 60 cm, y suele tener 1–4 cm de grosor cerca de la inserción. Es flabeliforme, reniforme o semicircular, plano a ligeramente convexo y deprimido hacia el pie; los cuerpos fructíferos que nacen de raíces enterradas pueden ser infundibuliformes. La superficie seca es crema pálido a ocre o amarillo pajizo y está cubierta de grandes escamas aplicadas, de color marrón a marrón negruzco, dispuestas en filas concéntricas. El margen delgado es al principio involuto.",
+      "hymenium": "Los tubos miden 5–10 mm de largo, hasta 15 mm en ejemplares grandes, son decurrentes sobre el pie y no se separan de la carne. Los poros son grandes, angulosos e irregulares, de unos 1–3 mm de ancho, y forman una superficie alveolada como un panal, blanca al principio, luego crema a amarillo ocre pálido, que no cambia de color al presionarla. El sistema hifal es dimítico y no hay cistidios himeniales.",
+      "stipe": "El pie es corto y robusto, de 2–8 cm de largo y 1,5–6 cm de grosor, generalmente lateral o excéntrico y solo raramente central. Es macizo y tenaz, blanquecino a crema en la parte superior, donde los poros decurrentes forman un dibujo reticulado, y su base está cubierta de un tomento aterciopelado, marrón oscuro a negro, que se extiende hacia arriba con la edad.",
+      "flesh": "La carne es blanca, de 1–3 cm de grosor, y no cambia de color al cortarla. En los ejemplares jóvenes es jugosa y bastante blanda, pero pronto se vuelve suberosa y coriácea, sobre todo en el pie y cerca de la inserción. El olor es fuertemente harinoso, a menudo comparado con el pepino, y el sabor suave, harinoso a ligeramente a nuez.",
+      "sporePrint": "Blanca. Las esporas miden 10–16 × 4–6 µm y son cilíndricas a alargado-elipsoidales, lisas, de pared delgada, hialinas y no amiloides.",
+      "habitat": "Crece solitario o en grupos imbricados sobre troncos, tocones, troncos caídos y ramas gruesas de árboles planifolios vivos y muertos, a menudo en heridas y a veces a varios metros del suelo, y ocasionalmente a partir de raíces enterradas. Hospedantes frecuentes son el olmo, el arce, incluido el arce blanco, el fresno, el haya, el castaño de Indias, el nogal, el tilo, el álamo y el sauce; en el oeste de Norteamérica crece sobre todo en el álamo temblón americano. Es común en parques, avenidas, jardines, huertos frutales y bosques de ribera. Los cuerpos fructíferos aparecen de mayo a agosto, con más abundancia en mayo y junio, y ocasionalmente ya en abril o en otoño.",
+      "uses": "Solo se comen los ejemplares muy jóvenes, cuya carne es todavía lo bastante blanda para cortarse con facilidad, y los bordes externos tiernos de los sombreros jóvenes son la mejor parte. Se cortan en láminas finas, se revisa que no tengan gusanos y se cocinan bien a fuego lento; se fríen, se añaden a sopas, se encurten en vinagre o se secan y muelen como polvo condimentario. Su valor culinario se considera por lo general modesto, y a algunas personas sensibles les causan molestias de estómago. Los ejemplares viejos son duros, suberosos y pronto quedan infestados por larvas de insectos, por lo que no se comen.",
+      "confusion": "Polyporus tuberaster es más pequeño, con un sombrero más redondeado sobre un pie más central, escamas oscuras solo en la punta y un margen ciliado; nace de un esclerocio enterrado o sobre ramas caídas y carece del olor harinoso. Un yesquero del abedul (Fomitopsis betulina) adulto puede tener una forma parecida, pero es marrón por arriba y blanco por debajo y crece solo sobre abedules.",
+      "notes": "Como pudrición del duramen de árboles vivos, es un importante agente de descomposición de la madera en árboles de calles, parques y frutales, incluido el nogal, y se espera que sea más frecuente en fresnos debilitados por la seca del fresno. Los cuerpos fructíferos pueden crecer con notable rapidez: uno registrado en Escocia en 1810 alcanzó en cuatro semanas una circunferencia de 2,3 m y un peso de 15,5 kg. Se descomponen en pocas semanas y sirven de alimento a escarabajos micófagos como Dacne quadrimaculata y Tritoma humeralis y a las larvas de moscas de los hongos."
+    },
+    "et": {
+      "description": "Suur üheaastane riiulikujuline seen, mis kasvab üksikult või katusekivitaoliste rühmadena elusatel ja surnud lehtpuudel, kus ta on nii parasiit kui ka lagundaja ning põhjustab südapuidu valgemädanikku. Ta on tavaline ja laialt levinud Euroopas, parasvöötme Aasias ja Põhja-Ameerikas, eriti Kaljumäestikust ida pool, ning esineb ka Austraalias.",
+      "cap": "Kübar on 10–30 cm lai, erandjuhul kuni 60 cm, ja kinnituskoha lähedal tavaliselt 1–4 cm paks. See on lehvikukujuline, neerjas või poolringikujuline, lame kuni veidi kumer ja jala poole lohkus; maetud juurtest kasvavad viljakehad võivad olla lehtrikujulised. Kuiv pind on kahvatu kreemikas kuni ookerjas või õlgkollane ning kaetud suurte, liibuvate, pruunide kuni mustjaspruunide soomustega kontsentrilistes ridades. Õhuke serv on algul sissekeerdunud.",
+      "hymenium": "Torukesed on 5–10 mm pikad, suurtel viljakehadel kuni 15 mm, jalale alanevad ega eraldu viljalihast. Poorid on suured, nurgelised ja ebakorrapärased, umbes 1–3 mm laiad, ning moodustavad kärjetaolise pinna, mis on algul valge, hiljem kreemikas kuni kahvatu ookerkollane ega muuda vajutamisel värvi. Hüüfisüsteem on dimiitiline ja hümeniaalsed tsüstiidid puuduvad.",
+      "stipe": "Jalg on lühike ja jässakas, 2–8 cm pikk ja 1,5–6 cm jäme, tavaliselt külgmine või ekstsentriline ja ainult harva tsentraalne. See on täidlane ja sitke, ülaosas valkjas kuni kreemikas, kus alanevad poorid moodustavad võrkja mustri, ning selle alus on kaetud sametise tumepruuni kuni musta viltja kattega, mis vanusega ülespoole laieneb.",
+      "flesh": "Viljaliha on valge, 1–3 cm paks ega muuda lõikamisel värvi. Noortel viljakehadel on see mahlane ja üsna pehme, kuid muutub peagi korgiliseks ja nahkjaks, eriti jalas ja kinnituskoha juures. Lõhn on tugevalt jahujas, sageli võrreldud kurgiga, ja maitse mahe, jahujas kuni kergelt pähklijas.",
+      "sporePrint": "Valge. Eosed on 10–16 × 4–6 µm, silindrilised kuni pikliku ellipsoidsed, siledad, õhukeseseinalised, hüaliinsed ja amüloidsuseta.",
+      "habitat": "Kasvab üksikult või katusekivitaoliste rühmadena elusate ja surnud lehtpuude tüvedel, kändudel, lamapuidul ja jämedatel okstel, sageli vigastuste kohal ja mõnikord mitme meetri kõrgusel, aeg-ajalt ka maetud juurtest. Sagedased peremeespuud on jalakas, vaher, sealhulgas mägivaher, saar, pöök, hobukastan, kreeka pähklipuu, pärn, pappel ja paju; Põhja-Ameerika lääneosas kasvab peamiselt haabpapli peal. Tavaline parkides, alleedel, aedades, viljapuuaedades ja lammimetsades. Viljakehad ilmuvad maist augustini, kõige rohkem mais ja juunis, ning üksikjuhtudel juba aprillis või sügisel.",
+      "uses": "Süüakse ainult väga noori viljakehi, mille viljaliha on veel nii pehme, et seda on kerge lõigata, ning noorte kübarate õrnad välisservad on kõige parem osa. Need lõigatakse õhukesteks viiludeks, kontrollitakse vaglade suhtes ja küpsetatakse põhjalikult madalal kuumusel; neid praetakse, kasutatakse suppides, marineeritakse äädikas või kuivatatakse ja jahvatatakse maitseainepulbriks. Nende toiduväärtust peetakse tavaliselt tagasihoidlikuks ja mõnel tundlikul inimesel tekitavad need maovaevusi. Vanemad viljakehad on sitked, korgilised ja peagi putukavastsetest asustatud ning neid ei sööda.",
+      "confusion": "Polyporus tuberaster on väiksem, ümarama kübaraga tsentraalsemal jalal, soomustega, mis on tumedad ainult tipust, ja ripsmelise servaga; ta kasvab maetud sklerootsiumist või mahakukkunud okstel ning tal puudub jahujas lõhn. Täiskasvanud kasekäsn (Fomitopsis betulina) võib olla sarnase kujuga, kuid ta on pealt pruun ja alt valge ning kasvab ainult kaskedel.",
+      "notes": "Elusate puude südamemädaniku tekitajana on ta oluline puidulagundaja tänava-, pargi- ja viljapuudel, sealhulgas kreeka pähklipuul, ning eeldatakse, et ta muutub sagedasemaks saare-võrsesurmast nõrgestatud saartel. Viljakehad võivad kasvada märkimisväärselt kiiresti: üks 1810. aastal Šotimaal registreeritud viljakeha saavutas nelja nädalaga 2,3 m ümbermõõdu ja 15,5 kg kaalu. Need lagunevad mõne nädalaga ning neid söövad seenemardikad, nagu Dacne quadrimaculata ja Tritoma humeralis, ning seenesääskede vastsed."
+    },
+    "fa": {
+      "description": "قارچی بزرگ، یک‌ساله و طاقچه‌ای شکل که به‌تنهایی یا در گروه‌های روی‌هم‌چیده مانند سفال بام بر درختان پهن‌برگ زنده و مرده می‌روید و در آنجا هم انگل است و هم تجزیه‌کننده و پوسیدگی سفید چوب درون را پدید می‌آورد. در اروپا، آسیای معتدل و آمریکای شمالی، به‌ویژه در شرق کوه‌های راکی، رایج و پراکنده است و در استرالیا نیز یافت می‌شود.",
+      "cap": "قطر کلاهک ۱۰–۳۰ سانتی‌متر و به‌طور استثنایی تا ۶۰ سانتی‌متر است و ضخامت آن نزدیک محل اتصال معمولاً ۱–۴ سانتی‌متر است. بادبزنی، کلیوی یا نیم‌دایره‌ای، صاف تا اندکی برآمده و به سوی پایه فرورفته است و اندام‌های بارده‌ای که از ریشه‌های مدفون می‌رویند ممکن است قیفی باشند. سطح خشک کرم کم‌رنگ تا اُخرایی یا زرد کاهی است و با فلس‌های بزرگ، چسبیده، قهوه‌ای تا قهوه‌ای مایل به سیاه پوشیده شده که در ردیف‌های هم‌مرکز چیده شده‌اند. لبهٔ نازک در آغاز به داخل خمیده است.",
+      "hymenium": "طول لوله‌ها ۵–۱۰ میلی‌متر و در اندام‌های بارده بزرگ تا ۱۵ میلی‌متر است؛ روی پایه پایین می‌روند و از گوشت جدا نمی‌شوند. منافذ بزرگ، زاویه‌دار و نامنظم و به پهنای حدود ۱–۳ میلی‌متر هستند و سطحی لانه‌زنبوری می‌سازند که نخست سفید، سپس کرم تا زرد اُخرایی کم‌رنگ است و با فشار تغییر رنگ نمی‌دهد. دستگاه ریسه‌ای دوریسه‌ای است و سیستیدیوم‌های هیمنیومی وجود ندارند.",
+      "stipe": "پایه کوتاه و تنومند، به طول ۲–۸ سانتی‌متر و ضخامت ۱٫۵–۶ سانتی‌متر است و معمولاً کناری یا خارج از مرکز و تنها به‌ندرت مرکزی است. توپر و سخت است، در بالا سفیدفام تا کرم، جایی که منافذ پایین‌رونده نقشی توری می‌سازند، و قاعده‌اش با کُرکی مخملی قهوه‌ای تیره تا سیاه پوشیده است که با افزایش سن به بالا گسترش می‌یابد.",
+      "flesh": "گوشت سفید، به ضخامت ۱–۳ سانتی‌متر است و در برش تغییر رنگ نمی‌دهد. در اندام‌های بارده جوان آبدار و نسبتاً نرم است، اما به‌زودی چوب‌پنبه‌ای و چرمی می‌شود، به‌ویژه در پایه و نزدیک محل اتصال. بو به‌شدت آردی است و اغلب به خیار تشبیه می‌شود و مزه ملایم، آردی تا اندکی فندقی است.",
+      "sporePrint": "سفید. هاگ‌ها ۱۰–۱۶ × ۴–۶ میکرومتر، استوانه‌ای تا بیضوی کشیده، صاف، نازک‌دیواره، شفاف و غیرآمیلوئید هستند.",
+      "habitat": "به‌تنهایی یا در گروه‌های روی‌هم‌چیده بر تنه‌ها، کنده‌ها، تنه‌های افتاده و شاخه‌های ستبر درختان پهن‌برگ زنده و مرده می‌روید، اغلب در محل زخم‌ها و گاهی چند متر بالاتر از زمین، و گاه نیز از ریشه‌های مدفون. میزبان‌های رایج آن نارون، افرا از جمله افرای کوهی، زبان‌گنجشک، راش، شاه‌بلوط هندی، گردو، نمدار، صنوبر و بید هستند و در غرب آمریکای شمالی بیشتر بر صنوبر لرزان آمریکایی می‌روید. در پارک‌ها، خیابان‌های درخت‌کاری‌شده، باغ‌ها، باغ‌های میوه و جنگل‌های سیلابی رایج است. اندام‌های بارده از مه تا اوت پدیدار می‌شوند و بیشترین فراوانی آنها در مه و ژوئن است و گاه زودتر در آوریل یا در پاییز نیز دیده می‌شوند.",
+      "uses": "تنها اندام‌های بارده بسیار جوان، که گوشتشان هنوز آن‌قدر نرم است که به‌آسانی بریده شود، خورده می‌شوند و لبه‌های بیرونی نرم کلاهک‌های جوان بهترین بخش است. آنها را نازک برش می‌دهند، از نظر وجود لارو وارسی می‌کنند و روی حرارت ملایم کاملاً می‌پزند؛ سرخ می‌کنند، در سوپ به کار می‌برند، در سرکه ترشی می‌اندازند یا خشک و آسیاب می‌کنند تا پودر چاشنی به دست آید. ارزش خوراکی آن معمولاً متوسط ارزیابی می‌شود و برخی افراد حساس پس از خوردن آن دچار ناراحتی معده می‌شوند. اندام‌های بارده مسن‌تر سخت و چوب‌پنبه‌ای‌اند و به‌زودی لارو حشرات به آنها هجوم می‌آورد، از این رو خورده نمی‌شوند.",
+      "confusion": "Polyporus tuberaster کوچک‌تر است، کلاهکی گردتر بر پایه‌ای مرکزی‌تر، فلس‌هایی که تنها در نوک تیره‌اند و لبه‌ای مژه‌دار دارد؛ از یک سختینهٔ مدفون یا بر شاخه‌های افتاده می‌روید و بوی آردی ندارد. Fomitopsis betulina بالغ ممکن است شکلی مشابه داشته باشد، اما از بالا قهوه‌ای و از زیر سفید است و تنها بر درختان توس می‌روید.",
+      "notes": "این قارچ به‌عنوان عامل پوسیدگی چوب درون درختان زنده، تجزیه‌کنندهٔ مهم چوب درختان خیابانی، پارکی و باغی، از جمله گردو، است و انتظار می‌رود بر درختان زبان‌گنجشکی که بر اثر بیماری سرخشکیدگی زبان‌گنجشک ضعیف شده‌اند فراوان‌تر شود. اندام‌های بارده می‌توانند به‌طرز چشمگیری سریع رشد کنند: یکی که در سال ۱۸۱۰ در اسکاتلند ثبت شد، در چهار هفته به محیط ۲٫۳ متر و وزن ۱۵٫۵ کیلوگرم رسید. آنها در چند هفته تجزیه می‌شوند و سوسک‌های قارچ‌خوار مانند Dacne quadrimaculata و Tritoma humeralis و لارو مگس‌های قارچ از آنها تغذیه می‌کنند."
+    },
+    "fi": {
+      "description": "Suuri, yksivuotinen kääpämäinen sieni, joka kasvaa yksittäin tai kattotiilimäisinä ryhminä elävillä ja kuolleilla lehtipuilla, joilla se on sekä loinen että lahottaja ja aiheuttaa sydänpuun valkolahoa. Se on yleinen ja laajalle levinnyt Euroopassa, lauhkeassa Aasiassa ja Pohjois-Amerikassa, erityisesti Kalliovuorten itäpuolella, ja sitä tavataan myös Australiassa.",
+      "cap": "Lakki on 10–30 cm leveä, poikkeuksellisesti jopa 60 cm, ja kiinnityskohdan lähellä tavallisesti 1–4 cm paksu. Se on viuhkamainen, munuaismainen tai puoliympyränmuotoinen, tasainen tai hieman kupera ja jalkaa kohti painunut; haudatuista juurista kasvavat itiöemät voivat olla suppilomaisia. Kuiva pinta on vaalean kermanvärinen tai okra tai oljenkeltainen, ja sitä peittävät suuret, painautuneet, ruskeat tai mustanruskeat suomut samankeskisinä riveinä. Ohut reuna on aluksi sisäänkääntynyt.",
+      "hymenium": "Pillit ovat 5–10 mm pitkiä, suurissa itiöemissä jopa 15 mm, laskeutuvat jalalle eivätkä irtoa maltosta. Huokoset ovat suuria, kulmikkaita ja epäsäännöllisiä, noin 1–3 mm leveitä, ja muodostavat hunajakennomaisen pinnan, joka on aluksi valkoinen, myöhemmin kermanvärinen tai vaalean okrankeltainen eikä tummu painettaessa. Rihmastojärjestelmä on dimiittinen, eikä hymeniaalisia kystidejä ole.",
+      "stipe": "Jalka on lyhyt ja tanakka, 2–8 cm pitkä ja 1,5–6 cm paksu, tavallisesti sivuttainen tai epäkeskinen ja vain harvoin keskeinen. Se on umpinainen ja sitkeä, yläosastaan valkeahko tai kermanvärinen, missä laskeutuvat huokoset muodostavat verkkomaisen kuvion, ja sen tyveä peittää samettinen, tummanruskea tai musta huopa, joka levittäytyy iän myötä ylöspäin.",
+      "flesh": "Malto on valkoinen, 1–3 cm paksu eikä muuta väriään leikattaessa. Nuorissa itiöemissä se on mehukas ja melko pehmeä, mutta muuttuu pian korkkimaiseksi ja nahkeaksi, etenkin jalassa ja kiinnityskohdassa. Haju on voimakkaan jauhomainen, usein kurkkuun verrattu, ja maku mieto, jauhomainen tai hieman pähkinäinen.",
+      "sporePrint": "Valkoinen. Itiöt ovat 10–16 × 4–6 µm, sylinterimäisiä tai pitkänomaisen ellipsoidisia, sileitä, ohutseinäisiä, hyaliineja ja inamyloideja.",
+      "habitat": "Se kasvaa yksittäin tai kattotiilimäisinä ryhminä elävien ja kuolleiden lehtipuiden rungoilla, kannoilla, maapuilla ja paksuilla oksilla, usein vaurioiden kohdalla ja joskus useiden metrien korkeudella, ja toisinaan haudatuista juurista. Yleisiä isäntiä ovat jalava, vaahterat kuten vuorivaahtera, saarni, pyökki, hevoskastanja, saksanpähkinä, lehmus, poppeli ja paju; Pohjois-Amerikan länsiosissa se kasvaa pääasiassa amerikanhaavalla. Se on yleinen puistoissa, puistokujilla, puutarhoissa, hedelmätarhoissa ja tulvametsissä. Itiöemiä on toukokuusta elokuuhun, runsaimmin touko- ja kesäkuussa, ja satunnaisesti jo huhtikuussa tai syksyllä.",
+      "uses": "Vain hyvin nuoria itiöemiä, joiden malto on vielä niin pehmeää, että se leikkautuu helposti, syödään, ja nuorten lakkien mureat ulkoreunat ovat parasta osaa. Ne leikataan ohuiksi viipaleiksi, tarkistetaan toukkien varalta ja kypsennetään huolellisesti miedolla lämmöllä, ja niitä paistetaan, käytetään keitoissa, säilötään etikkaan tai kuivataan ja jauhetaan maustejauheeksi. Niiden ruoka-arvoa pidetään yleensä vaatimattomana, ja jotkut herkät ihmiset saavat niistä vatsavaivoja. Vanhemmat itiöemät ovat sitkeitä, korkkimaisia ja pian hyönteistoukkien vaivaamia, eikä niitä syödä.",
+      "confusion": "Polyporus tuberaster on pienempi, ja sillä on pyöreämpi lakki keskeisemmällä jalalla, vain kärjistään tummat suomut ja ripsireunainen laita; se kasvaa haudatusta sklerootiosta tai pudonneilla oksilla eikä sillä ole jauhomaista hajua. Täysikasvuinen pökkelökääpä (Fomitopsis betulina) voi olla muodoltaan samankaltainen, mutta se on päältä ruskea ja alta valkoinen ja kasvaa vain koivuilla.",
+      "notes": "Elävien puiden sydänpuun lahottajana se on merkittävä katu-, puisto- ja hedelmäpuiden lahottaja, myös saksanpähkinän, ja sen odotetaan yleistyvän saarnen versosurman heikentämillä saarnilla. Itiöemät voivat kasvaa huomattavan nopeasti: eräs Skotlannissa vuonna 1810 havaittu itiöemä saavutti neljässä viikossa 2,3 m:n ympärysmitan ja 15,5 kg:n painon. Ne hajoavat muutamassa viikossa, ja niitä syövät sienikuoriaiset, kuten Dacne quadrimaculata ja Tritoma humeralis, sekä sienisääskien toukat."
+    },
+    "fr": {
+      "description": "Un grand champignon annuel en forme de console qui pousse isolé ou en groupes étagés sur les feuillus vivants et morts, où il est à la fois parasite et décomposeur et provoque une pourriture blanche du bois de cœur. Il est commun et largement répandu en Europe, en Asie tempérée et en Amérique du Nord, surtout à l'est des montagnes Rocheuses, et se rencontre aussi en Australie.",
+      "cap": "Le chapeau mesure 10–30 cm de large, exceptionnellement jusqu'à 60 cm, et généralement 1–4 cm d'épaisseur près du point d'attache. Il est en éventail, réniforme ou semi-circulaire, plat à légèrement convexe et déprimé vers le pied; les carpophores issus de racines enterrées peuvent être en entonnoir. La surface sèche est crème pâle à ocre ou jaune paille et couverte de grandes squames apprimées, brunes à brun noirâtre, disposées en rangées concentriques. La marge mince est d'abord enroulée.",
+      "hymenium": "Les tubes mesurent 5–10 mm de long, jusqu'à 15 mm chez les grands carpophores, descendent sur le pied et ne se séparent pas de la chair. Les pores sont grands, anguleux et irréguliers, d'environ 1–3 mm de large, et forment une surface alvéolée en nid d'abeille, d'abord blanche, puis crème à jaune ocre pâle, qui ne se tache pas au toucher. Le système hyphal est dimitique et il n'y a pas de cystides hyméniales.",
+      "stipe": "Le pied est court et trapu, long de 2–8 cm et épais de 1,5–6 cm, généralement latéral ou excentré et seulement rarement central. Il est plein et coriace, blanchâtre à crème en haut, où les pores décurrents dessinent un réseau, et sa base est couverte d'un duvet velouté brun foncé à noir qui s'étend vers le haut avec l'âge.",
+      "flesh": "La chair est blanche, épaisse de 1–3 cm, et ne change pas de couleur à la coupe. Elle est juteuse et assez tendre chez les jeunes carpophores, mais devient vite subéreuse et coriace, surtout dans le pied et près du point d'attache. L'odeur est fortement farineuse, souvent comparée au concombre, et la saveur douce, farineuse à légèrement de noisette.",
+      "sporePrint": "Blanche. Les spores mesurent 10–16 × 4–6 µm et sont cylindriques à longuement ellipsoïdes, lisses, à paroi mince, hyalines et non amyloïdes.",
+      "habitat": "Il pousse isolé ou en groupes étagés sur les troncs, souches, troncs couchés et grosses branches de feuillus vivants et morts, souvent au niveau des blessures et parfois à plusieurs mètres du sol, et occasionnellement à partir de racines enterrées. Les hôtes fréquents sont l'orme, l'érable dont l'érable sycomore, le frêne, le hêtre, le marronnier d'Inde, le noyer, le tilleul, le peuplier et le saule; dans l'ouest de l'Amérique du Nord, il pousse surtout sur le peuplier faux-tremble. Il est commun dans les parcs, les avenues, les jardins, les vergers et les forêts alluviales. Les carpophores apparaissent de mai à août, surtout en mai et juin, avec des poussées occasionnelles dès avril ou en automne.",
+      "uses": "Seuls les très jeunes carpophores, dont la chair est encore assez tendre pour se trancher facilement, sont consommés, et les bords externes tendres des jeunes chapeaux en sont la meilleure partie. On les coupe en fines tranches, on vérifie qu'ils ne sont pas véreux et on les cuit soigneusement à feu doux; on les fait frire, on les met dans des soupes, on les conserve au vinaigre, ou on les sèche et les réduit en une poudre d'assaisonnement. Leur valeur culinaire est généralement jugée modeste, et certaines personnes sensibles en ont des troubles digestifs. Les carpophores âgés sont durs, subéreux et vite envahis par des larves d'insectes, et ne se mangent pas.",
+      "confusion": "Polyporus tuberaster est plus petit, avec un chapeau plus arrondi sur un pied plus central, des squames sombres seulement à leur pointe et une marge ciliée; il naît d'un sclérote enterré ou pousse sur des branches tombées et n'a pas l'odeur farineuse. Un polypore du bouleau (Fomitopsis betulina) adulte peut avoir une forme semblable, mais il est brun dessus et blanc dessous et ne pousse que sur les bouleaux.",
+      "notes": "En tant que pourriture du bois de cœur des arbres vivants, c'est un agent de décomposition important des arbres d'alignement, de parcs et de vergers, y compris le noyer, et on s'attend à ce qu'il devienne plus fréquent sur les frênes affaiblis par la chalarose. Les carpophores peuvent croître remarquablement vite: l'un d'eux, observé en Écosse en 1810, a atteint en quatre semaines une circonférence de 2,3 m et un poids de 15,5 kg. Ils se décomposent en quelques semaines et sont consommés par des coléoptères fongivores comme Dacne quadrimaculata et Tritoma humeralis, ainsi que par les larves de mouches des champignons."
+    },
+    "he": {
+      "description": "פטרייה גדולה, חד־שנתית ודמוית מדף, הגדלה בודדת או בקבוצות מדורגות כרעפים על עצים רחבי־עלים חיים ומתים, ושם היא גם טפיל וגם מפרקת וגורמת לריקבון לבן של עץ הלב. היא נפוצה ומופצת ברחבי אירופה, אסיה הממוזגת וצפון אמריקה, בייחוד ממזרח להרי הרוקי, ומצויה גם באוסטרליה.",
+      "cap": "הכובע ברוחב 10–30 ס\"מ, ובמקרים חריגים עד 60 ס\"מ, ועוביו ליד נקודת האחיזה בדרך כלל 1–4 ס\"מ. הוא דמוי מניפה, כליה או חצי עיגול, שטוח עד קמור מעט ושקוע לעבר הרגל; גופי פרי הצומחים משורשים קבורים עשויים להיות משפכיים. המשטח היבש בצבע שמנת חיוור עד אוקר או צהוב־קש, ומכוסה קשקשים גדולים, צמודים, חומים עד חומים־שחרחרים, המסודרים בשורות מעגליות. השוליים הדקים מגולגלים פנימה בתחילה.",
+      "hymenium": "הצינוריות באורך 5–10 מ\"מ, ובגופי פרי גדולים עד 15 מ\"מ, יורדות על הרגל ואינן נפרדות מהבשר. הנקבוביות גדולות, זוויתיות ולא סדירות, ברוחב 1–3 מ\"מ בקירוב, ויוצרות משטח דמוי חלת דבש, לבן בתחילה ואחר כך שמנת עד צהוב־אוקר חיוור, שאינו משנה את צבעו בלחיצה. מערכת התפטירים דימיטית, ואין ציסטידות הימניאליות.",
+      "stipe": "הרגל קצרה ועבה, באורך 2–8 ס\"מ ובעובי 1.5–6 ס\"מ, בדרך כלל צדית או אקסצנטרית ורק לעיתים נדירות מרכזית. היא מלאה וקשוחה, לבנבנה עד שמנת בחלקה העליון, שם הנקבוביות היורדות יוצרות דגם רשתי, ובסיסה מכוסה פלומה קטיפתית בצבע חום כהה עד שחור, המתפשטת כלפי מעלה עם הגיל.",
+      "flesh": "הבשר לבן, בעובי 1–3 ס\"מ, ואינו משנה את צבעו בחיתוך. בגופי פרי צעירים הוא עסיסי ורך למדי, אך בקרוב הופך שעמי ועורי, בייחוד ברגל וליד נקודת האחיזה. הריח קמחי חזק, ומשווים אותו לא פעם למלפפון, והטעם עדין, קמחי עד אגוזי מעט.",
+      "sporePrint": "לבנה. הנבגים בגודל 10–16 × 4–6 מיקרומטר, גליליים עד אליפטיים מוארכים, חלקים, דקי דופן, שקופים ואינם עמילואידיים.",
+      "habitat": "גדלה בודדת או בקבוצות מדורגות על גזעים, גדמים, גזעים שרועים וענפים עבים של עצים רחבי־עלים חיים ומתים, לעיתים קרובות בפצעים ולפעמים כמה מטרים מעל הקרקע, ומדי פעם משורשים קבורים. פונדקאים נפוצים הם בוקיצה, אדר ובכלל זה אדר מדומה, מילה, אשור, ערמון הסוסים, אגוז המלך, טיליה, צפצפה וערבה; במערב צפון אמריקה היא גדלה בעיקר על צפצפה רועדת אמריקנית. היא נפוצה בפארקים, בשדרות, בגינות, במטעים וביערות גדות. גופי הפרי מופיעים ממאי עד אוגוסט, בשפע הרב ביותר במאי וביוני, ולעיתים כבר באפריל או בסתיו.",
+      "uses": "אוכלים רק גופי פרי צעירים מאוד, שבשרם עדיין רך דיו כדי להיחתך בקלות, והשוליים החיצוניים הרכים של כובעים צעירים הם החלק הטוב ביותר. פורסים אותם לפרוסות דקות, בודקים שאין בהם רימות ומבשלים אותם היטב על אש קטנה; מטגנים אותם, מוסיפים למרקים, כובשים בחומץ או מייבשים וטוחנים לאבקת תיבול. ערכם הקולינרי נחשב בדרך כלל צנוע, ואצל אנשים רגישים אחדים הם גורמים לקלקול קיבה. גופי פרי מבוגרים קשוחים, שעמיים ונגועים במהרה בזחלי חרקים, ואין אוכלים אותם.",
+      "confusion": "Polyporus tuberaster קטנה יותר, עם כובע עגול יותר על רגל מרכזית יותר, קשקשים כהים רק בקצותיהם ושוליים מצוייצים; היא צומחת מסקלרוציום קבור או על ענפים שנשרו, וחסר לה הריח הקמחי. Fomitopsis betulina בוגרת עשויה להיות בעלת צורה דומה, אך היא חומה מלמעלה ולבנה מלמטה וגדלה רק על ליבנה.",
+      "notes": "כגורם לריקבון עץ הלב בעצים חיים, היא מפרקת עץ משמעותית בעצי רחוב, פארק ומטע, ובהם אגוז המלך, וצפוי שתהיה שכיחה יותר על עצי מילה שנחלשו ממחלת התייבשות המילה. גופי הפרי יכולים לגדול במהירות מרשימה: אחד שתועד בסקוטלנד בשנת 1810 הגיע בתוך ארבעה שבועות להיקף של 2.3 מ' ולמשקל של 15.5 ק\"ג. הם מתפרקים בתוך שבועות ספורים, ונאכלים בידי חיפושיות פטריות כמו Dacne quadrimaculata ו־Tritoma humeralis ובידי זחלים של זבובי פטריות."
+    },
+    "hi": {
+      "description": "एक बड़ा, एकवर्षीय, ताक जैसा कवक जो जीवित और मृत चौड़ी पत्ती वाले पेड़ों पर अकेले या खपरैल की तरह एक के ऊपर एक सजे समूहों में उगता है, जहाँ यह परजीवी और अपघटक दोनों होता है और अंतःकाष्ठ में श्वेत सड़न पैदा करता है। यह यूरोप, समशीतोष्ण एशिया और उत्तरी अमेरिका में, विशेषकर रॉकी पर्वतमाला के पूर्व में, आम और व्यापक रूप से फैला हुआ है, और ऑस्ट्रेलिया में भी पाया जाता है।",
+      "cap": "टोपी 10–30 सेमी चौड़ी होती है, असाधारण रूप से 60 सेमी तक, और जुड़ाव के पास आमतौर पर 1–4 सेमी मोटी होती है। यह पंखे, गुर्दे या अर्धवृत्त के आकार की, चपटी से हल्की उभरी हुई और डंठल की ओर धँसी हुई होती है; दबी हुई जड़ों से निकलने वाले फलन-काय कीप के आकार के हो सकते हैं। सूखी सतह हल्की क्रीम से गेरुआ या पुआल-पीली होती है और संकेंद्रित पंक्तियों में सजे बड़े, चिपके हुए, भूरे से काले-भूरे शल्कों से ढकी रहती है। पतला किनारा शुरू में भीतर की ओर मुड़ा रहता है।",
+      "hymenium": "नलिकाएँ 5–10 मिमी लंबी होती हैं, बड़े फलन-कायों में 15 मिमी तक, डंठल पर नीचे उतरती हैं और गूदे से अलग नहीं होतीं। छिद्र बड़े, कोणीय और अनियमित होते हैं, लगभग 1–3 मिमी चौड़े, और मधुमक्खी के छत्ते जैसी सतह बनाते हैं जो पहले सफ़ेद, फिर क्रीम से हल्की गेरुआ-पीली होती है और दबाने पर रंग नहीं बदलती। कवकतंतु तंत्र द्विकवकतंतुकी होता है, और हाइमेनियल सिस्टीडिया नहीं होते।",
+      "stipe": "डंठल छोटा और मोटा होता है, 2–8 सेमी लंबा और 1.5–6 सेमी मोटा, आमतौर पर पार्श्वीय या केंद्र से हटा हुआ और केवल कभी-कभार केंद्रीय। यह ठोस और कड़ा होता है, ऊपर सफ़ेदी लिए से क्रीम रंग का, जहाँ नीचे उतरते छिद्र जालीदार नमूना बनाते हैं, और इसका आधार मखमली, गहरे भूरे से काले रोएँ से ढका होता है जो उम्र के साथ ऊपर की ओर फैलता है।",
+      "flesh": "गूदा सफ़ेद, 1–3 सेमी मोटा होता है और काटने पर रंग नहीं बदलता। युवा फलन-कायों में यह रसीला और काफ़ी नरम होता है, पर जल्द ही कॉर्क जैसा और चमड़े जैसा हो जाता है, विशेषकर डंठल में और जुड़ाव के पास। गंध तेज़ आटे जैसी होती है, जिसकी तुलना अक्सर खीरे से की जाती है, और स्वाद हल्का, आटे जैसा से थोड़ा मेवे जैसा होता है।",
+      "sporePrint": "सफ़ेद। बीजाणु 10–16 × 4–6 माइक्रोमीटर, बेलनाकार से लंबे दीर्घवृत्ताकार, चिकने, पतली भित्ति वाले, पारदर्शी और अनएमाइलॉइड होते हैं।",
+      "habitat": "यह जीवित और मृत चौड़ी पत्ती वाले पेड़ों के तनों, ठूँठों, गिरे हुए तनों और मोटी शाखाओं पर अकेले या खपरैल जैसे समूहों में उगता है, अक्सर घावों पर और कभी-कभी ज़मीन से कई मीटर ऊपर, और कभी-कभार दबी हुई जड़ों से भी। इसके आम परपोषी एल्म, मेपल (सिकामोर मेपल सहित), ऐश, बीच, हॉर्स चेस्टनट, अखरोट, लिंडन, पॉपलर और विलो हैं; पश्चिमी उत्तरी अमेरिका में यह मुख्यतः ऐस्पन पर उगता है। यह पार्कों, वृक्ष-वीथियों, बगीचों, फलोद्यानों और बाढ़-मैदानी वनों में आम है। फलन-काय मई से अगस्त तक दिखाई देते हैं, सबसे अधिक मई और जून में, और कभी-कभी अप्रैल में या शरद ऋतु में भी।",
+      "uses": "केवल बहुत युवा फलन-काय खाए जाते हैं, जिनका गूदा अभी इतना नरम हो कि आसानी से कट जाए, और युवा टोपियों के कोमल बाहरी किनारे सबसे अच्छा भाग होते हैं। इन्हें पतली फाँकों में काटा जाता है, कीड़ों की जाँच की जाती है और धीमी आँच पर अच्छी तरह पकाया जाता है; इन्हें तला जाता है, सूप में डाला जाता है, सिरके में अचार बनाया जाता है, या सुखाकर मसाले का चूर्ण बनाया जाता है। इनका पाक-मूल्य आमतौर पर साधारण माना जाता है, और कुछ संवेदनशील लोगों को इनसे पेट की गड़बड़ी होती है। पुराने फलन-काय सख़्त, कॉर्क जैसे होते हैं और जल्द ही कीट लार्वा से भर जाते हैं, इसलिए खाए नहीं जाते।",
+      "confusion": "Polyporus tuberaster छोटा होता है, जिसकी टोपी अधिक गोल और डंठल अधिक केंद्रीय होता है, शल्क केवल सिरों पर गहरे होते हैं और किनारा झालरदार होता है; यह दबे हुए स्क्लेरोशियम से या गिरी हुई शाखाओं पर उगता है और इसमें आटे जैसी गंध नहीं होती। पूर्ण विकसित Fomitopsis betulina का आकार मिलता-जुलता हो सकता है, पर यह ऊपर से भूरा और नीचे से सफ़ेद होता है और केवल भोज वृक्षों पर उगता है।",
+      "notes": "जीवित पेड़ों में अंतःकाष्ठ सड़न के कारक के रूप में, यह सड़क, पार्क और फलोद्यान के पेड़ों, जिनमें अखरोट भी शामिल है, की लकड़ी का एक गंभीर अपघटक है, और उम्मीद है कि ऐश डाईबैक से कमज़ोर हुए ऐश पेड़ों पर यह अधिक बार दिखेगा। फलन-काय उल्लेखनीय तेज़ी से बढ़ सकते हैं: 1810 में स्कॉटलैंड में दर्ज एक फलन-काय चार सप्ताह में 2.3 मीटर परिधि और 15.5 किग्रा भार तक पहुँच गया। ये कुछ ही सप्ताह में सड़ जाते हैं और Dacne quadrimaculata और Tritoma humeralis जैसे कवक-भृंगों तथा कवक-मक्खियों के लार्वा इन्हें खाते हैं।"
+    },
+    "hr": {
+      "description": "Velika jednogodišnja gljiva u obliku konzole koja raste pojedinačno ili u crijepasto složenim skupinama na živim i mrtvim listačama, gdje je istodobno parazit i razgrađivač te uzrokuje bijelu trulež srži. Česta je i široko rasprostranjena u Europi, umjerenoj Aziji i Sjevernoj Americi, osobito istočno od Stjenjaka, a pojavljuje se i u Australiji.",
+      "cap": "Klobuk je širok 10–30 cm, iznimno do 60 cm, a uz mjesto pričvršćenja obično debeo 1–4 cm. Lepezast je, bubrežast ili polukružan, ravan do blago ispupčen i prema stručku udubljen; plodišta koja rastu iz zakopanog korijenja mogu biti ljevkasta. Suha površina je blijedo krem do okerasta ili slamnatožuta i prekrivena krupnim, priljubljenim, smeđim do crnkastosmeđim ljuskama u koncentričnim redovima. Tanak rub je u početku podvijen.",
+      "hymenium": "Cjevčice su duge 5–10 mm, kod velikih plodišta do 15 mm, silaze niz stručak i ne odvajaju se od mesa. Pore su krupne, uglaste i nepravilne, široke oko 1–3 mm, i tvore površinu nalik saću, u početku bijelu, zatim krem do blijedo okerastožutu, koja na pritisak ne mijenja boju. Hifni sustav je dimitičan, a himenijskih cistida nema.",
+      "stipe": "Stručak je kratak i zdepast, dug 2–8 cm i debeo 1,5–6 cm, obično bočni ili ekscentričan i samo rijetko središnji. Pun je i žilav, pri vrhu bjelkast do krem, gdje silazne pore tvore mrežast crtež, a njegova je osnova prekrivena baršunastom, tamnosmeđom do crnom prevlakom koja se sa starošću širi prema gore.",
+      "flesh": "Meso je bijelo, debelo 1–3 cm i na prerezu ne mijenja boju. Kod mladih plodišta sočno je i prilično meko, ali uskoro postaje plutasto i kožasto, osobito u stručku i uz mjesto pričvršćenja. Miris je jako brašnast, često uspoređivan s krastavcem, a okus blag, brašnast do blago orašast.",
+      "sporePrint": "Bijel. Spore su 10–16 × 4–6 µm, cilindrične do izduženo elipsoidne, glatke, tankostjene, hijaline i neamiloidne.",
+      "habitat": "Raste pojedinačno ili u crijepastim skupinama na deblima, panjevima, oborenim deblima i debelim granama živih i mrtvih listača, često na ranama i ponekad nekoliko metara iznad tla, a povremeno i iz zakopanog korijenja. Česti domaćini su brijest, javor, uključujući gorski javor, jasen, bukva, divlji kesten, orah, lipa, topola i vrba; na zapadu Sjeverne Amerike raste uglavnom na američkoj jasiki. Česta je u parkovima, drvoredima, vrtovima, voćnjacima i poplavnim šumama. Plodišta se pojavljuju od svibnja do kolovoza, najobilnije u svibnju i lipnju, a povremeno već u travnju ili u jesen.",
+      "uses": "Jedu se samo vrlo mlada plodišta, čije je meso još toliko meko da se lako reže, a najbolji su dio nježni vanjski rubovi mladih klobuka. Režu se na tanke ploške, provjerava se da nisu crvljiva i temeljito se kuhaju na laganoj vatri; prže se, dodaju juhama, kisele u octu ili suše i melju u začinski prah. Njihova se kulinarska vrijednost obično ocjenjuje skromnom, a nekim osjetljivim osobama uzrokuju želučane tegobe. Starija plodišta su žilava, plutasta i uskoro napadnuta ličinkama kukaca pa se ne jedu.",
+      "confusion": "Polyporus tuberaster je manji, s okruglijim klobukom na središnjijem stručku, ljuskama koje su tamne samo na vrhovima i trepavičastim rubom; raste iz zakopanog sklerocija ili na otpalim granama i nema brašnast miris. Odrasla brezina guba (Fomitopsis betulina) može imati sličan oblik, ali je odozgo smeđa, odozdo bijela i raste samo na brezama.",
+      "notes": "Kao uzročnik truleži srži živih stabala ozbiljan je razgrađivač drva uličnih, parkovnih i voćnih stabala, uključujući orah, a očekuje se da će biti češća na jasenima oslabljenima odumiranjem jasena. Plodišta mogu rasti iznimno brzo: jedno, zabilježeno u Škotskoj 1810. godine, za četiri tjedna doseglo je opseg od 2,3 m i masu od 15,5 kg. Raspadaju se za nekoliko tjedana, a njima se hrane gljivarski kornjaši kao što su Dacne quadrimaculata i Tritoma humeralis te ličinke gljivarskih mušica."
+    },
+    "hu": {
+      "description": "Nagy, egyéves, konzol alakú gomba, amely magányosan vagy cserépszerűen egymás fölött álló csoportokban nő élő és elhalt lombos fákon, ahol egyszerre élősködő és lebontó, és a geszt fehérkorhadását okozza. Gyakori és széles körben elterjedt Európában, a mérsékelt övi Ázsiában és Észak-Amerikában, különösen a Sziklás-hegységtől keletre, és Ausztráliában is előfordul.",
+      "cap": "A kalap 10–30 cm széles, kivételesen 60 cm-es is lehet, a tapadási helyénél általában 1–4 cm vastag. Legyező, vese vagy félkör alakú, lapos vagy enyhén domború, a tönk felé bemélyedő; az eltemetett gyökerekből növő termőtestek tölcséresek is lehetnek. A száraz felszín halvány krémszínű, okkeres vagy szalmasárga, és nagy, rásimuló, barna vagy feketésbarna, koncentrikus sorokba rendeződő pikkelyek borítják. A vékony szél eleinte begöngyölt.",
+      "hymenium": "A csövek 5–10 mm hosszúak, nagy termőtesteken 15 mm-esek is, a tönkre lefutók, és nem választhatók el a hústól. A pórusok nagyok, szögletesek és szabálytalanok, kb. 1–3 mm szélesek, méhsejtszerű felületet alkotnak, amely eleinte fehér, később krémszínű vagy halvány okkersárga, és nyomásra nem színeződik el. A hifarendszer dimitikus, himeniális ciszták nincsenek.",
+      "stipe": "A tönk rövid és zömök, 2–8 cm hosszú és 1,5–6 cm vastag, általában oldalálló vagy excentrikus, és csak ritkán központi. Tömör és szívós, felül fehéres vagy krémszínű, ahol a lefutó pórusok hálózatos mintát alkotnak, töve pedig bársonyos, sötétbarna vagy fekete bevonattal fedett, amely a korral felfelé terjed.",
+      "flesh": "A hús fehér, 1–3 cm vastag, vágásra nem változik. Fiatal termőtestekben lédús és meglehetősen puha, de hamar parafaszerűvé és bőrszerűvé válik, különösen a tönkben és a tapadási helynél. Szaga erősen lisztes, gyakran uborkáéhoz hasonlítják, íze enyhe, lisztes vagy kissé diós.",
+      "sporePrint": "Fehér. A spórák 10–16 × 4–6 µm-esek, hengeresek vagy megnyúlt ellipszoidok, simák, vékony falúak, hialinok és inamiloidok.",
+      "habitat": "Magányosan vagy cserépszerű csoportokban nő élő és elhalt lombos fák törzsén, tuskóin, fekvő törzsein és vastag ágain, gyakran sebek mentén, néha több méter magasan, alkalmanként eltemetett gyökerekből is. Gyakori gazdái a szil, a juharok, köztük a hegyi juhar, a kőris, a bükk, a vadgesztenye, a dió, a hárs, a nyár és a fűz; Észak-Amerika nyugati részén főként amerikai rezgőnyáron nő. Gyakori parkokban, fasorokban, kertekben, gyümölcsösökben és ártéri erdőkben. Termőtestei májustól augusztusig jelennek meg, legnagyobb számban májusban és júniusban, alkalmanként már áprilisban vagy ősszel.",
+      "uses": "Csak a nagyon fiatal termőtesteket fogyasztják, amelyek húsa még olyan puha, hogy könnyen szeletelhető, és a fiatal kalapok zsenge külső széle a legjobb rész. Vékony szeletekre vágják, ellenőrzik, nem kukacos-e, és alacsony hőfokon alaposan megfőzik; sütik, levesekbe teszik, ecetbe savanyítják, vagy szárítják és fűszerporrá őrlik. Konyhai értékét általában szerénynek tartják, és egyes érzékeny embereknél gyomorpanaszokat okoz. Az idősebb termőtestek szívósak, parafaszerűek és hamar rovarlárvák lepik el őket, ezért nem fogyasztják.",
+      "confusion": "A Polyporus tuberaster kisebb, kerekebb kalapja centrálisabb tönkön ül, pikkelyei csak a csúcsukon sötétek, széle pillás; eltemetett szkleróciumból vagy lehullott ágakon nő, és nincs lisztszaga. A kifejlett nyírfatapló (Fomitopsis betulina) hasonló alakú lehet, de felül barna, alul fehér, és csak nyírfán nő.",
+      "notes": "Élő fák gesztkorhasztójaként jelentős faanyagbontó az utcai, parki és gyümölcsfákon, köztük a dión, és várhatóan gyakoribbá válik a kőrishajtás-elhalás által legyengített kőriseken. A termőtestek rendkívül gyorsan nőhetnek: egy 1810-ben Skóciában feljegyzett példány négy hét alatt 2,3 m kerületet és 15,5 kg tömeget ért el. Néhány hét alatt elbomlanak, és gombabogarak, például a Dacne quadrimaculata és a Tritoma humeralis, valamint gombaszúnyogok lárvái táplálkoznak velük."
+    },
+    "id": {
+      "description": "Jamur besar berumur satu tahun berbentuk rak yang tumbuh tunggal atau berkelompok bertingkat seperti genting pada pohon berdaun lebar yang hidup maupun mati, tempat jamur ini berperan sebagai parasit sekaligus pengurai dan menyebabkan busuk putih pada kayu teras. Jamur ini umum dan tersebar luas di Eropa, Asia beriklim sedang, dan Amerika Utara, terutama di sebelah timur Pegunungan Rocky, dan juga terdapat di Australia.",
+      "cap": "Tudungnya berukuran 10–30 cm, kadang-kadang hingga 60 cm, dan di dekat tempat melekatnya biasanya setebal 1–4 cm. Bentuknya seperti kipas, ginjal, atau setengah lingkaran, datar hingga agak cembung dan cekung ke arah tangkai; tubuh buah yang tumbuh dari akar yang terkubur dapat berbentuk corong. Permukaan yang kering berwarna krem pucat hingga oker atau kuning jerami dan tertutup sisik besar, rata, cokelat hingga cokelat kehitaman yang tersusun dalam deretan konsentris. Tepinya yang tipis mula-mula melengkung ke dalam.",
+      "hymenium": "Tabungnya sepanjang 5–10 mm, hingga 15 mm pada tubuh buah besar, menurun ke tangkai dan tidak terpisah dari daging. Porinya besar, bersudut, dan tidak beraturan, lebarnya sekitar 1–3 mm, membentuk permukaan seperti sarang lebah yang mula-mula putih, kemudian krem hingga kuning oker pucat, dan tidak berubah warna bila ditekan. Sistem hifanya dimitik, dan tidak ada sistidia himenial.",
+      "stipe": "Tangkainya pendek dan kekar, panjang 2–8 cm dan tebal 1,5–6 cm, biasanya di samping atau tidak di tengah dan hanya jarang di tengah. Tangkai padat dan liat, bagian atasnya keputihan hingga krem tempat pori yang menurun membentuk pola seperti jala, dan pangkalnya tertutup bulu halus seperti beludru berwarna cokelat tua hingga hitam yang meluas ke atas seiring bertambahnya umur.",
+      "flesh": "Dagingnya putih, setebal 1–3 cm, dan tidak berubah warna bila dipotong. Pada tubuh buah muda daging berair dan cukup lunak, tetapi segera menjadi seperti gabus dan liat, terutama di tangkai dan di dekat tempat melekat. Baunya sangat seperti tepung, sering disamakan dengan mentimun, dan rasanya lembut, seperti tepung hingga agak seperti kacang.",
+      "sporePrint": "Putih. Sporanya berukuran 10–16 × 4–6 µm, silindris hingga elipsoid memanjang, halus, berdinding tipis, hialin, dan inamiloid.",
+      "habitat": "Tumbuh tunggal atau berkelompok bertingkat pada batang, tunggul, batang tumbang, dan cabang besar pohon berdaun lebar yang hidup maupun mati, sering pada luka dan kadang beberapa meter di atas tanah, serta sesekali dari akar yang terkubur. Inang yang sering adalah elm, maple termasuk maple sikamor, ash, beech, horse chestnut, kenari, linden, poplar, dan willow; di bagian barat Amerika Utara jamur ini terutama tumbuh pada aspen. Jamur ini umum di taman, jalan beralur pohon, kebun, kebun buah, dan hutan dataran banjir. Tubuh buah muncul dari Mei hingga Agustus, paling melimpah pada Mei dan Juni, dan sesekali sudah pada April atau pada musim gugur.",
+      "uses": "Hanya tubuh buah yang sangat muda, yang dagingnya masih cukup lunak untuk diiris dengan mudah, yang dimakan, dan tepi luar tudung muda yang lembut adalah bagian terbaik. Jamur diiris tipis, diperiksa dari belatung, dan dimasak matang dengan api kecil; jamur digoreng, dimasukkan ke dalam sup, diasinkan dalam cuka, atau dikeringkan dan digiling menjadi bubuk bumbu. Nilai kulinernya biasanya dianggap sedang saja, dan beberapa orang yang peka mengalami gangguan perut setelah memakannya. Tubuh buah yang lebih tua liat, seperti gabus, dan segera dipenuhi larva serangga sehingga tidak dimakan.",
+      "confusion": "Polyporus tuberaster lebih kecil, dengan tudung lebih bulat pada tangkai yang lebih di tengah, sisik yang gelap hanya pada ujungnya, dan tepi berumbai; jamur ini tumbuh dari sklerotium yang terkubur atau pada cabang yang jatuh dan tidak berbau tepung. Fomitopsis betulina yang sudah dewasa dapat memiliki bentuk serupa, tetapi bagian atasnya cokelat dan bagian bawahnya putih, dan hanya tumbuh pada pohon birch.",
+      "notes": "Sebagai penyebab busuk kayu teras pada pohon hidup, jamur ini merupakan pengurai kayu yang penting pada pohon di jalan, taman, dan kebun buah, termasuk kenari, dan diperkirakan akan makin sering dijumpai pada pohon ash yang dilemahkan oleh penyakit mati pucuk ash. Tubuh buahnya dapat tumbuh sangat cepat: satu yang tercatat di Skotlandia pada tahun 1810 mencapai keliling 2,3 m dan berat 15,5 kg dalam empat minggu. Tubuh buah membusuk dalam beberapa minggu dan dimakan oleh kumbang jamur seperti Dacne quadrimaculata dan Tritoma humeralis serta oleh larva lalat jamur."
+    },
+    "it": {
+      "description": "Un grande fungo annuale a mensola che cresce isolato o in gruppi embricati su latifoglie vive e morte, dove è sia parassita sia decompositore e provoca una carie bianca del durame. È comune e ampiamente diffuso in Europa, nell'Asia temperata e in Nord America, soprattutto a est delle Montagne Rocciose, ed è presente anche in Australia.",
+      "cap": "Il cappello misura 10–30 cm di larghezza, eccezionalmente fino a 60 cm, e vicino al punto di inserzione è spesso di solito 1–4 cm. È flabelliforme, reniforme o semicircolare, piano o leggermente convesso e depresso verso il gambo; i carpofori che nascono da radici interrate possono essere imbutiformi. La superficie asciutta è crema pallido, ocra o giallo paglia ed è coperta da grandi squame appressate, da brune a bruno-nerastre, disposte in file concentriche. Il margine sottile è dapprima involuto.",
+      "hymenium": "I tubuli sono lunghi 5–10 mm, fino a 15 mm nei carpofori grandi, decorrenti sul gambo e non separabili dalla carne. I pori sono grandi, angolosi e irregolari, larghi circa 1–3 mm, e formano una superficie a nido d'ape, dapprima bianca, poi crema o giallo ocra pallido, che non si macchia alla pressione. Il sistema ifale è dimitico e mancano cistidi imeniali.",
+      "stipe": "Il gambo è corto e tozzo, lungo 2–8 cm e spesso 1,5–6 cm, di solito laterale o eccentrico e solo raramente centrale. È pieno e tenace, biancastro o crema in alto, dove i pori decorrenti formano un disegno reticolato, e la base è coperta da un feltro vellutato, da bruno scuro a nero, che con l'età si estende verso l'alto.",
+      "flesh": "La carne è bianca, spessa 1–3 cm, e non cambia colore al taglio. Nei carpofori giovani è succosa e piuttosto tenera, ma presto diventa sugherosa e coriacea, soprattutto nel gambo e vicino al punto di inserzione. L'odore è fortemente farinoso, spesso paragonato al cetriolo, e il sapore dolce, farinoso o leggermente di nocciola.",
+      "sporePrint": "Bianca. Le spore misurano 10–16 × 4–6 µm e sono cilindriche o allungato-ellissoidali, lisce, a parete sottile, ialine e non amiloidi.",
+      "habitat": "Cresce isolato o in gruppi embricati su tronchi, ceppaie, tronchi a terra e grossi rami di latifoglie vive e morte, spesso in corrispondenza di ferite e talvolta a diversi metri dal suolo, e occasionalmente da radici interrate. Ospiti frequenti sono olmo, acero, compreso l'acero di monte, frassino, faggio, ippocastano, noce, tiglio, pioppo e salice; nel Nord America occidentale cresce soprattutto sul pioppo tremulo americano. È comune in parchi, viali, giardini, frutteti e boschi ripariali. I carpofori compaiono da maggio ad agosto, più abbondanti in maggio e giugno, e occasionalmente già in aprile o in autunno.",
+      "uses": "Si mangiano solo i carpofori molto giovani, la cui carne è ancora abbastanza tenera da tagliarsi facilmente, e i teneri margini esterni dei cappelli giovani sono la parte migliore. Si tagliano a fettine sottili, si controlla che non siano bacati e si cuociono a lungo a fuoco basso; si friggono, si aggiungono alle zuppe, si conservano sott'aceto oppure si essiccano e si macinano in una polvere da condimento. Il loro valore culinario è in genere considerato modesto, e alcune persone sensibili ne ricavano disturbi di stomaco. I carpofori vecchi sono duri, sugherosi e presto infestati da larve di insetti, e non si mangiano.",
+      "confusion": "Polyporus tuberaster è più piccolo, con cappello più arrotondato su un gambo più centrale, squame scure solo all'apice e margine cigliato; nasce da uno sclerozio interrato o su rami caduti e non ha odore farinoso. Un poliporo della betulla (Fomitopsis betulina) adulto può avere una forma simile, ma è bruno sopra e bianco sotto e cresce solo sulle betulle.",
+      "notes": "Come carie del durame di alberi vivi, è un importante agente di degradazione del legno negli alberi stradali, dei parchi e dei frutteti, compreso il noce, e si prevede che diventi più frequente sui frassini indeboliti dal deperimento del frassino. I carpofori possono crescere con notevole rapidità: uno registrato in Scozia nel 1810 raggiunse in quattro settimane una circonferenza di 2,3 m e un peso di 15,5 kg. Si decompongono in poche settimane e sono mangiati da coleotteri micetofagi come Dacne quadrimaculata e Tritoma humeralis e dalle larve dei moscerini dei funghi."
+    },
+    "ja": {
+      "description": "生きた広葉樹や枯れた広葉樹に単生または瓦状に重なって群生する大型の一年生の棚状のきのこで、寄生者であると同時に分解者でもあり、心材に白色腐朽を起こします。ヨーロッパ、温帯アジア、北アメリカ、特にロッキー山脈以東に普通で広く分布し、オーストラリアにも見られます。",
+      "cap": "傘は径10–30 cm、例外的に60 cmに達し、付着部付近の厚さは通常1–4 cmです。扇形、腎臓形または半円形で、平らからわずかに饅頭形、柄に向かってくぼみ、埋もれた根から生じた子実体は漏斗形になることがあります。乾いた表面は淡クリーム色から黄土色または麦わら黄色で、同心円状に並ぶ大きく圧着した褐色から黒褐色の鱗片に覆われます。薄い縁は初め内側に巻きます。",
+      "hymenium": "管孔は長さ5–10 mm、大きな子実体では15 mmに達し、柄に垂生し、肉から分離しません。孔口は大きく角張って不規則で、幅約1–3 mm、ハチの巣状の面をつくり、初め白色、のちクリーム色から淡黄土黄色となり、押しても変色しません。菌糸型は2菌糸型で、子実層シスチジアはありません。",
+      "stipe": "柄は短く太く、長さ2–8 cm、太さ1.5–6 cmで、通常は側生または偏心生で、まれに中心生です。中実で強靭、上部は白っぽいからクリーム色で、垂生する孔口が網目模様をつくり、基部はビロード状の暗褐色から黒色の毛に覆われ、これは古くなると上方へ広がります。",
+      "flesh": "肉は白色で厚さ1–3 cm、切っても変色しません。若い子実体では多汁でかなり柔らかいものの、まもなく特に柄と付着部でコルク質から革質になります。においは強い粉臭で、しばしばキュウリにたとえられ、味は温和で粉っぽく、わずかにナッツ様です。",
+      "sporePrint": "白色。胞子は10–16 × 4–6 µm、円筒形から長楕円形、平滑、薄壁、無色で、非アミロイドです。",
+      "habitat": "生きた広葉樹や枯れた広葉樹の幹、切り株、倒木、太い枝に単生または瓦状に群生し、しばしば傷口に発生し、ときに地上数メートルの高さにも、まれに埋もれた根からも生じます。主な宿主はニレ、セイヨウカジカエデを含むカエデ類、トネリコ、ブナ、セイヨウトチノキ、クルミ、シナノキ、ポプラ、ヤナギで、北アメリカ西部では主にアメリカヤマナラシに生えます。公園、並木道、庭園、果樹園、氾濫原の林に普通です。子実体は5月から8月に現れ、5月と6月に最も多く、ときに早くも4月や秋にも発生します。",
+      "uses": "食べられるのは、肉がまだ容易に切れるほど柔らかいごく若い子実体だけで、若い傘の柔らかい外縁部が最もよい部分です。薄く切り、虫が入っていないか確かめ、弱火で十分に加熱し、炒め物やスープにしたり、酢漬けにしたり、乾燥させて粉にし調味料にしたりします。食材としての価値は一般に控えめとされ、敏感な人では胃腸の不調を起こすことがあります。古い子実体は硬くコルク質で、すぐに昆虫の幼虫に食われるため食べません。",
+      "confusion": "Polyporus tuberaster はより小型で、より中心寄りの柄に丸みの強い傘をつけ、鱗片は先端だけが暗色で、縁は縁毛状です。埋もれた菌核や落ちた枝から生じ、粉臭がありません。成熟したカンバタケ (Fomitopsis betulina) は形が似ることがありますが、上面は褐色、下面は白色で、カバノキ類にのみ生えます。",
+      "notes": "生立木の心材腐朽菌として、クルミを含む街路樹、公園樹、果樹の重要な材の分解者であり、トネリコ枝枯病で弱ったトネリコでより頻繁に見られるようになると予想されています。子実体は驚くほど速く成長し、1810年にスコットランドで記録されたものは4週間で周囲2.3 m、重さ15.5 kgに達しました。数週間で腐り、Dacne quadrimaculata や Tritoma humeralis などのキノコ食の甲虫やキノコバエの幼虫の餌になります。"
+    },
+    "ko": {
+      "description": "살아 있거나 죽은 활엽수에 홀로 또는 기와처럼 층층이 겹쳐 무리 지어 자라는 대형 일년생 선반 모양 버섯으로, 기생체이자 분해자로서 심재에 백색부후를 일으킵니다. 유럽, 온대 아시아, 북아메리카, 특히 로키산맥 동쪽에서 흔하고 널리 분포하며, 오스트레일리아에서도 발견됩니다.",
+      "cap": "갓은 지름 10–30 cm, 예외적으로 60 cm까지 자라며, 붙은 부분 근처의 두께는 보통 1–4 cm입니다. 부채 모양, 콩팥 모양 또는 반원형이고 평평하거나 약간 볼록하며 대 쪽으로 오목하고, 묻힌 뿌리에서 나온 자실체는 깔때기 모양일 수 있습니다. 마른 표면은 옅은 크림색에서 황토색 또는 볏짚 노란색이며, 동심원 줄로 배열된 크고 눌어붙은 갈색에서 흑갈색의 비늘로 덮여 있습니다. 얇은 가장자리는 처음에 안쪽으로 말려 있습니다.",
+      "hymenium": "관공은 길이 5–10 mm, 큰 자실체에서는 15 mm에 이르며, 대에 내려붙고 살에서 분리되지 않습니다. 구멍은 크고 각지며 불규칙하고 폭이 약 1–3 mm로, 처음에는 흰색이다가 나중에 크림색에서 옅은 황토빛 노란색이 되는 벌집 모양의 면을 이루며, 눌러도 변색하지 않습니다. 균사 구조는 2균사형이며 자실층 낭상체는 없습니다.",
+      "stipe": "대는 짧고 굵으며 길이 2–8 cm, 굵기 1.5–6 cm로, 보통 옆에 붙거나 중심에서 벗어나 있고 드물게만 중앙에 있습니다. 속이 차 있고 질기며, 윗부분은 희끄무레하거나 크림색으로 내려붙은 구멍이 그물 무늬를 이루고, 밑동은 벨벳 같은 암갈색에서 검은색의 털로 덮여 있는데 이 털은 자라면서 위쪽으로 퍼집니다.",
+      "flesh": "살은 흰색이고 두께 1–3 cm이며 잘라도 변색하지 않습니다. 어린 자실체에서는 즙이 많고 꽤 부드럽지만, 특히 대와 붙은 부분에서 곧 코르크질과 가죽질이 됩니다. 냄새는 강한 밀가루 냄새로 흔히 오이에 비유되며, 맛은 순하고 밀가루 같거나 약간 견과류 같습니다.",
+      "sporePrint": "흰색. 포자는 10–16 × 4–6 µm이고 원통형에서 긴 타원형이며, 매끄럽고 벽이 얇으며 무색이고 비아밀로이드입니다.",
+      "habitat": "살아 있거나 죽은 활엽수의 줄기, 그루터기, 쓰러진 줄기, 굵은 가지에 홀로 또는 기와처럼 층층이 무리 지어 자라며, 흔히 상처 부위에 나고 때로는 지상 몇 미터 높이에도 나며, 가끔 묻힌 뿌리에서도 납니다. 흔한 기주는 느릅나무, 유럽단풍을 포함한 단풍나무류, 물푸레나무, 너도밤나무, 서양칠엽수, 호두나무, 피나무, 포플러, 버드나무이며, 북아메리카 서부에서는 주로 미국사시나무에 자랍니다. 공원, 가로수길, 정원, 과수원, 범람원 숲에서 흔합니다. 자실체는 5월부터 8월까지 나타나며 5월과 6월에 가장 많고, 가끔 4월이나 가을에도 발생합니다.",
+      "uses": "살이 아직 쉽게 썰릴 만큼 부드러운 아주 어린 자실체만 먹으며, 어린 갓의 부드러운 바깥 가장자리가 가장 좋은 부분입니다. 얇게 썰어 구더기가 없는지 확인한 뒤 약한 불에서 충분히 익히며, 볶거나 수프에 넣거나 식초에 절이거나 말려서 갈아 조미 가루로 씁니다. 식재료로서의 가치는 대체로 보통으로 평가되며, 일부 민감한 사람에게는 배탈을 일으킵니다. 오래된 자실체는 질기고 코르크질이며 곧 곤충 유충이 들끓으므로 먹지 않습니다.",
+      "confusion": "Polyporus tuberaster는 더 작고, 더 중앙에 가까운 대에 더 둥근 갓이 달리며, 비늘은 끝부분만 어둡고 가장자리에 술 같은 털이 있습니다. 묻힌 균핵이나 떨어진 가지에서 자라며 밀가루 냄새가 없습니다. 다 자란 자작나무버섯 (Fomitopsis betulina)은 비슷한 모양일 수 있지만 윗면은 갈색, 아랫면은 흰색이며 자작나무에서만 자랍니다.",
+      "notes": "살아 있는 나무의 심재부후균으로서 호두나무를 포함한 가로수, 공원수, 과수의 중요한 목재 분해자이며, 물푸레나무 가지마름병으로 약해진 물푸레나무에서 더 자주 나타날 것으로 예상됩니다. 자실체는 놀랄 만큼 빨리 자랄 수 있어, 1810년 스코틀랜드에서 기록된 한 개체는 4주 만에 둘레 2.3 m, 무게 15.5 kg에 이르렀습니다. 몇 주 안에 썩으며, Dacne quadrimaculata와 Tritoma humeralis 같은 버섯벌레와 버섯파리 유충의 먹이가 됩니다."
+    },
+    "lt": {
+      "description": "Didelis vienmetis konsolės formos grybas, augantis pavieniui arba čerpiškomis grupėmis ant gyvų ir negyvų lapuočių medžių, kur jis yra ir parazitas, ir skaidytojas, sukeliantis branduolinės medienos baltąjį puvinį. Jis dažnas ir plačiai paplitęs Europoje, vidutinio klimato Azijoje ir Šiaurės Amerikoje, ypač į rytus nuo Uolinių kalnų, taip pat aptinkamas Australijoje.",
+      "cap": "Kepurėlė 10–30 cm pločio, išimtiniais atvejais iki 60 cm, ties prisitvirtinimo vieta paprastai 1–4 cm storio. Ji vėduoklės, inksto ar pusapskritimio formos, plokščia iki šiek tiek išgaubtos ir link kotelio įdubusi; vaisiakūniai, augantys iš užkastų šaknų, gali būti piltuviški. Sausas paviršius blyškiai kreminis iki ochrinio ar šiaudų geltonumo ir padengtas dideliais, prigludusiais, rudais iki juosvai rudų žvynais, išsidėsčiusiais koncentrinėmis eilėmis. Plonas kraštas iš pradžių įlinkęs.",
+      "hymenium": "Vamzdeliai 5–10 mm ilgio, dideliuose vaisiakūniuose iki 15 mm, nubėgantys ant kotelio ir neatsiskiriantys nuo tramos. Poros didelės, kampuotos ir netaisyklingos, apie 1–3 mm pločio, sudaro korio pavidalo paviršių, iš pradžių baltą, vėliau kreminį iki blyškiai ochriškai geltono, paspaudus nekeičiantį spalvos. Hifų sistema dimitinė, himenio cistidžių nėra.",
+      "stipe": "Kotelis trumpas ir storas, 2–8 cm ilgio ir 1,5–6 cm storio, paprastai šoninis arba ekscentriškas ir tik retai centrinis. Jis pilnaviduris ir kietas, viršuje balsvas iki kreminio, kur nubėgančios poros sudaro tinklišką raštą, o jo pagrindą dengia aksominis, tamsiai rudas iki juodo pūkas, kuris su amžiumi plinta aukštyn.",
+      "flesh": "Trama balta, 1–3 cm storio, perpjauta nekeičia spalvos. Jaunuose vaisiakūniuose ji sultinga ir gana minkšta, bet greitai tampa kamštinė ir odiška, ypač kotelyje ir ties prisitvirtinimo vieta. Kvapas stipriai miltinis, dažnai lyginamas su agurku, skonis švelnus, miltinis iki šiek tiek riešutinio.",
+      "sporePrint": "Baltos. Sporos 10–16 × 4–6 µm, cilindrinės iki pailgai elipsoidinių, lygios, plonasienės, hialininės, neamiloidinės.",
+      "habitat": "Auga pavieniui arba čerpiškomis grupėmis ant gyvų ir negyvų lapuočių medžių kamienų, kelmų, nuvirtusių kamienų ir storų šakų, dažnai ties žaizdomis ir kartais kelių metrų aukštyje, kartais iš užkastų šaknų. Dažni šeimininkai yra guoba, klevas, įskaitant platanalapį klevą, uosis, bukas, kaštonas, graikinis riešutmedis, liepa, tuopa ir gluosnis; vakarinėje Šiaurės Amerikos dalyje auga daugiausia ant amerikinės drebulės. Dažnas parkuose, alėjose, soduose ir salpų miškuose. Vaisiakūniai pasirodo nuo gegužės iki rugpjūčio, gausiausiai gegužę ir birželį, pavieniais atvejais jau balandį arba rudenį.",
+      "uses": "Valgomi tik labai jauni vaisiakūniai, kurių trama dar tokia minkšta, kad lengvai pjaustoma, o geriausia dalis yra švelnūs jaunų kepurėlių išoriniai kraštai. Jie supjaustomi plonais griežinėliais, patikrinami, ar nėra kirmėlėti, ir kruopščiai gaminami ant silpnos ugnies; jie kepami, dedami į sriubas, marinuojami acte arba džiovinami ir sumalami į prieskonių miltelius. Jų kulinarinė vertė paprastai vertinama kaip kukli, o kai kuriems jautriems žmonėms jie sukelia skrandžio sutrikimų. Senesni vaisiakūniai kieti, kamštiniai ir greitai apnikti vabzdžių lervų, jų nevalgoma.",
+      "confusion": "Polyporus tuberaster mažesnis, su apvalesne kepurėle ant labiau centrinio kotelio, žvynais, tamsiais tik galiukuose, ir blakstienotu kraštu; jis auga iš užkasto sklerocijaus arba ant nukritusių šakų ir neturi miltinio kvapo. Suaugęs beržinis pintenis (Fomitopsis betulina) gali būti panašios formos, tačiau jis iš viršaus rudas, iš apačios baltas ir auga tik ant beržų.",
+      "notes": "Kaip gyvų medžių branduolinės medienos puvinio sukėlėjas jis yra svarbus gatvių, parkų ir sodų medžių, įskaitant riešutmedžius, medienos skaidytojas, ir tikimasi, kad jis taps dažnesnis ant uosių, nusilpusių dėl uosių džiūties. Vaisiakūniai gali augti nepaprastai greitai: vienas, užregistruotas Škotijoje 1810 m., per keturias savaites pasiekė 2,3 m apimtį ir 15,5 kg masę. Jie suyra per kelias savaites, juos minta grybiniai vabalai, tokie kaip Dacne quadrimaculata ir Tritoma humeralis, bei grybinių uodų lervos."
+    },
+    "lv": {
+      "description": "Liela, viengadīga, konsolveida sēne, kas aug pa vienai vai jumstiņveida grupās uz dzīviem un atmirušiem lapu kokiem, kur tā ir gan parazīts, gan noārdītājs un izraisa kodolkoksnes balto trupi. Tā ir bieži sastopama un plaši izplatīta Eiropā, mērenajā Āzijā un Ziemeļamerikā, īpaši uz austrumiem no Klinšu kalniem, un sastopama arī Austrālijā.",
+      "cap": "Cepurīte ir 10–30 cm plata, izņēmuma gadījumos līdz 60 cm, un pie piestiprinājuma vietas parasti 1–4 cm bieza. Tā ir vēdekļveida, nierveida vai pusapaļa, plakana līdz nedaudz izliekta un pret kātu iegrimusi; augļķermeņi, kas aug no apraktām saknēm, var būt piltuvveida. Sausā virsma ir gaiši krēmkrāsas līdz okera vai salmu dzeltena un klāta ar lielām, piegulošām, brūnām līdz melnbrūnām zvīņām koncentriskās rindās. Plānā mala sākumā ir ieliekta.",
+      "hymenium": "Stobriņi ir 5–10 mm gari, lieliem augļķermeņiem līdz 15 mm, nolaižas uz kāta un neatdalās no mīkstuma. Poras ir lielas, stūrainas un neregulāras, apmēram 1–3 mm platas, un veido šūnveida virsmu, kas sākumā ir balta, vēlāk krēmkrāsas līdz gaiši okerdzeltena un spiežot nemaina krāsu. Hifu sistēma ir dimītiska, un himēnija cistīdu nav.",
+      "stipe": "Kāts ir īss un drukns, 2–8 cm garš un 1,5–6 cm resns, parasti sānisks vai ekscentrisks un tikai reti centrāls. Tas ir pilns un ciets, augšdaļā bālgans līdz krēmkrāsas, kur nolaidenās poras veido tīklveida rakstu, un tā pamatni klāj samtaina, tumši brūna līdz melna pūka, kas ar vecumu izplešas uz augšu.",
+      "flesh": "Mīkstums ir balts, 1–3 cm biezs un griezumā nemaina krāsu. Jauniem augļķermeņiem tas ir sulīgs un diezgan mīksts, bet drīz kļūst korķains un ādains, īpaši kātā un pie piestiprinājuma vietas. Smarža ir stipri miltaina, bieži salīdzināta ar gurķi, un garša maiga, miltaina līdz viegli riekstaina.",
+      "sporePrint": "Balts. Sporas ir 10–16 × 4–6 µm, cilindriskas līdz izstiepti elipsoīdas, gludas, plānsienu, hialīnas un neamiloīdas.",
+      "habitat": "Aug pa vienai vai jumstiņveida grupās uz dzīvu un atmirušu lapu koku stumbriem, celmiem, kritalām un resniem zariem, bieži pie brūcēm un dažkārt vairāku metru augstumā, reizēm arī no apraktām saknēm. Biežākie saimniekaugi ir goba, kļava, arī platānlapu kļava, osis, dižskābardis, zirgkastaņa, valrieksts, liepa, papele un vītols; Ziemeļamerikas rietumos tā aug galvenokārt uz Amerikas apses. Bieži sastopama parkos, alejās, dārzos, augļu dārzos un palieņu mežos. Augļķermeņi parādās no maija līdz augustam, visvairāk maijā un jūnijā, atsevišķos gadījumos jau aprīlī vai rudenī.",
+      "uses": "Ēd tikai ļoti jaunus augļķermeņus, kuru mīkstums vēl ir tik mīksts, ka to viegli sagriezt, un jauno cepurīšu maigās ārējās malas ir labākā daļa. Tos sagriež plānās šķēlēs, pārbauda, vai nav tārpaini, un rūpīgi gatavo uz lēnas uguns; tos cep, izmanto zupās, marinē etiķī vai žāvē un samaļ garšvielu pulverī. To kulinārā vērtība parasti tiek vērtēta kā pieticīga, un dažiem jutīgiem cilvēkiem tie izraisa kuņģa darbības traucējumus. Vecāki augļķermeņi ir cieti, korķaini un drīz invadēti ar kukaiņu kāpuriem, un tos neēd.",
+      "confusion": "Polyporus tuberaster ir mazāka, ar apaļāku cepurīti uz centrālāka kāta, zvīņām, kas tumšas tikai galos, un skropstainu malu; tā aug no aprakta sklerocija vai uz nokritušiem zariem un tai nav miltainās smaržas. Pieaugusi brūnā bērzupiepe (Fomitopsis betulina) var būt līdzīgas formas, taču tā ir virspusē brūna un apakšpusē balta un aug tikai uz bērziem.",
+      "notes": "Kā dzīvu koku kodola trupes ierosinātāja tā ir nozīmīgs koksnes noārdītājs ielu, parku un augļu kokos, arī valriekstos, un sagaidāms, ka tā kļūs biežāka uz ošiem, kurus novājinājusi ošu dzinumu kalšana. Augļķermeņi var augt ievērojami ātri: viens, kas reģistrēts Skotijā 1810. gadā, četrās nedēļās sasniedza 2,3 m apkārtmēru un 15,5 kg svaru. Tie sadalās dažās nedēļās, un tos ēd sēņu vaboles, piemēram, Dacne quadrimaculata un Tritoma humeralis, un sēņu odiņu kāpuri."
+    },
+    "nl": {
+      "description": "Een grote, eenjarige konsolevormige paddenstoel die alleen of in dakpansgewijze groepen groeit op levende en dode loofbomen, waar hij zowel parasiet als afbreker is en een witrot van het kernhout veroorzaakt. Hij is algemeen en wijdverbreid in Europa, gematigd Azië en Noord-Amerika, vooral ten oosten van de Rocky Mountains, en komt ook voor in Australië.",
+      "cap": "De hoed is 10–30 cm breed, uitzonderlijk tot 60 cm, en bij de aanhechting meestal 1–4 cm dik. Hij is waaiervormig, niervormig of halfrond, vlak tot licht gewelfd en naar de steel toe ingedeukt; vruchtlichamen die uit begraven wortels groeien, kunnen trechtervormig zijn. Het droge oppervlak is bleek crème tot oker of strogeel en bedekt met grote, aanliggende, bruine tot zwartbruine schubben in concentrische rijen. De dunne rand is aanvankelijk ingebogen.",
+      "hymenium": "De buisjes zijn 5–10 mm lang, bij grote vruchtlichamen tot 15 mm, lopen af op de steel en laten niet los van het vlees. De poriën zijn groot, hoekig en onregelmatig, ongeveer 1–3 mm breed, en vormen een honingraatachtig oppervlak dat eerst wit is, later crème tot bleek okergeel, en niet verkleurt bij aanraken. Het hyfensysteem is dimitisch en hymeniale cystiden ontbreken.",
+      "stipe": "De steel is kort en gedrongen, 2–8 cm lang en 1,5–6 cm dik, meestal zijdelings of excentrisch en slechts zelden centraal. Hij is vol en taai, bovenaan witachtig tot crème, waar de aflopende poriën een netvormig patroon vormen, en de voet is bedekt met fluweelachtig, donkerbruin tot zwart vilt dat zich met de leeftijd naar boven uitbreidt.",
+      "flesh": "Het vlees is wit, 1–3 cm dik en verkleurt niet bij doorsnijden. Bij jonge vruchtlichamen is het sappig en vrij zacht, maar het wordt al snel kurkachtig en leerachtig, vooral in de steel en bij de aanhechting. De geur is sterk meelachtig, vaak vergeleken met komkommer, en de smaak is zacht, meelachtig tot licht nootachtig.",
+      "sporePrint": "Wit. De sporen meten 10–16 × 4–6 µm en zijn cilindrisch tot langgerekt ellipsoïde, glad, dunwandig, hyaliën en niet amyloïde.",
+      "habitat": "Hij groeit alleen of in dakpansgewijze groepen op stammen, stobben, liggende stammen en dikke takken van levende en dode loofbomen, vaak bij wonden en soms enkele meters boven de grond, en af en toe uit begraven wortels. Veelvoorkomende waardbomen zijn iep, esdoorn waaronder gewone esdoorn, es, beuk, paardenkastanje, walnoot, linde, populier en wilg; in het westen van Noord-Amerika groeit hij vooral op ratelpopulier. Hij is algemeen in parken, lanen, tuinen, boomgaarden en ooibossen. De vruchtlichamen verschijnen van mei tot augustus, het talrijkst in mei en juni, en soms al in april of in de herfst.",
+      "uses": "Alleen zeer jonge vruchtlichamen, waarvan het vlees nog zacht genoeg is om gemakkelijk te snijden, worden gegeten, en de malse buitenranden van jonge hoeden zijn het beste deel. Ze worden in dunne plakken gesneden, op maden gecontroleerd en grondig op laag vuur gegaard, en ze worden gebakken, in soepen gebruikt, in azijn ingelegd of gedroogd en tot een kruidenpoeder gemalen. Hun culinaire waarde wordt meestal als bescheiden beoordeeld, en sommige gevoelige mensen krijgen er maagklachten van. Oudere vruchtlichamen zijn taai, kurkachtig en al snel door insectenlarven aangetast, en worden niet gegeten.",
+      "confusion": "Polyporus tuberaster is kleiner, met een rondere hoed op een meer centrale steel, schubben die alleen aan de punt donker zijn en een gewimperde rand; hij groeit uit een begraven sclerotium of op afgevallen takken en mist de meelgeur. Een volgroeide Berkenzwam (Fomitopsis betulina) kan een vergelijkbare vorm hebben, maar is bruin van boven en wit van onderen en groeit alleen op berken.",
+      "notes": "Als kernrot van levende bomen is hij een belangrijke houtafbreker bij straat-, park- en boomgaardbomen, waaronder walnoot, en naar verwachting wordt hij vaker op essen die door de essentaksterfte verzwakt zijn. De vruchtlichamen kunnen opmerkelijk snel groeien: een exemplaar dat in 1810 in Schotland werd waargenomen, bereikte in vier weken een omtrek van 2,3 m en een gewicht van 15,5 kg. Ze vergaan binnen enkele weken en worden gegeten door zwamkevers zoals Dacne quadrimaculata en Tritoma humeralis en door de larven van paddenstoelmuggen."
+    },
+    "no": {
+      "description": "En stor, ettårig hylleformet sopp som vokser enkeltvis eller i taksteinsaktige grupper på levende og døde løvtrær, der den både er parasitt og nedbryter og gir hvitråte i kjerneveden. Den er vanlig og vidt utbredt i Europa, det tempererte Asia og Nord-Amerika, særlig øst for Klippefjellene, og finnes også i Australia.",
+      "cap": "Hatten er 10–30 cm bred, unntaksvis opptil 60 cm, og ved festet vanligvis 1–4 cm tykk. Den er vifteformet, nyreformet eller halvsirkelformet, flat til svakt hvelvet og nedsenket mot stilken; fruktlegemer som vokser fra nedgravde røtter, kan være traktformet. Den tørre overflaten er blekt kremfarget til oker eller strågul og dekket av store, tiltrykte, brune til svartbrune skjell i konsentriske rader. Den tynne kanten er først innbøyd.",
+      "hymenium": "Rørene er 5–10 mm lange, opptil 15 mm hos store fruktlegemer, nedløpende på stilken og lar seg ikke skille fra kjøttet. Porene er store, kantete og uregelmessige, omkring 1–3 mm vide, og danner en bikakeaktig flate som først er hvit, så kremfarget til blekt okergul, og som ikke misfarges ved trykk. Hyfesystemet er dimittisk, og hymeniale cystider mangler.",
+      "stipe": "Stilken er kort og kraftig, 2–8 cm lang og 1,5–6 cm tykk, vanligvis sidestilt eller eksentrisk og bare sjelden sentral. Den er massiv og seig, øverst hvitaktig til kremfarget, der de nedløpende porene danner et nettmønster, og basen er dekket av fløyelsaktig, mørkebrun til svart filt som brer seg oppover med alderen.",
+      "flesh": "Kjøttet er hvitt, 1–3 cm tykt og skifter ikke farge i snitt. Hos unge fruktlegemer er det saftig og ganske mykt, men det blir snart korkaktig og læraktig, særlig i stilken og ved festet. Lukten er sterkt melaktig, ofte sammenlignet med agurk, og smaken mild, melaktig til svakt nøtteaktig.",
+      "sporePrint": "Hvitt. Sporene måler 10–16 × 4–6 µm og er sylindriske til langstrakt ellipsoide, glatte, tynnveggede, hyaline og inamyloide.",
+      "habitat": "Den vokser enkeltvis eller i taksteinsaktige grupper på stammer, stubber, liggende stammer og grove greiner av levende og døde løvtrær, ofte ved sår og noen ganger flere meter over bakken, og av og til fra nedgravde røtter. Vanlige verter er alm, lønn inkludert platanlønn, ask, bøk, hestekastanje, valnøtt, lind, poppel og vier; i det vestlige Nord-Amerika vokser den hovedsakelig på amerikansk osp. Den er vanlig i parker, alleer, hager, frukthager og flommarksskog. Fruktlegemene kommer fra mai til august, rikest i mai og juni, og en sjelden gang allerede i april eller om høsten.",
+      "uses": "Bare svært unge fruktlegemer, der kjøttet fortsatt er så mykt at det lett lar seg skjære, spises, og de møre ytterkantene av unge hatter er den beste delen. De skjæres i tynne skiver, sjekkes for larver og varmebehandles grundig på svak varme, og de stekes, brukes i supper, legges inn i eddik eller tørkes og males til et krydderpulver. Matverdien vurderes vanligvis som beskjeden, og noen følsomme personer får mageplager av dem. Eldre fruktlegemer er seige, korkaktige og snart angrepet av insektlarver, og spises ikke.",
+      "confusion": "Polyporus tuberaster er mindre, med en rundere hatt på en mer sentral stilk, skjell som bare er mørke i spissen, og en frynset kant; den vokser fra et nedgravd sklerotium eller på nedfalne greiner og mangler melukten. En fullvoksen knivkjuke (Fomitopsis betulina) kan ha en lignende form, men den er brun på oversiden og hvit på undersiden og vokser bare på bjørk.",
+      "notes": "Som kjerneråte i levende trær er den en betydelig vednedbryter i gate-, park- og frukttrær, blant annet valnøtt, og den ventes å bli vanligere på asketrær svekket av askeskuddsyke. Fruktlegemene kan vokse bemerkelsesverdig raskt: ett som ble registrert i Skottland i 1810, nådde på fire uker en omkrets på 2,3 m og en vekt på 15,5 kg. De brytes ned i løpet av noen uker og spises av soppbiller som Dacne quadrimaculata og Tritoma humeralis og av larvene til soppmygg."
+    },
+    "pl": {
+      "description": "Duży, jednoroczny grzyb nadrzewny o owocnikach w kształcie wsporników, rosnący pojedynczo lub dachówkowato na żywych i martwych drzewach liściastych, gdzie jest zarówno pasożytem, jak i rozkładającym drewno saprotrofem, wywołującym białą zgniliznę twardzieli. Jest pospolity i szeroko rozprzestrzeniony w Europie, umiarkowanej Azji i Ameryce Północnej, zwłaszcza na wschód od Gór Skalistych, występuje też w Australii.",
+      "cap": "Kapelusz ma 10–30 cm szerokości, wyjątkowo do 60 cm, a przy nasadzie zwykle 1–4 cm grubości. Jest wachlarzowaty, nerkowaty lub półkolisty, płaski do lekko wypukłego i wklęsły ku trzonowi; owocniki wyrastające z zakopanych korzeni mogą być lejkowate. Sucha powierzchnia jest bladokremowa do ochrowej lub słomkowożółtej i pokryta dużymi, przylegającymi, brązowymi do czarnobrązowych łuskami ułożonymi w koncentryczne rzędy. Cienki brzeg jest początkowo podwinięty.",
+      "hymenium": "Rurki mają 5–10 mm długości, w dużych owocnikach do 15 mm, zbiegają na trzon i nie oddzielają się od miąższu. Pory są duże, kanciaste i nieregularne, szerokości około 1–3 mm, i tworzą plastrowatą powierzchnię, początkowo białą, potem kremową do bladoochrowożółtej, nieprzebarwiającą się po uciśnięciu. System strzępkowy jest dimityczny, a cystyd hymenialnych brak.",
+      "stipe": "Trzon jest krótki i krępy, długości 2–8 cm i grubości 1,5–6 cm, zwykle boczny lub mimośrodowy, a tylko rzadko centralny. Jest pełny i twardy, u góry białawy do kremowego, gdzie zbiegające pory tworzą siateczkowaty wzór, a jego podstawę pokrywa aksamitny, ciemnobrązowy do czarnego kutner, który z wiekiem rozszerza się ku górze.",
+      "flesh": "Miąższ jest biały, grubości 1–3 cm i nie zmienia barwy po przekrojeniu. U młodych owocników jest soczysty i dość miękki, ale wkrótce staje się korkowaty i skórzasty, zwłaszcza w trzonie i przy nasadzie. Zapach jest silnie mączny, często porównywany do ogórka, a smak łagodny, mączny do lekko orzechowego.",
+      "sporePrint": "Biały. Zarodniki mają 10–16 × 4–6 µm, są cylindryczne do wydłużenie elipsoidalnych, gładkie, cienkościenne, hialinowe i nieamyloidalne.",
+      "habitat": "Rośnie pojedynczo lub dachówkowato na pniach, pniakach, leżących kłodach i grubych gałęziach żywych i martwych drzew liściastych, często w miejscach zranień, czasem kilka metrów nad ziemią, a niekiedy z zakopanych korzeni. Częstymi żywicielami są wiąz, klon, w tym jawor, jesion, buk, kasztanowiec zwyczajny, orzech, lipa, topola i wierzba; na zachodzie Ameryki Północnej rośnie głównie na osice. Jest pospolity w parkach, alejach, ogrodach, sadach i lasach łęgowych. Owocniki pojawiają się od maja do sierpnia, najliczniej w maju i czerwcu, sporadycznie już w kwietniu lub jesienią.",
+      "uses": "Jada się tylko bardzo młode owocniki, których miąższ jest jeszcze na tyle miękki, że łatwo daje się kroić, a najlepszą częścią są delikatne zewnętrzne brzegi młodych kapeluszy. Kroi się je w cienkie plastry, sprawdza, czy nie są robaczywe, i dokładnie gotuje na małym ogniu; smaży się je, dodaje do zup, marynuje w occie albo suszy i miele na proszek przyprawowy. Ich wartość kulinarną ocenia się zwykle jako skromną, a u niektórych wrażliwych osób wywołują dolegliwości żołądkowe. Starsze owocniki są twarde, korkowate i szybko opanowane przez larwy owadów, dlatego się ich nie jada.",
+      "confusion": "Polyporus tuberaster jest mniejszy, ma bardziej okrągły kapelusz na bardziej centralnym trzonie, łuski ciemne tylko na końcach i orzęsiony brzeg; wyrasta z zakopanego sklerocjum lub na opadłych gałęziach i nie ma mącznego zapachu. Dorosły pniarek brzozowy (Fomitopsis betulina) może mieć podobny kształt, ale jest brązowy od góry i biały od spodu i rośnie tylko na brzozach.",
+      "notes": "Jako zgnilizna twardzieli żywych drzew jest groźnym czynnikiem rozkładu drewna drzew przydrożnych, parkowych i sadowniczych, w tym orzechów, i oczekuje się, że będzie częstszy na jesionach osłabionych przez zamieranie jesionu. Owocniki mogą rosnąć niezwykle szybko: jeden, odnotowany w Szkocji w 1810 roku, osiągnął w ciągu czterech tygodni obwód 2,3 m i masę 15,5 kg. Rozkładają się w ciągu kilku tygodni i są zjadane przez chrząszcze grzybowe, takie jak Dacne quadrimaculata i Tritoma humeralis, oraz przez larwy muchówek grzybowych."
+    },
+    "pt": {
+      "description": "Um grande fungo anual em forma de prateleira que cresce isolado ou em grupos imbricados sobre árvores folhosas vivas e mortas, onde é ao mesmo tempo parasita e decompositor e provoca uma podridão branca do cerne. É comum e amplamente distribuído na Europa, na Ásia temperada e na América do Norte, sobretudo a leste das Montanhas Rochosas, e ocorre também na Austrália.",
+      "cap": "O chapéu mede 10–30 cm de largura, excecionalmente até 60 cm, e junto à inserção tem geralmente 1–4 cm de espessura. É flabeliforme, reniforme ou semicircular, plano a ligeiramente convexo e deprimido em direção ao pé; os corpos frutíferos que nascem de raízes enterradas podem ser infundibuliformes. A superfície seca é creme-pálida a ocre ou amarelo-palha e coberta de grandes escamas apressas, castanhas a castanho-enegrecidas, dispostas em filas concêntricas. A margem fina é inicialmente enrolada.",
+      "hymenium": "Os tubos medem 5–10 mm de comprimento, até 15 mm nos corpos frutíferos grandes, são decorrentes no pé e não se separam da carne. Os poros são grandes, angulosos e irregulares, com cerca de 1–3 mm de largura, e formam uma superfície alveolada como um favo de mel, inicialmente branca, depois creme a amarelo-ocre-pálida, que não mancha quando pressionada. O sistema hifal é dimítico e não há cistídios himeniais.",
+      "stipe": "O pé é curto e robusto, com 2–8 cm de comprimento e 1,5–6 cm de espessura, geralmente lateral ou excêntrico e só raramente central. É cheio e tenaz, esbranquiçado a creme no topo, onde os poros decorrentes formam um desenho reticulado, e a base está coberta por uma penugem aveludada, castanho-escura a negra, que se estende para cima com a idade.",
+      "flesh": "A carne é branca, com 1–3 cm de espessura, e não muda de cor ao corte. Nos corpos frutíferos jovens é suculenta e bastante macia, mas depressa se torna suberosa e coriácea, sobretudo no pé e junto à inserção. O cheiro é fortemente farinhento, muitas vezes comparado ao pepino, e o sabor suave, farinhento a ligeiramente a noz.",
+      "sporePrint": "Branca. Os esporos medem 10–16 × 4–6 µm e são cilíndricos a alongado-elipsoides, lisos, de parede fina, hialinos e inamiloides.",
+      "habitat": "Cresce isolado ou em grupos imbricados em troncos, cepos, troncos caídos e ramos grossos de árvores folhosas vivas e mortas, muitas vezes em feridas e por vezes a vários metros do solo, e ocasionalmente a partir de raízes enterradas. Hospedeiros frequentes são o ulmeiro, o ácer, incluindo o bordo-sicómoro, o freixo, a faia, o castanheiro-da-índia, a nogueira, a tília, o choupo e o salgueiro; no oeste da América do Norte cresce sobretudo no choupo-tremedor-americano. É comum em parques, avenidas, jardins, pomares e florestas ribeirinhas. Os corpos frutíferos surgem de maio a agosto, com maior abundância em maio e junho, e ocasionalmente já em abril ou no outono.",
+      "uses": "Só se comem corpos frutíferos muito jovens, cuja carne ainda é suficientemente macia para se cortar com facilidade, e as bordas exteriores tenras dos chapéus jovens são a melhor parte. São cortados em fatias finas, verificados quanto a larvas e cozinhados cuidadosamente em lume brando; são fritos, usados em sopas, conservados em vinagre ou secos e moídos num pó condimentar. O seu valor culinário é geralmente considerado modesto, e algumas pessoas sensíveis têm perturbações de estômago ao comê-los. Os corpos frutíferos mais velhos são duros, suberosos e depressa infestados por larvas de insetos, e não se comem.",
+      "confusion": "Polyporus tuberaster é mais pequeno, com chapéu mais arredondado sobre um pé mais central, escamas escuras apenas na ponta e margem ciliada; nasce de um esclerócio enterrado ou em ramos caídos e não tem o cheiro farinhento. Um Fomitopsis betulina adulto pode ter uma forma semelhante, mas é castanho por cima e branco por baixo e cresce apenas em bétulas.",
+      "notes": "Como podridão do cerne de árvores vivas, é um importante agente de decomposição da madeira em árvores de arruamentos, parques e pomares, incluindo a nogueira, e espera-se que se torne mais frequente em freixos enfraquecidos pela morte-dos-ramos-do-freixo. Os corpos frutíferos podem crescer com uma rapidez notável: um registado na Escócia em 1810 atingiu em quatro semanas uma circunferência de 2,3 m e um peso de 15,5 kg. Decompõem-se em poucas semanas e são comidos por escaravelhos micófagos como Dacne quadrimaculata e Tritoma humeralis e por larvas de mosquitos-dos-fungos."
+    },
+    "ro": {
+      "description": "O ciupercă mare, anuală, în formă de consolă, care crește solitar sau în grupuri etajate pe arbori de foioase vii și morți, unde este atât parazit, cât și descompunător și provoacă putregaiul alb al duramenului. Este comună și larg răspândită în Europa, Asia temperată și America de Nord, mai ales la est de Munții Stâncoși, și apare și în Australia.",
+      "cap": "Pălăria are 10–30 cm în diametru, excepțional până la 60 cm, și lângă locul de prindere are de obicei 1–4 cm grosime. Este în formă de evantai, de rinichi sau semicirculară, plată până la ușor convexă și adâncită spre picior; corpurile fructifere care cresc din rădăcini îngropate pot fi în formă de pâlnie. Suprafața uscată este crem pal până la ocru sau galben-pai și acoperită cu solzi mari, aplatizați, bruni până la brun-negricioși, dispuși în rânduri concentrice. Marginea subțire este la început răsfrântă spre interior.",
+      "hymenium": "Tuburile au 5–10 mm lungime, până la 15 mm la corpurile fructifere mari, sunt decurente pe picior și nu se separă de carne. Porii sunt mari, unghiulari și neregulați, de circa 1–3 mm lățime, și formează o suprafață ca un fagure, la început albă, apoi crem până la galben-ocru pal, care nu se colorează la atingere. Sistemul hifal este dimitic, iar cistidele himeniale lipsesc.",
+      "stipe": "Piciorul este scurt și gros, lung de 2–8 cm și gros de 1,5–6 cm, de obicei lateral sau excentric și doar rar central. Este plin și tenace, albicios până la crem în partea superioară, unde porii decurenți formează un desen reticulat, iar baza este acoperită cu un puf catifelat, brun-închis până la negru, care se extinde în sus odată cu vârsta.",
+      "flesh": "Carnea este albă, groasă de 1–3 cm, și nu își schimbă culoarea la tăiere. La corpurile fructifere tinere este suculentă și destul de moale, dar devine curând suberoasă și pieloasă, mai ales în picior și lângă locul de prindere. Mirosul este puternic făinos, adesea comparat cu cel de castravete, iar gustul blând, făinos până la ușor de nucă.",
+      "sporePrint": "Albă. Sporii măsoară 10–16 × 4–6 µm și sunt cilindrici până la alungit elipsoidali, netezi, cu perete subțire, hialini și neamiloizi.",
+      "habitat": "Crește solitar sau în grupuri etajate pe trunchiuri, cioturi, trunchiuri căzute și ramuri groase ale arborilor de foioase vii și morți, adesea la răni și uneori la câțiva metri deasupra solului, iar ocazional din rădăcini îngropate. Gazde frecvente sunt ulmul, arțarul, inclusiv paltinul de munte, frasinul, fagul, castanul porcesc, nucul, teiul, plopul și salcia; în vestul Americii de Nord crește mai ales pe plopul tremurător american. Este comună în parcuri, alei, grădini, livezi și păduri de luncă. Corpurile fructifere apar din mai până în august, cel mai abundent în mai și iunie, ocazional deja în aprilie sau toamna.",
+      "uses": "Se consumă doar corpurile fructifere foarte tinere, a căror carne este încă destul de moale încât să se taie ușor, iar marginile exterioare fragede ale pălăriilor tinere sunt partea cea mai bună. Se taie în felii subțiri, se verifică să nu fie viermănoase și se gătesc bine la foc mic; se prăjesc, se pun în supe, se murează în oțet sau se usucă și se macină într-o pudră de condiment. Valoarea lor culinară este de obicei apreciată ca modestă, iar unor persoane sensibile le provoacă tulburări stomacale. Corpurile fructifere mai vechi sunt tari, suberoase și curând infestate de larve de insecte, așa că nu se consumă.",
+      "confusion": "Polyporus tuberaster este mai mică, cu pălăria mai rotunjită pe un picior mai central, solzi închiși la culoare doar la vârf și marginea ciliată; crește dintr-un scleroțiu îngropat sau pe ramuri căzute și nu are miros făinos. O iasca mesteacănului (Fomitopsis betulina) matură poate avea o formă asemănătoare, dar este brună deasupra și albă dedesubt și crește numai pe mesteceni.",
+      "notes": "Ca agent al putregaiului de duramen la arborii vii, este un descompunător important al lemnului arborilor de aliniament, din parcuri și din livezi, inclusiv al nucului, și se așteaptă să devină mai frecventă pe frasinii slăbiți de uscarea frasinului. Corpurile fructifere pot crește remarcabil de repede: unul, înregistrat în Scoția în 1810, a atins în patru săptămâni o circumferință de 2,3 m și o greutate de 15,5 kg. Se descompun în câteva săptămâni și sunt consumate de gândaci micofagi precum Dacne quadrimaculata și Tritoma humeralis și de larvele țânțarilor ciupercilor."
+    },
+    "ru": {
+      "description": "Крупный однолетний консолевидный гриб, растущий поодиночке или черепитчатыми группами на живых и мёртвых лиственных деревьях, где он является одновременно паразитом и разрушителем древесины и вызывает белую гниль ядровой древесины. Обычен и широко распространён в Европе, умеренной Азии и Северной Америке, особенно к востоку от Скалистых гор, встречается также в Австралии.",
+      "cap": "Шляпка 10–30 см в поперечнике, в исключительных случаях до 60 см, у места прикрепления обычно толщиной 1–4 см. Она веерообразная, почковидная или полукруглая, плоская или слегка выпуклая, к ножке вдавленная; плодовые тела, вырастающие из погребённых в почве корней, могут быть воронковидными. Сухая поверхность бледно-кремовая, охристая или соломенно-жёлтая, покрыта крупными прижатыми коричневыми или черновато-коричневыми чешуйками, расположенными концентрическими рядами. Тонкий край вначале подвёрнут.",
+      "hymenium": "Трубочки длиной 5–10 мм, у крупных плодовых тел до 15 мм, нисходящие на ножку и не отделяющиеся от мякоти. Поры крупные, угловатые и неправильные, около 1–3 мм в поперечнике, образуют сотовидную поверхность, сначала белую, затем кремовую или бледно-охристо-жёлтую, не изменяющую цвета при нажатии. Гифальная система димитическая, гимениальные цистиды отсутствуют.",
+      "stipe": "Ножка короткая и толстая, длиной 2–8 см и толщиной 1,5–6 см, обычно боковая или эксцентрическая и лишь изредка центральная. Она сплошная и жёсткая, вверху беловатая или кремовая, где нисходящие поры образуют сетчатый рисунок, а основание покрыто бархатистым тёмно-коричневым или чёрным войлоком, который с возрастом распространяется вверх.",
+      "flesh": "Мякоть белая, толщиной 1–3 см, на разрезе не изменяет цвета. У молодых плодовых тел она сочная и довольно мягкая, но вскоре становится пробковой и кожистой, особенно в ножке и у места прикрепления. Запах сильный, мучнистый, часто сравниваемый с огуречным, вкус мягкий, мучнистый или слегка ореховый.",
+      "sporePrint": "Белый. Споры 10–16 × 4–6 мкм, цилиндрические или удлинённо-эллипсоидные, гладкие, тонкостенные, гиалиновые, неамилоидные.",
+      "habitat": "Растёт поодиночке или черепитчатыми группами на стволах, пнях, валежных стволах и толстых ветвях живых и мёртвых лиственных деревьев, часто в местах повреждений и иногда на высоте нескольких метров, изредка из погребённых корней. Частые хозяева — вяз, клён, в том числе клён ложноплатановый, ясень, бук, конский каштан, грецкий орех, липа, тополь и ива; на западе Северной Америки растёт в основном на осине осинообразной. Обычен в парках, аллеях, садах и пойменных лесах. Плодовые тела появляются с мая по август, обильнее всего в мае и июне, изредка уже в апреле или осенью.",
+      "uses": "В пищу идут только очень молодые плодовые тела, мякоть которых ещё настолько мягкая, что легко режется, а лучшая часть — нежные наружные края молодых шляпок. Их нарезают тонкими ломтиками, проверяют на червивость и тщательно готовят на слабом огне; их жарят, добавляют в супы, маринуют в уксусе или сушат и размалывают в порошок-приправу. Кулинарная ценность обычно оценивается как скромная, а у некоторых чувствительных людей они вызывают расстройство желудка. Старые плодовые тела жёсткие, пробковые и вскоре поражаются личинками насекомых, их не едят.",
+      "confusion": "Polyporus tuberaster мельче, с более округлой шляпкой на более центральной ножке, чешуйками, тёмными только на кончиках, и реснитчатым краем; он растёт из погребённого в почве склероция или на опавших ветвях и лишён мучнистого запаха. Взрослый трутовик берёзовый (Fomitopsis betulina) может иметь сходную форму, но он сверху коричневый, снизу белый и растёт только на берёзах.",
+      "notes": "Как возбудитель ядровой гнили живых деревьев он является серьёзным разрушителем древесины уличных, парковых и садовых деревьев, включая грецкий орех, и ожидается, что он станет чаще встречаться на ясенях, ослабленных халаровым некрозом ясеня. Плодовые тела могут расти удивительно быстро: одно, отмеченное в Шотландии в 1810 году, за четыре недели достигло 2,3 м в окружности и массы 15,5 кг. Они разрушаются за несколько недель и служат пищей для жуков-грибоедов, таких как Dacne quadrimaculata и Tritoma humeralis, и для личинок грибных комариков."
+    },
+    "sk": {
+      "description": "Veľká jednoročná konzolovitá huba, ktorá rastie jednotlivo alebo v strechovitých skupinách na živých aj odumretých listnatých stromoch, kde je parazitom aj rozkladačom a spôsobuje bielu hnilobu jadrového dreva. Je hojná a rozšírená v Európe, miernej Ázii a Severnej Amerike, najmä východne od Skalistých hôr, a vyskytuje sa aj v Austrálii.",
+      "cap": "Klobúk má priemer 10–30 cm, výnimočne až 60 cm, a pri prirastení býva zvyčajne 1–4 cm hrubý. Je vejárovitý, obličkovitý alebo polkruhovitý, plochý až mierne klenutý a smerom k hlúbiku vtlačený; plodnice vyrastajúce zo zahrabaných koreňov môžu byť lievikovité. Suchý povrch je bledokrémový až okrový alebo slamovožltý a pokrývajú ho veľké pritisnuté hnedé až čiernohnedé šupiny usporiadané v sústredných radoch. Tenký okraj je spočiatku podvinutý.",
+      "hymenium": "Rúrky sú 5–10 mm dlhé, vo veľkých plodniciach až 15 mm, zbiehajú na hlúbik a neoddeľujú sa od dužiny. Póry sú veľké, hranaté a nepravidelné, približne 1–3 mm široké, a tvoria plástovitý povrch, ktorý je spočiatku biely, potom krémový až bledo okrovožltý a na otlačenie nemení farbu. Hýfový systém je dimitický a hymeniálne cystidy chýbajú.",
+      "stipe": "Hlúbik je krátky a zavalitý, 2–8 cm dlhý a 1,5–6 cm hrubý, zvyčajne postranný alebo výstredný a len zriedka centrálny. Je plný a tuhý, hore belavý až krémový, kde zbiehajúce póry vytvárajú sieťkovanú kresbu, a jeho bázu pokrýva zamatová tmavohnedá až čierna plsť, ktorá sa s vekom šíri smerom nahor.",
+      "flesh": "Dužina je biela, 1–3 cm hrubá a na reze nemení farbu. U mladých plodníc je šťavnatá a pomerne mäkká, no čoskoro korkovatie a stáva sa kožovitou, najmä v hlúbiku a pri prirastení. Vôňa je výrazne múčna, často prirovnávaná k uhorke, a chuť je mierna, múčna až slabo oriešková.",
+      "sporePrint": "Biely. Výtrusy merajú 10–16 × 4–6 µm, sú valcovité až dlho elipsoidné, hladké, tenkostenné, hyalínne a neamyloidné.",
+      "habitat": "Rastie jednotlivo alebo v strechovitých skupinách na kmeňoch, pňoch, kmeňoch na zemi a hrubých konároch živých aj odumretých listnatých stromov, často pri poraneniach a niekedy aj niekoľko metrov nad zemou, príležitostne aj zo zahrabaných koreňov. Častými hostiteľmi sú brest, javor vrátane javora horského, jaseň, buk, pagaštan konský, orech, lipa, topoľ a vŕba; na západe Severnej Ameriky rastie najmä na osike. Je hojná v parkoch, alejach, záhradách, sadoch a lužných lesoch. Plodnice sa objavujú od mája do augusta, najhojnejšie v máji a júni, ojedinele už v apríli alebo na jeseň.",
+      "uses": "Jedia sa len veľmi mladé plodnice, ktorých dužina je ešte taká mäkká, že sa dá ľahko krájať, a najlepšou časťou sú jemné vonkajšie okraje mladých klobúkov. Krájajú sa na tenké plátky, kontrolujú sa, či nie sú červivé, a dôkladne sa varia na miernom ohni; vyprážajú sa, pridávajú do polievok, nakladajú do octu alebo sa sušia a melú na koreniaci prášok. Ich kuchynská hodnota sa zvyčajne hodnotí ako skromná a niektorým citlivým ľuďom spôsobujú žalúdočné ťažkosti. Staršie plodnice sú tuhé, korkovité a čoskoro ich napadnú larvy hmyzu, preto sa nejedia.",
+      "confusion": "Polyporus tuberaster je menší, má okrúhlejší klobúk na centrálnejšom hlúbiku, šupiny tmavé len na špičkách a brvitý okraj; rastie zo zahrabaného sklerócia alebo na spadnutých konároch a nemá múčnu vôňu. Dospelý brezovník obyčajný (Fomitopsis betulina) môže mať podobný tvar, ale zhora je hnedý a zospodu biely a rastie len na brezách.",
+      "notes": "Ako hniloba jadrového dreva živých stromov je vážnym pôvodcom rozkladu dreva stromov v uliciach, parkoch a sadoch vrátane orechov a očakáva sa, že bude častejší na jaseňoch oslabených odumieraním jaseňa. Plodnice môžu rásť pozoruhodne rýchlo: jedna zaznamenaná v Škótsku v roku 1810 dosiahla za štyri týždne obvod 2,3 m a hmotnosť 15,5 kg. Do niekoľkých týždňov sa rozkladajú a živia sa nimi huboví chrobáky, ako Dacne quadrimaculata a Tritoma humeralis, a larvy hubových múch."
+    },
+    "sl": {
+      "description": "Velika enoletna gliva v obliki konzole, ki raste posamič ali v strehasto naloženih skupinah na živih in odmrlih listavcih, kjer je hkrati zajedavec in razkrojevalec ter povzroča belo trohnobo jedrovine. Je pogosta in splošno razširjena v Evropi, zmerni Aziji in Severni Ameriki, zlasti vzhodno od Skalnega gorovja, najdemo pa jo tudi v Avstraliji.",
+      "cap": "Klobuk je širok 10–30 cm, izjemoma do 60 cm, ob pritrditvi pa navadno debel 1–4 cm. Je pahljačast, ledvičast ali polkrožen, raven do rahlo izbočen in proti betu udrt; trosnjaki, ki rastejo iz zakopanih korenin, so lahko lijakasti. Suha površina je bledo kremasta do okrasta ali slamnato rumena in pokrita z velikimi, prileglimi, rjavimi do črnorjavimi luskami v koncentričnih vrstah. Tanek rob je sprva podvihan.",
+      "hymenium": "Cevke so dolge 5–10 mm, pri velikih trosnjakih do 15 mm, se spuščajo po betu in se ne ločijo od mesa. Luknjice so velike, oglate in nepravilne, široke približno 1–3 mm, ter tvorijo satasto površino, ki je sprva bela, nato kremasta do bledo okrasto rumena in na pritisk ne spremeni barve. Hifni sistem je dimitičen, himenijskih cistid ni.",
+      "stipe": "Bet je kratek in čokat, dolg 2–8 cm in debel 1,5–6 cm, navadno stranski ali izsrediščen in le redko osreden. Je poln in žilav, zgoraj belkast do kremast, kjer spuščajoče se luknjice tvorijo mrežast vzorec, njegovo dno pa pokriva žametna temno rjava do črna polst, ki se s starostjo širi navzgor.",
+      "flesh": "Meso je belo, debelo 1–3 cm in na prerezu ne spremeni barve. Pri mladih trosnjakih je sočno in precej mehko, a kmalu postane plutasto in usnjato, zlasti v betu in ob pritrditvi. Vonj je močno mokast, pogosto primerjan s kumaro, okus pa blag, mokast do rahlo orehov.",
+      "sporePrint": "Bel. Trosi merijo 10–16 × 4–6 µm in so valjasti do podolgovato elipsoidni, gladki, tankostenski, hialini in neamiloidni.",
+      "habitat": "Raste posamič ali v strehastih skupinah na deblih, štorih, ležečih deblih in debelih vejah živih in odmrlih listavcev, pogosto ob ranah in včasih več metrov nad tlemi, občasno tudi iz zakopanih korenin. Pogosti gostitelji so brest, javor, tudi gorski javor, jesen, bukev, divji kostanj, oreh, lipa, topol in vrba; na zahodu Severne Amerike raste predvsem na ameriški trepetliki. Pogosta je v parkih, drevoredih, vrtovih, sadovnjakih in obrečnih gozdovih. Trosnjaki se pojavljajo od maja do avgusta, najštevilneje maja in junija, posamič že aprila ali jeseni.",
+      "uses": "Jedo se le zelo mladi trosnjaki, katerih meso je še tako mehko, da se zlahka reže, najboljši del pa so nežni zunanji robovi mladih klobukov. Narežejo se na tanke rezine, pregledajo, ali niso črvivi, in temeljito skuhajo na zmernem ognju; ocvrejo se, dodajajo juham, vlagajo v kis ali posušijo in zmeljejo v začimbni prah. Njihova kulinarična vrednost velja običajno za skromno, nekaterim občutljivim ljudem pa povzročajo želodčne težave. Starejši trosnjaki so žilavi, plutasti in kmalu napadeni od žuželčjih ličink, zato se ne jedo.",
+      "confusion": "Polyporus tuberaster je manjši, z bolj okroglim klobukom na bolj osrednjem betu, luskami, ki so temne le na konicah, in resastim robom; raste iz zakopanega sklerocija ali na odpadlih vejah in nima mokastega vonja. Odrasla brezova kresilača (Fomitopsis betulina) je lahko podobne oblike, a je zgoraj rjava in spodaj bela ter raste le na brezah.",
+      "notes": "Kot povzročiteljica trohnobe jedrovine živih dreves je pomemben razkrojevalec lesa uličnih, parkovnih in sadnih dreves, tudi orehov, pričakuje pa se, da bo pogostejša na jesenih, oslabljenih zaradi jesenovega ožiga. Trosnjaki lahko rastejo izjemno hitro: eden, zabeležen na Škotskem leta 1810, je v štirih tednih dosegel obseg 2,3 m in maso 15,5 kg. V nekaj tednih razpadejo, hranijo pa se z njimi glivarji, kot sta Dacne quadrimaculata in Tritoma humeralis, ter ličinke glivnih komarjev."
+    },
+    "sr": {
+      "description": "Велика једногодишња гљива у облику конзоле која расте појединачно или у црепасто наслаганим групама на живом и мртвом листопадном дрвећу, где је истовремено паразит и разлагач и изазива белу трулеж срчике. Честа је и широко распрострањена у Европи, умереној Азији и Северној Америци, нарочито источно од Стеновитих планина, а јавља се и у Аустралији.",
+      "cap": "Шешир је пречника 10–30 cm, изузетно до 60 cm, а уз место причвршћења обично дебљине 1–4 cm. Лепезаст је, бубрежаст или полукружан, раван до благо испупчен и према дршци удубљен; плодишта која расту из закопаног корења могу бити левкаста. Сува површина је бледо крем до окер или сламастожута и прекривена крупним, прилеглим, смеђим до црнкастосмеђим љуспама у концентричним редовима. Танак обод је у почетку подвијен.",
+      "hymenium": "Цевчице су дуге 5–10 mm, код великих плодишта до 15 mm, силазе низ дршку и не одвајају се од меса. Поре су крупне, угласте и неправилне, ширине око 1–3 mm, и образују површину налик саћу, у почетку белу, затим крем до бледо окержуту, која на притисак не мења боју. Хифални систем је димитичан, а хименијалних цистида нема.",
+      "stipe": "Дршка је кратка и здепаста, дуга 2–8 cm и дебела 1,5–6 cm, обично бочна или ексцентрична и само ретко централна. Пуна је и жилава, при врху беличаста до крем, где силазне поре образују мрежаст цртеж, а њена основа је прекривена баршунастом, тамносмеђом до црном превлаком која се са старошћу шири навише.",
+      "flesh": "Месо је бело, дебело 1–3 cm и на пресеку не мења боју. Код младих плодишта сочно је и прилично меко, али убрзо постаје плутасто и кожасто, нарочито у дршци и уз место причвршћења. Мирис је јако брашнаст, често упоређиван с краставцем, а укус благ, брашнаст до благо орашаст.",
+      "sporePrint": "Бео. Споре су 10–16 × 4–6 μm, цилиндричне до издужено елипсоидне, глатке, танкозидне, хијалине и неамилоидне.",
+      "habitat": "Расте појединачно или у црепастим групама на стаблима, пањевима, обореним стаблима и дебелим гранама живих и мртвих листопадних стабала, често на ранама и понекад неколико метара изнад тла, а повремено и из закопаног корења. Чести домаћини су брест, јавор, укључујући горски јавор, јасен, буква, дивљи кестен, орах, липа, топола и врба; на западу Северне Америке расте углавном на америчкој јасики. Честа је у парковима, дрворедима, вртовима, воћњацима и плавним шумама. Плодишта се јављају од маја до августа, најобилније у мају и јуну, а повремено већ у априлу или у јесен.",
+      "uses": "Једу се само врло млада плодишта, чије је месо још толико меко да се лако сече, а најбољи део су нежне спољне ивице младих шешира. Секу се на танке кришке, проверавају да нису црвљива и темељно кувају на тихој ватри; прже се, додају у супе, киселе у сирћету или суше и мељу у прах за зачињавање. Њихова кулинарска вредност обично се оцењује као скромна, а неким осетљивим особама изазивају стомачне тегобе. Старија плодишта су жилава, плутаста и убрзо нападнута ларвама инсеката, па се не једу.",
+      "confusion": "Polyporus tuberaster је мањи, с округлијим шеширом на централнијој дршци, љуспама које су тамне само на врховима и трепавичастим ободом; расте из закопаног склероцијума или на опалим гранама и нема брашнаст мирис. Одрасла брезова губа (Fomitopsis betulina) може бити сличног облика, али је одозго смеђа, одоздо бела и расте само на брезама.",
+      "notes": "Као узрочник трулежи срчике живих стабала, она је озбиљан разлагач дрвета уличних, парковских и воћних стабала, укључујући орах, и очекује се да ће бити чешћа на јасенима ослабљеним сушењем јасена. Плодишта могу расти изузетно брзо: једно, забележено у Шкотској 1810. године, за четири недеље достигло је обим од 2,3 m и масу од 15,5 kg. Распадају се за неколико недеља, а њима се хране гљиварски тврдокрилци, као што су Dacne quadrimaculata и Tritoma humeralis, и ларве гљиварских мушица."
+    },
+    "sv": {
+      "description": "En stor, ettårig hyllformad svamp som växer ensam eller i taktegellagda grupper på levande och döda lövträd, där den är både parasit och nedbrytare och orsakar vitröta i kärnveden. Den är vanlig och vitt spridd i Europa, tempererade Asien och Nordamerika, särskilt öster om Klippiga bergen, och förekommer även i Australien.",
+      "cap": "Hatten är 10–30 cm bred, undantagsvis upp till 60 cm, och vid fästet oftast 1–4 cm tjock. Den är solfjäderformad, njurformad eller halvcirkelformad, platt till svagt välvd och nedsänkt mot foten; fruktkroppar som växer från nedgrävda rötter kan vara trattformade. Den torra ytan är blekt gräddvit till ockra eller halmgul och täckt av stora, tilltryckta, bruna till svartbruna fjäll i koncentriska rader. Den tunna kanten är först inböjd.",
+      "hymenium": "Rören är 5–10 mm långa, upp till 15 mm hos stora fruktkroppar, nedlöpande på foten och går inte att skilja från köttet. Porerna är stora, kantiga och oregelbundna, omkring 1–3 mm vida, och bildar en bikakeliknande yta som först är vit, sedan gräddfärgad till blekt ockragul och inte missfärgas vid tryck. Hyfsystemet är dimitiskt och hymeniala cystider saknas.",
+      "stipe": "Foten är kort och kraftig, 2–8 cm lång och 1,5–6 cm tjock, oftast sidoställd eller excentrisk och bara sällan central. Den är massiv och seg, upptill vitaktig till gräddfärgad, där de nedlöpande porerna bildar ett nätmönster, och basen är täckt av sammetslent, mörkbrunt till svart ludd som sprider sig uppåt med åldern.",
+      "flesh": "Köttet är vitt, 1–3 cm tjockt och ändrar inte färg i snitt. Hos unga fruktkroppar är det saftigt och ganska mjukt, men det blir snart korkartat och läderartat, särskilt i foten och vid fästet. Lukten är starkt mjölaktig, ofta jämförd med gurka, och smaken mild, mjölaktig till svagt nötaktig.",
+      "sporePrint": "Vitt. Sporerna mäter 10–16 × 4–6 µm och är cylindriska till långsträckt ellipsoida, släta, tunnväggiga, hyalina och inamyloida.",
+      "habitat": "Den växer ensam eller i taktegellagda grupper på stammar, stubbar, liggande stammar och grova grenar av levande och döda lövträd, ofta vid sår och ibland flera meter över marken, och ibland från nedgrävda rötter. Vanliga värdträd är alm, lönn inklusive tysklönn, ask, bok, hästkastanj, valnöt, lind, poppel och vide; i västra Nordamerika växer den främst på amerikansk asp. Den är vanlig i parker, alléer, trädgårdar, fruktodlingar och svämskogar. Fruktkropparna visar sig från maj till augusti, rikligast i maj och juni, och enstaka gånger redan i april eller på hösten.",
+      "uses": "Bara mycket unga fruktkroppar, vars kött fortfarande är så mjukt att det lätt går att skära, äts, och de möra ytterkanterna på unga hattar är den bästa delen. De skärs i tunna skivor, kontrolleras för larver och tillagas grundligt på svag värme, och de steks, används i soppor, läggs in i ättika eller torkas och mals till ett kryddpulver. Deras matvärde bedöms oftast som blygsamt, och en del känsliga personer får magbesvär av dem. Äldre fruktkroppar är sega, korkartade och snart angripna av insektslarver, och äts inte.",
+      "confusion": "Polyporus tuberaster är mindre, med en rundare hatt på en mer centralt placerad fot, fjäll som bara är mörka i spetsen och en fransad kant; den växer från ett nedgrävt sklerotium eller på nedfallna grenar och saknar mjöllukten. En fullvuxen björkticka (Fomitopsis betulina) kan ha en liknande form, men den är brun ovanpå och vit undertill och växer bara på björk.",
+      "notes": "Som kärnröta i levande träd är den en betydande vednedbrytare i gatu-, park- och fruktträd, bland annat valnöt, och den väntas bli vanligare på askar som försvagats av askskottsjuka. Fruktkropparna kan växa anmärkningsvärt snabbt: en som noterades i Skottland 1810 nådde på fyra veckor en omkrets av 2,3 m och en vikt av 15,5 kg. De bryts ner inom några veckor och äts av svampbaggar som Dacne quadrimaculata och Tritoma humeralis och av larver till svampmyggor."
+    },
+    "tr": {
+      "description": "Canlı ve ölü geniş yapraklı ağaçlarda tek başına ya da kiremit gibi üst üste dizilmiş gruplar hâlinde büyüyen, hem parazit hem de ayrıştırıcı olarak öz odunda beyaz çürüklüğe yol açan, büyük, tek yıllık ve raf biçimli bir mantar. Avrupa, ılıman Asya ve Kuzey Amerika'da, özellikle Rocky Dağları'nın doğusunda yaygın ve geniş yayılışlıdır; Avustralya'da da bulunur.",
+      "cap": "Şapka 10–30 cm genişliğinde, istisnai olarak 60 cm'ye kadar olup tutunma noktasının yakınında genellikle 1–4 cm kalınlığındadır. Yelpaze, böbrek ya da yarım daire biçimlidir, düz veya hafif dışbükeydir ve sapa doğru çukurlaşır; gömülü köklerden çıkan meyve gövdeleri huni biçimli olabilir. Kuru yüzey soluk krem ile okr ya da saman sarısı arasındadır ve eş merkezli sıralar hâlinde dizilmiş, yassı, yapışık, kahverengi ile siyahımsı kahverengi arası büyük pullarla kaplıdır. İnce kenar başlangıçta içe kıvrıktır.",
+      "hymenium": "Tüpler 5–10 mm, büyük meyve gövdelerinde 15 mm'ye kadar uzunluktadır, sap üzerine iner ve etten ayrılmaz. Gözenekler büyük, köşeli ve düzensizdir, yaklaşık 1–3 mm genişliğindedir ve önce beyaz, sonra krem ile soluk okr sarısı arası olan, bastırınca renk değiştirmeyen bal peteği benzeri bir yüzey oluşturur. Hif sistemi dimitiktir ve himenyal sistidler yoktur.",
+      "stipe": "Sap kısa ve tıknazdır, 2–8 cm uzunluğunda ve 1,5–6 cm kalınlığındadır; genellikle yanal ya da eksantriktir, yalnızca nadiren merkezîdir. Dolu ve serttir; üst kısmı beyazımsı ile krem arasındadır ve burada inen gözenekler ağ benzeri bir desen oluşturur; tabanı ise yaşla birlikte yukarı doğru yayılan kadifemsi, koyu kahverengi ile siyah arası bir tüylülükle kaplıdır.",
+      "flesh": "Et beyazdır, 1–3 cm kalınlığındadır ve kesilince renk değiştirmez. Genç meyve gövdelerinde sulu ve oldukça yumuşaktır, ancak kısa sürede özellikle sapta ve tutunma noktasında mantarımsı ve deri gibi sertleşir. Koku güçlü biçimde una benzer, çoğu zaman salatalığa benzetilir; tat hafif, unumsu ile hafifçe fındıksı arasındadır.",
+      "sporePrint": "Beyaz. Sporlar 10–16 × 4–6 µm, silindirik ile uzun elipsoidal arası, düz, ince çeperli, hiyalin ve inamiloiddir.",
+      "habitat": "Canlı ve ölü geniş yapraklı ağaçların gövdelerinde, kütüklerinde, devrik gövdelerinde ve kalın dallarında tek başına ya da kiremit gibi gruplar hâlinde, sıklıkla yaraların bulunduğu yerlerde ve bazen yerden birkaç metre yukarıda, ara sıra da gömülü köklerden büyür. Sık konakları karaağaç, dağ akçaağacı dâhil akçaağaçlar, dişbudak, kayın, at kestanesi, ceviz, ıhlamur, kavak ve söğüttür; Kuzey Amerika'nın batısında başlıca Amerikan titrek kavağı üzerinde büyür. Parklarda, ağaçlı yollarda, bahçelerde, meyve bahçelerinde ve taşkın ormanlarında yaygındır. Meyve gövdeleri mayıstan ağustosa kadar, en bol mayıs ve haziranda, ara sıra da daha nisanda ya da sonbaharda görülür.",
+      "uses": "Yalnızca eti hâlâ kolayca dilimlenecek kadar yumuşak olan çok genç meyve gövdeleri yenir; genç şapkaların yumuşak dış kenarları en iyi kısımdır. İnce dilimlenir, kurtlu olup olmadığı kontrol edilir ve kısık ateşte iyice pişirilir; kızartılır, çorbalarda kullanılır, sirkede turşusu yapılır ya da kurutulup baharat tozu olarak öğütülür. Mutfak değeri genellikle mütevazı kabul edilir ve bazı hassas kişilerde mide rahatsızlığına yol açar. Daha yaşlı meyve gövdeleri sert, mantarımsı ve kısa sürede böcek larvalarıyla dolu olduğundan yenmez.",
+      "confusion": "Polyporus tuberaster daha küçüktür; daha merkezî bir sap üzerinde daha yuvarlak bir şapkası, yalnızca uçları koyu pulları ve saçaklı bir kenarı vardır; gömülü bir sklerotyumdan ya da düşmüş dallar üzerinde büyür ve un kokusu yoktur. Tam gelişmiş bir Fomitopsis betulina benzer bir biçimde olabilir, ancak üstü kahverengi, altı beyazdır ve yalnızca huş ağaçlarında büyür.",
+      "notes": "Canlı ağaçlarda öz odun çürüklüğü etkeni olarak, ceviz dâhil sokak, park ve meyve ağaçlarında önemli bir odun ayrıştırıcısıdır ve dişbudak sürgün ölümüyle zayıflamış dişbudaklarda daha sık görülmesi beklenmektedir. Meyve gövdeleri dikkat çekici bir hızla büyüyebilir: 1810'da İskoçya'da kaydedilen biri dört haftada 2,3 m çevreye ve 15,5 kg ağırlığa ulaşmıştır. Birkaç hafta içinde çürürler ve Dacne quadrimaculata ile Tritoma humeralis gibi mantar böcekleri ve mantar sineklerinin larvaları tarafından yenirler."
+    },
+    "uk": {
+      "description": "Великий однорічний консолеподібний гриб, що росте поодинці або черепитчастими групами на живих і мертвих листяних деревах, де він є водночас паразитом і руйнівником деревини та спричиняє білу гниль ядрової деревини. Звичайний і широко поширений у Європі, помірній Азії та Північній Америці, особливо на схід від Скелястих гір, трапляється також в Австралії.",
+      "cap": "Шапинка 10–30 см у поперечнику, у виняткових випадках до 60 см, біля місця прикріплення зазвичай завтовшки 1–4 см. Вона віялоподібна, ниркоподібна або півкругла, пласка або злегка опукла, до ніжки вдавлена; плодові тіла, що виростають із закопаного коріння, можуть бути лійкоподібними. Суха поверхня блідо-кремова, вохриста або солом'яно-жовта, вкрита великими притиснутими коричневими або чорнувато-коричневими лусочками, розташованими концентричними рядами. Тонкий край спочатку підгорнутий.",
+      "hymenium": "Трубочки завдовжки 5–10 мм, у великих плодових тіл до 15 мм, низбігають на ніжку й не відокремлюються від м'якуша. Пори великі, кутасті й неправильні, близько 1–3 мм у поперечнику, утворюють стільникоподібну поверхню, спершу білу, потім кремову або блідо-вохристо-жовту, що не змінює кольору при натисканні. Гіфальна система димітична, гіменіальних цистид немає.",
+      "stipe": "Ніжка коротка й товста, завдовжки 2–8 см і завтовшки 1,5–6 см, зазвичай бічна або ексцентрична і лише зрідка центральна. Вона суцільна й жорстка, угорі білувата або кремова, де низбіжні пори утворюють сітчастий візерунок, а основа вкрита оксамитовою темно-коричневою або чорною повстю, яка з віком поширюється вгору.",
+      "flesh": "М'якуш білий, завтовшки 1–3 см, на розрізі не змінює кольору. У молодих плодових тіл він соковитий і досить м'який, але невдовзі стає корковим і шкірястим, особливо в ніжці й біля місця прикріплення. Запах сильний, борошнистий, часто порівнюваний з огірковим, смак м'який, борошнистий або злегка горіховий.",
+      "sporePrint": "Білий. Спори 10–16 × 4–6 мкм, циліндричні або видовжено-еліпсоїдні, гладенькі, тонкостінні, гіалінові, неамілоїдні.",
+      "habitat": "Росте поодинці або черепитчастими групами на стовбурах, пнях, повалених стовбурах і товстих гілках живих і мертвих листяних дерев, часто в місцях пошкоджень і іноді на висоті кількох метрів, зрідка із закопаного коріння. Часті господарі — в'яз, клен, зокрема клен-явір, ясен, бук, гіркокаштан, горіх волоський, липа, тополя й верба; на заході Північної Америки росте переважно на осиці осикоподібній. Звичайний у парках, алеях, садах і заплавних лісах. Плодові тіла з'являються з травня по серпень, найрясніше в травні й червні, зрідка вже у квітні або восени.",
+      "uses": "У їжу йдуть лише дуже молоді плодові тіла, м'якуш яких ще настільки м'який, що легко ріжеться, а найкраща частина — ніжні зовнішні краї молодих шапинок. Їх нарізають тонкими скибочками, перевіряють на червивість і ретельно готують на слабкому вогні; їх смажать, додають у супи, маринують в оцті або сушать і мелють на порошок-приправу. Кулінарну цінність зазвичай оцінюють як скромну, а в деяких чутливих людей вони спричиняють розлад шлунка. Старі плодові тіла жорсткі, коркові й невдовзі уражені личинками комах, їх не їдять.",
+      "confusion": "Polyporus tuberaster дрібніший, з більш округлою шапинкою на більш центральній ніжці, лусочками, темними лише на кінчиках, і війчастим краєм; він росте із закопаного склероція або на опалих гілках і не має борошнистого запаху. Доросла губка березова (Fomitopsis betulina) може мати схожу форму, але вона згори коричнева, знизу біла й росте лише на березах.",
+      "notes": "Як збудник ядрової гнилі живих дерев він є серйозним руйнівником деревини вуличних, паркових і садових дерев, зокрема горіха, і очікується, що він частіше траплятиметься на ясенах, ослаблених халарозом ясена. Плодові тіла можуть рости напрочуд швидко: одне, зафіксоване в Шотландії 1810 року, за чотири тижні досягло 2,3 м в обхваті й маси 15,5 кг. Вони руйнуються за кілька тижнів і є поживою для жуків-грибоїдів, як-от Dacne quadrimaculata і Tritoma humeralis, та для личинок грибних комариків."
+    },
+    "zh": {
+      "description": "一種大型的一年生架狀真菌，單生或呈覆瓦狀疊生於活的及死的闊葉樹上，兼具寄生者與分解者的身分，引起心材白色腐朽。常見於歐洲、溫帶亞洲及北美洲，尤其是落基山脈以東，分布廣泛，澳洲亦有分布。",
+      "cap": "菌蓋直徑10–30厘米，偶可達60厘米，近著生處通常厚1–4厘米。呈扇形、腎形或半圓形，平展至略凸，向菌柄處下凹；由埋於地下的樹根長出的子實體可呈漏斗形。乾燥的表面淡奶油色至赭色或稻草黃色，覆有呈同心圓排列、大而緊貼的褐色至黑褐色鱗片。薄的邊緣初時內捲。",
+      "hymenium": "菌管長5–10毫米，大型子實體可達15毫米，延生至菌柄上，不易與菌肉分離。孔口大，多角形且不規則，寬約1–3毫米，形成蜂巢狀表面，初為白色，後呈奶油色至淡赭黃色，按壓不變色。菌絲系統為二系菌絲，無子實層囊狀體。",
+      "stipe": "菌柄短而粗，長2–8厘米，粗1.5–6厘米，通常側生或偏生，僅偶爾中生。實心而堅韌，上部白色至奶油色，延生的孔口在此形成網紋，基部覆有天鵝絨狀的暗褐色至黑色絨毛，並隨生長向上擴展。",
+      "flesh": "菌肉白色，厚1–3厘米，切開不變色。幼嫩子實體的菌肉多汁而頗柔軟，但很快變為木栓質至革質，尤其在菌柄及著生處。氣味強烈似麵粉，常被比作黃瓜，味道溫和，似麵粉至略帶堅果味。",
+      "sporePrint": "白色。孢子10–16 × 4–6 μm，圓柱形至長橢圓形，光滑，薄壁，透明，非澱粉質。",
+      "habitat": "單生或覆瓦狀疊生於活的及死的闊葉樹的樹幹、樹樁、倒木和粗枝上，常見於傷口處，有時高出地面數米，偶爾也由埋於地下的樹根長出。常見寄主有榆樹、槭樹（包括歐亞槭）、白蠟樹、山毛櫸、歐洲七葉樹、胡桃、椴樹、楊樹和柳樹；在北美洲西部主要生於美洲山楊上。常見於公園、林蔭道、庭園、果園及河漫灘森林。子實體於5月至8月出現，以5月和6月最多，偶爾早在4月或於秋季發生。",
+      "uses": "僅食用非常幼嫩、菌肉仍軟到容易切開的子實體，幼嫩菌蓋柔軟的外緣是最好的部分。切成薄片，檢查有無蛆蟲，以小火徹底煮熟，可煎炒、煮湯、醋漬，或乾燥後磨成調味粉。其食用價值一般被評為普通，部分敏感的人食後會腸胃不適。較老的子實體堅韌如木栓，且很快被昆蟲幼蟲侵蝕，不宜食用。",
+      "confusion": "Polyporus tuberaster 較小，菌蓋較圓，菌柄較居中，鱗片僅尖端色深，邊緣有緣毛；它由埋於地下的菌核或落枝上長出，且沒有麵粉氣味。成熟的樺擬層孔菌 (Fomitopsis betulina) 形狀可能相似，但上面褐色、下面白色，且只生於樺樹上。",
+      "notes": "作為活立木的心材腐朽菌，它是行道樹、公園樹木和果樹（包括胡桃）的重要木材分解者，預計在因白蠟樹枯梢病而衰弱的白蠟樹上會更常見。子實體生長極為迅速：1810年在蘇格蘭記錄的一個子實體在四週內周長達2.3米、重達15.5公斤。子實體數週內即腐爛，是 Dacne quadrimaculata 和 Tritoma humeralis 等蕈甲以及蕈蚊幼蟲的食物。"
+    }
+  },
+  "synonyms": [
+    "Boletus squamosus",
+    "Polyporus squamosus",
+    "Polyporellus squamosus",
+    "Melanopus squamosus",
+    "Favolus squamosus",
+    "Bresadolia squamosa",
+    "Boletus juglandis",
+    "Polyporus juglandis",
+    "Boletus testaceus",
+    "Boletus cellulosus",
+    "Boletus polymorphus",
+    "Polyporus squamosus var. polymorphus",
+    "Agarico-pulpa ulmi",
+    "Boletus maximus",
+    "Polyporus ulmi",
+    "Polyporus michelii",
+    "Boletus michelii",
+    "Cerioporus michelii",
+    "Polyporus squamosus f. michelii",
+    "Polyporus flabelliformis",
+    "Polyporus biennis var. flabelliformis",
+    "Heteroporus biennis var. flabelliformis",
+    "Polyporus flabelliformis subsp. tigrinus",
+    "Polyporus juglandis var. pictus",
+    "Polyporus juglandis var. rangiferinus",
+    "Polyporus dissectus",
+    "Polyporus rostkowii",
+    "Polyporellus rostkowii",
+    "Cerioporus rostkowii",
+    "Polyporellus squamosus f. rostkowii",
+    "Polyporus squamosus f. rostkowii",
+    "Polyporus infundibuliformis",
+    "Polyporus squamosus var. crassipes",
+    "Polyporus squamosus var. levipes",
+    "Polyporus pallidus",
+    "Scenidium pallidum",
+    "Polyporus alpinus",
+    "Trametes retirugus",
+    "Polyporus retirugus",
+    "Polyporus squamosus f. apodominuta",
+    "Polyporus squamosus var. maximus",
+    "Bresadolia caucasica",
+    "Polyporus squamatus",
+    "Polyporellus squamatus",
+    "Polyporus squamosus var. maculatus",
+    "Polyporellus squamosus subsp. granulisquamosus",
+    "Polyporus squamosus var. glaber",
+    "Polyporus westii"
+  ],
+  "reserved": false
+},
+{
+  "id": 173,
+  "name": "Mucidula mucida",
+  "author": "(Schrad.) Pat.",
+  "family": "Physalacriaceae",
+  "genus": "Mucidula",
+  "order": "Agaricales",
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white"
+  ],
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Physalacriaceae",
+    "Mucidula"
+  ],
+  "summary": [
+    "Agaricales",
+    "Physalacriaceae",
+    "Mucidula"
+  ],
+  "added": "2026-11-16",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/Mucidula_mucida@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/Mucidula_mucida@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" per the owner default (t85u: assume signature Gemini unless told otherwise; metadata only). The supplied file \"Mucidula mucida.png\" (from ~/Downloads) is a JPEG/JFIF illustration that appears AI-generated (an existing \"Gemini\" mark at bottom right, kept as found; no caption or plate number); it is not a documented botanical plate. Anatomy mismatches: opaque rather than slimy caps, crowded fine gills (species has distant broad gills), plain white stems, shown on a fallen log.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/Mucidula_mucida@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm1.webp",
+      "author": "parlie",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/435791319"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm2.webp",
+      "author": "sylvainm_53",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/755542077"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm3.webp",
+      "author": "fungi-2-b-with",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/177476322"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm4.webp",
+      "author": "micrausch",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/579924943"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm5.webp",
+      "author": "visarend",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/740967108"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Physalacriaceae/Mucidula_mucida/Mucidula_mucida@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Mucidula_mucida/Mucidula_mucida@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing \"Gemini\" mark kept exactly as found (alpha only); nothing erased besides paper; no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm1.webp",
+      "author": "parlie",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/435791319"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm2.webp",
+      "author": "sylvainm_53",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/755542077"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm3.webp",
+      "author": "fungi-2-b-with",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/177476322"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm4.webp",
+      "author": "micrausch",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/579924943"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Physalacriaceae/Mucidula_mucida/mm5.webp",
+      "author": "visarend",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/740967108"
+    }
+  ],
+  "capFrom": 2.0,
+  "capTo": 8.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 1.0,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "label": {
+    "ar": null,
+    "bg": "порцеланова припънка",
+    "cs": "slizečka porcelánová",
+    "da": "porcelænshat",
+    "de": "Beringter Schleimrübling",
+    "en": "porcelain fungus",
+    "es": "mucídula viscosa",
+    "et": "portselanseen",
+    "fa": null,
+    "fi": "posliinisieni",
+    "fr": "mucidule visqueuse",
+    "he": null,
+    "hi": null,
+    "hr": null,
+    "hu": "gyűrűs fülőke",
+    "id": null,
+    "it": null,
+    "ja": "ヌメリツバタケ",
+    "ko": null,
+    "lt": null,
+    "lv": null,
+    "nl": "porseleinzwam",
+    "no": "porselenshatt",
+    "pl": "monetka bukowa",
+    "pt": null,
+    "ro": "ciupercă de porțelan",
+    "ru": "удемансиелла слизистая",
+    "sk": "sliznačka obyčajná",
+    "sl": null,
+    "sr": "слузава коренка",
+    "sv": "porslinsskivling",
+    "tr": null,
+    "uk": "удемансіелла слизиста",
+    "zh": "黏小奧德蘑"
+  },
+  "names": {
+    "ar": [],
+    "bg": [
+      "порцеланка"
+    ],
+    "cs": [
+      "slizečka slizká"
+    ],
+    "da": [],
+    "de": [
+      "Buchen-Schleimrübling"
+    ],
+    "en": [
+      "porcelain mushroom",
+      "beech tuft",
+      "poached egg fungus",
+      "beech agaric"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "collybie visqueuse"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "monetka kleista"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [
+      "порцеланска гљива",
+      "ледењача"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "霉狀小奧德蘑"
+    ]
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=456952",
+        "detail": "456952"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=456952",
+        "detail": "456952"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2537081",
+        "detail": "2537081"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q54371399"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Oudemansiella_mucida"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/oudemansiella-mucida.php"
+      },
+      {
+        "group": "text",
+        "name": "nahuby.sk",
+        "href": "https://www.nahuby.sk/atlas-hub/Mucidula-mucida/sliznacka-obycajna/slizecka-porcelanova/ID613"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Oudemansiella-mucida/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Buchen-Schleimrübling",
+        "detail": "German"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Monetka_bukowa",
+        "detail": "Polish"
+      }
+    ],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Порцеланова_припънка"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Oudemansiella-mucida/",
+      "https://cs.wikipedia.org/wiki/Slizečka_porcelánová",
+      "https://api.gbif.org/v1/species/2537081/vernacularNames"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2537081/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/5243647/vernacularNames",
+      "https://de.wikipedia.org/wiki/Buchen-Schleimrübling"
+    ],
+    "es": [
+      "https://es.wikipedia.org/wiki/Oudemansiella_mucida"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Portselanseen"
+    ],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Posliinisieni"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Mucidule_visqueuse",
+      "https://api.gbif.org/v1/species/2537081/vernacularNames"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Gyűrűs_fülőke"
+    ],
+    "ja": [
+      "https://api.gbif.org/v1/species/5243647/vernacularNames"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Porseleinzwam",
+      "https://api.gbif.org/v1/species/5243647/vernacularNames"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/2537081/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Monetka_bukowa"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Ciupercă_de_porțelan"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Удемансиелла_слизистая"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Mucidula-mucida/sliznacka-obycajna/slizecka-porcelanova/ID613",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=456952",
+      "https://www.gbif.org/species/2537081"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Слузава_коренка"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/2537081/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Porslinsskivling"
+    ],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Удемансіелла_слизиста"
+    ],
+    "zh": [
+      "https://zh.wikipedia.org/wiki/黏小奧德蘑",
+      "https://api.gbif.org/v1/species/2537081/vernacularNames"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر صفائحي أبيض لزج ذو حلقة، ينمو في عناقيد على خشب الزان، على الجذوع الميتة والأغصان الساقطة وكذلك عاليًا على الأشجار الحية، حيث يعمل محلِّلًا وطفيليًا ضعيفًا يسبب عفنًا أبيض. وهو شائع في كامل شمال أوروبا ووسطها حيثما ينمو الزان، وسُجِّل أيضًا في شرق آسيا، في اليابان وكوريا وتايوان.",
+      "cap": "يبلغ قطر القبعة ٢–٨ سم، وأحيانًا حتى ١٠ سم. تكون في البداية نصف كروية، ثم محدبة ثم أكثر تسطحًا لاحقًا، لكنها كثيرًا ما تبقى مقببة على نطاق واسع. القبعات الفتية رمادية شاحبة، ثم تصبح بيضاء ناصعة إلى عاجية، وغالبًا ما يكون مركزها مشوبًا بلون مغري. في الطقس الرطب يغطي السطحَ طبقةٌ سميكة لامعة من المخاط ويكون شفافًا كالخزف، فتظهر الصفائح من خلاله خطوطًا شعاعية نحو الحافة؛ وفي الطقس الجاف يكون حريريًا وغير لامع. تتكون بشرة القبعة من خلايا منتصبة هراوية الشكل.",
+      "hymenium": "الصفائح عريضة وسميكة ومتباعدة جدًا، وبينها صفائح وسيطة أقصر كثيرة، ملتصقة أو مثلومة بسنٍّ قصيرة نازلة. وهي بيضاء شفافة وقد تكتسب أحيانًا مسحة مغرية مع التقدم في العمر. وتوجد بين البازيدات أكياس كبيرة رقيقة الجدار، أسطوانية إلى قِربية الشكل.",
+      "stipe": "طول الساق ٣–١٠ سم وسمكها ٠٫٣–١ سم، وهي أسطوانية متينة وكثيرًا ما تكون منحنية، بحيث تُحمل القبعات النامية على الجانب السفلي لغصن أو جذع أفقيًا وصفائحها متجهة إلى الأسفل. وفي ثلثها العلوي حلقة كبيرة بيضاء غشائية، محززة على وجهها العلوي. فوق الحلقة تكون الساق بيضاء مخططة تخطيطًا دقيقًا، وتحتها حرشفية قليلًا ورمادية إلى بنية، ولا سيما في الأجسام الثمرية الأكبر سنًا.",
+      "flesh": "اللحم رقيق أبيض شفاف، طري ومرن في القبعة وليفي في الساق. لا يتغير لونه عند القطع وليست له رائحة أو طعم مميز.",
+      "sporePrint": "أبيض، وغزير إلى حد أنه كثيرًا ما يغبّر محيط الأجسام الثمرية. الأبواغ شبه كروية، ملساء، سميكة الجدار جدًا وعديمة اللون، ١٣–١٨ × ١٢–١٥ ميكرومتر، وأحيانًا حتى ٢٠ × ١٨ ميكرومتر.",
+      "habitat": "ينمو في عناقيد أو مجموعات صغيرة، ونادرًا منفردًا، على جذوع الزان وجذوله وأغصانه، سواء على الخشب الساقط حديثًا أو المتضرر من العواصف أو على الأغصان الميتة عاليًا في الأشجار الحية، وهو أكثر شيوعًا في المناطق التلية والجبلية وفي غابات الزان القديمة. ولا يستعمر الأشجار عريضة الأوراق الأخرى مثل البلوط إلا نادرًا، والتنوب نادرًا جدًا. تظهر الأجسام الثمرية من أواخر الصيف إلى أواخر الخريف، من يوليو إلى أكتوبر في بريطانيا ووسط أوروبا وحتى نوفمبر في التشيك وسلوفاكيا.",
+      "uses": "يؤكل بعد غسل المخاط جيدًا أو تقشير بشرة القبعة، لكن لحمه رقيق ويكاد يكون عديم الطعم، فقيمته قليلة ولا يُستعمل في أحسن الأحوال إلا ممزوجًا بأنواع ألذ؛ وتصنفه بعض المصادر غير صالح للأكل. وقد استُخلصت من غزله الفطري المادة المضادة للفطريات ستروبيلورين أ، المعروفة أيضًا باسم موسيدين، والتي يمكن استخدامها لعلاج الالتهابات الفطرية الجلدية.",
+      "confusion": "يكاد يكون من المستحيل الخلط بينه وبين غيره: لا يوجد فطر آخر ينمو على الخشب له قبعة بهذا البياض الناصع والشفافية واللزوجة الخزفية مع حلقة غشائية وارتباط وثيق بالزان. وتفتقر الفطريات البيضاء الأخرى إلى القبعة الشفافة الدهنية وإلى الارتباط بالزان.",
+      "notes": "يفرز الفطر مركبات الستروبيلورين، وهي مضادات فطرية قوية تُبعد الفطريات المنافسة عن خشب الزان الذي يستعمره؛ وقد كانت نموذجًا لمجموعة مهمة من مبيدات الفطريات الزراعية. وفي أيام الخريف العاصفة يمكن رؤية أجسام ثمرية انفصلت عن الأغصان العالية وهي تهبط ببطء كمظلات صغيرة."
+    },
+    "bg": {
+      "description": "Бяла, слузеста пластинчата гъба с пръстен, която расте на туфи върху буково дърво, по мъртви стволове и паднали клони, както и високо по живи дървета, където е разградител и слаб паразит, причиняващ бяло гниене. Обикновена е в цяла Северна и Централна Европа навсякъде, където расте бук, и е съобщавана и от Източна Азия – Япония, Корея и Тайван.",
+      "cap": "Шапката е с диаметър 2–8 cm, понякога до 10 cm. Отначало е полукълбовидна, после изпъкнала и по-късно по-сплескана, но често остава широко изпъкнала. Младите шапки са бледосивкави и стават чисто бели до слонова кост, в центъра често с охрен оттенък. Във влажно време повърхността е покрита с дебел, лъскав слой слуз и шапката е прозрачна като порцелан, така че пластинките прозират към ръба като радиални линии; в сухо време е копринена и матова. Кожицата на шапката е изградена от изправени, бухалковидни клетки.",
+      "hymenium": "Пластинките са широки, дебели и много редки, с множество по-къси междинни пластинки, приросли или изрязани с къс низбягващ зъбец. Те са прозрачно бели и с възрастта понякога придобиват охрен оттенък. Между базидиите има големи, тънкостенни, цилиндрични до мехуровидни цистиди.",
+      "stipe": "Пънчето е дълго 3–10 cm и дебело 0,3–1 cm, цилиндрично, жилаво и често извито, така че шапките, растящи от долната страна на клон или ствол, се държат хоризонтално с пластинките надолу. В горната третина има голям, бял, ципест пръстен, набразден от горната страна. Над пръстена пънчето е бяло и фино набраздено, под него – леко люспесто и сивкаво до кафеникаво, особено при по-старите плодни тела.",
+      "flesh": "Месото е тънко, бяло и прозрачно, в шапката меко и еластично, а в пънчето влакнесто. При разрязване не променя цвета си и няма изразен мирис или вкус.",
+      "sporePrint": "Бял и толкова обилен, че често напрашава околността на плодните тела. Спорите са почти кълбовидни, гладки, с много дебели стени и безцветни, 13–18 × 12–15 µm, понякога до 20 × 18 µm.",
+      "habitat": "Расте на туфи или малки групи, рядко поединично, по стволове, пънове и клони на бук, както върху наскоро паднала или повредена от буря дървесина, така и по мъртви клони високо в живи дървета, и е най-честа в хълмисти и планински райони и в девствени букови гори. Други широколистни дървета като дъба заселва само рядко, а смърча много рядко. Плодните тела се появяват от късното лято до късната есен – от юли до октомври във Великобритания и Централна Европа и до ноември в Чехия и Словакия.",
+      "uses": "Ядлива е, след като слузта се измие старателно или кожицата на шапката се обели, но месото е тънко и почти безвкусно, затова има малка стойност и най-много се смесва с по-вкусни видове; някои източници я посочват като негодна за ядене. От мицела ѝ е получено противогъбичното вещество стробилурин А, наричано още муцидин, което може да се използва за лечение на гъбични кожни инфекции.",
+      "confusion": "Практически е незаменима: никоя друга гъба, растяща по дърво, няма толкова чисто бяла, прозрачна, порцеланово слузеста шапка заедно с ципест пръстен и тясна връзка с бука. Другите бели гъби нямат прозрачната, мазна шапка и връзката с бука.",
+      "notes": "Гъбата отделя стробилурини – силни противогъбични съединения, които държат конкурентните гъби далеч от буковата дървесина, която заселва; те са послужили за образец на важна група селскостопански фунгициди. В ветровити есенни дни могат да се видят плодни тела, откъснати от високите клони, да се спускат бавно като малки парашути."
+    },
+    "cs": {
+      "description": "Bílá, slizká lupenatá houba s prstenem, která roste v trsech na bukovém dřevě, na odumřelých kmenech a spadlých větvích i vysoko na živých stromech, kde je rozkladačem a slabým parazitem způsobujícím bílou hnilobu. Je běžná v celé severní a střední Evropě všude, kde roste buk, a zaznamenána je také ve východní Asii, v Japonsku, Koreji a na Tchaj-wanu.",
+      "cap": "Klobouk je široký 2–8 cm, výjimečně až 10 cm. Nejprve je polokulovitý, pak sklenutý a později plošší, často však zůstává široce klenutý. Mladé klobouky jsou bledě našedlé, později čistě bílé až slonovinové, ve středu často s okrovým nádechem. Za vlhka pokrývá povrch silná lesklá vrstva slizu a klobouk je průsvitný jako porcelán, takže lupeny prosvítají jako paprsčité čárky směrem k okraji; za sucha je hedvábný a matný. Pokožku klobouku tvoří vzpřímené kyjovité buňky.",
+      "hymenium": "Lupeny jsou široké, tlusté a velmi řídké, s hojnými kratšími lupénky, připojené nebo vykrojené s krátkým sbíhavým zoubkem. Jsou průsvitně bílé a stářím někdy dostávají okrový odstín. Mezi bazidiemi se vyskytují velké tenkostěnné válcovité až měchýřkovité cystidy.",
+      "stipe": "Třeň je 3–10 cm dlouhý a 0,3–1 cm tlustý, válcovitý, houževnatý a často zakřivený, takže klobouky rostoucí zespodu větve nebo kmene jsou drženy vodorovně lupeny dolů. V horní třetině je velký bílý blanitý prsten, na horní straně rýhovaný. Nad prstenem je třeň bílý a jemně rýhovaný, pod ním mírně šupinatý a šedavý až hnědavý, zvláště u starších plodnic.",
+      "flesh": "Dužnina je tenká, bílá a průsvitná, v klobouku měkká a pružná, ve třeni vláknitá. Na řezu nemění barvu a nemá výraznou vůni ani chuť.",
+      "sporePrint": "Bílý a tak hojný, že často poprašuje okolí plodnic. Výtrusy jsou téměř kulovité, hladké, velmi tlustostěnné a bezbarvé, 13–18 × 12–15 µm, výjimečně až 20 × 18 µm.",
+      "habitat": "Roste v trsech nebo malých skupinách, vzácně jednotlivě, na kmenech, pařezech a větvích buku, na čerstvě spadlém nebo bouří poškozeném dřevě i na odumřelých větvích vysoko na živých stromech, a nejhojnější je v pahorkatinách a horách a v pralesovitých bučinách. Jiné listnáče, například dub, osidluje jen vzácně a smrk velmi vzácně. Plodnice se objevují od pozdního léta do pozdního podzimu, v Británii a střední Evropě od července do října, v Česku a na Slovensku až do listopadu.",
+      "uses": "Je jedlá, pokud se sliz důkladně omyje nebo se stáhne pokožka klobouku, dužnina je však tenká a téměř bez chuti, takže má malou hodnotu a hodí se nanejvýš do směsi s chuťově výraznějšími druhy; některé zdroje ji uvádějí jako nejedlou. Z jejího mycelia byla získána protiplísňová látka strobilurin A, nazývaná také mucidin, kterou lze použít k léčbě kožních mykóz.",
+      "confusion": "Je prakticky nezaměnitelná: žádná jiná houba rostoucí na dřevě nemá tak čistě bílý, průsvitný, porcelánově slizký klobouk spolu s blanitým prstenem a úzkou vazbou na buk. Jiným bílým houbám chybí průsvitný mastný klobouk a vazba na buk.",
+      "notes": "Houba vylučuje strobiluriny, silné protiplísňové látky, které udržují konkurenční houby mimo bukové dřevo, jež osidluje; staly se předlohou důležité skupiny zemědělských fungicidů. Za větrných podzimních dnů lze vidět plodnice uvolněné z vysokých větví, jak se snášejí k zemi jako malé padáky."
+    },
+    "da": {
+      "description": "En hvid, slimet bladsvamp med ring, der vokser i knipper på bøgetræ, på døde stammer og nedfaldne grene og højt oppe i levende træer, hvor den er nedbryder og svag parasit og forårsager hvidmuld. Den er almindelig i hele Nord- og Mellemeuropa overalt, hvor bøg vokser, og er også kendt fra Østasien, fra Japan, Korea og Taiwan.",
+      "cap": "Hatten er 2–8 cm bred, undertiden op til 10 cm. Den er først halvkugleformet, derefter hvælvet og senere fladere, men forbliver ofte bredt hvælvet. Unge hatte er blegt grålige og bliver rent hvide til elfenbensfarvede, ofte med et okkerfarvet skær i midten. I vådt vejr er overfladen dækket af et tykt, blankt slimlag og gennemskinnelig som porcelæn, så lamellerne skinner igennem som radiære linjer mod randen; i tørt vejr er den silkeagtig og mat. Hathuden består af oprette, køllformede celler.",
+      "hymenium": "Lamellerne er brede, tykke og meget fjerntstillede, med mange kortere mellemlameller, og tilvoksede eller udrandede med en kort nedløbende tand. De er gennemskinnelig hvide og får undertiden en okkerfarvet tone med alderen. Mellem basidierne findes store, tyndvæggede, cylindriske til sækformede cystider.",
+      "stipe": "Stokken er 3–10 cm lang og 0,3–1 cm tyk, cylindrisk, sej og ofte krum, så hatte, der vokser på undersiden af en gren eller stamme, holdes vandret med lamellerne nedad. En stor, hvid, hindeagtig ring i den øverste tredjedel er furet på oversiden. Over ringen er stokken hvid og fint stribet, under den svagt skællet og grålig til brunlig, især hos ældre frugtlegemer.",
+      "flesh": "Kødet er tyndt, hvidt og gennemskinneligt, blødt og elastisk i hatten og trævlet i stokken. Det skifter ikke farve ved snit og har ingen særlig lugt eller smag.",
+      "sporePrint": "Hvidt og så rigeligt, at det ofte pudrer omgivelserne omkring frugtlegemerne. Sporerne er næsten kugleformede, glatte, meget tykvæggede og farveløse, 13–18 × 12–15 µm, undertiden op til 20 × 18 µm.",
+      "habitat": "Den vokser i knipper eller små grupper, sjældent enkeltvis, på stammer, stubbe og grene af bøg, både på nyligt væltet eller stormskadet ved og på døde grene højt oppe i levende træer, og er hyppigst i bakke- og bjergegne og i urskovsagtige bøgeskove. Andre løvtræer som eg bruges kun sjældent, og gran meget sjældent. Frugtlegemerne viser sig fra sensommer til senefterår, fra juli til oktober i Storbritannien og Mellemeuropa og indtil november i Tjekkiet og Slovakiet.",
+      "uses": "Den er spiselig, når slimet er grundigt vasket af eller hathuden trukket af, men kødet er tyndt og næsten smagløst, så den har ringe værdi og bruges højst blandet med mere velsmagende arter; nogle kilder angiver den som uspiselig. Det svampehæmmende stof strobilurin A, også kaldet mucidin, blev udvundet af dens mycelium og kan bruges til behandling af svampeinfektioner i huden.",
+      "confusion": "Den er praktisk talt umulig at forveksle: ingen anden svamp på ved har en så rent hvid, gennemskinnelig, porcelænsagtig slimet hat sammen med en hindeagtig ring og en tæt binding til bøg. Andre hvide svampe mangler den gennemskinnelige, fedtede hat og tilknytningen til bøg.",
+      "notes": "Svampen udskiller strobiluriner, kraftige svampehæmmende stoffer, der holder konkurrerende svampe væk fra det bøgetræ, den koloniserer; de har været forbillede for en vigtig gruppe svampemidler i landbruget. På blæsende efterårsdage kan man se frugtlegemer, der er revet løs fra høje grene, dale ned som små faldskærme."
+    },
+    "de": {
+      "description": "Ein weißer, schleimiger, beringter Blätterpilz, der büschelig auf Buchenholz wächst, an toten Stämmen und abgefallenen Ästen ebenso wie hoch oben an lebenden Bäumen, wo er als Zersetzer und schwacher Parasit eine Weißfäule verursacht. Er ist in ganz Nord- und Mitteleuropa überall dort häufig, wo Buchen wachsen, und ist auch aus Ostasien bekannt, aus Japan, Korea und Taiwan.",
+      "cap": "Der Hut ist 2–8 cm breit, gelegentlich bis 10 cm. Er ist anfangs halbkugelig, dann gewölbt und später flacher, bleibt aber oft breit gewölbt. Junge Hüte sind blassgrau, dann reinweiß bis elfenbeinfarben, in der Mitte oft mit ockerfarbenem Anflug. Bei feuchtem Wetter ist die Oberfläche mit einer dicken, glänzenden Schleimschicht bedeckt und durchscheinend wie Porzellan, sodass die Lamellen zum Rand hin als radiale Linien durchscheinen; bei Trockenheit ist sie seidig und matt. Die Huthaut besteht aus aufrechten, keulenförmigen Zellen.",
+      "hymenium": "Die Lamellen sind breit, dick und sehr entfernt stehend, mit vielen kürzeren Zwischenlamellen, und angewachsen oder ausgebuchtet mit einem kurzen herablaufenden Zahn. Sie sind durchscheinend weiß und nehmen im Alter manchmal einen ockerfarbenen Ton an. Zwischen den Basidien kommen große, dünnwandige, zylindrische bis utriforme Zystiden vor.",
+      "stipe": "Der Stiel ist 3–10 cm lang und 0,3–1 cm dick, zylindrisch, zäh und oft gebogen, sodass Hüte an der Unterseite eines Astes oder Stammes waagerecht mit den Lamellen nach unten gehalten werden. Ein großer, weißer, häutiger Ring im oberen Drittel ist auf der Oberseite gerieft. Oberhalb des Rings ist der Stiel weiß und fein gestreift, unterhalb leicht schuppig und gräulich bis bräunlich, besonders bei älteren Fruchtkörpern.",
+      "flesh": "Das Fleisch ist dünn, weiß und durchscheinend, im Hut weich und elastisch, im Stiel faserig. Es verfärbt sich im Schnitt nicht und hat keinen besonderen Geruch oder Geschmack.",
+      "sporePrint": "Weiß und so reichlich, dass es oft die Umgebung der Fruchtkörper bestäubt. Die Sporen sind fast kugelig, glatt, sehr dickwandig und farblos, 13–18 × 12–15 µm, gelegentlich bis 20 × 18 µm.",
+      "habitat": "Er wächst in Büscheln oder kleinen Gruppen, selten einzeln, an Stämmen, Stümpfen und Ästen der Buche, sowohl an frisch gefallenem oder sturmgeschädigtem Holz als auch an toten Ästen hoch oben in lebenden Bäumen, und ist im Hügel- und Bergland und in urwaldartigen Buchenwäldern am häufigsten. Andere Laubbäume wie Eichen besiedelt er nur selten, Fichten sehr selten. Die Fruchtkörper erscheinen vom Spätsommer bis zum Spätherbst, in Großbritannien und Mitteleuropa von Juli bis Oktober, in Tschechien und der Slowakei bis November.",
+      "uses": "Er ist essbar, wenn der Schleim gründlich abgewaschen oder die Huthaut abgezogen wird, doch das Fleisch ist dünn und fast geschmacklos, sodass er wenig Wert hat und höchstens mit schmackhafteren Arten gemischt wird; manche Quellen führen ihn als ungenießbar. Aus seinem Myzel wurde der pilzhemmende Wirkstoff Strobilurin A, auch Mucidin genannt, gewonnen, der zur Behandlung von Hautpilzerkrankungen eingesetzt werden kann.",
+      "confusion": "Er ist praktisch unverwechselbar: Kein anderer holzbewohnender Pilz hat einen so reinweißen, durchscheinenden, porzellanartig schleimigen Hut zusammen mit einem häutigen Ring und einer engen Bindung an die Buche. Anderen weißen Pilzen fehlen der durchscheinende, schmierige Hut und die Bindung an die Buche.",
+      "notes": "Der Pilz gibt Strobilurine ab, stark pilzhemmende Stoffe, die konkurrierende Pilze von dem Buchenholz fernhalten, das er besiedelt; sie dienten als Vorbild für eine wichtige Gruppe landwirtschaftlicher Fungizide. An windigen Herbsttagen kann man Fruchtkörper, die sich von hohen Ästen gelöst haben, wie kleine Fallschirme herabschweben sehen."
+    },
+    "en": {
+      "description": "A white, slimy, ringed gilled mushroom that grows in tufts on beech wood, on dead trunks and fallen branches and high up on living trees, where it is a decomposer and a weak parasite causing a white rot. It is common throughout northern and central Europe wherever beech grows and is also recorded in East Asia, in Japan, Korea and Taiwan.",
+      "cap": "The cap is 2–8 cm across, occasionally up to 10 cm. It is hemispherical at first, then convex and later flatter, but often stays broadly domed. Young caps are pale greyish, becoming pure white to ivory, often with an ochre flush at the centre. In wet weather the surface is covered with a thick, glossy slime and is translucent like porcelain, so that the gills show through as radial lines towards the margin; in dry weather it is silky and matt. The cap cuticle is made of erect, club-shaped cells.",
+      "hymenium": "The gills are broad, thick and very distant, with many shorter intermediate gills, and are adnate or notched with a short decurrent tooth. They are translucent white and sometimes develop an ochre tint with age. Large, thin-walled, cylindrical to utriform cystidia occur among the basidia.",
+      "stipe": "The stipe is 3–10 cm long and 0.3–1 cm thick, cylindrical, tough and often curved, so that caps growing beneath a branch or trunk are held horizontally with their gills facing down. A large, white, membranous ring in the upper third is grooved on its upper side. Above the ring the stipe is white and finely striate; below it is slightly scaly and greyish to brownish, especially in older fruit bodies.",
+      "flesh": "The flesh is thin, white and translucent, soft and elastic in the cap and fibrous in the stipe. It does not change colour when cut and has no distinctive smell or taste.",
+      "sporePrint": "White, and so abundant that it often dusts the surroundings of the fruit bodies. The spores are subglobose, smooth, very thick-walled and colourless, 13–18 × 12–15 µm, occasionally up to 20 × 18 µm.",
+      "habitat": "It grows in tufts or small groups, rarely singly, on trunks, stumps and branches of beech, both on recently fallen or storm-damaged wood and on dead branches high up in living trees, and is most frequent in hilly and mountain areas and in old-growth beech forests. Other broadleaved trees such as oak are used only rarely, and spruce very rarely. Fruit bodies appear from late summer to late autumn, from July to October in Britain and Central Europe and until November in the Czech Republic and Slovakia.",
+      "uses": "It is edible once the slime has been washed off thoroughly or the cap skin peeled, but the flesh is thin and almost tasteless, so it is of little value and at best mixed with tastier species; some sources list it as inedible. The antifungal compound strobilurin A, also called mucidin, was obtained from its mycelium and can be used to treat fungal skin infections.",
+      "confusion": "It is practically unmistakable: no other mushroom growing on wood has such a pure white, translucent, porcelain-like slimy cap together with a membranous ring and a close tie to beech. Other white mushrooms lack the translucent, greasy cap and the association with beech.",
+      "notes": "The fungus releases strobilurins, powerful antifungal compounds that keep competing fungi away from the beech wood it colonises; they served as models for an important group of agricultural fungicides. On breezy autumn days, fruit bodies dislodged from high branches can be seen drifting down like small parachutes."
+    },
+    "es": {
+      "description": "Un hongo de láminas blanco, viscoso y con anillo que crece en grupos apretados sobre madera de haya, en troncos muertos y ramas caídas y también en lo alto de árboles vivos, donde actúa como descomponedor y parásito débil que causa una pudrición blanca. Es común en todo el norte y el centro de Europa allí donde crece el haya, y también se ha registrado en Asia oriental, en Japón, Corea y Taiwán.",
+      "cap": "El sombrero mide 2–8 cm de diámetro, a veces hasta 10 cm. Al principio es hemisférico, luego convexo y más tarde más aplanado, aunque a menudo sigue ampliamente abombado. Los sombreros jóvenes son gris pálido y se vuelven blanco puro a marfil, a menudo con un tono ocre en el centro. Con tiempo húmedo, la superficie está cubierta por una gruesa capa de mucílago brillante y es translúcida como la porcelana, de modo que las láminas se transparentan como líneas radiales hacia el margen; con tiempo seco es sedosa y mate. La cutícula está formada por células erectas en forma de maza.",
+      "hymenium": "Las láminas son anchas, gruesas y muy separadas, con muchas laminillas intermedias más cortas, adnadas o escotadas con un corto diente decurrente. Son blancas y translúcidas y a veces adquieren un tono ocre con la edad. Entre los basidios hay cistidios grandes, de pared delgada, cilíndricos a utriformes.",
+      "stipe": "El pie mide 3–10 cm de largo y 0,3–1 cm de grosor; es cilíndrico, tenaz y a menudo curvado, de modo que los sombreros que crecen bajo una rama o un tronco se mantienen horizontales con las láminas hacia abajo. Un anillo grande, blanco y membranoso, situado en el tercio superior, está estriado por su cara superior. Por encima del anillo el pie es blanco y finamente estriado; por debajo, ligeramente escamoso y grisáceo a pardusco, sobre todo en los ejemplares viejos.",
+      "flesh": "La carne es delgada, blanca y translúcida, blanda y elástica en el sombrero y fibrosa en el pie. No cambia de color al corte y no tiene olor ni sabor destacables.",
+      "sporePrint": "Blanca y tan abundante que a menudo empolva los alrededores de los carpóforos. Las esporas son subglobosas, lisas, de pared muy gruesa e incoloras, de 13–18 × 12–15 µm, a veces hasta 20 × 18 µm.",
+      "habitat": "Crece en grupos apretados o pequeños grupos, rara vez aislado, sobre troncos, tocones y ramas de haya, tanto en madera recién caída o dañada por tormentas como en ramas muertas en lo alto de árboles vivos, y es más frecuente en zonas de colinas y montaña y en hayedos maduros. Otras frondosas como el roble solo se colonizan raramente, y la pícea muy raramente. Los carpóforos aparecen desde finales del verano hasta finales del otoño, de julio a octubre en Gran Bretaña y Europa central y hasta noviembre en Chequia y Eslovaquia.",
+      "uses": "Es comestible una vez lavado a fondo el mucílago o pelada la cutícula, pero la carne es delgada y casi insípida, por lo que tiene poco valor y como mucho se mezcla con especies más sabrosas; algunas fuentes lo consideran no comestible. De su micelio se obtuvo la sustancia antifúngica estrobilurina A, también llamada mucidina, que puede emplearse para tratar las micosis de la piel.",
+      "confusion": "Es prácticamente inconfundible: ningún otro hongo que crezca sobre madera tiene un sombrero tan blanco puro, translúcido y viscoso como la porcelana junto con un anillo membranoso y una estrecha ligazón con el haya. Otros hongos blancos carecen del sombrero translúcido y grasiento y de la asociación con el haya.",
+      "notes": "El hongo libera estrobilurinas, potentes compuestos antifúngicos que mantienen a los hongos competidores alejados de la madera de haya que coloniza; sirvieron de modelo para un importante grupo de fungicidas agrícolas. En los días ventosos de otoño se pueden ver carpóforos desprendidos de las ramas altas descendiendo lentamente como pequeños paracaídas."
+    },
+    "et": {
+      "description": "Valge, limane, rõngaga eoslehekestega seen, mis kasvab kimpudena pöögipuidul, surnud tüvedel ja mahakukkunud okstel ning kõrgel elusatel puudel, kus ta on lagundaja ja nõrk parasiit ning põhjustab valgemädanikku. Ta on tavaline kogu Põhja- ja Kesk-Euroopas kõikjal, kus kasvab pöök, ning teda on leitud ka Ida-Aasiast, Jaapanist, Koreast ja Taiwanist.",
+      "cap": "Kübar on 2–8 cm lai, mõnikord kuni 10 cm. Algul on ta poolkerajas, siis kumer ja hiljem lamedam, kuid jääb sageli laialt kumeraks. Noored kübarad on kahvatuhallikad ning muutuvad puhasvalgeks kuni elevandiluuvärvi, keskelt sageli ookrikarvalise varjundiga. Niiske ilmaga katab pinda paks läikiv limakiht ja kübar on läbikumav nagu portselan, nii et eoslehekesed paistavad serva poole radiaalsete joontena läbi; kuiva ilmaga on pind siidjas ja matt. Kübaranahk koosneb püstistest nuijajatest rakkudest.",
+      "hymenium": "Eoslehekesed on laiad, paksud ja väga hõredad, rohkete lühemate vahelehekestega, kinnitunud või väljalõikega ja lühikese allajooksva hambaga. Nad on läbikumavalt valged ja omandavad vanemas eas mõnikord ookrika tooni. Kandurite vahel esineb suuri õhukeseseinalisi silindrilisi kuni kotjaid tsüstiide.",
+      "stipe": "Jalg on 3–10 cm pikk ja 0,3–1 cm jäme, silindriline, sitke ja sageli kõver, nii et oksa või tüve alumisel küljel kasvavad kübarad püsivad horisontaalselt, eoslehekesed allapoole. Ülemises kolmandikus on suur valge kilejas rõngas, mille ülakülg on vagudega. Rõngast kõrgemal on jalg valge ja peenelt triibuline, allpool kergelt soomusjas ning hallikas kuni pruunikas, eriti vanematel viljakehadel.",
+      "flesh": "Viljaliha on õhuke, valge ja läbikumav, kübaras pehme ja elastne, jalas kiuline. Lõikamisel ta värvi ei muuda ning tal pole iseloomulikku lõhna ega maitset.",
+      "sporePrint": "Valge ja nii rohke, et see sageli tolmutab viljakehade ümbruse. Eosed on peaaegu kerajad, siledad, väga paksuseinalised ja värvitud, 13–18 × 12–15 µm, mõnikord kuni 20 × 18 µm.",
+      "habitat": "Ta kasvab kimpudena või väikeste rühmadena, harva üksikult, pöögi tüvedel, kändudel ja okstel, nii hiljuti mahalangenud või tormis vigastatud puidul kui ka surnud okstel kõrgel elusatel puudel, ning on kõige sagedasem küngastikes ja mägedes ning põlistes pöögimetsades. Teisi lehtpuid, näiteks tamme, asustab ta vaid harva ja kuuske väga harva. Viljakehad ilmuvad hilissuvest hilissügiseni, Suurbritannias ja Kesk-Euroopas juulist oktoobrini ning Tšehhis ja Slovakkias kuni novembrini.",
+      "uses": "Ta on söödav, kui lima on põhjalikult maha pestud või kübaranahk ära koorutud, kuid viljaliha on õhuke ja peaaegu maitsetu, nii et tal on vähe väärtust ja teda kasutatakse kõige rohkem segus maitsvamate liikidega; mõned allikad peavad teda mittesöödavaks. Tema seeneniidistikust saadi seenevastane aine strobiluriin A, mida nimetatakse ka mutsidiiniks ja mida saab kasutada naha seeninfektsioonide raviks.",
+      "confusion": "Ta on praktiliselt eksimatu: ühelgi teisel puidul kasvaval seenel ei ole nii puhasvalget, läbikumavat, portselanjalt limast kübarat koos kileja rõnga ja tiheda seosega pöögiga. Teistel valgetel seentel puuduvad läbikumav rasvane kübar ja seos pöögiga.",
+      "notes": "Seen eritab strobiluriine, tugevaid seenevastaseid ühendeid, mis hoiavad konkureerivad seened eemal tema asustatud pöögipuidust; need on olnud eeskujuks olulisele põllumajanduslike fungitsiidide rühmale. Tuulistel sügispäevadel võib näha kõrgetelt okstelt lahti tulnud viljakehi väikeste langevarjudena alla hõljumas."
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار، سفید، لزج و حلقه‌دار که به‌صورت دسته‌ای روی چوب راش می‌روید، هم روی تنه‌های مرده و شاخه‌های افتاده و هم در ارتفاع بالا روی درختان زنده، و در آنجا تجزیه‌کننده و انگلی ضعیف است که پوسیدگی سفید ایجاد می‌کند. در سراسر شمال و مرکز اروپا هر جا که راش می‌روید فراوان است و در شرق آسیا، در ژاپن، کره و تایوان نیز ثبت شده است.",
+      "cap": "کلاهک ۲–۸ سانتی‌متر قطر دارد و گاهی تا ۱۰ سانتی‌متر می‌رسد. ابتدا نیم‌کروی، سپس محدب و بعدها پهن‌تر است، اما اغلب به‌صورت گنبدی پهن باقی می‌ماند. کلاهک‌های جوان خاکستری کم‌رنگ‌اند و سپس سفید خالص تا عاجی می‌شوند و مرکزشان اغلب ته‌رنگ اُخرایی دارد. در هوای مرطوب سطح آن با لایه‌ای ضخیم و براق از لعاب پوشیده و مانند چینی نیمه‌شفاف است، به‌طوری که تیغه‌ها به‌سوی لبه به‌صورت خطوط شعاعی از پشت آن دیده می‌شوند؛ در هوای خشک سطح ابریشمی و مات است. پوستهٔ کلاهک از یاخته‌های افراشته و گرزی‌شکل تشکیل شده است.",
+      "hymenium": "تیغه‌ها پهن، ضخیم و بسیار دور از هم‌اند و میان آن‌ها تیغه‌های میانی کوتاه‌تر فراوانی هست؛ چسبیده یا بریده با دندانه‌ای کوتاه و پایین‌رونده‌اند. سفید نیمه‌شفاف‌اند و با افزایش سن گاهی ته‌رنگ اُخرایی می‌گیرند. در میان بازیدیوم‌ها سیستیدیوم‌های بزرگ، نازک‌دیواره و استوانه‌ای تا مشکی‌شکل وجود دارد.",
+      "stipe": "پایه به طول ۳–۱۰ سانتی‌متر و ضخامت ۰٫۳–۱ سانتی‌متر، استوانه‌ای، محکم و اغلب خمیده است، به‌طوری که کلاهک‌هایی که از زیر شاخه یا تنه می‌رویند افقی و با تیغه‌های رو به پایین نگه داشته می‌شوند. در یک‌سوم بالایی حلقه‌ای بزرگ، سفید و غشایی دیده می‌شود که سطح بالایی‌اش شیاردار است. بالای حلقه پایه سفید و ظریف‌خط‌دار است و پایین آن کمی فلس‌دار و خاکستری تا قهوه‌ای‌فام، به‌ویژه در اندام‌های بارده مسن‌تر.",
+      "flesh": "گوشت نازک، سفید و نیمه‌شفاف است، در کلاهک نرم و کشسان و در پایه رشته‌ای. در برش تغییر رنگ نمی‌دهد و بو یا مزهٔ مشخصی ندارد.",
+      "sporePrint": "سفید و چنان فراوان که اغلب پیرامون اندام‌های بارده را گردآلود می‌کند. هاگ‌ها تقریباً کروی، صاف، با دیوارهٔ بسیار ضخیم و بی‌رنگ‌اند، ۱۳–۱۸ × ۱۲–۱۵ میکرومتر، گاهی تا ۲۰ × ۱۸ میکرومتر.",
+      "habitat": "به‌صورت دسته‌ای یا در گروه‌های کوچک، و به‌ندرت تکی، روی تنه‌ها، کنده‌ها و شاخه‌های راش می‌روید، هم روی چوب تازه افتاده یا آسیب‌دیده از طوفان و هم روی شاخه‌های مرده در ارتفاع بالای درختان زنده، و در مناطق تپه‌ای و کوهستانی و جنگل‌های کهن راش از همه‌جا فراوان‌تر است. درختان پهن‌برگ دیگر مانند بلوط تنها به‌ندرت و نوئل بسیار به‌ندرت میزبان آن می‌شوند. اندام‌های بارده از اواخر تابستان تا اواخر پاییز پدیدار می‌شوند، از ژوئیه تا اکتبر در بریتانیا و اروپای مرکزی و تا نوامبر در چک و اسلواکی.",
+      "uses": "پس از شستن کامل لعاب یا کندن پوستهٔ کلاهک خوراکی است، اما گوشتش نازک و تقریباً بی‌مزه است، بنابراین ارزش کمی دارد و دست‌بالا با گونه‌های خوش‌طعم‌تر مخلوط می‌شود؛ برخی منابع آن را غیرخوراکی می‌دانند. مادهٔ ضدقارچ استروبیلورین A که موسیدین نیز نامیده می‌شود از میسلیوم آن به دست آمد و می‌توان آن را برای درمان عفونت‌های قارچی پوست به کار برد.",
+      "confusion": "عملاً با گونهٔ دیگری اشتباه نمی‌شود: هیچ قارچ چوب‌روی دیگری کلاهکی چنین سفید خالص، نیمه‌شفاف و لزج همچون چینی همراه با حلقهٔ غشایی و پیوند نزدیک با راش ندارد. قارچ‌های سفید دیگر کلاهک نیمه‌شفاف و چرب و پیوند با راش را ندارند.",
+      "notes": "این قارچ استروبیلورین‌ها را آزاد می‌کند، ترکیبات ضدقارچ نیرومندی که قارچ‌های رقیب را از چوب راشی که در آن مستقر شده دور نگه می‌دارند؛ این ترکیبات الگوی گروه مهمی از قارچ‌کش‌های کشاورزی شدند. در روزهای بادی پاییز می‌توان دید که اندام‌های بارده جداشده از شاخه‌های بلند مانند چترهای نجات کوچک آرام فرود می‌آیند."
+    },
+    "fi": {
+      "description": "Valkoinen, limainen, renkaallinen helttasieni, joka kasvaa kimppuina pyökkipuulla, kuolleilla rungoilla ja pudonneilla oksilla sekä korkealla elävissä puissa, missä se on lahottaja ja heikko loinen ja aiheuttaa valkolahoa. Se on yleinen koko Pohjois- ja Keski-Euroopassa kaikkialla, missä pyökki kasvaa, ja sitä tavataan myös Itä-Aasiassa, Japanissa, Koreassa ja Taiwanissa.",
+      "cap": "Lakki on 2–8 cm leveä, joskus jopa 10 cm. Se on aluksi puolipallomainen, sitten kupera ja myöhemmin litteämpi, mutta pysyy usein leveän kuperana. Nuoret lakit ovat vaalean harmahtavia ja muuttuvat puhtaan valkoisiksi tai norsunluunvärisiksi, usein keskeltä okrasävyisiksi. Kostealla säällä pintaa peittää paksu, kiiltävä limakerros ja lakki on läpikuultava kuin posliini, joten heltat kuultavat reunaa kohti säteittäisinä viivoina; kuivalla säällä pinta on silkkinen ja himmeä. Lakin pintakerros koostuu pystyistä, nuijamaisista soluista.",
+      "hymenium": "Heltat ovat leveitä, paksuja ja hyvin harvassa, ja niiden välissä on paljon lyhyempiä välihelttoja; ne ovat kiinnittyneitä tai lovipäisiä ja niissä on lyhyt alas jalkaa jatkuva hammas. Ne ovat läpikuultavan valkoisia ja saavat iän myötä joskus okran sävyn. Kantaitiöemien välissä on suuria, ohutseinäisiä, sylinterimäisiä tai pussimaisia kystidejä.",
+      "stipe": "Jalka on 3–10 cm pitkä ja 0,3–1 cm paksu, lieriömäinen, sitkeä ja usein kaareva, joten oksan tai rungon alapinnalla kasvavat lakit pysyvät vaakasuorassa heltat alaspäin. Yläkolmanneksessa on suuri, valkoinen, kalvomainen rengas, jonka yläpinta on uurteinen. Renkaan yläpuolella jalka on valkoinen ja hienosti juovainen, alapuolella hieman suomuinen ja harmahtava tai ruskehtava, varsinkin vanhemmissa itiöemissä.",
+      "flesh": "Malto on ohut, valkoinen ja läpikuultava, lakissa pehmeä ja kimmoisa, jalassa kuitumainen. Se ei muuta väriään leikattaessa, eikä sillä ole erityistä hajua tai makua.",
+      "sporePrint": "Valkoinen ja niin runsas, että se usein pölyttää itiöemien ympäristön. Itiöt ovat lähes pallomaisia, sileitä, hyvin paksuseinäisiä ja värittömiä, 13–18 × 12–15 µm, joskus jopa 20 × 18 µm.",
+      "habitat": "Se kasvaa kimppuina tai pieninä ryhminä, harvoin yksittäin, pyökin rungoilla, kannoilla ja oksilla, sekä äskettäin kaatuneella tai myrskyn vaurioittamalla puulla että kuolleilla oksilla korkealla elävissä puissa, ja se on yleisin mäki- ja vuoristoseuduilla ja aarniomaisissa pyökkimetsissä. Muita lehtipuita, kuten tammea, se käyttää vain harvoin ja kuusta hyvin harvoin. Itiöemiä on loppukesästä myöhäissyksyyn, Britanniassa ja Keski-Euroopassa heinäkuusta lokakuuhun ja Tšekissä ja Slovakiassa marraskuuhun asti.",
+      "uses": "Se on syötävä, kun lima on pesty huolellisesti pois tai lakin pintakalvo kuorittu, mutta malto on ohut ja lähes mauton, joten sillä on vähän arvoa ja sitä käytetään korkeintaan sekoitettuna maukkaampiin lajeihin; jotkin lähteet pitävät sitä syömäkelvottomana. Sen rihmastosta saatiin sienilääkeaine strobiluriini A, jota kutsutaan myös musidiiniksi ja jota voidaan käyttää ihon sieni-infektioiden hoitoon.",
+      "confusion": "Se on käytännössä sekoittamaton: millään muulla puulla kasvavalla sienellä ei ole yhtä puhtaanvalkoista, läpikuultavaa, posliinimaisen limaista lakkia yhdessä kalvomaisen renkaan ja tiiviin pyökkisidonnaisuuden kanssa. Muilta valkoisilta sieniltä puuttuvat läpikuultava, rasvainen lakki ja sidos pyökkiin.",
+      "notes": "Sieni erittää strobiluriineja, voimakkaita sienten kasvua estäviä yhdisteitä, jotka pitävät kilpailevat sienet poissa sen asuttamasta pyökkipuusta; ne ovat toimineet mallina tärkeälle maatalouden sienitorjunta-aineiden ryhmälle. Tuulisina syyspäivinä korkeilta oksilta irronneita itiöemiä voi nähdä leijailemassa alas kuin pieniä laskuvarjoja."
+    },
+    "fr": {
+      "description": "Un champignon à lames blanc, visqueux et pourvu d’un anneau, qui pousse en touffes sur le bois de hêtre, sur les troncs morts et les branches tombées comme en hauteur sur les arbres vivants, où il est décomposeur et parasite faible provoquant une pourriture blanche. Il est commun dans toute l’Europe du Nord et l’Europe centrale partout où pousse le hêtre et il est aussi signalé en Asie de l’Est, au Japon, en Corée et à Taïwan.",
+      "cap": "Le chapeau mesure 2–8 cm de diamètre, parfois jusqu’à 10 cm. Il est d’abord hémisphérique, puis convexe et plus tard plus aplati, mais reste souvent largement bombé. Les jeunes chapeaux sont gris pâle, puis blanc pur à ivoire, souvent avec une teinte ocre au centre. Par temps humide, la surface est couverte d’une épaisse couche de mucus brillant et devient translucide comme de la porcelaine, de sorte que les lames transparaissent en lignes radiales vers la marge ; par temps sec, elle est soyeuse et mate. La cuticule est formée de cellules dressées en forme de massue.",
+      "hymenium": "Les lames sont larges, épaisses et très espacées, avec de nombreuses lamelles intercalaires plus courtes, adnées ou échancrées avec une courte dent décurrente. Elles sont blanches et translucides et prennent parfois une teinte ocre avec l’âge. De grandes cystides à paroi mince, cylindriques à utriformes, se trouvent parmi les basides.",
+      "stipe": "Le pied mesure 3–10 cm de long et 0,3–1 cm d’épaisseur ; il est cylindrique, tenace et souvent courbé, de sorte que les chapeaux poussant sous une branche ou un tronc sont tenus à l’horizontale, lames vers le bas. Un grand anneau blanc et membraneux, situé dans le tiers supérieur, est strié sur sa face supérieure. Au-dessus de l’anneau, le pied est blanc et finement strié ; en dessous, il est légèrement squamuleux et grisâtre à brunâtre, surtout chez les sujets âgés.",
+      "flesh": "La chair est mince, blanche et translucide, molle et élastique dans le chapeau, fibreuse dans le pied. Elle ne change pas de couleur à la coupe et n’a ni odeur ni saveur particulière.",
+      "sporePrint": "Blanche et si abondante qu’elle saupoudre souvent les alentours des carpophores. Les spores sont subglobuleuses, lisses, à paroi très épaisse et incolores, 13–18 × 12–15 µm, parfois jusqu’à 20 × 18 µm.",
+      "habitat": "Il pousse en touffes ou en petits groupes, rarement isolé, sur les troncs, souches et branches de hêtre, aussi bien sur le bois récemment tombé ou abîmé par une tempête que sur les branches mortes en hauteur dans les arbres vivants, et il est le plus fréquent en collines et en montagne et dans les hêtraies anciennes. Les autres feuillus comme le chêne ne sont colonisés que rarement, et l’épicéa très rarement. Les carpophores apparaissent de la fin de l’été à la fin de l’automne, de juillet à octobre en Grande-Bretagne et en Europe centrale et jusqu’en novembre en Tchéquie et en Slovaquie.",
+      "uses": "Il est comestible une fois le mucus soigneusement lavé ou la cuticule pelée, mais la chair est mince et presque sans saveur ; il a donc peu de valeur et se mélange tout au plus à des espèces plus savoureuses ; certaines sources le considèrent comme non comestible. La substance antifongique strobilurine A, aussi appelée mucidine, a été obtenue à partir de son mycélium et peut servir à traiter les mycoses cutanées.",
+      "confusion": "Il est pratiquement impossible à confondre : aucun autre champignon lignicole n’a un chapeau aussi blanc pur, translucide et visqueux comme de la porcelaine, associé à un anneau membraneux et à un lien étroit avec le hêtre. Les autres champignons blancs n’ont ni le chapeau translucide et gras, ni l’association avec le hêtre.",
+      "notes": "Le champignon libère des strobilurines, de puissants composés antifongiques qui tiennent les champignons concurrents à l’écart du bois de hêtre qu’il colonise ; elles ont servi de modèle à un groupe important de fongicides agricoles. Par les journées d’automne venteuses, on peut voir des carpophores détachés des hautes branches descendre lentement comme de petits parachutes."
+    },
+    "he": {
+      "description": "פטרייה בעלת זימים, לבנה, רירית ובעלת טבעת, הגדלה באשכולות על עץ אשור, על גזעים מתים ועל ענפים שנפלו וגם גבוה על עצים חיים, שם היא מפרקת וטפילה חלשה הגורמת לריקבון לבן. היא נפוצה בכל צפון אירופה ומרכזה בכל מקום שבו גדל אשור, ותועדה גם במזרח אסיה, ביפן, בקוריאה ובטאיוואן.",
+      "cap": "קוטר הכובע 2–8 ס\"מ, לעיתים עד 10 ס\"מ. בתחילה הוא חצי־כדורי, אחר כך קמור ומאוחר יותר שטוח יותר, אך לעיתים קרובות נשאר כיפתי ורחב. כובעים צעירים אפרפרים חיוורים, ובהמשך הופכים ללבן צח עד צבע שנהב, ולעיתים קרובות מרכזם בגוון אוקרה. במזג אוויר לח מכסה את פני הכובע שכבה עבה ומבריקה של ריר, והוא שקוף למחצה כמו חרסינה, כך שהזימים נראים דרכו כקווים רדיאליים לכיוון השוליים; במזג אוויר יבש פני הכובע משיים ועמומים. קליפת הכובע בנויה מתאים זקופים דמויי אלה.",
+      "hymenium": "הזימים רחבים, עבים ומרוחקים מאוד זה מזה, עם זימי ביניים קצרים רבים, צמודים או מגורעים עם שן יורדת קצרה. הם לבנים שקופים למחצה ולעיתים מקבלים גוון אוקרה עם הגיל. בין הבזידיות יש ציסטידות גדולות, דקות דופן, גליליות עד דמויות נאד.",
+      "stipe": "הרגל באורך 3–10 ס\"מ ובעובי 0.3–1 ס\"מ, גלילית, קשוחה ולעיתים קרובות מעוקלת, כך שכובעים הגדלים בצד התחתון של ענף או גזע מוחזקים אופקית והזימים פונים מטה. בשליש העליון יש טבעת גדולה, לבנה וקרומית, מחורצת בצדה העליון. מעל הטבעת הרגל לבנה ומפוספסת בעדינות, ומתחתיה מעט קשקשית ואפרפרה עד חומחמה, במיוחד בגופי פרי מבוגרים.",
+      "flesh": "הבשר דק, לבן ושקוף למחצה, רך וגמיש בכובע וסיבי ברגל. הוא אינו משנה את צבעו בחיתוך ואין לו ריח או טעם מיוחדים.",
+      "sporePrint": "לבנה, ושופעת כל כך שלעיתים קרובות היא מאבקת את סביבת גופי הפרי. הנבגים כמעט כדוריים, חלקים, עבי דופן מאוד וחסרי צבע, בגודל 13–18 × 12–15 מיקרומטר, לעיתים עד 20 × 18 מיקרומטר.",
+      "habitat": "היא גדלה באשכולות או בקבוצות קטנות, לעיתים נדירות ביחידות, על גזעים, גדמים וענפים של אשור, הן על עץ שנפל לאחרונה או ניזוק בסערה והן על ענפים מתים גבוה בעצים חיים, והיא נפוצה ביותר באזורי גבעות והרים וביערות אשור עתיקים. עצים רחבי עלים אחרים כמו אלון מאוכלסים רק לעיתים נדירות, ואשוחית לעיתים נדירות מאוד. גופי הפרי מופיעים מסוף הקיץ ועד סוף הסתיו, מיולי עד אוקטובר בבריטניה ובמרכז אירופה ועד נובמבר בצ׳כיה ובסלובקיה.",
+      "uses": "היא אכילה לאחר שטיפה יסודית של הריר או קילוף קליפת הכובע, אך הבשר דק וכמעט חסר טעם, ולכן ערכה מועט ולכל היותר מערבבים אותה עם מינים טעימים יותר; מקורות אחדים מציינים אותה כלא אכילה. מן התפטיר שלה הופק החומר נוגד הפטריות סטרובילורין A, הנקרא גם מוסידין, שאפשר להשתמש בו לטיפול בזיהומים פטרייתיים של העור.",
+      "confusion": "כמעט אי אפשר להחליף אותה: לשום פטרייה אחרת הגדלה על עץ אין כובע לבן צח, שקוף למחצה ורירי כחרסינה כזה יחד עם טבעת קרומית וקשר הדוק לאשור. לפטריות לבנות אחרות חסרים הכובע השקוף והשמנוני והקשר לאשור.",
+      "notes": "הפטרייה מפרישה סטרובילורינים, תרכובות חזקות נוגדות פטריות המרחיקות פטריות מתחרות מעץ האשור שבו היא מתיישבת; הן שימשו מודל לקבוצה חשובה של קוטלי פטריות חקלאיים. בימי סתיו סוערים אפשר לראות גופי פרי שהתנתקו מענפים גבוהים מרחפים מטה כמו מצנחים קטנים."
+    },
+    "hi": {
+      "description": "एक सफ़ेद, चिपचिपा, छल्लेदार गलफड़ों वाला मशरूम, जो बीच की लकड़ी पर गुच्छों में उगता है, मृत तनों और गिरी शाखाओं पर तथा जीवित पेड़ों पर ऊँचाई पर भी, जहाँ यह अपघटक और कमज़ोर परजीवी के रूप में सफ़ेद सड़न पैदा करता है। यह पूरे उत्तरी और मध्य यूरोप में जहाँ-जहाँ बीच उगता है, आम है, और पूर्वी एशिया में, जापान, कोरिया और ताइवान में भी दर्ज किया गया है।",
+      "cap": "टोपी का व्यास 2–8 सेमी होता है, कभी-कभी 10 सेमी तक। शुरू में यह अर्धगोलाकार, फिर उत्तल और बाद में अधिक चपटी होती है, पर अक्सर चौड़ी गुंबदनुमा बनी रहती है। युवा टोपियाँ हल्की धूसर होती हैं, फिर शुद्ध सफ़ेद से हाथीदाँत रंग की हो जाती हैं, और बीच में अक्सर गेरुआ आभा होती है। नम मौसम में सतह पर मोटी, चमकदार श्लेष्मा की परत होती है और यह चीनी मिट्टी की तरह पारभासी होती है, जिससे गलफड़े किनारे की ओर अरीय रेखाओं के रूप में झलकते हैं; सूखे मौसम में यह रेशमी और मंद होती है। टोपी की बाहरी परत सीधी खड़ी, गदा के आकार की कोशिकाओं से बनी होती है।",
+      "hymenium": "गलफड़े चौड़े, मोटे और बहुत दूर-दूर होते हैं, बीच में कई छोटे मध्यवर्ती गलफड़े होते हैं, और ये संलग्न या एक छोटे नीचे उतरते दाँत के साथ खाँचेदार होते हैं। ये पारभासी सफ़ेद होते हैं और उम्र के साथ कभी-कभी गेरुआ रंगत ले लेते हैं। बेसिडिया के बीच बड़े, पतली भित्ति वाले, बेलनाकार से थैलीनुमा सिस्टिडिया पाए जाते हैं।",
+      "stipe": "डंठल 3–10 सेमी लंबा और 0.3–1 सेमी मोटा, बेलनाकार, मज़बूत और अक्सर मुड़ा हुआ होता है, जिससे किसी शाखा या तने के निचले हिस्से से उगने वाली टोपियाँ क्षैतिज रहती हैं और उनके गलफड़े नीचे की ओर होते हैं। ऊपरी एक-तिहाई भाग में एक बड़ा, सफ़ेद, झिल्लीदार छल्ला होता है, जिसकी ऊपरी सतह खाँचेदार होती है। छल्ले के ऊपर डंठल सफ़ेद और बारीक धारीदार होता है, नीचे हल्का शल्कयुक्त और धूसर से भूरा, ख़ासकर पुराने फलनकायों में।",
+      "flesh": "गूदा पतला, सफ़ेद और पारभासी होता है, टोपी में नरम और लचीला तथा डंठल में रेशेदार। काटने पर इसका रंग नहीं बदलता और इसकी कोई विशेष गंध या स्वाद नहीं होता।",
+      "sporePrint": "सफ़ेद, और इतना प्रचुर कि अक्सर फलनकायों के आसपास की जगह पर धूल-सा बिखर जाता है। बीजाणु लगभग गोलाकार, चिकने, बहुत मोटी भित्ति वाले और रंगहीन होते हैं, 13–18 × 12–15 माइक्रोमीटर, कभी-कभी 20 × 18 माइक्रोमीटर तक।",
+      "habitat": "यह गुच्छों या छोटे समूहों में, शायद ही कभी अकेले, बीच के तनों, ठूँठों और शाखाओं पर उगता है, हाल में गिरी या तूफ़ान से क्षतिग्रस्त लकड़ी पर भी और जीवित पेड़ों पर ऊँचाई पर मृत शाखाओं पर भी, और पहाड़ी व पर्वतीय क्षेत्रों तथा पुराने बीच वनों में सबसे अधिक मिलता है। ओक जैसे अन्य चौड़ी पत्ती वाले पेड़ों पर यह केवल कभी-कभार और स्प्रूस पर बहुत ही कम उगता है। फलनकाय गर्मियों के अंत से देर शरद तक दिखाई देते हैं, ब्रिटेन और मध्य यूरोप में जुलाई से अक्टूबर तक और चेकिया व स्लोवाकिया में नवंबर तक।",
+      "uses": "श्लेष्मा को अच्छी तरह धो देने या टोपी की ऊपरी परत छील देने के बाद यह खाने योग्य है, पर इसका गूदा पतला और लगभग स्वादहीन होता है, इसलिए इसका मूल्य कम है और अधिक से अधिक इसे अधिक स्वादिष्ट प्रजातियों के साथ मिलाया जाता है; कुछ स्रोत इसे अखाद्य बताते हैं। इसके कवकजाल से कवकरोधी पदार्थ स्ट्रोबिल्यूरिन A, जिसे म्यूसिडिन भी कहते हैं, प्राप्त किया गया था, जिसका उपयोग त्वचा के फफूंद संक्रमणों के उपचार में किया जा सकता है।",
+      "confusion": "इसे किसी और से भ्रमित करना लगभग असंभव है: लकड़ी पर उगने वाले किसी अन्य मशरूम की टोपी इतनी शुद्ध सफ़ेद, पारभासी और चीनी मिट्टी जैसी चिपचिपी नहीं होती, जिसके साथ झिल्लीदार छल्ला और बीच से घनिष्ठ जुड़ाव भी हो। अन्य सफ़ेद मशरूमों में पारभासी, चिकनी टोपी और बीच से जुड़ाव नहीं होता।",
+      "notes": "यह कवक स्ट्रोबिल्यूरिन छोड़ता है, शक्तिशाली कवकरोधी यौगिक जो प्रतिस्पर्धी कवकों को उस बीच की लकड़ी से दूर रखते हैं जिस पर यह बसता है; ये कृषि कवकनाशियों के एक महत्वपूर्ण समूह के लिए आदर्श बने। हवादार शरद के दिनों में ऊँची शाखाओं से छूटे फलनकायों को छोटे पैराशूटों की तरह धीरे-धीरे नीचे उतरते देखा जा सकता है।"
+    },
+    "hr": {
+      "description": "Bijela, sluzava listićava gljiva s prstenom koja raste u busenima na bukovom drvu, na mrtvim deblima i otpalim granama, ali i visoko na živim stablima, gdje je razgrađivač i slab parazit te uzrokuje bijelu trulež. Česta je u cijeloj sjevernoj i srednjoj Europi svugdje gdje raste bukva, a zabilježena je i u istočnoj Aziji, u Japanu, Koreji i na Tajvanu.",
+      "cap": "Klobuk je promjera 2–8 cm, ponekad do 10 cm. Isprva je polukuglast, zatim izbočen, a kasnije plosnatiji, no često ostaje široko izbočen. Mladi klobuci su blijedosivkasti, a zatim postaju čisto bijeli do boje bjelokosti, u sredini često s okrastim tonom. Po vlažnom vremenu površinu prekriva debeo, sjajan sloj sluzi i klobuk je proziran poput porculana, pa listići prema rubu prosijavaju kao radijalne crte; po suhom vremenu površina je svilenkasta i mat. Kožica klobuka građena je od uspravnih, batićastih stanica.",
+      "hymenium": "Listići su široki, debeli i vrlo rijetki, s mnogo kraćih međulistića, prirasli ili izrezani s kratkim silaznim zubićem. Prozirno su bijeli i sa starošću ponekad poprime okrasti ton. Među bazidijama se nalaze velike, tankostijene, valjkaste do mješinaste cistide.",
+      "stipe": "Stručak je dug 3–10 cm i debeo 0,3–1 cm, valjkast, žilav i često zakrivljen, pa se klobuci koji rastu s donje strane grane ili debla drže vodoravno, listićima prema dolje. U gornjoj trećini nalazi se velik, bijel, opnast prsten, na gornjoj strani izbrazdan. Iznad prstena stručak je bijel i fino prugast, ispod njega blago ljuskav i sivkast do smećkast, osobito u starijih plodišta.",
+      "flesh": "Meso je tanko, bijelo i prozirno, u klobuku meko i elastično, a u stručku vlaknasto. Na prerezu ne mijenja boju i nema izražen miris ni okus.",
+      "sporePrint": "Bijel i toliko obilan da često zapraši okolinu plodišta. Spore su gotovo kuglaste, glatke, vrlo debelih stijenki i bezbojne, 13–18 × 12–15 µm, ponekad do 20 × 18 µm.",
+      "habitat": "Raste u busenima ili manjim skupinama, rijetko pojedinačno, na deblima, panjevima i granama bukve, kako na nedavno palom ili olujom oštećenom drvu tako i na mrtvim granama visoko na živim stablima, a najčešća je u brdskim i planinskim područjima i u prašumskim bukovim šumama. Ostalo listopadno drveće, poput hrasta, naseljava samo rijetko, a smreku vrlo rijetko. Plodišta se pojavljuju od kasnog ljeta do kasne jeseni, u Britaniji i srednjoj Europi od srpnja do listopada, a u Češkoj i Slovačkoj do studenoga.",
+      "uses": "Jestiva je kada se sluz temeljito ispere ili oguli kožica klobuka, ali meso je tanko i gotovo bez okusa, pa ima malu vrijednost i u najboljem se slučaju miješa s ukusnijim vrstama; neki je izvori navode kao nejestivu. Iz njezina micelija dobivena je protugljivična tvar strobilurin A, nazvana i mucidin, koja se može koristiti za liječenje gljivičnih infekcija kože.",
+      "confusion": "Praktički je nezamjenjiva: nijedna druga gljiva koja raste na drvu nema tako čisto bijel, proziran, porculanski sluzav klobuk zajedno s opnastim prstenom i uskom vezom s bukvom. Drugim bijelim gljivama nedostaju prozirni, masni klobuk i veza s bukvom.",
+      "notes": "Gljiva izlučuje strobilurine, snažne protugljivične spojeve koji drže konkurentske gljive podalje od bukova drva koje naseljava; poslužili su kao uzor za važnu skupinu poljoprivrednih fungicida. Za vjetrovitih jesenskih dana mogu se vidjeti plodišta otkinuta s visokih grana kako polako padaju poput malih padobrana."
+    },
+    "hu": {
+      "description": "Fehér, nyálkás, galléros lemezes gomba, amely csokrokban nő bükkfán, elhalt törzseken és lehullott ágakon, valamint magasan élő fákon, ahol lebontó és gyenge parazita, és fehérkorhadást okoz. Egész Észak- és Közép-Európában gyakori mindenütt, ahol bükk nő, és Kelet-Ázsiából, Japánból, Koreából és Tajvanról is ismert.",
+      "cap": "A kalap 2–8 cm széles, néha 10 cm-es is. Eleinte félgömb alakú, majd domború, később laposabb, de gyakran szélesen domború marad. A fiatal kalapok halványszürkések, később tiszta fehérek vagy elefántcsontszínűek, közepük gyakran okkeres árnyalatú. Nedves időben a felszínt vastag, fényes nyálkaréteg borítja, és a kalap áttetsző, mint a porcelán, így a lemezek a szél felé sugaras vonalakként áttetszenek; száraz időben selymes és matt. A kalapbőr felálló, bunkós sejtekből áll.",
+      "hymenium": "A lemezek szélesek, vastagok és nagyon ritkák, sok rövidebb féllemezzel, a tönkhöz nőttek vagy foggal lefutók. Áttetszően fehérek, idősen néha okkeres árnyalatot kapnak. A bazídiumok között nagy, vékony falú, hengeres vagy tömlő alakú cisztídiumok fordulnak elő.",
+      "stipe": "A tönk 3–10 cm hosszú és 0,3–1 cm vastag, hengeres, szívós és gyakran görbült, így az ág vagy törzs alsó oldalán növő kalapok vízszintesen, lemezekkel lefelé állnak. A felső harmadban nagy, fehér, hártyás gallér van, amelynek felső oldala barázdált. A gallér felett a tönk fehér és finoman csíkos, alatta kissé pikkelyes és szürkés vagy barnás, főleg az idősebb termőtesteken.",
+      "flesh": "A hús vékony, fehér és áttetsző, a kalapban puha és rugalmas, a tönkben rostos. Vágásra nem színeződik, szaga és íze nem jellegzetes.",
+      "sporePrint": "Fehér, és olyan bőséges, hogy gyakran beporozza a termőtestek környékét. A spórák csaknem gömb alakúak, simák, nagyon vastag falúak és színtelenek, 13–18 × 12–15 µm-esek, néha 20 × 18 µm-esek is.",
+      "habitat": "Csokrokban vagy kisebb csoportokban, ritkán magányosan nő bükkfák törzsén, tuskóján és ágain, frissen kidőlt vagy vihar sújtotta fán éppúgy, mint élő fák magasan lévő elhalt ágain, és dombvidéken, hegyvidéken és őserdőszerű bükkösökben a leggyakoribb. Más lombos fákat, például tölgyet csak ritkán, lucfenyőt nagyon ritkán telepít meg. Termőtestei nyár végétől késő őszig jelennek meg, Nagy-Britanniában és Közép-Európában júliustól októberig, Csehországban és Szlovákiában novemberig.",
+      "uses": "Ehető, ha a nyálkát alaposan lemossák vagy a kalapbőrt lehúzzák, de húsa vékony és szinte íztelen, ezért csekély értékű, és legfeljebb ízletesebb fajokkal keverve használható; egyes források nem ehetőnek tartják. Micéliumából nyerték a strobilurin A nevű gombaellenes anyagot, más néven mucidint, amely a bőr gombás fertőzéseinek kezelésére használható.",
+      "confusion": "Gyakorlatilag összetéveszthetetlen: egyetlen más fán élő gombának sincs ilyen tiszta fehér, áttetsző, porcelánszerűen nyálkás kalapja hártyás gallérral és szoros bükkhöz kötődéssel együtt. Más fehér gombákból hiányzik az áttetsző, zsíros kalap és a bükkhöz kötődés.",
+      "notes": "A gomba strobilurinokat bocsát ki, erős gombaellenes vegyületeket, amelyek távol tartják a versengő gombákat az általa megtelepített bükkfától; ezek egy fontos mezőgazdasági gombaölőszer-csoport mintájául szolgáltak. Szeles őszi napokon látni lehet, ahogy a magas ágakról leszakadt termőtestek kis ejtőernyőkként lebegnek lefelé."
+    },
+    "id": {
+      "description": "Jamur berbilah yang putih, berlendir, dan bercincin, tumbuh berumpun pada kayu beech, pada batang mati dan cabang yang jatuh serta tinggi di pohon hidup, tempat jamur ini berperan sebagai pengurai dan parasit lemah yang menyebabkan busuk putih. Jamur ini umum di seluruh Eropa utara dan tengah di mana pun beech tumbuh, dan juga tercatat di Asia Timur, di Jepang, Korea, dan Taiwan.",
+      "cap": "Tudungnya berdiameter 2–8 cm, kadang-kadang hingga 10 cm. Awalnya setengah bola, lalu cembung dan kemudian lebih rata, tetapi sering tetap melengkung lebar. Tudung muda berwarna keabu-abuan pucat, lalu menjadi putih bersih hingga gading, sering dengan semburat oker di bagian tengah. Saat cuaca basah, permukaannya tertutup lapisan lendir yang tebal dan mengilap serta tembus cahaya seperti porselen, sehingga bilah-bilahnya tampak dari luar sebagai garis-garis radial ke arah tepi; saat cuaca kering permukaannya seperti sutra dan kusam. Kutikula tudung tersusun dari sel-sel tegak berbentuk gada.",
+      "hymenium": "Bilahnya lebar, tebal, dan sangat jarang, dengan banyak bilah sela yang lebih pendek, melekat atau bertakik dengan gigi pendek yang menurun. Bilahnya putih tembus cahaya dan kadang-kadang berubah menjadi bernuansa oker seiring bertambahnya umur. Di antara basidia terdapat sistidia besar berdinding tipis yang berbentuk silindris hingga kantong.",
+      "stipe": "Tangkainya panjang 3–10 cm dan tebal 0,3–1 cm, silindris, liat, dan sering melengkung, sehingga tudung yang tumbuh di sisi bawah cabang atau batang tetap mendatar dengan bilah menghadap ke bawah. Di sepertiga bagian atas terdapat cincin besar berwarna putih dan bermembran, yang beralur pada sisi atasnya. Di atas cincin, tangkai berwarna putih dan bergaris halus; di bawahnya sedikit bersisik dan keabu-abuan hingga kecokelatan, terutama pada tubuh buah yang lebih tua.",
+      "flesh": "Dagingnya tipis, putih, dan tembus cahaya, lunak dan elastis di tudung serta berserat di tangkai. Warnanya tidak berubah saat dipotong dan tidak memiliki bau atau rasa yang khas.",
+      "sporePrint": "Putih, dan begitu melimpah sehingga sering menaburi sekitar tubuh buah. Sporanya hampir bulat, halus, berdinding sangat tebal, dan tidak berwarna, berukuran 13–18 × 12–15 µm, kadang-kadang hingga 20 × 18 µm.",
+      "habitat": "Jamur ini tumbuh berumpun atau dalam kelompok kecil, jarang soliter, pada batang, tunggul, dan cabang beech, baik pada kayu yang baru tumbang atau rusak oleh badai maupun pada cabang mati yang tinggi di pohon hidup, dan paling sering dijumpai di daerah perbukitan dan pegunungan serta di hutan beech tua. Pohon berdaun lebar lain seperti ek hanya jarang ditumbuhi, dan cemara spruce sangat jarang. Tubuh buah muncul dari akhir musim panas hingga akhir musim gugur, dari Juli sampai Oktober di Britania dan Eropa Tengah dan hingga November di Ceko dan Slowakia.",
+      "uses": "Jamur ini dapat dimakan setelah lendirnya dicuci bersih atau kulit tudungnya dikupas, tetapi dagingnya tipis dan hampir tanpa rasa, sehingga nilainya rendah dan paling-paling dicampur dengan spesies yang lebih lezat; beberapa sumber menggolongkannya tidak dapat dimakan. Dari miseliumnya diperoleh senyawa antijamur strobilurin A, yang juga disebut musidin, yang dapat digunakan untuk mengobati infeksi jamur pada kulit.",
+      "confusion": "Jamur ini praktis tidak mungkin tertukar: tidak ada jamur lain yang tumbuh di kayu dengan tudung seputih, setembus cahaya, dan selicin porselen seperti ini disertai cincin bermembran dan keterikatan erat dengan beech. Jamur putih lain tidak memiliki tudung tembus cahaya yang berminyak dan keterkaitan dengan beech.",
+      "notes": "Jamur ini melepaskan strobilurin, senyawa antijamur kuat yang menjauhkan jamur pesaing dari kayu beech yang dikolonisasinya; senyawa ini menjadi model bagi kelompok penting fungisida pertanian. Pada hari-hari berangin di musim gugur, tubuh buah yang terlepas dari cabang tinggi dapat terlihat melayang turun seperti parasut kecil."
+    },
+    "it": {
+      "description": "Un fungo a lamelle bianco, viscido e munito di anello che cresce a cespi sul legno di faggio, su tronchi morti e rami caduti ma anche in alto sugli alberi vivi, dove è decompositore e parassita debole e provoca una carie bianca. È comune in tutta l’Europa settentrionale e centrale ovunque cresca il faggio ed è segnalato anche nell’Asia orientale, in Giappone, Corea e Taiwan.",
+      "cap": "Il cappello misura 2–8 cm di diametro, talvolta fino a 10 cm. È dapprima emisferico, poi convesso e più tardi più appianato, ma resta spesso ampiamente bombato. I cappelli giovani sono grigio pallido, poi bianco puro o avorio, spesso con una sfumatura ocra al centro. Con tempo umido la superficie è coperta da uno spesso strato di muco lucido ed è traslucida come la porcellana, così che le lamelle traspaiono come linee radiali verso il margine; con tempo secco è sericea e opaca. La cuticola è formata da cellule erette a forma di clava.",
+      "hymenium": "Le lamelle sono larghe, spesse e molto rade, con numerose lamellule più corte, adnate o smarginate con un breve dente decorrente. Sono bianche e traslucide e con l’età assumono talvolta una tinta ocra. Tra i basidi si trovano cistidi grandi, a parete sottile, da cilindrici a utriformi.",
+      "stipe": "Il gambo è lungo 3–10 cm e spesso 0,3–1 cm, cilindrico, tenace e spesso curvo, così che i cappelli che crescono sotto un ramo o un tronco sono tenuti orizzontali con le lamelle rivolte in basso. Un grande anello bianco e membranoso, nel terzo superiore, è striato sulla faccia superiore. Sopra l’anello il gambo è bianco e finemente striato, sotto è leggermente squamuloso e grigiastro o brunastro, soprattutto negli esemplari più vecchi.",
+      "flesh": "La carne è sottile, bianca e traslucida, morbida ed elastica nel cappello e fibrosa nel gambo. Al taglio non cambia colore e non ha odore né sapore particolari.",
+      "sporePrint": "Bianca e così abbondante da impolverare spesso i dintorni dei carpofori. Le spore sono subglobose, lisce, con parete molto spessa e incolori, 13–18 × 12–15 µm, talvolta fino a 20 × 18 µm.",
+      "habitat": "Cresce a cespi o in piccoli gruppi, raramente isolato, su tronchi, ceppaie e rami di faggio, sia su legno appena caduto o danneggiato da tempeste sia su rami morti in alto sugli alberi vivi, ed è più frequente in collina e in montagna e nelle faggete vetuste. Altre latifoglie come la quercia sono colonizzate solo raramente, e l’abete rosso molto raramente. I carpofori compaiono dalla fine dell’estate al tardo autunno, da luglio a ottobre in Gran Bretagna e nell’Europa centrale e fino a novembre in Cechia e Slovacchia.",
+      "uses": "È commestibile dopo aver lavato accuratamente il muco o tolto la cuticola, ma la carne è sottile e quasi insapore, per cui ha scarso valore e al massimo si mescola con specie più saporite; alcune fonti lo considerano non commestibile. Dal suo micelio è stata ottenuta la sostanza antifungina strobilurina A, detta anche mucidina, che può essere usata per curare le micosi cutanee.",
+      "confusion": "È praticamente inconfondibile: nessun altro fungo lignicolo ha un cappello così bianco puro, traslucido e viscido come la porcellana insieme a un anello membranoso e a uno stretto legame con il faggio. Gli altri funghi bianchi non hanno il cappello traslucido e untuoso né il legame con il faggio.",
+      "notes": "Il fungo rilascia strobilurine, potenti composti antifungini che tengono lontani i funghi concorrenti dal legno di faggio che colonizza; esse hanno fatto da modello per un importante gruppo di fungicidi agricoli. Nelle giornate autunnali ventose si possono vedere carpofori staccatisi dai rami alti scendere lentamente come piccoli paracadute."
+    },
+    "ja": {
+      "description": "白く粘液に覆われた、つばのあるひだのきのこで、ブナ材の上に株状に生え、枯れた幹や落ちた枝のほか、生きた木の高い所にも発生します。そこでは分解者であると同時に弱い寄生者として白色腐朽を起こします。ブナが生育する北ヨーロッパと中央ヨーロッパの全域で普通に見られ、東アジアでも日本、韓国、台湾で記録されています。",
+      "cap": "傘は直径2–8 cm、ときに10 cmに達します。初め半球形、のち饅頭形となり、さらに平らに近づきますが、しばしば広い丸山形のままです。若い傘は淡い灰色を帯び、のち純白から象牙色になり、中央はしばしば黄土色を帯びます。湿った天候では表面が厚く光沢のある粘液層に覆われ、磁器のように半透明になるため、ひだが縁に向かって放射状の線として透けて見えます。乾くと絹のような光沢を帯び、つやがなくなります。傘の表皮は直立した棍棒形の細胞からなります。",
+      "hymenium": "ひだは幅広く厚く、非常に疎で、多数の短いひだを交え、直生または湾生して短い垂生の歯をもちます。半透明の白色で、古くなるとときに黄土色を帯びます。担子器の間には大型で薄壁の、円筒形から袋状のシスチジアがあります。",
+      "stipe": "柄は長さ3–10 cm、太さ0.3–1 cmで、円柱形、強靭でしばしば曲がり、枝や幹の下面から生える傘はひだを下に向けて水平に保たれます。上部3分の1に大きな白い膜質のつばがあり、その上面には溝線があります。つばより上の柄は白く細かい条線があり、下は少し鱗片状で灰色から褐色を帯び、特に古い子実体で目立ちます。",
+      "flesh": "肉は薄く白色で半透明、傘では柔らかく弾力があり、柄では繊維質です。切っても変色せず、特別な匂いや味はありません。",
+      "sporePrint": "白色で、子実体の周囲がしばしば粉をまぶしたようになるほど大量です。胞子は類球形、平滑で、壁が非常に厚く無色、13–18 × 12–15 µm、ときに20 × 18 µmに達します。",
+      "habitat": "株状または小群生し、まれに単生して、ブナの幹、切り株、枝に発生します。倒れたばかりの木や嵐で傷んだ木にも、生きた木の高い所の枯れ枝にも生え、丘陵地や山地、ブナの老齢林で最も多く見られます。ナラ類など他の広葉樹にはまれにしか発生せず、トウヒにはごくまれです。子実体は晩夏から晩秋に現れ、イギリスと中央ヨーロッパでは7月から10月、チェコとスロバキアでは11月まで見られます。",
+      "uses": "粘液をよく洗い流すか傘の表皮をむけば食用になりますが、肉は薄くほとんど味がないため価値は低く、せいぜいより風味のよい種と混ぜて使われる程度です。食用不適とする資料もあります。その菌糸体からは抗真菌物質ストロビルリンA(ムシジンとも呼ばれる)が得られ、皮膚の真菌感染症の治療に使うことができます。",
+      "confusion": "ほとんど見誤ることはありません。材上に生えるほかのきのこで、これほど純白で半透明、磁器のように粘る傘と膜質のつば、そしてブナとの強い結びつきをあわせもつものはありません。ほかの白いきのこには、半透明で脂っぽい傘もブナとの結びつきもありません。",
+      "notes": "この菌はストロビルリン類を放出します。これは強力な抗真菌化合物で、自らが占めるブナ材から競合する菌を遠ざけます。これらは農業用殺菌剤の重要な一群の手本となりました。風の強い秋の日には、高い枝から外れた子実体が小さなパラシュートのように舞い降りる様子が見られます。"
+    },
+    "ko": {
+      "description": "희고 끈적끈적하며 턱받이가 있는 주름버섯으로, 너도밤나무 목재에 다발로 나며 죽은 줄기와 떨어진 가지는 물론 살아 있는 나무의 높은 곳에도 발생하는데, 그곳에서 분해자이자 약한 기생체로서 백색 부후를 일으킵니다. 너도밤나무가 자라는 북유럽과 중부 유럽 전역에서 흔하며, 동아시아의 일본, 한국, 대만에서도 기록되어 있습니다.",
+      "cap": "갓은 지름 2–8 cm이며 때로 10 cm에 이릅니다. 처음에는 반구형이다가 볼록해지고 나중에는 더 편평해지지만, 흔히 넓은 둥근 산 모양으로 남습니다. 어린 갓은 연한 회색을 띠다가 순백색에서 상아색으로 변하며, 가운데는 흔히 황토색을 띱니다. 습한 날씨에는 표면이 두껍고 광택 나는 점액층으로 덮여 도자기처럼 반투명해지므로 주름살이 가장자리 쪽으로 방사상의 선처럼 비쳐 보이며, 건조한 날씨에는 비단 같고 광택이 없습니다. 갓 표피는 곧게 선 곤봉 모양의 세포로 이루어져 있습니다.",
+      "hymenium": "주름살은 넓고 두꺼우며 매우 성기고, 짧은 주름살이 많이 섞여 있으며, 바로 붙은주름살이거나 짧게 내려붙는 이빨이 있는 홈파진주름살입니다. 반투명한 흰색이며 오래되면 때로 황토색을 띱니다. 담자기 사이에는 크고 벽이 얇은 원통형에서 주머니 모양의 낭상체가 있습니다.",
+      "stipe": "대는 길이 3–10 cm, 굵기 0.3–1 cm로 원통형이며 질기고 흔히 휘어 있어, 가지나 줄기의 아랫면에서 자라는 갓은 주름살을 아래로 향한 채 수평으로 유지됩니다. 위쪽 3분의 1에 크고 흰 막질의 턱받이가 있으며 윗면에 홈선이 있습니다. 턱받이 위의 대는 희고 가는 줄무늬가 있고, 아래는 약간 비늘 모양이며 회색에서 갈색을 띠는데, 특히 오래된 자실체에서 뚜렷합니다.",
+      "flesh": "살은 얇고 희며 반투명하고, 갓에서는 부드럽고 탄력 있으며 대에서는 섬유질입니다. 잘라도 색이 변하지 않고 특별한 냄새나 맛이 없습니다.",
+      "sporePrint": "흰색이며, 자실체 주변이 흔히 가루를 뿌린 듯 덮일 만큼 많습니다. 포자는 유구형이며 매끄럽고 벽이 매우 두꺼우며 무색이고, 13–18 × 12–15 µm, 때로 20 × 18 µm에 이릅니다.",
+      "habitat": "다발로 또는 작은 무리로, 드물게는 홀로 너도밤나무의 줄기, 그루터기, 가지에 나며, 최근에 쓰러졌거나 폭풍에 손상된 목재에도, 살아 있는 나무 높은 곳의 죽은 가지에도 발생하고, 구릉지와 산지, 오래된 너도밤나무 숲에서 가장 흔합니다. 참나무 같은 다른 활엽수에는 드물게만, 가문비나무에는 매우 드물게 납니다. 자실체는 늦여름부터 늦가을까지 나타나며, 영국과 중부 유럽에서는 7월부터 10월까지, 체코와 슬로바키아에서는 11월까지 볼 수 있습니다.",
+      "uses": "점액을 철저히 씻어 내거나 갓 표피를 벗기면 먹을 수 있지만, 살이 얇고 맛이 거의 없어 가치가 낮으며 기껏해야 더 맛있는 종과 섞어 씁니다. 일부 자료는 식용 불가로 분류합니다. 균사체에서는 무시딘이라고도 하는 항진균 물질 스트로빌루린 A가 얻어졌으며, 피부 진균 감염 치료에 쓰일 수 있습니다.",
+      "confusion": "거의 혼동할 일이 없습니다. 나무에 나는 다른 어떤 버섯도 이처럼 순백색이고 반투명하며 도자기처럼 끈적이는 갓을 막질의 턱받이, 너도밤나무와의 긴밀한 관계와 함께 지니지 않습니다. 다른 흰 버섯에는 반투명하고 기름진 갓과 너도밤나무와의 관계가 없습니다.",
+      "notes": "이 균은 스트로빌루린류를 분비하는데, 이는 자신이 점유한 너도밤나무 목재에서 경쟁 균류를 멀리하게 하는 강력한 항진균 화합물로서, 농업용 살균제의 중요한 한 무리의 본보기가 되었습니다. 바람 부는 가을날에는 높은 가지에서 떨어져 나온 자실체가 작은 낙하산처럼 천천히 내려오는 모습을 볼 수 있습니다."
+    },
+    "lt": {
+      "description": "Baltas, gleivėtas lakštinis grybas su žiedu, augantis kekėmis ant bukmedžio medienos – ant žuvusių kamienų ir nukritusių šakų bei aukštai gyvuose medžiuose, kur jis yra skaidytojas ir silpnas parazitas, sukeliantis baltąjį puvinį. Jis paplitęs visoje Šiaurės ir Vidurio Europoje visur, kur auga bukas, taip pat užregistruotas Rytų Azijoje – Japonijoje, Korėjoje ir Taivane.",
+      "cap": "Kepurėlė 2–8 cm skersmens, kartais iki 10 cm. Iš pradžių ji pusrutulio formos, vėliau išgaubta ir dar vėliau plokštesnė, tačiau dažnai lieka plačiai išgaubta. Jaunos kepurėlės blyškiai pilkšvos, vėliau grynai baltos iki dramblio kaulo spalvos, centre dažnai su ochros atspalviu. Drėgnu oru paviršių dengia storas blizgus gleivių sluoksnis ir kepurėlė būna permatoma kaip porcelianas, todėl lakšteliai kraštų link prašviečia kaip radialios linijos; sausu oru paviršius šilkinis ir matinis. Kepurėlės odelė sudaryta iš stačių, buožiškų ląstelių.",
+      "hymenium": "Lakšteliai platūs, stori ir labai reti, su daug trumpesnių tarpinių lakštelių, priaugę arba išlenkti su trumpu nubėgančiu dantuku. Jie permatomai balti ir su amžiumi kartais įgauna ochros atspalvį. Tarp bazidžių yra didelių, plonasienių, cilindrinių iki maišelio formos cistidžių.",
+      "stipe": "Kotas 3–10 cm ilgio ir 0,3–1 cm storio, cilindriškas, tvirtas ir dažnai išlinkęs, todėl kepurėlės, augančios apatinėje šakos ar kamieno pusėje, laikomos horizontaliai, lakšteliais žemyn. Viršutiniame trečdalyje yra didelis baltas plėviškas žiedas, viršutinėje pusėje vagotas. Virš žiedo kotas baltas ir smulkiai rievėtas, žemiau – šiek tiek žvynuotas ir pilkšvas iki rusvo, ypač senesnių vaisiakūnių.",
+      "flesh": "Trama plona, balta ir permatoma, kepurėlėje minkšta ir elastinga, kote pluoštinė. Perpjauta spalvos nekeičia ir neturi ypatingo kvapo ar skonio.",
+      "sporePrint": "Baltos ir tokios gausios, kad dažnai apdulkina aplinką aplink vaisiakūnius. Sporos beveik rutuliškos, lygios, labai storasienės ir bespalvės, 13–18 × 12–15 µm, kartais iki 20 × 18 µm.",
+      "habitat": "Auga kekėmis arba nedidelėmis grupėmis, retai pavieniui, ant bukų kamienų, kelmų ir šakų – tiek ant neseniai nuvirtusios ar audros pažeistos medienos, tiek ant žuvusių šakų aukštai gyvuose medžiuose, ir dažniausias kalvotose bei kalnuotose vietovėse ir senuose bukynuose. Kitus lapuočius, pavyzdžiui, ąžuolą, apgyvendina tik retai, o eglę – labai retai. Vaisiakūniai pasirodo nuo vasaros pabaigos iki vėlyvo rudens, Didžiojoje Britanijoje ir Vidurio Europoje nuo liepos iki spalio, o Čekijoje ir Slovakijoje iki lapkričio.",
+      "uses": "Jis valgomas, kai gleivės kruopščiai nuplaunamos arba nulupama kepurėlės odelė, tačiau trama plona ir beveik beskonė, todėl jis mažai vertingas ir geriausiu atveju maišomas su skanesnėmis rūšimis; kai kurie šaltiniai nurodo jį kaip nevalgomą. Iš jo grybienos buvo gauta priešgrybelinė medžiaga strobilurinas A, dar vadinama mucidinu, kurią galima naudoti odos grybelinėms infekcijoms gydyti.",
+      "confusion": "Jį praktiškai neįmanoma supainioti: joks kitas ant medienos augantis grybas neturi tokios grynai baltos, permatomos, porcelianiškai gleivėtos kepurėlės kartu su plėvišku žiedu ir glaudžiu ryšiu su buku. Kitiems baltiems grybams trūksta permatomos, riebios kepurėlės ir ryšio su buku.",
+      "notes": "Grybas išskiria strobilurinus – stiprius priešgrybelinius junginius, kurie atbaido konkuruojančius grybus nuo jo kolonizuojamos bukmedžio medienos; jie tapo pavyzdžiu svarbiai žemės ūkio fungicidų grupei. Vėjuotomis rudens dienomis galima pamatyti nuo aukštų šakų atitrūkusius vaisiakūnius, lėtai krentančius žemyn tarsi maži parašiutai."
+    },
+    "lv": {
+      "description": "Balta, gļotaina lapiņu sēne ar gredzenu, kas aug ķekaros uz dižskābarža koksnes – uz atmirušiem stumbriem un nokritušiem zariem, kā arī augstu dzīvos kokos, kur tā ir noārdītāja un vājš parazīts, kas izraisa balto trupi. Tā ir izplatīta visā Ziemeļeiropā un Viduseiropā visur, kur aug dižskābardis, un reģistrēta arī Austrumāzijā – Japānā, Korejā un Taivānā.",
+      "cap": "Cepurīte ir 2–8 cm plata, dažkārt līdz 10 cm. Sākumā tā ir puslodes formas, tad izliekta un vēlāk lēzenāka, tomēr bieži paliek plati izliekta. Jaunas cepurītes ir bāli pelēcīgas, vēlāk tīri baltas līdz ziloņkaula krāsas, centrā bieži ar okera nokrāsu. Mitrā laikā virsmu klāj biezs, spīdīgs gļotu slānis un cepurīte ir caurspīdīga kā porcelāns, tāpēc lapiņas uz malas pusi caurspīd kā radiālas līnijas; sausā laikā virsma ir zīdaina un matēta. Cepurītes miziņu veido stāvas, vālesveida šūnas.",
+      "hymenium": "Lapiņas ir platas, biezas un ļoti retas, ar daudzām īsākām starplapiņām, pieaugušas vai izgrieztas ar īsu notekošu zobiņu. Tās ir caurspīdīgi baltas un ar vecumu dažkārt iegūst okera nokrāsu. Starp bazīdijām ir lielas, plānsienu, cilindriskas līdz maisveida cistīdas.",
+      "stipe": "Kātiņš ir 3–10 cm garš un 0,3–1 cm resns, cilindrisks, stingrs un bieži izliekts, tāpēc cepurītes, kas aug zara vai stumbra apakšpusē, tiek turētas horizontāli ar lapiņām uz leju. Augšējā trešdaļā ir liels, balts, plēvains gredzens, kura augšpuse ir rievota. Virs gredzena kātiņš ir balts un smalki svītrots, zem tā – nedaudz zvīņains un pelēcīgs līdz brūngans, īpaši vecākiem augļķermeņiem.",
+      "flesh": "Mīkstums ir plāns, balts un caurspīdīgs, cepurītē mīksts un elastīgs, kātiņā šķiedrains. Griezumā tas nemaina krāsu, un tam nav īpašas smaržas vai garšas.",
+      "sporePrint": "Balts un tik bagātīgs, ka bieži noputina augļķermeņu apkārtni. Sporas ir gandrīz lodveida, gludas, ļoti biezsienu un bezkrāsainas, 13–18 × 12–15 µm, dažkārt līdz 20 × 18 µm.",
+      "habitat": "Aug ķekaros vai nelielās grupās, reti pa vienai, uz dižskābaržu stumbriem, celmiem un zariem – gan uz nesen nogāztas vai vētrā bojātas koksnes, gan uz atmirušiem zariem augstu dzīvos kokos, un visbiežāk sastopama pakalnu un kalnu apvidos un dabiskos dižskābaržu mežos. Citus lapu kokus, piemēram, ozolu, apdzīvo tikai reti, bet egli – ļoti reti. Augļķermeņi parādās no vasaras beigām līdz vēlam rudenim, Lielbritānijā un Viduseiropā no jūlija līdz oktobrim, bet Čehijā un Slovākijā līdz novembrim.",
+      "uses": "Tā ir ēdama, ja gļotas rūpīgi nomazgā vai cepurītes miziņu nomizo, taču mīkstums ir plāns un gandrīz bez garšas, tāpēc tai ir maza vērtība un to labākajā gadījumā jauc ar garšīgākām sugām; daži avoti to norāda kā neēdamu. No tās micēlija iegūta pretsēnīšu viela strobilurīns A, ko sauc arī par mucidīnu un ko var izmantot ādas sēnīšu infekciju ārstēšanai.",
+      "confusion": "To praktiski nav iespējams sajaukt: nevienai citai uz koksnes augošai sēnei nav tik tīri baltas, caurspīdīgas, porcelānam līdzīgi gļotainas cepurītes kopā ar plēvainu gredzenu un ciešu saistību ar dižskābardi. Citām baltām sēnēm trūkst caurspīdīgās, taukainās cepurītes un saistības ar dižskābardi.",
+      "notes": "Sēne izdala strobilurīnus – spēcīgus pretsēnīšu savienojumus, kas attur konkurējošās sēnes no tās kolonizētās dižskābarža koksnes; tie kļuva par paraugu svarīgai lauksaimniecības fungicīdu grupai. Vējainās rudens dienās var redzēt no augstiem zariem atrautus augļķermeņus, kas lēni slīd lejup kā mazi izpletņi."
+    },
+    "nl": {
+      "description": "Een witte, slijmerige plaatjeszwam met een ring die in bundels groeit op beukenhout, op dode stammen en gevallen takken en hoog in levende bomen, waar hij als afbreker en zwakke parasiet witrot veroorzaakt. Hij is algemeen in heel Noord- en Midden-Europa overal waar beuken groeien en is ook bekend uit Oost-Azië, uit Japan, Korea en Taiwan.",
+      "cap": "De hoed is 2–8 cm breed, soms tot 10 cm. Hij is eerst halfbolvormig, dan gewelfd en later vlakker, maar blijft vaak breed gewelfd. Jonge hoeden zijn bleekgrijs en worden zuiver wit tot ivoorkleurig, in het midden vaak met een okerkleurige zweem. Bij vochtig weer is het oppervlak bedekt met een dikke, glanzende slijmlaag en doorschijnend als porselein, zodat de lamellen naar de rand toe als radiale lijnen doorschemeren; bij droog weer is het zijdeachtig en mat. De hoedhuid bestaat uit rechtopstaande, knotsvormige cellen.",
+      "hymenium": "De lamellen zijn breed, dik en staan zeer ver uiteen, met veel kortere tussenlamellen, en zijn aangehecht of uitgebogen met een korte aflopende tand. Ze zijn doorschijnend wit en krijgen met de leeftijd soms een okerkleurige tint. Tussen de basidiën komen grote, dunwandige, cilindrische tot zakvormige cystiden voor.",
+      "stipe": "De steel is 3–10 cm lang en 0,3–1 cm dik, cilindrisch, taai en vaak gebogen, zodat hoeden aan de onderkant van een tak of stam horizontaal worden gehouden met de lamellen naar beneden. Een grote, witte, vliezige ring in het bovenste derde deel is aan de bovenkant gegroefd. Boven de ring is de steel wit en fijn gestreept, eronder licht geschubd en grijzig tot bruinig, vooral bij oudere vruchtlichamen.",
+      "flesh": "Het vlees is dun, wit en doorschijnend, zacht en elastisch in de hoed en vezelig in de steel. Het verkleurt niet bij doorsnijden en heeft geen bijzondere geur of smaak.",
+      "sporePrint": "Wit en zo overvloedig dat het de omgeving van de vruchtlichamen vaak bepoedert. De sporen zijn bijna bolvormig, glad, zeer dikwandig en kleurloos, 13–18 × 12–15 µm, soms tot 20 × 18 µm.",
+      "habitat": "Hij groeit in bundels of kleine groepen, zelden alleen, op stammen, stronken en takken van beuk, zowel op pas gevallen of door storm beschadigd hout als op dode takken hoog in levende bomen, en is het talrijkst in heuvel- en berggebieden en in oerbosachtige beukenbossen. Andere loofbomen zoals eik worden slechts zelden gebruikt, en spar zeer zelden. De vruchtlichamen verschijnen van de late zomer tot de late herfst, van juli tot oktober in Groot-Brittannië en Midden-Europa en tot november in Tsjechië en Slowakije.",
+      "uses": "Hij is eetbaar als het slijm grondig is afgewassen of de hoedhuid is afgetrokken, maar het vlees is dun en vrijwel smaakloos, zodat hij weinig waarde heeft en hooguit gemengd wordt met smakelijkere soorten; sommige bronnen noemen hem oneetbaar. Uit zijn mycelium werd de schimmelwerende stof strobilurine A, ook mucidine genoemd, gewonnen, die gebruikt kan worden om schimmelinfecties van de huid te behandelen.",
+      "confusion": "Hij is vrijwel onmiskenbaar: geen andere houtbewonende paddenstoel heeft zo’n zuiver witte, doorschijnende, porseleinachtig slijmerige hoed in combinatie met een vliezige ring en een nauwe binding aan beuk. Andere witte paddenstoelen missen de doorschijnende, vettige hoed en de binding aan beuk.",
+      "notes": "De zwam scheidt strobilurinen af, krachtige schimmelwerende stoffen die concurrerende schimmels weghouden van het beukenhout dat hij koloniseert; ze dienden als voorbeeld voor een belangrijke groep landbouwfungiciden. Op winderige herfstdagen kun je vruchtlichamen die van hoge takken zijn losgeraakt als kleine parachutes naar beneden zien zweven."
+    },
+    "no": {
+      "description": "En hvit, slimete skivesopp med ring som vokser i knipper på bøkeved, på døde stammer og nedfalne greiner og høyt oppe i levende trær, der den er nedbryter og svak parasitt og gir hvitråte. Den er vanlig i hele Nord- og Mellom-Europa overalt der bøk vokser, og er også kjent fra Øst-Asia, fra Japan, Korea og Taiwan.",
+      "cap": "Hatten er 2–8 cm bred, av og til opptil 10 cm. Den er først halvkuleformet, deretter hvelvet og senere flatere, men forblir ofte bredt hvelvet. Unge hatter er blekt gråaktige og blir rent hvite til elfenbensfargede, ofte med et okerfarget skjær i midten. I vått vær er overflaten dekket av et tykt, blankt slimlag og gjennomskinnelig som porselen, slik at skivene skinner gjennom som radiære linjer mot kanten; i tørt vær er den silkeaktig og matt. Hathuden består av oppreiste, køllformede celler.",
+      "hymenium": "Skivene er brede, tykke og svært glisne, med mange kortere mellomskiver, og påvokste eller utbuktede med en kort nedløpende tann. De er gjennomskinnelig hvite og får av og til en okerfarget tone med alderen. Mellom basidiene finnes store, tynnveggede, sylindriske til sekkformede cystider.",
+      "stipe": "Stilken er 3–10 cm lang og 0,3–1 cm tykk, sylindrisk, seig og ofte krummet, slik at hatter som vokser på undersiden av en grein eller stamme holdes vannrett med skivene ned. En stor, hvit, hinneaktig ring i den øverste tredjedelen er furet på oversiden. Over ringen er stilken hvit og fint stripet, under den svakt skjellete og gråaktig til brunaktig, særlig hos eldre fruktlegemer.",
+      "flesh": "Kjøttet er tynt, hvitt og gjennomskinnelig, mykt og elastisk i hatten og trådet i stilken. Det skifter ikke farge ved snitt og har ingen spesiell lukt eller smak.",
+      "sporePrint": "Hvitt og så rikelig at det ofte pudrer omgivelsene rundt fruktlegemene. Sporene er nesten kuleformede, glatte, svært tykkveggede og fargeløse, 13–18 × 12–15 µm, av og til opptil 20 × 18 µm.",
+      "habitat": "Den vokser i knipper eller små grupper, sjelden enkeltvis, på stammer, stubber og greiner av bøk, både på nylig falt eller stormskadet ved og på døde greiner høyt oppe i levende trær, og er vanligst i ås- og fjellstrøk og i urskogsaktige bøkeskoger. Andre løvtrær som eik brukes bare sjelden, og gran svært sjelden. Fruktlegemene kommer fra sensommer til seinhøst, fra juli til oktober i Storbritannia og Mellom-Europa og til november i Tsjekkia og Slovakia.",
+      "uses": "Den er spiselig når slimet er grundig vasket av eller hathuden trukket av, men kjøttet er tynt og nesten smakløst, så den har liten verdi og brukes høyst blandet med smakfullere arter; noen kilder oppgir den som uspiselig. Det soppdrepende stoffet strobilurin A, også kalt mucidin, ble utvunnet fra myceliet og kan brukes til å behandle soppinfeksjoner i huden.",
+      "confusion": "Den er praktisk talt umulig å forveksle: ingen annen sopp på ved har en så rent hvit, gjennomskinnelig, porselensaktig slimete hatt sammen med en hinneaktig ring og en nær tilknytning til bøk. Andre hvite sopper mangler den gjennomskinnelige, fettete hatten og tilknytningen til bøk.",
+      "notes": "Soppen skiller ut strobiluriner, kraftige soppdrepende stoffer som holder konkurrerende sopper borte fra bøkeveden den koloniserer; de har vært forbilde for en viktig gruppe soppmidler i landbruket. På vindfulle høstdager kan man se fruktlegemer som har løsnet fra høye greiner, dale ned som små fallskjermer."
+    },
+    "pl": {
+      "description": "Biały, śluzowaty grzyb blaszkowy z pierścieniem, rosnący w kępach na drewnie buka, na martwych pniach i opadłych gałęziach, a także wysoko na żywych drzewach, gdzie jest rozkładaczem i słabym pasożytem powodującym białą zgniliznę. Jest pospolity w całej Europie Północnej i Środkowej wszędzie tam, gdzie rośnie buk, i notowany jest również w Azji Wschodniej, w Japonii, Korei i na Tajwanie.",
+      "cap": "Kapelusz ma średnicę 2–8 cm, czasem do 10 cm. Początkowo jest półkulisty, potem wypukły, a później bardziej płaski, choć często pozostaje szeroko wysklepiony. Młode kapelusze są bladoszare, później czysto białe do barwy kości słoniowej, w środku często z ochrowym odcieniem. W czasie wilgotnej pogody powierzchnię pokrywa gruba, błyszcząca warstwa śluzu, a kapelusz jest półprzejrzysty jak porcelana, tak że blaszki prześwitują ku brzegowi jako promieniste linie; w czasie suchej pogody jest jedwabisty i matowy. Skórka kapelusza zbudowana jest z wzniesionych, maczugowatych komórek.",
+      "hymenium": "Blaszki są szerokie, grube i bardzo rzadkie, z licznymi krótszymi blaszeczkami, przyrośnięte lub wycięte z krótkim zbiegającym ząbkiem. Są półprzejrzyście białe, a z wiekiem czasem nabierają ochrowego odcienia. Między podstawkami występują duże, cienkościenne, cylindryczne do łagwiowatych cystydy.",
+      "stipe": "Trzon ma 3–10 cm długości i 0,3–1 cm grubości, jest walcowaty, twardy i często wygięty, tak że kapelusze rosnące od spodu gałęzi lub pnia utrzymywane są poziomo, blaszkami w dół. W górnej jednej trzeciej znajduje się duży, biały, błoniasty pierścień, prążkowany na górnej stronie. Powyżej pierścienia trzon jest biały i delikatnie prążkowany, poniżej lekko łuseczkowaty i szarawy do brązowawego, zwłaszcza u starszych owocników.",
+      "flesh": "Miąższ jest cienki, biały i półprzejrzysty, w kapeluszu miękki i elastyczny, w trzonie włóknisty. Nie zmienia barwy po przekrojeniu i nie ma wyraźnego zapachu ani smaku.",
+      "sporePrint": "Biały i tak obfity, że często oprósza otoczenie owocników. Zarodniki są prawie kuliste, gładkie, bardzo grubościenne i bezbarwne, 13–18 × 12–15 µm, czasem do 20 × 18 µm.",
+      "habitat": "Rośnie w kępach lub małych grupach, rzadko pojedynczo, na pniach, pniakach i gałęziach buka, zarówno na świeżo powalonym lub uszkodzonym przez burzę drewnie, jak i na martwych gałęziach wysoko na żywych drzewach, i jest najczęstszy na pogórzach, w górach i w buczynach o charakterze puszczańskim. Inne drzewa liściaste, takie jak dąb, zasiedla tylko rzadko, a świerk bardzo rzadko. Owocniki pojawiają się od późnego lata do późnej jesieni, w Wielkiej Brytanii i Europie Środkowej od lipca do października, a w Czechach i na Słowacji do listopada.",
+      "uses": "Jest jadalny po dokładnym zmyciu śluzu lub zdjęciu skórki z kapelusza, ale miąższ jest cienki i prawie bez smaku, więc ma niewielką wartość i nadaje się co najwyżej do mieszania ze smaczniejszymi gatunkami; niektóre źródła podają go jako niejadalny. Z jego grzybni uzyskano substancję przeciwgrzybiczą strobilurynę A, zwaną też mucydyną, którą można stosować w leczeniu grzybic skóry.",
+      "confusion": "Jest praktycznie nie do pomylenia: żaden inny grzyb rosnący na drewnie nie ma tak czysto białego, półprzejrzystego, porcelanowo śluzowatego kapelusza w połączeniu z błoniastym pierścieniem i ścisłym związkiem z bukiem. Innym białym grzybom brakuje półprzejrzystego, tłustego kapelusza i związku z bukiem.",
+      "notes": "Grzyb wydziela strobiluryny, silne związki przeciwgrzybicze, które trzymają konkurencyjne grzyby z dala od kolonizowanego przez niego drewna bukowego; posłużyły one za wzór dla ważnej grupy fungicydów rolniczych. W wietrzne jesienne dni można zobaczyć owocniki oderwane od wysokich gałęzi, opadające powoli jak małe spadochrony."
+    },
+    "pt": {
+      "description": "Um cogumelo de lamelas branco, viscoso e com anel que cresce em tufos sobre madeira de faia, em troncos mortos e ramos caídos e também no alto de árvores vivas, onde é decompositor e parasita fraco, causando podridão branca. É comum em todo o norte e centro da Europa onde quer que cresça a faia e está também registado na Ásia Oriental, no Japão, na Coreia e em Taiwan.",
+      "cap": "O chapéu mede 2–8 cm de diâmetro, por vezes até 10 cm. É primeiro hemisférico, depois convexo e mais tarde mais achatado, mas muitas vezes permanece largamente abaulado. Os chapéus jovens são cinzento-pálidos, tornando-se branco puro a marfim, muitas vezes com um tom ocre no centro. Com tempo húmido a superfície está coberta por uma camada espessa de muco brilhante e é translúcida como porcelana, de modo que as lamelas transparecem como linhas radiais junto à margem; com tempo seco é sedosa e baça. A cutícula é formada por células eretas em forma de clava.",
+      "hymenium": "As lamelas são largas, grossas e muito espaçadas, com muitas lamélulas mais curtas, adnatas ou chanfradas com um curto dente decorrente. São brancas e translúcidas e por vezes adquirem um tom ocre com a idade. Entre os basídios existem cistídios grandes, de parede fina, cilíndricos a utriformes.",
+      "stipe": "O pé mede 3–10 cm de comprimento e 0,3–1 cm de espessura; é cilíndrico, tenaz e muitas vezes curvo, de modo que os chapéus que crescem sob um ramo ou tronco se mantêm horizontais, com as lamelas para baixo. Um anel grande, branco e membranoso, no terço superior, é estriado na face superior. Acima do anel o pé é branco e finamente estriado; abaixo é ligeiramente escamoso e acinzentado a acastanhado, sobretudo nos exemplares mais velhos.",
+      "flesh": "A carne é fina, branca e translúcida, macia e elástica no chapéu e fibrosa no pé. Não muda de cor ao corte e não tem cheiro nem sabor distintivos.",
+      "sporePrint": "Branca e tão abundante que muitas vezes polvilha os arredores dos corpos frutíferos. Os esporos são subglobosos, lisos, de parede muito espessa e incolores, 13–18 × 12–15 µm, por vezes até 20 × 18 µm.",
+      "habitat": "Cresce em tufos ou pequenos grupos, raramente isolado, em troncos, cepos e ramos de faia, tanto em madeira recentemente caída ou danificada por tempestades como em ramos mortos no alto de árvores vivas, e é mais frequente em zonas de colinas e montanha e em faiais antigos. Outras folhosas, como o carvalho, só raramente são colonizadas, e o espruce muito raramente. Os corpos frutíferos surgem do fim do verão ao fim do outono, de julho a outubro na Grã-Bretanha e na Europa Central e até novembro na Chéquia e na Eslováquia.",
+      "uses": "É comestível depois de o muco ser bem lavado ou de a cutícula ser retirada, mas a carne é fina e quase sem sabor, pelo que tem pouco valor e, quando muito, mistura-se com espécies mais saborosas; algumas fontes consideram-no não comestível. Do seu micélio obteve-se a substância antifúngica estrobilurina A, também chamada mucidina, que pode ser usada no tratamento de micoses da pele.",
+      "confusion": "É praticamente inconfundível: nenhum outro cogumelo que cresce em madeira tem um chapéu tão branco puro, translúcido e viscoso como porcelana, juntamente com um anel membranoso e uma ligação estreita à faia. Outros cogumelos brancos não têm o chapéu translúcido e gorduroso nem a associação com a faia.",
+      "notes": "O fungo liberta estrobilurinas, compostos antifúngicos potentes que mantêm os fungos concorrentes afastados da madeira de faia que coloniza; serviram de modelo a um importante grupo de fungicidas agrícolas. Em dias de outono ventosos, podem ver-se corpos frutíferos soltos dos ramos altos a descer lentamente como pequenos paraquedas."
+    },
+    "ro": {
+      "description": "O ciupercă cu lamele albă, mucilaginoasă și cu inel, care crește în tufe pe lemn de fag, pe trunchiuri moarte și ramuri căzute, dar și sus în arborii vii, unde este descompunătoare și parazit slab, provocând putregai alb. Este comună în toată Europa de Nord și Centrală oriunde crește fagul și este semnalată și în Asia de Est, în Japonia, Coreea și Taiwan.",
+      "cap": "Pălăria are 2–8 cm în diametru, uneori până la 10 cm. La început este emisferică, apoi convexă și mai târziu mai aplatizată, dar rămâne adesea larg boltită. Pălăriile tinere sunt cenușiu-pal, devenind alb pur până la fildeșiu, adesea cu o nuanță ocru în centru. Pe vreme umedă suprafața este acoperită de un strat gros și lucios de mucus și este translucidă ca porțelanul, astfel încât lamelele se văd prin ea ca linii radiale spre margine; pe vreme uscată este mătăsoasă și mată. Cuticula pălăriei este formată din celule erecte, în formă de măciucă.",
+      "hymenium": "Lamelele sunt late, groase și foarte rare, cu multe lamelule mai scurte, aderente sau scobite cu un dinte scurt decurent. Sunt albe și translucide și uneori capătă o nuanță ocru cu vârsta. Printre bazidii se găsesc cistide mari, cu perete subțire, cilindrice până la utriforme.",
+      "stipe": "Piciorul are 3–10 cm lungime și 0,3–1 cm grosime, este cilindric, tenace și adesea curbat, astfel încât pălăriile care cresc sub o ramură sau un trunchi sunt ținute orizontal, cu lamelele în jos. Un inel mare, alb și membranos, aflat în treimea superioară, este striat pe partea de sus. Deasupra inelului piciorul este alb și fin striat, dedesubt ușor solzos și cenușiu până la brun, mai ales la exemplarele mai vechi.",
+      "flesh": "Carnea este subțire, albă și translucidă, moale și elastică în pălărie și fibroasă în picior. Nu își schimbă culoarea la tăiere și nu are miros sau gust deosebit.",
+      "sporePrint": "Albă și atât de abundentă încât adesea pudrează împrejurimile corpurilor fructifere. Sporii sunt subglobuloși, netezi, cu perete foarte gros și incolori, 13–18 × 12–15 µm, uneori până la 20 × 18 µm.",
+      "habitat": "Crește în tufe sau grupuri mici, rar solitar, pe trunchiuri, cioturi și ramuri de fag, atât pe lemn recent căzut sau doborât de furtună, cât și pe ramuri moarte sus în arborii vii, și este cea mai frecventă în zonele de deal și de munte și în făgetele seculare. Alte foioase, precum stejarul, sunt colonizate doar rar, iar molidul foarte rar. Corpurile fructifere apar de la sfârșitul verii până la sfârșitul toamnei, din iulie până în octombrie în Marea Britanie și Europa Centrală și până în noiembrie în Cehia și Slovacia.",
+      "uses": "Este comestibilă după ce mucusul a fost spălat temeinic sau cuticula pălăriei a fost îndepărtată, dar carnea este subțire și aproape fără gust, așa că are valoare redusă și se folosește cel mult în amestec cu specii mai gustoase; unele surse o consideră necomestibilă. Din miceliul ei s-a obținut substanța antifungică strobilurina A, numită și mucidină, care poate fi folosită pentru tratarea micozelor pielii.",
+      "confusion": "Este practic inconfundabilă: nicio altă ciupercă ce crește pe lemn nu are o pălărie atât de alb pură, translucidă și mucilaginoasă ca porțelanul, împreună cu un inel membranos și o legătură strânsă cu fagul. Altor ciuperci albe le lipsesc pălăria translucidă și unsuroasă și legătura cu fagul.",
+      "notes": "Ciuperca eliberează strobilurine, compuși antifungici puternici care țin ciupercile concurente departe de lemnul de fag pe care îl colonizează; acestea au servit drept model pentru un grup important de fungicide agricole. În zilele de toamnă cu vânt pot fi văzute corpuri fructifere desprinse de pe ramurile înalte coborând lent ca niște mici parașute."
+    },
+    "ru": {
+      "description": "Белый, слизистый пластинчатый гриб с кольцом, растущий пучками на буковой древесине — на мёртвых стволах и опавших ветвях, а также высоко на живых деревьях, где он выступает разрушителем древесины и слабым паразитом, вызывая белую гниль. Обычен по всей Северной и Центральной Европе везде, где растёт бук, а также отмечен в Восточной Азии — в Японии, Корее и на Тайване.",
+      "cap": "Шляпка 2–8 см в диаметре, иногда до 10 см. Сначала она полушаровидная, затем выпуклая и позже более плоская, но часто остаётся широковыпуклой. Молодые шляпки бледно-сероватые, затем становятся чисто-белыми до цвета слоновой кости, в центре часто с охристым оттенком. В сырую погоду поверхность покрыта толстым блестящим слоем слизи и просвечивает, как фарфор, так что пластинки просвечивают к краю радиальными линиями; в сухую погоду она шелковистая и матовая. Кожица шляпки состоит из прямостоячих булавовидных клеток.",
+      "hymenium": "Пластинки широкие, толстые и очень редкие, с многочисленными укороченными пластинками, приросшие или выемчатые с коротким нисходящим зубцом. Они просвечивающе-белые и с возрастом иногда приобретают охристый оттенок. Между базидиями встречаются крупные тонкостенные цилиндрические или мешковидные цистиды.",
+      "stipe": "Ножка длиной 3–10 см и толщиной 0,3–1 см, цилиндрическая, упругая и часто изогнутая, так что шляпки, растущие с нижней стороны ветви или ствола, держатся горизонтально, пластинками вниз. В верхней трети находится крупное белое плёнчатое кольцо, бороздчатое с верхней стороны. Выше кольца ножка белая и тонкополосатая, ниже — слегка чешуйчатая, сероватая или буроватая, особенно у старых плодовых тел.",
+      "flesh": "Мякоть тонкая, белая и просвечивающая, в шляпке мягкая и упругая, в ножке волокнистая. На срезе цвет не меняет, особого запаха и вкуса не имеет.",
+      "sporePrint": "Белый и настолько обильный, что часто припудривает окрестности плодовых тел. Споры почти шаровидные, гладкие, очень толстостенные и бесцветные, 13–18 × 12–15 мкм, иногда до 20 × 18 мкм.",
+      "habitat": "Растёт пучками или небольшими группами, редко поодиночке, на стволах, пнях и ветвях бука — как на недавно упавшей или повреждённой бурей древесине, так и на мёртвых ветвях высоко на живых деревьях; чаще всего встречается в холмистых и горных районах и в старовозрастных буковых лесах. Другие лиственные деревья, например дуб, заселяет лишь редко, а ель — очень редко. Плодовые тела появляются с конца лета до поздней осени: с июля по октябрь в Великобритании и Центральной Европе и до ноября в Чехии и Словакии.",
+      "uses": "Съедобен после тщательного смывания слизи или снятия кожицы со шляпки, но мякоть тонкая и почти безвкусная, поэтому ценность гриба невелика, и его в лучшем случае смешивают с более вкусными видами; некоторые источники считают его несъедобным. Из его мицелия было получено противогрибковое вещество стробилурин А, называемое также муцидином, которое можно применять для лечения грибковых заболеваний кожи.",
+      "confusion": "Практически ни с чем не спутать: ни у одного другого гриба, растущего на древесине, нет столь чисто-белой, просвечивающей, фарфорово-слизистой шляпки в сочетании с плёнчатым кольцом и тесной связью с буком. У других белых грибов нет просвечивающей жирной шляпки и связи с буком.",
+      "notes": "Гриб выделяет стробилурины — сильные противогрибковые соединения, которые не подпускают конкурирующие грибы к заселённой им буковой древесине; они послужили образцом для важной группы сельскохозяйственных фунгицидов. В ветреные осенние дни можно увидеть, как плодовые тела, сорванные с высоких ветвей, медленно опускаются, словно маленькие парашюты."
+    },
+    "sk": {
+      "description": "Biela, slizká lupeňovitá huba s prsteňom, ktorá rastie v trsoch na bukovom dreve, na odumretých kmeňoch a spadnutých konároch aj vysoko na živých stromoch, kde je rozkladačom a slabým parazitom spôsobujúcim bielu hnilobu. Je bežná v celej severnej a strednej Európe všade, kde rastie buk, a zaznamenaná je aj vo východnej Ázii, v Japonsku, Kórei a na Taiwane.",
+      "cap": "Klobúk má priemer 2–8 cm, výnimočne až 10 cm. Spočiatku je polguľovitý, potom klenutý a neskôr plochejší, často však zostáva široko klenutý. Mladé klobúky sú bledosivasté, neskôr čisto biele až slonovinové, v strede často s okrovým nádychom. Za vlhka pokrýva povrch hrubý lesklý sliz a klobúk je priesvitný ako porcelán, takže lupene presvitajú ako radiálne čiarky smerom k okraju; za sucha je hodvábny a matný. Pokožku klobúka tvoria vzpriamené kyjakovité bunky.",
+      "hymenium": "Lupene sú široké, hrubé a veľmi riedke, s mnohými kratšími lupienkami, pripojené alebo vykrojené s krátkym zbiehavým zúbkom. Sú priesvitne biele a vekom niekedy získavajú okrový odtieň. Medzi bazídiami sa vyskytujú veľké tenkostenné valcovité až mechúrikovité cystidy.",
+      "stipe": "Hlúbik je 3–10 cm dlhý a 0,3–1 cm hrubý, valcovitý, húževnatý a často zakrivený, takže klobúky rastúce zospodu konára alebo kmeňa sú držané vodorovne a lupeňmi nadol. V hornej tretine je veľký biely blanitý prsteň, na hornej strane ryhovaný. Nad prsteňom je hlúbik biely a jemne ryhovaný, pod ním mierne šupinatý a sivastý až hnedastý, najmä pri starších plodniciach.",
+      "flesh": "Dužina je tenká, biela a priesvitná, v klobúku mäkká a pružná, v hlúbiku vláknitá. Na reze nemení farbu a nemá výraznú vôňu ani chuť.",
+      "sporePrint": "Biely a taký hojný, že často popráši okolie plodníc. Výtrusy sú takmer guľovité, hladké, veľmi hrubostenné a bezfarebné, 13–18 × 12–15 µm, výnimočne až 20 × 18 µm.",
+      "habitat": "Rastie v trsoch alebo malých skupinách, zriedka jednotlivo, na kmeňoch, pňoch a konároch buka, na čerstvo spadnutom alebo búrkou poškodenom dreve aj na odumretých konároch vysoko na živých stromoch, a najčastejšia je v pahorkatinách a horách a v pralesovitých bučinách. Iné listnaté stromy, napríklad dub, osídľuje len zriedka a smrek veľmi zriedka. Plodnice sa objavujú od neskorého leta do neskorej jesene, v Británii a strednej Európe od júla do októbra, v Česku a na Slovensku až do novembra.",
+      "uses": "Je jedlá, keď sa sliz dôkladne zmyje alebo sa stiahne pokožka klobúka, dužina je však tenká a takmer bez chuti, takže má malú hodnotu a hodí sa nanajvýš do zmesi s chutnejšími druhmi; niektoré zdroje ju uvádzajú ako nejedlú. Z jej mycélia sa získala protiplesňová látka strobilurín A, nazývaná aj mucidín, ktorú možno použiť na liečbu kožných mykóz.",
+      "confusion": "Je prakticky nezameniteľná: žiadna iná huba rastúca na dreve nemá taký čisto biely, priesvitný, porcelánovo slizký klobúk spolu s blanitým prsteňom a úzkou väzbou na buk. Iným bielym hubám chýba priesvitný mastný klobúk a väzba na buk.",
+      "notes": "Huba vylučuje strobiluríny, silné protiplesňové látky, ktoré udržujú konkurenčné huby mimo bukového dreva, ktoré osídľuje; stali sa predlohou dôležitej skupiny poľnohospodárskych fungicídov. Za veterných jesenných dní možno vidieť plodnice uvoľnené z vysokých konárov, ako sa znášajú k zemi ako malé padáky."
+    },
+    "sl": {
+      "description": "Bela, sluzasta lističasta goba z obročkom, ki raste v šopih na bukovem lesu, na odmrlih deblih in odpadlih vejah ter visoko na živih drevesih, kjer je razkrojevalka in šibka zajedavka ter povzroča belo trohnobo. Pogosta je po vsej severni in srednji Evropi povsod, kjer raste bukev, zabeležena pa je tudi v vzhodni Aziji, na Japonskem, v Koreji in na Tajvanu.",
+      "cap": "Klobuk meri 2–8 cm v premeru, včasih do 10 cm. Sprva je poloblast, nato izbočen in pozneje bolj sploščen, a pogosto ostane široko izbočen. Mladi klobuki so bledo sivkasti, nato čisto beli do slonokoščeni, na sredini pogosto z okrastim nadihom. V vlažnem vremenu površino prekriva debela, svetleča plast sluzi in klobuk je prosojen kot porcelan, tako da lističi proti robu presevajo kot radialne črte; v suhem vremenu je svilnat in moten. Kožico klobuka sestavljajo pokončne, kijaste celice.",
+      "hymenium": "Lističi so široki, debeli in zelo redki, z mnogimi krajšimi vmesnimi lističi, priraščeni ali izrezani s kratkim navzdol tekočim zobcem. So prosojno beli in s starostjo včasih dobijo okrast odtenek. Med bazidiji so velike, tankostenske, valjaste do mešičaste cistide.",
+      "stipe": "Bet je dolg 3–10 cm in debel 0,3–1 cm, valjast, žilav in pogosto ukrivljen, tako da so klobuki, ki rastejo s spodnje strani veje ali debla, vodoravni, z lističi navzdol. V zgornji tretjini je velik, bel, kožnat obroček, na zgornji strani nažlebljen. Nad obročkom je bet bel in drobno progast, pod njim rahlo luskast in sivkast do rjavkast, zlasti pri starejših trosnjakih.",
+      "flesh": "Meso je tanko, belo in prosojno, v klobuku mehko in prožno, v betu vlaknato. Ob prerezu ne spremeni barve in nima izrazitega vonja ali okusa.",
+      "sporePrint": "Bel in tako obilen, da pogosto napraši okolico trosnjakov. Trosi so skoraj kroglasti, gladki, zelo debelostenski in brezbarvni, 13–18 × 12–15 µm, včasih do 20 × 18 µm.",
+      "habitat": "Raste v šopih ali manjših skupinah, redko posamič, na deblih, štorih in vejah bukve, tako na nedavno padlem ali od viharja poškodovanem lesu kot na odmrlih vejah visoko na živih drevesih, najpogostejša pa je v gričevju in hribovju ter v pragozdnih bukovjih. Druge listavce, na primer hrast, naseljuje le redko, smreko pa zelo redko. Trosnjaki se pojavljajo od poznega poletja do pozne jeseni, v Veliki Britaniji in srednji Evropi od julija do oktobra, na Češkem in Slovaškem pa do novembra.",
+      "uses": "Užitna je, ko sluz temeljito speremo ali olupimo kožico klobuka, vendar je meso tanko in skoraj brez okusa, zato ima majhno vrednost in jo kvečjemu mešamo z okusnejšimi vrstami; nekateri viri jo navajajo kot neužitno. Iz njenega podgobja so pridobili protiglivično snov strobilurin A, imenovano tudi mucidin, ki jo je mogoče uporabiti za zdravljenje glivičnih okužb kože.",
+      "confusion": "Praktično je nezamenljiva: nobena druga goba, ki raste na lesu, nima tako čisto belega, prosojnega, porcelanasto sluzastega klobuka skupaj s kožnatim obročkom in tesno vezanostjo na bukev. Drugim belim gobam manjkata prosojen, masten klobuk in vezanost na bukev.",
+      "notes": "Goba izloča strobilurine, močne protiglivične spojine, ki konkurenčne glive odganjajo od bukovega lesa, ki ga naseljuje; služili so kot zgled za pomembno skupino kmetijskih fungicidov. Ob vetrovnih jesenskih dneh lahko vidimo trosnjake, odtrgane z visokih vej, kako počasi padajo kot majhna padala."
+    },
+    "sr": {
+      "description": "Бела, слузава листићава гљива са прстеном која расте у бусенима на буковом дрвету, на мртвим стаблима и опалим гранама, али и високо на живим стаблима, где је разлагач и слаб паразит и изазива белу трулеж. Честа је у целој северној и средњој Европи свуда где расте буква, а забележена је и у источној Азији, у Јапану, Кореји и на Тајвану.",
+      "cap": "Шешир је пречника 2–8 cm, понекад до 10 cm. У почетку је полулоптаст, затим испупчен, а касније пљоснатији, али често остаје широко испупчен. Млади шешири су бледосивкасти, а затим постају чисто бели до боје слоноваче, у средини често са окерастим тоном. По влажном времену површину прекрива дебео, сјајан слој слузи и шешир је провидан попут порцелана, па листићи према ободу просијавају као радијалне линије; по сувом времену површина је свиленкаста и мат. Кожица шешира грађена је од усправних, батинастих ћелија.",
+      "hymenium": "Листићи су широки, дебели и веома ретки, са много краћих међулистића, прирасли или изрезани са кратким силазним зупцем. Провидно су бели и са старошћу понекад поприме окераст тон. Међу базидијама се налазе велике, танкозидне, ваљкасте до мешинасте цистиде.",
+      "stipe": "Дршка је дуга 3–10 cm и дебела 0,3–1 cm, ваљкаста, жилава и често закривљена, па се шешири који расту са доње стране гране или стабла држе водоравно, листићима надоле. У горњој трећини налази се велики, бели, опнасти прстен, на горњој страни избраздан. Изнад прстена дршка је бела и фино пругаста, испод њега благо љуспаста и сивкаста до смеђкаста, нарочито код старијих плодних тела.",
+      "flesh": "Месо је танко, бело и провидно, у шеширу меко и еластично, а у дршци влакнасто. На пресеку не мења боју и нема изражен мирис ни укус.",
+      "sporePrint": "Бео и толико обилан да често запраши околину плодних тела. Споре су готово лоптасте, глатке, веома дебелих зидова и безбојне, 13–18 × 12–15 µm, понекад до 20 × 18 µm.",
+      "habitat": "Расте у бусенима или мањим групама, ретко појединачно, на стаблима, пањевима и гранама букве, како на недавно палом или олујом оштећеном дрвету тако и на мртвим гранама високо на живим стаблима, а најчешћа је у брдским и планинским пределима и у прашумским буковим шумама. Друго листопадно дрвеће, попут храста, насељава само ретко, а смрчу веома ретко. Плодна тела се појављују од касног лета до касне јесени, у Британији и средњој Европи од јула до октобра, а у Чешкој и Словачкој до новембра.",
+      "uses": "Јестива је када се слуз темељно испере или огули кожица шешира, али месо је танко и готово без укуса, па има малу вредност и у најбољем случају се меша са укуснијим врстама; неки извори је наводе као нејестиву. Из њеног мицелијума добијена је противгљивична супстанца стробилурин А, названа и муцидин, која се може користити за лечење гљивичних инфекција коже.",
+      "confusion": "Практично је незаменљива: ниједна друга гљива која расте на дрвету нема тако чисто бео, провидан, порцелански слузав шешир заједно са опнастим прстеном и уском везом са буквом. Другим белим гљивама недостају провидни, масни шешир и веза са буквом.",
+      "notes": "Гљива лучи стробилурине, снажна противгљивична једињења која држе конкурентске гљиве подаље од буковог дрвета које насељава; послужила су као узор за важну групу пољопривредних фунгицида. За ветровитих јесењих дана могу се видети плодна тела откинута са високих грана како полако падају попут малих падобрана."
+    },
+    "sv": {
+      "description": "En vit, slemmig skivling med ring som växer i tuvor på bokved, på döda stammar och nedfallna grenar och högt uppe i levande träd, där den är nedbrytare och svag parasit och orsakar vitröta. Den är vanlig i hela norra och mellersta Europa överallt där bok växer och är också känd från Östasien, från Japan, Korea och Taiwan.",
+      "cap": "Hatten är 2–8 cm bred, ibland upp till 10 cm. Den är först halvklotformig, sedan välvd och senare plattare, men förblir ofta brett välvd. Unga hattar är blekt gråaktiga och blir rent vita till elfenbensfärgade, ofta med en ockrafärgad ton i mitten. I vått väder är ytan täckt av ett tjockt, glänsande slemlager och genomskinlig som porslin, så att skivorna lyser igenom som radiella linjer mot kanten; i torrt väder är den silkesartad och matt. Hatthuden består av upprätta, klubbformade celler.",
+      "hymenium": "Skivorna är breda, tjocka och mycket glesa, med många kortare mellanskivor, och vidväxta eller urnupna med en kort nedlöpande tand. De är genomskinligt vita och får ibland en ockrafärgad ton med åldern. Mellan basidierna finns stora, tunnväggiga, cylindriska till säckformade cystider.",
+      "stipe": "Foten är 3–10 cm lång och 0,3–1 cm tjock, cylindrisk, seg och ofta böjd, så att hattar som växer på undersidan av en gren eller stam hålls vågrätt med skivorna nedåt. En stor, vit, hinnaktig ring i den översta tredjedelen är fårad på ovansidan. Ovanför ringen är foten vit och fint strimmig, nedanför svagt fjällig och gråaktig till brunaktig, särskilt hos äldre fruktkroppar.",
+      "flesh": "Köttet är tunt, vitt och genomskinligt, mjukt och elastiskt i hatten och trådigt i foten. Det ändrar inte färg i snitt och har ingen särskild lukt eller smak.",
+      "sporePrint": "Vitt och så rikligt att det ofta pudrar omgivningen kring fruktkropparna. Sporerna är nästan klotrunda, släta, mycket tjockväggiga och färglösa, 13–18 × 12–15 µm, ibland upp till 20 × 18 µm.",
+      "habitat": "Den växer i tuvor eller små grupper, sällan ensam, på stammar, stubbar och grenar av bok, både på nyligen fallen eller stormskadad ved och på döda grenar högt uppe i levande träd, och är vanligast i kulliga och bergiga trakter och i urskogsartade bokskogar. Andra lövträd som ek används bara sällan, och gran mycket sällan. Fruktkropparna visar sig från sensommar till senhöst, från juli till oktober i Storbritannien och Centraleuropa och till november i Tjeckien och Slovakien.",
+      "uses": "Den är ätlig när slemmet tvättats bort noggrant eller hatthuden dragits av, men köttet är tunt och nästan smaklöst, så den har litet värde och används högst blandad med smakrikare arter; vissa källor anger den som oätlig. Det svamphämmande ämnet strobilurin A, även kallat mucidin, utvanns ur dess mycel och kan användas för att behandla svampinfektioner i huden.",
+      "confusion": "Den är praktiskt taget omöjlig att förväxla: ingen annan svamp på ved har en så rent vit, genomskinlig, porslinsartat slemmig hatt tillsammans med en hinnaktig ring och en nära koppling till bok. Andra vita svampar saknar den genomskinliga, flottiga hatten och kopplingen till bok.",
+      "notes": "Svampen utsöndrar strobiluriner, kraftigt svamphämmande ämnen som håller konkurrerande svampar borta från den bokved den koloniserar; de har stått modell för en viktig grupp svampmedel i jordbruket. Blåsiga höstdagar kan man se fruktkroppar som lossnat från höga grenar sväva ned som små fallskärmar."
+    },
+    "tr": {
+      "description": "Kayın odunu üzerinde, ölü gövdelerde ve düşmüş dallarda olduğu kadar canlı ağaçların yükseklerinde de demetler halinde büyüyen, beyaz, sümüksü ve halkalı bir lamelli mantardır; burada ayrıştırıcı ve zayıf bir parazit olarak beyaz çürüklüğe yol açar. Kuzey ve Orta Avrupa’nın her yerinde kayının yetiştiği yerlerde yaygındır ve Doğu Asya’da, Japonya, Kore ve Tayvan’da da kaydedilmiştir.",
+      "cap": "Şapka 2–8 cm çapındadır, bazen 10 cm’ye ulaşır. Önce yarım küre biçiminde, sonra dışbükey ve daha sonra daha yassıdır, ancak çoğu zaman geniş kubbeli kalır. Genç şapkalar soluk grimsidir, sonra saf beyazdan fildişi rengine döner ve ortası çoğunlukla aşı boyası tonludur. Nemli havada yüzey kalın, parlak bir sümük tabakasıyla kaplıdır ve porselen gibi yarı saydamdır; bu yüzden lameller kenara doğru ışınsal çizgiler halinde görünür; kuru havada yüzey ipeksi ve mattır. Şapka derisi dik, topuz biçimli hücrelerden oluşur.",
+      "hymenium": "Lameller geniş, kalın ve çok seyrektir, aralarında çok sayıda kısa ara lamel bulunur; sapa bitişik ya da kısa, aşağı inen bir dişle oyuktur. Yarı saydam beyazdırlar ve yaşla birlikte bazen aşı boyası tonu kazanırlar. Bazidyumlar arasında büyük, ince çeperli, silindirik ile kesecik biçimli arasında sistidyumlar bulunur.",
+      "stipe": "Sap 3–10 cm uzunluğunda ve 0,3–1 cm kalınlığındadır; silindirik, sağlam ve çoğu zaman kıvrıktır, böylece bir dalın ya da gövdenin alt yüzünde büyüyen şapkalar lameller aşağıya bakacak şekilde yatay tutulur. Üst üçte birlik kısımda, üst yüzü oluklu, büyük, beyaz, zarımsı bir halka bulunur. Halkanın üstünde sap beyaz ve ince çizgili, altında hafif pullu ve grimsi ile kahverengimsi arasındadır; bu özellikle yaşlı meyve gövdelerinde belirgindir.",
+      "flesh": "Etli kısım ince, beyaz ve yarı saydamdır; şapkada yumuşak ve esnek, sapta liflidir. Kesildiğinde renk değiştirmez, belirgin bir kokusu ya da tadı yoktur.",
+      "sporePrint": "Beyazdır ve o kadar boldur ki çoğu zaman meyve gövdelerinin çevresini tozlar. Sporlar neredeyse küresel, düz, çok kalın çeperli ve renksizdir, 13–18 × 12–15 µm, bazen 20 × 18 µm’ye kadar.",
+      "habitat": "Demetler ya da küçük gruplar halinde, nadiren tek başına, kayının gövdelerinde, kütüklerinde ve dallarında büyür; hem yeni devrilmiş ya da fırtınada zarar görmüş odunda hem de canlı ağaçların yükseklerindeki ölü dallarda bulunur ve en çok tepelik ve dağlık bölgelerde ve yaşlı kayın ormanlarında görülür. Meşe gibi diğer geniş yapraklı ağaçlara yalnızca nadiren, ladine ise çok nadiren yerleşir. Meyve gövdeleri yaz sonundan geç sonbahara kadar, Britanya ve Orta Avrupa’da temmuzdan ekime, Çekya ve Slovakya’da ise kasıma kadar görülür.",
+      "uses": "Sümüğü iyice yıkandıktan ya da şapka derisi soyulduktan sonra yenebilir, ancak eti ince ve neredeyse tatsızdır; bu yüzden değeri azdır ve en fazla daha lezzetli türlerle karıştırılır; bazı kaynaklar onu yenmez olarak gösterir. Miselyumundan, mucidin olarak da bilinen ve deri mantar enfeksiyonlarının tedavisinde kullanılabilen antifungal madde strobilurin A elde edilmiştir.",
+      "confusion": "Neredeyse başka bir türle karıştırılamaz: odun üzerinde büyüyen başka hiçbir mantarda zarımsı bir halka ve kayına sıkı bağlılıkla birlikte bu kadar saf beyaz, yarı saydam, porselen gibi sümüksü bir şapka yoktur. Diğer beyaz mantarlarda yarı saydam, yağlı şapka ve kayınla ilişki bulunmaz.",
+      "notes": "Mantar, yerleştiği kayın odunundan rakip mantarları uzak tutan güçlü antifungal bileşikler olan strobilurinleri salgılar; bunlar önemli bir tarımsal fungisit grubuna örnek olmuştur. Rüzgârlı sonbahar günlerinde yüksek dallardan kopan meyve gövdelerinin küçük paraşütler gibi süzülerek indiği görülebilir."
+    },
+    "uk": {
+      "description": "Білий, слизистий пластинчастий гриб із кільцем, що росте пучками на буковій деревині — на мертвих стовбурах і опалих гілках, а також високо на живих деревах, де він є руйнівником деревини і слабким паразитом, спричиняючи білу гниль. Звичайний по всій Північній і Центральній Європі скрізь, де росте бук, а також відмічений у Східній Азії — в Японії, Кореї та на Тайвані.",
+      "cap": "Шапинка 2–8 см у діаметрі, іноді до 10 см. Спочатку вона напівкуляста, потім опукла, а згодом пласкіша, але часто залишається широкоопуклою. Молоді шапинки блідо-сіруваті, згодом стають чисто-білими до кольору слонової кістки, у центрі часто з вохристим відтінком. У вологу погоду поверхню вкриває товстий блискучий шар слизу і шапинка просвічує, як порцеляна, тож пластинки просвічують до краю радіальними лініями; у суху погоду вона шовковиста й матова. Шкірка шапинки складається з прямостоячих булавоподібних клітин.",
+      "hymenium": "Пластинки широкі, товсті й дуже рідкі, з численними коротшими пластинками, прирослі або виїмчасті з коротким низбіжним зубцем. Вони прозоро-білі й з віком іноді набувають вохристого відтінку. Між базидіями трапляються великі тонкостінні циліндричні або мішкоподібні цистиди.",
+      "stipe": "Ніжка завдовжки 3–10 см і завтовшки 0,3–1 см, циліндрична, пружна й часто вигнута, тож шапинки, що ростуть з нижнього боку гілки чи стовбура, тримаються горизонтально, пластинками донизу. У верхній третині є велике біле плівчасте кільце, борозенчасте з верхнього боку. Вище кільця ніжка біла й тонкосмугаста, нижче — злегка лускувата, сірувата або бурувата, особливо в старих плодових тіл.",
+      "flesh": "М’якоть тонка, біла й просвічуюча, у шапинці м’яка й пружна, у ніжці волокниста. На розрізі кольору не змінює, особливого запаху й смаку не має.",
+      "sporePrint": "Білий і такий рясний, що часто припудрює довкілля плодових тіл. Спори майже кулясті, гладенькі, дуже товстостінні й безбарвні, 13–18 × 12–15 мкм, іноді до 20 × 18 мкм.",
+      "habitat": "Росте пучками або невеликими групами, рідко поодинці, на стовбурах, пнях і гілках бука — як на нещодавно поваленій або пошкодженій бурею деревині, так і на мертвих гілках високо на живих деревах; найчастіше трапляється в горбистих і гірських районах і в пралісових букових лісах. Інші листяні дерева, наприклад дуб, заселяє лише рідко, а ялину — дуже рідко. Плодові тіла з’являються з кінця літа до пізньої осені: з липня по жовтень у Великій Британії та Центральній Європі й до листопада в Чехії та Словаччині.",
+      "uses": "Їстівний після ретельного змивання слизу або зняття шкірки з шапинки, але м’якоть тонка й майже без смаку, тому цінність гриба невелика, і його щонайбільше змішують зі смачнішими видами; деякі джерела вважають його неїстівним. З його міцелію було отримано протигрибкову речовину стробілурин А, яку називають також муцидином і яку можна застосовувати для лікування грибкових уражень шкіри.",
+      "confusion": "Його практично ні з чим не сплутати: жоден інший гриб, що росте на деревині, не має такої чисто-білої, просвічуючої, порцеляново-слизистої шапинки разом із плівчастим кільцем і тісним зв’язком із буком. Іншим білим грибам бракує просвічуючої масної шапинки та зв’язку з буком.",
+      "notes": "Гриб виділяє стробілурини — сильні протигрибкові сполуки, які не підпускають конкурентні гриби до заселеної ним букової деревини; вони стали зразком для важливої групи сільськогосподарських фунгіцидів. У вітряні осінні дні можна побачити, як плодові тіла, зірвані з високих гілок, повільно опускаються, наче маленькі парашути."
+    },
+    "zh": {
+      "description": "一種白色、黏滑且具菌環的褶菌，成叢生長於山毛櫸木材上，既見於枯死的樹幹和落枝，也見於活樹高處，在那裡作為分解者和弱寄生菌引起白腐。在山毛櫸生長的北歐和中歐各地都很常見，在東亞的日本、韓國和台灣也有記錄。",
+      "cap": "菌蓋直徑2–8厘米，偶可達10厘米。初為半球形，後呈凸鏡形，再漸平展，但常保持寬圓頂形。幼時菌蓋淡灰色，後變為純白色至象牙色，中央常帶赭色。潮濕時表面覆有一層厚而有光澤的黏液，並像瓷器般半透明，菌褶在近邊緣處透出呈放射狀線條；乾燥時表面呈絲光且無光澤。菌蓋表皮由直立的棒狀細胞構成。",
+      "hymenium": "菌褶寬、厚而極稀疏，夾雜許多較短的小菌褶，直生或彎生並具短延生齒。菌褶半透明白色，老後有時帶赭色。擔子之間有大型、薄壁、圓柱形至囊狀的囊狀體。",
+      "stipe": "菌柄長3–10厘米，粗0.3–1厘米，圓柱形，堅韌，常彎曲，使生於枝幹下側的菌蓋保持水平而菌褶朝下。上部三分之一處有一大型白色膜質菌環，其上表面具溝紋。菌環以上菌柄白色並有細條紋，以下略具鱗片，灰色至淡褐色，在較老的子實體上尤為明顯。",
+      "flesh": "菌肉薄，白色，半透明，在菌蓋中柔軟而有彈性，在菌柄中呈纖維質。切開後不變色，無特殊氣味或味道。",
+      "sporePrint": "白色，且數量極多，常使子實體周圍蒙上一層粉末。孢子近球形，光滑，壁極厚，無色，13–18 × 12–15 μm，偶可達20 × 18 μm。",
+      "habitat": "成叢或小群生長，罕見單生，生於山毛櫸的樹幹、樹樁和枝條上，既見於新倒伏或受風暴損傷的木材，也見於活樹高處的枯枝，在丘陵、山區和原始山毛櫸林中最為常見。很少生於櫟樹等其他闊葉樹上，極少見於雲杉。子實體出現於夏末至深秋，在英國和中歐為7月至10月，在捷克和斯洛伐克可延至11月。",
+      "uses": "徹底洗去黏液或剝去菌蓋表皮後可食用，但菌肉薄且幾乎無味，因此價值不高，至多與味道更佳的種類混合食用；部分資料將其列為不可食用。從其菌絲體中曾提取出抗真菌物質嗜球果傘素A（strobilurin A，又稱mucidin），可用於治療皮膚真菌感染。",
+      "confusion": "幾乎不會誤認：沒有其他生於木材上的蘑菇兼具如此純白、半透明、如瓷器般黏滑的菌蓋、膜質菌環以及與山毛櫸的緊密關係。其他白色蘑菇缺乏半透明而油滑的菌蓋，也與山毛櫸無關。",
+      "notes": "這種真菌會分泌嗜球果傘素類（strobilurins），這類強效抗真菌化合物能使競爭的真菌遠離它所佔據的山毛櫸木材；它們成為一類重要農用殺菌劑的範本。在有風的秋日，可以看到從高枝上脫落的子實體像小降落傘一樣緩緩飄落。"
+    }
+  },
+  "synonyms": [
+    "Agaricus mucidus",
+    "Hypophyllum mucidum",
+    "Armillaria mucida",
+    "Collybia mucida",
+    "Lepiota mucida",
+    "Mastoleucomyces mucidus",
+    "Oudemansiella mucida",
+    "Agaricus mucidus var. epigaeus",
+    "Armillaria epigaea",
+    "Agaricus mucidus var. fagineus",
+    "Agaricus olivaceofuscus",
+    "Armillaria mucida var. olivaceofusca",
+    "Armillaria mucida var. favacea",
+    "Mucidula venosolamellata",
+    "Oudemansiella venosolamellata",
+    "Mucidula mucida var. venosolamellata",
+    "Mucidula mucida subsp. venosolamellata",
+    "Oudemansiella mucida var. pseudorhiza",
+    "Mucidula mucida var. asiatica",
+    "Mucidula mucida f. asiatica"
+  ],
+  "reserved": false
+},
+{
+  "id": 174,
+  "name": "Pholiota squarrosa",
+  "author": "(Vahl) P. Kumm.",
+  "family": "Strophariaceae",
+  "genus": "Pholiota",
+  "order": "Agaricales",
+  "edibility": "poisonous",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Strophariaceae",
+    "Pholiota"
+  ],
+  "summary": [
+    "Agaricales",
+    "Strophariaceae",
+    "Pholiota"
+  ],
+  "added": "2026-11-16",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/Pholiota_squarrosa@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/Pholiota_squarrosa@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" per the owner default (t85u: assume signature Gemini unless told otherwise; metadata only). The supplied file \"Pholiota squarrosa.png\" (from ~/Downloads) is a JPEG/JFIF illustration that appears AI-generated (an existing small \"Gemini\" mark at bottom right, kept as found; no registration marks; no caption or plate number); it is not a documented botanical plate.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/Pholiota_squarrosa@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps1.webp",
+      "author": "eleanorevol",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/173634554"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps2.webp",
+      "author": "edna-mode",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/235345884"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps3.webp",
+      "author": "dberkowitz",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/168277322"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps4.webp",
+      "author": "eduard_garin",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/46259884"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps5.webp",
+      "author": "jesse_kalwij",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/234434512"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_squarrosa/Pholiota_squarrosa@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_squarrosa/Pholiota_squarrosa@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing \"Gemini\" mark kept exactly as found (alpha only); nothing erased; no mark painted; credit in metadata only"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps1.webp",
+      "author": "eleanorevol",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/173634554"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps2.webp",
+      "author": "edna-mode",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/235345884"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps3.webp",
+      "author": "dberkowitz",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/168277322"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps4.webp",
+      "author": "eduard_garin",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/46259884"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_squarrosa/ps5.webp",
+      "author": "jesse_kalwij",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/234434512"
+    }
+  ],
+  "capFrom": 3.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 12.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "label": {
+    "ar": null,
+    "bg": null,
+    "cs": "šupinovka kostrbatá",
+    "da": "krumskællet skælhat",
+    "de": "Sparriger Schüppling",
+    "en": "shaggy scalycap",
+    "es": "foliota escamosa",
+    "et": "soomusmampel",
+    "fa": null,
+    "fi": "pörhösuomuhelokka",
+    "fr": "pholiote écailleuse",
+    "he": null,
+    "hi": null,
+    "hr": "hrapava ljuskavica",
+    "hu": "tüskés tőkegomba",
+    "id": null,
+    "it": null,
+    "ja": "スギタケ",
+    "ko": null,
+    "lt": "žvynuotoji skujagalvė",
+    "lv": "spurainā zvīņene",
+    "nl": "schubbige bundelzwam",
+    "no": "raspskjellsopp",
+    "pl": "łuskwiak nastroszony",
+    "pt": null,
+    "ro": "bureți solzoși",
+    "ru": "чешуйчатка обыкновенная",
+    "sk": "šupinovka šupinatá",
+    "sl": "hrapavi luskinar",
+    "sr": "храпава љускавица",
+    "sv": "fjällig tofsskivling",
+    "tr": null,
+    "uk": "лускатка звичайна",
+    "zh": "翹鱗環鏽傘"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "shaggy Pholiota",
+      "scaly Pholiota"
+    ],
+    "es": [
+      "foliota escuarrosa"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "pholiote squarreuse"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "łuszczak nastroszony"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "чешуйчатка ворсистая",
+      "чешуйчатка чешуйчатая",
+      "чешуйчатка взъерошенная"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "лускатка ворсиста",
+      "лускатка скуйовджена"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=241744",
+        "detail": "241744"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=241744",
+        "detail": "241744"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2534205",
+        "detail": "2534205"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Pholiota_squarrosa"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1574926"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Pholiota_squarrosa"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/pholiota-squarrosa.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/pholiota_squarrosa.html"
+      },
+      {
+        "group": "text",
+        "name": "nahuby.sk",
+        "href": "https://www.nahuby.sk/atlas-hub/Pholiota-squarrosa/supinovka-supinata/supinovka-kostrbata/ID719"
+      },
+      {
+        "group": "text",
+        "name": "Česká mykologická společnost",
+        "href": "https://www.myko.cz/myko-atlas/Pholiota-squarrosa/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Sparriger_Schüppling",
+        "detail": "German"
+      }
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Pholiota-squarrosa/",
+      "https://cs.wikipedia.org/wiki/Šupinovka_kostrbatá",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://species.wikimedia.org/wiki/Pholiota_squarrosa"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://de.wikipedia.org/wiki/Sparriger_Schüppling"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Soomusmampel",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "fi": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://fi.wikipedia.org/wiki/Pörhösuomuhelokka"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Pholiote_écailleuse",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Hrapava_ljuskavica"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Tüskés_tőkegomba",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "ja": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://ja.wikipedia.org/wiki/スギタケ"
+    ],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Žvynuotoji_skujagalvė",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "lv": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Schubbige_bundelzwam"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Łuskwiak_nastroszony",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Pholiota_squarrosa"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Чешуйчатка_обыкновенная",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://species.wikimedia.org/wiki/Pholiota_squarrosa"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Pholiota-squarrosa/supinovka-supinata/supinovka-kostrbata/ID719",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=241744",
+      "https://www.gbif.org/species/2534205"
+    ],
+    "sl": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Храпава_љускавица",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://species.wikimedia.org/wiki/Pholiota_squarrosa"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Fjällig_tofsskivling"
+    ],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Лускатка_звичайна",
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ],
+    "zh": [
+      "https://api.gbif.org/v1/species/2534205/vernacularNames"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر خيشومي لافت للنظر ينمو في عناقيد كثيفة عند قاعدة الأشجار الحية والميتة، وتغطي قبعته الجافة ذات اللون الأصفر القشي وساقه حراشف خشنة منتصبة بنية بلون الصدأ. وهو طفيلي ضعيف على الأشجار الضعيفة ومحلل للخشب الميت يسبب العفن الأبيض. ينتشر على نطاق واسع في أوروبا وأمريكا الشمالية.",
+      "cap": "يبلغ عرض القبعة ٣–١٢ سم، وقد تصل أحيانًا إلى ١٥ سم. تكون في البداية مستديرة إلى جرسية، ثم محدبة، وأخيرًا شبه مسطحة، وأحيانًا ذات نتوء منخفض، وتظل حافتها ملتفة إلى الداخل مدة طويلة وكثيرًا ما تتدلى منها بقايا الغلاف. سطحها جاف وغير لزج أبدًا، أصفر باهت إلى أصفر قشي أو أصفر مغري، ومغطى بكثافة بحراشف خشنة مدببة منتصبة بنية بلون الصدأ إلى بنية محمرة، أدكن نحو المركز ومرتبة في حلقات متحدة المركز تقريبًا.",
+      "hymenium": "الخياشيم متزاحمة وضيقة، ملتصقة إلى نازلة قليلًا وأحيانًا محززة. تكون في البداية صفراء باهتة إلى صفراء رمادية، وكثيرًا ما يشوبها لون زيتوني أو مخضر، ثم تصبح بنية بلون الصدأ إلى قرفية عند نضج الأبواغ، ولا تكون بيضاء أبدًا. وفي الأجسام الثمرية الفتية يغطيها غلاف جزئي يشبه نسيج العنكبوت. الأبازيد هراوية رباعية الأبواغ، ١٦–٢٥ × ٥–٧ ميكرومتر، والأكياس الحافية هراوية إلى مغزلية.",
+      "stipe": "يبلغ طول الساق ٤–١٢ سم، وأحيانًا ١٥ سم أو أكثر، وسمكها ٠٫٥–١٫٥ سم، وهي أسطوانية وكثيرًا ما تستدق نحو القاعدة، صلبة وليفية. فوق الحلقة تكون ملساء صفراء باهتة، والحلقة ليفية صوفية وممزقة، وكثيرًا ما تنحصر في منطقة حلقية. وتحتها تغطي الساق بكثافة حراشف منثنية إلى الخلف بنية بلون الصدأ مثل حراشف القبعة، وتصبح القاعدة مع التقدم في العمر بنية بلون الصدأ إلى بنية محمرة.",
+      "flesh": "اللحم أصفر باهت إلى أصفر مبيض، صلب، ويصبح بنيًا بلون الصدأ نحو قاعدة الساق. الرائحة مميزة لكن المؤلفين يصفونها بطرق مختلفة: كالفجل أو الثوم أو مزيج من الثوم والليمون، أو كالخشب المتعفن. والطعم يشبه الفجل، معتدل إلى مر قليلًا.",
+      "sporePrint": "بني بلون الصدأ إلى بني قرفي. الأبواغ ٦–٨ × ٣٫٥–٥ ميكرومتر، إهليلجية، ملساء، ذات ثقب إنبات قمي صغير، وغير أميلويدية.",
+      "habitat": "ينمو في عناقيد كثيفة وكبيرة غالبًا عند قواعد الجذوع وعلى الجذور وجذوع الأشجار المقطوعة للأشجار عريضة الأوراق الحية والميتة، ولا سيما التفاح والزان والدردار والقيقب والبتولا والزيزفون والصفصاف والغبيراء، وأقل على المخروطيات مثل التنوب والشوح؛ وفي جبال روكي يشيع على الحور الرجراج والتنوب. وهو طفيلي ضعيف على أشجار أضعفتها الإصابات أو عدوى أخرى، ويعيش أيضًا محللًا للخشب الميت مسببًا العفن الأبيض. وهو شائع جدًا في أوروبا الوسطى من الأراضي المنخفضة إلى الجبال ونموذجي لأشجار الطرق والحدائق والبساتين، وفي بريطانيا وأيرلندا شائع محليًا، خاصة على الزان في المراعي المفتوحة والأسيجة النباتية على التربة القلوية. تظهر الأجسام الثمرية من أغسطس إلى نوفمبر، وأساسًا من سبتمبر، وقد تبقى حتى ديسمبر.",
+      "uses": "لا يُنصح بأكله. ظل يُعد صالحًا للأكل زمنًا طويلًا، وكانت القبعات الفتية تؤكل مخللة في الخل أو في اليخنات، لكنه تسبب في حالات تسمم مع قيء وإسهال بعد نحو عشر ساعات من الوجبة، خاصة عند تناوله مع الكحول، وقد يسبب اضطرابات معدية لدى الأشخاص الحساسين. وتدرجه المراجع الحالية فطرًا غير صالح للأكل أو سامًا.",
+      "confusion": "ينمو Armillaria mellea وأنواع Armillaria الأخرى في عناقيد مماثلة في الموسم نفسه، لكن طبعة أبواغها بيضاء وخياشيمها ولحمها مبيضة وحراشفها أدق، ولا توجد على سيقانها حراشف خشنة منتصبة. أما Pholiota squarrosoides فقبعته أفتح ولزجة بين الحراشف، ولحمه أبيض، ولا رائحة ثوم أو فجل له، وأبواغه أصغر. وقبعة Pholiota aurivella دهنية إلى لزجة ذات حراشف مسطحة ملتصقة، كما أن لكل من Pholiota adiposa وPholiota cerifera حراشف أكثر التصاقًا. وPholiota flammans أصفر زاهٍ إلى أصفر برتقالي وينمو على الخشب المخروطي الساقط. وHemipholiota populnea أفتح كثيرًا، رمادي بيجي، مر الطعم وينمو على الحور.",
+      "notes": "بوصفه عفنًا أبيض بطيئًا في الأشجار الحية، يمكن أن يُلحق أضرارًا جسيمة بأشجار الفاكهة وأشجار الشوارع ويجعل خشبها هشًا. تحتوي الأجسام الثمرية على المركبين سكواروسيدين وبينيليدين اللذين يثبطان إنزيم أوكسيداز الزانثين. وهي غذاء مهم للسنجاب الأحمر، كما يستفيد ذباب الفاكهة من جنس Drosophila من الأجسام الثمرية المتحللة."
+    },
+    "bg": {
+      "description": "Забележителна гъба с ламели, която расте на гъсти туфи в основата на живи и мъртви дървета; сухата сламеножълта шапка и пънчето са покрити с груби, щръкнали, ръждивокафяви люспи. Тя е слаб паразит по отслабени дървета и разложител на мъртва дървесина, който причинява бяло гниене. Разпространена е в Европа и Северна Америка.",
+      "cap": "Шапката е 3–12 cm в диаметър, понякога до 15 cm. Отначало е заоблена до камбановидна, после изпъкнала и накрая почти плоска, понякога с ниска гърбица; ръбът дълго остава подвит и често по него висят остатъци от було. Повърхността е суха, никога лигава, бледожълта до сламеножълта или жълтоохрена, гъсто покрита с груби, заострени, щръкнали люспи с ръждивокафяв до червеникавокафяв цвят, по-тъмни към центъра и разположени в повече или по-малко концентрични кръгове.",
+      "hymenium": "Ламелите са гъсти, тесни, прирасли до леко низбягващи и понякога изрязани. Отначало са бледожълти до сивкавожълти, често с маслинен или зеленикав оттенък, а със зреенето на спорите стават ръждивокафяви до канеленокафяви; никога не са бели. При младите плодни тела са покрити от паяжиновидно частично було. Базидиите са бухалковидни и четириспорови, 16–25 × 5–7 µm, а хейлоцистидите са бухалковидни до вретеновидни.",
+      "stipe": "Пънчето е дълго 4–12 cm, понякога 15 cm и повече, и дебело 0,5–1,5 cm, цилиндрично и често стеснено към основата, твърдо и влакнесто. Над пръстена е гладко и бледожълтеникаво; пръстенът е влакнест, вълнест и разкъсан, често сведен до пръстеновидна зона. Под него пънчето е гъсто покрито с извити назад ръждивокафяви люспи като тези на шапката, а основата с възрастта става ръждивокафява до червеникавокафява.",
+      "flesh": "Месото е бледожълто до белезникавожълто, твърдо и към основата на пънчето покафенява до ръждивокафяво. Миризмата е отчетлива, но различните автори я описват различно: на репичка, на чесън или като смес от чесън и лимон, или на гнило дърво. Вкусът напомня репичка и е мек до леко горчив.",
+      "sporePrint": "Ръждивокафяв до канеленокафяв. Спорите са 6–8 × 3,5–5 µm, елиптични, гладки, с малка апикална поничева пора и не са амилоидни.",
+      "habitat": "Расте на гъсти, често големи туфи в основата на стволове, по корени и пънове на живи и мъртви широколистни дървета, особено ябълка, бук, ясен, клен, бреза, липа, върба и офика, по-рядко по иглолистни като смърч и ела; в Скалистите планини е обичайна по трепетлика и смърч. Тя е слаб паразит по дървета, вече отслабени от наранявания или други инфекции, а живее и като разложител на мъртва дървесина, причинявайки бяло гниене. В Централна Европа е много разпространена от низините до планините и е типична за крайпътни, паркови и овощни дървета; във Великобритания и Ирландия е местно обичайна, особено по бук в открити тревисти площи и жив плет върху алкална почва. Плодните тела се появяват от август до ноември, главно от септември, и могат да се задържат до декември.",
+      "uses": "Не се препоръчва за консумация. Дълго време е смятана за ядлива и младите шапки са се яли мариновани в оцет или в гулаш, но е причинявала отравяния с повръщане и диария около десет часа след хранене, особено когато е консумирана с алкохол, а при чувствителни хора може да предизвика стомашни неразположения. Съвременната литература я посочва като неядлива или отровна.",
+      "confusion": "Обикновената пънчушка (Armillaria mellea) и другите видове от род Armillaria растат на подобни туфи по същото време, но имат бял споров отпечатък, белезникави ламели и месо, по-фини люспи и нямат груби щръкнали люспи по пънчето. Pholiota squarrosoides има по-бледа шапка, лепкава между люспите, бяло месо, няма миризма на чесън или репичка и има по-малки спори. Pholiota aurivella има мазна до лигава шапка с прилепнали люспи, а и Pholiota adiposa и Pholiota cerifera имат по-скоро прилепнали люспи. Pholiota flammans е яркожълта до оранжевожълта и расте по паднала иглолистна дървесина. Hemipholiota populnea е много по-бледа, бежовосива, горчива и расте по тополи.",
+      "notes": "Като бавно бяло гниене на живи дървета тя може сериозно да уврежда овощни и улични дървета и прави дървесината им крехка. Плодните тела съдържат съединенията скварозидин и пинилидин, които потискат ензима ксантиноксидаза. Те са важна храна за обикновената катерица, а разлагащите се плодни тела се използват от плодовите мушици от род Drosophila."
+    },
+    "cs": {
+      "description": "Nápadná lupenatá houba, která roste v hustých trsech na bázi živých i odumřelých stromů; suchý slámově žlutý klobouk i třeň jsou pokryté hrubými, odstávajícími rezavě hnědými šupinami. Je slabým parazitem oslabených stromů a rozkladačem odumřelého dřeva, který způsobuje bílou hnilobu. Je hojná v Evropě a Severní Americe.",
+      "cap": "Klobouk měří 3–12 cm, výjimečně až 15 cm. Zprvu je zaoblený až zvonovitý, později klenutý a nakonec téměř plochý, někdy s nízkým hrbolem; okraj zůstává dlouho podehnutý a často je ověšený zbytky závoje. Povrch je suchý, nikdy slizký, bledě žlutý až slámově žlutý nebo žlutookrový a hustě pokrytý hrubými, špičatými, odstávajícími šupinami, které jsou rezavě hnědé až červenohnědé, ke středu tmavší a uspořádané do víceméně soustředných kruhů.",
+      "hymenium": "Lupeny jsou husté, úzké, připojené až mírně sbíhavé a někdy vykrojené. Zprvu jsou bledě žluté až šedožluté, často s olivovým nebo nazelenalým nádechem, a se zráním výtrusů se barví rezavě hnědě až skořicově; nikdy nejsou bílé. U mladých plodnic je zakrývá pavučinovitý částečný závoj. Basidie jsou kyjovité a čtyřvýtrusé, 16–25 × 5–7 µm, a cheilocystidy jsou kyjovité až vřetenovité.",
+      "stipe": "Třeň je 4–12 cm dlouhý, výjimečně až 15 cm i více, a 0,5–1,5 cm tlustý, válcovitý a k bázi často zúžený, pevný a vláknitý. Nad prstenem je hladký a bledě nažloutlý; prsten je vláknitý, vlnatý a roztřepený, často zredukovaný na prstencovou zónu. Pod ním je třeň hustě porostlý dozadu ohnutými rezavě hnědými šupinami podobnými šupinám na klobouku a báze s věkem rezavě až červenohnědě tmavne.",
+      "flesh": "Dužnina je bledě žlutá až bělavě žlutá, pevná a k bázi třeně rezavě hnědne. Vůně je výrazná, ale různí autoři ji popisují různě: jako ředkvičkovou, česnekovou nebo jako něco mezi česnekem a citronem, případně jako vůni ztrouchnivělého dřeva. Chuť je ředkvičková, mírná až slabě nahořklá.",
+      "sporePrint": "Rezavě hnědý až skořicově hnědý. Výtrusy měří 6–8 × 3,5–5 µm, jsou eliptické, hladké, s malým vrcholovým klíčním pórem a nejsou amyloidní.",
+      "habitat": "Roste v hustých, často velkých trsech na bázi kmenů, na kořenech a pařezech živých i odumřelých listnatých stromů, zejména jabloní, buků, jasanů, javorů, bříz, lip, vrb a jeřábů, méně často na jehličnanech, jako je smrk a jedle; ve Skalistých horách je běžná na osikách a smrcích. Je slabým parazitem stromů oslabených poraněním nebo jinými infekcemi a žije také jako saprotrof na odumřelém dřevě, přičemž způsobuje bílou hnilobu. Ve střední Evropě je velmi hojná od nížin do hor a typicky roste na stromech u silnic, v parcích a sadech; ve Velké Británii a Irsku je místy běžná, hlavně na bucích na otevřených travnatých plochách a v živých plotech na zásadité půdě. Plodnice se objevují od srpna do listopadu, většinou od září, a mohou vydržet až do prosince.",
+      "uses": "K jídlu se nedoporučuje. Dlouho byla považována za jedlou a mladé klobouky se jedly nakládané v octě nebo v guláši, způsobila však otravy se zvracením a průjmem asi deset hodin po jídle, zejména když byla jedena s alkoholem, a citlivým lidem může způsobit žaludeční potíže. Současná literatura ji uvádí jako nejedlou nebo jedovatou.",
+      "confusion": "Václavka obecná (Armillaria mellea) a další václavky (Armillaria) rostou v podobných trsech ve stejném období, mají však bílý výtrusný prach, bělavé lupeny i dužninu, jemnější šupiny a na třeni nemají hrubé odstávající šupiny. Pholiota squarrosoides má bledší klobouk, který je mezi šupinami lepkavý, bílou dužninu, nevoní po česneku ani po ředkvičce a má menší výtrusy. Pholiota aurivella má mastný až slizký klobouk s přitisklými šupinami a také Pholiota adiposa a Pholiota cerifera mají šupiny spíše přitisklé. Pholiota flammans je jasně žlutá až oranžově žlutá a roste na spadlém dřevě jehličnanů. Hemipholiota populnea je mnohem bledší, béžově šedá, hořká a roste na topolech.",
+      "notes": "Jako pomalá bílá hniloba živých stromů může vážně poškodit ovocné a uliční stromy a způsobuje křehnutí jejich dřeva. Plodnice obsahují látky squarrosidin a pinillidin, které inhibují enzym xanthinoxidázu. Jsou důležitou potravou veverek obecných a rozkládající se plodnice využívají octomilky rodu Drosophila."
+    },
+    "da": {
+      "description": "En iøjnefaldende bladhat, der vokser i tætte knipper ved foden af levende og døde træer; den tørre stråfarvede hat og stok er dækket af grove, opstående, rustbrune skæl. Den er en svag parasit på svækkede træer og en nedbryder af dødt ved, der forårsager hvidråd. Den er almindelig i hele Europa og Nordamerika.",
+      "cap": "Hatten er 3–12 cm bred, undertiden op til 15 cm. Den er først afrundet til klokkeformet, siden hvælvet og til sidst næsten flad, undertiden med en lav pukkel; randen forbliver længe indrullet og har ofte hængende rester af sløret. Overfladen er tør, aldrig slimet, bleggul til strågul eller gulokker og tæt dækket af grove, spidse, opstående skæl, der er rustbrune til rødbrune, mørkere mod midten og ordnet i mere eller mindre koncentriske ringe.",
+      "hymenium": "Lamellerne er tætte, smalle, tilvoksede til let nedløbende og undertiden udrandede. De er først bleggule til gråligt gule, ofte med et oliven eller grønligt skær, og bliver rustbrune til kanelbrune, efterhånden som sporerne modnes; de er aldrig hvide. Hos unge frugtlegemer er de dækket af et spindelvævsagtigt delvist slør. Basidierne er køllede og firesporede, 16–25 × 5–7 µm, og cheilocystiderne er køllede til tenformede.",
+      "stipe": "Stokken er 4–12 cm lang, undertiden 15 cm eller mere, og 0,5–1,5 cm tyk, cylindrisk og ofte tilspidset mod basis, fast og trævlet. Over ringen er den glat og blegt gullig; ringen er trævlet, uldet og opreven, ofte reduceret til en ringzone. Under den er stokken tæt dækket af tilbagebøjede rustbrune skæl som dem på hatten, og basis bliver rustbrun til rødbrun med alderen.",
+      "flesh": "Kødet er bleggult til hvidgult, fast og bliver rustbrunt mod stokkens basis. Lugten er karakteristisk, men beskrives forskelligt af forskellige forfattere: som radise, hvidløg eller en blanding af hvidløg og citron, eller som rådnende træ. Smagen minder om radise og er mild til let bitter.",
+      "sporePrint": "Rustbrunt til kanelbrunt. Sporerne er 6–8 × 3,5–5 µm, elliptiske, glatte, med en lille apikal kimpore, og er ikke amyloide.",
+      "habitat": "Den vokser i tætte, ofte store knipper ved stammefoden, på rødder og stubbe af levende og døde løvtræer, især æble, bøg, ask, ahorn, birk, lind, pil og røn, og sjældnere på nåletræer som gran og ædelgran; i Rocky Mountains er den almindelig på asp og gran. Den er en svag parasit på træer, der allerede er svækket af skader eller andre infektioner, og lever også som nedbryder af dødt ved og forårsager hvidråd. I Centraleuropa er den meget almindelig fra lavlandet til bjergene og typisk for vejtræer, parktræer og frugttræer; i Storbritannien og Irland er den lokalt almindelig, især på bøg på åbne græsarealer og i hække på kalkrig jord. Frugtlegemerne kommer fra august til november, hovedsageligt fra september, og kan holde sig ind i december.",
+      "uses": "Den anbefales ikke som spisesvamp. Den blev længe anset for spiselig, og unge hatte blev spist syltet i eddike eller i gryderetter, men den har forårsaget forgiftninger med opkastning og diarré omkring ti timer efter måltidet, især når den blev spist sammen med alkohol, og hos følsomme personer kan den give maveproblemer. Nutidig litteratur angiver den som uspiselig eller giftig.",
+      "confusion": "Ægte honningsvamp (Armillaria mellea) og andre Armillaria-arter vokser i lignende knipper på samme tid af året, men de har hvidt sporepulver, hvidlige lameller og kød, finere skæl og ingen grove opstående skæl på stokken. Pholiota squarrosoides har en blegere hat, der er klæbrig mellem skællene, hvidt kød, ingen lugt af hvidløg eller radise og mindre sporer. Pholiota aurivella har en fedtet til slimet hat med tiltrykte skæl, og også Pholiota adiposa og Pholiota cerifera har mere tiltrykte skæl. Pholiota flammans er klart gul til orangegul og vokser på nedfaldent nåletræ. Hemipholiota populnea er meget blegere, beigegrå, bitter og vokser på poppel.",
+      "notes": "Som en langsom hvidråd i levende træer kan den alvorligt skade frugttræer og gadetræer og gør deres ved skørt. Frugtlegemerne indeholder forbindelserne squarrosidin og pinillidin, som hæmmer enzymet xanthinoxidase. De er vigtig føde for egern, og rådnende frugtlegemer udnyttes af bananfluer af slægten Drosophila."
+    },
+    "de": {
+      "description": "Ein auffälliger Blätterpilz, der in dichten Büscheln am Fuß lebender und abgestorbener Bäume wächst; Hut und Stiel sind trocken, strohgelb und mit groben, abstehenden, rostbraunen Schuppen bedeckt. Er ist ein Schwächeparasit geschwächter Bäume und ein Zersetzer von totem Holz, der eine Weißfäule verursacht. In Europa und Nordamerika ist er häufig.",
+      "cap": "Der Hut ist 3–12 cm breit, gelegentlich bis 15 cm. Er ist anfangs rundlich bis glockig, wird dann gewölbt und schließlich fast flach, manchmal mit einem flachen Buckel; der Rand bleibt lange eingerollt und ist oft mit Velumresten behangen. Die Oberfläche ist trocken, nie schleimig, blassgelb bis strohgelb oder gelbocker und dicht mit groben, spitzen, sparrig abstehenden Schuppen besetzt, die rostbraun bis rotbraun, zur Mitte hin dunkler und mehr oder weniger in konzentrischen Ringen angeordnet sind.",
+      "hymenium": "Die Lamellen stehen gedrängt, sind schmal, angewachsen bis kurz herablaufend und manchmal ausgebuchtet. Sie sind anfangs blassgelb bis graugelb, oft mit oliv- oder grünlichem Ton, und färben sich mit der Sporenreife rostbraun bis zimtbraun; weiß sind sie nie. Bei jungen Fruchtkörpern sind sie von einem spinnwebartigen Teilvelum bedeckt. Die Basidien sind keulig und viersporig, 16–25 × 5–7 µm, die Cheilozystiden keulig bis spindelig.",
+      "stipe": "Der Stiel ist 4–12 cm lang, gelegentlich 15 cm und mehr, und 0,5–1,5 cm dick, zylindrisch und zur Basis oft verjüngt, fest und faserig. Oberhalb des Rings ist er glatt und blass gelblich; der Ring ist faserig, wollig und zerrissen, oft nur eine Ringzone. Darunter ist der Stiel dicht mit sparrig zurückgebogenen, rostbraunen Schuppen wie am Hut besetzt, und die Basis wird mit dem Alter rost- bis rotbraun.",
+      "flesh": "Das Fleisch ist blassgelb bis weißlich gelb, fest und wird zur Stielbasis hin rostbraun. Der Geruch ist deutlich, wird aber von verschiedenen Autoren unterschiedlich beschrieben: nach Rettich, nach Knoblauch oder wie eine Mischung aus Knoblauch und Zitrone, oder nach morschem Holz. Der Geschmack ist rettichartig und mild bis leicht bitter.",
+      "sporePrint": "Rostbraun bis zimtbraun. Die Sporen messen 6–8 × 3,5–5 µm, sind elliptisch, glatt, mit einem kleinen apikalen Keimporus und nicht amyloid.",
+      "habitat": "Er wächst in dichten, oft großen Büscheln am Stammfuß, an Wurzeln und Stümpfen lebender und abgestorbener Laubbäume, besonders an Apfel, Buche, Esche, Ahorn, Birke, Linde, Weide und Eberesche, seltener an Nadelbäumen wie Fichte und Tanne; in den Rocky Mountains ist er an Espen und Fichten häufig. Er ist ein Schwächeparasit von Bäumen, die bereits durch Verletzungen oder andere Infektionen geschwächt sind, und lebt auch als Zersetzer von totem Holz, wobei er eine Weißfäule verursacht. In Mitteleuropa ist er von der Ebene bis ins Gebirge sehr häufig und typisch an Straßen-, Park- und Obstbäumen; in Großbritannien und Irland ist er stellenweise häufig, besonders an Buchen auf offenem Grasland und in Hecken auf kalkhaltigem Boden. Die Fruchtkörper erscheinen von August bis November, meist ab September, und können bis in den Dezember stehen bleiben.",
+      "uses": "Zum Verzehr wird er nicht empfohlen. Er galt lange als essbar, und junge Hüte wurden in Essig eingelegt oder in Gulasch gegessen, doch er hat Vergiftungen mit Erbrechen und Durchfall etwa zehn Stunden nach der Mahlzeit verursacht, besonders wenn er zusammen mit Alkohol verzehrt wurde, und bei empfindlichen Menschen kann er Magenbeschwerden auslösen. Die heutige Literatur führt ihn als ungenießbar oder giftig.",
+      "confusion": "Der Honiggelbe Hallimasch (Armillaria mellea) und andere Hallimasch-Arten (Armillaria) wachsen zur selben Zeit in ähnlichen Büscheln, haben aber weißes Sporenpulver, weißliche Lamellen und weißliches Fleisch, feinere Schuppen und keine groben, abstehenden Schuppen am Stiel. Pholiota squarrosoides hat einen blasseren Hut, der zwischen den Schuppen klebrig ist, weißes Fleisch, keinen Knoblauch- oder Rettichgeruch und kleinere Sporen. Pholiota aurivella hat einen schmierigen bis schleimigen Hut mit angedrückten Schuppen, und auch Pholiota adiposa und Pholiota cerifera haben eher angedrückte Schuppen. Pholiota flammans ist leuchtend gelb bis orangegelb und wächst auf liegendem Nadelholz. Hemipholiota populnea ist viel blasser, beigegrau, bitter und wächst an Pappeln.",
+      "notes": "Als langsame Weißfäule lebender Bäume kann er Obst- und Straßenbäume ernsthaft schädigen und macht ihr Holz brüchig. Die Fruchtkörper enthalten die Verbindungen Squarrosidin und Pinillidin, die das Enzym Xanthinoxidase hemmen. Sie sind eine wichtige Nahrung für Eichhörnchen, und zerfallende Fruchtkörper werden von Taufliegen der Gattung Drosophila genutzt."
+    },
+    "en": {
+      "description": "A conspicuous gilled mushroom that grows in dense tufts at the base of living and dead trees, with a dry straw-yellow cap and stem both covered in coarse, upturned, rusty-brown scales. It is a weak parasite of weakened trees and a decomposer of dead wood that causes a white rot. It is common across Europe and North America.",
+      "cap": "The cap is 3–12 cm across, occasionally up to 15 cm. It is rounded to bell-shaped at first, becoming convex and finally almost flat, sometimes with a low umbo, and its margin stays inrolled for a long time and is often hung with remnants of the veil. The surface is dry, never slimy, pale yellow to straw-yellow or yellow-ochre, and densely covered with coarse, pointed, upturned scales that are rusty brown to reddish brown, darker towards the centre and arranged in more or less concentric rings.",
+      "hymenium": "The gills are crowded, narrow, adnate to slightly decurrent and sometimes notched. They are pale yellow to greyish yellow at first, often with an olive or greenish tinge, and become rusty brown to cinnamon as the spores mature; they are never white. In young fruit bodies they are covered by a cobweb-like partial veil. The basidia are club-shaped and four-spored, 16–25 × 5–7 µm, and the cheilocystidia are club-shaped to spindle-shaped.",
+      "stipe": "The stipe is 4–12 cm long, occasionally up to 15 cm or more, and 0.5–1.5 cm thick, cylindrical and often tapering towards the base, firm and fibrous. Above the ring it is smooth and pale yellowish; the ring is fibrous, woolly and torn, often reduced to a ring zone. Below it the stipe is densely covered with recurved rusty-brown scales like those on the cap, and the base becomes rusty to reddish brown with age.",
+      "flesh": "The flesh is pale yellow to whitish yellow, firm, and turns rusty brown towards the base of the stipe. The smell is distinctive but described differently by different authors: like radish, garlic or a cross between garlic and lemon, or of rotting wood. The taste is radish-like and mild to slightly bitter.",
+      "sporePrint": "Rusty brown to cinnamon brown. The spores are 6–8 × 3.5–5 µm, elliptical, smooth, with a small apical germ pore, and are not amyloid.",
+      "habitat": "It grows in dense, often large clusters at the base of trunks, on roots and stumps of living and dead broadleaved trees, especially apple, beech, ash, maple, birch, lime, willow and rowan, and less often on conifers such as spruce and fir; in the Rocky Mountains it is common on aspen and spruce. It is a weak parasite of trees already weakened by injury or other infections and also lives as a decomposer of dead wood, causing a white rot. Very common in Central Europe from the lowlands to the mountains, it is typical of roadside, park and orchard trees, and in Britain and Ireland it is locally common, particularly on beech in open grassland and hedgerows on alkaline soil. Fruit bodies appear from August to November, mainly from September, and can persist into December.",
+      "uses": "It is not recommended for eating. It was long considered edible, and young caps were eaten pickled in vinegar or in stews, but it has caused poisonings, with vomiting and diarrhoea about ten hours after a meal, especially when it was eaten with alcohol, and it can cause stomach upsets in sensitive people. Current literature lists it as inedible or poisonous.",
+      "confusion": "Armillaria mellea and other Armillaria species grow in similar clusters at the same season, but they have a white spore print, whitish gills and flesh, finer scales and no coarse upturned scales on the stem. Pholiota squarrosoides has a paler cap that is sticky between the scales, white flesh, no garlic or radish smell and smaller spores. Pholiota aurivella has a greasy to slimy cap with flattened scales, and Pholiota adiposa and Pholiota cerifera also have more flattened scales. Pholiota flammans is bright yellow to orange-yellow and grows on fallen conifer wood. Hemipholiota populnea is much paler, beige-grey, bitter and grows on poplar.",
+      "notes": "As a slow white rot of living trees it can seriously damage fruit trees and street trees and makes their wood brittle. The fruit bodies contain the compounds squarrosidine and pinillidine, which inhibit the enzyme xanthine oxidase. They are an important food for red squirrels, and decaying fruit bodies are used by fruit flies of the genus Drosophila."
+    },
+    "es": {
+      "description": "Un llamativo hongo de láminas que crece en densos ramilletes en la base de árboles vivos y muertos; el sombrero y el pie, secos y de color amarillo pajizo, están cubiertos de gruesas escamas levantadas de color pardo herrumbre. Es un parásito débil de árboles debilitados y un descomponedor de madera muerta que causa una pudrición blanca. Es común en Europa y Norteamérica.",
+      "cap": "El sombrero mide 3–12 cm de diámetro, a veces hasta 15 cm. Al principio es redondeado o acampanado, luego convexo y finalmente casi plano, a veces con un mamelón bajo; el margen permanece enrollado durante mucho tiempo y a menudo cuelgan de él restos del velo. La superficie es seca, nunca viscosa, de color amarillo pálido a amarillo pajizo u ocre amarillento, densamente cubierta de escamas gruesas, puntiagudas y levantadas, de color pardo herrumbre a pardo rojizo, más oscuras hacia el centro y dispuestas en círculos más o menos concéntricos.",
+      "hymenium": "Las láminas son apretadas, estrechas, adnatas a ligeramente decurrentes y a veces escotadas. Al principio son de color amarillo pálido a amarillo grisáceo, a menudo con un tinte oliváceo o verdoso, y se vuelven pardo herrumbre a canela al madurar las esporas; nunca son blancas. En los ejemplares jóvenes las cubre un velo parcial aracnoide. Los basidios son claviformes y tetraspóricos, de 16–25 × 5–7 µm, y los queilocistidios son claviformes a fusiformes.",
+      "stipe": "El pie mide 4–12 cm de largo, a veces 15 cm o más, y 0,5–1,5 cm de grosor; es cilíndrico y a menudo se estrecha hacia la base, firme y fibroso. Por encima del anillo es liso y amarillento pálido; el anillo es fibroso, lanoso y desgarrado, a menudo reducido a una zona anular. Por debajo, el pie está densamente cubierto de escamas recurvadas de color pardo herrumbre como las del sombrero, y la base se vuelve pardo herrumbre a pardo rojiza con la edad.",
+      "flesh": "La carne es amarillo pálida a amarillo blanquecina, firme, y se vuelve pardo herrumbre hacia la base del pie. El olor es marcado, pero distintos autores lo describen de forma diferente: a rábano, a ajo o como una mezcla de ajo y limón, o a madera podrida. El sabor recuerda al rábano y es suave a ligeramente amargo.",
+      "sporePrint": "Pardo herrumbre a pardo canela. Las esporas miden 6–8 × 3,5–5 µm, son elípticas, lisas, con un pequeño poro germinativo apical y no amiloides.",
+      "habitat": "Crece en ramilletes densos, a menudo grandes, en la base de los troncos, sobre raíces y tocones de frondosas vivas y muertas, sobre todo manzano, haya, fresno, arce, abedul, tilo, sauce y serbal de cazadores, y con menos frecuencia sobre coníferas como la pícea y el abeto; en las Montañas Rocosas es común sobre álamo temblón y pícea. Es un parásito débil de árboles ya debilitados por heridas u otras infecciones y vive también como descomponedor de madera muerta, causando una pudrición blanca. Muy común en Europa central desde las llanuras hasta las montañas, es típico de árboles de carretera, de parques y de huertos frutales; en Gran Bretaña e Irlanda es localmente común, sobre todo en hayas de pastizales abiertos y setos sobre suelo alcalino. Los cuerpos fructíferos aparecen de agosto a noviembre, principalmente desde septiembre, y pueden persistir hasta diciembre.",
+      "uses": "No se recomienda su consumo. Durante mucho tiempo se consideró comestible, y los sombreros jóvenes se comían en vinagre o en guisos, pero ha causado intoxicaciones con vómitos y diarrea unas diez horas después de la comida, sobre todo cuando se consumió con alcohol, y puede causar trastornos digestivos en personas sensibles. La literatura actual lo considera no comestible o tóxico.",
+      "confusion": "La seta de miel (Armillaria mellea) y otras especies de Armillaria crecen en ramilletes parecidos en la misma época, pero tienen esporada blanca, láminas y carne blanquecinas, escamas más finas y no tienen escamas gruesas levantadas en el pie. Pholiota squarrosoides tiene el sombrero más pálido y viscoso entre las escamas, carne blanca, sin olor a ajo ni a rábano, y esporas más pequeñas. Pholiota aurivella tiene el sombrero graso a viscoso con escamas aplicadas, y Pholiota adiposa y Pholiota cerifera también tienen escamas más bien aplicadas. Pholiota flammans es amarillo vivo a amarillo anaranjado y crece sobre madera caída de coníferas. Hemipholiota populnea es mucho más pálida, gris beige, amarga y crece sobre chopos.",
+      "notes": "Como pudrición blanca lenta de árboles vivos, puede dañar gravemente árboles frutales y de alineación y vuelve quebradiza su madera. Los cuerpos fructíferos contienen los compuestos escuarrosidina y pinilidina, que inhiben la enzima xantina oxidasa. Son un alimento importante para la ardilla roja, y los cuerpos fructíferos en descomposición son aprovechados por moscas de la fruta del género Drosophila."
+    },
+    "et": {
+      "description": "Silmatorkav eoslehtedega seen, mis kasvab tihedates kobarates elusate ja surnud puude tüve alusel; kuiv õlgkollane kübar ja jalg on kaetud jämedate, ülespöördunud, roostepruunide soomustega. See on nõrgestatud puude nõrk parasiit ja surnud puidu lagundaja, mis põhjustab valgemädanikku. Levinud kogu Euroopas ja Põhja-Ameerikas.",
+      "cap": "Kübar on 3–12 cm lai, mõnikord kuni 15 cm. Alguses on see ümar kuni kellukjas, hiljem kumer ja lõpuks peaaegu lame, mõnikord madala küüruga; serv jääb kauaks sissekeerdunuks ja sellelt ripuvad sageli loori jäänused. Pind on kuiv, mitte kunagi limane, kahvatukollane kuni õlgkollane või kollakasookerjas ning tihedalt kaetud jämedate, teravate, ülespöördunud soomustega, mis on roostepruunid kuni punakaspruunid, keskkoha poole tumedamad ja paiknevad enam-vähem kontsentriliste ringidena.",
+      "hymenium": "Eoslehed on tihedad, kitsad, kinnituvad kuni veidi alanevad ja mõnikord sälguga. Alguses on need kahvatukollased kuni hallikaskollased, sageli oliivika või rohekana tooniga, ning eoste valmides muutuvad roostepruuniks kuni kaneelpruuniks; need pole kunagi valged. Noortel viljakehadel katab neid ämblikuvõrgutaoline osaloor. Basiidid on nuijad ja neljaeoselised, 16–25 × 5–7 µm, ning heilotsüstiidid nuijad kuni värtnakujulised.",
+      "stipe": "Jalg on 4–12 cm pikk, mõnikord 15 cm ja pikemgi, ning 0,5–1,5 cm jäme, silindriline ja aluse poole sageli ahenev, tugev ja kiuline. Rõngast ülalpool on see sile ja kahvatukollakas; rõngas on kiuline, villane ja rebenenud, sageli taandunud rõngavööndiks. Sellest allpool on jalg tihedalt kaetud tagasipöördunud roostepruunide soomustega nagu kübaral ning alus muutub vanusega roostepruuniks kuni punakaspruuniks.",
+      "flesh": "Viljaliha on kahvatukollane kuni valkjaskollane, tugev ja muutub jala aluse poole roostepruuniks. Lõhn on iseloomulik, kuid eri autorid kirjeldavad seda erinevalt: redise, küüslaugu või küüslaugu ja sidruni segu või mädaneva puidu lõhnana. Maitse meenutab redist ning on mahe kuni kergelt mõrkjas.",
+      "sporePrint": "Roostepruun kuni kaneelpruun. Eosed on 6–8 × 3,5–5 µm, elliptilised, siledad, väikese tipmise idupooriga ega ole amüloidsed.",
+      "habitat": "Kasvab tihedate, sageli suurte kobaratena tüvede alusel, juurtel ja kändudel elusatel ja surnud lehtpuudel, eriti õunapuul, pöögil, saarel, vahtral, kasel, pärnal, pajul ja pihlakal, harvem okaspuudel, näiteks kuusel ja nulul; Kaljumägedes on see sage haaval ja kuusel. See on vigastuste või muude nakkuste tõttu juba nõrgenenud puude nõrk parasiit ning elab ka surnud puidu lagundajana, põhjustades valgemädanikku. Kesk-Euroopas on see madalikest mägedeni väga sage ning tüüpiline teeäärsetel, parkide ja viljapuuaedade puudel; Suurbritannias ja Iirimaal on see kohati sage, eriti pöögil avatud rohumaadel ja hekkides lubjarikkal mullal. Viljakehad ilmuvad augustist novembrini, peamiselt septembrist, ning võivad püsida detsembrini.",
+      "uses": "Söömiseks ei soovitata. Seda peeti kaua söögiseeneks ning noori kübaraid söödi äädikasse marineerituna või hautistes, kuid see on põhjustanud mürgistusi oksendamise ja kõhulahtisusega umbes kümme tundi pärast söömist, eriti kui seda söödi koos alkoholiga, ning tundlikel inimestel võib see põhjustada maohäireid. Tänapäeva kirjandus loetleb seda mittesöödava või mürgisena.",
+      "confusion": "Harilik külmaseen (Armillaria mellea) ja teised Armillaria liigid kasvavad sarnaste kobaratena samal aastaajal, kuid neil on valge eoste jälg, valkjad eoslehed ja viljaliha, peenemad soomused ning jalal puuduvad jämedad ülespöördunud soomused. Pholiota squarrosoides'il on kahvatum, soomuste vahelt kleepuv kübar, valge viljaliha, puudub küüslaugu- või redisehõng ning eosed on väiksemad. Pholiota aurivella kübar on rasvjas kuni limane ja liibunud soomustega ning ka Pholiota adiposa'l ja Pholiota cerifera'l on pigem liibunud soomused. Pholiota flammans on erekollane kuni oranžikaskollane ja kasvab mahalangenud okaspuidul. Hemipholiota populnea on palju kahvatum, beežikashall, mõru ja kasvab paplitel.",
+      "notes": "Elusate puude aeglase valgemädanikuna võib see tõsiselt kahjustada viljapuid ja tänavapuid ning muudab nende puidu hapraks. Viljakehad sisaldavad ühendeid skvarosidiini ja pinilidiini, mis pärsivad ensüümi ksantiinoksüdaasi. Need on punasele oravale tähtis toit ning lagunevaid viljakehi kasutavad perekonna Drosophila äädikakärbsed."
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار و چشمگیر که به‌صورت دسته‌های انبوه در پای درختان زنده و مرده می‌روید؛ کلاهک خشک زرد کاهی و پایه‌اش با فلس‌های زبر، برگشته و قهوه‌ای زنگاری پوشیده شده‌اند. این قارچ انگلی ضعیف بر درختان ناتوان و تجزیه‌کنندهٔ چوب مرده است که پوسیدگی سفید ایجاد می‌کند. در سراسر اروپا و آمریکای شمالی رایج است.",
+      "cap": "قطر کلاهک ۳–۱۲ سانتی‌متر و گاهی تا ۱۵ سانتی‌متر است. ابتدا گرد تا زنگوله‌ای است، سپس محدب و سرانجام تقریباً صاف می‌شود و گاهی برجستگی کوتاهی دارد؛ لبهٔ آن مدت‌ها به درون پیچیده می‌ماند و اغلب بقایای پرده از آن آویزان است. سطح آن خشک و هرگز لزج نیست، زرد کم‌رنگ تا زرد کاهی یا زرد اُخرایی است و به‌طور انبوه با فلس‌های زبر، نوک‌تیز و برگشتهٔ قهوه‌ای زنگاری تا قهوه‌ای مایل به قرمز پوشیده شده که به‌سوی مرکز تیره‌ترند و کم‌وبیش در حلقه‌های هم‌مرکز قرار گرفته‌اند.",
+      "hymenium": "تیغه‌ها فشرده و باریک‌اند، چسبیده تا اندکی پایین‌رونده و گاهی بریدگی‌دار. ابتدا زرد کم‌رنگ تا زرد خاکستری‌اند و اغلب ته‌رنگ زیتونی یا سبزفام دارند و با رسیدن هاگ‌ها قهوه‌ای زنگاری تا دارچینی می‌شوند؛ هرگز سفید نیستند. در اندام‌های باردهی جوان، پرده‌ای جزئی شبیه تار عنکبوت آن‌ها را می‌پوشاند. بازیدیوم‌ها گرزی و چهارهاگی، ۱۶–۲۵ × ۵–۷ میکرومتر، و کیلوسیستیدیوم‌ها گرزی تا دوکی‌اند.",
+      "stipe": "پایه ۴–۱۲ سانتی‌متر و گاهی ۱۵ سانتی‌متر یا بیشتر طول و ۰٫۵–۱٫۵ سانتی‌متر ضخامت دارد، استوانه‌ای است و اغلب به‌سوی قاعده باریک می‌شود، سفت و رشته‌ای است. بالای حلقه صاف و زرد کم‌رنگ است؛ حلقه رشته‌ای، پشمی و پاره است و اغلب به ناحیه‌ای حلقوی کاهش می‌یابد. زیر آن پایه به‌طور انبوه با فلس‌های برگشتهٔ قهوه‌ای زنگاری مانند فلس‌های کلاهک پوشیده است و قاعده با افزایش سن قهوه‌ای زنگاری تا قهوه‌ای مایل به قرمز می‌شود.",
+      "flesh": "گوشت زرد کم‌رنگ تا زرد مایل به سفید و سفت است و به‌سوی قاعدهٔ پایه قهوه‌ای زنگاری می‌شود. بوی آن مشخص است اما نویسندگان مختلف آن را به‌گونه‌های متفاوت توصیف کرده‌اند: مانند تربچه، سیر یا آمیزه‌ای از سیر و لیمو، یا بوی چوب پوسیده. مزهٔ آن شبیه تربچه و ملایم تا اندکی تلخ است.",
+      "sporePrint": "قهوه‌ای زنگاری تا قهوه‌ای دارچینی. هاگ‌ها ۶–۸ × ۳٫۵–۵ میکرومتر، بیضوی، صاف، با منفذ رویشی کوچک در نوک و غیرآمیلوئید هستند.",
+      "habitat": "به‌صورت دسته‌های انبوه و اغلب بزرگ در پای تنه‌ها، روی ریشه‌ها و کُنده‌های درختان پهن‌برگ زنده و مرده می‌روید، به‌ویژه سیب، راش، ون، افرا، توس، نمدار، بید و بارانک، و کمتر روی سوزنی‌برگانی مانند پیسه‌آ و نراد؛ در کوه‌های راکی روی سپیدار لرزان و پیسه‌آ رایج است. این قارچ انگلی ضعیف بر درختانی است که پیش‌تر بر اثر زخم یا عفونت‌های دیگر ناتوان شده‌اند و همچنین به‌عنوان تجزیه‌کنندهٔ چوب مرده زندگی می‌کند و پوسیدگی سفید ایجاد می‌کند. در اروپای مرکزی از دشت‌ها تا کوهستان بسیار رایج و ویژهٔ درختان کنار جاده، پارک‌ها و باغ‌های میوه است؛ در بریتانیا و ایرلند به‌طور محلی رایج است، به‌ویژه روی راش در علفزارهای باز و پرچین‌ها بر خاک قلیایی. اندام‌های باردهی از اوت تا نوامبر، عمدتاً از سپتامبر، پدیدار می‌شوند و ممکن است تا دسامبر باقی بمانند.",
+      "uses": "خوردن آن توصیه نمی‌شود. مدت‌ها خوراکی به شمار می‌رفت و کلاهک‌های جوان را ترشی‌شده در سرکه یا در خوراک‌ها می‌خوردند، اما موجب مسمومیت‌هایی با استفراغ و اسهال حدود ده ساعت پس از غذا شده است، به‌ویژه هنگامی که همراه با الکل خورده شده، و در افراد حساس ممکن است ناراحتی معده ایجاد کند. منابع کنونی آن را ناخوراکی یا سمی می‌دانند.",
+      "confusion": "Armillaria mellea و دیگر گونه‌های Armillaria در همان فصل به‌صورت دسته‌های مشابه می‌رویند، اما اثر هاگ سفید، تیغه‌ها و گوشت سفیدفام، فلس‌های ظریف‌تر دارند و روی پایه‌شان فلس‌های زبر برگشته دیده نمی‌شود. Pholiota squarrosoides کلاهکی کم‌رنگ‌تر دارد که میان فلس‌ها چسبناک است، گوشتش سفید است، بوی سیر یا تربچه ندارد و هاگ‌هایش کوچک‌ترند. Pholiota aurivella کلاهکی چرب تا لزج با فلس‌های خوابیده دارد و Pholiota adiposa و Pholiota cerifera نیز فلس‌های خوابیده‌تری دارند. Pholiota flammans زرد روشن تا زرد نارنجی است و روی چوب افتادهٔ سوزنی‌برگان می‌روید. Hemipholiota populnea بسیار کم‌رنگ‌تر، خاکستری بژ و تلخ است و روی صنوبر می‌روید.",
+      "notes": "به‌عنوان پوسیدگی سفید کُند در درختان زنده می‌تواند به درختان میوه و درختان خیابانی آسیب جدی بزند و چوب آن‌ها را شکننده کند. اندام‌های باردهی حاوی ترکیبات اسکواروسیدین و پینیلیدین هستند که آنزیم گزانتین اکسیداز را مهار می‌کنند. این اندام‌ها خوراک مهمی برای سنجاب قرمز هستند و مگس‌های میوهٔ سردهٔ Drosophila از اندام‌های باردهی در حال پوسیدن استفاده می‌کنند."
+    },
+    "fi": {
+      "description": "Huomiota herättävä helttasieni, joka kasvaa tiheinä kimppuina elävien ja kuolleiden puiden tyvellä; kuivaa oljenkeltaista lakkia ja jalkaa peittävät karkeat, pystyt, ruosteenruskeat suomut. Se on heikentyneiden puiden heikko loinen ja kuolleen puun lahottaja, joka aiheuttaa valkolahoa. Se on yleinen kaikkialla Euroopassa ja Pohjois-Amerikassa.",
+      "cap": "Lakki on 3–12 cm leveä, joskus jopa 15 cm. Aluksi se on pyöreä tai kellomainen, myöhemmin kupera ja lopulta lähes tasainen, joskus matalan kyttyrän kera; reuna pysyy pitkään sisäänkääntyneenä ja siitä riippuu usein verhon jäänteitä. Pinta on kuiva, ei koskaan limainen, vaaleankeltainen tai oljenkeltainen tai kellanokra, ja sitä peittävät tiheästi karkeat, suippokärkiset, pystyt suomut, jotka ovat ruosteenruskeita tai punaruskeita, keskustaa kohti tummempia ja asettuneet enemmän tai vähemmän samankeskisiksi renkaiksi.",
+      "hymenium": "Heltat ovat tiheässä, kapeat, kiinnittyneet tai hieman jalanmyötäiset ja joskus lovettuneet. Aluksi ne ovat vaaleankeltaisia tai harmahtavankeltaisia, usein oliivinsävyisiä tai vihertäviä, ja itiöiden kypsyessä niistä tulee ruosteenruskeita tai kanelinruskeita; ne eivät ole koskaan valkoisia. Nuorissa itiöemissä niitä peittää seittimäinen osittaisverho. Kantasolut ovat nuijamaisia ja neli-itiöisiä, 16–25 × 5–7 µm, ja särmäkystidit nuijamaisia tai värttinämäisiä.",
+      "stipe": "Jalka on 4–12 cm pitkä, joskus 15 cm tai pidempikin, ja 0,5–1,5 cm paksu, lieriömäinen ja usein tyveä kohti kapeneva, kiinteä ja säikeinen. Renkaan yläpuolella se on sileä ja vaalean kellertävä; rengas on säikeinen, villava ja repeillyt, usein vain rengasvyöhyke. Sen alapuolella jalkaa peittävät tiheästi taaksepäin kaartuvat ruosteenruskeat suomut kuten lakissa, ja tyvi muuttuu iän myötä ruosteenruskeaksi tai punaruskeaksi.",
+      "flesh": "Malto on vaaleankeltainen tai valkeankeltainen, kiinteä ja muuttuu jalan tyveä kohti ruosteenruskeaksi. Haju on tunnusomainen, mutta eri kirjoittajat kuvaavat sitä eri tavoin: retikan, valkosipulin tai valkosipulin ja sitruunan sekoituksen tai lahoavan puun hajuksi. Maku muistuttaa retikkaa ja on mieto tai hieman kitkerä.",
+      "sporePrint": "Ruosteenruskea tai kanelinruskea. Itiöt ovat 6–8 × 3,5–5 µm, elliptisiä, sileitä, niissä on pieni kärjen itureikä, eivätkä ne ole amyloideja.",
+      "habitat": "Kasvaa tiheinä, usein suurina kimppuina runkojen tyvellä, juurilla ja kannoilla elävissä ja kuolleissa lehtipuissa, erityisesti omenapuussa, pyökissä, saarnessa, vaahterassa, koivussa, lehmuksessa, pajussa ja pihlajassa, harvemmin havupuissa, kuten kuusessa ja jalokuusessa; Kalliovuorilla se on yleinen haavassa ja kuusessa. Se on vaurioiden tai muiden tartuntojen jo heikentämien puiden heikko loinen ja elää myös kuolleen puun lahottajana aiheuttaen valkolahoa. Keski-Euroopassa se on hyvin yleinen alangoilta vuorille ja tyypillinen tienvarsi-, puisto- ja hedelmäpuissa; Britanniassa ja Irlannissa se on paikoin yleinen, erityisesti pyökissä avoimilla nurmilla ja pensasaidoissa emäksisellä maalla. Itiöemiä ilmestyy elokuusta marraskuuhun, pääasiassa syyskuusta alkaen, ja ne voivat säilyä joulukuulle.",
+      "uses": "Ei suositella syötäväksi. Sitä pidettiin pitkään ruokasienenä, ja nuoria lakkeja syötiin etikkaan säilöttyinä tai muhennoksissa, mutta se on aiheuttanut myrkytyksiä, joihin on liittynyt oksentelua ja ripulia noin kymmenen tuntia aterian jälkeen, erityisesti kun sitä on syöty alkoholin kanssa, ja herkillä ihmisillä se voi aiheuttaa vatsavaivoja. Nykyinen kirjallisuus luettelee sen syötäväksi kelpaamattomaksi tai myrkylliseksi.",
+      "confusion": "Keltamesisieni (Armillaria mellea) ja muut Armillaria-lajit kasvavat samankaltaisina kimppuina samaan aikaan vuodesta, mutta niillä on valkoinen itiöjauhe, vaaleat heltat ja malto, hienommat suomut eikä jalassa ole karkeita pystyjä suomuja. Pholiota squarrosoides -lajilla on vaaleampi, suomujen välistä tahmea lakki, valkoinen malto, ei valkosipulin tai retikan hajua ja pienemmät itiöt. Pholiota aurivella -lajin lakki on rasvainen tai limainen ja sen suomut ovat painuneita, ja myös Pholiota adiposa- ja Pholiota cerifera -lajeilla on enemmän painuneet suomut. Pholiota flammans on kirkkaankeltainen tai oranssinkeltainen ja kasvaa maahan kaatuneessa havupuussa. Hemipholiota populnea on paljon vaaleampi, beigenharmaa, karvas ja kasvaa poppeleissa.",
+      "notes": "Elävien puiden hitaana valkolahona se voi vahingoittaa vakavasti hedelmäpuita ja katupuita ja tehdä niiden puuaineksesta haurasta. Itiöemät sisältävät yhdisteitä skvarrosidiinia ja pinillidiiniä, jotka estävät ksantiinioksidaasientsyymiä. Ne ovat tärkeää ravintoa oravalle, ja lahoavia itiöemiä käyttävät Drosophila-suvun banaanikärpäset."
+    },
+    "fr": {
+      "description": "Un champignon à lames voyant qui pousse en touffes denses au pied d'arbres vivants ou morts ; son chapeau et son pied, secs et jaune paille, sont couverts de grosses écailles relevées brun rouille. C'est un parasite de faiblesse des arbres affaiblis et un décomposeur du bois mort qui provoque une pourriture blanche. Il est commun en Europe et en Amérique du Nord.",
+      "cap": "Le chapeau mesure 3–12 cm de diamètre, parfois jusqu'à 15 cm. D'abord arrondi à campanulé, il devient convexe puis presque plat, parfois avec un mamelon bas ; la marge reste longtemps enroulée et porte souvent des restes de voile. La surface est sèche, jamais visqueuse, jaune pâle à jaune paille ou jaune ocre, densément couverte de grosses écailles pointues et relevées, brun rouille à brun rougeâtre, plus foncées vers le centre et disposées en cercles plus ou moins concentriques.",
+      "hymenium": "Les lames sont serrées, étroites, adnées à légèrement décurrentes et parfois échancrées. D'abord jaune pâle à jaune grisâtre, souvent avec un reflet olive ou verdâtre, elles deviennent brun rouille à cannelle à maturité des spores ; elles ne sont jamais blanches. Chez les jeunes sporophores, elles sont couvertes d'un voile partiel aranéeux. Les basides sont claviformes et tétrasporiques, 16–25 × 5–7 µm, et les cheilocystides sont claviformes à fusiformes.",
+      "stipe": "Le pied mesure 4–12 cm de haut, parfois 15 cm ou plus, et 0,5–1,5 cm d'épaisseur ; il est cylindrique, souvent atténué vers la base, ferme et fibreux. Au-dessus de l'anneau, il est lisse et jaunâtre pâle ; l'anneau est fibreux, laineux et déchiré, souvent réduit à une zone annulaire. En dessous, le pied est densément couvert d'écailles retroussées brun rouille semblables à celles du chapeau, et la base devient brun rouille à brun rougeâtre avec l'âge.",
+      "flesh": "La chair est jaune pâle à jaune blanchâtre, ferme, et devient brun rouille vers la base du pied. L'odeur est nette mais décrite différemment selon les auteurs : de radis, d'ail ou comme un mélange d'ail et de citron, ou encore de bois pourri. La saveur rappelle le radis et est douce à légèrement amère.",
+      "sporePrint": "Brun rouille à brun cannelle. Les spores mesurent 6–8 × 3,5–5 µm ; elles sont elliptiques, lisses, munies d'un petit pore germinatif apical et non amyloïdes.",
+      "habitat": "Il pousse en touffes denses, souvent volumineuses, au pied des troncs, sur les racines et les souches de feuillus vivants ou morts, surtout pommier, hêtre, frêne, érable, bouleau, tilleul, saule et sorbier des oiseleurs, plus rarement sur des conifères comme l'épicéa et le sapin ; dans les montagnes Rocheuses, il est commun sur le peuplier faux-tremble et l'épicéa. C'est un parasite de faiblesse des arbres déjà affaiblis par des blessures ou d'autres infections, et il vit aussi en décomposeur du bois mort, provoquant une pourriture blanche. Très commun en Europe centrale de la plaine à la montagne, il est typique des arbres d'alignement, de parc et de verger ; en Grande-Bretagne et en Irlande, il est localement commun, surtout sur le hêtre dans les prairies ouvertes et les haies sur sol calcaire. Les sporophores apparaissent d'août à novembre, surtout à partir de septembre, et peuvent persister jusqu'en décembre.",
+      "uses": "Sa consommation est déconseillée. Il a longtemps été considéré comme comestible, et les jeunes chapeaux étaient consommés conservés au vinaigre ou en ragoût, mais il a provoqué des intoxications avec vomissements et diarrhée environ dix heures après le repas, surtout lorsqu'il était consommé avec de l'alcool, et il peut causer des troubles digestifs chez les personnes sensibles. La littérature actuelle le classe comme non comestible ou toxique.",
+      "confusion": "L'armillaire couleur de miel (Armillaria mellea) et les autres armillaires (Armillaria) poussent en touffes semblables à la même saison, mais ils ont une sporée blanche, des lames et une chair blanchâtres, des écailles plus fines et pas de grosses écailles relevées sur le pied. Pholiota squarrosoides a un chapeau plus pâle, visqueux entre les écailles, une chair blanche, pas d'odeur d'ail ni de radis et des spores plus petites. Pholiota aurivella a un chapeau gras à visqueux avec des écailles appliquées, et Pholiota adiposa et Pholiota cerifera ont elles aussi des écailles plutôt appliquées. Pholiota flammans est jaune vif à jaune orangé et pousse sur du bois de conifère tombé au sol. Hemipholiota populnea est beaucoup plus pâle, beige grisâtre, amère et pousse sur les peupliers.",
+      "notes": "En tant que pourriture blanche lente des arbres vivants, il peut gravement endommager les arbres fruitiers et d'alignement et rend leur bois cassant. Les sporophores contiennent la squarrosidine et la pinillidine, des composés qui inhibent l'enzyme xanthine oxydase. Ils constituent une nourriture importante pour l'écureuil roux, et les sporophores en décomposition sont exploités par les drosophiles du genre Drosophila."
+    },
+    "he": {
+      "description": "פטרייה בולטת בעלת למלים הגדלה באשכולות צפופים בבסיס עצים חיים ומתים; הכובע היבש בצבע צהוב-קש והרגל מכוסים בקשקשים גסים, זקורים, בצבע חום-חלודה. זהו טפיל חלש של עצים מוחלשים ומפרק של עץ מת הגורם לריקבון לבן. הוא נפוץ ברחבי אירופה וצפון אמריקה.",
+      "cap": "הכובע ברוחב 3–12 ס\"מ, ולעתים עד 15 ס\"מ. בתחילה הוא מעוגל עד פעמוני, אחר כך קמור ולבסוף כמעט שטוח, לעתים עם בליטה נמוכה; שוליו נשארים מגולגלים פנימה זמן רב ולעתים קרובות תלויים מהם שרידי הצעיף. פני השטח יבשים, לעולם לא רירים, צהובים חיוורים עד צהוב-קש או צהוב-אוקרה, ומכוסים בצפיפות בקשקשים גסים, מחודדים וזקורים בצבע חום-חלודה עד חום-אדמדם, כהים יותר לכיוון המרכז ומסודרים בטבעות קונצנטריות פחות או יותר.",
+      "hymenium": "הלמלים צפופים, צרים, מחוברים עד יורדים מעט ולעתים מחורצים. בתחילה הם צהובים חיוורים עד צהובים-אפרפרים, לעתים קרובות בגוון זיתי או ירקרק, והופכים לחום-חלודה עד צבע קינמון עם הבשלת הנבגים; הם לעולם אינם לבנים. בגופי פרי צעירים הם מכוסים בצעיף חלקי דמוי קורי עכביש. הבסידיות אלתיות ובעלות ארבעה נבגים, 16–25 × 5–7 מיקרומטר, והציסטידות שבשולי הלמלים אלתיות עד כישוריות.",
+      "stipe": "הרגל באורך 4–12 ס\"מ, לעתים 15 ס\"מ ויותר, ובעובי 0.5–1.5 ס\"מ, גלילית ולעתים קרובות מצרה לכיוון הבסיס, מוצקה וסיבית. מעל הטבעת היא חלקה וצהבהבה חיוורת; הטבעת סיבית, צמרית וקרועה, ולעתים קרובות מצטמצמת לאזור טבעתי. מתחתיה הרגל מכוסה בצפיפות בקשקשים כפופים לאחור בצבע חום-חלודה כמו אלה שעל הכובע, והבסיס הופך עם הגיל לחום-חלודה עד חום-אדמדם.",
+      "flesh": "הבשר צהוב חיוור עד צהוב-לבנבן, מוצק, והופך לחום-חלודה לכיוון בסיס הרגל. הריח אופייני אך מתואר באופן שונה בידי מחברים שונים: כמו צנון, שום או שילוב של שום ולימון, או כמו עץ רקוב. הטעם מזכיר צנון ועדין עד מריר מעט.",
+      "sporePrint": "חום-חלודה עד חום-קינמון. הנבגים בגודל 6–8 × 3.5–5 מיקרומטר, אליפטיים, חלקים, עם נקבובית נביטה קטנה בקצה, ואינם עמילואידיים.",
+      "habitat": "גדל באשכולות צפופים, לעתים קרובות גדולים, בבסיס גזעים, על שורשים ועל גדמים של עצים רחבי עלים חיים ומתים, בעיקר תפוח, אשור, מילה, אדר, ליבנה, תרזה, ערבה וחוזרר, ולעתים רחוקות יותר על מחטניים כמו אשוחית ואשוח; בהרי הרוקי הוא נפוץ על צפצפה רועדת ועל אשוחית. הוא טפיל חלש של עצים שכבר הוחלשו בפציעות או בזיהומים אחרים, וחי גם כמפרק של עץ מת וגורם לריקבון לבן. במרכז אירופה הוא נפוץ מאוד מהשפלה ועד ההרים ואופייני לעצי דרכים, פארקים ומטעים; בבריטניה ובאירלנד הוא נפוץ במקומות מסוימים, במיוחד על אשור בשטחי עשב פתוחים ובמשוכות על קרקע בסיסית. גופי הפרי מופיעים מאוגוסט עד נובמבר, בעיקר מספטמבר, ויכולים להחזיק מעמד עד דצמבר.",
+      "uses": "אינו מומלץ לאכילה. במשך זמן רב נחשב למאכל, וכובעים צעירים נאכלו כבושים בחומץ או בתבשילים, אך הוא גרם להרעלות עם הקאות ושלשולים כעשר שעות לאחר הארוחה, במיוחד כשנאכל יחד עם אלכוהול, ובאנשים רגישים הוא עלול לגרום לקלקול קיבה. הספרות העדכנית מציינת אותו כלא אכיל או רעיל.",
+      "confusion": "Armillaria mellea ומינים אחרים של Armillaria גדלים באשכולות דומים באותה עונה, אך יש להם הדפס נבגים לבן, למלים ובשר לבנבנים, קשקשים עדינים יותר ואין להם קשקשים גסים זקורים על הרגל. ל-Pholiota squarrosoides כובע חיוור יותר הדביק בין הקשקשים, בשר לבן, אין ריח שום או צנון והנבגים קטנים יותר. ל-Pholiota aurivella כובע שמנוני עד רירי עם קשקשים צמודים, וגם ל-Pholiota adiposa ול-Pholiota cerifera קשקשים צמודים יותר. Pholiota flammans צהוב בוהק עד צהוב-כתום וגדל על עץ מחטני שנפל. Hemipholiota populnea חיוורת בהרבה, אפורה-בז', מרה וגדלה על צפצפה.",
+      "notes": "כריקבון לבן איטי של עצים חיים הוא עלול לפגוע קשות בעצי פרי ובעצי רחוב ולהפוך את העץ שלהם לשביר. גופי הפרי מכילים את התרכובות סקוורוסידין ופינילידין, המעכבות את האנזים קסנתין אוקסידאז. הם מזון חשוב לסנאי האדום, וגופי פרי נרקבים משמשים זבובי פירות מהסוג Drosophila."
+    },
+    "hi": {
+      "description": "एक आकर्षक गलफड़ेदार कवक जो जीवित और मृत पेड़ों के आधार पर घने गुच्छों में उगता है; इसकी सूखी पुआल-पीली टोपी और डंठल मोटे, ऊपर की ओर मुड़े, जंग-भूरे शल्कों से ढके होते हैं। यह कमज़ोर पेड़ों पर एक दुर्बल परजीवी और मृत लकड़ी का अपघटक है जो सफ़ेद सड़न पैदा करता है। यह पूरे यूरोप और उत्तरी अमेरिका में आम है।",
+      "cap": "टोपी 3–12 सेमी चौड़ी होती है, कभी-कभी 15 सेमी तक। शुरुआत में यह गोल से घंटी के आकार की होती है, फिर उत्तल और अंत में लगभग चपटी हो जाती है, कभी-कभी एक हल्के उभार के साथ; इसका किनारा लंबे समय तक अंदर की ओर मुड़ा रहता है और अक्सर उस पर आवरण के अवशेष लटके रहते हैं। सतह सूखी होती है, कभी चिपचिपी नहीं, हल्की पीली से पुआल-पीली या पीली-गेरुई, और जंग-भूरे से लालिमा लिए भूरे, मोटे, नुकीले, ऊपर मुड़े शल्कों से घनी ढकी होती है, जो केंद्र की ओर गहरे होते हैं और लगभग संकेंद्रित छल्लों में व्यवस्थित होते हैं।",
+      "hymenium": "गलफड़े घने, संकरे, संलग्न से थोड़े अवरोही और कभी-कभी खाँचेदार होते हैं। शुरुआत में ये हल्के पीले से धूसर-पीले होते हैं, अक्सर जैतूनी या हरी आभा के साथ, और बीजाणुओं के पकने पर जंग-भूरे से दालचीनी रंग के हो जाते हैं; ये कभी सफ़ेद नहीं होते। युवा फलनकायों में ये मकड़ी के जाले जैसे आंशिक आवरण से ढके रहते हैं। बेसिडिया गदाकार और चार-बीजाणु वाले, 16–25 × 5–7 माइक्रोमीटर, और कीलोसिस्टिडिया गदाकार से तर्कुरूप होते हैं।",
+      "stipe": "डंठल 4–12 सेमी लंबा, कभी-कभी 15 सेमी या अधिक, और 0.5–1.5 सेमी मोटा होता है, बेलनाकार और अक्सर आधार की ओर पतला, दृढ़ और रेशेदार। छल्ले के ऊपर यह चिकना और हल्का पीलापन लिए होता है; छल्ला रेशेदार, ऊनी और फटा होता है, अक्सर केवल एक छल्ला-क्षेत्र रह जाता है। उसके नीचे डंठल टोपी जैसे पीछे मुड़े जंग-भूरे शल्कों से घना ढका होता है, और उम्र के साथ आधार जंग-भूरा से लालिमा लिए भूरा हो जाता है।",
+      "flesh": "गूदा हल्का पीला से सफ़ेदी लिए पीला, दृढ़ होता है और डंठल के आधार की ओर जंग-भूरा हो जाता है। गंध विशिष्ट है, पर अलग-अलग लेखक इसे अलग तरह से बताते हैं: मूली, लहसुन या लहसुन और नींबू के मिश्रण जैसी, या सड़ती लकड़ी जैसी। स्वाद मूली जैसा और हल्का से थोड़ा कड़वा होता है।",
+      "sporePrint": "जंग-भूरा से दालचीनी-भूरा। बीजाणु 6–8 × 3.5–5 माइक्रोमीटर, दीर्घवृत्ताकार, चिकने, शीर्ष पर एक छोटे अंकुरण छिद्र वाले और अनएमाइलॉइड होते हैं।",
+      "habitat": "यह जीवित और मृत चौड़ी पत्ती वाले पेड़ों के तनों के आधार, जड़ों और ठूँठों पर घने, अक्सर बड़े गुच्छों में उगता है, विशेषकर सेब, बीच, ऐश, मेपल, भोज, लिंडेन, विलो और रोवन पर, और कम बार स्प्रूस और फ़र जैसे शंकुधारी पेड़ों पर; रॉकी पर्वतों में यह ऐस्पन और स्प्रूस पर आम है। यह उन पेड़ों पर दुर्बल परजीवी है जो चोट या अन्य संक्रमणों से पहले ही कमज़ोर हो चुके हैं, और मृत लकड़ी के अपघटक के रूप में भी रहकर सफ़ेद सड़न पैदा करता है। मध्य यूरोप में यह मैदानों से पहाड़ों तक बहुत आम है और सड़क किनारे, पार्कों और बागों के पेड़ों पर विशिष्ट रूप से मिलता है; ब्रिटेन और आयरलैंड में यह स्थानीय रूप से आम है, विशेषकर क्षारीय मिट्टी पर खुले घास के मैदानों और बाड़ों में बीच पर। फलनकाय अगस्त से नवंबर तक, मुख्यतः सितंबर से, निकलते हैं और दिसंबर तक बने रह सकते हैं।",
+      "uses": "इसे खाने की सलाह नहीं दी जाती। लंबे समय तक इसे खाद्य माना गया और युवा टोपियाँ सिरके में अचार बनाकर या स्टू में खाई जाती थीं, लेकिन इससे विषाक्तता हुई है, जिसमें भोजन के लगभग दस घंटे बाद उल्टी और दस्त हुए, विशेषकर जब इसे शराब के साथ खाया गया, और संवेदनशील लोगों में यह पेट ख़राब कर सकता है। वर्तमान साहित्य इसे अखाद्य या विषैला बताता है।",
+      "confusion": "Armillaria mellea और अन्य Armillaria प्रजातियाँ उसी मौसम में मिलते-जुलते गुच्छों में उगती हैं, लेकिन उनका बीजाणु-छाप सफ़ेद, गलफड़े और गूदा सफ़ेदी लिए, शल्क अधिक बारीक होते हैं और डंठल पर मोटे ऊपर मुड़े शल्क नहीं होते। Pholiota squarrosoides की टोपी अधिक हल्की और शल्कों के बीच चिपचिपी होती है, गूदा सफ़ेद होता है, लहसुन या मूली की गंध नहीं होती और बीजाणु छोटे होते हैं। Pholiota aurivella की टोपी चिकनाई भरी से चिपचिपी और दबे शल्कों वाली होती है, और Pholiota adiposa तथा Pholiota cerifera के शल्क भी अधिक दबे होते हैं। Pholiota flammans चटक पीला से नारंगी-पीला होता है और गिरी हुई शंकुधारी लकड़ी पर उगता है। Hemipholiota populnea बहुत हल्का, बेज-धूसर, कड़वा होता है और पॉपलर पर उगता है।",
+      "notes": "जीवित पेड़ों की धीमी सफ़ेद सड़न के रूप में यह फलदार पेड़ों और सड़क के पेड़ों को गंभीर नुकसान पहुँचा सकता है और उनकी लकड़ी को भंगुर बना देता है। फलनकायों में स्क्वारोसिडीन और पिनिलिडीन यौगिक होते हैं, जो ज़ैंथिन ऑक्सीडेज़ एंज़ाइम को रोकते हैं। ये लाल गिलहरी का महत्वपूर्ण भोजन हैं, और सड़ते फलनकायों का उपयोग Drosophila वंश की फल मक्खियाँ करती हैं।"
+    },
+    "hr": {
+      "description": "Upadljiva listićava gljiva koja raste u gustim busenima pri dnu živog i mrtvog drveća; suhi slamnatožuti klobuk i stručak prekriveni su grubim, uzdignutim, hrđastosmeđim ljuskama. Slab je parazit oslabljenog drveća i razgrađivač mrtvog drva koji uzrokuje bijelu trulež. Česta je u Europi i Sjevernoj Americi.",
+      "cap": "Klobuk je širok 3–12 cm, ponekad do 15 cm. Isprva je zaobljen do zvonolik, zatim konveksan i na kraju gotovo ravan, ponekad s niskim ispupčenjem; rub dugo ostaje uvijen i često su s njega obješeni ostaci ovoja. Površina je suha, nikad sluzava, blijedožuta do slamnatožuta ili žutooker, gusto prekrivena grubim, šiljastim, uzdignutim ljuskama hrđastosmeđe do crvenkastosmeđe boje, tamnijima prema sredini i raspoređenima u više-manje koncentrične krugove.",
+      "hymenium": "Listići su gusti, uski, prirasli do malo silazni i ponekad urezani. Isprva su blijedožuti do sivkastožuti, često s maslinastim ili zelenkastim tonom, a sazrijevanjem spora postaju hrđastosmeđi do cimetasti; nikad nisu bijeli. Kod mladih plodišta prekriva ih paučinast djelomični ovoj. Bazidiji su batinasti i četverosporni, 16–25 × 5–7 µm, a keilocistide su batinaste do vretenaste.",
+      "stipe": "Stručak je dug 4–12 cm, ponekad 15 cm i više, i debeo 0,5–1,5 cm, valjkast i prema dnu često sužen, čvrst i vlaknast. Iznad prstena je gladak i blijedožućkast; prsten je vlaknast, vunast i razderan, često sveden na prstenastu zonu. Ispod njega stručak je gusto prekriven povijenim hrđastosmeđim ljuskama poput onih na klobuku, a dno s vremenom postaje hrđastosmeđe do crvenkastosmeđe.",
+      "flesh": "Meso je blijedožuto do bjelkastožuto, čvrsto i prema dnu stručka postaje hrđastosmeđe. Miris je izražen, ali ga različiti autori opisuju različito: na rotkvu, na češnjak ili kao mješavinu češnjaka i limuna, ili na trulo drvo. Okus podsjeća na rotkvu i blag je do blago gorkast.",
+      "sporePrint": "Hrđastosmeđ do cimetastosmeđ. Spore su 6–8 × 3,5–5 µm, eliptične, glatke, s malom vršnom klicinom porom i nisu amiloidne.",
+      "habitat": "Raste u gustim, često velikim busenima pri dnu debala, na korijenju i panjevima živog i mrtvog listopadnog drveća, osobito jabuke, bukve, jasena, javora, breze, lipe, vrbe i oskoruše, rjeđe na četinjačama poput smreke i jele; u Stjenjaku je česta na trepetljici i smreci. Slab je parazit drveća već oslabljenog ozljedama ili drugim infekcijama, a živi i kao razgrađivač mrtvog drva, uzrokujući bijelu trulež. U srednjoj Europi vrlo je česta od nizina do planina i tipična za drveće uz ceste, u parkovima i voćnjacima; u Velikoj Britaniji i Irskoj mjestimično je česta, osobito na bukvi na otvorenim travnjacima i u živicama na lužnatom tlu. Plodišta se pojavljuju od kolovoza do studenoga, uglavnom od rujna, i mogu se održati do prosinca.",
+      "uses": "Ne preporučuje se za jelo. Dugo se smatrala jestivom, a mladi klobuci jeli su se ukiseljeni u octu ili u gulašu, no uzrokovala je trovanja s povraćanjem i proljevom desetak sati nakon obroka, osobito kad je jedena uz alkohol, a u osjetljivih osoba može izazvati želučane tegobe. Današnja literatura navodi je kao nejestivu ili otrovnu.",
+      "confusion": "Medena puza (Armillaria mellea) i druge vrste roda Armillaria rastu u sličnim busenima u isto doba godine, ali imaju bijeli otisak spora, bjelkaste listiće i meso, sitnije ljuske i nemaju grube uzdignute ljuske na stručku. Pholiota squarrosoides ima bljeđi klobuk, ljepljiv između ljusaka, bijelo meso, nema miris na češnjak ni rotkvu i ima manje spore. Pholiota aurivella ima mastan do sluzav klobuk s priljubljenim ljuskama, a i Pholiota adiposa i Pholiota cerifera imaju više priljubljene ljuske. Pholiota flammans je jarkožuta do narančastožuta i raste na palom drvu četinjača. Hemipholiota populnea je mnogo bljeđa, bež-siva, gorka i raste na topolama.",
+      "notes": "Kao spora bijela trulež živog drveća može ozbiljno oštetiti voćke i drvorede te čini njihovo drvo krhkim. Plodišta sadrže spojeve skvarozidin i pinilidin, koji koče enzim ksantin-oksidazu. Važna su hrana crvenoj vjeverici, a plodišta u raspadanju koriste vinske mušice roda Drosophila."
+    },
+    "hu": {
+      "description": "Feltűnő lemezes gomba, amely sűrű csokrokban nő élő és elhalt fák tövén; száraz, szalmasárga kalapját és tönkjét durva, felálló, rozsdabarna pikkelyek borítják. Legyengült fák gyengeségi parazitája és az elhalt fa lebontója, amely fehérkorhadást okoz. Európában és Észak-Amerikában gyakori.",
+      "cap": "A kalap 3–12 cm széles, néha 15 cm-es is. Eleinte kerekded vagy harang alakú, később domború, végül majdnem lapos, néha alacsony púppal; széle sokáig begöngyölt, és gyakran burokmaradványok csüngenek róla. Felszíne száraz, sosem nyálkás, halványsárga, szalmasárga vagy sárgásokker, sűrűn borítják durva, hegyes, felálló pikkelyek, amelyek rozsdabarnák vagy vörösbarnák, a közép felé sötétebbek, és nagyjából koncentrikus körökben állnak.",
+      "hymenium": "A lemezek sűrűn állnak, keskenyek, a tönkhöz nőttek vagy kissé lefutók, néha foggal kanyarodók. Eleinte halványsárgák vagy szürkéssárgák, gyakran olív vagy zöldes árnyalattal, a spórák érésével rozsdabarnára vagy fahéjszínűre sötétednek; sosem fehérek. Fiatal termőtesteken pókhálószerű részleges burok fedi őket. A bazídiumok bunkósak, négyspórásak, 16–25 × 5–7 µm-esek, a cheilocisztidák bunkós vagy orsó alakúak.",
+      "stipe": "A tönk 4–12 cm hosszú, néha 15 cm-es vagy hosszabb, és 0,5–1,5 cm vastag, hengeres, a töve felé gyakran elvékonyodó, kemény és rostos. A gallér fölött sima és halványsárgás; a gallér rostos, gyapjas és szakadozott, gyakran csak gallérzóna. Alatta a tönköt sűrűn borítják a kalapéihoz hasonló, visszahajló rozsdabarna pikkelyek, töve pedig idővel rozsdabarnává vagy vörösbarnává válik.",
+      "flesh": "Húsa halványsárga vagy fehéressárga, kemény, a tönk töve felé rozsdabarnán sötétedik. Szaga jellegzetes, de a szerzők különbözőképpen írják le: retekre, fokhagymára vagy a fokhagyma és a citrom keverékére emlékeztet, illetve korhadó fára. Íze retekszerű, enyhe vagy kissé kesernyés.",
+      "sporePrint": "Rozsdabarna vagy fahéjbarna. A spórák 6–8 × 3,5–5 µm-esek, elliptikusak, simák, kis csúcsi csírapórussal, nem amiloidok.",
+      "habitat": "Sűrű, gyakran nagy csokrokban nő törzsek tövén, élő és elhalt lombos fák gyökerein és tuskóin, főleg almán, bükkön, kőrisen, juharon, nyíren, hárson, fűzön és madárberkenyén, ritkábban tűlevelűeken, például lucfenyőn és jegenyefenyőn; a Sziklás-hegységben gyakori rezgő nyáron és lucfenyőn. Sérülések vagy más fertőzések által már legyengült fák gyengeségi parazitája, és az elhalt fa lebontójaként is él, fehérkorhadást okozva. Közép-Európában a síkságtól a hegyvidékig nagyon gyakori, jellemzően út menti, parki és gyümölcsfákon nő; Nagy-Britanniában és Írországban helyenként gyakori, főleg nyílt gyepek és sövények bükkfáin, meszes talajon. Termőtestei augusztustól novemberig, főként szeptembertől jelennek meg, és decemberig is megmaradhatnak.",
+      "uses": "Fogyasztása nem ajánlott. Sokáig ehetőnek tartották, és a fiatal kalapokat ecetben savanyítva vagy pörköltben fogyasztották, de mérgezéseket okozott, hányással és hasmenéssel nagyjából tíz órával az étkezés után, különösen alkohollal együtt fogyasztva, érzékeny embereknél pedig gyomorpanaszokat okozhat. A mai szakirodalom nem ehetőként vagy mérgezőként tartja számon.",
+      "confusion": "A gyűrűs tuskógomba (Armillaria mellea) és más Armillaria-fajok ugyanabban az időszakban hasonló csokrokban nőnek, de spóraporuk fehér, lemezeik és húsuk fehéres, pikkelyeik finomabbak, és tönkjükön nincsenek durva, felálló pikkelyek. A Pholiota squarrosoides kalapja halványabb és a pikkelyek között ragacsos, húsa fehér, nincs fokhagyma- vagy retekszaga, spórái kisebbek. A Pholiota aurivella kalapja zsíros vagy nyálkás, lapuló pikkelyekkel, és a Pholiota adiposa és a Pholiota cerifera pikkelyei is inkább lapulók. A Pholiota flammans élénksárga vagy narancssárga, és lehullott tűlevelű fán nő. A Hemipholiota populnea sokkal halványabb, bézsesszürke, keserű, és nyárfákon nő.",
+      "notes": "Élő fák lassú fehérkorhadásaként komolyan károsíthatja a gyümölcsfákat és az utcai fákat, és törékennyé teszi fájukat. Termőtestei a xantin-oxidáz enzimet gátló squarrosidint és pinillidint tartalmaznak. Fontos táplálékot nyújtanak a mókusnak, a bomló termőtesteket pedig a Drosophila nemzetségbe tartozó muslicák hasznosítják."
+    },
+    "id": {
+      "description": "Jamur berbilah yang mencolok, tumbuh dalam rumpun rapat di pangkal pohon hidup dan mati; tudungnya yang kering berwarna kuning jerami dan tangkainya tertutup sisik kasar, mencuat, berwarna cokelat karat. Jamur ini adalah parasit lemah pada pohon yang melemah dan pengurai kayu mati yang menyebabkan busuk putih. Jamur ini umum di seluruh Eropa dan Amerika Utara.",
+      "cap": "Tudung berdiameter 3–12 cm, kadang-kadang hingga 15 cm. Mula-mula membulat hingga berbentuk lonceng, lalu cembung dan akhirnya hampir datar, kadang-kadang dengan tonjolan rendah; tepinya lama tetap tergulung ke dalam dan sering digantungi sisa selubung. Permukaannya kering, tidak pernah berlendir, kuning pucat hingga kuning jerami atau kuning oker, dan rapat tertutup sisik kasar, runcing, dan mencuat berwarna cokelat karat hingga cokelat kemerahan, yang lebih gelap ke arah tengah dan tersusun dalam lingkaran yang kurang lebih konsentris.",
+      "hymenium": "Bilah rapat, sempit, melekat hingga sedikit menurun dan kadang-kadang bertakik. Mula-mula kuning pucat hingga kuning keabu-abuan, sering dengan rona zaitun atau kehijauan, dan menjadi cokelat karat hingga warna kayu manis saat spora matang; bilahnya tidak pernah putih. Pada tubuh buah muda, bilah ditutupi selubung parsial seperti sarang laba-laba. Basidium berbentuk gada dan berspora empat, 16–25 × 5–7 µm, dan keilosistidia berbentuk gada hingga gelendong.",
+      "stipe": "Tangkai panjangnya 4–12 cm, kadang-kadang 15 cm atau lebih, dan tebalnya 0,5–1,5 cm, silindris dan sering meruncing ke arah pangkal, kokoh dan berserat. Di atas cincin, tangkai halus dan kekuningan pucat; cincinnya berserat, berbulu wol, dan robek, sering tinggal berupa zona cincin. Di bawahnya, tangkai rapat tertutup sisik cokelat karat yang melengkung ke belakang seperti pada tudung, dan pangkalnya menjadi cokelat karat hingga cokelat kemerahan seiring umur.",
+      "flesh": "Daging buahnya kuning pucat hingga kuning keputihan, kokoh, dan menjadi cokelat karat ke arah pangkal tangkai. Baunya khas tetapi digambarkan berbeda oleh berbagai penulis: seperti lobak, bawang putih atau campuran bawang putih dan lemon, atau seperti kayu busuk. Rasanya mirip lobak dan lembut hingga agak pahit.",
+      "sporePrint": "Cokelat karat hingga cokelat kayu manis. Spora berukuran 6–8 × 3,5–5 µm, elips, halus, dengan pori kecambah apikal yang kecil, dan tidak amiloid.",
+      "habitat": "Jamur ini tumbuh dalam rumpun rapat yang sering besar di pangkal batang, pada akar dan tunggul pohon berdaun lebar yang hidup maupun mati, terutama apel, beech, ash, maple, birch, linden, dedalu, dan rowan, dan lebih jarang pada pohon konifer seperti spruce dan fir; di Pegunungan Rocky jamur ini umum pada aspen dan spruce. Jamur ini merupakan parasit lemah pada pohon yang sudah melemah karena luka atau infeksi lain, dan juga hidup sebagai pengurai kayu mati yang menyebabkan busuk putih. Di Eropa Tengah jamur ini sangat umum dari dataran rendah hingga pegunungan dan khas pada pohon tepi jalan, taman, dan kebun buah; di Britania Raya dan Irlandia jamur ini umum secara lokal, terutama pada beech di padang rumput terbuka dan pagar tanaman di tanah basa. Tubuh buah muncul dari Agustus hingga November, terutama sejak September, dan dapat bertahan hingga Desember.",
+      "uses": "Tidak dianjurkan untuk dimakan. Jamur ini lama dianggap dapat dimakan, dan tudung muda dimakan sebagai acar dalam cuka atau dalam semur, tetapi telah menyebabkan keracunan dengan muntah dan diare sekitar sepuluh jam setelah makan, terutama bila dimakan bersama alkohol, dan pada orang yang peka dapat menyebabkan gangguan perut. Literatur saat ini mencantumkannya sebagai tidak dapat dimakan atau beracun.",
+      "confusion": "Armillaria mellea dan spesies Armillaria lainnya tumbuh dalam rumpun serupa pada musim yang sama, tetapi memiliki cetakan spora putih, bilah dan daging keputihan, sisik yang lebih halus, dan tidak ada sisik kasar yang mencuat pada tangkainya. Pholiota squarrosoides memiliki tudung lebih pucat yang lengket di antara sisiknya, daging putih, tanpa bau bawang putih atau lobak, dan spora lebih kecil. Pholiota aurivella memiliki tudung berminyak hingga berlendir dengan sisik yang menempel rata, dan Pholiota adiposa serta Pholiota cerifera juga memiliki sisik yang lebih menempel. Pholiota flammans berwarna kuning cerah hingga kuning jingga dan tumbuh pada kayu konifer yang tumbang. Hemipholiota populnea jauh lebih pucat, abu-abu krem, pahit, dan tumbuh pada pohon poplar.",
+      "notes": "Sebagai busuk putih yang lambat pada pohon hidup, jamur ini dapat merusak parah pohon buah dan pohon tepi jalan serta membuat kayunya rapuh. Tubuh buahnya mengandung senyawa squarrosidine dan pinillidine yang menghambat enzim xantin oksidase. Tubuh buah merupakan makanan penting bagi bajing merah, dan tubuh buah yang membusuk dimanfaatkan oleh lalat buah dari genus Drosophila."
+    },
+    "it": {
+      "description": "Un vistoso fungo a lamelle che cresce in cespi fitti alla base di alberi vivi e morti; il cappello e il gambo, asciutti e giallo paglierino, sono coperti di grosse squame rialzate color ruggine. È un parassita di debolezza degli alberi indeboliti e un decompositore del legno morto che provoca una carie bianca. È comune in Europa e in Nord America.",
+      "cap": "Il cappello misura 3–12 cm di diametro, talvolta fino a 15 cm. Dapprima arrotondato o campanulato, diventa convesso e infine quasi piano, a volte con un basso umbone; il margine resta a lungo involuto e spesso porta resti del velo. La superficie è asciutta, mai viscida, giallo pallido, giallo paglierino o giallo ocra, densamente coperta di grosse squame appuntite e rialzate, da bruno ruggine a bruno rossastro, più scure verso il centro e disposte in cerchi più o meno concentrici.",
+      "hymenium": "Le lamelle sono fitte, strette, adnate o leggermente decorrenti e talvolta smarginate. Dapprima sono giallo pallido o giallo grigiastro, spesso con una sfumatura olivastra o verdastra, e diventano bruno ruggine o cannella con la maturazione delle spore; non sono mai bianche. Negli esemplari giovani sono coperte da un velo parziale aracnoide. I basidi sono clavati e tetrasporici, 16–25 × 5–7 µm, e i cheilocistidi sono da clavati a fusiformi.",
+      "stipe": "Il gambo è lungo 4–12 cm, talvolta 15 cm o più, e spesso 0,5–1,5 cm; è cilindrico e spesso assottigliato verso la base, sodo e fibroso. Sopra l'anello è liscio e giallastro pallido; l'anello è fibroso, lanoso e lacerato, spesso ridotto a una zona anulare. Sotto, il gambo è fittamente coperto di squame ricurve color ruggine simili a quelle del cappello, e la base diventa bruno ruggine o bruno rossastra con l'età.",
+      "flesh": "La carne è giallo pallido o giallo biancastra, soda, e diventa bruno ruggine verso la base del gambo. L'odore è netto ma descritto in modo diverso dai vari autori: di ravanello, d'aglio o come un misto di aglio e limone, oppure di legno marcio. Il sapore ricorda il ravanello ed è da mite a leggermente amarognolo.",
+      "sporePrint": "Bruno ruggine o bruno cannella. Le spore misurano 6–8 × 3,5–5 µm, sono ellittiche, lisce, con un piccolo poro germinativo apicale e non amiloidi.",
+      "habitat": "Cresce in cespi fitti, spesso grandi, alla base dei tronchi, su radici e ceppaie di latifoglie vive e morte, soprattutto melo, faggio, frassino, acero, betulla, tiglio, salice e sorbo degli uccellatori, più raramente su conifere come abete rosso e abete bianco; nelle Montagne Rocciose è comune su pioppo tremulo americano e abete rosso. È un parassita di debolezza di alberi già indeboliti da ferite o altre infezioni e vive anche come decompositore del legno morto, provocando una carie bianca. Molto comune in Europa centrale dalla pianura alla montagna, è tipico degli alberi stradali, dei parchi e dei frutteti; in Gran Bretagna e Irlanda è localmente comune, soprattutto sul faggio in praterie aperte e siepi su suolo calcareo. I carpofori compaiono da agosto a novembre, soprattutto da settembre, e possono persistere fino a dicembre.",
+      "uses": "Il consumo è sconsigliato. A lungo è stato considerato commestibile e i cappelli giovani si mangiavano sott'aceto o in umido, ma ha causato intossicazioni con vomito e diarrea circa dieci ore dopo il pasto, soprattutto quando era consumato con alcol, e nelle persone sensibili può provocare disturbi gastrici. La letteratura attuale lo considera non commestibile o tossico.",
+      "confusion": "Il chiodino (Armillaria mellea) e le altre specie di Armillaria crescono in cespi simili nella stessa stagione, ma hanno sporata bianca, lamelle e carne biancastre, squame più fini e non hanno grosse squame rialzate sul gambo. Pholiota squarrosoides ha il cappello più pallido, viscido tra le squame, carne bianca, nessun odore d'aglio o di ravanello e spore più piccole. Pholiota aurivella ha il cappello untuoso o viscido con squame appressate, e anche Pholiota adiposa e Pholiota cerifera hanno squame piuttosto appressate. Pholiota flammans è giallo vivo o giallo arancio e cresce su legno di conifere caduto. Hemipholiota populnea è molto più pallida, grigio beige, amara e cresce sui pioppi.",
+      "notes": "Come carie bianca lenta degli alberi vivi, può danneggiare seriamente alberi da frutto e alberature stradali e rende fragile il loro legno. I carpofori contengono i composti squarrosidina e pinillidina, che inibiscono l'enzima xantina ossidasi. Sono un cibo importante per lo scoiattolo rosso, e i carpofori in decomposizione sono sfruttati dai moscerini della frutta del genere Drosophila."
+    },
+    "ja": {
+      "description": "生きた木や枯れた木の根元に密な株をつくって生える目立つハラタケ類で、乾いた麦わら黄色の傘と柄は、粗く反り返った錆褐色の鱗片に覆われます。弱った木に付く弱い寄生菌であり、白色腐朽を起こす枯れ木の分解者でもあります。ヨーロッパと北アメリカに広く普通に見られます。",
+      "cap": "傘は径3–12 cm、ときに15 cmに達します。初めは丸みを帯びるか鐘形で、のちに饅頭形からほぼ平らに開き、ときに低い突起があります。縁は長く内側に巻き、しばしば被膜の名残が垂れ下がります。表面は乾いていて決して粘性がなく、淡黄色から麦わら黄色または黄土黄色で、錆褐色から赤褐色の粗く尖って反り返った鱗片に密に覆われます。鱗片は中央ほど濃色で、ほぼ同心円状に並びます。",
+      "hymenium": "ひだは密で幅が狭く、直生からやや垂生し、ときに湾生します。初めは淡黄色から灰黄色で、しばしばオリーブ色や緑色を帯び、胞子が熟すと錆褐色から肉桂色になります。白色になることはありません。若い子実体ではクモの巣状の内被膜に覆われます。担子器はこん棒形で4胞子性、16–25 × 5–7 µm、縁シスチジアはこん棒形から紡錘形です。",
+      "stipe": "柄は長さ4–12 cm、ときに15 cm以上、太さ0.5–1.5 cmで、円柱形でしばしば基部に向かって細まり、硬く繊維質です。つばより上は平滑で淡黄色を帯び、つばは繊維状で綿毛状に裂け、しばしばつば跡の帯だけになります。つばより下は傘と同様の反り返った錆褐色の鱗片に密に覆われ、基部は古くなると錆褐色から赤褐色になります。",
+      "flesh": "肉は淡黄色から白っぽい黄色で硬く、柄の基部に向かって錆褐色になります。においは特徴的ですが、著者によって表現が異なり、ダイコン、ニンニク、ニンニクとレモンを合わせたようなにおい、あるいは腐った木のにおいとされます。味はダイコンに似て、温和からわずかに苦みがあります。",
+      "sporePrint": "錆褐色から肉桂褐色。胞子は6–8 × 3.5–5 µm、楕円形で平滑、頂端に小さな発芽孔があり、非アミロイドです。",
+      "habitat": "生きた広葉樹や枯れた広葉樹の幹の根元、根、切り株に、密でしばしば大きな株をつくって生えます。とくにリンゴ、ブナ、トネリコ、カエデ、カバノキ、シナノキ、ヤナギ、ナナカマドに多く、トウヒやモミなどの針葉樹にはまれです。ロッキー山脈ではアスペンやトウヒによく見られます。傷やほかの感染ですでに弱った木に付く弱い寄生菌であり、枯れ木の分解者としても生活して白色腐朽を起こします。中央ヨーロッパでは低地から山地まで非常に普通で、街路樹、公園の木、果樹園の木に典型的に見られます。イギリスとアイルランドでは地域的に普通で、とくにアルカリ性の土壌の開けた草地や生け垣のブナに見られます。子実体は8月から11月、主に9月以降に現れ、12月まで残ることがあります。",
+      "uses": "食用には勧められません。長く食用とされ、若い傘は酢漬けや煮込みにして食べられてきましたが、食後約10時間で嘔吐や下痢を起こす中毒例があり、とくに酒と一緒に食べた場合に多く、敏感な人では胃腸の不調を起こすことがあります。現在の文献では食用不適または有毒とされています。",
+      "confusion": "ナラタケ（Armillaria mellea）やほかのArmillaria属の種は同じ季節に似た株をつくりますが、胞子紋は白色で、ひだと肉は白っぽく、鱗片はより細かく、柄に粗く反り返った鱗片はありません。Pholiota squarrosoidesは傘がより淡色で鱗片の間が粘り、肉は白く、ニンニクやダイコンのにおいはなく、胞子が小さいです。Pholiota aurivellaは傘が脂っぽいか粘性があって鱗片が圧着し、Pholiota adiposaとPholiota ceriferaも鱗片がより圧着しています。Pholiota flammansは鮮黄色から橙黄色で、倒れた針葉樹材に生えます。Hemipholiota populneaはずっと淡色でベージュがかった灰色、苦みがあり、ポプラに生えます。",
+      "notes": "生きた木にゆっくり進む白色腐朽を起こすため、果樹や街路樹に深刻な被害を与え、材をもろくします。子実体にはキサンチンオキシダーゼという酵素を阻害する化合物スクアロシジンとピニリジンが含まれます。キタリスの重要な食物であり、腐りかけた子実体はショウジョウバエ属（Drosophila）のハエに利用されます。"
+    },
+    "ko": {
+      "description": "살아 있는 나무와 죽은 나무의 밑동에 빽빽한 다발로 자라는 눈에 띄는 주름버섯으로, 마른 볏짚 노란색 갓과 대가 거칠게 뒤로 젖혀진 녹슨 갈색 비늘로 덮여 있습니다. 약해진 나무에 붙는 약한 기생균이자 백색부후를 일으키는 죽은 나무의 분해자입니다. 유럽과 북아메리카 전역에서 흔합니다.",
+      "cap": "갓은 지름 3–12 cm이며 때로 15 cm까지 자랍니다. 처음에는 둥글거나 종 모양이고 점차 볼록해졌다가 마지막에는 거의 평평해지며, 때로 낮은 볼록한 돌기가 있습니다. 가장자리는 오랫동안 안쪽으로 말려 있고 흔히 막 조각이 매달려 있습니다. 표면은 마르고 결코 점성이 없으며, 연한 노란색에서 볏짚 노란색 또는 황토 노란색이고, 녹슨 갈색에서 적갈색의 거칠고 뾰족하며 뒤로 젖혀진 비늘로 빽빽하게 덮여 있습니다. 비늘은 가운데로 갈수록 짙고 대체로 동심원 모양으로 배열됩니다.",
+      "hymenium": "주름살은 빽빽하고 좁으며 바른주름살에서 약간 내린주름살이고 때로 홈파진주름살입니다. 처음에는 연한 노란색에서 회황색이며 흔히 올리브색이나 녹색을 띠고, 포자가 익으면 녹슨 갈색에서 계피색이 됩니다. 흰색이 되는 일은 없습니다. 어린 자실체에서는 거미줄 같은 내피막에 덮여 있습니다. 담자기는 곤봉 모양이고 4포자성이며 16–25 × 5–7 µm이고, 연낭상체는 곤봉 모양에서 방추형입니다.",
+      "stipe": "대는 길이 4–12 cm, 때로 15 cm 이상, 굵기 0.5–1.5 cm이며 원통형이고 흔히 밑동 쪽으로 가늘어지며 단단하고 섬유질입니다. 턱받이 위쪽은 매끄럽고 연한 노란빛이며, 턱받이는 섬유질이고 솜털 모양으로 찢어져 흔히 턱받이 띠만 남습니다. 그 아래는 갓과 같은 뒤로 젖혀진 녹슨 갈색 비늘로 빽빽하게 덮여 있고, 밑동은 오래되면 녹슨 갈색에서 적갈색이 됩니다.",
+      "flesh": "살은 연한 노란색에서 흰빛이 도는 노란색이며 단단하고, 대의 밑동 쪽으로 녹슨 갈색이 됩니다. 냄새는 특징적이지만 저자마다 다르게 묘사하여 무, 마늘, 마늘과 레몬을 섞은 냄새 또는 썩은 나무 냄새라고 합니다. 맛은 무와 비슷하며 순하거나 약간 씁니다.",
+      "sporePrint": "녹슨 갈색에서 계피 갈색. 포자는 6–8 × 3.5–5 µm이고 타원형이며 매끄럽고 정단에 작은 발아공이 있으며 비아밀로이드입니다.",
+      "habitat": "살아 있거나 죽은 활엽수의 줄기 밑동, 뿌리, 그루터기에 빽빽하고 흔히 큰 다발로 자라며, 특히 사과나무, 너도밤나무, 물푸레나무, 단풍나무, 자작나무, 피나무, 버드나무, 마가목에 많고 가문비나무나 전나무 같은 침엽수에는 드뭅니다. 로키산맥에서는 사시나무와 가문비나무에 흔합니다. 상처나 다른 감염으로 이미 약해진 나무에 붙는 약한 기생균이며 죽은 나무의 분해자로도 살아가며 백색부후를 일으킵니다. 중부 유럽에서는 저지대에서 산지까지 매우 흔하며 가로수, 공원수, 과수원 나무에 전형적으로 나타납니다. 영국과 아일랜드에서는 지역적으로 흔하며, 특히 알칼리성 토양의 탁 트인 초지와 산울타리의 너도밤나무에서 볼 수 있습니다. 자실체는 8월부터 11월까지, 주로 9월부터 나타나며 12월까지 남아 있을 수 있습니다.",
+      "uses": "식용으로 권장되지 않습니다. 오랫동안 식용으로 여겨져 어린 갓을 식초에 절이거나 스튜에 넣어 먹었지만, 식후 약 10시간 뒤 구토와 설사를 일으킨 중독 사례가 있으며 특히 술과 함께 먹었을 때 그러했고, 민감한 사람에게는 배탈을 일으킬 수 있습니다. 현재 문헌에서는 식용 부적합 또는 독버섯으로 분류합니다.",
+      "confusion": "뽕나무버섯(Armillaria mellea)과 다른 Armillaria 종은 같은 계절에 비슷한 다발로 자라지만 포자문이 흰색이고 주름살과 살이 흰빛을 띠며 비늘이 더 가늘고 대에 거칠게 젖혀진 비늘이 없습니다. Pholiota squarrosoides는 갓이 더 연한 색이고 비늘 사이가 끈적이며 살이 희고 마늘이나 무 냄새가 없으며 포자가 더 작습니다. Pholiota aurivella는 갓이 기름지거나 점성이 있고 비늘이 납작하게 붙어 있으며, Pholiota adiposa와 Pholiota cerifera도 비늘이 더 납작하게 붙어 있습니다. Pholiota flammans는 선명한 노란색에서 주황빛 노란색이며 쓰러진 침엽수 목재에 자랍니다. Hemipholiota populnea는 훨씬 연한 베이지빛 회색이고 쓴맛이 나며 포플러에 자랍니다.",
+      "notes": "살아 있는 나무에 천천히 진행되는 백색부후를 일으켜 과수와 가로수에 심각한 피해를 주고 목재를 부서지기 쉽게 만듭니다. 자실체에는 크산틴 산화효소를 억제하는 화합물 스쿠아로시딘과 피닐리딘이 들어 있습니다. 붉은다람쥐의 중요한 먹이이며, 썩어 가는 자실체는 초파리속(Drosophila) 파리가 이용합니다."
+    },
+    "lt": {
+      "description": "Krintantis į akis lakštabudis grybas, augantis tankiais kuokštais prie gyvų ir žuvusių medžių pamatų; sausa šiaudų geltonumo kepurėlė ir kotas padengti šiurkščiais, atsikišusiais, rūdžių rudumo žvynais. Tai silpnas nusilpusių medžių parazitas ir negyvos medienos skaidytojas, sukeliantis baltąjį puvinį. Paplitęs visoje Europoje ir Šiaurės Amerikoje.",
+      "cap": "Kepurėlė 3–12 cm skersmens, kartais iki 15 cm. Iš pradžių apvali iki varpelio formos, vėliau išgaubta ir galiausiai beveik plokščia, kartais su žemu gumbu; kraštas ilgai lieka įlinkęs ir dažnai apkabinėtas šydo likučiais. Paviršius sausas, niekada ne gleivėtas, blyškiai geltonas iki šiaudų geltonumo ar gelsvai ochrinis, tankiai padengtas šiurkščiais, smailiais, atsikišusiais rūdžių rudais iki rausvai rudų žvynų, kurie link centro tamsesni ir išsidėstę daugmaž koncentriniais ratais.",
+      "hymenium": "Lakšteliai tankūs, siauri, prirėtę iki šiek tiek nubėgančių ir kartais įlenkti. Iš pradžių blyškiai geltoni iki pilkšvai geltonų, dažnai su alyvuogių ar žalsvu atspalviu, o bręstant sporoms tampa rūdžių rudi iki cinamoninių; niekada nebūna balti. Jaunus vaisiakūnius dengia voratinklinis dalinis šydas. Bazidės buožiškos, ketursporės, 16–25 × 5–7 µm, o cheilocistidės buožiškos iki verpstiškų.",
+      "stipe": "Kotas 4–12 cm ilgio, kartais 15 cm ir ilgesnis, 0,5–1,5 cm storio, cilindriškas ir link pagrindo dažnai siaurėjantis, tvirtas ir pluoštiškas. Virš žiedo jis lygus ir blyškiai gelsvas; žiedas pluoštiškas, vilnotas ir suplyšęs, dažnai likęs tik žiedo zona. Žemiau koto paviršius tankiai padengtas atgal atsilenkusiais rūdžių rudais žvynais, panašiais į kepurėlės, o pagrindas su amžiumi tampa rūdžių rudas iki rausvai rudo.",
+      "flesh": "Trama blyškiai geltona iki balsvai geltonos, tvirta, link koto pagrindo paruduoja iki rūdžių rudumo. Kvapas savitas, tačiau įvairūs autoriai jį apibūdina skirtingai: kaip ridikų, česnakų ar česnakų ir citrinų mišinio, arba pūvančios medienos. Skonis primena ridikus, švelnus iki šiek tiek kartaus.",
+      "sporePrint": "Rūdžių rudas iki cinamono rudumo. Sporos 6–8 × 3,5–5 µm, elipsiškos, lygios, su maža viršūnine dygimo pora, neamiloidinės.",
+      "habitat": "Auga tankiais, dažnai dideliais kuokštais prie kamienų pamatų, ant šaknų ir kelmų gyvų bei žuvusių lapuočių, ypač obelų, bukų, uosių, klevų, beržų, liepų, gluosnių ir šermukšnių, rečiau ant spygliuočių, pavyzdžiui, eglių ir kėnių; Uolinių kalnuose dažnas ant drebulių ir eglių. Tai silpnas medžių, jau nusilpusių dėl sužalojimų ar kitų infekcijų, parazitas, taip pat gyvena kaip negyvos medienos skaidytojas ir sukelia baltąjį puvinį. Vidurio Europoje labai dažnas nuo lygumų iki kalnų, būdingas pakelių, parkų ir sodų medžiams; Didžiojoje Britanijoje ir Airijoje vietomis dažnas, ypač ant bukų atvirose pievose ir gyvatvorėse šarminiame dirvožemyje. Vaisiakūniai pasirodo nuo rugpjūčio iki lapkričio, daugiausia nuo rugsėjo, ir gali išsilaikyti iki gruodžio.",
+      "uses": "Valgyti nerekomenduojama. Ilgai laikytas valgomu, jaunos kepurėlės buvo valgomos marinuotos acte ar troškiniuose, tačiau jis sukėlė apsinuodijimų su vėmimu ir viduriavimu maždaug po dešimties valandų po valgio, ypač kai buvo valgomas su alkoholiu, o jautriems žmonėms gali sutrikdyti skrandį. Dabartinė literatūra jį nurodo kaip nevalgomą arba nuodingą.",
+      "confusion": "Paprastasis kelmutis (Armillaria mellea) ir kitos Armillaria rūšys auga panašiais kuokštais tuo pačiu metų laiku, tačiau jų sporų atspaudas baltas, lakšteliai ir trama balsvi, žvynai smulkesni, o ant koto nėra šiurkščių atsikišusių žvynų. Pholiota squarrosoides kepurėlė blyškesnė, tarp žvynų lipni, trama balta, neturi česnakų ar ridikų kvapo, o sporos smulkesnės. Pholiota aurivella kepurėlė riebaluota iki gleivėtos su prigludusiais žvynais, o Pholiota adiposa ir Pholiota cerifera taip pat turi labiau prigludusius žvynus. Pholiota flammans ryškiai geltona iki oranžiškai geltonos ir auga ant nuvirtusios spygliuočių medienos. Hemipholiota populnea daug blyškesnė, smėlio pilkumo, karti ir auga ant tuopų.",
+      "notes": "Kaip lėtas gyvų medžių baltasis puvinys jis gali smarkiai pažeisti vaismedžius ir gatvių medžius bei padaryti jų medieną trapią. Vaisiakūniuose yra junginių skvarozidino ir pinilidino, kurie slopina fermentą ksantino oksidazę. Jie yra svarbus paprastųjų voverių maistas, o yrančius vaisiakūnius naudoja Drosophila genties vaisinės muselės."
+    },
+    "lv": {
+      "description": "Uzkrītoša lapiņu sēne, kas aug blīvos ceros pie dzīvu un nokaltušu koku pamatnes; sausā salmu dzeltenā cepurīte un kātiņš klāti ar rupjām, atstāvošām, rūsganbrūnām zvīņām. Tā ir vājš novājinātu koku parazīts un atmirušas koksnes noārdītājs, kas izraisa balto trupi. Izplatīta visā Eiropā un Ziemeļamerikā.",
+      "cap": "Cepurīte 3–12 cm plata, dažreiz līdz 15 cm. Sākumā tā ir noapaļota līdz zvanveida, vēlāk izliekta un beidzot gandrīz plakana, dažreiz ar zemu pauguriņu; mala ilgi paliek ieliekta un bieži ar nokarenām plīvura atliekām. Virsma ir sausa, nekad gļotaina, gaiši dzeltena līdz salmu dzeltena vai dzelteni okerkrāsas, blīvi klāta ar rupjām, smailām, atstāvošām zvīņām, kas ir rūsganbrūnas līdz sarkanbrūnas, centra virzienā tumšākas un izkārtotas vairāk vai mazāk koncentriskos lokos.",
+      "hymenium": "Lapiņas ir ciešas, šauras, pieaugušas līdz nedaudz nolaidenas un dažreiz ar robu. Sākumā tās ir gaiši dzeltenas līdz pelēcīgi dzeltenas, bieži ar olīvu vai zaļganu nokrāsu, un, sporām nobriestot, kļūst rūsganbrūnas līdz kanēļbrūnas; tās nekad nav baltas. Jauniem augļķermeņiem tās sedz zirnekļtīklam līdzīgs daļējais plīvurs. Bazīdijas ir vālesveida un četrsporu, 16–25 × 5–7 µm, bet heilocistīdas vālesveida līdz vārpstveida.",
+      "stipe": "Kātiņš ir 4–12 cm garš, dažreiz 15 cm un garāks, un 0,5–1,5 cm resns, cilindrisks un pamatnes virzienā bieži sašaurināts, stingrs un šķiedrains. Virs gredzena tas ir gluds un gaiši dzeltenīgs; gredzens ir šķiedrains, pūkains un saplēsts, bieži reducēts līdz gredzena zonai. Zem tā kātiņš blīvi klāts ar atliektām rūsganbrūnām zvīņām, līdzīgām cepurītes zvīņām, un pamatne ar vecumu kļūst rūsganbrūna līdz sarkanbrūna.",
+      "flesh": "Mīkstums ir gaiši dzeltens līdz bālgani dzeltens, stingrs, kātiņa pamatnes virzienā kļūst rūsganbrūns. Smarža ir izteikta, taču dažādi autori to apraksta atšķirīgi: kā redīsu, ķiploku vai ķiploku un citrona sajaukumu, vai pūstošas koksnes. Garša atgādina redīsus un ir maiga līdz nedaudz rūgtena.",
+      "sporePrint": "Rūsganbrūns līdz kanēļbrūns. Sporas ir 6–8 × 3,5–5 µm, eliptiskas, gludas, ar nelielu galotnes dīgšanas poru, neamiloīdas.",
+      "habitat": "Aug blīvos, bieži lielos ceros pie stumbru pamatnes, uz saknēm un celmiem dzīviem un nokaltušiem lapu kokiem, īpaši ābelēm, dižskābaržiem, ošiem, kļavām, bērziem, liepām, vītoliem un pīlādžiem, retāk uz skujkokiem, piemēram, eglēm un baltegļēm; Klinšu kalnos tā ir bieža uz apsēm un eglēm. Tā ir vājš parazīts kokiem, kurus jau novājinājuši ievainojumi vai citas infekcijas, un dzīvo arī kā atmirušas koksnes noārdītāja, izraisot balto trupi. Centrāleiropā tā ir ļoti bieža no zemienēm līdz kalniem un raksturīga ceļmalu, parku un augļu dārzu kokiem; Lielbritānijā un Īrijā vietām bieža, īpaši uz dižskābaržiem atklātos zālājos un dzīvžogos uz kaļķainas augsnes. Augļķermeņi parādās no augusta līdz novembrim, galvenokārt no septembra, un var saglabāties līdz decembrim.",
+      "uses": "Ēšanai nav ieteicama. Ilgi tā tika uzskatīta par ēdamu, un jaunās cepurītes ēda marinētas etiķī vai sautējumos, taču tā ir izraisījusi saindēšanos ar vemšanu un caureju apmēram desmit stundas pēc maltītes, īpaši, ja tā ēsta kopā ar alkoholu, un jutīgiem cilvēkiem var izraisīt kuņģa darbības traucējumus. Mūsdienu literatūrā tā norādīta kā neēdama vai indīga.",
+      "confusion": "Parastā celmene (Armillaria mellea) un citas Armillaria sugas aug līdzīgos ceros tajā pašā gadalaikā, taču tām ir balts sporu nospiedums, bālganas lapiņas un mīkstums, smalkākas zvīņas un uz kātiņa nav rupju atstāvošu zvīņu. Pholiota squarrosoides cepurīte ir bālāka, kas starp zvīņām ir lipīga, mīkstums balts, tai nav ķiploku vai redīsu smaržas, un sporas ir mazākas. Pholiota aurivella ir taukaina līdz gļotaina cepurīte ar piegulošām zvīņām, un arī Pholiota adiposa un Pholiota cerifera ir vairāk piegulošas zvīņas. Pholiota flammans ir spilgti dzeltena līdz oranždzeltena un aug uz kritušas skujkoku koksnes. Hemipholiota populnea ir daudz bālāka, bēšpelēka, rūgta un aug uz papelēm.",
+      "notes": "Kā lēna dzīvu koku baltā trupe tā var nopietni bojāt augļu kokus un ielu kokus un padara to koksni trauslu. Augļķermeņi satur savienojumus skvarozidīnu un pinilidīnu, kas kavē enzīmu ksantīnoksidāzi. Tie ir nozīmīga barība vāverēm, un sadalīšanās stadijā esošos augļķermeņus izmanto Drosophila ģints augļu mušiņas."
+    },
+    "nl": {
+      "description": "Een opvallende plaatjeszwam die in dichte bundels aan de voet van levende en dode bomen groeit; hoed en steel zijn droog, strogeel en bedekt met grove, afstaande, roestbruine schubben. Het is een zwakteparasiet van verzwakte bomen en een afbreker van dood hout die witrot veroorzaakt. De soort is algemeen in Europa en Noord-Amerika.",
+      "cap": "De hoed is 3–12 cm breed, soms tot 15 cm. Hij is eerst rond tot klokvormig, wordt later bol en ten slotte bijna vlak, soms met een lage bult; de rand blijft lang ingerold en is vaak behangen met velumresten. Het oppervlak is droog, nooit slijmerig, lichtgeel tot strogeel of geeloker en dicht bezet met grove, puntige, afstaande schubben die roestbruin tot roodbruin zijn, naar het midden toe donkerder en min of meer in concentrische ringen geordend.",
+      "hymenium": "De lamellen staan dicht opeen, zijn smal, aangehecht tot iets aflopend en soms uitgebocht. Ze zijn eerst bleekgeel tot grijsgeel, vaak met een olijfkleurige of groenige zweem, en worden roestbruin tot kaneelbruin naarmate de sporen rijpen; wit zijn ze nooit. Bij jonge vruchtlichamen zijn ze bedekt door een spinnenwebachtig gedeeltelijk velum. De basidiën zijn knotsvormig en viersporig, 16–25 × 5–7 µm, en de cheilocystiden zijn knots- tot spoelvormig.",
+      "stipe": "De steel is 4–12 cm lang, soms 15 cm of meer, en 0,5–1,5 cm dik, cilindrisch en naar de voet vaak versmald, stevig en vezelig. Boven de ring is hij glad en bleekgelig; de ring is vezelig, wollig en gescheurd, vaak gereduceerd tot een ringzone. Daaronder is de steel dicht bezet met teruggebogen roestbruine schubben zoals op de hoed, en de voet wordt met de leeftijd roest- tot roodbruin.",
+      "flesh": "Het vlees is bleekgeel tot witachtig geel, stevig en wordt naar de steelvoet toe roestbruin. De geur is duidelijk, maar wordt door verschillende auteurs verschillend beschreven: naar radijs, knoflook of een mengeling van knoflook en citroen, of naar rottend hout. De smaak is radijsachtig en mild tot licht bitter.",
+      "sporePrint": "Roestbruin tot kaneelbruin. De sporen meten 6–8 × 3,5–5 µm, zijn elliptisch, glad, met een kleine apicale kiempore en niet amyloïde.",
+      "habitat": "De soort groeit in dichte, vaak grote bundels aan de stamvoet, op wortels en stronken van levende en dode loofbomen, vooral appel, beuk, es, esdoorn, berk, linde, wilg en lijsterbes, minder vaak op naaldbomen zoals spar en zilverspar; in de Rocky Mountains is ze algemeen op ratelpopulier en spar. Ze is een zwakteparasiet van bomen die al verzwakt zijn door verwondingen of andere infecties en leeft ook als afbreker van dood hout, waarbij ze witrot veroorzaakt. In Midden-Europa is ze van het laagland tot in de bergen zeer algemeen en typisch voor laan-, park- en fruitbomen; in Groot-Brittannië en Ierland is ze plaatselijk algemeen, vooral op beuk in open grasland en heggen op kalkrijke bodem. De vruchtlichamen verschijnen van augustus tot november, vooral vanaf september, en kunnen tot in december blijven staan.",
+      "uses": "Eten wordt afgeraden. De soort gold lang als eetbaar, en jonge hoeden werden ingemaakt in azijn of in stoofschotels gegeten, maar ze heeft vergiftigingen veroorzaakt met braken en diarree ongeveer tien uur na de maaltijd, vooral wanneer ze samen met alcohol werd gegeten, en bij gevoelige mensen kan ze maagklachten veroorzaken. De huidige literatuur noemt haar oneetbaar of giftig.",
+      "confusion": "Echte honingzwam (Armillaria mellea) en andere honingzwammen (Armillaria) groeien in hetzelfde seizoen in vergelijkbare bundels, maar hebben een witte sporenprint, witachtige lamellen en wit vlees, fijnere schubben en geen grove afstaande schubben op de steel. Pholiota squarrosoides heeft een bleker hoed die tussen de schubben kleverig is, wit vlees, geen knoflook- of radijsgeur en kleinere sporen. Pholiota aurivella heeft een vettige tot slijmerige hoed met aangedrukte schubben, en ook Pholiota adiposa en Pholiota cerifera hebben eerder aangedrukte schubben. Pholiota flammans is helgeel tot oranjegeel en groeit op liggend naaldhout. Hemipholiota populnea is veel bleker, beigegrijs, bitter en groeit op populier.",
+      "notes": "Als langzame witrot van levende bomen kan de soort fruit- en laanbomen ernstig beschadigen en maakt ze hun hout bros. De vruchtlichamen bevatten de verbindingen squarrosidine en pinillidine, die het enzym xanthineoxidase remmen. Ze zijn een belangrijk voedsel voor eekhoorns, en rottende vruchtlichamen worden gebruikt door fruitvliegjes van het geslacht Drosophila. In Nederland is ze een van de vele paddenstoelen die regelmatig op oude houten kades te vinden zijn."
+    },
+    "no": {
+      "description": "En iøynefallende skivesopp som vokser i tette knipper ved foten av levende og døde trær; den tørre strågule hatten og stilken er dekket av grove, oppstående, rustbrune skjell. Den er en svak parasitt på svekkede trær og en nedbryter av død ved som gir hvitråte. Den er vanlig i hele Europa og Nord-Amerika.",
+      "cap": "Hatten er 3–12 cm bred, av og til opptil 15 cm. Den er først avrundet til klokkeformet, deretter hvelvet og til slutt nesten flat, av og til med en lav pukkel; kanten forblir lenge innrullet og har ofte hengende sløryrester. Overflaten er tørr, aldri slimete, blekgul til strågul eller gulokker og tett dekket av grove, spisse, oppstående skjell som er rustbrune til rødbrune, mørkere mot midten og ordnet i mer eller mindre konsentriske ringer.",
+      "hymenium": "Skivene er tette, smale, tilvokste til litt nedløpende og av og til utrandede. De er først blekgule til gråaktig gule, ofte med et oliven eller grønnlig skjær, og blir rustbrune til kanelbrune når sporene modnes; de er aldri hvite. Hos unge fruktlegemer er de dekket av et spindelvevaktig delvis slør. Basidiene er køllformede og firesporede, 16–25 × 5–7 µm, og cheilocystidene er køllformede til spoleformede.",
+      "stipe": "Stilken er 4–12 cm lang, av og til 15 cm eller mer, og 0,5–1,5 cm tykk, sylindrisk og ofte avsmalnende mot basis, fast og trevlet. Over ringen er den glatt og blekt gulaktig; ringen er trevlet, ullen og oppreven, ofte redusert til en ringsone. Under den er stilken tett dekket av tilbakebøyde rustbrune skjell som de på hatten, og basis blir rustbrun til rødbrun med alderen.",
+      "flesh": "Kjøttet er blekgult til hvitgult, fast og blir rustbrunt mot stilkbasis. Lukten er karakteristisk, men beskrives ulikt av ulike forfattere: som reddik, hvitløk eller en blanding av hvitløk og sitron, eller som råtnende ved. Smaken minner om reddik og er mild til svakt bitter.",
+      "sporePrint": "Rustbrunt til kanelbrunt. Sporene er 6–8 × 3,5–5 µm, elliptiske, glatte, med en liten apikal spirepore, og er ikke amyloide.",
+      "habitat": "Den vokser i tette, ofte store knipper ved stammefoten, på røtter og stubber av levende og døde løvtrær, særlig eple, bøk, ask, lønn, bjørk, lind, vier og rogn, og sjeldnere på bartrær som gran og edelgran; i Klippefjellene er den vanlig på osp og gran. Den er en svak parasitt på trær som allerede er svekket av skader eller andre infeksjoner, og lever også som nedbryter av død ved og gir hvitråte. I Sentral-Europa er den svært vanlig fra lavlandet til fjellene og typisk for veitrær, parktrær og frukttrær; i Storbritannia og Irland er den lokalt vanlig, særlig på bøk i åpne gressområder og hekker på kalkrik jord. Fruktlegemene kommer fra august til november, hovedsakelig fra september, og kan holde seg inn i desember.",
+      "uses": "Den anbefales ikke som matsopp. Den ble lenge regnet som spiselig, og unge hatter ble spist syltet i eddik eller i gryteretter, men den har forårsaket forgiftninger med oppkast og diaré omtrent ti timer etter måltidet, særlig når den ble spist sammen med alkohol, og hos følsomme personer kan den gi mageplager. Nyere litteratur oppgir den som uspiselig eller giftig.",
+      "confusion": "Ekte honningsopp (Armillaria mellea) og andre Armillaria-arter vokser i lignende knipper i samme sesong, men de har hvitt sporepulver, hvitaktige skiver og kjøtt, finere skjell og ingen grove oppstående skjell på stilken. Pholiota squarrosoides har en blekere hatt som er klebrig mellom skjellene, hvitt kjøtt, ingen lukt av hvitløk eller reddik og mindre sporer. Pholiota aurivella har en fettete til slimete hatt med tiltrykte skjell, og også Pholiota adiposa og Pholiota cerifera har mer tiltrykte skjell. Pholiota flammans er klart gul til oransjegul og vokser på nedfalt barved. Hemipholiota populnea er mye blekere, beigegrå, bitter og vokser på poppel.",
+      "notes": "Som en langsom hvitråte i levende trær kan den skade frukttrær og gatetrær alvorlig og gjør veden deres sprø. Fruktlegemene inneholder forbindelsene squarrosidin og pinillidin, som hemmer enzymet xantinoksidase. De er viktig føde for ekorn, og råtnende fruktlegemer utnyttes av bananfluer i slekten Drosophila."
+    },
+    "pl": {
+      "description": "Okazały grzyb blaszkowy, który rośnie w gęstych kępach u podstawy żywych i martwych drzew; suchy, słomkowożółty kapelusz i trzon pokryte są grubymi, odstającymi, rdzawobrązowymi łuskami. Jest słabym pasożytem osłabionych drzew i rozkładającym martwe drewno saprotrofem, który wywołuje białą zgniliznę. Jest pospolity w Europie i Ameryce Północnej.",
+      "cap": "Kapelusz ma 3–12 cm średnicy, czasem do 15 cm. Początkowo jest zaokrąglony do dzwonkowatego, potem wypukły, a w końcu prawie płaski, niekiedy z niskim garbkiem; brzeg długo pozostaje podwinięty i często zwisają z niego resztki osłony. Powierzchnia jest sucha, nigdy śluzowata, bladożółta do słomkowożółtej lub żółtoochrowej, gęsto pokryta grubymi, spiczastymi, odstającymi łuskami, które są rdzawobrązowe do czerwonobrązowych, ku środkowi ciemniejsze i ułożone w mniej więcej koncentryczne kręgi.",
+      "hymenium": "Blaszki są gęste, wąskie, przyrośnięte do lekko zbiegających i niekiedy wycięte. Początkowo są bladożółte do szarożółtych, często z oliwkowym lub zielonkawym odcieniem, a w miarę dojrzewania zarodników stają się rdzawobrązowe do cynamonowych; nigdy nie są białe. U młodych owocników zakrywa je pajęczynowata osłona częściowa. Podstawki są maczugowate i czterozarodnikowe, 16–25 × 5–7 µm, a cheilocystydy maczugowate do wrzecionowatych.",
+      "stipe": "Trzon ma 4–12 cm długości, czasem 15 cm lub więcej, i 0,5–1,5 cm grubości; jest walcowaty, ku podstawie często zwężony, twardy i włóknisty. Nad pierścieniem jest gładki i bladożółtawy; pierścień jest włóknisty, wełnisty i postrzępiony, często zredukowany do strefy pierścieniowej. Poniżej trzon jest gęsto pokryty odgiętymi rdzawobrązowymi łuskami podobnymi do łusek na kapeluszu, a podstawa z wiekiem staje się rdzawo- do czerwonobrązowej.",
+      "flesh": "Miąższ jest bladożółty do białawożółtego, jędrny, a ku podstawie trzonu rdzawobrązowieje. Zapach jest wyraźny, ale różni autorzy opisują go odmiennie: jako rzodkiewkowy, czosnkowy lub jak połączenie czosnku i cytryny, albo jako zapach butwiejącego drewna. Smak jest rzodkiewkowy, łagodny do lekko gorzkawego.",
+      "sporePrint": "Rdzawobrązowy do cynamonowobrązowego. Zarodniki mają 6–8 × 3,5–5 µm, są elipsoidalne, gładkie, z małą wierzchołkową porą rostkową i nieamyloidalne.",
+      "habitat": "Rośnie w gęstych, często dużych kępach u podstawy pni, na korzeniach i pniakach żywych i martwych drzew liściastych, zwłaszcza jabłoni, buka, jesionu, klonu, brzozy, lipy, wierzby i jarzębiny, rzadziej na drzewach iglastych, takich jak świerk i jodła; w Górach Skalistych jest pospolity na osice amerykańskiej i świerkach. Jest słabym pasożytem drzew osłabionych zranieniami lub innymi infekcjami, a także żyje jako saprotrof na martwym drewnie, wywołując białą zgniliznę. W Europie Środkowej jest bardzo pospolity od nizin po góry i typowy dla drzew przydrożnych, parkowych i sadowniczych; w Wielkiej Brytanii i Irlandii jest miejscami pospolity, zwłaszcza na bukach na otwartych terenach trawiastych i w żywopłotach na glebie zasadowej. Owocniki pojawiają się od sierpnia do listopada, głównie od września, i mogą przetrwać do grudnia.",
+      "uses": "Nie jest zalecany do jedzenia. Długo uważano go za jadalny, a młode kapelusze jedzono marynowane w occie lub w gulaszu, jednak powodował zatrucia z wymiotami i biegunką około dziesięciu godzin po posiłku, zwłaszcza gdy był spożywany z alkoholem, a u osób wrażliwych może wywoływać dolegliwości żołądkowe. Współczesna literatura uznaje go za niejadalny lub trujący.",
+      "confusion": "Opieńka miodowa (Armillaria mellea) i inne opieńki (Armillaria) rosną w podobnych kępach w tym samym okresie, ale mają biały wysyp zarodników, białawe blaszki i miąższ, drobniejsze łuski i nie mają grubych odstających łusek na trzonie. Pholiota squarrosoides ma bledszy kapelusz, lepki między łuskami, biały miąższ, nie pachnie czosnkiem ani rzodkiewką i ma mniejsze zarodniki. Pholiota aurivella ma tłustawy do śluzowatego kapelusz z przylegającymi łuskami, a Pholiota adiposa i Pholiota cerifera również mają raczej przylegające łuski. Pholiota flammans jest jaskrawożółta do pomarańczowożółtej i rośnie na leżącym drewnie drzew iglastych. Hemipholiota populnea jest znacznie bledsza, beżowoszara, gorzka i rośnie na topolach.",
+      "notes": "Jako powolna biała zgnilizna żywych drzew może poważnie uszkadzać drzewa owocowe i przyuliczne oraz sprawia, że ich drewno staje się kruche. Owocniki zawierają związki squarrosydynę i pinillidynę, które hamują enzym oksydazę ksantynową. Są ważnym pokarmem wiewiórki pospolitej, a rozkładające się owocniki wykorzystują muszki owocowe z rodzaju Drosophila."
+    },
+    "pt": {
+      "description": "Um cogumelo de lamelas vistoso que cresce em tufos densos na base de árvores vivas e mortas; o chapéu e o pé, secos e amarelo-palha, estão cobertos de escamas grossas e erguidas, castanho-ferrugem. É um parasita fraco de árvores enfraquecidas e um decompositor de madeira morta que causa podridão branca. É comum na Europa e na América do Norte.",
+      "cap": "O chapéu mede 3–12 cm de diâmetro, por vezes até 15 cm. De início é arredondado a campanulado, depois convexo e por fim quase plano, por vezes com um umbo baixo; a margem permanece enrolada durante muito tempo e muitas vezes tem restos do véu pendentes. A superfície é seca, nunca viscosa, amarelo-pálida a amarelo-palha ou ocre-amarelada, densamente coberta de escamas grossas, pontiagudas e erguidas, castanho-ferrugem a castanho-avermelhadas, mais escuras para o centro e dispostas em círculos mais ou menos concêntricos.",
+      "hymenium": "As lamelas são apertadas, estreitas, adnatas a ligeiramente decorrentes e por vezes chanfradas. De início são amarelo-pálidas a amarelo-acinzentadas, muitas vezes com um tom oliváceo ou esverdeado, e tornam-se castanho-ferrugem a canela à medida que os esporos amadurecem; nunca são brancas. Nos exemplares jovens estão cobertas por um véu parcial semelhante a uma teia de aranha. Os basídios são claviformes e tetraspóricos, com 16–25 × 5–7 µm, e os queilocistídios são claviformes a fusiformes.",
+      "stipe": "O pé mede 4–12 cm de comprimento, por vezes 15 cm ou mais, e 0,5–1,5 cm de espessura; é cilíndrico e muitas vezes afunila para a base, firme e fibroso. Acima do anel é liso e amarelado-pálido; o anel é fibroso, lanoso e rasgado, muitas vezes reduzido a uma zona anelar. Abaixo dele o pé está densamente coberto de escamas recurvadas castanho-ferrugem como as do chapéu, e a base torna-se castanho-ferrugem a castanho-avermelhada com a idade.",
+      "flesh": "A carne é amarelo-pálida a amarelo-esbranquiçada, firme, e torna-se castanho-ferrugem para a base do pé. O cheiro é marcado, mas descrito de modo diferente por diferentes autores: a rabanete, a alho ou como uma mistura de alho e limão, ou a madeira podre. O sabor lembra rabanete e é suave a ligeiramente amargo.",
+      "sporePrint": "Castanho-ferrugem a castanho-canela. Os esporos medem 6–8 × 3,5–5 µm, são elípticos, lisos, com um pequeno poro germinativo apical e não amiloides.",
+      "habitat": "Cresce em tufos densos, muitas vezes grandes, na base dos troncos, em raízes e cepos de folhosas vivas e mortas, sobretudo macieira, faia, freixo, bordo, bétula, tília, salgueiro e tramazeira, e menos vezes em coníferas como o espruce e o abeto; nas Montanhas Rochosas é comum em choupo-tremedor e espruce. É um parasita fraco de árvores já enfraquecidas por feridas ou outras infeções e vive também como decompositor de madeira morta, causando podridão branca. Muito comum na Europa Central, das planícies às montanhas, é típico de árvores de beira de estrada, de parques e de pomares; na Grã-Bretanha e na Irlanda é localmente comum, sobretudo em faias de pastagens abertas e sebes em solo alcalino. Os corpos de frutificação aparecem de agosto a novembro, principalmente a partir de setembro, e podem persistir até dezembro.",
+      "uses": "Não é recomendado para consumo. Durante muito tempo foi considerado comestível, e os chapéus jovens eram comidos em conserva de vinagre ou em guisados, mas causou intoxicações com vómitos e diarreia cerca de dez horas após a refeição, sobretudo quando consumido com álcool, e pode provocar perturbações gástricas em pessoas sensíveis. A literatura atual considera-o não comestível ou tóxico.",
+      "confusion": "A armilária-cor-de-mel (Armillaria mellea) e outras espécies de Armillaria crescem em tufos semelhantes na mesma época, mas têm esporada branca, lamelas e carne esbranquiçadas, escamas mais finas e não têm escamas grossas e erguidas no pé. Pholiota squarrosoides tem o chapéu mais pálido, pegajoso entre as escamas, carne branca, não cheira a alho nem a rabanete e tem esporos mais pequenos. Pholiota aurivella tem o chapéu gorduroso a viscoso com escamas aplicadas, e Pholiota adiposa e Pholiota cerifera também têm escamas mais aplicadas. Pholiota flammans é amarelo-vivo a amarelo-alaranjado e cresce em madeira caída de coníferas. Hemipholiota populnea é muito mais pálida, bege-acinzentada, amarga e cresce em choupos.",
+      "notes": "Como podridão branca lenta de árvores vivas, pode danificar gravemente árvores de fruto e de arruamento e torna a sua madeira quebradiça. Os corpos de frutificação contêm os compostos esquarrosidina e pinilidina, que inibem a enzima xantina oxidase. São um alimento importante para o esquilo-vermelho, e os corpos de frutificação em decomposição são aproveitados por moscas-da-fruta do género Drosophila."
+    },
+    "ro": {
+      "description": "O ciupercă cu lamele, bătătoare la ochi, care crește în tufe dese la baza arborilor vii și morți; pălăria și piciorul, uscate și galben-pai, sunt acoperite cu solzi grosolani, ridicați, brun-ruginii. Este un parazit slab al arborilor slăbiți și un descompunător al lemnului mort, care provoacă putregai alb. Este comună în Europa și America de Nord.",
+      "cap": "Pălăria are 3–12 cm în diametru, uneori până la 15 cm. La început este rotunjită până la clopotiformă, apoi convexă și în cele din urmă aproape plată, uneori cu un gurgui scund; marginea rămâne mult timp răsucită în jos și deseori are atârnate resturi de văl. Suprafața este uscată, niciodată mucilaginoasă, galben-pal până la galben-pai sau galben-ocru, acoperită des cu solzi grosolani, ascuțiți, ridicați, brun-ruginii până la brun-roșiatici, mai închiși spre centru și dispuși în cercuri mai mult sau mai puțin concentrice.",
+      "hymenium": "Lamelele sunt dese, înguste, aderente până la ușor decurente și uneori scobite. La început sunt galben-pal până la galben-cenușii, adesea cu o nuanță oliv sau verzuie, și devin brun-ruginii până la scorțișorii pe măsură ce sporii se maturizează; nu sunt niciodată albe. La exemplarele tinere sunt acoperite de un văl parțial ca o pânză de păianjen. Bazidiile sunt claviforme și tetrasporice, 16–25 × 5–7 µm, iar cheilocistidele sunt claviforme până la fusiforme.",
+      "stipe": "Piciorul are 4–12 cm lungime, uneori 15 cm sau mai mult, și 0,5–1,5 cm grosime; este cilindric și adesea îngustat spre bază, tare și fibros. Deasupra inelului este neted și gălbui-pal; inelul este fibros, lânos și rupt, adesea redus la o zonă inelară. Sub inel piciorul este acoperit des cu solzi recurbați brun-ruginii, ca cei de pe pălărie, iar baza devine brun-ruginie până la brun-roșiatică odată cu vârsta.",
+      "flesh": "Carnea este galben-pal până la galben-albicioasă, tare, și devine brun-ruginie spre baza piciorului. Mirosul este pronunțat, dar descris diferit de diferiți autori: de ridiche, de usturoi sau ca un amestec de usturoi și lămâie, ori de lemn putred. Gustul amintește de ridiche și este blând până la ușor amărui.",
+      "sporePrint": "Brun-ruginiu până la brun-scorțișoriu. Sporii au 6–8 × 3,5–5 µm, sunt eliptici, netezi, cu un mic por germinativ apical și nu sunt amiloizi.",
+      "habitat": "Crește în tufe dese, adesea mari, la baza trunchiurilor, pe rădăcini și cioate de foioase vii și moarte, mai ales măr, fag, frasin, arțar, mesteacăn, tei, salcie și scoruș de munte, mai rar pe conifere precum molidul și bradul; în Munții Stâncoși este comună pe plopul tremurător american și pe molid. Este un parazit slab al arborilor deja slăbiți de răni sau de alte infecții și trăiește și ca descompunător al lemnului mort, provocând putregai alb. Foarte comună în Europa Centrală, de la câmpie la munte, este tipică pentru arborii de pe marginea drumurilor, din parcuri și din livezi; în Marea Britanie și Irlanda este local comună, mai ales pe fag în pajiști deschise și garduri vii pe sol alcalin. Corpurile fructifere apar din august până în noiembrie, mai ales din septembrie, și pot persista până în decembrie.",
+      "uses": "Nu este recomandată pentru consum. Multă vreme a fost considerată comestibilă, iar pălăriile tinere se mâncau murate în oțet sau în tocănițe, dar a provocat intoxicații cu vărsături și diaree la aproximativ zece ore după masă, mai ales când a fost consumată împreună cu alcool, iar la persoanele sensibile poate provoca tulburări gastrice. Literatura actuală o consideră necomestibilă sau toxică.",
+      "confusion": "Gheba tomnatică (Armillaria mellea) și alte specii de Armillaria cresc în tufe asemănătoare în același sezon, dar au sporada albă, lamele și carne albicioase, solzi mai fini și nu au solzi grosolani ridicați pe picior. Pholiota squarrosoides are pălăria mai palidă, lipicioasă între solzi, carne albă, fără miros de usturoi sau de ridiche, și spori mai mici. Pholiota aurivella are pălăria unsuroasă până la mucilaginoasă, cu solzi lipiți, iar Pholiota adiposa și Pholiota cerifera au și ele solzi mai degrabă lipiți. Pholiota flammans este galben-aprins până la galben-portocaliu și crește pe lemn căzut de conifere. Hemipholiota populnea este mult mai palidă, bej-cenușie, amară și crește pe plopi.",
+      "notes": "Ca putregai alb lent al arborilor vii, poate deteriora grav pomii fructiferi și arborii de aliniament și le face lemnul casant. Corpurile fructifere conțin compușii squarrosidină și pinillidină, care inhibă enzima xantin-oxidază. Sunt o hrană importantă pentru veverița roșie, iar corpurile fructifere în descompunere sunt folosite de muștele de oțet din genul Drosophila."
+    },
+    "ru": {
+      "description": "Заметный пластинчатый гриб, растущий густыми пучками у основания живых и мёртвых деревьев; сухая соломенно-жёлтая шляпка и ножка покрыты грубыми, оттопыренными ржаво-коричневыми чешуйками. Это слабый паразит ослабленных деревьев и разрушитель мёртвой древесины, вызывающий белую гниль. Обычен в Европе и Северной Америке.",
+      "cap": "Шляпка 3–12 см в диаметре, иногда до 15 см. Сначала округлая или колокольчатая, затем выпуклая и в конце почти плоская, иногда с невысоким бугорком; край долго остаётся подвёрнутым и часто увешан остатками покрывала. Поверхность сухая, никогда не слизистая, бледно-жёлтая, соломенно-жёлтая или жёлто-охристая, густо покрыта грубыми, заострёнными, оттопыренными чешуйками ржаво-коричневого или красновато-коричневого цвета, более тёмными к центру и расположенными более или менее концентрическими кругами.",
+      "hymenium": "Пластинки частые, узкие, приросшие или слегка нисходящие, иногда выемчатые. Сначала они бледно-жёлтые или серовато-жёлтые, часто с оливковым или зеленоватым оттенком, а по мере созревания спор становятся ржаво-коричневыми или коричными; белыми они не бывают никогда. У молодых плодовых тел их закрывает паутинистое частное покрывало. Базидии булавовидные, четырёхспоровые, 16–25 × 5–7 мкм, хейлоцистиды булавовидные или веретеновидные.",
+      "stipe": "Ножка длиной 4–12 см, иногда 15 см и более, толщиной 0,5–1,5 см, цилиндрическая, часто суженная к основанию, плотная и волокнистая. Выше кольца она гладкая и бледно-желтоватая; кольцо волокнистое, шерстистое и разорванное, часто сведено к кольцевой зоне. Ниже кольца ножка густо покрыта отогнутыми ржаво-коричневыми чешуйками, как на шляпке, а основание с возрастом становится ржаво- или красновато-коричневым.",
+      "flesh": "Мякоть бледно-жёлтая или беловато-жёлтая, плотная, к основанию ножки буреет до ржаво-коричневого цвета. Запах выраженный, но разные авторы описывают его по-разному: как редечный, чесночный или как нечто среднее между чесноком и лимоном, либо как запах гнилой древесины. Вкус редечный, мягкий или слегка горьковатый.",
+      "sporePrint": "Ржаво-коричневый или коричнево-коричный. Споры 6–8 × 3,5–5 мкм, эллиптические, гладкие, с небольшой апикальной ростковой порой, неамилоидные.",
+      "habitat": "Растёт густыми, часто крупными пучками у основания стволов, на корнях и пнях живых и мёртвых лиственных деревьев, особенно яблони, бука, ясеня, клёна, берёзы, липы, ивы и рябины, реже на хвойных, таких как ель и пихта; в Скалистых горах обычен на осине и ели. Это слабый паразит деревьев, уже ослабленных повреждениями или другими инфекциями, а также сапротроф на мёртвой древесине, вызывающий белую гниль. В Центральной Европе очень обычен от низменностей до гор и типичен для придорожных, парковых и садовых деревьев; в Великобритании и Ирландии местами обычен, особенно на буке на открытых травянистых участках и в живых изгородях на щелочной почве. Плодовые тела появляются с августа по ноябрь, в основном с сентября, и могут сохраняться до декабря.",
+      "uses": "Употреблять в пищу не рекомендуется. Долгое время гриб считался съедобным, и молодые шляпки ели маринованными в уксусе или в гуляше, однако он вызывал отравления с рвотой и диареей примерно через десять часов после еды, особенно при употреблении вместе с алкоголем, а у чувствительных людей может вызывать желудочные расстройства. Современная литература относит его к несъедобным или ядовитым грибам.",
+      "confusion": "Опёнок осенний (Armillaria mellea) и другие опята (Armillaria) растут такими же пучками в то же время года, но у них белый споровый порошок, беловатые пластинки и мякоть, более мелкие чешуйки и нет грубых оттопыренных чешуек на ножке. Pholiota squarrosoides имеет более бледную шляпку, клейкую между чешуйками, белую мякоть, лишена чесночного или редечного запаха и имеет более мелкие споры. Pholiota aurivella имеет жирную или слизистую шляпку с прижатыми чешуйками, и у Pholiota adiposa и Pholiota cerifera чешуйки тоже скорее прижатые. Pholiota flammans ярко-жёлтая или оранжево-жёлтая и растёт на опавшей древесине хвойных. Hemipholiota populnea гораздо бледнее, бежево-серая, горькая и растёт на тополях.",
+      "notes": "Как медленная белая гниль живых деревьев он может серьёзно повреждать плодовые и уличные деревья и делает их древесину ломкой. Плодовые тела содержат соединения скварозидин и пиниллидин, которые подавляют фермент ксантиноксидазу. Они служат важным кормом для обыкновенной белки, а разлагающиеся плодовые тела используют плодовые мушки рода Drosophila."
+    },
+    "sk": {
+      "description": "Nápadná lupeňová huba, ktorá rastie v hustých trsoch na báze živých aj odumretých stromov; suchý slamovožltý klobúk aj hlúbik sú pokryté hrubými, odstávajúcimi hrdzavohnedými šupinami. Je slabým parazitom oslabených stromov a rozkladačom odumretého dreva, ktorý spôsobuje bielu hnilobu. Je hojná v Európe a Severnej Amerike.",
+      "cap": "Klobúk má 3–12 cm, výnimočne až 15 cm. Spočiatku je zaoblený až zvoncovitý, neskôr vyklenutý a napokon takmer plochý, niekedy s nízkym hrbolom; okraj zostáva dlho podvinutý a často je ovešaný zvyškami závoja. Povrch je suchý, nikdy nie slizký, bledožltý až slamovožltý alebo žltookrový a husto pokrytý hrubými, špicatými, odstávajúcimi šupinami, ktoré sú hrdzavohnedé až červenohnedé, smerom k stredu tmavšie a usporiadané do viac-menej sústredných kruhov.",
+      "hymenium": "Lupene sú husté, úzke, prirastené až mierne zbiehavé a niekedy vykrojené. Spočiatku sú bledožlté až sivožlté, často s olivovým alebo zelenkastým nádychom, a dozrievaním výtrusov sa sfarbujú do hrdzavohneda až škoricova; nikdy nie sú biele. U mladých plodníc ich zakrýva pavučinovitý čiastočný závoj. Bazídiá sú kyjakovité a štvorvýtrusové, 16–25 × 5–7 µm, a cheilocystidy sú kyjakovité až vretenovité.",
+      "stipe": "Hlúbik je 4–12 cm dlhý, výnimočne až 15 cm aj viac, a 0,5–1,5 cm hrubý, valcovitý a smerom k báze často zúžený, pevný a vláknitý. Nad prsteňom je hladký a bledožltkastý; prsteň je vláknitý, vlnatý a roztrhaný, často zredukovaný na prsteňovú zónu. Pod ním je hlúbik husto pokrytý dozadu ohnutými hrdzavohnedými šupinami podobnými šupinám na klobúku a báza s vekom hrdzavohnedne až červenohnedne.",
+      "flesh": "Dužina je bledožltá až belavožltá, pevná a smerom k báze hlúbika hrdzavohnedne. Vôňa je výrazná, no rôzni autori ju opisujú rozlične: ako reďkovkovú, cesnakovú alebo ako niečo medzi cesnakom a citrónom, prípadne ako vôňu tlejúceho dreva. Chuť je reďkovková, mierna až slabo horkastá.",
+      "sporePrint": "Hrdzavohnedý až škoricovohnedý. Výtrusy sú 6–8 × 3,5–5 µm, elipsoidné, hladké, s malým vrcholovým klíčnym pórom a nie sú amyloidné.",
+      "habitat": "Rastie v hustých, často veľkých trsoch na báze kmeňov, na koreňoch a pňoch živých aj odumretých listnatých stromov, najmä jabloní, bukov, jaseňov, javorov, briez, líp, vŕb a jarabín, menej často na ihličnanoch, ako je smrek a jedľa; v Skalistých horách je bežná na osikách a smrekoch. Je slabým parazitom stromov oslabených poranením alebo inými infekciami a žije aj ako saprotrof na odumretom dreve, pričom spôsobuje bielu hnilobu. V strednej Európe je veľmi hojná od nížin po hory a typicky rastie na stromoch pri cestách, v parkoch a sadoch; vo Veľkej Británii a Írsku je miestami bežná, najmä na bukoch na otvorených trávnatých plochách a v živých plotoch na zásaditej pôde. Plodnice sa objavujú od augusta do novembra, väčšinou od septembra, a môžu vydržať až do decembra.",
+      "uses": "Na jedenie sa neodporúča. Dlho sa považovala za jedlú a mladé klobúky sa jedli naložené v octe alebo v guláši, spôsobila však otravy so zvracaním a hnačkou približne desať hodín po jedle, najmä keď sa jedla s alkoholom, a citlivým ľuďom môže spôsobiť žalúdočné ťažkosti. Súčasná literatúra ju uvádza ako nejedlú alebo jedovatú.",
+      "confusion": "Podpňovka obyčajná (Armillaria mellea) a ďalšie podpňovky (Armillaria) rastú v podobných trsoch v rovnakom období, majú však biely výtrusný prach, belavé lupene aj dužinu, jemnejšie šupiny a na hlúbiku nemajú hrubé odstávajúce šupiny. Pholiota squarrosoides má bledší klobúk, ktorý je medzi šupinami lepkavý, bielu dužinu, nevonia po cesnaku ani po reďkovke a má menšie výtrusy. Pholiota aurivella má mastný až slizký klobúk s pritisnutými šupinami a aj Pholiota adiposa a Pholiota cerifera majú šupiny skôr pritisnuté. Pholiota flammans je jasne žltá až oranžovožltá a rastie na spadnutom dreve ihličnanov. Hemipholiota populnea je oveľa bledšia, béžovosivá, horká a rastie na topoľoch.",
+      "notes": "Ako pomalá biela hniloba živých stromov môže vážne poškodiť ovocné a uličné stromy a ich drevo robí krehkým. Plodnice obsahujú látky squarrosidín a pinillidín, ktoré inhibujú enzým xantínoxidázu. Sú dôležitou potravou veveríc obyčajných a rozkladajúce sa plodnice využívajú octomilky rodu Drosophila."
+    },
+    "sl": {
+      "description": "Opazna gliva z lističi, ki raste v gostih šopih ob vznožju živih in odmrlih dreves; suh slamnato rumen klobuk in bet sta pokrita z grobimi, privzdignjenimi, rjasto rjavimi luskami. Je šibek zajedavec oslabljenih dreves in razkrojevalec odmrlega lesa, ki povzroča belo trohnobo. Pogosta je v Evropi in Severni Ameriki.",
+      "cap": "Klobuk je širok 3–12 cm, včasih do 15 cm. Sprva je zaobljen do zvonast, nato izbočen in nazadnje skoraj raven, včasih z nizko grbico; rob ostane dolgo podvihan in z njega pogosto visijo ostanki zastiralca. Površina je suha, nikoli sluzasta, bledo rumena do slamnato rumena ali rumeno okrasta, gosto pokrita z grobimi, koničastimi, privzdignjenimi luskami, ki so rjasto rjave do rdečkasto rjave, proti sredini temnejše in razporejene v bolj ali manj koncentrične kroge.",
+      "hymenium": "Lističi so gosti, ozki, priraščeni do rahlo zbežni in včasih izrezani. Sprva so bledo rumeni do sivkasto rumeni, pogosto z olivnim ali zelenkastim odtenkom, z dozorevanjem trosov pa postanejo rjasto rjavi do cimetasti; nikoli niso beli. Pri mladih trosnjakih jih pokriva pajčevinast delni zastiralec. Bazidiji so betičasti in štiritrosni, 16–25 × 5–7 µm, heilocistide pa betičaste do vretenaste.",
+      "stipe": "Bet je dolg 4–12 cm, včasih 15 cm ali več, in debel 0,5–1,5 cm, valjast in proti dnu pogosto zožen, čvrst in vlaknat. Nad obročkom je gladek in bledo rumenkast; obroček je vlaknat, volnat in raztrgan, pogosto zmanjšan na obročkasto cono. Pod njim je bet gosto pokrit z nazaj zavihanimi rjasto rjavimi luskami, podobnimi tistim na klobuku, dno pa s starostjo postane rjasto do rdečkasto rjavo.",
+      "flesh": "Meso je bledo rumeno do belkasto rumeno, čvrsto in proti dnu beta porjavi do rjasto rjave barve. Vonj je izrazit, a ga različni avtorji opisujejo različno: po redkvici, po česnu ali kot mešanico česna in limone ali po trhlem lesu. Okus spominja na redkvico in je mil do rahlo grenkast.",
+      "sporePrint": "Rjasto rjav do cimetasto rjav. Trosi merijo 6–8 × 3,5–5 µm, so eliptični, gladki, z majhno vršno kalično poro in niso amiloidni.",
+      "habitat": "Raste v gostih, pogosto velikih šopih ob vznožju debel, na koreninah in štorih živih in odmrlih listavcev, zlasti jablane, bukve, jesena, javorja, breze, lipe, vrbe in jerebike, redkeje na iglavcih, kot sta smreka in jelka; v Skalnem gorovju je pogosta na trepetlikah in smrekah. Je šibek zajedavec dreves, ki so jih že oslabile poškodbe ali druge okužbe, živi pa tudi kot razkrojevalec odmrlega lesa in povzroča belo trohnobo. V srednji Evropi je od nižin do gora zelo pogosta in značilna za obcestna, parkovna in sadna drevesa; v Veliki Britaniji in na Irskem je ponekod pogosta, zlasti na bukvah na odprtih travnikih in v živih mejah na bazičnih tleh. Trosnjaki se pojavljajo od avgusta do novembra, večinoma od septembra, in se lahko obdržijo do decembra.",
+      "uses": "Za uživanje ni priporočljiva. Dolgo so jo imeli za užitno in mlade klobuke so jedli vložene v kis ali v golažu, vendar je povzročala zastrupitve z bruhanjem in drisko približno deset ur po obroku, zlasti kadar so jo uživali z alkoholom, pri občutljivih ljudeh pa lahko povzroči želodčne težave. Sodobna literatura jo navaja kot neužitno ali strupeno.",
+      "confusion": "Sivorumena mraznica (Armillaria mellea) in druge vrste rodu Armillaria rastejo v podobnih šopih v istem letnem času, vendar imajo bel trosni prah, belkaste lističe in meso, drobnejše luske in na betu nimajo grobih privzdignjenih lusk. Pholiota squarrosoides ima bledejši klobuk, ki je med luskami lepljiv, belo meso, nima vonja po česnu ali redkvici in ima manjše trose. Pholiota aurivella ima masten do sluzast klobuk s prileglimi luskami, tudi Pholiota adiposa in Pholiota cerifera pa imata bolj prilegle luske. Pholiota flammans je živo rumena do oranžno rumena in raste na podrtem lesu iglavcev. Hemipholiota populnea je veliko bledejša, bež sivkasta, grenka in raste na topolih.",
+      "notes": "Kot počasna bela trohnoba živih dreves lahko resno poškoduje sadna in obcestna drevesa ter naredi njihov les krhek. Trosnjaki vsebujejo spojini skvarozidin in pinilidin, ki zavirata encim ksantin oksidazo. So pomembna hrana navadne veverice, razpadajoče trosnjake pa izkoriščajo vinske mušice iz rodu Drosophila."
+    },
+    "sr": {
+      "description": "Упадљива листићава гљива која расте у густим бусенима при дну живог и мртвог дрвећа; суви сламастожути шешир и дршка прекривени су грубим, уздигнутим, рђастосмеђим љуспама. Слаб је паразит ослабљеног дрвећа и разлагач мртвог дрвета који изазива белу трулеж. Честа је у Европи и Северној Америци.",
+      "cap": "Шешир је широк 3–12 cm, понекад до 15 cm. У почетку је заобљен до звонаст, затим испупчен и на крају готово раван, понекад са ниским испупчењем; руб дуго остаје увијен и често са њега висе остаци овоја. Површина је сува, никад слузава, бледожута до сламастожута или жутоокер, густо прекривена грубим, шиљатим, уздигнутим љуспама рђастосмеђе до црвенкастосмеђе боје, тамнијим ка средини и распоређеним у мање-више концентричне кругове.",
+      "hymenium": "Листићи су густи, уски, прирасли до благо силазни и понекад урезани. У почетку су бледожути до сивкастожути, често са маслинастим или зеленкастим тоном, а сазревањем спора постају рђастосмеђи до циметасти; никад нису бели. Код младих плодоносних тела прекрива их паучинаст делимични овој. Базидије су батинасте и четвороспорне, 16–25 × 5–7 µm, а хеилоцистиде су батинасте до вретенасте.",
+      "stipe": "Дршка је дуга 4–12 cm, понекад 15 cm и више, и дебела 0,5–1,5 cm, ваљкаста и ка дну често сужена, чврста и влакнаста. Изнад прстена је глатка и бледожућкаста; прстен је влакнаст, вунаст и подеран, често сведен на прстенасту зону. Испод њега дршка је густо прекривена повијеним рђастосмеђим љуспама попут оних на шеширу, а дно с годинама постаје рђастосмеђе до црвенкастосмеђе.",
+      "flesh": "Месо је бледожуто до беличастожуто, чврсто и ка дну дршке постаје рђастосмеђе. Мирис је изражен, али га различити аутори описују различито: на ротквицу, на бели лук или као мешавину белог лука и лимуна, или на труло дрво. Укус подсећа на ротквицу и благ је до благо горак.",
+      "sporePrint": "Рђастосмеђ до циметастосмеђ. Споре су 6–8 × 3,5–5 µm, елиптичне, глатке, са малом врховном клицином пором и нису амилоидне.",
+      "habitat": "Расте у густим, често великим бусенима при дну стабала, на корењу и пањевима живог и мртвог листопадног дрвећа, нарочито јабуке, букве, јасена, јавора, брезе, липе, врбе и јаребике, ређе на четинарима попут смрче и јеле; у Стеновитим планинама честа је на јасики и смрчи. Слаб је паразит дрвећа већ ослабљеног повредама или другим инфекцијама, а живи и као разлагач мртвог дрвета, изазивајући белу трулеж. У средњој Европи веома је честа од низија до планина и типична за дрвеће поред путева, у парковима и воћњацима; у Великој Британији и Ирској местимично је честа, нарочито на букви на отвореним травњацима и у живим оградама на алкалном земљишту. Плодоносна тела појављују се од августа до новембра, углавном од септембра, и могу се одржати до децембра.",
+      "uses": "Не препоручује се за јело. Дуго је сматрана јестивом, а млади шешири јели су се укисељени у сирћету или у гулашу, али је изазивала тровања са повраћањем и проливом десетак сати после оброка, нарочито када је јела уз алкохол, а код осетљивих особа може изазвати желудачне тегобе. Савремена литература је наводи као нејестиву или отровну.",
+      "confusion": "Пуза (Armillaria mellea) и друге врсте рода Armillaria расту у сличним бусенима у исто доба године, али имају бели отисак спора, беличасте листиће и месо, ситније љуспе и немају грубе уздигнуте љуспе на дршци. Pholiota squarrosoides има бледији шешир, лепљив између љуспи, бело месо, нема мирис на бели лук ни ротквицу и има мање споре. Pholiota aurivella има мастан до слузав шешир са приљубљеним љуспама, а и Pholiota adiposa и Pholiota cerifera имају више приљубљене љуспе. Pholiota flammans је јаркожута до наранџастожута и расте на палом дрвету четинара. Hemipholiota populnea је много бледија, беж-сива, горка и расте на тополама.",
+      "notes": "Као спора бела трулеж живог дрвећа може озбиљно оштетити воћке и дрвореде и чини њихово дрво кртим. Плодоносна тела садрже једињења скварозидин и пинилидин, која инхибирају ензим ксантин-оксидазу. Важна су храна црвеној веверици, а плодоносна тела у распадању користе винске мушице рода Drosophila."
+    },
+    "sv": {
+      "description": "En iögonfallande skivling som växer i täta tuvor vid basen av levande och döda träd; den torra halmgula hatten och foten är täckta av grova, uppåtböjda, rostbruna fjäll. Den är en svag parasit på försvagade träd och en nedbrytare av död ved som orsakar vitröta. Den är vanlig i hela Europa och Nordamerika.",
+      "cap": "Hatten är 3–12 cm bred, ibland upp till 15 cm. Den är först rundad till klocklik, sedan välvd och till sist nästan platt, ibland med en låg puckel; kanten förblir länge inrullad och har ofta hängande hyllerester. Ytan är torr, aldrig slemmig, blekgul till halmgul eller gulockra och tätt täckt av grova, spetsiga, uppåtböjda fjäll som är rostbruna till rödbruna, mörkare mot mitten och ordnade i mer eller mindre koncentriska ringar.",
+      "hymenium": "Skivorna är täta, smala, vidväxta till något nedlöpande och ibland urnupna. De är först blekgula till gråaktigt gula, ofta med en oliv eller grönaktig ton, och blir rostbruna till kanelbruna när sporerna mognar; de är aldrig vita. Hos unga fruktkroppar täcks de av ett spindelvävsliknande partiellt hylle. Basidierna är klubbformade och fyrsporiga, 16–25 × 5–7 µm, och cheilocystiderna är klubbformade till spolformade.",
+      "stipe": "Foten är 4–12 cm lång, ibland 15 cm eller mer, och 0,5–1,5 cm tjock, cylindrisk och ofta avsmalnande mot basen, fast och trådig. Ovanför ringen är den slät och blekt gulaktig; ringen är trådig, ullig och sönderriven, ofta reducerad till en ringzon. Nedanför den är foten tätt täckt av bakåtböjda rostbruna fjäll som de på hatten, och basen blir rostbrun till rödbrun med åldern.",
+      "flesh": "Köttet är blekgult till vitgult, fast och blir rostbrunt mot fotens bas. Lukten är karakteristisk men beskrivs olika av olika författare: som rädisa, vitlök eller en blandning av vitlök och citron, eller som ruttnande ved. Smaken påminner om rädisa och är mild till lätt bitter.",
+      "sporePrint": "Rostbrunt till kanelbrunt. Sporerna är 6–8 × 3,5–5 µm, elliptiska, släta, med en liten apikal groddpor, och är inte amyloida.",
+      "habitat": "Den växer i täta, ofta stora tuvor vid stambasen, på rötter och stubbar av levande och döda lövträd, särskilt äpple, bok, ask, lönn, björk, lind, vide och rönn, och mer sällan på barrträd som gran och ädelgran; i Klippiga bergen är den vanlig på asp och gran. Den är en svag parasit på träd som redan försvagats av skador eller andra infektioner och lever också som nedbrytare av död ved och orsakar vitröta. I Centraleuropa är den mycket vanlig från låglandet till bergen och typisk för vägträd, parkträd och fruktträd; i Storbritannien och Irland är den lokalt vanlig, särskilt på bok i öppna gräsmarker och häckar på kalkrik jord. Fruktkropparna visar sig från augusti till november, huvudsakligen från september, och kan finnas kvar in i december.",
+      "uses": "Den rekommenderas inte som matsvamp. Den ansågs länge ätlig, och unga hattar åts inlagda i ättika eller i grytor, men den har orsakat förgiftningar med kräkningar och diarré cirka tio timmar efter måltiden, särskilt när den åtts tillsammans med alkohol, och hos känsliga personer kan den ge magbesvär. Nutida litteratur anger den som oätlig eller giftig.",
+      "confusion": "Sydlig honungsskivling (Armillaria mellea) och andra Armillaria-arter växer i liknande tuvor under samma säsong, men de har vitt sporavtryck, vitaktiga skivor och kött, finare fjäll och inga grova uppåtböjda fjäll på foten. Pholiota squarrosoides har en blekare hatt som är klibbig mellan fjällen, vitt kött, ingen lukt av vitlök eller rädisa och mindre sporer. Pholiota aurivella har en flottig till slemmig hatt med tilltryckta fjäll, och även Pholiota adiposa och Pholiota cerifera har mer tilltryckta fjäll. Pholiota flammans är klargul till orangegul och växer på nedfallen barrved. Hemipholiota populnea är mycket blekare, beigegrå, bitter och växer på poppel.",
+      "notes": "Som en långsam vitröta i levande träd kan den allvarligt skada fruktträd och gatuträd och gör deras ved spröd. Fruktkropparna innehåller föreningarna squarrosidin och pinillidin, som hämmar enzymet xantinoxidas. De är viktig föda för ekorrar, och ruttnande fruktkroppar utnyttjas av bananflugor i släktet Drosophila."
+    },
+    "tr": {
+      "description": "Canlı ve ölü ağaçların dibinde sık kümeler halinde yetişen dikkat çekici, lamelli bir mantar; kuru saman sarısı şapkası ve sapı kaba, yukarı kalkık, pas kahverengisi pullarla kaplıdır. Zayıflamış ağaçlarda zayıf bir parazit ve beyaz çürüklüğe yol açan ölü odun ayrıştırıcısıdır. Avrupa ve Kuzey Amerika'nın her yerinde yaygındır.",
+      "cap": "Şapka 3–12 cm genişliğindedir, bazen 15 cm'ye kadar ulaşır. Önce yuvarlak ile çan biçimli arasındadır, sonra dışbükey ve sonunda neredeyse düz olur, bazen alçak bir tümsek taşır; kenarı uzun süre içe kıvrık kalır ve çoğu zaman üzerinde örtü kalıntıları sarkar. Yüzeyi kurudur, asla yapışkan değildir, soluk sarıdan saman sarısına veya sarı okreye kadar değişir ve pas kahverengisinden kırmızımsı kahverengiye kadar renkte, merkeze doğru koyulaşan, az çok eş merkezli halkalar halinde dizilmiş kaba, sivri, yukarı kalkık pullarla sıkça kaplıdır.",
+      "hymenium": "Lameller sık, dar, yapışık ile hafif inen arasında ve bazen çentiklidir. Önce soluk sarı ile grimsi sarı arasındadır, çoğu zaman zeytuni veya yeşilimsi bir ton taşır ve sporlar olgunlaştıkça pas kahverengisinden tarçın rengine döner; asla beyaz değildir. Genç meyve gövdelerinde örümcek ağına benzeyen kısmi bir örtüyle kaplıdır. Bazidyumlar topuz biçimli ve dört sporludur, 16–25 × 5–7 µm; keilosistidyumlar topuz biçimliden iğ biçimliye kadar değişir.",
+      "stipe": "Sap 4–12 cm, bazen 15 cm ya da daha uzun ve 0,5–1,5 cm kalınlığındadır; silindiriktir ve çoğu zaman tabana doğru incelir, sert ve liflidir. Halkanın üstünde düz ve soluk sarımsıdır; halka lifli, yünümsü ve yırtıktır, çoğu zaman yalnızca bir halka bölgesine indirgenmiştir. Halkanın altında sap, şapkadakilere benzer geriye kıvrık pas kahverengisi pullarla sıkça kaplıdır ve taban yaşla birlikte pas kahverengisinden kırmızımsı kahverengiye döner.",
+      "flesh": "Eti soluk sarıdan beyazımsı sarıya kadar değişir, serttir ve sapın tabanına doğru pas kahverengisine döner. Kokusu belirgindir ama farklı yazarlar tarafından farklı tanımlanır: turp, sarımsak ya da sarımsakla limon karışımı gibi veya çürüyen odun gibi. Tadı turpu andırır ve hafiften biraz acımsıya kadar değişir.",
+      "sporePrint": "Pas kahverengisinden tarçın kahverengisine. Sporlar 6–8 × 3,5–5 µm, eliptik, düz, uçta küçük bir çimlenme gözeneğine sahiptir ve amiloid değildir.",
+      "habitat": "Canlı ve ölü geniş yapraklı ağaçların gövde diplerinde, köklerinde ve kütüklerinde, sık ve çoğu zaman büyük kümeler halinde yetişir; özellikle elma, kayın, dişbudak, akçaağaç, huş, ıhlamur, söğüt ve üvez üzerinde, daha seyrek olarak ladin ve göknar gibi iğne yapraklılar üzerinde bulunur; Rocky Dağları'nda titrek kavak ve ladin üzerinde yaygındır. Yaralanma veya başka enfeksiyonlarla zaten zayıflamış ağaçlarda zayıf bir parazittir ve ayrıca ölü odun ayrıştırıcısı olarak yaşayıp beyaz çürüklüğe yol açar. Orta Avrupa'da ovalardan dağlara kadar çok yaygındır ve yol kenarı, park ve meyve bahçesi ağaçları için tipiktir; Britanya ve İrlanda'da yer yer yaygındır, özellikle alkali topraklarda açık çayırlarda ve çitlerdeki kayınlarda görülür. Meyve gövdeleri ağustostan kasıma kadar, çoğunlukla eylülden itibaren ortaya çıkar ve aralığa kadar kalabilir.",
+      "uses": "Yenmesi önerilmez. Uzun süre yenilebilir sayılmış ve genç şapkalar sirkede turşu yapılarak veya yahnilerde yenmiştir, ancak yemekten yaklaşık on saat sonra kusma ve ishalle seyreden zehirlenmelere yol açmıştır; bu özellikle alkolle birlikte yendiğinde görülmüştür ve hassas kişilerde mide rahatsızlığına neden olabilir. Güncel literatür onu yenmez veya zehirli olarak listeler.",
+      "confusion": "Bal mantarı (Armillaria mellea) ve diğer Armillaria türleri aynı mevsimde benzer kümeler halinde yetişir, ancak spor izleri beyaz, lamelleri ve etleri beyazımsı, pulları daha incedir ve saplarında kaba, yukarı kalkık pullar yoktur. Pholiota squarrosoides'in şapkası daha soluktur ve pulların arası yapışkandır, eti beyazdır, sarımsak veya turp kokusu yoktur ve sporları daha küçüktür. Pholiota aurivella'nın şapkası yağlı ile yapışkan arasındadır ve pulları yatıktır; Pholiota adiposa ve Pholiota cerifera'nın pulları da daha yatıktır. Pholiota flammans parlak sarıdan turuncumsu sarıya kadar değişir ve yere düşmüş iğne yapraklı odunu üzerinde yetişir. Hemipholiota populnea çok daha soluk, bej-gri ve acıdır, kavaklar üzerinde yetişir.",
+      "notes": "Canlı ağaçlarda yavaş ilerleyen bir beyaz çürüklük olarak meyve ağaçlarına ve cadde ağaçlarına ciddi zarar verebilir ve odunlarını kırılgan hale getirir. Meyve gövdeleri, ksantin oksidaz enzimini baskılayan skuarosidin ve pinilidin bileşiklerini içerir. Kızıl sincap için önemli bir besindir ve çürüyen meyve gövdeleri Drosophila cinsi meyve sinekleri tarafından kullanılır."
+    },
+    "uk": {
+      "description": "Помітний пластинчастий гриб, що росте густими пучками біля основи живих і мертвих дерев; суха солом'яно-жовта шапинка й ніжка вкриті грубими, відстовбурченими іржасто-бурими лусочками. Це слабкий паразит ослаблених дерев і руйнівник мертвої деревини, що спричиняє білу гниль. Поширений у Європі та Північній Америці.",
+      "cap": "Шапинка 3–12 см у діаметрі, іноді до 15 см. Спочатку округла або дзвоникувата, згодом опукла й зрештою майже плоска, іноді з низьким горбиком; край довго лишається підгорнутим і часто обвішаний залишками покривала. Поверхня суха, ніколи не слизька, блідо-жовта, солом'яно-жовта або жовто-охриста, густо вкрита грубими, загостреними, відстовбурченими лусочками іржасто-бурого або червонувато-бурого кольору, темнішими до центру й розташованими більш-менш концентричними колами.",
+      "hymenium": "Пластинки часті, вузькі, прирослі або злегка низбіжні, іноді виїмчасті. Спочатку вони блідо-жовті або сірувато-жовті, часто з оливковим чи зеленуватим відтінком, а з дозріванням спор стають іржасто-бурими або коричними; білими вони не бувають ніколи. У молодих плодових тіл їх закриває павутинисте часткове покривало. Базидії булавоподібні, чотириспорові, 16–25 × 5–7 мкм, хейлоцистиди булавоподібні або веретеноподібні.",
+      "stipe": "Ніжка завдовжки 4–12 см, іноді 15 см і більше, завтовшки 0,5–1,5 см, циліндрична, часто звужена до основи, щільна й волокниста. Над кільцем вона гладенька й блідо-жовтувата; кільце волокнисте, повстисте й розірване, часто зведене до кільцевої зони. Нижче ніжка густо вкрита відігнутими іржасто-бурими лусочками, як на шапинці, а основа з віком стає іржасто- або червонувато-бурою.",
+      "flesh": "М'якуш блідо-жовтий або білувато-жовтий, щільний, до основи ніжки буріє до іржасто-бурого кольору. Запах виразний, але різні автори описують його по-різному: як редьковий, часниковий або як щось середнє між часником і лимоном, чи як запах гнилої деревини. Смак редьковий, м'який або злегка гіркуватий.",
+      "sporePrint": "Іржасто-бурий або коричнево-коричний. Спори 6–8 × 3,5–5 мкм, еліптичні, гладенькі, з невеликою апікальною ростковою порою, неамілоїдні.",
+      "habitat": "Росте густими, часто великими пучками біля основи стовбурів, на коренях і пнях живих і мертвих листяних дерев, особливо яблуні, бука, ясена, клена, берези, липи, верби й горобини, рідше на хвойних, як-от ялина та ялиця; у Скелястих горах звичайний на осиці та ялині. Це слабкий паразит дерев, уже ослаблених пошкодженнями або іншими інфекціями, а також сапротроф на мертвій деревині, що спричиняє білу гниль. У Центральній Європі дуже поширений від низовин до гір і типовий для придорожніх, паркових і садових дерев; у Великій Британії та Ірландії місцями звичайний, особливо на буку на відкритих трав'янистих ділянках і в живоплотах на лужному ґрунті. Плодові тіла з'являються з серпня до листопада, переважно з вересня, і можуть зберігатися до грудня.",
+      "uses": "Вживати в їжу не рекомендується. Довгий час гриб вважали їстівним, і молоді шапинки їли маринованими в оцті або в гуляші, проте він спричиняв отруєння з блюванням і діареєю приблизно через десять годин після їжі, особливо коли його вживали з алкоголем, а в чутливих людей може викликати шлункові розлади. Сучасна література відносить його до неїстівних або отруйних грибів.",
+      "confusion": "Опеньок осінній справжній (Armillaria mellea) та інші опеньки (Armillaria) ростуть подібними пучками в той самий сезон, але мають білий споровий порошок, білуваті пластинки й м'якуш, дрібніші лусочки й не мають грубих відстовбурчених лусочок на ніжці. Pholiota squarrosoides має блідішу шапинку, клейку між лусочками, білий м'якуш, не має часникового чи редькового запаху й має дрібніші спори. Pholiota aurivella має масну або слизьку шапинку з притиснутими лусочками, і в Pholiota adiposa та Pholiota cerifera лусочки теж радше притиснуті. Pholiota flammans яскраво-жовта або оранжево-жовта й росте на опалій деревині хвойних. Hemipholiota populnea значно блідіша, бежево-сіра, гірка й росте на тополях.",
+      "notes": "Як повільна біла гниль живих дерев він може серйозно пошкоджувати плодові та вуличні дерева й робить їхню деревину крихкою. Плодові тіла містять сполуки скварозидин і пініллідин, які пригнічують фермент ксантиноксидазу. Вони є важливим кормом для вивірки звичайної, а плодові тіла, що розкладаються, використовують плодові мушки роду Drosophila."
+    },
+    "zh": {
+      "description": "一種醒目的有褶菌，在活樹與枯樹的基部成密集叢生；乾燥的稻草黃色菌蓋與菌柄均覆有粗糙、反翹的鏽褐色鱗片。它是衰弱樹木上的弱寄生菌，也是引起白腐的枯木分解者，在歐洲與北美洲各地都很常見。",
+      "cap": "菌蓋直徑3–12厘米，偶可達15厘米。初時圓形至鐘形，後漸成凸鏡形，最後近平展，有時具低矮的臍突；邊緣長期內捲，常懸掛菌幕殘片。表面乾燥，從不黏滑，淡黃色至稻草黃色或黃赭色，密布粗糙、尖銳、反翹的鏽褐色至紅褐色鱗片，鱗片向中央顏色漸深，大致排成同心環。",
+      "hymenium": "菌褶密集、窄，直生至稍延生，有時彎生。初時淡黃色至灰黃色，常帶橄欖色或綠色色調，隨孢子成熟變為鏽褐色至肉桂色，從不呈白色。幼小子實體的菌褶被蛛網狀的內菌幕覆蓋。擔子棒狀，具四孢，16–25 × 5–7 μm；緣囊狀體棒狀至紡錘形。",
+      "stipe": "菌柄長4–12厘米，偶達15厘米或更長，粗0.5–1.5厘米，圓柱形，常向基部漸細，堅實，纖維質。菌環以上平滑，淡黃色；菌環纖維狀、絨毛狀、撕裂，常退化為環帶。菌環以下密布與菌蓋相似的反捲鏽褐色鱗片，基部隨年齡變為鏽褐色至紅褐色。",
+      "flesh": "菌肉淡黃色至白黃色，堅實，近菌柄基部變為鏽褐色。氣味獨特，但不同作者描述不一：像蘿蔔、大蒜，或像大蒜與檸檬的混合，或像腐木。味道似蘿蔔，溫和至略苦。",
+      "sporePrint": "鏽褐色至肉桂褐色。孢子6–8 × 3.5–5 μm，橢圓形，光滑，具小的頂端芽孔，非澱粉質。",
+      "habitat": "在活的與死的闊葉樹的樹幹基部、樹根和樹樁上成密集、常為大型的叢生，尤其是蘋果、山毛櫸、白蠟樹、槭樹、樺樹、椴樹、柳樹和花楸，較少見於雲杉、冷杉等針葉樹；在落磯山脈常見於顫楊和雲杉上。它是已因傷害或其他感染而衰弱的樹木上的弱寄生菌，也以枯木分解者的方式生活，引起白腐。在中歐從低地到山區都非常常見，典型地生於路旁、公園和果園的樹上；在英國和愛爾蘭局部常見，特別是在鹼性土壤上開闊草地和樹籬中的山毛櫸上。子實體於8月至11月出現，主要自9月起，可持續到12月。",
+      "uses": "不建議食用。它長期被視為可食，幼嫩菌蓋曾用醋醃漬或燉煮食用，但曾引起中毒，於餐後約十小時出現嘔吐和腹瀉，尤其是與酒精同食時，敏感者也可能出現腸胃不適。現今文獻將其列為不可食或有毒。",
+      "confusion": "蜜環菌（Armillaria mellea）及其他Armillaria屬物種在同一季節長成相似的叢生，但它們的孢子印為白色，菌褶與菌肉近白色，鱗片較細，菌柄上沒有粗糙反翹的鱗片。Pholiota squarrosoides菌蓋較淡，鱗片之間黏，菌肉白色，沒有大蒜或蘿蔔氣味，孢子較小。Pholiota aurivella菌蓋油膩至黏滑，鱗片平伏；Pholiota adiposa與Pholiota cerifera的鱗片也較平伏。Pholiota flammans鮮黃色至橙黃色，生於倒伏的針葉樹木材上。Hemipholiota populnea顏色淡得多，米灰色，味苦，生於楊樹上。",
+      "notes": "作為活樹上進展緩慢的白腐菌，它可嚴重損害果樹和行道樹，並使其木材變脆。子實體含有化合物squarrosidine與pinillidine，可抑制黃嘌呤氧化酶。它們是紅松鼠的重要食物，腐爛中的子實體則被果蠅屬（Drosophila）的果蠅利用。"
+    }
+  },
+  "synonyms": [
+    "Agaricus squarrosus",
+    "Lepiota squarrosa",
+    "Dryophila squarrosa",
+    "Fungus squarrosus",
+    "Stropharia squarrosa",
+    "Agaricus floccosus",
+    "Hypodendrum floccosum",
+    "Agaricus reflexus",
+    "Agaricus squarrosus var. reflexus",
+    "Gymnopus reflexus",
+    "Agaricus floccosus var. reflexus",
+    "Pholiota squarrosa subsp. reflexa",
+    "Agaricus squarrosus var. terrestris",
+    "Agaricus squarrosus var. truncigenus",
+    "Agaricus squarrosus var. muelleri",
+    "Pholiota muelleri",
+    "Pholiota squarrosa var. muelleri",
+    "Agaricus scandinaviae",
+    "Agaricus verruculosus",
+    "Agaricus squarrosus var. verruculosus",
+    "Dryophila squarrosa var. verruculosa",
+    "Pholiota squarrosa var. verruculosa",
+    "Dryophila verruculosa",
+    "Pholiota squarrosa f. annulosa"
+  ],
+  "reserved": false
 }
 ];

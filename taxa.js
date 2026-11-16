@@ -290,6 +290,9 @@ export const TAXA = {
     rank: "genus",
     sk: "trúdnik"
   },
+  Cerioporus: {
+    rank: "genus"
+  },
   Picipes: {
     rank: "genus"
   },
@@ -363,6 +366,9 @@ export const TAXA = {
   Hypholoma: {
     rank: "genus",
     sk: "strapcovka"
+  },
+  Pholiota: {
+    rank: "genus"
   },
   Agaricus: {
     rank: "genus",
@@ -797,6 +803,9 @@ export const TAXA = {
     rank: "genus",
     sk: "sliznačka"
   },
+  Mucidula: {
+    rank: "genus"
+  },
   Lactifluus: {
     rank: "genus",
     sk: "rýdzik"
@@ -1013,7 +1022,8 @@ export const TAXA = {
     rank: "family"
   },
   Fomitopsis: {
-    rank: "genus"
+    rank: "genus",
+    sk: "práchnovček"
   },
   Flammulina: {
     rank: "genus"
