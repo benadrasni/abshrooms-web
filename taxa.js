@@ -254,6 +254,9 @@ export const TAXA = {
     rank: "genus",
     sk: "hlivuľa"
   },
+  Tricholomopsis: {
+    rank: "genus"
+  },
   Porotheleaceae: {
     rank: "family",
     sk: "kráterovčekovité"
