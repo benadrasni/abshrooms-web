@@ -558,6 +558,10 @@ export const TAXA = {
     rank: "genus",
     sk: "hodvábnica"
   },
+  Clitopilus: {
+    rank: "genus",
+    sk: "machovka"
+  },
   Phallaceae: {
     rank: "family",
     lv: "zemestauku dzimta",
