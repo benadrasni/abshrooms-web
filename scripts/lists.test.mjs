@@ -1,11 +1,11 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { CATALOG, findSpecies, listSpecies, parse, viewModel, visibleListIds } from '../catalog.js';
+import { CATALOG, LANGS, findSpecies, listSpecies, parse, viewModel, visibleListIds } from '../catalog.js';
 import { LISTS } from '../lists.js';
 
 test('the home page shows the lists for that language', () => {
-  assert.deepEqual(visibleListIds('en'), ['us-state-mushrooms', 'deadly-poisonous']);
-  assert.deepEqual(visibleListIds('sk'), ['deadly-poisonous']);
+  assert.deepEqual(visibleListIds('en'), ['us-state-mushrooms', 'choice-edible', 'deadly-poisonous']);
+  assert.deepEqual(visibleListIds('sk'), ['choice-edible', 'deadly-poisonous']);
 
   const home = viewModel({ lang: 'en', view: 'home', search: '' });
   const recent = home.html.indexOf('Recently added');
@@ -13,16 +13,20 @@ test('the home page shows the lists for that language', () => {
   const browse = home.html.indexOf('>Browse<');
   assert.ok(recent >= 0 && lists > recent && browse > lists);
   assert.match(home.html, /US state mushrooms/);
+  assert.match(home.html, /Choice edibles/);
   assert.match(home.html, /Deadly poisonous/);
-  assert.match(home.html, /class="list-line" style="--list-n: 2"/);
+  assert.match(home.html, /class="list-line" style="--list-n: 3"/);
   assert.match(home.html, /href="\/list\/us-state-mushrooms\/"/);
+  assert.match(home.html, /href="\/list\/choice-edible\/"/);
   assert.match(home.html, /href="\/list\/deadly-poisonous\/"/);
   assert.doesNotMatch(home.html, /Mushroom of the year/);
 
   const slovak = viewModel({ lang: 'sk', view: 'home', search: '' });
   assert.match(slovak.html, /Zoznamy húb/);
+  assert.match(slovak.html, /Výborné/);
   assert.match(slovak.html, /Smrteľne jedovaté/);
-  assert.match(slovak.html, /class="list-line" style="--list-n: 1"/);
+  assert.match(slovak.html, /class="list-line" style="--list-n: 2"/);
+  assert.match(slovak.html, /href="\/sk\/list\/choice-edible\/"/);
   assert.match(slovak.html, /href="\/sk\/list\/deadly-poisonous\/"/);
   assert.doesNotMatch(slovak.html, /Huby amerických štátov/);
   assert.doesNotMatch(slovak.html, /us-state-mushrooms/);
@@ -54,6 +58,27 @@ test('the deadly list matches species marked deadly', () => {
   const listed = listSpecies('deadly-poisonous').map((row) => row.name).sort();
   const marked = CATALOG.filter((species) => species.edibility === 'deadly').map((species) => species.name).sort();
   assert.deepEqual(listed, marked);
+});
+
+test('the choice list is every language and every choice species', () => {
+  const list = LISTS.find((item) => item.id === 'choice-edible');
+  assert.ok(list);
+  assert.equal(list.type, 'species');
+  assert.deepEqual(list.locales, ['*']);
+  assert.equal(list.coverSpecies, 'Boletus edulis');
+  for (const lang of LANGS) {
+    assert.ok(list.titles[lang.code] && list.titles[lang.code].trim(), lang.code);
+    assert.ok(list.descriptions[lang.code] && list.descriptions[lang.code].trim(), lang.code);
+  }
+  assert.deepEqual(Object.keys(list.titles).sort(), LANGS.map((lang) => lang.code).sort());
+  const listed = listSpecies('choice-edible').map((row) => row.name);
+  const marked = CATALOG.filter((species) => species.edibility === 'choice').map((species) => species.name).sort();
+  assert.deepEqual(listed, marked);
+  const page = viewModel({ lang: 'ja', view: 'list', key: 'choice-edible', search: '' });
+  assert.match(page.title, /^優秀な食用キノコ — /);
+  assert.match(page.html, /Boletus edulis/);
+  assert.match(page.html, /Sparassis crispa/);
+  assert.equal(page.html.indexOf('Agaricus arvensis') < page.html.indexOf('Sparassis crispa'), true);
 });
 
 test('region lists sort by place and year lists put the newest year first', () => {
