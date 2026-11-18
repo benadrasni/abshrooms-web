@@ -320,10 +320,12 @@ export const TAXA = {
     sk: "sírovec"
   },
   Meripilaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "vejárovcovité"
   },
   Meripilus: {
-    rank: "genus"
+    rank: "genus",
+    sk: "vejárovec"
   },
   Physalacriaceae: {
     rank: "family",
