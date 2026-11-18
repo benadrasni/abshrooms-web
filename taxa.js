@@ -1000,6 +1000,12 @@ export const TAXA = {
   Chorioactis: {
     rank: "genus"
   },
+  Pyronemataceae: {
+    rank: "family"
+  },
+  Aleuria: {
+    rank: "genus"
+  },
   Aspropaxillus: {
     rank: "genus",
     sk: "čechratec"
@@ -1017,6 +1023,9 @@ export const TAXA = {
     rank: "genus"
   },
   Aureoboletus: {
+    rank: "genus"
+  },
+  Strobilomyces: {
     rank: "genus"
   },
   Sarcodontia: {

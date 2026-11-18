@@ -83551,7 +83551,7 @@ export const CATALOG = [
       ko: '보라다리깔때기버섯'
     },
     names: {
-      zh: ["紫柄杯傘", "Lepista saeva"],
+      zh: [],
       en: ["blue-leg"],
       es: ['cabo azul', 'inverniza'],
       ru: ["синеножка","леписта двухцветная"],
@@ -186783,5 +186783,1941 @@ export const CATALOG = [
     "Agaricus aequivocus (Holmsk.) E.H.L. Krause"
   ],
   "reserved": false
+},
+{
+  "name": "Aleuria aurantia",
+  "author": "(Pers.) Fuckel",
+  "family": "Pyronemataceae",
+  "genus": "Aleuria",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Pyronemataceae",
+    "Aleuria"
+  ],
+  "summary": [
+    "Pezizales",
+    "Pyronemataceae",
+    "Aleuria"
+  ],
+  "edibility": "edible",
+  "hymenium": "smooth",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow"
+  ],
+  "capFrom": 3.0,
+  "capTo": 6.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "label": {
+    "ar": "فطر قشر البرتقال",
+    "bg": null,
+    "cs": "mísenka oranžová",
+    "da": "almindelig orangebæger",
+    "de": "Gemeiner Orangebecherling",
+    "en": "orange peel fungus",
+    "es": "cáscara de naranja",
+    "et": "suur punaliudik",
+    "fa": null,
+    "fi": "oranssimaljakas",
+    "fr": "pézize orangée",
+    "he": null,
+    "hi": null,
+    "hr": "narančastocrvena zdjeličarka",
+    "hu": "narancsszínű csészegomba",
+    "id": null,
+    "it": null,
+    "ja": "ヒイロチャワンタケ",
+    "ko": "들주발버섯",
+    "lt": "oranžinis lėkščiagrybis",
+    "lv": "zeltainā aleirija",
+    "nl": "grote oranje bekerzwam",
+    "no": "oransjebeger",
+    "pl": "dzieżka pomarańczowa",
+    "pt": null,
+    "ro": null,
+    "ru": "Алеврия оранжевая",
+    "sk": "tanierovka oranžová",
+    "sl": "oranžna latvica",
+    "sr": null,
+    "sv": "mönjeskål",
+    "tr": null,
+    "uk": "Алеврія оранжева",
+    "zh": "橙黄网孢盘菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "kustřebka oranžová"
+    ],
+    "da": [],
+    "de": [
+      "Orangeroter Becherling",
+      "Gemeiner Orange-Becherling"
+    ],
+    "en": [
+      "orange-peel fungus",
+      "orange cup"
+    ],
+    "es": [],
+    "et": [
+      "suur kuldliudik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "narancsvörös csészegomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "ベニチャワンタケ"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [
+      "oranžā spulgaine"
+    ],
+    "nl": [
+      "oranje bekerzwam"
+    ],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "пецица оранжевая"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "mönjeröd skålsvamp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [
+      "https://ar.wikipedia.org/wiki/%D9%81%D8%B7%D8%B1_%D9%82%D8%B4%D8%B1_%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "bg": [],
+    "cs": [
+      "https://botany.cz/cs/aleuria-aurantia/",
+      "https://cs.wikipedia.org/wiki/M%C3%ADsenka_oran%C5%BEov%C3%A1",
+      "https://www.gbif.org/species/5258678",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.gbif.org/species/5258678"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Gemeiner_Orangebecherling",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=473871",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=473871",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordId=473871",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://www.first-nature.com/fungi/aleuria-aurantia.php",
+      "https://www.mykoweb.com/CAF/species/Aleuria_aurantia.html",
+      "https://www.nahuby.sk/atlas-hub/Aleuria-aurantia/tanierovka-oranzova/misenka-oranzova/ID736",
+      "https://botany.cz/cs/aleuria-aurantia/",
+      "https://en.wikipedia.org/wiki/Aleuria_aurantia",
+      "https://www.inaturalist.org/taxa/48716-Aleuria-aurantia"
+    ],
+    "es": [
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Suur_punaliudik",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Oranssimaljakas",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.gbif.org/species/5258678",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Naran%C4%8Dastocrvena_zdjeli%C4%8Darka",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://www.gbif.org/species/5258678"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Narancssz%C3%ADn%C5%B1_cs%C3%A9szegomba",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.gbif.org/species/5258678"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames"
+    ],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Oran%C5%BEinis_l%C4%97k%C5%A1%C4%8Diagrybis",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://www.gbif.org/species/5258678"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Grote_oranje_bekerzwam",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "no": [
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Dzie%C5%BCka_pomara%C5%84czowa",
+      "https://www.gbif.org/species/5258678",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%B2%D1%80%D0%B8%D1%8F_%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%B0%D1%8F",
+      "https://www.gbif.org/species/5258678",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://mycoweb.narod.ru/fungi/Aleuria_aurantia.html"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Aleuria-aurantia/tanierovka-oranzova/misenka-oranzova/ID736",
+      "https://botany.cz/cs/aleuria-aurantia/",
+      "https://www.gbif.org/species/5258678",
+      "https://www.wikidata.org/wiki/Q1251715",
+      "https://fotonet.sk/atlas/fungi_huby/aleuria-aurantia"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/M%C3%B6njesk%C3%A5l",
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%B2%D1%80%D1%96%D1%8F_%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%B0",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ],
+    "zh": [
+      "https://www.gbif.org/species/5258678",
+      "https://api.gbif.org/v1/species/5258678/vernacularNames",
+      "https://www.wikidata.org/wiki/Q1251715"
+    ]
+  },
+  "added": "2026-11-18",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/Aleuria_aurantia@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/Aleuria_aurantia@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Aleuria aurantia.png” (from ~/Downloads) is a JPEG/JFIF illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption or plate number. It is AI art, not a documented historical botanical plate. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/Aleuria_aurantia@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa1.webp",
+      "author": "bertr_nd",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/346438237"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa2.webp",
+      "author": "conifernyc",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/100466342"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa3.webp",
+      "author": "Nova Patch",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/photos/105990790"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa4.webp",
+      "author": "Gabriele Vaudano",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/53576524"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa5.webp",
+      "author": "Matt Cohen and Elizabeth Hargrave",
+      "license": "CC BY-NC 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "source": "https://www.inaturalist.org/photos/67335796"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Pyronemataceae/Aleuria_aurantia/Aleuria_aurantia@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pyronemataceae/Aleuria_aurantia/Aleuria_aurantia@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (alpha only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa1.webp",
+      "author": "bertr_nd",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/346438237"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa2.webp",
+      "author": "conifernyc",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/100466342"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa3.webp",
+      "author": "Nova Patch",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/105990790"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa4.webp",
+      "author": "Gabriele Vaudano",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/53576524"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Pyronemataceae/Aleuria_aurantia/aa5.webp",
+      "author": "Matt Cohen and Elizabeth Hargrave",
+      "license": "CC BY-NC 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/67335796"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر قشر البرتقال فطر كأسي بلا ساق يبدو كقشور برتقال ملقاة على تربة عارية أو حصوية، ولا سيما على طول ممرات الغابات. تكون الكؤوس في البداية شبه كروية، ثم متموجة، وكثيرًا ما تكون مشقوقة وملتوية. الوجه الداخلي لامع، برتقالي إلى برتقالي أحمر قاتم؛ والخارج أبهت ومكسو زغبًا دقيقًا. وهو شائع في أوروبا ويوجد أيضًا في أمريكا الشمالية، عادة في أواخر الصيف والخريف، وفي بعض المناطق الأدفأ في موعد لاحق.",
+      "cap": "لا توجد قبعة بالمعنى المعتاد: الجسم الثمري كأس (أبوثيثيوم)، عرضه عادة 3–6 سم، وقد يبلغ 10 سم أحيانًا، وارتفاعه عادة 2–4 سم. الكؤوس الفتية شبه كروية ثم تنفتح إلى أطباق ذات حافة متموجة أو مشقوقة؛ وقد تتسطح الأقدم أو تتفصص أو تنقلب فتبدو أكثر شبهًا بالقشر. يجلس الكأس على التربة ولا ساق ظاهرة له.",
+      "hymenium": "السطح الداخلي الخصب أملس ولامع، من البرتقالي الباهت إلى البرتقالي الأحمر القاتم. تتكون الأبواغ على هذا البطانة الداخلية وقد تندفع في سحابة مرئية عند إزعاج الكأس. طبعة الأبواغ بيضاء.",
+      "stipe": "لا ساق ظاهرة. لا يتصل الكأس بالتربة إلا بخيوط المشيجة. الوجه الخارجي العقيم أبهت من الداخل ومكسو زغبًا أبيض دقيقًا جدًا.",
+      "flesh": "اللحم رقيق وهش ومائي، مبيض إلى باهت، بلا رائحة أو طعم مميزين.",
+      "sporePrint": "بيضاء.",
+      "habitat": "رمّي للتربة المضطربة، غالبًا الحصوية أو الرملية أو الطينية، ولا سيما بجانب ممرات الغابات وطرق الجر والمنحدرات وحواف الطرق، وأحيانًا في الحدائق العامة والبساتين أو المروج. يظهر عادة في مجموعات أو كتل ملتحمة. في بريطانيا وأيرلندا يُوجد غالبًا من أغسطس إلى أوائل نوفمبر؛ وقد يظهر في مواضع أخرى أبكر أو أَأخر، وفي كاليفورنيا من أواخر الخريف إلى أوائل الربيع.",
+      "uses": "هذا واحد من القليل من الفطور الكأسية الشائعة التي تُعدّ صالحة للأكل، لكن اللحم رقيق وبلا طعم ونادرًا ما يُجمع، ربما لتلوين سلطة فحسب. معظم الفطور الكأسية الأخرى سامة بدرجة ما، أو لا تؤكل إلا بعد طبخ وافٍ، لذا لا ينبغي أكل كؤوس برتقالية أو حمراء مشابهة لمجرد الشبه. اطبخ الفطور البرية دائمًا؛ ولا تعتمد على هذا النص وحده.",
+      "confusion": "كؤوس الجنّ القرمزية (Sarcoscypha austriaca وS. coccinea) حمراء زاهية لا برتقالية، وتنمو على الخشب الميت، عادة في أواخر الشتاء والربيع. الكأس البرتقالي الأصغر Melastiza chateri له أشعار داكنة على الحافة. بعض أنواع Otidea أذنية الشكل ومشقوقة من جانب واحد. Caloscypha fulgens نوع ربيعي لغابات المخروطيات قد تزرقّ كؤوسه إلى أخضر مزرق. لا تعدّ فطورًا كأسية برتقالية أخرى صالحة للأكل بمجرد التشابه.",
+      "notes": "الاسم المقبول هو Aleuria aurantia (Pers.) Fuckel، استنادًا إلى Peziza aurantia Pers. ينتمي النوع إلى الفصيلة Pyronemataceae لا إلى Pezizaceae. استُخدم الاسم التاريخي Peziza coccinea أيضًا لكؤوس الجنّ القرمزية؛ وفي هذا الدليل يُعدّ النويع Peziza coccinea subsp. auctior مرادفًا بالفعل لـ Microstoma protractum. اللوحة رسم مولَّد بالذكاء الاصطناعي، وليست شكلًا تاريخيًا منشورًا.",
+      "names": [],
+      "sourceUrls": [
+        "https://ar.wikipedia.org/wiki/%D9%81%D8%B7%D8%B1_%D9%82%D8%B4%D8%B1_%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "فطر قشر البرتقال"
+    },
+    "bg": {
+      "description": "Aleuria aurantia е седяща чашковидна гъба, която изглежда като захвърлени портокалови кори върху гола или чакълеста почва, особено край горски пътеки. Чашките отначало са почти кълбовидни, после вълнисти, често разцепени и усукани. Вътрешната страна е лъскава, оранжева до наситено оранжево-червена; външната е по-бледа и фино кадифена. В Европа видът е обичаен и се среща също в Северна Америка, обикновено в края на лятото и през есента, в по-топли райони и по-късно.",
+      "cap": "Шапка в обичайния смисъл няма: плодното тяло е чашка (апотеций), обикновено широка 3–6 cm, понякога до 10 cm и типично висока 2–4 cm. Младите чашки са почти кълбовидни, след това се отварят в купички с вълнист или разцепен ръб; по-старите могат да се сплескат, да станат наделени или да се обърнат и още повече да наподобяват кора. Чашката седи на почвата и няма видимо пънче.",
+      "hymenium": "Плодната вътрешна повърхност е гладка и лъскава, от бледооранжева до наситено оранжево-червена. Спорите се образуват върху тази вътрешна стена и при разклащане на чашката могат да излетят във видимо облаче. Споровият прах е бял.",
+      "stipe": "Видимо пънче няма. Чашката е закрепена към почвата само с мицелни нишки. Стерилната външна страна е по-бледа от вътрешността и е покрита с много фин белезникав мъх.",
+      "flesh": "Месото е тънко, крехко и воднисто, белезникаво до бледо, без характерен мирис и вкус.",
+      "sporePrint": "Бял.",
+      "habitat": "Сапротроф на нарушени, често чакълести, песъчливи или глинести почви, особено край горски пътеки, извозни пътища, откоси и крайпътни ивици, понякога и в паркове, градини или тревни площи. Плодните тела обикновено се появяват на групи или срастнали купчини. В Великобритания и Ирландия най-често от август до началото на ноември; другаде може да се появи по-рано или по-късно, в Калифорния от късна есен до ранна пролет.",
+      "uses": "Това е една от малкото обичайни чашковидни гъби, смятани за ядливи, но месото е тънко и безвкусно и рядко се събира, може би само за оцветяване на салата. Повечето други чашковидни гъби са в известна степен отровни или се ядат само след внимателно сваряване, затова подобни оранжеви или червени чашки не бива да се ядат само заради приликата. Винаги гответе дивите гъби; не разчитайте само на този текст.",
+      "confusion": "Аленочервените елфски чаши (Sarcoscypha austriaca и S. coccinea) са яркочервени, а не оранжеви, и растат върху мъртва дървесина, обикновено в края на зимата и през пролетта. По-малката оранжева чашка Melastiza chateri има тъмни власинки по ръба. Някои видове Otidea са уховидни и разцепени от едната страна. Caloscypha fulgens е пролетен вид на иглолистни гори, чиито чашки могат да посиняват зеленикаво-синьо. Други оранжеви чашковидни гъби не бива да се смятат за ядливи само заради приликата.",
+      "notes": "Приетото име е Aleuria aurantia (Pers.) Fuckel, основано на Peziza aurantia Pers. Видът принадлежи към семейство Pyronemataceae, а не към Pezizaceae. Историческото име Peziza coccinea е използвано и за алените чаши; в този каталог подвидът Peziza coccinea subsp. auctior вече е синоним на Microstoma protractum. Таблото е илюстрация, създадена с изкуствен интелект, а не историческа публикувана рисунка.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Mísenka oranžová je beznohá miskovitá houba, která vypadá jako odhozené pomerančové slupky na holé nebo štěrkovité půdě, zejména podél lesních cest. Misky jsou zprvu téměř kulovité, později zvlněné, často roztržené a zkroucené. Vnitřní strana je lesklá, oranžová až sytě oranžovočervená; vnější je bledší a jemně plstnatá. V Evropě je hojná a vyskytuje se i v Severní Americe, typicky koncem léta a na podzim, v teplejších oblastech i později.",
+      "cap": "Klobouk v obvyklém smyslu chybí: plodnice je miska (apothecium), obvykle 3–6 cm v průměru, výjimečně až 10 cm, a typicky 2–4 cm vysoká. Mladé plodnice jsou téměř kulovité, poté se otevírají v misky se zvlněným nebo roztrženým okrajem; starší mohou být zploštělé, laločnaté, nebo se obrátí naruby a ještě více připomínají slupku. Plodnice sedí na půdě a nemá viditelný třeň.",
+      "hymenium": "Plodná vnitřní strana je hladká a lesklá, od bledě oranžové po sytě oranžovočervenou. Výtrusy se tvoří na tomto vnitřním povrchu a při vyrušení misek mohou vyletět ve viditelném oblaku. Výtrusný prach je bílý.",
+      "stipe": "Viditelný třeň chybí. Miska je k půdě přichycena jen vlákny podhoubí. Neplodná vnější strana je bledší než vnitřek a pokrytá velmi jemnou bělavou plstí.",
+      "flesh": "Dužnina je tenká, křehká a vodnatá, bělavá až bledá, bez výrazné vůně a chuti.",
+      "sporePrint": "Bílý.",
+      "habitat": "Rozkládá odumřelou organickou hmotu na narušené, často štěrkovité, písčité nebo jílovité půdě, zejména u lesních cest, přibližovacích cest, na svazích a okrajích cest, někdy i v parcích, zahradách či na trávnících. Roste obvykle ve skupinách nebo srostlých shlucích. V Británii a Irsku se nejčastěji nachází od srpna do začátku listopadu; jinde může plodit dříve nebo později, v Kalifornii od pozdního podzimu do časného jara.",
+      "uses": "Patří k nemnoha běžným miskovitým houbám považovaným za jedlé, dužnina je však tenká a mdlá a sbírá se zřídka, snad jako barevná ozdoba do salátu. Většina ostatních miskovitých hub je v jisté míře jedovatá, nebo se jedí až po důkladném uvaření, proto podobné oranžové či červené misky nelze jíst jen pro podobnost. Divoké houby vždy vařte; nespoléhejte jen na tento text.",
+      "confusion": "Ohnivce (Sarcoscypha austriaca a S. coccinea) jsou jasně šarlatově červené, nikoli oranžové, a rostou na odumřelém dřevě, typicky koncem zimy a na jaře. Menší oranžová mistička Melastiza chateri má na okraji tmavé chloupky. Některé ouška (Otidea) jsou ouškovitá a na jedné straně rozštěpená. Caloscypha fulgens je jarní druh jehličnatých lesů, jehož misky mohou při otlačení sinat do zelenomodra. Jiné oranžové miskovité houby nelze považovat za jedlé jen pro podobnost.",
+      "notes": "Přijatý název je Aleuria aurantia (Pers.) Fuckel, založený na jménu Peziza aurantia Pers. Patří do čeledi Pyronemataceae, nikoli do čeledi Pezizaceae. Historické jméno Peziza coccinea se používalo i pro ohnivce; v tomto katalogu je poddruh Peziza coccinea subsp. auctior již synonymem druhu Microstoma protractum. Tabule je ilustrace vytvořená umělou inteligencí, nikoli historická publikovaná kresba.",
+      "names": [
+        "kustřebka oranžová"
+      ],
+      "sourceUrls": [
+        "https://botany.cz/cs/aleuria-aurantia/",
+        "https://cs.wikipedia.org/wiki/M%C3%ADsenka_oran%C5%BEov%C3%A1",
+        "https://www.gbif.org/species/5258678",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "mísenka oranžová"
+    },
+    "da": {
+      "description": "Almindelig orangebæger er en stilkløs bægersvamp, der ligner smidte appelsinskaller på bar eller gruset jord, især langs skovstier. Bægrene er først næsten kugleformede, senere bølgede, ofte revnede og vridne. Indersiden er blank, orange til dybt orangerød; ydersiden er blegere og fint dunet. Den er almindelig i Europa og forekommer også i Nordamerika, typisk sent om sommeren og om efteråret, senere i nogle varmere egne.",
+      "cap": "Der er ingen hat i sædvanlig forstand: frugtlegemet er et bæger (apothecium), sædvanligvis 3–6 cm bredt, undertiden op til 10 cm, og typisk 2–4 cm højt. Unge bægre er næsten kugleformede, åbner sig derefter til skåle med bølget eller revnet rand; ældre kan flades ud, blive lappede eller vendes vrangen ud og ligne skaller endnu mere. Bægret sidder på jorden og har ingen synlig stok.",
+      "hymenium": "Den fertile inderside er glat og blank, fra lysorange til dybt orangerød. Sporerne dannes på denne indre flade og kan puste ud i en synlig sky, når et bæger forstyrres. Sporeaftrykket er hvidt.",
+      "sporePrint": "Hvidt.",
+      "stipe": "Der er ingen synlig stok. Bægret er kun fæstnet til jorden med myceltråde. Den sterile yderside er blegere end indersiden og dækket af et meget fint hvidligt dun.",
+      "flesh": "Kødet er tyndt, skørt og vandigt, hvidligt til blegt, uden særlig lugt eller smag.",
+      "habitat": "En saprotrof på forstyrret, ofte gruset, sandet eller leret jord, især langs skovstier, skovveje, skråninger og vejrabatter, og undertiden i parker, haver eller plæner. Den frugtificerer som regel i grupper eller sammenvoksede klynger. I Storbritannien og Irland findes den oftest fra august til begyndelsen af november; andetsteds kan den komme tidligere eller senere, i Californien fra det sene efterår til det tidlige forår.",
+      "uses": "Dette er en af de få almindelige bægersvampe, der regnes for spiselige, men kødet er tyndt og smagløst, og den samles sjældent, måske kun for at give farve til en salat. De fleste andre bægersvampe er i nogen grad giftige, eller spises først efter grundig kogning, så lignende orange eller røde bægre bør ikke spises blot på grund af ligheden. Kog altid vilde svampe; stol ikke alene på denne tekst.",
+      "confusion": "Scharlagensrøde alfebægre (Sarcoscypha austriaca og S. coccinea) er klart røde, ikke orange, og vokser på dødt ved, typisk sent om vinteren og om foråret. Det mindre orange bæger Melastiza chateri har mørke hår på randen. Nogle Otidea-arter er øreformede og kløvede langs den ene side. Caloscypha fulgens er en forårsart i nåleskov, hvis bægre kan anløbe blågrønt. Andre orange bægersvampe bør ikke anses for spiselige blot på grund af ligheden.",
+      "notes": "Det accepterede navn er Aleuria aurantia (Pers.) Fuckel, baseret på Peziza aurantia Pers. Arten hører til familien Pyronemataceae, ikke Pezizaceae. Det historiske navn Peziza coccinea er også brugt om alfebægre; i dette katalog er underarten Peziza coccinea subsp. auctior allerede et synonym for Microstoma protractum. Tavlen er en AI-genereret illustration, ikke en historisk offentliggjort figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.gbif.org/species/5258678"
+      ],
+      "label": "almindelig orangebæger"
+    },
+    "de": {
+      "description": "Der Gemeine Orangebecherling ist ein stielloser Becherpilz, der wie weggeworfene Orangenschalen auf kahlem oder kiesigem Boden aussieht, besonders an Waldwegen. Die Becher sind zunächst fast kugelig, später wellig, oft eingerissen und verdreht. Die Innenseite ist glänzend orange bis tief orangerot, die Außenseite blasser und fein filzig. In Europa ist er häufig und kommt auch in Nordamerika vor, typischerweise im Spätsommer und Herbst, in wärmeren Gebieten auch später.",
+      "cap": "Einen Hut im üblichen Sinn gibt es nicht: Der Fruchtkörper ist ein Becher (Apothecium), meist 3–6 cm breit, gelegentlich bis 10 cm, und typischerweise 2–4 cm hoch. Junge Becher sind fast kugelig, öffnen sich dann zu Schalen mit welligem oder eingerissenem Rand; ältere können sich abflachen, lappig werden oder sich umstülpen und noch mehr einer Schale ähneln. Der Becher sitzt auf dem Boden und hat keinen sichtbaren Stiel.",
+      "hymenium": "Die fruchtbare Innenseite ist glatt und glänzend, von blassorange bis tief orangerot. Die Sporen entstehen auf dieser Innenfläche und können bei Berührung des Bechers als sichtbare Wolke entweichen. Das Sporenpulver ist weiß.",
+      "stipe": "Ein sichtbarer Stiel fehlt. Der Becher ist nur durch Myzelfäden mit dem Boden verbunden. Die unfruchtbare Außenseite ist blasser als das Innere und mit einem sehr feinen weißlichen Filz bedeckt.",
+      "flesh": "Das Fleisch ist dünn, brüchig und wässrig, weißlich bis blass, ohne besonderen Geruch oder Geschmack.",
+      "sporePrint": "Weiß.",
+      "habitat": "Ein Saprobiont gestörter, oft kiesiger, sandiger oder lehmiger Böden, besonders an Waldwegen, Forststraßen, Böschungen und Wegrändern, manchmal auch in Parks, Gärten oder Rasenflächen. Er fruktifiziert meist in Gruppen oder verwachsenen Büscheln. In Großbritannien und Irland findet man ihn am häufigsten von August bis Anfang November; andernorts kann er früher oder später erscheinen, in Kalifornien vom Spätherbst bis zum zeitigen Frühjahr.",
+      "uses": "Er gehört zu den wenigen häufigen Becherpilzen, die als essbar gelten, das Fleisch ist jedoch dünn und fad und wird selten gesammelt, allenfalls als Farbtupfer im Salat. Die meisten anderen Becherpilze sind in irgendeinem Maß giftig oder werden erst nach gründlichem Kochen gegessen, daher sollten ähnliche orange oder rote Becher nicht allein wegen der Ähnlichkeit verzehrt werden. Wilde Pilze stets kochen; verlassen Sie sich nicht allein auf diesen Text.",
+      "confusion": "Zinnoberrote Kelchbecherlinge (Sarcoscypha austriaca und S. coccinea) sind leuchtend rot statt orange und wachsen auf Totholz, typischerweise im Spätwinter und Frühjahr. Der kleinere orange Becher Melastiza chateri hat dunkle Härchen am Rand. Einige Otidea-Arten sind ohrförmig und an einer Seite gespalten. Caloscypha fulgens ist eine Frühlingsart der Nadelwälder, deren Becher blaugrün anlaufen können. Andere orange Becherpilze sollten nicht allein wegen der Ähnlichkeit als essbar gelten.",
+      "notes": "Der akzeptierte Name ist Aleuria aurantia (Pers.) Fuckel, begründet auf Peziza aurantia Pers. Die Art gehört zur Familie Pyronemataceae, nicht zu den Pezizaceae. Der historische Name Peziza coccinea wurde auch für Kelchbecherlinge verwendet; in diesem Katalog ist die Unterart Peziza coccinea subsp. auctior bereits ein Synonym von Microstoma protractum. Die Tafel ist eine KI-generierte Illustration, keine historische veröffentlichte Abbildung.",
+      "names": [
+        "Orangeroter Becherling",
+        "Gemeiner Orange-Becherling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Gemeiner_Orangebecherling",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "Gemeiner Orangebecherling"
+    },
+    "en": {
+      "description": "The orange peel fungus is a stemless cup that looks like discarded orange peel scattered on bare or gravelly soil, especially along woodland paths. The cups start rounded, then become wavy, split and often twisted. The inner surface is shiny orange to deep orange-red; the outside is paler and finely downy. It is common in Europe and also occurs in North America, typically in late summer and autumn, and later in some warmer regions.",
+      "cap": "There is no cap in the usual mushroom sense: the fruitbody is a cup (apothecium), commonly 3–6 cm across and occasionally up to 10 cm, and typically 2–4 cm tall. Young cups are almost spherical, then open into bowls with a wavy or split margin, and older ones may flatten, become lobed, or turn inside out so they resemble peel even more closely. The cup sits on the soil and has no visible stem.",
+      "hymenium": "The fertile inner surface is smooth and shiny, ranging from pale orange to a deep orange-red. Spores form on this inner lining and may puff out in a visible cloud when a cup is disturbed. The spore print is white.",
+      "stipe": "There is no visible stipe. The cup is attached to the soil only by mycelial threads. The infertile outer surface is paler than the inside and covered in a very fine whitish down.",
+      "flesh": "The flesh is thin, brittle and watery, whitish to pale, with no distinctive smell or taste.",
+      "sporePrint": "White.",
+      "habitat": "A saprobe of disturbed, often gravelly, sandy or clay soil, especially beside woodland paths, forestry tracks, banks and roadsides, and sometimes in parks, gardens or lawns. It usually fruits in groups or fused clusters. In Britain and Ireland it is most often found from August to early November; it may appear earlier or later elsewhere, including from late autumn to early spring in California.",
+      "uses": "This is one of the few common cup fungi regarded as edible, but the flesh is thin and bland, and it is rarely collected except perhaps to add colour to a salad. Most other cup fungi are poisonous to some degree, or are eaten only after thorough cooking, so similar orange or red cups should not be eaten on the strength of this resemblance. Always cook wild fungi; do not rely on this text alone.",
+      "confusion": "Scarlet elf cups (Sarcoscypha austriaca and S. coccinea) are bright red rather than orange and grow on dead wood, typically in late winter and spring. The smaller orange cup Melastiza chateri has dark hairs on the margin. Some Otidea species are ear-shaped and split down one side. Caloscypha fulgens is a spring species of conifer woods whose cups may bruise bluish-green. Do not treat other orange cup fungi as edible by association.",
+      "notes": "The accepted name is Aleuria aurantia (Pers.) Fuckel, based on Peziza aurantia Pers. It belongs to the family Pyronemataceae, not Pezizaceae. The historical name Peziza coccinea has also been used for scarlet elf cups; in this catalog the subspecies Peziza coccinea subsp. auctior is already a synonym of Microstoma protractum. The plate is an AI-generated illustration, not a historical published figure.",
+      "names": [
+        "orange-peel fungus",
+        "orange cup"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=473871",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=473871",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordId=473871",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://www.first-nature.com/fungi/aleuria-aurantia.php",
+        "https://www.mykoweb.com/CAF/species/Aleuria_aurantia.html",
+        "https://www.nahuby.sk/atlas-hub/Aleuria-aurantia/tanierovka-oranzova/misenka-oranzova/ID736",
+        "https://botany.cz/cs/aleuria-aurantia/",
+        "https://en.wikipedia.org/wiki/Aleuria_aurantia",
+        "https://www.inaturalist.org/taxa/48716-Aleuria-aurantia"
+      ],
+      "label": "orange peel fungus"
+    },
+    "es": {
+      "description": "La cáscara de naranja es una copa sin pie que parece trozos de corteza de naranja tirados sobre suelo desnudo o gravoso, sobre todo junto a caminos forestales. Las copas, al principio casi esféricas, se vuelven onduladas, a menudo hendidas y retorcidas. La cara interna es brillante, de naranja a naranja-rojo intenso; el exterior es más pálido y finamente aterciopelado. Es frecuente en Europa y también se encuentra en Norteamérica, típica de finales de verano y otoño, y más tarde en algunas regiones más cálidas.",
+      "cap": "No hay sombrero en el sentido habitual: el cuerpo fructífero es una copa (apotecio), por lo general de 3–6 cm de ancho, a veces hasta 10 cm, y típicamente de 2–4 cm de alto. Las copas jóvenes son casi esféricas, luego se abren en cuencos de margen ondulado o hendido; las más viejas pueden aplanarse, volverse lobuladas o invertirse, pareciendo aún más una cáscara. La copa se asienta en el suelo y no tiene pie visible.",
+      "hymenium": "La cara interna fértil es lisa y brillante, de naranja pálido a naranja-rojo profundo. Las esporas se forman en este revestimiento interno y pueden salir en una nube visible cuando se molesta una copa. La esporada es blanca.",
+      "stipe": "No hay pie visible. La copa solo está unida al suelo por hilos de micelio. La cara externa estéril es más pálida que el interior y está cubierta de un vello blanquecino muy fino.",
+      "flesh": "La carne es delgada, quebradiza y acuosa, blanquecina a pálida, sin olor ni sabor distintivos.",
+      "sporePrint": "Blanca.",
+      "habitat": "Saprófito de suelos alterados, a menudo gravosos, arenosos o arcillosos, especialmente junto a caminos forestales, pistas, taludes y cunetas, y a veces en parques, jardines o céspedes. Suele fructificar en grupos o racimos soldados. En Gran Bretaña e Irlanda se encuentra sobre todo de agosto a principios de noviembre; en otros lugares puede aparecer antes o después, en California desde finales de otoño hasta principios de primavera.",
+      "uses": "Es una de las pocas copas comunes consideradas comestibles, pero la carne es delgada e insípida, y rara vez se recolecta, quizá solo para dar color a una ensalada. La mayoría de las demás copas son tóxicas en algún grado, o solo se comen tras una cocción completa, así que no deben comerse copas naranjas o rojas parecidas solo por el parecido. Cocine siempre los hongos silvestres; no se fíe solo de este texto.",
+      "confusion": "Las copas élficas escarlata (Sarcoscypha austriaca y S. coccinea) son de un rojo vivo, no naranja, y crecen sobre madera muerta, típicamente a finales del invierno y en primavera. La copa naranja más pequeña Melastiza chateri tiene pelos oscuros en el margen. Algunas Otidea tienen forma de oreja y están hendidas por un lado. Caloscypha fulgens es una especie primaveral de bosques de coníferas cuyas copas pueden moratonearse de azul verdoso. No trate otras copas naranjas como comestibles por asociación.",
+      "notes": "El nombre aceptado es Aleuria aurantia (Pers.) Fuckel, basado en Peziza aurantia Pers. Pertenece a la familia Pyronemataceae, no a Pezizaceae. El nombre histórico Peziza coccinea también se ha usado para las copas escarlata; en este catálogo la subespecie Peziza coccinea subsp. auctior ya es un sinónimo de Microstoma protractum. La lámina es una ilustración generada por inteligencia artificial, no una figura histórica publicada.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames"
+      ],
+      "label": "cáscara de naranja"
+    },
+    "et": {
+      "description": "Suur punaliudik on jalata liudik, mis näib mahavisatud apelsinikoortena paljal või kruusasel pinnasel, eriti metsateede ääres. Liudikud on algul peaaegu kerajad, hiljem lainelised, sageli lõhenenud ja keerdunud. Sisekülg on läikiv, oranž kuni sügav oranžpunane; väliskülg on kahvatum ja peenelt viltjas. Euroopas on liik sage ja esineb ka Põhja-Ameerikas, tüüpiliselt suve lõpus ja sügisel, soojemates piirkondades ka hiljem.",
+      "cap": "Tavalises mõttes kübarat ei ole: viljakeha on liud (apoteetsium), tavaliselt 3–6 cm lai, vahel kuni 10 cm, ja tüüpiliselt 2–4 cm kõrge. Noored liudikud on peaaegu kerajad, avanevad seejärel lainelise või lõhenenud servaga kaussideks; vanemad võivad lamenuda, hõlmisteks muutuda või pahempidi pöörduda ja meenutada koort veelgi enam. Liud istub maapinnal ja nähtavat vart ei ole.",
+      "hymenium": "Viljakas sisepind on sile ja läikiv, kahvatuoranžist sügavoranžpunaseni. Eosed tekivad sellel sisepinnal ja võivad liudiku puutumisel nähtava pilvena välja purskuda. Eospulber on valge.",
+      "stipe": "Nähtavat vart ei ole. Liud on maapinnaga seotud ainult seeneniidistikuga. Viljatu välispind on sisemusest kahvatum ja kaetud väga peene valkja viltja kattega.",
+      "flesh": "Liha on õhuke, rabe ja vesine, valkjas kuni kahvatu, ilma erilise lõhna ja maitseta.",
+      "sporePrint": "Valge.",
+      "habitat": "Saprotroof häiritud, sageli kruusal, liivasel või savisel pinnasel, eriti metsateede, metsasihtide, nõlvade ja teeservade ääres, vahel ka parkides, aedades või murudel. Viljakehad ilmuvad tavaliselt rühmadena või kokkukasvanud kobarates. Suurbritannias ja Iirimaal leitakse teda kõige sagedamini augustist novembri alguseni; mujal võib ta ilmuda varem või hiljem, Californias hilissügisest varakevadeni.",
+      "uses": "See on üks vähestest tavalistest liudikutest, mida peetakse söödavaks, kuid liha on õhuke ja meretu ning teda korjatakse harva, ehk vaid salati värvilaiguks. Enamik teisi liudikuid on mingil määral mürgised või süüakse alles pärast põhjalikku keetmist, seega sarnaseid oranže või punaseid liudikuid ei tohiks süüa pelgalt sarnasuse tõttu. Metsaseeni tuleb alati küpsetada; ärge toetuge üksnes sellele tekstile.",
+      "confusion": "Punased karikseened (Sarcoscypha austriaca ja S. coccinea) on kirkalt punased, mitte oranžid, ja kasvavad surnud puidul, tüüpiliselt talve lõpus ja kevadel. Väiksemal oranžil liudikul Melastiza chateri on servas tumedad karvakesed. Mõned Otidea liigid on kõrvakujulised ja ühelt küljelt lõhestunud. Caloscypha fulgens on okasmetsade kevadliik, mille liudikud võivad sinakasroheliselt määrida. Teisi oranže liudikuid ei tohiks pidada söödavaks pelgalt sarnasuse tõttu.",
+      "notes": "Aktsepteeritud nimi on Aleuria aurantia (Pers.) Fuckel, lähtudes nimest Peziza aurantia Pers. Liik kuulub sugukonda Pyronemataceae, mitte sugukonda Pezizaceae. Ajaloolist nime Peziza coccinea on kasutatud ka punaste karikseente kohta; selles kataloogis on alamliik Peziza coccinea subsp. auctior juba liigi Microstoma protractum sünonüüm. Tahvel on tehisintellekti loodud illustratsioon, mitte ajalooline avaldatud joonis.",
+      "names": [
+        "suur kuldliudik"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Suur_punaliudik",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames"
+      ],
+      "label": "suur punaliudik"
+    },
+    "fa": {
+      "description": "Aleuria aurantia قارچی پیاله‌ای بدون پایه است که شبیه پوست پرتقال ریخته‌شده روی خاک لخت یا سنگریزه‌ای به نظر می‌رسد، به‌ویژه در کنار مسیرهای جنگلی. پیاله‌ها ابتدا تقریباً کروی‌اند، سپس موج‌دار، اغلب شکافته و پیچ‌خورده می‌شوند. سطح درونی براق، نارنجی تا نارنجی‌قرمز تیره است؛ بیرون کم‌رنگ‌تر و با کرک ریز پوشیده است. در اروپا رایج است و در آمریکای شمالی نیز دیده می‌شود، معمولاً در اواخر تابستان و پاییز، و در برخی مناطق گرم‌تر دیرتر.",
+      "cap": "کلاهک به معنای معمول وجود ندارد: جسم میوه‌ده پیاله‌ای (آپوتسیوم) است، معمولاً ۳ تا ۶ سانتی‌متر پهنا، گاه تا ۱۰ سانتی‌متر، و معمولاً ۲ تا ۴ سانتی‌متر بلندا. پیاله‌های جوان تقریباً کروی‌اند، سپس به کاسه‌هایی با لبه موج‌دار یا شکافته باز می‌شوند؛ پیاله‌های پیرتر ممکن است پهن، لبه‌دار یا وارونه شوند و بیشتر به پوست شبیه گردند. پیاله روی خاک می‌نشیند و پایهٔ نمایانی ندارد.",
+      "hymenium": "سطح درونی بارور صاف و براق است، از نارنجی کم‌رنگ تا نارنجی‌قرمز تیره. هاگ‌ها روی این لایه درونی تشکیل می‌شوند و با آشفتن پیاله ممکن است به صورت ابری نمایان بیرون بجهند. نقش هاگ سفید است.",
+      "stipe": "پایهٔ نمایانی وجود ندارد. پیاله تنها با رشته‌های میسلیوم به خاک متصل است. سطح بیرونی نازا از درون کم‌رنگ‌تر و با کرک سفید بسیار ریز پوشیده است.",
+      "flesh": "گوشت نازک، شکننده و آبدار است، مایل به سفید تا کم‌رنگ، بدون بو یا مزه مشخص.",
+      "sporePrint": "سفید.",
+      "habitat": "ساپروتروف خاک‌های آشفته، اغلب سنگریزه‌ای، شنی یا رسی، به‌ویژه در کنار مسیرهای جنگلی، راه‌های چوب‌کشی، شیب‌ها و حاشیهٔ جاده‌ها، و گاه در پارک‌ها، باغ‌ها یا چمنزارها. معمولاً به صورت گروه یا خوشه‌های به‌هم‌پیوسته میوه می‌دهد. در بریتانیا و ایرلند بیشتر از اوت تا اوایل نوامبر دیده می‌شود؛ در جاهای دیگر ممکن است زودتر یا دیرتر، و در کالیفرنیا از اواخر پاییز تا اوایل بهار ظاهر شود.",
+      "uses": "این یکی از معدود قارچ‌های پیاله‌ای رایجی است که خوراکی شمرده می‌شود، اما گوشت آن نازک و بی‌مزه است و به ندرت جمع‌آوری می‌شود، شاید فقط برای رنگ دادن به سالاد. بیشتر پیاله‌های دیگر تا اندازه‌ای سمی‌اند یا تنها پس از پخت کامل خورده می‌شوند، بنابراین نباید پیاله‌های نارنجی یا سرخ مشابه را فقط به دلیل شباهت خورد. قارچ‌های وحشی را همیشه بپزید؛ فقط به این متن تکیه نکنید.",
+      "confusion": "پیاله‌های الف سرخ‌فام (Sarcoscypha austriaca و S. coccinea) سرخ روشن‌اند نه نارنجی، و روی چوب مرده می‌رویند، معمولاً در اواخر زمستان و بهار. پیاله نارنجی کوچک‌تر Melastiza chateri در حاشیه موهای تیره دارد. برخی گونه‌های Otidea گوش‌شکل و از یک سو شکافته‌اند. Caloscypha fulgens گونه بهاری جنگل‌های سوزنی‌برگ است که پیاله‌هایش ممکن است به سبزآبی بگرایند. دیگر قارچ‌های پیاله‌ای نارنجی را نباید فقط به دلیل شباهت خوراکی دانست.",
+      "notes": "نام پذیرفته‌شده Aleuria aurantia (Pers.) Fuckel است که بر پایه Peziza aurantia Pers. نهاده شده. این گونه به تیره Pyronemataceae تعلق دارد، نه Pezizaceae. نام تاریخی Peziza coccinea برای پیاله‌های سرخ‌فام نیز به کار رفته است؛ در این کاتالوگ زیرگونه Peziza coccinea subsp. auctior از پیش مترادف Microstoma protractum است. صفحه، تصویر تولیدشده با هوش مصنوعی است، نه شکل تاریخی منتشرشده.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Oranssimaljakas on jalaton kupusieni, joka näyttää maahan viskotuilta appelsiininkuorilta paljaalla tai soraisella maalla, etenkin metsäpolkujen varsilla. Kupit ovat aluksi lähes pallomaisia, myöhemmin aaltoilevia, usein halkeilleita ja kiertyneitä. Sisäpinta on kiiltävä, oranssi tai syvän oranssinpunainen; ulkopinta on vaaleampi ja hienokarvan peittämä. Laji on yleinen Euroopassa ja sitä tavataan myös Pohjois-Amerikassa, tyypillisesti loppukesällä ja syksyllä, joillakin lämpimämmillä seuduilla myöhemminkin.",
+      "cap": "Tavallista lakkia ei ole: itiöemä on kuppi (apoteekio), yleensä 3–6 cm leveä, joskus jopa 10 cm, ja tyypillisesti 2–4 cm korkea. Nuoret kupit ovat lähes pallomaisia, avautuvat sitten aaltoileva- tai halkeamareunaisiksi maljoiksi; vanhemmat voivat litistyä, liuskoittua tai kääntyä nurin ja muistuttaa kuorta entistä enemmän. Kuppi istuu maassa eikä sillä ole näkyvää jalkaa.",
+      "hymenium": "Hedelmällinen sisäpinta on sileä ja kiiltävä, vaaleanoranssista syvän oranssinpunaiseen. Itiöt syntyvät tällä sisäpinnalla ja voivat pöllähtää näkyvänä pilvenä, kun kuppia häiritään. Itiöpöly on valkoista.",
+      "stipe": "Näkyvää jalkaa ei ole. Kuppi on kiinnittynyt maahan vain rihmastojänteillä. Hedelmätön ulkopinta on sisäpintaa vaaleampi ja peittyy hyvin hienolla vaalealla nukalla.",
+      "flesh": "Malto on ohutta, haurasta ja vetistä, valkeahkoa tai vaaleaa, ilman erityistä tuoksua tai makua.",
+      "sporePrint": "Valkoinen.",
+      "habitat": "Lahottaja häiriintyneellä, usein soraisella, hiekkaisella tai savisella maalla, etenkin metsäpolkujen, metsäteiden, luiskien ja tienpientareiden varsilla, joskus myös puistoissa, puutarhoissa tai nurmikoilla. Itiöemiä ilmestyy yleensä ryhminä tai yhteenkasvaneina kimppuina. Britanniassa ja Irlannissa lajia tavataan useimmin elokuusta marraskuun alkuun; muualla se voi ilmestyä aiemmin tai myöhemmin, Kaliforniassa myöhäissyksystä alkukevääseen.",
+      "uses": "Tämä on yksi harvoista yleisistä kupusienistä, joita pidetään syötävinä, mutta malto on ohutta ja miedon makuista, eikä sientä juuri kerätä, ehkä korkeintaan salaatin väripilkuksi. Useimmat muut kupusienet ovat jossain määrin myrkyllisiä tai niitä syödään vasta huolellisen keittämisen jälkeen, joten samannäköisiä oransseja tai punaisia kuppeja ei pidä syödä pelkän ulkonäön perusteella. Villejä sieniä on aina kypsennettävä; älä luota yksin tähän tekstiin.",
+      "confusion": "Punamaljakkaat (Sarcoscypha austriaca ja S. coccinea) ovat kirkkaanpunaisia, eivät oransseja, ja kasvavat lahopuulla, tyypillisesti lopp<fim-middle>utalvella ja keväällä. Pienemmällä oranssilla Melastiza chateri -kupilla on tummia karvoja reunassa. Jotkin Otidea-lajit ovat korvamaisia ja haljenneita yhdeltä sivulta. Caloscypha fulgens on havumetsien kevätlaji, jonka kupit voivat sinertyä vihertävänsinisiksi. Muita oransseja kupusieniä ei pidä pitää syötävinä pelkän ulkonäön perusteella.",
+      "notes": "Hyväksytty nimi on Aleuria aurantia (Pers.) Fuckel, perustuen nimeen Peziza aurantia Pers. Laji kuuluu heimoon Pyronemataceae, ei heimoon Pezizaceae. Historiallista nimeä Peziza coccinea on käytetty myös punamaljakkaista; tässä luettelossa alalaji Peziza coccinea subsp. auctior on jo Microstoma protractum -lajin synonyymi. Kuvataulu on tekoälyn tuottama kuvitus, ei historiallinen julkaistu kuva.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Oranssimaljakas",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "oranssimaljakas"
+    },
+    "fr": {
+      "description": "La pézize orangée est une cupule sans pied qui ressemble à des écorces d’orange jetées sur un sol nu ou graveleux, surtout le long des chemins forestiers. Les coupes, d’abord presque sphériques, deviennent ondulées, souvent fendues et tordues. La face interne est luisante, orange à orange-rouge soutenu ; l’extérieur est plus pâle et finement duveteux. Elle est fréquente en Europe et se rencontre aussi en Amérique du Nord, typiquement en fin d’été et en automne, plus tard dans certaines régions plus chaudes.",
+      "cap": "Il n’y a pas de chapeau au sens habituel : le sporophore est une coupe (apothécie), généralement large de 3 à 6 cm, parfois jusqu’à 10 cm, et typiquement haute de 2 à 4 cm. Les jeunes coupes sont presque sphériques, puis s’ouvrent en bols à marge ondulée ou fendue ; les plus âgées peuvent s’aplatir, devenir lobées ou se retourner, ressemblant encore plus à une écorce. La coupe repose sur le sol et n’a pas de pied visible.",
+      "hymenium": "La face interne fertile est lisse et luisante, d’un orange pâle à un orange-rouge profond. Les spores se forment sur cette paroi interne et peuvent s’échapper en un nuage visible lorsqu’on dérange une coupe. La sporée est blanche.",
+      "stipe": "Il n’y a pas de pied visible. La coupe n’est rattachée au sol que par des filaments mycéliens. La face externe stérile est plus pâle que l’intérieur et couverte d’un très fin duvet blanchâtre.",
+      "flesh": "La chair est mince, cassante et aqueuse, blanchâtre à pâle, sans odeur ni saveur distinctives.",
+      "sporePrint": "Blanche.",
+      "habitat": "Saprotrophe des sols perturbés, souvent graveleux, sablonneux ou argileux, surtout au bord des chemins forestiers, des pistes de débardage, des talus et des routes, parfois aussi dans les parcs, les jardins ou les pelouses. Elle fructifie généralement en groupes ou en amas soudés. En Grande-Bretagne et en Irlande, on la trouve surtout d’août au début de novembre ; ailleurs elle peut apparaître plus tôt ou plus tard, en Californie de la fin de l’automne au début du printemps.",
+      "uses": "C’est l’un des rares pézizes communes considérées comme comestibles, mais la chair est mince et fade, et on la récolte rarement, tout au plus pour colorer une salade. La plupart des autres pézizes sont plus ou moins toxiques, ou ne se consomment qu’après une cuisson approfondie ; il ne faut donc pas manger d’autres coupes orange ou rouges sur la seule foi de cette ressemblance. Faites toujours cuire les champignons sauvages ; ne vous fiez pas uniquement à ce texte.",
+      "confusion": "Les pézizes écarlates (Sarcoscypha austriaca et S. coccinea) sont d’un rouge vif, non orange, et poussent sur le bois mort, typiquement en fin d’hiver et au printemps. La plus petite coupe orange Melastiza chateri porte des poils sombres sur la marge. Certaines Otidea sont en forme d’oreille et fendues d’un côté. Caloscypha fulgens est une espèce printanière des forêts de conifères dont les coupes peuvent bleuir-verdier. Il ne faut pas considérer d’autres pézizes orange comme comestibles par simple association.",
+      "notes": "Le nom accepté est Aleuria aurantia (Pers.) Fuckel, fondé sur Peziza aurantia Pers. L’espèce appartient à la famille des Pyronemataceae, et non aux Pezizaceae. Le nom historique Peziza coccinea a aussi été employé pour les pézizes écarlates ; dans ce catalogue, la sous-espèce Peziza coccinea subsp. auctior est déjà un synonyme de Microstoma protractum. La planche est une illustration générée par intelligence artificielle, et non une figure historique publiée.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.gbif.org/species/5258678",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "pézize orangée"
+    },
+    "he": {
+      "description": "Aleuria aurantia הוא פטריית גביע חסרת רגל שנראית כמו קליפות תפוז שהושלכו על קרקע חשופה או חצצית, במיוחד לאורך שבילי יער. הגביעים תחילה כמעט כדוריים, אחר כך גליים, לעיתים קרובות סדוקים ומפותלים. הפן הפנימי מבריק, כתום עד כתום־אדום עמוק; החוץ חיוור יותר ומכוסה פלומה עדינה. המין שכיח באירופה ומופיע גם בצפון אמריקה, בדרך כלל בסוף הקיץ ובסתיו, ומאוחר יותר באזורים חמים יותר.",
+      "cap": "אין כובע במובן הרגיל: גוף הפרי הוא גביע (אפותקיום), בדרך כלל ברוחב 3–6 ס״מ, לעיתים עד 10 ס״מ, ובגובה טיפוסי של 2–4 ס״מ. גביעים צעירים כמעט כדוריים, אחר כך נפתחים לקערות ששפתן גלית או סדוקה; בוגרים יותר עשויים להשתטח, להתחלק לאונות או להתהפך ולהידמות עוד יותר לקליפה. הגביע יושב על הקרקע ואין לו רגל נראית.",
+      "hymenium": "המשטח הפנימי הפורה חלק ומבריק, מכתום חיוור עד כתום־אדום עמוק. הנבגים נוצרים על דופן פנימית זו ועשויים לפרוץ בענן נראה כשמטרידים את הגביע. טביעת הנבגים לבנה.",
+      "stipe": "אין רגל נראית. הגביע מחובר לקרקע רק בחוטי תפטיר. הפן החיצוני העקר חיוור מהפנים ומכוסה בפלומה לבנבנה עדינה מאוד.",
+      "flesh": "הבשר דק, שביר ומימי, לבנבן עד חיוור, בלי ריח או טעם מובהקים.",
+      "sporePrint": "לבנה.",
+      "habitat": "ספרוטרוף של קרקעות מופרעות, לעיתים קרובות חצציות, חוליות או חרסיתיות, במיוחד לצד שבילי יער, דרכי יער, מדרונות ושולי דרכים, ולעיתים גם בפארקים, בגינות או בדשא. הוא מניב בדרך כלל בקבוצות או בצרורות מאוחים. בבריטניה ובאירלנד הוא נמצא לרוב מאוגוסט עד ראשית נובמבר; במקומות אחרים הוא עשוי להופיע מוקדם או מאוחר יותר, בקליפורניה מסוף הסתיו עד ראשית האביב.",
+      "uses": "זו אחת מפטריות הגביע הנפוצות המעטות שנחשבות אכילות, אך הבשר דק ותפל, ולעיתים רחוקות אוספים אותה, אולי רק כדי לצבוע סלט. רוב פטריות הגביע האחרות רעילות במידה זו או אחרת, או נאכלות רק לאחר בישול יסודי, ולכן אין לאכול גביעים כתומים או אדומים דומים רק בגלל הדמיון. יש לבשל תמיד פטריות בר; אין להסתמך על הטקסט הזה לבדו.",
+      "confusion": "גביעי האלף הארגמניים (Sarcoscypha austriaca ו־S. coccinea) אדומים עזים ולא כתומים, וגדלים על עץ מת, בדרך כלל בסוף החורף ובאביב. לגביע הכתום הקטן יותר Melastiza chateri יש שערות כהות בשפה. מינים אחדים של Otidea דמויי אוזן וסדוקים מצד אחד. Caloscypha fulgens הוא מין אביבי של יערות מחטניים שגביעיו עשויים לכחול־ירוק. אין לראות פטריות גביע כתומות אחרות כאכילות רק בגלל הדמיון.",
+      "notes": "השם המקובל הוא Aleuria aurantia (Pers.) Fuckel, המבוסס על Peziza aurantia Pers. המין שייך למשפחת Pyronemataceae ולא ל־Pezizaceae. השם ההיסטורי Peziza coccinea שימש גם לגביעים הארגמניים; בקטלוג זה תת־המין Peziza coccinea subsp. auctior הוא כבר שם נרדף של Microstoma protractum. הלוח הוא איור שנוצר בבינה מלאכותית, לא דמות היסטורית שפורסמה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Aleuria aurantia एक बिना डंठल का प्याला कवक है जो नंगी या कंकरीली मिट्टी पर, विशेषकर वन पथों के किनारे, फेंके गए संतरे के छिलकों जैसा दिखता है। प्याले पहले लगभग गोलाकार होते हैं, फिर लहरदार, अक्सर फटे और मुड़े हुए हो जाते हैं। भीतरी सतह चमकदार, नारंगी से गहरे नारंगी-लाल तक होती है; बाहर हल्की और महीन रोएँदार होती है। यह यूरोप में सामान्य है और उत्तरी अमेरिका में भी मिलता है, आमतौर पर देर ग्रीष्म और पतझड़ में, और कुछ गर्म क्षेत्रों में और देर से।",
+      "cap": "सामान्य अर्थ में टोपी नहीं होती: फलनकाय एक प्याला (एपोथीसियम) है, आमतौर पर 3–6 सेमी चौड़ा, कभी-कभी 10 सेमी तक, और आमतौर पर 2–4 सेमी ऊँचा। युवा प्याले लगभग गोलाकार होते हैं, फिर लहरदार या फटे किनारे वाले कटोरे में खुलते हैं; पुराने चपटे, खंडित या उलटे हो सकते हैं और छिलके से और अधिक मिलते-जुलते लगते हैं। प्याला मिट्टी पर बैठा रहता है और उसका कोई दिखने वाला डंठल नहीं होता।",
+      "hymenium": "उर्वर भीतरी सतह चिकनी और चमकदार होती है, हल्के नारंगी से गहरे नारंगी-लाल तक। बीजाणु इसी भीतरी परत पर बनते हैं और प्याले को छेड़ने पर दिखाई देने वाले बादल के रूप में निकल सकते हैं। बीजाणु छाप सफेद होती है।",
+      "stipe": "कोई दिखने वाला डंठल नहीं होता। प्याला केवल कवकजाल के तंतुओं से मिट्टी से जुड़ा होता है। बाँझ बाहरी सतह भीतर से हल्की होती है और बहुत महीन सफ़ेद रोएँ से ढकी होती है।",
+      "flesh": "मांस पतला, भुरभुरा और पानीदार होता है, सफ़ेद-सा से हल्का, बिना विशेष गंध या स्वाद के।",
+      "sporePrint": "सफेद।",
+      "habitat": "यह विक्षुब्ध, अक्सर कंकरीली, बलुई या चिकनी मिट्टी का मृतोपजीवी है, विशेषकर वन पथों, वन सड़कों, ढालों और सड़क किनारे, और कभी-कभी उद्यानों, बगीचों या घास के मैदानों में। यह आमतौर पर समूहों या जुड़े गुच्छों में फलता है। ब्रिटेन और आयरलैंड में यह सबसे अधिक अगस्त से नवंबर की शुरुआत तक मिलता है; अन्यत्र यह पहले या बाद में, कैलिफ़ोर्निया में देर पतझड़ से प्रारंभिक वसंत तक दिखाई दे सकता है।",
+      "uses": "यह उन कुछ सामान्य प्याला कवकों में से एक है जिन्हें खाद्य माना जाता है, पर मांस पतला और फीका है और इसे कम ही तोड़ा जाता है, शायद केवल सलाद में रंग देने के लिए। अधिकतर अन्य प्याला कवक किसी हद तक विषैले होते हैं, या केवल अच्छी तरह पकाने के बाद खाए जाते हैं, इसलिए मिलते-जुलते नारंगी या लाल प्यालों को केवल समानता के आधार पर नहीं खाना चाहिए। जंगली कवकों को हमेशा पकाएँ; केवल इस पाठ पर भरोसा न करें।",
+      "confusion": "लाल परियों के प्याले (Sarcoscypha austriaca और S. coccinea) चमकीले लाल होते हैं, नारंगी नहीं, और मृत लकड़ी पर उगते हैं, आमतौर पर देर सर्दी और वसंत में। छोटे नारंगी प्याले Melastiza chateri के किनारे पर गहरे रोएँ होते हैं। कुछ Otidea प्रजातियाँ कान के आकार की और एक ओर से फटी होती हैं। Caloscypha fulgens शंकुधारी वनों की वसंत प्रजाति है जिसके प्याले नीले-हरे हो सकते हैं। अन्य नारंगी प्याला कवकों को केवल समानता के आधार पर खाद्य न मानें।",
+      "notes": "स्वीकृत नाम Aleuria aurantia (Pers.) Fuckel है, जो Peziza aurantia Pers. पर आधारित है। यह प्रजाति Pyronemataceae कुल की है, Pezizaceae की नहीं। ऐतिहासिक नाम Peziza coccinea लाल परियों के प्यालों के लिए भी प्रयुक्त हुआ है; इस सूची में उपप्रजाति Peziza coccinea subsp. auctior पहले से Microstoma protractum का पर्याय है। पट्टिका कृत्रिम बुद्धिमत्ता से बना चित्र है, ऐतिहासिक प्रकाशित आकृति नहीं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Narančastocrvena zdjeličarka je bezstrana zdjelasta gljiva koja izgleda kao odbačene narančine kore na golu ili šljunkovitu tlu, osobito uz šumske staze. Zdjeličice su najprije gotovo kuglaste, zatim valovite, često rascijepane i uvijene. Unutarnja strana je sjajna, narančasta do duboko narančastocrvena; vanjska je bljeđa i fino plstnata. U Europi je česta i javlja se i u Sjevernoj Americi, tipično krajem ljeta i u jesen, u toplijim krajevima i kasnije.",
+      "cap": "Klobuka u uobičajenom smislu nema: plodište je zdjelica (apotecij), obično široka 3–6 cm, ponekad do 10 cm, i tipično visoka 2–4 cm. Mlade zdjeličice su gotovo kuglaste, zatim se otvaraju u zdjele valovita ili rascijepana ruba; starije se mogu spljoštiti, postati režnjevite ili se izvrnuti i još više sličiti kori. Zdjelica sjedi na tlu i nema vidljive stručka.",
+      "hymenium": "Plodna unutarnja površina je glatka i sjajna, od blijedonarančaste do duboko narančastocrvene. Spore nastaju na toj unutarnjoj stijenci i pri uznemiravanju zdjelice mogu izletjeti u vidljivom oblaku. Otisak spora je bijel.",
+      "stipe": "Vidljivog stručka nema. Zdjelica je za tlo pričvršćena samo nitima micelija. Jalova vanjska strana je bljeđa od unutrašnjosti i prekrivena vrlo finim bjelkastim dlačicama.",
+      "flesh": "Meso je tanko, lomljivo i vodenasto, bjelkasto do blijedo, bez izrazitog mirisa i okusa.",
+      "sporePrint": "Bijel.",
+      "habitat": "Saprotrof narušenog, često šljunkovitog, pjeskovitog ili glinastog tla, osobito uz šumske staze, izvozne putove, kosine i rubove cesta, ponekad i u parkovima, vrtovima ili na travnjacima. Plodišta se obično pojavljuju u skupinama ili sraslim grozdovima. U Britaniji i Irskoj se najčešće nalazi od kolovoza do početka studenoga; drugdje se može pojaviti ranije ili kasnije, u Kaliforniji od kasne jeseni do ranog proljeća.",
+      "uses": "To je jedna od rijetkih čestih zdjelastih gljiva koje se smatraju jestivima, no meso je tanko i bljutavo i rijetko se bere, možda samo kao boja u salati. Većina ostalih zdjelastih gljiva u nekoj je mjeri otrovna ili se jede tek nakon temeljitog kuhanja, stoga slične narančaste ili crvene zdjelice ne treba jesti samo zbog sličnosti. Divlje gljive uvijek kuhajte; ne oslanjajte se samo na ovaj tekst.",
+      "confusion": "Grimizne čašice (Sarcoscypha austriaca i S. coccinea) jarko su crvene, a ne narančaste, i rastu na mrtvom drvu, tipično krajem zime i u proljeće. Manja narančasta zdjelica Melastiza chateri ima tamne dlačice na rubu. Neke vrste roda Otidea ušolike su i rascijepane s jedne strane. Caloscypha fulgens proljetna je vrsta crnogoričnih šuma čije zdjelice mogu poplaviti u zelenomodro. Ostale narančaste zdjelaste gljive ne treba smatrati jestivima samo zbog sličnosti.",
+      "notes": "Prihvaćeno ime je Aleuria aurantia (Pers.) Fuckel, utemeljeno na imenu Peziza aurantia Pers. Vrsta pripada porodici Pyronemataceae, a ne Pezizaceae. Povijesno ime Peziza coccinea rabilo se i za grimizne čašice; u ovom je katalogu podvrsta Peziza coccinea subsp. auctior već sinonim vrste Microstoma protractum. Ploča je ilustracija stvorena umjetnom inteligencijom, a ne povijesna objavljena slika.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Naran%C4%8Dastocrvena_zdjeli%C4%8Darka",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://www.gbif.org/species/5258678"
+      ],
+      "label": "narančastocrvena zdjeličarka"
+    },
+    "hu": {
+      "description": "A narancsszínű csészegomba tönk nélküli csészegomba, amely eldobott narancshéjra emlékeztet csupasz vagy kavicsos talajon, különösen erdei utak mentén. A csészék eleinte csaknem gömbölyűek, később hullámosak, gyakran berepedtek és csavarodottak. A belső felszín fényes, narancsszínű vagy mély narancsvörös; a külseje halványabb és finoman molyhos. Európában gyakori, Észak-Amerikában is előfordul, jellemzően nyár végétől őszig, egyes melegebb vidékeken később is.",
+      "cap": "A szokásos értelemben vett kalap hiányzik: a termőtest csésze (apotécium), általában 3–6 cm széles, alkalmanként 10 cm-ig, és jellemzően 2–4 cm magas. A fiatal csészék csaknem gömbölyűek, majd hullámos vagy berepedt szélű tálakká nyílnak; az idősebbek ellaposodhatnak, karéjossá válhatnak vagy kifordulhatnak, és még inkább héjra hasonlítanak. A csésze a talajon ül, látható tönkje nincs.",
+      "hymenium": "A termő belső felszín sima és fényes, halvány narancstól mély narancsvörösig. A spórák ezen a belső felületen képződnek, és a csésze megzavarásakor látható felhőben porozhatnak ki. A spórapor fehér.",
+      "stipe": "Látható tönk nincs. A csészét csak micéliumfonalak rögzítik a talajhoz. A meddő külső felszín a belsőnél halványabb, és nagyon finom, fehéres molyhos bevonat fedi.",
+      "flesh": "A hús vékony, törékeny és vizes, fehéres vagy halvány, jellegzetes szag és íz nélkül.",
+      "sporePrint": "Fehér.",
+      "habitat": "Bolygatott, gyakran kavicsos, homokos vagy agyagos talaj szaprotrófja, különösen erdei utak, közelítőutak, rézsűk és útpadkák mentén, néha parkokban, kertekben vagy gyepeken is. Általában csoportosan vagy összenőtt csomókban terem. Nagy-Britanniában és Írországban leggyakrabban augusztustól november elejéig található; másutt korábban vagy később is megjelenhet, Kaliforniában a késő ősztől a kora tavaszig.",
+      "uses": "Ez azon kevés gyakori csészegombák egyike, amelyet ehetőnek tartanak, de a hús vékony és ízetlen, ritkán gyűjtik, legfeljebb saláta színezésére. A többi csészegomba többsége valamilyen mértékben mérgező, vagy csak alapos főzés után ehető, ezért a hasonló narancsszínű vagy vörös csészéket ne együk meg csupán a hasonlóság alapján. A vadon termő gombákat mindig főzzük meg; ne támaszkodjunk egyedül erre a szövegre.",
+      "confusion": "A skarlátvörös csészegombák (Sarcoscypha austriaca és S. coccinea) élénkvörösek, nem narancsszínűek, és holt fán nőnek, jellemzően a tél végén és tavasszal. A kisebb narancsszínű Melastiza chateri szélén sötét szőrök vannak. Egyes Otidea-fajok fül alakúak és az egyik oldalon hasítottak. A Caloscypha fulgens a fenyvesek tavaszi faja, amelynek csészéi kékeszölden színeződhetnek. Más narancsszínű csészegombákat ne tartsunk ehetőnek csupán a hasonlóság miatt.",
+      "notes": "Az elfogadott név Aleuria aurantia (Pers.) Fuckel, a Peziza aurantia Pers. néven alapul. A faj a Pyronemataceae családba tartozik, nem a Pezizaceae-be. A történeti Peziza coccinea nevet a skarlátvörös csészékre is használták; ebben a katalógusban a Peziza coccinea subsp. auctior alfaj már a Microstoma protractum szinonimája. A tábla mesterséges intelligenciával készült illusztráció, nem történeti, publikált ábra.",
+      "names": [
+        "narancsvörös csészegomba"
+      ],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Narancssz%C3%ADn%C5%B1_cs%C3%A9szegomba",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames"
+      ],
+      "label": "narancsszínű csészegomba"
+    },
+    "id": {
+      "description": "Aleuria aurantia adalah cawan tanpa batang yang tampak seperti kulit jeruk yang dibuang di tanah gundul atau berkerikil, terutama di tepi jalur hutan. Cawan mula-mula hampir bulat, kemudian bergelombang, sering retak dan terpuntir. Permukaan dalam mengilap, oranye hingga oranye-merah tua; bagian luar lebih pucat dan berbulu halus. Spesies ini umum di Eropa dan juga terdapat di Amerika Utara, biasanya pada akhir musim panas dan musim gugur, dan lebih kemudian di beberapa daerah yang lebih hangat.",
+      "cap": "Tidak ada tudung dalam arti biasa: tubuh buah adalah sebuah cawan (apotesium), biasanya 3–6 cm lebarnya, kadang hingga 10 cm, dan biasanya 2–4 cm tingginya. Cawan muda hampir bulat, lalu membuka menjadi mangkuk bertepi bergelombang atau retak; yang lebih tua dapat merata, berlekuk, atau terbalik sehingga semakin menyerupai kulit jeruk. Cawan duduk di tanah dan tidak memiliki batang yang tampak.",
+      "hymenium": "Permukaan dalam yang fertil licin dan mengilap, dari oranye pucat hingga oranye-merah tua. Spora terbentuk pada lapisan dalam ini dan dapat mengepul dalam awan yang terlihat ketika cawan terganggu. Jejak spora berwarna putih.",
+      "stipe": "Tidak ada batang yang tampak. Cawan melekat pada tanah hanya oleh benang miselium. Permukaan luar yang steril lebih pucat daripada bagian dalam dan tertutup bulu keputihan yang sangat halus.",
+      "flesh": "Daging tipis, rapuh, dan berair, keputihan hingga pucat, tanpa bau atau rasa yang khas.",
+      "sporePrint": "Putih.",
+      "habitat": "Saprofit tanah yang terganggu, sering berkerikil, berpasir, atau berlempung, terutama di tepi jalur hutan, jalan hutan, tebing, dan bahu jalan, dan kadang di taman, kebun, atau rumput. Biasanya berbuah dalam kelompok atau rumpun yang menyatu. Di Britania dan Irlandia paling sering ditemukan dari Agustus hingga awal November; di tempat lain dapat muncul lebih awal atau lebih lambat, di California dari akhir musim gugur hingga awal musim semi.",
+      "uses": "Ini salah satu dari sedikit cawan umum yang dianggap dapat dimakan, tetapi dagingnya tipis dan hambar, dan jarang dikumpulkan, mungkin hanya untuk memberi warna pada salad. Sebagian besar cawan lain beracun sampai tingkat tertentu, atau hanya dimakan setelah dimasak tuntas, jadi cawan oranye atau merah yang mirip tidak boleh dimakan hanya karena kemiripan. Selalu masak jamur liar; jangan mengandalkan teks ini saja.",
+      "confusion": "Cawan elf merah padam (Sarcoscypha austriaca dan S. coccinea) berwarna merah terang, bukan oranye, dan tumbuh pada kayu mati, biasanya pada akhir musim dingin dan musim semi. Cawan oranye yang lebih kecil, Melastiza chateri, memiliki rambut gelap pada tepinya. Beberapa spesies Otidea berbentuk telinga dan terbelah di satu sisi. Caloscypha fulgens adalah spesies musim semi hutan konifer yang cawannya dapat memar kebiruan-hijau. Jangan menganggap cawan oranye lain dapat dimakan hanya karena kemiripan.",
+      "notes": "Nama yang diterima adalah Aleuria aurantia (Pers.) Fuckel, berdasarkan Peziza aurantia Pers. Spesies ini termasuk famili Pyronemataceae, bukan Pezizaceae. Nama sejarah Peziza coccinea juga digunakan untuk cawan merah padam; dalam katalog ini subspecies Peziza coccinea subsp. auctior sudah menjadi sinonim Microstoma protractum. Plat ini adalah ilustrasi yang dihasilkan kecerdasan buatan, bukan gambar sejarah yang diterbitkan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Aleuria aurantia è una coppa sessile che sembra bucce d’arancia abbandonate su suolo nudo o ghiaioso, soprattutto lungo i sentieri boschivi. Le coppe, dapprima quasi sferiche, diventano ondulate, spesso fesse e contorte. La faccia interna è lucida, arancio fino ad arancio-rosso intenso; l’esterno è più pallido e finemente tomentoso. È comune in Europa e si trova anche in Nord America, tipicamente a fine estate e in autunno, più tardi in alcune regioni più calde.",
+      "cap": "Non c’è un cappello nel senso usuale: il corpo fruttifero è una coppa (apotecio), di solito larga 3–6 cm, talvolta fino a 10 cm, e tipicamente alta 2–4 cm. Le coppe giovani sono quasi sferiche, poi si aprono in ciotole dal margine ondulato o fesso; quelle più vecchie possono appiattirsi, diventare lobate o rovesciarsi, assomigliando ancora di più a una buccia. La coppa siede sul suolo e non ha un gambo visibile.",
+      "hymenium": "La faccia interna fertile è liscia e lucida, da arancio pallido ad arancio-rosso cupo. Le spore si formano su questo rivestimento interno e possono uscire in una nuvoletta visibile quando si disturba una coppa. La sporata è bianca.",
+      "stipe": "Non c’è un gambo visibile. La coppa è attaccata al suolo solo da filamenti miceliari. La faccia esterna sterile è più pallida dell’interno e coperta da una pubescenza biancastra molto fine.",
+      "flesh": "La carne è sottile, fragile e acquosa, biancastra o pallida, senza odore né sapore distintivi.",
+      "sporePrint": "Bianca.",
+      "habitat": "Saprofita di suoli disturbati, spesso ghiaiosi, sabbiosi o argillosi, soprattutto lungo sentieri boschivi, piste forestali, scarpate e bordi stradali, e talvolta in parchi, giardini o prati. Fruttifica di solito in gruppi o cespi fusi. In Gran Bretagna e Irlanda si trova soprattutto da agosto all’inizio di novembre; altrove può comparire prima o dopo, in California dalla fine dell’autunno all’inizio della primavera.",
+      "uses": "È una delle poche coppe comuni considerate commestibili, ma la carne è sottile e insipida, e si raccoglie raramente, magari solo per dare colore a un’insalata. La maggior parte delle altre coppe è in qualche misura velenosa, o si mangia solo dopo una cottura accurata, quindi non vanno mangiate coppe arancioni o rosse simili solo per la somiglianza. Cucinare sempre i funghi selvatici; non affidarsi soltanto a questo testo.",
+      "confusion": "Le coppe degli elfi scarlatte (Sarcoscypha austriaca e S. coccinea) sono rosso vivo, non arancioni, e crescono sul legno morto, tipicamente a fine inverno e in primavera. La coppa arancione più piccola Melastiza chateri ha peli scuri sul margine. Alcune Otidea sono auricolari e fesse da un lato. Caloscypha fulgens è una specie primaverile delle foreste di conifere le cui coppe possono virare al blu-verde. Non considerare commestibili altre coppe arancioni per semplice associazione.",
+      "notes": "Il nome accettato è Aleuria aurantia (Pers.) Fuckel, basato su Peziza aurantia Pers. Appartiene alla famiglia Pyronemataceae, non alle Pezizaceae. Il nome storico Peziza coccinea è stato usato anche per le coppe scarlatte; in questo catalogo la sottospecie Peziza coccinea subsp. auctior è già un sinonimo di Microstoma protractum. La tavola è un’illustrazione generata da intelligenza artificiale, non una figura storica pubblicata.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ヒイロチャワンタケは、特に林道沿いに、裸地や砂利の多い土の上に捨てられたオレンジの皮のように見える、柄のない皿状のきのこである。子実体は初めほぼ球形で、のちに波打ち、しばしば裂けてねじれる。内側は光沢のある橙色から深い橙赤色、外側はより淡く、細かい綿毛に覆われる。ヨーロッパでは普通種で北アメリカにも分布し、典型的には晩夏から秋に、暖かい地域ではさらに遅くまで見られる。",
+      "cap": "通常の意味でのカサはない。子実体は皿状（子嚢盤）で、幅はふつう3–6 cm、ときに10 cmに達し、高さは典型的に2–4 cmである。若いものはほぼ球形で、のちに波状または裂けた縁の椀となり、老成すると扁平になったり裂片状になったり裏返ったりして、いっそう皮に似る。皿は地上に座り、目に見える柄はない。",
+      "hymenium": "稔性のある内面は平滑で光沢があり、淡い橙色から深い橙赤色まで変化する。胞子はこの内面でつくられ、子実体を刺激すると目に見える雲のように放出されることがある。胞子紋は白色。",
+      "stipe": "目に見える柄はない。皿は菌糸の糸だけで土に付着する。不稔の外面は内側より淡く、ごく細かい白い綿毛に覆われる。",
+      "flesh": "肉は薄くてもろく水っぽく、白っぽいまたは淡色で、特別な匂いも味もない。",
+      "sporePrint": "白色。",
+      "habitat": "攪乱された、しばしば砂利質・砂質または粘土質の土壌の腐生菌で、林道、作業道、法面、路傍に多く、公園、庭、芝生にも出ることがある。ふつう群生し、癒合した塊になることもある。イギリスとアイルランドでは8月から11月初めに最もよく見られ、ほかの地域ではより早くまたは遅く、カリフォルニアでは晩秋から早春にかけて出現する。",
+      "uses": "食用とされる数少ない普通の皿状きのこの一つだが、肉は薄くて味が薄く、あまり採られない。サラダの彩りに使われる程度である。ほかの皿状きのこの多くはある程度有毒か、十分に加熱してから食べるものであり、似た橙色や赤色の皿を外見だけで食べてはならない。野生のきのこは必ず加熱調理し、この文章だけに頼らないこと。",
+      "confusion": "ベニチャワンタケ類（Sarcoscypha austriaca および S. coccinea）は橙色ではなく鮮紅色で、枯れた木材上に、典型的には晩冬から春に発生する。より小型の橙色の Melastiza chateri は縁に暗い毛がある。Otidea の一部は耳形で片側が裂けている。Caloscypha fulgens は針葉樹林の春の種で、子実体が青緑色に変色することがある。ほかの橙色の皿状きのこを、外見が似ているというだけで食用としてはならない。",
+      "notes": "認められた学名は Aleuria aurantia (Pers.) Fuckel で、Peziza aurantia Pers. に基づく。本種はピロネマ科（Pyronemataceae）に属し、チャワンタケ科（Pezizaceae）ではない。歴史的な名 Peziza coccinea はベニチャワンタケ類にも用いられた。本図鑑では亜種 Peziza coccinea subsp. auctior はすでに Microstoma protractum の異名である。図版は歴史的な刊行図ではなく、人工知能によって生成されたイラストである。",
+      "names": [
+        "ベニチャワンタケ"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.gbif.org/species/5258678"
+      ],
+      "label": "ヒイロチャワンタケ"
+    },
+    "ko": {
+      "description": "들주발버섯은 줄기 없는 잔 모양 버섯으로, 특히 숲길 가장자리의 벗은 땅이나 자갈 땅에 버려진 오렌지 껍질처럼 보인다. 잔은 처음에는 거의 공 모양이다가 나중에 물결치고, 흔히 갈라지고 비틀린다. 안쪽은 윤기 나는 주황색에서 짙은 주황빨강이며, 바깥쪽은 더 옅고 잔털이 있다. 유럽에서는 흔하고 북아메리카에도 나며, 전형적으로 늦여름과 가을에, 더 따뜻한 지역에서는 더 늦게 나타난다.",
+      "cap": "보통 의미의 갓은 없다. 자실체는 잔(자낭반)으로, 너비는 보통 3–6 cm, 때로는 10 cm까지, 높이는 전형적으로 2–4 cm이다. 어린 잔은 거의 공 모양이고, 이어서 물결치거나 갈라진 가장자리의 그릇으로 벌어지며, 오래된 것은 납작해지거나 갈래가 지거나 뒤집혀 껍질을 더 닮는다. 잔은 땅에 앉고 보이는 대는 없다.",
+      "hymenium": "생식하는 안쪽 표면은 매끄럽고 윤기가 있으며, 옅은 주황색에서 짙은 주황빨강까지이다. 포자는 이 안쪽 면에서 생기며, 잔을 건드리면 보이는 구름처럼 뿜어질 수 있다. 포자문은 흰색이다.",
+      "stipe": "보이는 대가 없다. 잔은 균사 가닥만으로 땅에 붙어 있다. 불임인 바깥면은 안쪽보다 옅고 매우 가는 흰 잔털로 덮여 있다.",
+      "flesh": "살은 얇고 잘 부러지며 수분이 많고, 회백색에서 옅은색이며 특별한 냄새나 맛이 없다.",
+      "sporePrint": "흰색.",
+      "habitat": "교란된, 흔히 자갈·모래 또는 점토질의 땅에서 사는 부생균으로, 특히 숲길, 임도, 비탈, 길가에 나며 공원, 정원, 잔디밭에도 있다. 보통 무리 또는 서로 붙은 덩어리로 난다. 영국과 아일랜드에서는 8월부터 11월 초에 가장 흔하고, 다른 곳에서는 더 이르거나 늦을 수 있으며, 캘리포니아에서는 늦가을부터 이른 봄까지 난다.",
+      "uses": "먹을 수 있다고 여겨지는 몇 안 되는 흔한 잔 버섯 중 하나이지만, 살은 얇고 맛이 없으며 거의 채집되지 않고, 샐러드에 색을 내는 정도이다. 다른 잔 버섯의 대부분은 어느 정도 독이 있거나 충분히 끓인 뒤에야 먹으므로, 비슷한 주황이나 빨간 잔을 닮았다는 이유만으로 먹어서는 안 된다. 야생 버섯은 반드시 익혀 먹고, 이 글에만 의존하지 마십시오.",
+      "confusion": "진홍색 요정의 잔(Sarcoscypha austriaca와 S. coccinea)은 주황이 아니라 선명한 빨강이며, 죽은 나무 위에서, 전형적으로 늦겨울과 봄에 난다. 더 작은 주황 잔 Melastiza chateri는 가장자리에 어두운 털이 있다. 일부 Otidea 종은 귀 모양이고 한쪽이 갈라진다. Caloscypha fulgens는 침엽수림의 봄 종으로, 잔이 청록색으로 변색할 수 있다. 다른 주황 잔 버섯을 닮았다는 이유만으로 식용으로 보지 마십시오.",
+      "notes": "인정된 학명은 Peziza aurantia Pers.에 기초한 Aleuria aurantia (Pers.) Fuckel이다. 이 종은 불꽃버섯과(Pyronemataceae)에 속하며 주발버섯과(Pezizaceae)가 아니다. 역사적 이름 Peziza coccinea는 진홍 잔에도 쓰였고, 이 도감에서는 아종 Peziza coccinea subsp. auctior가 이미 Microstoma protractum의 이명이다. 도판은 역사적으로 출판된 그림이 아니라 인공지능으로 만든 일러스트이다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames"
+      ],
+      "label": "들주발버섯"
+    },
+    "lt": {
+      "description": "Oranžinis lėkščiagrybis yra beskotis dubenėlinis grybas, primenantis numestas apelsinų žieves ant plikos ar žvyruotos dirvos, ypač palei miško takus. Dubenėliai iš pradžių beveik rutuliški, vėliau banguoti, dažnai plyšę ir susisukę. Vidinė pusė blizgi, oranžinė iki sodriai oranžinės raudonos; išorinė šviesesnė ir smulkiai veltinė. Europoje rūšis dažna, aptinkama ir Šiaurės Amerikoje, paprastai vasaros pabaigoje ir rudenį, šiltesniuose kraštuose ir vėliau.",
+      "cap": "Įprasta kepurėlė nėra: vaisiakūnis yra dubenėlis (apotecis), paprastai 3–6 cm pločio, kartais iki 10 cm, ir tipiškai 2–4 cm aukščio. Jauni dubenėliai beveik rutuliški, paskui atsiveria į dubenis banguotu ar plyšusiu kraštu; senesni gali suplokštėti, tapti skiautėti arba išsiversti ir dar labiau priminti žievę. Dubenėlis sėdi ant dirvos ir neturi matomo koto.",
+      "hymenium": "Derlingasis vidinis paviršius lygus ir blizgus, nuo šviesiai oranžinės iki sodriai oranžinės raudonos. Sporos susidaro ant šio vidinio paviršiaus ir, sudirginus dubenėlį, gali išlėkti matomu debesėliu. Sporų milteliai balti.",
+      "stipe": "Matomo koto nėra. Dubenėlis prie dirvos prisitvirtinęs tik grybienos siūlais. Nederlingoji išorinė pusė šviesesnė už vidų ir apaugusi labai smulkiais balkšvais pūkeliais.",
+      "flesh": "Mėsa plona, trapi ir vandeninga, balkšva iki šviesios, be ryškaus kvapo ir skonio.",
+      "sporePrint": "Balti.",
+      "habitat": "Saprotrafas pažeistoje, dažnai žvyruotoje, smėlingoje ar molingoje dirvoje, ypač palei miško takus, treles, šlaitus ir kelkraščius, kartais ir parkuose, soduose ar vejose. Vaisiakūniai paprastai auga grupėmis arba suaugusiomis kekėmis. Didžiojoje Britanijoje ir Airijoje dažniausiai randamas nuo rugpjūčio iki lapkričio pradžios; kitur gali pasirodyti anksčiau ar vėliau, Kalifornijoje nuo vėlyvo rudens iki ankstyvo pavasario.",
+      "uses": "Tai vienas nedaugelio dažnų dubenėlinių grybų, laikomų valgoma, tačiau mėsa plona ir blankaus skonio, ir jis retai renkamas, galbūt tik salotoms nudažyti. Dauguma kitų dubenėlinių grybų yra tam tikru mastu nuodingi arba valgomi tik po kruopštaus virimo, todėl panašių oranžinių ar raudonų dubenėlių negalima valgyti vien dėl panašumo. Laukiniai grybai visada virkite; nepasikliaukite vien šiuo tekstu.",
+      "confusion": "Skaisčiai raudonos elfų taurelės (Sarcoscypha austriaca ir S. coccinea) yra ryškiai raudonos, ne oranžinės, ir auga ant negyvos medienos, paprastai žiemos pabaigoje ir pavasarį. Mažesnis oranžinis Melastiza chateri dubenėlis pakraštyje turi tamsių plaukelių. Kai kurios Otidea rūšys yra ausies pavidalo ir perskeltos vienoje pusėje. Caloscypha fulgens yra spygliuočių miškų pavasarinė rūšis, kurios dubenėliai gali pamėlynuoti žalsvai mėlynai. Kitų oranžinių dubenėlinių grybų nelaikykite valgomais vien dėl panašumo.",
+      "notes": "Priimtas pavadinimas yra Aleuria aurantia (Pers.) Fuckel, pagrįstas pavadinimu Peziza aurantia Pers. Rūšis priklauso Pyronemataceae šeimai, ne Pezizaceae. Istorinis pavadinimas Peziza coccinea buvo taikomas ir raudonosioms taurelėms; šiame kataloge porūšis Peziza coccinea subsp. auctior jau yra Microstoma protractum sinonimas. Lenta yra dirbtinio intelekto sukurta iliustracija, o ne istorinis publikuotas piešinys.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Oran%C5%BEinis_l%C4%97k%C5%A1%C4%8Diagrybis",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://www.gbif.org/species/5258678"
+      ],
+      "label": "oranžinis lėkščiagrybis"
+    },
+    "lv": {
+      "description": "Zeltainā aleirija ir bezkāta kausveida sēne, kas izskatās pēc nomestām apelsīna mizām uz kailas vai grants augsnes, īpaši gar meža takām. Kausiņi vispirms ir gandrīz lodveida, vēlāk viļņoti, bieži plīsuši un sagriezti. Iekšpuse ir spīdīga, oranža līdz dziļi oranžisarkanai; ārpuse gaišāka un smalki filcaina. Eiropā suga ir bieži sastopama un sastopama arī Ziemeļamerikā, parasti vasaras beigās un rudenī, siltākos apvidos arī vēlāk.",
+      "cap": "Parastā nozīmē cepurītes nav: augļķermenis ir kausiņš (apotēcijs), parasti 3–6 cm plats, dažkārt līdz 10 cm, un tipiski 2–4 cm augsts. Jauni kausiņi ir gandrīz lodveida, pēc tam atveras bļodās ar viļņotu vai plīsušu malu; vecāki var saplacināties, kļūt daivaini vai izvērsties uz otru pusi un vēl vairāk līdzināties mizai. Kausiņš sēž uz augsnes un tam nav redzama kātiņa.",
+      "hymenium": "Auglīgā iekšējā virsma ir gluda un spīdīga, no gaiši oranžas līdz dziļi oranžisarkanai. Sporas veidojas uz šīs iekšējās virsmas un, kausiņu aizskatot, var izpūsties redzamā mākonītī. Sporu pulveris ir balts.",
+      "stipe": "Redzama kātiņa nav. Kausiņš pie augsnes piestiprināts tikai ar micēlija pavedieniem. Neauglīgā ārējā puse ir gaišāka par iekšpusi un klāta ar ļoti smalku bālganu pūkainumu.",
+      "flesh": "Mīkstums ir plāns, trausls un ūdeņains, bālgans līdz gaišam, bez izteiktas smaržas un garšas.",
+      "sporePrint": "Balts.",
+      "habitat": "Saprotafs uz traucētas, bieži grants, smilšainas vai mālainas augsnes, īpaši gar meža takām, pievešanas ceļiem, nogāzēm un ceļmalām, dažkārt arī parkos, dārzos vai zālienos. Augļķermeņi parasti parādās grupās vai saaugušos pušķos. Lielbritānijā un Īrijā visbiežāk no augusta līdz novembra sākumam; citur tā var parādīties agrāk vai vēlāk, Kalifornijā no vēla rudens līdz agrā pavasarim.",
+      "uses": "Šī ir viena no nedaudzajām bieži sastopamajām kausveida sēnēm, ko uzskata par ēdamu, taču mīkstums ir plāns un bezgaršīgs, un to reti ievāc, varbūt tikai salātu iekrāsošanai. Lielākā daļa citu kausveida sēņu ir kādā mērā indīgas vai ēdamas tikai pēc rūpīgas vārīšanas, tādēļ līdzīgus oranžus vai sarkanus kausiņus nevajadzētu ēst tikai līdzības dēļ. Savvaļas sēnes vienmēr vāriet; nepaļaujieties tikai uz šo tekstu.",
+      "confusion": "Koši sarkanie elfu kausi (Sarcoscypha austriaca un S. coccinea) ir spilgti sarkani, ne oranži, un aug uz atmirušas koksnes, parasti ziemas beigās un pavasarī. Mazākajam oranžajam kausiņam Melastiza chateri malā ir tumši matiņi. Dažas Otidea sugas ir ausveida un vienā pusē šķeltas. Caloscypha fulgens ir skujkoku mežu pavasara suga, kuras kausiņi var zilganzaļi noplaukt. Citas oranžas kausveida sēnes nevajadzētu uzskatīt par ēdamām tikai līdzības dēļ.",
+      "notes": "Pieņemtais nosaukums ir Aleuria aurantia (Pers.) Fuckel, balstīts uz nosaukumu Peziza aurantia Pers. Suga pieder dzimtai Pyronemataceae, nevis Pezizaceae. Vēsturisko nosaukumu Peziza coccinea lietoja arī koši sarkanajiem kausiem; šajā katalogā pasuga Peziza coccinea subsp. auctior jau ir sugas Microstoma protractum sinonīms. Plate ir ar mākslīgo intelektu veidots zīmējums, nevis vēsturisks publicēts attēls.",
+      "names": [
+        "oranžā spulgaine"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames"
+      ],
+      "label": "zeltainā aleirija"
+    },
+    "nl": {
+      "description": "De grote oranje bekerzwam is een steelloze bekerzwam die eruitziet als weggegooide sinaasappelschillen op kale of grindachtige grond, vooral langs bospaden. De bekers zijn eerst bijna bolvormig, later golvend, vaak gespleten en verdraaid. De binnenkant is glanzend oranje tot diep oranje-rood; de buitenkant is bleker en fijn viltig. In Europa is de soort algemeen en komt ze ook in Noord-Amerika voor, typisch in de nazomer en de herfst, in warmere streken ook later.",
+      "cap": "Er is geen hoed in de gewone zin: het vruchtlichaam is een beker (apothecium), meestal 3–6 cm breed, soms tot 10 cm, en typisch 2–4 cm hoog. Jonge bekers zijn bijna bolvormig, openen zich daarna tot schalen met een golvende of gespleten rand; oudere kunnen afplatten, gelobd worden of zich omkeren en nog meer op een schil lijken. De beker zit op de grond en heeft geen zichtbare steel.",
+      "hymenium": "Het fertiele binnenoppervlak is glad en glanzend, van lichtoranje tot diep oranje-rood. De sporen ontstaan op deze binnenwand en kunnen bij verstoring van een beker in een zichtbaar wolkje ontsnappen. De sporenprint is wit.",
+      "stipe": "Er is geen zichtbare steel. De beker is alleen via myceliumdraden met de grond verbonden. Het steriele buitenoppervlak is bleker dan de binnenkant en bedekt met een zeer fijne witachtige viltlaag.",
+      "flesh": "Het vlees is dun, bros en waterig, witachtig tot bleek, zonder opvallende geur of smaak.",
+      "sporePrint": "Wit.",
+      "habitat": "Een saprotroof van verstoorde, vaak grindachtige, zandige of kleiige grond, vooral langs bospaden, boswegen, taluds en bermen, en soms in parken, tuinen of gazons. Vruchtlichamen verschijnen meestal in groepjes of vergroeide trossen. In Groot-Brittannië en Ierland is de soort het vaakst te vinden van augustus tot begin november; elders kan ze vroeger of later verschijnen, in Californië van de late herfst tot het vroege voorjaar.",
+      "uses": "Dit is een van de weinige algemene bekerzwammen die als eetbaar gelden, maar het vlees is dun en flauw en wordt zelden verzameld, hooguit om kleur aan een salade te geven. De meeste andere bekerzwammen zijn in enige mate giftig, of worden pas na grondig koken gegeten, dus soortgelijke oranje of rode bekers moet men niet eten louter vanwege de gelijkenis. Kook wilde paddenstoelen altijd; vertrouw niet alleen op deze tekst.",
+      "confusion": "Scharlaken elfenbekers (Sarcoscypha austriaca en S. coccinea) zijn helderrood in plaats van oranje en groeien op dood hout, typisch in de late winter en de lente. De kleinere oranje beker Melastiza chateri heeft donkere haartjes op de rand. Sommige Otidea-soorten zijn oortvormig en aan één zijde gespleten. Caloscypha fulgens is een voorjaarssoort van naaldbossen waarvan de bekers blauwgroen kunnen verkleuren. Andere oranje bekerzwammen moet men niet als eetbaar beschouwen louter vanwege de gelijkenis.",
+      "notes": "De geaccepteerde naam is Aleuria aurantia (Pers.) Fuckel, gebaseerd op Peziza aurantia Pers. De soort behoort tot de familie Pyronemataceae, niet tot de Pezizaceae. De historische naam Peziza coccinea is ook gebruikt voor scharlaken elfenbekers; in deze catalogus is de ondersoort Peziza coccinea subsp. auctior al een synoniem van Microstoma protractum. De plaat is een door AI gegenereerde illustratie, geen historische gepubliceerde afbeelding.",
+      "names": [
+        "oranje bekerzwam"
+      ],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Grote_oranje_bekerzwam",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "grote oranje bekerzwam"
+    },
+    "no": {
+      "description": "Oransjebeger er en stilkles begersopp som ligner kastede appelsinskall på bar eller grusete jord, særlig langs skogsstier. Begerene er først nesten kuleformede, senere bølgete, ofte sprukne og vridde. Innsiden er blank, oransje til dyp oransjerød; utsiden er blekere og fint dunete. Den er vanlig i Europa og finnes også i Nord-Amerika, typisk sent på sommeren og om høsten, senere i noen varmere områder.",
+      "cap": "Det finnes ingen hatt i vanlig forstand: fruktlegemet er et beger (apothecium), vanligvis 3–6 cm bredt, av og til opptil 10 cm, og typisk 2–4 cm høyt. Unge begere er nesten kuleformede, åpner seg deretter til skåler med bølget eller sprukken rand; eldre kan flates ut, bli lappete eller vendes vrangen ut og ligne skall enda mer. Begeret sitter på jorden og har ingen synlig stilk.",
+      "hymenium": "Den fertile innsiden er glatt og blank, fra lys oransje til dyp oransjerød. Sporene dannes på denne innerflaten og kan puste ut i en synlig sky når et beger forstyrres. Sporeavtrykket er hvitt.",
+      "stipe": "Det finnes ingen synlig stilk. Begeret er festet til jorden bare med myceltråder. Den sterile utsiden er blekere enn innsiden og dekket av et svært fint hvitaktig dun.",
+      "flesh": "Kjøttet er tynt, sprøtt og vannaktig, hvitaktig til blekt, uten særskilt lukt eller smak.",
+      "sporePrint": "Hvitt.",
+      "habitat": "En saprotrof på forstyrret, ofte grusete, sandete eller leirete jord, særlig langs skogsstier, skogsveier, skråninger og veikanter, og noen ganger i parker, hager eller plener. Den frukter vanligvis i grupper eller sammenvokste klynger. I Storbritannia og Irland finnes den oftest fra august til begynnelsen av november; andre steder kan den komme tidligere eller senere, i California fra sen høst til tidlig vår.",
+      "uses": "Dette er en av de få vanlige begersoppene som regnes som spiselige, men kjøttet er tynt og smakløst, og den samles sjelden, kanskje bare for å gi farge til en salat. De fleste andre begersopper er i noen grad giftige, eller spises først etter grundig koking, så lignende oransje eller røde begere skal ikke spises bare på grunn av likheten. Kok alltid ville sopper; stol ikke bare på denne teksten.",
+      "confusion": "Skarlagensrøde alveskåler (Sarcoscypha austriaca og S. coccinea) er klart røde, ikke oransje, og vokser på død ved, typisk sent på vinteren og om våren. Det mindre oransje begreret Melastiza chateri har mørke hår på randen. Noen Otidea-arter er øreformede og kløvet langs den ene siden. Caloscypha fulgens er en vårart i barskog hvis begere kan anløpe blågrønt. Andre oransje begersopper skal ikke anses som spiselige bare på grunn av likheten.",
+      "notes": "Det aksepterte navnet er Aleuria aurantia (Pers.) Fuckel, basert på Peziza aurantia Pers. Arten hører til familien Pyronemataceae, ikke Pezizaceae. Det historiske navnet Peziza coccinea er også brukt om alveskåler; i denne katalogen er underarten Peziza coccinea subsp. auctior allerede et synonym for Microstoma protractum. Plansjen er en AI-generert illustrasjon, ikke en historisk publisert figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "oransjebeger"
+    },
+    "pl": {
+      "description": "Dzieżka pomarańczowa to beztrzonowy grzyb miseczkowaty, który wygląda jak porzucone skórki pomarańczy na nagiej lub żwirowej glebie, zwłaszcza wzdłuż leśnych dróg. Miseczki są najpierw niemal kuliste, potem faliste, często pęknięte i powykrzywiane. Wewnętrzna strona jest lśniąca, pomarańczowa do głęboko pomarańczowoczerwonej; zewnętrzna jaśniejsza i delikatnie filcowata. W Europie jest pospolita i występuje także w Ameryce Północnej, typowo pod koniec lata i jesienią, w cieplejszych regionach również później.",
+      "cap": "Kapelusza w zwykłym znaczeniu brak: owocnik jest miseczką (apotecjum), zwykle o średnicy 3–6 cm, wyjątkowo do 10 cm, i typowo wysokości 2–4 cm. Młode owocniki są niemal kuliste, potem otwierają się w miseczki o falistym lub pękniętym brzegu; starsze mogą się spłaszczać, stawać klapowane albo wywracać na nice i jeszcze bardziej przypominać skórkę. Miseczka siedzi na glebie i nie ma widocznego trzonu.",
+      "hymenium": "Płodna wewnętrzna powierzchnia jest gładka i lśniąca, od jasnomarańczowej do głęboko pomarańczowoczerwonej. Zarodniki powstają na tej wewnętrznej stronie i przy poruszeniu miseczki mogą uwolnić się w widocznej chmurce. Wysyp zarodników jest biały.",
+      "stipe": "Widocznego trzonu brak. Miseczka jest przytwierdzona do gleby tylko nićmi grzybni. Płonna strona zewnętrzna jest jaśniejsza od wnętrza i pokryta bardzo delikatnym białawym kutnerem.",
+      "flesh": "Miąższ jest cienki, kruchy i wodnisty, białawy do blado, bez wyraźnego zapachu i smaku.",
+      "sporePrint": "Biały.",
+      "habitat": "Saprotrof zaburzonej, często żwirowej, piaszczystej lub gliniastej gleby, zwłaszcza przy leśnych drogach, traktach zrywkowych, skarpach i poboczach, czasem także w parkach, ogrodach lub na trawnikach. Owocniki pojawiają się zwykle w grupach lub zrośniętych kępkach. W Wielkiej Brytanii i Irlandii najczęściej od sierpnia do początku listopada; gdzie indziej może owocować wcześniej lub później, w Kalifornii od późnej jesieni do wczesnej wiosny.",
+      "uses": "To jeden z niewielu pospolitych grzybów miseczkowatych uważanych za jadalne, ale miąższ jest cienki i mdły, a grzyb zbiera się rzadko, najwyżej jako barwny dodatek do sałatki. Większość innych grzybów miseczkowatych jest w jakimś stopniu trująca albo jada się je dopiero po dokładnym ugotowaniu, więc podobnych pomarańczowych lub czerwonych miseczek nie należy jeść tylko z powodu podobieństwa. Dziko rosnące grzyby zawsze gotuj; nie polegaj wyłącznie na tym tekście.",
+      "confusion": "Czarki szkarłatne (Sarcoscypha austriaca i S. coccinea) są jaskrawoczerwone, nie pomarańczowe, i rosną na martwym drewnie, typowo późną zimą i wiosną. Mniejsza pomarańczowa miseczka Melastiza chateri ma ciemne włoski na brzegu. Niektóre uchówki (Otidea) są uszkowate i rozszczepione z jednej strony. Caloscypha fulgens to wiosenny gatunek lasów iglastych, którego miseczki mogą sinieć na zielonomodro. Innych pomarańczowych grzybów miseczkowatych nie należy uważać za jadalne tylko z powodu podobieństwa.",
+      "notes": "Zaakceptowaną nazwą jest Aleuria aurantia (Pers.) Fuckel, oparta na Peziza aurantia Pers. Gatunek należy do rodziny Pyronemataceae, a nie Pezizaceae. Historyczna nazwa Peziza coccinea była stosowana także do czarek szkarłatnych; w tym katalogu podgatunek Peziza coccinea subsp. auctior jest już synonimem Microstoma protractum. Tablica jest ilustracją wygenerowaną przez sztuczną inteligencję, a nie historyczną opublikowaną ryciną.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Dzie%C5%BCka_pomara%C5%84czowa",
+        "https://www.gbif.org/species/5258678",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "dzieżka pomarańczowa"
+    },
+    "pt": {
+      "description": "Aleuria aurantia é uma taça séssil que parece cascas de laranja deitadas em solo nu ou pedregoso, sobretudo ao longo de caminhos florestais. As taças, a princípio quase esféricas, tornam-se onduladas, muitas vezes fendidas e torcidas. A face interna é brilhante, laranja a laranja-vermelho intenso; o exterior é mais pálido e finamente aveludado. É comum na Europa e ocorre também na América do Norte, tipicamente no fim do verão e no outono, mais tarde em algumas regiões mais quentes.",
+      "cap": "Não há chapéu no sentido habitual: o corpo frutífero é uma taça (apotécio), geralmente com 3–6 cm de largura, por vezes até 10 cm, e tipicamente com 2–4 cm de altura. As taças jovens são quase esféricas, depois abrem-se em tigelas de margem ondulada ou fendida; as mais velhas podem achatar-se, tornar-se lobadas ou inverter-se, parecendo ainda mais uma casca. A taça assenta no solo e não tem pé visível.",
+      "hymenium": "A face interna fértil é lisa e brilhante, de laranja pálido a laranja-vermelho profundo. Os esporos formam-se neste revestimento interno e podem sair numa nuvem visível quando se perturba uma taça. A esporada é branca.",
+      "stipe": "Não há pé visível. A taça está ligada ao solo apenas por fios de micélio. A face externa estéril é mais pálida do que o interior e coberta por uma penugem esbranquiçada muito fina.",
+      "flesh": "A carne é fina, quebradiça e aquosa, esbranquiçada a pálida, sem cheiro nem sabor distintivos.",
+      "sporePrint": "Branca.",
+      "habitat": "Saprófita de solos perturbados, muitas vezes pedregosos, arenosos ou argilosos, sobretudo junto a caminhos florestais, picadas, taludes e bermas, e por vezes em parques, jardins ou relvados. Frutifica geralmente em grupos ou cachos soldados. Na Grã-Bretanha e na Irlanda encontra-se sobretudo de agosto ao início de novembro; noutros lugares pode aparecer mais cedo ou mais tarde, na Califórnia do fim do outono ao início da primavera.",
+      "uses": "É uma das poucas taças comuns consideradas comestíveis, mas a carne é fina e insípida, e raramente se colhe, talvez só para dar cor a uma salada. A maioria das outras taças é tóxica em algum grau, ou só se come após cozedura completa, pelo que taças laranja ou vermelhas semelhantes não devem ser comidas só pela semelhança. Cozinhe sempre os fungos silvestres; não confie apenas neste texto.",
+      "confusion": "As taças élficas escarlates (Sarcoscypha austriaca e S. coccinea) são vermelho vivo, não laranja, e crescem em madeira morta, tipicamente no fim do inverno e na primavera. A taça laranja mais pequena Melastiza chateri tem pelos escuros na margem. Algumas Otidea têm forma de orelha e estão fendidas de um lado. Caloscypha fulgens é uma espécie primaveril de bosques de coníferas cujas taças podem azular-esverdeado. Não trate outras taças laranja como comestíveis por associação.",
+      "notes": "O nome aceite é Aleuria aurantia (Pers.) Fuckel, baseado em Peziza aurantia Pers. A espécie pertence à família Pyronemataceae, não às Pezizaceae. O nome histórico Peziza coccinea também foi usado para as taças escarlates; neste catálogo a subespécie Peziza coccinea subsp. auctior já é um sinónimo de Microstoma protractum. A prancha é uma ilustração gerada por inteligência artificial, não uma figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Aleuria aurantia este o cupă sesilă care arată ca coji de portocală aruncate pe sol gol sau pietros, mai ales de-a lungul potecilor forestiere. Cupele, la început aproape sferice, devin ondulate, adesea crăpate și răsucite. Fața internă este lucioasă, portocalie până la portocaliu-roșu intens; exteriorul este mai palid și fin pâslos. Este frecventă în Europa și apare și în America de Nord, de obicei la sfârșitul verii și toamna, mai târziu în unele ținuturi mai calde.",
+      "cap": "Nu există pălărie în sensul obișnuit: corpul de fructificație este o cupă (apoteciu), de obicei lată de 3–6 cm, uneori până la 10 cm, și tipic înaltă de 2–4 cm. Cupele tinere sunt aproape sferice, apoi se deschid în boluri cu margine ondulată sau crăpată; cele bătrâne se pot aplatiza, deveni lobate sau se pot întoarce pe dos, semănând și mai mult cu o coajă. Cupa stă pe sol și nu are picior vizibil.",
+      "hymenium": "Fața internă fertilă este netedă și lucioasă, de la portocaliu pal la portocaliu-roșu profund. Sporii se formează pe această căptușeală internă și pot ieși într-un nor vizibil când o cupă este tulburată. Pulberea sporiferă este albă.",
+      "stipe": "Nu există picior vizibil. Cupa este prinsă de sol numai prin fire de miceliu. Fața externă sterilă este mai palidă decât interiorul și acoperită cu un puf albicios foarte fin.",
+      "flesh": "Carnea este subțire, casantă și apoasă, albicioasă până la palidă, fără miros sau gust distinctiv.",
+      "sporePrint": "Albă.",
+      "habitat": "Saprofit al solurilor tulburate, adesea pietroase, nisipoase sau argiloase, mai ales de-a lungul potecilor forestiere, drumurilor de scos lemn, taluzurilor și marginilor de drum, uneori și în parcuri, grădini sau pe peluze. Fructifică de obicei în grupuri sau ciorchini concrescuți. În Marea Britanie și Irlanda se găsește mai ales din august până la începutul lui noiembrie; în alte locuri poate apărea mai devreme sau mai târziu, în California de la sfârșitul toamnei până la începutul primăverii.",
+      "uses": "Este una dintre puținele cupe comune considerate comestibile, dar carnea este subțire și fadă și se culege rar, poate doar pentru a colora o salată. Cele mai multe alte cupe sunt oarecum toxice sau se mănâncă abia după o fierbere temeinică, deci cupe portocalii sau roșii asemănătoare nu trebuie mâncate doar pe baza asemănării. Gătiți întotdeauna ciupercile sălbatice; nu vă bazați numai pe acest text.",
+      "confusion": "Cupele elfilor stacojii (Sarcoscypha austriaca și S. coccinea) sunt roșu viu, nu portocalii, și cresc pe lemn mort, de obicei la sfârșitul iernii și primăvara. Cupa portocalie mai mică Melastiza chateri are perișori întunecați pe margine. Unele specii de Otidea sunt în formă de ureche și crăpate pe o parte. Caloscypha fulgens este o specie de primăvară a pădurilor de conifere ale cărei cupe pot învineți albăstrui-verzui. Alte cupe portocalii nu trebuie considerate comestibile doar prin asociere.",
+      "notes": "Numele acceptat este Aleuria aurantia (Pers.) Fuckel, bazat pe Peziza aurantia Pers. Specia aparține familiei Pyronemataceae, nu Pezizaceae. Numele istoric Peziza coccinea a fost folosit și pentru cupele stacojii; în acest catalog subspecia Peziza coccinea subsp. auctior este deja un sinonim al lui Microstoma protractum. Planșa este o ilustrație generată de inteligență artificială, nu o figură istorică publicată.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Алеврия оранжевая — сидячий чашевидный гриб, похожий на разбросанные апельсиновые корки на голой или щебнистой почве, особенно вдоль лесных троп. Чашечки сначала почти шаровидные, затем волнистые, часто разорванные и искривлённые. Внутренняя сторона блестящая, оранжевая до глубокой оранжево-красной; наружная бледнее и тонко опушённая. В Европе вид обычен и встречается также в Северной Америке, как правило в конце лета и осенью, в более тёплых районах и позднее.",
+      "cap": "Шляпки в обычном смысле нет: плодовое тело — чашечка (апотеций), обычно 3–6 см в поперечнике, изредка до 10 см, и типично 2–4 см высотой. Молодые чашечки почти шаровидные, затем раскрываются в миски с волнистым или разорванным краем; более старые могут уплощаться, становиться лопастными или выворачиваться наизнанку и ещё больше походить на корку. Чашечка сидит на почве и не имеет видимой ножки.",
+      "hymenium": "Плодородная внутренняя поверхность гладкая и блестящая, от бледно-оранжевой до глубокой оранжево-красной. Споры образуются на этой внутренней стороне и при сотрясении чашечки могут вылетать видимым облачком. Споровый порошок белый.",
+      "stipe": "Видимой ножки нет. Чашечка прикреплена к почве только мицелиальными нитями. Бесплодная наружная сторона бледнее внутренней и покрыта очень тонким беловатым опушением.",
+      "flesh": "Мякоть тонкая, ломкая и водянистая, беловатая до бледной, без особого запаха и вкуса.",
+      "sporePrint": "Белый.",
+      "habitat": "Сапротроф нарушенных, часто щебнистых, песчаных или глинистых почв, особенно вдоль лесных троп, трелёвочных дорог, откосов и обочин, иногда также в парках, садах или на газонах. Плодовые тела обычно появляются группами или сросшимися скоплениями. В Великобритании и Ирландии чаще всего с августа до начала ноября; в других местах может появляться раньше или позже, в Калифорнии с поздней осени до ранней весны.",
+      "uses": "Это один из немногих обычных чашевидных грибов, считающихся съедобными, но мякоть тонкая и безвкусная, и его редко собирают, разве что для окраски салата. Большинство других чашевидных грибов в той или иной степени ядовиты или употребляются только после тщательной варки, поэтому похожие оранжевые или красные чашечки не следует есть лишь из-за сходства. Дикие грибы всегда готовьте; не полагайтесь только на этот текст.",
+      "confusion": "Алые эльфовы чаши (Sarcoscypha austriaca и S. coccinea) ярко-красные, а не оранжевые, и растут на мёртвой древесине, обычно в конце зимы и весной. У более мелкой оранжевой чашечки Melastiza chateri по краю тёмные волоски. Некоторые виды Otidea уховидные и рассечены с одной стороны. Caloscypha fulgens — весенний вид хвойных лесов, чьи чашечки могут сине-зеленеть от нажатия. Другие оранжевые чашевидные грибы не следует считать съедобными лишь по сходству.",
+      "notes": "Принятое название — Aleuria aurantia (Pers.) Fuckel, основанное на Peziza aurantia Pers. Вид относится к семейству Pyronemataceae, а не Pezizaceae. Историческое имя Peziza coccinea применялось и к алым чашам; в этом каталоге подвид Peziza coccinea subsp. auctior уже является синонимом Microstoma protractum. Таблица — иллюстрация, созданная искусственным интеллектом, а не исторический опубликованный рисунок.",
+      "names": [
+        "пецица оранжевая"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%B2%D1%80%D0%B8%D1%8F_%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%B0%D1%8F",
+        "https://www.gbif.org/species/5258678",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://mycoweb.narod.ru/fungi/Aleuria_aurantia.html"
+      ],
+      "label": "Алеврия оранжевая"
+    },
+    "sk": {
+      "description": "Tanierovka oranžová je bezstopková miskovitá huba, ktorá vyzerá ako odhodené pomarančové šupky na holej alebo štrkovitej pôde, najmä pozdĺž lesných ciest. Misky sú najprv takmer guľovité, neskôr zvlnené, často roztrhnuté a pokrútené. Vnútorná strana je lesklá, oranžová až sýto oranžovočervená; vonkajšia je bledšia a jemne plstnatá. V Európe je bežná a vyskytuje sa aj v Severnej Amerike, typicky koncom leta a na jeseň, v teplejších oblastiach aj neskôr.",
+      "cap": "V obvyklom zmysle klobúk chýba: plodnica je miska (apotécium), zvyčajne široká 3–6 cm, výnimočne až 10 cm, a vysoká typicky 2–4 cm. Mladé plodnice sú takmer guľovité, potom sa otvárajú do misiek so zvlneným alebo roztrhnutým okrajom; staršie môžu byť sploštené, laločnaté, alebo sa obrátia naruby a ešte viac pripomínajú šupku. Plodnica sedí na pôde a nemá viditeľný hlúbik.",
+      "hymenium": "Plodná vnútorná strana (técium) je hladká a lesklá, od bledooranžovej po sýto oranžovočervenú. Výtrusy sa tvoria na tomto vnútornom povrchu a pri vyrušení misiek môžu vyletieť vo viditeľnom obláčiku. Výtrusný prach je biely.",
+      "stipe": "Viditeľný hlúbik chýba. Miska je k pôde prichytená len vláknami podhubia. Neplodná vonkajšia strana je bledšia ako vnútro a pokrytá veľmi jemnou belavou plstou.",
+      "flesh": "Dužina je tenká, krehká a vodnatá, belavá až bledá, bez výraznej vône a chuti.",
+      "sporePrint": "Biely.",
+      "habitat": "Rozkladá odumretú organickú hmotu na narušenej, často štrkovitej, piesočnatej alebo ílovitej pôde, najmä pri lesných cestách, zvážniciach, na svahoch a okrajoch ciest, niekedy aj v parkoch, záhradách či na trávnikoch. Rastie zvyčajne v skupinách alebo zrastených zhlukoch. V Británii a Írsku sa najčastejšie nachádza od augusta do začiatku novembra; inde môže fruktifikovať skôr alebo neskôr, v Kalifornii od neskorej jesene do skorej jari.",
+      "uses": "Patrí k málo bežným miskovitým hubám, ktoré sa považujú za jedlé, dužina je však tenká a mdlá a zbiera sa zriedka, azda ako farebná ozdoba do šalátu. Väčšina ostatných miskovitých húb je v istej miere jedovatá, alebo sa jedia až po dôkladnom uvarení, preto podobné oranžové či červené misky netreba jesť len pre podobnosť. Divé huby vždy varte; nespoliehajte sa len na tento text.",
+      "confusion": "Ohnivce (Sarcoscypha austriaca a S. coccinea) sú jasne šarlátovočervené, nie oranžové, a rastú na odumretom dreve, typicky koncom zimy a na jar. Menšia oranžová miska Melastiza chateri má na okraji tmavé chĺpky. Niektoré uchovky (Otidea) sú ušovité a na jednej strane rozštiepené. Caloscypha fulgens je jarný druh ihličnatých lesov, ktorého misky môžu pri otlačení sinieť do zelenomodra. Iné oranžové miskovité huby netreba považovať za jedlé len pre podobnosť.",
+      "notes": "Akceptovaný názov je Aleuria aurantia (Pers.) Fuckel, založený na mene Peziza aurantia Pers. Patrí do čeľade Pyronemataceae, nie do čeľade Pezizaceae (čiaškovité). Historické meno Peziza coccinea sa používalo aj pre ohnivce; v tomto katalógu je poddruh Peziza coccinea subsp. auctior už synonymom druhu Microstoma protractum (ohnivček zimný). Tabuľa je ilustrácia vygenerovaná umelou inteligenciou, nie historická publikovaná kresba.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Aleuria-aurantia/tanierovka-oranzova/misenka-oranzova/ID736",
+        "https://botany.cz/cs/aleuria-aurantia/",
+        "https://www.gbif.org/species/5258678",
+        "https://www.wikidata.org/wiki/Q1251715",
+        "https://fotonet.sk/atlas/fungi_huby/aleuria-aurantia"
+      ],
+      "label": "tanierovka oranžová"
+    },
+    "sl": {
+      "description": "Oranžna latvica je brezbetača skledasta goba, ki je videti kot odvržene pomarančne lupine na goli ali prodnati zemlji, zlasti ob gozdnih poteh. Skledice so najprej skoraj kroglaste, pozneje valovite, pogosto razpokane in zvite. Notranja stran je sijoča, oranžna do globoko oranžno rdeča; zunanja je bledša in fino plstnata. V Evropi je pogosta in se pojavlja tudi v Severni Ameriki, značilno pozno poleti in jeseni, v toplejših krajih tudi pozneje.",
+      "cap": "Klobuka v običajnem pomenu ni: trosnjak je skledica (apotecij), običajno široka 3–6 cm, včasih do 10 cm, in tipično visoka 2–4 cm. Mlade skledice so skoraj kroglaste, nato se odprejo v sklede z valovitim ali razpokanim robom; starejše se lahko sploščijo, postanejo krpate ali se obrnejo narobe in še bolj spominjajo na lupino. Skledica sedi na tleh in nima vidnega beta.",
+      "hymenium": "Rodovitna notranja površina je gladka in sijoča, od bledo oranžne do globoko oranžno rdeče. Trosi nastajajo na tej notranji plasti in lahko ob motenju skledice izbruhnejo v vidnem oblačku. Trosni prah je bel.",
+      "stipe": "Vidnega beta ni. Skledica je na tla pritrjena le z micelijskimi nitkami. Nerodovitna zunanja stran je bledša od notranjosti in prekrita z zelo finim belkastim puhom.",
+      "flesh": "Meso je tanko, krhko in vodeno, belkasto do bledo, brez značilnega vonja in okusa.",
+      "sporePrint": "Bel.",
+      "habitat": "Saprofit na motenih, pogosto prodnatih, peščenih ali ilovnatih tleh, zlasti ob gozdnih poteh, vlakah, brežinah in cestnih robovih, včasih tudi v parkih, vrtovih ali na trateh. Trosnjaki se običajno pojavljajo v skupinah ali zraslih šopih. V Britaniji in na Irskem jo najpogosteje najdemo od avgusta do začetka novembra; drugod se lahko pojavi prej ali pozneje, v Kaliforniji od pozne jeseni do zgodnje pomladi.",
+      "uses": "To je ena redkih pogostih skledastih gob, ki veljajo za užitne, vendar je meso tanko in blago in jo redko nabirajo, morda le za barvo v solati. Večina drugih skledastih gob je v določeni meri strupenih ali pa jih jedo šele po temeljitem kuhanju, zato podobnih oranžnih ali rdečih skledic ne smemo jesti samo zaradi podobnosti. Divje gobe vedno skuhajte; ne zanašajte se samo na to besedilo.",
+      "confusion": "Škrlatni kelihi (Sarcoscypha austriaca in S. coccinea) so živo rdeči, ne oranžni, in rastejo na odmrlem lesu, značilno pozno pozimi in spomladi. Manjša oranžna skledica Melastiza chateri ima na robu temne dlačice. Nekatere vrste rodu Otidea so ušesaste in razcepljene na eni strani. Caloscypha fulgens je pomladanska vrsta iglastih gozdov, katere skledice lahko pomodrijo v zelenomodro. Drugih oranžnih skledastih gob ne smemo šteti za užitne samo zaradi podobnosti.",
+      "notes": "Sprejeto ime je Aleuria aurantia (Pers.) Fuckel, osnovano na imenu Peziza aurantia Pers. Vrsta spada v družino Pyronemataceae, ne v Pezizaceae. Zgodovinsko ime Peziza coccinea so uporabljali tudi za škrlatne kelihe; v tem katalogu je podvrsta Peziza coccinea subsp. auctior že sinonim vrste Microstoma protractum. Tabla je ilustracija, ustvarjena z umetno inteligenco, ne zgodovinska objavljena slika.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "oranžna latvica"
+    },
+    "sr": {
+      "description": "Aleuria aurantia је седећа зделаста гљива која изгледа као одбачене коре поморанџе на голој или шљунковитој земљи, нарочито уз шумске стазе. Зделице су најпре готово лоптасте, потом таласасте, често расцепљене и увијене. Унутрашња страна је сјајна, наранџаста до дубоко наранџастоцрвена; спољашња је бљеђа и фино баршунаста. У Европи је врста честа и јавља се и у Северној Америци, типично крајем лета и у јесен, у топлијим крајевима и касније.",
+      "cap": "Шешира у уобичајеном смислу нема: плодоносно тело је зделица (апотецијум), обично широка 3–6 cm, понекад до 10 cm, и типично висока 2–4 cm. Младе зделице су готово лоптасте, затим се отварају у зделе таласастог или расцепљеног руба; старије се могу спљоштити, постати режњевите или се изврнути и још више личити на кору. Зделица седи на земљи и нема видљиве дршке.",
+      "hymenium": "Плодна унутрашња површина је глатка и сјајна, од бледонаранџасте до дубоко наранџастоцрвене. Споре настају на том унутрашњем слоју и при узнемиравању зделице могу излетети у видљивом облачићу. Отисак спора је бео.",
+      "stipe": "Видљиве дршке нема. Зделица је за земљу причвршћена само нитима мицелијума. Јалова спољашња страна је бљеђа од унутрашњости и покривена веома финим беличастим паперјем.",
+      "flesh": "Месо је танко, крто и воденасто, беличасто до бледо, без изразитог мириса и укуса.",
+      "sporePrint": "Бео.",
+      "habitat": "Сапротроф нарушеног, често шљунковитог, песковитог или глиновитог тла, нарочито уз шумске стазе, извозне путеве, косине и рубове путева, понекад и у парковима, баштама или на травњацима. Плодоносна тела се обично појављују у групама или срослим китицама. У Британији и Ирској се најчешће налази од августа до почетка новембра; другде се може појавити раније или касније, у Калифорнији од касне јесени до раног пролећа.",
+      "uses": "Ово је једна од ретких честих зделастих гљива које се сматрају јестивим, али је месо танко и бљутаво и ретко се бере, можда само као боја у салати. Већина других зделастих гљива је у некој мери отровна или се једе тек после темељног кувања, зато сличне наранџасте или црвене зделице не треба јести само због сличности. Дивље гљиве увек кувајте; не ослањајте се само на овај текст.",
+      "confusion": "Скерлетноцрвене вилинске чаше (Sarcoscypha austriaca и S. coccinea) јарко су црвене, а не наранџасте, и расту на мртвом дрвету, типично крајем зиме и у пролеће. Мања наранџаста зделица Melastiza chateri има тамне длачице на рубу. Неке врсте рода Otidea су уволика и расцепљене с једне стране. Caloscypha fulgens је пролећна врста четинарских шума чије зделице могу поплавити у зеленомодро. Друге наранџасте зделасте гљиве не треба сматрати јестивим само због сличности.",
+      "notes": "Прихваћено име је Aleuria aurantia (Pers.) Fuckel, засновано на имену Peziza aurantia Pers. Врста припада породици Pyronemataceae, а не Pezizaceae. Историјско име Peziza coccinea коришћено је и за скерлетне чаше; у овом каталогу подврста Peziza coccinea subsp. auctior већ је синоним врсте Microstoma protractum. Табла је илустрација створена вештачком интелигенцијом, а не историјска објављена слика.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "Mönjeskål är en stjälklös skålsvamp som liknar kastade apelsinskal på bar eller grusig jord, särskilt längs skogsstigar. Skålarna är först nästan klotformiga, senare vågiga, ofta spruckna och vridna. Insidan är blank, orangefärgad till djupt orangeröd; utsidan är blekare och fint ludden. Den är allmän i Europa och förekommer också i Nordamerika, typiskt under sensommaren och hösten, senare i vissa varmare trakter.",
+      "cap": "Det finns ingen hatt i vanlig mening: fruktkroppen är en skål (apothecium), vanligen 3–6 cm bred, ibland upp till 10 cm, och typiskt 2–4 cm hög. Unga skålar är nästan klotformiga, öppnar sig sedan till skålar med vågig eller sprucken kant; äldre kan plattas ut, bli flikiga eller vändas ut och in och likna skal ännu mer. Skålen sitter på marken och har ingen synlig fot.",
+      "hymenium": "Den fertila insidan är slät och blank, från ljusorange till djupt orangeröd. Sporerna bildas på denna inneryta och kan pusta ut i ett synligt moln när en skål störs. Sporavtrycket är vitt.",
+      "stipe": "Det finns ingen synlig fot. Skålen är fäst vid marken endast av myceltrådar. Den sterila utsidan är blekare än insidan och täckt av ett mycket fint vitaktigt ludd.",
+      "flesh": "Köttet är tunt, sprött och vattnigt, vitaktigt till blekt, utan särskild lukt eller smak.",
+      "sporePrint": "Vitt.",
+      "habitat": "En saprotrof på störd, ofta grusig, sandig eller lerig jord, särskilt längs skogsstigar, skogsbilvägar, slänter och vägrenar, och ibland i parker, trädgårdar eller gräsmattor. Den fruktar vanligen i grupper eller sammanvuxna klungor. I Storbritannien och Irland hittas den oftast från augusti till början av november; någon annanstans kan den komma tidigare eller senare, i Kalifornien från sen höst till tidig vår.",
+      "uses": "Detta är en av de få vanliga skålsvampar som räknas som ätliga, men köttet är tunt och smaklöst och den samlas sällan, kanske bara som färgklick i en sallad. De flesta andra skålsvampar är i någon mån giftiga, eller äts först efter grundlig kokning, så liknande orange eller röda skålar ska inte ätas bara på grund av likheten. Koka alltid vilda svampar; förlita dig inte enbart på denna text.",
+      "confusion": "Scharlakansröda älvskålar (Sarcoscypha austriaca och S. coccinea) är klart röda, inte orange, och växer på död ved, typiskt under sen vinter och vår. Den mindre orange skålen Melastiza chateri har mörka hår på kanten. Vissa Otidea-arter är öronlika och kluvna längs ena sidan. Caloscypha fulgens är en vårart i barrskog vars skålar kan anlöpa blågrönt. Andra orange skålsvampar ska inte betraktas som ätliga bara på grund av likheten.",
+      "notes": "Det accepterade namnet är Aleuria aurantia (Pers.) Fuckel, baserat på Peziza aurantia Pers. Arten tillhör familjen Pyronemataceae, inte Pezizaceae. Det historiska namnet Peziza coccinea har också använts för älvskålar; i denna katalog är underarten Peziza coccinea subsp. auctior redan en synonym till Microstoma protractum. Planschen är en AI-genererad illustration, inte en historisk publicerad figur.",
+      "names": [
+        "mönjeröd skålsvamp"
+      ],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/M%C3%B6njesk%C3%A5l",
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "mönjeskål"
+    },
+    "tr": {
+      "description": "Aleuria aurantia, özellikle orman patikaları boyunca, çıplak veya çakıllı toprakta atılmış portakal kabuklarına benzeyen sapsız bir kadeh mantarıdır. Kadehler önce neredeyse küresel, sonra dalgalı, çoğu zaman yarık ve burulmuş olur. İç yüz parlak, turuncudan koyu turuncu-kırmızıya kadar değişir; dış yüz daha soluk ve ince tüylüdür. Avrupa’da yaygındır ve Kuzey Amerika’da da bulunur; tipik olarak yaz sonu ve sonbaharda, daha sıcak bazı bölgelerde daha geç görülür.",
+      "cap": "Alışılmış anlamda bir şapka yoktur: meyve gövdesi bir kadehtir (apotesyum), genellikle 3–6 cm genişliğinde, bazen 10 cm’ye kadar, tipik olarak 2–4 cm yüksekliğindedir. Genç kadehler neredeyse küreseldir, sonra dalgalı veya yarık kenarlı kaselere açılır; yaşlıları yassılaşabilir, loplu olabilir veya ters dönüp kabuğa daha da çok benzeyebilir. Kadeh toprağın üzerinde oturur ve görünür bir sapı yoktur.",
+      "hymenium": "Verimli iç yüzey pürüzsüz ve parlaktır, soluk turuncudan koyu turuncu-kırmızıya kadar. Sporlar bu iç yüzeyde oluşur ve bir kadeh rahatsız edildiğinde görünür bir bulut halinde fışkırabilir. Spor izi beyazdır.",
+      "stipe": "Görünür sap yoktur. Kadeh toprağa yalnızca miselyum iplikleriyle bağlıdır. Verimsiz dış yüz içten daha soluktur ve çok ince beyazımsı bir tüyle kaplıdır.",
+      "flesh": "Et ince, gevrek ve suludur, beyazımsıdan soluğa kadar, belirgin koku ve tat yoktur.",
+      "sporePrint": "Beyaz.",
+      "habitat": "Bozulmuş, çoğu zaman çakıllı, kumlu veya killi toprakların saprotrofudur; özellikle orman patikaları, tomruk yolları, yamaçlar ve yol kenarlarında, bazen de parklarda, bahçelerde veya çimlerde görülür. Genellikle gruplar veya kaynaşmış kümeler halinde meyve verir. Britanya ve İrlanda’da en çok ağustostan kasım başına kadar bulunur; başka yerlerde daha erken veya daha geç, Kaliforniya’da geç sonbahardan erken ilkbahara kadar görülebilir.",
+      "uses": "Yenilebilir sayılan az sayıdaki yaygın kadeh mantarından biridir, ancak eti ince ve tatsızdır ve nadiren toplanır, belki yalnızca salataya renk katmak için. Diğer kadeh mantarlarının çoğu bir ölçüde zehirlidir veya ancak iyice pişirildikten sonra yenir, bu yüzden benzer turuncu veya kırmızı kadehler yalnızca benzerlik yüzünden yenmemelidir. Yabani mantarları her zaman pişirin; yalnızca bu metne güvenmeyin.",
+      "confusion": "Kızıl peri kadehleri (Sarcoscypha austriaca ve S. coccinea) turuncu değil parlak kırmızıdır ve ölü odun üzerinde, tipik olarak kış sonu ve ilkbaharda büyür. Daha küçük turuncu kadeh Melastiza chateri’nin kenarında koyu tüyler vardır. Bazı Otidea türleri kulak biçimli ve bir yandan yarılıktır. Caloscypha fulgens, kadehleri mavimsi yeşile çalabilen iğne yapraklı ormanların ilkbahar türüdür. Diğer turuncu kadeh mantarları yalnızca benzerlik yüzünden yenilebilir sayılmamalıdır.",
+      "notes": "Kabul edilen ad, Peziza aurantia Pers. adına dayanan Aleuria aurantia (Pers.) Fuckel’dir. Tür Pyronemataceae familyasına aittir, Pezizaceae’ye değil. Tarihsel Peziza coccinea adı kızıl peri kadehleri için de kullanılmıştır; bu katalogda Peziza coccinea subsp. auctior alttürü zaten Microstoma protractum’un eşanlamlısıdır. Levha, tarihî yayımlanmış bir şekil değil, yapay zekâ ile üretilmiş bir çizimdir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Алеврія оранжева — сидячий чашоподібний гриб, схожий на розкидані апельсинові шкірки на голому або щебенистому ґрунті, особливо вздовж лісових стежок. Чашечки спочатку майже кулясті, пізніше хвилясті, часто розірвані й викривлені. Внутрішня сторона блискуча, помаранчева до глибокої помаранчево-червоної; зовнішня блідіша й тонко опушена. В Європі вид звичайний і трапляється також у Північній Америці, типово наприкінці літа та восени, у тепліших регіонах і пізніше.",
+      "cap": "Шапинки у звичному сенсі немає: плодове тіло — чашечка (апотецій), зазвичай 3–6 см завширшки, інколи до 10 см, і типово 2–4 см заввишки. Молоді чашечки майже кулясті, потім розкриваються в миски з хвилястим або розірваним краєм; старіші можуть сплощуватися, ставати лопатевими або вивертатися навиворіт і ще більше нагадувати шкірку. Чашечка сидить на ґрунті й не має видимої ніжки.",
+      "hymenium": "Плідна внутрішня поверхня гладка й блискуча, від блідо-помаранчевої до глибокої помаранчево-червоної. Спори утворюються на цій внутрішній стінці й при струшуванні чашечки можуть вилітати видимою хмаркою. Споровий порошок білий.",
+      "stipe": "Видимої ніжки немає. Чашечка прикріплена до ґрунту лише міцеліальними нитками. Безплідна зовнішня сторона блідіша за внутрішню й вкрита дуже тонким білуватим опушенням.",
+      "flesh": "М’якуш тонкий, ламкий і водянистий, білуватий до блідого, без виразного запаху й смаку.",
+      "sporePrint": "Білий.",
+      "habitat": "Сапротроф порушених, часто щебенистих, піщаних або глинистих ґрунтів, особливо вздовж лісових стежок, трелювальних доріг, укосів і узбіч, інколи також у парках, садах чи на газонах. Плодові тіла зазвичай з’являються групами або зрослими скупченнями. У Великій Британії та Ірландії найчастіше з серпня до початку листопада; в інших місцях може з’являтися раніше або пізніше, у Каліфорнії з пізньої осені до ранньої весни.",
+      "uses": "Це один із небагатьох звичайних чашоподібних грибів, які вважають їстівними, але м’якуш тонкий і прісний, і його рідко збирають, хіба що для забарвлення салату. Більшість інших чашоподібних грибів тією чи тією мірою отруйні або їх їдять лише після ретельного варіння, тому подібні помаранчеві чи червоні чашечки не слід їсти лише через подібність. Дикі гриби завжди готуйте; не покладайтеся лише на цей текст.",
+      "confusion": "Яскраво-червоні ельфові чаші (Sarcoscypha austriaca і S. coccinea) яскраво-червоні, а не помаранчеві, і ростуть на мертвій деревині, типово наприкінці зими та навесні. У меншої помаранчевої чашечки Melastiza chateri по краю темні волоски. Деякі види Otidea вухоподібні й розщеплені з одного боку. Caloscypha fulgens — весняний вид хвойних лісів, чиї чашечки можуть синіти в зеленувато-блакитний колір. Інші помаранчеві чашоподібні гриби не слід вважати їстівними лише через подібність.",
+      "notes": "Прийнята назва — Aleuria aurantia (Pers.) Fuckel, заснована на Peziza aurantia Pers. Вид належить до родини Pyronemataceae, а не Pezizaceae. Історичну назву Peziza coccinea застосовували й до червоних чаш; у цьому каталозі підвид Peziza coccinea subsp. auctior уже є синонімом Microstoma protractum. Таблиця — ілюстрація, створена штучним інтелектом, а не історичний опублікований рисунок.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%B2%D1%80%D1%96%D1%8F_%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%B0",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "Алеврія оранжева"
+    },
+    "zh": {
+      "description": "橙黄网孢盘菌是一种无柄的杯状真菌，看起来像丢在裸土或砾石地上的橙皮，尤其常见于林道两侧。子实体起初近球形，随后边缘波浪状，常撕裂并扭曲。内侧有光泽，呈橙色至深橙红色；外侧较淡，被细绒毛。本种在欧洲常见，亦分布于北美，通常在夏末和秋季出现，在较暖地区更晚。",
+      "cap": "没有通常意义上的菌盖：子实体是杯子（子囊盘），一般宽3–6厘米，偶尔可达10厘米，高通常2–4厘米。幼杯子近球形，随后张开成波状或撕裂边缘的碗；老熟时可展平、浅裂或外翻，更像一片橙皮。杯子坐在土上，没有可见的菌柄。",
+      "hymenium": "可育的内表面平滑而有光泽，从浅橙到深橙红色。孢子产生在这层内壁上，受到扰动时可能喷出可见的孢子云。孢子印为白色。",
+      "stipe": "没有可见的菌柄。杯子仅靠菌丝束附着于土壤。不育的外表面比内侧更淡，覆有非常细的白色绒毛。",
+      "flesh": "菌肉薄、脆而含水，近白至浅色，没有明显气味或味道。",
+      "sporePrint": "白色。",
+      "habitat": "腐生于受扰动的土壤，常为砾质、沙质或黏土地，尤其在林道、集材道、坡岸和路边，有时也出现在公园、庭园或草坪。通常成群或愈合丛生。在英国和爱尔兰最常见于八月至十一月初；其他地区可能更早或更晚，在加利福尼亚则从晚秋到早春。",
+      "uses": "这是少数被认为可食用的常见杯菌之一，但菌肉薄而淡，很少被采集，或许只用来给沙拉着色。大多数其他杯菌都有不同程度的毒性，或必须充分煮熟后才可食用，因此不要仅凭相似就把其他橙色或红色杯菌当食物。野生真菌务必烹熟；不要只依赖这段文字。",
+      "confusion": "猩红的丛耳（Sarcoscypha austriaca 和 S. coccinea）呈鲜红色而非橙色，生长在枯木上，通常在冬末和春季。较小的橙色杯菌 Melastiza chateri 边缘有深色毛。某些 Otidea 种类呈耳形，一侧纵裂。Caloscypha fulgens 是针叶林的春季种类，杯子受压后可变成蓝绿色。不要仅凭相似就把其他橙色杯菌当作可食用。",
+      "notes": "接受名为 Aleuria aurantia (Pers.) Fuckel，以 Peziza aurantia Pers. 为基名。本种属于火丝菌科（Pyronemataceae），不属于盘菌科（Pezizaceae）。历史上的名称 Peziza coccinea 也曾用于猩红丛耳；在本图鉴中，亚种 Peziza coccinea subsp. auctior 已是 Microstoma protractum 的异名。图版是人工智能生成的插图，不是历史上已发表的图。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5258678",
+        "https://api.gbif.org/v1/species/5258678/vernacularNames",
+        "https://www.wikidata.org/wiki/Q1251715"
+      ],
+      "label": "橙黄网孢盘菌"
+    }
+  },
+  "synonyms": [
+    "Peziza aurantia Pers.",
+    "Scodellina aurantia (Pers.) Gray",
+    "Otidea aurantia (Pers.) Massee",
+    "Peziza coccinea Huds.",
+    "Helvella coccinea Bolton"
+  ],
+  "reserved": false,
+  "id": 181,
+  "citation": "Jb. nassau. Ver. Naturk. 23-24: 325 (1870) [1869-70]"
+},
+{
+  "name": "Strobilomyces strobilaceus",
+  "author": "(Scop.) Berk.",
+  "family": "Boletaceae",
+  "genus": "Strobilomyces",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Boletaceae",
+    "Strobilomyces"
+  ],
+  "summary": [
+    "Boletales",
+    "Boletaceae",
+    "Strobilomyces"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "tubes",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "dark"
+  ],
+  "capFrom": 5.0,
+  "capTo": 13.0,
+  "stipeHeightFrom": 7.0,
+  "stipeHeightTo": 14.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "label": {
+    "ar": null,
+    "bg": null,
+    "cs": "šiškovec černý",
+    "da": null,
+    "de": "Gemeiner Strubbelkopfröhrling",
+    "en": "old man of the woods",
+    "es": null,
+    "et": "soomuspuravik",
+    "fa": null,
+    "fi": "suomutatti",
+    "fr": "bolet pomme de pin",
+    "he": null,
+    "hi": null,
+    "hr": null,
+    "hu": "pikkelyes tinóru",
+    "id": null,
+    "it": null,
+    "ja": null,
+    "ko": null,
+    "lt": "tikrasis žvynbaravykis",
+    "lv": "melnā zvīņbeka",
+    "nl": "geschubde boleet",
+    "no": null,
+    "pl": "szyszkowiec łuskowaty",
+    "pt": null,
+    "ro": "moșneagul pădurii",
+    "ru": "Шишкогриб хлопьеножковый",
+    "sk": "šiškovec šupinatý",
+    "sl": "črni kuštravec",
+    "sr": null,
+    "sv": "fjällsopp",
+    "tr": null,
+    "uk": "Шишкогриб лускатий",
+    "zh": "松塔牛肝菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "šiškovec šiškovitý",
+      "šiškovec šupinatý",
+      "hřib šiškovitý"
+    ],
+    "da": [],
+    "de": [
+      "Strubbelkopfröhrling"
+    ],
+    "en": [
+      "old-man-of-the-woods"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [
+      "hrib flocos"
+    ],
+    "ru": [
+      "Шишкогриб клочковатоножковый",
+      "Стробиломицес хлопьеножковый"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "лускач"
+    ],
+    "zh": [
+      "線柄松塔牛肝菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=238002",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=238002",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=238002",
+      "https://www.gbif.org/species/9225326",
+      "https://www.wikidata.org/wiki/Q614730",
+      "https://www.first-nature.com/fungi/strobilomyces-strobilaceus.php",
+      "https://en.wikipedia.org/wiki/Strobilomyces_strobilaceus",
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus",
+      "https://www.inaturalist.org/taxa/352462-Strobilomyces-strobilaceus",
+      "https://botany.cz/cs/strobilomyces-strobilaceus/",
+      "https://www.myko.cz/myko-atlas/Strobilomyces-strobilaceus/"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus",
+      "https://cs.wikipedia.org/wiki/%C5%A0i%C5%A1kovec_%C4%8Dern%C3%BD",
+      "https://www.myko.cz/myko-atlas/Strobilomyces-strobilaceus/",
+      "https://botany.cz/cs/strobilomyces-strobilaceus/"
+    ],
+    "da": [],
+    "de": [
+      "https://de.wikipedia.org/wiki/Gemeiner_Strubbelkopfr%C3%B6hrling",
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Soomuspuravik_(perekond)",
+      "https://et.wikipedia.org/wiki/Eesti_seente_loend"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Suomutatti",
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Pikkelyes_tin%C3%B3ru"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Tikrasis_%C5%BEvynbaravykis",
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Meln%C4%81_zv%C4%AB%C5%86beka"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus",
+      "https://nl.wikipedia.org/wiki/Strobilomyces",
+      "https://nl.wikipedia.org/wiki/Boletaceae",
+      "https://nl.wikipedia.org/wiki/Lijst_van_schimmels_in_Nederland"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Szyszkowiec_%C5%82uskowaty",
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "pt": [],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%88%D0%BA%D0%BE%D0%B3%D1%80%D0%B8%D0%B1_%D1%85%D0%BB%D0%BE%D0%BF%D1%8C%D0%B5%D0%BD%D0%BE%D0%B6%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9",
+      "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+    ],
+    "sk": [
+      "https://fotonet.sk/atlas/fungi_huby/strobilomyces-strobilaceus"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/%C4%8Crni_ku%C5%A1travec"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Fj%C3%A4llsopp"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%A8%D0%B8%D1%88%D0%BA%D0%BE%D0%B3%D1%80%D0%B8%D0%B1_%D0%BB%D1%83%D1%81%D0%BA%D0%B0%D1%82%D0%B8%D0%B9"
+    ],
+    "zh": [
+      "https://zh.wikipedia.org/wiki/%E6%9D%BE%E5%A1%94%E7%89%9B%E8%82%9D%E8%8F%8C%E5%B1%9E",
+      "https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8F%88%E9%A1%9E%E5%88%97%E8%A1%A8"
+    ]
+  },
+  "added": "2026-11-18",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/Strobilomyces_strobilaceus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/Strobilomyces_strobilaceus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Strobilomyces strobilaceus.png” (from ~/Downloads) is a JPEG/JFIF illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption or plate number. It is AI art, not a documented historical botanical plate. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/Strobilomyces_strobilaceus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss1.webp",
+      "author": "Yurii Motruk (Юрій Мотрук)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://www.inaturalist.org/photos/409720219"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss2.webp",
+      "author": "Théo Porcheron-Georget",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://www.inaturalist.org/photos/417684458"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss3.webp",
+      "author": "Mišo Oprendek",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://www.inaturalist.org/photos/610723205"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss4.webp",
+      "author": "agujaceratops",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://www.inaturalist.org/photos/560941746"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss5.webp",
+      "author": "Thomas Pruß",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Strubbelkopfr%C3%B6hrling.JPG"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/Strobilomyces_strobilaceus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/Strobilomyces_strobilaceus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (alpha only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss1.webp",
+      "author": "Yurii Motruk (Юрій Мотрук)",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://www.inaturalist.org/photos/409720219"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss2.webp",
+      "author": "Théo Porcheron-Georget",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://www.inaturalist.org/photos/417684458"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss3.webp",
+      "author": "Mišo Oprendek",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://www.inaturalist.org/photos/610723205"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss4.webp",
+      "author": "agujaceratops",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://www.inaturalist.org/photos/560941746"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Boletaceae/Strobilomyces_strobilaceus/ss5.webp",
+      "author": "Thomas Pruß",
+      "license": "CC BY-SA 3.0",
+      "licenseVersion": "3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strubbelkopfr%C3%B6hrling.JPG"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "Strobilomyces strobilaceus فطر أنبوبي إكتومييكوريزي نادر، عادة ما ينمو منفردًا، في غابات الأوراق المتساقطة والمختلطة في تلال وجبال أوروبا، وبوتيرة أقل في السهول، وأحيانًا تحت المخروطيات. السجلات من شرق أمريكا الشمالية وأجزاء من آسيا تنتمي في معظمها إلى مجمع أنواع فطرية مشابهة، لا إلى هذا النوع الأوروبي.",
+      "cap": "القبعة عرضها 5–13 سم، وقد تقترب استثنائيًا من 20 سم. تكون في البداية محدبة ثم تتسطح، وتغطى بحراشف كبيرة لينة صوفية منتصبة، رمادية داكنة إلى بنية مسودة؛ والجلد بين الحراشف أبهت، رمادي إلى أبيض تقريبًا. الحافة ملفوفة إلى الداخل في الأطوار الفتية وكثيرًا ما تتدلى منها بقايا ممزقة لحجاب جزئي مبيض إلى رمادي. تصبح القبعات القديمة داكنة جدًا وقد تشبه مخروط صنوبر متعفنًا.",
+      "hymenium": "الأنابيب في البداية مبيضة ثم بنية رمادية، وتحمر ثم تسود عند القطع. المسام زاويّة، رمادية باهتة، تحمر ثم تسود عند الكدم، وتزداد قتامة مع التقدم في العمر. في الأطوار الفتية تغطي المسام بالحجاب.",
+      "stipe": "الساق طولها 7–14 سم، وأحيانًا حتى 20 سم، وسُمكها 1–3 سم، وعادة 8–12 × 1–2 سم. لونها كلون القبعة، خشنة أو صوفية بسبب الحراشف الداكنة، وكثيرًا ما تكون منحنية، وعادة ما تحمل منطقة حلقية خشنة أو طوقًا خشنًا حيث تمزق الحجاب؛ وقد يكون الجزء العلوي محززًا أو شبكيًا. لحم الساق قاسٍ جدًا.",
+      "flesh": "اللحم سميك ومتماسك وأبيض في البداية، يتحول عند القطع إلى وردي حتى أحمر برتقالي ثم يسود ببطء. الرائحة والطعم غير مميزين في الأجسام الثمرية الفتية؛ أما الأقدم فقد تفوح منها رائحة ترابية، وقد يصبح الطعم غير مستساغ. لحم الساق يبقى قاسيًا.",
+      "sporePrint": "طبعة الأبواغ بنية مسودة إلى سوداء. الأبواغ قصيرة إهليلجية إلى شبه كروية، 9–15 × 8–12 ميكرومتر، ومغطاة بزخرفة شبكية كاملة.",
+      "habitat": "يثمر من يوليو إلى نوفمبر، في أغلب الأحيان من يوليو إلى أكتوبر، على الأرض تحت البلوط والزان، وكذلك في الغابات المختلطة والمخروطية، عادة كأجسام ثمرية مفردة.",
+      "uses": "الأجسام الثمرية الفتية صالحة للأكل لكن قيمتها الطهوية محدودة ويمكن إضافتها إلى أطباق مخلوطة؛ والساق قاسية جدًا، وقد تكون العينات الأقدم غير مستساغة. في بريطانيا وأيرلندا، حيث النوع نادر، ينبغي ألا يُجمع للأكل.",
+      "confusion": "Strobilomyces confusus، وهو نوع شمال أمريكي مستقل، له قبعة أصغر قليلًا بحراشف أصغر صلبة مدببة، وأبواغ ذات أشواك وخطوط لا تكوّن شبكة كاملة. وStrobilomyces dryophilus، وهو أيضًا شمال أمريكي، له قبعات رمادية وردية باهتة إلى بنية وردية. وقد يبدو Sarcodon imbricatus من الأعلى داكنًا ومتقشرًا بالمثل، لكن تحت القبعة توجد أشواك لا مسام. لا يجوز اعتبار أفراد أخرى من الجنس هذا النوع لمجرد التشابه.",
+      "notes": "هذا نوع أوروبي. كثير من السجلات من شرق أمريكا الشمالية وأجزاء من آسيا تنتمي إلى مجمع فطريات مشابهة، بما في ذلك Strobilomyces confusus، لا إلى هذا النوع. وهو نادر في بريطانيا وأيرلندا. وقد صُوِّر على طابع بريد سويسري عادي بقيمة 50 سنيمًا صدر في 27 فبراير 2014. اللوحة رسم أنتج بالذكاء الاصطناعي، وليست شكلًا تاريخيًا منشورًا.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Strobilomyces strobilaceus е рядка, обикновено единична микоризна тръбеста гъба на широколистни и смесени гори в хълмовете и планините на Европа, по-рядко в низините и понякога под иглолистни. Находките от източна Северна Америка и части на Азия най-често принадлежат към комплекс от сходни гъби, а не към този европейски вид.",
+      "cap": "Шапката е широка 5–13 cm и изключително се доближава до 20 cm. Отначало е изпъкнала, по-късно се сплесква и е покрита с едри, меки, вълнести, тъмносиви до чернокафяви, изправени люспи; кожицата между люспите е по-бледа, сивкава до почти бяла. Ръбът при младите е подвит навътре и често е накичен с дрипави остатъци от белезникаво до сивкаво частично покривало. Старите шапки силно потъмняват и могат да наподобяват гниеща борова шишарка.",
+      "hymenium": "Тръбичките отначало са белезникави, по-късно сивокафяви и при срез почервеняват, след това почерняват. Порите са ъгловати, бледосиви, при натиск почервеняват и след това почерняват и с възрастта потъмняват. При младите порите са скрити от покривалото.",
+      "stipe": "Пънчето е високо 7–14 cm, понякога до 20 cm, и дебело 1–3 cm, типично 8–12 × 1–2 cm. На цвят е като шапката, рошаво или вълнесто от тъмни люспи, често извито и обикновено има груба пръстенна зона или рошава яка там, където покривалото се е скъсало; горната част може да е набраздена или мрежеста. Месото на пънчето е много твърдо.",
+      "flesh": "Месото е дебело, стегнато и отначало бяло, при срез става розово до оранжево-червено, след това бавно почернява. Мирисът и вкусът на младите плодни тела не са характерни; по-старите могат да миришат на пръст, а вкусът може да стане неприятен. Месото на пънчето остава жилаво.",
+      "sporePrint": "Споровият прах е чернокафяв до черен. Спорите са късо елипсовидни до почти кълбовидни, 9–15 × 8–12 μm, и покрити с пълна мрежеста орнаментация.",
+      "habitat": "Плододава от юли до ноември, най-често от юли до октомври, на почвата под дъб и бук, както и в смесени и иглолистни гори, обикновено като единични плодни тела.",
+      "uses": "Младите плодни тела са ядливи, но с ограничена кулинарна стойност и могат да се добавят към смесени ястия; пънчето е много жилаво, а по-старите екземпляри могат да бъдат неприятни. Във Великобритания и Ирландия, където видът е рядък, не бива да се събира за храна.",
+      "confusion": "Strobilomyces confusus, отделен северноамерикански вид, има малко по-малка шапка с по-дребни, твърди, заострени люспи и спори с бодли и ръбчета, които не образуват пълна мрежа. Strobilomyces dryophilus, също северноамерикански, има матови сиво-розови до розово-кафяви шапки. Sarcodon imbricatus отгоре може да изглежда също толкова тъмен и люспест, но под шапката има бодли, а не пори. Другите представители на рода не бива да се приемат за този вид само поради сходство.",
+      "notes": "Това е европейски вид. Много находки от източна Северна Америка и части на Азия принадлежат към комплекс от сходни гъби, включително Strobilomyces confusus, а не към този вид. Във Великобритания и Ирландия е рядък. Изобразявана е на швейцарска стандартна пощенска марка от 50 сантима, издадена на 27 февруари 2014 г. Таблото е илюстрация, създадена с изкуствен интелект, а не историческа публикувана фигура.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Šiškovec černý je vzácná, obvykle jednotlivá mykorhizní rourkatá houba listnatých a smíšených lesů v kopcích a horách Evropy, méně často v nížinách a občas i pod jehličnany. Záznamy z východní Severní Ameriky a částí Asie většinou patří k okruhu podobných druhů, nikoli k tomuto evropskému druhu.",
+      "cap": "Klobouk má v průměru 5–13 cm, výjimečně se blíží 20 cm. Nejprve je klenutý, později se zplošťuje a je pokrytý velkými, měkkými, vlnitými, tmavošedými až černohnědými, vzpřímenými šupinami; pokožka mezi šupinami je bledší, šedavá až téměř bílá. Okraj je v mládí podvinutý a často ověšený cárovitými zbytky bělavého až šedavého částečného závoje. Staré klobouky velmi tmavnou a mohou připomínat trouchnivějící šišku.",
+      "hymenium": "Rourky jsou zprvu bělavé, později šedohnědé a na řezu červenají a poté černají. Póry jsou hranaté, bledě šedé, na otlačení červenají a potom černají a věkem tmavnou. Mladé póry jsou zakryté závojem.",
+      "stipe": "Třeň je vysoký 7–14 cm, někdy až 20 cm, a tlustý 1–3 cm, typicky 8–12 × 1–2 cm. Má barvu klobouku, je plstnatý nebo vlnitý od tmavých šupin, často zahnutý a obvykle má hrubou prstenovou zónu nebo plstnatý límec v místě protržení závoje; horní část může být rýhovaná nebo síťnatá. Dužnina třeně je velmi tvrdá.",
+      "flesh": "Dužnina je tlustá, pevná a zprvu bílá, na řezu růžoví až oranžovočervená a potom pomalu černá. Vůně a chuť mladých plodnic nejsou výrazné; starší mohou vonět zemitě a chuť může být nepříjemná. Dužnina třeně zůstává tuhá.",
+      "sporePrint": "Výtrusný prach je černohnědý až černý. Výtrusy jsou krátce elipsoidní až téměř kulovité, 9–15 × 8–12 μm, a pokryté úplnou síťovitou ornamentikou.",
+      "habitat": "Roste od července do listopadu, nejčastěji od července do října, na zemi pod duby a buky, také ve smíšených a jehličnatých lesích, obvykle jako jednotlivé plodnice.",
+      "uses": "Mladé plodnice jsou jedlé, ale mají omezenou kuchyňskou hodnotu a lze je přidat do smíšených jídel; třeň je velmi tuhý a starší exempláře mohou být nepříjemné. V Británii a Irsku, kde je druh vzácný, by se neměl sbírat k jídlu.",
+      "confusion": "Strobilomyces confusus, samostatný severoamerický druh, má o něco menší klobouk s menšími, tuhými, špičatými šupinami a výtrusy s ostny a hřebínky, které netvoří úplnou síť. Strobilomyces dryophilus, rovněž severoamerický, má matné šedorůžové až růžovohnědé klobouky. Sarcodon imbricatus může shora působit podobně tmavě a šupinatě, pod kloboukem má však ostny, nikoli póry. Jiné druhy tohoto rodu se nesmějí považovat za tento druh jen na základě podobnosti.",
+      "notes": "Jde o evropský druh. Mnohé záznamy z východní Severní Ameriky a částí Asie patří k okruhu podobných hub, včetně Strobilomyces confusus, nikoli k tomuto druhu. V Británii a Irsku je vzácný. Zobrazovala ho švýcarská definitivní poštovní známka v hodnotě 50 centimů, vydaná 27. února 2014. Tabule je ilustrace vytvořená umělou inteligencí, nikoli historická publikovaná kresba.",
+      "names": [
+        "šiškovec šiškovitý",
+        "šiškovec šupinatý",
+        "hřib šiškovitý"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus",
+        "https://cs.wikipedia.org/wiki/%C5%A0i%C5%A1kovec_%C4%8Dern%C3%BD",
+        "https://www.myko.cz/myko-atlas/Strobilomyces-strobilaceus/",
+        "https://botany.cz/cs/strobilomyces-strobilaceus/"
+      ],
+      "label": "šiškovec černý"
+    },
+    "da": {
+      "description": "Strobilomyces strobilaceus er en sparsom, sædvanligvis enkeltvis voksende mykorrhizadannende rørhat i løv- og blandingsskove i Europas bakker og bjerge, sjældnere i lavlandet og lejlighedsvis under nåletræer. Fund fra det østlige Nordamerika og dele af Asien tilhører for det meste et kompleks af lignende svampe, ikke denne europæiske art.",
+      "cap": "Hatten er 5–13 cm bred og nærmer sig undtagelsesvis 20 cm. Den er først hvælvet, senere udbredt, og dækket af store, bløde, uldne, mørkegrå til sortbrune, oprette skæl; huden mellem skællene er blegere, grålig til næsten hvid. Randen er indrullet hos unge frugtlegemer og ofte behængt med flossede rester af et hvidligt til gråligt partielt slør. Gamle hatte bliver meget mørke og kan ligne en rådnen fyrrekogle.",
+      "hymenium": "Rørene er først hvidlige, senere gråbrune, og farves røde og derefter sorte ved gennemskæring. Porerne er kantede, lysegrå, bliver rødlige og derefter sorte ved tryk og mørkner med alderen. Hos unge er porerne skjult af sløret.",
+      "stipe": "Stokken er 7–14 cm høj, undertiden op til 20 cm, og 1–3 cm tyk, typisk 8–12 × 1–2 cm. Den har hattens farve, er lurvet eller ulden af mørke skæl, ofte krum, og har sædvanligvis en grov ringzone eller en lurvet krave dér, hvor sløret er revet over; den øvre del kan være furet eller netåret. Stokkens kød er meget hårdt.",
+      "flesh": "Kødet er tykt, fast og først hvidt; det farves ved gennemskæring rosa til orangerødt og bliver derefter langsomt sort. Lugt og smag er ikke karakteristiske hos unge frugtlegemer; ældre kan lugte jordagtigt, og smagen kan blive ubehagelig. Stokkens kød forbliver sejt.",
+      "sporePrint": "Sporeaftrykket er sortbrunt til sort. Sporerne er kortelliptiske til næsten kuglerunde, 9–15 × 8–12 μm, og dækket af et fuldstændigt netagtigt ornament.",
+      "habitat": "Den fruktificerer fra juli til november, oftest fra juli til oktober, på jorden under eg og bøg samt i blandings- og nåleskove, sædvanligvis som enkelte frugtlegemer.",
+      "uses": "Unge frugtlegemer er spiselige, men af begrænset kulinarisk værdi, og kan tilsættes blandede retter; stokken er meget sej, og ældre eksemplarer kan være ubehagelige. I Storbritannien og Irland, hvor arten er sjælden, bør den ikke indsamles til spisebrug.",
+      "confusion": "Strobilomyces confusus, en særskilt nordamerikansk art, har en lidt mindre hat med mindre, stive, spidse skæl og sporer med torne og kamme, der ikke danner et fuldstændigt net. Strobilomyces dryophilus, også nordamerikansk, har matte grårosa til rosa-brune hatte. Sarcodon imbricatus kan set ovenfra se tilsvarende mørk og skællet ud, men har torne under hatten i stedet for porer. Andre medlemmer af slægten må ikke tages for denne art alene på grund af lighed.",
+      "notes": "Dette er en europæisk art. Mange fund fra det østlige Nordamerika og dele af Asien tilhører et kompleks af lignende svampe, herunder Strobilomyces confusus, ikke denne art. I Storbritannien og Irland er den sjælden. Et schweizisk 50-centimes definitivt frimærke, udgivet den 27. februar 2014, afbildede den. Tavlen er en illustration fremstillet med kunstig intelligens, ikke en historisk offentliggjort figur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Der Gemeine Strubbelkopfröhrling ist ein seltener, meist einzeln wachsender Mykorrhiza-Röhrling der Laub- und Mischwälder in den Hügeln und Gebirgen Europas, seltener im Flachland und gelegentlich auch unter Nadelbäumen. Angaben aus dem östlichen Nordamerika und Teilen Asiens gehören meist zu einem Komplex ähnlicher Pilze, nicht zu dieser europäischen Art.",
+      "cap": "Der Hut ist 5–13 cm breit und erreicht ausnahmsweise nahezu 20 cm. Er ist zuerst gewölbt, flacht später ab und ist mit großen, weichen, wolligen, dunkelgrauen bis schwarzbraunen, aufrechten Schuppen bedeckt; die Haut zwischen den Schuppen ist blasser, graulich bis nahezu weiß. Der Rand ist jung eingerollt und oft mit fetzenartigen Resten eines weißlichen bis graulichen Teilschleiers behangen. Alte Hüte werden sehr dunkel und können einem verrottenden Kiefernzapfen ähneln.",
+      "hymenium": "Die Röhren sind zuerst weißlich, später graubraun und verfärben sich im Schnitt rot, dann schwarz. Die Poren sind eckig, blassgrau, verfärben sich bei Druck rötlich und anschließend schwarz und dunkeln mit dem Alter nach. Junge Poren sind vom Schleier verdeckt.",
+      "stipe": "Der Stiel ist 7–14 cm hoch, mitunter bis 20 cm, und 1–3 cm dick, typischerweise 8–12 × 1–2 cm. Er ist hutfarben, zottig oder wollig mit dunklen Schuppen, oft gebogen und besitzt meist eine grobe Ringzone oder einen zottigen Kragen, wo der Schleier zerrissen ist; der obere Teil kann gerieft oder netzig sein. Das Stielfleisch ist sehr hart.",
+      "flesh": "Das Fleisch ist dick, fest und zuerst weiß, verfärbt sich im Schnitt rosa bis orangerot und wird dann langsam schwarz. Geruch und Geschmack junger Fruchtkörper sind unauffällig; ältere können erdig riechen, und der Geschmack kann unangenehm werden. Das Stielfleisch bleibt zäh.",
+      "sporePrint": "Das Sporenpulver ist schwarzbraun bis schwarz. Die Sporen sind kurzellipsoid bis nahezu kugelig, 9–15 × 8–12 μm, und mit einem vollständigen netzigen Ornament bedeckt.",
+      "habitat": "Er fruktifiziert von Juli bis November, am häufigsten von Juli bis Oktober, auf dem Boden unter Eiche und Buche sowie in Misch- und Nadelwäldern, meist als einzelne Fruchtkörper.",
+      "uses": "Junge Fruchtkörper sind essbar, haben aber nur begrenzten kulinarischen Wert und können Mischgerichten beigegeben werden; der Stiel ist sehr zäh, und ältere Exemplare können unangenehm sein. In Großbritannien und Irland, wo die Art selten ist, sollte sie nicht als Speisepilz gesammelt werden.",
+      "confusion": "Strobilomyces confusus, eine eigenständige nordamerikanische Art, hat einen etwas kleineren Hut mit kleineren, steifen, spitzen Schuppen und Sporen mit Stacheln und Rippen, die kein vollständiges Netz bilden. Strobilomyces dryophilus, ebenfalls nordamerikanisch, hat stumpfe graurosa bis rosa-beige Hüte. Sarcodon imbricatus kann von oben ähnlich dunkel und schuppig wirken, hat aber unter dem Hut Stacheln statt Poren. Andere Arten der Gattung dürfen nicht allein aufgrund der Ähnlichkeit für diese Art gehalten werden.",
+      "notes": "Dies ist eine europäische Art. Viele Angaben aus dem östlichen Nordamerika und Teilen Asiens gehören zu einem Komplex ähnlicher Pilze, darunter Strobilomyces confusus, nicht zu dieser Art. In Großbritannien und Irland ist sie selten. Eine Schweizer Dauermarke zu 50 Rappen, ausgegeben am 27. Februar 2014, zeigte sie. Die Tafel ist eine mit künstlicher Intelligenz erzeugte Illustration, keine historische veröffentlichte Abbildung.",
+      "names": [
+        "Strubbelkopfröhrling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Gemeiner_Strubbelkopfr%C3%B6hrling",
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "Gemeiner Strubbelkopfröhrling"
+    },
+    "en": {
+      "description": "A scarce, usually solitary, mycorrhizal bolete of deciduous and mixed woods in the hills and mountains of Europe, less often in the lowlands, and occasionally under conifers. Records from eastern North America and parts of Asia mostly belong to a species complex of similar fungi rather than to this European species.",
+      "cap": "The cap is 5–13 cm across, exceptionally approaching 20 cm. It is convex at first and later flattens, and is covered with large, soft, woolly, dark grey to blackish-brown erect scales; the skin between the scales is paler, greyish to almost white. The margin is inrolled when young and often hung with ragged remnants of a whitish to greyish partial veil. Old caps become very dark and can resemble a rotting pine cone.",
+      "hymenium": "The tubes are whitish at first, later grey-brown, and stain red then black when cut. The pores are angular, pale grey, bruising reddish and then blackening, and they darken with age. Young pores are hidden by the veil.",
+      "stipe": "The stipe is 7–14 cm tall, sometimes to 20 cm, and 1–3 cm thick, typically 8–12 × 1–2 cm. It is coloured like the cap, shaggy or woolly with dark scales, often curved, and usually has a coarse ring zone or shaggy collar where the veil has torn; the upper part may be grooved or reticulate. The flesh of the stipe is very hard.",
+      "flesh": "The flesh is thick, firm and at first white, staining pink to orange-red when cut, then slowly blackening. The smell and taste are not distinctive when young; older fruit bodies may smell earthy, and the taste can become unpleasant. The stipe flesh stays tough.",
+      "sporePrint": "The spore print is blackish-brown to black. The spores are short-elliptic to almost globose, 9–15 × 8–12 μm, and are covered with a complete mesh-like (reticulate) ornament.",
+      "habitat": "It fruits from July to November, most often from July to October, on the ground under oak and beech, and also in mixed and coniferous woods, usually as single fruit bodies.",
+      "uses": "Young fruit bodies are edible but of limited culinary value and may be added to mixed dishes; the stipe is very tough, and older specimens can be unpleasant. In Britain and Ireland, where the species is rare, it should not be gathered for food.",
+      "confusion": "Strobilomyces confusus, a distinct North American species, has a slightly smaller cap with smaller, stiff, pointed scales, and spores with spines and ridges that do not form a complete mesh. Strobilomyces dryophilus, also North American, has dull grey-pink to pinkish-tan caps. Sarcodon imbricatus can look similarly dark and scaly from above, but it has spines under the cap rather than pores. Do not treat other members of the genus as this species by association.",
+      "notes": "This is a European species. Many records from eastern North America and parts of Asia belong to a species complex of similar fungi, including Strobilomyces confusus, rather than to this species. It is rare in Britain and Ireland. A Swiss 50-centime definitive postage stamp issued on 27 February 2014 depicted it. The plate is an AI-generated illustration, not a historical published figure.",
+      "names": [
+        "old-man-of-the-woods"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=238002",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=238002",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=238002",
+        "https://www.gbif.org/species/9225326",
+        "https://www.wikidata.org/wiki/Q614730",
+        "https://www.first-nature.com/fungi/strobilomyces-strobilaceus.php",
+        "https://en.wikipedia.org/wiki/Strobilomyces_strobilaceus",
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus",
+        "https://www.inaturalist.org/taxa/352462-Strobilomyces-strobilaceus",
+        "https://botany.cz/cs/strobilomyces-strobilaceus/",
+        "https://www.myko.cz/myko-atlas/Strobilomyces-strobilaceus/"
+      ],
+      "label": "old man of the woods"
+    },
+    "es": {
+      "description": "Strobilomyces strobilaceus es un boleto micorrícico escaso, por lo general solitario, de bosques caducifolios y mixtos en las colinas y montañas de Europa, con menor frecuencia en las tierras bajas y ocasionalmente bajo coníferas. Los registros del este de Norteamérica y de partes de Asia pertenecen en su mayoría a un complejo de hongos semejantes, no a esta especie europea.",
+      "cap": "El sombrero mide 5–13 cm de diámetro y, excepcionalmente, se aproxima a 20 cm. Es al principio convexo y luego se aplana, y está cubierto de escamas grandes, blandas, lanudas, de gris oscuro a pardo negruzco, erectas; la cutícula entre las escamas es más pálida, grisácea a casi blanca. El margen está enrollado en los ejemplares jóvenes y a menudo lleva restos desgarrados de un velo parcial blanquecino a grisáceo. Los sombreros viejos se oscurecen mucho y pueden recordar a una piña en descomposición.",
+      "hymenium": "Los tubos son al principio blanquecinos, luego pardo-grisáceos, y al corte se vuelven rojos y después negros. Los poros son angulosos, gris pálido, se enrojecen y luego ennegrecen al roce, y se oscurecen con la edad. En los jóvenes los poros quedan ocultos por el velo.",
+      "stipe": "El pie mide 7–14 cm de alto, a veces hasta 20 cm, y 1–3 cm de grosor, típicamente 8–12 × 1–2 cm. Tiene el color del sombrero, es hirsuto o lanudo por las escamas oscuras, a menudo curvado, y suele presentar una zona anular tosca o un collar hirsuto donde se ha roto el velo; la parte superior puede ser estriada o reticulada. La carne del pie es muy dura.",
+      "flesh": "La carne es gruesa, firme y al principio blanca; al corte se torna rosa a rojo anaranjado y luego ennegrece lentamente. El olor y el sabor no son distintivos en los cuerpos fructíferos jóvenes; los más viejos pueden oler a tierra, y el sabor puede volverse desagradable. La carne del pie permanece correosa.",
+      "sporePrint": "La esporada es pardo negruzca a negra. Las esporas son brevemente elípticas a casi globosas, de 9–15 × 8–12 μm, y están cubiertas por un ornamento reticulado completo.",
+      "habitat": "Fructifica de julio a noviembre, con más frecuencia de julio a octubre, en el suelo bajo robles y hayas, y también en bosques mixtos y de coníferas, generalmente como cuerpos fructíferos solitarios.",
+      "uses": "Los cuerpos fructíferos jóvenes son comestibles, pero de valor culinario limitado, y pueden añadirse a platos mixtos; el pie es muy correoso, y los ejemplares viejos pueden resultar desagradables. En Gran Bretaña e Irlanda, donde la especie es rara, no debería recolectarse para el consumo.",
+      "confusion": "Strobilomyces confusus, una especie norteamericana distinta, tiene un sombrero algo menor, con escamas más pequeñas, rígidas y puntiagudas, y esporas con espinas y crestas que no forman una malla completa. Strobilomyces dryophilus, también norteamericano, tiene sombreros de un gris rosado apagado a pardo rosado. Sarcodon imbricatus puede parecer igualmente oscuro y escamoso visto desde arriba, pero bajo el sombrero tiene aguijones en lugar de poros. No deben tomarse otros miembros del género por esta especie por simple asociación.",
+      "notes": "Esta es una especie europea. Muchos registros del este de Norteamérica y de partes de Asia pertenecen a un complejo de hongos semejantes, incluido Strobilomyces confusus, no a esta especie. Es rara en Gran Bretaña e Irlanda. Un sello definitivo suizo de 50 céntimos, emitido el 27 de febrero de 2014, la representaba. La lámina es una ilustración generada por inteligencia artificial, no una figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Soomuspuravik on haruldane, tavaliselt üksikult kasvav mükoriisne torikseene-laadne puravik Euroopa küngaste ja mägede leht- ja segametsades, harvem madalikul ja aeg-ajalt okaspuude all. Ida-Põhja-Ameerika ja Aasia osade leiud kuuluvad enamasti sarnaste seente liigikompleksi, mitte selle Euroopa liigi juurde.",
+      "cap": "Kübar on 5–13 cm lai, erandlikult peaaegu 20 cm. Alguses kumer, hiljem lapik, kaetud suurte, pehmete, villaste, tumehallide kuni mustjaspruunide püstiste soomustega; soomustevaheline pind on heledam, hallikas kuni peaaegu valge. Serv on noorena sissepoole käändunud ja sageli rippuvate valkja kuni hallika osalise loori räbalate jäänustega. Vanad kübarad muutuvad väga tumedaks ja võivad meenutada kõdunevat männikäbi.",
+      "hymenium": "Torukesed on alguses valkjad, hiljem hallikaspruunid ning muutuvad lõikel punaseks ja seejärel mustaks. Poorid on nurgelised, kahvatuhallid, muutuvad muljumisel punakaks ja siis mustaks ning tumenevad vananedes. Noortel on poorid looriga kaetud.",
+      "stipe": "Jalg on 7–14 cm kõrge, vahel kuni 20 cm, ja 1–3 cm jäme, tüüpiliselt 8–12 × 1–2 cm. Ta on kübara värvi, tumedate soomuste tõttu rabelev või villane, sageli kõver ning tal on tavaliselt jäme rõngavöönd või rabelev krae seal, kus loor on rebenenud; ülaosa võib olla sooneline või võrkjas. Jalaliha on väga kõva.",
+      "flesh": "Liha on paks, kindel ja alguses valge, muutub lõikel roosaks kuni oranžpunaseks ja seejärel aeglaselt mustaks. Noorte viljakehade lõhn ja maitse ei ole iseloomulikud; vanemad võivad lõhnata mullaselt ja maitse võib muutuda ebameeldivaks. Jalaliha jääb sitkeks.",
+      "sporePrint": "Eospulber on mustjaspruun kuni must. Eosed on lühikese-elliptilised kuni peaaegu kerajad, 9–15 × 8–12 μm, ja kaetud täieliku võrkja ornamentikaga.",
+      "habitat": "Viljub juulist novembrini, kõige sagedamini juulist oktoobrini, maapinnal tamme ja pöögi all ning ka sega- ja okasmetsades, tavaliselt üksikute viljakehadena.",
+      "uses": "Noored viljakehad on söödavad, kuid köögiväärtuselt piiratud ja neid võib lisada segatoitudesse; jalg on väga sitke ning vanemad isendid võivad olla ebameeldivad. Suurbritannias ja Iirimaal, kus liik on haruldane, ei tohiks teda toiduks korjata.",
+      "confusion": "Strobilomyces confusus, eraldi Põhja-Ameerika liik, on veidi väiksema kübaraga, millel on väiksemad, jäigad, teravatipulised soomused, ning eostel on ogad ja harjad, mis ei moodusta täielikku võrku. Strobilomyces dryophilus, samuti Põhja-Ameerika liik, on tuhmide hallikasroosade kuni roosakaspruunide kübaratega. Sarcodon imbricatus võib pealtpaistvalt olla sarnaselt tume ja soomuseline, kuid kübara all on ogad, mitte poorid. Teisi sama perekonna liike ei tohi pidada selleks liigiks üksnes sarnasuse põhjal.",
+      "notes": "See on Euroopa liik. Paljud leiud Ida-Põhja-Ameerikast ja Aasia osadest kuuluvad sarnaste seente liigikompleksi, sealhulgas Strobilomyces confusus, mitte selle liigi juurde. Suurbritannias ja Iirimaal on ta haruldane. Eestis on teda leitud üks kord, 1961. aastal. Teda kujutas Šveitsi 50-sendine tähtmark, mis lasti käibele 27. veebruaril 2014. Tahvel on tehisintellektiga loodud illustratsioon, mitte ajalooline avaldatud joonis.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Soomuspuravik_(perekond)",
+        "https://et.wikipedia.org/wiki/Eesti_seente_loend"
+      ],
+      "label": "soomuspuravik"
+    },
+    "fa": {
+      "description": "Strobilomyces strobilaceus یک قارچ لوله‌ای میکوریزی کمیاب است که معمولاً به‌صورت منفرد در جنگل‌های پهن‌برگ و آمیختهٔ تپه‌ها و کوهستان‌های اروپا می‌روید، در دشت‌ها کمتر دیده می‌شود و گاه زیر مخروطیان نیز ظاهر می‌شود. گزارش‌ها از شرق آمریکای شمالی و بخش‌هایی از آسیا بیشتر به مجموعه‌ای از قارچ‌های مشابه تعلق دارند، نه به این گونهٔ اروپایی.",
+      "cap": "کلاهک ۵–۱۳ سانتی‌متر پهنا دارد و به‌ندرت به نزدیک ۲۰ سانتی‌متر می‌رسد. ابتدا محدب است، سپس پهن می‌شود و با پولک‌های بزرگ، نرم، پشمی، خاکستری تیره تا قهوه‌ای مایل به سیاه و افراشته پوشیده است؛ پوست میان پولک‌ها کم‌رنگ‌تر، خاکستری تا تقریباً سفید است. حاشیه در نمونه‌های جوان به درون پیچیده است و اغلب پاره‌های پردهٔ ناقص سفید تا خاکستری از آن آویزان است. کلاهک‌های پیر بسیار تیره می‌شوند و ممکن است به مخروط کاج در حال پوسیدن شبیه باشند.",
+      "hymenium": "لوله‌ها ابتدا مایل به سفید و سپس خاکستری-قهوه‌ای‌اند و هنگام برش نخست سرخ و سپس سیاه می‌شوند. منافذ گوشه‌دار و خاکستری کم‌رنگ‌اند، با فشار سرخ و سپس سیاه می‌شوند و با افزایش سن تیره‌تر می‌گردند. در نمونه‌های جوان منافذ را پرده می‌پوشاند.",
+      "stipe": "ساقه ۷–۱۴ سانتی‌متر بلندا دارد، گاه تا ۲۰ سانتی‌متر، و ۱–۳ سانتی‌متر ضخامت، معمولاً ۸–۱۲ × ۱–۲ سانتی‌متر. همرنگ کلاهک است، به‌سبب پولک‌های تیره ژولیده یا پشمی است، اغلب خمیده است و معمولاً در محل پاره‌شدن پرده یک ناحیهٔ حلقه‌ای درشت یا یقه‌ای ژولیده دارد؛ بخش بالایی ممکن است شیاردار یا توری‌شکل باشد. گوشت ساقه بسیار سخت است.",
+      "flesh": "گوشت ضخیم، سفت و ابتدا سفید است؛ هنگام برش صورتی تا سرخ مایل به نارنجی می‌شود و سپس به‌آرامی سیاه می‌گردد. بو و مزه در اندام‌های باردهٔ جوان مشخص نیست؛ نمونه‌های پیرتر ممکن است بوی خاک بدهند و مزه ناخوشایند شود. گوشت ساقه سفت می‌ماند.",
+      "sporePrint": "نقش اسپور قهوه‌ای مایل به سیاه تا سیاه است. اسپورها کوتاه-بیضوی تا تقریباً کروی، ۹–۱۵ × ۸–۱۲ میکرومتر، و دارای تزئین توری کامل‌اند.",
+      "habitat": "از ژوئیه تا نوامبر، بیشتر از ژوئیه تا اکتبر، روی زمین زیر بلوط و راش و نیز در جنگل‌های آمیخته و مخروطی، معمولاً به‌صورت اندام‌های باردهٔ منفرد میوه می‌دهد.",
+      "uses": "اندام‌های باردهٔ جوان خوراکی‌اند اما ارزش آشپزی محدودی دارند و می‌توان آن‌ها را به غذاهای مخلوط افزود؛ ساقه بسیار سفت است و نمونه‌های پیرتر ممکن است ناخوشایند باشند. در بریتانیا و ایرلند، که این گونه کمیاب است، نباید برای خوردن چیده شود.",
+      "confusion": "Strobilomyces confusus، گونه‌ای جداگانه از آمریکای شمالی، کلاهکی کمی کوچک‌تر با پولک‌های کوچک‌تر، سخت و نوک‌تیز دارد و اسپورهای آن دارای خار و برآمدگی‌هایی‌اند که شبکهٔ کامل نمی‌سازند. Strobilomyces dryophilus، نیز آمریکای شمالی، کلاهک‌هایی خاکستری-صورتی کدر تا قهوه‌ای مایل به صورتی دارد. Sarcodon imbricatus از بالا ممکن است به همان اندازه تیره و پولک‌دار به نظر برسد، اما زیر کلاهک خار دارد، نه منفذ. نباید اعضای دیگر این سرده را تنها به‌خاطر شباهت همین گونه پنداشت.",
+      "notes": "این یک گونهٔ اروپایی است. بسیاری از گزارش‌ها از شرق آمریکای شمالی و بخش‌هایی از آسیا به مجموعه‌ای از قارچ‌های مشابه، از جمله Strobilomyces confusus، تعلق دارند، نه به این گونه. در بریتانیا و ایرلند کمیاب است. تمبر پستی جاری سوئیس به ارزش ۵۰ سانتیم، منتشرشده در ۲۷ فوریهٔ ۲۰۱۴، آن را نشان می‌داد. صفحه یک تصویر ساختهٔ هوش مصنوعی است، نه یک شکل تاریخی منتشرشده.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suomutatti on harvinainen, yleensä yksittäin kasvava mykorritsallinen tatakasvi Euroopan kukkula- ja vuoristoseutujen lehti- ja sekametsissä, harvemmin alavilla mailla ja toisinaan havupuiden alla. Itäisen Pohjois-Amerikan ja osien Aasiaa koskevat havainnot kuuluvat useimmiten samankaltaisten sienten lajiryhmään, ei tähän eurooppalaiseen lajiin.",
+      "cap": "Lakki on 5–13 cm leveä ja poikkeuksellisesti lähes 20 cm. Se on aluksi kupera, myöhemmin laakeneva, ja peittynyt suurilla, pehmeillä, villamaisilla, tummanharmailla tai mustanruskeilla, pystyssä olevilla suomuilla; suomujen välinen pinta on vaaleampi, harmahtava tai lähes valkoinen. Lakin reuna on nuorena sisäänkääntynyt ja usein ripustettu valkeahkon tai harmahtavan osittaisen suojuskalvon risaisilla jäänteillä. Vanhat lakit tummuvat voimakkaasti ja voivat muistuttaa lahoavaa männynkäpyä.",
+      "hymenium": "Putket ovat aluksi valkeahkoja, myöhemmin harmaanruskeita, ja muuttuvat leikkauspinnasta punaisiksi ja sitten mustiksi. Huokoset ovat kulmikkaita, vaaleanharmaita, mustuvat punertavan kautta mustiksi kosketuksesta ja tummenevat iän myötä. Nuorilla huokoset ovat suojuskalvon peitossa.",
+      "stipe": "Jalka on 7–14 cm korkea, joskus 20 cm, ja 1–3 cm paksu, tyypillisesti 8–12 × 1–2 cm. Se on lakin värinen, pimeiden suomujen rosoinen tai villamainen, usein kaareva, ja siinä on yleensä karkea rengasvyöhyke tai rosoinen kaulus siinä, missä suojuskalvo on revennyt; yläosa voi olla uurteinen tai verkkomainen. Jalan malto on hyvin kovaa.",
+      "flesh": "Malto on paksua, kiinteää ja aluksi valkoista, muuttuu leikkauspinnasta vaaleanpunaiseksi tai oranssinpunaiseksi ja sitten hitaasti mustaksi. Nuorten itiöemien haju ja maku eivät ole erottuvia; vanhemmat voivat tuoksahtaa multaiseksi, ja maku voi muuttua epämiellyttäväksi. Jalan malto pysyy sitkeänä.",
+      "sporePrint": "Itiöpöly on mustanruskeaa tai mustaa. Itiöt ovat lyhyenellisoidisia tai lähes pallomaisia, 9–15 × 8–12 μm, ja peittyneet täydellisellä verkkomaisella ornamentilla.",
+      "habitat": "Se fruktifioi heinäkuusta marraskuuhun, useimmiten heinäkuusta lokakuuhun, maassa tammen ja pyökin alla sekä seka- ja havumetsissä, yleensä yksittäisinä itiöeminä.",
+      "uses": "Nuoret itiöemät ovat syötäviä mutta kulinaariselta arvoltaan rajallisia, ja niitä voi lisätä sekaruokiin; jalka on hyvin sitkeä, ja vanhemmat yksilöt voivat olla epämiellyttäviä. Britanniassa ja Irlannissa, missä laji on harvinainen, sitä ei pitäisi kerätä ruoaksi.",
+      "confusion": "Strobilomyces confusus, erillinen pohjoisamerikkalainen laji, on hieman pienempilakkinen, pienemmillä, jäykillä ja terävillä suomuilla, ja sen itiöissä on piikkejä ja harjanteita, jotka eivät muodosta täydellistä verkkoa. Strobilomyces dryophilus, myös pohjoisamerikkalainen, on himmeän harmaanpunertava tai vaaleanpunertavan ruskea lakiltaan. Sarcodon imbricatus voi päältä vaikuttaa samoin tummalta ja suomuiselta, mutta lakki alapinnalla on piikkejä, ei huokosia. Suvun muita lajeja ei pidä pitää tänä lajina pelkän yhteenkuuluvuuden perusteella.",
+      "notes": "Tämä on eurooppalainen laji. Monet havainnot itäisestä Pohjois-Amerikasta ja osista Aasiaa kuuluvat samankaltaisten sienten lajiryhmään, mukaan lukien Strobilomyces confusus, ei tähän lajiin. Britanniassa ja Irlannissa se on harvinainen. Sveitsiläinen 50 sentiimin käyttöpostimerkki, julkaistu 27. helmikuuta 2014, kuvasi sitä. Levy on tekoälyn tuottama kuvitus, ei historiallinen julkaistu kuva.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Suomutatti",
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "suomutatti"
+    },
+    "fr": {
+      "description": "Le bolet pomme de pin est un bolet mycorhizien rare, généralement solitaire, des forêts de feuillus et mixtes des collines et montagnes d’Europe, plus rarement en plaine, et parfois sous conifères. Les mentions de l’est de l’Amérique du Nord et de certaines régions d’Asie appartiennent le plus souvent à un complexe d’espèces semblables, et non à cette espèce européenne.",
+      "cap": "Le chapeau mesure 5–13 cm de diamètre, exceptionnellement près de 20 cm. D’abord convexe, il s’aplatit ensuite et est couvert de grandes écailles molles, laineuses, dressées, gris foncé à brun-noirâtre; la cuticule entre les écailles est plus pâle, grisâtre à presque blanche. La marge est enroulée chez les jeunes et souvent garnie de lambeaux d’un voile partiel blanchâtre à grisâtre. Les vieux chapeaux deviennent très sombres et peuvent rappeler une pomme de pin en décomposition.",
+      "hymenium": "Les tubes sont d’abord blanchâtres, puis brun-gris, et rougissent puis noircissent à la coupe. Les pores sont anguleux, gris pâle, bleuissent-rougissent au froissement puis noircissent, et s’assombrissent avec l’âge. Chez les jeunes, les pores sont cachés par le voile.",
+      "stipe": "Le pied mesure 7–14 cm de haut, parfois jusqu’à 20 cm, et 1–3 cm d’épaisseur, typiquement 8–12 × 1–2 cm. Il a la couleur du chapeau, est hirsute ou laineux de sombres écailles, souvent courbé, et présente généralement une zone annulaire grossière ou un col hirsute à l’endroit où le voile s’est déchiré; la partie supérieure peut être striée ou réticulée. La chair du pied est très dure.",
+      "flesh": "La chair est épaisse, ferme et d’abord blanche, rougit de rose à orangé-rouge à la coupe, puis noircit lentement. L’odeur et la saveur ne sont pas distinctives chez les jeunes; les sporophores plus âgés peuvent sentir la terre, et la saveur peut devenir désagréable. La chair du pied reste coriace.",
+      "sporePrint": "La sporée est brun-noirâtre à noire. Les spores sont brièvement elliptiques à presque globuleuses, 9–15 × 8–12 μm, et couvertes d’un ornement réticulé complet.",
+      "habitat": "Il fructifie de juillet à novembre, le plus souvent de juillet à octobre, au sol sous chênes et hêtres, ainsi qu’en forêts mixtes et de conifères, généralement en sporophores isolés.",
+      "uses": "Les jeunes sporophores sont comestibles mais d’intérêt culinaire limité et peuvent entrer dans des plats composés; le pied est très coriace, et les exemplaires âgés peuvent être désagréables. En Grande-Bretagne et en Irlande, où l’espèce est rare, elle ne devrait pas être cueillie pour la consommation.",
+      "confusion": "Strobilomyces confusus, espèce nord-américaine distincte, a un chapeau un peu plus petit, à écailles plus petites, raides et pointues, et des spores à épines et crêtes qui ne forment pas un réseau complet. Strobilomyces dryophilus, également nord-américain, a des chapeaux d’un gris-rosé terne à beige rosé. Sarcodon imbricatus peut paraître aussi sombre et écailleux vu de dessus, mais porte des aiguillons sous le chapeau plutôt que des pores. Les autres membres du genre ne doivent pas être pris pour cette espèce par simple association.",
+      "notes": "C’est une espèce européenne. Beaucoup de mentions de l’est de l’Amérique du Nord et de certaines régions d’Asie appartiennent à un complexe d’espèces semblables, dont Strobilomyces confusus, et non à cette espèce. Elle est rare en Grande-Bretagne et en Irlande. Un timbre d’usage courant suisse de 50 centimes, émis le 27 février 2014, la représentait. La planche est une illustration générée par intelligence artificielle, et non une figure historique publiée.",
+      "names": [],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "bolet pomme de pin"
+    },
+    "he": {
+      "description": "Strobilomyces strobilaceus הוא פטריית צינורות מיקוריזית נדירה, בדרך כלל בודדת, של יערות עלים נשירים ומעורבים בגבעות ובהרים של אירופה, בתדירות נמוכה יותר בשפלה, ולעתים גם תחת מחטניים. רישומים ממזרח צפון אמריקה ומחלקים באסיה שייכים ברובם למכלול של פטריות דומות, ולא למין האירופי הזה.",
+      "cap": "הכובע בקוטר 5–13 ס\"מ, ובמקרים חריגים מתקרב ל־20 ס\"מ. תחילה הוא קמור ובהמשך משתטח, ומכוסה בקשקשים גדולים, רכים, צמריריים, אפורים כהים עד חומים־שחורים, זקופים; העור בין הקשקשים בהיר יותר, אפרפר עד כמעט לבן. השוליים מגולגלים פנימה בצעירים ולעיתים קרובות תלויים עליהם שאריות קרועות של יריעה חלקית לבנבנה עד אפרפרה. כובעים ישנים מחשיכים מאוד ויכולים להזכיר אצטרובל נרקב.",
+      "hymenium": "הצינורות לבנבנים תחילה, אחר כך חומים־אפורים, ובחיתוך מאדימים ואחר כך משחירים. הנקבוביות זוויתיות, אפורות בהירות, מאדימות ואחר כך משחירות במעיכה, ומחשיכות עם הגיל. בצעירים הנקבוביות מוסתרות על ידי היריעה.",
+      "stipe": "הרגל בגובה 7–14 ס\"מ, לעיתים עד 20 ס\"מ, ובעובי 1–3 ס\"מ, בדרך כלל 8–12 × 1–2 ס\"מ. צבעה כצבע הכובע, היא שעירה או צמרירית מקשקשים כהים, לעיתים קרובות מעוקלת, ויש לה בדרך כלל אזור טבעת גס או צווארון שעיר במקום שבו נקרעה היריעה; החלק העליון עשוי להיות מצולק או רשתי. בשר הרגל קשה מאוד.",
+      "flesh": "הבשר עבה, יציב ולבן תחילה; בחיתוך הוא ורוד עד אדום־כתום ואחר כך משחיר לאט. הריח והטעם אינם ייחודיים בגופי פרי צעירים; ישנים יותר עשויים להריח אדמה, והטעם עלול להיות לא נעים. בשר הרגל נשאר קשה.",
+      "sporePrint": "טביעת הנבגים חומה־שחורה עד שחורה. הנבגים אליפטיים קצרים עד כמעט כדוריים, 9–15 × 8–12 מיקרומטר, ומכוסים בעיטור רשתי שלם.",
+      "habitat": "הוא מניב מיולי עד נובמבר, לרוב מיולי עד אוקטובר, על הקרקע תחת אלונים ובוקיצות, וגם ביערות מעורבים ומחטניים, בדרך כלל כגופי פרי בודדים.",
+      "uses": "גופי פרי צעירים אכילים אך ערכם הקולינרי מוגבל, וניתן להוסיפם למנות מעורבות; הרגל קשה מאוד, ודוגמאות ישנות יותר עלולות להיות לא נעימות. בבריטניה ובאירלנד, שבהן המין נדיר, אין לאסוף אותו למאכל.",
+      "confusion": "Strobilomyces confusus, מין צפון־אמריקאי נפרד, בעל כובע קטן במקצת עם קשקשים קטנים יותר, קשיחים ומחודדים, ונבגים עם קוצים ורכסים שאינם יוצרים רשת שלמה. Strobilomyces dryophilus, אף הוא צפון־אמריקאי, בעל כובעים אפורים־ורודים עמומים עד חומים־ורודים. Sarcodon imbricatus עשוי להיראות מלמעלה כהה ומקושקש באופן דומה, אך מתחת לכובע יש לו קוצים ולא נקבוביות. אין לראות חברים אחרים בסוג כמין הזה מתוך דמיון בלבד.",
+      "notes": "זהו מין אירופי. רישומים רבים ממזרח צפון אמריקה ומחלקים באסיה שייכים למכלול של פטריות דומות, כולל Strobilomyces confusus, ולא למין הזה. הוא נדיר בבריטניה ובאירלנד. בול דואר שווייצרי רגיל בערך 50 סנטימים, שהונפק ב־27 בפברואר 2014, תיאר אותו. הלוח הוא איור שנוצר בבינה מלאכותית, ולא דמות היסטורית שפורסמה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Strobilomyces strobilaceus यूरोप की पहाड़ियों और पहाड़ों के पर्णपाती और मिश्रित वनों का एक दुर्लभ, आमतौर पर अकेला उगने वाला माइकोराइजल बोलिट है, जो मैदानों में कम और कभी-कभी शंकुधारी वृक्षों के नीचे भी पाया जाता है। पूर्वी उत्तरी अमेरिका और एशिया के कुछ भागों के अभिलेख अधिकतर इसी यूरोपीय जाति के नहीं, बल्कि समान कवकों के एक समूह के हैं।",
+      "cap": "टोपी 5–13 सेमी चौड़ी होती है और अपवादस्वरूप लगभग 20 सेमी तक पहुँच सकती है। पहले यह उभरी हुई होती है, बाद में चपटी हो जाती है, और बड़े, नरम, ऊनी, गहरे धूसर से काले-भूरे, खड़े शल्कों से ढकी रहती है; शल्कों के बीच की त्वचा हल्की, धूसर से लगभग सफेद होती है। युवा अवस्था में किनारा अंदर की ओर मुड़ा होता है और अक्सर सफेद से धूसर आंशिक आवरण के फटे अवशेष लटके रहते हैं। पुरानी टोपियाँ बहुत गहरी हो जाती हैं और सड़ते चीड़ के शंकु जैसी लग सकती हैं।",
+      "hymenium": "नलिकाएँ पहले सफेद, बाद में धूसर-भूरी होती हैं और काटने पर लाल फिर काली हो जाती हैं। छिद्र कोणीय, हल्के धूसर होते हैं, दबाने पर लाल फिर काले पड़ते हैं और उम्र के साथ गहरे होते हैं। युवा अवस्था में छिद्र आवरण से छिपे रहते हैं।",
+      "stipe": "डंठल 7–14 सेमी ऊँचा, कभी-कभी 20 सेमी तक, और 1–3 सेमी मोटा होता है, आमतौर पर 8–12 × 1–2 सेमी। यह टोपी के रंग का होता है, गहरे शल्कों से खुरदरा या ऊनी, अक्सर मुड़ा हुआ, और जहाँ आवरण फटा होता है वहाँ आमतौर पर एक खुरदरी वलय-पट्टी या खुरदरा कॉलर होता है; ऊपरी भाग नालीदार या जालीदार हो सकता है। डंठल का गूदा बहुत कठोर होता है।",
+      "flesh": "गूदा मोटा, सख्त और पहले सफेद होता है; काटने पर गुलाबी से नारंगी-लाल हो जाता है और फिर धीरे-धीरे काला पड़ता है। युवा फलन-कायों की गंध और स्वाद विशिष्ट नहीं होते; पुराने मिट्टी जैसी गंध दे सकते हैं और स्वाद अप्रिय हो सकता है। डंठल का गूदा सख्त रहता है।",
+      "sporePrint": "बीजाणु-छाप काली-भूरी से काली होती है। बीजाणु छोटे-दीर्घवृत्ताकार से लगभग गोलाकार होते हैं, 9–15 × 8–12 माइक्रोमीटर, और पूर्ण जालीदार अलंकरण से ढके होते हैं।",
+      "habitat": "यह जुलाई से नवंबर तक, सबसे अधिक जुलाई से अक्टूबर तक, बलूत और बीच के नीचे भूमि पर तथा मिश्रित और शंकुधारी वनों में, आमतौर पर अकेले फलन-कायों के रूप में फलता है।",
+      "uses": "युवा फलन-काय खाने योग्य हैं, पर पाक मूल्य सीमित है और उन्हें मिश्रित व्यंजनों में मिलाया जा सकता है; डंठल बहुत सख्त होता है, और पुराने नमूने अप्रिय हो सकते हैं। ब्रिटेन और आयरलैंड में, जहाँ यह जाति दुर्लभ है, इसे खाने के लिए नहीं तोड़ना चाहिए।",
+      "confusion": "Strobilomyces confusus, एक अलग उत्तर अमेरिकी जाति, की टोपी थोड़ी छोटी होती है, छोटे, कठोर, नुकीले शल्क होते हैं, और बीजाणुओं पर काँटे व धारियाँ होती हैं जो पूरी जाली नहीं बनातीं। Strobilomyces dryophilus, जो भी उत्तर अमेरिकी है, की टोपियाँ मंद धूसर-गुलाबी से गुलाबी-भूरी होती हैं। Sarcodon imbricatus ऊपर से उतना ही गहरा और शल्की दिख सकता है, पर टोपी के नीचे छिद्र नहीं बल्कि काँटे होते हैं। केवल समानता के आधार पर इस वंश के अन्य सदस्यों को यही जाति नहीं मानना चाहिए।",
+      "notes": "यह एक यूरोपीय जाति है। पूर्वी उत्तरी अमेरिका और एशिया के कुछ भागों के कई अभिलेख समान कवकों के समूह के हैं, जिनमें Strobilomyces confusus भी है, न कि इसी जाति के। ब्रिटेन और आयरलैंड में यह दुर्लभ है। 27 फरवरी 2014 को जारी स्विस 50-सेंटिम नियमित डाक टिकट पर इसे दर्शाया गया था। पट्टिका कृत्रिम बुद्धिमत्ता से बना चित्रण है, कोई ऐतिहासिक प्रकाशित चित्र नहीं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Strobilomyces strobilaceus rijetka je, obično pojedinačna mikorizna cjevasta gljiva lisnatih i mješovitih šuma europskih brežuljaka i planina, rjeđe u nizinama i ponekad pod četinjačama. Nalazi s istoka Sjeverne Amerike i dijelova Azije većinom pripadaju kompleksu sličnih gljiva, a ne ovoj europskoj vrsti.",
+      "cap": "Klobuk je 5–13 cm širok, iznimno se približava 20 cm. Najprije je ispupčen, poslije se spljošti i prekriven je velikim, mekim, vunenastim, tamnosivim do crnkasto smeđim, uspravnim ljuskama; kožica između ljusaka blijeda je, sivkasta do gotovo bijela. Rub je u mladih uvinut i često ovješen rastrganim ostacima bjelkastog do sivkastog djelomičnog vela. Stari klobuci jako potamne i mogu sličiti trulom borovom češeru.",
+      "hymenium": "Cjevčice su najprije bjelkaste, poslije sivkastosmeđe i na presjeku pocrvene, zatim pocrne. Pore su uglate, blijedosive, na pritisak pocrvene pa pocrne i sa starošću potamne. U mladih su pore skrivene velom.",
+      "stipe": "Stručak je visok 7–14 cm, ponekad do 20 cm, i debeo 1–3 cm, tipično 8–12 × 1–2 cm. Boje je klobuka, čupav ili vunenast od tamnih ljusaka, često savijen i obično ima grubu prstenastu zonu ili čupavi ovratnik tamo gdje se veo rastrgao; gornji dio može biti urezan ili mrežast. Meso stručka vrlo je tvrdo.",
+      "flesh": "Meso je debelo, čvrsto i najprije bijelo, na presjeku poprima ružičastu do narančaste crvenu boju, zatim polako crni. Miris i okus mladih plodišta nisu karakteristični; starija mogu mirisati na zemlju, a okus može postati neugodan. Meso stručka ostaje žilavo.",
+      "sporePrint": "Otisak spora crnkastosmeđ je do crn. Spore su kratko eliptične do gotovo kuglaste, 9–15 × 8–12 μm, i prekrivene potpunim mrežastim ukrasom.",
+      "habitat": "Plodi od srpnja do studenoga, najčešće od srpnja do listopada, na tlu pod hrastom i bukvom te u mješovitim i četinjastim šumama, obično kao pojedinačna plodišta.",
+      "uses": "Mlada plodišta jestiva su, ali ograničene kulinarske vrijednosti, i mogu se dodati miješanim jelima; stručak je vrlo žilav, a stariji primjerci mogu biti neugodni. U Britaniji i Irskoj, gdje je vrsta rijetka, ne bi je trebalo brati za jelo.",
+      "confusion": "Strobilomyces confusus, zasebna sjevernoamerička vrsta, ima donekle manji klobuk s manjim, čvrstim, šiljatim ljuskama i spore s bodljama i rebrima koje ne tvore potpunu mrežu. Strobilomyces dryophilus, također sjevernoamerički, ima mutne sivo-ružičaste do ružičastosmeđe klobuke. Sarcodon imbricatus odozgo može izgledati jednako tamno i ljuskavo, ali ispod klobuka ima bodlje, a ne pore. Ostale pripadnike roda ne treba smatrati ovom vrstom samo po sličnosti.",
+      "notes": "Ovo je europska vrsta. Mnogi nalazi s istoka Sjeverne Amerike i dijelova Azije pripadaju kompleksu sličnih gljiva, uključujući Strobilomyces confusus, a ne ovoj vrsti. U Britaniji i Irskoj je rijetka. Prikazivala ju je švicarska definitivna poštanska marka od 50 centima, izdana 27. veljače 2014. Ploča je ilustracija stvorena umjetnom inteligencijom, a ne povijesna objavljena slika.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "A pikkelyes tinóru ritka, általában magánosan növő, mikorrhizás tinóru Európa domb- és hegyvidéki lombos és elegyes erdeiben, ritkábban az alföldön, alkalmanként fenyők alatt is. A kelet-észak-amerikai és egyes ázsiai adatok többnyire hasonló gombák fajkomplexumához tartoznak, nem ehhez az európai fajhoz.",
+      "cap": "A kalap 5–13 cm széles, kivételesen közelíthet a 20 cm-hez. Először domború, később ellaposodik, és nagy, puha, gyapjas, sötétszürke vagy feketésbarna, felálló pikkelyek borítják; a pikkelyek közötti bőr halványabb, szürkés vagy majdnem fehér. A széle fiatalon begöngyölt, és gyakran fehéres vagy szürkés részleges burok foszladozó maradványai csüngenek róla. Az öreg kalapok nagyon elsötétednek, és rothadó tobozra emlékeztethetnek.",
+      "hymenium": "A csövek eleinte fehéres, később szürkésbarna színűek, vágásra előbb vörösödnek, majd feketednek. A pórusok szögletesek, halványszürkék, nyomásra vörösödnek, majd feketednek, és korral sötétednek. A fiatal pórusokat a burok takarja.",
+      "stipe": "A tönk 7–14 cm magas, néha 20 cm-ig, és 1–3 cm vastag, tipikusan 8–12 × 1–2 cm. A kalaphoz hasonló színű, sötét pikkelyektől bozontos vagy gyapjas, gyakran görbült, és rendszerint durva gallérzónája vagy bozontos gallérja van ott, ahol a burok elszakadt; a felső része barázdált vagy hálózatos lehet. A tönk húsa nagyon kemény.",
+      "flesh": "A hús vastag, tömör és eleinte fehér, vágásra rózsaszínűvé vagy narancsvörössé válik, majd lassan feketedik. A fiatal termőtestek szaga és íze nem jellegzetes; az idősebbek földszagúak lehetnek, és az íz kellemetlenné válhat. A tönk húsa szívós marad.",
+      "sporePrint": "A spórapor feketésbarna vagy fekete. A spórák rövid-elliptikusak vagy csaknem gömbölyűek, 9–15 × 8–12 μm, és teljes, hálózatos díszítettségűek.",
+      "habitat": "Júliustól novemberig terem, leggyakrabban júliustól októberig, a talajon tölgy és bükk alatt, valamint elegyes és fenyvesekben, általában magános termőtestekként.",
+      "uses": "A fiatal termőtestek ehetők, de konyhai értékük korlátozott, és vegyes ételekbe tehetők; a tönk nagyon szívós, az idősebb példányok kellemetlenek lehetnek. Nagy-Britanniában és Írországban, ahol a faj ritka, nem tanácsos étkezésre gyűjteni.",
+      "confusion": "A Strobilomyces confusus, egy különálló észak-amerikai faj, valamivel kisebb kalapú, kisebb, merev, hegyes pikkelyekkel, és tövisekkel valamint taréjokkal díszített spórái nem alkotnak teljes hálót. A Strobilomyces dryophilus, szintén észak-amerikai, tompa szürkésrózsaszín vagy rózsás-barna kalapú. A Sarcodon imbricatus felülről hasonlóan sötétnek és pikkelyesnek tűnhet, de a kalap alatt tüskék vannak, nem pórusok. A nemzetség más tagjait nem szabad pusztán a hasonlóság alapján ennek a fajnak tekinteni.",
+      "notes": "Ez egy európai faj. Sok kelet-észak-amerikai és egyes ázsiai adat hasonló gombák fajkomplexumához tartozik, köztük a Strobilomyces confusushoz, nem ehhez a fajhoz. Nagy-Britanniában és Írországban ritka. Egy 2014. február 27-én kiadott svájci, 50 centimes értékű forgalmi bélyeg ábrázolta. A tábla mesterséges intelligenciával készült illusztráció, nem történeti, publikált ábra.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Pikkelyes_tin%C3%B3ru"
+      ],
+      "label": "pikkelyes tinóru"
+    },
+    "id": {
+      "description": "Strobilomyces strobilaceus adalah bolete mikoriza yang jarang, biasanya soliter, di hutan daun dan hutan campuran di perbukitan dan pegunungan Eropa, lebih jarang di dataran rendah, dan kadang-kadang di bawah konifer. Catatan dari timur Amerika Utara dan sebagian Asia kebanyakan termasuk ke dalam kompleks jamur serupa, bukan ke spesies Eropa ini.",
+      "cap": "Tudung berdiameter 5–13 cm, luar biasa mendekati 20 cm. Mula-mula cembung, kemudian merata, dan tertutup sisik besar, lunak, berbulu wol, abu-abu gelap hingga cokelat kehitaman, yang tegak; kulit di antara sisik lebih pucat, keabu-abuan hingga hampir putih. Tepi tudung pada jamur muda terkulai ke dalam dan sering menggantung sisa-sisa koyak selubung sebagian yang keputihan hingga keabu-abuan. Tudung tua menjadi sangat gelap dan dapat menyerupai runjung pinus yang membusuk.",
+      "hymenium": "Tabung mula-mula keputihan, kemudian cokelat keabu-abuan, dan memerah lalu menghitam ketika dipotong. Pori bersudut, abu-abu pucat, memerah lalu menghitam jika memar, dan menggelap seiring usia. Pada yang muda, pori tersembunyi oleh selubung.",
+      "stipe": "Tangkai tinggi 7–14 cm, kadang hingga 20 cm, dan tebal 1–3 cm, biasanya 8–12 × 1–2 cm. Warnanya seperti tudung, kasar atau berbulu wol karena sisik gelap, sering lengkung, dan biasanya memiliki zona cincin kasar atau kerah kasar di tempat selubung sobek; bagian atas dapat beralur atau berjaring. Daging tangkai sangat keras.",
+      "flesh": "Daging tebal, padat, dan mula-mula putih; ketika dipotong menjadi merah jambu hingga oranye-merah, kemudian perlahan menghitam. Bau dan rasa tubuh buah muda tidak khas; yang lebih tua dapat berbau tanah, dan rasanya dapat menjadi tidak enak. Daging tangkai tetap liat.",
+      "sporePrint": "Cetakan spora cokelat kehitaman hingga hitam. Spora elips pendek hingga hampir bulat, 9–15 × 8–12 μm, dan tertutup ornamentasi jaring yang lengkap.",
+      "habitat": "Berbuah dari Juli hingga November, paling sering dari Juli hingga Oktober, di tanah di bawah ek dan beech, juga di hutan campuran dan hutan konifer, biasanya sebagai tubuh buah tunggal.",
+      "uses": "Tubuh buah muda dapat dimakan tetapi nilai kulinernya terbatas dan dapat ditambahkan ke hidangan campuran; tangkai sangat liat, dan spesimen yang lebih tua dapat tidak enak. Di Britania Raya dan Irlandia, tempat spesies ini jarang, ia tidak seharusnya dipetik untuk makanan.",
+      "confusion": "Strobilomyces confusus, spesies Amerika Utara yang berbeda, memiliki tudung sedikit lebih kecil dengan sisik lebih kecil, kaku, dan runcing, serta spora berdurai dan beralur yang tidak membentuk jaring lengkap. Strobilomyces dryophilus, juga dari Amerika Utara, memiliki tudung abu-abu merah jambu kusam hingga cokelat kemerahan. Sarcodon imbricatus dari atas dapat tampak sama gelap dan bersisik, tetapi di bawah tudung terdapat duri, bukan pori. Anggota lain genus ini tidak boleh dianggap sebagai spesies ini hanya karena kemiripan.",
+      "notes": "Ini adalah spesies Eropa. Banyak catatan dari timur Amerika Utara dan sebagian Asia termasuk ke dalam kompleks jamur serupa, termasuk Strobilomyces confusus, bukan ke spesies ini. Ia jarang di Britania Raya dan Irlandia. Perangko definitif Swiss bernilai 50 sentim, diterbitkan 27 Februari 2014, menggambarkannya. Plat ini adalah ilustrasi yang dihasilkan kecerdasan buatan, bukan gambar sejarah yang pernah diterbitkan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Strobilomyces strobilaceus è un boleto micorrizico scarso, di solito solitario, dei boschi di latifoglie e misti delle colline e montagne d’Europa, più di rado in pianura e talvolta sotto conifere. Le segnalazioni dell’est del Nordamerica e di parti dell’Asia appartengono per lo più a un complesso di funghi simili, non a questa specie europea.",
+      "cap": "Il cappello misura 5–13 cm di diametro, eccezionalmente avvicinandosi a 20 cm. È dapprima convesso, poi si appiattisce, ed è coperto di grandi squame morbide, lanose, grigio scuro fino a bruno-nerastre, erette; la cuticola tra le squame è più chiara, grigiastra fino a quasi bianca. Il margine è involuto nei giovani ed è spesso ornato da lacinie di un velo parziale biancastro o grigiastro. I cappelli vecchi diventano molto scuri e possono ricordare una pigna in decomposizione.",
+      "hymenium": "I tubuli sono dapprima biancastri, poi grigio-bruni, e al taglio arrossano e poi anneriscono. I pori sono angolosi, grigio chiaro, al tocco arrossano e poi anneriscono e si scuriscono con l’età. Nei giovani i pori sono nascosti dal velo.",
+      "stipe": "Il gambo è alto 7–14 cm, talvolta fino a 20 cm, e spesso 1–3 cm, tipicamente 8–12 × 1–2 cm. Ha il colore del cappello, è irsuto o lanoso per le squame scure, spesso curvato, e presenta di solito una zona anulare grossolana o un collare irsuto dove il velo si è lacerato; la parte superiore può essere solcata o reticolata. La carne del gambo è molto dura.",
+      "flesh": "La carne è spessa, soda e dapprima bianca; al taglio diventa rosa fino a rosso-arancio e poi annerisce lentamente. Odore e sapore non sono distintivi nei carpofori giovani; quelli più vecchi possono odorare di terra e il sapore può divenire sgradevole. La carne del gambo resta coriacea.",
+      "sporePrint": "La sporata è bruno-nerastra fino a nera. Le spore sono breve-ellittiche fino a quasi globose, 9–15 × 8–12 μm, e coperte da un ornamento reticolato completo.",
+      "habitat": "Fruttifica da luglio a novembre, più spesso da luglio a ottobre, sul terreno sotto querce e faggi, e anche in boschi misti e di conifere, di solito come carpofori isolati.",
+      "uses": "I carpofori giovani sono commestibili ma di scarso interesse culinario e possono essere aggiunti a piatti misti; il gambo è molto coriaceo e gli esemplari vecchi possono essere sgradevoli. In Gran Bretagna e Irlanda, dove la specie è rara, non dovrebbe essere raccolta a scopo alimentare.",
+      "confusion": "Strobilomyces confusus, specie nordamericana distinta, ha un cappello un po’ più piccolo, con squame più piccole, rigide e appuntite, e spore con aculei e creste che non formano una rete completa. Strobilomyces dryophilus, anch’esso nordamericano, ha cappelli grigio-rosati spenti fino a nocciola rosata. Sarcodon imbricatus può apparire altrettanto scuro e squamoso visto dall’alto, ma sotto il cappello ha aculei anziché pori. Gli altri membri del genere non vanno presi per questa specie per sola associazione.",
+      "notes": "È una specie europea. Molte segnalazioni dell’est del Nordamerica e di parti dell’Asia appartengono a un complesso di funghi simili, compreso Strobilomyces confusus, non a questa specie. È rara in Gran Bretagna e Irlanda. Un francobollo ordinario svizzero da 50 centesimi, emesso il 27 febbraio 2014, la raffigurava. La tavola è un’illustrazione generata dall’intelligenza artificiale, non una figura storica pubblicata.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Strobilomyces strobilaceus は、ヨーロッパの丘陵や山地の落葉樹・混交林にまれに、通常は単生する菌根性のイグチ類で、低地ではより少なく、ときに針葉樹の下にも見られる。北アメリカ東部やアジアの一部からの記録の多くは、本種そのものではなく、類似する菌類の種複合体に属する。",
+      "cap": "かさは径 5–13 cm、例外的に 20 cm 近くになる。初めは丸山形で、のちに平らになり、大きく柔らかく綿毛状の、暗灰色から黒褐色の直立した鱗片に覆われる。鱗片の間の表皮はより淡く、灰色がかってほぼ白色になることもある。幼時の縁は内側に巻き、白っぽいまたは灰色がかった部分的な被膜の裂け残りがしばしば下がる。老成したかさは非常に暗くなり、腐りかけの松かさに似ることがある。",
+      "hymenium": "管孔は初め白っぽく、のちに灰褐色となり、切ると赤変したあと黒変する。孔口は角形で淡灰色、傷つけると赤みを帯び、その後黒くなり、老成とともに暗くなる。幼時の孔口は被膜に隠される。",
+      "stipe": "柄は高さ 7–14 cm、ときに 20 cm に達し、太さ 1–3 cm、典型的には 8–12 × 1–2 cm。かさと同じ色で、暗い鱗片によってざらざらまたは綿毛状、しばしば湾曲し、被膜が破れた所に粗い環状帯や襟状の構造を持つことが多い。上部は溝状または網目状になることがある。柄の肉は非常に硬い。",
+      "flesh": "肉は厚く堅く、初めは白く、切ると桃色から橙赤色になり、その後ゆっくり黒変する。幼い子実体のにおいや味は特に目立たない。古いものには土臭いにおいがすることがあり、味も不快になりうる。柄の肉は硬いままである。",
+      "sporePrint": "胞子紋は黒褐色から黒色。胞子は短い楕円形からほぼ球形、9–15 × 8–12 μm で、完全な網目状の紋様に覆われる。",
+      "habitat": "7月から11月、とりわけ7月から10月に、ナラやブナの下の地上、また混交林や針葉樹林に、通常は単生して発生する。",
+      "uses": "若い子実体は食用になるが料理としての価値は限られ、混ぜ料理に加えることができる。柄は非常に硬く、古い個体は不快になりうる。本種がまれなイギリスおよびアイルランドでは、食用に採取すべきではない。",
+      "confusion": "別種の北アメリカ産 Strobilomyces confusus は、かさがやや小さく、鱗片がより小さく硬く先端がとがり、胞子には棘と稜があるが完全な網目にはならない。同じく北アメリカ産の Strobilomyces dryophilus は、くすんだ灰桃色から桃色がかった褐色のかさをもつ。Sarcodon imbricatus は上から見ると同様に暗く鱗片状に見えることがあるが、かさの下面は管孔ではなく刺である。属の他の種を、似ているというだけで本種と見なしてはならない。",
+      "notes": "これはヨーロッパの種である。北アメリカ東部やアジアの一部からの多くの記録は、Strobilomyces confusus を含む類似菌類の複合体に属し、本種ではない。イギリスおよびアイルランドではまれである。2014年2月27日発行のスイスの50サンチーム通常切手に描かれた。図版は人工知能によって生成されたイラストであり、歴史的に公刊された図ではない。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "Strobilomyces strobilaceus는 유럽의 언덕과 산지 낙엽수림과 혼효림에서 드물게, 대개 단생하는 외생균근성 그물버섯류로, 저지에서는 더 적고 때로는 침엽수 아래에서도 나타난다. 북아메리카 동부와 아시아 일부의 기록은 대개 이 유럽 종이 아니라 비슷한 균류의 종복합체에 속한다.",
+      "cap": "갓은 지름 5–13 cm이며, 예외적으로 20 cm에 가까워진다. 처음에는 볼록하고 나중에 평평해지며, 크고 부드러우며 털이 있는 암회색에서 흑갈색의 곧선 비늘로 덮인다. 비늘 사이 표피는 더 옅어 회색빛을 띠거나 거의 하얗다. 어릴 때 가장자리는 안쪽으로 말리고, 희거나 회색을 띤 부분적인 피막의 찢어진 잔편이 종종 드리운다. 오래된 갓은 매우 어두워져 썩는 솔방울처럼 보일 수 있다.",
+      "hymenium": "관공은 처음에는 희고, 나중에 회갈색이 되며, 자르면 붉어졌다가 검게 변한다. 관공구는 각형이고 연한 회색이며, 상처를 입으면 붉어졌다가 검게 변하고 나이가 들수록 어두워진다. 어릴 때는 관공구가 피막에 가려진다.",
+      "stipe": "대는 높이 7–14 cm, 때로는 20 cm까지, 두께 1–3 cm이며, 전형적으로 8–12 × 1–2 cm이다. 갓과 같은 색이고 어두운 비늘 때문에 거칠거나 털이 있으며, 흔히 굽고, 피막이 찢어진 자리에 거친 테 또는 거친 깃이 있는 경우가 많다. 윗부분은 홈이 있거나 그물 모양일 수 있다. 대의 살은 매우 단단하다.",
+      "flesh": "살은 두껍고 단단하며 처음에는 희고, 자르면 분홍에서 주홍색으로 변한 뒤 천천히 검게 된다. 어린 자실체의 냄새와 맛은 뚜렷하지 않다. 오래된 것은 흙냄새가 날 수 있고 맛이 불쾌해질 수 있다. 대의 살은 질기다.",
+      "sporePrint": "포자무늬는 흑갈색에서 흑색이다. 포자는 짧은 타원형에서 거의 구형이며 9–15 × 8–12 μm이고, 완전한 그물 모양 장식으로 덮인다.",
+      "habitat": "7월부터 11월까지, 가장 흔하게는 7월부터 10월까지, 참나무와 너도밤나무 아래 땅 위와 혼효림·침엽수림에서, 대개 단생하여 발생한다.",
+      "uses": "어린 자실체는 먹을 수 있으나 요리 가치는 제한적이며 섞은 요리에 넣을 수 있다. 대는 매우 질기고, 오래된 개체는 불쾌할 수 있다. 이 종이 드문 영국과 아일랜드에서는 식용으로 채집하지 말아야 한다.",
+      "confusion": "별도의 북아메리카 종인 Strobilomyces confusus는 갓이 조금 더 작고, 더 작고 단단하며 끝이 뾰족한 비늘을 가지며, 포자에는 가시와 능선이 있으나 완전한 그물을 이루지 않는다. 역시 북아메리카산인 Strobilomyces dryophilus는 흐릿한 회분홍에서 분홍갈색 갓을 가진다. Sarcodon imbricatus는 위에서 보면 비슷하게 어둡고 비늘처럼 보일 수 있으나, 갓 아래는 관공이 아니라 침이다. 같은 속의 다른 종류를 비슷하다는 이유만으로 이 종으로 여겨서는 안 된다.",
+      "notes": "이것은 유럽 종이다. 북아메리카 동부와 아시아 일부의 많은 기록은 Strobilomyces confusus를 포함한 비슷한 균류의 복합체에 속하며, 이 종이 아니다. 영국과 아일랜드에서는 드물다. 2014년 2월 27일 발행된 스위스 50상팀 일반우표에 그려졌다. 도판은 인공지능으로 생성된 일러스트이며, 역사적으로 출판된 그림이 아니다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Tikrasis žvynbaravykis yra retas, paprastai pavienis mikorizinis vamzletinis grybas Europos kalvų ir kalnų lapuočių ir mišriųjų miškuose, rečiau žemumose ir kartais po spygliuočiais. Įrašai iš rytų Šiaurės Amerikos ir Azijos dalių dažniausiai priklauso panašių grybų rūšių kompleksui, o ne šiai europinei rūšiai.",
+      "cap": "Kepurėlė yra 5–13 cm skersmens, išimtiniais atvejais priartėja prie 20 cm. Iš pradžių ji iškili, vėliau suplokštėja ir apaugusi dideliais, minkštais, vilnotais, tamsiai pilkais ar juosvai rudais, stačiais žvyneliais; odelė tarp žvynelių šviesesnė, pilkšva ar beveik balta. Kraštas jaunystėje užsirietęs į vidų ir dažnai apkabinėtas balkšvo ar pilkšvo dalinio velumo skiaučių. Senos kepurėlės labai patamsėja ir gali priminti pūvantį pušies kankorėžį.",
+      "hymenium": "Vamzdeliai iš pradžių balkšvi, vėliau pilkšvai rudi, perpjauti parausta, paskui pajuosta. Angelės kampuotos, blankiai pilkos, paspaudus parausta, paskui pajuosta ir su amžiumi tamsėja. Jaunų grybų angelės pridengtos velumu.",
+      "stipe": "Kotelis 7–14 cm aukščio, kartais iki 20 cm, ir 1–3 cm storio, tipiškai 8–12 × 1–2 cm. Jis kepurėlės spalvos, šiauštas ar vilnotas nuo tamsių žvynelių, dažnai lenktas ir paprastai turi stambią žiedo zoną ar šiauštą apykaklę ten, kur velumas nutrūko; viršutinė dalis gali būti vagota ar tinkliška. Kotelio mėsa labai kieta.",
+      "flesh": "Mėsa stora, kieta ir iš pradžių balta, perpjauta parausvėja iki oranžinės raudonos, paskui lėtai pajuosta. Jaunų vaisiakūnių kvapas ir skonis nėra būdingi; senesni gali kvepėti žeme, o skonis gali tapti nemalonus. Kotelio mėsa išlieka kieta, stingi.",
+      "sporePrint": "Sporų milteliai juosvai rudi ar juodi. Sporos trumpai elipsiškos ar beveik rutuliškos, 9–15 × 8–12 μm, padengtos visaverčiu tinklišku ornamentu.",
+      "habitat": "Derlius būna nuo liepos iki lapkričio, dažniausiai nuo liepos iki spalio, ant žemės po ąžuolais ir bukais, taip pat mišriuosiuose ir spygliuočių miškuose, paprastai pavieniais vaisiakūniais.",
+      "uses": "Jauni vaisiakūniai valgomi, bet jų kulinarinė vertė ribota, ir juos galima dėti į mišrius patiekalus; kotelis labai kietas, o senesni egzemplioriai gali būti nemalonūs. Didžiojoje Britanijoje ir Airijoje, kur rūšis reta, jos neturėtų rinkti maistui.",
+      "confusion": "Strobilomyces confusus, atskira Šiaurės Amerikos rūšis, turi šiek tiek mažesnę kepurėlę su mažesniais, standžiais, smailiais žvyneliais ir sporas su dygliais bei keteromis, kurios nesudaro visaverčio tinklo. Strobilomyces dryophilus, taip pat šiaurės amerikietiškas, turi blankias pilkai rožines ar rožiniai rusvas kepurėles. Sarcodon imbricatus iš viršaus gali atrodyti panašiai tamsus ir žvynuotas, tačiau po kepurėle turi dyglius, o ne angelės. Kitų šios genties rūšių negalima laikyti šia rūšimi vien dėl panašumo.",
+      "notes": "Tai europinė rūšis. Daugelis įrašų iš rytų Šiaurės Amerikos ir Azijos dalių priklauso panašių grybų kompleksui, įskaitant Strobilomyces confusus, o ne šiai rūšiai. Didžiojoje Britanijoje ir Airijoje ji reta. Ją vaizdavo Šveicarijos 50 centimų apyvartinis pašto ženklas, išleistas 2014 m. vasario 27 d. Lentelė yra dirbtinio intelekto sukurta iliustracija, o ne istorinė publikuota piešinio lenta.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Tikrasis_%C5%BEvynbaravykis",
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "tikrasis žvynbaravykis"
+    },
+    "lv": {
+      "description": "Melnā zvīņbeka ir reta, parasti vienatnē augoša mikorizas beka Eiropas pauguru un kalnu lapu un jauktos mežos, retāk līdzenumos un reizēm arī zem skujkokiem. Ziņojumi no Austrumu Ziemeļamerikas un Āzijas daļām pārsvarā pieder līdzīgu sēņu sugu kompleksam, ne šai Eiropas sugai.",
+      "cap": "Cepurīte ir 5–13 cm plata un izņēmuma gadījumos tuvojas 20 cm. Sākumā tā ir izliekta, vēlāk saplacinās un ir klāta ar lielām, mīkstām, vilnainām, tumši pelēkām līdz melni brūnām, stāvām zvīņām; āda starp zvīņām ir gaišāka, pelēcīga līdz gandrīz balta. Mala jaunībā ir ieliekta un bieži nokarājas bāli līdz pelēcīga daļēja plīvura plēstas atliekas. Vecas cepurītes kļūst ļoti tumšas un var atgādināt trūdošu priežu čiekuru.",
+      "hymenium": "Stobriņi sākumā ir bālgani, vēlāk pelēkbrūni un griezumā vispirms sārtojas, tad kļūst melni. Poras ir stūrainas, gaiši pelēkas, spiedienā sārtojas un pēc tam kļūst melnas un ar vecumu tumšojas. Jaunām sēnēm poras slēpj plīvurs.",
+      "stipe": "Kātiņš ir 7–14 cm garš, reizēm līdz 20 cm, un 1–3 cm resns, tipiski 8–12 × 1–2 cm. Tas ir cepurītes krāsā, raupjš vai vilnains no tumšām zvīņām, bieži liekts un parasti ar rupju gredzenjoslu vai raupju apkakli tur, kur plīvurs ir pārplīsis; augšdaļa var būt rievota vai tīklota. Kātiņa mīkstums ir ļoti ciets.",
+      "flesh": "Mīkstums ir biezs, ciets un sākumā balts, griezumā kļūst sārts līdz oranži sarkans un pēc tam lēni kļūst melns. Jaunu augļķermeņu smarža un garša nav raksturīgas; vecāki var smaržot pēc zemes, un garša var kļūt nepatīkama. Kātiņa mīkstums paliek stingrs, sīksts.",
+      "sporePrint": "Sporu putekļi ir melni brūni līdz melni. Sporas ir īsi eliptiskas līdz gandrīz lodveida, 9–15 × 8–12 μm, un klātas ar pilnīgu tīklotu ornamentu.",
+      "habitat": "Tā aug no jūlija līdz novembrim, visbiežāk no jūlija līdz oktobrim, uz zemes zem ozoliem un dižskābaržiem, arī jauktos un skuju koku mežos, parasti kā atsevišķi augļķermeņi.",
+      "uses": "Jauni augļķermeņi ir ēdami, bet tiem ir ierobežota kulinārā vērtība, un tos var pievienot jauktiem ēdieniem; kātiņš ir ļoti sīksts, un vecāki eksemplāri var būt nepatīkami. Lielbritānijā un Īrijā, kur suga ir reta, to nevajadzētu vākt ēšanai.",
+      "confusion": "Strobilomyces confusus, atsevišķa Ziemeļamerikas suga, ir ar nedaudz mazāku cepurīti, mazākām, stingrām, smailām zvīņām un sporām ar dzeloņiem un šķautnēm, kas neveido pilnīgu tīklu. Strobilomyces dryophilus, arī Ziemeļamerikas suga, ir ar matētām pelēki rozā līdz sārti brūnām cepurītēm. Sarcodon imbricatus no augšas var izskatīties līdzīgi tumšs un zvīņains, bet zem cepurītes ir dzeloņi, nevis poras. Citas šīs ģints sugas nedrīkst uzskatīt par šo sugu tikai pēc līdzības.",
+      "notes": "Tā ir Eiropas suga. Daudzi ziņojumi no Austrumu Ziemeļamerikas un Āzijas daļām pieder līdzīgu sēņu kompleksam, tostarp Strobilomyces confusus, ne šai sugai. Lielbritānijā un Īrijā tā ir reta. To attēloja Šveices 50 santīmu pastmarka, kas izdota 2014. gada 27. februārī. Plate ir ar mākslīgo intelektu veidota ilustrācija, nevis vēsturisks publicēts zīmējums.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Meln%C4%81_zv%C4%AB%C5%86beka"
+      ],
+      "label": "melnā zvīņbeka"
+    },
+    "nl": {
+      "description": "De geschubde boleet is een schaarse, meestal solitaire, mycorrhizavormende boleet van loof- en gemengde bossen in de heuvels en gebergten van Europa, minder vaak in het laagland, en soms onder naaldbomen. Waarnemingen uit het oosten van Noord-Amerika en delen van Azië behoren meestal tot een complex van gelijkende soorten, niet tot deze Europese soort.",
+      "cap": "De hoed is 5–13 cm breed en benadert uitzonderlijk bijna 20 cm. Hij is eerst gewelfd, later afgeplat, en bedekt met grote, zachte, wollige, donkergrijze tot zwartbruine, rechtopstaande schubben; de huid tussen de schubben is bleker, grijsachtig tot bijna wit. De rand is bij jonge exemplaren ingerold en vaak behangen met rafelige resten van een witachtig tot grijsachtig partieel velum. Oude hoeden worden zeer donker en kunnen op een rottende dennenappel lijken.",
+      "hymenium": "De buisjes zijn eerst witachtig, later grijsbruin, en verkleuren bij doorsnijden rood en daarna zwart. De poriën zijn hoekig, lichtgrijs, worden bij kneuzing roodachtig en daarna zwart, en donkeren met de leeftijd na. Bij jonge vruchtlichamen zijn de poriën door het velum bedekt.",
+      "stipe": "De steel is 7–14 cm hoog, soms tot 20 cm, en 1–3 cm dik, typisch 8–12 × 1–2 cm. Hij heeft de kleur van de hoed, is ruig of wollig van donkere schubben, vaak gebogen, en heeft meestal een grove ringzone of een ruige kraag waar het velum is gescheurd; het bovenste deel kan gegroefd of netvormig zijn. Het vlees van de steel is zeer hard.",
+      "flesh": "Het vlees is dik, stevig en eerst wit, verkleurt bij doorsnijden roze tot oranje-rood en wordt daarna langzaam zwart. Geur en smaak zijn bij jonge vruchtlichamen niet kenmerkend; oudere kunnen aards ruiken, en de smaak kan onaangenaam worden. Het steelvlees blijft taai.",
+      "sporePrint": "De sporenafdruk is zwartbruin tot zwart. De sporen zijn kort-elliptisch tot bijna bolvormig, 9–15 × 8–12 μm, en bedekt met een volledig netvormig ornament.",
+      "habitat": "Hij vrucht van juli tot november, het vaakst van juli tot oktober, op de grond onder eik en beuk, en ook in gemengde en naaldbossen, meestal als afzonderlijke vruchtlichamen.",
+      "uses": "Jonge vruchtlichamen zijn eetbaar maar van beperkt culinair belang en kunnen aan gemengde gerechten worden toegevoegd; de steel is zeer taai, en oudere exemplaren kunnen onaangenaam zijn. In Groot-Brittannië en Ierland, waar de soort zeldzaam is, zou hij niet voor consumptie moeten worden verzameld.",
+      "confusion": "Strobilomyces confusus, een aparte Noord-Amerikaanse soort, heeft een iets kleinere hoed met kleinere, stijve, spitse schubben, en sporen met stekels en richels die geen volledig net vormen. Strobilomyces dryophilus, eveneens Noord-Amerikaans, heeft doffe grijs-roze tot roze-beige hoeden. Sarcodon imbricatus kan van boven even donker en schubbig lijken, maar heeft stekels onder de hoed in plaats van poriën. Andere leden van het geslacht mogen niet louter door associatie voor deze soort worden aangezien.",
+      "notes": "Dit is een Europese soort. Veel waarnemingen uit het oosten van Noord-Amerika en delen van Azië behoren tot een complex van gelijkende fungi, waaronder Strobilomyces confusus, niet tot deze soort. In Groot-Brittannië en Ierland is hij zeldzaam. Een Zwitserse definitieve postzegel van 50 centimes, uitgegeven op 27 februari 2014, beeldde hem af. De plaat is een met kunstmatige intelligentie gemaakte illustratie, geen historische gepubliceerde figuur.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus",
+        "https://nl.wikipedia.org/wiki/Strobilomyces",
+        "https://nl.wikipedia.org/wiki/Boletaceae",
+        "https://nl.wikipedia.org/wiki/Lijst_van_schimmels_in_Nederland"
+      ],
+      "label": "geschubde boleet"
+    },
+    "no": {
+      "description": "Strobilomyces strobilaceus er en sjelden, vanligvis enkeltvis voksende mykorrhizadannende rørsopp i løv- og blandingsskog i Europas åser og fjell, sjeldnere i lavlandet og av og til under bartrær. Funndata fra det østlige Nord-Amerika og deler av Asia hører som oftest til et kompleks av liknende sopper, ikke til denne europeiske arten.",
+      "cap": "Hatten er 5–13 cm bred og nærmer seg unntaksvis 20 cm. Den er først hvelvet, senere utbredt, og dekket av store, myke, ullaktige, mørkegrå til svartbrune, opprette skjell; huden mellom skjellene er blekere, gråaktig til nesten hvit. Randen er innrullet hos unge fruktlegemer og ofte behengt med fillete rester av et hvitaktig til gråaktig partiellt slør. Gamle hatter blir svært mørke og kan ligne en råtnende furukongle.",
+      "hymenium": "Rørene er først hvitaktige, senere gråbrune, og farges røde og deretter svarte ved gjennomskjæring. Porene er kantete, lysegrå, blir rødlige og deretter svarte ved trykk og mørkner med alderen. Hos unge er porene skjult av sløret.",
+      "stipe": "Stokken er 7–14 cm høy, av og til inntil 20 cm, og 1–3 cm tykk, typisk 8–12 × 1–2 cm. Den har hattens farge, er raggete eller ullaktig av mørke skjell, ofte krum, og har vanligvis en grov ringsone eller en raggete krage der sløret er revet; den øvre delen kan være furet eller nettet. Kjøttet i stokken er svært hardt.",
+      "flesh": "Kjøttet er tykt, fast og først hvitt; det farges ved gjennomskjæring rosa til oransjerødt og blir deretter langsomt svart. Lukt og smak er ikke særpregede hos unge fruktlegemer; eldre kan lukte jordaktig, og smaken kan bli ubehagelig. Kjøttet i stokken forblir seigt.",
+      "sporePrint": "Sporeavtrykket er svartbrunt til svart. Sporene er kortelliptiske til nesten kuleformede, 9–15 × 8–12 μm, og dekket av et fullstendig nettformet ornament.",
+      "habitat": "Den fruktifiserer fra juli til november, oftest fra juli til oktober, på bakken under eik og bøk samt i blandingsskog og barskog, vanligvis som enkeltstående fruktlegemer.",
+      "uses": "Unge fruktlegemer er spiselige, men av begrenset kulinarisk verdi, og kan tilsettes blandede retter; stokken er svært seig, og eldre eksemplarer kan være ubehagelige. I Storbritannia og Irland, der arten er sjelden, bør den ikke plukkes til mat.",
+      "confusion": "Strobilomyces confusus, en egen nordamerikansk art, har en noe mindre hatt med mindre, stive, spisse skjell og sporer med pigger og kammer som ikke danner et fullstendig nett. Strobilomyces dryophilus, også nordamerikansk, har matt grårosa til rosa-brune hatter. Sarcodon imbricatus kan sett ovenfra se tilsvarende mørk og skjellkledd ut, men har pigger under hatten i stedet for porer. Andre medlemmer av slekten må ikke tas for denne arten bare på grunn av likhet.",
+      "notes": "Dette er en europeisk art. Mange funn fra det østlige Nord-Amerika og deler av Asia hører til et kompleks av liknende sopper, blant dem Strobilomyces confusus, ikke til denne arten. I Storbritannia og Irland er den sjelden. Et sveitsisk 50-centimes definitive frimerke, utgitt 27. februar 2014, avbildet den. Platen er en illustrasjon laget med kunstig intelligens, ikke en historisk publisert figur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Szyszkowiec łuskowaty jest rzadkim, zwykle pojedynczym, mikoryzowym grzybem rurkowym lasów liściastych i mieszanych na wzgórzach i w górach Europy, rzadziej na nizinach, a niekiedy także pod drzewami iglastymi. Notowania ze wschodniej Ameryki Północnej i części Azji należą przeważnie do kompleksu podobnych gatunków, a nie do tego europejskiego gatunku.",
+      "cap": "Kapelusz ma 5–13 cm średnicy, wyjątkowo zbliża się do 20 cm. Najpierw jest wypukły, później się spłaszcza i jest pokryty dużymi, miękkimi, wełnistymi, ciemnoszarymi do czarnobrązowych, wzniesionymi łuskami; skórka między łuskami jest jaśniejsza, szarawa do niemal białej. Brzeg u młodych jest podwinięty i często obwieszony strzępiastymi resztkami białawo-szarawej osłony częściowej. Stare kapelusze bardzo ciemnieją i mogą przypominać rozkładającą się szyszkę sosny.",
+      "hymenium": "Rurki są początkowo białawe, później szarobrązowe i po przekrojeniu czerwienieją, a następnie czernieją. Pory są kanciaste, bladoszare, po uciśnięciu czerwienieją, potem czernieją i z wiekiem ciemnieją. U młodych pory są zakryte osłoną.",
+      "stipe": "Trzon ma 7–14 cm wysokości, niekiedy do 20 cm, i 1–3 cm grubości, typowo 8–12 × 1–2 cm. Ma barwę kapelusza, jest kosmaty lub wełnisty od ciemnych łusek, często wygięty i zwykle ma grubą strefę pierścieniową lub kosmaty kołnierz w miejscu rozerwania osłony; górna część może być żłobkowana lub siateczkowata. Miąższ trzonu jest bardzo twardy.",
+      "flesh": "Miąższ jest gruby, twardy i początkowo biały, po przekrojeniu różowieje do pomarańczowoczerwonego, a następnie powoli czernieje. Zapach i smak młodych owocników nie są charakterystyczne; starsze mogą pachnieć ziemisto, a smak może stać się nieprzyjemny. Miąższ trzonu pozostaje łykowaty.",
+      "sporePrint": "Wysyp zarodników jest czarnobrązowy do czarnego. Zarodniki są krótkoeliptyczne do niemal kulistych, 9–15 × 8–12 μm, i pokryte całkowitym siateczkowatym ornamentem.",
+      "habitat": "Owocniki pojawiają się od lipca do listopada, najczęściej od lipca do października, na ziemi pod dębami i bukami, a także w lasach mieszanych i iglastych, zwykle pojedynczo.",
+      "uses": "Młode owocniki są jadalne, ale o ograniczonej wartości kulinarnej i mogą być dodawane do dań mieszanych; trzon jest bardzo łykowaty, a starsze okazy mogą być nieprzyjemne. W Wielkiej Brytanii i Irlandii, gdzie gatunek jest rzadki, nie powinien być zbierany do jedzenia.",
+      "confusion": "Strobilomyces confusus, odrębny gatunek północnoamerykański, ma nieco mniejszy kapelusz z mniejszymi, sztywnymi, spiczastymi łuskami oraz zarodniki z kolcami i grzebieniami, które nie tworzą pełnej siateczki. Strobilomyces dryophilus, również północnoamerykański, ma matowe szaroróżowe do różowobeżowych kapelusze. Sarcodon imbricatus może z góry wyglądać podobnie ciemno i łuskowato, ale pod kapeluszem ma kolce, a nie pory. Innych przedstawicieli rodzaju nie należy uważać za ten gatunek jedynie przez skojarzenie.",
+      "notes": "Jest to gatunek europejski. Wiele notowań ze wschodniej Ameryki Północnej i części Azji należy do kompleksu podobnych grzybów, w tym Strobilomyces confusus, a nie do tego gatunku. W Wielkiej Brytanii i Irlandii jest rzadki. Przedstawiał go szwajcarski znaczek obiegowy o nominale 50 centymów, wydany 27 lutego 2014 roku. Tablica jest ilustracją wygenerowaną przez sztuczną inteligencję, a nie historyczną opublikowaną ryciną.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Szyszkowiec_%C5%82uskowaty",
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "szyszkowiec łuskowaty"
+    },
+    "pt": {
+      "description": "Strobilomyces strobilaceus é um boleto micorrízico escasso, geralmente solitário, de bosques caducifólios e mistos das colinas e montanhas da Europa, menos frequente nas terras baixas e ocasionalmente sob coníferas. Os registos do leste da América do Norte e de partes da Ásia pertencem na sua maioria a um complexo de fungos semelhantes, e não a esta espécie europeia.",
+      "cap": "O chapéu mede 5–13 cm de diâmetro e, excecionalmente, aproxima-se dos 20 cm. É a princípio convexo e depois aplana-se, e está coberto de escamas grandes, moles, lanosas, de cinzento-escuro a pardo-negrento, eretas; a cutícula entre as escamas é mais pálida, acinzentada a quase branca. A margem está enrolada nos jovens e muitas vezes pendurada com restos rasgados de um véu parcial esbranquiçado a acinzentado. Os chapéus velhos tornam-se muito escuros e podem lembrar uma pinha em decomposição.",
+      "hymenium": "Os tubos são a princípio esbranquiçados, depois pardo-acinzentados, e ao corte tornam-se vermelhos e depois pretos. Os poros são angulosos, cinzento-pálidos, avermelham e depois enegrecem ao toque, e escurecem com a idade. Nos jovens os poros ficam escondidos pelo véu.",
+      "stipe": "O pé mede 7–14 cm de altura, por vezes até 20 cm, e 1–3 cm de espessura, tipicamente 8–12 × 1–2 cm. Tem a cor do chapéu, é hirsuto ou lanoso por causa das escamas escuras, muitas vezes curvado, e apresenta habitualmente uma zona anelar grosseira ou um colar hirsuto onde o véu se rasgou; a parte superior pode ser sulcada ou reticulada. A carne do pé é muito dura.",
+      "flesh": "A carne é espessa, firme e a princípio branca; ao corte torna-se rosa a vermelho-alaranjado e depois enegrece lentamente. O cheiro e o sabor não são distintivos nos corpos frutíferos jovens; os mais velhos podem cheirar a terra, e o sabor pode tornar-se desagradável. A carne do pé permanece coriácea.",
+      "sporePrint": "A esporada é pardo-negrenta a preta. Os esporos são breve-elípticos a quase globosos, 9–15 × 8–12 μm, e estão cobertos por um ornamento reticulado completo.",
+      "habitat": "Frutifica de julho a novembro, com mais frequência de julho a outubro, no solo sob carvalhos e faias, e também em bosques mistos e de coníferas, geralmente como corpos frutíferos isolados.",
+      "uses": "Os corpos frutíferos jovens são comestíveis, mas de valor culinário limitado, e podem ser acrescentados a pratos mistos; o pé é muito coriáceo, e os exemplares velhos podem ser desagradáveis. Na Grã-Bretanha e na Irlanda, onde a espécie é rara, não deveria ser colhida para consumo.",
+      "confusion": "Strobilomyces confusus, uma espécie norte-americana distinta, tem um chapéu um pouco menor, com escamas mais pequenas, rígidas e pontiagudas, e esporos com espinhos e cristas que não formam uma malha completa. Strobilomyces dryophilus, também norte-americano, tem chapéus cinzento-rosados baços a pardo-rosados. Sarcodon imbricatus pode parecer igualmente escuro e escamoso visto de cima, mas sob o chapéu tem agulhões em vez de poros. Outros membros do género não devem ser tomados por esta espécie por simples associação.",
+      "notes": "Esta é uma espécie europeia. Muitos registos do leste da América do Norte e de partes da Ásia pertencem a um complexo de fungos semelhantes, incluindo Strobilomyces confusus, e não a esta espécie. É rara na Grã-Bretanha e na Irlanda. Um selo definitivo suíço de 50 cêntimos, emitido a 27 de fevereiro de 2014, representava-a. A prancha é uma ilustração gerada por inteligência artificial, e não uma figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Moșneagul pădurii este un bolet micorizic rar, de obicei solitar, al pădurilor de foioase și mixte din dealurile și munții Europei, mai rar la câmpie și uneori sub conifere. Semnalările din estul Americii de Nord și din părți ale Asiei aparțin de cele mai multe ori unui complex de ciuperci asemănătoare, nu acestei specii europene.",
+      "cap": "Pălăria are 5–13 cm în diametru, excepțional apropiindu-se de 20 cm. Este mai întâi convexă, apoi se aplatizează și este acoperită cu solzi mari, moi, lânoși, cenușiu-închiși până la brun-negricioși, erecți; cuticula dintre solzi este mai palidă, cenușie până aproape albă. Marginea este răsfrântă spre interior la exemplarele tinere și adesea atârnă de ea franjuri ale unui văl parțial albicios până cenușiu. Pălăriile bătrâne devin foarte întunecate și pot semăna cu un con de pin în putrefacție.",
+      "hymenium": "Tuburile sunt la început albicioase, apoi brun-cenușii, și se colorează în roșu, apoi în negru la tăiere. Porii sunt unghiulari, cenușiu-palizi, se înroșesc și apoi se înnegresc la apăsare și se închid la culoare odată cu vârsta. La exemplarele tinere porii sunt acoperiți de văl.",
+      "stipe": "Piciorul are 7–14 cm înălțime, uneori până la 20 cm, și 1–3 cm grosime, de obicei 8–12 × 1–2 cm. Are culoarea pălăriei, este zbârlit sau lânos din pricina solzilor întunecați, adesea curbat, și prezintă de regulă o zonă inelară grosieră sau un guler zbârlit acolo unde s-a rupt vălul; partea superioară poate fi striată sau reticulată. Carnea piciorului este foarte tare.",
+      "flesh": "Carnea este groasă, fermă și la început albă, se colorează în roz până la oranj-roșu la tăiere, apoi se înnegrește încet. Mirosul și gustul nu sunt caracteristice la exemplarele tinere; cele bătrâne pot mirosi a pământ, iar gustul poate deveni neplăcut. Carnea piciorului rămâne tare.",
+      "sporePrint": "Sporada este brun-negricioasă până neagră. Sporii sunt scurt-eliptici până aproape globuloși, 9–15 × 8–12 μm, și acoperiți cu un ornament reticulat complet.",
+      "habitat": "Fructifică din iulie până în noiembrie, cel mai adesea din iulie până în octombrie, pe sol sub stejar și fag, precum și în păduri mixte și de conifere, de obicei ca basidioame izolate.",
+      "uses": "Basidioamele tinere sunt comestibile, dar de valoare culinară limitată și pot fi adăugate în preparate amestecate; piciorul este foarte tare, iar exemplarele bătrâne pot fi neplăcute. În Marea Britanie și Irlanda, unde specia este rară, nu ar trebui culeasă pentru consum.",
+      "confusion": "Strobilomyces confusus, o specie nord-americană distinctă, are o pălărie puțin mai mică, cu solzi mai mici, rigizi și ascuțiți, și spori cu spini și creste care nu formează o rețea completă. Strobilomyces dryophilus, de asemenea nord-american, are pălării gri-roz mate până la bej-roz. Sarcodon imbricatus poate părea de sus la fel de întunecat și solzos, dar sub pălărie are țepi, nu pori. Alți membri ai genului nu trebuie considerați această specie doar prin asociere.",
+      "notes": "Aceasta este o specie europeană. Multe semnalări din estul Americii de Nord și din părți ale Asiei aparțin unui complex de ciuperci asemănătoare, inclusiv Strobilomyces confusus, nu acestei specii. Este rară în Marea Britanie și Irlanda. A fost înfățișată pe un timbru definitiv elvețian de 50 de centime, emis la 27 februarie 2014. Placa este o ilustrație generată de inteligență artificială, nu o figură istorică publicată.",
+      "names": [
+        "hrib flocos"
+      ],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "moșneagul pădurii"
+    },
+    "ru": {
+      "description": "Шишкогриб хлопьеножковый — редкий, обычно одиночный микоризный трубчатый гриб лиственных и смешанных лесов холмов и гор Европы, реже на равнинах и иногда под хвойными. Находки на востоке Северной Америки и в части Азии большей частью относятся к комплексу сходных видов, а не к этому европейскому виду.",
+      "cap": "Шляпка 5–13 см в диаметре, исключительно почти до 20 см. Сначала она выпуклая, позднее уплощается и покрыта крупными, мягкими, шерстистыми, тёмно-серыми до черновато-коричневых, прямостоячими чешуйками; кожица между чешуйками бледнее, сероватая до почти белой. Край у молодых завёрнут внутрь и часто украшен клочковатыми остатками беловатого до сероватого частного покрывала. Старые шляпки сильно темнеют и могут напоминать гниющую сосновую шишку.",
+      "hymenium": "Трубочки сначала беловатые, позднее серо-коричневые и на разрезе краснеют, затем чернеют. Поры угловатые, бледно-серые, при надавливании краснеют и затем чернеют и с возрастом темнеют. У молодых поры скрыты покрывалом.",
+      "stipe": "Ножка 7–14 см высотой, иногда до 20 см, и 1–3 см толщиной, типично 8–12 × 1–2 см. Она окрашена как шляпка, шерстистая или клочковатая от тёмных чешуек, часто изогнутая и обычно имеет грубую кольцевую зону или клочковатый воротничок там, где покрывало разорвалось; верхняя часть может быть бороздчатой или сетчатой. Мякоть ножки очень твёрдая.",
+      "flesh": "Мякоть толстая, плотная и сначала белая, на разрезе розовеет до оранжево-красной, затем медленно чернеет. Запах и вкус молодых плодовых тел невыразительны; более старые могут пахнуть землёй, а вкус может стать неприятным. Мякоть ножки остаётся жёсткой.",
+      "sporePrint": "Споровый порошок черновато-коричневый до чёрного. Споры короткоэллипсоидальные до почти шаровидных, 9–15 × 8–12 мкм, покрыты сплошным сетчатым орнаментом.",
+      "habitat": "Плодоносит с июля по ноябрь, чаще всего с июля по октябрь, на почве под дубом и буком, а также в смешанных и хвойных лесах, обычно одиночными плодовыми телами.",
+      "uses": "Молодые плодовые тела съедобны, но имеют ограниченную кулинарную ценность и могут добавляться в смешанные блюда; ножка очень жёсткая, а более старые экземпляры могут быть неприятны. В Великобритании и Ирландии, где вид редок, его не следует собирать в пищу.",
+      "confusion": "Strobilomyces confusus, самостоятельный североамериканский вид, имеет несколько меньшую шляпку с более мелкими, жёсткими, заострёнными чешуйками и споры с шипиками и рёбрами, не образующими сплошной сетки. Strobilomyces dryophilus, также североамериканский, имеет тусклые серо-розовые до розовато-палевых шляпки. Sarcodon imbricatus сверху может выглядеть столь же тёмным и чешуйчатым, но под шляпкой у него шипы, а не поры. Других представителей рода нельзя считать этим видом лишь по сходству.",
+      "notes": "Это европейский вид. Многие находки на востоке Северной Америки и в части Азии относятся к комплексу сходных грибов, включая Strobilomyces confusus, а не к этому виду. В Великобритании и Ирландии он редок. Занесён в Красную книгу России. Его изображала швейцарская стандартная почтовая марка номиналом 50 сантимов, выпущенная 27 февраля 2014 года. Таблица — иллюстрация, созданная искусственным интеллектом, а не исторический опубликованный рисунок.",
+      "names": [
+        "Шишкогриб клочковатоножковый",
+        "Стробиломицес хлопьеножковый"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%88%D0%BA%D0%BE%D0%B3%D1%80%D0%B8%D0%B1_%D1%85%D0%BB%D0%BE%D0%BF%D1%8C%D0%B5%D0%BD%D0%BE%D0%B6%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9",
+        "https://species.wikimedia.org/wiki/Strobilomyces_strobilaceus"
+      ],
+      "label": "Шишкогриб хлопьеножковый"
+    },
+    "sk": {
+      "description": "Šiškovec šupinatý je vzácna, zvyčajne jednotlivá mykorízna rúrkovitá huba listnatých a zmiešaných lesov v kopcoch a pohoriach Európy, menej často v nížinách a občas aj pod ihličnanmi. Záznamy z východnej Severnej Ameriky a častí Ázie väčšinou patria k okruhu podobných druhov, nie k tomuto európskemu druhu.",
+      "cap": "Klobúk má v priemere 5–13 cm, výnimočne sa približuje k 20 cm. Najprv je vypuklý, neskôr sa splošťuje a je pokrytý veľkými, mäkkými, vlnitými, tmavosivými až čiernohnedými, vzpriamenými šupinami; pokožka medzi šupinami je bledšia, sivastá až takmer biela. Okraj je v mladosti podvinutý a často ovesený strapkatými zvyškami belavého až sivastého čiastočného závoja. Staré klobúky veľmi stmavnú a môžu pripomínať rozkladajúcu sa šišku.",
+      "hymenium": "Rúrky sú najprv belavé, neskôr sivohnedé a na reze sčervenajú a potom sčernejú. Póry sú hranaté, bledosivé, na otlačenie červenajú a potom černejú a vekom stmavnú. Mladé póry sú zakryté závojom.",
+      "stipe": "Hlúbik je vysoký 7–14 cm, niekedy až 20 cm, a hrubý 1–3 cm, typicky 8–12 × 1–2 cm. Má farbu klobúka, je kučeravý alebo vlnitý od tmavých šupín, často zahnutý a zvyčajne má hrubú prstencovú zónu alebo kučeravý golier v mieste pretrhnutia závoja; horná časť môže byť ryhovaná alebo sieťovitá. Dužina hlúbika je veľmi tvrdá.",
+      "flesh": "Dužina je hrubá, pevná a najprv biela, na reze ružovie až oranžovočervenie a potom pomaly černie. Vôňa a chuť mladých plodníc nie sú výrazné; staršie môžu voňať zemitým a chuť môže byť nepríjemná. Dužina hlúbika ostáva tuhá.",
+      "sporePrint": "Výtrusný prach je čiernohnedý až čierny. Výtrusy sú krátko elipsoidné až takmer guľovité, 9–15 × 8–12 μm, a pokryté úplnou sieťovitou ornamentikou.",
+      "habitat": "Rastie od júla do novembra, najčastejšie od júla do októbra, na zemi pod dubmi a bukmi, tiež v zmiešaných a ihličnatých lesoch, zvyčajne ako jednotlivé plodnice.",
+      "uses": "Mladé plodnice sú jedlé, ale majú obmedzenú kuchynskú hodnotu a môžu sa pridať do zmiešaných jedál; hlúbik je veľmi tuhý a staršie exempláre môžu byť nepríjemné. V Británii a Írsku, kde je druh vzácny, by sa nemal zbierať na jedenie.",
+      "confusion": "Strobilomyces confusus, samostatný severoamerický druh, má o niečo menší klobúk s menšími, tuhými, špicatými šupinami a výtrusy s ostňami a hrebienkami, ktoré netvoria úplnú sieť. Strobilomyces dryophilus, tiež severoamerický, má matné sivo-ružové až ružovohnedé klobúky. Sarcodon imbricatus môže zhora pôsobiť podobne tmavo a šupinato, pod klobúkom má však ostne, nie póry. Iné druhy tohto rodu sa nesmú považovať za tento druh len na základe podobnosti.",
+      "notes": "Ide o európsky druh. Mnohé záznamy z východnej Severnej Ameriky a častí Ázie patria k okruhu podobných húb, vrátane Strobilomyces confusus, nie k tomuto druhu. V Británii a Írsku je vzácny. Zobrazovala ho švajčiarska definitívna poštová známka v hodnote 50 centimov, vydaná 27. februára 2014. Tabuľa je ilustrácia vytvorená umelou inteligenciou, nie historická publikovaná kresba.",
+      "names": [],
+      "sourceUrls": [
+        "https://fotonet.sk/atlas/fungi_huby/strobilomyces-strobilaceus"
+      ],
+      "label": "šiškovec šupinatý"
+    },
+    "sl": {
+      "description": "Črni kuštravec je redka, običajno posamična mikorizna cevarka listnatih in mešanih gozdov v hribovju in gorah Evrope, redkeje v nižinah in občasno tudi pod iglavci. Podatki z vzhoda Severne Amerike in delov Azije večinoma spadajo v kompleks podobnih gliv, ne k tej evropski vrsti.",
+      "cap": "Klobuk meri 5–13 cm v premeru, izjemoma se približa 20 cm. Najprej je izbočen, pozneje se splošči in je pokrit z velikimi, mehkimi, volnatimi, temno sivimi do črnorjavimi, pokončnimi luskami; kožica med luskami je bledejša, sivkasta do skoraj bela. Rob je pri mladih zavit navznoter in pogosto obešen z raztrganimi ostanki belkastega do sivkastega delnega koprenastega ovoja. Stari klobuki močno potemnijo in lahko spominjajo na razpadajoč borov storž.",
+      "hymenium": "Cevke so sprva belkaste, pozneje sivorjave in se na prerezu najprej rdečijo, nato črnijo. Pore so oglate, bledo sive, ob pritisku pordijo in nato počrnijo ter s starostjo potemnijo. Pri mladih so pore skrite pod ovojem.",
+      "stipe": "Bet je visok 7–14 cm, včasih do 20 cm, in debel 1–3 cm, tipično 8–12 × 1–2 cm. Ima barvo klobuka, je kosmat ali volnat od temnih lusk, pogosto ukrivljen in ima običajno grobo obročkasto cono ali kosmat ovratnik tam, kjer se je ovoj pretrgal; zgornji del je lahko rebrast ali mrežast. Meso beta je zelo trdo.",
+      "flesh": "Meso je debelo, čvrsto in sprva belo, na prerezu pordeči do oranžnordeče in nato počasi počrni. Vonj in okus mladih trosnjakov nista značilna; starejši lahko dišijo po zemlji, okus pa lahko postane neprijeten. Meso beta ostane žilavo.",
+      "sporePrint": "Trosni prah je črnorjav do črn. Trosi so kratko eliptični do skoraj okrogli, 9–15 × 8–12 μm, in prekriti s popolnim mrežastim okrasjem.",
+      "habitat": "Raste od julija do novembra, najpogosteje od julija do oktobra, na tleh pod hrastom in bukvijo ter tudi v mešanih in iglastih gozdovih, običajno kot posamični trosnjaki.",
+      "uses": "Mladi trosnjaki so užitni, vendar imajo omejeno kulinarično vrednost in jih je mogoče dodati v mešane jedi; bet je zelo žilav, starejši primerki pa so lahko neprijetni. V Britaniji in na Irskem, kjer je vrsta redka, je ne bi smeli nabirati za hrano.",
+      "confusion": "Strobilomyces confusus, samostojna severnoameriška vrsta, ima nekoliko manjši klobuk z manjšimi, togimi, koničastimi luskami in trose z bodicami in grebeni, ki ne tvorijo popolne mreže. Strobilomyces dryophilus, prav tako severnoameriški, ima motne sivo-rožnate do rožnato rjavkaste klobuke. Sarcodon imbricatus je lahko od zgoraj podobno temen in luskast, pod klobukom pa ima bodice, ne por. Drugih predstavnikov rodu se ne sme šteti za to vrsto zgolj zaradi podobnosti.",
+      "notes": "To je evropska vrsta. Številni podatki z vzhoda Severne Amerike in delov Azije spadajo v kompleks podobnih gliv, vključno s Strobilomyces confusus, ne k tej vrsti. V Britaniji in na Irskem je redka. Upodabljala jo je švicarska definitivna poštna znamka za 50 centimov, izdana 27. februarja 2014. Tabla je ilustracija, ustvarjena z umetno inteligenco, ne zgodovinska objavljena slika.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/%C4%8Crni_ku%C5%A1travec"
+      ],
+      "label": "črni kuštravec"
+    },
+    "sr": {
+      "description": "Strobilomyces strobilaceus је ретка, обично појединачна микоризна цеваста гљива листопадних и мешовитих шума европских брежуљака и планина, ређе у низијама и понекад под четинарима. Налази са истока Северне Америке и делова Азије углавном припадају комплексу сличних гљива, а не овој европској врсти.",
+      "cap": "Шешир је широк 5–13 cm, изузетно се приближава 20 cm. Најпре је испупчен, касније се спљошти и покривен је великим, меким, вунастим, тамносивим до црнкастосмеђим, усправним љускама; кожица између љуски је блеђа, сивкаста до готово бела. Ивица је код младих увијена и често овешена поцепаним остацима беличастог до сивкастог делимичног вела. Стари шешири јако потамне и могу да подсећају на трули борски чешар.",
+      "hymenium": "Цевчице су најпре беличасте, касније сивосмеђе и на пресеку поцрвене, затим поцрне. Поре су угласте, бледосиве, на притисак поцрвене па поцрне и са старошћу потамне. Код младих су поре скривене велом.",
+      "stipe": "Дршка је висока 7–14 cm, понекад до 20 cm, и дебела 1–3 cm, типично 8–12 × 1–2 cm. Боје је шешира, чупава или вунаста од тамних љуски, често савијена и обично има грубу прстенасту зону или чупави оковратник тамо где се вео расцепио; горњи део може бити жљебљен или мрежаст. Месо дршке је врло тврдо.",
+      "flesh": "Месо је дебело, чврсто и најпре бело, на пресеку поприма ружичасту до наранџастоцрвену боју, затим полако црни. Мирис и укус младих плодоносних тела нису карактеристични; старија могу мирисати на земљу, а укус може постати непријатан. Месо дршке остаје жилаво.",
+      "sporePrint": "Отисак спора је црнкастосмеђ до црн. Споре су кратко елиптичне до готово лоптасте, 9–15 × 8–12 μm, и покривене потпуним мрежастим украсом.",
+      "habitat": "Плодоноси од јула до новембра, најчешће од јула до октобра, на земљишту под храстом и буквом, као и у мешовитим и четинарским шумама, обично као појединачна плодоносна тела.",
+      "uses": "Млада плодоносна тела су јестива, али ограничене кулинарске вредности, и могу се додати мешаним јелима; дршка је врло жилава, а старији примерци могу бити непријатни. У Британији и Ирској, где је врста ретка, не би требало да се бере за јело.",
+      "confusion": "Strobilomyces confusus, засебна северноамеричка врста, има нешто мањи шешир са мањим, чврстим, шиљатим љускама и споре са бодљама и ребрима која не чине потпуну мрежу. Strobilomyces dryophilus, такође северноамерички, има мутне сиво-ружичасте до ружичастосмеђе шешире. Sarcodon imbricatus одозго може изгледати једнако тамно и љускаво, али испод шешира има бодље, а не поре. Остале припаднике рода не треба сматрати овом врстом само по сличности.",
+      "notes": "Ово је европска врста. Многи налази са истока Северне Америке и делова Азије припадају комплексу сличних гљива, укључујући Strobilomyces confusus, а не овој врсти. У Британији и Ирској је ретка. Приказивала ју је швајцарска дефинитивна поштанска марка од 50 сантима, издата 27. фебруара 2014. Табла је илустрација створена вештачком интелигенцијом, а не историјска објављена слика.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "Fjällsopp är en sällsynt, vanligen ensamväxande, mykorrhizabildande sopp i löv- och blandskog i Europas kullar och berg, mer sällan i låglandet och ibland även under barrträd. Uppgifter från östra Nordamerika och delar av Asien hör oftast till ett komplex av liknande svampar, inte till denna europeiska art.",
+      "cap": "Hatten är 5–13 cm bred och kan undantagsvis närma sig 20 cm. Den är först välvd, senare utbredd, och täckt av stora, mjuka, ulliga, mörkgrå till svartbruna, upprätta fjäll; huden mellan fjällen är blekare, gråaktig till nästan vit. Randen är inrullad hos unga fruktkroppar och ofta behängd med slamsade rester av ett vitaktigt till gråaktigt partiellt velum. Gamla hattar blir mycket mörka och kan likna en ruttnande tallkotte.",
+      "hymenium": "Rören är först vitaktiga, senare gråbruna, och färgas röda och därefter svarta vid snitt. Porerna är kantiga, ljusgrå, rodnar och svartnar vid tryck och mörknar med åldern. Hos unga fruktkroppar döljs porerna av velumet.",
+      "stipe": "Foten är 7–14 cm hög, ibland upp till 20 cm, och 1–3 cm tjock, typiskt 8–12 × 1–2 cm. Den har hattens färg, är raggig eller ullig av mörka fjäll, ofta böjd, och har vanligen en grov ringzon eller en raggig krage där velumet har slitits av; den övre delen kan vara räfflad eller nätådrig. Foten är mycket hård i köttet.",
+      "flesh": "Köttet är tjockt, fast och först vitt, blir skärt till orangerött vid snitt och svartnar sedan långsamt. Lukt och smak är inte utmärkande hos unga fruktkroppar; äldre kan lukta jordigt, och smaken kan bli obehaglig. Fotens kött förblir seigt.",
+      "sporePrint": "Sporpulvret är svartbrunt till svart. Sporerna är kortelliptiska till nästan klotformiga, 9–15 × 8–12 μm, och täckta av ett fullständigt nätlikt ornament.",
+      "habitat": "Den fruktifierar från juli till november, oftast från juli till oktober, på marken under ek och bok samt i bland- och barrskog, vanligen som enstaka fruktkroppar.",
+      "uses": "Unga fruktkroppar är ätliga men av begränsat kulinariskt värde och kan tillsättas i blandade rätter; foten är mycket seig, och äldre exemplar kan vara obehagliga. I Storbritannien och Irland, där arten är sällsynt, bör den inte plockas som matsvamp.",
+      "confusion": "Strobilomyces confusus, en särskild nordamerikansk art, har en något mindre hatt med mindre, styva, spetsiga fjäll och sporer med taggar och åsar som inte bildar ett fullständigt nät. Strobilomyces dryophilus, också nordamerikansk, har matta grårosa till rosabruna hattar. Sarcodon imbricatus kan ovanifrån se liknande mörk och fjällig ut, men har taggar under hatten i stället för porer. Andra arter i släktet ska inte tas för denna art enbart på grund av likhet.",
+      "notes": "Detta är en europeisk art. Många uppgifter från östra Nordamerika och delar av Asien hör till ett komplex av liknande svampar, däribland Strobilomyces confusus, inte till denna art. I Storbritannien och Irland är den sällsynt. Ett schweiziskt 50-centimes definitivfrimärke, utgivet den 27 februari 2014, avbildade den. Planschbilden är en illustration skapad med artificiell intelligens, inte en historisk publicerad figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Fj%C3%A4llsopp"
+      ],
+      "label": "fjällsopp"
+    },
+    "tr": {
+      "description": "Strobilomyces strobilaceus, Avrupa’nın tepe ve dağlık bölgelerindeki yapraklı ve karışık ormanlarda, daha seyrek olarak ova ormanlarında ve ara sıra iğne yapraklıların altında görülen, kıt, genellikle tek tek büyüyen mikorizal bir borulu mantardır. Doğu Kuzey Amerika ve Asya’nın bazı kesimlerinden gelen kayıtlar çoğunlukla benzer mantarlardan oluşan bir tür kompleksine aittir, bu Avrupa türüne değil.",
+      "cap": "Şapka 5–13 cm genişliğindedir ve istisnai olarak 20 cm’ye yaklaşır. Önce kabarık, sonra yassılaşır ve iri, yumuşak, yünsü, koyu gri ile siyahımsı kahverengi, dik pulcuklarla kaplıdır; pulcuklar arasındaki deri daha soluk, grimsi ile neredeyse beyazdır. Kenar gençken içe kıvrıktır ve çoğu zaman beyazımsı ile grimsi kısmi bir örtünün parçalanmış kalıntılarıyla asılıdır. Eski şapkalar çok koyulaşır ve çürüyen bir çam kozalağını andırabilir.",
+      "hymenium": "Borular önce beyazımsı, sonra gri-kahverengidir ve kesilince önce kırmızılaşır, ardından kararır. Gözenekler köşeli, soluk gridir, ezilince kırmızılaşıp sonra kararır ve yaşla birlikte koyulaşır. Gençlerde gözenekler örtüyle gizlenmiştir.",
+      "stipe": "Sap 7–14 cm boyunda, bazen 20 cm’ye kadar, ve 1–3 cm kalınlığındadır, tipik olarak 8–12 × 1–2 cm. Şapka rengindedir, koyu pulcuklardan dolayı kaba veya yünsüdür, çoğu zaman eğridir ve örtünün yırtıldığı yerde genellikle kaba bir halka bölgesi veya kaba bir yaka taşır; üst kısmı oluklu veya ağsı olabilir. Sapın eti çok serttir.",
+      "flesh": "Et kalın, sıkı ve önce beyazdır; kesilince pembeden turuncu-kırmızıya döner, sonra yavaşça kararır. Genç meyve gövdelerinin kokusu ve tadı ayırt edici değildir; daha yaşlı olanlar toprak kokabilir ve tat hoş olmayabilir. Sapın eti sert kalır.",
+      "sporePrint": "Spor izi siyahımsı kahverengiden siyahadır. Sporlar kısa elipsoit ile neredeyse küreseldir, 9–15 × 8–12 μm, ve eksiksiz bir ağsı süslemeyle kaplıdır.",
+      "habitat": "Temmuz’dan Kasım’a kadar, en sık Temmuz’dan Ekim’e kadar, meşe ve kayın altında toprakta ve ayrıca karışık ve iğne yapraklı ormanlarda, genellikle tek meyve gövdeleri olarak meyve verir.",
+      "uses": "Genç meyve gövdeleri yenilebilir ancak mutfak değeri sınırlıdır ve karışık yemeklere eklenebilir; sap çok serttir ve daha yaşlı örnekler hoş olmayabilir. Türün seyrek olduğu Britanya ve İrlanda’da yiyecek için toplanmamalıdır.",
+      "confusion": "Ayrı bir Kuzey Amerika türü olan Strobilomyces confusus, biraz daha küçük bir şapkaya, daha küçük, sert ve sivri pulcuklara ve eksiksiz bir ağ oluşturmayan dikenli ve sırtlı sporlara sahiptir. Yine Kuzey Amerikalı olan Strobilomyces dryophilus, mat gri-pembe ile pembemsi kahverengi şapkalıdır. Sarcodon imbricatus yukarıdan bakıldığında benzer şekilde koyu ve pullu görünebilir, ancak şapkanın altında gözenek yerine dikenler vardır. Cinsin diğer üyeleri yalnızca benzerlikten ötürü bu tür sanılmamalıdır.",
+      "notes": "Bu bir Avrupa türüdür. Doğu Kuzey Amerika ve Asya’nın bazı kesimlerinden gelen birçok kayıt, Strobilomyces confusus dahil benzer mantarlardan oluşan bir komplekse aittir, bu türe değil. Britanya ve İrlanda’da seyrektir. 27 Şubat 2014’te yayımlanan 50 santimlik İsviçre sürekli pulu onu betimliyordu. Levha, yapay zekâ ile üretilmiş bir illüstrasyondur, tarihî yayımlanmış bir şekil değildir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Шишкогриб лускатий — рідкісний, зазвичай поодинокий мікоризний трубчастий гриб листяних і мішаних лісів пагорбів і гір Європи, рідше на низовинах і іноді під хвойними. Знахідки зі сходу Північної Америки та частин Азії здебільшого належать до комплексу подібних видів, а не до цього європейського виду.",
+      "cap": "Шапинка 5–13 см у діаметрі, винятково майже до 20 см. Спочатку вона опукла, пізніше сплощується і вкрита великими, м’якими, вовнистими, темно-сірими до чорнувато-коричневих, прямостоячими лусочками; шкірка між лусочками блідіша, сірувата до майже білої. Край у молодих загорнутий усередину і часто прикрашений клаптями білуватого до сіруватого часткового покривала. Старі шапинки дуже темніють і можуть нагадувати гниючу соснову шишку.",
+      "hymenium": "Трубочки спочатку білуваті, пізніше сіро-коричневі і на розрізі червоніють, потім чорніють. Пори кутасті, блідо-сірі, від натискання червоніють, потім чорніють і з віком темніють. У молодих пори приховані покривалом.",
+      "stipe": "Ніжка 7–14 см заввишки, іноді до 20 см, і 1–3 см завтовшки, типово 8–12 × 1–2 см. Вона кольору шапинки, кошлата або вовниста від темних лусочок, часто зігнута і зазвичай має грубу кільцеву зону або кошлатий комірець там, де покривало розірвалося; верхня частина може бути борозенчастою або сітчастою. М’якуш ніжки дуже твердий.",
+      "flesh": "М’якуш товстий, щільний і спочатку білий, на розрізі рожевіє до оранжево-червоного, потім повільно чорніє. Запах і смак молодих плодових тіл невиразні; старіші можуть пахнути землею, а смак може стати неприємним. М’якуш ніжки залишається жорстким.",
+      "sporePrint": "Споровий порошок чорнувато-коричневий до чорного. Спори коротко-еліпсоїдні до майже кулястих, 9–15 × 8–12 мкм, вкриті суцільним сітчастим орнаментом.",
+      "habitat": "Плодоносить з липня до листопада, найчастіше з липня до жовтня, на ґрунті під дубом і буком, а також у мішаних і хвойних лісах, зазвичай поодинокими плодовими тілами.",
+      "uses": "Молоді плодові тіла їстівні, але мають обмежену кулінарну цінність і можуть додаватися до мішаних страв; ніжка дуже жорстка, а старіші екземпляри можуть бути неприємними. У Великій Британії та Ірландії, де вид рідкісний, його не слід збирати на їжу.",
+      "confusion": "Strobilomyces confusus, окремий північноамериканський вид, має трохи меншу шапинку з дрібнішими, жорсткими, загостреними лусочками і спори з колючками та ребрами, що не утворюють суцільної сітки. Strobilomyces dryophilus, також північноамериканський, має тьмяні сіро-рожеві до рожево-палевих шапинки. Sarcodon imbricatus зверху може виглядати так само темним і лускатим, але під шапинкою в нього колючки, а не пори. Інших представників роду не можна вважати цим видом лише за подібністю.",
+      "notes": "Це європейський вид. Багато знахідок зі сходу Північної Америки та частин Азії належать до комплексу подібних грибів, зокрема Strobilomyces confusus, а не до цього виду. У Великій Британії та Ірландії він рідкісний. Занесений до Червоної книги України. Його зображувала швейцарська стандартна поштова марка номіналом 50 сантимів, випущена 27 лютого 2014 року. Таблиця — ілюстрація, створена штучним інтелектом, а не історичний опублікований рисунок.",
+      "names": [
+        "лускач"
+      ],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%A8%D0%B8%D1%88%D0%BA%D0%BE%D0%B3%D1%80%D0%B8%D0%B1_%D0%BB%D1%83%D1%81%D0%BA%D0%B0%D1%82%D0%B8%D0%B9"
+      ],
+      "label": "Шишкогриб лускатий"
+    },
+    "zh": {
+      "description": "松塔牛肝菌是一种稀少、通常单生的外生菌根牛肝菌，见于欧洲丘陵和山地的阔叶林与混交林，低地较少，偶尔也出现在针叶树下。北美洲东部和亚洲部分地区的记录大多属于一个相似真菌的复合群，而不是这一欧洲物种。",
+      "cap": "菌盖宽 5–13 厘米，例外时可接近 20 厘米。初期凸起，随后变平，覆有大型、柔软、绒毛状、暗灰至黑褐色的直立鳞片；鳞片之间的表皮较浅，灰白至近乎白色。幼时边缘内卷，常挂有白色至灰色部分菌幕的破碎残片。老菌盖变得很暗，可像正在腐烂的松塔。",
+      "hymenium": "菌管初期近白色，随后灰褐色，切开后先变红再变黑。管口多角形，浅灰色，触伤后变红再变黑，并随年龄加深。幼时管口被菌幕遮盖。",
+      "stipe": "菌柄高 7–14 厘米，有时可达 20 厘米，粗 1–3 厘米，典型为 8–12 × 1–2 厘米。颜色与菌盖相近，因暗色鳞片而呈蓬松或绒毛状，常弯曲，并通常在菌幕撕裂处有粗糙的环带或蓬松的领状结构；上部可具沟纹或网纹。菌柄的肉质非常坚硬。",
+      "flesh": "菌肉厚实、坚实，初期白色，切开后呈粉红至橙红色，随后缓慢变黑。幼子实体无明显气味和味道；较老的可能有泥土气味，味道也可能变得不好。菌柄的肉质始终坚韧。",
+      "sporePrint": "孢子印黑褐色至黑色。孢子短椭圆形至近球形，9–15 × 8–12 μm，具完整的网状纹饰。",
+      "habitat": "子实体见于七月至十一月，最常见于七月至十月，生于栎树和山毛榉下的地面，也见于混交林和针叶林，通常单生。",
+      "uses": "幼子实体可食，但食用价值有限，可加入什锦菜肴；菌柄非常坚韧，较老的标本可能不适口。在英国和爱尔兰该种稀少，不应采集食用。",
+      "confusion": "Strobilomyces confusus 是一个独立的北美物种，菌盖稍小，鳞片更小、更硬且先端尖，孢子具刺和棱，但不形成完整的网。Strobilomyces dryophilus 同样产于北美，菌盖为暗灰粉至粉褐色。Sarcodon imbricatus 从上方看也可能同样深色而具鳞，但菌盖腹面是刺而不是管孔。不可仅凭同属关系把本属其他种类当作本种。",
+      "notes": "这是一个欧洲物种。北美洲东部和亚洲部分地区的许多记录属于一个相似真菌的复合群，包括 Strobilomyces confusus，而不是本种。它在英国和爱尔兰稀少。2014 年 2 月 27 日发行的瑞士 50 生丁普通邮票曾描绘过它。本图版是人工智能生成的插图，不是历史上已发表的图。",
+      "names": [
+        "線柄松塔牛肝菌"
+      ],
+      "sourceUrls": [
+        "https://zh.wikipedia.org/wiki/%E6%9D%BE%E5%A1%94%E7%89%9B%E8%82%9D%E8%8F%8C%E5%B1%9E",
+        "https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8F%88%E9%A1%9E%E5%88%97%E8%A1%A8"
+      ],
+      "label": "松塔牛肝菌"
+    }
+  },
+  "synonyms": [
+    "Boletus strobilaceus Scop.",
+    "Eriocorys strobilacea (Scop.) Quél.",
+    "Boletus strobiliformis Dicks.",
+    "Boletus strobilinus Dicks.",
+    "Boletus strobiliformis Vill.",
+    "Strobilomyces strobiliformis Beck",
+    "Boletus floccopus Vahl",
+    "Strobilomyces floccopus (Vahl) P. Karst.",
+    "Boletus cinereus Pers.",
+    "Boletus floccipes Spreng."
+  ],
+  "reserved": false,
+  "id": 182,
+  "citation": "Hooker's J. Bot. Kew Gard. Misc. 3: 78 (1851)"
 }
 ];
