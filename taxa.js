@@ -590,6 +590,15 @@ export const TAXA = {
     lv: "zemestauku rinda",
     sk: "hadovkotvaré"
   },
+  Geastrales: {
+    rank: "order"
+  },
+  Geastraceae: {
+    rank: "family"
+  },
+  Geastrum: {
+    rank: "genus"
+  },
   Phallus: {
     rank: "genus",
     sk: "hadovka"
@@ -1001,7 +1010,8 @@ export const TAXA = {
     rank: "genus"
   },
   Pyronemataceae: {
-    rank: "family"
+    rank: "family",
+    sk: "ohnivkovité"
   },
   Aleuria: {
     rank: "genus"

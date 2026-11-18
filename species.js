@@ -188719,5 +188719,1779 @@ export const CATALOG = [
   "reserved": false,
   "id": 182,
   "citation": "Hooker's J. Bot. Kew Gard. Misc. 3: 78 (1851)"
+},
+{
+  "name": "Geastrum triplex",
+  "author": "Jungh.",
+  "family": "Geastraceae",
+  "genus": "Geastrum",
+  "order": "Geastrales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Phallomycetidae",
+    "Geastrales",
+    "Geastraceae",
+    "Geastrum"
+  ],
+  "summary": [
+    "Geastrales",
+    "Geastraceae",
+    "Geastrum"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gleba",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown"
+  ],
+  "capFrom": 5.0,
+  "capTo": 10.0,
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "label": {
+    "en": "collared earthstar",
+    "sk": "hviezdovka trojitá",
+    "cs": "hvězdovka trojitá",
+    "de": "Halskrausen-Erdstern",
+    "nl": "gekraagde aardster",
+    "sv": "kragjordstjärna",
+    "fi": "kaulusmaatähti",
+    "pl": "gwiazdosz potrójny",
+    "fr": "géastre à trois enveloppes",
+    "hu": "hármas csillaggomba",
+    "lt": "didysis žvaigždulis",
+    "ja": "エリマキツチグリ",
+    "ru": "Звездовик тройной",
+    "uk": "Зірковик потрійний",
+    "fa": "قارچ فندقی سه‌گانه",
+    "ar": "نيجمة ثلاثية",
+    "zh": "尖顶地星",
+    "da": "kødet stjernebold",
+    "no": "prestejordstjerne",
+    "sl": "ovratniška zvezdica",
+    "lv": "biezstaru zemeszvaigzne"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "hvězdice trojdílná"
+    ],
+    "da": [],
+    "de": [
+      "Halskrausenerdstern",
+      "Halskrauser Erdstern"
+    ],
+    "en": [
+      "saucered earthstar",
+      "triple earthstar"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "géastre à trois couches"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "エリマキツチガキ"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "gwiazdosz kołnierzykowy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=119601",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=119601",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=119601",
+      "https://www.gbif.org/species/2554367",
+      "https://www.wikidata.org/wiki/Q1572277",
+      "https://www.mushroomexpert.com/geastrum_triplex.html",
+      "https://www.first-nature.com/fungi/geastrum-triplex.php",
+      "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/collared-earthstar/",
+      "https://en.wikipedia.org/wiki/Geastrum_triplex",
+      "https://species.wikimedia.org/wiki/Geastrum_triplex",
+      "https://www.inaturalist.org/taxa/63076-Geastrum-triplex",
+      "https://www.myko.cz/myko-atlas/Geastrum-triplex/"
+    ],
+    "ar": [
+      "https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D8%AC%D9%85%D8%A9_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9"
+    ],
+    "bg": [],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Hv%C4%9Bzdovka_trojit%C3%A1",
+      "https://www.myko.cz/myko-atlas/Geastrum-triplex/"
+    ],
+    "da": [
+      "https://www.naturbasen.dk/art/3504/koedet-stjernebold"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Halskrausen-Erdstern",
+      "https://www.wikidata.org/wiki/Q1572277"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [
+      "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%DA%86_%D9%81%D9%86%D8%AF%D9%82%DB%8C_%D8%B3%D9%87%E2%80%8C%DA%AF%D8%A7%D9%86%D9%87"
+    ],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Kaulusmaat%C3%A4hti"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Geastrum_triplex"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/H%C3%A1rmas_csillaggomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%9E%E3%82%AD%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA"
+    ],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Didysis_%C5%BEvaig%C5%BEdulis"
+    ],
+    "lv": [
+      "https://dabasdati.lv/lv/observation/a1c1c83936f3f5a13a84a11b93aca23a/"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Gekraagde_aardster"
+    ],
+    "no": [
+      "https://artsdatabanken.no/arter/takson/39239"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Gwiazdosz_potr%C3%B3jny"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Geastrum-triplex/hviezdovka-trojita/hvezdovka-trojita/ID158",
+      "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=G&typ=latin"
+    ],
+    "sl": [
+      "https://www.gobe.si/Mikologija/Geastrum"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Kragjordstj%C3%A4rna"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%97%D1%96%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D0%BF%D0%BE%D1%82%D1%80%D1%96%D0%B9%D0%BD%D0%B8%D0%B9"
+    ],
+    "zh": [
+      "https://zh.wikipedia.org/wiki/%E5%9C%B0%E6%98%9F%E5%B1%9E",
+      "https://zh.wikipedia.org/wiki/%E5%9C%B0%E6%98%9F%E7%A7%91"
+    ]
+  },
+  "added": "2026-11-18",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/Geastrum_triplex@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/Geastrum_triplex@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Geastrum triplex.png” (from ~/Downloads) is a JPEG/JFIF illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The right expanded star shows the diagnostic cracked collar or saucer and splitting rays; there are no gills and no stipe. The section is a young egg with white gleba (a mature cut would be brown and powdery). The left expanded star has a paler peristome ring but a weaker saucer. The upper-right disc is an apical peristome view, a little too regular. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/Geastrum_triplex@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/gt1.webp",
+      "author": "JJ Harrison",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_-_Bola_Creek.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/gt2.webp",
+      "author": "Ian Alexander",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Collared_Earthstar_Geastrum_triplex_at_Gunnersbury_Triangle.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/gt3.webp",
+      "author": "Lukas",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_(48934345777).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/gt4.webp",
+      "author": "Σ64",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_04.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/gt5.webp",
+      "author": "Lukas",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_(32061799751).jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Geastrales/Geastraceae/Geastrum_triplex/Geastrum_triplex@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Geastrales/Geastraceae/Geastrum_triplex/Geastrum_triplex@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (alpha only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Geastrales/Geastraceae/Geastrum_triplex/gt1.webp",
+      "author": "JJ Harrison",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_-_Bola_Creek.jpg"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Geastrales/Geastraceae/Geastrum_triplex/gt2.webp",
+      "author": "Ian Alexander",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collared_Earthstar_Geastrum_triplex_at_Gunnersbury_Triangle.JPG"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Geastrales/Geastraceae/Geastrum_triplex/gt3.webp",
+      "author": "Lukas",
+      "license": "CC BY-SA 2.0",
+      "licenseVersion": "2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_(48934345777).jpg"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Geastrales/Geastraceae/Geastrum_triplex/gt4.webp",
+      "author": "Σ64",
+      "license": "CC BY 3.0",
+      "licenseVersion": "3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_04.jpg"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Geastrales/Geastraceae/Geastrum_triplex/gt5.webp",
+      "author": "Lukas",
+      "license": "CC BY-SA 2.0",
+      "licenseVersion": "2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_(32061799751).jpg"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "نجم أرض رمّي في فرشة الأوراق في الغابات النفضية والمختلطة، وأحيانًا تحت الصنوبريات وكثيرًا على المنحدرات. واسع الانتشار في أوروبا ويُذكر أيضًا من مناطق معتدلة وشبه استوائية أخرى. وهو أكبر النجوم الأرضية الشائعة؛ وقد يحتاج التمييز الموثوق عن الأنواع المشابهة، ولا سيما Geastrum saccatum وGeastrum lageniforme، إلى خبرة وأحيانًا إلى مجهر.",
+      "cap": "الجسم الثمري غير المفتوح بيضة مدفونة جزئيًا، بشكل بصلة أو منقار، وعادة بعرض 1–5 سم. ثم ينشق الجدار الخارجي إلى 4–8 أذرع سميكة، لونها بيج إلى بني، غير مسترطبة، تنثني إلى الخلف وترفع كيس الأبواغ؛ ويبلغ الجسم المنفتح 5–10 سم بين أطراف الأذرع، واستثنائيًا نحو 11.5 سم. وعندما يتشقق الطبقة اللحمية للأذرع، كثيرًا ما يبقى كيس الأبواغ جالسًا في طوق أو صحن منفصل، ومن هنا الاسم نيجمة ثلاثية. وليس كل عينة تكوّن طوقًا واضحًا.",
+      "hymenium": "النسيج الخصيب غلبة داخل كيس أبواغ جالس ورقي، عادة 1–5 سم، رمادي بني إلى بني، ينفتح بفوهة قمية صغيرة مهدّبة (البريستوم)، غالبًا مع منطقة أفتح حول الفم. الغلبة الفتية بيضاء ومتماسكة؛ ثم تصبح مسحوقًا بنيًا داكنًا. ولا توجد صفائح أو مسام على وجه سفلي مكشوف.",
+      "stipe": "لا يوجد ساق. يجلس كيس الأبواغ مباشرة على الأذرع أو في الطوق.",
+      "flesh": "الغلبة الفتية بيضاء ومتماسكة، ثم بنية ومسحوقية. الأذرع في البداية سميكة ولحمية وكثيرًا ما تتشقق عند الانثناء. الرائحة والطعم غير مميزين.",
+      "sporePrint": "كتلة الأبواغ بنية داكنة. الأبواغ كروية، 3.5–4.5 ميكرومتر، مغطاة بثآليل شوكية صغيرة.",
+      "habitat": "يثمر بعد المطر من أغسطس/آب إلى نوفمبر/تشرين الثاني، في الغالب أواخر الصيف والخريف، على الأرض في فرشة الغابات النفضية، وخاصة تحت الزان، وكذلك تحت الصنوبريات، وكثيرًا على المنحدرات. ويمكن العثور على أجسام قديمة باقية في الشتاء وحتى الربيع التالي.",
+      "uses": "الأجسام الثمرية غير صالحة للأكل وليس لها قيمة طهوية: فهي صلبة وليفية. ولا تُعامل في المصادر المستخدمة هنا على أنها سامة، لكنها لا تُجمع للطعام.",
+      "confusion": "قد تشبهها نجوم أرض أخرى. Geastrum saccatum أصغر عمومًا (نحو 2–5 سم عند الانفتاح) ولا يكوّن عادة طوقًا واضحًا؛ وقد يصعب الفصل بينهما دون مجهر، وقد عاملتهما بعض المصادر الأوروبية كمرادفين، لكن Index Fungorum يبقيهما منفصلين. وGeastrum lageniforme مشابه ظاهريًا أيضًا ومتميز وراثيًا. وGeastrum fimbriatum أصغر، بكيس أبواغ رمادي زغبي ومن دون طوق. أما Astraeus hygrometricus (موجود أصلًا في هذا الفهرس) ففطر شبيه بنجم الأرض من فصيلة أخرى، بأذرع مسترطبة تنفتح وتنغلق مع الرطوبة، وليس من جنس Geastrum. ولا يجوز اعتبار أي من هذه، أو أي نوع آخر من Geastrum، مرادفًا لاسم Geastrum triplex.",
+      "notes": "يعامل Index Fungorum وSpecies Fungorum الاسم Geastrum triplex Jungh. (1840؛ نُشر أصلًا باسم Geaster triplex) على أنه الاسم الحالي، IF 119601. ويورد Species Fungorum شكلين تحت النوع فقط (f. pedicellatum وf. roseum)، ولا يُحفظان كمرادفين. وأسماء مثل Geastrum michelianum وGeastrum saccatum وGeastrum indicum وGeastrum cryptorhynchum لا تُعامل هنا كمرادفات؛ وبعضها أسماء حالية لأنواع أخرى في Index Fungorum. والنموذج النمطي من جاوة. واللوحة رسم أُنتج بالذكاء الاصطناعي، وليست شكلًا تاريخيًا منشورًا.",
+      "names": [],
+      "sourceUrls": [
+        "https://ar.wikipedia.org/wiki/%D9%86%D9%8A%D8%AC%D9%85%D8%A9_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9"
+      ],
+      "label": "نيجمة ثلاثية"
+    },
+    "bg": {
+      "description": "Сапротрофна земна звезда на постилката в широколистни и смесени гори, понякога под иглолистни и често по склонове. Широко разпространена е в Европа и се съобщава също от други умерени и субтропични области. Това е най-голямата сред обикновените земни звезди; сигурното отличаване от сходни видове, особено Geastrum saccatum и Geastrum lageniforme, може да изисква опит и понякога микроскоп.",
+      "cap": "Неотвореното плодно тяло е частично заровено, луковично или човковидно яйце, обикновено 1–5 cm напречно. Външната стена след това се разцепва на 4–8 дебели, охрени до кафяви, нехигроскопични лъча, които се прегъват назад и повдигат споровата торбичка; разтвореното плодно тяло е 5–10 cm между върховете на лъчите, изключително около 11,5 cm. Когато месестият слой на лъчите се напука, споровата торбичка често остава в отделна яка или чинийка. Не всеки екземпляр образува ясна яка.",
+      "hymenium": "Плодородната тъкан е глеба в седящата, хартиена спорова торбичка, обикновено 1–5 cm, сиво-кафява до кафява, която се отваря с малък ресничест връхен перистом, често с по-бледа зона около устието. Младата глеба е бяла и твърда; по-късно става тъмнокафяв прах. На откритата долна страна няма пластинки и пори.",
+      "stipe": "Няма пънче. Споровата торбичка седи направо върху лъчите или в яката.",
+      "flesh": "Младата глеба е бяла и твърда, по-късно кафява и праховидна. Лъчите отначало са дебели и месести и при прегъване често се напукват. Мирисът и вкусът не са характерни.",
+      "sporePrint": "Споровият прах е тъмнокафяв. Спорите са кълбовидни, 3,5–4,5 μm, покрити с дребни бодливи брадавици.",
+      "habitat": "Плододава след дъжд от август до ноември, най-често в края на лятото и през есента, на почвата в постилката на широколистни гори, особено под бук, а също и под иглолистни, често по склонове. Стари, дълготрайни плодни тела могат да се намерят още през зимата и следващата пролет.",
+      "uses": "Плодните тела са негодни за ядене и нямат кулинарна стойност: те са жилави и влакнести. В използваните тук източници не се третират като отровни, но не се събират за храна.",
+      "confusion": "Други земни звезди могат да изглеждат подобно. Geastrum saccatum обикновено е по-малък (около 2–5 cm в разтворено състояние) и обикновено не образува ясна яка; двата вида понякога са трудни за различаване без микроскоп, а някои европейски източници са ги третирали като синоними, но Index Fungorum ги води отделно. Geastrum lageniforme макроскопски също е сходен и генетично различен. Geastrum fimbriatum е по-малък, с мъхеста сива спорова торбичка и без яка. Astraeus hygrometricus (вече в този каталог) е гъба като земна звезда от друго семейство, с хигроскопични лъчи, които се отварят и затварят според влагата, и не е Geastrum. Никой от тези видове, нито друг вид от рода Geastrum, не трябва да се алиасира като Geastrum triplex.",
+      "notes": "Index Fungorum и Species Fungorum третират Geastrum triplex Jungh. (1840; първоначално публикуван като Geaster triplex) като текущото име, IF 119601. Species Fungorum изброява само две вътревидови форми (f. pedicellatum и f. roseum), които не се съхраняват като синоними. Имена като Geastrum michelianum, Geastrum saccatum, Geastrum indicum и Geastrum cryptorhynchum тук не се третират като синоними; някои от тях са текущи имена на други видове в Index Fungorum. Типът е от Ява. Таблицата е илюстрация, създадена от изкуствен интелект, а не историческа публикувана фигура.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Saprotrófní hvězdovka opadanky v listnatých a smíšených lesích, někdy i pod jehličnany a často na svazích. Je rozšířená v Evropě a uvádí se i z jiných mírných a subtropických oblastí. Patří k největším běžným hvězdovkám; spolehlivé odlišení od podobných druhů, zejména od Geastrum saccatum a Geastrum lageniforme, může vyžadovat zkušenost a někdy i mikroskop.",
+      "cap": "Neotevřená plodnice je částečně zanořené, cibulovité nebo zobákovité vajíčko, obvykle 1–5 cm široké. Vnější stěna se pak roztrhne na 4–8 hrubých, okrových až hnědých, nehygroskopických cípů, které se ohýbají dozadu a nadzvedávají výtrusný vak; rozložená plodnice měří 5–10 cm mezi špičkami cípů, výjimečně okolo 11,5 cm. Když masitá vrstva cípů popraská, výtrusný vak často zůstane sedět v samostatném límci nebo talířku, odkud pochází jméno hvězdovka trojitá. Ne každý plodný kus však vytvoří zřetelný límec.",
+      "hymenium": "Plodná tkáň je gleba uvnitř přisedlého, papírovitého výtrusného vaku, který měří obvykle 1–5 cm, je šedohnědý až hnědý a otvírá se malým, třásnitým vrcholovým ostiolem (peristomem), často se světlejším dvorečkem kolem ústí. Mladá gleba je bílá a pevná, později se mění v tmavohnědý prach. Na odkryté spodní straně nejsou lupeny ani rourky.",
+      "stipe": "Třeň chybí. Výtrusný vak sedí přímo na cípech nebo v límci.",
+      "flesh": "Mladá gleba je bílá a pevná, později hnědá a práškovitá. Cípy jsou zprvu tlusté a masité a při ohýbání často popraskají. Vůně ani chuť nejsou výrazné.",
+      "sporePrint": "Výtrusný prach je tmavohnědý. Výtrusy jsou kulovité, 3,5–4,5 μm, pokryté drobnými ostnitými bradavkami.",
+      "habitat": "Fruktifikuje po dešti od srpna do listopadu, nejčastěji koncem léta a na podzim, na zemi v opadance listnatých lesů, zejména pod bukem, a také pod jehličnany, často na svazích. Staré, vytrvalé plodnice lze najít i v zimě a následující jaro.",
+      "uses": "Plodnice jsou nejedlé a nemají kuchyňskou hodnotu: jsou tuhé a vláknité. V použitých pramenech se neuvádějí jako jedovaté, ke sběru na jídlo však nejsou.",
+      "confusion": "Jiné hvězdovky mohou vypadat podobně. Geastrum saccatum je zpravidla menší (asi 2–5 cm v rozloženém stavu) a obvykle netvoří zřetelný límec; oba druhy se bez mikroskopu někdy obtížně rozeznávají a některé evropské prameny je považovaly za synonyma, Index Fungorum je však vede odděleně. Geastrum lageniforme je makroskopicky rovněž podobná a geneticky odlišná. Geastrum fimbriatum je menší, s plstnatým šedým výtrusným vakem a bez límce. Astraeus hygrometricus (už v tomto katalogu) je hvězdovce podobná houba z jiné čeledi, s hygroskopickými cípy, které se otvírají a zavírají podle vlhkosti, a není to Geastrum. Žádný z těchto druhů, ani jiné druhy rodu Geastrum, se nesmějí aliasovat jako Geastrum triplex.",
+      "notes": "Index Fungorum a Species Fungorum považují Geastrum triplex Jungh. (1840; původně uveřejněné jako Geaster triplex) za platné jméno, IF 119601. Species Fungorum uvádí jen dvě vnitrodruhové formy (f. pedicellatum a f. roseum), které se jako synonyma neukládají. Jména jako Geastrum michelianum, Geastrum saccatum, Geastrum indicum a Geastrum cryptorhynchum se zde za synonyma nepovažují; několik z nich je v Index Fungorum platnými jmény jiných druhů. Typ pochází z Jávy. Tabule je ilustrace vytvořená umělou inteligencí, nikoli historický publikovaný výjev.",
+      "names": [
+        "hvězdice trojdílná"
+      ],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Hv%C4%9Bzdovka_trojit%C3%A1",
+        "https://www.myko.cz/myko-atlas/Geastrum-triplex/"
+      ],
+      "label": "hvězdovka trojitá"
+    },
+    "da": {
+      "description": "En saprotrof stjernebold i førnen i løv- og blandingsskov, undertiden under nåletræer og ofte på skråninger. Den er vidt udbredt i Europa og angives også fra andre tempererede og subtropiske områder. Den er den største blandt de almindelige stjernebolde; sikker adskillelse fra lignende arter, især Geastrum saccatum og Geastrum lageniforme, kan kræve erfaring og undertiden et mikroskop.",
+      "cap": "Det uåbnede frugtlegeme er et delvis nedgravet, løg- eller næbformet æg, typisk 1–5 cm bredt. Ydervæggen spalter derefter i 4–8 tykke, okker- til brune, ikke-hygroskopiske lapper, som bøjes tilbage og løfter sporesækken; det udbredte frugtlegeme måler 5–10 cm over lappespidserne, undtagelsesvis omkring 11,5 cm. Når lappernes kødfulde lag revner, sidder sporesækken ofte i en særskilt krave eller skål, som har givet arten navnet kødet stjernebold. Ikke hvert eksemplar danner en tydelig krave.",
+      "hymenium": "Det fertile væv er en gleba inde i den siddende, papiragtige sporesæk, typisk 1–5 cm, gråbrun til brun, som åbner sig gennem et lille, frynset apikalt peristom, ofte med en blegere zone omkring munden. Ung gleba er hvid og fast; senere bliver den til et mørkebrunt pulver. Der er hverken lameller eller rør på en fri underside.",
+      "stipe": "Der er ingen stok. Sporesækken sidder direkte på lapperne eller i kraven.",
+      "flesh": "Ung gleba er hvid og fast, senere brun og pudderagtig. Lapperne er først tykke og kødfulde og revner ofte, når de bøjes tilbage. Lugt og smag er ikke karakteristiske.",
+      "sporePrint": "Sporemassen er mørkebrun. Sporerne er kugleformede, 3,5–4,5 μm, og dækket af små tornevorter.",
+      "habitat": "Den fruktificerer efter regn fra august til november, oftest sidst på sommeren og om efteråret, på jorden i førnen i løvskov, især under bøg, og også under nåletræer, ofte på skråninger. Gamle, vedvarende frugtlegemer kan stadig findes om vinteren og det følgende forår.",
+      "uses": "Frugtlegemerne er uspiselige og uden kulinarisk værdi: de er seje og fibrøse. I de kilder, der er brugt her, behandles de ikke som giftige, men de samles ikke til mad.",
+      "confusion": "Andre stjernebolde kan ligne. Geastrum saccatum er i almindelighed mindre (cirka 2–5 cm i udbredt tilstand) og danner sædvanligvis ingen tydelig krave; de to arter kan uden mikroskop være svære at skille, og nogle europæiske kilder har behandlet dem som synonymer, men Index Fungorum holder dem adskilt. Geastrum lageniforme er makroskopisk ligeledes lignende og genetisk forskellig. Geastrum fimbriatum er mindre, med en dunet grå sporesæk og uden krave. Astraeus hygrometricus (allerede i dette katalog) er en stjerneboldlignende svamp fra en anden familie, med hygroskopiske lapper der åbner og lukker med fugtigheden, og er ikke et Geastrum. Ingen af disse, og ingen anden Geastrum-art, må aliasses som Geastrum triplex.",
+      "notes": "Index Fungorum og Species Fungorum behandler Geastrum triplex Jungh. (1840; oprindeligt offentliggjort som Geaster triplex) som det gældende navn, IF 119601. Species Fungorum opregner kun to infraspecifikke former (f. pedicellatum og f. roseum), som ikke gemmes som synonymer. Navne som Geastrum michelianum, Geastrum saccatum, Geastrum indicum og Geastrum cryptorhynchum behandles her ikke som synonymer; flere af dem er gældende navne for andre arter i Index Fungorum. Typen stammer fra Java. Tavlen er en AI-genereret illustration, ikke en historisk offentliggjort figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.naturbasen.dk/art/3504/koedet-stjernebold"
+      ],
+      "label": "kødet stjernebold"
+    },
+    "de": {
+      "description": "Ein saprotropher Erdstern der Laubstreu in Laub- und Mischwäldern, gelegentlich auch unter Nadelbäumen und häufig an Hängen. Er ist in Europa weit verbreitet und wird auch aus anderen gemäßigten und subtropischen Gebieten gemeldet. Er ist der größte der häufigen Erdsterne; eine sichere Trennung von ähnlichen Arten, vor allem von Geastrum saccatum und Geastrum lageniforme, kann Erfahrung und mitunter ein Mikroskop erfordern.",
+      "cap": "Der ungeöffnete Fruchtkörper ist ein teilweise im Boden steckendes, zwiebel- oder schnabelförmiges Ei, typischerweise 1–5 cm quer. Die äußere Wand reißt dann in 4–8 dicke, ocker- bis braune, nicht hygroskopische Lappen, die sich zurückbiegen und den Sporensack anheben; der ausgebreitete Fruchtkörper misst 5–10 cm über die Lappenspitzen, ausnahmsweise etwa 11,5 cm. Wenn die fleischige Schicht der Lappen aufreißt, sitzt der Sporensack oft in einem eigenen Kragen oder Teller, dem der deutsche Name Halskrausen-Erdstern gilt. Nicht jedes Exemplar bildet einen deutlichen Kragen.",
+      "hymenium": "Das fertile Gewebe ist eine Gleba im sitzenden, papierartigen Sporensack, der typischerweise 1–5 cm misst, graubraun bis braun ist und sich durch ein kleines, bewimpertes apikales Peristom öffnet, oft mit einem helleren Hof um die Mündung. Jung ist die Gleba weiß und fest; später wird sie zu einem dunkelbraunen Pulver. An einer freien Unterseite gibt es weder Lamellen noch Poren.",
+      "stipe": "Ein Stiel fehlt. Der Sporensack sitzt unmittelbar auf den Lappen oder im Kragen.",
+      "flesh": "Die junge Gleba ist weiß und fest, später braun und pulvrig. Die Lappen sind zunächst dick und fleischig und bekommen beim Zurückbiegen oft Risse. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Die Sporenmasse ist dunkelbraun. Die Sporen sind kugelig, 3,5–4,5 μm, und mit kleinen stacheligen Warzen besetzt.",
+      "habitat": "Er fruktifiziert nach Regen von August bis November, vor allem im Spätsommer und Herbst, am Boden in der Streu von Laubwäldern, besonders unter Buchen, und auch unter Nadelbäumen, oft an Hängen. Alte, langlebige Fruchtkörper können noch im Winter und im folgenden Frühjahr gefunden werden.",
+      "uses": "Die Fruchtkörper sind ungenießbar und ohne kulinarischen Wert: sie sind zäh und faserig. In den hier verwendeten Quellen gelten sie nicht als giftig, werden aber nicht als Speisepilze gesammelt.",
+      "confusion": "Andere Erdsterne können ähnlich aussehen. Geastrum saccatum ist in der Regel kleiner (etwa 2–5 cm im ausgebreiteten Zustand) und bildet gewöhnlich keinen deutlichen Kragen; beide Arten sind ohne Mikroskop mitunter schwer zu trennen, und einige europäische Quellen haben sie als Synonyme behandelt, Index Fungorum führt sie jedoch getrennt. Geastrum lageniforme ist makroskopisch ebenfalls ähnlich und genetisch verschieden. Geastrum fimbriatum ist kleiner, mit einem filzig-grauen Sporensack und ohne Kragen. Astraeus hygrometricus (bereits in diesem Katalog) ist ein erdsternähnlicher Pilz einer anderen Familie, mit hygroskopischen Lappen, die sich mit der Feuchte öffnen und schließen, und kein Geastrum. Keine dieser Arten und keine andere Geastrum-Art darf als Geastrum triplex aliasiert werden.",
+      "notes": "Index Fungorum und Species Fungorum behandeln Geastrum triplex Jungh. (1840; ursprünglich als Geaster triplex veröffentlicht) als den aktuellen Namen, IF 119601. Species Fungorum listet nur zwei infraspezifische Formen (f. pedicellatum und f. roseum), die nicht als Synonyme gespeichert werden. Namen wie Geastrum michelianum, Geastrum saccatum, Geastrum indicum und Geastrum cryptorhynchum gelten hier nicht als Synonyme; mehrere davon sind in Index Fungorum aktuelle Namen anderer Arten. Der Typus stammt von Java. Die Tafel ist eine KI-generierte Illustration, kein historisch veröffentlichtes Bild.",
+      "names": [
+        "Halskrausenerdstern",
+        "Halskrauser Erdstern"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Halskrausen-Erdstern",
+        "https://www.wikidata.org/wiki/Q1572277"
+      ],
+      "label": "Halskrausen-Erdstern"
+    },
+    "en": {
+      "description": "A saprotrophic earthstar of leaf litter in deciduous and mixed woods, sometimes under conifers and often on sloping ground. It is widespread in Europe and is also reported from other temperate and subtropical regions. It is the largest common earthstar; confident separation from similar species, especially Geastrum saccatum and Geastrum lageniforme, can require experience and, at times, a microscope.",
+      "cap": "The unopened fruit body is a partially buried, onion-shaped or beaked egg, typically 1–5 cm across. The outer wall then splits into 4–8 thick, buff to brown, non-hygroscopic rays that fold back, raising the spore sac; the expanded fruit body is 5–10 cm across the ray tips, exceptionally to about 11.5 cm. As the fleshy layer of the rays cracks, the spore sac is often left sitting in a separate collar or saucer, which gives the species its English names. Not every specimen forms a clear collar.",
+      "hymenium": "The fertile tissue is a gleba inside the sessile, papery spore sac, which is typically 1–5 cm across, grey-brown to brown, and opens by a small, fringed apical peristome, often with a paler zone around the mouth. When young the gleba is white and firm; it becomes a dark-brown powder. There are no gills and no pores on an exposed underside.",
+      "stipe": "There is no stem. The spore sac sits directly on the rays or in the collar.",
+      "flesh": "Young gleba is white and firm, later brown and powdery. The rays are thick and fleshy at first, and often develop cracks and fissures as they bend. The smell and taste are not distinctive.",
+      "sporePrint": "The spore mass is dark brown. The spores are globose, 3.5–4.5 μm, and covered with small spiny warts.",
+      "habitat": "It fruits after rain from August to November, most often in late summer and autumn, on the ground among leaf litter in deciduous woods, especially with beech, and also under conifers, often on slopes. Old, persistent fruit bodies may still be found in winter and into the following spring.",
+      "uses": "The fruit bodies are inedible and have no culinary value: they are tough and fibrous. They are not treated as poisonous in the sources used here, but they are not gathered for food.",
+      "confusion": "Other earthstars can look similar. Geastrum saccatum is generally smaller (about 2–5 cm across when expanded) and does not usually form a distinct collar; the two species are sometimes hard to tell apart without a microscope, and some European sources have treated them as synonyms, but Index Fungorum keeps them separate. Geastrum lageniforme is also macroscopically similar and genetically distinct. Geastrum fimbriatum is smaller, with a downy grey spore sac and no collar. Astraeus hygrometricus (already in this catalog) is an earthstar-like fungus of a different family, with hygroscopic rays that open and close with moisture, and it is not a Geastrum. Do not alias any of these, or any other Geastrum species, as Geastrum triplex.",
+      "notes": "Index Fungorum and Species Fungorum treat Geastrum triplex Jungh. (1840; originally published as Geaster triplex) as the current name, IF 119601. Species Fungorum lists only two infraspecific forms (f. pedicellatum and f. roseum), which are not stored as synonyms. Names such as Geastrum michelianum, Geastrum saccatum, Geastrum indicum and Geastrum cryptorhynchum are not treated here as synonyms; several of them are current names of other species in Index Fungorum. The type is from Java. The plate is an AI-generated illustration, not a historical published figure.",
+      "names": [
+        "saucered earthstar",
+        "triple earthstar"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=119601",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=119601",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=119601",
+        "https://www.gbif.org/species/2554367",
+        "https://www.wikidata.org/wiki/Q1572277",
+        "https://www.mushroomexpert.com/geastrum_triplex.html",
+        "https://www.first-nature.com/fungi/geastrum-triplex.php",
+        "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/collared-earthstar/",
+        "https://en.wikipedia.org/wiki/Geastrum_triplex",
+        "https://species.wikimedia.org/wiki/Geastrum_triplex",
+        "https://www.inaturalist.org/taxa/63076-Geastrum-triplex",
+        "https://www.myko.cz/myko-atlas/Geastrum-triplex/"
+      ],
+      "label": "collared earthstar"
+    },
+    "es": {
+      "description": "Una estrella de tierra saprotrófica de la hojarasca en bosques caducifolios y mixtos, a veces bajo coníferas y a menudo en pendientes. Está ampliamente extendida en Europa y se cita también de otras regiones templadas y subtropicales. Es la mayor de las estrellas de tierra comunes; la separación segura de especies parecidas, en especial Geastrum saccatum y Geastrum lageniforme, puede exigir experiencia y, a veces, un microscopio.",
+      "cap": "El cuerpo fructífero aún cerrado es un huevo parcialmente enterrado, de forma de cebolla o de pico, típicamente de 1–5 cm de diámetro. La pared externa se abre entonces en 4–8 lóbulos gruesos, ante a pardos, no higroscópicos, que se repliegan y elevan el saco esporal; el cuerpo expandido mide 5–10 cm de punta a punta, excepcionalmente unos 11,5 cm. Cuando la capa carnosa de los lóbulos se agrieta, el saco suele quedar sentado en un collar o platillo independiente. No todos los ejemplares forman un collar nítido.",
+      "hymenium": "El tejido fértil es una gleba dentro del saco esporal sésil y papiráceo, típicamente de 1–5 cm, pardo grisáceo a pardo, que se abre por un pequeño perístoma apical flecado, a menudo con una zona más pálida alrededor de la boca. De joven la gleba es blanca y firme; más tarde se convierte en un polvo pardo oscuro. No hay láminas ni poros en un envés expuesto.",
+      "stipe": "No hay pie. El saco esporal se asienta directamente sobre los lóbulos o en el collar.",
+      "flesh": "La gleba joven es blanca y firme, luego parda y polvorienta. Los lóbulos son al principio gruesos y carnosos y a menudo se agrietan al replegarse. El olor y el sabor no son distintivos.",
+      "sporePrint": "La masa esporal es pardo oscura. Las esporas son globosas, de 3,5–4,5 μm, cubiertas de pequeñas verrugas espinosas.",
+      "habitat": "Fructifica después de la lluvia de agosto a noviembre, sobre todo a finales del verano y en otoño, en el suelo entre la hojarasca de bosques caducifolios, especialmente con haya, y también bajo coníferas, a menudo en pendientes. Cuerpos viejos y persistentes pueden encontrarse todavía en invierno y en la primavera siguiente.",
+      "uses": "Los cuerpos fructíferos son incomestibles y no tienen valor culinario: son duros y fibrosos. En las fuentes usadas aquí no se tratan como tóxicos, pero no se recolectan para comer.",
+      "confusion": "Otras estrellas de tierra pueden parecerse. Geastrum saccatum es por lo general más pequeña (unos 2–5 cm una vez expandida) y no suele formar un collar nítido; ambas especies a veces son difíciles de separar sin microscopio, y algunas fuentes europeas las han tratado como sinónimos, pero Index Fungorum las mantiene distintas. Geastrum lageniforme es también similar a simple vista y genéticamente distinta. Geastrum fimbriatum es más pequeña, con un saco gris aterciopelado y sin collar. Astraeus hygrometricus (ya en este catálogo) es un hongo de aspecto de estrella de otra familia, con lóbulos higroscópicos que se abren y cierran con la humedad, y no es un Geastrum. Ninguna de estas, ni ninguna otra especie de Geastrum, debe aliasarse como Geastrum triplex.",
+      "notes": "Index Fungorum y Species Fungorum tratan Geastrum triplex Jungh. (1840; publicado originalmente como Geaster triplex) como el nombre actual, IF 119601. Species Fungorum lista solo dos formas infraespecíficas (f. pedicellatum y f. roseum), que no se almacenan como sinónimos. Nombres como Geastrum michelianum, Geastrum saccatum, Geastrum indicum y Geastrum cryptorhynchum no se tratan aquí como sinónimos; varios de ellos son nombres actuales de otras especies en Index Fungorum. El tipo procede de Java. La lámina es una ilustración generada por inteligencia artificial, no una figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Saprotroofne maatäht lehe- ja segametsade varises, vahel ka okaspuude all ja sageli nõlvadel. Ta on Euroopas laialt levinud ja teda on teada ka teistest parasvöötme ja lähistroopilistest piirkondadest. See on tavaliste maatähtede seas suurim; kindel eristamine sarnastest liikidest, eriti Geastrum saccatumist ja Geastrum lageniformest, võib nõuda kogemust ja mõnikord mikroskoopi.",
+      "cap": "Avamata viljakeha on osaliselt maasse vajunud, sibula- või nokakujuline muna, tavaliselt 1–5 cm lai. Välissein lõheneb seejärel 4–8 paksuks, ookri- kuni pruuniks, mittehügroskoopseks kiireks, mis painduvad tahapoole ja tõstavad eospussi; avanenud viljakeha on 5–10 cm kiirte otste vahel, erandlikult umbes 11,5 cm. Kui kiirte lihakas kiht praguneb, jääb eospuss sageli eraldi kraesse või taldrikusse. Iga isend ei moodusta selget kraed.",
+      "hymenium": "Viljakas kude on gleba istuvas, paberjas eospussis, tavaliselt 1–5 cm, hallikaspruunist pruunini, mis avaneb väikese narmasja tipmise peristoomi kaudu, sageli suudme ümber heledama vööndiga. Noor gleba on valge ja tihe; hiljem muutub see tumepruuniks pulbriks. Paljastatud alumisel poolel ei ole eoseid kandvaid eoslehti ega torukesi.",
+      "stipe": "Jalga ei ole. Eospuss istub otse kiirtel või kraes.",
+      "flesh": "Noor gleba on valge ja tihe, hiljem pruun ja pulberjas. Kiired on algul paksud ja lihakad ning paindumisel sageli pragunevad. Lõhn ja maitse ei ole iseloomulikud.",
+      "sporePrint": "Eospulber on tumepruun. Eosed on kerajad, 3,5–4,5 μm, kaetud väikeste ogaliste näsakestega.",
+      "habitat": "Viljub pärast vihma augustist novembrini, kõige sagedamini suve lõpus ja sügisel, maapinnal lehtmetsade varises, eriti pöögi all, ja ka okaspuude all, sageli nõlvadel. Vanu, püsivaid viljakehi võib leida veel talvel ja järgmisel kevadel.",
+      "uses": "Viljakehad on mittesöödavad ja ilma kulinaarse väärtuseta: need on sitked ja kiulised. Siin kasutatud allikates ei käsitleta neid mürgistena, kuid toiduks neid ei korjata.",
+      "confusion": "Teised maatähed võivad sarnaneda. Geastrum saccatum on üldiselt väiksem (umbes 2–5 cm avanenult) ja tavaliselt ei moodusta selget kraed; neid kahte liiki on ilma mikroskoobita vahel raske eristada ning mõned Euroopa allikad on neid käsitlenud sünonüümidena, kuid Index Fungorum hoiab neid eraldi. Geastrum lageniforme on makroskoopiliselt samuti sarnane ja geneetiliselt erinev. Geastrum fimbriatum on väiksem, koheva halli eospussi ja ilma kraeta. Astraeus hygrometricus (juba selles kataloogis) on maatähe moodi seen teisest sugukonnast, hügroskoopsete kiirtega, mis avanevad ja sulguvad niiskuse järgi, ja ei ole Geastrum. Ühtegi neist ega ühtegi teist Geastrum'i liiki ei tohi aliaserida kui Geastrum triplex.",
+      "notes": "Index Fungorum ja Species Fungorum käsitlevad nime Geastrum triplex Jungh. (1840; algselt avaldatud kui Geaster triplex) kehtiva nime, IF 119601. Species Fungorum loetleb ainult kaks liigisisest vormi (f. pedicellatum ja f. roseum), mida ei salvestata sünonüümidena. Nimesid nagu Geastrum michelianum, Geastrum saccatum, Geastrum indicum ja Geastrum cryptorhynchum ei käsitleta siin sünonüümidena; mitmed neist on Index Fungorumis teiste liikide kehtivad nimed. Tüüp pärineb Jaavalt. Tahvel on tehisintellekti loodud illustratsioon, mitte ajalooliselt avaldatud joonis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "ستاره خاکی ساپروتروف لاشبرگ در جنگل‌های پهن‌برگ و آمیخته، گاهی زیر سوزنی‌برگان و اغلب در شیب‌ها. در اروپا گسترده است و از دیگر مناطق معتدل و نیمه‌گرمسیری نیز گزارش شده است. بزرگ‌ترین ستاره خاکی رایج است؛ جداسازی مطمئن از گونه‌های مشابه، به‌ویژه Geastrum saccatum و Geastrum lageniforme، ممکن است به تجربه و گاه به میکروسکوپ نیاز داشته باشد.",
+      "cap": "بدن میوه‌ای نَشکفته تخمی است که تا حدی در خاک فرو رفته، به شکل پیاز یا منقار، معمولاً ۱–۵ سانتی‌متر پهنا دارد. دیواره بیرونی سپس به ۴–۸ بازوی ضخیم، نخودی تا قهوه‌ای و غیرهیگروسکوپیک شکافته می‌شود که به عقب خم شده کیسه هاگ را بالا می‌برند؛ بدن گسترده میان نوک بازوها ۵–۱۰ سانتی‌متر، به‌ندرت نزدیک ۱۱٫۵ سانتی‌متر است. وقتی لایه گوشتی بازوها ترک می‌خورد، کیسه هاگ اغلب در یقه‌ یا نعلبکی جداگانه‌ای می‌نشیند، و همین منشأ نام قارچ فندقی سه‌گانه است. همه نمونه‌ها یقهٔ آشکاری تشکیل نمی‌دهند.",
+      "hymenium": "بافت بارور گِلبا در درون کیسه هاگ بدون پایه و کاغذی است، معمولاً ۱–۵ سانتی‌متر، خاکستری-قهوه‌ای تا قهوه‌ای، که از دهانهٔ کوچک و ریشه‌دار راسی (پریستوم) باز می‌شود، اغلب با نواری کم‌رنگ‌تر پیرامون دهان. گلبای جوان سفید و سفت است؛ سپس به گرد قهوه‌ای تیره بدل می‌شود. در سطح زیرین آشکار، تیغه یا منفذی نیست.",
+      "stipe": "ساقه وجود ندارد. کیسه هاگ مستقیماً روی بازوها یا در یقه می‌نشیند.",
+      "flesh": "گلبای جوان سفید و سفت است، سپس قهوه‌ای و پودری می‌شود. بازوها در آغاز ضخیم و گوشتی‌اند و هنگام خم شدن اغلب ترک می‌خورند. بو و طعم مشخص نیست.",
+      "sporePrint": "توده هاگ قهوه‌ای تیره است. هاگ‌ها کروی‌اند، ۳٫۵–۴٫۵ میکرومتر، و با زگیل‌های خاردار کوچک پوشیده شده‌اند.",
+      "habitat": "پس از باران از اوت تا نوامبر میوه می‌دهد، بیشتر در اواخر تابستان و پاییز، روی زمین در لاشبرگ جنگل‌های پهن‌برگ، به‌ویژه زیر راش، و نیز زیر سوزنی‌برگان، اغلب در شیب‌ها. بدن‌های کهنه و پایدار را هنوز می‌توان در زمستان و بهار بعد یافت.",
+      "uses": "بدن‌های میوه‌ای خوراکی نیستند و ارزش آشپزی ندارند: سفت و الیافی‌اند. در منابع به‌کاررفته در اینجا سمی شمرده نشده‌اند، اما برای خوراک گردآوری نمی‌شوند.",
+      "confusion": "ستاره‌های خاکی دیگر ممکن است شبیه باشند. Geastrum saccatum معمولاً کوچک‌تر است (حدود ۲–۵ سانتی‌متر در حالت گسترده) و معمولاً یقهٔ مشخصی نمی‌سازد؛ این دو گونه گاهی بدون میکروسکوپ سخت از هم جدا می‌شوند و برخی منابع اروپایی آن‌ها را مترادف دانسته‌اند، اما Index Fungorum آن‌ها را جدا نگه می‌دارد. Geastrum lageniforme نیز از نظر ظاهری مشابه و از نظر ژنتیکی متمایز است. Geastrum fimbriatum کوچک‌تر است، با کیسه هاگ خاکستری کرک‌دار و بدون یقه. Astraeus hygrometricus (از پیش در این فهرست) قارچی ستاره‌مانند از خانواده‌ای دیگر است، با بازوهای هیگروسکوپیک که با رطوبت باز و بسته می‌شوند، و Geastrum نیست. هیچ‌یک از این‌ها، و هیچ گونهٔ دیگر Geastrum، نباید به‌عنوان نام مستعار Geastrum triplex ثبت شود.",
+      "notes": "Index Fungorum و Species Fungorum نام Geastrum triplex Jungh. (۱۸۴۰؛ در اصل به‌صورت Geaster triplex منتشر شده) را نام جاری می‌دانند، IF 119601. Species Fungorum تنها دو شکل فروگونه را فهرست می‌کند (f. pedicellatum و f. roseum) که به‌عنوان مترادف ذخیره نمی‌شوند. نام‌هایی مانند Geastrum michelianum، Geastrum saccatum، Geastrum indicum و Geastrum cryptorhynchum در اینجا مترادف شمرده نمی‌شوند؛ چندتای آن‌ها در Index Fungorum نام جاری گونه‌های دیگرند. نمونهٔ تیپ از جاوه است. صفحه، تصویر تولیدشده با هوش مصنوعی است، نه نگاره‌ای تاریخی منتشرشده.",
+      "names": [],
+      "sourceUrls": [
+        "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%DA%86_%D9%81%D9%86%D8%AF%D9%82%DB%8C_%D8%B3%D9%87%E2%80%8C%DA%AF%D8%A7%D9%86%D9%87"
+      ],
+      "label": "قارچ فندقی سه‌گانه"
+    },
+    "fi": {
+      "description": "Karikkeen saprotrofinen maatähti lehti- ja sekametsissä, joskus myös havupuiden alla ja usein rinteillä. Laji on laajalle levinnyt Euroopassa ja sitä ilmoitetaan myös muilta lauhkeilta ja subtrooppisilta alueilta. Se on tavallisista maatähdistä kookkain; luotettava erottaminen samankaltaisista lajeista, erityisesti Geastrum saccatumista ja Geastrum lageniformesta, voi vaatia kokemusta ja toisinaan mikroskooppia.",
+      "cap": "Avautumaton itiöemä on osittain maahan uponnut, sipulin- tai nokkamainen muna, tyypillisesti 1–5 cm leveä. Ulkoseinä halkeaa sitten 4–8 paksuksi, kellanruskeaksi tai ruskeaksi, ei-hygroskooppiseksi säteeksi, jotka kääntyvät taakse ja nostavat itiöpussin; avautunut itiöemä on 5–10 cm säteiden kärkien poikki, poikkeuksellisesti noin 11,5 cm. Kun säteiden lihaisa kerros halkeilee, itiöpussi jää usein erilliseen kaulukseen tai lautaseen, josta nimi kaulusmaatähti tulee. Kaikille yksilöille ei muodostu selvää kaulusta.",
+      "hymenium": "Itiöitä tuottava kudos on gleba istuvassa, paperimaisessa itiöpussissa, joka on tyypillisesti 1–5 cm, harmaanruskea tai ruskea, ja avautuu pienestä, ripsisestä latvaperistomista, usein suuta ympäröivällä vaaleammalla vyöhykkeellä. Nuori gleba on valkoinen ja kiinteä; myöhemmin siitä tulee tummanruskeaa jauhetta. Paljastuneella alapinnalla ei ole heltoja eikä pillistöä.",
+      "stipe": "Jalkaa ei ole. Itiöpussi istuu suoraan säteillä tai kauluksessa.",
+      "flesh": "Nuori gleba on valkoinen ja kiinteä, myöhemmin ruskea ja jauheinen. Säteet ovat aluksi paksuja ja lihaisia ja halkeilevat usein taipuessaan. Haju ja maku eivät ole erottuvia.",
+      "sporePrint": "Itiömassa on tummanruskea. Itiöt ovat pallomaisia, 3,5–4,5 μm, ja peittyneet pienillä piikkisillä syylillä.",
+      "habitat": "Laji itiöi sateen jälkeen elokuusta marraskuuhun, useimmiten loppukesällä ja syksyllä, maassa lehtimetsien karikkeessa, etenkin pyökin alla, sekä havupuiden alla, usein rinteillä. Vanhoja, kestäviä itiöemiä voi löytyä vielä talvella ja seuraavana keväänä.",
+      "uses": "Itiöemät ovat syötäviä kelpaamattomia eikä niillä ole ruokakäyttöä: ne ovat sitkeitä ja kuituisia. Tässä käytetyissä lähteissä niitä ei pidetä myrkyllisinä, mutta niitä ei kerätä ruoaksi.",
+      "confusion": "Muut maatähdet voivat näyttää samalta. Geastrum saccatum on yleensä pienempi (noin 2–5 cm avautuneena) eikä yleensä muodosta selvää kaulusta; lajit on ilman mikroskooppia toisinaan vaikea erottaa, ja jotkin eurooppalaiset lähteet ovat pitäneet niitä synonyymeinä, mutta Index Fungorum pitää ne erillään. Geastrum lageniforme on makroskooppisesti samoin samankaltainen ja geneettisesti erillinen. Geastrum fimbriatum on pienempi, nukkaisella harmaalla itiöpussilla eikä kaulusta ole. Astraeus hygrometricus (jo tässä luettelossa) on maatähteä muistuttava sieni eri heimosta, hygroskooppisin sätein, jotka avautuvat ja sulkeutuvat kosteuden mukaan, eikä se ole Geastrum. Näitä eikä mitään muuta Geastrum-lajia pidä aliasoida nimellä Geastrum triplex.",
+      "notes": "Index Fungorum ja Species Fungorum pitävät nimeä Geastrum triplex Jungh. (1840; alun perin julkaistu nimellä Geaster triplex) nykyisenä nimenä, IF 119601. Species Fungorum luettelee vain kaksi infraspesifistä muotoa (f. pedicellatum ja f. roseum), joita ei tallenneta synonyymeiksi. Nimiä kuten Geastrum michelianum, Geastrum saccatum, Geastrum indicum ja Geastrum cryptorhynchum ei käsitellä tässä synonyymeinä; useat niistä ovat Index Fungorumissa muiden lajien nykyisiä nimiä. Tyyppi on Jaavalta. Kuvataulu on tekoälyn tuottama kuvitus, ei historiallinen julkaistu kuva.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Kaulusmaat%C3%A4hti"
+      ],
+      "label": "kaulusmaatähti"
+    },
+    "fr": {
+      "description": "Un géastre saprotrophe de la litière dans les bois de feuillus et mixtes, parfois sous les conifères et souvent sur des pentes. Il est largement répandu en Europe et signalé aussi dans d’autres régions tempérées et subtropicales. C’est le plus grand des géastres communs ; une distinction sûre d’espèces proches, surtout Geastrum saccatum et Geastrum lageniforme, peut exiger de l’expérience et parfois un microscope.",
+      "cap": "Le sporophore encore fermé est un œuf partiellement enterré, en forme d’oignon ou de bec, typiquement de 1 à 5 cm de diamètre. La paroi externe se fend ensuite en 4 à 8 lanières épaisses, fauves à brunes, non hygroscopiques, qui se rabattent et soulèvent le sac sporifère ; le sporophore étalé mesure 5–10 cm d’une pointe à l’autre, exceptionnellement jusqu’à environ 11,5 cm. Lorsque la couche charnue des lanières se fendille, le sac sporifère reste souvent posé dans un col ou une soucoupe distincts, d’où le nom de géastre à trois enveloppes. Tous les spécimens ne forment pas un col net.",
+      "hymenium": "Le tissu fertile est une gléba à l’intérieur du sac sporifère sessile et papyracé, typiquement de 1 à 5 cm, gris-brun à brun, s’ouvrant par un petit péristome apical frangé, souvent entouré d’une zone plus pâle. Jeune, la gléba est blanche et ferme ; elle devient ensuite une poudre brun foncé. Il n’y a ni lames ni pores sur une face inférieure exposée.",
+      "stipe": "Il n’y a pas de pied. Le sac sporifère repose directement sur les lanières ou dans le col.",
+      "flesh": "La gléba jeune est blanche et ferme, plus tard brune et poudreuse. Les lanières sont d’abord épaisses et charnues et se fendillent souvent en se rabattant. L’odeur et la saveur ne sont pas distinctives.",
+      "sporePrint": "La masse sporale est brun foncé. Les spores sont globuleuses, de 3,5–4,5 μm, couvertes de petites verrues épineuses.",
+      "habitat": "Il fructifie après la pluie d’août à novembre, surtout en fin d’été et en automne, au sol dans la litière des bois de feuillus, en particulier sous le hêtre, et aussi sous les conifères, souvent sur des pentes. D’anciens sporophores persistants peuvent encore se trouver en hiver et jusqu’au printemps suivant.",
+      "uses": "Les sporophores sont immangeables et n’ont aucune valeur culinaire : ils sont coriaces et fibreux. Les sources utilisées ici ne les traitent pas comme toxiques, mais on ne les récolte pas pour la table.",
+      "confusion": "D’autres géastres peuvent se ressembler. Geastrum saccatum est en général plus petit (environ 2–5 cm une fois étalé) et ne forme généralement pas de col distinct ; les deux espèces sont parfois difficiles à séparer sans microscope, et certaines sources européennes les ont traitées comme synonymes, mais Index Fungorum les maintient distinctes. Geastrum lageniforme est également voisin au plan macroscopique et génétiquement distinct. Geastrum fimbriatum est plus petit, avec un sac sporifère gris et duveteux, sans col. Astraeus hygrometricus (déjà dans ce catalogue) est un champignon en étoile d’une autre famille, aux lanières hygroscopiques qui s’ouvrent et se ferment selon l’humidité, et ce n’est pas un Geastrum. Aucune de ces espèces, ni aucun autre Geastrum, ne doit être aliasé comme Geastrum triplex.",
+      "notes": "Index Fungorum et Species Fungorum traitent Geastrum triplex Jungh. (1840 ; publié à l’origine comme Geaster triplex) comme le nom actuel, IF 119601. Species Fungorum ne liste que deux formes infraspécifiques (f. pedicellatum et f. roseum), qui ne sont pas stockées comme synonymes. Des noms tels que Geastrum michelianum, Geastrum saccatum, Geastrum indicum et Geastrum cryptorhynchum ne sont pas traités ici comme synonymes ; plusieurs d’entre eux sont des noms actuels d’autres espèces dans Index Fungorum. Le type provient de Java. La planche est une illustration générée par intelligence artificielle, et non une figure historique publiée.",
+      "names": [
+        "géastre à trois couches"
+      ],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Geastrum_triplex"
+      ],
+      "label": "géastre à trois enveloppes"
+    },
+    "he": {
+      "description": "כוכב־אדמה ספרוטרופי של שכבת העלים ביערות נשירים ומעורבים, לעיתים גם מתחת למחטניים ולעיתים קרובות במדרונות. הוא נפוץ באירופה ומדווח גם מאזורים ממוזגים וסובטרופיים אחרים. זהו הגדול שבכוכבי האדמה הנפוצים; הבחנה ודאית ממינים דומים, ובמיוחד מ־Geastrum saccatum ומ־Geastrum lageniforme, עשויה לדרוש ניסיון ולעיתים מיקרוסקופ.",
+      "cap": "גוף הפרי שטרם נפתח הוא ביצה הטמונה חלקית באדמה, בצורת בצל או מקור, בדרך כלל ברוחב 1–5 ס\"מ. הקיר החיצוני נבקע אחר כך ל־4–8 זרועות עבות, בצבע חום־צהבהב עד חום, שאינן היגרוסקופיות, שמתקפלות לאחור ומרימות את שק הנבגים; גוף הפרי הפרוש הוא 5–10 ס\"מ בין קצות הזרועות, ובמקרים חריגים כ־11.5 ס\"מ. כאשר השכבה הבשרנית של הזרועות נסדקת, שק הנבגים נותר לעיתים קרובות יושב בצווארון או בתחתית נפרדים. לא כל פרט יוצר צווארון ברור.",
+      "hymenium": "הרקמה הפורייה היא גלבה בתוך שק נבגים יושב ודמוי נייר, בדרך כלל 1–5 ס\"מ, אפור־חום עד חום, הנפתח בפריסטום קודקודי קטן ומצויץ, לעיתים קרובות עם אזור בהיר יותר סביב הפה. הגלבה הצעירה לבנה ומוצקה; אחר כך היא הופכת לאבקה חומה־כהה. אין דפים ואין נקבים בצד תחתון חשוף.",
+      "stipe": "אין רגל. שק הנבגים יושב ישירות על הזרועות או בצווארון.",
+      "flesh": "הגלבה הצעירה לבנה ומוצקה, אחר כך חומה ואבקית. הזרועות עבות ובשרניות בהתחלה, ולעיתים קרובות נסדקות כשהן מתקפלות. הריח והטעם אינם אופייניים.",
+      "sporePrint": "מסת הנבגים חומה־כהה. הנבגים כדוריים, 3.5–4.5 מיקרומטר, מכוסים ביבלות קוצניות קטנות.",
+      "habitat": "הוא מניב לאחר גשם מאוגוסט עד נובמבר, לרוב בסוף הקיץ ובסתיו, על הקרקע בשכבת העלים של יערות נשירים, במיוחד תחת אשור, וגם תחת מחטניים, לעיתים קרובות במדרונות. גופי פרי ישנים ועמידים עדיין יכולים להימצא בחורף ובאביב שאחריו.",
+      "uses": "גופי הפרי אינם ראויים למאכל ואין להם ערך קולינרי: הם קשיחים וסיביים. במקורות שבהם נעשה כאן שימוש הם אינם מטופלים כרעילים, אך אין אוספים אותם למאכל.",
+      "confusion": "כוכבי אדמה אחרים עשויים להיראות דומים. Geastrum saccatum קטן בדרך כלל יותר (כ־2–5 ס\"מ במצב פרוש) ואינו יוצר בדרך כלל צווארון ברור; שני המינים קשים לעיתים להבחנה בלי מיקרוסקופ, ומקורות אירופיים אחדים טיפלו בהם כמילים נרדפות, אך Index Fungorum מפריד ביניהם. Geastrum lageniforme דומה גם הוא במאקרו ומבדל גנטית. Geastrum fimbriatum קטן יותר, עם שק נבגים אפור שעיר ובלי צווארון. Astraeus hygrometricus (כבר בקטלוג זה) הוא פטרייה דמוית כוכב־אדמה ממשפחה אחרת, עם זרועות היגרוסקופיות שנפתחות ונסגרות לפי הלחות, ואינו Geastrum. אין לאלס אף אחד מאלה, או כל מין אחר של Geastrum, כ־Geastrum triplex.",
+      "notes": "Index Fungorum ו־Species Fungorum מתייחסים אל Geastrum triplex Jungh. (1840; פורסם במקור כ־Geaster triplex) כאל השם הנוכחי, IF 119601. Species Fungorum מציין רק שתי צורות תוך־מיניות (f. pedicellatum ו־f. roseum), שאינן נשמרות כמילים נרדפות. שמות כמו Geastrum michelianum, Geastrum saccatum, Geastrum indicum ו־Geastrum cryptorhynchum אינם מטופלים כאן כמילים נרדפות; כמה מהם הם שמות נוכחיים של מינים אחרים ב־Index Fungorum. הטיפוס הוא מג'אווה. הלוח הוא איור שנוצר בבינה מלאכותית, ולא דמות היסטורית שפורסמה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "पतझड़ी और मिश्रित वनों की पत्ती-कचरे में उगने वाला एक मृतजीवी पृथ्वी-तारा, कभी-कभी शंकुधारियों के नीचे और अक्सर ढलानों पर। यह यूरोप में व्यापक है और अन्य शीतोष्ण तथा उपोष्ण कटिबंधीय क्षेत्रों से भी बताया जाता है। यह आम पृथ्वी-तारों में सबसे बड़ा है; समान प्रजातियों, विशेषकर Geastrum saccatum और Geastrum lageniforme, से विश्वस्त अंतर अनुभव और कभी-कभी सूक्ष्मदर्शी की माँग कर सकता है।",
+      "cap": "अनखुला फलन-काय आंशिक रूप से मिट्टी में धँसा, प्याज़ या चोंच के आकार का अंडा होता है, आमतौर पर 1–5 सेमी चौड़ा। बाहरी दीवार फिर 4–8 मोटी, खाकी से भूरी, अ-आर्द्रताग्राही किरणों में फटती है, जो पीछे मुड़कर बीजाणु-थैली को उठाती हैं; फैला हुआ फलन-काय किरणों के सिरों के बीच 5–10 सेमी होता है, अपवादस्वरूप लगभग 11.5 सेमी। जब किरणों की मांसल परत फटती है, तो बीजाणु-थैली अक्सर एक अलग कॉलर या तश्तरी में बैठी रहती है। हर नमूना स्पष्ट कॉलर नहीं बनाता।",
+      "hymenium": "उर्वर ऊतक बैठे, काग़ज़ी बीजाणु-थैली के अंदर ग्लेबा है, आमतौर पर 1–5 सेमी, धूसर-भूरा से भूरा, जो एक छोटे, झालरदार शीर्ष पेरिस्टोम से खुलता है, अक्सर मुँह के चारों ओर हल्के क्षेत्र के साथ। युवा ग्लेबा सफ़ेद और ठोस होता है; बाद में यह गहरा भूरा चूर्ण बन जाता है। खुली निचली सतह पर न गिल्स हैं, न छिद्र।",
+      "stipe": "दण्ड नहीं होता। बीजाणु-थैली सीधे किरणों पर या कॉलर में बैठती है।",
+      "flesh": "युवा ग्लेबा सफ़ेद और ठोस होता है, बाद में भूरा और चूर्णिल। किरणें पहले मोटी और मांसल होती हैं और मुड़ते समय अक्सर फट जाती हैं। गंध और स्वाद विशिष्ट नहीं हैं।",
+      "sporePrint": "बीजाणु-समूह गहरा भूरा होता है। बीजाणु गोलाकार होते हैं, 3.5–4.5 μm, छोटे काँटेदार मस्सों से ढके।",
+      "habitat": "यह वर्षा के बाद अगस्त से नवंबर तक फलता है, अधिकतर ग्रीष्म के अंत और शरद में, पतझड़ी वनों की पत्ती-कचरे में भूमि पर, विशेषकर बीच के नीचे, और शंकुधारियों के नीचे भी, अक्सर ढलानों पर। पुराने, टिकाऊ फलन-काय सर्दी और अगले वसंत में भी मिल सकते हैं।",
+      "uses": "फलन-काय अखाद्य हैं और पाक-मूल्य नहीं रखते: वे सख्त और रेशेदार हैं। यहाँ प्रयुक्त स्रोतों में उन्हें विषैला नहीं माना गया, पर भोजन के लिए नहीं तोड़े जाते।",
+      "confusion": "अन्य पृथ्वी-तारे समान दिख सकते हैं। Geastrum saccatum आमतौर पर छोटा होता है (फैले होने पर लगभग 2–5 सेमी) और सामान्यतः स्पष्ट कॉलर नहीं बनाता; दोनों प्रजातियाँ सूक्ष्मदर्शी के बिना कभी-कभी कठिन से अलग होती हैं, और कुछ यूरोपीय स्रोतों ने उन्हें पर्याय माना, पर Index Fungorum उन्हें अलग रखता है। Geastrum lageniforme भी स्थूल रूप से समान और आनुवंशिक रूप से भिन्न है। Geastrum fimbriatum छोटा है, रोएँदार धूसर बीजाणु-थैली और बिना कॉलर के। Astraeus hygrometricus (इस सूची में पहले से) दूसरी कुल का तारा-जैसा कवक है, आर्द्रताग्राही किरणों के साथ जो नमी से खुलती-बंद होती हैं, और Geastrum नहीं है। इनमें से किसी को, या किसी अन्य Geastrum प्रजाति को, Geastrum triplex का उपनाम नहीं बनाना चाहिए।",
+      "notes": "Index Fungorum और Species Fungorum Geastrum triplex Jungh. (1840; मूल रूप से Geaster triplex के रूप में प्रकाशित) को वर्तमान नाम मानते हैं, IF 119601। Species Fungorum केवल दो अंतःप्रजातीय रूपों (f. pedicellatum और f. roseum) को सूचीबद्ध करता है, जिन्हें पर्याय के रूप में नहीं रखा जाता। Geastrum michelianum, Geastrum saccatum, Geastrum indicum और Geastrum cryptorhynchum जैसे नाम यहाँ पर्याय नहीं माने गए; उनमें से कई Index Fungorum में अन्य प्रजातियों के वर्तमान नाम हैं। प्ररूप जावा से है। पट्टिका कृत्रिम बुद्धिमत्ता से बना चित्र है, कोई ऐतिहासिक प्रकाशित आकृति नहीं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Saprotrofna zvjezdača stelje u listopadnima i mješovitim šumama, ponekad i pod crnogoricama i često na padinama. Široko je rasprostranjena u Europi i navodi se i iz drugih umjerenih i suptropskih područja. Najveća je među uobičajenim zvjezdačama; pouzdano razlikovanje od sličnih vrsta, osobito Geastrum saccatum i Geastrum lageniforme, može zahtijevati iskustvo, a ponekad i mikroskop.",
+      "cap": "Neotvoreno plodište je djelomično ukopano, lukovičasto ili kljunasto jaje, obično 1–5 cm široko. Vanjska stijenka zatim puca na 4–8 debelih, okrasto smeđih, nehigroskopnih krakova koji se savijaju unatrag i podižu trosnu vrećicu; rasprostrto plodište mjeri 5–10 cm između vrhova krakova, iznimno oko 11,5 cm. Kad mesnati sloj krakova popuca, trosna vrećica često ostane u zasebnom ovratniku ili tanjuriću. Nije svaki primjerak s jasnim ovratnikom.",
+      "hymenium": "Plodno tkivo je gleba unutar sjedeće, papiraste trosne vrećice, obično 1–5 cm, sivosmeđe do smeđe, koja se otvara malim, resastim vršnim peristomom, često sa svjetlijom zonom oko usta. Mlada gleba je bijela i čvrsta; kasnije postaje tamnosmeđi prah. Na otkrivenoj donjoj strani nema listića ni cjevčica.",
+      "stipe": "Stručka nema. Trosna vrećica sjedi izravno na krakovima ili u ovratniku.",
+      "flesh": "Mlada gleba je bijela i čvrsta, kasnije smeđa i praškasta. Kraci su isprva debeli i mesnati te pri savijanju često pucaju. Miris i okus nisu karakteristični.",
+      "sporePrint": "Trosni prah je tamnosmeđi. Trose su kuglaste, 3,5–4,5 μm, prekrivene sitnim bodljikavim bradavicama.",
+      "habitat": "Plodi nakon kiše od kolovoza do studenoga, najčešće kasnog ljeta i u jesen, na tlu u stelji listopadnih šuma, osobito pod bukvom, a i pod crnogoricama, često na padinama. Stara, trajna plodišta mogu se naći još zimi i sljedećeg proljeća.",
+      "uses": "Plodišta su nejestiva i bez kulinarske vrijednosti: žilava su i vlaknasta. U ovdje korištenim izvorima ne smatraju se otrovnima, ali se ne beru za jelo.",
+      "confusion": "Druge zvjezdače mogu izgledati slično. Geastrum saccatum općenito je manja (oko 2–5 cm u rasprostrtom stanju) i obično ne stvara jasan ovratnik; obje se vrste bez mikroskopa ponekad teško razlikuju, a neki europski izvori smatrali su ih sinonimima, no Index Fungorum ih vodi odvojeno. Geastrum lageniforme makroskopski je također slična i genetski različita. Geastrum fimbriatum je manja, s baršunasto sivom trosnom vrećicom i bez ovratnika. Astraeus hygrometricus (već u ovom katalogu) gljiva je nalik zvjezdači iz druge porodice, s higroskopnim krakovima koji se otvaraju i zatvaraju prema vlazi, i nije Geastrum. Nijednu od ovih, ni bilo koju drugu vrstu roda Geastrum, ne treba aliasirati kao Geastrum triplex.",
+      "notes": "Index Fungorum i Species Fungorum smatraju Geastrum triplex Jungh. (1840; izvorno objavljeno kao Geaster triplex) važećim imenom, IF 119601. Species Fungorum navodi samo dva unutarvrstna oblika (f. pedicellatum i f. roseum), koji se ne pohranjuju kao sinonimi. Imena kao Geastrum michelianum, Geastrum saccatum, Geastrum indicum i Geastrum cryptorhynchum ovdje se ne tretiraju kao sinonimi; neka od njih u Index Fungorumu su važeća imena drugih vrsta. Tip dolazi s Jave. Ploča je ilustracija stvorena umjetnom inteligencijom, a ne povijesna objavljena slika.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Szaprotróf csillaggomba az avarban lomblevelű és elegyes erdőkben, néha fenyők alatt is, gyakran lejtőkön. Európában széles körben elterjedt, és más mérsékelt és szubtrópusi tájakról is jelzik. A gyakori csillaggombák közül a legnagyobb; a hasonló fajoktól, különösen a Geastrum saccatumtól és a Geastrum lageniformétól való biztos elkülönítés tapasztalatot, olykor mikroszkópot is igényelhet.",
+      "cap": "A még zárt termőtest részben a talajba süllyedt, hagyma- vagy csőralakú tojás, tipikusan 1–5 cm széles. A külső fal ezután 4–8 vastag, okkeres-barna, nem higroszkópos karéjra hasad, amelyek hátrahajlanak és felemelik a spórazsákot; a kiterült termőtest a karéjcsúcsok között 5–10 cm, kivételesen mintegy 11,5 cm. Amikor a karéjok húsos rétege bereped, a spórazsák gyakran külön gallérban vagy tálkában ül, innen a hármas csillaggomba neve. Nem minden példányon alakul ki tiszta gallér.",
+      "hymenium": "A termőszövet gleba a ülő, papírszerű spórazsákban, tipikusan 1–5 cm, szürkésbarna vagy barna, amely kis, rojtos csúcsi perisztómán nyílik, gyakran halványabb gyűrűvel a száj körül. Fiatalon a gleba fehér és tömött; később sötétbarna porrá válik. Szabad alsó felületen nincsenek lemezek és csövek.",
+      "stipe": "Tönkje nincs. A spórazsák közvetlenül a karéjokon vagy a gallérban ül.",
+      "flesh": "A fiatal gleba fehér és tömött, később barna és lisztes. A karéjok eleinte vastagok és húsosak, és behajláskor gyakran berepednek. Szaga és íze nem jellemző.",
+      "sporePrint": "A spóratömeg sötétbarna. A spórák gömbölyűek, 3,5–4,5 μm, apró tüskés szemölcsökkel borítottak.",
+      "habitat": "Eső után augusztustól novemberig terem, leginkább nyár végén és ősszel, a talajon lomblevelű erdők avarjában, különösen bükk alatt, valamint fenyők alatt, gyakran lejtőkön. Régi, tartós termőtestek még télen és a következő tavasszal is megtalálhatók.",
+      "uses": "A termőtestek ehetetlenek, konyhai értékük nincs: szívósak és rostosak. Az itt használt források nem kezelik őket mérgezőként, de étkezésre nem gyűjtik.",
+      "confusion": "Más csillaggombák hasonlíthatnak rá. A Geastrum saccatum általában kisebb (kiterülve kb. 2–5 cm), és rendszerint nem képez tiszta gallért; a két faj mikroszkóp nélkül időnként nehezen különíthető el, és egyes európai források szinonimaként kezelték őket, az Index Fungorum azonban külön tartja. A Geastrum lageniforme makroszkóposan szintén hasonló és genetikailag elkülönül. A Geastrum fimbriatum kisebb, molyhos szürke spórazsákkal, gallér nélkül. Az Astraeus hygrometricus (már ebben a katalógusban) más családba tartozó, csillaggombára emlékeztető gomba, higroszkópos karéjokkal, amelyek a nedvességgel nyílnak és zárulnak, és nem Geastrum. Ezeket, és más Geastrum-fajt sem szabad Geastrum triplex aliasaként kezelni.",
+      "notes": "Az Index Fungorum és a Species Fungorum a Geastrum triplex Jungh. (1840; eredetileg Geaster triplexként közölt) nevet tekinti aktuálisnak, IF 119601. A Species Fungorum csak két fajon belüli alakot sorol fel (f. pedicellatum és f. roseum), ezeket nem tároljuk szinonimaként. Az olyan neveket, mint a Geastrum michelianum, Geastrum saccatum, Geastrum indicum és Geastrum cryptorhynchum, itt nem tekintjük szinonimáknak; többük az Index Fungorumban más fajok aktuális neve. A típus Jáváról származik. A tábla mesterséges intelligenciával készült illusztráció, nem történelmi, publikált ábra.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/H%C3%A1rmas_csillaggomba"
+      ],
+      "label": "hármas csillaggomba"
+    },
+    "id": {
+      "description": "Bintang tanah saprotrof pada seresah di hutan daun dan hutan campuran, kadang di bawah konifer dan sering di lereng. Spesies ini tersebar luas di Eropa dan juga dilaporkan dari wilayah beriklim sedang dan subtropis lainnya. Ini adalah bintang tanah umum yang terbesar; pemisahan yang yakin dari spesies serupa, terutama Geastrum saccatum dan Geastrum lageniforme, dapat memerlukan pengalaman dan kadang mikroskop.",
+      "cap": "Tubuh buah yang belum terbuka adalah telur berbentuk bawang atau paruh yang sebagian tertanam, biasanya 1–5 cm lebarnya. Dinding luar kemudian terbelah menjadi 4–8 jari tebal, berwarna gading hingga cokelat, tidak higroskopis, yang terlipat ke belakang dan mengangkat kantung spora; tubuh buah yang mengembang berukuran 5–10 cm antarujung jari, luar biasa hingga sekitar 11,5 cm. Ketika lapisan berdaging pada jari retak, kantung spora sering tertinggal di dalam kerah atau piringan terpisah. Tidak setiap spesimen membentuk kerah yang jelas.",
+      "hymenium": "Jaringan fertil adalah gleba di dalam kantung spora sesil yang seperti kertas, biasanya 1–5 cm, cokelat keabu-abuan hingga cokelat, yang terbuka melalui peristom apikal kecil yang berumbai, sering dengan zona lebih pucat di sekitar mulut. Gleba muda berwarna putih dan padat; kemudian menjadi serbuk cokelat tua. Tidak ada lamela atau pori pada sisi bawah yang terbuka.",
+      "stipe": "Tidak ada batang. Kantung spora duduk langsung pada jari atau di dalam kerah.",
+      "flesh": "Gleba muda berwarna putih dan padat, kemudian cokelat dan bertepung. Jari mula-mula tebal dan berdaging dan sering retak ketika terlipat. Bau dan rasa tidak khas.",
+      "sporePrint": "Massa spora berwarna cokelat tua. Spora berbentuk bulat, 3,5–4,5 μm, tertutup duri-duri kecil yang berduri.",
+      "habitat": "Berbuah setelah hujan dari Agustus hingga November, paling sering pada akhir musim panas dan musim gugur, di tanah di antara seresah hutan daun, terutama di bawah beech, dan juga di bawah konifer, sering di lereng. Tubuh buah tua yang bertahan lama masih dapat ditemukan di musim dingin dan musim semi berikutnya.",
+      "uses": "Tubuh buah tidak dapat dimakan dan tidak bernilai kuliner: keras dan berserat. Dalam sumber yang digunakan di sini mereka tidak dianggap beracun, tetapi tidak dipetik untuk makanan.",
+      "confusion": "Bintang tanah lain dapat tampak serupa. Geastrum saccatum umumnya lebih kecil (sekitar 2–5 cm ketika mengembang) dan biasanya tidak membentuk kerah yang jelas; kedua spesies kadang sulit dipisahkan tanpa mikroskop, dan beberapa sumber Eropa telah memperlakukan mereka sebagai sinonim, tetapi Index Fungorum memisahkannya. Geastrum lageniforme juga mirip secara makroskopis dan berbeda secara genetik. Geastrum fimbriatum lebih kecil, dengan kantung spora abu-abu berbulu halus dan tanpa kerah. Astraeus hygrometricus (sudah ada dalam katalog ini) adalah jamur berbentuk bintang dari famili lain, dengan jari higroskopis yang membuka dan menutup menurut kelembapan, dan bukan Geastrum. Tidak satu pun dari ini, atau spesies Geastrum lain, boleh dialiaskan sebagai Geastrum triplex.",
+      "notes": "Index Fungorum dan Species Fungorum memperlakukan Geastrum triplex Jungh. (1840; mula-mula diterbitkan sebagai Geaster triplex) sebagai nama yang berlaku, IF 119601. Species Fungorum hanya mencantumkan dua bentuk infraspesifik (f. pedicellatum dan f. roseum), yang tidak disimpan sebagai sinonim. Nama seperti Geastrum michelianum, Geastrum saccatum, Geastrum indicum, dan Geastrum cryptorhynchum tidak diperlakukan di sini sebagai sinonim; beberapa di antaranya adalah nama yang berlaku untuk spesies lain di Index Fungorum. Tipe berasal dari Jawa. Plat ini adalah ilustrasi yang dihasilkan kecerdasan buatan, bukan gambar historis yang diterbitkan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Una stella di terra saprotrofa della lettiera in boschi caducifogli e misti, talvolta sotto conifere e spesso su pendii. È ampiamente diffusa in Europa ed è segnalata anche in altre regioni temperate e subtropicali. È la più grande tra le stelle di terra comuni; una distinzione sicura da specie simili, soprattutto Geastrum saccatum e Geastrum lageniforme, può richiedere esperienza e, a volte, un microscopio.",
+      "cap": "Il corpo fruttifero ancora chiuso è un uovo parzialmente interrato, a forma di cipolla o di becco, tipicamente di 1–5 cm di diametro. La parete esterna si fende poi in 4–8 lobi spessi, color camoscio o bruni, non igroscopici, che si ripiegano e sollevano il sacco sporifero; il corpo espanso misura 5–10 cm da punta a punta, eccezionalmente circa 11,5 cm. Quando lo strato carnoso dei lobi si fessura, il sacco resta spesso adagiato in un collare o piattino distinto. Non tutti gli esemplari formano un collare netto.",
+      "hymenium": "Il tessuto fertile è una gleba all’interno del sacco sporifero sessile e cartaceo, tipicamente di 1–5 cm, grigio-bruno o bruno, che si apre con un piccolo peristoma apicale frangiato, spesso con una zona più chiara intorno alla bocca. Da giovane la gleba è bianca e soda; poi diventa una polvere bruno scuro. Non ci sono lamelle né pori su una faccia inferiore esposta.",
+      "stipe": "Non c’è gambo. Il sacco sporifero poggia direttamente sui lobi o nel collare.",
+      "flesh": "La gleba giovane è bianca e soda, poi bruna e polverosa. I lobi sono dapprima spessi e carnosi e spesso si fessurano quando si ripiegano. Odore e sapore non sono distintivi.",
+      "sporePrint": "La massa sporale è bruno scuro. Le spore sono globose, 3,5–4,5 μm, coperte di piccole verruche spinose.",
+      "habitat": "Fruttifica dopo la pioggia da agosto a novembre, soprattutto a fine estate e in autunno, al suolo nella lettiera di boschi caducifogli, in particolare sotto il faggio, e anche sotto conifere, spesso su pendii. Corpi vecchi e persistenti si possono ancora trovare in inverno e nella primavera successiva.",
+      "uses": "I corpi fruttiferi sono immangiabili e privi di valore culinario: sono coriacei e fibrosi. Nelle fonti usate qui non sono trattati come velenosi, ma non si raccolgono per cibo.",
+      "confusion": "Altre stelle di terra possono assomigliarle. Geastrum saccatum è in genere più piccola (circa 2–5 cm una volta espansa) e di solito non forma un collare distinto; le due specie a volte sono difficili da separare senza microscopio, e alcune fonti europee le hanno trattate come sinonimi, ma Index Fungorum le mantiene distinte. Geastrum lageniforme è macroscopicamente simile e geneticamente distinta. Geastrum fimbriatum è più piccola, con un sacco grigio vellutato e senza collare. Astraeus hygrometricus (già in questo catalogo) è un fungo a stella di un’altra famiglia, con lobi igroscopici che si aprono e chiudono con l’umidità, e non è un Geastrum. Nessuna di queste, né alcuna altra specie di Geastrum, deve essere aliasata come Geastrum triplex.",
+      "notes": "Index Fungorum e Species Fungorum trattano Geastrum triplex Jungh. (1840; originariamente pubblicato come Geaster triplex) come il nome attuale, IF 119601. Species Fungorum elenca solo due forme infraspecifiche (f. pedicellatum e f. roseum), che non sono conservate come sinonimi. Nomi come Geastrum michelianum, Geastrum saccatum, Geastrum indicum e Geastrum cryptorhynchum non sono trattati qui come sinonimi; diversi di essi sono nomi attuali di altre specie in Index Fungorum. Il tipo proviene da Giava. La tavola è un’illustrazione generata dall’intelligenza artificiale, non una figura storica pubblicata.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "落葉広葉樹林や混交林の落葉層に生じる腐生性のツチグリで、ときに針葉樹の下にも、斜面に多い。ヨーロッパに広く分布し、他の温帯・亜熱帯地域からも報告される。普通に見られるツチグリ類では最も大きく、類似種、とくに Geastrum saccatum および Geastrum lageniforme との確実な識別には経験が必要で、ときに顕微鏡が要る。",
+      "cap": "未開裂の子実体は、一部が地中に埋もれたタマネギ形または嘴形の卵で、ふつう横断1–5 cm。外皮は次いで4–8本の厚く、淡褐色から褐色で非吸湿性の裂片に割れ、裂片が反り返って胞子嚢を持ち上げる。展開した子実体は裂片先端間で5–10 cm、例外的に約11.5 cmに達する。裂片の肉質層が割れると、胞子嚢はしばしば独立した襟または皿の上に残り、これが和名エリマキツチグリの由来である。すべての個体が明瞭な襟を作るわけではない。",
+      "hymenium": "生殖組織は、無柄で紙質の胞子嚢内のグレバである。胞子嚢はふつう1–5 cm、灰褐色から褐色で、小さく縁毛のある頂部の開口（ペリストーム）で開き、口のまわりにしばしば淡色帯がある。若いグレバは白く堅く、のちに暗褐色の粉末になる。露出した下面にひだや管孔はない。",
+      "stipe": "柄はない。胞子嚢は裂片の上、または襟の中に直接載る。",
+      "flesh": "若いグレバは白く堅く、のちに褐色で粉質になる。裂片は初め厚く肉質で、反り返るときにしばしば亀裂を生じる。匂いや味に目立った特徴はない。",
+      "sporePrint": "胞子塊は暗褐色。胞子は球形、3.5–4.5 μm、小さな刺状のいぼに覆われる。",
+      "habitat": "雨のあと8月から11月に発生し、とくに晩夏から秋、落葉広葉樹林の地上の落葉層、とくにブナの下、また針葉樹の下、斜面に多い。古い、長く残る子実体は冬や翌春にも見つかることがある。",
+      "uses": "子実体は食用にならず、料理的価値もない。堅く繊維質である。ここで用いた資料では有毒とはされていないが、食用には採られない。",
+      "confusion": "他のツチグリ類も似ることがある。Geastrum saccatum は一般に小さく（展開時およそ2–5 cm）、ふつう明瞭な襟を作らない。両種は顕微鏡なしでは見分けにくいことがあり、一部のヨーロッパの資料は同種として扱ってきたが、Index Fungorum は分けている。Geastrum lageniforme も肉眼的に似ており、遺伝的には別種である。Geastrum fimbriatum はより小さく、綿毛状の灰色の胞子嚢をもち、襟がない。Astraeus hygrometricus（本カタログに既載）は別科の星形菌で、湿気に応じて開閉する吸湿性の裂片をもち、Geastrum ではない。これらや他の Geastrum 種を Geastrum triplex の別名として扱ってはならない。",
+      "notes": "Index Fungorum および Species Fungorum は Geastrum triplex Jungh.（1840年、原記載は Geaster triplex）を現行名とし、IF 119601 とする。Species Fungorum が掲げる種内形は f. pedicellatum と f. roseum の二つだけで、これらは異名として保存しない。Geastrum michelianum、Geastrum saccatum、Geastrum indicum、Geastrum cryptorhynchum などの名はここでは異名としない。そのいくつかは Index Fungorum では別種の現行名である。タイプはジャワ産である。図版は歴史的な刊行図ではなく、人工知能によって生成されたイラストである。",
+      "names": [
+        "エリマキツチガキ"
+      ],
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%9E%E3%82%AD%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA"
+      ],
+      "label": "エリマキツチグリ"
+    },
+    "ko": {
+      "description": "낙엽수와 혼효림의 낙엽층에서 자라는 부생성 먼지버섯류로, 가끔 침엽수 아래에서도, 종종 사면에서 난다. 유럽에 널리 퍼져 있으며 다른 온대·아열대 지역에서도 보고된다. 흔한 먼지버섯류 가운데 가장 크며, 비슷한 종, 특히 Geastrum saccatum과 Geastrum lageniforme를 확실하게 구별하려면 경험이 필요하고 때로 현미경이 필요하다.",
+      "cap": "아직 열리지 않은 자실체는 일부가 땅에 묻힌 양파형 또는 부리형 알로, 보통 지름 1–5 cm이다. 외벽은 이어 4–8개의 두껍고 황갈색 내지 갈색이며 비흡습성인 열편으로 갈라지고, 열편이 뒤로 젖혀지며 포자낭을 들어 올린다. 펼쳐진 자실체는 열편 끝 사이 5–10 cm이고, 예외적으로 약 11.5 cm에 이른다. 열편의 육질층이 갈라지면 포자낭이 종종 따로 떨어진 깃이나 접시 위에 남는다. 모든 개체가 뚜렷한 깃을 만드는 것은 아니다.",
+      "hymenium": "생식 조직은 무병이고 종이처럼 얇은 포자낭 안의 글레바이다. 포자낭은 보통 1–5 cm, 회갈색 내지 갈색이며, 작고 가장자리가 술 같은 꼭대기 주연구(페리스토름)로 열리고, 입 둘레에 종종 더 옅은 띠가 있다. 어린 글레바는 하얗고 단단하며, 나중에 암갈색 가루가 된다. 드러난 아랫면에 주름살이나 관공은 없다.",
+      "stipe": "대는 없다. 포자낭은 열편 위 또는 깃 안에 직접 앉는다.",
+      "flesh": "어린 글레바는 하얗고 단단하며, 나중에 갈색이고 가루 같다. 열편은 처음에는 두껍고 육질이며, 젖혀질 때 종종 갈라진다. 냄새와 맛은 특징이 없다.",
+      "sporePrint": "포자 덩어리는 암갈색이다. 포자는 구형, 3.5–4.5 μm이며 작은 가시 모양 돌기로 덮인다.",
+      "habitat": "비 온 뒤 8월부터 11월까지, 주로 늦여름과 가을에, 낙엽수림 지면의 낙엽층, 특히 너도밤나무 아래, 그리고 침엽수 아래, 자주 사면에서 난다. 오래되어 오래 남는 자실체는 겨울과 이듬해 봄에도 찾을 수 있다.",
+      "uses": "자실체는 식용할 수 없고 요리 가치가 없다. 질기고 섬유질이다. 여기서 사용한 자료에서는 독버섯으로 다루지 않지만, 음식으로 채취하지는 않는다.",
+      "confusion": "다른 먼지버섯류도 비슷해 보일 수 있다. Geastrum saccatum은 대체로 더 작고(펼쳤을 때 약 2–5 cm) 보통 뚜렷한 깃을 만들지 않는다. 두 종은 현미경 없이는 때로 구별이 어렵고, 일부 유럽 자료는 이들을 이명으로 다루었으나 Index Fungorum은 따로 유지한다. Geastrum lageniforme도 육안으로 비슷하고 유전적으로는 다르다. Geastrum fimbriatum은 더 작고, 솜털 같은 회색 포자낭이 있으며 깃이 없다. Astraeus hygrometricus(이 목록에 이미 있음)는 다른 과의 별 모양 균류로, 습도에 따라 열리고 닫히는 흡습성 열편이 있으며 Geastrum이 아니다. 이들 또는 다른 어떤 Geastrum 종도 Geastrum triplex의 이명으로 다루어서는 안 된다.",
+      "notes": "Index Fungorum과 Species Fungorum은 Geastrum triplex Jungh.(1840; 원기재는 Geaster triplex)를 현행명으로 보고, IF 119601이다. Species Fungorum은 종내형으로 f. pedicellatum과 f. roseum 두 가지만 열거하며, 이들은 이명으로 저장하지 않는다. Geastrum michelianum, Geastrum saccatum, Geastrum indicum, Geastrum cryptorhynchum 같은 이름은 여기서 이명으로 다루지 않는다. 그중 몇몇은 Index Fungorum에서 다른 종의 현행명이다. 기준표본은 자바 산이다. 도판은 역사적으로 출판된 그림이 아니라 인공지능이 만든 삽화이다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Saprotrofinis žvaigždulis miško paklotėje lapuočių ir mišriuose miškuose, kartais ir po spygliuočiais, dažnai šlaituose. Paplitęs Europoje ir nurodomas ir iš kitų vidutinių ir subtropinių sričių. Tai didžiausias įprastų žvaigždulių; patikimas atskyrimas nuo panašių rūšių, ypač Geastrum saccatum ir Geastrum lageniforme, gali reikalauti patirties ir kartais mikroskopo.",
+      "cap": "Neatsivėręs vaisiakūnis yra iš dalies įkasta, svogūno ar snapo pavidalo kiaušinis, paprastai 1–5 cm pločio. Išorinė siena vėliau suskyla į 4–8 storas, ochros iki rudas, nehigroskopines skiautes, kurios atsilenkia ir pakelia sporų maišelį; išsiskleidęs vaisiakūnis yra 5–10 cm tarp skiaučių galiukų, išimtinai apie 11,5 cm. Kai mėsingas skiaučių sluoksnis sutrūkinėja, sporų maišelis dažnai lieka atskiroje apykaklėje ar lėkštelėje, iš čia ir pavadinimas didysis žvaigždulis. Ne kiekvienas egzempliorius sudaro aiškią apykaklę.",
+      "hymenium": "Derlingasis audinys yra gleba sėdimame, popieriniame sporų maišelyje, paprastai 1–5 cm, pilkai rudame iki rudo, atsiveriančiame mažu, kutais apjuostu viršūniniu peristomu, dažnai su šviesesne zona aplink žiotis. Jauna gleba balta ir kieta; vėliau tampa tamsiai rudais milteliais. Ant atidengtos apatinės pusės nėra lakštelių ir vamzdelių.",
+      "stipe": "Koto nėra. Sporų maišelis sėdi tiesiai ant skiaučių arba apykaklėje.",
+      "flesh": "Jauna gleba balta ir kieta, vėliau ruda ir miltelinga. Skiautės iš pradžių storos ir mėsingos ir atsilenkdamos dažnai sutrūkinėja. Kvapas ir skonis nėra būdingi.",
+      "sporePrint": "Sporų masė tamsiai ruda. Sporos rutuliškos, 3,5–4,5 μm, apaugusios smulkiais dygliuotais karpelėmis.",
+      "habitat": "Derlius po lietaus nuo rugpjūčio iki lapkričio, dažniausiai vasaros pabaigoje ir rudenį, ant žemės lapuočių miškų paklotėje, ypač po bukais, taip pat po spygliuočiais, dažnai šlaituose. Senų, ilgai išsilaikančių vaisiakūnių galima rasti ir žiemą bei kitą pavasarį.",
+      "uses": "Vaisiakūniai nevalgomi ir neturi kulinarinės vertės: jie kieti ir pluoštiniai. Čia naudotuose šaltiniuose jie nelaikomi nuodingais, bet maistui nerenkami.",
+      "confusion": "Kiti žvaigžduliai gali atrodyti panašiai. Geastrum saccatum paprastai mažesnis (apie 2–5 cm išsiskleidęs) ir paprastai nesudaro aiškios apykaklės; abi rūšys be mikroskopo kartais sunkiai atskiriamos, o kai kurie Europos šaltiniai jas laikė sinonimais, tačiau Index Fungorum jas veda atskirai. Geastrum lageniforme makroskopiškai taip pat panašus ir genetiškai skirtingas. Geastrum fimbriatum mažesnis, su pūkuotu pilku sporų maišeliu ir be apykaklės. Astraeus hygrometricus (jau šiame kataloge) yra žvaigžduliui panašus grybas iš kitos šeimos, su higroskopinėmis skiautėmis, kurios atsiveria ir užsiveria pagal drėgmę, ir tai nėra Geastrum. Nė vienos iš šių, ir jokios kitos Geastrum rūšies, negalima aliasuoti kaip Geastrum triplex.",
+      "notes": "Index Fungorum ir Species Fungorum laiko Geastrum triplex Jungh. (1840; iš pradžių paskelbtą kaip Geaster triplex) dabartiniu vardu, IF 119601. Species Fungorum nurodo tik dvi porūšines formas (f. pedicellatum ir f. roseum), kurios nelaikomos sinonimais. Vardai, tokie kaip Geastrum michelianum, Geastrum saccatum, Geastrum indicum ir Geastrum cryptorhynchum, čia nelaikomi sinonimais; keli iš jų Index Fungorum yra kitų rūšių dabartiniai vardai. Tipas kilęs iš Javos. Lentelė yra dirbtinio intelekto sukurta iliustracija, o ne istoriškai paskelbtas piešinys.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Didysis_%C5%BEvaig%C5%BEdulis"
+      ],
+      "label": "didysis žvaigždulis"
+    },
+    "lv": {
+      "description": "Saprotrofa zemeszvaigzne nobiru slānī lapu koku un jauktos mežos, dažkārt arī zem skujkokiem un bieži nogāzēs. Tā ir plaši izplatīta Eiropā un tiek minēta arī no citiem mēreniem un subtropiskiem apgabaliem. Tā ir lielākā starp parastajām zemeszvaigznēm; droša atšķiršana no līdzīgām sugām, īpaši no Geastrum saccatum un Geastrum lageniforme, var prasīt pieredzi un dažkārt mikroskopu.",
+      "cap": "Neatvērtais augļķermenis ir daļēji iegrimis, sīpola vai knābja formā ola, parasti 1–5 cm plata. Ārējā siena tad saplīst 4–8 biezos, okera līdz brūnos, nehigroskopiskos staros, kas atliecas un paceļ sporu maisu; izpleties augļķermenis ir 5–10 cm starp staru galiem, izņēmuma gadījumos ap 11,5 cm. Kad staru gaļīgais slānis ieplīst, sporu maiss bieži paliek atsevišķā apkaklītē vai šķīvītī, no kā cēlies nosaukums biezstaru zemeszvaigzne. Ne katrs eksemplārs veido skaidru apkaklīti.",
+      "hymenium": "Auglīgie audi ir gleba sēdošā, papīrainā sporu maisā, parasti 1–5 cm, pelēkbrūnā līdz brūnā, kas atveras ar mazu, bārkstainu galotnes peristolu, bieži ar gaišāku zonu ap atveri. Jauna gleba ir balta un stingra; vēlāk tā kļūst par tumši brūnu pulveri. Uz atklātas apakšpuses nav lapiņu un cauruļu.",
+      "stipe": "Kāta nav. Sporu maiss sēž tieši uz stariem vai apkaklītē.",
+      "flesh": "Jauna gleba ir balta un stingra, vēlāk brūna un pulverveida. Stari sākumā ir biezi un gaļīgi un, atliecoties, bieži saplaisā. Smarža un garša nav raksturīgas.",
+      "sporePrint": "Sporu masa ir tumši brūna. Sporas ir lodveida, 3,5–4,5 μm, klātas ar sīkiem dzelkšņainiem kārpiņām.",
+      "habitat": "Tā augļo pēc lietus no augusta līdz novembrim, visbiežāk vasaras beigās un rudenī, uz zemes lapu koku mežu nobirās, īpaši zem dižskābarža, kā arī zem skujkokiem, bieži nogāzēs. Vecus, ilgstoši saglabājušos augļķermeņus var atrast arī ziemā un nākamajā pavasarī.",
+      "uses": "Augļķermeņi ir neēdami un tiem nav kulināras vērtības: tie ir sīksti un šķiedraini. Šeit izmantotajos avotos tie nav uzskatīti par indīgiem, taču tos nepārtikai vāc.",
+      "confusion": "Citas zemeszvaigznes var izskatīties līdzīgi. Geastrum saccatum parasti ir mazāka (ap 2–5 cm izpletusies) un parasti neveido skaidru apkaklīti; abas sugas bez mikroskopa dažkārt ir grūti atšķirt, un daži Eiropas avoti tās uzskatījuši par sinonīmiem, tomēr Index Fungorum tās tur atsevišķi. Geastrum lageniforme makroskopiski arī ir līdzīga un ģenētiski atšķirīga. Geastrum fimbriatum ir mazāka, ar pūkainu pelēku sporu maisu un bez apkaklītes. Astraeus hygrometricus (jau šajā katalogā) ir zemeszvaigznei līdzīga sēne no citas dzimtas, ar higroskopiskiem stariem, kas atveras un aizveras atkarībā no mitruma, un tas nav Geastrum. Neviena no šīm, kā arī neviena cita Geastrum suga, nav jāaizstāj ar Geastrum triplex sinonīmu.",
+      "notes": "Index Fungorum un Species Fungorum uzskata Geastrum triplex Jungh. (1840; sākotnēji publicēts kā Geaster triplex) par pašreizējo nosaukumu, IF 119601. Species Fungorum uzskaita tikai divas iekšsugas formas (f. pedicellatum un f. roseum), kas netiek glabātas kā sinonīmi. Nosaukumi kā Geastrum michelianum, Geastrum saccatum, Geastrum indicum un Geastrum cryptorhynchum šeit netiek uzskatīti par sinonīmiem; vairāki no tiem Index Fungorum ir citu sugu pašreizējie nosaukumi. Tips nāk no Javas. Plate ir ar mākslīgo intelektu veidota ilustrācija, nevis vēsturisks publicēts attēls.",
+      "names": [],
+      "sourceUrls": [
+        "https://dabasdati.lv/lv/observation/a1c1c83936f3f5a13a84a11b93aca23a/"
+      ],
+      "label": "biezstaru zemeszvaigzne"
+    },
+    "nl": {
+      "description": "Een saprotrofe aardster van de strooisellaag in loof- en gemengde bossen, soms onder naaldbomen en vaak op hellingen. De soort is wijdverbreid in Europa en wordt ook uit andere gematigde en subtropische gebieden gemeld. Het is de grootste van de algemene aardsterren; betrouwbare scheiding van gelijkende soorten, vooral Geastrum saccatum en Geastrum lageniforme, kan ervaring en soms een microscoop vergen.",
+      "cap": "Het ongeopende vruchtlichaam is een deels begraven, ui- of snavelvormig ei, typisch 1–5 cm breed. De buitenwand splijt vervolgens in 4–8 dikke, geelbruine tot bruine, niet-hygroscopische slippen die zich terugvouwen en de sporenbal omhoog tillen; het uitgespreide vruchtlichaam meet 5–10 cm over de sliptuinen, uitzonderlijk tot ongeveer 11,5 cm. Wanneer de vlezige laag van de slippen scheurt, blijft de sporenbal vaak in een aparte kraag of schoteltje liggen, waaraan de naam gekraagde aardster te danken is. Niet elk exemplaar vormt een duidelijke kraag.",
+      "hymenium": "Het fertiele weefsel is een gleba in de zittende, papierachtige sporenbal, typisch 1–5 cm, grijsbruin tot bruin, die opent via een klein, gewimperd apicaal peristoom, vaak met een blekere zone rond de mond. Jong is de gleba wit en stevig; later wordt het een donkerbruin poeder. Er zijn geen lamellen of poriën op een blootliggende onderzijde.",
+      "stipe": "Er is geen steel. De sporenbal zit rechtstreeks op de slippen of in de kraag.",
+      "flesh": "De jonge gleba is wit en stevig, later bruin en poederig. De slippen zijn eerst dik en vlezig en krijgen bij het omkrullen vaak scheuren. Geur en smaak zijn niet kenmerkend.",
+      "sporePrint": "De sporenmassa is donkerbruin. De sporen zijn bolvormig, 3,5–4,5 μm, en bedekt met kleine stekelige wratjes.",
+      "habitat": "De soort vrucht na regen van augustus tot november, vooral in de late zomer en de herfst, op de grond in het strooisel van loofbossen, vooral onder beuk, en ook onder naaldbomen, vaak op hellingen. Oude, langdurig standhoudende vruchtlichamen kunnen nog in de winter en het volgende voorjaar worden gevonden.",
+      "uses": "De vruchtlichamen zijn oneetbaar en hebben geen culinaire waarde: ze zijn taai en vezelig. In de hier gebruikte bronnen worden ze niet als giftig behandeld, maar ze worden niet voor de keuken verzameld.",
+      "confusion": "Andere aardsterren kunnen erop lijken. Geastrum saccatum is over het algemeen kleiner (ongeveer 2–5 cm uitgespreid) en vormt meestal geen duidelijke kraag; beide soorten zijn zonder microscoop soms moeilijk te scheiden, en sommige Europese bronnen hebben ze als synoniemen behandeld, maar Index Fungorum houdt ze gescheiden. Geastrum lageniforme is macroscopisch eveneens gelijkend en genetisch verschillend. Geastrum fimbriatum is kleiner, met een donzig grijze sporenbal en zonder kraag. Astraeus hygrometricus (al in deze catalogus) is een aardsterachtige schimmel uit een andere familie, met hygroscopische slippen die met het vocht openen en sluiten, en is geen Geastrum. Geen van deze, noch enige andere Geastrum-soort, mag als Geastrum triplex worden gealiast.",
+      "notes": "Index Fungorum en Species Fungorum behandelen Geastrum triplex Jungh. (1840; oorspronkelijk gepubliceerd als Geaster triplex) als de huidige naam, IF 119601. Species Fungorum somt slechts twee infraspecifieke vormen op (f. pedicellatum en f. roseum), die niet als synoniemen worden opgeslagen. Namen als Geastrum michelianum, Geastrum saccatum, Geastrum indicum en Geastrum cryptorhynchum worden hier niet als synoniemen behandeld; verschillende daarvan zijn in Index Fungorum huidige namen van andere soorten. Het type komt uit Java. De plaat is een door AI gegenereerde illustratie, geen historisch gepubliceerde figuur.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Gekraagde_aardster"
+      ],
+      "label": "gekraagde aardster"
+    },
+    "no": {
+      "description": "En saprotrof jordstjerne i strøsjiktet i lauv- og blandingsskog, av og til under bartrær og ofte i skråninger. Den er vidt utbredt i Europa og er også rapportert fra andre tempererte og subtropiske områder. Den er den største blant de vanlige jordstjernene; sikker atskillelse fra lignende arter, særlig Geastrum saccatum og Geastrum lageniforme, kan kreve erfaring og av og til mikroskop.",
+      "cap": "Det uåpnede fruktlegemet er et delvis nedgravd, løk- eller nebbformet egg, typisk 1–5 cm bredt. Ytterveggen sprekker deretter opp i 4–8 tykke, okergule til brune, ikke-hygroskopiske fliker som bøyes bakover og løfter sporesekken; det utbredte fruktlegemet måler 5–10 cm over flikspissene, unntaksvis omkring 11,5 cm. Når det kjøttfulle laget i flikene sprekker, sitter sporesekken ofte igjen i en egen krage eller skål, som har gitt arten navnet prestejordstjerne. Ikke hvert eksemplar danner en tydelig krage.",
+      "hymenium": "Det fertile vevet er en gleba inne i den sittende, papiraktige sporesekken, typisk 1–5 cm, gråbrun til brun, som åpner seg gjennom et lite, frynsete apikalt peristom, ofte med en blekere sone rundt munningen. Ung gleba er hvit og fast; senere blir den et mørkebrunt pulver. Det finnes verken skiver eller rør på en fri underside.",
+      "stipe": "Det er ingen stilk. Sporesekken sitter direkte på flikene eller i kragen.",
+      "flesh": "Ung gleba er hvit og fast, senere brun og pudderaktig. Flikene er først tykke og kjøttfulle og sprekker ofte når de bøyes bakover. Lukt og smak er ikke særegne.",
+      "sporePrint": "Sporemassen er mørkebrun. Sporene er kuleformede, 3,5–4,5 μm, og dekket av små piggete vorter.",
+      "habitat": "Den fruktifiserer etter regn fra august til november, oftest sent på sommeren og om høsten, på bakken i strøet i lauvskog, særlig under bøk, og også under bartrær, ofte i skråninger. Gamle, vedvarende fruktlegemer kan fortsatt finnes om vinteren og neste vår.",
+      "uses": "Fruktlegemene er uspiselige og uten kulinarisk verdi: de er seige og fibrøse. I kildene som er brukt her, behandles de ikke som giftige, men de plukkes ikke til mat.",
+      "confusion": "Andre jordstjerner kan se like ut. Geastrum saccatum er i alminnelighet mindre (om lag 2–5 cm i utbredt tilstand) og danner vanligvis ingen tydelig krage; de to artene kan uten mikroskop være vanskelige å skille, og noen europeiske kilder har behandlet dem som synonymer, men Index Fungorum holder dem atskilt. Geastrum lageniforme er makroskopisk likeledes lik og genetisk forskjellig. Geastrum fimbriatum er mindre, med en dunet grå sporesekk og uten krage. Astraeus hygrometricus (allerede i denne katalogen) er en jordstjernelignende sopp fra en annen familie, med hygroskopiske fliker som åpner og lukker seg med fuktigheten, og er ikke et Geastrum. Ingen av disse, og ingen annen Geastrum-art, skal aliaseres som Geastrum triplex.",
+      "notes": "Index Fungorum og Species Fungorum behandler Geastrum triplex Jungh. (1840; opprinnelig publisert som Geaster triplex) som det gjeldende navnet, IF 119601. Species Fungorum lister bare to infraspesifikke former (f. pedicellatum og f. roseum), som ikke lagres som synonymer. Navn som Geastrum michelianum, Geastrum saccatum, Geastrum indicum og Geastrum cryptorhynchum behandles her ikke som synonymer; flere av dem er gjeldende navn for andre arter i Index Fungorum. Typen kommer fra Java. Plansjen er en AI-generert illustrasjon, ikke en historisk publisert figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://artsdatabanken.no/arter/takson/39239"
+      ],
+      "label": "prestejordstjerne"
+    },
+    "pl": {
+      "description": "Saprotroficzny gwiazdosz ściółki w lasach liściastych i mieszanych, czasem także pod drzewami iglastymi i często na stokach. Jest szeroko rozpowszechniony w Europie i podawany także z innych obszarów umiarkowanych i subtropikalnych. To największy spośród pospolitych gwiazdoszy; pewne odróżnienie od podobnych gatunków, zwłaszcza Geastrum saccatum i Geastrum lageniforme, może wymagać doświadczenia, a niekiedy mikroskopu.",
+      "cap": "Nieotwarta owocnik jest częściowo zagłębionym, cebulowatym lub dziobkowatym jajem, typowo 1–5 cm średnicy. Ściana zewnętrzna rozdziela się potem na 4–8 grubych, płowo- do brązowych, niehigroskopijnych ramion, które odginają się i unoszą worek zarodnikowy; rozpostarty owocnik ma 5–10 cm między końcami ramion, wyjątkowo około 11,5 cm. Gdy mięsista warstwa ramion pęka, worek zarodnikowy często pozostaje w odrębnym kołnierzyku lub talerzyku, od czego pochodzi nazwa gwiazdosz potrójny. Nie każdy okaz tworzy wyraźny kołnierzyk.",
+      "hymenium": "Tkanka zarodnikotwórcza to gleba wewnątrz siedzącego, papierowatego worka zarodnikowego, typowo 1–5 cm, szarobrązowego do brązowego, otwierającego się małym, frędzlowatym wierzchołkowym peristomem, często z jaśniejszą strefą wokół ujścia. Młoda gleba jest biała i zbita; później staje się ciemnobrązowym proszkiem. Na odsłoniętej spodniej stronie nie ma blaszek ani rurek.",
+      "stipe": "Trzonu brak. Worek zarodnikowy siedzi bezpośrednio na ramionach lub w kołnierzyku.",
+      "flesh": "Młoda gleba jest biała i zbita, później brązowa i pylista. Ramiona są z początku grube i mięsiste i przy odginaniu często pękają. Zapach i smak nie są charakterystyczne.",
+      "sporePrint": "Masa zarodników jest ciemnobrązowa. Zarodniki są kuliste, 3,5–4,5 μm, pokryte drobnymi kolczastymi brodawkami.",
+      "habitat": "Owocnikuje po deszczu od sierpnia do listopada, najczęściej późnym latem i jesienią, na ziemi w ściółce lasów liściastych, zwłaszcza pod bukiem, a także pod drzewami iglastymi, często na stokach. Stare, trwałe owocniki można jeszcze znaleźć zimą i następnej wiosny.",
+      "uses": "Owocniki są niejadalne i nie mają wartości kulinarnej: są twarde i włókniste. W wykorzystanych tu źródłach nie traktuje się ich jako trujących, ale nie zbiera się ich do jedzenia.",
+      "confusion": "Inne gwiazdosze mogą wyglądać podobnie. Geastrum saccatum jest na ogół mniejszy (około 2–5 cm po rozłożeniu) i zwykle nie tworzy wyraźnego kołnierzyka; oba gatunki bywają trudne do odróżnienia bez mikroskopu, a niektóre źródła europejskie traktowały je jako synonimy, lecz Index Fungorum prowadzi je osobno. Geastrum lageniforme jest makroskopowo również podobny i genetycznie odrębny. Geastrum fimbriatum jest mniejszy, z puszystym szarym workiem zarodnikowym i bez kołnierzyka. Astraeus hygrometricus (już w tym katalogu) to grzyb gwiazdoszokształtny z innej rodziny, o higroskopijnych ramionach otwierających się i zamykających wraz z wilgotnością, i nie jest to Geastrum. Żadnego z tych gatunków, ani żadnego innego gatunku z rodzaju Geastrum, nie należy aliasować jako Geastrum triplex.",
+      "notes": "Index Fungorum i Species Fungorum uznają Geastrum triplex Jungh. (1840; pierwotnie opublikowane jako Geaster triplex) za nazwę aktualną, IF 119601. Species Fungorum wymienia tylko dwie formy wewnątrzgatunkowe (f. pedicellatum i f. roseum), które nie są przechowywane jako synonimy. Nazwy takie jak Geastrum michelianum, Geastrum saccatum, Geastrum indicum i Geastrum cryptorhynchum nie są tu traktowane jako synonimy; kilka z nich to w Index Fungorum aktualne nazwy innych gatunków. Typ pochodzi z Jawy. Tablica jest ilustracją wygenerowaną przez sztuczną inteligencję, a nie historyczną opublikowaną ryciną.",
+      "names": [
+        "gwiazdosz kołnierzykowy"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Gwiazdosz_potr%C3%B3jny"
+      ],
+      "label": "gwiazdosz potrójny"
+    },
+    "pt": {
+      "description": "Uma estrela-da-terra saprófita da folhada em bosques caducifólios e mistos, por vezes sob coníferas e frequentemente em encostas. Está amplamente difundida na Europa e é também referida de outras regiões temperadas e subtropicais. É a maior das estrelas-da-terra comuns; a distinção segura de espécies semelhantes, especialmente Geastrum saccatum e Geastrum lageniforme, pode exigir experiência e, por vezes, um microscópio.",
+      "cap": "O corpo frutífero ainda fechado é um ovo parcialmente enterrado, em forma de cebola ou de bico, tipicamente com 1–5 cm de diâmetro. A parede externa fende-se depois em 4–8 lóbulos espessos, de cor de camurça a castanhos, não higroscópicos, que se rebatem e elevam o saco esporífero; o corpo expandido mede 5–10 cm de ponta a ponta, excepcionalmente cerca de 11,5 cm. Quando a camada carnuda dos lóbulos racha, o saco fica frequentemente assente num colar ou pires distinto. Nem todos os exemplares formam um colar nítido.",
+      "hymenium": "O tecido fértil é uma gleba no interior do saco esporífero séssil e papiráceo, tipicamente de 1–5 cm, cinzento-castanho a castanho, que se abre por um pequeno perístoma apical franjado, muitas vezes com uma zona mais pálida em torno da boca. Quando jovem a gleba é branca e firme; mais tarde torna-se um pó castanho-escuro. Não há lâminas nem poros numa face inferior exposta.",
+      "stipe": "Não há pé. O saco esporífero assenta diretamente sobre os lóbulos ou no colar.",
+      "flesh": "A gleba jovem é branca e firme, depois castanha e poeirenta. Os lóbulos são a princípio espessos e carnudos e muitas vezes racham ao rebaterem-se. O cheiro e o sabor não são distintivos.",
+      "sporePrint": "A massa esporal é castanho-escura. Os esporos são globosos, 3,5–4,5 μm, cobertos de pequenas verrugas espinhosas.",
+      "habitat": "Frutifica após a chuva de agosto a novembro, sobretudo no fim do verão e no outono, no solo na folhada de bosques caducifólios, especialmente sob faia, e também sob coníferas, frequentemente em encostas. Corpos velhos e persistentes ainda se podem encontrar no inverno e na primavera seguinte.",
+      "uses": "Os corpos frutíferos são incomestíveis e não têm valor culinário: são duros e fibrosos. Nas fontes usadas aqui não são tratados como tóxicos, mas não se colhem para comer.",
+      "confusion": "Outras estrelas-da-terra podem parecer-se. Geastrum saccatum é em geral menor (cerca de 2–5 cm quando expandida) e habitualmente não forma um colar nítido; as duas espécies por vezes são difíceis de separar sem microscópio, e algumas fontes europeias trataram-nas como sinónimos, mas o Index Fungorum mantém-nas distintas. Geastrum lageniforme é macroscopicamente semelhante e geneticamente distinta. Geastrum fimbriatum é menor, com um saco cinzento aveludado e sem colar. Astraeus hygrometricus (já neste catálogo) é um fungo em estrela de outra família, com lóbulos higroscópicos que se abrem e fecham com a humidade, e não é um Geastrum. Nenhuma destas, nem qualquer outra espécie de Geastrum, deve ser aliasada como Geastrum triplex.",
+      "notes": "O Index Fungorum e o Species Fungorum tratam Geastrum triplex Jungh. (1840; publicado originalmente como Geaster triplex) como o nome atual, IF 119601. O Species Fungorum lista apenas duas formas infraespecíficas (f. pedicellatum e f. roseum), que não são armazenadas como sinónimos. Nomes como Geastrum michelianum, Geastrum saccatum, Geastrum indicum e Geastrum cryptorhynchum não são tratados aqui como sinónimos; vários deles são nomes atuais de outras espécies no Index Fungorum. O tipo é de Java. A prancha é uma ilustração gerada por inteligência artificial, não uma figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O stea de pământ saprotrofă a litierei în păduri de foioase și amestecate, uneori sub conifere și adesea pe pante. Este larg răspândită în Europa și este semnalată și din alte regiuni temperate și subtropicale. Este cea mai mare dintre stelele de pământ obișnuite; deosebirea sigură de specii asemănătoare, mai ales Geastrum saccatum și Geastrum lageniforme, poate cere experiență și, uneori, un microscop.",
+      "cap": "Corpul de fructificație încă închis este un ou parțial îngropat, în formă de ceapă sau de cioc, de obicei de 1–5 cm în diametru. Peretele exterior se desface apoi în 4–8 lobi groși, ocru-bruni, nehigroscopici, care se răsfrâng și ridică sacul de spori; corpul desfășurat măsoară 5–10 cm de la un vârf la altul, excepțional circa 11,5 cm. Când stratul cărnos al lobilor crapă, sacul rămâne adesea așezat într-un guler sau o farfurioară distinctă. Nu toate exemplarele formează un guler clar.",
+      "hymenium": "Țesutul fertil este o gleba în interiorul sacului de spori sesil și papiraceu, de obicei de 1–5 cm, cenușiu-brun până la brun, care se deschide printr-un mic peristom apical franjurat, adesea cu o zonă mai pală în jurul gurii. La început gleba este albă și fermă; mai târziu devine o pulbere brun-închisă. Nu există lamele sau pori pe o față inferioară expusă.",
+      "stipe": "Nu există picior. Sacul de spori stă direct pe lobi sau în guler.",
+      "flesh": "Gleba tânără este albă și fermă, apoi brună și prăfoasă. Lobii sunt la început groși și cărnoși și crapă adesea când se răsfrâng. Mirosul și gustul nu sunt distinctive.",
+      "sporePrint": "Masa de spori este brun-închisă. Sporii sunt globuloși, 3,5–4,5 μm, acoperiți cu negi spinoși mici.",
+      "habitat": "Fructifică după ploaie din august până în noiembrie, mai ales la sfârșitul verii și toamna, pe sol în litiera pădurilor de foioase, în special sub fag, și de asemenea sub conifere, adesea pe pante. Corpuri vechi, persistente, mai pot fi găsite iarna și în primăvara următoare.",
+      "uses": "Corpurile de fructificație sunt necomestibile și nu au valoare culinară: sunt tari și fibroase. În sursele folosite aici nu sunt tratate ca toxice, dar nu se culeg pentru mâncare.",
+      "confusion": "Alte stele de pământ pot arăta asemănător. Geastrum saccatum este în general mai mică (circa 2–5 cm odată desfășurată) și de obicei nu formează un guler distinct; cele două specii sunt uneori greu de separat fără microscop, iar unele surse europene le-au tratat ca sinonime, dar Index Fungorum le menține separate. Geastrum lageniforme este de asemenea similară macroscopic și distinctă genetic. Geastrum fimbriatum este mai mică, cu un sac cenușiu pufos și fără guler. Astraeus hygrometricus (deja în acest catalog) este o ciupercă în formă de stea dintr-o altă familie, cu lobi higroscopici care se deschid și se închid cu umezeala, și nu este un Geastrum. Niciuna dintre acestea, și nicio altă specie de Geastrum, nu trebuie aliasată ca Geastrum triplex.",
+      "notes": "Index Fungorum și Species Fungorum tratează Geastrum triplex Jungh. (1840; publicat inițial ca Geaster triplex) ca numele actual, IF 119601. Species Fungorum listează doar două forme infra-specifice (f. pedicellatum și f. roseum), care nu sunt stocate ca sinonime. Nume ca Geastrum michelianum, Geastrum saccatum, Geastrum indicum și Geastrum cryptorhynchum nu sunt tratate aici ca sinonime; câteva dintre ele sunt nume actuale ale altor specii în Index Fungorum. Tipul provine din Java. Placa este o ilustrație generată de inteligență artificială, nu o figură istorică publicată.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Сапротрофный звездовик подстилки в лиственных и смешанных лесах, иногда под хвойными и часто на склонах. Широко распространён в Европе и отмечается также в других умеренных и субтропических областях. Это крупнейший из обычных звездовиков; уверенное отличие от сходных видов, особенно Geastrum saccatum и Geastrum lageniforme, может требовать опыта и иногда микроскопа.",
+      "cap": "Невскрывшееся плодовое тело — частично погружённое в почву яйцевидное или клювовидное яйцо, обычно 1–5 см в поперечнике. Наружная оболочка затем разрывается на 4–8 толстых, охристо-коричневых, негигроскопичных лучей, которые отгибаются назад и поднимают споровый мешок; раскрытое плодовое тело имеет 5–10 см между концами лучей, исключительно около 11,5 см. Когда мясистый слой лучей растрескивается, споровый мешок часто остаётся в отдельном воротничке или блюдце, откуда и название Звездовик тройной. Не у каждого экземпляра образуется ясный воротничок.",
+      "hymenium": "Плодоносная ткань — глеба внутри сидячего, бумажистого спорового мешка, обычно 1–5 см, серо-коричневого до коричневого, открывающегося маленьким бахромчатым верхушечным перистомом, часто с более бледной зоной вокруг устья. Молодая глеба белая и плотная; позднее она становится тёмно-коричневым порошком. На открытой нижней стороне нет ни пластинок, ни трубочек.",
+      "stipe": "Ножки нет. Споровый мешок сидит прямо на лучах или в воротничке.",
+      "flesh": "Молодая глеба белая и плотная, позднее коричневая и порошистая. Лучи сначала толстые и мясистые и при отгибании часто растрескиваются. Запах и вкус невыразительны.",
+      "sporePrint": "Споровый порошок тёмно-коричневый. Споры шаровидные, 3,5–4,5 мкм, покрытые мелкими шиповатыми бородавочками.",
+      "habitat": "Плодоносит после дождя с августа по ноябрь, чаще всего в конце лета и осенью, на почве в подстилке лиственных лесов, особенно под буком, а также под хвойными, часто на склонах. Старые, долго сохраняющиеся плодовые тела можно найти ещё зимой и следующей весной.",
+      "uses": "Плодовые тела несъедобны и не имеют кулинарной ценности: они жёсткие и волокнистые. В использованных здесь источниках они не считаются ядовитыми, но в пищу их не собирают.",
+      "confusion": "Другие звездовики могут выглядеть похоже. Geastrum saccatum обычно мельче (около 2–5 см в раскрытом состоянии) и обычно не образует ясного воротничка; оба вида без микроскопа иногда трудно различить, и некоторые европейские источники считали их синонимами, однако Index Fungorum ведёт их раздельно. Geastrum lageniforme макроскопически также схож и генетически обособлен. Geastrum fimbriatum мельче, с пушистым серым споровым мешком и без воротничка. Astraeus hygrometricus (уже в этом каталоге) — звездовикоподобный гриб из другого семейства, с гигроскопичными лучами, которые раскрываются и закрываются в зависимости от влажности, и это не Geastrum. Ни один из этих видов, как и никакой другой вид рода Geastrum, не следует считать синонимом Geastrum triplex.",
+      "notes": "Index Fungorum и Species Fungorum считают Geastrum triplex Jungh. (1840; первоначально опубликован как Geaster triplex) актуальным названием, IF 119601. Species Fungorum указывает только две внутривидовые формы (f. pedicellatum и f. roseum), которые не сохраняются как синонимы. Названия вроде Geastrum michelianum, Geastrum saccatum, Geastrum indicum и Geastrum cryptorhynchum здесь не рассматриваются как синонимы; некоторые из них в Index Fungorum являются актуальными названиями других видов. Тип происходит с Явы. Таблица — иллюстрация, созданная искусственным интеллектом, а не исторический опубликованный рисунок.",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9"
+      ],
+      "label": "Звездовик тройной"
+    },
+    "sk": {
+      "description": "Saprotrófna hviezdovka opadanky v listnatých a zmiešaných lesoch, niekedy aj pod ihličnanmi a často na svahoch. Je rozšírená v Európe a uvádza sa aj z iných miernych a subtropických oblastí. Patrí k najväčším bežným hviezdovkám; spoľahlivé odlíšenie od podobných druhov, najmä od Geastrum saccatum a Geastrum lageniforme, si môže vyžadovať skúsenosť a niekedy aj mikroskop.",
+      "cap": "Neotvorená plodnica je čiastočne zahrabané, cibuľovité alebo zobákovité vajíčko, zvyčajne 1–5 cm široké. Vonkajšia stena sa potom roztrhne na 4–8 hrubých, okrových až hnedých, nehygroskopických cípov, ktoré sa ohýbajú dozadu a nadvihujú výtrusný vak; rozložená plodnica meria 5–10 cm medzi špičkami cípov, výnimočne okolo 11,5 cm. Keď mäsitá vrstva cípov popraská, výtrusný vak často ostane sedieť v samostatnom golieri alebo tanieriku, odkiaľ pochádza aj meno hviezdovka trojitá. Nie každý plodný kus však vytvorí zreteľný golier.",
+      "hymenium": "Plodná časť je gleba vo vnútri prisedlého, papierovitého výtrusného vaku, ktorý meria zvyčajne 1–5 cm, je sivo-hnedý až hnedý a otvára sa malým, strapkatým vrcholovým ostiolom (peristómom), často s bledším prstencom okolo ústia. Mladá gleba je biela a pevná, neskôr sa mení na tmavohnedý prášok. Na odkrytej spodnej strane nie sú lupeňovité ani rúrkovité hyménium.",
+      "stipe": "Hlúbik chýba. Výtrusný vak sedí priamo na cípoch alebo v golieri.",
+      "flesh": "Mladá gleba je biela a pevná, neskôr hnedá a práškovitá. Cípy sú spočiatku hrubé a mäsité a pri ohýbaní často popraskajú. Vôňa ani chuť nie sú výrazné.",
+      "sporePrint": "Výtrusný prach je tmavohnedý. Výtrusy sú guľovité, 3,5–4,5 μm, pokryté drobnými ostnatými bradavkami.",
+      "habitat": "Fruktifikuje po daždi od augusta do novembra, najčastejšie koncom leta a na jeseň, na zemi v opadanke listnatých lesov, najmä pod bukom, a tiež pod ihličnanmi, často na svahoch. Staré, trvácne plodnice sa dajú nájsť aj v zime a nasledujúcu jar.",
+      "uses": "Plodnice sú nejedlé a nemajú kuchynskú hodnotu: sú tuhé a vláknité. V použitých prameňoch sa neuvádzajú ako jedovaté, na jedlo sa však nezbierajú.",
+      "confusion": "Iné hviezdovky môžu vyzerať podobne. Geastrum saccatum je spravidla menšia (asi 2–5 cm v rozloženom stave) a zvyčajne netvorí zreteľný golier; oba druhy sa bez mikroskopu niekedy ťažko rozoznajú a niektoré európske pramene ich považovali za synonymá, Index Fungorum ich však vedie osobitne. Geastrum lageniforme je makroskopicky tiež podobná a geneticky odlišná. Geastrum fimbriatum je menšia, s plstnatým sivým výtrusným vakom a bez goliera. Astraeus hygrometricus (už v tomto katalógu) je hviezdovke podobná huba z inej čeľade, s hygroskopickými cípmi, ktoré sa otvárajú a zatvárajú podľa vlhkosti, a nie je to Geastrum. Žiadny z týchto druhov, ani iné druhy rodu Geastrum, sa nesmú aliasovať ako Geastrum triplex.",
+      "notes": "Index Fungorum a Species Fungorum považujú Geastrum triplex Jungh. (1840; pôvodne uverejnené ako Geaster triplex) za platné meno, IF 119601. Species Fungorum uvádza len dve vnútrodruhové formy (f. pedicellatum a f. roseum), ktoré sa ako synonymá neukladajú. Mená ako Geastrum michelianum, Geastrum saccatum, Geastrum indicum a Geastrum cryptorhynchum sa tu za synonymá nepovažujú; viaceré z nich sú v Index Fungorum platnými menami iných druhov. Typ pochádza z Jávy. Tabuľa je ilustrácia vytvorená umelou inteligenciou, nie historický publikovaný výjav.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Geastrum-triplex/hviezdovka-trojita/hvezdovka-trojita/ID158",
+        "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=G&typ=latin"
+      ],
+      "label": "hviezdovka trojitá"
+    },
+    "sl": {
+      "description": "Saprotofna zvezdica opada v listnatih in mešanih gozdovih, včasih tudi pod iglavci in pogosto na pobočjih. Je široko razširjena v Evropi in jo navajajo tudi iz drugih zmernih in subtropskih območij. Je največja med običajnimi zvezdicami; zanesljivo ločevanje od podobnih vrst, zlasti od Geastrum saccatum in Geastrum lageniforme, lahko zahteva izkušnje in včasih mikroskop.",
+      "cap": "Neodprto trosnjak je delno zakopano, čebulasto ali kljunasto jajce, običajno 1–5 cm široko. Zunanja stena se nato raztrga v 4–8 debelih, okrastih do rjavih, nehigroskopnih krakov, ki se upognejo nazaj in dvignejo trosno vrečko; razprti trosnjak meri 5–10 cm med konicami krakov, izjemoma okoli 11,5 cm. Ko mesnata plast krakov poči, trosna vrečka pogosto ostane v ločenem ovratniku ali krožniku, od koder izvira ime ovratniška zvezdica. Vsak primerek nima jasnega ovratnika.",
+      "hymenium": "Trosotvorno tkivo je gleba v sedeči, papirnati trosni vrečki, običajno 1–5 cm, sivo rjavi do rjavi, ki se odpira z majhnim, resastim vršnim peristomom, pogosto s svetlejšim obročem okoli ustja. Mlada gleba je bela in čvrsta; pozneje postane temnorjav prah. Na odkriti spodnji strani ni lističev niti cevk.",
+      "stipe": "Beta ni. Trosna vrečka sedi neposredno na krakih ali v ovratniku.",
+      "flesh": "Mlada gleba je bela in čvrsta, pozneje rjava in prašnata. Kraki so sprva debeli in mesnati ter se pri upogibanju pogosto razpokajo. Vonj in okus nista značilna.",
+      "sporePrint": "Trosni prah je temnorjav. Trosi so kroglasti, 3,5–4,5 μm, pokriti z drobnimi bodicastimi bradavicami.",
+      "habitat": "Trosnjaki se pojavijo po dežju od avgusta do novembra, najpogosteje pozno poleti in jeseni, na tleh v opadu listnatih gozdov, zlasti pod bukvijo, pa tudi pod iglavci, pogosto na pobočjih. Stare, obstojne trosnjake je mogoče najti še pozimi in naslednjo pomlad.",
+      "uses": "Trosnjaki so neužitni in brez kulinarične vrednosti: so žilavi in vlaknati. V tu uporabljenih virih niso obravnavani kot strupeni, a se jih za hrano ne nabira.",
+      "confusion": "Druge zvezdice so lahko podobne. Geastrum saccatum je na splošno manjša (približno 2–5 cm v razprtem stanju) in običajno ne tvori jasnega ovratnika; vrsti sta brez mikroskopa včasih težko ločljivi, nekateri evropski viri pa sta ju obravnavali kot sinonima, vendar ju Index Fungorum vodi ločeno. Geastrum lageniforme je makroskopsko prav tako podobna in genetsko ločena. Geastrum fimbriatum je manjša, s puhasto sivo trosno vrečko in brez ovratnika. Astraeus hygrometricus (že v tem katalogu) je zvezdici podobna goba iz druge družine, s higroskopnimi kraki, ki se odpirajo in zapirajo glede na vlago, in ni Geastrum. Nobene od teh, niti katere koli druge vrste rodu Geastrum, se ne sme aliasirati kot Geastrum triplex.",
+      "notes": "Index Fungorum in Species Fungorum obravnavata Geastrum triplex Jungh. (1840; prvotno objavljeno kot Geaster triplex) kot veljavno ime, IF 119601. Species Fungorum navaja le dve znotrajvrstni obliki (f. pedicellatum in f. roseum), ki se ne shranjujeta kot sinonima. Imen, kot so Geastrum michelianum, Geastrum saccatum, Geastrum indicum in Geastrum cryptorhynchum, tu ne obravnavamo kot sinonimov; več jih je v Index Fungorum veljavnih imen drugih vrst. Tip izvira z Jave. Tabla je ilustracija, ustvarjena z umetno inteligenco, in ne zgodovinska objavljena slika.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gobe.si/Mikologija/Geastrum"
+      ],
+      "label": "ovratniška zvezdica"
+    },
+    "sr": {
+      "description": "Сапротрофна звездица стеље у листопадним и мешовитим шумама, понекад и под четинарима и често на падинама. Широко је распрострањена у Европи и наводи се и из других умерених и суптропских подручја. Највећа је међу обичним звездицама; поуздано разликовање од сличних врста, нарочито Geastrum saccatum и Geastrum lageniforme, може захтевати искуство, а понекад и микроскоп.",
+      "cap": "Неотворено плодиште је делимично укопано, луковичасто или кљунасто јаје, обично 1–5 cm широко. Спољашњи зид затим пуца на 4–8 дебелих, окерасто смеђих, нехигроскопних кракова који се савијају уназад и подижу спорову кесицу; раширено плодиште мери 5–10 cm између врхова кракова, изузетно око 11,5 cm. Када меснати слој кракова попуца, спорова кесица често остане у посебном овратнику или тањирићу. Није сваки примерак са јасним овратником.",
+      "hymenium": "Плодно ткиво је глеба унутар седеће, папирасте спорове кесице, обично 1–5 cm, сивосмеђе до смеђе, која се отвара малим, ресастим вршним перистомом, често са светлијом зоном око ушћа. Млада глеба је бела и чврста; касније постаје тамносмеђи прах. На откривеној доњој страни нема листића ни цевчица.",
+      "stipe": "Стручка нема. Спорова кесица седи непосредно на краковима или у овратнику.",
+      "flesh": "Млада глеба је бела и чврста, касније смеђа и прашкаста. Краци су испрва дебели и меснати и при савијању често пуцају. Мирис и укус нису карактеристични.",
+      "sporePrint": "Споров прах је тамносмеђи. Споре су лоптасте, 3,5–4,5 μm, покривене ситним бодљикавим брадавицама.",
+      "habitat": "Плоди после кише од августа до новембра, најчешће касног лета и у јесен, на тлу у стељи листопадних шума, нарочито под буквом, а и под четинарима, често на падинама. Стара, трајна плодишта могу се наћи још зими и следећег пролећа.",
+      "uses": "Плодишта су нејестива и без кулинарске вредности: жилава су и влакнаста. У овде коришћеним изворима не сматрају се отровним, али се не беру за јело.",
+      "confusion": "Друге звездице могу изгледати слично. Geastrum saccatum углавном је мања (око 2–5 cm у раширеном стању) и обично не ствара јасан овратник; обе врсте без микроскопа понекад је тешко разликовати, а неки европски извори сматрали су их синонимима, али их Index Fungorum води одвојено. Geastrum lageniforme макроскопски је такође слична и генетски различита. Geastrum fimbriatum је мања, са баршунасто сивом споровом кесицом и без овратника. Astraeus hygrometricus (већ у овом каталогу) је гљива налик звездици из друге породице, са хигроскопним краковима који се отварају и затварају према влази, и није Geastrum. Ниједну од ових, ни било коју другу врсту рода Geastrum, не треба алијасирати као Geastrum triplex.",
+      "notes": "Index Fungorum и Species Fungorum сматрају Geastrum triplex Jungh. (1840; изворно објављено као Geaster triplex) важећим именом, IF 119601. Species Fungorum наводи само два унутарврсна облика (f. pedicellatum и f. roseum), који се не чувају као синоними. Имена као Geastrum michelianum, Geastrum saccatum, Geastrum indicum и Geastrum cryptorhynchum овде се не третирају као синоними; нека од њих у Index Fungorum-у су важећа имена других врста. Тип долази са Јаве. Плоча је илустрација створена вештачком интелигенцијом, а не историјска објављена слика.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En saprotrof jordstjärna i förnan i löv- och blandskog, ibland under barrträd och ofta på sluttningar. Den är vida spridd i Europa och rapporteras också från andra tempererade och subtropiska områden. Den är den största bland de vanliga jordstjärnorna; säker åtskillnad från liknande arter, särskilt Geastrum saccatum och Geastrum lageniforme, kan kräva erfarenhet och ibland mikroskop.",
+      "cap": "Den oöppnade fruktkroppen är ett delvis nedsänkt, lök- eller näbbformat ägg, typiskt 1–5 cm brett. Ytterväggen spricker sedan upp i 4–8 tjocka, ockra till bruna, icke-hygroskopiska flikar som böjs bakåt och lyfter sporsäcken; den utbredda fruktkroppen mäter 5–10 cm mellan flikspetsarna, undantagsvis omkring 11,5 cm. När den köttiga flikskiktet spricker sitter sporsäcken ofta kvar i en särskild krage eller fat, vilket ger arten namnet kragjordstjärna. Inte varje exemplar bildar en tydlig krage.",
+      "hymenium": "Den fertila vävnaden är en gleba inne i den sittande, pappersaktiga sporsäcken, typiskt 1–5 cm, gråbrun till brun, som öppnar sig genom ett litet, fransigt apikalt peristom, ofta med en blekare zon kring mynningen. Ung gleba är vit och fast; senare blir den ett mörkbrunt pulver. Det finns varken skivor eller rör på en fri undersida.",
+      "stipe": "Fot saknas. Sporsäcken sitter direkt på flikarna eller i kragen.",
+      "flesh": "Ung gleba är vit och fast, senare brun och puderaktig. Flikarna är först tjocka och köttiga och spricker ofta när de böjs bakåt. Lukt och smak är inte utmärkande.",
+      "sporePrint": "Spormassan är mörkbrun. Sporerna är klotformade, 3,5–4,5 μm, och täckta av små taggiga vårtor.",
+      "habitat": "Den fruktifierar efter regn från augusti till november, oftast på sen sommar och höst, på marken i förnan i lövskog, särskilt under bok, och även under barrträd, ofta på sluttningar. Gamla, uthålliga fruktkroppar kan fortfarande hittas på vintern och följande vår.",
+      "uses": "Fruktkropparna är oätliga och saknar kulinariskt värde: de är sega och fibrösa. I de källor som används här behandlas de inte som giftiga, men de plockas inte till mat.",
+      "confusion": "Andra jordstjärnor kan se likadana ut. Geastrum saccatum är i allmänhet mindre (cirka 2–5 cm i utbrett tillstånd) och bildar vanligen ingen tydlig krage; de två arterna kan vara svåra att skilja utan mikroskop, och vissa europeiska källor har behandlat dem som synonymer, men Index Fungorum håller dem åtskilda. Geastrum lageniforme är makroskopiskt likaledes lik och genetiskt skild. Geastrum fimbriatum är mindre, med en dunig grå sporsäck och utan krage. Astraeus hygrometricus (redan i denna katalog) är en jordstjärnelik svamp i en annan familj, med hygroskopiska flikar som öppnar och sluter sig med fuktigheten, och är inte ett Geastrum. Ingen av dessa, och ingen annan Geastrum-art, ska aliaseras som Geastrum triplex.",
+      "notes": "Index Fungorum och Species Fungorum behandlar Geastrum triplex Jungh. (1840; ursprungligen publicerad som Geaster triplex) som det aktuella namnet, IF 119601. Species Fungorum listar endast två infraspecifika former (f. pedicellatum och f. roseum), som inte lagras som synonymer. Namn som Geastrum michelianum, Geastrum saccatum, Geastrum indicum och Geastrum cryptorhynchum behandlas här inte som synonymer; flera av dem är aktuella namn på andra arter i Index Fungorum. Typen kommer från Java. Planschen är en AI-genererad illustration, inte en historiskt publicerad figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Kragjordstj%C3%A4rna"
+      ],
+      "label": "kragjordstjärna"
+    },
+    "tr": {
+      "description": "Yaprak döken ve karışık ormanların döküntüsünde, bazen iğne yapraklıların altında ve sıklıkla yamaçlarda saprotrof bir toprak yıldızı. Avrupa’da yaygındır ve başka ılıman ve subtropik bölgelerden de bildirilir. Yaygın toprak yıldızlarının en büyüğüdür; benzer türlerden, özellikle Geastrum saccatum ve Geastrum lageniforme’den güvenle ayırmak deneyim ve bazen mikroskop gerektirebilir.",
+      "cap": "Açılmamış meyve gövdesi kısmen gömülü, soğan veya gaga biçimli bir yumurtadır, tipik olarak 1–5 cm genişliğindedir. Dış duvar sonra 4–8 kalın, devetüyü-kahverengi, higroskopik olmayan kola yarılır; bunlar geriye kıvrılıp spor kesesini yükseltir; açılmış meyve gövdesi kol uçları arasında 5–10 cm, istisnai olarak yaklaşık 11,5 cm ölçülür. Kolların etli katmanı çatladığında spor kesesi çoğu kez ayrı bir yaka veya tabakta kalır. Her örnek belirgin bir yaka oluşturmaz.",
+      "hymenium": "Verimli doku, sapsız, kâğıtsı spor kesesinin içindeki gleba’dır; tipik olarak 1–5 cm, gri-kahverenginden kahverengine, küçük, saçaklı bir tepe peristomla açılır, ağız çevresinde çoğu kez daha soluk bir kuşak bulunur. Genç gleba beyaz ve sıkıdır; sonra koyu kahverengi bir toza dönüşür. Açık alt yüzde lamel veya gözenek yoktur.",
+      "stipe": "Sap yoktur. Spor kesesi doğrudan kolların üzerinde veya yakada oturur.",
+      "flesh": "Genç gleba beyaz ve sıkı, sonra kahverengi ve tozumsudur. Kollar başlangıçta kalın ve etlidir ve kıvrılırken çoğu kez çatlar. Koku ve tat ayırt edici değildir.",
+      "sporePrint": "Spor kütlesi koyu kahverengidir. Sporlar küreseldir, 3,5–4,5 μm, küçük dikensi siğillerle kaplıdır.",
+      "habitat": "Yağmurdan sonra Ağustos’tan Kasım’a kadar, en çok yaz sonunda ve sonbaharda, yaprak döken ormanların döküntüsünde, özellikle kayın altında ve ayrıca iğne yapraklıların altında, sıklıkla yamaçlarda meyve verir. Eski, kalıcı meyve gövdeleri kışın ve sonraki ilkbaharda hâlâ bulunabilir.",
+      "uses": "Meyve gövdeleri yenmez ve mutfak değeri yoktur: sert ve liflidir. Burada kullanılan kaynaklarda zehirli sayılmazlar, ancak yiyecek olarak toplanmazlar.",
+      "confusion": "Başka toprak yıldızları benzer görünebilir. Geastrum saccatum genellikle daha küçüktür (açıldığında yaklaşık 2–5 cm) ve çoğu zaman belirgin bir yaka oluşturmaz; iki tür mikroskop olmadan bazen zor ayrılır ve bazı Avrupa kaynakları onları eşanlamlı saymıştır, ancak Index Fungorum onları ayrı tutar. Geastrum lageniforme makroskobik olarak da benzer ve genetik olarak ayrıdır. Geastrum fimbriatum daha küçüktür, tüylü gri spor kesesi vardır ve yakası yoktur. Astraeus hygrometricus (bu katalogda zaten vardır) başka bir familyadan, nemle açılıp kapanan higroskopik kollu, yıldız görünüşlü bir mantardır ve bir Geastrum değildir. Bunlardan hiçbiri, başka hiçbir Geastrum türü de, Geastrum triplex olarak alias edilmemelidir.",
+      "notes": "Index Fungorum ve Species Fungorum, Geastrum triplex Jungh. (1840; ilk olarak Geaster triplex olarak yayımlanmış) adını geçerli ad olarak kabul eder, IF 119601. Species Fungorum yalnızca iki tür içi formu listeler (f. pedicellatum ve f. roseum); bunlar eşanlamlı olarak saklanmaz. Geastrum michelianum, Geastrum saccatum, Geastrum indicum ve Geastrum cryptorhynchum gibi adlar burada eşanlamlı sayılmaz; birkaçının Index Fungorum’da başka türlerin geçerli adlarıdır. Tip Java’dandır. Levha, tarihsel yayımlanmış bir şekil değil, yapay zekâ ile üretilmiş bir çizimdir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Сапротрофний зірковик підстилки в листяних і мішаних лісах, інколи під хвойними і часто на схилах. Широко поширений у Європі і також наводиться з інших помірних і субтропічних областей. Це найбільший серед звичайних зірковиків; впевнене розрізнення з подібними видами, особливо з Geastrum saccatum і Geastrum lageniforme, може вимагати досвіду і іноді мікроскопа.",
+      "cap": "Невідкрите плодове тіло — частково заглиблене в ґрунт цибулиноподібне або дзьобоподібне яйце, зазвичай 1–5 см упоперек. Зовнішня оболонка потім розривається на 4–8 товстих, охристо-коричневих, негігроскопічних променів, які відгинаються назад і піднімають спорову торбинку; розкрите плодове тіло має 5–10 см між кінцями променів, винятково близько 11,5 см. Коли м’ясистий шар променів тріскається, спорова торбинка часто лишається в окремому комірці або блюдечку, звідки й назва Зірковик потрійний. Не в кожного екземпляра утворюється чіткий комірець.",
+      "hymenium": "Плідна тканина — глеба всередині сидячої, паперистої спорової торбинки, зазвичай 1–5 см, сіро-коричневої до коричневої, що відкривається маленьким торочкуватим верхівковим перистомом, часто з блідішою зоною навколо гирла. Молода глеба біла і щільна; пізніше стає темно-коричневим порошком. На відкритому нижньому боці немає ні пластинок, ні трубочок.",
+      "stipe": "Ніжки немає. Спорова торбинка сидить безпосередньо на променях або в комірці.",
+      "flesh": "Молода глеба біла і щільна, пізніше коричнева і порошкувата. Промені спочатку товсті й м’ясисті і при відгинанні часто розтріскуються. Запах і смак невиразні.",
+      "sporePrint": "Споровий порошок темно-коричневий. Спори кулясті, 3,5–4,5 мкм, вкриті дрібними колючкуватими бородавочками.",
+      "habitat": "Плодоносить після дощу з серпня по листопад, найчастіше наприкінці літа і восени, на ґрунті в підстилці листяних лісів, особливо під буком, а також під хвойними, часто на схилах. Старі, довготривалі плодові тіла можна знайти ще взимку і наступної весни.",
+      "uses": "Плодові тіла неїстівні і не мають кулінарної цінності: вони жорсткі й волокнисті. У використаних тут джерелах їх не вважають отруйними, але для їжі їх не збирають.",
+      "confusion": "Інші зірковики можуть виглядати подібно. Geastrum saccatum зазвичай менший (близько 2–5 см у розкритому стані) і звичайно не утворює чіткого комірця; обидва види без мікроскопа іноді важко розрізнити, і деякі європейські джерела вважали їх синонімами, проте Index Fungorum веде їх окремо. Geastrum lageniforme макроскопічно також схожий і генетично відмінний. Geastrum fimbriatum менший, з пухнастою сірою споровою торбинкою і без комірця. Astraeus hygrometricus (вже в цьому каталозі) — зірковикоподібний гриб з іншої родини, з гігроскопічними променями, що відкриваються і закриваються залежно від вологості, і це не Geastrum. Жоден із цих видів, як і жоден інший вид роду Geastrum, не слід вважати синонімом Geastrum triplex.",
+      "notes": "Index Fungorum і Species Fungorum вважають Geastrum triplex Jungh. (1840; спочатку опублікований як Geaster triplex) чинною назвою, IF 119601. Species Fungorum наводить лише дві внутрішньовидові форми (f. pedicellatum і f. roseum), які не зберігаються як синоніми. Назви на кшталт Geastrum michelianum, Geastrum saccatum, Geastrum indicum і Geastrum cryptorhynchum тут не розглядаються як синоніми; кілька з них в Index Fungorum є чинними назвами інших видів. Тип походить з Яви. Таблиця — ілюстрація, створена штучним інтелектом, а не історичний опублікований рисунок.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%97%D1%96%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D0%BF%D0%BE%D1%82%D1%80%D1%96%D0%B9%D0%BD%D0%B8%D0%B9"
+      ],
+      "label": "Зірковик потрійний"
+    },
+    "zh": {
+      "description": "腐生性地星，生于落叶林和混交林的凋落物中，有时也在针叶树下，常出现在坡地。在欧洲分布广泛，温带和亚热带其他地区也有记录。它是常见地星中最大的一种；要有把握地与相近种、尤其是 Geastrum saccatum 和 Geastrum lageniforme 区分，往往需要经验，有时还需要显微镜。",
+      "cap": "未开裂的子实体是部分埋于土中、洋葱形或喙形的卵，通常直径1–5厘米。外层随后裂成4–8枚厚实、浅黄褐色至褐色、非吸湿性的裂片，裂片向外反折并托起孢囊；展开后的子实体在裂片尖端之间宽5–10厘米，例外可达约11.5厘米。裂片的肉质层开裂后，孢囊常坐落在独立的领圈或浅盘中，这也是中文名尖顶地星所对应的形态。并非每个标本都形成明显的领圈。",
+      "hymenium": "可育组织是无柄、纸质孢囊内的产孢组织（孢体）。孢囊通常1–5厘米，灰褐色至褐色，顶端有一小的、具流苏的开口（缘膜），口周常有较浅的环带。幼时孢体白色而坚实，后来变成深褐色粉末。裸露的腹面没有菌褶，也没有管孔。",
+      "stipe": "无柄。孢囊直接坐在裂片上，或位于领圈中。",
+      "flesh": "幼时孢体白色而坚实，后来褐色并呈粉状。裂片起初肥厚多肉，反折时常常出现裂纹。气味和味道都不显著。",
+      "sporePrint": "孢粉深褐色。孢子球形，3.5–4.5微米，表面有细小的刺状疣。",
+      "habitat": "雨后自八月至十一月出菇，以夏末和秋季最盛，生于落叶林地表凋落物中，尤以山毛榉下为多见，也见于针叶树下，常在坡地。陈旧而持久的子实体在冬季乃至翌年春季仍可能见到。",
+      "uses": "子实体不可食用，没有烹饪价值：质地坚韧而纤维质。此处所用资料不把它当作有毒种类，但也不采集食用。",
+      "confusion": "其他地星可能外形相近。Geastrum saccatum 通常较小（展开后约2–5厘米），一般不形成明显领圈；两种有时在没有显微镜时难以区分，部分欧洲资料曾把它们当作异名，但 Index Fungorum 仍分开处理。Geastrum lageniforme 在宏观上也相似，遗传上却是不同种类。Geastrum fimbriatum 更小，孢囊灰色而被绒，没有领圈。Astraeus hygrometricus（本目录已收录）是另一科的地星状真菌，裂片有吸湿性，随湿度开合，并不是 Geastrum。这些种类，以及其他任何 Geastrum 种类，都不应作为 Geastrum triplex 的别名。",
+      "notes": "Index Fungorum 和 Species Fungorum 将 Geastrum triplex Jungh.（1840年；原发表为 Geaster triplex）视为现行名，IF 119601。Species Fungorum 仅列出两个种下变型（f. pedicellatum 和 f. roseum），本目录不把它们存为异名。Geastrum michelianum、Geastrum saccatum、Geastrum indicum 和 Geastrum cryptorhynchum 等名称在此不作为异名；其中若干在 Index Fungorum 中是其他种类的现行名。模式产地为爪哇。图版是人工智能生成的插图，不是历史上已发表的图。",
+      "names": [],
+      "sourceUrls": [
+        "https://zh.wikipedia.org/wiki/%E5%9C%B0%E6%98%9F%E5%B1%9E",
+        "https://zh.wikipedia.org/wiki/%E5%9C%B0%E6%98%9F%E7%A7%91"
+      ],
+      "label": "尖顶地星"
+    }
+  },
+  "synonyms": [],
+  "reserved": false,
+  "id": 183,
+  "citation": "Tijdschr. Nat. Gesch. Physiol. 7: 287 (1840)"
+},
+{
+  "name": "Sarcoscypha austriaca",
+  "author": "(Beck ex Sacc.) Boud.",
+  "family": "Sarcoscyphaceae",
+  "genus": "Sarcoscypha",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Sarcoscyphaceae",
+    "Sarcoscypha"
+  ],
+  "summary": [
+    "Pezizales",
+    "Sarcoscyphaceae",
+    "Sarcoscypha"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood",
+    "ground"
+  ],
+  "color": [
+    "red"
+  ],
+  "capFrom": 2.0,
+  "capTo": 7.0,
+  "stipeHeightFrom": 0.5,
+  "stipeHeightTo": 3.5,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 0.7,
+  "fruitingFrom": 12,
+  "fruitingTo": 4,
+  "label": {
+    "cs": "ohnivec rakouský",
+    "da": "krølhåret pragtbæger",
+    "de": "Österreichischer Kelchbecherling",
+    "en": "scarlet elfcup",
+    "et": "harilik karikseen",
+    "fi": "punamaljakas",
+    "fr": "pézize d'Autriche",
+    "hu": "osztrák csészegomba",
+    "lt": "austriškoji plačiataurė",
+    "lv": "Austrijas agrene",
+    "nl": "krulhaarkelkzwam",
+    "no": "skarlagen vårbeger",
+    "pl": "czarka austriacka",
+    "ru": "Саркосцифа австрийская",
+    "sk": "ohnivec rakúsky",
+    "sl": "cinobrasta čašica",
+    "sr": "Рујни пехар",
+    "sv": "scharlakansskål",
+    "uk": "Саркосцифа австрійська"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "scarlet elf cup",
+      "scarlet elf cap"
+    ],
+    "es": [],
+    "et": [
+      "verev liudik",
+      "põdra tass"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "skarlatininė plačiataurė"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "алая эльфова чаша"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [
+      "Шкрлетна чашица"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "червона ельфійська чаша"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=433531",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=433531",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=433531",
+      "https://www.gbif.org/species/8689016",
+      "https://www.wikidata.org/wiki/Q2519734",
+      "https://en.wikipedia.org/wiki/Sarcoscypha_austriaca",
+      "https://www.first-nature.com/fungi/sarcoscypha-austriaca.php",
+      "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/scarlet-elf-cup/",
+      "https://species.nbnatlas.org/species/NHMSYS0001497078",
+      "https://www.inaturalist.org/taxa/126913-Sarcoscypha-austriaca",
+      "https://species.wikimedia.org/wiki/Sarcoscypha_austriaca"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Ohnivec_rakousk%C3%BD",
+      "https://www.myko.cz/myko-atlas/Sarcoscypha-austriaca/"
+    ],
+    "da": [
+      "https://www.naturbasen.dk/art/3485/kroelhaaret-pragtbaeger"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Scharlachroter_Kelchbecherling"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Harilik_karikseen"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Punamaljakas"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/P%C3%A9zize"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Osztr%C3%A1k_cs%C3%A9szegomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Austri%C5%A1koji_pla%C4%8Diataur%C4%97"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Austrijas_agrene"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Krulhaarkelkzwam"
+    ],
+    "no": [
+      "https://no.wikipedia.org/wiki/Skarlagen_v%C3%A5rbeger",
+      "https://nb.wikipedia.org/wiki/Skarlagen_v%C3%A5rbeger"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Czarka_austriacka"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D1%86%D0%B8%D1%84%D0%B0_%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Sarcoscypha-austriaca/ohnivec-rakusky/ohnivec-rakousky/ID311",
+      "https://sk.wikipedia.org/wiki/Rezavka"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Cinobrasta_%C4%8Da%C5%A1ica"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/%D0%A0%D1%83%D1%98%D0%BD%D0%B8_%D0%BF%D0%B5%D1%85%D0%B0%D1%80"
+    ],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Scharlakanssk%C3%A5l"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D1%86%D0%B8%D1%84%D0%B0_%D0%B0%D0%B2%D1%81%D1%82%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0"
+    ],
+    "zh": []
+  },
+  "added": "2026-11-18",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/Sarcoscypha_austriaca@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/Sarcoscypha_austriaca@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Sarcoscypha austriaca.png” (from ~/Downloads) is a JPEG/JFIF illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The circular inset shows coiled or corkscrew exterior hairs, the diagnostic character versus Sarcoscypha coccinea and S. jurana. The section shows a scarlet inner surface, white flesh with a thin red lining, a pale exterior and a short stipe; the stipe is a little regular and smoothly tapered. The habit group on a mossy branch is typical, though the cups are a little too evenly rounded and the colour is very clean. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/Sarcoscypha_austriaca@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa1.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/200600478"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa2.webp",
+      "author": "T. Pedro Hafermann",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/340922724"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa3.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/261743428"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa4.webp",
+      "author": "Nicolás Tamargo",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/38676502"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa5.webp",
+      "author": "gill_ryenats",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/196023708"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/Sarcoscypha_austriaca@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/Sarcoscypha_austriaca@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (alpha only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa1.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/200600478"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa2.webp",
+      "author": "T. Pedro Hafermann",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/340922724"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa3.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/261743428"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa4.webp",
+      "author": "Nicolás Tamargo",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/38676502"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Sarcoscyphaceae/Sarcoscypha_austriaca/sa5.webp",
+      "author": "gill_ryenats",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/196023708"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "ساركوسيفا النمساوية فطر كأسي رمّي للغابات الرطبة، يثمر في الشتاء وأوائل الربيع على أغصان وفروع الأخشاب الصلبة المتساقطة، غالباً بين الطحالب وفرش الأوراق. وهو واسع الانتشار في أوروبا ويُذكر أيضاً من شمال شرقي أمريكا الشمالية. وفي بريطانيا وأيرلندا أصبح الآن الأكثر تسجيلاً من كأسيي الجني الأحمر الشائعين. وينتمي إلى مجموعة أنواع متشابهة تضم Sarcoscypha coccinea وS. jurana وفي أمريكا الشمالية S. dudleyi؛ وهذه الأنواع لا تُعامل هنا كمرادفات، وكثيراً ما يحتاج التعرف الموثوق إلى مجهر.",
+      "cap": "لا توجد قبعة بالمعنى المعتاد للفطر: الجسم الثمري كأس (أبوثيسيوم). عند تمام الانفتاح يبلغ قطره عادة 2–7 سم (مصادر أخرى تذكر 1–5 سم، وبعضها 1–8 سم) وارتفاعه نحو 1–2 سم. الكؤوس الفتية عميقة، بحافة منحنية قليلاً إلى الداخل، ثم تنفتح إلى أوانٍ غير منتظمة؛ وقد تتسطح الكؤوس الأقدم وقد تتشقق الحافة. السطح الداخلي أملس لامع قرمزي، ونادراً ما يكون برتقالياً مصفراً أو أبيض. السطح الخارجي أبهت — مبيض أو وردي أو ترابي أو كريمي — ومغطى بلباد من شعيرات دقيقة.",
+      "hymenium": "السطح الداخلي الخصيب أملس قرمزي. تتكون الأبواغ على هذا البطان، وقد تندفع في سحابة مرئية إذا أُزعج الكأس. طبعة الأبواغ بيضاء. وعلى خارج الكأس تكون الشعيرات ملفوفة أو لولبية كبراغي الفلين. ومع الأبواغ يُعد شكل هذه الشعيرات الطريقة المعتادة لفصل هذا النوع عن Sarcoscypha coccinea، التي شعيراتها الخارجية أكثر استقامة وأبواغها لا تكوّن براعم كونيدية، وعن S. jurana.",
+      "stipe": "هناك ساق قصيرة، كثيراً ما تختبئ في الطحالب أو فرش الأوراق، يصل طولها في الوصف المستخدم هنا إلى 3,5 سم وسمكها 0,3–0,7 سم؛ ومصادر أخرى تذكر نحو 0,5–2 × 0,3–0,5 سم، أو 1–3 × 0,3–0,5 سم. ولونها كلون السطح الخارجي للكأس، أو أبهت. ويختلف طول الساق بحسب عمق اندفان الخشب.",
+      "flesh": "اللحم أبيض ومطاطي أو غضروفي قليلاً، مع طبقة حمراء رقيقة تبطّن الكأس. والرائحة والطعم غير مميزين.",
+      "sporePrint": "بيضاء. الأبواغ إهليلجية، عادة 24–32 × 12–14 ميكرومتراً (تتسع النطاقات في مصادر أخرى إلى نحو 20–40 × 10–15 ميكرومتراً)، وغالباً بنهايات مسطحة أو غائرة قليلاً، وتحوي عدة قطرات زيتية. وقد تكوّن الأبواغ الناضجة براعم كونيدية صغيرة في النهايات.",
+      "habitat": "رمّي على أغصان وفروع الأخشاب الصلبة المتساقطة، وغالباً المدفونة جزئياً، في مواضع رطبة مظللة، ولا سيما على القيقب والصفصاف والبندق والنَغْت وأشجار عريضة الأوراق أخرى، عادة بين الطحالب وفرش الأوراق. وفي بريطانيا وأيرلندا يُوجد في الغالب من ديسمبر إلى أبريل. ويعطي الأطلس السلوفاكي نوفمبر إلى يونيو، وفي أجزاء من شرق أوروبا هو أساساً فطر أوائل الربيع بعد ذوبان الثلج، وأحياناً مع سجلات أواخر الخريف. يسجّل هذا الدليل الموسم من ديسمبر إلى أبريل وفق مصادر بريطانية عدة، ويذكر في النص النافذة الأوسع في مناطق أخرى.",
+      "uses": "تعامل معظم الأدلة والأطالس المستخدمة هنا هذا النوع على أنه غير صالح للأكل، أو تنصح بعدم جمعه. وتعدّه بعض الجهات، ومنها الجمعية النرويجية لعلم الفطريات والجني، صالحاً للأكل إذا طُهي جيداً؛ واللحم رقيق وغير مقدَّر كثيراً. وقد وصفته بعض الأدلة بأنه مريب. يتبع هذا الدليل أغلب تلك المصادر ويسجّله غير صالح للأكل. ولا ينبغي أكل كؤوس حمراء مشابهة اعتماداً على هذا الشبه وحده. اطبخوا الفطريات البرية دائماً؛ ولا تعتمدوا على هذا النص وحده.",
+      "confusion": "Sarcoscypha coccinea يكاد يكون مطابقاً بالعين المجردة ولا يُفصل بثقة إلا بالمجهر (شعيرات خارجية أكثر استقامة؛ أبواغ بلا براعم كونيدية). وSarcoscypha jurana نوع أوروبي مشابه آخر، كثيراً ما يرتبط بالزيزفون. وفي شمال شرقي أمريكا الشمالية النوع الشبيه المقابل هو S. dudleyi. ولا يُحفظ أي من هذه الأسماء هنا كمرادف. فطر قشرة البرتقال (Aleuria aurantia) برتقالي لا قرمزي، ينمو على التربة لا على الخشب، ويثمر أساساً في أواخر الصيف والخريف. وMicrostoma protractum قريب أصغر، أطول ساقاً، من الأسرة نفسها.",
+      "notes": "الاسم المقبول هو Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907؛ Hist. Class. Discom. Eur.: 55)، Index Fungorum / MycoBank 433531، استناداً إلى Lachnea austriaca Beck ex Sacc. (1889). ويورد Species Fungorum أيضاً Peziza imperialis Beck وScutellinia imperialis Kuntze وHumaria imperialis (Beck) Mussat والطور اللاجنسي Molliardiomyces coccineus Paden (نُشر باسم M. coccinea). وSarcoscypha austriaca var. lutea شكل أصفر برتقالي لهذا النوع، لا نوعاً مستقلاً محفوظاً هنا. واسم Peziza austriaca، المستخدم في بعض المصادر، ليس على صفحة المرادفات في Species Fungorum ولا يُحفظ. وSarcoscypha coccinea وS. jurana وS. dudleyi أنواع قائمة مستقلة ولا تُعامل كمرادفات. وتظهر أحياناً أجسام ثمرية صفراء برتقالية وبيضاء. والفصل الموثوق عن كؤوس الجني الحمراء الشبيهة يحتاج عادة إلى مجهر. واللوحة رسم أُنشئ بالذكاء الاصطناعي، وليست شكلاً تاريخياً منشوراً.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Sarcoscypha austriaca е сапротрофна чашковидна гъба на влажни гори, която плододава през зимата и ранна пролет върху опадали клонки и клони на широколистни дървета, често сред мъх и постилка. Разпространена е в Европа и се посочва също от североизточна Северна Америка. Във Великобритания и Ирландия сега е по-често регистрираната от двете обичайни червени елфови чашки. Принадлежи към комплекс от сходни видове, който включва Sarcoscypha coccinea, S. jurana и в Северна Америка S. dudleyi; тези видове не се третират тук като синоними и сигурното определяне често изисква микроскоп.",
+      "cap": "Обикновена шапка няма: плодното тяло е чашка (апотеций). Напълно разтворена тя е обикновено 2–7 cm широка (други източници дават 1–5 cm, някои 1–8 cm) и около 1–2 cm висока. Младите чашки са дълбоки, със слабо навътре извит ръб, след това се отварят в неправилни панички; по-старите могат да се сплескат, а ръбът може да се цепи. Вътрешната повърхност е гладка, лъскава и аленочервена, рядко оранжевожълта или бяла. Външната повърхност е по-бледа — белезникава, розова, охра или кремава — и покрита с плъст от дребни космици.",
+      "hymenium": "Плодната вътрешна повърхност е гладка и аленочервена. Спорите се образуват върху тази облицовка и при безпокойство на чашката могат да излетят във видимо облаче. Споровият прах е бял. Отвън на чашката космиците са навити или като тирбушон. Заедно със спорите тази форма на космиците е обичайният начин да се отличи видът от Sarcoscypha coccinea, чиито външни космици са по-прави, а спорите не образуват конидийни пъпки, и от S. jurana.",
+      "stipe": "Има късо пънче, често скрито в мъх или постилка, в използваното тук описание до 3,5 cm дълго и 0,3–0,7 cm дебело; други източници дават около 0,5–2 × 0,3–0,5 cm или 1–3 × 0,3–0,5 cm. Има същия цвят като външната страна на чашката или е по-бледо. Дължината на пънчето зависи от това колко дълбоко е заровена дървесината.",
+      "flesh": "Месото е бяло и гумено или леко хрущялно, с тънък червен слой, който постила чашката. Мирисът и вкусът не са характерни.",
+      "sporePrint": "Бял. Спорите са елипсовидни, обикновено 24–32 × 12–14 μm (в други източници диапазоните стигат приблизително до 20–40 × 10–15 μm), често със сплескани или леко вдлъбнати краища, и съдържат няколко маслени капки. Зрелите спори могат на краищата да образуват дребни конидийни пъпки.",
+      "habitat": "Сапроб на опадали, често частично заровени клонки и клони на широколистни на влажни, сенчести места, особено върху клен, върба, леска, елша и други широколистни, обикновено сред мъх и постилка. Във Великобритания и Ирландия се намира най-често от декември до април. Словашкият атлас посочва ноември до юни, а в части от Източна Европа това е предимно гъба на ранна пролет след топенето на снега, понякога с късноесенни находки. Този каталог записва сезона като декември до април според няколко британски източника и споменава в текста по-широкия прозорец в други области.",
+      "uses": "Повечето използвани тук определители и атласи смятат Sarcoscypha austriaca за неядлива или съветват да не се събира. Някои авторитети, включително Норвежката асоциация по микология и събиране, я считат за ядлива, ако се свари добре; месото е тънко и не се цени високо. Някои ръководства са я наричали съмнителна. Този каталог следва мнозинството от тези източници и я записва като неядлива. Подобни червени чашки не бива да се ядат само поради това сходство. Дивите гъби винаги варете; не разчитайте само на този текст.",
+      "confusion": "Sarcoscypha coccinea е макроскопски почти идентична и се отличава сигурно само с микроскоп (по-прави външни космици; спори без конидийни пъпки). Sarcoscypha jurana е друг подобен европейски вид, често свързан с липата. В североизточна Северна Америка съответният подобен вид е S. dudleyi. Нито едно от тези имена не се съхранява тук като синоним. Портокаловата алеурия (Aleuria aurantia) е оранжева, а не алена, расте на почва, а не на дървесина, и плододава главно в късно лято и есен. Microstoma protractum е по-дребен, с по-дълго пънче родственик от същото семейство.",
+      "notes": "Приетото име е Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, въз основа на Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum посочва също Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat и анаморфата Molliardiomyces coccineus Paden (публикувана като M. coccinea). Sarcoscypha austriaca var. lutea е жълто-оранжева форма на този вид, а не отделен вид, съхраняван тук. Името Peziza austriaca, използвано от някои източници, не е на страницата за синонимия на Species Fungorum и не се съхранява. Sarcoscypha coccinea, S. jurana и S. dudleyi са отделни валидни видове и не се третират като синоними. Рядко се срещат оранжевожълти и бели плодни тела. Сигурното отличаване от сходните червени чашки обикновено изисква микроскоп. Таблото е илюстрация, създадена с изкуствен интелект, а не историческа публикувана рисунка.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Ohnivec rakouský je saprotrofní miskovitá houba vlhkých lesů, která fruktifikuje v zimě a časně na jaře na padlých větvičkách a větvích listnáčů, často v mechu a opadance. Je rozšířený v Evropě a uvádí se i ze severovýchodu Severní Ameriky. V Británii a Irsku je dnes častěji zaznamenávaným z obou běžných červených ohnivců. Patří do okruhu podobných druhů, který zahrnuje Sarcoscypha coccinea, S. jurana a v Severní Americe S. dudleyi; tyto druhy se zde neberou jako synonyma a spolehlivé určení často vyžaduje mikroskop.",
+      "cap": "V obvyklém smyslu klobouk chybí: plodnice je miska (apothecium). Plně rozvinutá měří typicky 2–7 cm (jiné prameny uvádějí 1–5 cm, některé 1–8 cm) a je vysoká kolem 1–2 cm. Mladé misky jsou hluboké, s mírně dovnitř zahnutým okrajem, potom se otevírají v nepravidelné číšky; starší se mohou zploštit a okraj může popraskat. Vnitřní strana je hladká, lesklá a šarlatově červená, vzácně oranžovožlutá nebo bílá. Vnější strana je bledší — bělavá, růžová, okrová nebo krémová — a pokrytá plstí drobných chloupků.",
+      "hymenium": "Plodná vnitřní strana je hladká a šarlatově červená. Výtrusy se tvoří na tomto povrchu a při vyrušení misky mohou vyletět ve viditelném obláčku. Výtrusný prach je bílý. Na vnější straně misky jsou chloupky stočené nebo vývrtkovité. Spolu s výtrusy je tento tvar chloupků obvyklý způsob, jak druh odlišit od Sarcoscypha coccinea, jejíž vnější chloupky jsou rovnější a výtrusy netvoří konidiové pučení, a od S. jurana.",
+      "stipe": "Má krátký třeň, často skrytý v mechu nebo opadance, v zde použitém popisu až 3,5 cm dlouhý a 0,3–0,7 cm tlustý; jiné prameny uvádějí přibližně 0,5–2 × 0,3–0,5 cm, nebo 1–3 × 0,3–0,5 cm. Má stejnou barvu jako vnější strana misky, nebo je bledší. Délka třeně závisí na tom, jak hluboko je dřevo zahrabané.",
+      "flesh": "Dužnina je bílá a gumovitá nebo mírně chrupavčitá, s tenkou červenou vrstvou vystýlající misku. Vůně ani chuť nejsou výrazné.",
+      "sporePrint": "Bílý. Výtrusy jsou elipsoidní, typicky 24–32 × 12–14 μm (rozsahy v jiných pramenech sahají přibližně na 20–40 × 10–15 μm), často se zploštělými nebo mírně vkleslými konci, a obsahují několik olejových kapiček. Zralé výtrusy mohou na koncích tvořit drobné konidiové pučení.",
+      "habitat": "Rozkládá padlé, často částečně zahrabané větvičky a větve listnáčů na vlhkých, stinných místech, zejména na javoru, vrbě, lísce, olši a jiných listnatých dřevinách, obvykle v mechu a opadance. V Británii a Irsku se nejčastěji nachází od prosince do dubna. Slovenský atlas uvádí listopad až červen a v částech východní Evropy jde především o houbu časného jara po tání sněhu, někdy s pozdně podzimními nálezy. Tento katalog zaznamenává sezónu prosinec až duben podle několika britských pramenů a širší období v jiných oblastech uvádí v textu.",
+      "uses": "Většina zde použitých terénních klíčů a atlasů považuje ohnivec rakouský za nejedlý, nebo od sběru odrazuje. Některé autority, včetně Norské asociace pro mykologii a sběr, ho považují za jedlý, pokud se důkladně uvaří; dužnina je tenká a není vysoce ceněná. Několik klíčů ho označilo za podezřelý. Tento katalog se přidržuje většiny těchto pramenů a uvádí ho jako nejedlý. Podobné červené misky se nemají jíst jen pro podobnost. Divoké houby vždy vařte; nespoléhejte se jen na tento text.",
+      "confusion": "Ohnivec šarlatový (Sarcoscypha coccinea) je pouhým okem téměř totožný a spolehlivě ho lze odlišit jen mikroskopem (rovnější vnější chloupky; výtrusy bez konidiového pučení). Sarcoscypha jurana je další podobný evropský druh, často vázaný na lípu. V severovýchodní Severní Americe je odpovídajícím podobným druhem S. dudleyi. Žádné z těchto jmen se zde neukládá jako synonymum. Mísenka oranžová (Aleuria aurantia) je oranžová, nikoli šarlatová, roste na půdě, ne na dřevě, a fruktifikuje především koncem léta a na podzim. Ohnivec zimní (Microstoma protractum) je menší příbuzný ze stejné čeledi s delším třeněm.",
+      "notes": "Akceptované jméno je Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, založené na jménu Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum uvádí také Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat a anamorfu Molliardiomyces coccineus Paden (uveřejněnou jako M. coccinea). Sarcoscypha austriaca var. lutea je žlutooranžová forma tohoto druhu, nikoli samostatný druh, který by se zde ukládal. Jméno Peziza austriaca, které používají některé prameny, na synonymické stránce Species Fungorum není a neukládá se. Sarcoscypha coccinea, S. jurana a S. dudleyi jsou samostatné platné druhy a neberou se jako synonyma. Vzácně se vyskytují oranžovožluté a bílé plodnice. Spolehlivé odlišení od podobných červených ohnivců obvykle vyžaduje mikroskop. Tabule je ilustrace vygenerovaná umělou inteligencí, nikoli historická publikovaná kresba.",
+      "names": [],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Ohnivec_rakousk%C3%BD",
+        "https://www.myko.cz/myko-atlas/Sarcoscypha-austriaca/"
+      ],
+      "label": "ohnivec rakouský"
+    },
+    "da": {
+      "description": "Krølhåret pragtbæger er en saprotrof bægersvamp i fugtig skov, som frugter om vinteren og det tidlige forår på nedfaldne kviste og grene af løvtræer, ofte blandt mos og løv. Den er udbredt i Europa og angives også fra det nordøstlige Nordamerika. I Storbritannien og Irland er den nu den hyppigst registrerede af de to almindelige røde pragtbægere. Den tilhører et kompleks af lignende arter, der omfatter Sarcoscypha coccinea, S. jurana og i Nordamerika S. dudleyi; disse arter behandles ikke her som synonymer, og sikker bestemmelse kræver ofte et mikroskop.",
+      "cap": "Der er ingen hat i sædvanlig svampemæssig forstand: frugtlegemet er et bæger (apothecium). Fuldt udfoldet er det typisk 2–7 cm bredt (andre kilder angiver 1–5 cm, nogle 1–8 cm) og omkring 1–2 cm højt. Unge bægere er dybe med en let indbuet rand og åbner sig derefter til uregelmæssige skåle; ældre kan flades ud, og randen kan flække. Indersiden er glat, skinnende og skarlagenrød, sjældent orangegul eller hvid. Ydersiden er blegere — hvidlig, rosa, okker eller cremefarvet — og dækket af et filtlag af bittesmå hår.",
+      "hymenium": "Den fertile inderside er glat og skarlagenrød. Sporerne dannes på denne beklædning og kan puste ud i en synlig sky, hvis et bæger forstyrres. Sporeaftrykket er hvidt. På ydersiden af bægeret er hårene krøllede eller proptrækkerformede. Sammen med sporerne er denne hårform den sædvanlige måde at adskille arten fra Sarcoscypha coccinea, hvis ydre hår er mere lige, og hvis sporer ikke danner konidieknopper, samt fra S. jurana.",
+      "stipe": "Der er en kort stok, ofte skjult i mos eller løv, i den her brugte beskrivelse op til 3,5 cm lang og 0,3–0,7 cm tyk; andre kilder angiver cirka 0,5–2 × 0,3–0,5 cm, eller 1–3 × 0,3–0,5 cm. Den har samme farve som bægerets yderside, eller er blegere. Stokkens længde varierer med, hvor dybt veddet er begravet.",
+      "flesh": "Kødet er hvidt og gummiagtigt eller let bruskagtigt, med et tyndt rødt lag, der beklæder bægeret. Lugt og smag er ikke karakteristiske.",
+      "sporePrint": "Hvidt. Sporerne er ellipsoidiske, typisk 24–32 × 12–14 μm (intervaller i andre kilder rækker til omkring 20–40 × 10–15 μm), ofte med fladtrykte eller let indtrykte ender, og indeholder flere oliedråber. Modne sporer kan danne små konidieknopper i enderne.",
+      "habitat": "En saprobiont på nedfaldne, ofte delvis nedgravede kviste og grene af løvtræer på fugtige, skyggefulde steder, især på løn, pil, hassel, el og andre løvtræer, sædvanligvis blandt mos og løv. I Storbritannien og Irland findes den oftest fra december til april. Det slovakiske atlas angiver november til juni, og i dele af Østeuropa er den primært en tidlig forårssvamp efter snesmeltningen, undertiden med sene efterårsfund. Dette katalog registrerer sæsonen som december til april efter flere britiske kilder og nævner det bredere vindue i andre egne i teksten.",
+      "uses": "De fleste af de feltguider og atlasser, der er brugt her, behandler krølhåret pragtbæger som uspiselig eller fraråder indsamling. Nogle autoriteter, herunder den norske forening for mykologi og sankning, anser den for spiselig, hvis den koges grundigt; kødet er tyndt og ikke højt værdsat. Enkelte guider har kaldt den mistænkelig. Dette katalog følger flertallet af disse kilder og registrerer den som uspiselig. Lignende røde bægere bør ikke spises alene på grund af denne lighed. Kog altid vilde svampe; stol ikke på denne tekst alene.",
+      "confusion": "Sarcoscypha coccinea er makroskopisk næsten identisk og kan kun sikkert adskilles med mikroskop (mere lige yderhår; sporer uden konidieknopper). Sarcoscypha jurana er en anden lignende europæisk art, ofte knyttet til lind. I det nordøstlige Nordamerika er det tilsvarende lookalike S. dudleyi. Ingen af disse navne gemmes her som synonym. Orangebægeret (Aleuria aurantia) er orange snarere end skarlagenrødt, vokser på jord snarere end ved, og frugter hovedsagelig sidst på sommeren og om efteråret. Microstoma protractum er en mindre, længere-stokket slægtning i samme familie.",
+      "notes": "Det accepterede navn er Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, baseret på Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum nævner også Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat og anamorfen Molliardiomyces coccineus Paden (offentliggjort som M. coccinea). Sarcoscypha austriaca var. lutea er en gulorange form af denne art, ikke en særskilt art, der gemmes her. Navnet Peziza austriaca, som nogle kilder bruger, står ikke på Species Fungorums synonymiside og gemmes ikke. Sarcoscypha coccinea, S. jurana og S. dudleyi er selvstændige gældende arter og behandles ikke som synonymer. Sjældent forekommer orangegule og hvide frugtlegemer. Sikker adskillelse fra de lignende røde pragtbægere kræver sædvanligvis et mikroskop. Tavlen er en illustration fremstillet med kunstig intelligens, ikke en historisk offentliggjort figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.naturbasen.dk/art/3485/kroelhaaret-pragtbaeger"
+      ],
+      "label": "krølhåret pragtbæger"
+    },
+    "de": {
+      "description": "Der Österreichische Kelchbecherling ist ein saprotropher Becherpilz feuchter Wälder, der im Winter und zeitigen Frühjahr auf abgefallenen Laubholzästchen und -zweigen fruktifiziert, oft zwischen Moos und Streu. Er ist in Europa weit verbreitet und wird auch aus dem Nordosten Nordamerikas angegeben. In Großbritannien und Irland ist er inzwischen der häufiger nachgewiesene der beiden häufigen roten Kelchbecherlinge. Er gehört zu einem Komplex ähnlicher Arten, der Sarcoscypha coccinea, S. jurana und in Nordamerika S. dudleyi umfasst; diese Arten werden hier nicht als Synonyme behandelt, und eine sichere Bestimmung erfordert oft ein Mikroskop.",
+      "cap": "Einen Hut im üblichen Sinn gibt es nicht: der Fruchtkörper ist ein Becher (Apothecium). Voll entfaltet ist er typischerweise 2–7 cm breit (andere Angaben nennen 1–5 cm, manche 1–8 cm) und etwa 1–2 cm hoch. Junge Becher sind tief, mit leicht eingebogenem Rand, und öffnen sich dann zu unregelmäßigen Schalen; ältere können sich abflachen, und der Rand kann einreißen. Die Innenseite ist glatt, glänzend und scharlachrot, selten orangegelb oder weiß. Die Außenseite ist blasser — weißlich, rosa, ockerfarben oder cremefarben — und mit einem Filz winziger Haare bedeckt.",
+      "hymenium": "Die fruchtbare Innenseite ist glatt und scharlachrot. Die Sporen entstehen auf dieser Auskleidung und können bei einer Störung des Bechers als sichtbare Wolke entweichen. Das Sporenpulver ist weiß. Auf der Außenseite des Bechers sind die Haare eingerollt oder korkenzieherartig. Zusammen mit den Sporen ist diese Haarform der übliche Weg, die Art von Sarcoscypha coccinea zu trennen, deren Außenhaare gerader sind und deren Sporen keine Konidienknospen bilden, sowie von S. jurana.",
+      "stipe": "Es ist ein kurzer Stiel vorhanden, oft in Moos oder Streu verborgen, in der hier verwendeten Beschreibung bis 3,5 cm lang und 0,3–0,7 cm dick; andere Quellen geben etwa 0,5–2 × 0,3–0,5 cm oder 1–3 × 0,3–0,5 cm an. Er hat dieselbe Farbe wie die Außenseite des Bechers oder ist blasser. Die Stiellänge hängt davon ab, wie tief das Holz vergraben ist.",
+      "flesh": "Das Fleisch ist weiß und gummiartig oder leicht knorpelig, mit einer dünnen roten Schicht, die den Becher auskleidet. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Weiß. Die Sporen sind ellipsoid, typischerweise 24–32 × 12–14 μm (in anderen Quellen reichen die Angaben etwa bis 20–40 × 10–15 μm), oft mit abgeflachten oder leicht eingebuchteten Enden, und enthalten mehrere Öltröpfchen. Reife Sporen können an den Enden kleine Konidienknospen bilden.",
+      "habitat": "Ein Zersetzer abgefallener, oft teilweise vergrabener Laubholzästchen und -zweige an feuchten, schattigen Stellen, besonders an Ahorn, Weide, Hasel, Erle und anderen Laubhölzern, gewöhnlich zwischen Moos und Streu. In Großbritannien und Irland wird er am häufigsten von Dezember bis April gefunden. Der slowakische Atlas gibt November bis Juni an, und in Teilen Osteuropas ist er vor allem ein Pilz des zeitigen Frühlings nach der Schneeschmelze, manchmal mit spätherbstlichen Nachweisen. Dieser Katalog verzeichnet die Saison als Dezember bis April nach mehreren britischen Quellen und nennt das weitere Fenster anderer Gebiete im Text.",
+      "uses": "Die meisten der hier verwendeten Bestimmungsbücher und Atlanten behandeln den Österreichischen Kelchbecherling als ungenießbar oder raten vom Sammeln ab. Einige Behörden, darunter der Norwegische Verband für Mykologie und Sammeln, halten ihn für essbar, wenn er gründlich gekocht wird; das Fleisch ist dünn und wenig geschätzt. Einige Führer haben ihn als verdächtig bezeichnet. Dieser Katalog folgt der Mehrheit dieser Quellen und führt ihn als ungenießbar. Ähnliche rote Becher sollten nicht allein aufgrund dieser Ähnlichkeit gegessen werden. Wilde Pilze stets kochen; verlassen Sie sich nicht allein auf diesen Text.",
+      "confusion": "Der Scharlachrote Kelchbecherling (Sarcoscypha coccinea) ist makroskopisch nahezu identisch und lässt sich zuverlässig nur mit dem Mikroskop trennen (geradere Außenhaare; Sporen ohne Konidienknospen). Sarcoscypha jurana ist eine weitere ähnliche europäische Art, oft an Linde gebunden. Im Nordosten Nordamerikas ist das entsprechende Gegenstück S. dudleyi. Keiner dieser Namen wird hier als Synonym gespeichert. Der Gemeine Orangebecherling (Aleuria aurantia) ist orange statt scharlachrot, wächst auf Erde statt auf Holz und fruktifiziert vor allem im Spätsommer und Herbst. Der Eingerissene Tulpenbecher (Microstoma protractum) ist ein kleinerer, länger gestielter Verwandter in derselben Familie.",
+      "notes": "Der akzeptierte Name ist Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, basierend auf Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum führt außerdem Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat und die Anamorphe Molliardiomyces coccineus Paden (veröffentlicht als M. coccinea) auf. Sarcoscypha austriaca var. lutea ist eine gelborange Form dieser Art, keine hier gespeicherte eigene Art. Der von manchen Quellen verwendete Name Peziza austriaca steht nicht auf der Synonymieseite von Species Fungorum und wird nicht gespeichert. Sarcoscypha coccinea, S. jurana und S. dudleyi sind eigenständige aktuelle Arten und werden nicht als Synonyme behandelt. Selten kommen orangegelbe und weiße Fruchtkörper vor. Eine sichere Trennung von den ähnlichen roten Kelchbecherlingen erfordert gewöhnlich ein Mikroskop. Die Tafel ist eine mit künstlicher Intelligenz erzeugte Illustration, keine historische veröffentlichte Abbildung.",
+      "names": [],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Scharlachroter_Kelchbecherling"
+      ],
+      "label": "Österreichischer Kelchbecherling"
+    },
+    "en": {
+      "description": "The scarlet elfcup is a saprotrophic cup fungus of damp woodland, fruiting on fallen hardwood twigs and branches, often among moss and leaf litter, in winter and early spring. It is widespread in Europe and is also reported from north-eastern North America. In Britain and Ireland it is now the more frequently recorded of the two common red elfcups. It belongs to a complex of lookalikes that includes Sarcoscypha coccinea, S. jurana and, in North America, S. dudleyi; those species are not treated as synonyms, and confident identification often needs a microscope.",
+      "cap": "There is no cap in the usual mushroom sense: the fruit body is a cup (apothecium). When fully expanded it is typically 2–7 cm across (other guides give 1–5 cm, and some 1–8 cm) and about 1–2 cm high. Young cups are deep, with a slightly incurved margin, then open into irregular bowls; older ones may flatten and the margin may split. The inner surface is smooth, shiny and scarlet, or rarely orange-yellow or white. The outer surface is paler — whitish, pink, ochre or cream — and covered with a felt of tiny hairs.",
+      "hymenium": "The fertile inner surface is smooth and scarlet. Spores form on this lining and may puff out in a visible cloud if a cup is disturbed. The spore print is white. On the outside of the cup the hairs are coiled or corkscrew-shaped. Together with the spores, that hair shape is the usual way to separate this species from Sarcoscypha coccinea, whose exterior hairs are straighter and whose spores do not form conidial buds, and from S. jurana.",
+      "stipe": "There is a short stipe, often hidden in moss or leaf litter, up to 3.5 cm long and 0.3–0.7 cm wide in the description used here; other sources give about 0.5–2 × 0.3–0.5 cm, or 1–3 × 0.3–0.5 cm. It is the same colour as the outer surface of the cup, or paler. Stem length varies with how deeply the wood is buried.",
+      "flesh": "The flesh is white and rubbery or slightly cartilaginous, with a thin red layer lining the cup. The smell and taste are not distinctive.",
+      "sporePrint": "White. The spores are ellipsoidal, typically 24–32 × 12–14 μm (ranges in other sources extend to about 20–40 × 10–15 μm), often with flattened or slightly indented ends, and contain several oil droplets. Mature spores may produce small conidial buds at the ends.",
+      "habitat": "A saprobe of fallen, often partly buried, hardwood twigs and branches in damp, shady places, especially on sycamore, willow, hazel, alder and other broadleaves, usually among moss and leaf litter. In Britain and Ireland it is most often found from December to April. The Slovak atlas gives November to June, and in parts of eastern Europe it is mainly a fungus of early spring after snowmelt, sometimes with late-autumn records. This catalogue records the season as December to April, the period given by several British sources, while noting the wider window in other regions.",
+      "uses": "Most of the field guides and atlases used here treat scarlet elfcup as inedible, or advise against gathering it. Some authorities, including the Norwegian Association for Mycology and Foraging, consider it edible if it is thoroughly cooked; the flesh is thin and not highly regarded. A few guides have called it suspect. This catalogue follows the majority of those sources and records it as inedible. Similar red cups should not be eaten on the strength of this resemblance. Always cook wild fungi; do not rely on this text alone.",
+      "confusion": "The ruby elfcup Sarcoscypha coccinea is macroscopically almost identical and can be separated reliably only with a microscope (straighter exterior hairs; spores without conidial buds). Sarcoscypha jurana is another similar European species, often associated with lime. In north-eastern North America the corresponding lookalike is S. dudleyi. None of these names is stored as a synonym. The orange peel fungus Aleuria aurantia is orange rather than scarlet, grows on soil rather than wood, and fruits mainly in late summer and autumn. Microstoma protractum (rosy goblet) is a smaller, longer-stalked relative in the same family.",
+      "notes": "The accepted name is Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, based on Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum also lists Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat, and the anamorph Molliardiomyces coccineus Paden (published as M. coccinea). Sarcoscypha austriaca var. lutea is a yellow-orange form of this species, not a separate species stored here. Peziza austriaca, used by some sources, is not on the Species Fungorum synonymy page and is not stored. Sarcoscypha coccinea, S. jurana and S. dudleyi are distinct current species and are not treated as synonyms. Rare orange-yellow and white fruit bodies occur. Confident separation from the lookalike red elfcups usually requires a microscope. The plate is an AI-generated illustration, not a historical published figure.",
+      "names": [
+        "scarlet elf cup",
+        "scarlet elf cap"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=433531",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=433531",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordId=433531",
+        "https://www.gbif.org/species/8689016",
+        "https://www.wikidata.org/wiki/Q2519734",
+        "https://en.wikipedia.org/wiki/Sarcoscypha_austriaca",
+        "https://www.first-nature.com/fungi/sarcoscypha-austriaca.php",
+        "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/scarlet-elf-cup/",
+        "https://species.nbnatlas.org/species/NHMSYS0001497078",
+        "https://www.inaturalist.org/taxa/126913-Sarcoscypha-austriaca",
+        "https://species.wikimedia.org/wiki/Sarcoscypha_austriaca"
+      ],
+      "label": "scarlet elfcup"
+    },
+    "es": {
+      "description": "Sarcoscypha austriaca es un hongo saprotrofo en forma de copa de bosques húmedos, que fructifica en invierno y a principios de primavera sobre ramitas y ramas caídas de frondosas, a menudo entre musgo y hojarasca. Está ampliamente extendido en Europa y también se cita del noreste de América del Norte. En Gran Bretaña e Irlanda es ahora el más frecuentemente registrado de los dos cálices rojos comunes. Pertenece a un complejo de especies parecidas que incluye Sarcoscypha coccinea, S. jurana y, en América del Norte, S. dudleyi; esas especies no se tratan aquí como sinónimos, y una identificación segura suele exigir un microscopio.",
+      "cap": "No hay sombrero en el sentido habitual: el cuerpo fructífero es una copa (apotecio). Completamente extendida mide por lo general 2–7 cm de diámetro (otras guías dan 1–5 cm, algunas 1–8 cm) y unos 1–2 cm de alto. Las copas jóvenes son profundas, con el margen ligeramente incurvado, y luego se abren en cuencos irregulares; las más viejas pueden aplanarse y el margen puede henderse. La cara interna es lisa, brillante y escarlata, raramente anaranjado-amarilla o blanca. La cara externa es más pálida — blanquecina, rosada, ocre o crema — y cubierta de un fieltro de pelillos diminutos.",
+      "hymenium": "La cara interna fértil es lisa y escarlata. Las esporas se forman en este revestimiento y pueden salir en una nube visible si se molesta una copa. La esporada es blanca. En el exterior de la copa los pelos están enrollados o en forma de sacacorchos. Junto con las esporas, esa forma de los pelos es el modo habitual de separar esta especie de Sarcoscypha coccinea, cuyos pelos externos son más rectos y cuyas esporas no forman yemas conidiales, y de S. jurana.",
+      "stipe": "Hay un pie corto, a menudo oculto en el musgo o la hojarasca, de hasta 3,5 cm de largo y 0,3–0,7 cm de grosor en la descripción usada aquí; otras fuentes dan unos 0,5–2 × 0,3–0,5 cm, o 1–3 × 0,3–0,5 cm. Tiene el mismo color que la cara externa de la copa, o es más pálido. La longitud del pie varía según lo enterrada que esté la madera.",
+      "flesh": "La carne es blanca y gomosa o ligeramente cartilaginosa, con una delgada capa roja que recubre la copa. El olor y el sabor no son distintivos.",
+      "sporePrint": "Blanca. Las esporas son elipsoidales, por lo general 24–32 × 12–14 μm (en otras fuentes los intervalos llegan a unos 20–40 × 10–15 μm), a menudo con extremos aplanados o ligeramente hundidos, y contienen varias gotitas de aceite. Las esporas maduras pueden producir pequeñas yemas conidiales en los extremos.",
+      "habitat": "Saprobio de ramitas y ramas caídas de frondosas, a menudo parcialmente enterradas, en lugares húmedos y umbríos, especialmente sobre arce, sauce, avellano, aliso y otros caducifolios, habitualmente entre musgo y hojarasca. En Gran Bretaña e Irlanda se encuentra sobre todo de diciembre a abril. El atlas eslovaco indica noviembre a junio, y en partes de Europa oriental es sobre todo un hongo de comienzos de primavera tras el deshielo, a veces con citas de finales de otoño. Este catálogo registra la estación como diciembre a abril según varias fuentes británicas y menciona en el texto la ventana más amplia de otras regiones.",
+      "uses": "La mayoría de las guías de campo y atlas usados aquí tratan a Sarcoscypha austriaca como no comestible, o desaconsejan recolectarla. Algunas autoridades, incluida la Asociación Noruega de Micología y Recolección, la consideran comestible si se cocina a fondo; la carne es delgada y poco apreciada. Algunas guías la han llamado sospechosa. Este catálogo sigue a la mayoría de esas fuentes y la registra como no comestible. No deben comerse copas rojas semejantes solo por este parecido. Cocine siempre los hongos silvestres; no se fíe solo de este texto.",
+      "confusion": "Sarcoscypha coccinea es macroscópicamente casi idéntica y solo se separa con seguridad al microscopio (pelos externos más rectos; esporas sin yemas conidiales). Sarcoscypha jurana es otra especie europea semejante, a menudo asociada al tilo. En el noreste de América del Norte el semejante correspondiente es S. dudleyi. Ninguno de estos nombres se almacena aquí como sinónimo. La peziza anaranjada (Aleuria aurantia) es anaranjada, no escarlata, crece en el suelo y no en la madera, y fructifica principalmente a finales del verano y en otoño. Microstoma protractum es un pariente más pequeño, de pie más largo, de la misma familia.",
+      "notes": "El nombre aceptado es Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, basado en Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum cita también Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat y el anamorfo Molliardiomyces coccineus Paden (publicado como M. coccinea). Sarcoscypha austriaca var. lutea es una forma amarillo-anaranjada de esta especie, no una especie distinta almacenada aquí. El nombre Peziza austriaca, usado por algunas fuentes, no figura en la página de sinonimia de Species Fungorum y no se almacena. Sarcoscypha coccinea, S. jurana y S. dudleyi son especies actuales distintas y no se tratan como sinónimos. Rara vez aparecen cuerpos fructíferos amarillo-anaranjados y blancos. La separación segura de los cálices rojos semejantes suele exigir un microscopio. La lámina es una ilustración generada por inteligencia artificial, no una figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Harilik karikseen on saprotroofne karikseen niisketes metsades, mis viljub talvel ja varakevadel langenud lehtpuude okstel ja raagudel, sageli sambla ja varise seas. Ta on Euroopas laialt levinud ja teda on teada ka Kirde-Põhja-Ameerikast. Suurbritannias ja Iirimaal on ta nüüd kahest tavalisest punasest karikseenest sagedamini kirja pandud. Ta kuulub sarnaste liikide rühma, kuhu kuuluvad Sarcoscypha coccinea, S. jurana ja Põhja-Ameerikas S. dudleyi; neid liike ei käsitleta siin sünonüümidena ning kindel määramine nõuab sageli mikroskoopi.",
+      "cap": "Harilikku kübarat ei ole: viljakeha on karikas (apothecium). Täielikult avanenuna on see tüüpiliselt 2–7 cm lai (teised juhendid annavad 1–5 cm, mõned 1–8 cm) ja umbes 1–2 cm kõrge. Noored karikad on sügavad, veidi sissepoole kaardunud servaga, seejärel avanevad ebakorrapärasteks kaussideks; vanemad võivad lamenuda ja serv võib rebeneda. Sisepind on sile, läikiv ja helepunane, harva oranžikaskollane või valge. Välispind on heledam — valkjas, roosakas, okrakarva või kreemjas — ja kaetud tillukeste karvade vildiga.",
+      "hymenium": "Viljakas sisepind on sile ja helepunane. Eosed tekivad sellel pinnal ja võivad karikat puutudes paiskuda nähtava pilvena. Eospulber on valge. Karika välisküljel on karvad keerdunud või korgitserikujulised. Koos eostega on see karvade kuju tavaline viis eristada liiki Sarcoscypha coccineast, mille väliskarvad on sirgemad ja mille eosed ei moodusta koniidipungi, ning S. juranast.",
+      "stipe": "On lühike jalg, mis jääb sageli samblasse või varisesse varjatuks; siin kasutatud kirjelduses kuni 3,5 cm pikk ja 0,3–0,7 cm paks; teised allikad annavad umbes 0,5–2 × 0,3–0,5 cm või 1–3 × 0,3–0,5 cm. Jalg on sama värvi kui karika välispind või heledam. Jala pikkus sõltub sellest, kui sügavale puit on mattunud.",
+      "flesh": "Liha on valge ja kummjas või veidi kõhreline, õhukese punase kihiga, mis vooderdab karikat. Lõhn ja maitse ei ole eristatavad.",
+      "sporePrint": "Valge. Eosed on ellipsoidsed, tüüpiliselt 24–32 × 12–14 μm (teistes allikates ulatuvad vahemikud umbes 20–40 × 10–15 μm-ni), sageli lapikute või veidi sissevajunud otstega, ning sisaldavad mitut õlitilka. Küpsed eosed võivad otstes moodustada väikesi koniidipungi.",
+      "habitat": "Lagundaja langenud, sageli osaliselt mattunud lehtpuude okstel ja raagudel niisketes, varjulistes paikades, eriti vahtral, pajul, sarapuul, lepal ja teistel lehtpuudel, tavaliselt sambla ja varise seas. Suurbritannias ja Iirimaal leitakse teda kõige sagedamini detsembrist aprillini. Slovaki atlas annab novembrist juunini ning Ida-Euroopa osades on ta eeskätt lume sulamise järgne varakevadine seen, vahel ka hilissügisesete leidudega. See kataloog märgib hooajaks detsembri–aprilli mitme Briti allika järgi ja mainib tekstis teiste piirkondade laiemat ajavahemikku.",
+      "uses": "Enamik siin kasutatud määrajaid ja atlaseid peab harilikku karikseent mittesöödavaks või hoiatab kogumise eest. Mõned asutused, sealhulgas Norra mükoloogia- ja korjeühing, peavad teda söödavaks, kui ta korralikult küpsetada; liha on õhuke ja seda ei hinnata kõrgelt. Mõni juhend on nimetanud teda kahtlaseks. See kataloog järgib nende allikate enamust ja märgib ta mittesöödavaks. Sarnaseid punaseid karikaid ei tohi süüa üksnes selle sarnasuse põhjal. Metsaseeni tuleb alati küpsetada; ärge tuginege üksnes sellele tekstile.",
+      "confusion": "Sarcoscypha coccinea on palja silmaga peaaegu eristamatu ja teda saab kindlalt eraldada ainult mikroskoobiga (sirgemad väliskarvad; eosed ilma koniidipungadeta). Sarcoscypha jurana on teine sarnane Euroopa liik, sageli seotud pärnaga. Kirde-Põhja-Ameerikas on vastav sarnane liik S. dudleyi. Ühtegi neist nimedest siin sünonüümina ei salvestata. Oranž koorikseen (Aleuria aurantia) on oranž, mitte helepunane, kasvab mullal, mitte puidul, ning viljub peamiselt suve lõpus ja sügisel. Microstoma protractum on väiksem, pikema jalaga sugulane samas sugukonnas.",
+      "notes": "Aktsepteeritud nimi on Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, lähtudes nimest Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum loetleb ka Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat ja anamorfi Molliardiomyces coccineus Paden (avaldatud kui M. coccinea). Sarcoscypha austriaca var. lutea on selle liigi kollakasoranž vorm, mitte eraldi siin salvestatav liik. Mõne allika kasutatud nime Peziza austriaca ei ole Species Fungorumi sünonüümilehel ja seda ei salvestata. Sarcoscypha coccinea, S. jurana ja S. dudleyi on eraldi kehtivad liigid ega ole käsitletud sünonüümidena. Harva esineb oranžikaskollaseid ja valgeid viljakehi. Sarnastest punastest karikseentest kindel eristamine nõuab tavaliselt mikroskoopi. Tahvel on tehisintellektiga loodud illustratsioon, mitte ajalooline avaldatud joonis.",
+      "names": [
+        "verev liudik",
+        "põdra tass"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Harilik_karikseen"
+      ],
+      "label": "harilik karikseen"
+    },
+    "fa": {
+      "description": "سارکوکیفا اتریشی قارچ فنجانی ساپروتروف جنگل‌های نمناک است که در زمستان و اوایل بهار روی ترکه‌ها و شاخه‌های افتاده پهن‌برگان، اغلب میان خزه و برگ‌لاش، میوه‌دهی می‌کند. در اروپا گسترده است و از شمال‌شرقی آمریکای شمالی نیز گزارش شده است. در بریتانیا و ایرلند اکنون از دو فنجان اِلف قرمز رایج بیشتر ثبت می‌شود. به مجموعه گونه‌های همانند تعلق دارد که شامل Sarcoscypha coccinea، S. jurana و در آمریکای شمالی S. dudleyi است؛ این گونه‌ها در اینجا مترادف شمرده نمی‌شوند و شناسایی مطمئن اغلب به میکروسکوپ نیاز دارد.",
+      "cap": "کلاهک به معنای معمول قارچ وجود ندارد: اندام بارده فنجان (آپوتسیوم) است. وقتی کاملاً باز شود معمولاً ۲–۷ سانتی‌متر پهنا دارد (راهنماهای دیگر ۱–۵ سانتی‌متر و برخی ۱–۸ سانتی‌متر می‌دهند) و حدود ۱–۲ سانتی‌متر بلندی. فنجان‌های جوان عمیق‌اند، با حاشیه کمی به درون خمیده، سپس به کاسه‌های نامنظم باز می‌شوند؛ کهنه‌ترها ممکن است پهن شوند و حاشیه ممکن است شکاف بردارد. سطح درونی صاف، براق و سرخابی است، به ندرت نارنجی‌زرد یا سفید. سطح بیرونی کم‌رنگ‌تر است — سفیدفام، صورتی، اخرایی یا کرم — و با نمدی از موهای ریز پوشیده است.",
+      "hymenium": "سطح درونی بارور صاف و سرخابی است. هاگ‌ها روی این آستر پدید می‌آیند و اگر فنجان به هم بخورد ممکن است در ابرکی دیدنی بیرون بجهند. اثر هاگ سفید است. در بیرون فنجان موها پیچیده یا چوب‌پنبه‌بازکن‌شکل‌اند. همراه با هاگ‌ها، این شکل مو راه معمول جدا کردن این گونه از Sarcoscypha coccinea است، که موهای بیرونی‌اش راست‌ترند و هاگ‌هایش جوانه کنیدی نمی‌سازند، و از S. jurana.",
+      "stipe": "ساقه کوتاهی هست، اغلب پنهان در خزه یا برگ‌لاش؛ در توصیف به‌کاررفته در اینجا تا ۳٫۵ سانتی‌متر درازا و ۰٫۳–۰٫۷ سانتی‌متر ستبرا؛ منابع دیگر حدود ۰٫۵–۲ × ۰٫۳–۰٫۵ سانتی‌متر یا ۱–۳ × ۰٫۳–۰٫۵ سانتی‌متر می‌دهند. رنگ آن همان رنگ سطح بیرونی فنجان است، یا کم‌رنگ‌تر. درازای ساقه به این بستگی دارد که چوب تا چه ژرفایی دفن شده باشد.",
+      "flesh": "گوشت سفید و لاستیکی یا اندکی غضروفی است، با لایه سرخ نازکی که فنجان را آستر می‌کند. بو و مزه شاخص نیستند.",
+      "sporePrint": "سفید. هاگ‌ها بیضوی‌اند، معمولاً ۲۴–۳۲ × ۱۲–۱۴ میکرومتر (در منابع دیگر بازه‌ها تا حدود ۲۰–۴۰ × ۱۰–۱۵ میکرومتر می‌رسد)، اغلب با دو سر پهن یا کمی فرورفته، و چند قطره روغن دارند. هاگ‌های رسیده ممکن است در دو سر جوانه‌های کنیدی کوچک بسازند.",
+      "habitat": "ساپروب ترکه‌ها و شاخه‌های افتاده پهن‌برگان، اغلب تا حدی دفن‌شده، در جاهای نمناک و سایه‌دار، به‌ویژه روی افرا، بید، فندق، توسکا و دیگر پهن‌برگان، معمولاً میان خزه و برگ‌لاش. در بریتانیا و ایرلند بیشتر از دسامبر تا آوریل یافت می‌شود. اطلس اسلواک نوامبر تا ژوئن را می‌دهد، و در بخش‌هایی از شرق اروپا عمدتاً قارچ اوایل بهار پس از آب شدن برف است، گاه با گزارش‌های اواخر پاییز. این فهرست فصل را بر پایه چند منبع بریتانیایی دسامبر تا آوریل ثبت می‌کند و پنجره گسترده‌تر جاهای دیگر را در متن یادآور می‌شود.",
+      "uses": "بیشتر راهنماهای صحرایی و اطلس‌های به‌کاررفته در اینجا این گونه را نخوردنی می‌دانند یا از چیدن آن پرهیز می‌دهند. برخی مراجع، از جمله انجمن میکولوژی و گردآوری نروژ، آن را در صورت پخت کامل خوردنی می‌شمارند؛ گوشت نازک است و چندان ارج ندارد. چند راهنما آن را مشکوک خوانده‌اند. این فهرست از اکثر آن منابع پیروی می‌کند و آن را نخوردنی ثبت می‌کند. فنجان‌های سرخ همانند را نباید تنها به سبب این شباهت خورد. قارچ‌های وحشی را همیشه بپزید؛ تنها به این متن تکیه نکنید.",
+      "confusion": "Sarcoscypha coccinea با چشم غیرمسلح تقریباً یکسان است و تنها با میکروسکوپ به‌طور مطمئن جدا می‌شود (موهای بیرونی راست‌تر؛ هاگ‌ها بدون جوانه کنیدی). Sarcoscypha jurana گونه اروپایی همانند دیگری است، اغلب وابسته به درخت نمدار. در شمال‌شرقی آمریکای شمالی گونه همانند متناظر S. dudleyi است. هیچ‌یک از این نام‌ها اینجا به‌عنوان مترادف ذخیره نمی‌شود. قارچ پوست پرتقال (Aleuria aurantia) نارنجی است نه سرخابی، روی خاک می‌روید نه روی چوب، و عمدتاً در پایان تابستان و پاییز میوه می‌دهد. Microstoma protractum خویشاوندی کوچک‌تر با ساقه بلندتر از همان تیره است.",
+      "notes": "نام پذیرفته‌شده Sarcoscypha austriaca (Beck ex Sacc.) Boud. (۱۹۰۷؛ Hist. Class. Discom. Eur.: 55)، Index Fungorum / MycoBank 433531 است، بر پایه Lachnea austriaca Beck ex Sacc. (۱۸۸۹). Species Fungorum همچنین Peziza imperialis Beck، Scutellinia imperialis Kuntze، Humaria imperialis (Beck) Mussat و آنامورف Molliardiomyces coccineus Paden (منتشرشده با نام M. coccinea) را می‌آورد. Sarcoscypha austriaca var. lutea شکل زرد-نارنجی این گونه است، نه گونه جداگانه‌ای که اینجا ذخیره شود. نام Peziza austriaca، که برخی منابع به کار می‌برند، در صفحه ترادف Species Fungorum نیست و ذخیره نمی‌شود. Sarcoscypha coccinea، S. jurana و S. dudleyi گونه‌های معتبر جداگانه‌اند و مترادف شمرده نمی‌شوند. گاه اندام‌های بارده زرد-نارنجی و سفید پدید می‌آیند. جداسازی مطمئن از فنجان‌های اِلف قرمز همانند معمولاً به میکروسکوپ نیاز دارد. لوحه تصویری است که با هوش مصنوعی ساخته شده، نه شکل تاریخی منتشرشده.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Punamaljakas on saprotrofinen maljakas kosteissa metsissä. Se muodostaa itiöemiä talvella ja varhain keväällä kaatuneilla lehtipuiden oksilla ja risuilla, usein sammalen ja karikkeen joukossa. Laji on laajalti levinnyt Euroopassa ja sitä on ilmoitettu myös Koillis-Pohjois-Amerikasta. Britanniassa ja Irlannissa se on nykyään kahdesta yleisestä punaisesta maljakkaasta useammin tavattu. Se kuuluu samannäköisten lajien ryhmään, johon kuuluvat Sarcoscypha coccinea, S. jurana ja Pohjois-Amerikassa S. dudleyi; näitä ei käsitellä tässä synonyymeinä, ja varma määritys vaatii usein mikroskoopin.",
+      "cap": "Tavallista lakkia ei ole: itiöemä on malja (apoteekio). Täysin avautuneena se on tyypillisesti 2–7 cm leveä (muissa oppaissa 1–5 cm, joissakin 1–8 cm) ja noin 1–2 cm korkea. Nuoret maljat ovat syviä, hieman sisäänpäin kääntyneellä reunalla, ja avautuvat sitten epäsäännöllisiksi kuppimaisiksi; vanhemmat voivat litistyä ja reuna voi halkeilla. Sisäpinta on sileä, kiiltävä ja tulipunainen, harvoin oranssinkeltainen tai valkoinen. Ulkopinta on vaaleampi — valkoinen, vaaleanpunainen, okranvärinen tai kermanvärinen — ja pienten karvojen huovan peittämä.",
+      "hymenium": "Hedelmällinen sisäpinta on sileä ja tulipunainen. Itiöt muodostuvat tälle pinnalle ja voivat pöllähtää näkyvänä pilvenä, jos maljaa häiritään. Itiöpöly on valkoista. Maljan ulkopinnalla karvat ovat kierteisiä tai korkkiruuvimaisia. Yhdessä itiöiden kanssa tämä karvojen muoto on tavallinen tapa erottaa laji Sarcoscypha coccineasta, jonka ulkokarvat ovat suorempia ja jonka itiöt eivät muodosta konidiotoisintoja, sekä S. juranasta.",
+      "stipe": "Maljalla on lyhyt jalka, joka jää usein sammalen tai karikkeen kätköön; tässä käytetyssä kuvauksessa se on enintään 3,5 cm pitkä ja 0,3–0,7 cm paksu. Muut lähteet ilmoittavat noin 0,5–2 × 0,3–0,5 cm tai 1–3 × 0,3–0,5 cm. Jalka on samanvärinen kuin maljan ulkopinta tai sitä vaaleampi. Jalan pituus vaihtelee sen mukaan, kuinka syvällä puuaines on maassa.",
+      "flesh": "Malto on valkoista ja kumimaista tai hieman rustomaista, ja maljaa vuoraa ohut punainen kerros. Tuoksu ja maku eivät ole erottuvia.",
+      "sporePrint": "Valkoinen. Itiöt ovat ellipsoideja, tyypillisesti 24–32 × 12–14 μm (muissa lähteissä vaihteluvälit yltävät noin 20–40 × 10–15 μm:iin), usein litistynein tai hieman kuoppuisin päin, ja niissä on useita öljypisaroita. Kypsät itiöt voivat muodostaa päihin pieniä konidiotoisintoja.",
+      "habitat": "Lahottaja kaatuneilla, usein osin hautautuneilla lehtipuiden oksilla ja risuilla kosteissa, varjoisissa paikoissa, etenkin vaahteralla, pajulla, pähkinäpensaalla, leppällä ja muilla lehtipuilla, yleensä sammalen ja karikkeen joukossa. Britanniassa ja Irlannissa se tavataan useimmiten joulukuusta huhtikuuhun. Slovakialainen atlas ilmoittaa marraskuusta kesäkuuhun, ja osissa Itä-Eurooppaa se on ennen kaikkea lumen sulamisen jälkeisen varhaiskeväinen sieni, joskus myös myöhäissyksyn havainnoin. Tämä luettelo merkitsee kaudeksi joulukuun–huhtikuun useiden brittialähteiden mukaan ja mainitsee muun alueen laajemman jakson tekstissä.",
+      "uses": "Useimmat tässä käytetyt retkeilyoppaat ja atlaset pitävät punamaljakasta syömäkelvottomana tai kehottavat olemaan keräämättä sitä. Jotkin tahot, muun muassa Norjan sienestys- ja keräily-yhdistys, pitävät sitä syötävänä, jos se kypsennetään huolellisesti; malto on ohutta eikä sitä arvosteta korkealle. Muutamat oppaat ovat kutsuneet sitä epäilyttäväksi. Tämä luettelo noudattaa näiden lähteiden enemmistöä ja merkitsee lajin syömäkelvottomaksi. Samannäköisiä punaisia maljoja ei pidä syödä pelkän ulkonäön perusteella. Villisienet tulee aina kypsentää; älä luota pelkästään tähän tekstiin.",
+      "confusion": "Sarcoscypha coccinea on paljain silmin lähes identtinen, ja sen erottaa luotettavasti vain mikroskoopilla (suoremmat ulkokarvat; itiöt ilman konidiotoisintoja). Sarcoscypha jurana on toinen samannäköinen eurooppalainen laji, joka liittyy usein lehmukseen. Koillis-Pohjois-Amerikassa vastaava samannäköinen laji on S. dudleyi. Mitään näistä nimistä ei tallenneta tässä synonyymiksi. Oranssinpunamaljakas (Aleuria aurantia) on oranssi eikä tulipunainen, kasvaa maassa eikä puulla ja itiöi pääasiassa loppukesällä ja syksyllä. Microstoma protractum on pienempi, pidempijalkainen sukulainen samassa heimossa.",
+      "notes": "Hyväksytty nimi on Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, perustana Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum luettelee myös nimet Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat sekä anamorfin Molliardiomyces coccineus Paden (julkaistu nimellä M. coccinea). Sarcoscypha austriaca var. lutea on tämän lajin keltainen–oranssi muoto, ei tässä tallennettava erillinen laji. Joissakin lähteissä käytettyä nimeä Peziza austriaca ei ole Species Fungorumin synonymiasivulla, eikä sitä tallenneta. Sarcoscypha coccinea, S. jurana ja S. dudleyi ovat erillisiä voimassa olevia lajeja, eikä niitä käsitellä synonyymeinä. Harvinaisina esiintyy oranssinkeltaisia ja valkoisia itiöemiä. Samannäköisistä punaisista maljakkaista erottaminen vaatii yleensä mikroskoopin. Kuvataulu on tekoälyn tuottama kuvitus, ei historiallinen julkaistu kuva.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Punamaljakas"
+      ],
+      "label": "punamaljakas"
+    },
+    "fr": {
+      "description": "La pézize d'Autriche est un discomycète saprotrophe des bois humides, qui fructifie en hiver et au début du printemps sur des rameaux et des branches de feuillus tombés, souvent parmi les mousses et la litière. Elle est largement répandue en Europe et est aussi signalée dans le nord-est de l'Amérique du Nord. En Grande-Bretagne et en Irlande, elle est aujourd'hui la plus fréquemment notée des deux pézizes rouges communes. Elle appartient à un complexe d'espèces ressemblantes qui comprend Sarcoscypha coccinea, S. jurana et, en Amérique du Nord, S. dudleyi ; ces espèces ne sont pas traitées ici comme des synonymes, et une identification sûre exige souvent un microscope.",
+      "cap": "Il n'y a pas de chapeau au sens habituel : le sporophore est une coupe (apothécie). Pleinement étalée, elle mesure typiquement 2–7 cm de diamètre (d'autres guides indiquent 1–5 cm, certains 1–8 cm) et environ 1–2 cm de haut. Les jeunes coupes sont profondes, à marge légèrement incurvée, puis s'ouvrent en coupes irrégulières ; les plus âgées peuvent s'aplatir et la marge peut se fendre. La face interne est lisse, luisante et écarlate, rarement jaune-orangé ou blanche. La face externe est plus pâle — blanchâtre, rosée, ocre ou crème — et couverte d'un feutrage de poils minuscules.",
+      "hymenium": "La face interne fertile est lisse et écarlate. Les spores se forment sur cette paroi et peuvent s'échapper en un nuage visible si l'on dérange une coupe. La sporée est blanche. À l'extérieur de la coupe, les poils sont enroulés ou en tire-bouchon. Avec les spores, cette forme des poils est le moyen habituel de séparer cette espèce de Sarcoscypha coccinea, dont les poils externes sont plus droits et dont les spores ne forment pas de bourgeons conidiens, ainsi que de S. jurana.",
+      "stipe": "Il existe un stipe court, souvent caché dans la mousse ou la litière, long jusqu'à 3,5 cm et large de 0,3–0,7 cm dans la description retenue ici ; d'autres sources indiquent environ 0,5–2 × 0,3–0,5 cm, ou 1–3 × 0,3–0,5 cm. Il a la même couleur que la face externe de la coupe, ou est plus pâle. La longueur du stipe varie selon la profondeur d'enfouissement du bois.",
+      "flesh": "La chair est blanche et caoutchouteuse ou légèrement cartilagineuse, avec une mince couche rouge tapissant la coupe. L'odeur et la saveur ne sont pas caractéristiques.",
+      "sporePrint": "Blanche. Les spores sont ellipsoïdes, typiquement 24–32 × 12–14 μm (les fourchettes d'autres sources vont jusque vers 20–40 × 10–15 μm), souvent à extrémités aplaties ou légèrement échancrées, et contiennent plusieurs gouttelettes d'huile. Les spores mûres peuvent produire de petits bourgeons conidiens aux extrémités.",
+      "habitat": "Saprotrophe de rameaux et de branches de feuillus tombés, souvent en partie enfouis, dans des lieux humides et ombragés, notamment sur érable, saule, noisetier, aulne et d'autres feuillus, habituellement parmi les mousses et la litière. En Grande-Bretagne et en Irlande, on la trouve surtout de décembre à avril. L'atlas slovaque indique novembre à juin, et dans certaines régions d'Europe orientale c'est surtout un champignon de début de printemps après la fonte des neiges, parfois avec des mentions de fin d'automne. Ce catalogue retient la saison décembre à avril d'après plusieurs sources britanniques, tout en indiquant dans le texte la fenêtre plus large d'autres régions.",
+      "uses": "La plupart des guides et atlas utilisés ici traitent la pézize d'Autriche comme non comestible, ou déconseillent de la récolter. Certaines autorités, dont l'Association norvégienne de mycologie et de cueillette, la considèrent comme comestible si elle est bien cuite ; la chair est mince et peu estimée. Quelques guides l'ont dite suspecte. Ce catalogue suit la majorité de ces sources et la consigne comme non comestible. Il ne faut pas manger de coupes rouges semblables sur la seule foi de cette ressemblance. Faites toujours cuire les champignons sauvages ; ne vous fiez pas à ce texte seul.",
+      "confusion": "Sarcoscypha coccinea est presque identique à l'œil nu et ne se sépare de façon sûre qu'au microscope (poils externes plus droits ; spores sans bourgeons conidiens). Sarcoscypha jurana est une autre espèce européenne semblable, souvent liée au tilleul. Dans le nord-est de l'Amérique du Nord, l'espèce correspondante est S. dudleyi. Aucun de ces noms n'est conservé ici comme synonyme. La pézize orangée (Aleuria aurantia) est orange plutôt qu'écarlate, pousse sur le sol plutôt que sur le bois, et fructifie surtout en fin d'été et en automne. Microstoma protractum est un parent plus petit, à stipe plus long, de la même famille.",
+      "notes": "Le nom accepté est Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907 ; Hist. Class. Discom. Eur. : 55), Index Fungorum / MycoBank 433531, fondé sur Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum cite aussi Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat, et l'anamorphe Molliardiomyces coccineus Paden (publiée comme M. coccinea). Sarcoscypha austriaca var. lutea est une forme jaune-orangé de cette espèce, et non une espèce distincte conservée ici. Le nom Peziza austriaca, employé par certaines sources, ne figure pas sur la page de synonymie de Species Fungorum et n'est pas conservé. Sarcoscypha coccinea, S. jurana et S. dudleyi sont des espèces actuelles distinctes et ne sont pas traitées comme des synonymes. Des sporophores jaune-orangé et blancs existent rarement. Une séparation sûre d'avec les pézizes rouges ressemblantes exige généralement un microscope. La planche est une illustration générée par intelligence artificielle, et non une figure historique publiée.",
+      "names": [],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/P%C3%A9zize"
+      ],
+      "label": "pézize d'Autriche"
+    },
+    "he": {
+      "description": "סרקוסקיפה האוסטרית היא פטריית גביע ספרוטרופית של יער לח, המניבה בחורף ובראשית האביב על זרדים וענפים שנשרו של עצים רחבי-עלים, לעיתים קרובות בין אזוב ורקבובית עלים. היא נפוצה באירופה ומדווחת גם מצפון-מזרח צפון אמריקה. בבריטניה ובאירלנד היא כיום הרשומה יותר מבין שני גביעי הגמד האדומים הנפוצים. היא שייכת למכלול מינים דומים הכולל את Sarcoscypha coccinea, את S. jurana ובצפון אמריקה את S. dudleyi; מינים אלה אינם מטופלים כאן כמילים נרדפות, וזיהוי בטוח דורש לעיתים קרובות מיקרוסקופ.",
+      "cap": "אין כובע במובן הרגיל של פטרייה: גוף הפרי הוא גביע (אפותציום). במלוא התפשטותו קוטרו בדרך כלל 2–7 ס\"מ (מדריכים אחרים מציינים 1–5 ס\"מ, ואחרים 1–8 ס\"מ) וגובהו כ-1–2 ס\"מ. גביעים צעירים עמוקים, עם שפה כפופה מעט פנימה, ואחר כך נפתחים לקערות בלתי סדירות; מבוגרים יותר עלולים להשתטח והשפה עלולה להיסדק. פני השטח הפנימיים חלקים, מבריקים וארגמניים, לעיתים נדירות כתום-צהובים או לבנים. פני השטח החיצוניים חיוורים יותר — לבנבנים, ורדרדים, אוכריים או קרם — ומכוסים לבד של שערות זעירות.",
+      "hymenium": "הצד הפנימי הפורֶה חלק וארגמני. הנבגים נוצרים על ציפוי זה ועשויים לפרוץ בענן נראה אם מפריעים לגביע. טביעת הנבגים לבנה. בצד החיצוני של הגביע השערות מפותלות או בצורת חולץ פקקים. יחד עם הנבגים, צורת השערות היא הדרך הרגילה להפריד מין זה מ-Sarcoscypha coccinea, ששערות החוץ שלה ישרות יותר ונבגיה אינם יוצרים ניצני קונידיה, ומ-S. jurana.",
+      "stipe": "יש גבעול קצר, לעיתים קרובות מוסתר באזוב או ברקבובית, באורך של עד 3.5 ס\"מ ובעובי 0.3–0.7 ס\"מ בתיאור המשמש כאן; מקורות אחרים מציינים כ-0.5–2 × 0.3–0.5 ס\"מ, או 1–3 × 0.3–0.5 ס\"מ. צבעו כצבע הצד החיצוני של הגביע, או חיוור ממנו. אורך הגבעול משתנה לפי עומק הטמנת העץ.",
+      "flesh": "הבשר לבן וגומי או סחוסי מעט, עם שכבה אדומה דקה המרפדת את הגביע. הריח והטעם אינם ייחודיים.",
+      "sporePrint": "לבנה. הנבגים אליפסואידיים, בדרך כלל 24–32 × 12–14 מיקרומטר (במקורות אחרים הטווחים מגיעים לכ-20–40 × 10–15 מיקרומטר), לעיתים קרובות עם קצוות שטוחים או שקועים מעט, ומכילים כמה טיפות שמן. נבגים בשלים עשויים ליצור בקצוות ניצני קונידיה קטנים.",
+      "habitat": "ספרוב של זרדים וענפים שנשרו של עצים רחבי-עלים, לעיתים קרובות קבורים חלקית, במקומות לחים ומוצלים, במיוחד על מייפל, ערבה, אגוז לוז, אלנוס ועצים רחבי-עלים אחרים, בדרך כלל בין אזוב ורקבובית. בבריטניה ובאירלנד מוצאים אותה לרוב מדצמבר עד אפריל. האטלס הסלובקי מציין נובמבר עד יוני, ובחלקים ממזרח אירופה זו בעיקר פטרייה של ראשית האביב לאחר הפשרת השלג, לעיתים עם רישומים מסוף הסתיו. קטלוג זה רושם את העונה כדצמבר עד אפריל לפי כמה מקורות בריטיים, ומזכיר בטקסט את החלון הרחב יותר באזורים אחרים.",
+      "uses": "רוב מדריכי השדה והאטלסים שבהם נעשה שימוש כאן מתייחסים לסרקוסקיפה האוסטרית כבלתי אכילה, או מייעצים שלא ללקט אותה. רשויות אחדות, ובהן האיגוד הנורווגי למיקולוגיה ולליקוט, רואות אותה כאכילה אם היא מבושלת היטב; הבשר דק ואינו מוערך במיוחד. מדריכים אחדים כינו אותה חשודה. קטלוג זה הולך בעקבות רוב המקורות האלה ורושם אותה כבלתי אכילה. אין לאכול גביעים אדומים דומים רק בשל דמיון זה. יש לבשל תמיד פטריות בר; אין להסתמך על טקסט זה לבדו.",
+      "confusion": "Sarcoscypha coccinea כמעט זהה במבט מאקרוסקופי וניתן להפרידה בוודאות רק במיקרוסקופ (שערות חוץ ישרות יותר; נבגים בלי ניצני קונידיה). Sarcoscypha jurana היא מין אירופי דומה נוסף, לעיתים קרובות קשור לטיליה. בצפון-מזרח צפון אמריקה המין הדומה המקביל הוא S. dudleyi. אף אחד משמות אלה אינו נשמר כאן כמילה נרדפת. פטריית קליפת התפוז (Aleuria aurantia) כתומה ולא ארגמנית, גדלה על קרקע ולא על עץ, ומניבה בעיקר בסוף הקיץ ובסתיו. Microstoma protractum הוא קרוב קטן יותר, בעל גבעול ארוך יותר, מאותה משפחה.",
+      "notes": "השם המקובל הוא Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, על בסיס Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum מציין גם את Peziza imperialis Beck, את Scutellinia imperialis Kuntze, את Humaria imperialis (Beck) Mussat ואת האנמורף Molliardiomyces coccineus Paden (פורסם כ-M. coccinea). Sarcoscypha austriaca var. lutea היא צורה צהובה-כתומה של מין זה, לא מין נפרד הנשמר כאן. השם Peziza austriaca, שבו משתמשים מקורות אחדים, אינו מופיע בדף המילים הנרדפות של Species Fungorum ואינו נשמר. Sarcoscypha coccinea, S. jurana ו-S. dudleyi הם מינים תקפים נפרדים ואינם מטופלים כמילים נרדפות. לעיתים נדירות מופיעים גופי פרי צהובים-כתומים ולבנים. הפרדה בטוחה מגביעי הגמד האדומים הדומים דורשת בדרך כלל מיקרוסקופ. הלוח הוא איור שנוצר בבינה מלאכותית, לא דמות היסטורית שפורסמה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Sarcoscypha austriaca नम वन का एक मृतोपजीवी प्याला कवक है, जो सर्दी और वसंत के आरंभ में गिरे चौड़ी-पत्ती की टहनियों और शाखाओं पर फलता है, अक्सर काई और पत्ती-कचरे के बीच। यह यूरोप में व्यापक है और उत्तर-पूर्वी उत्तर अमेरिका से भी बताया जाता है। ब्रिटेन और आयरलैंड में अब यह दो सामान्य लाल एल्फ-कप में अधिक बार दर्ज किया जाता है। यह देखने में मिलते-जुलते जातियों के समूह से संबंधित है, जिसमें Sarcoscypha coccinea, S. jurana और उत्तर अमेरिका में S. dudleyi शामिल हैं; इन जातियों को यहाँ पर्याय नहीं माना जाता, और विश्वसनीय पहचान के लिए अक्सर सूक्ष्मदर्शी चाहिए।",
+      "cap": "सामान्य मशरूम के अर्थ में टोपी नहीं होती: फलकाय एक प्याला (एपोथीसियम) है। पूरी तरह खुलने पर यह आमतौर पर 2–7 सेमी चौड़ा होता है (अन्य मार्गदर्शिकाएँ 1–5 सेमी, कुछ 1–8 सेमी देती हैं) और लगभग 1–2 सेमी ऊँचा। युवा प्याले गहरे होते हैं, किनारा थोड़ा अंदर मुड़ा होता है, फिर अनियमित कटोरे बन जाते हैं; पुराने चपटे हो सकते हैं और किनारा फट सकता है। भीतरी सतह चिकनी, चमकदार और सिंदूरी लाल होती है, कभी-कभार नारंगी-पीली या सफेद। बाहरी सतह अधिक फीकी होती है — सफेद, गुलाबी, गेरुआ या क्रीम — और महीन रोओं के महसूस से ढकी होती है।",
+      "hymenium": "उपजाऊ भीतरी सतह चिकनी और सिंदूरी लाल होती है। बीजाणु इस अस्तर पर बनते हैं और प्याले को छेड़ने पर दिखाई देने वाले बादल में निकल सकते हैं। बीजाणु-छाप सफेद होती है। प्याले की बाहर रोएँ कुंडलित या कॉर्कस्क्रू जैसे होते हैं। बीजाणुओं के साथ यह रोएँ का आकार इस जाति को Sarcoscypha coccinea से अलग करने का सामान्य तरीका है, जिसके बाहरी रोएँ अधिक सीधे होते हैं और बीजाणु कोनिडियल कलियाँ नहीं बनाते, तथा S. jurana से।",
+      "stipe": "एक छोटी डंडी होती है, अक्सर काई या पत्ती-कचरे में छिपी; यहाँ प्रयुक्त वर्णन में लंबाई 3.5 सेमी तक और मोटाई 0.3–0.7 सेमी; अन्य स्रोत लगभग 0.5–2 × 0.3–0.5 सेमी, या 1–3 × 0.3–0.5 सेमी देते हैं। रंग प्याले की बाहरी सतह जैसा होता है, या अधिक फीका। डंडी की लंबाई इस पर निर्भर करती है कि लकड़ी कितनी गहराई में दबी है।",
+      "flesh": "मांस सफेद और रबड़ जैसा या थोड़ा उपास्थिल होता है, और प्याले को एक पतली लाल परत अस्तर देती है। गंध और स्वाद विशिष्ट नहीं हैं।",
+      "sporePrint": "सफेद। बीजाणु दीर्घवृत्ताकार होते हैं, आमतौर पर 24–32 × 12–14 μm (अन्य स्रोतों में सीमाएँ लगभग 20–40 × 10–15 μm तक जाती हैं), अक्सर चपटे या थोड़े धँसे सिरों वाले, और कई तेल की बूँदें रखते हैं। परिपक्व बीजाणु सिरों पर छोटी कोनिडियल कलियाँ बना सकते हैं।",
+      "habitat": "गिरे, अक्सर आंशिक रूप से दबे चौड़ी-पत्ती की टहनियों और शाखाओं का मृतोपजीवी, नम छायादार स्थानों में, विशेषकर मेपल, विलो, हेज़ल, एल्डर और अन्य चौड़ी-पत्ती वृक्षों पर, आमतौर पर काई और पत्ती-कचरे के बीच। ब्रिटेन और आयरलैंड में यह सबसे अधिक दिसंबर से अप्रैल तक मिलता है। स्लोवाक एटलस नवंबर से जून देता है, और पूर्वी यूरोप के कुछ भागों में यह मुख्यतः हिम पिघलने के बाद के वसंत का कवक है, कभी-कभी देर पतझड़ के अभिलेखों के साथ। यह सूची कई ब्रिटिश स्रोतों के अनुसार मौसम दिसंबर से अप्रैल दर्ज करती है, और पाठ में अन्य क्षेत्रों की व्यापक अवधि का उल्लेख करती है।",
+      "uses": "यहाँ प्रयुक्त अधिकांश क्षेत्र-मार्गदर्शिकाएँ और एटलस इसे अखाद्य मानते हैं, या तोड़ने से मना करते हैं। कुछ प्राधिकरण, जिनमें नॉर्वे की कवक विज्ञान और संग्रह संस्था शामिल है, इसे अच्छी तरह पकाने पर खाद्य मानते हैं; मांस पतला है और अधिक मूल्यवान नहीं। कुछ मार्गदर्शिकाओं ने इसे संदेहास्पद कहा है। यह सूची उन स्रोतों के बहुमत का अनुसरण करती है और इसे अखाद्य दर्ज करती है। मिलते-जुलते लाल प्यालों को केवल इस समानता के आधार पर नहीं खाना चाहिए। जंगली कवकों को हमेशा पकाएँ; केवल इस पाठ पर निर्भर न रहें।",
+      "confusion": "Sarcoscypha coccinea स्थूल रूप में लगभग एक जैसा है और केवल सूक्ष्मदर्शी से विश्वसनीय रूप से अलग होता है (अधिक सीधे बाहरी रोएँ; बिना कोनिडियल कलियों के बीजाणु)। Sarcoscypha jurana एक और समान यूरोपीय जाति है, अक्सर लिंडेन से जुड़ी। उत्तर-पूर्वी उत्तर अमेरिका में संगत समान जाति S. dudleyi है। इनमें से कोई नाम यहाँ पर्याय के रूप में संग्रहीत नहीं किया जाता। नारंगी छिलका कवक (Aleuria aurantia) सिंदूरी नहीं बल्कि नारंगी है, लकड़ी पर नहीं मिट्टी पर उगता है, और मुख्यतः गर्मियों के अंत और पतझड़ में फलता है। Microstoma protractum उसी कुल का छोटा, लंबी डंडी वाला संबंधी है।",
+      "notes": "स्वीकृत नाम Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531 है, जो Lachnea austriaca Beck ex Sacc. (1889) पर आधारित है। Species Fungorum Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat और अनमॉर्फ Molliardiomyces coccineus Paden (M. coccinea के रूप में प्रकाशित) भी सूचीबद्ध करता है। Sarcoscypha austriaca var. lutea इस जाति का पीला-नारंगी रूप है, यहाँ संग्रहीत कोई अलग जाति नहीं। कुछ स्रोतों द्वारा प्रयुक्त नाम Peziza austriaca Species Fungorum के पर्याय पृष्ठ पर नहीं है और संग्रहीत नहीं किया जाता। Sarcoscypha coccinea, S. jurana और S. dudleyi अलग वर्तमान जातियाँ हैं और पर्याय नहीं मानी जातीं। कभी-कभार पीले-नारंगी और सफेद फलकाय मिलते हैं। मिलते-जुलते लाल एल्फ-कप से विश्वसनीय अंतर के लिए आमतौर पर सूक्ष्मदर्शी चाहिए। पट्टिका कृत्रिम बुद्धिमत्ता से बना चित्रण है, कोई ऐतिहासिक प्रकाशित आकृति नहीं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Sarcoscypha austriaca saprotrofna je čašasta gljiva vlažnih šuma, koja plodove donosi zimi i rano u proljeće na otpalim grančicama i granama listača, često među mahovinom i steljom. Raširena je u Europi i navodi se i sa sjeveroistoka Sjeverne Amerike. U Britaniji i Irskoj danas je češće zabilježena od dviju uobičajenih crvenih čašica. Pripada krugu sličnih vrsta koji uključuje Sarcoscypha coccinea, S. jurana i u Sjevernoj Americi S. dudleyi; te se vrste ovdje ne tretiraju kao sinonimi, a pouzdano određivanje često zahtijeva mikroskop.",
+      "cap": "Klobuka u uobičajenom smislu nema: plodište je čašica (apotecij). Potpuno otvorena tipično je 2–7 cm široka (drugi izvori daju 1–5 cm, neki 1–8 cm) i oko 1–2 cm visoka. Mlade čašice duboke su, s blago unutra savijenim rubom, zatim se otvaraju u nepravilne zdjelice; starije se mogu spljoštiti, a rub može napuknuti. Unutarnja strana glatka je, sjajna i grimiznocrvena, rijetko narančastožuta ili bijela. Vanjska strana bljeđa je — bjelkasta, ružičasta, okerasta ili krem — i prekrivena filcem sićušnih dlačica.",
+      "hymenium": "Plodna unutarnja strana glatka je i grimiznocrvena. Spore se stvaraju na toj oblozi i pri uznemiravanju čašice mogu izletjeti u vidljivom oblačiću. Otisak spora bijel je. Na vanjskoj strani čašice dlačice su uvijene ili u obliku vadičepa. Zajedno sa sporama taj je oblik dlačica uobičajen način da se vrsta odvoji od Sarcoscypha coccinea, čije su vanjske dlačice ravnije i čije spore ne stvaraju konidijske pupoljke, te od S. jurana.",
+      "stipe": "Ima kratak stručak, često skriven u mahovini ili stelji, u ovdje uporabljenom opisu do 3,5 cm dug i 0,3–0,7 cm debeo; drugi izvori daju oko 0,5–2 × 0,3–0,5 cm, ili 1–3 × 0,3–0,5 cm. Iste je boje kao vanjska strana čašice, ili je bljeđi. Duljina stručka ovisi o tome koliko je duboko drvo zakopano.",
+      "flesh": "Meso je bijelo i gumeno ili blago hrskavičavo, s tankim crvenim slojem koji oblaže čašicu. Miris i okus nisu karakteristični.",
+      "sporePrint": "Bijel. Spore su elipsoidne, tipično 24–32 × 12–14 μm (rasponi u drugim izvorima sežu približno do 20–40 × 10–15 μm), često sa spljoštenim ili blago udubljenim krajevima, i sadrže nekoliko uljnih kapljica. Zrele spore mogu na krajevima stvarati sitne konidijske pupoljke.",
+      "habitat": "Saprob otpalim, često djelomično zakopanim grančicama i granama listača na vlažnim, sjenovitim mjestima, osobito na javoru, vrbi, lijeski, joši i drugim listačama, obično među mahovinom i steljom. U Britaniji i Irskoj najčešće se nalazi od prosinca do travnja. Slovački atlas navodi studeni do lipanj, a u dijelovima istočne Europe to je prvenstveno gljiva ranog proljeća nakon otapanja snijega, ponekad s kasnojesenjim nalazima. Ovaj katalog bilježi sezonu kao prosinac do travanj prema nekoliko britanskih izvora i u tekstu spominje širi raspon u drugim predjelima.",
+      "uses": "Većina ovdje uporabljenih terenskih ključeva i atlasa Sarcoscypha austriaca smatra nejestivom ili odvraća od sabiranja. Neke vlasti, uključujući Norveško udruženje za mikologiju i sabiranje, smatraju je jestivom ako se temeljito skuha; meso je tanko i nije visoko cijenjeno. Nekoliko ključeva označilo ju je sumnjivom. Ovaj katalog slijedi većinu tih izvora i bilježi je kao nejestivu. Slične crvene čašice ne treba jesti samo zbog te sličnosti. Divlje gljive uvijek kuhajte; ne oslanjajte se samo na ovaj tekst.",
+      "confusion": "Sarcoscypha coccinea golim je okom gotovo istovjetna i pouzdano se odvaja samo mikroskopom (ravnije vanjske dlačice; spore bez konidijskih pupoljaka). Sarcoscypha jurana još je jedna slična europska vrsta, često vezana uz lipu. Na sjeveroistoku Sjeverne Amerike odgovarajuća slična vrsta jest S. dudleyi. Nijedno se od tih imena ovdje ne pohranjuje kao sinonim. Narančasta zdjelica (Aleuria aurantia) narančasta je, a ne grimizna, raste na tlu, ne na drvu, i plodove donosi uglavnom krajem ljeta i u jesen. Microstoma protractum manji je, duljeg stručka srodnik iz iste porodice.",
+      "notes": "Prihvaćeno ime jest Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, utemeljeno na Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum navodi i Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat te anamorfu Molliardiomyces coccineus Paden (objavljenu kao M. coccinea). Sarcoscypha austriaca var. lutea žutonarančasta je forma ove vrste, a ne zasebna vrsta koja se ovdje pohranjuje. Ime Peziza austriaca, koje rabe neki izvori, nije na stranici sinonima Species Fungorum i ne pohranjuje se. Sarcoscypha coccinea, S. jurana i S. dudleyi zasebne su važeće vrste i ne tretiraju se kao sinonimi. Rijetko se pojavljuju narančastožuta i bijela plodišta. Pouzdano razlikovanje od sličnih crvenih čašica obično zahtijeva mikroskop. Ploča je ilustracija stvorena umjetnom inteligencijom, a ne povijesni objavljeni crtež.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Az osztrák csészegomba nedves erdők szaprotróf csészegombája, amely télen és kora tavasszal hoz termőtestet lehullott lombosgallyakon és ágakon, gyakran moha és avar között. Európában elterjedt, és Észak-Amerika északkeleti részéről is jelzik. Nagy-Britanniában és Írországban ma a két gyakori piros csészegomba közül a gyakrabban feljegyzett. Hasonló fajok körébe tartozik, amelyek közt van a Sarcoscypha coccinea, a S. jurana és Észak-Amerikában a S. dudleyi; ezeket itt nem tekintjük szinonimáknak, és a biztos határozás gyakran mikroszkópot igényel.",
+      "cap": "A szokásos értelemben vett kalap hiányzik: a termőtest csésze (apothécium). Teljesen kiterülve tipikusan 2–7 cm széles (más források 1–5 cm-t, némelyek 1–8 cm-t adnak) és körülbelül 1–2 cm magas. A fiatal csészék mélyek, kissé befelé hajló széllel, majd szabálytalan tálakká nyílnak; az idősebbek ellaposodhatnak, a szél berepedhet. A belső felszín sima, fényes és skarlátvörös, ritkán narancssárga vagy fehér. A külső felszín halványabb — fehéres, rózsás, okkeres vagy krémszínű —, és apró szőrök nemezével borított.",
+      "hymenium": "A termő belső felszín sima és skarlátvörös. A spórák ezen a bélelésen képződnek, és a csésze megzavarásakor látható felhőben távozhatnak. A spórapor fehér. A csésze külsején a szőrök csavarodottak vagy dugóhúzószerűek. A spórákkal együtt ez a szőralak a szokásos módja annak, hogy a fajt elválasszuk a Sarcoscypha coccineától, amelynek külső szőrei egyenesebbek, és spórái nem képeznek konídiumrügyeket, valamint a S. juranától.",
+      "stipe": "Rövid tönkje van, gyakran mohában vagy avarban rejtve; az itt használt leírásban legfeljebb 3,5 cm hosszú és 0,3–0,7 cm vastag; más források körülbelül 0,5–2 × 0,3–0,5 cm-t vagy 1–3 × 0,3–0,5 cm-t adnak. Színe a csésze külsejével megegyező, vagy halványabb. A tönk hossza attól függ, milyen mélyen van a faanyag eltemetve.",
+      "flesh": "A hús fehér és gumiszerű vagy kissé porcos, vékony vörös réteggel, amely a csészét béleli. Illata és íze nem jellegzetes.",
+      "sporePrint": "Fehér. A spórák ellipszoidok, tipikusan 24–32 × 12–14 μm (más forrásokban a tartomány körülbelül 20–40 × 10–15 μm-ig terjed), gyakran lapított vagy enyhén bemélyedő végekkel, és több olajcseppet tartalmaznak. Az érett spórák a végeken apró konídiumrügyeket hozhatnak.",
+      "habitat": "Korhadéklakó lehullott, gyakran részben eltemetett lombosgallyakon és ágakon, nedves, árnyékos helyeken, különösen juharon, fűzön, mogyorón, égeren és más lombosokon, általában moha és avar között. Nagy-Britanniában és Írországban leggyakrabban decembertől áprilisig található. A szlovák atlasz novembertől júniusig adja meg, Kelet-Európa egyes részein pedig elsősorban a hóolvadás utáni kora tavaszi gomba, néha késő őszi adatokkal. Ez a katalógus a szezont december–áprilisnak jegyzi több brit forrás alapján, és a szövegben említi más vidékek tágabb időszakát.",
+      "uses": "Az itt használt terepi útmutatók és atlaszok többsége az osztrák csészegombát ehetetlennek tekinti, vagy óv a gyűjtésétől. Egyes hatóságok, köztük a Norvég Mikológiai és Gyűjtő Egyesület, ehetőnek tartják, ha alaposan megfőzik; a hús vékony és nem különösebben becsült. Néhány útmutató gyanúsnak nevezte. Ez a katalógus e források többségét követi, és ehetetlenként jegyzi. Hasonló piros csészéket ne együnk csupán e hasonlóság alapján. A vadon termő gombákat mindig főzzük meg; ne támaszkodjunk egyedül erre a szövegre.",
+      "confusion": "A Sarcoscypha coccinea szabad szemmel szinte azonos, és csak mikroszkóppal különíthető el megbízhatóan (egyenesebb külső szőrök; konídiumrügyek nélküli spórák). A Sarcoscypha jurana egy további hasonló európai faj, gyakran hárshoz kötött. Észak-Amerika északkeleti részén a megfelelő hasonmás a S. dudleyi. E neveket itt nem tároljuk szinonimaként. A narancsszínű csészegomba (Aleuria aurantia) narancsszínű, nem skarlát, talajon nő, nem fán, és főként nyár végén és ősszel hoz termőtestet. A Microstoma protractum kisebb, hosszabb tönkű rokona ugyanebben a családban.",
+      "notes": "Az elfogadott név Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, a Lachnea austriaca Beck ex Sacc. (1889) néven alapulva. A Species Fungorum említi a Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat neveket és a Molliardiomyces coccineus Paden anamorfát is (M. coccinea-ként közölve). A Sarcoscypha austriaca var. lutea e faj sárga-narancs formája, nem külön, itt tárolt faj. A Peziza austriaca nevet, amelyet egyes források használnak, a Species Fungorum szinonímaoldala nem tartalmazza, és nem tároljuk. A Sarcoscypha coccinea, a S. jurana és a S. dudleyi önálló érvényes fajok, és nem kezeljük őket szinonimaként. Ritkán narancssárga és fehér termőtestek is előfordulnak. A hasonló piros csészegombáktól való biztos elkülönítés általában mikroszkópot igényel. A tábla mesterséges intelligenciával készült illusztráció, nem történeti, publikált ábra.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Osztr%C3%A1k_cs%C3%A9szegomba"
+      ],
+      "label": "osztrák csészegomba"
+    },
+    "id": {
+      "description": "Sarcoscypha austriaca adalah jamur cawan saprotrof hutan lembap, yang berbuah di musim dingin dan awal musim semi pada ranting dan cabang kayu keras yang rebah, sering di antara lumut dan serasah daun. Jenis ini tersebar luas di Eropa dan juga dilaporkan dari timur laut Amerika Utara. Di Britania Raya dan Irlandia kini ia lebih sering tercatat di antara dua cawan elf merah yang umum. Ia termasuk kompleks jenis yang mirip, yang mencakup Sarcoscypha coccinea, S. jurana, dan di Amerika Utara S. dudleyi; jenis-jenis itu tidak diperlakukan di sini sebagai sinonim, dan identifikasi yang yakin sering memerlukan mikroskop.",
+      "cap": "Tidak ada tudung dalam arti jamur biasa: tubuh buah adalah cawan (apotesium). Ketika sepenuhnya terbuka, biasanya berdiameter 2–7 cm (panduan lain menyebut 1–5 cm, sebagian 1–8 cm) dan tinggi sekitar 1–2 cm. Cawan muda dalam, dengan tepi sedikit melengkung ke dalam, lalu membuka menjadi mangkuk tidak beraturan; yang lebih tua dapat merata dan tepinya dapat retak. Permukaan dalam licin, mengilap, dan merah tua, jarang oranye-kuning atau putih. Permukaan luar lebih pucat — keputihan, merah muda, oker, atau krem — dan tertutup bulu halus seperti felt.",
+      "hymenium": "Permukaan dalam yang fertil licin dan merah tua. Spora terbentuk pada lapisan ini dan dapat mengepul dalam awan yang terlihat jika cawan terganggu. Cetakan spora berwarna putih. Di luar cawan, rambutnya keriting atau berbentuk pembuka botol. Bersama spora, bentuk rambut itu adalah cara biasa memisahkan jenis ini dari Sarcoscypha coccinea, yang rambut luarnya lebih lurus dan sporanya tidak membentuk kuncup konidia, serta dari S. jurana.",
+      "stipe": "Ada tangkai pendek, sering tersembunyi di lumut atau serasah, dalam pemerian yang dipakai di sini hingga 3,5 cm panjang dan 0,3–0,7 cm tebal; sumber lain menyebut sekitar 0,5–2 × 0,3–0,5 cm, atau 1–3 × 0,3–0,5 cm. Warnanya sama dengan permukaan luar cawan, atau lebih pucat. Panjang tangkai bergantung pada seberapa dalam kayu terbenam.",
+      "flesh": "Dagingnya putih dan kenyal atau sedikit seperti tulang rawan, dengan lapisan merah tipis yang melapisi cawan. Bau dan rasa tidak khas.",
+      "sporePrint": "Putih. Spora berbentuk elipsoid, biasanya 24–32 × 12–14 μm (kisaran di sumber lain mencapai sekitar 20–40 × 10–15 μm), sering dengan ujung pipih atau sedikit cekung, dan mengandung beberapa tetes minyak. Spora matang dapat membentuk kuncup konidia kecil di ujungnya.",
+      "habitat": "Saprobe ranting dan cabang kayu keras yang rebah, sering sebagian terbenam, di tempat lembap dan teduh, terutama pada maple, willow, hazel, alder, dan daun lebar lain, biasanya di antara lumut dan serasah. Di Britania Raya dan Irlandia paling sering ditemukan dari Desember hingga April. Atlas Slowakia menyebut November hingga Juni, dan di sebagian Eropa Timur ini terutama jamur awal musim semi setelah salju mencair, kadang dengan catatan akhir musim gugur. Katalog ini mencatat musim sebagai Desember hingga April menurut beberapa sumber Britania, dan menyebutkan jendela yang lebih luas di wilayah lain dalam teks.",
+      "uses": "Sebagian besar panduan lapangan dan atlas yang dipakai di sini memperlakukan Sarcoscypha austriaca sebagai tidak dapat dimakan, atau menasihatkan agar tidak dipungut. Beberapa wewenang, termasuk Asosiasi Mikologi dan Foraging Norwegia, menganggapnya dapat dimakan jika dimasak matang; dagingnya tipis dan tidak terlalu dihargai. Beberapa panduan menyebutnya mencurigakan. Katalog ini mengikuti mayoritas sumber itu dan mencatatnya sebagai tidak dapat dimakan. Cawan merah yang serupa tidak boleh dimakan hanya karena kemiripan ini. Selalu masak jamur liar; jangan mengandalkan teks ini saja.",
+      "confusion": "Sarcoscypha coccinea secara makroskopis hampir identik dan hanya dapat dipisahkan dengan andal memakai mikroskop (rambut luar lebih lurus; spora tanpa kuncup konidia). Sarcoscypha jurana adalah jenis Eropa serupa lainnya, sering terkait dengan pohon lime. Di timur laut Amerika Utara, jenis serupa yang setara adalah S. dudleyi. Tidak satu pun nama itu disimpan di sini sebagai sinonim. Jamur kulit jeruk (Aleuria aurantia) berwarna oranye, bukan merah tua, tumbuh di tanah bukan di kayu, dan berbuah terutama pada akhir musim panas dan musim gugur. Microstoma protractum adalah kerabat yang lebih kecil, bertangkai lebih panjang, dalam famili yang sama.",
+      "notes": "Nama yang diterima adalah Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, berdasarkan Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum juga mencantumkan Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat, dan anamorf Molliardiomyces coccineus Paden (diterbitkan sebagai M. coccinea). Sarcoscypha austriaca var. lutea adalah bentuk kuning-oranye jenis ini, bukan jenis terpisah yang disimpan di sini. Nama Peziza austriaca, yang dipakai beberapa sumber, tidak ada di halaman sinonimi Species Fungorum dan tidak disimpan. Sarcoscypha coccinea, S. jurana, dan S. dudleyi adalah jenis sah yang terpisah dan tidak diperlakukan sebagai sinonim. Tubuh buah kuning-oranye dan putih jarang muncul. Pemisahan yang yakin dari cawan elf merah yang mirip biasanya memerlukan mikroskop. Plat ini adalah ilustrasi yang dihasilkan kecerdasan buatan, bukan gambar sejarah yang diterbitkan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Sarcoscypha austriaca è un ascomicete saprotrofo a forma di coppa dei boschi umidi, che fruttifica in inverno e all'inizio della primavera su rametti e rami caduti di latifoglie, spesso tra muschio e lettiera. È ampiamente diffusa in Europa ed è segnalata anche nel nord-est del Nord America. In Gran Bretagna e Irlanda è oggi la più frequentemente registrata delle due comuni coppe rosse. Appartiene a un complesso di specie simili che comprende Sarcoscypha coccinea, S. jurana e, in Nord America, S. dudleyi; queste specie non sono trattate qui come sinonimi, e un'identificazione sicura richiede spesso un microscopio.",
+      "cap": "Non c'è un cappello nel senso usuale: il corpo fruttifero è una coppa (apotecio). Completamente espansa misura in genere 2–7 cm di diametro (altre guide indicano 1–5 cm, alcune 1–8 cm) e circa 1–2 cm di altezza. Le coppe giovani sono profonde, con margine leggermente incurvato, poi si aprono in ciotole irregolari; quelle più vecchie possono appiattirsi e il margine può fendersi. La superficie interna è liscia, lucida e scarlatta, raramente giallo-arancio o bianca. La superficie esterna è più chiara — biancastra, rosata, ocra o crema — e coperta da un feltro di peli minuti.",
+      "hymenium": "La superficie interna fertile è liscia e scarlatta. Le spore si formano su questo rivestimento e, se si disturba una coppa, possono uscire in una nuvoletta visibile. La sporata è bianca. All'esterno della coppa i peli sono arrotolati o a cavatappi. Insieme alle spore, questa forma dei peli è il modo usuale di distinguere la specie da Sarcoscypha coccinea, i cui peli esterni sono più diritti e le cui spore non formano gemme conidiche, e da S. jurana.",
+      "stipe": "C'è un gambo corto, spesso nascosto nel muschio o nella lettiera, fino a 3,5 cm di lunghezza e 0,3–0,7 cm di spessore nella descrizione usata qui; altre fonti indicano circa 0,5–2 × 0,3–0,5 cm, oppure 1–3 × 0,3–0,5 cm. Ha lo stesso colore della superficie esterna della coppa, o è più chiaro. La lunghezza del gambo varia con la profondità a cui è sepolto il legno.",
+      "flesh": "La carne è bianca e gommosa o leggermente cartilaginea, con un sottile strato rosso che riveste la coppa. Odore e sapore non sono distintivi.",
+      "sporePrint": "Bianca. Le spore sono ellissoidali, in genere 24–32 × 12–14 μm (in altre fonti gli intervalli arrivano a circa 20–40 × 10–15 μm), spesso con estremità appiattite o leggermente incavate, e contengono diverse goccioline d'olio. Le spore mature possono produrre alle estremità piccole gemme conidiche.",
+      "habitat": "Saprofita di rametti e rami caduti di latifoglie, spesso in parte sepolti, in luoghi umidi e ombrosi, soprattutto su acero, salice, nocciolo, ontano e altre latifoglie, di solito tra muschio e lettiera. In Gran Bretagna e Irlanda si trova soprattutto da dicembre ad aprile. L'atlante slovacco indica novembre–giugno, e in parti dell'Europa orientale è soprattutto un fungo di inizio primavera dopo lo scioglimento della neve, a volte con segnalazioni di tardo autunno. Questo catalogo registra la stagione come dicembre–aprile secondo diverse fonti britanniche e menziona nel testo la finestra più ampia di altre regioni.",
+      "uses": "La maggior parte delle guide e degli atlanti usati qui tratta Sarcoscypha austriaca come non commestibile, o sconsiglia di raccoglierla. Alcune autorità, tra cui l'Associazione norvegese di micologia e raccolta, la considerano commestibile se cotta a fondo; la carne è sottile e poco apprezzata. Alcune guide l'hanno detta sospetta. Questo catalogo segue la maggioranza di tali fonti e la registra come non commestibile. Coppe rosse simili non vanno mangiate solo in forza di questa somiglianza. Cuocete sempre i funghi selvatici; non affidatevi a questo testo da solo.",
+      "confusion": "Sarcoscypha coccinea è macroscopicamente quasi identica e si distingue con sicurezza solo al microscopio (peli esterni più diritti; spore senza gemme conidiche). Sarcoscypha jurana è un'altra specie europea simile, spesso legata al tiglio. Nel nord-est del Nord America la specie simile corrispondente è S. dudleyi. Nessuno di questi nomi è conservato qui come sinonimo. La peziza aranciata (Aleuria aurantia) è arancione anziché scarlatta, cresce sul terreno e non sul legno, e fruttifica soprattutto a fine estate e in autunno. Microstoma protractum è un parente più piccolo, a gambo più lungo, della stessa famiglia.",
+      "notes": "Il nome accettato è Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, basato su Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum elenca anche Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat e l'anamorfismo Molliardiomyces coccineus Paden (pubblicato come M. coccinea). Sarcoscypha austriaca var. lutea è una forma giallo-arancio di questa specie, non una specie distinta conservata qui. Il nome Peziza austriaca, usato da alcune fonti, non compare nella pagina di sinonimia di Species Fungorum e non è conservato. Sarcoscypha coccinea, S. jurana e S. dudleyi sono specie attuali distinte e non sono trattate come sinonimi. Raramente compaiono corpi fruttiferi giallo-arancio e bianchi. La distinzione sicura dalle coppe rosse simili richiede di solito un microscopio. La tavola è un'illustrazione generata con intelligenza artificiale, non una figura storica pubblicata.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Sarcoscypha austriaca は湿った林の腐生性チャワンタケで、冬から早春にかけて、落ちた広葉樹の小枝や枝の上に、しばしばコケや落葉の間で子実体をつける。ヨーロッパに広く分布し、北アメリカ北東部からも報告される。イギリスとアイルランドでは、いまでは普通な赤いエルフカップのうちより多く記録される種である。似た種の一群に属し、そこには Sarcoscypha coccinea、S. jurana、北アメリカでは S. dudleyi が含まれる。これらの種はここでは異名として扱わず、確実な同定にはしばしば顕微鏡が必要である。",
+      "cap": "通常のキノコの意味での傘はない。子実体は椀（子嚢盤）である。十分に開くと、普通は直径 2–7 cm（他の案内では 1–5 cm、一部では 1–8 cm）、高さはおよそ 1–2 cm。若い椀は深く、縁がやや内側に巻き、その後不規則な鉢状に開く。古いものは扁平になり、縁が裂けることもある。内面は滑らかで光沢のある緋色、まれに橙黄色または白色。外面はより淡く、白っぽい、桃色、黄土色またはクリーム色で、微細な毛のフェルトに覆われる。",
+      "hymenium": "稔性のある内面は滑らかで緋色である。胞子はこの内面に形成され、椀を動かすと目に見える雲のように飛び出すことがある。胞子紋は白色。椀の外側では毛が巻いているかコルク抜き状である。胞子とともに、この毛の形が本種を Sarcoscypha coccinea（外側の毛がより直線的で、胞子が分生子芽をつくらない）および S. jurana から区別する通常の手がかりである。",
+      "stipe": "短い柄があり、しばしばコケや落葉に隠れる。ここで用いる記載では長さ最大 3.5 cm、太さ 0.3–0.7 cm。他の資料ではおよそ 0.5–2 × 0.3–0.5 cm、または 1–3 × 0.3–0.5 cm とする。色は椀の外面と同じか、より淡い。柄の長さは材がどれだけ深く埋もれているかによる。",
+      "flesh": "肉は白く、ゴム質ないしやや軟骨質で、椀を薄い赤色の層が裏打ちする。においと味は特徴的でない。",
+      "sporePrint": "白色。胞子は楕円形で、通常 24–32 × 12–14 μm（他の資料では範囲がおよそ 20–40 × 10–15 μm に及ぶ）、しばしば先端が扁平またはややへこみ、油滴をいくつか含む。成熟した胞子は先端に小さな分生子芽を出すことがある。",
+      "habitat": "湿った日陰、とくにカエデ、ヤナギ、ハシバミ、ハンノキなどの広葉樹上で、落ちた、しばしば一部が埋もれた小枝や枝を分解する。普通はコケや落葉の間にある。イギリスとアイルランドでは 12 月から 4 月に最もよく見つかる。スロバキアの図鑑は 11 月から 6 月とし、東ヨーロッパの一部では融雪後の早春の菌が主で、晩秋の記録もある。本目録は複数のイギリス資料に従い季節を 12–4 月と記録し、他地域のより広い期間は本文で述べる。",
+      "uses": "ここで用いた野外図鑑や図譜の多くは、本種を食用に適さないとし、採取を勧めていない。ノルウェー菌類・採取協会など一部の機関は、十分に加熱すれば食用になるとするが、肉は薄く、あまり評価されない。疑わしいとする案内もある。本目録はそれらの資料の多数に従い、食用不適と記録する。よく似た赤い椀を、この類似だけで食べてはならない。野生のきのこは必ず加熱すること。この文だけに頼らないこと。",
+      "confusion": "Sarcoscypha coccinea は肉眼ではほとんど同じで、顕微鏡によってのみ確実に分けられる（外側の毛がより直線的、胞子に分生子芽がない）。Sarcoscypha jurana は同様のヨーロッパ産の別種で、しばしばシナノキに結びつく。北アメリカ北東部での対応する類似種は S. dudleyi である。これらの名はここでは異名として保存しない。オレンジピールタケ（Aleuria aurantia）は緋色ではなく橙色で、材ではなく土に生じ、主に晩夏から秋に子実体をつける。Microstoma protractum は同じ科の、より小さく柄の長い近縁種である。",
+      "notes": "認められる学名は Sarcoscypha austriaca (Beck ex Sacc.) Boud.（1907年；Hist. Class. Discom. Eur.: 55）、Index Fungorum / MycoBank 433531 で、基は Lachnea austriaca Beck ex Sacc.（1889年）である。Species Fungorum は Peziza imperialis Beck、Scutellinia imperialis Kuntze、Humaria imperialis (Beck) Mussat、およびアナモルフ Molliardiomyces coccineus Paden（M. coccinea として発表）も掲げる。Sarcoscypha austriaca var. lutea は本種の黄橙色の型であり、ここで保存する別種ではない。一部の資料が用いる Peziza austriaca は Species Fungorum の異名ページになく、保存しない。Sarcoscypha coccinea、S. jurana、S. dudleyi は別の現行種であり、異名として扱わない。まれに黄橙色や白色の子実体が出る。類似の赤いエルフカップとの確実な区別には、通常は顕微鏡が必要である。図版は人工知能で生成した挿絵であり、歴史的な刊行図ではない。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "Sarcoscypha austriaca는 습한 숲의 부생 잔 버섯으로, 겨울과 이른 봄에 쓰러진 활엽수의 잔가지와 가지 위에서, 흔히 이끼와 낙엽 사이에서 자실체를 만든다. 유럽에 널리 퍼져 있으며 북아메리카 북동부에서도 보고된다. 영국과 아일랜드에서는 이제 흔한 두 붉은 엘프컵 가운데 더 자주 기록된다. Sarcoscypha coccinea, S. jurana, 북아메리카의 S. dudleyi를 포함하는 닮은 종 무리에 속한다. 이들 종은 여기서 이명으로 다루지 않으며, 확실한 동정에는 흔히 현미경이 필요하다.",
+      "cap": "보통의 버섯 의미에서 갓은 없다. 자실체는 잔(자낭반)이다. 완전히 펼쳐지면 보통 지름 2–7 cm(다른 안내는 1–5 cm, 일부는 1–8 cm)이고 높이는 약 1–2 cm이다. 어린 잔은 깊고 가장자리가 약간 안쪽으로 말리며, 이후 불규칙한 그릇 모양으로 열린다. 오래된 것은 납작해질 수 있고 가장자리가 갈라질 수 있다. 안쪽 면은 매끄럽고 윤기 나는 진홍색이며, 드물게 주황노랑 또는 흰색이다. 바깥 면은 더 옅어 희끄무레하거나 분홍, 황토 또는 크림색이며 아주 가는 털의 펠트로 덮인다.",
+      "hymenium": "임성인 안쪽 면은 매끄럽고 진홍색이다. 포자는 이 내면에서 생기며, 잔을 건드리면 눈에 보이는 구름처럼 흩어질 수 있다. 포자무늬는 흰색이다. 잔의 바깥에서는 털이 말려 있거나 코르크나사 모양이다. 포자와 함께 이 털 모양이 본종을 바깥 털이 더 곧고 포자가 분생자 싹을 만들지 않는 Sarcoscypha coccinea와 S. jurana로부터 구분하는 보통의 방법이다.",
+      "stipe": "짧은 대가 있으며, 흔히 이끼나 낙엽에 숨는다. 여기서 쓰는 기재에서는 길이 최대 3.5 cm, 두께 0.3–0.7 cm이다. 다른 자료는 약 0.5–2 × 0.3–0.5 cm, 또는 1–3 × 0.3–0.5 cm로 적는다. 색은 잔의 바깥 면과 같거나 더 옅다. 대의 길이는 나무가 얼마나 깊이 묻혀 있는지에 따라 달라진다.",
+      "flesh": "살은 하얗고 고무질이거나 약간 연골질이며, 잔을 얇은 붉은 층이 안감처럼 싼다. 냄새와 맛은 뚜렷하지 않다.",
+      "sporePrint": "하양. 포자는 타원형으로, 보통 24–32 × 12–14 μm(다른 자료에서는 범위가 약 20–40 × 10–15 μm에 이른다)이며, 흔히 끝이 납작하거나 약간 들어가 있고 기름방울을 여러 개 품는다. 성숙한 포자는 끝에 작은 분생자 싹을 만들 수 있다.",
+      "habitat": "습하고 그늘진 곳, 특히 단풍나무, 버드나무, 개암나무, 오리나무 등 활엽수에서, 쓰러진, 흔히 일부가 묻힌 잔가지와 가지를 분해한다. 보통은 이끼와 낙엽 사이에 있다. 영국과 아일랜드에서는 12월부터 4월까지 가장 흔히 발견된다. 슬로바키아 도감은 11월부터 6월까지로 적고, 동유럽 일부에서는 눈이 녹은 뒤의 이른 봄 버섯이 주이며, 늦은 가을 기록도 있다. 이 목록은 여러 영국 자료에 따라 계절을 12–4월로 기록하고, 다른 지역의 더 넓은 기간은 본문에서 밝힌다.",
+      "uses": "여기서 쓴 야외 안내서와 도감의 대부분은 이 종을 식용 부적합으로 보거나 채집을 권하지 않는다. 노르웨이 균학과 채집 협회를 포함한 일부 기관은 충분히 익히면 먹을 수 있다고 보지만, 살은 얇고 높이 평가되지 않는다. 일부 안내는 의심스럽다고 했다. 이 목록은 그 자료의 다수를 따라 식용 부적합으로 기록한다. 비슷한 붉은 잔을 이 닮음만으로 먹어서는 안 된다. 야생 버섯은 반드시 익혀 먹고, 이 글만 의지하지 말 것.",
+      "confusion": "Sarcoscypha coccinea는 육안으로 거의 같고 현미경으로만 확실히 가른다(바깥 털이 더 곧고, 포자에 분생자 싹이 없다). Sarcoscypha jurana는 비슷한 또 다른 유럽 종으로, 흔히 피나무와 관련된다. 북아메리카 북동부에서 대응하는 닮은 종은 S. dudleyi이다. 이들 이름은 여기서 이명으로 저장하지 않는다. 오렌지 껍질 버섯(Aleuria aurantia)은 진홍이 아니라 주황이며, 나무가 아니라 땅에서 자라고, 주로 늦여름과 가을에 자실체를 만든다. Microstoma protractum은 같은 과의, 더 작고 대가 더 긴 근연종이다.",
+      "notes": "인정되는 학명은 Sarcoscypha austriaca (Beck ex Sacc.) Boud.(1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531이며, 기본명은 Lachnea austriaca Beck ex Sacc.(1889)이다. Species Fungorum은 Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat, 그리고 무성세대 Molliardiomyces coccineus Paden(M. coccinea로 발표)도 적는다. Sarcoscypha austriaca var. lutea는 이 종의 노란 주황 형으로, 여기서 저장하는 별종이 아니다. 일부 자료가 쓰는 Peziza austriaca는 Species Fungorum 이명 페이지에 없으며 저장하지 않는다. Sarcoscypha coccinea, S. jurana, S. dudleyi는 별도의 현행 종이며 이명으로 다루지 않는다. 드물게 주황노랑과 흰 자실체가 난다. 닮은 붉은 엘프컵과 확실히 가르려면 보통 현미경이 필요하다. 도판은 인공지능으로 만든 삽화이며, 역사적으로 출판된 그림이 아니다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Austriškoji plačiataurė yra saprotrofinis taurelinis grybas drėgnuose miškuose, derantis žiemą ir ankstyvą pavasarį ant nuvirtusių lapuočių šakelių ir šakų, dažnai samanose ir paklotėje. Ji paplitusi Europoje ir nurodoma ir iš šiaurės rytų Šiaurės Amerikos. Didžiojoje Britanijoje ir Airijoje dabar tai dažniau registruojama iš dviejų įprastų raudonųjų plačiataurių. Ji priklauso panašių rūšių kompleksui, kuriam priklauso Sarcoscypha coccinea, S. jurana ir Šiaurės Amerikoje S. dudleyi; šios rūšys čia nelaikomos sinonimais, o patikimas nustatymas dažnai reikalauja mikroskopo.",
+      "cap": "Įprastos kepurėlės nėra: vaisiakūnis yra taurelė (apotecijus). Visiškai išsiskleidusi ji paprastai būna 2–7 cm skersmens (kituose šaltiniuose 1–5 cm, kai kuriuose 1–8 cm) ir apie 1–2 cm aukščio. Jaunos taurelės yra gilios, šiek tiek įlinkusiu kraštu, vėliau atsiveria į nelygias lėkšteles; senesnės gali suplokštėti, o kraštas gali skilti. Vidinis paviršius lygus, blizgus ir skaisčiai raudonas, retai oranžinis geltonas arba baltas. Išorinis paviršius šviesesnis — balsvas, rausvas, ochrinis ar kreminis — ir apaugęs smulkių plaukelių veltiniu.",
+      "hymenium": "Derlingasis vidinis paviršius lygus ir skaisčiai raudonas. Sporos susidaro ant šio pamušalo ir, sudirginus taurelę, gali išlėkti matomu debesėliu. Sporų milteliai balti. Taurelės išorėje plaukeliai susisukę arba kamščiatraukio pavidalo. Kartu su sporomis ši plaukelių forma yra įprastas būdas atskirti rūšį nuo Sarcoscypha coccinea, kurios išoriniai plaukeliai tiesesni, o sporos nesudaro konidijų pumpurų, ir nuo S. jurana.",
+      "stipe": "Yra trumpas kotas, dažnai paslėptas samanose ar paklotėje; čia naudojamame apraše iki 3,5 cm ilgio ir 0,3–0,7 cm storio; kiti šaltiniai nurodo apie 0,5–2 × 0,3–0,5 cm arba 1–3 × 0,3–0,5 cm. Jis tokios pat spalvos kaip taurelės išorė arba šviesesnis. Koto ilgis priklauso nuo to, kaip giliai mediena yra įkasta.",
+      "flesh": "Mėsa balta ir gumiška arba šiek tiek kremzlinė, su plonu raudonu sluoksniu, išklojančiu taurelę. Kvapas ir skonis nėra būdingi.",
+      "sporePrint": "Balti. Sporos elipsoidinės, paprastai 24–32 × 12–14 μm (kituose šaltiniuose intervalai siekia apie 20–40 × 10–15 μm), dažnai su suplotais arba šiek tiek įdubusiais galais, ir turi keletą aliejaus lašelių. Prinokusios sporos galuose gali sudaryti mažus konidijų pumpurus.",
+      "habitat": "Saprobas ant nuvirtusių, dažnai iš dalies įkastų lapuočių šakelių ir šakų drėgnose, pavėsingose vietose, ypač ant klevo, gluosnio, lazdyno, alksnio ir kitų lapuočių, paprastai samanose ir paklotėje. Didžiojoje Britanijoje ir Airijoje ji dažniausiai randama nuo gruodžio iki balandžio. Slovakų atlasas nurodo lapkritį–birželį, o Rytų Europos dalyse tai pirmiausia ankstyvo pavasario grybas po sniego tirpsmo, kartais su vėlyvo rudens radimvietėmis. Šis katalogas sezoną fiksuoja kaip gruodį–balandį pagal keletą britų šaltinių ir tekste mini platesnį langą kituose regionuose.",
+      "uses": "Dauguma čia naudotų lauko vadovų ir atlasų austriškąją plačiataurę laiko nevaloma arba atkalbinėja rinkti. Kai kurios institucijos, įskaitant Norvegijos mikologijos ir rinkimo asociaciją, laiko ją valoma, jei kruopščiai išverdama; mėsa plona ir nevertinama. Keli vadovai yra pavadinę ją įtartina. Šis katalogas seka dauguma tų šaltinių ir fiksuoja ją kaip nevalomą. Panašių raudonų taurelių negalima valgyti vien dėl šio panašumo. Laukiniai grybai visada virtini; nepasikliaukite vien šiuo tekstu.",
+      "confusion": "Sarcoscypha coccinea plika akimi beveik identiška ir patikimai atskiriama tik mikroskopu (tiesesni išoriniai plaukeliai; sporos be konidijų pumpurų). Sarcoscypha jurana yra kita panaši europinė rūšis, dažnai susijusi su liepa. Šiaurės rytų Šiaurės Amerikoje atitinkama panaši rūšis yra S. dudleyi. Nė vienas šių vardų čia nesaugomas kaip sinonimas. Oranžinė aleurija (Aleuria aurantia) yra oranžinė, ne skaisčiai raudona, auga ant dirvos, ne ant medienos, ir dera daugiausia vasaros pabaigoje ir rudenį. Microstoma protractum yra mažesnis, ilgesniu kotu giminaitis toje pačioje šeimoje.",
+      "notes": "Priimtas vardas yra Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, pagrįstas Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum taip pat nurodo Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat ir anamorfą Molliardiomyces coccineus Paden (paskelbtą kaip M. coccinea). Sarcoscypha austriaca var. lutea yra geltonai oranžinė šios rūšies forma, ne atskira čia saugoma rūšis. Vardas Peziza austriaca, kurį vartoja kai kurie šaltiniai, nėra Species Fungorum sinonimų puslapyje ir nesaugomas. Sarcoscypha coccinea, S. jurana ir S. dudleyi yra atskiros galiojančios rūšys ir nelaikomos sinonimais. Retai pasitaiko oranžiniai geltoni ir balti vaisiakūniai. Patikimas atskyrimas nuo panašių raudonųjų plačiataurių paprastai reikalauja mikroskopo. Lenta yra dirbtinio intelekto sukurta iliustracija, ne istorinis paskelbtas piešinys.",
+      "names": [
+        "skarlatininė plačiataurė"
+      ],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Austri%C5%A1koji_pla%C4%8Diataur%C4%97"
+      ],
+      "label": "austriškoji plačiataurė"
+    },
+    "lv": {
+      "description": "Austrijas agrene ir saprotrofa kausveida sēne mitros mežos, kas ražo augļķermeņus ziemā un agrā pavasarī uz nokritušiem lapkoku zariņiem un zariem, bieži starp sūnām un nobirām. Tā ir plaši izplatīta Eiropā un tiek norādīta arī no ziemeļaustrumu Ziemeļamerikas. Lielbritānijā un Īrijā tā tagad ir biežāk reģistrētā no abām parastajām sarkanajām agrenēm. Tā pieder līdzīgu sugu kompleksam, kurā ietilpst Sarcoscypha coccinea, S. jurana un Ziemeļamerikā S. dudleyi; šīs sugas šeit netiek uzskatītas par sinonīmiem, un droša noteikšana bieži prasa mikroskopu.",
+      "cap": "Parastas cepurītes nav: augļķermenis ir kauss (apotēcijs). Pilnībā atvēries tas parasti ir 2–7 cm plats (citos avotos 1–5 cm, dažos 1–8 cm) un apmēram 1–2 cm augsts. Jaunie kausi ir dziļi, ar nedaudz ieliektu malu, pēc tam atveras neregulārās bļodiņās; vecāki var saplakt, un mala var ieplīst. Iekšējā virsma ir gluda, spīdīga un koši sarkana, reti oranži dzeltena vai balta. Ārējā virsma ir gaišāka — bālgana, sārta, okera vai krēmkrāsas — un klāta ar sīku matiņu filcu.",
+      "hymenium": "Auglīgā iekšējā virsma ir gluda un koši sarkana. Sporas veidojas uz šī izklājuma un, kausu aizskarot, var izpūsties redzamā mākonītī. Sporu pulveris ir balts. Kausa ārpusē matiņi ir sarināti vai korķviļķa veidā. Kopā ar sporām šī matiņu forma ir parastais veids, kā atšķirt šo sugu no Sarcoscypha coccinea, kuras ārējie matiņi ir taisnāki un kuras sporas neveido konīdiju pumpurus, un no S. jurana.",
+      "stipe": "Ir īss kātiņš, bieži paslēpts sūnās vai nobirās; šeit lietotajā aprakstā līdz 3,5 cm garš un 0,3–0,7 cm resns; citi avoti norāda apmēram 0,5–2 × 0,3–0,5 cm vai 1–3 × 0,3–0,5 cm. Tam ir tāda pati krāsa kā kausa ārpusei vai tas ir gaišāks. Kātiņa garums atkarīgs no tā, cik dziļi koksne ir aprakta.",
+      "flesh": "Mīkstums ir balts un gumijveida vai nedaudz skrimšļains, ar plānu sarkanu slāni, kas izklāj kausu. Smarža un garša nav raksturīgas.",
+      "sporePrint": "Balts. Sporas ir elipsoidālas, parasti 24–32 × 12–14 μm (citos avotos diapazoni sniedzas līdz apmēram 20–40 × 10–15 μm), bieži ar saplacinātiem vai nedaudz ieliektiem galiem, un satur vairākus eļļas pilienus. Nobriedušas sporas galos var veidot sīkus konīdiju pumpurus.",
+      "habitat": "Saprobs uz nokritušiem, bieži daļēji apraktiem lapkoku zariņiem un zariem mitrās, ēnainās vietās, īpaši uz kļavas, vītola, lazdas, alkšņa un citiem lapkokiem, parasti starp sūnām un nobirām. Lielbritānijā un Īrijā to visbiežāk atrod no decembra līdz aprīlim. Slovākijas atlants norāda no novembra līdz jūnijam, un Austrumeiropas daļās tā galvenokārt ir agrā pavasara sēne pēc sniega kušanas, dažkārt ar vēlā rudens atradumiem. Šis katalogs sezonu reģistrē kā decembri–aprīli pēc vairākiem britu avotiem un tekstā min plašāku logu citos apvidos.",
+      "uses": "Lielākā daļa šeit izmantoto lauka rokasgrāmatu un atlasu Austrijas agreni uzskata par neēdamu vai attur no vākšanas. Dažas iestādes, tostarp Norvēģijas mikoloģijas un vākšanas biedrība, uzskata to par ēdamu, ja to rūpīgi novāra; mīkstums ir plāns un nav augstu vērtēts. Dažas rokasgrāmatas to ir dēvējušas par aizdomīgu. Šis katalogs seko šo avotu vairākumam un reģistrē to kā neēdamu. Līdzīgus sarkanus kausus nedrīkst ēst tikai šīs līdzības dēļ. Savvaļas sēnes vienmēr vāri; nepaļaujies tikai uz šo tekstu.",
+      "confusion": "Sarcoscypha coccinea makroskopiski ir gandrīz identiska un droši atšķirama tikai ar mikroskopu (taisnāki ārējie matiņi; sporas bez konīdiju pumpuriem). Sarcoscypha jurana ir vēl viena līdzīga Eiropas suga, bieži saistīta ar liepu. Ziemeļaustrumu Ziemeļamerikā atbilstošā līdzīgā suga ir S. dudleyi. Neviens no šiem nosaukumiem šeit netiek saglabāts kā sinonīms. Oranžā aleūrija (Aleuria aurantia) ir oranža, nevis koši sarkana, aug uz augsnes, nevis koksnes, un ražo augļķermeņus galvenokārt vasaras beigās un rudenī. Microstoma protractum ir mazāks, garāka kātiņa radinieks tajā pašā dzimtā.",
+      "notes": "Pieņemtais nosaukums ir Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, balstīts uz Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum min arī Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat un anamorfu Molliardiomyces coccineus Paden (publicētu kā M. coccinea). Sarcoscypha austriaca var. lutea ir šīs sugas dzelteni oranža forma, nevis atsevišķa šeit saglabāta suga. Nosaukums Peziza austriaca, ko lieto daži avoti, nav Species Fungorum sinonīmijas lapā un netiek saglabāts. Sarcoscypha coccinea, S. jurana un S. dudleyi ir atsevišķas spēkā esošas sugas un netiek uzskatītas par sinonīmiem. Reti sastopami oranži dzelteni un balti augļķermeņi. Droša atšķiršana no līdzīgajām sarkanajām agrenēm parasti prasa mikroskopu. Tāfele ir ar mākslīgo intelektu veidota ilustrācija, nevis vēsturisks publicēts zīmējums.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Austrijas_agrene"
+      ],
+      "label": "Austrijas agrene"
+    },
+    "nl": {
+      "description": "De krulhaarkelkzwam is een saprotrofe bekerzwam van vochtig bos, die in de winter en het vroege voorjaar vruchtlichamen vormt op afgevallen loofhouttwijgen en -takken, vaak tussen mos en strooisel. Zij is wijdverbreid in Europa en wordt ook uit het noordoosten van Noord-Amerika opgegeven. In Groot-Brittannië en Ierland is zij inmiddels de vaker waargenomen van de twee algemene rode elfenbekers. Zij behoort tot een complex van gelijkende soorten, waaronder Sarcoscypha coccinea, S. jurana en in Noord-Amerika S. dudleyi; die soorten worden hier niet als synoniemen behandeld, en een zekere determinatie vereist vaak een microscoop.",
+      "cap": "Een hoed in de gewone zin ontbreekt: het vruchtlichaam is een beker (apothecium). Volledig geopend is die typisch 2–7 cm breed (andere gidsen noemen 1–5 cm, sommige 1–8 cm) en ongeveer 1–2 cm hoog. Jonge bekers zijn diep, met een iets naar binnen gebogen rand, en openen zich daarna tot onregelmatige schalen; oudere kunnen afplatten en de rand kan inscheuren. De binnenzijde is glad, glanzend en scharlakenrood, zelden oranjegeel of wit. De buitenzijde is bleker — witachtig, roze, oker of roomkleurig — en bedekt met een vilt van minuscule haartjes.",
+      "hymenium": "De fertiele binnenzijde is glad en scharlakenrood. De sporen ontstaan op deze bekleding en kunnen bij verstoring van een beker in een zichtbare wolk ontsnappen. De sporenprint is wit. Aan de buitenkant van de beker zijn de haren gekruld of kurkentrekkerachtig. Samen met de sporen is die haarvorm de gebruikelijke manier om deze soort te scheiden van Sarcoscypha coccinea, waarvan de buitenharen rechter zijn en waarvan de sporen geen conidiële knoppen vormen, en van S. jurana.",
+      "stipe": "Er is een korte steel, vaak verborgen in mos of strooisel, in de hier gebruikte beschrijving tot 3,5 cm lang en 0,3–0,7 cm dik; andere bronnen geven ongeveer 0,5–2 × 0,3–0,5 cm, of 1–3 × 0,3–0,5 cm. Hij heeft dezelfde kleur als de buitenzijde van de beker, of is bleker. De steellengte hangt af van hoe diep het hout begraven ligt.",
+      "flesh": "Het vlees is wit en rubberachtig of enigszins kraakbeenachtig, met een dunne rode laag die de beker bekleedt. Geur en smaak zijn niet kenmerkend.",
+      "sporePrint": "Wit. De sporen zijn ellipsoïdisch, typisch 24–32 × 12–14 μm (bereiken in andere bronnen lopen tot ongeveer 20–40 × 10–15 μm), vaak met afgeplatte of iets ingedeukte einden, en bevatten enkele oliedruppeltjes. Rijpe sporen kunnen aan de einden kleine conidiële knoppen vormen.",
+      "habitat": "Een saprobe van afgevallen, vaak deels begraven loofhouttwijgen en -takken op vochtige, schaduwrijke plaatsen, vooral op esdoorn, wilg, hazelaar, els en andere loofbomen, gewoonlijk tussen mos en strooisel. In Groot-Brittannië en Ierland wordt zij het meest van december tot april gevonden. De Slowaakse atlas geeft november tot juni, en in delen van Oost-Europa is het vooral een paddenstoel van het vroege voorjaar na de sneeuwsmelt, soms met late herfstwaarnemingen. Deze catalogus noteert het seizoen als december tot april volgens verscheidene Britse bronnen, en vermeldt het ruimere venster elders in de tekst.",
+      "uses": "De meeste hier gebruikte veldgidsen en atlassen behandelen de krulhaarkelkzwam als oneetbaar, of raden af haar te verzamelen. Sommige autoriteiten, waaronder de Noorse vereniging voor mycologie en foerageren, achten haar eetbaar als zij grondig wordt gekookt; het vlees is dun en weinig gewaardeerd. Enkele gidsen hebben haar verdacht genoemd. Deze catalogus volgt de meerderheid van die bronnen en vermeldt haar als oneetbaar. Soortgelijke rode bekers moeten niet op grond van deze gelijkenis worden gegeten. Kook wilde paddenstoelen altijd; vertrouw niet alleen op deze tekst.",
+      "confusion": "De rode kelkzwam Sarcoscypha coccinea is macroscopisch bijna identiek en is alleen met een microscoop betrouwbaar te scheiden (rechter buitenharen; sporen zonder conidiële knoppen). Sarcoscypha jurana is een andere gelijkende Europese soort, vaak gebonden aan linde. In het noordoosten van Noord-Amerika is het overeenkomstige lookalike S. dudleyi. Geen van deze namen wordt hier als synoniem opgeslagen. De grote oranje bekerzwam (Aleuria aurantia) is oranje in plaats van scharlaken, groeit op grond in plaats van op hout, en vrucht vooral in de nazomer en de herfst. Microstoma protractum is een kleinere, langer gesteelde verwant in dezelfde familie.",
+      "notes": "De aanvaarde naam is Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, gebaseerd op Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum vermeldt ook Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat, en de anamorf Molliardiomyces coccineus Paden (gepubliceerd als M. coccinea). Sarcoscypha austriaca var. lutea is een geeloranje vorm van deze soort, geen afzonderlijke soort die hier wordt opgeslagen. De naam Peziza austriaca, door sommige bronnen gebruikt, staat niet op de synonymiepagina van Species Fungorum en wordt niet opgeslagen. Sarcoscypha coccinea, S. jurana en S. dudleyi zijn afzonderlijke geldige soorten en worden niet als synoniemen behandeld. Zelden komen oranjegele en witte vruchtlichamen voor. Betrouwbare scheiding van de gelijkende rode elfenbekers vereist gewoonlijk een microscoop. De plaat is een met kunstmatige intelligentie gemaakte illustratie, geen historische gepubliceerde afbeelding.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Krulhaarkelkzwam"
+      ],
+      "label": "krulhaarkelkzwam"
+    },
+    "no": {
+      "description": "Skarlagen vårbeger er en saprotrof begeresopp i fuktig skog, som fruktifiserer om vinteren og tidlig vår på falne kvister og greiner av lauvtrær, ofte blant mose og løvstrø. Den er utbredt i Europa og oppgis også fra det nordøstlige Nord-Amerika. I Storbritannia og Irland er den nå den oftest registrerte av de to vanlige røde elfbegerne. Den hører til et kompleks av lignende arter som omfatter Sarcoscypha coccinea, S. jurana og i Nord-Amerika S. dudleyi; disse artene behandles ikke her som synonymer, og sikker bestemmelse krever ofte et mikroskop.",
+      "cap": "Det finnes ingen hatt i vanlig soppforstand: fruktlegemet er et beger (apothecium). Fullt utbredt er det typisk 2–7 cm bredt (andre kilder oppgir 1–5 cm, noen 1–8 cm) og omtrent 1–2 cm høyt. Unge begere er dype, med en lett innbøyd rand, og åpner seg deretter til uregelmessige skåler; eldre kan flates ut, og randen kan sprekke. Innsiden er glatt, blank og skarlagensrød, sjelden orangegul eller hvit. Utsiden er blekere — hvitaktig, rosa, oker eller kremfarget — og dekket av et filtlag av bittesmå hår.",
+      "hymenium": "Den fertile innsiden er glatt og skarlagensrød. Sporene dannes på denne kledningen og kan fyke ut i en synlig sky hvis et beger forstyrres. Sporeavtrykket er hvitt. På utsiden av begeret er hårene krollede eller korketrekkformede. Sammen med sporene er denne hårformen den vanlige måten å skille arten fra Sarcoscypha coccinea, hvis ytre hår er rettere og hvis sporer ikke danner konidieknopper, og fra S. jurana.",
+      "stipe": "Det er en kort stilk, ofte skjult i mose eller løvstrø, i den beskrivelsen som brukes her inntil 3,5 cm lang og 0,3–0,7 cm tykk; andre kilder oppgir omtrent 0,5–2 × 0,3–0,5 cm, eller 1–3 × 0,3–0,5 cm. Den har samme farge som utsiden av begeret, eller er blekere. Stilklengden varierer med hvor dypt veden er begravd.",
+      "flesh": "Kjøttet er hvitt og gummiaktig eller noe bruskaktig, med et tynt rødt lag som kler begeret. Lukt og smak er ikke særpregede.",
+      "sporePrint": "Hvitt. Sporene er ellipsoide, typisk 24–32 × 12–14 μm (intervaller i andre kilder strekker seg til omkring 20–40 × 10–15 μm), ofte med avflatete eller noe innbuktede ender, og inneholder flere oljedråper. Modne sporer kan danne små konidieknopper i endene.",
+      "habitat": "En saprobiont på falne, ofte delvis nedgravde kvister og greiner av lauvtrær på fuktige, skyggefulle steder, særlig på lønn, selje, hassel, or og andre lauvtrær, vanligvis blant mose og løvstrø. I Storbritannia og Irland finnes den oftest fra desember til april. Det slovakiske atlaset oppgir november til juni, og i deler av Øst-Europa er den først og fremst en sopp i tidlig vår etter snøsmeltingen, av og til med sene høstfunn. Denne katalogen registrerer sesongen som desember til april etter flere britiske kilder, og nevner det videre vinduet i andre områder i teksten.",
+      "uses": "De fleste felthåndbøkene og atlasene som er brukt her, behandler skarlagen vårbeger som uspiselig, eller fraråder plukking. Noen autoriteter, blant dem Norges sopp- og nyttevekstforbund, anser den som spiselig hvis den kokes grundig; kjøttet er tynt og lite verdsatt. Enkelte håndbøker har kalt den mistenkelig. Denne katalogen følger flertallet av disse kildene og registrerer den som uspiselig. Liknende røde begere bør ikke spises bare på grunn av denne likheten. Kok alltid viltvoksende sopp; stol ikke på denne teksten alene.",
+      "confusion": "Sarcoscypha coccinea er makroskopisk nesten identisk og kan bare skilles sikkert med mikroskop (rettere ytre hår; sporer uten konidieknopper). Sarcoscypha jurana er en annen liknende europeisk art, ofte knyttet til lind. I det nordøstlige Nord-Amerika er det tilsvarende lookalike S. dudleyi. Ingen av disse navnene lagres her som synonym. Orangebegersopp (Aleuria aurantia) er oransje snarere enn skarlagen, vokser på jord snarere enn ved, og fruktifiserer hovedsakelig seint om sommeren og om høsten. Microstoma protractum er en mindre, lengre-stilkete slektning i samme familie.",
+      "notes": "Det aksepterte navnet er Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, basert på Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum nevner også Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat og anamorfen Molliardiomyces coccineus Paden (publisert som M. coccinea). Sarcoscypha austriaca var. lutea er en guloransje form av denne arten, ikke en egen art som lagres her. Navnet Peziza austriaca, som noen kilder bruker, står ikke på synonymisiden til Species Fungorum og lagres ikke. Sarcoscypha coccinea, S. jurana og S. dudleyi er egne gjeldende arter og behandles ikke som synonymer. Sjelden forekommer orangegule og hvite fruktlegemer. Sikker atskillelse fra de liknende røde elfbegerne krever vanligvis et mikroskop. Plansjen er en illustrasjon laget med kunstig intelligens, ikke en historisk publisert figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://no.wikipedia.org/wiki/Skarlagen_v%C3%A5rbeger",
+        "https://nb.wikipedia.org/wiki/Skarlagen_v%C3%A5rbeger"
+      ],
+      "label": "skarlagen vårbeger"
+    },
+    "pl": {
+      "description": "Czarka austriacka jest saprotroficznym workowcem wilgotnych lasów, owocnikującym zimą i wczesną wiosną na opadłych gałązkach i gałęziach drzew liściastych, często wśród mchu i ściółki. Jest szeroko rozprzestrzeniona w Europie i podawana także z północnego wschodu Ameryki Północnej. W Wielkiej Brytanii i Irlandii jest obecnie częściej notowana z dwóch pospolitych czerwonych czarek. Należy do kompleksu podobnych gatunków, obejmującego Sarcoscypha coccinea, S. jurana i w Ameryce Północnej S. dudleyi; gatunków tych nie traktuje się tu jako synonimów, a pewne oznaczenie często wymaga mikroskopu.",
+      "cap": "Nie ma kapelusza w zwykłym znaczeniu: owocnik jest czarką (apotecjum). W pełni rozwinięta ma typowo 2–7 cm średnicy (inne źródła podają 1–5 cm, niektóre 1–8 cm) i około 1–2 cm wysokości. Młode czarki są głębokie, z nieco zawiniętym brzegiem, potem otwierają się w nieregularne miseczki; starsze mogą się spłaszczać, a brzeg może pękać. Wewnętrzna strona jest gładka, błyszcząca i szkarłatna, rzadko pomarańczowożółta lub biała. Strona zewnętrzna jest jaśniejsza — biaława, różowa, ochrowa lub kremowa — i pokryta filcem drobnych włosków.",
+      "hymenium": "Płodna wewnętrzna strona jest gładka i szkarłatna. Zarodniki powstają na tej wyściółce i przy poruszeniu czarki mogą wyfrunąć w widocznej chmurce. Wysyp zarodników jest biały. Na zewnątrz czarki włoski są skręcone lub korkociągowe. Wraz z zarodnikami ten kształt włosków jest zwykle sposobem odróżnienia tego gatunku od Sarcoscypha coccinea, której zewnętrzne włoski są prostsze, a zarodniki nie tworzą pączków konidialnych, oraz od S. jurana.",
+      "stipe": "Jest krótki trzon, często ukryty w mchu lub ściółce, w używanym tu opisie do 3,5 cm długości i 0,3–0,7 cm grubości; inne źródła podają około 0,5–2 × 0,3–0,5 cm albo 1–3 × 0,3–0,5 cm. Ma tę samą barwę co zewnętrzna strona czarki albo jest jaśniejszy. Długość trzonu zależy od tego, jak głęboko drewno jest przysypane.",
+      "flesh": "Miąższ jest biały i gumowaty albo nieco chrząstkowaty, z cienką czerwoną warstwą wyściełającą czarkę. Zapach i smak nie są charakterystyczne.",
+      "sporePrint": "Biały. Zarodniki są elipsoidalne, typowo 24–32 × 12–14 μm (zakresy w innych źródłach sięgają około 20–40 × 10–15 μm), często ze spłaszczonymi lub lekko wklęsłymi końcami, i zawierają kilka kropelek oleju. Dojrzałe zarodniki mogą na końcach tworzyć drobne pączki konidialne.",
+      "habitat": "Saprobiont opadłych, często częściowo przysypanych gałązek i gałęzi drzew liściastych w wilgotnych, cienistych miejscach, zwłaszcza na klonie, wierzbie, leszczynie, olszy i innych liściastych, zwykle wśród mchu i ściółki. W Wielkiej Brytanii i Irlandii znajduje się ją najczęściej od grudnia do kwietnia. Słowacki atlas podaje listopad–czerwiec, a w częściach Europy Wschodniej jest to przede wszystkim grzyb wczesnej wiosny po topnieniu śniegu, czasem z późnojesiennymi stanowiskami. Ten katalog zapisuje sezon jako grudzień–kwiecień według kilku źródeł brytyjskich i wspomina w tekście szersze okno w innych regionach.",
+      "uses": "Większość użytych tu przewodników i atlasów traktuje czarkę austriacką jako niejadalną albo odradza zbieranie. Niektóre autorytety, w tym Norweskie Stowarzyszenie Mykologii i Zbieractwa, uważają ją za jadalną, jeśli zostanie dokładnie ugotowana; miąższ jest cienki i nisko ceniony. Kilka przewodników określało ją jako podejrzaną. Ten katalog idzie za większością tych źródeł i zapisuje ją jako niejadalną. Podobnych czerwonych czarek nie należy jeść tylko na podstawie tego podobieństwa. Dzikie grzyby zawsze gotujcie; nie polegajcie wyłącznie na tym tekście.",
+      "confusion": "Sarcoscypha coccinea jest makroskopowo niemal identyczna i daje się pewnie odróżnić tylko pod mikroskopem (prostsze włoski zewnętrzne; zarodniki bez pączków konidialnych). Sarcoscypha jurana jest kolejnym podobnym gatunkiem europejskim, często związanym z lipą. W północno-wschodniej Ameryce Północnej odpowiednim gatunkiem podobnym jest S. dudleyi. Żadnego z tych nazw nie zapisuje się tu jako synonimu. Dzieżka pomarańczowa (Aleuria aurantia) jest pomarańczowa, nie szkarłatna, rośnie na glebie, nie na drewnie, i owocnikuje głównie późnym latem i jesienią. Czareczka długotrzonkowa (Microstoma protractum) jest mniejszym, dłużej trzonowym krewniakiem z tej samej rodziny.",
+      "notes": "Przyjętą nazwą jest Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, opartą na Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum wymienia także Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat oraz anamorfę Molliardiomyces coccineus Paden (opublikowaną jako M. coccinea). Sarcoscypha austriaca var. lutea jest żółtopomarańczową formą tego gatunku, nie osobnym gatunkiem zapisywanym tutaj. Nazwa Peziza austriaca, używana przez niektóre źródła, nie występuje na stronie synonimiki Species Fungorum i nie jest zapisywana. Sarcoscypha coccinea, S. jurana i S. dudleyi są odrębnymi aktualnymi gatunkami i nie są traktowane jako synonimy. Rzadko pojawiają się pomarańczowożółte i białe owocniki. Pewne odróżnienie od podobnych czerwonych czarek zwykle wymaga mikroskopu. Tablica jest ilustracją wygenerowaną przez sztuczną inteligencję, nie historyczną opublikowaną ryciną.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Czarka_austriacka"
+      ],
+      "label": "czarka austriacka"
+    },
+    "pt": {
+      "description": "Sarcoscypha austriaca é um fungo saprotrofo em forma de taça de bosques húmidos, que frutifica no inverno e no início da primavera sobre raminhos e ramos caídos de folhosas, muitas vezes entre musgo e folhada. Está amplamente distribuído na Europa e também é referido do nordeste da América do Norte. Na Grã-Bretanha e na Irlanda é agora o mais frequentemente registado dos dois cálices vermelhos comuns. Pertence a um complexo de espécies semelhantes que inclui Sarcoscypha coccinea, S. jurana e, na América do Norte, S. dudleyi; essas espécies não são tratadas aqui como sinónimos, e uma identificação segura exige muitas vezes um microscópio.",
+      "cap": "Não há chapéu no sentido habitual: o corpo frutífero é uma taça (apotécio). Completamente expandida mede tipicamente 2–7 cm de diâmetro (outros guias indicam 1–5 cm, alguns 1–8 cm) e cerca de 1–2 cm de altura. As taças jovens são profundas, com a margem ligeiramente incurvada, e depois abrem-se em tigelas irregulares; as mais velhas podem achatar-se e a margem pode fender-se. A face interna é lisa, brilhante e escarlate, raramente amarelo-alaranjada ou branca. A face externa é mais pálida — esbranquiçada, rosada, ocre ou creme — e coberta por um feltro de pelinhos minúsculos.",
+      "hymenium": "A face interna fértil é lisa e escarlate. Os esporos formam-se neste revestimento e podem sair numa nuvem visível se uma taça for perturbada. A esporada é branca. No exterior da taça os pelos estão enrolados ou em forma de saca-rolhas. Juntamente com os esporos, essa forma dos pelos é o modo habitual de separar esta espécie de Sarcoscypha coccinea, cujos pelos externos são mais retos e cujos esporos não formam gomos conidiais, e de S. jurana.",
+      "stipe": "Há um pé curto, muitas vezes escondido no musgo ou na folhada, com até 3,5 cm de comprimento e 0,3–0,7 cm de espessura na descrição usada aqui; outras fontes indicam cerca de 0,5–2 × 0,3–0,5 cm, ou 1–3 × 0,3–0,5 cm. Tem a mesma cor da face externa da taça, ou é mais pálido. O comprimento do pé varia com a profundidade a que a madeira está enterrada.",
+      "flesh": "A carne é branca e borrachosa ou ligeiramente cartilaginosa, com uma camada vermelha fina que forra a taça. O cheiro e o sabor não são distintivos.",
+      "sporePrint": "Branca. Os esporos são elipsoidais, tipicamente 24–32 × 12–14 μm (noutras fontes os intervalos chegam a cerca de 20–40 × 10–15 μm), muitas vezes com extremidades achatadas ou ligeiramente recuadas, e contêm várias gotículas de óleo. Os esporos maduros podem produzir pequenos gomos conidiais nas extremidades.",
+      "habitat": "Sapróbio de raminhos e ramos caídos de folhosas, muitas vezes parcialmente enterrados, em lugares húmidos e sombrios, especialmente sobre ácer, salgueiro, aveleira, amieiro e outras folhosas, habitualmente entre musgo e folhada. Na Grã-Bretanha e na Irlanda encontra-se sobretudo de dezembro a abril. O atlas eslovaco indica novembro a junho, e em partes da Europa de Leste é sobretudo um fungo do início da primavera após o degelo, por vezes com registos de finais de outono. Este catálogo regista a estação como dezembro a abril segundo várias fontes britânicas e menciona no texto a janela mais ampla de outras regiões.",
+      "uses": "A maioria dos guias de campo e atlas usados aqui trata Sarcoscypha austriaca como não comestível, ou desaconselha a colheita. Algumas autoridades, incluindo a Associação Norueguesa de Micologia e Colheita, consideram-na comestível se for bem cozinhada; a carne é fina e pouco apreciada. Alguns guias chamaram-lhe suspeita. Este catálogo segue a maioria dessas fontes e regista-a como não comestível. Taças vermelhas semelhantes não devem ser comidas só por causa desta semelhança. Cozinhe sempre os fungos silvestres; não confie só neste texto.",
+      "confusion": "Sarcoscypha coccinea é macroscopicamente quase idêntica e só se distingue com segurança ao microscópio (pelos externos mais retos; esporos sem gomos conidiais). Sarcoscypha jurana é outra espécie europeia semelhante, muitas vezes associada à tília. No nordeste da América do Norte a espécie semelhante correspondente é S. dudleyi. Nenhum destes nomes é armazenado aqui como sinónimo. A peziza-laranja (Aleuria aurantia) é laranja e não escarlate, cresce no solo e não na madeira, e frutifica principalmente no fim do verão e no outono. Microstoma protractum é um parente mais pequeno, de pé mais longo, da mesma família.",
+      "notes": "O nome aceite é Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, baseado em Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum cita também Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat e o anamorfo Molliardiomyces coccineus Paden (publicado como M. coccinea). Sarcoscypha austriaca var. lutea é uma forma amarelo-alaranjada desta espécie, não uma espécie distinta armazenada aqui. O nome Peziza austriaca, usado por algumas fontes, não figura na página de sinonímia de Species Fungorum e não é armazenado. Sarcoscypha coccinea, S. jurana e S. dudleyi são espécies atuais distintas e não são tratadas como sinónimos. Raramente aparecem corpos frutíferos amarelo-alaranjados e brancos. A separação segura das taças vermelhas semelhantes exige normalmente um microscópio. A prancha é uma ilustração gerada por inteligência artificial, não uma figura histórica publicada.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Sarcoscypha austriaca este o ciupercă saprotrofă în formă de cupă a pădurilor umede, care fructifică iarna și devreme primăvara pe rămurele și ramuri căzute de foioase, adesea printre mușchi și litieră. Este răspândită în Europa și este semnalată și din nord-estul Americii de Nord. În Marea Britanie și Irlanda este acum cea mai des înregistrată dintre cele două cupe roșii obișnuite. Aparține unui complex de specii asemănătoare care include Sarcoscypha coccinea, S. jurana și, în America de Nord, S. dudleyi; aceste specii nu sunt tratate aici ca sinonime, iar identificarea sigură cere adesea un microscop.",
+      "cap": "Nu există pălărie în sensul obișnuit: corpul de fructificație este o cupă (apoteciu). Complet desfăcută, are de obicei 2–7 cm în diametru (alte surse dau 1–5 cm, unele 1–8 cm) și circa 1–2 cm înălțime. Cupele tinere sunt adânci, cu marginea ușor curbată spre interior, apoi se deschid în boluri neregulate; cele mai bătrâne se pot turti, iar marginea se poate crăpa. Fața internă este netedă, lucioasă și stacojie, rar portocaliu-galbenă sau albă. Fața externă este mai palidă — albicioasă, roz, ocru sau crem — și acoperită cu un pâslă de perișori minusculi.",
+      "hymenium": "Fața internă fertilă este netedă și stacojie. Sporii se formează pe această căptușeală și, dacă o cupă este tulburată, pot ieși într-un nor vizibil. Pulberea sporiferă este albă. Pe exteriorul cupei perișorii sunt răsuciți sau în formă de tirbușon. Împreună cu sporii, această formă a perișorilor este calea obișnuită de a deosebi specia de Sarcoscypha coccinea, ale cărei perișori externi sunt mai drepți și ale cărei spori nu formează muguri conidieni, și de S. jurana.",
+      "stipe": "Există un picior scurt, adesea ascuns în mușchi sau litieră, în descrierea folosită aici de până la 3,5 cm lungime și 0,3–0,7 cm grosime; alte surse dau circa 0,5–2 × 0,3–0,5 cm, sau 1–3 × 0,3–0,5 cm. Are aceeași culoare ca fața externă a cupei, sau este mai palid. Lungimea piciorului depinde de cât de adânc este îngropat lemnul.",
+      "flesh": "Carnea este albă și cauciucoasă sau ușor cartilaginoasă, cu un strat roșu subțire care căptușește cupa. Mirosul și gustul nu sunt caracteristice.",
+      "sporePrint": "Albă. Sporii sunt elipsoidali, de obicei 24–32 × 12–14 μm (în alte surse intervalele ajung la circa 20–40 × 10–15 μm), adesea cu capete aplatizate sau ușor scobite, și conțin câteva picături de ulei. Sporii maturi pot forma la capete muguri conidieni mici.",
+      "habitat": "Saprob pe rămurele și ramuri căzute de foioase, adesea parțial îngropate, în locuri umede și umbroase, mai ales pe arțar, salcie, alun, arin și alte foioase, de obicei printre mușchi și litieră. În Marea Britanie și Irlanda se găsește cel mai des din decembrie până în aprilie. Atlasul slovac indică noiembrie–iunie, iar în părți ale Europei de Est este mai ales o ciupercă de început de primăvară după topirea zăpezii, uneori cu semnalări de toamnă târzie. Acest catalog consemnează sezonul ca decembrie–aprilie după mai multe surse britanice și menționează în text fereastra mai largă din alte regiuni.",
+      "uses": "Majoritatea ghidurilor de teren și a atlaselor folosite aici tratează Sarcoscypha austriaca ca necomestibilă sau descurajează culegerea. Unele autorități, inclusiv Asociația norvegiană de micologie și cules, o consideră comestibilă dacă este fiartă temeinic; carnea este subțire și puțin prețuită. Câteva ghiduri au numit-o suspectă. Acest catalog urmează majoritatea acestor surse și o consemnează ca necomestibilă. Cupele roșii asemănătoare nu trebuie mâncate doar pe baza acestei asemănări. Ciupercile sălbatice se fierb întotdeauna; nu vă bazați doar pe acest text.",
+      "confusion": "Sarcoscypha coccinea este macroscopic aproape identică și se deosebește sigur doar la microscop (perișori externi mai drepți; spori fără muguri conidieni). Sarcoscypha jurana este o altă specie europeană asemănătoare, adesea legată de tei. În nord-estul Americii de Nord, specia asemănătoare corespunzătoare este S. dudleyi. Niciunul dintre aceste nume nu este păstrat aici ca sinonim. Paharul portocaliu (Aleuria aurantia) este portocaliu, nu stacojiu, crește pe sol, nu pe lemn, și fructifică mai ales la sfârșitul verii și toamna. Microstoma protractum este o rudă mai mică, cu picior mai lung, din aceeași familie.",
+      "notes": "Numele acceptat este Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, bazat pe Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum enumeră și Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat și anamorfa Molliardiomyces coccineus Paden (publicată ca M. coccinea). Sarcoscypha austriaca var. lutea este o formă galben-portocalie a acestei specii, nu o specie distinctă păstrată aici. Numele Peziza austriaca, folosit de unele surse, nu apare pe pagina de sinonimie a Species Fungorum și nu este păstrat. Sarcoscypha coccinea, S. jurana și S. dudleyi sunt specii actuale distincte și nu sunt tratate ca sinonime. Rareori apar corpuri de fructificație galben-portocalii și albe. Deosebirea sigură de cupele roșii asemănătoare cere de obicei un microscop. Planșa este o ilustrație generată de inteligență artificială, nu o figură istorică publicată.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Саркосцифа австрийская — сапротрофный чашечный гриб влажных лесов, плодоносящий зимой и ранней весной на опавших веточках и ветвях лиственных деревьев, часто среди мха и подстилки. Вид широко распространён в Европе и отмечается также на северо-востоке Северной Америки. В Великобритании и Ирландии он ныне чаще регистрируется из двух обычных красных эльфовых чаш. Он принадлежит к комплексу сходных видов, включающему Sarcoscypha coccinea, S. jurana и в Северной Америке S. dudleyi; эти виды не рассматриваются здесь как синонимы, и уверенное определение часто требует микроскопа.",
+      "cap": "Шляпки в обычном смысле нет: плодовое тело — чаша (апотеций). В полностью раскрытом виде она обычно 2–7 см в поперечнике (другие источники дают 1–5 см, некоторые 1–8 см) и около 1–2 см высотой. Молодые чаши глубокие, со слегка загнутым внутрь краем, затем раскрываются в неправильные мисочки; более старые могут уплощаться, а край — растрескиваться. Внутренняя поверхность гладкая, блестящая и алая, редко оранжево-жёлтая или белая. Наружная поверхность бледнее — беловатая, розоватая, охристая или кремовая — и покрыта войлоком из мельчайших волосков.",
+      "hymenium": "Плодородная внутренняя поверхность гладкая и алая. Споры образуются на этой выстилке и при потревоживании чаши могут вылетать видимым облачком. Споровый порошок белый. Снаружи чаши волоски свёрнуты или штопоровидные. Вместе со спорами эта форма волосков — обычный способ отличить вид от Sarcoscypha coccinea, у которой наружные волоски прямее, а споры не образуют конидиальных почек, и от S. jurana.",
+      "stipe": "Есть короткая ножка, часто скрытая во мху или подстилке; в используемом здесь описании до 3,5 см длиной и 0,3–0,7 см толщиной; другие источники указывают около 0,5–2 × 0,3–0,5 см или 1–3 × 0,3–0,5 см. Она того же цвета, что наружная поверхность чаши, или бледнее. Длина ножки зависит от того, насколько глубоко погребена древесина.",
+      "flesh": "Мякоть белая и резинистая или слегка хрящеватая, с тонким красным слоем, выстилающим чашу. Запах и вкус нехарактерны.",
+      "sporePrint": "Белый. Споры эллипсоидальные, обычно 24–32 × 12–14 мкм (в других источниках диапазоны доходят примерно до 20–40 × 10–15 мкм), часто со сплюснутыми или слегка вдавленными концами, и содержат несколько масляных капель. Зрелые споры могут на концах образовывать мелкие конидиальные почки.",
+      "habitat": "Сапротроф опавших, часто частично погребённых веточек и ветвей лиственных деревьев во влажных тенистых местах, особенно на клёне, иве, лещине, ольхе и других лиственных, обычно среди мха и подстилки. В Великобритании и Ирландии её чаще всего находят с декабря по апрель. Словацкий атлас указывает ноябрь–июнь, а в частях Восточной Европы это прежде всего гриб ранней весны после снеготаяния, иногда с позднеосенними находками. Этот каталог записывает сезон как декабрь–апрель по нескольким британским источникам и упоминает в тексте более широкое окно в других регионах.",
+      "uses": "Большинство использованных здесь определителей и атласов считают саркосцифу австрийскую несъедобной или не рекомендуют её собирать. Некоторые авторитеты, включая Норвежскую ассоциацию микологии и собирательства, считают её съедобной при тщательном проваривании; мякоть тонкая и невысоко ценится. Некоторые руководства называли её подозрительной. Этот каталог следует большинству этих источников и записывает её как несъедобную. Похожие красные чаши не следует есть лишь из-за этого сходства. Дикие грибы всегда отваривайте; не полагайтесь только на этот текст.",
+      "confusion": "Sarcoscypha coccinea макроскопически почти неотличима и надёжно отделяется только под микроскопом (более прямые наружные волоски; споры без конидиальных почек). Sarcoscypha jurana — ещё один сходный европейский вид, часто связанный с липой. На северо-востоке Северной Америки соответствующий сходный вид — S. dudleyi. Ни одно из этих названий здесь не сохраняется как синоним. Алеврия оранжевая (Aleuria aurantia) оранжевая, а не алая, растёт на почве, а не на древесине, и плодоносит главным образом в конце лета и осенью. Микростома вытянутая (Microstoma protractum) — более мелкий, длинноножковый родственник того же семейства.",
+      "notes": "Принятое название — Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, основанное на Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum также приводит Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat и анаморфу Molliardiomyces coccineus Paden (опубликованную как M. coccinea). Sarcoscypha austriaca var. lutea — жёлто-оранжевая форма этого вида, а не отдельный вид, сохраняемый здесь. Название Peziza austriaca, употребляемое некоторыми источниками, отсутствует на странице синонимики Species Fungorum и не сохраняется. Sarcoscypha coccinea, S. jurana и S. dudleyi — отдельные действующие виды и не рассматриваются как синонимы. Редко встречаются оранжево-жёлтые и белые плодовые тела. Надёжное отличие от сходных красных эльфовых чаш обычно требует микроскопа. Таблица — иллюстрация, созданная искусственным интеллектом, а не исторический опубликованный рисунок.",
+      "names": [
+        "алая эльфова чаша"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D1%86%D0%B8%D1%84%D0%B0_%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F"
+      ],
+      "label": "Саркосцифа австрийская"
+    },
+    "sk": {
+      "description": "Ohnivec rakúsky je saprotrófna miskovitá huba vlhkých lesov, ktorá fruktifikuje v zime a skoro na jar na spadnutých konárikoch a vetvách listnáčov, často v machu a opadanke. Je rozšírený v Európe a uvádza sa aj zo severovýchodu Severnej Ameriky. V Británii a Írsku je dnes častejšie zaznamenávaným z dvoch bežných červených ohnivcov. Patrí do okruhu podobných druhov, ktorý zahŕňa Sarcoscypha coccinea, S. jurana a v Severnej Amerike S. dudleyi; tieto druhy sa tu neberú ako synonymá a spoľahlivé určenie si často vyžaduje mikroskop.",
+      "cap": "V obvyklom zmysle klobúk chýba: plodnica je miska (apotécium). Plne rozvinutá meria typicky 2–7 cm (iné pramene uvádzajú 1–5 cm, niektoré 1–8 cm) a je vysoká okolo 1–2 cm. Mladé misky sú hlboké, s mierne dovnútra zahnutým okrajom, potom sa otvárajú do nepravidelných čiašok; staršie sa môžu sploštiť a okraj môže popraskať. Vnútorná strana je hladká, lesklá a šarlátovočervená, zriedkavo oranžovožltá alebo biela. Vonkajšia strana je bledšia — belavá, ružová, okrová alebo krémová — a pokrytá plsťou drobných chĺpkov.",
+      "hymenium": "Plodná vnútorná strana je hladká a šarlátovočervená. Výtrusy sa tvoria na tomto povrchu a pri vyrušení misky môžu vyletieť vo viditeľnom obláčiku. Výtrusný prach je biely. Na vonkajšej strane misky sú chĺpky stočené alebo vývrtkovité. Spolu s výtrusmi je tento tvar chĺpkov obvyklý spôsob, ako druh odlíšiť od Sarcoscypha coccinea, ktorej vonkajšie chĺpky sú rovnejšie a výtrusy netvoria konídiové pučanie, a od S. jurana.",
+      "stipe": "Má krátky hlúbik, často skrytý v machu alebo opadanke, v tu použitom popise až 3,5 cm dlhý a 0,3–0,7 cm hrubý; iné pramene uvádzajú približne 0,5–2 × 0,3–0,5 cm, alebo 1–3 × 0,3–0,5 cm. Má rovnakú farbu ako vonkajšia strana misky, alebo je bledší. Dĺžka hlúbika závisí od toho, ako hlboko je drevo zahrabané.",
+      "flesh": "Dužina je biela a gumovitá alebo mierne chrupkovitá, s tenkou červenou vrstvou vystielajúcou misku. Vôňa ani chuť nie sú výrazné.",
+      "sporePrint": "Biely. Výtrusy sú elipsoidné, typicky 24–32 × 12–14 μm (rozsahy v iných prameňoch siahajú približne na 20–40 × 10–15 μm), často so sploštenými alebo mierne vklesnutými koncami, a obsahujú niekoľko olejových kvapiek. Zrelé výtrusy môžu na koncoch tvoriť drobné konídiové pučanie.",
+      "habitat": "Rozkladá spadnuté, často čiastočne zahrabané konáriky a vetvy listnáčov na vlhkých, tienistých miestach, najmä na javore, vŕbe, lieske, jelši a iných listnatých drevinách, zvyčajne v machu a opadanke. V Británii a Írsku sa najčastejšie nachádza od decembra do apríla. Slovenský atlas uvádza november až jún a v častiach východnej Európy ide predovšetkým o hubu skorej jari po roztopení snehu, niekedy s neskorojesennými nálezmi. Tento katalóg zaznamenáva sezónu december až apríl podľa viacerých britských prameňov a širšie obdobie v iných oblastiach uvádza v texte.",
+      "uses": "Väčšina tu použitých terénnych kľúčov a atlasov považuje ohnivec rakúsky za nejedlý, alebo od zberu odrádza. Niektoré autority, vrátane Nórskeho združenia pre mykológiu a zber, ho považujú za jedlý, ak sa dôkladne uvarí; dužina je tenká a nie je vysoko cenená. Niekoľko kľúčov ho označilo za podozrivý. Tento katalóg sa pridŕža väčšiny týchto prameňov a uvádza ho ako nejedlý. Podobné červené misky netreba jesť len pre podobnosť. Divé huby vždy varte; nespoliehajte sa len na tento text.",
+      "confusion": "Ohnivec šarlátový (Sarcoscypha coccinea) je voľným okom takmer totožný a spoľahlivo ho možno odlíšiť len mikroskopom (rovnejšie vonkajšie chĺpky; výtrusy bez konídiového pučania). Sarcoscypha jurana je ďalší podobný európsky druh, často viazaný na lipu. V severovýchodnej Severnej Amerike je zodpovedajúcim podobným druhom S. dudleyi. Žiadne z týchto mien sa tu neukladá ako synonymum. Tanierovka oranžová (Aleuria aurantia) je oranžová, nie šarlátová, rastie na pôde, nie na dreve, a fruktifikuje predovšetkým koncom leta a na jeseň. Ohnivček zimný (Microstoma protractum) je menší príbuzný z tej istej čeľade s dlhším hlúbikom.",
+      "notes": "Akceptovaný názov je Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, založený na mene Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum uvádza aj Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat a anamorfu Molliardiomyces coccineus Paden (uverejnenú ako M. coccinea). Sarcoscypha austriaca var. lutea je žltooranžová forma tohto druhu, nie samostatný druh, ktorý by sa tu ukladal. Meno Peziza austriaca, ktoré používajú niektoré pramene, na synonymickej stránke Species Fungorum nie je a neukladá sa. Sarcoscypha coccinea, S. jurana a S. dudleyi sú samostatné platné druhy a neberú sa ako synonymá. Vzácne sa vyskytujú oranžovožlté a biele plodnice. Spoľahlivé odlíšenie od podobných červených ohnivcov zvyčajne vyžaduje mikroskop. Tabuľa je ilustrácia vygenerovaná umelou inteligenciou, nie historická publikovaná kresba.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Sarcoscypha-austriaca/ohnivec-rakusky/ohnivec-rakousky/ID311",
+        "https://sk.wikipedia.org/wiki/Rezavka"
+      ],
+      "label": "ohnivec rakúsky"
+    },
+    "sl": {
+      "description": "Cinobrasta čašica je saprotrofna čašasta gliva vlažnih gozdov, ki trosi pozimi in zgodaj spomladi na odpadlih vejicah in vejah listavcev, pogosto med mahom in opadom. Razširjena je v Evropi in jo navajajo tudi s severovzhoda Severne Amerike. V Britaniji in na Irskem je zdaj pogosteje zabeležena od dveh običajnih rdečih čašic. Sodi v krog podobnih vrst, ki vključuje Sarcoscypha coccinea, S. jurana in v Severni Ameriki S. dudleyi; te vrste tu niso obravnavane kot sopomenke, zanesljiva določitev pa pogosto zahteva mikroskop.",
+      "cap": "Običajnega klobuka ni: trosišče je čašica (apotecij). Popolnoma razprta meri tipično 2–7 cm (drugi viri navajajo 1–5 cm, nekateri 1–8 cm) in je visoka okoli 1–2 cm. Mlade čašice so globoke, z rahlo navznoter zavihanim robom, nato se odprejo v nepravilne skledice; starejše se lahko sploščijo in rob se lahko razcepi. Notranja stran je gladka, sijoča in škrlatno rdeča, redko oranžno rumena ali bela. Zunanja stran je bledša — belkasta, rožnata, okrasta ali kremasta — in pokrita s plstjo drobnih dlačic.",
+      "hymenium": "Plodna notranja stran je gladka in škrlatno rdeča. Trosi nastajajo na tej oblogi in se lahko ob motnji čašice dvignejo v vidnem oblačku. Trosni prah je bel. Na zunanji strani čašice so dlačice zvité ali v obliki zamaškov natikača. Skupaj s trosi je ta oblika dlačic običajen način ločevanja te vrste od Sarcoscypha coccinea, katere zunanje dlačice so bolj ravne in trosi ne tvorijo konidijskih brstov, ter od S. jurana.",
+      "stipe": "Ima kratek bet, pogosto skrit v mahu ali opadu, v tukaj uporabljenem opisu do 3,5 cm dolg in 0,3–0,7 cm debel; drugi viri navajajo približno 0,5–2 × 0,3–0,5 cm ali 1–3 × 0,3–0,5 cm. Ima isto barvo kot zunanja stran čašice ali je bledši. Dolžina beta je odvisna od tega, kako globoko je les zakopan.",
+      "flesh": "Meso je belo in gumijasto ali nekoliko hrustančasto, s tanko rdečo plastjo, ki obdaja čašico. Vonj in okus nista značilna.",
+      "sporePrint": "Bel. Trosi so elipsoidni, tipično 24–32 × 12–14 μm (razponi v drugih virih segajo približno do 20–40 × 10–15 μm), pogosto s sploščenimi ali rahlo vdrtimi konci, in vsebujejo več oljnih kapljic. Zreli trosi lahko na koncih tvorijo drobne konidijske brste.",
+      "habitat": "Razkrojevalec odpadlih, pogosto deloma zakopanih vejic in vej listavcev na vlažnih, senčnih mestih, zlasti na javorju, vrbi, leski, jelši in drugih listavcih, navadno med mahom in opadom. V Britaniji in na Irskem jo najpogosteje najdemo od decembra do aprila. Slovaški atlas navaja november do junij, v delih vzhodne Evrope pa je predvsem gliva zgodnje pomladi po taljenju snega, včasih s poznimi jesenskimi najdbami. Ta katalog beleži sezono kot december do april po več britanskih virih in v besedilu omenja širše okno v drugih pokrajinah.",
+      "uses": "Večina tu uporabljenih terenskih ključev in atlasov cinobrasto čašico obravnava kot neužitno ali odsvetuje nabiranje. Nekatere avtoritete, med njimi Norveško združenje za mikologijo in nabiranje, jo imajo za užitno, če je temeljito kuhana; meso je tanko in ni visoko cenjeno. Nekaj ključev jo je označilo za sumljivo. Ta katalog sledi večini teh virov in jo beleži kot neužitno. Podobnih rdečih čašic se ne sme jesti zgolj zaradi te podobnosti. Divje gobe vedno kuhajte; ne zanašajte se samo na to besedilo.",
+      "confusion": "Sarcoscypha coccinea je s prostim očesom skoraj enaka in jo je mogoče zanesljivo ločiti le z mikroskopom (bolj ravne zunanje dlačice; trosi brez konidijskih brstov). Sarcoscypha jurana je nadaljnja podobna evropska vrsta, pogosto vezana na lipo. Na severovzhodu Severne Amerike je ustrezna podobna vrsta S. dudleyi. Nobeno od teh imen se tu ne shranjuje kot sopomenka. Oranžna skledica (Aleuria aurantia) je oranžna, ne škrlatna, raste na tleh, ne na lesu, in trosi predvsem pozno poleti in jeseni. Microstoma protractum je manjši, daljše betast sorodnik iz iste družine.",
+      "notes": "Sprejeto ime je Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, temelječe na Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum navaja tudi Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat in anamorfo Molliardiomyces coccineus Paden (objavljeno kot M. coccinea). Sarcoscypha austriaca var. lutea je rumeno-oranžna oblika te vrste, ne ločena vrsta, ki bi jo tu shranjevali. Ime Peziza austriaca, ki ga uporabljajo nekateri viri, ni na strani sopomenk Species Fungorum in se ne shranjuje. Sarcoscypha coccinea, S. jurana in S. dudleyi so samostojne veljavne vrste in se ne obravnavajo kot sopomenke. Redko se pojavljajo oranžno rumena in bela trosišča. Zanesljivo ločevanje od podobnih rdečih čašic ponavadi zahteva mikroskop. Tabla je ilustracija, ustvarjena z umetno inteligenco, ne zgodovinska objavljena risba.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Cinobrasta_%C4%8Da%C5%A1ica"
+      ],
+      "label": "cinobrasta čašica"
+    },
+    "sr": {
+      "description": "Рујни пехар је сапротрофна пехараста гљива влажних шума, која плодоноси зими и рано у пролеће на опалим гранчицама и гранама лишћара, често међу маховином и стељом. Широко је распрострањена у Европи и наводи се и са североистока Северне Америке. У Британији и Ирској данас је чешће бележена од две уобичајене црвене пехарасте гљиве. Припада кругу сличних врста који обухвата Sarcoscypha coccinea, S. jurana и у Северној Америци S. dudleyi; те врсте овде нису третиране као синоними, а поуздано одређивање често захтева микроскоп.",
+      "cap": "Клобука у уобичајеном смислу нема: плодоносно тело је пехар (апотецијум). Потпуно отворен типично је 2–7 cm широк (други извори дају 1–5 cm, неки 1–8 cm) и око 1–2 cm висок. Млади пехари су дубоки, са благо унутра савијеним ободом, затим се отварају у неправилне чинијице; старији се могу спљоштити, а обод може пући. Унутрашња страна је глатка, сјајна и гримизно црвена, ретко наранџастожута или бела. Спољашња страна је блеђа — беличаста, ружичаста, окераста или крем — и прекривена филцом сићушних длачица.",
+      "hymenium": "Плодна унутрашња страна је глатка и гримизно црвена. Споре се стварају на овој облози и при узнемиравању пехара могу излетети у видљивом облачићу. Отисак спора је бео. На спољашњој страни пехара длачице су увијене или у облику вађичепа. Заједно са спорама овај облик длачица је уобичајен начин да се врста одвоји од Sarcoscypha coccinea, чије су спољашње длачице равније и чије споре не стварају конидијске пупољке, као и од S. jurana.",
+      "stipe": "Има кратку дршку, често скривену у маховини или стељи, у овде употребљеном опису до 3,5 cm дугу и 0,3–0,7 cm дебелу; други извори дају око 0,5–2 × 0,3–0,5 cm, или 1–3 × 0,3–0,5 cm. Исте је боје као спољашња страна пехара, или је блеђа. Дужина дршке зависи од тога колико је дубоко дрво закопано.",
+      "flesh": "Месо је бело и гумено или благо хрскавичаво, са танким црвеним слојем који облаже пехар. Мирис и укус нису карактеристични.",
+      "sporePrint": "Бео. Споре су елипсоидне, типично 24–32 × 12–14 μm (распони у другим изворима сежу приближно до 20–40 × 10–15 μm), често са спљоштеним или благо удубљеним крајевима, и садрже неколико уљаних капљица. Зреле споре могу на крајевима стварати ситне конидијске пупољке.",
+      "habitat": "Сапроб опалих, често делимично закопаних гранчица и грана лишћара на влажним, сеновитим местима, посебно на јавору, врби, лески, јови и другим лишћарима, обично међу маховином и стељом. У Британији и Ирској се најчешће налази од децембра до априла. Словачки атлас наводи новембар до јун, а у деловима источне Европе то је пре свега гљива раног пролећа после топљења снега, понекад са каснојесењим налазима. Овај каталог бележи сезону као децембар до април према неколико британских извора и у тексту помиње шире раздобље у другим крајевима.",
+      "uses": "Већина овде употребљених теренских кључева и атласа рујни пехар сматра нејестивим, или одвраћа од сакупљања. Неки ауторитети, укључујући Норвешко удружење за микологију и сакупљање, сматрају га јестивим ако се темељно скува; месо је танко и није високо цењено. Неколико кључева га је означило као сумњивог. Овај каталог следи већину тих извора и бележи га као нејестив. Сличне црвене пехаре не треба јести само због те сличности. Дивље гљиве увек кувајте; не ослањајте се само на овај текст.",
+      "confusion": "Sarcoscypha coccinea је голим оком готово истоветна и поуздано се одваја само микроскопом (равније спољашње длачице; споре без конидијских пупољака). Sarcoscypha jurana је још једна слична европска врста, често везана за липу. На североистоку Северне Америке одговарајућа слична врста је S. dudleyi. Ниједно од тих имена се овде не чува као синоним. Наранџаста чашица (Aleuria aurantia) је наранџаста, а не гримизна, расте на земљи, не на дрвету, и плодоноси углавном крајем лета и у јесен. Microstoma protractum је мањи, дуже дршке сродник из исте породице.",
+      "notes": "Прихваћено име је Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, засновано на Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum наводи и Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat и анаморфу Molliardiomyces coccineus Paden (објављену као M. coccinea). Sarcoscypha austriaca var. lutea је жутонаранџаста форма ове врсте, а не посебна врста која се овде чува. Име Peziza austriaca, које користе неки извори, није на страници синонима Species Fungorum и не чува се. Sarcoscypha coccinea, S. jurana и S. dudleyi су посебне важеће врсте и не третирају се као синоними. Ретко се јављају наранџастожута и бела плодоносна тела. Поуздано разликовање од сличних црвених пехара обично захтева микроскоп. Табла је илустрација створена вештачком интелигенцијом, а не историјски објављени цртеж.",
+      "names": [
+        "Шкрлетна чашица"
+      ],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/%D0%A0%D1%83%D1%98%D0%BD%D0%B8_%D0%BF%D0%B5%D1%85%D0%B0%D1%80"
+      ],
+      "label": "Рујни пехар"
+    },
+    "sv": {
+      "description": "Scharlakansskål är en saprotrof skålsvamp i fuktig skog, som fruktifierar på vintern och tidig vår på fallna kvistar och grenar av lövträd, ofta bland mossa och förna. Den är vida spridd i Europa och anges även från nordöstra Nordamerika. I Storbritannien och Irland är den numera den oftare rapporterade av de två vanliga röda älvskålarna. Den tillhör ett komplex av liknande arter som omfattar Sarcoscypha coccinea, S. jurana och i Nordamerika S. dudleyi; dessa arter behandlas inte här som synonymer, och säker bestämning kräver ofta ett mikroskop.",
+      "cap": "Det finns ingen hatt i vanlig svampmening: fruktkroppen är en skål (apothecium). Fullt utbredd är den typiskt 2–7 cm bred (andra källor anger 1–5 cm, vissa 1–8 cm) och ungefär 1–2 cm hög. Unga skålar är djupa, med något inböjd kant, och öppnar sig sedan till oregelbundna skålar; äldre kan plattas ut och kanten kan spricka. Insidan är slät, blank och scharlakansröd, sällan orangegul eller vit. Utsidan är blekare — vitaktig, rosa, ockra eller gräddfärgad — och täckt av en filt av mycket små hår.",
+      "hymenium": "Den fertila insidan är slät och scharlakansröd. Sporerna bildas på denna beklädnad och kan pusta ut i ett synligt moln om en skål störs. Sporavtrycket är vitt. På utsidan av skålen är håren krullade eller korkskruvslika. Tillsammans med sporerna är denna hårform det vanliga sättet att skilja arten från Sarcoscypha coccinea, vars yttre hår är rakare och vars sporer inte bildar konidieknoppar, samt från S. jurana.",
+      "stipe": "Det finns en kort fot, ofta dold i mossa eller förna, i den beskrivning som används här upp till 3,5 cm lång och 0,3–0,7 cm tjock; andra källor anger ungefär 0,5–2 × 0,3–0,5 cm, eller 1–3 × 0,3–0,5 cm. Den har samma färg som skålens utsida, eller är blekare. Fotens längd varierar med hur djupt veden är begravd.",
+      "flesh": "Köttet är vitt och gummigt eller något broskartat, med ett tunt rött skikt som klär skålen. Lukt och smak är inte särpräglade.",
+      "sporePrint": "Vitt. Sporerna är ellipsoida, typiskt 24–32 × 12–14 μm (intervall i andra källor sträcker sig till omkring 20–40 × 10–15 μm), ofta med tillplattade eller något intryckta ändar, och innehåller flera oljedroppar. Mogna sporer kan bilda små konidieknoppar i ändarna.",
+      "habitat": "En saprobiont på fallna, ofta delvis begravda kvistar och grenar av lövträd på fuktiga, skuggiga platser, särskilt på lönn, vide, hassel, al och andra lövträd, vanligen bland mossa och förna. I Storbritannien och Irland påträffas den oftast från december till april. Den slovakiska atlasen anger november till juni, och i delar av Östeuropa är den främst en tidig vårssvamp efter snösmältningen, ibland med sena höstfynd. Denna katalog registrerar säsongen som december till april enligt flera brittiska källor och nämner det vidare fönstret i andra trakter i texten.",
+      "uses": "De flesta fälthandböcker och atlaser som används här behandlar scharlakansskål som oätlig, eller avråder från plockning. Vissa auktoriteter, däribland Norges sopp- og nyttevekstforbund, anser den ätlig om den kokas grundligt; köttet är tunt och föga uppskattat. Några guider har kallat den misstänkt. Denna katalog följer merparten av dessa källor och registrerar den som oätlig. Liknande röda skålar bör inte ätas enbart på grund av denna likhet. Koka alltid vilda svampar; förlita dig inte på denna text ensam.",
+      "confusion": "Sarcoscypha coccinea är makroskopiskt nästan identisk och kan bara skiljas säkert med mikroskop (rakare yttre hår; sporer utan konidieknoppar). Sarcoscypha jurana är en annan liknande europeisk art, ofta knuten till lind. I nordöstra Nordamerika är motsvarande lookalike S. dudleyi. Inget av dessa namn lagras här som synonym. Orange skålsvamp (Aleuria aurantia) är orange snarare än scharlakansröd, växer på jord snarare än ved, och fruktifierar främst sent på sommaren och på hösten. Microstoma protractum är en mindre, längre skaftad släkting i samma familj.",
+      "notes": "Det accepterade namnet är Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, baserat på Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum nämner också Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat och anamorfen Molliardiomyces coccineus Paden (publicerad som M. coccinea). Sarcoscypha austriaca var. lutea är en gulorange form av denna art, inte en egen art som lagras här. Namnet Peziza austriaca, som vissa källor använder, står inte på Species Fungorums synonymisida och lagras inte. Sarcoscypha coccinea, S. jurana och S. dudleyi är skilda giltiga arter och behandlas inte som synonymer. Sällsynt förekommer orangegula och vita fruktkroppar. Säker skiljning från de liknande röda älvskålarna kräver vanligen ett mikroskop. Planschbilden är en illustration skapad med artificiell intelligens, inte en historisk publicerad figur.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Scharlakanssk%C3%A5l"
+      ],
+      "label": "scharlakansskål"
+    },
+    "tr": {
+      "description": "Sarcoscypha austriaca, kışın ve erken ilkbaharda, çoğu kez yosun ve yaprak döküntüsü arasında, düşmüş geniş yapraklı dalcık ve dallarda meyve veren, nemli ormanların saprotrof kadeh mantarıdır. Avrupa'da yaygındır ve Kuzey Amerika'nın kuzeydoğusundan da bildirilir. Britanya ve İrlanda'da artık iki yaygın kırmızı elf kadehinin daha sık kaydedilenidir. Sarcoscypha coccinea, S. jurana ve Kuzey Amerika'da S. dudleyi'yi içeren benzer türler karmaşasına aittir; bu türler burada eşanlamlı olarak ele alınmaz ve güvenli teşhis çoğu zaman mikroskop gerektirir.",
+      "cap": "Alışılmış anlamda bir şapka yoktur: meyve gövdesi bir kadehtir (apotesyum). Tam açıldığında tipik olarak 2–7 cm genişliğindedir (başka kılavuzlar 1–5 cm, bazıları 1–8 cm verir) ve yaklaşık 1–2 cm yüksekliktedir. Genç kadehler derindir, kenarı biraz içe kıvrıktır, sonra düzensiz çanaklara açılır; eskiler yassılaşabilir ve kenar yarılabilir. İç yüzeyi düz, parlak ve kıpkırmızıdır, seyrek olarak turuncu-sarı veya beyazdır. Dış yüzeyi daha soluktur — beyazımsı, pembemsi, okr veya krem — ve minik tüylerden oluşan bir keçe ile kaplıdır.",
+      "hymenium": "Verimli iç yüzey düz ve kıpkırmızıdır. Sporlar bu astar üzerinde oluşur ve bir kadeh rahatsız edilirse görünür bir bulut halinde püskürebilir. Spor izi beyazdır. Kadehin dışında tüyler kıvrık veya tirbuşon biçimlidir. Sporlarla birlikte bu tüy biçimi, türü dış tüyleri daha düz olan ve sporları konidi tomurcuğu oluşturmayan Sarcoscypha coccinea'dan ve S. jurana'dan ayırmanın olağan yoludur.",
+      "stipe": "Kısa bir sap vardır, çoğu kez yosun veya döküntü içinde gizlidir; burada kullanılan betimlemede en fazla 3,5 cm uzunluğunda ve 0,3–0,7 cm kalınlığındadır; başka kaynaklar yaklaşık 0,5–2 × 0,3–0,5 cm veya 1–3 × 0,3–0,5 cm verir. Rengi kadehin dış yüzeyiyle aynıdır veya daha soluktur. Sap uzunluğu, odunun ne kadar derin gömülü olduğuna göre değişir.",
+      "flesh": "Et beyaz ve lastiksi veya biraz kıkırdaklıdır; kadehi ince kırmızı bir katman astarlar. Koku ve tat ayırt edici değildir.",
+      "sporePrint": "Beyaz. Sporlar elipsoittir, tipik olarak 24–32 × 12–14 μm (başka kaynaklarda aralıklar yaklaşık 20–40 × 10–15 μm'ye uzanır), çoğu zaman yassı veya biraz içe çökük uçludur ve birkaç yağ damlası içerir. Olgun sporlar uçlarda küçük konidi tomurcukları oluşturabilir.",
+      "habitat": "Nemli, gölgeli yerlerde, özellikle akçaağaç, söğüt, fındık, kızılağaç ve diğer geniş yapraklılarda, genellikle yosun ve döküntü arasında, düşmüş, çoğu kez kısmen gömülü geniş yapraklı dalcık ve dalların saprobudur. Britanya ve İrlanda'da en çok aralıktan nisan ayına kadar bulunur. Slovak atlası kasımdan hazirana kadar verir; Doğu Avrupa'nın bazı kesimlerinde ise kar erimesinden sonraki erken ilkbahar mantarıdır, bazen geç sonbahar kayıtlarıyla. Bu katalog, birkaç Britanya kaynağına göre mevsimi aralık–nisan olarak kaydeder ve metinde başka bölgelerdeki daha geniş pencereyi belirtir.",
+      "uses": "Burada kullanılan saha kılavuzları ve atlasların çoğu Sarcoscypha austriaca'yı yenmez sayar veya toplanmasını önermez. Norveç Mikoloji ve Toplayıcılık Derneği dahil bazı merciler, iyice pişirilirse yenilebilir kabul eder; eti incedir ve pek değerli görülmez. Bazı kılavuzlar onu şüpheli saymıştır. Bu katalog bu kaynakların çoğunluğunu izler ve onu yenmez olarak kaydeder. Benzer kırmızı kadehler yalnızca bu benzerlik yüzünden yenmemelidir. Yabani mantarları her zaman pişirin; yalnızca bu metne güvenmeyin.",
+      "confusion": "Sarcoscypha coccinea makroskopik olarak neredeyse aynıdır ve ancak mikroskopla güvenle ayrılır (daha düz dış tüyler; konidi tomurcuğu olmayan sporlar). Sarcoscypha jurana, çoğu zaman ıhlamurla ilişkili başka bir benzer Avrupa türüdür. Kuzey Amerika'nın kuzeydoğusunda karşılık gelen benzer tür S. dudleyi'dir. Bu adların hiçbiri burada eşanlamlı olarak saklanmaz. Portakal kabuğu mantarı (Aleuria aurantia) kıpkırmızı değil turuncudur, odun yerine toprakta yetişir ve esas olarak yaz sonu ile sonbaharda meyve verir. Microstoma protractum, aynı familyadan daha küçük, daha uzun saplı bir akrabadır.",
+      "notes": "Kabul edilen ad Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531 olup Lachnea austriaca Beck ex Sacc. (1889) adına dayanır. Species Fungorum ayrıca Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat ve anamorf Molliardiomyces coccineus Paden'i (M. coccinea olarak yayımlanmıştır) listeler. Sarcoscypha austriaca var. lutea bu türün sarı-turuncu bir biçimidir, burada saklanan ayrı bir tür değildir. Bazı kaynakların kullandığı Peziza austriaca adı Species Fungorum'un eşanlamlılar sayfasında yoktur ve saklanmaz. Sarcoscypha coccinea, S. jurana ve S. dudleyi ayrı geçerli türlerdir ve eşanlamlı olarak ele alınmaz. Seyrek olarak sarı-turuncu ve beyaz meyve gövdeleri görülür. Benzer kırmızı elf kadehlerinden güvenli ayırım genellikle mikroskop gerektirir. Levha, yapay zekâ ile üretilmiş bir çizimdir, tarihî yayımlanmış bir şekil değildir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Саркосцифа австрійська — сапротрофний чашковий гриб вологих лісів, що плодоносить узимку та рано навесні на опалих гілочках і гілках листяних дерев, часто серед моху та підстилки. Вид широко поширений у Європі й зазначається також на північному сході Північної Америки. У Великій Британії та Ірландії він нині частіше реєструється з двох звичайних червоних ельфійських чаш. Він належить до комплексу подібних видів, що включає Sarcoscypha coccinea, S. jurana та в Північній Америці S. dudleyi; ці види тут не розглядаються як синоніми, і впевнене визначення часто потребує мікроскопа.",
+      "cap": "Шапинки в звичайному розумінні немає: плодове тіло — чаша (апотецій). Повністю розкрита вона зазвичай 2–7 см у поперечнику (інші джерела дають 1–5 см, деякі 1–8 см) і близько 1–2 см заввишки. Молоді чаші глибокі, зі злегка загнутим усередину краєм, потім розкриваються в неправильні мисочки; старші можуть сплощуватися, а край — розтріскуватися. Внутрішня поверхня гладка, блискуча й яскраво-червона, рідко помаранчево-жовта або біла. Зовнішня поверхня блідіша — білувата, рожевувата, вохриста або кремова — і вкрита повстю з дрібних волосків.",
+      "hymenium": "Плідна внутрішня поверхня гладка й яскраво-червона. Спори утворюються на цій вистілці й при порушенні чаші можуть вилітати видимою хмаркою. Споровий порошок білий. Зовні чаші волоски згорнуті або штопороподібні. Разом зі спорами ця форма волосків — звичайний спосіб відрізнити вид від Sarcoscypha coccinea, у якої зовнішні волоски пряміші, а спори не утворюють конідіальних бруньок, і від S. jurana.",
+      "stipe": "Є коротка ніжка, часто схована в моху чи підстилці; в використаному тут описі до 3,5 см завдовжки і 0,3–0,7 см завтовшки; інші джерела вказують близько 0,5–2 × 0,3–0,5 см або 1–3 × 0,3–0,5 см. Вона того самого кольору, що зовнішня поверхня чаші, або блідіша. Довжина ніжки залежить від того, наскільки глибоко похована деревина.",
+      "flesh": "М'якуш білий і гумовий або злегка хрящуватий, з тонким червоним шаром, що вистилає чашу. Запах і смак невиразні.",
+      "sporePrint": "Білий. Спори еліпсоїдні, зазвичай 24–32 × 12–14 мкм (в інших джерелах діапазони сягають приблизно 20–40 × 10–15 мкм), часто зі сплющеними або злегка вдавленими кінцями, і містять кілька олійних крапель. Зрілі спори можуть на кінцях утворювати дрібні конідіальні бруньки.",
+      "habitat": "Сапротроф опалих, часто частково похованих гілочок і гілок листяних дерев у вологих затінених місцях, особливо на клені, вербі, ліщині, вільсі та інших листяних, зазвичай серед моху й підстилки. У Великій Британії та Ірландії її найчастіше знаходять з грудня по квітень. Словацький атлас вказує листопад–червень, а в частинах Східної Європи це передусім гриб ранньої весни після танення снігу, іноді з пізньоосінніми знахідками. Цей каталог записує сезон як грудень–квітень за кількома британськими джерелами й згадує в тексті ширше вікно в інших регіонах.",
+      "uses": "Більшість використаних тут визначників і атласів вважають саркосцифу австрійську неїстівною або не радять її збирати. Деякі авторитети, зокрема Норвезька асоціація мікології та збиральництва, вважають її їстівною за умови ретельного проварювання; м'якуш тонкий і не високо цінується. Деякі посібники називали її підозрілою. Цей каталог іде за більшістю цих джерел і записує її як неїстівну. Подібні червоні чаші не слід їсти лише через цю подібність. Дикі гриби завжди відварюйте; не покладайтеся лише на цей текст.",
+      "confusion": "Sarcoscypha coccinea макроскопічно майже невідрізненна і надійно відокремлюється лише під мікроскопом (пряміші зовнішні волоски; спори без конідіальних бруньок). Sarcoscypha jurana — ще один подібний європейський вид, часто пов'язаний із липою. На північному сході Північної Америки відповідний подібний вид — S. dudleyi. Жодну з цих назв тут не зберігають як синонім. Алеврія оранжева (Aleuria aurantia) помаранчева, а не яскраво-червона, росте на ґрунті, а не на деревині, і плодоносить переважно наприкінці літа та восени. Microstoma protractum — дрібніший, довгоніжковий родич тієї самої родини.",
+      "notes": "Прийнята назва — Sarcoscypha austriaca (Beck ex Sacc.) Boud. (1907; Hist. Class. Discom. Eur.: 55), Index Fungorum / MycoBank 433531, заснована на Lachnea austriaca Beck ex Sacc. (1889). Species Fungorum також наводить Peziza imperialis Beck, Scutellinia imperialis Kuntze, Humaria imperialis (Beck) Mussat та анаморфу Molliardiomyces coccineus Paden (опубліковану як M. coccinea). Sarcoscypha austriaca var. lutea — жовто-помаранчева форма цього виду, а не окремий вид, що зберігається тут. Назва Peziza austriaca, яку вживають деякі джерела, відсутня на сторінці синоніміки Species Fungorum і не зберігається. Sarcoscypha coccinea, S. jurana і S. dudleyi — окремі чинні види і не розглядаються як синоніми. Рідко трапляються помаранчево-жовті та білі плодові тіла. Надійне відрізнення від подібних червоних ельфійських чаш зазвичай потребує мікроскопа. Таблиця — ілюстрація, створена штучним інтелектом, а не історичний опублікований рисунок.",
+      "names": [
+        "червона ельфійська чаша"
+      ],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D1%81%D1%86%D0%B8%D1%84%D0%B0_%D0%B0%D0%B2%D1%81%D1%82%D1%80%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0"
+      ],
+      "label": "Саркосцифа австрійська"
+    },
+    "zh": {
+      "description": "Sarcoscypha austriaca 是潮湿林地的腐生杯菌，在冬季和早春生于落下的阔叶树小枝和枝条上，常夹在苔藓与落叶之间。它在欧洲分布广泛，也有记录来自北美东北部。在不列颠和爱尔兰，它现已成为两种常见红色精灵杯中记录较多的一种。它属于一组外形相近的种类，包括 Sarcoscypha coccinea、S. jurana，以及北美的 S. dudleyi；这些种类在此不作为异名处理，可靠鉴定往往需要显微镜。",
+      "cap": "没有通常意义上的菌盖：子实体是一杯状体（子囊盘）。充分展开时通常宽 2–7 厘米（其他资料作 1–5 厘米，有的作 1–8 厘米），高约 1–2 厘米。幼杯较深，边缘略向内卷，随后张开成不规则碗状；较老的个体可能变平，边缘可能开裂。内面平滑、有光泽、鲜猩红，偶见橙黄或白色。外面较淡——近白、粉红、赭色或米色——并覆有极细毛形成的毡层。",
+      "hymenium": "可育的内面平滑而猩红。孢子在这一衬面上形成，扰动杯子时可能呈可见的云雾散出。孢子印为白色。杯外面的毛卷曲或呈螺旋锥状。连同孢子一起，这种毛形是把本种与 Sarcoscypha coccinea（外面的毛较直，孢子不形成分生孢子芽）以及 S. jurana 分开的常用方法。",
+      "stipe": "有短柄，常藏在苔藓或落叶中；在此处采用的描述中，长达 3.5 厘米，粗 0.3–0.7 厘米；其他来源约为 0.5–2 × 0.3–0.5 厘米，或 1–3 × 0.3–0.5 厘米。颜色与杯外面相同，或更淡。柄长随木材埋入的深浅而变化。",
+      "flesh": "菌肉白色，橡胶质或略带软骨质，杯内衬一层薄的红色组织。气味与味道不明显。",
+      "sporePrint": "白色。孢子椭圆形，通常 24–32 × 12–14 微米（其他来源的范围约达 20–40 × 10–15 微米），两端常扁平或略凹，并含若干油滴。成熟孢子可在两端产生细小的分生孢子芽。",
+      "habitat": "腐生于落下、常部分埋入的阔叶树小枝和枝条上，见于潮湿荫蔽处，尤其是枫、柳、榛、桤及其他阔叶树上，通常夹在苔藓与落叶之间。在不列颠和爱尔兰，最常见于十二月至四月。斯洛伐克图鉴给出十一月至六月；在东欧部分地区，它主要是融雪后的早春菌，有时也有晚秋记录。本目录按若干不列颠来源将季节记为十二月至四月，并在正文中说明其他地区更宽的出现期。",
+      "uses": "此处所用的多数野外指南和图鉴将本种视为不可食用，或劝阻采集。一些机构，包括挪威真菌与采集协会，认为充分烹煮后可食；但菌肉薄，评价不高。少数指南曾称之为可疑。本目录依从这些来源中的多数，将其记为不可食用。不可仅凭这一相似去吃外形相近的红杯。野生真菌务必烹熟；不要只依赖本文。",
+      "confusion": "Sarcoscypha coccinea 在宏观上几乎相同，只有借助显微镜才能可靠分开（外面的毛较直；孢子无分生孢子芽）。Sarcoscypha jurana 是另一种相似的欧洲种类，常与椴树相关。在北美东北部，对应的相似种是 S. dudleyi。这些名称均不在此存为异名。橙皮盘菌（Aleuria aurantia）为橙色而非猩红，生于土上而非木材，主要在夏末和秋季出菇。Microstoma protractum 是同科中较小、柄更长的近缘种。",
+      "notes": "接受名为 Sarcoscypha austriaca (Beck ex Sacc.) Boud.（1907；Hist. Class. Discom. Eur.: 55），Index Fungorum / MycoBank 433531，以 Lachnea austriaca Beck ex Sacc.（1889）为基名。Species Fungorum 还列出 Peziza imperialis Beck、Scutellinia imperialis Kuntze、Humaria imperialis (Beck) Mussat，以及无性型 Molliardiomyces coccineus Paden（发表作 M. coccinea）。Sarcoscypha austriaca var. lutea 是本种的黄橙色类型，不是此处另行保存的独立种。部分来源使用的 Peziza austriaca 不在 Species Fungorum 的异名页上，故不保存。Sarcoscypha coccinea、S. jurana 和 S. dudleyi 是独立的现行种，不作为异名处理。偶尔出现橙黄色和白色子实体。要与外形相近的红色精灵杯可靠区分，通常需要显微镜。图版是人工智能生成的插图，不是历史上已发表的图。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Lachnea austriaca",
+      "author": "Beck ex Sacc.",
+      "year": 1889,
+      "note": "basionym"
+    },
+    {
+      "name": "Peziza imperialis",
+      "author": "Beck",
+      "citation": "Fl. Hernst.: 213 (1884)",
+      "note": "Species Fungorum page number 213; Wikispecies gives 132. The SF figure is stored; the disagreement is disclosed."
+    },
+    {
+      "name": "Scutellinia imperialis",
+      "author": "Kuntze",
+      "year": 1891
+    },
+    {
+      "name": "Humaria imperialis",
+      "author": "(Beck) Mussat",
+      "year": 1901
+    },
+    {
+      "name": "Molliardiomyces coccineus",
+      "author": "Paden",
+      "year": 1984,
+      "note": "anamorph; published as M. coccinea"
+    }
+  ],
+  "reserved": false,
+  "id": 184,
+  "citation": "Hist. Class. Discom. Eur. (Paris): 55 (1907)"
 }
 ];
