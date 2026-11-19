@@ -1076,10 +1076,16 @@ export const TAXA = {
     rank: "class"
   },
   Dacrymycetales: {
-    rank: "order"
+    rank: "order",
+    sk: "slzovcotvaré"
   },
   Dacrymycetaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "slzovcovité"
+  },
+  Dacrymyces: {
+    rank: "genus",
+    sk: "slzovec"
   },
   Calocera: {
     rank: "genus"
