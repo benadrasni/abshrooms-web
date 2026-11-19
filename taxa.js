@@ -594,10 +594,12 @@ export const TAXA = {
     rank: "order"
   },
   Geastraceae: {
-    rank: "family"
+    rank: "family",
+    sk: "hviezdovkovité"
   },
   Geastrum: {
-    rank: "genus"
+    rank: "genus",
+    sk: "hviezdovka"
   },
   Phallus: {
     rank: "genus",
@@ -1060,6 +1062,12 @@ export const TAXA = {
     sk: "práchnovček"
   },
   Flammulina: {
+    rank: "genus"
+  },
+  Gyroporaceae: {
+    rank: "family"
+  },
+  Gyroporus: {
     rank: "genus"
   }
 };
