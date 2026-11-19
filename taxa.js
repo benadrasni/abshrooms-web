@@ -1065,9 +1065,23 @@ export const TAXA = {
     rank: "genus"
   },
   Gyroporaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "hríbnikovité"
   },
   Gyroporus: {
+    rank: "genus",
+    sk: "hríbnik"
+  },
+  Dacrymycetes: {
+    rank: "class"
+  },
+  Dacrymycetales: {
+    rank: "order"
+  },
+  Dacrymycetaceae: {
+    rank: "family"
+  },
+  Calocera: {
     rank: "genus"
   }
 };
