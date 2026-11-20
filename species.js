@@ -194005,5 +194005,819 @@ export const CATALOG = [
   "reserved": false,
   "id": 188,
   "citation": "Epicrisis Systematis Mycologici: 256 (1838) [1836-1838]"
+},
+{
+  "name": "Collybia odora",
+  "author": "(Bull.) Z.M. He & Zhu L. Yang",
+  "family": "Clitocybaceae",
+  "genus": "Collybia",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricales",
+    "Clitocybaceae",
+    "Collybia"
+  ],
+  "summary": [
+    "Agaricales",
+    "Clitocybaceae",
+    "Collybia"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "green"
+  ],
+  "capFrom": 3.0,
+  "capTo": 8.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "label": "Aniseed Funnel",
+  "names": [
+    "Aniseed Toadstool",
+    "Aniseed Mushroom",
+    "Aniseed Funnelcap"
+  ],
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=847233",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=847233",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=847233",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=190577",
+      "https://www.gbif.org/species/2531124",
+      "https://www.wikidata.org/wiki/Q913466",
+      "https://www.first-nature.com/fungi/clitocybe-odora.php",
+      "https://www.mushroomexpert.com/clitocybe_odora.html",
+      "https://botany.cz/cs/clitocybe-odora/",
+      "https://www.inaturalist.org/taxa/1525546-Collybia-odora",
+      "https://taxref.mnhn.fr/taxref-web/taxa/31916",
+      "https://species.nbnatlas.org/species/NHMSYS0001478056",
+      "https://www.britmycolsoc.org.uk/resources/english-names"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://botany.cz/cs/clitocybe-odora/"
+    ],
+    "da": [],
+    "de": [
+      "https://www.wikidata.org/wiki/Q913466",
+      "https://mykolog.de/arten/clitocybe-odora/"
+    ],
+    "es": [],
+    "et": [
+      "https://www.wikidata.org/wiki/Q913466",
+      "https://et.wikipedia.org/wiki/Aniislehtrik"
+    ],
+    "fa": [],
+    "fi": [
+      "https://laji.fi/taxon/MX.73307",
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "fr": [
+      "https://taxref.mnhn.fr/taxref-web/taxa/31916"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://gkzplant.sakura.ne.jp/kinrui/syousai/agyou/aoinusimeji.html"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "lv": [
+      "https://www.wikidata.org/wiki/Q913466",
+      "https://lv.wikipedia.org/wiki/An%C4%ABsa_piltuvene"
+    ],
+    "nl": [
+      "https://www.wikidata.org/wiki/Q913466",
+      "https://www.diversitasnaturae.be/diversitas-naturae/fungi/basidiomycota/agaricomycetes/agaricales/tricholomataceae/clitocybe-odora/"
+    ],
+    "no": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "pl": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Clitocybe-odora/strmulka-anizova/strmelka-anyzka/ID653",
+      "https://botany.cz/cs/clitocybe-odora/",
+      "https://fotonet.sk/atlas/fungi_huby/clitocybe-odora"
+    ],
+    "sl": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q913466"
+    ]
+  },
+  "added": "2026-11-20",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/Collybia_odora@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/Collybia_odora@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Clitocybe odora.png” (from ~/Downloads) is a JPEG/JFIF illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a habitat group on leaf litter with a chestnut, fallen leaves and a twig — a mature wavy blue-green funnel cap and a younger darker teal convex button with white mycelial tufts; an underside with crowded pale slightly decurrent gills; a longitudinal section with thin whitish flesh and a white-felted, soil-flecked base; and a pale pinkish spore-print smear. The gill spacing is somewhat stylized and even; the spore print is a loose painted smudge (First Nature almost white; Kuo pinkish in a thick print). The smell cannot be shown. A small irregularity may remain at the truncated underside stipe tip. The official plate is slightly soft because the 896×1200 source was enlarged about 1.91×. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/Collybia_odora@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/cc1.webp",
+      "author": "vincent_b",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/750881350/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/cc2.webp",
+      "author": "pilmar",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/760488548/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/cc3.webp",
+      "author": "rainerburkard",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/761987061/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/cc4.webp",
+      "author": "vincent_b",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/750881472/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/cc5.webp",
+      "author": "paulanimigean",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/757983779/original.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Clitocybaceae/Collybia_odora/Collybia_odora@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Clitocybaceae/Collybia_odora/Collybia_odora@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Clitocybaceae/Collybia_odora/cc1.webp",
+      "author": "vincent_b",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750881350/original.jpg"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Clitocybaceae/Collybia_odora/cc2.webp",
+      "author": "pilmar",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/760488548/original.jpg"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Clitocybaceae/Collybia_odora/cc3.webp",
+      "author": "rainerburkard",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/761987061/original.jpg"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Clitocybaceae/Collybia_odora/cc4.webp",
+      "author": "vincent_b",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/750881472/original.jpg"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Clitocybaceae/Collybia_odora/cc5.webp",
+      "author": "paulanimigean",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/757983779/original.jpg"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "Collybia odora فطر غابات من الفصيلة Clitocybaceae، عُرف طويلًا باسم Clitocybe odora ويوضع اليوم في الجنس Collybia. يُميَّز بقلنسوة زرقاء مخضرة إلى خضراء زنجارية، وخشيبات شاحبة متدلية قليلًا، ورائحة قوية تشبه اليانسون أو الشمر. ينمو على الأرض في فرش الأوراق، ولا سيما في غابات الزان، من منتصف الصيف إلى الخريف. غالبًا ما يبهت اللون المميز إلى رمادي مخضر أو بني أو شبه أبيض. وهو فطر صالح للأكل جيد يُستخدم أساسًا للتتبيل، لكن يُجمع فقط الأثمار الطازجة ذات اللون الأزرق المخضر الواضح.",
+      "cap": "القطر 3–8 سم (تشير الأوصاف الأمريكية الشمالية إلى نحو 2,5–7 سم). يكون محدبًا في البداية، غالبًا بحافة ملتفة، ثم يتسطح ويصير قليلًا على هيئة قمع أو متموجًا. السطح الجاف أزرق مخضر أو أخضر بحري أو زنجاري وهو طازج، ولباد ناعم أو ليفي دقيق جدًا، ويبهت عادة إلى رمادي مخضر شاحب أو بني أو شبه مبيض، وأحيانًا بمركز أغمق. لحم القلنسوة رقيق ومتين.",
+      "hymenium": "الخشيبات ملتصقة إلى متدلية قليلًا، متوسطة التزاحم إلى متزاحمة، مع خشيبات قصيرة كثيرة. وهي أشحب من القلنسوة، مبيضة أو كريمية أو رمادية مخضرة باهتة، وقد تبدو وردية خفيفة؛ وتبهت مع التقدم في العمر.",
+      "stipe": "الساق طولها 3–8 سم وسُمكها 0,5–1,5 سم (غالبًا ما تعطي الأوصاف البريطانية نحو 4–6 × 0,5–1,0 سم). أسطوانية، قد تكون منتفخة قليلًا عند القاعدة، جافة، حريرية الألياف، مبيضة أو ملونة كلون القلنسوة، مع ألياف بيضاء زغبية أو خصلة ميسيليوم لبادية عند القاعدة. لا توجد حلقة.",
+      "flesh": "اللحم رقيق، مبيض أو مخضر قليلًا، ولا يتغير لونه عند القطع. وهو طازج تفوح منه رائحة يانسون أو شمر قوية، والطعم كذلك يانسون. قد يبهت اللون والرائحة مع العمر، لذا يصعب التعرف على الأثمار الأقدم.",
+      "sporePrint": "طبعة الأبواغ بيضاء أو شبه بيضاء في طبقة رقيقة، وقد تبدو كريمية أو وردية خفيفة في طبقة سميكة. الأبواغ ملساء إهليلجية وغير نشوية؛ تتراوح المقاييس المنشورة من نحو 5–7 × 3–5 ميكرومتر إلى 6–9 × 3,5–5,5 ميكرومتر (و7–9 × 4–5 ميكرومتر).",
+      "habitat": "رمّي على الأرض في فرش الأوراق، خاصة تحت الزان، وكذلك تحت البلوط وأشجار عريضة الأوراق أخرى وأحيانًا تحت المخروطيات. تظهر الأجسام الثمرية من يوليو إلى نوفمبر (عادة يوليو–أكتوبر في بريطانيا وأيرلندا؛ أغسطس–نوفمبر في وسط أوروبا)، غالبًا متفرقة أو في مجموعات صغيرة لا في جموع كبيرة. شائع إلى حد ما وواسع الانتشار في أوروبا، ويُذكر أيضًا من آسيا المعتدلة ومن شمال أمريكا الشمالية ومناطقها الجبلية.",
+      "uses": "فطر صالح للأكل جيد، يُقدَّر أكثر كمنكّه منه كغذاء وفير. يمكن قليه واستخدامه في الحساء والريزوتو والصلصات — ويُوصى أحيانًا بنكهة اليانسون مع السمك الأبيض — ويجف جيدًا ويمكن طحنه توابل. يُجمع فقط الأثمار الطازجة ذات اللون الأزرق المخضر الواضح، وتُطهى قبل الأكل. ينبغي ترك الأثمار الشاحبة أو الباهتة لأنها قد تُخلط مع قمعيّات أخرى.",
+      "confusion": "القلانس الزرقاء المخضرة الطازجة ورائحة اليانسون القوية تميّزه عن معظم الأنواع الشبيهة، لكن كليهما قد يبهت. قد تُخلط الأثمار الشاحبة بقمعيات عطرة أخرى مثل Clitocybe fragrans، وهو شاحب ويشم أيضًا برائحة اليانسون. قد يكون Stropharia aeruginosa وS. caerulea أخضر أزرق في الشباب، لكن لهما قلنسوة دهنية أو حرشفية وحلقة وأبواغ أرجوانية بنية داكنة، ولا تشم برائحة اليانسون. لا ينبغي خلط الأثمار الباهتة أيضًا بالقمعيات البيضاء السامة (تُدعى غالبًا Clitocybe rivulosa أو C. dealbata)، التي تفتقر إلى اللون الأزرق المخضر ورائحة اليانسون. إذا بهت اللون ولم تكن الرائحة يانسونًا واضحًا، فلا يؤكل.",
+      "notes": "وصف بوليار النوع سنة 1784 باسم Agaricus odorus، وعُرف طويلًا باسم Clitocybe odora (Bull.) P. Kumm. في سنة 2023 نقله He وChen وBau وWang وYang إلى الجنس Collybia باسم Collybia odora، وهو الاسم الحالي في Index Fungorum وSpecies Fungorum. ما تزال قوائم كثيرة وGBIF تعدّ Clitocybe odora الاسم المقبول. الاسم الإنجليزي الرسمي في بريطانيا هو Aniseed Funnel. تشير الصفة odora إلى الرائحة، المرتبطة بمركبات طيارة من نوع اليانسون (Rapior وزملاؤه، 2002). تتبع المرادفات المخزونة فقط مرادفات Species Fungorum لـ Collybia odora؛ ولا تُخزَن الأصناف والأشكال مثل var. alba كمرادفات.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Collybia odora е горска гъба от семейство Clitocybaceae, дълго известна като Clitocybe odora и сега поставена в род Collybia. Разпознава се по синьозелената до меденковозелена шапка, бледите, леко низбягващи пластинки и силната миризма на анасон или резене. Расте на земята в листната постилка, особено в букови гори, от средата на лятото до есента. Характерният цвят често избледнява до сивозелен, кафеникав или почти бял. Това е добра годна за ядене гъба, използвана главно като подправка, но трябва да се събират само пресни, ясно синьозелени плодни тела.",
+      "cap": "Шапката е с диаметър 3–8 cm (северноамериканските описания дават около 2,5–7 cm). Отначало е изпъкнала, често със завит ръб, после се разперва и става плитко фуниевидна или вълниста. Сухата повърхност в прясно състояние е синьозелена, морскозелена или меденковозелена, фино плъстена или много фино влакнеста и обикновено избледнява до бледо сивозелена, кафеникава или почти белезникава, понякога с по-тъмен център. Месото на шапката е тънко и жилаво.",
+      "hymenium": "Пластинките са прираснали до леко низбягващи, умерено гъсти до гъсти, с чести по-къси пластинки. По-бледи са от шапката, белезникави, кремави или слабо сивозелени и могат да изглеждат леко розови; с възрастта избледняват.",
+      "stipe": "Пънчето е високо 3–8 cm и дебело 0,5–1,5 cm (британските описания често дават около 4–6 × 0,5–1,0 cm). То е цилиндрично, в основата понякога леко задебелено, сухо, копринено влакнесто, белезникаво или оцветено като шапката, с бели пухкави влакна или плъстен мицелен кичур в основата. Пръстен няма.",
+      "flesh": "Месото е тънко, белезникаво или леко зеленикаво и не променя цвета си при разрез. В прясно състояние силно мирише на анасон или резене, а вкусът е също анасонов. И цветът, и миризмата могат да избледнеят с възрастта, затова по-старите плодни тела са по-трудни за разпознаване.",
+      "sporePrint": "Споровият прах в тънък отпечатък е бял или почти бял, а в дебел може да бъде кремав или леко розов. Спорите са гладки, елипсоидни и инамилоидни; публикуваните размери са от около 5–7 × 3–5 µm до 6–9 × 3,5–5,5 µm (и 7–9 × 4–5 µm).",
+      "habitat": "Сапротроф на земята в листната постилка, особено под бук, също под дъб и други широколистни и понякога под иглолистни. Плодните тела се появяват от юли до ноември (във Великобритания и Ирландия обикновено юли–октомври; в Централна Европа август–ноември), обикновено разпръснато или на малки групи, не на големи сборища. В Европа видът е сравнително обикновен и широко разпространен, отбелязан е и от умерения пояс на Азия и от северната и планинската част на Северна Америка.",
+      "uses": "Добра годна за ядене гъба, ценена повече като подправка, отколкото като обемиста храна. Може да се пържи и да се използва в супи, ризото и сосове — анасоновият вкус понякога се препоръчва към бяла риба — суши се добре и може да се смели на подправка. Събират се само пресни, ясно синьозелени екземпляри и се сваряват преди ядене. Бледите или избледнели плодни тела трябва да се оставят, защото могат да се объркат с други фуниевидни гъби.",
+      "confusion": "Пресните синьозелени шапки и силната миризма на анасон я отличават от повечето сходни видове, но и двете могат да избледнеят. Бледите екземпляри могат да се объркат с други ухаещи говорушки като Clitocybe fragrans, която е бледа и също мирише на анасон. Stropharia aeruginosa и S. caerulea могат да бъдат зеленосини като млади, но имат мазна или люспеста шапка, пръстен и тъмно пурпурнокафяви спори и не миришат на анасон. Избледнелите плодни тела не трябва да се бъркат и с отровни бели говорушки (често наричани Clitocybe rivulosa или C. dealbata), които нямат синьозеления цвят и миризмата на анасон. Ако цветът е избледнял и миризмата не е ясно анасонова, гъбата не се яде.",
+      "notes": "Видът е описан от Бюлиар през 1784 г. като Agaricus odorus и дълго е бил известен като Clitocybe odora (Bull.) P. Kumm. През 2023 г. He, Chen, Bau, Wang и Yang го прехвърлят в род Collybia като Collybia odora — текущото име в Index Fungorum и Species Fungorum. Много списъци и GBIF все още приемат Clitocybe odora за валидно име. Официалното английско име във Великобритания е Aniseed Funnel. Епитетът odora се отнася до миризмата, свързана с летливи съединения от анасонов тип (Rapior и колеги, 2002). Съхранените синоними следват само синонимиката на Species Fungorum за Collybia odora; разновидности и форми като var. alba не се съхраняват като синоними.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Strmělka anýzka je lesní houba z čeledi strmuľkovitých v širším smyslu (Clitocybaceae), dlouho známá jako Clitocybe odora a dnes řazená do rodu Collybia. Pozná se podle modrozeleného až měděnkového klobouku, bledých, mírně sbíhavých lupenů a silné anýzové nebo fenyklové vůně. Roste na zemi v opadu, zejména v bučinách, od poloviny léta do podzimu. Výrazná barva často bledne do šedozelena, hnědava nebo téměř bíla. Je to dobrá jedlá houba, používaná hlavně jako koření, ale sbírat je třeba jen čerstvé, zřetelně modrozelené plodnice.",
+      "cap": "Klobouk má průměr 3–8 cm (severoamerické údaje uvádějí přibližně 2,5–7 cm). Zprvu je vyklenutý, často se zahnutým okrajem, později se zplošťuje a stává se mělce nálevkovitým nebo zvlněným. Suchý povrch je v čerstvém stavu modrozelený, mořsky zelený nebo měděnkový, jemně plstnatý nebo velmi jemně vláknitý a typicky bledne do bledě šedozelena, hnědava nebo téměř bělavá, někdy s tmavším středem. Dužnina klobouku je tenká a tuhá.",
+      "hymenium": "Lupeny jsou připojené až mírně sbíhavé, středně husté až husté, s častými kratšími lupénky. Jsou bledší než klobouk, bělavé, krémové nebo slabě šedozelené a mohou působit slabě narůžověle; věkem blednou.",
+      "stipe": "Třeň je vysoký 3–8 cm a tlustý 0,5–1,5 cm (britské údaje často uvádějí přibližně 4–6 × 0,5–1,0 cm). Je válcovitý, na bázi někdy mírně ztlustělý, suchý, hedvábně vláknitý, bělavý nebo zbarvený jako klobouk, s bílými chmýřitými vlákénky nebo plstnatým podhoubím na bázi. Prsten chybí.",
+      "flesh": "Dužnina je tenká, bělavá nebo slabě nazelenalá a na řezu nemění barvu. V čerstvém stavu silně voní po anýzu nebo fenyklu a chuť je podobně anýzová. Barva i vůně mohou věkem blednout, proto jsou starší plodnice hůře rozpoznatelné.",
+      "sporePrint": "Výtrusný prach je v tenké vrstvě bílý nebo téměř bílý a v silné vrstvě může být krémový nebo slabě narůžovělý. Výtrusy jsou hladké, elipsoidní a inamyloidní; uváděné rozměry se pohybují přibližně od 5–7 × 3–5 µm do 6–9 × 3,5–5,5 µm (a 7–9 × 4–5 µm).",
+      "habitat": "Saprotrofní houba rostoucí na zemi v opadu, zejména pod buky, také pod duby a jinými listnáči a někdy pod jehličnany. Plodnice se objevují od července do listopadu (v Británii a Irsku typicky červenec–říjen; ve střední Evropě srpen–listopad), obvykle jednotlivě nebo v malých skupinách, nikoli ve velkých houfech. V Evropě je poměrně hojná a široce rozšířená, zaznamenána je i v mírné Asii a v severní a horské Severní Americe.",
+      "uses": "Dobrá jedlá houba, ceněná spíše jako koření než jako hlavní pokrm. Lze ji smažit, používat do polévek, rizota a omáček — anýzová chuť se někdy doporučuje k bílé rybě — a dobře se suší a dá se rozemlít na koření. Sbírají se jen čerstvé, zřetelně modrozelené plodnice a před jídlem se uvaří. Bledé nebo vybledlé plodnice je třeba nechat, protože je lze zaměnit s jinými nálevkovitými houbami.",
+      "confusion": "Čerstvé modrozelené klobouky a silná anýzová vůně ji oddělí od většiny podobných druhů, ale barva i vůně mohou blednout. Bledé plodnice lze zaměnit s jinými vonnými strmělkami, například s Clitocybe fragrans, která je bledá a také voní po anýzu. Límcovky Stropharia aeruginosa a S. caerulea mohou být v mládí zelenomodré, ale mají mastný nebo šupinatý klobouk, prsten a tmavě fialovohnědé výtrusy a po anýzu nevoní. Vybledlé plodnice nelze zaměňovat ani s jedovatými bílými strmělkami (často uváděnými jako Clitocybe rivulosa nebo C. dealbata), které nemají modrozelenou barvu ani anýzovou vůni. Pokud barva vybledla a vůně není zřetelně anýzová, houba se nejí.",
+      "notes": "Druh popsal Bulliard v roce 1784 jako Agaricus odorus a dlouho byl znám jako Clitocybe odora (Bull.) P. Kumm. V roce 2023 jej He, Chen, Bau, Wang a Yang přeřadili do rodu Collybia jako Collybia odora, což je současné jméno v Index Fungorum a Species Fungorum. Mnohé seznamy a GBIF stále uvádějí jako přijaté jméno Clitocybe odora. Oficiální anglický název v Británii je Aniseed Funnel. Epiteton odora odkazuje na vůni, která se spojuje s těkavými látkami anýzového typu (Rapior a kolegové, 2002). Uložená synonyma následují pouze synonymiku Species Fungorum pro Collybia odora; variety a formy, například var. alba, se jako synonyma neukládají.",
+      "names": [],
+      "sourceUrls": [
+        "https://botany.cz/cs/clitocybe-odora/"
+      ],
+      "label": "strmělka anýzka"
+    },
+    "da": {
+      "description": "Collybia odora er en skovsvamp i familien Clitocybaceae, længe kendt som Clitocybe odora og nu placeret i slægten Collybia. Den kendes på en blågrøn til spangrøn hat, blege, lidt nedløbende lameller og en stærk duft af anis eller fennikel. Den vokser på jorden i løvstrøelse, især i bøgeskov, fra midtsommer til efterår. Den typiske farve blegner ofte til grågrøn, brunlig eller næsten hvid. Det er en god spisesvamp, mest brugt som smagsgiver, men kun friske, tydeligt blågrønne frugtlegemer bør plukkes.",
+      "cap": "Hatten er 3–8 cm bred (nordamerikanske angivelser giver omkring 2,5–7 cm). Den er først hvælvet, ofte med indrullet rand, senere udbredt og lavt tragtformet eller bølget. Den tørre overflade er frisk blågrøn, havgrøn eller spangrøn, fint filtet eller meget fint trådet, og blegner typisk til lyst grågrøn, brunlig eller næsten hvidlig, undertiden med mørkere midte. Hattekødet er tyndt og sejt.",
+      "hymenium": "Lamellerne er tilhæftede til lidt nedløbende, ret tætte til tætte, med hyppige korte lameller. De er blegere end hatten, hvidlige, cremefarvede eller svagt grågrønne og kan se svagt rosa ud; de blegner med alderen.",
+      "stipe": "Stokken er 3–8 cm høj og 0,5–1,5 cm tyk (britiske angivelser giver ofte omkring 4–6 × 0,5–1,0 cm). Den er cylindrisk, undertiden lidt fortykket ved basis, tør, silkeagtigt trådet, hvidlig eller tonet som hatten, med hvide dunede tråde eller en filtet mycelietot ved basis. Ring mangler.",
+      "flesh": "Kødet er tyndt, hvidligt eller svagt grønligt og skifter ikke farve ved gennemskæring. Friskt dufter det stærkt af anis eller fennikel, og smagen er tilsvarende anisagtig. Både farven og duften kan blegne med alderen, så ældre eksemplarer kan være sværere at kende.",
+      "sporePrint": "Sporepulveret er hvidt eller næsten hvidt i et tyndt aftryk og kan se cremefarvet eller svagt rosa ud i et tykt. Sporerne er glatte, ellipsoide og inamyloide; offentliggjorte mål går fra omkring 5–7 × 3–5 µm til 6–9 × 3,5–5,5 µm (og 7–9 × 4–5 µm).",
+      "habitat": "Saprotrof på jorden i løvstrøelse, især under bøg, også under eg og andre løvtræer og undertiden under nåletræer. Frugtlegemer kommer fra juli til november (typisk juli–oktober i Storbritannien og Irland; august–november i Centraleuropa), sædvanligvis spredte eller i små grupper, ikke i store tæpper. Arten er ret almindelig og vidt udbredt i Europa og er også angivet fra det tempererede Asien samt det nordlige og montane Nordamerika.",
+      "uses": "En god spisesvamp, mere værdsat som smagsgiver end som mættende føde. Den kan steges og bruges i supper, risotto og saucer — anissmagen anbefales undertiden til hvid fisk — og tørrer godt og kan males til krydderi. Pluk kun friske, tydeligt blågrønne eksemplarer, og kog dem før spisning. Blege eller afblegede frugtlegemer bør lades stå, fordi de kan forveksles med andre tragtformede svampe.",
+      "confusion": "Friske blågrønne hatte og den stærke anisduft skiller den fra de fleste lignende arter, men begge kan blegne. Blege eksemplarer kan forveksles med andre duftende tragthatte som Clitocybe fragrans, der er bleg og også dufter af anis. De grønlige kravesvampe Stropharia aeruginosa og S. caerulea kan være grønblå som unge, men har en fedtet eller skællet hat, en ring og mørkt purpurbrune sporer, og dufter ikke af anis. Afblegede frugtlegemer må heller ikke forveksles med giftige hvide tragthatte (ofte kaldt Clitocybe rivulosa eller C. dealbata), som mangler den blågrønne farve og anisduften. Hvis farven er blegnet, og duften ikke er tydeligt anis, skal den ikke spises.",
+      "notes": "Arten blev beskrevet af Bulliard i 1784 som Agaricus odorus og har længe været kendt som Clitocybe odora (Bull.) P. Kumm. I 2023 overførte He, Chen, Bau, Wang og Yang den til Collybia som Collybia odora, det gældende navn i Index Fungorum og Species Fungorum. Mange tjeklister og GBIF anfører stadig Clitocybe odora som accepteret. Det officielle engelske navn i Storbritannien er Aniseed Funnel. Epitetet odora henviser til duften, som er knyttet til anislignende flygtige stoffer (Rapior og kolleger, 2002). Gemte synonymer følger kun Species Fungorums synonymi for Collybia odora; varieteter og former, som var. alba, gemmes ikke som synonymer.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Der Grüne Anis-Trichterling ist ein Waldpilz aus der Familie der Clitocybaceae, lange als Clitocybe odora bekannt und heute in die Gattung Collybia gestellt. Er ist an einem blaugrünen bis spangrünen Hut, blassen, leicht herablaufenden Lamellen und einem starken Anis- oder Fenchelgeruch zu erkennen. Er wächst am Boden in der Laubstreu, besonders in Buchenwäldern, von Mitte Sommer bis in den Herbst. Die auffällige Farbe verblasst oft zu graugrün, bräunlich oder fast weiß. Er ist ein guter Speisepilz, der vor allem als Würze verwendet wird; gesammelt werden sollten nur frische, deutlich blaugrüne Fruchtkörper.",
+      "cap": "Der Hut ist 3–8 cm breit (nordamerikanische Angaben nennen etwa 2,5–7 cm). Zuerst ist er gewölbt, oft mit eingerolltem Rand, später flacht er ab und wird flach trichterförmig oder wellig. Die trockene Oberfläche ist frisch blaugrün, meergrün oder spangrün, fein filzig oder sehr fein faserig und verblasst typischerweise zu blass graugrün, bräunlich oder fast weißlich, manchmal mit dunklerer Mitte. Das Hutfleisch ist dünn und zäh.",
+      "hymenium": "Die Lamellen sind angewachsen bis leicht herablaufend, mäßig gedrängt bis gedrängt, mit häufigen Zwischenlamellen. Sie sind blasser als der Hut, weißlich, cremefarben oder schwach graugrün und können leicht rosa wirken; mit dem Alter blassen sie aus.",
+      "stipe": "Der Stiel ist 3–8 cm lang und 0,5–1,5 cm dick (britische Angaben nennen oft etwa 4–6 × 0,5–1,0 cm). Er ist zylindrisch, an der Basis manchmal leicht verdickt, trocken, seidig faserig, weißlich oder wie der Hut getönt, mit weißen, flaumigen Fasern oder einem filzigen Myzelbüschel an der Basis. Ein Ring fehlt.",
+      "flesh": "Das Fleisch ist dünn, weißlich oder leicht grünlich und verfärbt sich beim Anschnitt nicht. Frisch riecht es stark nach Anis oder Fenchel, und der Geschmack ist ähnlich anisartig. Farbe und Geruch können mit dem Alter verblassen, sodass ältere Fruchtkörper schwerer zu erkennen sind.",
+      "sporePrint": "Das Sporenpulver ist in dünner Auflage weiß oder fast weiß und kann in dicker Auflage cremefarben oder leicht rosa wirken. Die Sporen sind glatt, ellipsoid und inamyloid; angegebene Maße reichen von etwa 5–7 × 3–5 µm bis 6–9 × 3,5–5,5 µm (und 7–9 × 4–5 µm).",
+      "habitat": "Saprotroph am Boden in der Laubstreu, besonders unter Buchen, auch unter Eichen und anderen Laubbäumen und manchmal unter Nadelbäumen. Fruchtkörper erscheinen von Juli bis November (in Großbritannien und Irland typischerweise Juli–Oktober; in Mitteleuropa August–November), meist zerstreut oder in kleinen Gruppen, nicht in großen Scharen. In Europa ist die Art ziemlich häufig und weit verbreitet, außerdem aus dem gemäßigten Asien sowie dem nördlichen und montanen Nordamerika nachgewiesen.",
+      "uses": "Ein guter Speisepilz, der mehr als Würze denn als Sättigungsbeilage geschätzt wird. Er lässt sich braten und in Suppen, Risotto und Saucen verwenden — der Anisgeschmack wird manchmal zu weißem Fisch empfohlen — und trocknet gut und kann zu einem Gewürzpulver vermahlen werden. Nur frische, deutlich blaugrüne Fruchtkörper sammeln und vor dem Verzehr garen. Blasse oder verblasste Fruchtkörper sollten stehen bleiben, weil sie mit anderen Trichterlingen verwechselt werden können.",
+      "confusion": "Frische blaugrüne Hüte und der starke Anisgeruch trennen ihn von den meisten ähnlichen Arten, aber beides kann verblassen. Blasse Exemplare können mit anderen duftenden Trichterlingen wie Clitocybe fragrans verwechselt werden, die blass sind und ebenfalls nach Anis riechen. Die Grünspantäublinge Stropharia aeruginosa und S. caerulea können jung grünblau sein, haben aber einen schmierigen oder schuppigen Hut, einen Ring und dunkel purpurbraune Sporen und riechen nicht nach Anis. Verblasste Fruchtkörper dürfen auch nicht mit giftigen weißen Trichterlingen (oft als Clitocybe rivulosa oder C. dealbata bezeichnet) verwechselt werden, denen die blaugrüne Farbe und der Anisgeruch fehlen. Wenn die Farbe verblasst ist und der Geruch nicht eindeutig nach Anis ist, nicht essen.",
+      "notes": "Die Art wurde 1784 von Bulliard als Agaricus odorus beschrieben und war lange als Clitocybe odora (Bull.) P. Kumm. bekannt. 2023 übertrugen He, Chen, Bau, Wang und Yang sie als Collybia odora in die Gattung Collybia, den aktuellen Namen in Index Fungorum und Species Fungorum. Viele Checklisten und GBIF führen weiterhin Clitocybe odora als akzeptiert. Der offizielle englische Name in Großbritannien ist Aniseed Funnel. Das Epitheton odora bezieht sich auf den Duft, der mit anisartigen flüchtigen Verbindungen in Verbindung gebracht wird (Rapior und Kollegen, 2002). Gespeicherte Synonyme folgen nur der Synonymie von Species Fungorum für Collybia odora; Varietäten und Formen wie var. alba werden nicht als Synonyme gespeichert.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466",
+        "https://mykolog.de/arten/clitocybe-odora/"
+      ],
+      "label": "Grüner Anis-Trichterling"
+    },
+    "en": {
+      "description": "The aniseed funnel is a woodland mushroom in Clitocybaceae, long known as Clitocybe odora and now placed in Collybia. It is recognised by a blue-green to verdigris cap, pale slightly decurrent gills, and a strong smell of aniseed or fennel. It grows on the ground among leaf litter, especially in beech woods, from midsummer into autumn. The distinctive colour often fades to grey-green, brownish or almost white with age or dry weather. It is a good edible, used mainly as a flavouring, but only fresh, clearly blue-green specimens should be collected.",
+      "cap": "The cap is 3–8 cm across (North American accounts give about 2.5–7 cm). It is convex at first, often with an inrolled margin, then flattens and becomes shallowly funnel-shaped or wavy. The dry surface is blue-green, sea-green or verdigris when fresh, finely felted or very finely fibrillose, and typically fades to pale grey-green, brownish or almost whitish, sometimes with a darker centre. The cap flesh is thin and tough.",
+      "hymenium": "The gills are attached to slightly decurrent, moderately spaced to crowded, with frequent short gills. They are paler than the cap, whitish, cream or faintly grey-green, and may look faintly pinkish; they pale with age.",
+      "stipe": "The stem is 3–8 cm long and 0.5–1.5 cm thick (British accounts often give about 4–6 × 0.5–1.0 cm). It is cylindrical, sometimes slightly swollen at the base, dry, silkily fibrous, and whitish or tinted like the cap, with white downy fibres or a felted mycelial tuft at the base. There is no ring.",
+      "flesh": "The flesh is thin, whitish or slightly greenish, and does not change colour when cut. When fresh it smells strongly of aniseed or fennel, and the taste is similarly anise-like. Both the colour and the smell can fade with age, so older specimens may be harder to recognise.",
+      "sporePrint": "The spore print is white or almost white in a thin deposit, and can look creamy or faintly pinkish in a thick one. The spores are smooth, ellipsoid and inamyloid; published sizes range from about 5–7 × 3–5 µm to 6–9 × 3.5–5.5 µm (and 7–9 × 4–5 µm).",
+      "habitat": "Saprotrophic on the ground among leaf litter, especially under beech, also under oak and other broad-leaved trees and sometimes under conifers. Fruit bodies appear from July to November (typically July–October in Britain and Ireland; August–November in Central Europe), usually scattered or in small groups rather than large troops. It is fairly common and widespread in Europe and is also recorded from temperate Asia and from northern and montane North America.",
+      "uses": "A good edible mushroom, valued more as a flavouring than as a bulk food. It can be fried, used in soups, risottos and sauces — the aniseed flavour is sometimes recommended with white fish — and it dries well and can be powdered as a condiment. Collect only fresh, clearly blue-green specimens, and cook them before eating. Pale or faded fruit bodies should be left, because they can be confused with other funnel caps.",
+      "confusion": "Fresh blue-green caps and the strong aniseed smell separate it from most lookalikes, but both can fade. Pale specimens can be confused with other fragrant funnel caps such as Clitocybe fragrans, which is pale and also smells of aniseed. The verdigris agarics Stropharia aeruginosa and S. caerulea can be green-blue when young but have a greasy or scaly cap, a ring, and dark purple-brown spores, and they do not smell of aniseed. Faded fruit bodies should also not be confused with toxic white clitocybes (often called Clitocybe rivulosa or C. dealbata), which lack the blue-green colour and the aniseed smell. If the colour has faded and the smell is not clearly aniseed, do not eat it.",
+      "notes": "The species was described by Bulliard in 1784 as Agaricus odorus and has long been known as Clitocybe odora (Bull.) P. Kumm. In 2023 He, Chen, Bau, Wang and Yang transferred it to Collybia as Collybia odora, the current name in Index Fungorum and Species Fungorum. Many checklists and GBIF still list Clitocybe odora as accepted. The official English name in Britain is Aniseed Funnel; older English names include Aniseed Mushroom, Aniseed Toadstool and Aniseed Funnelcap. The epithet odora refers to the scent, which has been linked to anise-like volatile compounds (Rapior and colleagues, 2002). Stored synonyms follow the Species Fungorum synonymy of Collybia odora only; varieties and forms, such as var. alba, are not stored as synonyms.",
+      "names": [
+        "Aniseed Toadstool",
+        "Aniseed Mushroom",
+        "Aniseed Funnelcap"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=847233",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=847233",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=847233",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=190577",
+        "https://www.gbif.org/species/2531124",
+        "https://www.wikidata.org/wiki/Q913466",
+        "https://www.first-nature.com/fungi/clitocybe-odora.php",
+        "https://www.mushroomexpert.com/clitocybe_odora.html",
+        "https://botany.cz/cs/clitocybe-odora/",
+        "https://www.inaturalist.org/taxa/1525546-Collybia-odora",
+        "https://taxref.mnhn.fr/taxref-web/taxa/31916",
+        "https://species.nbnatlas.org/species/NHMSYS0001478056",
+        "https://www.britmycolsoc.org.uk/resources/english-names"
+      ],
+      "label": "Aniseed Funnel"
+    },
+    "es": {
+      "description": "Collybia odora es un hongo de bosque de la familia Clitocybaceae, largo tiempo conocido como Clitocybe odora y ahora colocado en el género Collybia. Se reconoce por un sombrero azul verdoso a verde de cardenillo, láminas pálidas ligeramente decurrentes y un fuerte olor a anís o hinojo. Crece en el suelo, en la hojarasca, sobre todo en hayedos, desde mediados del verano hasta el otoño. El color característico suele palidecer a gris verdoso, pardo o casi blanco. Es un buen comestible, usado principalmente como condimento, pero solo deben recolectarse ejemplares frescos, claramente azul verdosos.",
+      "cap": "El sombrero mide 3–8 cm de diámetro (las descripciones norteamericanas indican unos 2,5–7 cm). Al principio es convexo, a menudo con el margen enrollado, luego se aplana y se vuelve poco embudado u ondulado. La superficie seca es, en fresco, azul verdosa, verde marina o de cardenillo, finamente afelpada o muy finamente fibrilosa, y suele palidecer a un gris verdoso pálido, pardo o casi blanquecino, a veces con el centro más oscuro. La carne del sombrero es delgada y tenaz.",
+      "hymenium": "Las láminas son adnadas a ligeramente decurrentes, de moderadamente apretadas a apretadas, con frecuentes lamélulas. Son más pálidas que el sombrero, blanquecinas, crema o débilmente gris verdosas, y pueden parecer ligeramente rosadas; palidecen con la edad.",
+      "stipe": "El pie mide 3–8 cm de alto y 0,5–1,5 cm de grosor (las descripciones británicas suelen dar unos 4–6 × 0,5–1,0 cm). Es cilíndrico, a veces un poco ensanchado en la base, seco, sedoso-fibroso, blanquecino o teñido como el sombrero, con fibrillas blancas aterciopeladas o un mechón micelial afelpado en la base. No tiene anillo.",
+      "flesh": "La carne es delgada, blanquecina o ligeramente verdosa, y no cambia de color al cortarla. En fresco huele fuertemente a anís o hinojo, y el sabor es igualmente anisado. Tanto el color como el olor pueden desvanecerse con la edad, por lo que los ejemplares viejos son más difíciles de reconocer.",
+      "sporePrint": "La esporada es blanca o casi blanca en un depósito fino, y puede parecer crema o ligeramente rosada en uno espeso. Las esporas son lisas, elipsoides e inamiloides; los tamaños publicados van de unos 5–7 × 3–5 µm a 6–9 × 3,5–5,5 µm (y 7–9 × 4–5 µm).",
+      "habitat": "Saprótrofo en el suelo, en la hojarasca, especialmente bajo hayas, también bajo robles y otros caducifolios y a veces bajo coníferas. Los carpóforos aparecen de julio a noviembre (típicamente julio–octubre en Gran Bretaña e Irlanda; agosto–noviembre en Europa central), por lo general dispersos o en grupos pequeños, no en grandes tropas. En Europa es bastante común y de amplia distribución, y también se cita de Asia templada y del norte y las montañas de Norteamérica.",
+      "uses": "Buen hongo comestible, más apreciado como condimento que como alimento de volumen. Se puede saltear y usar en sopas, risottos y salsas —el sabor a anís se recomienda a veces con pescado blanco— y se seca bien y puede molerse como condimento. Recolectar solo ejemplares frescos, claramente azul verdosos, y cocinarlos antes de comerlos. Los carpóforos pálidos o desteñidos deben dejarse, porque pueden confundirse con otros embudos.",
+      "confusion": "Los sombreros azul verdosos frescos y el fuerte olor a anís lo separan de la mayoría de las especies parecidas, pero ambos pueden desvanecerse. Los ejemplares pálidos pueden confundirse con otros embudos olorosos como Clitocybe fragrans, que es pálido y también huele a anís. Stropharia aeruginosa y S. caerulea pueden ser verde azulados de jóvenes, pero tienen un sombrero grasiento o escamoso, un anillo y esporas púrpura-pardas oscuras, y no huelen a anís. Los carpóforos desteñidos tampoco deben confundirse con clitocibes blancos tóxicos (a menudo llamados Clitocybe rivulosa o C. dealbata), que carecen del color azul verdoso y del olor a anís. Si el color se ha desvanecido y el olor no es claramente a anís, no debe comerse.",
+      "notes": "La especie fue descrita por Bulliard en 1784 como Agaricus odorus y durante mucho tiempo se conoció como Clitocybe odora (Bull.) P. Kumm. En 2023, He, Chen, Bau, Wang y Yang la transfirieron al género Collybia como Collybia odora, el nombre actual en Index Fungorum y Species Fungorum. Muchas listas y GBIF siguen considerando aceptado Clitocybe odora. El nombre inglés oficial en Gran Bretaña es Aniseed Funnel. El epíteto odora se refiere al olor, relacionado con compuestos volátiles de tipo anís (Rapior y colegas, 2002). Los sinónimos almacenados siguen únicamente la sinonimia de Species Fungorum para Collybia odora; las variedades y formas, como var. alba, no se almacenan como sinónimos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Aniislehtrik on Clitocybaceae sugukonda kuuluv metseenelik, pikka aega tuntud nime all Clitocybe odora ja nüüd paigutatud perekonda Collybia. Teda tuntakse sinakasrohelise kuni vaskrohelise kübaraga, kahvatute, veidi alanevate eoslehekestega ning tugeva aniisi või apteegitilli lõhnaga. Ta kasvab maapinnal lehekõdus, eriti pöögimetsades, kesk suvest sügiseni. Iseloomulik värvus tuhmub sageli hallikasroheliseks, pruunikaks või peaaegu valgeks. See on hea söögiseen, mida kasutatakse peamiselt maitseainena, kuid korjata tuleks ainult värskeid, selgelt sinakasrohelisi viljakehi.",
+      "cap": "Kübar on 3–8 cm lai (Põhja-Ameerika andmed annavad umbes 2,5–7 cm). Alguses on ta kumer, sageli sissekäändunud servaga, hiljem laieneb ja muutub madalalt lehterjaks või laineliseks. Kuiv pind on värskena sinakasroheline, mereroheline või vaskroheline, peenelt viltjas või väga peenelt kiuline ning tuhmub tüüpiliselt kahvatuks hallikasroheliseks, pruunikaks või peaaegu valkjaks, mõnikord tumedama keskmeaga. Kübara liha on õhuke ja sitke.",
+      "hymenium": "Eoslehekesed on kinnitunud kuni veidi alanevad, mõõdukalt tihedad kuni tihedad, sagedaste lühemate eoslehekestega. Need on kübarast kahvatumad, valkjad, kreemikad või nõrgalt hallikasrohelised ning võivad paista kergelt roosakad; vananedes nad tuhmuvad.",
+      "stipe": "Jalg on 3–8 cm kõrge ja 0,5–1,5 cm paks (Briti andmed annavad sageli umbes 4–6 × 0,5–1,0 cm). Ta on silinderjas, alusel mõnikord veidi jämenenud, kuiv, siidjalt kiuline, valkjas või kübaraga samas toonis, valgete uduste kiudude või viltja mütseelitutiga alusel. Rõngas puudub.",
+      "flesh": "Lihakude on õhuke, valkjas või veidi rohekas ega muuda lõikamisel värvi. Värskelt lõhnab ta tugevalt aniisi või apteegitilli järele ning maitse on samuti aniisine. Nii värvus kui lõhn võivad vananedes tuhmuda, seetõttu on vanemaid viljakehi raskem ära tunda.",
+      "sporePrint": "Eospulber on õhukese kihina valge või peaaegu valge ning paksus kihis võib paista kreemikas või kergelt roosakas. Eosed on siledad, ellipsoidsed ja inamüloidsed; avaldatud mõõtmed jäävad umbes 5–7 × 3–5 µm kuni 6–9 × 3,5–5,5 µm (ning 7–9 × 4–5 µm).",
+      "habitat": "Saprotroof maapinnal lehekõdus, eriti pöögi all, samuti tamme ja teiste lehtpuude all ning mõnikord okaspuude all. Viljakehad ilmuvad juulist novembrini (Suurbritannias ja Iirimaal tüüpiliselt juuli–oktoober; Kesk-Euroopas august–november), tavaliselt hajusalt või väikeste rühmadena, mitte suurte salkadena. Liik on Euroopas üsna sage ja laialt levinud ning on teada ka parasvöötme Aasiast ning Põhja-Ameerika põhja- ja mägialadelt.",
+      "uses": "Hea söögiseen, mida hinnatakse rohkem maitseainena kui mahuka toiduna. Teda võib praadida ning kasutada suppides, risottos ja kastmetes — aniisi maitset soovitatakse mõnikord valge kala juurde — ning ta kuivab hästi ja teda võib jahvatada maitseaineks. Korjata tuleks ainult värskeid, selgelt sinakasrohelisi isendeid ja need enne söömist küpsetada. Kahvatud või tuhmunud viljakehad tuleks jätta, sest neid võib segi ajada teiste lehterjate seentega.",
+      "confusion": "Värsked sinakasrohelised kübarad ja tugev aniisilõhn eristavad teda enamikust sarnastest liikidest, kuid mõlemad võivad tuhmuda. Kahvatuid isendeid võib segi ajada teiste lõhnavate lehtrikutega, näiteks liigiga Clitocybe fragrans, mis on kahvatu ja lõhnab samuti aniisi järele. Rohekad kraeseened Stropharia aeruginosa ja S. caerulea võivad noorena olla rohekassinised, kuid neil on limane või soomuseline kübar, rõngas ja tumedad purpurpruunid eosed ning nad ei lõhna aniisi järele. Tuhmunud viljakehi ei tohi segi ajada ka mürgiste valgete lehtrikutega (sageli nimede all Clitocybe rivulosa või C. dealbata), millel puuduvad sinakasroheline värvus ja aniisilõhn. Kui värvus on tuhmunud ja lõhn ei ole selgelt aniisine, ei tohi teda süüa.",
+      "notes": "Liigi kirjeldas Bulliard 1784. aastal nime all Agaricus odorus ning teda on pikka aega tuntud nime all Clitocybe odora (Bull.) P. Kumm. 2023. aastal viisid He, Chen, Bau, Wang ja Yang ta perekonda Collybia nime all Collybia odora, mis on praegune nimi Index Fungorumis ja Species Fungorumis. Paljud nimekirjad ja GBIF peavad endiselt aktsepteerituks nime Clitocybe odora. Ametlik ingliskeelne nimi Suurbritannias on Aniseed Funnel. Epiteet odora viitab lõhnale, mida on seostatud aniisilaadsete lenduvate ühenditega (Rapior ja kolleegid, 2002). Salvestatud sünonüümid järgivad ainult Species Fungorumi sünonüümikat liigile Collybia odora; teisendeid ja vorme, näiteks var. alba, sünonüümidena ei salvestata.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466",
+        "https://et.wikipedia.org/wiki/Aniislehtrik"
+      ],
+      "label": "aniislehtrik"
+    },
+    "fa": {
+      "description": "Collybia odora قارچ جنگلی از تیره Clitocybaceae است که مدت‌ها با نام Clitocybe odora شناخته می‌شد و اکنون در سرده Collybia جای گرفته است. با کلاهک آبی‌سبز تا سبز زنگی، تیغه‌های رنگ‌پریده کمی پایین‌رونده و بوی شدید انیسون یا رازیانه شناخته می‌شود. روی زمین در میان برگ‌ریزه، به‌ویژه در جنگل‌های راش، از اواسط تابستان تا پاییز می‌روید. رنگ مشخص اغلب به سبز مایل به خاکستری، قهوه‌ای یا تقریباً سفید می‌گراید. خوراکی خوبی است که بیشتر به‌عنوان چاشنی به کار می‌رود، اما فقط اندام‌های بارده تازه با رنگ آبی‌سبز آشکار باید برداشت شوند.",
+      "cap": "کلاهک ۳–۸ سانتی‌متر پهنا دارد (گزارش‌های آمریکای شمالی حدود ۲٫۵–۷ سانتی‌متر می‌دهند). نخست محدب است، اغلب با حاشیه برگشته، سپس پهن می‌شود و کم‌عمق قیفی یا موج‌دار می‌گردد. سطح خشک در حالت تازه آبی‌سبز، سبز دریایی یا سبز زنگی، نمدی ظریف یا بسیار ظریف رشته‌ای است و معمولاً به سبز مایل به خاکستری کم‌رنگ، قهوه‌ای یا تقریباً مایل به سفید می‌گراید، گاه با مرکزی تیره‌تر. گوشت کلاهک نازک و سفت است.",
+      "hymenium": "تیغه‌ها چسبیده تا کمی پایین‌رونده، نسبتاً متراکم تا متراکم‌اند و تیغه‌های کوتاه فراوان دارند. کم‌رنگ‌تر از کلاهک، مایل به سفید، کرم یا ضعیف سبز مایل به خاکستری‌اند و ممکن است اندکی صورتی به نظر برسند؛ با سن کم‌رنگ می‌شوند.",
+      "stipe": "ساقه ۳–۸ سانتی‌متر بلندی و ۰٫۵–۱٫۵ سانتی‌متر قطر دارد (گزارش‌های بریتانیایی اغلب حدود ۴–۶ × ۰٫۵–۱٫۰ سانتی‌متر می‌دهند). استوانه‌ای است، گاه در پایه کمی متورم، خشک، ابریشمی-رشته‌ای، مایل به سفید یا همرنگ کلاهک، با رشته‌های سفید کرکی یا دسته‌ای میسلیومی نمدی در پایه. حلقه ندارد.",
+      "flesh": "گوشت نازک، مایل به سفید یا کمی مایل به سبز است و هنگام برش رنگ عوض نمی‌کند. در حالت تازه بوی شدید انیسون یا رازیانه دارد و طعم نیز انیسونی است. هم رنگ و هم بو ممکن است با سن کم‌رنگ شوند، بنابراین تشخیص اندام‌های بارده کهنه‌تر دشوارتر است.",
+      "sporePrint": "گرده هاگ در لایه نازک سفید یا تقریباً سفید است و در لایه ضخیم ممکن است کرم یا اندکی صورتی به نظر برسد. هاگ‌ها صاف، بیضوی و نانشاسته‌ای‌اند؛ اندازه‌های منتشرشده از حدود ۵–۷ × ۳–۵ میکرومتر تا ۶–۹ × ۳٫۵–۵٫۵ میکرومتر (و ۷–۹ × ۴–۵ میکرومتر) است.",
+      "habitat": "ساپروتروف روی زمین در میان برگ‌ریزه، به‌ویژه زیر راش، همچنین زیر بلوط و دیگر پهن‌برگان و گاه زیر مخروطیان. اندام‌های بارده از ژوئیه تا نوامبر ظاهر می‌شوند (معمولاً ژوئیه–اکتبر در بریتانیا و ایرلند؛ اوت–نوامبر در اروپای مرکزی)، معمولاً پراکنده یا در گروه‌های کوچک، نه در دسته‌های بزرگ. در اروپا نسبتاً رایج و گسترده است و از آسیای معتدل و نیز شمال و مناطق کوهستانی آمریکای شمالی نیز گزارش شده است.",
+      "uses": "قارچ خوراکی خوبی است که بیشتر به‌عنوان چاشنی ارزش دارد تا خوراک پرحجم. می‌توان آن را سرخ کرد و در سوپ، ریزوتو و سس به کار برد — طعم انیسون گاه با ماهی سفید توصیه می‌شود — و خوب خشک می‌شود و می‌توان آن را به ادویه آسیاب کرد. فقط نمونه‌های تازه با رنگ آبی‌سبز آشکار برداشت شوند و پیش از خوردن پخته شوند. اندام‌های بارده رنگ‌پریده یا رنگ‌باخته باید رها شوند، زیرا ممکن است با دیگر قارچ‌های قیفی‌شکل اشتباه شوند.",
+      "confusion": "کلاهک‌های آبی‌سبز تازه و بوی شدید انیسون آن را از بیشتر گونه‌های مشابه جدا می‌کند، اما هر دو ممکن است کم‌رنگ شوند. نمونه‌های رنگ‌پریده ممکن است با دیگر قیفی‌های معطر مانند Clitocybe fragrans اشتباه شوند که رنگ‌پریده است و آن نیز بوی انیسون دارد. Stropharia aeruginosa و S. caerulea در جوانی ممکن است سبزآبی باشند، اما کلاهک چرب یا پولک‌دار، حلقه و هاگ‌های قهوه‌ای مایل به ارغوانی تیره دارند و بوی انیسون نمی‌دهند. اندام‌های بارده رنگ‌باخته را نیز نباید با قیفی‌های سفید سمی (که اغلب Clitocybe rivulosa یا C. dealbata نامیده می‌شوند) اشتباه گرفت که رنگ آبی‌سبز و بوی انیسون ندارند. اگر رنگ پریده و بو به‌روشنی انیسون نیست، نباید خورده شود.",
+      "notes": "این گونه را بولیار در سال ۱۷۸۴ با نام Agaricus odorus توصیف کرد و مدت‌ها با نام Clitocybe odora (Bull.) P. Kumm. شناخته می‌شد. در سال ۲۰۲۳، He، Chen، Bau، Wang و Yang آن را به سرده Collybia با نام Collybia odora منتقل کردند که نام جاری در Index Fungorum و Species Fungorum است. بسیاری از سیاهه‌ها و GBIF همچنان Clitocybe odora را نام پذیرفته می‌دانند. نام رسمی انگلیسی در بریتانیا Aniseed Funnel است. صفت odora به بو اشاره دارد که با ترکیبات فرّار از نوع انیسون مرتبط شده است (Rapior و همکاران، ۲۰۰۲). مترادف‌های ذخیره‌شده تنها از مترادف‌شناسی Species Fungorum برای Collybia odora پیروی می‌کنند؛ واریته‌ها و شکل‌ها، مانند var. alba، به‌عنوان مترادف ذخیره نمی‌شوند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Vihertuoksumalikka on Clitocybaceae-heimoon kuuluva metsäsieni, joka on pitkään tunnettu nimellä Clitocybe odora ja sijoitetaan nykyisin sukuun Collybia. Sen tunnistaa sinivihreästä tai vihertävästä lakista, vaaleista, hieman johteista heltoista ja voimakkaasta aniksen tai fenkolin tuoksusta. Se kasvaa maassa lehtikarikkeessa, etenkin pyökkimetsissä, keskikesästä syksyyn. Tyypillinen väri haalistuu usein harmaanvihreäksi, ruskehtavaksi tai lähes valkoiseksi. Se on hyvä ruokasieni, jota käytetään lähinnä mausteena, mutta poimitaan vain tuoreita, selvästi sinivihreitä itiöemiä.",
+      "cap": "Lakin läpimitta on 3–8 cm (pohjoisamerikkalaiset tiedot antavat noin 2,5–7 cm). Se on aluksi kupera, usein sisäänkäärityin laidon, myöhemmin laakenee ja muuttuu matalan suppilomaiseksi tai aaltoilevaksi. Kuiva pinta on tuoreena sinivihreä, merenvihreä tai vihertävä, hienokarvatunteinen tai hyvin hienosyinen, ja haalistuu tyypillisesti vaalean harmaanvihreäksi, ruskehtavaksi tai lähes valkeahkoksi, joskus tummemmalla keskustalla. Lakin malto on ohutta ja sitkeää.",
+      "hymenium": "Heltat ovat kiinnittyneitä tai hieman johteisia, kohtalaisen tiheitä tai tiheitä, ja lyhyitä helttoja on runsaasti. Ne ovat lakkia vaaleampia, valkeahkoja, kermanvärisiä tai heikosti harmaanvihreitä ja voivat näyttää hieman vaaleanpunertavilta; ne haalistuvat iän myötä.",
+      "stipe": "Jalka on 3–8 cm korkea ja 0,5–1,5 cm paksu (brittiläiset tiedot antavat usein noin 4–6 × 0,5–1,0 cm). Se on lieriömäinen, tyvestä joskus hieman paksuuntunut, kuiva, silkinkiiltävän syinen, valkeahko tai lakin väriseksi sävyttynyt, valkoisine nukkamaisine säikeineen tai huopamaisine rihmastotupsuineen tyvessä. Renkasta ei ole.",
+      "flesh": "Malto on ohutta, valkeahkoa tai hieman vihertävää eikä muuta väriään leikattaessa. Tuoreena se tuoksuu voimakkaasti anikselta tai fenkolilta, ja maku on samoin aniksinen. Sekä väri että tuoksu voivat haalistua iän myötä, joten vanhempia itiöemiä on vaikeampi tunnistaa.",
+      "sporePrint": "Itiöpöly on ohuena kerroksena valkoista tai lähes valkoista ja voi paksuna kerroksena näyttää kermanväriseltä tai heikosti vaaleanpunertavalta. Itiöt ovat sileitä, ellipsoideja ja inamyloideja; julkaistut mitat vaihtelevat noin 5–7 × 3–5 µm:stä 6–9 × 3,5–5,5 µm:iin (ja 7–9 × 4–5 µm).",
+      "habitat": "Lahottaja maassa lehtikarikkeessa, etenkin pyökin alla, myös tammen ja muiden lehtipuiden alla ja joskus havupuiden alla. Itiöemiä ilmestyy heinäkuusta marraskuuhun (Britanniassa ja Irlannissa tyypillisesti heinä–lokakuu; Keski-Euroopassa elo–marraskuu), yleensä hajallaan tai pieninä ryhminä, ei suurina joukkoina. Laji on Euroopassa melko yleinen ja laajalle levinnyt, ja sitä on ilmoitettu myös lauhkeasta Aasiasta sekä pohjoisesta ja vuoristoisesta Pohjois-Amerikasta.",
+      "uses": "Hyvä ruokasieni, jota arvostetaan enemmän mausteena kuin määrällisenä ruokana. Sitä voidaan paistaa ja käyttää keittoihin, risottioon ja kastikkeisiin — aniksen makua suositellaan joskus valkoisen kalan kanssa — ja se kuivuu hyvin ja voidaan jauhaa mausteeksi. Poimitaan vain tuoreita, selvästi sinivihreitä yksilöitä, ja ne kypsennetään ennen syöntiä. Vaaleat tai haalistuneet itiöemät kannattaa jättää, koska ne voidaan sekoittaa muihin malikkamaisiin sieniin.",
+      "confusion": "Tuoreet sinivihreät lakit ja voimakas aniksen tuoksu erottavat sen useimmista samannäköisistä lajeista, mutta molemmat voivat haalistua. Vaaleita yksilöitä voidaan sekoittaa muihin tuoksuviin malikkoihin, kuten lajiin Clitocybe fragrans, joka on vaalea ja tuoksuu myös anikselta. Viherkaulussienet Stropharia aeruginosa ja S. caerulea voivat olla nuorina vihertävänsinisiä, mutta niillä on limaista tai suomuinen lakki, rengas ja tumman purppuranruskeat itiöt, eivätkä ne tuoksu anikselta. Haalistuneita itiöemiä ei myöskään pidä sekoittaa myrkyllisiin valkoisiin malikkoihin (usein nimillä Clitocybe rivulosa tai C. dealbata), joilta puuttuvat sinivihreä väri ja aniksen tuoksu. Jos väri on haalistunut eikä tuoksu ole selvästi aniksinen, sientä ei pidä syödä.",
+      "notes": "Lajin kuvasi Bulliard vuonna 1784 nimellä Agaricus odorus, ja se on pitkään tunnettu nimellä Clitocybe odora (Bull.) P. Kumm. Vuonna 2023 He, Chen, Bau, Wang ja Yang siirsivät sen sukuun Collybia nimellä Collybia odora, joka on nykyinen nimi Index Fungorumissa ja Species Fungorumissa. Monet luettelot ja GBIF pitävät edelleen hyväksyttynä nimenä nimeä Clitocybe odora. Virallinen englanninkielinen nimi Britanniassa on Aniseed Funnel. Epiteetti odora viittaa tuoksuun, joka on yhdistetty aniksenkaltaisiin haihtuviin yhdisteisiin (Rapior ja kollegat, 2002). Tallennetut synonyymit noudattavat vain Species Fungorumin synonymiaa lajille Collybia odora; muunnoksia ja muotoja, kuten var. alba, ei tallenneta synonyymeiksi.",
+      "names": [],
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.73307",
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "vihertuoksumalikka"
+    },
+    "fr": {
+      "description": "Le Clitocybe odorant est un champignon forestier de la famille des Clitocybaceae, longtemps connu sous le nom de Clitocybe odora et désormais placé dans le genre Collybia. On le reconnaît à son chapeau bleu-vert à vert-de-gris, à ses lames pâles un peu décurrentes et à sa forte odeur d’anis ou de fenouil. Il pousse au sol dans la litière, surtout dans les hêtraies, de la mi-été à l’automne. La couleur caractéristique pâlit souvent vers le gris-vert, le brunâtre ou presque le blanc. C’est un bon comestible, utilisé surtout comme aromate, mais seuls les spécimens frais, nettement bleu-vert, doivent être récoltés.",
+      "cap": "Le chapeau mesure 3–8 cm de diamètre (les descriptions nord-américaines indiquent environ 2,5–7 cm). Il est d’abord convexe, souvent à marge enroulée, puis s’étale et devient faiblement en entonnoir ou ondulé. La cuticule sèche est bleu-vert, vert mer ou vert-de-gris à l’état frais, finement feutrée ou très finement fibrilleuse, et pâlit typiquement vers un gris-vert pâle, le brunâtre ou presque le blanchâtre, parfois avec le centre plus foncé. La chair du chapeau est mince et coriace.",
+      "hymenium": "Les lames sont adnées à légèrement décurrentes, assez serrées à serrées, avec de nombreuses lamellules. Elles sont plus pâles que le chapeau, blanchâtres, crème ou faiblement gris-vert, et peuvent paraître légèrement rosées ; elles pâlissent avec l’âge.",
+      "stipe": "Le pied mesure 3–8 cm de haut et 0,5–1,5 cm d’épaisseur (les descriptions britanniques indiquent souvent environ 4–6 × 0,5–1,0 cm). Il est cylindrique, parfois un peu renflé à la base, sec, soyeux-fibreux, blanchâtre ou teinté comme le chapeau, avec des fibrilles blanches duveteuses ou une touffe mycélienne feutrée à la base. Il n’y a pas d’anneau.",
+      "flesh": "La chair est mince, blanchâtre ou légèrement verdâtre, et ne change pas de couleur à la coupe. À l’état frais, elle sent fortement l’anis ou le fenouil, et la saveur est également anisée. La couleur et l’odeur peuvent s’estomper avec l’âge, ce qui rend les exemplaires âgés plus difficiles à reconnaître.",
+      "sporePrint": "La sporée est blanche ou presque blanche en dépôt mince, et peut paraître crème ou légèrement rosée en dépôt épais. Les spores sont lisses, ellipsoïdes et inamyloïdes ; les dimensions publiées vont d’environ 5–7 × 3–5 µm à 6–9 × 3,5–5,5 µm (et 7–9 × 4–5 µm).",
+      "habitat": "Saprotrophe au sol dans la litière, surtout sous les hêtres, aussi sous les chênes et d’autres feuillus, parfois sous des conifères. Les sporophores apparaissent de juillet à novembre (typiquement juillet–octobre en Grande-Bretagne et en Irlande ; août–novembre en Europe centrale), généralement dispersés ou en petits groupes plutôt qu’en grandes troupes. L’espèce est assez commune et largement répandue en Europe, et est aussi signalée d’Asie tempérée ainsi que du nord et des montagnes d’Amérique du Nord.",
+      "uses": "Bon champignon comestible, apprécié davantage comme aromate que comme aliment de volume. On peut le faire revenir et l’utiliser dans les soupes, risottos et sauces — la saveur anisée est parfois recommandée avec le poisson blanc — et il se sèche bien et peut être réduit en condiment. Ne récolter que des spécimens frais, nettement bleu-vert, et les cuire avant de les manger. Les sporophores pâles ou décolorés doivent être laissés, car on peut les confondre avec d’autres clitocybes.",
+      "confusion": "Les chapeaux bleu-vert frais et la forte odeur d’anis le distinguent de la plupart des espèces voisines, mais les deux peuvent s’estomper. Les spécimens pâles peuvent être confondus avec d’autres clitocybes odorants comme Clitocybe fragrans, pâle et sentant aussi l’anis. Les strophairea Stropharia aeruginosa et S. caerulea peuvent être vert-bleu dans la jeunesse, mais ont un chapeau visqueux ou squamuleux, un anneau et des spores brun-pourpre foncé, et ne sentent pas l’anis. Les sporophores décolorés ne doivent pas non plus être confondus avec des clitocybes blancs toxiques (souvent appelés Clitocybe rivulosa ou C. dealbata), dépourvus de la couleur bleu-vert et de l’odeur d’anis. Si la couleur a pâli et que l’odeur n’est pas clairement anisée, ne pas le consommer.",
+      "notes": "L’espèce a été décrite par Bulliard en 1784 sous le nom d’Agaricus odorus et a longtemps été connue comme Clitocybe odora (Bull.) P. Kumm. En 2023, He, Chen, Bau, Wang et Yang l’ont transférée dans le genre Collybia sous le nom de Collybia odora, nom actuel dans Index Fungorum et Species Fungorum. De nombreuses listes et GBIF considèrent encore Clitocybe odora comme le nom accepté. Le nom anglais officiel en Grande-Bretagne est Aniseed Funnel. L’épithète odora se rapporte à l’odeur, liée à des composés volatils de type anis (Rapior et collaborateurs, 2002). Les synonymes conservés suivent uniquement la synonymie de Species Fungorum pour Collybia odora ; les variétés et formes, comme var. alba, ne sont pas conservées comme synonymes.",
+      "names": [],
+      "sourceUrls": [
+        "https://taxref.mnhn.fr/taxref-web/taxa/31916"
+      ],
+      "label": "Clitocybe odorant"
+    },
+    "he": {
+      "description": "Collybia odora הוא פטריית יער ממשפחת Clitocybaceae, שנודעה זמן רב בשם Clitocybe odora וכיום משויכת לסוג Collybia. מזהים אותה לפי כובע כחול-ירוק עד ירוק חלודה, דפים חיוורים היורדים מעט במורד הרגל, וריח חזק של אניס או שומר. היא גדלה על הקרקע בשכבת עלים, בייחוד ביערות אשור, מאמצע הקיץ עד הסתיו. הצבע האופייני דוהה לעיתים קרובות לירוק-אפרפר, חום או כמעט לבן. זו פטריית מאכל טובה, המשמשת בעיקר כתיבול, אך יש לאסוף רק גופי פרי טריים שצבעם כחול-ירוק בבירור.",
+      "cap": "קוטר הכובע 3–8 ס\"מ (תיאורים מצפון אמריקה מציינים כ-2.5–7 ס\"מ). תחילה הוא קמור, לעיתים קרובות עם שוליים מגולגלים פנימה, אחר כך משתטח ונעשה דמוי משפך רדוד או גלי. המשטח היבש כחול-ירוק, ירוק ים או ירוק חלודה במצב טרי, לבד עדין או סיבי מאוד, ובדרך כלל דוהה לירוק-אפרפר חיוור, חום או כמעט לבנבן, לעיתים עם מרכז כהה יותר. בשר הכובע דק וקשיח.",
+      "hymenium": "הדפים יושבים או יורדים מעט במורד הרגל, צפופים במידה בינונית עד צפופים, עם דפים קצרים רבים. הם חיוורים מהכובע, לבנבנים, קרם או ירוק-אפרפר חלש, ועשויים להיראות ורדרדים מעט; הם מחווירים עם הגיל.",
+      "stipe": "הרגל גובהה 3–8 ס\"מ ועוביה 0.5–1.5 ס\"מ (תיאורים בריטיים מציינים לעיתים קרובות כ-4–6 × 0.5–1.0 ס\"מ). היא גלילית, לעיתים מעט נפוחה בבסיס, יבשה, סיבית כמשי, לבנבנה או צבועה ככובע, עם סיבים לבנים פלומתיים או ציצת תפטיר דמוית לבד בבסיס. אין טבעת.",
+      "flesh": "הבשר דק, לבנבן או ירקרק מעט, ואינו משנה צבע בחיתוך. במצב טרי הוא מריח חזק אניס או שומר, והטעם אף הוא אניסי. גם הצבע וגם הריח עלולים לדהות עם הגיל, ולכן קשה יותר לזהות גופי פרי ישנים.",
+      "sporePrint": "אבקת הנבגים לבנה או כמעט לבנה בשכבה דקה, ועשויה להיראות קרם או ורדרדה מעט בשכבה עבה. הנבגים חלקים, אליפסואידיים ואינם עמילואידיים; המידות שפורסמו נעות מכ-5–7 × 3–5 מיקרומטר עד 6–9 × 3.5–5.5 מיקרומטר (ו-7–9 × 4–5 מיקרומטר).",
+      "habitat": "ספרוטרוף על הקרקע בשכבת עלים, בייחוד תחת אשור, גם תחת אלון ועצים רחבי-עלים אחרים ולעיתים תחת מחטניים. גופי הפרי מופיעים מיולי עד נובמבר (בדרך כלל יולי–אוקטובר בבריטניה ובאירלנד; אוגוסט–נובמבר במרכז אירופה), בדרך כלל מפוזרים או בקבוצות קטנות, לא בלהקות גדולות. באירופה המין שכיח למדי ורחב תפוצה, ומדווח גם מאסיה הממוזגת ומצפון אמריקה הצפונית וההררית.",
+      "uses": "פטריית מאכל טובה, המוערכת יותר כתיבול מאשר כמזון בנפח. אפשר לטגן אותה ולהשתמש בה במרקים, ריזוטו ורטבים — טעם האניס מומלץ לעיתים עם דג לבן — והיא מתייבשת היטב וניתן לטחון אותה לתבלין. אוספים רק פרטים טריים שצבעם כחול-ירוק בבירור, ומבשלים אותם לפני האכילה. יש להשאיר גופי פרי חיוורים או דהויים, כי אפשר לבלבל אותם עם משפכיות אחרות.",
+      "confusion": "כובעים כחולים-ירוקים טריים וריח אניס חזק מבדילים אותה מרוב המינים הדומים, אך שניהם עלולים לדהות. פרטים חיוורים אפשר לבלבל עם משפכיות ריחניות אחרות כגון Clitocybe fragrans, שהיא חיוורת ומריחה אף היא אניס. Stropharia aeruginosa ו-S. caerulea עשויות להיות ירוקות-כחולות בצעירותן, אך יש להן כובע שמנוני או קשקשי, טבעת ונבגים ארגמן-חומים כהים, והן אינן מריחות אניס. אין לבלבל גופי פרי דהויים גם עם משפכיות לבנות רעילות (הנקראות לעיתים Clitocybe rivulosa או C. dealbata), שחסרים להן הצבע הכחול-ירוק וריח האניס. אם הצבע דהה והריח אינו אניס בבירור, אין לאכול אותה.",
+      "notes": "המין תואר על ידי בוליאר ב-1784 בשם Agaricus odorus, ונודע זמן רב כ-Clitocybe odora (Bull.) P. Kumm. בשנת 2023 העבירו אותו He, Chen, Bau, Wang ו-Yang לסוג Collybia בשם Collybia odora, השם העדכני ב-Index Fungorum וב-Species Fungorum. רשימות רבות ו-GBIF עדיין רואות את Clitocybe odora כשם המקובל. השם האנגלי הרשמי בבריטניה הוא Aniseed Funnel. הכינוי odora מתייחס לריח, שנקשר לתרכובות נדיפות מסוג אניס (Rapior ועמיתים, 2002). השמות הנרדפים המאוחסנים עוקבים רק אחר הסינונימיקה של Species Fungorum ל-Collybia odora; זנים וצורות כגון var. alba אינם מאוחסנים כשמות נרדפים.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Collybia odora क्लिटोसायबेसी परिवार का एक वन मशरूम है, जिसे लंबे समय तक Clitocybe odora के नाम से जाना गया और अब इसे वंश Collybia में रखा गया है। इसे नीले-हरे से वर्डिग्रिस-हरे छत्र, हल्के थोड़े नीचे की ओर झुके गिल और सौंफ या फेनैल जैसी तेज़ गंध से पहचाना जाता है। यह भूमि पर पत्ती-कचरे में उगता है, विशेषकर बीच के जंगलों में, मध्य ग्रीष्म से शरद तक। विशिष्ट रंग अक्सर धूसर-हरा, भूरा या लगभग सफेद हो जाता है। यह अच्छा खाद्य मशरूम है, मुख्यतः स्वाद के लिए उपयोग होता है, पर केवल ताज़े, स्पष्ट रूप से नीले-हरे फलनिकाय ही तोड़ने चाहिए।",
+      "cap": "छत्र 3–8 सेमी चौड़ा होता है (उत्तर अमेरिकी विवरण लगभग 2.5–7 सेमी देते हैं)। पहले यह उत्तल होता है, अक्सर अंदर मुड़े किनारे के साथ, बाद में चपटा होकर उथला कीपाकार या लहरदार हो जाता है। सूखी सतह ताज़ी अवस्था में नीली-हरी, समुद्री हरी या वर्डिग्रिस-हरी, बारीक महसूसी या अत्यंत बारीक रेशेदार होती है, और आमतौर पर हल्के धूसर-हरे, भूरे या लगभग सफेदी लिए रंग में फीकी पड़ जाती है, कभी-कभी गहरे केंद्र के साथ। छत्र का गूदा पतला और सख्त होता है।",
+      "hymenium": "गिल जुड़े हुए से लेकर थोड़े नीचे की ओर झुके, मध्यम सघन से सघन होते हैं, और छोटे गिल अक्सर होते हैं। वे छत्र से हल्के, सफेदी लिए, क्रीम या हल्के धूसर-हरे होते हैं और हल्के गुलाबी दिखाई दे सकते हैं; उम्र के साथ फीके पड़ते हैं।",
+      "stipe": "दंड 3–8 सेमी ऊँचा और 0.5–1.5 सेमी मोटा होता है (ब्रिटिश विवरण अक्सर लगभग 4–6 × 0.5–1.0 सेमी देते हैं)। यह बेलनाकार है, आधार पर कभी-कभी थोड़ा फूला, सूखा, रेशमी रेशेदार, सफेदी लिए या छत्र जैसा रंगा, आधार पर सफेद रोएँदार रेशों या महसूसी कवकजाल गुच्छे के साथ। वलय नहीं होता।",
+      "flesh": "गूदा पतला, सफेदी लिए या थोड़ा हरित है और काटने पर रंग नहीं बदलता। ताज़ा होने पर इसमें सौंफ या फेनैल की तेज़ गंध होती है, और स्वाद भी वैसा ही सौंफ़ जैसा है। रंग और गंध दोनों उम्र के साथ फीके पड़ सकते हैं, इसलिए पुराने फलनिकायों को पहचानना कठिन होता है।",
+      "sporePrint": "बीजाणु छाप पतली परत में सफेद या लगभग सफेद होती है, और मोटी परत में क्रीम या हल्की गुलाबी दिखाई दे सकती है। बीजाणु चिकने, दीर्घवृत्ताकार और अनामाइलॉइड हैं; प्रकाशित आकार लगभग 5–7 × 3–5 माइक्रोमीटर से 6–9 × 3.5–5.5 माइक्रोमीटर (और 7–9 × 4–5 माइक्रोमीटर) तक हैं।",
+      "habitat": "पत्ती-कचरे में भूमि पर मृतजीवी, विशेषकर बीच के नीचे, साथ ही ओक और अन्य चौड़ी पत्ती वाले वृक्षों के नीचे और कभी-कभी शंकुधारियों के नीचे। फलनिकाय जुलाई से नवंबर तक आते हैं (ब्रिटेन और आयरलैंड में आमतौर पर जुलाई–अक्टूबर; मध्य यूरोप में अगस्त–नवंबर), सामान्यतः बिखरे या छोटे समूहों में, बड़े झुंडों में नहीं। यूरोप में यह प्रजाति काफी सामान्य और व्यापक है, और इसे शीतोष्ण एशिया तथा उत्तरी और पर्वतीय उत्तरी अमेरिका से भी दर्ज किया गया है।",
+      "uses": "अच्छा खाद्य मशरूम, मात्रा वाले भोजन से अधिक स्वाद के रूप में सराहा जाता है। इसे तलकर सूप, रिसोटो और सॉसों में प्रयोग किया जा सकता है — सौंफ का स्वाद कभी-कभी सफेद मछली के साथ सुझाया जाता है — और यह अच्छी तरह सूखता है तथा मसाले के रूप में पिसा जा सकता है। केवल ताज़े, स्पष्ट रूप से नीले-हरे नमूने तोड़ें और खाने से पहले पकाएँ। हल्के या फीके फलनिकाय छोड़ देने चाहिए, क्योंकि उन्हें अन्य कीपाकार मशरूमों से भ्रमित किया जा सकता है।",
+      "confusion": "ताज़े नीले-हरे छत्र और तेज़ सौंफ की गंध इसे अधिकांश समान प्रजातियों से अलग करते हैं, पर दोनों फीके पड़ सकते हैं। हल्के नमूनों को अन्य सुगंधित कीपाकार मशरूमों से भ्रमित किया जा सकता है, जैसे Clitocybe fragrans, जो हल्का होता है और उसमें भी सौंफ की गंध होती है। Stropharia aeruginosa और S. caerulea युवावस्था में हरे-नीले हो सकते हैं, पर उनका छत्र चिकना या शल्कित होता है, वलय होता है और बीजाणु गहरे बैंगनी-भूरे होते हैं, और उनमें सौंफ की गंध नहीं होती। फीके फलनिकायों को विषैले सफेद क्लिटोसाइब (अक्सर Clitocybe rivulosa या C. dealbata कहा जाता है) से भी नहीं मिलाना चाहिए, जिनमें नीला-हरा रंग और सौंफ की गंध नहीं होती। यदि रंग फीका पड़ गया है और गंध स्पष्ट रूप से सौंफ जैसी नहीं है, तो इसे न खाएँ।",
+      "notes": "इस प्रजाति का वर्णन 1784 में बुलियार ने Agaricus odorus के रूप में किया और इसे लंबे समय तक Clitocybe odora (Bull.) P. Kumm. के नाम से जाना गया। 2023 में He, Chen, Bau, Wang और Yang ने इसे Collybia odora के रूप में वंश Collybia में स्थानांतरित किया, जो Index Fungorum और Species Fungorum में वर्तमान नाम है। कई सूचियाँ और GBIF अभी भी Clitocybe odora को स्वीकृत नाम मानती हैं। ब्रिटेन में आधिकारिक अंग्रेज़ी नाम Aniseed Funnel है। विशेषण odora गंध की ओर संकेत करता है, जिसे सौंफ-प्रकार के वाष्पशील यौगिकों से जोड़ा गया है (Rapior और सहयोगी, 2002)। संग्रहीत पर्याय केवल Species Fungorum की Collybia odora पर्यायवाची सूची का अनुसरण करते हैं; किस्मों और रूपों, जैसे var. alba, को पर्याय के रूप में नहीं रखा जाता।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Collybia odora je šumska gljiva porodice Clitocybaceae, dugo poznata kao Clitocybe odora, a sada smještena u rod Collybia. Prepoznaje se po plavozelenom do bakreno zelenom klobuku, bljedim, malo silaznim listićima i jakom mirisu na anis ili komorač. Raste na tlu u lisnom otpadu, osobito u bukovim šumama, od visokog ljeta do jeseni. Karakteristična boja često izblijedi u sivozelenu, smeđastu ili gotovo bijelu. Dobra je jestiva gljiva, uglavnom korištena kao začin, ali treba brati samo svježa, jasno plavozelena plodišta.",
+      "cap": "Klobuk ima 3–8 cm u promjeru (sjevernoamerički podatci navode oko 2,5–7 cm). Isprva je ispupčen, često sa zavijenim rubom, kasnije se spljošti i postaje plitko lijevkast ili valovit. Suha površina je u svježem stanju plavozelena, morsko zelena ili bakreno zelena, fino filcasta ili vrlo fino vlaknasta te tipično izblijedi u blijedo sivozelenu, smeđastu ili gotovo bjelkastu, ponekad s tamnijim središtem. Meso klobuka je tanko i žilavo.",
+      "hymenium": "Listići su prirasli do malo silaznih, umjereno gusti do gusti, s čestim kraćim listićima. Bljeđi su od klobuka, bjelkasti, kremasti ili slabo sivozeleni i mogu izgledati malo ružičasto; s godinama blijede.",
+      "stipe": "Stručak je visok 3–8 cm i debel 0,5–1,5 cm (britanski podatci često navode oko 4–6 × 0,5–1,0 cm). Cilindričan je, pri dnu ponekad malo zadebljan, suh, svilenkasto vlaknast, bjelkast ili obojen kao klobuk, s bijelim puhastim vlakancima ili filcastim micelijskim čuperkom pri dnu. Prstena nema.",
+      "flesh": "Meso je tanko, bjelkasto ili malo zelenkasto i pri presjeku ne mijenja boju. Svježe jako miriše na anis ili komorač, a okus je također anisast. I boja i miris mogu s godinama izblijedjeti, pa je starija plodišta teže prepoznati.",
+      "sporePrint": "Otisak spora je u tankom sloju bijel ili gotovo bijel, a u debelom može biti kremast ili malo ružičast. Spore su glatke, elipsoidne i inamiloidne; objavljene mjere idu od oko 5–7 × 3–5 µm do 6–9 × 3,5–5,5 µm (i 7–9 × 4–5 µm).",
+      "habitat": "Saprotrofna gljiva na tlu u lisnom otpadu, osobito pod bukvama, također pod hrastovima i drugim bjelogoricama te ponekad pod crnogoricama. Plodišta se pojavljuju od srpnja do studenoga (u Britaniji i Irskoj tipično srpanj–listopad; u srednjoj Europi kolovoz–studeni), obično raspršeno ili u malim skupinama, ne u velikim jatima. U Europi je vrsta prilično česta i široko rasprostranjena, zabilježena je i iz umjerene Azije te sa sjeverne i planinske Sjeverne Amerike.",
+      "uses": "Dobra jestiva gljiva, više cijenjena kao začin nego kao obimna hrana. Može se pržiti i koristiti u juhama, rižotima i umacima — anisasti okus ponekad se preporučuje uz bijelu ribu — dobro se suši i može se samljeti u začin. Beru se samo svježa, jasno plavozelena plodišta i kuhaju se prije jela. Bljeda ili izblijedjela plodišta treba ostaviti jer se mogu zamijeniti s drugim lijevkastim gljivama.",
+      "confusion": "Svježi plavozeleni klobuci i jaki miris na anis odvajaju je od većine sličnih vrsta, ali oboje može izblijedjeti. Bljeda plodišta mogu se zamijeniti s drugim mirisnim lijevkama poput Clitocybe fragrans, koja je blijeda i također miriše na anis. Stropharia aeruginosa i S. caerulea mogu biti zelenomodre u mladosti, ali imaju masni ili ljusnasti klobuk, prsten i tamno purpurnosmeđe spore te ne mirišu na anis. Izblijedjela plodišta ne treba miješati ni s otrovnim bijelim lijevkama (često zvanima Clitocybe rivulosa ili C. dealbata), koje nemaju plavozelenu boju ni miris na anis. Ako je boja izblijedjela i miris nije jasno anisast, ne jede se.",
+      "notes": "Vrstu je 1784. opisao Bulliard kao Agaricus odorus i dugo je bila poznata kao Clitocybe odora (Bull.) P. Kumm. Godine 2023. He, Chen, Bau, Wang i Yang prenijeli su je u rod Collybia kao Collybia odora, sadašnje ime u Index Fungorum i Species Fungorum. Mnogi popisi i GBIF još uvijek navode Clitocybe odora kao prihvaćeno ime. Službeno englesko ime u Britaniji je Aniseed Funnel. Epitet odora odnosi se na miris, povezan s hlapljivim spojevima anisnog tipa (Rapior i suradnici, 2002). Pohranjeni sinonimi slijede samo sinonimiku Species Fungorum za Collybia odora; varijeteti i oblici, poput var. alba, ne pohranjuju se kao sinonimi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "A zöld ánizsgomba a Clitocybaceae családba tartozó erdei gomba, hosszan Clitocybe odora néven ismert, ma a Collybia nemzetségbe sorolják. Kékészöld vagy patinazöld kalapjáról, halvány, kissé lefutó lemezeiről és erős ánizs- vagy édesköményillatáról ismerhető fel. Talajon, avarban nő, különösen bükkösökben, nyár közepétől őszig. A jellegzetes szín gyakran szürkészöldre, barnásra vagy csaknem fehérre fakul. Jó evőgomba, inkább fűszerként használják, de csak friss, határozottan kékészöld termőtesteket szabad szedni.",
+      "cap": "A kalap 3–8 cm széles (észak-amerikai adatok szerint körülbelül 2,5–7 cm). Eleinte domború, gyakran begöngyölt széllel, később kiterül, sekélyen tölcséressé vagy hullámossá válik. Száraz felszíne frissen kékészöld, tengerzöld vagy patinazöld, finoman nemezes vagy nagyon finoman szálas, és tipikusan halvány szürkészöldre, barnásra vagy csaknem fehéresre fakul, néha sötétebb közeppel. A kalap húsa vékony és szívós.",
+      "hymenium": "A lemezek tönkhöz nőttek vagy kissé lefutók, közepesen sűrűek vagy sűrűek, gyakori rövidebb lemezkékkel. A kalapnál halványabbak, fehéres, krémszínű vagy halványan szürkészöld tónusúak, és enyhén rózsásnak tűnhetnek; korral kifakulnak.",
+      "stipe": "A tönk 3–8 cm magas és 0,5–1,5 cm vastag (brit adatok gyakran körülbelül 4–6 × 0,5–1,0 cm-t adnak). Henger alakú, tövénél néha kissé vastagodott, száraz, selyemesen szálas, fehéres vagy a kalap színére árnyalt, fehér, pihés szálakkal vagy nemezes micéliumcsomóval a tövén. Gallérja nincs.",
+      "flesh": "A hús vékony, fehéres vagy kissé zöldes, vágásra nem változtatja a színét. Frissen erősen ánizsra vagy édesköményre illatozik, íze is ánizsos. A szín és az illat is fakulhat korral, ezért az idősebb termőtesteket nehezebb felismerni.",
+      "sporePrint": "A spórapor vékony rétegben fehér vagy csaknem fehér, vastag rétegben krémszínű vagy enyhén rózsás lehet. A spórák simák, ellipszoidok és inamiloidok; a közölt méretek körülbelül 5–7 × 3–5 µm-től 6–9 × 3,5–5,5 µm-ig (és 7–9 × 4–5 µm) terjednek.",
+      "habitat": "Szaprotróf a talajon, avarban, különösen bükk alatt, tölgy és más lombos fák, néha fenyőfélék alatt is. A termőtestek júliustól novemberig jelennek meg (Nagy-Britanniában és Írországban tipikusan július–október; Közép-Európában augusztus–november), általában elszórtan vagy kis csoportokban, nem nagy csapatokban. Európában elég gyakori és széles körben elterjedt, a mérsékelt övi Ázsiából, valamint Észak-Amerika északi és hegyvidéki területeiről is jelzik.",
+      "uses": "Jó evőgomba, inkább fűszerként, mint tömegételként becsülik. Sülhet, levesbe, rizottóba és mártásokba tehető — az ánizsos ízt néha fehér halhoz ajánlják —, jól szárad, és fűszerporrá is őrölhető. Csak friss, határozottan kékészöld példányokat szedjünk, és evés előtt főzzük meg őket. A halvány vagy kifakult termőtesteket hagyjuk, mert más tölcséres gombákkal összetéveszthetők.",
+      "confusion": "A friss kékészöld kalapok és az erős ánizsillat a legtöbb hasonló fajtól elkülöníti, de mindkettő fakulhat. A halvány példányok összetéveszthetők más illatos tölcsérgombákkal, például a Clitocybe fragrans-szal, amely halvány és szintén ánizsra illatozik. A Stropharia aeruginosa és a S. caerulea fiatalon zöldeskék lehet, de síkos vagy pikkelyes kalapjuk, gallérjuk és sötét bíborbarna spórájuk van, és nem illatoznak ánizsra. A kifakult termőtesteket mérgező fehér tölcsérgombákkal (gyakran Clitocybe rivulosa vagy C. dealbata néven) sem szabad összetéveszteni, amelyeknek nincs kékészöld színük és ánizsillatuk. Ha a szín megfakult, és az illat nem egyértelműen ánizsos, ne együk meg.",
+      "notes": "A fajt Bulliard írta le 1784-ben Agaricus odorus néven, és hosszú ideig Clitocybe odora (Bull.) P. Kumm. néven ismerték. 2023-ban He, Chen, Bau, Wang és Yang a Collybia nemzetségbe sorolták Collybia odora néven; ez a jelenlegi név az Index Fungorumban és a Species Fungorumban. Sok jegyzék és a GBIF továbbra is a Clitocybe odora nevet tekinti elfogadottnak. Nagy-Britanniában a hivatalos angol név Aniseed Funnel. Az odora jelző az illatra utal, amelyet ánizsszerű illékony vegyületekkel hoztak összefüggésbe (Rapior és munkatársai, 2002). A tárolt szinonimák csak a Species Fungorum Collybia odora-ra vonatkozó szinonímiáját követik; a változatokat és alakokat, például a var. alba-t, nem tároljuk szinonimaként.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "zöld ánizsgomba"
+    },
+    "id": {
+      "description": "Collybia odora adalah jamur hutan dari famili Clitocybaceae, lama dikenal sebagai Clitocybe odora dan kini ditempatkan dalam genus Collybia. Dikenali dari tudung biru-hijau hingga hijau verdigris, insang pucat yang sedikit menurun, dan bau kuat seperti adas manis atau adas. Tumbuh di tanah di antara seresah daun, terutama di hutan beech, dari pertengahan musim panas hingga musim gugur. Warna khasnya sering memudar menjadi hijau keabu-abuan, kecokelatan, atau hampir putih. Ini jamur pangan yang baik, terutama digunakan sebagai penyedap, tetapi hanya tubuh buah segar yang jelas biru-hijau yang boleh dipetik.",
+      "cap": "Tudung berdiameter 3–8 cm (uraian Amerika Utara menyebut sekitar 2,5–7 cm). Mula-mula cembung, sering dengan tepi terlipat ke dalam, kemudian mendatar dan menjadi agak berbentuk corong atau bergelombang. Permukaan kering, ketika segar, biru-hijau, hijau laut, atau hijau verdigris, berbulu halus atau berserat sangat halus, dan biasanya memudar menjadi hijau keabu-abuan pucat, kecokelatan, atau hampir keputihan, kadang dengan pusat yang lebih gelap. Daging tudung tipis dan liat.",
+      "hymenium": "Insang melekat hingga sedikit menurun, sedang rapat hingga rapat, dengan banyak insang pendek. Lebih pucat daripada tudung, keputihan, krem, atau lemah hijau keabu-abuan, dan dapat tampak sedikit keunguan-merah muda; memudar seiring usia.",
+      "stipe": "Tangkai tinggi 3–8 cm dan tebal 0,5–1,5 cm (uraian Britania sering menyebut sekitar 4–6 × 0,5–1,0 cm). Silindris, kadang sedikit membesar di pangkal, kering, berserat seperti sutra, keputihan atau bernuansa seperti tudung, dengan serat putih berbulu halus atau seberkas miselium seperti felt di pangkal. Tidak ada cincin.",
+      "flesh": "Daging tipis, keputihan atau sedikit kehijauan, dan tidak berubah warna ketika dipotong. Ketika segar berbau kuat seperti adas manis atau adas, dan rasanya pun seperti adas manis. Baik warna maupun bau dapat memudar seiring usia, sehingga tubuh buah yang lebih tua lebih sukar dikenali.",
+      "sporePrint": "Jejak spora putih atau hampir putih pada endapan tipis, dan dapat tampak krem atau sedikit kemerahan-muda pada endapan tebal. Spora halus, elipsoid, dan inamiloid; ukuran yang diterbitkan berkisar dari sekitar 5–7 × 3–5 µm hingga 6–9 × 3,5–5,5 µm (dan 7–9 × 4–5 µm).",
+      "habitat": "Saprotof di tanah di antara seresah daun, terutama di bawah beech, juga di bawah ek dan pohon berdaun lebar lain, dan kadang di bawah konifer. Tubuh buah muncul dari Juli hingga November (biasanya Juli–Oktober di Britania dan Irlandia; Agustus–November di Eropa Tengah), biasanya tersebar atau dalam kelompok kecil, bukan dalam pasukan besar. Di Eropa jenis ini cukup umum dan tersebar luas, dan juga dicatat dari Asia beriklim sedang serta dari Amerika Utara bagian utara dan pegunungan.",
+      "uses": "Jamur pangan yang baik, lebih dihargai sebagai penyedap daripada sebagai makanan massal. Dapat ditumis dan digunakan dalam sup, risotto, dan saus — rasa adas manis kadang dianjurkan dengan ikan putih — dan mengering dengan baik serta dapat digiling menjadi bumbu. Petik hanya spesimen segar yang jelas biru-hijau, dan masak sebelum dimakan. Tubuh buah pucat atau yang sudah memudar sebaiknya dibiarkan, karena dapat dikelirukan dengan jamur berbentuk corong lain.",
+      "confusion": "Tudung biru-hijau yang segar dan bau adas manis yang kuat memisahkannya dari sebagian besar jenis yang mirip, tetapi keduanya dapat memudar. Spesimen pucat dapat dikelirukan dengan jamur corong harum lain seperti Clitocybe fragrans, yang pucat dan juga berbau adas manis. Stropharia aeruginosa dan S. caerulea dapat hijau-biru ketika muda, tetapi memiliki tudung berminyak atau bersisik, sebuah cincin, dan spora ungu-cokelat gelap, serta tidak berbau adas manis. Tubuh buah yang memudar juga tidak boleh dikelirukan dengan clitocybe putih beracun (sering disebut Clitocybe rivulosa atau C. dealbata), yang tidak memiliki warna biru-hijau maupun bau adas manis. Jika warna telah memudar dan baunya tidak jelas seperti adas manis, jangan dimakan.",
+      "notes": "Jenis ini diuraikan oleh Bulliard pada 1784 sebagai Agaricus odorus dan lama dikenal sebagai Clitocybe odora (Bull.) P. Kumm. Pada 2023, He, Chen, Bau, Wang, dan Yang memindahkannya ke genus Collybia sebagai Collybia odora, nama terkini di Index Fungorum dan Species Fungorum. Banyak daftar periksa dan GBIF masih mencantumkan Clitocybe odora sebagai nama yang diterima. Nama Inggris resmi di Britania adalah Aniseed Funnel. Epitet odora merujuk pada aroma, yang dikaitkan dengan senyawa volatil bertipe adas manis (Rapior dan rekan, 2002). Sinonim yang disimpan hanya mengikuti sinonimi Species Fungorum untuk Collybia odora; varietas dan bentuk seperti var. alba tidak disimpan sebagai sinonim.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Collybia odora è un fungo dei boschi della famiglia Clitocybaceae, a lungo noto come Clitocybe odora e oggi collocato nel genere Collybia. Si riconosce per il cappello blu-verde o verde-rame, per le lamelle chiare un po’ decorrenti e per il forte odore di anice o finocchio. Cresce al suolo nella lettiera, soprattutto nei boschi di faggio, da metà estate all’autunno. Il colore caratteristico sbiadisce spesso verso il grigio-verde, il brunastro o quasi il bianco. È un buon commestibile, usato soprattutto come aromatizzante, ma vanno raccolti solo esemplari freschi, chiaramente blu-verdi.",
+      "cap": "Il cappello misura 3–8 cm di diametro (le descrizioni nordamericane indicano circa 2,5–7 cm). Dapprima è convesso, spesso con il margine involuto, poi si appiattisce e diventa superficialmente imbutiforme o ondulato. La superficie secca è, da fresco, blu-verde, verde mare o verde-rame, finemente feltrata o molto finemente fibrillosa, e tipicamente sbiadisce verso un grigio-verde pallido, il brunastro o quasi il biancastro, a volte con il centro più scuro. La carne del cappello è sottile e tenace.",
+      "hymenium": "Le lamelle sono adnate o leggermente decorrenti, da mediamente fitte a fitte, con frequenti lamellule. Sono più chiare del cappello, biancastre, crema o debolmente grigio-verdi, e possono apparire leggermente rosate; sbiadiscono con l’età.",
+      "stipe": "Il gambo è alto 3–8 cm e spesso 0,5–1,5 cm (le descrizioni britanniche indicano spesso circa 4–6 × 0,5–1,0 cm). È cilindrico, a volte un po’ ingrossato alla base, asciutto, setoso-fibroso, biancastro o tinta come il cappello, con fibrille bianche lanuginose o un ciuffo miceliare feltrato alla base. Non ha anello.",
+      "flesh": "La carne è sottile, biancastra o leggermente verdastra, e non cambia colore al taglio. Da fresco odora fortemente di anice o finocchio, e il sapore è altrettanto anisato. Sia il colore sia l’odore possono sbiadire con l’età, per cui gli esemplari vecchi sono più difficili da riconoscere.",
+      "sporePrint": "La sporata è bianca o quasi bianca in un deposito sottile, e può apparire crema o leggermente rosata in uno spesso. Le spore sono lisce, ellissoidali e inamiloidi; le dimensioni pubblicate vanno da circa 5–7 × 3–5 µm a 6–9 × 3,5–5,5 µm (e 7–9 × 4–5 µm).",
+      "habitat": "Saprotrofo al suolo nella lettiera, soprattutto sotto i faggi, anche sotto querce e altri latifoglie e talvolta sotto conifere. I carpofori compaiono da luglio a novembre (tipicamente luglio–ottobre in Gran Bretagna e Irlanda; agosto–novembre in Europa centrale), di solito sparsi o in piccoli gruppi, non in grandi truppe. In Europa è abbastanza comune e ampiamente diffuso, ed è segnalato anche dall’Asia temperata e dal nord e dalle montagne del Nordamerica.",
+      "uses": "Buon fungo commestibile, apprezzato più come aromatizzante che come alimento di volume. Si può saltare e usare in zuppe, risotti e salse — il sapore di anice è talvolta consigliato con il pesce bianco — e si essicca bene e può essere macinato come condimento. Raccogliere solo esemplari freschi, chiaramente blu-verdi, e cuocerli prima di mangiarli. I carpofori pallidi o sbiaditi vanno lasciati, perché possono essere confusi con altri funghi a imbuto.",
+      "confusion": "I cappelli blu-verdi freschi e il forte odore di anice lo distinguono dalla maggior parte delle specie simili, ma entrambi possono sbiadire. Gli esemplari pallidi possono essere confusi con altri clitocybe profumati come Clitocybe fragrans, che è pallido e odora anch’esso di anice. Stropharia aeruginosa e S. caerulea possono essere verde-azzurre da giovani, ma hanno un cappello viscido o squamoso, un anello e spore bruno-porpora scure, e non odorano di anice. I carpofori sbiaditi non vanno inoltre confusi con i clitocybe bianchi tossici (spesso chiamati Clitocybe rivulosa o C. dealbata), privi del colore blu-verde e dell’odore di anice. Se il colore è sbiadito e l’odore non è chiaramente di anice, non va mangiato.",
+      "notes": "La specie fu descritta da Bulliard nel 1784 come Agaricus odorus e a lungo fu nota come Clitocybe odora (Bull.) P. Kumm. Nel 2023 He, Chen, Bau, Wang e Yang la trasferirono nel genere Collybia come Collybia odora, il nome attuale in Index Fungorum e Species Fungorum. Molte checklist e GBIF considerano ancora accettato Clitocybe odora. Il nome inglese ufficiale in Gran Bretagna è Aniseed Funnel. L’epiteto odora si riferisce all’odore, collegato a composti volatili di tipo anice (Rapior e colleghi, 2002). I sinonimi conservati seguono solo la sinonimia di Species Fungorum per Collybia odora; varietà e forme, come var. alba, non vengono conservate come sinonimi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "アオイヌシメジはキシメジ科に近縁の Clitocybaceae 科の森林性きのこで、長く Clitocybe odora として知られ、現在は Collybia 属に置かれます。青緑色から緑青色の傘、淡色でやや垂生するひだ、強いアニスまたはフェンネルの香りで識別できます。地上の落葉中、とくにブナ林に、盛夏から秋にかけて生じます。特徴的な色はしばしば灰緑色、褐色、またはほとんど白に退色します。良質な食用菌で、主に風味づけに用いられますが、採取するのは新鮮で明らかに青緑色の子実体に限ります。",
+      "cap": "傘の径は 3–8 cm（北米の記載ではおよそ 2.5–7 cm）。初めは饅頭形で、しばしば縁が内巻き、のちに開き、浅い漏斗形または波打った形になります。乾燥した表面は新鮮なときは青緑・海緑または緑青色で、細かくフェルト状、またはごく細かい繊維状、典型的には淡い灰緑色、褐色、ほとんど白みを帯びた色に退色し、中央がより暗いことがあります。傘の肉は薄くて強靭です。",
+      "hymenium": "ひだは着生からやや垂生、中程度に密から密で、短いひだが多くあります。傘より淡く、白っぽい、クリーム色、またはわずかに灰緑色で、薄く桃色に見えることがあり、老成すると色が薄くなります。",
+      "stipe": "柄は高さ 3–8 cm、太さ 0.5–1.5 cm（英国の記載ではしばしば約 4–6 × 0.5–1.0 cm）。円柱形で、基部はやや膨らむことがあり、乾燥し、絹状の繊維があり、白っぽい、または傘に近い色で、基部に白い綿毛状の繊維やフェルト状の菌糸の塊があります。つばはありません。",
+      "flesh": "肉は薄く、白っぽい、またはわずかに緑がかり、切断しても変色しません。新鮮なときはアニスまたはフェンネルの強い香りがあり、味も同様にアニス様です。色も香りも老成とともに薄れることがあるため、古い子実体は識別が難しくなります。",
+      "sporePrint": "胞子紋は薄い堆積では白またはほぼ白、厚い堆積ではクリーム色、またはわずかに桃色に見えることがあります。胞子は平滑、楕円形、非アミロイド性で、公表されている大きさはおよそ 5–7 × 3–5 µm から 6–9 × 3.5–5.5 µm（および 7–9 × 4–5 µm）の範囲です。",
+      "habitat": "地上の落葉中の腐生菌で、とくにブナの下、またナラなど他の広葉樹の下、ときに針葉樹の下にも生じます。子実体は 7 月から 11 月に現れます（英国・アイルランドでは通常 7–10 月、中欧では 8–11 月）。ふつう散生または小さな群れで、大群にはなりません。ヨーロッパではかなり普通で広く分布し、温帯アジアおよび北米の北部・山地からも記録されています。",
+      "uses": "良質な食用きのこで、かさもの料理というより風味づけとして珍重されます。炒め物やスープ、リゾット、ソースに使え、アニスの風味は白身魚に合うとされることもあります。よく乾燥し、粉末にして調味料にもできます。採取するのは新鮮で明らかに青緑色の個体に限り、食べる前に加熱してください。淡色や退色した子実体は、他の漏斗形のきのこと混同しやすいので残します。",
+      "confusion": "新鮮な青緑色の傘と強いアニスの香りは、ほとんどの類似種から区別しますが、どちらも退色することがあります。淡色の個体は、同じくアニスの香りをもつ淡色の Clitocybe fragrans など、他の芳香性の漏斗菌と間違われることがあります。Stropharia aeruginosa および S. caerulea は若いときに緑青色になりますが、傘は粘性または鱗片があり、つばがあり、胞子は暗紫褐色で、アニスの香りはありません。退色した子実体を、青緑色もアニスの香りもない有毒な白色の漏斗菌（しばしば Clitocybe rivulosa または C. dealbata と呼ばれる）と混同してはなりません。色が退き、香りが明らかにアニスでない場合は食べないでください。",
+      "notes": "本種は 1784 年にビュイヤールによって Agaricus odorus として記載され、長く Clitocybe odora (Bull.) P. Kumm. として知られてきました。2023 年に He、Chen、Bau、Wang、Yang はこれを Collybia 属へ移し、Collybia odora としました。これが Index Fungorum および Species Fungorum における現行名です。多くのチェックリストと GBIF は今も Clitocybe odora を受理名としています。英国での公式英名は Aniseed Funnel です。種小名 odora は香りを指し、アニス様の揮発性化合物と結びつけられています（Rapior ら、2002）。収録する異名は Species Fungorum における Collybia odora の異名関係のみに従い、var. alba などの変種・品種は異名として収録しません。",
+      "names": [],
+      "sourceUrls": [
+        "https://gkzplant.sakura.ne.jp/kinrui/syousai/agyou/aoinusimeji.html"
+      ],
+      "label": "アオイヌシメジ"
+    },
+    "ko": {
+      "description": "Collybia odora는 Clitocybaceae과의 산림성 버섯으로, 오랫동안 Clitocybe odora로 알려졌고 지금은 Collybia속에 둡니다. 청록색에서 녹청에 가까운 갓, 옅고 약간 내린 주름살, 강한 아니스 또는 회향 냄새로 알아봅니다. 낙엽층 위 땅에, 특히 너도밤나무 숲에서, 한여름부터 가을까지 납니다. 특유의 색은 흔히 회록색, 갈색 또는 거의 흰색으로 바래집니다. 좋은 식용 버섯으로 주로 향신으로 쓰이지만, 신선하고 분명히 청록색인 자실체만 채집해야 합니다.",
+      "cap": "갓 지름은 3–8 cm입니다(북미 기재는 약 2.5–7 cm). 처음에는 볼록하고 가장자리가 안쪽으로 말리는 경우가 많으며, 나중에 편평해져 얕은 깔때기형 또는 물결형이 됩니다. 마른 표면은 신선할 때 청록, 해록 또는 녹청색이고, 미세하게 털이 있거나 매우 가늘게 섬유질이며, 전형적으로 연한 회록, 갈색 또는 거의 흰색으로 바래고 가운데가 더 어두울 수 있습니다. 갓의 살은 얇고 질깁니다.",
+      "hymenium": "주름살은 붙은형에서 약간 내린형이며, 중간 정도로 빽빽하거나 빽빽하고 짧은 주름살이 많습니다. 갓보다 옅고, 희거나 크림색이거나 약한 회록색이며, 약간 분홍빛이 돌 수 있습니다. 나이가 들수록 색이 옅어집니다.",
+      "stipe": "대는 높이 3–8 cm, 굵기 0.5–1.5 cm입니다(영국 기재는 흔히 약 4–6 × 0.5–1.0 cm). 원기둥형이며 기부가 약간 부푼 때도 있고, 마르고 비단결 섬유질이며, 희거나 갓과 비슷한 색이고, 기부에 흰 솜털 섬유 또는 펠트 같은 균사 다발이 있습니다. 턱받이는 없습니다.",
+      "flesh": "살은 얇고, 희거나 약간 초록빛이 돌며, 잘라도 색이 변하지 않습니다. 신선할 때는 아니스 또는 회향 냄새가 강하고, 맛도 비슷하게 아니스 같습니다. 색과 냄새 모두 나이가 들면서 옅어질 수 있어, 오래된 자실체는 알아보기 더 어렵습니다.",
+      "sporePrint": "포자문은 얇은 퇴적에서는 흰색 또는 거의 흰색이고, 두꺼운 퇴적에서는 크림색이거나 약간 분홍빛이 돌 수 있습니다. 포자는 매끈하고 타원형이며 비아밀로이드이고, 보고된 크기는 약 5–7 × 3–5 µm에서 6–9 × 3.5–5.5 µm(및 7–9 × 4–5 µm)입니다.",
+      "habitat": "낙엽층 위 땅의 부생균으로, 특히 너도밤나무 아래, 또한 참나무와 다른 활엽수 아래, 때로는 침엽수 아래에도 납니다. 자실체는 7월부터 11월까지 나타납니다(영국과 아일랜드에서는 보통 7–10월, 중부 유럽에서는 8–11월). 대개 흩어지거나 작은 무리로 나며 큰 무리를 이루지는 않습니다. 유럽에서는 비교적 흔하고 넓게 분포하며, 온대 아시아와 북아메리카의 북부 및 산지에서도 기록됩니다.",
+      "uses": "좋은 식용 버섯으로, 대량 식재료보다는 향신으로 더 높이 평가됩니다. 볶거나 수프, 리소토, 소스에 쓸 수 있고 — 아니스 맛은 흰살생선과 함께 권해지기도 합니다 — 잘 마르며 가루 양념으로 갈 수 있습니다. 신선하고 분명히 청록색인 개체만 채집하고, 먹기 전에 익혀야 합니다. 옅거나 바랜 자실체는 다른 깔때기형 버섯과 혼동될 수 있으므로 남겨 둡니다.",
+      "confusion": "신선한 청록색 갓과 강한 아니스 냄새는 대부분의 비슷한 종과 구별되지만, 둘 다 바래질 수 있습니다. 옅은 개체는 역시 아니스 냄새가 나는 엷은 색의 Clitocybe fragrans 같은 다른 향기 나는 깔때기버섯과 혼동될 수 있습니다. Stropharia aeruginosa와 S. caerulea는 어릴 때 녹청색이 될 수 있으나, 끈적하거나 비늘 있는 갓, 턱받이, 어두운 자갈색 포자를 가지며 아니스 냄새는 없습니다. 바랜 자실체를 청록색과 아니스 냄새가 없는 독성 흰 깔때기버섯(흔히 Clitocybe rivulosa 또는 C. dealbata라고 함)과 혼동해서도 안 됩니다. 색이 바라고 냄새가 분명한 아니스가 아니면 먹지 마십시오.",
+      "notes": "이 종은 1784년 불리야르가 Agaricus odorus로 기재했고, 오랫동안 Clitocybe odora (Bull.) P. Kumm.로 알려졌습니다. 2023년 He, Chen, Bau, Wang, Yang이 이를 Collybia속으로 옮겨 Collybia odora라 했으며, 이것이 Index Fungorum과 Species Fungorum의 현행명입니다. 많은 목록과 GBIF는 여전히 Clitocybe odora를 인정명으로 둡니다. 영국의 공식 영어명은 Aniseed Funnel입니다. 종소명 odora는 냄새를 가리키며, 아니스형 휘발성 화합물과 관련되어 있습니다(Rapior 등, 2002). 저장된 이명은 Species Fungorum의 Collybia odora 이명 관계만을 따르며, var. alba와 같은 변종·형태는 이명으로 저장하지 않습니다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Melsvoji tauriabudė yra Clitocybaceae šeimos miško grybas, ilgai žinotas kaip Clitocybe odora, o dabar priskiriamas genčiai Collybia. Jį galima atpažinti iš melsvai žalios ar žalsvos kepurėlės, blyškių, truputį nuaugusių lakštelių ir stipraus anyžių ar pankolio kvapo. Auga ant žemės lapų paklotėje, ypač bukų miškuose, nuo vasaros vidurio iki rudens. Būdinga spalva dažnai nublanksta iki pilkšvai žalios, rusvos ar beveik baltos. Tai geras valgomas grybas, naudojamas daugiausia kaip prieskonis, bet rinkti reikėtų tik šviežius, aiškiai melsvai žalius vaisiakūnius.",
+      "cap": "Kepurėlė 3–8 cm skersmens (Šiaurės Amerikos duomenys nurodo apie 2,5–7 cm). Iš pradžių ji iškili, dažnai su užsirietusiu kraštu, vėliau išsiplečia ir tampa sekliai piltuviška arba banguota. Sausas paviršius šviežias melsvai žalias, jūros žalias ar žalsvas, smulkiai veltiniškas ar labai smulkiai plaušuotas ir paprastai nublanksta iki blyškiai pilkšvai žalio, rusvo ar beveik balkšvo, kartais su tamsesniu viduriu. Kepurėlės mėsa plona ir kieta.",
+      "hymenium": "Lakšteliai prisegtiniai arba truputį nuaugę, vidutiniškai tankūs ar tankūs, su dažnais trumpesniais lakšteliais. Jie šviesesni už kepurėlę, balkšvi, kreminiai ar silpnai pilkšvai žali ir gali atrodyti silpnai rausvi; senstant blanksta.",
+      "stipe": "Kotelis 3–8 cm aukščio ir 0,5–1,5 cm storio (britų duomenys dažnai nurodo apie 4–6 × 0,5–1,0 cm). Jis cilindriškas, prie pagrindo kartais truputį pastorėjęs, sausas, šilkiškai plaušuotas, balkšvas ar nudažytas kaip kepurėlė, su baltais pūkuotais plaušeliais ar veltiniška grybienos kuokšta prie pagrindo. Žiedo nėra.",
+      "flesh": "Mėsa plona, balkšva ar truputį žalsva ir perpjauta nekeičia spalvos. Šviežia stipriai kvepia anyžiais ar pankoliu, skonis taip pat anyžinis. Ir spalva, ir kvapas senstant gali blukti, todėl senesnius vaisiakūnius sunkiau atpažinti.",
+      "sporePrint": "Sporų milteliai ploname sluoksnyje balti ar beveik balti, storame gali būti kreminiai ar silpnai rausvi. Sporos lygios, elipsoidinės, inamiloidinės; skelbiami matmenys siekia nuo apie 5–7 × 3–5 µm iki 6–9 × 3,5–5,5 µm (ir 7–9 × 4–5 µm).",
+      "habitat": "Saprotrofinis grybas ant žemės lapų paklotėje, ypač po bukais, taip pat po ąžuolais ir kitais lapuočiais, kartais po spygliuočiais. Vaisiakūniai pasirodo nuo liepos iki lapkričio (Didžiojoje Britanijoje ir Airijoje paprastai liepa–spalis; Vidurio Europoje rugpjūtis–lapkritis), paprastai pavieniui ar mažomis grupelėmis, ne didelėmis kuokštomis. Europoje rūšis gana dažna ir plačiai paplitusi, taip pat nurodoma iš vidutinių platumų Azijos bei šiaurinės ir kalnuotosios Šiaurės Amerikos.",
+      "uses": "Geras valgomas grybas, labiau vertinamas kaip prieskonis nei kaip gausus maistas. Jį galima kepti ir dėti į sriubas, rizotą ir padažus — anyžių skonis kartais rekomenduojamas prie baltos žuvies — jis gerai džiūsta ir gali būti sumalamas į prieskonį. Rinkti tik šviežius, aiškiai melsvai žalius egzempliorius ir prieš valgant juos išvirti. Blyškius ar išblukusius vaisiakūnius reikėtų palikti, nes juos galima supainioti su kitais piltuviškais grybais.",
+      "confusion": "Šviežios melsvai žalios kepurėlės ir stiprus anyžių kvapas atskiria jį nuo daugumos panašių rūšių, tačiau ir spalva, ir kvapas gali blukti. Blyškius egzempliorius galima supainioti su kitomis kvapiosiomis tauriabudėmis, pavyzdžiui, Clitocybe fragrans, kuri yra blyški ir taip pat kvepia anyžiais. Žalsvosios žvynabudės Stropharia aeruginosa ir S. caerulea jaunos gali būti žalsvai mėlynos, bet turi gleivėtą ar žvynuotą kepurėlę, žiedą ir tamsiai purpurines rudas sporas ir nekvepia anyžiais. Išblukusių vaisiakūnių taip pat negalima painioti su nuodingomis baltosiomis tauriabudėmis (dažnai vadinamomis Clitocybe rivulosa arba C. dealbata), kurios neturi melsvai žalios spalvos ir anyžių kvapo. Jei spalva išbluko, o kvapas nėra aiškiai anyžinis, valgyti negalima.",
+      "notes": "Rūšį 1784 m. aprašė Bulliard pavadinimu Agaricus odorus, ir ilgai ji buvo žinoma kaip Clitocybe odora (Bull.) P. Kumm. 2023 m. He, Chen, Bau, Wang ir Yang perkėlė ją į gentį Collybia kaip Collybia odora — dabartinį vardą Index Fungorum ir Species Fungorum. Daugelis sąrašų ir GBIF vis dar laiko priimtu vardu Clitocybe odora. Oficialus angliškas vardas Jungtinėje Karalystėje yra Aniseed Funnel. Epitetas odora nurodo kvapą, siejamą su anyžiaus tipo lakiosiomis medžiagomis (Rapior ir kolegos, 2002). Saugomi sinonimai seka tik Species Fungorum sinonimika rūšiai Collybia odora; atmainos ir formos, pavyzdžiui var. alba, kaip sinonimai nesaugomos.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "Melsvoji tauriabudė"
+    },
+    "lv": {
+      "description": "Anīsa piltuvene ir Clitocybaceae dzimtas meža sēne, ilgi pazīstama kā Clitocybe odora un tagad ievietota ģintī Collybia. To atpazīst pēc zili zaļas līdz vara zaļas cepurītes, bāliem, nedaudz nolaideniem lapiņām un stipras anīsa vai fenheļa smaržas. Tā aug uz zemes lapu kritoņos, īpaši beku mežos, no vasaras vidus līdz rudenim. Raksturīgā krāsa bieži izbalē līdz pelēkzaļai, brūnganai vai gandrīz baltai. Tā ir laba ēdama sēne, ko galvenokārt izmanto kā garšvielu, bet vākt drīkst tikai svaigus, skaidri zili zaļus augļķermeņus.",
+      "cap": "Cepurīte ir 3–8 cm plata (Ziemeļamerikas dati norāda aptuveni 2,5–7 cm). Sākumā tā ir izliekta, bieži ar ieritinātu malu, vēlāk izplešas un kļūst seklu piltuvveida vai viļņota. Sausā virsma svaigā stāvoklī ir zili zaļa, jūras zaļa vai vara zaļa, smalki filcaina vai ļoti smalki šķiedraina un parasti izbalē līdz bāli pelēkzaļai, brūnganai vai gandrīz bālganai, dažreiz ar tumšāku vidu. Cepurītes mīkstums ir plāns un sīksts.",
+      "hymenium": "Lapiņas ir pieaugušas līdz nedaudz nolaidenām, mēreni biezas līdz biezām, ar biežām īsākām lapiņām. Tās ir gaišākas par cepurīti, bālganas, krēmkrāsas vai vāji pelēkzaļas un var izskatīties nedaudz sārtas; ar vecumu tās izbalē.",
+      "stipe": "Kātiņš ir 3–8 cm augsts un 0,5–1,5 cm resns (Lielbritānijas dati bieži norāda aptuveni 4–6 × 0,5–1,0 cm). Tas ir cilindrisks, pie pamatnes dažreiz nedaudz resnāks, sauss, zīdaini šķiedrains, bālgans vai tonēts kā cepurīte, ar baltām pūkainām šķiedrām vai filcainu micēlija pušķi pie pamatnes. Gredzena nav.",
+      "flesh": "Mīkstums ir plāns, bālgans vai nedaudz zaļgans un griezumā nemaina krāsu. Svaigs tas stipri smaržo pēc anīsa vai fenheļa, un garša ir līdzīgi anīsa. Gan krāsa, gan smarža ar vecumu var izbalēt, tāpēc vecākus augļķermeņus ir grūtāk atpazīt.",
+      "sporePrint": "Sporu pulveris plānā kārtiņā ir balts vai gandrīz balts, bet biezā kārtiņā var būt krēmkrāsas vai nedaudz sārts. Sporas ir gludas, elipsoidālas un inamiloidālas; publicētie izmēri ir no aptuveni 5–7 × 3–5 µm līdz 6–9 × 3,5–5,5 µm (un 7–9 × 4–5 µm).",
+      "habitat": "Saprotrofs uz zemes lapu kritoņos, īpaši zem bekiem, arī zem ozoliem un citiem lapu kokiem un dažreiz zem skuju kokiem. Augļķermeņi parādās no jūlija līdz novembrim (Lielbritānijā un Īrijā parasti jūlijs–oktobris; Centrāleiropā augusts–novembris), parasti izklaidus vai nelielās grupās, ne lielos baros. Eiropā suga ir diezgan bieži sastopama un plaši izplatīta, zināma arī no mērenās Āzijas un no Ziemeļamerikas ziemeļu un kalnu apvidiem.",
+      "uses": "Laba ēdama sēne, vairāk novērtēta kā garšviela nekā kā apjomīgs ēdiens. To var cepināt un lietot zupās, rizoto un mērcēs — anīsa garšu dažreiz iesaka pie baltās zivs — un tā labi žūst un to var samaļt par garšvielu. Vācami tikai svaigi, skaidri zili zaļi eksemplāri, un pirms ēšanas tie jāvāra. Bālus vai izbalējušus augļķermeņus vajadzētu atstāt, jo tos var sajaukt ar citām piltuvveida sēnēm.",
+      "confusion": "Svaigas zili zaļas cepurītes un stiprā anīsa smarža to atšķir no lielākās daļas līdzīgo sugu, bet gan krāsa, gan smarža var izbalēt. Bālus eksemplārus var sajaukt ar citām smaržīgām piltuvenēm, piemēram, ar Clitocybe fragrans, kas ir bāla un arī smaržo pēc anīsa. Zaļganās Stropharia aeruginosa un S. caerulea jaunībā var būt zaļzilas, bet tām ir gļotaina vai zvīņaina cepurīte, gredzens un tumši purpurbrūnas sporas, un tās nesmaržo pēc anīsa. Izbalējušus augļķermeņus nedrīkst jaukt arī ar indīgām baltām piltuvenēm (bieži sauktām par Clitocybe rivulosa vai C. dealbata), kurām nav zili zaļās krāsas un anīsa smaržas. Ja krāsa ir izbalējusi un smarža nav skaidri anīsa, to nedrīkst ēst.",
+      "notes": "Sugu 1784. gadā aprakstīja Bulliard kā Agaricus odorus, un tā ilgi bija pazīstama kā Clitocybe odora (Bull.) P. Kumm. 2023. gadā He, Chen, Bau, Wang un Yang to pārnesa uz ģinti Collybia kā Collybia odora, kas ir pašreizējais nosaukums Index Fungorum un Species Fungorum. Daudzi saraksti un GBIF joprojām uzskata Clitocybe odora par pieņemto nosaukumu. Oficiālais angļu nosaukums Lielbritānijā ir Aniseed Funnel. Epitets odora attiecas uz smaržu, ko saista ar anīsam līdzīgiem gaistošiem savienojumiem (Rapior un kolēģi, 2002). Saglabātie sinonīmi seko tikai Species Fungorum sinonīmijai sugai Collybia odora; varietātes un formas, piemēram, var. alba, kā sinonīmi netiek saglabātas.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466",
+        "https://lv.wikipedia.org/wiki/An%C4%ABsa_piltuvene"
+      ],
+      "label": "Anīsa piltuvene"
+    },
+    "nl": {
+      "description": "De groene anijstrechterzwam is een boszwam uit de familie Clitocybaceae, lange tijd bekend als Clitocybe odora en nu in het geslacht Collybia geplaatst. Hij is te herkennen aan een blauwgroene tot spangroene hoed, bleke, iets aflopende lamellen en een sterke anijs- of venkelgeur. Hij groeit op de grond in bladstrooisel, vooral in beukenbossen, van midden zomer tot in de herfst. De opvallende kleur verbleekt vaak tot grijsgroen, bruinachtig of bijna wit. Het is een goede eetbare soort, vooral gebruikt als smaakmaker, maar alleen verse, duidelijk blauwgroene vruchtlichamen moeten worden geplukt.",
+      "cap": "De hoed is 3–8 cm breed (Noord-Amerikaanse opgaven noemen ongeveer 2,5–7 cm). Eerst is hij gewelfd, vaak met een ingerolde rand, later wordt hij vlak en ondiep trechtervormig of golvend. Het droge oppervlak is vers blauwgroen, zeegroen of spangroen, fijn viltig of zeer fijn vezelig, en verbleekt typisch tot bleek grijsgroen, bruinachtig of bijna witachtig, soms met een donkerder centrum. Het hoedvlees is dun en taai.",
+      "hymenium": "De lamellen zijn aangehecht tot iets aflopend, matig dicht tot dicht, met frequente tussenlamellen. Ze zijn bleker dan de hoed, witachtig, crème of zwak grijsgroen, en kunnen licht roze lijken; ze verbleken met de leeftijd.",
+      "stipe": "De steel is 3–8 cm lang en 0,5–1,5 cm dik (Britse opgaven noemen vaak ongeveer 4–6 × 0,5–1,0 cm). Hij is cilindrisch, aan de basis soms iets gezwollen, droog, zijdeachtig vezelig, witachtig of getint als de hoed, met witte donzige vezels of een viltige myceliumpluk aan de basis. Een ring ontbreekt.",
+      "flesh": "Het vlees is dun, witachtig of iets groenachtig, en verandert niet van kleur bij aansnijden. Vers ruikt het sterk naar anijs of venkel, en de smaak is eveneens anijsachtig. Kleur en geur kunnen met de leeftijd verbleken, zodat oudere exemplaren moeilijker te herkennen zijn.",
+      "sporePrint": "De sporenafdruk is in een dunne laag wit of bijna wit, en kan in een dikke laag crème of licht roze lijken. De sporen zijn glad, ellipsoïd en inamyloïd; gepubliceerde maten lopen van ongeveer 5–7 × 3–5 µm tot 6–9 × 3,5–5,5 µm (en 7–9 × 4–5 µm).",
+      "habitat": "Saprotroof op de grond in bladstrooisel, vooral onder beuk, ook onder eik en andere loofbomen en soms onder naaldbomen. Vruchtlichamen verschijnen van juli tot november (in Groot-Brittannië en Ierland typisch juli–oktober; in Midden-Europa augustus–november), meestal verspreid of in kleine groepjes, niet in grote troepen. In Europa is de soort vrij algemeen en wijdverbreid, en hij is ook bekend uit het gematigde Azië en uit het noordelijke en montane Noord-Amerika.",
+      "uses": "Een goede eetbare paddenstoel, meer gewaardeerd als smaakmaker dan als bulkvoedsel. Hij kan worden gebakken en gebruikt in soepen, risotto’s en sauzen — de anijssmaak wordt soms bij witte vis aanbevolen — en hij droogt goed en kan tot een kruidpoeder worden vermalen. Alleen verse, duidelijk blauwgroene exemplaren plukken en voor het eten garen. Bleke of verbleekte vruchtlichamen moet men laten staan, omdat ze met andere trechterzwammen kunnen worden verward.",
+      "confusion": "Verse blauwgroene hoeden en de sterke anijsgeur onderscheiden hem van de meeste gelijkende soorten, maar beide kunnen verbleken. Bleke exemplaren kunnen worden verward met andere geurende trechterzwammen zoals Clitocybe fragrans, die bleek is en ook naar anijs ruikt. De groensteelzwammen Stropharia aeruginosa en S. caerulea kunnen jong groenblauw zijn, maar hebben een vettige of schubbige hoed, een ring en donker paarsbruine sporen, en ruiken niet naar anijs. Verbleekte vruchtlichamen mogen ook niet worden verward met giftige witte trechterzwammen (vaak Clitocybe rivulosa of C. dealbata genoemd), die de blauwgroene kleur en de anijsgeur missen. Als de kleur is verbleekt en de geur niet duidelijk naar anijs is, niet eten.",
+      "notes": "De soort werd in 1784 door Bulliard beschreven als Agaricus odorus en was lange tijd bekend als Clitocybe odora (Bull.) P. Kumm. In 2023 plaatsten He, Chen, Bau, Wang en Yang hem als Collybia odora in het geslacht Collybia, de huidige naam in Index Fungorum en Species Fungorum. Veel checklists en GBIF vermelden Clitocybe odora nog als geaccepteerde naam. De officiële Engelse naam in Groot-Brittannië is Aniseed Funnel. Het epitheton odora verwijst naar de geur, die in verband is gebracht met anijsachtige vluchtige stoffen (Rapior en collega’s, 2002). Opgeslagen synoniemen volgen alleen de synonymie van Species Fungorum voor Collybia odora; variëteiten en vormen zoals var. alba worden niet als synoniemen opgeslagen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466",
+        "https://www.diversitasnaturae.be/diversitas-naturae/fungi/basidiomycota/agaricomycetes/agaricales/tricholomataceae/clitocybe-odora/"
+      ],
+      "label": "groene anijstrechterzwam"
+    },
+    "no": {
+      "description": "Grønn anistraktsopp er en skogsopp i familien Clitocybaceae, lenge kjent som Clitocybe odora og nå plassert i slekten Collybia. Den kjennes på en blågrønn til irgrønn hatt, bleke, noe nedløpende skiver og en sterk lukt av anis eller fennikel. Den vokser på bakken i løvstrø, særlig i bøkeskog, fra midtsommer til høsten. Den typiske fargen blekner ofte til grågrønt, brunlig eller nesten hvitt. Det er en god matsopp, mest brukt som smakstilsetning, men bare ferske, tydelig blågrønne fruktlegemer bør plukkes.",
+      "cap": "Hatten er 3–8 cm bred (nordamerikanske oppgaver angir omtrent 2,5–7 cm). Den er først hvelvet, ofte med innrullet rand, senere utbredt og grunt traktformet eller bølget. Den tørre overflaten er fersk blågrønn, havgrønn eller irgrønn, fint filtet eller svært fint trådet, og blekner typisk til blekt grågrønt, brunlig eller nesten hvitaktig, av og til med mørkere midt. Hattekjøttet er tynt og seigt.",
+      "hymenium": "Skivene er festet til noe nedløpende, middels tette til tette, med hyppige korte skiver. De er blekere enn hatten, hvitaktige, kremfargede eller svakt grågrønne og kan se svakt rosa ut; de blekner med alderen.",
+      "stipe": "Stokken er 3–8 cm høy og 0,5–1,5 cm tykk (britiske oppgaver angir ofte omtrent 4–6 × 0,5–1,0 cm). Den er sylindrisk, av og til noe oppsvulmet ved basis, tørr, silkeaktig trådet, hvitaktig eller tonet som hatten, med hvite dunete tråder eller  en filtet myceltofse ved basis. Ring mangler.",
+      "flesh": "Kjøttet er tynt, hvitaktig eller svakt grønnlig, og endrer ikke farge når det skjæres. Ferskt lukter det sterkt av anis eller fennikel, og smaken er tilsvarende anisaktig. Både fargen og lukten kan blekne med alderen, så eldre eksemplarer kan være vanskeligere å kjenne igjen.",
+      "sporePrint": "Sporepulveret er hvitt eller nesten hvitt i et tynt avtrykk, og kan se kremfarget eller svakt rosa ut i et tykt. Sporene er glatte, ellipsoide og inamyloide; publiserte mål går fra omtrent 5–7 × 3–5 µm til 6–9 × 3,5–5,5 µm (og 7–9 × 4–5 µm).",
+      "habitat": "Saprotrof på bakken i løvstrø, særlig under bøk, også under eik og andre løvtrær og av og til under bartrær. Fruktlegemer kommer fra juli til november (typisk juli–oktober i Storbritannia og Irland; august–november i Sentral-Europa), vanligvis spredte eller i små grupper, ikke i store tuer. Arten er temmelig vanlig og vidt utbredt i Europa og er også oppgitt fra temperert Asia samt nordlige og montane Nord-Amerika.",
+      "uses": "En god matsopp, mer verdsatt som smakstilsetning enn som basismat. Den kan stekes og brukes i supper, risotto og sauser — anissmaken anbefales av og til til hvit fisk — og tørker godt og kan males til krydder. Plukk bare ferske, tydelig blågrønne eksemplarer og kok dem før de spises. Bleke eller avblekede fruktlegemer bør stå igjen, fordi de kan forveksles med andre traktformede sopper.",
+      "confusion": "Ferske blågrønne hatter og den sterke anislukten skiller den fra de fleste liknende arter, men begge kan blekne. Bleke eksemplarer kan forveksles med andre duftende traktsopper som Clitocybe fragrans, som er blek og også lukter anis. De grønne kragesoppene Stropharia aeruginosa og S. caerulea kan være grønnblå som unge, men har en slimete eller skjellende hatt, en ring og mørkt purpurbrune sporer, og lukter ikke anis. Avblekede fruktlegemer må heller ikke forveksles med giftige hvite traktsopper (ofte kalt Clitocybe rivulosa eller C. dealbata), som mangler den blågrønne fargen og anislukten. Hvis fargen har bleknet og lukten ikke er tydelig anis, skal den ikke spises.",
+      "notes": "Arten ble beskrevet av Bulliard i 1784 som Agaricus odorus og har lenge vært kjent som Clitocybe odora (Bull.) P. Kumm. I 2023 overførte He, Chen, Bau, Wang og Yang den til Collybia som Collybia odora, det gjeldende navnet i Index Fungorum og Species Fungorum. Mange sjekklister og GBIF oppgir fortsatt Clitocybe odora som akseptert. Det offisielle engelske navnet i Storbritannia er Aniseed Funnel. Epitetet odora viser til duften, som er knyttet til anisliknende flyktige stoffer (Rapior og kolleger, 2002). Lagrede synonymer følger bare synonymikken i Species Fungorum for Collybia odora; varieteter og former, som var. alba, lagres ikke som synonymer.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "grønn anistraktsopp"
+    },
+    "pl": {
+      "description": "Lejkówka wonna jest leśnym grzybem z rodziny Clitocybaceae, długo znanym jako Clitocybe odora, a obecnie umieszczanym w rodzaju Collybia. Poznaje się ją po niebieskozielonym do grynszpanowego kapeluszu, bladych, nieco zbiegających blaszkach i silnym zapachu anyżu lub kopru włoskiego. Rośnie na ziemi w ściółce, zwłaszcza w buczynach, od połowy lata do jesieni. Charakterystyczna barwa często blednie do szarozielonej, brązowawej lub niemal białej. Jest dobrym grzybem jadalnym, używanym głównie jako przyprawa, ale zbierać należy tylko świeże, wyraźnie niebieskozielone owocniki.",
+      "cap": "Kapelusz ma 3–8 cm średnicy (dane północnoamerykańskie podają około 2,5–7 cm). Początkowo jest wypukły, często z podwiniętym brzegiem, później się spłaszcza i staje się płytko lejkowaty lub pofalowany. Sucha powierzchnia jest świeżo niebieskozielona, morskozielona lub grynszpanowa, delikatnie filcowata lub bardzo drobno włóknista i typowo blednie do jasnoszarozielonej, brązowawej lub niemal białawej, czasem z ciemniejszym środkiem. Miąższ kapelusza jest cienki i twardy.",
+      "hymenium": "Blaszki są przyrośnięte do nieco zbiegających, umiarkowanie gęste do gęstych, z częstymi krótszymi blaszkami. Są bladsze od kapelusza, białawawe, kremowe lub słabo szarozielone i mogą wyglądać na lekko różowawe; z wiekiem bledną.",
+      "stipe": "Trzon ma 3–8 cm wysokości i 0,5–1,5 cm grubości (dane brytyjskie często podają około 4–6 × 0,5–1,0 cm). Jest walcowaty, u nasady czasem nieco zgrubiały, suchy, jedwabiście włóknisty, białawy lub zabarwiony jak kapelusz, z białymi puszystymi włókienkami lub filcowatą kępką grzybni u podstawy. Pierścienia brak.",
+      "flesh": "Miąższ jest cienki, białawy lub lekko zielonkawy i nie zmienia barwy po przecięciu. Na świeżo silnie pachnie anyżem lub koprem włoskim, a smak jest podobnie anyżowy. Zarówno barwa, jak i zapach mogą z wiekiem blednąć, dlatego starsze owocniki trudniej rozpoznać.",
+      "sporePrint": "Wysyp zarodników w cienkiej warstwie jest biały lub niemal biały, a w grubej może być kremowy lub lekko różowawy. Zarodniki są gładkie, elipsoidalne i inamyloidalne; podawane wymiary mieszczą się w zakresie od około 5–7 × 3–5 µm do 6–9 × 3,5–5,5 µm (oraz 7–9 × 4–5 µm).",
+      "habitat": "Saprotrof na ziemi w ściółce, zwłaszcza pod bukami, także pod dębami i innymi drzewami liściastymi, a czasem pod iglastymi. Owocniki pojawiają się od lipca do listopada (w Wielkiej Brytanii i Irlandii typowo lipiec–październik; w Europie Środkowej sierpień–listopad), zwykle pojedynczo lub w małych grupach, nie w wielkich gromadach. W Europie gatunek jest dość pospolity i szeroko rozpowszechniony, podawany jest także z umiarkowanej Azji oraz z północnej i górskiej Ameryki Północnej.",
+      "uses": "Dobry grzyb jadalny, ceniony bardziej jako przyprawa niż jako pożywienie objętościowe. Można go smażyć i używać do zup, risotto i sosów — smak anyżowy bywa zalecany do białych ryb — dobrze się suszy i można go zmielić na przyprawę. Zbierać należy tylko świeże, wyraźnie niebieskozielone okazy i przed spożyciem je ugotować. Bladych lub wyblakłych owocników nie należy zbierać, bo można je pomylić z innymi lejkowatymi grzybami.",
+      "confusion": "Świeże niebieskozielone kapelusze i silny zapach anyżu odróżniają ją od większości podobnych gatunków, ale i barwa, i zapach mogą blednąć. Blade okazy można pomylić z innymi pachnącymi lejkówkami, na przykład z Clitocybe fragrans, która jest blada i również pachnie anyżem. Pierścieniaki Stropharia aeruginosa i S. caerulea mogą być w młodości zielononiebieskie, ale mają śliski lub łuskowaty kapelusz, pierścień i ciemnopurpurowobrązowe zarodniki i nie pachną anyżem. Wyblakłych owocników nie należy też mylić z trującymi białymi lejkówkami (często nazywanymi Clitocybe rivulosa lub C. dealbata), które nie mają niebieskozielonej barwy ani zapachu anyżu. Jeśli barwa wyblakła, a zapach nie jest wyraźnie anyżowy, nie należy jej jeść.",
+      "notes": "Gatunek opisał Bulliard w 1784 roku jako Agaricus odorus i długo był znany jako Clitocybe odora (Bull.) P. Kumm. W 2023 roku He, Chen, Bau, Wang i Yang przenieśli go do rodzaju Collybia jako Collybia odora, bieżącą nazwę w Index Fungorum i Species Fungorum. Wiele wykazów i GBIF nadal uznaje Clitocybe odora za nazwę akceptowaną. Oficjalna angielska nazwa w Wielkiej Brytanii to Aniseed Funnel. Epitet odora odnosi się do zapachu, kojzanego z lotnymi związkami anyżowymi (Rapior i współpracownicy, 2002). Przechowywane synonimy idą wyłącznie za synonimiką Species Fungorum dla Collybia odora; odmian i form, takich jak var. alba, nie zapisuje się jako synonimów.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "lejkówka wonna"
+    },
+    "pt": {
+      "description": "Collybia odora é um cogumelo florestal da família Clitocybaceae, durante muito tempo conhecido como Clitocybe odora e agora colocado no género Collybia. Reconhece-se por um chapéu azul-esverdeado a verde-cardenilho, lâminas pálidas ligeiramente decurrentes e um forte cheiro a anis ou funcho. Cresce no solo, na folhada, sobretudo em bosques de faia, de meados do verão até ao outono. A cor característica desbota muitas vezes para cinzento-esverdeado, acastanhado ou quase branco. É um bom comestível, usado principalmente como aromatizante, mas só devem colher-se exemplares frescos, claramente azul-esverdeados.",
+      "cap": "O chapéu mede 3–8 cm de diâmetro (as descrições norte-americanas indicam cerca de 2,5–7 cm). A princípio é convexo, muitas vezes com a margem enrolada, depois alarga-se e torna-se pouco infundibuliforme ou ondulado. A superfície seca é, em fresco, azul-esverdeada, verde-mar ou verde-cardenilho, finamente feltrada ou muito finamente fibrilosa, e tipicamente desbota para um cinzento-esverdeado pálido, acastanhado ou quase esbranquiçado, por vezes com o centro mais escuro. A carne do chapéu é fina e tenaz.",
+      "hymenium": "As lâminas são adnadas a ligeiramente decurrentes, de moderadamente apertadas a apertadas, com frequentes lamélulas. São mais pálidas do que o chapéu, esbranquiçadas, cor de creme ou fracamente cinzento-esverdeadas, e podem parecer ligeiramente rosadas; desbotam com a idade.",
+      "stipe": "O pé tem 3–8 cm de altura e 0,5–1,5 cm de espessura (as descrições britânicas indicam frequentemente cerca de 4–6 × 0,5–1,0 cm). É cilíndrico, por vezes um pouco engrossado na base, seco, sedoso-fibroso, esbranquiçado ou tintado como o chapéu, com fibrilas brancas felpudas ou um tufo micelial feltrado na base. Não tem anel.",
+      "flesh": "A carne é fina, esbranquiçada ou ligeiramente esverdeada, e não muda de cor ao corte. Em fresco cheira fortemente a anis ou funcho, e o sabor é igualmente anisado. Tanto a cor como o cheiro podem desvanecer-se com a idade, pelo que os exemplares velhos são mais difíceis de reconhecer.",
+      "sporePrint": "A esporada é branca ou quase branca num depósito fino, e pode parecer cor de creme ou ligeiramente rosada num depósito espesso. Os esporos são lisos, elipsoides e inamiloides; os tamanhos publicados vão de cerca de 5–7 × 3–5 µm a 6–9 × 3,5–5,5 µm (e 7–9 × 4–5 µm).",
+      "habitat": "Saprótrofo no solo, na folhada, sobretudo sob faias, também sob carvalhos e outras folhosas e por vezes sob coníferas. Os carpóforos aparecem de julho a novembro (tipicamente julho–outubro na Grã-Bretanha e Irlanda; agosto–novembro na Europa Central), geralmente dispersos ou em pequenos grupos, não em grandes tropas. Na Europa é bastante comum e de ampla distribuição, e também é citado da Ásia temperada e do norte e das montanhas da América do Norte.",
+      "uses": "Bom cogumelo comestível, mais apreciado como aromatizante do que como alimento de volume. Pode fritar-se e usar-se em sopas, risotos e molhos — o sabor a anis é por vezes recomendado com peixe branco — e seca bem e pode moer-se como condimento. Colher apenas exemplares frescos, claramente azul-esverdeados, e cozinhá-los antes de os comer. Os carpóforos pálidos ou desbotados devem deixar-se, porque podem confundir-se com outros funis.",
+      "confusion": "Os chapéus azul-esverdeados frescos e o forte cheiro a anis separam-no da maioria das espécies semelhantes, mas ambos podem desvanecer-se. Os exemplares pálidos podem confundir-se com outros funis odoríferos como Clitocybe fragrans, que é pálido e também cheira a anis. Stropharia aeruginosa e S. caerulea podem ser verde-azuladas quando jovens, mas têm um chapéu gorduroso ou escamoso, um anel e esporos púrpura-castanhos escuros, e não cheiram a anis. Os carpóforos desbotados também não devem confundir-se com clítocebes brancos tóxicos (muitas vezes chamados Clitocybe rivulosa ou C. dealbata), que não têm a cor azul-esverdeada nem o cheiro a anis. Se a cor desbotou e o cheiro não é claramente a anis, não deve comer-se.",
+      "notes": "A espécie foi descrita por Bulliard em 1784 como Agaricus odorus e durante muito tempo foi conhecida como Clitocybe odora (Bull.) P. Kumm. Em 2023, He, Chen, Bau, Wang e Yang transferiram-na para o género Collybia como Collybia odora, o nome atual no Index Fungorum e no Species Fungorum. Muitas listas e o GBIF continuam a tratar Clitocybe odora como nome aceite. O nome inglês oficial na Grã-Bretanha é Aniseed Funnel. O epíteto odora refere-se ao cheiro, associado a compostos voláteis do tipo anis (Rapior e colegas, 2002). Os sinónimos armazenados seguem apenas a sinonímia do Species Fungorum para Collybia odora; variedades e formas, como var. alba, não são armazenadas como sinónimos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Collybia odora este o ciupercă de pădure din familia Clitocybaceae, cunoscută îndelung ca Clitocybe odora și așezată acum în genul Collybia. Se recunoaște după pălăria albastru-verzuie până la verde de aramă, lamelele palide ușor decurente și mirosul puternic de anason sau fenicul. Crește pe sol, în litieră, mai ales în făgete, de la mijlocul verii până toamna. Culoarea caracteristică se decolorează adesea spre gri-verzui, brunicios sau aproape alb. Este o ciupercă comestibilă bună, folosită mai ales ca aromatizant, dar trebuie culese doar exemplare proaspete, clar albastru-verzui.",
+      "cap": "Pălăria are 3–8 cm în diametru (descrierile nord-americane indică circa 2,5–7 cm). La început este convexă, adesea cu marginea răsfrântă spre interior, apoi se aplatizează și devine puțin infundibuliformă sau ondulată. Suprafața uscată este, în stare proaspătă, albastru-verzuie, verde-marin sau verde de aramă, fin pâsloasă sau foarte fin fibriloasă, și de obicei se decolorează spre un gri-verzui pal, brunicios sau aproape albicios, uneori cu centrul mai închis. Carnea pălăriei este subțire și tenace.",
+      "hymenium": "Lamelele sunt adnate până la ușor decurente, de la moderat dese la dese, cu lamelule frecvente. Sunt mai palide decât pălăria, albicioase, crem sau slab gri-verzui, și pot părea ușor rozalii; palidizează odată cu vârsta.",
+      "stipe": "Piciorul are 3–8 cm înălțime și 0,5–1,5 cm grosime (descrierile britanice indică adesea circa 4–6 × 0,5–1,0 cm). Este cilindric, uneori ușor îngroșat la bază, uscat, mătăsos-fibros, albicios sau nuanțat ca pălăria, cu fibrile albe pufosase sau un smoc micelian pâslos la bază. Nu are inel.",
+      "flesh": "Carnea este subțire, albicioasă sau ușor verzui, și nu își schimbă culoarea la tăiere. Proaspătă miroase puternic a anason sau fenicul, iar gustul este la fel de anasonat. Atât culoarea, cât și mirosul pot slăbi odată cu vârsta, astfel încât exemplarele bătrâne sunt mai greu de recunoscut.",
+      "sporePrint": "Sporada este albă sau aproape albă într-un depozit subțire și poate părea crem sau ușor rozalie într-unul gros. Sporii sunt netezi, elipsoidali și inamilioizi; dimensiunile publicate variază de la circa 5–7 × 3–5 µm la 6–9 × 3,5–5,5 µm (și 7–9 × 4–5 µm).",
+      "habitat": "Saprotof pe sol, în litieră, mai ales sub fagi, de asemenea sub stejari și alți foioși și uneori sub conifere. Corpurile de fructificație apar din iulie până în noiembrie (de obicei iulie–octombrie în Marea Britanie și Irlanda; august–noiembrie în Europa Centrală), de regulă risipite sau în grupuri mici, nu în trupe mari. În Europa este destul de comună și larg răspândită, și este semnalată și din Asia temperată și din nordul și zonele montane ale Americii de Nord.",
+      "uses": "Ciupercă comestibilă bună, prețuită mai degrabă ca aromatizant decât ca aliment de volum. Poate fi prăjită și folosită în supe, risotto și sosuri — aroma de anason este uneori recomandată la peștele alb — se usucă bine și poate fi măcinată ca condiment. Se culeg doar exemplare proaspete, clar albastru-verzui, și se gătesc înainte de consum. Corpurile palide sau decolorate trebuie lăsate, deoarece pot fi confundate cu alte ciuperci infundibuliforme.",
+      "confusion": "Pălăriile albastru-verzui proaspete și mirosul puternic de anason o deosebesc de cele mai multe specii asemănătoare, dar ambele pot slăbi. Exemplarele palide pot fi confundate cu alte clitocybe parfumate, cum este Clitocybe fragrans, care este palidă și miroase și ea a anason. Stropharia aeruginosa și S. caerulea pot fi verde-albăstrui când sunt tinere, dar au pălăria unsuroasă sau solzoasă, un inel și spori brun-purpurii închiși, și nu miros a anason. Corpurile decolorate nu trebuie confundate nici cu clitocybele albe toxice (adesea numite Clitocybe rivulosa sau C. dealbata), care nu au culoarea albastru-verzuie nici mirosul de anason. Dacă totuși culoarea s-a stins și mirosul nu este clar de anason, nu se consumă.",
+      "notes": "Specia a fost descrisă de Bulliard în 1784 ca Agaricus odorus și a fost cunoscută îndelung ca Clitocybe odora (Bull.) P. Kumm. În 2023, He, Chen, Bau, Wang și Yang au transferat-o în genul Collybia ca Collybia odora, numele actual în Index Fungorum și Species Fungorum. Multe liste și GBIF consideră în continuare acceptat numele Clitocybe odora. Numele englez oficial în Marea Britanie este Aniseed Funnel. Epitetul odora se referă la miros, legat de compuși volatili de tip anason (Rapior și colegii, 2002). Sinonimele stocate urmează numai sinonimia din Species Fungorum pentru Collybia odora; varietățile și formele, cum este var. alba, nu sunt stocate ca sinonime.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Говорушка пахучая — лесной гриб семейства Clitocybaceae, долгое время известный как Clitocybe odora и ныне относимый к роду Collybia. Его узнают по сине-зелёной или медянковой шляпке, бледным, слегка нисходящим пластинкам и сильному запаху аниса или фенхеля. Растёт на земле в листовом опаде, особенно в буковых лесах, с середины лета до осени. Характерный цвет часто выцветает до серо-зелёного, буроватого или почти белого. Это хороший съедобный гриб, используемый главным образом как приправа, но собирать следует только свежие, явно сине-зелёные плодовые тела.",
+      "cap": "Шляпка 3–8 см в диаметре (североамериканские описания дают около 2,5–7 см). Сначала выпуклая, часто с подвёрнутым краем, затем раскрывается и становится неглубоко воронковидной или волнистой. Сухая поверхность в свежем виде сине-зелёная, цвета морской волны или медянковая, тонко-войлочная или очень тонко-волокнистая и обычно выцветает до бледно-серо-зелёной, буроватой или почти беловатой, иногда с более тёмным центром. Мякоть шляпки тонкая и жёсткая.",
+      "hymenium": "Пластинки приросшие или слегка нисходящие, умеренно частые или частые, с многочисленными короткими пластинками. Они бледнее шляпки, беловатые, кремовые или слабо серо-зелёные и могут казаться слегка розоватыми; с возрастом бледнеют.",
+      "stipe": "Ножка 3–8 см высотой и 0,5–1,5 см толщиной (британские описания часто дают около 4–6 × 0,5–1,0 см). Цилиндрическая, у основания иногда слегка утолщённая, сухая, шелковисто-волокнистая, беловатая или окрашенная как шляпка, с белыми пушистыми волоконцами или войлочным мицелиальным пучком у основания. Кольцо отсутствует.",
+      "flesh": "Мякоть тонкая, беловатая или слегка зеленоватая и не меняет цвета на разрезе. В свежем виде сильно пахнет анисом или фенхелем, вкус также анисовый. И цвет, и запах могут с возрастом ослабевать, поэтому старые плодовые тела труднее узнать.",
+      "sporePrint": "Споровый порошок в тонком отпечатке белый или почти белый, в толстом может быть кремовым или слегка розоватым. Споры гладкие, эллипсоидные, инамилоидные; опубликованные размеры составляют примерно от 5–7 × 3–5 мкм до 6–9 × 3,5–5,5 мкм (и 7–9 × 4–5 мкм).",
+      "habitat": "Сапротроф на земле в листовом опаде, особенно под буком, также под дубом и другими лиственными деревьями и иногда под хвойными. Плодовые тела появляются с июля по ноябрь (в Великобритании и Ирландии обычно июль–октябрь; в Центральной Европе август–ноябрь), как правило поодиночке или небольшими группами, а не большими скоплениями. В Европе вид довольно обычен и широко распространён, отмечен также в умеренной Азии и в северной и горной Северной Америке.",
+      "uses": "Хороший съедобный гриб, ценящийся скорее как приправа, чем как объёмная пища. Его можно жарить и добавлять в супы, ризотто и соусы — анисовый вкус иногда рекомендуют к белой рыбе — он хорошо сушится и может быть измельчён в приправу. Собирать следует только свежие, явно сине-зелёные экземпляры и готовить их перед едой. Бледные или выцветшие плодовые тела лучше оставлять, потому что их можно спутать с другими воронковидными грибами.",
+      "confusion": "Свежие сине-зелёные шляпки и сильный запах аниса отличают его от большинства сходных видов, но и цвет, и запах могут выцветать. Бледные экземпляры можно спутать с другими душистыми говорушками, например с Clitocybe fragrans, которая бледная и тоже пахнет анисом. Кольцевики Stropharia aeruginosa и S. caerulea в молодости могут быть зелёно-синими, но имеют слизистую или чешуйчатую шляпку, кольцо и тёмно-пурпурно-коричневые споры и не пахнут анисом. Выцветшие плодовые тела нельзя путать и с ядовитыми белыми говорушками (часто называемыми Clitocybe rivulosa или C. dealbata), у которых нет сине-зелёного цвета и анисового запаха. Если цвет выцвел, а запах не явно анисовый, гриб есть не следует.",
+      "notes": "Вид описал Бюльяр в 1784 году как Agaricus odorus, и долгое время он был известен как Clitocybe odora (Bull.) P. Kumm. В 2023 году He, Chen, Bau, Wang и Yang перенесли его в род Collybia как Collybia odora — нынешнее имя в Index Fungorum и Species Fungorum. Многие списки и GBIF по-прежнему считают принятым имя Clitocybe odora. Официальное английское название в Великобритании — Aniseed Funnel. Эпитет odora относится к запаху, который связывают с анисоподобными летучими соединениями (Rapior и коллеги, 2002). Сохранённые синонимы следуют только синонимике Species Fungorum для Collybia odora; разновидности и формы, например var. alba, как синонимы не сохраняются.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "Говорушка пахучая"
+    },
+    "sk": {
+      "description": "Strmuľka anízová je lesná huba z čeľade strmuľkovitých (Clitocybaceae), dlho známa ako Clitocybe odora a dnes zaraďovaná do rodu Collybia. Spozná sa podľa modrozeleného až medenkovozeleného klobúka, bledých, mierne zbiehavých lupenov a silnej anízovej alebo feniklovej vône. Rastie na zemi v opade, najmä v bučinách, od polovice leta do jesene. Výrazná farba často bledne na sivozelenú, hnedastú alebo takmer bielu pri starnutí alebo v suchom počasí. Je to dobrá jedlá huba, používaná najmä ako dochucovadlo, ale zbierať treba len čerstvé, zreteľne modrozelené plodnice.",
+      "cap": "Klobúk má priemer 3–8 cm (severoamerické údaje uvádzajú približne 2,5–7 cm). Najprv je vypuklý, často so zavinutým okrajom, neskôr sa sploští a stáva sa plytko lievikovitým alebo zvlneným. Suchý povrch je v čerstvom stave modrozelený, morsky zelený alebo medenkový, jemne plstnatý alebo veľmi jemne vláknitý, typicky bledne na bledosivozelený, hnedastý alebo takmer belavý, niekedy s tmavším stredom. Dužina klobúka je tenká a tuhá.",
+      "hymenium": "Lupene sú pripojené až mierne zbiehavé, stredne husté až husté, s častými kratšími lupienkami. Sú bledšie ako klobúk, belavé, krémové alebo slabo sivozelené a môžu pôsobiť slabo naružovelo; vekom blednú.",
+      "stipe": "Hlúbik je vysoký 3–8 cm a hrubý 0,5–1,5 cm (britské údaje často uvádzajú približne 4–6 × 0,5–1,0 cm). Je valcovitý, na báze niekedy mierne zhrubnutý, suchý, hodvábne vláknitý, belavý alebo sfarbený ako klobúk, s bielymi páperistými vlákienkami alebo plstnatým podhubím na báze. Prsteň chýba.",
+      "flesh": "Dužina je tenká, belavá alebo slabo zelenkastá a pri reze nemení farbu. V čerstvom stave silno voňá po aníze alebo fenikli a chuť je podobne anízová. Farba aj vôňa môžu vekom blednúť, preto sú staršie plodnice ťažšie rozpoznateľné.",
+      "sporePrint": "Výtrusný prach je v tenkej vrstve biely alebo takmer biely a v hrubej vrstve môže byť krémový alebo slabo naružovelý. Výtrusy sú hladké, elipsoidné a inamyloidné; uvádzané rozmery sa pohybujú približne od 5–7 × 3–5 µm do 6–9 × 3,5–5,5 µm (a 7–9 × 4–5 µm).",
+      "habitat": "Saprotrófná huba rastúca na zemi v opade, najmä pod bukmi, tiež pod dubmi a inými listnáčmi a niekedy pod ihličnanmi. Plodnice sa objavujú od júla do novembra (v Británii a Írsku typicky júl–október; v strednej Európe august–november), zvyčajne jednotlivé alebo v malých skupinách, nie vo veľkých húfoch. V Európe je pomerne hojná a široko rozšírená, zaznamenaná je aj v miernej Ázii a v severnej a horskej Severnej Amerike.",
+      "uses": "Dobrá jedlá huba, cenená skôr ako dochucovadlo než ako hlavný pokrm. Dá sa pražiť, použiť do polievok, rizota a omáčok — anízová chuť sa niekedy odporúča k bielej rybe — a dobre sa suší a dá sa rozomlieť na korenie. Zbierajú sa len čerstvé, zreteľne modrozelené plodnice a pred jedlom sa uvaria. Bledé alebo vyblednuté plodnice treba nechať, pretože ich možno zameniť s inými lievikovitými hubami.",
+      "confusion": "Čerstvé modrozelené klobúky a silná anízová vôňa ju oddelia od väčšiny podobných druhov, ale farba aj vôňa môžu blednúť. Bledé plodnice možno zameniť s inými voňavými strmuľkami, napríklad s Clitocybe fragrans, ktorá je bledá a tiež voňá po aníze. Límcovky Stropharia aeruginosa a S. caerulea môžu byť v mladosti zelomodré, ale majú mastný alebo šupinatý klobúk, prsteň a tmavofialovohnedé výtrusy a po aníze nevoňajú. Vyblednuté plodnice netreba zamieňať ani s jedovatými bielymi strmuľkami (často uvádzanými ako Clitocybe rivulosa alebo C. dealbata), ktoré nemajú modrozelenú farbu ani anízovú vôňu. Ak farba vybledla a vôňa nie je zreteľne anízová, huba sa neje.",
+      "notes": "Druh opísal Bulliard v roku 1784 ako Agaricus odorus a dlho bol známy ako Clitocybe odora (Bull.) P. Kumm. V roku 2023 ho He, Chen, Bau, Wang a Yang preradili do rodu Collybia ako Collybia odora, čo je súčasné meno v Index Fungorum a Species Fungorum. Mnohé zoznamy a GBIF stále uvádzajú ako prijaté meno Clitocybe odora. Oficiálny anglický názov v Británii je Aniseed Funnel. Epiteton odora odkazuje na vôňu, ktorá sa spája s prchavými látkami anízového typu (Rapior a kolegovia, 2002). Uložené synonymá nasledujú len synonymiku Species Fungorum pre Collybia odora; variety a formy, napríklad var. alba, sa ako synonymá neukladajú.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Clitocybe-odora/strmulka-anizova/strmelka-anyzka/ID653",
+        "https://botany.cz/cs/clitocybe-odora/",
+        "https://fotonet.sk/atlas/fungi_huby/clitocybe-odora"
+      ],
+      "label": "strmuľka anízová"
+    },
+    "sl": {
+      "description": "Janeževa livka je gozdna goba družine Clitocybaceae, dolgo znana kot Clitocybe odora in danes uvrščena v rod Collybia. Prepoznamo jo po modrozelenem do bakreno zelenem klobuku, bledi, rahlo potečenih lističih in močnem vonju po janežu ali komarčku. Raste na tleh v listnem opadu, zlasti v bukovih gozdovih, od visokega poletja do jeseni. Značilna barva pogosto zbledi v sivozeleno, rjavkasto ali skoraj belo. Je dobra užitna goba, ki se uporablja predvsem kot začimba, vendar je treba nabirati le sveža, jasno modrozelena trosišča.",
+      "cap": "Klobuk meri 3–8 cm v premeru (severnoameriški podatki navajajo okoli 2,5–7 cm). Najprej je izbočen, pogosto z zavihanim robom, pozneje se splošči in postane plitvo lijakast ali valovit. Suha površina je sveže modrozelena, morsko zelena ali bakreno zelena, fino filčasta ali zelo fino vlaknata in tipično zbledi v bledo sivozeleno, rjavkasto ali skoraj belkasto, včasih s temnejšo sredino. Meso klobuka je tanko in žilavo.",
+      "hymenium": "Lističi so priraščeni do rahlo potečeni, zmerno gosti do gosti, s pogostimi krajšimi lističi. So bledši od klobuka, belkasti, kremasti ali šibko sivozeleni in lahko delujejo rahlo rožnato; s starostjo zbledijo.",
+      "stipe": "Bet je visok 3–8 cm in debel 0,5–1,5 cm (britanski podatki pogosto navajajo okoli 4–6 × 0,5–1,0 cm). Je valjast, pri dnu včasih nekoliko odebeljen, suh, svilnato vlaknat, belkast ali obarvan kot klobuk, z belimi puhastimi vlakenci ali filčastim šopom podgobja pri dnu. Obročka ni.",
+      "flesh": "Meso je tanko, belkasto ali rahlo zelenkasto in se na prerezu ne spremeni barve. Sveže močno diši po janežu ali komarčku, okus je prav tako janežev. Tako barva kot vonj lahko s starostjo zbledita, zato so starejša trosišča teže prepoznavna.",
+      "sporePrint": "Trosni prah je v tankem odtisu bel ali skoraj bel, v debelem pa je lahko kremast ali rahlo rožnat. Trosi so gladki, elipsoidni in inamiloidni; objavljene mere segajo od približno 5–7 × 3–5 µm do 6–9 × 3,5–5,5 µm (in 7–9 × 4–5 µm).",
+      "habitat": "Saprotofna goba na tleh v listnem opadu, zlasti pod bukvami, tudi pod hrasti in drugimi listavci ter včasih pod iglavci. Trosišča se pojavljajo od julija do novembra (v Britaniji in na Irskem običajno julij–oktober; v srednji Evropi avgust–november), navadno posamič ali v majhnih skupinah, ne v velikih jatah. V Evropi je vrsta precej pogosta in široko razširjena, znana je tudi iz zmerne Azije ter s severne in gorske Severne Amerike.",
+      "uses": "Dobra užitna goba, bolj cenjena kot začimba kot kot obsežna hrana. Lahko jo pražimo in uporabljamo v juhe, rižote in omake — janežev okus včasih priporočajo k beli ribi — dobro se suši in jo je mogoče zmleti v začimbo. Nabiramo le sveža, jasno modrozelena trosišča in jih pred uživanjem skuhamo. Bleda ali zbledela trosišča pustimo, ker jih lahko zamenjamo z drugimi lijakastimi gobami.",
+      "confusion": "Sveži modrozeleni klobuki in močan janežev vonj jo ločijo od večine podobnih vrst, vendar lahko oboje zbledi. Bleda trosišča lahko zamenjamo z drugimi dišečimi livkami, na primer s Clitocybe fragrans, ki je bleda in prav tako diši po janežu. Zelenkasti Stropharia aeruginosa in S. caerulea sta lahko v mladosti zelenomodra, vendar imata masten ali luskinast klobuk, obroček in temno škrlatnorjave trose ter ne dišita po janežu. Zbledelih trosišč tudi ne smemo zamenjati s strupenimi belimi livkami (pogosto imenovanimi Clitocybe rivulosa ali C. dealbata), ki nimajo modrozelene barve in janeževega vonja. Če je barva zbledela in vonj ni jasno janežev, gobe ne jemo.",
+      "notes": "Vrsto je leta 1784 opisal Bulliard kot Agaricus odorus in dolgo je bila znana kot Clitocybe odora (Bull.) P. Kumm. Leta 2023 so jo He, Chen, Bau, Wang in Yang prenesli v rod Collybia kot Collybia odora, kar je trenutno ime v Index Fungorum in Species Fungorum. Številni seznami in GBIF še vedno navajajo kot sprejeto ime Clitocybe odora. Uradno angleško ime v Britaniji je Aniseed Funnel. Epitet odora se nanaša na vonj, ki so ga povezali z janežu podobnimi hlapnimi spojinami (Rapior in sodelavci, 2002). Shranjeni sinonimi sledijo le sinonimiki Species Fungorum za Collybia odora; različice in oblike, na primer var. alba, se kot sinonimi ne shranjujejo.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "Janeževa livka"
+    },
+    "sr": {
+      "description": "Collybia odora је шумска гљива породице Clitocybaceae, дуго позната као Clitocybe odora, а сада смештена у род Collybia. Препознаје се по плавозеленој до бакарнозеленој шеширу, бледим, мало силазним листићима и јаком мирису на анис или коморач. Расте на тлу у лисном отпаду, нарочито у буковим шумама, од високог лета до јесени. Карактеристична боја често избледи у сивозелену, смеђкасту или готово белу. Добра је јестива гљива, углавном коришћена као зачин, али треба брати само свежа, јасно плавозелена плодишта.",
+      "cap": "Шешир има 3–8 cm у пречнику (северноамерички подаци наводе око 2,5–7 cm). Испрва је испупчен, често са завијеним рубом, касније се спљошти и постаје плитко левкаст или таласаст. Сува површина је у свежем стању плавозелена, морскозелена или бакарнозелена, фино филцаста или врло фино влакнаста и типично избледи у бледо сивозелену, смеђкасту или готово беличасту, понекад са тамнијим средиштем. Месо шешира је танко и жилаво.",
+      "hymenium": "Листићи су прирасли до мало силазних, умерено густи до густи, са честим краћим листићима. Блеђи су од шешира, беличасти, крем или слабо сивозелени и могу изгледати мало ружичасто; са годинама бледе.",
+      "stipe": "Стручак је висок 3–8 cm и дебео 0,5–1,5 cm (британски подаци често наводе око 4–6 × 0,5–1,0 cm). Цилиндричан је, при дну понекад мало задебљан, сув, свиленкасто влакнаст, беличаст или обојен као шешир, са белим пухастим влаканцима или филцастим мицелијским чуперком при дну. Прстена нема.",
+      "flesh": "Месо је танко, беличасто или мало зеленикасто и при пресеку не мења боју. Свеже јако мирише на анис или коморач, а укус је такође анисаст. И боја и мирис могу са годинама избледети, па је старија плодишта теже препознати.",
+      "sporePrint": "Отисак спора је у танком слоју бео или готово бео, а у дебелом може бити крем или мало ружичаст. Споре су глатке, елипсоидне и инамилоидне; објављене мере иду од око 5–7 × 3–5 µm до 6–9 × 3,5–5,5 µm (и 7–9 × 4–5 µm).",
+      "habitat": "Сапротрофна гљива на тлу у лисном отпаду, нарочито под буквама, такође под храстовима и другим листопадним дрвећем те понекад под четинарима. Плодишта се јављају од јула до новембра (у Британији и Ирској типично јул–октобар; у средњој Европи август–новембар), обично разређено или у малим групама, не у великим јатима. У Европи је врста прилично честа и широко распрострањена, забележена је и из умерене Азије те са северне и планинске Северне Америке.",
+      "uses": "Добра јестива гљива, више цењена као зачин него као обиман оброк. Може се пржити и користити у супама, рижотима и сосовима — анисасти укус понекад се препоручује уз белу рибу — добро се суши и може се самлети у зачин. Беру се само свежа, јасно плавозелена плодишта и кувају се пре јела. Бледа или избледела плодишта треба оставити јер се могу заменити с другим левкастим гљивама.",
+      "confusion": "Свежи плавозелени шешири и јаки мирис на анис одвајају је од већине сличних врста, али обоје може избледети. Бледа плодишта могу се заменити с другим мирисним левкама попут Clitocybe fragrans, која је бледа и такође мирише на анис. Stropharia aeruginosa и S. caerulea могу бити зеленоплаве у младости, али имају масни или љускасти шешир, прстен и тамно пурпурносмеђе споре те не миришу на анис. Избледела плодишта не треба мешати ни са отровним белим левкама (често званим Clitocybe rivulosa или C. dealbata), које немају плавозелену боју ни мирис на анис. Ако је боја избледела и мирис није јасно анисаст, не једе се.",
+      "notes": "Врсту је 1784. описао Bulliard као Agaricus odorus и дуго је била позната као Clitocybe odora (Bull.) P. Kumm. Године 2023. He, Chen, Bau, Wang и Yang пренели су је у род Collybia као Collybia odora, садашње име у Index Fungorum и Species Fungorum. Многи пописи и GBIF и даље наводе Clitocybe odora као прихваћено име. Званично енглеско име у Британији је Aniseed Funnel. Епитет odora односи се на мирис, повезан са испарљивим једињењима анисног типа (Rapior и сарадници, 2002). Сачувани синоними прате само синонимику Species Fungorum за Collybia odora; варијетети и облици, попут var. alba, не чувају се као синоними.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "Grön trattskivling är en skogssvamp i familjen Clitocybaceae, länge känd som Clitocybe odora och nu placerad i släktet Collybia. Den känns igen på en blågrön till ärggrön hatt, bleka, något nedlöpande skivor och en stark doft av anis eller fänkål. Den växer på marken i lövförna, särskilt i bokskog, från högsommar till höst. Den typiska färgen bleknar ofta till grågrönt, brunaktigt eller nästan vitt. Det är en god matsvamp, främst använd som smaksättare, men endast färska, tydligt blågröna fruktkroppar bör plockas.",
+      "cap": "Hatten är 3–8 cm bred (nordamerikanska uppgifter anger cirka 2,5–7 cm). Den är först välvd, ofta med invrullad kant, senare utbredd och grunt trattformig eller vågig. Den torra ytan är färskt blågrön, havsgrön eller ärggrön, fint filthårig eller mycket fint fibrös, och bleknar typiskt till blekt grågrönt, brunaktigt eller nästan vitaktigt, ibland med mörkare mitt. Hattköttet är tunt och segt.",
+      "hymenium": "Skivorna är fästa till något nedlöpande, måttligt täta till täta, med många kortare skivor. De är blekare än hatten, vitaktiga, gräddfärgade eller svagt grågröna och kan se svagt rosa ut; de bleknar med åldern.",
+      "stipe": "Foten är 3–8 cm hög och 0,5–1,5 cm tjock (brittiska uppgifter anger ofta cirka 4–6 × 0,5–1,0 cm). Den är cylindrisk, ibland något basalt svälld, torr, silkeslena fibrös, vitaktig eller tonad som hatten, med vita duniga fibrer eller en filthårig myceltofs vid basen. Ring saknas.",
+      "flesh": "Köttet är tunt, vitaktigt eller svagt grönaktigt och ändrar inte färg vid skärning. Färskt doftar det starkt av anis eller fänkål, och smaken är på liknande sätt anislik. Både färgen och doften kan blekna med åldern, så äldre exemplar kan vara svårare att känna igen.",
+      "sporePrint": "Sporpulveret är vitt eller nästan vitt i ett tunt avtryck och kan se gräddfärgat eller svagt rosa ut i ett tjockt. Sporerna är släta, ellipsoida och inamyloida; publicerade mått går från cirka 5–7 × 3–5 µm till 6–9 × 3,5–5,5 µm (och 7–9 × 4–5 µm).",
+      "habitat": "Saprotrof på marken i lövförna, särskilt under bok, också under ek och andra lövträd och ibland under barrträd. Fruktkroppar kommer från juli till november (typiskt juli–oktober i Storbritannien och Irland; augusti–november i Centraleuropa), vanligen spridda eller i små grupper snarare än stora trupp. Arten är tämligen allmän och vida spridd i Europa och är också uppgiven från tempererade Asien samt norra och montan Nordamerika.",
+      "uses": "En god matsvamp, mer värderad som smaksättare än som basföda. Den kan stekas och användas i soppor, risotto och såser — anissmaken rekommenderas ibland till vit fisk — och torkar väl och kan malas till krydda. Plocka endast färska, tydligt blågröna exemplar och tillaga dem före förtäring. Blekta eller urblekta fruktkroppar bör lämnas, eftersom de kan förväxlas med andra trattformade svampar.",
+      "confusion": "Färska blågröna hattar och den starka anisdoften skiljer den från de flesta liknande arter, men båda kan blekna. Blekta exemplar kan förväxlas med andra doftande trattskivlingar som Clitocybe fragrans, som är blek och också doftar anis. De grönaktiga kragskivlingarna Stropharia aeruginosa och S. caerulea kan vara grönblå som unga men har en slemmig eller fjällig hatt, en ring och mörkt purpurbruna sporer, och doftar inte anis. Urblekta fruktkroppar får inte heller förväxlas med giftiga vita trattskivlingar (ofta kallade Clitocybe rivulosa eller C. dealbata), som saknar den blågröna färgen och anisdoften. Om färgen har bleknat och doften inte är tydligt anis, ät den inte.",
+      "notes": "Arten beskrevs av Bulliard 1784 som Agaricus odorus och har länge varit känd som Clitocybe odora (Bull.) P. Kumm. År 2023 förde He, Chen, Bau, Wang och Yang över den till Collybia som Collybia odora, det aktuella namnet i Index Fungorum och Species Fungorum. Många checklistor och GBIF listar fortfarande Clitocybe odora som accepterat. Det officiella engelska namnet i Storbritannien är Aniseed Funnel. Epitetet odora syftar på doften, som har kopplats till anisliknande flyktiga ämnen (Rapior och kollegor, 2002). Lagrade synonymer följer endast Species Fungorums synonymik för Collybia odora; varieteter och former, som var. alba, lagras inte som synonymer.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "grön trattskivling"
+    },
+    "tr": {
+      "description": "Collybia odora, Clitocybaceae familyasından bir orman mantarıdır; uzun süre Clitocybe odora adıyla bilinmiş, şimdi Collybia cinsine yerleştirilmiştir. Mavi-yeşilden bakır yeşiline şapkası, soluk, hafifçe inen lamelleri ve güçlü anason veya rezene kokusuyla tanınır. Özellikle kayın ormanlarında, yaprak döküntüsü içinde toprakta, yaz ortasından sonbahara kadar yetişir. Belirgin renk çoğu kez gri-yeşil, kahverengimsi veya neredeyse beyaza solar. İyi bir yenilebilir mantardır, esas olarak çeşni olarak kullanılır, ancak yalnızca taze, açıkça mavi-yeşil meyve gövdeleri toplanmalıdır.",
+      "cap": "Şapka 3–8 cm çapındadır (Kuzey Amerika kayıtları yaklaşık 2,5–7 cm verir). Önce tümsek, çoğu kez kıvrık kenarlıdır, sonra yayılır ve sığ huni biçimli veya dalgalı olur. Kuru yüzeyi taze iken mavi-yeşil, deniz yeşili veya bakır yeşilidir, ince keçemsi veya çok ince liflidir ve tipik olarak soluk gri-yeşil, kahverengimsi veya neredeyse beyazımsıya solar, bazen daha koyu bir merkezle. Şapka eti ince ve serttir.",
+      "hymenium": "Lameller yapışık ila hafifçe inen, orta sıklıkta ila sıktır ve kısa lameller sıkça bulunur. Şapkadan daha soluktur, beyazımsı, krem veya zayıf gri-yeşil olabilir ve hafifçe pembemsi görünebilir; yaşlandıkça solar.",
+      "stipe": "Sap 3–8 cm boyunda ve 0,5–1,5 cm kalınlığındadır (Britanya kayıtları çoğu kez yaklaşık 4–6 × 0,5–1,0 cm verir). Silindiriktir, tabanda bazen biraz şişkindir, kuru, ipeksi lifli, beyazımsı veya şapka gibi tonlu, tabanda beyaz tüylü lifler veya keçemsi bir miselyum tutamı vardır. Halkası yoktur.",
+      "flesh": "Et ince, beyazımsı veya hafif yeşilimsi olup kesildiğinde renk değiştirmez. Taze iken güçlü anason veya rezene kokar ve tadı da anasonludur. Hem renk hem koku yaşla solabilir, bu yüzden yaşlı meyve gövdelerini tanımak daha zordur.",
+      "sporePrint": "Spor izi ince bir tabakada beyaz veya neredeyse beyazdır, kalın bir tabakada krem veya hafifçe pembemsi görünebilir. Sporlar pürüzsüz, elipsoit ve inamiloiddir; yayımlanan boyutlar yaklaşık 5–7 × 3–5 µm ile 6–9 × 3,5–5,5 µm (ve 7–9 × 4–5 µm) arasındadır.",
+      "habitat": "Özellikle kayın altında, ayrıca meşe ve diğer yapraklılar ve bazen iğne yapraklılar altında, yaprak döküntüsü içinde toprakta saprotroftur. Meyve gövdeleri Temmuz’dan Kasım’a kadar görünür (Britanya ve İrlanda’da tipik olarak Temmuz–Ekim; Orta Avrupa’da Ağustos–Kasım), genellikle dağınık veya küçük gruplar halinde, büyük kümeler halinde değil. Avrupa’da oldukça yaygın ve geniş yayılışlıdır, ılıman Asya’dan ve Kuzey Amerika’nın kuzey ve dağlık kesimlerinden de kaydedilmiştir.",
+      "uses": "İyi bir yenilebilir mantardır, hacimli bir yiyecekten çok çeşni olarak değerlidir. Kızartılabilir, çorba, risotto ve soslarda kullanılabilir — anason tadı bazen beyaz balıkla önerilir — iyi kurur ve baharat olarak öğütülebilir. Yalnızca taze, açıkça mavi-yeşil örnekler toplanmalı ve yenmeden önce pişirilmelidir. Soluk veya solmuş meyve gövdeleri bırakılmalıdır, çünkü diğer huni biçimli mantarlarla karıştırılabilir.",
+      "confusion": "Taze mavi-yeşil şapkalar ve güçlü anason kokusu onu çoğu benzer türden ayırır, ancak ikisi de solabilir. Soluk örnekler, soluk olup yine anason kokan Clitocybe fragrans gibi diğer kokulu huni mantarlarıyla karıştırılabilir. Stropharia aeruginosa ve S. caerulea gençken yeşil-mavi olabilir, ancak yağlı veya pullu bir şapkaları, bir halkaları ve koyu mor-kahverengi sporları vardır ve anason kokmazlar. Solmuş meyve gövdeleri, mavi-yeşil rengi ve anason kokusu olmayan zehirli beyaz hunilerle (çoğu kez Clitocybe rivulosa veya C. dealbata diye anılır) de karıştırılmamalıdır. Renk solmuşsa ve koku açıkça anason değilse yenmemelidir.",
+      "notes": "Tür, 1784’te Bulliard tarafından Agaricus odorus olarak tanımlandı ve uzun süre Clitocybe odora (Bull.) P. Kumm. olarak bilindi. 2023’te He, Chen, Bau, Wang ve Yang onu Collybia odora adıyla Collybia cinsine aktardı; bu, Index Fungorum ve Species Fungorum’daki geçerli addır. Birçok kontrol listesi ve GBIF hâlâ Clitocybe odora’yı kabul edilen ad olarak listeler. Britanya’daki resmi İngilizce ad Aniseed Funnel’dır. odora epiteti kokuya işaret eder ve anason tipi uçucu bileşiklerle ilişkilendirilmiştir (Rapior ve meslektaşları, 2002). Saklanan sinonimler yalnızca Species Fungorum’un Collybia odora sinonimisini izler; var. alba gibi varyete ve formlar sinonim olarak saklanmaz.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Collybia odora — лісовий гриб родини Clitocybaceae, тривалий час відомий як Clitocybe odora і нині віднесений до роду Collybia. Його впізнають за синьо-зеленою або мідянково-зеленою шапинкою, блідими, злегка низбіжними пластинками та сильним запахом анісу або фенхелю. Росте на землі в листовому опаді, особливо в букових лісах, із середини літа до осені. Характерний колір часто вицвітає до сіро-зеленого, буруватого або майже білого. Це добрий їстівний гриб, що використовується переважно як приправа, але збирати слід лише свіжі, виразно синьо-зелені плодові тіла.",
+      "cap": "Шапинка 3–8 см у діаметрі (північноамериканські описи дають близько 2,5–7 см). Спочатку опукла, часто із загорнутим краєм, потім розкривається і стає неглибоко лійкоподібною або хвилястою. Суха поверхня в свіжому стані синьо-зелена, кольору морської хвилі або мідянкова, тонкоповстиста або дуже тонковолокниста і зазвичай вицвітає до блідо-сіро-зеленої, буруватої або майже білуватої, іноді з темнішим центром. М’якоть шапинки тонка і жорстка.",
+      "hymenium": "Пластинки прирослі або злегка низбіжні, помірно густі або густі, з численними короткими пластинками. Вони блідіші за шапинку, білуваті, кремові або слабко сіро-зелені і можуть здаватися злегка рожевуватими; з віком бліднуть.",
+      "stipe": "Ніжка 3–8 см заввишки і 0,5–1,5 см завтовшки (британські описи часто дають близько 4–6 × 0,5–1,0 см). Циліндрична, біля основи іноді злегка потовщена, суха, шовковисто-волокниста, білувата або забарвлена як шапинка, з білими пухнастими волоконцями або повстистим міцеліальним пучком біля основи. Кільця немає.",
+      "flesh": "М’якоть тонка, білувата або злегка зеленувата і не змінює кольору на розрізі. У свіжому стані сильно пахне анісом або фенхелем, смак також анісовий. І колір, і запах можуть з віком слабшати, тому старі плодові тіла важче розпізнати.",
+      "sporePrint": "Споровий порошок у тонкому відбитку білий або майже білий, у товстому може бути кремовим або злегка рожевуватим. Спори гладкі, еліпсоїдні, інамілоїдні; опубліковані розміри становлять приблизно від 5–7 × 3–5 мкм до 6–9 × 3,5–5,5 мкм (і 7–9 × 4–5 мкм).",
+      "habitat": "Сапротроф на землі в листовому опаді, особливо під буком, також під дубом та іншими листяними деревами і іноді під хвойними. Плодові тіла з’являються з липня по листопад (у Великій Британії та Ірландії зазвичай липень–жовтень; у Центральній Європі серпень–листопад), як правило поодинці або невеликими групами, а не великими скупченнями. У Європі вид досить звичайний і широко поширений, зазначений також із помірної Азії та з північної й гірської Північної Америки.",
+      "uses": "Добрий їстівний гриб, що цінується радше як приправа, ніж як об’ємна їжа. Його можна смажити й додавати в супи, різото та соуси — анісовий смак іноді рекомендують до білої риби — він добре сушиться і може бути подрібнений на приправу. Збирати слід лише свіжі, виразно синьо-зелені екземпляри і готувати їх перед їжею. Бліді або вицвілі плодові тіла краще залишати, бо їх можна сплутати з іншими лійкоподібними грибами.",
+      "confusion": "Свіжі синьо-зелені шапинки та сильний запах анісу відрізняють його від більшості подібних видів, але і колір, і запах можуть вицвітати. Бліді екземпляри можна сплутати з іншими запашними говірушками, наприклад із Clitocybe fragrans, яка бліда і теж пахне анісом. Stropharia aeruginosa і S. caerulea в молодості можуть бути зелено-синіми, але мають слизову або лускату шапинку, кільце і темно-пурпурово-коричневі спори й не пахнуть анісом. Вицвілі плодові тіла не можна плутати і з отруйними білими говірушками (часто званими Clitocybe rivulosa або C. dealbata), у яких немає синьо-зеленого кольору й анісового запаху. Якщо колір вицвів, а запах не явно анісовий, гриб їсти не слід.",
+      "notes": "Вид описав Бюльяр 1784 року як Agaricus odorus, і довгий час він був відомий як Clitocybe odora (Bull.) P. Kumm. 2023 року He, Chen, Bau, Wang і Yang перенесли його до роду Collybia як Collybia odora — нинішню назву в Index Fungorum і Species Fungorum. Багато списків і GBIF досі вважають прийнятою назву Clitocybe odora. Офіційна англійська назва у Великій Британії — Aniseed Funnel. Епітет odora стосується запаху, який пов’язують з анісоподібними леткими сполуками (Rapior і колеги, 2002). Збережені синоніми йдуть лише за синонімікою Species Fungorum для Collybia odora; різновиди й форми, наприклад var. alba, як синоніми не зберігаються.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "浅黄绿杯伞是杯伞科（Clitocybaceae）的林地蘑菇，长期被称为 Clitocybe odora，现归入金钱菌属（Collybia）。其识别特征是蓝绿色至铜绿色的菌盖、浅色而略延生的菌褶，以及强烈的茴香或茴芹气味。它生于地面落叶层中，尤见于山毛榉林，从盛夏到秋季出现。鲜艳的颜色常随成熟或干燥而褪成灰绿、褐色或近乎白色。这是一种良好的食用菌，主要用于调味，但只应采集新鲜、颜色明显为蓝绿色的子实体。",
+      "cap": "菌盖直径 3–8 厘米（北美记载约为 2.5–7 厘米）。初期凸起，边缘常内卷，随后展开，呈浅漏斗形或波状。干燥表面在新鲜时呈蓝绿、海绿或铜绿色，细毡状或极细纤维状，通常褪为浅灰绿、褐色或近乎白色，有时中央较暗。菌盖的菌肉薄而韧。",
+      "hymenium": "菌褶贴生至略延生，中等密至密，短菌褶多见。颜色比菌盖浅，近白、奶油色或略带灰绿，有时可呈淡粉红色；随年龄变浅。",
+      "stipe": "菌柄长 3–8 厘米、粗 0.5–1.5 厘米（英国记载常作约 4–6 × 0.5–1.0 厘米）。圆柱形，基部有时略膨大，干燥，具丝状纤维，近白色或带有与菌盖相近的色调，基部有白色绒毛或毡状菌丝簇。无菌环。",
+      "flesh": "菌肉薄，近白或略带绿色，切开不变色。新鲜时有强烈的茴香或茴芹气味，味道同样带茴香。颜色和气味都可能随年龄消退，因此较老的子实体更难辨认。",
+      "sporePrint": "孢子印在薄层中为白色或近白色，厚层中可呈奶油色或略带粉红。孢子平滑、椭圆形、非淀粉质；文献记载的大小约从 5–7 × 3–5 微米到 6–9 × 3.5–5.5 微米（以及 7–9 × 4–5 微米）。",
+      "habitat": "腐生，生于地面落叶层中，尤见于山毛榉下，也见于栎树和其他阔叶树下，有时也在针叶树下。子实体出现于 7 月至 11 月（英国和爱尔兰通常为 7–10 月；中欧为 8–11 月），一般散生或成小群，而不是大群出现。在欧洲相当常见且分布广泛，也见于温带亚洲以及北美北部和山地。",
+      "uses": "良好的食用菌，更常作为调味料而非主料。可用于炒制、汤、烩饭和酱汁——茴香味有时被推荐搭配白鱼——并且易于干燥，可研成调味粉。只采集新鲜、明显呈蓝绿色的个体，并在食用前煮熟。浅色或已褪色的子实体应留下，以免与其他漏斗形蘑菇混淆。",
+      "confusion": "新鲜的蓝绿色菌盖和强烈的茴香气味可将其与大多数相似种区分，但这两者都可能消退。浅色个体可能与其他有香气的漏斗菌混淆，例如同样呈浅色并有茴香气味的 Clitocybe fragrans。Stropharia aeruginosa 和 S. caerulea 幼时可为绿蓝色，但菌盖黏滑或有鳞片，有菌环，孢子呈深紫褐色，且无茴香气味。褪色的子实体也不应与有毒的白色杯伞类（常称为 Clitocybe rivulosa 或 C. dealbata）混淆，后者没有蓝绿色，也没有茴香气味。如果颜色已褪、气味也不再明显是茴香，则不要食用。",
+      "notes": "本种由比利亚尔于 1784 年以 Agaricus odorus 描述，长期被称为 Clitocybe odora (Bull.) P. Kumm。2023 年，He、Chen、Bau、Wang 与 Yang 将其转入金钱菌属，订名为 Collybia odora，这是 Index Fungorum 和 Species Fungorum 中的现行学名。许多名录和 GBIF 仍将 Clitocybe odora 视为接受名。英国的官方英文名是 Aniseed Funnel。种加词 odora 指其气味，并与茴香类挥发性化合物有关（Rapior 等，2002）。收录的异名仅遵循 Species Fungorum 对 Collybia odora 的异名关系；变种和变型（如 var. alba）不作为异名保存。",
+      "names": [
+        "淺黃綠杯傘"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q913466"
+      ],
+      "label": "浅黄绿杯伞"
+    }
+  },
+  "synonyms": [
+    "Agaricus odorus Bull.",
+    "Gymnopus odorus (Bull.) Gray",
+    "Clitocybe odora (Bull.) P. Kumm.",
+    "Lepista odora (Bull.) Harmaja",
+    "Agaricus virens Scop.",
+    "Mycena virens (Scop.) Quél.",
+    "Clitocybe virens (Scop.) Sacc.",
+    "Agaricus viridis Huds.",
+    "Clitocybe viridis (Huds.) Gillet",
+    "Agaricus moschatus J.F. Gmel.",
+    "Agaricus anisatus Pers.",
+    "Gymnopus anisatus (Pers.) Zaw.",
+    "Agaricus trogii Fr.",
+    "Clitocybe trogii (Fr.) Sacc."
+  ],
+  "reserved": false,
+  "id": 189,
+  "citation": "in He, Chen, Bau, Wang & Yang, Fungal Diversity 123: 25 (2023)"
 }
 ];
