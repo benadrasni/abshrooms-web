@@ -193102,5 +193102,908 @@ export const CATALOG = [
   "reserved": false,
   "id": 187,
   "citation": "Syst. Pilze (Würzburg): 89 (1816) [1816-17]"
+},
+{
+  "name": "Cortinarius caperatus",
+  "author": "(Pers.) Fr.",
+  "family": "Cortinariaceae",
+  "genus": "Cortinarius",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricales",
+    "Cortinariaceae",
+    "Cortinarius"
+  ],
+  "summary": [
+    "Agaricales",
+    "Cortinariaceae",
+    "Cortinarius"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown"
+  ],
+  "capFrom": 5.0,
+  "capTo": 14.0,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 15.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 2.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "label": {
+    "cs": "sluka svraskalá",
+    "da": "Klidhat",
+    "de": "Reifpilz",
+    "en": "The Gypsy",
+    "et": "kitsemampel",
+    "fi": "kehnäsieni",
+    "fr": "Pholiote ridée",
+    "hu": "gyűrűs ráncosgomba",
+    "ja": "ショウゲンジ",
+    "lt": "Raukšlėtasis nuosėdis",
+    "lv": "Cirtainā čigānene",
+    "nl": "meelkop",
+    "no": "rimsopp",
+    "pl": "płachetka zwyczajna",
+    "ru": "Колпак кольчатый",
+    "sk": "pavučinovec inovaťový",
+    "sl": "pšenična koprenka",
+    "sv": "rimskivling",
+    "uk": "Ковпак кільчастий",
+    "zh": "皱盖丝膜菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Zigeuner",
+      "Hühnerkoppe"
+    ],
+    "en": [
+      "Gypsy Mushroom",
+      "Wrinkled Cortinarius",
+      "Wrinkled Rozites"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Cortinaire ridé"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Белый приболотник"
+    ],
+    "sk": [
+      "pašupinovka obyčajná"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "rynkad tofsskivling"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "皱皮丝膜菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=201073",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=201073",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=201073",
+      "https://www.mycobank.org/page/NameDetails.aspx?Rec=201073",
+      "https://www.gbif.org/species/2529415",
+      "https://www.wikidata.org/wiki/Q669036",
+      "https://en.wikipedia.org/wiki/Cortinarius_caperatus",
+      "https://www.first-nature.com/fungi/cortinarius-caperatus.php",
+      "https://www.mykoweb.com/CAF/species/Cortinarius_caperatus.html",
+      "https://www.inaturalist.org/taxa/125364-Cortinarius-caperatus",
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://www.iucnredlist.org/species/122090482/222969528",
+      "https://species.nbnatlas.org/species/NHMSYS0001479212"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://cs.wikipedia.org/wiki/Sluka_svraskal%C3%A1"
+    ],
+    "da": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://api.gbif.org/v1/species/2529415/vernacularNames"
+    ],
+    "de": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://api.gbif.org/v1/species/2529415/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://laji.fi/"
+    ],
+    "fr": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://taxref.mnhn.fr/taxref-web/taxa/36627"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://api.gbif.org/v1/species/2529415/vernacularNames"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "lv": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "nl": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://www.nederlandsesoorten.nl/"
+    ],
+    "no": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "pl": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://www.grzyby.pl/gatunki/Rozites_caperatus.htm"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "sk": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://fotonet.sk/atlas/fungi_huby/cortinarius-caperatus"
+    ],
+    "sl": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J",
+      "https://www.dyntaxa.se/"
+    ],
+    "tr": [],
+    "uk": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ],
+    "zh": [
+      "https://www.catalogueoflife.org/data/taxon/6B66J"
+    ]
+  },
+  "added": "2026-11-19",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/Cortinarius_caperatus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/Cortinarius_caperatus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Cortinarius caperatus.png” (from ~/Downloads) is a JPEG/JFIF illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a habitat group among bilberry, a pine cone and needles; young frosted buttons; a mature wrinkled ochre cap; a persistent membranous ring; an underside with clay-brown gills; a longitudinal section; and a rusty-brown spore-print smear. The wrinkles and hoary fibres are somewhat stylized; the sectioned cap is smoother and paler than the habit group; the spore print is a loose painted smudge (the pale centre is in the source, left as found). A small notch remains at the very bottom-left of the truncated underside stipe, where the source pixels are almost the colour of the cream paper; those pixels were not invented. The official plate is slightly soft because the 896×1200 source was enlarged about 1.79×. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/Cortinarius_caperatus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc1.webp",
+      "author": "katrin_simon",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/710478415/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc2.webp",
+      "author": "pypppe",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/728012876/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc3.webp",
+      "author": "andrejus",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/718062642/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc4.webp",
+      "author": "eoleol",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/733649296/original.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc5.webp",
+      "author": "alex_sosn",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://inaturalist-open-data.s3.amazonaws.com/photos/735292648/original.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/Cortinarius_caperatus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/Cortinarius_caperatus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc1.webp",
+      "author": "katrin_simon",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/710478415/original.jpg"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc2.webp",
+      "author": "pypppe",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/728012876/original.jpg"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc3.webp",
+      "author": "andrejus",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/718062642/original.jpg"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc4.webp",
+      "author": "eoleol",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/733649296/original.jpg"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Cortinariaceae/Cortinarius_caperatus/cc5.webp",
+      "author": "alex_sosn",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/735292648/original.jpg"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "Cortinarius caperatus فطر لحمي يشكل جذورًا فطرية خارجية من فصيلة Cortinariaceae، وهو غير معتاد في جنس Cortinarius لأن له حلقة غشائية دائمة، وهي الصفة التي أبقته طويلًا في جنس Rozites. ينمو على الأرض في غابات المخروطيات والغابات المختلطة، غالبًا بين الطحالب والتوت البري على ترب حمضية، من أواخر الصيف إلى الخريف. القبعة بلون المغرة إلى الأصفر المائل إلى السمار، مغطاة بصقيع في الشباب وتتجعد شعاعيًا عند الانبساط. النوع واسع الانتشار في شمال أوروبا وأوروبا الجبلية وآسيا المعتدلة وشمال أمريكا الشمالية، وهو صالح للأكل معروف، لكن يجب التعرف عليه بيقين ويمكنه أن يراكم السيزيوم المشع.",
+      "cap": "يبلغ قطر القبعة 5–14 سم (تعطي الأدلة مدى يتراوح تقريبًا من 4–10 سم إلى 7–14 سم). تكون محدبة أولًا ثم تتسطح مع حدبة عريضة. السطح الجاف أصفر مغري إلى مغرة بنية، غالبًا أبهت عند الحافة، مغطى بألياف باهتة، وعادة ما يكون متجعدًا دقيقًا أو محززًا عند النضج. للقباب الفتية لمعان أبيض، وأحيانًا بنفسجي خفيف، شبيه بالصقيع، وهو الصقيع الذي يعطي الاسم الألماني Reifpilz والاسم السلوفاكي pavučinovec inovaťový.",
+      "hymenium": "الخياشيم متزاحمة ومتصلة. تبدأ بلون طيني باهت ثم تصير بنية متوسطة إلى قرفة مع نضج الأبواغ البنية الصدئية، أحيانًا بشكل غير متساو. في الأجسام الثمرية الفتية تغطيها ستارة جزئية غشائية.",
+      "stipe": "الساق طولها 5–15 سم وسمكها 1–2,5 سم (تذكر كثير من الأدلة الأوروبية نحو 6–12 × 1–2 سم). أسطوانية، منتفخة قليلًا عند القاعدة، بيضاء إلى مغرة باهتة، وليفية دقيقة طوليا. فوق الوسط حلقة غشائية بيضاء دائمة، وهي الصفة الميدانية الأساسية التي تفصل النوع عن معظم أنواع Cortinarius الأخرى التي لا تملك سوى ستارة عنكبوتية. تكون الحلقة في البداية متصلة بحافة القبعة.",
+      "flesh": "اللحم كريمي إلى أبيض ولا يتغير لونه عند القطع. الرائحة غير مميزة والطعم لطيف؛ قد يكون اللحم النيئ مرًا قليلًا، لكنه محبب وبمكسرات بعد الطبخ. لا ينبغي تذوق فطريات الستارة غير المعروفة.",
+      "sporePrint": "طبعة الأبواغ بنية صدئية إلى بنية مغرة. الأبواغ لوزية الشكل ومغطاة بثآليل، نحو 10–15 × 7–10 ميكرومتر.",
+      "habitat": "يشكل جذورًا فطرية خارجية مع المخروطيات، خاصة التنوب والصنوبر، ومع الزان، وغالبا بين نباتات الإريكاس مثل التوت البري والخلنج والإريكا، على ترب حمضية من السهول إلى الجبال. تظهر الأجسام الثمرية من يوليو إلى نوفمبر (عادة يوليو–أكتوبر في وسط أوروبا؛ أغسطس–نوفمبر في بريطانيا). واسع الانتشار في إسكندنافيا وأوروبا الجبلية، ونادر في معظم بريطانيا وإيرلندا.",
+      "uses": "في البلدان التي يكثر فيها يُعدّ صالحًا للأكل ذا قيمة عالية؛ يباع تجاريًا في فنلندا ويُدرج في التشيك ضمن فطريات السوق، بطعم جوزي لطيف بعد الطبخ. يُخلط أحيانًا بفطريات غابية أقوى نكهة ويجف جيدًا. يجب طهيه جيدًا، وغالبًا ما تُستبعد السيقان الصلبة. يجب أن يكون التعرف يقينيًا لأن جنس Cortinarius يضم أنواعًا قاتلة، ويمكن الخلط بين الأجسام الثمرية الفتية وفطريات ليفية سامة مثل Inosperma erubescens. يتراكم النوع أيضًا السيزيوم-137 (ويمكنه امتصاص الكادميوم والزئبق)؛ بعد تشيرنوبيل تجاوزت بعض العينات الأوروبية الحدود الغذائية، لذا في المناطق المتأثرة ينبغي أكله باعتدال أو عدم أكله. عالميًا هو Least Concern (الاتحاد الدولي لحفظ الطبيعة، 2018) ويُستخدم غذاء، لكنه نادر في بريطانيا.",
+      "confusion": "الحلقة الغشائية الدائمة والقبعة المغرة التي تكون أولًا مكسوة بالصقيع ثم متجعدة والساق الباهتة تفصله عن معظم فطريات الستارة الأخرى التي لا تملك سوى ستارة عنكبوتية. الأنواع القاتلة مثل Cortinarius rubellus وC. orellanus تفتقر إلى هذه الحلقة وقبابها أكثر انتظامًا في اللون الصدئي أو البني البرتقالي بلا لمعان صقيعي. يمكن الخلط بين الأجسام الثمرية الفتية والنوع القاتل Inosperma erubescens الذي يحمر عند الجرح وليس له حلقة غشائية من هذا النوع. Phaeolepiota aurea حبيبي دقيق وذهبي الاصفرار. فطريات أخرى ذات قبعة باهتة وحلقة، بما فيها بعض أنواع Agaricus، لها ألوان خياشيم وطبعة أبواغ مختلفة. إذا فُقدت الحلقة فلا ينبغي أكله.",
+      "notes": "عُرف النوع سنوات طويلة باسم Rozites caperatus، في جنس أُنشئ خصيصًا لهذا الفطر غير المعتاد ذي الحلقة. أظهر عمل الحمض النووي لباينتنر وزملائها عام 2002 أن Rozites يقع داخل Cortinarius، فعاد الاسم الذي منحه إياه إلياس فرايس منذ 1838. اللقب caperatus يعني متجعد. الاسم الإنجليزي الرسمي في المملكة المتحدة وفي القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة هو The Gypsy؛ ومن الأسماء الإنجليزية الموثقة الأخرى Gypsy Mushroom وWrinkled Cortinarius وWrinkled Rozites. المرادفات المخزنة تتبع فقط ترادف Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Cortinarius caperatus е месеста, ектомикоризна гъба от семейство Cortinariaceae, необичайна в род Cortinarius с устойчивия ципест пръстен — белегът, поради който дълго е държана в род Rozites. Расте на почвата в иглолистни и смесени гори, често сред мъх и боровинки на кисели почви, от късното лято до есента. Охровата до жълтеникаво-охра шапка е покрита със скреж в младост и при разтваряне става радиално набръчкана. Видът е разпространен в северна и планинска Европа, в умерена Азия и в северна Северна Америка и е известна ядлива гъба, но трябва да се определя сигурно и може да натрупва радиоцезий.",
+      "cap": "Шапката е 5–14 см в диаметър (определителите дават диапазони от около 4–10 см до 7–14 см). Отначало е изпъкнала, после се сплесква с широка гърбица. Сухата повърхност е жълтеникаво-охра до кафяво-охра, често по-бледа към ръба, покрита с бледи влакна и типично финно набръчкана или набраздена при зрелите плодни тела. Младите шапки имат белезникав, понякога слабо лилав, скрежов блясък — онази „слана“, от която идват немското име Reifpilz и словашкото pavučinovec inovaťový.",
+      "hymenium": "Пластинките са гъсти и прикрепени. Отначало са бледо глинести, после среднокафяви до канелени, когато узряват ръждивокафявите спори, понякога неравномерно. При младите плодни тела ги покрива ципесто частично було.",
+      "stipe": "Пънчето е 5–15 см дълго и 1–2,5 см дебело (много европейски определители дават около 6–12 × 1–2 см). То е цилиндрично, леко подуто в основата, белезникаво до бледо охра и надлъжно фино влакнесто. Над средата стои устойчив, белезникав, ципест пръстен — ключовият полски белег, който отделя вида почти от всички други Cortinarius, които имат само паяжиновидна кортина. Пръстенът отначало е прикрепен към ръба на шапката.",
+      "flesh": "Месото е кремаво до белезникаво и не променя цвета си при разрез. Миризмата не е характерна, а вкусът е мек; суровото месо може да бъде леко горчиво, но сварено е приятно и с орехов оттенък. Непознати паяжинници не трябва да се опитват.",
+      "sporePrint": "Споровият прах е ръждивокафяв до охракафяв. Спорите са бадемовидни и брадавичести, около 10–15 × 7–10 µm.",
+      "habitat": "Ектомикориза с иглолистни, особено смърч и бор, и с бук, често сред ерикови растения като боровинка, пирен и ерики, на кисели почви от низините до планините. Плодните тела се появяват от юли до ноември (в Централна Европа обикновено юли–октомври; във Великобритания август–ноември). Разпространен е в Скандинавия и планинска Европа, а в по-голямата част от Великобритания и Ирландия е рядък.",
+      "uses": "В страните, където е често срещан, е високо ценена ядлива гъба; във Финландия се продава и търговски, а в Чехия е в списъка на пазарните гъби, с мек орехов вкус след варене. Понякога се смесва с по-ароматни горски гъби и се суши добре. Трябва да се свари старателно, а твърдите пънчета често се премахват. Определянето трябва да бъде сигурно, защото род Cortinarius включва смъртоносно отровни видове, а младите плодни тела могат да се сбъркат с отровни влакноглавки като Inosperma erubescens. Видът също натрупва цезий-137 (и може да поема кадмий и живак); след Чернобил някои европейски проби надхвърлиха хранителните норми, затова в засегнатите райони трябва да се яде пестеливо или изобщо да не се яде. Световно е Least Concern (IUCN, 2018) и се използва за храна, но във Великобритания е рядък.",
+      "confusion": "Устойчивият ципест пръстен, отначало скрежната, после набръчкана охра шапка и бледото пънче го отделят почти от всички други паяжинници, които имат само паяжиновидна кортина. Смъртоносно отровни видове като Cortinarius rubellus и C. orellanus нямат този пръстен, а шапките им са по-равномерно ръждиви или оранжевокафяви, без скрежов блясък. Младите плодни тела могат да се сбъркат със смъртоносно отровната Inosperma erubescens, която почервенява при натиск и няма такъв ципест пръстен. Phaeolepiota aurea е зърнесто-брашнеста и златистожълта. Други гъби с бледа шапка и пръстен, включително някои печурки (Agaricus), имат различни цветове на пластинките и споров прах. Ако пръстенът липсва, не бива да се яде.",
+      "notes": "Дълги години видът беше известен като Rozites caperatus, в род, създаден тъкмо за този необичаен пръстенчат паяжинник. ДНК работата на Пайнтнер и колегите ѝ от 2002 г. показа, че Rozites е вътре в Cortinarius, и се върна името, което Елиас Фриз му е дал още през 1838 г. Епитетът caperatus означава набръчкан. Официалното английско име в Обединеното кралство и в Червения списък на IUCN е The Gypsy; други документирани английски имена са Gypsy Mushroom, Wrinkled Cortinarius и Wrinkled Rozites. Съхранените синоними следват само синонимиката на Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Sluka svraskalá je masitá, mykorhizní houba z čeledi pavučincovitých (Cortinariaceae), v rodu Cortinarius neobvyklá tím, že má vytrvalý blanitý prsten — znak, kvůli kterému byla dlouho řazena do samostatného rodu Rozites. Roste na zemi v jehličnatých a smíšených lesích, často v mechu a mezi borůvkami na kyselých půdách, od pozdního léta do podzimu. Okrový až žlutookrový klobouk je v mládí ojíněný a při rozvinutí se radiálně svrašťuje. Druh je rozšířený v severní a horské Evropě, v mírné Asii a na severu Severní Ameriky a patří k známým jedlým houbám, je však nutné ho spolehlivě určit; dokáže hromadit radiocesium.",
+      "cap": "Klobouk má 5–14 cm v průměru (atlasy uvádějí rozpětí od přibližně 4–10 cm až po 7–14 cm). Nejprve je vyklenutý, později se zplošťuje a má široký hrbolek. Suchý povrch je žlutookrový až hnědookrový, na okraji často bledší, pokrytý bledými vlákny a v dospělosti typicky jemně svraskalý nebo brázditý. Mladé klobouky mají bělavý, někdy slabě nafialovělý ojíněný lesk — „jinovatku“, podle níž má houba české jméno sluka svraskalá a německé Reifpilz.",
+      "hymenium": "Lupeny jsou husté a připojené. Nejprve jsou bledě jílovité, později středně hnědé až skořicové, jak dozrávají rezavě hnědé výtrusy, někdy nerovnoměrně. V mládí je zakrývá blanitý částečný závoj.",
+      "stipe": "Třeň je 5–15 cm dlouhý a 1–2,5 cm tlustý (mnohé evropské atlasy uvádějí přibližně 6–12 × 1–2 cm). Je válcovitý, na bázi slabě ztlustělý, bělavý až bledě okrový a podélně jemně vláknitý. Nad středem sedí vytrvalý, bělavý, blanitý prsten — klíčový znak, jímž se tento druh liší téměř od všech ostatních pavučinců, které mají jen pavučinatou cortinu. Prsten je zprvu připojen k okraji klobouku.",
+      "flesh": "Dužnina je krémová až bělavá a po řezu nemění barvu. Vůně není výrazná a chuť je mírná; syrová dužnina může být slabě nahořklá, po uvaření je však příjemná a oříšková. Neznámé pavučince se neochutnávají.",
+      "sporePrint": "Výtrusný prach je rezavě hnědý až okrově hnědý. Výtrusy jsou mandlovité a bradavčité, přibližně 10–15 × 7–10 µm.",
+      "habitat": "Mykorhizní houba vázaná na jehličnany, zejména smrk a borovici, a na buk, často mezi vřesovištními rostlinami, jako je borůvka, vřes a vřesovce, na kyselých půdách od nížin do hor. Plodnice rostou od července do listopadu (ve střední Evropě typicky červenec–říjen; v Británii srpen–listopad). Je hojná ve Skandinávii a v horské Evropě, ve většině Británie a Irska je řídká až vzácná.",
+      "uses": "V zemích, kde je hojná, jde o vysoce ceněnou jedlou houbu; ve Finsku se prodává i komerčně a v Česku je uvedena mezi tržními houbami, s jemnou oříškovou chutí po uvaření. Někdy se mísí se silněji chutnajícími lesními houbami a dobře se suší. Musí se důkladně uvařit a tuhé třeně se často odstraňují. Určení musí být jisté, protože rod Cortinarius zahrnuje smrtelně jedovaté druhy a mladé plodnice lze zaměnit s jedovatými vláknicemi, například s Inosperma erubescens. Druh také hromadí radiocesium-137 (a může přijímat kadmium a rtuť); po Černobylu některé evropské vzorky překročily potravinové limity, proto se v postižených oblastech má jíst jen střídmě, nebo vůbec. Celosvětově je zařazen do kategorie Least Concern (IUCN, 2018) a používá se jako potrava, v Británii je však vzácný.",
+      "confusion": "Vytrvalý blanitý prsten, ojíněný a později svraskalý okrový klobouk a bledý třeň ji odlišují téměř od všech ostatních pavučinců, které mají jen pavučinatou cortinu. Smrtelně jedovaté druhy, jako Cortinarius rubellus a C. orellanus, tento prsten nemají a jejich klobouky jsou rovnoměrněji rezavé nebo oranžovohnědé, bez ojíněného lesku. Mladé plodnice lze zaměnit se smrtelně jedovatou Inosperma erubescens, která na poranění červená a takový blanitý prsten nemá. Phaeolepiota aurea je zrnitá, moučnatá a zlatavě žlutá. Jiné bledé, prstenité houby, včetně některých pečárek (Agaricus), mají jiné barvy lupenů a výtrusného prachu. Pokud prsten chybí, houbu nejezte.",
+      "notes": "Po mnoho let byl tento druh znám jako Rozites caperatus, v rodu vytvořeném právě pro tohoto neobvyklého pavučince s prstenem. DNA analýzy Peintnerové a kolegů z roku 2002 ukázaly, že Rozites patří do rodu Cortinarius, čímž se vrátilo jméno, které mu Elias Fries dal už v roce 1838. Epiteton caperatus znamená svraskalý. Oficiální anglické jméno ve Spojeném království a na Červeném seznamu IUCN je The Gypsy; další doložená anglická jména jsou Gypsy Mushroom, Wrinkled Cortinarius a Wrinkled Rozites. Uložená synonyma se řídí pouze synonymikou Species Fungorum.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://cs.wikipedia.org/wiki/Sluka_svraskal%C3%A1"
+      ],
+      "label": "sluka svraskalá"
+    },
+    "da": {
+      "description": "Klidhat er en kødfuld, ektomykorrhizadannende slørhat i familien Cortinariaceae, usædvanlig i slægten Cortinarius fordi den har en vedvarende, hindeagtig ring — det træk, der længe holdt den i slægten Rozites. Den vokser på jorden i nåle- og blandingsskove, ofte blandt mos og blåbær på sur bund, fra sensommeren ind i efteråret. Den okker- til gulfarvede hat er i ungdommen dækket af et hoaragtigt slør og bliver radiært rynket, når den folder sig ud. Arten er udbredt i det nordlige og bjergprægede Europa, i det tempererede Asien og i det nordlige Nordamerika og er en kendt spisesvamp, men skal bestemmes med sikkerhed og kan ophobe radiocæsium.",
+      "cap": "Hatten er 5–14 cm i diameter (bestemmelsesværker angiver spænd fra omkring 4–10 cm til 7–14 cm). Først er den hvælvet, senere flader den ud med en bred pukkel. Den tørre overflade er gulfarvet okker til brunlig okker, ofte lysere ved randen, dækket af blege fibre og typisk fint rynket eller furet hos udvoksede eksemplarer. Unge hatte har et hvidligt, undertiden svagt lilla, rimagtigt skær — den „rim”, der ligger til grund for det tyske navn Reifpilz og det slovakiske pavučinovec inovaťový.",
+      "hymenium": "Lamellerne er tætte og tilhæftede. De er først blegt lerfarvede og bliver mellembrune til kanelbrune, når de rustbrune sporer modnes, undertiden ujævnt. Hos unge individer er de dækket af et hindeagtigt slør.",
+      "stipe": "Stokken er 5–15 cm lang og 1–2,5 cm tyk (mange europæiske værker angiver omkring 6–12 × 1–2 cm). Den er cylindrisk, lidt opsvulmet ved basis, hvidlig til blegt okker og fint længdefibret. Over midten sidder en vedvarende, hvidlig, hindeagtig ring — det afgørende feltkendetegn, der skiller arten fra næsten alle andre Cortinarius-arter, som kun har et spindelvævsagtigt slør (cortina). Ringen er først fæstnet til hatranden.",
+      "flesh": "Kødet er cremefarvet til hvidligt og skifter ikke farve ved gennemskæring. Lugten er ikke karakteristisk, og smagen er mild; råt kød kan være svagt bittert, men det er behageligt og nøddeagtigt efter kogning. Ukendte slørhatte bør ikke smages.",
+      "sporePrint": "Sporeaftrykket er rustbrunt til okkerbrunt. Sporerne er mandelformede og vortebelagte, cirka 10–15 × 7–10 µm.",
+      "habitat": "Ektomykorrhiza med nåletræer, især gran og fyr, og med bøg, ofte blandt lyngplanter som blåbær, hede- og klokkelyng, på sur jord fra lavland til bjerg. Frugtlegemer vises fra juli til november (i Centraleuropa typisk juli–oktober; i Storbritannien august–november). Vidt udbredt i Skandinavien og det bjergprægede Europa, og spredt til sjælden i det meste af Storbritannien og Irland.",
+      "uses": "I lande, hvor den er almindelig, er klidhat en værdsat spisesvamp; i Finland sælges den også kommercielt, og i Tjekkiet står den som markedssvamp, med en mild nøddeagtig smag efter kogning. Den blandes undertiden med kraftigere skovsvampe og tørrer godt. Den skal koges grundigt, og de seje stokke fjernes ofte. Bestemmelsen skal være sikker, fordi Cortinarius rummer dødeligt giftige arter, og unge frugtlegemer kan forveksles med giftige trævlesvampe som Inosperma erubescens. Arten ophober også cæsium-137 (og kan optage cadmium og kviksølv); efter Tjernobyl overskred nogle europæiske prøver fødevaregrænserne, så den i ramte områder kun bør spises sparsomt eller slet ikke. Globalt er den Least Concern (IUCN, 2018) og bruges som føde, men i Storbritannien er den sjælden.",
+      "confusion": "Den vedvarende hindeagtige ring, den først rimede og senere rynkede okkerhat og den blege stok skiller den fra næsten alle andre slørhatte, som kun har et spindelvævsagtigt slør. Dødeligt giftige arter som Cortinarius rubellus og C. orellanus mangler denne ring og har mere ensartet rust- eller orangebrune hatte uden rimglans. Unge frugtlegemer kan forveksles med den dødeligt giftige Inosperma erubescens, som rødmer ved tryk og ikke har en hindeagtig ring af denne type. Phaeolepiota aurea er kornet-melet og gyldengul. Andre bleghattede, ringede svampe, herunder visse champignoner (Agaricus), har andre lamelfarver og et andet sporeaftryk. Hvis ringen er gået tabt, bør den ikke spises.",
+      "notes": "I mange år var arten kendt som Rozites caperatus, i en slægt skabt netop til denne usædvanlige ringede slørhat. DNA-arbejde af Peintner og kolleger i 2002 viste, at Rozites hører hjemme i Cortinarius, og navnet, som Elias Fries allerede gav den i 1838, vendte tilbage. Epitetet caperatus betyder rynket. Det officielle engelske navn i Storbritannien og på IUCN’s rødliste er The Gypsy; andre dokumenterede engelske navne er Gypsy Mushroom, Wrinkled Cortinarius og Wrinkled Rozites. Gemte synonymer følger kun Species Fungorums synonymi.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://api.gbif.org/v1/species/2529415/vernacularNames"
+      ],
+      "label": "Klidhat"
+    },
+    "de": {
+      "description": "Der Reifpilz ist ein fleischiger, ektomykorrhizischer Schleierling aus der Familie Cortinariaceae, der in der Gattung Cortinarius ungewöhnlich ist, weil er einen bleibenden, häutigen Ring besitzt — das Merkmal, das ihn lange in der Gattung Rozites hielt. Er wächst am Boden in Nadel- und Mischwäldern, oft im Moos und zwischen Heidelbeeren auf sauren Böden, vom Spätsommer bis in den Herbst. Der ockerfarbene bis gelblich-ledrige Hut ist jung bereift und wird beim Aufschirmen radial runzelig. Die Art ist in Nord- und Gebirgseuropa, im gemäßigten Asien und im nördlichen Nordamerika weit verbreitet und ein bekannter Speisepilz, muss aber sicher bestimmt werden und kann Radiocäsium anreichern.",
+      "cap": "Der Hut misst 5–14 cm im Durchmesser (Bestimmungsbücher nennen Spannen von etwa 4–10 cm bis 7–14 cm). Zuerst ist er gewölbt, später flacht er sich mit einem breiten Buckel ab. Die trockene Oberfläche ist gelblich ocker bis bräunlich ocker, am Rand oft blasser, mit blassen Fasern bedeckt und typischerweise fein runzelig oder gefurcht, wenn der Hut ausgewachsen ist. Junge Hüte haben einen weißlichen, manchmal schwach lila Reifglanz — den „Reif“, der dem deutschen Namen Reifpilz und dem slowakischen Namen pavučinovec inovaťový zugrunde liegt.",
+      "hymenium": "Die Lamellen stehen gedrängt und sind angewachsen. Sie sind zuerst blass lehmfarben und werden mittelbraun bis zimtfarben, wenn die rostbraunen Sporen reifen, manchmal ungleichmäßig. Jung sind sie von einem häutigen Teilvelum bedeckt.",
+      "stipe": "Der Stiel ist 5–15 cm lang und 1–2,5 cm dick (viele europäische Bücher nennen etwa 6–12 × 1–2 cm). Er ist zylindrisch, an der Basis leicht verdickt, weißlich bis blass ocker und längs fein faserig. Oberhalb der Mitte sitzt ein bleibender, weißlicher, häutiger Ring — das entscheidende Feldmerkmal, das die Art von fast allen anderen Cortinarius-Arten trennt, die nur eine spinnwebartige Cortina besitzen. Der Ring ist anfangs mit dem Hutrand verbunden.",
+      "flesh": "Das Fleisch ist cremefarben bis weißlich und verfärbt sich beim Anschneiden nicht. Der Geruch ist unauffällig, der Geschmack milde; rohes Fleisch kann schwach bitter sein, gegart ist es angenehm und nussig. Unbekannte Schleierlinge sollte man nicht verkosten.",
+      "sporePrint": "Das Sporenpulver ist rostbraun bis ockerbraun. Die Sporen sind mandelförmig und warzig, etwa 10–15 × 7–10 µm.",
+      "habitat": "Ektomykorrhizisch mit Nadelbäumen, vor allem Fichte und Kiefer, und mit Buche, oft zwischen Heidekrautgewächsen wie Heidelbeere, Heidekraut und Erika, auf sauren Böden vom Tiefland bis ins Gebirge. Fruchtkörper erscheinen von Juli bis November (in Mitteleuropa typischerweise Juli–Oktober; in Großbritannien August–November). In Skandinavien und im Gebirgseuropa ist die Art weit verbreitet, in weiten Teilen Großbritanniens und Irlands selten.",
+      "uses": "In Ländern, in denen er häufig ist, gilt der Reifpilz als geschätzter Speisepilz; in Finnland wird er auch im Handel angeboten und in Tschechien als Marktpilz geführt, mit mildem, nussigem Geschmack nach dem Garen. Er wird manchmal mit kräftiger schmeckenden Waldpilzen gemischt und lässt sich gut trocknen. Er muss gründlich gegart werden, und die zähen Stiele werden oft entfernt. Die Bestimmung muss sicher sein, denn Cortinarius enthält tödlich giftige Arten, und junge Fruchtkörper können mit giftigen Risspilzen wie Inosperma erubescens verwechselt werden. Die Art reichert außerdem Cäsium-137 an (und kann Cadmium und Quecksilber aufnehmen); nach Tschernobyl überschritten einige europäische Proben die Lebensmittelgrenzwerte, daher sollte sie in betroffenen Gebieten nur sparsam oder gar nicht gegessen werden. Weltweit gilt sie als Least Concern (IUCN, 2018) und wird als Speisepilz genutzt, in Großbritannien ist sie jedoch selten.",
+      "confusion": "Der bleibende häutige Ring, der zuerst bereifte, später runzelige ockerfarbene Hut und der blasse Stiel trennen ihn von fast allen anderen Schleierlingen, die nur eine spinnwebartige Cortina haben. Tödlich giftige Arten wie Cortinarius rubellus und C. orellanus fehlen dieser Ring, und ihre Hüte sind gleichmäßiger rost- oder orangebraun, ohne Reifglanz. Junge Fruchtkörper können mit dem tödlich giftigen Inosperma erubescens verwechselt werden, der rot anläuft und keinen solchen häutigen Ring hat. Phaeolepiota aurea ist körnig-mehlig und goldgelb. Andere blasshütige, beringte Pilze, darunter manche Champignons (Agaricus), haben andere Lamellenfarben und ein anderes Sporenpulver. Fehlt der Ring, sollte man den Pilz nicht essen.",
+      "notes": "Viele Jahre war die Art als Rozites caperatus bekannt, in einer Gattung, die eigens für diesen ungewöhnlichen beringten Schleierling geschaffen wurde. DNA-Untersuchungen von Peintner und Kollegen 2002 zeigten, dass Rozites innerhalb von Cortinarius steht; damit kehrte der Name zurück, den Elias Fries bereits 1838 vergeben hatte. Das Epitheton caperatus bedeutet runzelig. Der offizielle englische Name im Vereinigten Königreich und auf der IUCN-Roten Liste ist The Gypsy; weitere belegte englische Namen sind Gypsy Mushroom, Wrinkled Cortinarius und Wrinkled Rozites. Gespeicherte Synonyme folgen ausschließlich der Synonymie von Species Fungorum.",
+      "names": [
+        "Zigeuner",
+        "Hühnerkoppe"
+      ],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://api.gbif.org/v1/species/2529415/vernacularNames"
+      ],
+      "label": "Reifpilz"
+    },
+    "en": {
+      "description": "The Gypsy is a fleshy, ectomycorrhizal webcap in Cortinariaceae, unusual in the genus because it has a persistent membranous ring — the character that long kept it in the genus Rozites. It grows on the ground in coniferous and mixed woods, often among moss and bilberry on acidic soils, from late summer into autumn. The ochre to yellowish-buff cap is hoary when young and becomes radially wrinkled as it expands. The species is widespread in northern and montane Europe, temperate Asia and northern North America, and is a well-known edible, but it must be identified with care and can accumulate radiocaesium.",
+      "cap": "The cap is 5–14 cm across (field guides give ranges from about 4–10 cm up to 7–14 cm). It is convex at first and later flattens with a broad umbo. The dry surface is yellowish buff to brownish ochre, often paler at the margin, covered with pale fibres, and typically becomes finely wrinkled or furrowed when mature. Young caps have a whitish, sometimes faintly lilac, hoary sheen — the “frost” that gives the German name Reifpilz and the Slovak name pavučinovec inovaťový.",
+      "hymenium": "The gills are crowded and adnexed. They begin a pale clay colour and become mid-brown to cinnamon as the rusty-brown spores mature, sometimes unevenly. When young they are covered by a membranous partial veil.",
+      "stipe": "The stem is 5–15 cm long and 1–2.5 cm thick (many European guides give about 6–12 × 1–2 cm). It is cylindrical, slightly swollen at the base, whitish to pale buff, and finely fibrous along its length. A persistent, whitish, membranous ring sits above the midpoint; this is the key field character that separates the species from almost all other Cortinarius, which have only a cobweb cortina. The ring is at first attached to the cap margin.",
+      "flesh": "The flesh is cream-coloured to whitish and does not change colour when cut. The smell is not distinctive and the taste is mild; raw flesh can be faintly bitter, but it is pleasant and nutty when cooked. Do not taste unknown webcaps.",
+      "sporePrint": "The spore print is rusty brown to ochre-brown. The spores are almond-shaped and warty, about 10–15 × 7–10 µm.",
+      "habitat": "Ectomycorrhizal with conifers, especially spruce and pine, and with beech, and often among ericaceous plants such as bilberry, heather and heath, on acidic soils from the lowlands to the mountains. Fruit bodies appear from July to November (typically July–October in Central Europe; August–November in Britain). It is widespread in Scandinavia and montane Europe, and infrequent to rare in most of Britain and Ireland.",
+      "uses": "A highly regarded edible in countries where it is common, sold commercially in Finland and listed as a market mushroom in Czechia, with a mild nutty flavour when cooked. It is sometimes mixed with stronger-flavoured woodland fungi and it dries well. It must be thoroughly cooked, and the tough stems are often discarded. Identification has to be certain, because Cortinarius includes deadly species, and young fruit bodies can be confused with toxic fibre caps such as Inosperma erubescens. The species also bioaccumulates radiocaesium-137 (and can take up cadmium and mercury); after Chernobyl, some European samples exceeded food limits, so in affected areas it should be eaten sparingly or not at all. Globally it is Least Concern (IUCN, 2018) and is used as food, but it is rare in Britain.",
+      "confusion": "The persistent membranous ring, the hoary then wrinkled ochre cap, and the pale stem separate it from almost all other webcaps, which have only a cobweb cortina. Deadly species such as Cortinarius rubellus and C. orellanus lack this ring and have more uniformly rusty or orange-brown caps without the hoary sheen. Young fruit bodies can be confused with the deadly Inosperma erubescens, which bruises red and has no membranous ring of this type. Phaeolepiota aurea is granular-mealy and golden yellow. Other pale-capped, ringed mushrooms, including some Agaricus, have different gill colours and spore prints. If the ring has been lost, do not eat it.",
+      "notes": "For many years the species was known as Rozites caperatus, a genus created for this unusual ringed webcap. DNA work by Peintner and colleagues in 2002 showed that Rozites belongs inside Cortinarius, returning the name Elias Fries had already given it in 1838. The epithet caperatus means wrinkled. The official English name in the United Kingdom and on the IUCN Red List is The Gypsy; other sourced English names include Gypsy Mushroom, Wrinkled Cortinarius and Wrinkled Rozites. Stored synonyms follow the Species Fungorum synonymy only.",
+      "names": [
+        "Gypsy Mushroom",
+        "Wrinkled Cortinarius",
+        "Wrinkled Rozites"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=201073",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=201073",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=201073",
+        "https://www.mycobank.org/page/NameDetails.aspx?Rec=201073",
+        "https://www.gbif.org/species/2529415",
+        "https://www.wikidata.org/wiki/Q669036",
+        "https://en.wikipedia.org/wiki/Cortinarius_caperatus",
+        "https://www.first-nature.com/fungi/cortinarius-caperatus.php",
+        "https://www.mykoweb.com/CAF/species/Cortinarius_caperatus.html",
+        "https://www.inaturalist.org/taxa/125364-Cortinarius-caperatus",
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://www.iucnredlist.org/species/122090482/222969528",
+        "https://species.nbnatlas.org/species/NHMSYS0001479212"
+      ],
+      "label": "The Gypsy"
+    },
+    "es": {
+      "description": "Cortinarius caperatus es un hongo carnoso, ectomicorrícico, de la familia Cortinariaceae, inusual en el género Cortinarius por su anillo membranoso persistente, el carácter que lo mantuvo largo tiempo en el género Rozites. Crece en el suelo de bosques de coníferas y mixtos, a menudo entre musgos y arándanos en suelos ácidos, desde finales del verano hasta el otoño. El sombrero ocre o ante amarillento es pruinoso de joven y se vuelve radialmente arrugado al expandirse. La especie está extendida en el norte y la Europa montañosa, en Asia templada y en el norte de Norteamérica, y es un comestible conocido, pero debe identificarse con certeza y puede acumular radiocesio.",
+      "cap": "El sombrero mide 5–14 cm de diámetro (las guías dan intervalos de unos 4–10 cm hasta 7–14 cm). Primero es convexo y luego se aplana con un umbo amplio. La superficie seca es ocre amarillento a ocre pardo, a menudo más pálida en el margen, cubierta de fibras pálidas y típicamente finamente arrugada o surcada en madurez. Los sombreros jóvenes tienen un brillo blanquecino, a veces ligeramente liliáceo, como de escarcha, el «rocío» que da nombre al alemán Reifpilz y al eslovaco pavučinovec inovaťový.",
+      "hymenium": "Las láminas son apretadas y anexas. Empiezan de un color arcilloso pálido y pasan a pardo medio o canela conforme maduran las esporas pardo-óxido, a veces de forma irregular. En los ejemplares jóvenes las cubre un velo parcial membranoso.",
+      "stipe": "El pie mide 5–15 cm de largo y 1–2,5 cm de grosor (muchas guías europeas indican unos 6–12 × 1–2 cm). Es cilíndrico, algo ensanchado en la base, blanquecino a ocre pálido y finamente fibroso a lo largo. Por encima de la mitad hay un anillo membranoso, blanquecino y persistente, el carácter de campo clave que lo separa de casi todos los demás Cortinarius, que solo tienen una cortina aracnoide. El anillo está al principio unido al margen del sombrero.",
+      "flesh": "La carne es crema o blanquecina y no cambia de color al corte. El olor no es distintivo y el sabor es suave; cruda puede ser ligeramente amarga, pero cocida es agradable y a nuez. No se deben probar cortinarios desconocidos.",
+      "sporePrint": "La esporada es pardo-óxido a pardo ocre. Las esporas son amigdaliformes y verrugosas, de unos 10–15 × 7–10 µm.",
+      "habitat": "Ectomicorrícico de coníferas, especialmente abeto y pino, y de haya, a menudo entre ericáceas como el arándano, el brezo y las ericas, en suelos ácidos desde el llano hasta la montaña. Los cuerpos fructíferos aparecen de julio a noviembre (típicamente julio–octubre en Europa central; agosto–noviembre en Gran Bretaña). Es frecuente en Escandinavia y en la Europa de montaña, e infrecuente o rara en gran parte de Gran Bretaña e Irlanda.",
+      "uses": "Allí donde es común se considera un comestible muy apreciado; en Finlandia se vende también comercialmente y en Chequia figura como seta de mercado, con un sabor suave a nuez una vez cocida. A veces se mezcla con hongos silvestres de sabor más intenso y se seca bien. Debe cocinarse a fondo, y los pies duros a menudo se desechan. La identificación tiene que ser segura, porque Cortinarius incluye especies mortales y los cuerpos jóvenes pueden confundirse con inocybes tóxicos como Inosperma erubescens. La especie también bioacumula cesio-137 (y puede absorber cadmio y mercurio); tras Chernóbil, algunas muestras europeas superaron los límites alimentarios, así que en las zonas afectadas debe comerse con moderación o no comerse. Mundialmente está en Least Concern (UICN, 2018) y se usa como alimento, pero es rara en Gran Bretaña.",
+      "confusion": "El anillo membranoso persistente, el sombrero ocre primero pruinoso y luego arrugado, y el pie pálido lo separan de casi todos los demás cortinarios, que solo tienen una cortina aracnoide. Especies mortales como Cortinarius rubellus y C. orellanus carecen de este anillo y tienen sombreros más uniformemente óxido o pardo anaranjado, sin brillo pruinoso. Los cuerpos jóvenes pueden confundirse con el mortal Inosperma erubescens, que enrojece al roce y no tiene un anillo membranoso de este tipo. Phaeolepiota aurea es granulosa-harinosa y de un amarillo dorado. Otros hongos de sombrero pálido y anillo, incluidos algunos Agaricus, tienen colores de lámina y esporadas distintas. Si el anillo se ha perdido, no debe comerse.",
+      "notes": "Durante muchos años la especie se conoció como Rozites caperatus, en un género creado precisamente para este cortinario anillado. El trabajo de ADN de Peintner y colegas en 2002 mostró que Rozites queda dentro de Cortinarius, y se recuperó el nombre que Elias Fries ya le había dado en 1838. El epíteto caperatus significa arrugado. El nombre inglés oficial en el Reino Unido y en la Lista Roja de la UICN es The Gypsy; otros nombres ingleses documentados son Gypsy Mushroom, Wrinkled Cortinarius y Wrinkled Rozites. Los sinónimos almacenados siguen únicamente la sinonimia de Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Kitsemampel on lihakas, ektomükoriisat moodustav ämblikvõrkseente sugukonna (Cortinariaceae) seen, mis on perekonnas Cortinarius ebatavaline püsiva kileja rõnga tõttu — tunnuse pärast, mis hoidis teda kaua perekonnas Rozites. Ta kasvab maapinnal okas- ja segametsades, sageli sambla ja mustika seas happelisel pinnasel, hilissuvest sügiseni. Ookerkollane kuni kollakasooker kübar on noorelt härmas ja avanedes radiaalselt kortsuline. Liik on levinud Põhja- ja mägises Euroopas, parasvöötme Aasias ning Põhja-Ameerika põhjaosas ning on tuntud söögiseen, kuid tuleb kindlalt määrata ja võib koguda radioaktiivset tseesiumi.",
+      "cap": "Kübar on 5–14 cm läbimõõdus (määrajad annavad vahemikke umbes 4–10 cm-st 7–14 cm-ni). Alguses on ta kumer, hiljem lapik laia kühmuga. Kuiv pind on kollakasooker kuni pruunikasooker, servast sageli heledam, kaetud kahvatute kiududega ning täiskasvanuna tüüpiliselt peenelt kortsuline või vaoline. Noortel kübaratel on valkjas, vahel nõrgalt lillakas, härmane läige — see „härmatis”, millest lähtuvad saksa nimi Reifpilz ja slovaki pavučinovec inovaťový.",
+      "hymenium": "Eoslehed on tihedad ja kinnitunud. Need on alguses kahvatult savikarva ning muutuvad keskpruuniks kuni kaneelpruuniks, kui roostepurused eosed valmivad, vahel ebaühtlaselt. Noortel isenditel katab neid kilejas osaline loor.",
+      "stipe": "Jalg on 5–15 cm pikk ja 1–2,5 cm jäme (paljud Euroopa määrajad annavad umbes 6–12 × 1–2 cm). Ta on silinderjas, alusel veidi jämenenud, valkjas kuni kahvatult ookerjas ning pikisuunas peenelt kiuline. Keskosa kohal istub püsiv, valkjas, kilejas rõngas — otsustav välimärk, mis eristab liiki peaaegu kõigist teistest Cortinarius’e liikidest, millel on vaid ämblikuvõrgutaoline loor (cortina). Rõngas on alguses kübaraserva külge kinnitunud.",
+      "flesh": "Lihakeha on kreemikas kuni valkjas ega muuda lõikamisel värvi. Lõhn ei ole iseloomulik ja maitse on leebe; toores lihakeha võib olla kergelt mõrkjas, keedetult on see meeldiv ja pähkline. Tundmatuid ämblikvõrkseeni ei tohi maitseda.",
+      "sporePrint": "Eospulber on roostepurusest ookerpruunini. Eosed on mandlikujulised ja näärmelised, umbes 10–15 × 7–10 µm.",
+      "habitat": "Ektomükoriisa okaspuude, eriti kuuse ja männi, ning pöögiga, sageli kanarbikuliste, näiteks mustika, kanarbiku ja eerikate, seas happelisel pinnasel madalikult mägedeni. Viljakehad ilmuvad juulist novembrini (Kesk-Euroopas tüüpiliselt juuli–oktoober; Suurbritannias august–november). Levinud Skandinaavias ja mägises Euroopas, enamikus Suurbritannias ja Iirimaal haruldane.",
+      "uses": "Maades, kus ta on tavaline, on kitsemampel hinnatud söögiseen; Soomes müüakse teda ka kaubanduslikult ja Tšehhis on ta turuseente nimekirjas, pehme pähklise maitsega keedetult. Teda segatakse vahel tugevama maitsega metaseentega ja ta kuivab hästi. Teda tuleb hoolikalt keeta ning sitked jalad eemaldatakse sageli. Määrang peab olema kindel, sest perekonda Cortinarius kuuluvad surmavalt mürgised liigid ning noori viljakehi võib segi ajada mürgiste narmasseentega, näiteks Inosperma erubescens’iga. Liik kogub ka tseesium-137 (ning võib võtta kaadmiumi ja elavhõbedat); Tšernobõli järel ületasid mõned Euroopa proovid toidupiirnorme, seega tuleks mõjutatud aladel teda süüa napilt või üldse mitte. Üleilmselt on ta Least Concern (IUCN, 2018) ja teda kasutatakse toiduna, kuid Suurbritannias on ta haruldane.",
+      "confusion": "Püsiv kilejas rõngas, alguses härmas ja hiljem kortsuline ookerkübar ning kahvatu jalg eristavad teda peaaegu kõigist teistest ämblikvõrkseentest, millel on vaid ämblikuvõrgutaoline cortina. Surmavalt mürgistel liikidel, näiteks Cortinarius rubellus ja C. orellanus, seda rõngast ei ole ning nende kübarad on ühtlasemalt rooste- või oranžpruunid ilma härmase läiketa. Noori viljakehi võib segi ajada surmavalt mürgise Inosperma erubescens’iga, mis muljumisel punetab ega oma sellist kilejat rõngast. Phaeolepiota aurea on teraline-jahune ja kuldne-kollane. Teistel kahvatukübaralistel, rõngaga seentel, sealhulgas mõnel šampinjonil (Agaricus), on teistsugused eoslehevärvid ja eospulber. Kui rõngas on kadunud, ei tohi teda süüa.",
+      "notes": "Aastaid tunti liiki nime all Rozites caperatus, perekonnas, mis loodi just selle ebatavalise rõngaga ämblikvõrkseene jaoks. Peintneri ja kolleegide 2002. aasta DNA-töö näitas, et Rozites kuulub perekonda Cortinarius, ja Elias Friesi juba 1838. aastal antud nimi tuli tagasi. Epiteet caperatus tähendab kortsulist. Ametlik ingliskeelne nimi Ühendkuningriigis ja IUCN-i punases nimekirjas on The Gypsy; teised allikastatud ingliskeelsed nimed on Gypsy Mushroom, Wrinkled Cortinarius ja Wrinkled Rozites. Salvestatud sünonüümid järgivad ainult Species Fungorumi sünonüümikat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "kitsemampel"
+    },
+    "fa": {
+      "description": "Cortinarius caperatus قارچی گوشتی و اکتومیکوریزایی از تیره Cortinariaceae است که در سرده Cortinarius به‌سبب داشتن حلقه غشایی پایدار غیرعادی است؛ همین ویژگی آن را سال‌ها در سرده Rozites نگاه داشت. روی خاک جنگل‌های سوزنی‌برگ و آمیخته، اغلب میان خزه و بلوبری روی خاک‌های اسیدی، از اواخر تابستان تا پاییز می‌روید. کلاهک اخرایی تا زرد نخودی در جوانی پوشیده از شبنم یخ‌زده است و هنگام گسترده‌شدن چین‌های شعاعی می‌گیرد. این گونه در شمال و کوهستان‌های اروپا، آسیای معتدل و شمال آمریکای شمالی گسترده است و خوراکی شناخته‌شده‌ای است، اما باید با اطمینان شناسایی شود و می‌تواند سزیم رادیواکتیو انباشته کند.",
+      "cap": "قطر کلاهک ۵–۱۴ سانتی‌متر است (راهنماها بازه‌هایی از حدود ۴–۱۰ تا ۷–۱۴ سانتی‌متر می‌دهند). نخست محدب است و سپس با کوهانکی پهن پهن می‌شود. سطح خشک زرد اخرایی تا اخرایی مایل به قهوه‌ای است، در حاشیه اغلب کم‌رنگ‌تر، پوشیده از تارهای کم‌رنگ، و در بلوغ معمولاً ریزچروک یا شیاردار است. کلاهک‌های جوان درخششی مایل به سفید، گاهی کمی یاسی، شبیه برفک دارند؛ همان یخبندانی که نام آلمانی Reifpilz و نام اسلواکی pavučinovec inovaťový از آن می‌آید.",
+      "hymenium": "تیغه‌ها متراکم و پیوسته‌اند. نخست به رنگ گل‌رس کم‌رنگ‌اند و با رسیدن هاگ‌های قهوه‌ای زنگاری به قهوه‌ای میانه یا دارچینی بدل می‌شوند، گاه به‌صورت ناهمسان. در اندام‌های بارده جوان پردهٔ جزئی غشایی آنها را می‌پوشاند.",
+      "stipe": "ساقه ۵–۱۵ سانتی‌متر درازا و ۱–۲٫۵ سانتی‌متر ستبرا دارد (بسیاری از راهنماهای اروپایی حدود ۶–۱۲ × ۱–۲ سانتی‌متر می‌نویسند). استوانه‌ای است، در قاعده کمی متورم، مایل به سفید تا اخرایی کم‌رنگ، و در درازا ریزرشته‌ای. بالاتر از میانه حلقه‌ای غشایی، مایل به سفید و پایدار می‌نشیند؛ همین ویژگی میدانی کلیدی آن را از تقریباً همه Cortinariusهای دیگر، که تنها پرده‌ای تارعنکبوتی دارند، جدا می‌کند. حلقه در آغاز به حاشیه کلاهک پیوسته است.",
+      "flesh": "گوشت کرم تا مایل به سفید است و هنگام برش رنگ عوض نمی‌کند. بو مشخص نیست و مزه ملایم است؛ گوشت خام ممکن است کمی تلخ باشد، اما پخته خوشایند و مغزدار است. کورتنارهای ناشناخته را نباید چشید.",
+      "sporePrint": "اثر هاگ قهوه‌ای زنگاری تا قهوه‌ای اخرایی است. هاگ‌ها بادامی‌شکل و زگیل‌دارند، حدود ۱۰–۱۵ × ۷–۱۰ میکرومتر.",
+      "habitat": "با سوزنی‌برگ‌ها، به‌ویژه نوئل و کاج، و با راش اکتومیکوریزا می‌سازد و اغلب میان گیاهان خانواده‌های خاله‌ای مانند بلوبری، خلنگ و اریکا، روی خاک‌های اسیدی از دشت تا کوهستان می‌روید. اندام‌های بارده از ژوئیه تا نوامبر ظاهر می‌شوند (در اروپای مرکزی معمولاً ژوئیه–اکتبر؛ در بریتانیا اوت–نوامبر). در اسکاندیناوی و اروپای کوهستانی گسترده و در بیشتر بریتانیا و ایرلند کمیاب است.",
+      "uses": "در کشورهایی که فراوان است خوراکی پرارزشی به‌شمار می‌رود؛ در فنلاند به‌صورت تجاری نیز فروخته می‌شود و در چک در فهرست قارچ‌های بازاری آمده است، با مزه ملایم مغزدار پس از پخت. گاه با قارچ‌های جنگلی خوش‌عطرتر آمیخته می‌شود و خوب خشک می‌گردد. باید کاملاً پخته شود و ساقه‌های سفت اغلب دور انداخته می‌شوند. شناسایی باید قطعی باشد، زیرا سرده Cortinarius گونه‌های مرگبار دارد و اندام‌های بارده جوان ممکن است با کلاهک‌رشته‌های سمی مانند Inosperma erubescens اشتباه شوند. این گونه سزیم-۱۳۷ نیز انباشته می‌کند (و می‌تواند کادمیم و جیوه بگیرد)؛ پس از چرنوبیل برخی نمونه‌های اروپایی از حد غذایی فراتر رفتند، بنابراین در مناطق آسیب‌دیده باید کم خورده شود یا اصلاً خورده نشود. در سطح جهانی Least Concern است (IUCN، ۲۰۱۸) و به عنوان غذا به کار می‌رود، اما در بریتانیا کمیاب است.",
+      "confusion": "حلقه غشایی پایدار، کلاهک اخرایی که نخست پوشیده از شبنم یخ‌زده و سپس چروکیده است، و ساقه کم‌رنگ آن را از تقریباً همه کورتنارهای دیگر، که تنها پرده تارعنکبوتی دارند، جدا می‌کند. گونه‌های مرگبار مانند Cortinarius rubellus و C. orellanus این حلقه را ندارند و کلاهک‌شان یکنواخت‌تر زنگاری یا نارنجی‌قهوه‌ای است، بدون درخشش برفکی. اندام‌های بارده جوان ممکن است با Inosperma erubescens مرگبار اشتباه شوند که هنگام آسیب سرخ می‌شود و چنین حلقه غشایی ندارد. Phaeolepiota aurea دانه‌ای-آردی و زرد طلایی است. دیگر قارچ‌های کلاهک‌کم‌رنگ و حلقه‌دار، از جمله برخی Agaricus، رنگ تیغه و اثر هاگ متفاوتی دارند. اگر حلقه از دست رفته باشد نباید خورده شود.",
+      "notes": "سال‌ها این گونه با نام Rozites caperatus شناخته می‌شد، در سرده‌ای که درست برای این کورتنار حلقه‌دار غیرعادی ساخته شده بود. کار DNA پاینتنر و همکاران در ۲۰۰۲ نشان داد که Rozites درون Cortinarius جای دارد و نامی که الیاس فریس از ۱۸۳۸ به آن داده بود بازگشت. لقب caperatus یعنی چروکیده. نام رسمی انگلیسی در بریتانیا و در فهرست سرخ IUCN برابر The Gypsy است؛ دیگر نام‌های انگلیسی مستند Gypsy Mushroom، Wrinkled Cortinarius و Wrinkled Rozites هستند. مترادف‌های ذخیره‌شده تنها از مترادف‌شناسی Species Fungorum پیروی می‌کنند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Kehnäsieni on maltoisa, ektomykorritsaa muodostava seitikkiheimon (Cortinariaceae) sieni, joka on Cortinarius-suvussa poikkeuksellinen pysyvän, kalvomaisen renkaan vuoksi — piirteen, jonka takia se pitkään sijoitettiin sukuun Rozites. Se kasvaa maassa havu- ja sekametsissä, usein sammalen ja mustikan seassa happamalla maalla, loppukesästä syksyyn. Okra tai kellanokra lakki on nuorena kehnäinen ja avautuessaan säteittäin ryppyinen. Laji on laajalle levinnyt Pohjois-Euroopassa ja vuoristoisessa Euroopassa, lauhkeassa Aasiassa ja Pohjois-Amerikan pohjoisosissa, ja se on tunnettu ruokasieni, mutta se on määritettävä varmasti ja se voi kerätä radiocesiumia.",
+      "cap": "Lakin halkaisija on 5–14 cm (oppaat ilmoittavat vaihteluvälejä noin 4–10 cm:stä 7–14 cm:iin). Aluksi se on kupera, myöhemmin se litistyy ja siinä on leveä kohouma. Kuiva pinta on kellanokra tai ruskeanokra, reunasta usein vaaleampi, vaaleiden säikeiden peittämä, ja täysikasvuisena tyypillisesti hienosti ryppyinen tai uurteinen. Nuorilla lakeilla on valkeahko, joskus heikosti lila, kehnäinen hohto — se ”kuura”, johon perustuvat saksalainen nimi Reifpilz ja slovakialainen pavučinovec inovaťový.",
+      "hymenium": "Heltat ovat tiheitä ja kiinnittyneitä. Ne ovat aluksi vaalean savenvärisiä ja muuttuvat keskitumman ruskeiksi tai kanelinruskeiksi ruosteenruskeiden itiöiden kypsyessä, joskus epätasaisesti. Nuorilla yksilöillä niitä peittää kalvomainen osittainen suojus.",
+      "stipe": "Jalka on 5–15 cm pitkä ja 1–2,5 cm paksu (monissa eurooppalaisissa oppaissa noin 6–12 × 1–2 cm). Se on lieriömäinen, tyvestä hieman paksuuntunut, valkeahko tai vaaleanokra ja pituussuunnassa hienosti säikeinen. Keskikohdan yläpuolella on pysyvä, valkeahko, kalvomainen rengas — ratkaiseva tuntomerkki, joka erottaa lajin lähes kaikista muista Cortinarius-lajeista, joilla on vain hämähäkinseittimäinen suojus (cortina). Rengas on aluksi kiinnittynyt lakin reunaan.",
+      "flesh": "Malto on kermanväristä tai valkeahkoa eikä muuta väriään leikattaessa. Tuoksu ei ole luonteenomainen ja maku on mieto; raaka malto voi olla heikosti karvasta, mutta kypsennettynä se on miellyttävää ja pähkinäistä. Tuntemattomia seitikkejä ei pidä maistaa.",
+      "sporePrint": "Itiöpöly on ruosteenruskeaa tai okranruskeaa. Itiöt ovat mantelimuotoisia ja nystermäisiä, noin 10–15 × 7–10 µm.",
+      "habitat": "Ektomykorritsaa muodostava sieni havupuiden, erityisesti kuusen ja männyn, sekä pyökin kanssa, usein kanervakasvien, kuten mustikan, kanervan ja kellokanervien, seassa happamalla maalla alangoilta vuoristoon. Itiöemät ilmestyvät heinäkuusta marraskuuhun (Keski-Euroopassa tyypillisesti heinä–lokakuu; Britanniassa elo–marraskuu). Laji on yleinen Skandinaviassa ja vuoristoisessa Euroopassa, ja harvinainen suurimmassa osassa Britanniaa ja Irlantia.",
+      "uses": "Maissa, joissa se on yleinen, kehnäsieni on arvostettu ruokasieni; Suomessa sitä myydään myös kaupallisesti ja Tšekissä se on markkinasienten luettelossa, miedon pähkinäisen makunsa ansiosta kypsennettynä. Sitä sekoitetaan joskus voimakkaamman makuisiin metsäsieniin, ja se kuivuu hyvin. Se on kypsennettävä huolellisesti, ja sitkeät jalat poistetaan usein. Määrityksen on oltava varma, koska Cortinarius-sukuun kuuluu tappavan myrkyllisiä lajeja, ja nuoret itiöemät voidaan sekoittaa myrkyllisiin risakkaisiin, kuten Inosperma erubescens. Laji kerää myös cesium-137:ää (ja voi ottaa kadmiumia ja elohopeaa); Tšernobylin jälkeen jotkin eurooppalaiset näytteet ylittivät elintarvikeraja-arvot, joten saastuneilla alueilla sitä tulisi syödä säästeliäästi tai ei lainkaan. Maailmanlaajuisesti se on Least Concern (IUCN, 2018) ja sitä käytetään ravinnoksi, mutta Britanniassa se on harvinainen.",
+      "confusion": "Pysyvä kalvomainen rengas, ensin kehnäinen ja myöhemmin ryppyinen okra lakki sekä vaalea jalka erottavat sen lähes kaikista muista seitikeistä, joilla on vain hämähäkinseittimäinen cortina. Tappavan myrkyllisillä lajeilla, kuten Cortinarius rubellus ja C. orellanus, ei ole tätä rengasta, ja niiden lakit ovat tasaisemmin ruosteen- tai oranssinruskeita ilman kehnäistä hohtoa. Nuoret itiöemät voidaan sekoittaa tappavan myrkylliseen Inosperma erubescens -lajiin, joka punertuu vaurioituessaan eikä omaa tällaista kalvomaista rengasta. Phaeolepiota aurea on rakeisen jauheinen ja kultankeltainen. Muilla vaalealakkisilla, renkaallisilla sienillä, muun muassa joillakin herkkusienillä (Agaricus), on erilaiset helttojen värit ja itiöpöly. Jos rengas on kadonnut, sientä ei pidä syödä.",
+      "notes": "Pitkään laji tunnettiin nimellä Rozites caperatus, suvussa, joka luotiin juuri tälle epätavalliselle renkaalliselle seitikille. Peintnerin ja kollegoiden DNA-työ vuonna 2002 osoitti, että Rozites kuuluu sukuun Cortinarius, ja Elias Friesin jo vuonna 1838 antama nimi palasi käyttöön. Epiteetti caperatus merkitsee ryppyistä. Virallinen englanninkielinen nimi Yhdistyneessä kuningaskunnassa ja IUCN:n punaisella listalla on The Gypsy; muita lähteistettyjä englanninkielisiä nimiä ovat Gypsy Mushroom, Wrinkled Cortinarius ja Wrinkled Rozites. Tallennetut synonyymit noudattavat ainoastaan Species Fungorumin synonymiaa.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://laji.fi/"
+      ],
+      "label": "kehnäsieni"
+    },
+    "fr": {
+      "description": "La Pholiote ridée est un champignon charnu, ectomycorhizien, de la famille des Cortinariaceae, inhabituel dans le genre Cortinarius par son anneau membraneux persistant — le caractère qui l’a longtemps maintenu dans le genre Rozites. Elle pousse au sol dans les bois de conifères et les forêts mixtes, souvent parmi les mousses et les myrtilles sur sols acides, de la fin de l’été à l’automne. Le chapeau ocre à chamois jaunâtre est pruineux chez le jeune spécimen et devient radialement ridé en s’étalant. L’espèce est répandue dans le nord et les montagnes d’Europe, en Asie tempérée et dans le nord de l’Amérique du Nord ; c’est un comestible bien connu, mais il faut l’identifier avec certitude, et elle peut accumuler du radiocésium.",
+      "cap": "Le chapeau mesure 5–14 cm de diamètre (les flores indiquent des fourchettes d’environ 4–10 cm à 7–14 cm). D’abord convexe, il s’étale ensuite en conservant un large umbo. La surface sèche est jaune ocré à ocre brunâtre, souvent plus pâle à la marge, couverte de fibrilles pâles, et typiquement finement ridée ou sillonée à maturité. Les jeunes chapeaux ont un aspect blanchâtre, parfois légèrement lilacin, givré — le « givre » qui a donné le nom allemand Reifpilz et le nom slovaque pavučinovec inovaťový.",
+      "hymenium": "Les lames sont serrées et adnexées. Elles sont d’abord d’un ocre argileux pâle, puis brun moyen à cannelle lorsque les spores brun rouille mûrissent, parfois de façon inégale. Chez le jeune champignon, elles sont recouvertes par un voile partiel membraneux.",
+      "stipe": "Le pied mesure 5–15 cm de long et 1–2,5 cm d’épaisseur (de nombreuses flores européennes indiquent environ 6–12 × 1–2 cm). Il est cylindrique, un peu renflé à la base, blanchâtre à ocre pâle, et finement fibreux dans le sens de la longueur. Un anneau membraneux, blanchâtre et persistant, siège au-dessus du milieu ; c’est le caractère de terrain essentiel qui sépare l’espèce de presque tous les autres Cortinarius, qui n’ont qu’une cortine en toile d’araignée. L’anneau est d’abord attaché à la marge du chapeau.",
+      "flesh": "La chair est crème à blanchâtre et ne change pas de couleur à la coupe. L’odeur n’est pas caractéristique et la saveur est douce ; crue, la chair peut être légèrement amère, mais elle est agréable et noisettée une fois cuite. Il ne faut pas goûter les cortinaires inconnus.",
+      "sporePrint": "La sporée est brun rouille à brun ocré. Les spores sont amygdaliformes et verruqueuses, d’environ 10–15 × 7–10 µm.",
+      "habitat": "Ectomycorhizienne des conifères, surtout de l’épicéa et du pin, et du hêtre, souvent parmi les éricacées telles que la myrtille, la bruyère et les ericas, sur sols acides, de la plaine à la montagne. Les sporophores apparaissent de juillet à novembre (typiquement juillet–octobre en Europe centrale ; août–novembre en Grande-Bretagne). L’espèce est répandue en Scandinavie et dans l’Europe montagnarde, et peu fréquente à rare dans la plus grande partie de la Grande-Bretagne et de l’Irlande.",
+      "uses": "Là où elle est commune, c’est un comestible très apprécié, vendu commercialement en Finlande et inscrit parmi les champignons de marché en Tchéquie, à la saveur douce et noisettée une fois cuit. On la mélange parfois à des champignons forestiers plus typés et elle se sèche bien. Il faut la cuire soigneusement, et les pieds coriaces sont souvent écartés. L’identification doit être certaine, car Cortinarius comprend des espèces mortelles, et les jeunes sporophores peuvent être confondus avec des inocybes toxiques tels qu’Inosperma erubescens. L’espèce bioaccumule aussi le césium-137 (et peut capter le cadmium et le mercure) ; après Tchernobyl, certains échantillons européens ont dépassé les limites alimentaires, aussi faut-il, dans les zones concernées, n’en manger que très peu, ou pas du tout. Elle est mondialement classée Least Concern (UICN, 2018) et utilisée comme aliment, mais elle est rare en Grande-Bretagne.",
+      "confusion": "L’anneau membraneux persistant, le chapeau ocre d’abord pruineux puis ridé, et le pied pâle la séparent de presque tous les autres cortinaires, qui n’ont qu’une cortine en toile d’araignée. Des espèces mortelles telles que Cortinarius rubellus et C. orellanus n’ont pas cet anneau et portent des chapeaux plus uniformément rouille ou brun orangé, sans pruine givrée. Les jeunes sporophores peuvent être confondus avec l’Inosperma erubescens, mortel, qui rougit au froissement et n’a pas d’anneau membraneux de ce type. Phaeolepiota aurea est granuleux-farineux et d’un jaune doré. D’autres champignons à chapeau pâle et à anneau, dont certains Agaricus, ont des couleurs de lames et une sporée différentes. Si l’anneau a disparu, il ne faut pas la consommer.",
+      "notes": "Pendant de nombreuses années, l’espèce a été connue sous le nom de Rozites caperatus, genre créé pour ce cortinaire anneau inhabituel. Les travaux d’ADN de Peintner et de ses collègues en 2002 ont montré que Rozites se situe à l’intérieur de Cortinarius, rétablissant le nom qu’Elias Fries lui avait déjà donné en 1838. L’épithète caperatus signifie ridé. Le nom anglais officiel au Royaume-Uni et sur la Liste rouge de l’UICN est The Gypsy ; d’autres noms anglais sourcés sont Gypsy Mushroom, Wrinkled Cortinarius et Wrinkled Rozites. Les synonymes conservés suivent uniquement la synonymie de Species Fungorum.",
+      "names": [
+        "Cortinaire ridé"
+      ],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://taxref.mnhn.fr/taxref-web/taxa/36627"
+      ],
+      "label": "Pholiote ridée"
+    },
+    "he": {
+      "description": "Cortinarius caperatus הוא פטרייה בשרנית, אקטומיקוריזית, ממשפחת Cortinariaceae, יוצאת דופן בסוג Cortinarius בזכות טבעת קרומית מתמשכת — התכונה שהחזיקה אותה שנים רבות בסוג Rozites. היא גדלה על הקרקע ביערות מחטניים ומעורבים, לעיתים קרובות בין אזוב ואוכמניות בקרקעות חומציות, מסוף הקיץ עד הסתיו. הכובע בצבע אוכרה עד צהוב-חאקי מכוסה כפור בצעירותו, ובהתפשטותו הוא מתקמט באופן רדיאלי. המין נפוץ בצפון אירופה ובאירופה ההררית, באסיה הממוזגת ובצפון צפון-אמריקה, והוא מאכל ידוע, אך יש לזהותו בוודאות והוא יכול לצבור רדיוצזיום.",
+      "cap": "קוטר הכובע 5–14 ס\"מ (מדריכים מציינים טווחים של כ-4–10 ס\"מ עד 7–14 ס\"מ). תחילה הוא קמור, אחר כך הוא משתטח עם גבנון רחב. פני השטח היבשים צהוב-אוכרה עד אוכרה חומה, לעיתים קרובות חיוורים יותר בשוליים, מכוסים סיבים חיוורים, ובבגרותם בדרך כלל מקומטים דק או חרוצים. לכובעים הצעירים ברק לבנבן, לעיתים סגלגל קלות, דמוי כפור — אותו כפור שממנו נגזרים השם הגרמני Reifpilz והשם הסלובקי pavučinovec inovaťový.",
+      "hymenium": "הדפים צפופים ומחוברים. הם מתחילים בצבע חרסית חיוור והופכים לחום בינוני עד קינמון ככל שנבגי החום-חלודה מבשילים, לעיתים באופן לא אחיד. בגופי הפרי הצעירים מכסה אותם וילון חלקי קרומי.",
+      "stipe": "הגבעול אורכו 5–15 ס\"מ ועוביו 1–2.5 ס\"מ (מדריכים אירופיים רבים מציינים כ-6–12 × 1–2 ס\"מ). הוא גלילי, מעט נפוח בבסיס, לבנבן עד אוכרה חיוור, וסיבי דק לאורכו. מעל האמצע יושבת טבעת קרומית, לבנבנה ומתמשכת — סימן השדה המכריע המפריד את המין כמעט מכל שאר ה-Cortinarius, שיש להם רק וילון קורי עכביש. הטבעת מחוברת תחילה לשולי הכובע.",
+      "flesh": "הבשר קרם עד לבנבן ואינו משנה צבע בחיתוך. הריח אינו ייחודי והטעם עדין; הבשר החי יכול להיות מעט מר, אך מבושל הוא נעים ואגוזי. אין לטעום קורטינריים לא מוכרים.",
+      "sporePrint": "טביעת הנבגים חום-חלודה עד חום-אוכרה. הנבגים בצורת שקד ומכוסים יבלות, כ-10–15 × 7–10 מיקרומטר.",
+      "habitat": "אקטומיקוריזה עם מחטניים, במיוחד אשוח ואורן, ועם אשור, לעיתים קרובות בין צמחי אריקה כגון אוכמניה, אברש ואריקות, על קרקעות חומציות מהשפלה עד ההר. גופי הפרי מופיעים מיולי עד נובמבר (במרכז אירופה בדרך כלל יולי–אוקטובר; בבריטניה אוגוסט–נובמבר). נפוץ בסקנדינביה ובאירופה ההררית, ונדיר ברוב בריטניה ואירלנד.",
+      "uses": "במדינות שבהן הוא שכיח זהו מאכל מוערך מאוד; בפינלנד הוא נמכר גם מסחרית ובצ'כיה הוא מופיע כפטריית שוק, בטעם אגוזי עדין לאחר בישול. לעיתים מערבבים אותו עם פטריות יער בעלות טעם חזק יותר והוא מתייבש היטב. יש לבשלו היטב, והגבעולים הקשים מוסרים לעיתים קרובות. הזיהוי חייב להיות ודאי, כי הסוג Cortinarius כולל מינים קטלניים, וגופי פרי צעירים עלולים להיות מוחלפים בסיביות רעילות כמו Inosperma erubescens. המין גם צובר צזיום-137 (ויכול לקלוט קדמיום וכספית); לאחר צ'רנוביל חרגו דגימות אירופיות אחדות ממגבלות המזון, ולכן באזורים שנפגעו יש לאכול אותו במשורה או לא לאכול כלל. בעולם הוא Least Concern (IUCN, 2018) ומשמש למאכל, אך בבריטניה הוא נדיר.",
+      "confusion": "הטבעת הקרומית המתמשכת, הכובע האוכרה הכפורי תחילה ואחר כך המקומט, והגבעול החיוור מפרידים אותו כמעט מכל שאר הקורטינריים, שיש להם רק וילון קורי עכביש. מינים קטלניים כמו Cortinarius rubellus ו-C. orellanus חסרים טבעת זו וכובעיהם אחידים יותר בחום חלודה או כתום-חום, בלי ברק כפורי. גופי פרי צעירים עלולים להיות מוחלפים ב-Inosperma erubescens הקטלני, שמאדים בפציעה ואין לו טבעת קרומית מסוג זה. Phaeolepiota aurea גרגירית-קמחית וצהובה-זהובה. פטריות אחרות בעלות כובע חיוור וטבעת, לרבות כמה Agaricus, בעלות צבעי דפים וטביעת נבגים שונים. אם הטבעת אבדה, אין לאכול אותה.",
+      "notes": "שנים רבות היה המין ידוע כ-Rozites caperatus, בסוג שנוצר בדיוק עבור קורטינרי מטבעת זה היוצא דופן. עבודת ה-DNA של פיינטנר ועמיתיה ב-2002 הראתה ש-Rozites נמצא בתוך Cortinarius, והשם שאליאס פריס כבר נתן לו ב-1838 שב. הכינוי caperatus פירושו מקומט. השם האנגלי הרשמי בבריטניה וברשימה האדומה של IUCN הוא The Gypsy; שמות אנגליים מתועדים נוספים הם Gypsy Mushroom, Wrinkled Cortinarius ו-Wrinkled Rozites. השמות הנרדפים השמורים עוקבים רק אחר הסינונימיקה של Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Cortinarius caperatus Cortinariaceae कुल का एक मांसल, एक्टोमाइकोरिजल कवक है, जो वंश Cortinarius में असामान्य है क्योंकि इसमें एक स्थायी झिल्लीदार वलय होता है — वही लक्षण जिसे लंबे समय तक इसे वंश Rozites में रखा गया। यह शंकुधारी और मिश्रित वनों की मिट्टी पर उगता है, अक्सर अम्लीय मिट्टी में काई और ब्लूबेरी के बीच, देर गर्मी से पतझड़ तक। टोपी गेरुआ से पीली-मटमैली रंग की होती है, युवा अवस्था में पाला-सी परत से ढकी रहती है और फैलने पर अरीय रूप से सिकुड़ जाती है। यह प्रजाति उत्तरी और पर्वतीय यूरोप, समशीतोष्ण एशिया और उत्तरी उत्तरी अमेरिका में व्यापक है और एक ज्ञात खाद्य कवक है, पर इसे निश्चित रूप से पहचानना चाहिए और यह रेडियोसीज़ियम जमा कर सकती है।",
+      "cap": "टोपी 5–14 सेमी व्यास की होती है (क्षेत्रीय मार्गदर्शिकाएँ लगभग 4–10 सेमी से 7–14 सेमी तक की सीमा देती हैं)। पहले यह उत्तल होती है, फिर चौड़े उभार के साथ चपटी हो जाती है। सूखी सतह पीली गेरुआ से भूरे गेरुआ तक होती है, किनारे पर अक्सर अधिक फीकी, फीके रेशों से ढकी, और परिपक्व होने पर आमतौर पर बारीक सिकुड़ी या खाँचीदार। युवा टोपियों पर सफेद, कभी-कभी हल्का बैंगनी, पाले जैसा चमक होती है — वही पाला जिससे जर्मन नाम Reifpilz और स्लोवाक pavučinovec inovaťový निकले हैं।",
+      "hymenium": "गलफड़े घने और जुड़े होते हैं। वे पहले फीके मिट्टी रंग के होते हैं और जंग-भूरे बीजाणु पकने पर मध्यम भूरे से दालचीनी रंग के हो जाते हैं, कभी-कभी असमान रूप से। युवा फलन-कायों में उन्हें एक झिल्लीदार आंशिक आवरण ढकता है।",
+      "stipe": "डंठल 5–15 सेमी लंबा और 1–2.5 सेमी मोटा होता है (कई यूरोपीय मार्गदर्शिकाएँ लगभग 6–12 × 1–2 सेमी बताती हैं)। यह बेलनाकार, आधार पर थोड़ा फूला, सफेद से फीका गेरुआ, और लंबाई में बारीक रेशेदार होता है। मध्य से ऊपर एक स्थायी, सफेद, झिल्लीदार वलय बैठता है — वह मुख्य क्षेत्रीय लक्षण जो इसे लगभग सभी अन्य Cortinarius से अलग करता है, जिनमें केवल मकड़ी के जाले जैसी कोर्टिना होती है। वलय पहले टोपी के किनारे से जुड़ा होता है।",
+      "flesh": "मांस क्रीम से सफेद होता है और काटने पर रंग नहीं बदलता। गंध विशिष्ट नहीं होती और स्वाद हल्का होता है; कच्चा मांस थोड़ा कड़वा हो सकता है, पर पकाने पर सुखद और अखरोट जैसा होता है। अज्ञात कोर्टनारियों का स्वाद नहीं लेना चाहिए।",
+      "sporePrint": "बीजाणु छाप जंग-भूरे से गेरुआ-भूरे रंग की होती है। बीजाणु बादाम के आकार के और मस्सेदार होते हैं, लगभग 10–15 × 7–10 µm।",
+      "habitat": "शंकुधारियों, विशेषकर स्प्रूस और चीड़, तथा बीच के साथ एक्टोमाइकोराइज़ा बनाता है, अक्सर ब्लूबेरी, हीदर और एरिका जैसी एरिकेशस वनस्पति के बीच, अम्लीय मिट्टी पर मैदान से पर्वत तक। फलन-काय जुलाई से नवंबर तक दिखाई देते हैं (मध्य यूरोप में आमतौर पर जुलाई–अक्टूबर; ब्रिटेन में अगस्त–नवंबर)। स्कैंडिनेविया और पर्वतीय यूरोप में व्यापक, तथा ब्रिटेन और आयरलैंड के अधिकांश भाग में दुर्लभ है।",
+      "uses": "जिन देशों में यह सामान्य है, वहाँ इसे अत्यंत मूल्यवान खाद्य कवक माना जाता है; फ़िनलैंड में इसे व्यावसायिक रूप से भी बेचा जाता है और चेकिया में बाज़ार कवक के रूप में सूचीबद्ध है, पकाने पर हल्के अखरोट जैसे स्वाद के साथ। कभी-कभी अधिक सुगंधित वन कवकों के साथ मिलाया जाता है और अच्छी तरह सूखता है। इसे अच्छी तरह पकाना चाहिए, और कठोर डंठल अक्सर हटा दिए जाते हैं। पहचान निश्चित होनी चाहिए, क्योंकि Cortinarius में घातक प्रजातियाँ हैं, और युवा फलन-कायों को Inosperma erubescens जैसी विषैली रेशेदार टोपियों से भ्रमित किया जा सकता है। यह प्रजाति सीज़ियम-137 भी जमा करती है (और कैडमियम तथा पारा ले सकती है); चेरनोबिल के बाद कुछ यूरोपीय नमूने खाद्य सीमाओं से अधिक थे, इसलिए प्रभावित क्षेत्रों में इसे कम खाना चाहिए या बिल्कुल नहीं खाना चाहिए। विश्व स्तर पर यह Least Concern (IUCN, 2018) है और भोजन के रूप में प्रयुक्त होती है, पर ब्रिटेन में दुर्लभ है।",
+      "confusion": "स्थायी झिल्लीदार वलय, पहले पाले से ढकी फिर सिकुड़ी गेरुआ टोपी, और फीका डंठल इसे लगभग सभी अन्य कोर्टनारियों से अलग करते हैं, जिनमें केवल मकड़ी के जाले जैसी कोर्टिना होती है। Cortinarius rubellus और C. orellanus जैसी घातक प्रजातियों में यह वलय नहीं होता और उनकी टोपियाँ अधिक समान रूप से जंग या नारंगी-भूरी होती हैं, बिना पाले जैसी चमक के। युवा फलन-कायों को घातक Inosperma erubescens से भ्रमित किया जा सकता है, जो चोट लगने पर लाल हो जाता है और इस प्रकार का झिल्लीदार वलय नहीं रखता। Phaeolepiota aurea कणिल-आटे जैसा और सुनहरा पीला होता है। अन्य फीकी टोपी वाली, वलययुक्त कवक, जिनमें कुछ Agaricus शामिल हैं, की गलफड़े के रंग और बीजाणु छाप भिन्न होते हैं। यदि वलय खो गया हो तो इसे नहीं खाना चाहिए।",
+      "notes": "कई वर्षों तक यह प्रजाति Rozites caperatus के रूप में जानी जाती थी, एक वंश में जो ठीक इसी असामान्य वलययुक्त कोर्टनारी के लिए बनाया गया था। 2002 में पेइंटनर और सहयोगियों के डीएनए कार्य ने दिखाया कि Rozites, Cortinarius के भीतर आता है, और वह नाम लौट आया जो एलियास फ्रीज़ ने पहले ही 1838 में दिया था। उपनाम caperatus का अर्थ है सिकुड़ा हुआ। यूनाइटेड किंगडम और IUCN लाल सूची में आधिकारिक अंग्रेज़ी नाम The Gypsy है; अन्य प्रलेखित अंग्रेज़ी नाम Gypsy Mushroom, Wrinkled Cortinarius और Wrinkled Rozites हैं। संग्रहीत पर्याय केवल Species Fungorum की पर्यायता का अनुसरण करते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Cortinarius caperatus mesnata je ektomikorizna koprenka iz porodice Cortinariaceae, u rodu Cortinarius neobična zbog postojanog, opnastog prstena — znaka zbog kojega je dugo držana u rodu Rozites. Raste na tlu u crnogoričnim i mješovitim šumama, često među mahovinom i borovnicama na kiselim tlima, od kasnog ljeta do jeseni. Okrov do žućkastooker klobuk u mladosti je injem presvučen i pri širenju postaje radijalno naboran. Vrsta je raširena u sjevernoj i planinskoj Europi, u umjerenoj Aziji i na sjeveru Sjeverne Amerike i poznata je jestiva gljiva, ali je treba pouzdano odrediti; može nakupljati radiocesij.",
+      "cap": "Klobuk ima 5–14 cm u promjeru (vodiči navode raspon od oko 4–10 cm do 7–14 cm). Najprije je ispupčen, zatim se spljošti sa širokim humkom. Suha površina je žućkastooker do smeđeoker, na rubu često blijeda, prekrivena blijedim vlakancima i u zrelosti tipično fino naborana ili brazdana. Mladi klobuci imaju bjelkast, ponekad slabo ljubičast, injem prekriven sjaj — onu inju po kojoj su nastali njemački naziv Reifpilz i slovački pavučinovec inovaťový.",
+      "hymenium": "Listići su gusti i prirasli. Najprije su blijedo ilovasti, zatim srednjesmeđi do cimetasti kako dozrijevaju hrđavosmeđe spore, ponekad neravnomjerno. U mladih plodišta prekriva ih opnasti djelomični ovoj.",
+      "stipe": "Stručak je 5–15 cm dug i 1–2,5 cm debeo (mnogi europski vodiči navode oko 6–12 × 1–2 cm). Cilindričan je, pri dnu malo zadebljan, bjelkast do blijedo okrov i uzdužno fino vlaknast. Iznad sredine sjedi postojan, bjelkast, opnast prsten — ključno terensko obilježje koje ovu vrstu odvaja gotovo od svih drugih Cortinarius vrsta, koje imaju samo paučinastu kortinu. Prsten je najprije spojen s rubom klobuka.",
+      "flesh": "Meso je kremasto do bjelkasto i pri presjeku ne mijenja boju. Miris nije karakterističan, a okus je blag; sirovo meso može biti slabo gorko, ali kuhano je ugodno i orašasto. Nepoznate koprenke ne treba kušati.",
+      "sporePrint": "Otisak spora je hrđavosmeđ do okersmeđ. Spore su bademaste i bradavičaste, oko 10–15 × 7–10 µm.",
+      "habitat": "Ektomikoriza s četinjačama, osobito smrekom i borom, te s bukvom, često među vrijesovkama kao što su borovnica, vrijes i erike, na kiselim tlima od nizina do planina. Plodišta se pojavljuju od srpnja do studenoga (u Srednjoj Europi tipično srpanj–listopad; u Britaniji kolovoz–studeni). Raširena je u Skandinaviji i planinskoj Europi, a u većem dijelu Britanije i Irske rijetka.",
+      "uses": "U zemljama u kojima je česta, visoko je cijenjena jestiva gljiva; u Finskoj se prodaje i trgovački, a u Češkoj je na popisu tržnih gljiva, s blagim orašastim okusom nakon kuhanja. Ponekad se miješa sa jače mirisnim šumskim gljivama i dobro se suši. Treba je temeljito skuhati, a tvrde stručke često se uklanjaju. Odredba mora biti sigurna, jer rod Cortinarius uključuje smrtonosno otrovne vrste, a mlada plodišta mogu se zamijeniti otrovnim cijepačama poput Inosperma erubescens. Vrsta također nakuplja cezij-137 (i može primati kadmij i živu); nakon Černobila neki su europski uzorci premašili prehrambene granice, pa je na pogođenim područjima treba jesti štedljivo ili je ne jesti. Globalno je Least Concern (IUCN, 2018) i koristi se kao hrana, ali je u Britaniji rijetka.",
+      "confusion": "Postojani opnasti prsten, najprije injem presvučen, zatim naboran okrov klobuk i blijedi stručak odvajaju je gotovo od svih drugih koprenki, koje imaju samo paučinastu kortinu. Smrtonosno otrovne vrste poput Cortinarius rubellus i C. orellanus nemaju ovaj prsten, a njihovi su klobuci ravnomjernije hrđavi ili narančastosmeđi, bez injenog sjaja. Mlada plodišta mogu se zamijeniti sa smrtonosno otrovnom Inosperma erubescens, koja pri ozljedi pocrveni i nema takav opnasti prsten. Phaeolepiota aurea je zrnato-brašnasta i zlatnožuta. Druge blijedih klobuka, prstenaste gljive, uključujući neke pečurke (Agaricus), imaju drugačije boje listića i otisak spora. Ako prsten nedostaje, ne treba je jesti.",
+      "notes": "Mnogo je godina vrsta bila poznata kao Rozites caperatus, u rodu stvorenom baš za ovu neobičnu prstenastu koprenku. DNK rad Peintner i suradnika iz 2002. pokazao je da Rozites pripada rodu Cortinarius, čime se vratilo ime koje joj je Elias Fries dao već 1838. Epitet caperatus znači naboran. Službeno englesko ime u Ujedinjenom Kraljevstvu i na IUCN-ovu Crvenom popisu je The Gypsy; druga dokumentirana engleska imena su Gypsy Mushroom, Wrinkled Cortinarius i Wrinkled Rozites. Pohranjeni sinonimi slijede samo sinonimiku Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "A gyűrűs ráncosgomba húsos, ektomikorrhizás pókhálósgomba a Cortinariaceae családból, a Cortinarius nemzetségben szokatlan, mert tartós, hártyás gallérja van — ez a bélyeg tartotta hosszú ideig a Rozites nemben. Talajon nő fenyvesekben és elegyes erdőkben, gyakran moha és áfonya között, savanyú talajon, a késő nyártól az őszig. Okkeres vagy sárgásokker kalapja fiatalon deres, kiterülve sugarasan ráncosodik. Az északi és hegyvidéki Európában, a mérsékelt övi Ázsiában és Észak-Amerika északi részén elterjedt, ismert ehető gomba, de biztosan kell határozni, és képes radiocéziumot felhalmozni.",
+      "cap": "A kalap 5–14 cm átmérőjű (a határozók körülbelül 4–10 cm-től 7–14 cm-ig terjedő tartományokat adnak). Először domború, később lapítottá válik, széles púppal. Száraz felszíne sárgásokker vagy barnásokker, a széle gyakran világosabb, halvány szálakkal borított, éretten jellemzően finoman ráncos vagy barázdált. A fiatal kalapok fehéres, néha halványan lilás deres csillogásúak — ez a „dér” adja a német Reifpilz és a szlovák pavučinovec inovaťový nevet.",
+      "hymenium": "A lemezek sűrűek és tönkhöz nőttek. Először halvány agyagszínűek, később középbarna vagy fahéjbarna árnyalatúak, ahogy a rozsdabarna spórák érnek, néha egyenetlenül. Fiatalon hártyás részleges burok fedi őket.",
+      "stipe": "A tönk 5–15 cm hosszú és 1–2,5 cm vastag (sok európai határozó körülbelül 6–12 × 1–2 cm-t ad meg). Henger alakú, tövén kissé duzzadt, fehéres vagy halványokker, hosszában finoman szálas. A középvonal fölött tartós, fehéres, hártyás gallér ül — ez a döntő bélyeg, amely szinte minden más Cortinarius-fajtól elkülöníti, amelyeknek csak pókhálószerű cortinájuk van. A gallér eleinte a kalap széléhez kapcsolódik.",
+      "flesh": "A hús krémszínű vagy fehéres, vágásra nem színeződik. Illata nem jellegzetes, íze enyhe; nyersen enyhén kesernyés lehet, sütve-főzve kellemes, diós ízű. Ismeretlen pókhálósgombákat ne kóstoljunk.",
+      "sporePrint": "A spórapor rozsdabarna vagy okkerbarna. A spórák mandula alakúak és szemölcsösek, körülbelül 10–15 × 7–10 µm-esek.",
+      "habitat": "Ektomikorrhizás fenyőkkel, különösen luccal és erdeifenyővel, valamint bükkel, gyakran ericaceous növények, például áfonya, henye és erika között, savanyú talajon, az alföldtől a hegyvidékig. A termőtestek júliustól novemberig jelennek meg (Közép-Európában jellemzően július–október; Britanniában augusztus–november). Skandináviában és a hegyvidéki Európában elterjedt, Britannia és Írország nagy részén ritka.",
+      "uses": "Azokban az országokban, ahol gyakori, nagyra becsült ehető gomba; Finnországban kereskedelmi forgalomban is kapható, Csehországban piaci gombaként szerepel, főzve enyhén diós ízű. Néha erősebb ízű erdei gombákkal keverik, és jól szárítható. Alaposan meg kell főzni, a szívós tönköket gyakran eltávolítják. A határozásnak biztosnak kell lennie, mert a Cortinarius halálosan mérgező fajokat is tartalmaz, a fiatal termőtesteket pedig mérgező susulykákkal, például az Inosperma erubescens-szel lehet összetéveszteni. A faj cézium-137-et is felhalmoz (és kadmiumot, higanyt is felvehet); Csernobil után egyes európai minták túllépték az élelmiszer-határértéket, ezért az érintett területeken csak takarékosan vagy egyáltalán ne együk. Világszerte Least Concern (IUCN, 2018), és élelemként használják, Britanniában azonban ritka.",
+      "confusion": "A tartós hártyás gallér, a deres, később ráncos okker kalap és a halvány tönk szinte minden más pókhálósgombától elkülöníti, amelyeknek csak pókhálószerű cortinájuk van. Halálosan mérgező fajoknak, például a Cortinarius rubellusnak és a C. orellanusnak nincs ilyen gallérjuk, kalapjuk egyenletesebben rozsdás vagy narancsbarna, deres csillogás nélkül. A fiatal termőtesteket össze lehet téveszteni a halálosan mérgező Inosperma erubescens-szel, amely vörösen húzódik, és nincs ilyen hártyás gallérja. A Phaeolepiota aurea szemcsés-lisztes és aranysárga. Más halvány kalapú, galléros gombáknak, köztük egyes csiperkéknek (Agaricus) más a lemezszínük és a spóraporuk. Ha a gallér hiányzik, ne együk meg.",
+      "notes": "Sokáig Rozites caperatus néven volt ismert, egy nemzetségben, amelyet éppen e szokatlan, galléros pókhálósgomba számára hoztak létre. Peintner és munkatársai 2002-es DNS-vizsgálatai kimutatták, hogy a Rozites a Cortinariuson belül helyezkedik el, így visszatért a név, amelyet Elias Fries már 1838-ban adott. A caperatus jelző ráncost jelent. A hivatalos angol név az Egyesült Királyságban és az IUCN Vörös Listáján The Gypsy; további forrásolt angol nevek a Gypsy Mushroom, a Wrinkled Cortinarius és a Wrinkled Rozites. A tárolt szinonimák kizárólag a Species Fungorum szinonímiáját követik.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "gyűrűs ráncosgomba"
+    },
+    "id": {
+      "description": "Cortinarius caperatus adalah jamur berdaging, ektomikoriza, dari famili Cortinariaceae, yang tidak biasa dalam genus Cortinarius karena memiliki cincin bermembran yang bertahan — ciri yang lama menempatkannya dalam genus Rozites. Tumbuh di tanah di hutan konifer dan hutan campuran, sering di antara lumut dan bluberi di tanah asam, dari akhir musim panas hingga musim gugur. Tudung berwarna oker hingga kuning-krem berlapis embun ketika muda dan menjadi berkerut secara radial saat mekar. Spesies ini tersebar di Eropa utara dan pegunungan, Asia beriklim sedang, dan Amerika Utara bagian utara, dan dikenal sebagai jamur yang dapat dimakan, tetapi harus diidentifikasi dengan pasti dan dapat mengakumulasi radiosesium.",
+      "cap": "Tudung berdiameter 5–14 cm (panduan lapangan memberi kisaran sekitar 4–10 cm hingga 7–14 cm). Mula-mula cembung, kemudian merata dengan umbo yang lebar. Permukaan kering berwarna oker kekuningan hingga oker kecokelatan, sering lebih pucat di tepi, tertutup serat pucat, dan biasanya berkerut halus atau beralur pada saat dewasa. Tudung muda memiliki kilau keputihan, kadang sedikit keunguan, seperti embun beku — embun yang menjadi dasar nama Jerman Reifpilz dan Slowakia pavučinovec inovaťový.",
+      "hymenium": "Insang rapat dan melekat. Mula-mula berwarna lempung pucat, kemudian cokelat sedang hingga kayu manis ketika spora cokelat karat matang, kadang tidak merata. Pada tubuh buah muda, insang ditutupi tudung sebagian yang bermembran.",
+      "stipe": "Tangkai panjang 5–15 cm dan tebal 1–2,5 cm (banyak panduan Eropa menyebut sekitar 6–12 × 1–2 cm). Silindris, sedikit membengkak di pangkal, keputihan hingga oker pucat, dan berserat halus memanjang. Di atas bagian tengah terdapat cincin bermembran, keputihan, dan bertahan — ciri lapangan utama yang memisahkan spesies ini dari hampir semua Cortinarius lain, yang hanya memiliki kortina seperti jaring laba-laba. Cincin mula-mula melekat pada tepi tudung.",
+      "flesh": "Daging berwarna krem hingga keputihan dan tidak berubah warna saat dipotong. Baunya tidak khas dan rasanya lembut; daging mentah dapat agak pahit, tetapi setelah dimasak rasanya enak dan seperti kacang. Jangan mencicipi jamur jaring laba-laba yang tidak dikenal.",
+      "sporePrint": "Jejak spora cokelat karat hingga cokelat oker. Spora berbentuk seperti almond dan berjerawat, sekitar 10–15 × 7–10 µm.",
+      "habitat": "Ektomikoriza dengan konifer, terutama cemara dan pinus, serta dengan beech, sering di antara tumbuhan ericaceous seperti bluberi, heather, dan erica, di tanah asam dari dataran rendah hingga pegunungan. Tubuh buah muncul dari Juli hingga November (di Eropa Tengah biasanya Juli–Oktober; di Britania Agustus–November). Meluas di Skandinavia dan Eropa pegunungan, dan jarang di sebagian besar Britania dan Irlandia.",
+      "uses": "Di negara-negara tempat jamur ini umum, ia sangat dihargai sebagai jamur pangan; di Finlandia juga dijual secara komersial dan di Ceko tercantum sebagai jamur pasar, dengan rasa kacang yang lembut setelah dimasak. Kadang dicampur dengan jamur hutan yang lebih beraroma dan mengering dengan baik. Harus dimasak secara menyeluruh, dan tangkai yang keras sering dibuang. Identifikasi harus pasti, karena Cortinarius mencakup spesies yang mematikan, dan tubuh buah muda dapat dikelirukan dengan jamur serat beracun seperti Inosperma erubescens. Spesies ini juga mengakumulasi sesium-137 (dan dapat menyerap kadmium serta raksa); setelah Chernobyl, beberapa sampel Eropa melebihi batas pangan, sehingga di daerah yang terdampak sebaiknya dimakan hemat atau tidak sama sekali. Secara global berstatus Least Concern (IUCN, 2018) dan digunakan sebagai makanan, tetapi jarang di Britania.",
+      "confusion": "Cincin bermembran yang bertahan, tudung oker yang mula-mula berembun lalu berkerut, dan tangkai pucat memisahkannya dari hampir semua jamur jaring laba-laba lain, yang hanya memiliki kortina seperti jaring laba-laba. Spesies mematikan seperti Cortinarius rubellus dan C. orellanus tidak memiliki cincin ini dan tudungnya lebih merata berwarna karat atau cokelat oranye, tanpa kilau embun. Tubuh buah muda dapat dikelirukan dengan Inosperma erubescens yang mematikan, yang memerah jika terluka dan tidak memiliki cincin bermembran semacam ini. Phaeolepiota aurea berbutir-tepung dan kuning keemasan. Jamur lain bertudung pucat dan bercincin, termasuk beberapa Agaricus, memiliki warna insang dan jejak spora yang berbeda. Jika cincinnya hilang, jangan dimakan.",
+      "notes": "Selama bertahun-tahun spesies ini dikenal sebagai Rozites caperatus, dalam genus yang dibuat justru untuk jamur jaring laba-laba bercincin yang tidak biasa ini. Kerja DNA Peintner dan rekan-rekannya pada 2002 menunjukkan bahwa Rozites berada di dalam Cortinarius, sehingga nama yang sudah diberikan Elias Fries pada 1838 dikembalikan. Epitet caperatus berarti berkerut. Nama Inggris resmi di Britania Raya dan pada Daftar Merah IUCN adalah The Gypsy; nama Inggris lain yang terdokumentasi adalah Gypsy Mushroom, Wrinkled Cortinarius, dan Wrinkled Rozites. Sinonim yang disimpan hanya mengikuti sinonimi Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Cortinarius caperatus è un fungo carnoso, ectomicorrizico, della famiglia Cortinariaceae, insolito nel genere Cortinarius per l’anello membranoso persistente, il carattere che lo tenne a lungo nel genere Rozites. Cresce sul terreno nei boschi di conifere e misti, spesso tra muschi e mirtilli su suoli acidi, dalla tarda estate all’autunno. Il cappello ocra o giallo-camoscio è pruinoso da giovane e diventa radialmente rugoso quando si espande. La specie è diffusa nell’Europa settentrionale e montana, nell’Asia temperata e nel nord dell’America settentrionale, ed è un commestibile noto, ma va identificata con certezza e può accumulare radiocesio.",
+      "cap": "Il cappello misura 5–14 cm di diametro (le guide indicano intervalli da circa 4–10 cm fino a 7–14 cm). Dapprima è convesso, poi si appiattisce con un ampio umbone. La superficie secca è giallo-ocra o bruno-ocra, spesso più chiara al margine, coperta di fibre chiare e tipicamente finemente rugosa o solcata a maturità. I cappelli giovani hanno un lucore biancastro, a volte lievemente lillacino, come di brina, il «gelo» da cui derivano il nome tedesco Reifpilz e lo slovacco pavučinovec inovaťový.",
+      "hymenium": "Le lamelle sono fitte e adnesse. All’inizio sono di un color argilla pallido e diventano bruno medio o cannella quando maturano le spore bruno-ruggine, a volte in modo irregolare. Nei giovani esemplari sono coperte da un velo parziale membranoso.",
+      "stipe": "Il gambo è lungo 5–15 cm e spesso 1–2,5 cm (molte guide europee indicano circa 6–12 × 1–2 cm). È cilindrico, un po’ ingrossato alla base, biancastro o ocra pallido e finemente fibroso in lunghezza. Sopra la metà siede un anello membranoso, biancastro e persistente, il carattere di campo decisivo che lo separa da quasi tutti gli altri Cortinarius, che hanno solo una cortina ragnatelosa. L’anello è dapprima unito al margine del cappello.",
+      "flesh": "La carne è crema o biancastra e non cambia colore al taglio. L’odore non è caratteristico e il sapore è mite; cruda può essere lievemente amara, ma cotta è gradevole e nocciolata. Non si devono assaggiare i cortinari sconosciuti.",
+      "sporePrint": "La sporata è bruno-ruggine o bruno-ocra. Le spore sono amigdaliformi e verrucose, di circa 10–15 × 7–10 µm.",
+      "habitat": "Ectomicorrizico con conifere, soprattutto abete e pino, e con il faggio, spesso tra ericacee come mirtillo, brugo ed eriche, su suoli acidi dalla pianura alla montagna. I corpi fruttiferi compaiono da luglio a novembre (tipicamente luglio–ottobre in Europa centrale; agosto–novembre in Gran Bretagna). È diffuso in Scandinavia e nell’Europa montana, e infrequente o raro in gran parte della Gran Bretagna e dell’Irlanda.",
+      "uses": "Nei paesi in cui è comune è un commestibile molto apprezzato; in Finlandia è venduto anche commercialmente e in Cechia figura tra i funghi di mercato, con un sapore mite e nocciolato una volta cotto. A volte si mescola a funghi boschivi dal sapore più intenso e si secca bene. Va cotto a fondo, e i gambi coriacei spesso si scartano. L’identificazione deve essere certa, perché Cortinarius comprende specie mortali e i corpi giovani possono essere confusi con inocibi tossici come Inosperma erubescens. La specie bioaccumula anche cesio-137 (e può assorbire cadmio e mercurio); dopo Černobyl’ alcuni campioni europei superarono i limiti alimentari, per cui nelle zone colpite va mangiata con parsimonia o non mangiata. È globalmente Least Concern (IUCN, 2018) e usata come alimento, ma è rara in Gran Bretagna.",
+      "confusion": "L’anello membranoso persistente, il cappello ocra prima pruinoso e poi rugoso e il gambo pallido lo separano da quasi tutti gli altri cortinari, che hanno solo una cortina ragnatelosa. Specie mortali come Cortinarius rubellus e C. orellanus sono prive di questo anello e hanno cappelli più uniformemente ruggine o bruno-arancio, senza lucore pruinoso. I corpi giovani possono essere confusi con l’Inosperma erubescens, mortale, che arrossa al tocco e non ha un anello membranoso di questo tipo. Phaeolepiota aurea è granuloso-farinoso e giallo dorato. Altri funghi a cappello pallido e anello, compresi alcuni Agaricus, hanno colori delle lamelle e sporate diversi. Se l’anello è andato perduto, non va mangiato.",
+      "notes": "Per molti anni la specie fu nota come Rozites caperatus, in un genere creato proprio per questo insolito cortinario ad anello. Il lavoro sul DNA di Peintner e colleghi nel 2002 mostrò che Rozites sta dentro Cortinarius, riportando il nome che Elias Fries gli aveva già dato nel 1838. L’epiteto caperatus significa rugoso. Il nome inglese ufficiale nel Regno Unito e sulla Lista Rossa IUCN è The Gypsy; altri nomi inglesi documentati sono Gypsy Mushroom, Wrinkled Cortinarius e Wrinkled Rozites. I sinonimi conservati seguono unicamente la sinonimia di Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ショウゲンジは、フウセンタケ科（Cortinariaceae）の肉質な外生菌根菌で、永続する膜質のつばをもつ点でフウセンタケ属では異例である。この形質のために、長く Rozites 属に置かれていた。酸性土壌の針葉樹林や混交林の地上に、しばしばコケやビルベリーの間で、晩夏から秋にかけて生じる。傘は黄土色から黄褐色で、若いときは白い霜状の粉に覆われ、開くと放射状にしわが寄る。北欧や山地のヨーロッパ、温帯アジア、北アメリカ北部に広く分布する食用菌として知られるが、確実に同定する必要があり、放射性セシウムを蓄積することがある。",
+      "cap": "傘の直径は5–14 cm（図鑑ではおよそ4–10 cmから7–14 cmまでの幅が示される）。初めは丸山形で、のちに広い中丘を残して平らになる。乾いた表面は黄黄土色から褐黄土色、縁はしばしば淡く、淡色の繊維に覆われ、成熟すると細かくしわや溝がつくのが普通である。若い傘は白っぽく、ときにわずかに淡紫がかった霜状の光沢を帯びる。これがドイツ名 Reifpilz やスロバキア名 pavučinovec inovaťový の由来である。",
+      "hymenium": "ひだは密で上着する。初めは淡い粘土色で、さび褐色の胞子が熟するにつれて中褐色から肉桂色になり、ときむらがある。若いときは膜質の部分的な被膜に覆われる。",
+      "stipe": "柄は長さ5–15 cm、太さ1–2.5 cm（多くのヨーロッパの図鑑ではおよそ6–12 × 1–2 cm）。円柱状で基部はやや膨らみ、白っぽいから淡い黄土色で、縦に細かい繊維がある。中ほどより上に、永続する白っぽい膜質のつばがあり、クモの巣状のコルチナしかもたない他のほとんどのフウセンタケ属との野外での重要な違いとなる。つばは当初、傘の縁に付いている。",
+      "flesh": "肉はクリーム色から白っぽく、切っても変色しない。においは特になく、味は温和。生ではわずかに苦みがあることがあるが、加熱すると快いナッツのような味になる。未知のフウセンタケ類は味見しないこと。",
+      "sporePrint": "胞子紋はさび褐色から黄土褐色。胞子はアーモンド形でいぼがあり、およそ10–15 × 7–10 µm。",
+      "habitat": "トウヒやマツなどの針葉樹、およびブナと外生菌根を結び、しばしばビルベリーやヒースなどのツツジ科植物の間の酸性土壌に、低地から山地まで生じる。子実体は7月から11月（中欧ではふつう7–10月、イギリスでは8–11月）に現れる。スカンジナビアと山地ヨーロッパでは広く、イギリスとアイルランドの大部分ではまれである。",
+      "uses": "普通に見られる国々では高く評価される食用菌で、フィンランドでは商業的にも売られ、チェコでは市場きのことして掲げられ、加熱すると温和なナッツのような味がする。香りが強い他の森林きのこと混ぜることもあり、よく乾く。十分に加熱する必要があり、硬い柄はしばしば除かれる。フウセンタケ属には致死的な種が含まれ、若い子実体はイッポンシメジ類の有毒種、たとえば Inosperma erubescens と紛らわしいことがあるため、同定は確実でなければならない。本種はセシウム137も蓄積し（カドミウムや水銀を取り込むこともある）、チェルノブイリ後には一部のヨーロッパの試料が食品基準を超えた。汚染地域では控えめにするか、食用にしない方がよい。世界的には IUCN（2018）のLeast Concern で食用とされるが、イギリスではまれである。",
+      "confusion": "永続する膜質のつば、初め霜状でのちにしわの寄った黄土色の傘、淡色の柄は、コルチナしかもたない他のほとんどのフウセンタケ類から本種を分ける。Cortinarius rubellus や C. orellanus などの致死種にはこのつばがなく、傘はさび色や橙褐色で一様、霜状の光沢もない。若い子実体は、傷つくと赤変し、こうした膜質のつばをもたない致死種 Inosperma erubescens と紛らわしい。Phaeolepiota aurea は粒状粉質で黄金色である。ほかの淡色でつばのあるきのこ、たとえば一部のハラタケ属（Agaricus）は、ひだの色や胞子紋が異なる。つばが失われていれば食べてはならない。",
+      "notes": "長年、本種は Rozites caperatus として知られ、この珍しいつばのあるフウセンタケのために設けられた属に置かれていた。2002年のペイントナーらによるDNA研究で Rozites が Cortinarius の内部に位置することが示され、エリアス・フリースがすでに1838年に与えていた名に戻った。種小名 caperatus は「しわのある」を意味する。イギリスおよびIUCNレッドリストでの公式英語名は The Gypsy で、ほかに資料のある英語名として Gypsy Mushroom、Wrinkled Cortinarius、Wrinkled Rozites がある。収録する異名は Species Fungorum の異名関係のみに従う。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://api.gbif.org/v1/species/2529415/vernacularNames"
+      ],
+      "label": "ショウゲンジ"
+    },
+    "ko": {
+      "description": "Cortinarius caperatus는 광대버섯과(Cortinariaceae)의 육질 외생균근 버섯으로, 지속하는 막질의 턱받이가 있어 끈적버섯속에서는 이례적이다. 바로 이 형질 때문에 오랫동안 Rozites속에 두었다. 침엽수와 혼효림의 땅 위, 흔히 산성 토양의 이끼와 월귤 사이에서 늦여름부터 가을까지 난다. 갓은 황토색에서 노란 황갈색이며, 어릴 때는 흰 서리처럼 덮이고 퍼지면서 방사상으로 주름진다. 북유럽과 산지 유럽, 온대 아시아, 북아메리카 북부에 널리 퍼진 식용 버섯으로 알려져 있으나 정확하게 동정해야 하며, 방사성 세슘을 축적할 수 있다.",
+      "cap": "갓 지름은 5–14 cm이다(도감은 대략 4–10 cm에서 7–14 cm까지의 범위를 든다). 처음에는 볼록하다가 나중에는 넓은 중앙 융기를 남기고 편평해진다. 마른 표면은 노란 황토색에서 갈색 황토색이며, 가장자리는 흔히 더 옅고, 옅은 섬유로 덮이며, 성숙하면 보통 잔주름이 지거나 홈이 생긴다. 어린 갓은 희끄무레하고 때로 연한 자주빛을 띠는 서리 같은 광택이 있다. 이것이 독일명 Reifpilz와 슬로바키아명 pavučinovec inovaťový의 유래이다.",
+      "hymenium": "주름은 빽빽하고 착생한다. 처음에는 옅은 점토색이며, 녹슨 갈색 포자가 익으면서 중간 갈색에서 계피색으로 변하고, 때로는 고르지 않다. 어릴 때는 막질의 부분 피막이 덮는다.",
+      "stipe": "대는 길이 5–15 cm, 굵기 1–2.5 cm이다(많은 유럽 도감은 대략 6–12 × 1–2 cm를 든다). 원기둥형이고 기부가 약간 부풀며, 희끄무레하거나 옅은 황토색이고 세로로 가는 섬유가 있다. 중부보다 위에 지속하는 희끄무레한 막질 턱받이가 있어, 거미줄 같은 코르티나만을 지닌 거의 모든 다른 끈적버섯속과 구별하는 핵심 야외 형질이다. 턱받이는 처음에는 갓 가장자리에 붙어 있다.",
+      "flesh": "살은 크림색에서 희끄무레하며 잘라도 변색하지 않는다. 냄새는 뚜렷하지 않고 맛은 온화하다. 생으로는 약간 쓸 수 있으나, 익히면 고소하고 견과 맛이 난다. 알 수 없는 끈적버섯류는 맛보지 말아야 한다.",
+      "sporePrint": "포자문은 녹슨 갈색에서 황토갈색이다. 포자는 아몬드형이고 사마귀 돌기가 있으며, 약 10–15 × 7–10 µm이다.",
+      "habitat": "가문비와 소나무 등 침엽수, 그리고 너도밤나무와 외생균근을 이루며, 흔히 월귤·히스·에리카 같은 진달래과 식물 사이의 산성 토양에서 저지대부터 산지까지 난다. 자실체는 7월부터 11월까지 나타난다(중부 유럽에서는 보통 7–10월, 영국에서는 8–11월). 스칸디나비아와 산지 유럽에는 넓게 퍼져 있고, 영국과 아일랜드 대부분에서는 드물다.",
+      "uses": "흔한 나라에서는 높이 평가되는 식용 버섯이며, 핀란드에서는 상업적으로도 팔리고 체코에서는 시장 버섯으로 올라 있으며, 익히면 온화한 견과 맛이 난다. 향이 더 강한 숲 버섯과 섞기도 하며 잘 마른다. 충분히 익혀야 하고, 질긴 대는 흔히 버린다. 끈적버섯속에는 치명적인 종이 있고, 어린 자실체는 Inosperma erubescens 같은 독성 섬유갓버섯류와 혼동될 수 있으므로 동정은 확실해야 한다. 이 종은 세슘-137도 축적하며(카드뮴과 수은을 받아들일 수도 있다). 체르노빌 이후 일부 유럽 시료가 식품 한도를 넘었으므로, 영향권에서는 적게 먹거나 먹지 않는 것이 좋다. 전 세계적으로는 IUCN(2018) Least Concern이며 식용되지만, 영국에서는 드물다.",
+      "confusion": "지속하는 막질 턱받이, 처음에는 서리처럼 덮였다가 나중에 주름진 황토색 갓, 옅은 대는 코르티나만을 지닌 거의 모든 다른 끈적버섯류와 구별된다. Cortinarius rubellus와 C. orellanus 같은 치명종에는 이 턱받이가 없고, 갓은 더 고르게 녹슨색이나 주황갈색이며 서리 광택이 없다. 어린 자실체는 상처가 나면 붉어지고 이런 막질 턱받이가 없는 치명적인 Inosperma erubescens와 혼동될 수 있다. Phaeolepiota aurea는 알갱이처럼 가루지고 금색이다. 옅은 갓에 턱받이가 있는 다른 버섯, 일부 주름버섯속(Agaricus)을 포함해, 주름 색과 포자문이 다르다. 턱받이가 없어졌다면 먹지 말아야 한다.",
+      "notes": "오랫동안 이 종은 Rozites caperatus로 알려졌고, 바로 이 특이한 턱받이 끈적버섯을 위해 만든 속에 두었다. 2002년 파인트너와 동료들의 DNA 연구는 Rozites가 Cortinarius 안에 있음을 보여, 엘리아스 프리스가 이미 1838년에 준 이름으로 돌아갔다. 종소명 caperatus는 ‘주름진’을 뜻한다. 영국과 IUCN 적색목록의 공식 영어 이름은 The Gypsy이며, 출처가 있는 다른 영어 이름은 Gypsy Mushroom, Wrinkled Cortinarius, Wrinkled Rozites이다. 저장하는 이명은 Species Fungorum의 이명 관계만을 따른다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Raukšlėtasis nuosėdis yra mėsingas, ektomikorizinis voratinklinių (Cortinariaceae) grybas, Cortinarius gentyje neįprastas tuo, kad turi išliekantį plėvinį žiedą — požymį, dėl kurio jis ilgai buvo laikomas Rozites gentyje. Jis auga ant žemės spygliuočių ir mišriuose miškuose, dažnai samanose ir mėlynynuose rūgščiose dirvose, nuo vėlyvos vasaros iki rudens. Ochros ar gelsvai ochros kepurėlė jauna būna apšerkšnijusi ir išsiskleidusi tampa radialiai raukšlėta. Rūšis paplitusi šiaurinėje ir kalnuotoje Europoje, vidutinio klimato Azijoje ir šiaurinėje Šiaurės Amerikoje ir yra žinomas valgomas grybas, bet jį reikia patikimai nustatyti; jis gali kaupti radiocesį.",
+      "cap": "Kepurėlė yra 5–14 cm skersmens (žinynai nurodo intervalus nuo maždaug 4–10 cm iki 7–14 cm). Iš pradžių ji išgaubta, vėliau suplokštėja su plačiu gūbreliu. Sausas paviršius gelsvai ochros ar rusvai ochros, pakraštyje dažnai šviesesnis, apaugęs šviesiais plaušeliais ir prinokęs paprastai smulkiai raukšlėtas ar vagotas. Jaunos kepurėlės turi balkšvą, kartais silpnai violetinį, šerkšną blizgesį — tą „šerkšną“, nuo kurio kilo vokiškas vardas Reifpilz ir slovakų pavučinovec inovaťový.",
+      "hymenium": "Lakšteliai tankūs ir priaugę. Iš pradžių jie būna blankiai molio spalvos, vėliau vidutiniškai rudi ar cinamono spalvos, kai bręsta rusvai rudos sporos, kartais nelygiai. Jaunus vaisiakūnius dengia plėvinis dalinis apdangalas.",
+      "stipe": "Kotas 5–15 cm ilgio ir 1–2,5 cm storio (daugelis Europos žinynų nurodo apie 6–12 × 1–2 cm). Jis cilindriškas, prie pamato šiek tiek pastorėjęs, balkšvas ar blankiai ochros ir išilgai smulkiai plaušuotas. Virš vidurio sėdi išliekantis, balkšvas, plėvinis žiedas — svarbiausias lauko požymis, skiriantis šią rūšį beveik nuo visų kitų Cortinarius, turinčių tik voratinklinį apdangalą (cortiną). Žiedas iš pradžių prijungtas prie kepurėlės krašto.",
+      "flesh": "Mėsa kreminė ar balkšva ir perpjauta neskiria spalvos. Kvapas nėra būdingas, skonis švelnus; žalia mėsa gali būti silpnai karti, bet išvirta yra maloni ir riešutinė. Nežinomų nuosėdžių ragauti nederėtų.",
+      "sporePrint": "Sporų milteliai rusvai rudi ar ochros rudi. Sporos migdolo formos ir karpotos, apie 10–15 × 7–10 µm.",
+      "habitat": "Ektomikorizė su spygliuočiais, ypač egle ir pušimi, ir su bukais, dažnai tarp erikinių augalų, tokių kaip mėlynė, viržis ir erikės, rūgščiose dirvose nuo lygumų iki kalnų. Vaisiakūniai pasirodo nuo liepos iki lapkričio (Vidurio Europoje paprastai liepa–spalis; Britanijoje rugpjūtis–lapkritis). Paplitęs Skandinavijoje ir kalnuotoje Europoje, o didžiojoje Britanijos ir Airijos dalyje retas.",
+      "uses": "Šalyse, kur jis dažnas, raukšlėtasis nuosėdis yra vertinamas valgomas grybas; Suomijoje jis parduodamas ir komerciškai, o Čekijoje įtrauktas į turgaus grybų sąrašą, su švelniu riešutiniu skoniu išvirus. Kartais maišomas su stipresnio skonio miško grybais ir gerai džiūsta. Jį reikia kruopščiai išvirti, o kieti kotai dažnai pašalinami. Nustatymas turi būti tikras, nes Cortinarius gentis apima mirtinai nuodingas rūšis, o jaunus vaisiakūnius galima supainioti su nuodingomis plaušabudėmis, pavyzdžiui, Inosperma erubescens. Rūšis taip pat kaupia cesį-137 (ir gali įsisavinti kadmį bei gyvsidabrį); po Černobylio kai kurie Europos mėginiai viršijo maisto normas, todėl paveiktose vietose jo reikėtų valgyti saikingai arba visai nevalgyti. Pasaulyje jis Least Concern (IUCN, 2018) ir naudojamas maistui, bet Britanijoje retas.",
+      "confusion": "Išliekantis plėvinis žiedas, iš pradžių šerkšna, vėliau raukšlėta ochros kepurėlė ir šviesus kotas skiria jį beveik nuo visų kitų nuosėdžių, turinčių tik voratinklinę cortiną. Mirtinai nuodingos rūšys, tokios kaip Cortinarius rubellus ir C. orellanus, šio žiedo neturi, o jų kepurėlės vienodesnės rūdžių ar oranžinės rudos, be šerkšno blizgesio. Jaunus vaisiakūnius galima supainioti su mirtinai nuodinga Inosperma erubescens, kuri prispausta raudonuoja ir neturi tokio plėvinio žiedo. Phaeolepiota aurea yra grūdėta, miltuota ir aukso geltona. Kiti šviesiomis kepurėlėmis, žieduoti grybai, įskaitant kai kurias pievagrybes (Agaricus), turi kitokias lakštelių spalvas ir sporų miltelius. Jei žiedas dingęs, valgyti nederėtų.",
+      "notes": "Daug metų rūšis buvo žinoma kaip Rozites caperatus, gentyje, sukurtoje būtent šiam neįprastam žieduotam nuosėdžiui. Peintner ir kolegų 2002 m. DNR darbas parodė, kad Rozites priklauso Cortinarius genčiai, ir sugrįžo vardas, kurį Elias Fries jau 1838 m. suteikė. Epitetas caperatus reiškia raukšlėtą. Oficialus anglų kalbos vardas Jungtinėje Karalystėje ir IUCN Raudonojoje knygoje yra The Gypsy; kiti dokumentuoti angliški vardai yra Gypsy Mushroom, Wrinkled Cortinarius ir Wrinkled Rozites. Saugomi sinonimai seka tik Species Fungorum sinonimiją.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "Raukšlėtasis nuosėdis"
+    },
+    "lv": {
+      "description": "Cirtainā čigānene ir gaļīga, ektomikorizāls zirnekļtīklu dzimtas (Cortinariaceae) sēne, ģintī Cortinarius neparasta ar pastāvīgu, plēvainu gredzenu — pazīmi, kas to ilgi turēja ģintī Rozites. Tā aug uz zemes skuju un jauktos mežos, bieži sūnās un starp mellenēm skābās augsnēs, no vēlas vasaras līdz rudenim. Okera līdz dzeltenokera cepurīte jaunībā ir apsarmojusi un, izpletusies, kļūst radiāli krokaina. Suga ir izplatīta ziemeļu un kalnainajā Eiropā, mērenajā Āzijā un Ziemeļamerikas ziemeļos un ir pazīstama ēdama sēne, taču to jānosaka droši; tā var uzkrāt radiocēziju.",
+      "cap": "Cepurīte ir 5–14 cm diametrā (noteicēji norāda diapazonus no aptuveni 4–10 cm līdz 7–14 cm). Sākumā tā ir izliekta, vēlāk saplok ar platu pauguru. Sausā virsma ir dzeltenokera līdz brūniokera, malā bieži gaišāka, klāta ar blāviem šķiedriņām un pieaugusi parasti smalki krokaina vai rievota. Jaunām cepurītēm ir bālgani, dažkārt vāji lillīgi, apsarmojis spīdums — tas „sarmojums”, no kura cēlies vācu nosaukums Reifpilz un slovāku pavučinovec inovaťový.",
+      "hymenium": "Lapiņas ir blīvas un pieaugušas. Sākumā tās ir blāvi māla krāsā, vēlāk vidēji brūnas līdz kanēļbrūnas, kad nogatavojas rūsaini brūnās sporas, dažkārt nevienmērīgi. Jaunus augļķermeņus sedz plēvains daļējs plīvurs.",
+      "stipe": "Kātiņš ir 5–15 cm garš un 1–2,5 cm resns (daudzi Eiropas noteicēji norāda aptuveni 6–12 × 1–2 cm). Tas ir cilindrisks, pie pamatnes nedaudz resnāks, bālgani līdz blāvi okera un gareniski smalki šķiedrains. Virs vidusdaļas sēž pastāvīgs, bālgani, plēvains gredzens — galvenā lauka pazīme, kas šo sugu atšķir gandrīz no visām pārējām Cortinarius sugām, kurām ir tikai tīklveida plīvurs (cortina). Gredzens sākumā ir piestiprināts pie cepurītes malas.",
+      "flesh": "Mīkstums ir krēmkrāsas līdz bālganam un pēc pārgriešanas nemaina krāsu. Smarža nav raksturīga, garša ir maiga; jēls mīkstums var būt viegli rūgtens, bet pēc vārīšanas tas ir patīkams un riekstains. Nezināmas zirnekļtīklu sēnes nevajadzētu nogaršot.",
+      "sporePrint": "Sporu pulveris ir rūsaini brūns līdz okerbrūnam. Sporas ir mandeļveida un kārpainas, aptuveni 10–15 × 7–10 µm.",
+      "habitat": "Ektomikoriza ar skuju kokiem, īpaši egli un priedi, un ar dižskābaržu, bieži starp ēriku dzimtas augiem, piemēram, mellenu, virsi un ērikām, skābās augsnēs no līdzenumiem līdz kalniem. Augļķermeņi parādās no jūlija līdz novembrim (Centrāleiropā parasti jūlijs–oktobris; Lielbritānijā augusts–novembris). Izplatīta Skandināvijā un kalnainajā Eiropā, bet lielākajā daļā Lielbritānijas un Īrijas reta.",
+      "uses": "Valstīs, kur tā ir parasta, cirtainā čigānene ir augstu vērtēta ēdama sēne; Somijā to pārdod arī komerciāli, un Čehijā tā ir iekļauta tirgus sēņu sarakstā, ar maigu riekstu garšu pēc vārīšanas. Reizēm to sajauc ar stiprākas garšas meža sēnēm, un tā labi žūst. Tā rūpīgi jāvāra, un stingrie kātiņi bieži tiek noņemti. Noteikšanai jābūt drošai, jo ģintī Cortinarius ir nāvējoši indīgas sugas, un jaunus augļķermeņus var sajaukt ar indīgām šķiedrsēnēm, piemēram, Inosperma erubescens. Suga arī uzkrāj cēziju-137 (un var uzņemt kadmiju un dzīvsudrabu); pēc Černobiļas daži Eiropas paraugi pārsniedza pārtikas normas, tādēļ skartajos apgabalos to vajadzētu ēst taupīgi vai nemaz. Globāli tā ir Least Concern (IUCN, 2018) un tiek lietota uzturā, bet Lielbritānijā ir reta.",
+      "confusion": "Pastāvīgais plēvainais gredzens, sākumā apsarmojusī un vēlāk krokainā okera cepurīte un blāvais kātiņš to atšķir gandrīz no visām pārējām zirnekļtīklu sēnēm, kurām ir tikai tīklveida cortina. Nāvējoši indīgām sugām, piemēram, Cortinarius rubellus un C. orellanus, šī gredzena nav, un to cepurītes ir vienmērīgāk rūsaini vai oranžbrūnas, bez sarmojuma spīduma. Jaunus augļķermeņus var sajaukt ar nāvējoši indīgo Inosperma erubescens, kas saspiežot sārtojas un kurai nav šāda plēvaina gredzena. Phaeolepiota aurea ir graudaina, miltaina un zeltaini dzeltena. Citas bālu cepurīšu, gredzenotas sēnes, tostarp dažas atmatenes (Agaricus), ir citu lapiņu krāsu un sporu pulveri. Ja gredzens ir zudis, to nevajadzētu ēst.",
+      "notes": "Daudzus gadus suga bija pazīstama kā Rozites caperatus, ģintī, kas radīta tieši šai neparastajai gredzenotajai zirnekļtīklu sēnei. Peintneres un kolēģu 2002. gada DNS darbs parādīja, ka Rozites ietilpst ģintī Cortinarius, un atgriezās vārds, ko Eliass Frīss tai jau 1838. gadā deva. Epitets caperatus nozīmē krokainu. Oficiālais angļu nosaukums Apvienotajā Karalistē un IUCN Sarkanajā sarakstā ir The Gypsy; citi dokumentēti angļu nosaukumi ir Gypsy Mushroom, Wrinkled Cortinarius un Wrinkled Rozites. Saglabātie sinonīmi seko tikai Species Fungorum sinonīmijai.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "Cirtainā čigānene"
+    },
+    "nl": {
+      "description": "De meelkop is een vlezige, ectomycorrhizavormende gordijnzwam uit de Cortinariaceae, in het geslacht Cortinarius uitzonderlijk omdat hij een blijvende, vliezige ring heeft — het kenmerk dat hem lange tijd in het geslacht Rozites hield. Hij groeit op de grond in naald- en gemengde bossen, vaak tussen mos en bosbes op zure bodem, van de late zomer tot in de herfst. De oker- tot geelbuffkleurige hoed is jong berijpt en wordt bij het uitspreiden radiaal gerimpeld. De soort is wijdverbreid in Noord- en bergachtig Europa, in gematigd Azië en in het noorden van Noord-Amerika, en is een bekende eetbare paddenstoel, maar moet zorgvuldig worden gedetermineerd en kan radiocesium ophopen.",
+      "cap": "De hoed is 5–14 cm breed (veldgidsen geven bereiken van ongeveer 4–10 cm tot 7–14 cm). Eerst is hij gewelfd, later spreidt hij zich uit met een brede umbo. Het droge oppervlak is geelachtig oker tot bruinachtig oker, aan de rand vaak bleker, bedekt met bleke vezels, en typisch fijn gerimpeld of gegroefd bij volwassen exemplaren. Jonge hoeden hebben een witachtige, soms zwak lila, berijpte glans — de „rijp” die de Duitse naam Reifpilz en de Slowaakse naam pavučinovec inovaťový verklaart.",
+      "hymenium": "De lamellen staan dicht opeen en zijn aangehecht. Ze zijn eerst bleek leemkleurig en worden middenbruin tot kaneelkleurig naarmate de roestbruine sporen rijpen, soms ongelijkmatig. Bij jonge exemplaren zijn ze bedekt door een vliezig partieel velum.",
+      "stipe": "De steel is 5–15 cm lang en 1–2,5 cm dik (veel Europese gidsen geven ongeveer 6–12 × 1–2 cm). Hij is cilindrisch, iets gezwollen aan de voet, witachtig tot bleek oker, en in de lengte fijn vezelig. Boven het midden zit een blijvende, witachtige, vliezige ring — het beslissende veldkenmerk dat deze soort van bijna alle andere Cortinarius-soorten scheidt, die alleen een spinnenwebachtige cortina hebben. De ring is aanvankelijk met de hoedrand verbonden.",
+      "flesh": "Het vlees is roomkleurig tot witachtig en verkleurt niet bij doorsnijden. De geur is niet opvallend en de smaak is mild; rauw vlees kan licht bitter zijn, maar het is aangenaam en nootachtig na het koken. Onbekende gordijnzwammen moet men niet proeven.",
+      "sporePrint": "De sporenafdruk is roestbruin tot okerbruin. De sporen zijn amandelvormig en wrattig, ongeveer 10–15 × 7–10 µm.",
+      "habitat": "Ectomycorrhizavormend met naaldbomen, vooral spar en den, en met beuk, vaak tussen ericaceeën zoals bosbes, heide en dopheide, op zure bodems van het laagland tot in de bergen. Vruchtlichamen verschijnen van juli tot november (in Midden-Europa typisch juli–oktober; in Groot-Brittannië augustus–november). Wijdverbreid in Scandinavië en bergachtig Europa, en onregelmatig tot zeldzaam in het grootste deel van Groot-Brittannië en Ierland.",
+      "uses": "In landen waar hij algemeen is, geldt de meelkop als een gewaardeerde eetbare paddenstoel; in Finland wordt hij ook commercieel verkocht en in Tsjechië staat hij als marktpaddenstoel te boek, met een milde nootachtige smaak na het koken. Hij wordt soms gemengd met sterker smakende bossoorten en droogt goed. Hij moet grondig worden gekookt, en de taaie stelen worden vaak verwijderd. De determinatie moet zeker zijn, omdat Cortinarius dodelijk giftige soorten omvat, en jonge vruchtlichamen kunnen worden verward met giftige vezelkoppen zoals Inosperma erubescens. De soort bioaccumuleert ook cesium-137 (en kan cadmium en kwik opnemen); na Tsjernobyl overschreden sommige Europese monsters de voedselnormen, zodat hij in getroffen gebieden spaarzaam of helemaal niet gegeten moet worden. Wereldwijd is hij Least Concern (IUCN, 2018) en wordt hij als voedsel gebruikt, maar in Groot-Brittannië is hij zeldzaam.",
+      "confusion": "De blijvende vliezige ring, de eerst berijpte en later gerimpelde okerhoed en de bleke steel scheiden hem van bijna alle andere gordijnzwammen, die alleen een spinnenwebachtige cortina hebben. Dodelijke soorten zoals Cortinarius rubellus en C. orellanus missen deze ring en hebben gelijkmatiger roest- of oranjebruine hoeden zonder berijpte glans. Jonge vruchtlichamen kunnen worden verward met de dodelijke Inosperma erubescens, die rood verkleurt bij kneuzing en geen vliezige ring van dit type heeft. Phaeolepiota aurea is korrelig-meelachtig en goudgeel. Andere bleekhoedige, geringde paddenstoelen, waaronder sommige Agaricus, hebben andere lamelkleuren en een andere sporenafdruk. Als de ring ontbreekt, moet men hem niet eten.",
+      "notes": "Jarenlang stond de soort bekend als Rozites caperatus, in een geslacht dat juist voor deze ongewoon geringde gordijnzwam was gemaakt. DNA-onderzoek van Peintner en collega’s in 2002 toonde aan dat Rozites binnen Cortinarius valt, waarmee de naam terugkeerde die Elias Fries al in 1838 had gegeven. Het epitheton caperatus betekent gerimpeld. De officiële Engelse naam in het Verenigd Koninkrijk en op de IUCN-Rode Lijst is The Gypsy; andere gedocumenteerde Engelse namen zijn Gypsy Mushroom, Wrinkled Cortinarius en Wrinkled Rozites. Opgeslagen synoniemen volgen uitsluitend de synonymie van Species Fungorum.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://www.nederlandsesoorten.nl/"
+      ],
+      "label": "meelkop"
+    },
+    "no": {
+      "description": "Rimsopp er en kjøttfull, ektomykorrhizadannende slørsopp i familien Cortinariaceae, uvanlig i slekten Cortinarius fordi den har en vedvarende, hinneaktig ring — trekket som lenge holdt den i slekten Rozites. Den vokser på bakken i bar- og blandingsskog, ofte blant mose og blåbær på sur jord, fra seinsommeren inn i høsten. Den oker- til gulfargede hatten er i ungdommen rimet og blir radiært rynket når den brer seg ut. Arten er utbredt i nordlig og fjellpreget Europa, i det tempererte Asia og i det nordlige Nord-Amerika, og er en kjent matsopp, men må bestemmes med sikkerhet og kan akkumulere radiocesium.",
+      "cap": "Hatten er 5–14 cm i diameter (bestemmelsesverk oppgir spenn fra omkring 4–10 cm til 7–14 cm). Først er den hvelvet, senere flater den ut med en bred pukkel. Den tørre overflaten er gulfarget oker til brunlig oker, ofte blekere ved randen, dekket av bleke fibre og typisk fint rynket eller furet hos utvokste eksemplarer. Unge hatter har et hvitaktig, av og til svakt lilla, rimaktig skjær — den «rimen» som ligger til grunn for det tyske navnet Reifpilz og det slovakiske pavučinovec inovaťový.",
+      "hymenium": "Skivene er tette og tilheftede. De er først blekt leirfarget og blir mellombrune til kanelbrune når de rustbrune sporene modnes, av og til ujevnt. Hos unge individer er de dekket av et hinneaktig slør.",
+      "stipe": "Stokken er 5–15 cm lang og 1–2,5 cm tykk (mange europeiske verk oppgir omkring 6–12 × 1–2 cm). Den er sylindrisk, litt oppsvulmet ved basis, hvitaktig til blekt oker og fint langsgående fiberrik. Over midten sitter en vedvarende, hvitaktig, hinneaktig ring — det avgjørende feltkjennetegnet som skiller arten fra nesten alle andre Cortinarius-arter, som bare har et spindelvevaktig slør (cortina). Ringen er først festet til hattranden.",
+      "flesh": "Kjøttet er kremfarget til hvitaktig og skifter ikke farge ved gjennomskjæring. Lukten er ikke karakteristisk, og smaken er mild; rått kjøtt kan være svakt bittert, men det er behagelig og nøtteaktig etter koking. Ukjente slørsopper bør ikke smakes.",
+      "sporePrint": "Sporeavtrykket er rustbrunt til okerbrunt. Sporene er mandelformede og vortebelagte, omtrent 10–15 × 7–10 µm.",
+      "habitat": "Ektomykorrhiza med bartrær, særlig gran og furu, og med bøk, ofte blant lyngplanter som blåbær, røsslyng og klokkelyng, på sur jord fra lavland til fjell. Fruktlegemer vises fra juli til november (i Sentral-Europa typisk juli–oktober; i Storbritannia august–november). Vidt utbredt i Skandinavia og det fjellpregede Europa, og spredt til sjelden i det meste av Storbritannia og Irland.",
+      "uses": "I land der den er vanlig, er rimsopp en verdsatt matsopp; i Finland selges den også kommersielt, og i Tsjekkia står den som markedssopp, med en mild nøtteaktig smak etter koking. Den blandes av og til med kraftigere skogsopper og tørker godt. Den må kokes grundig, og de seige stokkene fjernes ofte. Bestemmelsen må være sikker, fordi Cortinarius rommer dødelig giftige arter, og unge fruktlegemer kan forveksles med giftige trevlesopper som Inosperma erubescens. Arten akkumulerer også cesium-137 (og kan ta opp kadmium og kvikksølv); etter Tsjernobyl overskred noen europeiske prøver matvaregrensene, så den i rammede områder bare bør spises sparsomt eller ikke i det hele tatt. Globalt er den Least Concern (IUCN, 2018) og brukes som mat, men i Storbritannia er den sjelden.",
+      "confusion": "Den vedvarende hinneaktige ringen, den først rimete og senere rynkete okerhatten og den bleke stokken skiller den fra nesten alle andre slørsopper, som bare har et spindelvevaktig slør. Dødelig giftige arter som Cortinarius rubellus og C. orellanus mangler denne ringen og har jevnere rust- eller oransjebrune hatter uten rimglans. Unge fruktlegemer kan forveksles med den dødelig giftige Inosperma erubescens, som rødner ved trykk og ikke har en hinneaktig ring av denne typen. Phaeolepiota aurea er kornet-melet og gyllengul. Andre blekhattede, ringete sopper, blant dem enkelte sjampinjonger (Agaricus), har andre skivefarger og et annet sporeavtrykk. Hvis ringen er tapt, bør den ikke spises.",
+      "notes": "I mange år var arten kjent som Rozites caperatus, i en slekt skapt nettopp for denne uvanlige ringete slørsoppen. DNA-arbeid av Peintner og kolleger i 2002 viste at Rozites hører hjemme i Cortinarius, og navnet Elias Fries allerede ga den i 1838 kom tilbake. Epitetet caperatus betyr rynket. Det offisielle engelske navnet i Storbritannia og på IUCNs rødliste er The Gypsy; andre dokumenterte engelske navn er Gypsy Mushroom, Wrinkled Cortinarius og Wrinkled Rozites. Lagrede synonymer følger bare Species Fungorums synonymikk.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "rimsopp"
+    },
+    "pl": {
+      "description": "Płachetka zwyczajna to mięsisty, ektomykoryzowy grzyb z rodziny zasłonakowatych (Cortinariaceae), w rodzaju Cortinarius niezwykły dlatego, że ma trwały, błoniasty pierścień — cechę, która długo utrzymywała go w rodzaju Rozites. Rośnie na ziemi w lasach iglastych i mieszanych, często wśród mchów i borówek na kwaśnych glebach, od późnego lata do jesieni. Ochrowy do żółtoochrowego kapelusz jest w młodości oszroniony i przy rozpostarciu staje się promieniście pomarszczony. Gatunek jest szeroko rozprzestrzeniony w północnej i górskiej Europie, w umiarkowanej Azji i na północy Ameryki Północnej i należy do znanych grzybów jadalnych, ale trzeba go pewnie oznaczyć; potrafi gromadzić radiocez.",
+      "cap": "Kapelusz ma 5–14 cm średnicy (atlasy podają zakresy od około 4–10 cm do 7–14 cm). Najpierw jest wypukły, później spłaszcza się z szerokim garbkiem. Sucha powierzchnia jest żółtoochrowa do brązowoochrowej, przy brzegu często jaśniejsza, pokryta bladymi włókienkami i typowo drobno pomarszczona lub bruzdowana u dojrzałych owocników. Młode kapelusze mają białawy, czasem słabo liliowy, oszroniony połysk — „szron”, od którego pochodzi niemiecka nazwa Reifpilz i słowacka pavučinovec inovaťový.",
+      "hymenium": "Blaszki są gęste i przyrośnięte. Początkowo są blado gliniaste, później średniobrązowe do cynamonowych, gdy dojrzewają rdzawobrązowe zarodniki, czasem nierównomiernie. W młodości okrywa je błoniasta osłona częściowa.",
+      "stipe": "Trzon ma 5–15 cm długości i 1–2,5 cm grubości (wiele europejskich atlasów podaje około 6–12 × 1–2 cm). Jest walcowaty, u nasady lekko zgrubiały, białawy do bladoochrowego i podłużnie drobno włóknisty. Powyżej środka siedzi trwały, białawy, błoniasty pierścień — kluczowa cecha polowa, która odróżnia ten gatunek niemal od wszystkich innych zasłonaków, mających tylko pajęczynowatą osłonę (cortinę). Pierścień jest z początku przyrośnięty do brzegu kapelusza.",
+      "flesh": "Miąższ jest kremowy do białawego i po przekrojeniu nie zmienia barwy. Zapach jest niewyraźny, smak łagodny; surowy miąższ może być lekko gorzkawy, po ugotowaniu jest przyjemny i orzechowy. Nieznanych zasłonaków nie należy próbować.",
+      "sporePrint": "Wysyp zarodników jest rdzawobrązowy do ochrowobrązowego. Zarodniki są migdałowate i brodawkowane, około 10–15 × 7–10 µm.",
+      "habitat": "Ektomykoryza z drzewami iglastymi, zwłaszcza świerkiem i sosną, oraz z bukiem, często wśród roślin wrzosowatych, takich jak borówka, wrzos i wrzośce, na kwaśnych glebach od nizin po góry. Owocniki pojawiają się od lipca do listopada (w Europie Środkowej typowo lipiec–październik; w Wielkiej Brytanii sierpień–listopad). Gatunek jest pospolity w Skandynawii i w górskiej Europie, a w większości Wielkiej Brytanii i Irlandii rzadki.",
+      "uses": "W krajach, w których jest pospolita, płachetka zwyczajna jest wysoko cenionym grzybem jadalnym; w Finlandii sprzedaje się ją także handlowo, a w Czechach figuruje wśród grzybów targowych, o łagodnym orzechowym smaku po ugotowaniu. Czasem miesza się ją z silniej pachnącymi grzybami leśnymi i dobrze się suszy. Trzeba ją dokładnie ugotować, a twarde trzony często się usuwa. Oznaczenie musi być pewne, bo rodzaj Cortinarius obejmuje gatunki śmiertelnie trujące, a młode owocniki można pomylić z trującymi strzępiakami, na przykład z Inosperma erubescens. Gatunek gromadzi też cez-137 (i może pobierać kadm i rtęć); po Czarnobylu niektóre europejskie próbki przekroczyły normy żywnościowe, dlatego na obszarach skażonych należy go jeść oszczędnie albo wcale. Globalnie ma status Least Concern (IUCN, 2018) i jest używany jako grzyb jadalny, w Wielkiej Brytanii jest jednak rzadki.",
+      "confusion": "Trwały błoniasty pierścień, oszroniony, a później pomarszczony ochrowy kapelusz i blady trzon odróżniają go niemal od wszystkich innych zasłonaków, które mają tylko pajęczynowatą cortinę. Śmiertelnie trujące gatunki, takie jak Cortinarius rubellus i C. orellanus, nie mają tego pierścienia, a ich kapelusze są bardziej równomiernie rdzawo- lub pomarańczowobrązowe, bez oszronionego połysku. Młode owocniki można pomylić ze śmiertelnie trującym Inosperma erubescens, który sinieje na czerwono i nie ma takiego błoniastego pierścienia. Phaeolepiota aurea jest ziarnisto-mączysta i złotożółta. Inne blado kapeluszowe, pierścieniowane grzyby, w tym niektóre pieczarki (Agaricus), mają inne barwy blaszek i inny wysyp zarodników. Jeśli pierścień zaginął, nie należy go jeść.",
+      "notes": "Przez wiele lat gatunek był znany jako Rozites caperatus, w rodzaju utworzonym właśnie dla tego niezwykłego zasłonaka z pierścieniem. Badania DNA Peintner i współpracowników z 2002 roku pokazały, że Rozites należy do rodzaju Cortinarius, przywracając nazwę, którą Elias Fries nadał mu już w 1838 roku. Epitet caperatus oznacza pomarszczony. Oficjalna angielska nazwa w Zjednoczonym Królestwie i na Czerwonej Liście IUCN to The Gypsy; inne potwierdzone nazwy angielskie to Gypsy Mushroom, Wrinkled Cortinarius i Wrinkled Rozites. Przechowywane synonimy odpowiadają wyłącznie synonimice Species Fungorum.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://www.grzyby.pl/gatunki/Rozites_caperatus.htm"
+      ],
+      "label": "płachetka zwyczajna"
+    },
+    "pt": {
+      "description": "Cortinarius caperatus é um fungo carnudo, ectomicorrízico, da família Cortinariaceae, invulgar no género Cortinarius pelo anel membranoso persistente, o carácter que o manteve durante muito tempo no género Rozites. Cresce no solo de bosques de coníferas e mistos, muitas vezes entre musgos e mirtilos em solos ácidos, do fim do verão ao outono. O chapéu ocre a amarelo-camurça é pruinoso quando jovem e torna-se radialmente enrugado ao expandir-se. A espécie é ampla no norte e na Europa montanhosa, na Ásia temperada e no norte da América do Norte, e é um comestível conhecido, mas deve ser identificada com certeza e pode acumular radiocésio.",
+      "cap": "O chapéu mede 5–14 cm de diâmetro (os guias dão intervalos de cerca de 4–10 cm até 7–14 cm). Primeiro é convexo e depois achata-se com um umbo largo. A superfície seca é ocre-amarelado a ocre-acastanhado, muitas vezes mais pálida na margem, coberta de fibras pálidas e tipicamente finamente enrugada ou sulcada na maturidade. Os chapéus jovens têm um brilho esbranquiçado, por vezes levemente lilás, como de geada, o «orvalho» que dá o nome alemão Reifpilz e o eslovaco pavučinovec inovaťový.",
+      "hymenium": "As lâminas são apertadas e anexas. Começam com uma cor argilosa pálida e passam a castanho-médio ou canela à medida que os esporos castanho-ferrugem amadurecem, por vezes de forma irregular. Nos exemplares jovens estão cobertas por um véu parcial membranoso.",
+      "stipe": "O pé mede 5–15 cm de comprimento e 1–2,5 cm de espessura (muitos guias europeus indicam cerca de 6–12 × 1–2 cm). É cilíndrico, um pouco inchado na base, esbranquiçado a ocre pálido e finamente fibroso no sentido do comprimento. Acima do meio há um anel membranoso, esbranquiçado e persistente, o carácter de campo decisivo que o separa de quase todos os outros Cortinarius, que têm apenas uma cortina aracnoide. O anel está a princípio ligado à margem do chapéu.",
+      "flesh": "A carne é cor de creme ou esbranquiçada e não muda de cor ao corte. O cheiro não é distintivo e o sabor é suave; crua pode ser ligeiramente amarga, mas cozida é agradável e a noz. Não se devem provar cortinários desconhecidos.",
+      "sporePrint": "A esporada é castanho-ferrugem a castanho-ocre. Os esporos são amigdaliformes e verrucosos, com cerca de 10–15 × 7–10 µm.",
+      "habitat": "Ectomicorrízico de coníferas, especialmente abeto e pinheiro, e de faia, muitas vezes entre ericáceas como mirtilo, urze e ericas, em solos ácidos desde as planícies até à montanha. Os corpos frutíferos aparecem de julho a novembro (tipicamente julho–outubro na Europa Central; agosto–novembro na Grã-Bretanha). É frequente na Escandinávia e na Europa de montanha, e pouco frequente ou rara na maior parte da Grã-Bretanha e da Irlanda.",
+      "uses": "Nos países em que é comum é um comestível muito apreciado; na Finlândia vende-se também comercialmente e na Chéquia figura como cogumelo de mercado, com um sabor suave a noz depois de cozido. Por vezes mistura-se com fungos silvestres de sabor mais intenso e seca bem. Deve ser bem cozido, e os pés duros são muitas vezes descartados. A identificação tem de ser certa, porque Cortinarius inclui espécies mortais e os corpos jovens podem confundir-se com inóciobes tóxicos como Inosperma erubescens. A espécie também bioacumula césio-137 (e pode absorver cádmio e mercúrio); após Chernobyl, algumas amostras europeias ultrapassaram os limites alimentares, pelo que nas zonas afetadas deve comer-se com parcimónia ou não se comer. Está globalmente em Least Concern (UICN, 2018) e usa-se como alimento, mas é rara na Grã-Bretanha.",
+      "confusion": "O anel membranoso persistente, o chapéu ocre primeiro pruinoso e depois enrugado, e o pé pálido separam-no de quase todos os outros cortinários, que têm apenas uma cortina aracnoide. Espécies mortais como Cortinarius rubellus e C. orellanus não têm este anel e têm chapéus mais uniformemente ferrugem ou castanho-alaranjado, sem brilho pruinoso. Os corpos jovens podem confundir-se com o mortal Inosperma erubescens, que enrubesce ao toque e não tem um anel membranoso deste tipo. Phaeolepiota aurea é granuloso-farináceo e amarelo-dourado. Outros fungos de chapéu pálido e anel, incluindo alguns Agaricus, têm cores de lâmina e esporadas diferentes. Se o anel se perdeu, não deve ser comido.",
+      "notes": "Durante muitos anos a espécie foi conhecida como Rozites caperatus, num género criado precisamente para este cortinário anelado. O trabalho de ADN de Peintner e colegas em 2002 mostrou que Rozites se situa dentro de Cortinarius, recuperando o nome que Elias Fries já lhe tinha dado em 1838. O epíteto caperatus significa enrugado. O nome inglês oficial no Reino Unido e na Lista Vermelha da UICN é The Gypsy; outros nomes ingleses documentados são Gypsy Mushroom, Wrinkled Cortinarius e Wrinkled Rozites. Os sinónimos armazenados seguem apenas a sinonímia de Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Cortinarius caperatus este o ciupercă cărnoasă, ectomycoriziană, din familia Cortinariaceae, neobișnuită în genul Cortinarius prin inelul membranos persistent — caracterul care a ținut-o multă vreme în genul Rozites. Crește pe sol în păduri de conifere și mixte, adesea printre mușchi și afin pe soluri acide, de la sfârșitul verii până toamna. Pălăria ocru până la galben-cămilă este pruinoasă când e tânără și devine radial încrețită pe măsură ce se lărgește. Specia este răspândită în nordul și Europa montană, în Asia temperată și în nordul Americii de Nord și este un comestibil cunoscut, dar trebuie identificată cu certitudine și poate acumula radiocesiu.",
+      "cap": "Pălăria are 5–14 cm în diametru (ghidurile dau intervale de la circa 4–10 cm până la 7–14 cm). Mai întâi este convexă, apoi se aplatizează cu un umbo lat. Suprafața uscată este ocru-gălbuie până la ocru-brunie, adesea mai palidă la margine, acoperită de fibre palide și tipic fin încrețită sau brăzdată la maturitate. Pălăriile tinere au un luciu albicios, uneori ușor liliachiu, ca de chiciură — bruma care stă la baza numelui german Reifpilz și a celui slovac pavučinovec inovaťový.",
+      "hymenium": "Lamelele sunt dese și anexate. Încep de culoare argiloasă palidă și devin brun-mijlociu până la scorțișoară pe măsură ce sporii brun-ruginii se coc, uneori neuniform. La exemplarele tinere sunt acoperite de un văl parțial membranos.",
+      "stipe": "Piciorul are 5–15 cm lungime și 1–2,5 cm grosime (multe ghiduri europene indică circa 6–12 × 1–2 cm). Este cilindric, ușor umflat la bază, albicios până la ocru pal, și fin fibros pe lungime. Deasupra mijlocului stă un inel membranos, albicios și persistent — caracterul de teren esențial care o desparte de aproape toți ceilalți Cortinarius, care au doar o cortină de pânză de păianjen. Inelul este la început prins de marginea pălăriei.",
+      "flesh": "Carnea este crem până la albicioasă și nu își schimbă culoarea la tăiere. Mirosul nu este distinctiv, iar gustul este blând; crudă, carnea poate fi ușor amară, dar gătită este plăcută, cu aromă de alună. Cortinarii necunoscuți nu trebuie gustați.",
+      "sporePrint": "Pulberea sporiferă este brun-ruginie până la brun-ocru. Sporii sunt migdaliformi și verucoși, de circa 10–15 × 7–10 µm.",
+      "habitat": "Ectomycoriziană cu conifere, în special molid și pin, și cu fag, adesea printre ericacee precum afinul, iarba-neagră și ericile, pe soluri acide de la șes până la munte. Corpurile de fructificație apar din iulie până în noiembrie (în Europa Centrală, de obicei, iulie–octombrie; în Marea Britanie, august–noiembrie). Este răspândită în Scandinavia și în Europa montană, și rară în cea mai mare parte a Marii Britanii și a Irlandei.",
+      "uses": "În țările unde este comună, este un comestibil foarte prețuit; în Finlanda se vinde și comercial, iar în Cehia figurează ca ciupercă de piață, cu un gust blând de alună după gătire. Uneori se amestecă cu ciuperci de pădure mai aromate și se usucă bine. Trebuie gătită temeinic, iar picioarele tari sunt adesea îndepărtate. Identificarea trebuie să fie sigură, deoarece Cortinarius include specii mortale, iar corpurile tinere pot fi confundate cu inocybe toxice precum Inosperma erubescens. Specia bioacumulează și cesiu-137 (și poate prelua cadmiu și mercur); după Cernobîl, unele probe europene au depășit limitele alimentare, deci în zonele afectate trebuie mâncată cu zgârcenie sau deloc. Este global Least Concern (IUCN, 2018) și folosită ca aliment, dar este rară în Marea Britanie.",
+      "confusion": "Inelul membranos persistent, pălăria ocru mai întâi pruinoasă și apoi încrețită, și piciorul palid o despart de aproape toți ceilalți cortinari, care au doar o cortină de pânză de păianjen. Specii mortale precum Cortinarius rubellus și C. orellanus nu au acest inel și au pălării mai uniform ruginii sau brun-portocalii, fără luciu pruinos. Corpurile tinere pot fi confundate cu Inosperma erubescens, mortală, care se înroșește la atingere și nu are un inel membranos de acest tip. Phaeolepiota aurea este granular-făinoasă și galben-aurie. Alte ciuperci cu pălărie palidă și inel, inclusiv unii Agaricus, au culori de lamele și pulberi sporifere diferite. Dacă inelul a dispărut, nu trebuie mâncată.",
+      "notes": "Mulți ani specia a fost cunoscută ca Rozites caperatus, într-un gen creat tocmai pentru acest cortinar inelat neobișnuit. Lucrarea de ADN a lui Peintner și a colegilor din 2002 a arătat că Rozites se află în interiorul lui Cortinarius, readucând numele pe care Elias Fries i-l dăduse deja în 1838. Epitetul caperatus înseamnă încrețit. Numele englez oficial în Regatul Unit și pe Lista roșie IUCN este The Gypsy; alte nume engleze documentate sunt Gypsy Mushroom, Wrinkled Cortinarius și Wrinkled Rozites. Sinonimele stocate urmează doar sinonimia din Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Колпак кольчатый — мясистый эктомикоризный паутинник семейства Cortinariaceae, необычный в роде Cortinarius тем, что имеет стойкое перепончатое кольцо — признак, из-за которого его долго держали в роде Rozites. Растёт на почве в хвойных и смешанных лесах, часто среди мхов и черники на кислых почвах, с позднего лета до осени. Охристая или желтовато-охристая шляпка в молодости покрыта инеем и при раскрытии становится радиально морщинистой. Вид широко распространён в северной и горной Европе, в умеренной Азии и на севере Северной Америки и известен как съедобный гриб, но его нужно надёжно определять; он способен накапливать радиоцезий.",
+      "cap": "Шляпка 5–14 см в диаметре (определители дают диапазоны примерно от 4–10 до 7–14 см). Сначала она выпуклая, затем расправляется с широким бугорком. Сухая поверхность желтовато-охристая или коричневато-охристая, у края часто бледнее, покрыта бледными волокнами и у зрелых экземпляров обычно мелко морщинистая или бороздчатая. Молодые шляпки имеют беловатый, иногда слабо лиловатый, инеевидный блеск — ту «изморозь», от которой происходят немецкое имя Reifpilz и словацкое pavučinovec inovaťový.",
+      "hymenium": "Пластинки частые и приросшие. Сначала они бледно-глинистые, затем средне-коричневые или коричные, по мере созревания ржаво-коричневых спор, иногда неравномерно. У молодых плодовых тел их закрывает перепончатое частное покрывало.",
+      "stipe": "Ножка 5–15 см длиной и 1–2,5 см толщиной (многие европейские определители указывают около 6–12 × 1–2 см). Она цилиндрическая, у основания слегка утолщённая, беловатая или бледно-охристая и вдоль тонко волокнистая. Выше середины сидит стойкое беловатое перепончатое кольцо — главный полевой признак, отделяющий этот вид почти от всех прочих Cortinarius, у которых есть лишь паутинистая кортина. Кольцо сначала прикреплено к краю шляпки.",
+      "flesh": "Мякоть кремовая или беловатая и при разрезе не меняет цвета. Запах нехарактерный, вкус мягкий; сырая мякоть может быть слегка горьковатой, но после варки она приятная, с ореховым оттенком. Неизвестные паутинники пробовать не следует.",
+      "sporePrint": "Споровый порошок ржаво-коричневый или охристо-коричневый. Споры миндалевидные и бородавчатые, около 10–15 × 7–10 мкм.",
+      "habitat": "Эктомикориза с хвойными, особенно елью и сосной, и с буком, часто среди вересковых растений — черники, вереска и эрик — на кислых почвах от равнин до гор. Плодовые тела появляются с июля по ноябрь (в Центральной Европе обычно июль–октябрь; в Великобритании август–ноябрь). Широко распространён в Скандинавии и горной Европе, а в большей части Великобритании и Ирландии редок.",
+      "uses": "В странах, где он обычен, колпак кольчатый — высоко ценимый съедобный гриб; в Финляндии его продают и в торговле, а в Чехии он входит в список рыночных грибов, с мягким ореховым вкусом после варки. Иногда его смешивают с более ароматными лесными грибами, и он хорошо сушится. Его нужно тщательно варить, а жёсткие ножки часто удаляют. Определение должно быть верным, потому что род Cortinarius включает смертельно ядовитые виды, а молодые плодовые тела можно спутать с ядовитыми волоконницами, например с Inosperma erubescens. Вид также накапливает цезий-137 (и может поглощать кадмий и ртуть); после Чернобыля некоторые европейские образцы превысили пищевые нормы, поэтому в затронутых районах его следует есть умеренно или не есть вовсе. В мире он имеет статус Least Concern (МСОП, 2018) и используется в пищу, но в Великобритании редок.",
+      "confusion": "Стойкое перепончатое кольцо, сначала инеевидная, затем морщинистая охристая шляпка и бледная ножка отделяют его почти от всех прочих паутинников, у которых есть лишь паутинистая кортина. Смертельно ядовитые виды, такие как Cortinarius rubellus и C. orellanus, этого кольца не имеют, а их шляпки более равномерно ржавые или оранжево-коричневые, без инеевидного блеска. Молодые плодовые тела можно спутать со смертельно ядовитой Inosperma erubescens, которая краснеет при повреждении и не имеет такого перепончатого кольца. Phaeolepiota aurea зернисто-мучнистая и золотисто-жёлтая. Другие бледношляпочные кольчатые грибы, в том числе некоторые шампиньоны (Agaricus), имеют иные цвета пластинок и споровый порошок. Если кольцо утрачено, есть его не следует.",
+      "notes": "Многие годы вид был известен как Rozites caperatus, в роде, созданном именно для этого необычного кольчатого паутинника. ДНК-работа Пайнтнер и коллег 2002 года показала, что Rozites входит в род Cortinarius, и вернулось имя, которое Элиас Фриз дал ему ещё в 1838 году. Эпитет caperatus означает морщинистый. Официальное английское имя в Соединённом Королевстве и в Красном списке МСОП — The Gypsy; другие подтверждённые английские имена — Gypsy Mushroom, Wrinkled Cortinarius и Wrinkled Rozites. Сохранённые синонимы следуют только синонимике Species Fungorum.",
+      "names": [
+        "Белый приболотник"
+      ],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "Колпак кольчатый"
+    },
+    "sk": {
+      "description": "Pavučinovec inovaťový je mäsitá, mykorízna huba z čeľade pavučinovcovitých (Cortinariaceae), v rode Cortinarius nezvyčajná tým, že má trvalý blanitý prsteň — znak, pre ktorý ju dlho zaraďovali do samostatného rodu Rozites. Rastie na zemi v ihličnatých a zmiešaných lesoch, často v machu a medzi čučoriedkami na kyslých pôdach, od neskorého leta do jesene. Ochrový až žltookrastý klobúk je v mladosti inovaťový a pri rozvinutí sa lúčovito zvráskavie. Druh je rozšírený v severnej a horskej Európe, v miernej Ázii a na severe Severnej Ameriky a patrí k známym jedlým hubám, treba ho však spoľahlivo určiť; dokáže hromadiť rádiocezium.",
+      "cap": "Klobúk má 5–14 cm v priemere (atlasové rozpätia siahajú od približne 4–10 cm až po 7–14 cm). Najprv je vypuklý, neskôr sa sploští a má široký hrból. Suchý povrch je žltookrastý až hnedookrový, na okraji často bledší, pokrytý bledými vláknami a v dospelosti typicky jemne zvráskavený alebo brázditý. Mladé klobúky majú belavý, niekedy slabo fialkastý inovaťový lesk — „námrazu“, podľa ktorej má huba slovenské meno pavučinovec inovaťový a nemecké Reifpilz.",
+      "hymenium": "Lupene sú husté a pripojené. Najprv sú bledo ílovité, neskôr stredne hnedé až škoricové, ako dozrievajú hrdzavohnedé výtrusy, niekedy nerovnomerne. V mladosti ich zakrýva blanitý čiastočný závoj.",
+      "stipe": "Hlúbik je 5–15 cm dlhý a 1–2,5 cm hrubý (mnohé európske atlasy uvádzajú približne 6–12 × 1–2 cm). Je valcovitý, pri báze slabo zhrubnutý, belavý až bledookrastý a pozdĺžne jemne vláknitý. Nad stredom sedí trvalý, belavý, blanitý prsteň — kľúčový znak, ktorým sa tento druh odlišuje takmer od všetkých ostatných pavučinovcov, ktoré majú iba pavučinovitú cortinu. Prsteň je spočiatku pripojený k okraju klobúka.",
+      "flesh": "Dužina je krémová až belavá a po porezaní nemení farbu. Vôňa nie je výrazná a chuť je jemná; surová dužina môže byť slabo horkastá, po uvarení je však príjemná a oriešková. Neznáme pavučinovce sa neochutnávajú.",
+      "sporePrint": "Výtrusný prach je hrdzavohnedý až okrovohnedý. Výtrusy sú mandľovité a bradavčité, približne 10–15 × 7–10 µm.",
+      "habitat": "Mykorízna huba viazaná na ihličnany, najmä smrek a borovicu, a na buk, často medzi vresoviskovými rastlinami, ako sú čučoriedka, vres a vresovce, na kyslých pôdach od nížin po hory. Plodnice rastú od júla do novembra (v strednej Európe typicky júl–október; v Británii august–november). Je hojný v Škandinávii a v horskej Európe, v väčšine Británie a Írska je zriedkavý až vzácny.",
+      "uses": "V krajinách, kde je hojný, ide o vysoko cenenú jedlú hubu; vo Fínsku sa predáva aj komerčne a v Česku je uvedená medzi trhovými hubami, s jemnou orieškovou chuťou po uvarení. Niekedy sa mieša so silnejšie chutiacimi lesnými hubami a dobre sa suší. Treba ju dôkladne uvariť a tuhé hlúbiky sa často odstraňujú. Určenie musí byť isté, lebo rod Cortinarius zahŕňa smrteľne jedovaté druhy a mladé plodnice možno zameniť s jedovatými vláknicami, napríklad s Inosperma erubescens. Druh tiež hromadí rádiocezium-137 (a môže prijímať kadmium a ortuť); po Černobyle niektoré európske vzorky prekročili potravinové limity, preto sa v postihnutých oblastiach má jesť iba striedmo, alebo vôbec. Celosvetovo je zaradený do kategórie Least Concern (IUCN, 2018) a používa sa ako potrava, v Británii je však vzácny.",
+      "confusion": "Trvalý blanitý prsteň, inovaťový a neskôr zvráskavený okrový klobúk a bledý hlúbik ho odlišujú takmer od všetkých ostatných pavučinovcov, ktoré majú iba pavučinovitú cortinu. Smrteľne jedovaté druhy, ako Cortinarius rubellus a C. orellanus, tento prsteň nemajú a ich klobúky sú rovnomernejšie hrdzavé alebo oranžovohnedé, bez inovaťového lesku. Mladé plodnice možno zameniť so smrteľne jedovatou Inosperma erubescens, ktorá na poranení červenie a takýto blanitý prsteň nemá. Phaeolepiota aurea je zrnitá, múčnatá a zlatisto žltá. Iné bledé, prsteňovité huby, vrátane niektorých pečiarkov (Agaricus), majú iné farby lupení a výtrusného prachu. Ak prsteň chýba, hubu nejedzte.",
+      "notes": "Mnoho rokov bol tento druh známy ako Rozites caperatus, v rode vytvorenom práve pre tohto nezvyčajného pavučinovca s prsteňom. DNA analýzy Peintnerovej a kolegov z roku 2002 ukázali, že Rozites patrí do rodu Cortinarius, čím sa vrátilo meno, ktoré mu Elias Fries dal už v roku 1838. Epiteton caperatus znamená zvráskavený. Oficiálne anglické meno v Spojenom kráľovstve a na Červenom zozname IUCN je The Gypsy; ďalšie doložené anglické mená sú Gypsy Mushroom, Wrinkled Cortinarius a Wrinkled Rozites. Uložené synonymá sa riadia iba synonymikou Species Fungorum.",
+      "names": [
+        "pašupinovka obyčajná"
+      ],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://fotonet.sk/atlas/fungi_huby/cortinarius-caperatus"
+      ],
+      "label": "pavučinovec inovaťový"
+    },
+    "sl": {
+      "description": "Pšenična koprenka je mesnata, ektomikorizna koprenka iz družine Cortinariaceae, v rodu Cortinarius nenavadna zato, ker ima obstojen, kožnat obroček — znak, zaradi katerega so jo dolgo uvrščali v rod Rozites. Raste na tleh v iglastih in mešanih gozdovih, pogosto med mahom in borovnicami na kislih tleh, od poznega poletja do jeseni. Okrov do rumenookrov klobuk je v mladosti inejast in se ob razprtju radialno naguba. Vrsta je razširjena v severni in gorski Evropi, v zmerni Aziji in na severu Severne Amerike in spada med znane užitne gobe, vendar jo je treba zanesljivo določiti; lahko kopiči radiocesium.",
+      "cap": "Klobuk meri 5–14 cm v premeru (določevalni priročniki navajajo razpone od približno 4–10 cm do 7–14 cm). Najprej je izbočen, pozneje se splošči in ima široko grbico. Suha površina je rumenoookrova do rjavookrova, ob robu pogosto bledša, prekrita s svetlimi vlakenci in pri zrelih gobah značilno fino nagubana ali brazdasta. Mladi klobuki imajo belkast, včasih rahlo lila, inejast lesk — »ivje«, po katerem sta nastali nemško ime Reifpilz in slovaško pavučinovec inovaťový.",
+      "hymenium": "Lističi so gosti in prirasli. Najprej so bledo ilovnate barve, pozneje srednje rjavi do cimetasti, ko zorijo rjasto rjave trosnice, včasih neenakomerno. V mladosti jih pokriva kožnat delni ovoj.",
+      "stipe": "Bet je 5–15 cm dolg in 1–2,5 cm debel (številni evropski priročniki navajajo približno 6–12 × 1–2 cm). Je valjast, pri dnu rahlo zadebeljen, belkast do bledo okrov in vzdolžno fino vlaknat. Nad sredino sedi obstojen, belkast, kožnat obroček — ključni terenski znak, ki to vrsto loči skoraj od vseh drugih koprenk, ki imajo le pajčevinast ovoj (cortino). Obroček je sprva pritrjen na rob klobuka.",
+      "flesh": "Meso je kremasto do belkasto in se po prerezu ne obarva. Vonj ni značilen, okus je blag; surovo meso je lahko rahlo grenko, kuhano pa prijetno in oreškasto. Neznanih koprenk ne okušamo.",
+      "sporePrint": "Trosni prah je rjasto rjav do okrovkastorjav. Trosi so mandeljasti in bradavičasti, približno 10–15 × 7–10 µm.",
+      "habitat": "Ektomikorizna z iglavci, zlasti s smreko in borom, ter z bukvijo, pogosto med vresiščnimi rastlinami, kot so borovnica, vresa in erike, na kislih tleh od nižin do gora. Trosnjaki se pojavljajo od julija do novembra (v srednji Evropi tipično julij–oktober; v Britaniji avgust–november). V Skandinaviji in gorski Evropi je razširjena, v večjem delu Britanije in Irske redka.",
+      "uses": "V deželah, kjer je pogosta, velja za cenjeno užitno gobo; na Finskem jo prodajajo tudi tržno, na Češkem je navedena med tržnimi gobami, s prijetnim oreškastim okusom po kuhanju. Včasih jo mešajo z močneje dišečimi gozdnimi gobami in se dobro suši. Temeljito jo je treba skuhati, trde bete pa pogosto odstranijo. Določitev mora biti zanesljiva, saj rod Cortinarius vključuje smrtno strupene vrste, mlade trosnjake pa je mogoče zamenjati s strupenimi razcepljenkami, na primer z Inosperma erubescens. Vrsta kopiči tudi cezij-137 (in lahko sprejema kadmij in živo srebro); po Černobilu so nekateri evropski vzorci presegli prehranske omejitve, zato jo je na prizadetih območjih treba jesti varčno ali sploh ne. Svetovno ima status Least Concern (IUCN, 2018) in se uporablja kot hrana, v Britaniji pa je redka.",
+      "confusion": "Obstojen kožnat obroček, inejast in pozneje naguban okrov klobuk ter bled bet jo ločijo skoraj od vseh drugih koprenk, ki imajo le pajčevinasto cortino. Smrtno strupene vrste, kot sta Cortinarius rubellus in C. orellanus, tega obročka nimajo, njihovi klobuki pa so enakomerneje rjasto ali oranžno rjavi, brez inejastega leska. Mlade trosnjake je mogoče zamenjati s smrtno strupeno Inosperma erubescens, ki se na poškodbi rdeči in nima takega kožnatega obročka. Phaeolepiota aurea je zrnato-mokinasta in zlato rumena. Druge blede, obročkaste gobe, tudi nekatere pečurke (Agaricus), imajo drugačne barve lističev in trosnega prahu. Če obroček manjka, gobe ne jejte.",
+      "notes": "Mnogo let je bila vrsta znana kot Rozites caperatus, v rodu, ustvarjenem prav za to nenavadno obročkasto koprenko. DNK raziskave Peintnerjeve in sodelavcev iz leta 2002 so pokazale, da Rozites spada v rod Cortinarius, s čimer se je vrnilo ime, ki ga je Elias Fries podelil že leta 1838. Epitet caperatus pomeni naguban. Uradno angleško ime v Združenem kraljestvu in na rdečem seznamu IUCN je The Gypsy; druga dokumentirana angleška imena so Gypsy Mushroom, Wrinkled Cortinarius in Wrinkled Rozites. Shranjeni sinonimi sledijo le sinonimiki Species Fungorum.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "pšenična koprenka"
+    },
+    "sr": {
+      "description": "Cortinarius caperatus месната је ектомикоризна копренка из породице Cortinariaceae, у роду Cortinarius необична због постојаног, опнастог прстена — знака због којег је дуго држана у роду Rozites. Расте на тлу у четинарским и мешовитим шумама, често међу маховином и боровницама на киселим земљиштима, од касног лета до јесени. Окер до жућкастоокер клобук у младости је ињем пресвучен и при ширењу постаје радијално наборан. Врста је распрострањена у северној и планинској Европи, у умереној Азији и на северу Северне Америке и позната је јестива печурка, али је треба поуздано одредити; може да накупља радиоцезијум.",
+      "cap": "Клобук има 5–14 cm у пречнику (водичи наводе распоне од око 4–10 cm до 7–14 cm). Најпре је испупчен, затим се спљошти са широким хумком. Сува површина је жућкастоокер до смеђеокер, на рубу често блеђа, прекривена бледим влаканцима и у зрелости типично фино наборана или браздана. Млади клобуци имају беликаст, понекад слабо љубичаст, ињем прекривен сјај — ону ињу по којој су настали немачки назив Reifpilz и словачки pavučinovec inovaťový.",
+      "hymenium": "Листићи су густи и прирасли. Најпре су бледо иловати, затим средњесмеђи до циметасти како сазревају рђавосмеђе споре, понекад неравномерно. Код младих плодоносних тела прекрива их опнасти делимични овој.",
+      "stipe": "Стручак је 5–15 cm дуг и 1–2,5 cm дебео (многи европски водичи наводе око 6–12 × 1–2 cm). Цилиндричан је, при дну мало задебљан, беликаст до бледо окер и уздужно фино влакнаст. Изнад средине седи постојан, беликаст, опнаст прстен — кључно теренско обележје које ову врсту одваја готово од свих других Cortinarius врста, које имају само паучинасту кортину. Прстен је најпре спојен с рубом клобука.",
+      "flesh": "Месо је кремасто до беликасто и при пресеку не мења боју. Мирис није карактеристичан, а укус је благ; сирово месо може бити слабо горко, али кувано је пријатно и орашасто. Непознате копренке не треба пробати.",
+      "sporePrint": "Отисак спора је рђавосмеђ до окерсмеђ. Споре су бадемасте и брадавичасте, око 10–15 × 7–10 µm.",
+      "habitat": "Ектомикориза са четинарима, посебно смрчом и бором, и са буквом, често међу вресовкама као што су боровница, врес и ерике, на киселим земљиштима од низија до планина. Плодоносна тела јављају се од јула до новембра (у средњој Европи типично јул–октобар; у Британији август–новембар). Распрострањена је у Скандинавији и планинској Европи, а у већем делу Британије и Ирске ретка.",
+      "uses": "У земљама у којима је честа, високо је цењена јестива печурка; у Финској се продаје и трговачки, а у Чешкој је на списку пијачних печурака, с благим орашастим укусом после кувања. Понекад се меша са јаче мирисним шумским печуркама и добро се суши. Треба је темељно скувати, а тврди стручци често се уклањају. Одредба мора бити сигурна, јер род Cortinarius укључује смртоносно отровне врсте, а млада плодоносна тела могу се заменити отровним цепачама као што је Inosperma erubescens. Врста такође накупља цезијум-137 (и може да прима кадмијум и живу); после Чернобиља неки европски узорци су премашили прехрамбене границе, па је на погођеним подручјима треба јести штедљиво или је не јести. Глобално је Least Concern (IUCN, 2018) и користи се као храна, али је у Британији ретка.",
+      "confusion": "Постојани опнасти прстен, најпре ињем пресвучен, затим наборан окер клобук и бледи стручак одвајају је готово од свих других копренки, које имају само паучинасту кортину. Смртоносно отровне врсте као што су Cortinarius rubellus и C. orellanus немају овај прстен, а њихови су клобуци равномерније рђави или наранџастосмеђи, без ињеног сјаја. Млада плодоносна тела могу се заменити са смртоносно отровном Inosperma erubescens, која при повреди поцрвени и нема такав опнасти прстен. Phaeolepiota aurea је зрнасто-брашнаста и златножута. Друге бледог клобука, прстенасте печурке, укључујући неке шампињоне (Agaricus), имају другачије боје листића и отисак спора. Ако прстен недостаје, не треба је јести.",
+      "notes": "Много година врста је била позната као Rozites caperatus, у роду створеном управо за ову необичну прстенасту копренку. ДНК рад Пајнтнер и сарадника из 2002. показао је да Rozites припада роду Cortinarius, чиме се вратило име које јој је Елијас Фриз дао већ 1838. Епитет caperatus значи наборан. Званично енглеско име у Уједињеном Краљевству и на IUCN црвеној листи је The Gypsy; друга документована енглеска имена су Gypsy Mushroom, Wrinkled Cortinarius и Wrinkled Rozites. Сачувани синоними следе само синонимику Species Fungorum.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "Rimskivling är en köttig, ektomykorrhizabildande spindling i familjen Cortinariaceae, ovanlig i släktet Cortinarius därför att den har en beständig, hinnaktig ring — det kännetecken som länge höll den i släktet Rozites. Den växer på marken i barr- och blandskog, ofta bland mossa och blåbär på sur jord, från sensommaren in i hösten. Den ockra- till gulfärgade hatten är i ungdomen rimfrostig och blir radiärt rynkad när den vecklar ut sig. Arten är utbredd i norra och bergigt Europa, i tempererade Asien och i norra Nordamerika, och är en känd matsvamp, men måste bestämmas med säkerhet och kan ackumulera radiocesium.",
+      "cap": "Hatten är 5–14 cm i diameter (bestämningsböcker anger spann från omkring 4–10 cm till 7–14 cm). Först är den välvd, senare planas den ut med en bred puckel. Den torra ytan är gulfärgad ockra till brunaktigt ockra, ofta blekare mot kanten, täckt av bleka fibrer och typiskt fint rynkad eller fårad hos utväxta exemplar. Unga hattar har ett vitaktigt, ibland svagt lila, rimfrostigt skimmer — den ”rim” som ligger till grund för det tyska namnet Reifpilz och det slovakiska pavučinovec inovaťový.",
+      "hymenium": "Skivorna är täta och vidfästa. De är först blekt lerfärgade och blir mellanebruna till kanelbruna när de rostbruna sporerna mognar, ibland ojämnt. Hos unga individer täcks de av en hinnaktig slöja.",
+      "stipe": "Foten är 5–15 cm lång och 1–2,5 cm tjock (många europeiska verk anger omkring 6–12 × 1–2 cm). Den är cylindrisk, något svullen vid basen, vitaktig till blekt ockra och fint längdfibrig. Ovanför mittpunkten sitter en beständig, vitaktig, hinnaktig ring — det avgörande fältkännetecknet som skiljer arten från nästan alla andra Cortinarius-arter, som bara har en spindelvävslik cortina. Ringen är först fäst vid hatkanten.",
+      "flesh": "Köttet är gräddfärgat till vitaktigt och ändrar inte färg vid genomskärning. Lukten är inte karakteristisk och smaken är mild; rått kött kan vara svagt bittert, men det är behagligt och nötaktigt efter kokning. Okända spindlingar bör inte smakas.",
+      "sporePrint": "Sporavtrycket är rostbrunt till ockrabrunt. Sporerna är mandelformade och vårtiga, ungefär 10–15 × 7–10 µm.",
+      "habitat": "Ektomykorrhiza med barrträd, särskilt gran och tall, och med bok, ofta bland ljungväxter som blåbär, ljung och klockljung, på sur jord från lågland till fjäll. Fruktkroppar visas från juli till november (i Centraleuropa typiskt juli–oktober; i Storbritannien augusti–november). Vidt utbredd i Skandinavien och det bergiga Europa, och spridd till sällsynt i merparten av Storbritannien och Irland.",
+      "uses": "I länder där den är allmän är rimskivling en uppskattad matsvamp; i Finland säljs den också kommersiellt, och i Tjeckien står den som marknadssvamp, med en mild nötaktig smak efter kokning. Den blandas ibland med kraftigare skogssvampar och torkar bra. Den måste kokas grundligt, och de sega fötterna tas ofta bort. Bestämningen måste vara säker, eftersom Cortinarius rymmer dödligt giftiga arter, och unga fruktkroppar kan förväxlas med giftiga trådingar som Inosperma erubescens. Arten ackumulerar också cesium-137 (och kan ta upp kadmium och kvicksilver); efter Tjernobyl överskred vissa europeiska prover livsmedelsgränserna, så den i drabbade områden bara bör ätas sparsamt eller inte alls. Globalt är den Least Concern (IUCN, 2018) och används som föda, men i Storbritannien är den sällsynt.",
+      "confusion": "Den beständiga hinnaktiga ringen, den först rimfrostiga och senare rynkade ockrahatten och den bleka foten skiljer den från nästan alla andra spindlingar, som bara har en spindelvävslik cortina. Dödligt giftiga arter som Cortinarius rubellus och C. orellanus saknar denna ring och har jämnare rost- eller orangebruna hattar utan rimglans. Unga fruktkroppar kan förväxlas med den dödligt giftiga Inosperma erubescens, som rodnar vid tryck och inte har en hinnaktig ring av denna typ. Phaeolepiota aurea är kornig-mjölaktig och guldgul. Andra blekhatta, ringade svampar, däribland vissa champinjoner (Agaricus), har andra skivfärger och ett annat sporavtryck. Om ringen har gått förlorad bör den inte ätas.",
+      "notes": "I många år var arten känd som Rozites caperatus, i ett släkte skapat just för denna ovanliga ringade spindling. DNA-arbete av Peintner och kollegor 2002 visade att Rozites hör hemma i Cortinarius, och namnet som Elias Fries redan gav den 1838 återvände. Epitetet caperatus betyder rynkad. Det officiella engelska namnet i Storbritannien och på IUCN:s rödlista är The Gypsy; andra belagda engelska namn är Gypsy Mushroom, Wrinkled Cortinarius och Wrinkled Rozites. Lagrade synonymer följer endast Species Fungorums synonymik.",
+      "names": [
+        "rynkad tofsskivling"
+      ],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J",
+        "https://www.dyntaxa.se/"
+      ],
+      "label": "rimskivling"
+    },
+    "tr": {
+      "description": "Cortinarius caperatus, Cortinariaceae familyasından etli, ektomikorizal bir örümcek ağı mantarıdır; kalıcı, zar gibi bir halkası olmasıyla Cortinarius cinsinde alışılmadıktır — bu özellik onu uzun süre Rozites cinsinde tutmuştur. İğne yapraklı ve karışık ormanların toprağında, çoğu zaman asitli topraklardaki yosun ve yaban mersini arasında, yaz sonundan sonbahara kadar yetişir. Hardal sarısından sarımsı bej renge kadar olan şapka gençken kırağılıdır ve açıldıkça ışınsal olarak buruşur. Tür, kuzey ve dağlık Avrupa’da, ılıman Asya’da ve Kuzey Amerika’nın kuzeyinde yaygındır ve bilinen bir yenilebilir mantardır, ancak kesin teşhis edilmeli ve radyosezyum biriktirebilir.",
+      "cap": "Şapka 5–14 cm çapındadır (kılavuzlar yaklaşık 4–10 cm’den 7–14 cm’ye kadar aralıklar verir). Önce kubbemsi, sonra geniş bir tümsekle yassılaşır. Kuru yüzeyi sarımsı hardaldan kahverengimsi hardala kadardır, kenarda çoğu zaman daha soluk, soluk iplikçiklerle kaplıdır ve olgunlukta tipik olarak ince buruşuk veya olukludur. Genç şapkaların beyazımsı, bazen hafif morumsu, kırağılı bir parıltısı vardır — Alman Reifpilz ve Slovak pavučinovec inovaťový adlarının dayandığı kırağı.",
+      "hymenium": "Lameller sık ve yapışıktır. Önce soluk killi renktedir, pas kahverengi sporlar olgunlaştıkça orta kahverengiden tarçına döner, bazen düzensiz biçimde. Genç örneklerde zar gibi bir kısmi örtüyle kaplıdır.",
+      "stipe": "Sap 5–15 cm uzunluğunda ve 1–2,5 cm kalınlığındadır (birçok Avrupa kılavuzu yaklaşık 6–12 × 1–2 cm verir). Silindirik, tabanda biraz şişkin, beyazımsıdan soluk hardala kadardır ve boyuna ince liflidir. Ortanın üstünde kalıcı, beyazımsı, zar gibi bir halka oturur — türü yalnızca örümcek ağı kortinası olan neredeyse tüm diğer Cortinarius türlerinden ayıran temel arazi karakteri. Halka önce şapka kenarına bağlıdır.",
+      "flesh": "Et krem rengi ile beyazımsı arasındadır ve kesildiğinde renk değiştirmez. Koku belirgin değildir, tat yumuşaktır; çiğ et hafif acı olabilir, ancak pişince hoş ve fındıksıdır. Bilinmeyen örümcek ağı mantarları tadılmamalıdır.",
+      "sporePrint": "Spor izi pas kahverengiden hardal kahverengine kadardır. Sporlar badem biçimli ve siğillidir, yaklaşık 10–15 × 7–10 µm.",
+      "habitat": "Özellikle ladin ve çam gibi iğne yapraklılarla ve kayınla ektomikorizaldir; çoğu zaman yaban mersini, funda ve erika gibi fundagiller arasında, asitli topraklarda ovadan dağa kadar yetişir. Meyve gövdeleri Temmuz’dan Kasım’a kadar çıkar (Orta Avrupa’da tipik olarak Temmuz–Ekim; Britanya’da Ağustos–Kasım). İskandinavya ve dağlık Avrupa’da yaygındır, Britanya ve İrlanda’nın büyük kısmında seyrek veya nadirdir.",
+      "uses": "Yaygın olduğu ülkelerde çok değerli bir yenilebilir mantardır; Finlandiya’da ticari olarak da satılır ve Çekya’da pazar mantarı olarak yer alır, pişince yumuşak fındıksı bir tadı vardır. Bazen daha aromatik orman mantarlarıyla karıştırılır ve iyi kurur. İyice pişirilmelidir, sert saplar çoğu zaman çıkarılır. Teşhis kesin olmalıdır, çünkü Cortinarius ölümcül türler içerir ve genç meyve gövdeleri Inosperma erubescens gibi zehirli iplikçi mantarlarla karıştırılabilir. Tür ayrıca sezyum-137 biriktirir (ve kadmiyum ile cıva alabilir); Çernobil’den sonra bazı Avrupa örnekleri gıda sınırlarını aşmıştır, bu yüzden etkilenen bölgelerde az yenmeli veya hiç yenmemelidir. Küresel olarak Least Concern’tir (IUCN, 2018) ve gıda olarak kullanılır, ancak Britanya’da nadirdir.",
+      "confusion": "Kalıcı zar gibi halka, önce kırağılı sonra buruşuk hardal şapka ve soluk sap, onu yalnızca örümcek ağı kortinası olan neredeyse tüm diğer örümcek ağı mantarlarından ayırır. Cortinarius rubellus ve C. orellanus gibi ölümcül türlerin bu halkası yoktur ve şapkaları daha düzgün pas veya turuncu kahverengidir, kırağı parıltısı yoktur. Genç meyve gövdeleri, ezilince kızaran ve bu tür zar gibi halkası olmayan ölümcül Inosperma erubescens ile karıştırılabilir. Phaeolepiota aurea taneli-unlu ve altın sarısıdır. Soluk şapkalı, halkalı diğer mantarlar, bazı Agaricus türleri dahil, farklı lamel renklerine ve spor izine sahiptir. Halka kaybolmuşsa yenmemelidir.",
+      "notes": "Uzun yıllar tür Rozites caperatus olarak, tam da bu alışılmadık halkalı örümcek ağı mantarı için kurulmuş bir cinste tanındı. Peintner ve meslektaşlarının 2002’deki DNA çalışması Rozites’in Cortinarius içinde yer aldığını gösterdi ve Elias Fries’in daha 1838’de verdiği ad geri geldi. caperatus epiteti buruşuk anlamına gelir. Birleşik Krallık’ta ve IUCN Kırmızı Listesi’ndeki resmi İngilizce ad The Gypsy’dir; belgelenmiş diğer İngilizce adlar Gypsy Mushroom, Wrinkled Cortinarius ve Wrinkled Rozites’tir. Saklanan sinonimler yalnızca Species Fungorum sinonimisine uyar.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Ковпак кільчастий — м’ясистий ектомікоризний павутинник родини Cortinariaceae, незвичайний у роді Cortinarius тим, що має стійке плівчасте кільце — ознаку, через яку його довго тримали в роді Rozites. Росте на ґрунті в хвойних і мішаних лісах, часто серед мохів і чорниць на кислих ґрунтах, з пізнього літа до осені. Охриста або жовтаво-охриста шапинка в молодості вкрита памороззю і при розгортанні стає радіально зморшкуватою. Вид поширений у північній і гірській Європі, у помірній Азії та на півночі Північної Америки і відомий як їстівний гриб, але його треба надійно визначати; він може накопичувати радіоцезій.",
+      "cap": "Шапинка 5–14 см у діаметрі (визначники дають діапазони приблизно від 4–10 до 7–14 см). Спочатку вона опукла, потім розправляється з широким горбиком. Суха поверхня жовтаво-охриста або коричнювато-охриста, біля краю часто блідіша, вкрита блідими волокнами і в зрілих екземплярів зазвичай дрібно зморшкувата або борозенчаста. Молоді шапинки мають білуватий, іноді слабо лілуватий, паморозний блиск — ту «паморозь», від якої походять німецька назва Reifpilz і словацька pavučinovec inovaťový.",
+      "hymenium": "Пластинки густі й прирослі. Спочатку вони блідо-глинисті, потім середньо-коричневі або коричні, коли дозрівають іржаво-коричневі спори, іноді нерівномірно. У молодих плодових тіл їх закриває плівчасте часткове покривало.",
+      "stipe": "Ніжка 5–15 см завдовжки і 1–2,5 см завтовшки (багато європейських визначників зазначають близько 6–12 × 1–2 см). Вона циліндрична, біля основи трохи потовщена, білувата або блідо-охриста і вздовж тонко волокниста. Вище середини сидить стійке білувате плівчасте кільце — головна польова ознака, що відділяє цей вид майже від усіх інших Cortinarius, у яких є лише павутиниста кортина. Кільце спочатку прикріплене до краю шапинки.",
+      "flesh": "М’якоть кремова або білувата і при розрізі не змінює кольору. Запах нехарактерний, смак м’який; сира м’якоть може бути трохи гіркуватою, але після варіння вона приємна, з горіховим відтінком. Невідомі павутинники куштувати не варто.",
+      "sporePrint": "Споровий порошок іржаво-коричневий або охристо-коричневий. Спори мигдалеподібні й бородавчасті, близько 10–15 × 7–10 мкм.",
+      "habitat": "Ектомікориза з хвойними, особливо ялиною і сосною, і з буком, часто серед вересових рослин — чорниці, вересу й ерик — на кислих ґрунтах від рівнин до гір. Плодові тіла з’являються з липня по листопад (у Центральній Європі зазвичай липень–жовтень; у Великій Британії серпень–листопад). Широко поширений у Скандинавії та гірській Європі, а в більшій частині Великої Британії та Ірландії рідкісний.",
+      "uses": "У країнах, де він звичайний, ковпак кільчастий — високо цінований їстівний гриб; у Фінляндії його продають і в торгівлі, а в Чехії він входить до списку ринкових грибів, з м’яким горіховим смаком після варіння. Іноді його змішують із більш ароматними лісовими грибами, і він добре сушиться. Його треба ретельно варити, а жорсткі ніжки часто видаляють. Визначення має бути певним, бо рід Cortinarius включає смертельно отруйні види, а молоді плодові тіла можна сплутати з отруйними волоконницями, наприклад з Inosperma erubescens. Вид також накопичує цезій-137 (і може поглинати кадмій і ртуть); після Чорнобиля деякі європейські зразки перевищили харчові норми, тому в уражених районах його слід їсти помірно або не їсти зовсім. У світі він має статус Least Concern (МСОП, 2018) і використовується в їжу, але у Великій Британії рідкісний.",
+      "confusion": "Стійке плівчасте кільце, спочатку паморозна, потім зморшкувата охриста шапинка і бліда ніжка відділяють його майже від усіх інших павутинників, у яких є лише павутиниста кортина. Смертельно отруйні види, такі як Cortinarius rubellus і C. orellanus, цього кільця не мають, а їхні шапинки рівномірніше іржаві або помаранчево-коричневі, без паморозного блиску. Молоді плодові тіла можна сплутати зі смертельно отруйною Inosperma erubescens, яка червоніє при пошкодженні й не має такого плівчастого кільця. Phaeolepiota aurea зернисто-борошниста і золотисто-жовта. Інші блідошапинкові кільчасті гриби, зокрема деякі печериці (Agaricus), мають інші кольори пластинок і споровий порошок. Якщо кільце втрачене, їсти його не варто.",
+      "notes": "Багато років вид був відомий як Rozites caperatus, у роді, створеному саме для цього незвичайного кільчастого павутинника. ДНК-робота Пайнтнер і колег 2002 року показала, що Rozites входить до роду Cortinarius, і повернулося ім’я, яке Еліас Фріз дав йому ще 1838 року. Епітет caperatus означає зморшкуватий. Офіційна англійська назва у Сполученому Королівстві та в Червоному списку МСОП — The Gypsy; інші підтверджені англійські назви — Gypsy Mushroom, Wrinkled Cortinarius і Wrinkled Rozites. Збережені синоніми йдуть лише за синонімікою Species Fungorum.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "Ковпак кільчастий"
+    },
+    "zh": {
+      "description": "皱盖丝膜菌是丝膜菌科（Cortinariaceae）的肉质子实体外生菌根菌，在丝膜菌属中较为特殊，因为它具有宿存的膜质菌环——正是这一特征使其长期被放在 Rozites 属。它生于针叶林和混交林的地面，常在酸性土壤的苔藓和越橘之间，从夏末到秋季出现。菌盖赭色至黄褐色，幼时被白霜，展开后呈放射状皱纹。该种广泛分布于北欧和山地欧洲、温带亚洲以及北美北部，是著名的食用菌，但必须准确鉴定，并能积累放射性铯。",
+      "cap": "菌盖直径5–14厘米（图鉴给出的范围约从4–10厘米到7–14厘米）。初期凸起，随后展开并带有宽阔的中央凸起。干燥表面黄赭至褐赭，边缘常较淡，覆有浅色纤维，成熟时通常细皱或具沟纹。幼盖呈白色、有时略带淡紫的霜状光泽——正是这种“霜”造就了德名 Reifpilz 和斯洛伐克名 pavučinovec inovaťový。",
+      "hymenium": "菌褶密，近生。初期呈浅土色，随着锈褐色孢子成熟而变为中褐色至肉桂色，有时不均匀。幼时被膜质的部分菌幕覆盖。",
+      "stipe": "菌柄长5–15厘米、粗1–2.5厘米（许多欧洲图鉴作约6–12 × 1–2厘米）。圆柱形，基部略膨大，近白色至浅赭，纵向具细纤维。中部以上有宿存的近白色膜质菌环——这是把它与几乎所有仅有蛛网膜（cortina）的其他丝膜菌区分开的关键野外特征。菌环起初连于菌盖边缘。",
+      "flesh": "菌肉奶油色至近白色，切开不变色。气味不明显，味道温和；生食时菌肉可能略带苦味，煮熟后则香醇、带坚果味。不要品尝不明的丝膜菌。",
+      "sporePrint": "孢子印锈褐色至赭褐色。孢子杏仁形、具疣，约10–15 × 7–10微米。",
+      "habitat": "与针叶树（尤其是云杉和松）以及山毛榉形成外生菌根，常在越橘、石楠等杜鹃花科植物之间的酸性土壤上，从低地到山地均有。子实体出现于7月至11月（中欧通常7–10月；英国8–11月）。在斯堪的纳维亚和山地欧洲分布广泛，在英国和爱尔兰大部分地区稀少。",
+      "uses": "在常见的国家，它是备受推崇的食用菌，芬兰有商业销售，捷克列入市场食用菌，煮熟后有温和的坚果味。有时与香味更浓的林菌混合，也易于干燥。必须充分煮熟，坚韧的菌柄常被去掉。鉴定必须可靠，因为丝膜菌属包含致命种类，幼嫩子实体也可能与有毒的丝盖伞类（如 Inosperma erubescens）混淆。该种还会生物积累铯-137（并可吸收镉和汞）；切尔诺贝利事故后，一些欧洲样品超过了食品限值，因此在受影响地区应少吃或不吃。全球被列为 Least Concern（IUCN，2018）并作为食物使用，但在英国稀少。",
+      "confusion": "宿存的膜质菌环、先被霜后起皱的赭色菌盖以及浅色菌柄，把它与几乎所有仅有蛛网膜的其他丝膜菌区分开来。Cortinarius rubellus 和 C. orellanus 等致命种类没有这种菌环，菌盖更均匀地呈锈色或橙褐色，也没有霜状光泽。幼嫩子实体可能与致命的 Inosperma erubescens 混淆，后者受伤变红，也没有这类膜质菌环。Phaeolepiota aurea 呈颗粒粉质、金黄色。其他浅盖、有环的蘑菇，包括部分蘑菇属（Agaricus），菌褶颜色和孢子印不同。如果菌环已脱落，不要食用。",
+      "notes": "多年来该种被称为 Rozites caperatus，该属正是为这种少见的有环丝膜菌而设立。Peintner 及其同事2002年的DNA研究表明 Rozites 位于 Cortinarius 内部，从而恢复了埃利亚斯·弗里茨早在1838年就给出的名称。种加词 caperatus 意为“起皱的”。在英国和IUCN红名录中的正式英文名是 The Gypsy；其他有来源的英文名包括 Gypsy Mushroom、Wrinkled Cortinarius 和 Wrinkled Rozites。收录的异名仅遵循 Species Fungorum 的异名关系。",
+      "names": [
+        "皱皮丝膜菌"
+      ],
+      "sourceUrls": [
+        "https://www.catalogueoflife.org/data/taxon/6B66J"
+      ],
+      "label": "皱盖丝膜菌"
+    }
+  },
+  "synonyms": [
+    "Agaricus caperatus Pers.",
+    "Lepiota caperata (Pers.) Zaw.",
+    "Pholiota caperata (Pers.) Gillet",
+    "Rozites caperatus (Pers.) P. Karst.",
+    "Dryophila caperata (Pers.) Quél.",
+    "Hylophila caperata (Pers.) Quél.",
+    "Togaria caperata (Pers.) W.G. Sm."
+  ],
+  "reserved": false,
+  "id": 188,
+  "citation": "Epicrisis Systematis Mycologici: 256 (1838) [1836-1838]"
 }
 ];
