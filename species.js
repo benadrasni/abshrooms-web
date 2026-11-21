@@ -197515,5 +197515,1925 @@ export const CATALOG = [
   "reserved": false,
   "id": 192,
   "citation": "Česká Mykol. 20(4): 230 (1966)"
+},
+{
+  "name": "Russula adusta",
+  "author": "(Pers.) Fr.",
+  "family": "Russulaceae",
+  "genus": "Russula",
+  "order": "Russulales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Russulales",
+    "Russulaceae",
+    "Russula"
+  ],
+  "summary": [
+    "Russulales",
+    "Russulaceae",
+    "Russula"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "brown",
+    "dark"
+  ],
+  "capFrom": 5.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 6,
+  "fruitingTo": 10,
+  "label": {
+    "cs": "holubinka osmahlá",
+    "da": "sveden skørhat",
+    "de": "Rauchbrauner Schwärz-Täubling",
+    "en": "winecork brittlegill",
+    "et": "mustjas pilvik",
+    "fi": "savuhapero",
+    "fr": "russule brûlée",
+    "hu": "sötétedő galambgomba",
+    "ja": "コゲイロハツタケ",
+    "lt": "juodmėsė ūmėdė",
+    "lv": "tumšā bērzlape",
+    "nl": "rookrussula",
+    "no": "røykkremle",
+    "pl": "gołąbek podpalany",
+    "ru": "Подгруздок чёрный",
+    "sk": "plávka počerná",
+    "sl": "osmojena golobica",
+    "sv": "svedkremla",
+    "uk": "Підгруздок чорний",
+    "zh": "烟色红菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Brandtäubling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [
+      "tuhm pilvik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Подгруздок опалённый"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "煙色紅菇"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=168636",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=168636",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=168636",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=211757",
+      "https://www.gbif.org/species/9223923",
+      "https://www.wikidata.org/wiki/Q1784176",
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://de.wikipedia.org/wiki/Rauchbrauner_Schw%C3%A4rz-T%C3%A4ubling",
+      "https://www.myko.cz/myko-atlas/Russula-adusta/",
+      "https://www.nahuby.sk/tabulka_obdobia_rastu.php?content=good&mode=&month=7",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta",
+      "https://species.nbnatlas.org/species/NHMSYS0001496615",
+      "https://www.iucnredlist.org/species/260333708/260406255"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Russula-adusta/",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "de": [
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://de.wikipedia.org/wiki/Rauchbrauner_Schw%C3%A4rz-T%C3%A4ubling",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "es": [],
+    "et": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "fa": [],
+    "fi": [
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://species.wikimedia.org/wiki/Russula_adusta",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/tabulka_obdobia_rastu.php?content=good&mode=&month=7",
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "tr": [],
+    "uk": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ],
+    "zh": [
+      "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+    ]
+  },
+  "added": "2026-11-21",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/Russula_adusta@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/Russula_adusta@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Russula adusta.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 459209f0a925c0346c8012ab95dad3026fabe5696ee5fdb7ab5f88677f73716f) is an illustration with an existing cursive “Gemini” mark at lower right, kept as found (ink only; no paper rectangle); no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a cream-to-sooty depressed cap, a close-gilled underside, a stout dingy stipe, a pink-then-blackening longitudinal section, a young whitish button, a fully black old fruit body, and pine-needle litter. The mature cap is more deeply funnelled than some field forms, and a few faint engraved paper-hatch strokes remain in the gap under the gill-view cap. The official plate is slightly soft because the 896×1200 source was enlarged 1.5625×. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/Russula_adusta@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/ra1.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/photos/754465961"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/ra2.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/737551025"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/ra3.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/559355984"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/ra4.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/749481716"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/ra5.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/559355958"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Russulales/Russulaceae/Russula_adusta/Russula_adusta@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Russulaceae/Russula_adusta/Russula_adusta@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Russulales/Russulaceae/Russula_adusta/ra1.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/754465961"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Russulales/Russulaceae/Russula_adusta/ra2.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/737551025"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Russulales/Russulaceae/Russula_adusta/ra3.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/559355984"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Russulales/Russulaceae/Russula_adusta/ra4.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/749481716"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Russulales/Russulaceae/Russula_adusta/ra5.webp",
+      "author": "Сергей",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/559355958"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر قوي يشكل ميكانة خارجية في غابات الصنوبريات الحمضية الرملية، غالباً تحت الصنوبر، وأيضاً تحت التنوب، ونادراً جداً قرب الأشجار عريضة الأوراق. يُسجَّل في جزء كبير من أوروبا وفي شمال آسيا. تظهر الأجسام الثمرية من يونيو إلى أكتوبر وتتلون ببطء بالوردي ثم بالرمادي إلى الأسود عند الكدم أو التقادم.",
+      "cap": "القبعة عادة بعرض 5–15 سم، وأحياناً حتى 20 سم. تكون محدبة أولاً، ثم منخفضة إلى قمعية، ذات حافة سميكة ملتفة إلى الداخل وهي صغيرة. السطح الجاف غير اللامع أملس أو مخملي ناعم، أبيض وسخ إلى كريمي، ثم رمادي بني أو بني سخامي، وغالباً تعلوه بقايا ملتصقة، ويتحول ببطء إلى البني أو الأسود عند الإصابة.",
+      "hymenium": "الخياشيم متقاربة إلى حد ما، سميكة نوعاً ما، متفرعة أحياناً، ملتحمة أو نازلة قليلاً. لونها أبيض كريمي وتتحول عند الإصابة إلى بني محمر ثم إلى أسود. وهي أكثر تقارباً من خياشيم Russula nigricans المتباعدة جداً.",
+      "stipe": "الساق عادة بطول 4–10 سم وسمك 1.5–3 سم، قوية، أسطوانية أو مستدقة قليلاً، بيضاء إلى كريمية وسخة، وغالباً ملطخة بالبني أو الأسود نحو القاعدة. وهي متماسكة وبلا حلقة.",
+      "flesh": "اللحم سميك ومتماسك وأبيض. عند القطع أو الإصابة يتحول ببطء إلى وردي شاحب أو محمر، ثم إلى رمادي أو أسود. الرائحة ضعيفة، تشبه أحياناً براميل النبيذ القديمة أو قبوًا رطبًا؛ والطعم معتدل أو مرّ أو لاذع قليلاً.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى كريمية.",
+      "habitat": "يشكل ميكانة خارجية، أساساً مع الصنوبر في الترب الرملية الحمضية، وأيضاً مع التنوب، ونادراً مع الشوح، وفقط على نحو استثنائي تحت الأشجار عريضة الأوراق. تظهر الأجسام الثمرية على الأرض في الطحالب أو فرش الإبر في غابات الصنوبريات من يونيو إلى أكتوبر.",
+      "uses": "تؤكل الأجسام الثمرية الفتية في بعض المناطق بعد الطبخ أو التمليح، لكن اللحم باهت ورديء الجودة. قد تسبب الفطور النيئة اضطراباً معدياً. ومن الأنواع المسودة المشابهة النوع القاتل Russula subnigricans، لذا يلزم التعرف الحذر.",
+      "confusion": "لدى Russula nigricans خياشيم أسمك ومتباعدة جداً، ويحمر لحمها بوضوح أكبر قبل الاسوداد. تحمر Russula densifolia وRussula acrifolia أيضاً أولاً وغالباً ما تكون أكثر لذعاً. تسود Russula albonigra مباشرة وخياشيمها أكثر تقارباً. Russula subnigricans شبيه قاتل من شرق آسيا يحمر لحمه ولا يسود دائماً تماماً.",
+      "notes": "صنّفها الاتحاد الدولي لحفظ الطبيعة في عام 2025 ضمن الأنواع غير المهددة. يميزها اللحم الذي يسود ببطء والخياشيم المتقاربة إلى حد ما عن الأقارب القريبين. تُقارَن الرائحة، إن وُجدت، كثيراً ببرميل نبيذ قديم.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Набита ектомикоризна гъба на кисели, песъчливи иглолистни гори, най-често под бор, също под смърч и само изключително край широколистни дървета. Известна е от голяма част от Европа и от Северна Азия. Плодните тела се появяват от юни до октомври и при нараняване или остаряване бавно порозовяват, след това посивяват до почерняват.",
+      "cap": "Шапката обикновено е 5–15 cm широка, понякога до 20 cm. Отначало е изпъкнала, по-късно вдлъбната до фуниевидна, в младост с дебел, подвит ръб. Сухата, матова повърхност е гладка или фино кадифена, мръснобяла до кремава, по-късно сивокафява или саждивокафява, често с полепнали остатъци, и при нараняване бавно покафенява до почернява.",
+      "hymenium": "Пластинките са сравнително гъсти, сравнително дебели, понякога вилообразни и прираснали или леко низбягващи. Кремавобели са и при нараняване стават червеникавокафяви, след това черни. По-гъсти са от много рядко разположените пластинки на Russula nigricans.",
+      "stipe": "Пънчето обикновено е 4–10 cm дълго и 1,5–3 cm дебело, набито, цилиндрично или леко стеснено, бяло до мръснокремаво и към основата често кафяво или черно петнисто. То е твърдо и без пръстен.",
+      "flesh": "Месото е дебело, твърдо и бяло. При срязване или нараняване бавно пребледнява в розово или зачервява, след това посивява до почернява. Миризмата е слаба, понякога като на стари винени бъчви или влажна изба; вкусът е мек или леко горчив или лютив.",
+      "sporePrint": "Споровият прах е бял до кремав.",
+      "habitat": "Ектомикоризна е, главно с бор върху кисели песъчливи почви, също със смърч, рядко с ела и само изключително под широколистни дървета. Плодните тела растат на земята в мъх или в игления опад на иглолистни гори от юни до октомври.",
+      "uses": "Младите плодни тела в някои райони се ядат след варене или осоляване, но месото е безвкусно и с лошо качество. Суровите гъби могат да причинят стомашни неразположения. Сред подобните почерняващи видове е и смъртоносно отровната Russula subnigricans, затова е нужна внимателна идентификация.",
+      "confusion": "Russula nigricans има по-дебели, много рядко разположени пластинки, а месото почервенява по-ясно преди почерняването. Russula densifolia и Russula acrifolia също първо почервеняват и често са по-лютиви. Russula albonigra почернява направо и има по-гъсти пластинки. Russula subnigricans е смъртоносно отровен източноазиатски подобен вид, чието месо почервенява и не винаги почернява напълно.",
+      "notes": "През 2025 г. IUCN я оцени като незастрашена. Бавно почерняващото месо и сравнително гъстите пластинки я отличават от близките роднини. Миризмата, когато е налице, често се сравнява със стара винена бъчва.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Statná ektomykorhizní houba kyselých písčitých jehličnatých lesů, nejčastěji pod borovicí, také pod smrkem a jen výjimečně u listnatých stromů. Je zaznamenána na velké části Evropy a v severní Asii. Plodnice se objevují od června do října a při poranění nebo stárnutí pomalu růžoví, poté šednou až černají.",
+      "cap": "Klobouk je typicky 5–15 cm široký, někdy až 20 cm. Zprvu je klenutý, později prohloubený až nálevkovitý, v mládí s tlustým, podvinutým okrajem. Suchý, matný povrch je hladký nebo jemně sametový, špinavě bílý až krémový, později šedohnědý nebo sazově hnědý, často s přilepenými nečistotami, a při poranění pomalu hnědne až černá.",
+      "hymenium": "Lupeny jsou poměrně husté, dosti tlusté, někdy vidlicovité a připojené nebo mírně sbíhavé. Jsou krémově bílé a při poranění červenohnědnou, poté černají. Jsou hustší než velmi řídké lupeny druhu Russula nigricans.",
+      "stipe": "Třeň je typicky 4–10 cm dlouhý a 1,5–3 cm tlustý, statný, válcovitý nebo mírně zúžený, bílý až špinavě krémový, často hnědě nebo černě zbarvený ke spodu. Je pevný a bez prstenu.",
+      "flesh": "Dužnina je tlustá, pevná a bílá. Při řezu nebo poranění pomalu bledě růžoví nebo červená, poté šedne až černá. Vůně je slabá, někdy připomíná stará vinná sudy nebo vlhký sklep; chuť je mírná nebo mírně hořká či palčivá.",
+      "sporePrint": "Výtrusný prach je bílý až krémový.",
+      "habitat": "Je ektomykorhizní, především s borovicí na kyselých písčitých půdách, také se smrkem, vzácně s jedlí a jen výjimečně pod listnatými stromy. Plodnice rostou na zemi v mechu nebo ve jehličí jehličnatých lesů od června do října.",
+      "uses": "Mladé plodnice se v některých oblastech jedí po uvaření nebo naložení v soli, ale dužnina je mdlá a málo kvalitní. Syrové houby mohou způsobit žaludeční potíže. Mezi podobné černající druhy patří i smrtelně jedovatá Russula subnigricans, proto je nutná opatrná identifikace.",
+      "confusion": "Russula nigricans má tlustší, velmi řídké lupeny a dužnina před zčernáním výrazněji červená. Russula densifolia a Russula acrifolia také nejprve červenají a bývají častěji palčivé. Russula albonigra při poranění černá přímo a má hustší lupeny. Russula subnigricans je smrtelně jedovatý východoasijský podobný druh, jehož dužnina červená a ne vždy úplně zčerná.",
+      "notes": "V roce 2025 ji IUCN zařadila mezi druhy málo dotčené. Pomalu černající dužnina a poměrně husté lupeny ji odlišují od blízkých příbuzných. Vůně, je-li přítomna, se často přirovnává ke starému vinnému sudu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Russula-adusta/",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "holubinka osmahlá"
+    },
+    "da": {
+      "description": "En kraftig ektomykorrhizadannende svamp i sure, sandede nåleskove, især under fyr, også under gran og kun undtagelsesvis ved løvtræer. Den er kendt fra store dele af Europa og fra det nordlige Asien. Frugtlegemerne kommer frem fra juni til oktober og farves langsomt rosa, derefter grå til sorte, når de knuses eller ældes.",
+      "cap": "Hattemålet er typisk 5–15 cm, undertiden op til 20 cm. Den er først hvælvet, senere nedtrykt til tragtformet, som ung med tyk, indrullet rand. Den tørre, matte overflade er glat eller fint fløjlsagtig, smudshvid til cremefarvet, senere gråbrun eller sodbrun, ofte med vedhængende snavs, og den brunes eller sortnes langsomt ved berøring.",
+      "hymenium": "Lamellerne er ret tætte, ret tykke, undertiden gaffeldelte og tilheftede eller lidt nedløbende. De er cremehvide og bliver rødbrune, derefter sorte, ved berøring. De står tættere end de meget spredt stillede lameller hos Russula nigricans.",
+      "stipe": "Stokken er typisk 4–10 cm lang og 1,5–3 cm tyk, kraftig, cylindrisk eller lidt tilspidset, hvid til smudscreme og ofte brun- eller sortplettet mod basis. Den er fast og uden ring.",
+      "flesh": "Kødet er tykt, fast og hvidt. Ved gennemskæring eller knusning bliver det langsomt blegrosa eller rødligt, derefter gråt til sort. Lugten er svag, undertiden som af gamle vinfade eller en fugtig kælder; smagen er mild eller lidt bitter eller skarp.",
+      "sporePrint": "Sporepulveret er hvidt til cremefarvet.",
+      "habitat": "Den er ektomykorrhizadannende, især med fyr på sure sandjorde, også med gran, sjældent med ædelgran, og kun undtagelsesvis under løvtræer. Frugtlegemerne står på jorden i mos eller nålestrøelse i nåleskove fra juni til oktober.",
+      "uses": "Unge frugtlegemer spises i nogle egne efter kogning eller saltning, men kødet er kedeligt og af dårlig kvalitet. Rå svampe kan give maveonde. Blandt lignende sortnende arter er den dødeligt giftige Russula subnigricans, så forsigtig bestemmelse er nødvendig.",
+      "confusion": "Russula nigricans har tykkere, meget spredt stillede lameller, og kødet rødmer tydeligere inden sortningen. Russula densifolia og Russula acrifolia rødmer også først og er ofte skarpere. Russula albonigra bliver straks sort og har tættere lameller. Russula subnigricans er en dødeligt giftig østasiatisk dobbeltgænger, hvis kød rødmer og ikke altid sortner helt.",
+      "notes": "IUCN vurderede arten i 2025 som ikke truet. Det langsomt sortnende kød og de ret tætte lameller skiller den fra nære slægtninge. Lugten, når den er til stede, sammenlignes ofte med et gammelt vinfad.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "sveden skørhat"
+    },
+    "de": {
+      "description": "Ein stattlicher Ektomykorrhizapilz saurer, sandiger Nadelwälder, vor allem unter Kiefern, auch unter Fichten und nur ausnahmsweise bei Laubbäumen. Er ist in weiten Teilen Europas und in Nordasien nachgewiesen. Die Fruchtkörper erscheinen von Juni bis Oktober und verfärben sich bei Verletzung oder im Alter langsam rosa, danach grau bis schwarz.",
+      "cap": "Der Hut ist typischerweise 5–15 cm breit, manchmal bis 20 cm. Er ist zuerst gewölbt, später niedergedrückt bis trichterförmig, jung mit dickem, eingerolltem Rand. Die trockene, matte Oberfläche ist glatt oder fein samtig, schmutzig weiß bis cremefarben, später graubraun oder rußbraun, oft mit anhaftendem Schmutz, und bräunt oder schwärzt sich bei Verletzung langsam.",
+      "hymenium": "Die Lamellen stehen ziemlich gedrängt, sind eher dick, manchmal gegabelt und angewachsen oder etwas herablaufend. Sie sind cremeweiß und verfärben sich bei Verletzung rötlichbraun, dann schwarz. Sie stehen dichter als die sehr weit entfernten Lamellen von Russula nigricans.",
+      "stipe": "Der Stiel ist typischerweise 4–10 cm lang und 1,5–3 cm dick, kräftig, zylindrisch oder etwas verjüngt, weiß bis schmutzig cremefarben und zur Basis hin oft braun oder schwarz fleckig. Er ist fest und ohne Ring.",
+      "flesh": "Das Fleisch ist dick, fest und weiß. Beim Anschneiden oder Verletzen wird es langsam blassrosa oder rötlich, danach grau bis schwarz. Der Geruch ist schwach, manchmal nach alten Weinfässern oder feuchtem Keller; der Geschmack ist mild oder leicht bitter oder schärflich.",
+      "sporePrint": "Das Sporenpulver ist weiß bis cremefarben.",
+      "habitat": "Er lebt ektomykorrhizisch, vor allem mit Kiefer auf sauren Sandböden, auch mit Fichte, selten mit Tanne und nur ausnahmsweise unter Laubbäumen. Die Fruchtkörper erscheinen von Juni bis Oktober auf dem Boden in Moos oder in der Nadelstreu von Nadelwäldern.",
+      "uses": "Junge Fruchtkörper werden in manchen Gegenden nach dem Kochen oder Einsalzen gegessen, das Fleisch ist jedoch fade und von geringer Qualität. Rohe Pilze können Magenbeschwerden verursachen. Zu den ähnlichen schwärzenden Arten gehört die tödlich giftige Russula subnigricans, daher ist eine vorsichtige Bestimmung unerlässlich.",
+      "confusion": "Russula nigricans hat dickere, weit stehende Lamellen, und das Fleisch rötet vor dem Schwärzen deutlicher. Russula densifolia und Russula acrifolia röten ebenfalls zuerst und sind oft schärfer. Russula albonigra verfärbt sich unmittelbar schwarz und hat dichtere Lamellen. Russula subnigricans ist ein tödlich giftiger ostasiatischer Doppelgänger, dessen Fleisch rötet und nicht immer vollständig schwärzt.",
+      "notes": "Die IUCN stufte die Art 2025 als nicht gefährdet ein. Das langsam schwärzende Fleisch und die eher gedrängten Lamellen unterscheiden sie von nahen Verwandten. Der Geruch, wenn vorhanden, wird oft mit einem alten Weinfass verglichen.",
+      "names": [
+        "Brandtäubling"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://de.wikipedia.org/wiki/Rauchbrauner_Schw%C3%A4rz-T%C3%A4ubling",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "Rauchbrauner Schwärz-Täubling"
+    },
+    "en": {
+      "description": "A stout, ectomycorrhizal brittlegill of acid, sandy conifer woods, most often under pine, also under spruce and only exceptionally with deciduous trees. It is recorded across much of Europe and northern Asia. Fruit bodies appear from June to October and slowly stain pinkish, then grey to black when bruised or old.",
+      "cap": "The cap is typically 5–15 cm across, sometimes to 20 cm. It is convex at first, then depressed to funnel-shaped, with a thick, inrolled margin when young. The dry, dull surface is smooth or finely velvety, dirty white to cream, then grey-brown or sooty brown, often with adhering debris, and it bruises slowly brown to black.",
+      "hymenium": "The gills are fairly crowded, rather thick, sometimes forked, and attached or slightly decurrent. They are cream-white and bruise reddish-brown, then black. They are closer than the very widely spaced gills of Russula nigricans.",
+      "stipe": "The stem is typically 4–10 cm long and 1.5–3 cm thick, stout, cylindrical or slightly tapering, and white to dirty cream, often stained brown or black toward the base. It is firm and has no ring.",
+      "flesh": "The flesh is thick, firm and white. It slowly turns pale pink or reddish, then grey to black when cut or bruised. The smell is weak, sometimes like old wine casks or a damp cellar; the taste is mild or slightly bitter or acrid.",
+      "sporePrint": "The spore print is white to cream.",
+      "habitat": "It is ectomycorrhizal, mainly with pine on acid sandy soils, also with spruce, rarely fir, and only exceptionally under deciduous trees. Fruit bodies appear on the ground in moss or needle litter in conifer woods, from June to October.",
+      "uses": "Young fruit bodies are eaten in some regions after cooking or salting, but the flesh is dull and of poor quality. Raw mushrooms may cause stomach upset. Similar blackening species include the deadly Russula subnigricans, so cautious identification is essential.",
+      "confusion": "Russula nigricans has thicker, widely spaced gills and flesh that reddens more strongly before blackening. Russula densifolia and Russula acrifolia also redden first and are often more acrid. Russula albonigra bruises directly to black and has closer gills. Russula subnigricans is a deadly East Asian lookalike whose flesh reddens and does not always blacken fully.",
+      "notes": "Assessed as Least Concern by IUCN in 2025. The slowly blackening flesh and rather crowded gills distinguish it from close relatives. The smell, when present, is often compared to an old wine cask.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=168636",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=168636",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=168636",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=211757",
+        "https://www.gbif.org/species/9223923",
+        "https://www.wikidata.org/wiki/Q1784176",
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://de.wikipedia.org/wiki/Rauchbrauner_Schw%C3%A4rz-T%C3%A4ubling",
+        "https://www.myko.cz/myko-atlas/Russula-adusta/",
+        "https://www.nahuby.sk/tabulka_obdobia_rastu.php?content=good&mode=&month=7",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta",
+        "https://species.nbnatlas.org/species/NHMSYS0001496615",
+        "https://www.iucnredlist.org/species/260333708/260406255"
+      ],
+      "label": "winecork brittlegill"
+    },
+    "es": {
+      "description": "Un hongo ectomicorrícico robusto de bosques de coníferas ácidos y arenosos, sobre todo bajo pino, también bajo abeto rojo y solo excepcionalmente junto a árboles de hoja ancha. Se cita en gran parte de Europa y en el norte de Asia. Los cuerpos fructíferos aparecen de junio a octubre y se tiñen lentamente de rosa y luego de gris a negro al magullarse o envejecer.",
+      "cap": "El sombrero mide por lo general 5–15 cm de diámetro, a veces hasta 20 cm. Al principio es convexo, luego deprimido o infundibuliforme, con el margen grueso y enrollado en los ejemplares jóvenes. La superficie seca y mate es lisa o finamente aterciopelada, blanco sucio a crema y luego pardo grisáceo o pardo tiznado, a menudo con restos adheridos, y se vuelve parda o negra con lentitud al rozarse.",
+      "hymenium": "Las láminas son bastante apretadas, bastante gruesas, a veces bifurcadas, adnatas o ligeramente decurrentes. Son de un blanco crema y al roce se vuelven pardo rojizas y luego negras. Están más juntas que las láminas muy espaciadas de Russula nigricans.",
+      "stipe": "El pie mide por lo general 4–10 cm de largo y 1,5–3 cm de grosor; es robusto, cilíndrico o algo atenuado, blanco a crema sucio y a menudo manchado de pardo o negro hacia la base. Es firme y carece de anillo.",
+      "flesh": "La carne es gruesa, firme y blanca. Al cortarse o magullarse se vuelve lentamente rosa pálida o rojiza y luego gris a negra. El olor es débil, a veces a cubas de vino viejas o a sótano húmedo; el sabor es suave o ligeramente amargo o acre.",
+      "sporePrint": "La esporada es blanca a crema.",
+      "habitat": "Es ectomicorrícico, principalmente con pino en suelos arenosos ácidos, también con abeto rojo, rara vez con abeto blanco, y solo excepcionalmente bajo árboles de hoja ancha. Los cuerpos fructíferos aparecen en el suelo, entre musgo o acículas de bosques de coníferas, de junio a octubre.",
+      "uses": "En algunas regiones se comen los cuerpos jóvenes después de cocerlos o salarlos, pero la carne es sosa y de poca calidad. Los ejemplares crudos pueden causar molestias estomacales. Entre las especies ennegrecientes parecidas está la mortal Russula subnigricans, por lo que es esencial una identificación prudente.",
+      "confusion": "Russula nigricans tiene láminas más gruesas y muy espaciadas, y la carne enrojece más claramente antes de ennegrecer. Russula densifolia y Russula acrifolia también enrojecen primero y suelen ser más acres. Russula albonigra se vuelve negra de inmediato y tiene láminas más apretadas. Russula subnigricans es un doble mortal de Asia oriental cuya carne enrojece y no siempre ennegrece por completo.",
+      "notes": "La UICN la consideró en 2025 de preocupación menor. La carne que ennegrece despacio y las láminas bastante apretadas la distinguen de sus parientes cercanos. El olor, cuando está presente, suele compararse con el de una cuba de vino vieja.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Jässakas ektomükoriisne seen happelistes, liivastes okasmetsades, peamiselt männi, ka kuuse all ja vaid erandlikult lehtpuude juures. Teda tuntakse suurest osast Euroopast ja Põhja-Aasiast. Viljakehad ilmuvad juunist oktoobrini ning värvuvad muljumisel või vananedes aeglaselt roosaks, seejärel halliks kuni mustaks.",
+      "cap": "Kübar on tavaliselt 5–15 cm lai, vahel kuni 20 cm. Alguses on ta kumer, hiljem sissevajunud või lehterjas, noorelt paksu, sisserullunud servaga. Kuiv, matt pind on sile või peenelt sametjas, määrdunudvalge kuni kreemjas, hiljem hallikaspruun või tahmapruun, sageli kleepunud prahiga, ning kahjustusel pruunistub või mustub aeglaselt.",
+      "hymenium": "Eoases on eoslehekesed üsna tihedad, üsna paksud, vahel hargnenud ning kinnitunud või veidi alajooksvad. Need on kreemjasvalged ning muutuvad kahjustusel punakaspruuniks, seejärel mustaks. Need on tihedamad kui Russula nigricans’i väga hõredad eoslehekesed.",
+      "stipe": "Jalg on tavaliselt 4–10 cm pikk ja 1,5–3 cm jäme, jässakas, silindriline või veidi ahenev, valge kuni määrdunudkreemjas ja aluse poole sageli pruunide või mustade laikudega. Ta on kindel ja ilma rõngata.",
+      "flesh": "Lihakude on paks, kindel ja valge. Lõikel või muljumisel muutub ta aeglaselt kahvaturoosaks või punakaks, seejärel halliks kuni mustaks. Lõhn on nõrk, vahel nagu vanadel veinivaatidel või niiskel keldril; maitse on leebe või veidi kibe või kibe-terav.",
+      "sporePrint": "Eospulber on valge kuni kreemjas.",
+      "habitat": "Ta on ektomükoriisne, peamiselt männiga happelistel liivmuldadel, ka kuusega, harva nulu ja vaid erandlikult lehtpuude all. Viljakehad kasvavad maapinnal samblas või okkakõdus okasmetsades juunist oktoobrini.",
+      "uses": "Noori viljakehi süüakse mõnel maal pärast keetmist või soolamist, kuid lihakude on tuim ja kehva kvaliteediga. Toorena võib seen põhjustada kõhuvaevusi. Sarnaste mustuvate liikide hulka kuulub surmavalt mürgine Russula subnigricans, seega on vaja ettevaatlikku määramist.",
+      "confusion": "Russula nigricans’il on paksemad, väga hõredad eoslehekesed ning lihakude punetab enne mustumist selgemini. Russula densifolia ja Russula acrifolia punetavad samuti esmalt ning on sageli teravamad. Russula albonigra muutub otse mustaks ja tema eoslehekesed on tihedamad. Russula subnigricans on surmavalt mürgine Ida-Aasia sarnasseen, mille lihakude punetab ja ei mustu alati täielikult.",
+      "notes": "IUCN hindas liigi 2025. aastal soodsas seisundis olevaks. Aeglaselt mustuv lihakude ja üsna tihedad eoslehekesed eristavad teda lähedastest sugulastest. Lõhna, kui see on olemas, võrreldakse sageli vana veinivaadiga.",
+      "names": [
+        "tuhm pilvik"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "mustjas pilvik"
+    },
+    "fa": {
+      "description": "قارچی ستبر و اکتومیکوریزایی در جنگل‌های سوزنی‌برگ اسیدی و شنی، بیشتر زیر کاج، همچنین زیر نوئل و فقط به‌ندرت در کنار درختان پهن‌برگ. از بخش بزرگی از اروپا و از آسیای شمالی گزارش شده است. اندام‌های بارده از ژوئن تا اکتبر ظاهر می‌شوند و هنگام ضرب‌دیدگی یا پیری به‌آرامی صورتی و سپس خاکستری تا سیاه می‌شوند.",
+      "cap": "کلاهک معمولاً ۵–۱۵ سانتی‌متر پهنا دارد و گاهی تا ۲۰ سانتی‌متر می‌رسد. ابتدا محدب است، سپس فرورفته تا قیفی‌شکل می‌شود و در جوانی حاشیهٔ کلفت و به درون پیچیده دارد. سطح خشک و مات، صاف یا ریزمخملی، سفید چرک تا کرم، سپس قهوه‌ای خاکستری یا قهوه‌ای دوده‌ای است، اغلب با خرده‌های چسبیده، و هنگام آسیب به‌آرامی قهوه‌ای تا سیاه می‌شود.",
+      "hymenium": "تیغه‌ها نسبتاً متراکم، نسبتاً کلفت، گاهی شاخه‌شاخه و چسبیده یا کمی پایین‌رونده‌اند. سفیدِ کرمی هستند و هنگام آسیب قهوه‌ای مایل به سرخ و سپس سیاه می‌شوند. از تیغه‌های بسیار فاصله‌دار Russula nigricans متراکم‌ترند.",
+      "stipe": "ساقه معمولاً ۴–۱۰ سانتی‌متر درازا و ۱٫۵–۳ سانتی‌متر ضخامت دارد، ستبر، استوانه‌ای یا کمی باریک‌شونده، سفید تا کرم چرک و به‌سوی قاعده اغلب لکه‌های قهوه‌ای یا سیاه دارد. محکم است و حلقه ندارد.",
+      "flesh": "گوشت کلفت، محکم و سفید است. هنگام برش یا آسیب به‌آرامی صورتی کمرنگ یا مایل به سرخ و سپس خاکستری تا سیاه می‌شود. بو ضعیف است، گاهی مانند بشکه‌های شراب کهنه یا سرداب نمناک؛ مزه ملایم یا کمی تلخ یا تند است.",
+      "sporePrint": "اثر هاگ سفید تا کرم است.",
+      "habitat": "اکتومیکوریزایی است، عمدتاً با کاج روی خاک‌های شنی اسیدی، همچنین با نوئل، به‌ندرت با نراد، و فقط به‌طور استثنایی زیر درختان پهن‌برگ. اندام‌های بارده از ژوئن تا اکتبر روی زمین، در خزه یا لاشبرگ سوزنی جنگل‌های سوزنی‌برگ ظاهر می‌شوند.",
+      "uses": "اندام‌های باردهٔ جوان در برخی مناطق پس از پختن یا نمک‌سود کردن خورده می‌شوند، اما گوشت بی‌مزه و کم‌کیفیت است. قارچ خام ممکن است ناراحتی معده ایجاد کند. در میان گونه‌های سیاه‌شوندهٔ مشابه، Russula subnigricans مرگبار نیز هست، بنابراین شناسایی محتاطانه ضروری است.",
+      "confusion": "Russula nigricans تیغه‌های کلفت‌تر و بسیار فاصله‌دار دارد و گوشتش پیش از سیاه شدن واضح‌تر سرخ می‌شود. Russula densifolia و Russula acrifolia نیز ابتدا سرخ می‌شوند و اغلب تندترند. Russula albonigra مستقیماً سیاه می‌شود و تیغه‌های متراکم‌تری دارد. Russula subnigricans شبیه مرگبار شرق آسیایی است که گوشتش سرخ می‌شود و همیشه به‌طور کامل سیاه نمی‌گردد.",
+      "notes": "اتحادیهٔ بین‌المللی حفاظت از طبیعت در ۲۰۲۵ آن را در شمار گونه‌های با کمترین نگرانی ارزیابی کرد. گوشتِ به‌آرامی سیاه‌شونده و تیغه‌های نسبتاً متراکم آن را از خویشاوندان نزدیک متمایز می‌کند. بو، اگر باشد، اغلب به بشکهٔ شراب کهنه تشبیه می‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Tanakka ektomykorritsasieni happamissa, hiekkaisissa havumetsissä, useimmiten männyn, myös kuusen alla ja vain poikkeuksellisesti lehtipuiden seurassa. Sitä tavataan suuressa osassa Eurooppaa ja Pohjois-Aasiassa. Itiöemät ilmestyvät kesäkuusta lokakuuhun ja värjäytyvät kolhiintuessaan tai vanhetessaan hitaasti vaaleanpunaisiksi, sitten harmaiksi tai mustiksi.",
+      "cap": "Lakki on tavallisesti 5–15 cm leveä, joskus jopa 20 cm. Se on aluksi kupera, myöhemmin painunut tai suppilomainen, nuorena paksun, sisäänkiertyneen reunan kera. Kuiva, himmeä pinta on sileä tai hienon samettinen, likaisenvalkea tai kermanvärinen, myöhemmin harmaanruskea tai noenruskea, usein roskan peittämä, ja se ruskettuu tai mustuu hitaasti vaurioituessaan.",
+      "hymenium": "Heltat ovat melko tiheitä, melko paksuja, joskus haaraisia ja kiinnittyneitä tai hieman johteisia. Ne ovat kermanvalkoisia ja muuttuvat vaurioituessaan punaruskeiksi, sitten mustiksi. Ne ovat tiheämpiä kuin Russula nigricans -lajin hyvin harvat heltat.",
+      "stipe": "Jalka on tavallisesti 4–10 cm pitkä ja 1,5–3 cm paksu, tanakka, lieriömäinen tai hieman kapeneva, valkoinen tai likaisen kermanvärinen ja tyveä kohti usein ruskean tai mustan laikkuinen. Se on tukeva ja ilman rengasta.",
+      "flesh": "Malo on paksua, kiinteää ja valkoista. Leikkaus- tai vauriokohdassa se muuttuu hitaasti vaaleanpunaiseksi tai punertavaksi, sitten harmaaksi tai mustaksi. Tuoksu on heikko, joskus vanhojen viinitynnyrien tai kostean kellarin kaltainen; maku on mieto tai hieman karvas tai kirpeä.",
+      "sporePrint": "Itiöpöly on valkoista tai kermanväristä.",
+      "habitat": "Se elää ektomykorritsassa, etenkin männyn kanssa happamilla hiekkamailla, myös kuusen, harvoin pihdan kanssa, ja vain poikkeuksellisesti lehtipuiden alla. Itiöemät kasvavat maassa sammalessa tai neulaskarikkeessa havumetsissä kesäkuusta lokakuuhun.",
+      "uses": "Nuoria itiöemiä syödään joillakin seuduilla keittämisen tai suolaamisen jälkeen, mutta malo on miedon makuista ja heikkolaatuista. Raakana sieni voi aiheuttaa vatsavaivoja. Samankaltaisiin mustuviin lajeihin kuuluu tappavan myrkyllinen Russula subnigricans, joten tunnistuksessa on oltava varovainen.",
+      "confusion": "Russula nigricans -lajilla on paksummat, hyvin harvat heltat, ja malo punertuu selvemmin ennen mustumista. Russula densifolia ja Russula acrifolia punertuvat myös ensin ja ovat usein kirpeämpiä. Russula albonigra mustuu suoraan ja sen heltat ovat tiheämmät. Russula subnigricans on tappavan myrkyllinen itäaasialainen näköislaji, jonka malo punertuu eikä aina mustu kokonaan.",
+      "notes": "IUCN arvioi lajin vuonna 2025 elinvoimaiseksi. Hitaasti mustuva malo ja melko tiheät heltat erottavat sen läheisistä sukulaisista. Tuoksua, kun se on tallella, verrataan usein vanhaan viinitynnyriin.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "savuhapero"
+    },
+    "fr": {
+      "description": "Un champignon ectomycorhizien trapu des forêts de conifères acides et sablonneuses, surtout sous les pins, aussi sous les épicéas et seulement exceptionnellement auprès des feuillus. Il est signalé dans une grande partie de l’Europe et en Asie septentrionale. Les sporophores apparaissent de juin à octobre et se teintent lentement de rose, puis de gris à noir, lorsqu’ils sont meurtris ou âgés.",
+      "cap": "Le chapeau mesure typiquement 5–15 cm de diamètre, parfois jusqu’à 20 cm. Il est d’abord convexe, puis déprimé à infundibuliforme, avec une marge épaisse et enroulée chez les jeunes. La cuticule sèche et mate est lisse ou finement veloutée, blanc sale à crème, puis gris-brun ou brun fuligineux, souvent souillée de débris, et brunit ou noircit lentement au froissement.",
+      "hymenium": "Les lames sont assez serrées, plutôt épaisses, parfois fourchues, adnées ou légèrement décurrentes. Elles sont blanc crème et brunissent de rouge puis noircissent au froissement. Elles sont plus serrées que les lames très espacées de Russula nigricans.",
+      "stipe": "Le pied mesure typiquement 4–10 cm de long et 1,5–3 cm d’épaisseur; il est trapu, cylindrique ou un peu atténué, blanc à crème sale, souvent taché de brun ou de noir vers la base. Il est ferme et dépourvu d’anneau.",
+      "flesh": "La chair est épaisse, ferme et blanche. Elle devient lentement rose pâle ou rougeâtre, puis grise à noire, à la coupe ou au froissement. L’odeur est faible, parfois de vieux fût de vin ou de cave humide; la saveur est douce ou légèrement amère ou âcre.",
+      "sporePrint": "La sporée est blanche à crème.",
+      "habitat": "Il est ectomycorhizien, surtout avec le pin sur sols sableux acides, aussi avec l’épicéa, rarement le sapin, et seulement exceptionnellement sous des feuillus. Les sporophores apparaissent au sol, dans la mousse ou la litière d’aiguilles des forêts de conifères, de juin à octobre.",
+      "uses": "Les jeunes sporophores sont consommés dans certaines régions après cuisson ou salage, mais la chair est fade et de mauvaise qualité. Les champignons crus peuvent provoquer des troubles gastriques. Parmi les espèces noircissantes semblables figure la mortelle Russula subnigricans, d’où la nécessité d’une identification prudente.",
+      "confusion": "Russula nigricans a des lames plus épaisses et très espacées, et la chair rougit plus nettement avant de noircir. Russula densifolia et Russula acrifolia rougissent aussi d’abord et sont souvent plus âcres. Russula albonigra noircit d’emblée et a des lames plus serrées. Russula subnigricans est un sosie mortel d’Asie orientale dont la chair rougit et ne noircit pas toujours complètement.",
+      "notes": "L’UICN l’a classée en 2025 parmi les espèces de préoccupation mineure. La chair qui noircit lentement et les lames assez serrées la distinguent de ses proches parentes. L’odeur, lorsqu’elle est présente, est souvent comparée à celle d’un vieux fût de vin.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "russule brûlée"
+    },
+    "he": {
+      "description": "פטרייה נמוכה וכרסתנית היוצרת מיקוריזה חיצונית ביערות מחטניים חומציים וחוליים, בעיקר תחת אורן, גם תחת אשוחית ורק לעתים נדירות ליד עצים רחבי עלים. היא ידועה מחלק גדול של אירופה ומצפון אסיה. גופי הפרי מופיעים מיוני עד אוקטובר, ובעת פציעה או הזדקנות הם נצבעים לאט בוורוד ואחר כך באפור עד שחור.",
+      "cap": "הכובע בדרך כלל ברוחב 5–15 ס\"מ, ולעתים עד 20 ס\"מ. תחילה הוא קמור, אחר כך שקוע עד דמוי משפך, ובצעירים בעל שוליים עבים ומגולגלים פנימה. המשטח היבש והעמום חלק או קטיפתי דק, לבן מלוכלך עד קרם, אחר כך חום-אפור או חום פיח, לעתים קרובות עם לכלוך נדבק, ובעת פציעה הוא משחים או משחיר לאט.",
+      "hymenium": "הזימים צפופים למדי, עבים למדי, לעתים מפוצלים וצמודים או יורדים מעט. הם לבן-קרם ובעת פציעה הופכים לחום-אדמדם ואחר כך לשחור. הם צפופים יותר מהזימים המרווחים מאוד של Russula nigricans.",
+      "stipe": "הרגל בדרך כלל באורך 4–10 ס\"מ ובעובי 1.5–3 ס\"מ, כרסתנית, גלילית או מעט מתחדדת, לבנה עד קרם מלוכלך ולעתים קרובות מנומרת בחום או בשחור לכיוון הבסיס. היא מוצקה וחסרת טבעת.",
+      "flesh": "הבשר עבה, מוצק ולבן. בחיתוך או בפציעה הוא הופך לאט לורוד חיוור או לאדמדם, אחר כך לאפור עד שחור. הריח חלש, לעתים כשל חביות יין ישנות או מרתף לח; הטעם עדין או מעט מר או חריף.",
+      "sporePrint": "טביעת הנבגים לבנה עד קרם.",
+      "habitat": "היא יוצרת מיקוריזה חיצונית, בעיקר עם אורן בקרקעות חוליות חומציות, גם עם אשוחית, לעתים נדירות עם אשוח, ורק באופן חריג תחת עצים רחבי עלים. גופי הפרי מופיעים על הקרקע, בטחב או בשלכת מחטים של יערות מחטניים, מיוני עד אוקטובר.",
+      "uses": "גופי פרי צעירים נאכלים באזורים מסוימים לאחר בישול או המלחה, אך הבשר תפל ודל באיכותו. פטריות חיים עלולות לגרום לאי-נוחות קיבה. בין המינים המשחירים הדומים נמצאת גם Russula subnigricans הקטלנית, ולכן נחוץ זיהוי זהיר.",
+      "confusion": "ל-Russula nigricans זימים עבים יותר ומרווחים מאוד, והבשר מאדים בבירור יותר לפני ההשחרה. גם Russula densifolia ו-Russula acrifolia מאדימים תחילה ולעתים קרובות חריפים יותר. Russula albonigra משחירה מיד וזימיה צפופים יותר. Russula subnigricans היא כפילה קטלנית ממזרח אסיה שבשרה מאדים ולא תמיד משחיר לגמרי.",
+      "notes": "ארגון IUCN העריך אותה ב-2025 כמין שאינו מעורר דאגה. הבשר המשחיר לאט והזימים הצפופים למדי מבחינים אותה מקרוביה. הריח, כשהוא קיים, מושווה לעתים קרובות לחבית יין ישנה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "अम्लीय, रेतीले शंकुधारी वनों का एक गठीला एक्टोमाइकोराइजल कवक, अधिकतर चीड़ के नीचे, स्प्रूस के नीचे भी, और चौड़ी पत्ती वाले वृक्षों के पास केवल अपवादस्वरूप। यह यूरोप के बड़े भाग और उत्तरी एशिया से दर्ज है। फलन-काय जून से अक्टूबर तक निकलते हैं और चोट लगने या बूढ़े होने पर धीरे गुलाबी, फिर धूसर से काले हो जाते हैं।",
+      "cap": "टोपी आमतौर पर 5–15 सेमी चौड़ी होती है, कभी-कभी 20 सेमी तक। पहले यह उत्तल होती है, बाद में दबी या कीपाकार, युवा अवस्था में मोटी, अंदर मुड़ी किनारी के साथ। सूखी, मंद सतह चिकनी या महीन मखमली, मैली सफेद से क्रीम, बाद में धूसर-भूरी या कालिख-भूरी होती है, अक्सर चिपके मलबे के साथ, और चोट लगने पर धीरे भूरी से काली हो जाती है।",
+      "hymenium": "गिल अपेक्षाकृत घनी, अपेक्षाकृत मोटी, कभी-कभी शाखित, और जुड़ी या थोड़ी नीचे की ओर जाती हैं। वे क्रीम-सफेद हैं और चोट लगने पर लाल-भूरी, फिर काली हो जाती हैं। वे Russula nigricans की बहुत दूर-दूर गिलों से अधिक घनी हैं।",
+      "stipe": "डंठल आमतौर पर 4–10 सेमी लंबा और 1.5–3 सेमी मोटा, गठीला, बेलनाकार या थोड़ा पतला, सफेद से मैला क्रीम और आधार की ओर अक्सर भूरे या काले धब्बे वाला होता है। यह दृढ़ है और इसमें वलय नहीं होता।",
+      "flesh": "मांस मोटा, दृढ़ और सफेद होता है। काटने या चोट लगने पर यह धीरे फीका गुलाबी या लालिमा लिये, फिर धूसर से काला हो जाता है। गंध हल्की है, कभी-कभी पुरानी शराब की पिपों या नम तहखाने जैसी; स्वाद मृदु या थोड़ा कड़वा या तीखा होता है।",
+      "sporePrint": "बीजाणु-छाप सफेद से क्रीम होती है।",
+      "habitat": "यह एक्टोमाइकोराइजल है, मुख्यतः अम्लीय रेतीली मिट्टी पर चीड़ के साथ, स्प्रूस के साथ भी, कभी-कभी देवदार के साथ, और केवल अपवादस्वरूप चौड़ी पत्ती वाले वृक्षों के नीचे। फलन-काय जून से अक्टूबर तक शंकुधारी वनों के काई या सुई-पतझड़ पर भूमि पर निकलते हैं।",
+      "uses": "कुछ क्षेत्रों में युवा फलन-काय पकाने या नमक लगाने के बाद खाए जाते हैं, पर मांस फीका और निम्न गुणवत्ता का होता है। कच्चे मशरूम पेट की परेशानी पैदा कर सकते हैं। समान काले पड़ने वाले जातियों में घातक Russula subnigricans भी है, इसलिए सावधानीपूर्वक पहचान ज़रूरी है।",
+      "confusion": "Russula nigricans की गिल मोटी और बहुत दूर-दूर हैं, और मांस काले पड़ने से पहले अधिक स्पष्ट रूप से लाल होता है। Russula densifolia और Russula acrifolia भी पहले लाल होते हैं और अक्सर अधिक तीखे होते हैं। Russula albonigra सीधे काली हो जाती है और उसकी गिल अधिक घनी होती हैं। Russula subnigricans पूर्वी एशिया की एक घातक मिलती-जुलती जाति है जिसका मांस लाल होता है और हमेशा पूरी तरह काला नहीं पड़ता।",
+      "notes": "आईयूसीएन ने 2025 में इसे न्यूनतम चिंता वाला आँका। धीरे काला पड़ता मांस और अपेक्षाकृत घनी गिल इसे निकट संबंधियों से अलग करती हैं। गंध, जब हो, अक्सर पुरानी शराब की पिपे से तुलना की जाती है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Zdepast ektomikorizni gljiva kiselih, pjeskovitih crnogoričnih šuma, najčešće pod borom, također pod smrekom i samo iznimno uz listače. Poznata je iz velikog dijela Europe i sa sjeverne Azije. Plodna tijela pojavljuju se od lipnja do listopada i pri ozljedi ili starenju polako poružiče, zatim posive do pocrne.",
+      "cap": "Klobuk je obično 5–15 cm širok, ponekad do 20 cm. Isprva je ispupčen, kasnije udubljen do lijevkast, u mladosti s debelim, podvinutim rubom. Suha, mat površina je glatka ili fino baršunasta, prljavo bijela do krem, kasnije sivosmeđa ili čađavosmeđa, često s prilijepljenim nečistoćama, te pri ozljedi polako posmeđi do pocrni.",
+      "hymenium": "Listići su prilično gusti, prilično debeli, ponekad račvasti i prirasli ili malo silazni. Kremasto su bijeli i pri ozljedi pocrvene, zatim pocrne. Gušći su od vrlo rijetkih listića vrste Russula nigricans.",
+      "stipe": "Stručak je obično 4–10 cm dug i 1,5–3 cm debel, zdepast, valjkast ili malo sužen, bijel do prljavo krem i prema dnu često smeđe ili crno mrljast. Čvrst je i bez prstena.",
+      "flesh": "Meso je debelo, čvrsto i bijelo. Pri presjeku ili ozljedi polako poblijedi u ružičasto ili pocrveni, zatim posivi do pocrni. Miris je slab, ponekad poput starih vinskih bačava ili vlažnog podruma; okus je blag ili malo gorak ili ljut.",
+      "sporePrint": "Otisak sporâ je bijel do krem.",
+      "habitat": "Ektomikorizna je, uglavnom s borom na kiselim pjeskovitim tlima, također sa smrekom, rijetko s jelom, i samo iznimno pod listačama. Plodna tijela rastu na tlu u mahovini ili u četinjačkoj stelji crnogoričnih šuma od lipnja do listopada.",
+      "uses": "Mlada plodna tijela u nekim se krajevima jedu nakon kuhanja ili soljenja, ali meso je bljutavo i slabe kvalitete. Sirove gljive mogu izazvati želučane tegobe. Među sličnim crnjejućim vrstama je i smrtonosno otrovna Russula subnigricans, stoga je potrebna oprezna identifikacija.",
+      "confusion": "Russula nigricans ima deblje, vrlo rijetke listiće, a meso prije crnjenja izrazitije pocrveni. Russula densifolia i Russula acrifolia također najprije pocrvene i često su ljuće. Russula albonigra pocrni odmah i ima gušće listiće. Russula subnigricans smrtonosno je otrovna istočnoazijska slična vrsta čije meso pocrveni i ne pocrni uvijek potpuno.",
+      "notes": "IUCN ju je 2025. ocijenio najmanje ugroženom. Polako crnjejuće meso i prilično gusti listići razlikuju je od bliskih srodnika. Miris se, ako je prisutan, često uspoređuje sa starom vinskom bačvom.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Zömök, ektomikorrhizás gomba savanyú, homokos fenyvesekben, leginkább erdei fenyő, emellett luc alatt, és csak kivételesen lomblevelű fák mellett. Európa nagy részéről és Észak-Ázsiából ismert. A termőtestek júniustól októberig jelennek meg, és sérüléskor vagy öregen lassan rózsaszínűre, majd szürkére vagy feketére színeződnek.",
+      "cap": "A kalap általában 5–15 cm széles, néha 20 cm-ig. Először domború, később benyomott vagy tölcséres, fiatalon vastag, begöngyölt széllel. A száraz, matt felszín sima vagy finoman bársonyos, piszkosfehér vagy krémszínű, később szürkésbarna vagy kormosbarna, gyakran rátapadt törmelékkel, és sérüléskor lassan barnul vagy feketedik.",
+      "hymenium": "A lemezek meglehetősen sűrűk, meglehetősen vastagok, néha villásak, a tönkhöz nőttek vagy kissé lefutók. Krémfehérek, sérüléskor vörösbarnára, majd feketére színeződnek. Sűrűbbek, mint a Russula nigricans nagyon ritkán álló lemezei.",
+      "stipe": "A tönk általában 4–10 cm hosszú és 1,5–3 cm vastag, zömök, hengeres vagy kissé keskenyedő, fehér vagy piszkos krémszínű, a töve felé gyakran barnán vagy feketén foltos. Szilárd, gallérja nincs.",
+      "flesh": "A hús vastag, szilárd és fehér. Vágáskor vagy sérüléskor lassan halványrózsaszínűre vagy vörösesre, majd szürkére vagy feketére változik. Az illata gyenge, néha öreg hordóra vagy nyirkos pincére emlékeztet; az íze enyhe, vagy kissé keserű vagy csípős.",
+      "sporePrint": "A spórapor fehér vagy krémszínű.",
+      "habitat": "Ektomikorrhizás, elsősorban erdei fenyővel savanyú homokos talajon, emellett luccal, ritkán jegenyefenyővel, és csak kivételesen lomblevelű fák alatt. A termőtestek júniustól októberig nőnek a talajon, mohában vagy tűlevélavariban, fenyvesekben.",
+      "uses": "A fiatal termőtesteket egyes vidékeken főzés vagy sózás után eszik, de a hús ízetlen és gyenge minőségű. Nyersen gyomorpanaszt okozhat. A hasonló feketedő fajok között ott van a halálosan mérgező Russula subnigricans, ezért óvatos határozás szükséges.",
+      "confusion": "A Russula nigricans lemezei vastagabbak és nagyon ritkán állók, húsa az elsötétedés előtt erősebben vörösödik. A Russula densifolia és a Russula acrifolia szintén először vörösödik, és gyakran csípősebb. A Russula albonigra azonnal feketedik, és lemezei sűrűbbek. A Russula subnigricans halálosan mérgező kelet-ázsiai hasonmás, amelynek húsa vörösödik, és nem mindig feketedik teljesen.",
+      "notes": "A Természetvédelmi Világszövetség 2025-ben nem fenyegetettnek minősítette. A lassan feketedő hús és a meglehetősen sűrű lemezek megkülönböztetik közeli rokonaitól. Az illatot, ha van, gyakran öreg boroshordóhoz hasonlítják.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "sötétedő galambgomba"
+    },
+    "id": {
+      "description": "Jamur ektomikoriza yang kekar di hutan konifer berpasir yang masam, paling sering di bawah pinus, juga di bawah cemara, dan hanya secara luar biasa di dekat pohon daun lebar. Dikenal dari sebagian besar Eropa dan dari Asia utara. Tubuh buah muncul dari Juni hingga Oktober dan perlahan berubah menjadi merah muda, lalu abu-abu hingga hitam, ketika memar atau menua.",
+      "cap": "Tudung biasanya berdiameter 5–15 cm, kadang hingga 20 cm. Mula-mula cembung, kemudian cekung hingga berbentuk corong, ketika muda dengan tepi yang tebal dan terlipat ke dalam. Permukaan kering dan buram itu licin atau berbulu halus, putih kotor hingga krem, kemudian cokelat keabuan atau cokelat jelaga, sering dengan serasah yang menempel, dan perlahan menjadi cokelat hingga hitam ketika terluka.",
+      "hymenium": "Insang cukup rapat, cukup tebal, kadang bercabang, dan melekat atau sedikit menurun. Warnanya putih krem dan menjadi cokelat kemerahan, kemudian hitam, ketika terluka. Insang itu lebih rapat daripada insang Russula nigricans yang sangat jarang.",
+      "stipe": "Batang biasanya 4–10 cm panjangnya dan 1,5–3 cm tebalnya, kekar, silindris atau sedikit meruncing, putih hingga krem kotor, dan ke arah pangkal sering berbercak cokelat atau hitam. Batang itu kokoh dan tanpa cincin.",
+      "flesh": "Daging tebal, kokoh, dan putih. Ketika dipotong atau terluka, daging itu perlahan menjadi merah muda pucat atau kemerahan, kemudian abu-abu hingga hitam. Baunya lemah, kadang seperti tong anggur tua atau gudang basah; rasanya lembut atau sedikit pahit atau pedas.",
+      "sporePrint": "Cetakan spora berwarna putih hingga krem.",
+      "habitat": "Bersifat ektomikoriza, terutama dengan pinus pada tanah berpasir yang masam, juga dengan cemara, jarang dengan fir, dan hanya secara luar biasa di bawah pohon daun lebar. Tubuh buah muncul di tanah, di lumut atau serasah jarum hutan konifer, dari Juni hingga Oktober.",
+      "uses": "Tubuh buah muda di beberapa daerah dimakan setelah direbus atau diasinkan, tetapi dagingnya hambar dan bermutu rendah. Jamur mentah dapat menyebabkan gangguan perut. Di antara spesies penghitam yang serupa terdapat Russula subnigricans yang mematikan, jadi identifikasi yang hati-hati sangat penting.",
+      "confusion": "Russula nigricans memiliki insang yang lebih tebal dan sangat jarang, dan dagingnya merona lebih jelas sebelum menghitam. Russula densifolia dan Russula acrifolia juga merona lebih dahulu dan sering lebih pedas. Russula albonigra menghitam langsung dan insangnya lebih rapat. Russula subnigricans adalah sosok mirip yang mematikan dari Asia Timur, yang dagingnya merona dan tidak selalu menghitam sepenuhnya.",
+      "notes": "IUCN menilainya pada 2025 sebagai berisiko rendah. Daging yang menghitam secara perlahan dan insang yang cukup rapat membedakannya dari kerabat dekat. Bau, bila ada, sering dibandingkan dengan tong anggur tua.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo ectomicorrizico tozzo dei boschi di conifere acidi e sabbiosi, soprattutto sotto pino, anche sotto abete rosso e solo eccezionalmente presso latifoglie. È segnalato in gran parte d’Europa e nell’Asia settentrionale. I corpi fruttiferi compaiono da giugno a ottobre e, se ammaccati o vecchi, virano lentamente al rosa e poi dal grigio al nero.",
+      "cap": "Il cappello misura in genere 5–15 cm di diametro, a volte fino a 20 cm. È prima convesso, poi depresso o imbutiforme, con il margine spesso e involuto da giovane. La superficie secca e opaca è liscia o finemente vellutata, bianco sporco o crema, poi bruno-grigiastra o bruno fuligginosa, spesso con detriti aderenti, e al tocco imbrunisce o annerisce lentamente.",
+      "hymenium": "Le lamelle sono piuttosto fitte, piuttosto spesse, a volte forcate, adnate o lievemente decorrenti. Sono bianco-crema e al tocco diventano bruno-rossastre, poi nere. Sono più fitte delle lamelle molto spaziate di Russula nigricans.",
+      "stipe": "Il gambo misura in genere 4–10 cm di lunghezza e 1,5–3 cm di spessore; è tozzo, cilindrico o un po’ attenuato, bianco o crema sporco, spesso macchiato di bruno o di nero verso la base. È sodo e privo di anello.",
+      "flesh": "La carne è spessa, soda e bianca. Al taglio o alla pressatura vira lentamente al rosa pallido o al rossastro, poi al grigio e al nero. L’odore è debole, a volte di vecchie botti da vino o di cantina umida; il sapore è mite o lievemente amaro o acre.",
+      "sporePrint": "La sporata è bianca o crema.",
+      "habitat": "È ectomicorrizico, soprattutto con pino su suoli sabbiosi acidi, anche con abete rosso, raramente con abete bianco, e solo eccezionalmente sotto latifoglie. I corpi fruttiferi compaiono al suolo, nel muschio o nella lettiera di aghi dei boschi di conifere, da giugno a ottobre.",
+      "uses": "In alcune regioni i corpi giovani si mangiano dopo cottura o salatura, ma la carne è insipida e di scarsa qualità. I funghi crudi possono provocare disturbi gastrici. Tra le specie annerenti simili c’è la mortale Russula subnigricans, per cui è indispensabile un’identificazione prudente.",
+      "confusion": "Russula nigricans ha lamelle più spesse e molto spaziate, e la carne arrossa più nettamente prima di annerire. Russula densifolia e Russula acrifolia arrossano anch’esse per prime e sono spesso più acri. Russula albonigra annerisce direttamente e ha lamelle più fitte. Russula subnigricans è un sosia mortale dell’Asia orientale la cui carne arrossa e non sempre annerisce del tutto.",
+      "notes": "Nel 2025 la IUCN l’ha valutata a rischio minimo. La carne che annerisce lentamente e le lamelle piuttosto fitte la distinguono dai parenti stretti. L’odore, quando presente, è spesso paragonato a quello di una vecchia botte da vino.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "酸性の砂質針葉樹林に生じるがっしりした外生菌根菌で、主にマツの下、ときにトウヒの下、落葉樹の近くではごくまれに見られる。ヨーロッパの広い範囲と北アジアから記録される。子実体は6月から10月に現れ、傷つくか古くなるとゆっくり桃色、次いで灰色から黒色に変わる。",
+      "cap": "傘はふつう直径5–15 cm、ときに20 cmに達する。初めはまんじゅう形、のちに中央がくぼみ、漏斗形になり、若いときは縁が厚く内巻きになる。表面は乾き、くすんで、平滑または細かいビロード状、汚白色からクリーム色、のちに灰褐色または煤褐色となり、しばしばごみが付着し、傷つくとゆっくり褐色から黒色に変わる。",
+      "hymenium": "ひだはかなり密、やや厚く、ときに分岐し、上生またはやや垂生。クリーム色を帯びた白で、傷つくと赤褐色、次いで黒色になる。ひだは Russula nigricans の非常に疎らなひだよりも密である。",
+      "stipe": "柄はふつう長さ4–10 cm、太さ1.5–3 cm、がっしりし、円柱形またはやや細まり、白色から汚クリーム、基部に向かってしばしば褐色または黒色の斑がある。質は堅く、つばはない。",
+      "flesh": "肉は厚く、堅く、白い。切ったり傷つけたりすると、ゆっくり淡桃色または赤みを帯び、次いで灰色から黒色になる。においは弱く、ときに古いワイン樽や湿った地下室のようである。味は温和、またはわずかに苦いか辛い。",
+      "sporePrint": "胞子紋は白色からクリーム色。",
+      "habitat": "外生菌根菌で、主に酸性の砂質土壌のマツと、またトウヒと、まれにモミと共生し、落葉樹の下ではごくまれである。子実体は6月から10月に、針葉樹林のコケや落葉の地上に生じる。",
+      "uses": "若い子実体は、一部の地域では加熱や塩漬けのあと食用にされるが、肉は味が薄く品質も低い。生食は胃腸の不調を起こすことがある。似た黒変種には致死性の Russula subnigricans があるため、慎重な同定が欠かせない。",
+      "confusion": "Russula nigricans はより厚く非常に疎らなひだをもち、肉は黒変する前によりはっきり赤変する。Russula densifolia と Russula acrifolia もまず赤変し、しばしばより辛い。Russula albonigra は直接黒変し、ひだはより密である。Russula subnigricans は東アジア産の致死性の類似種で、肉は赤変し、必ずしも完全には黒変しない。",
+      "notes": "IUCNは2025年に本種を低懸念と評価した。ゆっくり黒変する肉とかなり密なひだが近縁種との区別点になる。においがあるときは、古いワイン樽にたとえられることが多い。",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "コゲイロハツタケ"
+    },
+    "ko": {
+      "description": "산성 사질 침엽수림의 튼실한 외생균근성 버섯으로, 주로 소나무 아래, 또한 가문비나무 아래, 활엽수 근처에서는 아주 드물게 난다. 유럽 대부분과 북아시아에서 기록된다. 자실체는 6월부터 10월까지 나오며, 상처 나거나 늙으면 천천히 분홍으로, 이어 회색에서 검은색으로 변한다.",
+      "cap": "갓은 보통 지름 5–15 cm이고 때로는 20 cm에 이른다. 처음에는 볼록하다가 나중에 움푹 들어가거나 깔때기 모양이 되며, 어릴 때는 두껍고 안쪽으로 말린 가장자리를 갖는다. 건조하고 무딘 표면은 밋밋하거나 곱게 벨벳같고, 더러운 흰색에서 크림색, 나중에 회갈색 또는 그을음갈색이 되며, 종종 찌꺼기가 붙고, 상처 나면 천천히 갈색에서 검은색으로 변한다.",
+      "hymenium": "주름은 꽤 빽빽하고 꽤 두꺼우며, 때로 갈라지고, 붙은형이거나 약간 내린형이다. 크림색을 띤 흰색이며 상처 나면 적갈색, 이어 검은색이 된다. 주름은 Russula nigricans의 매우 성긴 주름보다 더 빽빽하다.",
+      "stipe": "대는 보통 길이 4–10 cm, 두께 1.5–3 cm로 튼실하고, 원기둥이거나 약간 가늘어지며, 흰색에서 더러운 크림색이고 밑쪽으로 종종 갈색이나 검은색 얼룩이 있다. 단단하고 고리는 없다.",
+      "flesh": "살은 두껍고 단단하며 하얗다. 자르거나 상처 나면 천천히 연한 분홍이나 붉은빛을 띠었다가 회색에서 검은색으로 변한다. 냄새는 약하며 때로는 낡은 와인 통이나 습한 지하실 같고, 맛은 온화하거나 약간 쓰거나 맵다.",
+      "sporePrint": "포자무늬는 흰색에서 크림색이다.",
+      "habitat": "외생균근성이며, 주로 산성 사질 토양의 소나무와, 또한 가문비나무, 드물게 전나무와 함께하고, 활엽수 아래에서는 아주 드물다. 자실체는 6월부터 10월까지 침엽수림의 이끼나 침엽 낙엽 위 땅에서 난다.",
+      "uses": "어린 자실체는 일부 지역에서 삶거나 소금에 절인 뒤 먹지만, 살은 싱겁고 품질이 낮다. 생으로 먹으면 위장 장애를 일으킬 수 있다. 비슷한 검어지는 종 가운데 치명적인 Russula subnigricans가 있으므로 신중한 동정이 꼭 필요하다.",
+      "confusion": "Russula nigricans는 더 두껍고 매우 성긴 주름을 지니며, 살이 검어지기 전에 더 뚜렷이 붉어진다. Russula densifolia와 Russula acrifolia도 먼저 붉어지고 종종 더 맵다. Russula albonigra는 바로 검어지고 주름이 더 빽빽하다. Russula subnigricans는 살이 붉어지고 언제나 완전히 검어지지는 않는, 동아시아의 치명적인 닮은꼴이다.",
+      "notes": "IUCN은 2025년에 이 종을 관심 필요 낮음으로 평가했다. 천천히 검어지는 살과 꽤 빽빽한 주름이 가까운 친척과 구별된다. 냄새가 있을 때는 낡은 와인 통에 자주 비유된다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Stambus ektomikorizinis grybas rūgščiose, smėlingose spygliuočių giriose, dažniausiai po pušimi, taip pat po egle ir tik išimtinai prie lapuočių. Žinomas didelėje Europos dalyje ir Šiaurės Azijoje. Vaisiakūniai pasirodo nuo birželio iki spalio ir sužeisti ar pasenę lėtai parausta, paskui papilkėja iki pajuoduoja.",
+      "cap": "Kepurėlė paprastai būna 5–15 cm pločio, kartais iki 20 cm. Iš pradžių ji išgaubta, vėliau įdubusi ar piltuviška, jauna su storu, užsirietusiu kraštu. Sausas, matinis paviršius lygus ar smulkiai aksomiškas, nešvariai baltas iki kreminio, vėliau pilkai rudas ar suodžiai rudas, dažnai su prilipusiomis šiukšlėmis, ir sužeistas lėtai paruduoja ar pajuoduoja.",
+      "hymenium": "Lakelės gana tankios, gana storos, kartais šakotos ir priaugusios ar šiek tiek nuaugusios. Jos kreminės baltos ir sužeistos parausta, paskui pajuoduoja. Jos tankesnės nei labai retai išsidėsčiusios Russula nigricans lakelės.",
+      "stipe": "Kotas paprastai būna 4–10 cm ilgio ir 1,5–3 cm storio, stambus, cilindriškas ar šiek tiek smailėjantis, baltas iki nešvariai kreminio ir link pagrindo dažnai rudai ar juodai dėmėtas. Jis tvirtas ir be žiedo.",
+      "flesh": "Mėsa stora, tvirta ir balta. Perpjauta ar sužeista ji lėtai nublanksta į rožinę ar parausta, paskui papilkėja iki pajuoduoja. Kvapas silpnas, kartais kaip senų vyno statinių ar drėgno rūsio; skonis švelnus arba šiek tiek kartus ar aitrus.",
+      "sporePrint": "Sporų milteliai balti iki kreminių.",
+      "habitat": "Jis ektomikorizinis, daugiausia su pušimi rūgščiuose smėlio dirvožemiuose, taip pat su egle, retai su kėniu ir tik išimtinai po lapuočiais. Vaisiakūniai auga ant žemės samanose ar spygliuočių girių paklotėje nuo birželio iki spalio.",
+      "uses": "Jauni vaisiakūniai kai kuriose vietose valgomi po virimo ar sūdymo, bet mėsa blanki ir prastos kokybės. Žali grybai gali sukelti skrandžio sutrikimų. Tarp panašių juodėjančių rūšių yra ir mirtinai nuodingoji Russula subnigricans, todėl būtinas atsargus nustatymas.",
+      "confusion": "Russula nigricans turi storesnes, labai retai išsidėsčiusias lakemes, o mėsa prieš pajuodavimą ryškiau parausta. Russula densifolia ir Russula acrifolia taip pat pirma parausta ir dažnai būna aitresnės. Russula albonigra iškart pajuoduoja ir turi tankesnes lakemes. Russula subnigricans yra mirtinai nuodinga Rytų Azijos panaši rūšis, kurios mėsa parausta ir ne visada visiškai pajuoduoja.",
+      "notes": "IUCN 2025 m. ją įvertino kaip neskelbtiną rūšį. Lėtai juodėjanti mėsa ir gana tankios lakelės skiria ją nuo artimų giminaičių. Kvapas, jei yra, dažnai lyginamas su sena vyno statine.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "juodmėsė ūmėdė"
+    },
+    "lv": {
+      "description": "Resna ektomikorizu veidojoša sēne skābos, smilšainos skujkoku mežos, visbiežāk zem priedes, arī zem egles un tikai izņēmuma kārtā pie lapu kokiem. Tā ir zināma lielā Eiropas daļā un Ziemeļāzijā. Augļķermeņi parādās no jūnija līdz oktobrim un, ievainoti vai novecojot, lēni iekrāsojas rozā, pēc tam pelēkā līdz melnā krāsā.",
+      "cap": "Cepurīte parasti ir 5–15 cm plata, reizēm līdz 20 cm. Sākumā tā ir izliekta, vēlāk ieliekta vai piltuvveida, jaunībā ar biezu, ierullētu malu. Sausā, matētā virsma ir gluda vai smalki samtaina, netīri balta līdz krēmkrāsas, vēlāk pelēkbrūna vai kvēpbrūna, bieži ar pielipušiem netīrumiem, un ievainojuma vietā lēni brūnē vai kļūst melna.",
+      "hymenium": "Lapiņas ir diezgan biezas, diezgan resnas, reizēm sazarotas un pieaugušas vai nedaudz nolaidenas. Tās ir krēmbaltas un ievainojuma vietā kļūst sarkanbrūnas, pēc tam melnas. Tās ir biezāk stāvošas nekā ļoti reti novietotās Russula nigricans lapiņas.",
+      "stipe": "Kātiņš parasti ir 4–10 cm garš un 1,5–3 cm resns, resns, cilindrisks vai nedaudz sašaurināts, balts līdz netīri krēmkrāsas un pret pamatni bieži brūni vai melni plankumains. Tas ir stingrs un bez gredzena.",
+      "flesh": "Mīkstums ir biezs, stingrs un balts. Pārgriežot vai ievainojot tas lēni kļūst bāli rozā vai sārts, pēc tam pelēks līdz melns. Smarža ir vāja, reizēm kā vecām vīna mucām vai mitram pagrabam; garša ir maiga vai nedaudz rūgta vai asa.",
+      "sporePrint": "Sporu putekļi ir balti līdz krēmkrāsas.",
+      "habitat": "Tā ir ektomikorizu veidojoša, galvenokārt ar priedi uz skābām smilšu augsnēm, arī ar egli, reti ar baltegles un tikai izņēmuma kārtā zem lapu kokiem. Augļķermeņi aug uz zemes sūnās vai skuju koku mežu nobirās no jūnija līdz oktobrim.",
+      "uses": "Jaunus augļķermeņus dažos apvidos ēd pēc vārīšanas vai sālīšanas, taču mīkstums ir pliekans un sliktas kvalitātes. Jēlas sēnes var izraisīt kuņģa traucējumus. Starp līdzīgām melnējošām sugām ir arī nāvējoši indīgā Russula subnigricans, tāpēc vajadzīga piesardzīga noteikšana.",
+      "confusion": "Russula nigricans ir resnākas, ļoti reti novietotas lapiņas, un mīkstums pirms samelnošanas izteiktāk sarkt. Russula densifolia un Russula acrifolia arī vispirms sarkt un bieži ir asākas. Russula albonigra kļūst melna uzreiz un tai ir biezāk stāvošas lapiņas. Russula subnigricans ir nāvējoši indīgs Austrumāzijas līdzinieks, kura mīkstums sarkt un ne vienmēr pilnībā samelno.",
+      "notes": "IUCN 2025. gadā novērtēja to kā vismazāk apdraudētu. Lēni melnējošais mīkstums un diezgan biezās lapiņas atšķir to no tuviem radiniekiem. Smaržu, ja tā ir, bieži salīdzina ar vecu vīna mucu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "tumšā bērzlape"
+    },
+    "nl": {
+      "description": "Een forse ectomycorrhizavormende paddenstoel van zure, zandige naaldbossen, vooral onder den, ook onder spar en slechts bij uitzondering bij loofbomen. Hij is bekend uit een groot deel van Europa en uit Noord-Azië. De vruchtlichamen verschijnen van juni tot oktober en verkleuren bij kneuzing of ouderdom langzaam roze, daarna grijs tot zwart.",
+      "cap": "De hoed is meestal 5–15 cm breed, soms tot 20 cm. Hij is eerst gewelfd, later ingedeukt tot trechtervormig, jong met een dikke, ingerolde rand. Het droge, matte oppervlak is glad of fijn fluwelig, vuilwit tot roomkleurig, later grijzig bruin of roetbruin, vaak met aanklevend vuil, en verkleurt bij beschadiging langzaam bruin tot zwart.",
+      "hymenium": "De lamellen staan vrij dicht, zijn nogal dik, soms gevorkt en aangehecht of iets aflopend. Ze zijn roomwit en worden bij kneuzing roodbruin, daarna zwart. Ze staan dichter dan de zeer wijd uiteenstaande lamellen van Russula nigricans.",
+      "stipe": "De steel is meestal 4–10 cm lang en 1,5–3 cm dik, fors, cilindrisch of iets versmald, wit tot vuil roomkleurig en naar de basis vaak bruin of zwart gevlekt. Hij is stevig en heeft geen ring.",
+      "flesh": "Het vlees is dik, stevig en wit. Bij doorsnijden of kneuzing wordt het langzaam bleekroze of roodachtig, daarna grijs tot zwart. De geur is zwak, soms als van oude wijnvaten of een vochtige kelder; de smaak is mild of iets bitter of scherp.",
+      "sporePrint": "Het sporenpoeder is wit tot roomkleurig.",
+      "habitat": "Hij is ectomycorrhizavormend, vooral met den op zure zandgrond, ook met spar, zelden met zilverspar, en slechts bij uitzondering onder loofbomen. De vruchtlichamen verschijnen van juni tot oktober op de grond in mos of naaldstrooisel van naaldbossen.",
+      "uses": "Jonge vruchtlichamen worden in sommige streken na koken of zouten gegeten, maar het vlees is flauw en van slechte kwaliteit. Rauwe paddenstoelen kunnen maagklachten veroorzaken. Tot de gelijkende zwartende soorten behoort de dodelijke Russula subnigricans, dus voorzichtige determinatie is essentieel.",
+      "confusion": "Russula nigricans heeft dikkere, wijd uiteenstaande lamellen, en het vlees roodt sterker voordat het zwart wordt. Russula densifolia en Russula acrifolia roden ook eerst en zijn vaak scherper. Russula albonigra verkleurt meteen zwart en heeft dichtere lamellen. Russula subnigricans is een dodelijke Oost-Aziatische lookalike waarvan het vlees roodt en niet altijd volledig zwart wordt.",
+      "notes": "De IUCN beoordeelde de soort in 2025 als niet bedreigd. Het langzaam zwartende vlees en de vrij dichte lamellen onderscheiden hem van naaste verwanten. De geur, indien aanwezig, wordt vaak vergeleken met een oud wijnvat.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "rookrussula"
+    },
+    "no": {
+      "description": "En kraftig ektomykorrhizadannende sopp i sure, sandete barskoger, særlig under furu, også under gran og bare unntaksvis ved løvtrær. Den er kjent fra store deler av Europa og fra Nord-Asia. Fruktlegemene kommer fra juni til oktober og farges langsomt rosa, deretter grå til svarte, når de knuses eller eldes.",
+      "cap": "Hatten er typisk 5–15 cm bred, av og til opptil 20 cm. Den er først hvelvet, senere nedtrykt til traktformet, som ung med tykk, innrullet rand. Den tørre, matte overflaten er glatt eller fint fløyelsaktig, skittenhvit til kremfarget, senere gråbrun eller sotbrun, ofte med vedhengende rusk, og den brunes eller svertes langsomt ved berøring.",
+      "hymenium": "Skivene er nokså tette, nokså tykke, av og til gaffeldelte og tilheftede eller litt nedløpende. De er kremhvite og blir rødbrune, deretter svarte, ved berøring. De står tettere enn de svært spredte skivene hos Russula nigricans.",
+      "stipe": "Stokken er typisk 4–10 cm lang og 1,5–3 cm tykk, kraftig, sylindrisk eller litt avsmalnende, hvit til skitten kremfarget og ofte brun- eller svartflekket mot basis. Den er fast og uten ring.",
+      "flesh": "Kjøttet er tykt, fast og hvitt. Ved gjennomskjæring eller knusing blir det langsomt blekrosa eller rødlig, deretter grått til svart. Lukten er svak, av og til som av gamle vinfat eller en fuktig kjeller; smaken er mild eller litt bitter eller skarp.",
+      "sporePrint": "Sporepulveret er hvitt til kremfarget.",
+      "habitat": "Den er ektomykorrhizadannende, særlig med furu på sure sandjord, også med gran, sjelden med edelgran, og bare unntaksvis under løvtrær. Fruktlegemene står på bakken i mose eller barnålsstrø i barskog fra juni til oktober.",
+      "uses": "Unge fruktlegemer spises i noen områder etter koking eller salting, men kjøttet er flaut og av dårlig kvalitet. Rå sopper kan gi mageubehag. Blant lignende svertende arter er den dødelig giftige Russula subnigricans, så forsiktig bestemmelse er nødvendig.",
+      "confusion": "Russula nigricans har tykkere, svært spredte skiver, og kjøttet rødner tydeligere før det svertes. Russula densifolia og Russula acrifolia rødner også først og er ofte skarpere. Russula albonigra blir straks svart og har tettere skiver. Russula subnigricans er en dødelig giftig østasiatisk dobbeltgjenger hvis kjøtt rødner og ikke alltid svertes helt.",
+      "notes": "IUCN vurderte arten i 2025 som livskraftig. Det langsomt svertende kjøttet og de nokså tette skivene skiller den fra nære slektninger. Lukten, når den er til stede, sammenlignes ofte med et gammelt vinfat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "røykkremle"
+    },
+    "pl": {
+      "description": "Krępa, ektomykoryzowa grzybnia kwasnych, piaszczystych lasów iglastych, najczęściej pod sosną, także pod świerkiem i tylko wyjątkowo przy drzewach liściastych. Jest podawana z dużej części Europy i z północnej Azji. Owocniki pojawiają się od czerwca do października i przy uszkodzeniu lub starzeniu powoli różowieją, a następnie szarzeją aż do czerni.",
+      "cap": "Kapelusz ma zwykle 5–15 cm średnicy, czasem do 20 cm. Najpierw jest wypukły, później wklęsły do lejkowatego, u młodych z grubym, podwiniętym brzegiem. Sucha, matowa powierzchnia jest gładka lub delikatnie aksamitna, brudnobiała do kremowej, później szarobrązowa lub sadzawobrązowa, często z przylegającym ściółką, i przy uszkodzeniu powoli brązowieje aż do czerni.",
+      "hymenium": "Blaszki są dość gęste, dosyć grube, czasem rozwidlone, przyrośnięte lub lekko zbiegające. Są kremowobiałe i przy uszkodzeniu czerwienieją, a potem czernieją. Są gęstsze niż bardzo rzadko ustawione blaszki Russula nigricans.",
+      "stipe": "Trzon ma zwykle 4–10 cm długości i 1,5–3 cm grubości, jest krępy, walcowaty lub lekko zwężony, biały do brudnokremowego, często brązowo lub czarno zabarwiony ku podstawie. Jest twardy i bez pierścienia.",
+      "flesh": "Miąższ jest gruby, twardy i biały. Przy przecięciu lub uszkodzeniu powoli bledoróżowieje lub czerwienieje, potem szarzeje aż do czerni. Zapach jest słaby, czasem jak starych beczek po winie albo wilgotnej piwnicy; smak łagodny albo lekko gorzki lub ostry.",
+      "sporePrint": "Wysyp zarodników jest biały do kremowego.",
+      "habitat": "Jest ektomykoryzowa, głównie z sosną na kwasnych glebach piaszczystych, także ze świerkiem, rzadko z jodłą i tylko wyjątkowo pod drzewami liściastymi. Owocniki rosną na ziemi w mchu lub w ściółce iglastej lasów iglastych od czerwca do października.",
+      "uses": "Młode owocniki w niektórych regionach jada się po ugotowaniu lub soleniu, ale miąższ jest mdły i niskiej jakości. Surowe grzyby mogą powodować dolegliwości żołądkowe. Do podobnych czerniejących gatunków należy śmiertelnie trująca Russula subnigricans, dlatego potrzebne jest ostrożne oznaczenie.",
+      "confusion": "Russula nigricans ma grubsze, bardzo rzadko ustawione blaszki, a miąższ wyraźniej czerwienieje przed sczernieniem. Russula densifolia i Russula acrifolia również najpierw czerwienieją i bywają bardziej ostre. Russula albonigra czernieje od razu i ma gęstsze blaszki. Russula subnigricans to śmiertelnie trujący wschodnioazjatycki gatunek podobny, którego miąższ czerwienieje i nie zawsze całkowicie czernieje.",
+      "notes": "W 2025 roku IUCN uznała go za gatunek najmniejszej troski. Powoli czerniejący miąższ i dość gęste blaszki odróżniają go od bliskich krewnych. Zapach, jeśli występuje, często porównuje się do starej beczki po winie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "gołąbek podpalany"
+    },
+    "pt": {
+      "description": "Um fungo ectomicorrízico robusto de bosques de coníferas ácidos e arenosos, sobretudo sob pinheiro, também sob espruce e só excepcionalmente junto a árvores de folha larga. Está registado em grande parte da Europa e no norte da Ásia. Os corpos frutíferos aparecem de junho a outubro e tingem-se lentamente de rosa e depois de cinzento a negro quando são magoados ou envelhecem.",
+      "cap": "O chapéu mede tipicamente 5–15 cm de diâmetro, por vezes até 20 cm. É primeiro convexo, depois deprimido a infundibuliforme, com a margem espessa e enrolada nos jovens. A superfície seca e mate é lisa ou finamente aveludada, branco-sujo a creme, depois pardo-acinzentada ou pardo-fuliginosa, muitas vezes com detritos aderentes, e escurece lentamente para pardo ou negro ao toque.",
+      "hymenium": "As lâminas são bastante apertadas, bastante espessas, por vezes bifurcadas, adnatas ou ligeiramente decurrentes. São branco-creme e, ao toque, tornam-se pardo-avermelhadas e depois negras. Estão mais juntas do que as lâminas muito espaçadas de Russula nigricans.",
+      "stipe": "O pé mede tipicamente 4–10 cm de comprimento e 1,5–3 cm de espessura; é robusto, cilíndrico ou um pouco atenuado, branco a creme-sujo e muitas vezes manchado de pardo ou negro para a base. É firme e não tem anel.",
+      "flesh": "A carne é espessa, firme e branca. Ao corte ou ao magoar-se torna-se lentamente rosa-pálida ou avermelhada, depois cinzenta a negra. O cheiro é fraco, por vezes a pipas de vinho velhas ou a cave húmida; o sabor é suave ou ligeiramente amargo ou acre.",
+      "sporePrint": "A esporada é branca a creme.",
+      "habitat": "É ectomicorrízico, principalmente com pinheiro em solos arenosos ácidos, também com espruce, raramente com abeto, e só excepcionalmente sob árvores de folha larga. Os corpos frutíferos aparecem no solo, no musgo ou na folhada de agulhas de bosques de coníferas, de junho a outubro.",
+      "uses": "Em algumas regiões comem-se os corpos jovens depois de cozidos ou salgados, mas a carne é insípida e de má qualidade. Os fungos crus podem causar desconforto gástrico. Entre as espécies enegrecentes semelhantes está a mortal Russula subnigricans, pelo que é essencial uma identificação prudente.",
+      "confusion": "Russula nigricans tem lâminas mais espessas e muito espaçadas, e a carne avermelha mais claramente antes de enegrecer. Russula densifolia e Russula acrifolia também avermelham primeiro e são muitas vezes mais acres. Russula albonigra enegrece de imediato e tem lâminas mais apertadas. Russula subnigricans é um sósia mortal da Ásia Oriental cuja carne avermelha e nem sempre enegrece por completo.",
+      "notes": "A UICN classificou-a em 2025 como pouco preocupante. A carne que enegrece devagar e as lâminas bastante apertadas distinguem-na dos parentes próximos. O cheiro, quando presente, compara-se muitas vezes ao de uma pipa de vinho velha.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă ectomicorizantă îndesată a pădurilor de conifere acide și nisipoase, mai ales sub pin, și sub molid, și doar excepțional lângă foioase. Este semnalată în mare parte a Europei și în Asia de Nord. Carpoforele apar din iunie până în octombrie și se colorează încet în roz, apoi în cenușiu până la negru, când sunt zdrelite sau îmbătrânesc.",
+      "cap": "Pălăria are de obicei 5–15 cm în diametru, uneori până la 20 cm. Este mai întâi convexă, apoi depresă sau infundibuliformă, la tinerețe cu marginea groasă, răsfrântă înăuntru. Suprafața uscată, mată, este netedă sau fin catifelată, alb-murdară până la crem, apoi brun-cenușie sau brun-funinginoasă, adesea cu resturi aderente, și se brunifică sau se innegrește încet la atingere.",
+      "hymenium": "Lamelele sunt destul de dese, destul de groase, uneori furcate, adnate sau ușor decurente. Sunt alb-crem și la zdrelire devin brun-roșiatice, apoi negre. Sunt mai dese decât lamelele foarte spațiate ale lui Russula nigricans.",
+      "stipe": "Piciorul are de obicei 4–10 cm lungime și 1,5–3 cm grosime, este îndesat, cilindric sau ușor îngustat, alb până la crem murdar și adesea pătat cu brun sau negru spre bază. Este ferm și fără inel.",
+      "flesh": "Carnea este groasă, fermă și albă. La tăiere sau zdrelire devine încet roz-pală sau roșiatică, apoi cenușie până la neagră. Mirosul este slab, uneori de butoaie vechi de vin sau de pivniță umedă; gustul este blând sau ușor amar ori iute.",
+      "sporePrint": "Sporii în masă sunt albi până la crem.",
+      "habitat": "Este ectomicorizantă, mai ales cu pinul pe soluri nisipoase acide, și cu molidul, rar cu bradul, și doar excepțional sub foioase. Carpoforele apar pe sol, în mușchi sau în așternutul de ace al pădurilor de conifere, din iunie până în octombrie.",
+      "uses": "În unele regiuni carpoforele tinere se mănâncă după fierbere sau sărare, dar carnea este fadă și de calitate slabă. Ciupercile crude pot provoca disconfort gastric. Printre speciile înnegritoare asemănătoare se află și toxica mortală Russula subnigricans, de aceea este esențială o identificare precaută.",
+      "confusion": "Russula nigricans are lamele mai groase, foarte spațiate, iar carnea se înroșește mai evident înainte de a se innegri. Russula densifolia și Russula acrifolia se înroșesc și ele mai întâi și sunt adesea mai iuți. Russula albonigra se innegrește de la bun început și are lamele mai dese. Russula subnigricans este o dublură mortală din Asia de Est, a cărei carne se înroșește și nu se innegrește întotdeauna complet.",
+      "notes": "UICN a evaluat-o în 2025 ca nefiind amenințată. Carnea care se innegrește încet și lamelele destul de dese o deosebesc de rudele apropiate. Mirosul, când este prezent, este adesea comparat cu cel al unui butoi vechi de vin.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Коренастый эктомикоризный гриб кислых песчаных хвойных лесов, чаще всего под сосной, также под елью и лишь исключительно рядом с лиственными деревьями. Известен на большей части Европы и в Северной Азии. Плодовые тела появляются с июня по октябрь и при повреждении или старении медленно розовеют, затем сереют до чёрного.",
+      "cap": "Шляпка обычно 5–15 см в диаметре, иногда до 20 см. Сначала она выпуклая, позже вдавленная или воронковидная, в молодости с толстым, завёрнутым краем. Сухая матовая поверхность гладкая или тонко бархатистая, грязновато-белая до кремовой, позже серо-коричневая или сажисто-коричневая, часто с налипшим мусором, и при повреждении медленно буреет до чёрного.",
+      "hymenium": "Пластинки довольно частые, довольно толстые, иногда вильчатые, приросшие или слегка нисходящие. Они кремово-белые и при повреждении становятся красновато-коричневыми, затем чёрными. Они чаще, чем очень редкие пластинки Russula nigricans.",
+      "stipe": "Ножка обычно 4–10 см длиной и 1,5–3 см толщиной, коренастая, цилиндрическая или слегка суженная, белая до грязновато-кремовой и к основанию часто коричнево или чёрно пятнистая. Она плотная и без кольца.",
+      "flesh": "Мякоть толстая, плотная и белая. На разрезе или при повреждении она медленно бледно-розовеет или краснеет, затем сереет до чёрного. Запах слабый, иногда как у старых винных бочек или сырого подвала; вкус мягкий или слегка горький или едкий.",
+      "sporePrint": "Споровый порошок белый до кремового.",
+      "habitat": "Гриб эктомикоризный, главным образом с сосной на кислых песчаных почвах, также с елью, редко с пихтой и лишь исключительно под лиственными деревьями. Плодовые тела растут на земле во мху или в хвойной подстилке с июня по октябрь.",
+      "uses": "Молодые плодовые тела в некоторых местах едят после варки или засолки, но мякоть пресная и невысокого качества. Сырые грибы могут вызвать желудочное расстройство. Среди похожих чернеющих видов есть и смертельно ядовитая Russula subnigricans, поэтому нужна осторожная идентификация.",
+      "confusion": "У Russula nigricans пластинки толще и очень редкие, а мякоть перед почернением заметнее краснеет. Russula densifolia и Russula acrifolia тоже сначала краснеют и часто более едкие. Russula albonigra чернеет сразу и имеет более частые пластинки. Russula subnigricans — смертельно ядовитый восточноазиатский сходный вид, мякоть которого краснеет и не всегда полностью чернеет.",
+      "notes": "В 2025 году МСОП отнёс его к видам, вызывающим наименьшие опасения. Медленно чернеющая мякоть и довольно частые пластинки отличают его от близких родичей. Запах, если он есть, часто сравнивают со старой винной бочкой.",
+      "names": [
+        "Подгруздок опалённый"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Russula_adusta",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "Подгруздок чёрный"
+    },
+    "sk": {
+      "description": "Statná ektomykorízna huba kyslých piesočnatých ihličnatých lesov, najčastejšie pod borovicou, tiež pod smrekom a len výnimočne pri listnatých stromoch. Je známa z veľkej časti Európy a zo severnej Ázie. Plodnice sa objavujú od júna do októbra a pri poranení alebo starnutí pomaly ružovejú, potom sivú až černejú.",
+      "cap": "Klobúk je zvyčajne 5–15 cm široký, niekedy až 20 cm. Najprv je vypuklý, neskôr prehĺbený až lievikovitý, v mladosti s hrubým, zavinutým okrajom. Suchý, matný povrch je hladký alebo jemne zamatový, špinavobiely až krémový, neskôr sivohnedý alebo sadzovohnedý, často s prilepenými nečistotami, a pri poranení pomaly hnedne až černie.",
+      "hymenium": "Lupene sú pomerne husté, dosť hrubé, niekedy rozdvojené a pripojené alebo slabo zbiehavé. Sú krémovobiele a pri poranení červenohnednú, potom černejú. Sú hustejšie ako veľmi riedke lupene druhu Russula nigricans.",
+      "stipe": "Hlúbik je zvyčajne 4–10 cm dlhý a 1,5–3 cm hrubý, statný, valcovitý alebo slabo zúžený, biely až špinavokrémový a pri báze často hnedo alebo čierno sfarbený. Je pevný a bez prsteňa.",
+      "flesh": "Dužina je hrubá, pevná a biela. Pri reze alebo poranení pomaly bledoružovie alebo červenie, potom sivie až černie. Vôňa je slabá, niekedy pripomína staré sudy na víno alebo vlhkú pivnicu; chuť je mierna alebo slabo horká či štiplavá.",
+      "sporePrint": "Výtrusný prach je biely až krémový.",
+      "habitat": "Je ektomykorízna, predovšetkým s borovicou na kyslých piesočnatých pôdach, tiež so smrekom, zriedka s jedľou a len výnimočne pod listnatými stromami. Plodnice rastú na zemi v machu alebo v ihličí ihličnatých lesov od júna do októbra.",
+      "uses": "Mladé plodnice sa v niektorých oblastiach jedia po uvarení alebo nasolení, ale dužina je mdlá a nekvalitná. Surové plodnice môžu spôsobiť žalúdočné ťažkosti. Medzi podobné černejúce druhy patrí aj smrteľne jedovatá Russula subnigricans, preto je potrebná opatrná identifikácia.",
+      "confusion": "Russula nigricans má hrubšie, veľmi riedke lupene a dužina pred sčernením výraznejšie červená. Russula densifolia a Russula acrifolia tiež najprv červenajú a bývajú častejšie štiplavé. Russula albonigra pri poranení černie priamo a má hustejšie lupene. Russula subnigricans je smrteľne jedovatý východoázijský podobný druh, ktorého dužina červená a nie vždy úplne sčernie.",
+      "notes": "V roku 2025 ju IUCN zaradila medzi druhy najmenej ohrozené. Pomaly černejúca dužina a pomerne husté lupene ju odlišujú od blízkych príbuzných. Vôňa, ak je prítomná, sa často prirovnáva k starému sudu na víno.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/tabulka_obdobia_rastu.php?content=good&mode=&month=7",
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "plávka počerná"
+    },
+    "sl": {
+      "description": "Čokata ektomikorizna goba kislih, peščenih iglastih gozdov, najpogosteje pod borom, tudi pod smreko in le izjemoma ob listavcih. Znana je iz velikega dela Evrope in s severne Azije. Trosišča se pojavijo od junija do oktobra in se ob poškodbi ali staranju počasi prerosačijo, nato posivijo do počrnijo.",
+      "cap": "Klobuk je običajno 5–15 cm širok, včasih do 20 cm. Najprej je izbočen, pozneje vdrt do lijakast, v mladosti z debelim, podvitim robom. Suha, motna površina je gladka ali fino žametasta, umazano bela do kremasta, pozneje sivorjava ali sajasto rjava, pogosto s prilepljenimi nesnagam, in se ob poškodbi počasi porjavi do počrni.",
+      "hymenium": "Lističi so precej gosti, precej debeli, včasih razcepljeni in priraščeni ali rahlo splazeči. Kremasto so beli in se ob poškodbi pordečijo, nato počrnijo. Gostejši so od zelo redkih lističev vrste Russula nigricans.",
+      "stipe": "Bet je običajno 4–10 cm dolg in 1,5–3 cm debel, čokat, valjast ali rahlo zožen, bel do umazano kremast in proti dnišču pogosto rjavo ali črno lisast. Čvrst je in brez obročka.",
+      "flesh": "Meso je debelo, čvrsto in belo. Ob prerezu ali poškodbi počasi prebledi v rožnato ali pordeči, nato posivi do počrni. Vonj je šibek, včasih kot po starih vinskih sodih ali vlažni kleti; okus je blag ali rahlo grenek ali oster.",
+      "sporePrint": "Trosni prah je bel do kremast.",
+      "habitat": "Je ektomikorizna, predvsem z borom na kislih peščenih tleh, tudi s smreko, redko z jelko in le izjemoma pod listavci. Trosišča rastejo na tleh v mahu ali v igličevju iglastih gozdov od junija do oktobra.",
+      "uses": "Mlada trosišča v nekaterih krajih jedo po kuhanju ali soljenju, vendar je meso fadno in slabe kakovosti. Surove gobe lahko povzročijo želodčne težave. Med podobnimi črnečimi vrstami je tudi smrtno strupena Russula subnigricans, zato je potrebna previdna določitev.",
+      "confusion": "Russula nigricans ima debelejše, zelo redke lističe, meso pa pred počrnenjem izraziteje pordeči. Russula densifolia in Russula acrifolia prav tako najprej pordečita in sta pogosto ostrejši. Russula albonigra počrni takoj in ima gostejše lističe. Russula subnigricans je smrtno strupena vzhodnoazijska podobna vrsta, katere meso pordeči in ne počrni vedno povsem.",
+      "notes": "IUCN jo je leta 2025 ocenil kot najmanj ogroženo. Počasi črneče meso in precej gosti lističi jo ločujejo od bližnjih sorodnikov. Vonj, če je prisoten, pogosto primerjajo s starim vinskim sodom.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "osmojena golobica"
+    },
+    "sr": {
+      "description": "Здепаста ектомикоризна гљива киселих, песковитих четинарских шума, најчешће под бором, такође под смрчом и само изузетно поред лишћара. Позната је из великог дела Европе и са северне Азије. Плодна тела се јављају од јуна до октобра и при повреди или старењу полако порумене, затим поседе до поцрне.",
+      "cap": "Шешир је обично 5–15 cm широк, понекад до 20 cm. Најпре је испупчен, касније удубљен до левкаст, у младости са дебелим, подвијеним ободом. Сува, мат површина је глатка или фино баршунаста, прљаво бела до крем, касније сивосмеђа или чађавосмеђа, често са прилепљеним нечистоћама, и при повреди полако посмеђи до поцрни.",
+      "hymenium": "Листићи су прилично густи, прилично дебели, понекад рачвати и прирасли или благо силазни. Кремсто су бели и при повреди поцрвене, затим поцрне. Гушћи су од врло ретких листића врсте Russula nigricans.",
+      "stipe": "Дршка је обично 4–10 cm дуга и 1,5–3 cm дебела, здепаста, ваљкаста или благо сужена, бела до прљаво крем и према основи често смеђе или црно мрљаста. Чврста је и без прстена.",
+      "flesh": "Месо је дебело, чврсто и бело. При пресеку или повреди полако побледи у ружичасто или поцрвени, затим поседи до поцрни. Мирис је слаб, понекад попут старих винских буради или влажног подрума; укус је благ или благо горак или љут.",
+      "sporePrint": "Отисак спора је бео до крем.",
+      "habitat": "Ектомикоризна је, углавном са бором на киселим песковитим земљиштима, такође са смрчом, ретко са јелом, и само изузетно под лишћарима. Плодна тела расту на тлу у маховини или у четинарској стељи од јуна до октобра.",
+      "uses": "Млада плодна тела се у неким крајевима једу после кувања или сољења, али месо је благо и слабе квалитете. Сирове гљиве могу изазвати стомачне тегобе. Међу сличним црнећим врстама је и смртоносно отровна Russula subnigricans, зато је потребна опрезна идентификација.",
+      "confusion": "Russula nigricans има дебље, врло ретке листиће, а месо пре црњења изразитије поцрвени. Russula densifolia и Russula acrifolia такође најпре поцрвене и често су љући. Russula albonigra поцрни одмах и има гушће листиће. Russula subnigricans је смртоносно отровна источноазијска слична врста чије месо поцрвени и не поцрни увек потпуно.",
+      "notes": "IUCN ју је 2025. оценио као најмање угрожену. Полако црнеће месо и прилично густи листићи разликују је од блиских сродника. Мирис се, ако је присутан, често пореди са старим винским буретом.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En kraftig ektomykorrhizabildande svamp i sura, sandiga barrskogar, mest under tall, även under gran och endast undantagsvis vid lövträd. Den är känd från stora delar av Europa och från norra Asien. Fruktkropparna kommer från juni till oktober och färgas långsamt rosa, därefter grå till svarta, när de skadas eller åldras.",
+      "cap": "Hatten är typiskt 5–15 cm bred, ibland upp till 20 cm. Den är först välvd, senare nedsänkt till trattlik, som ung med tjock, invikt kant. Den torra, matta ytan är slät eller fint sammetslik, smutsigt vit till creme, senare gråbrun eller sotbrun, ofta med vidhäftande skräp, och den brunfärgas eller svärtas långsamt vid beröring.",
+      "hymenium": "Skivorna är ganska täta, ganska tjocka, ibland gaffelgrenade och fästade eller något nedlöpande. De är cremevita och blir rödbruna, därefter svarta, vid beröring. De står tätare än de mycket glesa skivorna hos Russula nigricans.",
+      "stipe": "Foten är typiskt 4–10 cm lång och 1,5–3 cm tjock, kraftig, cylindrisk eller något avsmalnande, vit till smutsigt creme och ofta brun- eller svartfläckig mot basen. Den är fast och saknar ring.",
+      "flesh": "Köttet är tjockt, fast och vitt. Vid snitt eller skada blir det långsamt blekrosa eller rödaktigt, därefter grått till svart. Lukten är svag, ibland som av gamla vinfat eller en fuktig källare; smaken är mild eller något bitter eller skarp.",
+      "sporePrint": "Sporpulveret är vitt till cremefärgat.",
+      "habitat": "Den är ektomykorrhizabildande, främst med tall på sura sandjordar, också med gran, sällan med ädelgran, och endast undantagsvis under lövträd. Fruktkropparna växer på marken i mossa eller barrförna i barrskog från juni till oktober.",
+      "uses": "Unga fruktkroppar äts i vissa trakter efter kokning eller saltning, men köttet är famt och av dålig kvalitet. Råa svampar kan ge magbesvär. Bland liknande svärtande arter finns den dödligt giftiga Russula subnigricans, så försiktig bestämning är nödvändig.",
+      "confusion": "Russula nigricans har tjockare, mycket glesa skivor, och köttet rodnar tydligare innan det svärtas. Russula densifolia och Russula acrifolia rodnar också först och är ofta skarpare. Russula albonigra blir direkt svart och har tätare skivor. Russula subnigricans är en dödligt giftig östasiatisk dubbelgångare vars kött rodnar och inte alltid svärtas helt.",
+      "notes": "IUCN bedömde arten 2025 som livskraftig. Det långsamt svärtande köttet och de ganska täta skivorna skiljer den från nära släktingar. Lukten, när den finns, jämförs ofta med ett gammalt vinfat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "svedkremla"
+    },
+    "tr": {
+      "description": "Asitli, kumlu iğne yapraklı ormanların tıknaz ektomikorizal mantarı; en çok çam altında, ayrıca ladin altında ve ancak istisnai olarak yapraklı ağaçların yanında. Avrupa’nın büyük bölümünden ve Kuzey Asya’dan bilinir. Meyve gövdeleri hazirandan ekime kadar çıkar ve zedelenince veya yaşlanınca yavaşça pembeye, sonra griye veya siyahımsıya döner.",
+      "cap": "Şapka genellikle 5–15 cm genişliğindedir, bazen 20 cm’ye kadar çıkar. Önce dışbükey, sonra çökük veya huni biçimlidir; gençken kalın, içe kıvrık kenarlıdır. Kuru, mat yüzey düz veya ince kadifemsi, kirli beyazdan kremsiye, sonra gri-kahverengi veya isli kahverengidir, çoğu zaman yapışık döküntü taşır ve zedelenince yavaşça kahverengileşir veya kararır.",
+      "hymenium": "Lameller oldukça sık, oldukça kalın, bazen çatallı ve bitişik veya hafifçe sarkıktır. Krem beyazıdır ve zedelenince kırmızımsı kahverengiye, sonra siyaha döner. Russula nigricans’ın çok seyrek lamellerinden daha sıktır.",
+      "stipe": "Sap genellikle 4–10 cm uzunluğunda ve 1,5–3 cm kalınlığındadır; tıknaz, silindirik veya hafifçe incelmiş, beyazdan kirli kremsiye ve tabana doğru çoğu zaman kahverengi veya siyah lekeli. Sağlamdır ve halkası yoktur.",
+      "flesh": "Et kalın, sıkı ve beyazdır. Kesince veya zedelenince yavaşça soluk pembeye veya kırmızımsıya, sonra griye veya siyaha döner. Koku zayıftır, bazen eski şarap fıçılarını veya nemli bir mahzeni andırır; tat yumuşak veya hafif acı ya da yakıcıdır.",
+      "sporePrint": "Spor tozu beyazdan kremsiye kadardır.",
+      "habitat": "Ektomikorizaldir, başlıca asitli kumlu topraklarda çamla, ayrıca ladinle, seyrek olarak göknarla ve ancak istisnai olarak yapraklı ağaçlar altında. Meyve gövdeleri hazirandan ekime kadar iğne yapraklı ormanlarda yosun veya ibre döküntüsü üzerinde yerde çıkar.",
+      "uses": "Genç meyve gövdeleri bazı yörelerde haşlandıktan veya tuzlandıktan sonra yenir, ancak et yavan ve düşük niteliklidir. Çiğ mantarlar mide rahatsızlığı yapabilir. Benzer kararan türler arasında ölümcül zehirli Russula subnigricans de vardır, bu yüzden dikkatli tanı şarttır.",
+      "confusion": "Russula nigricans’ın lamelleri daha kalın ve çok seyrektir; eti kararmadan önce daha belirgin kızarır. Russula densifolia ve Russula acrifolia da önce kızarır ve çoğu zaman daha yakıcıdır. Russula albonigra doğrudan kararır ve lamelleri daha sıktır. Russula subnigricans, eti kızaran ve her zaman tamamen kararmayan, Doğu Asya kökenli ölümcül bir benzeridir.",
+      "notes": "IUCN 2025’te onu en az endişe verici olarak değerlendirdi. Yavaş kararan et ve oldukça sık lameller onu yakın akrabalarından ayırır. Varsa koku çoğu zaman eski bir şarap fıçısına benzetilir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Кремезний ектомікоризний гриб кислих піщаних хвойних лісів, найчастіше під сосною, також під ялиною і лише винятково поряд із листяними деревами. Відомий на більшій частині Європи та в Північній Азії. Плодові тіла з’являються з червня до жовтня і при пошкодженні чи старінні повільно рожевіють, потім сіріють до чорного.",
+      "cap": "Шапинка зазвичай 5–15 см у діаметрі, іноді до 20 см. Спочатку вона опукла, пізніше вдавлена або лійкоподібна, в молодості з товстим, загорнутим краєм. Суха матова поверхня гладка або тонко оксамитова, брудно-біла до кремової, пізніше сіро-коричнева або сажисто-коричнева, часто з налиплим сміттям, і при пошкодженні повільно буріє до чорного.",
+      "hymenium": "Пластинки досить густі, досить товсті, іноді вилчасті, прирослі або злегка низбіжні. Вони кремово-білі і при пошкодженні стають червонувато-коричневими, потім чорними. Вони густіші, ніж дуже рідкі пластинки Russula nigricans.",
+      "stipe": "Ніжка зазвичай 4–10 см завдовжки і 1,5–3 см завтовшки, кремезна, циліндрична або злегка звужена, біла до брудно-кремової і до основи часто коричнево або чорно плямиста. Вона щільна і без кільця.",
+      "flesh": "М’якуш товстий, щільний і білий. На розрізі чи при пошкодженні він повільно блідо-рожевіє або червоніє, потім сіріє до чорного. Запах слабкий, іноді як у старих винних бочок чи вологого льоху; смак м’який або злегка гіркий чи їдкий.",
+      "sporePrint": "Споровий порошок білий до кремового.",
+      "habitat": "Гриб ектомікоризний, переважно із сосною на кислих піщаних ґрунтах, також із ялиною, рідко з ялицею і лише винятково під листяними деревами. Плодові тіла ростуть на землі в моху або в хвойній підстилці з червня до жовтня.",
+      "uses": "Молоді плодові тіла в деяких місцевостях їдять після варіння чи засолювання, але м’якуш прісний і невисокої якості. Сирі гриби можуть спричинити шлунковий розлад. Серед подібних чорніючих видів є й смертельно отруйна Russula subnigricans, тому потрібна обережна ідентифікація.",
+      "confusion": "У Russula nigricans пластинки товстіші й дуже рідкі, а м’якуш перед почорнінням виразніше червоніє. Russula densifolia і Russula acrifolia також спочатку червоніють і часто їдкіші. Russula albonigra чорніє одразу й має густіші пластинки. Russula subnigricans — смертельно отруйний східноазійський подібний вид, м’якуш якого червоніє і не завжди повністю чорніє.",
+      "notes": "У 2025 році МСОП відніс його до видів, що викликають найменше занепокоєння. Повільно чорніючий м’якуш і досить густі пластинки відрізняють його від близьких родичів. Запах, якщо він є, часто порівнюють зі старою винною бочкою.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "Підгруздок чорний"
+    },
+    "zh": {
+      "description": "一种粗壮的外生菌根真菌，生于酸性沙质针叶林，多在松树下，也在云杉下，仅例外地出现在阔叶树附近。记录于欧洲大部和北亚。子实体6月至10月出现，受伤或变老时缓慢变为粉红色，再变为灰色至黑色。",
+      "cap": "菌盖通常直径5–15厘米，有时可达20厘米。先凸起，后下凹至漏斗状，幼时边缘厚并内卷。表面干燥无光，平滑或细绒状，污白至奶油色，后呈灰褐或烟灰褐色，常黏附残屑，受伤后缓慢变为褐色至黑色。",
+      "hymenium": "菌褶较密、较厚，有时分叉，直生或稍延生。奶油白色，受伤后先变红褐色，再变黑。菌褶比Russula nigricans非常稀疏的菌褶更密。",
+      "stipe": "菌柄通常长4–10厘米、粗1.5–3厘米，粗壮，圆柱形或稍向下收细，白色至污奶油色，近基部常有褐色或黑色斑。质地坚实，无菌环。",
+      "flesh": "菌肉厚、坚实、白色。切开或受伤后缓慢变为淡粉或淡红色，再变为灰色至黑色。气味淡，有时似旧酒桶或潮湿地窖；味道温和，或略苦、略辣。",
+      "sporePrint": "孢子印白色至奶油色。",
+      "habitat": "外生菌根菌，主要与酸性沙土上的松树共生，也与云杉、偶尔与冷杉共生，仅例外地出现在阔叶树下。子实体6月至10月生于针叶林的苔藓或针叶地被上。",
+      "uses": "幼嫩子实体在一些地区煮熟或盐渍后食用，但菌肉淡而无味、品质差。生食可能引起肠胃不适。相似的变黑种类中包括致命的Russula subnigricans，因此必须谨慎鉴定。",
+      "confusion": "Russula nigricans的菌褶更厚、非常稀疏，菌肉在变黑前更明显地变红。Russula densifolia和Russula acrifolia也是先变红，往往更辣。Russula albonigra直接变黑，菌褶更密。Russula subnigricans是东亚一种致命的相似种，其菌肉变红，并不总是完全变黑。",
+      "notes": "世界自然保护联盟于2025年将其评估为无危。缓慢变黑的菌肉和较密的菌褶可与近缘种类区分。若有气味，常被比作旧酒桶。",
+      "names": [
+        "煙色紅菇"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/194408-Russula-adusta"
+      ],
+      "label": "烟色红菇"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus adustus",
+      "author": "Pers.",
+      "year": 1801,
+      "rank": "species"
+    },
+    {
+      "name": "Omphalia adusta",
+      "author": "(Pers.) Gray",
+      "year": 1821,
+      "rank": "species"
+    }
+  ],
+  "reserved": false,
+  "id": 193,
+  "citation": "Epicrisis Systematis Mycologici: 350 (1838) [1836-1838]"
+},
+{
+  "name": "Volvopluteus gloiocephalus",
+  "author": "(DC.) Vizzini, Contu & Justo",
+  "family": "Pluteaceae",
+  "genus": "Volvopluteus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricales",
+    "Pluteaceae",
+    "Volvopluteus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Pluteaceae",
+    "Volvopluteus"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 5.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 22.5,
+  "stipeThickFrom": 0.7,
+  "stipeThickTo": 2.5,
+  "fruitingFrom": 5,
+  "fruitingTo": 3,
+  "label": {
+    "cs": "kukmák okázalý",
+    "da": "høj posesvamp",
+    "de": "Großer Scheidling",
+    "en": "stubble rosegill",
+    "et": "suur tuppnapsik",
+    "fi": "tarhatuppisieni",
+    "fr": "Volvaire gluante",
+    "he": "נרתיקנית נאה דביקה",
+    "hr": "viskozna obojnjača",
+    "hu": "ragadós bocskorosgomba",
+    "it": "Volvaria vischiosa",
+    "ja": "シロフクロタケ",
+    "ko": "제주비단털버섯",
+    "lt": "stambioji dirvūnė",
+    "lv": "gļotgalvainā makstaine",
+    "nl": "Gewone beurszwam",
+    "no": "kompostsliresopp",
+    "pl": "pochwiakowiec okazały",
+    "ru": "Вольвоплютей слизистоголовый",
+    "sk": "pošvovec obyčajný",
+    "sl": "veliki nožničar",
+    "sr": "Лепљива тоболка",
+    "sv": "vit slidskivling",
+    "tr": "Danaburnu Mantarı",
+    "uk": "Вольваріелла гарна",
+    "zh": "黏盖包脚菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "big sheath mushroom",
+      "rose-gilled grisette"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Volvaire visqueuse"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "ljepljiva tobolčarka"
+    ],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "pochwiak okazały"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "вольвариелла слизистоголовая"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [
+      "Nergis Mantarı"
+    ],
+    "uk": [],
+    "zh": [
+      "粘蓋包脚菇"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=518592",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=518592",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=518592",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=518591",
+      "https://www.gbif.org/species/8329645",
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://en.wikipedia.org/wiki/Volvopluteus_gloiocephalus",
+      "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+      "https://www.first-nature.com/fungi/volvopluteus-gloiocephalus.php",
+      "https://www.myko.cz/myko-atlas/Volvopluteus-gloiocephalus/",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+      "https://species.nbnatlas.org/species/BMSSYS0000052526"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+      "https://www.myko.cz/myko-atlas/Volvopluteus-gloiocephalus/",
+      "https://cs.wikipedia.org/wiki/Kukm%C3%A1k_ok%C3%A1zal%C3%BD"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+      "https://www.gbif.org/species/8329645"
+    ],
+    "de": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+      "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Scheidling"
+    ],
+    "es": [],
+    "et": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://et.wikipedia.org/wiki/Suur_tuppnapsik"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "fr": [
+      "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "hi": [],
+    "hr": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "hu": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "id": [],
+    "it": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "ja": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "ko": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "lt": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+      "https://www.gbif.org/species/8329645"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+      "https://nl.wikipedia.org/wiki/Gewone_beurszwam"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Pochwiakowiec_okaza%C5%82y",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+      "https://www.wikidata.org/wiki/Q26678484"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+      "https://botany.cz/cs/volvariella-gloiocephala/",
+      "https://fotonet.sk/atlas/fungi_huby/volvariella-gloiocephalus"
+    ],
+    "sl": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://sl.wikipedia.org/wiki/Veliki_no%C5%BEni%C4%8Dar",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://sr.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%99%D0%B8%D0%B2%D0%B0_%D1%82%D0%BE%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0"
+    ],
+    "sv": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://sv.wikipedia.org/wiki/Vit_slidskivling"
+    ],
+    "tr": [
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+      "https://www.gbif.org/species/8329645"
+    ],
+    "uk": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D1%96%D0%B5%D0%BB%D0%BB%D0%B0_%D0%B3%D0%B0%D1%80%D0%BD%D0%B0"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q26678484",
+      "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+    ]
+  },
+  "added": "2026-11-21",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/Volvopluteus_gloiocephalus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/Volvopluteus_gloiocephalus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Volvopluteus gloiocephalus.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 ea48b0a9d8cd109f530c29114bb10272f496f66ab1e847a48b911c0dfa80ab05) is an illustration with an existing cursive “Gemini” mark at lower right, kept as found (ink only; no paper rectangle); no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a viscid grey-brown cap, pink free gills (mature salmon and a younger paler pink view), a ringless white stipe, a sack-like white volva, a button in the volva, and straw or soil litter. The official plate is slightly soft because the 896×1200 source was enlarged 1.5625× onto the 1600×2400 canvas (placement 100, 262; composed art 1400×1875). A tiny mask notch at the short drawn stipe of the detached left gill-view is barely visible on red QA and is not an issue on the cream composition. The mature cap’s funnel can look a little deeper than in some field forms. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/Volvopluteus_gloiocephalus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg1.webp",
+      "author": "Patrick Le Mao",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/765871507"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg2.webp",
+      "author": "bogsuckers",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/763516747"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg3.webp",
+      "author": "Emily Nyenyedzi Davies",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/760813354"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg4.webp",
+      "author": "Isaac Guard",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/753430717"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg5.webp",
+      "author": "hugorainey",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/photos/762860360"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/Volvopluteus_gloiocephalus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/Volvopluteus_gloiocephalus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg1.webp",
+      "author": "Patrick Le Mao",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/765871507"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg2.webp",
+      "author": "bogsuckers",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/763516747"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg3.webp",
+      "author": "Emily Nyenyedzi Davies",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/760813354"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg4.webp",
+      "author": "Isaac Guard",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/753430717"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Pluteaceae/Volvopluteus_gloiocephalus/vg5.webp",
+      "author": "hugorainey",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/762860360"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر رِمِّي ينمو في تربة غنية بالمغذيات ومضطربة، بما في ذلك حقول القش، وحواف الطرق العشبية، والمروج، والحدائق، والسماد العضوي، وأكوام رقائق الخشب. يُبلَّغ عنه على نطاق واسع من المناطق المعتدلة والمعتدلة الدافئة في جميع القارات عدا القارة القطبية الجنوبية، وكثيرًا ما يظهر في مجموعات بعد فرش مادة عضوية طازجة.",
+      "cap": "القبعة يبلغ قطرها عادةً 5–15 سم. تكون في البداية بيضوية أو مخروطية، ثم محدبة إلى شبه مسطحة، وقد تحمل سرة منخفضة أو، مع التقدم في العمر، انخفاضًا مركزيًا خفيفًا. السطح لزج بوضوح عند الرطوبة ويجف إلى لمعان حريري؛ ويتراوح اللون من الأبيض النقي إلى الرمادي أو الرمادي المائل إلى البني، وغالباً ما يكون أغمق في الوسط، ويتحول مع العمر إلى كريمي أو ترابي. قد تكون حافة القبعات الأقدم مخططًا بشكل خفيف.",
+      "hymenium": "الخياشيم حرة، مكتظة وعريضة، وقد تكون منتفخة في الوسط. تكون في البداية بيضاء وتصبح وردية إلى وردي سلموني عند نضج الأبواغ.",
+      "stipe": "الساق يبلغ طولها عادةً 5–22.5 سم وسمكها 0.7–2.5 سم، أسطوانية وتتسع نحو القاعدة، بيضاء، جافة، ملساء أو مغبرة دقيقًا، بلا حلقة. تستقر القاعدة في لفافة بيضاء كيسية الشكل ارتفاعها 2–3 سم، كثيرًا ما تكون مدفونة في التربة وقد تتمزق حافتها.",
+      "flesh": "اللحم أبيض وناعم ولا يتغير لونه عند القطع. الرائحة خافتة أو تشبه الفجل قليلًا، وأحيانًا تُقارن بالبطاطس النيئة المقشرة؛ والطعم معتدل.",
+      "sporePrint": "طبعة الأبواغ وردية إلى وردية بنية أو وردي سلموني. الأبواغ ملساء وإهليلجية؛ وتشمل النطاقات المنشورة نحو 11–18 × 7–10 ميكرومتر و12–20 × 8–12 ميكرومتر.",
+      "habitat": "ينمو في التربة في أماكن غنية ومضطربة: حقول الحبوب والملفوف بعد الحصاد، والمراعي الرطبة، وحواف الطرق العشبية، والمروج، والحدائق، والسماد العضوي، والروث، والقش، ونشارة الخشب، وأكوام الرقائق، وليس عادةً على جذوع حية. في أوروبا المعتدلة يثمر عادةً من مايو أو يوليو إلى نوفمبر، وفي جنوب أوروبا قد يظهر حتى أوائل مارس؛ وفي المناخات المعتدلة يمكن العثور عليه في أوقات أخرى من السنة.",
+      "uses": "صالح للأكل، لكنه غير مقدَّر كثيرًا ومائي إلى حد ما. يُطهى عادةً طازجًا. ولأن العينات الفتية ذات الخياشيم البيضاء قد تُخلط بفطر قاتل ذي لفافة، ينبغي أكله فقط عندما يكون التعريف مؤكدًا.",
+      "confusion": "النوعان القاتلان Amanita phalloides وAmanita virosa لهما أيضًا لفافة كيسية الشكل وقبعات شاحبة، لكن خياشيمهما وطبعة أبواغهما تبقيان بيضاء وعادةً ما يكون لهما حلقة؛ وينموان عادةً مع الأشجار لا على السماد أو حقول القش. لا تزال العينات الفتية من هذا النوع ذات خياشيم بيضاء، لذا فإن لون الخياشيم وحده لا يكفي. لـVolvariella bombycina قبعة حريرية إلى مشعرة بوضوح، وتنمو على جذوع أشجار عريضة الأوراق متضررة، لا على التربة أو السماد. قد يكون لأنواع Pluteus خياشيم وردية لكنها تفتقر إلى اللفافة. قد يكون لـLeucoagaricus leucothites قبعة بيضاء وخياشيم وردية، لكنه بلا لفافة.",
+      "notes": "لون القبعة متغير، من الأبيض إلى الرمادي المائل إلى البني؛ ويمكن أن تتطور أجسام ثمرية شاحبة وأغمق من نفس المشيجة. تُفصل الأنواع القريبة في الجنس نفسه أساسًا بالصفات المجهرية وبيانات الحمض النووي.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Сапротрофна гъба на хранителни, нарушени почви, включително стърнища, тревисти крайпътища, тревни площи, градини, компост и купища дървесен чипс. Широко се съобщава от умерени и топлоумерени области на всички континенти освен Антарктида и често се появява на групи след полагане на прясна органична материя.",
+      "cap": "Шапката обикновено е с диаметър 5–15 cm. Отначало е яйцевидна или конична, после изпъкнала до почти плоска, понякога с ниска гърбица или на старост с леко централно вдлъбване. Повърхността е във влажно време ясно лепкава и при изсъхване придобива копринен блясък; цветът е от чисто бял до сив или сивокафяв, в средата често по-тъмен, а с възрастта преминава в кремав или охра. Ръбът на по-старите шапки може да е слабо набразден.",
+      "hymenium": "Пластинките са свободни, гъсти и широки и в средната част могат да са коремчести. Отначало са бели, а при узряване на спорите стават розови до сьомговорозови.",
+      "stipe": "Пънчето обикновено е дълго 5–22,5 cm и дебело 0,7–2,5 cm, цилиндрично и разширено към основата, бяло, сухо, гладко или фино набрашено, без пръстен. Основата седи в бяла, торбовидна волва, висока 2–3 cm, често заровена в почвата, чийто ръб може да е разкъсан.",
+      "flesh": "Месото е бяло и меко и при разрязване не променя цвета си. Миризмата е слаба или леко репичковидна, понякога сравнявана със суров обелен картоф; вкусът е мек.",
+      "sporePrint": "Споровият прах е розов до розовокафяв или сьомговорозов. Спорите са гладки и елиптични; публикуваните размери включват около 11–18 × 7–10 µm и 12–20 × 8–12 µm.",
+      "habitat": "Расте на почва на хранителни, нарушени места: на ожънати житни и зелеви ниви, влажни пасища, тревисти крайпътища, тревни площи, градини, компост, тор, слама, стърготини и купища чипс, обикновено не на живи стволове. В умерена Европа обикновено плододава от май или юли до ноември, а в Южна Европа може да се появи до началото на март; в мек климат може да се намери и в друго време на годината.",
+      "uses": "Ядлива е, но не се цени високо и е доста водниста. Обикновено се приготвя прясна. Тъй като младите плодни тела с бели пластинки могат да се сбъркат със смъртоносно отровни гъби с волва, трябва да се яде само при сигурно определяне.",
+      "confusion": "Смъртоносно отровните Amanita phalloides и Amanita virosa също имат торбовидна волва и бледи шапки, но техните пластинки и споров прах остават бели и обикновено имат пръстен; типично растат край дървета, а не на компост или стърнища. Младите плодни тела на този вид все още имат бели пластинки, затова цветът на пластинките сам по себе си не е достатъчен. Volvariella bombycina има отчетливо копринена до окосмена шапка и расте на повредени стволове на широколистни дървета, не на почва или компост. Видовете от род Pluteus могат да имат розови пластинки, но нямат волва. Leucoagaricus leucothites може да има бяла шапка и розови пластинки, но няма волва.",
+      "notes": "Цветът на шапката е променлив, от бял до сивокафяв; бледи и по-тъмни плодни тела могат да се развият от един и същи мицел. Сродни видове в същия род се разграничават главно по микроскопски белези и данни за ДНК.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Saprotofní houba živinami bohatých, narušených stanovišť, včetně strnišť, travnatých okrajů cest, trávníků, zahrad, kompostu a hromad dřevní štěpky. Je široce uváděna z mírných a teplomírných oblastí na všech kontinentech kromě Antarktidy a často se objevuje ve skupinách po uložení čerstvé organické hmoty.",
+      "cap": "Klobouk má typicky 5–15 cm v průměru. Nejprve je vejčitý nebo kuželovitý, později klenutý až téměř plochý, někdy s nízkým hrbolem nebo ve stáří s mírnou prohlubní uprostřed. Povrch je za vlhka výrazně lepkavý a po oschnutí hedvábně lesklý; barva sahá od čistě bílé po šedou nebo šedohnědou, uprostřed často tmavší, a stářím přechází do krémové nebo okrové. Okraj starších klobouků může být slabě rýhovaný.",
+      "hymenium": "Lupeny jsou volné, husté a široké a ve střední části mohou být břichaté. Nejprve jsou bílé a při dozrávání výtrusů růžoví až lososově růžoví.",
+      "stipe": "Třeň je typicky 5–22,5 cm dlouhý a 0,7–2,5 cm tlustý, válcovitý a k bázi se rozšiřuje, bílý, suchý a hladký nebo jemně poprášený, bez prstenu. Báze sedí v bílé, vakovité pochvě vysoké 2–3 cm, která bývá často zanořená v půdě a na okraji může být roztržená.",
+      "flesh": "Dužnina je bílá a měkká a na řezu nemění barvu. Vůně je nevýrazná nebo slabě ředkvová, někdy přirovnávaná k syrovým oloupaným bramborám; chuť je mírná.",
+      "sporePrint": "Výtrusný prach je růžový až růžovohnědý nebo lososově růžový. Výtrusy jsou hladké a elipsoidní; uváděné rozmezí zahrnuje přibližně 11–18 × 7–10 µm a 12–20 × 8–12 µm.",
+      "habitat": "Roste na půdě na živinami bohatých, narušených místech: na sklizených obilných a zelňových polích, vlhkých pastvinách, travnatých okrajích cest, trávnících, v zahradách, na kompostu, hnoji, slámě, pilinách a hromadách dřevní štěpky, typicky ne na živých kmenech. V mírné Evropě obvykle plodí od května nebo července do listopadu a v jižní Evropě se může objevit až do začátku března; v mírných klimatických oblastech ji lze nalézt i v jiných částech roku.",
+      "uses": "Je jedlá, ale není vysoce ceněná a je dosti vodnatá. Obvykle se připravuje čerstvá. Protože mladé plodnice s bílými lupeny lze zaměnit se smrtelně jedovatými houbami s pochvou, měla by se jíst jen při jistém určení.",
+      "confusion": "Smrtelně jedovaté Amanita phalloides a Amanita virosa mají také vakovitou pochvu a bledé klobouky, ale jejich lupeny a výtrusný prach zůstávají bílé a obvykle mají prsten; typicky rostou u stromů, ne na kompostu nebo strništích. Mladé plodnice tohoto druhu mají ještě bílé lupeny, takže barva lupenů sama nestačí. Volvariella bombycina má výrazně hedvábný až chlupatý klobouk a roste na poškozených kmenech listnáčů, ne na půdě nebo kompostu. Druhy rodu Pluteus mohou mít růžové lupeny, ale nemají pochvu. Leucoagaricus leucothites může mít bílý klobouk a narůžovělé lupeny, ale pochvu nemá.",
+      "notes": "Barva klobouku je proměnlivá, od bílé po šedohnědou; bledé i tmavší plodnice mohou vyrůst z téhož podhoubí. Příbuzné druhy v tomtéž rodu se oddělují především mikroskopickými znaky a údaji o DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+        "https://www.myko.cz/myko-atlas/Volvopluteus-gloiocephalus/",
+        "https://cs.wikipedia.org/wiki/Kukm%C3%A1k_ok%C3%A1zal%C3%BD"
+      ],
+      "label": "kukmák okázalý"
+    },
+    "da": {
+      "description": "En saprotrof svamp på næringsrig, forstyrret jord, herunder stubmarker, græsklædte vejkanter, plæner, haver, kompost og flishobe. Den er vidt angivet fra tempererede og varmtempererede egne på alle kontinenter undtagen Antarktis, og den optræder ofte i grupper, efter at friskt organisk materiale er lagt ud.",
+      "cap": "Hatten er typisk 5–15 cm bred. Den er først ægformet eller kegleformet, siden hvælvet til næsten flad, undertiden med en lav pukkeltop eller som gammel med en svag fordybning i midten. Overfladen er tydeligt klæbrig i fugtigt vejr og tørrer til en silkeagtig glans; farven spænder fra rent hvid til grå eller gråbrun, ofte mørkere i midten, og bliver med alderen cremefarvet eller okker. Randen af ældre hatte kan være svagt furet.",
+      "hymenium": "Lamellerne er frie, tætte og brede og kan være bugede på midten. De er først hvide og bliver lyserøde til lakserosa, når sporerne modnes.",
+      "stipe": "Stokken er typisk 5–22,5 cm lang og 0,7–2,5 cm tyk, cylindrisk og bredere mod basis, hvid, tør og glat eller fint pudret, uden ring. Basis sidder i en hvid, sækformet volva, 2–3 cm høj, som ofte er begravet i jorden og kan være flænget i randen.",
+      "flesh": "Kødet er hvidt og blødt og skifter ikke farve ved gennemskæring. Lugten er ubetydelig eller svagt peberrodsagtig, undertiden sammenlignet med rå skrællet kartoffel; smagen er mild.",
+      "sporePrint": "Sporeaftrykket er rosa til rosa-brunt eller lakserosa. Sporerne er glatte og elliptiske; offentliggjorte mål omfatter omkring 11–18 × 7–10 µm og 12–20 × 8–12 µm.",
+      "habitat": "Den vokser på jord på næringsrige, forstyrrede steder: høstede korn- og kålmarker, fugtige græsgange, græsklædte vejkanter, plæner, haver, kompost, gødning, halm, savsmuld og flishobe, typisk ikke på levende stammer. I det tempererede Europa frugter den sædvanligvis fra maj eller juli til november, og i Sydeuropa kan den vise sig ind i begyndelsen af marts; i milde klimaer kan den findes på andre tider af året.",
+      "uses": "Den er spiselig, men ikke højt værdsat og ret vandig. Den tilberedes normalt frisk. Fordi unge eksemplarer med hvide lameller kan forveksles med dødbringende volva-bærende svampe, bør den kun spises, når bestemmelsen er sikker.",
+      "confusion": "De dødbringende Amanita phalloides og Amanita virosa har også en sækformet volva og blege hatte, men deres lameller og sporeaftryk forbliver hvide, og de har sædvanligvis en ring; de vokser typisk med træer snarere end på kompost eller stubmarker. Unge eksemplarer af denne art har stadig hvide lameller, så lamelfarven alene er ikke nok. Volvariella bombycina har en tydeligt silke- til hårklædt hat og vokser på beskadigede løvtræstammer, ikke på jord eller kompost. Pluteus-arter kan have rosa lameller, men mangler en volva. Leucoagaricus leucothites kan have en hvid hat og rosa lameller, men har ingen volva.",
+      "notes": "Hattens farve er variabel, fra hvid til gråbrun; blege og mørkere frugtlegemer kan udvikle sig fra det samme mycelium. Beslægtede arter i samme slægt adskilles hovedsagelig ved mikroskopiske træk og DNA-data.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+        "https://www.gbif.org/species/8329645"
+      ],
+      "label": "høj posesvamp"
+    },
+    "de": {
+      "description": "Ein saprotropher Pilz nährstoffreicher, gestörter Böden, darunter Stoppelfelder, grasige Wegränder, Rasen, Gärten, Kompost und Holzhäckselhaufen. Er wird aus gemäßigten und warmgemäßigten Gebieten auf allen Kontinenten außer der Antarktis weit angegeben und erscheint oft in Gruppen, nachdem frisches organisches Material ausgebracht wurde.",
+      "cap": "Der Hut ist typischerweise 5–15 cm breit. Er ist zuerst eiförmig oder kegelig, später gewölbt bis fast flach, manchmal mit einem niedrigen Buckel oder im Alter mit einer leichten zentralen Vertiefung. Die Oberfläche ist feucht deutlich klebrig und trocknet zu einem seidigen Glanz; die Farbe reicht von reinweiß bis grau oder graubraun, in der Mitte oft dunkler, und wird mit dem Alter cremefarben oder ocker. Der Rand älterer Hüte kann schwach gerieft sein.",
+      "hymenium": "Die Lamellen sind frei, gedrängt und breit und können in der Mitte bauchig sein. Sie sind zuerst weiß und werden rosa bis lachsrosa, wenn die Sporen reifen.",
+      "stipe": "Der Stiel ist typischerweise 5–22,5 cm lang und 0,7–2,5 cm dick, zylindrisch und zur Basis hin verbreitert, weiß, trocken und glatt oder fein bereift, ohne Ring. Die Basis steckt in einer weißen, sackartigen Volva von 2–3 cm Höhe, die oft im Boden verborgen ist und am Rand eingerissen sein kann.",
+      "flesh": "Das Fleisch ist weiß und weich und ändert beim Durchschneiden nicht die Farbe. Der Geruch ist unauffällig oder schwach rettichartig, manchmal mit roher geschälter Kartoffel verglichen; der Geschmack ist mild.",
+      "sporePrint": "Das Sporenpulver ist rosa bis rosa-braun oder lachsrosa. Die Sporen sind glatt und elliptisch; veröffentlichte Maße umfassen etwa 11–18 × 7–10 µm und 12–20 × 8–12 µm.",
+      "habitat": "Er wächst auf dem Boden an nährstoffreichen, gestörten Stellen: abgeerntete Getreide- und Kohlfelder, feuchte Weiden, grasige Wegränder, Rasen, Gärten, Kompost, Dung, Stroh, Sägemehl und Holzhäckselhaufen, typischerweise nicht an lebenden Stämmen. Im gemäßigten Europa fruktifiziert er gewöhnlich von Mai oder Juli bis November, und in Südeuropa kann er bis in den frühen März erscheinen; in milden Klimaten ist er auch zu anderen Jahreszeiten zu finden.",
+      "uses": "Er ist essbar, wird aber nicht hoch geschätzt und ist ziemlich wässrig. Er wird in der Regel frisch zubereitet. Weil junge Exemplare mit weißen Lamellen mit tödlich giftigen volvatragenden Pilzen verwechselt werden können, sollte er nur bei sicherer Bestimmung gegessen werden.",
+      "confusion": "Die tödlich giftigen Amanita phalloides und Amanita virosa haben ebenfalls eine sackartige Volva und bleiche Hüte, aber ihre Lamellen und das Sporenpulver bleiben weiß, und sie haben gewöhnlich einen Ring; sie wachsen typischerweise bei Bäumen, nicht auf Kompost oder Stoppeln. Junge Exemplare dieser Art haben noch weiße Lamellen, sodass die Lamellenfarbe allein nicht ausreicht. Volvariella bombycina hat einen deutlich seidigen bis haarigen Hut und wächst an beschädigten Laubholzstämmen, nicht auf Erde oder Kompost. Pluteus-Arten können rosa Lamellen haben, besitzen aber keine Volva. Leucoagaricus leucothites kann einen weißen Hut und rosa Lamellen haben, hat aber keine Volva.",
+      "notes": "Die Hutfarbe ist veränderlich, von weiß bis graubraun; blasse und dunklere Fruchtkörper können aus demselben Myzel hervorgehen. Verwandte Arten in derselben Gattung werden vor allem durch mikroskopische Merkmale und DNA-Daten getrennt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+        "https://de.wikipedia.org/wiki/Gro%C3%9Fer_Scheidling"
+      ],
+      "label": "Großer Scheidling"
+    },
+    "en": {
+      "description": "A saprotrophic mushroom of nutrient-rich, disturbed ground, including stubble fields, grassy verges, lawns, gardens, compost and woodchip piles. It is widely reported from temperate and warm-temperate regions on every continent except Antarctica, and it often appears in groups after fresh organic matter is laid down.",
+      "cap": "The cap is typically 5–15 cm across. It is egg-shaped or conical at first, then convex to almost flat, sometimes with a low umbo or a slight central depression when old. The surface is markedly sticky when moist and dries to a silky sheen; the colour ranges from pure white to grey or grey-brown, often darker at the centre and becoming cream or ochre with age. The margin of older caps may be faintly lined.",
+      "hymenium": "The gills are free, crowded and broad, and they may be swollen in the middle. They are white at first and turn pink to salmon as the spores mature.",
+      "stipe": "The stipe is typically 5–22.5 cm long and 0.7–2.5 cm thick, cylindrical and widening towards the base, white, dry, and smooth or finely powdery, with no ring. The base sits in a white, sack-like volva 2–3 cm high, which is often buried in the soil and may be split at the rim.",
+      "flesh": "The flesh is white and soft, and it does not change colour when cut. The smell is indistinct or faintly radish-like, sometimes compared to raw peeled potato; the taste is mild.",
+      "sporePrint": "The spore print is pink to pinkish brown or salmon-pink. The spores are smooth and elliptical; published ranges include about 11–18 × 7–10 µm and 12–20 × 8–12 µm.",
+      "habitat": "It grows on soil in nutrient-rich, disturbed places: harvested grain and cabbage fields, damp pasture, roadside grassland, lawns, gardens, compost, dung, straw, sawdust and woodchip beds, not typically from living trunks. In temperate Europe it usually fruits from May or July to November, and in southern Europe it may appear into early March; in mild climates it can be found at other times of year.",
+      "uses": "It is edible but is not highly rated and is rather watery. It is generally cooked when fresh. Because young white-gilled specimens can be confused with deadly volva-bearing mushrooms, it should be eaten only when the identification is certain.",
+      "confusion": "Deadly Amanita phalloides and Amanita virosa also have a sack-like volva and pale caps, but their gills and spore prints stay white and they usually have a ring; they typically grow with trees rather than on compost or stubble. Young specimens of this species still have white gills, so gill colour alone is not enough. Volvariella bombycina has a distinctly silky to hairy cap and grows on damaged hardwood trunks, not on soil or compost. Pluteus species may have pink gills but lack a volva. Leucoagaricus leucothites can have a white cap and pinkish gills but has no volva.",
+      "notes": "Cap colour is variable, from white to grey-brown; pale and darker fruit bodies can develop from the same mycelium. Related species in the same genus are separated mainly by microscopic characters and DNA sequence data.",
+      "names": [
+        "big sheath mushroom",
+        "rose-gilled grisette"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=518592",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=518592",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=518592",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=518591",
+        "https://www.gbif.org/species/8329645",
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://en.wikipedia.org/wiki/Volvopluteus_gloiocephalus",
+        "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+        "https://www.first-nature.com/fungi/volvopluteus-gloiocephalus.php",
+        "https://www.myko.cz/myko-atlas/Volvopluteus-gloiocephalus/",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+        "https://species.nbnatlas.org/species/BMSSYS0000052526"
+      ],
+      "label": "stubble rosegill"
+    },
+    "es": {
+      "description": "Un hongo saprótrofo de suelos ricos y alterados, incluidos rastrojos, cunetas herbáceas, céspedes, jardines, compost y montones de astillas de madera. Se cita ampliamente en regiones templadas y templado-cálidas de todos los continentes excepto la Antártida, y aparece a menudo en grupos tras aportar materia orgánica fresca.",
+      "cap": "El sombrero mide típicamente 5–15 cm de diámetro. Al principio es ovoide o cónico, luego convexo hasta casi plano, a veces con un umbo bajo o, en la vejez, con una ligera depresión central. La superficie es claramente viscosa en húmedo y seca con un brillo sedoso; el color va del blanco puro al gris o gris-pardo, a menudo más oscuro en el centro, y con la edad pasa a crema u ocre. El margen de los sombreros viejos puede estar débilmente estriado.",
+      "hymenium": "Las láminas son libres, apretadas y anchas, y pueden ser ventrudas en el centro. Primero son blancas y se vuelven rosadas o salmón cuando maduran las esporas.",
+      "stipe": "El pie mide típicamente 5–22,5 cm de largo y 0,7–2,5 cm de grosor, cilíndrico y ensanchado hacia la base, blanco, seco, liso o finamente pruinoso, sin anillo. La base se asienta en una volva blanca, en forma de saco, de 2–3 cm de altura, a menudo enterrada en el suelo y cuyo borde puede estar desgarrado.",
+      "flesh": "La carne es blanca y blanda y no cambia de color al corte. El olor es tenue o ligeramente rabanoso, a veces comparado con el de la patata cruda pelada; el sabor es suave.",
+      "sporePrint": "La esporada es rosa, rosado-parda o salmón. Las esporas son lisas y elípticas; los intervalos publicados incluyen unos 11–18 × 7–10 µm y 12–20 × 8–12 µm.",
+      "habitat": "Crece en el suelo en lugares ricos y alterados: campos de cereal y de col ya cosechados, pastos húmedos, cunetas herbáceas, céspedes, jardines, compost, estiércol, paja, serrín y montones de astillas, típicamente no en troncos vivos. En la Europa templada fructifica habitualmente de mayo o julio a noviembre, y en el sur de Europa puede aparecer hasta principios de marzo; en climas suaves se puede encontrar en otras épocas del año.",
+      "uses": "Es comestible, pero poco apreciado y bastante acuoso. Suele prepararse fresco. Como los ejemplares jóvenes de láminas blancas pueden confundirse con hongos mortales provistos de volva, solo debe consumirse cuando la identificación es segura.",
+      "confusion": "Las especies mortales Amanita phalloides y Amanita virosa también tienen una volva en forma de saco y sombreros pálidos, pero sus láminas y esporada permanecen blancas y suelen llevar anillo; crecen típicamente junto a árboles, no en compost o rastrojos. Los ejemplares jóvenes de esta especie aún tienen láminas blancas, de modo que el color de las láminas por sí solo no basta. Volvariella bombycina tiene un sombrero claramente sedoso o peloso y crece en troncos dañados de planifolios, no en suelo o compost. Las especies de Pluteus pueden tener láminas rosas, pero carecen de volva. Leucoagaricus leucothites puede tener sombrero blanco y láminas rosadas, pero no tiene volva.",
+      "notes": "El color del sombrero es variable, del blanco al gris-pardo; cuerpos fructíferos pálidos y más oscuros pueden desarrollarse a partir del mismo micelio. Las especies afines del mismo género se separan sobre todo por caracteres microscópicos y datos de ADN.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Saprotroofne seen toitainerikkal, häiritud pinnasel, sealhulgas põldude kõrrepõldudel, rohuste teeservade, murude, aedade, komposti ja puiduhakkepuiste aladel. Seda on laialt teatatud parasvöötme ja sooja parasvöötme piirkondadest kõigil mandritel peale Antarktika ning see ilmub sageli rühmadena pärast värske orgaanilise aine laotamist.",
+      "cap": "Kübar on tüüpiliselt 5–15 cm lai. Algul on ta munajas või koonusjas, hiljem kumer kuni peaaegu lame, vahel madala kühmuga või vanaduses kerge keskmise lohuga. Pind on niiskena selgelt kleepuv ja kuivab siidja läikega; värvus ulatub puhasvalgest hallini või hallikaspruunini, keskel sageli tumedam, ning vananedes muutub kreemjaks või ookrivärvi. Vanemate kübarate serv võib olla nõrgalt vöödiline.",
+      "hymenium": "Eoslehekesed on vabad, tihedad ja laiad ning võivad olla keskosas kõhtjad. Need on algul valged ja muutuvad eoste valmides roosaks kuni lõheroosaks.",
+      "stipe": "Jalg on tüüpiliselt 5–22,5 cm pikk ja 0,7–2,5 cm paks, silinderjas ja aluse suunas laienev, valge, kuiv ning sile või peenelt jahujas, ilma rõngata. Alus istub valges, kotjas tupes, mis on 2–3 cm kõrge, sageli maasse peitunud ja servast rebenenud.",
+      "flesh": "Liha on valge ja pehme ning lõikamisel värvi ei muuda. Lõhn on nõrk või kergelt redisetaoline, vahel võrreldud toore kooritud kartuliga; maitse on leebe.",
+      "sporePrint": "Eospulber on roosa kuni roosakaspruun või lõheroosa. Eosed on siledad ja elliptilised; avaldatud mõõtmed hõlmavad umbes 11–18 × 7–10 µm ja 12–20 × 8–12 µm.",
+      "habitat": "Kasvab mullal toitainerikastes, häiritud paikades: koristatud teravilja- ja kapsapõldudel, niisketel karjamaadel, rohustel teeservadel, murudel, aedades, kompostil, sõnnikul, õlgedel, saepurul ja hakkepuiste hunnikutel, tüüpiliselt mitte elavatel tüvedel. Parasvöötmelises Euroopas viljub tavaliselt maist või juulist novembrini ning Lõuna-Euroopas võib ilmuda kuni märtsi alguseni; pehmes kliimas võib teda leida ka muul ajal aastas.",
+      "uses": "See on söödav, kuid mitte kõrgelt hinnatud ja üsna vesine. Tavaliselt valmistatakse värskelt. Kuna valgete eoslehekestega noori isendeid võib segi ajada surmavalt mürgiste tuppega seentega, tuleks seda süüa ainult siis, kui määratlus on kindel.",
+      "confusion": "Surmavalt mürgistel liikidel Amanita phalloides ja Amanita virosa on samuti kotjas tupe ja kahvatud kübarad, kuid nende eoslehekesed ja eospulber jäävad valgeks ning neil on tavaliselt rõngas; nad kasvavad tüüpiliselt puude juures, mitte kompostil või kõrrepõldudel. Selle liigi noortel isenditel on eoslehekesed veel valged, seega eoslehekeste värvus üksi ei piisa. Volvariella bombycina-l on selgelt siidine kuni karvane kübar ja ta kasvab kahjustatud lehtpuutüvedel, mitte mullal või kompostil. Pluteus'e liikidel võivad olla roosad eoslehekesed, kuid neil puudub tupe. Leucoagaricus leucothites võib olla valge kübaraga ja roosakate eoslehekestega, kuid tal ei ole tuppe.",
+      "notes": "Kübara värvus on muutlik, valgest hallikaspruunini; kahvatud ja tumedamad viljakehad võivad areneda samast mütseelist. Sama perekonna lähedased liigid eristatakse peamiselt mikroskoopiliste tunnuste ja DNA-andmete järgi.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://et.wikipedia.org/wiki/Suur_tuppnapsik"
+      ],
+      "label": "suur tuppnapsik"
+    },
+    "fa": {
+      "description": "قارچی گندروی خاک‌های غنی و آشفته است، از جمله مزارع کاه، حاشیهٔ علفی جاده‌ها، چمنزارها، باغ‌ها، کود گیاهی و توده‌های خرده‌چوب. از مناطق معتدل و معتدل گرم همهٔ قاره‌ها جز جنوبگان به‌طور گسترده گزارش شده و پس از پخش مادهٔ آلی تازه اغلب به‌صورت گروهی ظاهر می‌شود.",
+      "cap": "کلاهک معمولاً ۵ تا ۱۵ سانتی‌متر قطر دارد. ابتدا تخم‌مرغی یا مخروطی است، سپس محدب تا تقریباً تخت می‌شود، گاه با برآمدگی کوتاه یا در پیری با فرورفتگی کم‌عمق در مرکز. سطح در رطوبت به‌روشنی چسبناک است و خشک که شود درخشش ابریشمی می‌گیرد؛ رنگ از سفید خالص تا خاکستری یا خاکستری مایل به قهوه‌ای متغیر است، در مرکز اغلب تیره‌تر، و با سن به کرم یا اخرایی می‌گراید. حاشیهٔ کلاهک‌های پیر ممکن است اندکی شیاردار باشد.",
+      "hymenium": "تیغه‌ها آزاد، متراکم و پهن‌اند و ممکن است در میانه شکم‌دار باشند. ابتدا سفیدند و با رسیدن هاگ‌ها صورتی تا صورتی سالمونی می‌شوند.",
+      "stipe": "ساقه معمولاً ۵ تا ۲۲٫۵ سانتی‌متر طول و ۰٫۷ تا ۲٫۵ سانتی‌متر ضخامت دارد، استوانه‌ای و به‌سوی پایه پهن‌تر، سفید، خشک، صاف یا ریزآردی، بدون حلقه. پایه در ولوای سفید کیسه‌مانند به بلندی ۲ تا ۳ سانتی‌متر جای می‌گیرد که اغلب در خاک فرو رفته و لبهٔ آن ممکن است پاره باشد.",
+      "flesh": "گوشت سفید و نرم است و هنگام برش رنگ عوض نمی‌کند. بو ضعیف یا اندکی شبیه ترب است، گاه با سیب‌زمینی خام پوست‌کنده مقایسه می‌شود؛ طعم ملایم است.",
+      "sporePrint": "اثر هاگ صورتی تا صورتی مایل به قهوه‌ای یا صورتی سالمونی است. هاگ‌ها صاف و بیضوی‌اند؛ دامنه‌های منتشرشده حدود ۱۱–۱۸ × ۷–۱۰ میکرومتر و ۱۲–۲۰ × ۸–۱۲ میکرومتر را شامل می‌شود.",
+      "habitat": "در خاک مکان‌های غنی و آشفته می‌روید: مزارع غلات و کلم پس از برداشت، چراگاه‌های مرطوب، حاشیهٔ علفی جاده‌ها، چمنزارها، باغ‌ها، کود گیاهی، کود دامی، کاه، خاک‌اره و توده‌های خرده‌چوب، معمولاً نه روی تنه‌های زنده. در اروپای معتدل معمولاً از مه یا ژوئیه تا نوامبر میوه می‌دهد و در جنوب اروپا ممکن است تا اوایل مارس ظاهر شود؛ در اقلیم ملایم در دیگر اوقات سال نیز یافت می‌شود.",
+      "uses": "خوردنی است، اما چندان ارجمند نیست و نسبتاً آبکی است. معمولاً تازه پخته می‌شود. چون نمونه‌های جوان با تیغهٔ سفید ممکن است با قارچ‌های مرگبار دارای ولوا اشتباه شوند، فقط وقتی باید خورده شود که شناسایی قطعی باشد.",
+      "confusion": "گونه‌های مرگبار Amanita phalloides و Amanita virosa نیز ولوای کیسه‌مانند و کلاهک‌های رنگ‌پریده دارند، اما تیغه‌ها و اثر هاگشان سفید می‌ماند و معمولاً حلقه دارند؛ معمولاً کنار درختان می‌رویند، نه روی کود یا مزارع کاه. نمونه‌های جوان این گونه هنوز تیغه‌های سفید دارند، بنابراین رنگ تیغه به‌تنهایی کافی نیست. Volvariella bombycina کلاهکی آشکارا ابریشمی تا مو دار دارد و روی تنه‌های آسیب‌دیدهٔ پهن‌برگ می‌روید، نه روی خاک یا کود. گونه‌های Pluteus ممکن است تیغه‌های صورتی داشته باشند اما ولوا ندارند. Leucoagaricus leucothites ممکن است کلاهک سفید و تیغه‌های مایل به صورتی داشته باشد، اما ولوا ندارد.",
+      "notes": "رنگ کلاهک متغیر است، از سفید تا خاکستری مایل به قهوه‌ای؛ بدنه‌های میوه‌ای رنگ‌پریده و تیره‌تر می‌توانند از یک میسلیوم پدید آیند. گونه‌های نزدیک در همان سرده عمدتاً با صفات میکروسکوپی و داده‌های DNA از هم جدا می‌شوند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Saprotrofinen sieni ravinteikkaalla, häiriintyneellä maalla, kuten sänki- ja vihannespelloilla, nurmikaistoilla, nurmikoilla, puutarhoissa, kompostissa ja hakepinoissa. Sitä ilmoitetaan laajalti lauhkeilta ja lämpimänlauhkeilta alueilta kaikilta mantereilta Antarktista lukuun ottamatta, ja se ilmestyy usein ryhminä, kun tuoretta orgaanista ainesta on levitetty.",
+      "cap": "Lakki on tyypillisesti 5–15 cm leveä. Se on ensin munamainen tai kartiomainen, myöhemmin kupera tai lähes litteä, joskus matalan kohouman kanssa tai vanhana hieman painunut keskeltä. Pinta on kosteana selvästi tahmea ja kuivuu silkinkiiltoiseksi; väri vaihtelee puhtaan valkoisesta harmaaseen tai harmaanruskeaan, keskeltä usein tummempi, ja vanhetessaan muuttuu kerman- tai okranväriseksi. Vanhempien lakkien reuna voi olla heikosti uurteinen.",
+      "hymenium": "Heltat ovat vapaat, tiheät ja leveät ja voivat olla keskeltä pullistuneet. Ne ovat ensin valkoiset ja muuttuvat itiöiden kypsyessä vaaleanpunaisiksi tai lohenpunaisiksi.",
+      "stipe": "Jalka on tyypillisesti 5–22,5 cm pitkä ja 0,7–2,5 cm paksu, lieriömäinen ja tyveä kohti levenevä, valkoinen, kuiva ja sileä tai hienosti jauhemainen, ilman rengasta. Tyvi on valkoisessa, pussimaisessa tupessa, joka on 2–3 cm korkea, usein maan sisässä ja reunasta halkeileva.",
+      "flesh": "Malto on valkoista ja pehmeää eikä muuta väriä leikattaessa. Haju on heikko tai hieman retikkamainen, joskus verrattu raakaan kuorittuun perunaan; maku on mieto.",
+      "sporePrint": "Itiöpöly on vaaleanpunaista, vaaleanpunaisenruskeaa tai lohenpunaista. Itiöt ovat sileitä ja elliptisiä; julkaistuihin mittauksiin kuuluvat noin 11–18 × 7–10 µm ja 12–20 × 8–12 µm.",
+      "habitat": "Kasvaa maassa ravinteikkaissa, häiriintyneissä paikoissa: korjatuilla vilja- ja kaalipelloilla, kosteilla laitumeilla, nurmikaistoilla, nurmikoilla, puutarhoissa, kompostissa, lannassa, oljessa, sahanpurussa ja hakepinoissa, tyypillisesti ei elävillä rungoilla. Lauhkeassa Euroopassa se hedelmöityy tavallisesti toukokuusta tai heinäkuusta marraskuuhun, ja Etelä-Euroopassa sitä voi esiintyä maaliskuun alkuun; leudossa ilmastossa sitä voi tavata muinakin aikoina vuodesta.",
+      "uses": "Se on syötävä, mutta ei kovin arvostettu ja melko vetinen. Se valmistetaan yleensä tuoreena. Koska valkohelttaiset nuoret yksilöt voidaan sekoittaa tappavan myrkyllisiin tupellisiin sieniin, sitä tulisi syödä vain, kun määritys on varma.",
+      "confusion": "Tappavan myrkyllisillä Amanita phalloides- ja Amanita virosa -lajeilla on myös pussimainen tupe ja vaaleat lakit, mutta helttojen ja itiöpölyn väri pysyy valkoisena, ja niillä on yleensä rengas; ne kasvavat tyypillisesti puiden seurassa, ei kompostissa tai sänkipelloilla. Tämän lajin nuorilla yksilöillä on vielä valkoiset heltat, joten helttojen väri yksin ei riitä. Volvariella bombycinalla on selvästi silkkinen tai karvainen lakki, ja se kasvaa vaurioituneilla lehtipuilla, ei maassa tai kompostissa. Pluteus-lajeilla voi olla vaaleanpunaiset helttojen, mutta niillä ei ole tuppea. Leucoagaricus leucothites voi olla valkolakkinen ja vaaleanpunaishelttainen, mutta sillä ei ole tuppea.",
+      "notes": "Lakin väri vaihtelee valkoisesta harmaanruskeaan; vaaleat ja tummemmat itiöemät voivat kehittyä samasta rihmastosta. Saman suvun lähilajit erotetaan pääasiassa mikroskooppisten tuntomerkkien ja DNA-aineiston perusteella.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "tarhatuppisieni"
+    },
+    "fr": {
+      "description": "Un champignon saprotrophe des sols riches et perturbés, notamment les chaumes, les bas-côtés herbeux, les pelouses, les jardins, le compost et les tas de plaquettes de bois. Il est largement signalé dans les régions tempérées et tempérées chaudes de tous les continents sauf l'Antarctique, et apparaît souvent en groupes après l'apport de matière organique fraîche.",
+      "cap": "Le chapeau mesure typiquement 5–15 cm de diamètre. Il est d'abord ovoïde ou conique, puis convexe à presque plat, parfois avec un faible umbo ou, chez les exemplaires âgés, une légère dépression centrale. La surface est nettement visqueuse par temps humide et sèche en un éclat soyeux; la couleur va du blanc pur au gris ou au gris-brun, souvent plus foncée au centre, et vire avec l'âge au crème ou à l'ocre. La marge des chapeaux âgés peut être faiblement striée.",
+      "hymenium": "Les lames sont libres, serrées et larges, et peuvent être ventrues au milieu. Elles sont d'abord blanches et deviennent roses à saumonées à maturité des spores.",
+      "stipe": "Le pied mesure typiquement 5–22,5 cm de long et 0,7–2,5 cm d'épaisseur, cylindrique et élargi vers la base, blanc, sec, lisse ou finement pruineux, sans anneau. La base repose dans une volve blanche, en sac, haute de 2–3 cm, souvent enterrée dans le sol et dont le bord peut être déchiré.",
+      "flesh": "La chair est blanche et molle et ne change pas de couleur à la coupe. L'odeur est faible ou légèrement raphanoïde, parfois comparée à celle de la pomme de terre crue pelée; la saveur est douce.",
+      "sporePrint": "La sporée est rose à rose-brun ou saumonée. Les spores sont lisses et elliptiques; les fourchettes publiées comprennent environ 11–18 × 7–10 µm et 12–20 × 8–12 µm.",
+      "habitat": "Il pousse sur le sol dans des lieux riches et perturbés: champs de céréales et de choux après récolte, pâturages humides, bas-côtés herbeux, pelouses, jardins, compost, fumier, paille, sciure et tas de plaquettes, typiquement pas sur des troncs vivants. En Europe tempérée, il fructifie habituellement de mai ou juillet à novembre, et en Europe méridionale il peut apparaître jusqu'au début de mars; sous un climat doux, on peut le trouver à d'autres moments de l'année.",
+      "uses": "Il est comestible, mais peu estimé et assez aqueux. On le prépare généralement frais. Parce que les jeunes spécimens à lames blanches peuvent être confondus avec des champignons mortels pourvus d'une volve, il ne doit être consommé que lorsque l'identification est certaine.",
+      "confusion": "Les espèces mortelles Amanita phalloides et Amanita virosa ont aussi une volve en sac et des chapeaux pâles, mais leurs lames et leur sporée restent blanches et elles portent habituellement un anneau; elles poussent typiquement auprès des arbres plutôt que sur le compost ou les chaumes. Les jeunes spécimens de cette espèce ont encore des lames blanches, de sorte que la couleur des lames ne suffit pas à elle seule. Volvariella bombycina a un chapeau nettement soyeux à poilu et pousse sur des troncs de feuillus endommagés, non sur le sol ou le compost. Les espèces de Pluteus peuvent avoir des lames roses, mais elles n'ont pas de volve. Leucoagaricus leucothites peut avoir un chapeau blanc et des lames rosées, mais il n'a pas de volve.",
+      "notes": "La couleur du chapeau est variable, du blanc au gris-brun; des sporophores pâles et plus foncés peuvent se développer à partir du même mycélium. Les espèces proches du même genre se distinguent surtout par des caractères microscopiques et des données d'ADN.",
+      "names": [
+        "Volvaire visqueuse"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "Volvaire gluante"
+    },
+    "he": {
+      "description": "פטרייה ספרוטרופית של קרקעות עשירות ומופרעות, כולל שדות קש, שולי דרכים עשבוניים, מדשאות, גנים, קומפוסט וערמות שבבי עץ. היא מדווחת בהרחבה מאזורים ממוזגים וממוזגים-חמים בכל היבשות פרט לאנטארקטיקה, ולעיתים קרובות מופיעה בקבוצות לאחר פיזור חומר אורגני טרי.",
+      "cap": "הכובע בדרך כלל בקוטר 5–15 ס״מ. תחילה הוא דמוי ביצה או חרוטי, אחר כך קמור עד כמעט שטוח, לעיתים עם גבשושית נמוכה או, בזקנה, עם שקע מרכזי קל. המשטח דביק באופן בולט בלחות ומתייבש לברק משיי; הצבע נע מלבן טהור לאפור או אפור-חום, לעיתים כהה יותר במרכז, ועם הגיל הופך לקרם או אוכרה. שולי כובעים זקנים עשויים להיות חרוצים במעומעם.",
+      "hymenium": "הדפים חופשיים, צפופים ורחבים, ועשויים להיות מנופחים באמצע. תחילה הם לבנים והופכים ורודים עד ורוד-סלמון כשהנבגים מבשילים.",
+      "stipe": "הרגל בדרך כלל באורך 5–22.5 ס״מ ובעובי 0.7–2.5 ס״מ, גלילית ומתרחבת כלפי הבסיס, לבנה, יבשה, חלקה או מכוסה אבקה עדינה, בלי טבעת. הבסיס יושב בנרתיק לבן דמוי שק בגובה 2–3 ס״מ, שלעיתים קרובות קבור בקרקע ושוליו עשויים להיות קרועים.",
+      "flesh": "הבשר לבן ורך ואינו משנה צבע בחיתוך. הריח חלש או מעט דמוי צנון, ולעיתים מושווה לתפוח אדמה חי מקולף; הטעם עדין.",
+      "sporePrint": "טביעת הנבגים ורודה עד ורוד-חומה או ורוד-סלמון. הנבגים חלקים ואליפטיים; הטווחים שפורסמו כוללים כ-11–18 × 7–10 מיקרומטר ו-12–20 × 8–12 מיקרומטר.",
+      "habitat": "גדלה בקרקע במקומות עשירים ומופרעים: שדות דגן וכרוב לאחר הקציר, מרעה לח, שולי דרכים עשבוניים, מדשאות, גנים, קומפוסט, זבל, קש, נסורת וערמות שבבים, בדרך כלל לא על גזעים חיים. באירופה הממוזגת היא מניבה בדרך כלל ממאי או מיולי עד נובמבר, ובדרום אירופה יכולה להופיע עד תחילת מרץ; באקלים מתון אפשר למצוא אותה גם בזמנים אחרים בשנה.",
+      "uses": "היא אכילה, אך אינה זוכה להערכה גבוהה והיא די מימית. בדרך כלל מבשלים אותה טרייה. משום שפרטים צעירים בעלי דפים לבנים עלולים להיות מוחלפים בפטריות קטלניות בעלות נרתיק, יש לאכול אותה רק כאשר הזיהוי ודאי.",
+      "confusion": "המינים הקטלניים Amanita phalloides ו-Amanita virosa אף הם בעלי נרתיק דמוי שק וכובעים חיוורים, אך הדפים וטביעת הנבגים שלהם נשארים לבנים וּבדרך כלל יש להם טבעת; הם גדלים בדרך כלל ליד עצים, לא על קומפוסט או שדות קש. לפרטים צעירים של מין זה עדיין יש דפים לבנים, ולכן צבע הדפים לבדו אינו מספיק. ל-Volvariella bombycina כובע משיי עד שעיר באופן ברור, והיא גדלה על גזעי עצים רחבי עלים פגועים, לא על קרקע או קומפוסט. למיני Pluteus יכולים להיות דפים ורודים, אך אין להם נרתיק. ל-Leucoagaricus leucothites יכולים להיות כובע לבן ודפים ורדרדים, אך אין לו נרתיק.",
+      "notes": "צבע הכובע משתנה, מלבן עד אפור-חום; גופי פרי חיוורים וכהים יותר יכולים להתפתח מאותו תפטיר. מינים קרובים באותו סוג מופרדים בעיקר לפי תווים מיקרוסקופיים ונתוני DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "נרתיקנית נאה דביקה"
+    },
+    "hi": {
+      "description": "पोषक-समृद्ध, विक्षुब्ध भूमि का एक मृतोपजीवी कवक, जिसमें ठूँठ वाले खेत, घास वाले मार्ग किनारे, लॉन, बगीचे, खाद और लकड़ी के चिप्स के ढेर शामिल हैं। यह अंटार्कटिका को छोड़कर सभी महाद्वीपों के शीतोष्ण और उष्ण-शीतोष्ण क्षेत्रों से व्यापक रूप से बताया जाता है, और ताजा कार्बनिक पदार्थ बिछाने के बाद अक्सर समूहों में दिखाई देता है।",
+      "cap": "टोपी आमतौर पर 5–15 सेमी चौड़ी होती है। पहले यह अंडाकार या शंक्वाकार होती है, बाद में उत्तल से लगभग चपटी हो जाती है, कभी-कभी नीची उभरी हुई चोटी के साथ या वृद्ध अवस्था में बीच में हल्की गड्ढा लिए हुए। सतह नमी में स्पष्ट रूप से चिपचिपी होती है और सूखने पर रेशमी चमक ले लेती है; रंग शुद्ध सफेद से धूसर या धूसर-भूरे तक होता है, बीच में अक्सर गहरा, और उम्र के साथ क्रीम या गेरुआ हो जाता है। पुरानी टोपियों का किनारा हल्का रेखाओं वाला हो सकता है।",
+      "hymenium": "गिल स्वतंत्र, घनी और चौड़ी होती हैं और बीच में फूली हो सकती हैं। पहले वे सफेद होती हैं और बीजाणु पकने पर गुलाबी से सैल्मन-गुलाबी हो जाती हैं।",
+      "stipe": "डंठल आमतौर पर 5–22.5 सेमी लंबा और 0.7–2.5 सेमी मोटा होता है, बेलनाकार और आधार की ओर चौड़ा, सफेद, शुष्क, चिकना या महीन चूर्णिल, बिना वलय के। आधार 2–3 सेमी ऊँची सफेद, थैलीनुमा वॉल्वा में बैठा होता है, जो अक्सर मिट्टी में धँसी रहती है और जिसका किनारा फटा हो सकता है।",
+      "flesh": "मांस सफेद और नरम होता है और काटने पर रंग नहीं बदलता। गंध फीकी या हल्की मूली जैसी होती है, कभी-कभी कच्चे छिले आलू से तुलना की जाती है; स्वाद मृदु होता है।",
+      "sporePrint": "बीजाणु छाप गुलाबी से गुलाबी-भूरी या सैल्मन-गुलाबी होती है। बीजाणु चिकने और दीर्घवृत्ताकार होते हैं; प्रकाशित आकार लगभग 11–18 × 7–10 µm और 12–20 × 8–12 µm शामिल करते हैं।",
+      "habitat": "यह पोषक-समृद्ध, विक्षुब्ध स्थानों की मिट्टी पर उगता है: काटे गए अनाज और पत्तागोभी के खेत, नम चरागाह, घास वाले मार्ग किनारे, लॉन, बगीचे, खाद, गोबर, पुआल, बुरादा और लकड़ी के चिप्स के ढेर, आमतौर पर जीवित तनों पर नहीं। शीतोष्ण यूरोप में आमतौर पर मई या जुलाई से नवंबर तक फलन होता है, और दक्षिणी यूरोप में मार्च की शुरुआत तक दिखाई दे सकता है; मृदु जलवायु में वर्ष के अन्य समय भी मिल सकता है।",
+      "uses": "यह खाद्य है, पर बहुत अधिक मूल्यवान नहीं माना जाता और काफी जलीय होता है। आमतौर पर ताजा पकाया जाता है। क्योंकि सफेद गिल वाले युवा नमूनों को वॉल्वा वाले घातक कवकों से भ्रमित किया जा सकता है, इसे केवल तभी खाना चाहिए जब पहचान निश्चित हो।",
+      "confusion": "घातक Amanita phalloides और Amanita virosa में भी थैलीनुमा वॉल्वा और पीली टोपियाँ होती हैं, पर उनकी गिल और बीजाणु छाप सफेद रहती हैं और आमतौर पर वलय होता है; वे आमतौर पर पेड़ों के साथ उगते हैं, खाद या ठूँठ वाले खेतों पर नहीं। इस जाति के युवा नमूनों में अभी भी सफेद गिल होती हैं, इसलिए केवल गिल का रंग पर्याप्त नहीं है। Volvariella bombycina की टोपी स्पष्ट रूप से रेशमी से रोएँदार होती है और क्षतिग्रस्त चौड़ी पत्ती वाले तनों पर उगती है, मिट्टी या खाद पर नहीं। Pluteus की जातियों में गुलाबी गिल हो सकती हैं, पर वॉल्वा नहीं होता। Leucoagaricus leucothites में सफेद टोपी और गुलाबी गिल हो सकती हैं, पर वॉल्वा नहीं होता।",
+      "notes": "टोपी का रंग परिवर्तनशील है, सफेद से धूसर-भूरे तक; हल्के और गहरे फलन-शरीर एक ही कवकजाल से विकसित हो सकते हैं। उसी वंश की संबंधित जातियाँ मुख्यतः सूक्ष्मदर्शी लक्षणों और डीएनए आँकड़ों से अलग की जाती हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Saprotrofna gljiva hranjivog, narušenog tla, uključujući strništa, travnate rubove puteva, travnjake, vrtove, kompost i hrpe drvene sječke. Široko je zabilježena iz umjerenih i toplo-umjerenih područja na svim kontinentima osim Antarktike i često se pojavljuje u skupinama nakon što se rasprostre svježa organska tvar.",
+      "cap": "Klobuk je tipično 5–15 cm širok. Isprva je jajolik ili stožast, zatim konveksan do gotovo ravan, ponekad s niskim ispupčenjem ili u starosti s blagim središnjim udubljenjem. Površina je vlažna izrazito ljepljiva i suši se do svilenkastog sjaja; boja ide od čisto bijele do sive ili sivosmeđe, u središtu često tamnija, a sa starošću prelazi u kremastu ili oker. Rub starijih klobuka može biti slabo narebran.",
+      "hymenium": "Listići su slobodni, gusti i široki te u sredini mogu biti trbušasti. Isprva su bijeli, a sazrijevanjem spora postaju ružičasti do losos-ružičasti.",
+      "stipe": "Stručak je tipično 5–22,5 cm dugačak i 0,7–2,5 cm debeo, cilindričan i prema bazi proširen, bijel, suh i gladak ili fino praškast, bez prstena. Baza sjedi u bijeloj, vrećastoj volvi visokoj 2–3 cm, koja je često ukopana u tlo i na rubu može biti razderana.",
+      "flesh": "Meso je bijelo i meko te pri rezanju ne mijenja boju. Miris je neizražen ili slabo rotkvast, ponekad uspoređivan sa sirovim oguljenim krumpirom; okus je blag.",
+      "sporePrint": "Otisak spora je ružičast do ružičastosmeđ ili losos-ružičast. Spore su glatke i eliptične; objavljena raspona uključuju približno 11–18 × 7–10 µm i 12–20 × 8–12 µm.",
+      "habitat": "Raste na tlu na hranjivim, narušenim mjestima: na požnjevenim žitnim i kupusnim poljima, vlažnim pašnjacima, travnatim rubovima puteva, travnjacima, u vrtovima, na kompostu, gnoju, slami, piljevini i hrpama drvene sječke, tipično ne na živim deblima. U umjerenoj Europi obično plodonoši od svibnja ili srpnja do studenoga, a u južnoj Europi može se pojaviti do početka ožujka; u blagim klimama može se naći i u drugim dijelovima godine.",
+      "uses": "Jestiva je, ali nije visoko cijenjena i prilično je vodenasta. Obično se priprema svježa. Budući da se mladi primjerci s bijelim listićima mogu zamijeniti sa smrtonosno otrovnim gljivama s volvom, treba je jesti samo kad je odredba sigurna.",
+      "confusion": "Smrtonosno otrovne Amanita phalloides i Amanita virosa također imaju vrećastu volvu i blijede klobuke, ali njihovi listići i otisak spora ostaju bijeli i obično imaju prsten; tipično rastu uz stabla, ne na kompostu ili strništima. Mladi primjerci ove vrste još imaju bijele listiće, pa boja listića sama nije dovoljna. Volvariella bombycina ima izrazito svilenkast do dlakav klobuk i raste na oštećenim deblima listača, ne na tlu ili kompostu. Vrste roda Pluteus mogu imati ružičaste listiće, ali nemaju volvu. Leucoagaricus leucothites može imati bijeli klobuk i ružičaste listiće, ali nema volvu.",
+      "notes": "Boja klobuka je promjenjiva, od bijele do sivosmeđe; blijeda i tamnija plodišta mogu se razviti iz iste micelije. Srodne vrste u istom rodu odvajaju se ponajprije mikroskopskim značajkama i podacima o DNK.",
+      "names": [
+        "ljepljiva tobolčarka"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "viskozna obojnjača"
+    },
+    "hu": {
+      "description": "Szaprotróf gomba tápanyagban gazdag, bolygatott talajon, így tarlókon, füves útpadkákon, gyepeseken, kertekben, komposzton és faapríték-halmokon. Mérsékelt és meleg-mérsékelt területekről széles körben jelzik minden kontinensen az Antarktisz kivételével, és gyakran csoportosan jelenik meg, miután friss szerves anyagot terítettek ki.",
+      "cap": "A kalap tipikusan 5–15 cm széles. Előbb tojásdad vagy kúpos, később domborútól majdnem laposig, néha alacsony púppal, öregen enyhe középső bemélyedéssel. A felszín nedvesen feltűnően ragadós, szárazon selymes fényű; a szín tiszta fehértől szürkéig vagy szürkésbarnáig terjed, a közepén gyakran sötétebb, és korral krémszínűvé vagy okkeressé válik. Az idősebb kalapok széle halványan barázdált lehet.",
+      "hymenium": "A lemezek szabadok, sűrűek és szélesek, középen hasasodhatnak. Előbb fehérek, a spórák érésekor rózsaszínűek vagy lazacszínűek lesznek.",
+      "stipe": "A tönk tipikusan 5–22,5 cm hosszú és 0,7–2,5 cm vastag, hengeres, a töve felé szélesedő, fehér, száraz, sima vagy finoman deresen, gallér nélkül. A töve fehér, zsák alakú bocskorban ül, amely 2–3 cm magas, gyakran a talajba süllyed, és a pereme berepedezhet.",
+      "flesh": "A hús fehér és puha, vágáskor nem változtatja a színét. Az illat gyenge vagy enyhén retekre emlékeztet, néha nyers hámozott burgonyához hasonlítják; az íze enyhe.",
+      "sporePrint": "A spórapor rózsaszínű, rózsásbarna vagy lazacszínű. A spórák simák és elliptikusak; a közölt mérettartományok körülbelül 11–18 × 7–10 µm és 12–20 × 8–12 µm.",
+      "habitat": "Talajon nő tápanyagban gazdag, bolygatott helyeken: learatott gabona- és káposztaföldeken, nedves legelőkön, füves útpadkákon, gyepeken, kertekben, komposzton, trágyán, szalmán, fűrészporon és faapríték-halmokon, tipikusan nem élő törzseken. A mérsékelt Európában általában májustól vagy júliustól novemberig terem, Dél-Európában március elejéig is megjelenhet; enyhe éghajlaton az év más szakaszaiban is megtalálható.",
+      "uses": "Ehető, de nem sokra becsülik, és meglehetősen vizes. Általában frissen készítik el. Mivel a fehér lemezű fiatal példányok összetéveszthetők a halálosan mérgező, bocskoros gombákkal, csak biztos meghatározás után szabad enni.",
+      "confusion": "A halálosan mérgező Amanita phalloides és Amanita virosa szintén zsák alakú bocskorral és halvány kalappal rendelkezik, de lemezeik és spóraporuk fehérek maradnak, és általában gallérjuk is van; tipikusan fák mellett nőnek, nem komposzton vagy tarlón. Ennek a fajnak a fiatal példányai még fehér lemezűek, ezért a lemezszín önmagában nem elég. A Volvariella bombycina kalapja határozottan selymes vagy szőrös, és sérült lomblevelű fatörzseken nő, nem talajon vagy komposzton. A Pluteus fajoknak lehet rózsaszín lemezük, de nincs bocskoruk. A Leucoagaricus leucothites lehet fehér kalapú és rózsás lemezű, de nincs bocskora.",
+      "notes": "A kalap színe változó, fehértől szürkésbarnáig; sápadt és sötétebb termőtestek ugyanabból a micéliumból is fejlődhetnek. Ugyanazon nemzetség rokon fajait főként mikroszkópos bélyegek és DNS-adatok alapján választják szét.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "ragadós bocskorosgomba"
+    },
+    "id": {
+      "description": "Jamur saprotrof pada tanah kaya hara yang terganggu, termasuk ladang tunggul, tepi jalan berumput, rumput halaman, kebun, kompos, dan tumpukan serpihan kayu. Ia dilaporkan secara luas dari daerah beriklim sedang dan sedang-hangat di semua benua kecuali Antarktika, dan sering muncul berkelompok setelah bahan organik segar ditebarkan.",
+      "cap": "Tudung biasanya berdiameter 5–15 cm. Mula-mula berbentuk telur atau kerucut, kemudian cembung hingga hampir datar, kadang dengan umbo rendah atau, pada umur tua, dengan lekukan tengah yang dangkal. Permukaannya sangat lengket saat basah dan mengering dengan kilau sutra; warna berkisar dari putih murni hingga abu-abu atau cokelat keabu-abuan, sering lebih gelap di tengah, dan seiring usia menjadi krem atau oker. Tepi tudung yang lebih tua dapat beralur samar.",
+      "hymenium": "Insang bebas, rapat, dan lebar, serta dapat menggembung di tengah. Mula-mula putih dan menjadi merah muda hingga merah salmon ketika spora matang.",
+      "stipe": "Tangkai biasanya 5–22,5 cm panjangnya dan 0,7–2,5 cm tebalnya, silindris dan melebar ke arah pangkal, putih, kering, licin atau bertepung halus, tanpa cincin. Pangkal duduk dalam volva putih berbentuk kantung setinggi 2–3 cm, yang sering terbenam di tanah dan tepinya dapat sobek.",
+      "flesh": "Daging putih dan lunak serta tidak berubah warna saat dipotong. Bau tidak jelas atau agak seperti lobak, kadang dibandingkan dengan kentang mentah yang sudah dikupas; rasanya lembut.",
+      "sporePrint": "Cetakan spora merah muda hingga cokelat kemerahan muda atau merah salmon. Spora licin dan elips; kisaran yang dipublikasikan mencakup sekitar 11–18 × 7–10 µm dan 12–20 × 8–12 µm.",
+      "habitat": "Tumbuh di tanah pada tempat kaya hara yang terganggu: ladang biji-bijian dan kubis yang telah dipanen, padang rumput lembap, tepi jalan berumput, rumput halaman, kebun, kompos, kotoran, jerami, serbuk gergaji, dan tumpukan serpihan kayu, biasanya bukan pada batang hidup. Di Eropa beriklim sedang biasanya berbuah dari Mei atau Juli hingga November, dan di Eropa selatan dapat muncul hingga awal Maret; di iklim sedang ia dapat ditemukan pada waktu lain dalam tahun.",
+      "uses": "Dapat dimakan, tetapi tidak sangat dihargai dan agak berair. Biasanya dimasak dalam keadaan segar. Karena spesimen muda berinsang putih dapat dikelirukan dengan jamur beracun mematikan yang memiliki volva, jamur ini hanya boleh dimakan ketika identifikasinya sudah pasti.",
+      "confusion": "Amanita phalloides dan Amanita virosa yang mematikan juga memiliki volva berbentuk kantung dan tudung pucat, tetapi insang dan cetakan sporanya tetap putih dan biasanya memiliki cincin; mereka biasanya tumbuh bersama pohon, bukan pada kompos atau ladang tunggul. Spesimen muda spesies ini masih memiliki insang putih, sehingga warna insang saja tidak cukup. Volvariella bombycina memiliki tudung yang jelas seperti sutra hingga berambut dan tumbuh pada batang kayu daun yang rusak, bukan pada tanah atau kompos. Spesies Pluteus dapat memiliki insang merah muda tetapi tidak memiliki volva. Leucoagaricus leucothites dapat memiliki tudung putih dan insang kemerahan muda, tetapi tidak memiliki volva.",
+      "notes": "Warna tudung bervariasi, dari putih hingga cokelat keabu-abuan; tubuh buah pucat dan yang lebih gelap dapat berkembang dari miselium yang sama. Spesies berkerabat dalam genus yang sama dipisahkan terutama berdasarkan ciri mikroskopis dan data DNA.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo saprotrofo di suoli ricchi e disturbati, tra cui stoppie, cigli erbosi, prati, giardini, compost e cumuli di cippato. È ampiamente segnalato dalle regioni temperate e temperato-calde di tutti i continenti tranne l'Antartide, e compare spesso in gruppi dopo la stesura di materia organica fresca.",
+      "cap": "Il cappello misura tipicamente 5–15 cm di diametro. È dapprima ovoidale o conico, poi convesso fino a quasi piano, talvolta con un basso umbone o, da vecchio, con una lieve depressione centrale. La superficie è nettamente viscida a umido e secca con un riflesso setoso; il colore va dal bianco puro al grigio o al grigio-bruno, spesso più scuro al centro, e con l'età vira al crema o all'ocra. Il margine dei cappelli più vecchi può essere debolmente striato.",
+      "hymenium": "Le lamelle sono libere, fitte e larghe e possono essere pance al centro. Sono dapprima bianche e diventano rosa o salmone a maturazione delle spore.",
+      "stipe": "Il gambo misura tipicamente 5–22,5 cm di lunghezza e 0,7–2,5 cm di spessore, cilindrico e allargato verso la base, bianco, asciutto, liscio o finemente pruinoso, senza anello. La base è inserita in una volva bianca, a sacco, alta 2–3 cm, spesso interrata e con il bordo che può essere lacerato.",
+      "flesh": "La carne è bianca e morbida e non cambia colore al taglio. L'odore è evanescente o debolmente rafanoide, talvolta paragonato a quello della patata cruda sbucciata; il sapore è mite.",
+      "sporePrint": "La sporata è rosa, rosa-bruno o salmone. Le spore sono lisce ed ellittiche; gli intervalli pubblicati comprendono circa 11–18 × 7–10 µm e 12–20 × 8–12 µm.",
+      "habitat": "Cresce sul suolo in luoghi ricchi e disturbati: campi di cereali e di cavoli dopo il raccolto, pascoli umidi, cigli erbosi, prati, giardini, compost, letame, paglia, segatura e cumuli di cippato, tipicamente non su tronchi vivi. Nell'Europa temperata fruttifica di solito da maggio o luglio a novembre, e nell'Europa meridionale può comparire fino all'inizio di marzo; nei climi miti lo si può trovare in altri periodi dell'anno.",
+      "uses": "È commestibile, ma poco apprezzato e piuttosto acquoso. Si prepara generalmente fresco. Poiché gli esemplari giovani con lamelle bianche possono essere confusi con funghi mortali provvisti di volva, va consumato solo quando l'identificazione è certa.",
+      "confusion": "Le specie mortali Amanita phalloides e Amanita virosa hanno anch'esse una volva a sacco e cappelli pallidi, ma le lamelle e la sporata restano bianche e di solito possiedono un anello; crescono tipicamente presso gli alberi, non su compost o stoppie. Gli esemplari giovani di questa specie hanno ancora lamelle bianche, perciò il colore delle lamelle da solo non basta. Volvariella bombycina ha un cappello nettamente setoso o peloso e cresce su tronchi di latifoglie danneggiati, non sul suolo o sul compost. Le specie di Pluteus possono avere lamelle rosa, ma sono prive di volva. Leucoagaricus leucothites può avere un cappello bianco e lamelle rosate, ma è privo di volva.",
+      "notes": "Il colore del cappello è variabile, dal bianco al grigio-bruno; carpofori pallidi e più scuri possono svilupparsi dallo stesso micelio. Le specie affini dello stesso genere si distinguono soprattutto per caratteri microscopici e dati di DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "Volvaria vischiosa"
+    },
+    "ja": {
+      "description": "養分の豊かな攪乱地に生じる腐生菌で、刈り跡の畑、草の生えた路傍、芝生、庭、堆肥、ウッドチップの山などに見られる。南極大陸を除くすべての大陸の温帯および暖温帯から広く報告され、新しい有機物が敷かれたあとにしばしば群れとなって現れる。",
+      "cap": "傘はふつう直径5–15 cm。初めは卵形または円錐形で、のちに凸形からほぼ平らになり、低い中央突起を持つことも、老成するとわずかに中央がへこむこともある。表面は湿時に著しく粘り、乾くと絹状の光沢を帯びる。色は純白から灰色または灰褐色まで変化し、中央ほど濃いことが多く、老成するとクリーム色や黄土色になる。古い傘の縁にはかすかな条線が出ることがある。",
+      "hymenium": "ひだは離生し、密で幅広く、中央がふくらむことがある。初めは白く、胞子が熟すと桃色から鮭肉色になる。",
+      "stipe": "柄はふつう長さ5–22.5 cm、太さ0.7–2.5 cmで、円柱形で基部に向かって太くなり、白く、乾き、平滑または微粉状で、つばはない。基部は高さ2–3 cmの白い袋状のつぼに収まり、つぼはしばしば地中に埋もれ、縁が裂けることがある。",
+      "flesh": "肉は白く柔らかく、切断しても変色しない。香りはほとんどないかごく弱い大根様で、生の皮をむいたジャガイモにたとえられることもある。味は温和。",
+      "sporePrint": "胞子紋は桃色から桃褐色、または鮭肉色。胞子は平滑で楕円形。公表されている大きさはおよそ11–18 × 7–10 µmおよび12–20 × 8–12 µm。",
+      "habitat": "養分の豊かな攪乱地の土壌に生じ、刈り取られた穀物畑やキャベツ畑、湿った牧草地、草の生えた路傍、芝生、庭、堆肥、糞、藁、おがくず、ウッドチップの山などに見られ、生きた幹上にはふつう生じない。温帯ヨーロッパではふつう5月または7月から11月に子実体をつけ、南ヨーロッパでは3月上旬まで現れることがあり、温暖な気候ではほかの時期にも見られる。",
+      "uses": "食用にはなるが評価は高くなく、やや水っぽい。ふつうは新鮮なうちに調理される。白いひだをもつ若い個体はつぼのある致死性の菌と間違えられることがあるため、同定が確実な場合にのみ食べるべきである。",
+      "confusion": "致死性のAmanita phalloidesおよびAmanita virosaも袋状のつぼと淡色の傘をもつが、ひだと胞子紋は白いままで、ふつうつばがある。これらは堆肥や刈り跡よりも樹木とともに生じることが多い。本種の若い個体もまだ白いひだをもつため、ひだの色だけでは十分でない。Volvariella bombycinaは明らかに絹状から毛状の傘をもち、土壌や堆肥ではなく損傷した広葉樹の幹に生じる。Pluteusの種は桃色のひだをもつことがあるが、つぼを欠く。Leucoagaricus leucothitesは白い傘と桃色がかったひだをもつことがあるが、つぼはない。",
+      "notes": "傘の色は白から灰褐色まで変異に富み、淡色の子実体とより濃色の子実体が同じ菌糸体から生じることがある。同属の近縁種はおもに顕微鏡的形質とDNA配列データによって区別される。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "シロフクロタケ"
+    },
+    "ko": {
+      "description": "양분이 풍부하고 교란된 땅의 부생 버섯으로, 그루터기밭, 풀이 난 길가, 잔디밭, 정원, 퇴비, 나무 칩 더미 등에서 난다. 남극 대륙을 제외한 모든 대륙의 온대 및 난온대 지역에서 널리 보고되며, 신선한 유기물이 깔린 뒤에 종종 무리 지어 나타난다.",
+      "cap": "갓은 보통 지름 5–15 cm이다. 처음에는 달걀형 또는 원추형이다가 나중에 볼록해지거나 거의 편평해지며, 낮은 중앙 돌기가 있거나 늙으면 가운데가 약간 움푹 들어가기도 한다. 표면은 젖었을 때 뚜렷이 점성이 있고 마르면 비단 같은 광택이 난다. 색은 순백에서 회색 또는 회갈색까지이며 가운데가 더 진한 경우가 많고, 나이가 들면 크림색이나 황토색으로 변한다. 오래된 갓의 가장자리에는 약한 줄무늬가 생길 수 있다.",
+      "hymenium": "주름은 떨어진형이고 빽빽하며 넓고, 가운데가 볼록할 수 있다. 처음에는 희고, 포자가 익으면 분홍에서 연어색 분홍이 된다.",
+      "stipe": "대는 보통 길이 5–22.5 cm, 두께 0.7–2.5 cm이며, 원기둥형으로 밑동을 향해 굵어지고, 희고 마르며 매끄럽거나 미세한 가루가 있고 턱받이는 없다. 밑동은 높이 2–3 cm의 흰 자루 모양 외피막 안에 있으며, 외피막은 종종 땅에 묻혀 있고 가장자리가 찢어질 수 있다.",
+      "flesh": "살은 희고 부드러우며 잘라도 색이 변하지 않는다. 냄새는 거의 없거나 약한 무 향이며, 껍질을 벗긴 생감자와 비교되기도 한다. 맛은 온화하다.",
+      "sporePrint": "포자무늬는 분홍에서 분홍갈색, 또는 연어색 분홍이다. 포자는 매끄럽고 타원형이다. 보고된 크기는 약 11–18 × 7–10 µm 및 12–20 × 8–12 µm이다.",
+      "habitat": "양분이 풍부하고 교란된 곳의 흙에서 자라며, 수확된 곡물밭과 양배추밭, 습한 목초지, 풀이 난 길가, 잔디밭, 정원, 퇴비, 똥, 짚, 톱밥, 나무 칩 더미에 나고, 살아있는 줄기에서는 보통 나지 않는다. 온대 유럽에서는 보통 5월 또는 7월부터 11월까지 자실체가 나오고, 남유럽에서는 3월 초까지 나타날 수 있으며, 온화한 기후에서는 한 해의 다른 시기에도 볼 수 있다.",
+      "uses": "식용은 되지만 평가가 높지 않고 다소 물기가 많다. 보통 신선한 상태로 조리한다. 흰 주름을 가진 어린 개체는 외피막이 있는 치명적인 버섯과 혼동될 수 있으므로, 동정이 확실한 경우에만 먹어야 한다.",
+      "confusion": "치명적인 Amanita phalloides와 Amanita virosa도 자루 모양 외피막과 옅은 갓을 가지지만, 주름과 포자무늬는 희게 남고 보통 턱받이가 있다. 이들은 퇴비나 그루터기밭보다 나무와 함께 나는 것이 전형적이다. 이 종의 어린 개체도 아직 흰 주름을 가지므로 주름 색깔만으로는 충분하지 않다. Volvariella bombycina는 뚜렷이 비단 같거나 털이 난 갓을 가지며, 흙이나 퇴비가 아니라 손상된 활엽수 줄기에 난다. Pluteus 종은 분홍 주름을 가질 수 있으나 외피막이 없다. Leucoagaricus leucothites는 흰 갓과 연한 분홍 주름을 가질 수 있으나 외피막이 없다.",
+      "notes": "갓 색깔은 흰색에서 회갈색까지 변이가 크며, 옅은 자실체와 더 어두운 자실체가 같은 균사체에서 자랄 수 있다. 같은 속의 근연종은 주로 현미경적 형질과 DNA 서열 자료로 구분한다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "제주비단털버섯"
+    },
+    "lt": {
+      "description": "Saprotrofinis grybas maistingose, pažeistose dirvose, įskaitant ražienas, žolėtas kelkraščius, vejas, sodus, kompostą ir medienos skiedrų krūvas. Jis plačiai nurodomas iš vidutinio ir šilto vidutinio klimato sričių visuose žemynuose, išskyrus Antarktidą, ir dažnai pasirodo grupėmis po to, kai paskleidžiama šviežia organinė medžiaga.",
+      "cap": "Kepurėlė paprastai būna 5–15 cm skersmens. Pirma ji kiaušiniška ar kūgiška, vėliau iškili iki beveik plokščios, kartais su žema gūbrele arba senatvėje su nedidele įduba viduryje. Paviršius drėgnas aiškiai lipnus ir išdžiūvęs įgyja šilkinį blizgesį; spalva eina nuo grynos baltos iki pilkos ar pilkai rudos, viduryje dažnai tamsesnė, o su amžiumi pereina į kreminę ar ochrinę. Senesnių kepurėlių kraštas gali būti silpnai vagotas.",
+      "hymenium": "Lakšteliai laisvi, tankūs ir platūs, vidurinėje dalyje gali būti pilvoti. Pirma jie balti, o sporoms bręstant parausta iki lašišinės rožinės.",
+      "stipe": "Kotas paprastai 5–22,5 cm ilgio ir 0,7–2,5 cm storio, cilindriškas ir platėjantis link pagrindo, baltas, sausas, lygus ar smulkiai apsitraukęs milteliais, be žiedo. Pagrindas sėdi baltoje, maišelio pavidalo makštyje, 2–3 cm aukščio, dažnai įleistame į dirvą, kurio kraštas gali būti plyšęs.",
+      "flesh": "Mėsa balta ir minkšta ir perpjauta spalvos nekeičia. Kvapas silpnas arba šiek tiek ridikinis, kartais lyginamas su žalia nulupta bulve; skonis švelnus.",
+      "sporePrint": "Sporų milteliai rožiniai, rožiniai rudi arba lašišinės rožinės. Sporos lygios ir elipsiškos; skelbiami intervalai apima apie 11–18 × 7–10 µm ir 12–20 × 8–12 µm.",
+      "habitat": "Auga dirvoje maistingose, pažeistose vietose: nupjautuose javų ir kopūstų laukuose, drėgnose ganyklose, žolėtuose kelkraščiuose, vejose, soduose, komposte, mėšle, šiauduose, pjuvenose ir skiedrų krūvose, paprastai ne ant gyvų kamienų. Vidutinio klimato Europoje paprastai dera nuo gegužės arba liepos iki lapkričio, o Pietų Europoje gali pasirodyti iki kovo pradžios; švelniame klimate jį galima rasti ir kitu metų laiku.",
+      "uses": "Jis valgomas, bet nėra labai vertinamas ir gana vandeningas. Paprastai ruošiamas šviežias. Kadangi jauni vaisiakūniai su baltais lakšteliais gali būti painiojami su mirtinai nuodingais grybais, turinčiais makštį, jį reikėtų valgyti tik tada, kai nustatymas tikras.",
+      "confusion": "Mirtinai nuodingos Amanita phalloides ir Amanita virosa taip pat turi maišelio pavidalo makštį ir blyškias kepurėles, bet jų lakšteliai ir sporų milteliai lieka balti ir paprastai turi žiedą; jos paprastai auga prie medžių, ne ant komposto ar ražienų. Šios rūšies jauni vaisiakūniai dar turi baltus lakštelius, todėl vien lakštelių spalvos neužtenka. Volvariella bombycina turi aiškiai šilkinę ar plaukuotą kepurėlę ir auga ant pažeistų lapuočių kamienų, ne ant dirvos ar komposto. Pluteus rūšys gali turėti rožinius lakštelius, bet neturi makšties. Leucoagaricus leucothites gali turėti baltą kepurėlę ir rožinius lakštelius, bet makšties neturi.",
+      "notes": "Kepurėlės spalva kintama, nuo baltos iki pilkai rudos; blyškūs ir tamsesni vaisiakūniai gali išsivystyti iš to paties micelio. Tos pačios genties giminingos rūšys skiriamos daugiausia pagal mikroskopinius požymius ir DNR duomenis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "stambioji dirvūnė"
+    },
+    "lv": {
+      "description": "Saprotrofa sēne barības vielām bagātās, traucētās augsnēs, tostarp rugājos, zāļainās ceļmalās, zālājos, dārzos, kompostā un koksnes šķeldas kaudzēs. Tā ir plaši ziņota no mērenām un silti mērenām teritorijām visos kontinentos, izņemot Antarktiku, un bieži parādās grupās pēc svaigas organiskās vielas izklāšanas.",
+      "cap": "Cepurīte parasti ir 5–15 cm plata. Sākumā tā ir olveida vai koniska, vēlāk izliekta līdz gandrīz plakana, dažkārt ar zemu pauguru vai vecumā ar nelielu ieplaku vidū. Virsma mitrumā ir skaidri lipīga un izžūstot iegūst zīdaini spīdumu; krāsa iet no tīri baltas līdz pelēkai vai pelēkbrūnai, vidū bieži tumšāka, un ar vecumu kļūst krēmīga vai okera. Vecāku cepurīšu mala var būt vāji rievota.",
+      "hymenium": "Lapiņas ir brīvas, blīvas un platas un vidusdaļā var būt vēderainas. Sākumā tās ir baltas un sporu nogatavošanās laikā kļūst rozā līdz laša rozā.",
+      "stipe": "Kātiņš parasti ir 5–22,5 cm garš un 0,7–2,5 cm biezs, cilindrisks un paplašinās pret pamatni, balts, sauss, gluds vai smalki apputējis, bez gredzena. Pamatne sēž baltā, maisveida makstī, 2–3 cm augstā, kas bieži ir iegremdēta augsnē un kuras mala var būt saplēsta.",
+      "flesh": "Mīkstums ir balts un mīksts un pārgriežot krāsu nemaina. Smarža ir vāja vai viegli redīšaina, dažkārt salīdzināta ar jēlu nomizotu kartupeli; garša ir maiga.",
+      "sporePrint": "Sporu putekļi ir rozā, rozīgi brūni vai laša rozā. Sporas ir gludas un eliptiskas; publicētie izmēri ietver aptuveni 11–18 × 7–10 µm un 12–20 × 8–12 µm.",
+      "habitat": "Aug augsnē barības vielām bagātās, traucētās vietās: novāktos graudu un kāpostu laukos, mitrās ganībās, zāļainās ceļmalās, zālājos, dārzos, kompostā, mēslos, salmos, zāģu skaidās un šķeldas kaudzēs, parasti ne uz dzīviem stumbriem. Mērenajā Eiropā parasti augļo no maija vai jūlija līdz novembrim, un Dienvideiropā var parādīties līdz marta sākumam; maigā klimatā to var atrast arī citā gada laikā.",
+      "uses": "Tā ir ēdama, bet nav augsti vērtēta un ir diezgan ūdeņaina. Parasti to gatavo svaigu. Tā kā jaunus augļķermeņus ar baltām lapiņām var sajaukt ar nāvējoši indīgām sēnēm, kam ir maksts, to vajadzētu ēst tikai tad, kad noteikšana ir droša.",
+      "confusion": "Nāvējoši indīgajām Amanita phalloides un Amanita virosa arī ir maisveida maksts un bālas cepurītes, bet to lapiņas un sporu putekļi paliek balti, un tām parasti ir gredzens; tās tipiski aug pie kokiem, nevis uz komposta vai rugājiem. Šīs sugas jauniem augļķermeņiem lapiņas vēl ir baltas, tāpēc tikai lapiņu krāsa nepietiek. Volvariella bombycina ir skaidri zīdaina līdz mataina cepurīte un aug uz bojātiem lapkoku stumbriem, nevis uz augsnes vai komposta. Pluteus sugām var būt rozā lapiņas, bet tām nav maksts. Leucoagaricus leucothites var būt balta cepurīte un sārtas lapiņas, bet maksts nav.",
+      "notes": "Cepurītes krāsa ir mainīga, no baltas līdz pelēkbrūnai; bāli un tumšāki augļķermeņi var attīstīties no vienas un tās pašas micēlijas. Tās pašas ģints tuvās sugas nošķir galvenokārt pēc mikroskopiskām pazīmēm un DNS datiem.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+        "https://www.gbif.org/species/8329645"
+      ],
+      "label": "gļotgalvainā makstaine"
+    },
+    "nl": {
+      "description": "Een saprotrofe paddenstoel van voedselrijke, verstoorde grond, waaronder stoppelvelden, grazige bermen, gazons, tuinen, compost en hopen houtsnippers. Hij wordt wijd opgegeven uit gematigde en warmgematigde gebieden op alle continenten behalve Antarctica, en verschijnt vaak in groepjes nadat vers organisch materiaal is uitgespreid.",
+      "cap": "De hoed is typisch 5–15 cm breed. Hij is eerst eivormig of conisch, later gewelfd tot bijna plat, soms met een lage umbo of op oudere leeftijd met een lichte centrale inzinking. Het oppervlak is bij vocht duidelijk kleverig en droogt tot een zijdeachtige glans; de kleur loopt van zuiver wit tot grijs of grijzig bruin, in het midden vaak donkerder, en wordt met de leeftijd roomkleurig of oker. De rand van oudere hoeden kan zwak gegroefd zijn.",
+      "hymenium": "De lamellen zijn vrij, dicht opeen en breed, en kunnen in het midden buikig zijn. Ze zijn eerst wit en worden roze tot zalmroze wanneer de sporen rijpen.",
+      "stipe": "De steel is typisch 5–22,5 cm lang en 0,7–2,5 cm dik, cilindrisch en naar de basis toe verbreed, wit, droog, en glad of fijn berijpt, zonder ring. De basis zit in een witte, zakvormige volva van 2–3 cm hoog, die vaak in de grond is begraven en aan de rand gescheurd kan zijn.",
+      "flesh": "Het vlees is wit en zacht en verandert niet van kleur bij doorsnijden. De geur is onopvallend of zwak radijsachtig, soms vergeleken met rauwe geschilde aardappel; de smaak is mild.",
+      "sporePrint": "De sporenafdruk is roze tot rosebruin of zalmroze. De sporen zijn glad en elliptisch; gepubliceerde maten omvatten ongeveer 11–18 × 7–10 µm en 12–20 × 8–12 µm.",
+      "habitat": "Hij groeit op de grond op voedselrijke, verstoorde plaatsen: geoogste graan- en koolvelden, vochtige weilanden, grazige bermen, gazons, tuinen, compost, mest, stro, zaagsel en hopen houtsnippers, typisch niet op levende stammen. In gematigd Europa vrucht hij gewoonlijk van mei of juli tot november, en in Zuid-Europa kan hij tot begin maart verschijnen; in milde klimaten is hij ook op andere tijden van het jaar te vinden.",
+      "uses": "Hij is eetbaar, maar wordt niet hoog gewaardeerd en is nogal waterig. Hij wordt gewoonlijk vers bereid. Omdat jonge exemplaren met witte lamellen verward kunnen worden met dodelijke paddenstoelen met een volva, moet hij alleen gegeten worden wanneer de determinatie zeker is.",
+      "confusion": "De dodelijke Amanita phalloides en Amanita virosa hebben eveneens een zakvormige volva en bleke hoeden, maar hun lamellen en sporenafdruk blijven wit en ze hebben gewoonlijk een ring; ze groeien typisch bij bomen, niet op compost of stoppels. Jonge exemplaren van deze soort hebben nog witte lamellen, zodat de lamellenkleur alleen niet volstaat. Volvariella bombycina heeft een duidelijk zijdeachtige tot harige hoed en groeit op beschadigde loofhoutstammen, niet op grond of compost. Pluteus-soorten kunnen roze lamellen hebben maar missen een volva. Leucoagaricus leucothites kan een witte hoed en roze lamellen hebben, maar heeft geen volva.",
+      "notes": "De hoedkleur is variabel, van wit tot grijzig bruin; bleke en donkerdere vruchtlichamen kunnen uit hetzelfde mycelium ontstaan. Verwante soorten in hetzelfde geslacht worden vooral gescheiden op microscopische kenmerken en DNA-gegevens.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+        "https://nl.wikipedia.org/wiki/Gewone_beurszwam"
+      ],
+      "label": "Gewone beurszwam"
+    },
+    "no": {
+      "description": "En saprotrof sopp på næringsrik, forstyrret jord, blant annet stubbåkre, gresskledde veikanter, plener, hager, kompost og hauger av flis. Den er vidt oppgitt fra tempererte og varmtempererte områder på alle kontinenter unntatt Antarktis, og den opptrer ofte i grupper etter at ferskt organisk materiale er lagt ut.",
+      "cap": "Hatten er typisk 5–15 cm bred. Den er først eggformet eller kjegleformet, senere hvelvet til nesten flat, av og til med en lav pukkel eller som gammel med en svak fordypning i midten. Overflaten er tydelig klebrig i fuktig vær og tørker til en silkeaktig glans; fargen går fra rent hvit til grå eller gråbrun, ofte mørkere i midten, og blir med alderen kremfarget eller oker. Randen hos eldre hatter kan være svakt furet.",
+      "hymenium": "Skivene er frie, tette og brede og kan være bukete på midten. De er først hvite og blir rosa til lakserosa når sporene modnes.",
+      "stipe": "Stokken er typisk 5–22,5 cm lang og 0,7–2,5 cm tykk, sylindrisk og bredere mot basis, hvit, tørr og glatt eller fint pudret, uten ring. Basis sitter i en hvit, sekkformet volva, 2–3 cm høy, som ofte er begravd i jorden og kan være revnet i kanten.",
+      "flesh": "Kjøttet er hvitt og mykt og skifter ikke farge ved gjennomskjæring. Lukten er ubetydelig eller svakt reddikaktig, av og til sammenlignet med rå skrelt potet; smaken er mild.",
+      "sporePrint": "Sporeavtrykket er rosa til rosabrunt eller lakserosa. Sporene er glatte og elliptiske; publiserte mål omfatter omtrent 11–18 × 7–10 µm og 12–20 × 8–12 µm.",
+      "habitat": "Den vokser på jord på næringsrike, forstyrrede steder: høstede korn- og kålfelt, fuktige beiter, gresskledde veikanter, plener, hager, kompost, gjødsel, halm, sagflis og flishauger, typisk ikke på levende stammer. I temperert Europa frukter den vanligvis fra mai eller juli til november, og i Sør-Europa kan den vise seg inn i begynnelsen av mars; i milde klima kan den finnes til andre tider av året.",
+      "uses": "Den er spiselig, men ikke høyt verdsatt og ganske vannaktig. Den tilberedes vanligvis fersk. Fordi unge fruktlegemer med hvite skiver kan forveksles med dødelig giftige volvabærende sopper, bør den bare spises når bestemmelsen er sikker.",
+      "confusion": "De dødelig giftige Amanita phalloides og Amanita virosa har også en sekkformet volva og bleke hatter, men skivene og sporeavtrykket forblir hvite, og de har vanligvis en ring; de vokser typisk med trær snarere enn på kompost eller stubbåkre. Unge fruktlegemer av denne arten har fortsatt hvite skiver, så skivefargen alene er ikke nok. Volvariella bombycina har en tydelig silke- til håret hatt og vokser på skadede løvtrestammer, ikke på jord eller kompost. Pluteus-arter kan ha rosa skiver, men mangler volva. Leucoagaricus leucothites kan ha en hvit hatt og rosa skiver, men har ingen volva.",
+      "notes": "Hattens farge er variabel, fra hvit til gråbrun; bleke og mørkere fruktlegemer kan utvikle seg fra det samme myceliet. Beslektede arter i samme slekt skilles hovedsakelig ved mikroskopiske trekk og DNA-data.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "kompostsliresopp"
+    },
+    "pl": {
+      "description": "Saprotroficzny grzyb żyznych, zaburzonych gleb, w tym ściernisk, trawiastych poboczy, trawników, ogrodów, kompostu i pryzm zrębków. Jest szeroko podawany z obszarów umiarkowanych i ciepłoumiarkowanych na wszystkich kontynentach oprócz Antarktydy i często pojawia się w grupach po rozłożeniu świeżej materii organicznej.",
+      "cap": "Kapelusz ma typowo 5–15 cm średnicy. Najpierw jest jajowaty lub stożkowaty, później wypukły do niemal płaskiego, czasem z niskim garbkiem albo w starości z lekkim zagłębieniem pośrodku. Powierzchnia jest wilgotna wyraźnie lepka i wysycha do jedwabistego połysku; barwa sięga od czysto białej po szarą lub szarobrązową, pośrodku często ciemniejsza, a z wiekiem przechodzi w kremową lub ochrową. Brzeg starszych kapeluszy może być słabo prążkowany.",
+      "hymenium": "Blaszki są wolne, gęste i szerokie, a w środkowej części mogą być brzuchate. Najpierw są białe, a w miarę dojrzewania zarodników różowieją do łososioworóżowych.",
+      "stipe": "Trzon ma typowo 5–22,5 cm długości i 0,7–2,5 cm grubości, jest walcowaty i rozszerza się ku podstawie, biały, suchy i gładki lub drobno oprószony, bez pierścienia. Podstawa tkwi w białej, workowatej pochwie wysokiej na 2–3 cm, często zagłębionej w glebie, o brzegu, który może być poszarpany.",
+      "flesh": "Miąższ jest biały i miękki i po przekrojeniu nie zmienia barwy. Zapach jest niewyraźny lub słabo rzodkiewkowaty, bywa porównywany do surowego obranego ziemniaka; smak jest łagodny.",
+      "sporePrint": "Wysyp zarodników jest różowy do różowobrązowego lub łososioworóżowy. Zarodniki są gładkie i eliptyczne; podawane zakresy obejmują około 11–18 × 7–10 µm oraz 12–20 × 8–12 µm.",
+      "habitat": "Rośnie na glebie w żyznych, zaburzonych miejscach: na zebranych polach zbożowych i kapuścianych, wilgotnych pastwiskach, trawiastych poboczach, trawnikach, w ogrodach, na kompoście, oborniku, słomie, trocinach i pryzmach zrębków, typowo nie na żywych pniach. W umiarkowanej Europie owocuje zwykle od maja lub lipca do listopada, a w Europie południowej może pojawiać się do początku marca; w łagodnym klimacie można go znaleźć także w innych porach roku.",
+      "uses": "Jest jadalny, ale nie jest wysoko ceniony i jest dość wodnisty. Zwykle przyrządza się go na świeżo. Ponieważ młode owocniki o białych blaszkach można pomylić ze śmiertelnie trującymi grzybami z pochwą, powinien być spożywany tylko przy pewnym oznaczeniu.",
+      "confusion": "Śmiertelnie trujące Amanita phalloides i Amanita virosa również mają workowatą pochwę i blade kapelusze, ale ich blaszki i wysyp zarodników pozostają białe, a zwykle mają pierścień; typowo rosną przy drzewach, nie na kompoście ani ścierniskach. Młode owocniki tego gatunku mają jeszcze białe blaszki, więc barwa blaszek sama nie wystarcza. Volvariella bombycina ma wyraźnie jedwabisty do owłosionego kapelusz i rośnie na uszkodzonych pniach drzew liściastych, nie na glebie ani kompoście. Gatunki z rodzaju Pluteus mogą mieć różowe blaszki, ale nie mają pochwy. Leucoagaricus leucothites może mieć biały kapelusz i różowawe blaszki, ale nie ma pochwy.",
+      "notes": "Barwa kapelusza jest zmienna, od białej po szarobrązową; blade i ciemniejsze owocniki mogą rozwijać się z tej samej grzybni. Pokrewne gatunki w tym samym rodzaju rozdziela się przede wszystkim na podstawie cech mikroskopowych i danych o DNA.",
+      "names": [
+        "pochwiak okazały"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Pochwiakowiec_okaza%C5%82y",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "pochwiakowiec okazały"
+    },
+    "pt": {
+      "description": "Um fungo saprótrofo de solos ricos e perturbados, incluindo restolhos, bermas relvadas, relvados, jardins, composto e montes de estilha de madeira. É amplamente referido de regiões temperadas e temperado-quentes em todos os continentes exceto a Antártida, e aparece frequentemente em grupos após a aplicação de matéria orgânica fresca.",
+      "cap": "O chapéu mede tipicamente 5–15 cm de diâmetro. É primeiro ovoide ou cónico, depois convexo até quase plano, por vezes com um umbo baixo ou, na velhice, com uma ligeira depressão central. A superfície é claramente viscosa quando húmida e seca com um brilho sedoso; a cor vai do branco puro ao cinzento ou cinzento-acastanhado, muitas vezes mais escura no centro, e com a idade passa a creme ou ocre. A margem dos chapéus mais velhos pode ser fracamente estriada.",
+      "hymenium": "As lâminas são livres, apertadas e largas, e podem ser ventrudas no meio. São primeiro brancas e tornam-se cor-de-rosa ou salmão quando os esporos amadurecem.",
+      "stipe": "O pé mede tipicamente 5–22,5 cm de comprimento e 0,7–2,5 cm de espessura, cilíndrico e alargado para a base, branco, seco, liso ou finamente pruinoso, sem anel. A base assenta numa volva branca, em forma de saco, com 2–3 cm de altura, muitas vezes enterrada no solo e cujo bordo pode estar rasgado.",
+      "flesh": "A carne é branca e mole e não muda de cor ao corte. O cheiro é ténue ou ligeiramente rabanete, por vezes comparado ao da batata crua descascada; o sabor é suave.",
+      "sporePrint": "A esporada é rosa, rosa-acastanhada ou salmão. Os esporos são lisos e elípticos; os intervalos publicados incluem cerca de 11–18 × 7–10 µm e 12–20 × 8–12 µm.",
+      "habitat": "Cresce no solo em lugares ricos e perturbados: campos de cereais e de couve já colhidos, pastagens húmidas, bermas relvadas, relvados, jardins, composto, estrume, palha, serradura e montes de estilha, tipicamente não em troncos vivos. Na Europa temperada frutifica habitualmente de maio ou julho a novembro, e no sul da Europa pode aparecer até ao início de março; em climas amenos pode ser encontrado noutras alturas do ano.",
+      "uses": "É comestível, mas pouco apreciado e bastante aquoso. Costuma preparar-se fresco. Como os exemplares jovens de lâminas brancas podem ser confundidos com fungos mortais providos de volva, só deve ser consumido quando a identificação é certa.",
+      "confusion": "As espécies mortais Amanita phalloides e Amanita virosa também têm uma volva em forma de saco e chapéus pálidos, mas as suas lâminas e esporada permanecem brancas e costumam ter um anel; crescem tipicamente junto a árvores, não em composto ou restolho. Os exemplares jovens desta espécie ainda têm lâminas brancas, pelo que a cor das lâminas por si só não basta. Volvariella bombycina tem um chapéu claramente sedoso ou peludo e cresce em troncos danificados de folhosas, não no solo ou no composto. As espécies de Pluteus podem ter lâminas cor-de-rosa, mas não têm volva. Leucoagaricus leucothites pode ter chapéu branco e lâminas rosadas, mas não tem volva.",
+      "notes": "A cor do chapéu é variável, do branco ao cinzento-acastanhado; corpos frutíferos pálidos e mais escuros podem desenvolver-se a partir do mesmo micélio. As espécies aparentadas do mesmo género separam-se sobretudo por caracteres microscópicos e dados de ADN.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă a solurilor bogate și perturbate, inclusiv mirişti, margini ierboase de drum, gazon, grădini, compost și grămezi de rumeguș de lemn. Este raportată pe scară largă din regiuni temperate și temperat-calde de pe toate continentele, cu excepția Antarcticii, și apare adesea în grupuri după depunerea de materie organică proaspătă.",
+      "cap": "Pălăria are de obicei 5–15 cm în diametru. Este mai întâi ovoidă sau conică, apoi convexă până aproape plană, uneori cu un umbo jos sau, la bătrânețe, cu o ușoară depresiune centrală. Suprafața este clar vâscoasă la umezeală și se usucă cu un luciu mătăsos; culoarea trece de la alb pur la gri sau gri-brun, adesea mai închisă la centru, și cu vârsta devine crem sau ocru. Marginea pălăriilor bătrâne poate fi slab striată.",
+      "hymenium": "Lamelele sunt libere, dese și late și pot fi ventriculare la mijloc. Sunt mai întâi albe și devin roz până la somon când sporii se coc.",
+      "stipe": "Piciorul are de obicei 5–22,5 cm lungime și 0,7–2,5 cm grosime, cilindric și lățit spre bază, alb, uscat, neted sau fin pruinos, fără inel. Baza stă într-o volvă albă, în formă de sac, înaltă de 2–3 cm, adesea îngropată în sol, al cărei bord poate fi sfâșiat.",
+      "flesh": "Carnea este albă și moale și nu își schimbă culoarea la tăiere. Mirosul este slab sau ușor de ridiche, uneori comparat cu cel al cartofului crud curățat; gustul este blând.",
+      "sporePrint": "Pulberea de spori este roz, roz-brună sau somon. Sporii sunt netezi și eliptici; intervalele publicate includ aproximativ 11–18 × 7–10 µm și 12–20 × 8–12 µm.",
+      "habitat": "Crește pe sol în locuri bogate și perturbate: ogoare de cereale și de varză după recoltare, pășuni umede, margini ierboase de drum, gazon, grădini, compost, bălegar, paie, rumeguș și grămezi de așchii, de obicei nu pe trunchiuri vii. În Europa temperată fructifică de obicei din mai sau iulie până în noiembrie, iar în sudul Europei poate apărea până la începutul lunii martie; în climate blânde poate fi găsită și în alte perioade ale anului.",
+      "uses": "Este comestibilă, dar nu este foarte prețuită și este destul de apoasă. De obicei se prepară proaspătă. Deoarece exemplarele tinere cu lamele albe pot fi confundate cu ciuperci mortale prevăzute cu volvă, trebuie consumată doar când identificarea este sigură.",
+      "confusion": "Speciile mortale Amanita phalloides și Amanita virosa au și ele o volvă în formă de sac și pălării palide, dar lamelele și pulberea de spori rămân albe și au de obicei un inel; cresc tipic lângă arbori, nu pe compost sau mirişti. Exemplarele tinere ale acestei specii au încă lamele albe, astfel că doar culoarea lamelelor nu este suficientă. Volvariella bombycina are o pălărie vădit mătăsoasă sau păroasă și crește pe trunchiuri vătămate de foioase, nu pe sol sau compost. Speciile de Pluteus pot avea lamele roz, dar sunt fără volvă. Leucoagaricus leucothites poate avea pălărie albă și lamele rozalii, dar nu are volvă.",
+      "notes": "Culoarea pălăriei este variabilă, de la alb la gri-brun; corpurile de fructificație palide și mai închise se pot dezvolta din același miceliu. Speciile înrudite din același gen se despart mai ales după caractere microscopice și date de ADN.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Сапротрофный гриб питательных, нарушенных почв, включая стерню, травянистые обочины, газоны, сады, компост и кучи древесной щепы. Он широко отмечается в умеренных и теплоумеренных областях на всех континентах, кроме Антарктиды, и часто появляется группами после внесения свежего органического вещества.",
+      "cap": "Шляпка обычно 5–15 см в диаметре. Сначала она яйцевидная или коническая, затем выпуклая до почти плоской, иногда с низким бугорком или в старости со слабым центральным углублением. Поверхность во влажную погоду заметно клейкая и при высыхании приобретает шелковистый блеск; окраска от чисто белой до серой или серо-коричневой, в центре часто темнее, а с возрастом переходит в кремовую или охристую. Край старых шляпок может быть слабо рубчатым.",
+      "hymenium": "Пластинки свободные, частые и широкие, в средней части могут быть брюшковидными. Сначала они белые, а по созревании спор розовеют до лососево-розовых.",
+      "stipe": "Ножка обычно 5–22,5 см длиной и 0,7–2,5 см толщиной, цилиндрическая и расширяется к основанию, белая, сухая, гладкая или мелко мучнистая, без кольца. Основание сидит в белой мешковидной вольве высотой 2–3 см, часто погруженной в почву, край которой может быть разорван.",
+      "flesh": "Мякоть белая и мягкая и при разрезе не меняет цвет. Запах слабый или слегка редечный, иногда его сравнивают с сырым очищенным картофелем; вкус мягкий.",
+      "sporePrint": "Споровый порошок розовый, розовато-коричневый или лососево-розовый. Споры гладкие и эллиптические; опубликованные размеры включают примерно 11–18 × 7–10 мкм и 12–20 × 8–12 мкм.",
+      "habitat": "Растет на почве в питательных, нарушенных местах: на убранных зерновых и капустных полях, влажных пастбищах, травянистых обочинах, газонах, в садах, на компосте, навозе, соломе, опилках и кучах щепы, обычно не на живых стволах. В умеренной Европе обычно плодоносит с мая или июля по ноябрь, а в Южной Европе может появляться до начала марта; в мягком климате его можно встретить и в другое время года.",
+      "uses": "Съедобен, но невысоко ценится и довольно водянистый. Обычно готовится свежим. Поскольку молодые плодовые тела с белыми пластинками можно спутать со смертельно ядовитыми грибами с вольвой, его следует употреблять только при уверенном определении.",
+      "confusion": "Смертельно ядовитые Amanita phalloides и Amanita virosa также имеют мешковидную вольву и бледные шляпки, но их пластинки и споровый порошок остаются белыми, и обычно у них есть кольцо; они типично растут у деревьев, а не на компосте или стерне. Молодые плодовые тела этого вида еще имеют белые пластинки, поэтому цвет пластинок сам по себе недостаточен. У Volvariella bombycina шляпка отчетливо шелковистая или волосистая, и она растет на поврежденных стволах лиственных деревьев, а не на почве или компосте. Виды рода Pluteus могут иметь розовые пластинки, но лишены вольвы. Leucoagaricus leucothites может иметь белую шляпку и розоватые пластинки, но вольвы не имеет.",
+      "notes": "Окраска шляпки изменчива, от белой до серо-коричневой; бледные и более темные плодовые тела могут развиваться из одного и того же мицелия. Близкие виды того же рода различают главным образом по микроскопическим признакам и данным ДНК.",
+      "names": [
+        "вольвариелла слизистоголовая"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Volvopluteus_gloiocephalus",
+        "https://www.wikidata.org/wiki/Q26678484"
+      ],
+      "label": "Вольвоплютей слизистоголовый"
+    },
+    "sk": {
+      "description": "Saprotrófna huba živinami bohatých, narušených stanovíšť, vrátane strnísk, travnatých okrajov ciest, trávnikov, záhrad, kompostu a hromád drevnej štiepky. Je široko uvádzaná z miernych a teplomiernych oblastí na všetkých kontinentoch okrem Antarktídy a často sa objavuje v skupinách po uložení čerstvej organickej hmoty.",
+      "cap": "Klobúk má typicky 5–15 cm v priemere. Najprv je vajcovitý alebo kužeľovitý, potom vypuklý až takmer plochý, niekedy s nízkym hrbom alebo v starobe s miernou preliačinou v strede. Povrch je za vlhka výrazne lepkavý a po uschnutí hodvábne lesklý; farba siaha od čisto bielej po sivú alebo sivohnedú, v strede často tmavšia, a vekom prechádza do krémovej alebo okrovej. Okraj starších klobúkov môže byť slabo ryhovaný.",
+      "hymenium": "Lupene sú voľné, husté a široké a v strednej časti môžu byť bruškaté. Najprv sú biele a pri dozrievaní výtrusov ružovejú až lososovo ružovejú.",
+      "stipe": "Hlúbik má typicky 5–22,5 cm na dĺžku a 0,7–2,5 cm na hrúbku, je valcovitý a k báze sa rozširuje, biely, suchý a hladký alebo jemne poprášený, bez prsteňa. Báza sedí v bielej, vakovitej pochve vysokej 2–3 cm, ktorá býva často zahĺbená v pôde a na okraji môže byť roztrhnutá.",
+      "flesh": "Dužina je biela a mäkká a pri prerezaní nemení farbu. Vôňa je nevýrazná alebo slabo reďkovková, niekedy prirovnávaná k surovej olúpanej zemiakom; chuť je mierna.",
+      "sporePrint": "Výtrusný prach je ružový až ružovohnedý alebo lososovo ružový. Výtrusy sú hladké a elipsovité; uvádzané rozpätia zahŕňajú približne 11–18 × 7–10 µm a 12–20 × 8–12 µm.",
+      "habitat": "Rastie na pôde na živinami bohatých, narušených miestach: na zozbieraných obilných a kapustových poliach, vlhkých pasienkoch, travnatých okrajoch ciest, trávnikoch, v záhradách, na komposte, hnoji, slame, pilinách a hromadách drevnej štiepky, typicky nie na živých kmeňoch. V miernej Európe obvykle plodí od mája alebo júla do novembra a v južnej Európe sa môže objaviť až do začiatku marca; v miernych klimatických oblastiach ju možno nájsť aj v iných častiach roka.",
+      "uses": "Je jedlá, ale nie je vysoko cenená a je dosť vodnatá. Zvyčajne sa pripravuje čerstvá. Pretože mladé plodnice s bielymi lupeňmi možno zameniť so smrteľne jedovatými hubami s pochvou, mala by sa jesť len pri istom určení.",
+      "confusion": "Smrteľne jedovaté Amanita phalloides a Amanita virosa majú tiež vakovitú pochvu a bledé klobúky, ale ich lupene a výtrusný prach ostávajú biele a zvyčajne majú prsteň; typicky rastú pri stromoch, nie na komposte alebo strniskách. Mladé plodnice tohto druhu majú ešte biele lupene, takže farba lupeňov sama nestačí. Volvariella bombycina má výrazne hodvábny až chlpatý klobúk a rastie na poškodených kmeňoch listnáčov, nie na pôde alebo komposte. Druhy rodu Pluteus môžu mať ružové lupene, ale nemajú pochvu. Leucoagaricus leucothites môže mať biely klobúk a ružovkasté lupene, ale pochvu nemá.",
+      "notes": "Farba klobúka je premenlivá, od bielej po sivohnedú; bledé aj tmavšie plodnice môžu vyrásť z toho istého podhubia. Príbuzné druhy v tom istom rode sa oddeľujú predovšetkým mikroskopickými znakmi a údajmi o DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+        "https://botany.cz/cs/volvariella-gloiocephala/",
+        "https://fotonet.sk/atlas/fungi_huby/volvariella-gloiocephalus"
+      ],
+      "label": "pošvovec obyčajný"
+    },
+    "sl": {
+      "description": "Saprotofna goba na hranilnih, motenih tleh, vključno strniščih, travnatih robovih poti, trateh, vrtovih, kompostu in kupih lesnih sekancev. Široko je navedena iz zmernih in toplo-zmernih območij na vseh celinah razen Antarktike in se pogosto pojavlja v skupinah, potem ko je razprostrta sveža organska snov.",
+      "cap": "Klobuk je tipično 5–15 cm širok. Najprej je jajčast ali stožčast, nato izbočen do skoraj raven, včasih z nizkim grbom ali v starosti z rahlo sredinsko vdolbino. Površina je vlažna izrazito lepljiva in se posuši v svilnat sijaj; barva sega od čisto bele do sive ali sivorjave, na sredini pogosto temnejša, in s starostjo prehaja v kremasto ali okrasto. Rob starejših klobukov je lahko slabo narebran.",
+      "hymenium": "Lističi so prosti, gosti in široki ter so lahko na sredini trebušasti. Najprej so beli, ob zoritvi trosov pa poroženejo do lososovo rožnate.",
+      "stipe": "Bet je tipično 5–22,5 cm dolg in 0,7–2,5 cm debel, valjast in proti dnu razširjen, bel, suh in gladek ali fino poprhnjen, brez obročka. Dno sedi v beli, vrečasti ovojnici visoki 2–3 cm, ki je pogosto zakopana v tla in je lahko na robu raztrgana.",
+      "flesh": "Meso je belo in mehko ter pri prerezu ne spremeni barve. Vonj je neizrazit ali rahlo redkvast, včasih primerjan s surovim oluščenim krompirjem; okus je blag.",
+      "sporePrint": "Trosni prah je rožnat do rožnatorjav ali lososovo rožnat. Trosi so gladki in eliptični; objavljeni razponi vključujejo približno 11–18 × 7–10 µm in 12–20 × 8–12 µm.",
+      "habitat": "Raste na tleh na hranilnih, motenih mestih: na požetih žitnih in zeljnatih poljih, vlažnih pašnikih, travnatih robovih poti, trateh, v vrtovih, na kompostu, gnoju, slami, žagovini in kupih lesnih sekancev, tipično ne na živih deblih. V zmerni Evropi običajno plodi od maja ali julija do novembra, v južni Evropi pa se lahko pojavi do začetka marca; v blagem podnebju jo je mogoče najti tudi v drugih delih leta.",
+      "uses": "Je užitna, vendar ni visoko cenjena in je precej vodnata. Običajno se pripravlja sveža. Ker lahko mlade plodove z belimi lističi zamenjamo s smrtno strupenimi gobami z ovojnico, naj se jé le ob zanesljivi določitvi.",
+      "confusion": "Smrtno strupeni Amanita phalloides in Amanita virosa imata prav tako vrečasto ovojnico in blede klobuke, vendar njihovi lističi in trosni prah ostanejo beli in običajno imata obroček; tipično rasteta ob drevesih, ne na kompostu ali strniščih. Mladi plodovi te vrste imajo še bele lističe, zato barva lističev sama ne zadošča. Volvariella bombycina ima izrazito svilnat do dlakav klobuk in raste na poškodovanih deblih listavcev, ne na tleh ali kompostu. Vrste rodu Pluteus imajo lahko rožnate lističe, vendar nimajo ovojnice. Leucoagaricus leucothites ima lahko bel klobuk in rožnate lističe, vendar nima ovojnice.",
+      "notes": "Barva klobuka je spremenljiva, od bele do sivorjave; bledi in temnejši plodovi se lahko razvijejo iz istega micelija. Sorodne vrste v istem rodu ločujemo predvsem po mikroskopskih znakih in podatkih o DNK.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://sl.wikipedia.org/wiki/Veliki_no%C5%BEni%C4%8Dar",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "veliki nožničar"
+    },
+    "sr": {
+      "description": "Сапротрофна гљива хранљивог, поремећеног тла, укључујући стрњишта, травнате ивице путева, травњаке, вртове, компост и гомиле дрвне сечке. Широко је забележена из умерених и топло-умерених подручја на свим континентима осим Антарктика и често се појављује у групама након што се простре свежа органска материја.",
+      "cap": "Шешир је типично 5–15 cm широк. Најпре је јајаст или купаст, затим конвексан до готово раван, понекад са ниским испупчењем или у старости са благим средишњим удубљењем. Површина је влажна изразито лепљива и суши се до свиленкастог сјаја; боја иде од чисто беле до сиве или сивосмеђе, у средишту често тамнија, а са старошћу прелази у крем или окер. Ивица старијих шешира може бити слабо наборана.",
+      "hymenium": "Листићи су слободни, густи и широки и у средини могу бити трбушасти. Најпре су бели, а сазревањем спора постају ружичасти до лосос-ружичасти.",
+      "stipe": "Стручак је типично 5–22,5 cm дугачак и 0,7–2,5 cm дебео, цилиндричан и према основи проширен, бео, сув и гладак или фино прашкаст, без прстена. Основа седи у белој, врећастој волви високој 2–3 cm, која је често укопана у тло и на ивици може бити раздерана.",
+      "flesh": "Месо је бело и меко и при резању не мења боју. Мирис је неизражен или слабо ротквичаст, понекад упоређен са сировим ољуштеним кромпиром; укус је благ.",
+      "sporePrint": "Отисак спора је ружичаст до ружичастосмеђ или лосос-ружичаст. Споре су глатке и елиптичне; објављени распони обухватају приближно 11–18 × 7–10 µm и 12–20 × 8–12 µm.",
+      "habitat": "Расте на тлу на хранљивим, поремећеним местима: на пожњевеним житима и купусним пољима, влажним пашњацима, травнатим ивицама путева, травњацима, у вртовима, на компосту, стајњаку, слами, пиљевини и гомилама дрвне сечке, типично не на живим стаблима. У умереној Европи обично плодоноси од маја или јула до новембра, а у јужној Европи може се појавити до почетка марта; у благим климама може се наћи и у другим деловима године.",
+      "uses": "Јстива је, али није високо цењена и прилично је воденаста. Обично се припрема свежа. Пошто се млади примерци са белим листићима могу заменити са смртоносно отровним гљивама са волвом, треба је јести само када је одредба сигурна.",
+      "confusion": "Смртоносно отровне Amanita phalloides и Amanita virosa такође имају врећасту волву и бледе шешире, али њихови листићи и отисак спора остају бели и обично имају прстен; типично расту уз стабла, не на компосту или стрњиштима. Млади примерци ове врсте још имају беле листиће, па боја листића сама није довољна. Volvariella bombycina има изразито свиленкаст до длакав шешир и расте на оштећеним стаблима лишћара, не на тлу или компосту. Врсте рода Pluteus могу имати ружичасте листиће, али немају волву. Leucoagaricus leucothites може имати бели шешир и ружичасте листиће, али нема волву.",
+      "notes": "Боја шешира је променљива, од беле до сивосмеђе; бледа и тамнија плодна тела могу се развити из исте мицелије. Сродне врсте у истом роду одвајају се понајпре микроскопским обележјима и подацима о ДНК.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://sr.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%99%D0%B8%D0%B2%D0%B0_%D1%82%D0%BE%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0"
+      ],
+      "label": "Лепљива тоболка"
+    },
+    "sv": {
+      "description": "En saprotrof svamp på näringsrik, störd mark, däribland stubbåkrar, gräsiga vägrenar, gräsmattor, trädgårdar, kompost och högar av flis. Den anges vitt från tempererade och varmtempererade områden på alla kontinenter utom Antarktis, och den uppträder ofta i grupper efter att färskt organiskt material har lagts ut.",
+      "cap": "Hatten är typiskt 5–15 cm bred. Den är först äggformad eller konisk, sedan välvd till nästan plan, ibland med en låg puckel eller som gammal med en svag fördjupning i mitten. Ytan är tydligt klibbig i fuktigt väder och torkar till en sidenaktig glans; färgen går från rent vit till grå eller gråbrun, ofta mörkare i mitten, och blir med åldern krämfärgad eller ockra. Randen hos äldre hattar kan vara svagt fårade.",
+      "hymenium": "Skivorna är fria, täta och breda och kan vara bukiga på mitten. De är först vita och blir rosa till laxrosa när sporerna mognar.",
+      "stipe": "Foten är typiskt 5–22,5 cm lång och 0,7–2,5 cm tjock, cylindrisk och bredare mot basen, vit, torr och slät eller fint pudrad, utan ring. Basen sitter i en vit, säcklik volva, 2–3 cm hög, som ofta är nedgrävd i jorden och kan vara sprucken i kanten.",
+      "flesh": "Köttet är vitt och mjukt och ändrar inte färg vid genomskärning. Lukten är obetydlig eller svagt rättikartad, ibland jämförd med rå skalad potatis; smaken är mild.",
+      "sporePrint": "Sporavtrycket är rosa till rosabrunt eller laxrosa. Sporerna är släta och elliptiska; publicerade mått omfattar ungefär 11–18 × 7–10 µm och 12–20 × 8–12 µm.",
+      "habitat": "Den växer på jord på näringsrika, störda platser: skördade spannmåls- och kålfält, fuktiga betesmarker, gräsiga vägrenar, gräsmattor, trädgårdar, kompost, gödsel, halm, sågspån och flishögar, typiskt inte på levande stammar. I tempererade Europa fruktar den vanligen från maj eller juli till november, och i södra Europa kan den visa sig in i början av mars; i milt klimat kan den påträffas vid andra tider på året.",
+      "uses": "Den är ätlig men inte högt värderad och rätt vattnig. Den tillagas vanligen färsk. Eftersom unga fruktkroppar med vita skivor kan förväxlas med dödligt giftiga volvabärande svampar bör den ätas bara när bestämningen är säker.",
+      "confusion": "De dödligt giftiga Amanita phalloides och Amanita virosa har också en säcklik volva och bleka hattar, men deras skivor och sporavtryck förblir vita och de har vanligen en ring; de växer typiskt med träd snarare än på kompost eller stubbåkrar. Unga fruktkroppar av denna art har fortfarande vita skivor, så skivfärgen ensam räcker inte. Volvariella bombycina har en tydligt siden- till hårig hatt och växer på skadade lövträdsstammar, inte på jord eller kompost. Pluteus-arter kan ha rosa skivor men saknar volva. Leucoagaricus leucothites kan ha en vit hatt och rosa skivor men har ingen volva.",
+      "notes": "Hattens färg är variabel, från vit till gråbrun; bleka och mörkare fruktkroppar kan utvecklas från samma mycel. Besläktade arter i samma släkte skiljs främst genom mikroskopiska karaktärer och DNA-data.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://sv.wikipedia.org/wiki/Vit_slidskivling"
+      ],
+      "label": "vit slidskivling"
+    },
+    "tr": {
+      "description": "Besince zengin, bozulmuş toprakların saprotrof mantarıdır; anız tarlaları, otlu yol kenarları, çimenlikler, bahçeler, kompost ve odun yongası yığınları dahildir. Antarktika dışında bütün kıtalardaki ılıman ve sıcak-ılıman bölgelerden yaygın olarak bildirilir ve taze organik madde yayıldıktan sonra çoğu kez gruplar halinde çıkar.",
+      "cap": "Şapka tipik olarak 5–15 cm genişliğindedir. Önce yumurta biçimli veya konik, sonra dışbükeyden neredeyse düzlüğe kadar değişir, bazen alçak bir umbo taşır veya yaşlılıkta ortada hafif bir çöküntü bulunur. Yüzey nemliyken belirgin biçimde yapışkan olup kuruyunca ipeksi bir parlaklık alır; renk saf beyazdan griye veya gri-kahverengiye kadar değişir, ortada çoğu kez daha koyudur ve yaşla krema veya okr tonuna döner. Yaşlı şapkaların kenarı zayıf çizgili olabilir.",
+      "hymenium": "Lameller serbest, sık ve geniştir ve ortada şişkin olabilir. Önce beyazdır, sporlar olgunlaşınca pembe veya somon pembesine döner.",
+      "stipe": "Sap tipik olarak 5–22,5 cm uzunluğunda ve 0,7–2,5 cm kalınlığındadır, silindirik ve tabana doğru genişler, beyaz, kuru, düz veya ince tozlu görünüşlüdür ve halkası yoktur. Taban, 2–3 cm yüksekliğinde beyaz, torba biçimli bir volva içindedir; volva çoğu kez toprağa gömülüdür ve kenarı yırtık olabilir.",
+      "flesh": "Et beyaz ve yumuşaktır, kesildiğinde renk değiştirmez. Koku silik veya hafif turpumsudur, bazen çiğ soyulmuş patatese benzetilir; tat ılımlıdır.",
+      "sporePrint": "Spor izi pembe, pembemsi kahverengi veya somon pembesidir. Sporlar düz ve eliptiktir; yayımlanan ölçüler yaklaşık 11–18 × 7–10 µm ve 12–20 × 8–12 µm aralıklarını kapsar.",
+      "habitat": "Besince zengin, bozulmuş yerlerde toprakta yetişir: hasat edilmiş tahıl ve lahana tarlaları, nemli otlaklar, otlu yol kenarları, çimenlikler, bahçeler, kompost, gübre, saman, talaş ve odun yongası yığınları; tipik olarak canlı gövdelerde değil. Ilıman Avrupa’da genellikle Mayıs veya Temmuz’dan Kasım’a kadar meyve verir; Güney Avrupa’da Mart başlarına kadar görülebilir; ılıman iklimlerde yılın başka zamanlarında da bulunabilir.",
+      "uses": "Yenilebilir, ancak yüksek değer görmez ve oldukça suludur. Genellikle taze olarak pişirilir. Beyaz lamelli genç örnekler volvalı ölümcül mantarlarla karıştırılabileceği için ancak teşhis kesin olduğunda yenmelidir.",
+      "confusion": "Ölümcül Amanita phalloides ve Amanita virosa da torba biçimli bir volva ve soluk şapkalar taşır, ancak lamelleri ve spor izleri beyaz kalır ve genellikle halkaları vardır; tipik olarak kompost veya anızda değil, ağaçlarla birlikte yetişirler. Bu türün genç örneklerinde lameller henüz beyazdır, bu yüzden yalnız lamel rengi yeterli değildir. Volvariella bombycina belirgin biçimde ipeksi veya tüylü bir şapkaya sahiptir ve toprak veya kompostta değil, zarar görmüş yapraklı ağaç gövdelerinde yetişir. Pluteus türlerinin pembe lamelleri olabilir, ancak volvası yoktur. Leucoagaricus leucothites beyaz şapkalı ve pembemsi lamelli olabilir, ancak volvası yoktur.",
+      "notes": "Şapka rengi değişkendir, beyazdan gri-kahverengiye kadar gider; soluk ve daha koyu meyve gövdeleri aynı miselyumdan gelişebilir. Aynı cinsteki yakın türler başlıca mikroskobik karakterler ve DNA verileriyle ayrılır.",
+      "names": [
+        "Nergis Mantarı"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+        "https://www.gbif.org/species/8329645"
+      ],
+      "label": "Danaburnu Mantarı"
+    },
+    "uk": {
+      "description": "Сапротрофний гриб поживних, порушених ґрунтів, зокрема стерні, трав’янистих узбіч, газонів, садків, компосту та куп деревної тріски. Його широко зазначають із помірних і теплопомірних областей на всіх континентах, крім Антарктиди, і він часто з’являється групами після внесення свіжої органічної речовини.",
+      "cap": "Шапинка зазвичай 5–15 см у діаметрі. Спочатку вона яйцеподібна або конічна, потім опукла до майже плоскої, іноді з низьким горбком або в старості зі слабким центральним заглибленням. Поверхня у вологу погоду помітно липка і після висихання набуває шовковистого блиску; забарвлення від чисто білого до сірого або сіро-коричневого, у центрі часто темніше, а з віком переходить у кремове або вохристе. Край старих шапинок може бути слабко рубчастим.",
+      "hymenium": "Пластинки вільні, густі й широкі, у середній частині можуть бути черевцюватими. Спочатку вони білі, а з дозріванням спор рожевіють до лососево-рожевих.",
+      "stipe": "Ніжка зазвичай 5–22,5 см завдовжки і 0,7–2,5 см завтовшки, циліндрична і розширюється до основи, біла, суха, гладка або дрібно борошниста, без кільця. Основа сидить у білій мішкоподібній вольві заввишки 2–3 см, часто заглибленій у ґрунт, край якої може бути розірваним.",
+      "flesh": "М’якуш білий і м’який і при розрізі не змінює кольору. Запах слабкий або злегка редьковий, іноді його порівнюють із сирою очищеною картоплею; смак м’який.",
+      "sporePrint": "Споровий порошок рожевий, рожево-коричневий або лососево-рожевий. Спори гладкі й еліптичні; опубліковані розміри охоплюють приблизно 11–18 × 7–10 мкм і 12–20 × 8–12 мкм.",
+      "habitat": "Росте на ґрунті в поживних, порушених місцях: на зібраних зернових і капустяних полях, вологих пасовищах, трав’янистих узбіччях, газонах, у садках, на компості, гної, соломі, тирсі та купах тріски, зазвичай не на живих стовбурах. У помірній Європі зазвичай плодоносить з травня або липня по листопад, а в Південній Європі може з’являтися до початку березня; у м’якому кліматі його можна знайти і в інші пори року.",
+      "uses": "Їстівний, але невисоко цінується і досить водянистий. Зазвичай готується свіжим. Оскільки молоді плодові тіла з білими пластинками можна сплутати зі смертельно отруйними грибами з вольвою, його слід вживати лише за впевненого визначення.",
+      "confusion": "Смертельно отруйні Amanita phalloides і Amanita virosa також мають мішкоподібну вольву і бліді шапинки, але їхні пластинки і споровий порошок залишаються білими, і зазвичай у них є кільце; вони типово ростуть біля дерев, а не на компості чи стерні. Молоді плодові тіла цього виду ще мають білі пластинки, тому колір пластинок сам по собі недостатній. У Volvariella bombycina шапинка виразно шовковиста або волосиста, і вона росте на пошкоджених стовбурах листяних дерев, а не на ґрунті чи компості. Види роду Pluteus можуть мати рожеві пластинки, але позбавлені вольви. Leucoagaricus leucothites може мати білу шапинку і рожевуваті пластинки, але вольви не має.",
+      "notes": "Забарвлення шапинки мінливе, від білого до сіро-коричневого; бліді й темніші плодові тіла можуть розвиватися з однієї й тієї самої міцелії. Близькі види того самого роду розрізняють головним чином за мікроскопічними ознаками та даними ДНК.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D1%96%D0%B5%D0%BB%D0%BB%D0%B0_%D0%B3%D0%B0%D1%80%D0%BD%D0%B0"
+      ],
+      "label": "Вольваріелла гарна"
+    },
+    "zh": {
+      "description": "一种生于养分丰富、受扰动土壤上的腐生真菌，包括茬地、路边草地、草坪、园圃、堆肥和木屑堆。除南极洲外，各大洲的温带和暖温带均有广泛记录，常在铺上新鲜有机物后成群出现。",
+      "cap": "菌盖通常直径5–15厘米。起初卵形或圆锥形，后凸出至近扁平，有时可有低中央凸起，老时可中央略凹陷。表面潮湿时明显黏滑，干燥后呈丝质光泽；颜色由纯白至灰色或灰褐色，中央常较深，老后转为奶油色或赭色。较老菌盖的边缘可有微弱条纹。",
+      "hymenium": "菌褶离生、密集而宽，中部可略鼓起。初为白色，孢子成熟后变为粉红色至鲑肉色。",
+      "stipe": "菌柄通常长5–22.5厘米、粗0.7–2.5厘米，圆柱形并向基部加粗，白色、干燥、光滑或微被粉，无菌环。基部着生于高2–3厘米的白色囊状菌托中，菌托常埋于土中，边缘可撕裂。",
+      "flesh": "菌肉白色柔软，切开后不变色。气味不明显或略带萝卜味，有时被比作去皮生马铃薯；味道温和。",
+      "sporePrint": "孢子印粉红色至粉褐色或鲑肉色。孢子光滑、椭圆形；已发表的大小范围约11–18 × 7–10微米和12–20 × 8–12微米。",
+      "habitat": "生于养分丰富、受扰动处的土壤上：收割后的谷地和菜地、潮湿牧场、路边草地、草坪、园圃、堆肥、粪肥、秸秆、锯末和木屑堆，通常不生于活立木树干。温带欧洲通常在5月或7月至11月出菇，南欧可延至3月初；在温和气候下一年中其他时间也可能见到。",
+      "uses": "可食用，但评价不高，且较水。一般趁鲜烹调。幼嫩而菌褶仍白的个体可能与带菌托的致命毒菌混淆，因此只有在鉴定确定时才宜食用。",
+      "confusion": "致命的Amanita phalloides和Amanita virosa也有囊状菌托和浅色菌盖，但其菌褶和孢子印保持白色，通常还有菌环；它们典型地生于树木附近，而非堆肥或茬地。本种幼体菌褶仍为白色，因此单凭菌褶颜色不够。Volvariella bombycina的菌盖明显呈丝质至毛状，生于受损阔叶树树干上，而非土壤或堆肥。Pluteus属种类可有粉红色菌褶，但无菌托。Leucoagaricus leucothites可有白色菌盖和略带粉红的菌褶，但无菌托。",
+      "notes": "菌盖颜色多变，由白色至灰褐色；浅色和较深色的子实体可以从同一菌丝体上长出。同属近缘种主要依据显微特征和DNA序列数据加以区分。",
+      "names": [
+        "粘蓋包脚菇"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q26678484",
+        "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus"
+      ],
+      "label": "黏盖包脚菇"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus gloiocephalus",
+      "author": "DC.",
+      "year": 1815,
+      "rank": "species",
+      "note": "as 'glojocephalus'"
+    },
+    {
+      "name": "Volvaria gloiocephala",
+      "author": "(DC.) Gillet",
+      "year": 1876,
+      "rank": "species",
+      "note": "cited 1878 in some sources"
+    },
+    {
+      "name": "Volvariopsis gloiocephala",
+      "author": "(DC.) Murrill",
+      "year": 1917,
+      "rank": "species"
+    },
+    {
+      "name": "Volvariella gloiocephala",
+      "author": "(DC.) Boekhout & Enderle",
+      "year": 1986,
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus pubescens",
+      "author": "Schumach.",
+      "year": 1803,
+      "rank": "species",
+      "note": "nom. illegit., Art. 53.1, later homonym of Agaricus pubescens Scop. 1770; SF current name is this species"
+    },
+    {
+      "name": "Volvaria pubescens",
+      "author": "Quél.",
+      "year": 1877,
+      "rank": "species",
+      "note": "1876; combination of Agaricus pubescens Schumach."
+    },
+    {
+      "name": "Amanita speciosa",
+      "author": "Fr.",
+      "year": 1818,
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus speciosus",
+      "author": "(Fr.) Fr.",
+      "year": 1821,
+      "rank": "species"
+    },
+    {
+      "name": "Pluteus speciosus",
+      "author": "(Fr.) Fr.",
+      "year": 1836,
+      "rank": "species"
+    },
+    {
+      "name": "Volvaria speciosa",
+      "author": "(Fr.) P. Kumm.",
+      "year": 1871,
+      "rank": "species"
+    },
+    {
+      "name": "Volvariopsis speciosa",
+      "author": "(Fr.) Murrill",
+      "year": 1918,
+      "rank": "species"
+    },
+    {
+      "name": "Volvariella speciosa",
+      "author": "(Fr.) Singer",
+      "year": 1951,
+      "rank": "species",
+      "note": "1949"
+    }
+  ],
+  "reserved": false,
+  "id": 194,
+  "citation": "Fungal Biol. 115(1): 15 (2011)"
 }
 ];

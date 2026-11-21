@@ -1092,5 +1092,8 @@ export const TAXA = {
   },
   Leucopaxillus: {
     rank: "genus"
+  },
+  Volvopluteus: {
+    rank: "genus"
   }
 };
