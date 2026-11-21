@@ -195697,5 +195697,1823 @@ export const CATALOG = [
   "reserved": false,
   "id": 190,
   "citation": "in Boidin, Gilles & Lanquetin, Bull. Trimestriel Soc. Mycol. France 103(2): 152 (1987)"
+},
+{
+  "name": "Agaricus sylvaticus",
+  "author": "Schaeff.",
+  "family": "Agaricaceae",
+  "genus": "Agaricus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricales",
+    "Agaricaceae",
+    "Agaricus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Agaricaceae",
+    "Agaricus"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown"
+  ],
+  "capFrom": 2.5,
+  "capTo": 15.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 15.0,
+  "stipeThickFrom": 0.6,
+  "stipeThickTo": 2.5,
+  "fruitingFrom": 6,
+  "fruitingTo": 12,
+  "label": {
+    "bg": "горска печурка",
+    "cs": "pečárka lesní",
+    "de": "Kleiner Wald-Champignon",
+    "en": "blushing wood mushroom",
+    "et": "soomusšampinjon",
+    "fi": "tapionherkkusieni",
+    "fr": "agaric des forêts",
+    "hu": "erdei csiperke",
+    "lt": "miškinis pievagrybis",
+    "lv": "meža atmatene",
+    "nl": "schubbige boschampignon",
+    "no": "blodsjampinjong",
+    "pl": "pieczarka leśna",
+    "ru": "Шампиньон лесной",
+    "sk": "pečiarka lesná",
+    "sv": "skogschampinjon",
+    "uk": "печериця лісова",
+    "zh": "林地蘑菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "žampion lesní"
+    ],
+    "da": [],
+    "de": [
+      "Kleiner Wald-Egerling",
+      "Kleiner Blut-Egerling"
+    ],
+    "en": [
+      "red staining mushroom"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=490442",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=490442",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=490442",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=244265",
+      "https://www.gbif.org/species/8108291",
+      "https://www.wikidata.org/wiki/Q1097213",
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://fieldmycologist.uk/fungi/agaricus-sylvaticus/",
+      "https://www.first-nature.com/fungi/agaricus-sylvaticus.php",
+      "https://www.nahuby.sk/atlas-hub/Agaricus-sylvaticus/peciarka-lesna/pecarka-lesni/ID399",
+      "https://www.inaturalist.org/taxa/480776-Agaricus-sylvaticus",
+      "https://de.wikipedia.org/wiki/Kleiner_Wald-Champignon",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=292278"
+    ],
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Горска_печурка",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "cs": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "da": [],
+    "de": [
+      "https://de.wikipedia.org/wiki/Kleiner_Wald-Champignon",
+      "https://mykolog.de/arten/agaricus-silvaticus/",
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Soomusšampinjon",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "fa": [],
+    "fi": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "fr": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Meža_atmatene",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "no": [
+      "https://nortaxa.artsdatabanken.no/name-info/58358",
+      "https://artsdatabanken.no/arter/takson/90497",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "pl": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Agaricus-sylvaticus/peciarka-lesna/pecarka-lesni/ID399"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Печериця_лісова"
+    ],
+    "zh": [
+      "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+      "https://www.wikidata.org/wiki/Q1097213"
+    ]
+  },
+  "added": "2026-11-21",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/Agaricus_sylvaticus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/Agaricus_sylvaticus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Agaricus silvaticus.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 c14307f1522faed638ade76bfcf4e630dd7cafdce8c0c3f837c5d881de5359ee) is an illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a scaly brown cap with a floppy ring and a slightly swollen stem base in pine litter, a young scaly button, an underside with dark free gills and a pale stipe, and a longitudinal section with flesh that blushes red. The ring underside may lack the triangular cogwheel scales some sources describe, and the stipe below the ring looks smoother than the finely scaly surface described. The official plate is slightly soft because the 896×1200 source was enlarged 1.5625×. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/Agaricus_sylvaticus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as1.webp",
+      "author": "Капрал Натурал",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/419298761"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as2.webp",
+      "author": "szegedigombasz",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/296683094"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as3.webp",
+      "author": "Marie",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/442282547"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as4.webp",
+      "author": "Татьяна Горбушина",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/534708369"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as5.webp",
+      "author": "T. Pedro Hafermann",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/241187030"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/Agaricus_sylvaticus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/Agaricus_sylvaticus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as1.webp",
+      "author": "Капрал Натурал",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/419298761"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as2.webp",
+      "author": "szegedigombasz",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/296683094"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as3.webp",
+      "author": "Marie",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/442282547"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as4.webp",
+      "author": "Татьяна Горбушина",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/534708369"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_sylvaticus/as5.webp",
+      "author": "T. Pedro Hafermann",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/241187030"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر رمّي في غابات الصنوبريات والعريضات الأوراق في أوروبا وفي أجزاء من شمال أفريقيا وأمريكا الشمالية، ينمو على التربة ولا يظهر أبداً في المراعي المفتوحة. وهو شائع وواسع الانتشار في ذلك المدى، ويظهر عادة منفرداً أو في مجموعات صغيرة بين فرش الأوراق أو الإبر.",
+      "cap": "القبعة عادة بعرض 5–12 سم؛ والمدى المنشور يمتد من 2,5 سم حتى 15 سم (مصدر سلوفاكي يذكر 4–8 سم). تكون أولاً نصف كروية أو محدبة ثم تكاد تستوي. السطح بني مصفر شاحب إلى بني رمادي أو بني محمر، ومغطى بحراشف بنية دقيقة إلى أعرض، تكون أكثف في المركز، فيبقى نحو الحافة قاع أبهت.",
+      "hymenium": "الخياشيم حرة ومتزاحمة. تكون أولاً وردية أو وردية رمادية، ثم محمرة، وأخيراً بنية شوكولاتية داكنة عند نضج الأبواغ. يذكر مصدر سلوفاكي أن المرحلة الوردية قد يصعب رؤيتها.",
+      "stipe": "الساق عادة بطول 4,5–13 سم وسمك 0,8–2,0 سم (مصادر أخرى تعطي 4–15 × 0,6–2,5 سم، ومصدر بريطاني يعطي في منتصف الساق 1,0–1,2 سم فقط). تكون أولاً بيضاء، صولجانية، بقاعدة منتفخة قليلاً أو متدرنة، ملساء فوق حلقة رقيقة رخوة ومغطاة بحراشف دقيقة تحتها؛ تحمر عند الرضّ ثم تسمر. قد تكون الحلقة بسيطة أو مزدوجة، بحافة أثخن، وبحسب بعض المصادر بحراشف مثلثة كبيرة تشكل دولاب أسنان على الوجه السفلي.",
+      "flesh": "اللحم أبيض، رقيق ومتين في القبعة. عند القطع أو الرضّ يحمر، غالباً بسرعة وبوضوح، ثم يسمر. الرائحة خفيفة وفطرية؛ والطعم لطيف.",
+      "sporePrint": "طبعة الأبواغ بنية شوكولاتية إلى بنية مسودة. الأبواغ ملساء وبيضية أو إهليلجية، نحو 4,5–6,5 × 3,2–4,2 ميكرومتر (مصدر واحد يعطي 5–6 × 3–3,4 ميكرومتر). الكيسات الخيشومية الطرفية صولجانية وغالباً ذات حاجز واحد أو اثنين. سطح القبعة لا يصفر في KOH. النوع المشابه Agaricus langei له أبواغ أكبر بوضوح.",
+      "habitat": "يثمر على التربة في غابات الصنوبريات والعريضات الأوراق والمختلطة، غالباً تحت التنوب، وكذلك تحت الأشجار في الحدائق، لا في المراعي المفتوحة أبداً. تظهر الأجسام الثمرية منفردة أو في مجموعات صغيرة من يوليو إلى نوفمبر في وسط أوروبا، ومن يوليو إلى ديسمبر في بريطانيا (أغسطس–نوفمبر في بعض المصادر البريطانية)، ومن يونيو، وأحياناً مايو، بحسب مصدر فرنسي. وهو شائع وواسع الانتشار في أوروبا ويُذكر أيضاً من شمال أفريقيا ومن أجزاء من أمريكا الشمالية.",
+      "uses": "يؤكل بعد الطبخ ويُعد عموماً فطراً صالحاً جيداً، لكن فقط لمن يستطيع التعرف عليه بيقين. قد تتراكم في الأجسام الثمرية الكادميوم ومعادن ثقيلة أخرى، خاصة قرب المناجم والمصاهر، لذا فإن الوجبات المتكررة أو الكبيرة غير حكيمة.",
+      "confusion": "Agaricus langei شديد الشبه، يحمر أيضاً عند القطع، ويُفصل بأفضل صورة بأبواغه الأكبر بوضوح. النوع السام Agaricus xanthodermus يتلون بأصفر كرومي زاهٍ عند قاعدة الساق ويشم منه رائحة الفينول أو الحبر. أنواع Amanita البيضاء الفتية تحتفظ بخياشيم بيضاء، ولها طبعة أبواغ بيضاء، وعادة ما يكون لها جراب أو قاعدة متدرنة كيسية الشكل.",
+      "notes": "يصنفه تقييم عام 2019 ضمن الأنواع الأقل إثارة للقلق. ومثل عدة أنواع أخرى من جنس Agaricus يمكن أن يتراكم فيه الكادميوم ومعادن ثقيلة أخرى، وقد أُبلغ عن أجسام ثمرية من منطقة تعدين فضة تاريخية بمستويات كادميوم شديدة الارتفاع.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Сапротрофна гъба на иглолистни и широколистни гори в Европа и в части от Северна Африка и Северна Америка, растяща на почва и никога на открити пасища. В този ареал е обикновена и широко разпространена и обикновено се появява единично или на малки групи сред листна или иглеста постилка.",
+      "cap": "Шапката е обикновено 5–12 cm широка; публикуваните размери са от 2,5 cm до 15 cm (словашки източник посочва 4–8 cm). Отначало е полукълбовидна или изпъкнала, по-късно почти плоска. Повърхността е бледожълтеникавокафява до сивокафява или ръждивокафява и покрита с тънки до по-широки кафяви люспи, най-гъсти в средата, така че към ръба остава по-бледа основа.",
+      "hymenium": "Пластинките са свободни и гъсти. Отначало са розови или сиво-розови, след това червеникави и накрая тъмно шоколадовокафяви при узряване на спорите. Словашки източник отбелязва, че розовият стадий може да е труден за забелязване.",
+      "stipe": "Пънчето е обикновено 4,5–13 cm дълго и 0,8–2,0 cm дебело (други източници дават 4–15 × 0,6–2,5 cm, а един британски източник дава в средата на пънчето само 1,0–1,2 cm). Отначало е бяло, бухалковидно, със слабо подута или грудковидна основа, гладко над тънък, отпуснат пръстен и фино люспесто под него; при нараняване червенее, по-късно кафявее. Пръстенът може да е прост или двоен, с по-дебел ръб и според някои източници с едри триъгълни люспи от долната страна, образуващи зъбно колело.",
+      "flesh": "Месото е бяло, в шапката тънко и стегнато. При срязване или притискане става червено, често бързо и силно, след това кафяво. Миризмата е слаба, гъбна; вкусът е мек.",
+      "sporePrint": "Споровият прах е шоколадовокафяв до черникавокафяв. Спорите са гладки, яйцевидни или елипсовидни, около 4,5–6,5 × 3,2–4,2 µm (един източник дава 5–6 × 3–3,4 µm). Хейлоцистидите са бухалковидни и често имат една или две прегради. Повърхността на шапката не пожълтява в KOH. Подобният Agaricus langei има отчетливо по-едри спори.",
+      "habitat": "Плододава на почва в иглолистни, широколистни и смесени гори, често под смърч, също под дървета в паркове, никога на открити пасища. Плодните тела се появяват единично или на малки групи от юли до ноември в Централна Европа, в Британия от юли до декември (август–ноември в някои британски източници) и от юни, понякога от май, според френски източник. В Европа е обикновена и широко разпространена и се съобщава също от Северна Африка и от части на Северна Америка.",
+      "uses": "След сваряване е годна за ядене и обикновено се смята за добра ядлива гъба, но само за онези, които могат да я определят със сигурност. Плодните тела могат да натрупват кадмий и други тежки метали, особено близо до мини и топилни, затова честите или обилни яденета не са благоразумни.",
+      "confusion": "Agaricus langei е много подобен, също червенее при срязване и най-сигурно се отличава по отчетливо по-едрите спори. Отровният Agaricus xanthodermus се оцветява ярко хромовожълто в основата на пънчето и мирише на фенол или мастило. Младите бели видове от род Amanita запазват бели пластинки, имат бял споров прах и обикновено волва или грудковидна, торбовидна основа.",
+      "notes": "Оценка от 2019 г. го причислява към видовете с най-малка загриженост. Както няколко други вида от род Agaricus може да натрупва кадмий и други тежки метали, а от исторически район за добив на сребро са съобщени плодни тела с изключително високо съдържание на кадмий.",
+      "names": [],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Горска_печурка",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "горска печурка"
+    },
+    "cs": {
+      "description": "Saprotofní houba jehličnatých a listnatých lesů v Evropě a v částech severní Afriky a Severní Ameriky, rostoucí na půdě a nikdy ne na otevřených pastvinách. V tomto areálu je hojná a široce rozšířená a obvykle se objevuje jednotlivě nebo v malých skupinách v listovém nebo jehličnatém opadu.",
+      "cap": "Klobouk má typicky 5–12 cm v průměru; uváděné rozmezí sahá od 2,5 cm až do 15 cm (slovenský údaj uvádí 4–8 cm). Zprvu je polokulovitý nebo klenutý, později téměř plochý. Povrch je bledě žlutohnědý až šedohnědý nebo rezavě hnědý a pokrytý jemnými až širšími hnědými šupinami, které jsou nejhustší ve středu, směrem k okraji zůstává bledší podklad.",
+      "hymenium": "Lupeny jsou volné a husté. Zprvu jsou růžové nebo šedorůžové, později načervenalé a nakonec tmavě čokoládově hnědé, jak dozrávají výtrusy. Jeden slovenský údaj uvádí, že růžové stadium může být obtížně postřehnutelné.",
+      "stipe": "Třeň je typicky 4,5–13 cm dlouhý a 0,8–2,0 cm tlustý (jiné údaje uvádějí 4–15 × 0,6–2,5 cm a jeden britský údaj uvádí šířku ve střední části jen 1,0–1,2 cm). Zprvu je bílý, kyjovitý s mírně ztlustlou nebo hlízovitou bází, nad tenkým, svěšeným prstenem hladký a pod ním jemně šupinatý; na otlačení červená a později hnědne. Prsten může být jednoduchý nebo dvojitý, s silnějším okrajem a podle některých údajů s velkými trojúhelníkovými šupinami na spodní straně, které tvoří ozubené kolo.",
+      "flesh": "Dužnina je bílá, v klobouku tenká a pevná. Po řezu nebo otlačení zčervená, často rychle a silně, poté hnědne. Vůně je slabá, houbová; chuť je mírná.",
+      "sporePrint": "Výtrusný prach je čokoládově hnědý až černohnědý. Výtrusy jsou hladké, vejčité nebo elipsoidní, přibližně 4,5–6,5 × 3,2–4,2 µm (jeden údaj uvádí 5–6 × 3–3,4 µm). Cheilocystidy jsou kyjovité a často mají jednu nebo dvě přehrádky. Povrch klobouku v KOH nežloutne. Podobný Agaricus langei má zřetelně větší výtrusy.",
+      "habitat": "Roste na půdě v jehličnatých, listnatých a smíšených lesích, často pod smrkem, také pod stromy v parcích, nikdy ne na otevřených pastvinách. Plodnice se objevují jednotlivě nebo v malých skupinách od července do listopadu ve střední Evropě, v Británii od července do prosince (v některých britských údajích srpen–listopad) a od června, příležitostně od května, ve francouzském údaji. V Evropě je hojná a široce rozšířená a je uváděna také ze severní Afriky a z částí Severní Ameriky.",
+      "uses": "Po uvaření je jedlá a obecně je považována za dobrou jedlou houbu, ale jen pro ty, kdo ji dokážou s jistotou určit. Plodnice mohou hromadit kadmium a další těžké kovy, zejména v blízkosti dolů a hutí, proto časté nebo velké porce nejsou vhodné.",
+      "confusion": "Agaricus langei je velmi podobný, při řezu rovněž červená a nejlépe se odliší zřetelně většími výtrusy. Jedovatý Agaricus xanthodermus se na bázi třeně barví jasně chromově žlutě a páchne po fenolu nebo inkoustu. Mladé bílé druhy rodu Amanita si zachovávají bílé lupeny, mají bílý výtrusný prach a obvykle pochvu nebo hlízovitou, vakovitou bázi.",
+      "notes": "Hodnocení z roku 2019 ji řadí mezi druhy málo dotčené. Podobně jako několik dalších druhů rodu Agaricus může hromadit kadmium a další těžké kovy a z historické oblasti těžby stříbra byly hlášeny plodnice s mimořádně vysokým obsahem kadmia.",
+      "names": [
+        "žampion lesní"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "pečárka lesní"
+    },
+    "da": {
+      "description": "En sapotrof svamp i nåle- og løvskov i Europa og i dele af Nordafrika og Nordamerika, voksende på jorden og aldrig på åbent græsland. Den er almindelig og vidt udbredt i det område og optræder sædvanligvis enkeltvis eller i små grupper blandt løv- eller nåleaffald.",
+      "cap": "Hatten er typisk 5–12 cm bred; offentliggjorte mål spænder fra 2,5 cm op til 15 cm (en slovakisk kilde angiver 4–8 cm). Den er først halvkugleformet eller hvælvet, senere næsten flad. Overfladen er bleg gulbrun til gråbrun eller rødbrun og dækket af fine til bredere brune skæl, der er tættest i midten, så en blegere bundfarve efterlades mod randen.",
+      "hymenium": "Lamellerne er frie og tætte. De er først rosa eller grårosa, derefter rødlige og til sidst mørkt chokoladebrune, når sporerne modnes. En slovakisk kilde bemærker, at det rosa stadium kan være svært at se.",
+      "stipe": "Stokken er typisk 4,5–13 cm lang og 0,8–2,0 cm tyk (andre kilder angiver 4–15 × 0,6–2,5 cm, og en britisk kilde angiver midt på stokken kun 1,0–1,2 cm). Den er først hvid, kølleformet med lidt opsvulmet eller knoldet basis, glat over en tynd, slasket ring og fint skællet nedenunder; den rødner ved tryk og bliver senere brun. Ringen kan være enkel eller dobbelt, med tykkere rand og ifølge nogle kilder med store trekantede skæl på undersiden, der danner et tandhjul.",
+      "flesh": "Kødet er hvidt, tyndt og fast i hatten. Ved skæring eller tryk bliver det rødt, ofte hurtigt og tydeligt, derefter brunt. Lugten er svag og svampeagtig; smagen er mild.",
+      "sporePrint": "Sporeaftrykket er chokoladebrunt til sortbrunt. Sporerne er glatte og ægformede eller ellipsoide, cirka 4,5–6,5 × 3,2–4,2 µm (én kilde angiver 5–6 × 3–3,4 µm). Cheilocystiderne er kølleformede og har ofte et eller to septa. Hatteoverfladen gulfarves ikke i KOH. Den lignende Agaricus langei har tydeligt større sporer.",
+      "habitat": "Den frugtificerer på jorden i nåle-, løv- og blandskov, ofte under gran, også under træer i parker, aldrig på åbent græsland. Frugtlegemerne optræder enkeltvis eller i små grupper fra juli til november i Centraleuropa, i Storbritannien fra juli ind i december (august–november i visse britiske kilder), og fra juni, lejlighedsvis maj, ifølge en fransk kilde. Den er almindelig og vidt udbredt i Europa og er også rapporteret fra Nordafrika og dele af Nordamerika.",
+      "uses": "Den er spiselig efter kogning og betragtes almindeligvis som en god spisesvamp, men kun for dem, der kan kende den med sikkerhed. Frugtlegemer kan ophobe cadmium og andre tungmetaller, især nær miner og smelteværker, så hyppige eller store måltider er ukloge.",
+      "confusion": "Agaricus langei er meget lig, rødner også ved skæring og adskilles bedst ved tydeligt større sporer. Den giftige Agaricus xanthodermus farves klart kromgul ved stokbasis og lugter af fenol eller blæk. Unge hvide Amanita-arter beholder hvide lameller, har hvidt sporeaftryk og har sædvanligvis en volva eller en knoldet, sækagtig basis.",
+      "notes": "En vurdering fra 2019 placerer den som ikke truet. Som flere andre Agaricus-arter kan den ophobe cadmium og andre tungmetaller, og fra et historisk sølvmineområde er der rapporteret frugtlegemer med ekstremt høje cadmiumniveauer.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein saprotropher Pilz der Nadel- und Laubwälder in Europa sowie in Teilen Nordafrikas und Nordamerikas, der auf dem Boden und niemals auf offener Weide wächst. In diesem Gebiet ist er häufig und weit verbreitet und erscheint gewöhnlich einzeln oder in kleinen Gruppen in Laub- oder Nadelstreu.",
+      "cap": "Der Hut ist typischerweise 5–12 cm breit; veröffentlichte Angaben reichen von 2,5 cm bis zu 15 cm (eine slowakische Angabe nennt 4–8 cm). Zuerst ist er halbkugelig oder gewölbt, später nahezu flach. Die Oberfläche ist blass gelblichbraun bis graubraun oder rostbraun und mit feinen bis breiteren braunen Schuppen bedeckt, die in der Mitte am dichtesten stehen, so dass zum Rand hin ein blasserer Grund bleibt.",
+      "hymenium": "Die Lamellen sind frei und gedrängt. Sie sind zuerst rosa oder graurosa, dann rötlich und schließlich dunkel schokoladenbraun, wenn die Sporen reifen. Eine slowakische Angabe merkt an, dass das rosafarbene Stadium schwer zu erkennen sein kann.",
+      "stipe": "Der Stiel ist typischerweise 4,5–13 cm lang und 0,8–2,0 cm dick (andere Angaben nennen 4–15 × 0,6–2,5 cm, und eine britische Angabe nennt in der Stielmitte nur 1,0–1,2 cm). Er ist zuerst weiß, keulenförmig mit leicht verdickter oder knolliger Basis, oberhalb eines dünnen, schlaffen Rings glatt und darunter fein schuppig; er rötet bei Verletzung und wird später braun. Der Ring kann einfach oder doppelt sein, mit dickerem Rand und nach manchen Angaben mit großen dreieckigen Schuppen auf der Unterseite, die ein Zahnrad bilden.",
+      "flesh": "Das Fleisch ist weiß, im Hut dünn und fest. Beim Schnitt oder bei Druck wird es rot, oft schnell und kräftig, danach braun. Der Geruch ist schwach und pilzig; der Geschmack ist mild.",
+      "sporePrint": "Das Sporenpulver ist schokoladenbraun bis schwarzbraun. Die Sporen sind glatt und eiförmig oder ellipsoid, etwa 4,5–6,5 × 3,2–4,2 µm (eine Angabe nennt 5–6 × 3–3,4 µm). Die Cheilozystiden sind keulig und oft ein- oder zweifach septiert. Die Hutoberfläche gilbt nicht in KOH. Der ähnliche Agaricus langei hat deutlich größere Sporen.",
+      "habitat": "Er fruktifiziert auf dem Boden in Nadel-, Laub- und Mischwäldern, oft unter Fichten, auch unter Bäumen in Parks, niemals auf offener Weide. Die Fruchtkörper erscheinen einzeln oder in kleinen Gruppen von Juli bis November in Mitteleuropa, in Britannien von Juli bis in den Dezember (in manchen britischen Angaben August–November) und ab Juni, gelegentlich im Mai, nach einer französischen Angabe. In Europa ist er häufig und weit verbreitet und wird auch aus Nordafrika und aus Teilen Nordamerikas gemeldet.",
+      "uses": "Er ist gekocht essbar und gilt allgemein als guter Speisepilz, aber nur für Personen, die ihn sicher bestimmen können. Die Fruchtkörper können Cadmium und andere Schwermetalle anreichern, besonders in der Nähe von Bergwerken und Hütten, daher sind häufige oder große Mahlzeiten unratsam.",
+      "confusion": "Agaricus langei ist sehr ähnlich, rötet beim Schnitt ebenfalls und lässt sich am zuverlässigsten durch deutlich größere Sporen trennen. Der giftige Agaricus xanthodermus verfärbt sich an der Stielbasis leuchtend chromgelb und riecht nach Phenol oder Tinte. Junge weiße Amanita-Arten behalten weiße Lamellen, haben weißes Sporenpulver und gewöhnlich eine Volva oder eine knollige, sackartige Basis.",
+      "notes": "Eine Bewertung von 2019 stuft ihn als ungefährdet ein. Wie mehrere andere Agaricus-Arten kann er Cadmium und andere Schwermetalle anreichern; aus einem historischen Silberbergbaugebiet wurden Fruchtkörper mit äußerst hohen Cadmiumgehalten gemeldet.",
+      "names": [
+        "Kleiner Wald-Egerling",
+        "Kleiner Blut-Egerling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Kleiner_Wald-Champignon",
+        "https://mykolog.de/arten/agaricus-silvaticus/",
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus"
+      ],
+      "label": "Kleiner Wald-Champignon"
+    },
+    "en": {
+      "description": "A saprotrophic mushroom of coniferous and broad-leaved woodland across Europe and in parts of North Africa and North America, growing on soil and never in open pasture. It is common and widespread in that range, and usually appears singly or in small groups among leaf litter or conifer needles.",
+      "cap": "The cap is typically 5–12 cm across; published accounts range from 2.5 cm to as much as 15 cm (a Slovak account gives 4–8 cm). It is hemispherical or convex at first and later almost flat. The surface is pale yellowish brown to greyish brown or russet brown and covered with fine to broad brown scales that are densest at the centre, leaving a paler ground towards the margin.",
+      "hymenium": "The gills are free and crowded. They are pink or greyish pink at first, then reddish, and finally dark chocolate brown as the spores mature. One Slovak account notes that the pink stage may be hard to see.",
+      "stipe": "The stem is typically 4.5–13 cm long and 0.8–2.0 cm thick (accounts also give 4–15 × 0.6–2.5 cm, and one British account gives a mid-stem width of only 1.0–1.2 cm). It is white at first, club-shaped with a slightly swollen or bulbous base, smooth above a thin, floppy ring and finely scaly below, and bruises red, later browning with age. The ring may be simple or double, with a thicker margin and, in some accounts, large triangular scales forming a cogwheel on the underside.",
+      "flesh": "The flesh is white, thin and firm in the cap. When cut or bruised it turns red, often quickly and strongly, then brown. The smell is faint and mushroomy; the taste is mild.",
+      "sporePrint": "The spore print is chocolate brown to blackish brown. The spores are smooth and ovoid or ellipsoid, about 4.5–6.5 × 3.2–4.2 µm (one account gives 5–6 × 3–3.4 µm). Cheilocystidia are club-shaped and often have one or two septa. The cap surface does not yellow in KOH. The similar Agaricus langei has distinctly larger spores.",
+      "habitat": "It fruits on soil in coniferous, broad-leaved and mixed woodland, often under spruce, and also under trees in parks, never in open pasture. Fruit bodies appear singly or in small groups from July to November in Central Europe, from July into December in Britain (August–November in some British accounts), and from June, occasionally May, in a French account. It is common and widespread in Europe and is also reported from North Africa and parts of North America.",
+      "uses": "It is edible when cooked and is generally regarded as a good edible mushroom, but only for people who can identify it with certainty. Fruit bodies can accumulate cadmium and other heavy metals, especially near mines and smelters, so frequent or large meals are unwise.",
+      "confusion": "Agaricus langei is very similar, also reddens when cut, and is best separated by its distinctly larger spores. Poisonous Agaricus xanthodermus stains bright chrome yellow at the base of the stem and smells of phenol or ink. Young white Amanita species keep white gills, have a white spore print, and usually have a volva or a bulbous, sack-like base.",
+      "notes": "A 2019 assessment rates it as Least Concern. Like several other Agaricus species it can accumulate cadmium and other heavy metals, and fruit bodies from a historical silver-mining area have been reported with extremely high cadmium levels.",
+      "names": [
+        "red staining mushroom"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=490442",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=490442",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=490442",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=244265",
+        "https://www.gbif.org/species/8108291",
+        "https://www.wikidata.org/wiki/Q1097213",
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://fieldmycologist.uk/fungi/agaricus-sylvaticus/",
+        "https://www.first-nature.com/fungi/agaricus-sylvaticus.php",
+        "https://www.nahuby.sk/atlas-hub/Agaricus-sylvaticus/peciarka-lesna/pecarka-lesni/ID399",
+        "https://www.inaturalist.org/taxa/480776-Agaricus-sylvaticus",
+        "https://de.wikipedia.org/wiki/Kleiner_Wald-Champignon",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=292278"
+      ],
+      "label": "blushing wood mushroom"
+    },
+    "es": {
+      "description": "Un hongo saprótrofo de bosques de coníferas y de frondosas en Europa y en partes del norte de África y de América del Norte, que crece en el suelo y nunca en pastos abiertos. Es común y está ampliamente extendido en esa área, y suele aparecer solitario o en pequeños grupos entre la hojarasca o las acículas.",
+      "cap": "El sombrero mide por lo general 5–12 cm de diámetro; los intervalos publicados van de 2,5 cm hasta 15 cm (una fuente eslovaca indica 4–8 cm). Al principio es hemisférico o convexo y luego casi plano. La superficie es pardo amarillenta pálida a pardo grisácea o pardo rojiza y está cubierta de escamas pardas finas o más anchas, más densas en el centro, de modo que hacia el margen queda un fondo más pálido.",
+      "hymenium": "Las láminas son libres y apretadas. Son al principio rosadas o gris rosadas, luego rojizas y por último pardo chocolate oscuro al madurar las esporas. Una fuente eslovaca señala que la fase rosada puede ser difícil de ver.",
+      "stipe": "El pie mide por lo general 4,5–13 cm de largo y 0,8–2,0 cm de grosor (otras fuentes dan 4–15 × 0,6–2,5 cm, y una fuente británica da en la mitad del pie solo 1,0–1,2 cm). Es al principio blanco, claviforme, con la base algo hinchada o bulbosa, liso por encima de un anillo delgado y flácido y finamente escamoso por debajo; se pone rojo al roce y luego parda. El anillo puede ser simple o doble, con el borde más grueso y, según algunas fuentes, con grandes escamas triangulares en forma de engranaje en la cara inferior.",
+      "flesh": "La carne es blanca, delgada y firme en el sombrero. Al cortarla o rozarla se vuelve roja, a menudo de prisa y con fuerza, y después parda. El olor es débil y fúngico; el sabor es suave.",
+      "sporePrint": "La esporada es pardo chocolate a pardo negruzca. Las esporas son lisas y ovoides o elipsoides, de unos 4,5–6,5 × 3,2–4,2 µm (una fuente da 5–6 × 3–3,4 µm). Los queilocistidios son claviformes y suelen tener uno o dos septos. La superficie del sombrero no amarillea en KOH. El semejante Agaricus langei tiene esporas claramente mayores.",
+      "habitat": "Fructifica en el suelo en bosques de coníferas, de frondosas y mixtos, a menudo bajo píceas, también bajo árboles en parques, nunca en pastos abiertos. Los cuerpos fructíferos aparecen solitarios o en pequeños grupos de julio a noviembre en Europa central, de julio a diciembre en Gran Bretaña (agosto–noviembre en algunas fuentes británicas) y desde junio, a veces mayo, según una fuente francesa. Es común y está ampliamente extendido en Europa y también se cita del norte de África y de partes de América del Norte.",
+      "uses": "Es comestible una vez cocinado y se considera en general un buen comestible, pero solo para quienes pueden identificarlo con certeza. Los cuerpos fructíferos pueden acumular cadmio y otros metales pesados, sobre todo cerca de minas y fundiciones, por lo que las comidas frecuentes o abundantes no son aconsejables.",
+      "confusion": "Agaricus langei es muy similar, también enrojece al corte y se separa mejor por sus esporas claramente mayores. El tóxico Agaricus xanthodermus se tiñe de un amarillo cromo vivo en la base del pie y huele a fenol o a tinta. Las Amanita blancas jóvenes conservan láminas blancas, tienen esporada blanca y suelen presentar una volva o una base bulbosa, en forma de saco.",
+      "notes": "Una evaluación de 2019 lo sitúa en la categoría de preocupación menor. Como varias otras especies de Agaricus puede acumular cadmio y otros metales pesados, y de una antigua zona minera de plata se han citado cuerpos fructíferos con niveles de cadmio extremadamente altos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Okas- ja lehtmetsade saprotroofne seen Euroopas ning Põhja-Aafrika ja Põhja-Ameerika osades, kasvab mullal ega iial avatud karjamaal. Selles areaalis on ta sage ja laialt levinud ning ilmub tavaliselt üksikult või väikeste rühmadena lehe- või okkakõdus.",
+      "cap": "Kübar on tüüpiliselt 5–12 cm lai; avaldatud mõõtmed ulatuvad 2,5 cm-st kuni 15 cm-ni (slovakia allikas annab 4–8 cm). Alguses on ta poolkerajas või kumer, hiljem peaaegu lame. Pind on kahvatukollakaspruun kuni hallikaspruun või roostepruun ning kaetud peente kuni laiemate pruunide soomustega, mis on tihedaimad keskel, nii et serva poole jääb kahvatum põhi.",
+      "hymenium": "Eoslehekesed on vabad ja tihedad. Need on alguses roosad või hallikasroosad, siis punakad ja lõpuks tume šokolaadipruunid, kui eosed valmivad. Slovakia allikas märgib, et roosat staadiumi võib olla raske märgata.",
+      "stipe": "Jalg on tüüpiliselt 4,5–13 cm pikk ja 0,8–2,0 cm jäme (teised allikad annavad 4–15 × 0,6–2,5 cm ning üks Briti allikas annab jala keskosas vaid 1,0–1,2 cm). Ta on alguses valge, nuiajas, veidi paksenenud või mugulja alusega, sile õhukese, lõdva rõnga kohal ja peenelt soomuseline selle all; muljumisel punetab ja hiljem pruunistub. Rõngas võib olla liht- või kaksikrine, paksema servaga ning mõne allika järgi alaküljel suurte kolmnurksete soomustega, mis moodustavad hammasratta.",
+      "flesh": "Liha on valge, kübaras õhuke ja kindel. Lõikamisel või muljumisel muutub punaseks, sageli kiiresti ja tugevasti, seejärel pruuniks. Lõhn on nõrk ja seeneline; maitse on leebe.",
+      "sporePrint": "Eospulber on šokolaadipruun kuni mustjaspruun. Eosed on siledad, munajad või elliptilised, umbes 4,5–6,5 × 3,2–4,2 µm (üks allikas annab 5–6 × 3–3,4 µm). Servatsüstiidid on nuiakujulised ja neil on sageli üks või kaks vaheseina. Kübara pind ei muutu KOH-is kollaseks. Sarnasel liigil Agaricus langei on selgelt suuremad eosed.",
+      "habitat": "Ta viljub mullal okas-, leht- ja segametsades, sageli kuuse all, ka puude all parkides, iial avatud karjamaal. Viljakehad ilmuvad üksikult või väikeste rühmadena juulist novembrini Kesk-Euroopas, Briti saartel juulist detsembrini (mõnes Briti allikas august–november) ning juunist, vahel maist, Prantsuse allika järgi. Euroopas on ta sage ja laialt levinud ning teda on märgitud ka Põhja-Aafrikast ja Põhja-Ameerika osadest.",
+      "uses": "Keedetult on ta söödav ja teda peetakse üldiselt heaks söögiseeneks, kuid ainult neile, kes suudavad teda kindlalt määrata. Viljakehad võivad koguda kaadmiumi ja teisi raskmetalle, eriti kaevanduste ja sulatuste lähedal, nii et sagedased või suured toidukorrad ei ole mõistlikud.",
+      "confusion": "Agaricus langei on väga sarnane, punetab lõikamisel samuti ja eristub kõige kindlamini selgelt suuremate eoste järgi. Mürgine Agaricus xanthodermus värvub jala tüvel eredalt kroomkollaseks ja lõhnab fenooli või tindi järele. Noored valged Amanita liigid säilitavad valged eoslehekesed, neil on valge eospulber ning tavaliselt tupp või muguljas, kotjas alus.",
+      "notes": "2019. aasta hinnang liigitab ta ohuleviku seisukohalt vähe muret tekitavaks. Nagu mitmed teised Agaricus’e liigid võib ta koguda kaadmiumi ja teisi raskmetalle ning ajalooliselt hõbedakaevanduspiirkonnast on teatatud viljakehadest väga kõrge kaadmiumisisaldusega.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Soomusšampinjon",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "soomusšampinjon"
+    },
+    "fa": {
+      "description": "قارچی ساپروتروف در جنگل‌های سوزنی‌برگ و پهن‌برگ اروپا و بخش‌هایی از شمال آفریقا و آمریکای شمالی که روی خاک می‌روید و هرگز در چراگاه باز دیده نمی‌شود. در این گستره رایج و گسترده است و معمولاً به‌صورت منفرد یا در گروه‌های کوچک میان لاشبرگ برگ یا سوزن ظاهر می‌شود.",
+      "cap": "کلاهک معمولاً ۵–۱۲ سانتی‌متر پهنا دارد؛ دامنه‌های منتشرشده از ۲٫۵ سانتی‌متر تا ۱۵ سانتی‌متر است (یک منبع اسلواکی ۴–۸ سانتی‌متر می‌دهد). ابتدا نیم‌کره‌ای یا محدب است و سپس تقریباً پهن می‌شود. سطح آن قهوه‌ای مایل به زرد کم‌رنگ تا قهوه‌ای خاکستری یا قهوه‌ای حنایی است و با پولک‌های قهوه‌ای ظریف تا پهن‌تر پوشیده شده که در مرکز متراکم‌ترند، چنان‌که به‌سوی حاشیه زمینهٔ کم‌رنگ‌تری می‌ماند.",
+      "hymenium": "تیغه‌ها آزاد و فشرده‌اند. ابتدا صورتی یا صورتی خاکستری، سپس مایل به قرمز، و سرانجام با رسیدن هاگ‌ها قهوه‌ای شکلاتی تیره‌اند. یک منبع اسلواکی یادآور می‌شود که مرحلهٔ صورتی ممکن است دشوار دیده شود.",
+      "stipe": "ساقه معمولاً ۴٫۵–۱۳ سانتی‌متر طول و ۰٫۸–۲٫۰ سانتی‌متر ضخامت دارد (منابع دیگر ۴–۱۵ × ۰٫۶–۲٫۵ سانتی‌متر می‌دهند و یک منبع بریتانیایی در میانهٔ ساقه فقط ۱٫۰–۱٫۲ سانتی‌متر می‌گوید). ابتدا سفید، گرزی، با قاعده‌ای اندکی متورم یا غده‌ای است، بالای حلقه‌ای نازک و شل صاف و زیر آن ریزپولک‌دار است؛ با آسیب سرخ می‌شود و سپس قهوه‌ای می‌گردد. حلقه ممکن است ساده یا دوگانه باشد، با حاشیهٔ کلفت‌تر و به‌گفتهٔ برخی منابع با پولک‌های مثلثی بزرگ به‌شکل چرخ‌دنده در سطح زیرین.",
+      "flesh": "گوشت سفید است و در کلاهک نازک و سفت. هنگام برش یا کوفتگی سرخ می‌شود، اغلب تند و مشخص، سپس قهوه‌ای می‌گردد. بو ضعیف و قارچی است؛ مزه ملایم است.",
+      "sporePrint": "چاپ هاگ قهوه‌ای شکلاتی تا قهوه‌ای مایل به سیاه است. هاگ‌ها صاف و تخم‌مرغی یا بیضوی‌اند، حدود ۴٫۵–۶٫۵ × ۳٫۲–۴٫۲ میکرومتر (یک منبع ۵–۶ × ۳–۳٫۴ میکرومتر می‌دهد). کیسه‌های لبهٔ تیغه گرزی‌اند و اغلب یک یا دو دیوارهٔ عرضی دارند. سطح کلاهک در KOH زرد نمی‌شود. گونهٔ مشابه Agaricus langei هاگ‌های آشکارا بزرگ‌تری دارد.",
+      "habitat": "روی خاک در جنگل‌های سوزنی‌برگ، پهن‌برگ و آمیخته میوه‌دهی می‌کند، اغلب زیر نوئل، همچنین زیر درختان در پارک‌ها، هرگز در چراگاه باز. اندام‌های میوه‌ده از ژوئیه تا نوامبر در اروپای مرکزی، در بریتانیا از ژوئیه تا دسامبر (اوت–نوامبر در برخی منابع بریتانیایی) و از ژوئن، گاه مه، به‌گفتهٔ یک منبع فرانسوی، به‌صورت منفرد یا در گروه‌های کوچک ظاهر می‌شوند. در اروپا رایج و گسترده است و از شمال آفریقا و بخش‌هایی از آمریکای شمالی نیز گزارش شده است.",
+      "uses": "پس از پختن خوراکی است و عموماً قارچ خوراکی خوبی شمرده می‌شود، اما فقط برای کسانی که بتوانند آن را با اطمینان شناسایی کنند. اندام‌های میوه‌ده می‌توانند کادمیم و دیگر فلزات سنگین را انباشته کنند، به‌ویژه نزدیک معادن و کوره‌ها، بنابراین وعده‌های مکرر یا زیاد خردمندانه نیست.",
+      "confusion": "Agaricus langei بسیار شبیه است، هنگام برش نیز سرخ می‌شود و بهتر از همه با هاگ‌های آشکارا بزرگ‌تر جدا می‌شود. گونهٔ سمی Agaricus xanthodermus در پایهٔ ساقه زرد کرومی روشن می‌شود و بوی فنول یا مرکب می‌دهد. گونه‌های سفید جوان Amanita تیغه‌های سفید را حفظ می‌کنند، چاپ هاگ سفید دارند و معمولاً غلاف یا قاعده‌ای غده‌ای و کیسه‌مانند دارند.",
+      "notes": "ارزیابی سال ۲۰۱۹ آن را کمترین نگرانی طبقه‌بندی می‌کند. مانند چند گونهٔ دیگر Agaricus می‌تواند کادمیم و دیگر فلزات سنگین را انباشته کند و از یک منطقهٔ تاریخی استخراج نقره اندام‌های میوه‌ده با سطوح بسیار بالای کادمیم گزارش شده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Euroopan sekä Pohjois-Afrikan ja Pohjois-Amerikan osien havu- ja lehtimetsien saprotrofinen sieni, joka kasvaa maassa eikä koskaan avoimella laidunmaalla. Se on tällä alueella yleinen ja laajalle levinnyt ja esiintyy tavallisesti yksittäin tai pieninä ryhminä lehti- tai neulaskarikkeessa.",
+      "cap": "Lakki on tyypillisesti 5–12 cm leveä; julkaistut mitat vaihtelevat 2,5 sentistä jopa 15 senttiin (slovakialainen lähde ilmoittaa 4–8 cm). Se on aluksi puolipallomainen tai kupera, myöhemmin lähes litteä. Pinta on vaalean kellanruskea tai harmaan- taikka ruosteenruskea ja peittynyt hienoista leveämpiin ruskeisiin suomuihin, jotka ovat tiheimmillään keskustassa, niin että reunaa kohti jää vaaleampi pohja.",
+      "hymenium": "Heltat ovat vapaat ja tiheät. Ne ovat aluksi vaaleanpunaiset tai harmaanpunertavat, sitten punertavat ja lopulta tumman suklaanruskeat itiöiden kypsyessä. Slovakialainen lähde huomauttaa, että vaaleanpunainen vaihe voi olla vaikea havaita.",
+      "stipe": "Jalka on tyypillisesti 4,5–13 cm pitkä ja 0,8–2,0 cm paksu (toiset lähteet ilmoittavat 4–15 × 0,6–2,5 cm, ja yksi brittiläinen lähde ilmoittaa jalan keskikohdassa vain 1,0–1,2 cm). Se on aluksi valkoinen, nuijamainen, hieman paksuuntuneesta tai mukulamaisesta tyvestä, sileä ohuen, veltto rengas yläpuolelta ja hienosuomuinen sen alapuolelta; se punertuu painettaessa ja ruskettuu myöhemmin. Rengas voi olla yksinkertainen tai kaksinkertainen, paksumpireunainen, ja joidenkin lähteiden mukaan alapinnalla on suuria kolmiomaisia suomuja ratasmaisesti.",
+      "flesh": "Malto on valkoista, lakissa ohutta ja kiinteää. Leikattaessa tai painettaessa se punertuu, usein nopeasti ja voimakkaasti, sitten ruskettuu. Haju on heikko ja sienimäinen; maku on mieto.",
+      "sporePrint": "Itiöpöly on suklaanruskeaa tai mustanruskeaa. Itiöt ovat sileitä ja munuaismaisia tai elliptisiä, noin 4,5–6,5 × 3,2–4,2 µm (yksi lähde ilmoittaa 5–6 × 3–3,4 µm). Reunanystyt ovat nuijamaisia ja niissä on usein yksi tai kaksi poikkiseinää. Lakin pinta ei kelta KOH:ssa. Samankaltaisella lajilla Agaricus langei on selvästi suuremmat itiöt.",
+      "habitat": "Se hedelmöittää maassa havu-, lehti- ja sekametsissä, usein kuusen alla, myös puiden alla puistoissa, ei koskaan avoimella laidunmaalla. Itiöemät ilmestyvät yksittäin tai pieninä ryhminä heinäkuusta marraskuuhun Keski-Euroopassa, Britanniassa heinäkuusta joulukuuhun (joissakin brittiläisissä lähteissä elokuu–marraskuu) ja kesäkuusta, satunnaisesti toukokuusta, ranskalaisen lähteen mukaan. Se on Euroopassa yleinen ja laajalle levinnyt ja sitä on ilmoitettu myös Pohjois-Afrikasta ja Pohjois-Amerikan osista.",
+      "uses": "Se on keitettynä syötävä ja sitä pidetään yleensä hyvänä ruokasienenä, mutta vain niille, jotka osaavat tunnistaa sen varmasti. Itiöemät voivat kerätä kadmiumia ja muita raskasmetalleja, etenkin kaivosten ja sulattojen lähellä, joten tiheät tai suuret ateriat eivät ole viisaita.",
+      "confusion": "Agaricus langei on hyvin samankaltainen, punertuu myös leikättäessa ja erottuu parhaiten selvästi suuremmista itiöistä. Myrkyllinen Agaricus xanthodermus värjäytyy kirkkaan krominkeltaiseksi jalan tyvestä ja tuoksuu fenolilta tai musteelta. Nuoret valkoiset Amanita-lajit säilyttävät valkoiset heltat, niillä on valkoinen itiöpöly ja tavallisesti tuppi tai mukulamainen, säkkimäinen tyvi.",
+      "notes": "Vuoden 2019 arvio luokittelee sen elinvoimaiseksi. Kuten useat muut Agaricus-lajit se voi kerätä kadmiumia ja muita raskasmetalleja, ja historialliselta hopeakaivosalueelta on ilmoitettu itiöemiä, joissa kadmiumpitoisuus on ollut erittäin korkea.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "tapionherkkusieni"
+    },
+    "fr": {
+      "description": "Un champignon saprotrophe des forêts de conifères et de feuillus en Europe et dans des parties de l’Afrique du Nord et de l’Amérique du Nord, croissant sur le sol et jamais en pâturage ouvert. Il est commun et largement répandu dans cette aire, et apparaît habituellement isolé ou en petits groupes parmi la litière de feuilles ou d’aiguilles.",
+      "cap": "Le chapeau mesure typiquement 5–12 cm de diamètre ; les fourchettes publiées vont de 2,5 cm jusqu’à 15 cm (une source slovaque indique 4–8 cm). Il est d’abord hémisphérique ou convexe, puis presque plan. La surface est brun jaunâtre pâle à brun grisâtre ou brun roux, couverte d’écailles brunes fines à larges, plus denses au centre, laissant un fond plus pâle vers la marge.",
+      "hymenium": "Les lames sont libres et serrées. Elles sont d’abord roses ou rose grisâtre, puis rougeâtres, et enfin brun chocolat foncé à maturité des spores. Une source slovaque note que le stade rose peut être difficile à voir.",
+      "stipe": "Le pied mesure typiquement 4,5–13 cm de long et 0,8–2,0 cm d’épaisseur (d’autres sources donnent 4–15 × 0,6–2,5 cm, et une source britannique donne au milieu du pied seulement 1,0–1,2 cm). Il est d’abord blanc, en massue, à base un peu renflée ou bulbeuse, lisse au-dessus d’un anneau mince et flasque et finement écailleux en dessous ; il rougit à la blessure, puis brunit. L’anneau peut être simple ou double, à marge plus épaisse et, selon certaines sources, à grandes écailles triangulaires en roue dentée sur la face inférieure.",
+      "flesh": "La chair est blanche, mince et ferme dans le chapeau. Coupée ou meurtrie, elle devient rouge, souvent vite et nettement, puis brune. L’odeur est faible et fongique ; la saveur est douce.",
+      "sporePrint": "La sporée est brun chocolat à brun noirâtre. Les spores sont lisses, ovoïdes ou ellipsoïdes, d’environ 4,5–6,5 × 3,2–4,2 µm (une source donne 5–6 × 3–3,4 µm). Les cheilocystides sont clavées et portent souvent une ou deux cloisons. La surface du chapeau ne jaunit pas dans KOH. L’espèce voisine Agaricus langei a des spores nettement plus grandes.",
+      "habitat": "Il fructifie sur le sol dans les bois de conifères, de feuillus et mixtes, souvent sous épicéa, aussi sous les arbres des parcs, jamais en pâturage ouvert. Les sporophores apparaissent isolés ou en petits groupes de juillet à novembre en Europe centrale, de juillet à décembre en Grande-Bretagne (août–novembre selon certaines sources britanniques), et dès juin, parfois en mai, selon une source française. Il est commun et largement répandu en Europe et est aussi signalé d’Afrique du Nord et de parties de l’Amérique du Nord.",
+      "uses": "Il est comestible une fois cuit et est généralement regardé comme un bon comestible, mais seulement pour qui peut l’identifier avec certitude. Les sporophores peuvent accumuler le cadmium et d’autres métaux lourds, surtout près des mines et des fonderies, si bien que des repas fréquents ou copieux sont déconseillés.",
+      "confusion": "Agaricus langei est très voisin, rougit aussi à la coupe, et s’en sépare surtout par des spores nettement plus grandes. L’espèce toxique Agaricus xanthodermus jaunit d’un jaune chromé vif à la base du pied et sent le phénol ou l’encre. Les jeunes Amanita blanches gardent des lames blanches, ont une sporée blanche, et portent d’ordinaire une volve ou une base bulbeuse en sac.",
+      "notes": "Une évaluation de 2019 le classe en préoccupation mineure. Comme plusieurs autres Agaricus, il peut accumuler le cadmium et d’autres métaux lourds, et des sporophores provenant d’une ancienne région minière d’argent ont été signalés avec des teneurs en cadmium extrêmement élevées.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus"
+      ],
+      "label": "agaric des forêts"
+    },
+    "he": {
+      "description": "פטרייה ספרוטרופית של יערות מחטניים ורחבי-עלים באירופה ובחלקים מצפון אפריקה ומאמריקה הצפונית, הגדלה על הקרקע ולעולם לא במרעה פתוח. היא שכיחה ורחבת תפוצה באותו תחום, ומופיעה בדרך כלל כיחידים או בקבוצות קטנות בין שכבת עלים או מחטים.",
+      "cap": "הכובע בדרך כלל ברוחב 5–12 ס\"מ; הטווחים שפורסמו נעים מ-2.5 ס\"מ עד 15 ס\"מ (מקור סלובקי מציין 4–8 ס\"מ). תחילה הוא חצי-כדורי או קמור ואחר כך כמעט שטוח. המשטח חום-צהבהב חיוור עד חום-אפרפר או חום-אדמדם ומכוסה קשקשים חומים דקים עד רחבים יותר, הצפופים ביותר במרכז, כך שלקראת השוליים נותר רקע חיוור יותר.",
+      "hymenium": "הדפים חופשיים וצפופים. תחילה הם ורודים או ורודים-אפרפרים, אחר כך אדמדמים, ולבסוף חומים שוקולדיים כהים עם הבשלת הנבגים. מקור סלובקי מציין ששלב הוורוד עשוי להיות קשה לראייה.",
+      "stipe": "הרגל בדרך כלל באורך 4.5–13 ס\"מ ובעובי 0.8–2.0 ס\"מ (מקורות אחרים נותנים 4–15 × 0.6–2.5 ס\"מ, ומקור בריטי נותן באמצע הרגל רק 1.0–1.2 ס\"מ). תחילה היא לבנה, דמוית אלה, עם בסיס מעט נפוח או פקעתי, חלקה מעל טבעת דקה ורפויה ומכוסה קשקשים עדינים מתחתיה; היא מאדימה בפגיעה ואחר כך משחימה. הטבעת עשויה להיות פשוטה או כפולה, עם שוליים עבים יותר, ולפי מקורות מסוימים עם קשקשים משולשים גדולים בצורת גלגל שיניים בצד התחתון.",
+      "flesh": "הבשר לבן, דק ומוצק בכובע. בחתך או בחבלה הוא מאדים, לעיתים קרובות במהירות ובבהירות, ואחר כך משחים. הריח חלש ופטרייתי; הטעם עדין.",
+      "sporePrint": "טביעת הנבגים חומה שוקולדית עד חומה-שחורה. הנבגים חלקים וביציים או אליפסואידיים, כ-4.5–6.5 × 3.2–4.2 מיקרומטר (מקור אחד נותן 5–6 × 3–3.4 מיקרומטר). הציסטידות בשפת הדף דמויות אלה ולעיתים קרובות בעלות מחיצה אחת או שתיים. פני הכובע אינם מצהיבים ב-KOH. למין הדומה Agaricus langei נבגים גדולים בבירור.",
+      "habitat": "היא מניבה על הקרקע ביערות מחטניים, רחבי-עלים ומעורבים, לעיתים קרובות תחת אשוחית, גם תחת עצים בפארקים, ולעולם לא במרעה פתוח. גופי הפרי מופיעים כיחידים או בקבוצות קטנות מיולי עד נובמבר במרכז אירופה, בבריטניה מיולי עד דצמבר (אוגוסט–נובמבר במקורות בריטיים מסוימים), ומיוני, לעיתים ממאי, לפי מקור צרפתי. היא שכיחה ורחבת תפוצה באירופה ומדווחת גם מצפון אפריקה ומחלקים של אמריקה הצפונית.",
+      "uses": "היא אכילה לאחר בישול ונחשבת בדרך כלל לפטריית מאכל טובה, אך רק למי שיכול לזהות אותה בוודאות. גופי הפרי יכולים לצבור קדמיום ומתכות כבדות אחרות, במיוחד ליד מכרות ובתי יציקה, ולכן ארוחות תכופות או גדולות אינן מומלצות.",
+      "confusion": "Agaricus langei דומה מאוד, גם הוא מאדים בחתך, ומובחן בצורה הטובה ביותר בנבגים הגדולים בבירור. המין הרעיל Agaricus xanthodermus נצבע בצהוב כרום בהיר בבסיס הרגל ומריח פנול או דיו. מיני Amanita לבנים צעירים שומרים על דפים לבנים, להם טביעת נבגים לבנה, ובדרך כלל יש להם נרתיק או בסיס פקעתי דמוי שק.",
+      "notes": "הערכה מ-2019 מסווגת אותה כמעוררת דאגה פחותה. כמו כמה מיני Agaricus אחרים היא יכולה לצבור קדמיום ומתכות כבדות אחרות, ומאזור כריית כסף היסטורי דווחו גופי פרי עם רמות קדמיום גבוהות במיוחד.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यूरोप तथा उत्तरी अफ्रीका और उत्तरी अमेरिका के कुछ भागों के शंकुधारी और चौड़ी पत्ती वाले वनों का एक मृतोपजीवी कवक, जो मिट्टी पर उगता है और कभी खुले चरागाह में नहीं आता। उस विस्तार में यह सामान्य और व्यापक है, और आमतौर पर पत्तों या सुइयों के गिरे हुए आवरण में अकेला या छोटे समूहों में दिखाई देता है।",
+      "cap": "टोपी आमतौर पर 5–12 सेमी चौड़ी होती है; प्रकाशित सीमाएँ 2.5 सेमी से 15 सेमी तक हैं (एक स्लोवाक स्रोत 4–8 सेमी देता है)। पहले यह अर्धगोलाकार या उभरी हुई होती है, बाद में लगभग चपटी। सतह हल्की पीली-भूरी से धूसर-भूरी या लाल-भूरी होती है और महीन से चौड़ी भूरी शल्कों से ढकी रहती है, जो केंद्र में सबसे घनी होती हैं, जिससे किनारे की ओर हल्का आधार रह जाता है।",
+      "hymenium": "गिल मुक्त और घनी होती हैं। पहले वे गुलाबी या धूसर-गुलाबी, फिर लालिमा लिए और अंत में बीजाणु पकने पर गहरी चॉकलेट भूरी होती हैं। एक स्लोवाक स्रोत नोट करता है कि गुलाबी अवस्था देखना कठिन हो सकता है।",
+      "stipe": "डंठल आमतौर पर 4.5–13 सेमी लंबा और 0.8–2.0 सेमी मोटा होता है (अन्य स्रोत 4–15 × 0.6–2.5 सेमी देते हैं, और एक ब्रिटिश स्रोत डंठल के मध्य में केवल 1.0–1.2 सेमी देता है)। पहले यह सफेद, गदाकार, थोड़े फूले या कंदिल आधार वाला होता है, एक पतली, ढीली अंगूठी के ऊपर चिकना और उसके नीचे महीन शल्कदार; चोट लगने पर लाल होता है, बाद में भूरा। अंगूठी सरल या दोहरी हो सकती है, मोटे किनारे वाली, और कुछ स्रोतों के अनुसार नीचे की ओर बड़े त्रिभुजाकार शल्क दाँतेदार चक्र बनाते हैं।",
+      "flesh": "मांस सफेद है, टोपी में पतला और दृढ़। काटने या दबाने पर लाल हो जाता है, अक्सर तेज़ी से और स्पष्ट रूप से, फिर भूरा। गंध हल्की और कवकीय है; स्वाद मृदु है।",
+      "sporePrint": "बीजाणु-छाप चॉकलेट भूरी से काली-भूरी होती है। बीजाणु चिकने और अंडाकार या दीर्घवृत्ताकार हैं, लगभग 4.5–6.5 × 3.2–4.2 µm (एक स्रोत 5–6 × 3–3.4 µm देता है)। कीलोसिस्टिडिया गदाकार होते हैं और अक्सर एक या दो पट होते हैं। टोपी की सतह KOH में पीली नहीं होती। समान Agaricus langei के बीजाणु स्पष्ट रूप से बड़े होते हैं।",
+      "habitat": "यह शंकुधारी, चौड़ी पत्ती वाले और मिश्रित वनों की मिट्टी पर फलता है, अक्सर स्प्रूस के नीचे, पार्कों के वृक्षों के नीचे भी, कभी खुले चरागाह में नहीं। फलन-शरीर मध्य यूरोप में जुलाई से नवंबर तक, ब्रिटेन में जुलाई से दिसंबर तक (कुछ ब्रिटिश स्रोतों में अगस्त–नवंबर), और एक फ्रांसीसी स्रोत के अनुसार जून से, कभी-कभी मई से, अकेले या छोटे समूहों में दिखाई देते हैं। यूरोप में यह सामान्य और व्यापक है और उत्तरी अफ्रीका तथा उत्तरी अमेरिका के कुछ भागों से भी बताया गया है।",
+      "uses": "पकाने के बाद यह खाद्य है और आमतौर पर अच्छा खाद्य कवक माना जाता है, लेकिन केवल उन लोगों के लिए जो इसे निश्चित रूप से पहचान सकें। फलन-शरीर कैडमियम और अन्य भारी धातुएँ जमा कर सकते हैं, विशेषकर खदानों और प्रगलन के पास, इसलिए बार-बार या बड़ी मात्रा में भोजन उचित नहीं है।",
+      "confusion": "Agaricus langei बहुत समान है, काटने पर वह भी लाल होता है, और स्पष्ट रूप से बड़े बीजाणुओं से सबसे अच्छी तरह अलग किया जाता है। विषैला Agaricus xanthodermus डंठल के आधार पर चमकीला क्रोम पीला हो जाता है और फीनॉल या स्याही जैसी गंध देता है। युवा सफेद Amanita प्रजातियाँ सफेद गिल बनाए रखती हैं, सफेद बीजाणु-छाप होती है, और आमतौर पर एक वोल्वा या कंदिल, थैली जैसा आधार होता है।",
+      "notes": "2019 के आकलन में इसे सबसे कम चिंता का माना गया है। कई अन्य Agaricus प्रजातियों की तरह यह कैडमियम और अन्य भारी धातुएँ जमा कर सकता है, और एक ऐतिहासिक चाँदी-खनन क्षेत्र से अत्यंत उच्च कैडमियम स्तर वाले फलन-शरीर बताए गए हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Saprotrofna gljiva crnogoričnih i bjelogoričnih šuma Europe te dijelova sjeverne Afrike i Sjeverne Amerike, koja raste na tlu i nikad na otvorenim pašnjacima. U tom je arealu česta i široko rasprostranjena i obično se pojavljuje pojedinačno ili u malim skupinama među lisnim ili igličastim otpalim pokrovom.",
+      "cap": "Klobuk je tipično širok 5–12 cm; objavljeni rasponi idu od 2,5 cm do 15 cm (slovački izvor navodi 4–8 cm). Najprije je polukuglast ili ispupčen, kasnije gotovo ravan. Površina je blijedo žućkastosmeđa do sivkasto smeđa ili riđesmeđa i prekrivena finim do širim smeđim ljuskama, najgušćima u središtu, tako da prema rubu ostaje bljeđa podloga.",
+      "hymenium": "Listići su slobodni i gusti. Najprije su ružičasti ili sivkasto ružičasti, zatim crvenkasti i napokon tamno čokoladnosmeđi kako spore dozrijevaju. Jedan slovački izvor napominje da ružičastu fazu može biti teško uočiti.",
+      "stipe": "Stručak je tipično dug 4,5–13 cm i debeo 0,8–2,0 cm (drugi izvori navode 4–15 × 0,6–2,5 cm, a jedan britanski izvor u sredini stručka navodi samo 1,0–1,2 cm). Najprije je bijel, kijačast, s blago zadebljanom ili gomoljastom bazom, gladak iznad tankog, mlitavog vjenčića i fino ljuskav ispod njega; na pritisak pocrveni, kasnije posmeđi. Vjenčić može biti jednostavan ili dvostruk, debljeg ruba i, prema nekim izvorima, s velikim trokutastim ljuskama na donjoj strani koje tvore zupčanik.",
+      "flesh": "Meso je bijelo, u klobuku tanko i čvrsto. Pri rezanju ili gnječenju pocrveni, često brzo i snažno, zatim posmeđi. Miris je slab, gljivast; okus je blag.",
+      "sporePrint": "Otisak spora je čokoladnosmeđ do crnkastosmeđ. Spore su glatke, jajolike ili elipsoidne, oko 4,5–6,5 × 3,2–4,2 µm (jedan izvor navodi 5–6 × 3–3,4 µm). Heilocistide su kijačaste i često imaju jednu ili dvije pregrade. Površina klobuka u KOH-u ne požuti. Sličan Agaricus langei ima znatno veće spore.",
+      "habitat": "Plodonosi na tlu u crnogoričnim, bjelogoričnim i mješovitim šumama, često pod smrekom, također pod stablima u parkovima, nikad na otvorenim pašnjacima. Plodišta se pojavljuju pojedinačno ili u malim skupinama od srpnja do studenoga u Srednjoj Europi, u Britaniji od srpnja do prosinca (kolovoz–studeni u nekim britanskim izvorima) te od lipnja, ponekad od svibnja, prema francuskom izvoru. U Europi je česta i široko rasprostranjena te se navodi i iz sjeverne Afrike i iz dijelova Sjeverne Amerike.",
+      "uses": "Nakon kuhanja jestiva je i općenito se smatra dobrom jestivom gljivom, ali samo za one koji je mogu pouzdano odrediti. Plodišta mogu nakupljati kadmij i druge teške metale, osobito blizu rudnika i talionica, pa česti ili obilni obroci nisu mudri.",
+      "confusion": "Agaricus langei vrlo je sličan, pri rezanju također pocrveni i najpouzdanije se razlikuje po znatno većim sporama. Otrovni Agaricus xanthodermus na bazi stručka se boji jarko krom-žuto i miriše na fenol ili tintu. Mlade bijele vrste roda Amanita zadržavaju bijele listiće, imaju bijeli otisak spora i obično ovoj ili gomoljastu, vrećastu bazu.",
+      "notes": "Procjena iz 2019. svrstava je među vrste najmanje zabrinutosti. Kao i neke druge vrste roda Agaricus može nakupljati kadmij i druge teške metale, a iz povijesnog područja vađenja srebra prijavljena su plodišta s iznimno visokom razinom kadmija.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Európa, valamint Észak-Afrika és Észak-Amerika egyes részeinek fenyveseiben és lomblevelű erdeiben élő szaprotróf gomba, amely talajon nő, soha nem nyílt legelőn. Ezen a területen gyakori és széles körben elterjedt, és általában magánosan vagy kis csoportokban jelenik meg avarban vagy tűlevélhulladékban.",
+      "cap": "A kalap tipikusan 5–12 cm széles; a közölt mérettartomány 2,5 cm-től akár 15 cm-ig terjed (egy szlovák forrás 4–8 cm-t ad meg). Előbb félgömbölyű vagy domború, később majdnem lapos. Felszíne halvány sárgásbarna, szürkésbarna vagy vörösbarna, finom vagy szélesebb barna pikkelyekkel, amelyek a középen a legsűrűbbek, a szél felé világosabb alapszín marad.",
+      "hymenium": "A lemezek szabadok és sűrűn állók. Előbb rózsaszínűek vagy szürkésrózsaszínűek, majd vörösesek, végül a spórák érésekor sötét csokoládébarnák. Egy szlovák forrás megjegyzi, hogy a rózsaszín szakasz nehezen észrevehető lehet.",
+      "stipe": "A tönk tipikusan 4,5–13 cm hosszú és 0,8–2,0 cm vastag (más források 4–15 × 0,6–2,5 cm-t adnak meg, egy brit forrás a tönk közepén csak 1,0–1,2 cm-t). Előbb fehér, bunkós, kissé duzzadt vagy gumós tövű, egy vékony, petyhüdt gallér felett sima, alatta finoman pikkelyes; nyomásra vörösödik, később barnul. A gallér egyszerű vagy kettős lehet, vastagabb szegéllyel, és egyes források szerint az alján nagy háromszögű pikkelyek fogaskerékszerűen állnak.",
+      "flesh": "A hús fehér, a kalapban vékony és szívós. Vágáskor vagy nyomásra vörösödik, gyakran gyorsan és erősen, majd megbarnul. Illata gyenge, gombaszerű; íze enyhe.",
+      "sporePrint": "A spórapor csokoládébarna vagy feketésbarna. A spórák simák, tojásdadok vagy ellipszoidok, körülbelül 4,5–6,5 × 3,2–4,2 µm (egy forrás 5–6 × 3–3,4 µm-t ad meg). A cheilocystidák bunkósak, gyakran egy vagy két harántfallal. A kalap felszíne KOH-ban nem sárgul. A hasonló Agaricus langei spórái határozottan nagyobbak.",
+      "habitat": "Talajon terem fenyvesekben, lomblevelű és elegyes erdőkben, gyakran luc alatt, parkok fái alatt is, soha nem nyílt legelőn. A termőtestek magánosan vagy kis csoportokban jelennek meg Közép-Európában júliustól novemberig, Britanniában júliustól decemberig (egyes brit források szerint augusztus–november), egy francia forrás szerint júniustól, alkalmanként májustól. Európában gyakori és széles körben elterjedt, Észak-Afrikából és Észak-Amerika egyes részeiről is jelzik.",
+      "uses": "Főzve ehető, és általában jó evőgombának tartják, de csak azoknak, akik biztosan felismerik. A termőtestek kadmiumot és más nehézfémeket halmozhatnak fel, különösen bányák és kohók közelében, ezért a gyakori vagy bőséges fogyasztás nem tanácsos.",
+      "confusion": "Az Agaricus langei nagyon hasonlít, vágáskor szintén vörösödik, és legbiztosabban a határozottan nagyobb spórák alapján különíthető el. A mérgező Agaricus xanthodermus a tönk tövénél élénk krómsárgára színeződik, és fenol- vagy tintaszagú. A fiatal fehér Amanita-fajok fehér lemezűek maradnak, fehér a spóraporuk, és általában bocskoruk vagy gumós, zsákos tövük van.",
+      "notes": "Egy 2019-es értékelés nem veszélyeztetettnek minősíti. Mint több más Agaricus-faj, kadmiumot és más nehézfémeket halmozhat fel, és egy történelmi ezüstbányászati területről rendkívül magas kadmiumtartalmú termőtesteket jelentettek.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "erdei csiperke"
+    },
+    "id": {
+      "description": "Jamur saprotrof hutan konifer dan hutan berdaun lebar di Eropa serta di bagian Afrika Utara dan Amerika Utara, tumbuh di tanah dan tidak pernah di padang rumput terbuka. Di wilayah itu ia umum dan tersebar luas, dan biasanya muncul sendiri-sendiri atau dalam kelompok kecil di antara seresah daun atau jarum.",
+      "cap": "Tudung biasanya berdiameter 5–12 cm; kisaran yang diterbitkan merentang dari 2,5 cm hingga 15 cm (sumber Slowakia menyebut 4–8 cm). Mula-mula hemi-bundar atau cembung, kemudian hampir datar. Permukaan cokelat kekuningan pucat hingga cokelat keabuan atau cokelat kemerahan dan tertutup sisik cokelat halus hingga lebih lebar, paling rapat di tengah, sehingga ke tepi tertinggal latar yang lebih pucat.",
+      "hymenium": "Insang bebas dan rapat. Mula-mula merah muda atau merah muda keabuan, kemudian kemerahan, dan akhirnya cokelat cokelat tua ketika spora matang. Satu sumber Slowakia mencatat bahwa tahap merah muda mungkin sulit dilihat.",
+      "stipe": "Batang biasanya 4,5–13 cm panjangnya dan 0,8–2,0 cm tebalnya (sumber lain menyebut 4–15 × 0,6–2,5 cm, dan satu sumber Britania menyebut di tengah batang hanya 1,0–1,2 cm). Mula-mula putih, berbentuk gada dengan pangkal sedikit membengkak atau berumbi, licin di atas cincin tipis yang lembek dan berisisik halus di bawahnya; memerah ketika terluka, kemudian menjadi cokelat. Cincin dapat sederhana atau ganda, dengan tepi lebih tebal dan, menurut beberapa sumber, dengan sisik segitiga besar membentuk roda gigi di sisi bawah.",
+      "flesh": "Daging putih, tipis dan teguh di tudung. Ketika dipotong atau memar menjadi merah, sering cepat dan kuat, kemudian cokelat. Bau lemah dan seperti jamur; rasa ringan.",
+      "sporePrint": "Cetakan spora cokelat cokelat hingga cokelat kehitaman. Spora licin, lonjong atau elipsoid, sekitar 4,5–6,5 × 3,2–4,2 µm (satu sumber menyebut 5–6 × 3–3,4 µm). Keilosistidia berbentuk gada dan sering memiliki satu atau dua sekat. Permukaan tudung tidak menguning dalam KOH. Agaricus langei yang serupa memiliki spora yang jelas lebih besar.",
+      "habitat": "Berbuah di tanah di hutan konifer, hutan berdaun lebar, dan hutan campuran, sering di bawah cemara, juga di bawah pohon di taman, tidak pernah di padang rumput terbuka. Tubuh buah muncul sendiri-sendiri atau dalam kelompok kecil dari Juli hingga November di Eropa Tengah, di Britania dari Juli hingga Desember (Agustus–November dalam beberapa sumber Britania), dan dari Juni, kadang Mei, menurut sumber Prancis. Ia umum dan tersebar luas di Eropa dan juga dilaporkan dari Afrika Utara dan bagian Amerika Utara.",
+      "uses": "Dapat dimakan setelah dimasak dan umumnya dianggap jamur pangan yang baik, tetapi hanya bagi orang yang dapat mengenalinya dengan pasti. Tubuh buah dapat menumpuk kadmium dan logam berat lain, terutama dekat tambang dan peleburan, sehingga santapan yang sering atau besar tidak bijak.",
+      "confusion": "Agaricus langei sangat serupa, juga memerah ketika dipotong, dan paling baik dipisahkan oleh spora yang jelas lebih besar. Agaricus xanthodermus yang beracun berwarna kuning krom cerah di pangkal batang dan berbau fenol atau tinta. Jenis Amanita putih yang muda mempertahankan insang putih, memiliki cetakan spora putih, dan biasanya memiliki volva atau pangkal berumbi menyerupai kantung.",
+      "notes": "Penilaian tahun 2019 menempatkannya sebagai tidak terancam. Seperti beberapa jenis Agaricus lain ia dapat menumpuk kadmium dan logam berat lain, dan dari kawasan pertambangan perak bersejarah telah dilaporkan tubuh buah dengan kadar kadmium yang sangat tinggi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo saprotrofo dei boschi di conifere e di latifoglie in Europa e in parti del Nord Africa e del Nord America, che cresce sul suolo e mai in pascoli aperti. È comune e ampiamente diffuso in quell’areale e compare di solito isolato o in piccoli gruppi tra la lettiera di foglie o di aghi.",
+      "cap": "Il cappello misura in genere 5–12 cm di diametro; gli intervalli pubblicati vanno da 2,5 cm fino a 15 cm (una fonte slovacca indica 4–8 cm). All’inizio è emisferico o convesso, poi quasi piano. La superficie è bruno-giallastra chiara, bruno-grigiastra o bruno-rossastra e coperta di squame brune fini o più larghe, più fitte al centro, così che verso il margine resta un fondo più chiaro.",
+      "hymenium": "Le lamelle sono libere e fitte. Sono all’inizio rosa o rosa-grigiastre, poi rossastre e infine bruno-cioccolato scuro a maturazione delle spore. Una fonte slovacca nota che lo stadio rosa può essere difficile da vedere.",
+      "stipe": "Il gambo è in genere lungo 4,5–13 cm e spesso 0,8–2,0 cm (altre fonti indicano 4–15 × 0,6–2,5 cm e una fonte britannica indica a metà gambo solo 1,0–1,2 cm). È all’inizio bianco, clavato, con base un po’ ingrossata o bulbosa, liscio sopra un anello sottile e floscio e finemente squamoso sotto; al tocco arrossisce e poi imbrunisce. L’anello può essere semplice o doppio, con margine più spesso e, secondo alcune fonti, con grandi squame triangolari a ruota dentata sulla faccia inferiore.",
+      "flesh": "La carne è bianca, sottile e soda nel cappello. Tagliata o ammaccata diventa rossa, spesso in fretta e con evidenza, poi bruna. L’odore è debole e fungino; il sapore è mite.",
+      "sporePrint": "La sporata è bruno-cioccolato o bruno-nerastra. Le spore sono lisce, ovoidi o ellissoidi, di circa 4,5–6,5 × 3,2–4,2 µm (una fonte indica 5–6 × 3–3,4 µm). I cheilocistidi sono clavati e hanno spesso uno o due setti. La superficie del cappello non ingiallisce in KOH. Il simile Agaricus langei ha spore nettamente più grandi.",
+      "habitat": "Fruttifica sul suolo in boschi di conifere, di latifoglie e misti, spesso sotto abete rosso, anche sotto alberi nei parchi, mai in pascoli aperti. I corpi fruttiferi compaiono isolati o in piccoli gruppi da luglio a novembre in Europa centrale, in Gran Bretagna da luglio a dicembre (agosto–novembre in alcune fonti britanniche) e da giugno, talvolta da maggio, secondo una fonte francese. È comune e ampiamente diffuso in Europa ed è segnalato anche dal Nord Africa e da parti del Nord America.",
+      "uses": "È commestibile una volta cotto ed è in genere considerato un buon commestibile, ma solo per chi sa identificarlo con certezza. I corpi fruttiferi possono accumulare cadmio e altri metalli pesanti, soprattutto vicino a miniere e fonderie, per cui pasti frequenti o abbondanti non sono consigliabili.",
+      "confusion": "Agaricus langei è molto simile, arrossisce anch’esso al taglio e si distingue soprattutto per le spore nettamente più grandi. Il velenoso Agaricus xanthodermus si macchia di un giallo cromo vivace alla base del gambo e odora di fenolo o di inchiostro. Le giovani Amanita bianche conservano lamelle bianche, hanno sporata bianca e di solito una volva o una base bulbosa, a sacco.",
+      "notes": "Una valutazione del 2019 lo colloca tra le specie a rischio minimo. Come diverse altre specie di Agaricus può accumulare cadmio e altri metalli pesanti, e da un’area mineraria storica dell’argento sono stati segnalati corpi fruttiferi con livelli di cadmio estremamente elevati.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ヨーロッパおよび北アフリカと北アメリカの一部の針葉樹林と広葉樹林に生える腐生性のきのこで、地上に発生し、開けた牧草地には現れない。その分布域では普通で広く見られ、通常は落葉や針葉の堆積の中に単生または小さな群れで現れる。",
+      "cap": "かさは通常直径5–12 cmで、文献の数値は2.5 cmから15 cmに及ぶ（スロバキアの記載では4–8 cm）。初めは半球形または凸形で、のちほぼ平らになる。表面は淡い黄褐色から灰褐色または赤褐色で、細かいものからやや広い褐色の鱗片に覆われ、中央でもっとも密で、縁に向かってより淡い地色が残る。",
+      "hymenium": "ひだは離生で密。初めは桃色または灰桃色、のち赤みを帯び、胞子が熟すと暗いチョコレート褐色になる。スロバキアの記載では、桃色の段階は見えにくいことがあるとされる。",
+      "stipe": "柄は通常長さ4.5–13 cm、太さ0.8–2.0 cm（他の記載では4–15 × 0.6–2.5 cm、イギリスの一記載では柄の中ほどがわずか1.0–1.2 cm）。初めは白く、こん棒形で基部がやや膨らむか球茎状、薄い垂れたつばの上は滑らか、下は細かい鱗片があり、傷つくと赤くなり、のち褐色になる。つばは単生または二重で、縁は厚く、一部の記載では下面に歯車状の大きな三角形の鱗片がある。",
+      "flesh": "肉は白く、かさでは薄くて硬い。切ったり傷ついたりすると赤くなり、しばしば速く強く変色し、のち褐色になる。匂いは弱くきのこらしい；味は温和。",
+      "sporePrint": "胞子紋はチョコレート褐色から黒褐色。胞子は平滑で卵形または楕円形、約4.5–6.5 × 3.2–4.2 µm（一記載では5–6 × 3–3.4 µm）。縁シスチジアはこん棒形で、しばしば一または二つの隔壁がある。かさの表面はKOHで黄変しない。よく似たAgaricus langeiは明らかに大きい胞子をもつ。",
+      "habitat": "針葉樹、広葉樹および混交林の地上に発生し、しばしばトウヒの下、公園の木の下にも見られ、開けた牧草地には出ない。子実体は中欧では7月から11月に単生または小さな群れで現れ、イギリスでは7月から12月（一部のイギリスの記載では8–11月）、フランスの記載では6月から、ときに5月から現れる。ヨーロッパでは普通で広く見られ、北アフリカと北アメリカの一部からも報告される。",
+      "uses": "加熱すれば食用になり、一般に良い食用きのことされるが、確実に同定できる人に限る。子実体はカドミウムやその他の重金属を蓄積することがあり、とくに鉱山や精錬所の近くでは顕著なので、頻繁な大量摂取は賢明でない。",
+      "confusion": "Agaricus langeiは非常によく似て、切っても赤くなり、明らかに大きい胞子によって最もよく区別される。有毒なAgaricus xanthodermusは柄の基部で鮮やかなクロム黄色に変色し、フェノールまたはインクの臭いがする。若い白いAmanitaは白いひだを保ち、白い胞子紋をもち、通常はつぼまたは球茎状の袋状の基部がある。",
+      "notes": "2019年の評価では低懸念とされる。他のいくつかのAgaricusと同様にカドミウムやその他の重金属を蓄積しうるほか、かつての銀鉱山地域の子実体から極めて高いカドミウム濃度が報告されている。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "유럽과 북아프리카 및 북아메리카 일부의 침엽수림과 활엽수림에 나는 부생 버섯으로, 땅에서 자라며 열린 목초지에는 나지 않는다. 그 분포권에서는 흔하고 널리 퍼져 있으며, 보통 낙엽이나 침엽 층 속에 단생하거나 작은 무리를 이룬다.",
+      "cap": "갓은 보통 지름 5–12 cm이며, 문헌의 범위는 2.5 cm에서 최대 15 cm에 이른다(슬로바키아 기록은 4–8 cm). 처음에는 반구형이거나 볼록하다가 나중에 거의 평평해진다. 표면은 옅은 황갈색에서 회갈색 또는 적갈색이며, 가늘거나 더 넓은 갈색 인편이 덮여 있고 중앙에서 가장 빽빽하여 가장자리 쪽으로는 더 옅은 바탕이 남는다.",
+      "hymenium": "주름살은 떨어진 붙음이며 밀생한다. 처음에는 분홍 또는 회분홍이고, 이어 붉어지며, 포자가 익으면 짙은 초콜릿갈색이 된다. 슬로바키아 기록은 분홍 단계를 알아보기 어려울 수 있다고 적는다.",
+      "stipe": "대는 보통 길이 4.5–13 cm, 굵기 0.8–2.0 cm이다(다른 기록은 4–15 × 0.6–2.5 cm, 한 영국 기록은 대 중간의 굵기를 겨우 1.0–1.2 cm로 적는다). 처음에는 흰색이고 곤봉형이며 기부가 조금 부풀거나 구근형이고, 얇고 늘어진 고리 위는 매끈하며 아래는 가는 인편이 있고, 상처를 입으면 붉어졌다가 나중에 갈색으로 변한다. 고리는 단층이거나 이중일 수 있고 가장자리가 더 두꺼우며, 일부 기록은 아랫면에 톱니바퀴처럼 배열된 큰 삼각형 인편이 있다고 한다.",
+      "flesh": "살은 흰색이며 갓에서는 얇고 단단하다. 자르거나 누르면 붉어지며, 종종 빠르고 뚜렷하게 변한 뒤 갈색이 된다. 냄새는 약하고 버섯 같고, 맛은 온화하다.",
+      "sporePrint": "포자무늬는 초콜릿갈색에서 흑갈색이다. 포자는 매끄럽고 난형 또는 타원형이며 약 4.5–6.5 × 3.2–4.2 µm이다(한 기록은 5–6 × 3–3.4 µm). 주름살끝낭상체는 곤봉형이며 종종 하나 또는 두 개의 격벽이 있다. 갓 표면은 KOH에서 노랗게 변하지 않는다. 비슷한 Agaricus langei는 포자가 뚜렷이 더 크다.",
+      "habitat": "침엽수, 활엽수, 혼효림의 땅에서 열매를 맺으며, 흔히 가문비 아래, 공원의 나무 아래에도 나고, 열린 목초지에는 나지 않는다. 자실체는 중부 유럽에서 7월부터 11월까지, 영국에서는 7월부터 12월까지(일부 영국 기록은 8–11월), 프랑스 기록에서는 6월부터, 가끔 5월부터 단생하거나 작은 무리로 나타난다. 유럽에서는 흔하고 널리 퍼져 있으며 북아프리카와 북아메리카 일부에서도 보고된다.",
+      "uses": "익혀 먹으면 식용이며 일반적으로 좋은 식용버섯으로 여겨지지만, 정확히 동정할 수 있는 사람에게만 해당한다. 자실체는 카드뮴과 다른 중금속을 축적할 수 있으며, 특히 광산과 제련소 근처에서 그러하므로 잦거나 많은 섭취는 현명하지 않다.",
+      "confusion": "Agaricus langei는 매우 비슷하고 잘라도 붉어지며, 뚜렷이 더 큰 포자로 가장 잘 구별된다. 독버섯인 Agaricus xanthodermus는 대 기부가 선명한 크롬황색으로 변하고 페놀이나 잉크 냄새가 난다. 어린 흰색 Amanita 종류는 흰 주름살을 유지하고 흰 포자무늬를 가지며, 보통 대주머니 또는 구근형의 자루 같은 기부가 있다.",
+      "notes": "2019년 평가는 이를 관심 대상 최저로 분류한다. 다른 몇몇 Agaricus와 마찬가지로 카드뮴과 다른 중금속을 축적할 수 있으며, 역사적인 은 광산 지역의 자실체에서 매우 높은 카드뮴 농도가 보고된 바 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Saprotrofinis spygliuočių ir lapuočių miškų grybas Europoje bei Šiaurės Afrikos ir Šiaurės Amerikos dalyse, augantis dirvožemyje ir niekada atvirose ganyklose. Šiame areale jis dažnas ir plačiai paplitęs ir paprastai pasirodo pavieniui arba mažomis grupelėmis tarp lapų ar spyglių paklotės.",
+      "cap": "Kepurėlė paprastai būna 5–12 cm pločio; skelbiami dydžiai siekia nuo 2,5 cm iki 15 cm (slovakų šaltinis nurodo 4–8 cm). Iš pradžių ji pusrutuliška arba iškili, vėliau beveik plokščia. Paviršius šviesiai gelsvai rudas iki pilkšvai rudo ar rudsvo ir apaugęs smulkiomis ar platesnėmis rudomis žvyneliais, tankiausiais viduryje, tad link krašto lieka šviesesnis pagrindas.",
+      "hymenium": "Lakšteliai laisvi ir tankūs. Iš pradžių jie rožiniai arba pilkšvai rožiniai, vėliau rausvi ir galiausiai tamsiai šokoladiniai rudi, kai subręsta sporos. Slovakų šaltinis pažymi, kad rožinę stadiją gali būti sunku pastebėti.",
+      "stipe": "Kotas paprastai 4,5–13 cm ilgio ir 0,8–2,0 cm storio (kiti šaltiniai nurodo 4–15 × 0,6–2,5 cm, o vienas britų šaltinis kotelio viduryje nurodo tik 1,0–1,2 cm). Iš pradžių jis baltas, buožiškas, šiek tiek pastorėjusiu ar gumbiniu pamatu, lygus virš plono, limpano žiedo ir smulkiai žvynuotas po juo; paspaudus rausta, vėliau paruduoja. Žiedas gali būti paprastas arba dvigubas, storesniu kraštu ir, kai kurių šaltinių teigimu, apatinėje pusėje su dideliais trikampiais žvynais, sudarančiais krumpliaratį.",
+      "flesh": "Mėsa balta, kepurėlėje plona ir tvirta. Perpjauta ar paspausta parausta, dažnai greitai ir smarkiai, paskui paruduoja. Kvapas silpnas, grybinis; skonis švelnus.",
+      "sporePrint": "Sporų milteliai šokoladiniai rudi iki juosvai rudų. Sporos lygios, kiaušiniškos arba elipsoidinės, apie 4,5–6,5 × 3,2–4,2 µm (vienas šaltinis nurodo 5–6 × 3–3,4 µm). Cheilocistidės buožiškos ir dažnai turi vieną ar dvi pertvaras. Kepurėlės paviršius KOH nenugelsta. Panašusis Agaricus langei turi aiškiai didesnes sporas.",
+      "habitat": "Auga dirvožemyje spygliuočių, lapuočių ir mišriuose miškuose, dažnai po eglėmis, taip pat po medžiais parkuose, niekada atvirose ganyklose. Vaisiakūniai pasirodo pavieniui arba mažomis grupelėmis nuo liepos iki lapkričio Vidurio Europoje, Britanijoje nuo liepos iki gruodžio (kai kuriuose britų šaltiniuose rugpjūtis–lapkritis) ir nuo birželio, retkarčiais nuo gegužės, pagal prancūzų šaltinį. Europoje jis dažnas ir plačiai paplitęs, taip pat nurodomas iš Šiaurės Afrikos ir Šiaurės Amerikos dalių.",
+      "uses": "Išvirtas jis valgomas ir paprastai laikomas geru valgomuoju grybu, bet tik tiems, kurie moka jį patikimai atpažinti. Vaisiakūniai gali kaupti kadmį ir kitus sunkiuosius metalus, ypač prie kasyklų ir lydyklų, todėl dažni ar gausūs valgiai nėra išmintingi.",
+      "confusion": "Agaricus langei yra labai panašus, perpjautas taip pat rausta ir geriausiai skiriamas pagal aiškiai didesnes sporas. Nuodingasis Agaricus xanthodermus kotelio pamate nusidažo ryškiai chromo geltonai ir kvepia fenoliu arba rašalu. Jaunos baltos Amanita rūšys išlaiko baltus lakštelius, turi baltus sporų miltelius ir paprastai makštį arba gumbinį, maišelio pavidalo pamatą.",
+      "notes": "2019 m. vertinimas jį priskiria mažiausiai susirūpinimą keliantiems. Kaip ir kelios kitos Agaricus rūšys jis gali kaupti kadmį ir kitus sunkiuosius metalus, o iš istorinės sidabro kasybos srities pranešta apie vaisiakūnius su itin aukštu kadmio kiekiu.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "miškinis pievagrybis"
+    },
+    "lv": {
+      "description": "Saprotrofa sēne skujkoku un lapu koku mežos Eiropā un Ziemeļāfrikas un Ziemeļamerikas daļās, aug uz augsnes un nekad atklātās ganībās. Šajā areālā tā ir bieži sastopama un plaši izplatīta un parasti parādās pa vienai vai nelielās grupās starp lapu vai skuju nobirām.",
+      "cap": "Cepurīte parasti ir 5–12 cm plata; publicētie izmēri ir no 2,5 cm līdz pat 15 cm (slovāku avots norāda 4–8 cm). Sākumā tā ir puslodes veida vai izliekta, vēlāk gandrīz plakana. Virsma ir gaiši dzeltenbrūna līdz pelēkbrūna vai rūsganbrūna un klāta ar sīkām līdz platākām brūnām zvīņām, kas visblīvākās ir vidū, tā ka pret malu paliek gaišāks pamats.",
+      "hymenium": "Lapiņas ir brīvas un blīvas. Sākumā tās ir rozā vai pelēki rozā, tad sārtas un visbeidzot tumši šokolādes brūnas, kad sporas nogatavojas. Slovāku avots atzīmē, ka rozā stadiju var būt grūti saskatīt.",
+      "stipe": "Kātiņš parasti ir 4,5–13 cm garš un 0,8–2,0 cm resns (citi avoti norāda 4–15 × 0,6–2,5 cm, un viens britu avots norāda kātiņa vidusdaļā tikai 1,0–1,2 cm). Sākumā tas ir balts, vāleņveida, ar nedaudz uzpampušu vai gumveida pamatni, gluds virs plāna, slīpa gredzena un sīki zvīņains zem tā; pieskaroties kļūst sarkans un vēlāk brūns. Gredzens var būt vienkāršs vai dubults, ar biezāku malu un pēc dažiem avotiem ar lielām trīsstūrveida zvīņām apakšpusē, kas veido zobrata rakstu.",
+      "flesh": "Mīkstums ir balts, cepurītē plāns un stingrs. Pārgriežot vai saspiežot tas kļūst sarkans, bieži ātri un spēcīgi, pēc tam brūns. Smarža ir vāja, sēņaina; garša ir maiga.",
+      "sporePrint": "Sporu pūderis ir šokolādes brūns līdz melni brūns. Sporas ir gludas, olveida vai elipsoīdas, apmēram 4,5–6,5 × 3,2–4,2 µm (viens avots norāda 5–6 × 3–3,4 µm). Heilocistīdas ir vālesveida un bieži ar vienu vai divām starpsienām. Cepurītes virsma KOH neiekrāsojas dzeltena. Līdzīgajai sugai Agaricus langei ir skaidri lielākas sporas.",
+      "habitat": "Tā aug uz augsnes skuju, lapu un jauktos mežos, bieži zem egles, arī zem kokiem parkos, nekad atklātās ganībās. Augļķermeņi parādās pa vienam vai nelielās grupās no jūlija līdz novembrim Centrāleiropā, Britānijā no jūlija līdz decembrim (dažos britu avotos augusts–novembris) un no jūnija, reizēm no maija, pēc franču avota. Eiropā tā ir bieži sastopama un plaši izplatīta un ir ziņota arī no Ziemeļāfrikas un Ziemeļamerikas daļām.",
+      "uses": "Pēc novārīšanas tā ir ēdama un parasti tiek uzskatīta par labu ēdamo sēni, bet tikai tiem, kas to spēj droši noteikt. Augļķermeņi var uzkrāt kadmiju un citus smagos metālus, īpaši pie raktuvēm un kausētavām, tādēļ biežas vai lielas maltītes nav ieteicamas.",
+      "confusion": "Agaricus langei ir ļoti līdzīga, pārgriežot arī sārtojas un visdrošāk atšķiras pēc skaidri lielākām sporām. Indīgā Agaricus xanthodermus pie kātiņa pamatnes kļūst spilgti hromdzeltena un smaržo pēc fenola vai tintes. Jaunas baltas Amanita sugas saglabā baltas lapiņas, tām ir balts sporu pūderis un parasti maksts vai gumveida, maisveida pamatne.",
+      "notes": "2019. gada novērtējums to ierindo kā vismazāk apdraudētu. Tāpat kā vairākas citas Agaricus sugas tā var uzkrāt kadmiju un citus smagos metālus, un no vēsturiska sudraba ieguves apgabala ir ziņots par augļķermeņiem ar ļoti augstu kadmija saturu.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Meža_atmatene",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "meža atmatene"
+    },
+    "nl": {
+      "description": "Een saprotrofe paddenstoel van naald- en loofbos in Europa en in delen van Noord-Afrika en Noord-Amerika, groeiend op de bodem en nooit in open weiland. In dat areaal is hij algemeen en wijdverbreid, en verschijnt gewoonlijk alleen of in kleine groepjes tussen blad- of naaldstrooisel.",
+      "cap": "De hoed is typisch 5–12 cm breed; gepubliceerde maten lopen van 2,5 cm tot wel 15 cm (een Slowaakse opgave noemt 4–8 cm). Eerst is hij halfbolvormig of gewelfd, later bijna vlak. Het oppervlak is bleek geelbruin tot grijzig bruin of roestbruin en bedekt met fijne tot bredere bruine schubben die in het midden het dichtst staan, zodat naar de rand een blekere grondkleur overblijft.",
+      "hymenium": "De lamellen zijn vrij en dicht opeen. Ze zijn eerst roze of grijzig roze, dan roodachtig, en ten slotte donker chocoladebruin wanneer de sporen rijpen. Een Slowaakse opgave merkt op dat het rozestadium moeilijk te zien kan zijn.",
+      "stipe": "De steel is typisch 4,5–13 cm lang en 0,8–2,0 cm dik (andere opgaven geven 4–15 × 0,6–2,5 cm, en een Britse opgave noemt in het midden van de steel slechts 1,0–1,2 cm). Hij is eerst wit, knotsvormig met een iets gezwollen of bulbeuze basis, glad boven een dunne, slappe ring en fijn schubbig daaronder; hij roodt bij kneuzing en wordt later bruin. De ring kan enkel of dubbel zijn, met een dikkere rand en volgens sommige opgaven met grote driehoekige schubben aan de onderzijde die een tandwiel vormen.",
+      "flesh": "Het vlees is wit, in de hoed dun en stevig. Bij aansnijden of kneuzing wordt het rood, vaak snel en sterk, daarna bruin. De geur is zwak en paddenstoelachtig; de smaak is mild.",
+      "sporePrint": "De sporenprint is chocoladebruin tot zwartbruin. De sporen zijn glad en eivormig of ellipsoïd, ongeveer 4,5–6,5 × 3,2–4,2 µm (één opgave geeft 5–6 × 3–3,4 µm). De cheilocystiden zijn knotsvormig en hebben vaak een of twee septen. Het hoedoppervlak verkleurt in KOH niet geel. De gelijkende Agaricus langei heeft duidelijk grotere sporen.",
+      "habitat": "Hij vrucht op de bodem in naald-, loof- en gemengd bos, vaak onder spar, ook onder bomen in parken, nooit in open weiland. De vruchtlichamen verschijnen alleen of in kleine groepjes van juli tot november in Midden-Europa, in Groot-Brittannië van juli tot in december (in sommige Britse opgaven augustus–november), en vanaf juni, soms mei, volgens een Franse opgave. Hij is algemeen en wijdverbreid in Europa en wordt ook uit Noord-Afrika en delen van Noord-Amerika gemeld.",
+      "uses": "Hij is eetbaar na koken en wordt algemeen als een goede eetbare paddenstoel beschouwd, maar alleen voor wie hem met zekerheid kan herkennen. Vruchtlichamen kunnen cadmium en andere zware metalen ophopen, vooral nabij mijnen en smelterijen, zodat frequente of grote maaltijden onverstandig zijn.",
+      "confusion": "Agaricus langei is zeer gelijkend, roodt bij aansnijden eveneens, en is het best te scheiden aan duidelijk grotere sporen. De giftige Agaricus xanthodermus verkleurt helder chroomgeel aan de steelbasis en ruikt naar fenol of inkt. Jonge witte Amanita-soorten houden witte lamellen, hebben een witte sporenprint, en hebben gewoonlijk een beurs of een bulbeuze, zakachtige basis.",
+      "notes": "Een beoordeling uit 2019 plaatst hem als niet bedreigd. Zoals verscheidene andere Agaricus-soorten kan hij cadmium en andere zware metalen ophopen, en uit een historisch zilverwinningsgebied zijn vruchtlichamen met uiterst hoge cadmiumgehalten gemeld.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "schubbige boschampignon"
+    },
+    "no": {
+      "description": "En saprotrof sopp i bar- og lauvskog i Europa og i deler av Nord-Afrika og Nord-Amerika, voksende på bakken og aldri på åpen beitemark. Den er vanlig og vidt utbredt i dette området og opptrer vanligvis enkeltvis eller i små grupper blant løv- eller barnålsstrø.",
+      "cap": "Hatten er typisk 5–12 cm bred; publiserte mål spenner fra 2,5 cm opp til 15 cm (en slovakisk kilde oppgir 4–8 cm). Den er først halvkuleformet eller hvelvet, senere nesten flat. Overflaten er blekt gulbrun til gråbrun eller rødbrun og dekket av fine til bredere brune skjell som er tettest i midten, slik at en blekere grunn farges mot randen.",
+      "hymenium": "Skivene er frie og tette. De er først rosa eller grårosa, deretter rødaktige og til slutt mørkt sjokoladebrune når sporene modnes. En slovakisk kilde merker at det rosa stadiet kan være vanskelig å se.",
+      "stipe": "Stokken er typisk 4,5–13 cm lang og 0,8–2,0 cm tykk (andre kilder oppgir 4–15 × 0,6–2,5 cm, og en britisk kilde oppgir midt på stokken bare 1,0–1,2 cm). Den er først hvit, kølleformet med litt oppsvulmet eller knollformet basis, glatt over en tynn, slapp ring og fint skjellett under; den rødner ved trykk og blir senere brun. Ringen kan være enkel eller dobbel, med tykkere kant og ifølge enkelte kilder med store trekantede skjell på undersiden som danner et tannhjul.",
+      "flesh": "Kjøttet er hvitt, tynt og fast i hatten. Ved skjæring eller trykk blir det rødt, ofte raskt og sterkt, deretter brunt. Lukten er svak og soppaktig; smaken er mild.",
+      "sporePrint": "Sporepulveret er sjokoladebrunt til svartbrunt. Sporene er glatte og eggformede eller ellipsoide, om lag 4,5–6,5 × 3,2–4,2 µm (én kilde oppgir 5–6 × 3–3,4 µm). Cheilocystidene er kølleformede og har ofte ett eller to skillevegger. Hatteoverflaten gulfarges ikke i KOH. Den lignende Agaricus langei har tydelig større sporer.",
+      "habitat": "Den fruktifiserer på bakken i bar-, lauv- og blandingsskog, ofte under gran, også under trær i parker, aldri på åpen beitemark. Fruktlegemene opptrer enkeltvis eller i små grupper fra juli til november i Sentral-Europa, i Storbritannia fra juli inn i desember (august–november i enkelte britiske kilder), og fra juni, av og til mai, ifølge en fransk kilde. Den er vanlig og vidt utbredt i Europa og er også rapportert fra Nord-Afrika og deler av Nord-Amerika.",
+      "uses": "Den er spiselig etter koking og regnes allment som en god matsopp, men bare for dem som kan kjenne den igjen med sikkerhet. Fruktlegemer kan samle kadmium og andre tungmetaller, særlig nær gruver og smelteverk, så hyppige eller store måltider er ukloke.",
+      "confusion": "Agaricus langei er svært lik, rødner også ved skjæring og skilles best på tydelig større sporer. Den giftige Agaricus xanthodermus farges klart kromgul ved stokkbasen og lukter fenol eller blekk. Unge hvite Amanita-arter beholder hvite skiver, har hvitt sporepulver og har vanligvis en volva eller en knollformet, sekkaktig basis.",
+      "notes": "En vurdering fra 2019 plasserer den som livskraftig. Som flere andre Agaricus-arter kan den samle kadmium og andre tungmetaller, og fra et historisk sølvgruveområde er det rapportert fruktlegemer med svært høye kadmiumnivåer.",
+      "names": [],
+      "sourceUrls": [
+        "https://nortaxa.artsdatabanken.no/name-info/58358",
+        "https://artsdatabanken.no/arter/takson/90497",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "blodsjampinjong"
+    },
+    "pl": {
+      "description": "Saprotroficzny grzyb lasów iglastych i liściastych Europy oraz części Afryki Północnej i Ameryki Północnej, rosnący na glebie i nigdy na otwartych pastwiskach. W tym zasięgu jest pospolity i szeroko rozprzestrzeniony, zwykle pojawia się pojedynczo lub w małych grupach wśród ściółki liściastej lub iglastej.",
+      "cap": "Kapelusz ma typowo 5–12 cm średnicy; publikowane zakresy wynoszą od 2,5 cm do nawet 15 cm (źródło słowackie podaje 4–8 cm). Najpierw jest półkulisty lub wypukły, później prawie płaski. Powierzchnia jest bladożółtawobrązowa do szarobrązowej lub rdzawobrązowej, pokryta drobnymi do szerszych brązowymi łuskami, najgęstszymi w środku, tak że ku brzegowi pozostaje jaśniejsze tło.",
+      "hymenium": "Blaszki są wolne i gęste. Najpierw są różowe lub szaroróżowe, potem czerwonawawe, a wreszcie ciemnoczekoladowobrązowe w miarę dojrzewania zarodników. Jedno źródło słowackie zauważa, że stadium różowe może być trudne do zauważenia.",
+      "stipe": "Trzon ma typowo 4,5–13 cm długości i 0,8–2,0 cm grubości (inne źródła podają 4–15 × 0,6–2,5 cm, a jedno źródło brytyjskie podaje w środkowej części trzonu zaledwie 1,0–1,2 cm). Najpierw jest biały, maczugowaty, z nieco zgrubiałą lub bulwiastą podstawą, gładki nad cienkim, wiotkim pierścieniem i drobnołuskowaty pod nim; sinieje na czerwono po uszkodzeniu, później brązowieje. Pierścień może być pojedynczy lub podwójny, z grubszym brzegiem i według niektórych źródeł z dużymi trójkątnymi łuskami od spodu, tworzącymi koło zębate.",
+      "flesh": "Miąższ jest biały, w kapeluszu cienki i twardy. Po przecięciu lub zgnieceniu czerwienieje, często szybko i silnie, potem brązowieje. Zapach jest słaby, grzybowy; smak łagodny.",
+      "sporePrint": "Wysyp zarodników jest czekoladowobrązowy do czarnobrązowego. Zarodniki są gładkie, jajowate lub elipsoidalne, około 4,5–6,5 × 3,2–4,2 µm (jedno źródło podaje 5–6 × 3–3,4 µm). Cheilocystydy są maczugowate i często mają jedną lub dwie przegrody. Powierzchnia kapelusza nie żółknie w KOH. Podobny Agaricus langei ma wyraźnie większe zarodniki.",
+      "habitat": "Owocniki wyrastają na glebie w lasach iglastych, liściastych i mieszanych, często pod świerkiem, także pod drzewami w parkach, nigdy na otwartych pastwiskach. Pojawiają się pojedynczo lub w małych grupach od lipca do listopada w Europie Środkowej, w Wielkiej Brytanii od lipca do grudnia (w niektórych źródłach brytyjskich sierpień–listopad) oraz od czerwca, czasem od maja, według źródła francuskiego. W Europie jest pospolity i szeroko rozprzestrzeniony, podawany też z Afryki Północnej i z części Ameryki Północnej.",
+      "uses": "Jest jadalny po ugotowaniu i zwykle uważany za dobry grzyb jadalny, ale tylko dla osób, które potrafią go pewnie oznaczyć. Owocniki mogą gromadzić kadm i inne metale ciężkie, zwłaszcza w pobliżu kopalń i hut, więc częste lub obfite posiłki są niewskazane.",
+      "confusion": "Agaricus langei jest bardzo podobny, również czerwienieje po przecięciu i najpewniej odróżnia się wyraźnie większymi zarodnikami. Trujący Agaricus xanthodermus barwi się jaskrawo chromowożółto u podstawy trzonu i pachnie fenolem lub atramentem. Młode białe gatunki z rodzaju Amanita zachowują białe blaszki, mają biały wysyp zarodników i zwykle pochewkę albo bulwiasto-workowatą podstawę.",
+      "notes": "Ocena z 2019 roku zalicza go do gatunków najmniejszej troski. Podobnie jak kilka innych gatunków z rodzaju Agaricus może gromadzić kadm i inne metale ciężkie, a z historycznego obszaru wydobycia srebra zgłaszano owocniki o niezwykle wysokiej zawartości kadmu.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "pieczarka leśna"
+    },
+    "pt": {
+      "description": "Um cogumelo saprótrofo de bosques de coníferas e de folhosas na Europa e em partes do Norte de África e da América do Norte, que cresce no solo e nunca em pastagens abertas. É comum e está amplamente distribuído nessa área, e surge habitualmente isolado ou em pequenos grupos entre a folhada ou as agulhas.",
+      "cap": "O chapéu mede tipicamente 5–12 cm de diâmetro; os intervalos publicados vão de 2,5 cm até 15 cm (uma fonte eslovaca indica 4–8 cm). É a princípio hemisférico ou convexo e depois quase plano. A superfície é pardo-amarelada pálida a pardo-acinzentada ou pardo-avermelhada e coberta de escamas pardas finas ou mais largas, mais densas no centro, deixando um fundo mais pálido em direção à margem.",
+      "hymenium": "As lâminas são livres e apertadas. São a princípio cor-de-rosa ou rosa-acinzentadas, depois avermelhadas e por fim pardo-chocolate-escuras à maturação dos esporos. Uma fonte eslovaca nota que a fase rosa pode ser difícil de ver.",
+      "stipe": "O pé mede tipicamente 4,5–13 cm de comprimento e 0,8–2,0 cm de espessura (outras fontes dão 4–15 × 0,6–2,5 cm, e uma fonte britânica dá a meio do pé apenas 1,0–1,2 cm). É a princípio branco, claviforme, com a base um pouco inchada ou bulbosas, liso acima de um anel fino e frouxo e finamente escamoso abaixo; avermelha ao toque e depois acastanha. O anel pode ser simples ou duplo, com margem mais espessa e, segundo algumas fontes, com grandes escamas triangulares em forma de engrenagem na face inferior.",
+      "flesh": "A carne é branca, fina e firme no chapéu. Ao ser cortada ou magoada torna-se vermelha, muitas vezes depressa e de forma marcada, e depois parda. O cheiro é fraco e fúngico; o sabor é suave.",
+      "sporePrint": "A esporada é pardo-chocolate a pardo-enegrecida. Os esporos são lisos e ovoides ou elipsoides, com cerca de 4,5–6,5 × 3,2–4,2 µm (uma fonte dá 5–6 × 3–3,4 µm). Os queilocistídios são claviformes e têm frequentemente um ou dois septos. A superfície do chapéu não amarelece em KOH. O semelhante Agaricus langei tem esporos claramente maiores.",
+      "habitat": "Frutifica no solo em bosques de coníferas, de folhosas e mistos, muitas vezes sob espruce, também sob árvores em parques, nunca em pastagens abertas. Os corpos frutíferos aparecem isolados ou em pequenos grupos de julho a novembro na Europa Central, na Grã-Bretanha de julho a dezembro (agosto–novembro em algumas fontes britânicas) e desde junho, por vezes maio, segundo uma fonte francesa. É comum e está amplamente distribuído na Europa e é também referido do Norte de África e de partes da América do Norte.",
+      "uses": "É comestível depois de cozinhado e é em geral considerado um bom comestível, mas apenas para quem o consegue identificar com certeza. Os corpos frutíferos podem acumular cádmio e outros metais pesados, sobretudo perto de minas e fundições, pelo que refeições frequentes ou abundantes não são aconselháveis.",
+      "confusion": "Agaricus langei é muito semelhante, também avermelha ao corte e distingue-se melhor pelos esporos claramente maiores. O tóxico Agaricus xanthodermus tinge-se de amarelo-cromo vivo na base do pé e cheira a fenol ou a tinta. As jovens Amanita brancas conservam lâminas brancas, têm esporada branca e apresentam habitualmente uma volva ou uma base bulbosa, em saco.",
+      "notes": "Uma avaliação de 2019 classifica-o como pouco preocupante. Como várias outras espécies de Agaricus pode acumular cádmio e outros metais pesados, e de uma antiga área mineira de prata foram referidos corpos frutíferos com níveis de cádmio extremamente elevados.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă a pădurilor de conifere și de foioase din Europa și din părți ale Africii de Nord și Americii de Nord, care crește pe sol și niciodată pe pășuni deschise. Este comună și larg răspândită în acest areal și apare de obicei solitară sau în grupuri mici printre litiera de frunze sau de ace.",
+      "cap": "Pălăria are de obicei 5–12 cm în diametru; intervalele publicate merg de la 2,5 cm până la 15 cm (o sursă slovacă indică 4–8 cm). La început este emisferică sau convexă, apoi aproape plană. Suprafața este brun-gălbuie palidă până la brun-cenușie sau brun-roșiatică și acoperită cu solzi bruni fini sau mai lați, cei mai deși la centru, lăsând spre margine un fond mai palid.",
+      "hymenium": "Lamelele sunt libere și dense. Sunt la început roz sau gri-roz, apoi roșiatică și în cele din urmă brun-ciocolatiu închis pe măsură ce sporii se coc. O sursă slovacă notează că stadiul roz poate fi greu de observat.",
+      "stipe": "Piciorul are de obicei 4,5–13 cm lungime și 0,8–2,0 cm grosime (alte surse dau 4–15 × 0,6–2,5 cm, iar o sursă britanică dă la mijlocul piciorului doar 1,0–1,2 cm). Este la început alb, claviform, cu baza ușor umflată sau bulboasă, neted deasupra unui inel subțire și moale și fin solzos dedesubt; se înroșește la lovire, apoi se brunifică. Inelul poate fi simplu sau dublu, cu marginea mai groasă și, după unele surse, cu solzi triunghiulari mari în formă de roată dințată pe fața inferioară.",
+      "flesh": "Carnea este albă, subțire și fermă în pălărie. Tăiată sau zdrelită devine roșie, adesea rapid și puternic, apoi brună. Mirosul este slab, de ciupercă; gustul este blând.",
+      "sporePrint": "Pulberea sporiferă este brun-ciocolatie până la brun-negricioasă. Sporii sunt netezi, ovoizi sau elipsoizi, de circa 4,5–6,5 × 3,2–4,2 µm (o sursă dă 5–6 × 3–3,4 µm). Cheilocistidele sunt claviforme și au adesea unul sau două septuri. Suprafața pălăriei nu îngălbenește în KOH. Asemănătorul Agaricus langei are spori evident mai mari.",
+      "habitat": "Fructifică pe sol în păduri de conifere, de foioase și mixte, adesea sub molid, de asemenea sub arbori în parcuri, niciodată pe pășuni deschise. Corpurile de fructificare apar solitare sau în grupuri mici din iulie până în noiembrie în Europa Centrală, în Britania din iulie până în decembrie (august–noiembrie în unele surse britanice) și din iunie, ocazional din mai, după o sursă franceză. Este comună și larg răspândită în Europa și este semnalată și din Africa de Nord și din părți ale Americii de Nord.",
+      "uses": "Este comestibilă după fierbere și este în general considerată o ciupercă comestibilă bună, dar numai pentru cei care o pot identifica cu certitudine. Corpurile de fructificare pot acumula cadmiu și alte metale grele, mai ales lângă mine și topitorii, astfel că mesele frecvente sau abundente nu sunt recomandate.",
+      "confusion": "Agaricus langei este foarte asemănător, se înroșește și el la tăiere și se deosebește cel mai sigur prin sporii evident mai mari. Toxicul Agaricus xanthodermus se colorează în galben-crom viu la baza piciorului și miroase a fenol sau a cerneală. Amanita albe tinere păstrează lamele albe, au pulbere sporiferă albă și au de obicei o volvă sau o bază bulboasă, în formă de sac.",
+      "notes": "O evaluare din 2019 o încadrează ca neamenințată. Ca și alte specii de Agaricus, poate acumula cadmiu și alte metale grele, iar dintr-o zonă istorică de exploatare a argintului au fost raportate corpuri de fructificare cu niveluri extrem de ridicate de cadmiu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Сапротробный гриб хвойных и лиственных лесов Европы, а также частей Северной Африки и Северной Америки, растущий на почве и никогда на открытых пастбищах. В этом ареале он обычен и широко распространён и обычно появляется поодиночке или небольшими группами среди листового или хвойного опада.",
+      "cap": "Шляпка обычно 5–12 см в диаметре; опубликованные пределы составляют от 2,5 см до 15 см (словацкий источник указывает 4–8 см). Сначала она полушаровидная или выпуклая, позднее почти плоская. Поверхность бледно-желтовато-коричневая до серовато-коричневой или рыжевато-коричневой и покрыта тонкими или более широкими коричневыми чешуйками, наиболее густыми в центре, так что к краю остаётся более бледный фон.",
+      "hymenium": "Пластинки свободные и частые. Сначала они розовые или серовато-розовые, затем красноватые и наконец тёмно-шоколадные по мере созревания спор. Словацкий источник отмечает, что розовую стадию бывает трудно различить.",
+      "stipe": "Ножка обычно 4,5–13 см длиной и 0,8–2,0 см толщиной (другие источники указывают 4–15 × 0,6–2,5 см, а один британский источник указывает в средней части ножки лишь 1,0–1,2 см). Сначала она белая, булавовидная, со слегка утолщённым или клубневидным основанием, гладкая над тонким, обвислым кольцом и мелкочешуйчатая под ним; при прикосновении краснеет, позднее буреет. Кольцо может быть простым или двойным, с более толстым краем и, по некоторым данным, с крупными треугольными чешуйками на нижней стороне, образующими зубчатое колесо.",
+      "flesh": "Мякоть белая, в шляпке тонкая и плотная. При разрезе или надавливании краснеет, часто быстро и сильно, затем буреет. Запах слабый, грибной; вкус мягкий.",
+      "sporePrint": "Споровый порошок шоколадный до черновато-коричневого. Споры гладкие, яйцевидные или эллипсоидные, около 4,5–6,5 × 3,2–4,2 мкм (один источник указывает 5–6 × 3–3,4 мкм). Хейлоцистиды булавовидные и часто с одной или двумя перегородками. Поверхность шляпки не желтеет в KOH. Сходный Agaricus langei имеет заметно более крупные споры.",
+      "habitat": "Плодоносит на почве в хвойных, лиственных и смешанных лесах, часто под елью, также под деревьями в парках, никогда на открытых пастбищах. Плодовые тела появляются поодиночке или небольшими группами с июля по ноябрь в Центральной Европе, в Великобритании с июля по декабрь (август–ноябрь в некоторых британских источниках) и с июня, иногда с мая, по французскому источнику. В Европе он обычен и широко распространён и также указывается из Северной Африки и из частей Северной Америки.",
+      "uses": "После варки съедобен и обычно считается хорошим съедобным грибом, но только для тех, кто может определить его с уверенностью. Плодовые тела могут накапливать кадмий и другие тяжёлые металлы, особенно вблизи рудников и плавилен, поэтому частые или обильные приёмы в пищу нежелательны.",
+      "confusion": "Agaricus langei очень сходен, также краснеет на разрезе и лучше всего отличается заметно более крупными спорами. Ядовитый Agaricus xanthodermus окрашивается в ярко-хромово-жёлтый цвет у основания ножки и пахнет фенолом или чернилами. Молодые белые виды рода Amanita сохраняют белые пластинки, имеют белый споровый порошок и обычно вольву или клубневидное, мешковидное основание.",
+      "notes": "Оценка 2019 года относит его к видам, вызывающим наименьшее беспокойство. Как и ряд других видов рода Agaricus, он может накапливать кадмий и другие тяжёлые металлы, а из исторического района добычи серебра сообщалось о плодовых телах с чрезвычайно высоким содержанием кадмия.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "Шампиньон лесной"
+    },
+    "sk": {
+      "description": "Saprotrófna huba ihličnatých a listnatých lesov v Európe a v častiach severnej Afriky a Severnej Ameriky, rastúca na pôde a nikdy nie na otvorených pasienkoch. V tomto areáli je hojná a široko rozšírená a zvyčajne rastie jednotlivo alebo v malých skupinách v opade lístia alebo ihličia.",
+      "cap": "Klobúk má typicky 5–12 cm v priemere; uvádzané rozpätia siahajú od 2,5 cm až do 15 cm (slovenský údaj uvádza 4–8 cm). Najprv je pologuľovitý alebo vypuklý, neskôr takmer plochý. Povrch je bledohnedý až sivohnedý alebo hrdzavohnedý a pokrytý jemnými až širšími hnedými šupinkami, ktoré sú najhustejšie v strede, smerom k okraju ostáva bledší podklad.",
+      "hymenium": "Lupene sú voľné a husté. Najprv sú ružové alebo sivoružové, potom načervenalé a nakoniec tmavohnedé, čokoládové, keď dozrievajú výtrusy. Jeden slovenský údaj uvádza, že ružové štádium môže byť ťažko pozorovateľné.",
+      "stipe": "Hlúbik má typicky 4,5–13 cm na dĺžku a 0,8–2,0 cm na hrúbku (iné údaje uvádzajú 4–15 × 0,6–2,5 cm a jeden britský údaj uvádza šírku v strednej časti iba 1,0–1,2 cm). Najprv je biely, kyjovitý s mierne zhrubnutou alebo hľuzovitou bázou, nad tenkým, ovisnutým prsteňom hladký a pod ním jemne šupinatý; na otlačenie červená a neskôr hnedne. Prsteň môže byť jednoduchý alebo dvojitý, s hrubším okrajom a podľa niektorých údajov s veľkými trojuholníkovými šupinami na spodnej strane, ktoré tvoria ozubené koleso.",
+      "flesh": "Dužina je biela, v klobúku tenká a pevná. Po prerezaní alebo otlačení sčervená, často rýchlo a výrazne, potom hnedne. Voň je slabá, hubovitá; chuť je mierna.",
+      "sporePrint": "Výtrusný prach je čokoládovohnedý až čiernohnedý. Výtrusy sú hladké, vajcovité alebo elipsoidné, približne 4,5–6,5 × 3,2–4,2 µm (jeden údaj uvádza 5–6 × 3–3,4 µm). Cheilocystidy sú kyjovité a často majú jednu alebo dve priehradky. Povrch klobúka v KOH nežltne. Podobný Agaricus langei má zreteľne väčšie výtrusy.",
+      "habitat": "Rastie na pôde v ihličnatých, listnatých a zmiešaných lesoch, často pod smrekom, tiež pod stromami v parkoch, nikdy nie na otvorených pasienkoch. Plodnice sa objavujú jednotlivo alebo v malých skupinách od júla do novembra v strednej Európe, v Británii od júla do decembra (v niektorých britských údajoch august–november) a od júna, príležitostne od mája, vo francúzskom údaji. V Európe je hojná a široko rozšírená a uvádza sa aj zo severnej Afriky a z častí Severnej Ameriky.",
+      "uses": "Po uvarení je jedlá a spravidla sa považuje za dobrú jedlú hubu, ale len pre tých, ktorí ju vedia s istotou určiť. Plodnice môžu hromadiť kadmium a iné ťažké kovy, najmä v blízkosti baní a hutníckych závodov, preto časté alebo veľké porcie nie sú vhodné.",
+      "confusion": "Agaricus langei je veľmi podobný, pri prerezaní tiež červená a najspoľahlivejšie sa odlíši zreteľne väčšími výtrusmi. Jedovatý Agaricus xanthodermus sa na báze hlúbika farbí jasne chrómovožlto a páchne po fenole alebo atramente. Mladé biele druhy rodu Amanita si zachovávajú biele lupene, majú biely výtrusný prach a zvyčajne pošvu alebo hľuzovitú, vakovitú bázu.",
+      "notes": "Hodnotenie z roku 2019 ju zaraďuje medzi druhy najmenšej obavy. Ako niekoľko iných druhov rodu Agaricus dokáže hromadiť kadmium a iné ťažké kovy a z historickej oblasti ťažby striebra boli hlásené plodnice s mimoriadne vysokým obsahom kadmia.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Agaricus-sylvaticus/peciarka-lesna/pecarka-lesni/ID399"
+      ],
+      "label": "pečiarka lesná"
+    },
+    "sl": {
+      "description": "Saprotofna goba iglastih in listnatih gozdov Evrope ter delov severne Afrike in Severne Amerike, ki raste na tleh in nikoli na odprtih pašnikih. Na tem območju je pogosta in široko razširjena ter se običajno pojavlja posamič ali v majhnih skupinah med listnim ali igličastim opadom.",
+      "cap": "Klobuk je tipično širok 5–12 cm; objavljeni razponi segajo od 2,5 cm do 15 cm (slovaški vir navaja 4–8 cm). Najprej je polkroglast ali izbočen, pozneje skoraj ploščat. Površina je bledo rumenkastorjava do sivkasto rjava ali rjasto rjava in pokrita s finimi do širšimi rjavimi luskami, najgostejšimi na sredi, tako da proti robu ostane bledlejša podlaga.",
+      "hymenium": "Lističi so prosti in gosti. Najprej so rožnati ali sivkasto rožnati, nato rdečkasti in nazadnje temno čokoladno rjavi, ko trosi dozorijo. Slovaški vir ugotavlja, da je rožnato stopnjo težko opaziti.",
+      "stipe": "Bet je tipično dolg 4,5–13 cm in debel 0,8–2,0 cm (drugi viri navajajo 4–15 × 0,6–2,5 cm, en britanski vir pa na sredini beta le 1,0–1,2 cm). Najprej je bel, kijast, z rahlo odebeljeno ali gomoljasto bazo, gladek nad tankim, ohlapnim obročkom in drobno luskat pod njim; ob pritisku pordi, pozneje porjavi. Obroček je lahko preprost ali dvojni, z debelejšim robom in po nekaterih virih z velikimi trikotnimi luskami na spodnji strani, ki tvorijo zobnik.",
+      "flesh": "Meso je belo, v klobuku tanko in čvrsto. Pri rezu ali pritisku pordi, pogosto hitro in močno, nato porjavi. Vonj je šibek, gobast; okus je blag.",
+      "sporePrint": "Trosni prah je čokoladno rjav do črnorjav. Trosi so gladki, jajčasti ali elipsoidni, približno 4,5–6,5 × 3,2–4,2 µm (en vir navaja 5–6 × 3–3,4 µm). Heilocistide so kijaste in imajo pogosto eno ali dve pregradi. Površina klobuka v KOH ne porumeni. Podobni Agaricus langei ima očitno večje trose.",
+      "habitat": "Plodovi rastejo na tleh v iglastih, listnatih in mešanih gozdovih, pogosto pod smreko, tudi pod drevesi v parkih, nikoli na odprtih pašnikih. Trosnjaki se pojavljajo posamič ali v majhnih skupinah od julija do novembra v Srednji Evropi, v Britaniji od julija do decembra (avgust–november v nekaterih britanskih virih) in od junija, občasno od maja, po francoskem viru. V Evropi je pogosta in široko razširjena ter je navedena tudi iz severne Afrike in iz delov Severne Amerike.",
+      "uses": "Po kuhanju je užitna in velja na splošno za dobro užitno gobo, vendar le za tiste, ki jo znajo zanesljivo določiti. Trosnjaki lahko kopičijo kadmij in druge težke kovine, zlasti v bližini rudnikov in talilnic, zato pogosti ali obilni obroki niso preudarni.",
+      "confusion": "Agaricus langei je zelo podoben, pri rezu prav tako pordi in se najzanesljiveje loči po očitno večjih trosih. Strupeni Agaricus xanthodermus se na bazi beta obarva živo kromovo rumeno in diši po fenolu ali črnilu. Mlade bele vrste rodu Amanita ohranijo bele lističe, imajo bel trosni prah in običajno ovoj ali gomoljasto, vrečasto bazo.",
+      "notes": "Ocena iz leta 2019 jo uvršča med vrste najmanjše zaskrbljenosti. Tako kot več drugih vrst rodu Agaricus lahko kopiči kadmij in druge težke kovine, iz zgodovinskega območja pridobivanja srebra pa so poročali o trosnjakih z izjemno visoko vsebnostjo kadmija.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Сапротрофна гљива четинарских и листопадних шума Европе и делова северне Африке и Северне Америке, која расте на земљишту и никад на отвореним пашњацима. На том је подручју честа и широко распрострањена и обично се појављује појединачно или у малим групама међу лисним или четинарским отпадом.",
+      "cap": "Шешир је типично широк 5–12 cm; објављени распони иду од 2,5 cm до 15 cm (словачки извор наводи 4–8 cm). Најпре је полулоптаст или испупчен, касније скоро раван. Површина је бледо жућкастосмеђа до сивкастосмеђа или риђесмеђа и покривена финим до ширим смеђим љускама, најгушћим у средини, тако да према ободу остаје блеђа подлога.",
+      "hymenium": "Листићи су слободни и густи. Најпре су ружичасти или сивкасторужичасти, затим црвенкасти и најзад тамно чоколадносмеђи како споре сазревају. Један словачки извор напомиње да ружичасту фазу може бити тешко уочити.",
+      "stipe": "Стручак је типично дуг 4,5–13 cm и дебео 0,8–2,0 cm (други извори наводе 4–15 × 0,6–2,5 cm, а један британски извор у средини стручка наводи само 1,0–1,2 cm). Најпре је бео, буздовачаст, са благо задебљалом или кртоластим базом, гладак изнад танког, млитавог прстена и фино љускав испод њега; на притисак поцрвени, касније посмеђи. Прстен може бити једноставан или двострук, дебљег руба и, према неким изворима, с великим троугластим љускама на доњој страни које чине зупчаник.",
+      "flesh": "Месо је бело, у шеширу танко и чврсто. При резању или гњечењу поцрвени, често брзо и снажно, затим посмеђи. Мирис је слаб, печуркаст; укус је благ.",
+      "sporePrint": "Отисак спора је чоколадносмеђ до црнкастосмеђ. Споре су глатке, јајасте или елипсоидне, око 4,5–6,5 × 3,2–4,2 µm (један извор наводи 5–6 × 3–3,4 µm). Хеилоцистиде су буздовачасте и често имају једну или две преграде. Површина шешира у KOH не пожути. Сличан Agaricus langei има знатно веће споре.",
+      "habitat": "Плодоноси на земљишту у четинарским, листопадним и мешовитим шумама, често под смрчом, такође под дрвећем у парковима, никад на отвореним пашњацима. Плодна тела се појављују појединачно или у малим групама од јула до новембра у Средњој Европи, у Британији од јула до децембра (август–новембар у неким британским изворима) и од јуна, понекад од маја, према француском извору. У Европи је честа и широко распрострањена и наводи се и из северне Африке и из делова Северне Америке.",
+      "uses": "После кувања јестива је и обично се сматра добром јестивом гљивом, али само за оне који је могу поуздано одредити. Плодна тела могу накупљати кадмијум и друге тешке метале, нарочито близу рудника и топионица, па чести или обилни оброци нису мудри.",
+      "confusion": "Agaricus langei је веома сличан, при резању такође поцрвени и најпоузданије се разликује по знатно већим спорама. Отровни Agaricus xanthodermus се при основи стручка боји јарко хромовожуто и мирише на фенол или мастило. Младе беле врсте рода Amanita задржавају беле листиће, имају бели отисак спора и обично овој или кртоласту, врећасту базу.",
+      "notes": "Процена из 2019. сврстава је међу врсте најмање забринутости. Као и неке друге врсте рода Agaricus може накупљати кадмијум и друге тешке метале, а из историјског подручја вађења сребра пријављена су плодна тела с изузетно високим нивоом кадмијума.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En saprotrof svamp i barr- och lövskog i Europa och i delar av Nordafrika och Nordamerika, växande på marken och aldrig på öppen betesmark. Den är allmän och vida spridd i det området och uppträder vanligen ensam eller i små grupper bland löv- eller barrförna.",
+      "cap": "Hatten är typiskt 5–12 cm bred; publicerade mått spänner från 2,5 cm upp till 15 cm (en slovakisk uppgift anger 4–8 cm). Den är först halvklotformig eller välvd, senare nästan plan. Ytan är blekt gulbrun till gråbrun eller rödbrun och täckt av fina till bredare bruna fjäll som är tätast i mitten, så att en blekare botten lämnas mot kanten.",
+      "hymenium": "Skivorna är fria och täta. De är först rosa eller grårosa, sedan rödaktiga och slutligen mörkt chokladbruna när sporerna mognar. En slovakisk uppgift nämner att det rosa stadiet kan vara svårt att se.",
+      "stipe": "Foten är typiskt 4,5–13 cm lång och 0,8–2,0 cm tjock (andra uppgifter anger 4–15 × 0,6–2,5 cm, och en brittisk uppgift anger mitt på foten endast 1,0–1,2 cm). Den är först vit, klubbformad med något svullen eller knölig bas, slät ovanför en tunn, slak ring och fint fjällig därunder; den rodnar vid tryck och blir senare brun. Ringen kan vara enkel eller dubbel, med tjockare kant och enligt vissa uppgifter med stora trekantiga fjäll på undersidan som bildar ett kugghjul.",
+      "flesh": "Köttet är vitt, tunt och fast i hatten. Vid skärning eller tryck blir det rött, ofta snabbt och tydligt, därefter brunt. Lukten är svag och svampartad; smaken är mild.",
+      "sporePrint": "Sporpulveret är chokladbrunt till svartbrunt. Sporerna är släta och äggformade eller ellipsoida, ungefär 4,5–6,5 × 3,2–4,2 µm (en uppgift anger 5–6 × 3–3,4 µm). Cheilocystidierna är klubblika och har ofta ett eller två septa. Hattens yta gulfärgas inte i KOH. Den liknande Agaricus langei har tydligt större sporer.",
+      "habitat": "Den fruktifierar på marken i barr-, löv- och blandskog, ofta under gran, även under träd i parker, aldrig på öppen betesmark. Fruktkropparna uppträder ensamma eller i små grupper från juli till november i Centraleuropa, i Storbritannien från juli in i december (augusti–november enligt vissa brittiska uppgifter), och från juni, ibland maj, enligt en fransk uppgift. Den är allmän och vida spridd i Europa och rapporteras också från Nordafrika och delar av Nordamerika.",
+      "uses": "Den är ätlig efter tillagning och betraktas allmänt som en god matsvamp, men endast för den som kan bestämma den med säkerhet. Fruktkropparna kan anrika kadmium och andra tungmetaller, särskilt nära gruvor och smältverk, så täta eller stora måltider är olämpliga.",
+      "confusion": "Agaricus langei är mycket lik, rodnar också vid skärning och skiljs bäst genom tydligt större sporer. Den giftiga Agaricus xanthodermus färgas klart kromgul vid fotbasen och luktar fenol eller bläck. Unga vita Amanita-arter behåller vita skivor, har vitt sporpulver och har vanligen en slida eller en knölig, säcklik bas.",
+      "notes": "En bedömning från 2019 klassar den som livskraftig. Liksom flera andra Agaricus-arter kan den anrika kadmium och andra tungmetaller, och från ett historiskt silvergruveområde har fruktkroppar med extremt höga kadmiumhalter rapporterats.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "skogschampinjon"
+    },
+    "tr": {
+      "description": "Avrupa ile Kuzey Afrika ve Kuzey Amerika’nın bazı kesimlerindeki iğne yapraklı ve yaprak döken ormanların saprotrof bir mantarı; toprakta yetişir ve asla açık merada büyümez. Bu yayılış alanında yaygındır ve genellikle yaprak veya iğne döküntüsü arasında tek tek ya da küçük kümeler hâlinde görünür.",
+      "cap": "Şapka tipik olarak 5–12 cm genişliğindedir; yayımlanan ölçüler 2,5 cm’den 15 cm’ye kadar uzanır (Slovak bir kaynak 4–8 cm verir). İlk başta yarıküremsi veya dışbükeydir, sonra neredeyse yassılaşır. Yüzey soluk sarımsı kahverengiden boz kahverengiye veya kızıl kahverengiye kadar değişir ve ortada en sık olan, ince ya da daha geniş kahverengi pullarla örtülüdür; kenara doğru daha soluk bir zemin kalır.",
+      "hymenium": "Lameller serbest ve sıktır. İlk başta pembe veya boz pembe, sonra kırmızımsı, sporlar olgunlaşınca koyu çikolata kahverengidir. Slovak bir kaynak, pembe evrenin görülmesinin zor olabileceğini belirtir.",
+      "stipe": "Sap tipik olarak 4,5–13 cm uzunluğunda ve 0,8–2,0 cm kalınlığındadır (başka kaynaklar 4–15 × 0,6–2,5 cm verir, bir İngiliz kaynağı sapın ortasında yalnızca 1,0–1,2 cm verir). İlk başta beyaz, sopa biçimli, hafif şişkin veya yumrulu tabanlıdır; ince, gevşek bir halkanın üstünde düz, altında ince pulludur; zedelenince kızarır, sonra esmerleşir. Halka basit veya çift olabilir, kenarı daha kalın olabilir ve bazı kaynaklara göre alt yüzünde çark dişi gibi büyük üçgen pullar bulunur.",
+      "flesh": "Et beyazdır, şapkada ince ve serttir. Kesilince veya ezilince, çoğu zaman hızlı ve belirgin biçimde, kırmızıya döner, sonra kahverengileşir. Koku zayıf ve mantarımsıdır; tat yumuşaktır.",
+      "sporePrint": "Spor izi çikolata kahverenginden siyahımsı kahverengiye kadardır. Sporlar düz, yumurtamsı veya elipsoittir, yaklaşık 4,5–6,5 × 3,2–4,2 µm (bir kaynak 5–6 × 3–3,4 µm verir). Keilosistitler sopa biçimlidir ve çoğu zaman bir veya iki bölmeli. Şapka yüzeyi KOH’da sararmaz. Benzer Agaricus langei’nin sporları belirgin olarak daha büyüktür.",
+      "habitat": "İğne yapraklı, yaprak döken ve karışık ormanlarda, çoğu kez ladin altında, ayrıca parklardaki ağaçların altında toprakta meyve verir; asla açık merada yetişmez. Meyve gövdeleri Orta Avrupa’da Temmuz’dan Kasım’a, Britanya’da Temmuz’dan Aralık’a (bazı İngiliz kaynaklarında Ağustos–Kasım) ve bir Fransız kaynağına göre Haziran’dan, bazen Mayıs’tan itibaren tek tek veya küçük kümeler hâlinde çıkar. Avrupa’da yaygındır ve Kuzey Afrika ile Kuzey Amerika’nın bazı kesimlerinden de bildirilir.",
+      "uses": "Pişirilince yenilebilir ve genellikle iyi bir yenilir mantar sayılır, ancak yalnızca kesin olarak tanıyanlar için. Meyve gövdeleri, özellikle madenler ve izabe tesisleri yakınında kadmiyum ve diğer ağır metalleri biriktirebilir, bu yüzden sık veya bol öğünler akıllıca değildir.",
+      "confusion": "Agaricus langei çok benzer, kesilince o da kızarır ve en güvenilir biçimde belirgin olarak daha büyük sporlarıyla ayrılır. Zehirli Agaricus xanthodermus sap tabanında parlak krom sarısı renk alır ve fenol veya mürekkep kokar. Genç beyaz Amanita türleri beyaz lamellerini korur, beyaz spor izine sahiptir ve genellikle bir volva ya da yumrulu, torba gibi bir tabanları vardır.",
+      "notes": "2019 değerlendirmesi onu en az endişe verici olarak sınıflandırır. Birçok başka Agaricus türü gibi kadmiyum ve diğer ağır metalleri biriktirebilir ve tarihî bir gümüş madenciliği bölgesinden son derece yüksek kadmiyum düzeyli meyve gövdeleri bildirilmiştir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Сапротрофний гриб хвойних і листяних лісів Європи, а також частин Північної Африки та Північної Америки, що росте на ґрунті і ніколи на відкритих пасовищах. У цьому ареалі він звичайний і широко поширений і зазвичай з’являється поодинці або невеликими групами серед листяної чи хвойної підстилки.",
+      "cap": "Шапинка зазвичай 5–12 см у діаметрі; опубліковані межі становлять від 2,5 см до 15 см (словацьке джерело вказує 4–8 см). Спочатку вона півкуляста або опукла, пізніше майже плоска. Поверхня блідо-жовтувато-коричнева до сірувато-коричневої чи рудувато-коричневої і вкрита тонкими або ширшими коричневими лусочками, найгустішими в центрі, тож до краю залишається блідіший фон.",
+      "hymenium": "Пластинки вільні й густі. Спочатку вони рожеві або сірувато-рожеві, потім червонуваті і нарешті темно-шоколадні, коли спори дозрівають. Словацьке джерело зазначає, що рожеву стадію буває важко помітити.",
+      "stipe": "Ніжка зазвичай 4,5–13 см завдовжки і 0,8–2,0 см завтовшки (інші джерела вказують 4–15 × 0,6–2,5 см, а одне британське джерело вказує в середній частині ніжки лише 1,0–1,2 см). Спочатку вона біла, булавоподібна, з трохи потовщеною або бульбоподібною основою, гладка над тонким, звислим кільцем і дрібнолуската під ним; при дотику червоніє, згодом буріє. Кільце може бути простим або подвійним, з товстішим краєм і, за деякими даними, з великими трикутними лусками на нижньому боці, що утворюють зубчасте колесо.",
+      "flesh": "М’якуш білий, у шапинці тонкий і щільний. При розрізі або натисканні червоніє, часто швидко й сильно, потім буріє. Запах слабкий, грибний; смак м’який.",
+      "sporePrint": "Споровій порошок шоколадний до чорнувато-коричневого. Спори гладкі, яйцеподібні або еліпсоїдні, близько 4,5–6,5 × 3,2–4,2 мкм (одне джерело вказує 5–6 × 3–3,4 мкм). Хейлоцистиди булавоподібні і часто з однією або двома перегородками. Поверхня шапинки не жовтіє в KOH. Схожий Agaricus langei має помітно більші спори.",
+      "habitat": "Плодоносить на ґрунті в хвойних, листяних і мішаних лісах, часто під ялиною, також під деревами в парках, ніколи на відкритих пасовищах. Плодові тіла з’являються поодинці або невеликими групами з липня до листопада в Центральній Європі, у Британії з липня до грудня (серпень–листопад у деяких британських джерелах) і з червня, іноді з травня, за французьким джерелом. У Європі він звичайний і широко поширений і також зазначений з Північної Африки та з частин Північної Америки.",
+      "uses": "Після варіння їстівний і зазвичай вважається добрим їстівним грибом, але лише для тих, хто може визначити його впевнено. Плодові тіла можуть накопичувати кадмій та інші важкі метали, особливо біля шахт і плавилень, тому часті або рясні споживання небажані.",
+      "confusion": "Agaricus langei дуже схожий, також червоніє на розрізі і найнадійніше відрізняється помітно більшими спорами. Отруйний Agaricus xanthodermus забарвлюється в яскраво-хромово-жовтий колір біля основи ніжки і пахне фенолом або чорнилом. Молоді білі види роду Amanita зберігають білі пластинки, мають білий споровий порошок і зазвичай вольву або бульбоподібну, мішкоподібну основу.",
+      "notes": "Оцінка 2019 року відносить його до видів, що викликають найменше занепокоєння. Як і кілька інших видів роду Agaricus, він може накопичувати кадмій та інші важкі метали, а з історичного району видобутку срібла повідомляли про плодові тіла з надзвичайно високим вмістом кадмію.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Печериця_лісова"
+      ],
+      "label": "печериця лісова"
+    },
+    "zh": {
+      "description": "一种腐生蘑菇，见于欧洲以及北非和北美部分地区的针叶林与阔叶林，生长在土壤上，从不出现在开阔牧场。它在该分布区内常见而广布，通常单生或小丛生于落叶或针叶层中。",
+      "cap": "菌盖通常宽5–12厘米；已发表的记录从2.5厘米到15厘米不等（一份斯洛伐克记载为4–8厘米）。初期半球形或凸出，随后几乎变平。表面呈浅黄褐色至灰褐色或赤褐色，被细至较宽的褐色鳞片，中央最密，向边缘留下较浅的底色。",
+      "hymenium": "菌褶离生而密集。初期粉红色或灰粉色，随后带红色，孢子成熟时变为深巧克力褐色。一份斯洛伐克记载指出，粉红色阶段可能不易看见。",
+      "stipe": "菌柄通常长4.5–13厘米、粗0.8–2.0厘米（另有记载为4–15 × 0.6–2.5厘米，一份英国记载称柄中部仅1.0–1.2厘米）。初期白色，棒状，基部稍膨大或呈球茎状，在薄而柔软的菌环上方光滑，下方有细鳞，受伤处变红，随后转褐。菌环可为单层或双层，边缘较厚，有些记载称腹面有大三角形鳞片，排列成齿轮状。",
+      "flesh": "菌肉白色，在菌盖中薄而结实。切开或碰伤时变红，往往迅速而明显，随后转褐。气味淡、有蘑菇味；味道温和。",
+      "sporePrint": "孢子印呈巧克力褐色至黑褐色。孢子光滑，卵形或椭圆形，约4.5–6.5 × 3.2–4.2微米（一份记载为5–6 × 3–3.4微米）。褶缘囊状体棒状，常有一或两个隔。菌盖表面在KOH中不变黄。相似的Agaricus langei孢子明显较大。",
+      "habitat": "在针叶林、阔叶林和混交林的土壤上出菇，常生于云杉下，也见于公园树木下，从不开阔牧场。子实体在中欧于七月至十一月单生或小丛出现，在不列颠从七月延至十二月（部分英国记载为八月至十一月），一份法国记载称自六月起，偶见五月。它在欧洲常见而广布，北非和北美部分地区也有记录。",
+      "uses": "煮熟后可食用，一般被视为良好的食用菌，但仅适于能确切鉴定的人。子实体可富集镉和其他重金属，尤其在矿山和冶炼厂附近，因此不宜频繁或大量食用。",
+      "confusion": "Agaricus langei极为相似，切开时同样变红，最好以其明显较大的孢子区分。有毒的Agaricus xanthodermus在菌柄基部呈鲜艳铬黄色，并有苯酚或墨水气味。幼小的白色鹅膏属种类保持白色菌褶，孢子印白色，通常具菌托或球茎状囊状基部。",
+      "notes": "2019年的评估将其列为无危。与若干其他蘑菇属种类一样，它可以富集镉和其他重金属，来自一处历史白银矿区的子实体曾被报道镉含量极高。",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_sylvaticus",
+        "https://www.wikidata.org/wiki/Q1097213"
+      ],
+      "label": "林地蘑菇"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus haemorrhoidarius",
+      "author": "Schulzer",
+      "year": 1874,
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus sanguinarius",
+      "author": "P. Karst.",
+      "year": 1882,
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus vinosobrunneus",
+      "author": "P.D. Orton",
+      "year": 1960,
+      "rank": "species"
+    },
+    {
+      "name": "Fungus sylvaticus",
+      "author": "(Schaeff.) Kuntze",
+      "year": 1898,
+      "rank": "species"
+    },
+    {
+      "name": "Fungus haemorrhoidarius",
+      "author": "(Schulzer) Kuntze",
+      "year": 1898,
+      "rank": "species"
+    },
+    {
+      "name": "Fungus sanguinarius",
+      "author": "Kuntze",
+      "year": 1898,
+      "rank": "species"
+    },
+    {
+      "name": "Fungus amethystinus",
+      "author": "(Quél.) Kuntze",
+      "year": 1898,
+      "rank": "species"
+    },
+    {
+      "name": "Pratella sylvatica",
+      "author": "(Schaeff.) Gillet",
+      "year": 1878,
+      "rank": "species"
+    },
+    {
+      "name": "Pratella haemorrhoidaria",
+      "author": "(Schulzer) Gillet",
+      "year": 1878,
+      "rank": "species"
+    },
+    {
+      "name": "Pratella amethystina",
+      "author": "(Quél.) Quél.",
+      "year": 1888,
+      "rank": "species"
+    },
+    {
+      "name": "Psalliota sylvatica",
+      "author": "(Schaeff.) P. Kumm.",
+      "year": 1871,
+      "rank": "species"
+    },
+    {
+      "name": "Psalliota haemorrhoidaria",
+      "author": "(Schulzer) Richon & Roze",
+      "year": 1888,
+      "rank": "species"
+    },
+    {
+      "name": "Psalliota amethystina",
+      "author": "(Quél.) J.E. Lange",
+      "year": 1926,
+      "rank": "species"
+    },
+    {
+      "name": "Psalliota sanguinaria",
+      "author": "(Kuntze) J.E. Lange",
+      "year": 1926,
+      "rank": "species"
+    }
+  ],
+  "reserved": false,
+  "id": 191,
+  "citation": "Fung. bavar. palat. nasc. (Ratisbonae) 4: 62 (1774)"
+},
+{
+  "name": "Leucopaxillus gentianeus",
+  "author": "(Quél.) Kotl.",
+  "family": "Tricholomataceae",
+  "genus": "Leucopaxillus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricales",
+    "Tricholomataceae",
+    "Leucopaxillus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Tricholomataceae",
+    "Leucopaxillus"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 2.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 2,
+  "label": {
+    "cs": "běločechratka hořká",
+    "da": "bitter tragtridderhat",
+    "de": "Bitterer Krempentrichterling",
+    "en": "bitter funnel",
+    "fi": "karvasvalmukka",
+    "fr": "leucopaxille amer",
+    "hu": "keserű álpereszke",
+    "lt": "rudoji meškabudė",
+    "no": "bitter traktmusserong",
+    "pl": "białokrowiak gorzki",
+    "ru": "Белосвинуха горечавковая",
+    "sk": "čechratec horký",
+    "sl": "grenka kolesnica",
+    "sv": "bittermusseron"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Bitterer Krempenritterling"
+    ],
+    "en": [
+      "bitter false funnelcap",
+      "bitter brown leucopaxillus",
+      "bitter brown leucopax"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [
+      "karvasvalmuska"
+    ],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=333337",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=333337",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=333337",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=247324",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=357223",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=372296",
+      "https://www.gbif.org/species/2532693",
+      "https://www.wikidata.org/wiki/Q3913757",
+      "https://en.wikipedia.org/wiki/Leucopaxillus_gentianeus",
+      "https://www.mykoweb.com/CAF/species/Leucopaxillus_gentianeus.html",
+      "https://www.mushroomexpert.com/leucopaxillus_gentianeus.html",
+      "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Leucopaxillus%20gentianeus",
+      "https://www.myko.cz/myko-atlas/Leucopaxillus-gentianeus/",
+      "https://www.nahuby.sk/atlas-hub/Leucopaxillus-gentianeus/cechratec-horky/belocechratka-horka/ID1643",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus",
+      "https://species.nbnatlas.org/species/NBNSYS0000150519",
+      "https://www.123pilzsuche.de/daten/details/BittererKrempentrichterling.htm"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Leucopaxillus-gentianeus/",
+      "https://www.wikidata.org/wiki/Q3913757",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "de": [
+      "https://www.123pilzsuche.de/daten/details/BittererKrempentrichterling.htm",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Karvasvalmukka",
+      "https://www.wikidata.org/wiki/Q3913757",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Keserű_álpereszke",
+      "https://www.wikidata.org/wiki/Q3913757",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Białokrowiak_gorzki",
+      "https://www.wikidata.org/wiki/Q3913757"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Leucopaxillus-gentianeus/cechratec-horky/belocechratka-horka/ID1643",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Bittermusseron",
+      "https://www.wikidata.org/wiki/Q3913757",
+      "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "added": "2026-11-21",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/Leucopaxillus_gentianeus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/Leucopaxillus_gentianeus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Leucopaxillus gentianeus.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 52f0b03236a6d54c0c582d3b108412c7b899172c556c5dc6ae7111a9241b4bcf) is an illustration with an existing cursive “Gemini” mark at lower right, kept as found; no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a reddish-brown mature cap that is somewhat depressed, a dark liver-brown button, an underside with close pale gills and a pale stipe, a longitudinal section with white unchanging flesh, needle litter, and a white basal mycelial patch. The mature cap is more deeply depressed and funnel-like than the usually convex to nearly flat (sometimes slightly depressed) form. The basal mycelium is drawn as a small star-like patch rather than the copious mat sources describe, and the stem surface looks smoother than the sometimes fibrillose or faintly powdery stipe. The official plate is slightly soft because the 896×1200 source was enlarged 1.5625×. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/Leucopaxillus_gentianeus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg1.webp",
+      "author": "Chuck Wilson",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/596893003"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg2.webp",
+      "author": "Victoria Lazareva",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/510777095"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg3.webp",
+      "author": "Theo Summer",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/172182931"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg4.webp",
+      "author": "Sigrid Jakob",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/59819210"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg5.webp",
+      "author": "moorebuesing",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/photos/108625862"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/Leucopaxillus_gentianeus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/Leucopaxillus_gentianeus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg1.webp",
+      "author": "Chuck Wilson",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/596893003"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg2.webp",
+      "author": "Victoria Lazareva",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/510777095"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg3.webp",
+      "author": "Theo Summer",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/172182931"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg4.webp",
+      "author": "Sigrid Jakob",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/59819210"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Tricholomataceae/Leucopaxillus_gentianeus/lg5.webp",
+      "author": "moorebuesing",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/photos/108625862"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "محلل فرش حراج الصنوبريات والغابات المختلطة في أوروبا وغرب أمريكا الشمالية وأمريكا الوسطى وأستراليا. ينمو متفرقاً أو في جماعات أو في أقواس وحلقات، ولا سيما في فرش الإبر. يثمر في أوروبا من يوليو إلى نوفمبر، وفي المناخات الغربية الأكثر اعتدالاً من أواخر الخريف إلى منتصف الشتاء.",
+      "cap": "القبعة عادة عرضها 3–12 سم، وأحياناً تصل إلى 15 سم. تكون محدبة ذات حافة ملتفة في الصغر، ثم واسعة التحدب إلى شبه مسطحة، وقد تنخفض قليلاً. السطح الجاف غير اللامع يكون في البداية بني كبدي داكن إلى بني محمر أو قرفي، وغالباً أبهت نحو الحافة، وقد يبهت إلى بني فاتح؛ وقد يُحسّ في الصغر كالشمواه الناعم، وقد تكون الحافة عند النضج محززة خفيفاً.",
+      "hymenium": "الخياشيم متراصة وضيقة وملتصقة أو محزوزة قليلاً، وقد تنحدر قليلاً على الساق. تكون بيضاء في البداية وقد تصبح كريمية، ويمكن تقشيرها عن القبعة طبقة واحدة. الخياشيم القصيرة شائعة.",
+      "stipe": "الساق عادة طولها 3–10 سم وسمكها 0.5–2.5 سم، متساوية أو متسعة قليلاً نحو القاعدة (تذكر بعض المصادر سمكاً يصل إلى 4 أو 4.5 سم). جافة وبيضاء وجرداء أو مغبرة خفيفاً، وقد تتلون بالبني نحو القاعدة. القاعدة مغروسة في حصيرة ميسيليومية بيضاء كثيفة وافرة. لا غشاء ولا حلقة.",
+      "flesh": "اللحم سميك ومتين وأبيض ولا يتغير لونه عند القطع. الطعم مر بقوة. الرائحة دقيقية، ووفق بعض المصادر كريهة أو دقيقية زنخة أو خفيفة إلى حادة. يتحول KOH إلى زيتوني على سطوح القبعة المصطبغة ويكون سالباً على القبعات الباهتة.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ شبه مستديرة إلى إهليلجية عريضة، ثؤلولية أو شوكية دقيقة وأميلويدية، نحو 4.5–6 × 3.5–5 ميكرومتر (تذكر بعض المصادر أيضاً 4–6 × 3–4 ميكرومتر). توجد كيسات حافية متباينة الشكل؛ وتغيب الكيسات الجانبية.",
+      "habitat": "ينمو متفرقاً أو جماعياً أو في أقواس وحلقات على الأرض، محللاً فرش الصنوبريات وأقل منها الأشجار العريضة الأوراق بما فيها البلوط. يوجد في أوروبا في غابات الصنوبريات والعريضات الأوراق، غالباً تحت التنوب على تربة كلسية، من يوليو إلى نوفمبر. في كاليفورنيا يثمر من أواخر الخريف إلى منتصف الشتاء تحت السيكويا الساحلية وصنوبر مونتيري وسرو مونتيري وأشجار أخرى؛ وعلى نطاق أوسع في غرب أمريكا الشمالية يظهر في الصيف والخريف، وفي المناخات الأدفأ في الشتاء أيضاً.",
+      "uses": "غير صالح للأكل. اللحم مر للغاية، لذلك لا يُستخدم طعاماً.",
+      "confusion": "أنواع Tricholoma البنية المحمرة تفتقر إلى الميسيليوم القاعدي الأبيض الكثيف والطعم المر بقوة والأبواغ الثؤلولية الأميلويدية. لا يكون Leucopaxillus albissimus في الصغر بنيّاً كبدياً داكناً أبداً، وإن كانت الأجسام الثمرية الباهتة أصعب فصلاً. أما Aspropaxillus giganteus فأكبر بكثير وعادةً شاحب.",
+      "notes": "الطعم المر يسببه التربين الثلاثي cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Разградител на постелята в иглолистни и смесени гори в Европа, западната част на Северна Америка, Централна Америка и Австралия. Расте разпръснато, на групи или в дъги и пръстени, особено в иглолистна постеля. В Европа плододава от юли до ноември, а в по-мекия западен климат от късна есен до средата на зимата.",
+      "cap": "Шапката е обикновено 3–12 cm широка, понякога до 15 cm. В младост е изпъкнала със завит ръб, по-късно широко изпъкнала до почти плоска и може да се вдлъбне леко. Сухата матова повърхност отначало е тъмно чернодробнокафява до червеникавокафява или канелена, често по-бледа към ръба, и може да избелее до бледокафява; в младост може да изглежда фино велурена, а ръбът в зрялост понякога е слабо набразден.",
+      "hymenium": "Пластинките са гъсти, тесни и прираснали или слабо изрязани и понякога леко низбягват по пънчето. Отначало са бели и могат да станат кремави и се отделят от шапката като пласт. Късите пластинки са чести.",
+      "stipe": "Пънчето е обикновено 3–10 cm дълго и 0,5–2,5 cm дебело, равно или слабо удебелено към основата (източници посочват и дебелина до 4 или 4,5 cm). То е сухо, бяло и голо или слабо прашесто и може да покафенее към основата. Основата е втъкната в плътен, обилен бял мицелен килим. Няма було нито пръстен.",
+      "flesh": "Месото е дебело, твърдо и бяло и не променя цвета си при разрез. Вкусът е силно горчив. Миризмата е брашнеста, а според някои източници неприятна, гранясало брашнеста или слаба до остра. KOH става маслиненозелен върху пигментираната повърхност на шапката и е отрицателен върху избелели шапки.",
+      "sporePrint": "Споровият прашец е бял. Спорите са почти кръгли до широко елипсовидни, брадавичести или дребнободливи и амилоидни, около 4,5–6 × 3,5–5 µm (източници посочват и 4–6 × 3–4 µm). Хейлоцистидите са налице и с променлива форма; плевроцистиди липсват.",
+      "habitat": "Расте разпръснато, на групи или в дъги и пръстени на земята, като разгражда постелята на иглолистни и по-рядко широколистни дървета, включително дъб. В Европа се среща в иглолистни и широколистни гори, често под смърч на варовита почва, от юли до ноември. В Калифорния плододава от късна есен до средата на зимата под крайбрежна секвоя, монтерейски бор, монтерейски кипарис и други дървета; по-широко в западната част на Северна Америка се появява през лятото, есента и в по-топъл климат през зимата.",
+      "uses": "Неядив е. Месото е изключително горчиво, затова не се използва за храна.",
+      "confusion": "Червеникавокафявите видове от род Tricholoma нямат плътен бял базален мицел, силно горчив вкус и амилоидни брадавичести спори. Leucopaxillus albissimus никога не е тъмно чернодробнокафяв в младост, макар избелелите плодни тела да се отделят по-трудно. Aspropaxillus giganteus е много по-едър и обикновено блед.",
+      "notes": "Горчивият вкус се дължи на тритерпена cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Rozkladač opadanky jehličnatých a smíšených lesů v Evropě, na západě Severní Ameriky, ve Střední Americe a v Austrálii. Roste roztroušeně, ve skupinách nebo v obloucích a kruzích, zejména v jehličnaté hrabance. V Evropě plodnice rostou od července do listopadu a v mírnějších západních oblastech od pozdního podzimu do poloviny zimy.",
+      "cap": "Klobouk je obvykle 3–12 cm široký, někdy až 15 cm. V mládí je klenutý s podvinutým okrajem, později široce klenutý až téměř plochý a může být slabě vmáčklý. Suchý, matný povrch je zprvu tmavě játrově hnědý až červenohnědý nebo skořicově hnědý, často bledší při okraji, a může vyblednout do plavé barvy; v mládí může být jemně semišový a okraj bývá v dospělosti někdy slabě rýhovaný.",
+      "hymenium": "Lupeny jsou husté, úzké a připojené nebo slabě vykrojené, někdy krátce sbíhavé na třeň. Zprvu jsou bílé, později mohou být krémové, a dají se oloupat od klobouku jako vrstva. Krátké lupeny jsou časté.",
+      "stipe": "Třeň je obvykle 3–10 cm dlouhý a 0,5–2,5 cm tlustý, válcovitý nebo směrem k bázi slabě ztlustlý (údaje uvádějí i tloušťku až 4 nebo 4,5 cm). Je suchý, bílý a lysý nebo slabě práškovitý a při bázi může hnědnout. Báze je zahroužena v husté, hojné bílé podhoubí. Závoj ani prsten chybějí.",
+      "flesh": "Dužnina je tlustá, pevná a bílá a na řezu nemění barvu. Chuť je výrazně hořká. Vůně je moučná a podle některých údajů nepříjemná, žlukle moučná nebo slabá až štiplavá. KOH na pigmentovaném povrchu klobouku olivoví a na vybledlém je negativní.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou téměř kulovité až široce elipsoidní, bradavčité nebo jemně ostnité a amyloidní, přibližně 4,5–6 × 3,5–5 µm (údaje uvádějí i 4–6 × 3–4 µm). Cheilocystidy jsou přítomné a tvarově proměnlivé; pleurocystidy chybějí.",
+      "habitat": "Roste roztroušeně, ve skupinách nebo v obloucích a kruzích na zemi, kde rozkládá opadanku jehličnanů a méně často listnáčů, včetně dubu. V Evropě se vyskytuje v jehličnatých i listnatých lesích, často pod smrkem na vápnité půdě, od července do listopadu. V Kalifornii plodí od pozdního podzimu do poloviny zimy pod pobřežní sequoií, borovicí montereyskou, cypřišem montereyským a jinými stromy; v širším západu Severní Ameriky se objevuje v létě, na podzim a v teplejších oblastech i v zimě.",
+      "uses": "Je nejedlá. Dužnina je mimořádně hořká, proto se jako jídlo nepoužívá.",
+      "confusion": "Červenohnědé druhy rodu Tricholoma nemají husté bílé bazální podhoubí, výrazně hořkou chuť ani amyloidní bradavčité výtrusy. Leucopaxillus albissimus není v mládí tmavě játrově hnědý, ačkoli vybledlé plodnice se oddělují hůře. Aspropaxillus giganteus je mnohem větší a obvykle bledý.",
+      "notes": "Hořkou chuť způsobuje triterpen cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Leucopaxillus-gentianeus/",
+        "https://www.wikidata.org/wiki/Q3913757",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "běločechratka hořká"
+    },
+    "da": {
+      "description": "En førneomsætter i nåle- og blandskov i Europa, det vestlige Nordamerika, Mellemamerika og Australien. Den vokser spredt, i grupper eller i buer og ringe, især i nåleførne. I Europa frugter den fra juli til november, og i mildere vestlige klimaer fra det sene efterår ind i midvinteren.",
+      "cap": "Hatten er typisk 3–12 cm bred, undertiden op til 15 cm. Den er hvælvet med indrullet rand som ung, senere bredt hvælvet til næsten flad, og kan blive svagt nedtrykt. Den tørre, matte overflade er først mørkt leverbrun til rødbrun eller kanelbrun, ofte lysere mod randen, og kan falme til tan; den kan føles fint ruskindagtig som ung, og randen er undertiden svagt furet ved modenhed.",
+      "hymenium": "Lamellerne er tætte, smalle og tilvoksede eller svagt udrandede og kan løbe lidt ned ad stokken. De er først hvide og kan blive cremefarvede, og de kan trækkes af hatten som et lag. Mellemlameller er almindelige.",
+      "stipe": "Stokken er typisk 3–10 cm lang og 0,5–2,5 cm tyk, jævn eller svagt fortykket mod basis (angivelser giver også en tykkelse på op til 4 eller 4,5 cm). Den er tør, hvid og glat eller svagt pudret og kan brune mod basis. Basis sidder i en tæt, rigelig hvid myceliemåtte. Der er hverken slør eller ring.",
+      "flesh": "Kødet er tykt, fast og hvidt og skifter ikke farve ved gennemskæring. Smagen er stærkt bitter. Lugten er melet og ifølge nogle kilder ubehagelig, harsk-melet eller mild til stikkende. KOH bliver olivengrøn på pigmenterede hatoverflader og er negativ på afblegede hatte.",
+      "sporePrint": "Sporeaftrykket er hvidt. Sporerne er næsten kuglerunde til bredt ellipsoide, vortede eller fint tornebeklædte og amyloide, omkring 4,5–6 × 3,5–5 µm (angivelser giver også 4–6 × 3–4 µm). Cheilocystider er til stede og af vekslende form; pleurocystider mangler.",
+      "habitat": "Den vokser spredt, gruppevis eller i buer og ringe på jorden, hvor den omsætter førne af nåletræer og sjældnere løvtræer, herunder eg. I Europa findes den i nåle- og løvskov, ofte under gran på kalkbund, fra juli til november. I Californien frugter den fra det sene efterår til midvinter under kystsequoia, montereyfyr, montereycypres og andre træer; i det øvrige vestlige Nordamerika optræder den om sommeren, om efteråret og i varmere klimaer også om vinteren.",
+      "uses": "Den er uspiselig. Kødet er yderst bittert, så den bruges ikke som mad.",
+      "confusion": "Rødbrune Tricholoma-arter mangler det tætte hvide basale mycelium, den stærkt bitre smag og de amyloide, vortede sporer. Leucopaxillus albissimus er aldrig mørkt leverbrun som ung, skønt afblegede frugtlegemer er sværere at skille fra. Aspropaxillus giganteus er meget større og typisk bleg.",
+      "notes": "Den bitre smag skyldes triterpenet cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "bitter tragtridderhat"
+    },
+    "de": {
+      "description": "Ein Streuzersetzer nadel- und mischwaldreicher Gebiete in Europa, im westlichen Nordamerika, in Zentralamerika und in Australien. Er wächst zerstreut, in Trupps oder in Bögen und Ringen, vor allem in Nadelstreu. In Europa fruktifiziert er von Juli bis November, in milderen westlichen Klimaten vom Spätherbst bis in den Hochwinter.",
+      "cap": "Der Hut ist gewöhnlich 3–12 cm breit, manchmal bis 15 cm. Jung ist er gewölbt mit eingerolltem Rand, später breit gewölbt bis fast flach und kann schwach vertieft sein. Die trockene, matte Oberfläche ist zunächst dunkel leberbraun bis rotbraun oder zimtbraun, oft zum Rand hin blasser, und kann zu fahlbraun verblassen; jung kann sie fein wildlederartig wirken, und der Rand ist bei Reife manchmal schwach gerieft.",
+      "hymenium": "Die Lamellen stehen gedrängt, sind schmal und angewachsen oder schwach ausgebuchtet und laufen manchmal ein wenig am Stiel herab. Sie sind zuerst weiß und können cremefarben werden und lassen sich als Schicht vom Hut lösen. Zwischenlamellen sind häufig.",
+      "stipe": "Der Stiel ist gewöhnlich 3–10 cm lang und 0,5–2,5 cm dick, gleichmäßig oder zur Basis hin schwach verdickt (Angaben nennen auch eine Dicke von bis zu 4 oder 4,5 cm). Er ist trocken, weiß und kahl oder schwach bereift und kann zur Basis hin bräunen. Die Basis steckt in einer dichten, reichlichen weißen Myzelmatte. Ein Velum oder Ring fehlt.",
+      "flesh": "Das Fleisch ist dick, fest und weiß und verändert beim Anschneiden die Farbe nicht. Der Geschmack ist stark bitter. Der Geruch ist mehlartig und nach manchen Angaben unangenehm, ranzig-mehlartig oder mild bis stechend. KOH färbt pigmentierte Hutflächen oliv und bleibt auf verblassten Hüten negativ.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind nahezu kugelig bis breit ellipsoid, warzig oder fein stachelig und amyloid, etwa 4,5–6 × 3,5–5 µm (Angaben nennen auch 4–6 × 3–4 µm). Cheilozystiden sind vorhanden und von wechselnder Form; Pleurozystiden fehlen.",
+      "habitat": "Er wächst zerstreut, gesellig oder in Bögen und Ringen am Boden und zersetzt die Streu von Nadelbäumen und seltener von Laubbäumen, einschließlich Eiche. In Europa findet man ihn in Nadel- und Laubwäldern, oft unter Fichte auf kalkhaltigem Boden, von Juli bis November. In Kalifornien fruktifiziert er vom Spätherbst bis in den Hochwinter unter Küstenmammutbaum, Monterey-Kiefer, Monterey-Zypresse und anderen Bäumen; im weiteren westlichen Nordamerika erscheint er im Sommer, im Herbst und in wärmeren Klimaten auch im Winter.",
+      "uses": "Er ist ungenießbar. Das Fleisch ist äußerst bitter und wird daher nicht als Speise verwendet.",
+      "confusion": "Rotbraune Tricholoma-Arten haben kein dichtes weißes Basalmycel, keinen stark bitteren Geschmack und keine amyloiden, warzigen Sporen. Leucopaxillus albissimus ist jung niemals dunkel leberbraun, obwohl verblasste Fruchtkörper schwerer zu trennen sind. Aspropaxillus giganteus ist viel größer und typischerweise blass.",
+      "notes": "Den bitteren Geschmack verursacht das Triterpen Cucurbitacin B.",
+      "names": [
+        "Bitterer Krempenritterling"
+      ],
+      "sourceUrls": [
+        "https://www.123pilzsuche.de/daten/details/BittererKrempentrichterling.htm",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "Bitterer Krempentrichterling"
+    },
+    "en": {
+      "description": "A litter decomposer of conifer and mixed woods in Europe, western North America, Central America and Australia. It grows scattered, in troops, or in arcs and rings, especially in needle duff. Fruiting runs from July to November in Europe, and from late fall into mid-winter in milder western climates.",
+      "cap": "The cap is typically 3–12 cm across, sometimes to 15 cm. It is convex with an inrolled margin when young, later broadly convex to nearly flat, and may become slightly depressed. The dry, dull surface is dark liver brown to reddish brown or cinnamon brown at first, often paler toward the margin, and may fade to tan; it can feel finely suede-like when young, and the margin is sometimes faintly lined at maturity.",
+      "hymenium": "The gills are close or crowded, narrow, and attached or slightly notched, sometimes beginning to run down the stem. They are white at first and may become cream, and they can be peeled from the cap as a layer. Short gills are frequent.",
+      "stipe": "The stem is typically 3–10 cm long and 0.5–2.5 cm thick, equal or slightly enlarged toward the base (accounts also give a thickness of up to 4 or 4.5 cm). It is dry, white, and bald or faintly powdery, and it may stain brownish toward the base. The base is embedded in a dense, copious white mycelial mat. There is no veil or ring.",
+      "flesh": "The flesh is thick, firm and white, and does not change colour when cut. The taste is strongly bitter. The smell is mealy, and in some accounts unpleasant, rancid-mealy, or mild to pungent. KOH turns olive on pigmented cap surfaces and is negative on faded caps.",
+      "sporePrint": "The spore print is white. The spores are nearly round to broadly ellipsoid, warted or finely spiny, and amyloid, about 4.5–6 × 3.5–5 µm (accounts also give 4–6 × 3–4 µm). Cheilocystidia are present and variable in shape; pleurocystidia are absent.",
+      "habitat": "It grows scattered, gregariously, or in arcs and rings on the ground, decomposing the litter of conifers and, less often, hardwoods, including oak. In Europe it is found in coniferous and broad-leaved woods, often under spruce on calcareous soil, from July to November. In California it fruits from late fall to mid-winter under coast redwood, Monterey pine, Monterey cypress and other trees; more broadly in western North America it appears in summer, fall, and, in warmer climates, winter.",
+      "uses": "It is inedible. The flesh is extremely bitter, so it is not used as food.",
+      "confusion": "Red-brown Tricholoma species lack the dense white basal mycelium, the strongly bitter taste, and the amyloid warted spores. Leucopaxillus albissimus is never dark liver-brown when young, though faded specimens can be harder to separate. Aspropaxillus giganteus is much larger and typically pale.",
+      "notes": "The bitter taste is caused by the triterpene cucurbitacin B.",
+      "names": [
+        "bitter false funnelcap",
+        "bitter brown leucopaxillus",
+        "bitter brown leucopax"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=333337",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=333337",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=333337",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=247324",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=357223",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=372296",
+        "https://www.gbif.org/species/2532693",
+        "https://www.wikidata.org/wiki/Q3913757",
+        "https://en.wikipedia.org/wiki/Leucopaxillus_gentianeus",
+        "https://www.mykoweb.com/CAF/species/Leucopaxillus_gentianeus.html",
+        "https://www.mushroomexpert.com/leucopaxillus_gentianeus.html",
+        "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Leucopaxillus%20gentianeus",
+        "https://www.myko.cz/myko-atlas/Leucopaxillus-gentianeus/",
+        "https://www.nahuby.sk/atlas-hub/Leucopaxillus-gentianeus/cechratec-horky/belocechratka-horka/ID1643",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus",
+        "https://species.nbnatlas.org/species/NBNSYS0000150519",
+        "https://www.123pilzsuche.de/daten/details/BittererKrempentrichterling.htm"
+      ],
+      "label": "bitter funnel"
+    },
+    "es": {
+      "description": "Un descomponedor de hojarasca de bosques de coníferas y mixtos en Europa, el oeste de Norteamérica, Centroamérica y Australia. Crece disperso, en tropas o en arcos y anillos, sobre todo en la hojarasca de acículas. En Europa fructifica de julio a noviembre, y en climas occidentales más suaves desde finales de otoño hasta mediados del invierno.",
+      "cap": "El sombrero mide por lo general 3–12 cm de diámetro, a veces hasta 15 cm. Es convexo con el margen enrollado de joven, luego ampliamente convexo a casi plano, y puede hundirse un poco. La superficie seca y mate es al principio pardo hepático oscuro a pardo rojizo o canela, a menudo más pálida hacia el margen, y puede palidecer a un pardo claro; de joven puede parecer finamente anteada, y el margen a veces queda débilmente estriado al madurar.",
+      "hymenium": "Las láminas son apretadas, estrechas y adnatas o ligeramente escotadas, y a veces descienden un poco por el pie. Al principio son blancas y pueden volverse crema, y se desprenden del sombrero en una capa. Las lamélulas son frecuentes.",
+      "stipe": "El pie mide por lo general 3–10 cm de largo y 0,5–2,5 cm de grosor, igual o ligeramente ensanchado hacia la base (algunas fuentes dan también un grosor de hasta 4 o 4,5 cm). Es seco, blanco y glabro o débilmente pruinoso, y puede mancharse de pardo hacia la base. La base queda embebida en un denso y copioso tapiz miceliar blanco. No hay velo ni anillo.",
+      "flesh": "La carne es gruesa, firme y blanca, y no cambia de color al cortarla. El sabor es fuertemente amargo. El olor es harinoso y, según algunas fuentes, desagradable, rancio-harinoso, o suave a picante. El KOH vira a oliva en las superficies pigmentadas del sombrero y es negativo en sombreros decolorados.",
+      "sporePrint": "La esporada es blanca. Las esporas son casi redondas a ampliamente elipsoides, verrugosas o finamente espinosas, y amiloides, de unos 4,5–6 × 3,5–5 µm (algunas fuentes dan también 4–6 × 3–4 µm). Hay queilocistidios de forma variable; faltan los pleurocistidios.",
+      "habitat": "Crece disperso, gregario o en arcos y anillos sobre el suelo, descomponiendo la hojarasca de coníferas y, con menos frecuencia, de frondosas, incluido el roble. En Europa se encuentra en bosques de coníferas y de frondosas, a menudo bajo abeto sobre suelo calizo, de julio a noviembre. En California fructifica desde finales de otoño hasta mediados del invierno bajo secuoya costera, pino de Monterrey, ciprés de Monterrey y otros árboles; más ampliamente en el oeste de Norteamérica aparece en verano, otoño y, en climas más cálidos, en invierno.",
+      "uses": "Es incomestible. La carne es extremadamente amarga, de modo que no se usa como alimento.",
+      "confusion": "Las especies pardo-rojizas de Tricholoma carecen del micelio basal blanco y denso, del sabor fuertemente amargo y de las esporas amiloides verrugosas. Leucopaxillus albissimus nunca es pardo hepático oscuro de joven, aunque los ejemplares decolorados son más difíciles de separar. Aspropaxillus giganteus es mucho mayor y típicamente pálido.",
+      "notes": "El sabor amargo se debe al triterpeno cucurbitacina B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Okas- ja segametsade varise lagundaja Euroopas, Põhja-Ameerika lääneosas, Kesk-Ameerikas ja Austraalias. Ta kasvab hajusalt, salkadena või kaarte ja rõngastena, eriti okkavarises. Euroopas viljakehad ilmuvad juulist novembrini, pehmemas lääne kliimas hilissügisest talve keskpaigani.",
+      "cap": "Kübar on tavaliselt 3–12 cm lai, vahel kuni 15 cm. Noorena on ta kumer sissesirutatud servaga, hiljem laialt kumer kuni peaaegu lame ning võib veidi sisse vajuda. Kuiv, matt pind on alguses tumedalt maksapruun, punakaspruun või kaneelpruun, serva suunas sageli kahvatum, ja võib tuhmuda helepruuniks; noorena võib pind tunduda peenelt seemisnahkne ning valminult on serv vahel nõrgalt vöödiline.",
+      "hymenium": "Eoeli plaadikesed on tihedad, kitsad ja kinnitunud või veidi väljalõigatud ning võivad veidi jala suunas allajooksvad olla. Need on alguses valged ja võivad muutuda kreemikaks ning eemalduvad kübaralt kihina. Lühikesed plaadikesed on sagedased.",
+      "stipe": "Jalg on tavaliselt 3–10 cm pikk ja 0,5–2,5 cm paks, ühtlane või aluse suunas veidi jämenenud (allikates mainitakse ka paksust kuni 4 või 4,5 cm). Ta on kuiv, valge ja paljas või nõrgalt jahune ning võib aluse suunas pruunistuda. Alus on tihedas, rohkearvulises valges seeneniidistikumatis. Katet ega rõngast ei ole.",
+      "flesh": "Lihakest on paks, kindel ja valge ning lõikel värvi ei muuda. Maitse on tugevalt kibe. Lõhn on jahune ja mõnede allikate järgi ebameeldiv, rääsunud-jahune või mahe kuni terav. KOH muutub oliviiniks pigmenteerunud kübarapinnal ja on tuhmunud kübaratel negatiivne.",
+      "sporePrint": "Eospulber on valge. Eosed on peaaegu ümmargused kuni laialt ellipsoidsed, nästulised või peenelt ogalised ja amüloidsed, umbes 4,5–6 × 3,5–5 µm (allikates ka 4–6 × 3–4 µm). Servatsüstiidid on olemas ja eri kujuga; külgtsüstiide ei ole.",
+      "habitat": "Ta kasvab hajusalt, salkadena või kaarte ja rõngastena maapinnal ning lagundab okaspuude, harvem lehtpuude, sealhulgas tamme, varist. Euroopas leidub teda okas- ja lehtmetsades, sageli kuuse all lubjarikkal mullal, juulist novembrini. Californias viljub ta hilissügisest talve keskpaigani ranniku-sekvoia, monterey männi, monterey küpressi ja teiste puude all; laiemalt Põhja-Ameerika lääneosas ilmub ta suvel, sügisel ning soojemas kliimas ka talvel.",
+      "uses": "Ta on söögikõlbmatu. Lihakest on äärmiselt kibe, seega toiduks teda ei kasutata.",
+      "confusion": "Punakaspruunidel Tricholoma liikidel puuduvad tihe valge basaalne seeneniidistik, tugevalt kibe maitse ja amüloidsed nästulised eosed. Leucopaxillus albissimus ei ole noorena kunagi tumedalt maksapruun, ehkki tuhmunud viljakehi on raskem eristada. Aspropaxillus giganteus on palju suurem ja tüüpiliselt kahvatu.",
+      "notes": "Kibeda maitse põhjustab triterpeen cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "تجزیه‌کنندهٔ لاشبرگ جنگل‌های سوزنی‌برگ و آمیخته در اروپا، غرب آمریکای شمالی، آمریکای مرکزی و استرالیا. پراکنده، دسته‌ای، یا به صورت کمان و حلقه رشد می‌کند، به‌ویژه در لاشبرگ سوزن‌ها. در اروپا از ژوئیه تا نوامبر میوه‌دهی دارد و در اقلیم‌های غربی ملایم‌تر از اواخر پاییز تا میانهٔ زمستان.",
+      "cap": "کلاهک معمولاً ۳–۱۲ سانتی‌متر پهنا دارد و گاه تا ۱۵ سانتی‌متر می‌رسد. در جوانی محدب با حاشیهٔ پیچ‌خورده است، سپس به‌طور گسترده محدب تا تقریباً تخت می‌شود و ممکن است اندکی فرورفته گردد. سطح خشک و مات ابتدا قهوه‌ای جگرگون تیره تا قهوه‌ای مایل به سرخ یا دارچینی است، اغلب به سوی حاشیه رنگ‌پریده‌تر، و ممکن است به قهوه‌ای روشن بگراید؛ در جوانی ممکن است مانند جیر نرم به نظر برسد و حاشیه در بلوغ گاه شیارهای ضعیفی دارد.",
+      "hymenium": "تیغه‌ها فشرده، باریک و چسبیده یا اندکی برآمده‌اند و گاه کمی روی ساقه پایین می‌روند. ابتدا سفیدند و ممکن است کرم‌رنگ شوند و می‌توان آن‌ها را به صورت لایه‌ای از کلاهک جدا کرد. تیغه‌های کوتاه فراوان‌اند.",
+      "stipe": "ساقه معمولاً ۳–۱۰ سانتی‌متر طول و ۰٫۵–۲٫۵ سانتی‌متر ضخامت دارد، یکنواخت یا کمی به سوی پایه پهن‌تر (منابع ضخامت تا ۴ یا ۴٫۵ سانتی‌متر را نیز ذکر کرده‌اند). خشک، سفید و بی‌کرک یا اندکی گردآلود است و ممکن است به سوی پایه قهوه‌ای شود. پایه در حصیر میسلیومی سفید، متراکم و فراوان فرو رفته است. پرده یا حلقه وجود ندارد.",
+      "flesh": "گوشت ضخیم، سفت و سفید است و هنگام برش رنگ عوض نمی‌کند. مزه بسیار تلخ است. بو آردی است و به گفتهٔ برخی منابع ناخوشایند، آردیِ تندشده، یا ملایم تا تند. KOH روی سطح رنگدانه‌دار کلاهک زیتونی می‌شود و روی کلاهک‌های رنگ‌باخته منفی است.",
+      "sporePrint": "اثر هاگ سفید است. هاگ‌ها تقریباً گرد تا بیضوی پهن، زگیلی یا ریزخاردار و آمیلوئیدی‌اند، حدود ۴٫۵–۶ × ۳٫۵–۵ میکرومتر (منابع ۴–۶ × ۳–۴ میکرومتر را نیز آورده‌اند). کیستیدی‌های لبه موجود و شکل‌شان متغیر است؛ کیستیدی‌های سطح تیغه وجود ندارد.",
+      "habitat": "پراکنده، گروهی، یا به صورت کمان و حلقه روی زمین می‌روید و لاشبرگ سوزنی‌برگان و کمتر پهن‌برگان، از جمله بلوط، را تجزیه می‌کند. در اروپا در جنگل‌های سوزنی‌برگ و پهن‌برگ، اغلب زیر نوئل روی خاک آهکی، از ژوئیه تا نوامبر یافت می‌شود. در کالیفرنیا از اواخر پاییز تا میانهٔ زمستان زیر سکویای ساحلی، کاج مونتری، سرو مونتری و درختان دیگر میوه می‌دهد؛ در گسترهٔ بزرگ‌تری از غرب آمریکای شمالی در تابستان، پاییز و در اقلیم گرم‌تر در زمستان نیز ظاهر می‌شود.",
+      "uses": "خوراکی نیست. گوشت بسیار تلخ است، بنابراین به عنوان غذا به کار نمی‌رود.",
+      "confusion": "گونه‌های قهوه‌ای مایل به سرخ Tricholoma میسلیوم پایه‌ای سفید و متراکم، مزهٔ بسیار تلخ و هاگ‌های زگیلی آمیلوئیدی ندارند. Leucopaxillus albissimus در جوانی هرگز قهوه‌ای جگرگون تیره نیست، هرچند نمونه‌های رنگ‌باخته سخت‌تر جدا می‌شوند. Aspropaxillus giganteus بسیار بزرگ‌تر و معمولاً رنگ‌پریده است.",
+      "notes": "مزهٔ تلخ ناشی از تری‌ترپن cucurbitacin B است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Karikkeen hajottaja havu- ja sekametsissä Euroopassa, läntisessä Pohjois-Amerikassa, Keski-Amerikassa ja Australiassa. Se kasvaa hajallaan, ryhmissä tai kaarina ja renkaina, etenkin neulaskarikkeessa. Euroopassa itiöemiä esiintyy heinäkuusta marraskuuhun, leudommassa lännessä myöhäissyksystä keskitalveen.",
+      "cap": "Laki on tavallisesti 3–12 cm leveä, joskus jopa 15 cm. Nuorena se on kupera ja laidasta sisäänkiertynyt, myöhemmin leveän kupera tai lähes litteä, ja se voi painua hieman kuopalle. Kuiva, himmeä pinta on aluksi tumman maksanruskea, punaruskea tai kanelinruskea, usein laidasta vaaleampi, ja se voi haalistua vaaleanruskeaksi; nuorena pinta voi tuntua hienolta mokkanahalta, ja laidassa voi täysikasvuisena olla heikkoja uurteita.",
+      "hymenium": "Heltat ovat tiheitä, kapeita ja kiinnittyneitä tai hieman lovipohjaisia ja voivat juosta hieman jalkaa pitkin. Ne ovat aluksi valkoisia ja voivat muuttua kermanvärisiksi, ja ne irtoavat lakista kerroksena. Lyhyitä helttoja on usein.",
+      "stipe": "Jalka on tavallisesti 3–10 cm pitkä ja 0,5–2,5 cm paksu, tasapaksu tai tyveä kohti hieman paksuuntunut (lähteissä mainitaan myös 4 tai 4,5 cm paksuus). Se on kuiva, valkoinen ja paljas tai heikosti jauheinen ja voi ruskettua tyveä kohti. Tyvi on upoksissa tiheässä, runsaassa valkoisessa rihmastomatossa. Suojus tai rengas puuttuu.",
+      "flesh": "Malto on paksua, kiinteää ja valkoista eikä muuta väriään leikattaessa. Maku on voimakkaan karvas. Tuoksu on jauhomainen ja joidenkin lähteiden mukaan epämiellyttävä, härskiin jauhomainen tai mieto tai pistävä. KOH muuttuu oliivinvihreäksi pigmentoituneella lakin pinnalla ja on negatiivinen haalistuneilla lakeilla.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat lähes pyöreitä tai leveän ellipsoidisia, nystermäisiä tai hienopiikkisiä ja amyloideja, noin 4,5–6 × 3,5–5 µm (lähteissä myös 4–6 × 3–4 µm). Reunasystidit ovat vaihtelevan muotoisia; sivusystidejä ei ole.",
+      "habitat": "Se kasvaa hajallaan, ryhmissä tai kaarina ja renkaina maassa ja hajottaa havupuiden, harvemmin lehtipuiden, myös tammen, kariketta. Euroopassa sitä tavataan havu- ja lehtimetsissä, usein kuusen alla kalkkipitoisella maalla, heinäkuusta marraskuuhun. Kaliforniassa se esiintyy myöhäissyksystä keskitalveen rannikon mammuttipuun, montereynmännyn, montereynsypressin ja muiden puiden alla; laajemmin läntisessä Pohjois-Amerikassa se esiintyy kesällä, syksyllä ja lämpimämmässä ilmastossa myös talvella.",
+      "uses": "Se on syötäväksi kelpaamaton. Malto on erittäin karvasta, joten sitä ei käytetä ravinnoksi.",
+      "confusion": "Punaruskeilta Tricholoma-lajeilta puuttuvat tiheä valkoinen tyvirihmasto, voimakkaan karvas maku ja amyloidit nystermäiset itiöt. Leucopaxillus albissimus ei ole nuorena tumman maksanruskea, vaikka haalistuneita itiöemiä on vaikeampi erottaa. Aspropaxillus giganteus on paljon kookkaampi ja tyypillisesti vaalea.",
+      "notes": "Karvaan maun aiheuttaa triterpeeni cucurbitacin B.",
+      "names": [
+        "karvasvalmuska"
+      ],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Karvasvalmukka",
+        "https://www.wikidata.org/wiki/Q3913757",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "karvasvalmukka"
+    },
+    "fr": {
+      "description": "Un décomposeur de litière des bois de conifères et des bois mixtes en Europe, dans l’ouest de l’Amérique du Nord, en Amérique centrale et en Australie. Il pousse de façon disséminée, en troupes ou en arcs et en ronds, surtout dans la litière d’aiguilles. En Europe il fructifie de juillet à novembre, et dans les climats occidentaux plus doux de la fin de l’automne jusqu’au milieu de l’hiver.",
+      "cap": "Le chapeau mesure typiquement 3–12 cm de diamètre, parfois jusqu’à 15 cm. Il est convexe à marge enroulée chez les jeunes, puis largement convexe à presque plan, et peut devenir légèrement déprimé. La surface sèche et mate est d’abord brun foie foncé à brun rougeâtre ou cannelle, souvent plus pâle vers la marge, et peut pâlir vers le fauve; elle peut sembler finement suédée chez les jeunes, et la marge est parfois faiblement striée à maturité.",
+      "hymenium": "Les lames sont serrées, étroites et adnées ou légèrement échancrées, et peuvent être un peu décurrentes le long du pied. Elles sont d’abord blanches et peuvent devenir crème, et se détachent du chapeau en une couche. Les lamelles intermédiaires sont fréquentes.",
+      "stipe": "Le pied mesure typiquement 3–10 cm de long et 0,5–2,5 cm d’épaisseur, égal ou légèrement élargi vers la base (certaines sources donnent aussi une épaisseur jusqu’à 4 ou 4,5 cm). Il est sec, blanc et glabre ou faiblement pruineux, et peut brunir vers la base. La base est enchâssée dans un tapis mycélien blanc, dense et abondant. Il n’y a ni voile ni anneau.",
+      "flesh": "La chair est épaisse, ferme et blanche, et ne change pas de couleur à la coupe. La saveur est fortement amère. L’odeur est farineuse et, selon certaines sources, désagréable, rance-farineuse, ou faible à piquante. La KOH vire à l’olive sur les surfaces pigmentées du chapeau et est négative sur les chapeaux décolorés.",
+      "sporePrint": "La sporée est blanche. Les spores sont presque rondes à largement ellipsoïdes, verruqueuses ou finement épineuses, et amyloïdes, d’environ 4,5–6 × 3,5–5 µm (certaines sources donnent aussi 4–6 × 3–4 µm). Des cheilocystides de forme variable sont présentes; les pleurocystides manquent.",
+      "habitat": "Il pousse de façon disséminée, grégaire, ou en arcs et en ronds sur le sol, où il décompose la litière des conifères et, plus rarement, des feuillus, y compris le chêne. En Europe on le trouve dans les bois de conifères et de feuillus, souvent sous épicéa sur sol calcaire, de juillet à novembre. En Californie il fructifie de la fin de l’automne au milieu de l’hiver sous séquoia côtier, pin de Monterey, cyprès de Monterey et d’autres arbres; plus largement dans l’ouest de l’Amérique du Nord il apparaît en été, en automne et, dans les climats plus chauds, en hiver.",
+      "uses": "Il est immangeable. La chair est extrêmement amère, aussi n’est-il pas utilisé comme aliment.",
+      "confusion": "Les Tricholoma brun-rouge n’ont pas le mycélium basal blanc et dense, la saveur fortement amère, ni les spores amyloïdes verruqueuses. Leucopaxillus albissimus n’est jamais brun foie foncé chez les jeunes, même si les spécimens décolorés sont plus difficiles à séparer. Aspropaxillus giganteus est beaucoup plus grand et typiquement pâle.",
+      "notes": "La saveur amère est due au triterpène cucurbitacine B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "leucopaxille amer"
+    },
+    "he": {
+      "description": "מפרק שכבת נשר של יערות מחטניים ומעורבים באירופה, במערב צפון אמריקה, במרכז אמריקה ובאוסטרליה. הוא גדל מפוזר, בקבוצות או בקשתות ובטבעות, בייחוד בנשר מחטים. באירופה הוא מניב מיולי עד נובמבר, ובאקלים מערבי מתון יותר מסוף הסתיו עד אמצע החורף.",
+      "cap": "הכובע בדרך כלל ברוחב 3–12 ס\"מ, ולעתים עד 15 ס\"מ. בצעירותו הוא קמור ושוליו מגולגלים פנימה, אחר כך קמור לרוחב עד כמעט שטוח, ועשוי לשקוע מעט. המשטח היבש והעמום הוא תחילה חום כבד כהה עד חום־אדמדם או קינמוני, לעתים קרובות חיוור יותר לכיוון השוליים, ועשוי לדהות לחום בהיר; בצעירותו הוא עשוי להרגיש כמו זמש עדין, והשוליים בשלות לפעמים מסומנים בקווים חלשים.",
+      "hymenium": "הדפים צפופים, צרים ומחוברים או מחורצים מעט, ולפעמים יורדים מעט לאורך הרגל. תחילה הם לבנים ועשויים להפוך לקרם, וניתן לקלף אותם מהכובע כשכבה. דפים קצרים שכיחים.",
+      "stipe": "הרגל בדרך כלל באורך 3–10 ס\"מ ובעובי 0.5–2.5 ס\"מ, שווה או מתרחבת מעט כלפי הבסיס (מקורות מציינים גם עובי של עד 4 או 4.5 ס\"מ). היא יבשה, לבנה וקרחת או אבקית במעט, ועשויה להשחים כלפי הבסיס. הבסיס שקוע בשטיח תפטיר לבן, צפוף ושופע. אין מעטה ואין טבעת.",
+      "flesh": "הבשר עבה, יציב ולבן ואינו משנה צבע בחיתוך. הטעם מר מאוד. הריח קמחי, ולפי מקורות אחדים בלתי נעים, קמחי מעופש, או עדין עד חריף. KOH הופך לזיתי על משטחי כובע פיגמנטיים ושלילי על כובעים דהוים.",
+      "sporePrint": "טביעת הנבגים לבנה. הנבגים כמעט עגולים עד אליפסואידיים רחבים, יבלתיים או קוצניים בעדינות, ואמילואידיים, כ־4.5–6 × 3.5–5 µm (מקורות מציינים גם 4–6 × 3–4 µm). קיימים כיילוציסטידים בצורות משתנות; פלאוֹרוציסטידים חסרים.",
+      "habitat": "הוא גדל מפוזר, בקבוצות או בקשתות ובטבעות על הקרקע, ומפרק נשר של מחטניים ופחות של רחבי עלים, כולל אלון. באירופה הוא מצוי ביערות מחטניים ורחבי עלים, לעתים קרובות תחת אשוחית על קרקע גירית, מיולי עד נובמבר. בקליפורניה הוא מניב מסוף הסתיו עד אמצע החורף תחת סקוויה חופית, אורן מונטריי, ברוש מונטריי ועצים אחרים; במערב צפון אמריקה באופן רחב יותר הוא מופיע בקיץ, בסתיו, ובאקלים חם יותר גם בחורף.",
+      "uses": "אינו ראוי למאכל. הבשר מר ביותר, ולכן אינו משמש כמזון.",
+      "confusion": "למיני Tricholoma חומים־אדמדמים חסרים התפטיר הבסיסי הלבן והצפוף, הטעם המר מאוד והנבגים היבלתיים האמילואידיים. Leucopaxillus albissimus אינו חום כבד כהה בצעירותו לעולם, אף שגופים פוריים דהוים קשים יותר להפרדה. Aspropaxillus giganteus גדול הרבה יותר ובדרך כלל חיוור.",
+      "notes": "הטעם המר נגרם על ידי הטריטרפן cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यूरोप, पश्चिमी उत्तर अमेरिका, मध्य अमेरिका और ऑस्ट्रेलिया के शंकुधारी तथा मिश्रित वनों में गिरे पत्तों-सुइयों का विघटन करने वाला कवक। यह बिखरा हुआ, झुंडों में, या चापों और छल्लों में उगता है, विशेषकर सुई-गिरे कूड़े में। यूरोप में यह जुलाई से नवंबर तक फलता है, और हल्की पश्चिमी जलवायु में देर पतझड़ से मध्य सर्दी तक।",
+      "cap": "टोपी आमतौर पर 3–12 सेमी चौड़ी होती है, कभी-कभी 15 सेमी तक। युवा अवस्था में किनारा अंदर मुड़ा हुआ और उभरी होती है, बाद में चौड़ी उभरी से लगभग चपटी हो जाती है, और थोड़ी धँसी भी हो सकती है। सूखी, मंद सतह पहले गहरे यकृत-भूरे से लाल-भूरे या दालचीनी-भूरे रंग की होती है, किनारे की ओर अक्सर हल्की, और फीकी भूरे रंग में उतर सकती है; युवा में यह बारीक साबर जैसी लग सकती है, और परिपक्व अवस्था में किनारा कभी-कभी हल्की रेखाओं वाला होता है।",
+      "hymenium": "गिल घनी, संकरी और जुड़ी हुई या थोड़ी कटी होती हैं, और कभी-कभी तने पर थोड़ी नीचे उतरती हैं। पहले सफेद होती हैं और क्रीम रंग की हो सकती हैं, तथा परत के रूप में टोपी से उतारी जा सकती हैं। छोटी गिल अक्सर होती हैं।",
+      "stipe": "तना आमतौर पर 3–10 सेमी लंबा और 0.5–2.5 सेमी मोटा होता है, बराबर या आधार की ओर थोड़ा मोटा (स्रोतों में 4 या 4.5 सेमी मोटाई भी दी गई है)। यह सूखा, सफेद और नंगा या हल्का चूर्णिल होता है, और आधार की ओर भूरा हो सकता है। आधार घने, प्रचुर सफेद कवकजाल गलीचे में धँसा रहता है। आवरण या वलय नहीं होता।",
+      "flesh": "मांस मोटा, ठोस और सफेद होता है और काटने पर रंग नहीं बदलता। स्वाद तीव्र कड़वा होता है। गंध आटे जैसी होती है, और कुछ स्रोतों के अनुसार अप्रिय, बासी-आटे जैसी, या हल्की से तीखी। KOH रंगयुक्त टोपी सतह पर जैतूनी हो जाता है और फीकी टोपियों पर ऋणात्मक रहता है।",
+      "sporePrint": "बीजाणु-छाप सफेद होती है। बीजाणु लगभग गोल से चौड़े दीर्घवृत्ताकार, मस्सेदार या बारीक काँटेदार और अमाइलॉइड होते हैं, लगभग 4.5–6 × 3.5–5 µm (स्रोतों में 4–6 × 3–4 µm भी दिया गया है)। किनारे की सिस्टिडिया मौजूद और आकार में परिवर्तनशील हैं; पार्श्व सिस्टिडिया नहीं होतीं।",
+      "habitat": "यह भूमि पर बिखरा, झुंडों में, या चापों और छल्लों में उगता है और शंकुधारी तथा कम अक्सर चौड़ी पत्ती वाले वृक्षों, जिनमें ओक भी है, के कूड़े का विघटन करता है। यूरोप में यह शंकुधारी और चौड़ी पत्ती वाले वनों में, अक्सर चूनायुक्त मिट्टी पर स्प्रूस के नीचे, जुलाई से नवंबर तक पाया जाता है। कैलिफोर्निया में यह देर पतझड़ से मध्य सर्दी तक तटीय सिकोया, मॉन्टेरे पाইন, मॉन्टेरे सरू और अन्य वृक्षों के नीचे फलता है; पश्चिमी उत्तर अमेरिका में व्यापक रूप से यह ग्रीष्म, पतझड़ और गर्म जलवायु में शीत में भी दिखाई देता है।",
+      "uses": "यह अखाद्य है। मांस अत्यंत कड़वा होता है, इसलिए भोजन के रूप में प्रयोग नहीं किया जाता।",
+      "confusion": "लाल-भूरे Tricholoma जातियों में घना सफेद आधारीय कवकजाल, तीव्र कड़वा स्वाद और अमाइलॉइड मस्सेदार बीजाणु नहीं होते। Leucopaxillus albissimus युवा अवस्था में कभी गहरा यकृत-भूरा नहीं होता, यद्यपि फीके फलन-शरीरों को अलग करना कठिन होता है। Aspropaxillus giganteus बहुत बड़ा और आमतौर पर फिका होता है।",
+      "notes": "कड़वा स्वाद ट्राइटरपीन cucurbitacin B के कारण होता है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Razlagač stelje crnogoričnih i mješovitih šuma u Europi, na zapadu Sjeverne Amerike, u Srednjoj Americi i u Australiji. Raste raspršeno, u skupinama ili u lukovima i prstenovima, osobito u igličastoj stelji. U Europi plodišta rastu od srpnja do studenoga, a u blaže zapadnoj klimi od kasne jeseni do sredine zime.",
+      "cap": "Klobuk je obično 3–12 cm širok, ponekad do 15 cm. U mladosti je ispupčen sa zavijenim rubom, poslije široko ispupčen do gotovo ravan i može biti malo udubljen. Suha, mat površina najprije je tamno jetrene smeđa do crvenosmeđa ili cimetasta, prema rubu često svjetlija, i može izblijedjeti do blijedosmeđe; u mladosti može izgledati fino antilopasta, a rub je u zrelosti ponekad slabo narebran.",
+      "hymenium": "Listići su gusti, uski i prirasli ili slabo izrezani te ponekad malo silaze niz stručak. Najprije su bijeli i mogu postati kremasti, a od klobuka se mogu odvojiti kao sloj. Kratki listići su česti.",
+      "stipe": "Stručak je obično 3–10 cm dug i 0,5–2,5 cm debeo, jednak ili prema dnu slabo zadebljan (izvori navode i debljinu do 4 ili 4,5 cm). Suh je, bijel i gol ili slabo prašnjav i prema dnu može smeđiti. Dno je uronjeno u gustu, obilnu bijelu micelijsku prostirku. Nema vela ni prstena.",
+      "flesh": "Meso je debelo, čvrsto i bijelo i pri presjeku ne mijenja boju. Okus je jako gorak. Miris je brašnast, a prema nekim izvorima neugodan, užeglo brašnast ili blag do oštar. KOH na pigmentiranoj površini klobuka postaje maslinast, a na izblijedjelim klobucima je negativan.",
+      "sporePrint": "Otisak spora je bijel. Spore su gotovo okrugle do široko elipsoidne, bradavičaste ili fino bodljikave i amiloidne, oko 4,5–6 × 3,5–5 µm (izvori navode i 4–6 × 3–4 µm). Heilokistide su prisutne i različitih oblika; plevrokistida nema.",
+      "habitat": "Raste raspršeno, u skupinama ili u lukovima i prstenovima na tlu, rasgrađujući stelju crnogorice i rjeđe bjelogorice, uključujući hrast. U Europi se javlja u crnogoričnim i bjelogoričnim šumama, često pod smrekom na vapnenastom tlu, od srpnja do studenoga. U Kaliforniji plodi od kasne jeseni do sredine zime pod obalnom sekvojom, montereyskim borom, montereyskim čempresom i drugim stablima; šire na zapadu Sjeverne Amerike javlja se ljeti, u jesen, a u toplijoj klimi i zimi.",
+      "uses": "Nije jestiva. Meso je izrazito gorko, stoga se ne rabi kao hrana.",
+      "confusion": "Crvenosmeđim vrstama roda Tricholoma nedostaju gusto bijelo bazalno podgljivlje, jako gorak okus i amiloidne bradavičaste spore. Leucopaxillus albissimus u mladosti nikad nije tamno jetrene smeđ, iako je izblijedjele plodišta teže razlikovati. Aspropaxillus giganteus znatno je veći i tipično blijed.",
+      "notes": "Gorki okus uzrokuje triterpen cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Tűlevelű és elegyes erdők avarlebontója Európában, Észak-Amerika nyugati részén, Közép-Amerikában és Ausztráliában. Elszórtan, csapatokban vagy ívekben és gyűrűkben nő, főként tűavarban. Európában júliustól novemberig terem, enyhébb nyugati éghajlaton a késő ősztől a tél közepéig.",
+      "cap": "A kalap általában 3–12 cm széles, néha 15 cm-ig. Fiatalon domború, begöngyölt széllel, később szélesen domború vagy csaknem lapos, és kissé bemélyedhet. A száraz, matt felszín eleinte sötét májvörösbarna, vörösbarna vagy fahéjbarna, a szél felé gyakran világosabb, és fakóbarnára fakulhat; fiatalon finoman velúrszerű lehet, a szél éretten néha gyengén bordázott.",
+      "hymenium": "A lemezek sűrűn állók, keskenyek, tönkhöz nőttek vagy kissé kivágottak, és néha kissé lefutók. Először fehérek, később krémszínűek lehetnek, és rétegként lehúzhatók a kalapról. Rövid lemezek gyakoriak.",
+      "stipe": "A tönk általában 3–10 cm hosszú és 0,5–2,5 cm vastag, hengeres vagy a töve felé kissé vastagodó (egyes források 4 vagy 4,5 cm vastagságot is említenek). Száraz, fehér, kopasz vagy gyengén deres, a töve felé barnulhat. A töve sűrű, bőséges fehér micéliumszőnyegbe ágyazódik. Nincs burok vagy gallér.",
+      "flesh": "A hús vastag, tömör és fehér, vágáskor nem változtatja a színét. Íze erősen keserű. Szaga lisztes, egyes források szerint kellemetlen, avas-lisztes, vagy enyhe vagy szúrós. A KOH olívzöldre színeződik a pigmentált kalapfelszínen, a kifakult kalapon negatív.",
+      "sporePrint": "A spórapor fehér. A spórák csaknem gömbölyűek vagy szélesen ellipszoidok, szemölcsösek vagy finoman tüskések és amiloidok, körülbelül 4,5–6 × 3,5–5 µm (egyes források 4–6 × 3–4 µm-t is említenek). A cheilocystidiumok jelen vannak és változó alakúak; pleurocystidiumok nincsenek.",
+      "habitat": "Elszórtan, csoportosan vagy ívekben és gyűrűkben nő a talajon, és a tűlevelűek, ritkábban a lomblevelűek – köztük a tölgy – avarját bontja. Európában fenyvesekben és lombos erdőkben, gyakran luc alatt, meszes talajon található, júliustól novemberig. Kaliforniában a késő ősztől a tél közepéig terem parti mamutfenyő, monterey-i fenyő, monterey-i ciprus és más fák alatt; Észak-Amerika tágabb nyugati részén nyáron, ősszel, melegebb éghajlaton pedig télen is megjelenik.",
+      "uses": "Étkezésre alkalmatlan. A hús rendkívül keserű, ezért ételként nem használják.",
+      "confusion": "A vörösbarna Tricholoma-fajokból hiányzik a sűrű fehér bazális micélium, az erősen keserű íz és az amiloid, szemölcsös spórák. A Leucopaxillus albissimus soha nem sötét májvörösbarna fiatalon, bár a kifakult termőtesteket nehezebb elkülöníteni. Az Aspropaxillus giganteus sokkal nagyobb és jellemzően sápadt.",
+      "notes": "A keserű ízt a cucurbitacin B nevű triterpén okozza.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Keserű_álpereszke",
+        "https://www.wikidata.org/wiki/Q3913757",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "keserű álpereszke"
+    },
+    "id": {
+      "description": "Pengurai serasah hutan konifer dan hutan campuran di Eropa, Amerika Utara bagian barat, Amerika Tengah, dan Australia. Tumbuh tersebar, bergerombol, atau dalam busur dan cincin, terutama pada serasah jarum. Di Eropa ia berbuah dari Juli hingga November, dan di iklim barat yang lebih lembut dari akhir musim gugur hingga pertengahan musim dingin.",
+      "cap": "Tudung biasanya berdiameter 3–12 cm, kadang hingga 15 cm. Ketika muda cembung dengan tepi menggulung, kemudian cembung lebar hingga hampir datar, dan dapat sedikit cekung. Permukaan kering dan buram mula-mula cokelat hati gelap hingga cokelat kemerahan atau cokelat kayu manis, sering lebih pucat ke arah tepi, dan dapat memudar menjadi cokelat muda; ketika muda dapat terasa seperti suede halus, dan tepi kadang beralur samar saat dewasa.",
+      "hymenium": "Insang rapat, sempit, dan melekat atau sedikit takik, kadang merunduk sedikit di sepanjang batang. Mula-mula putih dan dapat menjadi krem, serta dapat dikupas dari tudung sebagai suatu lapisan. Insang pendek sering ada.",
+      "stipe": "Batang biasanya 3–10 cm panjangnya dan 0,5–2,5 cm tebalnya, sama besar atau sedikit membesar ke arah pangkal (sumber juga menyebutkan ketebalan hingga 4 atau 4,5 cm). Kering, putih, dan gundul atau sedikit bertepung, dan dapat mengcokelat ke arah pangkal. Pangkal tertanam dalam hamparan miselium putih yang rapat dan berlimpah. Tidak ada seludang atau cincin.",
+      "flesh": "Daging tebal, padat, dan putih, serta tidak berubah warna ketika dipotong. Rasa sangat pahit. Bau seperti tepung, dan menurut beberapa sumber tidak sedap, tengik-tepung, atau lemah hingga tajam. KOH menjadi zaitun pada permukaan tudung yang berpigmen dan negatif pada tudung yang pudar.",
+      "sporePrint": "Cetakan spora berwarna putih. Spora hampir bulat hingga elipsoid lebar, berbintil atau berduri halus, dan amiloid, sekitar 4,5–6 × 3,5–5 µm (sumber juga menyebutkan 4–6 × 3–4 µm). Kheilosistidia ada dan bentuknya beragam; pleurosistidia tidak ada.",
+      "habitat": "Tumbuh tersebar, bergerombol, atau dalam busur dan cincin di tanah, menguraikan serasah konifer dan, lebih jarang, pohon daun lebar termasuk ek. Di Eropa dijumpai di hutan konifer dan hutan daun, sering di bawah cemara pada tanah berkapur, dari Juli hingga November. Di California ia berbuah dari akhir musim gugur hingga pertengahan musim dingin di bawah sequoia pantai, pinus Monterey, sipres Monterey, dan pohon lain; lebih luas di Amerika Utara bagian barat ia muncul pada musim panas, musim gugur, dan, di iklim yang lebih hangat, musim dingin.",
+      "uses": "Tidak dapat dimakan. Dagingnya sangat pahit, sehingga tidak digunakan sebagai makanan.",
+      "confusion": "Spesies Tricholoma cokelat kemerahan tidak memiliki miselium basal putih yang rapat, rasa yang sangat pahit, maupun spora berbintil yang amiloid. Leucopaxillus albissimus tidak pernah berwarna cokelat hati gelap ketika muda, meskipun tubuh buah yang pudar lebih sulit dipisahkan. Aspropaxillus giganteus jauh lebih besar dan biasanya pucat.",
+      "notes": "Rasa pahit disebabkan oleh triterpena cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un decompositore della lettiera dei boschi di conifere e misti in Europa, nell’ovest del Nord America, in America Centrale e in Australia. Cresce sparso, a gruppi o in archi e anelli, soprattutto nella lettiera di aghi. In Europa fruttifica da luglio a novembre, e nei climi occidentali più miti dal tardo autunno a metà inverno.",
+      "cap": "Il cappello misura di solito 3–12 cm di diametro, talvolta fino a 15 cm. È convesso con il margine involuto da giovane, poi ampiamente convesso fino a quasi piano, e può divenire lievemente depresso. La superficie secca e opaca è dapprima bruno fegato scuro, bruno-rossastra o cannella, spesso più chiara verso il margine, e può sbiadire verso il fulvo; da giovane può sembrare finemente scamosciata, e il margine a maturità è talvolta debolmente striato.",
+      "hymenium": "Le lamelle sono fitte, strette e adnate o lievemente smarginate, e a volte decorrono un poco sul gambo. All’inizio sono bianche e possono divenire crema, e si staccano dal cappello a strato. Le lamellule sono frequenti.",
+      "stipe": "Il gambo misura di solito 3–10 cm di lunghezza e 0,5–2,5 cm di spessore, uguale o lievemente allargato verso la base (alcune fonti indicano anche uno spessore fino a 4 o 4,5 cm). È secco, bianco e glabro o debolmente pruinoso, e può macchiarsi di bruno verso la base. La base è immersa in un denso e copioso tappeto miceliare bianco. Non vi sono velo né anello.",
+      "flesh": "La carne è spessa, soda e bianca e non cambia colore al taglio. Il sapore è fortemente amaro. L’odore è farinoso e, secondo alcune fonti, sgradevole, rancido-farinoso, oppure lieve o pungente. Il KOH vira all’olivastro sulle superfici pigmentate del cappello ed è negativo sui cappelli scoloriti.",
+      "sporePrint": "La sporata è bianca. Le spore sono quasi rotonde o ampiamente ellissoidi, verrucose o finemente spinose, e amiloidi, di circa 4,5–6 × 3,5–5 µm (alcune fonti indicano anche 4–6 × 3–4 µm). I cheilocistidi sono presenti e di forma variabile; i pleurocistidi mancano.",
+      "habitat": "Cresce sparso, gregario o in archi e anelli sul terreno, decomponendo la lettiera di conifere e, più raramente, di latifoglie, inclusa la quercia. In Europa si trova nei boschi di conifere e di latifoglie, spesso sotto abete su suolo calcareo, da luglio a novembre. In California fruttifica dal tardo autunno a metà inverno sotto sequoia costiera, pino di Monterey, cipresso di Monterey e altri alberi; più ampiamente nell’ovest del Nord America compare in estate, in autunno e, nei climi più caldi, in inverno.",
+      "uses": "È immangiabile. La carne è estremamente amara, perciò non viene usata come cibo.",
+      "confusion": "Le specie bruno-rossastre di Tricholoma sono prive del micelio basale bianco e denso, del sapore fortemente amaro e delle spore amiloidi verrucose. Leucopaxillus albissimus non è mai bruno fegato scuro da giovane, anche se gli esemplari scoloriti sono più difficili da separare. Aspropaxillus giganteus è molto più grande e tipicamente pallido.",
+      "notes": "Il sapore amaro è dovuto al triterpene cucurbitacina B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ヨーロッパ、北アメリカ西部、中央アメリカ、オーストラリアの針葉樹林および混交林に生じるリター分解菌。散生し、群れ、弧や輪になって、とくに針葉の堆積の中に出る。ヨーロッパでは7月から11月、より温和な西部の気候では晩秋から真冬にかけて子実体を作る。",
+      "cap": "傘はふつう直径3–12 cm、ときに15 cmまで。若いときは縁が内巻きの饅頭形、のちに広く饅頭形からほぼ平らになり、やや中凹むこともある。乾燥したつやのない表面は初め暗い肝臓褐色から赤褐色またはシナモン褐色で、縁に向かって淡いことが多く、淡黄褐色に褪せることもある。若いときは細かいスエード状に触れ、成熟すると縁に弱い条線が出ることがある。",
+      "hymenium": "ひだは密、狭く、直生またはわずかに湾生で、柄にやや垂生することもある。初めは白く、クリーム色になることがあり、層として傘から剥がせる。短いひだはふつう見られる。",
+      "stipe": "柄はふつう長さ3–10 cm、太さ0.5–2.5 cm、上下同大か基部に向かってわずかに太い（資料によっては太さ4または4.5 cmともされる）。乾燥し、白く、無毛またはわずかに粉状で、基部に向かって褐変することがある。基部は密で豊富な白い菌糸マットに埋まる。つぼやつばはない。",
+      "flesh": "肉は厚く、堅く、白く、切っても変色しない。味は強く苦い。匂いは粉状で、資料によっては不快、酸敗した粉臭、または弱い〜刺激的とされる。KOHは色素のある傘の表面でオリーブ色になり、褪せた傘では陰性である。",
+      "sporePrint": "胞子紋は白色。胞子はほぼ球形〜幅広い楕円形、疣状または細かい刺状でアミロイド、およそ4.5–6 × 3.5–5 µm（資料によっては4–6 × 3–4 µm）。縁シスチジアはあり形はさまざま、側シスチジアはない。",
+      "habitat": "地上に散生、群生、または弧や輪になって生じ、針葉樹、よりまれにナラを含む広葉樹のリターを分解する。ヨーロッパでは針葉樹林および広葉樹林に、しばしば石灰質土壌のトウヒの下に、7月から11月に見られる。カリフォルニアでは晩秋から真冬にかけてコーストレッドウッド、モントレーマツ、モントレーサイプレスなどの下に出る。北アメリカ西部ではより広く、夏、秋、温暖な気候では冬にも現れる。",
+      "uses": "食用に適さない。肉はきわめて苦いため、食用には用いられない。",
+      "confusion": "赤褐色のTricholomaは、密な白い基部菌糸、強く苦い味、アミロイドの疣状胞子を欠く。Leucopaxillus albissimusは若いときに暗い肝臓褐色になることはないが、褪せた子実体は区別しにくい。Aspropaxillus giganteusはずっと大型で、ふつう淡色である。",
+      "notes": "苦い味はトリテルペンのcucurbitacin Bによる。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "유럽, 북아메리카 서부, 중앙아메리카, 오스트레일리아의 침엽수림과 혼효림에서 낙엽을 분해하는 균이다. 흩어지거나 무리를 이루거나 호와 고리 모양으로, 특히 침엽 낙엽층에서 난다. 유럽에서는 7월부터 11월까지, 더 온화한 서부 기후에서는 늦은 가을부터 한겨울까지 자실체를 만든다.",
+      "cap": "갓은 보통 지름 3–12 cm이며 때로는 15 cm에 이른다. 어릴 때는 가장자리가 안쪽으로 말린 볼록형이고, 나중에 넓게 볼록하거나 거의 편평해지며 약간 오목해질 수 있다. 건조하고 광택 없는 표면은 처음에는 어두운 간갈색에서 적갈색 또는 계피갈색이며, 가장자리 쪽으로 더 옅은 경우가 많고 황갈색으로 바랠 수 있다. 어릴 때는 가는 스웨이드처럼 느껴질 수 있고, 성숙하면 가장자리에 약한 줄무늬가 생기기도 한다.",
+      "hymenium": "주름은 빽빽하고 좁으며 붙은형이거나 약간 홈이 파이고, 때로 대를 따라 조금 내려온다. 처음에는 하얗고 크림색이 될 수 있으며, 층으로 갓에서 벗겨낼 수 있다. 짧은 주름이 흔하다.",
+      "stipe": "대는 보통 길이 3–10 cm, 굵기 0.5–2.5 cm로, 굵기가 고르거나 밑동 쪽으로 약간 두꺼워진다(자료에 따라 굵기 4 또는 4.5 cm로도 나온다). 건조하고 하얗며 털이 없거나 가루가 약간 있고, 밑동 쪽으로 갈변할 수 있다. 밑동은 촘촘하고 풍부한 흰색 균사 매트에 묻혀 있다. 피막이나 고리는 없다.",
+      "flesh": "살은 두껍고 단단하며 하얗고, 잘라도 색이 변하지 않는다. 맛은 강하게 쓰다. 냄새는 밀가루 같으며, 일부 자료에서는 불쾌하거나 산패한 밀가루 냄새, 또는 약하거나 자극적이라고 한다. KOH는 색소가 있는 갓 표면에서 올리브색으로 변하고, 바랜 갓에서는 음성이다.",
+      "sporePrint": "포자무늬는 흰색이다. 포자는 거의 둥글거나 넓게 타원형이고, 사마귀 모양이거나 잔가시가 있으며 아밀로이드성이고, 약 4.5–6 × 3.5–5 µm이다(자료에 따라 4–6 × 3–4 µm). 주름날시스티디아는 있으며 모양이 다양하고, 주름면시스티디아는 없다.",
+      "habitat": "땅 위에 흩어지거나 무리를 이루거나 호와 고리 모양으로 나며, 침엽수와 드물게는 참나무를 포함한 활엽수의 낙엽을 분해한다. 유럽에서는 침엽수림과 활엽수림에서, 흔히 석회질 토양의 가문비나무 아래에서 7월부터 11월까지 나타난다. 캘리포니아에서는 늦은 가을부터 한겨울까지 해안 세쿼이아, 몬터레이소나무, 몬터레이사이프러스 등 나무 아래에서 열매를 맺고, 북아메리카 서부 더 넓은 지역에서는 여름, 가을, 따뜻한 기후에서는 겨울에도 나타난다.",
+      "uses": "식용할 수 없다. 살이 매우 써서 음식으로 쓰이지 않는다.",
+      "confusion": "적갈색 Tricholoma 종들은 촘촘한 흰색 기부 균사, 강하게 쓴맛, 아밀로이드성 사마귀 포자가 없다. Leucopaxillus albissimus는 어릴 때 어두운 간갈색이 되지 않지만, 바랜 자실체는 구분하기 더 어렵다. Aspropaxillus giganteus는 훨씬 크고 보통 옅은색이다.",
+      "notes": "쓴맛은 트리테르펜인 cucurbitacin B 때문이다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Spygliuočių ir mišriųjų miškų paklotės skaidytojas Europoje, vakarinėje Šiaurės Amerikoje, Centrinėje Amerikoje ir Australijoje. Auga pavieniui, būreliais arba lankais ir žiedais, ypač spyglių paklotėje. Europoje dera nuo liepos iki lapkričio, švelnesniame vakarų klimate – nuo vėlyvo rudens iki žiemos vidurio.",
+      "cap": "Kepurėlė paprastai 3–12 cm skersmens, kartais iki 15 cm. Jauna būna iškili su užsirietusiu kraštu, vėliau plačiai iškili ar beveik plokščia ir gali šiek tiek įdubti. Sausas, matinis paviršius iš pradžių tamsiai kepeninis rudas, rausvai rudas ar cinamoninis, krašto link dažnai šviesesnis ir gali nublankti iki gelsvai rudo; jaunas gali būti smulkiai zomšinis, o prinokęs kraštas kartais silpnai raukšlėtas.",
+      "hymenium": "Lakšteliai tankūs, siauri ir priaugtiniai arba silpnai iškarpinti, kartais truputį nuaugę kotu. Iš pradžių balti, vėliau gali tapti gelsvai kreminiai ir nuo kepurėlės atsiskiria sluoksniu. Trumpųjų lakštelių pasitaiko dažnai.",
+      "stipe": "Kotas paprastai 3–10 cm ilgio ir 0,5–2,5 cm storio, lygus arba šiek tiek storesnis prie pagrindo (šaltiniuose minimas ir 4 ar 4,5 cm storis). Jis sausas, baltas ir plikas arba silpnai apsibarstęs ir prie pagrindo gali ruduoti. Pagrindas įsiterpęs į tankų, gausų baltą grybienos kilimą. Dangalo ir žiedo nėra.",
+      "flesh": "Mėsa stora, kieta ir balta ir perpjauta spalvos nekeičia. Skonis stipriai kartus. Kvapas miltinis, o kai kuriuose šaltiniuose nemalonus, svilus miltinis arba silpnas iki aštraus. KOH pigmentuotą kepurėlės paviršių nudažo alyvuogiškai, o nublukusiose kepurėlėse reakcija neigiama.",
+      "sporePrint": "Sporų milteliai balti. Sporos beveik apvalios ar plačiai elipsoidinės, karpotos arba smulkiai dygliuotos ir amiloidinės, apie 4,5–6 × 3,5–5 µm (šaltiniuose taip pat 4–6 × 3–4 µm). Cheilocistidės yra ir įvairios formos; pleurocistidžių nėra.",
+      "habitat": "Auga pavieniui, būreliais arba lankais ir žiedais ant žemės ir skaido spygliuočių, rečiau lapuočių, taip pat ąžuolo, paklotę. Europoje aptinkamas spygliuočių ir lapuočių miškuose, dažnai po eglėmis kalkingoje dirvoje, nuo liepos iki lapkričio. Kalifornijoje dera nuo vėlyvo rudens iki žiemos vidurio po pakrantės sekvoja, monterėjine pušimi, monterėjiniu kiparisų ir kitais medžiais; plačiau vakarinėje Šiaurės Amerikoje pasirodo vasarą, rudenį, o šiltesniame klimate ir žiemą.",
+      "uses": "Nekvalifikuojamas maistui. Mėsa itin karti, todėl maistui nenaudojama.",
+      "confusion": "Rausvai rudoms Tricholoma rūšims trūksta tankios baltos pamatinės grybienos, stipriai kartaus skonio ir amiloidinių karpotų sporų. Leucopaxillus albissimus jaunas niekada nebūna tamsiai kepeninis rudas, nors nublukusias vaisiakūnius sunkiau atskirti. Aspropaxillus giganteus yra gerokai didesnis ir paprastai blyškus.",
+      "notes": "Kartų skonį sukelia triterpenas cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "rudoji meškabudė"
+    },
+    "lv": {
+      "description": "Skuju un jauktu mežu zemsedzes noārdītājs Eiropā, Ziemeļamerikas rietumos, Centrālamerikā un Austrālijā. Aug izklaidus, grupās vai lokos un gredzenos, īpaši skuju zemsedzē. Eiropā augļķermeņi parādās no jūlija līdz novembrim, bet maigākā rietumu klimatā no vēla rudens līdz ziemas vidum.",
+      "cap": "Cepurīte parasti ir 3–12 cm plata, reizēm līdz 15 cm. Jauna tā ir izliekta ar ieritinātu malu, vēlāk plaši izliekta līdz gandrīz plakanai un var kļūt nedaudz iedobta. Sausā, matētā virsma sākumā ir tumši aknu brūna, sarkanbrūna vai kanēļbrūna, bieži gaišāka pret malu, un var izbālēt līdz gaiši brūnai; jauniem augļķermeņiem tā var šķist smalki zamšāda, un nobriedušā malā reizēm ir vāji rievojumi.",
+      "hymenium": "Lapiņas ir biezas, šauras un pieaugušas vai viegli izgrieztas un reizēm nedaudz nolaižas pa kātiņu. Sākumā tās ir baltas un var kļūt krēmkrāsas, un no cepurītes tās var noņemt kā slāni. Īsās lapiņas ir biežas.",
+      "stipe": "Kātiņš parasti ir 3–10 cm garš un 0,5–2,5 cm resns, vienmērīgs vai nedaudz paresnināts pret pamatni (avotos minēts arī resnums līdz 4 vai 4,5 cm). Tas ir sauss, balts un kails vai vāji apsūbējis un pret pamatni var brūnēt. Pamatne ir iegremdēta blīvā, bagātīgā baltā micēlija paklājā. Nav ne plīvura, ne gredzena.",
+      "flesh": "Mīkstums ir biezs, ciets un balts un griezumā nemaina krāsu. Garša ir stipri rūgta. Smarža ir miltaina, un pēc dažiem avotiem nepatīkama, sasmakusi miltaina vai vāja līdz asa. KOH uz pigmentētās cepurītes virsmas kļūst olīvzaļš un uz izbalējušām cepurītēm ir negatīvs.",
+      "sporePrint": "Spuoru pulveris ir balts. Spuoras ir gandrīz apaļas līdz plaši elipsoidālas, kārpainas vai sīki dzelkšņainas un amiloīdas, apmēram 4,5–6 × 3,5–5 µm (avotos arī 4–6 × 3–4 µm). Heilocistīdas ir sastopamas un dažādas pēc formas; pleirocistīdu nav.",
+      "habitat": "Aug izklaidus, grupās vai lokos un gredzenos uz zemes, noārdot skuju koku un retāk lapu koku, arī ozola, zemsedzi. Eiropā sastopams skuju un lapu mežos, bieži zem egles kaļķainā augsnē, no jūlija līdz novembrim. Kalifornijā tas augļo no vēla rudens līdz ziemas vidum zem piekrastes sekvojas, monterey priedes, monterey cipreses un citiem kokiem; plašāk Ziemeļamerikas rietumos parādās vasarā, rudenī un siltākā klimatā arī ziemā.",
+      "uses": "Tas nav ēdams. Mīkstums ir ļoti rūgts, tāpēc to neizmanto uzturā.",
+      "confusion": "Sarkanbrūnām Tricholoma sugām trūkst blīva baltā bazālā micēlija, stipri rūgtās garšas un amiloīdo, kārpaino spuoru. Leucopaxillus albissimus jaunībā nekad nav tumši aknu brūns, lai gan izbalējušus augļķermeņus ir grūtāk nošķirt. Aspropaxillus giganteus ir daudz lielāks un parasti bāls.",
+      "notes": "Rūgto garšu izraisa triterpēns cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een strooiselafbreker van naald- en gemengde bossen in Europa, het westen van Noord-Amerika, Midden-Amerika en Australië. Hij groeit verspreid, in groepjes of in bogen en ringen, vooral in naaldenstrooisel. In Europa vrucht hij van juli tot november, en in mildere westelijke klimaten van de late herfst tot midden in de winter.",
+      "cap": "De hoed is gewoonlijk 3–12 cm breed, soms tot 15 cm. Jong is hij gewelfd met een ingerolde rand, later breed gewelfd tot bijna vlak, en hij kan iets ingedeukt raken. Het droge, matte oppervlak is eerst donker leverbruin tot roodbruin of kaneelbruin, vaak bleker naar de rand, en kan tot tan verbleken; jong kan hij fijn fluweelachtig aanvoelen, en de rand is bij rijpheid soms zwak gestreept.",
+      "hymenium": "De lamellen staan dicht, zijn smal en aangehecht of licht uitgebocht, en lopen soms iets langs de steel af. Ze zijn eerst wit en kunnen roomkleurig worden, en laten zich als een laag van de hoed trekken. Tussenlamellen komen vaak voor.",
+      "stipe": "De steel is gewoonlijk 3–10 cm lang en 0,5–2,5 cm dik, gelijk of iets verdikt naar de basis (bronnen noemen ook een dikte tot 4 of 4,5 cm). Hij is droog, wit en kaal of zwak berijpt, en kan naar de basis bruinen. De basis zit in een dicht, overvloedig wit myceliumtapijt. Er is geen velum of ring.",
+      "flesh": "Het vlees is dik, stevig en wit en verandert bij doorsnijden niet van kleur. De smaak is sterk bitter. De geur is meelachtig en volgens sommige bronnen onaangenaam, ranzig-meelachtig, of mild tot prikkelend. KOH wordt olijfkleurig op gepigmenteerde hoedoppervlakken en is negatief op verbleekte hoeden.",
+      "sporePrint": "De sporenafdruk is wit. De sporen zijn bijna rond tot breed ellipsoïd, wrattig of fijn stekelig en amyloïd, ongeveer 4,5–6 × 3,5–5 µm (bronnen noemen ook 4–6 × 3–4 µm). Cheilocystiden zijn aanwezig en van wisselende vorm; pleurocystiden ontbreken.",
+      "habitat": "Hij groeit verspreid, groepgewijs of in bogen en ringen op de grond en breekt het strooisel af van naaldbomen en, minder vaak, loofbomen, waaronder eik. In Europa komt hij voor in naald- en loofbos, vaak onder spar op kalkrijke bodem, van juli tot november. In Californië vrucht hij van de late herfst tot midden in de winter onder kustmammoetboom, montereyden, montereycipres en andere bomen; breder in het westen van Noord-Amerika verschijnt hij in de zomer, de herfst en, in warmere klimaten, de winter.",
+      "uses": "Hij is oneetbaar. Het vlees is uiterst bitter, zodat hij niet als voedsel wordt gebruikt.",
+      "confusion": "Roodbruine Tricholoma-soorten missen het dichte witte basale mycelium, de sterk bittere smaak en de amyloïde, wrattige sporen. Leucopaxillus albissimus is jong nooit donker leverbruin, hoewel verbleekte vruchtlichamen moeilijker te scheiden zijn. Aspropaxillus giganteus is veel groter en typisch bleek.",
+      "notes": "De bittere smaak wordt veroorzaakt door het triterpeen cucurbitacine B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En strønedbryter i bar- og blandingsskog i Europa, vestlige Nord-Amerika, Mellom-Amerika og Australia. Den vokser spredt, i grupper eller i buer og ringer, særlig i barrstrø. I Europa frukter den fra juli til november, og i mildere vestlige klima fra senhøsten inn i midtvinteren.",
+      "cap": "Hatten er typisk 3–12 cm bred, av og til inntil 15 cm. Den er hvelvet med innrullet rand som ung, senere bredt hvelvet til nesten flat, og kan bli svakt nedsenket. Den tørre, matte overflaten er først mørkt leverbrun til rødbrun eller kanelbrun, ofte blekere mot randen, og kan falme til tanfarget; den kan kjennes fint semsket som ung, og randen er av og til svakt furet ved modenhet.",
+      "hymenium": "Skivene er tette, smale og tilvokste eller svakt utrandede og kan løpe litt nedover stilken. De er først hvite og kan bli kremfargede, og de kan trekkes av hatten som et lag. Mellomskiver er vanlige.",
+      "stipe": "Stilken er typisk 3–10 cm lang og 0,5–2,5 cm tykk, jevn eller svakt fortykket mot basis (kilder oppgir også en tykkelse på inntil 4 eller 4,5 cm). Den er tørr, hvit og glatt eller svakt pudret og kan brune mot basis. Basis sitter i en tett, rikelig hvit mycelmatte. Det er verken slør eller ring.",
+      "flesh": "Kjøttet er tykt, fast og hvitt og skifter ikke farge ved gjennomskjæring. Smaken er sterkt bitter. Lukten er melet og ifølge noen kilder ubehagelig, harsk-melet eller mild til stikkende. KOH blir olivenfarget på pigmenterte hatteoverflater og er negativ på avblekede hatter.",
+      "sporePrint": "Sporeavtrykket er hvitt. Sporene er nesten runde til bredt ellipsoide, vortete eller fint tornete og amyloide, omkring 4,5–6 × 3,5–5 µm (kilder oppgir også 4–6 × 3–4 µm). Cheilocystider er til stede og av vekslende form; pleurocystider mangler.",
+      "habitat": "Den vokser spredt, gruppevis eller i buer og ringer på bakken, der den bryter ned strø av bartre og sjeldnere lauvtre, herunder eik. I Europa finnes den i bar- og lauvskog, ofte under gran på kalkrik jord, fra juli til november. I California frukter den fra senhøsten til midtvinter under kystsequoia, montereyfuru, montereysypress og andre trær; mer allment i vestlige Nord-Amerika opptrer den om sommeren, om høsten og i varmere klima også om vinteren.",
+      "uses": "Den er uspiselig. Kjøttet er svært bittert, så den brukes ikke som mat.",
+      "confusion": "Rødbrune Tricholoma-arter mangler det tette hvite basale mycelet, den sterkt bitre smaken og de amyloide, vortete sporene. Leucopaxillus albissimus er aldri mørkt leverbrun som ung, selv om avblekede fruktlegemer er vanskeligere å skille. Aspropaxillus giganteus er mye større og typisk blek.",
+      "notes": "Den bitre smaken skyldes triterpenet cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "bitter traktmusserong"
+    },
+    "pl": {
+      "description": "Rozkładacz ściółki lasów iglastych i mieszanych w Europie, zachodniej Ameryce Północnej, Ameryce Środkowej i Australii. Rośnie pojedynczo, gromadnie albo w łukach i pierścieniach, zwłaszcza w ściółce iglastej. W Europie owocniki pojawiają się od lipca do listopada, a w łagodniejszym klimacie zachodnim od późnej jesieni do środka zimy.",
+      "cap": "Kapelusz ma zwykle 3–12 cm średnicy, czasem do 15 cm. Młody jest wypukły z podwiniętym brzegiem, później szeroko wypukły do niemal płaskiego i może być lekko wklęsły. Sucha, matowa powierzchnia jest z początku ciemnoczerwonobrązowa, wątrobiana lub cynamonowobrązowa, często jaśniejsza ku brzegowi, i może płowieć do płowobrązowej; u młodych owocników bywa drobno zamszowa, a brzeg w dojrzałości bywa słabo prążkowany.",
+      "hymenium": "Blaszki są gęste, wąskie i przyrośnięte albo lekko wykrojone, czasem nieco zbiegające na trzon. Najpierw są białe, później mogą być kremowe, i dają się oderwać od kapelusza warstwą. Krótkie blaszki są częste.",
+      "stipe": "Trzon ma zwykle 3–10 cm długości i 0,5–2,5 cm grubości, walcowaty albo lekko zgrubiały ku podstawie (niektóre źródła podają też grubość do 4 lub 4,5 cm). Jest suchy, biały i nagi albo słabo oprószony i może brązowieć ku podstawie. Podstawa tkwi w gęstej, obfitej białej macie grzybni. Brak osłony i pierścienia.",
+      "flesh": "Miąższ jest gruby, twardy i biały i nie zmienia barwy po przekrojeniu. Smak jest silnie gorzki. Zapach jest mączny, a według niektórych źródeł nieprzyjemny, jełkomączny albo słaby do ostrego. KOH barwi pigmentowaną powierzchnię kapelusza na oliwkowo i jest ujemny na wyblakłych kapeluszach.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są niemal kuliste do szeroko elipsoidalnych, brodawkowane lub drobno kolczaste i amyloidowe, około 4,5–6 × 3,5–5 µm (źródła podają też 4–6 × 3–4 µm). Cheilocystydy są obecne i zmiennego kształtu; pleurocystyd brak.",
+      "habitat": "Rośnie pojedynczo, gromadnie albo w łukach i pierścieniach na ziemi, rozkładając ściółkę drzew iglastych, rzadziej liściastych, w tym dębu. W Europie występuje w lasach iglastych i liściastych, często pod świerkiem na glebie wapiennej, od lipca do listopada. W Kalifornii owocuje od późnej jesieni do środka zimy pod sekwoją wieczniezieloną, sosną montereyską, cyprysem montereyskim i innymi drzewami; szerzej w zachodniej Ameryce Północnej pojawia się latem, jesienią, a w cieplejszym klimacie także zimą.",
+      "uses": "Jest niejadalny. Miąższ jest niezwykle gorzki, więc nie jest używany jako pokarm.",
+      "confusion": "Czerwonobrązowym gatunkom z rodzaju Tricholoma brakuje gęstej białej grzybni u podstawy, silnie gorzkiego smaku i amyloidowych, brodawkowanych zarodników. Leucopaxillus albissimus nigdy nie jest w młodości ciemno wątrobianobrązowy, choć wyblakłe owocniki trudniej oddzielić. Aspropaxillus giganteus jest znacznie większy i typowo blady.",
+      "notes": "Gorzki smak powoduje triterpen cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Białokrowiak_gorzki",
+        "https://www.wikidata.org/wiki/Q3913757"
+      ],
+      "label": "białokrowiak gorzki"
+    },
+    "pt": {
+      "description": "Um decompositor de folhada de bosques de coníferas e mistos na Europa, no oeste da América do Norte, na América Central e na Austrália. Cresce disperso, em tropas ou em arcos e anéis, sobretudo na folhada de agulhas. Na Europa frutifica de julho a novembro, e em climas ocidentais mais amenos do fim do outono até meados do inverno.",
+      "cap": "O chapéu mede normalmente 3–12 cm de diâmetro, por vezes até 15 cm. É convexo com a margem enrolada quando jovem, depois largamente convexo a quase plano, e pode ficar ligeiramente deprimido. A superfície seca e baça é a princípio pardo-hepático-escura a pardo-avermelhada ou canela, muitas vezes mais pálida para a margem, e pode desbotar para um pardo claro; quando jovem pode parecer finamente aveludada, e a margem por vezes fica fracamente estriada na maturidade.",
+      "hymenium": "As lâminas são cerradas, estreitas e adnatas ou ligeiramente entalhadas, e por vezes descem um pouco pelo pé. São brancas no início e podem tornar-se cor de creme, e destacam-se do chapéu em camada. As lamélulas são frequentes.",
+      "stipe": "O pé mede normalmente 3–10 cm de comprimento e 0,5–2,5 cm de espessura, igual ou ligeiramente alargado para a base (algumas fontes dão também uma espessura até 4 ou 4,5 cm). É seco, branco e glabro ou fracamente pruinoso, e pode manchar de pardo para a base. A base fica embebida num tapete micelial branco, denso e copioso. Não há véu nem anel.",
+      "flesh": "A carne é espessa, firme e branca e não muda de cor ao corte. O sabor é fortemente amargo. O cheiro é farináceo e, segundo algumas fontes, desagradável, rançoso-farináceo, ou suave a picante. O KOH vira a oliva nas superfícies pigmentadas do chapéu e é negativo em chapéus desbotados.",
+      "sporePrint": "A esporada é branca. Os esporos são quase redondos a largamente elipsoides, verrucosos ou finamente espinhosos, e amiloides, com cerca de 4,5–6 × 3,5–5 µm (algumas fontes dão também 4–6 × 3–4 µm). Há queilocistídios de forma variável; faltam os pleurocistídios.",
+      "habitat": "Cresce disperso, gregário ou em arcos e anéis no solo, decompondo a folhada de coníferas e, menos vezes, de folhosas, incluindo o carvalho. Na Europa encontra-se em bosques de coníferas e de folhosas, muitas vezes sob abeto em solo calcário, de julho a novembro. Na Califórnia frutifica do fim do outono a meados do inverno sob sequoia-costeira, pinheiro-de-Monterey, cipreste-de-Monterey e outras árvores; mais amplamente no oeste da América do Norte aparece no verão, no outono e, em climas mais quentes, no inverno.",
+      "uses": "É incomestível. A carne é extremamente amarga, pelo que não é usada como alimento.",
+      "confusion": "As espécies pardo-avermelhadas de Tricholoma carecem do micélio basal branco e denso, do sabor fortemente amargo e dos esporos amiloides verrucosos. Leucopaxillus albissimus nunca é pardo-hepático-escuro quando jovem, embora os exemplares desbotados sejam mais difíceis de separar. Aspropaxillus giganteus é muito maior e tipicamente pálido.",
+      "notes": "O sabor amargo deve-se ao triterpeno cucurbitacina B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un descompunător de litieră al pădurilor de conifere și mixte din Europa, vestul Americii de Nord, America Centrală și Australia. Crește risipit, în trupe sau în arcuri și inele, mai ales în litiera de ace. În Europa fructifică din iulie până în noiembrie, iar în climele vestice mai blânde de la sfârșitul toamnei până la mijlocul iernii.",
+      "cap": "Pălăria are de obicei 3–12 cm în diametru, uneori până la 15 cm. Este convexă, cu marginea răsucită la tinerețe, apoi larg convexă până aproape plană, și poate deveni ușor adâncită. Suprafața uscată și mată este la început brun-hepatic închisă până la brun-roșiatică sau scorțișorie, adesea mai pală spre margine, și poate păli spre un brun deschis; la tinerețe poate părea fin catifelată, iar marginea este uneori slab striată la maturitate.",
+      "hymenium": "Lamelele sunt dese, înguste și adnate sau ușor scobite și pot coborî puțin pe picior. Sunt albe la început și pot deveni crem, și se desprind de pălărie ca un strat. Lameluțele sunt frecvente.",
+      "stipe": "Piciorul are de obicei 3–10 cm lungime și 0,5–2,5 cm grosime, egal sau ușor îngroșat spre bază (unele surse dau și o grosime de până la 4 sau 4,5 cm). Este uscat, alb și glabru sau slab pruinos și se poate pata de brun spre bază. Baza este înglobată într-un covor micelian alb, dens și abundant. Nu există văl sau inel.",
+      "flesh": "Carnea este groasă, fermă și albă și nu își schimbă culoarea la tăiere. Gustul este puternic amar. Mirosul este făinos și, după unele surse, neplăcut, rânced-făinos, sau slab până la înțepător. KOH virează spre măsliniu pe suprafețele pigmentate ale pălăriei și este negativ pe pălăriile decolorate.",
+      "sporePrint": "Pulberea sporiferă este albă. Sporii sunt aproape rotunzi până la larg elipsoidali, verucoși sau fin spinoși și amiloizi, de circa 4,5–6 × 3,5–5 µm (unele surse dau și 4–6 × 3–4 µm). Cheilocistidele sunt prezente și de formă variabilă; pleurocistidele lipsesc.",
+      "habitat": "Crește risipit, gregar sau în arcuri și inele pe sol, descompunând litera coniferelor și, mai rar, a foioaselor, inclusiv a stejarului. În Europa se găsește în păduri de conifere și de foioase, adesea sub molid pe sol calcaros, din iulie până în noiembrie. În California fructifică de la sfârșitul toamnei până la mijlocul iernii sub sequoia de coastă, pin de Monterey, chiparos de Monterey și alți arbori; mai pe larg în vestul Americii de Nord apare vara, toamna și, în clime mai calde, iarna.",
+      "uses": "Este necomestibil. Carnea este extrem de amară, deci nu este folosită ca hrană.",
+      "confusion": "Speciile brun-roșiatice de Tricholoma nu au miceliul bazal alb și des, gustul puternic amar și sporii amiloizi verucoși. Leucopaxillus albissimus nu este niciodată brun-hepatic închis la tinerețe, deși exemplarele decolorate sunt mai greu de despărțit. Aspropaxillus giganteus este mult mai mare și de obicei palid.",
+      "notes": "Gustul amar este cauzat de triterpenul cucurbitacină B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Разрушитель подстилки хвойных и смешанных лесов в Европе, на западе Северной Америки, в Центральной Америке и в Австралии. Растёт рассеянно, группами или дугами и кольцами, особенно в хвойной подстилке. В Европе плодовые тела появляются с июля по ноябрь, а в более мягком западном климате — с поздней осени до середины зимы.",
+      "cap": "Шляпка обычно 3–12 см в диаметре, иногда до 15 см. В молодости выпуклая с завернутым краем, позднее широко выпуклая до почти плоской и может стать слегка вдавленной. Сухая матовая поверхность сначала тёмно-печёночно-коричневая, красновато-коричневая или коричная, часто бледнее к краю, и может выцветать до палевой; в молодости она может казаться тонко замшевой, а край в зрелости иногда слабо рубчатый.",
+      "hymenium": "Пластинки частые, узкие, приросшие или слегка выемчатые и иногда немного нисходящие на ножку. Сначала они белые и могут стать кремовыми; их можно отделить от шляпки слоем. Короткие пластинки обычны.",
+      "stipe": "Ножка обычно 3–10 см длиной и 0,5–2,5 см толщиной, ровная или слегка утолщённая к основанию (в источниках встречается также толщина до 4 или 4,5 см). Она сухая, белая и голая или слабо мучнистая и может буреть к основанию. Основание погружено в плотный, обильный белый мицелиальный мат. Покрывала и кольца нет.",
+      "flesh": "Мякоть толстая, плотная и белая и не меняет цвета на разрезе. Вкус сильно горький. Запах мучнистый, а по некоторым данным неприятный, прогоркло-мучнистый или слабый до острого. KOH даёт оливковую реакцию на пигментированной поверхности шляпки и отрицательна на выцветших шляпках.",
+      "sporePrint": "Споровый порошок белый. Споры почти округлые до широкоэллипсоидных, бородавчатые или мелкошиповатые и амилоидные, около 4,5–6 × 3,5–5 мкм (в источниках также 4–6 × 3–4 мкм). Хейлоцистиды есть и разнообразны по форме; плевроцистиды отсутствуют.",
+      "habitat": "Растёт рассеянно, группами или дугами и кольцами на почве, разлагая подстилку хвойных и, реже, лиственных деревьев, включая дуб. В Европе встречается в хвойных и лиственных лесах, часто под елью на известковой почве, с июля по ноябрь. В Калифорнии плодоносит с поздней осени до середины зимы под секвойей вечнозелёной, сосной лучистой, кипарисом крупноплодным и другими деревьями; шире на западе Северной Америки появляется летом, осенью, а в более тёплом климате и зимой.",
+      "uses": "Несъедобен. Мякоть чрезвычайно горькая, поэтому в пищу не используется.",
+      "confusion": "Красновато-коричневым видам рода Tricholoma недостаёт плотного белого базального мицелия, сильно горького вкуса и амилоидных бородавчатых спор. Leucopaxillus albissimus в молодости никогда не бывает тёмно-печёночно-коричневым, хотя выцветшие плодовые тела труднее отличить. Aspropaxillus giganteus гораздо крупнее и обычно бледный.",
+      "notes": "Горький вкус обусловлен тритерпеном cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "Белосвинуха горечавковая"
+    },
+    "sk": {
+      "description": "Rozkladač opadanky ihličnatých a zmiešaných lesov v Európe, na západe Severnej Ameriky, v Strednej Amerike a v Austrálii. Rastie roztrúsene, v skupinách alebo v oblúkoch a kruhoch, najmä v ihličnatej hrabanke. V Európe plodnice rastú od júla do novembra a v miernejších západných oblastiach od neskorej jesene do polovice zimy.",
+      "cap": "Klobúk je zvyčajne 3–12 cm široký, niekedy až 15 cm. V mladi je vypuklý so zvinutým okrajom, neskôr široko vypuklý až takmer plochý a môže byť slabo prehĺbený. Suchý, matný povrch je najprv tmavo pečeňovohnedý až červenohnedý alebo škoricovohnedý, často bledší pri okraji, a môže vyblednúť do plavej farby; v mladi môže byť jemne semišový a okraj býva v dospelosti niekedy slabo ryhovaný.",
+      "hymenium": "Lupene sú husté, úzke a pripojené alebo slabo vykrojené, niekedy krátko zbiehajúce na hlúbik. Najprv sú biele, neskôr môžu byť krémové, a dajú sa odlúpiť od klobúka ako vrstva. Krátke lupene sú časté.",
+      "stipe": "Hlúbik je zvyčajne 3–10 cm dlhý a 0,5–2,5 cm hrubý, valcovitý alebo smerom k báze slabo zhrubnutý (údaje uvádzajú aj hrúbku až 4 alebo 4,5 cm). Je suchý, biely a lysý alebo slabo práškovitý a pri báze môže hnednúť. Báza je zahĺbená v hustej, hojnej bielej podhubiovej plsti. Závoj ani prsteň chýbajú.",
+      "flesh": "Dužina je hrubá, pevná a biela a pri reze nemení farbu. Chuť je výrazne horká. Vôňa je múčnatá a podľa niektorých údajov nepríjemná, žltkavo-múčnatá alebo slabo až štiplavá. KOH na pigmentovanom povrchu klobúka olivovie a na vyblednutom je negatívna.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú takmer guľovité až široko elipsoidné, bradavčité alebo jemne ostnaté a amyloidné, približne 4,5–6 × 3,5–5 µm (údaje uvádzajú aj 4–6 × 3–4 µm). Cheilocystidy sú prítomné a tvarovo premenlivé; pleurocystidy chýbajú.",
+      "habitat": "Rastie roztrúsene, v skupinách alebo v oblúkoch a kruhoch na zemi, kde rozkladá opadanku ihličnanov a menej často listnáčov, vrátane duba. V Európe sa vyskytuje v ihličnatých aj listnatých lesoch, často pod smrekom na vápnitej pôde, od júla do novembra. V Kalifornii plodí od neskorej jesene do polovice zimy pod pobrežnou sequoiou, montereyskou borovicou, montereyským cyprišom a inými stromami; v širšom západe Severnej Ameriky sa objavuje v lete, na jeseň a v teplejších oblastiach aj v zime.",
+      "uses": "Je nejedlá. Dužina je mimoriadne horká, preto sa ako jedlo nepoužíva.",
+      "confusion": "Červenohnedé druhy rodu Tricholoma nemajú husté biele bazálne podhubie, výrazne horkú chuť ani amyloidné bradavčité výtrusy. Leucopaxillus albissimus nie je v mladi tmavo pečeňovohnedý, hoci vyblednuté plodnice sa oddeľujú ťažšie. Aspropaxillus giganteus je omnoho väčší a zvyčajne bledý.",
+      "notes": "Horkú chuť spôsobuje triterpén cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Leucopaxillus-gentianeus/cechratec-horky/belocechratka-horka/ID1643",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "čechratec horký"
+    },
+    "sl": {
+      "description": "Razkrojevalec opada v iglastih in mešanih gozdovih v Evropi, na zahodu Severne Amerike, v Srednji Ameriki in v Avstraliji. Raste posamič, v skupinah ali v lokih in kolobarjih, zlasti v igličevju. V Evropi trosnjaki rastejo od julija do novembra, v milejšem zahodnem podnebju pa od pozne jeseni do srede zime.",
+      "cap": "Klobuk je običajno 3–12 cm širok, včasih do 15 cm. Mladi je izbočen z zavihanem robom, pozneje široko izbočen do skoraj ploščat in je lahko rahlo vdrt. Suha, mat površina je sprva temno jetrno rjava do rdečkastorjava ali cimetasta, proti robu pogosto bledša, in lahko zbledi v rumenorjavo; pri mladih je lahko fino semišasta, rob pa je v zrelosti včasih rahlo nažlebljen.",
+      "hymenium": "Lističi so gosti, ozki in prirasli ali rahlo izrezani ter včasih malo potečejo po betu. Sprva so beli in lahko postanejo kremasti; od klobuka se dajo odluščiti kot plast. Kratki lističi so pogosti.",
+      "stipe": "Bet je običajno 3–10 cm dolg in 0,5–2,5 cm debel, valjast ali proti dnišču rahlo odebeljen (viri navajajo tudi debelino do 4 ali 4,5 cm). Je suh, bel in gol ali rahlo poprhnjen in lahko proti dnišču porjavi. Dnišče je vraslo v gosto, obilno belo micelijsko preprogo. Ovojnika in obročka ni.",
+      "flesh": "Meso je debelo, čvrsto in belo ter ob prerezu ne spremeni barve. Okus je močno grenak. Vonj je moknat in po nekaterih virih neprijeten, žarko moknat ali blag do oster. KOH na pigmentirani površini klobuka postane olivna, na zbledelih klobukih je negativna.",
+      "sporePrint": "Trosni prah je bel. Trosi so skoraj okrogli do široko elipsoidni, bradavičasti ali drobno bodičasti in amiloidni, približno 4,5–6 × 3,5–5 µm (viri navajajo tudi 4–6 × 3–4 µm). Heilocistide so prisotne in različnih oblik; plevrocistid ni.",
+      "habitat": "Raste posamič, v skupinah ali v lokih in kolobarjih na tleh, kjer razkraja opad iglavcev in redkeje listavcev, tudi hrasta. V Evropi uspeva v iglastih in listnatih gozdovih, pogosto pod smreko na apnenčastih tleh, od julija do novembra. V Kaliforniji trosi od pozne jeseni do srede zime pod obalno sekvojo, montereyskim borom, montereysko cipreso in drugimi drevesi; širše na zahodu Severne Amerike se pojavlja poleti, jeseni, v toplejšem podnebju pa tudi pozimi.",
+      "uses": "Je neužitna. Meso je izjemno grenko, zato se ne uporablja za hrano.",
+      "confusion": "Rdečkastorjavim vrstam rodu Tricholoma manjkajo gosto belo bazalno podgobje, močno grenek okus in amiloidni bradavičasti trosi. Leucopaxillus albissimus v mladosti ni nikoli temno jetrno rjav, čeprav je zbledele trosnjake težje ločiti. Aspropaxillus giganteus je precej večji in običajno bled.",
+      "notes": "Grenek okus povzroča triterpen cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "grenka kolesnica"
+    },
+    "sr": {
+      "description": "Разлагач стеље четинарских и мешовитих шума у Европи, на западу Северне Америке, у Средњој Америци и у Аустралији. Расте расуто, у групама или у луковима и прстеновима, посебно у четинарској стељи. У Европи плодоносна тела расту од јула до новембра, а у блажој западној клими од касне јесени до средине зиме.",
+      "cap": "Шешир је обично 3–12 cm широк, понекад до 15 cm. У младости је испупчен са завијеним рубом, касније широко испупчен до готово раван и може бити мало удубљен. Сува, мат површина најпре је тамно јетреносмеђа до црвенкастосмеђа или циметаста, према рубу често светлија, и може избледети до бледосмеђе; у младости може изгледати фино антилопаста, а руб је у зрелости понекад слабо наребран.",
+      "hymenium": "Листићи су густи, уски и прирасли или слабо изрезани и понекад мало силазе низ стручак. Најпре су бели и могу постати крем, а од шешира се могу одвојити као слој. Кратких листића има често.",
+      "stipe": "Стручак је обично 3–10 cm дуг и 0,5–2,5 cm дебео, једнак или према дну слабо задебљан (извори наводе и дебљину до 4 или 4,5 cm). Сув је, бео и го или слабо прашњав и према дну може смеђети. Дно је уроњено у густу, обилну белу мицелијску простирку. Нема вела ни прстена.",
+      "flesh": "Месо је дебело, чврсто и бело и при пресеку не мења боју. Укус је јако горак. Мирис је брашнаст, а према неким изворима непријатан, ужегло брашнаст или благ до оштар. KOH на пигментисаној површини шешира постаје маслинаст, а на избледелим шеширима је негативан.",
+      "sporePrint": "Отисак спора је бео. Споре су готово округле до широко елипсоидне, брадавичасте или фино бодљикаве и амилоидне, око 4,5–6 × 3,5–5 µm (извори наводе и 4–6 × 3–4 µm). Хеилоцистиде су присутне и различитих облика; плеуроцистида нема.",
+      "habitat": "Расте расуто, у групама или у луковима и прстеновима на тлу, разлажући стељу четинара и ређе лишћара, укључујући храст. У Европи се јавља у четинарским и лишћарским шумама, често под смрчом на кречњачком тлу, од јула до новембра. У Калифорнији плоди од касне јесени до средине зиме под обалском секвојом, монтерејским бором, монтерејским чемпресом и другим стаблима; шире на западу Северне Америке јавља се лети, у јесен, а у топлијој клими и зими.",
+      "uses": "Није јестива. Месо је изразито горко, стога се не користи као храна.",
+      "confusion": "Црвенкастосмеђим врстама рода Tricholoma недостају густо бело базални мицелијум, јако горак укус и амилоидне брадавичасте споре. Leucopaxillus albissimus у младости никад није тамно јетреносмеђ, иако је избледела плодоносна тела теже разликовати. Aspropaxillus giganteus знатно је већи и типично блед.",
+      "notes": "Горки укус изазива тритерпен cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En förnareducent i barr- och blandskog i Europa, västra Nordamerika, Centralamerika och Australien. Den växer spridd, i grupper eller i bågar och ringar, särskilt i barrförna. I Europa fruktifierar den från juli till november, och i mildare västliga klimat från senhösten in i midvintern.",
+      "cap": "Hatten är typiskt 3–12 cm bred, ibland upp till 15 cm. Den är välvd med invrullad kant som ung, senare brett välvd till nästan plan, och kan bli svagt nedsänkt. Den torra, matta ytan är först mörkt leverbrun till rödbrun eller kanelbrun, ofta ljusare mot kanten, och kan blekna till tanfärgad; den kan kännas fint mockalik som ung, och kanten är ibland svagt räfflad vid mognad.",
+      "hymenium": "Skivorna är täta, smala och vidfästa eller svagt urgröpta och kan löpa lite nedför foten. De är först vita och kan bli gräddfärgade, och de kan dras av hatten som ett skikt. Mellanskivor är vanliga.",
+      "stipe": "Foten är typiskt 3–10 cm lång och 0,5–2,5 cm tjock, jämntjock eller svagt förtjockad mot basen (uppgifter anger också en tjocklek på upp till 4 eller 4,5 cm). Den är torr, vit och kal eller svagt pudrad och kan brunfärgas mot basen. Basen sitter i en tät, riklig vit mycelmatta. Det finns varken slöja eller ring.",
+      "flesh": "Köttet är tjockt, fast och vitt och ändrar inte färg vid genomskärning. Smaken är starkt bitter. Lukten är mjölaktig och enligt vissa källor obehaglig, härsket mjölaktig eller mild till stickande. KOH blir olivfärgad på pigmenterade hattytor och är negativ på blekta hattar.",
+      "sporePrint": "Sporpulveret är vitt. Sporerna är nästan runda till brett ellipsoida, vårtiga eller fint taggiga och amyloida, omkring 4,5–6 × 3,5–5 µm (uppgifter anger också 4–6 × 3–4 µm). Cheilocystider finns och varierar i form; pleurocystider saknas.",
+      "habitat": "Den växer spridd, gruppvis eller i bågar och ringar på marken, där den bryter ned förna av barrträd och mer sällan lövträd, inklusive ek. I Europa finns den i barr- och lövskog, ofta under gran på kalkrik mark, från juli till november. I Kalifornien fruktifierar den från senhösten till midvintern under kustsequoia, montereytall, montereycypress och andra träd; mer allmänt i västra Nordamerika uppträder den på sommaren, hösten och i varmare klimat även på vintern.",
+      "uses": "Den är oätlig. Köttet är ytterst bittert, så den används inte som mat.",
+      "confusion": "Rödbruna Tricholoma-arter saknar det täta vita basala mycelet, den starkt bittra smaken och de amyloida, vårtiga sporerna. Leucopaxillus albissimus är aldrig mörkt leverbrun som ung, även om blekta fruktkroppar är svårare att skilja. Aspropaxillus giganteus är mycket större och typiskt blek.",
+      "notes": "Den bittra smaken orsakas av triterpenen cucurbitacin B.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Bittermusseron",
+        "https://www.wikidata.org/wiki/Q3913757",
+        "https://www.inaturalist.org/taxa/67346-Leucopaxillus-gentianeus"
+      ],
+      "label": "bittermusseron"
+    },
+    "tr": {
+      "description": "Avrupa, Kuzey Amerika’nın batısı, Orta Amerika ve Avustralya’daki iğne yapraklı ve karışık ormanlarda bir döküntü ayrıştırıcısıdır. Dağınık, kümeler halinde veya yay ve halkalar biçiminde, özellikle iğne döküntüsünde büyür. Avrupa’da Temmuz’dan Kasım’a kadar, daha ılıman batı iklimlerinde ise geç sonbahardan kış ortasına kadar meyve verir.",
+      "cap": "Şapka genellikle 3–12 cm genişliğinde, bazen 15 cm’ye kadardır. Gençken kıvrık kenarlı dışbükeydir, sonra geniş dışbükeyden neredeyse düz duruma geçer ve hafifçe çökebilir. Kuru, mat yüzey ilk başta koyu karaciğer kahverengisinden kırmızımsı kahverengiye veya tarçın kahverengisine döner, kenara doğru çoğu zaman daha soluktur ve açık kahverengiye solabilir; gençken ince süet gibi durabilir ve olgunlukta kenar bazen zayıf çizgilidir.",
+      "hymenium": "Lameller sık, dar ve yapışık veya hafifçe oyuktur ve bazen sap boyunca biraz iner. İlk başta beyazdır, krem rengine dönebilir ve şapkadan bir katman olarak ayrılabilir. Kısa lameller sıktır.",
+      "stipe": "Sap genellikle 3–10 cm uzunluğunda ve 0,5–2,5 cm kalınlığında, eşit veya tabana doğru hafifçe şişkindir (kaynaklar 4 veya 4,5 cm kalınlık da verir). Kuru, beyaz ve tüysüz veya hafif pudralıdır ve tabana doğru kahverengileşebilir. Taban, yoğun ve bol beyaz bir miselyum örtüsüne gömülüdür. Örtü veya halka yoktur.",
+      "flesh": "Et kalın, sıkı ve beyazdır ve kesildiğinde renk değiştirmez. Tat güçlü acıdır. Koku unludur ve bazı kaynaklara göre hoş olmayan, acımış unlu veya hafiften keskinliğe değişir. KOH, pigmentli şapka yüzeylerinde zeytin yeşiline döner ve solmuş şapkalarda negatiftir.",
+      "sporePrint": "Spor izi beyazdır. Sporlar neredeyse yuvarlaktan geniş elipsoide kadar, siğilli veya ince dikenli ve amiloiddir, yaklaşık 4,5–6 × 3,5–5 µm (kaynaklar 4–6 × 3–4 µm de verir). Değişken biçimli keylokistidler vardır; plevrokistid yoktur.",
+      "habitat": "Toprakta dağınık, kümeler halinde veya yay ve halkalar biçiminde büyür ve iğne yapraklıların, daha seyrek olarak da meşe dahil geniş yapraklıların döküntüsünü ayrıştırır. Avrupa’da iğne ve geniş yapraklı ormanlarda, çoğu zaman kireçli toprakta ladin altında, Temmuz’dan Kasım’a kadar bulunur. Kaliforniya’da geç sonbahardan kış ortasına kadar sahil sekoyası, Monterey çamı, Monterey servisi ve diğer ağaçların altında meyve verir; daha geniş olarak Kuzey Amerika’nın batısında yazın, sonbaharda ve daha sıcak iklimlerde kışın da görünür.",
+      "uses": "Yenmez. Eti son derece acıdır, bu yüzden yiyecek olarak kullanılmaz.",
+      "confusion": "Kırmızımsı kahverengi Tricholoma türlerinde yoğun beyaz taban miselyumu, güçlü acı tat ve amiloid siğilli sporlar yoktur. Leucopaxillus albissimus gençken asla koyu karaciğer kahverengisi değildir, yine de solmuş örnekleri ayırmak daha zordur. Aspropaxillus giganteus çok daha iri ve tipik olarak soldur.",
+      "notes": "Acı tadı triterpen cucurbitacin B verir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Розкладач підстилки хвойних і мішаних лісів у Європі, на заході Північної Америки, у Центральній Америці та в Австралії. Росте розсіяно, групами або дугами й кільцями, особливо в хвойній підстилці. У Європі плодові тіла з’являються з липня по листопад, а в м’якшому західному кліматі — з пізньої осені до середини зими.",
+      "cap": "Шапинка зазвичай 3–12 см у діаметрі, іноді до 15 см. У молодому віці опукла із загорнутим краєм, пізніше широко опукла до майже плоскої і може бути трохи вдавленою. Суха матова поверхня спочатку темно печінково-коричнева, червонувато-коричнева або корична, часто блідіша до краю, і може вицвітати до палевої; у молодих плодових тіл вона може здаватися дрібно замшевою, а край у зрілості іноді слабко рубчастий.",
+      "hymenium": "Пластинки густі, вузькі, прирослі або злегка виїмчасті й іноді трохи спускаються на ніжку. Спочатку вони білі й можуть стати кремовими; їх можна відділити від шапинки шаром. Короткі пластинки звичайні.",
+      "stipe": "Ніжка зазвичай 3–10 см завдовжки і 0,5–2,5 см завтовшки, рівна або злегка потовщена до основи (у джерелах трапляється також товщина до 4 або 4,5 см). Вона суха, біла й гола або слабо борошниста і може буріти до основи. Основа занурена в щільний, рясний білий міцеліальний килим. Покривала і кільця немає.",
+      "flesh": "М’якоть товста, щільна і біла і не змінює кольору на розрізі. Смак сильно гіркий. Запах борошнистий, а за деякими даними неприємний, згірклий борошнистий або слабкий до гострого. KOH дає оливкову реакцію на пігментованій поверхні шапинки і негативну на вицвілих шапинках.",
+      "sporePrint": "Споровий порошок білий. Спори майже округлі до широко еліпсоїдних, бородавчасті або дрібношипуваті й амілоїдні, близько 4,5–6 × 3,5–5 мкм (у джерелах також 4–6 × 3–4 мкм). Хейлоцистиди є і різноманітні за формою; плевроцистид немає.",
+      "habitat": "Росте розсіяно, групами або дугами й кільцями на ґрунті, розкладаючи підстилку хвойних і, рідше, листяних дерев, зокрема дуба. У Європі трапляється в хвойних і листяних лісах, часто під ялиною на вапняковому ґрунті, з липня по листопад. У Каліфорнії плодоносить з пізньої осені до середини зими під секвоєю вічнозеленою, сосною променевою, кипарисом великоплідним та іншими деревами; ширше на заході Північної Америки з’являється влітку, восени, а в теплішому кліматі й узимку.",
+      "uses": "Неїстівний. М’якоть надзвичайно гірка, тому як їжу не використовують.",
+      "confusion": "Червонувато-коричневим видам роду Tricholoma бракує щільного білого базального міцелію, сильно гіркого смаку та амілоїдних бородавчастих спор. Leucopaxillus albissimus у молодому віці ніколи не буває темно печінково-коричневим, хоча вицвілі плодові тіла важче відрізнити. Aspropaxillus giganteus значно більший і зазвичай блідий.",
+      "notes": "Гіркий смак зумовлений тритерпеном cucurbitacin B.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "欧洲、北美西部、中美洲和澳大利亚针叶林与混交林中的凋落物分解菌。散生、群生，或以弧线和菌环出现，尤见于针叶凋落层。在欧洲于七月至十一月出菇，在较温和的西部气候中则从晚秋持续到仲冬。",
+      "cap": "菌盖通常宽3–12厘米，有时可达15厘米。幼时凸起，边缘内卷，后来宽凸至近扁平，并可能略下凹。干燥无光的表面起初为深肝褐色至红褐色或肉桂褐色，常向边缘渐淡，并可褪成浅褐色；幼时触感可如细绒面革，成熟时边缘有时有浅条纹。",
+      "hymenium": "菌褶密、窄，直生或稍凹生，有时略沿菌柄下延。起初白色，可变为奶油色，并能整层从菌盖上剥离。短菌褶常见。",
+      "stipe": "菌柄通常长3–10厘米、粗0.5–2.5厘米，等粗或向基部略增粗（也有记载粗达4或4.5厘米）。干燥、白色，光滑或略被粉霜，近基部可变褐。基部埋于浓密而丰富的白色菌丝垫中。无菌幕或菌环。",
+      "flesh": "菌肉厚实、结实、白色，切开不变色。味道极苦。气味如面粉，有些记载认为难闻、酸败面粉味，或淡至辛辣。KOH在有色素的菌盖表面呈橄榄色，在褪色菌盖上为阴性。",
+      "sporePrint": "孢子印白色。孢子近圆形至宽椭圆形，具疣或细刺，淀粉质，约4.5–6 × 3.5–5微米（也有记载为4–6 × 3–4微米）。褶缘囊状体存在且形状多变；缺褶侧囊状体。",
+      "habitat": "在地面散生、群生或以弧线和菌环生长，分解针叶树、较少见地也包括栎树等阔叶树的凋落物。在欧洲见于针叶林和阔叶林，常在钙质土壤的云杉下，于七月至十一月出现。在加利福尼亚，于晚秋至仲冬在海岸红杉、蒙特利松、蒙特利柏等树下出菇；在北美西部更广范围内，夏季、秋季以及较暖气候的冬季也会出现。",
+      "uses": "不可食用。菌肉极苦，因此不用作食物。",
+      "confusion": "红褐色的 Tricholoma 种类没有浓密的白色基部菌丝、强烈苦味和淀粉质疣状孢子。Leucopaxillus albissimus幼时绝非深肝褐色，但褪色的子实体较难区分。Aspropaxillus giganteus体型大得多，通常颜色浅淡。",
+      "notes": "苦味由三萜化合物cucurbitacin B引起。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Clitocybe gentianea",
+      "author": "Quél.",
+      "year": 1873,
+      "rank": "species"
+    }
+  ],
+  "reserved": false,
+  "id": 192,
+  "citation": "Česká Mykol. 20(4): 230 (1966)"
 }
 ];

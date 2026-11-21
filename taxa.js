@@ -1089,5 +1089,8 @@ export const TAXA = {
   },
   Calocera: {
     rank: "genus"
+  },
+  Leucopaxillus: {
+    rank: "genus"
   }
 };
