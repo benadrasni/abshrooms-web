@@ -71216,6 +71216,7 @@ export const CATALOG = [
         sporePrint: "白色。孢子平滑、無色透明且薄壁，呈球形至近球形，偶爾寬橢圓形，內側常扁平。它們測量約(6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) μm，平均約為7.0 × 6.6 μm，Q值為1.01–1.16(–1.18)。平均Q值約為1.06。它們在碘液中變藍。",
         habitat: "子實體在6月至9月單生或散生於闊葉林（包括殼斗科樹林）的地面上。",
         uses: "具有致命劇毒。它含有鵝膏毒肽並引起急性肝損傷，可進展為肝衰竭。目前尚無特效解毒劑。",
+        confusion: "在東亞，Amanita virosa 常被誤認作本種；它通常較大，且菌環下方的菌柄上具明顯反捲的白色鱗片。Amanita exitialis 具雙孢擔子、頂生菌環，且菌柄沒有那些反捲鱗片。Amanita rimosa 的菌蓋常呈放射狀開裂，尤其近邊緣處。Amanita subjunquillea，包括其白色型，通常較大，且沒有這種開裂的菌蓋表面。Amanita pallidorosea 常帶淡玫瑰色調，並在菌蓋中央具臍突。白色的蘑菇屬物種，包括 Agaricus campestris，沒有菌托，菌褶先變粉紅再轉褐色。Leucocoprinus leucothites 有菌環但沒有菌托。",
         notes: "在廣東翁源縣，有五人中毒，其中兩人（一名15歲和一名7歲）死亡。在現場採集的蘑菇被鑑定為本種和灰花紋鵝膏 (Amanita fuliginea)。菌蓋表皮厚130–190 μm且具雙層結構。其上層微膠質化並含有豐富的膨大細胞，這一組合在鵝膏菌節 (Amanita section Phalloideae) 中是獨一無二的。"
       },
       tr: {
@@ -71227,6 +71228,7 @@ export const CATALOG = [
           "sporePrint": "Beyazdır. Sporlar pürüzsüz, renksiz, ince çeperli, küremsi ile yarı küremsi, zaman zaman genişçe elipsoid ve sıklıkla iç tarafta basıktır. (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm boyutlarında olup ortalama yaklaşık 7,0 × 6,6 μm ve Q değeri 1,01–1,16(–1,18) aralığındadır. Ortalama Q değeri yaklaşık 1,06 seviyesindedir. İyotta maviye dönerler.",
           "habitat": "Meyve gövdeleri haziran ayından eylül ayına kadar, kayıngiller familyasından ormanlar da dahil olmak üzere geniş yapraklı ormanlarda toprak üzerinde tek tek veya dağınık halde ortaya çıkar.",
           "uses": "Ölümcül derecede zehirlidir. Amatoksinler içerir ve karaciğer yetmezliğine kadar ilerleyebilen akut karaciğer hasarına neden olur. Bilinen belirli bir panzehiri yoktur.",
+          "confusion": "Doğu Asya’da Amanita virosa sıklıkla bu türün yerine yanlış teşhis edilir; genellikle daha büyüktür ve halkanın altındaki sapta belirgin biçimde geriye kıvrık beyaz pulcuklar taşır. Amanita exitialis iki sporlu basidiumlara, tepe konumunda bir halkaya ve bu geriye kıvrık pulcukları olmayan bir sapa sahiptir. Amanita rimosa’nın şapkası, özellikle kenara doğru, sıklıkla ışınsal olarak çatlar. Beyaz formu dahil Amanita subjunquillea genellikle daha büyüktür ve bu çatlak şapka yüzeyine sahip değildir. Amanita pallidorosea’da çoğu zaman soluk gül rengi bir ton ve şapkanın merkezinde bir umbo bulunur. Agaricus campestris dahil beyaz Agaricus türlerinin volvası yoktur ve lamelleri önce pembeye, sonra kahverengiye döner. Leucocoprinus leucothites bir halkaya sahiptir ancak volvası yoktur.",
           "notes": "Guangdong'ın Wengyuan İlçesinde beş kişi zehirlenmiş ve bunlardan 15 yaşında ve 7 yaşında olan iki kişi hayatını kaybetmiştir. Olay yerinden toplanan mantarlar bu tür ve Amanita fuliginea (Amanita fuliginea) olarak tanımlanmıştır. Şapka derisi 130–190 μm kalınlığında ve iki tabakalıdır. Üst tabakası hafifçe jelatinleşmiştir ve bol miktarda şişkin hücre içerir ki bu kombinasyon Amanita seksiyonu Phalloideae içinde benzersizdir."
     },
       hr: {
@@ -71238,6 +71240,7 @@ export const CATALOG = [
           "habitat": "Plodna tijela pojavljuju se pojedinačno ili raštrkano na tlu u bjelogoričnim šumama, uključujući šume porodice bukava, od lipnja do rujna.",
           "sporePrint": "Bijel. Spore su glatke, bezbojne i tankih stijenki, kuglaste do subglobosne, povremeno široko elipsoidne i često spljoštene s unutarnje strane. Mjere (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, u prosjeku oko 7,0 × 6,6 μm, s omjerom Q 1,01–1,16(–1,18). Prosječni Q je oko 1,06. Poplave u jodu.",
           "uses": "Smrtonosna je. Sadrži amatoksine i uzrokuje akutno oštećenje jetre, koje može napredovati do zatajenja jetre. Nije poznat specifičan protuotrov.",
+          "confusion": "Amanita virosa se u Istočnoj Aziji često miješa s njom; obično je veća i na stručku ispod prstena ima izrazito unatrag savijene bijele ljuske. Amanita exitialis ima dvosporne bazidije, vršni prsten i stručak bez takvih unatrag savijenih ljusaka. Klobuk vrste Amanita rimosa često puca radijalno, osobito prema rubu. Amanita subjunquillea, uključujući njezin bijeli oblik, obično je veća i nema tu napuklu površinu klobuka. Amanita pallidorosea često ima blijedoružičastu nijansu i ispupčenje u središtu klobuka. Bijele vrste roda Agaricus, uključujući Agaricus campestris, nemaju ovoj i njihovi listići prvo poprime ružičastu, a zatim smeđu boju. Leucocoprinus leucothites ima prsten, ali nema ovoj.",
           "notes": "U okrugu Wengyuan u Guangdongu otrovalo se petero ljudi, a dvoje od njih, 15-godišnjak i 7-godišnjak, preminulo je. Gljive prikupljene na mjestu događaja identificirane su kao ova vrsta i kao Amanita fuliginea. Kožica klobuka je debela 130–190 μm i dvoslojna. Njezin gornji sloj je blago želatinozan i sadrži obilne napuhnute stanice, što je kombinacija jedinstvena u sekciji Phalloideae roda Amanita."
     },
       lt: {
@@ -71249,6 +71252,7 @@ export const CATALOG = [
         sporePrint: "Baltas. Sporos lygios, bespalvės ir plonasienės, nuo rutuliškų iki beveik rutuliškų, retkarčiais plačiai elipsiškos, vidinėje pusėje dažnai suplotos. Jų matmenys yra (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, vidutiniškai apie 7,0 × 6,6 μm, o ilgio ir pločio santykis Q = 1,01–1,16(–1,18). Vidutinis Q yra apie 1,06. Jodo tirpale jos nusidažo mėlynai (amiloidinės).",
         habitat: "Vaisiakūniai pasirodo pavieniui arba išsibarstę ant žemės plačialapių miškuose, įskaitant bukinių (Fagaceae) šeimos medynus, nuo birželio iki rugsėjo mėnesio.",
         uses: "Mirtinai nuodingas. Jame yra amatoksinų, kurie sukelia ūminį kepenų pažeidimą, galintį progresuoti iki kepenų nepakankamumo. Specifinio priešnuodžio nėra.",
+        confusion: "Amanita virosa Rytų Azijoje dažnai painiojama su šia rūšimi; ji paprastai būna didesnė ir ant koto žemiau žiedo turi aiškiai atgal užriestų baltų žvynelių. Amanita exitialis turi dvispores bazides, viršūninį žiedą ir kotą be tokių atgal užriestų žvynelių. Amanita rimosa kepurėlė dažnai radialiai sutrūkinėja, ypač link krašto. Amanita subjunquillea, įskaitant jos baltąją formą, paprastai būna didesnė ir neturi tokios sutrūkinėjusios kepurėlės paviršiaus. Amanita pallidorosea dažnai turi blyškiai rožinį atspalvį ir gumburėlį kepurėlės viduryje. Baltosios Agaricus rūšys, įskaitant Agaricus campestris, neturi makšties, o jų lakšteliai pirmiausia nurausta, paskui paruduoja. Leucocoprinus leucothites turi žiedą, bet neturi makšties.",
         notes: "Vengjuano apygardoje (Guangdongo provincijoje) apsinuodijo penki žmonės, o du iš jų – 15 ir 7 metų vaikai – mirė. Toje vietoje surinkti grybai buvo identifikuoti kaip ši rūšis ir suodinė musmirė (Amanita fuliginea). Kepurėlės odelė yra 130–190 μm storio ir dvisluoksnė. Jos viršutinis sluoksnis yra šiek tiek gelatinizuotas ir turi gausių išsipūtusių ląstelių – toks požymių derinys yra unikalus Amanita genties Phalloideae sekcijoje."
       },
       et: {
@@ -71260,6 +71264,7 @@ export const CATALOG = [
           "habitat": "Viljakehad ilmuvad suvel maapinnal laialehistes metsades Lõuna-Hiinas.",
           "sporePrint": "Valge. Eosed on kerajad kuni peaaegu ümarad, siledad, amüloidsed, umbes 8,5–11 μm.",
           "uses": "Surmavalt mürgine. Sisaldab amatoksiine ning põhjustab ägedat maksakahjustust.",
+          "confusion": "Amanita virosa aetakse Ida-Aasias temaga sageli segi; ta on tavaliselt suurem ning tal on rõngast allpool jalal selgelt tahapoole käändunud valged soomused. Amanita exitialis’el on kaheeoselised basiidid, tipmine rõngas ja jalg ilma nende tahapoole käändunud soomusteta. Amanita rimosa kübar muutub sageli radiaalselt lõhenenuks, eriti serva suunas. Amanita subjunquillea, sealhulgas tema valge vorm, on tavaliselt suurem ega oma sellist lõhenenud kübarapinda. Amanita pallidorosea’l on sageli kahvaturoosa varjund ja kühm kübarakeskmel. Valgetel Agaricus’e liikidel, sealhulgas Agaricus campestris, puudub tupe, ja nende eoslehekesed muutuvad esmalt roosaks, seejärel pruuniks. Leucocoprinus leucothites’el on rõngas, kuid tupe puudub.",
           "notes": "Guangdongi provintsis registreeriti selle liigi põhjustatud raskeid mürgistusi."
     },
       lv: {
@@ -71271,6 +71276,7 @@ export const CATALOG = [
           "habitat": "Augļķermeņi parādās pa vienam vai izklaidus uz zemes platlapju mežos, tostarp dižskābaržu dzimtas koku audzēs, no jūnija līdz septembrim.",
           "sporePrint": "Balts. Sporas ir gludas, bezkrāsainas un plānsienu, lodveida līdz gandrīz lodveida, reizēm plati elipsoīdas un iekšējā pusē bieži saplacinātas. To izmēri ir (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, vidēji aptuveni 7,0 × 6,6 μm, ar koeficientu Q 1,01–1,16(–1,18). Vidējais Q ir aptuveni 1,06. Joda šķīdumā tās iekrāsojas zilas.",
           "uses": "Tā ir nāvējoši indīga. Sēne satur amatoksīnus un izraisa akūtu aknu bojājumu, kas var progresēt līdz aknu mazspējai. Specifiska pretinde nav zināma.",
+          "confusion": "Amanita virosa Austrumāzijā bieži tiek sajaukta ar šo sugu; tā parasti ir lielāka, un uz kātiņa zem gredzena ir skaidri atpakaļ izliektas baltas zvīņas. Amanita exitialis ir ar divsporu bazīdijām, galotnes gredzenu un kātiņu bez tādām atpakaļ izliektām zvīņām. Amanita rimosa cepurīte bieži radiāli saplaisā, īpaši pret malu. Amanita subjunquillea, arī tās baltā forma, parasti ir lielāka un tai nav šādas saplaisājušas cepurītes virsmas. Amanita pallidorosea bieži ir bāli sārts tonis un uzcilnis cepurītes vidū. Baltajām Agaricus sugām, tostarp Agaricus campestris, nav maksts, un to lapiņas vispirms kļūst sārtas, pēc tam brūnas. Leucocoprinus leucothites ir gredzens, bet nav maksts.",
           "notes": "Venjuaņas apgabalā Guandunas provincē saindējās pieci cilvēki, un divi no viņiem — 15 gadus vecs pusaudzis un 7 gadus vecs bērns — nomira. Notikuma vietā ievāktās sēnes tika identificētas kā šī suga un kā kvēpu mušmire (Amanita fuliginea). Cepurītes miziņa ir 130–190 μm bieza un divslāņaina. Tās augšējais slānis ir nedaudz želatinizēts un satur daudz uzpūstu šūnu, kas ir unikāla pazīmju kombinācija Amanita ģints Phalloideae sekcijā."
     },
       fi: {
@@ -71282,6 +71288,7 @@ export const CATALOG = [
           "sporePrint": "Valkoinen. Itiöt ovat sileitä, värittömiä ja ohutseinäisiä, pallomaisista lähes pallomaisiin, toisinaan leveän soikeita ja usein sisäsivulta litistyneitä. Ne ovat kooltaan (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, keskimäärin noin 7,0 × 6,6 μm, Q-arvon ollessa 1,01–1,16(–1,18). Keskimääräinen Q on noin 1,06. Ne muuttuvat sinisiksi jodissa.",
           "habitat": "Itiöemiä ilmestyy maahan yksittäin tai sirottuneina lehtimetsissä, mukaan lukien pyökkikasvien metsissä, kesäkuusta syyskuuhun.",
           "uses": "Se on tappavan myrkyllinen. Se sisältää amatoksiineja ja aiheuttaa akuutin maksavaurion, joka voi edetä maksan vajaatoiminnaksi. Erityistä vastamyrkkyä ei tunneta.",
+          "confusion": "Amanita virosa sekoitetaan Itä-Aasiassa usein tähän lajiin; se on yleensä kookkaampi, ja kovan alla on selvästi taakäännettyjä valkoisia suomuja. Amanita exitialis -lajilla on kaksitiöiset basidit, kärjessä sijaitseva rengas ja jalka ilman noita taakäännettyjä suomuja. Amanita rimosa -lajin lakki halkeilee usein säteittäisesti, etenkin reunaa kohti. Amanita subjunquillea, myös sen valkoinen muoto, on yleensä kookkaampi eikä sillä ole tuota halkeillutta lakin pintaa. Amanita pallidorosea -lajilla on usein vaaleanroosa sävy ja kohouma lakin keskellä. Valkoisilla Agaricus-lajeilla, mukaan lukien Agaricus campestris, ei ole tuppea, ja heltat muuttuvat ensin vaaleanpunaisiksi ja sitten ruskeiksi. Leucocoprinus leucothites -lajilla on rengas mutta ei tuppea.",
           "notes": "Wengyuanin piirikunnassa Guangdongissa viisi ihmistä myrkytettiin, ja heistä kaksi, 15-vuotias ja 7-vuotias, kuoli. Paikalta kerätyt sienet tunnistettiin tähän lajiin ja lajiin Amanita fuliginea kuuluviksi. Lakin pintakelmu on 130–190 μm paksu ja kaksikerroksinen. Sen ylempi kerros on hieman liivamainen ja sisältää runsaasti pullistuneita soluja, mikä on yhdistelmänä ainutlaatuinen alasuvussa tai sektiossa Amanita sectio Phalloideae."
     },
       de: {
@@ -71293,6 +71300,7 @@ export const CATALOG = [
           "habitat": "Fruchtkörper erscheinen im Frühjahr und Sommer in Wäldern Südchinas.",
           "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, etwa 8–10 μm groß und amyloid.",
           "uses": "Tödlich giftig. Er enthält gefährliche Amatoxine.",
+          "confusion": "Amanita virosa wird in Ostasien häufig an ihrer Stelle verwechselt; sie ist gewöhnlich größer und trägt unter dem Ring deutlich zurückgebogene weiße Schuppen am Stiel. Amanita exitialis hat zweisporige Basidien, einen apikalen Ring und einen Stiel ohne diese zurückgebogenen Schuppen. Der Hut von Amanita rimosa wird oft radial rissig, besonders zum Rand hin. Amanita subjunquillea, einschließlich ihrer weißen Form, ist gewöhnlich größer und hat diese rissige Hutoberfläche nicht. Amanita pallidorosea hat oft einen blassrosafarbenen Ton und einen Buckel in der Hutmitte. Weiße Agaricus-Arten, einschließlich Agaricus campestris, haben keine Volva, und ihre Lamellen werden zuerst rosa und dann braun. Leucocoprinus leucothites hat einen Ring, aber keine Volva.",
           "notes": "Im Kreis Wengyuan (Guangdong) erlitten fünf Personen Vergiftungen, von denen zwei Kinder starben. Die Huthaut ist 130–190 μm dick, zweischichtig, und ihre obere, leicht gelatinisierte Schicht enthält reichlich aufgeblasene Zellen – eine einzigartige Merkmalskombination innerhalb der Sektion Phalloideae."
     },
       cs: {
@@ -71304,6 +71312,7 @@ export const CATALOG = [
             "sporePrint": "Bílý. Výtrusy jsou hladké, bezbarvé a tenkostěnné, kulovité až téměř kulovité, občas široce elipsoidní, a často zploštělé na vnitřní straně. Měří (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, v průměru asi 7,0 × 6,6 μm, s Q 1,01–1,16(–1,18). Průměrné Q je asi 1,06. V jodu se barví modře.",
             "habitat": "Plodnice vyrůstají jednotlivě nebo roztroušeně na zemi v listnatém lese, včetně lesů s bukovitými stromy, od června do září.",
             "uses": "Je smrtelně jedovatá. Obsahuje amatoxiny a způsobuje akutní poškození jater, které může přejít v selhání jater. Není znám žádný specifický protijed.",
+            "confusion": "Amanita virosa je ve východní Asii často zaměňována s tímto druhem; bývá obvykle větší a na třeni pod prstenem má zřetelně nazpět ohnuté bílé šupiny. Amanita exitialis má dvouvýtrusé bazidie, vrcholový prsten a třeň bez takových nazpět ohnutých šupin. Klobouk Amanita rimosa bývá často paprsčitě rozpraskaný, zejména směrem k okraji. Amanita subjunquillea, včetně její bílé formy, bývá obvykle větší a takový rozpraskaný povrch klobouku nemá. Amanita pallidorosea má často bledě růžový nádech a hrbolek ve středu klobouku. Bílé druhy rodu Agaricus, včetně Agaricus campestris, nemají pochvu a jejich lupeny se barví nejprve do růžova a poté do hněda. Leucocoprinus leucothites má prsten, ale nemá pochvu.",
             "notes": "V okrese Weng-jüan v Kuang-tungu bylo otráveno pět lidí a dva z nich, patnáctiletý a sedmiletý, zemřeli. Houby sebrané na místě byly určeny jako tento druh a jako Amanita fuliginea. Pokožka klobouku je 130–190 μm tlustá a dvouvrstvá. Její horní vrstva je mírně rosolovitá a obsahuje hojné nafouklé buňky, což je kombinace jedinečná v sekci Phalloideae rodu Amanita."
     },
       en: {
@@ -71315,6 +71324,7 @@ export const CATALOG = [
         sporePrint: "White. The spores are smooth, colourless, and thin-walled, globose to subglobose, occasionally broadly ellipsoid, and often flattened on the inner side. They measure (6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) μm, on average about 7.0 × 6.6 μm, with Q 1.01–1.16(–1.18). The average Q is about 1.06. They turn blue in iodine.",
         habitat: "Fruit bodies appear singly or scattered on the ground in broad-leaved forest, including woods of the beech family, from June into September.",
         uses: "It is deadly. It contains amatoxins and causes acute liver injury, which can progress to liver failure. No specific antidote is known.",
+        confusion: "Amanita virosa is often misidentified in its place in East Asia; it is usually larger and has distinctly recurved white scales on the stipe below the ring. Amanita exitialis has two-spored basidia, an apical ring, and a stipe without those recurved scales. Amanita rimosa often has a radially cracked cap, especially toward the margin. Amanita subjunquillea, including its white form, is usually larger and lacks that cracked cap surface. Amanita pallidorosea often has a pale rose tint and an umbo at the centre of the cap. White mushrooms of the genus Agaricus, including Agaricus campestris, have no volva, and their gills turn pink and then brown. Leucocoprinus leucothites has a ring but no volva.",
         notes: "In Wengyuan County, Guangdong, five people were poisoned, and two of them, a 15-year-old and a 7-year-old, died. Mushrooms collected at the site were identified as this species and as Amanita fuliginea. The cap skin is 130–190 μm thick and two-layered. Its upper layer is slightly gelatinized and contains abundant inflated cells, a combination unique in Amanita section Phalloideae."
       },
       sk: {
@@ -71326,6 +71336,7 @@ export const CATALOG = [
         sporePrint: "Výtrusný prach je biely. Výtrusy sú hladké, bezfarebné a tenkostenné, guľovité až takmer guľovité, občas široko elipsoidné a často sploštené na vnútornej strane. Merajú (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, v priemere asi 7,0 × 6,6 μm, s Q 1,01–1,16(–1,18). Priemerné Q je asi 1,06. V jóde sa sfarbujú na modro.",
         habitat: "Plodnice vyrastajú jednotlivo alebo roztrúsene na zemi v listnatom lese, aj v lesoch bukovitých, od júna do septembra.",
         uses: "Je smrteľne jedovatá. Obsahuje amatoxíny a spôsobuje akútne poškodenie pečene, ktoré môže prejsť do zlyhania pečene. Špecifické antidotum nie je známe.",
+        confusion: "Amanita virosa sa v východnej Ázii často zamieňa s týmto druhom; býva zvyčajne väčšia a na hlúbiku pod prsteňom má zreteľne nazad ohnuté biele šupiny. Amanita exitialis má dvojvýtrusné bazídiá, vrcholový prsteň a hlúbik bez takýchto nazad ohnutých šupín. Klobúk Amanita rimosa býva často lúčovito popraskaný, najmä smerom k okraju. Amanita subjunquillea, vrátane jej bielej formy, býva zvyčajne väčšia a takýto popraskaný povrch klobúka nemá. Amanita pallidorosea má často bledoružový nádych a hrboľ v strede klobúka. Biele druhy rodu Agaricus, vrátane Agaricus campestris, nemajú pošvu a ich lupene sa sfarbujú najprv do ružova a potom do hneda. Leucocoprinus leucothites má prsteň, ale nemá pošvu.",
         notes: "V okrese Wengyuan v provincii Kuang-tung sa otrávilo päť ľudí a dvaja z nich, pätnásťročné dieťa a sedemročné dieťa, zomreli. Huby nazbierané na mieste boli určené ako tento druh a ako Amanita fuliginea. Pokožka klobúka je hrubá 130–190 μm a dvojvrstvová. Jej vrchná vrstva je mierne rôsolovatá a obsahuje hojné nafúknuté bunky, čo je v sekcii Phalloideae rodu Amanita jedinečné spojenie."
       },
     es: {
@@ -71337,6 +71348,7 @@ export const CATALOG = [
       sporePrint: "Blanca. Las esporas son lisas, incoloras, de paredes delgadas, de globosas a subglobosas, ocasionalmente anchamente elipsoidales, y a menudo aplanadas en la cara interna. Miden (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, en promedio alrededor de 7,0 × 6,6 μm, con un valor Q de 1,01–1,16(–1,18). El valor Q medio es de aproximadamente 1,06. Se tiñen de azul con el yodo.",
       habitat: "Los cuerpos fructíferos aparecen solitarios o dispersos sobre el suelo en bosques de hoja ancha, incluidos los bosques de la familia de las fagáceas, desde junio hasta septiembre.",
       uses: "Es mortal. Contiene amatoxinas y causa daño hepático agudo, que puede evolucionar hacia insuficiencia hepática. No se conoce ningún antídoto específico.",
+      confusion: "Amanita virosa se confunde a menudo con ella en Asia oriental; suele ser más grande y tiene escamas blancas claramente recurvadas en el estípite por debajo del anillo. Amanita exitialis tiene basidios bispóricos, un anillo apical y un estípite sin esas escamas recurvadas. El sombrero de Amanita rimosa suele agrietarse de forma radial, especialmente hacia el margen. Amanita subjunquillea, incluida su forma blanca, suele ser más grande y carece de esa superficie agrietada del sombrero. Amanita pallidorosea suele tener un tinte rosa pálido y un umbo en el centro del sombrero. Las especies blancas de Agaricus, incluida Agaricus campestris, no tienen volva, y sus láminas se vuelven rosadas y luego pardas. Leucocoprinus leucothites tiene anillo pero no volva.",
       notes: "En el condado de Wengyuan, Guangdong, cinco personas sufrieron intoxicación y dos de ellas, de 15 y 7 años, fallecieron. Las setas recolectadas en el lugar fueron identificadas como esta especie y como Amanita fuliginea. La piel del sombrero tiene un grosor de 130–190 μm y consta de dos capas. Su capa superior está ligeramente gelatinizada y contiene abundantes células hinchadas, una combinación exclusiva en la sección Phalloideae de Amanita."
     },
     nl: {
@@ -71348,6 +71360,7 @@ export const CATALOG = [
       sporePrint: "Wit. De sporen zijn glad, kleurloos en dunwandig, bolvormig tot bijna bolvormig, incidenteel breed ellipsvormig, en vaak afgeplat aan de binnenzijde. Ze meten (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, gemiddeld circa 7,0 × 6,6 μm, met Q = 1,01–1,16(–1,18). De gemiddelde Q is circa 1,06. Ze kleuren blauw in jodium (amyloïde).",
       habitat: "Vruchtlichamen verschijnen solitair of verspreid op de bodem in loofbossen, inclusief bossen van de beukenfamilie, van juni tot in september.",
       uses: "Hij is dodelijk giftig. Hij bevat amatoxines en veroorzaakt acute leverbeschadiging, die kan verergeren tot leverfalen. Er is geen specifiek tegengif bekend.",
+      confusion: "Amanita virosa wordt in Oost-Azië vaak met haar verwisseld; ze is gewoonlijk groter en heeft duidelijk teruggebogen witte schubben op de steel onder de ring. Amanita exitialis heeft tweesporige basidiën, een apikale ring en een steel zonder die teruggebogen schubben. De hoed van Amanita rimosa wordt vaak radiaal gescheurd, vooral naar de rand toe. Amanita subjunquillea, inclusief de witte vorm, is gewoonlijk groter en mist dat gescheurde hoedoppervlak. Amanita pallidorosea heeft vaak een bleekroze tint en een umbo in het midden van de hoed. Witte Agaricus-soorten, waaronder Agaricus campestris, hebben geen beurs, en hun platen worden eerst roze en dan bruin. Leucocoprinus leucothites heeft een ring maar geen beurs.",
       notes: "In Wengyuan County in Guangdong raakten vijf mensen vergiftigd, en twee van hen, een 15-jarige en een 7-jarige, overleden. Paddenstoelen verzameld op de vindplaats werden geïdentificeerd als deze soort en als Amanita fuliginea. De hoedhuid is 130–190 μm dik en tweelagig. Haar bovenste laag is licht gegelatineerd en bevat overvloedige opgezwollen cellen, een combinatie die uniek is binnen Amanita sectie Phalloideae."
     },
     da: {
@@ -71359,6 +71372,7 @@ export const CATALOG = [
       sporePrint: "Hvidt. Sporerne er glatte, farveløse og tyndvæggede, kuglerunde til næsten kuglerunde, lejlighedsvis bredt ellipsoide, og ofte affladede på indersiden. De måler (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, i gennemsnit cirka 7,0 × 6,6 μm, med en Q-værdi på 1,01–1,16(–1,18). Den gennemsnitlige Q-værdi er cirka 1,06. De farves blå i jod (amyloide).",
       habitat: "Frugtlegemerne fremkommer enkeltvis eller spredt på jorden i løvskov, herunder skove med træer fra bøgefamilien (Fagaceae), fra juni ind i september.",
       uses: "Den er dødeligt giftig. Den indeholder amatoksiner og forårsager akut leverskade, som kan udvikle sig til leversvigt. Der kendes ingen specifik modgift.",
+      confusion: "Amanita virosa forveksles ofte med den i Østasien; den er sædvanligvis større og har tydeligt tilbagebøjede hvide skæl på stokken under ringen. Amanita exitialis har tosporede basidier, en apikal ring og en stok uden disse tilbagebøjede skæl. Hatten hos Amanita rimosa bliver ofte radiært revnet, især mod randen. Amanita subjunquillea, herunder den hvide form, er sædvanligvis større og mangler den revnede hatoverflade. Amanita pallidorosea har ofte et blegrosa skær og en umbo midt på hatten. Hvide Agaricus-arter, herunder Agaricus campestris, har ingen volva, og deres lameller bliver først lyserøde og derefter brune. Leucocoprinus leucothites har en ring, men ingen volva.",
       notes: "I Wengyuan Amt i Guangdong blev fem personer forgiftet, og to af dem, en 15-årig og en 7-årig, døde. Svampe indsamlet på findestedet blev identificeret som denne art og som Amanita fuliginea. Hathuden er 130–190 μm tyk og tolaget. Dens øvre lag er let gelatiniseret og indeholder talrige opsvulmede celler, en kombination der er enestående inden for fluesvampeslægtens sektion Phalloideae."
     },
     no: {
@@ -71370,6 +71384,7 @@ export const CATALOG = [
       sporePrint: "Hvitt. Sporene er glatte, fargeløse og tynnveggede, kulerunde til subglobose, leilighetsvis bredt ellipsoide og ofte avflatet på innsiden. De måler (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, i gjennomsnitt cirka 7,0 × 6,6 μm, med et Q-forhold på 1,01–1,16(–1,18). Det gjennomsnittlige Q-forholdet er cirka 1,06. De farges blå i jod.",
       habitat: "Fruktlegemene bærer frukt enkeltvis eller spredt på bakken i løvskog, inkludert skoger med trær fra bøkefamilien (Fagaceae), fra juni og inn i september.",
       uses: "Den er dødelig giftig. Den inneholder amatoksiner og forårsaker akutt leverskade, som kan utvikle seg til leversvikt. Intet spesifikt motgift er kjent.",
+      confusion: "Amanita virosa blir ofte forvekslet med den i Øst-Asia; den er vanligvis større og har tydelig bakoverbøyde hvite skjell på stilken under ringen. Amanita exitialis har tosporede basidier, en apikal ring og en stilk uten slike bakoverbøyde skjell. Hatten hos Amanita rimosa blir ofte radiært oppsprukket, særlig mot kanten. Amanita subjunquillea, inkludert den hvite formen, er vanligvis større og mangler den oppsprukne hattoverflaten. Amanita pallidorosea har ofte et blekrosa skjær og en umbo midt på hatten. Hvite Agaricus-arter, inkludert Agaricus campestris, har ingen volva, og skivene blir først rosa og deretter brune. Leucocoprinus leucothites har en ring, men ingen volva.",
       notes: "I herredet Wengyuan i Guangdong ble fem personer forgiftet, og to av dem, en 15-åring og en 7-åring, omkom. Sopper som ble samlet inn på stedet ble identifisert som denne arten og som Amanita fuliginea. Hatthuden er 130–190 μm tykk og toskiktet. Det øvre skiktet er noe gelatinisert og inneholder rikelig med oppsvulmede celler, en kombinasjon som er unik innen fluesoppslektens seksjon Phalloideae."
     },
     sv: {
@@ -71381,6 +71396,7 @@ export const CATALOG = [
       sporePrint: "Vitt. Sporerna är släta, färglösa och tunnväggiga, klotrunda till subglobösa, tillfälligtvis brett ellipsoida och ofta tillplattade på insidan. De mäter (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, i genomsnitt cirka 7,0 × 6,6 μm, med ett Q-värde på 1,01–1,16(–1,18). Det genomsnittliga Q-värdet är cirka 1,06. De färgas blå i jod.",
       habitat: "Fruktkropparna uppträder enstaka eller spridda på marken i lövskog, inklusive skogar med träd ur bokfamiljen (Fagaceae), från juni in i september.",
       uses: "Den är dödligt giftig. Den innehåller amatoxiner och orsakar akut leverskada, vilken kan utvecklas till leversvikt. Inget specifikt motgift är känt.",
+      confusion: "Amanita virosa förväxlas ofta med den i Östasien; den är vanligen större och har tydligt bakåtböjda vita fjäll på foten under ringen. Amanita exitialis har tvåsporiga basidier, en apikal ring och en fot utan sådana bakåtböjda fjäll. Hatten hos Amanita rimosa blir ofta radiärt sprucken, särskilt mot kanten. Amanita subjunquillea, inklusive den vita formen, är vanligen större och saknar den spruckna hattytan. Amanita pallidorosea har ofta en blekrosa anstrykning och en puckel i hattens centrum. Vita Agaricus-arter, inklusive Agaricus campestris, saknar strumpa, och deras skivor blir först rosa och sedan bruna. Leucocoprinus leucothites har en ring men ingen strumpa.",
       notes: "I häradet Wengyuan i Guangdong förgiftades fem personer, och två av dem, en 15-åring och en 7-åring, avled. Svampar som samlades in på platsen identifierades som denna art och som Amanita fuliginea. Hatthuden är 130–190 μm tjock och tvåskiktad. Dess övre skikt är något gelatiniserat och innehåller rikligt med uppsvällda celler, en kombination som är unik inom flugsvampssläktets sektion Phalloideae."
     },
     ru: {
@@ -71392,6 +71408,7 @@ export const CATALOG = [
       sporePrint: "Белый. Споры гладкие, тонкостенные, от шаровидных до почти шаровидных, редко широкоэллипсоидные, (6,0–)6,5–8,0(–8,5) × (5,5–)6,0–7,5(–8,0) мкм. Опубликованные промеры в среднем составляют около 7,0 × 6,6 мкм, с Q 1,01–1,16(–1,18). Среднее значение Q составляет около 1,06. В иоде они синеют.",
       habitat: "Плодовые тела появляются поодиночке или рассеянно на почве в широколиственных лесах, включая леса с деревьями семейства буковых, с июня по сентябрь.",
       uses: "Смертельно ядовит. Он содержит аматоксины и вызывает острое токсическое поражение печени, которое может прогрессировать до печёночной недостаточности. Специфический антидот неизвестен.",
+      confusion: "Amanita virosa в Восточной Азии часто принимают за этот вид; она обычно крупнее и имеет отчётливо отогнутые назад белые чешуйки на ножке ниже кольца. У Amanita exitialis двуспоровые базидии, верхушечное кольцо и ножка без таких отогнутых чешуек. Шляпка Amanita rimosa часто радиально растрескивается, особенно к краю. Amanita subjunquillea, включая её белую форму, обычно крупнее и не имеет такой растрескавшейся поверхности шляпки. У Amanita pallidorosea часто бывает бледно-розовый оттенок и бугорок в центре шляпки. Белые виды рода Agaricus, включая Agaricus campestris, не имеют вольвы, а их пластинки сначала становятся розовыми, затем коричневыми. У Leucocoprinus leucothites есть кольцо, но нет вольвы.",
       notes: "В уезде Вэнъюань провинции Гуандун произошло отравление пяти человек, двое из которых — дети 15 и 7 лет — погибли. Грибы, собранные на месте происшествия, были идентифицированы как этот вид и как Amanita fuliginea. Кожица шляпки толщиной 130–190 мкм и двухслойная. Её верхний слой слегка желатинизирован и содержит обильные вздутые клетки, что представляет собой уникальное сочетание для секции Phalloideae рода Amanita."
     },
     uk: {
@@ -71403,6 +71420,7 @@ export const CATALOG = [
           "habitat": "Плодові тіла з'являються поодинці або розсіяно на ґрунті в широколистяних лісах, включаючи ліси родини букових, із червня по вересень.",
           "sporePrint": "Білий. Спори гладкі, безбарвні й тонкостінні, від кулястих до майже кулястих, зрідка широкоовальні, часто сплощені з внутрішнього боку. Вони мають розмір (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) мкм, у середньому близько 7,0 × 6,6 мкм, із Q 1,01–1,16(–1,18). Середнє значення Q становить близько 1,06. Вони синіють у йоді.",
           "uses": "Він смертельно отруйний. Він містить аматоксини та викликає гостре ураження печінки, яке може прогресувати до печінкової недостатності. Специфічний антидот невідомий.",
+          "confusion": "Amanita virosa у Східній Азії часто плутають із цим видом; вона зазвичай більша і має виразно відігнуті назад білі лусочки на ніжці нижче кільця. У Amanita exitialis двоспорові базидії, верхівкове кільце і ніжка без таких відігнутих лусочок. Шапинка Amanita rimosa часто радіально розтріскується, особливо до краю. Amanita subjunquillea, зокрема її біла форма, зазвичай більша і не має такої розтрісканої поверхні шапинки. У Amanita pallidorosea часто є блідо-рожевий відтінок і горбочок у центрі шапинки. Білі види роду Agaricus, зокрема Agaricus campestris, не мають вольви, а їхні пластинки спочатку стають рожевими, потім коричневими. У Leucocoprinus leucothites є кільце, але немає вольви.",
           "notes": "В повіті Веньюань провінції Гуандун отруїлися п'ять людей, і двоє з них — 15-річний підліток і 7-річна дитина — померли. Гриби, зібрані на місці події, були визначені як цей вид і як Amanita fuliginea. Шкірка шапинки має товщину 130–190 мкм і складається з двох шарів. Її верхній шар злегка желатинізований і містить багато роздутих клітин — поєднання, унікальне для секції Phalloideae роду Amanita."
     },
     pl: {
@@ -71415,6 +71433,7 @@ export const CATALOG = [
       sporePrint: "Biały. Zarodniki są gładkie, bezbarwne i cienkościenne, kuliste do półkulistych, czasami szeroko elipsoidalne i często spłaszczone po wewnętrznej stronie. Mierzą (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, średnio około 7,0 × 6,6 μm, przy Q 1,01–1,16(–1,18). Średnie Q wynosi około 1,06. Pod wpływem jodu stają się niebieskie.",
       habitat: "Owocniki pojawiają się pojedynczo lub rozproszone na ziemi w lasach liściastych, w tym w lasach z rodziny bukowych, od czerwca do września.",
       uses: "To jest śmiertelne. Zawiera amatoksyny i powoduje ostre uszkodzenie wątroby, które może prowadzić do niewydolności wątroby. Nie jest znane żadne specyficzne antidotum.",
+      confusion: "Amanita virosa jest w Azji Wschodniej często z nią mylona; bywa zwykle większa i ma wyraźnie odgięte białe łuski na trzonie poniżej pierścienia. Amanita exitialis ma podstawki dwuzarodnikowe, pierścień wierzchołkowy i trzon bez takich odgiętych łusek. Kapelusz Amanita rimosa często pęka promieniście, zwłaszcza w kierunku brzegu. Amanita subjunquillea, w tym jej biała forma, bywa zwykle większa i nie ma tak spękanej powierzchni kapelusza. Amanita pallidorosea ma często bladoróżowy odcień i garb na środku kapelusza. Białe gatunki z rodzaju Agaricus, w tym Agaricus campestris, nie mają pochwy, a ich blaszki barwią się najpierw na różowo, potem na brązowo. Leucocoprinus leucothites ma pierścień, ale nie ma pochwy.",
       notes: "W hrabstwie Wengyuan w Guangdong pięć osób zostało otrutych, a dwie z nich, 15-latek i 7-latek, zmarły. Grzyby zebrane na stanowisku zidentyfikowano jako ten gatunek oraz jako Amanita fuliginea. Skórka kapelusza ma grubość 130–190 μm i jest dwuwarstwowa. Jej górna warstwa jest lekko zżelatynizowana i zawiera liczne nadmuchane komórki, co jest kombinacją unikalną w sekcji Amanita Phalloideae.",
       sourceUrls: ["https://en.wikipedia.org/wiki/Amanita_rimosa"],
     },
@@ -71427,6 +71446,7 @@ export const CATALOG = [
       sporePrint: "Blanche. Les spores sont lisses, incolores et à paroi mince, globuleuses à subglobuleuses, occasionnellement largement ellipsoïdes, et souvent aplaties sur la face interne. Elles mesurent (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) µm, en moyenne environ 7,0 × 6,6 µm, avec un quotient Q de 1,01–1,16(–1,18). Le quotient Q moyen est d'environ 1,06. Elles virent au bleu dans l'iode.",
       habitat: "Les sporophores apparaissent solitaires ou dispersés sur le sol dans les forêts de feuillus, y compris les bois de la famille du hêtre, de juin jusqu'en septembre.",
       uses: "Il est mortellement toxique. Il contient des amatoxines et provoque des lésions hépatiques aiguës, qui peuvent évoluer vers une insuffisance hépatique. Aucun antidote spécifique n'est connu.",
+      confusion: "Amanita virosa est souvent confondue avec elle en Asie de l’Est ; elle est généralement plus grande et porte, sur le stipe sous l’anneau, des écailles blanches distinctement recourbées. Amanita exitialis a des basides bisporiques, un anneau apical et un stipe sans ces écailles recourbées. Le chapeau d’Amanita rimosa devient souvent fissuré radialement, surtout vers la marge. Amanita subjunquillea, y compris sa forme blanche, est généralement plus grande et n’a pas cette surface de chapeau fissurée. Amanita pallidorosea a souvent une teinte rose pâle et un umbo au centre du chapeau. Les espèces blanches d’Agaricus, y compris Agaricus campestris, n’ont pas de volve, et leurs lames deviennent roses puis brunes. Leucocoprinus leucothites a un anneau mais pas de volve.",
       notes: "Dans le comté de Wengyuan, dans le Guangdong, cinq personnes ont été empoisonnées, et deux d'entre elles, âgées de 15 ans et de 7 ans, sont décédées. Les champignons récoltés sur le site ont été identifiés comme appartenant à cette espèce et à Amanita fuliginea. La cuticule du chapeau mesure 130–190 µm d'épaisseur et comporte deux couches. Sa couche supérieure est légèrement gélatinisée et contient d'abondantes cellules renflées, une combinaison unique au sein d'Amanita section Phalloideae."
     },
     it: {
@@ -71438,6 +71458,7 @@ export const CATALOG = [
       sporePrint: "Bianca. Le spore sono sferiche o subsferiche, lisce, amiloidi, di circa 8–10 μm.",
       habitat: "I corpi fruttiferi compaiono isolati o a piccoli gruppi a terra nelle foreste subtropicali di latifoglie durante la stagione calda e piovosa.",
       uses: "È un fungo mortale. Contiene amatossine che provocano grave necrosi epatica acuta con esito fatale.",
+      confusion: "Amanita virosa viene spesso scambiata al suo posto in Asia orientale; è di solito più grande e ha squame bianche distintamente ricurve sul gambo sotto l’anello. Amanita exitialis ha basidi bisporici, un anello apicale e un gambo privo di quelle squame ricurve. Il cappello di Amanita rimosa diventa spesso fessurato radialmente, soprattutto verso il margine. Amanita subjunquillea, compresa la sua forma bianca, è di solito più grande e non ha quella superficie del cappello fessurata. Amanita pallidorosea ha spesso una tinta rosa pallido e un umbone al centro del cappello. Le specie bianche di Agaricus, compresa Agaricus campestris, non hanno volva e le loro lamelle diventano prima rosa e poi brune. Leucocoprinus leucothites ha un anello ma non ha volva.",
       notes: "Nella contea di Wengyuan nel Guangdong provocò l'intossicazione letale di raccoglitori locali che lo avevano scambiato per specie commestibili tradizionali."
     },
     hu: {
@@ -71449,6 +71470,7 @@ export const CATALOG = [
       sporePrint: "Fehér. A spórák simák, színtelenek és vékony falúak, gömbölydedek vagy szubglobózusak, alkalmanként széles elliptikusak, és jódban megkékülnek (amiloidok). Méretük körülbelül 9–11,5 × 8,5–10,5 μm.",
       habitat: "A termőtestek a talajon jelennek meg magányosan vagy kis csoportokban a Castanopsis, Cyclobalanopsis és Lithocarpus fafajok által uralt szubtrópusi erdőkben. Júniustól augusztusig gyűjthető Kína déli hegyvidékein.",
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz és akut májkárosodást okoz, amely májelégtelenségig súlyosbodhat. Nincs specifikus ellenszere, a túlélés az azonnali támogató kezeléstől függ.",
+      confusion: "Az Amanita virosa Kelet-Ázsiában gyakran összetévesztik vele; általában nagyobb, és a gallér alatt a tönkön határozottan visszahajló fehér pikkelyek vannak. Az Amanita exitialis kétsóros bazídiumú, csúcsi gallérú, és tönkje nem visel ilyen visszahajló pikkelyeket. Az Amanita rimosa kalapja gyakran sugarasan berepedezik, különösen a szél felé. Az Amanita subjunquillea, fehér alakját is beleértve, általában nagyobb, és nincs ilyen berepedezett kalapfelszíne. Az Amanita pallidorosea kalapjának közepe gyakran halvány rózsás árnyalatú és púpos. A fehér Agaricus-fajoknak, köztük az Agaricus campestris fajnak, nincs bocskoruk, és lemezük először rózsaszínű, majd barna lesz. A Leucocoprinus leucothites fajnak van gallérja, de nincs bocskora.",
       notes: "A fajt a dél-kínai Kuangtung (Guangdong) tartományban írták le. Vengjüan (Wengyuan) megyében öt ember mérgeződött meg tőle, és közülük ketten, egy 15 és egy 7 éves gyermek meghalt. A gomba a helyi fehér galóca fajkomplexum része."
     },
     pt: {
@@ -71460,6 +71482,7 @@ export const CATALOG = [
       sporePrint: 'Branca. Os esporos são lisos, incolores e de parede fina, globosos a subglobosos, ocasionalmente largamente elipsóides e muitas vezes achatados na face interna. Medem (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, em média cerca de 7,0 × 6,6 μm, com Q de 1,01–1,16(–1,18). O Q médio é de cerca de 1,06. Tornam-se azuis com o iodo.',
       habitat: 'Os corpos frutíferos surgem solitários ou dispersos no solo em florestas de folhosas, incluindo bosques da família das fagáceas, de junho a setembro.',
       uses: 'É mortal. Contém amatoxinas e provoca lesão hepática aguda, que pode evoluir para insuficiência hepática. Não se conhece nenhum antídoto específico.',
+      confusion: 'Amanita virosa é frequentemente confundida com ela no Leste da Ásia; é geralmente maior e tem escamas brancas distintamente recurvadas no estipe abaixo do anel. Amanita exitialis tem basídios bispóricos, um anel apical e um estipe sem essas escamas recurvadas. O chapéu de Amanita rimosa torna-se frequentemente fissurado de forma radial, sobretudo em direção à margem. Amanita subjunquillea, incluindo a sua forma branca, é geralmente maior e não tem essa superfície fissurada do chapéu. Amanita pallidorosea tem frequentemente um tom rosa-pálido e um umbo no centro do chapéu. As espécies brancas de Agaricus, incluindo Agaricus campestris, não têm volva, e as suas lâminas tornam-se cor-de-rosa e depois castanhas. Leucocoprinus leucothites tem anel, mas não tem volva.',
       notes: 'No condado de Wengyuan, em Guangdong, cinco pessoas foram envenenadas e duas delas, um jovem de 15 anos e uma criança de 7 anos, morreram. Cogumelos colhidos no local foram identificados como sendo desta espécie e como Amanita fuliginea. A cutícula do chapéu tem 130–190 μm de espessura e duas camadas. A sua camada superior é ligeiramente gelatinizada e contém abundantes células insufladas, uma combinação única na secção Phalloideae de Amanita.'
     },
     ro: {
@@ -71471,6 +71494,7 @@ export const CATALOG = [
       sporePrint: 'Albă. Sporii sunt globuloși până la subsferici, netezi și hialini. Măsoară (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, cu o medie de circa 7,0 × 6,6 μm și un raport Q de 1,01–1,16(–1,18). Raportul mediu Q este de circa 1,06. Sporii devin albaștri în iod, prezentând o reacție puternic amiloidă.',
       habitat: 'Corpurile fructifere apar solitare sau răsfirate pe sol în păduri de foioase, inclusiv păduri de fagacee, din iunie până în septembrie.',
       uses: 'Este o ciupercă mortală. Conține amatoxine puternice și provoacă leziuni hepatice acute severe, care pot evolua rapid spre insuficiență hepatică fulminantă. Nu se cunoaște niciun antidot specific.',
+      confusion: 'Amanita virosa este adesea confundată cu ea în Asia de Est; este de obicei mai mare și are solzi albi distinct recurbați pe picior, sub inel. Amanita exitialis are bazidii bisporice, un inel apical și un picior fără acei solzi recurbăți. Pălăria de Amanita rimosa devine adesea crăpată radial, mai ales spre margine. Amanita subjunquillea, inclusiv forma sa albă, este de obicei mai mare și nu are acea suprafață crăpată a pălăriei. Amanita pallidorosea are adesea o nuanță roz pal și un umbo în centrul pălăriei. Speciile albe de Agaricus, inclusiv Agaricus campestris, nu au volvă, iar lamelele devin mai întâi roz, apoi brune. Leucocoprinus leucothites are inel, dar nu are volvă.',
       notes: 'În comitatul Wengyuan din provincia Guangdong, cinci persoane au fost otrăvite, iar două dintre ele, un copil de 15 ani și unul de 7 ani, au decedat. Ciupercile recoltate de la fața locului au fost identificate ca aparținând acestei specii și speciei Amanita fuliginea. Pielița pălăriei are o grosime de 130–190 μm și este bistratificată. Stratul său superior este ușor gelatinizat și conține celule umflate abundente, o combinație unică în cadrul genului Amanita secțiunea Phalloideae.'
     },
     bg: {
@@ -71482,6 +71506,7 @@ export const CATALOG = [
       sporePrint: 'Бял. Спорите са гладки, безцветни и тънкостенни, кълбовидни до почти кълбовидни, по изключение широко елипсовидни, като често съдържат една мастна капка. Размерите на спорите са около 7–10 × 6–8,5 μm. Те са силно амилоидни. Съотношението между дължина и ширина е около 1,05–1,25.',
       habitat: 'Плодните тела се появяват поединично или разпръснато по земята в широколистни гори, включително гори от семейство Букови (Fagaceae), от май до октомври, особено след топли дъждове.',
       uses: 'Тя е смъртоносно отровна. Съдържа аматоксини и причинява остро чернодробно увреждане, което може да прогресира до чернодробна недостатъчност. Не съществува специфичен антидот и лечението разчита на поддържаща интензивна терапия.',
+      confusion: 'Amanita virosa често се бърка с нея в Източна Азия; обикновено е по-едра и има ясно извити назад бели люспи по пънчето под пръстена. Amanita exitialis има двуспорови базидии, връхен пръстен и пънче без тези извити назад люспи. Гуглата на Amanita rimosa често се напуква радиално, особено към ръба. Amanita subjunquillea, включително бялата ѝ форма, обикновено е по-едра и няма тази напукана повърхност на гуглата. Amanita pallidorosea често има бледорозов оттенък и гърбица в центъра на гуглата. Белите видове от род Agaricus, включително Agaricus campestris, нямат волва, а пластинките им стават първо розови, после кафяви. Leucocoprinus leucothites има пръстен, но няма волва.',
       notes: 'В окръг Уенюен, провинция Гуандун, се отравят пет души, като двама от тях — на 15 и на 7 години — загиват. На мястото на събиране са намерени гъби от този вид. Описана е като нов вид през 2016 г. от Джу-Лян Ян и сътрудници. Видовото име rimosa се отнася до радиално напуканата или набраздена повърхност на гуглата.'
     },
     sl: {
@@ -71493,6 +71518,7 @@ export const CATALOG = [
       sporePrint: 'Bel. Trosi so gladki, brezbarvni in tankostenski, kroglasti do skoraj kroglasti, občasno široko elipsoidni ter pogosto sploščeni na notranji strani. Merijo (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, v povprečju približno 7,0 × 6,6 μm, z razmerjem Q 1,01–1,16(–1,18). Povprečni Q je približno 1,06. V jodu se obarvajo modro.',
       habitat: 'Trosnjaki se pojavljajo posamično ali raztreseno na tleh v listnatih gozdovih, vključno z gozdovi bukovk, od junija do septembra.',
       uses: 'Je smrtno strupena. Vsebuje amatoksine in povzroča akutno poškodbo jeter, ki lahko napreduje v odpoved jeter. Noben specifičen protistrup ni znan.',
+      confusion: 'Amanita virosa v vzhodni Aziji pogosto zamenjujejo z njo; je navadno večja in ima na betu pod obročkom izrazito nazaj zavihane bele luske. Amanita exitialis ima dvosporne bazidije, vršni obroček in bet brez takih nazaj zavihanih lusk. Klobuk vrste Amanita rimosa je pogosto radialno razpokan, zlasti proti robu. Amanita subjunquillea, vključno z belo obliko, je navadno večja in nima take razpokane površine klobuka. Amanita pallidorosea ima pogosto bledo rožnat odtenek in grbico na sredi klobuka. Bele vrste rodu Agaricus, vključno z Agaricus campestris, nimajo ovojnice, njihovi lističi pa se najprej obarvajo rožnato in nato rjavo. Leucocoprinus leucothites ima obroček, vendar nima ovojnice.',
       notes: 'V okrožju Wengyuan v provinci Guangdong se je zastrupilo pet ljudi, dva od njih, 15-letnik in 7-letnik, pa sta umrla. Gobe, nabrane na najdišču, so bile določene kot ta vrsta in kot Amanita fuliginea. Kožica klobuka je debela 130–190 μm in dvoplastna. Njena zgornja plast je rahlo želatinizirana in vsebuje številne napihnjene celice, kar je kombinacija, edinstvena v sekciji Phalloideae rodu Amanita.'
     },
     sr: {
@@ -71504,6 +71530,7 @@ export const CATALOG = [
       sporePrint: 'Бео. Споре су глатке, безбојне и танких зидова, лоптасте до скоро лоптасте, повремено широко елиптичне, и често спљоштене са унутрашње стране. Димензије су им (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, у просеку око 7,0 × 6,6 μm, са фактором облика Q 1,01–1,16(–1,18). Просечан Q је око 1,06. У јоду поплаве (амилоидне су).',
       habitat: 'Плодна тела се појављују појединачно или раштркано по земљи у листопадним шумама, укључујући шуме са дрвећем из породице букава, од јуна до септембра.',
       uses: 'Смртно отровна. Садржи аматоксине и изазива акутно оштећење јетре, које може прогресирати до потпуног отказивања јетре. Специфичан антидот није познат.',
+      confusion: 'Amanita virosa се у Источној Азији често меша са њом; обично је већа и на стручку испод прстена има изразито уназад савијене беле љуспе. Amanita exitialis има двоспоре базидије, вршни прстен и стручак без таквих уназад савијених љуспи. Шешир врсте Amanita rimosa често пуца радијално, нарочито према ивици. Amanita subjunquillea, укључујући њен бели облик, обично је већа и нема ту испуцалу површину шешира. Amanita pallidorosea често има бледорозе нијансу и испупчење у средини шешира. Беле врсте рода Agaricus, укључујући Agaricus campestris, немају волву, а њихови листићи прво постану ружичасти, затим смеђи. Leucocoprinus leucothites има прстен, али нема волву.',
       notes: 'У округу Венгјуан у покрајини Гуангдунг отровано је пет особа, од којих су две, једна од 15 и једна од 7 година, преминуле. Гљиве сакупљене на том месту идентификоване су као ова врста и као Amanita fuliginea. Кожица шешира је дебела 130–190 μm и двослојна је. Њен горњи слој је благо желатинизован и садржи обиље надуваних ћелија, што представља комбинацију јединствену у оквиру врста рода Amanita секције Phalloideae.'
     },
     ja: {
@@ -71515,6 +71542,7 @@ export const CATALOG = [
       sporePrint: '白色です。胞子は広楕円形から類球形、平滑、無色透明、薄壁で、約7.5〜10 × 6.5〜8 μmです。強アミロイド性です。光学顕微鏡下で典型的なアマニタ型のアミロイド胞子が観察されます。油滴を含みます。発芽孔はありません。',
       habitat: '夏から秋にかけて、ブナ科の常緑広葉樹林の林床に単生または群生します。',
       uses: '致死的な猛毒キノコです。アマトキシン類を含有し、重篤な肝不全および多臓器不全を引き起こします。中国南部で誤食による死亡事故が発生しています。',
+      confusion: '東アジアでは Amanita virosa が本種と誤同定されることが多い。Amanita virosa は通常より大型で、つばの下の柄に明瞭に反曲した白色鱗片がある。Amanita exitialis は二胞子性の担子器と頂生のつばをもち、そのような反曲鱗片のない柄をもつ。Amanita rimosa のカサは、とくに縁部に向かって放射状に裂けやすい。白色型を含む Amanita subjunquillea は通常より大型で、そのような裂けたカサ表面をもたない。Amanita pallidorosea はしばしば淡いバラ色を帯び、カサの中央に突起がある。Agaricus campestris を含む白色の Agaricus 類はツボがなく、ひだはまず桃色、のちに褐色になる。Leucocoprinus leucothites はつばをもつが、ツボはない。',
       notes: '学名の「rimosa」は「ひび割れた、裂け目のある」を意味し、成熟した傘の表面や縁に見られる微細な放射状のひび割れに由来します。コノハタマゴテングタケやドクツルタケと極めて近縁であり、分子系統解析によって独立種として確立されました。日本国内でも近畿地方などから発生が確認されており、シロタマゴテングタケ類としての注意が必要です。アマトキシン中毒の危険性が極めて高い種です。'
     },
     ko: {
@@ -71526,6 +71554,7 @@ export const CATALOG = [
       sporePrint: '흰색이다. 포자는 표면이 매끄럽고 무색이며 세포벽이 얇고 구형에서 아구형이며 때때로 넓은 타원형이고 안쪽 면이 편평한 경우가 많다. 크기는 (6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) μm이며 평균은 약 7.0 × 6.6 μm이고 Q값은 1.01–1.16(–1.18)이다. 평균 Q값은 약 1.06이다. 요오드 용액에서 청색으로 변하는 아밀로이드 반응을 보인다.',
       habitat: '자실체는 참나무과 수목이 자라는 숲을 포함한 활엽수림 내 땅 위에 단독으로 나거나 흩어져서 6월부터 9월 사이에 발생한다.',
       uses: '치명적인 맹독성 버섯이다. 아마톡신을 함유하고 있어 급성 간 손상을 일으키며 이는 간부전으로 진행될 수 있다. 특이적인 해독제는 알려져 있지 않다.',
+      confusion: '동아시아에서는 Amanita virosa가 본 종으로 오동정되는 일이 많다. Amanita virosa는 보통 더 크고, 턱받이 아래 대에 뚜렷하게 뒤로 굽은 흰색 비늘이 있다.Amanita exitialis는 2포자성 담자기와 꼭대기의 턱받이를 가지며, 그런 뒤로 굽은 비늘이 없는 대를 가진다.Amanita rimosa의 갓은 특히 가장자리 쪽으로 방사상으로 갈라지는 경우가 많다.흰색 형을 포함한 Amanita subjunquillea는 보통 더 크고 그런 갈라진 갓 표면이 없다.Amanita pallidorosea는 종종 옅은 장미색을 띠고 갓 중앙에 볼록한 꼭지가 있다.Agaricus campestris를 포함한 흰색 Agaricus 종은 대주머니가 없고, 주름은 먼저 분홍으로 되었다가 갈색으로 변한다.Leucocoprinus leucothites는 턱받이는 있으나 대주머니는 없다.',
       notes: '광둥성 웡위안현에서 5명이 중독되어 그중 15세와 7세 어린이 2명이 사망하였다. 사고 현장에서 수거된 버섯들은 이 종과 그을음광대버섯(Amanita fuliginea)으로 동정되었다. 갓 표피의 두께는 130–190 μm이며 두 개 층으로 이루어져 있다. 표피의 상층은 약간 젤라틴화되어 있고 풍부한 팽대 세포들을 포함하고 있는데, 이는 광대버섯속 알광대버섯절(section Phalloideae) 내에서 유일무이한 특징적 조합이다.'
     },
     hi: {
@@ -71537,6 +71566,7 @@ export const CATALOG = [
       sporePrint: 'बीजाणु छाप सफ़ेद होती है। बीजाणु चिकने, रंगहीन और पतली भित्ति वाले, गोलाकार से उपगोलाकार, कभी-कभी चौड़े दीर्घवृत्ताकार और अक्सर भीतरी तरफ चपटे होते हैं। उनका माप (6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) μm, औसतन लगभग 7.0 × 6.6 μm होता है, और Q मान 1.01–1.16(–1.18) होता है। औसत Q लगभग 1.06 होता है। वे आयोडीन में नीले हो जाते हैं।',
       habitat: 'फलनकाय जून से सितंबर तक बीच कुल के वनों सहित चौड़ी पत्ती वाले जंगलों में जमीन पर अकेले या छिटपुट रूप से दिखाई देते हैं।',
       uses: 'यह प्राणघातक है। इसमें एमाटॉक्सिन होते हैं और यह तीव्र यकृत क्षति का कारण बनता है, जो बढ़कर यकृत विफलता में बदल सकती है। इसका कोई विशिष्ट मारक (एंटीडोट) ज्ञात नहीं है।',
+      confusion: 'पूर्वी एशिया में Amanita virosa को अक्सर इस प्रजाति के स्थान पर गलत पहचाना जाता है; वह आमतौर पर बड़ी होती है और वलय के नीचे डंठल पर स्पष्ट रूप से पीछे मुड़ी सफ़ेद शल्कें होती हैं।Amanita exitialis में द्विबीजाणु बेसिडियम, शीर्षस्थ वलय, और उन पीछे मुड़ी शल्कों के बिना डंठल होता है।Amanita rimosa की टोपी अक्सर अरीय रूप से फट जाती है, विशेषकर किनारे की ओर।Amanita subjunquillea, इसके सफ़ेद रूप सहित, आमतौर पर बड़ी होती है और उस फटी टोपी सतह से रहित होती है।Amanita pallidorosea में अक्सर हल्का गुलाबी रंग और टोपी के केंद्र में एक उभार होता है।सफ़ेद Agaricus प्रजातियाँ, जिनमें Agaricus campestris शामिल है, वॉल्वा नहीं रखतीं, और उनकी गिल पहले गुलाबी फिर भूरी हो जाती हैं।Leucocoprinus leucothites में वलय होता है, पर वॉल्वा नहीं होता।',
       notes: 'गुआंगडोंग की वेंगयुआन काउंटी में पाँच लोग विषाक्त हुए, और उनमें से दो, एक 15 वर्षीय और एक 7 वर्षीय, की मृत्यु हो गई। उस स्थल से एकत्र किए गए मशरूमों की पहचान इस प्रजाति और Amanita fuliginea के रूप में की गई थी। टोपी की त्वचा 130–190 μm मोटी और दो परतों वाली होती है। इसकी ऊपरी परत थोड़ी जिलेटिनीकृत होती है और इसमें प्रचुर मात्रा में फूली हुई कोशिकाएँ होती हैं, जो Amanita अनुभाग Phalloideae में एक अनूठा संयोजन है।'
     },
       id: {
@@ -71548,6 +71578,7 @@ export const CATALOG = [
         sporePrint: 'Putih. Sporanya halus, tidak berwarna, dan berdinding tipis, berbentuk globosa hingga subglobosa, sesekali elipsoid lebar, dan kerap agak pipih pada sisi bagian dalam. Ukurannya (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, rata-rata sekitar 7,0 × 6,6 μm, dengan nilai Q 1,01–1,16(–1,18). Rata-rata nilai Q adalah sekitar 1,06. Spora berubah menjadi biru di dalam iodin.',
         habitat: 'Tubuh buah muncul satu per satu atau terpencar di atas tanah di hutan pohon berdaun lebar, termasuk hutan famili bewuk, dari bulan Juni hingga September.',
         uses: 'Jamur ini mematikan. Tubuh buahnya mengandung amatoksin dan menyebabkan cedera hati akut, yang dapat berkembang menjadi gagal hati. Belum ada penawar khusus yang diketahui.',
+        confusion: 'Di Asia Timur, Amanita virosa sering salah dikenali sebagai spesies ini; biasanya lebih besar dan memiliki sisik putih yang jelas melengkung ke belakang pada batang di bawah cincin. Amanita exitialis memiliki basidium berdua spora, cincin di ujung atas, dan batang tanpa sisik melengkung itu. Tudung Amanita rimosa sering retak secara radial, terutama ke arah tepi. Amanita subjunquillea, termasuk bentuk putihnya, biasanya lebih besar dan tidak memiliki permukaan tudung yang retak seperti itu. Amanita pallidorosea sering memiliki warna merah muda pucat dan umbo di pusat tudung. Spesies Agaricus putih, termasuk Agaricus campestris, tidak memiliki volva, dan insangnya berubah menjadi merah muda lalu cokelat. Leucocoprinus leucothites memiliki cincin tetapi tidak memiliki volva.',
         notes: 'Di Kabupaten Wengyuan, Guangdong, lima orang mengalami keracunan, dan dua di antaranya, seorang anak berusia 15 tahun dan seorang anak berusia 7 tahun, meninggal dunia. Jamur yang dikumpulkan di lokasi kejadian diidentifikasi sebagai spesies ini dan sebagai Amanita fuliginea. Kulit tudungnya memiliki ketebalan 130–190 μm dan terdiri atas dua lapisan. Lapisan atasnya mengalami sedikit gelatinisasi dan mengandung banyak sel yang menggembung, suatu kombinasi unik di dalam Amanita seksi Phalloideae.'
       },
       he: {
@@ -71559,6 +71590,7 @@ export const CATALOG = [
         sporePrint: 'תדפיס הנבגים לבן טהור. הנבגים כדוריים עד תת-כדוריים, חלקים, שקופים, כ-(6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) מיקרומטר, בממוצע כ-7.0 × 6.6 מיקרומטר. הנבגים פחוסים לעיתים קרובות בצדם הפנימי. היחס הממוצע Q הוא כ-1.06. הנבגים נצבעים בכחול ביוד (עמילואידיים).',
         habitat: 'גופי פרי מופיעים ביחידים או מפוזרים על הקרקע ביערות רחבי-עלים, כולל חורשות ממשפחת האלוניים (Fagaceae), מיוני ועד ספטמבר.',
         uses: 'היא קטלנית. היא מכילה אמטוקסינים וגורמת לפגיעה כבדית חריפה, היכולה להתקדם לאי-ספיקת כבד. אין נסיוב או נוגדן ייעודי מוכר.',
+        confusion: 'באסיה המזרחית מזהים לעיתים קרובות בטעות את Amanita virosa במקומה; היא בדרך כלל גדולה יותר, ועל הרגל מתחת לטבעת יש קשקשים לבנים הכפופים לאחור באופן ברור. ל-Amanita exitialis יש בסידיות דו-נבגיות, טבעת קודקודית ורגל בלי אותם קשקשים כפופים. הכובע של Amanita rimosa נסדק לעיתים קרובות באופן רדיאלי, במיוחד לכיוון השוליים. Amanita subjunquillea, כולל הצורה הלבנה שלה, בדרך כלל גדולה יותר וחסרה את משטח הכובע הסדוק הזה. ל-Amanita pallidorosea יש לעיתים קרובות גוון ורדרד חיוור ובליטה במרכז הכובע. למיני Agaricus לבנים, כולל Agaricus campestris, אין וולווה, והזימים שלהם הופכים ורודים ואחר כך חומים. ל-Leucocoprinus leucothites יש טבעת אבל אין וולווה.',
         notes: 'במחוז וונגיואן שבגואנגדונג הורעלו חמישה אנשים, ושניים מהם, נער בן 15 וילד בן 7, נפטרו. פטריות שנאספו באתר זוהו כמין זה וכ-(Amanita fuliginea). עור הכובע בעובי של כ-130–190 מיקרומטר והוא דו-שכבתי. השכבה העליונה שלו מג\'ולטנת קלות ומכילה תאים תפוחים בשפע, שילוב ייחודי בסקציית Phalloideae של (Amanita).'
       },
     fa: {
@@ -71570,6 +71602,7 @@ export const CATALOG = [
       sporePrint: 'سفید است. هاگ‌ها صاف، بی‌رنگ و دارای دیواره نازک هستند، کروی تا نیمه‌کروی، گهگاه پهن‌بیضوی، و اغلب در سطح داخلی مسطح شده‌اند. ابعاد آن‌ها (۶.۰–) ۶.۳ تا ۸.۳ (–۸.۶) در (۵.۶–) ۵.۸ تا ۷.۴ (–۸.۲) میکرومتر است، با میانگین حدود ۷.۰ در ۶.۶ میکرومتر، با نسبت Q معادل ۱.۰۱ تا ۱.۱۶ (–۱.۱۸). میانگین Q حدود ۱.۰۶ است. در ید به رنگ آبی درمی‌آیند.',
       habitat: 'اندام‌های بارده به صورت منفرد یا پراکنده روی زمین در جنگل‌های پهن‌برگ، از جمله جنگل‌های تیره راش، از خرداد تا شهریور (ژوئن تا سپتامبر) ظاهر می‌شوند.',
       uses: 'قارچی مرگبار و کشنده است. حاوی آماتوکسین‌ها است و باعث آسیب حاد کبد می‌شود، که می‌تواند تا نارسایی کبد پیشرفت کند. پادزهر مشخصی برای آن شناخته نشده است.',
+      confusion: 'در شرق آسیا اغلب Amanita virosa را به جای این گونه اشتباه شناسایی می‌کنند؛ معمولاً بزرگ‌تر است و روی ساقه، زیر حلقه، پولک‌های سفید به‌روشنی برگشته به عقب دارد. Amanita exitialis بازیدی‌های دواسپوره، حلقهٔ رأسی و ساقه‌ای بدون آن پولک‌های برگشته دارد. کلاهک Amanita rimosa اغلب به‌صورت شعاعی ترک می‌خورد، به‌ویژه به سمت حاشیه. Amanita subjunquillea، از جمله فرم سفید آن، معمولاً بزرگ‌تر است و آن سطح ترک‌خوردهٔ کلاهک را ندارد. Amanita pallidorosea اغلب ته‌رنگ صورتی کم‌رنگ و برآمدگی در مرکز کلاهک دارد. گونه‌های سفید Agaricus، از جمله Agaricus campestris، ولوا ندارند و تیغه‌هایشان نخست صورتی و سپس قهوه‌ای می‌شوند. Leucocoprinus leucothites حلقه دارد اما ولوا ندارد.',
       notes: 'در شهرستان ونگ‌یوان در گوانگ‌دونگ، پنج نفر دچار مسمومیت شدند، و دو نفر از آن‌ها، یک نوجوان ۱۵ ساله و یک کودک ۷ ساله، جان باختند. قارچ‌های جمع‌آوری‌شده در آن محل به عنوان این گونه و گونه Amanita fuliginea شناسایی شدند. پوست کلاهک ۱۳۰ تا ۱۹۰ میکرومتر ضخامت دارد و دو لایه است. لایه بالایی آن کمی ژلاتینی شده است و حاوی سلول‌های متورم فراوان است، ترکیبی که در بخش Phalloideae از جنس Amanita منحصر‌به‌فرد است.'
     },
     ar: {
@@ -71581,6 +71614,7 @@ export const CATALOG = [
       sporePrint: "أبيض. الأبواغ ملساء وعديمة اللون ورقيقة الجدران، وتكون كروية إلى شبه كروية، وأحياناً بيضاوية عريضة، وغالباً ما تكون مسطحة على الجانب الداخلي. وتبلغ أبعادها (6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) ميكرومتر، بمتوسط يبلغ حوالي 7.0 × 6.6 ميكرومتر، مع معامل شكل (Q) يتراوح بين 1.01–1.16(–1.18). ويبلغ متوسط معامل الشكل (Q) حوالي 1.06. وهي تتحول إلى اللون الأزرق في اليود.",
       habitat: "تظهر الأجسام الثمرية منفردة أو متناثرة على الأرض في الغابات عريضة الأوراق، بما في ذلك غابات الفصيلة الزانية، من يونيو حتى سبتمبر.",
       uses: "إنه فطر قاتل. وهو يحتوي على سموم الأمانيتين ويسبب إصابة كبدية حادة قد تتطور إلى فشل كبدي. ولا يُعرف له أي ترياق نوعي محدد.",
+      confusion: "كثيراً ما يُخلط بينها وبين Amanita virosa في شرق آسيا؛ وAmanita virosa أكبر عادةً وتحمل حراشف بيضاء منحنية إلى الخلف بوضوح على الساق أسفل الحلقة. ولدى Amanita exitialis باشيدات ثنائية الأبواغ وحلقة قميّة وساق بلا تلك الحراشف المنحنية. وغالباً ما تتشقق قبعة Amanita rimosa تشققاً شعاعياً، ولا سيما نحو الحافة. وأما Amanita subjunquillea، بما في ذلك شكلها الأبيض، فعادةً أكبر ولا تملك سطح القبعة المتشقق ذلك. وكثيراً ما يكون لـAmanita pallidorosea صبغة وردية باهتة ونتوء في وسط القبعة. وأنواع Agaricus البيضاء، بما فيها Agaricus campestris، تفتقر إلى الفولفا، وتتحول خياشيمها إلى الوردي ثم إلى البني. ولدى Leucocoprinus leucothites حلقة لكنه يخلو من الفولفا.",
       notes: "في مقاطعة ونغيوان بغوانغدونغ، تسمم خمسة أشخاص، وتوفي اثنان منهم، أحدهما يبلغ من العمر 15 عاماً والآخر 7 أعوام. حُددت الفطريات التي جُمعت من الموقع (Mushrooms collected) على أنها تنتمي إلى هذا النوع وإلى نوع Amanita fuliginea. يبلغ سمك قشرة القبعة 130–190 ميكرومتر وتتكون من طبقتين. وتكون طبقتها العلوية متهلمة قليلاً وتحتوي على خلايا منتفخة وفيرة، وهو مزيج فريد من نوعه ضمن قسم Amanita section Phalloideae."
     }
     },
@@ -71622,6 +71656,16 @@ export const CATALOG = [
           group: "text",
           name: "Wikipedia",
           href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
+        },
+        {
+          group: "text",
+          name: "doi.org",
+          href: "https://doi.org/10.1007/s13225-010-0018-4"
+        },
+        {
+          group: "text",
+          name: "kjmycology.or.kr",
+          href: "https://www.kjmycology.or.kr/4501-02/"
         }
       ],
       tr: [
@@ -137392,13 +137436,14 @@ export const CATALOG = [
   "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@400.webp",
   "figures": [
     {
-      "role": "illustration",
-      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
-      "author": null,
-      "license": "unverified user-supplied artwork",
-      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
-      "sourceDescription": "Owner-supplied Desarmillaria caespitosa.png; unverified artist/rights/species attribution; no readable signature. Reviewed clipping and stylized gill caveats retained in illustrationProvenance."
-    },
+        "role": "illustration",
+        "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
+        "author": "Adrian Benko (Gemini)",
+        "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+        "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
+        "sourceDescription": "\"Desarmillaria caespitosa.png\" (replacement plate, owner request pt133u / t133u). AI-generated by Adrian Benko using Gemini; used with his authorization. Existing Gemini mark retained as found. Source RGB unchanged, alpha-only extraction, uniform scale, composited on the standard background. Anatomy not independently verified (see caveats). This artwork replaces the earlier owner-supplied plate (source SHA-256 2fdb16b6…).",
+        "existingMark": "Cursive italic \"Gemini\" mark at lower right, present on the supplied file. Retained once exactly as found (pixels unchanged, original position preserved); no mark added, painted, removed or moved during staging. The plate was AI-generated by Adrian Benko using Gemini (owner statement 2026-11-16)."
+      },
     {
       "role": "photo",
       "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_1.webp",
@@ -137446,35 +137491,92 @@ export const CATALOG = [
     }
   ],
   "illustrationProvenance": {
-    "sourceDimensions": [
-      896,
-      1200
-    ],
-    "sourceSha256": "2fdb16b6ca8dc079ec2fad284cbc58374b79deb065b00a096b550626ab0418fc",
-    "foregroundBBox": [
-      16,
-      529,
-      895,
-      1182
-    ],
-    "uniformScale": 1.5927189988623436,
-    "components": 8,
-    "interiorRGB": "unchanged source RGB in specimens_alpha.png; resize only for plate",
-    "provenance": "User supplied file; artist, redistribution rights and species attribution not verified. No signature added.",
-    "caveats": [
-      "Original right edge already clips a cap; no reconstruction performed.",
-      "Strongly stylized decurrent gills and two isolated sections require anatomical review.",
-      "No readable artist signature apparent in supplied image."
-    ],
-    "tool": "Pillow/NumPy/SciPy deterministic alpha extraction, no generation"
-  },
+      "tool": "Pillow + OpenCV deterministic alpha-only segmentation (KEEP-aware peel and grow, then an inward low-contrast fringe punch with a protected eroded core; cream-paper holes between stipes cleared even inside KEEP when median contrast < 4; isolated non-signature foxing stains dropped); binary mask with no Gaussian blur, to avoid a pale paper halo; no generation",
+      "sourceFile": "Desarmillaria caespitosa.png",
+      "sourceFilenameRepr": "Desarmillaria caespitosa.png",
+      "originalSourcePath": "/Users/adrianbenko/Downloads/Desarmillaria caespitosa.png",
+      "sourceAuthorization": "Owner pt133u / t133u requested this swap; owner statement 2026-11-16: every Gemini plate was generated by Adrian Benko and he authorizes it. Staging only.",
+      "sourceFormat": "JPEG",
+      "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no trailing space in the Downloads filename; no source alpha; alpha produced by segmentation.",
+      "sourceDimensions": [
+        896,
+        1200
+      ],
+      "sourceSHA256": "123a76658cc31dd451cda90f9ca2bca4abe72e10b19649b3f81d6f66a6c091c1",
+      "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+      "alphaPNG": "artwork_rgba.png",
+      "mask": "artwork_alpha_mask.png",
+      "cropBBox": [
+        46,
+        237,
+        853,
+        1123
+      ],
+      "uniformScale": 1.734820322180917,
+      "placement": [
+        100,
+        431
+      ],
+      "composedArtworkDimensions": [
+        1400,
+        1537
+      ],
+      "allSourceRGBChangedPixels": 0,
+      "opaquePixels": 490857,
+      "partialAlphaPixels": 0,
+      "signatureBox": [
+        778,
+        1096,
+        832,
+        1126
+      ],
+      "signatureComponents": 4,
+      "signaturePixels": 204,
+      "haloPunchedPixels": 20157,
+      "haloCreamFringePixels": 2691,
+      "paperResidualP995": 2.9453757953510125,
+      "preservedObjects": [
+        "Centre: a cespitose cluster of honey-colored caps with darker dotted centres, pale stipes and no ring, arising from a hardwood stump with moss, stylized rhizomorphs, young buttons and fallen oak leaves.",
+        "Right: an isolated gill-view fruit body with a dotted tawny cap, pale pinkish attached gills, a pale stipe and no ring.",
+        "Lower right: a longitudinal section with pale flesh, attached gills and no ring.",
+        "Lower right of the page: the existing cursive Gemini mark, kept exactly as found."
+      ],
+      "anatomyCaveats": [
+        "AI-generated art; not a documented botanical plate.",
+        "The habit matches Desarmillaria caespitosa in general: a dense ringless cluster on wood, tawny caps with darker centres, pale stipes fused at a mossy base, and young buttons. No annulus is drawn on the habit cluster, the gill-view, or the section.",
+        "Cap dots are quite regular; real caps can be smoother or more irregularly squamulose, and colours range from pale honey to darker tawny.",
+        "Stipes are drawn smoothly pale and fairly even; real stipes can be more fibrous and darker toward the base.",
+        "The strands under the cluster are stylized and rather root-like. The Armillaria group does form rhizomorphs, but these are more like woody roots than the typical black shoestrings.",
+        "The isolated gill view is distinctly pinkish; real gills are often paler or whitish when young and may become pinkish or flesh-colored later. They are shown attached, which is fair, though attachment is not sharply diagnostic here.",
+        "The sawn stump is a fair wood-habitat scene; the species also fruits at the bases of living or dead hardwoods and on buried wood, not only on cut stumps. Fallen oak leaves fit its usual hardwood association.",
+        "The source is only 896x1200, so the official 1600x2400 plate enlarges it about 1.73x and lines are slightly soft.",
+        "The source has no alpha (JPEG/JFIF named .png). The cutout uses a tight binary mask with no blur, to avoid a pale paper halo. Pale stipes and section flesh sit close to the cream paper, so a faint edge may be cut slightly tight or a little paper may remain."
+      ],
+      "signatureTreatment": "Existing Gemini mark retained once exactly as found; zero added marks. No creator, rights or species identity inferred from the mark.",
+      "generation": false,
+      "repainting": false,
+      "stretching": false,
+      "sourcePaperRemoved": true,
+      "officialFiles": [
+        {
+          "path": "media/Desarmillaria_caespitosa@1600.webp",
+          "bytes": 470408,
+          "sha256": "c91e20d4457e5991ee817c77d9ec6f7af5f0b66aefe7207e563f0de9b3e4d8ad"
+        },
+        {
+          "path": "media/Desarmillaria_caespitosa@400.webp",
+          "bytes": 51612,
+          "sha256": "5334ec19dfca267805dafda05beff7f3b36399a20d46f772f28fae7fad1bbd21"
+        }
+      ],
+      "replacesPreviousSourceSHA256": "2fdb16b6ca8dc079ec2fad284cbc58374b79deb065b00a096b550626ab0418fc"
+    },
   "plateCredit": {
-    "author": "",
-    "credit": "Owner-supplied artwork; artist and redistribution rights unverified; reviewed original clipping/stylized gills, no added signature.",
-    "license": "unverified user-supplied artwork",
-    "licenseUrl": "",
-    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp"
-  },
+      "author": "Adrian Benko (Gemini)",
+      "credit": "Existing cursive Gemini mark retained once. AI-generated by Adrian Benko using Gemini; used with his authorization (owner statement 2026-11-16). Replacement plate for the published ID 135 illustration (owner request pt133u / t133u), made from the Downloads file \"Desarmillaria caespitosa.png\" (JPEG/JFIF data named .png, 896x1200, no source alpha; SHA-256 123a76658cc31dd451cda90f9ca2bca4abe72e10b19649b3f81d6f66a6c091c1; mtime 7:39:33 AM CST Nov 22). A 19th-century-style colour illustration (AI art). Arrangement preserved as one rigid piece: at centre, a cespitose cluster of honey-colored caps with darker dotted centres, pale stipes and no ring, arising from a hardwood stump with moss, stylized rhizomorphs, young buttons and fallen oak leaves; at right, an isolated gill-view fruit body with pale pinkish attached gills and no ring; below it, a longitudinal section with pale flesh, attached gills and no ring; and at lower right of the page, the existing cursive Gemini mark, kept exactly as found. Source RGB unchanged, uniform scale, real alpha, composited on the standard background; nothing painted or moved. This artwork replaces the earlier owner-supplied plate (source SHA-256 2fdb16b6…). plateCredit.source and figures[].sourceUrl remain the plain public @1600.webp URL (no _v2, no query). Not a documented botanical plate; anatomy caveats are listed in illustrationProvenance.",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp"
+    },
   "photos": [
     {
       "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_1.webp",
@@ -199435,5 +199537,1557 @@ export const CATALOG = [
   "reserved": false,
   "id": 194,
   "citation": "Fungal Biol. 115(1): 15 (2011)"
+},
+{
+  "name": "Imleria pallida",
+  "author": "(Frost) Farid, A.R. Franck & J. Bolin",
+  "family": "Boletaceae",
+  "genus": "Imleria",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Boletaceae",
+    "Imleria"
+  ],
+  "summary": [
+    "Boletales",
+    "Boletaceae",
+    "Imleria"
+  ],
+  "edibility": "edible",
+  "hymenium": "tubes",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 15.5,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 12.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 3.2,
+  "fruitingFrom": 6,
+  "fruitingTo": 9,
+  "label": {
+    "ar": "بوليط شاحب",
+    "en": "pallid bolete",
+    "fr": "bolet pâle",
+    "zh": "淡白牛肝菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=833015",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=833015",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=833015",
+      "https://www.gbif.org/species/12221927",
+      "https://www.wikidata.org/wiki/Q107799045",
+      "https://mushroomexpert.com/imleria_pallida.html",
+      "https://en.wikipedia.org/wiki/Boletus_pallidus",
+      "https://mdc.mo.gov/discover-nature/field-guide/pallid-bolete",
+      "https://people.csail.mit.edu/bkph/Boletes/pages/Boletus_pallidus.html",
+      "https://www.inaturalist.org/taxa/1040179-Imleria-pallida",
+      "https://api.gbif.org/v1/species/12221927/vernacularNames"
+    ],
+    "ar": [
+      "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84%D9%8A%D8%B7_%D8%B4%D8%A7%D8%AD%D8%A8"
+    ],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://api.gbif.org/v1/species/12221927/vernacularNames",
+      "https://www.mycoquebec.org/bas.php?gro=5&l=f&nom=Boletus+pallidus+%2F+Bolet+p%C3%A2le&tag=Boletus+pallidus&trie=B"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://api.gbif.org/v1/species/12221927/vernacularNames",
+      "https://www.wikidata.org/wiki/Q107799045"
+    ]
+  },
+  "added": "2026-11-22",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/Imleria_pallida@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/Imleria_pallida@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Imleria pallida.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 0d8ca10d90d6edbb8931bb053de6f10614e05522cc637820372e60e57f879ee5) is an illustration with an existing cursive “Gemini” mark to the right of the sectioned stipe, kept as found (ink only; no paper rectangle); no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a pale cap, yellow pores with a blue bruise, a smooth pale stipe, a longitudinal section with tubes and pale flesh, and oak-leaf litter. Anatomy looks consistent with the species. The official plate is slightly soft because the 896×1200 source was enlarged 1.5625×. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/Imleria_pallida@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/ip1.webp",
+      "author": "Brian C. Hunt",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/234702605"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/ip2.webp",
+      "author": "Robert M Hallock",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/130310749"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/ip3.webp",
+      "author": "River Ahlquist",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/238852940"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/ip4.webp",
+      "author": "Jeffrey Mcdavitt",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/134453428"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/ip5.webp",
+      "author": "martin_livezey",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/390068669"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Boletaceae/Imleria_pallida/Imleria_pallida@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Imleria_pallida/Imleria_pallida@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Boletaceae/Imleria_pallida/ip1.webp",
+      "author": "Brian C. Hunt",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/234702605"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Boletaceae/Imleria_pallida/ip2.webp",
+      "author": "Robert M Hallock",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/130310749"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Boletaceae/Imleria_pallida/ip3.webp",
+      "author": "River Ahlquist",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/238852940"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Boletaceae/Imleria_pallida/ip4.webp",
+      "author": "Jeffrey Mcdavitt",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/134453428"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Boletaceae/Imleria_pallida/ip5.webp",
+      "author": "martin_livezey",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/390068669"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر بوليط تكافلي لغابات البلوط والغابات المختلطة من الأشجار العريضة الأوراق شرق جبال روكي في أمريكا الشمالية، من الساحل الأطلسي والبحيرات الكبرى غربًا، وقد سُجّل أيضًا من المكسيك وأمريكا الوسطى. ينمو منفردًا أو متفرقًا أو في مجموعات أو في عناقيد متراصة على التربة.",
+      "cap": "القبعة يبلغ قطرها عادة 3–15,5 سم. تكون في البداية محدبة ثم تصبح واسعة التحدب أو شبه مسطحة أو منخفضة قليلًا. السطح جاف، وهو في الأجسام الثمرية الفتية ناعم جدًا شبيه بالشَّمواه، ثم يصبح أصلع إلى حد كبير وشبيهًا بجلد رقيق؛ ومع التقدم في العمر قد يتشقق، وفي الطقس الرطب قد يبدو لزجًا قليلًا. اللون أبيض مائل أو كريمي شاحب أو بيج إلى رمادي بني شاحب، وقد تصبح القبعات القديمة بنية قاتمة، أحيانًا بلمسة وردية. للحافة غالبًا شريط عقيم ضيق جدًا ومتجاوز.",
+      "hymenium": "سطح الأنابيب أبيض مائل في الأجسام الثمرية الصغيرة جدًا، ثم أصفر كريمي شاحب إلى أصفر باهت، ثم أصفر زيتوني، وأخيرًا بني زيتوني داكن. قد يزرق بشكل باهت أو مخضر ثم يسمر، أو لا يتغير لونه على الإطلاق. عند النضج يوجد 1–2 أنبوب في المليمتر، تكون أولًا مستديرة ثم شبه زاوية؛ ويبلغ عمق الأنابيب حتى 1 سم.",
+      "stipe": "الساق عادة بطول 3–12 سم وسُمك 0,5–3,2 سم، متساوية تقريبًا أو متسمّكة قليلًا نحو القاعدة، مصمتة وبلا حلقة. ملساء وعادة بلا شبكة، أو على الأكثر شبكية ضعيفة قرب القمة. اللون أبيض مائل إلى كريمي بيج شاحب، ويسمر مع التقدم في العمر، ولا سيما نحو القاعدة، وقد يحمر قرب القمة أو القاعدة. الخيوط الفطرية القاعدية بيضاء.",
+      "flesh": "اللحم أبيض وهو طازج، وكثيرًا ما يصفر في الأجسام الثمرية الأقدم. عند القطع قد يبقى دون تغيير، أو يزرق ببطء وبشكل غير منتظم إلى أزرق سماوي أو أزرق أغمق، أو يورد؛ وقد يحمر في قاعدة الساق. الرائحة غير مميزة؛ والطعم خفيف، أو مر قليلًا أو صابوني.",
+      "sporePrint": "مسحوق الأبواغ بني زيتوني، أو بني بلمسة زيتونية، أو زيتوني. الأبواغ ملساء، مغزلية على هيئة البوليط إلى بيضاوية ضيقة أو شبه مغزلية؛ وتشمل المقاييس المنشورة 10–16 × 4–5 ميكرومتر و9–15 × 3–5 ميكرومتر. في هيدروكسيد البوتاسيوم تكون مصفرة. الدعامات قياسها 20–30 × 5–10 ميكرومتر ورباعية الأبواغ. الأكياس الخيطية للطبقة الخصبة قياسها 28–40 × 6–8 ميكرومتر، قنينية إلى مغزلية ورقيقة الجدار.",
+      "habitat": "يثمر على التربة تحت البلوط وفي تجمعات الأشجار العريضة الأوراق المختلطة، منفردًا أو متفرقًا أو في مجموعات أو عناقيد، من يونيو إلى سبتمبر وبشكل أعم في الصيف والخريف.",
+      "uses": "صالح للأكل. تقارن بعض المصادر طعم الأجسام الثمرية الفتية المتماسكة بطعم النوع Boletus edulis. وكثيرًا ما تُجفف الأجسام الثمرية الأقدم.",
+      "confusion": "يشبه Tylopilus intermedius هذا النوع إلى حد ما، لكن مسامه رمادية بيج إلى وردية باهتة ولحمه مرّ بشدة. ولدى Imleria pallida قبعة شديدة الشحوب وساق بيضاء مائلة إلى البياض ملساء بلا شبكة خشنة، ومسام تتحول إلى الأصفر ثم الزيتوني، ولحم معتدل الطعم أو مرّ قليلاً فقط، وارتباط بالبلوط.",
+      "notes": "الازرقاق وتغير اللون على سطح الأنابيب وفي اللحم متغيران: بعض الأجسام الثمرية تزرق، وأخرى يتغير لونها ببطء أو لا يتغير، وقد يورد اللحم أيضًا أو يحمر في قاعدة الساق. التلون الأزرق المسود الفوري ليس نموذجيًا لهذا النوع.",
+      "names": [],
+      "sourceUrls": [
+        "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84%D9%8A%D8%B7_%D8%B4%D8%A7%D8%AD%D8%A8"
+      ],
+      "label": "بوليط شاحب"
+    },
+    "bg": {
+      "description": "Микоризна манатарка на дъбови и смесени широколистни гори на изток от Скалистите планини в Северна Америка, от атлантическото крайбрежие и Големите езера на запад, съобщена също от Мексико и Централна Америка. Расте поединично, разпръснато, на групи или в плътни снопчета върху почвата.",
+      "cap": "Гуглата е типично 3–15,5 cm в диаметър. Отначало е изпъкнала, после широко изпъкнала, почти плоска или слабо вдлъбната. Повърхността е суха и при млади плодни тела много фино велурена, по-късно повече или по-малко гола и с вид на тънка кожа; със старостта може да напука, а при влажно време да е слабо лепкава. Цветът е белезникав, бледо кремав или бежов до бледо сиво-кафяв, а по-старите гугли могат да са мръснокафяви, понякога с розов оттенък. Ръбът често има много тясна, стърчаща стерилна ивица.",
+      "hymenium": "Повърхността на тръбичките при много млади плодни тела е белезникава, после бледо кремавожълта до матовожълта, по-късно маслиненожълта и накрая тъмно маслиненокафява. Може матово или зеленикаво да посинее, после да покафенее, или изобщо да не променя цвета. В зрялост има 1–2 тръбички на милиметър, отначало кръгли, по-късно почти ъглести; тръбичките са дълбоки до 1 cm.",
+      "stipe": "Пънчето е типично 3–12 cm дълго и 0,5–3,2 cm дебело, повече или по-малко равно или слабо удебелено към основата, плътно и без пръстен. Голо е и обикновено без мрежа, или най-много слабо мрежесто близо до върха. Цветът е белезникав до бледо кремавобежов, със старостта покафенява, особено към основата, и близо до върха или основата може да е червеникаво. Базалният мицел е бял.",
+      "flesh": "Месото е прясно бяло, а при по-стари плодни тела често пожълтява. При разрез може да остане непроменено, бавно и неравномерно да посинее до небесносиньо или по-тъмносиньо, или да порозовее; в основата на пънчето може да зачервенее. Мирисът не е характерен; вкусът е мек, или слабо горчив или сапунен.",
+      "sporePrint": "Споровият прах е маслиненокафяв, кафяв с маслинен оттенък или маслинен. Спорите са гладки, манатарковидно вретеновидни до тясно яйцевидни или почти вретеновидни; посочените размери включват 10–16 × 4–5 µm и 9–15 × 3–5 µm. В KOH са жълтеникави. Базидиите са 20–30 × 5–10 µm и са четириспорови. Химениалните цистиди са 28–40 × 6–8 µm, бутилковидни до вретеновидни и тънкостенни.",
+      "habitat": "Плододава на почвата под дъбове и в смесени широколистни насаждения, поединично, разпръснато, на групи или в снопчета, от юни до септември и по-общо през лятото и есента.",
+      "uses": "Ядлива е. Някои източници сравняват вкуса на младите, твърди плодни тела с вкуса на вида Boletus edulis. По-старите плодни тела често се сушат.",
+      "confusion": "Tylopilus intermedius е донякъде сходен, но порите му са сивкавобежови до матово розови, а месото е силно горчиво. Imleria pallida има много бледа гугла, гладко белезникаво пънче без груба мрежа, пори, които пожълтяват и след това стават маслиненозелени, месо с мек или само слабо горчив вкус, и расте с дъбове.",
+      "notes": "Посиняването и промяната на цвета на повърхността на тръбичките и в месото са променливи: някои плодни тела посиняват, други променят цвета бавно или въобще не, а месото може и да порозовее или да зачервенее в основата на пънчето. Незабавното черносиньо оцветяване не е типично за този вид.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Mykorhizní hřibovitá houba dubových a smíšených listnatých lesů na východ od Skalnatých hor v Severní Americe, od atlantického pobřeží a Velkých jezer západním směrem; je uváděna také z Mexika a Střední Ameriky. Roste jednotlivě, roztroušeně, ve skupinách nebo v těsných trsech na zemi.",
+      "cap": "Klobouk má typicky 3–15,5 cm v průměru. Nejprve je vyklenutý a stává se široce vyklenutým, téměř plochým nebo slabě prohloubeným. Povrch je suchý a v mládí velmi jemně semišový, později víceméně lysý a připomíná jemnou kůži; ve stáří může popraskat a za vlhka může být slabě lepkavý. Barva je bělavá, bledě krémová nebo plavá až bledě šedohnědá a starší klobouky mohou být špinavě hnědé, někdy s růžovým nádechem. Okraj má často velmi úzký, přesahující sterilní pruh.",
+      "hymenium": "Povrch rourek je v úplném mládí bělavý, poté bledě krémově žlutý až matně žlutý, později olivově žlutý a nakonec tmavě olivově hnědý. Při poranění může matně nebo nazelenale modrat a poté hnědnout, nebo nemusí měnit barvu vůbec. V dospělosti je 1–2 rourky na milimetr, nejprve okrouhlé a později téměř hranaté; rourky jsou hluboké až 1 cm.",
+      "stipe": "Třeň je typicky 3–12 cm dlouhý a 0,5–3,2 cm tlustý, víceméně válcovitý nebo slabě ztlustělý k bázi, plný a bez prstenu. Je lysý a obvykle bez síťky, nebo nanejvýš slabě síťovaný při vrcholu. Barva je bělavá až bledě krémově plavá, stářím hnědne, zvláště směrem k bázi, a při vrcholu nebo bázi může být začervenalý. Bazální podhoubí je bílé.",
+      "flesh": "Dužnina je v čerstvém stavu bílá a u starších plodnic často žloutne. Po přeříznutí může zůstat nezměněná, pomalu a nepravidelně modrat do jasně modré nebo tmavší modré, nebo zrůžovět; v bázi třeně může zčervenat. Vůně není výrazná; chuť je mírná, nebo slabě hořká či mýdlová.",
+      "sporePrint": "Výtrusný prach je olivově hnědý, hnědý s olivovým nádechem nebo olivový. Výtrusy jsou hladké, hřibovitě vřetenovité až úzce vejčité nebo téměř vřetenovité; uváděné rozměry zahrnují 10–16 × 4–5 µm a 9–15 × 3–5 µm. V KOH jsou nažloutlé. Bazidie měří 20–30 × 5–10 µm a jsou čtyřvýtrusné. Hymenální cystidy měří 28–40 × 6–8 µm, jsou lahvicovité až vřetenovité a tenkostěnné.",
+      "habitat": "Fruktifikuje na zemi pod duby a ve smíšených listnatých porostech, jednotlivě, roztroušeně, ve skupinách nebo v trsech, od června do září a obecněji v létě a na podzim.",
+      "uses": "Je jedlá. Některé údaje přirovnávají chuť mladých, pevných plodnic k chuti druhu Boletus edulis. Starší plodnice se často suší.",
+      "confusion": "Tylopilus intermedius je poněkud podobný, ale jeho rourky jsou šedavě béžové až matně růžové a dužnina je silně hořká. Imleria pallida má velmi bledý klobouk, hladký bělavý třeň bez hrubé síťky, rourky, jež žloutnou a později olivovějí, dužninu mírnou nebo jen slabě hořkou a roste s duby.",
+      "notes": "Modrání a změna barvy na povrchu rourek i v dužnině jsou proměnlivé: některé plodnice modrají, jiné mění barvu pomalu nebo vůbec a dužnina může také zrůžovět nebo v bázi třeně zčervenat. Okamžité černomodré zbarvení pro tento druh není typické.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En mykorrhizadannende rørhat fra ege- og blandede løvskove øst for Rocky Mountains i Nordamerika, fra Atlanterhavskysten og de Store Søer vestpå, også kendt fra Mexico og Mellemamerika. Den vokser enkeltvis, spredt, i grupper eller i tætte knipper på jorden.",
+      "cap": "Hatten måler typisk 3–15,5 cm i diameter. Den er først hvælvet og bliver bredt hvælvet, næsten flad eller svagt nedtrykt. Overfladen er tør og hos unge eksemplarer meget fint ruskindslignende, senere mere eller mindre nøgen og fint læderagtig; med alderen kan den revne og i fugtigt vejr virke svagt klæbrig. Farven er hvidlig, blegt cremefarvet eller beige til blegt gråbrun, og ældre hatte kan blive snavset brune, undertiden med et rosa skær. Randen har ofte et meget smalt, udstående sterilt bånd.",
+      "hymenium": "Rørmundingen er hos ganske unge eksemplarer hvidlig, derefter blegt cremegul til matgul, senere olivenfarvet gul og til sidst mørkt olivenbrun. Den kan mat eller grønligt blåne og derefter brune, eller slet ikke skifte farve. I moden tilstand er der 1–2 rør pr. millimeter, først runde og senere næsten kantede; rørene er op til 1 cm dybe.",
+      "stipe": "Stokken er typisk 3–12 cm lang og 0,5–3,2 cm tyk, mere eller mindre jævn eller svagt fortykket mod basis, massiv og uden ring. Den er nøgen og sædvanligvis uden net, eller højst svagt nettegnet nær toppen. Farven er hvidlig til blegt cremebeige, bliver med alderen brunligere, især mod basis, og kan være rødlig nær toppen eller basis. Det basale mycelium er hvidt.",
+      "flesh": "Kødet er friskt hvidt og bliver hos ældre frugtlegemer ofte gult. Ved gennemskæring kan det forblive uændret, langsomt og uregelmæssigt blåne til himmelblåt eller mørkere blåt, eller blive rosa; i stokkens basis kan det rødne. Lugten er ikke karakteristisk; smagen er mild, eller svagt bitter eller sæbeagtig.",
+      "sporePrint": "Sporepulveret er olivenbrunt, brunt med et olivenskær eller olivenfarvet. Sporerne er glatte, rørhatagtigt tenformede til smalt ægformede eller næsten tenformede; angivne mål omfatter 10–16 × 4–5 µm og 9–15 × 3–5 µm. I KOH er de gullige. Basidierne måler 20–30 × 5–10 µm og er firesporede. De hymeniale cystider måler 28–40 × 6–8 µm, er flaske- til tenformede og tyndvæggede.",
+      "habitat": "Den fruktificerer på jorden under eg og i blandede løvbevoksninger, enkeltvis, spredt, i grupper eller i knipper, fra juni til september og mere generelt om sommeren og efteråret.",
+      "uses": "Den er spiselig. Nogle kilder sammenligner smagen af unge, faste frugtlegemer med smagen af Boletus edulis. Ældre frugtlegemer tørres ofte.",
+      "confusion": "Tylopilus intermedius er nogenlunde lig, men porerne er gråbeige til matrosa, og kødet er intenst bittert. Imleria pallida har en meget bleg hat, en glat hvidlig stok uden groft net, porer der bliver gule og derefter olivenfarvede, mildt eller kun let bittert kød, og vokser med egetræer.",
+      "notes": "Blåningen og farveskiftet på rørmundingen og i kødet er variable: nogle frugtlegemer blåner, andre skifter farve langsomt eller slet ikke, og kødet kan også blive rosa eller rødne i stokkens basis. En øjeblikkelig sortblå farvning er ikke typisk for denne art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein mykorrhizabildender Röhrling der Eichen- und Mischlaubwälder östlich der Rocky Mountains in Nordamerika, vom Atlantik und den Großen Seen westwärts, außerdem aus Mexiko und Mittelamerika nachgewiesen. Er wächst einzeln, zerstreut, in Gruppen oder in dichten Büscheln am Boden.",
+      "cap": "Der Hut misst typischerweise 3–15,5 cm im Durchmesser. Er ist zuerst gewölbt und wird breit gewölbt, nahezu flach oder schwach niedergedrückt. Die Oberfläche ist trocken und jung sehr fein wildlederartig, später mehr oder weniger kahl und feinnarbig; im Alter kann sie aufreißen und bei Feuchtigkeit schwach klebrig wirken. Die Farbe ist weißlich, blass cremefarben oder ockerfarben bis blass graubraun, und ältere Hüte können schmutzig braun werden, manchmal mit einem Rosaton. Der Rand hat oft einen sehr schmalen, überstehenden sterilen Streifen.",
+      "hymenium": "Die Röhrenmündung ist sehr jung weißlich, dann blass cremegelb bis mattgelb, später olivgelb und schließlich dunkel olivbraun. Sie kann stumpf oder grünlich blau, dann bräunlich verfärben, oder gar nicht verfärben. Im reifen Zustand stehen 1–2 Röhren je Millimeter, zuerst rundlich und später nahezu eckig; die Röhren sind bis 1 cm tief.",
+      "stipe": "Der Stiel ist typischerweise 3–12 cm lang und 0,5–3,2 cm dick, mehr oder weniger gleich dick oder zur Basis hin schwach verdickt, voll und ohne Ring. Er ist kahl und gewöhnlich nicht genetzt, höchstens schwach genetzt nahe der Spitze. Die Farbe ist weißlich bis blass cremeocker, mit dem Alter bräunlicher, besonders zur Basis hin, und kann nahe der Spitze oder Basis rötlich überlaufen sein. Das Basalmycel ist weiß.",
+      "flesh": "Das Fleisch ist frisch weiß und wird bei älteren Fruchtkörpern oft gelblich. Beim Anschneiden kann es unverändert bleiben, sich langsam und unregelmäßig himmelblau oder dunkler blau verfärben oder rosa werden; in der Stielbasis kann es rot werden. Der Geruch ist unauffällig; der Geschmack ist mild oder leicht bitter bzw. seifig.",
+      "sporePrint": "Das Sporenpulver ist olivbraun, braun mit einem Olivton oder olivfarben. Die Sporen sind glatt und röhrlingsartig spindelig bis schmal eiförmig oder fast spindelig; angegebene Maße umfassen 10–16 × 4–5 µm und 9–15 × 3–5 µm. In KOH sind sie gelblich. Die Basidien messen 20–30 × 5–10 µm und sind viersporig. Die hymenialen Zystiden messen 28–40 × 6–8 µm, sind flaschen- bis spindelförmig und dünnwandig.",
+      "habitat": "Er fruktifiziert am Boden unter Eichen und in Mischlaubwäldern, einzeln, zerstreut, in Gruppen oder in Büscheln, von Juni bis September und allgemeiner im Sommer und Herbst.",
+      "uses": "Er ist essbar. Manche Angaben vergleichen den Geschmack junger, fester Fruchtkörper mit dem von Boletus edulis. Ältere Fruchtkörper werden oft getrocknet.",
+      "confusion": "Tylopilus intermedius ist etwas ähnlich, hat aber graubeigefarbene bis mattrosa Poren und ein stark bitteres Fleisch. Imleria pallida hat einen sehr blassen Hut, einen glatten weißlichen, nicht grob netzigen Stiel, Poren, die gelb und dann oliv werden, mildes oder nur leicht bitteres Fleisch und wächst bei Eichen.",
+      "notes": "Das Blauen und die Farbveränderung an der Röhrenmündung und im Fleisch sind veränderlich: manche Fruchtkörper blauen, andere verfärben sich langsam oder gar nicht, und das Fleisch kann auch rosa werden oder in der Stielbasis rot. Eine sofortige schwarzblaue Verfärbung ist für diese Art nicht typisch.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "en": {
+      "description": "A mycorrhizal bolete of oak and mixed hardwood forests east of the Rocky Mountains in North America, from the Atlantic coast and the Great Lakes westwards, and also recorded from Mexico and Central America. It grows singly, scattered, in groups or in tight clusters on the ground.",
+      "cap": "The cap is typically 3–15.5 cm across. It is convex at first and becomes broadly convex, nearly flat or slightly depressed. The surface is dry and very finely suede-like when young, later more or less bald and kid-leathery, and it may crack with age or feel slightly sticky when moist. The colour is whitish, pale cream or buff to pale grey-brown, and older caps may become dingy brown, sometimes with a rose tint. The margin often has a very narrow overhanging sterile band.",
+      "hymenium": "The pore surface is whitish when very young, then pale cream-yellow to dull yellow, becoming olive-yellow and eventually dark olive-brown. It may bruise dull or greenish blue, then brownish, or it may not bruise at all. There are 1–2 pores per millimetre at maturity, circular at first and later nearly angular; the tubes are up to 1 cm deep.",
+      "stipe": "The stipe is typically 3–12 cm long and 0.5–3.2 cm thick, more or less equal or slightly enlarged towards the base, solid, and without a ring. It is bald and usually not reticulate, or at most faintly so near the apex. The colour is whitish to pale cream-buff, becoming more brownish with age, especially towards the base, and it may be flushed red near the apex or base. The basal mycelium is white.",
+      "flesh": "The flesh is white when fresh, often becoming yellowish in older specimens. When cut it may remain unchanged, turn slowly and erratically sky blue or darker blue, or become pinkish, and in the stipe base it may turn red. The odour is not distinctive; the taste is mild, or slightly bitter or soapy.",
+      "sporePrint": "The spore print is olive-brown, brown with an olive hint, or olive. The spores are smooth and boletoid-fusiform to narrowly oval or subfusoid; published ranges include 10–16 × 4–5 µm and 9–15 × 3–5 µm. They are yellowish in KOH. Basidia are 20–30 × 5–10 µm and four-spored. Hymenial cystidia are 28–40 × 6–8 µm, lageniform to fusiform, and thin-walled.",
+      "habitat": "It fruits on the ground under oak and mixed hardwoods, singly, scattered, in groups or in clusters, from June to September, and more generally in summer and fall.",
+      "uses": "It is edible. Some accounts compare the flavour of young, firm specimens to that of Boletus edulis. Older fruit bodies are often dried.",
+      "confusion": "Tylopilus intermedius is somewhat similar, but its pores are grayish-buff to dull pink and its flesh is intensely bitter. Imleria pallida has a very pale cap, a smooth whitish stem that is not coarsely netted, pores that become yellow then olive, flesh that is mild or only slightly bitter, and an association with oaks.",
+      "notes": "Bruising and colour change on the pore surface and in the flesh are variable: some fruit bodies bruise blue, others change slowly or not at all, and the flesh may also turn pinkish or red in the stipe base. Instant blackish-blue staining is not typical of this species.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=833015",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=833015",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=833015",
+        "https://www.gbif.org/species/12221927",
+        "https://www.wikidata.org/wiki/Q107799045",
+        "https://mushroomexpert.com/imleria_pallida.html",
+        "https://en.wikipedia.org/wiki/Boletus_pallidus",
+        "https://mdc.mo.gov/discover-nature/field-guide/pallid-bolete",
+        "https://people.csail.mit.edu/bkph/Boletes/pages/Boletus_pallidus.html",
+        "https://www.inaturalist.org/taxa/1040179-Imleria-pallida",
+        "https://api.gbif.org/v1/species/12221927/vernacularNames"
+      ],
+      "label": "pallid bolete"
+    },
+    "es": {
+      "description": "Un boleto micorrícico de los bosques de robles y de frondosas mixtas al este de las Montañas Rocosas en América del Norte, desde la costa atlántica y los Grandes Lagos hacia el oeste, también citado de México y América Central. Crece aislado, disperso, en grupos o en racimos apretados sobre el suelo.",
+      "cap": "El sombrero mide típicamente 3–15,5 cm de diámetro. Primero es convexo y se vuelve ampliamente convexo, casi plano o ligeramente deprimido. La superficie es seca y, en ejemplares jóvenes, muy finamente aterciopelada, más tarde más o menos calva y de aspecto de cuero fino; con la edad puede agrietarse y, en tiempo húmedo, parecer ligeramente viscosa. El color es blanquecino, de un crema pálido o ante hasta un pardo grisáceo pálido, y los sombreros viejos pueden volverse pardo sucio, a veces con un tinte rosado. El margen suele tener una banda estéril muy estrecha y sobresaliente.",
+      "hymenium": "La superficie de los poros es blanquecina en los ejemplares muy jóvenes, luego de un amarillo crema pálido a un amarillo apagado, más tarde amarillo oliváceo y al final pardo oliváceo oscuro. Puede azulear de forma apagada o verdosa y después parder, o no cambiar de color. En la madurez hay 1–2 poros por milímetro, primero redondeados y luego casi angulosos; los tubos alcanzan 1 cm de profundidad.",
+      "stipe": "El pie mide típicamente 3–12 cm de largo y 0,5–3,2 cm de grosor; es más o menos igual o ligeramente ensanchado hacia la base, macizo y sin anillo. Es glabro y por lo general no reticulado, o a lo sumo débilmente reticulado cerca del ápice. El color es blanquecino a crema-ante pálido, se vuelve más pardo con la edad, sobre todo hacia la base, y puede teñirse de rojo cerca del ápice o de la base. El micelio basal es blanco.",
+      "flesh": "La carne es blanca en fresco y en ejemplares viejos suele amarillear. Al corte puede permanecer inalterada, azulear lenta e irregularmente a un azul cielo o a un azul más oscuro, o volverse rosada; en la base del pie puede enrojecer. El olor no es distintivo; el sabor es suave, o ligeramente amargo o jabonoso.",
+      "sporePrint": "La esporada es pardo olivácea, parda con un tinte oliváceo u olivácea. Las esporas son lisas, fusiformes de tipo boleto, a estrechamente ovoides o casi fusiformes; los intervalos publicados incluyen 10–16 × 4–5 µm y 9–15 × 3–5 µm. En KOH son amarillentas. Los basidios miden 20–30 × 5–10 µm y son tetraspóricos. Los cistidios himeniales miden 28–40 × 6–8 µm, son lageniformes a fusiformes y de pared delgada.",
+      "habitat": "Fructifica en el suelo bajo robles y en rodales de frondosas mixtas, aislado, disperso, en grupos o en racimos, de junio a septiembre y, de forma más general, en verano y otoño.",
+      "uses": "Es comestible. Algunos relatos comparan el sabor de los ejemplares jóvenes y firmes con el de Boletus edulis. Los carpóforos más viejos suelen secarse.",
+      "confusion": "Tylopilus intermedius es algo parecido, pero sus poros son de color ante grisáceo a rosa apagado y su carne es intensamente amarga. Imleria pallida tiene un sombrero muy pálido, un pie blanquecino liso y sin retículo grueso, poros que se vuelven amarillos y luego oliva, carne suave o solo ligeramente amarga, y asociación con robles.",
+      "notes": "El azulado y el cambio de color en la superficie de los poros y en la carne son variables: algunos carpóforos azulean, otros cambian de color despacio o no lo hacen, y la carne también puede volverse rosada o enrojecer en la base del pie. Una tinción azul negruzca inmediata no es típica de esta especie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Tamme- ja segalehtmetsade mükoriisne torik ida pool Kaljumäestikku Põhja-Ameerikas, Atlandi rannikult ja Suurjärvedelt lääne suunas, teada ka Mehhikost ja Kesk-Ameerikast. Ta kasvab üksikult, hajusalt, rühmadena või tihedate kimpudena maapinnal.",
+      "cap": "Kübar on tüüpiliselt 3–15,5 cm läbimõõduga. Alguses on ta kumer, hiljem laialt kumer, peaaegu lame või nõrgalt sissevajunud. Pind on kuiv ja noortel viljakehadel väga peenelt seemisnahataoline, hiljem enam-vähem paljas ja peene nahataoline; vananedes võib praguneda ning niiske ilmaga olla nõrgalt kleepuv. Värvus on valkjas, kahvatukreemjas või beež kuni kahvatuhallikaspruun ning vanemad kübarad võivad olla määrdunudpruunid, mõnikord roosaka varjundiga. Serval on sageli väga kitsas, üleulatuv steriilne riba.",
+      "hymenium": "Torukeste pind on väga noortel viljakehadel valkjas, seejärel kahvatukreemjaskollane kuni tuhmkollane, hiljem oliivkollane ja lõpuks tume oliivpruun. See võib tuhmilt või rohekalt sinetada ja seejärel pruunistuda või üldse värvi mitte muuta. Küpsena on 1–2 torukest millimeetril, alguses ümarad, hiljem peaaegu nurgelised; torukesed on kuni 1 cm sügavad.",
+      "stipe": "Jalg on tüüpiliselt 3–12 cm pikk ja 0,5–3,2 cm paks, enam-vähem ühtlane või nõrgalt paksenenud aluse suunas, täis ja ilma rõngata. Ta on paljas ja tavaliselt võrguta, või ülimalt nõrgalt võrkjas tipu lähedal. Värvus on valkjas kuni kahvatukreemjasbeež, vananedes pruunim, eriti aluse suunas, ning tipu või aluse lähedal võib olla punakas. Basaalne mütseel on valge.",
+      "flesh": "Liha on värskelt valge ja vanematel viljakehadel sageli kollakas. Lõikel võib jääda muutumatuks, aeglaselt ja ebaühtlaselt taevasiniselt või tumedamalt siniseks muutuda või roosaks minna; jala alusel võib punetada. Lõhn ei ole iseloomulik; maitse on leebe või kergelt kibe või seebine.",
+      "sporePrint": "Eospulber on oliivpruun, pruun oliivja varjundiga või oliivjas. Eosed on siledad, torikulaadselt käävjad kuni kitsalt munajad või peaaegu käävjad; avaldatud mõõtmed hõlmavad 10–16 × 4–5 µm ja 9–15 × 3–5 µm. KOH-is on nad kollakad. Basiidid on 20–30 × 5–10 µm ja neljaeoselised. Hümeniaalsed tsüstiidid on 28–40 × 6–8 µm, pudeli- kuni käävjad ja õhukeseseinalised.",
+      "habitat": "Ta viljub maapinnal tammede all ja segalehtpuistutes, üksikult, hajusalt, rühmadena või kimpudena, juunist septembrini ja üldisemalt suvel ning sügisel.",
+      "uses": "Ta on söödav. Mõned allikad võrdlevad noorte, kindlate viljakehade maitset liigi Boletus edulis maitsega. Vanemaid viljakehi kuivatatakse sageli.",
+      "confusion": "Tylopilus intermedius on mõnevõrra sarnane, kuid tema poorid on hallikasbeežid kuni tuhmiroosad ja liha on intensiivselt kibe. Imleria pallida’l on väga kahvatu kübar, sile valkjas jalg ilma jämeda võrguta, poorid, mis muutuvad kollaseks ja seejärel oliivjaks, leebe või vaid kergelt kibe liha, ning seos tammega.",
+      "notes": "Sinetamine ja värvimuutus torukeste pinnal ning lihas on muutlikud: mõned viljakehad sinetavad, teised muudavad värvi aeglaselt või üldse mitte, ja liha võib ka roosaks minna või jala alusel punetada. Kohene mustsinine värvumine ei ole sellele liigile tüüpiline.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "یک قارچ لوله‌ای میکوریزی جنگل‌های بلوط و جنگل‌های پهن‌برگ آمیخته در شرق کوه‌های راکی در آمریکای شمالی، از کرانهٔ اقیانوس اطلس و دریاچه‌های بزرگ به سوی باختر، که از مکزیک و آمریکای مرکزی نیز گزارش شده است. به‌صورت منفرد، پراکنده، گروهی یا در دسته‌های فشرده روی خاک می‌روید.",
+      "cap": "کلاهک معمولاً ۳–۱۵٫۵ سانتی‌متر قطر دارد. نخست محدب است و سپس پهن-محدب، تقریباً تخت یا اندکی فرورفته می‌شود. سطح خشک است و در نمونه‌های جوان بسیار ظریف و جیرمانند، سپس کم‌وبیش بی‌کرک و شبیه چرم نازک؛ با سن ممکن است ترک بردارد و در هوای مرطوب کمی چسبناک به نظر برسد. رنگ سفیدک‌فام، کرم کم‌رنگ یا بژ تا خاکستری-قهوه‌ای کم‌رنگ است و کلاهک‌های پیر ممکن است قهوه‌ای کدر شوند، گاهی با ته‌رنگ صورتی. لبه اغلب نوار سترون بسیار باریک و بیرون‌زده دارد.",
+      "hymenium": "سطح لوله‌ها در نمونه‌های بسیار جوان سفیدک‌فام، سپس زرد کرم کم‌رنگ تا زرد مات، بعد زرد زیتونی و سرانجام قهوه‌ای زیتونی تیره است. ممکن است به‌طور مات یا مایل به سبز کبود شود و سپس قهوه‌ای گردد، یا اصلاً رنگ عوض نکند. در بلوغ ۱–۲ لوله در هر میلی‌متر وجود دارد، نخست گرد و سپس تقریباً گوشه‌دار؛ عمق لوله‌ها تا ۱ سانتی‌متر است.",
+      "stipe": "ساقه معمولاً ۳–۱۲ سانتی‌متر طول و ۰٫۵–۳٫۲ سانتی‌متر ضخامت دارد، کم‌وبیش یکنواخت یا اندکی به‌سوی پایه قطور، توپر و بدون حلقه. بی‌کرک است و معمولاً بدون شبکه، یا دست‌بالا نزدیک راس اندکی شبکه‌دار. رنگ سفیدک‌فام تا کرم-بژ کم‌رنگ است، با سن قهوه‌ای‌تر می‌شود، به‌ویژه به‌سوی پایه، و نزدیک راس یا پایه ممکن است سرخ‌فام باشد. ریسهٔ پایه سفید است.",
+      "flesh": "گوشت در حالت تازه سفید است و در نمونه‌های پیر اغلب زرد می‌شود. هنگام برش ممکن است بدون تغییر بماند، به‌آرامی و نامنظم به آبی آسمانی یا آبی تیره‌تر کبود شود، یا صورتی گردد؛ در پایهٔ ساقه ممکن است سرخ شود. بو مشخص نیست؛ طعم ملایم است، یا اندکی تلخ یا صابونی.",
+      "sporePrint": "پودر هاگ قهوه‌ای زیتونی، قهوه‌ای با ته‌رنگ زیتونی، یا زیتونی است. هاگ‌ها صاف، دوکی‌شکل به شیوهٔ قارچ‌های لوله‌ای تا تخم‌مرغی باریک یا تقریباً دوکی هستند؛ اندازه‌های منتشرشده شامل ۱۰–۱۶ × ۴–۵ میکرومتر و ۹–۱۵ × ۳–۵ میکرومتر است. در پتاسیم هیدروکسید مایل به زردند. بازیدیوم‌ها ۲۰–۳۰ × ۵–۱۰ میکرومتر و چهارهاگی‌اند. سیستیدیوم‌های لایهٔ زایا ۲۸–۴۰ × ۶–۸ میکرومتر، بطری‌شکل تا دوکی و نازک‌دیواره هستند.",
+      "habitat": "از ژوئن تا سپتامبر، و به‌طور کلی‌تر در تابستان و پاییز، روی خاک زیر بلوط و در توده‌های پهن‌برگ آمیخته، به‌صورت منفرد، پراکنده، گروهی یا دسته‌ای میوه می‌دهد.",
+      "uses": "خوراکی است. برخی منابع طعم نمونه‌های جوان و سفت را با طعم گونهٔ Boletus edulis مقایسه می‌کنند. نمونه‌های پیرتر اغلب خشک می‌شوند.",
+      "confusion": "Tylopilus intermedius تا حدی شبیه است، اما منافذ آن خاکستری-کرم تا صورتی مات‌اند و گوشتش بسیار تلخ است. Imleria pallida کلاهکی بسیار رنگ‌پریده، ساقه‌ای سفید مایل به سفیدِ صاف بدون شبکهٔ درشت، منافذی که زرد و سپس زیتونی می‌شوند، گوشتی ملایم یا تنها اندکی تلخ، و همراهی با بلوط‌ها دارد.",
+      "notes": "کبودشدن و تغییر رنگ روی سطح لوله‌ها و در گوشت متغیر است: برخی نمونه‌ها کبود می‌شوند، برخی دیگر رنگ را به‌آرامی یا اصلاً عوض نمی‌کنند، و گوشت نیز ممکن است صورتی شود یا در پایهٔ ساقه سرخ گردد. رنگ‌گرفتن فوری آبی مایل به سیاه برای این گونه معمول نیست.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Tammimetsien ja sekalehtimetsien sienijuurinen tatti Kalliovuorten itäpuolella Pohjois-Amerikassa, Atlantin rannikolta ja Suurilta järviltä länteen, ilmoitettu myös Meksikosta ja Keski-Amerikasta. Se kasvaa yksittäin, hajallaan, ryhmissä tai tiheinä kimppuina maassa.",
+      "cap": "Lakin halkaisija on tyypillisesti 3–15,5 cm. Se on ensin kupera ja muuttuu laajasti kuperaksi, lähes tasaiseksi tai heikosti painuneeksi. Pinta on kuiva ja nuorilla itiöemillä hyvin hienosti mokkamainen, myöhemmin enemmän tai vähemmän paljas ja hienon nahkamainen; vanhetessaan se voi halkeilla ja kostealla säällä vaikuttaa heikosti tahmealta. Väri on valkeahko, vaalean kermanvärinen tai beige vaalean harmaanruskeaan, ja vanhat lakit voivat tulla likaiseen ruskeiksi, joskus vaaleanpunertavalla sävyllä. Laidassa on usein hyvin kapea, ulkoneva steriili vyö.",
+      "hymenium": "Pillien pinta on hyvin nuorilla itiöemillä valkeahko, sitten vaalean kermankeltainen tai himmeänkeltainen, myöhemmin oliivinkeltainen ja lopulta tumman oliivinruskea. Se voi himmeästi tai vihertävästi sinertyä ja sen jälkeen ruskettua, tai olla muuttumatta lainkaan. Kypsänä on 1–2 pilliä millimetrillä, ensin pyöreitä ja myöhemmin lähes kulmikkaita; pillit ovat enintään 1 cm syviä.",
+      "stipe": "Jalka on tyypillisesti 3–12 cm pitkä ja 0,5–3,2 cm paksu, enemmän tai vähemmän tasapaksu tai heikosti tyveä kohti paksuneva, umpinainen ja ilman rengasta. Se on paljas ja tavallisesti verkkokuvioimaton, tai korkeintaan heikosti verkollinen lähellä kärkeä. Väri on valkeahko tai vaalean kermanbeige, vanhetessaan ruskeampi, etenkin tyveä kohti, ja se voi olla punertava lähellä kärkeä tai tyveä. Tyvimyceeli on valkoinen.",
+      "flesh": "Malto on tuoreena valkoinen ja vanhemmilla itiöemillä usein kellertävä. Leikkauksessa se voi pysyä muuttumattomana, sinertyä hitaasti ja epätasaisesti taivaansiniseksi tai tummemman siniseksi tai punertua; jalan tyvessä se voi punertua. Tuoksu ei ole erottuva; maku on mieto tai hieman karvas tai saippuainen.",
+      "sporePrint": "Itiöpöly on oliivinruskeaa, ruskeaa oliivin sävyllä tai oliivinväristä. Itiöt ovat sileitä, tattimaisesti sukkulamaisia tai kapean munanmuotoisia tai lähes sukkulamaisia; julkaistut mitat käsittävät 10–16 × 4–5 µm ja 9–15 × 3–5 µm. KOH:ssa ne ovat kellertäviä. Basidiot ovat 20–30 × 5–10 µm ja neljäitiöisiä. Hymenialiset kystidit ovat 28–40 × 6–8 µm, pullo- tai sukkulamaisia ja ohutseinäisiä.",
+      "habitat": "Se itiöi maassa tammen alla ja sekalehtipuustoissa, yksittäin, hajallaan, ryhmissä tai kimppuina, kesäkuusta syyskuuhun ja yleisemmin kesällä ja syksyllä.",
+      "uses": "Se on syötävä. Jotkin lähteet vertaavat nuorten, kiinteiden itiöemien makua lajiin Boletus edulis. Vanhempia itiöemiä kuivataan usein.",
+      "confusion": "Tylopilus intermedius on jokseenkin samankaltainen, mutta sen pillit ovat harmaanbeigejä tai himmeän vaaleanpunaisia ja malto on voimakkaan karvasta. Imleria pallida -lajilla on hyvin vaalea lakki, sileä valkeahko jalka ilman karkeaa verkkoa, pillit jotka muuttuvat keltaisiksi ja sitten oliivinvärisiksi, mieto tai vain lievästi karvas malto, ja se kasvaa tammien seurassa.",
+      "notes": "Sinertyminen ja värinmuutos pillien pinnalla ja mallossa vaihtelevat: jotkin itiöemät sinertyvät, toiset muuttavat väriä hitaasti tai eivät lainkaan, ja malto voi myös punertua tai punertua jalan tyvessä. Välitön sinimusta värjäytyminen ei ole tälle lajille tyypillistä.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un bolet mycorhizien des forêts de chênes et de feuillus mixtes à l’est des montagnes Rocheuses en Amérique du Nord, de la côte atlantique et des Grands Lacs vers l’ouest, également signalé du Mexique et d’Amérique centrale. Il pousse isolément, de façon disséminée, en groupes ou en touffes serrées sur le sol.",
+      "cap": "Le chapeau mesure typiquement 3–15,5 cm de diamètre. Il est d’abord convexe, puis largement convexe, presque plan ou légèrement déprimé. La surface est sèche et, chez les jeunes exemplaires, très finement suédée, plus tard plus ou moins chauve et d’aspect cuir fin; elle peut se fendiller avec l’âge et sembler légèrement visqueuse par temps humide. La couleur est blanchâtre, d’un crème pâle ou d’un beige jusqu’à un gris-brun pâle, et les chapeaux âgés peuvent devenir brun terne, parfois avec une teinte rosée. La marge présente souvent une très étroite bande stérile débordante.",
+      "hymenium": "La surface des pores est blanchâtre chez les très jeunes exemplaires, puis d’un jaune crème pâle à un jaune terne, devenant jaune olivâtre et enfin brun olivâtre foncé. Elle peut bleuir de façon terne ou verdâtre, puis brunir, ou ne pas changer de couleur. À maturité, on compte 1–2 pores par millimètre, d’abord circulaires puis presque anguleux; les tubes atteignent 1 cm de profondeur.",
+      "stipe": "Le pied mesure typiquement 3–12 cm de long et 0,5–3,2 cm d’épaisseur; il est plus ou moins égal ou un peu élargi vers la base, plein et sans anneau. Il est glabre et généralement non réticulé, ou tout au plus faiblement réticulé près du sommet. La couleur est blanchâtre à crème-beige pâle, devenant plus brunâtre avec l’âge, surtout vers la base, et peut être teintée de rouge près du sommet ou de la base. Le mycélium basal est blanc.",
+      "flesh": "La chair est blanche à l’état frais et devient souvent jaunâtre chez les spécimens âgés. À la coupe, elle peut rester inchangée, bleuir lentement et de façon irrégulière en bleu ciel ou en bleu plus foncé, ou devenir rosâtre; elle peut rougir à la base du pied. L’odeur n’est pas caractéristique; la saveur est douce, ou légèrement amère ou savonneuse.",
+      "sporePrint": "La sporée est brun olivâtre, brune avec une touche d’olive, ou olivâtre. Les spores sont lisses, fusiformes de type bolet, à étroitement ovales ou presque fusiformes; les fourchettes publiées comprennent 10–16 × 4–5 µm et 9–15 × 3–5 µm. Elles sont jaunâtres dans la potasse. Les basides mesurent 20–30 × 5–10 µm et sont tétrasporiques. Les cystides hyméniales mesurent 28–40 × 6–8 µm, sont lagéniformes à fusiformes et à paroi mince.",
+      "habitat": "Il fructifie sur le sol sous les chênes et dans les peuplements de feuillus mixtes, isolément, de façon disséminée, en groupes ou en touffes, de juin à septembre, et plus généralement en été et en automne.",
+      "uses": "Il est comestible. Certains comptes comparent la saveur des spécimens jeunes et fermes à celle de Boletus edulis. Les carpophores plus âgés sont souvent séchés.",
+      "confusion": "Tylopilus intermedius est assez semblable, mais ses pores sont gris-chamois à rose terne et sa chair est intensément amère. Imleria pallida a un chapeau très pâle, un pied blanchâtre lisse et sans réseau grossier, des pores qui deviennent jaunes puis olive, une chair douce ou seulement légèrement amère, et une association avec les chênes.",
+      "notes": "Le bleuissement et le changement de couleur à la surface des pores et dans la chair sont variables: certains carpophores bleuisent, d’autres changent de couleur lentement ou pas du tout, et la chair peut aussi rosir ou rougir à la base du pied. Une teinte bleu-noir immédiate n’est pas typique de cette espèce.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/12221927/vernacularNames",
+        "https://www.mycoquebec.org/bas.php?gro=5&l=f&nom=Boletus+pallidus+%2F+Bolet+p%C3%A2le&tag=Boletus+pallidus&trie=B"
+      ],
+      "label": "bolet pâle"
+    },
+    "he": {
+      "description": "פטריית בצקת מיקוריזית של יערות אלון ויערות עלים רחבים מעורבים ממזרח להרי הרוקי בצפון אמריקה, מחוף האטלנטי ומהאגמים הגדולים מערבה, וידועה גם ממקסיקו וממרכז אמריקה. היא גדלה בודדת, מפוזרת, בקבוצות או בצרורות צפופים על הקרקע.",
+      "cap": "הכובע בקוטר טיפוסי של 3–15,5 ס\"מ. בתחילה הוא קמור, אחר כך רחב-קמור, כמעט שטוח או שקוע במקצת. פני השטח יבשים, ובגופים הצעירים עדינים מאוד דמויי זמש, מאוחר יותר קירחים פחות או יותר ובעלי מראה של עור דק; עם הגיל הם עלולים להיסדק, ובמזג אוויר לח להיראות דביקים במקצת. הצבע לבנבן, קרם חיוור או בז' עד אפור-חום חיוור, וכובעים ישנים עשויים להיות חומים עכורים, לעיתים עם גוון ורדרד. לשוליים יש לעיתים קרובות רצועה עקרה צרה מאוד ובולטת.",
+      "hymenium": "פני צינוריות הנקבים לבנבנים בגופים צעירים מאוד, אחר כך צהוב-קרם חיוור עד צהוב עמום, מאוחר יותר צהוב זיתי ולבסוף חום זיתי כהה. הם עשויים להכחיל בעמימות או בירוקה ואחר כך להשחים, או לא לשנות צבע כלל. בבגרות יש 1–2 נקבים למילימטר, תחילה עגולים ואחר כך כמעט זוויתיים; עומק הצינוריות עד 1 ס\"מ.",
+      "stipe": "הרגל באורך טיפוסי של 3–12 ס\"מ ובעובי 0,5–3,2 ס\"מ, שווה פחות או יותר או מעובה מעט כלפי הבסיס, מלאה וללא טבעת. היא קירחת ובדרך כלל חסרת רשת, או לכל היותר בעלת רשת חלשה ליד הקודקוד. הצבע לבנבן עד קרם-בז' חיוור, משחים עם הגיל, במיוחד כלפי הבסיס, ועשוי להיות אדמדם ליד הקודקוד או הבסיס. התפטיר הבסיסי לבן.",
+      "flesh": "הבשר לבן במצב טרי, ובגופים ישנים הוא לעיתים קרובות מצהיב. בחיתוך הוא עשוי להישאר ללא שינוי, להכחיל לאט ובאופן בלתי סדיר לכחול שמיים או לכחול כהה יותר, או להפוך ורוד; בבסיס הרגל הוא עשוי להאדים. הריח אינו אופייני; הטעם עדין, או מעט מר או סבוני.",
+      "sporePrint": "אבקת הנבגים חומה-זיתית, חומה עם גוון זיתי, או זיתית. הנבגים חלקים, כישוריים בצורת בצקת עד סגלגלים צרים או כמעט כישוריים; הטווחים שפורסמו כוללים 10–16 × 4–5 µm ו-9–15 × 3–5 µm. ב-KOH הם צהבהבים. הבסידיות 20–30 × 5–10 µm ובעלות ארבעה נבגים. הציסטידות ההימניאליות 28–40 × 6–8 µm, דמויות בקבוק עד כישוריות ודקות-דופן.",
+      "habitat": "היא מניבה על הקרקע תחת אלונים ובמעמדות עלים רחבים מעורבים, בודדת, מפוזרת, בקבוצות או בצרורות, מיוני עד ספטמבר ובאופן כללי יותר בקיץ ובסתיו.",
+      "uses": "היא אכילה. מקורות אחדים משווים את טעם הגופים הצעירים והמוצקים לטעם של Boletus edulis. גופים ישנים יותר מיובשים לעיתים קרובות.",
+      "confusion": "Tylopilus intermedius דומה במידה מסוימת, אך הנקבוביות שלו אפורות-בהירות עד ורוד עמום והבשר מריר מאוד. ל-Imleria pallida כובע חיוור מאוד, רגל חלקה לבנבנה ללא רשת גסה, נקבוביות שהופכות צהובות ואחר כך זיתיות, בשר עדין או רק מעט מריר, ושיוך לאלונים.",
+      "notes": "ההכחלה ושינוי הצבע על פני הנקבים ובבשר משתנים: גופים אחדים מכחילים, אחרים משנים צבע לאט או כלל לא, והבשר עשוי גם להפוך ורוד או להאדים בבסיס הרגל. צביעה כחולה-שחורה מיידית אינה אופיינית למין זה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह उत्तरी अमेरिका में रॉकी पर्वत के पूर्व में ओक और मिश्रित चौड़ी-पत्ती वाले वनों का एक माइकोराइज़ल बोलिट है, अटलांटिक तट और ग्रेट लेक्स से पश्चिम की ओर, और मेक्सिको तथा मध्य अमेरिका से भी दर्ज है। यह मिट्टी पर अकेला, बिखरा हुआ, समूहों में या घने गुच्छों में उगता है।",
+      "cap": "टोपी का व्यास आमतौर पर 3–15.5 सेमी होता है। पहले यह उत्तल होती है, फिर चौड़ी उत्तल, लगभग चपटी या हल्की धँसी हुई हो जाती है। सतह सूखी होती है और युवा फलन-कायों पर बहुत महीन साबर जैसी, बाद में लगभग चिकनी और पतले चमड़े जैसी; उम्र के साथ फट सकती है और नम मौसम में हल्की चिपचिपी लग सकती है। रंग सफ़ेद-सा, फीका क्रीमी या बेज से फीका भूरा-धूसर तक होता है, और पुरानी टोपियाँ मैली भूरी हो सकती हैं, कभी-कभी गुलाबी आभा के साथ। किनारे पर अक्सर बहुत पतली, निकली हुई बांझ पट्टी होती है।",
+      "hymenium": "छिद्रों की सतह बहुत युवा फलन-कायों पर सफ़ेद-सी, फिर फीकी क्रीम-पीली से धुंधली पीली, बाद में जैतूनी पीली और अंत में गहरी जैतूनी भूरी होती है। यह धुंधले या हरे-से नीले और फिर भूरे रंग में बदल सकती है, या रंग बदल ही नहीं सकती। परिपक्व अवस्था में प्रति मिलीमीटर 1–2 छिद्र होते हैं, पहले गोल और बाद में लगभग कोणीय; नलिकाएँ 1 सेमी तक गहरी होती हैं।",
+      "stipe": "डंठल आमतौर पर 3–12 सेमी लंबा और 0.5–3.2 सेमी मोटा होता है, लगभग बराबर या आधार की ओर थोड़ा मोटा, ठोस और वलय रहित। यह चिकना होता है और आमतौर पर जाल रहित, या अधिक से अधिक शीर्ष के पास हल्के जाल वाला। रंग सफ़ेद-सा से फीका क्रीम-बेज होता है, उम्र के साथ अधिक भूरा, विशेषकर आधार की ओर, और शीर्ष या आधार के पास लाल-सा हो सकता है। आधारीय कवकजाल सफ़ेद होता है।",
+      "flesh": "मांस ताज़ा होने पर सफ़ेद होता है और पुराने फलन-कायों में अक्सर पीला पड़ जाता है। काटने पर यह अपरिवर्तित रह सकता है, धीरे और अनियमित रूप से आसमानी नीले या गहरे नीले रंग में बदल सकता है, या गुलाबी हो सकता है; डंठल के आधार में लाल हो सकता है। गंध विशिष्ट नहीं है; स्वाद हल्का है, या हल्का कड़वा अथवा साबुन जैसा।",
+      "sporePrint": "बीजाणु चूर्ण जैतूनी भूरा, जैतूनी आभा वाला भूरा, या जैतूनी होता है। बीजाणु चिकने होते हैं, बोलिट जैसे तर्कुरूप से संकरे अंडाकार या लगभग तर्कुरूप; प्रकाशित माप 10–16 × 4–5 µm और 9–15 × 3–5 µm शामिल करते हैं। KOH में वे पीलाभ होते हैं। बेसिडियम 20–30 × 5–10 µm के होते हैं और चार-बीजाणु वाले हैं। हिमेनियम की सिस्टिडिया 28–40 × 6–8 µm की, बोतल से तर्कुरूप और पतली दीवार वाली होती हैं।",
+      "habitat": "यह जून से सितंबर तक, और अधिक सामान्यतः ग्रीष्म और शरद में, ओक के नीचे और मिश्रित चौड़ी-पत्ती के वनखंडों में मिट्टी पर अकेला, बिखरा, समूहों में या गुच्छों में फलता है।",
+      "uses": "यह खाया जा सकता है। कुछ स्रोत युवा, ठोस फलन-कायों के स्वाद की तुलना Boletus edulis के स्वाद से करते हैं। पुराने फलन-कायों को अक्सर सुखाया जाता है।",
+      "confusion": "Tylopilus intermedius कुछ हद तक समान है, पर इसके रंध्र धूसर-बेज से मटमैले गुलाबी होते हैं और मांस अत्यंत कड़वा होता है।Imleria pallida की टोपी बहुत फीकी होती है, डंठल चिकना सफ़ेद और मोटे जाल के बिना होता है, रंध्र पीले फिर जैतूनी हो जाते हैं, मांस मंद या केवल हल्का कड़वा होता है, और यह ओक वृक्षों के साथ रहती है।",
+      "notes": "छिद्र सतह और मांस में नीला पड़ना और रंग-परिवर्तन परिवर्तनशील हैं: कुछ फलन-काय नीले पड़ते हैं, कुछ धीरे या बिल्कुल नहीं रंग बदलते, और मांस भी गुलाबी हो सकता है या डंठल के आधार में लाल हो सकता है। तात्कालिक काला-नीला धब्बा इस जाति के लिए विशिष्ट नहीं है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mikorizna vrsta vrganja hrastovih i mješovitih lisnatih šuma istočno od Stjenjaka u Sjevernoj Americi, od atlantske obale i Velikih jezera prema zapadu, zabilježena i iz Meksika i Srednje Amerike. Raste pojedinačno, raspršeno, u skupinama ili u gustim nakupinama na tlu.",
+      "cap": "Klobuk tipično ima 3–15,5 cm u promjeru. Isprva je ispupčen, zatim široko ispupčen, gotovo ravan ili slabo udubljen. Površina je suha i kod mladih primjeraka vrlo fino antilopasta, kasnije manje-više gola i izgleda poput tanke kože; sa starošću može ispucati, a po vlažnom vremenu biti slabo ljepljiva. Boja je bjelkasta, blijedo krem ili bež do blijedo sivosmeđe, a stariji klobuci mogu biti prljavo smeđi, ponekad s ružičastim odsjajem. Rub često ima vrlo uzak, prelazeći sterilan pojas.",
+      "hymenium": "Površina cjevčica je kod vrlo mladih primjeraka bjelkasta, zatim blijedo kremastožuta do mat žute, kasnije maslinastožuta i naposljetku tamnomaslinastosmeđa. Može mat ili zelenkasto plavjeti, zatim smeđeti, ili uopće ne mijenjati boju. U zrelosti ima 1–2 cjevčice po milimetru, isprva okrugle, kasnije gotovo uglate; cjevčice su duboke do 1 cm.",
+      "stipe": "Stručak je tipično 3–12 cm dug i 0,5–3,2 cm debeo, manje-više jednak ili slabo zadebljan prema dnu, pun i bez prstena. Gol je i obično bez mrežice, ili najviše slabo mrežast blizu vrha. Boja je bjelkasta do blijedo krem-bež, sa starošću smeđi, osobito prema dnu, i blizu vrha ili dna može biti crvenkast. Bazalni micelij je bijel.",
+      "flesh": "Meso je u svježem stanju bijelo, a kod starijih plodišta često požuti. Na presjeku može ostati nepromijenjeno, polako i nepravilno plavjeti u nebeskoplavo ili tamnije plavo, ili poružinjeti; u dnu stručka može pocrvenjeti. Miris nije osobit; okus je blag, ili slabo gorak ili sapunast.",
+      "sporePrint": "Otisak spora je maslinastosmeđ, smeđ s maslinastom nijansom ili maslinast. Spore su glatke, vrganjski vretenaste do usko jajaste ili gotovo vretenaste; navedene mjere uključuju 10–16 × 4–5 µm i 9–15 × 3–5 µm. U KOH su žućkaste. Bazidiji mjere 20–30 × 5–10 µm i četverosporni su. Himenijalne cistide mjere 28–40 × 6–8 µm, bočaste su do vretenaste i tankostijene.",
+      "habitat": "Plodonoši na tlu pod hrastovima i u mješovitim lisnatim sastojinama, pojedinačno, raspršeno, u skupinama ili u nakupinama, od lipnja do rujna i općenitije ljeti i u jesen.",
+      "uses": "Jestiva je. Neki izvori uspoređuju okus mladih, čvrstih plodišta s okusom vrste Boletus edulis. Starija se plodišta često suše.",
+      "confusion": "Tylopilus intermedius donekle je sličan, ali njegove cjevčice su sivkastobež do mutnoružičaste, a meso je intenzivno gorko. Imleria pallida ima vrlo blijed klobuk, gladak bjelkast stručak bez grube mrežice, cjevčice koje požute i zatim postanu maslinaste, meso blago ili samo slabo gorko, i raste s hrastovima.",
+      "notes": "Plavljenje i promjena boje na površini cjevčica i u mesu su promjenjivi: neka plodišta plave, druga mijenjaju boju polako ili nimalo, a meso može i poružinjeti ili pocrvenjeti u dnu stručka. Trenutačno crnoplavo bojenje nije tipično za ovu vrstu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Tölgyesek és vegyes lombos erdők mikorrhizás tinóruja a Sziklás-hegységtől keletre Észak-Amerikában, az atlanti partvidéktől és a Nagy-tavaktól nyugatra, Mexikóból és Közép-Amerikából is jelzett. Egyenként, elszórtan, csoportokban vagy sűrű csomókban nő a talajon.",
+      "cap": "A kalap tipikusan 3–15,5 cm átmérőjű. Először domború, majd szélesen domború, csaknem lapos vagy gyengén benyomott. Felülete száraz, a fiatal termőtesteken nagyon finoman velúrszerű, később többé-kevésbé kopasz és finom bőrszerű; korral berepedezhet, nedves időben gyengén tapadós lehet. Színe fehéres, halvány krémszínű vagy bézs a halvány szürkésbarnáig, az idősebb kalapok piszkosbarnák lehetnek, néha rózsás árnyalattal. A peremen gyakran nagyon keskeny, túllógó steril sáv van.",
+      "hymenium": "A csöves réteg felülete a nagyon fiatal termőtesteken fehéres, később halvány krémsárga vagy tompasárga, majd olívzöldessárga, végül sötét olívbarna. Tompán vagy zöldesen kékülhet, majd barnulhat, vagy egyáltalán nem változtat színt. Éretten milliméterenként 1–2 cső van, először kerek, később szinte szögletes; a csövek akár 1 cm mélyek.",
+      "stipe": "A tönk tipikusan 3–12 cm hosszú és 0,5–3,2 cm vastag, többé-kevésbé egyenletes vagy a töve felé gyengén vastagodó, tömör, gallér nélküli. Kopasz, általában hálózat nélküli, vagy legfeljebb a csúcs közelében gyengén hálózatos. Színe fehéres vagy halvány krémbézs, korral barnább, különösen a töve felé, és a csúcs vagy a tő közelében vöröses lehet. Az alapi micélium fehér.",
+      "flesh": "A hús frissen fehér, az idősebb termőtesteken gyakran sárgul. Elvágva változhatatlan maradhat, lassan és szabálytalanul égkékre vagy sötétebb kékre kékülhet, vagy rózsásodhat; a tönk tövében vörösödhet. Illata nem jellegzetes; íze enyhe, vagy enyhén kesernyés vagy szappanos.",
+      "sporePrint": "A spórapor olívbarna, olív árnyalatú barna vagy olívszínű. A spórák simák, tinóruszerűen orsó alakúak vagy keskenyen tojásdadok, illetve csaknem orsó alakúak; a közölt méretek 10–16 × 4–5 µm és 9–15 × 3–5 µm. KOH-ban sárgásak. A bazídiumok 20–30 × 5–10 µm-esek és négyspórásak. A himénium cisztídiumai 28–40 × 6–8 µm-esek, palack vagy orsó alakúak és vékony falúak.",
+      "habitat": "A talajon termődik tölgy alatt és vegyes lombos állományokban, egyenként, elszórtan, csoportokban vagy csomókban, júniustól szeptemberig, általánosabban nyáron és ősszel.",
+      "uses": "Ehető. Egyes források a fiatal, szilárd termőtestek ízét a Boletus edulis ízéhez hasonlítják. Az idősebb termőtesteket gyakran szárítják.",
+      "confusion": "A Tylopilus intermedius némileg hasonló, de pórusai szürkésbézs vagy tompa rózsaszínűek, és húsa erősen keserű. Az Imleria pallida fajnak nagyon halvány kalapja, sima, fehéres, durva hálózat nélküli tönkje, sárgává, majd olívzölddé váló pórusai, enyhe vagy csak enyhén keserű húsa van, és tölgyekkel társul.",
+      "notes": "A kékülés és a színváltozás a csöves réteg felületén és a húsban változó: egyes termőtestek kékülnek, mások lassan vagy egyáltalán nem változnak, a hús pedig rózsásodhat vagy a tönk tövében vörösödhet. Az azonnali feketéskék elszíneződés erre a fajra nem jellemző.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur mikoriza hutan ek dan hutan daun lebar campuran di sebelah timur Pegunungan Rocky di Amerika Utara, dari pantai Atlantik dan Danau-Danau Besar ke barat, juga dicatat dari Meksiko dan Amerika Tengah. Tumbuh soliter, tersebar, berkoloni, atau dalam rumpun rapat di tanah.",
+      "cap": "Tudung biasanya berdiameter 3–15,5 cm. Mula-mula cembung, kemudian lebar cembung, hampir datar atau agak cekung. Permukaan kering dan pada tubuh buah muda sangat halus seperti suede, kemudian kurang lebih gundul dan menyerupai kulit tipis; seiring usia dapat retak, dan pada cuaca lembap dapat terasa agak lengket. Warna keputihan, krem pucat atau beige hingga cokelat keabu-abuan pucat, dan tudung tua dapat menjadi cokelat kotor, kadang dengan kilau merah jambu. Tepi sering memiliki pita steril yang sangat sempit dan menjorok.",
+      "hymenium": "Permukaan pori pada tubuh buah yang sangat muda keputihan, kemudian kuning krem pucat hingga kuning kusam, kemudian kuning zaitun, dan akhirnya cokelat zaitun gelap. Dapat memucat menjadi biru kusam atau kehijauan, lalu mencokelat, atau tidak berubah warna sama sekali. Pada kematangan terdapat 1–2 pori per milimeter, mula-mula bulat, kemudian hampir bersudut; tabung sedalam hingga 1 cm.",
+      "stipe": "Tangkai biasanya 3–12 cm panjangnya dan 0,5–3,2 cm tebalnya, kurang lebih silindris atau sedikit membesar ke pangkal, padat, dan tanpa cincin. Gundul dan biasanya tanpa jala, atau paling-paling berjala lemah dekat puncak. Warna keputihan hingga krem-beige pucat, menjadi lebih cokelat seiring usia, terutama ke arah pangkal, dan dapat kemerahan dekat puncak atau pangkal. Miselium basal berwarna putih.",
+      "flesh": "Daging segar berwarna putih, dan pada tubuh buah tua sering menguning. Saat dipotong dapat tetap tidak berubah, perlahan dan tidak merata menjadi biru langit atau biru lebih gelap, atau menjadi keunguan-merah jambu; di pangkal tangkai dapat memerah. Bau tidak khas; rasa lembut, atau agak pahit atau seperti sabun.",
+      "sporePrint": "Serbuk spora cokelat zaitun, cokelat dengan kilau zaitun, atau zaitun. Spora halus, fusiform seperti jamur pori hingga ovoid sempit atau hampir fusiform; kisaran yang diterbitkan mencakup 10–16 × 4–5 µm dan 9–15 × 3–5 µm. Dalam KOH berwarna kekuningan. Basidium berukuran 20–30 × 5–10 µm dan berempat spora. Sistidia himenium berukuran 28–40 × 6–8 µm, berbentuk botol hingga fusiform, berdinding tipis.",
+      "habitat": "Berbuah di tanah di bawah ek dan di tegakan daun lebar campuran, soliter, tersebar, berkoloni, atau berumpun, dari Juni hingga September dan secara lebih umum pada musim panas dan musim gugur.",
+      "uses": "Dapat dimakan. Beberapa sumber membandingkan rasa tubuh buah muda yang padat dengan rasa Boletus edulis. Tubuh buah yang lebih tua sering dikeringkan.",
+      "confusion": "Tylopilus intermedius agak mirip, tetapi porinya berwarna abu-krem hingga merah muda kusam dan dagingnya sangat pahit. Imleria pallida memiliki tudung sangat pucat, batang keputihan yang halus dan tidak berjaring kasar, pori yang menjadi kuning lalu zaitun, daging yang lembut atau hanya sedikit pahit, serta berasosiasi dengan pohon ek.",
+      "notes": "Pembiruan dan perubahan warna pada permukaan pori dan pada daging bersifat berubah-ubah: sebagian tubuh buah membiru, yang lain berubah warna secara lambat atau tidak sama sekali, dan daging juga dapat menjadi merah jambu atau memerah di pangkal tangkai. Pewarnaan biru kehitaman seketika tidak khas bagi spesies ini.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un boleto micorrizico delle foreste di querce e di latifoglie miste a est delle Montagne Rocciose in Nord America, dalla costa atlantica e dai Grandi Laghi verso ovest, segnalato anche in Messico e in America Centrale. Cresce isolato, sparso, in gruppi o in cespi serrati sul terreno.",
+      "cap": "Il cappello misura tipicamente 3–15,5 cm di diametro. È dapprima convesso e diventa ampiamente convesso, quasi piano o lievemente depresso. La superficie è asciutta e, negli esemplari giovani, molto finemente scamosciata, più tardi più o meno glabra e di aspetto coriaceo fine; con l’età può fessurarsi e, con l’umidità, apparire leggermente vischiosa. Il colore è biancastro, crema pallido o beige fino a un grigio-bruno pallido, e i cappelli vecchi possono diventare bruno sporco, a volte con una sfumatura rosata. Il margine ha spesso una fascia sterile molto stretta e sporgente.",
+      "hymenium": "La superficie dei tubuli è biancastra negli esemplari molto giovani, poi giallo crema pallido o giallo spento, in seguito giallo olivaceo e infine bruno olivaceo scuro. Può virare al blu spento o verdastro e poi al bruno, oppure non cambiare colore. A maturità vi sono 1–2 pori per millimetro, dapprima rotondi e poi quasi angolosi; i tubuli sono profondi fino a 1 cm.",
+      "stipe": "Il gambo misura tipicamente 3–12 cm di lunghezza e 0,5–3,2 cm di spessore; è più o meno uguale o lievemente ingrossato verso la base, pieno e privo di anello. È glabro e di solito non reticolato, o tutt’al più debolmente reticolato vicino all’apice. Il colore è biancastro fino a crema-beige pallido, diventa più bruno con l’età, soprattutto verso la base, e può arrossire vicino all’apice o alla base. Il micelio basale è bianco.",
+      "flesh": "La carne è bianca da fresca e negli esemplari vecchi spesso ingiallisce. Al taglio può restare invariata, virare lentamente e in modo irregolare al blu cielo o a un blu più scuro, o diventare rosata; alla base del gambo può arrossire. L’odore non è distintivo; il sapore è mite, o leggermente amaro o saponoso.",
+      "sporePrint": "La sporata è bruno-olivacea, bruna con una tinta olivacea, o olivacea. Le spore sono lisce, fusiformi da boleto, fino a strettamente ovoidi o quasi fusiformi; gli intervalli pubblicati comprendono 10–16 × 4–5 µm e 9–15 × 3–5 µm. In KOH sono giallastre. I basidi misurano 20–30 × 5–10 µm e sono tetrasporici. I cistidi imeniali misurano 28–40 × 6–8 µm, sono lageniformi o fusiformi e a parete sottile.",
+      "habitat": "Fruttifica sul terreno sotto le querce e in popolamenti di latifoglie miste, isolato, sparso, in gruppi o in cespi, da giugno a settembre e, più in generale, in estate e in autunno.",
+      "uses": "È commestibile. Alcuni resoconti confrontano il sapore degli esemplari giovani e sodi con quello di Boletus edulis. I carpofori più vecchi vengono spesso essiccati.",
+      "confusion": "Tylopilus intermedius è alquanto simile, ma i suoi pori sono grigio-camoscio o rosa spento e la carne è intensamente amara. Imleria pallida ha un cappello molto pallido, un gambo biancastro liscio e senza reticolo grossolano, pori che diventano gialli e poi oliva, carne mite o solo leggermente amara, e un’associazione con le querce.",
+      "notes": "L’azzurramento e il cambiamento di colore sulla superficie dei tubuli e nella carne sono variabili: alcuni carpofori azzurrano, altri cambiano colore lentamente o per nulla, e la carne può anche diventare rosata o arrossire alla base del gambo. Una tinta blu-nerastra immediata non è tipica di questa specie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "北アメリカのロッキー山脈以東のナラ林および混交広葉樹林に生じる菌根性のイグチで、大西洋岸や五大湖から西へ分布し、メキシコおよび中央アメリカからも記録されている。地上に単生、散生、群生、または密な束生する。",
+      "cap": "かさの直径はふつう3–15.5 cm。初めはまんじゅう形で、のちに広くまんじゅう形、ほぼ平ら、またはわずかに窪む。表面は乾き、若い子実体ではごく細かなスエード状、のちほぼ無毛で薄い革状；老成するとひび割れることがあり、湿った天候ではわずかに粘ることがある。色は白っぽい、淡いクリーム色またはベージュから淡い灰褐色までで、古いものは汚れた褐色になり、ときに桃色を帯びる。縁にはしばしばごく狭い、張り出した不稔帯がある。",
+      "hymenium": "管孔面はごく若いときは白っぽく、のち淡いクリーム黄色からくすんだ黄色、さらにオリーブ黄色となり、ついには暗いオリーブ褐色になる。鈍い青変や緑がかった青変ののち褐変することがあり、まったく変色しないこともある。成熟時は1 mmあたり1–2個の管孔で、初めは円く、のちほぼ角形；管は深さ最大1 cm。",
+      "stipe": "柄はふつう長さ3–12 cm、太さ0.5–3.2 cmで、ほぼ上下同大、または基部に向かってわずかに太く、内部は充実し、つばを欠く。無毛で、通常は網目がなく、あっても先端付近に弱い網目がある程度。色は白っぽいから淡いクリームベージュで、古いほど、とくに基部に向かって褐変し、先端や基部付近が赤みを帯びることがある。基部の菌糸は白い。",
+      "flesh": "肉は新鮮なときは白く、古い子実体ではしばしば黄変する。切断すると変色しないことも、ゆっくり不規則に空色やより濃い青に青変することも、桃色を帯びることもあり、柄の基部では赤変することがある。匂いは特異ではなく、味は温和、またはわずかに苦いか石鹸ようである。",
+      "sporePrint": "胞子紋はオリーブ褐色、オリーブがかった褐色、またはオリーブ色。胞子は平滑で、イグチ型の紡錘形から狭卵形、またはほぼ紡錘形；報告されている大きさには10–16 × 4–5 µmおよび9–15 × 3–5 µmが含まれる。KOH中では黄味を帯びる。担子器は20–30 × 5–10 µmで4胞子性。子実層のシスチジアは28–40 × 6–8 µm、瓶形から紡錘形で薄壁。",
+      "habitat": "ナラの下および混交広葉樹の林分の地上に、単生、散生、群生、または束生し、6月から9月、より一般には夏から秋に子実体をつける。",
+      "uses": "食用になる。若い、締まった子実体の味を Boletus edulis の味にたとえる記録がある。古い子実体はしばしば乾燥される。",
+      "confusion": "Tylopilus intermedius はある程度似るが、管孔は灰ベージュからくすんだ桃色で、肉は極めて苦い。Imleria pallida はごく淡色のカサ、粗い網目のない平滑な白っぽい柄、黄色からのちにオリーブ色になる管孔、温和またはわずかに苦いだけの肉をもち、ナラ類と共生する。",
+      "notes": "管孔面と肉の青変および変色は変異が大きい。青変するものもあれば、変色が遅いもの、まったく変色しないものもあり、肉が桃色を帯びたり、柄の基部で赤変したりすることもある。即座の黒青色の変色はこの種には典型的ではない。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "북아메리카의 록키산맥 동쪽 참나무림과 혼효 활엽수림의 외생균근성 그물버섯으로, 대서양 연안과 오대호에서 서쪽으로 분포하며 멕시코와 중앙아메리카에서도 기록된다. 땅 위에 단생하거나 산생, 군생, 또는 빽빽한 다발로 난다.",
+      "cap": "갓 지름은 보통 3–15.5 cm이다. 처음에는 볼록하고, 나중에 넓게 볼록하거나 거의 편평하거나 약간 오목해진다. 표면은 건조하고, 어린 자실체에서는 매우 고운 스웨이드 같으며, 나중에는 거의 털이 없고 얇은 가죽처럼 보인다. 나이가 들면 갈라질 수 있고, 습한 날씨에는 약간 점성이 있어 보이기도 한다. 색은 회백색, 옅은 크림색 또는 베이지에서 옅은 회갈색까지이며, 오래된 갓은 탁한 갈색이 되고 때로 분홍빛을 띤다. 가장자리에는 종종 매우 좁고 돌출된 불임대가 있다.",
+      "hymenium": "관공 표면은 아주 어릴 때 회백색이고, 이후 옅은 크림노랑에서 흐린 노랑, 다음에는 올리브노랑, 나중에는 어두운 올리브갈색이 된다. 흐리거나 녹색을 띤 청색으로 변한 뒤 갈변할 수도 있고, 전혀 변색하지 않을 수도 있다. 성숙하면 밀리미터당 1–2개의 관공이 있으며, 처음에는 둥글다가 나중에는 거의 각진다. 관은 깊이 최대 1 cm이다.",
+      "stipe": "대는 보통 길이 3–12 cm, 두께 0.5–3.2 cm로, 거의 원기둥이거나 밑으로 약간 두꺼워지며, 속이 차고 테가 없다. 털이 없고 대개 그물이 없거나, 기껏해야 꼭대기 근처에 약한 그물이 있다. 색은 회백색에서 옅은 크림베이지이며, 나이가 들수록, 특히 밑을 향해 갈색이 짙어지고, 꼭대기나 밑 근처가 붉어질 수 있다. 기부 균사는 하얗다.",
+      "flesh": "살은 신선할 때 하얗고, 오래된 자실체에서는 흔히 노랗게 된다. 자르면 변하지 않거나, 천천히 불규칙하게 하늘색이나 더 진한 청색으로 변하거나, 분홍빛을 띨 수 있으며, 대 밑부분에서는 붉어질 수 있다. 냄새는 특징적이지 않고, 맛은 온화하거나 약간 쓰거나 비누 같다.",
+      "sporePrint": "포자문은 올리브갈색, 올리브 기운이 있는 갈색, 또는 올리브색이다. 포자는 매끈하며, 그물버섯처럼 방추형이거나 좁은 난형, 또는 거의 방추형이다. 보고된 크기는 10–16 × 4–5 µm와 9–15 × 3–5 µm를 포함한다. KOH에서는 노르스름하다. 담자기는 20–30 × 5–10 µm이고 4포자성이다. 자실층 낭상체는 28–40 × 6–8 µm로, 병형 내지 방추형이며 벽이 얇다.",
+      "habitat": "참나무 아래와 혼효 활엽수림 땅 위에 단생, 산생, 군생 또는 다발로, 6월부터 9월까지, 더 일반적으로는 여름과 가을에 자실체를 낸다.",
+      "uses": "식용이다. 일부 자료는 어리고 단단한 자실체의 맛을 Boletus edulis의 맛에 비긴다. 오래된 자실체는 흔히 말린다.",
+      "confusion": "Tylopilus intermedius는 어느 정도 닮았으나, 관공은 회베이지색에서 흐린 분홍색이고 살은 매우 쓰다.Imleria pallida는 매우 옅은 갓, 거친 그물이 없는 매끈한 흰빛 대, 노랗게 되었다가 올리브색으로 변하는 관공, 온화하거나 조금만 쓴 살을 지니며 참나무류와 함께 난다.",
+      "notes": "관공 표면과 살의 청변 및 변색은 일정하지 않다. 어떤 자실체는 청변하고, 어떤 것은 천천히 변색하거나 전혀 변하지 않으며, 살도 분홍빛을 띠거나 대 밑부분에서 붉어질 수 있다. 즉각적인 흑청색 변색은 이 종에 전형적이지 않다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Ąžuolynų ir mišrių lapuočių miškų mikorizinis baravykas į rytus nuo Uolinių kalnų Šiaurės Amerikoje, nuo Atlanto pakrantės ir Didžiųjų ežerų į vakarus, taip pat nurodomas iš Meksikos ir Centrinės Amerikos. Jis auga pavieniui, pasklidęs, grupėmis arba tankiais kuokštais ant žemės.",
+      "cap": "Kepurėlė paprastai būna 3–15,5 cm skersmens. Pirmiausia ji būna iškili, vėliau plačiai iškili, beveik plokščia arba silpnai įdubusi. Paviršius sausas, jaunų vaisiakūnių labai smulkiai zomšinis, vėliau daugiau ar mažiau plikas ir panašus į ploną odą; senstant gali sutrūkinėti, o drėgnu oru būti silpnai lipnus. Spalva balkšva, blyškiai kreminė arba rusva iki blyškiai pilkai rudos, o senesnės kepurėlės gali būti nešvariai rudos, kartais su rožiniu atspalviu. Kraštas dažnai turi labai siaurą, išsikišusią sterilią juostelę.",
+      "hymenium": "Vamzdelių paviršius labai jaunų vaisiakūnių būna balkšvas, vėliau blyškiai kreminiai geltonas iki blankiai geltono, paskui alyvinai geltonas ir galiausiai tamsiai alyvinai rudas. Jis gali blankiai ar žalsvai mėlynuoti, paskui ruduoti, arba visai nekeisti spalvos. Brandžiame amžiuje tenka 1–2 vamzdeliai milimetrui, iš pradžių apvalūs, vėliau beveik kampuoti; vamzdeliai būna iki 1 cm gylio.",
+      "stipe": "Kotas paprastai būna 3–12 cm ilgio ir 0,5–3,2 cm storio, daugiau ar mažiau lygus arba silpnai pastorėjęs link pagrindo, pilnaviduris ir be žiedo. Jis plikas ir paprastai be tinklo, arba daugiausia silpnai tinkliškas prie viršūnės. Spalva balkšva iki blyškiai kreminės rusvos, su amžiumi ruduoja, ypač link pagrindo, o prie viršūnės ar pagrindo gali būti rausvas. Bazalinis micelis baltas.",
+      "flesh": "Mėsa šviežia būna balta, o senesniuose vaisiakūniuose dažnai geltuoja. Perpjauta ji gali likti nepakitusi, lėtai ir netolygiai mėlynuoti dangaus mėlyna ar tamsesne mėlyna, arba rausvėti; koto pamate gali rausti. Kvapas nėra būdingas; skonis švelnus, arba silpnai kartus ar muiluotas.",
+      "sporePrint": "Sporų milteliai alyvinai rudi, rudi su alyviniu atspalviu arba alyviniai. Sporos lygios, baravykiškai verpstiškos iki siaurai kiaušiniškų arba beveik verpstiškos; nurodyti matmenys apima 10–16 × 4–5 µm ir 9–15 × 3–5 µm. KOH jos gelsvos. Bazidės yra 20–30 × 5–10 µm ir keturiasporės. Himeninės cistidės yra 28–40 × 6–8 µm, buteliškos iki verpstiškų ir plonasienės.",
+      "habitat": "Derliuoja ant žemės po ąžuolais ir mišriuose lapuočių medynuose, pavieniui, pasklidęs, grupėmis arba kuokštais, nuo birželio iki rugsėjo ir apskritai vasarą bei rudenį.",
+      "uses": "Jis valgomas. Kai kurie šaltiniai jaunų, tvirtų vaisiakūnių skonį lygina su rūšies Boletus edulis skoniu. Senesni vaisiakūniai dažnai džiovinami.",
+      "confusion": "Tylopilus intermedius yra šiek tiek panašus, tačiau jo poros pilkšvai gelsvos iki blankiai rožinės, o mėsa yra stipriai karti. Imleria pallida turi labai blyškią kepurėlę, lygų balkšvą kotą be stambaus tinklelio, poras, kurios gelsta, o paskui tampa alyvinės, švelnaus arba tik silpnai kartaus skonio mėsą, ir auga su ąžuolais.",
+      "notes": "Mėlynavimas ir spalvos kaita ant vamzdelių paviršiaus ir mėsoje yra įvairūs: vieni vaisiakūniai mėlynuoja, kiti keičia spalvą lėtai arba visai nekeičia, o mėsa taip pat gali rausvėti arba rausti koto pamate. Staigus juodai mėlynas nusidažymas šiai rūšiai nėra būdingas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Mikorizāla bekas suga ozolu un jauktos lapkoku mežos uz austrumiem no Klinšu kalniem Ziemeļamerikā, no Atlantijas piekrastes un Lielajiem ezeriem uz rietumiem, zināma arī no Meksikas un Centrālamerikas. Tā aug pa vienai, izklaidus, grupās vai ciešos pušķos uz zemes.",
+      "cap": "Cepurīte parasti ir 3–15,5 cm diametrā. Sākumā tā ir izliekta, pēc tam plaši izliekta, gandrīz plakana vai vāji ieliekta. Virsma ir sausa un jauniem augļķermeņiem ļoti sīki zamša līdzīga, vēlāk vairāk vai mazāk kaila un smalkas ādas izskata; ar vecumu tā var ieplaisāt un mitrā laikā būt vāji lipīga. Krāsa ir bālgana, bāli krēmkrāsas vai bēša līdz bāli pelēkbrūnai, un vecākas cepurītes var būt netīri brūnas, reizēm ar sārtu nokrāsu. Malai bieži ir ļoti šaura, pārliecoša sterila josla.",
+      "hymenium": "Cauruļīšu virsma ļoti jauniem augļķermeņiem ir bālgana, pēc tam bāli krēmdzeltena līdz matēti dzeltenai, vēlāk olīvdzeltena un visbeidzot tumši olīvbrūna. Tā var matēti vai zaļgani zilēt un pēc tam brūnēt, vai arī nemainīt krāsu vispār. Nobriedušā stāvoklī ir 1–2 cauruļītes uz milimetru, sākumā apaļas, vēlāk gandrīz stūrainas; cauruļītes ir līdz 1 cm dziļas.",
+      "stipe": "Kātiņš parasti ir 3–12 cm garš un 0,5–3,2 cm biezs, vairāk vai mazāk vienāds vai vāji paresnināts pret pamatni, pilns un bez gredzena. Tas ir kails un parasti bez tīklotnes, vai visaugstāk vāji tīklots pie galotnes. Krāsa ir bālgana līdz bāli krēmbēšai, ar vecumu kļūst brūnāka, īpaši pret pamatni, un pie galotnes vai pamatnes var būt sārts. Bazālais micēlijs ir balts.",
+      "flesh": "Mīkstums svaigā stāvoklī ir balts, un vecākiem augļķermeņiem bieži dzeltē. Pārgriežot tas var palikt nemainīgs, lēni un neregulāri zilēt debeszilā vai tumšāk zilā krāsā, vai kļūt sārts; kātiņa pamatnē tas var nosarkt. Smarža nav raksturīga; garša ir maiga vai viegli rūgta vai ziepjaina.",
+      "sporePrint": "Sporu pulveris ir olīvbrūns, brūns ar olīvu nokrāsu vai olīvkrāsas. Sporas ir gludas, beku veidā vārpstveida līdz šauri olveida vai gandrīz vārpstveida; norādītie izmēri ietver 10–16 × 4–5 µm un 9–15 × 3–5 µm. KOH tās ir dzeltenīgas. Bazīdijas ir 20–30 × 5–10 µm un četrsporu. Himēnija cistīdas ir 28–40 × 6–8 µm, pudelveida līdz vārpstveida un plānsienu.",
+      "habitat": "Tā augļo uz zemes zem ozoliem un jauktos lapkoku audzēs, pa vienai, izklaidus, grupās vai pušķos, no jūnija līdz septembrim un vispārīgāk vasarā un rudenī.",
+      "uses": "Tā ir ēdama. Daži avoti salīdzina jaunu, stingru augļķermeņu garšu ar sugas Boletus edulis garšu. Vecākus augļķermeņus bieži žāvē.",
+      "confusion": "Tylopilus intermedius ir zināmā mērā līdzīgs, bet tā poras ir pelēkbešas līdz blāvi sārtām un mīkstums ir ļoti rūgts. Imleria pallida ir ļoti bāla cepurīte, gluds bālgans kātiņš bez rupja tīklojuma, poras, kas kļūst dzeltenas un pēc tam olīvzaļas, maigs vai tikai viegli rūgts mīkstums, un tā aug kopā ar ozoliem.",
+      "notes": "Zilēšana un krāsas maiņa uz cauruļīšu virsmas un mīkstumā ir mainīga: daži augļķermeņi zilē, citi maina krāsu lēni vai nemaz, un mīkstums var arī kļūt sārts vai nosarkt kātiņa pamatnē. Tūlītēja zili melna krāsošanās šai sugai nav raksturīga.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een mycorrhizavormende boleet van eiken- en gemengde loofbossen ten oosten van de Rocky Mountains in Noord-Amerika, van de Atlantische kust en de Grote Meren westwaarts, ook bekend uit Mexico en Midden-Amerika. Hij groeit alleenstaand, verspreid, in groepjes of in dichte bundels op de grond.",
+      "cap": "De hoed meet typisch 3–15,5 cm in diameter. Hij is eerst gewelfd en wordt breed gewelfd, bijna vlak of zwak ingedeukt. Het oppervlak is droog en bij jonge exemplaren zeer fijn suèdeachtig, later min of meer kaal en fijn leerachtig; op oudere leeftijd kan het barsten en bij vochtig weer zwak kleverig lijken. De kleur is witachtig, bleek roomkleurig of beige tot bleek grijzig bruin, en oudere hoeden kunnen vuilbruin worden, soms met een roze zweem. De rand heeft vaak een zeer smalle, overstekende steriele strook.",
+      "hymenium": "Het buisjesoppervlak is bij zeer jonge exemplaren witachtig, daarna bleek roomgeel tot dofgeel, later olijfgeel en ten slotte donker olijfbruin. Het kan dof of groenachtig blauwen en daarna bruinen, of helemaal niet verkleuren. Bij rijpheid staan er 1–2 buisjes per millimeter, eerst rond en later bijna hoekig; de buisjes zijn tot 1 cm diep.",
+      "stipe": "De steel is typisch 3–12 cm lang en 0,5–3,2 cm dik, min of meer cilindrisch of zwak verdikt naar de basis, vol en zonder ring. Hij is kaal en gewoonlijk niet geaderd, of hoogstens zwak geaderd nabij de top. De kleur is witachtig tot bleek roombeige, wordt met de leeftijd bruiner, vooral naar de basis, en kan bij de top of de basis rood aangelopen zijn. Het basale mycelium is wit.",
+      "flesh": "Het vlees is vers wit en wordt bij oudere vruchtlichamen vaak geelachtig. Bij doorsnijden kan het onveranderd blijven, langzaam en onregelmatig hemelsblauw of donkerder blauw verkleuren, of roze worden; in de steelbasis kan het rood worden. De geur is niet opvallend; de smaak is mild, of licht bitter of zeepachtig.",
+      "sporePrint": "Het sporenpoeder is olijfbruin, bruin met een olijftint of olijfkleurig. De sporen zijn glad, boleetachtig spoelvormig tot smal eivormig of bijna spoelvormig; gepubliceerde maten omvatten 10–16 × 4–5 µm en 9–15 × 3–5 µm. In KOH zijn ze geelachtig. De basidiën meten 20–30 × 5–10 µm en zijn viersporig. De hymeniale cystiden meten 28–40 × 6–8 µm, zijn fles- tot spoelvormig en dunwandig.",
+      "habitat": "Hij vrucht op de grond onder eiken en in gemengde loofbestanden, alleenstaand, verspreid, in groepjes of in bundels, van juni tot september en meer algemeen in de zomer en de herfst.",
+      "uses": "Hij is eetbaar. Sommige bronnen vergelijken de smaak van jonge, stevige vruchtlichamen met die van Boletus edulis. Oudere vruchtlichamen worden vaak gedroogd.",
+      "confusion": "Tylopilus intermedius is enigszins gelijkend, maar de poriën zijn grijzig-beige tot dofroze en het vlees is intens bitter. Imleria pallida heeft een zeer bleke hoed, een gladde witachtige steel zonder grof net, poriën die geel en daarna olijfkleurig worden, mild of slechts licht bitter vlees, en groeit bij eiken.",
+      "notes": "Het blauwen en de kleurverandering aan het buisjesoppervlak en in het vlees zijn wisselend: sommige vruchtlichamen blauwen, andere verkleuren langzaam of helemaal niet, en het vlees kan ook roze worden of in de steelbasis rood. Een onmiddellijke zwartblauwe verkleuring is voor deze soort niet typisch.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En mykorrhizadannende rørsopp i eike- og blandede lauvskoger øst for Rocky Mountains i Nord-Amerika, fra Atlanterhavskysten og De store sjøene vestover, også kjent fra Mexico og Mellom-Amerika. Den vokser enkeltvis, spredt, i grupper eller i tette knipper på bakken.",
+      "cap": "Hatten måler typisk 3–15,5 cm i diameter. Den er først hvelvet og blir bredt hvelvet, nesten flat eller svakt nedtrykt. Overflaten er tørr og hos unge eksemplarer svært fint semsket, senere mer eller mindre naken og fint læraktig; med alderen kan den sprekke, og i fuktig vær virke svakt klebrig. Fargen er hvitaktig, blekt kremfarget eller beige til blekt gråbrun, og eldre hatter kan bli skittenbrune, av og til med et rosa skjær. Randen har ofte et svært smalt, utstående sterilt bånd.",
+      "hymenium": "Rørmunningen er hos svært unge eksemplarer hvitaktig, deretter blekt kremgul til mattgul, senere olivenfarget gul og til slutt mørkt olivenbrun. Den kan matt eller grønnlig blåne og deretter brunne, eller ikke skifte farge i det hele tatt. I moden tilstand er det 1–2 rør per millimeter, først runde og senere nesten kantete; rørene er opptil 1 cm dype.",
+      "stipe": "Stokken er typisk 3–12 cm lang og 0,5–3,2 cm tykk, mer eller mindre jevntykk eller svakt fortykket mot basis, solid og uten ring. Den er naken og vanligvis uten netting, eller høyst svakt nettet nær toppen. Fargen er hvitaktig til blekt krembeige, blir med alderen brunere, særlig mot basis, og kan være rødlig nær toppen eller basis. Det basale myceliet er hvitt.",
+      "flesh": "Kjøttet er ferskt hvitt og blir hos eldre fruktlegemer ofte gult. Ved gjennomskjæring kan det forbli uforandret, langsomt og uregelmessig blåne til himmelblått eller mørkere blått, eller bli rosa; i stokkens basis kan det rødne. Lukten er ikke karakteristisk; smaken er mild, eller svakt bitter eller såpeaktig.",
+      "sporePrint": "Sporepulveret er olivenbrunt, brunt med et olivenskjær eller olivenfarget. Sporene er glatte, rørsopplignende tenformede til smalt eggformede eller nesten tenformede; oppgitte mål omfatter 10–16 × 4–5 µm og 9–15 × 3–5 µm. I KOH er de gulaktige. Basidiene måler 20–30 × 5–10 µm og er firesporede. De hymeniale cystidene måler 28–40 × 6–8 µm, er flaske- til tenformede og tynnveggede.",
+      "habitat": "Den fruktifiserer på bakken under eik og i blandede lauvbestand, enkeltvis, spredt, i grupper eller i knipper, fra juni til september og mer allment om sommeren og høsten.",
+      "uses": "Den er spiselig. Noen kilder sammenligner smaken av unge, faste fruktlegemer med smaken av Boletus edulis. Eldre fruktlegemer tørkes ofte.",
+      "confusion": "Tylopilus intermedius er noe lik, men porene er gråbeige til mattrosa, og kjøttet er intenst bittert. Imleria pallida har en svært blek hatt, en glatt hvitaktig stilk uten grovt nett, porer som blir gule og deretter olivenfargede, mildt eller bare svakt bittert kjøtt, og vokser med eik.",
+      "notes": "Blåningen og fargeskiftet på rørmunningen og i kjøttet er variable: noen fruktlegemer blåner, andre skifter farge langsomt eller ikke i det hele tatt, og kjøttet kan også bli rosa eller rødne i stokkens basis. En umiddelbar svartblå farging er ikke typisk for denne arten.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Mikoryzowy borowik dębowych i mieszanych lasów liściastych na wschód od Gór Skalistych w Ameryce Północnej, od wybrzeża Atlantyku i Wielkich Jezior ku zachodowi, podawany także z Meksyku i Ameryki Środkowej. Rośnie pojedynczo, rozproszenie, w grupach lub w ciasnych kępkach na ziemi.",
+      "cap": "Kapelusz ma typowo 3–15,5 cm średnicy. Najpierw jest wypukły, później szeroko wypukły, niemal płaski lub słabo wklęsły. Powierzchnia jest sucha i u młodych owocników bardzo drobno zamszowa, później mniej więcej naga i o wyglądzie cienkiej skórki; ze starością może pękać, a przy wilgoci bywać słabo lepka. Barwa jest biaława, blado kremowa lub płowa aż do blado szarobrązowej, a starsze kapelusze mogą być brudnobrązowe, czasem z różowawym odcieniem. Brzeg ma często bardzo wąski, wystający sterylny pasek.",
+      "hymenium": "Powierzchnia rurek jest u bardzo młodych owocników biaława, potem blado kremowożółta do matowożółtej, później oliwkowożółta i wreszcie ciemnooliwkowobrązowa. Może po uszkodzeniu matowo lub zielonkawo sinieć, a następnie brązowieć, albo nie zmieniać barwy wcale. W dojrzałości jest 1–2 rurki na milimetr, najpierw okrągłe, później niemal kanciaste; rurki mają do 1 cm głębokości.",
+      "stipe": "Trzon ma typowo 3–12 cm długości i 0,5–3,2 cm grubości, mniej więcej równy lub słabo zgrubiały ku podstawie, pełny i bez pierścienia. Jest nagi i zwykle bez siateczki, albo co najwyżej słabo siateczkowaty przy wierzchołku. Barwa jest biaława do blado kremowopłowej, z wiekiem brązowieje, zwłaszcza ku podstawie, i przy wierzchołku lub podstawie może być zaczerwieniony. Grzybnia podstawowa jest biała.",
+      "flesh": "Miąższ jest w stanie świeżym biały, a u starszych owocników często żółknie. Po przekrojeniu może pozostać niezmieniony, powoli i nieregularnie sinieć na jasnoniebiesko lub ciemniej niebiesko, albo różowieć; w podstawie trzonu może czerwienieć. Zapach nie jest charakterystyczny; smak jest łagodny, albo lekko gorzki lub mydlany.",
+      "sporePrint": "Wysyp zarodników jest oliwkowobrązowy, brązowy z oliwkowym odcieniem albo oliwkowy. Zarodniki są gładkie, borowikowato wrzecionowate do wąsko jajowatych lub niemal wrzecionowatych; podawane wymiary obejmują 10–16 × 4–5 µm i 9–15 × 3–5 µm. W KOH są żółtawe. Podstawki mają 20–30 × 5–10 µm i są czterozarodnikowe. Cystydy hymenialne mają 28–40 × 6–8 µm, są butelkowate do wrzecionowatych i cienkościenne.",
+      "habitat": "Owocnikuje na ziemi pod dębami i w mieszanych drzewostanach liściastych, pojedynczo, rozproszenie, w grupach lub w kępkach, od czerwca do września, a ogólniej latem i jesienią.",
+      "uses": "Jest jadalny. Niektóre źródła porównują smak młodych, jędrnych owocników do smaku gatunku Boletus edulis. Starsze owocniki często się suszy.",
+      "confusion": "Tylopilus intermedius jest nieco podobny, ale jego pory są szarobeżowe do matoworóżowych, a miąższ jest silnie gorzki. Imleria pallida ma bardzo blady kapelusz, gładki białawy trzon bez grubej siateczki, pory, które żółkną, a następnie stają się oliwkowe, miąższ łagodny lub tylko lekko gorzki, i rośnie z dębami.",
+      "notes": "Sinenie i zmiana barwy na powierzchni rurek oraz w miąższu są zmienne: niektóre owocniki sinieją, inne zmieniają barwę powoli albo wcale, a miąższ może także różowieć lub w podstawie trzonu czerwienieć. Natychmiastowe czarnoniebieskie zabarwienie nie jest dla tego gatunku typowe.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um boleto micorrízico das florestas de carvalhos e de folhosas mistas a leste das Montanhas Rochosas na América do Norte, da costa atlântica e dos Grandes Lagos para oeste, também registado no México e na América Central. Cresce isolado, disperso, em grupos ou em tufos apertados no solo.",
+      "cap": "O chapéu mede tipicamente 3–15,5 cm de diâmetro. É primeiro convexo e torna-se amplamente convexo, quase plano ou ligeiramente deprimido. A superfície é seca e, nos exemplares jovens, muito finamente aveludada, mais tarde mais ou menos glabra e com aspeto de couro fino; com a idade pode gretar e, com humidade, parecer ligeiramente viscosa. A cor é esbranquiçada, de um creme pálido ou baço até um pardo-acinzentado pálido, e os chapéus velhos podem tornar-se pardo sujo, por vezes com um tom rosado. A margem tem muitas vezes uma faixa estéril muito estreita e saliente.",
+      "hymenium": "A superfície dos poros é esbranquiçada nos exemplares muito jovens, depois amarelo-creme pálido a amarelo baço, mais tarde amarelo-oliváceo e por fim pardo-oliváceo escuro. Pode azular de forma baça ou esverdeada e depois acastanhada, ou não mudar de cor. Na maturidade há 1–2 poros por milímetro, primeiro redondos e depois quase angulosos; os tubos atingem 1 cm de profundidade.",
+      "stipe": "O pé mede tipicamente 3–12 cm de comprimento e 0,5–3,2 cm de espessura; é mais ou menos igual ou ligeiramente alargado para a base, maciço e sem anel. É glabro e geralmente não reticulado, ou no máximo fracamente reticulado perto do ápice. A cor é esbranquiçada a creme-baço pálido, torna-se mais parda com a idade, sobretudo para a base, e pode avermelhar perto do ápice ou da base. O micélio basal é branco.",
+      "flesh": "A carne é branca em fresco e, nos exemplares velhos, amarelece muitas vezes. Ao corte pode permanecer inalterada, azular lenta e irregularmente para um azul-céu ou um azul mais escuro, ou tornar-se rosada; na base do pé pode avermelhar. O cheiro não é distintivo; o sabor é suave, ou ligeiramente amargo ou saponáceo.",
+      "sporePrint": "A esporada é pardo-olivácea, parda com um tom oliváceo, ou olivácea. Os esporos são lisos, fusiformes de tipo boleto, a estreitamente ovóides ou quase fusiformes; os intervalos publicados incluem 10–16 × 4–5 µm e 9–15 × 3–5 µm. Em KOH são amarelados. Os basídios medem 20–30 × 5–10 µm e são tetraspóricos. Os cistídios himeniais medem 28–40 × 6–8 µm, são lageniformes a fusiformes e de parede delgada.",
+      "habitat": "Frutifica no solo sob carvalhos e em povoamentos de folhosas mistas, isolado, disperso, em grupos ou em tufos, de junho a setembro e, de forma mais geral, no verão e no outono.",
+      "uses": "É comestível. Alguns relatos comparam o sabor dos exemplares jovens e firmes com o de Boletus edulis. Os carpóforos mais velhos são muitas vezes secos.",
+      "confusion": "Tylopilus intermedius é um pouco semelhante, mas os seus poros são cinzento-câmelo a rosa-baço e a carne é intensamente amarga. Imleria pallida tem um chapéu muito pálido, um pé esbranquiçado liso e sem rede grosseira, poros que se tornam amarelos e depois oliváceos, carne suave ou apenas ligeiramente amarga, e associação com carvalhos.",
+      "notes": "O azulado e a mudança de cor na superfície dos poros e na carne são variáveis: alguns carpóforos azulam, outros mudam de cor lentamente ou de todo não mudam, e a carne também pode tornar-se rosada ou avermelhar na base do pé. Uma coloração azul-negrenta imediata não é típica desta espécie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un burete micorizant al pădurilor de stejar și de foioase amestecate la est de Munții Stâncoși, în America de Nord, de la țărmul Atlanticului și Marile Lacuri spre vest, semnalat și din Mexic și America Centrală. Crește izolat, răzleț, în grupuri sau în smocuri strânse pe sol.",
+      "cap": "Pălăria măsoară de obicei 3–15,5 cm în diametru. Este mai întâi convexă și devine larg convexă, aproape plană sau slab deprimată. Suprafața este uscată și, la exemplarele tinere, foarte fin catifelată, mai târziu mai mult sau mai puțin glabră și cu aspect de piele fină; la bătrânețe se poate crăpa, iar pe vreme umedă poate părea slab vâscoasă. Culoarea este albicioasă, crem pal sau bej până la brun-cenușiu pal, iar pălăriile bătrâne pot deveni brun-murdar, uneori cu o nuanță rozalie. Marginea are adesea o bandă sterilă foarte îngustă, proeminentă.",
+      "hymenium": "Suprafața tuburilor este albicioasă la exemplarele foarte tinere, apoi galben-crem pal până la galben tern, mai târziu galben-olivaceu și în cele din urmă brun-olivaceu închis. Poate albastri tern sau verzui, apoi se poate brunifica, sau poate să nu-și schimbe culoarea. La maturitate sunt 1–2 tuburi pe milimetru, mai întâi rotunjite, apoi aproape unghiulare; tuburile au până la 1 cm adâncime.",
+      "stipe": "Piciorul măsoară de obicei 3–12 cm lungime și 0,5–3,2 cm grosime; este mai mult sau mai puțin egal sau slab îngroșat spre bază, plin și fără inel. Este glabru și de obicei fără rețea, sau cel mult slab reticulat lângă vârf. Culoarea este albicioasă până la crem-bej pal, devine mai brună cu vârsta, mai ales spre bază, și poate fi roșiatică lângă vârf sau bază. Miceliul bazal este alb.",
+      "flesh": "Carnea este albă în stare proaspătă și, la exemplarele bătrâne, devine adesea gălbuie. La tăiere poate rămâne neschimbată, poate albastri lent și neregulat spre un albastru-cer sau un albastru mai închis, sau poate deveni rozalie; la baza piciorului poate roși. Mirosul nu este distinctiv; gustul este blând, sau ușor amar sau săpunos.",
+      "sporePrint": "Sporata este brun-olivacee, brună cu o tentă olivacee sau olivacee. Sporii sunt netezi, fusiformi de tip burete, până la îngust ovoizi sau aproape fusiformi; intervalele publicate includ 10–16 × 4–5 µm și 9–15 × 3–5 µm. În KOH sunt gălbui. Bazidiile măsoară 20–30 × 5–10 µm și sunt tetrasporice. Cistidele himeniale măsoară 28–40 × 6–8 µm, sunt lageniforme până la fusiforme și cu perete subțire.",
+      "habitat": "Fructifică pe sol sub stejari și în arborete de foioase amestecate, izolat, răzleț, în grupuri sau în smocuri, din iunie până în septembrie și, mai general, vara și toamna.",
+      "uses": "Este comestibil. Unele surse compară gustul exemplarelor tinere și ferme cu cel al speciei Boletus edulis. Carpoforele mai bătrâne sunt adesea uscate.",
+      "confusion": "Tylopilus intermedius este oarecum asemănător, dar porii săi sunt gri-bej până la roz tern, iar carnea este intens amară. Imleria pallida are o pălărie foarte palidă, un picior albicios neted, fără rețea grosieră, pori care devin galbeni, apoi oliv, carne blândă sau doar ușor amară, și o asociere cu stejarii.",
+      "notes": "Înalbăstrirea și schimbarea de culoare pe suprafața tuburilor și în carne sunt variabile: unele carpofore albăstresc, altele își schimbă culoarea lent sau deloc, iar carnea poate deveni și rozalie sau poate roși la baza piciorului. O colorare albastru-negricioasă imediată nu este tipică acestei specii.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Микоризный боровик дубовых и смешанных широколиственных лесов к востоку от Скалистых гор в Северной Америке, от атлантического побережья и Великих озёр на запад, также известный из Мексики и Центральной Америки. Растёт одиночно, рассеянно, группами или плотными пучками на почве.",
+      "cap": "Шляпка обычно 3–15,5 см в диаметре. Сначала выпуклая, затем широко выпуклая, почти плоская или слабо вдавленная. Поверхность сухая и у молодых плодовых тел очень тонко замшевая, позднее более или менее голая и похожая на тонкую кожу; с возрастом может растрескиваться, а во влажную погоду бывает слабо клейкой. Окраска беловатая, бледно-кремовая или палевая до бледно-серовато-коричневой, а старые шляпки могут быть грязно-коричневыми, иногда с розоватым оттенком. Край часто имеет очень узкую, нависающую стерильную полоску.",
+      "hymenium": "Поверхность трубочек у совсем молодых плодовых тел беловатая, затем бледно-кремово-жёлтая до тускло-жёлтой, позднее оливково-жёлтая и наконец тёмно-оливково-коричневая. Может тускло или зеленовато синеть, затем буреть, или вовсе не менять цвет. В зрелости 1–2 трубочки на миллиметр, сначала округлые, позднее почти угловатые; трубочки глубиной до 1 см.",
+      "stipe": "Ножка обычно 3–12 см длиной и 0,5–3,2 см толщиной, более или менее ровная или слабо утолщённая к основанию, выполненная, без кольца. Голая и обычно без сеточки, или самое большее слабо сетчатая у вершины. Окраска беловатая до бледно-кремово-палевой, с возрастом буреет, особенно к основанию, и у вершины или основания может быть красноватой. Базальный мицелий белый.",
+      "flesh": "Мякоть в свежем состоянии белая, у более старых плодовых тел часто желтеет. На разрезе может оставаться без изменения, медленно и неравномерно синеть небесно-голубым или более тёмно-синим, или розоветь; в основании ножки может краснеть. Запах не характерный; вкус мягкий, либо слегка горьковатый или мыльный.",
+      "sporePrint": "Споровый порошок оливково-коричневый, коричневый с оливковым оттенком или оливковый. Споры гладкие, боровиковидно веретеновидные до узкояйцевидных или почти веретеновидных; указанные размеры включают 10–16 × 4–5 µm и 9–15 × 3–5 µm. В KOH желтоватые. Базидии 20–30 × 5–10 µm, четырёхспоровые. Гимениальные цистиды 28–40 × 6–8 µm, бутылковидные до веретеновидных, тонкостенные.",
+      "habitat": "Плодоносит на почве под дубами и в смешанных широколиственных насаждениях, одиночно, рассеянно, группами или пучками, с июня по сентябрь и в более общем виде летом и осенью.",
+      "uses": "Съедобен. Некоторые источники сравнивают вкус молодых, плотных плодовых тел со вкусом вида Boletus edulis. Более старые плодовые тела часто сушат.",
+      "confusion": "Tylopilus intermedius несколько сходен, но его поры серовато-палевые до тускло-розовых, а мякоть интенсивно горькая. У Imleria pallida очень бледная шляпка, гладкая беловатая ножка без грубой сеточки, поры, желтеющие, а затем становящиеся оливковыми, мякоть мягкая на вкус или лишь слегка горькая, и связь с дубами.",
+      "notes": "Посинение и изменение цвета на поверхности трубочек и в мякоти изменчивы: одни плодовые тела синеют, другие меняют цвет медленно или вовсе не меняют, а мякоть может также розоветь или краснеть в основании ножки. Мгновенное черно-синее окрашивание для этого вида не типично.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Mykorízna hríbovitá huba dubových a zmiešaných listnatých lesov na východ od Skalistých vrchov v Severnej Amerike, od atlantického pobrežia a Veľkých jazier západným smerom; je zaznamenaná aj z Mexika a Strednej Ameriky. Rastie jednotlivo, roztrúsene, v skupinách alebo v tesných zhlukoch na zemi.",
+      "cap": "Klobúk má typicky 3–15,5 cm v priemere. Najprv je vypuklý a stáva sa široko vypuklým, takmer plochým alebo slabo prehĺbeným. Povrch je suchý a v mladosti veľmi jemne semišový, neskôr viac-menej lysý a pripomína jemnú kožu; v starobe môže popraskať a pri vlhku môže byť slabo lepkavý. Farba je belavá, bledokremová alebo plavá až bledosivohnedá a staršie klobúky môžu byť špinavohnedé, niekedy s ružovým nádychom. Okraj má často veľmi úzky, presahujúci sterilný pás.",
+      "hymenium": "Povrch rúrok je v úplnej mladosti belavý, potom bledokrémovožltý až matne žltý, neskôr olivovožltý a nakoniec tmavoolivovohnedý. Môže na poranení matne alebo zelenkasto modrať a potom hnednúť, alebo nemusí meniť farbu vôbec. V dospelosti je 1–2 rúrky na milimeter, najprv okrúhle a neskôr takmer hranaté; rúrky sú hlboké až 1 cm.",
+      "stipe": "Hlúbik je typicky 3–12 cm dlhý a 0,5–3,2 cm hrubý, viac-menej rovný alebo slabo zhrubnutý k báze, plný a bez prsteňa. Je lysý a zvyčajne bez sieťky, alebo nanajvýš slabo sieťovaný pri vrchole. Farba je belavá až bledokrémovoplavá, s vekom hnedne, najmä smerom k báze, a pri vrchole alebo báze môže byť začervenaný. Bazálne podhubie je biele.",
+      "flesh": "Dužina je v čerstvom stave biela a v starších plodniciach často žltne. Po prerezaní môže ostať nezmenená, pomaly a nepravidelne smodrieť do belasomodrej alebo tmavšej modrej, alebo sružovieť; v báze hlúbika môže začervenať. Vôňa nie je výrazná; chuť je mierna, alebo slabo horká či mydlová.",
+      "sporePrint": "Výtrusný prach je olivovohnedý, hnedý s olivovým nádychom alebo olivový. Výtrusy sú hladké, hríbovito vretenovité až úzko vajcovité alebo takmer vretenovité; uvádzané rozmery zahŕňajú 10–16 × 4–5 µm a 9–15 × 3–5 µm. V KOH sú žltkasté. Bazídiá merajú 20–30 × 5–10 µm a sú štvorvýtrusné. Hymeniálne cystídy merajú 28–40 × 6–8 µm, sú fľaškovité až vretenovité a tenkostenné.",
+      "habitat": "Fruktifikuje na zemi pod dubmi a v zmiešaných listnatých porastoch, jednotlivo, roztrúsene, v skupinách alebo v zhlukoch, od júna do septembra a všeobecnejšie v lete a na jeseň.",
+      "uses": "Je jedlá. Niektoré údaje prirovnávajú chuť mladých, pevných plodníc k chuti druhu Boletus edulis. Staršie plodnice sa často sušia.",
+      "confusion": "Tylopilus intermedius je do istej miery podobný, ale jeho roúrky sú sivkastobéžové až matnoružové a dužina je intenzívne horká. Imleria pallida má veľmi bledý klobúk, hladký belavý hlúbik bez hrubej sieťky, roúrky, ktoré žltnú a neskôr olivovejú, dužinu jemnú alebo len slabo horkú a rastie s dubmi.",
+      "notes": "Modranie a zmena farby na povrchu rúrok aj v dužine sú premenlivé: niektoré plodnice modrajú, iné menia farbu pomaly alebo vôbec a dužina môže tiež sružovieť alebo v báze hlúbika začervenať. Okamžité čiernomodré sfarbenie pre tento druh nie je typické.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Mikorizna gobanova vrsta hrastovih in mešanih listnatih gozdov vzhodno od Skalnega gorovja v Severni Ameriki, od atlantske obale in Velikih jezer proti zahodu, navedena tudi iz Mehike in Srednje Amerike. Raste posamič, raztreseno, v skupinah ali v tesnih šopih na tleh.",
+      "cap": "Klobuk meri tipično 3–15,5 cm v premeru. Najprej je izbočen, nato široko izbočen, skoraj raven ali šibko vdrt. Površina je suha in pri mladih plodovih zelo fino semišasta, pozneje bolj ali manj gola in videti kot tanka koža; s starostjo lahko poči, v vlažnem vremenu pa je lahko šibko lepljiva. Barva je belkasta, bledo kremna ali bež do bledo sivorjava, starejši klobuki pa so lahko umazanorjavi, včasih z rožnatim odtenkom. Rob ima pogosto zelo ozek, presegajoč sterilen pas.",
+      "hymenium": "Površina cevk je pri zelo mladih plodovih belkasta, nato bledo kremno rumena do mat rumena, pozneje olivno rumena in nazadnje temno olivnorjava. Lahko mat ali zelenkasto pomodri in nato porjavi, ali pa barve sploh ne spremeni. V zrelosti je 1–2 cevki na milimeter, najprej okrogle, pozneje skoraj oglate; cevke so globoke do 1 cm.",
+      "stipe": "Bet je tipično 3–12 cm dolg in 0,5–3,2 cm debel, bolj ali manj enak ali šibko odebeljen proti dnišču, poln in brez obročka. Gol je in običajno brez mrežice, ali kvečjemu šibko mrežast blizu vrha. Barva je belkasta do bledo kremno bež, s starostjo rjavi, zlasti proti dnišču, in blizu vrha ali dnišča je lahko rdečkast. Bazalni micelij je bel.",
+      "flesh": "Meso je v svežem stanju belo, pri starejših plodovih pa pogosto porumeni. Ob prerezu lahko ostane nespremenjeno, počasi in neenakomerno pomodri v nebeško modro ali temnejše modro, ali pa poroženi; v dnišču beta lahko pordi. Vonj ni značilen; okus je blag ali šibko grenak oziroma milnat.",
+      "sporePrint": "Trosni prah je olivnorjav, rjav z olivnim odtenkom ali olivnat. Trosi so gladki, gobanasto vretenasti do ozko jajčasti ali skoraj vretenasti; navedene mere vključujejo 10–16 × 4–5 µm in 9–15 × 3–5 µm. V KOH so rumenkasti. Bazidiji merijo 20–30 × 5–10 µm in imajo po štiri trose. Himenijske cistide merijo 28–40 × 6–8 µm, so stekleničaste do vretenaste in tankostenaste.",
+      "habitat": "Plodovi rastejo na tleh pod hrasti in v mešanih listnatih sestojih, posamič, raztreseno, v skupinah ali v šopih, od junija do septembra in splošneje poleti in jeseni.",
+      "uses": "Je užitna. Nekateri viri primerjajo okus mladih, čvrstih plodov z okusom vrste Boletus edulis. Starejše plodove pogosto sušijo.",
+      "confusion": "Tylopilus intermedius je nekoliko podoben, vendar so njegove cevke sivkasto bež do matasto rožnate, meso pa je močno grenko. Imleria pallida ima zelo bled klobuk, gladek belkast bet brez grobe mrežice, cevke, ki porumenijo in nato postanejo olivne, meso blago ali le rahlo grenko, in raste z hrasti.",
+      "notes": "Modrenje in sprememba barve na površini cevk in v mesu sta spremenljiva: nekateri plodovi modrijo, drugi spremenijo barvo počasi ali sploh ne, meso pa lahko tudi poroženi ali pordi v dnišču beta. Takojšnje črnomodro obarvanje za to vrsto ni značilno.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Микоризна врста вргања храстових и мешовитих лиснатих шума источно од Стеновитих планина у Северној Америци, од атлантске обале и Великих језера према западу, забележена и из Мексика и Средње Америке. Расте појединачно, расуто, у групама или у густим кичицама на тлу.",
+      "cap": "Клобук типично има 3–15,5 cm у пречнику. Најпре је испупчен, затим широко испупчен, готово раван или слабо удубљен. Површина је сува и код младих примерака врло фино антилопаста, касније мање-више гола и изгледа као танка кожа; са старошћу може попуцати, а по влажном времену бити слабо лепљива. Боја је беличаста, бледо крем или беж до бледо сивосмеђе, а старији клобуци могу бити прљавосмеђи, понекад с ружичастим одсјајем. Ивица често има врло узак, прелазећи стерилан појас.",
+      "hymenium": "Површина цевчица је код врло младих примерака беличаста, затим бледо кремастожута до мат жуте, касније маслинастожута и напослетку тамномаслинастосмеђа. Може мат или зеленикасто плавети, затим смеђети, или уопште не мењати боју. У зрелости има 1–2 цевчице по милиметру, најпре округле, касније готово угласте; цевчице су дубоке до 1 cm.",
+      "stipe": "Стручак је типично 3–12 cm дуг и 0,5–3,2 cm дебео, мање-више једнак или слабо задебљан према дну, пун и без прстена. Го је и обично без мрежице, или највише слабо мрежаст близу врха. Боја је беличаста до бледо крем-беж, са старошћу смеђи, нарочито према дну, и близу врха или дна може бити црвенкаст. Базални мицелијум је бео.",
+      "flesh": "Месо је у свежем стању бело, а код старијих плодишта често пожути. На пресеку може остати непромењено, полако и неправилно плавети у небескоплаво или тамније плаво, или поруменети; у дну стручка може поцрвенети. Мирис није особен; укус је благ, или слабо горак или сапунаст.",
+      "sporePrint": "Отисак спора је маслинастосмеђ, смеђ с маслинастом нијансом или маслинаст. Споре су глатке, вргањски вретенасте до уско јајасте или готово вретенасте; наведене мере укључују 10–16 × 4–5 µm и 9–15 × 3–5 µm. У KOH су жућкасте. Базидији мере 20–30 × 5–10 µm и четвороспорни су. Хименијалне цистиде мере 28–40 × 6–8 µm, боцасте су до вретенасте и танкозидне.",
+      "habitat": "Плодоноси на тлу под храстовима и у мешовитим лиснатим састојинама, појединачно, расуто, у групама или у кичицама, од јуна до септембра и општије лети и у јесен.",
+      "uses": "Јестива је. Неки извори упоређују укус младих, чврстих плодишта с укусом врсте Boletus edulis. Старија се плодишта често суше.",
+      "confusion": "Tylopilus intermedius је донекле сличан, али су његове цевчице сивкастобеж до мутноружичасте, а месо је интензивно горко. Imleria pallida има веома блед шешир, гладак беличаст стручак без грубе мрежице, цевчице које пожуте па постану маслинасте, месо благо или само слабо горко, и расте са храстовима.",
+      "notes": "Плавење и промена боје на површини цевчица и у месу су променљиви: нека плодишта плаве, друга мењају боју полако или нимало, а месо може и поруменети или поцрвенети у дну стручка. Тренутно црноплаво бојење није типично за ову врсту.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En mykorrhizabildande sopp i ek- och blandade lövskogar öster om Klippiga bergen i Nordamerika, från Atlantkusten och Stora sjöarna västerut, också uppgiven från Mexiko och Centralamerika. Den växer ensam, spridd, i grupper eller i täta klasar på marken.",
+      "cap": "Hatten mäter typiskt 3–15,5 cm i diameter. Den är först välvd och blir brett välvd, nästan plan eller svagt nedsänkt. Ytan är torr och hos unga exemplar mycket fint mockaliknande, senare mer eller mindre kal och fint läderartad; med åldern kan den spricka och i fuktigt väder verka svagt klibbig. Färgen är vitaktig, blekt gräddfärgad eller beige till blekt gråbrun, och äldre hattar kan bli smutsbruna, ibland med en skär anstrykning. Kanten har ofta ett mycket smalt, utskjutande sterilt band.",
+      "hymenium": "Rörmynningen är hos mycket unga exemplar vitaktig, därefter blekt gräddgul till mattgul, senare olivgul och till sist mörkt olivbrun. Den kan matt eller grönaktigt blåna och därefter brunna, eller inte ändra färg alls. I moget tillstånd finns 1–2 rör per millimeter, först runda och senare nästan kantiga; rören är upp till 1 cm djupa.",
+      "stipe": "Foten är typiskt 3–12 cm lång och 0,5–3,2 cm tjock, mer eller mindre jämntjock eller svagt förtjockad mot basen, solid och utan ring. Den är kal och vanligen utan nät, eller högst svagt nätådrig nära toppen. Färgen är vitaktig till blekt gräddbeige, blir med åldern brunare, särskilt mot basen, och kan vara rödaktig nära toppen eller basen. Det basala myceliet är vitt.",
+      "flesh": "Köttet är färskt vitt och blir hos äldre fruktkroppar ofta gulfärgat. Vid genomskärning kan det förbli oförändrat, långsamt och oregelbundet blåna till himmelsblått eller mörkare blått, eller bli skärt; i fotbasen kan det rodna. Lukten är inte utmärkande; smaken är mild, eller svagt bitter eller tvålig.",
+      "sporePrint": "Sporpulveret är olivbrunt, brunt med en olivton eller olivfärgat. Sporerna är släta, soppliktigt spolformade till smalt äggformade eller nästan spolformade; angivna mått omfattar 10–16 × 4–5 µm och 9–15 × 3–5 µm. I KOH är de gulaktiga. Basidierna mäter 20–30 × 5–10 µm och är fyrsporiga. De hymeniala cystidierna mäter 28–40 × 6–8 µm, är flask- till spolformade och tunnväggiga.",
+      "habitat": "Den fruktifierar på marken under ek och i blandade lövbestånd, ensam, spridd, i grupper eller i klasar, från juni till september och mer allmänt på sommaren och hösten.",
+      "uses": "Den är ätlig. Vissa källor jämför smaken hos unga, fasta fruktkroppar med den hos Boletus edulis. Äldre fruktkroppar torkas ofta.",
+      "confusion": "Tylopilus intermedius är något lik, men porerna är gråbeige till mattrosa och köttet är intensivt bittert. Imleria pallida har en mycket blek hatt, en slät vitaktig fot utan grovt nät, porer som blir gula och sedan olivfärgade, milt eller endast svagt bittert kött, och växer med ekar.",
+      "notes": "Blåningen och färgförändringen på rörmynningen och i köttet är variabla: vissa fruktkroppar blånar, andra ändrar färg långsamt eller inte alls, och köttet kan också bli skärt eller rodna i fotbasen. En omedelbar svartblå färgning är inte typisk för denna art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Kuzey Amerika’da Kayalık Dağlar’ın doğusunda, Atlas kıyısı ve Büyük Göller’den batıya doğru meşe ve karışık yapraklı ormanların mikorizal bir mantarıdır; Meksika ve Orta Amerika’dan da kaydedilmiştir. Toprakta tek tek, dağınık, gruplar halinde veya sık kümeler halinde büyür.",
+      "cap": "Şapka tipik olarak 3–15,5 cm çapındadır. Önce tümsek, sonra geniş tümsek, neredeyse düz veya hafif çökük olur. Yüzey kurudur ve genç örneklerde çok ince süet görünümündedir, daha sonra az çok çıplak ve ince derimsidir; yaşla çatlayabilir ve nemli havada hafif yapışkan görünebilir. Renk beyazımsı, soluk krem veya bejden soluk gri-kahverengiye kadardır ve yaşlı şapkalar kirli kahverengi olabilir, bazen pembemsi bir tonla. Kenarda çoğu zaman çok dar, taşan steril bir şerit bulunur.",
+      "hymenium": "Tüp yüzeyi çok genç örneklerde beyazımsı, sonra soluk krem-sarıdan mat sarıya, daha sonra zeytin sarısı ve sonunda koyu zeytin kahverengidir. Mat veya yeşilimsi maviye, sonra kahverengiye dönebilir ya da hiç renk değiştirmeyebilir. Olgunlukta milimetre başına 1–2 tüp vardır, önce yuvarlak, sonra neredeyse köşeli; tüpler 1 cm’ye kadar derindir.",
+      "stipe": "Sap tipik olarak 3–12 cm uzunluğunda ve 0,5–3,2 cm kalınlığındadır; az çok eşit veya tabana doğru hafif kalınlaşmış, dolu ve halkasızdır. Çıplaktır ve genellikle ağsızdır, ya da en fazla tepenin yakınında zayıf ağlıdır. Renk beyazımsıdan soluk krem-beje kadardır, yaşla, özellikle tabana doğru, kahverengileşir ve tepe veya taban yakınında kırmızımsı olabilir. Taban miselyumu beyazdır.",
+      "flesh": "Et taze iken beyazdır ve yaşlı meyve gövdelerinde çoğu zaman sararır. Kesildiğinde değişmeden kalabilir, yavaş ve düzensiz biçimde gök mavisi veya daha koyu maviye dönebilir ya da pembemsi olabilir; sap tabanında kızarabilir. Koku belirgin değildir; tat hafiftir, ya da hafif acı veya sabunumsu olabilir.",
+      "sporePrint": "Spor tozu zeytin kahverengi, zeytin tonlu kahverengi veya zeytin renklidir. Sporlar pürüzsüzdür, boru mantarı gibi iğsi ila dar yumurtamsı veya neredeyse iğsidir; yayımlanan ölçüler 10–16 × 4–5 µm ve 9–15 × 3–5 µm’yi kapsar. KOH içinde sarımsıdır. Bazitler 20–30 × 5–10 µm’dir ve dört sporludur. Himenyal sistitler 28–40 × 6–8 µm’dir, şişe ila iğsi biçimli ve ince çeperlidir.",
+      "habitat": "Toprakta meşe altında ve karışık yapraklı meşcerelerde, tek tek, dağınık, gruplar veya kümeler halinde, hazirandan eylüle ve daha genel olarak yaz ve sonbaharda meyve verir.",
+      "uses": "Yenilebilir. Bazı kaynaklar genç, sıkı meyve gövdelerinin tadını Boletus edulis tadına benzetir. Daha yaşlı meyve gövdeleri çoğu zaman kurutulur.",
+      "confusion": "Tylopilus intermedius bir ölçüde benzer, ancak gözenekleri gri-bejden mat pembeye değişir ve eti yoğun biçimde acıdır. Imleria pallida çok soluk bir şapkaya, kaba ağsı deseni olmayan pürüzsüz beyazımsı bir sapa, sarılaşıp sonra zeytin rengine dönen gözeneklere, yumuşak veya yalnızca hafif acı bir ete sahiptir ve meşelerle birliktedir.",
+      "notes": "Tüp yüzeyinde ve ette maviye dönüş ve renk değişimi değişkendir: bazı meyve gövdeleri maviye döner, bazıları rengi yavaş değiştirir veya hiç değiştirmez ve et de pembemsi olabilir ya da sap tabanında kızarabilir. Ani siyahımsı mavi lekelenme bu tür için tipik değildir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Мікоризний боровик дубових і мішаних широколистяних лісів на схід від Скелястих гір у Північній Америці, від атлантичного узбережжя та Великих озер на захід, також відомий з Мексики та Центральної Америки. Росте поодинці, розсіяно, групами або щільними пучками на ґрунті.",
+      "cap": "Шапинка зазвичай 3–15,5 см у діаметрі. Спочатку випукла, потім широко випукла, майже плоска або слабо вдавлена. Поверхня суха і в молодих плодових тіл дуже тонко замшева, пізніше більш-менш гола і схожа на тонку шкіру; з віком може розтріскуватися, а у вологу погоду буває слабо клейкою. Забарвлення білувате, блідо-кремове або палеве до блідо-сірувато-коричневого, а старі шапинки можуть бути брудно-коричневими, іноді з рожевуватим відтінком. Край часто має дуже вузьку, нависаючу стерильну смужку.",
+      "hymenium": "Поверхня трубочок у зовсім молодих плодових тіл білувата, потім блідо-кремово-жовта до тьмяно-жовтої, пізніше оливково-жовта і нарешті темно-оливково-коричнева. Може тьмяно або зеленувато синіти, потім буріти, або зовсім не змінювати колір. У зрілості 1–2 трубочки на міліметр, спочатку округлі, пізніше майже кутасті; трубочки завглибшки до 1 см.",
+      "stipe": "Ніжка зазвичай 3–12 см завдовжки і 0,5–3,2 см завтовшки, більш-менш рівна або слабо потовщена до основи, виповнена, без кільця. Гола і зазвичай без сіточки, або щонайбільше слабо сітчаста біля верхівки. Забарвлення білувате до блідо-кремово-палевого, з віком буріє, особливо до основи, і біля верхівки або основи може бути червонуватим. Базальний міцелій білий.",
+      "flesh": "М’якуш у свіжому стані білий, у старіших плодових тіл часто жовтіє. На розрізі може залишатися без зміни, повільно й нерівномірно синіти небесно-блакитним або темнішим синім, або рожевіти; в основі ніжки може червоніти. Запах не характерний; смак м’який, або злегка гіркуватий чи мильний.",
+      "sporePrint": "Споровий порошок оливково-коричневий, коричневий з оливковим відтінком або оливковий. Спори гладкі, боровикоподібно веретеноподібні до вузькояйцеподібних або майже веретеноподібні; зазначені розміри охоплюють 10–16 × 4–5 µm і 9–15 × 3–5 µm. У KOH жовтуваті. Базидії 20–30 × 5–10 µm, чотириспорові. Гіменіальні цистиди 28–40 × 6–8 µm, пляшкоподібні до веретеноподібних, тонкостінні.",
+      "habitat": "Плодоносить на ґрунті під дубами та в мішаних широколистяних насадженнях, поодинці, розсіяно, групами або пучками, з червня по вересень і загальніше влітку та восени.",
+      "uses": "Їстівний. Деякі джерела порівнюють смак молодих, щільних плодових тіл зі смаком виду Boletus edulis. Старіші плодові тіла часто сушать.",
+      "confusion": "Tylopilus intermedius дещо схожий, але його пори сірувато-палеві до тьмяно-рожевих, а м’якуш інтенсивно гіркий. Imleria pallida має дуже бліду шапинку, гладку білувату ніжку без грубої сіточки, пори, що жовтіють, а потім стають оливковими, м’якуш м’який на смак або лише злегка гіркий, і росте з дубами.",
+      "notes": "Синіння і зміна кольору на поверхні трубочок і в м’якуші мінливі: одні плодові тіла синіють, інші змінюють колір повільно або зовсім не змінюють, а м’якуш може також рожевіти або червоніти в основі ніжки. Миттєве чорно-синє забарвлення для цього виду не типове.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "北美洲落基山脉以东栎林和混交阔叶林中的外生菌根牛肝菌，自大西洋沿岸和大湖区向西分布，墨西哥和中美洲亦有记录。单生、散生、群生或紧密丛生于地上。",
+      "cap": "菌盖直径通常为3–15.5厘米。先凸出，后宽凸、近扁平或稍凹陷。表面干燥，幼时极细密如麂皮，后近光滑，呈细皮革状；老熟时可开裂，潮湿时略显黏。颜色近白色、浅奶油色或米色至浅灰褐色，老菌盖可呈污褐色，有时带粉红色调。边缘常有极窄的伸出不育带。",
+      "hymenium": "管孔面在极幼时近白色，后为浅奶油黄至暗黄，再变为橄榄黄，最终为深橄榄褐。受伤后可暗蓝或带绿变蓝，随后转褐，也可完全不变色。成熟时每毫米有1–2个管孔，先圆形，后近多角形；菌管深达1厘米。",
+      "stipe": "菌柄通常长3–12厘米、粗0.5–3.2厘米，近等粗或向基部略增粗，实心，无菌环。光滑，通常无网纹，至多在顶端附近有微弱网纹。颜色近白至浅奶油米色，随年龄、尤其向基部渐褐，顶端或基部附近可带红色。基部菌丝白色。",
+      "flesh": "新鲜时菌肉白色，较老的子实体常变黄。切开后可变色不变，或缓慢而不均匀地变为天蓝或更深的蓝色，也可变粉；菌柄基部可变红。气味不显著；味道温和，或微苦、带皂味。",
+      "sporePrint": "孢子印为橄榄褐色、带橄榄色调的褐色或橄榄色。孢子光滑，呈牛肝菌式纺锤形至狭卵形或近纺锤形；已发表的大小包括10–16 × 4–5 µm和9–15 × 3–5 µm。在氢氧化钾中呈淡黄色。担子20–30 × 5–10 µm，四孢。子实层囊状体28–40 × 6–8 µm，瓶形至纺锤形，壁薄。",
+      "habitat": "于栎树下及混交阔叶林地上单生、散生、群生或丛生，果期6月至9月，更一般地在夏季和秋季。",
+      "uses": "可食用。有些记载将幼嫩结实子实体的味道比作 Boletus edulis。较老的子实体常被干燥。",
+      "confusion": "Tylopilus intermedius 有些相似，但其管孔呈灰黃褐色至暗粉紅色，且菌肉極苦。Imleria pallida 菌蓋極淡，菌柄平滑近白色且無粗網紋，管孔先變黃後轉橄欖色，菌肉味道溫和或僅微苦，並與櫟樹共生。",
+      "notes": "管孔面和菌肉的变蓝与变色不稳定：有的子实体变蓝，有的变色缓慢或完全不变，菌肉也可变粉或在菌柄基部变红。即时的黑蓝色变色对本种并不典型。",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/12221927/vernacularNames",
+        "https://www.wikidata.org/wiki/Q107799045"
+      ],
+      "label": "淡白牛肝菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus pallidus",
+      "author": "Frost",
+      "year": 1873,
+      "rank": "species"
+    },
+    {
+      "name": "Suillus pallidus",
+      "author": "(Frost) Kuntze",
+      "year": 1898,
+      "rank": "species"
+    },
+    {
+      "name": "Ceriomyces pallidus",
+      "author": "(Frost) Murrill",
+      "year": 1909,
+      "rank": "species"
+    }
+  ],
+  "reserved": false,
+  "id": 195,
+  "citation": "in Farid, Franck, Bolin & Garey, Mycologia 112(2): 431 (2020)"
+},
+{
+  "name": "Calvatia cyathiformis",
+  "author": "(Bosc) Morgan",
+  "family": "Lycoperdaceae",
+  "genus": "Calvatia",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Lycoperdaceae",
+    "Calvatia"
+  ],
+  "summary": [
+    "Agaricales",
+    "Lycoperdaceae",
+    "Calvatia"
+  ],
+  "edibility": "edible",
+  "hymenium": "gleba",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "white",
+    "brown",
+    "purple"
+  ],
+  "capFrom": 8,
+  "capTo": 20,
+  "fruitingFrom": 6,
+  "fruitingTo": 10,
+  "label": {
+    "de": "Violetter Stäubling",
+    "en": "purple-spored puffball",
+    "es": "bola de llano",
+    "ja": "スミレホコリタケ",
+    "pl": "czasznica miskowata",
+    "ru": "головач бокаловидный",
+    "sk": "rozpadavec krehký",
+    "uk": "пурпуроспоровий дощовик",
+    "zh": "杯形秃马勃"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [
+      "hongo de bola",
+      "chipo de venado"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356862",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=356862",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356862",
+      "https://www.gbif.org/species/2536054",
+      "https://www.wikidata.org/wiki/Q5024215",
+      "https://species.wikimedia.org/wiki/Calvatia_cyathiformis",
+      "https://en.wikipedia.org/wiki/Calvatia_cyathiformis",
+      "https://www.mushroomexpert.com/calvatia_cyathiformis.html",
+      "https://www.mushroomexpert.com/indianamushrooms/calvatia_cyathiformis.html",
+      "https://www.centraltexasmycology.org/blog/july-mushroom-of-the-month-purple-spored-puffball",
+      "https://www.inaturalist.org/taxa/153296-Calvatia-cyathiformis"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "https://de.wikipedia.org/wiki/Hexenring"
+    ],
+    "es": [
+      "https://es.wikipedia.org/wiki/Calvatia_cyathiformis"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://ja.wikipedia.org/wiki/%E8%8F%8C%E8%BC%AA"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Czasznica_miskowata"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%87_(%D1%80%D0%BE%D0%B4_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2)"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Calvatia-cyathiformis/rozpadavec-krehky/plesivka-fialova/ID12093"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Calvatia_cyathiformis"
+    ],
+    "zh": [
+      "https://zh.wikipedia.org/wiki/%E7%A7%83%E9%A9%AC%E5%8B%83%E5%B1%9E"
+    ]
+  },
+  "added": "2026-11-22",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/Calvatia_cyathiformis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/Calvatia_cyathiformis@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Calvatia cyathiformis.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 dfa6bb07a75134455a624705b4ad6f961bb22a9c335b9d699a0b86ef1151deb2) is an illustration with an existing cursive “Gemini” mark to the right of the spent cup-shaped sterile base, kept as found (ink only; no paper rectangle); no registration marks; no caption, scale or plate number. It is AI art, not a documented historical botanical plate. The composition shows a young white ball, a mosaic loaf-shaped fruit body, white then purple sections with a chambered sterile base, and the diagnostic spent cup, on grass and soil. Anatomy looks consistent with the species. The official plate is slightly soft because the 896×1200 source was enlarged 1.5625×. Small gaps between grass blades remain transparent and are nearly invisible on the cream official background. Do not describe the rights as unverified.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/Calvatia_cyathiformis@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy1.webp",
+      "author": "Shirley Zundell",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/60386127"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy2.webp",
+      "author": "Sebastián Fornés",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/256221396"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy3.webp",
+      "author": "Subir B. Shakya",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/35256780"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy4.webp",
+      "author": "Becky Dill",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/63060646"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy5.webp",
+      "author": "Luke",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/169498906"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/Calvatia_cyathiformis@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/Calvatia_cyathiformis@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy1.webp",
+      "author": "Shirley Zundell",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/60386127"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy2.webp",
+      "author": "Sebastián Fornés",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/256221396"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy3.webp",
+      "author": "Subir B. Shakya",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/35256780"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy4.webp",
+      "author": "Becky Dill",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/63060646"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Lycoperdaceae/Calvatia_cyathiformis/cy5.webp",
+      "author": "Luke",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/169498906"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر نفاخ رمّي ينمو في المواضع العشبية، بما فيها المروج والحدائق والمراعي والبراري. وهو شائع في أجزاء واسعة من أمريكا الشمالية، لكنه أقل على الساحل الغربي، ويوجد أيضًا في أمريكا الجنوبية وأستراليا وفي قارات أخرى. وفي أوروبا لا يُعرف إلا في بعض البلدان، وهو نادر في بولندا.",
+      "cap": "الجسم الثمري ليس له قبعة واضحة. عند النضج يبلغ عرضه عادة 8–20 سم وارتفاعه 8–17 سم؛ وتذكر بعض الروايات 5–20 سم للارتفاع أو العرض، وتشمل الأرقام الأوروبية المنشورة عرضًا قدره 6–12 سم وارتفاعًا يصل إلى 10 سم. وهو في الصغر كروي، ثم يكوّن جزءًا قاعديًا سميكًا أضيق قليلًا من الجزء العلوي، فيشبه الجسم الناضج عادة كمثرى مقلوبة أو رغيفًا. السطح الخارجي بني فاتح إلى أسمر فاتح، وكثيرًا ما يتفتت إلى حراشف صغيرة فسيفسائية، ثم يصبح شديد الشحوب أو رماديًا أو شبه أبيض، مع فسيفساء باهتة وبقع بنية. الجلد جاف وسمكه نحو 1–2 مم.",
+      "hymenium": "تملأ الغليبا الجزء العلوي من الجسم الثمري وتكون في الصغر بيضاء وصلبة. ثم تصبح في الملمس ذات حجرتين، فينفصل الجزء العلوي الخصيب عن القاعدة العقيمة، وقد وُصفت أيضًا حجاب رقيق بينهما. تصفر الغليبا ثم تصبح في النهاية غبارًا بنيًا بنفسجيًا عميقًا إلى بنفسجي بني. لا توجد صفائح. ولا ينفتح الجلد بثقب واحد دائم؛ بل يتشقق الجزء العلوي ويسقط، ويحرر الغبار بالريح والمطر. خيوط الكابيليتيوم عرضها نحو 2–5 ميكرومتر، وجدرانها نحو 0,5 ميكرومتر، وهي شفافة في هيدروكسيد البوتاسيوم، ملساء أو منقطة بدقة شديدة، ومتضيقة قليلًا عند الحواجز؛ وتذكر روايات أخرى خيوطًا عرضها 3–7,5 ميكرومتر أو نحو 2,5 ميكرومتر.",
+      "stipe": "لا يوجد ساق حقيقي. ومع نضج الجسم الثمري تتكون قاعدة عقيمة سميكة، أضيق قليلًا من الجزء العلوي الخصيب، وقد يثبت حبل ميسيليومي متين القاعدة في التربة. وتصف إحدى الروايات قاعدة عريضة يخرج منها حبل ميسيليومي سميك. وبعد تفرق كتلة الأبواغ قد تبقى القاعدة العقيمة أسابيع ككأس لينة جلدية الحافة العليا منها ممزقة.",
+      "flesh": "في الصغر يكون الداخل أبيض وصلبًا ومتجانسًا، بلا بدايات صفائح. الرائحة والطعم غير مميزين. ولا يحدث هيدروكسيد البوتاسيوم تغيرًا لونيًا على السطح الخارجي. ومع نضج الأبواغ تصفر الغليبا ثم تصبح بنفسجية، وتصفر القاعدة العقيمة ثم تميل إلى الزيتوني. فإذا لم يعد الداخل أبيض تُترك الأجسام الثمرية.",
+      "sporePrint": "ما دام الجسم الثمري مغلقًا لا يُحصل على طبعة أبواغ اعتيادية. غبار الأبواغ الناضج بنفسجي، أو بنفسجي إلى بني بنفسجي. الأبواغ كروية، قطرها 3–6 ميكرومتر بما في ذلك الزخرفة، مغطاة بأشواك طولها 0,5–1 ميكرومتر، شفافة في هيدروكسيد البوتاسيوم وبنية في كاشف ميلزر؛ وتذكر بعض الروايات 3,5–7,5 ميكرومتر.",
+      "habitat": "يثمر على الأرض في العشب: في المروج والحدائق وملاعب الغولف والمراعي والبراري وغيرها من المواضع العشبية المفتوحة أو الجافة الدافئة، وأحيانًا في الغابات المفتوحة أو على جوانب الطرق، منفردًا أو متفرقًا أو في مجموعات أو في حلقات ساحرة. يظهر في أجزاء واسعة من أمريكا الشمالية في الصيف والخريف؛ وفي شرق تكساس ووسطها من يونيو إلى أكتوبر؛ وتبرز الروايات الأبعد شمالًا أواخر الصيف وأوائل الخريف، أو أغسطس إلى أكتوبر. وكثيرًا ما تعقب الأجسام الثمرية الأمطار الغزيرة. وقد تبقى القواعد العقيمة بعد الموسم.",
+      "uses": "لا تؤكل إلا الأجسام الثمرية التي لا يزال داخلها أبيض نقيًا وصلبًا. وتصف بعض الروايات العينات الفتية بأنها ممتازة أو مختارة. وتُحضَّر كما تُحضَّر النفاخات الكبيرة الأخرى. فإذا اصفر اللحم أو مال إلى البني تُترك الأجسام الثمرية.",
+      "confusion": "Calvatia gigantea تكون عادة أكثر ملاسة وأشحب لونًا، وكثيرًا ما تكون أكبر، ولا تملك قاعدة عقيمة متطورة جيدًا؛ وكتلة أبواغها الناضجة بنية زيتونية إلى بنية، لا بنفسجية. أما Calvatia craniiformis فلها عادة قاعدة عقيمة تضيق فجأة، وكتلة أبواغ صفراء بنية لا بنفسجية عند النضج، وتفتقر عادة إلى الحراشف الفسيفسائية. وتشبه Calvatia fragilis هذا النوع جدًا لكنها أصغر، وقاعدتها العقيمة أقل تطورًا عند النضج؛ ويعاملها بعض المؤلفين نوعًا مستقلًا، ولا سيما في غرب أمريكا الشمالية. وأنواع Scleroderma، مثل Scleroderma citrinum، أصغر وأكثر صلابة، ويصبح داخلها منذ الصغر بنفسجيًا أسود داكنًا، غالبًا بتخطيط رخامي أبيض. وأما Amanita الفتية فتظهر في مقطع عمودي صفائح وساقًا، لا داخلًا أبيض متجانسًا.",
+      "notes": "في بولندا قُيِّم بأنه مهدد، وحتى عام 2003 لم يُنشر سوى سجلين. وفي سلوفاكيا يُدرج فطرًا محميًا. ويبقي بعض المؤلفين Calvatia fragilis منفصلًا عن هذا النوع.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Сапротрофна пърхутка на тревисти места, включително морава, паркове, пасища и прерия. Честа е в голяма част от Северна Америка, но по-рядка по западния бряг, и се среща също в Южна Америка, Австралия и на други континенти. В Европа е известна само в някои страни и е рядка в Полша.",
+      "cap": "Плодното тяло няма ясно изразена гугла. В зрялост обикновено е широко 8–20 cm и високо 8–17 cm; някои данни дават 5–20 cm за височината или ширината, а публикуваните европейски стойности включват 6–12 cm ширина и до 10 cm височина. Младо е кълбовидно, след това развива дебела основна част, малко по-тясна от горната, така че зрялото плодно тяло обикновено наподобява обърната круша или хляб. Външната повърхност е жълтеникавокафява до светлокафява, често се напуква на дребни мозаечни люспи и по-късно става много светлокафява, сивкава или почти бяла, със слаб мозаечен рисунък и кафеникави точки. Кожицата е суха и дебела около 1–2 mm.",
+      "hymenium": "Глеба изпълва горната част на плодното тяло и в младо състояние е бяла и твърда. По-късно става текстурно двукамерна, плодородната горна част се отделя от стерилната основа, а е описана и тънка диафрагма между тях. Глеба става жълтеникава и накрая дълбоко кафявовиолетов до виолетовокафяв прах. Ламели няма. Кожицата не се отваря чрез една трайна пора; горната част се напуква и опада, а прахът се освобождава от вятъра и дъжда. Нишките на капилициума са широки около 2–5 µm, със стени дебели около 0,5 µm, хиалинни в калиев хидроксид, гладки или много фино точковидни и леко стеснени при преградите; други данни дават нишки 3–7,5 µm или около 2,5 µm ширина.",
+      "stipe": "Истинско пънче няма. При узряване на плодното тяло се развива дебела стерилна основа, малко по-тясна от плодородната горна част, а дебела мицелна връв може да закрепи основата към почвата. Едно описание посочва широка основа, от която излиза дебела мицелна връв. След разпръскването на споровата маса стерилната основа може да остане седмици като мека, кожеста чашка с назъбен горен ръб.",
+      "flesh": "В младо състояние вътрешността е бяла, твърда и еднородна, без зачатъци на ламели. Мирисът и вкусът не са характерни. Калиевият хидроксид не предизвиква промяна на цвета на външната повърхност. При узряване на спорите глеба става жълта, след това виолетова, а стерилната основа жълтеникава, по-късно маслинена. Когато вътрешността вече не е бяла, плодното тяло се оставя.",
+      "sporePrint": "Докато плодното тяло е затворено, обикновен споров отпечатък не се получава. Зрелият споров прах е виолетов или виолетов до виолетовокафяв. Спорите са кълбовидни, с диаметър 3–6 µm включително орнаментацията, покрити с шипчета дълги 0,5–1 µm, хиалинни в калиев хидроксид и кафеникави в реактива на Мелцер; някои данни дават 3,5–7,5 µm.",
+      "habitat": "Плододава на почвата в трева: на морава, в паркове, на голф игрища, пасища, прерия и други открити тревисти или ксеротермни местообитания, понякога в открита гора или край пътища, поединично, разпръснато, на групи или в вещичи кръгове. В голяма част от Северна Америка се появява през лятото и есента; в източен и централен Тексас от юни до октомври; по-северните данни подчертават късното лято и ранната есен или август до октомври. Плодните тела често следват обилен дъжд. Стерилните основи могат да останат и след сезона.",
+      "uses": "Ядат се само плодни тела, чиято вътрешност е още чисто бяла и твърда. Някои източници наричат младите екземпляри отлични или отбрани. Приготвят се както другите едри пърхутки. Когато месото пожълтее или стане кафеникаво, плодното тяло се оставя.",
+      "confusion": "Calvatia gigantea обикновено е по-гладка и по-бледа, често по-едра, и няма добре развита стерилна основа; зрялата ѝ спорова маса е маслиненокафява до кафява, не виолетова. Calvatia craniiformis обикновено има рязко стеснена стерилна основа и в зрялост жълтокафява, не виолетова, спорова маса и типично няма мозаечни люспи. Calvatia fragilis е много сходна, но по-дребна, с по-слабо развита стерилна основа в зрялост; някои автори я третират като отделен вид, особено в западната част на Северна Америка. Видовете от род Scleroderma, например Scleroderma citrinum, са по-дребни и по-твърди, а вътрешността още млада става тъмно виолетовочерна, често с бяло мрамориране. Млада Amanita във вертикален разрез показва ламели и пънче, а не еднородна бяла вътрешност.",
+      "notes": "В Полша е оценена като застрашена, до 2003 г. с само две публикувани находки. В Словакия е посочена като защитена гъба. Някои автори държат Calvatia fragilis отделно от този вид.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Saprotrofní pýchavka travnatých míst, včetně trávníků, parků, pastvin a preríí. Je hojná na velké části Severní Ameriky, na západním pobřeží však méně, a vyskytuje se také v Jižní Americe, Austrálii a na jiných kontinentech. V Evropě je známa jen v některých zemích a v Polsku je vzácná.",
+      "cap": "Plodnice nemá zřetelný klobouk. V zralosti má běžně 8–20 cm v průměru a 8–17 cm na výšku; některé údaje uvádějí 5–20 cm pro výšku nebo šířku a zveřejněné evropské údaje zahrnují 6–12 cm v průměru a až 10 cm na výšku. V mládí je kulovitá a později si vytváří tlustou bazální část, která je o něco užší než horní část, takže zralá plodnice obvykle připomíná převrácenou hrušku nebo bochník chleba. Vnější povrch je bledě hnědý až světle hnědý, často se láme na drobné mozaikovité šupiny a později je velmi bledě hnědý, šedavý nebo téměř bílý, s nezřetelnou mozaikou políček a hnědavými tečkami. Pokožka je suchá a silná asi 1–2 mm.",
+      "hymenium": "Gleba vyplňuje horní část plodnice a v mládí je bílá a pevná. Později se texturou rozdělí na dvě komory, přičemž plodná horní část je odlišená od sterilní báze, a byla popsána i tenká diafragma mezi nimi. Gleba zežloutne a nakonec se změní na sytě hnědofialový až fialovohnědý prášek. Lupeny chybějí. Pokožka se neotevírá jediným trvalým otvorem; horní část praská a odpadává a prášek uvolňuje vítr a déšť. Vlákna vlášení jsou široká asi 2–5 µm, se stěnami silnými asi 0,5 µm, v hydroxidu draselném hyalinní, hladká nebo velmi jemně tečkovaná a u sept trochu zúžená; jiné údaje uvádějí vlákna široká 3–7,5 µm nebo asi 2,5 µm.",
+      "stipe": "Pravý třeň chybí. Při dozrávání plodnice se vytváří tlustá sterilní báze, o něco užší než plodná horní část, a k zemi ji může připevňovat silný podhoubový provazec. Jeden údaj popisuje širokou bázi, z níž vyrůstá tlustý podhoubový provazec. Po rozptýlení výtrusného prachu může sterilní báze ještě týdny zůstávat jako měkký, kožovitý pohár s roztřepeným horním okrajem.",
+      "flesh": "Uvnitř je v mládí bílá, pevná a stejnorodá, bez zárodků lupenů. Vůně a chuť nejsou výrazné. Hydroxid draselný na vnějším povrchu nezpůsobuje změnu barvy. Při dozrávání výtrusů gleba žloutne a potom fialoví a sterilní báze žloutne a s věkem olivoví. Jakmile vnitřek už není bílý, plodnice se ponechává.",
+      "sporePrint": "Dokud je plodnice uzavřená, běžný výtrusný prach se nezíská. Zralý výtrusný prach je fialový, nebo fialový až fialovohnědý. Výtrusy jsou kulovité, 3–6 µm v průměru včetně ornamentiky, pokryté ostny dlouhými 0,5–1 µm, v hydroxidu draselném hyalinní a v Melzerově činidle hnědavé; některé údaje uvádějí 3,5–7,5 µm.",
+      "habitat": "Roste na zemi v trávě: na trávnících, v parcích, na golfových hřištích, pastvinách, prerích a jiných otevřených travnatých nebo xerotermních stanovištích, někdy ve světlých lesích nebo u cest, jednotlivě, roztroušeně, ve skupinách nebo v čarodějných kruzích. Na velké části Severní Ameriky se objevuje v létě a na podzim; ve východním a středním Texasu od června do října; severnější údaje zdůrazňují pozdní léto a začátek podzimu, nebo srpen až říjen. Plodnice často přicházejí po vydatném dešti. Sterilní báze mohou přetrvávat i po sezóně.",
+      "uses": "Jedlé jsou jen plodnice, jejichž vnitřek je ještě čistě bílý a pevný. Některé údaje označují mladé exempláře za výborné nebo vybrané. Připravují se jako jiné velké pýchavky. Jakmile dužnina zežloutne nebo zhnědne, plodnice se ponechává.",
+      "confusion": "Calvatia gigantea je obvykle hladší a bledší, často větší a nemá dobře vyvinutou sterilní bázi; její zralá výtrusná masa je olivově hnědá až hnědá, nikoli fialová. Calvatia craniiformis má obvykle ostře zúženou sterilní bázi a v zralosti žlutohnědou, nikoli fialovou výtrusnou masu a typicky jí chybí mozaikovité šupiny. Calvatia fragilis je velmi podobná, ale menší, se slaběji vyvinutou sterilní bází v zralosti; někteří autoři ji považují za samostatný druh, zejména v západní Severní Americe. Druhy rodu Scleroderma, například Scleroderma citrinum, jsou menší a tužší a vnitřek je už v mládí tmavě fialovočerný, často s bílým mramorováním. Mladá Amanita na svislém řezu ukazuje lupeny a třeň, nikoli stejnorodé bílé vnitřek.",
+      "notes": "V Polsku byla hodnocena jako ohrožená, do roku 2003 s jen dvěma zveřejněnými záznamy. Na Slovensku je uváděna jako chráněná houba. Někteří autoři považují Calvatia fragilis za samostatný druh vůči tomuto taxonu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En saprotrof støvbold fra græsbevoksede steder, herunder plæner, parker, græsgange og prærie. Den er almindelig over store dele af Nordamerika, dog mindre ved vestkysten, og forekommer også i Sydamerika, Australien og på andre kontinenter. I Europa er den kun kendt fra nogle lande og er sjælden i Polen.",
+      "cap": "Frugtlegemet har ingen tydelig hat. Ved modenhed er det almindeligvis 8–20 cm bredt og 8–17 cm højt; nogle opgivelser angiver 5–20 cm for højden eller bredden, og offentliggjorte europæiske tal omfatter 6–12 cm i bredden og op til 10 cm i højden. Ungt er det kugleformet og udvikler derefter en tyk basal del, der er lidt smallere end den øvre del, så det modne frugtlegeme sædvanligvis ligner en omvendt pære eller et brød. Den ydre overflade er beige- til lysebrun, brydes ofte op i små mosaikagtige skæl og bliver senere meget lysebrun, grålig eller næsten hvid, med en utydelig mosaik af felter og brunlige prikker. Huden er tør og cirka 1–2 mm tyk.",
+      "hymenium": "Glebaen udfylder den øvre del af frugtlegemet og er i ung tilstand hvid og fast. Senere bliver den teksturmæssigt tokammret, idet den fertile øvre del er adskilt fra den sterile basis, og der er også beskrevet et tyndt diafragma mellem dem. Glebaen bliver gullig og til sidst et dybt brunligt violet til violetbrunt pulver. Der er ingen lameller. Huden åbner sig ikke gennem én vedvarende pore; den øvre del revner og falder af, og pulveret frigøres af vind og regn. Capillitiumtrådene er cirka 2–5 µm brede, med vægge cirka 0,5 µm tykke, hyaline i kaliumhydroxid, glatte eller meget fint prikkede og lidt indsnævrede ved septene; andre opgivelser angiver tråde på 3–7,5 µm eller cirka 2,5 µm i bredden.",
+      "stipe": "Der er ingen ægte stok. Når frugtlegemet modnes, udvikles en tyk steril basis, lidt smallere end den fertile øvre del, og en kraftig myceliestreng kan fæste basis til jorden. En opgivelse beskriver en bred basis, hvorfra en tyk myceliestreng udgår. Efter at sporemassen er spredt, kan den sterile basis blive stående i uger som en blød, læderagtig kop med en flosset øvre rand.",
+      "flesh": "I ung tilstand er det indre hvidt, fast og ensartet, uden lamellanlæg. Lugt og smag er ikke karakteristiske. Kaliumhydroxid giver ingen farveændring på den ydre overflade. Når sporerne modnes, bliver glebaen gul og derefter violet, og den sterile basis bliver gullig, senere olivenfarvet. Når det indre ikke længere er hvidt, lades frugtlegemet stå.",
+      "sporePrint": "Så længe frugtlegemet er lukket, fås der intet almindeligt sporeaftryk. Det modne sporestøv er violet, eller violet til violetbrunt. Sporerne er kugleformede, 3–6 µm i diameter inklusive ornamenteringen, dækket af torne 0,5–1 µm lange, hyaline i kaliumhydroxid og brunlige i Melzers reagens; nogle opgivelser angiver 3,5–7,5 µm.",
+      "habitat": "Den frugter på jorden i græs: plæner, parker, golfbaner, græsgange, prærie og andre åbne græsbevoksede eller xerotherme voksesteder, undertiden i åben skov eller ved veje, enkeltvis, spredt, i grupper eller i hekseringe. I store dele af Nordamerika viser den sig om sommeren og efteråret; i det østlige og centrale Texas fra juni til oktober; nordligere opgivelser fremhæver sensommeren og det tidlige efterår, eller august til oktober. Frugtlegemer følger ofte efter kraftig regn. De sterile baser kan blive stående efter sæsonen.",
+      "uses": "Kun frugtlegemer, hvis indre stadig er rent hvidt og fast, spises. Nogle opgivelser kalder unge eksemplarer udmærkede eller udsøgte. De tilberedes som andre store støvbolde. Når kødet bliver gult eller brunligt, lades frugtlegemet stå.",
+      "confusion": "Calvatia gigantea er sædvanligvis glattere og blegere, ofte større, og mangler en veludviklet steril basis; dens modne sporemasse er olivenbrun til brun, ikke violet. Calvatia craniiformis har sædvanligvis en skarpt indsnævret steril basis og ved modenhed en gulbrun, ikke violet, sporemasse og mangler typisk mosaikskællene. Calvatia fragilis er meget lig, men mindre, med en mindre veludviklet steril basis ved modenhed; nogle forfattere behandler den som en særskilt art, især i det vestlige Nordamerika. Arter af Scleroderma, for eksempel Scleroderma citrinum, er mindre og fastere, og det indre bliver allerede ungt mørkt violet-sort, ofte med hvid marmorering. En ung Amanita viser lameller og en stok i et lodret snit, ikke et ensartet hvidt indre.",
+      "notes": "I Polen er den vurderet som truet, frem til 2003 med kun to offentliggjorte fund. I Slovakiet anføres den som en beskyttet svamp. Nogle forfattere holder Calvatia fragilis adskilt fra denne art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein saprotropher Stäubling grasiger Standorte, darunter Rasen, Parks, Weiden und Prärie. Er ist in weiten Teilen Nordamerikas häufig, an der Westküste jedoch weniger, und kommt auch in Südamerika, Australien und auf anderen Kontinenten vor. In Europa ist er nur aus einigen Ländern bekannt und in Polen selten.",
+      "cap": "Der Fruchtkörper hat keinen deutlichen Hut. Reif ist er gewöhnlich 8–20 cm breit und 8–17 cm hoch; manche Angaben nennen 5–20 cm für Höhe oder Breite, und veröffentlichte europäische Zahlen umfassen 6–12 cm Breite und bis 10 cm Höhe. Jung ist er kugelig und bildet dann einen dicken basalen Teil, der etwas schmaler ist als der obere, sodass der reife Fruchtkörper meist einer umgekehrten Birne oder einem Brotlaib gleicht. Die Außenfläche ist beige bis hellbraun, zerfällt oft in kleine mosaikartige Schuppen und wird später sehr hellbraun, gräulich oder fast weiß, mit einem undeutlichen Mosaik aus Feldern und bräunlichen Punkten. Die Haut ist trocken und etwa 1–2 mm dick.",
+      "hymenium": "Die Gleba füllt den oberen Teil des Fruchtkörpers und ist jung weiß und fest. Später wird sie texturmäßig zweikammerig, wobei der fertile obere Teil von der sterilen Basis geschieden ist; auch eine dünne Diaphragma-Schicht dazwischen ist beschrieben worden. Die Gleba wird gelblich und schließlich ein tief braunviolettes bis violettbraunes Pulver. Lamellen fehlen. Die Haut öffnet sich nicht durch eine einzelne bleibende Pore; der obere Teil reißt auf und bricht weg, und das Pulver wird durch Wind und Regen freigesetzt. Die Capillitiumfäden sind etwa 2–5 µm breit, mit Wänden von etwa 0,5 µm Dicke, in Kaliumhydroxid hyalin, glatt oder sehr fein getüpfelt und an den Septen etwas verschmälert; andere Angaben nennen Fäden von 3–7,5 µm oder etwa 2,5 µm Breite.",
+      "stipe": "Ein echter Stiel fehlt. Beim Reifen entwickelt sich eine dicke sterile Basis, etwas schmaler als der fertile obere Teil, und eine kräftige Myzelstrang kann die Basis im Boden verankern. Eine Angabe beschreibt eine breite Basis, aus der ein dicker Myzelstrang entspringt. Nach der Ausstreuung der Sporenmasse kann die sterile Basis wochenlang als weicher, lederartiger Becher mit unregelmäßig zerrissenem oberem Rand stehen bleiben.",
+      "flesh": "Jung ist das Innere weiß, fest und gleichmäßig, ohne Lamellenanlagen. Geruch und Geschmack sind unauffällig. Kaliumhydroxid bewirkt auf der Außenfläche keine Farbänderung. Beim Reifen der Sporen wird die Gleba gelb und dann violett, und die sterile Basis wird gelblich, später oliv. Sobald das Innere nicht mehr weiß ist, wird der Fruchtkörper belassen.",
+      "sporePrint": "Solange der Fruchtkörper geschlossen ist, entsteht kein gewöhnlicher Sporenabdruck. Der reife Sporenstaub ist violett oder violett bis violettbraun. Die Sporen sind kugelig, 3–6 µm im Durchmesser einschließlich der Ornamentierung, mit Stacheln von 0,5–1 µm Länge besetzt, in Kaliumhydroxid hyalin und in Melzers Reagenz bräunlich; manche Angaben nennen 3,5–7,5 µm.",
+      "habitat": "Er fruktifiziert am Boden im Gras: auf Rasen, in Parks, auf Golfplätzen, Weiden, Prärien und anderen offenen grasigen oder xerothermen Stellen, manchmal in lichten Wäldern oder an Wegesrändern, einzeln, zerstreut, in Gruppen oder in Hexenringen. In weiten Teilen Nordamerikas erscheint er im Sommer und Herbst; in Ost- und Zentraltexas von Juni bis Oktober; nördlichere Angaben betonen den Spätsommer und frühen Herbst oder August bis Oktober. Fruchtkörper folgen oft auf starke Regen. Die sterilen Basen können nach der Saison noch stehen bleiben.",
+      "uses": "Nur Fruchtkörper, deren Inneres noch rein weiß und fest ist, werden gegessen. Manche Angaben nennen junge Exemplare ausgezeichnet oder hochwertig. Sie werden wie andere große Stäublinge zubereitet. Sobald das Fleisch gelb oder bräunlich wird, wird der Fruchtkörper belassen.",
+      "confusion": "Calvatia gigantea ist gewöhnlich glatter und blasser, oft größer und ohne gut entwickelte sterile Basis; ihre reife Sporenmasse ist olivbraun bis braun, nicht violett. Calvatia craniiformis hat gewöhnlich eine scharf verschmälerte sterile Basis und eine gelbbraune, nicht violette Sporenmasse in der Reife und entbehrt typischerweise der Mosaikschuppung. Calvatia fragilis ist sehr ähnlich, aber kleiner, mit weniger gut entwickelter steriler Basis in der Reife; manche Autoren behandeln sie als eigene Art, besonders im westlichen Nordamerika. Arten von Scleroderma, etwa Scleroderma citrinum, sind kleiner und fester, und das Innere wird schon jung dunkelviolettschwarz, oft mit weißer Marmorierung. Eine junge Amanita zeigt im Längsschnitt Lamellen und einen Stiel, kein gleichmäßig weißes Inneres.",
+      "notes": "In Polen wurde sie als gefährdet eingestuft, bis 2003 mit nur zwei veröffentlichten Nachweisen. In der Slowakei wird sie als geschützter Pilz geführt. Manche Autoren halten Calvatia fragilis von dieser Art getrennt.",
+      "names": [],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Hexenring"
+      ],
+      "label": "Violetter Stäubling"
+    },
+    "en": {
+      "description": "A saprotrophic puffball of grassy places, including lawns, parks, pastures, and prairie. It is frequent across much of North America, though less so on the West Coast, and also occurs in South America, Australia, and on other continents. In Europe it is known from only some countries and is rare in Poland.",
+      "cap": "The fruit body has no distinct cap. It is commonly 8–20 cm across and 8–17 cm high when mature; some accounts give 5–20 cm for the height or width, and published European figures include 6–12 cm across and up to 10 cm high. It is ball-shaped when young and then develops a thick basal portion that is slightly narrower than the upper part, so that the mature fruit body is usually like an inverted pear or a loaf of bread. The outer surface is tan to pale brown, often breaking into small mosaic-like scales, and later becomes very pale brown, greyish, or nearly white, with a faint mosaic of sections and brownish dots. The skin is dry and about 1–2 mm thick.",
+      "hymenium": "The gleba occupies the upper part of the fruit body and is white and firm when young. It later becomes two-chambered texturally, with the fertile upper portion distinct from the sterile base, and a thin diaphragm between them has also been described. The gleba turns yellowish and finally a deep brownish-purple to purple-brown powder. There are no gills. The skin does not open by a single lasting pore; the upper part cracks and breaks away, and the powder is released by wind and rain. The capillitial threads are about 2–5 μm wide, with walls about 0.5 μm thick, hyaline in potassium hydroxide, smooth or very minutely pitted, and a little narrowed at the septa; other accounts give threads 3–7.5 μm or about 2.5 μm wide.",
+      "stipe": "There is no true stipe. A thick sterile base develops as the fruit body matures, slightly narrower than the fertile upper part, and a stout mycelial cord may attach the base to the ground. One account describes a broad base from which a thick mycelial cord arises. After the spore mass is dispersed, the sterile base can remain for weeks as a soft, leathery cup with a ragged upper edge.",
+      "flesh": "When young the interior is white, firm, and uniform, with no gill initials. The smell and taste are not distinctive. Potassium hydroxide gives no colour change on the outer surface. As the spores ripen the gleba turns yellow and then purple, and the sterile base turns yellowish, then olive with age. Once the interior is no longer white, the fruit body is left.",
+      "sporePrint": "There is no ordinary spore print while the fruit body is closed. The mature spore dust is purple, or purple to purple-brown. The spores are globose, 3–6 μm across including the ornamentation, covered with spines 0.5–1 μm long, hyaline in potassium hydroxide, and brownish in Melzer's reagent; some accounts give 3.5–7.5 μm.",
+      "habitat": "It fruits on the ground in grass: lawns, parks, golf courses, pastures, prairies, and other open grassy or xerothermic sites, sometimes in open woods or at roadsides, alone, scattered, in groups, or in fairy rings. In much of North America it appears in summer and fall; in East and Central Texas from June to October; and more northerly accounts emphasize late summer and early fall, or August to October. Fruit bodies often follow heavy rain. The sterile bases may persist after the season.",
+      "uses": "Only fruit bodies whose interior is still pure white and firm are eaten. Some accounts call young specimens excellent or choice. They are prepared as for other large puffballs. Once the flesh turns yellow or tan, the fruit body is left.",
+      "confusion": "Calvatia gigantea is usually smoother and paler, often larger, and lacks a well-developed sterile base; its mature spore mass is olive-brown to brown rather than purple. Calvatia craniiformis usually has a sharply narrowed sterile base and a yellow-brown, not purple, spore mass at maturity, and it typically lacks the mosaic scaling. Calvatia fragilis is very similar but smaller, with a less well-developed sterile base at maturity; some authors treat it as a separate species, especially in western North America. Scleroderma species, such as Scleroderma citrinum, are smaller and firmer, and the interior turns dark purple-black, often with white marbling, while the fruit body is still young. A young Amanita shows gills and a stalk in a vertical cut, not a uniform white interior.",
+      "notes": "In Poland it has been assessed as endangered, with only two published records as of 2003. In Slovakia it is listed as a protected fungus. Some authors keep Calvatia fragilis separate from this species.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356862",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=356862",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356862",
+        "https://www.gbif.org/species/2536054",
+        "https://www.wikidata.org/wiki/Q5024215",
+        "https://species.wikimedia.org/wiki/Calvatia_cyathiformis",
+        "https://en.wikipedia.org/wiki/Calvatia_cyathiformis",
+        "https://www.mushroomexpert.com/calvatia_cyathiformis.html",
+        "https://www.mushroomexpert.com/indianamushrooms/calvatia_cyathiformis.html",
+        "https://www.centraltexasmycology.org/blog/july-mushroom-of-the-month-purple-spored-puffball",
+        "https://www.inaturalist.org/taxa/153296-Calvatia-cyathiformis"
+      ],
+      "label": "purple-spored puffball"
+    },
+    "es": {
+      "description": "Un bejín saprotrofo de lugares herbáceos, incluidos céspedes, parques, pastizales y praderas. Es frecuente en gran parte de América del Norte, aunque menos en la costa oeste, y también se encuentra en América del Sur, Australia y en otros continentes. En Europa se conoce solo en algunos países y es rara en Polonia.",
+      "cap": "El cuerpo fructífero no tiene un sombrero distinto. En la madurez mide de ordinario 8–20 cm de ancho y 8–17 cm de alto; algunas descripciones dan 5–20 cm de alto o de ancho, y las cifras europeas publicadas incluyen 6–12 cm de ancho y hasta 10 cm de alto. De joven es esférico y luego desarrolla una porción basal gruesa, un poco más estrecha que la parte superior, de modo que el cuerpo maduro suele parecerse a una pera invertida o a una hogaza. La superficie externa es de color canela a pardo pálido, a menudo se rompe en pequeñas escamas mosaico y más tarde se vuelve pardo muy pálido, grisácea o casi blanca, con un mosaico tenue de secciones y puntos parduscos. La piel es seca y de unos 1–2 mm de espesor.",
+      "hymenium": "La gleba ocupa la parte superior del cuerpo fructífero y, de joven, es blanca y firme. Más tarde se vuelve texturalmente bicameral, con la porción fértil superior distinta de la base estéril, y también se ha descrito un diafragma delgado entre ambas. La gleba se vuelve amarillenta y al final un polvo de color púrpura-parduzco intenso a púrpura-pardo. No hay láminas. La piel no se abre por un único poro persistente; la parte superior se agrieta y se desprende, y el polvo se libera con el viento y la lluvia. Los filamentos del capilicio miden unos 2–5 µm de ancho, con paredes de unos 0,5 µm de espesor, hialinos en hidróxido de potasio, lisos o muy minutamente punteados y un poco estrechos en los septos; otras descripciones dan filamentos de 3–7,5 µm o de unos 2,5 µm de ancho.",
+      "stipe": "No hay un pie verdadero. Al madurar el cuerpo fructífero se desarrolla una base estéril gruesa, un poco más estrecha que la parte fértil superior, y un cordón micelial robusto puede fijar la base al suelo. Una descripción señala una base ancha de la que surge un cordón micelial grueso. Tras la dispersión de la masa de esporas, la base estéril puede permanecer durante semanas como una copa blanda y correosa, con el borde superior irregularmente desgarrado.",
+      "flesh": "De joven el interior es blanco, firme y uniforme, sin esbozos de láminas. El olor y el sabor no son distintivos. El hidróxido de potasio no produce cambio de color en la superficie externa. Al madurar las esporas, la gleba se vuelve amarilla y luego púrpura, y la base estéril se vuelve amarillenta y, con la edad, olivácea. Cuando el interior ya no es blanco, se deja el cuerpo fructífero.",
+      "sporePrint": "Mientras el cuerpo fructífero está cerrado no se obtiene una esporada ordinaria. El polvo esporal maduro es púrpura, o púrpura a púrpura-pardo. Las esporas son globosas, de 3–6 µm de diámetro incluida la ornamentación, cubiertas de espinas de 0,5–1 µm de largo, hialinas en hidróxido de potasio y parduscas en el reactivo de Melzer; algunas descripciones dan 3,5–7,5 µm.",
+      "habitat": "Fructifica en el suelo, en la hierba: céspedes, parques, campos de golf, pastizales, praderas y otros sitios abiertos herbáceos o xerotérmicos, a veces en bosques abiertos o a orillas de caminos, solitario, disperso, en grupos o en corros de brujas. En gran parte de América del Norte aparece en verano y otoño; en el este y el centro de Texas, de junio a octubre; las descripciones más septentrionales enfatizan el final del verano y el comienzo del otoño, o agosto a octubre. Los cuerpos fructíferos suelen seguir a lluvias intensas. Las bases estériles pueden persistir después de la temporada.",
+      "uses": "Solo se comen los cuerpos fructíferos cuyo interior sigue siendo puro blanco y firme. Algunas descripciones llaman excelentes o selectos a los ejemplares jóvenes. Se preparan como otras grandes bejines. Cuando la carne se vuelve amarilla o parda, se deja el cuerpo fructífero.",
+      "confusion": "Calvatia gigantea suele ser más lisa y pálida, a menudo más grande, y carece de una base estéril bien desarrollada; su masa esporal madura es pardo-olivácea a parda, no púrpura. Calvatia craniiformis suele tener una base estéril bruscamente estrecha y, en la madurez, una masa esporal pardo-amarillenta, no púrpura, y típicamente carece de las escamas en mosaico. Calvatia fragilis es muy similar pero más pequeña, con una base estéril menos desarrollada en la madurez; algunos autores la tratan como una especie distinta, sobre todo en el oeste de América del Norte. Las especies de Scleroderma, como Scleroderma citrinum, son más pequeñas y firmes, y el interior se vuelve púrpura-negruzco oscuro, a menudo con jaspeado blanco, ya cuando el cuerpo es joven. Una Amanita joven muestra láminas y un pie en un corte vertical, no un interior blanco uniforme.",
+      "notes": "En Polonia se ha evaluado como amenazada, con solo dos registros publicados hasta 2003. En Eslovaquia figura como un hongo protegido. Algunos autores mantienen Calvatia fragilis aparte de esta especie.",
+      "names": [
+        "hongo de bola",
+        "chipo de venado"
+      ],
+      "sourceUrls": [
+        "https://es.wikipedia.org/wiki/Calvatia_cyathiformis"
+      ],
+      "label": "bola de llano"
+    },
+    "et": {
+      "description": "Saprotroofne tolmseen heinaste kasvukohtade, sealhulgas murude, parkide, karjamaade ja preeria liik. Ta on sage suures osas Põhja-Ameerikast, läänerannikul aga vähem, ning esineb ka Lõuna-Ameerikas, Austraalias ja teistel mandritel. Euroopas on ta tuntud vaid mõnes riigis ja Poolas haruldane.",
+      "cap": "Viljakehal ei ole selget kübarat. Küpsena on ta tavaliselt 8–20 cm lai ja 8–17 cm kõrge; mõned andmed annavad kõrguseks või laiuseks 5–20 cm ning avaldatud Euroopa arvud hõlmavad 6–12 cm laiust ja kuni 10 cm kõrgust. Noorena on ta kerajas ning arendab seejärel paksu alusosa, mis on veidi kitsam kui ülemine osa, nii et küps viljakeha meenutab tavaliselt ümberpööratud pirni või leiba. Välispind on beežikas kuni kahvatupruun, murdub sageli väikesteks mosaiikjaiks soomusteks ning muutub hiljem väga kahvatupruuniks, hallikaks või peaaegu valgeks, nõrga ruudustiku ja prunakate täppidega. Koor on kuiv ja umbes 1–2 mm paks.",
+      "hymenium": "Gleba täidab viljakeha ülemise osa ja on noorena valge ning kindel. Hiljem muutub ta tekstuurilt kahekambriliseks, viljakas ülemine osa eristub steriilsest alusest, ning nende vahel on kirjeldatud ka õhukest diafragmat. Gleba muutub kollakaks ja lõpuks sügavaks pruunikaslillaks kuni lillakaspruuniks pulbriks. Eoseid kandvaid eoslehekesi ei ole. Koor ei avane ühe püsiva pooriga; ülemine osa praguneb ja langeb ära ning pulbri vabastavad tuul ja vihm. Kapillitiuminiidid on umbes 2–5 µm laiad, seintega umbes 0,5 µm paksused, kaaliumhüdroksiidis hüaliinsed, siledad või väga peenelt täpilised ja vaheseinte juures veidi ahenevad; teised andmed annavad niitide laiuseks 3–7,5 µm või umbes 2,5 µm.",
+      "stipe": "Tõelist vart ei ole. Viljakeha valmides areneb paks steriilne alus, veidi kitsam kui viljakas ülemine osa, ning jäme seeneniidistikunöör võib kinnitada aluse maasse. Üks andmestik kirjeldab laia alust, millest lähtub jäme seeneniidistikunöör. Pärast eospulbri hajumist võib steriilne alus püsida nädalaid pehme, nahkja karikana, mille ülemine serv on narmendav.",
+      "flesh": "Noorena on sisu valge, kindel ja ühtlane, ilma eoslehekeste algmeteta. Lõhn ja maitse ei ole iseloomulikud. Kaaliumhüdroksiid ei põhjusta välispinnal värvuse muutust. Eoste valmides muutub gleba kollaseks ja seejärel lillaks ning steriilne alus kollakaks, hiljem oliivjaks. Kui sisu ei ole enam valge, jäetakse viljakeha puutumata.",
+      "sporePrint": "Kuni viljakeha on suletud, ei saa tavalist eospulbijälge. Küps eospulber on lilla või lilla kuni lillakaspruun. Eosed on kerajad, läbimõõduga 3–6 µm koos ornamendiga, kaetud 0,5–1 µm pikkuste ogadega, kaaliumhüdroksiidis hüaliinsed ja Melzeri reagensis prunakad; mõned andmed annavad 3,5–7,5 µm.",
+      "habitat": "Ta viljub maapinnal rohus: murudel, parkides, golfiväljakutel, karjamaadel, preerial ja teistel avatud heinastel või kserotermistel kasvukohtadel, vahel avatud metsades või teeservadel, üksikult, hajusalt, rühmadena või nõiaringides. Suures osas Põhja-Ameerikast ilmub ta suvel ja sügisel; Ida- ja Kesk-Texases juunist oktoobrini; põhjapoolsemad andmed rõhutavad suve lõppu ja sügise algust või augustit–oktoobrit. Viljakehad järgnevad sageli tugevale vihmale. Steriilsed alused võivad püsida ka pärast hooaega.",
+      "uses": "Süüakse vaid viljakehi, mille sisu on veel puhasvalge ja kindel. Mõned andmed nimetavad noori isendeid suurepärasteks või valitudeks. Neid valmistatakse nagu teisi suuri tolmseeni. Kui liha muutub kollaseks või prunakaks, jäetakse viljakeha puutumata.",
+      "confusion": "Calvatia gigantea on tavaliselt siledam ja kahvatum, sageli suurem, ning tal puudub hästi arenenud steriilne alus; tema küps eospulber on oliivpruun kuni pruun, mitte lilla. Calvatia craniiformisel on tavaliselt järsult ahenev steriilne alus ja küpsena kollakaspruun, mitte lilla eospulber, ning tal puuduvad tüüpiliselt mosaiiksoomused. Calvatia fragilis on väga sarnane, kuid väiksem, küpsena nõrgemini arenenud steriilse alusega; mõned autorid käsitlevad teda eraldi liigina, eriti Lääne-Põhja-Ameerikas. Scleroderma perekonna liigid, näiteks Scleroderma citrinum, on väiksemad ja tugevamad ning sisu muutub juba noorelt tumedaks lillakas-mustaks, sageli valge marmorjoonisega. Noor Amanita näitab püstlõikes eoslehekesi ja vart, mitte ühtlast valget sisu.",
+      "notes": "Poolas on ta hinnatud ohustatuks, kuni 2003. aastani vaid kahe avaldatud leiuga. Slovakkias on ta kantud kaitstud seenena. Mõned autorid hoiavad liiki Calvatia fragilis sellest liigist eraldi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "یک قارچ پوده‌ای گندروی زیستگاه‌های علفی، از جمله چمنزارها، پارک‌ها، چراگاه‌ها و پرری است. در بخش بزرگی از آمریکای شمالی رایج است، اما در ساحل غربی کمتر دیده می‌شود و در آمریکای جنوبی، استرالیا و قاره‌های دیگر نیز می‌روید. در اروپا تنها از برخی کشورها شناخته شده و در لهستان کمیاب است.",
+      "cap": "اندام بارده کلاهک مشخص ندارد. در بلوغ معمولاً ۸–۲۰ سانتی‌متر پهنا و ۸–۱۷ سانتی‌متر بلندا دارد؛ برخی روایت‌ها برای بلندا یا پهنا ۵–۲۰ سانتی‌متر می‌دهند و ارقام اروپایی منتشرشده پهنای ۶–۱۲ سانتی‌متر و بلندی تا ۱۰ سانتی‌متر را شامل می‌شود. در جوانی کروی است و سپس بخش پایه‌ای ستبر می‌سازد که اندکی باریک‌تر از بخش بالایی است، چنان‌که اندام بالغ معمولاً به گلابی وارونه یا نان شبیه می‌شود. سطح بیرونی خاکی تا قهوه‌ای روشن است، اغلب به پولک‌های کوچک موزاییکی می‌شکافد و سپس بسیار قهوه‌ای روشن، مایل به خاکستری یا تقریباً سفید می‌شود، با موزاییک کم‌رنگ و نقطه‌های قهوه‌ای. پوست خشک و حدود ۱–۲ میلی‌متر ضخامت دارد.",
+      "hymenium": "گِلِبا بخش بالایی اندام بارده را پر می‌کند و در جوانی سفید و سفت است. سپس از نظر بافت دوخانه می‌شود، بخش زایای بالایی از پایهٔ سترون جدا می‌گردد و دیافراگم نازکی نیز میان آن‌ها توصیف شده است. گِلِبا زرد می‌شود و سرانجام به پودری عمیق قهوه‌ای‌بنفش تا بنفش‌قهوه‌ای بدل می‌گردد. تیغه وجود ندارد. پوست با یک منفذ پایدار باز نمی‌شود؛ بخش بالایی ترک می‌خورد و می‌افتد و پودر را باد و باران آزاد می‌کنند. رشته‌های کاپیلیتیوم حدود ۲–۵ میکرومتر پهنا دارند، با دیواره‌هایی حدود ۰٫۵ میکرومتر ضخامت، در پتاسیم هیدروکسید شفاف، صاف یا بسیار ریزنقطه‌دار و در محل دیواره‌های عرضی اندکی باریک‌شده؛ روایت‌های دیگر رشته‌هایی به پهنای ۳–۷٫۵ میکرومتر یا حدود ۲٫۵ میکرومتر می‌دهند.",
+      "stipe": "ساقهٔ حقیقی وجود ندارد. با رسیدن اندام بارده، پایهٔ سترون ستبری پدید می‌آید، اندکی باریک‌تر از بخش زایای بالایی، و ریسمان میسلیومی نیرومند می‌تواند پایه را به خاک متصل کند. یک روایت پایهٔ پهنی را توصیف می‌کند که از آن ریسمان میسلیومی ستبری بیرون می‌آید. پس از پراکنده‌شدن تودهٔ هاگ، پایهٔ سترون می‌تواند هفته‌ها به‌صورت پیاله‌ای نرم و چرم‌مانند با لبهٔ بالایی ریش‌ریش باقی بماند.",
+      "flesh": "در جوانی درون سفید، سفت و یکنواخت است و آغاز تیغه ندارد. بو و طعم مشخص نیست. پتاسیم هیدروکسید رنگ سطح بیرونی را تغییر نمی‌دهد. با رسیدن هاگ‌ها گِلِبا زرد و سپس بنفش می‌شود و پایهٔ سترون زرد، سپس زیتونی می‌گردد. وقتی درون دیگر سفید نیست، اندام بارده را رها می‌کنند.",
+      "sporePrint": "تا وقتی اندام بارده بسته است، نقش هاگ معمولی به دست نمی‌آید. پودر هاگ رسیده بنفش است، یا بنفش تا قهوه‌ای‌بنفش. هاگ‌ها کروی‌اند، به قطر ۳–۶ میکرومتر شامل تزئین، پوشیده از خارهایی به طول ۰٫۵–۱ میکرومتر، در پتاسیم هیدروکسید شفاف و در واکنشگر ملزر مایل به قهوه‌ای؛ برخی روایت‌ها ۳٫۵–۷٫۵ میکرومتر می‌دهند.",
+      "habitat": "روی خاک در علف می‌روید: در چمنزارها، پارک‌ها، زمین‌های گلف، چراگاه‌ها، پرری و دیگر زیستگاه‌های باز علفی یا خشک‌گرم، گاه در جنگل باز یا کنار جاده‌ها، به‌تنهایی، پراکنده، گروهی یا در حلقه‌های جادوگران. در بخش بزرگی از آمریکای شمالی در تابستان و پاییز ظاهر می‌شود؛ در شرق و مرکز تگزاس از ژوئن تا اکتبر؛ روایت‌های شمالی‌تر اواخر تابستان و اوایل پاییز، یا اوت تا اکتبر را برجسته می‌کنند. اندام‌های بارده اغلب پس از باران شدید می‌آیند. پایه‌های سترون ممکن است پس از فصل نیز باقی بمانند.",
+      "uses": "تنها اندام‌هایی خورده می‌شوند که درونشان هنوز سفید خالص و سفت است. برخی روایت‌ها نمونه‌های جوان را عالی یا برگزیده می‌نامند. آن‌ها را مانند دیگر پفک‌های بزرگ آماده می‌کنند. وقتی گوشت زرد یا مایل به قهوه‌ای شود، اندام بارده را رها می‌کنند.",
+      "confusion": "Calvatia gigantea معمولاً صاف‌تر و رنگ‌پریده‌تر است، اغلب بزرگ‌تر، و پایهٔ سترون خوش‌رشد ندارد؛ تودهٔ هاگ رسیده‌اش زیتونی‌قهوه‌ای تا قهوه‌ای است، نه بنفش. Calvatia craniiformis معمولاً پایهٔ سترون به‌شدت باریک‌شده و در بلوغ تودهٔ هاگ زرد‌قهوه‌ای، نه بنفش، دارد و معمولاً پولک‌های موزاییکی ندارد. Calvatia fragilis بسیار شبیه است اما کوچک‌تر، با پایهٔ سترون کم‌رشدتر در بلوغ؛ برخی نویسندگان آن را گونهٔ جداگانه می‌دانند، به‌ویژه در غرب آمریکای شمالی. گونه‌های Scleroderma، برای مثال Scleroderma citrinum، کوچک‌تر و سفت‌ترند و درون از جوانی بنفش‌سیاه تیره می‌شود، اغلب با رگه‌های مرمری سفید. Amanita جوان در برش عمودی تیغه و ساقه نشان می‌دهد، نه درون سفید یکنواخت.",
+      "notes": "در لهستان در معرض تهدید ارزیابی شده و تا سال ۲۰۰۳ تنها دو گزارش منتشرشده داشته است. در اسلواکی به‌عنوان قارچی حفاظت‌شده فهرست شده است. برخی نویسندگان Calvatia fragilis را از این گونه جدا نگه می‌دارند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Saprotrofinen tuhkelo ruohikkoisilla paikoilla, kuten nurmikoilla, puistoissa, laidunmailla ja preerialla. Se on tavallinen suuressa osassa Pohjois-Amerikkaa, länsirannikolla kuitenkin vähemmän, ja sitä tavataan myös Etelä-Amerikassa, Australiassa ja muilla mantereilla. Euroopassa se tunnetaan vain joistakin maista, ja Puolassa se on harvinainen.",
+      "cap": "Itiöemässä ei ole selvää lakkia. Kypsänä se on tavallisesti 8–20 cm leveä ja 8–17 cm korkea; eräät tiedot antavat korkeudeksi tai leveydeksi 5–20 cm, ja julkaistuihin eurooppalaisiin lukuihin kuuluvat 6–12 cm leveys ja enintään 10 cm korkeus. Nuorena se on pallomainen ja kehittää sitten paksun tyviosan, joka on hieman kapeampi kuin yläosa, joten kypsä itiöemä muistuttaa tavallisesti ylösalaisin käännettyä päärynää tai leipää. Ulkopinta on beigestä vaaleanruskeaan, halkeilee usein pieniksi mosaiikkimaisiksi suomuiksi ja muuttuu myöhemmin hyvin vaaleanruskeaksi, harmahtavaksi tai lähes valkoiseksi, ja siinä on heikko ruutumosaikki ja ruskehtavia pilkkuja. Kuori on kuiva ja noin 1–2 mm paksu.",
+      "hymenium": "Gleba täyttää itiöemän yläosan ja on nuorena valkoinen ja kiinteä. Myöhemmin se muuttuu rakenteeltaan kaksionteloiseksi, jolloin itiöitä tuottava yläosa erottuu steriilistä tyvestä, ja niiden välinen ohut väliseinä on myös kuvattu. Gleba muuttuu kellertäväksi ja lopulta syvän ruskeanvioletiksi tai violetinruskeaksi pölyksi. Helttoja ei ole. Kuori ei avaudu yhden pysyvän huokosen kautta; yläosa halkeilee ja irtoaa, ja pöly leviää tuulen ja sateen mukana. Kapillitiumrihmat ovat noin 2–5 µm leveitä, seinämiltään noin 0,5 µm paksuja, kaliumhydroksidissa hyaliinisia, sileitä tai hyvin hienosti kuoppaisia ja septien kohdalla hieman kaventuneita; toiset tiedot antavat rihmojen leveydeksi 3–7,5 µm tai noin 2,5 µm.",
+      "stipe": "Varsinaista jalkaa ei ole. Itiöemän kypsyessä kehittyy paksu steriili tyvi, hieman kapeampi kuin itiöitä tuottava yläosa, ja tanakka rihmastojänne voi kiinnittää tyven maahan. Eräs tieto kuvaa leveän tyven, josta lähtee paksu rihmastojänne. Itiömassan hajaannuttua steriili tyvi voi säilyä viikkoja pehmeänä, nahkamaisena kuppina, jonka yläreuna on risainen.",
+      "flesh": "Nuorena sisus on valkoinen, kiinteä ja tasainen, ilman helttojen aiheita. Tuoksu ja maku eivät ole erottuvia. Kaliumhydroksidi ei aiheuta värinmuutosta ulkopinnalla. Itiöiden kypsyessä gleba muuttuu keltaiseksi ja sitten violetiksi, ja steriili tyvi kellertyy, myöhemmin oliivinväriseksi. Kun sisus ei enää ole valkoinen, itiöemä jätetään.",
+      "sporePrint": "Niin kauan kuin itiöemä on suljettu, tavallista itiöpölyjälkeä ei saada. Kypsä itiöpöly on violettia tai violettia tai violetinruskeaa. Itiöt ovat pallomaisia, 3–6 µm halkaisijaltaan koristeet mukaan luettuina, 0,5–1 µm pitkien piikkien peittämiä, kaliumhydroksidissa hyaliinisia ja Melzerin reagenssissa ruskehtavia; eräät tiedot antavat 3,5–7,5 µm.",
+      "habitat": "Se hedelmöittää maassa ruohossa: nurmikoilla, puistoissa, golfkentillä, laidunmailla, preerialla ja muilla avoimilla ruohikkoisilla tai kserotermisillä paikoilla, joskus avoimissa metsissä tai teiden varsilla, yksittäin, hajallaan, ryhminä tai noidankehinä. Suuressa osassa Pohjois-Amerikkaa se ilmestyy kesällä ja syksyllä; Itä- ja Keski-Texasissa kesäkuusta lokakuuhun; pohjoisemmat tiedot korostavat loppukesää ja alkusyksyä tai elokuuta–lokakuuta. Itiöemät seuraavat usein rankkasateita. Steriilit tyvet voivat säilyä kauden jälkeenkin.",
+      "uses": "Syödään vain itiöemiä, joiden sisus on vielä puhtaan valkoinen ja kiinteä. Eräät tiedot kutsuvat nuoria yksilöitä erinomaisiksi tai valioiksi. Ne valmistetaan kuten muut suuret tuhkelot. Kun malto muuttuu keltaiseksi tai ruskehtavaksi, itiöemä jätetään.",
+      "confusion": "Calvatia gigantea on tavallisesti sileämpi ja vaaleampi, usein suurempi, eikä sillä ole hyvin kehittynyttä steriiliä tyveä; sen kypsä itiömassa on oliivinruskea tai ruskea, ei violetti. Calvatia craniiformiksella on tavallisesti jyrkästi kaventunut steriili tyvi ja kypsänä keltaruskea, ei violetti, itiömassa, ja siltä puuttuvat tyypillisesti mosaiikkisuomut. Calvatia fragilis on hyvin samankaltainen mutta pienempi, ja sen steriili tyvi on kypsänä heikommin kehittynyt; eräät kirjoittajat pitävät sitä omana lajinaan, etenkin läntisessä Pohjois-Amerikassa. Scleroderma-suvun lajit, kuten Scleroderma citrinum, ovat pienempiä ja kiinteämpiä, ja sisus muuttuu jo nuorena tumman violettimustaksi, usein valkoisin marmorikuvioin. Nuori Amanita näyttää pystyleikkauksessa heltat ja jalan, ei tasaisen valkoista sisusta.",
+      "notes": "Puolassa se on arvioitu uhanalaiseksi, ja vuoteen 2003 mennessä oli julkaistu vain kaksi löytöä. Slovakiassa se on merkitty suojelluksi sieneksi. Eräät kirjoittajat pitävät lajia Calvatia fragilis erillään tästä lajista.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Une vesse-de-loup saprotrophe des lieux herbeux, y compris pelouses, parcs, pâturages et prairies. Elle est fréquente dans une grande partie de l’Amérique du Nord, moins toutefois sur la côte ouest, et se rencontre aussi en Amérique du Sud, en Australie et sur d’autres continents. En Europe, elle n’est connue que de certains pays et est rare en Pologne.",
+      "cap": "Le sporophore n’a pas de chapeau distinct. À maturité, il mesure communément 8–20 cm de large et 8–17 cm de haut ; certains textes indiquent 5–20 cm pour la hauteur ou la largeur, et les chiffres européens publiés comprennent 6–12 cm de large et jusqu’à 10 cm de haut. Jeune, il est sphérique, puis développe une portion basale épaisse, un peu plus étroite que la partie supérieure, si bien que le sporophore mûr ressemble d’ordinaire à une poire inversée ou à un pain. La surface externe est ocre à brun pâle, se rompant souvent en petites écailles en mosaïque, puis devient brun très pâle, grisâtre ou presque blanche, avec une mosaïque vague de plages et de points brunâtres. La peau est sèche et épaisse d’environ 1–2 mm.",
+      "hymenium": "La gléba occupe la partie supérieure du sporophore et, à l’état jeune, est blanche et ferme. Elle devient ensuite texturalement à deux chambres, la portion fertile supérieure étant distincte de la base stérile, et un mince diaphragme entre les deux a également été décrit. La gléba jaunît et devient enfin une poudre brun-pourpre profond à pourpre-brun. Il n’y a pas de lames. La peau ne s’ouvre pas par un pore unique et persistant ; la partie supérieure se fend et se détache, et la poudre est libérée par le vent et la pluie. Les filaments du capillitium mesurent environ 2–5 µm de large, avec des parois d’environ 0,5 µm d’épaisseur, hyalins dans l’hydroxyde de potassium, lisses ou très finement ponctués et un peu rétrécis aux cloisons ; d’autres textes indiquent des filaments de 3–7,5 µm ou d’environ 2,5 µm de large.",
+      "stipe": "Il n’y a pas de véritable pied. À mesure que le sporophore mûrit, une base stérile épaisse se développe, un peu plus étroite que la partie fertile supérieure, et un cordon mycélien robuste peut fixer la base au sol. Un texte décrit une base large d’où naît un cordon mycélien épais. Après la dispersion de la masse sporale, la base stérile peut demeurer des semaines sous la forme d’une coupe molle, coriace, au bord supérieur déchiré.",
+      "flesh": "À l’état jeune, l’intérieur est blanc, ferme et uniforme, sans ébauches de lames. L’odeur et la saveur ne sont pas caractéristiques. L’hydroxyde de potassium ne provoque pas de changement de couleur sur la surface externe. À mesure que les spores mûrissent, la gléba devient jaune puis pourpre, et la base stérile jaunît, puis verdit olivâtre avec l’âge. Dès que l’intérieur n’est plus blanc, on laisse le sporophore.",
+      "sporePrint": "Tant que le sporophore est fermé, on n’obtient pas de sporée ordinaire. La poussière sporale mûre est pourpre, ou pourpre à pourpre-brun. Les spores sont globuleuses, de 3–6 µm de diamètre y compris l’ornementation, couvertes d’épines de 0,5–1 µm de long, hyalines dans l’hydroxyde de potassium et brunâtres dans le réactif de Melzer ; certains textes indiquent 3,5–7,5 µm.",
+      "habitat": "Il fructifie sur le sol, dans l’herbe : pelouses, parcs, golfs, pâturages, prairies et autres stations ouvertes herbeuses ou xérothermiques, parfois en bois clairs ou en bord de chemin, isolé, disséminé, en groupes ou en ronds de sorcières. Dans une grande partie de l’Amérique du Nord, il apparaît en été et en automne ; dans l’est et le centre du Texas, de juin à octobre ; les sources plus septentrionales insistent sur la fin de l’été et le début de l’automne, ou d’août à octobre. Les sporophores suivent souvent de fortes pluies. Les bases stériles peuvent persister après la saison.",
+      "uses": "On ne consomme que les sporophores dont l’intérieur est encore d’un blanc pur et ferme. Certains textes qualifient les jeunes spécimens d’excellents ou de choix. On les prépare comme les autres grandes vesses-de-loup. Dès que la chair devient jaune ou brunâtre, on laisse le sporophore.",
+      "confusion": "Calvatia gigantea est d’ordinaire plus lisse et plus pâle, souvent plus grande, et est dépourvue d’une base stérile bien développée ; sa masse sporale mûre est brun-olivâtre à brune, non pourpre. Calvatia craniiformis a d’ordinaire une base stérile brusquement rétrécie et, à maturité, une masse sporale jaune-brun, non pourpre, et elle est typiquement dépourvue des écailles en mosaïque. Calvatia fragilis est très semblable mais plus petite, avec une base stérile moins développée à maturité ; certains auteurs la traitent comme une espèce distincte, surtout dans l’ouest de l’Amérique du Nord. Les espèces de Scleroderma, telles que Scleroderma citrinum, sont plus petites et plus fermes, et l’intérieur devient d’un pourpre-noir sombre, souvent marbré de blanc, dès que le sporophore est encore jeune. Une jeune Amanita montre des lames et un pied en coupe verticale, non un intérieur blanc uniforme.",
+      "notes": "En Pologne, elle a été évaluée comme menacée, avec seulement deux mentions publiées jusqu’en 2003. En Slovaquie, elle est inscrite comme champignon protégé. Certains auteurs maintiennent Calvatia fragilis séparée de cette espèce.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "he": {
+      "description": "פטריית אבק ספרוטרופית של אתרים עשבוניים, כולל מדשאות, פארקים, שדות מרעה וערבה. היא מצויה בחלקים נרחבים של צפון אמריקה, אך פחות בחוף המערבי, ומופיעה גם בדרום אמריקה, באוסטרליה וביבשות אחרות. באירופה היא ידועה רק מחלק מהמדינות, ובפולין היא נדירה.",
+      "cap": "לגוף הפרי אין כובע ברור. בבגרותו רוחבו בדרך כלל 8–20 ס\"מ וגובהו 8–17 ס\"מ; דיווחים אחדים מציינים 5–20 ס\"מ לגובה או לרוחב, והמספרים האירופיים שפורסמו כוללים רוחב של 6–12 ס\"מ וגובה עד 10 ס\"מ. בצעירותו הוא כדורי, ואחר כך מפתח חלק בסיסי עבה הצר מעט מהחלק העליון, כך שגוף הפרי הבשל דומה בדרך כלל לאגס הפוך או לכיכר לחם. פני השטח החיצוניים שזופים עד חומים בהירים, מתפצלים לעיתים קרובות לקשקשים קטנים דמויי פסיפס, ובהמשך נעשים חומים בהירים מאוד, אפרפרים או כמעט לבנים, עם פסיפס קלוש של שדות ונקודות חומות. העור יבש ועוביו כ־1–2 מ\"מ.",
+      "hymenium": "הגלבָה ממלאת את החלק העליון של גוף הפרי, ובצעירותה היא לבנה ומוצקה. אחר כך היא נעשית דו־לשכתית במגע, והחלק העליון הפורֶה מופרד מהבסיס העקר; תוארה גם סרעפת דקה ביניהם. הגלבָה מצהיבה ולבסוף הופכת לאבקה חומה־סגולה עמוקה עד סגולה־חומה. אין דפים. העור אינו נפתח בנקב יחיד מתמשך; החלק העליון נסדק ונושר, והאבקה משתחררת ברוח ובגשם. חוטי הקפיליטיום רוחבם כ־2–5 µm, ודופנותיהם בעובי כ־0,5 µm, הם שקופים בהידרוקסיד אשלגן, חלקים או מנוקדים דק מאוד וצרים מעט במחיצות; דיווחים אחרים מציינים חוטים ברוחב 3–7,5 µm או כ־2,5 µm.",
+      "stipe": "אין רגל אמיתית. כשגוף הפרי מבשיל מתפתח בסיס עקר עבה, הצר מעט מהחלק העליון הפורֶה, וחבל תפטיר חזק עשוי לעגן את הבסיס לקרקע. דיווח אחד מתאר בסיס רחב שממנו יוצא חבל תפטיר עבה. לאחר שאבקת הנבגים התפזרה, הבסיס העקר עשוי להישאר שבועות כגביע רך דמוי עור, ששפתו העליונה מרופטת.",
+      "flesh": "בצעירותו הפנים לבן, מוצק ואחיד, בלי ראשית דפים. הריח והטעם אינם ייחודיים. הידרוקסיד אשלגן אינו גורם לשינוי צבע על פני השטח החיצוניים. כשהנבגים מבשילים הגלבָה מצהיבה ואחר כך נעשית סגולה, והבסיס העקר מצהיב, מאוחר יותר זיתי. כשהפנים אינו עוד לבן, משאירים את גוף הפרי.",
+      "sporePrint": "כל עוד גוף הפרי סגור, לא מתקבלת טביעת נבגים רגילה. אבקת הנבגים הבשלה סגולה, או סגולה עד חומה־סגולה. הנבגים כדוריים, קוטרם 3–6 µm כולל הקישוט, מכוסים קוצים באורך 0,5–1 µm, שקופים בהידרוקסיד אשלגן וחומים בריאגנט מלצר; דיווחים אחדים מציינים 3,5–7,5 µm.",
+      "habitat": "היא מניבה על הקרקע בעשב: במדשאות, בפארקים, במגרשי גולף, בשדות מרעה, בערבה ובאתרים עשבוניים פתוחים אחרים או יבשים־חמים, לעיתים ביער פתוח או לאורך דרכים, בודדת, מפוזרת, בקבוצות או במעגלי מכשפות. בחלקים נרחבים של צפון אמריקה היא מופיעה בקיץ ובסתיו; במזרח טקסס ובמרכזה מיוני עד אוקטובר; דיווחים צפוניים יותר מדגישים את סוף הקיץ ואת ראשית הסתיו, או אוגוסט עד אוקטובר. גופי הפרי באים לעיתים קרובות אחרי גשם כבד. הבסיסים העקרים עשויים להישאר גם לאחר העונה.",
+      "uses": "אוכלים רק גופי פרי שהפנים שלהם עדיין לבן טהור ומוצק. דיווחים אחדים מכנים פרטים צעירים מצוינים או משובחים. מכינים אותם כמו פטריות אבק גדולות אחרות. כשהבשר מצהיב או נעשה חום, משאירים את גוף הפרי.",
+      "confusion": "Calvatia gigantea חלקה ובחירה יותר בדרך כלל, לעיתים קרובות גדולה יותר, וחסרה בסיס עקר מפותח היטב; מסת הנבגים הבשלה שלה חומה־זיתית עד חומה, לא סגולה. ל־Calvatia craniiformis יש בדרך כלל בסיס עקר המצטמצם בחדות, ובבגרות מסת נבגים צהובה־חומה, לא סגולה, ובדרך כלל חסרים הקשקשים דמויי הפסיפס. Calvatia fragilis דומה מאוד אך קטנה יותר, עם בסיס עקר פחות מפותח בבגרות; מחברים אחדים מתייחסים אליה כמין נפרד, במיוחד במערב צפון אמריקה. מיני Scleroderma, למשל Scleroderma citrinum, קטנים ומוצקים יותר, והפנים כבר בצעירותו נעשה שחור־סגול כהה, לעיתים קרובות עם שיש לבן. Amanita צעירה מציגה בחתך אנכי דפים ורגל, לא פנים לבן אחיד.",
+      "notes": "בפולין היא הוערכה כמאוימת, ועד 2003 פורסמו רק שני ממצאים. בסלובקיה היא רשומה כפטרייה מוגנת. מחברים אחדים מפרידים את Calvatia fragilis ממין זה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह घास वाले स्थानों, जिनमें लॉन, उद्यान, चरागाह और प्रेयरी शामिल हैं, का एक सैप्रोट्रॉफ़िक धूआँ-कवक है। यह उत्तरी अमेरिका के बड़े भाग में सामान्य है, पश्चिमी तट पर कम, और दक्षिण अमेरिका, ऑस्ट्रेलिया तथा अन्य महाद्वीपों में भी पाया जाता है। यूरोप में यह केवल कुछ देशों से ज्ञात है और पोलैंड में दुर्लभ है।",
+      "cap": "फलन-काय की कोई स्पष्ट टोपी नहीं होती। परिपक्व अवस्था में यह आमतौर पर 8–20 सेमी चौड़ा और 8–17 सेमी ऊँचा होता है; कुछ विवरण ऊँचाई या चौड़ाई के लिए 5–20 सेमी देते हैं, और प्रकाशित यूरोपीय आँकड़ों में 6–12 सेमी चौड़ाई तथा अधिकतम 10 सेमी ऊँचाई शामिल हैं। युवा अवस्था में यह गोलाकार होता है, फिर एक मोटी आधारीय भाग विकसित करता है जो ऊपरी भाग से थोड़ा संकरा होता है, इसलिए परिपक्व फलन-काय आमतौर पर उल्टे नाशपाती या रोटी जैसा लगता है। बाहरी सतह टैन से हल्के भूरे रंग की होती है, अक्सर छोटे मोज़ेक जैसे शल्कों में टूटती है, और बाद में बहुत हल्की भूरी, धूसर या लगभग सफ़ेद हो जाती है, जिसमें फीका मोज़ेक और भूरे धब्बे होते हैं। छिलका सूखा होता है और लगभग 1–2 मिमी मोटा होता है।",
+      "hymenium": "ग्लेबा फलन-काय के ऊपरी भाग को भरती है और युवा अवस्था में सफ़ेद तथा ठोस होती है। बाद में यह बनावट में दो-कक्षीय हो जाती है, जिससे उर्वर ऊपरी भाग बांझ आधार से अलग होता है, और उनके बीच एक पतला डायाफ्राम भी वर्णित किया गया है। ग्लेबा पीली पड़ती है और अंत में गहरा भूरा-बैंगनी से बैंगनी-भूरा चूर्ण बन जाती है। गिल नहीं होते। छिलका एक स्थायी छिद्र से नहीं खुलता; ऊपरी भाग फट कर गिर जाता है, और चूर्ण हवा तथा वर्षा से निकलता है। कैपिलिटियम तंतु लगभग 2–5 µm चौड़े होते हैं, दीवारें लगभग 0.5 µm मोटी, पोटैशियम हाइड्रॉक्साइड में पारदर्शी, चिकने या बहुत सूक्ष्म बिंदीदार और पटलों पर थोड़े संकरे; अन्य विवरण 3–7.5 µm या लगभग 2.5 µm चौड़ाई के तंतु देते हैं।",
+      "stipe": "कोई वास्तविक डंठल नहीं होता। फलन-काय के पकने पर एक मोटा बांझ आधार विकसित होता है, उर्वर ऊपरी भाग से थोड़ा संकरा, और एक मजबूत माइसीलियम रज्जु आधार को मिट्टी से बाँध सकती है। एक विवरण एक चौड़े आधार का उल्लेख करता है जिससे एक मोटी माइसीलियम रज्जु निकलती है। बीजाणु-समूह के बिखरने के बाद बांझ आधार हफ्तों तक एक नरम, चमड़े जैसी प्याली के रूप में रह सकता है, जिसका ऊपरी किनारा फटा होता है।",
+      "flesh": "युवा अवस्था में भीतरी भाग सफ़ेद, ठोस और एकसमान होता है, बिना गिल-आदि के। गंध और स्वाद विशेष नहीं होते। पोटैशियम हाइड्रॉक्साइड बाहरी सतह पर रंग नहीं बदलता। बीजाणुओं के पकने पर ग्लेबा पीली फिर बैंगनी हो जाती है, और बांझ आधार पीला, बाद में जैतूनी हो जाता है। जब भीतरी भाग अब सफ़ेद नहीं रहता, फलन-काय छोड़ दिया जाता है।",
+      "sporePrint": "जब तक फलन-काय बंद रहता है, साधारण बीजाणु-छाप नहीं मिलती। परिपक्व बीजाणु-चूर्ण बैंगनी होता है, या बैंगनी से बैंगनी-भूरा। बीजाणु गोलाकार होते हैं, अलंकरण सहित व्यास 3–6 µm, 0.5–1 µm लंबे काँटों से ढके, पोटैशियम हाइड्रॉक्साइड में पारदर्शी और मेल्ज़र अभिकर्मक में भूरे; कुछ विवरण 3.5–7.5 µm देते हैं।",
+      "habitat": "यह घास में भूमि पर फलता है: लॉन, उद्यान, गोल्फ़ मैदान, चरागाह, प्रेयरी और अन्य खुले घास वाले या शुष्क-ऊष्ण स्थानों पर, कभी-कभी खुले वन या सड़कों के किनारे, अकेला, बिखरा, समूहों में या चुड़ैल-वृत्तों में। उत्तरी अमेरिका के बड़े भाग में यह ग्रीष्म और शरद में दिखाई देता है; पूर्वी और मध्य टेक्सास में जून से अक्टूबर तक; अधिक उत्तरी विवरण देर ग्रीष्म और प्रारंभिक शरद, या अगस्त से अक्टूबर पर बल देते हैं। फलन-काय अक्सर भारी वर्षा के बाद आते हैं। बांझ आधार मौसम के बाद भी रह सकते हैं।",
+      "uses": "केवल वे फलन-काय खाए जाते हैं जिनका भीतरी भाग अभी भी शुद्ध सफ़ेद और ठोस हो। कुछ विवरण युवा नमूनों को उत्कृष्ट या चुनिंदा कहते हैं। इन्हें अन्य बड़े धूआँ-कवकों की तरह तैयार किया जाता है। जब गूदा पीला या भूरा हो जाए, फलन-काय छोड़ दिया जाता है।",
+      "confusion": "Calvatia gigantea आमतौर पर अधिक चिकनी और फीकी होती है, अक्सर बड़ी, और उसका बांझ आधार अच्छा विकसित नहीं होता; उसका परिपक्व बीजाणु-समूह जैतूनी-भूरा से भूरा होता है, बैंगनी नहीं। Calvatia craniiformis का बांझ आधार आमतौर पर अचानक संकरा होता है, परिपक्व अवस्था में बीजाणु-समूह पीला-भूरा होता है न कि बैंगनी, और मोज़ेक शल्क आमतौर पर नहीं होते। Calvatia fragilis बहुत समान है किंतु छोटी, परिपक्व अवस्था में कम विकसित बांझ आधार के साथ; कुछ लेखक इसे अलग प्रजाति मानते हैं, विशेषकर पश्चिमी उत्तरी अमेरिका में। Scleroderma की प्रजातियाँ, उदाहरण के लिए Scleroderma citrinum, छोटी और अधिक ठोस होती हैं, और भीतरी भाग युवा अवस्था में ही गहरा बैंगनी-काला हो जाता है, अक्सर सफ़ेद संगमरमर जैसी धारियों के साथ। युवा Amanita ऊर्ध्व काट में गिल और डंठल दिखाती है, एकसमान सफ़ेद भीतरी भाग नहीं।",
+      "notes": "पोलैंड में इसे संकटग्रस्त आंका गया है, और 2003 तक केवल दो प्रकाशित अभिलेख थे। स्लोवाकिया में इसे संरक्षित कवक के रूप में सूचीबद्ध किया गया है। कुछ लेखक Calvatia fragilis को इस प्रजाति से अलग रखते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Saprotrofna puhara travnatih staništa, uključujući travnjake, parkove, pašnjake i preriju. Česta je na velikom dijelu Sjeverne Amerike, ali manje na zapadnoj obali, a javlja se i u Južnoj Americi, Australiji i na drugim kontinentima. U Europi je poznata samo iz nekih zemalja i rijetka je u Poljskoj.",
+      "cap": "Plodište nema izrazit klobuk. U zrelosti je obično široko 8–20 cm i visoko 8–17 cm; neki podaci navode 5–20 cm za visinu ili širinu, a objavljene europske brojke uključuju 6–12 cm širine i do 10 cm visine. Mlado je kuglasto, zatim razvija debeli bazalni dio, malo uži od gornjeg dijela, pa zrelo plodište obično nalikuje okrenutoj kruški ili kruhu. Vanjska površina je žućkastosmeđa do svijetlosmeđa, često se lomi u sitne mozaikaste ljuske i kasnije postaje vrlo svijetlosmeđa, sivkasta ili gotovo bijela, sa slabim mozaikom polja i smeđkastim točkicama. Koža je suha i debela otprilike 1–2 mm.",
+      "hymenium": "Gleba ispunjava gornji dio plodišta i u mladosti je bijela i čvrsta. Kasnije postaje teksturalno dvokomorna, plodni gornji dio odvojen je od sterilne baze, a opisan je i tanka dijafragma između njih. Gleba postaje žućkasta i naposljetku duboko smeđeljubičasti do ljubičastosmeđi prah. Listića nema. Koža se ne otvara jednim trajnim porom; gornji dio puca i otpada, a prah oslobađaju vjetar i kiša. Niti kapilicija široke su otprilike 2–5 µm, sa stjenkama debelima otprilike 0,5 µm, hijaline u kalijevu hidroksidu, glatke ili vrlo fino točkaste i malo sužene na septama; drugi podaci navode niti od 3–7,5 µm ili otprilike 2,5 µm širine.",
+      "stipe": "Prave stručka nema. Kad plodište dozrijeva, razvija se debela sterilna baza, malo uža od plodnog gornjeg dijela, a debela micelijska vrpca može pričvrstiti bazu za tlo. Jedan izvor opisuje široku bazu iz koje izlazi debela micelijska vrpca. Nakon raspršivanja spore mase sterilna baza može tjednima ostati kao mekana, kožasta čaša s izreskanim gornjim rubom.",
+      "flesh": "U mladosti unutrašnjost je bijela, čvrsta i jednolična, bez začetaka listića. Miris i okus nisu karakteristični. Kalijev hidroksid ne uzrokuje promjenu boje na vanjskoj površini. Kako spore dozrijevaju, gleba postaje žuta, zatim ljubičasta, a sterilna baza žućkasta, kasnije maslinasta. Kad unutrašnjost više nije bijela, plodište se ostavlja.",
+      "sporePrint": "Dok je plodište zatvoreno, uobičajeni otisak spora ne dobiva se. Zreli prah spora ljubičast je, ili ljubičast do ljubičastosmeđ. Spore su kuglaste, promjera 3–6 µm uključujući ornamentaciju, prekrivene bodljama dugima 0,5–1 µm, hijaline u kalijevu hidroksidu i smeđkaste u Melzerovu reagensu; neki podaci navode 3,5–7,5 µm.",
+      "habitat": "Plodi na tlu u travi: na travnjacima, u parkovima, na golf-terenima, pašnjacima, preriji i drugim otvorenim travnatim ili kserotermnim staništima, ponekad u otvorenoj šumi ili uz ceste, pojedinačno, raspršeno, u skupinama ili u vještičjim krugovima. Na velikom dijelu Sjeverne Amerike pojavljuje se ljeti i u jesen; u istočnom i središnjem Texasu od lipnja do listopada; sjeverniji podaci ističu kasno ljeto i ranu jesen, ili kolovoz do listopada. Plodišta često slijede nakon obilne kiše. Sterilne baze mogu ostati i nakon sezone.",
+      "uses": "Jedu se samo plodišta čija je unutrašnjost još čisto bijela i čvrsta. Neki izvori mlade primjerke nazivaju izvrsnima ili odabranima. Pripremaju se kao druge velike puhare. Kad meso postane žuto ili smeđkasto, plodište se ostavlja.",
+      "confusion": "Calvatia gigantea obično je glađa i blijeda, često veća, i nema dobro razvijenu sterilnu bazu; njezina zrela spora masa maslinastosmeđa je do smeđa, a ne ljubičasta. Calvatia craniiformis obično ima oštro suženu sterilnu bazu i u zrelosti žutosmeđu, a ne ljubičastu, spora masu te tipično nema mozaikaste ljuske. Calvatia fragilis vrlo je slična, ali manja, sa slabije razvijenom sterilnom bazom u zrelosti; neki autori tretiraju je kao zasebnu vrstu, osobito na zapadu Sjeverne Amerike. Vrste roda Scleroderma, primjerice Scleroderma citrinum, manje su i čvršće, a unutrašnjost već u mladosti postaje tamno ljubičastocrna, često s bijelim marmoriranjem. Mlada Amanita u okomitom presjeku pokazuje listiće i stručak, a ne jednoličnu bijelu unutrašnjost.",
+      "notes": "U Poljskoj je ocijenjena kao ugrožena, do 2003. s samo dva objavljena nalaza. U Slovačkoj je navedena kao zaštićena gljiva. Neki autori drže Calvatia fragilis odvojenom od ove vrste.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Szaprotróf pöfeteg füves helyeken, többek között gyepeskertekben, parkokban, legelőkön és a prérin. Észak-Amerika nagy részén gyakori, a nyugati parton azonban kevésbé, és Dél-Amerikában, Ausztráliában és más földrészeken is előfordul. Európában csak néhány országból ismert, és Lengyelországban ritka.",
+      "cap": "A termőtestnek nincs különálló kalapja. Éretten általában 8–20 cm széles és 8–17 cm magas; egyes adatok 5–20 cm-t adnak a magasságra vagy a szélességre, a közölt európai számok között pedig 6–12 cm szélesség és akár 10 cm magasság szerepel. Fiatalon gömbölyű, majd vastag, a felső résznél kissé keskenyebb tőrészt fejleszt, ezért az érett termőtest általában fordított körtére vagy cipóra emlékeztet. A külső felszín barnássárgás vagy halványbarna, gyakran kis mozaikszerű pikkelyekre hasad, később nagyon halványbarnává, szürkésé vagy majdnem fehérré válik, halvány mozaikmezőkkel és barnás pontokkal. A bőr száraz, körülbelül 1–2 mm vastag.",
+      "hymenium": "A gleba kitölti a termőtest felső részét, és fiatalon fehér és szilárd. Később szerkezetében kétüregűvé válik, a termékeny felső rész elkülönül a sterilis tőtől, és e kettő között vékony rekeszfalat is leírtak. A gleba sárgás lesz, végül mély barnáslila vagy lilásbarna porrá. Lelemezek nincsenek. A bőr nem egyetlen tartós póruson nyílik; a felső rész bereped és lehull, a port a szél és az eső szabadítja fel. A kapillíciumfonalak körülbelül 2–5 µm szélesek, falaik körülbelül 0,5 µm vastagok, kálium-hidroxidban hialinok, simák vagy nagyon finoman pontozottak, és a harántfalaknál kissé beszűkülnek; más adatok 3–7,5 µm vagy körülbelül 2,5 µm szélességet adnak.",
+      "stipe": "Valódi tönkje nincs. A termőtest érésekor vastag sterilis tő alakul ki, kissé keskenyebb, mint a termékeny felső rész, és erős micéliumzsinór rögzítheti a tőt a talajhoz. Egy leírás széles tőt említ, amelyből vastag micéliumzsinór indul. A spóratömeg szétterjedése után a sterilis tő hetekig megmaradhat puha, bőrszerű csészeként, foszlott felső peremmel.",
+      "flesh": "Fiatalon a belseje fehér, szilárd és egyenletes, lemezkezdemények nélkül. A szag és az íz nem jellegzetes. A kálium-hidroxid a külső felszínen nem okoz színváltozást. A spórák érésekor a gleba sárga, majd lila lesz, a sterilis tő pedig sárgás, később olívszínű. Ha a belseje már nem fehér, a termőtestet hagyják.",
+      "sporePrint": "Amíg a termőtest zárt, szokásos spóralenyomat nem készíthető. Az érett spórapor lila, vagy lila illetve lilásbarna. A spórák gömbölyűek, a díszítéssel együtt 3–6 µm átmérőjűek, 0,5–1 µm hosszú tüskékkel borítottak, kálium-hidroxidban hialinok, Melzer-reagensben barnásak; egyes adatok 3,5–7,5 µm-t adnak.",
+      "habitat": "A talajon, fűben terem: gyepeskerteken, parkokban, golfpályákon, legelőkön, a prérin és más nyílt füves vagy xeroterm termőhelyeken, néha nyílt erdőben vagy utak mentén, magánosan, elszórtan, csoportosan vagy boszorkánykörökben. Észak-Amerika nagy részén nyáron és ősszel jelenik meg; Kelet- és Közép-Texasban júniustól októberig; északibb adatok a nyár végét és a kora őszt, vagy az augusztustól októberig terjedő időszakot emelik ki. A termőtestek gyakran heves eső után jelennek meg. A sterilis tők a szezon után is megmaradhatnak.",
+      "uses": "Csak azokat a termőtesteket fogyasztják, amelyek belseje még tiszta fehér és szilárd. Egyes leírások a fiatal példányokat kitűnőnek vagy választéknak nevezik. Úgy készítik el, mint a többi nagy pöfetegét. Ha a hús sárgává vagy barnássá válik, a termőtestet hagyják.",
+      "confusion": "A Calvatia gigantea általában simább és halványabb, gyakran nagyobb, és nincs jól fejlett sterilis töve; érett spóratömege olívbarna vagy barna, nem lila. A Calvatia craniiformisnak általában élesen beszűkülő sterilis töve van, éretten sárgásbarna, nem lila spóratömege, és tipikusan hiányoznak a mozaikpikkelyek. A Calvatia fragilis nagyon hasonló, de kisebb, éretten kevésbé fejlett sterilis tővel; egyes szerzők külön fajként kezelik, különösen Nyugat-Észak-Amerikában. A Scleroderma fajai, például a Scleroderma citrinum, kisebbek és szilárdabbak, és a belsejük már fiatalon sötét lilásfekete, gyakran fehér márványozással. A fiatal Amanita függőleges metszetben lemezeket és tönköt mutat, nem egyenletes fehér belsejt.",
+      "notes": "Lengyelországban veszélyeztetettnek minősítették, 2003-ig mindössze két közölt adattal. Szlovákiában védett gombaként szerepel. Egyes szerzők a Calvatia fragilist ettől a fajtól elkülönítve tartják.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur debuan saprotrof pada tempat berumput, termasuk halaman, taman, padang penggembalaan, dan preria. Ia umum di sebagian besar Amerika Utara, tetapi lebih jarang di pesisir barat, dan juga terdapat di Amerika Selatan, Australia, dan benua lain. Di Eropa ia hanya dikenal dari beberapa negara dan jarang di Polandia.",
+      "cap": "Tubuh buah tidak memiliki tudung yang jelas. Pada kematangan biasanya lebar 8–20 cm dan tinggi 8–17 cm; beberapa catatan memberikan 5–20 cm untuk tinggi atau lebar, dan angka Eropa yang diterbitkan mencakup lebar 6–12 cm dan tinggi hingga 10 cm. Ketika muda ia berbentuk bulat, lalu mengembangkan bagian basal tebal yang sedikit lebih sempit daripada bagian atas, sehingga tubuh buah matang biasanya menyerupai pir terbalik atau roti. Permukaan luar berwarna cokelat kekuningan hingga cokelat muda, sering retak menjadi sisik mosaik kecil, dan kemudian menjadi sangat cokelat muda, keabu-abuan, atau hampir putih, dengan mosaik samar dan bintik kecokelatan. Kulit kering dan tebalnya kira-kira 1–2 mm.",
+      "hymenium": "Gleba mengisi bagian atas tubuh buah dan pada tahap muda berwarna putih serta padat. Kemudian secara tekstur menjadi beruang dua, bagian atas fertil terpisah dari dasar steril, dan diafragma tipis di antara keduanya juga telah dijelaskan. Gleba menjadi kekuningan dan akhirnya menjadi serbuk cokelat keunguan gelap hingga ungu kecokelatan. Tidak ada lamela. Kulit tidak membuka melalui satu pori yang menetap; bagian atas retak dan rontok, dan serbuk dilepaskan oleh angin dan hujan. Benang kapilitium lebarnya kira-kira 2–5 µm, dengan dinding tebal kira-kira 0,5 µm, hialin dalam kalium hidroksida, halus atau sangat halus berbintik, dan sedikit menyempit pada septa; catatan lain memberikan benang 3–7,5 µm atau kira-kira 2,5 µm lebar.",
+      "stipe": "Tidak ada batang sejati. Ketika tubuh buah matang, berkembang dasar steril yang tebal, sedikit lebih sempit daripada bagian atas fertil, dan tali miselium yang kuat dapat menambatkan dasar ke tanah. Satu catatan menggambarkan dasar lebar yang darinya keluar tali miselium tebal. Setelah massa spora tersebar, dasar steril dapat bertahan berminggu-minggu sebagai cawan lunak seperti kulit dengan tepi atas yang bergerigi.",
+      "flesh": "Pada tahap muda bagian dalam berwarna putih, padat, dan merata, tanpa bakal lamela. Bau dan rasa tidak khas. Kalium hidroksida tidak menyebabkan perubahan warna pada permukaan luar. Ketika spora matang, gleba menjadi kuning lalu ungu, dan dasar steril menjadi kekuningan, kemudian zaitun. Jika bagian dalam tidak lagi putih, tubuh buah dibiarkan.",
+      "sporePrint": "Selama tubuh buah masih tertutup, cetakan spora biasa tidak diperoleh. Serbuk spora matang berwarna ungu, atau ungu hingga cokelat keunguan. Spora berbentuk bulat, berdiameter 3–6 µm termasuk ornamentasi, tertutup duri sepanjang 0,5–1 µm, hialin dalam kalium hidroksida dan kecokelatan dalam reagen Melzer; beberapa catatan memberikan 3,5–7,5 µm.",
+      "habitat": "Berbuah di tanah dalam rumput: di halaman, taman, lapangan golf, padang penggembalaan, preria, dan habitat berumput terbuka atau kseroterm lain, kadang di hutan terbuka atau di tepi jalan, soliter, tersebar, berkoloni, atau dalam lingkaran penyihir. Di sebagian besar Amerika Utara ia muncul pada musim panas dan musim gugur; di Texas timur dan tengah dari Juni hingga Oktober; catatan yang lebih utara menekankan akhir musim panas dan awal musim gugur, atau Agustus hingga Oktober. Tubuh buah sering mengikuti hujan lebat. Dasar steril dapat bertahan setelah musim.",
+      "uses": "Hanya tubuh buah yang bagian dalamnya masih putih murni dan padat dimakan. Beberapa catatan menyebut spesimen muda sangat baik atau pilihan. Mereka dimasak seperti jamur debuan besar lainnya. Ketika daging menjadi kuning atau kecokelatan, tubuh buah dibiarkan.",
+      "confusion": "Calvatia gigantea biasanya lebih halus dan lebih pucat, sering lebih besar, dan tidak memiliki dasar steril yang berkembang baik; massa sporanya yang matang cokelat zaitun hingga cokelat, bukan ungu. Calvatia craniiformis biasanya memiliki dasar steril yang menyempit tajam dan, pada kematangan, massa spora kuning-cokelat, bukan ungu, serta biasanya tidak memiliki sisik mosaik. Calvatia fragilis sangat mirip tetapi lebih kecil, dengan dasar steril yang kurang berkembang pada kematangan; beberapa penulis memperlakukannya sebagai spesies tersendiri, terutama di Amerika Utara barat. Spesies Scleroderma, misalnya Scleroderma citrinum, lebih kecil dan lebih padat, dan bagian dalamnya sudah pada tahap muda menjadi ungu-hitam gelap, sering dengan urat marmar putih. Amanita muda menunjukkan lamela dan batang pada potongan tegak, bukan bagian dalam putih merata.",
+      "notes": "Di Polandia ia dinilai terancam, hingga 2003 hanya dengan dua catatan yang diterbitkan. Di Slovakia ia dicantumkan sebagai jamur dilindungi. Beberapa penulis menahan Calvatia fragilis terpisah dari spesies ini.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un vescia saprotrofa di luoghi erbosi, tra cui prati, parchi, pascoli e praterie. È frequente in gran parte del Nord America, meno però sulla costa occidentale, e si trova anche in Sud America, in Australia e in altri continenti. In Europa è nota solo in alcuni paesi ed è rara in Polonia.",
+      "cap": "Il corpo fruttifero non ha un cappello distinto. A maturità misura di solito 8–20 cm di larghezza e 8–17 cm di altezza; alcuni testi indicano 5–20 cm per l’altezza o la larghezza, e le cifre europee pubblicate comprendono 6–12 cm di larghezza e fino a 10 cm di altezza. Da giovane è sferico e poi sviluppa una porzione basale spessa, un po’ più stretta della parte superiore, così che il corpo maturo di solito ricorda una pera rovesciata o una pagnotta. La superficie esterna è ocra-brunastro chiaro, spesso si rompe in piccole squame a mosaico e in seguito diventa bruno molto chiaro, grigiastra o quasi bianca, con un mosaico evanescente di riquadri e puntini brunastro. La cuticola è asciutta e spessa circa 1–2 mm.",
+      "hymenium": "La gleba occupa la parte superiore del corpo fruttifero e, da giovane, è bianca e soda. In seguito diventa testuralmente a due camere, con la porzione fertile superiore distinta dalla base sterile, ed è stato descritto anche un sottile diaframma fra le due. La gleba diventa giallastra e infine una polvere bruno-violacea scura fino a violaceo-bruna. Non ci sono lamelle. La cuticola non si apre per un unico poro persistente; la parte superiore si fende e si stacca, e la polvere è liberata dal vento e dalla pioggia. I filamenti del capillizio sono larghi circa 2–5 µm, con pareti spesse circa 0,5 µm, ialini in idrossido di potassio, lisci o molto finemente punteggiati e un po’ rastremati ai setti; altri testi indicano filamenti di 3–7,5 µm o di circa 2,5 µm di larghezza.",
+      "stipe": "Non c’è un vero gambo. Con la maturazione del corpo fruttifero si sviluppa una base sterile spessa, un po’ più stretta della parte fertile superiore, e un robusto cordone miceliare può fissare la base al terreno. Un testo descrive una base larga da cui sorge un cordone miceliare spesso. Dopo la dispersione della massa sporale, la base sterile può rimanere per settimane come una coppa morbida e coriacea, con il margine superiore sbrandellato.",
+      "flesh": "Da giovane l’interno è bianco, sodo e uniforme, senza abbozzi di lamelle. Odore e sapore non sono distintivi. L’idrossido di potassio non provoca cambiamento di colore sulla superficie esterna. Con la maturazione delle spore la gleba diventa gialla e poi violacea, e la base sterile diventa giallastra, poi olivacea con l’età. Quando l’interno non è più bianco, si lascia il corpo fruttifero.",
+      "sporePrint": "Finché il corpo fruttifero è chiuso non si ottiene una sporata ordinaria. La polvere sporale matura è violacea, o violacea fino a violaceo-bruna. Le spore sono globose, di 3–6 µm di diametro compresa l’ornamentazione, coperte di spine lunghe 0,5–1 µm, ialine in idrossido di potassio e brunastre nel reattivo di Melzer; alcuni testi indicano 3,5–7,5 µm.",
+      "habitat": "Fruttifica sul terreno, nell’erba: prati, parchi, campi da golf, pascoli, praterie e altre stazioni aperte erbose o xerotermiche, talvolta in boschi aperti o ai bordi delle strade, isolato, sparso, in gruppi o in cerchi delle streghe. In gran parte del Nord America compare in estate e in autunno; nel Texas orientale e centrale, da giugno a ottobre; i testi più settentrionali sottolineano la tarda estate e l’inizio dell’autunno, oppure agosto–ottobre. I corpi fruttiferi seguono spesso piogge abbondanti. Le basi sterili possono persistere dopo la stagione.",
+      "uses": "Si consumano solo i corpi fruttiferi il cui interno è ancora bianco puro e sodo. Alcuni testi definiscono eccellenti o pregevoli gli esemplari giovani. Si preparano come altre grandi vesce. Quando la carne diventa gialla o brunastra, si lascia il corpo fruttifero.",
+      "confusion": "Calvatia gigantea è di solito più liscia e più chiara, spesso più grande, e manca di una base sterile ben sviluppata; la sua massa sporale matura è bruno-olivastra fino a bruna, non violacea. Calvatia craniiformis ha di solito una base sterile bruscamente rastremata e, a maturità, una massa sporale giallo-bruna, non violacea, e tipicamente è priva delle squame a mosaico. Calvatia fragilis è molto simile ma più piccola, con una base sterile meno sviluppata a maturità; alcuni autori la trattano come una specie distinta, soprattutto nel Nord America occidentale. Le specie di Scleroderma, come Scleroderma citrinum, sono più piccole e più ferme, e l’interno diventa già da giovane violaceo-nero scuro, spesso con marezzature bianche. Una giovane Amanita, in sezione verticale, mostra lamelle e un gambo, non un interno bianco uniforme.",
+      "notes": "In Polonia è stata valutata come minacciata, con solo due segnalazioni pubblicate fino al 2003. In Slovacchia è elencata come fungo protetto. Alcuni autori tengono Calvatia fragilis distinta da questa specie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "芝生、公園、放牧地、プレーリーなどの草地に生じる腐生性のホコリタケである。北アメリカの広い範囲で普通だが、西海岸では少なく、南アメリカ、オーストラリアその他の大陸にも分布する。ヨーロッパでは一部の国からのみ知られ、ポーランドでは稀である。",
+      "cap": "子実体に明確な傘はない。成熟時はふつう幅 8–20 cm、高さ 8–17 cm である。高さまたは幅を 5–20 cm とする記述もあり、公表されたヨーロッパの数値には幅 6–12 cm、高さ最大 10 cm が含まれる。若いときは球形で、のちに上部よりやや細い太い基部を発達させ、成熟した子実体はふつう逆さのナシ形またはパン形になる。外面はタン色から淡褐色で、しばしば小さなモザイク状の鱗片に割れ、のちにきわめて淡い褐色、灰白色またはほぼ白色となり、不明瞭な区画模様と褐点を残す。外皮は乾燥し、厚さはおよそ 1–2 mm である。",
+      "hymenium": "グレバは子実体の上部を満たし、若いときは白色で堅い。のちに質感として二室になり、稔性のある上部が不稔の基部から分かれ、その間に薄い隔壁も記載されている。グレバは黄変し、やがて深い褐紫色から紫褐色の粉末になる。ひだはない。外皮は一つの永続的な孔では開かず、上部が裂けて落ち、粉末は風と雨で放出される。カピリティウム菌糸は幅およそ 2–5 µm、壁はおよそ 0.5 µm で、水酸化カリウム中では無色、平滑またはごく微細な点があり、隔壁部でわずかにくびれる。幅 3–7.5 µm、またはおよそ 2.5 µm とする記述もある。",
+      "stipe": "真の柄はない。子実体が成熟すると、稔性のある上部よりやや細い太い不稔基部が発達し、太い菌糸束が基部を地中に固定することがある。太い菌糸束が出る広い基部を記した記述もある。胞子塊が散ったあと、不稔基部は柔らかい革質の杯として、縁が裂けたまま何週間も残ることがある。",
+      "flesh": "若いときは内部が白色で堅く均一であり、ひだの原基はない。においと味は特徴的でない。水酸化カリウムは外面の色を変えない。胞子が成熟するとグレバは黄色、次いで紫色になり、不稔基部は黄変し、のちにオリーブ色になる。内部が白くなくなれば、子実体は食べない。",
+      "sporePrint": "子実体が閉じているあいだは、通常の胞子紋は得られない。成熟した胞子粉末は紫色、または紫色から紫褐色である。胞子は球形、装飾を含めて直径 3–6 µm、長さ 0.5–1 µm の棘に覆われ、水酸化カリウム中では無色、メルツァー試薬では褐色を帯びる。3.5–7.5 µm とする記述もある。",
+      "habitat": "草地の地上に生じる。芝生、公園、ゴルフ場、放牧地、プレーリー、その他の開けた草地や乾燥温暖地、ときに疎林や路傍に、単生、散生、群生、または菌輪をなす。北アメリカの広い範囲では夏から秋に現れ、テキサス州東部および中部では 6 月から 10 月、より北では晩夏から初秋、または 8 月から 10 月が強調される。子実体はしばしば豪雨のあとに続く。不稔基部は季節のあとにも残ることがある。",
+      "uses": "内部がまだ純粋な白色で堅い子実体だけを食用にする。若い個体を優良または上品とする記述もある。他の大型ホコリタケと同様に調理する。肉が黄色または褐色を帯びたら食べない。",
+      "confusion": "Calvatia gigantea はふつうより平滑で色が淡く、しばしばより大きく、よく発達した不稔基部を欠く。成熟した胞子塊はオリーブ褐色から褐色で、紫色ではない。Calvatia craniiformis はふつう不稔基部が急に細まり、成熟時の胞子塊は黄褐色で紫色ではなく、モザイク状の鱗片を典型的には欠く。Calvatia fragilis はよく似るがより小さく、成熟時の不稔基部がより発達していない。一部の著者は、とくに北アメリカ西部では、これを別種とする。Scleroderma 属、たとえば Scleroderma citrinum はより小さく堅く、内部は若いときからすでに暗い紫黒色になり、しばしば白い大理石模様がある。若い Amanita は縦断面でひだと柄を示し、均一な白い内部ではない。",
+      "notes": "ポーランドでは絶滅危惧と評価され、2003 年までに公表された記録はわずか 2 件である。スロバキアでは保護された菌として挙げられている。一部の著者は Calvatia fragilis を本種から分けて扱う。",
+      "names": [],
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E8%8F%8C%E8%BC%AA"
+      ],
+      "label": "スミレホコリタケ"
+    },
+    "ko": {
+      "description": "잔디밭, 공원, 목초지, 초원 등 풀이 난 곳에서 나는 부생성 말불버섯이다. 북아메리카 대부분에서 흔하지만 서해안에서는 적고, 남아메리카, 오스트레일리아 및 다른 대륙에도 분포한다. 유럽에서는 일부 나라에서만 알려져 있으며 폴란드에서는 드물다.",
+      "cap": "자실체에는 뚜렷한 갓이 없다. 성숙하면 보통 너비 8–20 cm, 높이 8–17 cm이다. 높이 또는 너비를 5–20 cm로 적는 기록도 있고, 발표된 유럽 수치에는 너비 6–12 cm, 높이 최대 10 cm가 포함된다. 어릴 때는 구형이며, 나중에 윗부분보다 조금 좁은 두꺼운 기부가 발달하여 성숙한 자실체는 보통 거꾸로 된 배 모양이나 빵 모양이 된다. 겉면은 황갈색에서 연한 갈색이며, 종종 작은 모자이크 모양의 비늘로 갈라지고, 나중에는 매우 연한 갈색, 회백색 또는 거의 흰색이 되며 흐릿한 구획과 갈색 점이 남는다. 외피는 마르고 두께는 약 1–2 mm이다.",
+      "hymenium": "글레바는 자실체 윗부분을 채우며, 어릴 때는 흰색이고 단단하다. 나중에 질감상 두 방으로 나뉘어 가임성 윗부분이 불임 기부와 구분되며, 그 사이에 얇은 격막이 기재되기도 한다. 글레바는 노랗게 변하고 마침내 짙은 갈자색 내지 자주갈색 가루가 된다. 주름살은 없다. 외피는 하나의 지속적인 구멍으로 열리지 않으며, 윗부분이 갈라져 떨어지고 가루는 바람과 비로 퍼진다. 포사균사는 너비 약 2–5 µm, 벽 두께 약 0.5 µm이며, 수산화칼륨에서는 무색이고 밋밋하거나 매우 미세한 점이 있으며 격막에서 조금 좁아진다. 너비 3–7.5 µm 또는 약 2.5 µm로 적는 기록도 있다.",
+      "stipe": "진짜 대는 없다. 자실체가 성숙하면 가임성 윗부분보다 조금 좁은 두꺼운 불임 기부가 발달하고, 굵은 균사속이 기부를 땅에 고정할 수 있다. 굵은 균사속이 나오는 넓은 기부를 적은 기록도 있다. 포자 덩어리가 흩어진 뒤 불임 기부는 가장자리가 찢어진 부드러운 가죽질의 잔으로 여러 주 남을 수 있다.",
+      "flesh": "어릴 때 내부는 흰색이고 단단하며 균일하며, 주름살 원기가 없다. 냄새와 맛은 특징적이지 않다. 수산화칼륨은 겉면의 색을 바꾸지 않는다. 포자가 성숙하면 글레바는 노랗게, 이어서 자주색으로 변하고, 불임 기부는 노르스름해졌다가 나중에 올리브색이 된다. 내부가 더 이상 흰색이 아니면 자실체는 먹지 않는다.",
+      "sporePrint": "자실체가 닫혀 있는 동안에는 보통의 포자문을 얻을 수 없다. 성숙한 포자 가루는 자주색이거나 자주색에서 자주갈색이다. 포자는 구형이고, 장식을 포함하여 지름 3–6 µm이며, 길이 0.5–1 µm의 가시로 덮여 있고, 수산화칼륨에서는 무색, 멜처 시약에서는 갈색을 띤다. 3.5–7.5 µm로 적는 기록도 있다.",
+      "habitat": "풀이 난 땅 위에 난다. 잔디밭, 공원, 골프장, 목초지, 초원 및 다른 열린 초지 또는 건조온난한 곳, 때로는 열린 숲이나 길가에, 단생, 산생, 군생 또는 균환을 이룬다. 북아메리카 대부분에서는 여름과 가을에 나타나며, 텍사스 동부와 중부에서는 6월부터 10월까지, 더 북쪽의 기록은 늦은 여름과 초가을, 또는 8월부터 10월을 강조한다. 자실체는 종종 폭우 뒤에 따른다. 불임 기부는 계절이 지난 뒤에도 남을 수 있다.",
+      "uses": "내부가 아직 순백색이고 단단한 자실체만 먹는다. 어린 개체를 우수하거나 상등이라고 적은 기록도 있다. 다른 큰 말불버섯과 같이 조리한다. 살이 노랗거나 갈색을 띠면 먹지 않는다.",
+      "confusion": "Calvatia gigantea는 보통 더 매끈하고 색이 옅으며 종종 더 크고, 잘 발달한 불임 기부가 없다. 성숙한 포자 덩어리는 올리브갈색에서 갈색이며 자주색이 아니다. Calvatia craniiformis는 보통 갑자기 좁아진 불임 기부가 있고, 성숙 시 포자 덩어리는 황갈색이지 자주색이 아니며, 전형적으로 모자이크 비늘이 없다. Calvatia fragilis는 매우 닮았으나 더 작고, 성숙 시 불임 기부가 덜 발달한다. 일부 저자는 특히 북아메리카 서부에서 이를 별종으로 다룬다. Scleroderma속의 종, 예를 들어 Scleroderma citrinum은 더 작고 단단하며, 내부는 어릴 때부터 이미 어두운 자주흑색이 되고 흔히 흰 대리석 무늬가 있다. 어린 Amanita는 세로 단면에서 주름살과 대를 보이며, 균일한 흰 내부가 아니다.",
+      "notes": "폴란드에서는 위협받는 종으로 평가되었고, 2003년까지 발표된 기록은 단 두 건이다. 슬로바키아에서는 보호되는 버섯으로 기재되어 있다. 일부 저자는 Calvatia fragilis를 이 종과 따로 취급한다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Saprotrofinis kukurdvelkis žolėtose vietose, įskaitant vejas, parkus, ganyklas ir prerijas. Jis dažnas didelėje Šiaurės Amerikos dalyje, bet retesnis vakarų pakrantėje, ir aptinkamas ir Pietų Amerikoje, Australijoje bei kituose žemynuose. Europoje žinomas tik kai kuriose šalyse ir Lenkijoje retas.",
+      "cap": "Vaisiakūnis neturi ryškios kepurėlės. Subrendęs paprastai būna 8–20 cm pločio ir 8–17 cm aukščio; kai kurie duomenys nurodo 5–20 cm aukščiui arba pločiui, o paskelbti Europos skaičiai apima 6–12 cm plotį ir iki 10 cm aukštį. Jaunas jis rutuliškas, vėliau išsivysto stora pamatinė dalis, šiek tiek siauresnė už viršutinę, todėl subrendęs vaisiakūnis paprastai primena apverstą kriaušę arba kepalą. Išorinis paviršius rusvas iki šviesiai rudo, dažnai suskyla į smulkias mozaikines žvynelius ir vėliau tampa labai šviesiai rudas, pilkšvas arba beveik baltas, su neryškia mozaika ir rusvais taškeliais. Odelė sausa, apie 1–2 mm storio.",
+      "hymenium": "Gleba užpildo viršutinę vaisiakūnio dalį ir jauname amžiuje būna balta ir kieta. Vėliau tekstūra tampa dviejų kamerų: derlingoji viršutinė dalis atsiskiria nuo sterilaus pagrindo, o tarp jų aprašyta ir plona diafragma. Gleba pagelsta ir galiausiai virsta tamsiai rausvai violetiniais iki violetiškai rudais milteliais. Lakštelių nėra. Odelė neatsiveria viena nuolatine pore; viršutinė dalis sutrūkinėja ir nukrenta, o miltelius išlaisvina vėjas ir lietus. Kapilicijaus gijos yra apie 2–5 µm pločio, sienelės apie 0,5 µm storio, kalio hidrokside hialininės, lygios arba labai smulkiai taškuotos ir prie pertvarų šiek tiek susiaurėjusios; kiti duomenys nurodo 3–7,5 µm arba apie 2,5 µm pločio gijas.",
+      "stipe": "Tikro koto nėra. Vaisiakūniui bręstant išsivysto storas sterilus pagrindas, šiek tiek siauresnis už derlingąją viršutinę dalį, o tvirtas micelio šniūras gali pritvirtinti pagrindą prie dirvos. Viename aprašyme nurodytas platus pagrindas, iš kurio išeina storas micelio šniūras. Išsisklaidžius sporų masei sterilus pagrindas savaitėmis gali išlikti minkštu, odišku taureliu su apiplyšusiu viršutiniu kraštu.",
+      "flesh": "Jauname amžiuje vidus baltas, kietas ir vienodas, be lakštelių užuomazgų. Kvapas ir skonis nėra būdingi. Kalio hidroksidas išoriniame paviršiuje spalvos nekeičia. Sporoms bręstant gleba pagelsta, paskui tampa violetinė, o sterilus pagrindas gelsvas, vėliau alyvinis. Kai vidus jau nebėra baltas, vaisiakūnis paliekamas.",
+      "sporePrint": "Kol vaisiakūnis uždaras, įprasto sporų atspaudo negaunama. Subrendę sporų milteliai violetiniai arba violetiniai iki violetiškai rudi. Sporos rutuliškos, 3–6 µm skersmens įskaitant ornamentaciją, apaugusios 0,5–1 µm ilgio dygliukais, kalio hidrokside hialininės ir Melzerio reagentu rusvos; kai kurie duomenys nurodo 3,5–7,5 µm.",
+      "habitat": "Derlius duoda ant žemės žolėje: vejose, parkuose, golfo aikštynuose, ganyklose, prerijose ir kitose atvirose žolėtose ar kseroterminėse buveinėse, kartais atvirame miške ar prie kelių, pavieniui, išsibarstę, grupėmis arba raganų žiedais. Didelėje Šiaurės Amerikos dalyje pasirodo vasarą ir rudenį; rytiniame ir centriniame Teksase nuo birželio iki spalio; šiauresni duomenys pabrėžia vėlyvą vasarą ir ankstyvą rudenį arba rugpjūtį–spalį. Vaisiakūniai dažnai seka po smarkaus lietaus. Sterilūs pagrindai gali išlikti ir po sezono.",
+      "uses": "Valgomi tik tie vaisiakūniai, kurių vidus dar grynas baltas ir kietas. Kai kurie aprašymai jaunus egzempliorius vadina puikiais ar rinktiniais. Jie ruošiami kaip kiti dideli kukurdvelkiai. Kai minkštimas pagelsta arba paruduoja, vaisiakūnis paliekamas.",
+      "confusion": "Calvatia gigantea paprastai lygesnė ir blanksnė, dažnai didesnė, ir neturi gerai išsivysčiusio sterilaus pagrindo; jos subrendusi sporų masė alyvinai ruda iki rudos, ne violetinė. Calvatia craniiformis paprastai turi staiga susiaurėjusį sterilų pagrindą ir subrendusi gelsvai rudą, ne violetinę, sporų masę, o mozaikinių žvynelių paprastai neturi. Calvatia fragilis labai panaši, bet mažesnė, su silpniau išsivysčiusiu steriliu pagrindu subrendusi; kai kurie autoriai ją laiko atskira rūšimi, ypač vakarų Šiaurės Amerikoje. Scleroderma rūšys, pavyzdžiui Scleroderma citrinum, yra mažesnės ir kietesnės, o vidus jau jauname amžiuje tampa tamsiai violetiškai juodas, dažnai su baltu marmuriniu piešiniu. Jauna Amanita vertikaliame pjūvyje rodo lakštelius ir kotą, o ne vienodą baltą vidų.",
+      "notes": "Lenkijoje ji įvertinta kaip nykstanti, iki 2003 m. paskelbti tik du radiniai. Slovakijoje nurodoma kaip saugomas grybas. Kai kurie autoriai Calvatia fragilis laiko atskirai nuo šios rūšies.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Saprotrofa pūpēdis zālainās vietās, tostarp zālienos, parkos, ganībās un prerijās. Tā ir bieža lielā daļā Ziemeļamerikas, taču retāka rietumu piekrastē, un sastopama arī Dienvidamerikā, Austrālijā un citos kontinentos. Eiropā tā zināma tikai dažās valstīs un Polijā ir reta.",
+      "cap": "Augļķermenim nav izteiktas cepurītes. Nobriedis tas parasti ir 8–20 cm plats un 8–17 cm augsts; daži avoti norāda 5–20 cm augstumam vai platumam, un publicētie Eiropas skaitļi ietver 6–12 cm platumu un līdz 10 cm augstumu. Jauns tas ir lodveida, pēc tam attīstās bieza pamatnes daļa, kas ir nedaudz šaurāka par augšējo daļu, tāpēc nobriedis augļķermenis parasti atgādina apgrieztu bumbieri vai maizes klaipu. Ārējā virsma ir dzeltenbrūna līdz gaiši brūnai, bieži saplaisā sīkās mozaīkas zvīņās un vēlāk kļūst ļoti gaiši brūna, pelēcīga vai gandrīz balta, ar vāju mozaīku un brūnganiem punktiem. Miza ir sausa, apmēram 1–2 mm bieza.",
+      "hymenium": "Gleba aizpilda augļķermeņa augšējo daļu un jaunībā ir balta un cieta. Vēlāk tekstūrā tā kļūst divkameru: auglīgā augšējā daļa atdalās no sterilās pamatnes, un starp tām aprakstīta arī plāna diafragma. Gleba kļūst dzeltenīga un visbeidzot par dziļi brūnvioletu līdz violetbrūnu pulveri. Lapiņu nav. Miza neatveras ar vienu pastāvīgu poru; augšējā daļa saplaisā un nokrīt, un pulveri atbrīvo vējš un lietus. Kapilīcija pavedieni ir apmēram 2–5 µm plati, ar sienām apmēram 0,5 µm biezām, kālija hidroksīdā hialīni, gludi vai ļoti sīki punktoti un pie starpsienām nedaudz sašaurināti; citi avoti norāda pavedienus 3–7,5 µm vai apmēram 2,5 µm platumā.",
+      "stipe": "Īstas kātiņa nav. Augļķermenim nogatavojoties, attīstās bieza sterila pamatne, nedaudz šaurāka par auglīgo augšējo daļu, un resns micēlija saite var piestiprināt pamatni pie augsnes. Viens apraksts min plašu pamatni, no kuras iziet resns micēlija saite. Pēc sporu masas izkliedēšanās sterila pamatne nedēļām var palikt kā mīksta, ādaina kauss ar plēstu augšējo malu.",
+      "flesh": "Jaunībā iekšpuse ir balta, cieta un vienmērīga, bez lapiņu aizmetņiem. Smarža un garša nav raksturīgas. Kālija hidroksīds ārējā virsmā krāsu nemaina. Sporām nogatavojoties, gleba kļūst dzeltena, pēc tam violeta, un sterila pamatne dzeltenīga, vēlāk olīvzaļa. Kad iekšpuse vairs nav balta, augļķermeni atstāj.",
+      "sporePrint": "Kamēr augļķermenis ir slēgts, parastu sporu nospiedumu neiegūst. Nobriedušais sporu pulveris ir violets vai violets līdz violetbrūnam. Sporas ir lodveida, 3–6 µm diametrā ieskaitot ornamentāciju, klātas ar 0,5–1 µm gariem dzeloņiem, kālija hidroksīdā hialīnas un Melcera reaģentā brūnganas; daži avoti norāda 3,5–7,5 µm.",
+      "habitat": "Aug uz augsnes zālē: zālienos, parkos, golfa laukumos, ganībās, prerijās un citās atklātās zālainās vai kserotermās dzīvotnēs, reizēm atklātā mežā vai ceļmalās, pa vienam, izklaidus, grupās vai raganu riņķos. Lielā daļā Ziemeļamerikas tā parādās vasarā un rudenī; Teksasas austrumos un centrālajā daļā no jūnija līdz oktobrim; ziemeļāki avoti uzsver vasaras beigas un agru rudeni vai augustu–oktobri. Augļķermeņi bieži seko pēc stipra lietus. Sterilās pamatnes var palikt arī pēc sezonas.",
+      "uses": "Ēd tikai tos augļķermeņus, kuru iekšpuse vēl ir tīri balta un cieta. Daži avoti jaunus īpatņus dēvē par izciliem vai izraudzītiem. Tos gatavo tāpat kā citas lielas pūpēdes. Kad mīkstums kļūst dzeltens vai brūngans, augļķermeni atstāj.",
+      "confusion": "Calvatia gigantea parasti ir gludāka un bālāka, bieži lielāka, un tai nav labi attīstītas sterilas pamatnes; tās nobriedusī sporu masa ir olīvbrūna līdz brūnai, nevioleta. Calvatia craniiformis parasti ir strauji sašaurināta sterila pamatne un nobriedumā dzeltenbrūna, nevioleta, sporu masa, un tai tipiski trūkst mozaīkas zvīņu. Calvatia fragilis ir ļoti līdzīga, bet mazāka, ar vājāk attīstītu sterilu pamatni nobriedumā; daži autori to uzskata par atsevišķu sugu, īpaši rietumu Ziemeļamerikā. Scleroderma sugas, piemēram Scleroderma citrinum, ir mazākas un cietākas, un iekšpuse jau jaunībā kļūst tumši violetmelna, bieži ar baltu marmora zīmējumu. Jauna Amanita vertikālā griezumā rāda lapiņas un kātiņu, nevis vienmērīgi baltu iekšpusi.",
+      "notes": "Polijā tā novērtēta kā apdraudēta; līdz 2003. gadam publicēti tikai divi atradumi. Slovākijā tā norādīta kā aizsargājama sēne. Daži autori Calvatia fragilis no šīs sugas nošķir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een saprotrofe stuifzwam van grazige plaatsen, waaronder gazons, parken, weiden en prairie. Hij is algemeen over een groot deel van Noord-Amerika, maar minder aan de westkust, en komt ook voor in Zuid-Amerika, Australië en op andere continenten. In Europa is hij slechts uit enkele landen bekend en in Polen zeldzaam.",
+      "cap": "Het vruchtlichaam heeft geen duidelijke hoed. Rijp is het gewoonlijk 8–20 cm breed en 8–17 cm hoog; sommige opgaven geven 5–20 cm voor de hoogte of de breedte, en gepubliceerde Europese cijfers omvatten 6–12 cm breedte en tot 10 cm hoogte. Jong is het bolvormig en ontwikkelt daarna een dik basaal deel, iets smaller dan het bovenste deel, zodat het rijpe vruchtlichaam meestal op een omgekeerde peer of een brood lijkt. Het buitenoppervlak is beige tot lichtbruin, breekt vaak in kleine mozaïekachtige schubben en wordt later zeer lichtbruin, grijsachtig of bijna wit, met een vaag mozaïek van vakjes en bruinachtige stippen. De huid is droog en ongeveer 1–2 mm dik.",
+      "hymenium": "De gleba vult het bovenste deel van het vruchtlichaam en is jong wit en stevig. Later wordt hij textuurmatig tweekamerig, waarbij het fertiele bovenste deel zich onderscheidt van de steriele basis, en er is ook een dun diafragma daartussen beschreven. De gleba wordt geelachtig en ten slotte een diep bruinpaars tot paarsbruin poeder. Lamellen ontbreken. De huid opent zich niet door één blijvend porie; het bovenste deel scheurt en valt af, en het poeder wordt door wind en regen vrijgemaakt. De capillitiumdraden zijn ongeveer 2–5 µm breed, met wanden van ongeveer 0,5 µm dik, hyalien in kaliumhydroxide, glad of zeer fijn gepunt en iets versmald bij de septen; andere opgaven noemen draden van 3–7,5 µm of ongeveer 2,5 µm breed.",
+      "stipe": "Er is geen echte steel. Bij het rijpen van het vruchtlichaam ontwikkelt zich een dikke steriele basis, iets smaller dan het fertiele bovenste deel, en een stevige myceliumstreng kan de basis in de grond verankeren. Eén opgave beschrijft een brede basis waaruit een dikke myceliumstreng ontspringt. Nadat de sporenmassa is verspreid, kan de steriele basis wekenlang blijven staan als een zachte, leerachtige beker met een rafelig bovenrand.",
+      "flesh": "Jong is het binnenste wit, stevig en gelijkmatig, zonder lamellenaanleg. Geur en smaak zijn niet kenmerkend. Kaliumhydroxide veroorzaakt op het buitenoppervlak geen kleurverandering. Bij het rijpen van de sporen wordt de gleba geel en vervolgens paars, en de steriele basis wordt geelachtig, later olijfkleurig. Zodra het binnenste niet meer wit is, laat men het vruchtlichaam staan.",
+      "sporePrint": "Zolang het vruchtlichaam gesloten is, verkrijgt men geen gewone sporenafdruk. Het rijpe sporenstof is paars, of paars tot paarsbruin. De sporen zijn bolvormig, 3–6 µm in doorsnede inclusief de ornamentatie, bedekt met stekels van 0,5–1 µm lang, hyalien in kaliumhydroxide en bruinachtig in Melzers reagens; sommige opgaven noemen 3,5–7,5 µm.",
+      "habitat": "Hij vrucht op de grond in het gras: gazons, parken, golfbanen, weiden, prairie en andere open grazige of xerotherme standplaatsen, soms in open bos of langs wegen, alleen, verspreid, in groepjes of in heksenkringen. In een groot deel van Noord-Amerika verschijnt hij in de zomer en de herfst; in Oost- en Centraal-Texas van juni tot oktober; noordelijker opgaven benadrukken de nazomer en het vroege najaar, of augustus tot oktober. Vruchtlichamen volgen vaak op zware regen. De steriele bases kunnen na het seizoen nog blijven staan.",
+      "uses": "Alleen vruchtlichamen waarvan het binnenste nog zuiver wit en stevig is, worden gegeten. Sommige opgaven noemen jonge exemplaren uitstekend of keur. Ze worden bereid zoals andere grote stuifzwammen. Zodra het vlees geel of bruinachtig wordt, laat men het vruchtlichaam staan.",
+      "confusion": "Calvatia gigantea is gewoonlijk gladder en bleker, vaak groter, en mist een goed ontwikkelde steriele basis; de rijpe sporenmassa is olijfbruin tot bruin, niet paars. Calvatia craniiformis heeft gewoonlijk een scherp versmalde steriele basis en bij rijpheid een geelbruine, niet paarse sporenmassa, en mist typisch de mozaïekschubben. Calvatia fragilis is zeer gelijkend maar kleiner, met een minder goed ontwikkelde steriele basis bij rijpheid; sommige auteurs behandelen haar als een aparte soort, vooral in het westen van Noord-Amerika. Soorten van Scleroderma, zoals Scleroderma citrinum, zijn kleiner en vaster, en het binnenste wordt al jong donker paarszwart, vaak met witte marmering. Een jonge Amanita toont in een verticale doorsnede lamellen en een steel, geen gelijkmatig wit binnenste.",
+      "notes": "In Polen is zij beoordeeld als bedreigd, tot 2003 met slechts twee gepubliceerde vondsten. In Slowakije wordt zij als beschermde paddenstoel vermeld. Sommige auteurs houden Calvatia fragilis van deze soort gescheiden.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En saprotrof røyksopp fra gressrike steder, blant annet plener, parker, beiter og prærie. Den er vanlig over store deler av Nord-Amerika, men mindre ved vestkysten, og forekommer også i Sør-Amerika, Australia og på andre kontinenter. I Europa er den bare kjent fra noen land og er sjelden i Polen.",
+      "cap": "Fruktlegemet har ingen tydelig hatt. Ved modning er det vanligvis 8–20 cm bredt og 8–17 cm høyt; enkelte oppgaver angir 5–20 cm for høyden eller bredden, og publiserte europeiske tall omfatter 6–12 cm i bredde og opptil 10 cm i høyde. Unge er det kuleformet og utvikler deretter en tykk basal del som er litt smalere enn den øvre delen, slik at det modne fruktlegemet vanligvis likner en omvendt pære eller et brød. Den ytre overflaten er beige- til lysebrun, sprekker ofte opp i små mosaikkaktige skjell og blir senere svært lysebrun, grålig eller nesten hvit, med en utydelig mosaikk av felt og brunlige prikker. Huden er tørr og omtrent 1–2 mm tykk.",
+      "hymenium": "Glebaen fyller den øvre delen av fruktlegemet og er i ungt stadium hvit og fast. Senere blir den teksturmessig tokammret, idet den fertile øvre delen skilles fra den sterile basisen, og et tynt diafragma mellom dem er også beskrevet. Glebaen blir gulaktig og til slutt et dypt brunfiolett til fiolettbrunt pulver. Skiver mangler. Huden åpner seg ikke gjennom én varig pore; den øvre delen sprekker og faller av, og pulveret frigjøres av vind og regn. Capillitietrådene er omtrent 2–5 µm brede, med vegger omtrent 0,5 µm tykke, hyaline i kaliumhydroksid, glatte eller svært fint prikkete og litt innsnevret ved septene; andre oppgaver angir tråder på 3–7,5 µm eller omtrent 2,5 µm i bredde.",
+      "stipe": "Det finnes ingen ekte stilk. Når fruktlegemet modnes, utvikles en tykk steril basis, litt smalere enn den fertile øvre delen, og en kraftig myceliestreng kan feste basisen til bakken. En oppgave beskriver en bred basis som en tykk myceliestreng utgår fra. Etter at sporemassen er spredt, kan den sterile basisen stå i uker som en myk, læraktig kopp med en frynsete øvre kant.",
+      "flesh": "I ungt stadium er det indre hvitt, fast og jevnt, uten skiveanlegg. Lukt og smak er ikke særegne. Kaliumhydroksid gir ingen fargeendring på den ytre overflaten. Når sporene modnes, blir glebaen gul og deretter fiolett, og den sterile basisen blir gulaktig, senere olivenfarget. Når det indre ikke lenger er hvitt, lar man fruktlegemet stå.",
+      "sporePrint": "Så lenge fruktlegemet er lukket, får man ikke et vanlig sporeavtrykk. Det modne sporestøvet er fiolett, eller fiolett til fiolettbrunt. Sporene er kuleformede, 3–6 µm i diameter inkludert ornamenteringen, dekket av torner 0,5–1 µm lange, hyaline i kaliumhydroksid og brunlige i Melzers reagens; enkelte oppgaver angir 3,5–7,5 µm.",
+      "habitat": "Den frukter på bakken i gress: plener, parker, golfbaner, beiter, prærie og andre åpne gressrike eller xerotherme voksesteder, av og til i åpen skog eller langs veier, enkeltvis, spredt, i grupper eller i hekseringer. I store deler av Nord-Amerika viser den seg om sommeren og høsten; i østlige og sentrale Texas fra juni til oktober; nordligere oppgaver framhever sein sommer og tidlig høst, eller august til oktober. Fruktlegemer følger ofte etter kraftig regn. De sterile basene kan bli stående etter sesongen.",
+      "uses": "Bare fruktlegemer der det indre ennå er rent hvitt og fast, spises. Enkelte oppgaver kaller unge eksemplarer utmerkede eller utsøkte. De tilberedes som andre store røyksopper. Når kjøttet blir gult eller brunlig, lar man fruktlegemet stå.",
+      "confusion": "Calvatia gigantea er vanligvis glattere og blekere, ofte større, og mangler en velutviklet steril basis; den modne sporemassen er olivenbrun til brun, ikke fiolett. Calvatia craniiformis har vanligvis en skarpt innsnevret steril basis og ved modning en gulbrun, ikke fiolett, sporemasse og mangler typisk mosaikkskjellene. Calvatia fragilis er svært lik, men mindre, med en mindre velutviklet steril basis ved modning; noen forfattere behandler den som en egen art, særlig i det vestlige Nord-Amerika. Arter av Scleroderma, for eksempel Scleroderma citrinum, er mindre og fastere, og det indre blir allerede ungt mørkt fiolettsvart, ofte med hvit marmorering. En ung Amanita viser skiver og en stilk i et loddrett snitt, ikke et jevnt hvitt indre.",
+      "notes": "I Polen er den vurdert som truet, fram til 2003 med bare to publiserte funn. I Slovakia føres den som en beskyttet sopp. Noen forfattere holder Calvatia fragilis atskilt fra denne arten.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Saprotroficzna purchawka miejsc trawiastych, w tym trawników, parków, pastwisk i prerii. Jest częsta na dużej części Ameryki Północnej, mniej liczna na zachodnim wybrzeżu, a występuje także w Ameryce Południowej, Australii i na innych kontynentach. W Europie znana jest tylko z niektórych krajów i w Polsce jest rzadka.",
+      "cap": "Owocnik nie ma wyraźnego kapelusza. Dojrzały ma zwykle 8–20 cm średnicy i 8–17 cm wysokości; niektóre źródła podają 5–20 cm wysokości lub szerokości, a opublikowane liczby europejskie obejmują 6–12 cm średnicy i do 10 cm wysokości. Młody jest kulisty, a następnie wykształca grubą część nasadową, nieco węższą od górnej, tak że dojrzały owocnik zwykle przypomina odwróconą gruszkę lub bochenek chleba. Powierzchnia zewnętrzna jest płowo- do jasnobrązowej, często pęka na drobne mozaikowate łuski, a później staje się bardzo jasnobrązowa, szarawa lub niemal biała, z niewyraźną mozaiką pól i brązowawymi punktami. Skórka jest sucha i gruba na około 1–2 mm.",
+      "hymenium": "Gleba wypełnia górną część owocnika i u młodych jest biała i zbita. Później staje się teksturalnie dwukomorowa, z płodną częścią górną odróżnioną od sterylnej podstawy, a opisano także cienką przeponę między nimi. Gleba żółknie i wreszcie staje się głęboko brązowofioletowym do fioletowobrązowego proszkiem. Blaszki nie występują. Skórka nie otwiera się jednym trwałym otworem; górna część pęka i odpada, a proszek jest uwalniany przez wiatr i deszcz. Strzępki włośni mają około 2–5 µm szerokości, ze ścianami grubymi na około 0,5 µm, w wodorotlenku potasu są hialinowe, gładkie lub bardzo drobno dołeczkowane i nieco zwężone przy septach; inne dane podają strzępki o szerokości 3–7,5 µm lub około 2,5 µm.",
+      "stipe": "Prawdziwego trzonu nie ma. W miarę dojrzewania owocnika powstaje gruba sterylna podstawa, nieco węższa od płodnej części górnej, a mocny sznur grzybniowy może przytwierdzać podstawę do podłoża. Jedno źródło opisuje szeroką podstawę, z której wyrasta gruby sznur grzybniowy. Po rozsianiu masy zarodników sterylna podstawa może przez tygodnie pozostać jako miękki, skórzasty kielich o postrzępionym górnym brzegu.",
+      "flesh": "U młodych wnętrze jest białe, zbite i jednolite, bez zawiązków blaszek. Zapach i smak nie są charakterystyczne. Wodorotlenek potasu nie powoduje zmiany barwy na powierzchni zewnętrznej. W miarę dojrzewania zarodników gleba żółknie, a następnie fioletowieje, a sterylna podstawa żółknie, później oliwkuje. Gdy wnętrze nie jest już białe, owocnik pozostawia się.",
+      "sporePrint": "Dopóki owocnik jest zamknięty, zwykłego wysypu zarodników się nie uzyskuje. Dojrzały pył zarodnikowy jest fioletowy albo fioletowy do fioletowobrązowego. Zarodniki są kuliste, o średnicy 3–6 µm wraz z ornamentacją, pokryte kolcami o długości 0,5–1 µm, w wodorotlenku potasu hialinowe, a w odczynniku Melzera brązowawe; niektóre dane podają 3,5–7,5 µm.",
+      "habitat": "Owocniki wyrastają na ziemi w trawie: na trawnikach, w parkach, na polach golfowych, pastwiskach, preriach i innych otwartych, trawiastych lub kserotermicznych stanowiskach, czasem w widnych lasach lub przy drogach, pojedynczo, rozproszone, w grupach lub w czarcich kręgach. Na dużej części Ameryki Północnej pojawiają się latem i jesienią; we wschodnim i środkowym Teksasie od czerwca do października; bardziej północne dane podkreślają późne lato i wczesną jesień albo sierpień–październik. Owocniki często pojawiają się po ulewnych deszczach. Sterylne podstawy mogą utrzymywać się po sezonie.",
+      "uses": "Jada się tylko owocniki, których wnętrze jest jeszcze czysto białe i zbite. Niektóre źródła określają młode okazy jako znakomite lub wyborne. Przygotowuje się je jak inne duże purchawki. Gdy miąższ żółknie lub brązowieje, owocnik pozostawia się.",
+      "confusion": "Calvatia gigantea jest zwykle gładsza i bledsza, często większa i nie ma dobrze wykształconej sterylnej podstawy; jej dojrzała masa zarodników jest oliwkowobrązowa do brązowej, nie fioletowa. Calvatia craniiformis ma zwykle ostro zwężoną sterylną podstawę i w dojrzałości żółtobrązową, nie fioletową masę zarodników, a typowo brakuje jej mozaikowatego łuskowatości. Calvatia fragilis jest bardzo podobna, ale mniejsza, z mniej wykształconą sterylną podstawą w dojrzałości; niektórzy autorzy traktują ją jako odrębny gatunek, zwłaszcza w zachodniej Ameryce Północnej. Gatunki z rodzaju Scleroderma, na przykład Scleroderma citrinum, są mniejsze i twardsze, a wnętrze już u młodych owocników staje się ciemnofioletowoczarne, często z białym marmurkowaniem. Młoda Amanita na przekroju pionowym ukazuje blaszki i trzon, nie jednolite białe wnętrze.",
+      "notes": "W Polsce została oceniona jako zagrożona, do 2003 r. z tylko dwoma opublikowanymi stanowiskami. Na Słowacji jest wymieniana jako grzyb chroniony. Niektórzy autorzy utrzymują Calvatia fragilis jako gatunek odrębny od tego taksonu.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Czasznica_miskowata"
+      ],
+      "label": "czasznica miskowata"
+    },
+    "pt": {
+      "description": "Um bufa-de-lobo sapróbio de lugares herbáceos, incluindo relvados, parques, pastagens e pradarias. É frequente em grande parte da América do Norte, embora menos na costa oeste, e ocorre também na América do Sul, na Austrália e noutros continentes. Na Europa é conhecida apenas em alguns países e é rara na Polónia.",
+      "cap": "O corpo frutífero não tem um chapéu distinto. Na maturidade mede habitualmente 8–20 cm de largura e 8–17 cm de altura; alguns relatos dão 5–20 cm para a altura ou a largura, e os números europeus publicados incluem 6–12 cm de largura e até 10 cm de altura. Quando jovem é esférico e depois desenvolve uma porção basal espessa, um pouco mais estreita do que a parte superior, de modo que o corpo maduro se assemelha habitualmente a uma pera invertida ou a um pão. A superfície externa é de cor fulva a pardo-pálida, quebra-se frequentemente em pequenas escamas em mosaico e mais tarde torna-se pardo muito pálido, acinzentada ou quase branca, com um mosaico ténue de secções e pontos acastanhados. A pele é seca e tem cerca de 1–2 mm de espessura.",
+      "hymenium": "A gleba ocupa a parte superior do corpo frutífero e, quando jovem, é branca e firme. Mais tarde torna-se texturalmente bicameral, com a porção fértil superior distinta da base estéril, e foi também descrito um diafragma delgado entre ambas. A gleba torna-se amarelada e finalmente um pó púrpura-acastanhado profundo a púrpura-pardo. Não há lâminas. A pele não se abre por um único poro persistente; a parte superior racha e desprende-se, e o pó é libertado pelo vento e pela chuva. Os filamentos do capilício têm cerca de 2–5 µm de largura, com paredes de cerca de 0,5 µm de espessura, hialinos em hidróxido de potássio, lisos ou muito minutamente pontuados e um pouco estreitos nos septos; outros relatos dão filamentos de 3–7,5 µm ou de cerca de 2,5 µm de largura.",
+      "stipe": "Não há um pé verdadeiro. À medida que o corpo frutífero amadurece desenvolve-se uma base estéril espessa, um pouco mais estreita do que a parte fértil superior, e um cordão micelial robusto pode prender a base ao solo. Um relato descreve uma base larga da qual surge um cordão micelial espesso. Depois da dispersão da massa de esporos, a base estéril pode permanecer durante semanas como uma taça mole e coriácea, com o bordo superior irregularmente rasgado.",
+      "flesh": "Quando jovem, o interior é branco, firme e uniforme, sem esboços de lâminas. O cheiro e o sabor não são distintivos. O hidróxido de potássio não provoca mudança de cor na superfície externa. À medida que os esporos amadurecem, a gleba torna-se amarela e depois púrpura, e a base estéril torna-se amarelada e, com a idade, olivácea. Quando o interior já não é branco, deixa-se o corpo frutífero.",
+      "sporePrint": "Enquanto o corpo frutífero está fechado não se obtém uma esporada ordinária. O pó de esporos maduro é púrpura, ou púrpura a púrpura-pardo. Os esporos são globosos, com 3–6 µm de diâmetro incluindo a ornamentação, cobertos de espinhos de 0,5–1 µm de comprimento, hialinos em hidróxido de potássio e acastanhados no reagente de Melzer; alguns relatos dão 3,5–7,5 µm.",
+      "habitat": "Frutifica no solo, na erva: relvados, parques, campos de golfe, pastagens, pradarias e outros sítios abertos herbáceos ou xerotérmicos, por vezes em bosques abertos ou à beira de caminhos, isolado, disperso, em grupos ou em anéis de bruxas. Em grande parte da América do Norte aparece no verão e no outono; no leste e no centro do Texas, de junho a outubro; os relatos mais setentrionais enfatizam o fim do verão e o início do outono, ou agosto a outubro. Os corpos frutíferos seguem frequentemente chuvas intensas. As bases estéreis podem persistir depois da estação.",
+      "uses": "Só se comem os corpos frutíferos cujo interior ainda é puro branco e firme. Alguns relatos chamam excelentes ou escolhidos aos exemplares jovens. Preparam-se como outros grandes bufas-de-lobo. Quando a carne se torna amarela ou parda, deixa-se o corpo frutífero.",
+      "confusion": "Calvatia gigantea é habitualmente mais lisa e mais pálida, muitas vezes maior, e não tem uma base estéril bem desenvolvida; a sua massa de esporos madura é pardo-olivácea a parda, não púrpura. Calvatia craniiformis tem habitualmente uma base estéril bruscamente estreita e, na maturidade, uma massa de esporos amarelo-parda, não púrpura, e tipicamente carece das escamas em mosaico. Calvatia fragilis é muito semelhante mas menor, com uma base estéril menos desenvolvida na maturidade; alguns autores tratam-na como uma espécie distinta, sobretudo no oeste da América do Norte. As espécies de Scleroderma, como Scleroderma citrinum, são menores e mais firmes, e o interior torna-se púrpura-negro-escuro, muitas vezes com marmoreado branco, já quando o corpo é jovem. Uma Amanita jovem mostra lâminas e um pé num corte vertical, não um interior branco uniforme.",
+      "notes": "Na Polónia foi avaliada como ameaçada, com apenas dois registos publicados até 2003. Na Eslováquia figura como um fungo protegido. Alguns autores mantêm Calvatia fragilis à parte desta espécie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O burete saprotrofă de locuri ierboase, inclusiv peluze, parcuri, pășuni și prerii. Este comună în mare parte din America de Nord, dar mai puțin pe coasta de vest, și apare și în America de Sud, Australia și pe alte continente. În Europa este cunoscută doar în unele țări și este rară în Polonia.",
+      "cap": "Corpul de fructificare nu are o pălărie distinctă. La maturitate are de obicei 8–20 cm lățime și 8–17 cm înălțime; unele surse dau 5–20 cm pentru înălțime sau lățime, iar cifrele europene publicate includ 6–12 cm lățime și până la 10 cm înălțime. Tânăr este sferic, apoi dezvoltă o parte bazală groasă, puțin mai îngustă decât partea superioară, astfel încât corpul matur seamănă de obicei cu o pară răsturnată sau cu o pâine. Suprafața exterioară este brun-gălbuie până la brun-deschis, se sparge adesea în solzi mici mozaicați și devine ulterior foarte brun-deschis, cenușie sau aproape albă, cu un mozaic vag de câmpuri și puncte brunii. Pielea este uscată și are aproximativ 1–2 mm grosime.",
+      "hymenium": "Gleba umple partea superioară a corpului de fructificare și, la stadiul tânăr, este albă și fermă. Mai târziu devine, ca textură, bicamerală, partea fertilă superioară fiind despărțită de baza sterilă, și a fost descrisă și o diafragmă subțire între ele. Gleba devine gălbuie și, în cele din urmă, un praf brun-violet profund până la brun-violaceu. Nu există lamele. Pielea nu se deschide printr-un singur por persistent; partea superioară crapă și cade, iar praful este eliberat de vânt și ploaie. Firele de capillitiu au aproximativ 2–5 µm lățime, cu pereți de aproximativ 0,5 µm grosime, hialine în hidroxid de potasiu, netede sau foarte fin punctate și ușor îngustate la septe; alte date dau fire de 3–7,5 µm sau aproximativ 2,5 µm lățime.",
+      "stipe": "Nu există un picior adevărat. Pe măsură ce corpul de fructificare se maturează, se dezvoltă o bază sterilă groasă, puțin mai îngustă decât partea fertilă superioară, iar un cordon micelian viguros poate prinde baza de sol. O relatare descrie o bază largă din care pornește un cordon micelian gros. După ce masa de spori s-a dispersat, baza sterilă poate rămâne săptămâni ca o cupă moale, pieleasă, cu o margine superioară zdrențuită.",
+      "flesh": "La stadiul tânăr, interiorul este alb, ferm și uniform, fără primordii de lamele. Mirosul și gustul nu sunt distinctive. Hidroxidul de potasiu nu produce nicio schimbare de culoare pe suprafața exterioară. Pe măsură ce sporii se maturează, gleba devine galbenă, apoi violetă, iar baza sterilă devine gălbuie, mai târziu măslinie. Când interiorul nu mai este alb, corpul de fructificare este lăsat.",
+      "sporePrint": "Atâta timp cât corpul de fructificare este închis, nu se obține o amprentă sporică obișnuită. Praful de spori matur este violet, sau violet până la brun-violaceu. Sporii sunt sferici, de 3–6 µm în diametru inclusiv ornamentația, acoperiți cu țepi de 0,5–1 µm lungime, hialini în hidroxid de potasiu și brunii în reactivul Melzer; unele date dau 3,5–7,5 µm.",
+      "habitat": "Fructifică pe sol în iarbă: peluze, parcuri, terenuri de golf, pășuni, prerii și alte stațiuni deschise ierboase sau xeroterme, uneori în păduri deschise sau de-a lungul drumurilor, izolat, risipit, în grupuri sau în cercuri de vrăjitoare. În mare parte din America de Nord apare vara și toamna; în estul și centrul Texasului din iunie până în octombrie; datele mai nordice subliniază sfârșitul verii și începutul toamnei, sau august–octombrie. Corpurile de fructificare urmează adesea ploile abundente. Bazele sterile pot rămâne după sezon.",
+      "uses": "Se consumă numai corpurile de fructificare al căror interior este încă alb curat și ferm. Unele relatare numesc exemplarele tinere excelente sau alese. Se prepară ca alte bureți pufăiți de talie mare. Când carnea devine galbenă sau brunie, corpul de fructificare este lăsat.",
+      "confusion": "Calvatia gigantea este de obicei mai netedă și mai palidă, adesea mai mare, și nu are o bază sterilă bine dezvoltată; masa sa de spori matură este brun-măslinie până la brună, nu violetă. Calvatia craniiformis are de obicei o bază sterilă brusc îngustată și, la maturitate, o masă de spori galben-brună, nu violetă, și îi lipsesc de obicei solzii mozaicați. Calvatia fragilis este foarte asemănătoare, dar mai mică, cu o bază sterilă mai puțin dezvoltată la maturitate; unii autori o tratează ca specie distinctă, mai ales în vestul Americii de Nord. Speciile de Scleroderma, de exemplu Scleroderma citrinum, sunt mai mici și mai ferme, iar interiorul devine încă de tânăr violet-negru închis, adesea cu marmorare albă. O Amanita tânără arată lamele și un picior într-o secțiune verticală, nu un interior alb uniform.",
+      "notes": "În Polonia a fost evaluată ca amenințată, până în 2003 cu numai două înregistrări publicate. În Slovacia este menționată ca ciupercă protejată. Unii autori țin Calvatia fragilis separat de această specie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Сапротрофный головач травянистых местообитаний, в том числе газонов, парков, пастбищ и прерии. Он обычен на большей части Северной Америки, но реже на западном побережье, и встречается также в Южной Америке, Австралии и на других континентах. В Европе известен лишь в некоторых странах и редок в Польше.",
+      "cap": "Плодовое тело не имеет отчётливой шляпки. В зрелости оно обычно 8–20 см шириной и 8–17 см высотой; некоторые сведения указывают 5–20 см для высоты или ширины, а опубликованные европейские цифры включают 6–12 см в ширину и до 10 см в высоту. В молодости оно шаровидное, затем развивает толстую базальную часть, чуть более узкую, чем верхняя, так что зрелое плодовое тело обычно напоминает перевёрнутую грушу или хлеб. Наружная поверхность желтовато-коричневая до светло-коричневой, часто растрескивается на мелкие мозаичные чешуйки и позднее становится очень светло-коричневой, сероватой или почти белой, со слабым мозаичным рисунком полей и коричневатыми точками. Оболочка сухая, толщиной около 1–2 мм.",
+      "hymenium": "Глеба заполняет верхнюю часть плодового тела и в молодости белая и плотная. Позднее она становится текстурно двухкамерной: плодородная верхняя часть отделена от стерильного основания, и между ними описана также тонкая диафрагма. Глеба желтеет и в конце концов превращается в глубоко коричнево-фиолетовый или фиолетово-коричневый порошок. Пластинок нет. Оболочка не открывается одной постоянной порой; верхняя часть растрескивается и опадает, а порошок рассеивается ветром и дождём. Нити капиллиция шириной около 2–5 мкм, со стенками толщиной около 0,5 мкм, гиалиновые в гидроксиде калия, гладкие или очень мелко точечные и слегка суженные у перегородок; другие сведения указывают нити 3–7,5 мкм или около 2,5 мкм шириной.",
+      "stipe": "Настоящей ножки нет. По мере созревания плодового тела развивается толстое стерильное основание, чуть более узкое, чем плодородная верхняя часть, и крепкий мицелиальный шнур может прикреплять основание к почве. В одном описании указано широкое основание, от которого отходит толстый мицелиальный шнур. После рассеивания споровой массы стерильное основание может неделями оставаться мягкой кожистой чашей с бахромчатым верхним краем.",
+      "flesh": "В молодости внутренняя часть белая, плотная и однородная, без зачатков пластинок. Запах и вкус нехарактерны. Гидроксид калия не вызывает изменения цвета на наружной поверхности. По мере созревания спор глеба становится жёлтой, затем фиолетовой, а стерильное основание желтоватым, позднее оливковым. Когда внутренняя часть уже не белая, плодовое тело оставляют.",
+      "sporePrint": "Пока плодовое тело закрыто, обычный споровый отпечаток не получают. Зрелый споровый порошок фиолетовый или фиолетовый до фиолетово-коричневого. Споры шаровидные, диаметром 3–6 мкм включая орнаментацию, покрытые шипиками длиной 0,5–1 мкм, гиалиновые в гидроксиде калия и коричневатые в реактиве Мельцера; некоторые сведения указывают 3,5–7,5 мкм.",
+      "habitat": "Плодоносит на почве в траве: на газонах, в парках, на полях для гольфа, пастбищах, прерии и других открытых травянистых или ксеротермных местообитаниях, иногда в открытом лесу или вдоль дорог, поодиночке, рассеянно, группами или ведьмиными кольцами. На большей части Северной Америки появляется летом и осенью; в восточном и центральном Техасе с июня по октябрь; более северные сведения подчёркивают конец лета и начало осени или август–октябрь. Плодовые тела часто следуют за сильными дождями. Стерильные основания могут сохраняться и после сезона.",
+      "uses": "В пищу употребляют только плодовые тела, внутренняя часть которых ещё чисто белая и плотная. Некоторые источники называют молодые экземпляры превосходными или отборными. Их готовят как другие крупные головачи. Когда мякоть желтеет или буреет, плодовое тело оставляют.",
+      "confusion": "Calvatia gigantea обычно более гладкая и бледная, часто крупнее, и не имеет хорошо развитого стерильного основания; её зрелая споровая масса оливково-коричневая до коричневой, не фиолетовая. У Calvatia craniiformis обычно резко суженное стерильное основание и в зрелости желтовато-коричневая, не фиолетовая, споровая масса, а мозаичные чешуйки типично отсутствуют. Calvatia fragilis очень сходна, но мельче, со менее развитым стерильным основанием в зрелости; некоторые авторы рассматривают её как отдельный вид, особенно на западе Северной Америки. Виды рода Scleroderma, например Scleroderma citrinum, мельче и плотнее, а внутренняя часть уже в молодости становится тёмной фиолетово-чёрной, часто с белой мраморностью. Молодая Amanita в вертикальном разрезе показывает пластинки и ножку, а не однородную белую внутренность.",
+      "notes": "В Польше вид оценён как находящийся под угрозой; до 2003 года было опубликовано лишь две находки. В Словакии он указан как охраняемый гриб. Некоторые авторы отделяют Calvatia fragilis от этого вида.",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%87_(%D1%80%D0%BE%D0%B4_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2)"
+      ],
+      "label": "головач бокаловидный"
+    },
+    "sk": {
+      "description": "Saprotrofná prášnica trávnatých miest, vrátane trávnikov, parkov, pasienkov a prérií. Je častá na veľkej časti Severnej Ameriky, na západnom pobreží však menej, a vyskytuje sa aj v Južnej Amerike, Austrálii a na iných svetadieloch. V Európe je známa len v niektorých krajinách a v Poľsku je vzácna.",
+      "cap": "Plodnica nemá zreteľný klobúk. V zrelosti má bežne 8–20 cm v priemere a 8–17 cm na výšku; niektoré údaje uvádzajú 5–20 cm pre výšku alebo šírku a uverejnené európske čísla zahŕňajú 6–12 cm v priemere a až 10 cm na výšku. V mladosti je guľovitá a neskôr si vytvára hrubú bazálnu časť, ktorá je o čosi užšia ako horná časť, takže zrelá plodnica obvykle pripomína prevrátenú hrušku alebo bochník chleba. Vonkajší povrch je bledohnedý až svetlohnedý, často sa láme na drobné mozaikovité šupiny a neskôr je veľmi bledohnedý, sivastý alebo takmer biely, s nezreteľnou mozaikou políčok a hnedastými bodkami. Koža je suchá a hrubá asi 1–2 mm.",
+      "hymenium": "Gleba vyplína hornú časť plodnice a v mladosti je biela a pevná. Neskôr sa textúrne rozdelí na dve komory, pričom plodná horná časť je odlíšená od sterilnej bázy, a opísaná bola aj tenká diafragma medzi nimi. Gleba zožltne a napokon sa zmení na sýto hnedofialový až fialovohnedý prášok. Lupene chýbajú. Koža sa neotvára jedným trvalým otvorom; horná časť praská a odpadáva a prášok uvoľňuje vietor a dážď. Vlákna vložne sú široké asi 2–5 µm, so stenami hrubými asi 0,5 µm, v hydroxide draselnom hyalínne, hladké alebo veľmi jemne jamkované a pri septách trochu zúžené; iné údaje uvádzajú vlákna široké 3–7,5 µm alebo asi 2,5 µm.",
+      "stipe": "Pravý hlúbik chýba. Pri dozrievaní plodnice sa vytvára hrubá sterilná báza, o čosi užšia ako plodná horná časť, a k zemi ju môže pripevňovať silný podhubnicový povrazec. Jeden údaj opisuje širokú bázu, z ktorej vyrastá hrubý podhubnicový povrazec. Po rozptýlení výtrusného prášku môže sterilná báza ešte týždne zotrvávať ako mäkký, kožovitý pohár s rozstrapkaným horným okrajom.",
+      "flesh": "Vnútro je v mladosti biele, pevné a rovnomerné, bez zárodkov lupien. Vôňa a chuť nie sú výrazné. Hydroxid draselný na vonkajšom povrchu nespôsobuje zmenu farby. Pri dozrievaní výtrusov gleba žltne a potom fialovie a sterilná báza žltne a s vekom olivovie. Keď vnútro už nie je biele, plodnica sa ponecháva.",
+      "sporePrint": "Kým je plodnica uzavretá, bežný výtrusný prach sa nezíska. Zrelý výtrusný prach je fialový, alebo fialový až fialovohnedý. Výtrusy sú guľovité, 3–6 µm v priemere vrátane ornamentiky, pokryté ostňami dlhými 0,5–1 µm, v hydroxide draselnom hyalínne a v Melzerovom činidle hnedasté; niektoré údaje uvádzajú 3,5–7,5 µm.",
+      "habitat": "Rastie na zemi v tráve: na trávnikoch, v parkoch, na golfových ihriskách, pasienkoch, prériách a iných otvorených trávnatých alebo xerotermných stanovištiach, niekedy v svetlých lesoch alebo pri cestách, jednotlivo, roztrúsene, v skupinách alebo v čarovných kruhoch. Na veľkej časti Severnej Ameriky sa objavuje v lete a na jeseň; vo východnom a strednom Texase od júna do októbra; severnejšie údaje zdôrazňujú neskoré leto a začiatok jesene, alebo august až október. Plodnice často prichádzajú po výdatnom daždi. Sterilné bázy môžu pretrvávať aj po sezóne.",
+      "uses": "Jedlé sú len plodnice, ktorých vnútro je ešte čisto biele a pevné. Niektoré údaje označujú mladé exempláre za výborné alebo vyberané. Pripravujú sa ako iné veľké prášnice. Keď dužina zožltne alebo zhnedne, plodnica sa ponecháva.",
+      "confusion": "Calvatia gigantea je zvyčajne hladšia a bledšia, často väčšia a nemá dobre vyvinutú sterilnú bázu; jej zrelá výtrusná masa je olivovohnedá až hnedá, nie fialová. Calvatia craniiformis má zvyčajne ostro zúženú sterilnú bázu a v zrelosti žltohnedú, nie fialovú výtrusnú masu a typicky jej chýba mozaikovité šupiny. Calvatia fragilis je veľmi podobná, ale menšia, so slabšie vyvinutou sterilnou bázou v zrelosti; niektorí autori ju považujú za samostatný druh, najmä v západnej Severnej Amerike. Druhy rodu Scleroderma, napríklad Scleroderma citrinum, sú menšie a tužšie a vnútro už v mladosti tmavofialovočierne, často s bielym mramorovaním. Mladá Amanita na zvislom reze ukazuje lupene a hlúbik, nie rovnomerné biele vnútro.",
+      "notes": "V Poľsku bola hodnotená ako ohrozená, do roku 2003 s len dvoma uverejnenými záznamami. Na Slovensku je uvádzaná ako chránená huba. Niektorí autori považujú Calvatia fragilis za osobitný druh voči tomuto taxónu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Calvatia-cyathiformis/rozpadavec-krehky/plesivka-fialova/ID12093"
+      ],
+      "label": "rozpadavec krehký"
+    },
+    "sl": {
+      "description": "Saprotrofna prašnica travnatih rastišč, vključno s tratevami, parki, pašniki in prerijo. Pogosta je na velikem delu Severne Amerike, manj pa na zahodni obali, in pojavlja se tudi v Južni Ameriki, Avstraliji in na drugih celinah. V Evropi je znana le iz nekaterih držav in je na Poljskem redka.",
+      "cap": "Trosišče nima izrazitega klobuka. Ob zrelosti je običajno široko 8–20 cm in visoko 8–17 cm; nekateri podatki navajajo 5–20 cm za višino ali širino, objavljene evropske številke pa vključujejo 6–12 cm širine in do 10 cm višine. Mlado je kroglasto, nato razvije debel bazalni del, nekoliko ožji od zgornjega dela, zato zrelo trosišče običajno spominja na obrnjeno hruško ali hleb. Zunanja površina je rumenkasto rjava do svetlorjava, pogosto se razpoka v drobne mozaikaste luske in pozneje postane zelo svetlorjava, sivkasta ali skoraj bela, s šibkim mozaikom polj in rjavkastimi pikami. Koža je suha in debela približno 1–2 mm.",
+      "hymenium": "Gleba zapolnjuje zgornji del trosišča in je v mladosti bela in čvrsta. Pozneje postane teksturno dvokomorna, rodovitni zgornji del je ločen od sterilne baze, opisana pa je tudi tanka prepona med njima. Gleba postane rumenkasta in nazadnje globoko rjavovijoličen do vijoličnorjav prah. Lističev ni. Koža se ne odpre z eno trajno poro; zgornji del poči in odpade, prah pa sprostita veter in dež. Niti kapilicija so široke približno 2–5 µm, s stenami debelimi približno 0,5 µm, hialine v kalijevem hidroksidu, gladke ali zelo fino pikčaste in nekoliko zožene pri pregradah; drugi podatki navajajo niti 3–7,5 µm ali približno 2,5 µm širine.",
+      "stipe": "Pravega beta ni. Ko trosišče dozoreva, se razvije debela sterilna baza, nekoliko ožja od rodovitnega zgornjega dela, in debela micelijska vrvica lahko pritrdi bazo na tla. En vir opisuje široko bazo, iz katere izhaja debela micelijska vrvica. Po razširitvi trosovega prahu lahko sterilna baza tedne ostane kot mehka, usnjata čaša z razcefranim zgornjim robom.",
+      "flesh": "V mladosti je notranjost bela, čvrsta in enakomerna, brez zasnov lističev. Vonj in okus nista značilna. Kalijev hidroksid na zunanji površini ne povzroči spremembe barve. Ko trosi dozorijo, gleba postane rumena, nato vijolična, sterilna baza pa rumenkasta, pozneje olivna. Ko notranjost ni več bela, trosišče pustimo.",
+      "sporePrint": "Dokler je trosišče zaprto, običajnega trosovega odtisa ni mogoče dobiti. Zreli trosov prah je vijoličen ali vijoličen do vijoličnorjav. Trosi so kroglasti, premera 3–6 µm vključno z ornamentacijo, pokriti z bodicami dolgimi 0,5–1 µm, hialini v kalijevem hidroksidu in rjavkasti v Melzerjevem reagentu; nekateri podatki navajajo 3,5–7,5 µm.",
+      "habitat": "Raste na tleh v travi: na tratah, v parkih, na golfskih igriščih, pašnikih, preriji in drugih odprtih travnatih ali kserotermnih rastiščih, včasih v odprtem gozdu ali ob cestah, posamič, razpršeno, v skupinah ali v čarovniških krogih. Na velikem delu Severne Amerike se pojavi poleti in jeseni; v vzhodnem in osrednjem Teksasu od junija do oktobra; severnejši podatki poudarjajo pozno poletje in zgodnjo jesen ali avgust do oktober. Trosišča pogosto sledijo močnemu dežju. Sterilne baze lahko ostanejo tudi po sezoni.",
+      "uses": "Uživajo se le trosišča, katerih notranjost je še čisto bela in čvrsta. Nekateri viri mlade osebke imenujejo odlične ali izbrane. Pripravljajo se kot druge velike prašnice. Ko meso postane rumeno ali rjavkasto, trosišče pustimo.",
+      "confusion": "Calvatia gigantea je običajno bolj gladka in bleda, pogosto večja, in nima dobro razvite sterilne baze; njena zrela trosova masa je olivnorjava do rjava, ne vijolična. Calvatia craniiformis ima običajno ostro zoženo sterilno bazo in ob zrelosti rumenorjavo, ne vijolično, trosovo maso ter ji tipično manjkajo mozaikaste luske. Calvatia fragilis je zelo podobna, a manjša, z manj razvito sterilno bazo ob zrelosti; nekateri avtorji jo obravnavajo kot ločeno vrsto, zlasti v zahodni Severni Ameriki. Vrste rodu Scleroderma, na primer Scleroderma citrinum, so manjše in čvrstejše, notranjost pa že v mladosti postane temno vijoličnočrna, pogosto z belim marmoriranjem. Mlada Amanita v navpičnem prerezu pokaže lističe in bet, ne enakomerne bele notranjosti.",
+      "notes": "Na Poljskem je ocenjena kot ogrožena, do leta 2003 z le dvema objavljenima najdbama. Na Slovaškem je navedena kot zavarovana goba. Nekateri avtorji držijo Calvatia fragilis ločeno od te vrste.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Сапротрофна пухара травнатих станишта, укључујући травњаке, паркове, пашњаке и прерију. Честа је на великом делу Северне Америке, али мање на западној обали, а јавља се и у Јужној Америци, Аустралији и на другим континентима. У Европи је позната само из неких земаља и ретка је у Пољској.",
+      "cap": "Плодиште нема изражен шешир. У зрелости је обично широко 8–20 cm и високо 8–17 cm; неки подаци наводе 5–20 cm за висину или ширину, а објављене европске бројке укључују 6–12 cm ширине и до 10 cm висине. Младо је лоптасто, затим развија дебели базални део, мало ужи од горњег дела, па зрело плодиште обично личи на окренуту крушку или хлеб. Спољашња површина је жућкастосмеђа до светлосмеђа, често се ломи у ситне мозаичне љуспе и касније постаје врло светлосмеђа, сивкаста или готово бела, са слабим мозаиком поља и смећкастим тачкицама. Кожа је сува и дебела отприлике 1–2 mm.",
+      "hymenium": "Глеба испуњава горњи део плодишта и у младости је бела и чврста. Касније постаје текстурално двокоморна, плодни горњи део одвојен је од стерилне базе, а описана је и танка дијафрагма између њих. Глеба постаје жућкаста и напослетку дубоко смеђељубичасти до љубичастосмеђи прах. Листића нема. Кожа се не отвара једним трајним пором; горњи део пуца и отпада, а прах ослобађају ветар и киша. Нити капилицијума широке су отприлике 2–5 µm, са зидовима дебелим отприлике 0,5 µm, хијалине у калијум-хидроксиду, глатке или врло фино тачкасте и мало сужене на септама; други подаци наводе нити од 3–7,5 µm или отприлике 2,5 µm ширине.",
+      "stipe": "Правог стручка нема. Кад плодиште сазрева, развија се дебела стерилна база, мало ужа од плодног горњег дела, а дебела мицелијска врпца може причврстити базу за тло. Један извор описује широку базу из које излази дебела мицелијска врпца. После распршивања спорове масе стерилна база може недељама остати као мека, кожаста чаша са изресканим горњим рубом.",
+      "flesh": "У младости унутрашњост је бела, чврста и једнолична, без зачетака листића. Мирис и укус нису карактеристични. Калијум-хидроксид не изазива промену боје на спољашњој површини. Како споре сазревају, глеба постаје жута, затим љубичаста, а стерилна база жућкаста, касније маслинаста. Кад унутрашњост више није бела, плодиште се оставља.",
+      "sporePrint": "Док је плодиште затворено, уобичајени отисак спора се не добија. Зрели прах спора је љубичаст, или љубичаст до љубичастосмеђ. Споре су лоптасте, пречника 3–6 µm укључујући орнаментацију, покривене бодљама дугим 0,5–1 µm, хијалине у калијум-хидроксиду и смећкасте у Мелцеровом реагенсу; неки подаци наводе 3,5–7,5 µm.",
+      "habitat": "Плоди на тлу у трави: на травњацима, у парковима, на голф-теренима, пашњацима, прерији и другим отвореним травнатим или ксеротермним стаништима, понекад у отвореној шуми или уз путеве, појединачно, распршено, у групама или у вештичијим круговима. На великом делу Северне Америке јавља се лети и у јесен; у источном и средишњем Тексасу од јуна до октобра; севернији подаци истичу касно лето и рану јесен, или август до октобар. Плодишта често следе после обилне кише. Стерилне базе могу остати и после сезоне.",
+      "uses": "Једу се само плодишта чија је унутрашњост још чисто бела и чврста. Неки извори младе примерке називају изврснима или одабранима. Припремају се као друге велике пухаре. Кад месо постане жуто или смећкасто, плодиште се оставља.",
+      "confusion": "Calvatia gigantea обично је глађа и бљеђа, често већа, и нема добро развијену стерилну базу; њена зрела спорова маса маслинастосмеђа је до смеђа, а не љубичаста. Calvatia craniiformis обично има оштро сужену стерилну базу и у зрелости жутосмеђу, а не љубичасту, спорову масу те типично нема мозаичне љуспе. Calvatia fragilis веома је слична, али мања, са слабије развијеном стерилном базом у зрелости; неки аутори третирају је као посебну врсту, нарочито на западу Северне Америке. Врсте рода Scleroderma, на пример Scleroderma citrinum, мање су и чвршће, а унутрашњост већ у младости постаје тамно љубичастоцрна, често са белим мермерисањем. Млада Amanita у усправном пресеку показује листиће и стручак, а не једноличну белу унутрашњост.",
+      "notes": "У Пољској је оцењена као угрожена, до 2003. са само два објављена налаза. У Словачкој је наведена као заштићена гљива. Неки аутори држе Calvatia fragilis одвојеном од ове врсте.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En saprotrof röksvamp på gräsrika platser, däribland gräsmattor, parker, betesmarker och prärie. Den är allmän över stora delar av Nordamerika, dock mindre vid västkusten, och förekommer också i Sydamerika, Australien och på andra kontinenter. I Europa är den känd endast från vissa länder och är sällsynt i Polen.",
+      "cap": "Fruktkroppen har ingen tydlig hatt. Vid mognad är den vanligen 8–20 cm bred och 8–17 cm hög; vissa uppgifter anger 5–20 cm för höjden eller bredden, och publicerade europeiska tal omfattar 6–12 cm i bredd och upp till 10 cm i höjd. Ung är den klotformad och utvecklar sedan en tjock basal del som är något smalare än den övre delen, så att den mogna fruktkroppen vanligen liknar ett omvänt päron eller ett bröd. Ytan är beige- till ljust brun, bryts ofta upp i små mosaikartade fjäll och blir senare mycket ljust brun, gråaktig eller nästan vit, med en svag mosaik av fält och brunaktiga prickar. Huden är torr och ungefär 1–2 mm tjock.",
+      "hymenium": "Gleban fyller den övre delen av fruktkroppen och är i ungt stadium vit och fast. Senare blir den texturmässigt tvåkamrig, varvid den fertila övre delen skiljs från den sterila basen, och ett tunt diafragma däremellan har också beskrivits. Gleban blir gulaktig och slutligen ett djupt brunviolett till violettbrunt pulver. Skivor saknas. Huden öppnar sig inte genom en enda bestående por; den övre delen spricker och faller av, och pulvret frigörs av vind och regn. Capillitietrådarna är ungefär 2–5 µm breda, med väggar ungefär 0,5 µm tjocka, hyalina i kaliumhydroxid, släta eller mycket fint punktprickade och något avsmalnade vid septa; andra uppgifter anger trådar på 3–7,5 µm eller ungefär 2,5 µm i bredd.",
+      "stipe": "Det finns ingen verklig fot. När fruktkroppen mognar utvecklas en tjock steril bas, något smalare än den fertila övre delen, och en kraftig mycelsträng kan fästa basen vid marken. En uppgift beskriver en bred bas från vilken en tjock mycelsträng utgår. Efter att spormassan spritts kan den sterila basen stå kvar i veckor som en mjuk, läderartad skål med en fransig övre kant.",
+      "flesh": "I ungt stadium är det inre vitt, fast och enhetligt, utan skivanlag. Lukt och smak är inte särpräglade. Kaliumhydroxid ger ingen färgförändring på den yttre ytan. När sporerna mognar blir gleban gul och sedan violett, och den sterila basen blir gulaktig, senare olivfärgad. När det inre inte längre är vitt lämnas fruktkroppen.",
+      "sporePrint": "Så länge fruktkroppen är sluten erhålls inget vanligt sporavtryck. Det mogna spordammet är violett, eller violett till violettbrunt. Sporerna är klotformade, 3–6 µm i diameter inklusive ornamenteringen, täckta av taggar 0,5–1 µm långa, hyalina i kaliumhydroxid och brunaktiga i Melzers reagens; vissa uppgifter anger 3,5–7,5 µm.",
+      "habitat": "Den fruktar på marken i gräs: gräsmattor, parker, golfbanor, betesmarker, prärie och andra öppna gräsrika eller xeroterma ståndorter, ibland i öppen skog eller vid vägar, ensam, spridd, i grupper eller i häxringar. I stora delar av Nordamerika visar den sig på sommaren och hösten; i östra och mellersta Texas från juni till oktober; nordligare uppgifter betonar sensommaren och tidig höst, eller augusti till oktober. Fruktkroppar följer ofta efter kraftigt regn. De sterila baserna kan stå kvar efter säsongen.",
+      "uses": "Endast fruktkroppar vilkas inre ännu är rent vitt och fast äts. Vissa uppgifter kallar unga exemplar utmärkta eller utsökta. De tillagas som andra stora röksvampar. När köttet blir gult eller brunaktigt lämnas fruktkroppen.",
+      "confusion": "Calvatia gigantea är vanligen slätare och blekare, ofta större, och saknar en välutvecklad steril bas; dess mogna spormassa är olivbrun till brun, inte violett. Calvatia craniiformis har vanligen en skarpt avsmalnande steril bas och vid mognad en gulbrun, inte violett, spormassa och saknar typiskt mosaikfjällen. Calvatia fragilis är mycket lik men mindre, med en mindre välutvecklad steril bas vid mognad; vissa författare behandlar den som en egen art, särskilt i västra Nordamerika. Arter av Scleroderma, till exempel Scleroderma citrinum, är mindre och fastare, och det inre blir redan ungt mörkt violettsvart, ofta med vit marmorering. En ung Amanita visar skivor och en fot i ett vertikalt snitt, inte ett enhetligt vitt inre.",
+      "notes": "I Polen har den bedömts som hotad, fram till 2003 med endast två publicerade fynd. I Slovakien anges den som en skyddad svamp. Vissa författare håller Calvatia fragilis skild från denna art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Çimenlik yerlerde, çim alanlarda, parklarda, otlaklarda ve preride saprotrof bir puf mantarıdır. Kuzey Amerika’nın büyük bölümünde yaygındır, ancak batı kıyısında daha seyrektir; Güney Amerika, Avustralya ve diğer kıtalarda da bulunur. Avrupa’da yalnızca bazı ülkelerden bilinir ve Polonya’da nadirdir.",
+      "cap": "Meyve gövdesinin belirgin bir şapkası yoktur. Olgunlukta genellikle 8–20 cm genişliğinde ve 8–17 cm yüksekliğindedir; bazı kaynaklar yükseklik veya genişlik için 5–20 cm verir ve yayımlanmış Avrupa rakamları 6–12 cm genişlik ile 10 cm’ye kadar yüksekliği kapsar. Gençken küreseldir, sonra üst kısımdan biraz daha dar kalın bir taban kısmı geliştirir, böylece olgun meyve gövdesi genellikle ters bir armuta veya ekmeğe benzer. Dış yüzey kum renginden açık kahverengiye değişir, çoğu zaman küçük mozaik pullara ayrılır ve daha sonra çok açık kahverengi, grimsi veya neredeyse beyaz olur; belirsiz bir mozaik alanlar ve kahverengimsi noktalar görülür. Kabuk kurudur ve yaklaşık 1–2 mm kalınlığındadır.",
+      "hymenium": "Gleba meyve gövdesinin üst kısmını doldurur ve gençken beyaz ve serttir. Daha sonra doku bakımından iki odacıklı olur: verimli üst kısım steril tabandan ayrılır ve aralarında ince bir diyafram da tanımlanmıştır. Gleba sararır ve sonunda koyu kahverengi-mor ile mor-kahverengi bir toza dönüşür. Lameller yoktur. Kabuk tek, kalıcı bir gözenekle açılmaz; üst kısım çatlar ve düşer, tozu rüzgâr ve yağmur serbest bırakır. Kapillitium iplikleri yaklaşık 2–5 µm genişliğinde, duvarları yaklaşık 0,5 µm kalınlığındadır, potasyum hidroksitte hiyalin, düz veya çok ince noktalı ve septumlarda biraz daralmıştır; başka kaynaklar 3–7,5 µm veya yaklaşık 2,5 µm genişlikte iplikler verir.",
+      "stipe": "Gerçek bir sap yoktur. Meyve gövdesi olgunlaşırken, verimli üst kısımdan biraz daha dar kalın bir steril taban gelişir ve güçlü bir miselyum kordonu tabanı toprağa bağlayabilir. Bir kaynak, kalın bir miselyum kordonunun çıktığı geniş bir taban tarif eder. Spor kütlesi dağıldıktan sonra steril taban haftalarca yumuşak, derimsi, üst kenarı saçaklanmış bir kâse olarak kalabilir.",
+      "flesh": "Gençken iç kısım beyaz, sert ve tekdüzedir, lamel taslakları yoktur. Koku ve tat ayırt edici değildir. Potasyum hidroksit dış yüzeyde renk değişimine yol açmaz. Sporlar olgunlaşırken gleba sarı, sonra mor olur; steril taban sararır, daha sonra zeytin rengine döner. İç kısım artık beyaz değilse meyve gövdesi bırakılır.",
+      "sporePrint": "Meyve gövdesi kapalıyken olağan bir spor izi alınamaz. Olgun spor tozu mordur veya mor ile mor-kahverengi arasındadır. Sporlar küreseldir, süsleme dahil 3–6 µm çapındadır, 0,5–1 µm uzunluğunda dikenlerle kaplıdır, potasyum hidroksitte hiyalin ve Melzer reaktifinde kahverengimsidir; bazı kaynaklar 3,5–7,5 µm verir.",
+      "habitat": "Toprakta, çimde meyve verir: çim alanlarda, parklarda, golf sahalarında, otlaklarda, preride ve diğer açık çimenlik veya kseroterm habitatlarda, bazen açık ormanda veya yollar boyunca, tek tek, dağınık, gruplar halinde veya cadı halkalarında. Kuzey Amerika’nın büyük bölümünde yazın ve sonbaharda ortaya çıkar; doğu ve orta Teksas’ta hazirandan ekime kadar; daha kuzeydeki kaynaklar yaz sonunu ve erken sonbaharı veya ağustostan ekime kadar olan dönemi vurgular. Meyve gövdeleri çoğu zaman şiddetli yağmurdan sonra gelir. Steril tabanlar mevsimden sonra da kalabilir.",
+      "uses": "Yalnızca içi hâlâ saf beyaz ve sert olan meyve gövdeleri yenir. Bazı kaynaklar genç örnekleri mükemmel veya seçkin olarak nitelendirir. Diğer büyük puf mantarları gibi hazırlanır. Et sarı veya kahverengimsi olduğunda meyve gövdesi bırakılır.",
+      "confusion": "Calvatia gigantea genellikle daha düzgün ve daha soluktur, çoğu zaman daha büyüktür ve iyi gelişmiş bir steril tabanı yoktur; olgun spor kütlesi zeytin kahverengisinden kahverengiye değişir, mor değildir. Calvatia craniiformis genellikle keskin biçimde daralmış bir steril tabana ve olgunlukta sarı-kahverengi, mor olmayan bir spor kütlesine sahiptir ve tipik olarak mozaik pulları yoktur. Calvatia fragilis çok benzerdir ancak daha küçüktür ve olgunlukta daha az gelişmiş bir steril tabanı vardır; bazı yazarlar onu ayrı bir tür olarak ele alır, özellikle batı Kuzey Amerika’da. Scleroderma türleri, örneğin Scleroderma citrinum, daha küçük ve daha serttir ve iç kısım daha gençken koyu mor-siyah olur, çoğu zaman beyaz mermerleşme ile. Genç bir Amanita, düşey kesitte lameller ve bir sap gösterir, tekdüze beyaz bir iç kısım değil.",
+      "notes": "Polonya’da tehdit altında değerlendirilmiştir; 2003’e kadar yalnızca iki yayımlanmış kayıt vardır. Slovakya’da korunan bir mantar olarak listelenmiştir. Bazı yazarlar Calvatia fragilis’i bu türden ayrı tutar.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Сапротрофний дощовик трав'янистих місцезростань, зокрема газонів, парків, пасовищ і прерії. Він звичайний на більшій частині Північної Америки, але рідший на західному узбережжі, і трапляється також у Південній Америці, Австралії та на інших континентах. У Європі відомий лише в деяких країнах і рідкісний у Польщі.",
+      "cap": "Плодове тіло не має виразної шапинки. У зрілості воно зазвичай 8–20 см завширшки і 8–17 см заввишки; деякі дані вказують 5–20 см для висоти або ширини, а опубліковані європейські цифри охоплюють 6–12 см завширшки і до 10 см заввишки. Молоде воно кулясте, потім розвиває товсту базальну частину, трохи вужчу за верхню, тож зріле плодове тіло зазвичай нагадує перевернуту грушу або хліб. Зовнішня поверхня жовтаво-коричнева до світло-коричневої, часто розтріскується на дрібні мозаїчні лусочки і пізніше стає дуже світло-коричневою, сіруватою або майже білою, зі слабким мозаїчним малюнком полів і коричнюватими цятками. Оболонка суха, завтовшки близько 1–2 мм.",
+      "hymenium": "Глеба заповнює верхню частину плодового тіла і в молодості біла та щільна. Пізніше вона стає текстурно двокамерною: плодюча верхня частина відокремлена від стерильної основи, і між ними описано також тонку діафрагму. Глеба жовтіє і зрештою перетворюється на глибокий коричнево-фіолетовий або фіолетово-коричневий порошок. Пластинок немає. Оболонка не відкривається однією постійною порою; верхня частина розтріскується й опадає, а порошок розсіюють вітер і дощ. Нитки капіліцію завширшки близько 2–5 мкм, зі стінками завтовшки близько 0,5 мкм, гіалінові в гідроксиді калію, гладкі або дуже дрібно крапчасті й трохи звужені біля перегородок; інші дані вказують нитки 3–7,5 мкм або близько 2,5 мкм завширшки.",
+      "stipe": "Справжньої ніжки немає. У міру дозрівання плодового тіла розвивається товста стерильна основа, трохи вужча за плодючу верхню частину, і міцний міцеліальний шнур може прикріплювати основу до ґрунту. В одному описі зазначено широку основу, від якої відходить товстий міцеліальний шнур. Після розсіювання спорової маси стерильна основа може тижнями залишатися м'якою шкірястою чашею з торочкуватим верхнім краєм.",
+      "flesh": "У молодості внутрішність біла, щільна й однорідна, без зачатків пластинок. Запах і смак нехарактерні. Гідроксид калію не спричиняє зміни кольору на зовнішній поверхні. У міру дозрівання спор глеба стає жовтою, потім фіолетовою, а стерильна основа жовтавою, пізніше оливковою. Коли внутрішність уже не біла, плодове тіло залишають.",
+      "sporePrint": "Поки плодове тіло закрите, звичайного спорового відбитка не отримують. Зрілий споровий порошок фіолетовий або фіолетовий до фіолетово-коричневого. Спори кулясті, діаметром 3–6 мкм включно з орнаментацією, вкриті шипиками завдовжки 0,5–1 мкм, гіалінові в гідроксиді калію і коричнюваті в реактиві Мельцера; деякі дані вказують 3,5–7,5 мкм.",
+      "habitat": "Плодоносить на ґрунті в траві: на газонах, у парках, на полях для гольфу, пасовищах, прерії та інших відкритих трав'янистих або ксеротермних місцезростаннях, іноді у відкритому лісі чи вздовж доріг, поодинці, розсіяно, групами або відьминими кільцями. На більшій частині Північної Америки з'являється влітку й восени; у східному й центральному Техасі з червня по жовтень; більш північні дані підкреслюють кінець літа і початок осені або серпень–жовтень. Плодові тіла часто з'являються після сильних дощів. Стерильні основи можуть зберігатися й після сезону.",
+      "uses": "Вживають лише плодові тіла, внутрішність яких ще чисто біла й щільна. Деякі джерела називають молоді екземпляри чудовими або добірними. Їх готують як інші великі дощовики. Коли м'якоть жовтіє або буріє, плодове тіло залишають.",
+      "confusion": "Calvatia gigantea зазвичай гладкіша й блідіша, часто більша, і не має добре розвиненої стерильної основи; її зріла спорова маса оливково-коричнева до коричневої, не фіолетова. У Calvatia craniiformis зазвичай різко звужена стерильна основа і в зрілості жовтаво-коричнева, не фіолетова, спорова маса, а мозаїчні лусочки типово відсутні. Calvatia fragilis дуже схожа, але дрібніша, зі слабше розвиненою стерильною основою в зрілості; деякі автори розглядають її як окремий вид, особливо на заході Північної Америки. Види роду Scleroderma, наприклад Scleroderma citrinum, дрібніші й щільніші, а внутрішність уже в молодості стає темною фіолетово-чорною, часто з білим мармуруванням. Молода Amanita у вертикальному розрізі показує пластинки й ніжку, а не однорідну білу внутрішність.",
+      "notes": "У Польщі вид оцінено як такий, що перебуває під загрозою; до 2003 року було опубліковано лише дві знахідки. У Словаччині його зазначено як охоронюваний гриб. Деякі автори відокремлюють Calvatia fragilis від цього виду.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Calvatia_cyathiformis"
+      ],
+      "label": "пурпуроспоровий дощовик"
+    },
+    "zh": {
+      "description": "一种腐生的马勃，生于草地，包括草坪、公园、牧场和草原。在北美大部分地区常见，但西海岸较少，也见于南美、澳大利亚和其他大陆。在欧洲仅见于部分国家，在波兰稀少。",
+      "cap": "子实体没有明显的菌盖。成熟时通常宽8–20厘米、高8–17厘米；有的记载高度或宽度为5–20厘米，已发表的欧洲数值包括宽6–12厘米、高可达10厘米。幼时球形，随后形成比上部稍窄的粗大基部，因此成熟子实体通常呈倒梨形或面包形。外表面呈浅棕褐色至淡褐色，常裂成细小的镶嵌状鳞片，后来变为极淡的褐色、灰白色或近白色，带模糊的分区和褐色小点。外皮干燥，厚约1–2毫米。",
+      "hymenium": "产孢组织充满子实体上部，幼时白色而坚实。后来在质地上分为两室，可育的上部与不育基部相连，二者之间还曾被描述有一层薄隔膜。产孢组织变黄，最终成为深褐紫色至紫褐色粉末。没有菌褶。外皮不以一个持久的孔口开裂；上部破裂脱落，粉末由风和雨释放。孢丝宽约2–5 µm，壁厚约0.5 µm，在氢氧化钾中无色，平滑或有极细的小点，在隔膜处略收窄；另有记载宽3–7.5 µm或约2.5 µm。",
+      "stipe": "没有真正的菌柄。子实体成熟时形成粗大的不育基部，比可育上部稍窄，粗壮的菌索可将基部固定于土中。有记载描述宽阔的基部伸出粗菌索。孢子团散尽后，不育基部可数周保持为柔软革质的杯状残体，上缘呈撕裂状。",
+      "flesh": "幼时内部白色、坚实而均匀，没有菌褶原基。气味和味道不明显。氢氧化钾不使外表面变色。孢子成熟时，产孢组织变黄后变紫，不育基部变黄，后来呈橄榄色。内部不再呈白色时，子实体不再食用。",
+      "sporePrint": "子实体尚未开裂时，得不到通常的孢子印。成熟的孢子粉为紫色，或紫色至紫褐色。孢子球形，连纹饰直径3–6 µm，被长0.5–1 µm的小刺覆盖，在氢氧化钾中无色，在梅尔策试剂中呈褐色；有的记载为3.5–7.5 µm。",
+      "habitat": "生于草地的地面：草坪、公园、高尔夫球场、牧场、草原及其他开阔草地或干旱温暖处，有时见于疏林或路边，单生、散生、群生或成菌环。在北美大部分地区于夏秋出现；在得克萨斯东部和中部为6月至10月；更北的记载强调夏末秋初，或8月至10月。子实体常在大雨之后出现。不育基部可在季节过后残留。",
+      "uses": "只食用内部仍纯白而坚实的子实体。有的记载称幼嫩标本优良或上品。烹调方法与其他大型马勃相同。当菌肉变黄或变褐时，不再食用。",
+      "confusion": "Calvatia gigantea 通常更平滑、颜色更淡，往往更大，并且没有发育良好的不育基部；其成熟孢子团为橄榄褐色至褐色，不是紫色。Calvatia craniiformis 通常有骤然收窄的不育基部，成熟时孢子团为黄褐色而非紫色，并且通常没有镶嵌状鳞片。Calvatia fragilis 极为相似，但更小，成熟时不育基部发育较差；有些作者将其作为独立种，尤其在北美西部。Scleroderma 属的种类，例如 Scleroderma citrinum，更小更硬，内部在幼时就已变为深紫黑色，常有白色大理石纹。幼小的 Amanita 在纵切面上可见菌褶和菌柄，而不是均匀的白色内部。",
+      "notes": "在波兰被评估为受威胁，到2003年仅有两条已发表记录。在斯洛伐克被列为受保护的真菌。有些作者将 Calvatia fragilis 与本种分开处理。",
+      "names": [],
+      "sourceUrls": [
+        "https://zh.wikipedia.org/wiki/%E7%A7%83%E9%A9%AC%E5%8B%83%E5%B1%9E"
+      ],
+      "label": "杯形秃马勃"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Lycoperdon cyathiforme",
+      "author": "Bosc",
+      "year": 1811,
+      "rank": "species",
+      "type": "basionym",
+      "if": 221333
+    }
+  ],
+  "reserved": false,
+  "id": 196,
+  "citation": "J. Cincinnati Soc. Nat. Hist. 12(4): 168 (1890)"
 }
 ];
