@@ -1121,5 +1121,16 @@ export const TAXA = {
   },
   Paralepista: {
     rank: "genus"
+  },
+  Hypomyces: {
+    rank: "genus",
+    sk: "hubožer"
+  },
+  Galeropsidaceae: {
+    rank: "family"
+  },
+  Panaeolus: {
+    rank: "genus",
+    sk: "zvoncovec"
   }
 };

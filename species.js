@@ -209112,5 +209112,1985 @@ export const CATALOG = [
         "rank": "form"
       }
     ]
+  },
+  {
+    "id": 206,
+    "name": "Hypomyces chrysospermus",
+    "author": "(Bull.) Tul. & C. Tul.",
+    "citation": "Annls Sci. Nat., Bot., sér. 4 13: 16 (1860)",
+    "family": "Hypocreaceae",
+    "genus": "Hypomyces",
+    "order": "Hypocreales",
+    "path": [
+      "Fungi",
+      "Dikarya",
+      "Ascomycota",
+      "Pezizomycotina",
+      "Sordariomycetes",
+      "Hypocreomycetidae",
+      "Hypocreales",
+      "Hypocreaceae",
+      "Hypomyces"
+    ],
+    "summary": [
+      "Hypocreales",
+      "Hypocreaceae",
+      "Hypomyces"
+    ],
+    "edibility": "inedible",
+    "hymenium": "smooth",
+    "where": [
+      "ground"
+    ],
+    "color": [
+      "white",
+      "yellow",
+      "brown",
+      "red"
+    ],
+    "fruitingFrom": 6,
+    "fruitingTo": 11,
+    "added": "2026-11-23",
+    "label": {
+      "en": "bolete eater",
+      "sk": "hubožer zlatožltý",
+      "cs": "nedohub zlatovýtrusný",
+      "da": "gulskimmel-snylteskorpe",
+      "de": "Goldschimmel",
+      "et": "kollane üleniidik",
+      "fi": "tatinriesa",
+      "fr": "dermatose des bolets",
+      "hu": "aranypenész",
+      "ja": "アワタケヤドリ",
+      "lt": "auksiškasis grybvalktis",
+      "lv": "beku parazītsēne",
+      "nl": "goudgele zwameter",
+      "no": "rørsoppsnylter",
+      "pl": "podgrzybnica złotopylna",
+      "ru": "гипомицес золотистоспоровый",
+      "sl": "zlatična pajčevinka",
+      "sv": "gul svampsnylting",
+      "zh": "金孢菌寄生"
+    },
+    "names": {
+      "en": [
+        "bolete mould",
+        "bolete mold"
+      ],
+      "ar": [],
+      "bg": [],
+      "cs": [
+        "nedohub zlatovýtrusý",
+        "prašnička zlatožlutá"
+      ],
+      "da": [],
+      "de": [],
+      "es": [],
+      "et": [],
+      "fa": [],
+      "fi": [],
+      "fr": [],
+      "he": [],
+      "hi": [],
+      "hr": [],
+      "hu": [],
+      "id": [],
+      "it": [],
+      "ja": [
+        "アワタケヤドリタケ"
+      ],
+      "ko": [],
+      "lt": [],
+      "lv": [],
+      "nl": [],
+      "no": [
+        "røyrsoppsnyltar"
+      ],
+      "pl": [],
+      "pt": [],
+      "ro": [],
+      "ru": [],
+      "sk": [],
+      "sl": [],
+      "sr": [],
+      "sv": [],
+      "tr": [],
+      "uk": [],
+      "zh": [
+        "金孢菌寄生菌"
+      ]
+    },
+    "sources": {
+      "en": [
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=204359",
+          "detail": "204359"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=204359",
+          "detail": "204359"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        },
+        {
+          "group": "name",
+          "name": "Catalogue of Life",
+          "href": "https://www.catalogueoflife.org/data/taxon/3NXJJ"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q3487883"
+        },
+        {
+          "group": "text",
+          "name": "MushroomExpert",
+          "href": "https://www.mushroomexpert.com/hypomyces_chrysospermus.html"
+        },
+        {
+          "group": "text",
+          "name": "MykoWeb",
+          "href": "https://www.mykoweb.com/CAF/species/Hypomyces_chrysospermus.html"
+        },
+        {
+          "group": "text",
+          "name": "SVIMS",
+          "href": "https://svims.ca/council/Hypomy.htm"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/152947"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Hypomyces_chrysospermus"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Goldschimmel",
+          "detail": "de"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Nedohub_zlatov%C3%BDtrusn%C3%BD",
+          "detail": "cs"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Podgrzybnica_z%C5%82otopylna",
+          "detail": "pl"
+        }
+      ],
+      "cs": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Nedohub_zlatov%C3%BDtrusn%C3%BD",
+          "detail": "cs"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "da": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "de": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Goldschimmel",
+          "detail": "de"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "et": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://et.wikipedia.org/wiki/Kollane_%C3%BCleniidik",
+          "detail": "et"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "fi": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Tatinriesa",
+          "detail": "fi"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "fr": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "hu": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://hu.wikipedia.org/wiki/Aranypen%C3%A9sz",
+          "detail": "hu"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "ja": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "lt": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "lv": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "nl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Goudgele_zwameter",
+          "detail": "nl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "no": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "pl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Podgrzybnica_z%C5%82otopylna",
+          "detail": "pl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "ru": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "sk": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "sl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sl.wikipedia.org/wiki/Zlati%C4%8Dna_paj%C4%8Devinka",
+          "detail": "sl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "sv": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Gul_svampsnylting",
+          "detail": "sv"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2561867",
+          "detail": "2561867"
+        }
+      ],
+      "zh": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%AD%A2%E8%8F%8C%E5%AF%84%E7%94%9F",
+          "detail": "zh"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q3487883"
+        }
+      ]
+    },
+    "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus@1600.webp",
+    "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus@400.webp",
+    "plateCredit": {
+      "author": "Adrian Benko (Gemini)",
+      "credit": "Mycological plate generated with Gemini in Boudier style (848x1264 JPEG, LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows mature and young bolete hosts enveloped in white cottony, bright golden-yellow powdery, and reddish-brown pimpled stages of Hypomyces chrysospermus, an underside pore view, and a longitudinal cross-section.",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "source": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus@1600.webp",
+      "basedOn": []
+    },
+    "photos": [
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus_1.webp",
+        "author": "Ryan Hodnett",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Bolete_Mould_(Hypomyces_chrysospermus)_-_Sandnes,_Norway_2021-08-02_(02).jpg"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus_2.webp",
+        "author": "Rita Clare",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/4628290"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus_3.webp",
+        "author": "weed lady (plantcollector)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:2014-06-10_Hypomyces_chrysospermus_Tul._%26_C._Tul_425631.jpg"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus_4.webp",
+        "author": "Marc-Olivier Beausoleil",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/397925685"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Hypocreales/Hypocreaceae/Hypomyces_chrysospermus/Hypomyces_chrysospermus_5.webp",
+        "author": "Sam",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Hypomyces_chrysospermus_236556434.jpg"
+      }
+    ],
+    "text": {
+      "en": {
+        "description": "A parasitic ascomycete fungus that overgrows and mummifies boletes and occasional related mushrooms, spreading across the host in a cottony white, golden-yellow, and ultimately reddish-brown crust. Widespread across Europe, Asia, North America, Central America, and Oceania, it is especially common in temperate woodlands and southwestern Western Australia.",
+        "cap": "No independent cap is formed; instead, the parasite develops as a resupinate, mould-like subiculum that spreads across the host mushroom's cap, pores, and stipe, eventually enveloping the entire fruit body. It begins as a thin, white, tissue-like to cottony layer, soon turns bright golden-yellow and powdery during heavy asexual spore production, and in the seldom-seen final sexual stage hardens into a crust-like, reddish-brown to rufous-brown, finely pimpled layer. Subicular hyphae are 2–5 µm wide, septate, smooth, and hyaline in KOH.",
+        "hymenium": "No gills, tubes, or teeth are formed by the parasite itself; its mycelial coating instead fills and obliterates the host bolete's tubular pore layer. In the rarely observed sexual stage (teleomorph), tiny flask-shaped perithecia develop embedded within the darkening subiculum, their minute ostioles appearing under a hand lens as orange-yellow, brick-red, or reddish-brown pimples on the surface. Each perithecium contains cylindrical, eight-spored asci.",
+        "stipe": "Absent. The fungus produces no stipe of its own, growing directly as an enveloping mycelial layer and crust over the stipe, cap, and pore surface of its host mushroom.",
+        "flesh": "No separate fleshy tissue is produced by the parasite itself; the subiculum forms only a thin cottony mat that matures into a powdery coating and finally a delicate crust. As the infection progresses, the parasitized host bolete's flesh softens, becomes spongy and waterlogged, and decays into a putrescent, shapeless mass by the final stage.",
+        "sporePrint": "No standard spore print is taken, though the asexual stages yield abundant whitish and then bright golden-yellow powdery spore masses across the host. Three distinct spore types are produced across the life cycle: in the white asexual stage, smooth, thin-walled, hyaline, ellipsoid to oval conidia measuring 7–25 × 3–12 µm (typically 10–20 × 4–8 µm in KOH); in the golden-yellow asexual stage, thick-walled, globose, golden-yellow, warty to spiny aleuriospores (chlamydospores) measuring 10–25 µm in diameter (commonly 16–22 µm including spines about 1 µm long); and in the rare sexual stage, colourless, spindle-shaped to lanceolate, prominently warty, unequally two-celled ascospores with acute ends, measuring 20–30 × 4–6 µm.",
+        "habitat": "Parasitic on fruiting bodies of boletes in the family Boletaceae—especially species of Boletus, Xerocomus, Xerocomellus, and occasionally gilled boletes—as well as members of Paxillus and Rhizopogon in coniferous, deciduous, and mixed woodlands, and in coastal plant communities. Single fruit bodies or entire troops of hosts may be affected, most abundantly in wet seasons. In temperate regions it fruits mainly from June to November, persisting through winter in milder climates.",
+        "uses": "Inedible and potentially poisonous; neither the parasite nor any bolete infected by it should be eaten, even in the early white stage. In traditional Chinese medicine, the golden-yellow spore powder has been applied topically to open wounds and cuts to help stop external bleeding.",
+        "confusion": "Hypomyces microspermus is visually indistinguishable in the field and also produces a white-to-golden-yellow powdery coating, but it is restricted to xerocomelloid boletes and has smaller aleuriospores (12–16 µm across) and shorter, less prominently warty ascospores rarely exceeding 15 µm in length. Hypomyces lactifluorum attacks Russula and Lactarius species rather than boletes, transforming the host into a firm, bright orange-red, finely pimpled, edible crust. Hypomyces completus and Hypomyces transformans parasitize Suillus species, while Hypomyces melanocarpus favours Tylopilus. Hypomyces hyalinus engulfs Amanita fruit bodies in a purely white, firm, deforming crust without a golden-yellow powdery phase, and Hypomyces aurantius forms an orange-red crust on decaying polypores.",
+        "notes": "Most field encounters represent the asexual stages—first the white conidial phase and then the bright golden-yellow aleuriospore phase—because the host bolete usually rots into a shapeless mass before sexual perithecia mature. The fungus has been shown to produce cholesterol-lowering statin compounds and exhibits marked tolerance to heavy-metal stress, activating 1,839 genes associated with membrane function and metal transport in response to cadmium exposure."
+      },
+      "sk": {
+        "description": "Parazitická vreckatá huba, ktorá prerastá a mumifikuje hríbovité a príležitostne aj príbuzné huby, pričom sa po hostiteľovi šíri v podobe vatovitej bielej, zlatožltej a napokon červenohnedej kôry. Je rozšírená v Európe, Ázii, Severnej Amerike, Strednej Amerike a Oceánii, pričom je mimoriadne hojná v lesoch mierneho pásma a na juhozápade Západnej Austrálie.",
+        "cap": "Nevytvára samostatný klobúk; namiesto toho sa parazit vyvíja ako rozliate, plesňovité subikulum, ktoré sa šíri po klobúku, póroch a hlúbiku hostiteľskej huby a postupne obalí celú plodnicu. Začína ako tenká, biela, pavučinovitá až vatovitá vrstva, čoskoro sa pri intenzívnej tvorbe nepohlavných výtrusov sfarbuje do jasno zlatožlta a stáva sa práškovitou, a v zriedkavo pozorovanej záverečnej pohlavnej fáze stvrdne na kôrovitú, červenohnedú až hrdzavohnedú, jemne bradavčitú vrstvu. Hýfy subikula sú široké 2–5 µm, priehradkované, hladké a v KOH hyalínne.",
+        "hymenium": "Samotný parazit nevytvára lupene, rúrky ani ostne; jeho podhubový povlak namiesto toho vypĺňa a prekrýva rúrkatú vrstvu pórov hostiteľského hríba. V zriedkavo pozorovanej pohlavnej fáze (teleomorfa) sa v tmavnúcom subikule vyvíjajú drobné bankovité peritéciá, ktorých nepatrné ostioly sa pod lupou javia ako oranžovožlté, tehlovočervené alebo červenohnedé drobné bradavky na povrchu. Každé peritécium obsahuje valcovité, osemvýtrusné vrecká.",
+        "stipe": "Chýba. Huba nevytvára vlastný hlúbik, ale rastie priamo ako obalujúca vrstva podhubia a kôra na hlúbiku, klobúku a póroch hostiteľskej huby.",
+        "flesh": "Samotný parazit nevytvára samostatnú dužinu; subikulum tvorí iba tenkú vatovitú vrstvu, ktorá dozrieva na práškovitý povlak a napokon na jemnú kôru. Ako infekcia postupuje, dužina napadnutého hostiteľského hríba mäkne, stáva sa špongiovitou a vodnatou a v záverečnom štádiu sa rozkladá na zahnívajúcu, beztvarú hmotu.",
+        "sporePrint": "Bežný výtrusný prach sa nezbiera, hoci nepohlavné štádiá vytvárajú na hostiteľovi bohaté belavé a neskôr jasno zlatožlté práškovité masy výtrusov. Počas životného cyklu vznikajú tri odlišné typy výtrusov: v bielej nepohlavnej fáze hladké, tenkostenné, hyalínne, elipsoidné až oválne konídie s rozmermi 7–25 × 3–12 µm (v KOH zvyčajne 10–20 × 4–8 µm); v zlatožltej nepohlavnej fáze hrubostenné, guľovité, zlatožlté, bradavčité až ostnaté aleuriospóry (chlamydospóry) s priemerom 10–25 µm (bežne 16–22 µm vrátane ostňov dlhých približne 1 µm); a v zriedkavej pohlavnej fáze bezfarebné, vretenovité až kopijovité, výrazne bradavčité, nerovnomerne dvojbunkové askospóry so špicatými koncami a rozmermi 20–30 × 4–6 µm.",
+        "habitat": "Parazituje na plodniciach hríbovitých húb z čeľade Boletaceae – najmä druhov rodov Boletus, Xerocomus, Xerocomellus a príležitostne aj lupenatých hríbovitých húb – ako aj na zástupcoch rodov Paxillus a Rhizopogon v ihličnatých, listnatých a zmiešaných lesoch a v pobrežných rastlinných spoločenstvách. Napadnuté môžu byť jednotlivé plodnice alebo celé skupiny hostiteľov, najhojnejšie vo vlhkých obdobiach. V miernom pásme plodí najmä od júna do novembra, v miernejších podnebiach pretrváva aj počas zimy.",
+        "uses": "Nejedlá a potenciálne jedovatá; ani parazit, ani žiadny ním napadnutý hríb sa nesmú konzumovať, a to ani v počiatočnom bielom štádiu. V tradičnej čínskej medicíne sa zlatožltý výtrusný prášok používal zvonka na otvorené rany a rezné poranenia na zastavenie vonkajšieho krvácania.",
+        "confusion": "Hypomyces microspermus je v teréne voľným okom nerozlíšiteľný a taktiež vytvára biely až zlatožltý práškovitý povlak, obmedzuje sa však na suchohríbovité hríby z okruhu rodu Xerocomellus a má menšie aleuriospóry (s priemerom 12–16 µm) a kratšie, menej výrazne bradavčité askospóry, ktoré zriedkavo presahujú dĺžku 15 µm. Hypomyces lactifluorum napáda namiesto hríbov druhy rodov Russula a Lactarius, pričom mení hostiteľa na pevnú, jasno oranžovočervenú, jemne bradavčitú jedlú kôru. Hypomyces completus a Hypomyces transformans parazitujú na druhoch rodu Suillus, zatiaľ čo Hypomyces melanocarpus uprednostňuje rod Tylopilus. Hypomyces hyalinus obaľuje plodnice rodu Amanita čisto bielou, pevnou, deformujúcou kôrou bez zlatožltej práškovitej fázy a Hypomyces aurantius vytvára oranžovočervenú kôru na rozkladajúcich sa trúdnikoch.",
+        "notes": "Väčšina nálezov v prírode predstavuje nepohlavné štádiá – najprv bielu konídiovú fázu a potom jasno zlatožltú fázu aleuriospór – pretože hostiteľský hríb zvyčajne zhnije na beztvarú hmotu skôr, než dozrejú pohlavné peritéciá. Ukázalo sa, že huba produkuje statínové zlúčeniny znižujúce cholesterol a vykazuje výraznú toleranciu voči stresu z ťažkých kovov, pričom v reakcii na pôsobenie kadmia aktivuje 1 839 génov spojených s funkciou membrán a transportom kovov."
+      },
+      "ar": {
+        "description": "فطر زقي متطفل ينمو فوق فطريات البوليط وبعض الفطريات القريبة منها أحياناً فيحنّطها، وينتشر على العائل في هيئة قشرة قطنية بيضاء ثم صفراء ذهبية، وأخيراً بنية محمرة. ينتشر على نطاق واسع في أوروبا وآسيا وأمريكا الشمالية وأمريكا الوسطى وأوقيانوسيا، ويكثر بوجه خاص في الغابات المعتدلة وجنوب غرب أستراليا الغربية.",
+        "cap": "لا يكوّن الفطر قبعة مستقلة؛ بل ينمو الطفيل في هيئة نسيج خيطي سطحي (سبيكولوم) منبسط يشبه العفن، يمتد فوق قبعة الفطر العائل ومسامه وساقه حتى يغلف الجسم الثمري بأكمله. يبدأ في صورة طبقة رقيقة بيضاء تشبه النسيج الورقي إلى القطني، وسرعان ما يتحول إلى لون أصفر ذهبي زاهٍ ومسحوقي أثناء الإنتاج الكثيف للأبواغ اللاجنسية، وفي الطور الجنسي الأخير الذي نادراً ما يُشاهد يتصلب في هيئة طبقة قشرية بنية محمرة إلى بنية صدئة دقيقة الحبيبات. يبلغ عرض خيوط السبيكولوم ٢–٥ ميكرومتر، وهي مقسمة بحواجز وملساء وشفافة في محلول هيدروكسيد البوتاسيوم (KOH).",
+        "hymenium": "لا يكوّن الطفيل نفسه أي صفائح أو أنابيب أو أشواك؛ بل يملأ غطاؤه الغزلي طبقة الأنابيب والمسام في فطر البوليط العائل ويطمسها. وفي الطور الجنسي نادر الملاحظة (التيليومورف)، تتكون أجسام ثمرية قارورية دقيقة (بيريثيسيا) منغرسة داخل السبيكولوم الداكن، وتظهر فوهاتها الدقيقة تحت العدسة المكبرة كبثور صغيرة برتقالية صفراء أو حمراء آجُرية أو بنية محمرة على السطح. يحتوي كل جسم قاروري على زقاق أسطوانية تضم ثمانية أبواغ.",
+        "stipe": "غائبة. لا يكوّن الفطر ساقاً خاصة به، بل ينمو مباشرةً في هيئة طبقة غزلية وقشرة تغلف ساق الفطر العائل وقبعته وسطحه المسامي.",
+        "flesh": "لا يكوّن الطفيل نفسه لحماً منفصلاً؛ إذ لا يشكّل السبيكولوم سوى بساط قطني رقيق ينضج إلى طبقة مسحوقية ثم إلى قشرة رقيقة. ومع تقدم الإصابة، يلين لحم فطر البوليط العائل المصاب ويصبح إسفنجياً ومشبعاً بالماء، ثم يتحلل إلى كتلة متعفنة عديمة الشكل بحلول المرحلة الأخيرة.",
+        "sporePrint": "لا تُؤخذ له طبعة أبواغ قياسية، غير أن الأطوار اللاجنسية تنتج كتلاً مسحوقية غزيرة من الأبواغ، بيضاء اللون أولاً ثم صفراء ذهبية زاهية فوق العائل. تُنتَج ثلاثة أنواع متمايزة من الأبواغ خلال دورة الحياة: في الطور اللاجنسي الأبيض، أبواغ كونيدية ملساء رقيقة الجدران شفافة، إهليلجية إلى بيضاوية الشكل، أبعادها ٧–٢٥ × ٣–١٢ ميكرومتر (عادةً ١٠–٢٠ × ٤–٨ ميكرومتر في KOH)؛ وفي الطور اللاجنسي الأصفر الذهبي، أبواغ ألورية (أبواغ كلاميدية) سميكة الجدران كروية الشكل صفراء ذهبية، ثؤلولية إلى شوكية، يتراوح قطرها بين ١٠–٢٥ ميكرومتر (غالباً ١٦–٢٢ ميكرومتر شاملةً الأشواك التي يبلغ طولها نحو ١ ميكرومتر)؛ وفي الطور الجنسي النادر، أبواغ زقية عديمة اللون مغزلية إلى رمحية الشكل، بارزة الثآليل، ثنائية الخلية بشكل غير متساوٍ وذات طرفين حادين، أبعادها ٢٠–٣٠ × ٤–٦ ميكرومتر.",
+        "habitat": "متطفل على الأجسام الثمرية لفطريات البوليط من فصيلة Boletaceae—ولا سيما أنواع Boletus وXerocomus وXerocomellus، وأحياناً البوليطات ذات الصفائح—فضلاً عن أنواع من Paxillus وRhizopogon في الغابات الصنوبرية والنفضية والمختلطة وفي المجتمعات النباتية الساحلية. قد تصيب العدوى أجساماً ثمرية منفردة أو مجموعات كاملة من العوائل، وتكون أكثر وفرة في المواسم الرطبة. في المناطق المعتدلة يثمر أساساً من يونيو إلى نوفمبر، ويستمر خلال الشتاء في المناخات الأكثر اعتدالاً.",
+        "uses": "غير صالح للأكل ويُحتمل أن يكون ساماً؛ فلا ينبغي أكل الطفيل ولا أي فطر بوليط مصاب به، حتى في الطور الأبيض المبكر. وفي الطب الصيني التقليدي، استُخدم مسحوق الأبواغ الأصفر الذهبي موضعياً على الجروح والقطوع المفتوحة للمساعدة في إيقاف النزيف الخارجي.",
+        "confusion": "لا يمكن تمييز Hypomyces microspermus عنه بالعين المجردة في الحقل، إذ يكوّن هو الآخر طبقة مسحوقية بيضاء تتحول إلى صفراء ذهبية، لكنه يقتصر على البوليطات الشبيهة بجنس Xerocomellus وله أبواغ ألورية أصغر (قطرها ١٢–١٦ ميكرومتر) وأبواغ زقية أقصر وأقل بروزاً في الثآليل نادراً ما يتجاوز طولها ١٥ ميكرومتر. أما Hypomyces lactifluorum فيتطفل على أنواع Russula وLactarius بدلاً من البوليطات، محولاً العائل إلى قشرة صلبة برتقالية حمراء زاهية دقيقة الحبيبات وصالحة للأكل. ويتطفل كل من Hypomyces completus وHypomyces transformans على أنواع Suillus، في حين يفضّل Hypomyces melanocarpus جنس Tylopilus. ويغلف Hypomyces hyalinus الأجسام الثمرية لجنس Amanita بقشرة بيضاء خالصة صلبة ومشوهة دون طور مسحوقي أصفر ذهبي، بينما يكوّن Hypomyces aurantius قشرة برتقالية حمراء على الفطريات المسامية المتحللة.",
+        "notes": "تمثل معظم المشاهدات الحقلية الأطوار اللاجنسية—أولاً الطور الكونيدي الأبيض ثم طور الأبواغ الألورية الأصفر الذهبي الزاهي—لأن فطر البوليط العائل يتعفن عادةً إلى كتلة عديمة الشكل قبل نضج الأجسام القارورية الجنسية (البيريثيسيا). وقد ثبت أن هذا الفطر ينتج مركبات ستاتين خافضة للكوليسترول، ويبدي تحملاً ملحوظاً لإجهاد المعادن الثقيلة، إذ ينشّط ١٬٨٣٩ جيناً مرتبطاً بوظائف الأغشية ونقل المعادن استجابةً للتعرض للكادميوم."
+      },
+      "bg": {
+        "description": "Паразитна торбеста гъба, която обраства и мумифицира манатаркови и понякога сродни гъби, като се разпространява по гостоприемника под формата на памуковидна бяла, златистожълта и накрая червеникавокафява коричка. Широко разпространена е в Европа, Азия, Северна Америка, Централна Америка и Океания, като е особено честа в горите на умерения пояс и в югозападната част на Западна Австралия.",
+        "cap": "Не образува самостоятелна гугла; вместо това паразитът се развива като разстлан, плесеновиден субикулум, който се разпространява по гуглата, порите и пънчето на гъбата гостоприемник и постепенно обвива цялото плодно тяло. Започва като тънък, бял, ципест до памуковиден слой, скоро става ярко златистожълт и праховиден при обилното образуване на безполови спори, а в рядко наблюдаваната крайна полова фаза се втвърдява в коричковиден, червеникавокафяв до ръждивокафяв, фино брадавичест слой. Хифите на субикулума са широки 2–5 µm, преградени, гладки и хиалинни в KOH.",
+        "hymenium": "Самият паразит не образува ламели, тръбички или шипчета; вместо това мицелната му обвивка запълва и заличава тръбестия порест слой на манатарката гостоприемник. В рядко наблюдаваната полова фаза (телеоморфа) в потъмняващия субикулум се развиват миниатюрни колбовидни перитеции, чиито дребни остиоли изглеждат под лупа като оранжевожълти, тухленочервени или червеникавокафяви пъпчици по повърхността. Всеки перитеций съдържа цилиндрични аски (торбички) с по осем спори.",
+        "stipe": "Липсва. Гъбата не образува собствено пънче, а расте директно като обвиващ мицелен слой и коричка върху пънчето, гуглата и порестата повърхност на гъбата гостоприемник.",
+        "flesh": "Самият паразит не образува отделна месеста тъкан; субикулумът представлява само тънка памуковидна подложка, която узрява в праховидно покритие и накрая в фина коричка. С напредването на инфекцията месото на нападнатата манатарка гостоприемник омеква, става гъбесто и воднисто и до крайния стадий се разпада в гниеща, безформена маса.",
+        "sporePrint": "Стандартен споров прашец не се взема, макар безполовите стадии да образуват обилни белезникави, а след това ярко златистожълти праховидни маси от спори по гостоприемника. През жизнения цикъл се образуват три различни типа спори: в бялата безполова фаза гладки, тънкостенни, хиалинни, елипсовидни до овални конидии с размери 7–25 × 3–12 µm (обикновено 10–20 × 4–8 µm в KOH); в златистожълтата безполова фаза дебелостенни, кълбовидни, златистожълти, брадавичести до шипчести алеуриоспори (хламидоспори) с диаметър 10–25 µm (най-често 16–22 µm, включително шипчета с дължина около 1 µm); и в рядката полова фаза безцветни, вретеновидни до ланцетни, силно брадавичести, неравно двуклетъчни аскоспори със заострени краища и размери 20–30 × 4–6 µm.",
+        "habitat": "Паразитира по плодните тела на манатаркови гъби от семейство Boletaceae – особено видове от родовете Boletus, Xerocomus, Xerocomellus и понякога пластинчести манатарки – както и по представители на родовете Paxillus и Rhizopogon в иглолистни, широколистни и смесени гори и в крайбрежни растителни съобщества. Могат да бъдат засегнати единични плодни тела или цели групи гостоприемници, най-обилно през влажни сезони. В умерените области плодоноси главно от юни до ноември, като в по-мек климат се запазва и през зимата.",
+        "uses": "Неядлива и потенциално отровна; нито паразитът, нито заразена от него манатарка трябва да се консумират, дори в ранния бял стадий. В традиционната китайска медицина златистожълтият споров прах се е прилагал външно върху открити рани и порязвания за спиране на външно кървене.",
+        "confusion": "Hypomyces microspermus е визуално неразличим на терен и също образува бяло до златистожълто праховидно покритие, но е ограничен до манатарки от групата на род Xerocomellus и има по-малки алеуриоспори (12–16 µm в диаметър) и по-къси, по-слабо брадавичести аскоспори, рядко надвишаващи 15 µm на дължина. Hypomyces lactifluorum напада видове от родовете Russula и Lactarius вместо манатарки, като превръща гостоприемника в твърда, ярко оранжевочервена, фино брадавичеста ядлива коричка. Hypomyces completus и Hypomyces transformans паразитират по видове от род Suillus, докато Hypomyces melanocarpus предпочита род Tylopilus. Hypomyces hyalinus обвива плодните тела на род Amanita в чисто бяла, твърда, деформираща коричка без златистожълта праховидна фаза, а Hypomyces aurantius образува оранжевочервена коричка по гниещи полипорови гъби.",
+        "notes": "Повечето срещи на терен представляват безполовите стадии – първо бялата конидиална фаза, а след това ярко златистожълтата фаза на алеуриоспорите – тъй като манатарката гостоприемник обикновено изгнива до безформена маса, преди да узреят половите перитеции. Доказано е, че гъбата произвежда статинови съединения, понижаващи холестерола, и проявява подчертана поносимост към стрес от тежки метали, като активира 1 839 гена, свързани с функцията на мембраните и транспорта на метали в отговор на излагане на кадмий."
+      },
+      "cs": {
+        "description": "Parazitická vřeckovýtrusná houba, která přerůstá a mumifikuje hřibovité a příležitostně i příbuzné houby, přičemž se po hostiteli šíří v podobě vatovité bílé, zlatožluté a nakonec červenohnědé krusty. Je rozšířená v Evropě, Asii, Severní Americe, Střední Americe a Oceánii, přičemž je zvláště hojná v lesích mírného pásu a na jihozápadě Západní Austrálie.",
+        "cap": "Nevytváří samostatný klobouk; místo toho se parazit vyvíjí jako rozlité, plísňovité subikulum, které se šíří po klobouku, pórech a třeni hostitelské houby a postupně obalí celou plodnici. Začíná jako tenká, bílá, pavučinovitá až vatovitá vrstva, brzy se při intenzivní tvorbě nepohlavních výtrusů zbarvuje do jasně zlatožluté a stává se práškovitou, a ve vzácně pozorované závěrečné pohlavní fázi ztvrdne v krustovitou, červenohnědou až rezavě hnědou, jemně bradavčitou vrstvu. Hyfy subikula jsou široké 2–5 µm, přehrádkované, hladké a v KOH hyalinní.",
+        "hymenium": "Samotný parazit nevytváří lupeny, rourky ani ostny; jeho myceliový povlak místo toho vyplňuje a pohlcuje rourkatou vrstvu pórů hostitelského hřibu. Ve vzácně pozorované pohlavní fázi (teleomorfa) se v tmavnoucím subikulu vyvíjejí drobná baňkovitá perithecia, jejichž nepatrné ostioly se pod lupou jeví jako oranžovožluté, cihlově červené nebo červenohnědé pupínky na povrchu. Každé perithecium obsahuje válcovitá, osmivýtrusná vřecka.",
+        "stipe": "Chybí. Houba nevytváří vlastní třeň, ale roste přímo jako obalující vrstva mycelia a krusta na třeni, klobouku a pórech hostitelské houby.",
+        "flesh": "Samotný parazit nevytváří samostatnou dužninu; subikulum tvoří pouze tenkou vatovitou plst, která dozrává v práškovitý povlak a nakonec v jemnou krustu. S postupem infekce dužnina napadeného hostitelského hřibu měkne, stává se houbovitou a vodnatou a v závěrečném stadiu se rozkládá v zahnívající, beztvarou hmotu.",
+        "sporePrint": "Běžný výtrusný prach se neodebírá, ačkoli nepohlavní stadia vytvářejí na hostiteli bohaté bělavé a poté jasně zlatožluté práškovité masy výtrusů. Během životního cyklu vznikají tři odlišné typy výtrusů: v bílé nepohlavní fázi hladké, tenkostěnné, hyalinní, elipsoidní až oválné konidie o rozměrech 7–25 × 3–12 µm (v KOH obvykle 10–20 × 4–8 µm); ve zlatožluté nepohlavní fázi tlustostěnné, kulovité, zlatožluté, bradavčité až ostnité aleuriospory (chlamydospory) o průměru 10–25 µm (běžně 16–22 µm včetně ostnů dlouhých asi 1 µm); a ve vzácné pohlavní fázi bezbarvé, vřetenovité až kopinaté, výrazně bradavčité, nestejně dvoubuněčné askospory se zašpičatělými konci o rozměrech 20–30 × 4–6 µm.",
+        "habitat": "Parazituje na plodnicích hřibovitých hub z čeledi Boletaceae – zejména druhů rodů Boletus, Xerocomus, Xerocomellus a příležitostně i lupenatých hřibovitých hub – stejně jako na zástupcích rodů Paxillus a Rhizopogon v jehličnatých, listnatých a smíšených lesích a v pobřežních rostlinných společenstvech. Napadeny mohou být jednotlivé plodnice nebo celé skupiny hostitelů, nejhojněji za vlhkých období. V mírném pásu plodí především od června do listopadu, v mírnějších podnebích přetrvává i přes zimu.",
+        "uses": "Nejedlá a potenciálně jedovatá; ani parazit, ani žádný jím napadený hřib se nesmějí jíst, a to ani v raném bílém stadiu. V tradiční čínské medicíně se zlatožlutý výtrusný prášek přikládal zevně na otevřené rány a řezná poranění k zastavení vnějšího krvácení.",
+        "confusion": "Hypomyces microspermus je v terénu pouhým okem nerozlišitelný a rovněž vytváří bílý až zlatožlutý práškovitý povlak, ale je vázán na suchohřiby z okruhu rodu Xerocomellus a má menší aleuriospory (o průměru 12–16 µm) a kratší, méně výrazně bradavčité askospory zřídka přesahující délku 15 µm. Hypomyces lactifluorum napadá místo hřibů druhy rodů Russula a Lactarius a mění hostitele v pevnou, jasně oranžovočervenou, jemně bradavčitou jedlou krustu. Hypomyces completus a Hypomyces transformans parazitují na druzích rodu Suillus, zatímco Hypomyces melanocarpus upřednostňuje rod Tylopilus. Hypomyces hyalinus obaluje plodnice rodu Amanita čistě bílou, pevnou, deformující krustou bez zlatožluté práškovité fáze a Hypomyces aurantius vytváří oranžovočervenou krustu na tlejících choroších.",
+        "notes": "Většina nálezů v přírodě představuje nepohlavní stadia – nejprve bílou konidiovou fázi a poté jasně zlatožlutou fázi aleuriospor – protože hostitelský hřib obvykle shnije v beztvarou hmotu dříve, než dozrají pohlavní perithecia. Bylo prokázáno, že houba produkuje statinové sloučeniny snižující hladinu cholesterolu a vykazuje výraznou toleranci vůči stresu z těžkých kovů, přičemž v reakci na působení kadmia aktivuje 1 839 genů spojených s funkcí membrán a transportem kovů."
+      },
+      "da": {
+        "description": "En parasitisk sæksvamp, der overvokser og mumificerer rørhatte og lejlighedsvis beslægtede svampe og breder sig hen over værten som en vatagtig hvid, gyldengul og til sidst rødbrun skorpe. Den er vidt udbredt i Europa, Asien, Nord- og Mellemamerika samt Oceanien og er særlig almindelig i tempererede skove og i det sydvestlige Western Australia.",
+        "cap": "Der dannes ingen selvstændig hat; i stedet udvikler parasitten sig som et resupinat, skimmelagtigt subiculum, der breder sig over værtssvampens hat, porer og stok og til sidst omslutter hele frugtlegemet. Det begynder som et tyndt, hvidt, hinde- til vatagtigt lag, bliver snart klart gyldengult og pulveragtigt under den kraftige ukønnede sporedannelse, og hærder i det sjældent sete afsluttende kønnede stadium til et skorpeagtigt, rødbrunt til rævebrunt, fint nopret lag. Subiculums hyfer er 2–5 µm brede, septerede, glatte og hyaline i KOH.",
+        "hymenium": "Parasitten danner ingen egne lameller, rør eller pigge; dens myceliebelægning udfylder og udsletter i stedet værtsrørhattens rørlag og porer. I det sjældent observerede kønnede stadium (teleomorf) udvikles bittesmå flaskeformede perithecier indlejret i det mørknende subiculum, hvis små mundinger (ostioler) under lup fremtræder som orangegule, teglrøde eller rødbrune små vorter på overfladen. Hvert perithecium indeholder cylindriske, ottesporede sække (asci).",
+        "stipe": "Mangler. Svampen danner ingen egen stok, men vokser direkte som et omsluttende mycelielag og en skorpe hen over stokken, hatten og porelaget på sin værtssvamp.",
+        "flesh": "Parasitten danner intet selvstændigt kødet væv; subiculum udgør kun en tynd vatagtig måtte, der modnes til en pulveragtig belægning og til sidst en tynd skorpe. Efterhånden som infektionen skrider frem, bliver kødet i den parasiterede rørhat blødt, svampet og vanddrukken og nedbrydes i slutstadiet til en rådnende, formløs masse.",
+        "sporePrint": "Et almindeligt sporeaftryk tages ikke, men de ukønnede stadier frembringer rigelige hvidlige og derefter klart gyldengule, pulveragtige sporemasser over hele værten. Der dannes tre forskellige sporetyper gennem livscyklussen: i det hvide ukønnede stadium glatte, tyndvæggede, hyaline, ellipsoidiske til ovale konidier på 7–25 × 3–12 µm (typisk 10–20 × 4–8 µm i KOH); i det gyldengule ukønnede stadium tykvæggede, kugleformede, gyldengule, vortede til piggede aleuriosporer (chlamydosporer) med en diameter på 10–25 µm (oftest 16–22 µm inklusive pigge på omkring 1 µm); og i det sjældne kønnede stadium farveløse, tenformede til lancetformede, tydeligt vortede, uligetocellede askosporer med spidse ender på 20–30 × 4–6 µm.",
+        "habitat": "Parasitisk på frugtlegemer af rørhatte i familien Boletaceae – især arter af Boletus, Xerocomus, Xerocomellus og lejlighedsvis lamelbærende rørhatte – samt arter af Paxillus og Rhizopogon i nåle-, løv- og blandingsskove og i kystnære plantesamfund. Både enkelte frugtlegemer og hele grupper af værter kan angribes, rigeligst i fugtige sæsoner. I tempererede egne fruktificerer den hovedsageligt fra juni til november og kan i mildere klimaer vare ved gennem vinteren.",
+        "uses": "Uspiselig og potentielt giftig; hverken parasitten eller nogen rørhat inficeret af den bør spises, heller ikke i det tidlige hvide stadium. I traditionel kinesisk medicin er det gyldengule sporepulver blevet påført udvortes på åbne sår og snitsår for at hjælpe med at standse ydre blødninger.",
+        "confusion": "Hypomyces microspermus kan ikke skelnes visuelt i felten og danner ligeledes en hvid til gyldengul pulveragtig belægning, men den er begrænset til rørhatte i Xerocomellus-gruppen og har mindre aleuriosporer (12–16 µm i diameter) samt kortere, mindre tydeligt vortede askosporer, der sjældent overstiger 15 µm i længden. Hypomyces lactifluorum angriber arter af Russula og Lactarius i stedet for rørhatte og omdanner værten til en fast, klart orangerød, fint nopret, spiselig skorpe. Hypomyces completus og Hypomyces transformans parasiterer på Suillus-arter, mens Hypomyces melanocarpus foretrækker Tylopilus. Hypomyces hyalinus indhyller frugtlegemer af Amanita i en rent hvid, fast, deformerende skorpe uden en gyldengul pulveragtig fase, og Hypomyces aurantius danner en orangerød skorpe på nedbrudte poresvampe.",
+        "notes": "De fleste fund i naturen udgør de ukønnede stadier – først den hvide konidiefase og derefter den klart gyldengule aleuriosporefase – fordi værtsrørhatten som regel rådner til en formløs masse, før de kønnede perithecier modnes. Svampen har vist sig at producere kolesterolsænkende statinforbindelser og udviser udtalt tolerance over for tungmetalstress, idet den aktiverer 1839 gener forbundet med membranfunktion og metaltransport som reaktion på eksponering for cadmium."
+      },
+      "de": {
+        "description": "Ein parasitischer Schlauchpilz, der Röhrlinge und gelegentlich verwandte Pilze überwuchert und mumifiziert und dabei den Wirt mit einer watteartigen weißen, goldgelben und schließlich rotbraunen Kruste überzieht. Er ist in Europa, Asien, Nord- und Mittelamerika sowie Ozeanien weit verbreitet und besonders häufig in Wäldern der gemäßigten Breiten und im Südwesten von Western Australia.",
+        "cap": "Es wird kein eigener Hut gebildet; stattdessen entwickelt sich der Parasit als resupinates, schimmelartiges Subikulum, das sich über Hut, Poren und Stiel des Wirtspilzes ausbreitet und schließlich den gesamten Fruchtkörper einhüllt. Anfangs bildet es eine dünne, weiße, gewebe- bis watteartige Schicht, färbt sich bald während der starken asexuellen Sporenbildung leuchtend goldgelb und pulvrig und verhärtet im selten beobachteten abschließenden sexuellen Stadium zu einer krustenartigen, rotbraunen bis fuchsbraunen, fein körnig-warzigen Schicht. Die Hyphen des Subikulums sind 2–5 µm breit, septiert, glatt und in KOH hyalin.",
+        "hymenium": "Der Parasit bildet selbst keine Lamellen, Röhren oder Stacheln aus; sein Myzelüberzug füllt und verdeckt stattdessen die Röhrenschicht des befallenen Röhrlings. Im selten beobachteten sexuellen Stadium (Teleomorphe) entwickeln sich winzige flaschenförmige Perithezien eingebettet im nachdunkelnden Subikulum; ihre winzigen Mündungen (Ostiolen) erscheinen unter der Lupe als orangegelbe, ziegelrote oder rotbraune Pickel auf der Oberfläche. Jedes Perithecium enthält zylindrische, achtsporige Schläuche (Asci).",
+        "stipe": "Fehlt. Der Pilz bildet keinen eigenen Stiel aus, sondern wächst unmittelbar als einhüllende Myzelschicht und Kruste über Stiel, Hut und Porenfläche seines Wirtspilzes.",
+        "flesh": "Der Parasit bildet kein eigenes fleischiges Gewebe; das Subikulum besteht nur aus einem dünnen watteartigen Filz, der zu einem pulvrigen Belag und schließlich zu einer zarten Kruste reift. Mit fortschreitendem Befall wird das Fleisch des parasitierten Röhrlings weich, schwammig und wassergesättigt und zerfällt im Endstadium zu einer fauligen, formlosen Masse.",
+        "sporePrint": "Ein reguläres Sporenpulver wird nicht gewonnen, doch bilden die asexuellen Stadien reichlich weißliche und anschließend leuchtend goldgelbe, pulvrige Sporenmassen auf dem Wirt. Im Lebenszyklus entstehen drei verschiedene Sporentypen: im weißen asexuellen Stadium glatte, dünnwandige, hyaline, ellipsoide bis ovale Konidien von 7–25 × 3–12 µm (typischerweise 10–20 × 4–8 µm in KOH); im goldgelben asexuellen Stadium dickwandige, kugelige, goldgelbe, warzige bis stachelige Aleuriosporen (Chlamydosporen) mit 10–25 µm Durchmesser (häufig 16–22 µm einschließlich etwa 1 µm langer Stacheln); und im seltenen sexuellen Stadium farblose, spindelförmige bis lanzettliche, deutlich warzige, ungleich zweizellige Askosporen mit zugespitzten Enden von 20–30 × 4–6 µm.",
+        "habitat": "Parasitisch auf Fruchtkörpern von Röhrlingen der Familie Boletaceae – insbesondere Arten von Boletus, Xerocomus, Xerocomellus und gelegentlich Blätterpilz-Verwandten der Röhrlinge – sowie Vertretern von Paxillus und Rhizopogon in Nadel-, Laub- und Mischwäldern sowie in Küstenpflanzengesellschaften. Es können einzelne Fruchtkörper oder ganze Gruppen von Wirtspilzen befallen sein, am reichlichsten in feuchten Jahreszeiten. In gemäßigten Regionen fruktifiziert er vor allem von Juni bis November, in milderen Klimaten überdauert er auch den Winter.",
+        "uses": "Ungenießbar und potenziell giftig; weder der Parasit noch ein von ihm befallener Röhrling darf verzehrt werden, selbst im frühen weißen Stadium nicht. In der traditionellen chinesischen Medizin wurde das goldgelbe Sporenpulver äußerlich auf offene Wunden und Schnittverletzungen aufgetragen, um äußere Blutungen zu stillen.",
+        "confusion": "Hypomyces microspermus ist im Gelände äußerlich nicht zu unterscheiden und bildet ebenfalls einen weißen bis goldgelben, pulvrigen Belag, ist jedoch auf Filzröhrlinge (xerocomelloide Röhrlinge) beschränkt und besitzt kleinere Aleuriosporen (12–16 µm im Durchmesser) sowie kürzere, weniger stark warzige Askosporen, die selten länger als 15 µm werden. Hypomyces lactifluorum befällt statt Röhrlingen Arten von Russula und Lactarius und verwandelt den Wirt in eine feste, leuchtend orangerote, fein pickelige, essbare Kruste. Hypomyces completus und Hypomyces transformans parasitieren auf Suillus-Arten, während Hypomyces melanocarpus Tylopilus-Arten bevorzugt. Hypomyces hyalinus überzieht Fruchtkörper von Amanita mit einer rein weißen, festen, verformenden Kruste ohne goldgelbe pulvrige Phase, und Hypomyces aurantius bildet eine orangerote Kruste auf zerfallenden Porlingen.",
+        "notes": "Die meisten Freilandfunde betreffen die asexuellen Stadien – zuerst die weiße Konidienphase und dann die leuchtend goldgelbe Aleuriosporenphase –, da der befallene Röhrling meist schon zu einer formlosen Masse verfault, bevor die sexuellen Perithezien reifen. Der Pilz bildet nachweislich cholesterinsenkende Statinverbindungen und zeigt eine ausgeprägte Toleranz gegenüber Schwermetallstress, wobei er als Reaktion auf Cadmiumexposition 1839 Gene aktiviert, die mit Membranfunktionen und Metalltransport zusammenhängen."
+      },
+      "es": {
+        "description": "Hongo ascomiceto parásito que invade y momifica boletos y, ocasionalmente, otras setas afines, extendiéndose sobre el hospedador en forma de una costra algodonosa blanca, luego amarillo dorado y finalmente pardo rojiza. Ampliamente distribuido por Europa, Asia, Norteamérica, Centroamérica y Oceanía, es especialmente frecuente en bosques templados y en el suroeste de Australia Occidental.",
+        "cap": "No forma un sombrero independiente; en su lugar, el parásito se desarrolla como un subículo resupinado, de aspecto mohoso, que se extiende por el sombrero, los poros y el pie de la seta hospedadora hasta envolver por completo el cuerpo fructífero. Comienza como una capa fina y blanca, de aspecto tisular a algodonoso, pronto se torna amarillo dorado vivo y pulverulenta durante la intensa producción de esporas asexuales y, en la fase sexual final —raramente observada—, se endurece en una costra pardo rojiza a pardo ferruginosa finamente granulosa. Las hifas del subículo miden 2–5 µm de anchura y son septadas, lisas e hialinas en KOH.",
+        "hymenium": "El propio parásito no forma láminas, tubos ni aguijones; su revestimiento micelial rellena y oblitera la capa de tubos y poros del boleto hospedador. En la fase sexual raramente observada (teleomorfo), se desarrollan diminutos peritecios en forma de botella embebidos en el subículo oscurecido, cuyos minúsculos ostíolos aparecen bajo la lupa como granitos amarillo anaranjados, rojo ladrillo o pardo rojizos sobre la superficie. Cada peritecio contiene ascas cilíndricas octospóricas.",
+        "stipe": "Ausente. El hongo no produce pie propio y crece directamente como una capa micelial envolvente y una costra sobre el pie, el sombrero y la superficie porada de la seta hospedadora.",
+        "flesh": "El parásito no produce tejido carnoso propio; el subículo forma únicamente un fino tapiz algodonoso que madura en un revestimiento pulverulento y finalmente en una costra delicada. A medida que avanza la infección, la carne del boleto hospedador parasitado se reblandece, se vuelve esponjosa y empapada de agua, y en la fase final se descompone en una masa putrescente e informe.",
+        "sporePrint": "No se obtiene una esporada convencional, aunque las fases asexuales generan abundantes masas pulverulentas de esporas blanquecinas y luego amarillo dorado vivo sobre el hospedador. A lo largo del ciclo vital se producen tres tipos distintos de esporas: en la fase asexual blanca, conidios lisos, de pared fina, hialinos, elipsoides a ovales, de 7–25 × 3–12 µm (por lo general 10–20 × 4–8 µm en KOH); en la fase asexual amarillo dorado, aleuriosporas (clamidosporas) globosas, de pared gruesa, amarillo dorado, verrugosas a espinosas, de 10–25 µm de diámetro (habitualmente 16–22 µm incluyendo espinas de aproximadamente 1 µm de longitud); y en la rara fase sexual, ascosporas incoloras, fusiformes a lanceoladas, marcadamente verrugosas, desigualmente bicelulares y con extremos agudos, de 20–30 × 4–6 µm.",
+        "habitat": "Parásito de los cuerpos fructíferos de boletos de la familia Boletaceae —especialmente especies de Boletus, Xerocomus, Xerocomellus y ocasionalmente boletos laminados—, así como de representantes de Paxillus y Rhizopogon, en bosques de coníferas, frondosas y mixtos, y en comunidades vegetales costeras. Puede afectar a cuerpos fructíferos aislados o a grupos enteros de hospedadores, con mayor abundancia en temporadas húmedas. En las regiones templadas fructifica principalmente de junio a noviembre, persistiendo durante el invierno en climas más suaves.",
+        "uses": "No comestible y potencialmente tóxico; no debe consumirse ni el parásito ni ningún boleto infectado por él, ni siquiera en la fase blanca inicial. En la medicina tradicional china, el polvo de esporas amarillo dorado se ha aplicado tópicamente sobre heridas abiertas y cortes para ayudar a detener hemorragias externas.",
+        "confusion": "Hypomyces microspermus es indistinguible a simple vista en el campo y también forma un revestimiento pulverulento de blanco a amarillo dorado, pero está restringido a boletos xerocomeloides y presenta aleuriosporas más pequeñas (12–16 µm de diámetro) y ascosporas más cortas, menos prominentemente verrugosas, que rara vez superan los 15 µm de longitud. Hypomyces lactifluorum ataca especies de Russula y Lactarius en lugar de boletos, transformando al hospedador en una costra firme, rojo anaranjada viva, finamente granulosa y comestible. Hypomyces completus e Hypomyces transformans parasitan especies de Suillus, mientras que Hypomyces melanocarpus prefiere el género Tylopilus. Hypomyces hyalinus envuelve los cuerpos fructíferos de Amanita en una costra deformante firme y puramente blanca, sin fase pulverulenta amarillo dorado, e Hypomyces aurantius forma una costra rojo anaranjada sobre políporos en descomposición.",
+        "notes": "La mayoría de los hallazgos de campo corresponden a las fases asexuales —primero la fase conidial blanca y luego la fase amarillo dorado vivo de aleuriosporas—, ya que el boleto hospedador suele pudrirse hasta convertirse en una masa informe antes de que maduren los peritecios sexuales. Se ha demostrado que este hongo produce estatinas reductoras del colesterol y muestra una notable tolerancia al estrés por metales pesados, activando 1839 genes relacionados con la función de membrana y el transporte de metales en respuesta a la exposición al cadmio."
+      },
+      "et": {
+        "description": "Parasiitne kottseen, mis kasvab üle puravike ja aeg-ajalt ka sugulasliikide viljakehade ning mumifitseerib need, kattes peremehe algul vatja valge, seejärel kuldkollase ja lõpuks punakaspruuni koorikuga. Laialt levinud Euroopas, Aasias, Põhja- ja Kesk-Ameerikas ning Okeaanias; eriti sage parasvöötme metsades ja Lääne-Austraalia edelaosas.",
+        "cap": "Iseseisvat kübarat ei moodustu; selle asemel areneb parasiit liibuva, hallituselaadse subiikulumina, mis levib üle peremeesseene kübara, pooride ja jala, mässides lõpuks kogu viljakeha endasse. See algab õhukese, valge, kileja kuni vatja kihina, muutub rohke mittesugulise eoste tekke ajal peagi erkkuldkollaseks ja jahuseks ning kõveneb harva nähtavas lõplikus sugulises staadiumis koorikutaoliseks, punakaspruuniks kuni roostepruuniks, peenelt näsaliseks kihiks. Subiikulumi hüüfid on 2–5 µm laiad, vaheseintega, siledad ja KOH-s värvitud.",
+        "hymenium": "Parasiit ise ei moodusta eoslehti, torukesi ega narmaid; selle seeneniidistikuline kate täidab ja hävitab hoopis peremeespuraviku torukestest koosneva poorikihi. Harva vaadeldavas sugulises staadiumis (teleomorf) arenevad tumeneva subiikulumi sees tillukesed pudelikujulised periteetsiumid, mille pisikesed suudmed paistavad luubi all pinnal oranžikaskollaste, telliskivipunaste või punakaspruunide näsakestena. Iga periteetsium sisaldab silindrilisi, kaheksaeoselisi kotte (askuseid).",
+        "stipe": "Puudub. Seen ei moodusta omaette jalga, vaid kasvab otseselt peremeesseene jalga, kübarat ja poorikihti ümbritseva seeneniidistikulise kihi ja koorikuna.",
+        "flesh": "Parasiit ise ei moodusta eraldiseisvat seeneliha; subiikulum koosneb vaid õhukesest vatjast kattest, mis küpsedes muutub jahuseks kihiks ja lõpuks õrnaks koorikuks. Nakkuse süvenedes pehmeneb nakatunud peremeespuraviku seeneliha, muutub käsnjaks ja vesiseks ning laguneb lõppstaadiumiks roiskuvaks, vormituks massiks.",
+        "sporePrint": "Tavapärast eosetolmu ei võeta, kuigi mittesugulised staadiumid toodavad peremehel rikkalikult valkjat ja seejärel erkkuldkollast jahust eosemassi. Elutsükli jooksul moodustub kolm selgelt eristuvat eosetüüpi: valges mittesugulises staadiumis siledad, õhukeseseinalised, värvitud, ellipsoidsetest kuni ovaalseteni ulatuvad koniidid mõõtmetega 7–25 × 3–12 µm (KOH-s tavaliselt 10–20 × 4–8 µm); kuldkollases mittesugulises staadiumis paksuseinalised, kerajad, kuldkollased, näsalised kuni ogalised aleuriospoorid (klamüdospoorid) läbimõõduga 10–25 µm (tavaliselt 16–22 µm koos umbes 1 µm pikkuste ogadega); ning haruldases sugulises staadiumis värvitud, käävjad kuni süstjad, tugevalt näsalised, ebavõrdselt kaherakulised teravate otstega kottspoorid mõõtmetega 20–30 × 4–6 µm.",
+        "habitat": "Parasiitne sugukonna Boletaceae puravike — eriti perekondade Boletus, Xerocomus ja Xerocomellus liikide ning aeg-ajalt ka eoslehtedega puravikuliste —, samuti perekondade Paxillus ja Rhizopogon liikide viljakehadel okas-, leht- ja segametsades ning ranniku taimekooslustes. Nakatuda võivad nii üksikud viljakehad kui ka terved peremeesseente kogumikud, kõige rikkalikumalt niisketel aastaaegadel. Parasvöötmes esineb peamiselt juunist novembrini, pehmema kliimaga aladel püsides läbi talve.",
+        "uses": "Mittesöödav ja potentsiaalselt mürgine; süüa ei tohi ei parasiiti ennast ega ühtegi sellega nakatunud puravikku, isegi mitte varajases valges staadiumis. Traditsioonilises Hiina meditsiinis on kuldkollast eosepulbrit kantud välispidiselt lahtistele haavadele ja lõikehaavadele välise verejooksu peatamiseks.",
+        "confusion": "Hypomyces microspermus on looduses visuaalselt eristamatu ja moodustab samuti valge kuni kuldkollase jahuse katte, kuid piirdub perekonna Xerocomellus ja lähedaste puravikega ning sellel on väiksemad aleuriospoorid (läbimõõduga 12–16 µm) ja lühemad, vähem näsalised kottspoorid, mis ületavad harva 15 µm pikkuse. Hypomyces lactifluorum ründab puravike asemel perekondade Russula ja Lactarius liike, muutes peremehe tihkeks, erk-oranžikaspunaseks, peenelt näsaliseks söödavaks koorikuks. Hypomyces completus ja Hypomyces transformans parasiteerivad perekonna Suillus liikidel, samas kui Hypomyces melanocarpus eelistab perekonda Tylopilus. Hypomyces hyalinus mähib perekonna Amanita viljakehad puhtvalgesse, tihkesse ja moonutavasse koorikusse ilma kuldkollase jahuse faasita ning Hypomyces aurantius moodustab oranžikaspunase kooriku lagunevatel torikseentel.",
+        "notes": "Enamik leide looduses kujutab endast mittesugulisi staadiume — esmalt valget koniidifaasi ja seejärel erkkuldkollast aleuriospoorifaasi —, sest peremeespuravik mädaneb tavaliselt vormituks massiks enne suguliste periteetsiumide küpsemist. On näidatud, et seen toodab kolesteroolitaset alandavaid statiiniühendeid ja ilmutab märkimisväärset taluvust raskmetallide stressi suhtes, aktiveerides kaadmiumiga kokkupuutel 1839 membraanifunktsiooni ja metallitranspordiga seotud geeni."
+      },
+      "fa": {
+        "description": "قارچی انگلی از شاخهٔ قارچ‌های کیسه‌ای (آسکومیست) است که بر روی قارچ‌های بولت و گاه قارچ‌های خویشاوند رشد کرده و آن‌ها را مومیایی می‌کند و به شکل پوسته‌ای پنبه‌ای سفید، سپس زرد طلایی و سرانجام قهوه‌ای مایل به قرمز سراسر میزبان را می‌پوشاند. در سراسر اروپا، آسیا، آمریکای شمالی، آمریکای مرکزی و اقیانوسیه پراکنش گسترده‌ای دارد و به‌ویژه در جنگل‌های معتدل و جنوب غربی استرالیای غربی فراوان است.",
+        "cap": "کلاهک مستقلی تشکیل نمی‌دهد؛ در عوض، این انگل به‌صورت یک سوبیکولوم پهن و کپک‌مانند بر روی کلاهک، روزنه‌ها و ساقهٔ قارچ میزبان گسترش می‌یابد و سرانجام تمام اندام بارده را در بر می‌گیرد. در آغاز به شکل لایه‌ای نازک، سفید و بافت‌مانند تا پنبه‌ای است، به‌سرعت هنگام تولید انبوه هاگ‌های غیرجنسی به رنگ زرد طلایی درخشان و پودری درمی‌آید و در مرحلهٔ جنسی پایانی که به‌ندرت دیده می‌شود، به لایه‌ای پوسته‌مانند، قهوه‌ای مایل به قرمز تا قهوه‌ای حنایی و دارای برجستگی‌های بسیار ریز سفت می‌شود. ریسه‌های سوبیکولوم ۲–۵ میکرومتر پهنا دارند، دیوارهٔ عرضی دارند، صاف هستند و در محلول KOH بی‌رنگ و شفاف‌اند.",
+        "hymenium": "خود انگل هیچ تیغه، لوله یا خاری تولید نمی‌کند؛ بلکه پوشش میسلیومی آن لایهٔ لوله‌ای و روزنه‌ای قارچ بولت میزبان را پر کرده و از میان می‌برد. در مرحلهٔ جنسی که به‌ندرت مشاهده می‌شود (تلومورف)، پریتسیوم‌های بسیار ریز و بطری‌شکل در درون سوبیکولوم رو به تیرگی شکل می‌گیرند که روزنه‌های خروجی (اوستیول‌های) ریز آن‌ها زیر ذره‌بین دستی به‌صورت دانه‌های برجستهٔ نارنجی-زرد، قرمز آجری یا قهوه‌ای مایل به قرمز بر سطح دیده می‌شوند. هر پریتسیوم حاوی آسک‌های استوانه‌ای هشت‌هاگی است.",
+        "stipe": "ندارد. این قارچ ساقهٔ مستقلی نمی‌سازد و مستقیماً به‌صورت لایه‌ای میسلیومی و پوسته‌ای فراگیر بر روی ساقه، کلاهک و سطح روزنه‌ای قارچ میزبان می‌روید.",
+        "flesh": "خود انگل بافت گوشتی جداگانه‌ای تولید نمی‌کند؛ سوبیکولوم تنها حصیری پنبه‌ای و نازک می‌سازد که به پوششی پودری و در نهایت پوسته‌ای ظریف بالغ می‌شود. با پیشرفت آلودگی، گوشت قارچ بولت میزبان نرم، اسفنجی و آبدار می‌شود و در مرحلهٔ پایانی به توده‌ای گندیده و بی‌شکل تجزیه می‌گردد.",
+        "sporePrint": "نقش هاگ استاندارد از آن گرفته نمی‌شود، هرچند مراحل غیرجنسی توده‌های پودری فراوانی از هاگ‌های ابتدا مایل به سفید و سپس زرد طلایی درخشان بر روی میزبان پدید می‌آورند. در طول چرخهٔ زندگی سه نوع هاگ متمایز تولید می‌شود: در مرحلهٔ غیرجنسی سفید، کنیدیوم‌های صاف، نازک‌دیواره، بی‌رنگ و بیضوی تا تخم‌مرغی به ابعاد ۷–۲۵ × ۳–۱۲ میکرومتر (معمولاً ۱۰–۲۰ × ۴–۸ میکرومتر در KOH)؛ در مرحلهٔ غیرجنسی زرد طلایی، آلوریوسپورهای (کلامیدوسپورهای) ضخیم‌دیواره، کروی، زرد طلایی و زگیل‌دار تا خاردار به قطر ۱۰–۲۵ میکرومتر (معمولاً ۱۶–۲۲ میکرومتر با احتساب خارهایی به طول حدود ۱ میکرومتر)؛ و در مرحلهٔ جنسی نادر، هاگ‌های آسکی بی‌رنگ، دوکی‌شکل تا نیزه‌ای، با زگیل‌های برجسته، دوسلولی نابرابر و دو انتهای تیز به ابعاد ۲۰–۳۰ × ۴–۶ میکرومتر.",
+        "habitat": "انگل اندام‌های باردهٔ بولت‌های خانوادهٔ Boletaceae—به‌ویژه گونه‌های Boletus، Xerocomus، Xerocomellus و گاه بولت‌های تیغه‌دار—و همچنین اعضای جنس‌های Paxillus و Rhizopogon در جنگل‌های سوزنی‌برگ، پهن‌برگ و آمیخته و نیز جوامع گیاهی ساحلی است. ممکن است تک‌اندام‌های بارده یا گروه‌های کامل میزبان آلوده شوند و در فصل‌های مرطوب بیشترین فراوانی را دارد. در مناطق معتدل عمدتاً از ژوئن تا نوامبر باردهی دارد و در اقلیم‌های معتدل‌تر در طول زمستان نیز باقی می‌ماند.",
+        "uses": "غیرخوراکی و بالقوه سمی است؛ نه خود انگل و نه هیچ قارچ بولت آلوده به آن را نباید خورد، حتی در مرحلهٔ سفید اولیه. در طب سنتی چین، پودر هاگ زرد طلایی آن به‌صورت موضعی بر روی زخم‌ها و بریدگی‌های باز برای کمک به بند آوردن خونریزی خارجی به کار رفته است.",
+        "confusion": "گونهٔ Hypomyces microspermus در طبیعت از نظر ظاهری قابل تفکیک نیست و آن نیز پوششی پودری از سفید تا زرد طلایی تولید می‌کند، اما محدود به بولت‌های خویشاوند Xerocomellus است و آلوریوسپورهای کوچک‌تر (۱۲–۱۶ میکرومتر قطر) و هاگ‌های آسکی کوتاه‌تر با زگیل‌های کمتر برجسته دارد که به‌ندرت از ۱۵ میکرومتر طول فراتر می‌روند. Hypomyces lactifluorum به‌جای بولت‌ها به گونه‌های Russula و Lactarius حمله می‌کند و میزبان را به پوسته‌ای سفت، نارنجی-قرمز درخشان، ریزدانه و خوراکی تبدیل می‌نماید. Hypomyces completus و Hypomyces transformans انگل گونه‌های Suillus هستند، در حالی که Hypomyces melanocarpus جنس Tylopilus را ترجیح می‌دهد. Hypomyces hyalinus اندام‌های باردهٔ Amanita را در پوسته‌ای کاملاً سفید، سفت و تغییرشکل‌دهنده بدون مرحلهٔ پودری زرد طلایی می‌پوشاند و Hypomyces aurantius پوسته‌ای نارنجی-قرمز بر روی قارچ‌های طاقچه‌ای در حال پوسیدن تشکیل می‌دهد.",
+        "notes": "بیشتر مشاهدات میدانی مربوط به مراحل غیرجنسی—نخست مرحلهٔ کنیدیومی سفید و سپس مرحلهٔ آلوریوسپوری زرد طلایی درخشان—است، زیرا قارچ بولت میزبان معمولاً پیش از بالغ شدن پریتسیوم‌های جنسی می‌پوسد و به توده‌ای بی‌شکل تبدیل می‌شود. نشان داده شده است که این قارچ ترکیبات استاتین کاهندهٔ کلسترول تولید می‌کند و تحمل چشمگیری در برابر تنش فلزات سنگین دارد و در پاسخ به قرار گرفتن در معرض کادمیوم، ۱٬۸۳۹ ژن مرتبط با عملکرد غشا و انتقال فلزات را فعال می‌کند."
+      },
+      "fi": {
+        "description": "Loisiva kotelosieni, joka peittää ja muumioi tatteja sekä satunnaisesti muita lähisukuisia sieniä levittäytyen isännän pinnalle pumpulimaisen valkoisena, kullankeltaisena ja lopulta punaruskeana kuorena. Se on laajalle levinnyt Euroopassa, Aasiassa, Pohjois-Amerikassa, Keski-Amerikassa ja Oseaniassa, ja erityisen yleinen lauhkean vyöhykkeen metsissä sekä Länsi-Australian lounaisosassa.",
+        "cap": "Varsinaista omaa lakkia ei muodostu, vaan loinen kehittyy resupinaattisena, homemaista rihmastopatjaa muistuttavana subikulumina, joka leviää isäntäsienen lakin, pillistön ja jalan yli peittäen lopulta koko itiöemän. Se alkaa ohuena, valkoisena, harsomaisesta pumpulimaiseen vaihtelevana kerroksena, muuttuu pian kirkkaan kullankeltaiseksi ja jauhemaiseksi runsaan suvuttoman itiöntuotannon aikana ja kovettuu harvoin havaittavassa lopullisessa suvullisessa vaiheessa punaruskeaksi tai ruosteenruskeaksi, hienonystyiseksi kuoreksi. Subikulumin sienirihmat ovat 2–5 µm leveitä, väliseinällisiä, sileitä ja KOH-liuoksessa värittömiä (hyaliinisia).",
+        "hymenium": "Loinen ei muodosta omia helttoja, pillejä eikä piikkejä; sen rihmastopeite täyttää ja hävittää isäntätatin pillikerroksen. Harvoin havaittavassa suvullisessa vaiheessa (teleomorfi) tummuvaan subikulumiin upotettuna kehittyy pikkuruisia pullomaisia periteekioita, joiden pienet suuaukot (ostiolit) näkyvät luupilla oranssinkeltaisina, tiilenpunaisina tai punaruskeina nystyinä pinnalla. Kukin periteekio sisältää lieriömäisiä, kahdeksanitiöisiä itiökoteloita (askuksia).",
+        "stipe": "Puuttuu. Sieni ei muodosta omaa jalkaa, vaan kasvaa suoraan isäntäsienen jalkaa, lakkia ja pillistöä verhoavana rihmastokerroksena ja kuorena.",
+        "flesh": "Loinen ei muodosta omaa maltoa; subikulum on vain ohut pumpulimainen matto, joka kypsyy jauhemaiseksi peitteeksi ja lopulta hauraaksi kuoreksi. Tartunnan edetessä loisitun isäntätatin malto pehmenee, muuttuu sienimäiseksi ja vettyneeksi ja hajoaa loppuvaiheessa mätäneväksi, muodottomaksi massaksi.",
+        "sporePrint": "Tavanomaista itiöpölyä ei oteta, vaikka suvuttomat vaiheet tuottavat isännän pinnalle runsaita, ensin valkeahkoja ja sitten kirkkaan kullankeltaisia jauhemaisia itiömassoja. Elinkierrossa muodostuu kolme erilaista itiötyyppiä: valkoisessa suvuttomassa vaiheessa sileitä, ohutseinäisiä, värittömiä, soikeita tai munanmuotoisia kuromaitiöitä (konidioita), joiden koko on 7–25 × 3–12 µm (KOH-liuoksessa tyypillisesti 10–20 × 4–8 µm); kullankeltaisessa suvuttomassa vaiheessa paksuseinäisiä, pallomaisia, kullankeltaisia, nystyisiä tai piikkisiä aleuriosporeja (klamydosporeja), joiden halkaisija on 10–25 µm (yleensä 16–22 µm mukaan lukien noin 1 µm pitkät piikit); sekä harvinaisessa suvullisessa vaiheessa värittömiä, sukkulamaisia tai suikeita, voimakkaasti nystyisiä, epäsymmetrisesti kaksisoluisia ja suippokärkisiä koteloitiöitä, joiden koko on 20–30 × 4–6 µm.",
+        "habitat": "Loisii Boletaceae-heimon tattien — erityisesti Boletus-, Xerocomus- ja Xerocomellus-lajien sekä satunnaisesti helttatattien — samoin kuin Paxillus- ja Rhizopogon-sukujen lajien itiöemissä havu-, lehti- ja sekametsissä sekä rannikon kasviyhdyskunnissa. Tartunta voi koskea yksittäisiä itiöemiä tai kokonaisia isäntäryhmiä, runsaimmin kosteina kausina. Lauhkeilla alueilla se esiintyy pääasiassa kesäkuusta marraskuuhun ja säilyy talven yli leudommissa ilmastoissa.",
+        "uses": "Syötäväksi kelpaamaton ja mahdollisesti myrkyllinen; loista tai mitään sen tartuttamaa tattia ei tule syödä edes varhaisessa valkoisessa vaiheessa. Perinteisessä kiinalaisessa lääketieteessä kullankeltaista itiöjauhetta on levitetty ulkoisesti avohaavoihin ja viiltoihin ulkoisen verenvuodon tyrehdyttämiseksi.",
+        "confusion": "Hypomyces microspermus on maastossa ulkonäöltään erottamaton ja muodostaa samoin valkoisesta kullankeltaiseen muuttuvan jauhemaisen peitteen, mutta se rajoittuu Xerocomellus-tyyppisiin tatteihin ja sillä on pienemmät aleuriosporit (halkaisija 12–16 µm) sekä lyhyemmät, vähemmän voimakkaasti nystyiset koteloitiöt, joiden pituus ylittää harvoin 15 µm. Hypomyces lactifluorum iskee tattien sijasta Russula- ja Lactarius-lajeihin muuttaen isännän kiinteäksi, kirkkaan oranssinpunaiseksi, hienonystyiseksi ja syötäväksi kuoreksi. Hypomyces completus ja Hypomyces transformans loisivat Suillus-lajeissa, kun taas Hypomyces melanocarpus suosii Tylopilus-sukua. Hypomyces hyalinus verhoaa Amanita-itiöemät puhtaanvalkoiseen, kiinteään ja epämuodostavaan kuoreen ilman kullankeltaista jauhemaista vaihetta, ja Hypomyces aurantius muodostaa oranssinpunaisen kuoren lahoaville kääville.",
+        "notes": "Valtaosa maastohavainnoista edustaa suvuttomia vaiheita — ensin valkoista kuromaitiövaihetta ja sitten kirkkaan kullankeltaista aleuriosporivaihetta — sillä isäntätatti mätänee yleensä muodottomaksi massaksi ennen kuin suvulliset periteekiot ehtivät kypsyä. Sienen on osoitettu tuottavan kolesterolia alentavia statiiniyhdisteitä ja sietävän huomattavasti raskasmetallistressiä: kadmiumaltistuksen seurauksena se aktivoi 1 839 solukalvon toimintaan ja metallien kuljetukseen liittyvää geeniä."
+      },
+      "fr": {
+        "description": "Champignon ascomycète parasite qui envahit et momifie les bolets et occasionnellement d'autres champignons apparentés, recouvrant son hôte d'une croûte cotonneuse blanche, puis jaune d'or et finalement brun rougeâtre. Largement répandu en Europe, en Asie, en Amérique du Nord, en Amérique centrale et en Océanie, il est particulièrement commun dans les forêts tempérées et dans le sud-ouest de l'Australie-Occidentale.",
+        "cap": "Aucun chapeau indépendant n'est formé ; le parasite se développe plutôt comme un subiculum résupiné d'aspect moisissure qui s'étend sur le chapeau, les pores et le pied du champignon hôte, finissant par envelopper tout le sporophore. Il débute par une fine couche blanche, d'aspect tissulaire à cotonneux, devient rapidement jaune d'or vif et poudreux lors de l'abondante production de spores asexuées, puis durcit au stade sexué final, rarement observé, en une croûte brun rougeâtre à brun roux finement boutonneuse. Les hyphes du subiculum mesurent 2–5 µm de largeur et sont septées, lisses et hyalines dans le KOH.",
+        "hymenium": "Le parasite ne forme ni lames, ni tubes, ni aiguillons propres ; son revêtement mycélien comble et oblitère la couche de tubes et de pores du bolet hôte. Au stade sexué rarement observé (téléomorphe), de minuscules périthèces en forme de flacon se développent enfouis dans le subiculum qui s'assombrit, leurs minuscules ostioles apparaissant à la loupe comme des boutons jaune orangé, rouge brique ou brun rougeâtre à la surface. Chaque périthèce renferme des asques cylindriques octosporés.",
+        "stipe": "Absent. Le champignon ne produit aucun pied propre et croît directement en revêtement mycélien enveloppant puis en croûte sur le pied, le chapeau et la surface porée de son champignon hôte.",
+        "flesh": "Le parasite ne produit aucun tissu charnu propre ; le subiculum ne forme qu'un mince feutrage cotonneux qui évolue en revêtement poudreux puis en fine croûte délicate. À mesure que l'infection progresse, la chair du bolet hôte parasité se ramollit, devient spongieuse et gorgée d'eau, puis se décompose au stade final en une masse putrescente et informe.",
+        "sporePrint": "On ne réalise pas de sporée classique, bien que les stades asexués produisent d'abondantes masses poudreuses de spores, d'abord blanchâtres puis jaune d'or vif, à la surface de l'hôte. Trois types de spores distincts apparaissent au cours du cycle biologique : au stade asexué blanc, des conidies lisses, à paroi mince, hyalines, ellipsoïdes à ovales, mesurant 7–25 × 3–12 µm (généralement 10–20 × 4–8 µm dans le KOH) ; au stade asexué jaune d'or, des aleuriospores (chlamydospores) globuleuses, à paroi épaisse, jaune d'or, verruqueuses à épineuses, mesurant 10–25 µm de diamètre (couramment 16–22 µm en incluant les épines d'environ 1 µm de longueur) ; et au rare stade sexué, des ascospores incolores, fusiformes à lancéolées, fortement verruqueuses, bicellulaires à cellules inégales et extrémités aiguës, mesurant 20–30 × 4–6 µm.",
+        "habitat": "Parasite des sporophores de bolets de la famille des Boletaceae — en particulier des espèces des genres Boletus, Xerocomus, Xerocomellus et occasionnellement des bolets à lames — ainsi que des représentants des genres Paxillus et Rhizopogon, dans les forêts de conifères, de feuillus et mixtes, ainsi que dans les formations végétales côtières. Des sporophores isolés ou des troupes entières d'hôtes peuvent être touchés, surtout lors des saisons humides. Dans les régions tempérées, il fructifie principalement de juin à novembre, persistant durant l'hiver dans les climats plus doux.",
+        "uses": "Non comestible et potentiellement toxique ; ni le parasite ni aucun bolet infecté par celui-ci ne doit être consommé, même au stade blanc précoce. En médecine traditionnelle chinoise, la poudre de spores jaune d'or a été appliquée localement sur les plaies ouvertes et les coupures afin d'aider à arrêter les saignements externes.",
+        "confusion": "Hypomyces microspermus est indiscernable à l'œil nu sur le terrain et forme également un revêtement poudreux blanc puis jaune d'or, mais il est inféodé aux bolets xérocomoïdes et possède des aleuriospores plus petites (12–16 µm de diamètre) ainsi que des ascospores plus courtes, moins fortement verruqueuses et dépassant rarement 15 µm de longueur. Hypomyces lactifluorum attaque des espèces de Russula et de Lactarius plutôt que des bolets, transformant l'hôte en une croûte ferme, rouge orangé vif, finement boutonneuse et comestible. Hypomyces completus et Hypomyces transformans parasitent des espèces de Suillus, tandis qu'Hypomyces melanocarpus privilégie le genre Tylopilus. Hypomyces hyalinus enveloppe les sporophores d'Amanita d'une croûte déformante ferme et purement blanche, sans phase poudreuse jaune d'or, et Hypomyces aurantius forme une croûte rouge orangé sur les polypores en décomposition.",
+        "notes": "La plupart des observations sur le terrain correspondent aux stades asexués — d'abord la phase conidienne blanche, puis la phase jaune d'or vif à aleuriospores — car le bolet hôte pourrit généralement en une masse informe avant que les périthèces sexués n'arrivent à maturité. Il a été démontré que ce champignon produit des statines hypocholestérolémiantes et présente une tolérance marquée au stress dû aux métaux lourds, activant 1 839 gènes associés à la fonction membranaire et au transport des métaux en réponse à une exposition au cadmium."
+      },
+      "he": {
+        "description": "פטריית שק טפילית הגדלה על גבי גושיות (בולטים) ולעתים על פטריות קרובות, חונטת אותן ומתפשטת על הפונדקאי כקרום צמרירי לבן, לאחר מכן צהוב-זהוב ולבסוף חום-אדמדם. היא נפוצה ברחבי אירופה, אסיה, אמריקה הצפונית, אמריקה המרכזית ואוקיאניה, ושכיחה במיוחד ביערות ממוזגים ובדרום-מערב אוסטרליה המערבית.",
+        "cap": "הפטרייה אינה יוצרת כובע עצמאי; במקום זאת, הטפיל מתפתח כסוביקולום שטוח דמוי עובש המתפשט על הכובע, הנקבוביות והרגל של הפטרייה הפונדקאית, עד שהוא עוטף את כל גוף הפרי. הוא מתחיל כשכבה דקה, לבנה, דמוית נייר משי עד צמרירית, הופך במהרה לצהוב-זהוב עז ואבקתי במהלך ייצור מסיבי של נבגים אל-מיניים, ובשלב המיני הסופי הנראה לעתים נדירות מתקשה לשכבה קרומית בצבע חום-אדמדם עד חום-חלודה בעלת גבשושיות זעירות. קורי הסוביקולום הם ברוחב 2–5 µm, בעלי מחיצות, חלקים ושקופים בתמיסת KOH.",
+        "hymenium": "הטפיל עצמו אינו יוצר דפים, צינורות או שיניים; במקום זאת, מעטה התפטיר שלו ממלא ומוחק את שכבת הצינורות והנקבוביות של הגושית הפונדקאית. בשלב המיני הנצפה לעתים רחוקות (טלאומורף), מתפתחים פריתציה זעירים דמויי בקבוק המשוקעים בתוך הסוביקולום ההולך ומתכהה, ופתחיהם הזעירים (אוסטיולים) נראים מבעד לזכוכית מגדלת כגבשושיות צהובות-כתומות, אדומות-לבנה או חומות-אדמדמות על פני השטח. כל פריתציום מכיל אסקוסים גליליים בני שמונה נבגים.",
+        "stipe": "נעדרת. הפטרייה אינה מייצרת רגל משל עצמה, אלא גדלה ישירות כשכבת תפטיר עוטפת וקרום על גבי הרגל, הכובע ומשטח הנקבוביות של הפטרייה הפונדקאית.",
+        "flesh": "הטפיל עצמו אינו מייצר בשר נפרד; הסוביקולום יוצר רק מרבד צמרירי דק המבשיל לציפוי אבקתי ולבסוף לקרום עדין. עם התקדמות ההדבקה, בשר הגושית הפונדקאית מתרכך, נעשה ספוגי וספוג מים, ונרקב למסה מרקיבה וחסרת צורה בשלב הסופי.",
+        "sporePrint": "לא נהוג לקחת הדפס נבגים תקני, אם כי השלבים האל-מיניים מניבים מסות אבקתיות שופעות של נבגים לבנבנים ולאחר מכן צהובים-זהובים עזים על גבי הפונדקאי. לאורך מחזור החיים נוצרים שלושה סוגי נבגים מובחנים: בשלב האל-מיני הלבן, קונידיות חלקות, דקות-דופן, שקופות, אליפסואידיות עד ביציות בגודל 7–25 × 3–12 µm (לרוב 10–20 × 4–8 µm ב-KOH); בשלב האל-מיני הצהוב-זהוב, אלאוריוספורות (כלמידוספורות) עבות-דופן, כדוריות, צהובות-זהובות, יבלתיות עד קוצניות בקוטר 10–25 µm (בדרך כלל 16–22 µm כולל קוצים באורך של כ-1 µm); ובשלב המיני הנדיר, נבגי שק (אסקוספורות) חסרי צבע, כישוריים עד אזמלניים, בעלי יבלות בולטות, דו-תאיים באופן בלתי שווה ועם קצוות חדים, בגודל 20–30 × 4–6 µm.",
+        "habitat": "טפילית על גופי פרי של גושיות ממשפחת Boletaceae—במיוחד מיני Boletus, Xerocomus, Xerocomellus ולעתים גושיות בעלות דפים—וכן על נציגי הסוגים Paxillus ו-Rhizopogon ביערות מחטניים, נשירים ומעורבים ובחברות צומח חופיות. גופי פרי בודדים או קבוצות שלמות של פונדקאים עלולים להידבק, בעיקר בעונות גשומות. באזורים ממוזגים היא מופיעה בעיקר מיוני עד נובמבר, ושורדת במהלך החורף באקלימים מתונים יותר.",
+        "uses": "לא למאכל ועלולה להיות רעילה; אין לאכול לא את הטפיל ולא אף גושית הנגועה בו, אפילו בשלב הלבן המוקדם. ברפואה הסינית המסורתית נעשה שימוש חיצוני באבקת הנבגים הצהובה-זהובה על פצעים פתוחים וחתכים כדי לסייע בעצירת דימום חיצוני.",
+        "confusion": "את Hypomyces microspermus לא ניתן להבדיל בשטח ממבט ראשון, וגם הוא יוצר ציפוי אבקתי לבן ההופך לצהוב-זהוב, אך הוא מוגבל לגושיות קרובות ל-Xerocomellus ובעל אלאוריוספורות קטנות יותר (בקוטר 12–16 µm) ונבגי שק קצרים יותר ופחות יבלתיים שרק לעתים נדירות עולים על 15 µm באורכם. Hypomyces lactifluorum תוקף מיני Russula ו-Lactarius במקום גושיות, והופך את הפונדקאי לקרום מוצק, כתום-אדום עז, מגובשש קלות ואכיל. Hypomyces completus ו-Hypomyces transformans נטפלים למיני Suillus, ואילו Hypomyces melanocarpus מעדיף מיני Tylopilus. Hypomyces hyalinus עוטף גופי פרי של Amanita בקרום לבן טהור, מוצק ומעוות ללא שלב אבקתי צהוב-זהוב, ו-Hypomyces aurantius יוצר קרום כתום-אדום על נקבוביות מתרקבות.",
+        "notes": "רוב התצפיות בשטח הן של השלבים האל-מיניים—תחילה שלב הקונידיות הלבן ולאחר מכן שלב האלאוריוספורות הצהוב-זהוב העז—מכיוון שהגושית הפונדקאית נרקבת בדרך כלל למסה חסרת צורה לפני שהפריתציה המיניים מבשילים. נמצא כי הפטרייה מייצרת תרכובות סטטינים המורידות כולסטרול ומגלה סבילות ניכרת לעקת מתכות כבדות, תוך הפעלת 1,839 גנים הקשורים לתפקוד ממברנות ולהובלת מתכות בתגובה לחשיפה לקדמיום."
+      },
+      "hi": {
+        "description": "एक परजीवी एस्कोमाइसीट कवक जो बोलेट और कभी-कभी उनसे संबंधित अन्य मशरूमों को पूरी तरह ढककर ममी जैसा बना देता है तथा पोषी पर रुई जैसी सफेद, सुनहरी-पीली और अंततः लाल-भूरी पपड़ी के रूप में फैल जाता है। यूरोप, एशिया, उत्तरी अमेरिका, मध्य अमेरिका और ओशिनिया में व्यापक रूप से पाया जाने वाला यह कवक विशेष रूप से शीतोष्ण वनों और दक्षिण-पश्चिमी वेस्टर्न ऑस्ट्रेलिया में आम है।",
+        "cap": "इसमें कोई स्वतंत्र टोपी नहीं बनती; इसके बजाय यह परजीवी सतह से चिपके हुए, फफूंद जैसे सुबिकुलम के रूप में विकसित होता है जो पोषी मशरूम की टोपी, छिद्रों और डंठल पर फैलकर अंततः पूरे फलनकाय को ढक लेता है। यह पतली, सफेद, झिल्लीदार से रुई जैसी परत के रूप में शुरू होता है, प्रचुर अलैंगिक बीजाणु निर्माण के दौरान शीघ्र ही चमकीले सुनहरे-पीले और चूर्णिल रूप में बदल जाता है, तथा विरले दिखने वाली अंतिम लैंगिक अवस्था में कठोर होकर पपड़ी जैसी, लाल-भूरी से जंग-भूरी, सूक्ष्म दानों वाली परत बना लेता है। सुबिकुलम के कवकतंतु 2–5 µm चौड़े, पटयुक्त, चिकने और KOH में पारदर्शी होते हैं।",
+        "hymenium": "यह परजीवी स्वयं गिल्स, नलिकाएं या दांते नहीं बनाता; इसके बजाय इसका कवकजाल आवरण पोषी बोलेट की नलिकाकार छिद्र परत को भरकर नष्ट कर देता है। दुर्लभ रूप से देखी जाने वाली लैंगिक अवस्था (टेलीओमॉर्फ) में गहरे होते सुबिकुलम के भीतर धंसे हुए छोटे फ्लास्क के आकार के पेरिथीसियम विकसित होते हैं, जिनके सूक्ष्म ऑस्टियोल आवर्धक लेंस से सतह पर नारंगी-पीले, ईंट-लाल या लाल-भूरी फुंसियों जैसे दिखते हैं। प्रत्येक पेरिथीसियम में बेलनाकार, आठ-बीजाणु वाले एस्कस होते हैं।",
+        "stipe": "अनुपस्थित। यह कवक अपना कोई डंठल नहीं बनाता, बल्कि सीधे पोषी मशरूम के डंठल, टोपी और छिद्र सतह पर आवरणकारी कवकजाल परत और पपड़ी के रूप में उगता है।",
+        "flesh": "इस परजीवी द्वारा स्वयं कोई अलग गूदा नहीं बनाया जाता; सुबिकुलम केवल रुई जैसी पतली चटाई बनाता है जो परिपक्व होकर चूर्णिल परत और अंततः एक नाजुक पपड़ी में बदल जाती है। संक्रमण बढ़ने के साथ परजीवी से ग्रस्त पोषी बोलेट का गूदा नरम, स्पंजी और जलभरा हो जाता है तथा अंतिम अवस्था तक सड़कर दुर्गंधयुक्त, बेडौल पिंड में बदल जाता है।",
+        "sporePrint": "इसकी सामान्य बीजाणु छाप नहीं ली जाती, यद्यपि अलैंगिक अवस्थाओं में पोषी पर प्रचुर मात्रा में सफेद और फिर चमकीले सुनहरे-पीले चूर्णिल बीजाणु पुंज बनते हैं। जीवन चक्र के दौरान तीन विशिष्ट प्रकार के बीजाणु उत्पन्न होते हैं: सफेद अलैंगिक अवस्था में चिकने, पतली भित्ति वाले, पारदर्शी, दीर्घवृत्ताकार से अंडाकार कोनिडिया जिनका आकार 7–25 × 3–12 µm (KOH में सामान्यतः 10–20 × 4–8 µm) होता है; सुनहरी-पीली अलैंगिक अवस्था में मोटी भित्ति वाले, गोलाकार, सुनहरे-पीले, मस्सेदार से कांटेदार एल्यूरियोबीजाणु (क्लैमाइडोबीजाणु) जिनका व्यास 10–25 µm (लगभग 1 µm लंबे कांटों सहित सामान्यतः 16–22 µm) होता है; तथा दुर्लभ लैंगिक अवस्था में रंगहीन, तकुआकार से भालाकार, स्पष्ट रूप से मस्सेदार, असमान रूप से दो-कोशिकीय और नुकीले सिरों वाले एस्कोबीजाणु जिनका आकार 20–30 × 4–6 µm होता है।",
+        "habitat": "यह शंकुधारी, पर्णपाती और मिश्रित वनों तथा तटीय वनस्पति समुदायों में Boletaceae कुल के बोलेटों—विशेष रूप से Boletus, Xerocomus, Xerocomellus की प्रजातियों और कभी-कभी गिल्स वाले बोलेटों—तथा Paxillus और Rhizopogon के सदस्यों के फलनकायों पर परजीवी होता है। अकेले फलनकाय या पोषियों के पूरे समूह प्रभावित हो सकते हैं, विशेषकर नम मौसम में सबसे अधिक। शीतोष्ण क्षेत्रों में यह मुख्यतः जून से नवंबर तक दिखता है और अपेक्षाकृत सौम्य जलवायु में सर्दियों भर बना रहता है।",
+        "uses": "अखाद्य और संभावित रूप से विषाक्त; न तो इस परजीवी को और न ही इससे संक्रमित किसी बोलेट को खाना चाहिए, यहां तक कि प्रारंभिक सफेद अवस्था में भी नहीं। पारंपरिक चीनी चिकित्सा में बाहरी रक्तस्राव रोकने में सहायता के लिए इसके सुनहरे-पीले बीजाणु चूर्ण को खुले घावों और कटने के स्थान पर बाहर से लगाया जाता रहा है।",
+        "confusion": "Hypomyces microspermus प्रकृति में देखने में इससे अलग नहीं किया जा सकता और यह भी सफेद से सुनहरी-पीली चूर्णिल परत बनाता है, किंतु यह Xerocomellus समूह के बोलेटों तक सीमित है तथा इसके एल्यूरियोबीजाणु छोटे (12–16 µm व्यास) और एस्कोबीजाणु अपेक्षाकृत छोटे व कम मस्सेदार होते हैं जिनकी लंबाई विरले ही 15 µm से अधिक होती है। Hypomyces lactifluorum बोलेटों के बजाय Russula और Lactarius प्रजातियों पर आक्रमण करता है और पोषी को कठोर, चमकीली नारंगी-लाल, सूक्ष्म दानों वाली खाद्य पपड़ी में बदल देता है। Hypomyces completus और Hypomyces transformans, Suillus प्रजातियों पर परजीवी होते हैं, जबकि Hypomyces melanocarpus, Tylopilus को प्राथमिकता देता है। Hypomyces hyalinus बिना किसी सुनहरी-पीली चूर्णिल अवस्था के Amanita के फलनकायों को शुद्ध सफेद, कठोर और विकृत करने वाली पपड़ी से ढक लेता है, तथा Hypomyces aurantius सड़ते हुए पॉलीपोर कवकों पर नारंगी-लाल पपड़ी बनाता है।",
+        "notes": "प्रकृति में अधिकांश अवलोकन अलैंगिक अवस्थाओं—पहले सफेद कोनिडिया चरण और फिर चमकीले सुनहरे-पीले एल्यूरियोबीजाणु चरण—के होते हैं, क्योंकि लैंगिक पेरिथीसियम के परिपक्व होने से पहले ही पोषी बोलेट सामान्यतः सड़कर बेडौल पिंड बन जाता है। यह कवक कोलेस्ट्रॉल कम करने वाले स्टैटिन यौगिकों का उत्पादन करता है और भारी-धातु तनाव के प्रति उल्लेखनीय सहनशीलता दिखाता है, तथा कैडमियम के संपर्क में आने पर झिल्ली कार्य और धातु परिवहन से जुड़े 1,839 जीनों को सक्रिय कर देता है।"
+      },
+      "hr": {
+        "description": "Parazitska gljiva mješinarka koja obrasta i mumificira vrganjevke te povremeno srodne gljive, šireći se po domaćinu kao pamučasto bijela, zlatnožuta i na kraju crvenkastosmeđa kora. Rasprostranjena je diljem Europe, Azije, Sjeverne Amerike, Srednje Amerike i Oceanije, a osobito je česta u šumama umjerenog pojasa te na jugozapadu Zapadne Australije.",
+        "cap": "Ne stvara vlastiti klobuk; umjesto toga parazit se razvija kao priljubljeni, pljesnivi subikulum koji se širi preko klobuka, pora i stručka gljive domaćina te naposljetku obavija cijelo plodište. Započinje kao tanak, bijel, paučinast do pamučast sloj, ubrzo postaje jarko zlatnožut i praškast tijekom obilnog stvaranja nespolnih spora, a u rijetko viđenoj završnoj spolnoj fazi očvrsne u korastu, crvenkastosmeđu do riđesmeđu, sitno bradavčastu prevlaku. Hife subikuluma široke su 2–5 µm, pregrađene, glatke i hijaline u KOH.",
+        "hymenium": "Sam parazit ne stvara listiće, cjevčice ni bodlje; njegov micelijski omotač umjesto toga ispunjava i potpuno prekriva cjevasti sloj pora vrganja domaćina. U rijetko opaženoj spolnoj fazi (teleomorfa) unutar potamnjelog subikuluma razvijaju se sićušni bočasti periteciji čije se sitne ostiole pod povećalom vide kao narančastožute, ciglastocrvene ili crvenkastosmeđe bradavice na površini. Svaki peritecij sadrži cilindrične askuse (vrećice) s po osam spora.",
+        "stipe": "Odsutan. Gljiva ne stvara vlastiti stručak, već raste izravno kao obavijajući micelijski sloj i kora preko stručka, klobuka i pora gljive domaćina.",
+        "flesh": "Sam parazit ne stvara odvojeno mesnato tkivo; subikulum čini samo tanak pamučasti sloj koji sazrijeva u praškastu prevlaku i naposljetku u nježnu koru. Kako infekcija napreduje, meso napadnutog vrganja domaćina omekšava, postaje spužvasto i vodenasto te se do završne faze raspada u trulu, bezobličnu masu.",
+        "sporePrint": "Standardni otisak spora se ne uzima, iako nespolne faze na domaćinu stvaraju obilne bjelkaste, a zatim jarko zlatnožute praškaste mase spora. Tijekom životnog ciklusa nastaju tri različita tipa spora: u bijeloj nespolnoj fazi glatke, tankostjene, hijaline, elipsoidne do ovalne konidije veličine 7–25 × 3–12 µm (obično 10–20 × 4–8 µm u KOH); u zlatnožutoj nespolnoj fazi debelostjene, kuglaste, zlatnožute, bradavčaste do bodljikave aleuriospore (klamidospore) promjera 10–25 µm (najčešće 16–22 µm uključujući bodlje duljine oko 1 µm); te u rijetkoj spolnoj fazi bezbojne, vretenaste do kopljaste, izrazito bradavčaste, nejednako dvostanične askospore zašiljenih krajeva, veličine 20–30 × 4–6 µm.",
+        "habitat": "Parazitira na plodištima vrganjevki iz porodice Boletaceae – osobito vrsta rodova Boletus, Xerocomus, Xerocomellus i povremeno listićavih vrganjevki – kao i na predstavnicima rodova Paxillus i Rhizopogon u crnogoričnim, bjelogoričnim i mješovitim šumama te u obalnim biljnim zajednicama. Mogu biti zahvaćena pojedinačna plodišta ili cijele skupine domaćina, najobilnije u kišnim razdobljima. U umjerenim krajevima plodonosi uglavnom od lipnja do studenoga, a u blažoj klimi opstaje i tijekom zime.",
+        "uses": "Nejestiva i potencijalno otrovna; ne smije se jesti ni parazit ni bilo koji vrganj zaražen njime, čak ni u ranoj bijeloj fazi. U tradicionalnoj kineskoj medicini zlatnožuti prah spora nanosio se izvana na otvorene rane i posjekotine radi zaustavljanja vanjskog krvarenja.",
+        "confusion": "Hypomyces microspermus na terenu je vizualno nerazlučiv i također stvara bijelu do zlatnožutu praškastu prevlaku, ali je ograničen na baršunovce iz skupine roda Xerocomellus te ima manje aleuriospore (promjera 12–16 µm) i kraće, manje izrazito bradavčaste askospore koje rijetko prelaze 15 µm duljine. Hypomyces lactifluorum napada vrste rodova Russula i Lactarius umjesto vrganja, pretvarajući domaćina u čvrstu, jarko narančastocrvenu, sitno bradavčastu, jestivu koru. Hypomyces completus i Hypomyces transformans parazitiraju na vrstama roda Suillus, dok Hypomyces melanocarpus preferira rod Tylopilus. Hypomyces hyalinus obavija plodišta roda Amanita posve bijelom, čvrstom, deformirajućom korom bez zlatnožute praškaste faze, a Hypomyces aurantius stvara narančastocrvenu koru na trulećim rupičarkama.",
+        "notes": "Većina nalaza na terenu pripada nespolnim fazama – najprije bijeloj konidijskoj fazi, a zatim jarko zlatnožutoj fazi aleuriospora – jer vrganj domaćin obično istrune u bezobličnu masu prije nego što sazriju spolni periteciji. Pokazalo se da gljiva proizvodi statinske spojeve koji snižavaju kolesterol te iskazuje izraženu otpornost na stres uzrokovan teškim metalima, aktivirajući 1839 gena povezanih s funkcijom membrana i prijenosom metala kao odgovor na izloženost kadmiju."
+      },
+      "hu": {
+        "description": "Élősködő tömlősgomba, amely tinórukat és esetenként más rokon gombákat nő be és mumifikál, vattaszerű fehér, majd aranysárga, végül vörösbarna kéreggel vonva be a gazdagombát. Európában, Ázsiában, Észak-Amerikában, Közép-Amerikában és Óceániában egyaránt széles körben elterjedt, különösen gyakori a mérsékelt égövi erdőkben és Nyugat-Ausztrália délnyugati részén.",
+        "cap": "Önálló kalapot nem fejleszt; az élősködő ehelyett reszupinátus, penészszerű szubikulumként terjed szét a gazdagomba kalapján, pórusain és tönkjén, végül az egész termőtestet beborítja. Kezdetben vékony, fehér, hártyás vagy vattaszerű rétegként jelenik meg, majd a bőséges ivartalan spóraképződés során hamarosan élénk aranysárgává és poros tapintásúvá válik, a ritkán megfigyelhető ivaros végstádiumban pedig vörösbarna vagy rozsdabarna, finoman szemölcsös kéreggé keményedik. A szubikulum hifái 2–5 µm szélesek, harántfalasak, simák és KOH-ban színtelenek (hialinok).",
+        "hymenium": "Maga az élősködő nem képez lemezeket, csöveket vagy tüskéket; micéliumbevonata ehelyett kitölti és elfedi a gazdatinóru csöves-pórusos rétegét. A ritkán megfigyelt ivaros szakaszban (teleomorf) a sötétedő szubikulumba ágyazva apró, palack alakú peritéciumok alakulnak ki, amelyek parányi szájadékai (osztiólumai) kézi nagyító alatt narancssárga, téglavörös vagy vörösbarna kis dudorokként látszanak a felszínen. Minden peritécium hengeres, nyolcspórás tömlőket (aszkuszokat) tartalmaz.",
+        "stipe": "Hiányzik. A gomba nem fejleszt saját tönköt, hanem közvetlenül a gazdagomba tönkjét, kalapját és pórusos felszínét beborító micéliumrétegként és kéregként növekszik.",
+        "flesh": "Maga az élősködő nem képez különálló húsos szövetet; a szubikulum csupán vékony, vattaszerű szövedéket alkot, amely poros bevonattá, végül finom kéreggé érik. A fertőzés előrehaladtával a megtámadott gazdatinóru húsa megpuhul, szivacsossá és vizenyőssé válik, a végső szakaszban pedig rothadó, alaktalan tömeggé esik szét.",
+        "sporePrint": "Hagyományos spórapor nem gyűjthető róla, bár az ivartalan szakaszokban bőséges, előbb fehéres, majd élénk aranysárga, poros spóratömeg borítja be a gazdagombát. Életciklusa során három különböző spóratípust termel: a fehér ivartalan szakaszban sima, vékony falú, hialin, ellipszoid vagy ovális konídiumokat, amelyek 7–25 × 3–12 µm méretűek (KOH-ban jellemzően 10–20 × 4–8 µm); az aranysárga ivartalan szakaszban vastag falú, gömbölyű, aranysárga, szemölcsös-tüskés aleuriospórákat (klamidospórákat), amelyek 10–25 µm átmérőjűek (a mintegy 1 µm hosszú tüskékkel együtt rendszerint 16–22 µm); a ritka ivaros szakaszban pedig színtelen, orsó vagy lándzsa alakú, erősen szemölcsös, egyenlőtlenül kétsejtű, hegyes végű tömlőspórákat (aszkospórákat), amelyek 20–30 × 4–6 µm méretűek.",
+        "habitat": "A Boletaceae családba tartozó tinóruk — különösen a Boletus, Xerocomus és Xerocomellus fajok, valamint esetenként lemezes tinóruk —, továbbá a Paxillus és Rhizopogon nemzetségek képviselőinek termőtestein élősködik tűlevelű, lombos és vegyes erdőkben, valamint tengerparti növénytársulásokban. Egyes termőtesteket vagy egész gazdacsoportokat is megtámadhat, leggyakrabban csapadékos időszakokban. A mérsékelt égövi területeken főként júniustól novemberig jelenik meg, enyhébb éghajlaton télen is megmarad.",
+        "uses": "Nem ehető és potenciálisan mérgező; sem maga az élősködő, sem bármely általa megfertőzött tinóru nem fogyasztható, még a korai fehér szakaszban sem. A hagyományos kínai orvoslásban az aranysárga spóraport külsőleg, nyílt sebekre és vágásokra szórták a külső vérzés elállításának elősegítésére.",
+        "confusion": "A Hypomyces microspermus szabad szemmel a terepen megkülönböztethetetlen tőle, és szintén fehértől aranysárgáig terjedő poros bevonatot képez, de kizárólag Xerocomellus-típusú tinórukon élősködik, aleuriospórái kisebbek (12–16 µm átmérőjűek), tömlőspórái pedig rövidebbek, kevésbé erősen szemölcsösek, és ritkán haladják meg a 15 µm hosszúságot. A Hypomyces lactifluorum tinóruk helyett Russula és Lactarius fajokat támad meg, és a gazdagombát kemény, élénk narancsvörös, finoman szemölcsös, ehető kéreggé alakítja át. A Hypomyces completus és a Hypomyces transformans Suillus fajokon élősködik, míg a Hypomyces melanocarpus a Tylopilus nemzetséget részesíti előnyben. A Hypomyces hyalinus Amanita termőtesteket borít be tiszta fehér, szilárd, deformáló kéreggel, aranysárga poros szakasz nélkül, a Hypomyces aurantius pedig korhadó taplógombákon képez narancsvörös kérget.",
+        "notes": "A terepi megfigyelések többsége az ivartalan szakaszokra — előbb a fehér konídiumos, majd az élénk aranysárga aleuriospórás fázisra — esik, mivel a gazdatinóru általában alaktalan masszává rothad, mielőtt az ivaros peritéciumok megérnének. Kimutatták, hogy a gomba koleszterinszint-csökkentő sztatinvegyületeket termel, és jelentős tűrőképességet mutat a nehézfém-stresszel szemben: kadmiumterhelés hatására 1839, a membránműködéssel és a fémszállítással összefüggő gént aktivál."
+      },
+      "id": {
+        "description": "Jamur askomisetes parasit yang tumbuh menyelimuti dan memumikan jamur bolet serta sesekali jamur berkerabat lainnya, menyebar di permukaan inang sebagai kerak putih seperti kapas, kuning keemasan, dan akhirnya cokelat kemerahan. Tersebar luas di Eropa, Asia, Amerika Utara, Amerika Tengah, dan Oseania, terutama umum di hutan beriklim sedang dan bagian barat daya Australia Barat.",
+        "cap": "Tidak membentuk tudung tersendiri; sebaliknya, parasit ini berkembang sebagai subikulum resupinat menyerupai kapang yang menyebar di seluruh tudung, pori, dan tangkai jamur inang hingga akhirnya menyelubungi seluruh tubuh buah. Awalnya berupa lapisan tipis berwarna putih menyerupai tisu hingga seperti kapas, segera berubah menjadi kuning keemasan cerah dan bertepung saat produksi spora aseksual berlangsung melimpah, lalu pada tahap seksual akhir yang jarang terlihat mengeras menjadi lapisan menyerupai kerak berwarna cokelat kemerahan hingga cokelat karat dengan bintil-bintil halus. Hifa subikulum selebar 2–5 µm, bersepta, halus, dan hialin dalam KOH.",
+        "hymenium": "Parasit ini sendiri tidak membentuk lamela, tabung, maupun duri; lapisan miseliumnya justru mengisi dan melenyapkan lapisan pori bertabung pada bolet inang. Pada tahap seksual yang jarang diamati (teleomorf), peritesium mungil berbentuk labu berkembang tertanam di dalam subikulum yang menggelap, dengan ostiol kecilnya tampak di bawah kaca pembesar sebagai bintil berwarna kuning jingga, merah bata, atau cokelat kemerahan di permukaan. Setiap peritesium berisi askus berbentuk silindris dengan delapan spora.",
+        "stipe": "Tidak ada. Jamur ini tidak menghasilkan tangkai sendiri, melainkan tumbuh langsung sebagai lapisan miselium dan kerak yang menyelimuti tangkai, tudung, serta permukaan pori jamur inangnya.",
+        "flesh": "Tidak ada jaringan daging tersendiri yang dihasilkan oleh parasit ini; subikulumnya hanya membentuk lapisan tipis seperti kapas yang berkembang menjadi selaput bertepung dan akhirnya kerak tipis. Seiring perkembangan infeksi, daging bolet inang yang terparasit melunak, menjadi seperti spons dan berair, lalu membusuk menjadi massa tak berbentuk pada tahap akhir.",
+        "sporePrint": "Jejak spora standar tidak dibuat, meskipun tahap aseksual menghasilkan massa spora bertepung yang melimpah berwarna keputihan lalu kuning keemasan cerah di permukaan inang. Tiga tipe spora yang berbeda dihasilkan sepanjang siklus hidupnya: pada tahap aseksual putih berupa konidia halus, berdinding tipis, hialin, berbentuk elipsoid hingga oval berukuran 7–25 × 3–12 µm (umumnya 10–20 × 4–8 µm dalam KOH); pada tahap aseksual kuning keemasan berupa aleuriospora (klamidospora) berdinding tebal, bulat, kuning keemasan, berkutil hingga berduri berdiameter 10–25 µm (umumnya 16–22 µm termasuk duri sepanjang sekitar 1 µm); dan pada tahap seksual yang langka berupa askospora tak berwarna, berbentuk gelendong hingga lanset, berkutil mencolok, bersel dua tak sama besar dengan ujung runcing, berukuran 20–30 × 4–6 µm.",
+        "habitat": "Parasit pada tubuh buah bolet dari famili Boletaceae—terutama spesies Boletus, Xerocomus, Xerocomellus, dan sesekali bolet berlamela—serta anggota Paxillus dan Rhizopogon di hutan konifer, hutan daun lebar, hutan campuran, dan komunitas tumbuhan pesisir. Tubuh buah tunggal maupun seluruh kelompok inang dapat terinfeksi, paling melimpah pada musim basah. Di wilayah beriklim sedang, jamur ini terutama muncul dari Juni hingga November, dan dapat bertahan sepanjang musim dingin di iklim yang lebih sejuk.",
+        "uses": "Tidak dapat dimakan dan berpotensi beracun; baik parasit maupun bolet mana pun yang terinfeksi olehnya tidak boleh dimakan, bahkan pada tahap putih awal. Dalam pengobatan tradisional Tiongkok, serbuk spora kuning keemasannya pernah dioleskan secara topikal pada luka terbuka dan sayatan untuk membantu menghentikan perdarahan luar.",
+        "confusion": "Hypomyces microspermus secara visual tidak dapat dibedakan di lapangan dan juga menghasilkan lapisan bertepung putih hingga kuning keemasan, tetapi terbatas pada bolet kelompok Xerocomellus serta memiliki aleuriospora lebih kecil (berdiameter 12–16 µm) dan askospora lebih pendek dengan kutil kurang mencolok yang jarang melebihi panjang 15 µm. Hypomyces lactifluorum menyerang spesies Russula dan Lactarius alih-alih bolet, mengubah inangnya menjadi kerak keras berwarna merah jingga cerah, berbintil halus, dan dapat dimakan. Hypomyces completus dan Hypomyces transformans memarasit spesies Suillus, sedangkan Hypomyces melanocarpus menyukai Tylopilus. Hypomyces hyalinus menyelimuti tubuh buah Amanita dengan kerak putih murni yang keras dan mengubah bentuk tanpa fase bertepung kuning keemasan, sementara Hypomyces aurantius membentuk kerak merah jingga pada jamur polipor yang membusuk.",
+        "notes": "Sebagian besar temuan di lapangan merupakan tahap aseksual—pertama fase konidia putih lalu fase aleuriospora kuning keemasan cerah—karena bolet inang biasanya sudah membusuk menjadi massa tak berbentuk sebelum peritesium seksual matang. Jamur ini terbukti menghasilkan senyawa statin penurun kolesterol dan menunjukkan toleransi tinggi terhadap stres logam berat, dengan mengaktifkan 1.839 gen yang berkaitan dengan fungsi membran dan transpor logam sebagai respons terhadap paparan kadmium."
+      },
+      "it": {
+        "description": "Fungo ascomicete parassita che ricopre e mummifica i boleti e occasionalmente altri funghi affini, diffondendosi sull'ospite sotto forma di una crosta cotonosa bianca, poi giallo oro e infine bruno-rossastra. Ampiamente diffuso in Europa, Asia, Nord America, America Centrale e Oceania, è particolarmente comune nei boschi temperati e nel sud-ovest dell'Australia Occidentale.",
+        "cap": "Non forma un cappello indipendente; il parassita si sviluppa invece come un subicolo resupinato dall'aspetto muffoso che si estende sul cappello, sui pori e sul gambo del fungo ospite, fino ad avvolgere l'intero corpo fruttifero. Inizia come uno strato sottile e bianco, da veliforme a cotonoso, diventa rapidamente giallo oro brillante e polveroso durante l'intensa produzione di spore asessuali e, nel raramente osservato stadio sessuale finale, si indurisce in una crosta bruno-rossastra o bruno-ruggine finemente bitorzoluta. Le ife del subicolo sono larghe 2–5 µm, settate, lisce e ialine in KOH.",
+        "hymenium": "Il parassita non forma lamelle, tubuli né aculei propri; il suo rivestimento miceliare riempie e oblitera lo strato di tubuli e pori del boleto ospite. Nello stadio sessuale raramente osservato (teleomorfo), minuscoli periteci a forma di fiasco si sviluppano immersi nel subicolo che si scurisce, con ostioli minutissimi visibili alla lente come puntini giallo-arancio, rosso mattone o bruno-rossastri in superficie. Ogni peritecio contiene aschi cilindrici ottosporici.",
+        "stipe": "Assente. Il fungo non produce un gambo proprio e cresce direttamente come rivestimento miceliare avvolgente e crosta sul gambo, sul cappello e sulla superficie poroide del fungo ospite.",
+        "flesh": "Il parassita non produce alcun tessuto carnoso proprio; il subicolo forma soltanto un sottile feltro cotonoso che evolve in un rivestimento polveroso e infine in una crosta delicata. Con il progredire dell'infezione, la carne del boleto ospite parassitato si rammollisce, diventa spugnosa e intrisa d'acqua e si decompone nello stadio finale in una massa putrescente e informe.",
+        "sporePrint": "Non si raccoglie un'impronta sporale convenzionale, sebbene gli stadi asessuali producano abbondanti masse sporali polverose prima biancastre e poi giallo oro brillante sull'ospite. Nel corso del ciclo vitale si formano tre tipi distinti di spore: nello stadio asessuale bianco, conidi lisci, a parete sottile, ialini, da ellissoidi a ovali, di 7–25 × 3–12 µm (tipicamente 10–20 × 4–8 µm in KOH); nello stadio asessuale giallo oro, aleuriospore (clamidospore) globose, a parete spessa, giallo oro, da verrucose a spinose, di 10–25 µm di diametro (comunemente 16–22 µm comprese spine lunghe circa 1 µm); e nel raro stadio sessuale, ascospore incolori, da fusiformi a lanceolate, marcatamente verrucose, disegualmente bicellulari con estremità acute, di 20–30 × 4–6 µm.",
+        "habitat": "Parassita dei corpi fruttiferi di boleti della famiglia Boletaceae — in particolare specie di Boletus, Xerocomus, Xerocomellus e occasionalmente boleti lamellati — nonché di rappresentanti dei generi Paxillus e Rhizopogon in boschi di conifere, latifoglie e misti e in comunità vegetali costiere. Possono essere colpiti singoli corpi fruttiferi o interi gruppi di ospiti, soprattutto nelle stagioni umide. Nelle regioni temperate fruttifica principalmente da giugno a novembre, persistendo durante l'inverno nei climi più miti.",
+        "uses": "Non commestibile e potenzialmente velenoso; né il parassita né alcun boleto da esso infettato deve essere consumato, nemmeno nello stadio bianco iniziale. Nella medicina tradizionale cinese, la polvere sporale giallo oro è stata applicata localmente su ferite aperte e tagli per favorire l'arresto delle emorragie esterne.",
+        "confusion": "Hypomyces microspermus è indistinguibile a occhio nudo sul campo e produce anch'esso un rivestimento polveroso da bianco a giallo oro, ma è limitato ai boleti xerocomelloidi e possiede aleuriospore più piccole (12–16 µm di diametro) e ascospore più corte, meno marcatamente verrucose, che raramente superano i 15 µm di lunghezza. Hypomyces lactifluorum attacca specie di Russula e Lactarius anziché boleti, trasformando l'ospite in una crosta soda, rosso-arancio brillante, finemente bitorzoluta e commestibile. Hypomyces completus e Hypomyces transformans parassitano specie di Suillus, mentre Hypomyces melanocarpus predilige il genere Tylopilus. Hypomyces hyalinus avvolge i corpi fruttiferi di Amanita in una crosta deformante soda e puramente bianca, priva di fase polverosa giallo oro, mentre Hypomyces aurantius forma una crosta rosso-arancio su polipori in decomposizione.",
+        "notes": "La maggior parte dei ritrovamenti in natura riguarda gli stadi asessuali — dapprima la fase conidiale bianca e poi la fase giallo oro brillante ad aleuriospore — poiché il boleto ospite di solito marcisce riducendosi a una massa informe prima che i periteci sessuali giungano a maturazione. È stato dimostrato che il fungo produce statine ipocolesterolemizzanti e mostra una marcata tolleranza allo stress da metalli pesanti, attivando 1839 geni associati alla funzione di membrana e al trasporto dei metalli in risposta all'esposizione al cadmio."
+      },
+      "ja": {
+        "description": "イグチ類やまれにその近縁のキノコに寄生して覆い尽くし、ミイラ状に変化させる寄生性の子嚢菌です。宿主の表面に綿状の白色、続いて黄金色、最終的には赤褐色の殻状の層を広げます。ヨーロッパ、アジア、北アメリカ、中央アメリカ、オセアニアに広く分布し、特に温帯の森林や西オーストラリア州南西部でよく見られます。",
+        "cap": "独立した傘は形成しません。代わりに、寄生菌はカビ状の背着性の菌糸層（subiculum）として発達し、宿主キノコの傘、管孔、柄に広がって、やがて子実体全体を包み込みます。最初は薄く白色で薄紙状から綿状の層ですが、無性胞子の大量生産に伴ってすぐに鮮やかな黄金色の粉状へと変化し、まれにしか観察されない最終の有性世代では、赤褐色から赤錆色で細かい粒状の突起をもつ殻状の層に硬化します。菌糸層の菌糸は幅2–5 µmで、隔壁があり、平滑で、KOH中では無色透明です。",
+        "hymenium": "寄生菌自身はひだ、管孔、針状突起を形成せず、その菌糸の被膜が宿主イグチの管孔層を埋めて覆い隠します。まれに観察される有性世代（テレオモルフ）では、暗色化した菌糸層の中に微小なフラスコ形の被子器が埋もれるように形成され、その微細な孔口はルーペで見ると表面に橙黄色、煉瓦赤色、または赤褐色の細かい粒状突起として現れます。各被子器には円筒形で8胞子性の子嚢が含まれています。",
+        "stipe": "ありません。本菌は独自の柄を形成せず、宿主キノコの柄、傘、管孔面を直接覆う菌糸層および殻状の層として生育します。",
+        "flesh": "寄生菌自身は独立した肉質の組織を形成しません。菌糸層は薄い綿状のマットを形づくるのみで、成熟すると粉状の被膜となり、最後にはもろい殻状の層になります。感染が進行すると、寄生された宿主イグチの肉は軟化して海綿状かつ水っぽくなり、最終段階では腐敗して形のない塊へと崩れます。",
+        "sporePrint": "通常の胞子紋は採取されませんが、無性世代では宿主の表面に白色がかった粉状、続いて鮮やかな黄金色の粉状の胞子塊を大量に形成します。生活環を通じて3種類の異なる胞子を生じます。白色の無性世代では、平滑で薄壁、無色透明、楕円形から卵形の分生子を生じ、大きさは7–25 × 3–12 µm（KOH中では通常10–20 × 4–8 µm）です。黄金色の無性世代では、厚壁で球形、黄金色、いぼ状から刺状のアレウリオ胞子（厚壁胞子）を生じ、直径は10–25 µm（長さ約1 µmの刺を含めて通常16–22 µm）です。まれな有性世代では、無色で紡錘形から披針形、顕著ないぼをもち、両端が尖った不等2細胞の子嚢胞子を生じ、大きさは20–30 × 4–6 µmです。",
+        "habitat": "針葉樹林、広葉樹林、混交林、および沿岸の植物群落において、イグチ科（Boletaceae）のイグチ類（特にBoletus属、Xerocomus属、Xerocomellus属、まれにひだをもつイグチ類）や、Paxillus属およびRhizopogon属の子実体に寄生します。単体の子実体だけでなく宿主の群生全体が侵されることもあり、湿潤な季節に最も多く見られます。温帯地域では主に6月から11月に発生し、温暖な気候では冬期も残存します。",
+        "uses": "不食であり、有毒の可能性があります。初期の白色の段階であっても、本寄生菌自体およびこれに感染したイグチ類は決して食べてはいけません。中国の伝統医学では、黄金色の胞子粉が外傷や切り傷の止血を助けるために外用されてきました。",
+        "confusion": "Hypomyces microspermusは野外での外観からは区別がつかず、同様に白色から黄金色の粉状被膜を形成しますが、宿主がXerocomellus類縁のイグチ類に限られ、アレウリオ胞子がより小さく（直径12–16 µm）、子嚢胞子もより短くいぼが目立たず、長さが15 µmを超えることはまれです。Hypomyces lactifluorumはイグチ類ではなくRussula属およびLactarius属に寄生し、宿主を硬く鮮やかな橙赤色で細かい粒状突起のある食用の殻状に変化させます。Hypomyces completusおよびHypomyces transformansはSuillus属に寄生し、Hypomyces melanocarpusはTylopilus属を好みます。Hypomyces hyalinusはAmanita属の子実体を、黄金色の粉状期を経ずに純白で硬く変形した殻で包み込みます。また、Hypomyces aurantiusは腐朽したサルノコシカケ類に橙赤色の殻を形成します。",
+        "notes": "野外で見つかる個体の大部分は無性世代—まず白色の分生子期、次いで鮮やかな黄金色のアレウリオ胞子期—です。これは、有性世代の被子器が成熟する前に宿主のイグチが通常腐敗して形のない塊になってしまうためです。本菌はコレステロール低下作用をもつスタチン系化合物を産生することが示されており、重金属ストレスに対する顕著な耐性をもち、カドミウムへの曝露に応答して膜機能および金属輸送に関わる1,839個の遺伝子を活性化します。"
+      },
+      "ko": {
+        "description": "그물버섯류와 드물게 그 근연 버섯을 덮어 미라처럼 변형시키는 기생성 자낭균입니다. 숙주 표면에 솜털 같은 흰색, 이어서 황금빛 노란색, 최종적으로는 적갈색의 껍질층으로 퍼져 나갑니다. 유럽, 아시아, 북아메리카, 중앙아메리카, 오세아니아 전역에 널리 분포하며, 특히 온대 숲과 웨스턴오스트레일리아 남서부에서 흔합니다.",
+        "cap": "독립된 갓을 형성하지 않습니다. 대신 기생균이 곰팡이 모양의 배착성 균사층(subiculum)으로 발달하여 숙주 버섯의 갓, 관공, 대 위로 퍼져 나가 마침내 자실체 전체를 감쌉니다. 처음에는 얇고 흰색의 얇은 종이질에서 솜털 같은 층으로 시작하지만, 무성포자가 대량으로 생성되면서 곧 선명한 황금빛 노란색의 가루 모양으로 변하며, 드물게 관찰되는 최종 유성세대에서는 적갈색에서 적녹색을 띠고 미세한 돌기가 있는 껍질 같은 층으로 단단해집니다. 균사층의 균사는 너비 2–5 µm이며, 격벽이 있고 매끄러우며 KOH에서 무색 투명합니다.",
+        "hymenium": "기생균 자체는 주름살, 관공 또는 침형 돌기를 형성하지 않으며, 대신 균사 피막이 숙주 그물버섯의 관공층을 메워 덮어 버립니다. 드물게 관찰되는 유성세대(teleomorph)에서는 어두워지는 균사층 내부에 작은 플라스크 모양의 자낭각이 묻혀 발달하며, 그 미세한 공구(ostiole)는 확대경으로 볼 때 표면에 주황빛 노란색, 벽돌색 또는 적갈색의 작은 돌기처럼 나타납니다. 각 자낭각에는 원통형의 8포자성 자낭이 들어 있습니다.",
+        "stipe": "없습니다. 이 버섯은 자체적인 대를 만들지 않으며, 숙주 버섯의 대, 갓, 관공 표면 위에 직접 감싸는 균사층과 껍질 형태로 자랍니다.",
+        "flesh": "기생균 자체는 별도의 살 조직을 형성하지 않으며, 균사층은 얇은 솜털 매트를 이룬 뒤 가루 모양의 피막으로 성숙하고 마침내 연약한 껍질이 됩니다. 감염이 진행됨에 따라 기생당한 숙주 그물버섯의 살은 물러지고 스펀지처럼 변하며 물기를 머금다가, 최종 단계에 이르면 썩어 형태 없는 덩어리로 무너집니다.",
+        "sporePrint": "표준 포자문은 채취하지 않지만, 무성세대에서는 숙주 표면 전체에 희끄무레한 가루에 이어 선명한 황금빛 노란색의 가루 모양 포자 덩어리를 풍부하게 생성합니다. 생활사 전반에 걸쳐 세 가지 뚜렷한 포자 유형이 만들어집니다. 흰색 무성세대에서는 매끄럽고 벽이 얇으며 무색 투명하고 타원형에서 난형인 분생포자가 형성되며 크기는 7–25 × 3–12 µm(KOH에서는 보통 10–20 × 4–8 µm)입니다. 황금빛 노란색 무성세대에서는 벽이 두껍고 구형이며 황금빛 노란색을 띠고 사마귀 모양에서 가시 모양의 돌기가 있는 알레우리오포자(후막포자)가 생성되며 지름은 10–25 µm(길이 약 1 µm의 가시를 포함해 보통 16–22 µm)입니다. 드문 유성세대에서는 무색이고 방추형에서 피침형이며 뚜렷한 사마귀 돌기가 있고 양끝이 뾰족한 부등 2세포 자낭포자가 생성되며 크기는 20–30 × 4–6 µm입니다.",
+        "habitat": "침엽수림, 활엽수림, 혼효림 및 해안 식물군락에서 그물버섯과(Boletaceae)에 속하는 그물버섯류(특히 Boletus, Xerocomus, Xerocomellus 속 및 드물게 주름살이 있는 그물버섯류)와 Paxillus 및 Rhizopogon 속의 자실체에 기생합니다. 단일 자실체나 숙주 무리 전체가 감염될 수 있으며, 습한 계절에 가장 풍부합니다. 온대 지역에서는 주로 6월부터 11월까지 발생하며, 온화한 기후에서는 겨울철에도 남아 있습니다.",
+        "uses": "식용 부적합이며 독성이 있을 수 있습니다. 초기 흰색 단계라 하더라도 기생균 자체나 이에 감염된 어떤 그물버섯도 먹어서는 안 됩니다. 전통 중의학에서는 황금빛 노란색 포자 가루를 열린 상처와 베인 부위에 국소적으로 발라 외부 출혈을 멈추는 데 사용해 왔습니다.",
+        "confusion": "Hypomyces microspermus는 야외에서 육안으로 구별할 수 없으며 마찬가지로 흰색에서 황금빛 노란색으로 변하는 가루 피막을 만들지만, Xerocomellus 근연 그물버섯류에만 국한되어 기생하고 알레우리오포자가 더 작으며(지름 12–16 µm) 자낭포자도 더 짧고 사마귀 돌기가 덜 뚜렷하여 길이가 15 µm를 넘는 경우가 드뭅니다. Hypomyces lactifluorum은 그물버섯류가 아니라 Russula 및 Lactarius 속을 공격하여 숙주를 단단하고 선명한 주황빛 붉은색의 미세한 돌기가 있는 식용 껍질로 변형시킵니다. Hypomyces completus와 Hypomyces transformans는 Suillus 속에 기생하며, Hypomyces melanocarpus는 Tylopilus 속을 선호합니다. Hypomyces hyalinus는 황금빛 노란색 가루 단계 없이 순백색의 단단하고 변형된 껍질로 Amanita 자실체를 감싸며, Hypomyces aurantius는 썩어 가는 구멍장이버섯류 위에 주황빛 붉은색 껍질을 형성합니다.",
+        "notes": "야외에서 마주치는 대부분의 개체는 무성세대—먼저 흰색 분생포자 단계, 이어서 선명한 황금빛 노란색 알레우리오포자 단계—에 해당합니다. 이는 유성세대의 자낭각이 성숙하기 전에 숙주 그물버섯이 보통 썩어 형태 없는 덩어리가 되기 때문입니다. 이 균은 콜레스테롤을 낮추는 스타틴 계열 화합물을 생성하는 것으로 밝혀졌으며 중금속 스트레스에 대해 뚜렷한 내성을 보여, 카드뮴 노출에 반응하여 막 기능 및 금속 수송과 관련된 1,839개의 유전자를 활성화합니다."
+      },
+      "lt": {
+        "description": "Parazitinis aukšliagrybis, apaugantis ir mumifikuojantis baravykinius bei kartais giminingus grybus, padengiantis šeimininką vatiškai balta, auksaspalve geltona ir galiausiai rausvai ruda plutele. Plačiai paplitęs Europoje, Azijoje, Šiaurės ir Centrinėje Amerikoje bei Okeanijoje, ypač dažnas vidutinio klimato miškuose ir pietvakarinėje Vakarų Australijoje.",
+        "cap": "Savos kepurėlės nesudaro; vietoj jos parazitas auga kaip išsiklojęs, pelėsį primenantis subikulas, plintantis per grybo šeimininko kepurėlę, poras ir kotą, kol galiausiai apgaubia visą vaisiakūnį. Iš pradžių susidaro plonas, baltas, plėveliškas ar vatiškas sluoksnis, kuris intensyviai susidarant nelytinėms sporoms netrukus tampa ryškiai auksaspalvis geltonas ir miltuotas, o retai stebimoje galutinėje lytinėje stadijoje sukietėja į plutelę primenantį, rausvai rudą ar rusvai rudą, smulkiai spuoguotą sluoksnį. Subikulo hifai 2–5 µm pločio, septuoti, lygūs, KOH tirpale bespalviai.",
+        "hymenium": "Pats parazitas lakštelių, vamzdelių ar dygliukų nesudaro; jo grybienos apnašos užpildo ir sunaikina šeimininko baravyko vamzdelinį porų sluoksnį. Retai pastebimoje lytinėje stadijoje (teleomorfoje) tamsėjančiame subikule įsiterpę išsivysto smulkūs kolbos pavidalo periteciai, kurių mažytės angelės (ostiolės) pro lupą matomos kaip oranžiškai geltoni, plytų raudonumo ar rausvai rudi spuogeliai paviršiuje. Kiekviename peritecyje yra cilindriški, aštuoniasporiai askai (sakeliai).",
+        "stipe": "Nėra. Grybas savo koto nesudaro, o auga tiesiogiai kaip apgaubiantis grybienos sluoksnis ir plutelė ant grybo šeimininko koto, kepurėlės ir porų paviršiaus.",
+        "flesh": "Atskiros mėsingos tramos pats parazitas nesudaro; subikulas tėra plonas vatiškas kilimėlis, subręstantis į miltuotą apnašą ir galiausiai į trapią plutelę. Infekcijai progresuojant, parazituojamo baravyko trama suminkštėja, tampa puri ir vandeninga, o paskutinėje stadijoje suyra į pūvančią, beformę masę.",
+        "sporePrint": "Įprastas sporų atspaudas neimamas, nors nelytinėse stadijose ant šeimininko susidaro gausios balsvos, o vėliau ryškiai auksaspalvės geltonos miltuotos sporų masės. Per visą gyvenimo ciklą susidaro trys skirtingi sporų tipai: baltojoje nelytinėje stadijoje — lygios, plonasienės, bespalvės, elipsiškos ar ovalios 7–25 × 3–12 µm dydžio konidijos (KOH tirpale paprastai 10–20 × 4–8 µm); auksaspalvėje geltonoje nelytinėje stadijoje — storasienės, rutuliškos, auksaspalvės geltonos, karpotos ar dygliuotos 10–25 µm skersmens aleuriosporos (chlamidosporos; dažniausiai 16–22 µm įskaitant maždaug 1 µm ilgio dygliukus); o retoje lytinėje stadijoje — bespalvės, verpstiškos ar lancetiškos, ryškiai karpotos, nelygiai dviląstės smailiagalės 20–30 × 4–6 µm dydžio askosporos.",
+        "habitat": "Parazituoja Boletaceae šeimos baravykinių vaisiakūnius — ypač Boletus, Xerocomus, Xerocomellus rūšis ir retkarčiais lakštelinius baravykinius — taip pat Paxillus bei Rhizopogon genties atstovus spygliuočių, lapuočių ir mišriuose miškuose bei pakrančių augalų bendrijose. Gali pažeisti tiek pavienius vaisiakūnius, tiek ištisas šeimininkų grupes, gausiausiai drėgnais sezonais. Vidutinio klimato kraštuose dera daugiausia nuo birželio iki lapkričio, o švelnesnio klimato vietovėse išsilaiko ir per žiemą.",
+        "uses": "Nevalgomas ir potencialiai nuodingas; negalima valgyti nei paties parazito, nei jokio juo užsikrėtusio baravyko, net ir ankstyvojoje baltojoje stadijoje. Tradicinėje kinų medicinoje auksaspalviai geltoni sporų milteliai buvo tepami išoriškai ant atvirų žaizdų ir įpjovimų išoriniam kraujavimui stabdyti.",
+        "confusion": "Hypomyces microspermus gamtoje vizualiai neatskiriamas ir taip pat sudaro baltą, vėliau auksaspalvę geltoną miltuotą apnašą, tačiau apsiriboja Xerocomellus tipo baravykiniais ir turi mažesnes aleuriosporas (12–16 µm skersmens) bei trumpesnes, mažiau ryškiai karpotas askosporas, retai viršijančias 15 µm ilgį. Hypomyces lactifluorum puola ne baravykinius, o Russula ir Lactarius rūšis, paversdamas šeimininką kieta, ryškiai oranžiškai raudona, smulkiai spuoguota, valgoma plutele. Hypomyces completus ir Hypomyces transformans parazituoja Suillus rūšis, o Hypomyces melanocarpus renkasi Tylopilus. Hypomyces hyalinus apgaubia Amanita vaisiakūnius grynai balta, kieta, deformuojančia plutele be auksaspalvės geltonos miltuotos fazės, o Hypomyces aurantius sudaro oranžiškai raudoną plutelę ant pūvančių kempininių grybų.",
+        "notes": "Dauguma radinių gamtoje atitinka nelytines stadijas — iš pradžių baltąją konidijų fazę, vėliau ryškiai auksaspalvę geltonąją aleuriosporų fazę — nes baravykas šeimininkas dažniausiai supūva į beformę masę dar prieš subręstant lytiniams periteciams. Nustatyta, kad grybas gamina cholesterolio kiekį mažinančius statinų junginius ir pasižymi ryškiu atsparumu sunkiųjų metalų stresui, reaguodamas į kadmio poveikį aktyvuodamas 1839 su membranų funkcijomis ir metalų pernaša susijusius genus."
+      },
+      "lv": {
+        "description": "Parazītiska asku sēne, kas apaug un mumificē bekas un reizēm radniecīgas sēnes, pārklājot saimnieksēni ar vates veida baltu, zeltaini dzeltenu un visbeidzot sarkanbrūnu garozu. Plaši izplatīta Eiropā, Āzijā, Ziemeļamerikā, Centrālamerikā un Okeānijā, īpaši bieži sastopama mērenās joslas mežos un Rietumaustrālijas dienvidrietumos.",
+        "cap": "Patstāvīgu cepurīti neveido; tā vietā parazīts attīstās kā klājenisks, pelējumam līdzīgs subikuls, kas izplatās pāri saimnieksēnes cepurītei, porām un kātiņam, galu galā aptverot visu augļķermeni. Tas sākas kā plāna, balta, plēvaina līdz vates veida kārta, bagātīgas bezdzimuma sporu veidošanās laikā drīz kļūst koši zeltaini dzeltena un miltaina, bet reti novērojamā pēdējā dzimumstadijā sacietē par garozveida, sarkanbrūnu līdz rūsgani brūnu, smalki pumpainu kārtu. Subikula hifas ir 2–5 µm platas, septētas, gludas un KOH šķīdumā bezkrāsainas.",
+        "hymenium": "Pats parazīts neveido ne lapiņas, ne stobriņus, ne dzelonīšus; tā micēlija pārklājums tā vietā aizpilda un iznīcina saimniekbekas stobriņu poru slāni. Reti novērojamā dzimumstadijā (teleomorfā) tumšāk kļūstošajā subikulā iegrimuši attīstās sīki kolbveida peritēciji, kuru sīkās atveres (ostiolas) caur lupu izskatās kā oranždzelteni, ķieģeļsarkani vai sarkanbrūni pumpiņi uz virsmas. Katrs peritēcijs satur cilindriskas, astoņsporu somiņas (askus).",
+        "stipe": "Nav. Sēne neveido pati savu kātiņu, bet aug tieši kā apņemošs micēlija slānis un garoza pār saimnieksēnes kātiņu, cepurīti un poru virsmu.",
+        "flesh": "Pats parazīts neveido atsevišķus gaļīgus audus; subikuls veido tikai plānu vates veida paklāju, kas nobriestot pārtop miltainā pārklājumā un visbeidzot trauslā garozā. Infekcijai progresējot, parazitētās saimniekbekas mīkstums kļūst mīksts, sūkļains un ūdeņains un pēdējā stadijā sadalās pūstošā, bezformīgā masā.",
+        "sporePrint": "Standarta sporu nospiedumu neiegūst, lai gan bezdzimuma stadijās uz saimnieksēnes veidojas bagātīgas bālganas un pēc tam koši zeltaini dzeltenas miltainas sporu masas. Dzīves ciklā veidojas trīs atšķirīgi sporu tipi: baltajā bezdzimuma stadijā — gludas, plānsienu, bezkrāsainas, elipsoidālas līdz ovālas konīdijas, 7–25 × 3–12 µm lielas (KOH šķīdumā parasti 10–20 × 4–8 µm); zeltaini dzeltenajā bezdzimuma stadijā — biezsienu, lodveida, zeltaini dzeltenas, kārpainas līdz dzeloņainas aleiriosporas (hlamīdosporas) ar diametru 10–25 µm (parasti 16–22 µm, ieskaitot aptuveni 1 µm garos dzelonīšus); un retajā dzimumstadijā — bezkrāsainas, vārpstveida līdz lancetiskas, izteikti kārpainas, nevienādi divšūnu askosporas ar smailiem galiem, 20–30 × 4–6 µm lielas.",
+        "habitat": "Parazitē uz Boletaceae dzimtas beku augļķermeņiem — īpaši Boletus, Xerocomus, Xerocomellus sugām un reizēm uz lapiņbekām —, kā arī uz Paxillus un Rhizopogon pārstāvjiem skujkoku, lapkoku un jauktos mežos, kā arī piekrastes augu sabiedrībās. Var tikt skarti atsevišķi augļķermeņi vai veselas saimnieksēņu grupas, visbagātīgāk mitrās sezonās. Mērenajos reģionos augļķermeņi sastopami galvenokārt no jūnija līdz novembrim, bet maigākā klimatā saglabājas arī ziemā.",
+        "uses": "Neēdama un potenciāli indīga; nedrīkst ēst nedz pašu parazītu, nedz jebkuru tā inficētu beku pat agrīnajā baltajā stadijā. Tradicionālajā ķīniešu medicīnā zeltaini dzeltenais sporu pulveris izmantots ārīgi uz atvērtām brūcēm un griezumiem, lai palīdzētu apturēt ārēju asiņošanu.",
+        "confusion": "Hypomyces microspermus dabā vizuāli nav atšķirama un arī veido baltu līdz zeltaini dzeltenu miltainu pārklājumu, taču tā aprobežojas ar Xerocomellus grupas bekām un tai ir mazākas aleiriosporas (12–16 µm diametrā) un īsākas, mazāk izteikti kārpainas askosporas, kuru garums reti pārsniedz 15 µm. Hypomyces lactifluorum beku vietā uzbrūk Russula un Lactarius sugām, pārvēršot saimnieksēni stingrā, koši oranžsarkanā, smalki pumpainā, ēdamā garozā. Hypomyces completus un Hypomyces transformans parazitē uz Suillus sugām, savukārt Hypomyces melanocarpus dod priekšroku Tylopilus. Hypomyces hyalinus aptver Amanita augļķermeņus tīri baltā, stingrā, deformējošā garozā bez zeltaini dzeltenās miltainās fāzes, bet Hypomyces aurantius veido oranžsarkanu garozu uz trūdošām piepēm.",
+        "notes": "Vairums atradumu dabā atbilst bezdzimuma stadijām — vispirms baltajai konīdiju fāzei un pēc tam koši zeltaini dzeltenajai aleiriosporu fāzei —, jo saimniekbeka parasti sapūst bezformīgā masā pirms dzimuma peritēciju nogatavošanās. Ir pierādīts, ka sēne ražo holesterīna līmeni pazeminošus statīnu savienojumus un izrāda izteiktu izturību pret smago metālu stresu, kadmija iedarbībā aktivizējot 1839 gēnus, kas saistīti ar membrānu darbību un metālu transportu."
+      },
+      "nl": {
+        "description": "Een parasitaire zakjeszwam die boleten en incidenteel verwante paddenstoelen overwoekert en mummificeert, waarbij de gastheer wordt bedekt met een watachtig witte, goudgele en uiteindelijk roodbruine korst. Hij komt wijdverspreid voor in Europa, Azië, Noord- en Midden-Amerika en Oceanië, en is vooral algemeen in gematigde bossen en in het zuidwesten van West-Australië.",
+        "cap": "Er wordt geen eigen hoed gevormd; in plaats daarvan ontwikkelt de parasiet zich als een resupinaat, schimmelachtig subiculum dat zich over de hoed, poriën en steel van de gastheerpaddenstoel verspreidt en uiteindelijk het hele vruchtlichaam omhult. Het begint als een dunne, witte, vlies- tot watachtige laag, verkleurt al snel helder goudgeel en poederig tijdens de massale ongeslachtelijke sporenvorming, en verhardt in het zelden waargenomen laatste geslachtelijke stadium tot een korstachtige, roodbruine tot roestbruine, fijn pukkellige laag. De hyfen van het subiculum zijn 2–5 µm breed, gesepteerd, glad en hyalien in KOH.",
+        "hymenium": "De parasiet vormt zelf geen plaatjes, buizen of stekels; zijn myceliumlaag vult en overwoekert in plaats daarvan de buisjes- en poriënlaag van de aangetaste boleet. In het zelden waargenomen geslachtelijke stadium (teleomorf) ontwikkelen zich minuscule flesvormige peritheciën ingebed in het donkerder wordende subiculum; hun kleine openingen (ostiolen) zijn onder een loep zichtbaar als oranjegele, steenrode of roodbruine pukkeltjes op het oppervlak. Elk perithecium bevat cilindrische, achtsporige zakjes (asci).",
+        "stipe": "Ontbreekt. De zwam vormt geen eigen steel, maar groeit rechtstreeks als een omhullende myceliumlaag en korst over de steel, hoed en poriënlaag van de gastheerpaddenstoel.",
+        "flesh": "De parasiet vormt zelf geen afzonderlijk vlezig weefsel; het subiculum bestaat slechts uit een dunne watachtige mat die zich ontwikkelt tot een poederige laag en tenslotte tot een tere korst. Naarmate de infectie vordert, wordt het vlees van de geparasiteerde boleet zacht, sponsachtig en waterig, en vergaat het in het eindstadium tot een rottende, vormloze massa.",
+        "sporePrint": "Een gewone sporenprint wordt niet gemaakt, al leveren de ongeslachtelijke stadia overvloedige witachtige en daarna helder goudgele, poederige sporenmassa's op de gastheer op. Tijdens de levenscyclus worden drie verschillende sporentypen gevormd: in het witte ongeslachtelijke stadium gladde, dunwandige, hyaline, ellipsoïde tot ovale conidiën van 7–25 × 3–12 µm (doorgaans 10–20 × 4–8 µm in KOH); in het goudgele ongeslachtelijke stadium dikwandige, bolvormige, goudgele, wrattige tot stekelige aleuriosporen (chlamydosporen) met een diameter van 10–25 µm (gewoonlijk 16–22 µm inclusief stekels van ongeveer 1 µm lang); en in het zeldzame geslachtelijke stadium kleurloze, spoelvormige tot lancetvormige, duidelijk wrattige, ongelijk tweecellige ascosporen met spitse uiteinden van 20–30 × 4–6 µm.",
+        "habitat": "Parasitair op vruchtlichamen van boleten uit de familie Boletaceae — met name soorten uit Boletus, Xerocomus, Xerocomellus en soms plaatjesboleten — evenals soorten uit Paxillus en Rhizopogon in naald-, loof- en gemengde bossen en in kustvegetaties. Zowel afzonderlijke vruchtlichamen als hele groepen gastheren kunnen worden aangetast, het talrijkst in natte seizoenen. In gematigde streken verschijnt de soort vooral van juni tot november, en in mildere klimaten houdt hij de hele winter stand.",
+        "uses": "Niet eetbaar en mogelijk giftig; noch de parasiet, noch een erdoor aangetaste boleet mag worden gegeten, zelfs niet in het vroege witte stadium. In de traditionele Chinese geneeskunde is het goudgele sporenpoeder uitwendig op open wonden en snijwonden aangebracht om uitwendige bloedingen te helpen stelpen.",
+        "confusion": "Hypomyces microspermus is in het veld visueel niet te onderscheiden en vormt eveneens een witte tot goudgele poederige laag, maar is beperkt tot xerocomelloïde boleten en heeft kleinere aleuriosporen (12–16 µm in doorsnede) en kortere, minder duidelijk wrattige ascosporen die zelden langer zijn dan 15 µm. Hypomyces lactifluorum tast soorten van Russula en Lactarius aan in plaats van boleten en verandert de gastheer in een stevige, helder oranjerode, fijn pukkellige, eetbare korst. Hypomyces completus en Hypomyces transformans parasiteren op Suillus-soorten, terwijl Hypomyces melanocarpus de voorkeur geeft aan Tylopilus. Hypomyces hyalinus omhult vruchtlichamen van Amanita met een zuiver witte, stevige, vervormende korst zonder goudgele poederige fase, en Hypomyces aurantius vormt een oranjerode korst op rottende gaatjeszwammen.",
+        "notes": "De meeste waarnemingen in het veld betreffen de ongeslachtelijke stadia — eerst de witte conidiënfase en vervolgens de helder goudgele aleuriosporenfase — omdat de gastheerboleet meestal al tot een vormloze massa wegrot voordat de geslachtelijke peritheciën rijpen. Het is aangetoond dat de zwam cholesterolverlagende statineverbindingen produceert en een opmerkelijke tolerantie voor zware-metalenstress bezit, waarbij in reactie op blootstelling aan cadmium 1839 genen worden geactiveerd die samenhangen met membraanfunctie en metaaltransport."
+      },
+      "no": {
+        "description": "En parasittisk sekksporesopp som overvokser og mumifiserer rørsopper og av og til nærstående sopper, og brer seg over verten som en vattaktig hvit, gullgul og til slutt rødbrun skorpe. Den er vidt utbredt i Europa, Asia, Nord- og Mellom-Amerika og Oseania, og er særlig vanlig i tempererte skoger og sørvest i Vest-Australia.",
+        "cap": "Det dannes ingen egen hatt; i stedet utvikler parasitten seg som et resupinat, mugglignende subikulum som brer seg over vertssoppens hatt, porer og stilk og til slutt omslutter hele fruktlegemet. Det begynner som et tynt, hvitt, hinne- til vattaktig lag, blir snart klart gullgult og pulveraktig under den rikelige ukjønnede sporeproduksjonen, og herder i det sjelden sette avsluttende kjønnede stadiet til et skorpeaktig, rødbrunt til rustbrunt, fint nuppete lag. Hyfene i subikulum er 2–5 µm brede, septerte, glatte og hyaline i KOH.",
+        "hymenium": "Parasitten danner ingen egne skiver, rør eller pigger; mycelbelegget fyller og dekker i stedet vertsrørsoppens rørlag og porer. I det sjelden observerte kjønnede stadiet (teleomorf) utvikles bittesmå flaskeformede perithecier innleiret i det mørknende subikulum, der de små munningene (ostiolene) under lupe fremstår som oransjegule, teglrøde eller rødbrune nupper på overflaten. Hvert perithecium inneholder sylindriske, åttesporede sporesekker (asci).",
+        "stipe": "Mangler. Soppen danner ingen egen stilk, men vokser direkte som et omsluttende mycellag og en skorpe over stilken, hatten og porelaget på vertssoppen.",
+        "flesh": "Parasitten danner ikke noe eget kjøttfullt vev; subikulum utgjør bare en tynn vattaktig matte som modnes til et pulveraktig belegg og til slutt en tynn skorpe. Etter hvert som infeksjonen skrider frem, blir kjøttet i den parasitterte rørsoppen mykt, svampaktig og vanntrukket, og råtner til en formløs masse i sluttfasen.",
+        "sporePrint": "Et vanlig sporeavtrykk tas ikke, men de ukjønnede stadiene danner rikelige hvitaktige og deretter klart gullgule, pulveraktige sporemasser over verten. Tre ulike sporetyper dannes gjennom livssyklusen: i det hvite ukjønnede stadiet glatte, tynnveggede, hyaline, ellipsoide til ovale konidier som måler 7–25 × 3–12 µm (typisk 10–20 × 4–8 µm i KOH); i det gullgule ukjønnede stadiet tykkveggede, kuleformede, gullgule, vortete til piggete aleuriosporer (chlamydosporer) på 10–25 µm i diameter (vanligvis 16–22 µm inkludert pigger på omtrent 1 µm); og i det sjeldne kjønnede stadiet fargeløse, spoleformede til lansettformede, tydelig vortete, ulikt tocellede askosporer med spisse ender på 20–30 × 4–6 µm.",
+        "habitat": "Parasittisk på fruktlegemer av rørsopper i familien Boletaceae – særlig arter av Boletus, Xerocomus, Xerocomellus og av og til skivebærende rørsopper – samt arter av Paxillus og Rhizopogon i bar-, løv- og blandingsskog og i kystnære plantesamfunn. Enkeltstående fruktlegemer eller hele grupper av verter kan bli angrepet, mest rikelig i fuktige sesonger. I tempererte områder fruktifiserer den hovedsakelig fra juni til november, og i mildere klima kan den vedvare gjennom vinteren.",
+        "uses": "Ikke matsopp og potensielt giftig; verken parasitten eller rørsopper som er infisert av den bør spises, selv ikke i det tidlige hvite stadiet. I tradisjonell kinesisk medisin har det gullgule sporepulveret blitt påført utvortes på åpne sår og kutt for å bidra til å stanse ytre blødninger.",
+        "confusion": "Hypomyces microspermus er visuelt umulig å skille i felt og danner også et hvitt til gullgult pulveraktig belegg, men den er begrenset til xerocomelloide rørsopper og har mindre aleuriosporer (12–16 µm i diameter) og kortere, mindre tydelig vortete askosporer som sjelden overstiger 15 µm i lengde. Hypomyces lactifluorum angriper arter av Russula og Lactarius i stedet for rørsopper, og forvandler verten til en fast, klart oransjerød, fint nuppete, spiselig skorpe. Hypomyces completus og Hypomyces transformans parasitterer på Suillus-arter, mens Hypomyces melanocarpus foretrekker Tylopilus. Hypomyces hyalinus omslutter fruktlegemer av Amanita i en rent hvit, fast, deformerende skorpe uten noen gullgul pulveraktig fase, og Hypomyces aurantius danner en oransjerød skorpe på råtnende kjuker.",
+        "notes": "De fleste funn i naturen representerer de ukjønnede stadiene – først den hvite konidiefasen og deretter den klart gullgule aleuriosporefasen – fordi vertsrørsoppen som regel råtner til en formløs masse før de kjønnede peritheciene modnes. Soppen har vist seg å produsere kolesterolsenkende statinforbindelser og har uttalt toleranse mot tungmetallstress, der den aktiverer 1839 gener knyttet til membranfunksjon og metalltransport som respons på kadmiumeksponering."
+      },
+      "pl": {
+        "description": "Pasożytniczy grzyb workowy, który przerasta i mumifikuje borowikowate oraz sporadycznie pokrewne grzyby, rozprzestrzeniając się na żywicielu w postaci watowatej białej, złocistożółtej, a ostatecznie czerwonobrązowej skorupy. Szeroko rozpowszechniony w Europie, Azji, Ameryce Północnej, Ameryce Środkowej i Oceanii, szczególnie pospolity w lasach strefy umiarkowanej oraz w południowo-zachodniej części Australii Zachodniej.",
+        "cap": "Nie wytwarza samodzielnego kapelusza; zamiast tego pasożyt rozwija się jako rozpostarte, pleśniowate subikulum, które rozrasta się na kapeluszu, porach i trzonie grzyba żywicielskiego, stopniowo otaczając cały owocnik. Początkowo tworzy cienką, białą, bibułkowatą do watowatej warstwę, wkrótce staje się jaskrawo złocistożółte i pyliste podczas intensywnego wytwarzania zarodników bezpłciowych, a w rzadko obserwowanym końcowym stadium płciowym twardnieje w skorupiastą, czerwonobrązową do rdzawobrązowej, drobno brodawkowaną warstwę. Strzępki subikulum mają 2–5 µm szerokości, są septowane, gładkie i hialinowe w KOH.",
+        "hymenium": "Sam pasożyt nie wytwarza blaszek, rurek ani kolców; jego grzybniowy nalot wypełnia natomiast i zaciera rurkowatą warstwę porów żywicielskiego borowika. W rzadko obserwowanym stadium płciowym (teleomorfa) w ciemniejącym subikulum rozwijają się drobne, butelkowate perytecja, których maleńkie ostiole pod lupą wyglądają jak pomarańczowożółte, ceglastoczerwone lub czerwonobrązowe brodawki na powierzchni. Każde perytecjum zawiera cylindryczne, ośmiozarodnikowe worki.",
+        "stipe": "Brak. Grzyb nie wytwarza własnego trzonu, lecz rośnie bezpośrednio jako otulająca warstwa grzybni i skorupa na trzonie, kapeluszu i powierzchni porów grzyba żywicielskiego.",
+        "flesh": "Sam pasożyt nie tworzy odrębnego miąższu; subikulum stanowi jedynie cienką, watowatą matę, która dojrzewa w pylisty nalot, a ostatecznie w delikatną skorupę. W miarę postępu infekcji miąższ porażonego borowika mięknie, staje się gąbczasty i nasiąknięty wodą, a w końcowym stadium rozpada się w gnijącą, bezkształtną masę.",
+        "sporePrint": "Standardowego wysypu zarodników się nie pobiera, choć stadia bezpłciowe wytwarzają na żywicielu obfite białawe, a następnie jaskrawo złocistożółte pyliste masy zarodników. W ciągu cyklu życiowego powstają trzy odrębne typy zarodników: w białym stadium bezpłciowym gładkie, cienkościenne, hialinowe, elipsoidalne do owalnych konidia o wymiarach 7–25 × 3–12 µm (zwykle 10–20 × 4–8 µm w KOH); w złocistożółtym stadium bezpłciowym grubościenne, kuliste, złocistożółte, brodawkowane do kolczastych aleuriospory (chlamydospory) o średnicy 10–25 µm (zazwyczaj 16–22 µm wraz z kolcami długości około 1 µm); oraz w rzadkim stadium płciowym bezbarwne, wrzecionowate do lancetowatych, wyraźnie brodawkowane, nierównomiernie dwukomórkowe askospory o zaostrzonych końcach i wymiarach 20–30 × 4–6 µm.",
+        "habitat": "Pasożytuje na owocnikach borowikowatych z rodziny Boletaceae – zwłaszcza gatunków z rodzajów Boletus, Xerocomus, Xerocomellus oraz sporadycznie blaszkowych borowikowatych – a także przedstawicieli rodzajów Paxillus i Rhizopogon w lasach iglastych, liściastych i mieszanych oraz w nadmorskich zbiorowiskach roślinnych. Porażone mogą być pojedyncze owocniki lub całe grupy żywicieli, najobficiej w wilgotnych okresach. W strefie umiarkowanej owocnikuje głównie od czerwca do listopada, a w łagodniejszym klimacie utrzymuje się także przez zimę.",
+        "uses": "Niejadalny i potencjalnie trujący; nie należy spożywać ani samego pasożyta, ani żadnego porażonego przez niego borowika, nawet we wczesnym białym stadium. W tradycyjnej medycynie chińskiej złocistożółty proszek zarodnikowy stosowano miejscowo na otwarte rany i skaleczenia, aby zahamować krwawienie zewnętrzne.",
+        "confusion": "Hypomyces microspermus jest w terenie nie do odróżnienia gołym okiem i również tworzy biały do złocistożółtego pylisty nalot, ale ogranicza się do podgrzybków z kręgu rodzaju Xerocomellus i ma mniejsze aleuriospory (12–16 µm średnicy) oraz krótsze, słabiej brodawkowane askospory, rzadko przekraczające 15 µm długości. Hypomyces lactifluorum atakuje gatunki z rodzajów Russula i Lactarius zamiast borowików, przekształcając żywiciela w twardą, jaskrawo pomarańczowoczerwoną, drobno brodawkowaną, jadalną skorupę. Hypomyces completus i Hypomyces transformans pasożytują na gatunkach z rodzaju Suillus, podczas gdy Hypomyces melanocarpus preferuje rodzaj Tylopilus. Hypomyces hyalinus pokrywa owocniki z rodzaju Amanita czysto białą, twardą, deformującą skorupą bez złocistożółtej fazy pylistej, a Hypomyces aurantius tworzy pomarańczowoczerwoną skorupę na rozkładających się hubach.",
+        "notes": "Większość spotkań w terenie dotyczy stadiów bezpłciowych – najpierw białej fazy konidialnej, a następnie jaskrawo złocistożółtej fazy aleuriospor – ponieważ żywicielski borowik zazwyczaj gnije w bezkształtną masę, zanim dojrzeją płciowe perytecja. Wykazano, że grzyb wytwarza związki statynowe obniżające poziom cholesterolu i wykazuje wyraźną tolerancję na stres wywołany metalami ciężkimi, aktywując w odpowiedzi na ekspozycję na kadm 1 839 genów związanych z funkcjonowaniem błon komórkowych i transportem metali."
+      },
+      "pt": {
+        "description": "Fungo ascomicete parasita que recobre e mumifica boletos e, ocasionalmente, outros cogumelos afins, espalhando-se sobre o hospedeiro numa crosta algodonosa branca, depois amarelo-dourada e por fim castanho-avermelhada. Amplamente distribuído pela Europa, Ásia, América do Norte, América Central e Oceânia, é particularmente comum em bosques temperados e no sudoeste da Austrália Ocidental.",
+        "cap": "Não forma chapéu independente; em vez disso, o parasita desenvolve-se como um subículo ressupinado de aspeto bolorento que se espalha pelo chapéu, pelos poros e pelo estipe do cogumelo hospedeiro, acabando por envolver todo o corpo frutífero. Começa como uma camada fina e branca, de aspeto membranoso a algodonoso, torna-se rapidamente amarelo-dourada viva e pulverulenta durante a intensa produção de esporos assexuados e, na raramente observada fase sexuada final, endurece numa crosta castanho-avermelhada a castanho-ruiva finamente pontuada de pequenas protuberâncias. As hifas do subículo têm 2–5 µm de largura e são septadas, lisas e hialinas em KOH.",
+        "hymenium": "O parasita não forma lâminas, tubos nem espinhos próprios; o seu revestimento micelial preenche e oblitera a camada de tubos e poros do boleto hospedeiro. Na fase sexuada raramente observada (teleomorfo), desenvolvem-se minúsculos peritécios em forma de frasco embebidos no subículo em escurecimento, cujos ostíolos diminutos surgem à lupa como pequenos grânulos amarelo-alaranjados, vermelho-tijolo ou castanho-avermelhados à superfície. Cada peritécio contém ascos cilíndricos octospóricos.",
+        "stipe": "Ausente. O fungo não produz estipe próprio, crescendo diretamente como uma camada micelial envolvente e uma crosta sobre o estipe, o chapéu e a superfície porada do cogumelo hospedeiro.",
+        "flesh": "O parasita não produz tecido carnudo próprio; o subículo forma apenas um fino tapete algodonoso que evolui para um revestimento pulverulento e finalmente para uma crosta delicada. À medida que a infeção progride, a carne do boleto hospedeiro parasitado amolece, torna-se esponjosa e encharcada, decompondo-se na fase final numa massa putrescente e disforme.",
+        "sporePrint": "Não se obtém uma esporada convencional, embora as fases assexuadas produzam abundantes massas pulverulentas de esporos esbranquiçados e depois amarelo-dourados vivos sobre o hospedeiro. Ao longo do ciclo de vida produzem-se três tipos distintos de esporos: na fase assexuada branca, conídios lisos, de parede fina, hialinos, elipsoides a ovais, medindo 7–25 × 3–12 µm (tipicamente 10–20 × 4–8 µm em KOH); na fase assexuada amarelo-dourada, aleuriósporos (clamidósporos) globosos, de parede espessa, amarelo-dourados, verrugosos a espinhosos, medindo 10–25 µm de diâmetro (comumente 16–22 µm incluindo espinhos com cerca de 1 µm de comprimento); e na rara fase sexuada, ascósporos incolores, fusiformes a lanceolados, proeminentemente verrugosos, desigualmente bicelulares e com extremidades agudas, medindo 20–30 × 4–6 µm.",
+        "habitat": "Parasita de corpos frutíferos de boletos da família Boletaceae — especialmente espécies de Boletus, Xerocomus, Xerocomellus e ocasionalmente boletos laminados — bem como de representantes de Paxillus e Rhizopogon, em bosques de coníferas, folhosas e mistos e em comunidades vegetais costeiras. Podem ser afetados corpos frutíferos isolados ou grupos inteiros de hospedeiros, com maior abundância em estações húmidas. Nas regiões temperadas frutifica sobretudo de junho a novembro, persistindo durante o inverno em climas mais amenos.",
+        "uses": "Não comestível e potencialmente venenoso; nem o parasita nem qualquer boleto por ele infetado deve ser consumido, mesmo na fase branca inicial. Na medicina tradicional chinesa, o pó de esporos amarelo-dourado tem sido aplicado topicamente em feridas abertas e cortes para ajudar a estancar hemorragias externas.",
+        "confusion": "Hypomyces microspermus é visualmente indistinguível no campo e produz igualmente um revestimento pulverulento de branco a amarelo-dourado, mas restringe-se a boletos xerocomeloides e tem aleuriósporos mais pequenos (12–16 µm de diâmetro) e ascósporos mais curtos, menos proeminentemente verrugosos, que raramente excedem 15 µm de comprimento. Hypomyces lactifluorum ataca espécies de Russula e Lactarius em vez de boletos, transformando o hospedeiro numa crosta firme, vermelho-alaranjada viva, finamente granulosa e comestível. Hypomyces completus e Hypomyces transformans parasitam espécies de Suillus, enquanto Hypomyces melanocarpus prefere o género Tylopilus. Hypomyces hyalinus envolve os corpos frutíferos de Amanita numa crosta deformante firme e puramente branca, sem fase pulverulenta amarelo-dourada, e Hypomyces aurantius forma uma crosta vermelho-alaranjada em políporos em decomposição.",
+        "notes": "A maioria dos encontros no campo corresponde às fases assexuadas — primeiro a fase conidial branca e depois a fase amarelo-dourada viva de aleuriósporos — porque o boleto hospedeiro geralmente apodrece até se transformar numa massa disforme antes de os peritécios sexuados amadurecerem. Foi demonstrado que o fungo produz estatinas redutoras do colesterol e apresenta marcada tolerância ao stresse por metais pesados, ativando 1839 genes associados à função da membrana e ao transporte de metais em resposta à exposição ao cádmio."
+      },
+      "ro": {
+        "description": "Ciupercă ascomicetă parazită care acoperă și mumifică hribii și, ocazional, alte ciuperci înrudite, extinzându-se pe gazdă sub forma unei cruste bumbăcoase albe, apoi galben-aurii și, în cele din urmă, brun-roșcate. Larg răspândită în Europa, Asia, America de Nord, America Centrală și Oceania, este deosebit de comună în pădurile temperate și în sud-vestul Australiei de Vest.",
+        "cap": "Nu formează o pălărie independentă; în schimb, parazitul se dezvoltă ca un subicul resupinat, cu aspect de mucegai, care se extinde pe pălăria, porii și piciorul ciupercii gazdă, ajungând să învăluie întregul corp fructifer. Începe ca un strat subțire și alb, membranos până la bumbăcos, devine rapid galben-auriu viu și pulverulent în timpul producției abundente de spori asexuați, iar în stadiul sexuat final, rar observat, se întărește într-o crustă brun-roșcată până la brun-ruginie, fin granulată. Hifele subiculului au 2–5 µm lățime și sunt septate, netede și hialine în KOH.",
+        "hymenium": "Parazitul nu formează lamele, tuburi sau aculi proprii; învelișul său micelian umple și obliterează stratul tubular de pori al gazdei. În stadiul sexuat rar observat (teleomorf), se dezvoltă peritecii minuscule în formă de butelie, încorporate în subiculul care se închide la culoare, ale căror ostiole foarte mici apar la lupă ca niște proeminențe galben-portocalii, roșu-cărămizii sau brun-roșcate la suprafață. Fiecare peritecie conține asce cilindrice cu opt spori.",
+        "stipe": "Absent. Ciuperca nu produce un picior propriu, crescând direct ca un strat micelian învăluitor și o crustă peste piciorul, pălăria și suprafața cu pori a ciupercii gazdă.",
+        "flesh": "Parazitul nu produce un țesut cărnos separat; subiculul formează doar o pâslă bumbăcoasă subțire care evoluează într-un înveliș pulverulent și, în final, într-o crustă delicată. Pe măsură ce infecția progresează, carnea ciupercii gazdă parazitate se înmoaie, devine spongioasă și îmbibată cu apă, descompunându-se în stadiul final într-o masă putrescentă și informă.",
+        "sporePrint": "Nu se prelevează o amprentă sporală obișnuită, deși stadiile asexuate produc mase pulverulente abundente de spori, mai întâi albicioase și apoi galben-aurii vii, pe suprafața gazdei. Pe parcursul ciclului de viață se formează trei tipuri distincte de spori: în stadiul asexuat alb, conidii netede, cu perete subțire, hialine, elipsoide până la ovale, de 7–25 × 3–12 µm (de obicei 10–20 × 4–8 µm în KOH); în stadiul asexuat galben-auriu, aleuriospori (clamidospori) globuloși, cu perete gros, galben-aurii, verucoși până la spinoși, cu diametrul de 10–25 µm (în mod obișnuit 16–22 µm incluzând spinii de aproximativ 1 µm lungime); iar în stadiul sexuat rar, ascospori incolori, fusiformi până la lanceolați, proeminent verucoși, inegal bicelulari, cu capete ascuțite, de 20–30 × 4–6 µm.",
+        "habitat": "Parazită pe corpurile fructifere ale speciilor de bolete din familia Boletaceae — în special din genurile Boletus, Xerocomus, Xerocomellus și ocazional bolete cu lamele — precum și ale reprezentanților genurilor Paxillus și Rhizopogon, în păduri de conifere, de foioase și mixte, dar și în comunități vegetale de coastă. Pot fi afectate corpuri fructifere izolate sau grupuri întregi de gazde, cel mai abundent în sezoanele umede. În regiunile temperate fructifică în principal din iunie până în noiembrie, persistând pe durata iernii în climatele mai blânde.",
+        "uses": "Necomestibilă și potențial otrăvitoare; nici parazitul, nici vreun bolet infectat de acesta nu trebuie consumat, nici măcar în stadiul alb timpuriu. În medicina tradițională chineză, pulberea galben-aurie de spori a fost aplicată local pe răni deschise și tăieturi pentru a ajuta la oprirea sângerărilor externe.",
+        "confusion": "Hypomyces microspermus nu poate fi deosebit vizual pe teren și produce, de asemenea, un înveliș pulverulent de la alb la galben-auriu, dar este limitat la bolete xerocomeloide și are aleuriospori mai mici (12–16 µm în diametru) și ascospori mai scurți, mai puțin proeminent verucoși, care depășesc rar 15 µm lungime. Hypomyces lactifluorum atacă specii de Russula și Lactarius în locul boletelor, transformând gazda într-o crustă fermă, roșu-portocalie vie, fin granulată și comestibilă. Hypomyces completus și Hypomyces transformans parazitează specii de Suillus, în timp ce Hypomyces melanocarpus preferă genul Tylopilus. Hypomyces hyalinus învăluie corpurile fructifere de Amanita într-o crustă deformantă fermă, pur albă, fără fază pulverulentă galben-aurie, iar Hypomyces aurantius formează o crustă roșu-portocalie pe polipori în descompunere.",
+        "notes": "Majoritatea observațiilor de teren reprezintă stadiile asexuate — mai întâi faza conidială albă și apoi faza galben-aurie vie de aleuriospori — deoarece gazda putrezește de obicei într-o masă informă înainte ca periteciile sexuate să ajungă la maturitate. S-a demonstrat că această ciupercă produce statine care reduc colesterolul și manifestă o toleranță pronunțată la stresul provocat de metalele grele, activând 1839 de gene asociate funcției membranare și transportului metalelor ca răspuns la expunerea la cadmiu."
+      },
+      "ru": {
+        "description": "Паразитический сумчатый гриб, обрастающий и мумифицирующий трубчатые грибы и изредка родственные им виды, покрывая хозяина сначала ватообразным белым, затем золотисто-желтым и в конце красновато-коричневым налетом и коркой. Широко распространен в Европе, Азии, Северной и Центральной Америке и Океании; особенно обычен в лесах умеренного пояса и на юго-западе Западной Австралии.",
+        "cap": "Самостоятельной шляпки не образует; вместо этого паразит развивается в виде распростертого плесневидного субикулума, который распространяется по шляпке, порам и ножке гриба-хозяина, постепенно полностью окутывая его плодовое тело. Сначала он имеет вид тонкого белого, паутинисто-пленочного или ватообразного слоя, вскоре становится ярко-золотисто-желтым и порошистым во время массового бесполого спороношения, а в редко наблюдаемой конечной половой стадии уплотняется в корковидный красновато-коричневый или рыжевато-бурый, мелкобугорчатый слой. Гифы субикулума шириной 2–5 мкм, септированные, гладкие, гиалиновые в KOH.",
+        "hymenium": "Собственных пластинок, трубочек или шипиков паразит не образует; его мицелиальный покров заполняет и разрушает трубчатый поровый слой пораженного гриба. В редко наблюдаемой половой стадии (телеоморфе) в темнеющем субикулуме развиваются крошечные кувшиновидные перитеции, погруженные в его ткань; их мелкие устьица под лупой выглядят как оранжево-желтые, кирпично-красные или красновато-коричневые бугорки на поверхности. Каждый перитеций содержит цилиндрические восьмиспоровые сумки (аски).",
+        "stipe": "Отсутствует. Гриб не образует собственной ножки, развиваясь непосредственно в виде окутывающего мицелиального слоя и корки на ножке, шляпке и поровой поверхности гриба-хозяина.",
+        "flesh": "Собственной мясистой ткани паразит не формирует; субикулум образует лишь тонкий ватообразный войлок, переходящий в порошистый налет, а затем в хрупкую корку. По мере развития инфекции мякоть пораженного трубчатого гриба размягчается, становится губчатой и водянистой, а на завершающей стадии разлагается в гниющую бесформенную массу.",
+        "sporePrint": "Стандартный споровый порошок не получают, однако бесполые стадии образуют обильные беловатые, а затем ярко-золотисто-желтые порошистые скопления спор по всей поверхности хозяина. В жизненном цикле формируются три различных типа спор: в белой бесполой стадии — гладкие, тонкостенные, гиалиновые, эллипсоидные до овальных конидии размером 7–25 × 3–12 мкм (обычно 10–20 × 4–8 мкм в KOH); в золотисто-желтой бесполой стадии — толстостенные, шаровидные, золотисто-желтые, бородавчатые до шиповатых алевриоспоры (хламидоспоры) диаметром 10–25 мкм (обычно 16–22 мкм, включая шипики длиной около 1 мкм); в редкой половой стадии — бесцветные, веретеновидные до ланцетных, отчетливо бородавчатые, неравнодвуклеточные аскоспоры с заостренными концами размером 20–30 × 4–6 мкм.",
+        "habitat": "Паразитирует на плодовых телах трубчатых грибов семейства Boletaceae — особенно видов родов Boletus, Xerocomus, Xerocomellus и изредка пластинчатых болетовых, — а также представителей родов Paxillus и Rhizopogon в хвойных, лиственных и смешанных лесах и в прибрежных растительных сообществах. Может поражать как одиночные плодовые тела, так и целые группы хозяев, особенно обильно во влажные сезоны. В умеренных регионах плодоносит главным образом с июня по ноябрь, а в более мягком климате сохраняется и зимой.",
+        "uses": "Несъедобный и потенциально ядовитый гриб; ни самого паразита, ни пораженные им трубчатые грибы нельзя употреблять в пищу, даже на ранней белой стадии. В традиционной китайской медицине золотисто-желтый споровый порошок применяли наружно на открытые раны и порезы для остановки наружного кровотечения.",
+        "confusion": "Hypomyces microspermus визуально неотличим в природе и также образует порошистый налет от белого до золотисто-желтого цвета, однако он приурочен исключительно к моховиковидным болетовым и имеет более мелкие алевриоспоры (12–16 мкм в диаметре) и более короткие, менее выраженно бородавчатые аскоспоры, редко превышающие 15 мкм в длину. Hypomyces lactifluorum поражает виды родов Russula и Lactarius, а не болетовые, превращая хозяина в плотную, ярко-оранжево-красную, мелкобугорчатую, съедобную корку. Hypomyces completus и Hypomyces transformans паразитируют на видах рода Suillus, тогда как Hypomyces melanocarpus предпочитает представителей рода Tylopilus. Hypomyces hyalinus окутывает плодовые тела видов рода Amanita чисто-белой, плотной, деформирующей коркой без золотисто-желтой порошистой фазы, а Hypomyces aurantius образует оранжево-красную корку на разлагающихся трутовиках.",
+        "notes": "Большинство находок в природе приходится на бесполые стадии — сначала белую конидиальную фазу, а затем ярко-золотисто-желтую фазу алевриоспор, — поскольку гриб-хозяин обычно сгнивает в бесформенную массу еще до созревания половых перитециев. Установлено, что гриб вырабатывает статиновые соединения, снижающие уровень холестерина, и проявляет выраженную устойчивость к стрессу от тяжелых металлов, активируя 1839 генов, связанных с функцией мембран и транспортом металлов, в ответ на воздействие кадмия."
+      },
+      "sl": {
+        "description": "Zajedavska gliva zaprtotrosnica, ki prerašča in mumificira gobane ter občasno sorodne glive, pri čemer se po gostitelju širi kot bombažasto bela, zlato rumena in na koncu rdečkasto rjava skorja. Razširjena je po Evropi, Aziji, Severni Ameriki, Srednji Ameriki in Oceaniji, še posebej pogosta pa je v gozdovih zmernega pasu in na jugozahodu Zahodne Avstralije.",
+        "cap": "Samostojnega klobuka ne tvori; namesto tega se zajedavec razvije kot razprostrt, plesni podoben subikulum, ki se širi po klobuku, porah in betu gostiteljevega trosnjaka ter ga postopoma v celoti ovije. Začne se kot tanka, bela, papirnata do bombažasta plast, ki ob obilnem nastajanju nespolnih trosov kmalu postane živo zlato rumena in prašnata, v redko opaženi končni spolni fazi pa otrdi v skorjasto, rdečkasto rjavo do rjasto rjavo, drobno bradavičasto plast. Hife subikuluma so široke 2–5 µm, prečnopregradne, gladke in v KOH hialine.",
+        "hymenium": "Zajedavec sam ne tvori lističev, cevk ali iglic; njegova micelijska prevleka namesto tega zapolni in prekrije cevkasto trosovnico gostiteljevega gobana. V redko opaženi spolni fazi (teleomorfa) se v temnečem subikulumu razvijejo drobni stekleničasti periteciji, katerih drobne ostiole se pod lupo kažejo kot oranžno rumene, opečnato rdeče ali rdečkasto rjave pikice na površini. Vsak peritecij vsebuje valjaste, osemtrosne askuse (mešičke).",
+        "stipe": "Nima ga. Gliva ne tvori lastnega beta, temveč raste neposredno kot ovijajoča micelijska plast in skorja čez bet, klobuk in trosovnico gostiteljevega trosnjaka.",
+        "flesh": "Zajedavec sam ne tvori ločenega mesa; subikulum predstavlja le tanko bombažasto preprogo, ki dozori v prašnato prevleko in na koncu v krhko skorjo. Z napredovanjem okužbe se meso napadenega gostiteljevega gobana zmehča, postane gobasto in vodeno ter v končni fazi razpade v gnijočo, brezoblično maso.",
+        "sporePrint": "Običajnega trosnega prahu ne pridobivamo, čeprav nespolni fazi na gostitelju tvorita obilne belkaste in nato živo zlato rumene prašnate mase trosov. V življenjskem ciklu nastajajo tri različne vrste trosov: v beli nespolni fazi gladki, tankostenski, hialini, elipsoidni do ovalni konidiji, veliki 7–25 × 3–12 µm (v KOH običajno 10–20 × 4–8 µm); v zlato rumeni nespolni fazi debelostenske, okrogle, zlato rumene, bradavičaste do bodičaste alevriospore (hlamidospore) s premerom 10–25 µm (navadno 16–22 µm skupaj z bodicami, dolgimi približno 1 µm); ter v redki spolni fazi brezbarvne, vretenaste do suličaste, izrazito bradavičaste, neenakomerno dvocelične askospore s koničastima koncema, velike 20–30 × 4–6 µm.",
+        "habitat": "Zajeda trosnjake gobanov iz družine Boletaceae – zlasti vrste rodov Boletus, Xerocomus, Xerocomellus in občasno lističaste cevarke – pa tudi predstavnike rodov Paxillus in Rhizopogon v iglastih, listnatih in mešanih gozdovih ter v obalnih rastlinskih združbah. Okuženi so lahko posamezni trosnjaki ali cele skupine gostiteljev, najpogosteje v vlažnih obdobjih. V zmernem pasu se pojavlja predvsem od junija do novembra, v milejših podnebjih pa vztraja tudi čez zimo.",
+        "uses": "Neužitna in potencialno strupena; ne sme se uživati niti zajedavca niti katerega koli gobana, ki je okužen z njim, niti v zgodnji beli fazi. V tradicionalni kitajski medicini so zlato rumeni trosni prah nanašali neposredno na odprte rane in ureznine za zaustavljanje zunanjih krvavitev.",
+        "confusion": "Hypomyces microspermus na terenu ni mogoče ločiti s prostim očesom in prav tako tvori belo do zlato rumeno prašnato prevleko, vendar je omejen na polstenke iz rodu Xerocomellus ter ima manjše alevriospore (premera 12–16 µm) in krajše, manj izrazito bradavičaste askospore, ki le redko presegajo 15 µm dolžine. Hypomyces lactifluorum namesto gobanov napada vrste rodov Russula in Lactarius ter gostitelja spremeni v čvrsto, živo oranžno rdečo, drobno bradavičasto, užitno skorjo. Hypomyces completus in Hypomyces transformans zajedata vrste rodu Suillus, medtem ko ima Hypomyces melanocarpus raje rod Tylopilus. Hypomyces hyalinus ovije trosnjake rodu Amanita v povsem belo, čvrsto, deformirajočo skorjo brez zlato rumene prašnate faze, Hypomyces aurantius pa tvori oranžno rdečo skorjo na trohnečih luknjičarkah.",
+        "notes": "Večina najdb v naravi predstavlja nespolni fazi – najprej belo konidijsko fazo in nato živo zlato rumeno fazo alevriospor – saj gostiteljev goban običajno zgnije v brezoblično maso, še preden dozorijo spolni periteciji. Dokazano je, da gliva tvori statinske spojine za zniževanje holesterola in izkazuje izrazito odpornost proti stresu zaradi težkih kovin, pri čemer ob izpostavljenosti kadmiju aktivira 1839 genov, povezanih z delovanjem membran in prenosom kovin."
+      },
+      "sr": {
+        "description": "Паразитска гљива мешинарка која обраста и мумифицира вргање и повремено сродне гљиве, ширећи се преко домаћина као памучасто бела, златножута и на крају црвенкастосмеђа кора. Широко је распрострањена широм Европе, Азије, Северне Америке, Средње Америке и Океаније, а нарочито је честа у шумама умереног појаса и на југозападу Западне Аустралије.",
+        "cap": "Не образује засебан шешир; уместо тога паразит се развија као приљубљени, плесниви субикулум који се шири преко шешира, пора и дршке гљиве домаћина и на крају обавија цело плодно тело. Почиње као танак, бео, паучинаст до памучаст слој, убрзо постаје јарко златножут и прашкаст током обилног стварања бесполних спора, а у ретко виђеној завршној полној фази очвршћава у корасту, црвенкастосмеђу до риђесмеђу, ситно брадавичасту превлаку. Хифе субикулума широке су 2–5 µm, преграђене, глатке и хијалине у KOH.",
+        "hymenium": "Сам паразит не образује листиће, цевчице ни бодље; његов мицелијски омотач уместо тога испуњава и потпуно прекрива цевасти слој пора вргања домаћина. У ретко запаженој полној фази (телеоморфа) унутар потамнелог субикулума развијају се сићушне бочасте перитеције чије се ситне остиоле под лупом виде као наранџастожуте, цигластоцрвене или црвенкастосмеђе брадавице на површини. Свака перитеција садржи цилиндричне аскусе (врећице) са по осам спора.",
+        "stipe": "Одсутна. Гљива не образује сопствену дршку, већ расте директно као обавијајући мицелијски слој и кора преко дршке, шешира и површине пора гљиве домаћина.",
+        "flesh": "Сам паразит не ствара засебно меснато ткиво; субикулум чини само танак памучасти слој који сазрева у прашкасту превлаку и на крају у нежну кору. Како инфекција напредује, месо нападнутог вргања домаћина омекшава, постаје сунђерасто и воденасто и до завршне фазе распада се у трулу, безобличну масу.",
+        "sporePrint": "Стандардни отисак спора се не узима, иако бесполне фазе на домаћину дају обилне беличасте, а затим јарко златножуте прашкасте масе спора. Током животног циклуса настају три различита типа спора: у белој бесполној фази глатке, танкозидне, хијалине, елипсоидне до овалне конидије величине 7–25 × 3–12 µm (обично 10–20 × 4–8 µm у KOH); у златножутој бесполној фази дебелозидне, лоптасте, златножуте, брадавичасте до бодљикаве алеуриоспоре (хламидоспоре) пречника 10–25 µm (најчешће 16–22 µm укључујући бодље дужине око 1 µm); и у реткој полној фази безбојне, вретенасте до копљасте, изразито брадавичасте, неједнако двоћелијске аскоспоре зашиљених крајева, величине 20–30 × 4–6 µm.",
+        "habitat": "Паразитира на плодним телима вргања из породице Boletaceae – посебно врста родова Boletus, Xerocomus, Xerocomellus и повремено листићавих вргања – као и на представницима родова Paxillus и Rhizopogon у четинарским, листопадним и мешовитим шумама и у обалним биљним заједницама. Могу бити захваћена појединачна плодна тела или читаве групе домаћина, најобилније у влажним периодима. У умереним крајевима плодоноси углавном од јуна до новембра, а у блажој клими опстаје и током зиме.",
+        "uses": "Нејестива и потенцијално отровна; не треба јести ни паразит ни било који вргањ заражен њиме, чак ни у раној белој фази. У традиционалној кинеској медицини златножути прах спора наношен је споља на отворене ране и посекотине ради заустављања спољашњег крварења.",
+        "confusion": "Hypomyces microspermus се на терену визуелно не може разликовати и такође ствара белу до златножуту прашкасту превлаку, али је ограничен на вргање из групе рода Xerocomellus и има мање алеуриоспоре (пречника 12–16 µm) и краће, слабије брадавичасте аскоспоре које ретко прелазе 15 µm дужине. Hypomyces lactifluorum напада врсте родова Russula и Lactarius уместо вргања, претварајући домаћина у чврсту, јарко наранџастоцрвену, ситно брадавичасту, јестиву кору. Hypomyces completus и Hypomyces transformans паразитирају на врстама рода Suillus, док Hypomyces melanocarpus преферира род Tylopilus. Hypomyces hyalinus обавија плодна тела рода Amanita потпуно белом, чврстом, деформишућом кором без златножуте прашкасте фазе, а Hypomyces aurantius образује наранџастоцрвену кору на трулећим рупичаркама.",
+        "notes": "Већина налаза на терену представља бесполне фазе – најпре белу конидијску фазу, а затим јарко златножуту фазу алеуриоспора – јер вргањ домаћин обично иструли у безобличну масу пре него што сазру полне перитеције. Показало се да гљива производи статинска једињења која снижавају холестерол и показује изражену толерантност на стрес изазван тешким металима, активирајући 1839 гена повезаних са функцијом мембрана и транспортом метала као одговор на изложеност кадмијуму."
+      },
+      "sv": {
+        "description": "En parasitisk sporsäckssvamp som överväxer och mumifierar soppar och ibland närstående svampar, och breder ut sig över värden som en bomullslik vit, guldgul och slutligen rödbrun skorpa. Den är vida spridd i Europa, Asien, Nord- och Centralamerika samt Oceanien, och är särskilt vanlig i tempererade skogar och i sydvästra Western Australia.",
+        "cap": "Ingen egen hatt bildas; i stället utvecklas parasiten som ett resupinat, mögelliknande subiculum som breder ut sig över värdsvampens hatt, porer och fot och till slut omsluter hela fruktkroppen. Det börjar som ett tunt, vitt, hinn- till bomullslikt skikt, blir snart klart guldgult och pulveraktigt under den rikliga asexuella sporproduktionen, och hårdnar i det sällan sedda avslutande sexuella stadiet till ett skorplikt, rödbrunt till rävbrunt, fint knottrigt skikt. Hyferna i subiculum är 2–5 µm breda, septerade, släta och hyalina i KOH.",
+        "hymenium": "Parasiten bildar inga egna skivor, rör eller taggar; dess mycelbeläggning fyller och utplånar i stället värdsoppens rörlager och porer. I det sällan observerade sexuella stadiet (teleomorf) utvecklas pyttesmå flaskformade perithecier inbäddade i det mörknande subiculum, vars små mynningar (ostioler) under lupp framträder som orangegula, tegelröda eller rödbruna små knottror på ytan. Varje perithecium innehåller cylindriska, åttasporiga sporsäckar (asci).",
+        "stipe": "Saknas. Svampen bildar ingen egen fot utan växer direkt som ett omslutande mycelskikt och en skorpa över foten, hatten och porlagret på sin värdsvamp.",
+        "flesh": "Parasiten bildar ingen egen köttig vävnad; subiculum utgör endast en tunn bomullslik matta som mognar till en pulveraktig beläggning och slutligen en tunn skorpa. Allteftersom infektionen fortskrider mjuknar köttet i den parasiterade soppen, blir svampigt och vattendränkt och förmultnar till en ruttnande, formlös massa i slutstadiet.",
+        "sporePrint": "Ett vanligt sporavtryck tas inte, men de asexuella stadierna ger rikliga vitaktiga och sedan klart guldgula, pulveraktiga spormassor över värden. Tre olika sportyper bildas under livscykeln: i det vita asexuella stadiet släta, tunnväggiga, hyalina, ellipsoida till ovala konidier som mäter 7–25 × 3–12 µm (vanligen 10–20 × 4–8 µm i KOH); i det guldgula asexuella stadiet tjockväggiga, klotrunda, guldgula, vårtiga till taggiga aleuriosporer (klamydosporer) med en diameter på 10–25 µm (vanligen 16–22 µm inklusive cirka 1 µm långa taggar); och i det sällsynta sexuella stadiet färglösa, spolformiga till lansettlika, tydligt vårtiga, olikstort tvåcelliga askosporer med spetsiga ändar som mäter 20–30 × 4–6 µm.",
+        "habitat": "Parasitisk på fruktkroppar av soppar i familjen Boletaceae – särskilt arter av Boletus, Xerocomus, Xerocomellus och ibland skivbärande soppar – samt arter av Paxillus och Rhizopogon i barr-, löv- och blandskogar samt i kustnära växtsamhällen. Enstaka fruktkroppar eller hela grupper av värdar kan angripas, rikligast under fuktiga säsonger. I tempererade områden fruktificerar den främst från juni till november och lever kvar över vintern i mildare klimat.",
+        "uses": "Oätlig och potentiellt giftig; varken parasiten eller någon sopp som angripits av den bör ätas, inte ens i det tidiga vita stadiet. Inom traditionell kinesisk medicin har det guldgula sporpulvret applicerats utvärtes på öppna sår och skärsår för att bidra till att stoppa yttre blödningar.",
+        "confusion": "Hypomyces microspermus går inte att skilja visuellt i fält och bildar också en vit till guldgul pulveraktig beläggning, men den är begränsad till xerocomelloida soppar och har mindre aleuriosporer (12–16 µm i diameter) samt kortare, mindre utpräglat vårtiga askosporer som sällan överstiger 15 µm i längd. Hypomyces lactifluorum angriper arter av Russula och Lactarius i stället för soppar och förvandlar värden till en fast, klart orangeröd, fint knottrig, ätlig skorpa. Hypomyces completus och Hypomyces transformans parasiterar på Suillus-arter, medan Hypomyces melanocarpus föredrar Tylopilus. Hypomyces hyalinus omsluter fruktkroppar av Amanita i en rent vit, fast, deformerande skorpa utan guldgul pulveraktig fas, och Hypomyces aurantius bildar en orangeröd skorpa på förmultnande tickor.",
+        "notes": "De flesta fynd i fält utgörs av de asexuella stadierna – först den vita konidiefasen och därefter den klart guldgula aleuriosporfasen – eftersom värdsoppen vanligen ruttnar till en formlös massa innan de sexuella perithecierna mognar. Svampen har visat sig producera kolesterolsänkande statinföreningar och uppvisar uttalad tolerans mot tungmetallstress, varvid den aktiverar 1839 gener kopplade till membranfunktion och metalltransport som svar på exponering för kadmium."
+      },
+      "tr": {
+        "description": "Boletlerin ve zaman zaman akraba mantarların üzerine yayılarak onları mumyalayan, konak üzerinde pamuksu beyaz, altın sarısı ve nihayetinde kızıl kahverengi bir kabuk oluşturan parazit bir askomiset mantardır. Avrupa, Asya, Kuzey Amerika, Orta Amerika ve Okyanusya boyunca yaygın olup özellikle ılıman kuşak ormanlarında ve Batı Avustralya'nın güneybatısında sık görülür.",
+        "cap": "Bağımsız bir şapka oluşturmaz; bunun yerine parazit, konak mantarın şapkası, gözenekleri ve sapı boyunca yayılan, sonunda tüm meyve gövdesini saran, yüzeye yapışık (resupinat), küf benzeri bir subikulum olarak gelişir. İnce, beyaz, doku benzeri ila pamuksu bir tabaka hâlinde başlar; yoğun eşeysiz spor üretimi sırasında hızla parlak altın sarısı ve tozlu bir görünüm alır; nadiren görülen son eşeyli evrede ise kabuksu, kızıl kahverengi ila pas kahverengi, ince sivilceli bir tabakaya sertleşir. Subikulum hifleri 2–5 µm genişliğinde, bölmeli, pürüzsüz ve KOH içinde renksizdir.",
+        "hymenium": "Parazitin kendisi lamel, borucuk veya diken oluşturmaz; bunun yerine miselyum örtüsü konak boletin borucuklu gözenek tabakasını doldurarak ortadan kaldırır. Nadiren gözlenen eşeyli evrede (teleomorf), koyulaşan subikulumun içine gömülü minik şişe biçimli peritesyumlar gelişir; bunların küçücük ostiyolleri büyüteç altında yüzeyde turuncu-sarı, tuğla kırmızısı veya kızıl kahverengi sivilcecikler olarak görünür. Her peritesyum silindirik, sekiz sporlu askuslar içerir.",
+        "stipe": "Yoktur. Mantar kendi sapını üretmez; doğrudan konak mantarın sapı, şapkası ve gözenek yüzeyi üzerinde sarıcı bir miselyum tabakası ve kabuk olarak büyür.",
+        "flesh": "Parazitin kendisi ayrı bir etli kısım üretmez; subikulum yalnızca tozlu bir kaplamaya ve sonunda narin bir kabuğa dönüşen ince, pamuksu bir örtü oluşturur. Enfeksiyon ilerledikçe parazitlenen konak boletin etli kısmı yumuşar, süngerimsi ve su dolu hâle gelir, son evreye gelindiğinde çürüyen, şekilsiz bir kütleye dönüşür.",
+        "sporePrint": "Standart bir spor izi alınmaz; ancak eşeysiz evreler konak üzerinde bol miktarda beyazımsı ve ardından parlak altın sarısı tozlu spor kütleleri üretir. Yaşam döngüsü boyunca üç farklı spor tipi oluşur: beyaz eşeysiz evrede pürüzsüz, ince çeperli, renksiz, elipsoit ila oval, 7–25 × 3–12 µm boyutlarında konidyumlar (KOH içinde tipik olarak 10–20 × 4–8 µm); altın sarısı eşeysiz evrede kalın çeperli, küresel, altın sarısı, siğilli ila dikenli, 10–25 µm çapında alöriyosporlar (klamidosporlar; yaklaşık 1 µm uzunluğundaki dikenler dâhil genellikle 16–22 µm); nadir eşeyli evrede ise renksiz, iğ biçimli ila mızraksı, belirgin siğilli, eşitsiz iki hücreli, sivri uçlu, 20–30 × 4–6 µm boyutlarında askosporlar.",
+        "habitat": "İğne yapraklı, yaprak döken ve karışık ormanlar ile kıyı bitki topluluklarında Boletaceae familyasındaki boletlerin — özellikle Boletus, Xerocomus, Xerocomellus türleri ve zaman zaman lamelli boletlerin — yanı sıra Paxillus ve Rhizopogon üyelerinin meyve gövdeleri üzerinde parazittir. Tek tek meyve gövdeleri veya tüm konak grupları etkilenebilir; en bol yağışlı mevsimlerde görülür. Ilıman bölgelerde başlıca hazirandan kasıma kadar görülür, daha ılıman iklimlerde kış boyunca da varlığını sürdürür.",
+        "uses": "Yenmez ve potansiyel olarak zehirlidir; erken beyaz evrede bile ne parazit ne de onunla enfekte olmuş herhangi bir bolet yenmelidir. Geleneksel Çin tıbbında altın sarısı spor tozu, dış kanamayı durdurmaya yardımcı olmak için açık yaralara ve kesiklere haricen uygulanmıştır.",
+        "confusion": "Hypomyces microspermus arazide görsel olarak ayırt edilemez ve aynı şekilde beyazdan altın sarısına dönen tozlu bir kaplama oluşturur; ancak yalnızca Xerocomellus grubu boletlerle sınırlıdır ve daha küçük alöriyosporlara (12–16 µm çapında) ile uzunluğu nadiren 15 µm'yi aşan daha kısa, daha az belirgin siğilli askosporlara sahiptir. Hypomyces lactifluorum boletler yerine Russula ve Lactarius türlerine saldırır ve konağı sert, parlak turuncu-kırmızı, ince sivilceli, yenilebilir bir kabuğa dönüştürür. Hypomyces completus ve Hypomyces transformans Suillus türlerinde parazitlenirken Hypomyces melanocarpus Tylopilus türlerini tercih eder. Hypomyces hyalinus Amanita meyve gövdelerini altın sarısı tozlu bir evre olmaksızın tamamen beyaz, sert, şekil bozucu bir kabukla sarar; Hypomyces aurantius ise çürüyen kav mantarları üzerinde turuncu-kırmızı bir kabuk oluşturur.",
+        "notes": "Arazideki karşılaşmaların çoğu eşeysiz evrelere — önce beyaz konidyum evresine, ardından parlak altın sarısı alöriyospor evresine — aittir; çünkü konak bolet genellikle eşeyli peritesyumlar olgunlaşmadan şekilsiz bir kütleye çürür. Mantarın kolesterol düşürücü statin bileşikleri ürettiği ve ağır metal stresine karşı belirgin bir tolerans sergileyerek kadmiyum maruziyetine yanıt olarak zar işlevi ve metal taşınımıyla ilişkili 1.839 geni etkinleştirdiği gösterilmiştir."
+      },
+      "uk": {
+        "description": "Паразитичний сумчастий гриб, що обростає та муміфікує трубчасті гриби й зрідка споріднені види, вкриваючи хазяїна спершу ватоподібною білою, згодом золотисто-жовтою і зрештою червонувато-коричневою кіркою. Широко поширений у Європі, Азії, Північній і Центральній Америці та Океанії; особливо звичайний у лісах помірного поясу та на південному заході Західної Австралії.",
+        "cap": "Самостійної шапинки не утворює; натомість паразит розвивається як розпростертий пліснявоподібний субікулум, що поширюється по шапинці, порах і ніжці гриба-хазяїна, поступово повністю огортаючи все його плодове тіло. Спочатку він має вигляд тонкого білого, плівчасто-павутинистого або ватоподібного шару, невдовзі стає яскраво-золотисто-жовтим і порошистим під час інтенсивного нестатевого спороношення, а на рідко спостережуваній кінцевій статевій стадії ущільнюється в кіркоподібний червонувато-коричневий або рудувато-бурий, дрібнобугорчастий шар. Гіфи субікулума завширшки 2–5 мкм, септовані, гладенькі, гіалінові в KOH.",
+        "hymenium": "Власних пластинок, трубочок або шипів паразит не утворює; натомість його міцеліальний покрив заповнює і руйнує трубчастий поровий шар ураженого гриба. На рідко спостережуваній статевій стадії (телеоморфі) в темніючому субікулумі розвиваються крихітні глечикоподібні перитеції, занурені в його тканину; їхні дрібні продихи під лупою виглядають як оранжево-жовті, цегляно-червоні або червонувато-коричневі горбочки на поверхні. Кожен перитецій містить циліндричні восьмиспорові сумки (аски).",
+        "stipe": "Відсутня. Гриб не утворює власної ніжки, зростаючи безпосередньо як огортальний міцеліальний шар і кірка на ніжці, шапинці та поровій поверхні гриба-хазяїна.",
+        "flesh": "Власного м'ясистого м'якуша паразит не формує; субікулум утворює лише тонку ватоподібну повсть, що перетворюється на порошистий наліт, а зрештою — на крихку кірку. У міру розвитку інфекції м'якуш ураженого трубчастого гриба розм'якшується, стає губчастим і водянистим, а на фінальній стадії розкладається на гниючу безформну масу.",
+        "sporePrint": "Стандартний споровий порошок не отримують, проте нестатеві стадії утворюють рясні білуваті, а згодом яскраво-золотисто-жовті порошисті скупчення спор на поверхні хазяїна. Протягом життєвого циклу формуються три різні типи спор: на білій нестатевій стадії — гладенькі, тонкостінні, гіалінові, еліпсоїдні до овальних конідії розміром 7–25 × 3–12 мкм (зазвичай 10–20 × 4–8 мкм у KOH); на золотисто-жовтій нестатевій стадії — товстостінні, кулясті, золотисто-жовті, бородавчасті до шипуватих алевріоспори (хламідоспори) діаметром 10–25 мкм (зазвичай 16–22 мкм, включно із шипиками завдовжки близько 1 мкм); на рідкісній статевій стадії — безбарвні, веретеноподібні до ланцетних, виразно бородавчасті, нерівнодвоклітинні аскоспори із загостреними кінцями розміром 20–30 × 4–6 мкм.",
+        "habitat": "Паразитує на плодових тілах трубчастих грибів родини Boletaceae — особливо видів родів Boletus, Xerocomus, Xerocomellus і зрідка пластинчастих болетових, — а також представників родів Paxillus і Rhizopogon у хвойних, листяних і мішаних лісах та прибережних рослинних угрупованнях. Можуть уражатися як поодинокі плодові тіла, так і цілі групи хазяїв, найрясніше у вологі сезони. У помірних регіонах плодоносить переважно з червня по листопад, а в м'якшому кліматі зберігається впродовж зими.",
+        "uses": "Неїстівний і потенційно отруйний гриб; ні самого паразита, ні уражені ним трубчасті гриби не слід вживати в їжу, навіть на ранній білій стадії. У традиційній китайській медицині золотисто-жовтий споровий порошок застосовували зовнішньо на відкриті рани та порізи для зупинки зовнішньої кровотечі.",
+        "confusion": "Hypomyces microspermus візуально не відрізняється в природі й також утворює порошистий наліт від білого до золотисто-жовтого кольору, проте обмежений моховикоподібними болетовими та має дрібніші алевріоспори (12–16 мкм у діаметрі) і коротші, менш виразно бородавчасті аскоспори, що рідко перевищують 15 мкм завдовжки. Hypomyces lactifluorum уражає види родів Russula та Lactarius, а не болетові, перетворюючи хазяїна на щільну, яскраво-оранжево-червону, дрібнобугорчасту їстівну кірку. Hypomyces completus і Hypomyces transformans паразитують на видах роду Suillus, тоді як Hypomyces melanocarpus віддає перевагу видам роду Tylopilus. Hypomyces hyalinus огортає плодові тіла видів роду Amanita чисто-білою, щільною, деформувальною кіркою без золотисто-жовтої порошистої фази, а Hypomyces aurantius утворює оранжево-червону кірку на трутовиках, що розкладаються.",
+        "notes": "Більшість знахідок у природі припадає на нестатеві стадії — спочатку білу конідіальну фазу, а згодом яскраво-золотисто-жовту фазу алевріоспор, — оскільки гриб-хазяїн зазвичай згниває в безформну масу ще до дозрівання статевих перитеціїв. Встановлено, що гриб продукує статинові сполуки, які знижують рівень холестерину, і виявляє помітну стійкість до стресу від важких металів, активуючи 1839 генів, пов'язаних із функцією мембран і транспортом металів, у відповідь на дію кадмію."
+      },
+      "zh": {
+        "description": "一種寄生性子囊菌，會覆蓋並使牛肝菌及偶見的近緣蕈類木乃伊化，在寄主表面蔓延形成棉絮狀的白色、金黃色，最終轉為紅褐色的殼層。廣泛分布於歐洲、亞洲、北美洲、中美洲及大洋洲，在溫帶林地與西澳大利亞州西南部尤為常見。",
+        "cap": "不形成獨立的菌蓋；相反地，此寄生菌發育為平伏、黴狀的菌絲墊（subiculum），蔓延於寄主蕈類的菌蓋、菌管孔與菌柄之上，最終包覆整個子實體。初期為薄層、白色、薄紙狀至棉絮狀，在大量產生無性孢子期間迅速轉為鮮豔的金黃色粉狀，而在極少見的最終有性階段則硬化為殼狀、紅褐色至鏽褐色且具細小瘤點的層膜。菌絲墊的菌絲寬2–5 µm，具隔膜、平滑，在KOH中呈無色透明。",
+        "hymenium": "寄生菌本身不形成菌褶、菌管孔或齒狀突起，而是由其菌絲被覆層填滿並掩蓋寄主牛肝菌的菌管孔層。在罕見的有性世代（teleomorph）中，微小的瓶狀子囊殼埋生於逐漸轉暗的菌絲墊內，其細小孔口在放大鏡下呈現為表面橙黃色、磚紅色或紅褐色的微小瘤點。每個子囊殼內含圓柱形、具八枚孢子的子囊。",
+        "stipe": "缺如。此真菌不產生自身的菌柄，而是直接以包覆性的菌絲層與殼層生長於寄主蕈類的菌柄、菌蓋及菌管孔表面。",
+        "flesh": "寄生菌本身不形成獨立的菌肉組織；菌絲墊僅構成一層薄棉絮狀菌毯，成熟後轉為粉狀被覆層，最終成為脆弱的薄殼。隨著感染進展，受寄生的寄主牛肝菌菌肉會軟化、變得海綿狀且含水飽滿，至最終階段腐爛成一團惡臭而無定形的塊狀物。",
+        "sporePrint": "通常不取標準孢子印，但無性階段會在寄主表面產生大量先呈泛白色、後轉為鮮豔金黃色的粉狀孢子團。整個生活史中會產生三種截然不同的孢子類型：在白色無性階段，產生平滑、薄壁、無色透明、橢圓形至卵形的分生孢子，大小為7–25 × 3–12 µm（在KOH中通常為10–20 × 4–8 µm）；在金黃色無性階段，產生厚壁、球形、金黃色、具疣突至刺狀的側生厚壁孢子（aleuriospores，即厚垣孢子），直徑10–25 µm（含長約1 µm之刺突時通常為16–22 µm）；在罕見的有性階段，則產生無色、紡錘形至披針形、具顯著疣突、兩端尖銳且不等二細胞的子囊孢子，大小為20–30 × 4–6 µm。",
+        "habitat": "寄生於針葉林、闊葉林、針闊葉混交林及濱海植物群落中的牛肝菌科（Boletaceae）牛肝菌子實體——特別是Boletus、Xerocomus、Xerocomellus屬，以及偶見具菌褶的牛肝菌——亦寄生於Paxillus與Rhizopogon屬成員。單一子實體或整群寄主皆可能受感染，在潮濕季節最為繁盛。在溫帶地區主要於6月至11月出菇，在較溫和的氣候下可持續至冬季。",
+        "uses": "不可食且可能具有毒性；即使在早期的白色階段，此寄生菌本身以及任何受其感染的牛肝菌均不可食用。在傳統中醫中，其金黃色孢子粉曾外敷於開放性傷口與割傷處，以幫助止住外出血。",
+        "confusion": "Hypomyces microspermus在野外外觀上無法區分，同樣會形成由白轉金黃色的粉狀被覆層，但僅限於近Xerocomellus類群的牛肝菌，其側生厚壁孢子較小（直徑12–16 µm），子囊孢子也較短且疣突較不明顯，長度很少超過15 µm。Hypomyces lactifluorum攻擊的是Russula與Lactarius屬而非牛肝菌，會將寄主轉化為堅實、鮮橙紅色、具細密瘤點且可食用的殼層。Hypomyces completus與Hypomyces transformans寄生於Suillus屬，而Hypomyces melanocarpus偏好Tylopilus屬。Hypomyces hyalinus會以純白、堅實且使其變形的殼層包覆Amanita子實體，不具金黃色粉狀階段；Hypomyces aurantius則在腐朽的多孔菌上形成橙紅色殼層。",
+        "notes": "野外遇見的個體大多處於無性階段——先是白色分生孢子期，隨後是鮮豔的金黃色側生厚壁孢子期——因為寄主牛肝菌通常在有性子囊殼成熟之前便已腐爛成無定形的團塊。研究顯示此真菌能產生降膽固醇的他汀類化合物，並對重金屬逆境具有顯著耐受性，在暴露於鎘時會活化1,839個與膜功能及金屬運輸相關的基因。"
+      }
+    },
+    "synonyms": [
+      {
+        "name": "Reticularia chrysosperma",
+        "author": "Bull.",
+        "rank": "species"
+      },
+      {
+        "name": "Mucor chrysospermus",
+        "author": "(Bull.) Bull.",
+        "rank": "species"
+      },
+      {
+        "name": "Mycobanche chrysosperma",
+        "author": "(Bull.) Pers.",
+        "rank": "species"
+      },
+      {
+        "name": "Sepedonium chrysospermum",
+        "author": "(Bull.) Fr.",
+        "rank": "species"
+      },
+      {
+        "name": "Hypolyssus chrysospermus",
+        "author": "(Bull.) Kuntze",
+        "rank": "species"
+      },
+      {
+        "name": "Apiocrea chrysosperma",
+        "author": "(Bull.) Syd. & P. Syd.",
+        "rank": "species"
+      },
+      {
+        "name": "Uredo mycophila",
+        "author": "Pers.",
+        "rank": "species"
+      },
+      {
+        "name": "Sepedonium mycophilum",
+        "author": "(Pers.) Nees",
+        "rank": "species"
+      },
+      {
+        "name": "Trichoderma mycophilum",
+        "author": "(Pers.) Schwein.",
+        "rank": "species"
+      },
+      {
+        "name": "Sporotrichum mycophilum",
+        "author": "(Pers.) Spreng.",
+        "rank": "species"
+      },
+      {
+        "name": "Sporotrichum mycophilum var. rubicundum",
+        "author": "Pers.",
+        "rank": "variety"
+      },
+      {
+        "name": "Hypomyces chrysospermus f. edulis",
+        "author": "Bitner",
+        "rank": "form"
+      },
+      {
+        "name": "Apiocrea chrysosperma var. strophariae",
+        "author": "Ola'h",
+        "rank": "variety"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Panaeolus papilionaceus",
+    "author": "(Bull.) Quél.",
+    "citation": "Mém. Soc. Émul. Montbéliard, Sér. 2 5: 152 [122 repr.] (1872)",
+    "family": "Galeropsidaceae",
+    "genus": "Panaeolus",
+    "order": "Agaricales",
+    "path": [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Galeropsidaceae",
+      "Panaeolus"
+    ],
+    "summary": [
+      "Agaricales",
+      "Galeropsidaceae",
+      "Panaeolus"
+    ],
+    "edibility": "inedible",
+    "hymenium": "gills",
+    "where": [
+      "grass",
+      "ground"
+    ],
+    "color": [
+      "dark",
+      "brown",
+      "white"
+    ],
+    "capFrom": 1.0,
+    "capTo": 5.0,
+    "stipeHeightFrom": 4.0,
+    "stipeHeightTo": 12.0,
+    "stipeThickFrom": 0.2,
+    "stipeThickTo": 0.5,
+    "fruitingFrom": 5,
+    "fruitingTo": 11,
+    "added": "2026-11-23",
+    "label": {
+      "en": "petticoat mottlegill",
+      "sk": "zvoncovec obyčajný",
+      "cs": "kropenatec motýlovitý",
+      "da": "almindelig glanshat",
+      "de": "Behangener Düngerling",
+      "es": "panaeolo mariposa",
+      "et": "kahkjas sõnnikuseen",
+      "fi": "kalvaskirjoheltta",
+      "fr": "panéole papilionacé",
+      "he": "צבעונית פעמון",
+      "hu": "csipkés trágyagomba",
+      "ja": "ワライタケ",
+      "lt": "blyškusis mėšlinukas",
+      "lv": "tauriņu svārstene",
+      "nl": "franjevlekplaat",
+      "no": "frynseflekkskivesopp",
+      "pl": "kołpaczek mierzwiowy",
+      "sl": "pisani govnar",
+      "sv": "gråbroking",
+      "zh": "蝶形花褶傘"
+    },
+    "names": {
+      "ar": [],
+      "bg": [],
+      "cs": [],
+      "da": [],
+      "de": [
+        "Blasser Düngerling",
+        "Glocken-Düngerling",
+        "Runzeliger Düngerling"
+      ],
+      "en": [],
+      "es": [
+        "paneolo campanulado"
+      ],
+      "et": [
+        "kelluk-sõnnikuseen"
+      ],
+      "fa": [],
+      "fi": [],
+      "fr": [],
+      "he": [],
+      "hi": [],
+      "hr": [],
+      "hu": [],
+      "id": [],
+      "it": [],
+      "ja": [
+        "チョウタケ"
+      ],
+      "ko": [],
+      "lt": [],
+      "lv": [],
+      "nl": [
+        "witte vlekplaat"
+      ],
+      "no": [
+        "vanlig flekkskivesopp",
+        "krittflekkskivesopp"
+      ],
+      "pl": [
+        "kołpaczek motylkowaty"
+      ],
+      "pt": [],
+      "ro": [],
+      "ru": [],
+      "sk": [],
+      "sl": [],
+      "sr": [],
+      "sv": [
+        "allmän brokskivling",
+        "blekbroking",
+        "rynkbroking"
+      ],
+      "tr": [],
+      "uk": [],
+      "zh": [
+        "鐘形花褶傘",
+        "蝶型斑褶菇",
+        "钟形斑褶菇",
+        "緊縮花褶傘"
+      ]
+    },
+    "sources": {
+      "en": [
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=151194",
+          "detail": "151194"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=151194",
+          "detail": "151194"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        },
+        {
+          "group": "name",
+          "name": "Catalogue of Life",
+          "href": "https://www.catalogueoflife.org/data/taxon/4C969"
+        },
+        {
+          "group": "name",
+          "name": "Wikispecies",
+          "href": "https://species.wikimedia.org/wiki/Panaeolus_papilionaceus"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q2484523"
+        },
+        {
+          "group": "text",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/panaeolus-papilionaceus.php"
+        },
+        {
+          "group": "text",
+          "name": "MushroomExpert",
+          "href": "https://www.mushroomexpert.com/panaeolus_papilionaceus.html"
+        },
+        {
+          "group": "text",
+          "name": "MykoWeb",
+          "href": "https://www.mykoweb.com/CAF/species/Panaeolus_papilionaceus.html"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/118263"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Panaeolus_papilionaceus"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Behangener_D%C3%BCngerling",
+          "detail": "de"
+        },
+        {
+          "group": "text",
+          "name": "Myko.cz",
+          "href": "https://www.myko.cz/myko-atlas/Panaeolus-papilionaceus/"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Ko%C5%82paczek_mierzwiowy",
+          "detail": "pl"
+        }
+      ],
+      "cs": [
+        {
+          "group": "text",
+          "name": "Myko.cz",
+          "href": "https://www.myko.cz/myko-atlas/Panaeolus-papilionaceus/"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "da": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "de": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Behangener_D%C3%BCngerling",
+          "detail": "de"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "es": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Panaeolus_papilionaceus",
+          "detail": "es"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "et": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://et.wikipedia.org/wiki/Kahkjas_s%C3%B5nnikuseen",
+          "detail": "et"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "fi": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "fr": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "he": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "hu": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://hu.wikipedia.org/wiki/Csipk%C3%A9s_tr%C3%A1gyagomba",
+          "detail": "hu"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "it": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Panaeolus_papilionaceus",
+          "detail": "it"
+        }
+      ],
+      "ja": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%A9%E3%82%A4%E3%82%BF%E3%82%B1",
+          "detail": "ja"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "lt": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Bly%C5%A1kusis_m%C4%97%C5%A1linukas",
+          "detail": "lt"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "lv": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "nl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Franjevlekplaat",
+          "detail": "nl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "no": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "pl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Ko%C5%82paczek_mierzwiowy",
+          "detail": "pl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "sk": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "sl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sl.wikipedia.org/wiki/Pisani_govnar",
+          "detail": "sl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "sv": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Gr%C3%A5broking",
+          "detail": "sv"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ],
+      "zh": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/3317061",
+          "detail": "3317061"
+        }
+      ]
+    },
+    "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus@1600.webp",
+    "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus@400.webp",
+    "plateCredit": {
+      "author": "Adrian Benko (Gemini)",
+      "credit": "Mycological plate generated with Gemini in Bresadola style (848x1264 JPEG, LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows mature and young fruit bodies of Panaeolus papilionaceus with appendiculate white veil teeth on weathered dung with pasture grass and clover, an underside mottled-gill view, and a longitudinal cross-section.",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus@1600.webp",
+      "basedOn": []
+    },
+    "photos": [
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus_1.webp",
+        "author": "Alan Rockefeller",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/238546884"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus_2.webp",
+        "author": "Mandy Hackney",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/149270519"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus_3.webp",
+        "author": "Katherine McElveen",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "https://www.inaturalist.org/observations/198824473"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus_4.webp",
+        "author": "Alan Rockefeller",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/130462773"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Galeropsidaceae/Panaeolus_papilionaceus/Panaeolus_papilionaceus_5.webp",
+        "author": "Alan Rockefeller",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/4675914"
+      }
+    ],
+    "text": {
+      "en": {
+        "description": "A small, fragile, saprotrophic agaric fruiting singly or in small groups on weathered herbivore dung and heavily manured pasture soil. Cosmopolitan outside Antarctica, it is widespread and common across Europe, North America, Asia, South America, Africa, and Australasia, occurring wherever grazed pastures and meadows provide aged manure.",
+        "cap": "1–5 cm across, nearly spherical to obtusely conical when young, expanding to bell-shaped or broadly campanulate with age and rarely flattening, occasionally bearing a small central papilla. The dry surface is smooth to silky, becoming slightly sticky when wet, and sometimes cracking radially or developing a raised reticulate network of wrinkles in dry weather. Weakly hygrophanous to non-hygrophanous, it is coloured pale grey, brownish-grey, olive-brown, or reddish-brown at the disc, drying paler greyish to whitish. The slightly incurved to decurved margin is characteristically fringed with small, white, tooth-like triangular remnants of the partial veil, though these are fragile and often shed with age. Potassium hydroxide (KOH) turns the cap surface dull orangish.",
+        "hymenium": "Close to crowded, broad, ventricose gills that are ascending-adnate to adnexed and sometimes secede from the stipe with maturity. Pale greyish when young, they soon become distinctively mottled grey and charcoal-black as spores ripen unevenly across the gill faces, turning blackish overall in age while retaining fine whitish, finely floccose edges. Basidia are abruptly clavate and four-spored; cheilocystidia are abundant, subcylindrical to nearly hair-like and often subcapitate or capitate; pleurocystidia are absent.",
+        "stipe": "4–12 cm tall (occasionally reaching 14–16 cm) and 0.2–0.5 cm thick (occasionally 0.1–0.8 cm), cylindrical, equal or slightly enlarged at the apex and base, fragile, and hollow. Coloured pale grey to greyish-brown like the cap, paler and finely striate near the apex, and darkening to reddish-brown toward the base with age or on handling. The surface is finely coated with whitish pruinose powder, especially when young, and may exude tiny droplets near the top in damp weather; there is no stem ring, and the base is clad in fine white mycelial felt.",
+        "flesh": "Very thin, fragile, and insubstantial, pale greyish to cream or buff-brown, and unchanging when cut. The taste is mild and nondescript; the odour is mild or faintly spicy, sometimes becoming slightly pungent at the stipe base.",
+        "sporePrint": "Black to dark blackish-brown. Spores are 11–18.5 × 7–12 × 7–9.5 µm (commonly 12–18 × 7–10 µm), smooth, ellipsoid to lemon-shaped in face view and slightly flattened in side view, with a prominent apical germ pore; they are dextrinoid and do not discolour in concentrated sulphuric acid.",
+        "habitat": "Coprophilous and saprotrophic, fruiting singly, gregariously, or in small clusters directly on weathered horse, cow, or moose dung and on heavily manured soil in grazed pastures, meadows, and around old manure heaps, often appearing once dung has partially decomposed and become overgrown with grass. In temperate Europe it fruits from May to November, while in North America it appears from spring through autumn and persists through winter in milder climates.",
+        "uses": "Inedible. The fruit bodies are too thin and insubstantial to have culinary value, grow on dung, and carry conflicting reports regarding trace psychoactive compounds, as well as a risk of confusion with genuinely toxic or psilocybin-containing relatives.",
+        "confusion": "Panaeolus semiovatus is larger and sturdier, with a pale cream-yellow viscid cap and a distinct membranous ring on the stipe. Protostropharia semiglobata also fruits on dung but has a slimy ochre-yellow hemispherical cap, a transient stem ring, and a purplish-brown rather than black spore print. Panaeolus fimicola and Panaeolus acuminatus lack white tooth-like veil remnants on the cap margin and have darker brown, more strongly hygrophanous caps. Panaeolus olivaceus has a strongly hygrophanous olive-tinted cap without marginal veil teeth, while Psilocybe species that grow on dung or in pastures typically have a gelatinous separable pellicle, bruise blue, and produce purple-brown rather than jet-black spore prints.",
+        "notes": "Several taxa formerly treated as separate species—including forms with wrinkled reticulate caps and paler bell-shaped forms—are now united within this single variable species, alongside a smaller-spored variety lacking marginal veil fragments. Like other members of its genus, the fruit bodies contain serotonin, urea, and tryptophan; although psilocybin has occasionally been rumoured, chemical analyses of European material have not confirmed hallucinogenic alkaloids."
+      },
+      "sk": {
+        "description": "Malá, krehká, saprotrofná lupeňovitá huba rastúca jednotlivo alebo v malých skupinách na zvetranom truse bylinožravcov a silne hnojenej pôde pasienkov. Je kozmopolitná s výnimkou Antarktídy, široko rozšírená a bežná v Európe, Severnej Amerike, Ázii, Južnej Amerike, Afrike aj Australázii všade tam, kde pasúce sa pasienky a lúky poskytujú starší hnoj.",
+        "cap": "1–5 cm široký, za mladi takmer guľovitý až tupo kužeľovitý, vekom sa rozprestierajúci do zvoncovitého až široko zvoncovitého tvaru a len zriedka sa splošťujúci, občas s malým stredovým hrbolčekom. Suchý povrch je hladký až hodvábny, za vlhka sa stáva mierne lepkavým a za suchého počasia niekedy lúčovito praská alebo vytvára vystúpenú sieťovitú vrásčitosť. Je slabo hygrofánny až nehygrofánny, sfarbený svetlosivo, hnedastosivo, olivovohnedo alebo červenohnedo na temene, pri vysychaní bledne do svetlosiva až belava. Mierne podvinutý až sklonený okraj je príznačne obrúbený drobnými bielymi zúbkovitými trojuholníkovými zvyškami čiastočného závoja (véla), tie sú však krehké a vekom často opadávajú. Hydroxid draselný (KOH) sfarbuje povrch klobúka do matne oranžova.",
+        "hymenium": "Husté až veľmi husté, široké, bruškaté lupene, vystúpavo prirastené až pripojené, ktoré sa v dospelosti niekedy oddeľujú od hlúbika. Za mladi sú svetlosivé, čoskoro však získavajú nápadné škvrnité sivé a uhoľnočierne sfarbenie v dôsledku nerovnomerného dozrievania výtrusov na plochách lupeňov, vekom celkovo černajú, pričom si zachovávajú jemné belavé, jemne vločkaté ostrie. Bazídiá sú náhle kyjakovité a štvorvýtrusné; cheilocystidy sú početné, takmer valcovité až takmer vláskovité a často takmer hlavičkaté alebo hlavičkaté; pleurocystidy chýbajú.",
+        "stipe": "4–12 cm vysoký (ojedinele dosahujúci 14–16 cm) a 0,2–0,5 cm hrubý (ojedinele 0,1–0,8 cm), valcovitý, rovnomerne hrubý alebo na vrchole a báze mierne zhrubnutý, krehký a dutý. Sfarbený je svetlosivo až sivohnedo podobne ako klobúk, pri vrchole je svetlejší a jemne ryhovaný, smerom k báze vekom alebo po otlačení tmavne do červenohneda. Povrch je jemne pokrytý belavým oinovateným popraškom, najmä za mladi, a za vlhkého počasia môže pri vrchole vylučovať drobné kvapôčky; prsteň na hlúbiku chýba a báza je obalená jemnou bielou mycéliovou plsťou.",
+        "flesh": "Veľmi tenká, krehká a nevýdatná, svetlosivá až krémová alebo kožovohnedá, na reze nemenná. Chuť je mierna a nevýrazná; vôňa je mierna alebo slabo korenistá, na báze hlúbika sa niekedy stáva mierne štipľavou.",
+        "sporePrint": "Čierny až tmavo čiernohnedý. Výtrusy merajú 11–18,5 × 7–12 × 7–9,5 µm (bežne 12–18 × 7–10 µm), sú hladké, pri čelnom pohľade elipsoidné až citrónovité a pri bočnom pohľade mierne sploštené, s výrazným vrcholovým klíčnym pórom; sú dextrinoidné a v koncentrovanej kyseline sírovej sa neodfarbujú.",
+        "habitat": "Koprofilná a saprotrofná huba, ktorá rastie jednotlivo, v skupinách alebo v malých trsoch priamo na zvetranom konskom, kravskom alebo losom truse a na silne hnojenej pôde na pasienkoch, lúkach a v okolí starých hnojísk, pričom sa často objavuje vtedy, keď sa trus čiastočne rozložil a zarastá trávou. V miernom pásme Európy plodí od mája do novembra, zatiaľ čo v Severnej Amerike sa objavuje od jari do jesene a v miernejších klimatických oblastiach pretrváva aj cez zimu.",
+        "uses": "Nejedlá. Plodnice sú príliš tenké a nevýdatné na to, aby mali kulinársku hodnotu, rastú na truse a spájajú sa s protichodnými správami o stopových psychoaktívnych látkach, ako aj s rizikom zámeny so skutočne jedovatými príbuznými alebo s druhmi obsahujúcimi psilocybín.",
+        "confusion": "Panaeolus semiovatus je väčší a statnejší, má svetlý krémovožltý slizký klobúk a výrazný blanitý prsteň na hlúbiku. Protostropharia semiglobata taktiež rastie na truse, má však slizký okrovožltý polguľovitý klobúk, pominuteľný prsteň na hlúbiku a purpurovohnedý, nie čierny výtrusný prach. Panaeolus fimicola a Panaeolus acuminatus nemajú biele zúbkovité zvyšky závoja na okraji klobúka a majú tmavšie hnedé, výraznejšie hygrofánne klobúky. Panaeolus olivaceus má výrazne hygrofánny klobúk s olivovým nádychom bez okrajových zúbkov závoja, zatiaľ čo druhy rodu Psilocybe rastúce na truse alebo na pasienkoch majú zvyčajne rôsolovitú stiahnuteľnú pokožku klobúka, po otlačení modrejú a majú purpurovohnedý, nie uhoľnočierny výtrusný prach.",
+        "notes": "Viaceré taxóny, ktoré sa predtým považovali za samostatné druhy — vrátane foriem so sieťovito vrásčitými klobúkmi a svetlejších zvoncovitých foriem — sú dnes zjednotené do tohto jediného premenlivého druhu spolu s drobnovýtrusnou varietou bez okrajových zvyškov závoja. Podobne ako ostatné druhy tohto rodu obsahujú plodnice serotonín, močovinu a tryptofán; hoci sa občas šírili zvesti o prítomnosti psilocybínu, chemické analýzy európskeho materiálu halucinogénne alkaloidy nepotvrdili."
+      },
+      "ar": {
+        "description": "فطر صفائحي صغير وهش ورمّي، يثمر منفرداً أو في مجموعات صغيرة على روث الحيوانات العاشبة المتحلل جزئياً وتربة المراعي الغنية جداً بالسماد العضوي. وهو واسع الانتشار عالمياً خارج القارة القطبية الجنوبية، ويشيع في أوروبا وأمريكا الشمالية وآسيا وأمريكا الجنوبية وأفريقيا وأسترالاسيا، حيث يظهر أينما توفّر المراعي والمروج التي ترعى فيها الحيوانات روثاً قديماً.",
+        "cap": "يبلغ قطر القبعة ١–٥ سم، وتكون شبه كروية إلى مخروطية منفرجة في الصغر، ثم تتسع لتأخذ شكلاً جرسياً أو جرسياً عريضاً مع التقدم في العمر ونادراً ما تنبسط، وقد تحمل أحياناً حلمة مركزية صغيرة. السطح جاف وأملس إلى حريري، ويصبح لزجاً قليلاً عند البلل، وأحياناً يتشقق شعاعياً أو يكوّن شبكة بارزة من التجاعيد في الطقس الجاف. القبعة ضعيفة التغير الرطوبي إلى غير متغيرة بالرطوبة، ولونها رمادي باهت أو رمادي بني أو بني زيتوني أو بني محمر في المركز، وتجف لتصبح رمادية باهتة إلى مبيضة. تتميز الحافة المنحنية قليلاً إلى الداخل أو إلى الأسفل بهدب من بقايا بيضاء صغيرة مثلثة شبيهة بالأسنان من الحجاب الجزئي، غير أن هذه البقايا هشة وكثيراً ما تتساقط مع العمر. يحوّل هيدروكسيد البوتاسيوم (KOH) سطح القبعة إلى لون برتقالي باهت.",
+        "hymenium": "صفائح متقاربة إلى مزدحمة وعريضة ومنتفخة، صاعدة ملتصقة إلى ملتصقة قليلاً بالساق وقد تنفصل عنها عند النضج. يكون لونها رمادياً باهتاً في الصغر، ثم سرعان ما تصبح مرقشة بشكل مميز بالرمادي والأسود الفحمي مع نضج الأبواغ بشكل غير متساوٍ على أوجه الصفائح، وتتحول إلى سوداء بوجه عام في العمر مع احتفاظها بحواف بيضاء دقيقة زغبية قليلاً. الدعامات هراوية فجأة ورباعية الأبواغ؛ والسيستيدات الحافية وفيرة، شبه أسطوانية إلى شبه شعرية وغالباً شبه رأسية أو رأسية؛ بينما تغيب السيستيدات الجانبية.",
+        "stipe": "يبلغ طول الساق ٤–١٢ سم (وقد يصل أحياناً إلى ١٤–١٦ سم) وسمكها ٠٫٢–٠٫٥ سم (وأحياناً ٠٫١–٠٫٨ سم)، وهي أسطوانية، متساوية السمك أو متسعة قليلاً عند القمة والقاعدة، هشة وجوفاء. لونها رمادي باهت إلى بني رمادي مثل القبعة، وأكثر شحوباً ومخططة بدقة قرب القمة، وتغمق إلى بني محمر نحو القاعدة مع العمر أو عند اللمس. يغطي السطح مسحوق أبيض دقيق كالصقيع، خاصة في الصغر، وقد يفرز قطيرات دقيقة قرب القمة في الطقس الرطب؛ لا توجد حلقة على الساق، وتكسو القاعدة طبقة دقيقة من اللباد الغزلي الأبيض.",
+        "flesh": "اللحم رقيق جداً وهش وضعيف القوام، رمادي باهت إلى كريمي أو بني مصفر، ولا يتغير لونه عند القطع. الطعم خفيف غير مميز؛ والرائحة خفيفة أو ذات نفحة توابل طفيفة، وقد تصبح لاذعة قليلاً عند قاعدة الساق.",
+        "sporePrint": "طبعة الأبواغ سوداء إلى بني مسود داكن. الأبواغ بأبعاد ١١–١٨٫٥ × ٧–١٢ × ٧–٩٫٥ ميكرومتر (وشائعاً ١٢–١٨ × ٧–١٠ ميكرومتر)، ملساء، إهليلجية إلى ليمونية الشكل في المنظر الأمامي ومسطحة قليلاً في المنظر الجانبي، ذات ثقب إنباتي قمي بارز؛ وهي دكسترينويدية ولا يتغير لونها في حمض الكبريتيك المركز.",
+        "habitat": "فطر محب للروث ورمّي، يثمر منفرداً أو في مجموعات متقاربة أو عناقيد صغيرة مباشرة على روث الخيول أو الأبقار أو الموظ المتحلل جزئياً وعلى التربة الغنية بالسماد في المراعي والمروج وحول أكوام الروث القديمة، وغالباً ما يظهر بعد أن يتحلل الروث جزئياً وينمو فوقه العشب. يثمر في أوروبا المعتدلة من مايو إلى نوفمبر، بينما يظهر في أمريكا الشمالية من الربيع حتى الخريف ويستمر خلال الشتاء في المناخات الأكثر اعتدالاً.",
+        "uses": "غير صالح للأكل. الأجسام الثمرية رقيقة وضعيفة القوام جداً فلا قيمة غذائية أو مطبخية لها، كما أنها تنمو على الروث وتحمل تقارير متضاربة بشأن آثار مركبات ذات تأثير نفسي، فضلاً عن خطر الخلط بينها وبين أنواع قريبة سامة فعلاً أو تحتوي على السيلوسيبين.",
+        "confusion": "يتميز Panaeolus semiovatus بحجمه الأكبر وبنيته الأقوى، وبقبعته اللزجة الكريمية المصفرة الباهتة، وبوجود حلقة غشائية واضحة على الساق. كما يثمر Protostropharia semiglobata على الروث أيضاً، لكنه يمتلك قبعة نصف كروية مخاطية صفراء مغرية، وحلقة عابرة على الساق، وطبعة أبواغ بنية أرجوانية بدلاً من السوداء. أما Panaeolus fimicola وPanaeolus acuminatus فيفتقران إلى بقايا الحجاب البيضاء الشبيهة بالأسنان على حافة القبعة، ولهما قبعات بنية أغمق وأكثر تغيراً بالرطوبة. ويتميز Panaeolus olivaceus بقبعة شديدة التغير بالرطوبة ذات مسحة زيتونية من دون أسنان حجابية على الحافة، في حين أن أنواع Psilocybe التي تنمو على الروث أو في المراعي تمتلك عادة قشرة هلامية قابلة للانفصال، وتزرقّ عند الكدم، وتنتج طبعة أبواغ بنية أرجوانية بدلاً من الأسود الفاحم.",
+        "notes": "دُمجت عدة أصنوفات كانت تُعد سابقاً أنواعاً مستقلة — بما في ذلك أشكال ذات قبعات مجعدة شبكية وأشكال جرسية أفتح لوناً — ضمن هذا النوع الواحد المتباين، إلى جانب ضَرب ذي أبواغ أصغر يفتقر إلى بقايا الحجاب على الحافة. وكسائر أفراد جنسه، تحتوي الأجسام الثمرية على السيروتونين واليوريا والتربتوفان؛ ورغم شيوع أقاويل عرضية عن وجود السيلوسيبين، لم تؤكد التحاليل الكيميائية للعينات الأوروبية وجود قلويدات مهلوسة."
+      },
+      "bg": {
+        "description": "Дребна, крехка сапротрофна пластинчата гъба, плододаваща поединично или на малки групи върху изветрял тор от тревопасни животни и силно наторена пасищна почва. Космополитен вид, отсъстващ единствено в Антарктида; широко разпространен и обичаен в Европа, Северна Америка, Азия, Южна Америка, Африка и Австралазия навсякъде, където по пасищата и ливадите има прегорял тор.",
+        "cap": "С диаметър 1–5 см, в младост почти кълбовидна до тъпоконична, с възрастта се разперва до звънчевидна или широкозвънчевидна и рядко се изравнява, понякога с малка централна гърбичка. В сухо време повърхността е гладка до копринена, при навлажняване става леко лепкава, а при засушаване понякога се напуква радиално или образува релефна мрежа от бръчки. Слабо хигрофанна до нехигрофанна, оцветена в бледосиво, кафеникавосиво, маслиненокафяво или червеникавокафяво в центъра, като при изсъхване избледнява до бледосивкаво или белезникаво. Леко подвитият или извит надолу ръб е характерно украсен с дребни бели зъбчести триъгълни остатъци от частичното покривало, които обаче са крехки и с възрастта често опадат. При реакция с калиева основа (KOH) повърхността на гуглата придобива матов оранжевеещ оттенък.",
+        "hymenium": "Ламелите са гъсти до много гъсти, широки, издути, възходящо прираснали до почти свободни, като при узряване понякога се отделят от пънчето. Бледосивкави в младост, те скоро стават характерно петнисти в сиво и въгленовочерно поради неравномерното узряване на спорите по повърхността им, а с възрастта почерняват изцяло, запазвайки фин белезникав, дребнолюспест ръб. Базидиите са рязко бухалковидни и четириспорови; хейлоцистидите са многобройни, почти цилиндрични до почти влакновидни и често главести или слабо разширени на върха; плевроцистиди липсват.",
+        "stipe": "Високо 4–12 см (понякога достигащо 14–16 см) и дебело 0,2–0,5 см (понякога 0,1–0,8 см), цилиндрично, равно или леко разширено при върха и основата, крехко и кухо. Оцветено е в бледосиво до сиво-кафяво като гуглата, по-светло и фино набраздено близо до върха, като с възрастта или при допир потъмнява към основата до червеникавокафяво. Повърхността е фино покрита с белезникав брашнест налеп, особено при младите плодни тела, и във влажно време може да отделя миниатюрни капчици близо до върха; липсва пръстенче, а основата е обвита във фин бял мицелен налеп.",
+        "flesh": "Много тънка, крехка и оскъдна, бледосивкава до кремава или жълтеникаво-кафеникава, без да променя цвета си при разрез. Вкусът е мек и неизразителен; миризмата е слаба или едва пикантна, понякога леко остра в основата на пънчето.",
+        "sporePrint": "От черен до тъмно черно-кафяв. Спорите са 11–18,5 × 7–12 × 7–9,5 мкм (обикновено 12–18 × 7–10 мкм), гладки, елипсовидни до лимоновидни в лицева проекция и леко сплескани в профил, с ясно изразена апикална кълнителна пора; декстриноидни са и не се обезцветяват в концентрирана сярна киселина.",
+        "habitat": "Копрофилен сапротроф, плододаващ поединично, на групи или на малки туфи направо върху изветрял конски, кравешки или лосов тор, както и върху силно наторена почва по пасища, ливади и край стари торища, като често се появява след частичното разлагане на тора и обрастването му с трева. В умерена Европа плододава от май до ноември, докато в Северна Америка се среща от пролетта до есента и се запазва през зимата в райони с по-мек климат.",
+        "uses": "Неядлива. Плодните тела са твърде тънки и дребни, за да имат кулинарна стойност, растат върху тор и за тях има противоречиви сведения относно следови количества психоактивни съединения, както и риск от объркване с действително отровни или съдържащи псилоцибин сродни видове.",
+        "confusion": "Panaeolus semiovatus е по-едър и по-здрав, с бледа кремавожълта лепкава гугла и ясно изразено ципесто пръстенче на пънчето. Protostropharia semiglobata също расте върху тор, но има слузеста охреножълта полукълбовидна гугла, нетрайно пръстенче на пънчето и пурпурнокафяв вместо черен споров прашец. При Panaeolus fimicola и Panaeolus acuminatus липсват белите зъбчести остатъци от покривало по ръба на гуглата, а гуглите им са по-тъмнокафяви и по-силно хигрофанни. Panaeolus olivaceus има силно хигрофанна гугла с маслинен оттенък без зъбчета от покривало по ръба, докато видовете от род Psilocybe, растящи върху тор или по пасища, обикновено имат желатинозна отделяща се кожица, посиняват при нараняване и дават пурпурнокафяв вместо въгленовочерен споров прашец.",
+        "notes": "Няколко таксона, смятани по-рано за самостоятелни видове — включително форми с набръчкано-мрежеста гугла и по-бледи звънчевидни форми — днес са обединени в рамките на този единен променлив вид, наред с дребноспорова разновидност без остатъци от покривало по ръба. Подобно на други представители на рода, плодните тела съдържат серотонин, урея и триптофан; макар понякога да се е предполагало наличие на псилоцибин, химичните анализи на европейски материал не са потвърдили халюциногенни алкалоиди."
+      },
+      "cs": {
+        "description": "Drobná, křehká, saprotrofní lupenatá houba rostoucí jednotlivě nebo v malých skupinách na zvětralém trusu býložravců a silně hnojené půdě pastvin. Je kosmopolitní s výjimkou Antarktidy, široce rozšířená a běžná v Evropě, Severní Americe, Asii, Jižní Americe, Africe i Australasii všude tam, kde spásané pastviny a louky poskytují starší hnůj.",
+        "cap": "1–5 cm široký, za mlada téměř kulovitý až tupě kuželovitý, stářím se rozprostírající do zvoncovitého až široce zvoncovitého tvaru a jen zřídka se zplošťující, občas s malým středovým hrbolkem. Suchý povrch je hladký až hedvábný, za vlhka se stává mírně lepkavým a za suchého počasí někdy paprsčitě praská nebo vytváří vystouplou síťovitou vrásčitost. Je slabě hygrofánní až nehygrofánní, zbarvený světle šedě, hnědošedě, olivově hnědě nebo červenohnědě na temeni, při zasychání bledne do světle šedava až bělavé. Mírně podvinutý až skloněný okraj je příznačně lemován drobnými bílými zoubkovitými trojúhelníkovými zbytky částečného závoje (vela), ty jsou však křehké a stářím často opadávají. Hydroxid draselný (KOH) zbarvuje povrch klobouku do matně oranžova.",
+        "hymenium": "Husté až velmi husté, široké, břichaté lupeny, vystoupavě přirostlé až připojené, které se v dospělosti někdy oddělují od třeně. Za mlada jsou světle šedavé, brzy však získávají nápadné skvrnitě šedé a uhlově černé zbarvení v důsledku nerovnoměrného dozrávání výtrusů na plochách lupenů, stářím celkově černají, přičemž si zachovávají jemné bělavé, jemně vločkaté ostří. Bazidie jsou náhle kyjovité a čtyřvýtrusné; cheilocystidy jsou hojné, téměř válcovité až téměř vláskovité a často téměř hlavičkaté nebo hlavičkaté; pleurocystidy chybějí.",
+        "stipe": "4–12 cm vysoký (ojediněle dosahující 14–16 cm) a 0,2–0,5 cm tlustý (ojediněle 0,1–0,8 cm), válcovitý, stejnoměrně tlustý nebo na vrcholu a bázi mírně rozšířený, křehký a dutý. Zbarvený je světle šedě až šedohnědě podobně jako klobouk, při vrcholu je světlejší a jemně rýhovaný, směrem k bázi stářím nebo po otlačení tmavne do červenohněda. Povrch je jemně pokryt bělavým ojíněným popraškem, zejména za mlada, a za vlhkého počasí může při vrcholu vylučovat drobné kapičky; prsten na třeni chybí a báze je pokryta jemnou bílou myceliovou plstí.",
+        "flesh": "Velmi tenká, křehká a nevydatná, světle šedavá až krémová nebo kožově hnědá, na řezu neměnná. Chuť je mírná a nevýrazná; vůně je mírná nebo slabě kořenitá, na bázi třeně se někdy stává mírně štiplavou.",
+        "sporePrint": "Černý až tmavě černohnědý. Výtrusy měří 11–18,5 × 7–12 × 7–9,5 µm (běžně 12–18 × 7–10 µm), jsou hladké, při čelním pohledu elipsoidní až citronovité a při bočním pohledu mírně zploštělé, s výrazným vrcholovým klíčním pórem; jsou dextrinoidní a v koncentrované kyselině sírové se neodbarvují.",
+        "habitat": "Koprofilní a saprotrofní houba, která plodí jednotlivě, pospolitě nebo v malých trsech přímo na zvětralém koňském, kravském nebo losím trusu a na silně hnojené půdě na spásaných pastvinách, loukách a v okolí starých hnojišť, přičemž se často objevuje poté, co se trus částečně rozložil a zarostl trávou. V mírném pásu Evropy plodí od května do listopadu, zatímco v Severní Americe se objevuje od jara do podzimu a v mírnějších klimatických oblastech přetrvává i přes zimu.",
+        "uses": "Nejedlá. Plodnice jsou příliš tenké a nevydatné na to, aby měly kuchyňskou hodnotu, rostou na trusu a pojí se s protichůdnými zprávami o stopových psychoaktivních látkách, stejně jako s rizikem záměny se skutečně jedovatými příbuznými nebo s druhy obsahujícími psilocybin.",
+        "confusion": "Panaeolus semiovatus je větší a statnější, má světlý krémově žlutý slizký klobouk a zřetelný blanitý prsten na třeni. Protostropharia semiglobata také plodí na trusu, má však slizký okrově žlutý polokulovitý klobouk, pomíjivý prsten na třeni a purpurově hnědý, nikoli černý výtrusný prach. Panaeolus fimicola a Panaeolus acuminatus postrádají bílé zoubkovité zbytky závoje na okraji klobouku a mají tmavší hnědé, výrazněji hygrofánní klobouky. Panaeolus olivaceus má výrazně hygrofánní klobouk s olivovým nádechem bez okrajových zoubků závoje, zatímco druhy rodu Psilocybe rostoucí na trusu nebo na pastvinách mají obvykle rosolovitou slupitelnou pokožku klobouku, po otlačení modrají a vytvářejí purpurově hnědý, nikoli uhlově černý výtrusný prach.",
+        "notes": "Několik taxonů dříve považovaných za samostatné druhy — včetně forem se síťovitě vrásčitými klobouky a světlejších zvoncovitých forem — je dnes sjednoceno do tohoto jediného proměnlivého druhu spolu s drobnovýtrusnou varietou bez okrajových zbytků závoje. Podobně jako ostatní zástupci svého rodu obsahují plodnice serotonin, močovinu a tryptofan; ačkoli se občas objevovaly pověsti o přítomnosti psilocybinu, chemické analýzy evropského materiálu halucinogenní alkaloidy nepotvrdily."
+      },
+      "da": {
+        "description": "En lille, skør, saprotrof bladhat, der danner frugtlegemer enkeltvis eller i små grupper på forvitret gødning fra planteædere og stærkt gødet græsningsjord. Kosmopolitisk uden for Antarktis er den vidt udbredt og almindelig i Europa, Nordamerika, Asien, Sydamerika, Afrika og Australasien, hvor den optræder overalt, hvor afgræssede folde og enge rummer ældre gødning.",
+        "cap": "1–5 cm bred, næsten kugleformet til but kegleformet som ung, senere udvidet til klokkeformet eller bredt klokkeformet og sjældent fladt udbredt, lejlighedsvis med en lille central pukkel. Den tørre overflade er glat til silkeagtig, bliver let klæbrig i fugtigt vejr og sprækker undertiden radialt eller udvikler et ophøjet, netformet rynkemønster i tørt vejr. Svagt til ikke hygrofan, farvet bleggrå, brungrå, olivenbrun eller rødbrun i midten og blegnende til lysere grålig eller hvidlig ved udtørring. Den let indbøjede til nedadbøjede rand er karakteristisk frynset med små, hvide, tandformede, trekantede rester af delsvøbet, om end disse er skøre og ofte falder af med alderen. Kaliumhydroxid (KOH) farver hatoverfladen mat orangeagtig.",
+        "hymenium": "Tætte til meget tætte, brede, bugede lameller, opstigende tilvoksede til udrandede og undertiden løsnende fra stokken ved modenhed. Blegt grålige som unge, men snart karakteristisk plettet grå og kulsorte, efterhånden som sporerne modnes uensartet hen over lamelfladerne, og med alderen helt sortagtige, mens de bevarer fine hvidlige, fint fnuggede ægge. Basidierne er brat kølleformede og firesporede; cheilocystider er talrige, næsten cylindriske til næsten hårlignende og ofte svagt hovedformede eller hovedformede; pleurocystider mangler.",
+        "stipe": "4–12 cm høj (lejlighedsvis op til 14–16 cm) og 0,2–0,5 cm tyk (lejlighedsvis 0,1–0,8 cm), cylindrisk, jævntyk eller let udvidet ved top og basis, skør og hul. Farvet bleggrå til gråbrun som hatten, lysere og fint stribet nær toppen og mørknende til rødbrun mod basis med alderen eller ved berøring. Overfladen er fint dækket af et hvidligt, dugget pudder, især som ung, og kan i fugtigt vejr udskille bitte små dråber nær toppen; der er ingen ring på stokken, og basis er klædt i fint hvidt myceliefilt.",
+        "flesh": "Meget tyndt, skørt og uanseligt, blegt gråligt til cremefarvet eller lyst gulbrunt og uforanderligt ved gennemskæring. Smagen er mild og intetsigende; lugten er mild eller svagt krydret og kan undertiden blive let skarp ved stokbasis.",
+        "sporePrint": "Sort til mørkt sortbrunt. Sporerne er 11–18,5 × 7–12 × 7–9,5 µm (oftest 12–18 × 7–10 µm), glatte, ellipsoide til citronformede set forfra og let affladede set fra siden, med en tydelig apikal spirepore; de er dextrinoide og affarves ikke i koncentreret svovlsyre.",
+        "habitat": "Koprofil og saprotrof, voksende enkeltvis, selskabeligt eller i små klynger direkte på forvitret heste-, ko- eller elggødning samt på stærkt gødet jord på afgræssede marker, enge og omkring gamle møddinger, ofte når gødningen delvist er omsat og overgroet med græs. I tempereret Europa danner den frugtlegemer fra maj til november, mens den i Nordamerika optræder fra forår til efterår og fortsætter gennem vinteren i mildere klimaer.",
+        "uses": "Uspiselig. Frugtlegemerne er for tynde og uanselige til at have kulinarisk værdi, vokser på gødning og er forbundet med modstridende rapporter om spor af psykoaktive stoffer samt risiko for forveksling med egentligt giftige eller psilocybinholdige slægtninge.",
+        "confusion": "Panaeolus semiovatus er større og kraftigere med en blegt cremegul, klæbrig hat og en tydelig hindet ring på stokken. Protostropharia semiglobata vokser ligeledes på gødning, men har en slimet okkergul, halvkugleformet hat, en flygtig stokring og et purpurbrunt frem for sort sporeaftryk. Panaeolus fimicola og Panaeolus acuminatus mangler hvide, tandformede svøbrester langs hatranden og har mørkere brune, stærkere hygrofane hatte. Panaeolus olivaceus har en stærkt hygrofan, olivenfarvet hat uden randstillede svøbtænder, mens Psilocybe-arter, der vokser på gødning eller græsningsarealer, typisk har en geléagtig, aftagelig hathud, blåner ved tryk og giver purpurbrunt frem for kulsort sporeaftryk.",
+        "notes": "Flere taksa, der tidligere blev opfattet som selvstændige arter – herunder former med netformet rynkede hatte og blegere klokkeformede former – samles nu i denne ene variable art sammen med en småsporet varietet uden svøbrester langs hatranden. Ligesom andre arter i slægten indeholder frugtlegemerne serotonin, urinstof og tryptofan; skønt psilocybin lejlighedsvis har været omtalt som rygte, har kemiske analyser af europæisk materiale ikke bekræftet hallucinogene alkaloider."
+      },
+      "de": {
+        "description": "Ein kleiner, zerbrechlicher, saprotropher Blätterpilz, der einzeln oder in kleinen Gruppen auf verwittertem Dung von Pflanzenfressern sowie auf stark gedüngtem Weideboden fruktifiziert. Außerhalb der Antarktis kosmopolitisch verbreitet, ist er in Europa, Nordamerika, Asien, Südamerika, Afrika und Australasien weit verbreitet und häufig und kommt überall dort vor, wo beweidete Flächen und Wiesen abgelagerten Dung bieten.",
+        "cap": "1–5 cm breit, jung fast kugelig bis stumpf kegelig, mit zunehmendem Alter glockig bis breit glockig aufschirmend und selten verflachend, gelegentlich mit kleinem zentralem Buckel. Die trockene Oberfläche ist glatt bis seidig, wird bei Feuchtigkeit leicht klebrig und reißt bei trockenem Wetter manchmal radial auf oder bildet ein erhabenes, netzartiges Runzelmuster. Schwach bis nicht hygrophan, am Scheitel blassgrau, bräunlich grau, olivbraun oder rotbraun gefärbt und heller gräulich bis weißlich abtrocknend. Der leicht eingebogene bis herabgebogene Rand ist charakteristisch mit kleinen, weißen, zahnförmigen, dreieckigen Resten des Teilvelums behangen, die jedoch vergänglich sind und im Alter oft abfallen. Kalilauge (KOH) verfärbt die Hutoberfläche stumpf orange.",
+        "hymenium": "Eng bis gedrängt stehende, breite, bauchige Lamellen, aufsteigend angewachsen bis ausgebuchtet angeheftet und im Alter gelegentlich vom Stiel ablösend. Jung blass gräulich, werden sie bald auffällig grau und kohleschwarz gescheckt, da die Sporen ungleichmäßig über die Lamellenflächen reifen, und färben sich im Alter insgesamt schwärzlich, behalten jedoch feine, weißliche, feinflockige Schneiden. Die Basidien sind abrupt keulig und viersporig; Cheilozystiden sind zahlreich, fast zylindrisch bis nahezu haarartig und oft fast kopfig bis kopfig; Pleurozystiden fehlen.",
+        "stipe": "4–12 cm lang (gelegentlich bis 14–16 cm) und 0,2–0,5 cm dick (gelegentlich 0,1–0,8 cm), zylindrisch, gleichmäßig dick oder an Spitze und Basis leicht erweitert, zerbrechlich und hohl. Wie der Hut blassgrau bis graubraun gefärbt, zur Spitze hin blasser und fein gerieft, zur Basis hin mit dem Alter oder bei Berührung rotbraun nachdunkelnd. Die Oberfläche ist besonders jung fein weißlich bereift und kann bei feuchtem Wetter nahe der Spitze winzige Tröpfchen ausscheiden; ein Ring fehlt, und die Basis ist von feinem weißem Myzelfilz überzogen.",
+        "flesh": "Sehr dünn, zerbrechlich und wenig ergiebig, blass gräulich bis cremefarben oder hellbraun, bei Verletzung unveränderlich. Der Geschmack ist mild und unauffällig; der Geruch ist mild oder schwach würzig und kann an der Stielbasis leicht stechend werden.",
+        "sporePrint": "Schwarz bis dunkel schwarzbraun. Die Sporen messen 11–18,5 × 7–12 × 7–9,5 µm (meist 12–18 × 7–10 µm), sind glatt, in Frontalansicht ellipsoid bis zitronenförmig und in Seitenansicht leicht abgeflacht, mit deutlichem apikalem Keimporus; sie sind dextrinoid und verfärben sich in konzentrierter Schwefelsäure nicht.",
+        "habitat": "Koprophil und saprotroph, einzeln, gesellig oder in kleinen Büscheln direkt auf verwittertem Pferde-, Kuh- oder Elchdung sowie auf stark gedüngtem Boden auf beweideten Flächen, Wiesen und an alten Misthaufen fruktifizierend, oft sobald der Dung teilweise zersetzt und von Gras überwachsen ist. Im gemäßigten Europa erscheinen die Fruchtkörper von Mai bis November, in Nordamerika vom Frühjahr bis in den Herbst und in milderen Klimazonen auch über den Winter hinweg.",
+        "uses": "Ungenießbar. Die Fruchtkörper sind zu dünnfleischig und unergiebig für eine kulinarische Nutzung, wachsen auf Dung und werden von widersprüchlichen Berichten über Spuren psychoaktiver Inhaltsstoffe begleitet; zudem besteht Verwechslungsgefahr mit tatsächlich giftigen oder psilocybinhaltigen verwandten Arten.",
+        "confusion": "Panaeolus semiovatus ist größer und kräftiger, mit blass cremegelbem, schmierigem Hut und einem deutlichen häutigen Ring am Stiel. Protostropharia semiglobata wächst ebenfalls auf Dung, besitzt jedoch einen schleimigen, ockergelben, halbkugeligen Hut, einen vergänglichen Stielring und purpurbraunes statt schwarzes Sporenpulver. Panaeolus fimicola und Panaeolus acuminatus fehlen die weißen, zahnförmigen Velumreste am Hutrand, und sie haben dunkler braune, stärker hygrophane Hüte. Panaeolus olivaceus hat einen stark hygrophanen, olivgetönten Hut ohne randständige Velumzähnchen, während auf Dung oder Weiden wachsende Psilocybe-Arten typischerweise eine abziehbare gelatinöse Huthaut aufweisen, blau anlaufen und purpurbraunes statt tiefschwarzes Sporenpulver bilden.",
+        "notes": "Mehrere früher als eigenständige Arten geführte Taxa – darunter Formen mit netzig gerunzelten Hüten sowie blassere, glockige Formen – werden heute in dieser einen variablen Art vereint, ebenso wie eine kleinsporigere Varietät ohne Velumreste am Hutrand. Wie andere Vertreter ihrer Gattung enthalten die Fruchtkörper Serotonin, Harnstoff und Tryptophan; obwohl gelegentlich über Psilocybin spekuliert wurde, haben chemische Analysen von europäischem Material keine halluzinogenen Alkaloide bestätigt."
+      },
+      "es": {
+        "description": "Seta de láminas pequeña, frágil y saprótrofa que fructifica de forma aislada o en pequeños grupos sobre estiércol meteorizado de herbívoros y suelos de pastizal muy abonados. Cosmopolita fuera de la Antártida, está ampliamente distribuida y es común en Europa, Norteamérica, Asia, Sudamérica, África y Australasia, donde aparece siempre que los pastos y praderas pastoreadas ofrecen estiércol envejecido.",
+        "cap": "De 1–5 cm de diámetro, casi esférico a obtusamente cónico de joven, expandiéndose a acampanado o anchamente campanulado con la edad y raramente aplanado, a veces con una pequeña papila central. La superficie seca es lisa a sedosa, ligeramente viscosa en tiempo húmedo, y en ocasiones se agrieta radialmente o desarrolla una red reticulada de arrugas en relieve con tiempo seco. Débilmente higrófano a no higrófano, es de color gris pálido, gris parduzco, pardo oliváceo o pardo rojizo en el disco, palideciendo al secarse hacia tonos grisáceos o blanquecinos. El margen, de ligeramente incurvado a decurvado, está característicamente festoneado por pequeños restos blancos, triangulares y dentiformes del velo parcial, aunque son frágiles y suelen desprenderse con la edad. El hidróxido de potasio (KOH) tiñe la superficie del sombrero de un anaranjado apagado.",
+        "hymenium": "Láminas prietas a muy apretadas, anchas, ventrudas, ascendentes-adnatas a adnexas, que en ocasiones se separan del pie al madurar. De color grisáceo pálido en la juventud, pronto adquieren un moteado característico gris y negro carbón a medida que las esporas maduran de forma desigual sobre las caras laminares, volviéndose negruzcas en conjunto con la edad aunque conservando la arista fina, blanquecina y finamente floconosa. Los basidios son abruptamente claviformes y tetraspóricos; los queilocistidios son abundantes, subcilíndricos a casi filiformes y con frecuencia subcapitados o capitados; los pleurocistidios están ausentes.",
+        "stipe": "De 4–12 cm de altura (ocasionalmente hasta 14–16 cm) y 0,2–0,5 cm de grosor (ocasionalmente 0,1–0,8 cm), cilíndrico, igual o ligeramente ensanchado en el ápice y la base, frágil y hueco. De color gris pálido a pardo grisáceo como el sombrero, más pálido y finamente estriado cerca del ápice, y oscureciéndose a pardo rojizo hacia la base con la edad o al manipularlo. La superficie está finamente cubierta de pruina blanquecina, especialmente en ejemplares jóvenes, y puede exudar diminutas gotitas cerca del ápice en tiempo húmedo; carece de anillo y la base está revestida de un fino fieltro miceliar blanco.",
+        "flesh": "Muy delgada, frágil e inconsistente, de color grisáceo pálido a crema o pardo gamuza, inmutable al corte. El sabor es suave y poco definido; el olor es suave o ligeramente especiado, volviéndose a veces algo acre en la base del pie.",
+        "sporePrint": "Negra a pardo negruzco oscuro. Las esporas miden 11–18,5 × 7–12 × 7–9,5 µm (habitualmente 12–18 × 7–10 µm), son lisas, de elipsoides a limoniformes en vista frontal y ligeramente aplanadas de perfil, con un poro germinativo apical prominente; son dextrinoides y no se decoloran en ácido sulfúrico concentrado.",
+        "habitat": "Coprófila y saprótrofa, fructifica aislada, gregaria o en pequeños grupos directamente sobre estiércol envejecido de caballo, vaca o alce y sobre suelos muy estercolados en pastizales, praderas y alrededores de viejos estercoleros, apareciendo a menudo cuando el estiércol ya está parcialmente descompuesto y cubierto de hierba. En la Europa templada fructifica de mayo a noviembre, mientras que en Norteamérica aparece desde la primavera hasta el otoño y persiste durante el invierno en climas más benignos.",
+        "uses": "No comestible. Los carpóforos son demasiado delgados e inconsistentes para tener valor culinario, crecen sobre estiércol y cuentan con informes contradictorios sobre trazas de compuestos psicoactivos, además del riesgo de confusión con especies emparentadas realmente tóxicas o que contienen psilocibina.",
+        "confusion": "Panaeolus semiovatus es más grande y robusto, con un sombrero viscoso de color crema amarillento pálido y un anillo membranoso bien definido en el pie. Protostropharia semiglobata también fructifica sobre estiércol, pero tiene un sombrero hemisférico viscoso de color amarillo ocre, un anillo fugaz en el pie y una esporada pardo purpúrea en lugar de negra. Panaeolus fimicola y Panaeolus acuminatus carecen de restos blancos dentiformes del velo en el margen del sombrero y presentan sombreros de un pardo más oscuro y más marcadamente higrófanos. Panaeolus olivaceus posee un sombrero muy higrófano de tonos oliváceos sin dientes velares marginales, mientras que las especies de Psilocybe que crecen sobre estiércol o en pastizales suelen tener una cutícula gelatinosa separable, azulean al roce y producen esporadas pardo purpúreas en lugar de negro azabache.",
+        "notes": "Varios táxones considerados anteriormente especies independientes —incluidas formas con sombrero arrugado reticulado y formas acampanadas más pálidas— se agrupan hoy en esta única especie variable, junto con una variedad de esporas más pequeñas sin restos marginales del velo. Como otros miembros de su género, los carpóforos contienen serotonina, urea y triptófano; aunque ocasionalmente se ha rumoreado la presencia de psilocibina, los análisis químicos de material europeo no han confirmado alcaloides alucinógenos."
+      },
+      "et": {
+        "description": "Väike ja habras saprotroofne lehikseen, mis kasvab üksikult või väikeste rühmadena kõdunenud rohusööjate sõnnikul ja tugevalt väetatud karjamaamullal. Kosmopoliitne liik, mis puudub vaid Antarktikas; laialt levinud ja tavaline Euroopas, Põhja-Ameerikas, Aasias, Lõuna-Ameerikas, Aafrikas ja Australaasias kõikjal, kus karjamaadel ja niitudel leidub vana sõnnikut.",
+        "cap": "Läbimõõduga 1–5 cm, noorelt peaaegu kerajas kuni tömpkooniline, vananedes kellukjaks või laialt kellukjaks laienev ja harva lamenduv, mõnikord väikese keskmise kühmuga. Kuiv pind on sile kuni siidine, märjalt muutub kergelt kleepuvaks ning kuiva ilmaga lõheneb kohati radiaalselt või kattub reljeefse võrkja kortsustikuga. Nõrgalt hügrofaanne kuni mittehügrofaanne, keskosas kahvatuhall, pruunikashall, oliivpruun või punakaspruun, kuivades kahvatub hallikamaks kuni valkjaks. Kergelt sisse- või allapöördunud serv on iseloomulikult ääristatud väikeste valgete hambuliste kolmnurksete osaloori jäänustega, kuid need on haprad ja kaovad vananedes sageli. Kaaliumhüdroksiid (KOH) värvib kübara pinna tuhmilt oranžikaks.",
+        "hymenium": "Eoslehed on tihedad kuni väga tihedad, laiad, kõhukad, tõusvalt külgekasvanud kuni kitsalt külgekasvanud ning eralduvad küpsedes mõnikord jalast. Noorelt kahvatuhallid, muutuvad nad peagi iseloomulikult halli- ja süsimustakirjuks, sest eosed valmivad eoslehtede külgedel ebaühtlaselt; vananedes tumenevad üldiselt mustjaks, säilitades peene valkja, peenhelbelise serva. Basiidiumid on järsult nuiakujulised ja neljaeoselised; heilotsüstiide on rohkesti, need on peaaegu silinderjad kuni peaaegu karvjad ning sageli peajalt või nõrgalt paksenenud tipuga; pleurotsüstiidid puuduvad.",
+        "stipe": "4–12 cm kõrge (harva kuni 14–16 cm) ja 0,2–0,5 cm jäme (harva 0,1–0,8 cm), silinderjas, ühtlase jämedusega või tipust ja aluselt veidi laienenud, habras ja õõnes. Kübaraga sarnaselt kahvatuhall kuni hallikaspruun, tipuosas heledam ja peenelt triibuline, vananedes või puudutamisel aluse poole punakaspruuniks tumenev. Pind on kaetud peene valkja jahuka kirmega, eriti noorelt, ja võib niiske ilmaga tipu lähedal eritada tillukesi piisku; rõngas puudub ning jala alust katab peen valge seeneniidistiku vilt.",
+        "flesh": "Väga õhuke, habras ja vähese mahuga, kahvatuhall kuni kreemjas või kollakaspruun, lõikamisel värvust ei muuda. Maitse on mahe ja mittemidagiütlev; lõhn on nõrk või õrnalt vürtsikas, jala alusel mõnikord kergelt terav.",
+        "sporePrint": "Must kuni tume mustjaspruun. Eosed on 11–18,5 × 7–12 × 7–9,5 µm (tavaliselt 12–18 × 7–10 µm), siledad, eestvaates ellipsoidsed kuni sidrunikujulised ja külgvaates kergelt lamenenud, selge tipmise idupooriga; need on dekstrinoidsed ega muuda värvust kontsentreeritud väävelhappes.",
+        "habitat": "Koprofiilne saprotroof, mis viljub üksikult, rühmadena või väikeste kimpudena otse kõdunenud hobuse-, veise- või põdrasõnnikul ning tugevalt väetatud mullal karjamaadel, niitudel ja vanade sõnnikuhunnikute ümbruses, ilmudes sageli siis, kui sõnnik on osaliselt lagunenud ja rohtu kasvanud. Parasvöötme Euroopas kasvab maist novembrini, Põhja-Ameerikas aga kevadest sügiseni ning pehmema kliimaga aladel ka talvel.",
+        "uses": "Mittesöödav. Viljakehad on kulinaarse väärtuse omamiseks liiga õhukesed ja väikesed, kasvavad sõnnikul ning lisaks on vastuolulisi teateid psühhoaktiivsete ühendite jälgede kohta ja oht ajada need segi tõeliselt mürgiste või psilotsübiini sisaldavate sugulasliikidega.",
+        "confusion": "Panaeolus semiovatus on suurem ja tugevam, kahvatu kreemikaskollase kleepuva kübara ja selge kileja rõngaga jalal. Protostropharia semiglobata kasvab samuti sõnnikul, kuid tal on limane ookerkollane poolkerajas kübar, kaduv rõngas jalal ja musta asemel purpurpruun eosetolm. Liikidel Panaeolus fimicola ja Panaeolus acuminatus puuduvad kübara serval valged hambulised loorijäänused ning nende kübarad on tumepruunimad ja tugevamalt hügrofaansed. Liigil Panaeolus olivaceus on tugevalt hügrofaanne oliivja tooniga kübar ilma loorihammasteta serval, samas kui sõnnikul või karjamaadel kasvavatel Psilocybe liikidel on tavaliselt kergesti eralduv sültjas kübaranahk, need sinetuvad vigastamisel ja nende eosetolm on süsimusta asemel purpurpruun.",
+        "notes": "Mitu varem eraldi liikidena käsitletud taksonit — sealhulgas võrkjalt kortsulise kübaraga vormid ja kahvatumad kellukjad vormid — on nüüd ühendatud selle ühe muutliku liigi alla koos väiksemaeoselise teisendiga, millel puuduvad kübara serval loorijäänused. Nagu teisedki selle perekonna esindajad, sisaldavad viljakehad serotoniini, uureat ja trüptofaani; kuigi vahel on oletatud psilotsübiini esinemist, ei ole Euroopa materjali keemilised analüüsid hallutsinogeenseid alkaloide kinnitanud."
+      },
+      "fa": {
+        "description": "قارچ تیغه‌دار کوچک، شکننده و ساپروتروف که به‌صورت تکی یا در گروه‌های کوچک روی سرگین فرسودهٔ گیاه‌خواران و خاک مراتع به‌شدت کودداده رشد می‌کند. این گونه در سراسر جهان به‌جز جنوبگان پراکندگی دارد و در اروپا، آمریکای شمالی، آسیا، آمریکای جنوبی، آفریقا و استرالیا و اقیانوسیه گسترده و رایج است و هرجا که مراتع و چمنزارهای چراگاه سرگین کهنه فراهم کنند، دیده می‌شود.",
+        "cap": "قطر کلاهک ۱–۵ سانتی‌متر است؛ در جوانی تقریباً کروی تا مخروطی کند است و با افزایش سن به شکل زنگوله‌ای یا زنگوله‌ای پهن باز می‌شود و به‌ندرت تخت می‌گردد و گاهی برجستگی کوچک مرکزی دارد. سطح خشک آن صاف تا ابریشمی است، در رطوبت اندکی چسبناک می‌شود و در هوای خشک گاهی به‌صورت شعاعی ترک می‌خورد یا شبکه‌ای برجسته از چین‌وچروک پدید می‌آورد. نسبت به رطوبت کم‌تغییر تا بی‌تغییر است و در بخش میانی به رنگ خاکستری کم‌رنگ، خاکستری قهوه‌ای، قهوه‌ای زیتونی یا قهوه‌ای مایل به قرمز بوده و هنگام خشک شدن به خاکستری کم‌رنگ‌تر تا مایل به سفید می‌گراید. لبهٔ اندکی برگشته به داخل یا رو به پایین آن به‌طور شاخص با بقایای کوچک، سفید، مثلثی و دندانه‌مانندِ پردهٔ جزئی حاشیه‌دار شده است، هرچند این بقایا شکننده‌اند و اغلب با افزایش سن می‌ریزند. هیدروکسید پتاسیم (KOH) سطح کلاهک را به نارنجی کدر تغییر رنگ می‌دهد.",
+        "hymenium": "تیغه‌ها نزدیک به هم تا متراکم، پهن و شکم‌دار هستند که به‌صورت بالارونده-چسبیده تا نیمه‌چسبیده به ساقه متصل‌اند و گاهی با رسیدن کامل از ساقه جدا می‌شوند. در جوانی خاکستری کم‌رنگ‌اند، اما به‌زودی با رسیدن ناهمگون هاگ‌ها در سطح تیغه‌ها به‌طور شاخص به خاکستری و سیاه زغالی لکه‌دار می‌شوند و در پیری به‌طور کلی سیاه‌رنگ می‌گردند، در حالی که لبه‌های ظریف مایل به سفید و اندکی پنبه‌ای خود را حفظ می‌کنند. بازیدی‌ها به‌طور ناگهانی گرزی‌شکل و چهارهاگی هستند؛ کیلُوسیستیدها فراوان، نیمه‌استوانه‌ای تا تقریباً مویی‌شکل و اغلب نیمه‌کلاه‌دار یا کلاه‌دارند؛ پلوروسیستیدها وجود ندارند.",
+        "stipe": "ارتفاع ساقه ۴–۱۲ سانتی‌متر (گاهی تا ۱۴–۱۶ سانتی‌متر) و ضخامت آن ۰٫۲–۰٫۵ سانتی‌متر (گاهی ۰٫۱–۰٫۸ سانتی‌متر) است؛ استوانه‌ای، یکنواخت یا در رأس و پایه اندکی متورم، شکننده و توخالی است. رنگ آن مانند کلاهک خاکستری کم‌رنگ تا خاکستری قهوه‌ای است، نزدیک رأس کم‌رنگ‌تر و دارای خطوط ظریف است و با افزایش سن یا لمس به سوی پایه به قهوه‌ای مایل به قرمز تیره می‌شود. سطح آن به‌ویژه در جوانی با پوششی ظریف از گرد سفید شبنم‌مانند پوشیده شده و در هوای مرطوب ممکن است نزدیک رأس قطره‌های ریزی ترشح کند؛ ساقه فاقد حلقه است و پایهٔ آن با نمد میسلیومی سفید و ظریف پوشیده شده است.",
+        "flesh": "گوشت بسیار نازک، شکننده و کم‌حجم است، به رنگ خاکستری کم‌رنگ تا کرم یا قهوه‌ای نخودی، و هنگام برش تغییر رنگ نمی‌دهد. مزهٔ آن ملایم و نامشخص است؛ بوی آن ملایم یا اندکی تند و ادویه‌ای است و گاهی در پایهٔ ساقه کمی تیز می‌شود.",
+        "sporePrint": "نقش هاگ سیاه تا قهوه‌ای سیاه تیره است. هاگ‌ها ۱۱–۱۸٫۵ × ۷–۱۲ × ۷–۹٫۵ میکرومتر (معمولاً ۱۲–۱۸ × ۷–۱۰ میکرومتر)، صاف، در نمای روبه‌رو بیضوی تا لیمویی‌شکل و در نمای جانبی اندکی پهن‌شده‌اند و دارای روزنهٔ رویشی رأسی برجسته‌اند؛ دکسترینوئید هستند و در اسید سولفوریک غلیظ بی‌رنگ نمی‌شوند.",
+        "habitat": "سرگین‌دوست و ساپروتروف است و به‌صورت تکی، گروهی یا در دسته‌های کوچک مستقیماً روی سرگین فرسودهٔ اسب، گاو یا گوزن شمالی و روی خاک به‌شدت کودداده در مراتع چراگاه، چمنزارها و پیرامون توده‌های قدیمی کود می‌روید و اغلب زمانی ظاهر می‌شود که سرگین تا حدی تجزیه شده و علف روی آن را پوشانده باشد. در اروپای معتدل از مه تا نوامبر اندام بارده تولید می‌کند، در حالی که در آمریکای شمالی از بهار تا پاییز ظاهر می‌شود و در اقلیم‌های معتدل‌تر در طول زمستان نیز دوام می‌آورد.",
+        "uses": "غیرخوراکی است. اندام‌های بارده بیش از آن نازک و کم‌حجم‌اند که ارزش آشپزی داشته باشند، روی سرگین می‌رویند و گزارش‌های متناقضی دربارهٔ مقادیر ناچیز ترکیبات روان‌گردان دارند، افزون بر این خطر اشتباه گرفتن آن‌ها با خویشاوندان واقعاً سمی یا حاوی سیلوسایبین وجود دارد.",
+        "confusion": "Panaeolus semiovatus بزرگ‌تر و مستحکم‌تر است، کلاهک لزج زرد-کرم کم‌رنگ دارد و حلقهٔ غشایی مشخصی روی ساقه دارد. Protostropharia semiglobata نیز روی سرگین می‌روید اما کلاهک نیم‌کروی لزج زرد اخرایی، حلقهٔ گذرا روی ساقه و نقش هاگ قهوه‌ای ارغوانی به‌جای سیاه دارد. Panaeolus fimicola و Panaeolus acuminatus فاقد بقایای سفید دندانه‌مانند پرده در لبهٔ کلاهک هستند و کلاهک قهوه‌ای تیره‌تر و با تغییر رنگ رطوبتی شدیدتر دارند. Panaeolus olivaceus کلاهک زیتونی‌رنگ با تغییر رنگ رطوبتی شدید و بدون دندانه‌های پرده‌ای در لبه دارد، در حالی که گونه‌های Psilocybe که روی سرگین یا در مراتع می‌رویند معمولاً پوستهٔ ژلاتینی جداشدنی دارند، با کبودی آبی می‌شوند و نقش هاگ قهوه‌ای ارغوانی به‌جای سیاه پررنگ تولید می‌کنند.",
+        "notes": "چندین آرایه که پیش‌تر به‌عنوان گونه‌های جداگانه در نظر گرفته می‌شدند — از جمله شکل‌هایی با کلاهک چروکیده و شبکه‌ای و شکل‌های زنگوله‌ای کم‌رنگ‌تر — اکنون در همین یک گونهٔ متغیر ادغام شده‌اند، در کنار واریته‌ای با هاگ‌های کوچک‌تر که فاقد بقایای پرده در لبه است. همانند دیگر اعضای این سرده، اندام‌های بارده حاوی سروتونین، اوره و تریپتوفان هستند؛ گرچه گاهی شایعاتی دربارهٔ وجود سیلوسایبین مطرح شده، تحلیل‌های شیمیایی نمونه‌های اروپایی وجود آلکالوئیدهای توهم‌زا را تأیید نکرده‌اند."
+      },
+      "fi": {
+        "description": "Pieni, hauras lahottajahelttasieni, joka kasvaa yksittäin tai pieninä ryhminä maatuneella kasvinsyöjien lannalla ja runsaasti lannoitetussa laidunmaassa. Laji on Antarktista lukuun ottamatta kosmopoliittinen ja laajalle levinnyt sekä yleinen Euroopassa, Pohjois-Amerikassa, Aasiassa, Etelä-Amerikassa, Afrikassa ja Australaasiassa kaikkialla, missä laidunnetuilla niityillä ja laitumilla on ikääntynyttä lantaa.",
+        "cap": "1–5 cm leveä, nuorena lähes pallomainen tai tylpän kartiomainen, vanhemmiten kellomainen tai leveän kellomainen ja vain harvoin laakeneva, joskus keskellä pieninipukkainen. Kuiva pinta on sileä tai silkkimäinen, kosteana hieman tahmea, ja kuivalla säällä se saattaa halkeilla säteittäisesti tai muodostaa koholla olevan verkkoryppyisen kuvion. Heikosti hygrofaaninen tai ei-hygrofaaninen lakki on väriltään vaaleanharmaa, ruskeanharmaa, oliivinruskea tai keskustasta punaruskea ja vaalenee kuivuessaan harmahtavaksi tai valkeahkoksi. Hieman sisäänkiertyneen tai alaspäin taipuneen reunan tunnusomaisena piirteenä ovat pienet, valkoiset, hammasmaiset kolmiomaiset osittaisen suojuksen jäänteet, jotka kuitenkin ovat hauraita ja varisevat usein iän myötä. Kaliumhydroksidi (KOH) värjää lakin pinnan himmeän oranssiksi.",
+        "hymenium": "Tiheät tai hyvin tiheät, leveät ja pulleat heltat, jotka ovat nousevasti kolotyviset tai kapeasti kiinnittyneet ja irtoavat jalasta joskus itiöemän vanhetessa. Nuorena vaaleanharmaat heltat muuttuvat pian tunnusomaisen harmaan ja hiilenmustan kirjaviksi itiöiden kypsyessä epätasaisesti helttapinnoilla, ja vanhemmiten ne tummuvat kauttaaltaan mustahkoiksi säilyttäen kuitenkin ohuen valkeahkon, hienonukkaisen terän. Basidiot ovat jyrkästi nuijamaisia ja neli-itiöisiä; keilokystidit ovat runsaita, lähes lieriömäisiä tai melkein karvamaisia ja usein nuija- tai nuppipäisiä; pleurokystidit puuttuvat.",
+        "stipe": "4–12 cm korkea (joskus jopa 14–16 cm) ja 0,2–0,5 cm paksu (joskus 0,1–0,8 cm), lieriömäinen, tasapaksu tai latvasta ja tyvestä hieman paksuuntunut, hauras ja ontto. Väriltään lakin tavoin vaaleanharmaa tai harmaanruskea, latvasta vaaleampi ja hienouurteinen, ja tummuu tyveä kohti punaruskeaksi iän myötä tai kosketeltaessa. Pinta on erityisesti nuorena hienon valkeahkon härmän peittämä, ja kostealla säällä jalan yläosasta saattaa tihkua pieniä pisaroita; jalassa ei ole rengasta, ja tyveä verhoaa hieno valkoinen rihmastohuopa.",
+        "flesh": "Hyvin ohut, hauras ja mitätön, vaaleanharmahtava, kermanvärinen tai vaaleanruskea, eikä sen väri muutu leikattaessa. Maku on mieto ja huomaamaton; tuoksu on mieto tai heikosti mausteinen, ja jalan tyvessä se voi muuttua hieman pistäväksi.",
+        "sporePrint": "Musta tai tumman mustanruskea. Itiöt ovat 11–18,5 × 7–12 × 7–9,5 µm (tavallisesti 12–18 × 7–10 µm), sileitä, edestä katsottuna soikeita tai sitruunamaisia ja sivusta hieman litistyneitä, ja niissä on selvä kärki-ituhuokonen; ne ovat dekstrinoidisia eivätkä vaalene väkevässä rikkihapossa.",
+        "habitat": "Lantaa lahottava koprofiilinen sieni, joka kasvaa yksittäin, ryhmittäin tai pieninä tuppaina suoraan maatuneella hevosen, lehmän tai hirven lannalla sekä runsaasti lannoitetussa maassa laidunnetuilla laitumilla, niityillä ja vanhojen lantakasojen ympärillä, usein silloin kun lanta on jo osittain hajonnut ja ruohon peittämä. Lauhkeassa Euroopassa se tuottaa itiöemiä toukokuusta marraskuuhun, kun taas Pohjois-Amerikassa sitä esiintyy keväästä syksyyn ja leudommassa ilmastossa läpi talven.",
+        "uses": "Syötäväksi kelpaamaton. Itiöemät ovat liian ohuita ja vähäpätöisiä ruokasieneksi, kasvavat lannalla, ja niiden mahdollisista vähäisistä psykoaktiivisista yhdisteistä on ristiriitaisia tietoja; lisäksi laji voidaan sekoittaa aidosti myrkyllisiin tai psilosybiiniä sisältäviin sukulaislajeihin.",
+        "confusion": "Panaeolus semiovatus on suurempi ja tanakampi, ja sillä on vaalea kermankeltainen tahmea lakki sekä selvä kalvomainen rengas jalassa. Protostropharia semiglobata kasvaa myös lannalla, mutta sillä on limainen okrankeltainen puolipallomainen lakki, katoavainen jalkarengas ja mustan sijaan purppuranruskea itiöpöly. Panaeolus fimicola ja Panaeolus acuminatus ovat vailla lakin reunan valkoisia hammasmaisia suojusjäänteitä, ja niiden lakki on tummemman ruskea sekä voimakkaammin hygrofaaninen. Panaeolus olivaceus -lajilla on voimakkaasti hygrofaaninen oliivinsävyinen lakki ilman reunan suojushampaita, kun taas lannalla tai laitumilla kasvavilla Psilocybe-lajeilla on tyypillisesti hyytelömäinen irrotettava pintakelmu, ne sinistyvät kosketuksesta ja niiden itiöpöly on syvänmustan sijaan purppuranruskeaa.",
+        "notes": "Useat aiemmin erillisinä lajeina pidetyt taksonit — mukaan lukien verkkoryppyiset muodot ja vaaleammat kellomaiset muodot — yhdistetään nykyisin tähän yhteen muuntelevaan lajiin yhdessä pienempi-itiöisen, lakin reunan suojusjäänteitä vailla olevan muunnoksen kanssa. Muiden sukunsa edustajien tavoin itiöemät sisältävät serotoniinia, ureaa ja tryptofaania; vaikka psilosybiinistä on ajoittain esitetty väitteitä, eurooppalaisesta aineistosta tehdyt kemialliset analyysit eivät ole vahvistaneet hallusinogeenisten alkaloidien esiintymistä."
+      },
+      "fr": {
+        "description": "Petit champignon à lames fragile et saprotrophe, fructifiant isolément ou en petits groupes sur des excréments d'herbivores dégradés et sur des sols de pâturages fortement fumés. Cosmopolite en dehors de l'Antarctique, il est largement répandu et commun en Europe, en Amérique du Nord, en Asie, en Amérique du Sud, en Afrique et en Australasie, apparaissant partout où les pâturages et les prairies pâturées offrent du fumier vieilli.",
+        "cap": "De 1–5 cm de diamètre, presque sphérique à conique obtus chez les jeunes exemplaires, s'étalant en cloche ou largement campanulé avec l'âge et s'aplatissant rarement, portant parfois une petite papille centrale. La surface sèche est lisse à soyeuse, devenant légèrement visqueuse par temps humide, et se fendille parfois radialement ou forme un réseau réticulé de rides en relief par temps sec. Faiblement hygrophane à non hygrophane, il est gris pâle, gris-brun, brun olive ou brun rougeâtre au disque, pâlissant en séchant vers le grisâtre à blanchâtre. La marge légèrement incurvée à décurvée est typiquement frangée de petits restes blancs, triangulaires et dentiformes du voile partiel, bien que ceux-ci soient fragiles et disparaissent souvent avec l'âge. L'hydroxyde de potassium (KOH) colore la surface du chapeau en orangé terne.",
+        "hymenium": "Lames serrées à très serrées, larges, ventrues, ascendantes-adnées à adnexées et se détachant parfois du pied à maturité. Grisâtre pâle chez le jeune champignon, elles deviennent vite distinctement marbrées de gris et de noir charbon à mesure que les spores mûrissent de façon inégale sur les faces des lames, virant globalement au noirâtre avec l'âge tout en conservant une arête fine, blanchâtre et finement floconneuse. Les basides sont brusquement clavées et tétrasporiques ; les cheilocystides sont abondantes, subcylindriques à presque filiformes et souvent subcapitées ou capitées ; les pleurocystides sont absentes.",
+        "stipe": "Haut de 4–12 cm (atteignant occasionnellement 14–16 cm) et épais de 0,2–0,5 cm (occasionnellement 0,1–0,8 cm), cylindrique, égal ou légèrement épaissi au sommet et à la base, fragile et creux. De couleur gris pâle à gris-brun comme le chapeau, plus pâle et finement strié près du sommet, il fonce vers le brun rougeâtre à la base avec l'âge ou à la manipulation. La surface est finement recouverte d'une pruine blanchâtre, surtout chez les jeunes spécimens, et peut exsuder de minuscules gouttelettes près du sommet par temps humide ; il n'y a pas d'anneau sur le pied, et la base est revêtue d'un fin feutrage mycélien blanc.",
+        "flesh": "Très mince, fragile et peu consistante, grisâtre pâle à crème ou brun chamois, immuable à la coupe. La saveur est douce et peu marquée ; l'odeur est faible ou légèrement épicée, devenant parfois un peu piquante à la base du pied.",
+        "sporePrint": "Noire à brun noirâtre foncé. Les spores mesurent 11–18,5 × 7–12 × 7–9,5 µm (le plus souvent 12–18 × 7–10 µm), sont lisses, ellipsoïdes à citriformes de face et légèrement aplaties de profil, munies d'un pore germinatif apical proéminent ; elles sont dextrinoïdes et ne se décolorent pas dans l'acide sulfurique concentré.",
+        "habitat": "Coprophile et saprotrophe, fructifiant isolément, en troupes ou en petits bouquets directement sur des excréments vieillis de cheval, de vache ou d'élan, ainsi que sur des sols fortement fumés dans les pâturages, les prairies et autour des vieux tas de fumier, apparaissant souvent lorsque les excréments sont partiellement décomposés et envahis par l'herbe. En Europe tempérée, il fructifie de mai à novembre, tandis qu'en Amérique du Nord il apparaît du printemps à l'automne et persiste en hiver sous les climats plus doux.",
+        "uses": "Non comestible. Les sporophores sont trop minces et peu consistants pour présenter un intérêt culinaire, poussent sur des excréments et font l'objet de mentions contradictoires concernant des traces de composés psychoactifs, sans compter le risque de confusion avec des espèces apparentées réellement toxiques ou contenant de la psilocybine.",
+        "confusion": "Panaeolus semiovatus est plus grand et plus robuste, avec un chapeau visqueux jaune crème pâle et un anneau membraneux net sur le pied. Protostropharia semiglobata fructifie également sur les excréments, mais possède un chapeau hémisphérique jaune ocre visqueux, un anneau fugace sur le pied et une sporée brun pourpré plutôt que noire. Panaeolus fimicola et Panaeolus acuminatus sont dépourvus de restes blancs dentiformes du voile sur la marge du chapeau et présentent des chapeaux brun plus foncé et plus nettement hygrophanes. Panaeolus olivaceus a un chapeau fortement hygrophane à teinte olivâtre sans dents vélaires marginales, tandis que les espèces du genre Psilocybe poussant sur les excréments ou dans les pâturages ont généralement une pellicule gélatineuse séparable, bleuissent au froissement et produisent une sporée brun pourpre plutôt que noir de jais.",
+        "notes": "Plusieurs taxons autrefois traités comme des espèces distinctes — notamment des formes à chapeau ridé-réticulé et des formes campanulées plus pâles — sont aujourd'hui réunis au sein de cette seule espèce variable, aux côtés d'une variété à spores plus petites dépourvue de fragments marginaux du voile. Comme d'autres représentants du genre, les sporophores contiennent de la sérotonine, de l'urée et du tryptophane ; bien que la présence de psilocybine ait parfois été évoquée, les analyses chimiques de matériel européen n'ont pas confirmé d'alcaloïdes hallucinogènes."
+      },
+      "he": {
+        "description": "פטריית דפים קטנה, שבירה וסאפרוטרופית, הגדלה ביחידות או בקבוצות קטנות על גללים בלויים של אוכלי עשב ועל קרקע מרעה מדושנת היטב. היא קוסמופוליטית מחוץ לאנטארקטיקה, נפוצה ושכיחה ברחבי אירופה, אמריקה הצפונית, אסיה, אמריקה הדרומית, אפריקה ואוסטרלאסיה, ומופיעה בכל מקום שבו שטחי מרעה ואחו מספקים גללים מיושנים.",
+        "cap": "קוטר הכובע 1–5 ס\"מ; בצעירותו הוא כמעט כדורי עד חרוטי קהה, ובהתבגרו מתרחב לצורת פעמון או פעמון רחב ורק לעיתים נדירות משתטח, ולפעמים נושא פיטם מרכזי קטן. פני השטח היבשים חלקים עד משיים, הופכים דביקים מעט ברטיבות, ולעיתים נסדקים בצורה רדיאלית או מפתחים רשת מוגבהת של קמטים במזג אוויר יבש. הכובע היגרופאני חלש עד בלתי היגרופאני, צבעו אפור חיוור, אפור-חום, חום-זית או חום-אדמדם במרכזו, ובהתייבשו הוא מתבהר לאפור חיוור עד לבנבן. השוליים הכפופים מעט פנימה או כלפי מטה מעוטרים באופייניות בשאריות צעיף חלקי לבנות, קטנות ומשולשות דמויות שיניים, אך אלה שבירות ונושרות לעיתים קרובות עם הגיל. אשלגן הידרוקסידי (KOH) צובע את פני הכובע בכתום עמום.",
+        "hymenium": "דפים צפופים עד צפופים מאוד, רחבים ומעוגלים-בטניים, עולים-מוצמדים עד מוצמדים חלקית ולעיתים ניתקים מהרגל עם ההבשלה. בצעירותם הם אפורים חיוורים, ובמהרה הופכים מנומרים באופייניות באפור ובשחור פחמי כאשר הנבגים מבשילים באופן לא אחיד על פני הדפים, ומשחירים בכללותם בגיל מבוגר תוך שמירה על שוליים לבנבנים צמריריים עדינים. הבסידיות דמויות אלה באופן חד ובעלות ארבעה נבגים; הכיילוציסטידיות שופעות, תת-גליליות עד כמעט דמויות שערה ולעיתים קרובות תת-ראשיות או ראשיות; הפלאורוציסטידיות חסרות.",
+        "stipe": "גובה הרגל 4–12 ס\"מ (ולעיתים מגיע ל-14–16 ס\"מ) ועובייה 0.2–0.5 ס\"מ (ולעיתים 0.1–0.8 ס\"מ); היא גלילית, שווה בעובייה או מתרחבת מעט בקצה העליון ובבסיס, שבירה וחלולה. צבעה אפור חיוור עד אפור-חום כמו הכובע, בהיר יותר ומפוספס בעדינות ליד הקצה העליון, ומתכהה לחום-אדמדם כלפי הבסיס עם הגיל או במגע. פני השטח מצופים באבקה לבנבנה עדינה דמוית כפור, במיוחד בגיל צעיר, ועלולים להפריש טיפות זעירות ליד הקצה העליון במזג אוויר לח; אין טבעת על הרגל, והבסיס עטוף בלבד קורים לבן ועדין.",
+        "flesh": "הבשר דק מאוד, שביר ודל, אפור חיוור עד שמנת או חום-צהבהב בהיר, ואינו משנה את צבעו בחיתוך. הטעם עדין ובלתי מובהק; הריח עדין או מתובל קלות, ולעיתים הופך חריף מעט בבסיס הרגל.",
+        "sporePrint": "הדפס הנבגים שחור עד חום-שחור כהה. הנבגים בגודל 11–18.5 × 7–12 × 7–9.5 מיקרומטר (בדרך כלל 12–18 × 7–10 מיקרומטר), חלקים, אליפסואידיים עד דמויי לימון במבט חזיתי ומעט פחוסים במבט צדי, עם נקב נביטה קודקודי בולט; הם דקסטרינואידיים ואינם מאבדים את צבעם בחומצה גופרתית מרוכזת.",
+        "habitat": "פטרייה אוהבת גללים וסאפרוטרופית, הגדלה ביחידות, בקבוצות או בצברים קטנים ישירות על גללים בלויים של סוסים, פרות או אייל קורא ועל קרקע מדושנת בכבדות בשטחי מרעה, באחו ובסביבת ערימות זבל ישנות, ולעיתים קרובות מופיעה לאחר שהגללים התפרקו חלקית וכוסו בעשב. באירופה הממוזגת היא מניבה גופי פרי ממאי עד נובמבר, ואילו באמריקה הצפונית היא מופיעה מהאביב עד הסתיו וממשיכה להופיע גם בחורף באקלימים מתונים יותר.",
+        "uses": "לא למאכל. גופי הפרי דקים ודלים מכדי שיהיה להם ערך קולינרי, גדלים על גללים, ויש לגביהם דיווחים סותרים על עקבות תרכובות פסיכואקטיביות, נוסף על סכנת בלבול עם קרובים רעילים באמת או כאלה המכילים פסילוציבין.",
+        "confusion": "Panaeolus semiovatus גדול וחסון יותר, בעל כובע צמיג בצבע שמנת-צהוב חיוור וטבעת קרומית מובהקת על הרגל. Protostropharia semiglobata גדל אף הוא על גללים, אך יש לו כובע חצי-כדורי רירי בצבע צהוב-אוכרה, טבעת חולפת על הרגל והדפס נבגים חום-סגלגל ולא שחור. ל-Panaeolus fimicola ול-Panaeolus acuminatus חסרות שאריות הצעיף הלבנות דמויות השיניים בשולי הכובע, וכובעיהם חומים כהים והיגרופאניים יותר. ל-Panaeolus olivaceus כובע היגרופאני חזק בגוון זיתי ללא שיני צעיף בשוליים, ואילו מיני Psilocybe הגדלים על גללים או במרעה מאופיינים בדרך כלל בקרום ג'לטיני הניתן לקילוף, מכחילים בחבלה ומפיקים הדפס נבגים חום-סגול ולא שחור עמוק.",
+        "notes": "מספר טקסונים שנחשבו בעבר למינים נפרדים — כולל צורות בעלות כובעים מקומטים-מרושתים וצורות פעמוניות בהירות יותר — מאוחדים כיום למין מגוון אחד זה, לצד זן בעל נבגים קטנים יותר החסר שרידי צעיף בשוליים. כמו שאר בני הסוג, גופי הפרי מכילים סרוטונין, אוריאה וטריפטופן; אף שבעבר נפוצו מדי פעם שמועות על פסילוציבין, בדיקות כימיות של חומר אירופי לא אישרו נוכחות של אלקלואידים הזייתיים."
+      },
+      "hi": {
+        "description": "एक छोटा, नाज़ुक, मृतोपजीवी गिल्स वाला मशरूम जो शाकाहारी पशुओं के पुराने गोबर और अधिक खाद वाली चरागाह की मिट्टी पर अकेले या छोटे समूहों में उगता है। अंटार्कटिका को छोड़कर यह विश्वव्यापी है और यूरोप, उत्तरी अमेरिका, एशिया, दक्षिणी अमेरिका, अफ्रीका तथा ऑस्ट्रेलेशिया में व्यापक व सामान्य रूप से पाया जाता है, जहाँ भी चरागाहों और घास के मैदानों में पुराना गोबर उपलब्ध होता है।",
+        "cap": "टोपी का व्यास 1–5 सेमी होता है; युवावस्था में लगभग गोलाकार से कुंठित शंक्वाकार होती है, उम्र बढ़ने के साथ घंटी के आकार की या चौड़ी घंटाकार हो जाती है और शायद ही कभी चपटी होती है, तथा कभी-कभी इसके केंद्र में एक छोटा उभार होता है। सूखी सतह चिकनी से रेशमी होती है, गीली होने पर हल्की चिपचिपी हो जाती है, और सूखे मौसम में कभी-कभी त्रिज्यीय रूप से फट जाती है या झुर्रियों का उभरा हुआ जाल बना लेती है। नमी से रंग बदलने की प्रवृत्ति कम से नगण्य होती है; इसका रंग केंद्र में हल्का धूसर, भूरा-धूसर, जैतूनी-भूरा या लालिमा-लिए भूरा होता है, और सूखने पर हल्का धूसर से सफ़ेदपन लिए हो जाता है। हल्का अंदर या नीचे मुड़ा हुआ किनारा आंशिक आवरण के छोटे, सफ़ेद, दांत जैसे त्रिकोणीय अवशेषों से विशिष्ट रूप से झालरदार होता है, हालांकि ये नाज़ुक होते हैं और उम्र के साथ अक्सर झड़ जाते हैं। पोटैशियम हाइड्रॉक्साइड (KOH) टोपी की सतह को फीका नारंगी कर देता है।",
+        "hymenium": "गिल्स पास-पास से घने, चौड़े और उभरे हुए होते हैं, जो ऊपर की ओर जुड़े से हल्के जुड़े होते हैं और परिपक्वता पर कभी-कभी डंठल से अलग हो जाते हैं। युवावस्था में हल्के धूसर होते हैं, लेकिन गिल्स की सतह पर बीजाणुओं के असमान रूप से पकने पर जल्द ही धूसर और कोयले जैसे काले रंग के विशिष्ट चित्तीदार हो जाते हैं, तथा उम्र बढ़ने पर समग्र रूप से काले पड़ जाते हैं जबकि उनके किनारे महीन, सफ़ेदपन लिए और हल्के रेशेदार बने रहते हैं। बेसिडिया अचानक गदाकार और चार-बीजाणु वाले होते हैं; कीलोसिस्टिडिया प्रचुर मात्रा में, उप-बेलनाकार से लगभग बाल जैसे और अक्सर उप-शीर्षीय या शीर्षीय होते हैं; प्ल्यूरोसिस्टिडिया अनुपस्थित होते हैं।",
+        "stipe": "डंठल 4–12 सेमी लंबा (कभी-कभी 14–16 सेमी तक) और 0.2–0.5 सेमी मोटा (कभी-कभी 0.1–0.8 सेमी) होता है; यह बेलनाकार, समान मोटाई का या शीर्ष व आधार पर हल्का मोटा, नाज़ुक और खोखला होता है। इसका रंग टोपी जैसा हल्का धूसर से धूसर-भूरा होता है, शीर्ष के पास अधिक हल्का और महीन धारीदार, तथा उम्र बढ़ने या छूने पर आधार की ओर लालिमा-लिए भूरा हो जाता है। सतह पर विशेष रूप से युवावस्था में सफ़ेदपन लिए महीन चूर्ण जैसी परत होती है, और नम मौसम में शीर्ष के पास नन्ही बूंदें रिस सकती हैं; डंठल पर कोई वलय नहीं होता, और आधार महीन सफ़ेद कवकजाल की परत से ढका होता है।",
+        "flesh": "गूदा बहुत पतला, नाज़ुक और हल्का होता है, हल्का धूसर से क्रीम या हल्का पीला-भूरा, और काटने पर इसका रंग नहीं बदलता। स्वाद हल्का और अविशिष्ट होता है; गंध हल्की या हल्की मसालेदार होती है, जो कभी-कभी डंठल के आधार पर थोड़ी तीखी हो जाती है।",
+        "sporePrint": "बीजाणु छाप काली से गहरी काली-भूरी होती है। बीजाणु 11–18.5 × 7–12 × 7–9.5 µm (सामान्यतः 12–18 × 7–10 µm), चिकने, सामने से देखने पर दीर्घवृत्ताकार से नींबू के आकार के और बगल से देखने पर हल्के चपटे होते हैं, जिनमें एक स्पष्ट शीर्ष अंकुरण छिद्र होता है; ये डेक्सट्रिनॉइड होते हैं और सांद्र सल्फ्यूरिक अम्ल में रंग नहीं खोते।",
+        "habitat": "गोबर-प्रेमी और मृतोपजीवी, जो घोड़े, गाय या मूस के पुराने गोबर और चरागाहों, घास के मैदानों व पुरानी खाद के ढेरों के आसपास अधिक खाद वाली मिट्टी पर सीधे अकेले, समूहों में या छोटे गुच्छों में उगता है, और अक्सर तब दिखाई देता है जब गोबर आंशिक रूप से सड़ चुका हो और उस पर घास उग आई हो। समशीतोष्ण यूरोप में यह मई से नवंबर तक फलता है, जबकि उत्तरी अमेरिका में यह वसंत से शरद ऋतु तक दिखाई देता है और अधिक सौम्य जलवायु में सर्दियों में भी बना रहता है।",
+        "uses": "अखाद्य। इसके फलकाय इतने पतले और हल्के होते हैं कि इनका कोई पाक-कला मूल्य नहीं होता, ये गोबर पर उगते हैं, और इनमें सूक्ष्म मात्रा में मनोवैज्ञानिक रूप से सक्रिय यौगिकों के बारे में परस्पर विरोधी रिपोर्टें हैं, साथ ही वास्तव में विषाक्त या साइलोसाइबिन युक्त निकट संबंधी प्रजातियों से भ्रमित होने का जोखिम भी रहता है।",
+        "confusion": "Panaeolus semiovatus बड़ा और अधिक मज़बूत होता है, जिसकी टोपी हल्के क्रीम-पीले रंग की चिपचिपी होती है और डंठल पर एक स्पष्ट झिल्लीदार वलय होता है। Protostropharia semiglobata भी गोबर पर उगता है, लेकिन इसकी टोपी चिपचिपी गेरुआ-पीली अर्धगोलाकार होती है, डंठल पर अस्थायी वलय होता है और बीजाणु छाप काली के बजाय बैंगनी-भूरी होती है। Panaeolus fimicola और Panaeolus acuminatus में टोपी के किनारे पर सफ़ेद दांत जैसे आवरण अवशेष नहीं होते और उनकी टोपियाँ अधिक गहरी भूरी व नमी से अधिक रंग बदलने वाली होती हैं। Panaeolus olivaceus में किनारे के आवरण दांतों के बिना नमी से तेज़ी से रंग बदलने वाली जैतूनी रंगत की टोपी होती है, जबकि गोबर या चरागाहों में उगने वाली Psilocybe प्रजातियों में आमतौर पर अलग होने योग्य जिलेटिनस झिल्ली होती है, चोट लगने पर नीलापन आता है और वे गहरी काली के बजाय बैंगनी-भूरी बीजाणु छाप बनाती हैं।",
+        "notes": "पहले अलग प्रजातियों के रूप में माने जाने वाले कई वर्गक — जिनमें झुर्रीदार जालीदार टोपी वाले रूप और हल्के घंटी के आकार के रूप शामिल हैं — अब इस एक ही परिवर्तनशील प्रजाति में सम्मिलित कर दिए गए हैं, साथ ही छोटे बीजाणुओं वाली एक किस्म भी जिसमें किनारे के आवरण अवशेष नहीं होते। अपने वंश के अन्य सदस्यों की तरह इसके फलकायों में सेरोटोनिन, यूरिया और ट्रिप्टोफैन पाए जाते हैं; हालांकि कभी-कभी साइलोसाइबिन की अफवाहें रही हैं, यूरोपीय नमूनों के रासायनिक विश्लेषणों ने मतिभ्रमकारी एल्कलॉइड की पुष्टि नहीं की है।"
+      },
+      "hr": {
+        "description": "Mala, krhka, saprotrofna listićavka koja plodonosi pojedinačno ili u malim skupinama na odstajalom izmetu biljojeda i jako pognojenom tlu pašnjaka. Kozmopolitska je vrsta izvan Antarktike, široko rasprostranjena i česta diljem Europe, Sjeverne Amerike, Azije, Južne Amerike, Afrike i Australazije, gdje god pašnjaci i livade pružaju odstajali gnoj.",
+        "cap": "Promjera 1–5 cm, u mladosti gotovo kuglast do tupo stožast, sa starošću se širi u zvonolik ili široko zvonolik oblik i rijetko se spljošti, povremeno s malom središnjom bradavicom. Suha površina je glatka do svilenkasta, po vlažnom vremenu postaje blago ljepljiva, a za suhog vremena ponekad radijalno puca ili razvija izdignutu mrežastu naboranost. Slabo higrofan do nehigrofan, obojen blijedosivo, smeđesivo, maslinastosmeđe ili crvenkastosmeđe na tjemenu, pri sušenju blijedi u svjetlije sivkaste do bjelkaste tonove. Blago podvijen do povijen rub karakteristično je obrubljen sitnim, bijelim, zubastim trokutastim ostacima djelomičnog zastorka, iako su oni krhki i sa starošću često otpadaju. Kalijev hidroksid (KOH) oboji površinu klobuka zagasito narančasto.",
+        "hymenium": "Gusti do zbijeni, široki, trbušasti listići, uzlazno prirasli do prirasli, koji se u zrelosti ponekad odvajaju od stručka. U mladosti su blijedosivkasti, no ubrzo postaju karakteristično pjegavo sivi i ugljenocrni jer spore neravnomjerno sazrijevaju po plohama listića, a u starosti u cijelosti pocrne zadržavajući fine bjelkaste, sitno pahuljaste oštrice. Bazidiji su naglo batinasti i četverosporni; heilocistide su brojne, gotovo valjkaste do gotovo dlakolike te često gotovo glavičaste ili glavičaste; pleurocistide nedostaju.",
+        "stipe": "Visine 4–12 cm (povremeno doseže 14–16 cm) i debljine 0,2–0,5 cm (povremeno 0,1–0,8 cm), valjkast, podjednake debljine ili blago proširen pri vrhu i u osnovi, krhak i šupalj. Obojen je blijedosivo do sivkastosmeđe poput klobuka, svjetliji je i fino uzdužno prugast pri vrhu, a prema osnovi sa starošću ili na dodir tamni u crvenkastosmeđu boju. Površina je fino prekrivena bjelkastim maškom, osobito u mladosti, a po vlažnom vremenu pri vrhu može izlučivati sitne kapljice; prstena na stručku nema, a osnova je obložena finim bijelim micelijskim pustom.",
+        "flesh": "Vrlo tanko, krhko i oskudno, blijedosivkasto do krem ili blijedosmeđe, nepromjenjivo na presjeku. Okus je blag i neizrazit; miris je blag ili slabo začinski, a pri osnovi stručka ponekad postaje blago oštar.",
+        "sporePrint": "Crn do tamno crnosmeđ. Spore mjere 11–18,5 × 7–12 × 7–9,5 µm (uobičajeno 12–18 × 7–10 µm), glatke su, elipsoidne do limunolike u prednjem pogledu i blago spljoštene u bočnom pogledu, s izraženom vršnom klijavom porom; dekstrinoidne su i ne gube boju u koncentriranoj sumpornoj kiselini.",
+        "habitat": "Koprofilna i saprotrofna vrsta koja plodonosi pojedinačno, u skupinama ili u malim busenima izravno na odstajalom konjskom, kravljem ili losovu izmetu te na jako pognojenom tlu na pašnjacima, livadama i oko starih gnojišta, često se pojavljujući nakon što se izmet djelomično razgradio i obrastao travom. U umjerenoj Europi plodonosi od svibnja do studenoga, dok se u Sjevernoj Americi pojavljuje od proljeća do jeseni, a u blažim klimama opstaje i tijekom zime.",
+        "uses": "Nejestiva. Plodišta su pretanka i preoskudna da bi imala kulinarsku vrijednost, rastu na izmetu te ih prate proturječna izvješća o tragovima psihoaktivnih spojeva, kao i rizik zamjene s uistinu otrovnim srodnicima ili vrstama koje sadrže psilocibin.",
+        "confusion": "Panaeolus semiovatus je veći i snažniji, s blijedim kremžutim sluzavim klobukom i jasnim opnastim prstenom na stručku. Protostropharia semiglobata također plodonosi na izmetu, ali ima sluzav okeržuti polukuglasti klobuk, prolazan prsten na stručku te ljubičastosmeđi umjesto crnog otiska spora. Panaeolus fimicola i Panaeolus acuminatus nemaju bijele zubaste ostatke zastorka na rubu klobuka i imaju tamnije smeđe, jače higrofane klobuke. Panaeolus olivaceus ima jako higrofan klobuk s maslinastom nijansom bez rubnih zubaca zastorka, dok vrste roda Psilocybe koje rastu na izmetu ili pašnjacima obično imaju želatinoznu odvojivu kožicu klobuka, poplave na dodir i daju ljubičastosmeđi umjesto ugljenocrnog otiska spora.",
+        "notes": "Nekoliko taksona koji su se nekada smatrali zasebnim vrstama — uključujući oblike s mrežasto naboranim klobucima i svjetlije zvonolike oblike — danas je objedinjeno u ovu jednu promjenjivu vrstu, zajedno sa sitnospornim varijetetom bez rubnih ostataka zastorka. Kao i drugi pripadnici njezina roda, plodišta sadrže serotonin, ureu i triptofan; iako se povremeno nagađalo o prisutnosti psilocibina, kemijske analize europskog materijala nisu potvrdile halucinogene alkaloide."
+      },
+      "hu": {
+        "description": "Kis termetű, törékeny, szaprotróf lemezes gomba, amely magányosan vagy kisebb csoportokban terem növényevők időjárástól megviselt trágyáján és erősen trágyázott legelők talaján. Az Antarktiszon kívül kozmopolita, széles körben elterjedt és gyakori Európában, Észak-Amerikában, Ázsiában, Dél-Amerikában, Afrikában és Ausztrálázsiában, mindenütt előfordulva, ahol a legeltetett mezőkön és réteken öregedő trágya található.",
+        "cap": "1–5 cm átmérőjű, fiatalon majdnem gömbölyű vagy tompán kúpos, később harang alakúvá vagy szélesen harangszerűvé kiterülő, ritkán ellaposodó, olykor kis középső csúccsal. Száraz felszíne sima vagy selymes, nedves időben enyhén tapadóssá válik, szárazság idején pedig néha sugarasan berepedezik vagy kiemelkedő, hálózatos ráncokat fejleszt. Gyengén higrofán vagy nem higrofán; színe a közepén halványszürke, barnásszürke, olívbarna vagy vörösesbarna, száradva világosabb szürkésre vagy fehéresre fakul. Az enyhén begöngyölt vagy lehajló szélét jellegzetesen apró, fehér, fogszerű, háromszögletű részleges burokmaradványok szegélyezik, bár ezek törékenyek, és idővel gyakran lekopnak. Kálium-hidroxid (KOH) hatására a kalap felszíne tompa narancsos színűvé válik.",
+        "hymenium": "Sűrű vagy nagyon sűrű, széles, hasas lemezei felkanyarodva tönkhöz nőttek vagy keskenyen érintkezők, éretten olykor elválnak a tönktől. Fiatalon halványszürkék, majd hamar jellegzetesen szürkével és szénfeketével márványozottak lesznek, ahogy a spórák egyenetlenül érnek a lemezek oldalán; idősen összességében feketéssé válnak, miközben élük finoman fehéres, pelyhes marad. A bazídiumok hirtelen bunkó alakúak és négyspórásak; a keilocisztídiumok bőségesek, majdnem hengeresek vagy szőrszerűek, gyakran gyengén vagy kifejezetten fejecskések; pleurocisztídiumok nincsenek.",
+        "stipe": "4–12 cm magas (olykor 14–16 cm-t is elérhet) és 0,2–0,5 cm vastag (olykor 0,1–0,8 cm), hengeres, egyenletes vastagságú vagy a csúcsán és a tövénél enyhén kiszélesedő, törékeny és üreges. Színe a kalaphoz hasonlóan halványszürke vagy szürkésbarna, a csúcsa közelében világosabb és finoman bordázott, míg a töve felé idővel vagy nyomásra vörösesbarnára sötétedik. Felszínét finom, fehéres deres bevonat fedi, különösen fiatalon, és nedves időben a csúcsa közelében apró cseppeket izzadhat; gallérja nincs, tövét pedig finom fehér micéliumnemez borítja.",
+        "flesh": "Nagyon vékony, törékeny és jelentéktelen, halványszürkés, krémszínű vagy halvány sárgásbarna, vágásra nem színeződik el. Íze enyhe és jellegtelen; szaga gyenge vagy enyhén fűszeres, a tönk tövénél néha kissé csípőssé válik.",
+        "sporePrint": "Fekete vagy sötét feketésbarna. A spórák 11–18,5 × 7–12 × 7–9,5 µm méretűek (többnyire 12–18 × 7–10 µm), simák, szemből ellipszoid vagy citrom alakúak, oldalról enyhén lapítottak, kifejezett csúcsi csírapórussal; dextrinoidok, és tömény kénsavban nem halványodnak el.",
+        "habitat": "Koprofil és szaprotróf, magányosan, társasan vagy kis csomókban terem közvetlenül időjárástól megviselt ló-, szarvasmarha- vagy jávorszarvas-trágyán, valamint erősen trágyázott talajon legelőkön, réteken és régi trágyadombok körül, gyakran akkor megjelenve, amikor a trágya már részben lebomlott és fűvel benőtt. A mérsékelt övi Európában májustól novemberig terem, míg Észak-Amerikában tavasztól őszig jelenik meg, enyhébb éghajlaton pedig télen is kitart.",
+        "uses": "Nem ehető. Termőtestei túl vékonyak és jelentéktelenek ahhoz, hogy kulináris értékük legyen, trágyán nőnek, és ellentmondásos beszámolók léteznek nyomnyi pszichoaktív vegyületeikről, emellett fennáll a valóban mérgező vagy pszilocibintartalmú rokon fajokkal való összetévesztés kockázata is.",
+        "confusion": "A Panaeolus semiovatus nagyobb és vaskosabb, halvány krémsárga, nyálkás kalappal és a tönkön jól fejlett hártyás gallérral. A Protostropharia semiglobata szintén trágyán terem, de nyálkás, okkersárga, félgömb alakú kalapja, múlékony tönkgallérja és fekete helyett bíborbarna spórapora van. A Panaeolus fimicola és a Panaeolus acuminatus kalapszéléről hiányoznak a fehér, fogszerű burokmaradványok, kalapjuk pedig sötétebb barna és erősebben higrofán. A Panaeolus olivaceus kalapja erősen higrofán, olívás árnyalatú, és szélén nincsenek burokfogacskák, míg a trágyán vagy legelőkön növő Psilocybe fajoknak jellemzően lehúzható, kocsonyás kalapbőrük van, nyomásra kékülnek, spóraporuk pedig koromfekete helyett bíborbarna.",
+        "notes": "Számos, korábban önálló fajként kezelt taxont — köztük a ráncos-hálózatos kalapú és a világosabb, harang alakú alakokat — ma ebbe az egyetlen változékony fajba vonnak össze, egy kisebb spórájú, széli burokmaradványok nélküli változattal együtt. Nemzetsége más tagjaihoz hasonlóan a termőtestek szerotonint, karbamidot és triptofánt tartalmaznak; bár a pszilocibin jelenlétét időnként feltételezték, az európai anyagok kémiai elemzései nem igazoltak hallucinogén alkaloidokat."
+      },
+      "id": {
+        "description": "Jamur berlamela berukuran kecil, rapuh, dan saprotrof yang berbuah tunggal atau dalam kelompok kecil di atas kotoran herbivora yang telah melapuk serta tanah padang rumput yang sangat kaya pupuk kandang. Tersebar kosmopolitan di luar Antarktika, spesies ini melimpah dan umum dijumpai di seluruh Eropa, Amerika Utara, Asia, Amerika Selatan, Afrika, dan Australasia, tumbuh di mana pun padang penggembalaan dan padang rumput menyediakan kotoran yang telah menua.",
+        "cap": "Berdiameter 1–5 cm, hampir bulat hingga kerucut tumpul saat muda, melebar menjadi berbentuk lonceng atau lonceng lebar seiring bertambahnya usia dan jarang mendatar, sesekali memiliki tonjolan kecil di bagian tengah. Permukaannya yang kering tampak halus hingga seperti sutra, menjadi agak lengket saat basah, dan terkadang retak secara radial atau membentuk jaring kerutan menonjol saat cuaca kering. Bersifat higrofan lemah hingga non-higrofan, tudungnya berwarna abu-abu pucat, abu-abu kecokelatan, cokelat zaitun, atau cokelat kemerahan di bagian tengah, lalu memucat menjadi keabu-abuan hingga keputihan saat mengering. Tepi tudung yang sedikit melengkung ke dalam hingga menekuk ke bawah secara khas berjumbai oleh sisa selubung parsial berbentuk segitiga kecil berwarna putih menyerupai gigi, meskipun sisa ini rapuh dan sering gugur seiring usia. Kalium hidroksida (KOH) mengubah permukaan tudung menjadi jingga kusam.",
+        "hymenium": "Lamela rapat hingga sangat rapat, lebar, dan menggembung, melekat menaik hingga melekat sempit pada tangkai serta terkadang terlepas saat matang. Berwarna keabu-abuan pucat saat muda, lamela segera menjadi belang khas abu-abu dan hitam arang karena spora matang secara tidak merata di permukaan lamela, kemudian menghitam seluruhnya saat tua sambil mempertahankan tepi halus berwarna keputihan yang berbulu halus. Basidium berbentuk gada secara tiba-tiba dan berspora empat; keilosistidia melimpah, agak silindris hingga hampir menyerupai rambut dan sering agak berkepala atau berkepala; pleurosistidia tidak ada.",
+        "stipe": "Tinggi 4–12 cm (sesekali mencapai 14–16 cm) dan tebal 0,2–0,5 cm (sesekali 0,1–0,8 cm), silindris, berdiameter seragam atau sedikit membesar di puncak dan pangkal, rapuh, serta berongga. Berwarna abu-abu pucat hingga cokelat keabu-abuan seperti tudungnya, lebih pucat dan bergaris halus di dekat puncak, serta menggelap menjadi cokelat kemerahan ke arah pangkal seiring usia atau saat dipegang. Permukaannya berlapis serbuk keputihan halus terutama saat muda, dan dapat mengeluarkan tetesan kecil di dekat puncak saat cuaca lembap; tidak memiliki cincin tangkai, dan pangkalnya diselimuti lapisan miselium putih halus seperti kain flanel.",
+        "flesh": "Sangat tipis, rapuh, dan tidak padat, berwarna keabu-abuan pucat hingga krem atau cokelat kekuningan pucat, serta tidak berubah warna saat dipotong. Rasanya ringan dan tidak khas; baunya ringan atau sedikit berempah, terkadang menjadi agak menyengat di pangkal tangkai.",
+        "sporePrint": "Hitam hingga cokelat kehitaman gelap. Spora berukuran 11–18,5 × 7–12 × 7–9,5 µm (umumnya 12–18 × 7–10 µm), halus, berbentuk elipsoid hingga menyerupai lemon pada tampak depan dan sedikit pipih pada tampak samping, dengan pori kecambah apikal yang menonjol; bersifat dekstrinoid dan tidak kehilangan warna dalam asam sulfat pekat.",
+        "habitat": "Bersifat koprofil dan saprotrof, berbuah tunggal, berkelompok rapat, atau dalam rumpun kecil langsung di atas kotoran kuda, sapi, atau rusa besar yang telah melapuk serta pada tanah yang sangat kaya pupuk kandang di padang penggembalaan, padang rumput, dan sekitar tumpukan pupuk lama, sering muncul setelah kotoran terurai sebagian dan ditumbuhi rumput. Di Eropa beriklim sedang jamur ini berbuah dari Mei hingga November, sedangkan di Amerika Utara muncul dari musim semi hingga musim gugur dan bertahan sepanjang musim dingin di iklim yang lebih sejuk.",
+        "uses": "Tidak dapat dimakan. Tubuh buahnya terlalu tipis dan tidak berdaging untuk memiliki nilai kuliner, tumbuh pada kotoran, serta memiliki laporan yang saling bertentangan mengenai jejak senyawa psikoaktif, di samping risiko tertukar dengan kerabat yang benar-benar beracun atau mengandung psilosibin.",
+        "confusion": "Panaeolus semiovatus berukuran lebih besar dan lebih kokoh, dengan tudung lengket berwarna kuning krem pucat serta cincin berselaput yang jelas pada tangkai. Protostropharia semiglobata juga berbuah pada kotoran, tetapi memiliki tudung setengah bola berlendir berwarna kuning oker, cincin tangkai sementara, dan jejak spora cokelat keunguan alih-alih hitam. Panaeolus fimicola dan Panaeolus acuminatus tidak memiliki sisa selubung putih menyerupai gigi di tepi tudung serta memiliki tudung cokelat lebih gelap yang lebih kuat sifat higrofannya. Panaeolus olivaceus memiliki tudung bernuansa zaitun yang sangat higrofan tanpa gigi selubung di tepinya, sedangkan spesies Psilocybe yang tumbuh di kotoran atau padang rumput umumnya memiliki pelikel bergelatin yang dapat dikupas, memar kebiruan, dan menghasilkan jejak spora cokelat keunguan alih-alih hitam legam.",
+        "notes": "Beberapa takson yang dahulu diperlakukan sebagai spesies terpisah—termasuk bentuk bertudung keriput berjaring dan bentuk lonceng yang lebih pucat—kini disatukan dalam satu spesies yang bervariasi ini, bersama varietas berspora lebih kecil yang tidak memiliki fragmen selubung tepi. Seperti anggota lain dalam marganya, tubuh buah jamur ini mengandung serotonin, urea, dan triptofan; meskipun psilosibin sesekali dirumorkan ada, analisis kimia terhadap spesimen Eropa belum mengonfirmasi keberadaan alkaloid halusinogen."
+      },
+      "it": {
+        "description": "Piccolo fungo a lamelle, fragile e saprotrofo, che fruttifica isolato o in piccoli gruppi su sterco degradato di erbivori e su terreni di pascolo fortemente concimati. Cosmopolita al di fuori dell'Antartide, è ampiamente diffuso e comune in Europa, Nord America, Asia, Sud America, Africa e Australasia, comparendo ovunque pascoli e prati pascolati offrano letame maturo.",
+        "cap": "Di 1–5 cm di diametro, quasi sferico fino a ottusamente conico da giovane, poi espanso a campanulato o largamente campanulato con l'età e raramente appianato, talvolta provvisto di una piccola papilla centrale. La superficie asciutta è liscia o sericea, leggermente vischiosa con tempo umido, e talora si fessura radialmente o sviluppa un reticolo rilevato di rughe con tempo secco. Da debolmente igrofano a non igrofano, ha colore grigio pallido, grigio-brunastro, bruno-olivastro o bruno-rossastro al disco, schiarendo al secco verso il grigiastro o biancastro. Il margine, da leggermente incurvato a decurvato, è caratteristicamente frangiato da piccoli residui bianchi, triangolari e dentiformi del velo parziale, che tuttavia sono fragili e cadono spesso con l'età. L'idrossido di potassio (KOH) colora la superficie del cappello di un arancione spento.",
+        "hymenium": "Lamelle fitte o molto fitte, larghe, ventricose, ascendenti-adnate fino ad adnesse, talora tendenti a staccarsi dal gambo a maturità. Grigio pallide da giovani, assumono presto una tipica marezzatura grigia e nero carbone man mano che le spore maturano in modo irregolare sulle facce lamellari, diventando complessivamente nerastre con l'età pur mantenendo il filo sottile, biancastro e finemente fioccoso. I basidi sono bruscamente clavati e tetrasporici; i cheilocistidi sono abbondanti, subcilindrici fino a quasi filiformi e spesso subcapitati o capitati; i pleurocistidi sono assenti.",
+        "stipe": "Alto 4–12 cm (occasionalmente fino a 14–16 cm) e spesso 0,2–0,5 cm (occasionalmente 0,1–0,8 cm), cilindrico, uguale o leggermente ingrossato all'apice e alla base, fragile e cavo. Di colore grigio pallido o grigio-bruno come il cappello, più pallido e finemente striato presso l'apice, inscurente al bruno-rossastro verso la base con l'età o alla manipolazione. La superficie è finemente ricoperta di pruina biancastra, soprattutto negli esemplari giovani, e può essudare minuscole goccioline presso l'apice con tempo umido; il gambo è privo di anello e la base è rivestita da un fine feltro miceliare bianco.",
+        "flesh": "Molto sottile, fragile e inconsistente, da grigiastro pallido a crema o bruno-camoscio, immutabile al taglio. Il sapore è mite e indistinto; l'odore è debole o leggermente speziato, talora un po' pungente alla base del gambo.",
+        "sporePrint": "Nera fino a bruno-nerastro scuro. Le spore misurano 11–18,5 × 7–12 × 7–9,5 µm (comunemente 12–18 × 7–10 µm), sono lisce, da ellissoidi a limoniformi in vista frontale e leggermente appiattite di profilo, con un poro germinativo apicale prominente; sono destrinoidi e non si scolorano in acido solforico concentrato.",
+        "habitat": "Coprofilo e saprotrofo, fruttifica isolato, gregario o in piccoli gruppi direttamente su sterco degradato di cavallo, mucca o alce e su terreno fortemente concimato in pascoli, prati e attorno a vecchi cumuli di letame, comparendo spesso quando lo sterco è ormai parzialmente decomposto e ricoperto d'erba. Nell'Europa temperata fruttifica da maggio a novembre, mentre in Nord America compare dalla primavera all'autunno e persiste in inverno nei climi più miti.",
+        "uses": "Non commestibile. I carpofori sono troppo sottili e inconsistenti per avere interesse culinario, crescono sullo sterco e presentano segnalazioni contrastanti circa tracce di composti psicoattivi, oltre al rischio di confusione con specie affini realmente tossiche o contenenti psilocibina.",
+        "confusion": "Panaeolus semiovatus è più grande e robusto, con cappello vischioso giallo crema pallido e un anello membranoso evidente sul gambo. Protostropharia semiglobata fruttifica anch'essa sullo sterco, ma presenta un cappello emisferico vischioso giallo ocra, un anello fugace sul gambo e un'impronta sporale bruno-porporina anziché nera. Panaeolus fimicola e Panaeolus acuminatus mancano dei residui bianchi dentiformi del velo al margine del cappello e hanno cappelli bruni più scuri e più fortemente igrofani. Panaeolus olivaceus ha un cappello fortemente igrofano con sfumature olivastre privo di denti velari marginali, mentre le specie di Psilocybe che crescono su sterco o nei pascoli hanno tipicamente una pellicola gelatinosa separabile, virano al blu alla contusione e producono un'impronta sporale bruno-porpora anziché nero giaietto.",
+        "notes": "Diversi taxa un tempo considerati specie distinte — tra cui forme con cappello rugoso-reticolato e forme campanulate più pallide — sono oggi riuniti in quest'unica specie variabile, accanto a una varietà a spore più piccole priva di frammenti velari marginali. Come altri membri del suo genere, i carpofori contengono serotonina, urea e triptofano; sebbene la presenza di psilocibina sia stata talvolta ipotizzata, le analisi chimiche su materiale europeo non hanno confermato alcaloidi allucinogeni."
+      },
+      "ja": {
+        "description": "風化した草食動物の糞や多量に施肥された牧草地の土壌に、単生または小群生する小型で脆い腐生性のハラタケ型キノコです。南極大陸を除く世界各地に広く分布し、ヨーロッパ、北アメリカ、アジア、南アメリカ、アフリカ、オーストラレーシアで普通に見られ、放牧された牧草地や草地に古い糞がある環境であればどこにでも発生します。",
+        "cap": "径1–5 cmで、幼時はほぼ球形から鈍円錐形をしており、成熟すると鐘形または広鐘形に開きますが、平らになることはまれで、中央に小さな突起を備えることもあります。乾燥時の表面は平滑から絹糸状で、湿時にはわずかに粘性を帯び、乾燥した天候では放射状にひび割れたり、隆起した網目状のしわを生じたりすることがあります。弱い吸水性または非吸水性で、中央部は淡灰色、灰褐色、オリーブ褐色、または赤褐色を呈し、乾くとより淡い灰白色から白っぽくなります。やや内巻きから下向きの傘の縁には、白く小さな歯状の三角形をした内被膜の破片が縁飾りのように付くのが特徴ですが、これらは脆く、老成するとしばしば脱落します。水酸化カリウム（KOH）を滴下すると、傘の表面はくすんだ橙色に変わります。",
+        "hymenium": "ひだは密から極めて密で幅が広く、腹が膨らんだ形状をしており、上生から直生し、成熟すると柄から離れることがあります。幼時は淡灰色ですが、胞子がひだの表面で不均一に成熟するため、まもなく灰色と炭黒色の特徴的なまだら模様となり、老成すると白っぽく微細な綿毛状の縁を残したまま全体が黒っぽくなります。担子器は急に太くなるこん棒形で4胞子性です。縁シスチジアは豊富で、亜円筒形からほぼ毛状を呈し、先端がやや頭状または頭状になることが多く、側シスチジアはありません。",
+        "stipe": "高さ4–12 cm（まれに14–16 cmに達します）、太さ0.2–0.5 cm（まれに0.1–0.8 cm）で、円柱形をしており、上下同大か頂部と基部がわずかに太く、脆くて中空です。色は傘と同様に淡灰色から灰褐色で、頂部付近はより淡色で微細な条線があり、老成や接触によって基部に向かって赤褐色に暗色化します。表面は特に幼時に微細な白っぽい粉状物に覆われ、湿った天候では上部付近に微小な水滴を分泌することがあります。柄につばはなく、基部は微細な白色の菌糸マットに覆われています。",
+        "flesh": "非常に薄く脆くて貧弱で、淡灰色からクリーム色または淡黄褐色を呈し、傷つけても変色しません。味は温和で特徴がなく、においは温和かかすかに香辛料のようで、柄の基部ではやや刺激臭を帯びることがあります。",
+        "sporePrint": "黒色から暗黒褐色です。胞子は11–18.5 × 7–12 × 7–9.5 µm（通常12–18 × 7–10 µm）で平滑、正面観は楕円形からレモン形、側面観はわずかに扁平で、明瞭な頂生発芽孔を備えます。デキストリノイド性を示し、濃硫酸中でも脱色しません。",
+        "habitat": "糞生かつ腐生性で、放牧された牧草地や草地、古い堆肥の山周辺において、風化したウマ、ウシ、またはヘラジカの糞上や多量に施肥された土壌上に単生、群生、または小束生し、しばしば糞が部分的に分解されて草に覆われた頃に発生します。温帯ヨーロッパでは5月から11月にかけて発生し、北アメリカでは春から秋に現れ、温暖な気候では冬期も発生が続きます。",
+        "uses": "不食です。子実体は薄くて貧弱すぎるため食用価値がなく、糞上に発生するうえ、微量の向精神性成分に関する報告が一致しておらず、さらに実際に有毒な種やシロシビンを含む近縁種と誤認するおそれもあります。",
+        "confusion": "Panaeolus semiovatusはより大型で頑丈であり、淡クリーム黄色の粘性のある傘と、柄に明瞭な膜質のつばを備えます。Protostropharia semiglobataも糞上に発生しますが、粘液に覆われた黄土色の半球形の傘、消失しやすい柄のつば、そして黒色ではなく紫褐色の胞子紋によって区別できます。Panaeolus fimicolaとPanaeolus acuminatusは傘の縁に白い歯状の被膜破片を欠き、傘はより濃い褐色で吸水性がいっそう強いです。Panaeolus olivaceusは縁の被膜の歯を欠く強い吸水性のオリーブ色味を帯びた傘を持ち、糞上や牧草地に発生するPsilocybe属の種は、一般に剥がしやすいゼラチン質の表皮を備え、傷つくと青変し、漆黒ではなく紫褐色の胞子紋を生じます。",
+        "notes": "かつて別種として扱われていた複数の分類群（網目状のしわを持つ傘の型や、より淡色の鐘形の型を含む）は、縁の被膜破片を欠く小型胞子の変種とともに、現在ではこの変異に富む単一種に統合されています。同属の他種と同様に、子実体にはセロトニン、尿素、トリプトファンが含まれています。シロシビンを含むという噂が時折ありますが、ヨーロッパ産標本の化学分析では幻覚性アルカロイドの存在は確認されていません。"
+      },
+      "ko": {
+        "description": "풍화된 초식동물의 분변과 거름이 풍부한 목초지 토양에서 홀로 또는 작은 무리를 이루어 자라는 작고 연약한 부생성 주름버섯입니다. 남극 대륙을 제외한 전 세계에 분포하며, 유럽, 북아메리카, 아시아, 남아메리카, 아프리카 및 오스트랄라시아 전역에서 널리 흔하게 나타나며 방목된 목초지와 초원에 묵은 거름이 있는 곳이라면 어디서든 발생합니다.",
+        "cap": "지름은 1–5 cm로 어릴 때는 거의 구형에서 둔한 원추형이며, 자라면서 종형 또는 넓은 종형으로 퍼지지만 평평해지는 경우는 드물고 때로 중앙에 작은 돌기가 있습니다. 마른 표면은 매끄럽거나 비단결 같으며, 젖으면 약간 끈적거리고 건조한 날씨에는 방사상으로 갈라지거나 도드라진 그물 모양의 주름이 생기기도 합니다. 약한 흡수성이거나 비흡수성이며 중앙부는 연한 회색, 갈회색, 올리브갈색 또는 적갈색을 띠고 마르면 더 연한 회백색에서 백색으로 옅어집니다. 약간 안으로 말리거나 아래로 굽은 갓 가장자리에는 부분피막의 작고 흰 치아 모양 삼각형 잔유물이 특징적으로 술처럼 달려 있으나, 매우 연약하여 노화하면서 흔히 떨어져 나갑니다. 수산화칼륨(KOH)을 떨어뜨리면 갓 표면이 탁한 주황빛으로 변합니다.",
+        "hymenium": "주름살은 촘촘하거나 매우 촘촘하고 폭이 넓으며 배가 불룩한 형태로, 올린붙은형에서 좁게붙은형이며 성숙하면 때로 대에서 떨어집니다. 어릴 때는 연한 회색이지만 주름살 면에서 포자가 고르게 익지 않아 곧 회색과 숯검정색이 어우러진 특징적인 얼룩무늬를 띠며, 노화하면 가늘고 희끄무레한 미세 솜털 모양의 날을 유지한 채 전체가 거무스름해집니다. 담자기는 갑자기 굵어지는 곤봉형이며 4포자성입니다. 연시스티디아는 풍부하고 아원통형에서 거의 털 모양이며 흔히 아두상 또는 두상이고, 측시스티디아는 없습니다.",
+        "stipe": "높이 4–12 cm(간혹 14–16 cm에 이릅니다), 굵기 0.2–0.5 cm(간혹 0.1–0.8 cm)의 원통형으로 굵기가 고르거나 꼭대기와 기부가 약간 굵어지며 연약하고 속이 비어 있습니다. 색은 갓과 같은 연한 회색에서 회갈색이며 꼭대기 부근은 더 연하고 미세한 줄무늬가 있고, 노화하거나 만지면 기부를 향해 적갈색으로 어두워집니다. 표면은 특히 어릴 때 미세한 흰 가루로 덮여 있으며 습한 날씨에는 상부 부근에서 작은 물방울이 맺히기도 합니다. 대에는 턱받이가 없고 기부는 미세한 흰 균사 펠트로 덮여 있습니다.",
+        "flesh": "매우 얇고 연약하며 빈약하고, 연한 회색에서 크림색 또는 연황갈색을 띠며 잘라도 변색하지 않습니다. 맛은 순하고 특징이 없으며, 냄새는 순하거나 희미하게 향신료 같고 대의 기부에서는 때로 약간 자극적인 냄새가 납니다.",
+        "sporePrint": "검은색에서 짙은 흑갈색입니다. 포자는 11–18.5 × 7–12 × 7–9.5 µm(보통 12–18 × 7–10 µm)로 매끄럽고, 정면에서 보면 타원형에서 레몬형이며 측면에서는 약간 납작하고 뚜렷한 정단 발아공이 있습니다. 덱스트리노이드성을 나타내며 진한 황산에서도 탈색되지 않습니다.",
+        "habitat": "분생성 및 부생성으로, 방목된 목초지와 초원 및 오래된 거름더미 주변에서 풍화된 말, 소 또는 말코손바닥사슴의 분변 위나 거름이 풍부한 토양에 홀로, 무리 지어 또는 작은 다발로 직접 자라며, 흔히 분변이 부분적으로 분해되어 풀로 덮인 뒤에 나타납니다. 온대 유럽에서는 5월부터 11월까지 자실체를 형성하며, 북아메리카에서는 봄부터 가을까지 나타나고 온화한 기후에서는 겨울철까지 이어집니다.",
+        "uses": "식용 부적합입니다. 자실체가 너무 얇고 빈약하여 식용 가치가 없으며 분변 위에서 자라고, 미량의 향정신성 성분에 관해 상충하는 보고가 있을 뿐 아니라 실제로 독성이 있거나 실로시빈을 함유한 근연종과 혼동할 위험도 있습니다.",
+        "confusion": "Panaeolus semiovatus는 더 크고 튼튼하며 연한 크림황색의 끈적한 갓과 대 위의 뚜렷한 막질 턱받이를 가집니다. Protostropharia semiglobata 역시 분변 위에서 자라지만 미끈거리는 황토색 반구형 갓, 사라지기 쉬운 대 턱받이, 그리고 검은색이 아닌 자갈색 포자문으로 구별됩니다. Panaeolus fimicola와 Panaeolus acuminatus는 갓 가장자리에 흰 치아 모양의 피막 잔유물이 없고 갓이 더 짙은 갈색이며 흡수성이 더 강합니다. Panaeolus olivaceus는 가장자리 피막 치아가 없는 강한 흡수성의 올리브빛 갓을 가지며, 분변이나 목초지에서 자라는 Psilocybe 속 종들은 대개 벗겨지는 젤라틴질 표피를 지니고 상처가 나면 청변하며 칠흑색이 아닌 자갈색 포자문을 남깁니다.",
+        "notes": "과거에 별도의 종으로 취급되었던 여러 분류군(그물 모양 주름이 진 갓 형태와 더 연한 종형 형태 포함)은 가장자리 피막 조각이 없는 소포자 변종과 함께 현재는 이 단일 변이종으로 통합되어 있습니다. 같은 속의 다른 종들과 마찬가지로 자실체에는 세로토닌, 요소, 트립토판이 들어 있습니다. 실로시빈 함유에 대한 소문이 간혹 있으나 유럽산 표본에 대한 화학 분석에서는 환각성 알칼로이드가 확인되지 않았습니다."
+      },
+      "lt": {
+        "description": "Nedidelis, trapus saprotrofinis lakštabudinis grybas, augantis pavieniui arba nedidelėmis grupelėmis ant apirusių žolėdžių mėšlo ir gausiai patręšto ganyklų dirvožemio. Kosmopolitinė rūšis, neaptinkama tik Antarktidoje; plačiai paplitusi ir dažna Europoje, Šiaurės Amerikoje, Azijoje, Pietų Amerikoje, Afrikoje ir Australazijoje visur, kur ganomose ganyklose ir pievose yra seno mėšlo.",
+        "cap": "1–5 cm skersmens, jauna beveik rutuliška arba bukai kūgiška, senstant išsiskleidžia iki varpiškos arba plačiai varpiškos ir retai išsilygina, kartais turi nedidelį centrinį gūbrelį. Sausas paviršius lygus arba šilkiškas, sudrėkęs tampa lengvai lipnus, o sausomis sąlygomis kartais spinduliškai suskeldėja arba pasidengia iškiliu tinklišku raukšlių raštu. Silpnai higrofaniška arba nehigrofaniška, centre blyškiai pilka, rusvai pilka, alyviškai ruda arba rausvai ruda, džiūdama šviesėja iki blyškiai pilkšvos ar balsvos. Šiek tiek užlenktas arba nuleistas kraštas būdingai apaugęs smulkiais baltais dantytais trikampiais dalinio apvalkalo likučiais, tačiau jie trapūs ir senstant dažnai nukrenta. Nuo kalio šarmo (KOH) kepurėlės paviršius tampa blankiai oranžinis.",
+        "hymenium": "Lakšteliai tankūs arba labai tankūs, platūs, išsipūtę, kylantys priaugę arba siaurai priaugę, subrendę kartais atitrūksta nuo koto. Jauni blyškiai pilkšvi, netrukus tampa būdingai margi — pilki ir juodai angliški dėl nevienodai bręstančių sporų lakštelių paviršiuje, o senstant iš esmės pajuoduoja, išlaikydami ploną balsvą smulkiai pūkuotą pakraštį. Bazidijos staigiai buožiškos, ketursporės; cheilocistidės gausios, beveik cilindriškos iki beveik plaukiškų, dažnai galvutėtos arba šiek tiek sustorėjusia viršūne; pleurocistidžių nėra.",
+        "stipe": "4–12 cm aukščio (kartais siekia 14–16 cm) ir 0,2–0,5 cm storio (kartais 0,1–0,8 cm), cilindriškas, lygus arba nežymiai praplatėjęs viršūnėje ir pamate, trapus ir tuščiaviduris. Blyškiai pilkas arba pilkai rudas kaip kepurėlė, viršūnėje šviesesnis ir smulkiai dryžuotas, o senstant ar palietus link pamato tamsėjantis iki rausvai rudo. Paviršius plonai padengtas balsva miltuota apnaša, ypač jaunų vaisiakūnių, o drėgnu oru prie viršūnės gali išskirti smulkius lašelius; rinkio ant koto nėra, o pamatas apaugęs plonu baltu grybienos veltiniu.",
+        "flesh": "Labai plona, trapi ir menka, blyškiai pilkšva iki kreminės ar gelsvai rudos, perpjauta spalvos nekeičia. Skonis švelnus, neišraiškingas; kvapas silpnas arba lengvai aštrokas, koto pamate kartais šiek tiek aitrus.",
+        "sporePrint": "Nuo juodo iki tamsiai juosvai rudo. Sporos 11–18,5 × 7–12 × 7–9,5 µm (dažniausiai 12–18 × 7–10 µm), lygios, iš priekio elipsiškos arba citriniškos, o iš šono šiek tiek suplotos, su ryškia viršūnine daigumo pora; dekstrinoidinės ir neišblunka koncentruotoje sieros rūgštyje.",
+        "habitat": "Koprofilinis saprotrofas, augantis pavieniui, grupėmis arba nedideliais kuokštais tiesiogiai ant apirusio arklių, karvių ar briedžių mėšlo bei gausiai patręšto dirvožemio ganomose ganyklose, pievose ir prie senų mėšlo krūvų, dažnai pasirodantis tuomet, kai mėšlas jau iš dalies suiręs ir apaugęs žole. Vidutinio klimato Europoje vaisiakūnius augina nuo gegužės iki lapkričio, o Šiaurės Amerikoje aptinkamas nuo pavasario iki rudens, švelnesnio klimato vietovėse išsilaikantis ir per žiemą.",
+        "uses": "Nevalgomas. Vaisiakūniai per ploni ir per menki, kad turėtų kulinarinę vertę, auga ant mėšlo, be to, esama prieštaringų duomenų dėl pėdsakinių psichoaktyviųjų medžiagų kiekių bei rizikos supainioti su iš tikrųjų nuodingomis ar psilocibino turinčiomis giminingomis rūšimis.",
+        "confusion": "Panaeolus semiovatus yra stambesnis ir tvirtesnis, turi blyškią kreminiai geltoną lipnią kepurėlę ir ryškų plėvelinį rinkį ant koto. Protostropharia semiglobata taip pat auga ant mėšlo, bet pasižymi gleivėta ochriškai geltona pusrutuliška kepurėle, laikinu koto rinkiu ir purpuriškai rudu, o ne juodu sporų atspaudu. Panaeolus fimicola ir Panaeolus acuminatus neturi baltų dantytų apvalkalo likučių kepurėlės pakraštyje, o jų kepurėlės tamsiau rudos ir stipriau higrofaniškos. Panaeolus olivaceus turi stipriai higrofanišką alyvinio atspalvio kepurėlę be apvalkalo dantelių krašte, o ant mėšlo ar ganyklose augančios Psilocybe rūšys paprastai turi želatininę nusilupančią luobelę, paspaustos mėlynuoja ir palieka purpuriškai rudą, o ne angliškai juodą sporų atspaudą.",
+        "notes": "Keli taksonai, anksčiau laikyti atskiromis rūšimis — įskaitant formas su raukšlėtai tinkliška kepurėle ir blyškesnes varpiškas formas, — dabar sujungti į šią vieną kintamą rūšį kartu su smulkiaspore atmaina, neturinčia apvalkalo likučių kepurėlės pakraštyje. Kaip ir kiti šios genties atstovai, vaisiakūniai turi serotonino, karbamido ir triptofano; nors retkarčiais būdavo spėliojama apie psilocibino buvimą, europinės medžiagos cheminės analizės haliucinogeninių alkaloidų nepatvirtino."
+      },
+      "lv": {
+        "description": "Neliela, trausla saprotrofa lapiņsēne, kas aug pa vienai vai nelielās grupās uz veciem zālēdāju mēsliem un stipri samēslotas ganību augsnes. Kosmopolītiska suga, kas sastopama visos kontinentos, izņemot Antarktīdu; plaši izplatīta un bieža Eiropā, Ziemeļamerikā, Āzijā, Dienvidamerikā, Āfrikā un Austrālāzijā visur, kur ganībās un pļavās ir nogatavojušies mēsli.",
+        "cap": "1–5 cm plata, jauna gandrīz lodveida līdz strupi koniska, ar vecumu izplešas līdz zvanveida vai plaši zvanveida formai un reti iztaisnojas, reizēm ar nelielu centrālu pauguriņu. Sausa virsma ir gluda līdz zīdaina, mitrumā kļūst viegli lipīga, bet sausā laikā dažkārt radiāli saplaisā vai pārklājas ar izteiktu tīklveida kroku rakstu. Vāji higrofāna līdz nehigrofāna, vidū bāli pelēka, brūnganpelēka, olīvbrūna vai sarkanbrūna, izžūstot kļūst gaišāk pelēcīga līdz bālgana. Nedaudz ieritinātā līdz noliektā mala ir raksturīgi apdarināta ar sīkām, baltām, zobveidīgām trīsstūrveida daļējā plīvura atliekām, taču tās ir trauslas un ar vecumu bieži nobirst. Kālija hidroksīda (KOH) ietekmē cepurītes virsma kļūst blāvi oranžīga.",
+        "hymenium": "Lapiņas ciešas līdz ļoti ciešas, platas, vēderainas, augšupejoši pieaugušas līdz šauri pieaugušas, briedumā reizēm atdalās no kātiņa. Jaunas bāli pelēcīgas, tās drīz kļūst raksturīgi raibas — pelēkas un ogļmelnas nevienmērīgas sporu nogatavošanās dēļ uz lapiņu virsmas, bet vecumā kļūst kopumā melnganas, saglabājot smalku bālganu, sīkpārslainu šķautni. Bazīdijas strauji vālveidīgas, četrsporu; heilocistīdas bagātīgas, gandrīz cilindriskas līdz gandrīz matveida, bieži ar galviņveida vai viegli paplašinātu galu; pleirocistīdu nav.",
+        "stipe": "4–12 cm garš (reizēm sasniedz 14–16 cm) un 0,2–0,5 cm resns (reizēm 0,1–0,8 cm), cilindrisks, vienāda resnuma vai viegli paplašināts augšgalā un pie pamata, trausls un dobs. Krāsots bāli pelēks līdz pelēkbrūns tāpat kā cepurīte, augšdaļā gaišāks un smalki svītrains, ar vecumu vai pieskaroties pie pamata satumst līdz sarkanbrūnam. Virsmu klāj smalks bālgans apsarmes slānis, īpaši jauniem augļķermeņiem, un mitrā laikā pie augšgala var izdalīties sīki pilieniņi; gredzena uz kātiņa nav, bet pamatni apņem smalks balts micēlija tūbains pinums.",
+        "flesh": "Ļoti plāns, trausls un niecīgs, bāli pelēcīgs līdz krēmkrāsas vai dzeltenbrūngans, griezumā krāsu nemaina. Garša maiga un neizteiksmīga; smarža vāja vai viegli pikanta, pie kātiņa pamata reizēm nedaudz asa.",
+        "sporePrint": "Melns līdz tumši melnbrūns. Sporas 11–18,5 × 7–12 × 7–9,5 µm (parasti 12–18 × 7–10 µm), gludas, pretskatā elipsoidālas līdz citronveida un sānskatā nedaudz saplacinātas, ar izteiktu apikālu dīgšanas poru; tās ir dekstrinoīdas un nezaudē krāsu koncentrētā sērskābē.",
+        "habitat": "Koprofils saprotrofs, kas aug pa vienam, grupās vai nelielos pušķos tieši uz satrūdējušiem zirgu, govju vai aļņu mēsliem un stipri samēslotas augsnes ganībās, pļavās un pie vecām mēslu kaudzēm, bieži parādoties pēc tam, kad mēsli ir daļēji sadalījušies un apauguši ar zāli. Mērenā klimata Eiropā augļķermeņus veido no maija līdz novembrim, savukārt Ziemeļamerikā sastopams no pavasara līdz rudenim, maigāka klimata apgabalos saglabājoties arī ziemā.",
+        "uses": "Neēdama. Augļķermeņi ir pārāk plāni un sīki, lai tiem būtu kulināra vērtība, tie aug uz mēsliem, turklāt pastāv pretrunīgas ziņas par niecīgu psihoaktīvu savienojumu klātbūtni, kā arī risks sajaukt ar patiesi indīgām vai psilocibīnu saturošām radniecīgām sugām.",
+        "confusion": "Panaeolus semiovatus ir lielāks un masīvāks, ar bāli krēmdzeltenu gļotainu cepurīti un skaidri izteiktu plēvainu gredzenu uz kātiņa. Protostropharia semiglobata arī aug uz mēsliem, taču tam ir gļotaina okerdzeltena puslodes formas cepurīte, ātri izzūdošs gredzens uz kātiņa un purpurbrūns, nevis melns sporu nospiedums. Panaeolus fimicola un Panaeolus acuminatus nav balto zobveida plīvura atlieku gar cepurītes malu, un to cepurītes ir tumšāk brūnas un izteiktāk higrofānas. Panaeolus olivaceus ir izteikti higrofāna cepurīte ar olīvzaļu nokrāsu bez plīvura zobiņiem malā, savukārt uz mēsliem vai ganībās augošajām Psilocybe sugām parasti ir želejveida atdalāma virsmiziņa, tās savainojuma vietās zilē un veido purpurbrūnu, nevis ogļmelnu sporu nospiedumu.",
+        "notes": "Vairāki taksoni, kas agrāk tika uzskatīti par atsevišķām sugām — tostarp formas ar krunkaini tīklotu cepurīti un bālākas zvanveida formas —, tagad ir apvienoti šajā vienā mainīgajā sugā līdzās sīksporu varietātei bez plīvura atliekām gar cepurītes malu. Tāpat kā citiem šīs ģints pārstāvjiem, augļķermeņos ir serotonīns, urīnviela un triptofāns; lai gan reizēm ir minēta iespējama psilocibīna klātbūtne, Eiropas materiāla ķīmiskās analīzes halucinogēnus alkaloīdus nav apstiprinājušas."
+      },
+      "nl": {
+        "description": "Een kleine, breekbare, saprotrofe plaatjeszwam die alleenstaand of in kleine groepjes vruchtlichamen vormt op verweerde mest van planteneters en sterk bemeste weidegrond. Kosmopolitisch buiten Antarctica komt deze soort wijdverspreid en algemeen voor in Europa, Noord-Amerika, Azië, Zuid-Amerika, Afrika en Australazië, overal waar begraasde weiden en graslanden verouderde mest bieden.",
+        "cap": "1–5 cm breed, jong bijna bolvormig tot stomp kegelvormig, bij het ouder worden uitgroeiend tot klokvormig of breed klokvormig en zelden vlak uitgespreid, soms met een klein centraal papilletje. Het droge oppervlak is glad tot zijdeachtig, wordt bij vocht licht kleverig en barst bij droog weer soms radiaal open of vormt een verheven netwerk van rimpels. Zwak tot niet hygrofaan, in het centrum lichtgrijs, bruingrijs, olijfbruin of roodbruin gekleurd en bij opdrogen lichter grijsachtig tot witachtig verblekend. De licht ingerolde tot neergebogen rand is kenmerkend bezet met kleine, witte, tandvormige, driehoekige resten van het velum partiale, al zijn deze kwetsbaar en vallen ze met de leeftijd vaak af. Kaliumhydroxide (KOH) kleurt het hoedoppervlak dof oranjeachtig.",
+        "hymenium": "Dicht tot zeer dicht opeenstaande, brede, buikige plaatjes die opstijgend aangehecht tot smal aangehecht zijn en bij rijpheid soms van de steel loslaten. Jong licht grijsachtig, maar al snel opvallend gevlekt grijs en koolzwart doordat de sporen ongelijkmatig over de plaatjesvlakken rijpen, op latere leeftijd geheel zwartachtig wordend met behoud van fijne witachtige, fijnvlokkige sneden. De basidiën zijn abrupt knotsvormig en viersporig; cheilocystiden zijn talrijk, bijna cilindrisch tot vrijwel haarvormig en vaak zwak kopvormig of kopvormig; pleurocystiden ontbreken.",
+        "stipe": "4–12 cm hoog (soms tot 14–16 cm) en 0,2–0,5 cm dik (soms 0,1–0,8 cm), cilindrisch, gelijkmatig dik of aan top en basis licht verbreed, breekbaar en hol. Lichtgrijs tot grijsbruin gekleurd net als de hoed, lichter en fijn gestreept nabij de top, en met de leeftijd of bij aanraking naar de basis toe roodbruin donker wordend. Het oppervlak is vooral bij jonge exemplaren fijn bedekt met witachtig berijpt poeder en kan bij vochtig weer nabij de top minuscule druppeltjes afscheiden; een ring ontbreekt en de basis is bekleed met fijn wit myceliumvilt.",
+        "flesh": "Zeer dun, breekbaar en weinig substantieel, licht grijsachtig tot roomkleurig of licht zeemleerbruin, en onveranderlijk bij doorsnijden. De smaak is mild en onopvallend; de geur is mild of zwak kruidig en wordt bij de steelbasis soms licht scherp.",
+        "sporePrint": "Zwart tot donker zwartbruin. De sporen meten 11–18,5 × 7–12 × 7–9,5 µm (doorgaans 12–18 × 7–10 µm), zijn glad, in vooraanzicht ellipsoïde tot citroenvormig en in zijaanzicht licht afgeplat, met een duidelijke apicale kiempore; ze zijn dextrinoïde en verkleuren niet in geconcentreerd zwavelzuur.",
+        "habitat": "Coprofiel en saprotroof, alleenstaand, in groepen of in kleine bundels rechtstreeks op verweerde paarden-, koeien- of elandmest en op sterk bemeste bodem in begraasde weiden, graslanden en rond oude mesthopen, vaak verschijnend zodra de mest deels verteerd en door gras overgroeid is. In gematigd Europa verschijnen de paddenstoelen van mei tot november, terwijl ze in Noord-Amerika van de lente tot in de herfst voorkomen en in mildere klimaten ook gedurende de winter aanhouden.",
+        "uses": "Niet eetbaar. De vruchtlichamen zijn te dun en gering van omvang om culinaire waarde te hebben, groeien op mest en gaan gepaard met tegenstrijdige berichten over sporen van psychoactieve stoffen, naast het risico op verwarring met werkelijk giftige of psilocybinebevattende verwante soorten.",
+        "confusion": "Panaeolus semiovatus is groter en steviger, met een bleek roomgele, kleverige hoed en een duidelijke vliezige ring om de steel. Protostropharia semiglobata groeit eveneens op mest, maar heeft een slijmerige okergele, halfbolvormige hoed, een vergankelijke steelring en een purperbruine in plaats van zwarte sporenprint. Panaeolus fimicola en Panaeolus acuminatus missen de witte tandvormige velumresten aan de hoedrand en hebben donkerder bruine, sterker hygrofane hoeden. Panaeolus olivaceus heeft een sterk hygrofane, olijfgetinte hoed zonder velumtandjes aan de rand, terwijl Psilocybe-soorten op mest of in weiden doorgaans een gelatineuze, aftrekbare hoedhuid hebben, blauw verkleuren bij kneuzing en een purperbruine in plaats van gitzwarte sporenprint geven.",
+        "notes": "Verschillende taxa die vroeger als aparte soorten werden beschouwd – waaronder vormen met netvormig gerimpelde hoeden en blekere klokvormige vormen – worden tegenwoordig samengevoegd binnen deze ene variabele soort, samen met een kleinsporige variëteit zonder velumresten aan de hoedrand. Net als andere vertegenwoordigers van dit geslacht bevatten de vruchtlichamen serotonine, ureum en tryptofaan; hoewel psilocybine soms is vermoed, hebben chemische analyses van Europees materiaal geen hallucinogene alkaloïden bevestigd."
+      },
+      "no": {
+        "description": "En liten, skjør, saprotrof skivesopp som vokser enkeltvis eller i små grupper på forvitret møkk fra planteetere og sterkt gjødslet beitejord. Kosmopolitisk utenfor Antarktis er den vidt utbredt og vanlig i Europa, Nord-Amerika, Asia, Sør-Amerika, Afrika og Australasia, og forekommer overalt der beitemarker og enger byr på eldre gjødsel.",
+        "cap": "1–5 cm bred, nesten kuleformet til butt kjegleformet som ung, med alderen utvidet til klokkeformet eller bredt klokkeformet og sjelden utflatet, av og til med en liten sentral pukkel. Den tørre overflaten er glatt til silkeaktig, blir svakt klebrig i fuktig vær og sprekker noen ganger radialt opp eller danner et opphøyd, nettaktig rynkemønster i tørt vær. Svakt til ikke hygrofan, farget blekgrå, brungrå, olivenbrun eller rødbrun i midten, og blekner til lysere grålig eller hvitaktig ved tørke. Den svakt innbøyde til nedbøyde kanten er karakteristisk frynset med små, hvite, tannlignende, trekantede rester av delhyllet, selv om disse er skjøre og ofte faller av med alderen. Kaliumhydroksid (KOH) farger hattoverflaten matt oransjeaktig.",
+        "hymenium": "Tette til svært tette, brede, bukete skiver som er oppadstigende tilvokste til smalt tilvokste og noen ganger løsner fra stilken ved modenhet. Blekgrå som unge, blir de snart karakteristisk flekkete i grått og kullsvart etter hvert som sporene modnes ujevnt over skiveflatene, og mørkner til helt svartaktige med alderen samtidig som de beholder fine hvitaktige, fint fnokkete egger. Basidiene er brått kølleformede og firesporede; cheilocystider er tallrike, nesten sylindriske til nesten hårlignende og ofte svakt hodeformede eller hodeformede; pleurocystider mangler.",
+        "stipe": "4–12 cm høy (av og til opptil 14–16 cm) og 0,2–0,5 cm tykk (av og til 0,1–0,8 cm), sylindrisk, jevntykk eller svakt utvidet ved toppen og basis, skjør og hul. Farget blekgrå til gråbrun som hatten, lysere og fint stripet nær toppen, og mørkner til rødbrun mot basis med alderen eller ved berøring. Overflaten er fint dekket av et hvitaktig, rimet pudder, særlig som ung, og kan skille ut bitte små dråper nær toppen i fuktig vær; den mangler ring, og stilkbasen er kledd i fint hvitt mycelfilt.",
+        "flesh": "Svært tynt, skjørt og uanselig, blekgrått til kremfarget eller lyst gulbrunt, og uforanderlig ved gjennomskjæring. Smaken er mild og intetsigende; lukten er mild eller svakt krydret og kan noen ganger bli lett stikkende ved stilkbasen.",
+        "sporePrint": "Svart til mørkt svartbrunt. Sporene er 11–18,5 × 7–12 × 7–9,5 µm (vanligvis 12–18 × 7–10 µm), glatte, ellipsoide til sitronformede sett forfra og svakt avflatede fra siden, med en tydelig apikal spirepore; de er dextrinoide og avfarges ikke i konsentrert svovelsyre.",
+        "habitat": "Koprofil og saprotrof, med fruktlegemer enkeltvis, i grupper eller i små knipper direkte på forvitret heste-, ku- eller elgmøkk samt på sterkt gjødslet jord i beitemarker, enger og rundt gamle gjødselhauger, ofte når møkka delvis er nedbrutt og overgrodd av gress. I temperert Europa danner den fruktlegemer fra mai til november, mens den i Nord-Amerika opptrer fra vår til høst og varer gjennom vinteren i mildere klimaer.",
+        "uses": "Ikke matsopp. Fruktlegemene er for tynne og uanselige til å ha kulinarisk verdi, vokser på møkk og har motstridende rapporter om spor av psykoaktive stoffer, samt risiko for forveksling med reelt giftige eller psilocybinholdige slektninger.",
+        "confusion": "Panaeolus semiovatus er større og kraftigere, med en blekt kremgul, klebrig hatt og en tydelig hinneaktig ring på stilken. Protostropharia semiglobata vokser også på møkk, men har slimet okergul, halvkuleformet hatt, en flyktig stilkring og purpurbrunt fremfor svart sporeavtrykk. Panaeolus fimicola og Panaeolus acuminatus mangler hvite, tannlignende hyllerester langs hattkanten og har mørkere brune, sterkere hygrofane hatter. Panaeolus olivaceus har en sterkt hygrofan, olivenfarget hatt uten hylletenner i kanten, mens Psilocybe-arter på møkk eller beitemark typisk har en geléaktig, avdragbar hatthud, blåner ved berøring og gir purpurbrunt fremfor kullsvart sporeavtrykk.",
+        "notes": "Flere taksa som tidligere ble regnet som egne arter – deriblant former med nettrynkete hatter og blekere klokkeformede former – samles nå i denne ene variable arten, sammen med en småsporet varietet uten hyllerester i hattkanten. I likhet med andre arter i slekten inneholder fruktlegemene serotonin, urea og tryptofan; selv om det av og til har versert rykter om psilocybin, har kjemiske analyser av europeisk materiale ikke bekreftet hallusinogene alkaloider."
+      },
+      "pl": {
+        "description": "Niewielki, kruchy, saprotroficzny grzyb blaszkowy owocnikujący pojedynczo lub w małych grupach na zwietrzałych odchodach zwierząt roślinożernych i silnie nawożonej glebie pastwisk. Gatunek kosmopolityczny poza Antarktydą, szeroko rozpowszechniony i pospolity w Europie, Ameryce Północnej, Azji, Ameryce Południowej, Afryce i Australazji, występujący wszędzie tam, gdzie wypasane pastwiska i łąki zapewniają przeleżały obornik.",
+        "cap": "Średnicy 1–5 cm, za młodu niemal kulisty do tępo stożkowatego, z wiekiem rozpościerający się do dzwonkowatego lub szeroko dzwonkowatego i rzadko spłaszczający się, niekiedy z niewielkim środkowym garbkiem. Sucha powierzchnia jest gładka do jedwabistej, w stanie wilgotnym staje się lekko lepka, a podczas suchej pogody czasem promieniście pęka lub wytwarza wypukłą, siateczkowatą sieć zmarszczek. Słabo higrofaniczny do niehigrofanicznego, zabarwiony jasnoszaro, brązowoszaro, oliwkowobrązowo lub czerwonawobrązowo na szczycie, podczas wysychania blednący do jasnoszarego lub białawego. Lekko podwinięty do podgiętego brzeg jest charakterystycznie obrzeżony drobnymi, białymi, ząbkowatymi, trójkątnymi resztkami osłony częściowej, choć są one kruche i z wiekiem często odpadają. Wodorotlenek potasu (KOH) barwi powierzchnię kapelusza na matowo pomarańczowo.",
+        "hymenium": "Blaszki gęste do bardzo gęstych, szerokie, wybrzuszone, przyrośnięte wznosząco do wąsko przyrośniętych, z wiekiem niekiedy odrywające się od trzonu. Za młodu jasnoszarawe, szybko stają się charakterystycznie plamisto szare i węglistoczarne wskutek nierównomiernego dojrzewania zarodników na ich powierzchniach, z wiekiem czernieją w całości, zachowując delikatne, białawe, drobno kłaczkowate ostrza. Podstawki są nagle maczugowate i czterozarodnikowe; cheilocystydy liczne, niemal cylindryczne do niemal włosowatych, często niemal główkowate lub główkowate; pleurocystyd brak.",
+        "stipe": "Wysokości 4–12 cm (sporadycznie osiągający 14–16 cm) i grubości 0,2–0,5 cm (sporadycznie 0,1–0,8 cm), walcowaty, równogruby lub lekko rozszerzony przy wierzchołku i podstawie, kruchy i pusty w środku. Zabarwiony jasnoszaro do szarobrązowego jak kapelusz, jaśniejszy i delikatnie prążkowany przy wierzchołku, a ku podstawie ciemniejący do czerwonawobrązowego z wiekiem lub po dotknięciu. Powierzchnia jest delikatnie pokryta białawym, oszronionym nalotem, zwłaszcza za młodu, a podczas wilgotnej pogody może wydzielać drobne kropelki w pobliżu wierzchołka; brak pierścienia na trzonie, a podstawa pokryta jest delikatną, białą, pilśniowatą grzybnią.",
+        "flesh": "Bardzo cienki, kruchy i mało mięsisty, jasnoszarawy do kremowego lub płowobrązowego, niezmieniający barwy po przekrojeniu. Smak łagodny i niewyraźny; zapach łagodny lub słabo korzenny, u podstawy trzonu niekiedy lekko ostry.",
+        "sporePrint": "Czarny do ciemnoczarnawo-brązowego. Zarodniki o wymiarach 11–18,5 × 7–12 × 7–9,5 µm (zwykle 12–18 × 7–10 µm), gładkie, elipsoidalne do cytrynowatych w widoku z przodu i lekko spłaszczone w widoku z boku, z wyraźną szczytową porą rostkową; są dekstrynoidalne i nie odbarwiają się w stężonym kwasie siarkowym.",
+        "habitat": "Koprofilny i saprotroficzny, owocnikujący pojedynczo, gromadnie lub w małych kępkach bezpośrednio na zwietrzałych odchodach końskich, krowich lub łosich oraz na silnie nawożonej glebie na wypasanych pastwiskach, łąkach i wokół starych pryzm obornika, często pojawiający się wtedy, gdy odchody częściowo się rozłożyły i porosły trawą. W strefie umiarkowanej Europy owocnikuje od maja do listopada, natomiast w Ameryce Północnej pojawia się od wiosny do jesieni, a w łagodniejszym klimacie utrzymuje się również przez zimę.",
+        "uses": "Niejadalny. Owocniki są zbyt cienkie i skąpe, by miały wartość kulinarną, rosną na odchodach i wiążą się ze sprzecznymi doniesieniami na temat śladowych ilości związków psychoaktywnych, a także z ryzykiem pomylenia z rzeczywiście trującymi lub zawierającymi psylocybinę gatunkami pokrewnymi.",
+        "confusion": "Panaeolus semiovatus jest większy i bardziej krępy, ma blado kremowożółty, śluzowaty kapelusz oraz wyraźny błoniasty pierścień na trzonie. Protostropharia semiglobata również owocnikuje na odchodach, ale ma śluzowaty, ochrowożółty, półkulisty kapelusz, zanikający pierścień na trzonie oraz purpurowobrązowy, a nie czarny wysyp zarodników. Panaeolus fimicola i Panaeolus acuminatus nie mają białych, ząbkowatych resztek osłony na brzegu kapelusza i odznaczają się ciemniej brązowymi, silniej higrofanicznymi kapeluszami. Panaeolus olivaceus ma silnie higrofaniczny kapelusz z oliwkowym odcieniem bez brzeżnych ząbków osłony, natomiast gatunki z rodzaju Psilocybe rosnące na odchodach lub na pastwiskach mają zazwyczaj galaretowatą, dającą się oddzielić skórkę kapelusza, sinieją po uszkodzeniu i dają purpurowobrązowy, a nie smolistoczarny wysyp zarodników.",
+        "notes": "Kilka taksonów traktowanych dawniej jako odrębne gatunki — w tym formy o siateczkowato pomarszczonych kapeluszach oraz jaśniejsze formy dzwonkowate — łączy się obecnie w obrębie tego jednego zmiennego gatunku, wraz z drobnozarodnikową odmianą pozbawioną brzeżnych resztek osłony. Podobnie jak u innych przedstawicieli tego rodzaju, owocniki zawierają serotoninę, mocznik i tryptofan; choć niekiedy krążyły pogłoski o obecności psylocybiny, analizy chemiczne materiału europejskiego nie potwierdziły obecności alkaloidów halucynogennych."
+      },
+      "pt": {
+        "description": "Pequeno cogumelo de lâminas, frágil e saprotrófico, que frutifica isoladamente ou em pequenos grupos sobre estrume degradado de herbívoros e solo de pastagem fortemente estrumado. Cosmopolita fora da Antártida, é amplamente distribuído e comum na Europa, América do Norte, Ásia, América do Sul, África e Australásia, ocorrendo sempre que pastagens e prados pastoreados fornecem estrume envelhecido.",
+        "cap": "Com 1–5 cm de diâmetro, quase esférico a obtusamente cónico quando jovem, expandindo-se para campanulado ou amplamente campanulado com a idade e raramente achatando, apresentando por vezes uma pequena papila central. A superfície seca é lisa a sedosa, tornando-se ligeiramente viscosa com tempo húmido, e por vezes fende-se radialmente ou desenvolve uma rede reticulada de rugas salientes em tempo seco. Fracamente higrófano a não higrófano, apresenta cor cinzento-pálida, cinzento-acastanhada, castanho-azeitona ou castanho-avermelhada no disco, empalidecendo ao secar para acinzentado a esbranquiçado. A margem, ligeiramente incurvada a decurvada, é caracteristicamente franjada por pequenos restos brancos, triangulares e dentiformes do véu parcial, embora estes sejam frágeis e se soltem frequentemente com a idade. O hidróxido de potássio (KOH) torna a superfície do chapéu alaranjado-baço.",
+        "hymenium": "Lâminas próximas a apinhadas, largas, ventrudas, ascendentes-adnatas a adnexas, podendo separar-se do estipe na maturação. Cinzento-pálidas quando jovens, tornam-se rapidamente marmoreadas de cinzento e negro-carvão de forma característica à medida que os esporos amadurecem de modo desigual nas faces das lâminas, escurecendo no conjunto para enegrecido com a idade, mas mantendo o gume fino, esbranquiçado e finamente floconoso. Os basídios são abruptamente claviformes e tetraspóricos; os queilocistídios são abundantes, subcilíndricos a quase filiformes e frequentemente subcapitados ou capitados; os pleurocistídios estão ausentes.",
+        "stipe": "Com 4–12 cm de altura (atingindo ocasionalmente 14–16 cm) e 0,2–0,5 cm de espessura (ocasionalmente 0,1–0,8 cm), cilíndrico, igual ou ligeiramente alargado no ápice e na base, frágil e oco. De cor cinzento-pálida a castanho-acinzentada como o chapéu, mais pálido e finamente estriado junto ao ápice, escurecendo para castanho-avermelhado em direção à base com a idade ou ao manuseamento. A superfície está finamente revestida de pruína esbranquiçada, sobretudo quando jovem, e pode exsudar minúsculas gotículas perto do topo em tempo húmido; não apresenta anel no estipe, e a base está revestida por um fino feltro micelial branco.",
+        "flesh": "Muito fina, frágil e inconsistente, cinzento-pálida a creme ou castanho-camurça, imutável ao corte. O sabor é suave e indistinto; o odor é suave ou ligeiramente picante, tornando-se por vezes um pouco acre na base do estipe.",
+        "sporePrint": "Negra a castanho-enegrecida escura. Os esporos medem 11–18,5 × 7–12 × 7–9,5 µm (habitualmente 12–18 × 7–10 µm), são lisos, elipsoides a citriformes em vista frontal e ligeiramente achatados de perfil, com poro germinativo apical proeminente; são dextrinoides e não descoram em ácido sulfúrico concentrado.",
+        "habitat": "Coprófilo e saprotrófico, frutificando isoladamente, de forma gregária ou em pequenos tufos diretamente sobre estrume degradado de cavalo, vaca ou alce e sobre solo fortemente estrumado em pastagens, prados e junto a velhas estrumeiras, surgindo frequentemente quando o estrume já se encontra parcialmente decomposto e coberto de erva. Na Europa temperada frutifica de maio a novembro, enquanto na América do Norte surge da primavera ao outono e persiste durante o inverno em climas mais amenos.",
+        "uses": "Não comestível. Os corpos frutíferos são demasiado finos e inconsistentes para terem valor culinário, crescem sobre estrume e existem relatos contraditórios sobre vestígios de compostos psicoativos, além do risco de confusão com espécies aparentadas efetivamente tóxicas ou contendo psilocibina.",
+        "confusion": "Panaeolus semiovatus é maior e mais robusto, com chapéu viscoso amarelo-creme pálido e um anel membranoso bem distinto no estipe. Protostropharia semiglobata também frutifica sobre estrume, mas possui um chapéu hemisférico viscoso amarelo-ocre, anel efémero no estipe e esporada castanho-purpúrea em vez de negra. Panaeolus fimicola e Panaeolus acuminatus não apresentam restos brancos dentiformes do véu na margem do chapéu e têm chapéus castanhos mais escuros e mais fortemente higrófanos. Panaeolus olivaceus tem um chapéu fortemente higrófano de tonalidade azeitona sem dentes velares marginais, enquanto as espécies de Psilocybe que crescem sobre estrume ou em pastagens possuem tipicamente uma película gelatinosa separável, azulam ao toque e produzem esporada castanho-purpúrea em vez de negro-azeviche.",
+        "notes": "Vários táxones anteriormente tratados como espécies distintas — incluindo formas com chapéu enrugado reticulado e formas campanuladas mais pálidas — estão agora reunidos nesta única espécie variável, a par de uma variedade de esporos mais pequenos sem fragmentos marginais do véu. Tal como outros membros do seu género, os corpos frutíferos contêm serotonina, ureia e triptofano; embora a presença de psilocibina tenha sido ocasionalmente aventada, as análises químicas de material europeu não confirmaram alcaloides alucinogénios."
+      },
+      "ro": {
+        "description": "Ciupercă mică cu lamele, fragilă și saprotrofă, care fructifică solitar sau în grupuri mici pe bălegar degradat de ierbivore și pe soluri de pășune puternic îngrășate. Cosmopolită în afara Antarcticii, este larg răspândită și comună în Europa, America de Nord, Asia, America de Sud, Africa și Australasia, apărând oriunde pășunile și pajiștile pășunate oferă gunoi de grajd învechit.",
+        "cap": "Cu diametrul de 1–5 cm, aproape sferică până la obtuz-conică la exemplarele tinere, lărgindu-se în formă de clopot sau larg campanulată odată cu vârsta și aplatizându-se rar, prezentând uneori o mică papilă centrală. Suprafața uscată este netedă până la mătăsoasă, devenind ușor lipicioasă pe vreme umedă, iar pe timp uscat se crapă uneori radial sau formează o rețea reticulată de riduri în relief. Slab higrofană până la nehigrofană, are culoare cenușiu-palidă, cenușiu-brunie, brun-măslinie sau brun-roșcată pe disc, decolorându-se la uscare spre cenușiu palid sau albicios. Marginea, ușor răsfrântă spre interior până la curbată în jos, este caracteristic franjurată cu mici resturi albe, triunghiulare, în formă de dințișori ale vălului parțial, deși acestea sunt fragile și cad adesea odată cu vârsta. Hidroxidul de potasiu (KOH) colorează suprafața pălăriei în portocaliu tern.",
+        "hymenium": "Lamele dese până la foarte dese, late, bombate, ascendent-adnate până la adnexe, desprinzându-se uneori de picior la maturitate. Cenușiu-palide în tinerețe, capătă curând un aspect caracteristic marmorat cu cenușiu și negru-cărbune pe măsură ce sporii se maturizează neuniform pe fețele lamelelor, devenind negricioase în ansamblu la bătrânețe, dar păstrând muchia fină, albicioasă și fin floconoasă. Bazidiile sunt brusc clavate și tetrasporice; cheilocistidele sunt abundente, subcilindrice până la aproape filiforme și adesea subcapitate sau capitate; pleurocistidele lipsesc.",
+        "stipe": "Înalt de 4–12 cm (ajungând ocazional la 14–16 cm) și gros de 0,2–0,5 cm (ocazional 0,1–0,8 cm), cilindric, egal sau ușor îngroșat la vârf și la bază, fragil și gol pe dinăuntru. De culoare cenușiu-palidă până la brun-cenușie, ca pălăria, mai palid și fin striat lângă vârf, închizându-se spre brun-roșcat către bază odată cu vârsta sau la atingere. Suprafața este acoperită fin cu o pruină albicioasă, mai ales la exemplarele tinere, și poate exsuda picături minuscule lângă vârf pe vreme umedă; piciorul nu are inel, iar baza este învelită într-o pâslă miceliană albă și fină.",
+        "flesh": "Foarte subțire, fragilă și lipsită de consistență, cenușiu-palidă până la crem sau brun-gălbui, neschimbătoare la tăiere. Gustul este blând și nedefinit; mirosul este slab sau ușor condimentat, devenind uneori ușor înțepător la baza piciorului.",
+        "sporePrint": "Neagră până la brun-negricioasă închisă. Sporii măsoară 11–18,5 × 7–12 × 7–9,5 µm (de obicei 12–18 × 7–10 µm), sunt netezi, elipsoidali până la limoniformi văzuți din față și ușor aplatizați din profil, cu un por germinativ apical proeminent; sunt dextrinoizi și nu se decolorează în acid sulfuric concentrat.",
+        "habitat": "Coprofilă și saprotrofă, fructifică solitar, gregar sau în mici buchete direct pe bălegar degradat de cal, vacă sau elan și pe soluri puternic îngrășate în pășuni, pajiști și în jurul grămezilor vechi de gunoi de grajd, apărând adesea după ce bălegarul s-a descompus parțial și a fost acoperit de iarbă. În Europa temperată fructifică din mai până în noiembrie, iar în America de Nord apare din primăvară până în toamnă, persistând și iarna în climatele mai blânde.",
+        "uses": "Necomestibil. Corpurile de fructificație sunt prea subțiri și lipsite de consistență pentru a avea valoare culinară, cresc pe bălegar și există relatări contradictorii privind urme de compuși psihoactivi, precum și riscul de confuzie cu specii înrudite cu adevărat toxice sau care conțin psilocibină.",
+        "confusion": "Panaeolus semiovatus este mai mare și mai robustă, cu pălărie vâscoasă galben-crem palidă și un inel membranos clar pe picior. Protostropharia semiglobata fructifică tot pe bălegar, dar are pălărie emisferică mucilaginoasă galben-ocru, inel trecător pe picior și amprentă sporală brun-purpurie în loc de neagră. Panaeolus fimicola și Panaeolus acuminatus nu au resturi albe dentiforme ale vălului pe marginea pălăriei și prezintă pălării mai închise la culoare, brun-închis, mai pronunțat higrofane. Panaeolus olivaceus are o pălărie puternic higrofană cu nuanță măslinie, fără dințișori de văl pe margine, în timp ce speciile de Psilocybe care cresc pe bălegar sau în pășuni au de obicei o cuticulă gelatinoasă separabilă, se albăstresc la lovire și produc o amprentă sporală brun-purpurie, nu negru-intens.",
+        "notes": "Mai mulți taxoni tratați anterior ca specii separate — inclusiv forme cu pălărie zbârcit-reticulată și forme campanulate mai palide — sunt reuniți astăzi în această singură specie variabilă, alături de o varietate cu spori mai mici, lipsită de fragmente marginale ale vălului. La fel ca alți reprezentanți ai genului său, corpurile de fructificație conțin serotonină, uree și triptofan; deși prezența psilocibinei a fost uneori presupusă, analizele chimice ale materialului european nu au confirmat alcaloizi halucinogeni."
+      },
+      "ru": {
+        "description": "Небольшой хрупкий сапротрофный пластинчатый гриб, плодоносящий одиночно или небольшими группами на старом помете травоядных и обильно унавоженной пастбищной почве. Космополитный вид, отсутствующий лишь в Антарктиде; широко распространен и обычен в Европе, Северной Америке, Азии, Южной Америке, Африке и Австралазии везде, где на выпасных пастбищах и лугах имеется перепревший навоз.",
+        "cap": "Диаметром 1–5 см, у молодых плодовых тел почти шаровидная или тупоконическая, с возрастом раскрывающаяся до колокольчатой или ширококолокольчатой и редко уплощающаяся, иногда с небольшим центральным бугорком. В сухую погоду поверхность гладкая или шелковистая, во влажную становится слегка клейкой; при подсыхании иногда радиально растрескивается или покрывается выпуклой сеткой морщин. Слабогигрофанная или негигрофанная, бледно-серая, буровато-серая, оливково-бурая или красновато-бурая в центре, при высыхании светлеющая до бледно-серой или беловатой. Слегка подогнутый или опущенный край характерно украшен мелкими белыми треугольными зубчиками — остатками частного покрывала, однако они хрупкие и с возрастом нередко опадают. Под действием гидроксида калия (KOH) поверхность шляпки окрашивается в тусклый оранжеватый цвет.",
+        "hymenium": "Пластинки частые или очень частые, широкие, вздутые, восходяще-приросшие или узкоприросшие, в зрелости иногда отделяющиеся от ножки. В молодости бледно-серые, они вскоре приобретают характерную пеструю серо-угольно-черную окраску из-за неравномерного созревания спор на их поверхности, а с возрастом становятся почти целиком черноватыми, сохраняя тонкий беловатый мелкохлопьевидный край. Базидии резко булавовидные, четырехспоровые; хейлоцистиды многочисленные, почти цилиндрические до почти волосовидных, часто с головчатой или слегка расширенной вершиной; плевроцистиды отсутствуют.",
+        "stipe": "Высотой 4–12 см (изредка до 14–16 см) и толщиной 0,2–0,5 см (изредка 0,1–0,8 см), цилиндрическая, ровная или слегка расширенная у вершины и в основании, хрупкая и полая. Окрашена в бледно-серый или серовато-бурый цвет под стать шляпке, более светлая и тонкоштриховатая в верхней части, с возрастом или при прикосновении темнеющая к основанию до красновато-бурой. Поверхность покрыта тонким беловатым мучнистым налетом, особенно у молодых грибов, и в сырую погоду может выделять крошечные капельки у вершины; кольца на ножке нет, а основание окутано тонким белым мицелиальным войлоком.",
+        "flesh": "Очень тонкая, хрупкая и водянисто-неплотная, бледно-сероватая до кремовой или охристо-буроватой, на срезе цвет не меняет. Вкус мягкий, невыразительный; запах слабый или едва пряный, иногда слегка резковатый в основании ножки.",
+        "sporePrint": "От черного до темно-черновато-бурого. Споры 11–18,5 × 7–12 × 7–9,5 мкм (обычно 12–18 × 7–10 мкм), гладкие, эллипсоидные или лимоновидные в фас и слегка уплощенные в профиль, с хорошо заметной апикальной порой прорастания; декстриноидные и не обесцвечиваются в концентрированной серной кислоте.",
+        "habitat": "Копрофильный сапротроф, плодоносящий одиночно, группами или небольшими пучками непосредственно на перепревшем конском, коровьем или лосином помете, а также на сильно унавоженной почве пастбищ, лугов и возле старых навозных куч, нередко появляясь после частичного разложения навоза и зарастания его травой. В умеренной зоне Европы плодоносит с мая по ноябрь, а в Северной Америке — с весны до осени, сохраняясь и зимой в регионах с более мягким климатом.",
+        "uses": "Несъедобный. Плодовые тела слишком тонкие и мелкие, чтобы представлять кулинарную ценность, растут на навозе, к тому же имеются противоречивые сведения о следовых количествах психоактивных веществ и существует риск спутать их с действительно ядовитыми или содержащими псилоцибин родственными видами.",
+        "confusion": "Panaeolus semiovatus крупнее и крепче, отличается бледной кремово-желтой клейкой шляпкой и отчетливым пленчатым кольцом на ножке. Protostropharia semiglobata также растет на навозе, но имеет слизистую охристо-желтую полушаровидную шляпку, быстро исчезающее кольцо на ножке и пурпурно-бурый, а не черный споровый порошок. У Panaeolus fimicola и Panaeolus acuminatus отсутствуют белые зубчатые остатки покрывала по краю шляпки, а сами шляпки более темно-бурые и сильнее гигрофанные. Panaeolus olivaceus имеет сильно гигрофанную шляпку с оливковым оттенком без зубчиков покрывала по краю, тогда как навозные и пастбищные виды рода Psilocybe обычно обладают желатинозной отделяющейся кожицей, синеют при повреждении и дают пурпурно-бурый, а не угольно-черный споровый порошок.",
+        "notes": "Несколько таксонов, ранее рассматривавшихся как самостоятельные виды — включая формы с морщинисто-сетчатой шляпкой и более бледные колокольчатые формы, — ныне объединены в пределах этого одного изменчивого вида наряду с мелкоспоровой разновидностью без остатков покрывала по краю шляпки. Как и у других представителей рода, в плодовых телах содержатся серотонин, мочевина и триптофан; хотя иногда упоминалось возможное наличие псилоцибина, химические анализы европейского материала не подтвердили присутствия галлюциногенных алкалоидов."
+      },
+      "sl": {
+        "description": "Majhna, krhka, saprotrofna lističarka, ki raste posamično ali v majhnih skupinah na preperelih iztrebkih rastlinojedcev in močno pognojeni zemlji pašnikov. Razširjena je kozmopolitsko povsod razen na Antarktiki, pogosta v Evropi, Severni Ameriki, Aziji, Južni Ameriki, Afriki in Avstralaziji, kjer koli pašni travniki in pašniki nudijo uležan gnoj.",
+        "cap": "Premera 1–5 cm, v mladosti skoraj okrogel do topo stožčast, s starostjo se razpre v zvonastega ali široko zvonastega in se le redko splošči, občasno z majhno osrednjo grbico. Suha površina je gladka do svilnata, v mokrem postane rahlo lepljiva, v suhem vremenu pa včasih žarkasto razpoka ali razvije dvignjeno mrežasto nagubanost. Je šibko higrofan do nehigrofan, obarvan bledo sivo, rjavkasto sivo, olivno rjavo ali rdečkasto rjavo na temenu, pri sušenju pa obledi v svetlejše sivkasto do belkasto barvo. Rahlo podvihan do upognjen rob je značilno obrobljen z drobnimi, belimi, zobčastimi trikotnimi ostanki delnega zastirala, vendar so ti krhki in s starostjo pogosto odpadejo. Kalijev hidroksid (KOH) obarva površino klobuka motno oranžkasto.",
+        "hymenium": "Gosti do zelo gosti, široki, trebušasti lističi, ki so vzpenjajoče priraščeni do pripeti in se v zrelosti včasih ločijo od beta. V mladosti so bledo sivkasti, kmalu pa postanejo značilno lisasto sivi in ogljeno črni, ker trosi na ploskvah lističev dozorevajo neenakomerno, v starosti pa v celoti počrnijo, pri čemer ohranijo tanke belkaste, drobno kosmičaste ostrinke. Bazidiji so nenadoma kijasti in štiritrosni; heilocistide so številne, skoraj valjaste do skoraj lasaste ter pogosto skoraj glavičaste ali glavičaste; plevrocistid ni.",
+        "stipe": "Visok 4–12 cm (občasno doseže 14–16 cm) in debel 0,2–0,5 cm (občasno 0,1–0,8 cm), valjast, enakomerno debel ali rahlo odebeljen pri vrhu in v dnišču, krhek in votel. Obarvan je bledo sivo do sivkasto rjavo kot klobuk, pri vrhu je svetlejši in fino nažlebkan, proti dnišču pa s starostjo ali ob dotiku potemni v rdečkasto rjavo. Površina je fino prekrita z belkastim poprhom, zlasti v mladosti, v vlažnem vremenu pa lahko pri vrhu izloča drobne kapljice; obročka na betu ni, dnišče pa je prekrito s finim belim micelijskim polstom.",
+        "flesh": "Zelo tanko, krhko in neizdatno, bledo sivkasto do smetanasto ali rjavkasto, na prerezu nespremenljivo. Okus je blag in neizrazit; vonj je blag ali rahlo začimben, v dnišču beta pa včasih postane rahlo oster.",
+        "sporePrint": "Črn do temno črnorjav. Trosi merijo 11–18,5 × 7–12 × 7–9,5 µm (običajno 12–18 × 7–10 µm), so gladki, elipsoidni do limonasti v čelnem pogledu in rahlo sploščeni v stranskem pogledu, z izrazito vršno kalitveno poro; so dekstrinoidni in se v koncentrirani žveplovi kislini ne razbarvajo.",
+        "habitat": "Koprofilna in saprotrofna vrsta, ki raste posamično, družabno ali v majhnih šopih neposredno na preperelih konjskih, kravjih ali losovih iztrebkih ter na močno pognojeni zemlji na pašnikih, travnikih in okoli starih gnojišč, pri čemer se pogosto pojavi, ko so iztrebki že delno razgrajeni in poraščeni s travo. V zmerni Evropi uspeva od maja do novembra, medtem ko se v Severni Ameriki pojavlja od pomladi do jeseni, v milejših podnebjih pa vztraja tudi čez zimo.",
+        "uses": "Neuživna. Trosnjaki so pretanki in premalo mesnati, da bi imeli kulinarično vrednost, rastejo na iztrebkih, poleg tega pa obstajajo nasprotujoča si poročila o sledovih psihoaktivnih snovi ter tveganje zamenjave z resnično strupenimi sorodniki ali vrstami, ki vsebujejo psilocibin.",
+        "confusion": "Panaeolus semiovatus je večji in čvrstejši, ima bledo smetanasto rumen sluzast klobuk in izrazit kožnat obroček na betu. Protostropharia semiglobata prav tako raste na iztrebkih, vendar ima sluzast okrasto rumen polkroglast klobuk, minljiv obroček na betu ter škrlatno rjav in ne črn trosni prah. Panaeolus fimicola in Panaeolus acuminatus nimata belih zobčastih ostankov zastirala na robu klobuka in imata temnejše rjava, izraziteje higrofana klobuka. Panaeolus olivaceus ima močno higrofan klobuk z olivnim odtenkom brez robnih zobcev zastirala, medtem ko imajo vrste rodu Psilocybe, ki rastejo na iztrebkih ali pašnikih, običajno želatinasto lupljivo kožico klobuka, na poškodovanih mestih pomodrijo in imajo škrlatno rjav namesto smolnato črnega trosnega prahu.",
+        "notes": "Več taksonov, ki so bili nekoč obravnavani kot samostojne vrste — vključno z oblikami z mrežasto nagubanimi klobuki in svetlejšimi zvonastimi oblikami — je danes združenih v to eno samo spremenljivo vrsto, skupaj z drobnotrosno različico brez robnih ostankov zastirala. Tako kot drugi predstavniki tega rodu tudi trosnjaki te vrste vsebujejo serotonin, sečnino in triptofan; čeprav so se občasno pojavljale govorice o prisotnosti psilocibina, kemične analize evropskega materiala halucinogenih alkaloidov niso potrdile."
+      },
+      "sr": {
+        "description": "Мала, крхка, сапротрофна листићавка која плодоноси појединачно или у малим групама на одстајалом измету биљоједа и јако нађубреном земљишту пашњака. Космополитска је врста изван Антарктика, широко распрострањена и честа широм Европе, Северне Америке, Азије, Јужне Америке, Африке и Аустралазије, где год пашњаци и ливаде пружају одстајали стајњак.",
+        "cap": "Пречника 1–5 cm, у младости готово лоптаст до тупо купаст, са старошћу се шири у звонаст или широко звонаст облик и ретко се спљошти, повремено са малом средишњом брадавицом. Сува површина је глатка до свиленкаста, по влажном времену постаје благо лепљива, а за сувог времена понекад радијално пуца или развија издигнуту мрежасту набораност. Слабо хигрофан до нехигрофан, обојен бледосиво, смеђесиво, маслинастосмеђе или црвенкастосмеђе на темену, при сушењу бледи у светлије сивкасте до беличасте тонове. Благо подвијен до повијен руб карактеристично је оивичен ситним, белим, зупчастим троугластим остацима делимичног вела, мада су они крхки и са старошћу често отпадају. Калијум-хидроксид (KOH) боји површину шешира загасито наранџасто.",
+        "hymenium": "Густи до збијени, широки, трбушасти листићи, узлазно прирасли до прирасли, који се у зрелости понекад одвајају од дршке. У младости су бледосивкасти, али убрзо постају карактеристично пегаво сиви и угљеноцрни јер споре неравномерно сазревају по површинама листића, а у старости у целини поцрне задржавајући фине беличасте, ситно пахуљасте оштрице. Базидије су нагло батинасте и четвороспорне; хеилоцистиде су бројне, готово ваљкасте до готово длаколике и често готово главичасте или главичасте; плеуроцистиде недостају.",
+        "stipe": "Висине 4–12 cm (повремено достиже 14–16 cm) и дебљине 0,2–0,5 cm (повремено 0,1–0,8 cm), ваљкаст, подједнаке дебљине или благо проширен при врху и у основи, крхак и шупаљ. Обојен је бледосиво до сивкастосмеђе попут шешира, светлији је и фино уздужно пругаст при врху, а према основи са старошћу или на додир тамни у црвенкастосмеђу боју. Површина је фино прекривена беличастим ињастим прахом, нарочито у младости, а по влажном времену при врху може излучивати ситне капљице; прстена на дршци нема, а основа је обложена финим белим мицелијским филцом.",
+        "flesh": "Веома танко, крхко и оскудно, бледосивкасто до крем или бледосмеђе, непроменљиво на пресеку. Укус је благ и неизразит; мирис је благ или слабо зачински, а при основи дршке понекад постаје благо оштар.",
+        "sporePrint": "Црн до тамно црносмеђ. Споре мере 11–18,5 × 7–12 × 7–9,5 µm (уобичајено 12–18 × 7–10 µm), глатке су, елипсоидне до лимунолике у предњем погледу и благо спљоштене у бочном погледу, са израженом вршном клијавом пором; декстриноидне су и не губе боју у концентрованој сумпорној киселини.",
+        "habitat": "Копрофилна и сапротрофна врста која плодоноси појединачно, у групама или у малим бусенима директно на одстајалом коњском, крављем или лосовом измету и на јако нађубреном земљишту на пашњацима, ливадама и око старих ђубришта, често се појављујући након што се измет делимично разградио и обрастао травом. У умереној Европи плодоноси од маја до новембра, док се у Северној Америци појављује од пролећа до јесени, а у блажим климама опстаје и током зиме.",
+        "uses": "Нејестива. Плодоносна тела су претанка и преоскудна да би имала кулинарску вредност, расту на измету и прате их противречни извештаји о траговима психоактивних једињења, као и ризик замене са заиста отровним сродницима или врстама које садрже псилоцибин.",
+        "confusion": "Panaeolus semiovatus је већи и снажнији, са бледим кремжутим слузавим шеширом и јасним опнастим прстеном на дршци. Protostropharia semiglobata такође плодоноси на измету, али има слузав окержути полулоптасти шешир, пролазан прстен на дршци и љубичастосмеђи уместо црног отиска спора. Panaeolus fimicola и Panaeolus acuminatus немају беле зупчасте остатке вела на рубу шешира и имају тамније смеђе, јаче хигрофане шешире. Panaeolus olivaceus има јако хигрофан шешир са маслинастом нијансом без рубних зубаца вела, док врсте рода Psilocybe које расту на измету или пашњацима обично имају желатинозну одвојиву кожицу шешира, поплаве на додир и дају љубичастосмеђи уместо угљеноцрног отиска спора.",
+        "notes": "Неколико таксона који су се некада сматрали засебним врстама — укључујући облике са мрежасто набораним шеширима и светлије звонасте облике — данас је обједињено у ову једну променљиву врсту, заједно са ситноспорним варијететом без рубних остатака вела. Као и други припадници њеног рода, плодоносна тела садрже серотонин, уреу и триптофан; иако се повремено нагађало о присуству псилоцибина, хемијске анализе европског материјала нису потврдиле халуциногене алкалоиде."
+      },
+      "sv": {
+        "description": "En liten, skör, saprotrof skivling som växer enstaka eller i små grupper på vittrad spillning från växtätare och kraftigt gödslad betesmark. Kosmopolitisk utanför Antarktis är den vida spridd och vanlig i Europa, Nordamerika, Asien, Sydamerika, Afrika och Australasien, där den förekommer överallt där betade hagar och ängar erbjuder äldre gödsel.",
+        "cap": "1–5 cm bred, nästan klotrund till trubbigt kägelformad som ung, med åldern utbredd till klockformad eller brett klockformad och sällan utplanad, ibland med en liten central puckel. Den torra ytan är slät till silkeslen, blir lätt klibbig i fuktigt väder och spricker ibland radiellt eller bildar ett upphöjt nätverk av rynkor i torrt väder. Svagt till icke hygrofan, färgad blekgrå, brungrå, olivbrun eller rödbrun i mitten och bleknande till ljusare gråaktig eller vitaktig vid torka. Den lätt inböjda till nedböjda kanten är karakteristiskt fransad med små, vita, tandliknande, trekantiga rester av hyllet, men dessa är sköra och faller ofta av med åldern. Kaliumhydroxid (KOH) färgar hattytan matt orangeaktig.",
+        "hymenium": "Täta till mycket täta, breda, bukiga skivor som är uppstigande vidväxta till urnupna och ibland lossnar från foten vid mognad. Blekgrå som unga blir de snart karakteristiskt brokiga i grått och kolsvart allteftersom sporerna mognar ojämnt över skivytorna, för att med åldern bli helt svartaktiga samtidigt som de behåller fina vitaktiga, fint fnasiga eggar. Basidierna är tvärt klubblika och fyrsporiga; cheilocystider är rikliga, nästan cylindriska till nästan hårlika och ofta svagt huvudlika eller huvudlika; pleurocystider saknas.",
+        "stipe": "4–12 cm hög (ibland upp till 14–16 cm) och 0,2–0,5 cm tjock (ibland 0,1–0,8 cm), cylindrisk, jämntjock eller svagt vidgad vid toppen och basen, skör och ihålig. Färgad blekgrå till gråbrun likt hatten, ljusare och fint strimmig nära toppen, och mörknande till rödbrun mot basen med åldern eller vid beröring. Ytan är fint täckt av vitaktigt mjöligt puder, särskilt som ung, och kan utsöndra små droppar nära toppen i fuktigt väder; ring saknas, och fotbasen är klädd i fint vitt mycelfilt.",
+        "flesh": "Mycket tunt, skört och obetydligt, blekgrått till gräddvitt eller ljust gulbrunt, och oföränderligt vid snitt. Smaken är mild och intetsägande; lukten är mild eller svagt kryddig och kan ibland bli lätt stickande vid fotbasen.",
+        "sporePrint": "Svart till mörkt svartbrunt. Sporerna är 11–18,5 × 7–12 × 7–9,5 µm (vanligen 12–18 × 7–10 µm), släta, ellipsoida till citronformade framifrån och lätt tillplattade från sidan, med en tydlig apikal groddpor; de är dextrinoida och avfärgas inte i koncentrerad svavelsyra.",
+        "habitat": "Koprofil och saprotrof, växande enstaka, sällskapligt eller i små tuvor direkt på vittrad häst-, ko- eller älgspillning samt på starkt gödslad jord på betesmarker, ängar och kring gamla gödselhögar, ofta när spillningen delvis brutits ned och vuxit igen med gräs. I tempererade Europa bildar den fruktkroppar från maj till november, medan den i Nordamerika uppträder från vår till höst och dröjer kvar över vintern i mildare klimat.",
+        "uses": "Oätlig. Fruktkropparna är alltför tunna och obetydliga för att ha kulinariskt värde, växer på spillning och har motstridiga uppgifter om spår av psykoaktiva ämnen, liksom risk för förväxling med verkligt giftiga eller psilocybinhaltiga släktingar.",
+        "confusion": "Panaeolus semiovatus är större och kraftigare, med blekt gräddgul, klibbig hatt och en tydlig hinnartad ring på foten. Protostropharia semiglobata växer också på spillning men har slemmig ockragul, halvklotformad hatt, en förgänglig fotring och purpurbrunt i stället för svart sporavtryck. Panaeolus fimicola och Panaeolus acuminatus saknar vita tandlika hyllesrester i hattkanten och har mörkare bruna, mer utpräglat hygrofana hattar. Panaeolus olivaceus har en starkt hygrofan, olivtonad hatt utan hylleständer i kanten, medan Psilocybe-arter på spillning eller betesmark typiskt har en geléartad, avdragbar hatthud, blånar vid beröring och ger purpurbrunt i stället för kolsvart sporavtryck.",
+        "notes": "Flera taxa som tidigare behandlades som egna arter – däribland former med nätrynkiga hattar och blekare klockformade former – förenas numera inom denna enda variabla art, tillsammans med en småsporig varietet som saknar hyllesrester i hattkanten. Liksom andra medlemmar i släktet innehåller fruktkropparna serotonin, urea och tryptofan; även om psilocybin ibland har omtalats ryktesvis har kemiska analyser av europeiskt material inte bekräftat hallucinogena alkaloider."
+      },
+      "tr": {
+        "description": "Eskimiş otçul dışkısı ve yoğun gübrelenmiş mera toprağı üzerinde tek tek veya küçük gruplar hâlinde meyve veren küçük, kırılgan, saprotrof bir lamelli mantardır. Antarktika dışında kozmopolit olup Avrupa, Kuzey Amerika, Asya, Güney Amerika, Afrika ve Avustralasya genelinde yaygın ve sıktır; otlatılan meralar ile çayırların eskimiş gübre barındırdığı her yerde görülür.",
+        "cap": "1–5 cm çapında, gençken neredeyse küresel ile küt konik arası şekildedir; yaşlandıkça çan biçimine veya geniş çan biçimine açılır, nadiren düzleşir ve bazen merkezde küçük bir çıkıntı taşır. Kuru yüzeyi pürüzsüz ile ipeksi arasındadır, ıslakken hafif yapışkanlaşır ve kurak havalarda ışınsal olarak çatlayabilir veya kabarık ağsı bir kırışıklık dokusu oluşturabilir. Zayıf higrofan ile higrofan olmayan arası özellikteki şapka soluk gri, kahverengimsi gri, zeytin kahverengisi veya merkezde kızılımsı kahverengi renktedir; kurudukça daha soluk grimsi veya beyazımsı bir tona açılır. Hafifçe içe veya aşağı kıvrık kenarı, kısmi peçenin küçük, beyaz, diş benzeri üçgen kalıntılarıyla karakteristik biçimde saçaklıdır; ancak bu kalıntılar kırılgandır ve yaşla birlikte sıkça dökülür. Potasyum hidroksit (KOH) şapka yüzeyini mat turuncumsu renge dönüştürür.",
+        "hymenium": "Sık ile çok sık arası, geniş ve karınlı lameller yukarı doğru sapa genişçe veya darca bağlanır ve olgunlukta bazen saptan ayrılır. Gençken soluk grimsi olan lameller, sporların lamel yüzeylerinde düzensiz olgunlaşmasıyla kısa sürede belirgin biçimde gri ve kömür siyahı alacalı bir görünüm alır; yaşlandıkça ince, beyazımsı ve ince pamuksu kenarlarını koruyarak genel olarak siyahımsı renge döner. Bazidiyumlar aniden çomak biçimli ve dört sporludur; keilosistitler bol, silindirik altı ile neredeyse kıl benzeri arası yapıda ve çoğunlukla yarı başlıklı veya başlıklıdır; pleurosistitler bulunmaz.",
+        "stipe": "4–12 cm uzunluğunda (bazen 14–16 cm'ye ulaşır) ve 0,2–0,5 cm kalınlığında (bazen 0,1–0,8 cm), silindirik, eşit kalınlıkta veya tepe ile tabanda hafifçe genişlemiş, kırılgan ve içi boştur. Şapka gibi soluk gri ile grimsi kahverengi arası renktedir; tepede daha soluk ve ince çizgilidir, yaşlandıkça veya dokunulduğunda tabana doğru kızılımsı kahverengiye koyulaşır. Yüzeyi özellikle gençken ince, beyazımsı, pudramsı bir örtüyle kaplıdır ve nemli havalarda üst kısma yakın yerde minik damlacıklar salgılayabilir; sap halkası yoktur ve tabanı ince beyaz misel keçesiyle kaplıdır.",
+        "flesh": "Çok ince, kırılgan ve cılız, soluk grimsi ile krem veya açık ten kahverengisi arası renktedir ve kesildiğinde renk değiştirmez. Tadı hafif ve belirgin değildir; kokusu hafif veya belli belirsiz baharatlıdır, sap tabanında bazen hafifçe keskinleşebilir.",
+        "sporePrint": "Siyah ile koyu siyahımsı kahverengi arasıdır. Sporlar 11–18,5 × 7–12 × 7–9,5 µm (genellikle 12–18 × 7–10 µm) boyutunda, pürüzsüz, önden bakıldığında elipsoit ile limon biçimli arası ve yandan hafifçe yassılaşmış olup belirgin bir tepe çimlenme gözeneğine sahiptir; dekstrinoid özelliktedir ve derişik sülfürik asitte renk kaybetmez.",
+        "habitat": "Koprofil ve saprotrof olup doğrudan eskimiş at, inek veya sığın dışkısı üzerinde ve otlatılan meralarda, çayırlarda ve eski gübre yığınlarının çevresindeki yoğun gübrelenmiş toprakta tek tek, dağınık gruplar hâlinde veya küçük kümeler oluşturarak gelişir; çoğu zaman dışkı kısmen ayrışıp otlarla kaplandıktan sonra ortaya çıkar. Ilıman Avrupa'da mayıstan kasıma kadar meyve verirken, Kuzey Amerika'da ilkbahardan sonbahara kadar görülür ve daha ılıman iklimlerde kış boyunca da varlığını sürdürür.",
+        "uses": "Yenmez. Meyve gövdeleri mutfak değeri taşıyamayacak kadar ince ve cılızdır, dışkı üzerinde büyür ve eser miktarda psikoaktif bileşik içerdiğine dair çelişkili bildirimler taşır; ayrıca gerçek anlamda zehirli veya psilosibin içeren yakın türlerle karıştırılma riski vardır.",
+        "confusion": "Panaeolus semiovatus daha büyük ve sağlam yapılıdır; soluk krem sarısı yapışkan bir şapkaya ve sap üzerinde belirgin zarsı bir halkaya sahiptir. Protostropharia semiglobata da dışkı üzerinde meyve verir ancak kaygan aşı sarısı yarım küresel şapkası, geçici sap halkası ve siyah yerine morumsu kahverengi spor iziyle ayrılır. Panaeolus fimicola ve Panaeolus acuminatus türlerinde şapka kenarında beyaz diş benzeri peçe kalıntıları bulunmaz ve şapkaları daha koyu kahverengi, daha güçlü higrofandır. Panaeolus olivaceus kenar peçe dişleri olmayan, güçlü higrofan zeytin tonlu bir şapkaya sahiptir; dışkıda veya meralarda yetişen Psilocybe türleri ise tipik olarak jelatinimsi ayrılabilir bir üst zara sahiptir, zedelendiğinde maviye döner ve simsiyah yerine mor-kahverengi spor izi bırakır.",
+        "notes": "Eskiden ayrı türler olarak ele alınan çeşitli taksonlar — kırışık ağsı şapkalı formlar ve daha soluk çan biçimli formlar dâhil — bugün kenar peçe parçalarından yoksun daha küçük sporlu bir varyete ile birlikte bu tek değişken tür altında birleştirilmiştir. Cinsinin diğer üyeleri gibi meyve gövdeleri serotonin, üre ve triptofan içerir; zaman zaman psilosibin varlığına dair söylentiler dolaşsa da Avrupa materyali üzerinde yapılan kimyasal analizler halüsinojenik alkaloitlerin varlığını doğrulamamıştır."
+      },
+      "uk": {
+        "description": "Невеликий крихкий сапротрофний пластинчастий гриб, що плодоносить поодиноко або невеликими групами на перепрілому посліді травоїдних і рясно угноєному пасовищному ґрунті. Космополітний вид, відсутній лише в Антарктиді; широко поширений і звичайний у Європі, Північній Америці, Азії, Південній Америці, Африці та Австралазії всюди, де на пасовищах і луках трапляється перепрілий гній.",
+        "cap": "Діаметром 1–5 см, у молодому віці майже куляста або тупоконічна, з віком розкривається до дзвоникоподібної чи широкодзвоникоподібної і рідко стає пласкою, іноді має невеликий центральний горбик. У суху погоду поверхня гладенька або шовковиста, у вологу стає злегка липкою, а під час посухи інколи радіально розтріскується або вкривається рельєфною сіткою зморшок. Слабкогігрофанна або негігрофанна, блідо-сіра, бурувато-сіра, оливково-бура чи червонувато-бура в центрі, під час висихання світлішає до блідо-сіруватої або білуватої. Злегка підігнутий або опущений край характерно облямований дрібними білими трикутними зубчиками — залишками часткового покривала, проте вони крихкі й з віком часто опадають. Під дією гідроксиду калію (KOH) поверхня шапинки набуває тьмяного помаранчевого відтінку.",
+        "hymenium": "Пластинки густі або дуже густі, широкі, пузаті, висхідно-прирослі чи вузькоприрослі, у зрілості іноді відокремлюються від ніжки. Блідо-сіруваті в молодості, вони швидко стають характерно плямистими — сірими та вугільно-чорними внаслідок нерівномірного дозрівання спор на їхній поверхні, а з віком чорніють майже цілком, зберігаючи тонкий білуватий дрібнопластівчастий край. Базидії різко булавоподібні, чотириспорові; хейлоцистиди численні, майже циліндричні до майже волосоподібних, часто головчасті або злегка розширені на верхівці; плевроцистиди відсутні.",
+        "stipe": "Заввишки 4–12 см (зрідка до 14–16 см) і завтовшки 0,2–0,5 см (зрідка 0,1–0,8 см), циліндрична, рівна або злегка розширена біля верхівки та в основі, крихка і порожниста. Забарвлена в блідо-сірий чи сірувато-бурий колір, як і шапинка, світліша й тонкоштрихувата біля верхівки, з віком або від дотику темнішає до червонувато-бурого біля основи. Поверхня вкрита тонким білуватим борошнистим нальотом, особливо у молодих плодових тіл, і у вологу погоду може виділяти крихітні крапельки біля верхівки; кільця на ніжці немає, а основа вкрита тонким білим міцеліальним повстяним нальотом.",
+        "flesh": "Дуже тонка, крихка і малощільна, блідо-сірувата до кремової або вохристо-буруватої, на зрізі кольору не змінює. Смак м'який, невиразний; запах слабкий або ледь пряний, інколи стає злегка різким в основі ніжки.",
+        "sporePrint": "Від чорного до темно-чорнувато-бурого. Спори 11–18,5 × 7–12 × 7–9,5 мкм (зазвичай 12–18 × 7–10 мкм), гладенькі, еліпсоїдні або лимоноподібні спереду та злегка сплющені збоку, з виразною апікальною порою проростання; декстриноїдні й не знебарвлюються в концентрованій сірчаній кислоті.",
+        "habitat": "Копрофільний сапротроф, що плодоносить поодиноко, групами або невеликими пучками безпосередньо на перепрілому кінському, коров'ячому чи лосиному посліді та на сильно угноєному ґрунті пасовищ, лук і поблизу старих гнойових куп, часто з'являючись після часткового розкладання гною та заростання його травою. У помірній зоні Європи плодоносить із травня по листопад, тоді як у Північній Америці трапляється з весни до осені, а в регіонах із м'якшим кліматом — також узимку.",
+        "uses": "Неїстівний. Плодові тіла надто тонкі й дрібні, щоб мати кулінарну цінність, ростуть на гної, а також існують суперечливі повідомлення щодо слідових кількостей психоактивних сполук і ризик сплутати їх зі справді отруйними або псилоцибіновмісними спорідненими видами.",
+        "confusion": "Panaeolus semiovatus більший і міцніший, має бліду кремово-жовту клейку шапинку та виразне плівчасте кільце на ніжці. Protostropharia semiglobata також росте на гної, але вирізняється слизуватою вохристо-жовтою напівкулястою шапинкою, нестійким кільцем на ніжці та пурпурово-бурим, а не чорним споровим порошком. Panaeolus fimicola та Panaeolus acuminatus не мають білих зубчастих залишків покривала по краю шапинки, а їхні шапинки темніші, бурі та помітно гігрофанніші. Panaeolus olivaceus має сильно гігрофанну шапинку з оливковим відтінком без зубчиків покривала по краю, тоді як види роду Psilocybe, що ростуть на гної або на пасовищах, зазвичай мають желатинозну шкірку, яка легко знімається, синіють при пошкодженні та дають пурпурово-бурий, а не вугільно-чорний споровий порошок.",
+        "notes": "Кілька таксонів, які раніше вважалися окремими видами — зокрема форми зі зморшкувато-сітчастою шапинкою та блідіші дзвоникоподібні форми, — нині об'єднані в межах цього одного мінливого виду поряд із дрібноспоровим різновидом без залишків покривала на краю шапинки. Як і інші представники роду, плодові тіла містять серотонін, сечовину та триптофан; хоча іноді згадували про можливу наявність псилоцибіну, хімічні аналізи європейського матеріалу не підтвердили наявності галюциногенних алкалоїдів."
+      },
+      "zh": {
+        "description": "一種小型、脆弱的腐生傘菌，單生或成小群生長於風化的草食動物糞便及富含糞肥的牧場土壤上。除南極洲外呈世界性分布，在歐洲、北美洲、亞洲、南美洲、非洲及澳大拉西亞廣泛且常見，凡是放牧草場與草地留有陳舊糞肥之處皆可見其蹤跡。",
+        "cap": "直徑1–5 cm，幼時近球形至鈍圓錐形，隨成熟展開為鐘形或寬鐘形，極少平展，偶爾中央具一小乳突。乾燥時表面平滑至絲狀，潮濕時略具黏性，在乾燥天氣下有時會呈放射狀開裂或形成隆起的網狀皺紋。弱吸濕性至非吸濕性，菌蓋中央呈淡灰色、褐灰色、橄欖褐色或紅褐色，乾燥後褪為較淡的灰白色至近白色。略微內捲至下彎的菌蓋邊緣具特徵性的小型白色齒狀三角形內菌幕殘片，但這些殘片十分脆弱，常隨老化而脫落。氫氧化鉀（KOH）會使菌蓋表面轉為暗淡的橘色。",
+        "hymenium": "菌褶密至極密，寬闊且呈腹鼓狀，上彎直生至彎生，成熟時有時與菌柄分離。幼時呈淡灰色，隨著孢子在菌褶表面不均勻成熟，很快呈現特有的灰色與炭黑色斑駁花紋，老化後整體轉為黑褐色至黑色，但仍保留纖細、微白且具細絮狀的褶緣。擔子驟然膨大呈棒狀，具四個孢子；緣生囊狀體豐富，近圓柱形至近毛髮狀，常呈近頭狀或頭狀；無側生囊狀體。",
+        "stipe": "高4–12 cm（偶爾可達14–16 cm），粗0.2–0.5 cm（偶爾0.1–0.8 cm），圓柱形，上下等粗或頂端與基部略微膨大，質脆且中空。色澤與菌蓋相近，呈淡灰色至灰褐色，近頂端較淡並具細條紋，隨老化或觸碰後向基部加深為紅褐色。表面覆有細微的白色粉霜，幼時尤為明顯，潮濕天氣下近頂端可能滲出微小的水滴；無菌環，基部覆有細緻的白色菌絲氈。",
+        "flesh": "極薄、脆弱且單薄，呈淡灰色至奶油色或淺黃褐色，切開後不變色。味道溫和且無特殊風味；氣味溫和或略帶微弱辛香，菌柄基部有時略顯刺鼻。",
+        "sporePrint": "黑色至深黑褐色。孢子大小為11–18.5 × 7–12 × 7–9.5 µm（常見12–18 × 7–10 µm），平滑，正面觀呈橢圓形至檸檬形，側面觀略微扁平，具明顯的頂生發芽孔；具類糊精反應，在濃硫酸中不褪色。",
+        "habitat": "糞生且腐生，單生、群生或成小叢直接生長於風化的馬糞、牛糞或駝鹿糞上，以及放牧牧場、草地與陳舊糞堆周圍富含糞肥的土壤中，常在糞便部分分解並被草叢覆蓋後出現。在溫帶歐洲於5月至11月間出菇，而在北美洲則自春季持續至秋季，在氣候較溫和的地區更可延續至冬季。",
+        "uses": "不可食。子實體過於單薄纖弱而不具食用價值，且生長於糞便之上，關於其是否含微量致幻成分亦存在相互矛盾的報導，此外還有與真正有毒或含裸蓋菇素的近緣種混淆之風險。",
+        "confusion": "Panaeolus semiovatus體型較大且更為粗壯，具淡奶油黃色的黏滑菌蓋，菌柄上帶有明顯的膜質菌環。Protostropharia semiglobata同樣生長於糞便上，但具黏滑的赭黃色半球形菌蓋、易消逝的菌環，且孢子印為紫褐色而非黑色。Panaeolus fimicola與Panaeolus acuminatus的菌蓋邊緣缺乏白色齒狀內菌幕殘片，菌蓋顏色較深褐且吸濕性更強。Panaeolus olivaceus具強吸濕性的橄欖色調菌蓋且邊緣無菌幕齒片；生長於糞便或牧場的Psilocybe屬物種通常具可剝離的膠質表皮，傷處變藍，且產生紫褐色而非漆黑色的孢子印。",
+        "notes": "過去曾被視為獨立物種的多個分類群——包括具網狀皺紋菌蓋的類型及色澤較淡的鐘形類型——如今皆與缺乏邊緣菌幕殘片的小孢子變種一同歸併於此一多變物種之下。與同屬其他成員相似，其子實體含有血清素、尿素與色胺酸；儘管偶有含裸蓋菇素的傳聞，但針對歐洲樣本的化學分析並未證實其含有致幻生物鹼。"
+      }
+    },
+    "synonyms": [
+      {
+        "name": "Agaricus papilionaceus",
+        "author": "Bull.",
+        "rank": "species"
+      },
+      {
+        "name": "Coprinus papilionaceus",
+        "author": "(Bull.) Gray",
+        "rank": "species"
+      },
+      {
+        "name": "Chalymmota papilionacea",
+        "author": "(Bull.) P. Karst.",
+        "rank": "species"
+      },
+      {
+        "name": "Coprinarius papilionaceus",
+        "author": "(Bull.) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Copelandia papilionacea",
+        "author": "(Bull.) Bres.",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus campanulatus",
+        "author": "L.",
+        "rank": "species"
+      },
+      {
+        "name": "Amanita campanulata",
+        "author": "(L.) Roussel",
+        "rank": "species"
+      },
+      {
+        "name": "Panaeolus campanulatus",
+        "author": "(L.) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Chalymmota campanulata",
+        "author": "(L.) P. Karst.",
+        "rank": "species"
+      },
+      {
+        "name": "Coprinarius campanulatus",
+        "author": "(L.) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Psilocybe campanulata",
+        "author": "(L.) Kuntze",
+        "rank": "species"
+      },
+      {
+        "name": "Campanularius campanulatus",
+        "author": "(L.) Earle ex Murrill",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus equinus",
+        "author": "Pers.",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus papilionaceus var. equinus",
+        "author": "Pers.",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus papilionaceus var. major",
+        "author": "Alb. & Schwein.",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus papilionaceus var. stillaris",
+        "author": "Fr.",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus campanulatus var. stillaris",
+        "author": "(Fr.) Sacc.",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus campanulatus",
+        "author": "Fr.",
+        "rank": "species"
+      },
+      {
+        "name": "Galerula campanulata",
+        "author": "(Fr.) S. Imai",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus sphinctrinus",
+        "author": "Fr.",
+        "rank": "species"
+      },
+      {
+        "name": "Panaeolus sphinctrinus",
+        "author": "(Fr.) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Chalymmota sphinctrina",
+        "author": "(Fr.) P. Karst.",
+        "rank": "species"
+      },
+      {
+        "name": "Coprinarius campanulatus var. sphinctrinus",
+        "author": "(Fr.) Quél.",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus campanulatus var. sphinctrinus",
+        "author": "(Fr.) Quél.",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus retirugis",
+        "author": "Fr.",
+        "rank": "species"
+      },
+      {
+        "name": "Panaeolus retirugis",
+        "author": "(Fr.) Gillet",
+        "rank": "species"
+      },
+      {
+        "name": "Coprinarius campanulatus var. retirugis",
+        "author": "(Fr.) Quél.",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus campanulatus var. retirugis",
+        "author": "(Fr.) Costantin & L.M. Dufour",
+        "rank": "variety"
+      },
+      {
+        "name": "Chalymmota retirugis",
+        "author": "(Fr.) Henn.",
+        "rank": "species"
+      },
+      {
+        "name": "Panaeolus papilionaceus var. retirugis",
+        "author": "(Fr.) Gminder",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus campanulatus var. elatior",
+        "author": "Brunaud",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus retirugis var. elongatus",
+        "author": "Peck",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus retirugis var. elongatus",
+        "author": "Peck",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus papilionaceus var. microsporus",
+        "author": "Speg.",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus campanulatus var. ealaensis",
+        "author": "Beeli",
+        "rank": "variety"
+      },
+      {
+        "name": "Panaeolus papilionaceus var. capitatocystis",
+        "author": "E. Ludw.",
+        "rank": "variety"
+      }
+    ]
   }
 ];
