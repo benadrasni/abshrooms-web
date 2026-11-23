@@ -204454,5 +204454,1987 @@ export const CATALOG = [
     }
   ],
   "reserved": false
+},
+{
+  "id": 201,
+  "name": "Gymnopilus sapineus",
+  "author": "(Fr.) Murrill",
+  "citation": "Mycologia 4(5): 254 (1912)",
+  "family": "Hymenogastraceae",
+  "genus": "Gymnopilus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Hymenogastraceae",
+    "Gymnopilus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Hymenogastraceae",
+    "Gymnopilus"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 9.0,
+  "stipeHeightFrom": 2.5,
+  "stipeHeightTo": 7.0,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "added": "2026-11-23",
+  "label": {
+    "en": "scaly rustgill",
+    "sk": "šupinovec strapkavý",
+    "cs": "plaménka jedlová",
+    "da": "filtet flammehat",
+    "de": "Samtschuppiger Tannen-Flämmling",
+    "et": "samet-tulinutt",
+    "fr": "gymnopile du sapin",
+    "hu": "bársonykalapú lánggomba",
+    "ja": "キツムタケ",
+    "lt": "smulkiažvynė karteklė",
+    "lv": "skujkoku liesmene",
+    "nl": "Vezelige vlamhoed",
+    "no": "fregnebittersopp",
+    "pl": "łysak drobnołuskowy",
+    "ru": "гимнопил сосновый",
+    "sl": "jelkova plamenka",
+    "zh": "欉裸傘"
+  },
+  "names": {
+    "en": [
+      "common and boring gymnopilus"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "гимнопил еловый"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=522061",
+        "detail": "522061"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=522061",
+        "detail": "522061"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2533669",
+        "detail": "2533669"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/3HTGJ"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Gymnopilus_sapineus"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q5624977"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/gymnopilus_sapineus.html"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/gymnopilus-sapineus.php"
+      },
+      {
+        "group": "text",
+        "name": "iNaturalist",
+        "href": "https://www.inaturalist.org/taxa/118302"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Gymnopilus_sapineus"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/%C5%81ysak_drobno%C5%82uskowy",
+        "detail": "Polish"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/B%C3%A1rsonykalap%C3%BA_l%C3%A1nggomba",
+        "detail": "Hungarian"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Vezelige_vlamhoed",
+        "detail": "Dutch"
+      }
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "da": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "de": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "es": [],
+    "et": [
+      "https://www.wikidata.org/wiki/Q5624977"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/B%C3%A1rsonykalap%C3%BA_l%C3%A1nggomba",
+      "https://www.gbif.org/species/2533669"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/118302"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Vezelige_vlamhoed",
+      "https://www.gbif.org/species/2533669"
+    ],
+    "no": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/%C5%81ysak_drobno%C5%82uskowy",
+      "https://www.gbif.org/species/2533669"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/118302"
+    ],
+    "sk": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/2533669"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.inaturalist.org/taxa/118302"
+    ]
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "User-supplied mycological plate (896x1200 JPEG, center-cropped to 800x1200 and LANCZOS-resized 2.0x to 1600x2400 and 400x600 WebP; no compositing or repainting). Shows a mature golden-to-tawny scaly cap on a solid stipe darkening toward the base, a young specimen with yellowish cortina, an underside view of yellow rusty-spotted adnate gills, and a vertical section on decaying conifer wood.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_1.webp",
+      "author": "Nina Filippova",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/15937912"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_2.webp",
+      "author": "mycowalt",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/9590972"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_3.webp",
+      "author": "jlgoch",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/140897611"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_4.webp",
+      "author": "Eli Talhouk",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/96640075"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_5.webp",
+      "author": "Scott Lewis",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/38235458"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus@1600.webp",
+      "basedOn": []
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_1.webp",
+      "author": "Nina Filippova",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/15937912"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_2.webp",
+      "author": "mycowalt",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/9590972"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_3.webp",
+      "author": "jlgoch",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/140897611"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_4.webp",
+      "author": "Eli Talhouk",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/96640075"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Hymenogastraceae/Gymnopilus_sapineus/Gymnopilus_sapineus_5.webp",
+      "author": "Scott Lewis",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/38235458"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر رمّي ذو صفائح، صغير إلى متوسط الحجم، ينمو منفردًا أو في مجموعات متقاربة أو عناقيد صغيرة على أخشاب الصنوبريات المتحللة وأحيانًا على أخشاب الأشجار عريضة الأوراق. ينتشر على نطاق واسع في الغابات المعتدلة والشمالية في أوروبا وأمريكا الشمالية، كما سُجِّل وجوده في أستراليا ونيوزيلندا.",
+      "cap": "يبلغ قطر القبعة ٢–٩ سم (وغالبًا ٢–٨ سم)، وتكون في البداية نصف كروية إلى محدبة، ثم تتفتح لتصبح محدبة عريضة أو شبه مسطحة، وتحتفظ أحيانًا بحدبة مركزية عريضة ومنخفضة. تكون الحافة ملتفة إلى الداخل في البداية ثم تستقيم مع التقدم في العمر، وقد تحمل أحيانًا بقايا نقاب هشة في الأطوار الفتية، وقد تتشقق ليفيًا في الطقس الجاف. السطح الجاف مخملي أو لبادي أو ليفي دقيق في البداية، ثم يتفتت عادةً مع التقدم في العمر إلى حراشف صغيرة ملتصقة بلون بني مغري إلى بني محمر فوق أرضية صفراء ذهبية إلى سمراء أو بنية برتقالية، وتكون أغمق عند المركز وأفتح بلون أصفر كريمي نحو الحافة. يحول هيدروكسيد البوتاسيوم (KOH) سطح القبعة إلى الأحمر الداكن ثم الأسود.",
+      "hymenium": "الصفائح ملتصقة بالساق إلى محزوزة قليلًا، عريضة ومتزاحمة، ذات حواف ملساء إلى زغبية دقيقة. يكون لونها أصفر كريميًا شاحبًا إلى أصفر زاهٍ في الصغر، ثم تظهر عليها بقع بنية صدئة وتتحول بالكامل إلى برتقالي زاهٍ أو بني صدئ مع نضج الأبواغ. البازيدات رباعية الشويكات (٤ شويكات)؛ وتوجد سستيدات حافية (cheilocystidia) وسستيدات جانبية (pleurocystidia) قليلة البروز (مع أن السستيدات الحافية قد تكون متفرقة وغير واضحة في بعض العينات)، كما توجد سستيدات ساقية (caulocystidia) متفرقة إلى موجودة.",
+      "stipe": "يبلغ طول الساق ٢٫٥–٧ سم وسمكها ٠٫٣–١٫٥ سم (وعادةً ٠٫٥–١ سم)، وهي أسطوانية أو مستدقة قليلًا نحو القاعدة، متماسكة ومصمتة ومرنة. لونها أصفر شاحب إلى أصفر مغري مشوب بدرجات لون القبعة، وملساء إلى ليفية طولية دقيقة، وتغمق إلى اللون الأسمر أو البني المحمر من القاعدة نحو الأعلى مع التقدم في العمر أو اللمس، مع غزل فطري قاعدي مبيض إلى مصفر. يوجد في الأجسام الثمرية الفتية نقاب جزئي عنكبوتي هش مصفر (كورتينا) يزول سريعًا، ونادرًا ما يترك حلقة دائمة، بل يترك على الأكثر آثارًا ليفية باهتة في الجزء العلوي من الساق.",
+      "flesh": "اللحم رقيق، لونه أصفر شاحب إلى أصفر برتقالي، ورقيق نسبيًا مقارنة بالأنواع الأكبر حجمًا في الجنس نفسه. الرائحة خفيفة فطرية أو متبلة قليلًا أو حلوة خافتة؛ أما الطعم فمر بوضوح عادةً، وإن كان خفيفًا أحيانًا.",
+      "sporePrint": "طبعة الأبواغ بنية صدئة إلى برتقالية صدئة زاهية. الأبواغ إهليلجية إلى لوزية الشكل، ذات ثآليل واضحة، دكسترينية التفاعل (تتحول إلى البني المحمر في كاشف ميلتسر)، وأبعادها ٦٫٥–١٠٫٥ × ٤–٦ ميكرومتر (وعادةً ٧–٩٫٥ × ٤٫٥–٥٫٥ ميكرومتر).",
+      "habitat": "فطر رمّي ينمو على أخشاب الصنوبريات الميتة والمتحللة—ولا سيما جذوع الصنوبر والتنوب والتنوب النرويجي وأروماتها وفروعها وجذورها وبقايا الخشب المدفونة في فرش الغابة—ونادرًا ما ينمو على أخشاب الأشجار عريضة الأوراق. يثمر منفردًا أو في مجموعات متقاربة أو عناقيد صغيرة من يونيو إلى نوفمبر في معظم أنحاء أوروبا وأمريكا الشمالية، ويمتد إثماره طوال الشتاء (من سبتمبر إلى فبراير) في مناخات البحر الأبيض المتوسط وساحل المحيط الهادئ.",
+      "uses": "غير صالح للأكل بسبب طعمه المر ولحمه الرقيق؛ كما تعده بعض المراجع مشبوهًا أو قد يكون ذا سمية خفيفة.",
+      "confusion": "يشبه إلى حد كبير Gymnopilus penetrans الذي يشترك معه في الموطن ذاته على أخشاب الصنوبريات وفي الحجم والألوان الصفراء إلى الصدئة؛ إذ تتداخل الصفات العيانية بشدة، وغالبًا ما يتطلب التفريق الموثوق فحصًا مجهريًا لخيوط بشرة القبعة (التي يبلغ عرضها غالبًا ٨–١٦ ميكرومتر مع ترسبات خشنة بنية صدئة وخلايا قصيرة منتفخة في هذا النوع، مقابل خيوط أضيق أسطوانية بعرض ٣–١٠ ميكرومتر وأقل ترسبًا في Gymnopilus penetrans) وللسستيدات، إلى جانب ميل Gymnopilus penetrans إلى الإثمار في وقت متأخر من الخريف. أما Gymnopilus junonius فأكبر حجمًا وأكثر امتلاءً بكثير، وينمو أساسًا على أخشاب الأشجار عريضة الأوراق، ويحتفظ بحلقة غشائية دائمة وواضحة على الساق. ويتميز Gymnopilus luteocarneus بقبعة أكثر نعومة وأغمق لونًا. أما Galerina marginata فسام قاتل، وأصغر حجمًا عادةً، وذو قبعة بنية ملساء متغيرة اللون بالرطوبة، ومنطقة حلقية واضحة على ساق فضية ليفية، ورائحة دقيقية. ولدى Phaeolepiota aurea قبعة وأسفل ساق بملمس مسحوقي حبيبي مع حلقة كبيرة متسعة وأبواغ بنية مصفرة أفتح لونًا. كما يمكن لبعض أنواع Pholiota الصغيرة النامية على الخشب والأنواع السمراء من Cortinarius ضمن القسم Callistei أن تبدو متشابهة ظاهريًا.",
+      "notes": "على عكس عدة أنواع تزرقّ عند الكدم ضمن جنسه، لا يزرقّ هذا النوع ولا يحتوي على السيلوسيبين. وقد دار جدل طويل حول الحدود الفاصلة بين الأنواع داخل مجمع Gymnopilus sapineus—ولا سيما بين هذا النوع وGymnopilus penetrans—وترى بعض المعالجات الحديثة صعوبة الفصل بينهما من دون فحص مجهري.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Дребна до средно едра сапротрофна пластинчата гъба, която расте поединично, на групи или на малки туфи върху гниеща иглолистна дървесина и по-рядко върху широколистна. Широко разпространена в умерените и бореалните гори на Европа и Северна Америка, тя е установена и в Австралия и Нова Зеландия.",
+      "cap": "С диаметър 2–9 см (най-често 2–8 см), отначало полукълбеста до изпъкнала, по-късно широко изпъкнала или почти плоска, понякога с ниска, широка централна гърбица. Ръбът отначало е подвит навътре, с възрастта се изправя, при млади плодни тела понякога носи крехки остатъци от покривало, а в сухо време може влакнесто да се напуква. Сухата повърхност първоначално е кадифена, плъстена или фино влакнеста, а с възрастта обикновено се разпада на дребни прилегнали охренокафяви до червеникавокафяви люспици върху златистожълта, жълтокафява или оранжевокафява основа; в средата е по-тъмна, а към ръба по-бледо кремавожълта. Калиевият хидроксид (KOH) оцветява повърхността на гуглата в тъмночервено, а след това в черно.",
+      "hymenium": "Ламелите са прираснали до слабо изрязани, широки и гъсти, с гладък до ситно пухест ръб. При младите гъби са бледо кремавожълти до ярко жълти, като развиват ръждивокафяви петна и при узряването на спорите стават изцяло ярко оранжеви до ръждивокафяви. Базидиите са с 4 стеригми; налични са хейлоцистиди и едва издаващи се плевроцистиди (макар че хейлоцистидите в някои сбирки могат да бъдат оскъдни и незабележими), а каулоцистидите са редки до налични.",
+      "stipe": "Дълго 2,5–7 см и дебело 0,3–1,5 см (обикновено 0,5–1 см), цилиндрично или леко стеснено към основата, твърдо, плътно и жилаво. Бледожълто до жълтеникавоохрено с оттенъци от цвета на гуглата, гладко до фино надлъжно влакнесто, потъмняващо с възрастта или при допир от основата нагоре до жълтокафяво или червеникавокафяво, с белезникав до жълтеникав базален мицел. При младите плодни тела присъства крехко, паяжиновидно жълтеникаво частично покривало (кортина), което изчезва бързо, рядко оставяйки траен пръстен и най-много слаби влакнести следи в горната част на пънчето.",
+      "flesh": "Тънко, бледожълто до жълтеникавооранжево и сравнително крехко в сравнение с по-едрите представители на рода. Миризмата е слаба, гъбена, леко пикантна или едва доловимо сладникава; вкусът обикновено е подчертано горчив, макар понякога да е мек.",
+      "sporePrint": "Ръждивокафяв до ярко ръждивооранжев. Спорите са елипсовидни до бадемовидни, отчетливо брадавичести, декстриноидни (оцветяват се червеникавокафяво в реактива на Мелцер) и са с размери 6,5–10,5 × 4–6 мкм (обикновено 7–9,5 × 4,5–5,5 мкм).",
+      "habitat": "Сапротрофен вид върху мъртва, гниеща иглолистна дървесина — особено върху пънове, стволове, клони, корени и заровени дървесни остатъци от бор, ела и смърч в горската постилка — и само рядко върху широколистна дървесина. Плододава поединично, на групи или на малки туфи от юни до ноември в по-голямата част от Европа и Северна Америка, като в средиземноморския и тихоокеанския крайбрежен климат сезонът се удължава и през зимата (от септември до февруари).",
+      "uses": "Неядлива поради горчивия си вкус и тънкото месо; някои източници я смятат и за съмнителна или потенциално слабо отровна.",
+      "confusion": "Силно наподобява Gymnopilus penetrans, който споделя същото местообитание върху иглолистна дървесина, размери и жълто-ръждиво оцветяване; макроскопските белези силно се припокриват и надеждното разграничаване често изисква микроскопско изследване на хифите на кожицата на гуглата (пилеипелис: при този вид предимно с ширина 8–16 мкм с груби ръждивокафяви инкрустации и подути къси клетки, спрямо по-тесни, 3–10 мкм цилиндрични и по-слабо инкрустирани хифи при Gymnopilus penetrans) и цистидите, наред с тенденцията на Gymnopilus penetrans да плододава по-късно през есента. Gymnopilus junonius е много по-едър и масивен, расте предимно върху широколистна дървесина и запазва ясен, траен ципест пръстен на пънчето. Gymnopilus luteocarneus има по-гладка и по-тъмна гугла. Galerina marginata е смъртоносно отровна, обикновено по-дребна, с гладка хигрофанна кафява гугла, ясна пръстеновидна зона върху сребристовлакнесто пънче и брашняна миризма. Phaeolepiota aurea има прашесто-зърнеста гугла и долна част на пънчето с голям разперен пръстен и по-бледи жълтокафяви спори. Повърхностно могат да наподобяват и дребни дървообитаващи видове Pholiota, както и жълтокафяви видове Cortinarius от секция Callistei.",
+      "notes": "За разлика от няколко посиняващи представители на своя род, този вид не посинява и не съдържа псилоцибин. Видовите граници в комплекса Gymnopilus sapineus — особено между този вид и Gymnopilus penetrans — са предмет на дългогодишни спорове и някои съвременни схващания приемат, че двата вида са трудни за разграничаване без микроскопия.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Malá až středně velká saprotrofní lupenatá houba, která roste jednotlivě, ve skupinách nebo v malých trsech na tlejícím dřevě jehličnanů a vzácněji listnáčů. Je široce rozšířena v lesích mírného a boreálního pásma Evropy a Severní Ameriky a je uváděna také z Austrálie a Nového Zélandu.",
+      "cap": "Klobouk má průměr 2–9 cm (nejčastěji 2–8 cm), v mládí je polokulovitý až sklenutý, postupně se rozprostírá do široce sklenutého až téměř plochého tvaru, někdy si zachovává nízký široký středový hrbol. Okraj je zpočátku podvinutý, stářím se vyrovnává, v mládí může nést křehké zbytky závoje a za suchého počasí někdy vláknitě praská. Suchý povrch je zpočátku sametový, plstnatý nebo jemně vláknitý, stářím se obvykle rozpadá v drobné přitisklé okrově hnědé až červenohnědé šupinky na zlatožlutém až žlutohnědém či oranžovohnědém podkladu, ve středu tmavším a směrem k okraji světlejším krémově žlutým. Hydroxid draselný (KOH) zbarvuje povrch klobouku tmavě červeně a poté černě.",
+      "hymenium": "Lupeny jsou přirostlé až mírně vykrojené, široké a husté, s hladkým až jemně vločkatým ostřím. V mládí jsou světle krémově žluté až jasně žluté, při dozrávání výtrusů se na nich objevují rezavě hnědé skvrny a postupně se celé barví do jasně oranžova až rezavě hněda. Bazidie jsou čtyřvýtrusné; přítomny jsou cheilocystidy a jen nepatrně vyčnívající pleurocystidy (ačkoli cheilocystidy mohou být v některých sběrech řídké a nenápadné) a kaulocystidy jsou řídké až přítomné.",
+      "stipe": "Třeň je 2,5–7 cm dlouhý a 0,3–1,5 cm tlustý (obvykle 0,5–1 cm), válcovitý nebo směrem k bázi mírně zúžený, pevný, plný a pružný. Je světle žlutý až žlutookrový s nádechem barev klobouku, hladký až jemně podélně vláknitý, stářím nebo otlačením od báze vzhůru tmavne do žlutohněda až červenohněda, na bázi s bělavým až nažloutlým myceliem. Křehký pavučinovitý nažloutlý částečný závoj (kortina) je přítomen u mladých plodnic, ale rychle mizí, jen zřídka zanechává vytrvalý prsten a nanejvýš slabé vláknité stopy v horní části třeně.",
+      "flesh": "Dužnina je tenká, světle žlutá až žlutooranžová a ve srovnání s většími zástupci rodu poměrně křehká. Vůně je mírná, houbová, lehce kořeněná nebo slabě nasládlá; chuť je obvykle výrazně hořká, ačkoli příležitostně může být mírná.",
+      "sporePrint": "Výtrusný prach je rezavě hnědý až jasně rezavě oranžový. Výtrusy jsou elipsoidní až mandlovité, zřetelně bradavčité, dextrinoidní (v Melzerově činidle se barví červenohnědě) a měří 6,5–10,5 × 4–6 µm (obvykle 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofní houba rostoucí na odumřelém tlejícím dřevě jehličnanů – zejména na pařezech, kmenech, větvích, kořenech a zanořených dřevních zbytcích borovic, jedlí a smrků v lesní hrabance – a jen vzácně na listnáčích. Plodnice vyrůstají jednotlivě, ve skupinách nebo v malých trsech od června do listopadu ve většině Evropy a Severní Ameriky, zatímco ve středomořském a tichomořském pobřežním klimatu se fruktifikace protahuje přes zimu (od září do února).",
+      "uses": "Nejedlá pro svou hořkou chuť a tenkou dužninu; některé zdroje ji také považují za podezřelou nebo potenciálně mírně jedovatou.",
+      "confusion": "Velmi se podobá Gymnopilus penetrans, který sdílí stejné jehličnaté stanoviště, velikost i žluté až rezavé zbarvení; makroskopické znaky se silně překrývají a spolehlivé odlišení často vyžaduje mikroskopické vyšetření hyf pokožky klobouku (u tohoto druhu převážně 8–16 µm širokých s hrubou rezavě hnědou inkrustací a naduřelými krátkými buňkami, oproti užším, 3–10 µm širokým válcovitým a méně silně inkrustovaným hyfám u Gymnopilus penetrans) a cystid, vedle sklonu Gymnopilus penetrans plodit později na podzim. Gymnopilus junonius je mnohem větší a mohutnější, roste převážně na listnáčích a na třeni si uchovává výrazný vytrvalý blanitý prsten. Gymnopilus luteocarneus má hladší a tmavší klobouk. Galerina marginata je smrtelně jedovatá, obvykle menší s hladkým hygrofánním hnědým kloboukem, zřetelnou prstenovitou zónou na stříbřitě vláknitém třeni a moučnou vůní. Phaeolepiota aurea má moučnatě zrnitý klobouk i spodní část třeně s velkým odstávajícím prstenem a světlejšími žlutohnědými výtrusy. Povrchně podobné mohou být i drobné dřevokazné druhy rodu Pholiota a žlutohnědé druhy rodu Cortinarius ze sekce Callistei.",
+      "notes": "Na rozdíl od několika modrajících zástupců svého rodu tato houba nemodrá a neobsahuje psilocybin. Druhové hranice v rámci komplexu Gymnopilus sapineus – zejména mezi tímto druhem a Gymnopilus penetrans – jsou dlouho předmětem sporů a některá moderní pojetí považují oba druhy za obtížně odlišitelné bez mikroskopie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "da": {
+      "description": "En lille til mellemstor, saprotrof lamelsvamp, der vokser enkeltvis, i grupper eller i små knipper på rådnende nåletræ og lejlighedsvis på løvtræ. Den er vidt udbredt i tempererede og boreale skove i Europa og Nordamerika og er også registreret i Australien og New Zealand.",
+      "cap": "2–9 cm bred (oftest 2–8 cm), først halvkugleformet til hvælvet, senere bredt hvælvet til næsten flad, undertiden med en lav, bred pukkel i midten. Randen er først indrullet og retter sig ud med alderen, som ung af og til med skøre slørrester og i tørt vejr undertiden trevlet opsprækkende. Den tørre overflade er først fløjlsagtig, filtet eller fint trevlet og bryder med alderen typisk op i bittesmå, tiltrykte okkerbrune til rødbrune skæl på en gyldengul til rødlig gulbrun eller orangebrun bund, mørkere i midten og blegere flødegul mod randen. Kaliumhydroxid (KOH) farver hatoverfladen mørkerød og derefter sort.",
+      "hymenium": "Lamellerne er tilvoksede til svagt udrandede, brede og tætstillede med glatte til fint fnuggede ægge. De er blegt flødegule til klart gule som unge, får efterhånden rustbrune pletter og bliver helt klart orange til rustbrune, efterhånden som sporerne modnes. Basidierne har 4 sterigmer; cheilocystider og knap nok fremtrædende pleurocystider er til stede (selvom cheilocystider kan være sparsomme og uanselige i nogle indsamlinger), og caulocystider forekommer sparsomt til tydeligt.",
+      "stipe": "2,5–7 cm lang og 0,3–1,5 cm tyk (typisk 0,5–1 cm), cylindrisk eller svagt tilspidset mod basis, fast, massiv og sej. Bleggul til gulokker med anstrøg af hattens farver, glat til fint længdetrevlet, mørknende til gulbrun eller rødbrun fra basis og opefter med alderen eller ved berøring, med hvidligt til gulligt basalmycelium. Et skørt, spindelvævsagtigt gulligt delslør (cortina) findes hos unge frugtlegemer, men forsvinder hurtigt og efterlader sjældent en blivende ring, højst svage trevlede spor øverst på stokken.",
+      "flesh": "Tyndt, bleggult til gulorange og forholdsvis skørt sammenlignet med større arter i slægten. Lugten er mild, svampeagtig, svagt krydret eller svagt sødlig; smagen er typisk tydeligt bitter, men kan af og til være mild.",
+      "sporePrint": "Rustbrunt til klart rustorange. Sporerne er ellipsoide til mandelformede, tydeligt vortede, dextrinoide (farves rødbrune i Melzers reagens) og måler 6,5–10,5 × 4–6 µm (typisk 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrof på dødt, rådnende nåletræ — især stubbe, stammer, grene, rødder og nedgravede trærester af fyr, ædelgran og gran i skovbunden — og kun sjældent på løvtræ. Danner frugtlegemer enkeltvis, i grupper eller i små knipper fra juni til november i det meste af Europa og Nordamerika og ind gennem vinteren (september til februar) i middelhavsklima og Stillehavets kystklima.",
+      "uses": "Uspiselig på grund af den bitre smag og det tynde kød; nogle kilder betragter den desuden som mistænkelig eller potentielt svagt giftig.",
+      "confusion": "Ligner i høj grad Gymnopilus penetrans, som deler samme voksested på nåletræ, størrelse og gule til rustbrune farver; de makroskopiske kendetegn overlapper kraftigt, og sikker adskillelse kræver ofte mikroskopisk undersøgelse af hathudens hyfer (overvejende 8–16 µm brede med grove rustbrune inkrustationer og opsvulmede korte celler hos denne art, mod smallere, 3–10 µm brede cylindriske, mindre kraftigt inkrusterede hyfer hos Gymnopilus penetrans) og cystiderne, foruden en tendens til at Gymnopilus penetrans sætter frugtlegemer senere på efteråret. Gymnopilus junonius er langt større og kraftigere, vokser overvejende på løvtræ og bevarer en tydelig, blivende hindet ring på stokken. Gymnopilus luteocarneus har en glattere, mørkere hat. Galerina marginata er dødeligt giftig, typisk mindre med en glat, hygrofan brun hat, en tydelig ringzone på en sølvskinnende trevlet stok og en melagtig lugt. Phaeolepiota aurea har en pudret-kornet hat og nedre stok med en stor udstående ring og blegere gulbrune sporer. Små vedboende Pholiota-arter og gulbrune Cortinarius-arter i sektionen Callistei kan også ligne overfladisk.",
+      "notes": "I modsætning til flere blåfarvende arter i slægten bliver denne art ikke blå og indeholder ikke psilocybin. Artsgrænserne inden for Gymnopilus sapineus-komplekset — især mellem denne art og Gymnopilus penetrans — har længe været omdiskuterede, og flere nyere behandlinger anser de to for vanskelige at adskille uden mikroskopi.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "de": {
+      "description": "Ein kleiner bis mittelgroßer, saprotropher Lamellenpilz, der einzeln, gesellig oder in kleinen Büscheln auf verrottendem Nadelholz und gelegentlich auf Laubholz wächst. Er ist in den gemäßigten und borealen Wäldern Europas und Nordamerikas weit verbreitet und wird auch aus Australien und Neuseeland gemeldet.",
+      "cap": "Hut 2–9 cm breit (meist 2–8 cm), anfangs halbkugelig bis gewölbt, später breit gewölbt bis nahezu flach ausgebreitet, mitunter mit einem niedrigen, breiten zentralen Buckel. Der Rand ist anfangs eingerollt, streckt sich im Alter, trägt jung gelegentlich vergängliche Velumreste und reißt bei trockenem Wetter mitunter faserig ein. Die trockene Oberfläche ist anfangs samtig, filzig oder feinfaserig und reißt im Alter typischerweise in winzige, anliegende ockerbraune bis rotbraune Schüppchen auf goldgelbem bis falbem oder orangebraunem Grund auf, zur Mitte hin dunkler und zum Rand hin blasser cremefarben-gelb. Kalilauge (KOH) verfärbt die Hutoberfläche dunkelrot und anschließend schwarz.",
+      "hymenium": "Die Lamellen sind angewachsen bis leicht ausgebuchtet, breit und gedrängt, mit glatten bis fein flockigen Schneiden. Jung sind sie blass cremefarben-gelb bis lebhaft gelb, entwickeln bei der Sporenreife rostbraune Flecken und verfärben sich insgesamt leuchtend orange bis rostbraun. Die Basidien sind viersporig; Cheilozystiden und kaum vorstehende Pleurozystiden sind vorhanden (wobei Cheilozystiden in manchen Aufsammlungen spärlich und unauffällig sein können), und Kaulozystiden sind spärlich bis vorhanden.",
+      "stipe": "Stiel 2,5–7 cm lang und 0,3–1,5 cm dick (typischerweise 0,5–1 cm), zylindrisch oder zur Basis hin leicht verjüngt, fest, voll und elastisch. Blassgelb bis gelbockerfarben und mit Hutfarben überhaucht, glatt bis fein längsfaserig, im Alter oder bei Berührung von der Basis her aufwärts falb bis rotbraun nachdunkelnd, mit weißlichem bis gelblichem Basalmyzel. Ein zartes, spinnwebartiges gelbliches Teilvelum (Cortina) ist bei jungen Fruchtkörpern vorhanden, vergeht jedoch rasch, hinterlässt nur selten einen beständigen Ring und höchstens schwache faserige Spuren am oberen Stiel.",
+      "flesh": "Fleisch dünn, blassgelb bis gelborange und im Vergleich zu größeren Vertretern der Gattung relativ zart. Der Geruch ist mild, pilzartig, leicht würzig oder schwach süßlich; der Geschmack ist typischerweise deutlich bitter, gelegentlich jedoch mild.",
+      "sporePrint": "Sporenpulver rostbraun bis leuchtend rostorange. Die Sporen sind ellipsoid bis mandelförmig, deutlich warzig, dextrinoid (in Melzers Reagenz rotbraun färbend) und messen 6,5–10,5 × 4–6 µm (typischerweise 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotroph auf totem, verrottendem Nadelholz – besonders an Stümpfen, Stämmen, Ästen, Wurzeln und vergrabenem Holzabfall von Kiefer, Tanne und Fichte in der Waldstreu – und nur selten auf Laubholz. Die Fruchtkörper erscheinen einzeln, gesellig oder in kleinen Büscheln von Juni bis November in den meisten Teilen Europas und Nordamerikas und erstrecken sich im mediterranen sowie pazifischen Küstenklima bis in den Winter (September bis Februar).",
+      "uses": "Ungenießbar wegen des bitteren Geschmacks und des dünnen Fleisches; einige Quellen stufen ihn zudem als verdächtig oder potenziell schwach giftig ein.",
+      "confusion": "Ähnelt stark Gymnopilus penetrans, der dasselbe Nadelholz-Habitat, dieselbe Größe und die gelbe bis rostige Färbung teilt; die makroskopischen Merkmale überschneiden sich stark, sodass eine sichere Trennung oft eine mikroskopische Untersuchung der Huthauthyphen (bei dieser Art meist 8–16 µm breit mit groben rostbraunen Inkrustationen und aufgeblasenen kurzen Zellen, gegenüber schmaleren, 3–10 µm breiten, zylindrischen, weniger stark inkrustierten Hyphen bei Gymnopilus penetrans) und Zystiden erfordert, neben einer Tendenz von Gymnopilus penetrans, später im Herbst zu fruktifizieren. Gymnopilus junonius ist viel größer und kräftiger, wächst vorwiegend an Laubholz und behält einen deutlichen, beständigen häutigen Ring am Stiel. Gymnopilus luteocarneus besitzt einen glatteren, dunkleren Hut. Galerina marginata ist tödlich giftig, meist kleiner mit glattem, hygrophanem braunem Hut, einer deutlichen Ringzone an einem silbrig-faserigen Stiel und mehlartigem Geruch. Phaeolepiota aurea hat einen mehlig-körnigen Hut und unteren Stiel mit großem, abstehendem Ring sowie blasseren gelbbraunen Sporen. Kleine holzbewohnende Pholiota-Arten und falbe Cortinarius-Arten der Sektion Callistei können ebenfalls oberflächlich ähnlich aussehen.",
+      "notes": "Im Gegensatz zu mehreren blauenden Vertretern seiner Gattung blaut diese Art nicht und enthält kein Psilocybin. Die Artgrenzen innerhalb des Gymnopilus-sapineus-Komplexes – insbesondere zwischen dieser Art und Gymnopilus penetrans – sind seit Langem umstritten, und einige moderne Auffassungen betrachten beide ohne Mikroskopie als schwer trennbar.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "en": {
+      "description": "A small to medium-sized, saprotrophic gilled mushroom that grows singly, gregariously, or in small clusters on decaying conifer wood and occasionally hardwood. Widely distributed across temperate and boreal forests of Europe and North America, it is also recorded from Australia and New Zealand.",
+      "cap": "2–9 cm across (mostly 2–8 cm), hemispherical to convex at first, expanding to broadly convex or nearly flat, sometimes retaining a low, broad central umbo. The margin is initially inrolled, straightening with age, occasionally bearing fragile veil remnants when young and sometimes splitting fibrillosely in dry weather. The dry surface is velvety, felted, or finely fibrillose at first, typically breaking up with age into minute appressed ochraceous-brown to reddish-brown scales (squamules) over a golden-yellow to tawny or orange-brown ground, darker at the centre and paler cream-yellow toward the margin. Potassium hydroxide (KOH) turns the cap surface dark red and then black.",
+      "hymenium": "Gills are adnate to slightly notched, broad, and crowded, with smooth to minutely floccose edges. They are pale cream-yellow to bright yellow when young, developing rusty-brown spots and turning bright orange to rusty-brown overall as the spores mature. Basidia are 4-sterigmate; cheilocystidia and scarcely projecting pleurocystidia are present (though cheilocystidia may be sparse and inconspicuous in some collections), and caulocystidia are sparse to present.",
+      "stipe": "2.5–7 cm long and 0.3–1.5 cm thick (typically 0.5–1 cm), cylindrical or tapering slightly toward the base, firm, solid, and resilient. Pale yellow to yellowish-ochre and flushed with cap tones, smooth to finely longitudinally fibrillose, darkening to tawny or reddish-brown from the base upward with age or handling, with whitish to yellowish basal mycelium. A fragile, cobwebby yellowish partial veil (cortina) is present in young fruiting bodies but disappears quickly, rarely leaving a persistent ring and at most faint fibrillose traces on the upper stipe.",
+      "flesh": "Thin, pale yellow to yellowish-orange, and relatively delicate compared to larger members of the genus. The odour is mild, mushroomy, slightly spicy, or faintly sweet; the taste is typically distinctly bitter, though occasionally mild.",
+      "sporePrint": "Rusty-brown to bright rusty-orange. Spores are ellipsoid to almond-shaped, distinctly warty, dextrinoid (turning reddish-brown in Melzer's reagent), and measure 6.5–10.5 × 4–6 µm (typically 7–9.5 × 4.5–5.5 µm).",
+      "habitat": "Saprotrophic on dead, decaying conifer wood—especially pine, fir, and spruce stumps, logs, branches, roots, and buried woody debris in forest litter—and only rarely on hardwood. Fruits singly, gregariously, or in small clusters from June to November across most of Europe and North America, extending through winter (September to February) in Mediterranean and Pacific coastal climates.",
+      "uses": "Inedible due to its bitter taste and thin flesh; some sources also regard it as suspect or potentially mildly toxic.",
+      "confusion": "Closely resembles Gymnopilus penetrans, which shares the same conifer-wood habitat, size, and yellow-to-rusty coloration; macroscopic characters overlap heavily, and reliable separation often requires microscopic examination of the pileipellis hyphae (mostly 8–16 µm wide with coarse rusty-brown incrustations and inflated short cells in this species, versus narrower, 3–10 µm cylindrical, less heavily incrusted hyphae in Gymnopilus penetrans) and cystidia, alongside a tendency for Gymnopilus penetrans to fruit later in autumn. Gymnopilus junonius is much larger and stouter, grows chiefly on hardwoods, and retains a distinct persistent membranous ring on the stipe. Gymnopilus luteocarneus has a smoother, darker cap. Galerina marginata is deadly poisonous, typically smaller with a smooth hygrophanous brown cap, a distinct ring zone on a silvery-fibrillose stipe, and a farinaceous odour. Phaeolepiota aurea has a powdery-granular cap and lower stipe with a large flaring ring and paler yellow-brown spores. Small wood-inhabiting Pholiota species and tawny Cortinarius species of section Callistei can also look superficially similar.",
+      "notes": "Unlike several blue-staining members of its genus, this species does not stain blue and does not contain psilocybin. Species boundaries within the Gymnopilus sapineus complex—particularly between this species and Gymnopilus penetrans—have long been debated, and some modern treatments regard the two as difficult to separate without microscopy.",
+      "names": [
+        "common and boring gymnopilus"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=522061",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=522061",
+        "https://www.gbif.org/species/2533669",
+        "https://www.catalogueoflife.org/data/taxon/3HTGJ",
+        "https://species.wikimedia.org/wiki/Gymnopilus_sapineus",
+        "https://www.wikidata.org/wiki/Q5624977",
+        "https://www.mushroomexpert.com/gymnopilus_sapineus.html",
+        "https://www.first-nature.com/fungi/gymnopilus-sapineus.php",
+        "https://www.inaturalist.org/taxa/118302",
+        "https://en.wikipedia.org/wiki/Gymnopilus_sapineus",
+        "https://pl.wikipedia.org/wiki/%C5%81ysak_drobno%C5%82uskowy",
+        "https://hu.wikipedia.org/wiki/B%C3%A1rsonykalap%C3%BA_l%C3%A1nggomba",
+        "https://nl.wikipedia.org/wiki/Vezelige_vlamhoed"
+      ]
+    },
+    "es": {
+      "description": "Seta de láminas saprótrofa, de tamaño pequeño a mediano, que crece aislada, de forma gregaria o en pequeños grupos sobre madera de coníferas en descomposición y ocasionalmente sobre madera de frondosas. Ampliamente distribuida por los bosques templados y boreales de Europa y América del Norte, también ha sido registrada en Australia y Nueva Zelanda.",
+      "cap": "Sombrero de 2–9 cm de diámetro (generalmente 2–8 cm), primero hemisférico a convexo, extendiéndose después a ampliamente convexo o casi plano, conservando a veces un mamelón central bajo y ancho. El margen es inicialmente enrollado, enderezándose con la edad, con restos frágiles de velo en ejemplares jóvenes y agrietándose en ocasiones de forma fibrilosa en tiempo seco. La superficie seca es al principio aterciopelada, afieltrada o finamente fibrilosa y con la edad suele romperse en diminutas escámulas adpresas de color pardo ocráceo a pardo rojizo sobre un fondo amarillo dorado a leonado o pardo anaranjado, más oscuro en el centro y amarillo crema más pálido hacia el margen. El hidróxido de potasio (KOH) tiñe la superficie del sombrero de rojo oscuro y luego de negro.",
+      "hymenium": "Láminas adnatas a ligeramente escotadas, anchas y apretadas, con arista lisa a finamente flocosa. Son de color amarillo crema pálido a amarillo vivo de jóvenes, desarrollando manchas pardo herrumbrosas y volviéndose en conjunto naranja vivo a pardo herrumbroso al madurar las esporas. Los basidios son tetraspóricos; presenta queilocistidios y pleurocistidios apenas sobresalientes (aunque los queilocistidios pueden ser escasos e inconspicuos en algunas recolecciones), y caulocistidios de escasos a presentes.",
+      "stipe": "Pie de 2,5–7 cm de longitud y 0,3–1,5 cm de grosor (típicamente 0,5–1 cm), cilíndrico o ligeramente atenuado hacia la base, firme, macizo y elástico. De color amarillo pálido a amarillo ocre con matices del sombrero, liso a finamente fibriloso longitudinalmente, oscureciéndose a leonado o pardo rojizo desde la base hacia arriba con la edad o la manipulación, con micelio basal blanquecino a amarillento. En los ejemplares jóvenes existe un velo parcial frágil, aracnoideo y amarillento (cortina) que desaparece pronto, rara vez dejando un anillo persistente y como máximo débiles restos fibrilosos en la parte superior del pie.",
+      "flesh": "Carne delgada, de color amarillo pálido a amarillo anaranjado y relativamente delicada en comparación con especies más grandes del género. El olor es suave, fúngico, ligeramente especiado o débilmente dulce; el sabor es por lo general claramente amargo, aunque ocasionalmente suave.",
+      "sporePrint": "Esporada de color pardo herrumbroso a naranja herrumbroso vivo. Las esporas son elipsoidales a amigdaliformes, claramente verrugosas, dextrinoides (se tiñen de pardo rojizo en reactivo de Melzer) y miden 6,5–10,5 × 4–6 µm (típicamente 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprótrofo sobre madera muerta de coníferas en descomposición —especialmente tocones, troncos, ramas, raíces y restos leñosos enterrados de pino, abeto y pícea en la hojarasca forestal— y solo rara vez sobre frondosas. Fructifica aislado, de forma gregaria o en pequeños grupos de junio a noviembre en la mayor parte de Europa y América del Norte, prolongándose durante el invierno (de septiembre a febrero) en climas mediterráneos y costeros del Pacífico.",
+      "uses": "No comestible debido a su sabor amargo y su carne delgada; algunas fuentes la consideran además sospechosa o potencialmente ligeramente tóxica.",
+      "confusion": "Se parece estrechamente a Gymnopilus penetrans, con el que comparte hábitat sobre madera de coníferas, tamaño y coloración de amarilla a herrumbrosa; los caracteres macroscópicos se solapan notablemente y una separación fiable requiere a menudo el examen microscópico de las hifas de la pileipellis (en su mayoría de 8–16 µm de anchura, con incrustaciones gruesas pardo herrumbrosas y células cortas infladas en esta especie, frente a hifas más estrechas de 3–10 µm, cilíndricas y menos incrustadas en Gymnopilus penetrans) y de los cistidios, además de la tendencia de Gymnopilus penetrans a fructificar más tarde en otoño. Gymnopilus junonius es mucho más grande y robusto, crece principalmente sobre frondosas y conserva un anillo membranoso bien definido y persistente en el pie. Gymnopilus luteocarneus tiene un sombrero más liso y oscuro. Galerina marginata es mortal, por lo general más pequeña, con sombrero pardo liso e higrófano, zona anular bien marcada en un pie fibriloso plateado y olor harinoso. Phaeolepiota aurea presenta sombrero y parte inferior del pie pulverulento-granulosos con un gran anillo acampanado y esporas pardo amarillentas más pálidas. También pueden parecerse superficialmente pequeñas especies lignícolas de Pholiota y especies leonadas de Cortinarius de la sección Callistei.",
+      "notes": "A diferencia de varios miembros de su género que azulean, esta especie no azulea ni contiene psilocibina. Los límites específicos dentro del complejo Gymnopilus sapineus —en particular entre esta especie y Gymnopilus penetrans— han sido debatidos durante largo tiempo, y algunos tratamientos modernos consideran que ambos son difíciles de separar sin microscopía.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike kuni keskmise suurusega saprotroofne lehikseen, mis kasvab üksikult, rühmadena või väikeste põõsastena kõduneval okaspuidul ja vahel ka lehtpuidul. Liik on laialt levinud Euroopa ja Põhja-Ameerika parasvöötme ning boreaalsetes metsades, samuti on teda leitud Austraaliast ja Uus-Meremaalt.",
+      "cap": "2–9 cm läbimõõduga (enamasti 2–8 cm), noorelt poolkerajas kuni kumer, hiljem laialt kumer kuni peaaegu lame, mõnikord madala laia keskkühmuga. Serv on esialgu sissepoole rullunud, vananedes sirgeneb, noorelt kohati õrnade loorijäänustega ja kuiva ilmaga vahel kiuliselt lõhenev. Kuiv pind on algselt sametine, viltjas või peenkiuline ning laguneb vananedes tavaliselt pisikesteks liibunud ookerpruunideks kuni punakaspruunideks soomusteks kuldkollasel kuni kollakaspruunil või oranžikaspruunil taustal, olles keskelt tumedam ja serva poole kahvatuma kreemjaskollase tooniga. Kaaliumhüdroksiid (KOH) värvib kübara pinna tumepunaseks ja seejärel mustaks.",
+      "hymenium": "Eoslehed on külge kasvanud kuni nõrgalt sälguga, laiad ja tihedad, sileda kuni peenhelbelise servaga. Noorelt on need kahvatu kreemjaskollased kuni erkkollased, kattuvad roostepruunide laikudega ning muutuvad eoste valmides üleni erk-oranžiks kuni roostepruuniks. Basiidiumid on 4-sterigmalised; heilotsüstiidid ja vaevalt esileulatuvad pleurotsüstiidid on olemas (kuigi mõnes kogus võivad heilotsüstiidid olla hõredad ja silmapaistmatud), kaulotsüstiide leidub hõredalt kuni selgelt.",
+      "stipe": "2,5–7 cm pikk ja 0,3–1,5 cm jäme (tavaliselt 0,5–1 cm), silinderjas või aluse suunas kergelt ahenev, tugev, täis ja sitke. Kahvatukollane kuni kollakasooker ja kübaratoonidega varjundatud, sile kuni peenelt pikikiuline, vananedes või puudutamisel alusest ülespoole kollakaspruuniks kuni punakaspruuniks tumenev, valkja kuni kollaka alusmütseeliga. Noortel viljakehadel esineb õrn ämblikuvõrgutaoline kollakas osaloor (kortiina), mis kaob kiiresti, jättes harva püsiva rõnga ja kõige enam nõrgad kiulised jäljed jala ülaossa.",
+      "flesh": "Õhuke, kahvatukollane kuni kollakasoranž ning perekonna suuremate liikidega võrreldes suhteliselt õrn. Lõhn on mahe, seenelõhnaline, kergelt vürtsikas või nõrgalt magusakas; maitse on tavaliselt selgelt kibe, kuigi kohati mahe.",
+      "sporePrint": "Roostepruun kuni erk roosteoranž. Eosed on ellipsoidset kuni mandlikujulised, selgelt näsalised, dekstrinoidsed (värvuvad Melzeri reagendis punakaspruuniks) ja mõõtmetega 6,5–10,5 × 4–6 µm (tavaliselt 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotroofne surnud, kõduneval okaspuidul — eriti männi, nulu ja kuuse kändudel, lamapuidul, okstel, juurtel ja metsakõdusse maetud puidujäänustel — ning vaid harva lehtpuidul. Viljub üksikult, rühmadena või väikeste põõsastena juunist novembrini suuremas osas Euroopast ja Põhja-Ameerikast, Vahemere ja Vaikse ookeani rannikukliimas ka läbi talve (septembrist veebruarini).",
+      "uses": "Mittesöödav kibeda maitse ja õhukese seeneliha tõttu; mõned allikad peavad seda ka kahtlaseks või potentsiaalselt kergelt mürgiseks.",
+      "confusion": "Meenutab lähedalt liiki Gymnopilus penetrans, millel on sama kasvukoht okaspuidul, suurus ning kollakast roostepruunini ulatuv värvus; makroskoopilised tunnused kattuvad tugevalt ja usaldusväärne eristamine nõuab sageli kübaranaha hüüfide mikroskoopilist uurimist (sellel liigil enamasti 8–16 µm laiad jämedate roostepruunide inkrustatsioonide ja paisunud lühikeste rakkudega, võrreldes kitsamate, 3–10 µm laiuste silindriliste, nõrgemalt inkrusteeritud hüüfidega liigil Gymnopilus penetrans) ning tsüstiidide vaatlemist, lisaks kaldub Gymnopilus penetrans viljuma hiljem sügisel. Gymnopilus junonius on palju suurem ja kogukam, kasvab peamiselt lehtpuidul ning säilitab jalal selge püsiva kileja rõnga. Gymnopilus luteocarneus on siledama ja tumedama kübaraga. Galerina marginata on surmavalt mürgine, tavaliselt väiksem, sileda hügrofaanse pruuni kübara, hõbekiulisel jalal oleva selge rõngavööndi ja jahulõhnaga. Phaeolepiota aurea kübar ja jala alaosa on jahujalt teralised, suure eemalduva rõnga ja kahvatumate kollakaspruunide eostega. Pealiskaudselt võivad sarnaneda ka väikesed puidul kasvavad Pholiota liigid ning Callistei sektsiooni kollakaspruunid Cortinarius liigid.",
+      "notes": "Erinevalt mitmest oma perekonna sinetuvast liigist ei sinetu see liik ega sisalda psilotsübiini. Liigipiirid Gymnopilus sapineus kompleksis — eriti selle liigi ja liigi Gymnopilus penetrans vahel — on olnud pikka aega vaidlusalused ning mõned nüüdisaegsed käsitlused peavad neid kahte ilma mikroskoopiata raskesti eristatavaks.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q5624977"
+      ]
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار، ساپروتروف و کوچک تا متوسط‌جثه است که به‌صورت منفرد، دسته‌ای یا در خوشه‌های کوچک روی چوب‌های پوسیدهٔ مخروطیان و گاهی درختان پهن‌برگ می‌روید. این گونه در جنگل‌های معتدله و شمالی اروپا و آمریکای شمالی پراکنش گسترده‌ای دارد و در استرالیا و نیوزیلند نیز گزارش شده است.",
+      "cap": "کلاهک ۲–۹ سانتی‌متر قطر دارد (بیشتر ۲–۸ سانتی‌متر)؛ در ابتدا نیم‌کروی تا محدب است و سپس به شکل محدب پهن یا تقریباً مسطح باز می‌شود و گاهی برآمدگی مرکزی پهن و کم‌ارتفاعی حفظ می‌کند. لبهٔ کلاهک در ابتدا به داخل برگشته است و با افزایش سن صاف می‌شود؛ در نمونه‌های جوان گاهی بقایای ظریف و شکنندهٔ پرده دارد و در هوای خشک ممکن است به‌صورت رشته‌ای شکاف بردارد. سطح خشک آن در ابتدا مخملی، نمدی یا پوشیده از رشته‌های ظریف است و معمولاً با افزایش سن به پولک‌های ریز چسبیده به رنگ قهوه‌ای اخرایی تا قهوه‌ای مایل به قرمز بر زمینه‌ای زرد طلایی تا قهوه‌ای روشن یا قهوه‌ای نارنجی تجزیه می‌شود که در مرکز تیره‌تر و به سمت لبه کرم‌زرد کم‌رنگ‌تر است. هیدروکسید پتاسیم (KOH) سطح کلاهک را ابتدا قرمز تیره و سپس سیاه می‌کند.",
+      "hymenium": "تیغه‌ها پیوسته به ساقه تا کمی دندانه‌دار، پهن و متراکم‌اند و لبه‌هایی صاف تا پوشیده از کرک‌های بسیار ریز دارند. در جوانی کرم‌زرد کم‌رنگ تا زرد روشن‌اند و با رسیدن هاگ‌ها لکه‌های قهوه‌ای زنگاری پیدا می‌کنند و در مجموع به نارنجی روشن تا قهوه‌ای زنگاری تغییر رنگ می‌دهند. بازیدی‌ها ۴-استریگمایی‌اند؛ سیستیدی‌های لبه (cheilocystidia) و سیستیدی‌های سطح (pleurocystidia) با برآمدگی ناچیز وجود دارند (هرچند سیستیدی‌های لبه در برخی نمونه‌ها پراکنده و کم‌پیدا هستند) و سیستیدی‌های ساقه (caulocystidia) نیز پراکنده تا موجودند.",
+      "stipe": "ساقه ۲٫۵–۷ سانتی‌متر طول و ۰٫۳–۱٫۵ سانتی‌متر ضخامت دارد (معمولاً ۰٫۵–۱ سانتی‌متر)، استوانه‌ای است یا به سمت قاعده کمی باریک می‌شود و سفت، توپر و مقاوم است. رنگ آن زرد کم‌رنگ تا زرد اخرایی با ته‌رنگ‌های کلاهک است، سطحی صاف تا دارای رشته‌های طولی ظریف دارد و با افزایش سن یا دست‌مالی از قاعده به بالا به قهوه‌ای روشن یا قهوه‌ای مایل به قرمز تیره می‌شود و در قاعده میسلیوم سفید تا مایل به زرد دارد. در اندام‌های بارده جوان، پردهٔ جزئی عنکبوتی، ظریف و مایل به زرد (کورتینا) دیده می‌شود که به‌سرعت ناپدید می‌گردد و به‌ندرت حلقه‌ای ماندگار بر جای می‌گذارد و حداکثر آثار رشته‌ای کم‌رنگی در بخش بالایی ساقه باقی می‌ماند.",
+      "flesh": "گوشت نازک، زرد کم‌رنگ تا زرد نارنجی و در مقایسه با گونه‌های بزرگ‌تر همین جنس نسبتاً ظریف است. بو ملایم، قارچی، کمی ادویه‌ای یا اندکی شیرین است؛ مزه معمولاً به‌وضوح تلخ است، هرچند گاهی ملایم نیز دیده می‌شود.",
+      "sporePrint": "نقش هاگ قهوه‌ای زنگاری تا نارنجی زنگاری روشن است. هاگ‌ها بیضوی تا بادامی‌شکل، به‌وضوح زگیل‌دار و دکسترینوئید (در معرف ملتزر به قهوه‌ای مایل به قرمز درمی‌آیند) و به ابعاد ۶٫۵–۱۰٫۵ × ۴–۶ میکرومتر (معمولاً ۷–۹٫۵ × ۴٫۵–۵٫۵ میکرومتر) هستند.",
+      "habitat": "ساپروتروف روی چوب‌های مرده و در حال پوسیدگی مخروطیان—به‌ویژه کنده‌ها، تنه‌ها، شاخه‌ها، ریشه‌ها و بقایای چوبی مدفون کاج، نراد و نوئل در لاش‌برگ جنگل—و تنها به‌ندرت روی درختان پهن‌برگ می‌روید. به‌صورت منفرد، دسته‌ای یا در خوشه‌های کوچک از ژوئن تا نوامبر در بیشتر بخش‌های اروپا و آمریکای شمالی میوه می‌دهد و در اقلیم‌های مدیترانه‌ای و سواحل اقیانوس آرام تا طول زمستان (سپتامبر تا فوریه) ادامه می‌یابد.",
+      "uses": "به دلیل مزهٔ تلخ و گوشت نازک غیرخوراکی است؛ برخی منابع نیز آن را مشکوک یا بالقوه دارای سمیت خفیف می‌دانند.",
+      "confusion": "شباهت بسیار زیادی به Gymnopilus penetrans دارد که در همان زیستگاه چوب مخروطیان می‌روید و اندازه و رنگ‌آمیزی زرد تا زنگاری یکسانی دارد؛ ویژگی‌های ظاهری به‌شدت هم‌پوشانی دارند و تفکیک مطمئن اغلب نیازمند بررسی میکروسکوپی ریسهٔ پوستهٔ کلاهک (در این گونه عمدتاً ۸–۱۶ میکرومتر پهنا با رسوبات درشت قهوه‌ای زنگاری و یاخته‌های کوتاه متورم، در برابر ریسه‌های باریک‌تر ۳–۱۰ میکرومتریِ استوانه‌ای با رسوب کمتر در Gymnopilus penetrans) و سیستیدی‌هاست، همراه با تمایل Gymnopilus penetrans به میوه‌دهی دیرتر در پاییز. Gymnopilus junonius بسیار بزرگ‌تر و تنومندتر است، عمدتاً روی چوب درختان پهن‌برگ می‌روید و حلقهٔ غشایی مشخص و ماندگاری روی ساقه دارد. Gymnopilus luteocarneus کلاهکی صاف‌تر و تیره‌تر دارد. Galerina marginata سمی و کشنده است، معمولاً کوچک‌تر است و کلاهک قهوه‌ای صاف و رطوبت‌پذیر (هیگروفان)، ناحیهٔ حلقه‌ای مشخص روی ساقهٔ نقره‌ای‌رشته‌ای و بوی آردمانند دارد. Phaeolepiota aurea کلاهک و بخش پایینی ساقهٔ پودری‌دانه‌دار با حلقهٔ بزرگ و گشاد و هاگ‌های زردقهوه‌ای روشن‌تر دارد. گونه‌های کوچک چوب‌زی جنس Pholiota و گونه‌های قهوه‌ای‌نارنجی جنس Cortinarius از بخش Callistei نیز ممکن است در نگاه اول شبیه به نظر برسند.",
+      "notes": "برخلاف چند گونهٔ کبودشونده در این جنس، این گونه با آسیب‌دیدگی آبی نمی‌شود و فاقد سیلوسایبین است. مرزهای گونه‌ای در مجموعهٔ Gymnopilus sapineus—به‌ویژه میان این گونه و Gymnopilus penetrans—دیرزمانی مورد بحث بوده است و برخی رویکردهای جدید جداسازی آن دو را بدون بررسی میکروسکوپی دشوار می‌دانند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni tai keskikokoinen lahottajasieni, joka on helttasieni ja kasvaa yksittäin, ryhminä tai pieninä tuppaina lahoavalla havupuulla ja joskus lehtipuulla. Se on laajalle levinnyt Euroopan ja Pohjois-Amerikan lauhkeissa ja boreaalisissa metsissä, ja siitä on havaintoja myös Australiasta ja Uudesta-Seelannista.",
+      "cap": "2–9 cm leveä (useimmiten 2–8 cm), aluksi puolipallomainen tai kupera, myöhemmin leveän kupera tai lähes laakea, joskus keskeltä matalasti ja leveästi nipukallinen. Reuna on aluksi sisäänkiertynyt ja oikenee iän myötä; nuorena siinä voi olla hauraita suojusjätteitä, ja kuivalla säällä se halkeilee joskus säikeisesti. Kuiva pinta on aluksi samettinen, huopainen tai hienosäikeinen ja hajoaa vanhemmiten tyypillisesti pieniksi, myötäisiksi okranruskeiksi tai punaruskeiksi suomuiksi kullankeltaisella, kellanruskealla tai oranssinruskealla pohjalla, keskeltä tummempana ja reunaa kohti vaaleamman kermankeltaisena. Kaliumhydroksidi (KOH) värjää lakin pinnan tummanpunaiseksi ja sen jälkeen mustaksi.",
+      "hymenium": "Heltat ovat tasatyviset tai hieman kolotyviset, leveät ja tiheät, terältään sileät tai hienonukkaiset. Nuorena ne ovat vaalean kermankeltaiset tai kirkkaankeltaiset, saavat vähitellen ruosteenruskeita laikkuja ja muuttuvat itiöiden kypsyessä kokonaan kirkkaanoransseiksi tai ruosteenruskeiksi. Basidit ovat 4-itiöisiä; keilosystidejä ja tuskin esiin työntyviä pleurosystidejä esiintyy (vaikka keilosystidit voivat joissakin näytteissä olla harvoja ja huomaamattomia), ja kaulosystidejä on niukasti tai selvästi.",
+      "stipe": "2,5–7 cm pitkä ja 0,3–1,5 cm paksu (tyypillisesti 0,5–1 cm), tasapaksu tai tyveä kohti hieman kapeneva, tanakka, täyteinen ja sitkeä. Vaaleankeltainen tai keltainen-okra ja lakin sävyjen häivähtämä, sileä tai hienosti pitkittäissäikeinen, vanhemmiten tai käsiteltäessä tyvestä ylöspäin kellanruskeaksi tai punaruskeaksi tummuva; tyvirihmasto on valkeahkoa tai kellertävää. Nuorilla itiöemillä on hauras, hämähäkinseittimäinen kellertävä osittaissuojus (seitti), joka häviää nopeasti jättäen vain harvoin pysyvän renkaan ja enintään heikkoja säikeisiä jälkiä jalan yläosaan.",
+      "flesh": "Ohutta, vaaleankeltaista tai kellanoranssia ja suhteellisen haurasta suvun suurempiin lajeihin verrattuna. Haju on mieto, sienimäinen, lievästi mausteinen tai heikosti makeahko; maku on tyypillisesti selvästi karvas, mutta joskus mieto.",
+      "sporePrint": "Ruosteenruskea tai kirkkaan ruosteenoranssi. Itiöt ovat soikeita tai mantelimaisia, selvästi nystyisiä, dekstrinoideja (värjäytyvät punaruskeiksi Melzerin reagenssissa) ja kooltaan 6,5–10,5 × 4–6 µm (tyypillisesti 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Lahottaja kuolleella, lahoavalla havupuulla — erityisesti männyn, pihdan ja kuusen kannoilla, maapuilla, oksilla, juurilla ja metsäkarikkeeseen hautautuneilla puujätteillä — ja vain harvoin lehtipuulla. Tuottaa itiöemiä yksittäin, ryhminä tai pieninä tuppaina kesäkuusta marraskuuhun suurimmassa osassa Eurooppaa ja Pohjois-Amerikkaa sekä läpi talven (syyskuusta helmikuuhun) Välimeren ja Tyynenmeren rannikkoilmastoissa.",
+      "uses": "Syötäväksi kelpaamaton karvaan makunsa ja ohuen maltonsa vuoksi; eräät lähteet pitävät sitä myös epäilyttävänä tai mahdollisesti lievästi myrkyllisenä.",
+      "confusion": "Muistuttaa läheisesti lajia Gymnopilus penetrans, jolla on sama havupuukasvupaikka, koko ja keltaisesta ruosteenruskeaan vaihteleva väritys; makroskooppiset tuntomerkit menevät suuresti päällekkäin, ja luotettava erottaminen vaatii usein pintakelmun rihmojen mikroskooppista tutkimista (tällä lajilla pääosin 8–16 µm leveitä, karkeasti ruosteenruskean inkrustoimia ja pulleita lyhyitä soluja, kun taas lajilla Gymnopilus penetrans rihmat ovat kapeampia, 3–10 µm leveitä, lieriömäisiä ja vähemmän inkrustoituneita) sekä kystidien tarkastelua, minkä lisäksi Gymnopilus penetrans muodostaa itiöemiä usein myöhemmin syksyllä. Gymnopilus junonius on paljon suurempi ja vankempi, kasvaa pääasiassa lehtipuulla ja säilyttää jalassaan selvän, pysyvän kalvomaisen renkaan. Gymnopilus luteocarneus on sileämpi- ja tummempilakkinen. Galerina marginata on tappavan myrkyllinen, tyypillisesti pienempi, lakiltaan sileä ja kosteusmuuntuva ruskea, sen hopeasäikeisessä jalassa on selvä rengasvyöhyke ja haju on jauhomainen. Phaeolepiota aurea on jauhoisen rakeinen lakiltaan ja jalan alaosastaan, sillä on suuri ulospäin siirottava rengas ja vaaleammat kellanruskeat itiöt. Myös pienet puulla kasvavat Pholiota-lajit sekä Callistei-sektion kellanruskeat Cortinarius-lajit voivat pintapuolisesti muistuttaa sitä.",
+      "notes": "Toisin kuin useat sukunsa sinistyvät lajit, tämä laji ei sinisty eikä sisällä psilosybiiniä. Lajirajoista Gymnopilus sapineus -lajiryhmässä — erityisesti tämän lajin ja lajin Gymnopilus penetrans välillä — on kiistelty pitkään, ja eräissä nykyisissä käsityksissä näitä kahta pidetään vaikeina erottaa ilman mikroskopiaa.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Champignon à lames saprotrophe, petit à moyen, poussant isolément, en troupes ou en petites touffes sur le bois de conifères en décomposition et occasionnellement sur bois de feuillus. Largement répandu dans les forêts tempérées et boréales d'Europe et d'Amérique du Nord, il est également signalé en Australie et en Nouvelle-Zélande.",
+      "cap": "Chapeau de 2–9 cm de diamètre (le plus souvent 2–8 cm), d'abord hémisphérique à convexe, s'étalant ensuite en largement convexe ou presque plan, conservant parfois un mamelon central bas et large. La marge est d'abord enroulée, se redressant avec l'âge, portant occasionnellement de fragiles restes de voile dans la jeunesse et se fendant parfois fibrilleusement par temps sec. La surface sèche est d'abord veloutée, feutrée ou finement fibrilleuse, puis se rompt typiquement avec l'âge en minuscules squamules apprimées brun ochracé à brun rougeâtre sur un fond jaune d'or à fauve ou brun orangé, plus sombre au centre et plus pâle, jaune crème, vers la marge. L'hydroxyde de potassium (KOH) fait virer la surface du chapeau au rouge foncé puis au noir.",
+      "hymenium": "Lames adnées à légèrement échancrées, larges et serrées, à arête lisse à finement floconneuse. Elles sont jaune crème pâle à jaune vif dans la jeunesse, puis se tachent de brun rouille et deviennent entièrement orange vif à brun rouille à maturité des spores. Les basides sont tétrasporiques ; des cheilocystides et des pleurocystides peu saillantes sont présentes (bien que les cheilocystides puissent être éparses et peu visibles dans certaines récoltes), et les caulocystides sont éparses à présentes.",
+      "stipe": "Pied de 2,5–7 cm de long et 0,3–1,5 cm d'épaisseur (typiquement 0,5–1 cm), cylindrique ou légèrement atténué vers la base, ferme, plein et tenace. Jaune pâle à jaune ochracé et lavé des teintes du chapeau, lisse à finement fibrilleux longitudinalement, fonçant au fauve ou au brun rougeâtre depuis la base vers le haut avec l'âge ou à la manipulation, avec un mycélium basal blanchâtre à jaunâtre. Un voile partiel fragile, arachnéen et jaunâtre (cortine) est présent chez les jeunes sporophores mais disparaît rapidement, ne laissant que rarement un anneau persistant et tout au plus de faibles traces fibrilleuses sur le haut du pied.",
+      "flesh": "Chair mince, jaune pâle à jaune orangé et relativement fragile par rapport aux plus grandes espèces du genre. L'odeur est faible, fongique, légèrement épicée ou faiblement douceâtre ; la saveur est typiquement nettement amère, bien qu'occasionnellement douce.",
+      "sporePrint": "Sporée brun rouille à orange rouille vif. Les spores sont ellipsoïdes à amygdaliformes, nettement verruqueuses, dextrinoïdes (virant au brun rougeâtre dans le réactif de Melzer) et mesurent 6,5–10,5 × 4–6 µm (typiquement 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrophe sur bois mort de conifères en décomposition — notamment souches, troncs, branches, racines et débris ligneux enfouis de pins, sapins et épicéas dans la litière forestière — et seulement rarement sur feuillus. Fructifie isolément, en troupes ou en petites touffes de juin à novembre dans la majeure partie de l'Europe et de l'Amérique du Nord, se prolongeant durant l'hiver (de septembre à février) sous les climats méditerranéens et côtiers du Pacifique.",
+      "uses": "Non comestible en raison de sa saveur amère et de sa chair mince ; certaines sources le considèrent également comme suspect ou potentiellement légèrement toxique.",
+      "confusion": "Ressemble étroitement à Gymnopilus penetrans, qui partage le même habitat sur bois de conifères, la même taille et la coloration jaune à rouille ; les caractères macroscopiques se chevauchent largement et une séparation fiable nécessite souvent l'examen microscopique des hyphes du revêtement piléique (majoritairement larges de 8–16 µm, à incrustations grossières brun rouille et cellules courtes renflées chez cette espèce, contre des hyphes plus étroites de 3–10 µm, cylindriques et moins fortement incrustées chez Gymnopilus penetrans) et des cystides, outre une tendance de Gymnopilus penetrans à fructifier plus tard en automne. Gymnopilus junonius est beaucoup plus grand et plus robuste, pousse principalement sur feuillus et conserve un anneau membraneux net et persistant sur le pied. Gymnopilus luteocarneus a un chapeau plus lisse et plus sombre. Galerina marginata est mortelle, typiquement plus petite avec un chapeau brun hygrophane lisse, une zone annulaire nette sur un pied fibrilleux argenté et une odeur farineuse. Phaeolepiota aurea présente un chapeau et un bas de pied poudrés-granuleux avec un grand anneau évasé et des spores brun-jaune plus pâles. De petites espèces lignicoles de Pholiota et des espèces fauves de Cortinarius de la section Callistei peuvent également présenter une ressemblance superficielle.",
+      "notes": "Contrairement à plusieurs membres bleuissants de son genre, cette espèce ne bleuit pas et ne contient pas de psilocybine. Les limites d'espèces au sein du complexe Gymnopilus sapineus — en particulier entre cette espèce et Gymnopilus penetrans — font l'objet de débats depuis longtemps, et certains traitements modernes estiment que les deux sont difficiles à séparer sans microscopie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "he": {
+      "description": "פטריית דפים סאפרוטרופית קטנה עד בינונית, הגדלה ביחידות, בקבוצות או בצרורות קטנים על עץ מחטניים מרקיב ולעיתים גם על עץ רחבי-עלים. תפוצתה רחבה ביערות ממוזגים ובוראליים באירופה ובאמריקה הצפונית, והיא תועדה גם באוסטרליה ובניו זילנד.",
+      "cap": "קוטר הכובע 2–9 ס\"מ (לרוב 2–8 ס\"מ); בתחילה חצי-כדורי עד קמור, ונפתח לקמור רחב או כמעט שטוח, לעיתים תוך שמירה על פיטם מרכזי נמוך ורחב. השוליים מקופלים פנימה בתחילה ומתיישרים עם הגיל, לעיתים נושאים שרידי צעיף עדינים בצעירותם ולעיתים מתפצלים באופן סיבי במזג אוויר יבש. פני השטח היבשים קטיפתיים, לבדיים או סיביים עדינים בתחילה, ולרוב מתפרקים עם הגיל לקשקשים זעירים צמודים בצבע חום-אוכרה עד חום-אדמדם על רקע צהוב-זהוב עד חום-צהבהב או חום-כתום, כהה יותר במרכז ובהיר יותר בגוון צהוב-שמנת כלפי השוליים. אשלגן הידרוקסידי (KOH) הופך את פני הכובע לאדום כהה ולאחר מכן לשחור.",
+      "hymenium": "הדפים מחוברים לרגל עד מפורצים קלות, רחבים וצפופים, בעלי שפה חלקה עד צמרית-עדינה. בצעירותם הם בצבע צהוב-שמנת חיוור עד צהוב עז, ועם הבשלת הנבגים מופיעים עליהם כתמים חומים-חלודיים והם הופכים כוללים לכתום עז עד חום-חלודי. הבסידיות בעלות 4 סטריגמות; קיימות כיילוציסטידיות ופלאורוציסטידיות הבולטות בקושי (אם כי כיילוציסטידיות עשויות להיות דלילות ולא בולטות בחלק מהאוספים), וקאולוציסטידיות דלילות עד נוכחות.",
+      "stipe": "אורך הרגל 2.5–7 ס\"מ ועובייה 0.3–1.5 ס\"מ (לרוב 0.5–1 ס\"מ), גלילית או מוצרת מעט כלפי הבסיס, מוצקה, מלאה וגמישה. צבעה צהוב חיוור עד צהוב-אוכרה עם גווני הכובע, חלקה עד סיבית-אורכית עדינה, מתכהה לחום-צהבהב או חום-אדמדם מן הבסיס כלפי מעלה עם הגיל או במגע, ובעלת תפטיר בסיסי לבנבן עד צהבהב. בגופי פרי צעירים קיים צעיף חלקי צהבהב דמוי קורי עכביש (קורטינה) הנעלם במהירות, לעיתים נדירות מותיר טבעת קבועה ולכל היותר שרידים סיביים קלושים בחלק העליון של הרגל.",
+      "flesh": "הבשר דק, בצבע צהוב חיוור עד צהוב-כתום, ועדין יחסית למינים הגדולים יותר בסוג. הריח עדין, פטרייתי, מעט תבליני או מתקתק קלוש; הטעם לרוב מר בבירור, אם כי לעיתים עדין.",
+      "sporePrint": "הדפס הנבגים חום-חלודי עד כתום-חלודי עז. הנבגים אליפסואידיים עד דמויי שקד, יבלתיים בבירור, דקסטרינואידיים (הופכים לחום-אדמדם בתמיסת מלצר), וגודלם 6.5–10.5 × 4–6 µm (לרוב 7–9.5 × 4.5–5.5 µm).",
+      "habitat": "סאפרוטרופית על עץ מחטניים מת ומרקיב—במיוחד גדמים, גזעים, ענפים, שורשים ופסולת עץ קבורה ברפד היער של אורן, אשוח ואשוחית—ורק לעיתים נדירות על עץ רחבי-עלים. מניבה גופי פרי ביחידות, בקבוצות או בצרורות קטנים מיוני עד נובמבר ברוב אירופה ואמריקה הצפונית, ונמשכת לאורך החורף (ספטמבר עד פברואר) באקלים ים-תיכוני ובחופי האוקיינוס השקט.",
+      "uses": "לא למאכל בשל טעמה המר ובשרה הדק; חלק מן המקורות אף רואים בה חשודה או בעלת רעילות קלה אפשרית.",
+      "confusion": "דומה מאוד ל-Gymnopilus penetrans, החולק אותו בית גידול על עץ מחטניים, גודל דומה וצבעוניות צהובה עד חלודית; תכונות מאקרוסקופיות חופפות במידה רבה, והפרדה אמינה מצריכה לעיתים קרובות בדיקה מיקרוסקופית של קורי עור הכובע (לרוב ברוחב 8–16 µm עם ציפויים גסים בצבע חום-חלודי ותאים קצרים תפוחים במין זה, לעומת קורים צרים יותר, גליליים ברוחב 3–10 µm ופחות מצופים ב-Gymnopilus penetrans) ושל הציסטידיות, לצד נטייתו של Gymnopilus penetrans להניב מאוחר יותר בסתיו. Gymnopilus junonius גדול ומאסיבי בהרבה, גדל בעיקר על עץ רחבי-עלים ושומר על טבעת קרומית בולטת וקבועה על הרגל. ל-Gymnopilus luteocarneus כובע חלק וכהה יותר. Galerina marginata רעילה וקטלנית, לרוב קטנה יותר ובעלת כובע חום חלק והיגרופני, אזור טבעת ברור על רגל סיבית-כסופה וריח קמחי. ל-Phaeolepiota aurea כובע וחלק תחתון של הרגל במרקם אבקתי-גרגירי, טבעת גדולה ומתרחבת ונבגים חומים-צהבהבים בהירים יותר. מיני Pholiota קטנים הגדלים על עץ ומיני Cortinarius חומים-צהבהבים מהסקציה Callistei עלולים גם הם להידמות שטחית.",
+      "notes": "בניגוד לכמה מינים בסוג זה המכחילים במגע, מין זה אינו מכחיל ואינו מכיל פסילוציבין. גבולות המינים בתוך קומפלקס Gymnopilus sapineus—ובמיוחד בין מין זה לבין Gymnopilus penetrans—שנויים במחלוקת מזה זמן רב, וכמה גישות מודרניות רואות בהם מינים שקשה להפריד ביניהם ללא מיקרוסקופיה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक छोटे से मध्यम आकार का मृतोपजीवी, गिल्स वाला मशरूम है, जो सड़ती हुई शंकुधारी लकड़ी और कभी-कभी चौड़ी पत्ती वाले पेड़ों की लकड़ी पर अकेले, समूहों में या छोटे गुच्छों में उगता है। यह यूरोप और उत्तरी अमेरिका के समशीतोष्ण और बोरियल वनों में व्यापक रूप से पाया जाता है, तथा ऑस्ट्रेलिया और न्यूज़ीलैंड में भी दर्ज किया गया है।",
+      "cap": "टोपी का व्यास 2–9 cm (अधिकतर 2–8 cm) होता है; प्रारंभ में यह अर्धगोलाकार से उत्तल होती है और बाद में फैलकर चौड़ी उत्तल या लगभग चपटी हो जाती है, जिसमें कभी-कभी केंद्र में एक नीचा और चौड़ा उभार बना रहता है। किनारा शुरू में अंदर की ओर मुड़ा होता है और उम्र के साथ सीधा हो जाता है, युवा अवस्था में इस पर कभी-कभी नाज़ुक आवरण के अवशेष रहते हैं और शुष्क मौसम में यह रेशेदार रूप से फट सकता है। शुष्क सतह शुरू में मखमली, नमदे जैसी या महीन रेशेदार होती है, जो उम्र बढ़ने पर आमतौर पर सुनहरे-पीले से भूरे-पीले या नारंगी-भूरे आधार के ऊपर चिपके हुए सूक्ष्म गेरुए-भूरे से लाल-भूरे शल्कों में टूट जाती है; यह केंद्र में गहरी और किनारे की ओर हल्की क्रीम-पीली होती है। पोटेशियम हाइड्रॉक्साइड (KOH) से टोपी की सतह गहरे लाल और फिर काले रंग की हो जाती है।",
+      "hymenium": "गिल्स डंठल से जुड़े हुए से लेकर हल्के कटाव वाले, चौड़े और घने होते हैं, तथा इनके किनारे चिकने से लेकर सूक्ष्म रूप से रोएँदार होते हैं। युवा अवस्था में ये हल्के क्रीम-पीले से चमकीले पीले होते हैं और बीजाणुओं के पकने पर इन पर जंग-भूरे धब्बे पड़ जाते हैं तथा ये पूरी तरह चमकीले नारंगी से जंग-भूरे रंग के हो जाते हैं। बेसिडिया 4-स्टेरिग्मा वाले होते हैं; काइलोसिस्टिडिया (cheilocystidia) और मुश्किल से उभरे हुए प्लूरोसिस्टिडिया (pleurocystidia) उपस्थित होते हैं (हालांकि कुछ संग्रहों में काइलोसिस्टिडिया विरल और अस्पष्ट हो सकते हैं), और कॉलोसिस्टिडिया (caulocystidia) विरल से लेकर उपस्थित होते हैं।",
+      "stipe": "डंठल 2.5–7 cm लंबा और 0.3–1.5 cm मोटा (आमतौर पर 0.5–1 cm) होता है, जो बेलनाकार या आधार की ओर थोड़ा पतला होता है, तथा दृढ़, ठोस और लचीला होता है। यह हल्के पीले से पीले-गेरुए रंग का और टोपी के रंगों की झलक लिए होता है, चिकना से महीन अनुदैर्ध्य रेशेदार होता है, और उम्र या छूने पर आधार से ऊपर की ओर पीले-भूरे या लाल-भूरे रंग में गहरा हो जाता है; आधार पर सफेद से पीलापन लिए कवकजाल होता है। युवा फलनकायों में एक नाज़ुक, मकड़ी के जाले जैसा पीला आंशिक आवरण (cortina) होता है जो जल्दी गायब हो जाता है, शायद ही कभी स्थायी वलय छोड़ता है और अधिक से अधिक ऊपरी डंठल पर हल्के रेशेदार निशान छोड़ता है।",
+      "flesh": "गूदा पतला, हल्का पीला से पीला-नारंगी और इसी वंश के बड़े सदस्यों की तुलना में अपेक्षाकृत नाज़ुक होता है। गंध हल्की, मशरूम जैसी, थोड़ी मसालेदार या हल्की मीठी होती है; स्वाद आमतौर पर स्पष्ट रूप से कड़वा होता है, हालांकि कभी-कभी हल्का भी हो सकता है।",
+      "sporePrint": "बीजाणु छाप जंग-भूरे से चमकीले जंग-नारंगी रंग की होती है। बीजाणु दीर्घवृत्ताकार से बादाम के आकार के, स्पष्ट रूप से मस्सेदार और डेक्सट्रिनॉइड (मेल्ज़र के अभिकर्मक में लाल-भूरे हो जाते हैं) होते हैं, जिनका आकार 6.5–10.5 × 4–6 µm (आमतौर पर 7–9.5 × 4.5–5.5 µm) होता है।",
+      "habitat": "यह मृत और सड़ती हुई शंकुधारी लकड़ी—विशेषकर चीड़, देवदार और स्प्रूस के ठूँठों, लट्ठों, शाखाओं, जड़ों और जंगल के कूड़े में दबे लकड़ी के मलबे—पर मृतोपजीवी के रूप में उगता है, और बहुत कम ही चौड़ी पत्ती वाले पेड़ों की लकड़ी पर मिलता है। यूरोप और उत्तरी अमेरिका के अधिकांश हिस्सों में यह जून से नवंबर तक अकेले, समूहों में या छोटे गुच्छों में फलता है, जबकि भूमध्यसागरीय और प्रशांत तटीय जलवायु में सर्दियों (सितंबर से फरवरी) तक फैला रहता है।",
+      "uses": "कड़वे स्वाद और पतले गूदे के कारण यह अखाद्य है; कुछ स्रोत इसे संदिग्ध या संभावित रूप से हल्का विषाक्त भी मानते हैं।",
+      "confusion": "यह Gymnopilus penetrans से बहुत मिलता-जुलता है, जिसका शंकुधारी लकड़ी का प्राकृतिक वास, आकार और पीले से जंग-रंगी रंग भी समान होते हैं; बाह्य लक्षणों में भारी समानता होती है और विश्वसनीय पहचान के लिए अक्सर टोपी की त्वचा के कवकतंतुओं (इस प्रजाति में अधिकतर 8–16 µm चौड़े, मोटे जंग-भूरे आवरण और फूली हुई छोटी कोशिकाओं वाले, जबकि Gymnopilus penetrans में 3–10 µm चौड़े, पतले, बेलनाकार और कम आवरण वाले कवकतंतु) तथा सिस्टिडिया की सूक्ष्मदर्शी जाँच आवश्यक होती है, साथ ही Gymnopilus penetrans शरद ऋतु में देर से फलने की प्रवृत्ति रखता है। Gymnopilus junonius कहीं अधिक बड़ा और मोटा होता है, मुख्यतः चौड़ी पत्ती वाले पेड़ों की लकड़ी पर उगता है, और इसके डंठल पर स्पष्ट स्थायी झिल्लीदार वलय बना रहता है। Gymnopilus luteocarneus की टोपी अधिक चिकनी और गहरी होती है। Galerina marginata घातक रूप से विषाक्त है, आमतौर पर छोटा होता है, जिसकी टोपी चिकनी, नमी के साथ रंग बदलने वाली भूरी होती है, चाँदी जैसे रेशेदार डंठल पर स्पष्ट वलय क्षेत्र होता है और आटे जैसी गंध आती है। Phaeolepiota aurea की टोपी और निचला डंठल पाउडर जैसे दानेदार होते हैं, इसमें बड़ा फैला हुआ वलय होता है और बीजाणु हल्के पीले-भूरे होते हैं। लकड़ी पर उगने वाली छोटी Pholiota प्रजातियाँ और Callistei अनुभाग की भूरी-पीली Cortinarius प्रजातियाँ भी सतही तौर पर समान दिख सकती हैं।",
+      "notes": "अपने वंश के कई नीले पड़ने वाले सदस्यों के विपरीत, यह प्रजाति नीली नहीं पड़ती और इसमें साइलोसाइबिन नहीं होता। Gymnopilus sapineus समूह—विशेष रूप से इस प्रजाति और Gymnopilus penetrans—के बीच प्रजाति सीमाओं पर लंबे समय से बहस रही है, और कुछ आधुनिक अध्ययन मानते हैं कि सूक्ष्मदर्शी जाँच के बिना इन दोनों को अलग करना कठिन है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala do srednje velika saprotrofna gljiva s listićima koja raste pojedinačno, u skupinama ili u manjim busenima na trulom crnogoričnom drvu, a rjeđe na bjelogorici. Široko je rasprostranjena u umjerenim i borealnim šumama Europe i Sjeverne Amerike, a zabilježena je i u Australiji te na Novom Zelandu.",
+      "cap": "Promjera 2–9 cm (najčešće 2–8 cm), u mladosti polukuglast do ispupčen, poslije široko ispupčen ili gotovo ravan, ponekad sa širokom, niskom središnjom grbicom. Rub je isprva podvijen, s godinama se izravnava, u mladosti ponekad nosi krhke ostatke ovoja, a za suhog vremena može vlaknasto pucati. Suha površina isprva je baršunasta, pustenasta ili fino vlaknasta, a s vremenom se tipično raspucava u sitne priljubljene oker-smeđe do crvenkastosmeđe ljuskice na zlatnožutoj, žutosmeđoj ili narančastosmeđoj podlozi; u sredini je tamnija, a prema rubu bljeđe kremastožuta. Kalijev hidroksid (KOH) oboji površinu klobuka tamnocrveno, a zatim crno.",
+      "hymenium": "Listići su prirasli do blago urezani, široki i gusti, glatke do fino pahuljaste oštrice. U mladosti su blijedokremastožuti do jarkožuti, zatim dobivaju hrđastosmeđe pjege, a sazrijevanjem spora u cijelosti postaju jarkonarančasti do hrđastosmeđi. Bazidiji imaju 4 sterigme; prisutne su heilocistide i jedva izbočene pleurocistide (iako heilocistide u nekim nalazima mogu biti rijetke i neupadljive), a kaulocistide su rijetke do prisutne.",
+      "stipe": "Dug 2,5–7 cm i debeo 0,3–1,5 cm (najčešće 0,5–1 cm), valjkast ili blago sužen prema dnu, čvrst, pun i žilav. Blijedožut do žućkastooker s prizvukom boja klobuka, gladak do fino uzdužno vlaknast, s godinama ili na dodir tamni od dna prema gore u žutosmeđu ili crvenkastosmeđu boju, s bjelkastim do žućkastim bazalnim micelijem. U mladih plodnih tijela prisutan je krhak, paučinast žućkasti djelomični ovoj (kortina) koji brzo nestaje, rijetko ostavljajući postojan vjenčić, a najčešće tek slabe vlaknaste tragove u gornjem dijelu stručka.",
+      "flesh": "Tanko, blijedožuto do žućkastonarančasto i razmjerno nježno u usporedbi s većim vrstama roda. Miris je blag, gljivast, blago začinski ili jedva primjetno slatkast; okus je tipično izrazito gorak, iako povremeno može biti blag.",
+      "sporePrint": "Hrđastosmeđ do jarko hrđastonarančast. Spore su elipsoidne do bademaste, izrazito bradavičave, dekstrinoidne (u Melzerovu reagensu poprimaju crvenkastosmeđu boju) i mjere 6,5–10,5 × 4–6 µm (tipično 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofna vrsta na mrtvom, trulom crnogoričnom drvu — osobito na panjevima, deblima, granama, korijenju i zakopanim drvnim ostacima bora, jele i smreke u šumskoj stelji — a samo rijetko na bjelogorici. Plodonosi pojedinačno, u skupinama ili manjim busenima od lipnja do studenoga u većem dijelu Europe i Sjeverne Amerike, dok se u sredozemnoj i pacifičkoj obalnoj klimi sezona proteže i kroz zimu (od rujna do veljače).",
+      "uses": "Nejestiva zbog gorkog okusa i tankog mesa; neki je izvori smatraju i sumnjivom ili potencijalno blago otrovnom.",
+      "confusion": "Vrlo je slična vrsti Gymnopilus penetrans, koja dijeli isto stanište na crnogoričnom drvu, veličinu i žuto-hrđastu obojenost; makroskopska se obilježja snažno preklapaju, pa pouzdano razdvajanje često zahtijeva mikroskopski pregled hifa kožice klobuka (pileipelis: kod ove vrste većinom široke 8–16 µm s grubim hrđastosmeđim inkrustacijama i napuhnutim kratkim stanicama, naspram užih, 3–10 µm širokih valjkastih i slabije inkrustiranih hifa kod Gymnopilus penetrans) i cistida, uz sklonost vrste Gymnopilus penetrans da plodonosi kasnije u jesen. Gymnopilus junonius znatno je veći i krupniji, raste pretežno na bjelogorici i zadržava izrazit, postojan opnast vjenčić na stručku. Gymnopilus luteocarneus ima glađi i tamniji klobuk. Galerina marginata smrtno je otrovna, tipično manja, s glatkim higrofanim smeđim klobukom, jasnom zonom vjenčića na srebrnastovlaknastom stručku i brašnastim mirisom. Phaeolepiota aurea ima brašnasto-zrnati klobuk i donji dio stručka s velikim raširenim vjenčićem te bljeđe žutosmeđe spore. Površno mogu nalikovati i sitne drvne vrste roda Pholiota te žutosmeđe vrste roda Cortinarius iz sekcije Callistei.",
+      "notes": "Za razliku od nekoliko vrsta svoga roda koje poplave na dodir, ova vrsta ne poplavi i ne sadrži psilocibin. Granice vrsta unutar kompleksa Gymnopilus sapineus — osobito između ove vrste i vrste Gymnopilus penetrans — dugo su predmet rasprave, a pojedina suvremena tumačenja smatraju da ih je bez mikroskopije teško razdvojiti.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kicsi vagy közepes termetű, szaprotróf lemezes gomba, amely magányosan, seregesen vagy kisebb csoportokban terem korhadó fenyőfán, ritkábban lombos fán. Széles körben elterjedt Európa és Észak-Amerika mérsékelt övi és boreális erdeiben, továbbá Ausztráliából és Új-Zélandról is ismert.",
+      "cap": "2–9 cm átmérőjű (többnyire 2–8 cm), kezdetben félgömb alakú vagy domború, majd szélesen domborúvá vagy majdnem lapossá kiterülő, közepén néha alacsony, széles púppal. Széle eleinte begöngyölt, idővel kiegyenesedik, fiatalon néha törékeny burokmaradványok díszítik, száraz időben pedig szálasan berepedezhet. Száraz felülete kezdetben bársonyos, nemezes vagy finoman szálas, idővel jellemzően apró, rásimuló okkerbarna–vörösbarna pikkelykékre szakadozik fel aranysárga, sárgásbarna vagy narancsbarna alapon; közepe sötétebb, széle felé halványabb krémsárga. Kálium-hidroxid (KOH) hatására a kalap felszíne sötétvörösre, majd feketére színeződik.",
+      "hymenium": "A lemezek tönkhöz nőttek vagy enyhén foggal lefutók, szélesek és sűrűn állók, élük sima vagy finoman pelyhes. Fiatalon halvány krémsárgák vagy élénksárgák, majd rozsdabarna foltok jelennek meg rajtuk, a spórák érésével pedig összességében élénk narancssárgára vagy rozsdabarnára színeződnek. A bazídiumok 4-spórásak; keilocisztídiumok és alig kiálló pleurocisztídiumok jelen vannak (bár a keilocisztídiumok egyes gyűjtésekben ritkák és feltűnésmentesek lehetnek), a kaulocisztídiumok pedig szórványosak vagy jelen vannak.",
+      "stipe": "2,5–7 cm hosszú és 0,3–1,5 cm vastag (jellemzően 0,5–1 cm), hengeres vagy a töve felé enyhén elvékonyodó, kemény, tömör és rugalmas. Halványsárga vagy sárgásokker színű, a kalap árnyalataival futtatott, sima vagy finoman hosszanti szálas; idővel vagy megfogásra a tövétől felfelé sárgásbarnára vagy vörösbarnára sötétedik, tövén fehéres vagy sárgás micéliumbevonattal. Fiatal termőtesteken törékeny, pókhálószerű, sárgás részleges burok (kortina) található, amely gyorsan eltűnik, ritkán hagy maradandó gallért, legfeljebb halvány szálas nyomokat a tönk felső részén.",
+      "flesh": "Vékony, halványsárga vagy sárgásnarancs színű, a nemzetség nagyobb fajaihoz képest viszonylag törékeny. Szaga enyhe, gombaszerű, enyhén fűszeres vagy kissé édeskés; íze jellemzően kifejezetten keserű, bár esetenként enyhe is lehet.",
+      "sporePrint": "Rozsdabarna vagy élénk rozsdanarancs. A spórák ellipszoidok vagy mandula alakúak, kifejezetten szemölcsösek, dextrinoidok (Melzer-reagensben vörösbarnára színeződnek), méretük 6,5–10,5 × 4–6 µm (jellemzően 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Szaprotróf faj, elhalt, korhadó fenyőfán — különösen erdeifenyő, jegenyefenyő és lucfenyő tuskóin, rönkjein, ágain, gyökerein és az erdei avarba temetett fadarabokon — terem, lombos fán csak ritkán fordul elő. Magányosan, seregesen vagy kisebb csoportokban jelenik meg júniustól novemberig Európa és Észak-Amerika nagy részén, míg mediterrán és csendes-óceáni partvidéki éghajlaton a termőidőszak a téli hónapokra is kiterjed (szeptembertől februárig).",
+      "uses": "Keserű íze és vékony húsa miatt nem ehető; egyes források gyanúsnak vagy enyhén mérgezőnek is tartják.",
+      "confusion": "Nagyon hasonlít a Gymnopilus penetrans fajra, amely azonos fenyőfa-élőhelyen nő, hasonló méretű és sárga–rozsdaszínű; makroszkópos bélyegeik erősen átfednek, ezért a biztos elkülönítés gyakran a kalapbőr (pileipellis) hifáinak (ennél a fajnál többnyire 8–16 µm szélesek, durva rozsdabarna inkrusztációval és felfújt, rövid sejtekkel, míg a Gymnopilus penetrans esetében keskenyebbek, 3–10 µm-esek, hengeresek és kevésbé erősen inkrusztáltak) és a cisztídiumok mikroszkópos vizsgálatát igényli, amellett, hogy a Gymnopilus penetrans hajlamos később, ősszel teremni. A Gymnopilus junonius sokkal nagyobb és zömökebb, főként lombos fán nő, és tönkjén jól látható, maradandó hártyás gallért visel. A Gymnopilus luteocarneus kalapja simább és sötétebb. A Galerina marginata halálosan mérgező, általában kisebb, sima, higrofán barna kalapú, ezüstösen szálas tönkjén jól kivehető gallérzóna látható, szaga pedig lisztszerű. A Phaeolepiota aurea kalapja és tönkjének alsó része lisztes-szemcsés, nagy, elálló gallérja és halványabb sárgásbarna spórái vannak. Felületesen hasonlíthatnak rá a kisebb, fán élő Pholiota fajok és a Callistei szekcióba tartozó sárgásbarna Cortinarius fajok is.",
+      "notes": "A nemzetség több kékülő fajával ellentétben ez a faj nem kékül el és nem tartalmaz pszilocibint. A Gymnopilus sapineus fajkomplexen belüli faji határok — különösen e faj és a Gymnopilus penetrans között — régóta vitatottak, és több modern felfogás szerint a kettőt mikroszkóp nélkül nehéz biztonsággal elkülöníteni.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/B%C3%A1rsonykalap%C3%BA_l%C3%A1nggomba",
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "id": {
+      "description": "Jamur berlamela saprotrof berukuran kecil hingga sedang yang tumbuh sendiri, berkelompok, atau dalam rumpun kecil pada kayu konifer yang membusuk dan sesekali pada kayu keras. Tersebar luas di hutan beriklim sedang dan boreal di Eropa serta Amerika Utara, dan juga tercatat di Australia serta Selandia Baru.",
+      "cap": "Tudung berdiameter 2–9 cm (umumnya 2–8 cm), mula-mula berbentuk setengah bola hingga cembung, lalu melebar menjadi cembung lebar atau hampir datar, kadang mempertahankan tonjolan tengah yang rendah dan lebar. Tepiannya mula-mula menggulung ke dalam, melurus seiring bertambahnya usia, sesekali menyisakan sisa selubung yang rapuh saat muda, dan kadang pecah berserabut pada cuaca kering. Permukaannya kering, mula-mula seperti beludru, berbulu halus, atau berserabut halus, lalu seiring usia biasanya terpecah menjadi sisik-sisik halus yang menempel berwarna cokelat oker hingga cokelat kemerahan di atas dasar kuning keemasan hingga cokelat kekuningan atau cokelat jingga, lebih gelap di bagian tengah dan lebih pucat kuning krem ke arah tepi. Kalium hidroksida (KOH) mengubah permukaan tudung menjadi merah tua lalu hitam.",
+      "hymenium": "Lamela melekat hingga sedikit berlekuk, lebar, dan rapat, dengan tepi halus hingga sedikit berbulu halus. Warnanya kuning krem pucat hingga kuning cerah saat muda, kemudian memunculkan bercak cokelat karat dan berubah menjadi jingga cerah hingga cokelat karat secara keseluruhan saat spora matang. Basidium bersporofor 4 (4-sterigma); keilosistidia dan pleurosistidia yang hampir tidak menonjol hadir (meskipun keilosistidia dapat jarang dan tidak mencolok pada beberapa koleksi), sedangkan kaulosistidia jarang hingga hadir.",
+      "stipe": "Tangkai sepanjang 2,5–7 cm dan tebal 0,3–1,5 cm (umumnya 0,5–1 cm), berbentuk silindris atau sedikit menyempit ke arah pangkal, kokoh, padat, dan liat. Warnanya kuning pucat hingga kuning oker dengan semburat warna tudung, halus hingga berserabut halus memanjang, menggelap menjadi cokelat kekuningan atau cokelat kemerahan dari pangkal ke atas seiring usia atau sentuhan, dengan miselium pangkal berwarna keputihan hingga kekuningan. Selubung parsial kekuningan yang rapuh menyerupai jaring laba-laba (kortina) hadir pada tubuh buah muda, namun cepat menghilang, jarang meninggalkan cincin yang menetap dan paling banyak hanya menyisakan bekas berserabut samar pada bagian atas tangkai.",
+      "flesh": "Daging tipis, berwarna kuning pucat hingga kuning jingga, dan relatif rapuh dibandingkan anggota lain yang lebih besar dalam genus yang sama. Baunya ringan, khas jamur, sedikit pedas, atau agak manis samar; rasanya biasanya terasa pahit dengan jelas, meskipun sesekali ringan.",
+      "sporePrint": "Jejak spora berwarna cokelat karat hingga jingga karat cerah. Spora berbentuk elipsoid hingga menyerupai almond, berkutil jelas, dekstrinoid (berubah menjadi cokelat kemerahan dalam reagen Melzer), dan berukuran 6,5–10,5 × 4–6 µm (umumnya 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrof pada kayu konifer mati yang membusuk—terutama tunggul, batang tumbang, cabang, akar, dan serpihan kayu terkubur dari pinus, fir, dan spruce di serasah hutan—dan hanya jarang pada kayu keras. Berbuah sendiri, berkelompok, atau dalam rumpun kecil dari Juni hingga November di sebagian besar Eropa dan Amerika Utara, dan berlanjut sepanjang musim dingin (September hingga Februari) di iklim Mediterania serta pesisir Pasifik.",
+      "uses": "Tidak dapat dimakan karena rasanya yang pahit dan dagingnya yang tipis; beberapa sumber juga menganggapnya mencurigakan atau berpotensi sedikit beracun.",
+      "confusion": "Sangat mirip dengan Gymnopilus penetrans yang berbagi habitat kayu konifer, ukuran, serta warna kuning hingga karat yang sama; ciri makroskopisnya sangat tumpang tindih sehingga pemisahan yang andal sering memerlukan pemeriksaan mikroskopis terhadap hifa pileipelis (umumnya selebar 8–16 µm dengan kerak cokelat karat yang kasar dan sel-sel pendek menggelembung pada spesies ini, dibandingkan hifa silindris yang lebih sempit berukuran 3–10 µm dan kurang berkerak pada Gymnopilus penetrans) serta sistidia, di samping kecenderungan Gymnopilus penetrans untuk berbuah lebih lambat pada musim gugur. Gymnopilus junonius jauh lebih besar dan kekar, tumbuh terutama pada kayu keras, dan mempertahankan cincin berselaput yang jelas serta menetap pada tangkai. Gymnopilus luteocarneus memiliki tudung yang lebih halus dan lebih gelap. Galerina marginata beracun mematikan, umumnya lebih kecil dengan tudung cokelat halus yang higrofan, zona cincin yang jelas pada tangkai berserabut keperakan, serta bau seperti tepung. Phaeolepiota aurea memiliki tudung dan tangkai bagian bawah yang berbutir seperti bedak dengan cincin lebar mengembang serta spora cokelat kekuningan yang lebih pucat. Spesies kecil Pholiota penghuni kayu dan spesies Cortinarius berwarna cokelat kekuningan dari seksi Callistei juga dapat tampak mirip secara sekilas.",
+      "notes": "Berbeda dengan beberapa anggota genusnya yang membiru, spesies ini tidak berubah warna menjadi biru dan tidak mengandung psilosibin. Batas spesies dalam kompleks Gymnopilus sapineus—terutama antara spesies ini dan Gymnopilus penetrans—telah lama diperdebatkan, dan beberapa kajian modern menilai keduanya sulit dipisahkan tanpa pemeriksaan mikroskopis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Fungo a lamelle saprotrofo di taglia piccola o media, che cresce singolo, gregario o in piccoli cespi su legno di conifere in decomposizione e occasionalmente su legno di latifoglie. Ampiamente distribuito nelle foreste temperate e boreali d'Europa e del Nord America, è segnalato anche in Australia e Nuova Zelanda.",
+      "cap": "Cappello di 2–9 cm di diametro (per lo più 2–8 cm), inizialmente emisferico o convesso, poi espanso fino a largamente convesso o quasi piano, talvolta con un basso e largo umbone centrale. Il margine è inizialmente involuto, poi disteso con l'età, occasionalmente ornato da fragili residui di velo nei giovani esemplari e talvolta fessurato fibrillosamente con tempo secco. La superficie asciutta è dapprima vellutata, feltrata o finemente fibrillosa, poi si dissocia tipicamente con l'età in minute squamule appressate da bruno-ocracee a bruno-rossastre su fondo giallo dorato, fulvo o bruno-aranciato, più scuro al centro e giallo crema più pallido verso il margine. L'idrossido di potassio (KOH) vira la superficie del cappello al rosso scuro e poi al nero.",
+      "hymenium": "Lamelle adnate o leggermente smarginate, larghe e fitte, con filo liscio o minutamente fioccoso. Sono giallo crema pallido fino a giallo vivo nei giovani esemplari, sviluppando poi macchie bruno-ruggine e virando complessivamente all'arancio vivo o al bruno-ruggine a maturazione delle spore. I basidi sono tetrasporici; sono presenti cheilocistidi e pleurocistidi appena sporgenti (sebbene i cheilocistidi possano risultare scarsi e poco appariscenti in alcune raccolte), mentre i caulocistidi sono da scarsi a presenti.",
+      "stipe": "Gambo lungo 2,5–7 cm e spesso 0,3–1,5 cm (tipicamente 0,5–1 cm), cilindrico o leggermente attenuato verso la base, sodo, pieno ed elastico. Giallo pallido fino a giallo-ocra con sfumature dei toni del cappello, da liscio a finemente fibrilloso longitudinalmente, imbrunente verso il fulvo o il bruno-rossastro dalla base verso l'alto con l'età o la manipolazione, con micelio basale biancastro o giallastro. Nei giovani sporofori è presente un fragile velo parziale ragnateloso giallastro (cortina) che scompare rapidamente, lasciando raramente un anello persistente e al più deboli tracce fibrillose nella parte alta del gambo.",
+      "flesh": "Carne sottile, giallo pallido o giallo-aranciata e relativamente delicata rispetto alle specie più grandi del genere. L'odore è mite, fungino, leggermente speziato o debolmente dolciastro; il sapore è tipicamente nettamente amaro, sebbene occasionalmente mite.",
+      "sporePrint": "Impronta sporale bruno-ruggine fino ad arancio-ruggine vivo. Le spore sono ellissoidali o amigdaliformi, distintamente verrucose, destrinoidi (virano al bruno-rossastro nel reagente di Melzer) e misurano 6,5–10,5 × 4–6 µm (tipicamente 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofo su legno morto di conifere in decomposizione — in particolare ceppaie, tronchi, rami, radici e residui legnosi interrati di pino, abete bianco e abete rosso nella lettiera forestale — e solo raramente su latifoglie. Fruttifica singolo, gregario o in piccoli cespi da giugno a novembre nella maggior parte d'Europa e del Nord America, prolungandosi durante l'inverno (da settembre a febbraio) nei climi mediterranei e costieri del Pacifico.",
+      "uses": "Non commestibile a causa del sapore amaro e della carne sottile; alcune fonti lo considerano inoltre sospetto o potenzialmente leggermente tossico.",
+      "confusion": "Assomiglia strettamente a Gymnopilus penetrans, con cui condivide lo stesso habitat su legno di conifere, le dimensioni e la colorazione dal giallo al ruggine; i caratteri macroscopici si sovrappongono ampiamente e una separazione affidabile richiede spesso l'esame microscopico delle ife della pileipellis (per lo più larghe 8–16 µm con grossolane incrostazioni bruno-ruggine e cellule corte rigonfie in questa specie, contro ife più strette di 3–10 µm, cilindriche e meno incrostate in Gymnopilus penetrans) e dei cistidi, oltre alla tendenza di Gymnopilus penetrans a fruttificare più tardi in autunno. Gymnopilus junonius è molto più grande e robusto, cresce soprattutto su latifoglie e conserva un evidente anello membranoso persistente sul gambo. Gymnopilus luteocarneus ha un cappello più liscio e più scuro. Galerina marginata è mortale, tipicamente più piccola con cappello bruno liscio e igrofano, una distinta zona anulare su gambo fibrilloso-argenteo e odore farinoso. Phaeolepiota aurea presenta cappello e parte inferiore del gambo polveroso-granulosi con un ampio anello svasato e spore giallo-brune più pallide. Anche piccole specie lignicole di Pholiota e specie fulve di Cortinarius della sezione Callistei possono risultare superficialmente simili.",
+      "notes": "A differenza di diversi rappresentanti del suo genere che virano al blu, questa specie non vira al blu e non contiene psilocibina. I confini specifici all'interno del complesso Gymnopilus sapineus — in particolare tra questa specie e Gymnopilus penetrans — sono discussi da lungo tempo, e alcuni trattamenti moderni ritengono difficile separare le due specie senza l'ausilio della microscopia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "針葉樹、まれに広葉樹の腐朽木上に単生、群生、または小さな束生で発生する小型〜中型の腐生性きのこです。ヨーロッパおよび北アメリカの温帯林・亜寒帯林に広く分布し、オーストラリアおよびニュージーランドからも記録されています。",
+      "cap": "傘の直径は2〜9 cm（多くは2〜8 cm）で、初め半球形〜まんじゅう形、のちに広まんじゅう形〜ほぼ平らに開き、中央に低く幅広い膨らみを残すことがあります。縁は初め内側に巻き、成熟するとまっすぐになり、幼時にはもろい被膜の破片を付着させることがあるほか、乾燥時には繊維状に裂けることがあります。乾いた表面は初めビロード状、フェルト状、または細かい繊維状で、老成すると通常は黄金色〜黄褐色や橙褐色の地の上に、圧着した微細な黄土褐色〜赤褐色の鱗片へと分かれ、中央ほど濃色、縁に向かって淡いクリーム黄色になります。水酸化カリウム（KOH）により傘表面は暗赤色を経て黒色に変化します。",
+      "hymenium": "ひだは直生〜わずかに湾生し、幅が広く密で、縁は平滑〜微細な綿毛状です。幼時は淡いクリーム黄色〜鮮やかな黄色ですが、胞子の成熟に伴って錆褐色の斑点を生じ、全体が鮮やかな橙色〜錆褐色になります。担子器は4胞子性で、縁シスチジアおよびほとんど突出しない側シスチジアが存在し（一部の標本では縁シスチジアがまばらで目立たないことがあります）、柄シスチジアもまばら〜明瞭にみられます。",
+      "stipe": "柄は長さ2.5〜7 cm、太さ0.3〜1.5 cm（通常0.5〜1 cm）で、円柱状または基部に向かってやや細まり、硬く充実して弾力があります。淡黄色〜黄土色で傘の色味を帯び、平滑〜細かい縦の繊維状で、老成や接触により基部から上方に向かって黄褐色〜赤褐色に暗色化し、基部には白色〜帯黄色の菌糸体を伴います。幼い子実体にはもろいクモの巣状の黄色い内被膜（コルチナ）がありますが速やかに消失し、永続的なつばを残すことはまれで、多くても柄の上部にわずかな繊維状の痕跡をとどめる程度です。",
+      "flesh": "肉は薄く、淡黄色〜黄橙色で、同属の大型種に比べて比較的繊細です。においは穏やかで、きのこ臭やわずかにスパイシー、あるいはかすかに甘い香りがあり、味は通常はっきりと苦いものの、まれに穏やかなこともあります。",
+      "sporePrint": "胞子紋は錆褐色〜鮮やかな錆橙色です。胞子は楕円形〜アーモンド形で明瞭ないぼ状突起があり、デキストリノイド性（メルツァー試薬で赤褐色に変色）を示し、大きさは6.5〜10.5 × 4〜6 µm（通常7〜9.5 × 4.5〜5.5 µm）です。",
+      "habitat": "枯死・腐朽した針葉樹材—特にマツ、モミ、トウヒの切り株、倒木、枝、根、林床落葉層に埋もれた木片—に発生する腐生菌で、広葉樹材への発生はごくまれです。ヨーロッパおよび北アメリカの大部分では6月から11月にかけて単生、群生、または小さな束生で発生し、地中海性気候や太平洋沿岸地域では冬期（9月から2月）まで発生が続きます。",
+      "uses": "苦味が強く肉も薄いため不食とされ、一部の文献では食毒不明または軽度の毒性がある可能性も指摘されています。",
+      "confusion": "同じ針葉樹材の発生環境、大きさ、黄色〜錆色の色彩を共有するGymnopilus penetransと非常によく似ています。肉眼的な形質が大きく重なり合うため、確実な識別にはしばしば傘表皮菌糸（本種では多くが幅8〜16 µmで粗い錆褐色の色素沈着と膨らんだ短い細胞をもつのに対し、Gymnopilus penetransでは幅3〜10 µmのより細い円柱状で色素沈着の少ない菌糸）およびシスチジアの顕微鏡観察が必要であり、Gymnopilus penetransは秋遅くに発生しやすい傾向も手がかりになります。Gymnopilus junoniusははるかに大型で頑丈で、主に広葉樹材に発生し、柄に明瞭で永続的な膜質のつばを残します。Gymnopilus luteocarneusは傘がより平滑で暗色です。Galerina marginataは猛毒で、通常より小型、平滑で吸湿性の褐色の傘をもち、銀色の繊維状を帯びた柄に明瞭なつば状の帯があり、粉臭があります。Phaeolepiota aureaは傘と柄の下部が粉粒状で、大きく広がるつばとより淡い黄褐色の胞子をもちます。このほか、木材生の小型Pholiota属菌やCortinarius属Callistei節の黄褐色種も一見して似ていることがあります。",
+      "notes": "同属の一部にみられる青変性の種とは異なり、本種は青変せず、シロシビンも含有しません。Gymnopilus sapineus複合体—特に本種とGymnopilus penetransの間—の種境界は長年にわたり議論されており、現代の分類学的扱いの中には顕微鏡観察なしに両者を区別するのは困難とする見解もあります。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/118302"
+      ]
+    },
+    "ko": {
+      "description": "썩은 침엽수 목재와 간혹 활엽수 목재 위에서 단생하거나 군생, 또는 작은 다발을 이루어 자라는 소형에서 중형 크기의 부생성 주름살버섯입니다. 유럽과 북아메리카의 온대림 및 아한대림 전역에 널리 분포하며, 호주와 뉴질랜드에서도 기록되어 있습니다.",
+      "cap": "갓의 지름은 2–9 cm(대부분 2–8 cm)이며, 처음에는 반구형에서 볼록형이었다가 자라면서 넓은 볼록형 또는 거의 편평형으로 펴지고 때로는 중앙에 낮고 넓은 봉우리가 남습니다. 가장자리는 처음에 안쪽으로 말려 있다가 성숙하면서 펴지며, 어릴 때 간혹 연약한 피막 잔재가 붙어 있고 건조한 날씨에는 섬유상으로 갈라지기도 합니다. 건조한 표면은 처음에 벨벳상, 펠트상 또는 미세한 섬유상이다가 나이가 들면서 보통 황금빛 노란색에서 황갈색 또는 주황갈색 바탕 위에 밀착된 미세한 황토갈색 내지 적갈색 비늘로 갈라지며, 중앙이 더 짙고 가장자리로 갈수록 옅은 크림빛 노란색을 띱니다. 수산화칼륨(KOH)을 떨어뜨리면 갓 표면이 암적색으로 변한 뒤 검게 변합니다.",
+      "hymenium": "주름살은 대에 붙은형에서 약간 내린형(홈형)이며, 폭이 넓고 빽빽하며 가장자리는 매끄럽거나 미세하게 솜털 모양입니다. 어릴 때는 옅은 크림빛 노란색에서 선명한 노란색을 띠지만, 포자가 성숙함에 따라 녹갈색 반점이 생기고 전체적으로 선명한 주황색에서 녹갈색으로 변합니다. 담자기는 4포자형이며, 연낭상체와 거의 돌출하지 않는 측낭상체가 존재하고(일부 표본에서는 연낭상체가 드물고 뚜렷하지 않을 수 있음), 대낭상체는 드물거나 존재합니다.",
+      "stipe": "대는 길이 2.5–7 cm, 굵기 0.3–1.5 cm(보통 0.5–1 cm)로 원통형이거나 기부를 향해 약간 가늘어지며, 단단하고 속이 차 있으며 질깁니다. 옅은 노란색에서 황토색을 띠며 갓의 색조가 감돌고, 매끄럽거나 미세한 세로 섬유상이며, 노화하거나 만지면 기부에서 위로 올라가며 황갈색 또는 적갈색으로 어두워지고 기부에는 희끄무레하거나 누르스름한 균사체가 있습니다. 어린 자실체에는 거미줄 모양의 연약한 누르스름한 부분피막(코르티나)이 있으나 빠르게 사라져 지속적인 턱받이를 남기는 경우는 드물고, 기껏해야 대 상부에 희미한 섬유상 흔적만 남깁니다.",
+      "flesh": "살은 얇고 옅은 노란색에서 황주황색을 띠며, 같은 속의 대형 종들에 비해 비교적 연약합니다. 냄새는 순하고 버섯 향이 나며 약간 향신료 같거나 희미하게 달콤합니다. 맛은 보통 뚜렷하게 쓰지만 간혹 순하기도 합니다.",
+      "sporePrint": "포자문은 녹갈색에서 선명한 녹주황색입니다. 포자는 타원형에서 아몬드형이고 뚜렷한 사마귀 모양 돌기가 있으며 덱스트리노이드성(멜처 시약에서 적갈색으로 변함)을 띠고, 크기는 6.5–10.5 × 4–6 µm(보통 7–9.5 × 4.5–5.5 µm)입니다.",
+      "habitat": "죽어 썩어가는 침엽수 목재—특히 소나무, 전나무, 가문비나무의 그루터기, 쓰러진 줄기, 가지, 뿌리 및 숲 바닥 낙엽층에 묻힌 목재 파편—에서 자라는 부생성 버섯이며, 활엽수 목재에서는 매우 드물게 발견됩니다. 유럽과 북아메리카 대부분 지역에서 6월부터 11월까지 단생, 군생 또는 작은 다발로 발생하며, 지중해성 기후와 태평양 연안 기후에서는 겨울철(9월부터 2월)까지 이어집니다.",
+      "uses": "쓴맛과 얇은 살 때문에 식용 부적합합니다. 일부 자료에서는 의심종 또는 약한 독성이 있을 가능성이 있는 것으로 보기도 합니다.",
+      "confusion": "침엽수 목재 서식지, 크기, 노란색에서 녹갈색의 색상을 공유하는 Gymnopilus penetrans와 매우 유사합니다. 육안 형질이 크게 겹치므로 확실한 동정을 위해서는 흔히 갓표피 균사(이 종은 대부분 폭 8–16 µm로 거친 녹갈색 침착물과 팽창된 짧은 세포를 갖는 반면, Gymnopilus penetrans는 폭 3–10 µm의 더 가늘고 원통형이며 침착물이 적은 균사를 가짐)와 낭상체의 현미경 관찰이 필요하며, Gymnopilus penetrans가 늦가을에 더 늦게 발생하는 경향도 참고할 수 있습니다. Gymnopilus junonius는 훨씬 크고 튼튼하며 주로 활엽수에서 자라고 대에 뚜렷하고 지속적인 막질 턱받이를 유지합니다. Gymnopilus luteocarneus는 갓이 더 매끄럽고 어둡습니다. Galerina marginata는 치명적인 독버섯으로 보통 더 작으며, 매끄럽고 흡습성인 갈색 갓, 은빛 섬유상 대 위의 뚜렷한 턱받이 흔적대, 그리고 밀가루 냄새를 지닙니다. Phaeolepiota aurea는 가루입자 모양의 갓과 대 하부, 크게 퍼지는 턱받이, 더 옅은 황갈색 포자를 가집니다. 목재에 서식하는 소형 Pholiota 속 종들과 Callistei 절에 속하는 황갈색 Cortinarius 속 종들도 겉보기에는 비슷할 수 있습니다.",
+      "notes": "같은 속의 청변성 종들과 달리 이 종은 청변하지 않으며 실로시빈을 함유하지 않습니다. Gymnopilus sapineus 복합체—특히 이 종과 Gymnopilus penetrans 사이—의 종 경계는 오랫동안 논의되어 왔으며, 일부 현대 분류학적 견해에서는 현미경 관찰 없이는 두 종을 구분하기 어렵다고 봅니다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Smulkus ar vidutinio dydžio saprotrofinis lakštabudinis grybas, augantis pavieniui, grupėmis arba nedideliais kuokštais ant pūvančios spygliuočių, o retkarčiais ir lapuočių medienos. Plačiai paplitęs vidutinio klimato ir borealinėse Europos bei Šiaurės Amerikos miškų zonose, taip pat žinomas iš Australijos ir Naujosios Zelandijos.",
+      "cap": "2–9 cm skersmens (dažniausiai 2–8 cm), iš pradžių pusrutuliška ar iškila, vėliau plačiai iškila arba beveik plokščia, kartais su žemu plačiu gūbreliu centre. Kraštas pradžioje užsirietęs, senstant išsitiesina, jaunų vaisiakūnių kartais su trapiomis šydo liekanomis, o sausu oru kartais plaušuotai sutrūkinėja. Sausas paviršius pradžioje aksominis, veltiniškas arba smulkiai plaušuotas, senstant paprastai suskyla į smulkius prigludusius ochriškai rudus ar rausvai rudus žvynelius aukso geltonumo, gelsvai rudos ar oranžiškai rudos spalvos fone; centras tamsesnis, o link krašto spalva šviesesnė, kreminiai geltona. Kalio hidroksidas (KOH) kepurėlės paviršių nudažo tamsiai raudonai, o vėliau juodai.",
+      "hymenium": "Lakšteliai priaugtiniai arba kiek įlinkę, platūs ir tankūs, lygiais ar smulkiai pūkuotais pakraščiais. Jauni būna blyškiai kreminiai geltoni ar ryškiai geltoni, vėliau pasidengia rūdžių rudumo dėmėmis ir, sporoms bręstant, tampa ryškiai oranžiniai arba rūdžių rudi. Bazidijos ketursporės (su 4 sterigmomis); cheilocistidės ir vos išsikišančios pleurocistidės yra (nors kai kuriuose rinkiniuose cheilocistidės gali būti retos ir neryškios), o kaulocistidės būna retos arba aiškios.",
+      "stipe": "2,5–7 cm ilgio ir 0,3–1,5 cm storio (paprastai 0,5–1 cm), cilindriškas arba kiek siaurėjantis link pagrindo, tvirtas, pilnaviduris ir tamprus. Blyškiai geltonas arba gelsvai ochrinis su kepurėlės atspalviais, lygus arba smulkiai išilgai plaušuotas, senstant ar liečiant nuo pagrindo aukštyn tamsėjantis iki gelsvai rudo ar rausvai rudo, su balkšva ar gelsva pamatine grybiena. Jaunuose vaisiakūniuose būna trapus, voratinkliškas gelsvas dalinis šydas (kortina), kuris greitai išnyksta, retai palikdamas išliekantį žiedą ir daugiausia tik neryškius plaušuotus pėdsakus viršutinėje koto dalyje.",
+      "flesh": "Plona, blyškiai geltona arba gelsvai oranžinė, palyginti trapi lyginant su stambesnėmis šios genties rūšimis. Kvapas švelnus, grybiškas, kiek aštrokas arba silpnai saldus; skonis paprastai aiškiai kartus, nors kartais būna švelnus.",
+      "sporePrint": "Rūdžių rudas arba ryškiai rūdžių oranžinis. Sporos elipsoidinės arba migdolo formos, aiškiai karpotos, dekstrinoidinės (Melzerio reagente nusidažo rausvai rudai), 6,5–10,5 × 4–6 µm dydžio (paprastai 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofinis grybas, augantis ant negyvos, pūvančios spygliuočių medienos — ypač pušų, kėnių ir eglių kelmų, stuobrių, šakų, šaknų ir miško paklotėje palaidotų medienos liekanų — ir tik retai ant lapuočių medienos. Vaisiakūnius augina pavieniui, grupėmis ar nedideliais kuokštais nuo birželio iki lapkričio didžiojoje Europos ir Šiaurės Amerikos dalyje, o Viduržemio jūros ir Ramiojo vandenyno pakrančių klimato zonose — ir žiemą (nuo rugsėjo iki vasario).",
+      "uses": "Nevalgomas dėl kartaus skonio ir plonos tramos; kai kurie šaltiniai jį taip pat laiko įtartinu arba galimai silpnai nuodingu.",
+      "confusion": "Labai panašus į Gymnopilus penetrans, kuris pasižymi ta pačia augaviete ant spygliuočių medienos, dydžiu ir geltona–rūdžių ruda spalva; makroskopiniai požymiai stipriai persidengia, todėl patikimam atskyrimui dažnai būtinas mikroskopinis kepurėlės luobelės hifų (šiai rūšiai būdingi daugiausia 8–16 µm pločio hifai su stambiomis rūdžių rudumo inkrustacijomis ir išsipūtusiomis trumpomis ląstelėmis, o Gymnopilus penetrans turi siauresnius, 3–10 µm pločio cilindriškus, silpniau inkrustuotus hifus) ir cistidžių tyrimas, be to, Gymnopilus penetrans linkęs derėti vėliau rudenį. Gymnopilus junonius yra gerokai stambesnis ir tvirtesnis, auga daugiausia ant lapuočių medienos ir ant koto išlaiko ryškų plėvišką žiedą. Gymnopilus luteocarneus turi lygesnę, tamsesnę kepurėlę. Galerina marginata yra mirtinai nuodinga, paprastai smulkesnė, su lygia higrofaniška ruda kepurėle, ryškia žiedo zona ant sidabriškai plaušuoto koto ir miltų kvapu. Phaeolepiota aurea pasižymi miltuotai grūdėta kepurėle ir apatine koto dalimi, dideliu atvipusiu žiedu bei šviesesnėmis gelsvai rudomis sporomis. Paviršutiniškai gali būti panašios ir smulkios ant medienos augančios Pholiota rūšys bei gelsvai rudos Callistei sekcijos Cortinarius rūšys.",
+      "notes": "Skirtingai nei kelios mėlynuojančios šios genties rūšys, ši rūšis nemėlynuoja ir neturi psilocibino. Rūšių ribos Gymnopilus sapineus komplekse — ypač tarp šios rūšies ir Gymnopilus penetrans — jau seniai diskutuojamos, o kai kurie šiuolaikiniai traktavimai laiko jas sunkiai atskiriamomis be mikroskopijos.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "lv": {
+      "description": "Neliela līdz vidēja lieluma saprotrofa lapiņu sēne, kas aug pa vienai, grupās vai nelielos pušķos uz trūdošas skujkoku, retāk lapkoku koksnes. Plaši izplatīta Eiropas un Ziemeļamerikas mērenās joslas un boreālajos mežos, konstatēta arī Austrālijā un Jaunzēlandē.",
+      "cap": "2–9 cm plata (visbiežāk 2–8 cm), sākumā puslodes veida līdz izliekta, vēlāk plaši izliekta līdz gandrīz plakana, reizēm ar zemu, platu centrālu pauguru. Mala jaunībā ieritināta, ar vecumu iztaisnojas, jaunām sēnēm reizēm ar trauslām plīvura atliekām, bet sausā laikā mēdz šķiedraini ieplaisāt. Sausā virsma sākumā samtaina, tūbaina vai smalki šķiedraina, ar vecumu parasti sadalās sīkās piegulošās okerbrūnās līdz sarkanbrūnās zvīņās uz zeltaini dzeltena līdz dzeltenbrūna vai oranžbrūna fona; centrā tumšāka, bet malas virzienā gaišāk krēmdzeltena. Kālija hidroksīds (KOH) cepurītes virsmu iekrāso tumši sarkanu un pēc tam melnu.",
+      "hymenium": "Lapiņas pieaugušas līdz nedaudz izliektas ar iedobi, platas un ciešas, ar gludu līdz smalki pārslainu šķautni. Jaunībā bāli krēmdzeltenas līdz koši dzeltenas, vēlāk uz tām parādās rūsganbrūni plankumi, un, sporām nogatavojoties, tās kļūst koši oranžas līdz rūsganbrūnas. Bazīdijas ar 4 sterigmām; sastopamas heilocistīdas un knapi izvirzītas pleirocistīdas (lai gan dažos paraugos heilocistīdas var būt retas un nemanāmas), kā arī retas līdz skaidri sastopamas kaulocistīdas.",
+      "stipe": "2,5–7 cm garš un 0,3–1,5 cm resns (parasti 0,5–1 cm), cilindrisks vai nedaudz sašaurināts pie pamata, stingrs, pilns un sīksts. Bāli dzeltens līdz dzeltenokerīgs ar cepurītes toņu nokrāsu, gluds līdz smalki gareniski šķiedrains, ar vecumu vai pieskaroties no pamata uz augšu kļūst dzeltenbrūns līdz sarkanbrūns, pie pamata ar bālganu līdz dzeltenīgu micēliju. Jauniem augļķermeņiem ir trausls, zirnekļtīklveida dzeltenīgs daļējais plīvurs (kortīna), kas ātri izzūd, reti atstājot noturīgu gredzenu un labākajā gadījumā tikai vājas šķiedrainas pēdas kātiņa augšdaļā.",
+      "flesh": "Plāns, bāli dzeltens līdz dzeltenoranžs un samērā trausls salīdzinājumā ar lielākām šīs ģints sugām. Smarža maiga, sēnēm raksturīga, viegli pikanta vai vāji saldena; garša parasti izteikti rūgta, lai gan reizēm maiga.",
+      "sporePrint": "Rūsganbrūns līdz koši rūsganoranžs. Sporas elipsoīdas līdz mandeļveida, izteikti kārpiņainas, dekstrinoīdas (Melcera reaģentā iekrāsojas sarkanbrūnas), izmērs 6,5–10,5 × 4–6 µm (parasti 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofa uz atmirušas, trūdošas skujkoku koksnes — īpaši priežu, baltegļu un egļu celmiem, kritalām, zariem, saknēm un meža zemsedzē apraktām koksnes atliekām — un tikai reti uz lapkoku koksnes. Augļķermeņus veido pa vienam, grupās vai nelielos pušķos no jūnija līdz novembrim lielākajā daļā Eiropas un Ziemeļamerikas, bet Vidusjūras un Klusā okeāna piekrastes klimatā arī cauri ziemai (no septembra līdz februārim).",
+      "uses": "Neēdama rūgtās garšas un plānā mīkstuma dēļ; atsevišķi avoti to uzskata arī par aizdomīgu vai potenciāli viegli indīgu.",
+      "confusion": "Ļoti līdzīga sugai Gymnopilus penetrans, kurai ir tāds pats biotops uz skujkoku koksnes, izmērs un dzeltenā līdz rūsganbrūnā krāsa; makroskopiskās pazīmes stipri pārklājas, un drošai atšķiršanai bieži nepieciešama cepurītes virsmiziņas hifu mikroskopiska izpēte (šai sugai pārsvarā 8–16 µm platas hifas ar rupjām rūsganbrūnām inkrustācijām un uzpūstām īsām šūnām, pretstatā šaurākām, 3–10 µm platām cilindriskām, vājāk inkrustētām hifām sugai Gymnopilus penetrans) un cistīdu apskate, kā arī tendence Gymnopilus penetrans augļķermeņus veidot vēlāk rudenī. Gymnopilus junonius ir daudz lielāka un masīvāka, aug galvenokārt uz lapkoku koksnes un saglabā izteiktu, noturīgu plēvjainu gredzenu uz kātiņa. Gymnopilus luteocarneus ir gludāka, tumšāka cepurīte. Galerina marginata ir nāvīgi indīga, parasti mazāka ar gludu higrofānu brūnu cepurīti, izteiktu gredzena zonu uz sudrabaini šķiedraina kātiņa un miltu smaržu. Phaeolepiota aurea ir pūderaini graudaina cepurīte un kātiņa apakšdaļa ar lielu atliektu gredzenu un bālākām dzeltenbrūnām sporām. Virspusēji līdzīgas var būt arī nelielas uz koksnes augošas Pholiota sugas un dzeltenbrūnas Callistei sekcijas Cortinarius sugas.",
+      "notes": "Atšķirībā no vairākām zilējošām šīs ģints sugām šī suga nezilē un nesatur psilocibīnu. Sugu robežas Gymnopilus sapineus kompleksā — īpaši starp šo sugu un Gymnopilus penetrans — jau sen ir diskutētas, un atsevišķos mūsdienu skatījumos abas sugas bez mikroskopijas tiek uzskatītas par grūti nošķiramām.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "nl": {
+      "description": "Een kleine tot middelgrote, saprotrofe plaatjeszwam die alleenstaand, in groepen of in kleine bundels groeit op rottend naaldhout en soms op loofhout. De soort is wijdverspreid in gematigde en boreale bossen van Europa en Noord-Amerika en wordt ook aangetroffen in Australië en Nieuw-Zeeland.",
+      "cap": "2–9 cm in doorsnede (meestal 2–8 cm), aanvankelijk halfbolvormig tot gewelfd, later breed gewelfd tot bijna vlak uitgespreid, soms met een lage, brede centrale bult. De rand is eerst ingerold en strekt zich bij het ouder worden, jong soms met tere velumresten en bij droog weer soms vezelig inscheurend. Het droge oppervlak is eerst fluwelig, viltig of fijnvezelig en breekt op latere leeftijd meestal op in fijne, aanliggende okerbruine tot roodbruine schubjes op een goudgele tot geelbruine of oranjebruine ondergrond, donkerder in het midden en bleker roomgeel naar de rand toe. Kaliumhydroxide (KOH) kleurt het hoedoppervlak donkerrood en vervolgens zwart.",
+      "hymenium": "De plaatjes zijn aangehecht tot iets uitgerand, breed en dicht opeenstaand, met gladde tot fijnvlokkige sneden. Jong zijn ze bleek roomgeel tot heldergeel, waarna ze roestbruine vlekken krijgen en bij het rijpen van de sporen geheel helderoranje tot roestbruin verkleuren. De basidiën zijn 4-sporig; cheilocystiden en nauwelijks uitstekende pleurocystiden zijn aanwezig (al kunnen cheilocystiden bij sommige vondsten schaars en onopvallend zijn), en caulocystiden zijn schaars tot aanwezig.",
+      "stipe": "2,5–7 cm lang en 0,3–1,5 cm dik (meestal 0,5–1 cm), cilindrisch of naar de voet toe iets versmald, stevig, vol en taai. Bleekgeel tot okergeel met een zweem van de hoedkleur, glad tot fijn in de lengte vezelig, bij veroudering of aanraking vanaf de voet omhoog verkleurend naar geelbruin of roodbruin, met witachtig tot gelig basaal mycelium. Bij jonge vruchtlichamen is een teer, spinragachtig gelig gedeeltelijk velum (cortina) aanwezig, dat snel verdwijnt en zelden een blijvende ring achterlaat, hoogstens vage vezelige sporen aan het bovenste deel van de steel.",
+      "flesh": "Dun, bleekgeel tot geeloranje en relatief teer vergeleken met grotere soorten uit dit geslacht. De geur is mild, paddenstoelachtig, licht kruidig of zwak zoetig; de smaak is meestal duidelijk bitter, maar soms mild.",
+      "sporePrint": "Roestbruin tot helder roestoranje. De sporen zijn ellipsoïde tot amandelvormig, duidelijk wrattig, dextrinoïde (kleurend roodbruin in Melzers reagens) en meten 6,5–10,5 × 4–6 µm (meestal 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotroof op dood, rottend naaldhout — vooral stronken, stammen, takken, wortels en begraven houtresten van den, zilverspar en spar in bosstrooisel — en slechts zelden op loofhout. Vormt vruchtlichamen alleenstaand, in groepen of in kleine bundels van juni tot november in het grootste deel van Europa en Noord-Amerika, en tot in de winter (september tot februari) in mediterrane en Pacifische kustklimaten.",
+      "uses": "Niet eetbaar vanwege de bittere smaak en het dunne vlees; sommige bronnen beschouwen de soort ook als verdacht of mogelijk licht giftig.",
+      "confusion": "Lijkt sterk op Gymnopilus penetrans, die dezelfde standplaats op naaldhout, grootte en geel- tot roestkleurige tinten deelt; de macroscopische kenmerken overlappen sterk en voor een betrouwbaar onderscheid is vaak microscopisch onderzoek nodig van de hoedhuidhyfen (bij deze soort meestal 8–16 µm breed met grove roestbruine incrustaties en opgeblazen korte cellen, tegenover smallere, 3–10 µm brede cilindrische, minder sterk geïncrusteerde hyfen bij Gymnopilus penetrans) en de cystiden, naast de neiging van Gymnopilus penetrans om later in de herfst vruchtlichamen te vormen. Gymnopilus junonius is veel groter en forser, groeit voornamelijk op loofhout en behoudt een duidelijke, blijvende vliezige ring om de steel. Gymnopilus luteocarneus heeft een gladdere, donkerdere hoed. Galerina marginata is dodelijk giftig, meestal kleiner met een gladde, hygrofane bruine hoed, een duidelijke ringzone op een zilverig vezelige steel en een melige geur. Phaeolepiota aurea heeft een poederig-korrelige hoed en onderste steelhelft met een grote uitstaande ring en blekere geelbruine sporen. Kleine houtbewonende Pholiota-soorten en geelbruine Cortinarius-soorten uit sectie Callistei kunnen er oppervlakkig ook op lijken.",
+      "notes": "In tegenstelling tot verschillende blauwverkleurende soorten uit dit geslacht verkleurt deze soort niet blauw en bevat zij geen psilocybine. De soortgrenzen binnen het Gymnopilus sapineus-complex — met name tussen deze soort en Gymnopilus penetrans — zijn lange tijd onderwerp van discussie geweest, en sommige moderne opvattingen beschouwen beide soorten zonder microscopie als moeilijk te scheiden.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Vezelige_vlamhoed",
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "no": {
+      "description": "En liten til middels stor, saprotrof skivesopp som vokser enkeltvis, i grupper eller i små knipper på råtnende bartreved og av og til på løvtreved. Den er vidt utbredt i tempererte og boreale skoger i Europa og Nord-Amerika og er også registrert i Australia og New Zealand.",
+      "cap": "2–9 cm bred (oftest 2–8 cm), først halvkuleformet til hvelvet, senere bredt hvelvet til nesten flat, av og til med en lav, bred pukkel i midten. Kanten er først innrullet og retter seg ut med alderen, som ung av og til med skjøre slørrester og i tørt vær iblant trevlet oppsprukket. Den tørre overflaten er først fløyelsaktig, filtet eller fint trevlet og sprekker med alderen typisk opp i bittesmå, tiltrykte okerbrune til rødbrune skjell på en gyllengul til gulbrun eller oransjebrun bunn, mørkere i midten og blekere fløtegul mot kanten. Kaliumhydroksid (KOH) farger hattoverflaten mørkerød og deretter svart.",
+      "hymenium": "Skivene er tilvokste til svakt utrande, brede og tette, med glatte til fint fnokkete egger. De er blekt fløtegule til klart gule som unge, får rustbrune flekker og blir helt klart oransje til rustbrune etter hvert som sporene modnes. Basidiene har 4 sterigmer; cheilocystider og knapt utstikkende pleurocystider er til stede (selv om cheilocystider kan være sparsomme og uanselige i enkelte funn), og caulocystider forekommer sparsomt til tydelig.",
+      "stipe": "2,5–7 cm lang og 0,3–1,5 cm tykk (typisk 0,5–1 cm), sylindrisk eller svakt avsmalnende mot basis, fast, massiv og seig. Blekgul til guloker med anstrøk av hattfargen, glatt til fint lengdetrevlet, mørknende til gulbrun eller rødbrun fra basis og oppover med alderen eller ved berøring, med hvitaktig til gulaktig basalmycel. Et skjørt, spindelvevaktig gulaktig delslør (cortina) finnes hos unge fruktlegemer, men forsvinner raskt og etterlater sjelden en varig ring, høyst svake trevlede spor øverst på stilken.",
+      "flesh": "Tynt, blekgult til guloransje og relativt skjørt sammenlignet med større arter i slekten. Lukten er mild, soppaktig, svakt krydret eller svakt søtlig; smaken er typisk tydelig bitter, men kan av og til være mild.",
+      "sporePrint": "Rustbrunt til klart rustoransje. Sporene er ellipsoide til mandelformede, tydelig vortete, dekstrinoide (farges rødbrune i Melzers reagens) og måler 6,5–10,5 × 4–6 µm (typisk 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrof på død, råtnende bartreved — særlig stubber, stokker, greiner, røtter og nedgravde trerester av furu, edelgran og gran i skogbunnen — og bare sjelden på løvtreved. Danner fruktlegemer enkeltvis, i grupper eller i små knipper fra juni til november i det meste av Europa og Nord-Amerika, og utover vinteren (september til februar) i middelhavsklima og Stillehavets kystklima.",
+      "uses": "Ikke matsopp på grunn av den bitre smaken og det tynne kjøttet; enkelte kilder regner den også som mistenkelig eller potensielt svakt giftig.",
+      "confusion": "Ligner sterkt på Gymnopilus penetrans, som deler samme voksested på bartreved, størrelse og gule til rustbrune farger; makroskopiske kjennetegn overlapper kraftig, og sikker adskillelse krever ofte mikroskopisk undersøkelse av hatthudhyfene (hovedsakelig 8–16 µm brede med grove rustbrune inkrustasjoner og oppsvulmede korte celler hos denne arten, mot smalere, 3–10 µm brede sylindriske, mindre kraftig inkrusterte hyfer hos Gymnopilus penetrans) og cystidene, i tillegg til en tendens til at Gymnopilus penetrans setter fruktlegemer senere på høsten. Gymnopilus junonius er mye større og kraftigere, vokser hovedsakelig på løvtreved og beholder en tydelig, varig hinneaktig ring på stilken. Gymnopilus luteocarneus har en glattere, mørkere hatt. Galerina marginata er dødelig giftig, typisk mindre med en glatt, hygrofan brun hatt, en tydelig ringsone på en sølvtrevlet stilk og en melaktig lukt. Phaeolepiota aurea har en pudret-kornete hatt og nedre stilk med en stor utstående ring og blekere gulbrune sporer. Små vedboende Pholiota-arter og gulbrune Cortinarius-arter i seksjonen Callistei kan også ligne overfladisk.",
+      "notes": "I motsetning til flere blåfargende arter i slekten blåner ikke denne arten og inneholder ikke psilocybin. Artsgrensene innen Gymnopilus sapineus-komplekset — særlig mellom denne arten og Gymnopilus penetrans — har lenge vært omdiskutert, og enkelte moderne fremstillinger anser de to som vanskelige å skille uten mikroskopi.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "pl": {
+      "description": "Mały do średniej wielkości saprotroficzny grzyb blaszkowy, rosnący pojedynczo, gromadnie lub w niewielkich kępkach na rozkładającym się drewnie drzew iglastych, a rzadziej liściastych. Szeroko rozprzestrzeniony w lasach strefy umiarkowanej i borealnej Europy oraz Ameryki Północnej, notowany również z Australii i Nowej Zelandii.",
+      "cap": "Kapelusz o średnicy 2–9 cm (najczęściej 2–8 cm), początkowo półkulisty do wypukłego, z czasem rozpościerający się do szeroko wypukłego lub niemal płaskiego, niekiedy z niskim, szerokim garbkiem pośrodku. Brzeg początkowo podwinięty, z wiekiem prostujący się, u młodych owocników niekiedy z delikatnymi resztkami osłony, a podczas suchej pogody czasem włókienkowato pękający. Sucha powierzchnia jest początkowo aksamitna, filcowata lub drobnowłókienkowata, z wiekiem zwykle rozpada się na drobne, przylegające ochrowobrązowe do czerwonobrązowych łuseczki na złocistożółtym do płowobrązowego lub pomarańczowobrązowego tle, ciemniejszym w centrum i bledszym, kremowożółtym ku brzegowi. Wodorotlenek potasu (KOH) barwi powierzchnię kapelusza na ciemnoczerwono, a następnie czarno.",
+      "hymenium": "Blaszki przyrośnięte do lekko wykrojonych, szerokie i gęste, o ostrzach gładkich do drobno kłaczkowatych. U młodych owocników bladokremowożółte do jasnożółtych, w miarę dojrzewania zarodników pokrywają się rdzawobrązowymi plamkami i w całości przebarwiają na jasnopomarańczowo do rdzawobrązowego. Podstawki czterozarodnikowe; obecne są cheilocystydy i słabo wystające pleurocystydy (choć cheilocystydy w niektórych zbiorach mogą być nieliczne i niepozorne), a kaulocystydy są nieliczne do obecnych.",
+      "stipe": "Trzon długości 2,5–7 cm i grubości 0,3–1,5 cm (zwykle 0,5–1 cm), walcowaty lub lekko zwężający się ku podstawie, jędrny, pełny i sprężysty. Bladożółty do żółtoochrowego z odcieniami barw kapelusza, gładki do drobno podłużnie włókienkowatego, z wiekiem lub po dotknięciu ciemniejący od podstawy ku górze na płowobrązowo lub czerwonobrązowo, z białawą do żółtawej grzybnią u podstawy. Delikatna, pajęczynowata, żółtawa osłona częściowa (zasnówka) występuje u młodych owocników, lecz szybko zanika, rzadko pozostawiając trwały pierścień, a co najwyżej nikłe włókienkowate ślady w górnej części trzonu.",
+      "flesh": "Miąższ cienki, bladożółty do żółtopomarańczowego i stosunkowo delikatny w porównaniu z większymi przedstawicielami rodzaju. Zapach łagodny, grzybowy, lekko korzenny lub słabo słodkawy; smak zazwyczaj wyraźnie gorzki, choć sporadycznie łagodny.",
+      "sporePrint": "Wysyp zarodników rdzawobrązowy do jaskrawo rdzawopomarańczowego. Zarodniki elipsoidalne do migdałkowatych, wyraźnie brodawkowane, dekstrynoidalne (w odczynniku Melzera barwią się czerwonobrązowo), o wymiarach 6,5–10,5 × 4–6 µm (zwykle 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotroficzny na martwym, rozkładającym się drewnie drzew iglastych – zwłaszcza na pniakach, kłodach, gałęziach, korzeniach i zagrzebanych resztkach drzewnych sosny, jodły i świerka w ściółce leśnej – i tylko wyjątkowo na drewnie liściastym. Owocnikuje pojedynczo, gromadnie lub w małych kępkach od czerwca do listopada na większości obszaru Europy i Ameryki Północnej, a w klimacie śródziemnomorskim i nadmorskim Pacyfiku okres ten wydłuża się na zimę (od września do lutego).",
+      "uses": "Niejadalny ze względu na gorzki smak i cienki miąższ; niektóre źródła uznają go również za podejrzany lub potencjalnie lekko trujący.",
+      "confusion": "Bardzo przypomina Gymnopilus penetrans, który dzieli z nim to samo siedlisko na drewnie iglastym, rozmiary oraz żółte do rdzawego zabarwienie; cechy makroskopowe silnie się nakładają i pewne rozróżnienie często wymaga badania mikroskopowego strzępek skórki kapelusza (u tego gatunku przeważnie szerokości 8–16 µm z grubą rdzawobrązową inkrustacją i rozdętymi krótkimi komórkami, w porównaniu z węższymi, 3–10 µm, walcowatymi i słabiej inkrustowanymi strzępkami u Gymnopilus penetrans) oraz cystyd, przy czym Gymnopilus penetrans wykazuje też tendencję do owocnikowania później jesienią. Gymnopilus junonius jest znacznie większy i bardziej masywny, rośnie głównie na drewnie liściastym i zachowuje na trzonie wyraźny, trwały błoniasty pierścień. Gymnopilus luteocarneus ma gładszy i ciemniejszy kapelusz. Galerina marginata jest śmiertelnie trująca, zwykle mniejsza, o gładkim higrofanicznym brązowym kapeluszu, z wyraźną strefą pierścieniową na srebrzystowłókienkowatym trzonie i mącznym zapachu. Phaeolepiota aurea ma mączyście ziarnisty kapelusz oraz dolną część trzonu z dużym odstającym pierścieniem i bledsze żółtobrązowe zarodniki. Powierzchownie podobne mogą być także drobne nadrzewne gatunki z rodzaju Pholiota oraz płowobrązowe gatunki z rodzaju Cortinarius z sekcji Callistei.",
+      "notes": "W przeciwieństwie do kilku siniejących przedstawicieli swojego rodzaju gatunek ten nie sinieje i nie zawiera psylocybiny. Granice gatunkowe w obrębie kompleksu Gymnopilus sapineus – zwłaszcza między tym gatunkiem a Gymnopilus penetrans – są od dawna przedmiotem dyskusji, a niektóre współczesne ujęcia uznają oba gatunki za trudne do rozdzielenia bez mikroskopii.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/%C5%81ysak_drobno%C5%82uskowy",
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "pt": {
+      "description": "Cogumelo de lâminas saprotrófico, de pequeno a médio porte, que cresce isolado, de forma gregária ou em pequenos tufos sobre madeira de coníferas em decomposição e ocasionalmente em madeira de folhosas. Amplamente distribuído nas florestas temperadas e boreais da Europa e da América do Norte, encontra-se igualmente registado na Austrália e na Nova Zelândia.",
+      "cap": "Chapéu com 2–9 cm de diâmetro (maioritariamente 2–8 cm), inicialmente hemisférico a convexo, alargando depois para amplamente convexo ou quase plano, conservando por vezes um mamilo central baixo e largo. A margem é inicialmente enrolada, endireitando-se com a idade, apresentando ocasionalmente restos frágeis de véu quando jovem e fendendo por vezes de modo fibriloso em tempo seco. A superfície seca é aveludada, feltrada ou finamente fibrilosa no início, fragmentando-se tipicamente com a idade em minúsculas escamas (escâmulas) aplicadas castanho-ocráceas a castanho-avermelhadas sobre um fundo amarelo-dourado a fulvo ou castanho-alaranjado, mais escuro no centro e amarelo-creme mais pálido em direção à margem. O hidróxido de potássio (KOH) torna a superfície do chapéu vermelho-escura e depois negra.",
+      "hymenium": "Lâminas adnatas a ligeiramente chanfradas, largas e apertadas, com aresta lisa a minutamente flocosa. São amarelo-creme pálidas a amarelo-vivo quando jovens, desenvolvendo manchas castanho-ferrugíneas e tornando-se globalmente laranja-vivo a castanho-ferrugíneas à medida que os esporos amadurecem. Os basídios são tetraspóricos; estão presentes queilocistídios e pleurocistídios pouco salientes (embora os queilocistídios possam ser escassos e pouco conspícuos em algumas colheitas), e os caulocistídios são escassos a presentes.",
+      "stipe": "Estipe com 2,5–7 cm de comprimento e 0,3–1,5 cm de espessura (tipicamente 0,5–1 cm), cilíndrico ou ligeiramente atenuado para a base, firme, maciço e resistente. Amarelo-pálido a amarelo-ocre com tonalidades do chapéu, liso a finamente fibriloso longitudinalmente, escurecendo para fulvo ou castanho-avermelhado da base para cima com a idade ou o manuseamento, com micélio basal esbranquiçado a amarelado. Nos exemplares jovens existe um véu parcial frágil, aracnóide e amarelado (cortina) que desaparece rapidamente, raramente deixando um anel persistente e, no máximo, ténues vestígios fibrilosos na parte superior do estipe.",
+      "flesh": "Carne fina, amarelo-pálida a amarelo-alaranjada e relativamente delicada em comparação com espécies maiores do género. O odor é suave, fúngico, ligeiramente condimentado ou debilmente adocicado; o sabor é tipicamente nitidamente amargo, embora ocasionalmente suave.",
+      "sporePrint": "Esporada castanho-ferrugínea a laranja-ferrugínea viva. Os esporos são elipsoidais a amigdaliformes, distintamente verrucosos, dextrinóides (tornando-se castanho-avermelhados no reagente de Melzer) e medem 6,5–10,5 × 4–6 µm (tipicamente 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrófico sobre madeira morta de coníferas em decomposição — especialmente cepos, troncos, ramos, raízes e detritos lenhosos enterrados de pinheiro, abeto e espruce na manta morta florestal — e apenas raramente sobre folhosas. Frutifica isolado, de forma gregária ou em pequenos tufos de junho a novembro na maior parte da Europa e da América do Norte, prolongando-se pelo inverno (de setembro a fevereiro) nos climas mediterrânicos e costeiros do Pacífico.",
+      "uses": "Não comestível devido ao sabor amargo e à carne fina; algumas fontes consideram-no também suspeito ou potencialmente ligeiramente tóxico.",
+      "confusion": "Assemelha-se estreitamente a Gymnopilus penetrans, que partilha o mesmo habitat em madeira de coníferas, o porte e a coloração de amarela a ferrugínea; os caracteres macroscópicos sobrepõem-se fortemente e uma separação fiável requer frequentemente o exame microscópico das hifas da pileipellis (maioritariamente com 8–16 µm de largura, com incrustações grosseiras castanho-ferrugíneas e células curtas dilatadas nesta espécie, face a hifas mais estreitas de 3–10 µm, cilíndricas e menos fortemente incrustadas em Gymnopilus penetrans) e dos cistídios, além de uma tendência de Gymnopilus penetrans para frutificar mais tarde no outono. Gymnopilus junonius é muito maior e mais robusto, cresce sobretudo em folhosas e conserva um anel membranoso nítido e persistente no estipe. Gymnopilus luteocarneus tem o chapéu mais liso e escuro. Galerina marginata é mortal, tipicamente mais pequena, com chapéu castanho liso e higrófano, zona anular distinta num estipe fibriloso prateado e odor farináceo. Phaeolepiota aurea apresenta o chapéu e a parte inferior do estipe pulverulento-granulosos, com um grande anel aberto e esporos castanho-amarelados mais pálidos. Pequenas espécies lignícolas de Pholiota e espécies fulvas de Cortinarius da secção Callistei podem também apresentar semelhança superficial.",
+      "notes": "Ao contrário de vários membros do seu género que azulam, esta espécie não azula nem contém psilocibina. Os limites específicos dentro do complexo Gymnopilus sapineus — em particular entre esta espécie e Gymnopilus penetrans — têm sido longamente debatidos, e alguns tratamentos modernos consideram os dois difíceis de separar sem microscopia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă cu lamele, de talie mică până la medie, care crește solitar, gregar sau în mici buchete pe lemn de conifere în descompunere și, ocazional, pe lemn de foioase. Este larg răspândită în pădurile temperate și boreale din Europa și America de Nord, fiind semnalată și în Australia și Noua Zeelandă.",
+      "cap": "Cu diametrul de 2–9 cm (de obicei 2–8 cm), inițial emisferică până la convexă, deschizându-se apoi larg convexă sau aproape plată, păstrând uneori un umbon central jos și lat. Marginea este la început răsfrântă spre interior, îndreptându-se cu vârsta, purtând ocazional resturi fragile de văl în tinerețe și crăpându-se uneori fibrilos pe vreme uscată. Suprafața uscată este la început catifelată, pâsloasă sau fin fibriloasă, fragmentându-se de obicei odată cu maturizarea în solzișori fini alipiți, ocru-bruni până la brun-roșcați, pe un fond galben-auriu, brun-gălbui sau portocaliu-brun, mai închis în centru și mai palid, galben-crem, spre margine. Hidroxidul de potasiu (KOH) colorează suprafața pălăriei în roșu închis și apoi în negru.",
+      "hymenium": "Lamelele sunt adnate până la ușor sinuate, late și dese, cu muchia netedă până la fin flocoasă. În tinerețe sunt galben-crem palid până la galben viu, dezvoltând pete brun-ruginii și devenind în ansamblu portocaliu viu până la brun-ruginiu pe măsură ce sporii se maturizează. Bazidiile sunt cu 4 sterigme; sunt prezente cheilocistide și pleurocistide abia proeminente (deși cheilocistidele pot fi rare și puțin vizibile în unele colecții), iar caulocistidele sunt rare până la prezente.",
+      "stipe": "Lung de 2,5–7 cm și gros de 0,3–1,5 cm (de obicei 0,5–1 cm), cilindric sau ușor subțiat spre bază, ferm, plin și elastic. Galben palid până la galben-ocru, nuanțat cu tonurile pălăriei, neted până la fin fibrilos longitudinal, închizându-se la culoare spre brun-gălbui sau brun-roșcat de la bază în sus cu vârsta sau la manipulare, cu miceliu bazal albicios până la gălbui. La corpurile de fructificație tinere este prezent un văl parțial fragil, păienjenis și gălbui (cortină), care dispare rapid, lăsând rar un inel persistent și cel mult urme fibriloase slabe în partea superioară a piciorului.",
+      "flesh": "Subțire, galben palid până la galben-portocaliu și relativ delicată în comparație cu speciile mai mari ale genului. Mirosul este slab, de ciupercă, ușor condimentat sau discret dulceag; gustul este de regulă net amar, deși ocazional poate fi blând.",
+      "sporePrint": "Brun-ruginie până la portocaliu-ruginie vie. Sporii sunt elipsoidali până la migdaliformi, net verucoși, dextrinoizi (se colorează în brun-roșcat în reactivul Melzer) și măsoară 6,5–10,5 × 4–6 µm (de obicei 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofă pe lemn mort, în descompunere, de conifere — în special pe cioate, trunchiuri, ramuri, rădăcini și resturi lemnoase îngropate în litiera pădurii de pin, brad și molid — și numai rar pe lemn de foioase. Fructifică solitar, gregar sau în mici buchete din iunie până în noiembrie în cea mai mare parte a Europei și Americii de Nord, extinzându-se și pe durata iernii (din septembrie până în februarie) în climatele mediteraneene și ale coastei Pacificului.",
+      "uses": "Necomestibilă din cauza gustului amar și a cărnii subțiri; unele surse o consideră și suspectă sau potențial ușor toxică.",
+      "confusion": "Seamănă îndeaproape cu Gymnopilus penetrans, care împarte același habitat pe lemn de conifere, dimensiunea și coloritul galben-ruginiu; caracterele macroscopice se suprapun puternic, iar separarea sigură necesită adesea examinarea microscopică a hifelor cuticulei pălăriei (pileipelis: la această specie în mare parte late de 8–16 µm, cu incrustații grosiere brun-ruginii și celule scurte umflate, față de hife mai înguste, de 3–10 µm, cilindrice și mai slab incrustate la Gymnopilus penetrans) și a cistidelor, alături de tendința speciei Gymnopilus penetrans de a fructifica mai târziu toamna. Gymnopilus junonius este mult mai mare și mai robust, crește predominant pe foioase și păstrează un inel membranos distinct și persistent pe picior. Gymnopilus luteocarneus are pălăria mai netedă și mai închisă la culoare. Galerina marginata este mortal otrăvitoare, de obicei mai mică, cu pălărie brună netedă și higrofană, o zonă inelară distinctă pe un picior argintiu-fibrilos și miros făinos. Phaeolepiota aurea are pălăria și partea inferioară a piciorului pulverulent-granuloase, cu un inel mare răsfrânt și spori galben-bruni mai palizi. Superficial pot semăna și speciile mici lignicole de Pholiota, precum și speciile brun-gălbui de Cortinarius din secția Callistei.",
+      "notes": "Spre deosebire de mai mulți membri ai genului său care se albăstresc, această specie nu se albăstrește și nu conține psilocibină. Limitele dintre specii în cadrul complexului Gymnopilus sapineus — în special între această specie și Gymnopilus penetrans — au fost îndelung dezbătute, iar unele abordări moderne consideră că cele două sunt dificil de separat fără microscopie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой или среднего размера сапротрофный пластинчатый гриб, растущий одиночно, группами или небольшими пучками на разлагающейся хвойной древесине и изредка на лиственной. Широко распространён в умеренных и бореальных лесах Европы и Северной Америки, отмечен также в Австралии и Новой Зеландии.",
+      "cap": "Диаметром 2–9 см (чаще 2–8 см), сначала полушаровидная или выпуклая, затем широковыпуклая или почти плоская, иногда с низким широким бугорком в центре. Край вначале подвёрнут, с возрастом распрямляется, у молодых плодовых тел иногда несёт хрупкие остатки покрывала, а в сухую погоду может волокнисто растрескиваться. Сухая поверхность сначала бархатистая, войлочная или тонковолокнистая, с возрастом обычно распадается на мелкие прижатые охристо-коричневые или красновато-коричневые чешуйки на золотисто-жёлтом, рыжевато-коричневом или оранжево-коричневом фоне; в центре более тёмная, к краю светлее, кремово-жёлтая. Под действием гидроксида калия (KOH) поверхность шляпки темнеет до тёмно-красной, а затем чёрной.",
+      "hymenium": "Пластинки приросшие до слабо выемчатых, широкие и частые, с гладким или мелкохлопьевидным краем. У молодых грибов бледно-кремово-жёлтые до ярко-жёлтых, затем покрываются ржаво-коричневыми пятнами и по мере созревания спор становятся целиком ярко-оранжевыми или ржаво-коричневыми. Базидии четырёхспоровые; присутствуют хейлоцистиды и едва выступающие плевроцистиды (хотя в некоторых сборах хейлоцистиды могут быть редкими и малозаметными), каулоцистиды редкие или присутствуют.",
+      "stipe": "Длиной 2,5–7 см и толщиной 0,3–1,5 см (обычно 0,5–1 см), цилиндрическая или слегка сужающаяся к основанию, плотная, сплошная и упругая. Бледно-жёлтая или желтовато-охристая с оттенками шляпки, гладкая или тонко продольно-волокнистая, с возрастом или при прикосновении темнеет от основания вверх до рыжевато-коричневой или красновато-коричневой, с беловатым или желтоватым базальным мицелием. У молодых плодовых тел имеется хрупкое паутинистое желтоватое частное покрывало (кортина), которое быстро исчезает, редко оставляя заметное кольцо и в лучшем случае слабые волокнистые следы в верхней части ножки.",
+      "flesh": "Тонкая, бледно-жёлтая до желтовато-оранжевой, сравнительно нежная по сравнению с более крупными видами рода. Запах слабый, грибной, слегка пряный или еле сладковатый; вкус обычно отчётливо горький, хотя изредка бывает мягким.",
+      "sporePrint": "Ржаво-коричневый до ярко-ржаво-оранжевого. Споры эллипсоидные до миндалевидных, отчётливо бородавчатые, декстриноидные (в реактиве Мельцера окрашиваются в красновато-коричневый цвет), размером 6,5–10,5 × 4–6 мкм (обычно 7–9,5 × 4,5–5,5 мкм).",
+      "habitat": "Сапротроф на мёртвой, разлагающейся хвойной древесине — особенно на пнях, валежнике, ветвях, корнях и погребённых в лесной подстилке древесных остатках сосны, пихты и ели — и лишь изредка на лиственной древесине. Плодоносит одиночно, группами или небольшими пучками с июня по ноябрь на большей части Европы и Северной Америки, а в средиземноморском и тихоокеанском прибрежном климате плодоношение продолжается зимой (с сентября по февраль).",
+      "uses": "Несъедобен из-за горького вкуса и тонкой мякоти; некоторые источники также относят его к подозрительным или потенциально слабоядовитым видам.",
+      "confusion": "Очень похож на Gymnopilus penetrans, который разделяет то же местообитание на хвойной древесине, размеры и жёлто-ржавую окраску; макроскопические признаки сильно перекрываются, поэтому надёжное разграничение часто требует микроскопического изучения гиф кожицы шляпки (пилеипеллиса: у данного вида преимущественно шириной 8–16 мкм с грубой ржаво-коричневой инкрустацией и вздутыми короткими клетками, против более узких, 3–10 мкм цилиндрических и слабее инкрустированных гиф у Gymnopilus penetrans) и цистид, наряду со склонностью Gymnopilus penetrans плодоносить позже осенью. Gymnopilus junonius значительно крупнее и массивнее, растёт преимущественно на лиственной древесине и сохраняет отчётливое стойкое плёнчатое кольцо на ножке. Gymnopilus luteocarneus имеет более гладкую и тёмную шляпку. Galerina marginata смертельно ядовита, обычно мельче, с гладкой гигрофанной коричневой шляпкой, отчётливой кольцевой зоной на серебристо-волокнистой ножке и мучным запахом. Phaeolepiota aurea отличается мучнисто-зернистой шляпкой и нижней частью ножки, крупным раструбовидным кольцом и более бледными жёлто-коричневыми спорами. Поверхностно могут напоминать также мелкие древесные виды Pholiota и рыжевато-коричневые виды Cortinarius из секции Callistei.",
+      "notes": "В отличие от нескольких синеющих представителей своего рода, этот вид не синеет и не содержит псилоцибина. Границы видов внутри комплекса Gymnopilus sapineus — особенно между этим видом и Gymnopilus penetrans — давно обсуждаются, и некоторые современные авторы считают, что без микроскопии их трудно разграничить.",
+      "names": [
+        "гимнопил еловый"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/118302"
+      ]
+    },
+    "sk": {
+      "description": "Malá až stredne veľká saprotrofná lupeňovitá huba, ktorá rastie jednotlivo, v skupinách alebo v malých trsoch na tlejúcom dreve ihličnanov a zriedkavejšie listnáčov. Je široko rozšírená v lesoch mierneho a boreálneho pásma Európy a Severnej Ameriky a je zaznamenaná aj z Austrálie a Nového Zélandu.",
+      "cap": "Klobúk má priemer 2–9 cm (najčastejšie 2–8 cm), za mladi je polguľovitý až klenutý, neskôr sa rozprestiera na široko klenutý až takmer plochý, niekedy si zachováva nízky široký stredový hrboľ. Okraj je spočiatku podvinutý, s vekom sa vyrovnáva, za mladi môže niesť krehké zvyšky závoja a za suchého počasia sa niekedy vláknito rozpraskáva. Suchý povrch je spočiatku zamatový, plstnatý alebo jemne vláknitý, s vekom sa zvyčajne rozpadá na drobné pritlačené okrovohnedé až červenohnedé šupinky na zlatožltom až žltohnedom alebo oranžovohnedom podklade, v strede tmavšom a smerom k okraju bledšom krémovožltom. Hydroxid draselný (KOH) sfarbuje povrch klobúka tmavočerveno a následne načierno.",
+      "hymenium": "Lupene sú prirastené až mierne vykrojené, široké a husté, s hladkým až jemne vločkatým ostrím. Za mladi sú bledo krémovožlté až jasnožlté, pri dozrievaní výtrusov na nich vznikajú hrdzavohnedé škvrny a postupne sa celé sfarbujú na jasno oranžové až hrdzavohnedé. Bazídiá sú štvorvýtrusné; prítomné sú cheilocystidy a len slabo vyčnievajúce pleurocystidy (hoci cheilocystidy môžu byť v niektorých nálezoch riedke a nenápadné) a kaulocystidy sú riedke až prítomné.",
+      "stipe": "Hlúbik je 2,5–7 cm dlhý a 0,3–1,5 cm hrubý (zvyčajne 0,5–1 cm), valcovitý alebo smerom k báze mierne zúžený, pevný, plný a pružný. Je bledožltý až žltookrý s nádychom farieb klobúka, hladký až jemne pozdĺžne vláknitý, s vekom alebo po otlačení od bázy nahor tmavne do žltohnedej až červenohnedej farby, na báze s belavým až žltkastým mycéliom. Krehký pavučinovitý žltkastý čiastočný závoj (kortína) je prítomný na mladých plodniciach, ale rýchlo mizne, zriedka zanecháva trvácny prsteň a najviac slabé vláknité stopy v hornej časti hlúbika.",
+      "flesh": "Dužina je tenká, bledožltá až žltooranžová a pomerne krehká v porovnaní s väčšími druhmi tohto rodu. Vôňa je mierna, hubová, jemne korenistá alebo slabo sladkastá; chuť je zvyčajne výrazne horká, hoci zriedkavejšie môže byť mierna.",
+      "sporePrint": "Výtrusný prach je hrdzavohnedý až jasno hrdzavooranžový. Výtrusy sú elipsoidné až mandľovité, výrazne bradavičnaté, dextrinoidné (v Melzerovom činidle sa sfarbujú do červenohneda) a merajú 6,5–10,5 × 4–6 µm (zvyčajne 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofná huba rastúca na odumretom tlejúcom dreve ihličnanov – najmä na pňoch, kmeňoch, konároch, koreňoch a zanorených drevných zvyškoch borovíc, jedlí a smrekov v lesnej hrabanke – a len zriedkavo na dreve listnáčov. Plodnice vyrastajú jednotlivo, v skupinách alebo v malých trsoch od júna do novembra vo väčšine Európy a Severnej Ameriky, pričom v stredomorskom a tichomorskom pobrežnom podnebí sa výskyt predlžuje cez zimu (od septembra do februára).",
+      "uses": "Nejedlá pre svoju horkú chuť a tenkú dužinu; niektoré zdroje ju zároveň uvádzajú ako podozrivú alebo potenciálne mierne jedovatú.",
+      "confusion": "Veľmi sa podobá na Gymnopilus penetrans, ktorý zdieľa rovnaké ihličnaté stanovište, veľkosť aj žlté až hrdzavé sfarbenie; makroskopické znaky sa výrazne prekrývajú a spoľahlivé odlíšenie si často vyžaduje mikroskopické vyšetrenie hýf pokožky klobúka (v tomto druhu prevažne 8–16 µm širokých s hrubou hrdzavohnedou inkrustáciou a nadutými krátkymi bunkami, oproti užším, 3–10 µm širokým valcovitým a menej silno inkrustovaným hýfam u Gymnopilus penetrans) a cystíd, popri sklone Gymnopilus penetrans tvoriť plodnice neskôr na jeseň. Gymnopilus junonius je oveľa väčší a mohutnejší, rastie predovšetkým na listnáčoch a na hlúbiku si zachováva zreteľný trvácny blanitý prsteň. Gymnopilus luteocarneus má hladší a tmavší klobúk. Galerina marginata je smrteľne jedovatá, zvyčajne menšia s hladkým hygrofánnym hnedým klobúkom, zreteľnou prsteňovitou zónou na striebristo vláknitom hlúbiku a múčnou vôňou. Phaeolepiota aurea má múčnato zrnitý klobúk a spodnú časť hlúbika s veľkým odstávajúcim prsteňom a bledšími žltohnedými výtrusmi. Povrchne podobné môžu byť aj drobné drevokazné druhy rodu Pholiota a žltohnedé druhy rodu Cortinarius zo sekcie Callistei.",
+      "notes": "Na rozdiel od viacerých modrejúcich zástupcov svojho rodu táto huba nemodrie a neobsahuje psilocybín. Druhové hranice v rámci komplexu Gymnopilus sapineus – najmä medzi týmto druhom a Gymnopilus penetrans – sú už dlho predmetom diskusií a niektoré moderné poňatia považujú oba druhy za ťažko odlíšiteľné bez mikroskopie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "sl": {
+      "description": "Majhna do srednje velika saprotrofna lističarka, ki raste posamično, v skupinah ali v manjših šopih na trohnečem lesu iglavcev, redkeje pa na listavcih. Široko je razširjena v zmernih in borealnih gozdovih Evrope in Severne Amerike, zabeležena pa je tudi v Avstraliji in na Novi Zelandiji.",
+      "cap": "Premera 2–9 cm (najpogosteje 2–8 cm), sprva polkroglast do izbočen, nato široko izbočen ali skoraj ploščat, včasih z nizko, široko osrednjo grbo. Rob je najprej podvihan, s starostjo se zravna, pri mladih gobah ima včasih krhke ostanke zastirala, v suhem vremenu pa lahko vlaknato razpoka. Suha površina je sprva žametasta, polstena ali drobno vlaknasta, s starostjo pa običajno razpoka v drobne prilegle okrasto rjave do rdečerjave luskice na zlato rumeni, rjavkasto rumeni ali oranžno rjavi podlagi; v sredini je temnejša, proti robu pa bledeje kremasto rumena. Kalijev hidroksid (KOH) obarva površino klobuka temno rdeče, nato črno.",
+      "hymenium": "Lističi so prirasli do rahlo izrezani, široki in gosti, z gladko do drobno kosmičasto ostrinko. Pri mladih gobah so bledo kremasto rumeni do živo rumeni, nato dobijo rjasto rjave lise in se z zorenjem trosov v celoti obarvajo živo oranžno do rjasto rjavo. Bazidiji so 4-trosni; prisotne so heilocistide in komaj štrleče plevrocistide (čeprav so heilocistide v nekaterih nabirkih redke in neopazne), kavlocistide pa so redke do prisotne.",
+      "stipe": "Dolg 2,5–7 cm in debel 0,3–1,5 cm (običajno 0,5–1 cm), valjast ali proti dnišču rahlo zožen, čvrst, poln in žilav. Bledo rumen do rumenkasto okrast z odtenki klobuka, gladek do drobno vzdolžno vlaknast; s starostjo ali ob dotiku od dnišča navzgor potemni v rjavkasto rumeno ali rdečerjavo barvo, v dnišču z belkastim do rumenkastim micelijem. Pri mladih trosnjakih je prisotno krhko, pajčevinasto rumenkasto delno zastiralo (koprena), ki hitro izgine, redko pusti obstojen obroček in največ rahle vlaknaste sledi v zgornjem delu beta.",
+      "flesh": "Tanko, bledo rumeno do rumenkasto oranžno in razmeroma krhko v primerjavi z večjimi vrstami rodu. Vonj je blag, gobast, rahlo začimben ali komaj opazno sladek; okus je značilno izrazito grenak, čeprav je včasih lahko blag.",
+      "sporePrint": "Rjasto rjav do živo rjasto oranžen. Trosi so elipsoidni do mandljasti, izrazito bradavičasti, dekstrinoidni (v Melzerjevem reagentu se obarvajo rdečerjavo) in merijo 6,5–10,5 × 4–6 µm (običajno 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrofna vrsta na odmrlem, trohnečem lesu iglavcev — zlasti na štorih, deblih, vejah, koreninah in v gozdni opad zakopanih lesnih ostankih bora, jelke in smreke — ter le redko na listavcih. Raste posamično, v skupinah ali manjših šopih od junija do novembra v večjem delu Evrope in Severne Amerike, v sredozemskem in tihomorskem obalnem podnebju pa se rastna doba podaljša v zimo (od septembra do februarja).",
+      "uses": "Neužitna zaradi grenkega okusa in tankega mesa; nekateri viri jo obravnavajo tudi kot sumljivo ali potencialno blago strupeno.",
+      "confusion": "Zelo je podobna vrsti Gymnopilus penetrans, ki ima enako rastišče na lesu iglavcev, podobno velikost in rumeno do rjasto obarvanost; makroskopski znaki se močno prekrivajo, zato zanesljivo ločevanje pogosto zahteva mikroskopski pregled hif kožice klobuka (pileipelis: pri tej vrsti večinoma široke 8–16 µm z grobimi rjasto rjavimi inkrustacijami in napihnjenimi kratkimi celicami, v primerjavi z ožjimi, 3–10 µm širokimi valjastimi in manj močno inkrustiranimi hifami pri Gymnopilus penetrans) ter cistid, ob tem da Gymnopilus penetrans pogosteje raste pozneje jeseni. Gymnopilus junonius je bistveno večji in čokatejši, raste predvsem na listavcih in ima na betu izrazit, obstojen kožnat obroček. Gymnopilus luteocarneus ima bolj gladek in temnejši klobuk. Galerina marginata je smrtno strupena, običajno manjša, z gladkim higrofanim rjavim klobukom, jasnim obročastim pasom na srebrnkasto vlaknastem betu in mokastim vonjem. Phaeolepiota aurea ima prašnato-zrnat klobuk in spodnji del beta z velikim razprtim obročkom ter bledejše rumeno-rjave trose. Površno so ji lahko podobne tudi manjše lesne vrste rodu Pholiota ter rjavkasto rumene vrste rodu Cortinarius iz sekcije Callistei.",
+      "notes": "Za razliko od nekaterih vrst svojega rodu, ki na dotik pomodrijo, ta vrsta ne pomodri in ne vsebuje psilocibina. Meje med vrstami v kompleksu Gymnopilus sapineus — zlasti med to vrsto in vrsto Gymnopilus penetrans — so že dolgo predmet razprav, nekateri sodobni pregledi pa menijo, da ju je brez mikroskopije težko ločiti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533669"
+      ]
+    },
+    "sr": {
+      "description": "Мала до средње велика сапротрофна гљива са листићима која расте појединачно, у групама или у мањим бусенима на трулом дрвету четинара, а ређе на лишћарима. Широко је распрострањена у умереним и бореалним шумама Европе и Северне Америке, а забележена је и у Аустралији и на Новом Зеланду.",
+      "cap": "Пречника 2–9 см (најчешће 2–8 см), у почетку полулоптаст до испупчен, касније широко испупчен или готово раван, понекад са ниском, широком средишњом грбом. Ивица је у почетку подвијена, са старошћу се исправља, код младих плодоносних тела понекад носи крхке остатке вела, а по сувом времену може влакнасто пуцати. Сува површина је испрва баршунаста, пустенаста или фино влакнаста, а са старошћу се типично распада у ситне приљубљене окерсмеђе до црвенкастосмеђе љуспице на златножутој, жутосмеђој или наранџастосмеђој подлози; у средини је тамнија, а ка ивици блеђе кремжута. Калијум-хидроксид (KOH) обоји површину шешира тамноцрвено, а затим црно.",
+      "hymenium": "Листићи су прирасли до благо урезани, широки и густи, глатке до фино пахуљасте оштрице. У младости су бледо кремжути до јаркожути, затим добијају рђастосмеђе пеге и сазревањем спора у целини постају јарконаранџасти до рђастосмеђи. Базидије су са 4 стеригме; присутне су хеилоцистиде и једва избочене плеуроцистиде (мада хеилоцистиде у неким налазима могу бити ретке и неупадљиве), док су каулоцистиде ретке до присутне.",
+      "stipe": "Дуга 2,5–7 см и дебела 0,3–1,5 см (типично 0,5–1 см), ваљкаста или благо сужена ка основи, чврста, пуна и еластична. Бледожута до жућкастоокер са примесама боје шешира, глатка до фино уздужно влакнаста, са старошћу или на додир тамни од основе навише у жутосмеђу или црвенкастосмеђу боју, са беличастим до жућкастим базалним мицелијумом. Код младих плодоносних тела присутан је крхак, паучинаст жућкасти делимични вео (кортина) који брзо нестаје, ретко остављајући постојан прстен, а највише слабе влакнасте трагове у горњем делу дршке.",
+      "flesh": "Танко, бледожуто до жућкастонаранџасто и релативно нежно у поређењу са крупнијим врстама рода. Мирис је благ, гљиваст, благо зачински или једва приметно слаткаст; укус је типично изразито горак, мада повремено може бити благ.",
+      "sporePrint": "Рђастосмеђ до јарко рђастонаранџаст. Споре су елипсоидне до бадемасте, изразито брадавичаве, декстриноидне (у Мелцеровом реагенсу постају црвенкастосмеђе) и мере 6,5–10,5 × 4–6 мкм (типично 7–9,5 × 4,5–5,5 мкм).",
+      "habitat": "Сапротрофна врста на мртвом, трулом дрвету четинара — нарочито на пањевима, деблима, гранама, корењу и у шумској стељи закопаним дрвним остацима бора, јеле и смрче — а само ретко на лишћарима. Плодоноси појединачно, у групама или мањим бусенима од јуна до новембра у већем делу Европе и Северне Америке, док се у медитеранској и пацифичкој обалској клими плодоношење продужава и кроз зиму (од септембра до фебруара).",
+      "uses": "Нејестива због горког укуса и танког меса; поједини извори је такође сматрају сумњивом или потенцијално благо отровном.",
+      "confusion": "Веома је слична врсти Gymnopilus penetrans, која дели исто станиште на четинарском дрвету, величину и жуто-рђасту обојеност; макроскопска обележја се снажно преклапају, па поуздано раздвајање често захтева микроскопски преглед хифа кожице шешира (пилеипелис: код ове врсте углавном широке 8–16 мкм са грубим рђастосмеђим инкрустацијама и надувеним кратким ћелијама, наспрам ужих, 3–10 мкм широких ваљкастих и слабије инкрустираних хифа код Gymnopilus penetrans) и цистида, уз склоност врсте Gymnopilus penetrans да плодоноси касније у јесен. Gymnopilus junonius је знатно већи и крупнији, расте углавном на лишћарима и задржава изразит, постојан опнаст прстен на дршци. Gymnopilus luteocarneus има глађи и тамнији шешир. Galerina marginata је смртно отровна, типично мања, са глатким хигрофаним смеђим шеширом, јасном зоном прстена на сребрнастовлакнастој дршци и брашнастим мирисом. Phaeolepiota aurea има прашкасто-зрнаст шешир и доњи део дршке са великим раширеним прстеном и блеђе жутосмеђим спорама. Површно могу личити и ситне дрвне врсте рода Pholiota и жутосмеђе врсте рода Cortinarius из секције Callistei.",
+      "notes": "За разлику од неколико врста свог рода које поплаве, ова врста не поплави и не садржи псилоцибин. Границе врста унутар комплекса Gymnopilus sapineus — нарочито између ове врсте и врсте Gymnopilus penetrans — дуго су предмет расправе, а нека савремена тумачења сматрају да их је тешко раздвојити без микроскопије.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten till medelstor, saprotrof skivling som växer enstaka, i grupper eller i små tuvor på murknande barrved och ibland på lövved. Den är vida spridd i tempererade och boreala skogar i Europa och Nordamerika och är även rapporterad från Australien och Nya Zeeland.",
+      "cap": "2–9 cm bred (oftast 2–8 cm), först halvklotformig till välvd, senare brett välvd till nästan plan, ibland med en låg, bred puckel i mitten. Kanten är först inrullad och rätar ut sig med åldern, som ung ibland med sköra hyllelämningar och i torrt väder stundtals trådigt uppsprickande. Den torra ytan är först sammetslen, filtartad eller fint trådig och spricker med åldern typiskt upp i mycket små, tilltryckta ockrabruna till rödbruna fjäll på en guldgul till gulbrun eller orangebrun botten, mörkare i mitten och blekare gräddgul mot kanten. Kaliumhydroxid (KOH) färgar hattytan mörkröd och därefter svart.",
+      "hymenium": "Skivorna är vidväxta till svagt urnupna, breda och tättsittande, med släta till fint ludna eggar. De är blekt gräddgula till klart gula som unga, får rostbruna fläckar och övergår till klart orange eller rostbrunt allt eftersom sporerna mognar. Basidierna har 4 sterigmer; cheilocystider och knappt utskjutande pleurocystider förekommer (även om cheilocystider kan vara sparsamma och oansenliga i vissa kollekter), och caulocystider är sparsamma till närvarande.",
+      "stipe": "2,5–7 cm lång och 0,3–1,5 cm tjock (typiskt 0,5–1 cm), cylindrisk eller svagt avsmalnande mot basen, fast, kompakt och seg. Blekgul till gulockra med inslag av hattfärgen, slät till fint längdtrådig, mörknande till gulbrun eller rödbrun från basen och uppåt med åldern eller vid beröring, med vitaktigt till gulaktigt basalmycel. Ett skört, spindelvävsartat gulaktigt delhylle (cortina) finns hos unga fruktkroppar men försvinner snabbt och lämnar sällan någon bestående ring, högst svaga trådiga spår upptill på foten.",
+      "flesh": "Tunt, blekgult till gulorange och relativt sprött jämfört med större arter i släktet. Doften är mild, svampartad, lätt kryddig eller svagt sötaktig; smaken är typiskt tydligt bitter, men ibland mild.",
+      "sporePrint": "Rostbrunt till klart rostorange. Sporerna är ellipsoida till mandelformade, tydligt vårtiga, dextrinoida (färgas rödbruna i Melzers reagens) och mäter 6,5–10,5 × 4–6 µm (typiskt 7–9,5 × 4,5–5,5 µm).",
+      "habitat": "Saprotrof på död, murknande barrved — särskilt stubbar, lågor, grenar, rötter och nedgrävda vedrester av tall, ädelgran och gran i skogsförnan — och endast sällan på lövved. Bildar fruktkroppar enstaka, i grupper eller i små tuvor från juni till november i större delen av Europa och Nordamerika, och långt in på vintern (september till februari) i medelhavsklimat och stillahavskustklimat.",
+      "uses": "Oätlig på grund av den bittra smaken och det tunna köttet; vissa källor betraktar den även som misstänkt eller möjligen svagt giftig.",
+      "confusion": "Liknar starkt Gymnopilus penetrans, som delar samma växtplats på barrved, storlek och gula till rostbruna färger; makroskopiska karaktärer överlappar kraftigt och säker artbestämning kräver ofta mikroskopisk undersökning av hatthudens hyfer (främst 8–16 µm breda med grova rostbruna inkrustationer och uppblåsta korta celler hos denna art, jämfört med smalare, 3–10 µm breda cylindriska, mindre kraftigt inkrusterade hyfer hos Gymnopilus penetrans) och cystiderna, jämte en tendens hos Gymnopilus penetrans att bilda fruktkroppar senare på hösten. Gymnopilus junonius är mycket större och kraftigare, växer främst på lövved och behåller en tydlig, bestående hinnartad ring på foten. Gymnopilus luteocarneus har en slätare, mörkare hatt. Galerina marginata är dödligt giftig, typiskt mindre med en slät, hygrofan brun hatt, en tydlig ringzon på en silvertrådig fot och en mjölartad doft. Phaeolepiota aurea har en pudrig-grynig hatt och nedre fot med en stor utstående ring och blekare gulbruna sporer. Små vedlevande Pholiota-arter och gulbruna Cortinarius-arter i sektionen Callistei kan också likna ytligt.",
+      "notes": "Till skillnad från flera blånande arter i släktet blånar inte denna art och innehåller inte psilocybin. Artgränserna inom Gymnopilus sapineus-komplexet — särskilt mellan denna art och Gymnopilus penetrans — har länge varit omdiskuterade, och vissa moderna behandlingar anser att de båda är svåra att skilja åt utan mikroskopi.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Çürüyen iğne yapraklı odunlarda ve nadiren geniş yapraklı odunlarda tek tek, toplu hâlde veya küçük kümeler oluşturarak büyüyen, küçük ila orta boylu, saprofit bir lamelli mantardır. Avrupa ve Kuzey Amerika'nın ılıman ve boreal ormanlarında geniş bir yayılım gösterir; Avustralya ve Yeni Zelanda'dan da kaydedilmiştir.",
+      "cap": "2–9 cm çapında (çoğunlukla 2–8 cm), başlangıçta yarım küre ila dışbükey, zamanla geniş dışbükey veya neredeyse düz hâle gelir; bazen merkezde alçak ve geniş bir tümsek (umbo) korunur. Kenarı başlangıçta içe kıvrıktır, yaşlandıkça düzleşir; gençken bazen kırılgan örtü kalıntıları taşır ve kuru havalarda lifsi biçimde çatlayabilir. Kuru yüzeyi ilk başta kadifemsi, keçemsi veya ince lifsidir; yaşlandıkça tipik olarak altın sarısı, kızıl kahverengi veya turuncu-kahverengi bir zemin üzerinde minik, yüzeye yatık okra kahverengisi ila kızıl kahverengi pulcuklara ayrılır; merkezde daha koyu, kenara doğru daha soluk krem sarısıdır. Potasyum hidroksit (KOH) şapka yüzeyini önce koyu kırmızıya, ardından siyaha çevirir.",
+      "hymenium": "Lameller sapa genişçe bitişik ila hafifçe çentikli, geniş ve sıktır; kenarları düz ila incecik tüyemsidir. Gençken soluk krem sarısı ila parlak sarı renkte olup zamanla pas kahverengisi lekeler geliştirir ve sporlar olgunlaştıkça genel olarak parlak turuncudan pas kahverengisine döner. Bazidiyumlar 4 sterigmalıdır; keilosistidler ve zar zor çıkıntı yapan pleurosistidler bulunur (bazı örneklerde keilosistidler seyrek ve belirsiz olabilir), kaulosistidler ise seyrek ila mevcuttur.",
+      "stipe": "2,5–7 cm uzunluğunda ve 0,3–1,5 cm kalınlığında (tipik olarak 0,5–1 cm), silindirik veya tabana doğru hafifçe incelen, sert, içi dolu ve dayanıklıdır. Soluk sarı ila sarımsı okra renginde ve şapka tonlarıyla gölgelidir; pürüzsüz ila ince uzunlamasına lifsidir, yaşlandıkça veya dokunulduğunda tabandan yukarı doğru kızıl kahverengiye ya da koyu sarımtrak kahverengiye koyulaşır; tabanında beyazımsı ila sarımsı miselyum bulunur. Genç mantarlarda kırılgan, örümcek ağımsı ve sarımsı bir kısmi örtü (kortina) yer alır ancak hızla kaybolur, nadiren kalıcı bir halka ve sapın üst kısmında en fazla belirsiz lifsi izler bırakır.",
+      "flesh": "İnce, soluk sarı ila sarımsı turuncu renkte ve cinsin daha iri üyelerine kıyasla oldukça narindir. Kokusu hafif, mantarımsı, hafif baharatlı veya belli belirsiz tatlımsıdır; tadı tipik olarak belirgin biçimde acıdır, ancak zaman zaman hafif olabilir.",
+      "sporePrint": "Pas kahverengisi ila parlak pas turuncusu. Sporlar elipsoid ila badem biçiminde, belirgin siğilli, dekstrinoid (Melzer reaktifinde kızıl kahverengiye döner) ve 6,5–10,5 × 4–6 µm (tipik olarak 7–9,5 × 4,5–5,5 µm) boyutlarındadır.",
+      "habitat": "Ölü, çürüyen iğne yapraklı odunlarda — özellikle çam, göknar ve ladin kütükleri, devrik gövdeleri, dalları, kökleri ve orman örtüsüne gömülü odunsu kalıntılarda — saprofit olarak yaşar; geniş yapraklı odunlarda yalnızca nadiren görülür. Avrupa ve Kuzey Amerika'nın büyük bölümünde hazirandan kasıma kadar tek tek, toplu hâlde veya küçük kümeler biçiminde meyve verir; Akdeniz ve Pasifik kıyı iklimlerinde mevsim kış boyunca da (eylülden şubata kadar) devam eder.",
+      "uses": "Acı tadı ve ince etli kısmı nedeniyle yenmez; bazı kaynaklar ayrıca şüpheli veya olası hafif zehirli olarak değerlendirir.",
+      "confusion": "Aynı iğne yapraklı odun yaşam alanını, boyutu ve sarı-pas rengini paylaşan Gymnopilus penetrans türüne çok benzer; makroskobik özellikler büyük ölçüde örtüşür ve güvenilir ayrım genellikle şapka derisi (pileipellis) hiflerinin (bu türde çoğunlukla 8–16 µm genişliğinde, kaba pas kahverengisi kabuklanmalı ve şişkin kısa hücreli; Gymnopilus penetrans türünde ise daha dar, 3–10 µm silindirik ve daha az kabuklanmalı hifler) ve sistidlerin mikroskobik incelemesini gerektirir; ayrıca Gymnopilus penetrans sonbaharın daha geç dönemlerinde meyve verme eğilimindedir. Gymnopilus junonius çok daha iri ve kalın yapılıdır, ağırlıklı olarak geniş yapraklı odunlarda yetişir ve sapında belirgin, kalıcı zarımsı bir halka taşır. Gymnopilus luteocarneus daha pürüzsüz ve koyu renkli bir şapkaya sahiptir. Galerina marginata ölümcül zehirlidir; tipik olarak daha küçüktür, pürüzsüz higrofan kahverengi bir şapkaya, gümüşi lifsi sap üzerinde belirgin bir halka kuşağına ve unsu bir kokuya sahiptir. Phaeolepiota aurea pudramsı-tanecikli bir şapka ve alt sapa, genişçe açılan büyük bir halkaya ve daha soluk sarı-kahverengi sporlara sahiptir. Odun üzerinde yaşayan küçük Pholiota türleri ile Callistei seksiyonundaki kızıl-sarımsı Cortinarius türleri de yüzeysel olarak benzeyebilir.",
+      "notes": "Cinsinin maviye dönen bazı üyelerinin aksine bu tür maviye dönmez ve psilosibin içermez. Gymnopilus sapineus tür kompleksi içindeki — özellikle bu tür ile Gymnopilus penetrans arasındaki — tür sınırları uzun süredir tartışılmaktadır ve bazı modern yaklaşımlar bu ikisinin mikroskopi olmadan ayrılmasının zor olduğunu belirtmektedir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий або середнього розміру сапротрофний пластинчастий гриб, який росте поодинці, групами або невеликими пучками на трухлявій хвойній деревині та зрідка на листяній. Широко поширений у помірних і бореальних лісах Європи та Північної Америки, також зафіксований в Австралії та Новій Зеландії.",
+      "cap": "Діаметром 2–9 см (переважно 2–8 см), спочатку напівкуляста або опукла, згодом широкоопукла чи майже плоска, іноді з низьким широким горбком у центрі. Край спершу підгорнутий, з віком вирівнюється, у молодих плодових тіл іноді має крихкі залишки покривала, а в суху погоду може волокнисто розтріскуватися. Суха поверхня спочатку оксамитова, повстиста або тонковолокниста, з віком зазвичай розпадається на дрібні притиснуті охристо-коричневі до червонувато-коричневих лусочки на золотисто-жовтому, рудувато-коричневому або оранжево-коричневому тлі; у центрі темніша, до краю блідіша, кремово-жовта. Гідроксид калію (KOH) забарвлює поверхню шапинки в темно-червоний, а згодом у чорний колір.",
+      "hymenium": "Пластинки прирослі до слабо виїмчастих, широкі й густі, з гладким або дрібнопластівчастим краєм. У молодих грибів блідо-кремово-жовті до яскраво-жовтих, згодом на них з'являються іржаво-коричневі плями, а в міру дозрівання спор вони стають цілком яскраво-оранжевими або іржаво-коричневими. Базидії 4-спорові; наявні хейлоцистиди та ледь виступаючі плевроцистиди (хоча в окремих зборах хейлоцистиди можуть бути рідкісними й малопомітними), а каулоцистиди рідкісні або наявні.",
+      "stipe": "Завдовжки 2,5–7 см і завтовшки 0,3–1,5 см (зазвичай 0,5–1 см), циліндрична або злегка звужена до основи, щільна, суцільна й пружна. Блідо-жовта до жовтувато-охристої з відтінками шапинки, гладка або тонко поздовжньо-волокниста, з віком або від дотику темнішає від основи догори до рудувато-коричневої чи червонувато-коричневої, з білуватим до жовтуватого базальним міцелієм. У молодих плодових тіл є крихке павутинисте жовтувате часткове покривало (кортина), яке швидко зникає, рідко залишаючи стійке кільце і щонайбільше слабкі волокнисті сліди у верхній частині ніжки.",
+      "flesh": "Тонкий, блідо-жовтий до жовтувато-оранжевого і відносно ніжний порівняно з більшими видами роду. Запах слабкий, грибний, трохи пряний або ледь солодкуватий; смак зазвичай виразно гіркий, хоча іноді може бути м'яким.",
+      "sporePrint": "Іржаво-коричневий до яскраво-іржаво-оранжевого. Спори еліпсоїдні до мигдалеподібних, виразно бородавчасті, декстриноїдні (у реактиві Мельцера забарвлюються в червонувато-коричневий колір) і мають розмір 6,5–10,5 × 4–6 мкм (зазвичай 7–9,5 × 4,5–5,5 мкм).",
+      "habitat": "Сапротроф на мертвій, трухлявій хвойній деревині — особливо на пнях, стовбурах, гілках, корінні та похованих у лісовій підстилці деревних рештках сосни, ялиці й смереки — і лише зрідка на листяній деревині. Плодоносить поодинці, групами або невеликими пучками з червня по листопад на більшій частині Європи та Північної Америки, а в середземноморському й тихоокеанському прибережному кліматі плодоношення триває і взимку (з вересня по лютий).",
+      "uses": "Неїстівний через гіркий смак і тонкий м'якуш; деякі джерела також вважають його підозрілим або потенційно слабкоотруйним.",
+      "confusion": "Дуже схожий на Gymnopilus penetrans, який має те саме місцезростання на хвойній деревині, подібні розміри та жовто-іржаве забарвлення; макроскопічні ознаки значною мірою перекриваються, тому надійне розрізнення часто потребує мікроскопічного дослідження гіф шкірки шапинки (пілеїпелісу: у цього виду переважно завширшки 8–16 мкм із грубими іржаво-коричневими інкрустаціями та здутими короткими клітинами, проти вужчих, 3–10 мкм циліндричних і слабше інкрустованих гіф у Gymnopilus penetrans) та цистид, поряд зі схильністю Gymnopilus penetrans плодоносити пізніше восени. Gymnopilus junonius значно більший і масивніший, росте переважно на листяній деревині та зберігає чітке стійке плівчасте кільце на ніжці. Gymnopilus luteocarneus має гладкішу й темнішу шапинку. Galerina marginata є смертельно отруйною, зазвичай дрібнішою, з гладкою гігрофанною коричневою шапинкою, виразною кільцевою зоною на сріблясто-волокнистій ніжці та борошнистим запахом. Phaeolepiota aurea має борошнисто-зернисту шапинку й нижню частину ніжки з великим розлогим кільцем та блідіші жовто-коричневі спори. Поверхнево можуть нагадувати також дрібні деревинні види Pholiota і рудувато-коричневі види Cortinarius із секції Callistei.",
+      "notes": "На відміну від кількох синіючих представників свого роду, цей вид не синіє й не містить псилоцибіну. Межі видів у межах комплексу Gymnopilus sapineus — особливо між цим видом і Gymnopilus penetrans — давно є предметом дискусій, і деякі сучасні трактування вважають, що без мікроскопії їх важко розрізнити.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "小型至中型的腐生菌褶菇類，單生、群生或成小叢生長於腐朽的針葉樹木材上，偶爾亦見於闊葉樹木材。廣泛分布於歐洲與北美洲的溫帶及北方森林，在澳洲與紐西蘭亦有記錄。",
+      "cap": "菌蓋直徑2–9 cm（多數為2–8 cm），初呈半球形至凸圓形，隨後展開為寬凸形或近乎平展，中央有時保留低而寬的臍突。菌蓋邊緣初向內捲，隨成熟而伸直，幼時偶有脆弱的菌幕殘餘，乾燥天氣下有時呈纖維狀開裂。乾燥的菌蓋表面初呈絨毛狀、氈狀或細纖維狀，成熟後通常裂成細小貼伏的赭褐色至紅褐色鱗片，襯於金黃色至黃褐色或橙褐色的底色上，中央顏色較深，向邊緣漸變為較淡的乳黃色。氫氧化鉀（KOH）會使菌蓋表面先呈暗紅色，繼而轉黑。",
+      "hymenium": "菌褶直生至微彎生，寬而密，褶緣平滑至微呈絮狀。幼時呈淡乳黃色至亮黃色，隨孢子成熟出現鏽褐色斑點，整體轉為亮橙色至鏽褐色。擔子具4個小梗；具褶緣囊狀體及幾乎不突出的褶側囊狀體（但部分採集標本中褶緣囊狀體稀疏且不明顯），並具稀疏至明顯的柄囊狀體。",
+      "stipe": "菌柄長2.5–7 cm、粗0.3–1.5 cm（通常為0.5–1 cm），圓柱形或向基部略微漸細，質地堅實、中實且具韌性。呈淡黃色至黃赭色並帶有菌蓋色調，表面平滑至具細縱向纖維，隨成熟或觸碰由基部向上漸暗為黃褐色或紅褐色，基部具白色至淡黃色菌絲體。幼嫩子實體具有脆弱的蛛網狀淡黃色內菌幕（絲膜），但會迅速消失，極少留下宿存菌環，至多在菌柄上部殘留微弱的纖維狀痕跡。",
+      "flesh": "菌肉薄，呈淡黃色至黃橙色，與同屬較大型種類相比顯得相對柔弱。氣味溫和，帶有菇香、微辛香或淡淡甜味；味道通常明顯苦澀，但偶爾溫和。",
+      "sporePrint": "孢子印呈鏽褐色至亮鏽橙色。孢子橢圓形至杏仁形，具明顯疣突，具類糊精反應（在梅澤試劑中轉為紅褐色），大小為6.5–10.5 × 4–6 µm（通常為7–9.5 × 4.5–5.5 µm）。",
+      "habitat": "腐生於枯死腐朽的針葉樹木材上——尤其是松樹、冷杉與雲杉的樹樁、倒木、枝條、樹根及埋於林地枯枝落葉中的木質碎屑——僅極少見於闊葉樹木材。在歐洲與北美洲大部分地區於6月至11月單生、群生或成小叢出菇，在地中海型及太平洋沿岸氣候區則可延續至冬季（9月至2月）。",
+      "uses": "因味苦且菌肉薄而不可食；部分文獻亦將其視為可疑或可能具輕微毒性。",
+      "confusion": "與Gymnopilus penetrans極為相似，兩者共享相同的針葉樹木材生長環境、體型以及黃色至鏽色色調；宏觀特徵高度重疊，可靠的區分往往需要顯微鏡檢菌蓋表皮菌絲（本種多寬8–16 µm，具粗大鏽褐色結殼與膨大短細胞，而Gymnopilus penetrans為較窄的3–10 µm圓柱形、結殼較輕的菌絲）與囊狀體，此外Gymnopilus penetrans傾向於在秋季較晚時出菇。Gymnopilus junonius體型大得多且更粗壯，主要生長於闊葉樹上，且菌柄保留明顯宿存的膜質菌環。Gymnopilus luteocarneus的菌蓋更平滑且顏色更深。Galerina marginata劇毒致命，通常較小，具平滑且具吸濕性的褐色菌蓋、銀色纖維狀菌柄上的明顯菌環帶以及麵粉氣味。Phaeolepiota aurea的菌蓋與菌柄下部呈粉粒狀，具寬大外張的菌環及較淡的黃褐色孢子。木棲小型Pholiota屬種類以及Cortinarius屬Callistei節的黃褐色種類外觀上亦可能相似。",
+      "notes": "與同屬中數種會藍變的成員不同，本種不會藍變，亦不含裸蓋菇素。Gymnopilus sapineus複合群——尤其是本種與Gymnopilus penetrans之間——的物種界線長期以來備受爭議，部分現代分類處理認為若無顯微觀察難以將兩者區分。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/118302"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus hybridus",
+      "author": "Sowerby",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus sapineus",
+      "author": "Fr.",
+      "rank": "species"
+    },
+    {
+      "name": "Derminus sapineus",
+      "author": "(Fr.) J. Schröt.",
+      "rank": "species"
+    },
+    {
+      "name": "Dryophila sapinea",
+      "author": "(Fr.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Flammula sapinea",
+      "author": "(Fr.) P. Kumm.",
+      "rank": "species"
+    },
+    {
+      "name": "Fulvidula sapinea",
+      "author": "(Fr.) Romagn.",
+      "rank": "species"
+    },
+    {
+      "name": "Gymnopilus sapineus",
+      "author": "(Fr.) Maire",
+      "rank": "species"
+    },
+    {
+      "name": "Naucoria sapinea",
+      "author": "(Fr.) Henn.",
+      "rank": "species"
+    }
+  ]
+},
+{
+  "id": 202,
+  "name": "Hygrophorus chrysodon",
+  "author": "(Batsch) Fr.",
+  "citation": "Epicrisis Systematis Mycologici: 320 (1838) [1836–1838]",
+  "family": "Hygrophoraceae",
+  "genus": "Hygrophorus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Hygrophoraceae",
+    "Hygrophorus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Hygrophoraceae",
+    "Hygrophorus"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "yellow"
+  ],
+  "capFrom": 1.5,
+  "capTo": 8.0,
+  "stipeHeightFrom": 2.5,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 0.3,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 12,
+  "added": "2026-11-23",
+  "label": {
+    "en": "gold-flecked woodwax",
+    "sk": "šťavnačka žltovločkatá",
+    "cs": "šťavnatka žlutolemá",
+    "da": "gulfnugget sneglehat",
+    "de": "Goldzahn-Schneckling",
+    "es": "higróforo de dientes dorados",
+    "et": "ebe-limanutt",
+    "fi": "taikavahakas",
+    "fr": "hygrophore à dents d'or",
+    "hu": "sárgapelyhű csigagomba",
+    "ja": "ウコンガサ",
+    "lt": "geltonžvynė guotė",
+    "lv": "zeltpārslu gliemezene",
+    "nl": "goudgerande slijmkop",
+    "no": "gullrandvokssopp",
+    "pl": "wodnicha złocista",
+    "ru": "гигрофор золотистозубчатый",
+    "sl": "zlatozoba polževka",
+    "sv": "gulprickig vaxskivling",
+    "uk": "гігрофор золотистий",
+    "zh": "金粒蠟傘"
+  },
+  "names": {
+    "en": [
+      "flaky waxy cap",
+      "gold dust waxy cap",
+      "golden tooth woodwax"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "šťavnatka žlutolupenná",
+      "šťavnatka zlatozubá"
+    ],
+    "da": [],
+    "de": [
+      "Gelbflockiger Schneckling",
+      "Goldzahnschneckling"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "hygrophore à dents jaunes"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "gulpricksvaxing"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=211493",
+        "detail": "211493"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=211493",
+        "detail": "211493"
+      },
+      {
+        "group": "name",
+        "name": "MycoBank",
+        "href": "https://www.mycobank.org/page/Name%20details%20page/211493",
+        "detail": "211493"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/3NBWT"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1536218"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/hygrophorus_chrysodon.html"
+      },
+      {
+        "group": "text",
+        "name": "MykoWeb",
+        "href": "https://www.mykoweb.com/CAF/species/Hygrophorus_chrysodon.html"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/hygrophorus-chrysodon.php"
+      },
+      {
+        "group": "text",
+        "name": "iNaturalist",
+        "href": "https://www.inaturalist.org/taxa/344545"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Hygrophorus_chrysodon"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Goldzahn-Schneckling",
+        "detail": "German"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/%C5%A0%C5%A5avnatka_%C5%BElutolem%C3%A1",
+        "detail": "Czech"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/%C5%A0%C5%A5avnatka_%C5%BElutolem%C3%A1",
+        "detail": "Czech"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "da": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Goldzahn-Schneckling",
+        "detail": "German"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "es": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/Ebe-limanutt",
+        "detail": "Estonian"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "fi": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "fr": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/S%C3%A1rgapelyh%C5%B1_csigagomba",
+        "detail": "Hungarian"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "ja": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "lt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lt.wikipedia.org/wiki/Gelton%C5%BEvyn%C4%97_guot%C4%97",
+        "detail": "Lithuanian"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "lv": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "nl": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "no": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Wodnicha_z%C5%82ocista",
+        "detail": "Polish"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "ru": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "sk": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sl.wikipedia.org/wiki/Zlatozoba_pol%C5%BEevka",
+        "detail": "Slovenian"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Gulprickig_vaxskivling",
+        "detail": "Swedish"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      }
+    ],
+    "uk": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%84%D0%BE%D1%80_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%B9",
+        "detail": "Ukrainian"
+      }
+    ],
+    "zh": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2538788",
+        "detail": "2538788"
+      },
+      {
+        "group": "text",
+        "name": "iNaturalist",
+        "href": "https://www.inaturalist.org/taxa/344545"
+      }
+    ]
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "User-supplied mycological plate (896x1200 JPEG, center-cropped to 800x1200 and LANCZOS-resized 2.0x to 1600x2400 and 400x600 WebP; no compositing or repainting). Shows a mature ivory-white viscid cap with golden-yellow marginal floccules on a yellow-dotted stipe, a young specimen, an underside view of waxy adnate-to-subdecurrent gills, and a vertical section on beech and conifer litter.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon_1.webp",
+      "author": "Michael Tidwell",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/235107244"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon_2.webp",
+      "author": "mycowalt",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/9592921"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon_3.webp",
+      "author": "lizfrost47",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/338298507"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon_4.webp",
+      "author": "Alan Rockefeller",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/19171359"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Hygrophoraceae/Hygrophorus_chrysodon/Hygrophorus_chrysodon_5.webp",
+      "author": "Francesco Cecere",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/17775850"
+    }
+  ],
+  "text": {
+    "en": {
+      "description": "A medium-sized, viscid ectomycorrhizal agaric fruiting solitarily, scattered, or gregariously on soil in deciduous, coniferous, and mixed forests, often on calcareous ground. Widespread across the Northern Hemisphere, it occurs throughout Europe from Britain and Scandinavia to Spain, Italy, and Romania, across North America, and in northern and eastern Asia, including eastern Siberia, Korea, and Japan.",
+      "cap": "1.5–8 cm across (occasionally up to 14 cm), convex when young with an inrolled margin, expanding to broadly convex, broadly bell-shaped, or nearly flat, often with a low obtuse umbo. The surface is smooth with faint innate radial fibrils, slimy or viscid when moist and drying matte to shiny; white to ivory at first, sometimes yellowing with age or bruising. It is characteristically adorned with bright golden-yellow to lemon- or orange-yellow flocculent granules or tooth-like scales concentrated along the margin and occasionally scattered over the disc as universal veil remnants, though these flakes can fade or wash away with age. Potassium hydroxide (KOH) produces an immediate bright yellow to lemon-yellow reaction on the cap surface.",
+      "hymenium": "Waxy, thickish, broad, adnate to subdecurrent or decurrent gills, close to somewhat distant with frequent short lamellulae. White to cream, sometimes developing a pale yellowish or faint pinkish-yellow sheen with age; the gill edges are occasionally dotted with fine yellow floccules, especially in young fruit bodies. Basidia are cylindrical-clavate, 35–55 × 5.5–7 µm, four-spored with basal clamp connections; hymenial cystidia are absent, and the lamellar trama is divergent.",
+      "stipe": "2.5–10 cm tall and 0.3–1.5 cm thick, cylindrical and equal above, often tapering toward the base, solid or stuffed-woolly inside. White to pale cream or yellowish, slimy to viscid over the lower portion when fresh, and densely dotted near the apex with golden-yellow to lemon-yellow granules that sometimes form an indistinct ring zone; the surface turns bright yellow with KOH.",
+      "flesh": "Soft, juicy, and white, sometimes faintly yellowish beneath the cap cuticle and stipe surface, unchanging when cut, and turning bright yellow with KOH. The odour is mild, mushroomy, or weakly sourish-aromatic (occasionally likened to fruit, bitter almonds, resin, or the goat-moth caterpillar), and the taste is mild, faintly nutty, or occasionally slightly bitter.",
+      "sporePrint": "White. Spores are 7–10 × 3.5–5 µm, ellipsoid to fusiform-ellipsoid, smooth, hyaline in KOH, often containing oil droplets, and inamyloid.",
+      "habitat": "Ectomycorrhizal with both broadleaf trees (especially beech, Fagus, and oak, Quercus) and conifers (spruce, Picea, fir, Abies, and pine, Pinus), fruiting solitarily, scattered, or in small groups on fresh to moist, neutral to calcareous soils over limestone or marl, as well as along gravelled forest tracks, in leaf litter, or in mossy and grassy clearings, rarely in parks or gardens. It fruits mainly from July to November across temperate Europe and North America, extending into December or mid-winter in milder oceanic and western North American climates.",
+      "uses": "Edible, though generally considered bland, soft-fleshed, and of minor culinary value, and rarely gathered because of its scattered or locally uncommon occurrence.",
+      "confusion": "Hygrophorus eburneus often fruits alongside it in similar beech habitats, but is pure ivory-white throughout, lacks yellow marginal floccules, and does not turn bright yellow with KOH. Hygrophorus discoxanthus is usually slightly larger, lacks golden-yellow flakes, stains brownish-orange to rusty-brown on the gills and cap margin with age, has a stronger vinegar-like or unpleasant odour, and is considered inedible. Hygrophorus cossus is wholly white without yellow floccules and emits a strong, pungent odour of goat-moth caterpillars. Aged specimens that have lost their yellow granules can be separated from other white Hygrophorus species by the immediate bright yellow KOH reaction on the cap, stipe, and flesh.",
+      "notes": "The intensity of the golden-yellow floccules varies considerably among fruit bodies and diminishes with rain or age, making the bright yellow KOH reaction the most reliable diagnostic character in weathered specimens. Forms lacking the yellow floccules have been treated as Hygrophorus chrysodon var. leucodon, forms with flesh-coloured gills or reddish-staining flesh as var. incarnatum, and a Mediterranean form associated with Cistus shrubs as var. cistophilus.",
+      "label": "gold-flecked woodwax",
+      "names": [
+        "flaky waxy cap",
+        "gold dust waxy cap",
+        "golden tooth woodwax"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=211493",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=211493",
+        "https://www.mycobank.org/page/Name%20details%20page/211493",
+        "https://www.gbif.org/species/2538788",
+        "https://www.catalogueoflife.org/data/taxon/3NBWT",
+        "https://www.wikidata.org/wiki/Q1536218",
+        "https://www.mushroomexpert.com/hygrophorus_chrysodon.html",
+        "https://www.mykoweb.com/CAF/species/Hygrophorus_chrysodon.html",
+        "https://www.first-nature.com/fungi/hygrophorus-chrysodon.php",
+        "https://www.inaturalist.org/taxa/344545",
+        "https://en.wikipedia.org/wiki/Hygrophorus_chrysodon",
+        "https://de.wikipedia.org/wiki/Goldzahn-Schneckling",
+        "https://cs.wikipedia.org/wiki/%C5%A0%C5%A5avnatka_%C5%BElutolem%C3%A1"
+      ]
+    },
+    "sk": {
+      "description": "Stredne veľká, slizká ektomykorízna lupeňovitá huba, ktorá rastie jednotlivo, roztrúsene alebo v skupinách na pôde v listnatých, ihličnatých aj zmiešaných lesoch, často na vápencovom podloží. Je široko rozšírená na celej severnej pologuli: vyskytuje sa v celej Európe od Británie a Škandinávie až po Španielsko, Taliansko a Rumunsko, v celej Severnej Amerike aj v severnej a východnej Ázii vrátane východnej Sibíri, Kórey a Japonska.",
+      "cap": "1,5–8 cm široký (zriedkavo až 14 cm), za mladi klenutý s podvinutým okrajom, neskôr široko klenutý, široko zvoncovitý až takmer plochý, často s nízkym tupým hrboľom. Povrch je hladký s jemnými vrastenými lúčovitými vláknami, za vlhka slizký až lepkavý, po vyschnutí matný až lesklý; spočiatku biely až slonovinový, starnutím alebo po otlačení niekedy žltnúci. Charakteristicky ho zdobia jasne zlatožlté až citrónovo- alebo oranžovožlté vločkovité zrniečka či zúbkovité šupinky sústredené popri okraji a občas roztrúsené aj na strede klobúka ako zvyšky celkového závoja (véla), hoci tieto vločky môžu starnutím blednúť alebo sa zmývať. Hydroxid draselný (KOH) vyvoláva na povrchu klobúka okamžitú jasne žltú až citrónovožltú reakciu.",
+      "hymenium": "Lupene sú voskovité, hrubšie, široké, prirastené až krátko zbiehavé alebo zbiehavé, husté až trochu riedke s častými krátkymi lupienkami. Sú biele až krémové, starnutím niekedy získavajú bledožltkastý alebo slabo ružovkastožltý nádych; ostria lupeňov sú občas posiate drobnými žltými vločkami, najmä na mladých plodniciach. Bazídiá sú valcovito kyjakovité, 35–55 × 5,5–7 µm, štvorvýtrusné s bazálnymi prackami; hymeniálne cystidy chýbajú a tráma lupeňov je divergentná.",
+      "stipe": "2,5–10 cm vysoký a 0,3–1,5 cm hrubý, valcovitý a v hornej časti rovnako hrubý, k báze sa často zužujúci, vnútri plný alebo vatovito vypchatý. Biely až bledokrémový alebo žltkastý, za čerstva v dolnej časti slizký až lepkavý a pri vrchole husto posiaty zlatožltými až citrónovožltými zrniečkami, ktoré niekedy tvoria nezreteľnú prsteňovitú zónu; povrch s KOH okamžite jasne zožltne.",
+      "flesh": "Mäkká, šťavnatá a biela, pod pokožkou klobúka a povrchom hlúbika niekedy slabo žltkastá, na reze nemenná a s KOH sa sfarbuje jasne nažlto. Vôňa je jemná, hubová alebo slabo kyslasto aromatická (občas prirovnávaná k ovociu, horkým mandliam, živici alebo húsenici drevotoča), chuť je mierna, slabo oriešková alebo občas mierne horkastá.",
+      "sporePrint": "Biely. Výtrusy majú rozmery 7–10 × 3,5–5 µm, sú elipsoidné až vretenovito elipsoidné, hladké, v KOH hyalínne, často s olejovými kvapkami a neamyloidné.",
+      "habitat": "Ektomykorízna s listnatými stromami (najmä bukom, Fagus, a dubom, Quercus) aj s ihličnanmi (smrekom, Picea, jedľou, Abies, a borovicou, Pinus), rastie jednotlivo, roztrúsene alebo v malých skupinách na čerstvých až vlhkých, neutrálnych až vápenatých pôdach na vápencoch alebo slieňoch, ako aj pozdĺž štrkových lesných ciest, v listovom opade alebo na machnatých a trávnatých čistinkách, zriedkavo v parkoch či záhradách. Plodí najmä od júla do novembra v miernom pásme Európy a Severnej Ameriky, pričom v miernejšom oceánickom podnebí a v západnej Severnej Amerike jej výskyt zasahuje až do decembra alebo polovice zimy.",
+      "uses": "Jedlá, hoci sa vo všeobecnosti považuje za chuťovo nevýraznú, mäkkú a kuchynsky málo hodnotnú; pre roztrúsený alebo miestami zriedkavý výskyt sa zbiera len zriedka.",
+      "confusion": "Šťavnačka slonovinová (Hygrophorus eburneus) často plodí vedľa nej na podobných bukových stanovištiach, je však celá čisto slonovinovo biela, nemá žlté okrajové vločky a s KOH nezožltne. Hygrophorus discoxanthus býva o niečo väčší, nemá zlatožlté vločky, starnutím sa na lupeňoch a okraji klobúka sfarbuje hnedooranžovo až hrdzavohnedo, má silnejšiu octovitú alebo nepríjemnú vôňu a považuje sa za nejedlý. Hygrophorus cossus je celý biely bez žltých vločiek a vydáva silný, prenikavý zápach húseníc drevotoča. Staršie plodnice, ktoré stratili žlté zrniečka, možno od ostatných bielych druhov rodu Hygrophorus spoľahlivo odlíšiť okamžitou jasne žltou reakciou s KOH na klobúku, hlúbiku aj v dužine.",
+      "notes": "Intenzita zlatožltých vločiek sa medzi jednotlivými plodnicami značne líši a vplyvom dažďa alebo starnutia slabne, preto je pri zvetraných plodniciach najspoľahlivejším určovacím znakom jasne žltá reakcia s KOH. Formy bez žltých vločiek sa vyčleňujú ako Hygrophorus chrysodon var. leucodon, formy s mäsovo sfarbenými lupeňmi alebo červenajúcou dužinou ako var. incarnatum a stredomorská forma viazaná na kry cistu (Cistus) ako var. cistophilus.",
+      "label": "šťavnačka žltovločkatá",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "ar": {
+      "description": "فطر ذو صفائح متوسط الحجم، لزج، وتكافلي فطري جذري خارجي، يثمر منفردًا أو متناثرًا أو في مجموعات على التربة في الغابات عريضة الأوراق والصنوبرية والمختلطة، وغالبًا على التربة الكلسية. ينتشر على نطاق واسع في نصف الكرة الشمالي، حيث يوجد في جميع أنحاء أوروبا من بريطانيا وإسكندنافيا إلى إسبانيا وإيطاليا ورومانيا، وفي أنحاء أمريكا الشمالية، وفي شمال آسيا وشرقها، بما في ذلك شرق سيبيريا وكوريا واليابان.",
+      "cap": "قطر القبعة ١٫٥–٨ سم (وقد يصل أحيانًا إلى ١٤ سم)، محدبة في الصغر ذات حافة ملتفة إلى الداخل، ثم تنبسط لتصبح محدبة عريضة أو جرسية عريضة أو شبه مسطحة، وغالبًا ما تحمل سرة منخفضة غير حادة في المركز. السطح أملس ذو ألياف شعاعية باهتة مندمجة، مخاطي أو لزج عند الرطوبة ويجف ليصبح مطفأً إلى لامع؛ لونه أبيض إلى عاجي في البداية، وقد يصفر أحيانًا مع التقدم في العمر أو عند الكدم. يتميز بتزيينه بحبيبات قطنية أو حراشف شبيهة بالأسنان بلون أصفر ذهبي زاهٍ إلى أصفر ليموني أو أصفر برتقالي، وهي بقايا الحجاب العام، تتركز على طول الحافة وتتناثر أحيانًا فوق القرص المركزي، وإن كانت هذه الرقائق قد تبهت أو تغسلها الأمطار مع التقدم في العمر. يُحدث هيدروكسيد البوتاسيوم (KOH) تفاعلًا فوريًا باللون الأصفر الزاهي إلى الأصفر الليموني على سطح القبعة.",
+      "hymenium": "صفائح شمعية، سميكة نوعًا ما، عريضة، متصلة بالساق إلى شبه منحدرة أو منحدرة عليها، متقاربة إلى متباعدة قليلًا مع وجود صفائح قصيرة متكررة. لونها أبيض إلى كريمي، وقد يكتسب أحيانًا مسحة صفراء باهتة أو بريقًا ورديًا مصفرًا خفيفًا مع التقدم في العمر؛ وتكون حواف الصفائح منقطة أحيانًا برقائق صفراء دقيقة، لا سيما في الأجسام الثمرية الفتية. الدعامات البوغية (البازيدات) أسطوانية هراوية، بأبعاد ٣٥–٥٥ × ٥٫٥–٧ ميكرومتر، رباعية الأبواغ ذات مشابك قاعدية؛ وتغيب الخلايا العقيمة الغشائية (السيستيدات)، كما أن نسيج الصفائح متباعد الألياف.",
+      "stipe": "طول الساق ٢٫٥–١٠ سم وسمكها ٠٫٣–١٫٥ سم، أسطوانية ومتساوية السمك في الأعلى، وغالبًا ما تستدق نحو القاعدة، مصمتة أو محشوة بلب قطني من الداخل. لونها أبيض إلى كريمي باهت أو مصفر، مخاطية إلى لزجة في جزئها السفلي عندما تكون طازجة، ومنقطة بكثافة قرب القمة بحبيبات صفراء ذهبية إلى صفراء ليمونية تشكل أحيانًا منطقة حلقية غير واضحة المعالم؛ ويتحول سطحها إلى الأصفر الزاهي عند ملامسة KOH.",
+      "flesh": "اللحم طري، عصاري، وأبيض، وأحيانًا مصفر قليلًا تحت قشرة القبعة وسطح الساق، ولا يتغير لونه عند القطع، لكنه يتحول إلى الأصفر الزاهي مع KOH. الرائحة خفيفة، فطرية أو حمضية عطرية ضعيفة (تُشبَّه أحيانًا برائحة الفاكهة أو اللوز المر أو الراتنج أو يرقة فراشة الخشب)، والطعم لطيف، مائل قليلًا إلى المكسرات، أو مائل أحيانًا إلى مرارة خفيفة.",
+      "sporePrint": "بيضاء. الأبواغ بأبعاد ٧–١٠ × ٣٫٥–٥ ميكرومتر، بيضاوية إلى مغزلية-بيضاوية، ملساء، شفافة في KOH، وغالبًا ما تحتوي على قطيرات زيتية، وغير نشوية.",
+      "habitat": "يرتبط بتكافل فطري جذري خارجي مع كل من الأشجار عريضة الأوراق (لا سيما الزان، Fagus، والبلوط، Quercus) والصنوبريات (التنوب، Picea، والشوح، Abies، والصنوبر، Pinus). يثمر منفردًا أو متناثرًا أو في مجموعات صغيرة على التربة الرطبة المعتدلة إلى الكلسية فوق الحجر الجيري أو المارل، وكذلك على طول المسارات الحرجية المفروشة بالحصى، وفي فرشة الأوراق المتساقطة، أو في الفسحات المكسوة بالطحالب والأعشاب، ونادرًا في المتنزهات أو الحدائق. يثمر أساسًا من يوليو إلى نوفمبر في أوروبا وأمريكا الشمالية المعتدلتين، ويمتد إلى ديسمبر أو منتصف الشتاء في المناخات المحيطية الأكثر اعتدالًا وغرب أمريكا الشمالية.",
+      "uses": "صالح للأكل، غير أنه يُعد عمومًا قليل النكهة، طري اللحم، وذا قيمة غذائية ومطبخية محدودة، ونادرًا ما يُجمع بسبب انتشاره المتناثر أو قلة تواجده محليًا.",
+      "confusion": "غالبًا ما يثمر Hygrophorus eburneus إلى جانبه في مواطن الزان المماثلة، لكنه أبيض عاجي نقي بالكامل، ويفتقر إلى الرقائق الصفراء على حافة القبعة، ولا يتحول إلى الأصفر الزاهي مع KOH. أما Hygrophorus discoxanthus فعادة ما يكون أكبر حجمًا قليلًا، ويخلو من الرقائق الصفراء الذهبية، وتظهر عليه بقع بنية برتقالية إلى بنية صدئة على الصفائح وحافة القبعة مع التقدم في العمر، وله رائحة أقوى شبيهة بالخل أو كريهة، ويُعد غير صالح للأكل. ويكون Hygrophorus cossus أبيض بالكامل دون رقائق صفراء ويصدر رائحة قوية نفاذة تشبه رائحة يرقات فراشة الخشب. ويمكن تمييز العينات المسنة التي فقدت حبيباتها الصفراء عن سائر أنواع Hygrophorus البيضاء من خلال التفاعل الفوري باللون الأصفر الزاهي مع KOH على القبعة والساق واللحم.",
+      "notes": "تتفاوت كثافة الرقائق الصفراء الذهبية تفاوتًا كبيرًا بين الأجسام الثمرية وتتضاءل بفعل المطر أو التقدم في العمر، مما يجعل التفاعل الأصفر الزاهي مع KOH أكثر الصفات التشخيصية موثوقية في العينات المتأثرة بالعوامل الجوية. وقد صُنِّفت الأشكال الخالية من الرقائق الصفراء بوصفها Hygrophorus chrysodon var. leucodon، والأشكال ذات الصفائح بلون اللحم أو اللحم الذي يميل إلى الاحمرار بوصفها var. incarnatum، كما صُنِّف شكل متوسطي مرتبط بشجيرات القريضة (Cistus) بوصفه var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Средно едра, слузеста ектомикоризна пластинчата гъба, която плододава единично, разпръснато или на групи върху почва в широколистни, иглолистни и смесени гори, често на варовити почви. Широко разпространена е в Северното полукълбо: среща се в цяла Европа от Великобритания и Скандинавия до Испания, Италия и Румъния, в цяла Северна Америка, както и в Северна и Източна Азия, включително Източен Сибир, Корея и Япония.",
+      "cap": "С диаметър 1,5–8 см (рядко до 14 см), в младост изпъкнала с подвит ръб, по-късно се разперва до широкоизпъкнала, широкозвънчевидна или почти плоска, често с ниска тъпа гърбица. Повърхността е гладка със слаби враснали радиални влакна, при влажно време слузеста или лепкава, а при изсъхване матова до лъскава; отначало бяла до цвят на слонова кост, понякога пожълтява с възрастта или при нараняване. Характерно е украсена с ярко златистожълти, лимоненожълти или оранжевожълти памуковидни зрънца или зъбовидни люспици — остатъци от общото покривало, струпани по ръба и понякога разпръснати по центъра, макар че с възрастта тези люспици могат да избледнеят или да се отмият от дъжда. Калиевата основа (KOH) предизвиква незабавна ярко жълта до лимоненожълта реакция върху повърхността на гуглата.",
+      "hymenium": "Ламелите са восъчни, сравнително дебели, широки, прираснали до слабонизбягващи или низбягващи, гъсти до сравнително редки, с многобройни къси ламелули. Бели до кремави, с възрастта понякога придобиват бледожълтеникав или слаб розовожълт оттенък; ръбовете на ламелите, особено при младите плодни тела, понякога са осеяни с фини жълти люспици. Базидиите са цилиндрично-бухалковидни, 35–55 × 5,5–7 мкм, четириспорови, с базални скоби; химениални цистиди липсват, а трамата на ламелите е дивергентна.",
+      "stipe": "Високо 2,5–10 см и дебело 0,3–1,5 см, цилиндрично и равно в горната част, често стесняващо се към основата, плътно или с памуковидна сърцевина. Бяло до бледокремаво или жълтеникаво, при свежо състояние слузесто до лепкаво в долната част и гъсто осеяно близо до върха със златистожълти до лимоненожълти зрънца, които понякога образуват неясна пръстеновидна зона; повърхността се оцветява ярко жълто с KOH.",
+      "flesh": "Меко, сочно и бяло месо, понякога със слаб жълтеникав оттенък под кожицата на гуглата и повърхността на пънчето, непроменящо се при срязване и пожълтяващо ярко от KOH. Миризмата е слаба, гъбна или леко кисело-ароматна (понякога оприличавана на плодове, горчиви бадеми, смола или гъсеница на миризливия дървесинояд), а вкусът е мек, леко ядков или понякога слабо горчив.",
+      "sporePrint": "Бял. Спорите са 7–10 × 3,5–5 мкм, елипсовидни до вретеновидно-елипсовидни, гладки, безцветни в KOH, често съдържащи мастни капки, неамилоидни.",
+      "habitat": "Ектомикоризна както с широколистни дървета (особено бук, Fagus, и дъб, Quercus), така и с иглолистни (смърч, Picea, ела, Abies, и бор, Pinus), като плододава единично, разпръснато или на малки групи върху свежи до влажни, неутрални до варовити почви над варовик или мергел, както и покрай чакълирани горски пътища, в листна постилка или по мъхести и тревисти поляни, рядко в паркове и градини. Плододава предимно от юли до ноември в умерена Европа и Северна Америка, като в по-мекия океански климат и в западната част на Северна Америка продължава до декември или средата на зимата.",
+      "uses": "Ядлива гъба, но като цяло се смята за безвкусна, с меко месо и неголяма кулинарна стойност, а и рядко се събира поради разпръснатото си или местно рядко срещане.",
+      "confusion": "Hygrophorus eburneus често плододава редом с нея в сходни букови гори, но е изцяло чисто бяла с цвят на слонова кост, няма жълти люспици по ръба на гуглата и не дава ярко жълта реакция с KOH. Hygrophorus discoxanthus обикновено е малко по-едра, няма златистожълти люспици, с възрастта образува кафеникаво-оранжеви до ръждивокафяви петна по ламелите и ръба на гуглата, има по-силна оцетна или неприятна миризма и се смята за неядлива. Hygrophorus cossus е изцяло бяла без жълти люспици и излъчва силна, остра миризма на гъсеници на миризливия дървесинояд. Застарелите екземпляри, изгубили жълтите си зрънца, могат да бъдат отличени от другите бели видове Hygrophorus по незабавната ярко жълта реакция с KOH върху гуглата, пънчето и месото.",
+      "notes": "Наситеността на златистожълтите люспици варира значително между отделните плодни тела и намалява при дъжд или с възрастта, което прави ярко жълтата реакция с KOH най-надеждния диагностичен белег при стари или изветрели екземпляри. Формите без жълти люспици са разглеждани като Hygrophorus chrysodon var. leucodon, формите с меснорозови ламели или червенеещо месо — като var. incarnatum, а средиземноморската форма, свързана с храсти от род Cistus — като var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Středně velká, slizká ektomykorhizní lupenatá houba, která plodí jednotlivě, roztroušeně nebo ve skupinách na půdě v listnatých, jehličnatých i smíšených lesích, často na vápnitém podloží. Je široce rozšířená po celé severní polokouli: vyskytuje se po celé Evropě od Británie a Skandinávie až po Španělsko, Itálii a Rumunsko, v celé Severní Americe i v severní a východní Asii včetně východní Sibiře, Koreje a Japonska.",
+      "cap": "1,5–8 cm široký (výjimečně až 14 cm), v mládí vyklenutý s podvinutým okrajem, později široce vyklenutý, široce zvoncovitý až téměř plochý, často s nízkým tupým hrbolem. Povrch je hladký s jemnými vrostlými radiálními vlákny, za vlhka slizký až lepkavý, za sucha matný až lesklý; zprvu bílý až slonovinový, stářím nebo po otlačení někdy žloutnoucí. Charakteristicky jej zdobí jasně zlatožlutá až citronově či oranžovožlutá vločkovitá zrníčka nebo zoubkovité šupinky soustředěné při okraji a občas roztroušené i po středu klobouku jako zbytky celkového závoje, ačkoli tyto vločky mohou stářím blednout nebo se smývat. Hydroxid draselný (KOH) vyvolává na povrchu klobouku okamžitou jasně žlutou až citronově žlutou reakci.",
+      "hymenium": "Lupeny jsou voskovité, tlustší, široké, připojené až krátce sbíhavé nebo sbíhavé, husté až poněkud řídké, s četnými krátkými lupénky. Jsou bílé až krémové, stářím někdy s bledě nažloutlým nebo slabě narůžověle žlutým nádechem; ostří lupenů bývá občas poseto drobnými žlutými vločkami, zejména u mladých plodnic. Bazidie jsou válcovitě kyjovité, 35–55 × 5,5–7 µm, čtyřvýtrusé s bazálními přezkami; hymeniální cystidy chybějí a trama lupenů je divergentní.",
+      "stipe": "2,5–10 cm vysoký a 0,3–1,5 cm tlustý, válcovitý a v horní části stejně široký, k bázi se často zužující, uvnitř plný nebo vatovitě vycpaný. Bílý až bledě krémový nebo nažloutlý, za čerstva v dolní části slizký až lepkavý a u vrcholu hustě posetý zlatožlutými až citronově žlutými zrníčky, která někdy tvoří nezřetelnou prstenovitou zónu; povrch s KOH okamžitě jasně žloutne.",
+      "flesh": "Měkká, šťavnatá a bílá, pod pokožkou klobouku a povrchem třeně někdy slabě nažloutlá, na řezu neměnná a s KOH se zbarvující jasně žlutě. Vůně je jemná, houbová nebo slabě nakysle aromatická (občas přirovnávaná k ovoci, hořkým mandlím, pryskyřici nebo housence drvopleňa), chuť je mírná, slabě oříšková nebo občas mírně nahořklá.",
+      "sporePrint": "Bílý. Výtrusy měří 7–10 × 3,5–5 µm, jsou elipsoidní až vřetenovitě elipsoidní, hladké, v KOH hyalinní, často s olejovými kapkami a neamyloidní.",
+      "habitat": "Ektomykorhizní jak s listnatými stromy (zejména bukem, Fagus, a dubem, Quercus), tak s jehličnany (smrkem, Picea, jedlí, Abies, a borovicí, Pinus), plodící jednotlivě, roztroušeně nebo v malých skupinách na čerstvých až vlhkých, neutrálních až vápnitých půdách nad vápenci nebo slíny, stejně jako podél štěrkových lesních cest, v listovém opadu nebo na mechových a travnatých pasekách, vzácně i v parcích či zahradách. Plodí hlavně od července do listopadu v mírném pásmu Evropy a Severní Ameriky, v mírnějším oceánickém klimatu a v západní Severní Americe až do prosince nebo poloviny zimy.",
+      "uses": "Jedlá, i když obecně považovaná za chuťově nevýraznou, měkkou a kulinářsky méně hodnotnou; vzhledem k roztroušenému nebo místy vzácnějšímu výskytu se sbírá jen zřídka.",
+      "confusion": "Šťavnatka slonovinová (Hygrophorus eburneus) často plodí společně s ní na podobných bukových stanovištích, je však celá čistě slonovinově bílá, postrádá žluté okrajové vločky a s KOH se nezbarvuje jasně žlutě. Šťavnatka rezavějící (Hygrophorus discoxanthus) bývá o něco větší, nemá zlatožluté vločky, stářím se na lupenech a okraji klobouku zbarvuje hnědooranžově až rezavě hnědě, má výraznější octovitou nebo nepříjemnou vůni a považuje se za nejedlou. Šťavnatka drvopleňová (Hygrophorus cossus) je celá bílá bez žlutých vloček a vydává silný, pronikavý pach housenek drvopleňa. Starší plodnice, které ztratily žlutá zrníčka, lze od ostatních bílých druhů rodu Hygrophorus spolehlivě odlišit okamžitou jasně žlutou reakcí s KOH na klobouku, třeni i v dužnině.",
+      "notes": "Intenzita zlatožlutých vloček se mezi jednotlivými plodnicemi značně liší a deštěm nebo stářím slábne, takže u zvětralých plodnic je nejspolehlivějším určovacím znakem jasně žlutá reakce s KOH. Formy bez žlutých vloček bývají vyčleňovány jako Hygrophorus chrysodon var. leucodon, formy s masově zbarvenými lupeny nebo červenající dužninou jako var. incarnatum a středomořská forma vázaná na keře cistu (Cistus) jako var. cistophilus.",
+      "label": "šťavnatka žlutolemá",
+      "names": [
+        "šťavnatka žlutolupenná",
+        "šťavnatka zlatozubá"
+      ],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/%C5%A0%C5%A5avnatka_%C5%BElutolem%C3%A1",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "da": {
+      "description": "En mellemstor, slimet, ektomykorrhizadannende bladhat, der vokser enkeltvis, spredt eller selskabeligt på jorden i løv-, nåle- og blandingsskove, ofte på kalkrig bund. Den er vidt udbredt på den nordlige halvkugle og forekommer i hele Europa fra Storbritannien og Skandinavien til Spanien, Italien og Rumænien, over hele Nordamerika samt i det nordlige og østlige Asien, herunder Østsibirien, Korea og Japan.",
+      "cap": "1,5–8 cm bred (lejlighedsvis op til 14 cm), som ung hvælvet med indrullet rand, senere bredt hvælvet, bredt klokkeformet eller næsten flad, ofte med en lav, stump pukkel. Overfladen er glat med svage, indvoksede radiale fibre, slimet eller klæbrig i fugtigt vejr og tørrende mat til skinnende; først hvid til elfenbenshvid, sommetider gulnende med alderen eller ved tryk. Den er karakteristisk prydet med klart gyldengule til citron- eller orangegule, fnuggede korn eller tandlignende skæl fra fællessvøbet, samlet langs randen og lejlighedsvis spredt over midten, selv om disse fnug kan blegne eller vaskes bort med alderen. Kaliumhydroxid (KOH) giver straks en klart gul til citrongul reaktion på hatoverfladen.",
+      "hymenium": "Voksagtige, ret tykke, brede, tilvoksede til kort eller tydeligt nedløbende lameller, tætte til ret fjerne med talrige korte mellemlameller. Hvide til cremefarvede, sommetider med et blegt gulligt eller svagt rosagult skær med alderen; lamelæggene er lejlighedsvis besat med fine gule fnug, især hos unge frugtlegemer. Basidierne er cylindrisk-kølleformede, 35–55 × 5,5–7 µm, firesporede med basale øskner; hymeniale cystider mangler, og lameltramaen er divergent.",
+      "stipe": "2,5–10 cm høj og 0,3–1,5 cm tyk, cylindrisk og jævntyk foroven, ofte tilspidset mod basis, massiv eller uldent fyldt indvendig. Hvid til blegt cremefarvet eller gullig, frisk slimet til klæbrig på den nedre del og tæt besat nær toppen med gyldengule til citrongule korn, som sommetider danner en utydelig ringzone; overfladen farves klart gul med KOH.",
+      "flesh": "Blødt, saftigt og hvidt, sommetider svagt gulligt under hathuden og stokoverfladen, uforanderligt ved gennemskæring og klart gult med KOH. Lugten er mild, svampeagtig eller svagt syrligt-aromatisk (lejlighedsvis sammenlignet med frugt, bitre mandler, harpiks eller larven af rød pileborer), og smagen er mild, svagt nøddeagtig eller lejlighedsvis let bitter.",
+      "sporePrint": "Hvidt. Sporerne måler 7–10 × 3,5–5 µm, er ellipsoide til tenformet-ellipsoide, glatte, hyaline i KOH, indeholder ofte oliedråber og er inamyloide.",
+      "habitat": "Ektomykorrhizadannende med både løvtræer (især bøg, Fagus, og eg, Quercus) og nåletræer (gran, Picea, ædelgran, Abies, og fyr, Pinus), voksende enkeltvis, spredt eller i små grupper på frisk til fugtig, neutral til kalkrig jord over kalksten eller mergel samt langs grusbelagte skovveje, i løvfald eller på mos- og græsklædte lysninger, sjældent i parker eller haver. Den danner hovedsagelig frugtlegemer fra juli til november i tempereret Europa og Nordamerika, og ind i december eller midt på vinteren i mildere oceaniske klimaer og det vestlige Nordamerika.",
+      "uses": "Spiselig, men regnes almindeligvis for fad, blødkødet og af ringe kulinarisk værdi, og den samles sjældent på grund af sin spredte eller lokalt sparsomme forekomst.",
+      "confusion": "Hygrophorus eburneus vokser ofte sammen med den på lignende bøgelokaliteter, men er helt rent elfenbenshvid, mangler gule randfnug og farves ikke klart gul med KOH. Hygrophorus discoxanthus er som regel lidt større, mangler gyldengule fnug, anløber brunorange til rustbrun på lamellerne og hatranden med alderen, har en kraftigere eddikeagtig eller ubehagelig lugt og regnes for uspiselig. Hygrophorus cossus er helt hvid uden gule fnug og udsender en stærk, skarp lugt af larven af rød pileborer. Gamle eksemplarer, som har mistet deres gule korn, kan adskilles fra andre hvide Hygrophorus-arter ved den øjeblikkelige klart gule KOH-reaktion på hat, stok og kød.",
+      "notes": "Mængden af gyldengule fnug varierer betydeligt mellem frugtlegemer og aftager ved regn eller med alderen, hvilket gør den klart gule KOH-reaktion til det mest pålidelige kendetegn hos vejrbidte eksemplarer. Former uden gule fnug er blevet behandlet som Hygrophorus chrysodon var. leucodon, former med kødfarvede lameller eller rødmen i kødet som var. incarnatum, og en middelhavsform knyttet til Cistus-buske som var. cistophilus.",
+      "label": "gulfnugget sneglehat",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "de": {
+      "description": "Ein mittelgroßer, schleimiger, ektomykorrhizabildender Blätterpilz, der einzeln, zerstreut oder gesellig auf dem Boden in Laub-, Nadel- und Mischwäldern fruktifiziert, häufig über Kalk. Er ist auf der Nordhalbkugel weit verbreitet und kommt in ganz Europa von Großbritannien und Skandinavien bis nach Spanien, Italien und Rumänien sowie in ganz Nordamerika und im nördlichen und östlichen Asien vor, einschließlich Ostsibirien, Korea und Japan.",
+      "cap": "1,5–8 cm breit (gelegentlich bis 14 cm), jung gewölbt mit eingerolltem Rand, später breit gewölbt, breit glockig oder fast flach ausgebreitet, oft mit einem niedrigen, stumpfen Buckel. Die Oberfläche ist glatt mit feinen, eingewachsenen radialen Fasern, bei Feuchtigkeit schleimig bis schmierig und trocken matt bis glänzend; zunächst weiß bis elfenbeinfarben, im Alter oder bei Druck mitunter gilbend. Charakteristisch ist der Besatz aus leuchtend goldgelben bis zitronen- oder orangegelben, flockigen Körnchen oder zahnartigen Schüppchen des Gesamtvelums, die besonders am Hutrand konzentriert sind und gelegentlich über die Hutmitte verstreut auftreten, im Alter jedoch verblassen oder abgewaschen werden können. Kalilauge (KOH) bewirkt auf der Hutoberfläche sofort eine leuchtend gelbe bis zitronengelbe Reaktion.",
+      "hymenium": "Wachsartige, etwas dickliche, breite, angewachsene bis kurz oder deutlich herablaufende Lamellen, gedrängt bis mäßig entfernt stehend und mit zahlreichen kurzen Zwischenlamellen untermischt. Weiß bis cremefarben, im Alter bisweilen mit einem blassgelblichen oder schwach rosa-gelblichen Schimmer; die Lamellenschneiden sind vor allem bei jungen Fruchtkörpern gelegentlich mit feinen gelben Flöckchen besetzt. Die Basidien sind zylindrisch-keulig, 35–55 × 5,5–7 µm groß, viersporig und mit basalen Schnallen; Hymenialzystiden fehlen, und die Lamellentrama ist divergent.",
+      "stipe": "2,5–10 cm lang und 0,3–1,5 cm dick, zylindrisch und oben gleichmäßig dick, zur Basis hin oft verjüngt, voll oder innen wattig ausgestopft. Weiß bis blass cremefarben oder gelblich, im unteren Teil frisch schleimig bis schmierig und nahe der Spitze dicht mit goldgelben bis zitronengelben Körnchen besetzt, die bisweilen eine undeutliche Ringzone bilden; die Oberfläche verfärbt sich mit KOH leuchtend gelb.",
+      "flesh": "Weich, saftig und weiß, unter der Huthaut und der Stielrinde manchmal schwach gelblich, im Schnitt unveränderlich und mit KOH leuchtend gelb reagierend. Der Geruch ist mild, pilzartig oder schwach säuerlich-aromatisch (gelegentlich mit Obst, Bittermandeln, Harz oder der Weidenbohrerraupe verglichen), der Geschmack mild, schwach nussartig oder gelegentlich leicht bitter.",
+      "sporePrint": "Weiß. Die Sporen messen 7–10 × 3,5–5 µm, sind ellipsoid bis spindelig-ellipsoid, glatt, in KOH hyalin, enthalten oft Öltropfen und sind inamyloid.",
+      "habitat": "Ektomykorrhizabildend sowohl mit Laubbäumen (insbesondere Buche, Fagus, und Eiche, Quercus) als auch mit Nadelbäumen (Fichte, Picea, Tanne, Abies, und Kiefer, Pinus); er fruktifiziert einzeln, zerstreut oder in kleinen Gruppen auf frischen bis feuchten, neutralen bis kalkreichen Böden über Kalkstein oder Mergel sowie entlang geschotterter Waldwege, in der Laubstreu oder auf moosigen und grasigen Lichtungen, selten in Parks oder Gärten. Im gemäßigten Europa und in Nordamerika erscheinen die Fruchtkörper vorwiegend von Juli bis November, in milderen ozeanischen Klimaten und im westlichen Nordamerika bis in den Dezember oder in die Wintermitte.",
+      "uses": "Essbar, gilt jedoch allgemein als fade, weichfleischig und von geringem kulinarischem Wert; wegen seines zerstreuten oder regional seltenen Auftretens wird er nur selten gesammelt.",
+      "confusion": "Hygrophorus eburneus fruktifiziert oft gemeinsam mit ihm in ähnlichen Buchenwäldern, ist jedoch durchgehend rein elfenbeinweiß, weist keine gelben Randflöckchen auf und verfärbt sich mit KOH nicht leuchtend gelb. Hygrophorus discoxanthus ist meist etwas größer, hat keine goldgelben Flöckchen, verfärbt sich im Alter an den Lamellen und am Hutrand bräunlich-orange bis rostbraun, riecht stärker essigartig oder unangenehm und gilt als ungenießbar. Hygrophorus cossus ist rein weiß ohne gelbe Flöckchen und verströmt einen starken, stechenden Geruch nach Weidenbohrerraupen. Alte Fruchtkörper, die ihre gelben Körnchen verloren haben, lassen sich durch die sofortige leuchtend gelbe KOH-Reaktion an Hut, Stiel und Fleisch von anderen weißen Hygrophorus-Arten unterscheiden.",
+      "notes": "Die Ausprägung der goldgelben Flöckchen schwankt zwischen den einzelnen Fruchtkörpern erheblich und nimmt durch Regen oder im Alter ab, sodass die leuchtend gelbe KOH-Reaktion bei verwitterten Exemplaren das zuverlässigste Bestimmungsmerkmal darstellt. Formen ohne gelbe Flöckchen wurden als Hygrophorus chrysodon var. leucodon beschrieben, Formen mit fleischfarbenen Lamellen oder rötendem Fleisch als var. incarnatum und eine mediterrane, mit Zistrosen (Cistus) vergesellschaftete Form als var. cistophilus.",
+      "label": "Goldzahn-Schneckling",
+      "names": [
+        "Gelbflockiger Schneckling",
+        "Goldzahnschneckling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Goldzahn-Schneckling",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "es": {
+      "description": "Seta agaricoide viscosa y ectomicorrícica de tamaño mediano que fructifica solitaria, dispersa o gregaria en el suelo de bosques de frondosas, coníferas y mixtos, con frecuencia sobre terreno calcáreo. Ampliamente distribuida por el hemisferio norte, aparece en toda Europa desde Gran Bretaña y Escandinavia hasta España, Italia y Rumanía, a lo largo de Norteamérica y en el norte y este de Asia, incluidas Siberia oriental, Corea y Japón.",
+      "cap": "1,5–8 cm de diámetro (ocasionalmente hasta 14 cm), convexo de joven con el margen enrollado, extendiéndose hasta anchamente convexo, anchamente campanulado o casi plano, a menudo con un mamelón bajo y obtuso. La superficie es lisa con tenues fibrillas radiales innatas, viscosa o glutinosa con humedad y de aspecto mate a brillante al secarse; blanca a marfil al principio, a veces amarilleando con la edad o al roce. Se distingue de manera característica por sus gránulos floconosos o escamillas dentiformes de color amarillo dorado vivo a amarillo limón o amarillo anaranjado, concentrados en el margen y ocasionalmente dispersos por el disco como restos del velo universal, aunque estos flóculos pueden desteñirse o desprenderse con la lluvia y la edad. El hidróxido de potasio (KOH) produce una reacción inmediata de color amarillo vivo a amarillo limón sobre la superficie del sombrero.",
+      "hymenium": "Láminas céreas, algo gruesas, anchas, adnatas a subdecurrentes o decurrentes, apretadas a algo espaciadas, con frecuentes lamélulas cortas. Blancas a crema, desarrollando a veces un matiz amarillento pálido o tenuemente amarillo rosado con la edad; la arista de las láminas está ocasionalmente punteada de finos flóculos amarillos, sobre todo en los carpóforos jóvenes. Los basidios son cilíndrico-claviformes, de 35–55 × 5,5–7 µm, tetraspóricos y con fíbulas basales; carece de cistidios himeniales y la trama laminar es divergente.",
+      "stipe": "2,5–10 cm de altura y 0,3–1,5 cm de grosor, cilíndrico e igual en la parte superior, a menudo atenuado hacia la base, macizo o relleno-algodonoso en el interior. Blanco a crema pálido o amarillento, viscoso o glutinoso en la parte inferior en estado fresco y densamente punteado cerca del ápice de gránulos amarillo dorado a amarillo limón que a veces forman una zona anular difusa; la superficie vira a amarillo vivo con KOH.",
+      "flesh": "Blanda, jugosa y blanca, a veces ligeramente amarillenta bajo la cutícula del sombrero y la superficie del pie, inmutable al corte y virando a amarillo vivo con KOH. El olor es suave, fúngico o débilmente acidulado-aromático (comparado en ocasiones con fruta, almendras amargas, resina o la oruga del taladro rojo), y el sabor es suave, ligeramente a nuez o en ocasiones algo amargo.",
+      "sporePrint": "Blanca. Las esporas miden 7–10 × 3,5–5 µm, son elipsoidales a fusiforme-elipsoidales, lisas, hialinas en KOH, a menudo con gotículas lipídicas e inamiloides.",
+      "habitat": "Ectomicorrícica tanto con frondosas (especialmente haya, Fagus, y roble, Quercus) como con coníferas (pícea, Picea, abeto, Abies, y pino, Pinus), fructificando solitaria, dispersa o en pequeños grupos en suelos frescos a húmedos, neutros a calcáreos, sobre caliza o marga, así como a lo largo de pistas forestales con grava, en la hojarasca o en claros musgosos y herbosos, rara vez en parques o jardines. Fructifica principalmente de julio a noviembre en la Europa templada y Norteamérica, extendiéndose hasta diciembre o mediados del invierno en climas oceánicos más suaves y en el oeste de Norteamérica.",
+      "uses": "Comestible, aunque por lo general se considera insípida, de carne blanda y de escaso valor culinario, y rara vez se recolecta debido a su aparición dispersa o localmente poco frecuente.",
+      "confusion": "Hygrophorus eburneus fructifica a menudo a su lado en hayedos similares, pero es enteramente blanco marfil puro, carece de flóculos marginales amarillos y no vira a amarillo vivo con KOH. Hygrophorus discoxanthus suele ser algo mayor, carece de flóculos amarillo dorado, se mancha de pardo anaranjado a pardo herrumbroso en las láminas y el margen del sombrero con la edad, posee un olor más intenso, avinagrado o desagradable, y se considera no comestible. Hygrophorus cossus es completamente blanco, sin flóculos amarillos, y desprende un olor fuerte y penetrante a oruga del taladro rojo. Los ejemplares viejos que han perdido sus gránulos amarillos pueden distinguirse de otras especies blancas de Hygrophorus por la reacción inmediata amarillo vivo al KOH en el sombrero, el pie y la carne.",
+      "notes": "La intensidad de los flóculos amarillo dorado varía notablemente entre carpóforos y disminuye con la lluvia o la edad, lo que convierte a la reacción amarillo vivo con KOH en el carácter diagnóstico más fiable en ejemplares deteriorados. Las formas carentes de flóculos amarillos se han tratado como Hygrophorus chrysodon var. leucodon, las formas con láminas de color carne o carne que se tiñe de rojizo como var. incarnatum, y una forma mediterránea asociada a jaras (Cistus) como var. cistophilus.",
+      "label": "higróforo de dientes dorados",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "et": {
+      "description": "Keskmise suurusega limane ektomükoriisat moodustav lehikseen, mis kasvab üksikult, hajusalt või rühmiti maapinnal leht-, okas- ja segametsades, sageli lubjarikkal pinnasel. See on laialt levinud põhjapoolkeral ning esineb kogu Euroopas Suurbritanniast ja Skandinaaviast kuni Hispaania, Itaalia ja Rumeeniani, üle kogu Põhja-Ameerika ning Põhja- ja Ida-Aasias, sealhulgas Ida-Siberis, Koreas ja Jaapanis.",
+      "cap": "1,5–8 cm lai (mõnikord kuni 14 cm), noorelt kumer ja sissepoole keerdunud servaga, hiljem laialt kumer, laialt kellukjas või peaaegu lame, sageli madala tömbi kühmuga. Pind on sile, nõrkade sissekasvanud radiaalsete kiududega, niiskena limane või kleepuv ning kuivades matt kuni läikiv; esialgu valge kuni elevandiluuvalge, vananedes või muljumisel vahel kollakaks muutuv. Kübarale on iseloomulikud erkkuldkollased kuni sidrun- või oranžkollased ebemelised terakesed või hambataolised soomused (üldloori jäänused), mis koonduvad servale ja esinevad mõnikord hajusalt ka keskosas, kuigi vanusega võivad need helbed pleekida või vihmaga maha uhtuda. Kaaliumhüdroksiid (KOH) tekitab kübara pinnal kohe erkkollase kuni sidrunkollase reaktsiooni.",
+      "hymenium": "Vahajad, üsna paksud, laiad, külgekasvanud kuni veidi laskuvad või laskuvad eoslehed, tihedad kuni mõnevõrra harvad ja rohkete lühikeste vahe-eoslehtedega. Valged kuni kreemikad, vananedes vahel kahvatukollaka või õrna roosakaskollase varjundiga; eoslehtede servad on eriti noortel viljakehadel kohati täpikestena kaetud peente kollaste ebemetega. Basiidid on silinderjas-nuijad, 35–55 × 5,5–7 µm, neljaeoselised ja alusel pannaldega; hümeeniumis tsüstiidid puuduvad ning eoslehtede traama on divergentne.",
+      "stipe": "2,5–10 cm pikk ja 0,3–1,5 cm jäme, silinderjas ja ülaosas ühtlase jämedusega, aluse suunas sageli ahenev, täis või seest vatjalt täitunud. Valge kuni kahvatukreemikas või kollakas, värskena alumises osas limane kuni kleepuv ning tipu lähedal tihedalt kaetud kuldkollaste kuni sidrunkollaste terakestega, mis moodustavad vahel ebaselge rõngasvööndi; pind värvub KOH-ga erkkollaseks.",
+      "flesh": "Pehme, mahlane ja valge, mõnikord õrnalt kollakas kübaranaha ja jalapinna all, lõikamisel muutumatu ning KOH-ga erkkollaseks värvuv. Lõhn on mahe, seenene või nõrgalt hapukas-aromaatne (võrreldud vahel puuvilja, mõrumandlite, vaigu või pajumailase röövikuga), maitse on mahe, kergelt pähkline või mõnikord nõrgalt kibe.",
+      "sporePrint": "Valge. Eosed on 7–10 × 3,5–5 µm, ellipsoidsed kuni käävjas-ellipsoidsed, siledad, KOH-s läbipaistvad, sisaldavad sageli õlitilku ja on inamüloidsed.",
+      "habitat": "Ektomükoriisat moodustav nii lehtpuudega (eriti pöök, Fagus, ja tamm, Quercus) kui ka okaspuudega (kuusk, Picea, nulg, Abies, ja mänd, Pinus); viljakehad kasvavad üksikult, hajusalt või väikeste rühmadena värskel kuni niiskel, neutraalsel kuni lubjarikkal mullal lubjakivil või merglil, samuti kruusastel metsateedel, lehekõdus või sammaldunud ja rohtunud lagendikel, harva parkides või aedades. Parasvöötme Euroopas ja Põhja-Ameerikas kasvab peamiselt juulist novembrini, leebema merelise kliimaga aladel ja Põhja-Ameerika lääneosas kuni detsembrini või südatalveni.",
+      "uses": "Söödav, kuid peetakse üldiselt magedaks, pehme seenelihaga ja vähese kulinaarse väärtusega seeneks, mida korjatakse hajusa või paiguti harva esinemise tõttu harva.",
+      "confusion": "Hygrophorus eburneus kasvab sageli temaga koos sarnastes pöögimetsades, kuid on läbinisti puhas elevandiluuvalge, ilma kollaste servaebemeteta ega värvu KOH-ga erkkollaseks. Hygrophorus discoxanthus on tavaliselt veidi suurem, ilma kuldkollaste ebemeteta, värvub vananedes eoslehtedel ja kübara serval pruunikasoranžiks kuni roostepruuniks, lõhnab tugevamalt äädikalaadselt või ebameeldivalt ning loetakse mittesöödavaks. Hygrophorus cossus on üleni valge ilma kollaste ebemeteta ning eritab tugevat teravat pajumailase rööviku lõhna. Vanu viljakehi, mis on oma kollased terakesed kaotanud, saab teistest valgetest Hygrophorus-liikidest eristada kohese erkkollase KOH-reaktsiooni järgi kübaral, jalal ja seenelihas.",
+      "notes": "Kuldkollaste ebemete rohkus varieerub viljakehadel märkimisväärselt ning väheneb vihma ja vanusega, mistõttu on kulunud eksemplaridel kõige usaldusväärsemaks määramistunnuseks erkkollane KOH-reaktsioon. Kollaste ebemeteta vorme on käsitletud teisendina Hygrophorus chrysodon var. leucodon, lihavärvi eoslehtede või punetava seenelihaga vorme teisendina var. incarnatum ning Vahemere piirkonnas Cistus-põõsastega seotud vormi teisendina var. cistophilus.",
+      "label": "ebe-limanutt",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Ebe-limanutt",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار، لزج و اکتومیکوریز با اندازهٔ متوسط که به صورت منفرد، پراکنده یا گروهی روی خاک در جنگل‌های پهن‌برگ، سوزنی‌برگ و آمیخته، و اغلب در زمین‌های آهکی می‌روید. این گونه در سراسر نیم‌کرهٔ شمالی گسترده است و در سرتاسر اروپا از بریتانیا و اسکاندیناوی تا اسپانیا، ایتالیا و رومانی، در سراسر آمریکای شمالی، و در شمال و شرق آسیا از جمله سیبری شرقی، کره و ژاپن یافت می‌شود.",
+      "cap": "قطر کلاهک ۱٫۵–۸ سانتی‌متر (گاه تا ۱۴ سانتی‌متر) است؛ در جوانی محدب با لبه‌ای به داخل خمیده بوده و با رشد به صورت پهن‌محدب، زنگوله‌ای پهن یا تقریباً تخت باز می‌شود و اغلب برآمدگی مرکزی کم‌ارتفاع و کندی دارد. سطح کلاهک صاف با رشته‌های شعاعی درونی کم‌رنگ است، در رطوبت لزج یا چسبناک بوده و هنگام خشک شدن مات تا براق می‌شود؛ در ابتدا سفید تا عاجی است و گاه با افزایش سن یا در اثر کوفتگی زرد می‌شود. ویژگی شاخص آن وجود دانه‌های کرکی یا فلس‌های دندانه‌مانند به رنگ زرد طلایی روشن تا زرد لیمویی یا زرد نارنجی است که به عنوان بقایای پردهٔ عمومی در امتداد لبه متمرکز شده و گاه بر روی بخش میانی کلاهک نیز پراکنده‌اند، اگرچه این فلس‌ها ممکن است با گذشت زمان کم‌رنگ شوند یا شسته شوند. هیدروکسید پتاسیم (KOH) فوراً واکنشی به رنگ زرد روشن تا زرد لیمویی روی سطح کلاهک ایجاد می‌کند.",
+      "hymenium": "تیغه‌ها مومی، نسبتاً ضخیم، پهن و متصل به ساقه تا نیمه‌جاری یا جاری هستند، با آرایش فشرده تا نسبتاً دور از هم و دارای تیغه‌های کوتاه میانی فراوان. رنگ آن‌ها سفید تا کرم است و گاه با افزایش سن درخششی زرد کمرنگ یا صورتی‌زرد بسیار ملایم پیدا می‌کنند؛ لبهٔ تیغه‌ها گاه، به ویژه در اندام‌های بارده جوان، با دانه‌های کرکی ریز زردرنگ نقطه‌گذاری شده است. بازیدی‌ها استوانه‌ای-گرزی، به ابعاد ۳۵–۵۵ × ۵٫۵–۷ میکرومتر و چهارهاگی با اتصالات قلاب‌مانند در قاعده هستند؛ سیستیدیای هیمنیوم وجود ندارد و بافت تیغه واگرا است.",
+      "stipe": "ارتفاع ساقه ۲٫۵–۱۰ سانتی‌متر و ضخامت آن ۰٫۳–۱٫۵ سانتی‌متر است، در بخش بالایی استوانه‌ای و هم‌قطر بوده و اغلب به سمت قاعده باریک می‌شود؛ درون آن توپر یا پر از بافت پنبه‌ای است. رنگ آن سفید تا کرم کمرنگ یا مایل به زرد است، در حالت تازه در بخش پایینی لزج تا چسبناک بوده و در نزدیکی رأس به طور متراکم با دانه‌های زرد طلایی تا زرد لیمویی پوشیده شده که گاه ناحیهٔ حلقه‌ای نامشخصی تشکیل می‌دهند؛ سطح ساقه در تماس با KOH به رنگ زرد روشن درمی‌آید.",
+      "flesh": "گوشت نرم، آبدار و سفید است، گاه در زیر پوستک کلاهک و سطح ساقه اندکی مایل به زرد بوده، هنگام برش تغییر رنگ نمی‌دهد و با KOH به زرد روشن تغییر رنگ می‌دهد. بوی آن ملایم، قارچی یا اندکی ترش‌معطر است (گاه به میوه، بادام تلخ، صمغ یا لارو شب‌پرهٔ چوب‌خوار بید تشبیه می‌شود) و طعم آن ملایم، اندکی آجیلی یا گاه کمی تلخ است.",
+      "sporePrint": "سفید. هاگ‌ها به ابعاد ۷–۱۰ × ۳٫۵–۵ میکرومتر، بیضوی تا دوکی-بیضوی، صاف، در KOH بی‌رنگ و شفاف، اغلب دارای قطرات روغنی و غیرآمیلوئیدی هستند.",
+      "habitat": "اکتومیکوریز با درختان پهن‌برگ (به ویژه راش، Fagus، و بلوط، Quercus) و سوزنی‌برگ‌ها (نوئل، Picea، نراد، Abies، و کاج، Pinus) است و به صورت منفرد، پراکنده یا در گروه‌های کوچک روی خاک‌های تازه تا مرطوب، خنثی تا آهکی بر بستر سنگ‌آهک یا مارن، و همچنین در حاشیهٔ جاده‌های جنگلی شن‌ریزی‌شده، در لاش‌برگ، یا در فضاهای باز پوشیده از خزه و علف، و به ندرت در پارک‌ها یا باغ‌ها می‌روید. باردهی آن عمدتاً از ژوئیه تا نوامبر در سراسر اروپای معتدل و آمریکای شمالی است و در اقلیم‌های اقیانوسی ملایم‌تر و غرب آمریکای شمالی تا دسامبر یا میانهٔ زمستان ادامه می‌یابد.",
+      "uses": "خوراکی است، هرچند عموماً بی‌مزه، نرم‌گوشت و دارای ارزش آشپزی اندک تلقی می‌شود و به دلیل پراکندگی یا کم‌یابی محلی به ندرت جمع‌آوری می‌گردد.",
+      "confusion": "گونهٔ Hygrophorus eburneus اغلب در زیستگاه‌های مشابه راش در کنار آن می‌روید، اما در سراسر بدن کاملاً سفید عاجی است، فاقد دانه‌های کرکی زرد در لبهٔ کلاهک بوده و با KOH زرد روشن نمی‌شود. Hygrophorus discoxanthus معمولاً اندکی بزرگ‌تر است، فاقد فلس‌های زرد طلایی است، با افزایش سن روی تیغه‌ها و لبهٔ کلاهک لکه‌های نارنجی‌قهوه‌ای تا قهوه‌ای زنگاری پیدا می‌کند، بوی تندتر شبیه سرکه یا ناخوشایندی دارد و غیرخوراکی محسوب می‌شود. Hygrophorus cossus کاملاً سفید و بدون دانه‌های کرکی زرد است و بوی قوی و تند لارو شب‌پرهٔ چوب‌خوار بید را متصاعد می‌کند. نمونه‌های مسن که دانه‌های زرد خود را از دست داده‌اند، با واکنش فوری زرد روشن به KOH بر روی کلاهک، ساقه و گوشت از سایر گونه‌های سفید Hygrophorus متمایز می‌شوند.",
+      "notes": "شدت دانه‌های کرکی زرد طلایی در میان اندام‌های بارده تفاوت چشمگیری دارد و با باران یا افزایش سن کاهش می‌یابد، که واکنش زرد روشن به KOH را به مطمئن‌ترین ویژگی تشخیصی در نمونه‌های فرسوده تبدیل می‌کند. فرم‌های فاقد دانه‌های کرکی زرد به عنوان Hygrophorus chrysodon var. leucodon، فرم‌های دارای تیغه‌های هم‌رنگ گوشت یا گوشت قرمز‌شونده به عنوان var. incarnatum، و فرم مدیترانه‌ای هم‌زیست با درختچه‌های لادن (Cistus) به عنوان var. cistophilus در نظر گرفته شده‌اند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Keskikokoinen, limainen, ektomykorritsainen helttasieni, joka kasvaa yksittäin, hajallaan tai ryhminä maassa lehti-, havu- ja sekametsissä, usein kalkkipitoisella maaperällä. Se on laajalle levinnyt pohjoisella pallonpuoliskolla ja esiintyy koko Euroopassa Britanniasta ja Skandinaviasta Espanjaan, Italiaan ja Romaniaan saakka, kautta Pohjois-Amerikan sekä Pohjois- ja Itä-Aasiassa, mukaan lukien Itä-Siperia, Korea ja Japani.",
+      "cap": "1,5–8 cm leveä (joskus jopa 14 cm), nuorena kupera ja sisäänkiertyneen reunan reunustama, laajeten leveän kuperaksi, leveän kellomaiseksi tai lähes laakeaksi, usein matalasti ja tylpästi kohoumalliseksi. Pinta on sileä ja siinä on heikkoja sisäänkasvaneita säteittäiskuituja, kosteana limainen tai tahmea ja kuivuessaan himmeä tai kiiltävä; aluksi valkoinen tai norsunluunvalkoinen, joskus ikääntyessään tai kolhiintuessaan kellertyvä. Lakille tunnusomaisia ovat kirkkaan kullankeltaiset, sitruunankeltaiset tai oranssinkeltaiset, nukkaiset rakeet tai hammasmaiset suomut, jotka ovat yleissuojuksen jätteitä ja keskittyvät etenkin lakin reunaan sekä toisinaan hajanaisesti keskiosaan, vaikka ne voivat haalistua tai huuhtoutua pois sateen ja iän myötä. Kaliumhydroksidi (KOH) aiheuttaa lakin pinnalla välittömästi kirkkaan keltaisen tai sitruunankeltaisen reaktion.",
+      "hymenium": "Vahamaiset, melko paksut, leveät, tasatyviset, hieman johteiset tai johteiset heltat, melko tiheässä tai harvahkossa ja runsaasti lyhyiden välihelttojen lomittamat. Valkoiset tai kermanväriset, joskus vanhemmiten vaaleankellertävän tai heikosti punertavankeltaisen vivahteen saavat; helttojen terät ovat erityisesti nuorissa itiöemissä toisinaan hienojen keltaisten hiutaleiden pilkuttamat. Basidit ovat lieriömäisen nuijamaisia, 35–55 × 5,5–7 µm, neljäitiöisiä ja tyveltään sinkilällisiä; hymenion kystidit puuttuvat ja helttojen trama on divergentti.",
+      "stipe": "2,5–10 cm pitkä ja 0,3–1,5 cm paksu, lieriömäinen ja yläosastaan tasapaksu, usein tyveä kohti suippeneva, täyteinen tai sisältä vanumaisen täyteläinen. Valkoinen tai vaalean kermanvärinen tai kellertävä, tuoreena alaosastaan limainen tai tahmea ja lähellä latvaa tiheästi kullankeltaisten tai sitruunankeltaisten rakeiden pilkuttama, jotka muodostavat joskus epäselvän rengasvyöhykkeen; pinta värjäytyy KOH:lla kirkkaan keltaiseksi.",
+      "flesh": "Pehmeää, mehukasta ja valkoista, toisinaan heikosti kellertävää lakin pintakelmun ja jalan pinnan alla, leikattaessa muuttumatonta ja KOH:lla kirkkaan keltaiseksi värjäytyvää. Haju on mieto, sienimäinen tai heikosti happaman aromaattinen (verrattu toisinaan hedelmiin, karvasmanteliin, pihkaan tai puuntuhoojan toukkaan), ja maku on mieto, heikosti pähkinäinen tai joskus lievästi karvas.",
+      "sporePrint": "Valkoinen. Itiöt ovat 7–10 × 3,5–5 µm, soikeita tai sukkulamaisen soikeita, sileitä, KOH:ssa värittömiä, sisältävät usein öljypisaroita ja ovat inamyloideja.",
+      "habitat": "Ektomykorritsainen sekä lehtipuiden (erityisesti pyökki, Fagus, ja tammi, Quercus) että havupuiden (kuusi, Picea, pihta, Abies, ja mänty, Pinus) kanssa; kasvaa yksittäin, hajallaan tai pieninä ryhminä tuoreilla ja kosteilla, neutraaleilla tai kalkkipitoisilla kalkkikivi- tai merkelimailla sekä soratuilla metsäteillä, lehtikarikkeessa tai sammal- ja ruohopeitteisillä aukkopaikoilla, harvoin puistoissa tai puutarhoissa. Itiöemiä esiintyy lauhkeassa Euroopassa ja Pohjois-Amerikassa pääasiassa heinäkuusta marraskuuhun, leudommissa merellisissä ilmastoissa ja Pohjois-Amerikan länsiosissa joulukuuhun tai keskitalveen saakka.",
+      "uses": "Syötävä, mutta pidetään yleisesti mietona, pehmeämaltoisena ja ruokasienenä vähäarvoisena, ja sitä kerätään harvoin hajanaisen tai paikallisesti niukan esiintymisensä vuoksi.",
+      "confusion": "Hygrophorus eburneus kasvaa usein sen seurassa samankaltaisilla pyökkikasvupaikoilla, mutta on kauttaaltaan puhtaan norsunluunvalkoinen, siltä puuttuvat keltaiset reunahiutaleet eikä se värjäydy KOH:lla kirkkaan keltaiseksi. Hygrophorus discoxanthus on tavallisesti hieman kookkaampi, vailla kullankeltaisia hiutaleita, värjäytyy ikääntyessään heltoista ja lakin reunasta ruskeanoranssiksi tai ruosteenruskeaksi, tuoksuu voimakkaammin etikkamaiselta tai epämiellyttävältä ja katsotaan syötäväksi kelpaamattomaksi. Hygrophorus cossus on kokonaan valkoinen ilman keltaisia hiutaleita ja levittää voimakasta, pistävää puuntuhoojan toukan hajua. Vanhat itiöemät, joista keltaiset rakeet ovat kadonneet, voidaan erottaa muista valkoisista Hygrophorus-lajeista välittömän kirkkaan keltaisen KOH-reaktion perusteella lakissa, jalassa ja mallossa.",
+      "notes": "Kullankeltaisten hiutaleiden runsaus vaihtelee huomattavasti itiöemien välillä ja vähenee sateen tai iän myötä, minkä vuoksi kirkkaan keltainen KOH-reaktio on luotettavin tuntomerkki kuluneissa näytteissä. Muotoja, joilta keltaiset hiutaleet puuttuvat, on pidetty muunnoksena Hygrophorus chrysodon var. leucodon, lihanvärisillä heltoilla tai punertuvalla mallolla varustettuja muotoja muunnoksena var. incarnatum ja Välimeren alueen Cistus-pensaiden seuralaisena kasvavaa muotoa muunnoksena var. cistophilus.",
+      "label": "taikavahakas",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "fr": {
+      "description": "Champignon agaricoïde visqueux et ectomycorhizien de taille moyenne, poussant isolément, en ordre dispersé ou en troupes sur le sol dans les forêts de feuillus, de conifères et mixtes, souvent sur terrain calcaire. Largement répandu dans l'hémisphère Nord, il est présent dans toute l'Europe, de la Grande-Bretagne et de la Scandinavie jusqu'en Espagne, en Italie et en Roumanie, à travers l'Amérique du Nord ainsi qu'en Asie septentrionale et orientale, notamment en Sibérie orientale, en Corée et au Japon.",
+      "cap": "1,5–8 cm de diamètre (exceptionnellement jusqu'à 14 cm), convexe jeune avec une marge enroulée, s'étalant en largement convexe, largement campanulé ou presque plan, souvent muni d'un mamelon bas et obtus. La surface est lisse avec de fines fibrilles radiales innées, visqueuse à gluante par temps humide et devenant mate à brillante en séchant ; blanche à ivoire au début, jaunissant parfois avec l'âge ou au froissement. Elle est typiquement ornée de granules floconneux ou de squamules dentiformes jaune d'or vif à jaune citron ou jaune orangé, concentrés le long de la marge et parfois dispersés sur le disque comme restes du voile général, bien que ces flocons puissent pâlir ou disparaître sous la pluie avec l'âge. L'hydroxyde de potassium (KOH) provoque une réaction immédiate jaune vif à jaune citron sur la surface du chapeau.",
+      "hymenium": "Lames cireuses, assez épaisses, larges, adnées à subdécurrentes ou décurrentes, serrées à assez espacées avec de fréquentes lamellules courtes. Blanches à crème, prenant parfois un reflet jaunâtre pâle ou faiblement jaune rosé avec l'âge ; l'arête des lames est parfois ponctuée de fins flocons jaunes, surtout chez les jeunes carpophores. Les basides sont cylindriques-clavées, de 35–55 × 5,5–7 µm, tétrasporiques avec des boucles basales ; les cystides hyméniales sont absentes et la trame lamellaire est divergente.",
+      "stipe": "2,5–10 cm de hauteur et 0,3–1,5 cm d'épaisseur, cylindrique et égal dans sa partie supérieure, souvent atténué vers la base, plein ou farci-cotonneux à l'intérieur. Blanc à crème pâle ou jaunâtre, visqueux à gluant dans sa partie inférieure à l'état frais, et densément ponctué près du sommet de granules jaune d'or à jaune citron qui forment parfois une zone annulaire indistincte ; la surface vire au jaune vif au contact du KOH.",
+      "flesh": "Tendre, juteuse et blanche, parfois faiblement jaunâtre sous la cuticule du chapeau et la surface du pied, immuable à la coupe et virant au jaune vif au KOH. L'odeur est faible, fongique ou légèrement acidulée-aromatique (parfois comparée à celle des fruits, des amandes amères, de la résine ou de la chenille du cossus gâte-bois), et la saveur est douce, légèrement de noisette ou parfois un peu amère.",
+      "sporePrint": "Blanche. Les spores mesurent 7–10 × 3,5–5 µm, sont ellipsoïdes à fusiformes-ellipsoïdes, lisses, hyalines dans le KOH, souvent guttulées et non amyloïdes.",
+      "habitat": "Ectomycorhizien aussi bien avec les feuillus (notamment le hêtre, Fagus, et le chêne, Quercus) qu'avec les conifères (épicéa, Picea, sapin, Abies, et pin, Pinus), poussant isolément, en ordre dispersé ou en petits groupes sur des sols frais à humides, neutres à calcaires, sur calcaire ou marne, ainsi que le long des chemins forestiers empierrés, dans la litière de feuilles ou dans les clairières moussues et herbeuses, rarement dans les parcs ou les jardins. Il fructifie principalement de juillet à novembre en Europe tempérée et en Amérique du Nord, se prolongeant jusqu'en décembre ou au milieu de l'hiver dans les climats océaniques plus doux et dans l'ouest de l'Amérique du Nord.",
+      "uses": "Comestible, mais généralement considéré comme fade, à chair molle et de faible valeur culinaire, et rarement récolté en raison de sa poussée dispersée ou de sa rareté locale.",
+      "confusion": "Hygrophorus eburneus pousse souvent à ses côtés dans des hêtraies similaires, mais il est entièrement blanc ivoire pur, dépourvu de flocons marginaux jaunes et ne jaunit pas vivement au KOH. Hygrophorus discoxanthus est généralement un peu plus grand, dépourvu de flocons jaune d'or, se tache de brun-orangé à brun rouille sur les lames et la marge du chapeau avec l'âge, dégage une odeur plus forte, vinaigrée ou désagréable, et est considéré comme non comestible. Hygrophorus cossus est entièrement blanc, sans flocons jaunes, et dégage une forte odeur pénétrante de chenille du cossus gâte-bois. Les exemplaires âgés ayant perdu leurs granules jaunes peuvent être distingués des autres espèces blanches du genre Hygrophorus par la réaction immédiate jaune vif au KOH sur le chapeau, le pied et la chair.",
+      "notes": "L'intensité des flocons jaune d'or varie considérablement d'un carpophore à l'autre et s'atténue sous l'effet de la pluie ou de l'âge, ce qui fait de la réaction jaune vif au KOH le caractère diagnostique le plus fiable sur les spécimens altérés. Les formes dépourvues de flocons jaunes ont été traitées comme Hygrophorus chrysodon var. leucodon, celles à lames couleur chair ou à chair rougissante comme var. incarnatum, et une forme méditerranéenne associée aux cistes (Cistus) comme var. cistophilus.",
+      "label": "hygrophore à dents d'or",
+      "names": [
+        "hygrophore à dents jaunes"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "he": {
+      "description": "פטריית דפים אקטומיקוריזית בגודל בינוני ורירית, המניבה גופי פרי בודדים, פזורים או בקבוצות על הקרקע ביערות רחבי-עלים, מחטניים ומעורבים, לעיתים קרובות על קרקע גירנית. היא נפוצה ברחבי חצי הכדור הצפוני: בכל רחבי אירופה מבריטניה וסקנדינביה ועד ספרד, איטליה ורומניה, ברחבי צפון אמריקה, וכן בצפון אסיה ובמזרחה, כולל מזרח סיביר, קוריאה ויפן.",
+      "cap": "קוטר הכובע 1.5–8 ס\"מ (לעיתים עד 14 ס\"מ); בצעירותו הוא קמור ושוליו כפופים פנימה, ועם ההתבגרות נפרש לקמור רחב, פעמוני רחב או שטוח כמעט, לרוב עם פיטם נמוך וקה במרכזו. פני הכובע חלקים עם סיבים רדיאליים עדינים וטבועים, ריריים או דביקים בלחות ומתייבשים למאט עד מבריק; צבעם לבן עד שנהב בתחילה, ולעיתים מצהיב עם הגיל או בעקבות פגיעה. הכובע מעוטר באופן אופייני בגרגירים פתיתיים או בקשקשים דמויי שיניים בגוון צהוב-זהוב עז, צהוב-לימון או צהוב-כתום — שרידי צעיף כללי — המרוכזים לאורך השוליים ופזורים לעיתים גם על מרכז הכובע, אם כי פתיתים אלה עשויים לדהות או להישטף בגשם עם הגיל. אשלגן הידרוקסידי (KOH) יוצר על פני הכובע תגובה מיידית בצבע צהוב עז עד צהוב-לימון.",
+      "hymenium": "דפים שעוותיים, מעובים למדי, רחבים, צמודים עד גולשים מעט או גולשים על הרגל, צפופים עד מרווחים במקצת, עם דפי-ביניים קצרים רבים. צבעם לבן עד שמנת, ולעיתים מתפתח בהם עם הגיל גוון צהבהב חיוור או ברק ורדרד-צהבהב עדין; שולי הדפים מנוקדים לעיתים בפתיתים צהובים עדינים, במיוחד בגופי פרי צעירים. הבסידיות גליליות-אלותיות, בגודל 35–55 × 5.5–7 מיקרומטר, בעלות ארבעה נבגים ואבזם בסיסי; ציסטידיות הימניאליות נעדרות, ורקמת הדפים (הטרמה) מתבדרת.",
+      "stipe": "גובה הרגל 2.5–10 ס\"מ ועובייה 0.3–1.5 ס\"מ; היא גלילית ואחידה בחלקה העליון, לרוב הולכת וצרה כלפי הבסיס, מלאה או ממולאת בליבה צמרירית. צבעה לבן עד שמנת חיוור או צהבהב, חלקה התחתון רירי עד דביק במצב טרי, וקרוב לקודקודה היא מנוקדת בצפיפות בגרגירים צהובים-זהובים עד צהובי-לימון היוצרים לעיתים אזור טבעת לא מוגדר; פני הרגל מצהיבים בעוצמה במגע עם KOH.",
+      "flesh": "הבשר רך, עסיסי ולבן, לעיתים צהבהב קלושות מתחת לקליפת הכובע ולפני הרגל, אינו משנה את צבעו בחיתוך ומצהיב בחוזקה במגע עם KOH. הריח עדין, פטרייתי או חמצמץ-ארומטי חלש (לעיתים מדמים אותו לפרי, לשקדים מרים, לשרף או לזחל סס העץ), והטעם עדין, אגוזי קלושות או לעיתים מעט מריר.",
+      "sporePrint": "לבן. הנבגים בגודל 7–10 × 3.5–5 מיקרומטר, אליפסואידיים עד כישוריים-אליפסואידיים, חלקים, שקופים ב-KOH, מכילים לעיתים קרובות טיפות שמן ואינם עמילניים.",
+      "habitat": "יוצרת אקטומיקוריזה הן עם עצים רחבי-עלים (בעיקר אשור, Fagus, ואלון, Quercus) והן עם מחטניים (אשוחית, Picea, אשוח, Abies, ואורן, Pinus). מניבה פירות בודדים, פזורים או בקבוצות קטנות על קרקעות טריות עד לחות, נייטרליות עד גירניות מעל אבן גיר או חוואר, וכן לאורך שבילי יער מרוצפי חצץ, בנשורת עלים או בקרחות יער מכוסי טחב ועשב, ולעיתים רחוקות בפארקים או בגנים. עונת הפרי העיקרית באירופה הממוזגת ובצפון אמריקה היא מיולי עד נובמבר, ונמשכת עד דצמבר או אמצע החורף באקלימים ימיים מתונים ובמערב צפון אמריקה.",
+      "uses": "אכילה, אך לרוב נחשבת תפלה, רכת-בשר ובעלת ערך קולינרי מועט, ונאספת לעיתים רחוקות גם בשל הופעתה הפזורה או הנדירה מקומית.",
+      "confusion": "Hygrophorus eburneus מניבה לעיתים קרובות פירות לצידה בבתי גידול דומים של אשור, אך היא לבנה-שנהבית טהורה בכל חלקיה, חסרה פתיתים צהובים בשולי הכובע ואינה מצהיבה בעוצמה במגע עם KOH. המין Hygrophorus discoxanthus גדול ממנה בדרך כלל במעט, חסר פתיתים צהובים-זהובים, מכתים עם הגיל בחום-כתום עד חום-חלודה על הדפים ובשולי הכובע, מדיף ריח חזק יותר של חומץ או ריח לא נעים ונחשב לא למאכל. המין Hygrophorus cossus לבן כולו ללא פתיתים צהובים ומפיץ ריח חזק וחריף של זחלי סס העץ. פרטים בוגרים שאיבדו את הגרגירים הצהובים שלהם ניתנים להפרדה ממיני Hygrophorus לבנים אחרים באמצעות התגובה המיידית לצהוב עז עם KOH על הכובע, הרגל והבשר.",
+      "notes": "עוצמת הפתיתים הצהובים-זהובים משתנה במידה רבה בין גופי פרי ופוחתת בעקבות גשם או הזדקנות, מה שהופך את התגובה הצהובה העזה עם KOH לסימן ההיכר האמין ביותר בפרטים שחוקים. צורות החסרות את הפתיתים הצהובים סווגו כ-Hygrophorus chrysodon var. leucodon, צורות בעלות דפים בגוון בשר או בשר המאדים כ-var. incarnatum, וצורה ים-תיכונית הקשורה לשיחי לוטם (Cistus) כ-var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक मध्यम आकार का, चिपचिपा बाह्यकवकमूलीय गिलयुक्त मशरूम है जो पर्णपाती, शंकुधारी और मिश्रित वनों में मिट्टी पर, अक्सर चूनायुक्त भूमि पर, अकेले, छिटपुट या समूहों में उगता है। उत्तरी गोलार्ध में व्यापक रूप से फैला यह कवक ब्रिटेन और स्कैंडिनेविया से लेकर स्पेन, इटली और रोमानिया तक पूरे यूरोप में, पूरे उत्तरी अमेरिका में, तथा पूर्वी साइबेरिया, कोरिया और जापान सहित उत्तरी व पूर्वी एशिया में पाया जाता है।",
+      "cap": "टोपी का व्यास 1.5–8 cm (कभी-कभी 14 cm तक) होता है; युवा अवस्था में यह अंदर मुड़े किनारे के साथ उत्तल होती है और फैलकर चौड़ी उत्तल, चौड़ी घंटी के आकार की या लगभग सपाट हो जाती है, जिस पर अक्सर एक नीचा व कुंद उभार होता है। सतह चिकनी होती है जिस पर हल्के अंतर्निहित अरीय तंतु होते हैं; नम होने पर यह लसलसी या चिपचिपी होती है और सूखने पर मैट से चमकदार हो जाती है; शुरुआत में यह सफेद से हाथीदांत के रंग की होती है और उम्र बढ़ने या चोट लगने पर कभी-कभी पीली पड़ जाती है। इसकी विशिष्ट पहचान चमकीले सुनहरे-पीले से नींबू-पीले या नारंगी-पीले रुईदार कणों या दांत जैसे शल्कों से होती है, जो सार्वभौम आवरण के अवशेष के रूप में किनारे पर केंद्रित होते हैं और कभी-कभी मध्य भाग पर भी बिखरे रहते हैं, हालांकि उम्र के साथ ये शल्क फीके पड़ सकते हैं या धुल सकते हैं। पोटैशियम हाइड्रॉक्साइड (KOH) टोपी की सतह पर तुरंत चमकीले पीले से नींबू-पीले रंग की प्रतिक्रिया देता है।",
+      "hymenium": "गिल्स मोमी, थोड़े मोटे, चौड़े, डंठल से जुड़े हुए से लेकर अर्ध-अवरोही या अवरोही होते हैं, जो घने से कुछ दूर-दूर व्यवस्थित होते हैं और इनमें अनेक छोटे उप-गिल्स होते हैं। इनका रंग सफेद से क्रीम होता है और उम्र के साथ कभी-कभी इन पर हल्की पीली या मंद गुलाबी-पीली चमक आ जाती है; विशेष रूप से युवा फलनकायों में गिल्स के किनारों पर कभी-कभी बारीक पीले रुईदार कण लगे होते हैं। बेसिडियम बेलनाकार-गदाकार, 35–55 × 5.5–7 µm आकार के, चार-बीजाणुयुक्त तथा आधार पर क्लैम्प संयोजन वाले होते हैं; हाइमीनियल सिस्टिडिया अनुपस्थित होते हैं और लैमेलर ट्रामा अपसारी होता है।",
+      "stipe": "डंठल 2.5–10 cm लंबा और 0.3–1.5 cm मोटा होता है, ऊपर की ओर बेलनाकार और समान मोटाई का होता है, अक्सर आधार की ओर पतला हो जाता है, तथा अंदर से ठोस या ऊनी गूदे से भरा होता है। इसका रंग सफेद से हल्का क्रीम या पीलापन लिए होता है; ताजा होने पर निचला भाग लसलसा से चिपचिपा होता है और शीर्ष के पास सुनहरे-पीले से नींबू-पीले कणों से घना ढका रहता है जो कभी-कभी एक अस्पष्ट वलय क्षेत्र बनाते हैं; KOH के संपर्क में सतह चमकीली पीली हो जाती है।",
+      "flesh": "गूदा नरम, रसीला और सफेद होता है, टोपी की ऊपरी त्वचा और डंठल की सतह के नीचे कभी-कभी हल्का पीलापन लिए होता है, काटने पर रंग नहीं बदलता और KOH के साथ चमकीला पीला हो जाता है। गंध हल्की, मशरूम जैसी या थोड़ी खट्टी-सुगंधित होती है (कभी-कभी इसकी तुलना फल, कड़वे बादाम, राल या बकरी-शलभ की इल्ली से की जाती है), और स्वाद हल्का, हल्का मेवे जैसा या कभी-कभी थोड़ा कड़वा होता है।",
+      "sporePrint": "सफेद। बीजाणु 7–10 × 3.5–5 µm, दीर्घवृत्ताकार से तर्कु-दीर्घवृत्ताकार, चिकने, KOH में पारदर्शी, अक्सर तेल की बूंदों से युक्त और अनैमाइलॉइड होते हैं।",
+      "habitat": "यह चौड़ी पत्ती वाले पेड़ों (विशेष रूप से बीच, Fagus, और ओक, Quercus) तथा शंकुधारी पेड़ों (स्प्रूस, Picea, फ़र, Abies, और चीड़, Pinus) दोनों के साथ बाह्यकवकमूलीय संबंध बनाता है। यह चूना पत्थर या मार्ल के ऊपर ताजी से नम, उदासीन से चूनायुक्त मिट्टी पर, साथ ही बजरी वाले वन मार्गों के किनारे, पत्तियों के ढेर में, या काई व घास वाले खुले स्थानों में, तथा विरले ही पार्कों या बगीचों में अकेले, छिटपुट या छोटे समूहों में उगता है। समशीतोष्ण यूरोप और उत्तरी अमेरिका में यह मुख्यतः जुलाई से नवंबर तक फलता है, और अधिक सौम्य महासागरीय तथा पश्चिमी उत्तरी अमेरिकी जलवायु में दिसंबर या मध्य-सर्दियों तक उगता रहता है।",
+      "uses": "खाद्य है, हालांकि इसे सामान्यतः फीका, नरम गूदे वाला और कम पाक महत्व का माना जाता है, तथा इसके छिटपुट या स्थानीय रूप से दुर्लभ मिलने के कारण इसे शायद ही कभी एकत्र किया जाता है।",
+      "confusion": "Hygrophorus eburneus अक्सर समान बीच वनों में इसके साथ ही उगता है, लेकिन वह पूरी तरह शुद्ध हाथीदांत-सफेद होता है, उसमें किनारे पर पीले रुईदार कण नहीं होते और KOH से वह चमकीला पीला नहीं होता। Hygrophorus discoxanthus आमतौर पर थोड़ा बड़ा होता है, इसमें सुनहरे-पीले शल्क नहीं होते, उम्र बढ़ने पर इसके गिल्स और टोपी के किनारे पर भूरे-नारंगी से जंग-भूरे दाग पड़ जाते हैं, इसमें अधिक तीव्र सिरके जैसी या अप्रिय गंध होती है और इसे अखाद्य माना जाता है। Hygrophorus cossus पूरी तरह सफेद होता है, इसमें पीले रुईदार कण नहीं होते और इससे बकरी-शलभ की इल्लियों जैसी तेज, तीखी गंध आती है। पुराने नमूने जिनमें पीले कण झड़ चुके हों, उन्हें टोपी, डंठल और गूदे पर KOH की तुरंत चमकीली पीली प्रतिक्रिया द्वारा अन्य सफेद Hygrophorus प्रजातियों से अलग पहचाना जा सकता है।",
+      "notes": "सुनहरे-पीले रुईदार कणों की सघनता अलग-अलग फलनकायों में काफी भिन्न होती है और वर्षा या उम्र के साथ कम हो जाती है, जिससे मौसम से प्रभावित नमूनों में KOH की चमकीली पीली प्रतिक्रिया सबसे विश्वसनीय पहचान लक्षण बन जाती है। पीले रुईदार कणों से रहित रूपों को Hygrophorus chrysodon var. leucodon, मांसल रंग के गिल्स या लाल दाग पड़ने वाले गूदे वाले रूपों को var. incarnatum, तथा Cistus झाड़ियों से जुड़े भूमध्यसागरीय रूप को var. cistophilus के रूप में माना गया है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Srednje velika, sluzava ektomikorizna gljiva s listićima koja raste pojedinačno, raspršeno ili u skupinama na tlu u bjelogoričnim, crnogoričnim i mješovitim šumama, često na vapnenačkoj podlozi. Široko je rasprostranjena na sjevernoj polutci: javlja se diljem Europe od Britanije i Skandinavije do Španjolske, Italije i Rumunjske, diljem Sjeverne Amerike te u sjevernoj i istočnoj Aziji, uključujući istočni Sibir, Koreju i Japan.",
+      "cap": "Promjera 1,5–8 cm (povremeno do 14 cm), u mladosti ispupčen s podvijenim rubom, zatim široko ispupčen, široko zvonolik ili gotovo ravan, često s niskim tupim ispupčenjem u sredini. Površina je glatka s blagim uraštenim radijalnim vlakancima, za vlažnog vremena sluzava ili ljepljiva, a sušenjem postaje mat do sjajna; u početku bijela do bjelokosna, sa starošću ili na dodir ponekad žuti. Karakteristično je ukrašena jarko zlatnožutim do limunasto- ili narančastožutim pahuljastim zrncima ili zupčastim ljuskicama, gušćima uz rub i povremeno raspršenima po tjemenu kao ostaci općeg ovoja, premda te pahuljice sa starošću mogu izblijedjeti ili se isprati. Kalijev hidroksid (KOH) na površini klobuka daje trenutačnu jarko žutu do limunastožutu reakciju.",
+      "hymenium": "Listići su voštani, podeblji, široki, prirasli do kratko silazni ili silazni, gusti do nešto rjeđi, s čestim kraćim lamelulama. Bijeli su do kremasti, sa starošću ponekad dobivaju blijedožućkasti ili slabo ružičastožuti odsjaj; oštrice listića povremeno su posute sitnim žutim pahuljicama, osobito u mladih plodnih tijela. Bazidiji su valjkasto-batičasti, 35–55 × 5,5–7 µm, četverosporni s kopčama pri bazi; himenijalnih cistida nema, a trama listića je divergentna.",
+      "stipe": "Visok 2,5–10 cm i debeo 0,3–1,5 cm, valjkast i u gornjem dijelu jednakomjerne debljine, prema bazi često sužen, iznutra pun ili vatasto ispunjen. Bijel do blijedokremast ili žućkast, u svježem stanju u donjem dijelu sluzav do ljepljiv, a pri vrhu gusto posut zlatnožutim do limunastožutim zrncima koja ponekad tvore nejasan prstenasti pojas; površina s KOH postaje jarko žuta.",
+      "flesh": "Mekano, sočno i bijelo, ispod kožice klobuka i površine stručka ponekad slabo žućkasto, na prerezu ne mijenja boju, a s KOH postaje jarko žuto. Miris je blag, gljivlji ili slabo kiselkasto aromatičan (povremeno se uspoređuje s voćem, gorkim bademima, smolom ili gusjenicom vrbotoča), a okus je blag, slabo orašast ili povremeno blago gorak.",
+      "sporePrint": "Bijel. Spore su veličine 7–10 × 3,5–5 µm, elipsoidne do vretenasto-elipsoidne, glatke, bezbojne (hijalne) u KOH, često s uljnim kapljicama i neamiloidne.",
+      "habitat": "Ektomikorizna i s bjelogoričnim drvećem (osobito bukvom, Fagus, i hrastom, Quercus) i s četinjačama (smrekom, Picea, jelom, Abies, i borom, Pinus), raste pojedinačno, raspršeno ili u malim skupinama na svježim do vlažnim, neutralnim do vapnenačkim tlima na vapnencu ili laporu, kao i uz šljunčane šumske putove, u lisnoj stelji te na mahovinastim i travnatim proplancima, rijetko u parkovima ili vrtovima. Plodonošenje traje uglavnom od srpnja do studenoga u umjerenom pojasu Europe i Sjeverne Amerike, a u blažoj oceanskoj klimi i zapadnoj Sjevernoj Americi proteže se do prosinca ili sredine zime.",
+      "uses": "Jestiva, premda se općenito smatra bezizražajnom, mekanog mesa i slabe kulinarske vrijednosti, a zbog raspršenog ili lokalno rijetkog pojavljivanja rijetko se bere.",
+      "confusion": "Hygrophorus eburneus često raste uz nju na sličnim bukovim staništima, ali je cijeli čisto bjelokosno bijel, nema žutih rubnih pahuljica i ne postaje jarko žut s KOH. Hygrophorus discoxanthus obično je nešto veći, nema zlatnožutih ljuskica, sa starošću dobiva smeđonarančaste do hrđavosmeđe mrlje na listićima i rubu klobuka, ima snažniji octeni ili neugodan miris te se smatra nejestivim. Hygrophorus cossus potpuno je bijel bez žutih pahuljica i ispušta jak, oštar miris gusjenica vrbotoča. Stariji primjerci koji su izgubili žuta zrnca mogu se odvojiti od ostalih bijelih vrsta roda Hygrophorus po trenutačnoj jarko žutoj reakciji s KOH na klobuku, stručku i mesu.",
+      "notes": "Izraženost zlatnožutih pahuljica znatno varira među plodnim tijelima i slabi s kišom ili starošću, pa je kod ispranih primjeraka jarko žuta reakcija s KOH najpouzdanije raspoznajno obilježje. Oblici bez žutih pahuljica izdvajaju se kao Hygrophorus chrysodon var. leucodon, oblici s listićima boje mesa ili mesom koje crveni kao var. incarnatum, a sredozemni oblik povezan s grmovima bušina (Cistus) kao var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Közepes termetű, nyálkás, ektomikorrhizás lemezes gomba, amely egyesével, szórtan vagy csoportosan terem talajon lombos, tűlevelű és vegyes erdőkben, gyakran meszes talajon. Az északi féltekén széles körben elterjedt: egész Európában előfordul Nagy-Britanniától és Skandináviától Spanyolországig, Olaszországig és Romániáig, Észak-Amerikában, valamint Észak- és Kelet-Ázsiában, beleértve Kelet-Szibériát, Koreát és Japánt.",
+      "cap": "1,5–8 cm átmérőjű (ritkán akár 14 cm is lehet), fiatalon domború, begöngyölt szélű, később szélesen domborúvá, szélesen harang alakúvá vagy majdnem lapossá terül ki, közepén gyakran alacsony, tompa púppal. Felülete sima, halvány, benőtt sugaras szálakkal, nedvesen nyálkás vagy ragadós, szárazon matt vagy fényes; kezdetben fehér vagy elefántcsontszínű, idővel vagy nyomásra néha megsárgul. Jellegzetesen élénk aranysárga, citromsárga vagy narancssárga pelyhes szemcsék vagy fogacskaszerű pikkelykék díszítik — az általános burok maradványai —, amelyek főként a kalap szélén tömörülnek és elszórtan a közepén is megjelenhetnek, bár ezek a pelyhek az idő múlásával kifakulhatnak vagy az eső lemoshatja őket. A kálium-hidroxid (KOH) azonnali élénksárga vagy citromsárga reakciót ad a kalap felületén.",
+      "hymenium": "A lemezek viaszosak, meglehetősen vastagok, szélesek, tönkhöz nőttek, kissé lefutók vagy lefutók, sűrűk vagy kissé ritkásak, sok rövid köztes lemezzel. Fehérek vagy krémszínűek, idővel néha halványsárgás vagy enyhén rózsás-sárgás árnyalatot kapnak; élüket, különösen fiatal termőtesteken, néha finom sárga pelyhek pettyezik. A bazídiumok hengeres-bunkó alakúak, 35–55 × 5,5–7 µm méretűek, négyspórásak, alapjukon csattal; himéniumi cisztídiumok nincsenek, a lemeztráma divergens.",
+      "stipe": "2,5–10 cm magas és 0,3–1,5 cm vastag, hengeres, felül egyenletes vastagságú, a bázisa felé gyakran elvékonyodó, tömör vagy vattásan kitöltött belsejű. Fehér, halvány krémszínű vagy sárgás, frissen az alsó részén nyálkás vagy ragadós, a csúcsa közelében pedig sűrűn borítják aranysárga vagy citromsárga szemcsék, amelyek néha elmosódott gallérzónát alkotnak; felülete KOH hatására élénksárgára színeződik.",
+      "flesh": "Puha, lédús és fehér, a kalapbőr és a tönk felülete alatt néha halványsárgás, vágásra nem színeződik el, KOH hatására azonban élénksárga lesz. Szaga enyhe, gombaszerű vagy gyengén savanykás-aromás (néha gyümölcshöz, keserűmandulához, gyantához vagy a nagy fűzfarontó lepke hernyójának szagához hasonlítják), íze enyhe, enyhén diós, időnként kissé kesernyés.",
+      "sporePrint": "Fehér. A spórák 7–10 × 3,5–5 µm méretűek, ellipszoidok vagy orsó-ellipszoidok, simák, KOH-ban színtelenek, gyakran olajcseppeket tartalmaznak, nem amiloidok.",
+      "habitat": "Lombos fákkal (különösen bükkel, Fagus, és tölggyel, Quercus) és tűlevelűekkel (lucfenyővel, Picea, jegenyefenyővel, Abies, és fenyővel, Pinus) egyaránt ektomikorrhizás kapcsolatot alkot. Egyesével, szórtan vagy kisebb csoportokban terem friss vagy nedves, semleges vagy meszes, mészkövön vagy márgán kialakult talajokon, valamint kavicsos erdei utak mentén, avarban, mohás és füves tisztásokon, ritkán parkokban vagy kertekben. A mérsékelt égövi Európában és Észak-Amerikában főként júliustól novemberig terem, enyhébb óceáni éghajlaton és Észak-Amerika nyugati részén decemberig vagy tél közepéig is.",
+      "uses": "Ehető, de általában ízetlennek, puha húsúnak és csekély kulináris értékűnek tartják; szórt vagy helyenként ritka előfordulása miatt is ritkán gyűjtik.",
+      "confusion": "A Hygrophorus eburneus gyakran együtt terem vele hasonló bükkös élőhelyeken, de minden részében tiszta elefántcsontfehér, hiányoznak róla a sárga perempelyhek, és KOH-val nem ad élénksárga reakciót. A Hygrophorus discoxanthus rendszerint valamivel nagyobb, nincsenek aranysárga pelyhei, idővel barnásnarancs vagy rozsdabarna foltok jelennek meg a lemezein és a kalap szélén, erősebb ecetes vagy kellemetlen szagú, és nem ehetőnek tartják. A Hygrophorus cossus teljesen fehér, sárga pelyhek nélkül, és erős, átható, a nagy fűzfarontó lepke hernyójára emlékeztető szagot áraszt. A sárga szemcséiket elveszített idős példányok a kalap, a tönk és a hús azonnali élénksárga KOH-reakciója alapján különíthetők el más fehér Hygrophorus fajoktól.",
+      "notes": "Az aranysárga pelyhek erőssége termőtestenként jelentősen változik, és eső vagy az öregedés hatására lekopik, ezért a megviselt példányoknál az élénksárga KOH-reakció a legmegbízhatóbb határozóbélyeg. A sárga pelyhek nélküli alakokat Hygrophorus chrysodon var. leucodon néven, a hússzínű lemezű vagy vörösödő húsú alakokat var. incarnatum néven, míg a szuhar (Cistus) cserjékhez kötődő mediterrán alakot var. cistophilus néven különítették el.",
+      "label": "sárgapelyhű csigagomba",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/S%C3%A1rgapelyh%C5%B1_csigagomba",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "id": {
+      "description": "Jamur berlamela berukuran sedang yang berlendir dan bersifat ektomikoriza, tumbuh soliter, tersebar, atau berkelompok di atas tanah pada hutan gugur, hutan konifer, dan hutan campuran, sering kali di tanah berkapur. Tersebar luas di Belahan Bumi Utara, jamur ini dijumpai di seluruh Eropa mulai dari Inggris dan Skandinavia hingga Spanyol, Italia, dan Rumania, di seluruh Amerika Utara, serta di Asia bagian utara dan timur, termasuk Siberia timur, Korea, dan Jepang.",
+      "cap": "Diameter tudung 1,5–8 cm (sesekali hingga 14 cm), cembung saat muda dengan tepi menggulung ke dalam, lalu melebar menjadi cembung lebar, berbentuk lonceng melebar, atau hampir datar, sering kali dengan tonjolan tengah rendah yang tumpul. Permukaannya halus dengan serat radial bawaan yang samar, berlendir atau lengket saat lembap dan mengering menjadi kusam hingga mengilap; mula-mula berwarna putih hingga putih gading, kadang menguning seiring usia atau bila memar. Ciri khasnya berupa butiran berbulu atau sisik mirip gigi berwarna kuning keemasan cerah hingga kuning lemon atau kuning jingga sebagai sisa selubung universal yang terkonsentrasi di sepanjang tepi dan sesekali tersebar di bagian tengah tudung, meskipun serpihan ini dapat memudar atau terbilas seiring bertambahnya usia. Kalium hidroksida (KOH) menghasilkan reaksi seketika berwarna kuning cerah hingga kuning lemon pada permukaan tudung.",
+      "hymenium": "Lamela berlilin, agak tebal, lebar, melekat pada tangkai hingga agak menurun atau menurun, rapat hingga agak renggang dengan banyak lamela pendek. Berwarna putih hingga krem, kadang membentuk kilau kekuningan pucat atau kuning kemerahan samar seiring usia; tepi lamela sesekali berbintik butiran halus kuning, terutama pada tubuh buah muda. Basidium berbentuk silindris-gada, berukuran 35–55 × 5,5–7 µm, berspora empat dengan sambungan klem di pangkal; sistidia himenium tidak ada, dan trama lamela bersifat divergen.",
+      "stipe": "Tangkai setinggi 2,5–10 cm dan setebal 0,3–1,5 cm, berbentuk silindris dan sama lebar di bagian atas, sering menyempit ke arah pangkal, padat atau berisi jaringan seperti kapas di bagian dalam. Berwarna putih hingga krem pucat atau kekuningan, berlendir hingga lengket di bagian bawah saat segar, dan berbintik padat di dekat puncak dengan butiran kuning keemasan hingga kuning lemon yang kadang membentuk zona cincin tidak jelas; permukaannya berubah menjadi kuning cerah dengan KOH.",
+      "flesh": "Daging lunak, berair, dan putih, kadang agak kekuningan di bawah kutikula tudung dan permukaan tangkai, tidak berubah warna saat dipotong, serta berubah menjadi kuning cerah dengan KOH. Baunya lembut, berbau jamur, atau sedikit asam-aromatik (sesekali disamakan dengan buah, badam pahit, resin, atau ulat ngengat kayu), dan rasanya lembut, sedikit seperti kacang, atau sesekali agak pahit.",
+      "sporePrint": "Putih. Spora berukuran 7–10 × 3,5–5 µm, berbentuk elipsoid hingga fusiform-elipsoid, halus, hialin dalam KOH, sering mengandung tetesan minyak, dan inamiloid.",
+      "habitat": "Bersifat ektomikoriza baik dengan pohon berdaun lebar (terutama beech, Fagus, dan ek, Quercus) maupun konifer (spruce, Picea, fir, Abies, dan pinus, Pinus), tumbuh soliter, tersebar, atau dalam kelompok kecil di tanah segar hingga lembap yang netral hingga berkapur di atas batu gamping atau napal, serta di sepanjang jalan hutan berkerikil, di serasah daun, atau di padang terbuka berlumut dan berumput, jarang di taman atau kebun. Jamur ini berbuah terutama dari Juli hingga November di seluruh Eropa beriklim sedang dan Amerika Utara, serta berlanjut hingga Desember atau pertengahan musim dingin di iklim samudra yang lebih sejuk dan Amerika Utara bagian barat.",
+      "uses": "Dapat dimakan, meskipun umumnya dianggap hambar, berdaging lunak, dan bernilai kuliner rendah, serta jarang dikumpulkan karena kemunculannya yang tersebar atau tidak umum secara lokal.",
+      "confusion": "Hygrophorus eburneus sering berbuah berdampingan di habitat beech yang serupa, tetapi seluruhnya berwarna putih gading murni, tidak memiliki butiran kuning di tepi tudung, dan tidak berubah menjadi kuning cerah dengan KOH. Hygrophorus discoxanthus biasanya sedikit lebih besar, tidak memiliki serpihan kuning keemasan, menampakkan noda jingga kecokelatan hingga cokelat karat pada lamela dan tepi tudung seiring usia, berbau seperti cuka atau bau tidak sedap yang lebih kuat, serta dianggap tidak dapat dimakan. Hygrophorus cossus seluruhnya berwarna putih tanpa butiran kuning dan mengeluarkan bau tajam yang kuat seperti ulat ngengat kayu. Spesimen tua yang telah kehilangan butiran kuningnya dapat dibedakan dari spesies Hygrophorus putih lainnya melalui reaksi KOH kuning cerah seketika pada tudung, tangkai, dan daging.",
+      "notes": "Intensitas butiran kuning keemasan sangat bervariasi antar tubuh buah dan berkurang akibat hujan atau usia, sehingga reaksi KOH kuning cerah menjadi ciri diagnostik yang paling andal pada spesimen yang telah lapuk. Bentuk yang tidak memiliki butiran kuning pernah diperlakukan sebagai Hygrophorus chrysodon var. leucodon, bentuk dengan lamela berwarna daging atau daging yang bernoda kemerahan sebagai var. incarnatum, dan bentuk Mediterania yang berasosiasi dengan semak Cistus sebagai var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Fungo agaricoide viscoso ed ectomicorrizico di medie dimensioni, che fruttifica solitario, sparso o gregario sul terreno in boschi di latifoglie, di conifere e misti, spesso su suoli calcarei. Ampiamente diffuso nell'emisfero settentrionale, è presente in tutta Europa dalla Gran Bretagna e dalla Scandinavia fino alla Spagna, all'Italia e alla Romania, in tutto il Nord America e nell'Asia settentrionale e orientale, comprese la Siberia orientale, la Corea e il Giappone.",
+      "cap": "1,5–8 cm di diametro (occasionalmente fino a 14 cm), convesso da giovane con margine involuto, poi aperto fino ad ampiamente convesso, largamente campanulato o quasi piano, spesso con un umbone basso e ottuso. La superficie è liscia con deboli fibrille radiali innate, vischiosa o glutinosa con l'umidità e da opaca a lucida a tempo secco; inizialmente bianca o avorio, talvolta ingiallente con l'età o allo sfregamento. È caratteristicamente ornata da granuli fioccosi o squamette dentiformi di colore giallo oro vivo, giallo limone o giallo-arancio concentrati lungo il margine e talvolta sparsi sul disco come residui del velo generale, sebbene questi fiocchi possano scolorire o dilavarsi con l'età. L'idrossido di potassio (KOH) provoca un'immediata reazione giallo vivo o giallo limone sulla superficie del cappello.",
+      "hymenium": "Lamelle ceracee, piuttosto spesse, larghe, adnate, subdecorrenti o decorrenti, da fitte a moderatamente spaziate con frequenti lamellule corte. Da bianche a crema, talvolta con un riflesso giallastro pallido o leggermente giallo-rosato con l'età; il filo lamellare è occasionalmente punteggiato da fini fiocchetti gialli, soprattutto nei carpofori giovani. I basidi sono cilindrico-clavati, di 35–55 × 5,5–7 µm, tetrasporici con giunti a fibbia basali; i cistidi imeniali sono assenti e la trama lamellare è divergente.",
+      "stipe": "2,5–10 cm di altezza e 0,3–1,5 cm di spessore, cilindrico e regolare nella parte superiore, spesso attenuato verso la base, pieno o farcito-cotonoso all'interno. Da bianco a crema pallido o giallastro, vischioso o glutinoso nella parte inferiore a fresco e fittamente punteggiato vicino all'apice da granuli giallo oro o giallo limone che formano talvolta una zona anulare indistinta; la superficie vira al giallo vivo con KOH.",
+      "flesh": "Morbida, succosa e bianca, talvolta leggermente giallastra sotto la cuticola del cappello e la superficie del gambo, immutabile al taglio e virante al giallo vivo con KOH. L'odore è lieve, fungino o debolmente acidulo-aromatico (talvolta paragonato a frutta, mandorle amare, resina o alla larva del rodilegno rosso), e il sapore è mite, leggermente di nocciola o talvolta un po' amaro.",
+      "sporePrint": "Bianca. Le spore misurano 7–10 × 3,5–5 µm, sono ellissoidali o fusiformi-ellissoidali, lisce, ialine in KOH, spesso contenenti goccioline lipidiche e non amiloidi.",
+      "habitat": "Ectomicorrizico sia con latifoglie (in particolare faggio, Fagus, e quercia, Quercus) sia con conifere (abete rosso, Picea, abete bianco, Abies, e pino, Pinus), fruttifica solitario, sparso o in piccoli gruppi su terreni freschi o umidi, da neutri a calcarei, su calcare o marna, nonché lungo sentieri forestali ghiaiosi, nella lettiera di foglie o in radure muschiose ed erbose, raramente in parchi o giardini. Fruttifica principalmente da luglio a novembre nell'Europa temperata e in Nord America, protraendosi fino a dicembre o a metà inverno nei climi oceanici più miti e nel Nord America occidentale.",
+      "uses": "Commestibile, sebbene generalmente considerato insipido, di carne molle e di scarso valore culinario, e raramente raccolto a causa della sua crescita sparsa o localmente poco comune.",
+      "confusion": "Hygrophorus eburneus fruttifica spesso accanto a esso in faggete simili, ma è completamente bianco avorio puro, privo di fiocchi gialli al margine e non vira al giallo vivo con KOH. Hygrophorus discoxanthus è di solito leggermente più grande, privo di fiocchi giallo oro, si macchia di bruno-arancio fino a bruno ruggine sulle lamelle e al margine del cappello con l'età, ha un odore più intenso, acetoso o sgradevole, ed è considerato non commestibile. Hygrophorus cossus è interamente bianco, senza fiocchi gialli, ed emana un forte odore pungente di larva del rodilegno rosso. Gli esemplari maturi che hanno perso i granuli gialli si distinguono dalle altre specie bianche di Hygrophorus grazie all'immediata reazione giallo vivo al KOH su cappello, gambo e carne.",
+      "notes": "L'intensità dei fiocchi giallo oro varia notevolmente tra i carpofori e si attenua con la pioggia o con l'età, rendendo la reazione giallo vivo al KOH il carattere diagnostico più affidabile negli esemplari deteriorati. Le forme prive di fiocchi gialli sono state trattate come Hygrophorus chrysodon var. leucodon, quelle con lamelle color carne o carne arrossante come var. incarnatum, e una forma mediterranea associata ad arbusti di cisto (Cistus) come var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "広葉樹林、針葉樹林、混交林の地上、特に石灰質の土壌に単生、散生、または群生する中型の粘性のある外生菌根性きのこです。北半球に広く分布し、イギリスやスカンジナビアからスペイン、イタリア、ルーマニアに至るヨーロッパ全域、北アメリカ全域、さらに東シベリア、韓国、日本を含む北アジアおよび東アジアに産します。",
+      "cap": "傘は径1.5–8 cm（まれに14 cmに達します）で、幼時は縁が内側に巻いたまんじゅう形ですが、成長すると広まんじゅう形、広鐘形、またはほぼ平らに開き、しばしば低く鈍い中央の突起を伴います。表面は平滑でかすかな放射状の繊維模様があり、湿時は粘液質または粘性を帯び、乾くとつや消しから光沢のある質感になります。初めは白色から象牙色ですが、老成や傷によって黄変することがあります。外被膜の名残である鮮やかな黄金色からレモン色または橙黄色の綿毛状の粒や歯状の鱗片が縁に沿って密生し、時に傘の中央部にも散在するのが特徴ですが、これらの鱗片は老成とともに退色したり洗い流されたりすることがあります。水酸化カリウム（KOH）を滴下すると、傘の表面は直ちに鮮やかな黄色からレモン色に反応します。",
+      "hymenium": "ひだはろう質でやや厚く幅広であり、柄に直生からやや垂生または垂生し、密からやや疎で多数の小ひだを交えます。白色からクリーム色で、老成すると淡黄色やかすかな桃黄色の光沢を帯びることがあり、特に若い子実体ではひだの縁に細かい黄色の綿毛状小片が点在することがあります。担子器は円柱状こん棒形で35–55 × 5.5–7 µm、4胞子性で基部にクランプを有します。シスチジアはなく、ひだ実質の菌糸配列は散開型です。",
+      "stipe": "柄は高さ2.5–10 cm、太さ0.3–1.5 cmで、上部は円柱形でほぼ同径、しばしば基部に向かって細くなり、内部は充実するか綿状の髄で満たされます。白色から淡クリーム色または淡黄色を帯び、新鮮なうちは下部が粘液質から粘性を帯び、頂部付近には黄金色からレモン色の粒が密に点在して不明瞭なつば状の帯を形成することがあります。表面はKOHで鮮やかな黄色に変わります。",
+      "flesh": "肉は柔らかく水気があり白色で、傘の表皮下や柄の表面直下ではかすかに黄色みを帯びることがあります。切断しても変色せず、KOHによって鮮やかな黄色になります。においは穏やかなきのこ臭または弱い酸味を帯びた芳香があり（時に果実、ビターアーモンド、樹脂、あるいはボクトウガの幼虫に例えられます）、味は穏やかでかすかにナッツの風味があるか、時にわずかに苦みがあります。",
+      "sporePrint": "白色です。胞子は7–10 × 3.5–5 µmで楕円形から紡錘状楕円形、平滑、KOH中で無色透明、しばしば油滴を含み、非アミロイド性です。",
+      "habitat": "広葉樹（特にブナ属（Fagus）やコナラ属（Quercus））および針葉樹（トウヒ属（Picea）、モミ属（Abies）、マツ属（Pinus））の双方と外生菌根を形成します。石灰岩や泥灰岩上の湿り気のある中性から石灰質の土壌をはじめ、砂利敷きの林道沿い、落葉層、苔や草の生えた開けた場所、まれに公園や庭園などに単生、散生、または小群生します。温帯ヨーロッパおよび北アメリカでは主に7月から11月に発生し、温暖な海洋性気候の地域や北アメリカ西部では12月または真冬まで見られます。",
+      "uses": "食用になりますが、一般に味が淡泊で肉が柔らかく料理上の価値は低いとされており、散生または局地的にまれであるため採取されることはほとんどありません。",
+      "confusion": "Hygrophorus eburneusは同様のブナ林でしばしば同時に発生しますが、全体が純粋な象牙白色で傘縁の黄色い綿毛状小片を欠き、KOHでも鮮やかな黄色になりません。Hygrophorus discoxanthusは通常やや大型で黄金色の鱗片を欠き、老成するとひだや傘の縁が帯褐橙色からさび褐色に変色し、より強い酢のようなにおいや不快臭があり、不食とされます。Hygrophorus cossusは全体が白色で黄色の綿毛状小片がなく、ボクトウガの幼虫に似た強い刺激臭を放ちます。黄色の粒が脱落した老成標本であっても、傘、柄、肉がKOHで直ちに鮮やかな黄色に反応する点から、他の白色のHygrophorus属菌と区別できます。",
+      "notes": "黄金色の綿毛状小片の濃淡は子実体によって大きく異なり、雨や老成によって薄れるため、風化した標本ではKOHによる鮮やかな黄色の呈色反応が最も信頼できる識別形質となります。黄色の綿毛状小片を欠く型はHygrophorus chrysodon var. leucodon、肉色のひだや赤変する肉をもつ型はvar. incarnatum、地中海地域でゴジアオイ属（Cistus）の低木に随伴する型はvar. cistophilusとして扱われてきました。",
+      "label": "ウコンガサ",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "ko": {
+      "description": "활엽수림, 침엽수림 및 혼효림의 토양, 흔히 석회질 토양에서 홀로, 흩어져 또는 무리를 지어 발생하는 중간 크기의 점성 외생균근성 버섯입니다. 북반구 전역에 널리 분포하며, 영국과 스칸디나비아에서 스페인, 이탈리아, 루마니아에 이르는 유럽 전역, 북아메리카 전역, 그리고 동시베리아, 한국, 일본을 포함한 북부 및 동부 아시아에서 발견됩니다.",
+      "cap": "갓의 지름은 1.5–8 cm(드물게 14 cm까지)이며, 어릴 때는 가장자리가 안으로 말린 반구형에서 자라면서 넓은 볼록형, 넓은 종형 또는 거의 편평형으로 펴지며 흔히 낮고 둔한 중앙 볼록을 가집니다. 표면은 매끄럽고 희미한 내재성 방사상 섬유무늬가 있으며, 습할 때는 점액질이거나 끈적거리다가 마르면 무광에서 광택을 띱니다. 처음에는 흰색에서 상아색이며, 노화하거나 상처가 나면 때때로 노랗게 변합니다. 외피막 잔유물인 밝은 황금빛 노란색에서 레몬색 또는 주황빛 노란색의 솜털 모양 과립이나 치아 모양 인편이 가장자리를 따라 집중되어 있고 때때로 갓 중앙에도 흩어져 있는 것이 특징이지만, 이러한 조각들은 시간이 지나면 퇴색하거나 씻겨 나갈 수 있습니다. 수산화칼륨(KOH)을 떨어뜨리면 갓 표면이 즉시 밝은 노란색에서 레몬색으로 반응합니다.",
+      "hymenium": "주름살은 밀랍질이고 다소 두꺼우며 폭이 넓고, 대에 붙은주름살에서 약간 내린주름살 또는 내린주름살이며, 촘촘하거나 다소 성기고 짧은 주름살이 많이 섞여 있습니다. 흰색에서 크림색이며 노화하면 때때로 옅은 노란색이나 희미한 분홍빛 노란 광택을 띠고, 특히 어린 자실체에서는 주름살 가장자리에 미세한 노란 솜털 모양 입자가 점점이 붙어 있기도 합니다. 담자기는 원통상 곤봉형으로 35–55 × 5.5–7 µm이며 4포자성이고 기부에 꺾쇠연결이 있습니다. 자실층 낭상체는 없으며, 주름살 실질은 산개형입니다.",
+      "stipe": "대의 높이는 2.5–10 cm, 굵기는 0.3–1.5 cm이며, 위쪽은 원통형으로 굵기가 일정하고 흔히 기부를 향해 가늘어지며, 내부는 차 있거나 솜 모양의 속으로 채워져 있습니다. 흰색에서 옅은 크림색 또는 노란빛을 띠며, 신선할 때는 아랫부분이 점액질에서 점성을 띠고, 꼭대기 부근에는 황금빛 노란색에서 레몬색 과립이 빽빽하게 점재하여 때때로 불분명한 고리 구역을 형성합니다. 표면은 KOH에 닿으면 밝은 노란색으로 변합니다.",
+      "flesh": "살은 부드럽고 즙이 많으며 흰색이고, 갓 표피 아래와 대 표면 바로 아래에서는 때때로 희미한 노란빛을 띠며, 자르더라도 변색하지 않고 KOH에 밝은 노란색으로 변합니다. 냄새는 순하고 버섯 향이 나거나 약하게 새콤하고 향긋하며(때때로 과일, 쓴 아몬드, 수지 또는 굴벌레나방 애벌레 냄새에 비유됩니다), 맛은 순하고 희미하게 견과류 맛이 나거나 때때로 약간 씁니다.",
+      "sporePrint": "흰색입니다. 포자는 7–10 × 3.5–5 µm로 타원형에서 방추상 타원형이며, 표면이 매끄럽고 KOH에서 투명하며, 흔히 기름방울을 포함하고 비아밀로이드성입니다.",
+      "habitat": "활엽수(특히 너도밤나무속(Fagus)과 참나무속(Quercus))와 침엽수(가문비나무속(Picea), 전나무속(Abies), 소나무속(Pinus)) 모두와 외생균근을 형성합니다. 석회암이나 이회암 위의 신선하거나 습한 중성에서 석회질 토양뿐만 아니라 자갈이 깔린 숲길 가장자리, 낙엽층, 이끼와 풀이 자란 숲속 빈터, 드물게 공원이나 정원에서 홀로, 흩어져 또는 작은 무리를 이루어 발생합니다. 온대 유럽과 북아메리카에서는 주로 7월부터 11월까지 발생하며, 온화한 해양성 기후와 북아메리카 서부에서는 12월이나 한겨울까지 이어집니다.",
+      "uses": "식용 가능하지만 대체로 맛이 밋밋하고 살이 무르며 식재료로서의 가치가 낮은 것으로 평가되고, 흩어져 나거나 지역적으로 드물게 나타나므로 거의 채집되지 않습니다.",
+      "confusion": "Hygrophorus eburneus는 비슷한 너도밤나무 서식지에서 종종 함께 발생하지만, 전체가 순수한 상아빛 흰색이고 갓 가장자리의 노란 솜털 모양 입자가 없으며 KOH로 밝은 노란색으로 변하지 않습니다. Hygrophorus discoxanthus는 보통 약간 더 크고 황금빛 노란 조각이 없으며, 노화함에 따라 주름살과 갓 가장자리에 갈색빛 주황색에서 녹슨 갈색 얼룩이 생기고, 더 강한 식초 냄새나 불쾌한 냄새가 나며 식용 부적합으로 간주됩니다. Hygrophorus cossus는 노란 솜털 모양 입자 없이 전체가 흰색이며 굴벌레나방 애벌레 같은 강하고 자극적인 냄새를 풍깁니다. 노란 과립이 떨어진 노숙 개체는 갓, 대, 살에서 나타나는 즉각적인 밝은 노란색 KOH 반응으로 다른 흰색 Hygrophorus 종들과 구별할 수 있습니다.",
+      "notes": "황금빛 노란 솜털 모양 입자의 뚜렷한 정도는 자실체마다 크게 다르며 비나 노화로 인해 줄어들기 때문에, 풍화된 표본에서는 밝은 노란색 KOH 반응이 가장 신뢰할 수 있는 동정 형질이 됩니다. 노란 솜털 모양 입자가 없는 형은 Hygrophorus chrysodon var. leucodon으로, 살색 주름살이나 붉게 얼룩지는 살을 가진 형은 var. incarnatum으로, 지중해 지역에서 시스투스속(Cistus) 관목과 공생하는 형은 var. cistophilus로 다루어져 왔습니다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Vidutinio dydžio gleivėtas ektomikorizinis kepurėtasis grybas, augantis pavieniui, išsibarsčiusiomis ar glaudžiomis grupėmis ant dirvožemio lapuočių, spygliuočių ir mišriuose miškuose, dažnai kalkingose dirvose. Plačiai paplitęs Šiaurės pusrutulyje: sutinkamas visoje Europoje nuo Didžiosios Britanijos ir Skandinavijos iki Ispanijos, Italijos ir Rumunijos, visoje Šiaurės Amerikoje bei šiaurės ir rytų Azijoje, įskaitant Rytų Sibirą, Korėją ir Japoniją.",
+      "cap": "1,5–8 cm skersmens (kartais iki 14 cm), jauna išgaubta užsilenkusiu kraštu, vėliau išsiskleidžia iki plačiai išgaubtos, plačiai varpiškos arba beveik plokščios, dažnai su žemu buku gūbreliu. Paviršius lygus su neryškiais įaugusiais spinduliniais plaušeliais, drėgnas būna gleivėtas arba lipnus, džiūdamas tampa matinis arba blizgus; iš pradžių baltas arba dramblio kaulo spalvos, senstant ar paspaudus kartais pagelsta. Būdingai papuoštas ryškiai aukso geltonumo, citrinos geltonumo arba oranžiškai geltonais pūkuotais grūdeliais ar danteliškais žvyneliais, susitelkusiais ties kraštu ir kartais išsibarsčiusiais per centrą kaip bendrojo šydo liekanos, tačiau senstant šie plaušeliai gali išblukti arba būti nuplauti. Kalio hidroksidas (KOH) ant kepurėlės paviršiaus sukelia greitą ryškiai geltoną ar citrinos geltonumo reakciją.",
+      "hymenium": "Lakšteliai vaškiški, storoki, platūs, priaugę, šiek tiek nuaugę arba nuaugę kotu, tankūs arba apyrečiai, su dažnais trumpais lakšteliukais. Balti arba kreminiai, senstant kartais įgauna blyškiai gelsvą arba silpnai rausvai gelsvą atspalvį; lakštelių pakraščiai kartais būna taškuoti smulkiais geltonais grūdeliais, ypač jaunų vaisiakūnių. Bazidijos cilindriškai buožiškos, 35–55 × 5,5–7 µm, ketursporės su pamatinėmis sąsagomis; himenio cistidžių nėra, o lakštelių trama divergentinė.",
+      "stipe": "2,5–10 cm aukščio ir 0,3–1,5 cm storio, cilindriškas ir viršuje lygus, dažnai smailėjantis link pagrindo, pilnaviduris arba viduje purus, vatiškas. Baltas, blyškiai kreminis arba gelsvas, šviežias apatinėje dalyje gleivėtas arba lipnus, o ties viršūne tankiai taškuotas aukso geltonumo ar citrinos geltonumo grūdeliais, kurie kartais sudaro neryškią žiedinę zoną; nuo KOH paviršius tampa ryškiai geltonas.",
+      "flesh": "Minkšta, sultinga ir balta, kartais silpnai gelsva po kepurėlės luobele ir koto paviršiumi, perpjovus spalvos nekeičia, o nuo KOH tampa ryškiai geltona. Kvapas švelnus, grybiškas arba silpnai rūgštokai aromatingas (kartais lyginamas su vaisiais, karčiaisiais migdolais, sakais arba gluosninio medgręžio vikšru), o skonis švelnus, silpnai riešutiškas arba kartais šiek tiek kartokas.",
+      "sporePrint": "Baltas. Sporos 7–10 × 3,5–5 µm, elipsiškos arba verpstiškai elipsiškos, lygios, KOH tirpale bespalvės (hialininės), dažnai su riebalų lašeliais, neamiloidinės.",
+      "habitat": "Ektomikorizinis tiek su lapuočiais (ypač buku, Fagus, ir ąžuolu, Quercus), tiek su spygliuočiais (egle, Picea, kėniu, Abies, ir pušimi, Pinus); auga pavieniui, išsibarstęs arba nedidelėmis grupėmis šviežiuose ir drėgnuose, neutraliuose ir kalkinguose dirvožemiuose ant klinties ar mergelio, taip pat pakelėse palei žvyruotus miško takus, lapų paklotėje arba samanotose ir žolėtose aikštelėse, retai parkuose ar soduose. Vaisiakūnius daugiausia brandina nuo liepos iki lapkričio vidutinio klimato Europoje ir Šiaurės Amerikoje, o švelnesnio jūrinio klimato srityse ir vakarinėje Šiaurės Amerikoje – iki gruodžio ar žiemos vidurio.",
+      "uses": "Valgomas, tačiau paprastai laikomas prėsku, minkštos tramos ir menkos kulinarinės vertės, todėl dėl išsibarsčiusio arba vietomis reto augimo renkamas retai.",
+      "confusion": "Hygrophorus eburneus dažnai auga šalia panašiose bukų augavietėse, tačiau yra grynai baltas ar dramblio kaulo spalvos, neturi geltonų krašto grūdelių ir nuo KOH netampa ryškiai geltonas. Hygrophorus discoxanthus paprastai būna šiek tiek didesnis, neturi aukso geltonumo plaušelių, senstant jo lakšteliai ir kepurėlės kraštas dėmėjasi rusvai oranžine arba rūdžių ruda spalva, pasižymi stipresniu actą primenančiu ar nemaloniu kvapu ir laikomas nevalgomu. Hygrophorus cossus yra visiškai baltas, be geltonų grūdelių, ir skleidžia stiprų, aitrų gluosninio medgręžio vikšro kvapą. Senesnius egzempliorius, praradusius geltonuosius grūdelius, nuo kitų baltų Hygrophorus rūšių galima atskirti pagal greitą ryškiai geltoną KOH reakciją ant kepurėlės, koto ir tramos.",
+      "notes": "Aukso geltonumo grūdelių ryškumas skirtinguose vaisiakūniuose labai skiriasi ir mažėja dėl lietaus ar amžiaus, todėl ryškiai geltona KOH reakcija yra patikimiausias diagnostinis požymis apnykusiuose egzemplioriuose. Formos be geltonų grūdelių buvo išskirtos kaip Hygrophorus chrysodon var. leucodon, formos su kūno spalvos lakšteliais arba paraustančia trama – kaip var. incarnatum, o Viduržemio jūros regiono forma, susijusi su švitrūnų (Cistus) krūmais, – kaip var. cistophilus.",
+      "label": "geltonžvynė guotė",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Gelton%C5%BEvyn%C4%97_guot%C4%97",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "lv": {
+      "description": "Vidēja izmēra gļotaina ektomikorizas lapiņu sēne, kas aug pa vienai, izkliedēti vai grupās uz augsnes lapu koku, skuju koku un jauktos mežos, bieži kaļķainās augsnēs. Plaši izplatīta Ziemeļu puslodē: sastopama visā Eiropā no Lielbritānijas un Skandināvijas līdz Spānijai, Itālijai un Rumānijai, visā Ziemeļamerikā, kā arī Āzijas ziemeļos un austrumos, tostarp Austrumsibīrijā, Korejā un Japānā.",
+      "cap": "1,5–8 cm diametrā (retumis līdz 14 cm), jaunībā izliekta ar ieritinātu malu, vēlāk izplešas par plati izliektu, plati zvanveida vai gandrīz plakanu, bieži ar zemu, strupu izcilni. Virsma gluda ar vāji izteiktām ieaugušām radiālām šķiedriņām, mitrā laikā gļotaina vai lipīga, žūstot kļūst matēta līdz spīdīga; sākumā balta līdz ziloņkaula krāsā, ar vecumu vai iespiedumos reizēm dzeltē. Tai raksturīgi koši zeltaini dzelteni līdz citrondzelteni vai oranždzelteni pārslaini graudiņi vai zobiņveida zvīņas, kas sakopotas gar malu un reizēm izkaisītas pa vidu kā vispārējā plīvura paliekas, lai gan ar vecumu šīs pārslas var izbalēt vai tikt noskalotas. Kālija hidroksīds (KOH) uz cepurītes virsmas izraisa tūlītēju koši dzeltenu līdz citrondzeltenu reakciju.",
+      "hymenium": "Vaskainas, pabiezas, platas, pieaugušas līdz nedaudz nolaidenas vai nolaidenas lapiņas, ciešas līdz vidēji retas ar biežām īslapiņām. Baltas līdz krēmkrāsas, ar vecumu reizēm iegūst bāli dzeltenīgu vai viegli sārtidzeltenu nokrāsu; lapiņu šķautnes reizēm ir nosētas ar smalkiem dzelteniem graudiņiem, īpaši jauniem augļķermeņiem. Bazīdijas cilindriski vālesveida, 35–55 × 5,5–7 µm, četrsporu ar pamatnes skavām; himēnija cistīdu nav, un lapiņu trama ir divergenta.",
+      "stipe": "2,5–10 cm garš un 0,3–1,5 cm resns, cilindrisks un augšdaļā vienāda resnuma, bieži sašaurinās pret pamatu, blīvs vai iekšpusē irdeni vatesveidīgs. Balts līdz bāli krēmkrāsas vai dzeltenīgs, svaigā stāvoklī apakšdaļā gļotains līdz lipīgs un pie augšgala blīvi nosēts ar zeltaini dzelteniem līdz citrondzelteniem graudiņiem, kas reizēm veido neskaidru gredzena joslu; virsma KOH ietekmē kļūst koši dzeltena.",
+      "flesh": "Mīksts, sulīgs un balts, reizēm viegli dzeltenīgs zem cepurītes virsmiziņas un kātiņa virsmas, griezumā krāsu nemaina un KOH ietekmē kļūst koši dzeltens. Smarža maiga, sēnēm raksturīga vai vāji skābeni aromātiska (reizēm salīdzināta ar augļiem, rūgtajām mandelēm, sveķiem vai vītolu koksngrauža kāpuru), bet garša maiga, viegli riekstaina vai reizēm nedaudz rūgtena.",
+      "sporePrint": "Balts. Sporas 7–10 × 3,5–5 µm, elipsoīdas līdz vārpstveida-elipsoīdas, gludas, KOH šķīdumā bezkrāsainas (hialīnas), bieži ar eļļas pilieniem, neamiloīdas.",
+      "habitat": "Ektomikorizas veidotājs gan ar lapu kokiem (īpaši dižskābardi, Fagus, un ozolu, Quercus), gan skuju kokiem (egli, Picea, baltegli, Abies, un priedi, Pinus); aug pa vienai, izkliedēti vai nelielās grupās svaigās līdz mitrās, neitrālās līdz kaļķainās augsnēs uz kaļķakmens vai merģeļa, kā arī gar grantētiem meža ceļiem, lapu nobirās vai sūnainos un zāļainos laukumos, reti parkos vai dārzos. Augļķermeņus galvenokārt veido no jūlija līdz novembrim mērenajā Eiropā un Ziemeļamerikā, maigākā okeāniskā klimatā un Ziemeļamerikas rietumos – līdz decembrim vai ziemas vidum.",
+      "uses": "Ēdama, taču parasti tiek uzskatīta par bezgaršīgu, mīkstu un ar nelielu kulināru vērtību, un izkliedētās vai vietām retās sastopamības dēļ tiek vākta reti.",
+      "confusion": "Hygrophorus eburneus bieži aug līdzās līdzīgos dižskābaržu biotopos, taču ir pilnībā tīri ziloņkaula balta, bez dzelteniem malas graudiņiem un KOH ietekmē nekļūst koši dzeltena. Hygrophorus discoxanthus parasti ir nedaudz lielāka, bez zeltaini dzeltenām pārslām, ar vecumu uz lapiņām un cepurītes malas iegūst brūngani oranžus līdz rūsas brūnus plankumus, tai ir stiprāka etiķim līdzīga vai nepatīkama smarža, un tā tiek uzskatīta par neēdamu. Hygrophorus cossus ir pilnībā balta bez dzelteniem graudiņiem un izdala stipru, asu vītolu koksngrauža kāpura smaržu. Vecākus eksemplārus, kas zaudējuši dzeltenos graudiņus, no citām baltajām Hygrophorus sugām var atšķirt pēc tūlītējas koši dzeltenas KOH reakcijas uz cepurītes, kātiņa un mīkstuma.",
+      "notes": "Zeltaini dzelteno graudiņu izteiktība dažādiem augļķermeņiem ievērojami atšķiras un lietus vai vecuma ietekmē samazinās, tādēļ koši dzeltenā KOH reakcija ir visuzticamākā diagnostiskā pazīme nolietotos eksemplāros. Formas bez dzeltenajiem graudiņiem aplūkotas kā Hygrophorus chrysodon var. leucodon, formas ar miesas krāsas lapiņām vai sārtojošu mīkstumu – kā var. incarnatum, bet Vidusjūras forma, kas saistīta ar cistu (Cistus) krūmiem, – kā var. cistophilus.",
+      "label": "zeltpārslu gliemezene",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "nl": {
+      "description": "Een middelgrote, slijmerige, ectomycorrhizavormende plaatjeszwam die solitair, verspreid of in groepen op de bodem groeit in loof-, naald- en gemengde bossen, vaak op kalkrijke grond. De soort is wijdverspreid over het noordelijk halfrond en komt in heel Europa voor van Groot-Brittannië en Scandinavië tot Spanje, Italië en Roemenië, in heel Noord-Amerika en in Noord- en Oost-Azië, waaronder Oost-Siberië, Korea en Japan.",
+      "cap": "1,5–8 cm breed (soms tot 14 cm), jong gewelfd met een ingerolde rand, later uitspreidend tot breed gewelfd, breed klokvormig of vrijwel vlak, vaak met een lage, stompe bult. Het oppervlak is glad met zwakke ingegroeide radiale vezeltjes, bij vochtig weer slijmerig of kleverig en bij droogte mat tot glanzend; aanvankelijk wit tot ivoorwit, soms vergelend met de leeftijd of bij beschadiging. Kenmerkend zijn de helder goudgele tot citroen- of oranjegele, vlokkige korreltjes of tandachtige schubjes van het algemene velum langs de hoedrand en soms verspreid over het midden, al kunnen deze vlokjes met de leeftijd verbleken of wegregenen. Kaliumhydroxide (KOH) geeft op het hoedoppervlak direct een heldergele tot citroengele reactie.",
+      "hymenium": "Wasachtige, vrij dikke, brede, aangehechte tot iets aflopende of aflopende plaatjes, dicht opeen tot vrij wijd uiteenstaand met veel korte tussenplaatjes. Wit tot crèmekleurig, soms met een bleekgele of zwak rozegele zweem bij oudere exemplaren; de sneden zijn vooral bij jonge vruchtlichamen soms bezet met fijne gele vlokjes. De basidiën zijn cilindrisch-knotsvormig, 35–55 × 5,5–7 µm, viersporig en met gespen aan de basis; hymeniale cystiden ontbreken en de lamellentrama is divergent.",
+      "stipe": "2,5–10 cm lang en 0,3–1,5 cm dik, cilindrisch en bovenaan gelijkdik, naar de voet vaak versmald, vol of wollig gevuld. Wit tot bleek crèmekleurig of gelig, vers slijmerig tot kleverig op het onderste deel en nabij de top dicht bezet met goudgele tot citroengele korreltjes die soms een onduidelijke ringzone vormen; het oppervlak kleurt heldergeel met KOH.",
+      "flesh": "Zacht, sappig en wit, soms zwak gelig onder de hoedhuid en het steeloppervlak, niet verkleurend bij doorsnijden en heldergeel verkleurend met KOH. De geur is mild, paddenstoelachtig of zwak zurig-aromatisch (soms vergeleken met fruit, bittere amandelen, hars of de wilgenhoutrups), en de smaak is mild, zwak nootachtig of soms licht bitter.",
+      "sporePrint": "Wit. De sporen meten 7–10 × 3,5–5 µm, zijn ellipsoïde tot spoelvormig-ellipsoïde, glad, hyalien in KOH, bevatten vaak oliedruppels en zijn inamyloïde.",
+      "habitat": "Ectomycorrhizavormend bij zowel loofbomen (vooral beuk, Fagus, en eik, Quercus) als naaldbomen (spar, Picea, zilverspar, Abies, en den, Pinus), solitair, verspreid of in kleine groepjes op frisse tot vochtige, neutrale tot kalkrijke bodems op kalksteen of mergel, evenals langs grindpaden in bossen, in bladafval of op bemoste en grazige open plekken, zelden in parken of tuinen. De paddenstoel verschijnt voornamelijk van juli tot november in gematigd Europa en Noord-Amerika, en tot in december of midden in de winter in mildere zeeklimaten en het westen van Noord-Amerika.",
+      "uses": "Eetbaar, maar doorgaans beschouwd als flauw, zachtvlezig en van geringe culinaire waarde, en zelden verzameld vanwege het verspreide of lokaal schaarse voorkomen.",
+      "confusion": "Hygrophorus eburneus groeit vaak samen met deze soort op vergelijkbare beukenstandplaatsen, maar is geheel zuiver ivoorwit, mist gele randvlokjes en kleurt niet heldergeel met KOH. Hygrophorus discoxanthus is meestal iets groter, mist goudgele vlokjes, verkleurt met de leeftijd bruinoranje tot roestbruin op de plaatjes en de hoedrand, heeft een sterkere azijnachtige of onaangename geur en geldt als niet eetbaar. Hygrophorus cossus is geheel wit zonder gele vlokjes en verspreidt een sterke, indringende geur van wilgenhoutrupsen. Oudere exemplaren die hun gele korreltjes zijn kwijtgeraakt, zijn van andere witte Hygrophorus-soorten te onderscheiden door de onmiddellijke heldergele KOH-reactie op de hoed, steel en in het vlees.",
+      "notes": "De dichtheid van de goudgele vlokjes varieert sterk tussen vruchtlichamen en neemt af door regen of ouderdom, waardoor de heldergele KOH-reactie bij verweerde exemplaren het betrouwbaarste determinatiekenmerk is. Vormen zonder gele vlokjes zijn onderscheiden als Hygrophorus chrysodon var. leucodon, vormen met vleeskleurige plaatjes of roodachtig verkleurend vlees als var. incarnatum, en een mediterrane vorm bij Cistus-struiken als var. cistophilus.",
+      "label": "goudgerande slijmkop",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "no": {
+      "description": "En middels stor, slimet, ektomykorrhizadannende skivesopp som vokser enkeltvis, spredt eller i grupper på bakken i løv-, bar- og blandingsskog, ofte på kalkrik grunn. Den er vidt utbredt på den nordlige halvkule og forekommer i hele Europa fra Storbritannia og Skandinavia til Spania, Italia og Romania, over hele Nord-Amerika samt i Nord- og Øst-Asia, inkludert Øst-Sibir, Korea og Japan.",
+      "cap": "1,5–8 cm bred (av og til opptil 14 cm), hvelvet som ung med innrullet kant, senere bredt hvelvet, bredt klokkeformet eller nesten flat, ofte med en lav, butt pukkel. Overflaten er glatt med svake innvokste radielle fibre, slimet eller klebrig i fuktig vær og tørker matt til glinsende; først hvit til elfenbenshvit, av og til gulnende med alderen eller ved trykk. Den er karakteristisk utstyrt med klart gullgule til sitron- eller oransjegule, fnokkete korn eller tannlignende skjell fra det ytre hyllet, konsentrert langs kanten og av og til spredt over midten, selv om disse fnokkene kan blekne eller vaskes bort med alderen. Kaliumhydroksid (KOH) gir umiddelbart en klart gul til sitrongul reaksjon på hattoverflaten.",
+      "hymenium": "Voksaktige, ganske tykke, brede, tilvokste til svakt eller tydelig nedløpende skiver, tette til noe fjerne med rikelige korte mellomskiver. Hvite til kremfargede, av og til med et blekgulaktig eller svakt rosagult skjær med alderen; skiveeggene er av og til prikket med fine gule fnokk, særlig hos unge fruktlegemer. Basidiene er sylindrisk-kølleformede, 35–55 × 5,5–7 µm, firesporede med basale bøyler; hymeniale cystider mangler, og skivetramaen er divergent.",
+      "stipe": "2,5–10 cm høy og 0,3–1,5 cm tykk, sylindrisk og jevntykk øverst, ofte avsmalnende mot basis, kompakt eller ullent fylt inni. Hvit til blek kremfarget eller gulaktig, fersk slimet til klebrig på den nedre delen og tett besatt nær toppen med gullgule til sitrongule korn som av og til danner en utydelig ringsone; overflaten blir klart gul med KOH.",
+      "flesh": "Mykt, saftig og hvitt, av og til svakt gulaktig under hatthuden og stilkoverflaten, uforanderlig ved gjennomskjæring og klart gult med KOH. Lukten er mild, soppaktig eller svakt syrlig-aromatisk (av og til sammenlignet med frukt, bittermandel, harpiks eller larven av løvtredreper), og smaken er mild, svakt nøtteaktig eller av og til lett bitter.",
+      "sporePrint": "Hvitt. Sporene måler 7–10 × 3,5–5 µm, er ellipsoide til spoleformet-ellipsoide, glatte, hyaline i KOH, inneholder ofte oljedråper og er inamyloide.",
+      "habitat": "Ektomykorrhizadannende med både løvtrær (særlig bøk, Fagus, og eik, Quercus) og bartrær (gran, Picea, edelgran, Abies, og furu, Pinus), voksende enkeltvis, spredt eller i små grupper på frisk til fuktig, nøytral til kalkrik jord over kalkstein eller mergel, samt langs grusede skogsveier, i løvstrø eller i mose- og gresskledde lysninger, sjelden i parker eller hager. Den danner fruktlegemer hovedsakelig fra juli til november i tempererte deler av Europa og Nord-Amerika, og inn i desember eller midtvinters i mildere oseaniske klimaer og vestlige Nord-Amerika.",
+      "uses": "Spiselig, men regnes vanligvis som smakløs, mykkjøttet og av liten kulinarisk verdi, og samles sjelden på grunn av sin spredte eller lokalt sjeldne forekomst.",
+      "confusion": "Hygrophorus eburneus vokser ofte sammen med den i lignende bøkemiljøer, men er rent elfenbenshvit tvers igjennom, mangler gule kantfnokk og blir ikke klart gul med KOH. Hygrophorus discoxanthus er vanligvis litt større, mangler gullgule fnokk, anløper brunoransje til rustbrun på skivene og hattkanten med alderen, har en sterkere eddiklignende eller ubehagelig lukt og regnes ikke som matsopp. Hygrophorus cossus er helt hvit uten gule fnokk og avgir en sterk, stikkende lukt av larver av løvtredreper. Eldre eksemplarer som har mistet sine gule korn, kan skilles fra andre hvite Hygrophorus-arter på den umiddelbare klart gule KOH-reaksjonen på hatt, stilk og kjøtt.",
+      "notes": "Mengden gullgule fnokk varierer betydelig mellom fruktlegemer og avtar med regn eller alder, noe som gjør den klart gule KOH-reaksjonen til det sikreste kjennetegnet hos værbitte eksemplarer. Former uten gule fnokk er blitt behandlet som Hygrophorus chrysodon var. leucodon, former med kjøttfargede skiver eller rødlig misfarging i kjøttet som var. incarnatum, og en middelhavsform knyttet til Cistus-busker som var. cistophilus.",
+      "label": "gullrandvokssopp",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "pl": {
+      "description": "Średniej wielkości, lepki grzyb ektomikoryzowy o hymenoforze blaszkowym, owocujący pojedynczo, w rozproszeniu lub gromadnie na glebie w lasach liściastych, iglastych i mieszanych, często na podłożu wapiennym. Szeroko rozpowszechniony na półkuli północnej: występuje w całej Europie od Wielkiej Brytanii i Skandynawii po Hiszpanię, Włochy i Rumunię, w całej Ameryce Północnej oraz w północnej i wschodniej Azji, w tym na wschodniej Syberii, w Korei i Japonii.",
+      "cap": "Średnicy 1,5–8 cm (wyjątkowo do 14 cm), za młodu wypukły z podwiniętym brzegiem, później szeroko wypukły, szeroko dzwonkowaty lub niemal płaski, często z niskim, tępym garbkiem. Powierzchnia gładka z delikatnymi, wrośniętymi promienistymi włókienkami, w stanie wilgotnym śluzowata lub lepka, po wyschnięciu matowa do błyszczącej; początkowo biała do kremowobiałej (barwy kości słoniowej), z wiekiem lub po uciśnięciu niekiedy żółknąca. Charakterystycznie ozdobiona jaskrawo złocistożółtymi do cytrynowo- lub pomarańczowożółtych kłaczkowatymi ziarenkami albo ząbkowatymi łuseczkami, skupionymi przy brzegu, a czasem rozproszonymi na środku kapelusza jako pozostałości osłony całkowitej, choć łuseczki te mogą blaknąć lub ulegać zmyciu z wiekiem. Wodorotlenek potasu (KOH) wywołuje na powierzchni kapelusza natychmiastową jaskrawożółtą do cytrynowożółtej reakcję.",
+      "hymenium": "Blaszki woskowate, dość grube, szerokie, przyrośnięte do lekko zbiegających lub zbiegające, gęste do nieco rzadkich, z licznymi krótkimi blaszeczkami. Białe do kremowych, z wiekiem niekiedy przybierające bladożółtawy lub słabo różowawożółty odcień; ostrza blaszek bywają miejscami pokryte drobnymi żółtymi kłaczkami, zwłaszcza u młodych owocników. Podstawki cylindryczno-maczugowate, 35–55 × 5,5–7 µm, czterozarodnikowe ze sprzążkami u podstawy; cystyd hymenialnych brak, a trama blaszek jest rozbieżna (dywergentna).",
+      "stipe": "Wysokości 2,5–10 cm i grubości 0,3–1,5 cm, cylindryczny i równy w górnej części, często zwężający się ku podstawie, wewnątrz pełny lub watowato wypełniony. Biały do bladokremowego lub żółtawego, za świeża w dolnej części śluzowaty do lepkiego, a w pobliżu szczytu gęsto pokryty złocistożółtymi do cytrynowożółtych ziarenkami, które czasem tworzą niewyraźną strefę pierścieniową; powierzchnia w reakcji z KOH barwi się na jaskrawożółto.",
+      "flesh": "Miękki, soczysty i biały, pod skórką kapelusza i powierzchnią trzonu niekiedy lekko żółtawy, niezmienny po przekrojeniu i barwiący się na jaskrawożółto pod wpływem KOH. Zapach łagodny, grzybowy lub lekko kwaskowato-aromatyczny (czasem porównywany do owoców, gorzkich migdałów, żywicy lub gąsienicy trociniarki), a smak łagodny, lekko orzechowy lub sporadycznie nieco gorzkawy.",
+      "sporePrint": "Biały. Zarodniki o wymiarach 7–10 × 3,5–5 µm, elipsoidalne do wrzecionowato-elipsoidalnych, gładkie, bezbarwne (hialinowe) w KOH, często z kroplami tłuszczu, nieamyloidalne.",
+      "habitat": "Grzyb ektomikoryzowy związany zarówno z drzewami liściastymi (zwłaszcza bukiem, Fagus, i dębem, Quercus), jak i iglastymi (świerkiem, Picea, jodłą, Abies, i sosną, Pinus); owocuje pojedynczo, w rozproszeniu lub w niewielkich grupach na świeżych do wilgotnych, obojętnych do wapiennych glebach na wapieniach lub marglach, a także wzdłuż żwirowych dróg leśnych, w ściółce liściastej oraz na mszystych i trawiastych polanach, rzadko w parkach lub ogrodach. Owocuje głównie od lipca do listopada w umiarkowanej strefie Europy i Ameryki Północnej, a w łagodniejszym klimacie oceanicznym oraz w zachodniej Ameryce Północnej nawet do grudnia lub połowy zimy.",
+      "uses": "Jadalny, choć na ogół uznawany za mało wyrazisty w smaku, o miękkim miąższu i niewielkiej wartości kulinarnej; rzadko zbierany ze względu na rozproszone lub lokalnie nieliczne występowanie.",
+      "confusion": "Wodnicha biała (Hygrophorus eburneus) często owocuje razem z nim w podobnych siedliskach bukowych, ale jest w całości czysto biała (barwy kości słoniowej), pozbawiona żółtych kłaczków na brzegu i nie barwi się na jaskrawożółto pod wpływem KOH. Wodnicha żółtobrzega (Hygrophorus discoxanthus) jest zazwyczaj nieco większa, nie ma złocistożółtych kłaczków, z wiekiem przebarwia się brązowopomarańczowo do rdzawobrązowo na blaszkach i brzegu kapelusza, ma silniejszy octowy lub nieprzyjemny zapach i uznawana jest za niejadalną. Wodnicha pachnąca (Hygrophorus cossus) jest całkowicie biała bez żółtych kłaczków i wydziela silny, przenikliwy zapach gąsienic trociniarki. Starsze owocniki, które utraciły żółte ziarenka, można odróżnić od innych białych gatunków z rodzaju Hygrophorus po natychmiastowej jaskrawożółtej reakcji z KOH na kapeluszu, trzonie i miąższu.",
+      "notes": "Nasilenie złocistożółtych kłaczków znacznie się różni u poszczególnych owocników i słabnie wskutek deszczu lub starzenia, dlatego u zwietrzałych okazów najbardziej niezawodną cechą rozpoznawczą jest jaskrawożółta reakcja z KOH. Formy pozbawione żółtych kłaczków opisywano jako Hygrophorus chrysodon var. leucodon, formy o blaszkach barwy cielistej lub czerwieniejącym miąższu jako var. incarnatum, a śródziemnomorską formę związaną z krzewami czystka (Cistus) jako var. cistophilus.",
+      "label": "wodnicha złocista",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Wodnicha_z%C5%82ocista",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "pt": {
+      "description": "Cogumelo agaricoide viscoso e ectomicorrízico de tamanho médio, que frutifica isolado, disperso ou gregário no solo em florestas de folhosas, de coníferas e mistas, frequentemente em terrenos calcários. Amplamente distribuído pelo hemisfério norte, ocorre por toda a Europa, desde a Grã-Bretanha e a Escandinávia até Espanha, Itália e Roménia, por toda a América do Norte e no norte e leste da Ásia, incluindo a Sibéria oriental, a Coreia e o Japão.",
+      "cap": "1,5–8 cm de diâmetro (ocasionalmente até 14 cm), convexo quando jovem com margem enrolada, que se abre para amplamente convexo, amplamente campanulado ou quase plano, frequentemente com um umbo baixo e obtuso. A superfície é lisa com ténues fibrilhas radiais inatas, viscosa ou glutinosa quando húmida e de aspeto mate a brilhante ao secar; branca a marfim de início, por vezes amarelecendo com a idade ou ao toque. É caracteristicamente adornada por grânulos floconosos ou escamas dentiformes de cor amarelo-dourado vivo a amarelo-limão ou amarelo-alaranjado, concentrados ao longo da margem e ocasionalmente dispersos pelo disco como restos do véu universal, embora estes flocos possam desvanecer-se ou ser lavados pela chuva com a idade. O hidróxido de potássio (KOH) produz uma reação imediata amarelo-vivo a amarelo-limão na superfície do chapéu.",
+      "hymenium": "Lâminas cerosas, algo espessas, largas, adnatas a subdecorrentes ou decorrentes, apertadas a algo espaçadas, com frequentes lamélulas curtas. Brancas a creme, adquirindo por vezes um reflexo amarelado pálido ou ligeiramente amarelo-rosado com a idade; a aresta das lâminas apresenta ocasionalmente pequenos flocos amarelos, sobretudo nos carpóforos jovens. Os basídios são cilíndrico-claviformes, de 35–55 × 5,5–7 µm, tetraspóricos com fíbulas basais; os cistídios himeniais estão ausentes e a trama lamelar é divergente.",
+      "stipe": "2,5–10 cm de altura e 0,3–1,5 cm de espessura, cilíndrico e regular na parte superior, frequentemente atenuado para a base, maciço ou cheio-algodonoso no interior. Branco a creme pálido ou amarelado, viscoso a glutinoso na porção inferior quando fresco e densamente pontuado junto ao ápice de grânulos amarelo-dourado a amarelo-limão que por vezes formam uma zona anelar indistinta; a superfície torna-se amarelo-vivo com KOH.",
+      "flesh": "Mole, suculenta e branca, por vezes ligeiramente amarelada sob a cutícula do chapéu e a superfície do estipe, imutável ao corte e virando a amarelo-vivo com KOH. O odor é suave, fúngico ou fracamente acidulado-aromático (ocasionalmente comparado a fruta, amêndoas amargas, resina ou à lagarta da traça-da-madeira), e o sabor é suave, ligeiramente a noz ou ocasionalmente um pouco amargo.",
+      "sporePrint": "Branca. Os esporos medem 7–10 × 3,5–5 µm, são elipsoidais a fusiforme-elipsoidais, lisos, hialinos em KOH, frequentemente com gotículas oleosas e inamiloides.",
+      "habitat": "Ectomicorrízico tanto com folhosas (em especial faia, Fagus, e carvalho, Quercus) como com coníferas (espruce, Picea, abeto, Abies, e pinheiro, Pinus), frutificando isolado, disperso ou em pequenos grupos em solos frescos a húmidos, neutros a calcários, sobre calcário ou marga, bem como ao longo de caminhos florestais com gravilha, na folhada ou em clareiras musgosas e herbosas, raramente em parques ou jardins. Frutifica sobretudo de julho a novembro na Europa temperada e na América do Norte, prolongando-se até dezembro ou meados do inverno em climas oceânicos mais amenos e no oeste da América do Norte.",
+      "uses": "Comestível, embora geralmente considerado insípido, de carne mole e de reduzido valor culinário, sendo raramente colhido devido à sua ocorrência dispersa ou localmente pouco comum.",
+      "confusion": "Hygrophorus eburneus frutifica muitas vezes a seu lado em faiais semelhantes, mas é inteiramente branco-marfim puro, carece de flocos marginais amarelos e não vira a amarelo-vivo com KOH. Hygrophorus discoxanthus é habitualmente um pouco maior, carece de flocos amarelo-dourado, mancha-se de castanho-alaranjado a castanho-ferrugíneo nas lâminas e na margem do chapéu com a idade, tem um odor mais forte, avinagrado ou desagradável, e é considerado não comestível. Hygrophorus cossus é totalmente branco, sem flocos amarelos, e liberta um odor forte e penetrante a lagarta da traça-da-madeira. Os exemplares velhos que perderam os grânulos amarelos distinguem-se de outras espécies brancas de Hygrophorus pela reação imediata amarelo-vivo ao KOH no chapéu, no estipe e na carne.",
+      "notes": "A intensidade dos flocos amarelo-dourado varia consideravelmente entre carpóforos e diminui com a chuva ou com a idade, tornando a reação amarelo-vivo ao KOH o caráter diagnóstico mais fiável em exemplares degradados. As formas sem flocos amarelos têm sido tratadas como Hygrophorus chrysodon var. leucodon, as formas com lâminas cor de carne ou carne que se mancha de avermelhado como var. incarnatum, e uma forma mediterrânica associada a estevas (Cistus) como var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Ciupercă agaricoidă vâscoasă și ectomicorizică de talie medie, care fructifică solitar, dispersat sau gregar pe sol în păduri de foioase, de conifere și mixte, adesea pe terenuri calcaroase. Larg răspândită în emisfera nordică, apare în întreaga Europă, din Marea Britanie și Scandinavia până în Spania, Italia și România, în America de Nord, precum și în nordul și estul Asiei, inclusiv în Siberia orientală, Coreea și Japonia.",
+      "cap": "1,5–8 cm în diametru (ocazional până la 14 cm), convex în tinerețe cu marginea răsfrântă spre interior, deschizându-se apoi până la larg convex, larg campanulat sau aproape plat, adesea cu un gheb jos și obtuz. Suprafața este netedă cu fibrile radiale fine, încorporate, mucilaginoasă sau vâscoasă pe vreme umedă și mată până la lucioasă la uscare; inițial albă până la fildeșie, îngălbenindu-se uneori cu vârsta sau la atingere. Este împodobită caracteristic cu granule flocoase sau solzișori dințați de culoare galben-auriu viu până la galben-lămâie sau galben-portocaliu, concentrați de-a lungul marginii și ocazional presărați pe disc ca resturi ale vălului universal, deși acești fulgi se pot decolora sau spăla cu vârsta. Hidroxidul de potasiu (KOH) produce o reacție imediată galben viu până la galben-lămâie pe suprafața pălăriei.",
+      "hymenium": "Lamele ceroase, destul de groase, late, adnate până la subdecurente sau decurente, dese până la moderat distanțate, cu numeroase lamelule scurte. Albe până la crem, căpătând uneori o nuanță gălbuie palidă sau ușor galben-rozalie cu vârsta; muchia lamelelor este ocazional punctată cu fulgi galbeni fini, mai ales la corpurile fructifere tinere. Bazidiile sunt cilindric-clavate, de 35–55 × 5,5–7 µm, tetrasporice cu catarame bazale; cistidele himeniale lipsesc, iar trama lamelară este divergentă.",
+      "stipe": "2,5–10 cm înălțime și 0,3–1,5 cm grosime, cilindric și egal în partea superioară, adesea subțiat spre bază, plin sau umplut-lânos la interior. Alb până la crem palid sau gălbui, mucilaginos până la vâscos în partea inferioară în stare proaspătă și dens punctat spre vârf cu granule galben-auriu până la galben-lămâie care formează uneori o zonă inelară neclară; suprafața virează în galben viu cu KOH.",
+      "flesh": "Moale, suculentă și albă, uneori slab gălbuie sub cuticula pălăriei și suprafața piciorului, neschimbătoare la tăiere și virând în galben viu cu KOH. Mirosul este slab, fungic sau ușor acrișor-aromat (asemănat ocazional cu fructele, migdalele amare, rășina sau omida sfredelitorului tulpinilor), iar gustul este blând, ușor de nucă sau ocazional puțin amar.",
+      "sporePrint": "Albă. Sporii au 7–10 × 3,5–5 µm, sunt elipsoidali până la fusiform-elipsoidali, netezi, hialini în KOH, adesea cu picături de ulei și neamiloizi.",
+      "habitat": "Ectomicorizică atât cu foioase (în special fag, Fagus, și stejar, Quercus), cât și cu conifere (molid, Picea, brad, Abies, și pin, Pinus), fructificând solitar, dispersat sau în grupuri mici pe soluri reavene până la umede, neutre până la calcaroase, pe calcar sau marnă, precum și de-a lungul drumurilor forestiere pietruite, în litiera de frunze ori în poieni cu mușchi și iarbă, rar în parcuri sau grădini. Fructifică în principal din iulie până în noiembrie în Europa temperată și America de Nord, prelungindu-se până în decembrie sau mijlocul iernii în climatele oceanice mai blânde și în vestul Americii de Nord.",
+      "uses": "Comestibilă, deși în general considerată fadă, cu carne moale și valoare culinară redusă, fiind rar culeasă din cauza apariției sale dispersate sau local puțin frecvente.",
+      "confusion": "Hygrophorus eburneus fructifică adesea alături de ea în făgete asemănătoare, dar este în întregime alb-fildeșiu pur, nu are fulgi marginali galbeni și nu virează în galben viu cu KOH. Hygrophorus discoxanthus este de obicei puțin mai mare, nu are fulgi galben-aurii, se pătează brun-portocaliu până la brun-ruginiu pe lamele și pe marginea pălăriei cu vârsta, are un miros mai puternic, oțetit sau neplăcut, și este considerată necomestibilă. Hygrophorus cossus este complet albă, fără fulgi galbeni, și emană un miros puternic, pătrunzător, de omidă a sfredelitorului tulpinilor. Exemplarele bătrâne care și-au pierdut granulele galbene pot fi deosebite de alte specii albe de Hygrophorus prin reacția imediată galben viu la KOH pe pălărie, picior și carne.",
+      "notes": "Intensitatea fulgilor galben-aurii variază considerabil între corpurile fructifere și scade sub acțiunea ploii sau a vârstei, făcând din reacția galben viu la KOH cel mai sigur caracter diagnostic la exemplarele degradate. Formele lipsite de fulgi galbeni au fost tratate drept Hygrophorus chrysodon var. leucodon, formele cu lamele de culoarea cărnii sau cu carne care se pătează roșiatic drept var. incarnatum, iar o formă mediteraneană asociată cu arbuști de Cistus drept var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Средних размеров слизистый эктомикоризный пластинчатый гриб, плодоносящий одиночно, рассеянно или группами на почве в лиственных, хвойных и смешанных лесах, часто на известковых грунтах. Широко распространен в Северном полушарии: встречается по всей Европе от Великобритании и Скандинавии до Испании, Италии и Румынии, по всей Северной Америке, а также в Северной и Восточной Азии, включая Восточную Сибирь, Корею и Японию.",
+      "cap": "Диаметром 1,5–8 см (изредка до 14 см), в молодости выпуклая с подвернутым краем, затем раскрывается до широковыпуклой, ширококолокольчатой или почти плоской, часто с низким тупым бугорком. Поверхность гладкая со слабыми вросшими радиальными волокнами, во влажную погоду слизистая или клейкая, при подсыхании матовая до блестящей; сначала белая или цвета слоновой кости, с возрастом или при повреждении иногда желтеет. Характерно украшена ярко-золотисто-желтыми, лимонно-желтыми или оранжево-желтыми хлопьевидными крупинками или зубовидными чешуйками — остатками общего покрывала, сосредоточенными вдоль края и изредка разбросанными по центру, хотя с возрастом эти хлопья могут выцветать или смываться дождем. Гидроксид калия (KOH) вызывает на поверхности шляпки мгновенную ярко-желтую или лимонно-желтую реакцию.",
+      "hymenium": "Пластинки восковатые, довольно толстые, широкие, приросшие до слабонисходящих или нисходящих, частые до довольно редких, с многочисленными короткими пластиночками. Белые или кремовые, с возрастом иногда приобретают бледно-желтоватый или слабый розовато-желтый оттенок; края пластинок, особенно у молодых плодовых тел, изредка усеяны мелкими желтыми хлопьями. Базидии цилиндрически-булавовидные, 35–55 × 5,5–7 мкм, четырехспоровые, с пряжкой у основания; гимениальные цистиды отсутствуют, трама пластинок дивергентная.",
+      "stipe": "Высотой 2,5–10 см и толщиной 0,3–1,5 см, цилиндрическая и ровная в верхней части, часто сужающаяся к основанию, плотная или с ватообразной сердцевиной. Белая до бледно-кремовой или желтоватой, в свежем состоянии слизистая или клейкая в нижней части и густо покрытая у вершины золотисто-желтыми до лимонно-желтых крупинками, которые иногда образуют нечеткую кольцевидную зону; от KOH поверхность окрашивается в ярко-желтый цвет.",
+      "flesh": "Мягкая, сочная, белая, иногда со слабым желтоватым оттенком под кожицей шляпки и поверхностью ножки, на срезе цвет не меняет, но от KOH становится ярко-желтой. Запах слабый, грибной или слегка кисловато-ароматный (иногда его сравнивают с фруктовым, горькоминдальным, смолистым или с запахом гусеницы пахучего древоточца), вкус мягкий, слегка ореховый, изредка чуть горьковатый.",
+      "sporePrint": "Белый. Споры 7–10 × 3,5–5 мкм, эллипсоидные до веретеновидно-эллипсоидных, гладкие, бесцветные в KOH, часто с каплями масла, неамилоидные.",
+      "habitat": "Образует эктомикоризу как с лиственными деревьями (особенно с буком, Fagus, и дубом, Quercus), так и с хвойными (ель, Picea, пихта, Abies, и сосна, Pinus). Плодоносит одиночно, рассеянно или небольшими группами на свежих и влажных нейтральных или известковых почвах над известняком и мергелем, а также вдоль гравийных лесных дорог, в листовом опаде, на мшистых и травянистых полянах, редко в парках и садах. Плодоносит преимущественно с июля по ноябрь в умеренной зоне Европы и Северной Америки, а в более мягком океаническом климате и на западе Северной Америки — вплоть до декабря или середины зимы.",
+      "uses": "Съедобный гриб, однако обычно считается пресным, с мягкой мякотью и невысокой кулинарной ценностью; его редко собирают также из-за рассеянного и местами нечастого распространения.",
+      "confusion": "Hygrophorus eburneus часто плодоносит рядом в схожих буковых лесах, но он целиком чисто-белый цвета слоновой кости, лишен желтых хлопьев по краю шляпки и не дает ярко-желтой реакции с KOH. Hygrophorus discoxanthus обычно немного крупнее, не имеет золотисто-желтых хлопьев, с возрастом окрашивается на пластинках и по краю шляпки в коричневато-оранжевый до ржаво-бурого цвет, обладает более сильным уксусным или неприятным запахом и считается несъедобным. Hygrophorus cossus полностью белый без желтых хлопьев и издает сильный резкий запах гусениц пахучего древоточца. Старые экземпляры, утратившие желтые крупинки, можно отличить от других белых видов Hygrophorus по мгновенному ярко-желтому окрашиванию шляпки, ножки и мякоти под действием KOH.",
+      "notes": "Выраженность золотисто-желтых хлопьев сильно варьирует у разных плодовых тел и уменьшается после дождей или с возрастом, поэтому ярко-желтая реакция с KOH служит наиболее надежным диагностическим признаком у старых или выветренных экземпляров. Формы без желтых хлопьев рассматривались как Hygrophorus chrysodon var. leucodon, формы с телесно-розоватыми пластинками или краснеющей мякотью — как var. incarnatum, а средиземноморская форма, связанная с кустарниками рода Cistus, — как var. cistophilus.",
+      "label": "гигрофор золотистозубчатый",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "sl": {
+      "description": "Srednje velika, sluzasta ektomikorizna lističarka, ki raste posamič, raztreseno ali v skupinah na tleh v listnatih, iglastih in mešanih gozdovih, pogosto na apnenčasti podlagi. Široko je razširjena po vsej severni polobli: uspeva po vsej Evropi od Britanije in Skandinavije do Španije, Italije in Romunije, po Severni Ameriki ter v severni in vzhodni Aziji, vključno z vzhodno Sibirijo, Korejo in Japonsko.",
+      "cap": "Premer 1,5–8 cm (občasno do 14 cm), sprva izbočen s podvihanim robom, kasneje široko izbočen, široko zvonast ali skoraj raven, pogosto z nizko topo grbo. Površina je gladka z rahlimi vraščenimi radialnimi vlakenci, v vlažnem vremenu sluzasta ali lepljiva, v suhem pa motna do sijoča; sprva bela do slonokoščena, s starostjo ali ob dotiku včasih porumeni. Značilno jo krasijo živo zlato rumena do limonasto ali oranžno rumena kosmičasta zrnca ali zobčaste luske, zgoščene vzdolž roba in občasno raztresene po temenu kot ostanki skupnega zastirala, čeprav ti kosmiči s starostjo lahko zbledijo ali se sperejo. Kalijev hidroksid (KOH) na površini klobuka povzroči takojšnjo živo rumeno do limonasto rumeno reakcijo.",
+      "hymenium": "Lističi so voskasti, debelejši, široki, prirasli do rahlo poraščeni ali poraščeni po betu, gosti do nekoliko redkejši, s pogostimi krajšimi vmesnimi lističi. So beli do smetanasti, s starostjo včasih dobijo bledo rumenkast ali rahlo rožnato rumen lesk; ostrinke lističev so občasno posute z drobnimi rumenimi kosmiči, zlasti pri mladih trosnjakih. Bazidiji so valjasto kijasti, 35–55 × 5,5–7 µm, štiritrosni z zaponkami pri osnovi; himenialnih cistid ni, trama lističev pa je divergentna.",
+      "stipe": "Visok 2,5–10 cm in debel 0,3–1,5 cm, valjast in zgoraj enako debel, proti dnišču pogosto zožen, v notranjosti poln ali vatasto polnjen. Bel do bledo smetanast ali rumenkast, v svežem stanju v spodnjem delu sluzast do lepljiv, pri vrhu pa gosto posut z zlato rumenimi do limonasto rumenimi zrnci, ki včasih tvorijo neizrazit obročast pas; površina s KOH postane živo rumena.",
+      "flesh": "Mehko, sočno in belo, pod kožico klobuka in površino beta včasih rahlo rumenkasto, na prerezu se ne spreminja, s KOH pa se obarva živo rumeno. Vonj je blag, gobji ali rahlo kiselkasto aromatičen (občasno ga primerjajo s sadjem, grenkimi mandlji, smolo ali gosenico vrbovega zavrtača), okus pa je blag, rahlo oreškast ali občasno nekoliko grenkast.",
+      "sporePrint": "Bel. Trosi merijo 7–10 × 3,5–5 µm, so elipsoidni do vretenasto elipsoidni, gladki, v KOH prosojni (hialini), pogosto z oljnimi kapljicami in neamiloidni.",
+      "habitat": "Ektomikorizna tako z listavci (zlasti bukvijo, Fagus, in hrastom, Quercus) kot z iglavci (smreko, Picea, jelko, Abies, in borom, Pinus), raste posamič, raztreseno ali v manjših skupinah na svežih do vlažnih, nevtralnih do apnenčastih tleh na apnencu ali laporju, pa tudi ob prodnatih gozdnih poteh, v listnem opadu ter na mahovnatih in travnatih jasah, redko v parkih ali vrtovih. Raste predvsem od julija do novembra v zmernem pasu Evrope in Severne Amerike, v milejšem oceanskem podnebju in v zahodni Severni Ameriki pa vse do decembra ali sredine zime.",
+      "uses": "Užitna, vendar na splošno velja za pustega okusa, mehkega mesa in majhne kulinarične vrednosti ter jo zaradi raztresenega ali krajevno redkejšega pojavljanja le redko nabirajo.",
+      "confusion": "Slonokoščena polževka (Hygrophorus eburneus) pogosto raste ob njej na podobnih bukovih rastiščih, vendar je v celoti čisto slonokoščeno bela, nima rumenih robnih kosmičev in s KOH ne postane živo rumena. Hygrophorus discoxanthus je običajno nekoliko večji, nima zlato rumenih luskic, s starostjo se na lističih in robu klobuka obarva rjavkasto oranžno do rjasto rjavo, ima močnejši kislast ali neprijeten vonj in velja za neuživnega. Hygrophorus cossus je popolnoma bel brez rumenih kosmičev in oddaja močan, oster vonj po gosenicah vrbovega zavrtača. Starejše primerke, ki so izgubili rumena zrnca, lahko od drugih belih vrst rodu Hygrophorus ločimo po takojšnji živo rumeni reakciji s KOH na klobuku, betu in mesu.",
+      "notes": "Izrazitost zlato rumenih kosmičev se med trosnjaki precej razlikuje ter z dežjem ali starostjo slabi, zato je pri izpranih primerkih najzanesljivejši razpoznavni znak živo rumena reakcija s KOH. Oblike brez rumenih kosmičev obravnavajo kot Hygrophorus chrysodon var. leucodon, oblike z mesnato obarvanimi lističi ali rdečečim mesom kot var. incarnatum, sredozemsko obliko, vezano na grme brškina (Cistus), pa kot var. cistophilus.",
+      "label": "zlatozoba polževka",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Zlatozoba_pol%C5%BEevka",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "sr": {
+      "description": "Средње велика, слузава ектомикоризна гљива са листићима која расте појединачно, расуто или у групама на земљишту у листопадним, четинарским и мешовитим шумама, често на кречњачкој подлози. Широко је распрострањена на северној хемисфери: јавља се широм Европе од Британије и Скандинавије до Шпаније, Италије и Румуније, широм Северне Америке, као и у северној и источној Азији, укључујући источни Сибир, Кореју и Јапан.",
+      "cap": "Пречника 1,5–8 cm (повремено до 14 cm), у младости испупчен са подвијеним ободом, касније широко испупчен, широко звонаст или готово раван, често са ниским тупим испупчењем на средини. Површина је глатка са слабим ураслим радијалним влаканцима, по влажном времену слузава или лепљива, а сушењем постаје мат до сјајна; у почетку бела до боје слоноваче, а старењем или при додиру понекад жути. Карактеристично је украшена јарко златножутим до лимунасто- или наранџастожутим пахуљастим зрнцима или зупчастим љуспицама, концентрисаним дуж обода и повремено расутим по темену као остаци општег омотача, мада те пахуљице старењем могу да избледе или да се исперу. Калијум-хидроксид (KOH) на површини шешира изазива тренутну јарко жуту до лимунастожуту реакцију.",
+      "hymenium": "Листићи су воштани, дебљи, широки, прирасли до благо силазни или силазни, густи до нешто ређи, са честим краћим међулистићима. Бели су до крем, старењем понекад добијају бледожућкасти или благо ружичастожути одсјај; оштрице листића су повремено посуте ситним жутим пахуљицама, нарочито код младих плодних тела. Базидије су ваљкасто-батинасте, 35–55 × 5,5–7 µm, четвороспорне са копчама при основи; хименијалне цистиде недостају, а трама листића је дивергентна.",
+      "stipe": "Висине 2,5–10 cm и дебљине 0,3–1,5 cm, ваљкаста и у горњем делу уједначене дебљине, често сужена ка основи, изнутра пуна или памучасто испуњена. Бела до бледокрем или жућкаста, у свежем стању у доњем делу слузава до лепљива, а при врху густо посута златножутим до лимунастожутим зрнцима која понекад образују нејасну прстенасту зону; површина са KOH постаје јарко жута.",
+      "flesh": "Меко, сочно и бело, испод кожице шешира и површине дршке понекад благо жућкасто, на пресеку не мења боју, а са KOH постаје јарко жуто. Мирис је благ, гљивљи или благо киселкасто ароматичан (повремено се пореди са воћем, горким бадемима, смолом или гусеницом врботоча), а укус је благ, благо орашаст или повремено благо горак.",
+      "sporePrint": "Бео. Споре су величине 7–10 × 3,5–5 µm, елипсоидне до вретенасто-елипсоидне, глатке, безбојне (хијалине) у KOH, често са уљним капљицама и неамилоидне.",
+      "habitat": "Ектомикоризна и са листопадним дрвећем (нарочито буквом, Fagus, и храстом, Quercus) и са четинарима (смрчом, Picea, јелом, Abies, и бором, Pinus), расте појединачно, расуто или у малим групама на свежим до влажним, неутралним до кречњачким земљиштима на кречњаку или лапорцу, као и дуж шљунчаних шумских путева, у шумској стељи или на маховинастим и травнатим пропланцима, ретко у парковима или вртовима. Плодоноси углавном од јула до новембра у умереној Европи и Северној Америци, а у блажој океанској клими и западној Северној Америци све до децембра или средине зиме.",
+      "uses": "Јестива, мада се углавном сматра благог и неупадљивог укуса, меког меса и мале кулинарске вредности, па се због расутог или локално ретког појављивања ретко бере.",
+      "confusion": "Hygrophorus eburneus често плодоноси уз њу на сличним буковим стаништима, али је цео чисто бео попут слоноваче, нема жутих ободних пахуљица и не постаје јарко жут са KOH. Hygrophorus discoxanthus је обично нешто већи, нема златножутих љуспица, старењем добија смеђенаранџасте до рђастосмеђе мрље на листићима и ободу шешира, има јачи сирћетни или непријатан мирис и сматра се нејестивим. Hygrophorus cossus је потпуно бео без жутих пахуљица и испушта јак, оштар мирис гусеница врботоча. Старији примерци који су изгубили жута зрнца могу се одвојити од осталих белих врста рода Hygrophorus по тренутној јарко жутој реакцији са KOH на шеширу, дршци и месу.",
+      "notes": "Израженост златножутих пахуљица знатно варира међу плодним телима и слаби услед кише или старења, па је код испраних примерака јарко жута реакција са KOH најпоузданији дијагностички знак. Облици без жутих пахуљица издвајају се као Hygrophorus chrysodon var. leucodon, облици са листићима боје меса или месом које црвени као var. incarnatum, а средоземни облик везан за жбунове бушина (Cistus) као var. cistophilus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En medelstor, slemmig, ektomykorrhizabildande skivling som växer enstaka, spridd eller i grupper på marken i löv-, barr- och blandskogar, ofta på kalkrik grund. Den är vitt utbredd på norra halvklotet och förekommer i hela Europa från Storbritannien och Skandinavien till Spanien, Italien och Rumänien, över hela Nordamerika samt i norra och östra Asien, inklusive östra Sibirien, Korea och Japan.",
+      "cap": "1,5–8 cm bred (ibland upp till 14 cm), som ung välvd med inrullad kant, senare brett välvd, brett klocklik eller nästan plan, ofta med en låg, trubbig puckel. Ytan är slät med svaga inväxta radiella fibriller, slemmig eller klibbig i fuktigt väder och torkar matt till glänsande; först vit till elfenbensvit, ibland gulnande med åldern eller vid beröring. Den är karakteristiskt prydd med klart guldgula till citron- eller orangegula, fnasiga korn eller tandlika fjäll från det allmänna hyllet, samlade längs kanten och ibland strödda över mitten, även om dessa fnas kan blekna eller regna bort med åldern. Kaliumhydroxid (KOH) ger omedelbart en klart gul till citrongul reaktion på hattytan.",
+      "hymenium": "Vaxartade, ganska tjocka, breda, vidväxta till kort eller tydligt nedlöpande skivor, tätt till något glest ställda med rikliga korta mellanskivor. Vita till gräddvita, ibland med en blekt gulaktig eller svagt rosagul ton med åldern; skiveggarna är ibland prickiga av fina gula fnas, särskilt hos unga fruktkroppar. Basidierna är cylindriskt klubblika, 35–55 × 5,5–7 µm, fyrsporiga med basala söljor; hymeniala cystider saknas och lamelltraman är divergent.",
+      "stipe": "2,5–10 cm hög och 0,3–1,5 cm tjock, cylindrisk och jämntjock upptill, ofta avsmalnande mot basen, massiv eller ulligt fylld inuti. Vit till blekt gräddvit eller gulaktig, färsk slemmig till klibbig på den nedre delen och nära toppen tätt besatt med guldgula till citrongula korn som ibland bildar en otydlig ringzon; ytan färgas klart gul med KOH.",
+      "flesh": "Mjukt, saftigt och vitt, ibland svagt gulaktigt under hatthuden och fotytan, oföränderligt vid snitt och klart gult med KOH. Lukten är mild, svampartad eller svagt syrligt aromatisk (ibland liknad vid frukt, bittermandel, kåda eller larv av större träfjäril), och smaken är mild, svagt nötaktig eller ibland lätt bitter.",
+      "sporePrint": "Vitt. Sporerna mäter 7–10 × 3,5–5 µm, är ellipsoida till spolformigt ellipsoida, släta, hyalina i KOH, innehåller ofta oljedroppar och är inamyloida.",
+      "habitat": "Ektomykorrhizabildande med både lövträd (särskilt bok, Fagus, och ek, Quercus) och barrträd (gran, Picea, ädelgran, Abies, och tall, Pinus), växande enstaka, spridd eller i små grupper på frisk till fuktig, neutral till kalkrik mark över kalksten eller märgel samt längs grusade skogsvägar, i lövförna eller i mossiga och gräsbevuxna gläntor, sällan i parker eller trädgårdar. Den bildar fruktkroppar huvudsakligen från juli till november i tempererade delar av Europa och Nordamerika, och ända in i december eller midvintern i mildare oceaniska klimat och västra Nordamerika.",
+      "uses": "Ätlig, men betraktas allmänt som fadd, mjukköttig och av ringa kulinariskt värde, och plockas sällan på grund av sin spridda eller lokalt sparsamma förekomst.",
+      "confusion": "Hygrophorus eburneus växer ofta tillsammans med den i liknande bokmiljöer, men är genomgående rent elfenbensvit, saknar gula kantfnas och färgas inte klart gul med KOH. Hygrophorus discoxanthus är vanligen något större, saknar guldgula fnas, fläckas brunorange till rostbrun på skivorna och hattkanten med åldern, har en starkare ättiksliknande eller obehaglig lukt och betraktas som oätlig. Hygrophorus cossus är helt vit utan gula fnas och avger en stark, stickande lukt av larver av större träfjäril. Äldre exemplar som tappat sina gula korn kan skiljas från andra vita Hygrophorus-arter genom den omedelbara klart gula KOH-reaktionen på hatt, fot och kött.",
+      "notes": "Mängden guldgula fnas varierar avsevärt mellan olika fruktkroppar och avtar vid regn eller med åldern, vilket gör den klart gula KOH-reaktionen till det mest tillförlitliga kännetecknet hos väderbitna exemplar. Former som saknar gula fnas har behandlats som Hygrophorus chrysodon var. leucodon, former med köttfärgade skivor eller rodnande kött som var. incarnatum, och en medelhavsform knuten till Cistus-buskar som var. cistophilus.",
+      "label": "gulprickig vaxskivling",
+      "names": [
+        "gulpricksvaxing"
+      ],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Gulprickig_vaxskivling",
+        "https://www.gbif.org/species/2538788"
+      ]
+    },
+    "tr": {
+      "description": "Orta boylu, yapışkan, ektomikorizal bir lamelli mantardır; yaprak döken, ibreli ve karışık ormanlarda, çoğunlukla kireçli topraklar üzerinde tek tek, dağınık ya da gruplar hâlinde meyve verir. Kuzey Yarımküre boyunca yaygın olup Büyük Britanya ve İskandinavya'dan İspanya, İtalya ve Romanya'ya kadar tüm Avrupa'da, Kuzey Amerika genelinde ve Doğu Sibirya, Kore ile Japonya dâhil Kuzey ve Doğu Asya'da görülür.",
+      "cap": "1,5–8 cm çapında (nadiren 14 cm'ye kadar), gençken kenarı içe kıvrık dışbükey, olgunlaştıkça geniş dışbükey, geniş çan biçimli veya neredeyse düz bir şekil alır ve ortasında çoğu zaman alçak, küt bir tümsek bulunur. Yüzeyi pürüzsüzdür ve belirsiz, yüzeye gömülü ışınsal lifler taşır; nemliyken sümüksü ya da yapışkan, kuruduğunda mat ile parlak arasıdır; başlangıçta beyaz ile fildişi rengi arasındadır, yaşlandıkça veya zedelendiğinde bazen sararır. Genel örtü kalıntısı olarak özellikle şapka kenarı boyunca yoğunlaşan ve zaman zaman orta kısımda da dağınık görülen parlak altın sarısı, limon sarısı veya turuncu-sarı tüy yumakçıkları ya da dişsi pulcuklarla karakteristik biçimde süslenmiştir; ancak bu pulcuklar yaşlandıkça solabilir veya yağmurla yıkanıp dökülebilir. Potasyum hidroksit (KOH), şapka yüzeyinde anında parlak sarı ile limon sarısı arası bir renk tepkimesi verir.",
+      "hymenium": "Lameller mumsu, oldukça kalın, geniş, sapa bitişik ile hafifçe ya da belirgin biçimde saptan aşağı uzanan, sık ile hafif seyrek arasıdır ve aralarında çok sayıda kısa ara lamel bulunur. Beyazdan krem rengine döner, yaşlandıkça bazen soluk sarımsı veya hafif pembemsi sarı bir parlaklık kazanır; lamel kenarları özellikle genç meyve gövdelerinde zaman zaman ince sarı pulcuklarla beneklidir. Bazidiyumlar silindirik-topuz biçiminde, 35–55 × 5,5–7 µm boyutlarında, dört sporlu ve tabanlarında kanca bağlantılıdır; himeniyal sistidiyum bulunmaz ve lamel traması ıraksaktır.",
+      "stipe": "2,5–10 cm boyunda ve 0,3–1,5 cm kalınlığında, silindirik ve üst kısımda eşit kalınlıkta, tabana doğru sıkça incelen, içi dolu veya yünsü dolguludur. Beyazdan soluk krem rengine veya sarımsıya çalar; tazeyken alt bölümü sümüksü ile yapışkan arasıdır, tepeye yakın kısmı ise bazen belirsiz bir halka kuşağı oluşturan altın sarısı ile limon sarısı arası taneciklerle yoğun biçimde beneklidir; yüzeyi KOH ile parlak sarıya döner.",
+      "flesh": "Yumuşak, sulu ve beyazdır; şapka kabuğu ile sap yüzeyinin hemen altında bazen soluk sarımsı olabilir, kesildiğinde renk değiştirmez ve KOH ile parlak sarıya döner. Kokusu hafif, mantarsı veya zayıf ekşimsi-aromatiktir (zaman zaman meyveye, acı bademe, reçineye veya ağaç kurdu tırtılına benzetilir), tadı ise hafif, hafifçe fındıksı ya da ara sıra hafif acımsıdır.",
+      "sporePrint": "Beyazdır. Sporlar 7–10 × 3,5–5 µm boyutlarında, elipsoid ile iğsi-elipsoid arası, pürüzsüz, KOH içinde saydam, çoğunlukla yağ damlacıklı ve inamiloiddir.",
+      "habitat": "Hem geniş yapraklı ağaçlarla (özellikle kayın, Fagus, ve meşe, Quercus) hem de iğne yapraklılarla (ladin, Picea, göknar, Abies, ve çam, Pinus) ektomikorizal ilişki kurar. Kireçtaşı veya marn üzerindeki taze ile nemli arası, nötr ile kireçli arası topraklarda, ayrıca çakıllı orman yolları boyunca, yaprak döküntüsünde, yosunlu ve otlu açıklıklarda, nadiren park ve bahçelerde tek tek, dağınık ya da küçük gruplar hâlinde meyve verir. Ilıman Avrupa ve Kuzey Amerika'da başlıca temmuzdan kasıma kadar meyve verir; daha ılıman okyanus iklimlerinde ve Kuzey Amerika'nın batısında aralık ayına ya da kış ortasına kadar uzanabilir.",
+      "uses": "Yenilebilir bir mantardır; ancak genellikle yavan, yumuşak etli ve mutfak değeri düşük kabul edilir, ayrıca dağınık veya yerel olarak seyrek görülmesi nedeniyle nadiren toplanır.",
+      "confusion": "Hygrophorus eburneus benzer kayın habitatlarında sıkça onunla birlikte meyve verir, ancak baştan sona saf fildişi beyazıdır, kenarında sarı pulcuklar bulunmaz ve KOH ile parlak sarıya dönmez. Hygrophorus discoxanthus genellikle biraz daha iridir, altın sarısı pulcuklardan yoksundur, yaşlandıkça lamellerinde ve şapka kenarında kahverengimsi turuncudan pas kahverengisine dönen lekeler oluşur, daha güçlü sirkemsi veya hoş olmayan bir kokuya sahiptir ve yenmez kabul edilir. Hygrophorus cossus tamamen beyaz olup sarı pulcuk taşımaz ve ağaç kurdu tırtıllarını andıran güçlü, keskin bir koku yayar. Sarı taneciklerini yitirmiş yaşlı örnekler, şapka, sap ve etli kısımda görülen anlık parlak sarı KOH tepkimesiyle diğer beyaz Hygrophorus türlerinden ayrılabilir.",
+      "notes": "Altın sarısı pulcukların yoğunluğu meyve gövdeleri arasında büyük ölçüde değişir ve yağmurla ya da yaşlanmayla azalır; bu nedenle yıpranmış örneklerde parlak sarı KOH tepkimesi en güvenilir ayırt edici özelliktir. Sarı pulcuklardan yoksun formlar Hygrophorus chrysodon var. leucodon, et rengi lamelli veya etli kısmı kızaran formlar var. incarnatum, laden (Cistus) çalılarıyla ilişkili Akdeniz formu ise var. cistophilus olarak değerlendirilmiştir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Середнього розміру слизистий ектомікоризний пластинчастий гриб, що плодоносить поодиноко, розсіяно або групами на ґрунті в листяних, хвойних і мішаних лісах, часто на вапнякових ґрунтах. Широко розповсюджений у Північній півкулі: трапляється по всій Європі від Великої Британії та Скандинавії до Іспанії, Італії та Румунії, по всій Північній Америці, а також у Північній і Східній Азії, зокрема у Східному Сибіру, Кореї та Японії.",
+      "cap": "Діаметром 1,5–8 см (зрідка до 14 см), у молодому віці опукла із загнутим краєм, згодом розпростирається до широкоопуклої, широкодзвоникоподібної або майже плоскої, часто з низьким тупим горбком. Поверхня гладенька зі слабкими врослими радіальними волокнами, у вологу погоду слизиста або клейка, при підсиханні матова до блискучої; спочатку біла або кольору слонової кістки, з віком або при пошкодженні інколи жовтіє. Характерно вкрита яскраво-золотисто-жовтими, лимонно-жовтими або оранжево-жовтими пластівчастими крупинками чи зубоподібними лусочками — рештками загального покривала, зосередженими вздовж краю та зрідка розкиданими по центру, хоча з віком ці пластівці можуть вицвітати або змиватися дощем. Гідроксид калію (KOH) викликає на поверхні шапинки миттєву яскраво-жовту або лимонно-жовту реакцію.",
+      "hymenium": "Пластинки воскоподібні, досить товсті, широкі, прирослі до слабозбіжних або збіжних, часті до дещо рідкуватих, із численними короткими пластиночками. Білі до кремових, з віком іноді набувають блідо-жовтуватого або слабкого рожевувато-жовтого відтінку; краї пластинок, особливо в молодих плодових тіл, зрідка всіяні дрібними жовтими пластівцями. Базидії циліндрично-булавоподібні, 35–55 × 5,5–7 мкм, чотириспорові, з пряжкою біля основи; гіменіальні цистиди відсутні, трама пластинок дивергентна.",
+      "stipe": "Заввишки 2,5–10 см і завтовшки 0,3–1,5 см, циліндрична та рівна у верхній частині, часто звужується до основи, щільна або з ватоподібною серцевиною. Біла до блідо-кремової або жовтуватої, у свіжому стані слизиста або клейка в нижній частині та густо вкрита біля верхівки золотисто-жовтими до лимонно-жовтих крупинками, які інколи утворюють нечітку кільцеподібну зону; під дією KOH поверхня стає яскраво-жовтою.",
+      "flesh": "М'який, соковитий, білий м'якуш, інколи зі слабким жовтуватим відтінком під шкіркою шапинки та поверхнею ніжки, на зламі кольору не змінює, а від KOH стає яскраво-жовтим. Запах слабкий, грибний або дещо кислувато-ароматний (інколи його порівнюють із фруктовим, гіркомигдалевим, смолистим або із запахом гусені червиці пахучої), смак м'який, ледь горіховий, зрідка трохи гіркуватий.",
+      "sporePrint": "Білий. Спори 7–10 × 3,5–5 мкм, еліпсоїдні до веретеноподібно-еліпсоїдних, гладенькі, безбарвні в KOH, часто містять краплі олії, неамілоїдні.",
+      "habitat": "Утворює ектомікоризу як із листяними деревами (особливо з буком, Fagus, і дубом, Quercus), так і з хвойними (ялина, Picea, ялиця, Abies, та сосна, Pinus). Плодоносить поодиноко, розсіяно або невеликими групами на свіжих і вологих нейтральних або вапнякових ґрунтах на вапняках і мергелях, а також уздовж гравійних лісових доріг, у листовій підстилці, на моховитих і трав'янистих галявинах, рідко в парках і садах. Плодоносить переважно з липня до листопада в помірній зоні Європи та Північної Америки, а в м'якшому океанічному кліматі та на заході Північної Америки — до грудня або середини зими.",
+      "uses": "Їстівний гриб, проте зазвичай вважається прісним, із м'яким м'якушем і невисокою кулінарною цінністю; його рідко збирають також через розсіяне або місцями нечасте трапляння.",
+      "confusion": "Hygrophorus eburneus часто плодоносить поруч у подібних букових лісах, але він цілковито чисто-білий кольору слонової кістки, позбавлений жовтих пластівців уздовж краю шапинки і не дає яскраво-жовтої реакції з KOH. Hygrophorus discoxanthus зазвичай трохи більший, не має золотисто-жовтих пластівців, з віком набуває коричнево-оранжевих до іржаво-бурих плям на пластинках і по краю шапинки, має сильніший оцтовий або неприємний запах і вважається неїстівним. Hygrophorus cossus повністю білий без жовтих пластівців і виділяє сильний різкий запах гусені червиці пахучої. Старі екземпляри, які втратили жовті крупинки, можна відрізнити від інших білих видів Hygrophorus за миттєвим яскраво-жовтим забарвленням шапинки, ніжки та м'якуша від KOH.",
+      "notes": "Вираженість золотисто-жовтих пластівців значно варіює в різних плодових тіл і зменшується після дощів або з віком, тому яскраво-жовта реакція з KOH є найнадійнішою діагностичною ознакою для старих чи вивітрених екземплярів. Форми без жовтих пластівців розглядалися як Hygrophorus chrysodon var. leucodon, форми з тілесно-рожевуватими пластинками або м'якушем, що червоніє, — як var. incarnatum, а середземноморська форма, пов'язана з чагарниками роду Cistus, — як var. cistophilus.",
+      "label": "гігрофор золотистий",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%84%D0%BE%D1%80_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%B9"
+      ]
+    },
+    "zh": {
+      "description": "一種中等大小、具黏性的外生菌根傘菌，單生、散生或群生於闊葉林、針葉林與混交林的土壤上，常見於鈣質地。廣泛分布於北半球，遍及歐洲（從英國與斯堪地那維亞至西班牙、義大利與羅馬尼亞）、北美洲全境，以及亞洲北部與東部，包括東西伯利亞、韓國與日本。",
+      "cap": "菌蓋直徑1.5–8 cm（偶爾可達14 cm），幼時呈半球形至凸圓形且邊緣內捲，成熟後開展為寬凸圓形、寬鐘形或近扁平，中央常具低矮鈍凸。表面平滑並帶有細微的內生放射狀纖絲，潮濕時呈黏液狀或黏滑，乾燥後呈霧面至具光澤；初為白色至象牙白，老熟或碰傷後有時轉黃。其典型特徵為菌蓋邊緣密布亮金黃色至檸檬黃或橙黃色的絮狀顆粒或齒狀鱗片，偶爾亦散生於中央，屬於外菌幕殘餘，但這些鱗片可能隨老化而褪色或被雨水沖刷脫落。滴加氫氧化鉀（KOH）於菌蓋表面會立即產生亮黃色至檸檬黃色反應。",
+      "hymenium": "菌褶蠟質、較厚且寬，直生至近延生或延生，排列較密至稍疏，常夾生短菌褶。白色至奶油色，老熟時有時帶有淡黃色或微弱粉黃色光澤；菌褶邊緣偶爾點綴細小的黃色絮狀物，尤見於幼嫩子實體。擔子呈圓柱棒狀，35–55 × 5.5–7 µm，具四個擔孢子且基部具扣子體；無子實層囊狀體，菌褶菌髓呈散生型。",
+      "stipe": "菌柄高2.5–10 cm、粗0.3–1.5 cm，上部圓柱形且等粗，基部常漸細，內部實心或填塞綿毛狀髓部。白色至淡奶油色或帶淡黃色，新鮮時下部呈黏液狀至黏滑，頂部附近密布金黃色至檸檬黃色顆粒，有時形成不明顯的菌環帶；表面遇KOH即轉為亮黃色。",
+      "flesh": "菌肉柔軟多汁、白色，菌蓋表皮下方及菌柄表層下有時略帶淡黃色，切開不變色，遇KOH則轉為亮黃色。氣味溫和、具菇香味或微帶酸香（偶爾被比喻為水果、苦杏仁、樹脂或木蠹蛾幼蟲氣味），味道溫和、略帶堅果味，偶爾微苦。",
+      "sporePrint": "白色。孢子7–10 × 3.5–5 µm，橢圓形至紡錘橢圓形，平滑，在KOH中無色透明，常含油滴，非類澱粉質。",
+      "habitat": "與闊葉樹（特別是山毛櫸屬（Fagus）與櫟屬（Quercus））及針葉樹（雲杉屬（Picea）、冷杉屬（Abies）與松屬（Pinus））均形成外生菌根，單生、散生或小群生於石灰岩或泥灰岩上新鮮至潮濕的中性至鈣質土壤，亦見於碎石林道旁、落葉層中，或長滿苔蘚與青草的林間空地，偶見於公園或庭園。在溫帶歐洲與北美洲主要於7月至11月出菇，在較溫和的海洋性氣候區及北美洲西部可延續至12月或仲冬。",
+      "uses": "可食，但普遍被認為風味平淡、菌肉偏軟且烹飪價值不高，且因其散生或在局部地區少見而鮮少被採集。",
+      "confusion": "Hygrophorus eburneus常於相似的山毛櫸棲地與其伴生，但通體呈純象牙白色，缺乏菌蓋邊緣的黃色絮狀物，且遇KOH不會轉為亮黃色。Hygrophorus discoxanthus通常體型略大，缺乏金黃色鱗片，老熟時菌褶與菌蓋邊緣會染成褐橙色至鏽褐色，帶有較強烈的醋味或不悅氣味，且被視為不可食。Hygrophorus cossus通體白色且無黃色絮狀物，並散發強烈刺鼻的木蠹蛾幼蟲氣味。已脫落黃色顆粒的老熟標本，可憑藉菌蓋、菌柄與菌肉遇KOH立即轉為亮黃色的反應與其他白色Hygrophorus物種區分。",
+      "notes": "金黃色絮狀物的顯著程度在不同子實體間差異甚大，並會隨降雨或老化而減弱，因此亮黃色的KOH反應是風化標本最可靠的鑑別特徵。缺乏黃色絮狀物的型態曾被處理為Hygrophorus chrysodon var. leucodon，具肉色菌褶或菌肉變紅者為var. incarnatum，而地中海地區與岩薔薇屬（Cistus）灌木伴生者則為var. cistophilus。",
+      "label": "金粒蠟傘",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538788",
+        "https://www.inaturalist.org/taxa/344545"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus chrysodon",
+      "author": "Batsch",
+      "rank": "species"
+    },
+    {
+      "name": "Gymnopus chrysodon",
+      "author": "(Batsch) Zaw.",
+      "rank": "species"
+    },
+    {
+      "name": "Limacium chrysodon",
+      "author": "(Batsch) P. Kumm.",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus chrysodon var. leucodon",
+      "author": "Alb. & Schwein.",
+      "rank": "variety"
+    },
+    {
+      "name": "Hygrophorus chrysodon var. leucodon",
+      "author": "(Alb. & Schwein.) Sacc.",
+      "rank": "variety"
+    },
+    {
+      "name": "Hygrophorus chrysodon var. cistophilus",
+      "author": "Pérez-De-Greg., C. Roqué & Macau",
+      "rank": "variety"
+    },
+    {
+      "name": "Hygrophorus chrysodon var. griseofolius",
+      "author": "E. Ludw.",
+      "rank": "variety"
+    },
+    {
+      "name": "Hygrophorus chrysodon f. cistophilus",
+      "author": "E. Suárez & Suár.-Gracia",
+      "rank": "form"
+    }
+  ]
 }
 ];

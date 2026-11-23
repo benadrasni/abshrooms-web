@@ -97,6 +97,12 @@ export const TAXA = {
   Gliophorus: {
     rank: "genus"
   },
+  Hygrophorus: {
+    rank: "genus",
+    sk: "šťavnačka",
+    cs: "šťavnatka",
+    pl: "wodnicha"
+  },
   Marasmiaceae: {
     rank: "family",
     sk: "špičkovité",
