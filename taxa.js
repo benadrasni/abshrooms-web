@@ -1103,12 +1103,23 @@ export const TAXA = {
     rank: "genus"
   },
   Postiaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "šťavnatcovité"
+  },
+  Postia: {
+    rank: "genus",
+    sk: "šťavnatec"
   },
   Fuscopostia: {
     rank: "genus"
   },
   Leratiomyces: {
+    rank: "genus"
+  },
+  Paralepistaceae: {
+    rank: "family"
+  },
+  Paralepista: {
     rank: "genus"
   }
 };

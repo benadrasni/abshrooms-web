@@ -207261,5 +207261,1856 @@ export const CATALOG = [
         "rank": "species"
       }
     ]
+  },
+  {
+    "id": 204,
+    "name": "Coprinellus flocculosus",
+    "author": "(DC.) Vilgalys, Hopple & Jacq. Johnson",
+    "citation": "Taxon 50(1): 233 (2001)",
+    "family": "Psathyrellaceae",
+    "genus": "Coprinellus",
+    "order": "Agaricales",
+    "path": [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Psathyrellaceae",
+      "Coprinellus"
+    ],
+    "summary": [
+      "Agaricales",
+      "Psathyrellaceae",
+      "Coprinellus"
+    ],
+    "edibility": "inedible",
+    "hymenium": "gills",
+    "where": [
+      "wood",
+      "ground",
+      "grass"
+    ],
+    "color": [
+      "yellow",
+      "brown",
+      "white",
+      "dark"
+    ],
+    "capFrom": 1.5,
+    "capTo": 4.5,
+    "stipeHeightFrom": 2.0,
+    "stipeHeightTo": 13.0,
+    "stipeThickFrom": 0.2,
+    "stipeThickTo": 0.7,
+    "fruitingFrom": 5,
+    "fruitingTo": 11,
+    "added": "2026-11-23",
+    "label": {
+      "en": "flocculose inkcap",
+      "sk": "hnojník vločkatý",
+      "cs": "hnojník vločkatý",
+      "da": "fnugget blækhat",
+      "de": "Flockiger Tintling",
+      "fi": "huopamustesieni",
+      "fr": "coprin floconneux",
+      "hu": "pelyhes tintagomba",
+      "ja": "ワタヒトヨタケ",
+      "ko": "곱슬먹물버섯",
+      "lt": "žėrutinis mėšlagrybukas",
+      "nl": "valse viltinktzwam",
+      "no": "fnuggblekksopp",
+      "pl": "czernidłaczek kłaczkowaty",
+      "sl": "kosmičasti tintovec",
+      "zh": "捲毛小鬼傘"
+    },
+    "names": {
+      "en": [],
+      "ar": [],
+      "bg": [],
+      "cs": [],
+      "da": [],
+      "de": [],
+      "es": [],
+      "et": [],
+      "fa": [],
+      "fi": [
+        "hupamustesieni"
+      ],
+      "fr": [],
+      "he": [],
+      "hi": [],
+      "hr": [],
+      "hu": [],
+      "id": [],
+      "it": [],
+      "ja": [
+        "ヤケノワタヒトヨ"
+      ],
+      "ko": [
+        "솜털갈색먹물버섯"
+      ],
+      "lt": [],
+      "lv": [],
+      "nl": [],
+      "no": [],
+      "pl": [
+        "czernidłak kłaczkowaty"
+      ],
+      "pt": [],
+      "ro": [],
+      "ru": [],
+      "sk": [],
+      "sl": [],
+      "sr": [],
+      "sv": [],
+      "tr": [],
+      "uk": [],
+      "zh": [
+        "卷毛小鬼伞"
+      ]
+    },
+    "sources": {
+      "en": [
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=474358",
+          "detail": "474358"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=474358",
+          "detail": "474358"
+        },
+        {
+          "group": "name",
+          "name": "MycoBank",
+          "href": "https://www.mycobank.org/page/Name%20details%20page/474358",
+          "detail": "474358"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "name",
+          "name": "Catalogue of Life",
+          "href": "https://www.catalogueoflife.org/data/taxon/Y54V"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q1614912"
+        },
+        {
+          "group": "text",
+          "name": "MushroomExpert",
+          "href": "https://www.mushroomexpert.com/coprinellus_flocculosus.html"
+        },
+        {
+          "group": "text",
+          "name": "MykoWeb",
+          "href": "https://www.mykoweb.com/CAF/species/Coprinellus_flocculosus.html"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Coprinellus_flocculosus"
+        },
+        {
+          "group": "text",
+          "name": "Czech Mycological Society",
+          "href": "https://www.myko.cz/myko-atlas/Coprinellus-flocculosus/"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_k%C5%82aczkowaty",
+          "detail": "pl"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Hupamustesieni",
+          "detail": "fi"
+        }
+      ],
+      "cs": [
+        {
+          "group": "text",
+          "name": "Czech Mycological Society",
+          "href": "https://www.myko.cz/myko-atlas/Coprinellus-flocculosus/"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "da": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "de": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "fi": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Hupamustesieni",
+          "detail": "fi"
+        }
+      ],
+      "fr": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "hu": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "ja": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "ko": [
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "lt": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "nl": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "no": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        }
+      ],
+      "pl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_k%C5%82aczkowaty",
+          "detail": "pl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        }
+      ],
+      "sk": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        }
+      ],
+      "sl": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534575",
+          "detail": "2534575"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ],
+      "zh": [
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/56316"
+        }
+      ]
+    },
+    "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus@1600.webp",
+    "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus@400.webp",
+    "plateCredit": {
+      "author": "Adrian Benko (Gemini)",
+      "credit": "Mycological plate generated with Gemini in Bresadola style (848x1264 JPEG, LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows a mature pleated ochre-to-greyish cap with scattered whitish felty veil patches on a hollow white stipe, a young ovoid flocculose specimen with a thin white collar-like basal volva, a tilted underside gill view, and a thin-fleshed vertical section on wood chips and straw.",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus@1600.webp",
+      "basedOn": []
+    },
+    "photos": [
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus_1.webp",
+        "author": "Megan Ralph",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "https://www.inaturalist.org/observations/64636679"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus_2.webp",
+        "author": "Topher Mueller",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Coprinellus_flocculosus_347569631.jpg"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus_3.webp",
+        "author": "Kat",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Coprinellus_flocculosus_350395899.jpg"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus_4.webp",
+        "author": "Megan Ralph",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "https://www.inaturalist.org/observations/64636679"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_flocculosus/Coprinellus_flocculosus_5.webp",
+        "author": "Mike Dechter",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/144674225"
+      }
+    ],
+    "text": {
+      "en": {
+        "description": "A small to medium-sized, fragile, saprotrophic inkcap fruiting singly, scattered, or in small groups on wood chips, sawdust, old straw, and nutrient-rich soil. Widely distributed across Europe, North America, and Oceania, it appears in woodlands as well as gardens, lawns, and indoor potting mulch, dissolving quickly into black liquid at maturity.",
+        "cap": "1.5–4.5 cm across when expanded; subglobose, cylindrical-ovoid, or egg-shaped when young (up to 3 cm tall and 2 cm wide), expanding to conical, bell-shaped, and eventually broadly conical or nearly flat. The surface is initially covered by a shaggy, whitish to buff, felt-like universal veil that breaks into evanescent woolly patches and floccules concentrated toward the centre, where they turn ochre to brownish. Underneath, the matte cuticle is pale ochre, yellowish, or mustard-brown at the disc, paler toward the margin, and fading greyish with age; the margin is decurved at first, radially striate to deeply pleated almost to the centre, and finally wavy, recurved, split, or deliquescent. Potassium hydroxide (KOH) gives a negative reaction on the cap surface.",
+        "hymenium": "Free to adnexed, very crowded gills, 3–8 mm broad, with three to four tiers of frequent short lamellulae and minutely hairy edges and faces under a hand lens. White to cream-coloured at first, turning greyish to grey-brown and finally black as spores mature, then liquefying into an inky fluid. Basidia are clavate, four-spored, 25–28 × 11–13 µm, surrounded by brachybasidioles; pleurocystidia and similar cheilocystidia are utriform to ellipsoid or subsaccate, 60–80 × 32–40 µm, smooth, hyaline in KOH, with walls 1–2 µm thick.",
+        "stipe": "2–13 cm tall and 0.2–0.7 cm thick, cylindrical, equal or slightly club-shaped and enlarged at the base, fragile, and hollow without an interior thread. The surface is white, finely pruinose and faintly striate when young, soon becoming smooth and bald, with the base staining brownish and bearing white mycelial threads. A partial veil is absent, though young fruit bodies often show a thin, white, collar-like volva formed by universal veil remnants at the stipe base.",
+        "flesh": "Very thin (about 1 mm thick at the cap disc), whitish to pale ochre, fragile, unchanged when sliced, and deliquescent at maturity. Taste is not distinctive, and the odour is indistinct when fresh, sometimes becoming faintly foul as the gills liquefy.",
+        "sporePrint": "Black. Spores are 10–16.5 × 6.5–10 µm (commonly 11–15.5 × 6.5–8.5 µm, Q = 1.4–1.8), ellipsoid to almond-shaped or ovoid in face view and slightly flattened in side view, smooth, very dark reddish-brown in KOH, with an inconspicuous hilar appendage and a prominent eccentric germ pore 1–2 µm wide.",
+        "habitat": "Saprotrophic on wood chips, sawdust, buried woody debris, rotting straw, straw mixed with horse manure, compost, nutrient-rich lawns, and commercial potting mulch, fruiting solitarily, scattered, or in small gregarious groups rather than dense tufts. It fruits from spring through autumn—typically June to October in Central Europe—and can appear year-round in mild climates or indoors after wet periods.",
+        "uses": "Inedible; the flesh is extremely thin and rapidly deliquescent, with no culinary value.",
+        "confusion": "Coprinellus micaceus grows in dense tufts around decaying hardwood stumps or dying trees rather than scattered on mulch or straw, has a glistening veil of tiny micaceous granules rather than felt-like patches, lacks a collar-like basal volva, and has smaller spores. Coprinellus domesticus favours hardwood logs and stumps, has a more tawny-brown cap disc with a granular veil, and is separated microscopically by thick-walled velar cells and smaller spores with a central rather than eccentric germ pore. Other species in section Domestici also differ by their smaller spores, while Coprinopsis lagopus has a finer, hairier, whiter fibrous veil and different spore morphology.",
+        "notes": "Although widespread across Europe, it is infrequent in parts of its range and is listed as rare (R) on the Polish Red List of Plants and Fungi, whereas it is common in Finland. Its large spores with a distinctly eccentric germ pore and thin-walled, smooth velar elements (40–125 × 10–150 µm) are key microscopic characters separating it from closely related inkcaps."
+      },
+      "ar": {
+        "description": "فطر حبري رمّي صغير إلى متوسط الحجم وهش، يثمر منفردًا أو متفرقًا أو في مجموعات صغيرة على رقائق الخشب ونشارة الخشب والقش القديم والتربة الغنية بالمغذيات. ينتشر على نطاق واسع في أوروبا وأمريكا الشمالية وأوقيانوسيا، ويظهر في الغابات وكذلك في الحدائق والمروج ونشارة أصص الزراعة الداخلية، ويذوب سريعًا متحولًا إلى سائل أسود عند النضج.",
+        "cap": "يبلغ قطر القبعة ١٫٥–٤٫٥ سم عند انبساطها؛ تكون شبه كروية أو أسطوانية بيضوية أو بيضية الشكل في الصغر (حتى ارتفاع ٣ سم وعرض ٢ سم)، ثم تتسع لتصبح مخروطية ثم جرسية وفي النهاية مخروطية عريضة أو شبه مسطحة. يغطي السطح في البداية حجاب عام أشعث، مائل إلى البياض حتى البرتقالي الباهت الشاحب (بيج مصفر)، ذو ملمس لبادي، يتفكك إلى بقع صوفية سريعة الزوال وزغبات تتركز نحو المركز حيث تتحول إلى لون مغري إلى بني. وتحت ذلك، تكون البشرة المطفأة مغرية باهتة أو مصفرة أو بنية خردلية عند القرص، وأفتح نحو الحافة، وتبهت إلى رمادي مع التقدم في العمر؛ الحافة منحنية إلى الأسفل في البداية، ومخططة شعاعيًا إلى مطوية بعمق حتى قرب المركز، وفي النهاية متموجة أو منعطفة للأعلى أو مشقوقة أو متميعة. يعطي هيدروكسيد البوتاسيوم (KOH) تفاعلًا سلبيًا على سطح القبعة.",
+        "hymenium": "صفائح حرة إلى ملتصقة بشكل ضيق، شديدة التزاحم، بعرض ٣–٨ مم، تتخللها ثلاث إلى أربع طبقات من الصفيحات القصيرة الكثيرة، وذات حواف وأسطح مشعرة بدقة تحت العدسة المكبرة. تكون بيضاء إلى كريمية في البداية، ثم تتحول إلى رمادية فبنية رمادية وأخيرًا سوداء مع نضج الأبواغ، قبل أن تتميع إلى سائل حبري. البازيديات هراوية الشكل، رباعية الأبواغ، بأبعاد ٢٥–٢٨ × ١١–١٣ ميكرومتر، محاطة بباذيديات قصيرة عقيمة؛ والخلايا الحوصلية الجانبية (pleurocystidia) والهامشية المشابهة لها (cheilocystidia) قربية الشكل إلى إهليلجية أو شبه كيسية، بأبعاد ٦٠–٨٠ × ٣٢–٤٠ ميكرومتر، ملساء، شفافة في KOH، بجدران سمكها ١–٢ ميكرومتر.",
+        "stipe": "يبلغ ارتفاع الساق ٢–١٣ سم وسمكها ٠٫٢–٠٫٧ سم، أسطوانية، متساوية السمك أو هراوية قليلًا ومتسعة عند القاعدة، هشة وجوفاء دون خيط داخلي. السطح أبيض، مغبر بدقة ومخطط بخفة في الصغر، ثم يصبح سريعًا أملس وأجرد، مع تلون القاعدة بالبني وحملها خيوطًا فطرية بيضاء. يغيب الحجاب الجزئي، غير أن الأجسام الثمرية الفتية تُظهر غالبًا جرابًا أبيض رقيقًا شبيهًا بالياقة يتكون من بقايا الحجاب العام عند قاعدة الساق.",
+        "flesh": "اللحم رقيق جدًا (بسمك نحو ١ مم عند قرص القبعة)، مائل إلى البياض حتى المغري الباهت، هش، لا يتغير لونه عند القطع، ويتميع عند النضج. الطعم غير مميز، والرائحة غير واضحة عندما يكون طازجًا، وقد تصبح كريهة بخفة مع تميع الصفائح.",
+        "sporePrint": "طبعة الأبواغ سوداء. الأبواغ بأبعاد ١٠–١٦٫٥ × ٦٫٥–١٠ ميكرومتر (غالبًا ١١–١٥٫٥ × ٦٫٥–٨٫٥ ميكرومتر، Q = ١٫٤–١٫٨)، إهليلجية إلى لوزية أو بيضوية في المنظر الأمامي ومسطحة قليلًا في المنظر الجانبي، ملساء، بنية محمرة داكنة جدًا في KOH، ذات زائدة سرّية غير بارزة وثقب إنبات لا مركزي بارز بعرض ١–٢ ميكرومتر.",
+        "habitat": "رمّي على رقائق الخشب ونشارة الخشب وبقايا الخشب المدفونة والقش المتعفن والقش المخلوط بروث الخيل والسماد العضوي والمروج الغنية بالمغذيات ونشارة الأصص التجارية، ويثمر منفردًا أو متفرقًا أو في مجموعات صغيرة متجاورة بدلًا من عناقيد كثيفة. يثمر من الربيع حتى الخريف—وعادة من يونيو إلى أكتوبر في وسط أوروبا—ويمكن أن يظهر على مدار العام في المناخات المعتدلة أو في الأماكن المغلقة بعد الفترات الرطبة.",
+        "uses": "غير صالح للأكل؛ فاللحم رقيق للغاية وسريع التميع، وليست له قيمة غذائية.",
+        "confusion": "ينمو Coprinellus micaceus في عناقيد كثيفة حول جذوع الأشجار عريضة الأوراق المتحللة أو الأشجار المحتضرة بدلًا من التفرق على النشارة أو القش، وله حجاب لامع من حبيبات ميكية دقيقة بدلًا من البقع اللبادية، ويفتقر إلى الجراب القاعدي الشبيه بالياقة، وأبواغه أصغر حجمًا. أما Coprinellus domesticus فيفضل جذوع وأرومات الأشجار عريضة الأوراق، وقرص قبعته أكثر ميلًا إلى البني المصفر مع حجاب حبيبي، ويُفصل مجهريًا بخلايا حجاب سميكة الجدران وأبواغ أصغر ذات ثقب إنبات مركزي لا لا مركزي. كما تختلف الأنواع الأخرى في قسم Domestici بصغر أبواغها، في حين يمتلك Coprinopsis lagopus حجابًا ليفيًا أنعم وأكثر شعرية وبياضًا وشكل أبواغ مختلفًا.",
+        "notes": "على الرغم من انتشاره الواسع في أنحاء أوروبا، فإنه غير شائع في أجزاء من نطاقه، ومُدرج بوصفه نادرًا (R) في القائمة الحمراء البولندية للنباتات والفطريات، في حين أنه شائع في فنلندا. وتعد أبواغه الكبيرة ذات ثقب الإنبات اللا مركزي الواضح وعناصر الحجاب الملساء رقيقة الجدران (٤٠–١٢٥ × ١٠–١٥٠ ميكرومتر) صفات مجهرية أساسية تميزه عن الفطريات الحبرية القريبة منه."
+      },
+      "bg": {
+        "description": "Дребна до средно голяма, крехка, сапротрофна коприноидна гъба, плододаваща поединично, разпръснато или на малки групи върху дървесни стърготини, трици, стара слама и богата на хранителни вещества почва. Широко разпространена в Европа, Северна Америка и Океания, тя се среща както в гори, така и в градини, тревни площи и субстрат в саксии на закрито, като при узряване бързо се втечнява в черна течност.",
+        "cap": "Широка 1,5–4,5 cm в разтворено състояние; при младите гъби почти кълбовидна, цилиндрично-яйцевидна или яйцевидна (до 3 cm висока и 2 cm широка), по-късно се разтваря до конична, звънчевидна и накрая широко конична или почти плоска. Повърхността първоначално е покрита с рошаво, белезникаво до охрено-кремово, плъстено общо покривало, което се разпада на нетрайни вълнести парцалчета и люспици, струпани към центъра, където пожълтяват до охрено или кафеникаво. Под него матовата кожица е бледоохрена, жълтеникава или горчиченокафява в центъра, по-бледа към ръба и посивява с възрастта; ръбът първоначално е подвит надолу, радиално набразден до дълбоко нагънат почти до центъра, а накрая вълновиден, извит нагоре, нацепен или разлагащ се в течност. Калиевата основа (KOH) дава отрицателна реакция върху повърхността на гуглата.",
+        "hymenium": "Ламелите са свободни до прираснали със зъбче, много гъсти, широки 3–8 mm, с три до четири реда чести къси ламелули и фино влакнести ръбове и стени под лупа. Първоначално са бели до кремави, по-късно стават сивкави до сиво-кафяви и накрая черни при узряване на спорите, след което се втечняват в мастилена течност. Базидиите са бухалковидни, четириспорови, 25–28 × 11–13 µm, заобиколени от брахибазидиоли; плевроцистидиите и сходните хейлоцистидии са мехуровидни до елипсовидни или почти торбовидни, 60–80 × 32–40 µm, гладки, безцветни в KOH, със стени с дебелина 1–2 µm.",
+        "stipe": "Високо 2–13 cm и дебело 0,2–0,7 cm, цилиндрично, равно или слабо бухалковидно и удебелено в основата, крехко и кухо без вътрешна нишка. Повърхността е бяла, фино напрашена и слабо набраздена при младите гъби, но скоро става гладка и гола, като основата се обагря кафеникаво и носи бели мицелни нишки. Частично покривало липсва, макар че младите плодни тела често имат тънка, бяла, якичковидна волва, образувана от остатъци на общото покривало в основата на пънчето.",
+        "flesh": "Много тънко (около 1 mm дебело в центъра на гуглата), белезникаво до бледоохрено, крехко, не променя цвета си при разрез и се втечнява при узряване. Вкусът е неизразителен, а миризмата е слаба в прясно състояние, като понякога става леко неприятна при втечняването на ламелите.",
+        "sporePrint": "Черен. Спорите са 10–16,5 × 6,5–10 µm (обикновено 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), елипсовидни до бадемовидни или яйцевидни в преден изглед и леко сплеснати в страничен изглед, гладки, много тъмно червеникаво-кафяви в KOH, с незабележим хиларен израстък и ясно изразена ексцентрична зародишна пора с ширина 1–2 µm.",
+        "habitat": "Сапротрофен вид върху дървесни стърготини, трици, заровени дървесни остатъци, гниеща слама, слама, смесена с конски тор, компост, богати на хранителни вещества тревни площи и готов мулч за саксии, като плододава поединично, разпръснато или на малки групи, а не на гъсти туфи. Плододава от пролетта до есента — обикновено от юни до октомври в Централна Европа — и може да се появява целогодишно при мек климат или на закрито след влажни периоди.",
+        "uses": "Неядлива; месото е изключително тънко и бързо се втечнява, без кулинарна стойност.",
+        "confusion": "Coprinellus micaceus расте на гъсти туфи около гниещи широколистни пънове или загиващи дървета, вместо разпръснато върху мулч или слама, има блестящо покривало от ситни слюдести зрънца вместо плъстени парцалчета, няма якичковидна волва в основата и има по-дребни спори. Coprinellus domesticus предпочита широколистни трупи и пънове, има по-ръждивокафяв център на гуглата със зърнесто покривало и микроскопски се различава по дебелостенните клетки на покривалото и по-дребните спори с централна, а не ексцентрична зародишна пора. Други видове от секция Domestici също се различават по по-дребните си спори, докато Coprinopsis lagopus има по-фино, по-мъхесто и по-бяло влакнесто покривало и различна морфология на спорите.",
+        "notes": "Макар и широко разпространен в Европа, видът е рядък в части от ареала си и е вписан като рядък (R) в Полския червен списък на растенията и гъбите, докато във Финландия е обичаен. Едрите му спори с отчетливо ексцентрична зародишна пора и тънкостенните, гладки елементи на покривалото (40–125 × 10–150 µm) са ключови микроскопски белези, които го отличават от близкородствените видове."
+      },
+      "cs": {
+        "description": "Malý až středně velký, křehký, saprotrofní hnojník plodící jednotlivě, roztroušeně nebo v malých skupinách na dřevní štěpce, pilinách, staré slámě a půdě bohaté na živiny. Je široce rozšířený v Evropě, Severní Americe a Oceánii, objevuje se v lesích i v zahradách, na trávnících a v pokojovém substrátu s mulčem a v dospělosti se rychle rozplývá v černou tekutinu.",
+        "cap": "V rozprostřeném stavu má průměr 1,5–4,5 cm; v mládí je téměř kulovitý, válcovitě vejčitý nebo vejčitý (vysoký do 3 cm a široký do 2 cm), později se rozevírá do kuželovitého, zvoncovitého a nakonec široce kuželovitého až téměř plochého tvaru. Povrch je zpočátku pokrytý střapatou, bělavou až světle okrovou plstnatou celkovou plachetkou (velem), která se rozpadá v pomíjivé vlnaté útržky a vločky soustředěné ke středu, kde se zbarvují okrově až nahnědle. Pod ní je matná pokožka ve středu světle okrová, nažloutlá nebo hořčicově hnědá, směrem k okraji světlejší a stářím našedle vybledající; okraj je nejprve podvinutý, paprsčitě rýhovaný až hluboce skládaný téměř do středu a nakonec zvlněný, ohnutý vzhůru, rozpukaný nebo se rozplývající. Hydroxid draselný (KOH) dává na povrchu klobouku negativní reakci.",
+        "hymenium": "Lupeny jsou volné až úzce připojené, velmi husté, 3–8 mm široké, se třemi až čtyřmi řadami četných krátkých lupénků a pod lupou jemně chlupatým ostřím i plochami. Zpočátku jsou bílé až krémové, dozráváním výtrusů přecházejí v našedlé až šedohnědé a nakonec černé, poté se rozplývají v inkoustovitou tekutinu. Bazidie jsou kyjovité, čtyřvýtrusé, 25–28 × 11–13 µm, obklopené brachybazidiolami; pleurocystidy a podobné cheilocystidy jsou vakovité až elipsoidní nebo téměř měchýřkovité, 60–80 × 32–40 µm, hladké, v KOH hyalinní, se stěnami tlustými 1–2 µm.",
+        "stipe": "Třeň je 2–13 cm vysoký a 0,2–0,7 cm tlustý, válcovitý, stejně silný nebo na bázi mírně kyjovitě ztlustlý, křehký a dutý bez vnitřního vlákna. Povrch je bílý, v mládí jemně ojíněný a slabě rýhovaný, brzy olysává a stává se hladkým, přičemž báze hnědavě skvrnatí a nese bílá myceliová vlákna. Částečný závoj chybí, avšak mladé plodnice často nesou na bázi třeně tenkou, bílou, límcovitou pochvu tvořenou zbytky celkové plachetky.",
+        "flesh": "Dužnina je velmi tenká (ve středu klobouku asi 1 mm silná), bělavá až světle okrová, křehká, na řezu neměnná a v dospělosti se rozplývá. Chuť je nevýrazná a vůně za čerstva nevýrazná, při rozplývání lupenů někdy slabě nepříjemná.",
+        "sporePrint": "Černý. Výtrusy měří 10–16,5 × 6,5–10 µm (obvykle 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), z čelního pohledu jsou elipsoidní až mandlovité nebo vejčité a z bočního pohledu mírně zploštělé, hladké, v KOH velmi tmavě červenohnědé, s nenápadným hilárním přívěskem a výrazným excentrickým klíčním pórem širokým 1–2 µm.",
+        "habitat": "Saprotrofní druh na dřevní štěpce, pilinách, zanořených zbytcích dřeva, tlející slámě, slámě smíchané s koňským hnojem, kompostu, trávnících bohatých na živiny a komerčním substrátovém mulči; plodí jednotlivě, roztroušeně nebo v malých skupinkách, nikoli v hustých trsech. Plodí od jara do podzimu – ve střední Evropě obvykle od června do října – a v mírném klimatu či v interiérech po vlhkých obdobích se může objevovat celoročně.",
+        "uses": "Nejedlý; dužnina je mimořádně tenká a rychle se rozplývá, bez kulinářské hodnoty.",
+        "confusion": "Hnojník třpytivý (Coprinellus micaceus) roste v hustých trsech kolem tlejících pařezů listnáčů nebo odumírajících stromů, nikoli roztroušeně na mulči či slámě, má třpytivou plachetku z drobných slídovitých zrníček místo plstnatých útržků, postrádá límcovitou bazální pochvu a má menší výtrusy. Hnojník domácí (Coprinellus domesticus) dává přednost kmenům a pařezům listnáčů, má sytěji žlutohnědý střed klobouku se zrnitou plachetkou a mikroskopicky se odlišuje tlustostěnnými buňkami plachetky a menšími výtrusy s centrálním, nikoli excentrickým klíčním pórem. Ostatní druhy sekce Domestici se rovněž liší menšími výtrusy, zatímco hnojník zaječí (Coprinopsis lagopus) má jemnější, chlupatější, bělejší vláknitou plachetku a odlišnou morfologii výtrusů.",
+        "notes": "Přestože je v Evropě široce rozšířený, v části svého areálu je nehojný a v polském Červeném seznamu rostlin a hub je veden jako vzácný (R), zatímco ve Finsku je běžný. Jeho velké výtrusy se zřetelně excentrickým klíčním pórem a tenkostěnné, hladké elementy plachetky (40–125 × 10–150 µm) jsou klíčovými mikroskopickými znaky, které jej oddělují od blízce příbuzných hnojníků."
+      },
+      "da": {
+        "description": "En lille til mellemstor, skør, saprotrof blækhat, der vokser enkeltvis, spredt eller i små grupper på træflis, savsmuld, gammel halm og næringsrig jord. Den er vidt udbredt i Europa, Nordamerika og Oceanien og forekommer både i skove og i haver, græsplæner og indendørs pottemuld, hvor den hurtigt henflyder til en sort væske ved modenhed.",
+        "cap": "1,5–4,5 cm bred som udfoldet; næsten kugleformet, cylindrisk-ægformet eller ægformet som ung (op til 3 cm høj og 2 cm bred), senere kegleformet, klokkeformet og til sidst bredt kegleformet eller næsten flad. Overfladen er i begyndelsen dækket af et låddent, hvidligt til lædergult, filtagtigt fællessvøb, der brydes op i flygtige, uldne pletter og fnug koncentreret mod midten, hvor de bliver okkerfarvede til brunlige. Under svøbet er den matte hathud blegt okkerfarvet, gullig eller sennepsbrun på midten, lysere mod randen og falmer til grålig med alderen; randen er først indadbøjet, radialt stribet til dybt foldet næsten helt ind til midten og til sidst bølget, opadbøjet, opsprækkende eller henflydende. Kaliumhydroxid (KOH) giver en negativ reaktion på hatoverfladen.",
+        "hymenium": "Frie til smalt tilhæftede, meget tætstillede lameller, 3–8 mm brede, med tre til fire længder af hyppige korte mellemlameller samt fint hårede ægge og sider set gennem lup. Først hvide til cremefarvede, senere grålige til gråbrune og til sidst sorte, efterhånden som sporerne modnes, hvorefter de henflyder til en blækagtig væske. Basidierne er kølleformede, firesporede, 25–28 × 11–13 µm, omgivet af brachybasidioler; pleurocystider og lignende cheilocystider er utriforme til ellipsoidiske eller næsten sækformede, 60–80 × 32–40 µm, glatte, hyaline i KOH og med 1–2 µm tykke vægge.",
+        "stipe": "2–13 cm høj og 0,2–0,7 cm tyk, cylindrisk, jævntyk eller svagt kølleformet og fortykket ved basis, skør og hul uden indre marvtråd. Overfladen er hvid, fint dugget og svagt stribet som ung, men bliver snart glat og nøgen, mens basis anløber brunligt og bærer hvide myceliestrenge. Et delvist svøb mangler, men unge frugtlegemer har ofte en tynd, hvid, kraveagtig skede dannet af rester af fællessvøbet ved stokbasis.",
+        "flesh": "Meget tyndt (omkring 1 mm tykt i hatmidten), hvidligt til blegt okkerfarvet, skørt, uforanderligt ved gennemskæring og henflydende ved modenhed. Smagen er ikke karakteristisk, og lugten er ubetydelig som frisk, men kan blive svagt ubehagelig, når lamellerne henflyder.",
+        "sporePrint": "Sort. Sporerne måler 10–16,5 × 6,5–10 µm (oftest 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), er ellipsoidiske til mandelformede eller ægformede forfra og let affladede fra siden, glatte, meget mørkt rødbrune i KOH, med et utydeligt hilarvedhæng og en tydelig ekscentrisk spirepore på 1–2 µm i bredden.",
+        "habitat": "Saprotrof på træflis, savsmuld, nedgravet vedmateriale, rådnende halm, halm blandet med hestegødning, kompost, næringsrige græsplæner og købt pottemuld, hvor den vokser enkeltvis, spredt eller i små selskabelige grupper snarere end i tætte knipper. Den danner frugtlegemer fra forår til efterår – typisk juni til oktober i Centraleuropa – og kan optræde året rundt i milde klimaer eller indendørs efter fugtige perioder.",
+        "uses": "Uspiselig; kødet er yderst tyndt og henflyder hurtigt uden kulinarisk værdi.",
+        "confusion": "Coprinellus micaceus vokser i tætte knipper omkring rådnende løvtræsstubbe eller døende træer snarere end spredt på flis eller halm, har et glimtende svøb af fine glimmerkorn i stedet for filtagtige pletter, mangler en kraveagtig skede ved basis og har mindre sporer. Coprinellus domesticus foretrækker løvtræsstammer og -stubbe, har en mere rødbrun hatmidte med et kornet svøb og adskilles mikroskopisk på tykvæggede svøbceller og mindre sporer med central i stedet for ekscentrisk spirepore. Andre arter i sektion Domestici adskiller sig ligeledes ved mindre sporer, mens Coprinopsis lagopus har et finere, mere håret og hvidere trådet svøb samt en anden sporemorfologi.",
+        "notes": "Selvom arten er vidt udbredt i Europa, er den fåtallig i dele af sit udbredelsesområde og er opført som sjælden (R) på den polske rødliste over planter og svampe, mens den er almindelig i Finland. De store sporer med tydeligt ekscentrisk spirepore og de tyndvæggede, glatte svøbelementer (40–125 × 10–150 µm) er centrale mikroskopiske kendetegn, der adskiller den fra nærtstående blækhatte."
+      },
+      "de": {
+        "description": "Ein kleiner bis mittelgroßer, zerbrechlicher, saprotropher Tintling, der einzeln, verstreut oder in kleinen Gruppen auf Holzhackschnitzeln, Sägespänen, altem Stroh und nährstoffreichem Boden fruktifiziert. Er ist in Europa, Nordamerika und Ozeanien weit verbreitet, erscheint sowohl in Wäldern als auch in Gärten, auf Rasenflächen und in Blumenerde mit Mulch in Innenräumen und zerfließt im Alter rasch zu einer schwarzen Flüssigkeit.",
+        "cap": "Aufgeschirmt 1,5–4,5 cm breit; jung fast kugelig, zylindrisch-eiförmig oder eiförmig (bis 3 cm hoch und 2 cm breit), später kegelig, glockig und schließlich breit kegelig oder fast flach ausbreitend. Die Oberfläche ist anfangs von einem zottigen, weißlichen bis lederfarbenen, filzigen Gesamtvelum bedeckt, das in vergängliche wollige Flicken und Flocken aufreißt, die sich zur Mitte hin konzentrieren und dort ocker bis bräunlich verfärben. Darunter ist die matte Huthaut in der Mitte blass ocker, gelblich oder senfbraun, zum Rand hin blasser und im Alter gräulich verblassend; der Rand ist anfangs herabgebogen, radial gerieft bis tief gefaltet fast bis zur Mitte und schließlich wellig, aufgebogen, eingerissen oder zerfließend. Kalilauge (KOH) ergibt auf der Hutoberfläche eine negative Reaktion.",
+        "hymenium": "Freie bis angeheftete, sehr gedrängt stehende Lamellen, 3–8 mm breit, mit drei bis vier Reihen zahlreicher kurzer Zwischenlamellen sowie unter der Lupe fein behaarten Schneiden und Flächen. Anfangs weiß bis cremefarben, mit der Sporenreife gräulich bis graubraun und schließlich schwarz werdend, danach zu einer tintenartigen Flüssigkeit zerfließend. Die Basidien sind keulig, viersporig, 25–28 × 11–13 µm groß und von Brachybasidiolen umgeben; Pleurozystiden und ähnliche Cheilozystiden sind schlauchförmig (utriform) bis ellipsoid oder fast sackförmig, 60–80 × 32–40 µm, glatt, in KOH hyalin, mit 1–2 µm dicken Wänden.",
+        "stipe": "2–13 cm hoch und 0,2–0,7 cm dick, zylindrisch, gleichdick oder an der Basis leicht keulig verdickt, zerbrechlich und hohl ohne inneren Markstrang. Die Oberfläche ist weiß, jung fein bereift und schwach gerieft, bald glatt und kahl werdend, wobei sich die Basis bräunlich verfärbt und weiße Myzelfäden trägt. Ein Teilvelum fehlt, doch zeigen junge Fruchtkörper an der Stielbasis oft eine dünne, weiße, kragenartige Volva aus Resten des Gesamtvelums.",
+        "flesh": "Sehr dünn (in der Hutmitte etwa 1 mm dick), weißlich bis blass ocker, zerbrechlich, im Schnitt unveränderlich und im Alter zerfließend. Der Geschmack ist unauffällig und der Geruch frisch unbedeutend, beim Zerfließen der Lamellen bisweilen leicht unangenehm.",
+        "sporePrint": "Schwarz. Die Sporen messen 10–16,5 × 6,5–10 µm (meist 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), sind in Frontalansicht ellipsoid bis mandelförmig oder eiförmig und in Seitenansicht leicht abgeflacht, glatt, in KOH sehr dunkel rotbraun, mit unauffälligem Apikulus und deutlichem, exzentrischem, 1–2 µm breitem Keimporus.",
+        "habitat": "Saprotroph auf Holzhackschnitzeln, Sägespänen, vergrabenen Holzresten, verrottendem Stroh, mit Pferdemist vermischtem Stroh, Kompost, nährstoffreichen Rasenflächen und handelsüblichem Pflanzmulch; fruktifiziert einzeln, verstreut oder in kleinen geselligen Gruppen statt in dichten Büscheln. Er erscheint vom Frühjahr bis in den Herbst – in Mitteleuropa meist von Juni bis Oktober – und kann in mildem Klima oder nach feuchten Phasen auch ganzjährig in Innenräumen auftreten.",
+        "uses": "Ungenießbar; das Fleisch ist äußerst dünn und zerfließt rasch, ohne kulinarischen Wert.",
+        "confusion": "Der Glimmer-Tintling (Coprinellus micaceus) wächst in dichten Büscheln an morschen Laubholzstümpfen oder absterbenden Bäumen statt verstreut auf Mulch oder Stroh, besitzt ein glitzerndes Velum aus winzigen glimmerartigen Körnchen statt filziger Flicken, hat keine kragenartige Basalvolva und kleinere Sporen. Der Haus-Tintling (Coprinellus domesticus) bevorzugt Laubholzstämme und -stümpfe, hat eine stärker gelbbraune Hutmitte mit körnigem Velum und lässt sich mikroskopisch durch dickwandige Velumzellen sowie kleinere Sporen mit zentralem statt exzentrischem Keimporus abtrennen. Andere Arten der Sektion Domestici unterscheiden sich ebenfalls durch kleinere Sporen, während die Hasenpfote (Coprinopsis lagopus) ein feineres, haarigeres, weißeres faseriges Velum und eine andere Sporenmorphologie aufweist.",
+        "notes": "Obwohl er in Europa weit verbreitet ist, tritt er in Teilen seines Verbreitungsgebiets nur zerstreut auf und steht auf der Polnischen Roten Liste der Pflanzen und Pilze als selten (R), während er in Finnland häufig ist. Seine großen Sporen mit deutlich exzentrischem Keimporus und die dünnwandigen, glatten Velumelemente (40–125 × 10–150 µm) sind entscheidende mikroskopische Merkmale zur Abgrenzung von nahe verwandten Tintlingen."
+      },
+      "es": {
+        "description": "Seta coprinoide de tamaño pequeño a mediano, frágil y saprótrofa, que fructifica aislada, dispersa o en pequeños grupos sobre astillas de madera, serrín, paja vieja y suelos ricos en nutrientes. Ampliamente distribuida por Europa, Norteamérica y Oceanía, aparece tanto en bosques como en jardines, céspedes y mantillo de macetas de interior, disolviéndose rápidamente en un líquido negro al madurar.",
+        "cap": "De 1,5–4,5 cm de diámetro al expandirse; subgloboso, cilíndrico-ovoide u ovoide de joven (hasta 3 cm de altura y 2 cm de anchura), que se abre progresivamente a cónico, campanulado y finalmente anchamente cónico o casi plano. La superficie está cubierta inicialmente por un velo universal afieltrado, hirsuto y blanquecino a crema ocráceo que se fragmenta en placas lanosas y flóculos efímeros concentrados hacia el centro, donde toman tonos ocres o parduscos. Debajo, la cutícula mate es ocre pálida, amarillenta o pardo mostaza en el disco, más pálida hacia el margen y grisácea con la edad; el margen es incurvado al principio, radialmente estriado hasta profundamente plegado casi hasta el centro, y finalmente ondulado, recurvado, hendido o delicuescente. El hidróxido potásico (KOH) produce una reacción negativa sobre la superficie del sombrero.",
+        "hymenium": "Láminas libres a adnexas, muy apretadas, de 3–8 mm de anchura, con tres o cuatro series de lamélulas cortas frecuentes y aristas y caras finamente pubescentes bajo la lupa. Blancas a crema al principio, viran a grisáceas o pardo grisáceas y finalmente negras al madurar las esporas, licuándose después en un fluido tintóreo. Los basidios son claviformes, tetraspóricos, de 25–28 × 11–13 µm, rodeados de braquibasidiolos; los pleurocistidios y los queilocistidios similares son utriformes a elipsoides o subsaciformes, de 60–80 × 32–40 µm, lisos, hialinos en KOH y con paredes de 1–2 µm de grosor.",
+        "stipe": "De 2–13 cm de altura y 0,2–0,7 cm de grosor, cilíndrico, igual o ligeramente claviforme y ensanchado en la base, frágil y hueco sin filamento interno. La superficie es blanca, finamente pruinosa y débilmente estriada en ejemplares jóvenes, volviéndose pronto lisa y glabra, con la base manchada de pardusco y provista de cordones miceliares blancos. Carece de velo parcial, aunque los carpóforos jóvenes suelen mostrar en la base del pie una volva fina y blanca en forma de collar formada por restos del velo universal.",
+        "flesh": "Muy delgada (alrededor de 1 mm de grosor en el centro del sombrero), blanquecina a ocre pálida, frágil, inmutable al corte y delicuescente en la madurez. El sabor es poco marcado y el olor resulta indistinto en fresco, volviéndose a veces ligeramente desagradable a medida que las láminas se licúan.",
+        "sporePrint": "Negra. Esporas de 10–16,5 × 6,5–10 µm (habitualmente 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), elipsoides a amigdaliformes u ovoides en vista frontal y ligeramente aplanadas de perfil, lisas, de color pardo rojizo muy oscuro en KOH, con un apículo discreto y un poro germinativo excéntrico bien marcado de 1–2 µm de anchura.",
+        "habitat": "Saprótrofa sobre astillas de madera, serrín, restos leñosos enterrados, paja en descomposición, paja mezclada con estiércol de caballo, compost, céspedes ricos en nutrientes y mantillo comercial de macetas; fructifica solitaria, dispersa o en pequeños grupos gregarios en lugar de en haces densos. Fructifica de primavera a otoño —típicamente de junio a octubre en Europa Central— y puede aparecer durante todo el año en climas templados o en interiores tras periodos húmedos.",
+        "uses": "No comestible; la carne es sumamente delgada y se licúa con rapidez, sin ningún valor culinario.",
+        "confusion": "Coprinellus micaceus crece en haces densos alrededor de tocones de frondosas en descomposición o árboles moribundos en lugar de disperso sobre mantillo o paja, presenta un velo brillante de diminutos gránulos micáceos en vez de placas afieltradas, carece de volva basal en forma de collar y tiene esporas más pequeñas. Coprinellus domesticus prefiere troncos y tocones de frondosas, tiene el disco del sombrero de un pardo más leonado con un velo granuloso y se separa al microscopio por sus células velares de paredes gruesas y sus esporas más pequeñas con poro germinativo central en vez de excéntrico. Otras especies de la sección Domestici también difieren por sus esporas más pequeñas, mientras que Coprinopsis lagopus posee un velo fibroso más fino, peloso y blanco, además de una morfología esporal distinta.",
+        "notes": "Aunque está ampliamente distribuida por Europa, es poco frecuente en partes de su área de distribución y figura como rara (R) en la Lista Roja Polaca de Plantas y Hongos, mientras que en Finlandia es común. Sus esporas grandes con un poro germinativo claramente excéntrico y los elementos velares lisos y de paredes delgadas (40–125 × 10–150 µm) son caracteres microscópicos clave que la separan de especies estrechamente emparentadas."
+      },
+      "et": {
+        "description": "Väike kuni keskmise suurusega, habras saprotroofne tindik, mis kasvab üksikult, hajusalt või väikeste rühmadena puiduhakkel, saepurul, vanal põhul ja toitainerikkal mullal. See on laialt levinud Euroopas, Põhja-Ameerikas ja Okeaanias ning esineb nii metsades kui ka aedades, muruplatsidel ja siseruumide potimultšis, veeldudes küpsedes kiiresti mustaks vedelikuks.",
+        "cap": "Avanedes 1,5–4,5 cm lai; noorena peaaegu kerajas, silinderjas-munajas või munajas (kuni 3 cm kõrge ja 2 cm lai), hiljem koonusjas, kellukjas ning lõpuks laialt koonusjas või peaaegu lame. Pinda katab esialgu karvane, valkjas kuni seemisnahavärvi viltjas üldloor, mis laguneb kergesti kaduvateks villasteks laikudeks ja ebemeteks, koondudes kübara keskosa poole, kus need muutuvad ookerjaks kuni pruunikaks. Loori all on matt kübaranahk keskosas kahvatuookerjas, kollakas või sinepipruun, serva poole heledam ning vananedes hallikaks pleekuv; serv on algul allapoole kaardunud, radiaalselt sooniline kuni sügavalt voldiline peaaegu keskosani ning lõpuks lainjas, ülespoole käändunud, lõhenenud või veelduv. Kaaliumhüdroksiid (KOH) annab kübara pinnal negatiivse reaktsiooni.",
+        "hymenium": "Vabad kuni kitsalt jalale külgekasvanud, väga tihedad eoslehed, 3–8 mm laiad, kolme kuni nelja pikkusjärgu rohkete lühikeste vahe-eoslehtedega; luubi all on eoslehtede servad ja küljed peenelt karvased. Algul valged kuni kreemikad, muutudes eoste valmides hallikaks kuni hallikaspruuniks ja lõpuks mustaks, seejärel veeldudes tinditaoliseks vedelikuks. Basiidiumid on nuikujulised, neljaeoselised, 25–28 × 11–13 µm, ümbritsetud brahhübasiidioolidest; pleurotsüstiidid ja sarnased heilotsüstiidid on utriformsed, ellipsoidid või peaaegu kotjad, 60–80 × 32–40 µm, siledad, KOH-s hüaliinsed ja 1–2 µm paksuse seinaga.",
+        "stipe": "2–13 cm kõrge ja 0,2–0,7 cm jäme, silinderjas, ühtlase jämedusega või alusel kergelt nuijalt jämenenud, habras ja õõnes ilma sisemise niidita. Pind on valge, noorena peenelt härmatisega kaetud ja õrnalt sooniline, muutudes peagi siledaks ja paljaks; alus värvub pruunikaks ja kannab valgeid mütseeliniite. Osaloor puudub, kuid noortel viljakehadel esineb jala alusel sageli õhuke, valge, üldloori jäänustest moodustunud kraetaoline tupp.",
+        "flesh": "Väga õhuke (kübara keskosas umbes 1 mm paksune), valkjas kuni kahvatuookerjas, habras, lõikepinnal värvust mitte muutev ja küpsedes veelduv. Maitse ei ole iseloomulik ning lõhn on värskena tagasihoidlik, muutudes eoslehtede veeldumisel mõnikord nõrgalt ebameeldivaks.",
+        "sporePrint": "Must. Eosed on 10–16,5 × 6,5–10 µm (tavaliselt 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), eestvaates ellipsoidid, mandlikujulised või munajad ja külgvaates kergelt lamendunud, siledad, KOH-s väga tumepunakaspruunid, silmatorkamatu apikuluse ja selge ekstsentrilise, 1–2 µm laia idupooriga.",
+        "habitat": "Saprotroofne puiduhakkel, saepurul, maasse mattunud puidujäänustel, kõduneval põhul, hobusesõnnikuga segatud põhul, kompostis, toitainerikastel muruplatsidel ja kaubanduslikul potimultšil, kasvades üksikult, hajusalt või väikeste seltsivate rühmadena, mitte tihedate puhmikutena. Viljakehi moodustab kevadest sügiseni – Kesk-Euroopas tavaliselt juunist oktoobrini – ning pehmes kliimas või siseruumides võib ilmuda aasta ringi pärast niiskeid perioode.",
+        "uses": "Mittesöödav; seeneliha on äärmiselt õhuke ja veeldub kiiresti, ilma kulinaarse väärtuseta.",
+        "confusion": "Coprinellus micaceus kasvab tihedate puhmikutena kõdunevate lehtpuukändude või surevate puude ümber, mitte hajusalt multšil või põhul, selle loor koosneb sädelevatest pisikestest vilgutaolistest terakestest, mitte viltjatest laikudest, sellel puudub kraetaoline tupp jala alusel ja eosed on väiksemad. Coprinellus domesticus eelistab lehtpuutüvesid ja -kände, selle kübara keskosa on ruugem-pruun teralise looriga ning mikroskoopiliselt eristavad seda paksuseinalised loorirakud ja väiksemad eosed, millel on keskne, mitte ekstsentriline idupoor. Teised sektsiooni Domestici liigid eristuvad samuti väiksemate eoste poolest, samas kui liigil Coprinopsis lagopus on peenem, karvasem ja valgem kiuline loor ning teistsugune eoste morfoloogia.",
+        "notes": "Kuigi liik on Euroopas laialt levinud, esineb seda osa levila piires harva ning see on kantud haruldase (R) liigina Poola taimede ja seente punasesse nimestikku, samas kui Soomes on see tavaline. Suured eosed selgelt ekstsentrilise idupooriga ning õhukeseseinalised siledad loorielemendid (40–125 × 10–150 µm) on peamised mikroskoopilised tunnused, mis eristavad seda lähisugulastest tindikutest."
+      },
+      "fa": {
+        "description": "قارچ مرکبی ساپروتروف، شکننده و کوچک تا متوسط‌جثه است که به‌صورت تکی، پراکنده یا در دسته‌های کوچک روی خرده‌چوب، خاک‌اره، کاه کهنه و خاک غنی از مواد مغذی می‌روید. این گونه به‌طور گسترده در سراسر اروپا، آمریکای شمالی و اقیانوسیه پراکنش دارد و هم در جنگل‌ها و هم در باغ‌ها، چمن‌زارها و مالچ گلدان‌های خانگی دیده می‌شود و هنگام بلوغ به‌سرعت به مایعی سیاه‌رنگ آبگون می‌شود.",
+        "cap": "قطر کلاهک در حالت بازشده ۱٫۵–۴٫۵ سانتی‌متر است؛ در جوانی نیمه‌کروی، استوانه‌ای-تخم‌مرغی یا تخم‌مرغی‌شکل (تا ارتفاع ۳ سانتی‌متر و عرض ۲ سانتی‌متر) است و سپس به شکل مخروطی، زنگی و در نهایت مخروطی پهن یا تقریباً مسطح باز می‌شود. سطح آن در ابتدا با پرده عمومی ژولیده، سفیدمایل به نخودی و نمدی‌مانند پوشیده شده که به لکه‌های پشمی زودگذر و کرک‌هایی تجزیه می‌شود که به‌سوی مرکز متمرکز می‌شوند و در آنجا به رنگ اخرایی تا قهوه‌ای درمی‌آیند. در زیر آن، پوستک مات در مرکز اخرایی کم‌رنگ، زردمایل یا قهوه‌ای خردلی است، به‌سوی لبه روشن‌تر می‌شود و با افزایش سن به خاکستری می‌گراید؛ لبه در ابتدا به سمت پایین خمیده است، تقریباً تا مرکز دارای شیارهای شعاعی تا چین‌های عمیق بوده و در پایان موج‌دار، برگشته به بالا، شکافته یا آبگون می‌شود. هیدروکسید پتاسیم (KOH) روی سطح کلاهک واکنش منفی می‌دهد.",
+        "hymenium": "تیغه‌ها آزاد تا چسبیده باریک و بسیار متراکم‌اند، به عرض ۳–۸ میلی‌متر، با سه تا چهار ردیف تیغک‌های کوتاه فراوان و لبه‌ها و سطوحی که زیر ذره‌بین به‌طور بسیار ظریف کرک‌دارند. در ابتدا سفید تا کرم‌رنگ‌اند و با رسیدن هاگ‌ها به خاکستری تا قهوه‌ای-خاکستری و سرانجام سیاه تغییر رنگ می‌دهند، سپس به مایعی مرکبی آبگون می‌شوند. بازیدی‌ها گرزمانند، چهارهاگه و به ابعاد ۲۵–۲۸ × ۱۱–۱۳ میکرومترند و با براکی‌بازیدیول‌ها احاطه شده‌اند؛ پلوروسیستیدیاها و کایلوسیستیدیاهای مشابه آن‌ها کیسه‌ای-مخروطی (یوتریفرم) تا بیضی یا نیمه‌کیسه‌ای، به ابعاد ۶۰–۸۰ × ۳۲–۴۰ میکرومتر، صاف و در KOH شفاف‌اند و دیواره‌هایی به ضخامت ۱–۲ میکرومتر دارند.",
+        "stipe": "ساقه ۲–۱۳ سانتی‌متر ارتفاع و ۰٫۲–۰٫۷ سانتی‌متر ضخامت دارد، استوانه‌ای، یکنواخت یا اندکی گرزمانند و در پایه متورم، شکننده و توخالی بدون رشته درونی است. سطح آن سفید است و در جوانی به‌ظرافت پودری و دارای خطوط محو بوده و به‌زودی صاف و بی‌کرک می‌شود؛ پایه آن به قهوه‌ای رنگ می‌گیرد و رشته‌های سفید میسلیومی دارد. پرده جزئی وجود ندارد، اگرچه اندام‌های بارده جوان اغلب در پایه ساقه غلاف (ولوا) نازک، سفید و یقه‌مانندی دارند که از بقایای پرده عمومی شکل گرفته است.",
+        "flesh": "گوشت بسیار نازک (در مرکز کلاهک حدود ۱ میلی‌متر ضخامت)، سفیدمایل تا اخرایی کم‌رنگ و شکننده است، هنگام برش تغییر رنگ نمی‌دهد و در زمان بلوغ آبگون می‌شود. مزه آن شاخص نیست و بوی آن در حالت تازه نامشخص است و گاه با آبگون شدن تیغه‌ها اندکی نامطبوع می‌شود.",
+        "sporePrint": "سیاه. هاگ‌ها ۱۰–۱۶٫۵ × ۶٫۵–۱۰ میکرومتر (معمولاً ۱۱–۱۵٫۵ × ۶٫۵–۸٫۵ میکرومتر، Q = ۱٫۴–۱٫۸) هستند، در نمای روبه‌رو بیضی تا بادامی‌شکل یا تخم‌مرغی و در نمای جانبی اندکی پهن‌شده، صاف، در KOH قهوه‌ای مایل به قرمز بسیار تیره، با زائده نافی ناآشکار و منفذ جوانه‌زنی برون‌مرکزی برجسته به عرض ۱–۲ میکرومتر.",
+        "habitat": "ساپروتروف روی خرده‌چوب، خاک‌اره، بقایای چوبی مدفون، کاه پوسیده، کاه آمیخته با کود اسب، کمپوست، چمن‌زارهای غنی از مواد مغذی و مالچ گلدان تجاری است و به‌جای دسته‌های متراکم، به‌صورت تکی، پراکنده یا در گروه‌های کوچک می‌روید. از بهار تا پاییز—معمولاً ژوئن تا اکتبر در اروپای مرکزی—باردهی دارد و در اقلیم‌های معتدل یا فضاهای سرپوشیده پس از دوره‌های مرطوب می‌تواند در تمام طول سال ظاهر شود.",
+        "uses": "غیرخوراکی؛ گوشت آن بسیار نازک و به‌سرعت آبگون است و هیچ ارزش خوراکی ندارد.",
+        "confusion": "Coprinellus micaceus به‌جای رشد پراکنده روی مالچ یا کاه، در دسته‌های متراکم پیرامون کنده‌های پوسیده درختان پهن‌برگ یا درختان در حال خشک شدن می‌روید، به‌جای لکه‌های نمدی‌مانند پرده‌ای درخشان از دانه‌های ریز میکامانند دارد، فاقد ولوای یقه‌مانند در پایه است و هاگ‌های کوچک‌تری دارد. Coprinellus domesticus تنه‌ها و کنده‌های پهن‌برگان را ترجیح می‌دهد، مرکز کلاهک آن قهوه‌ای-خرمایی‌تر و دارای پرده دانه‌دار است و از نظر میکروسکوپی با یاخته‌های پرده‌ای ضخیم‌دیواره و هاگ‌های کوچک‌تر با منفذ جوانه‌زنی مرکزی (نه برون‌مرکزی) متمایز می‌شود. گونه‌های دیگر بخش Domestici نیز با هاگ‌های کوچک‌ترشان متفاوت‌اند، در حالی که Coprinopsis lagopus پرده رشته‌ای ظریف‌تر، پرموتر و سفیدتر و ریخت‌شناسی هاگ متفاوتی دارد.",
+        "notes": "هرچند در سراسر اروپا پراکنش گسترده‌ای دارد، در بخش‌هایی از گستره خود کم‌یاب است و در فهرست سرخ گیاهان و قارچ‌های لهستان در رده نادر (R) ثبت شده، در حالی که در فنلاند فراوان است. هاگ‌های بزرگ آن با منفذ جوانه‌زنی آشکارا برون‌مرکزی و عناصر پرده‌ای صاف و نازک‌دیواره (۴۰–۱۲۵ × ۱۰–۱۵۰ میکرومتر) ویژگی‌های میکروسکوپی کلیدی برای تفکیک آن از قارچ‌های مرکبی خویشاوندند."
+      },
+      "fi": {
+        "description": "Pieni tai keskikokoinen, hauras lahottajasieni, joka kasvaa yksittäin, hajallaan tai pieninä ryhminä puuhakkeella, sahanpurulla, vanhalla oljella ja runsasravinteisella maalla. Se on laajalle levinnyt Euroopassa, Pohjois-Amerikassa ja Oseaniassa, ja sitä esiintyy niin metsissä kuin puutarhoissa, nurmikoilla ja sisätilojen ruukkukatteissa; itiöemät sulavat kypsyessään nopeasti mustaksi nesteeksi.",
+        "cap": "Avautuneena 1,5–4,5 cm leveä; nuorena lähes pallomainen, lieriömäisen munanmuotoinen tai munanmuotoinen (enintään 3 cm korkea ja 2 cm leveä), laajeten kartiomaiseksi, kellomaiseksi ja lopulta leveän kartiomaiseksi tai lähes laakeaksi. Pintaa peittää aluksi pörröinen, valkeahko tai säämiskänvärinen, huopamainen ulkosuojus, joka hajoaa nopeasti katoaviksi villamaisiksi täpliksi ja hiutaleiksi keskittyen keskustaan, missä ne muuttuvat okranvärisiksi tai ruskehtaviksi. Suojuksen alla matta pintakelmu on keskustasta vaalean okranvärinen, kellertävä tai sinapinruskea, reunoja kohti vaaleampi ja haalistuu vanhemmiten harmahtavaksi; reuna on aluksi alaspäin taipunut, säteittäisuurteinen tai syvästi poimuttunut lähes keskustaan saakka ja lopulta aaltoileva, ylöspäin kääntynyt, repeilevä tai musteeksi sulava. Kaliumhydroksidi (KOH) antaa lakin pinnalla negatiivisen reaktion.",
+        "hymenium": "Irtonaiset tai kapealti jalkaan kiinnittyneet, hyvin tiheät heltat, 3–8 mm leveät; joukossa on kolmessa–neljässä pituusluokassa runsaasti lyhyitä välihelttoja, ja helttojen terät sekä sivut ovat luupilla tarkasteltuna hienon karvaiset. Aluksi valkoiset tai kermanväriset, muuttuen itiöiden kypsyessä harmahtaviksi, harmaanruskeiksi ja lopulta mustiksi, minkä jälkeen ne sulavat mustemaiseksi nesteeksi. Basidit ovat nuijamaisia, neli-itiöisiä, 25–28 × 11–13 µm, ja niitä ympäröivät brakybasidiolit; pleurokystidit ja samankaltaiset keilokystidit ovat utriformisia, ellipsoidisia tai lähes pussimaisia, 60–80 × 32–40 µm, sileitä, KOH:ssa hyaliineja ja niiden seinämät ovat 1–2 µm paksut.",
+        "stipe": "2–13 cm pitkä ja 0,2–0,7 cm paksu, tasapaksu tai tyveä kohti hieman nuijamaisesti paksuuntuva, hauras ja ontto ilman sisäistä rihmaa. Pinta on valkoinen, nuorena hienon härmäinen ja heikosti uurteinen, mutta muuttuu pian sileäksi ja kaljuksi; tyvi ruskettuu ja siinä on valkoisia rihmastonsäikeitä. Sisäsuojus puuttuu, mutta nuorilla itiöemillä on jalan tyvessä usein ohut, valkoinen, ulkosuojuksen jäänteistä muodostunut kaulusmainen tuppi.",
+        "flesh": "Hyvin ohut (lakin keskustassa noin 1 mm paksu), valkeahko tai vaalean okranvärinen, hauras, leikkauspinnasta muuttumaton ja kypsyessään musteeksi sulava. Maku on epätyypillinen ja haju tuoreena heikko, mutta saattaa muuttua lievästi epämiellyttäväksi helttojen sulaessa.",
+        "sporePrint": "Musta. Itiöt ovat 10–16,5 × 6,5–10 µm (yleensä 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), edestä katsottuna ellipsoidisia, mantelinmuotoisia tai munanmuotoisia ja sivulta hieman litistyneitä, sileitä, KOH:ssa hyvin tumman punaruskeita; niissä on huomaamaton apikulus ja selvä, epäkeskinen, 1–2 µm leveä ituhuokonen.",
+        "habitat": "Lahottaja puuhakkeella, sahanpurulla, maahan hautautuneella puuaineksella, lahoavalla oljella, hevosenlantaan sekoittuneella oljella, kompostissa, runsasravinteisilla nurmikoilla ja kaupallisessa ruukkukatteessa; kasvaa yksittäin, hajallaan tai pieninä ryhminä tiheiden tuppaiden sijaan. Itiöemiä kehittyy keväästä syksyyn – Keski-Euroopassa tyypillisesti kesäkuusta lokakuuhun – ja leudossa ilmastossa tai sisätiloissa niitä voi ilmaantua ympäri vuoden kosteiden jaksojen jälkeen.",
+        "uses": "Syötäväksi kelpaamaton; malto on äärimmäisen ohutta ja sulaa nopeasti, eikä sienellä ole ruokakäyttöarvoa.",
+        "confusion": "Coprinellus micaceus kasvaa tiheinä tuppaina lahoavien lehtipuukantojen tai kuolevien puiden tyvillä eikä hajallaan hakkeella tai oljella, sen suojus koostuu kiiltävistä pienistä kiillehiukkasista huopamaisten täplien sijaan, siltä puuttuu kaulusmainen tyvituppi ja sen itiöt ovat pienemmät. Coprinellus domesticus suosii lehtipuiden runkoja ja kantoja, sen lakin keskusta on kellanruskeampi ja suojus jyväinen, ja mikroskooppisesti sen erottavat paksuseinäiset suojussolut sekä pienemmät itiöt, joissa on keskinen eikä epäkeskinen ituhuokonen. Muut sektion Domestici lajit eroavat samoin pienempien itiöidensä perusteella, kun taas Coprinopsis lagopus -lajilla on hienompi, karvaisempi ja valkoisempi säikeinen suojus sekä erilainen itiömorfologia.",
+        "notes": "Vaikka laji on laajalle levinnyt Euroopassa, se on osassa levinneisyysaluettaan harvalukuinen ja merkitty harvinaiseksi (R) Puolan kasvien ja sienten punaisella listalla, kun taas Suomessa se on yleinen. Suuret itiöt selvästi epäkeskisine ituhuokosineen sekä ohutseinäiset, sileät suojuselementit (40–125 × 10–150 µm) ovat keskeisiä mikroskooppisia tuntomerkkejä, jotka erottavat sen lähisukuisista mustesienistä."
+      },
+      "fr": {
+        "description": "Petit à moyen coprin fragile et saprotrophe, poussant isolément, de façon dispersée ou en petits groupes sur les copeaux de bois, la sciure, la vieille paille et les sols riches en nutriments. Largement répandu en Europe, en Amérique du Nord et en Océanie, il apparaît aussi bien en forêt que dans les jardins, sur les pelouses et dans le paillis des plantes d'intérieur, en se liquéfiant rapidement en un liquide noir à maturité.",
+        "cap": "De 1,5–4,5 cm de diamètre une fois étalé ; subglobuleux, cylindro-ovoïde ou ovoïde dans la jeunesse (jusqu'à 3 cm de haut et 2 cm de large), s'étalant ensuite en forme conique, campanulée, puis largement conique ou presque plane. La surface est d'abord recouverte d'un voile général feutré, hirsute, blanchâtre à chamois, qui se fragmente en plaques laineuses et flocons fugaces concentrés vers le centre, où ils deviennent ocre à brunâtres. Dessous, la cuticule mate est ocre pâle, jaunâtre ou brun moutarde au disque, plus pâle vers la marge, pâlissant vers le grisâtre avec l'âge ; la marge est d'abord incurvée, striée radialement à profondément plissée presque jusqu'au centre, puis ondulée, récurvée, fendillée ou déliquescente. La potasse (KOH) donne une réaction négative sur la surface du chapeau.",
+        "hymenium": "Lames libres à adnexées, très serrées, larges de 3–8 mm, entrecoupées de trois à quatre séries de nombreuses lamellules courtes, à arêtes et faces finement pubescentes à la loupe. Blanches à crème au début, elles deviennent grisâtres à gris-brun puis noires à maturité des spores, avant de se liquéfier en un fluide d'encre. Les basides sont clavées, tétrasporiques, de 25–28 × 11–13 µm, entourées de brachybasidioles ; les pleurocystides et les cheilocystides similaires sont utriformes à ellipsoïdes ou subsacciformes, de 60–80 × 32–40 µm, lisses, hyalines dans le KOH, à parois épaisses de 1–2 µm.",
+        "stipe": "Pied haut de 2–13 cm et épais de 0,2–0,7 cm, cylindrique, égal ou légèrement clavé et renflé à la base, fragile et creux sans cordon interne. La surface est blanche, finement pruineuse et faiblement striée dans la jeunesse, devenant vite lisse et glabre, la base se tachant de brunâtre et portant des cordons mycéliens blancs. Le voile partiel est absent, bien que les jeunes sporophores présentent souvent à la base du pied une fine volve blanche en collerette formée par les restes du voile général.",
+        "flesh": "Chair très mince (environ 1 mm d'épaisseur au disque du chapeau), blanchâtre à ocre pâle, fragile, immuable à la coupe et déliquescente à maturité. Saveur peu marquée et odeur indistincte à l'état frais, devenant parfois légèrement fétide lors de la liquéfaction des lames.",
+        "sporePrint": "Noire. Les spores mesurent 10–16,5 × 6,5–10 µm (couramment 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), elles sont ellipsoïdes à amygdaliformes ou ovoïdes de face et légèrement aplaties de profil, lisses, brun-rouge très foncé dans le KOH, avec un apicule discret et un pore germinatif excentrique bien visible de 1–2 µm de large.",
+        "habitat": "Saprotrophe sur les copeaux de bois, la sciure, les débris ligneux enfouis, la paille pourrissante, la paille mêlée de fumier de cheval, le compost, les pelouses riches en nutriments et le paillis horticole du commerce, poussant isolément, de manière dispersée ou en petits groupes grégaires plutôt qu'en touffes denses. Il fructifie du printemps à l'automne – généralement de juin à octobre en Europe centrale – et peut apparaître toute l'année sous climat doux ou à l'intérieur après des périodes humides.",
+        "uses": "Non comestible ; la chair est extrêmement mince et rapidement déliquescente, sans aucun intérêt culinaire.",
+        "confusion": "Le coprin micacé (Coprinellus micaceus) pousse en touffes denses autour des souches de feuillus en décomposition ou des arbres dépérissants plutôt que dispersé sur du paillis ou de la paille, possède un voile brillant fait de minuscules granules micacés au lieu de plaques feutrées, est dépourvu de volve basale en collerette et a des spores plus petites. Le coprin domestique (Coprinellus domesticus) préfère les troncs et souches de feuillus, présente un disque plus brun fauve avec un voile granuleux et s'en distingue au microscope par des cellules vélaires à paroi épaisse et des spores plus petites à pore germinatif central plutôt qu'excentrique. Les autres espèces de la section Domestici diffèrent également par leurs spores plus petites, tandis que le coprin pied-de-lièvre (Coprinopsis lagopus) possède un voile fibreux plus fin, plus poilu et plus blanc ainsi qu'une morphologie sporale différente.",
+        "notes": "Bien que largement répandu en Europe, il est peu fréquent dans une partie de son aire et figure comme rare (R) sur la Liste rouge polonaise des plantes et des champignons, alors qu'il est commun en Finlande. Ses grandes spores à pore germinatif nettement excentrique et ses éléments vélaires lisses à paroi mince (40–125 × 10–150 µm) constituent des caractères microscopiques clés le séparant des coprins étroitement apparentés."
+      },
+      "he": {
+        "description": "פטריית דיו סאפרוטרופית, עדינה ושבירה, קטנה עד בינונית בגודלה, המניבה גופי פרי בודדים, פזורים או בקבוצות קטנות על שבבי עץ, נסורת, קש ישן וקרקע עשירה בחומרי הזנה. היא נפוצה ברחבי אירופה, אמריקה הצפונית ואוקיאניה, ומופיעה ביערות וכן בגינות, במדשאות ובחיפוי עציצים בתוך מבנים, ונמסה במהירות לנוזל שחור בהבשלה.",
+        "cap": "קוטר הכובע 1.5–4.5 ס\"מ כשהוא פרוס; בצעירותו הוא כדורי למחצה, גלילי-ביצני או דמוי ביצה (עד גובה 3 ס\"מ ורוחב 2 ס\"מ), ונפרש בהדרגה לצורה חרוטית, פעמונית ולבסוף חרוטית רחבה או כמעט שטוחה. פני השטח מכוסים בתחילה בצעיף כללי מדובלל, לבנבן עד צהבהב-חום בהיר ובעל מרקם לבד, המתפרק לכתמים צמריריים חולפים ולפתיתים המתרכזים לעבר המרכז, שם צבעם הופך לאוכרה עד חום. מתחת לצעיף, הקוטיקולה העמומה היא בגוון אוכרה חיוור, צהבהב או חום-חרדל במרכז, בהירה יותר כלפי השוליים, ודוהה לאפרפר עם הגיל; השוליים כפופים כלפי מטה בתחילה, מפוספסים רדיאלית עד מקופלים לעומק כמעט עד המרכז, ולבסוף גליים, מופשלים לאחור, סדוקים או מתנזלים. אשלגן הידרוקסידי (KOH) נותן תגובה שלילית על פני הכובע.",
+        "hymenium": "דפים חופשיים עד נוגעים קלות ברגל, צפופים מאוד, ברוחב 3–8 מ\"מ, עם שלוש עד ארבע דרגות של דפיות קצרות תכופות ועם שוליים וצדדים שעירים זעיר תחת זכוכית מגדלת. בתחילה צבעם לבן עד קרם, ולאחר מכן הם הופכים לאפרפרים עד אפור-חום ולבסוף שחורים עם הבשלת הנבגים, ואז מתנזלים לנוזל דמוי דיו. הבסידיות דמויות אלה, בעלות ארבעה נבגים, בגודל 25–28 × 11–13 מיקרומטר, ומוקפות בברכיבסידיולות; הפלאורוציסטידיות והכיילוציסטידיות הדומות להן הן דמויות נאד עד אליפסואידיות או תת-שקיות, בגודל 60–80 × 32–40 מיקרומטר, חלקות, שקופות ב-KOH ובעלות דפנות בעובי 1–2 מיקרומטר.",
+        "stipe": "הרגל בגובה 2–13 ס\"מ ובעובי 0.2–0.7 ס\"מ, גלילית, שווה בעובייה או מעט דמוית אלה ומורחבת בבסיסה, שבירה וחלולה ללא סיב פנימי. פני השטח לבנים, אבקתיים בעדינות ומפוספסים קלושות בצעירותם, ונעשים במהרה חלקים וקרחים, בעוד הבסיס מוכתם בחום ונושא קורי תפטיר לבנים. צעיף חלקי נעדר, אך בגופי פרי צעירים מופיע לעיתים קרובות נרתיק לבן ודק דמוי צווארון שנוצר משרידי הצעיף הכללי בבסיס הרגל.",
+        "flesh": "הבשר דק מאוד (בעובי של כ-1 מ\"מ במרכז הכובע), לבנבן עד אוכרה חיוור, שביר, אינו משנה את צבעו בחיתוך ומתנזל בהבשלה. הטעם אינו מובהק, והריח אינו בולט כשהפטרייה טרייה, ולעיתים נעשה רע מעט כשהדפים מתנזלים.",
+        "sporePrint": "שחור. הנבגים בגודל 10–16.5 × 6.5–10 מיקרומטר (בדרך כלל 11–15.5 × 6.5–8.5 מיקרומטר, Q = 1.4–1.8), אליפסואידיים עד דמויי שקד או ביצניים במבט חזיתי ושטוחים מעט במבט צידי, חלקים, חומים-אדמדמים כהים מאוד ב-KOH, בעלי תוספת הילארית לא בולטת ונקב נביטה אקסצנטרי בולט ברוחב 1–2 מיקרומטר.",
+        "habitat": "סאפרוטרופית על שבבי עץ, נסורת, שרידי עץ קבורים, קש רקוב, קש מעורב בזבל סוסים, קומפוסט, מדשאות עשירות בחומרי הזנה וחיפוי עציצים מסחרי, ומניבה גופי פרי בודדים, פזורים או בקבוצות קטנות ולא בצרורות צפופים. היא מופיעה מהאביב ועד הסתיו — בדרך כלל מיוני עד אוקטובר במרכז אירופה — ויכולה להופיע לאורך כל השנה באקלים מתון או בתוך מבנים לאחר תקופות לחות.",
+        "uses": "לא למאכל; הבשר דק ביותר ומתנזל במהירות, ואין לפטרייה כל ערך קולינרי.",
+        "confusion": "Coprinellus micaceus גדלה בצרורות צפופים סביב גדמים רקובים של עצים רחבי עלים או עצים גוססים ולא פזורה על חיפוי או קש, יש לה צעיף מנצנץ של גרגירים זעירים דמויי נציץ במקום כתמי לבד, היא חסרה נרתיק בסיסי דמוי צווארון, ונבגיה קטנים יותר. Coprinellus domesticus מעדיפה גזעים וגדמים של עצים רחבי עלים, מרכז הכובע שלה חום-צהבהב יותר עם צעיף גרגירי, והיא נבדלת מיקרוסקופית בתאי צעיף עבי-דופן ובנבגים קטנים יותר בעלי נקב נביטה מרכזי ולא אקסצנטרי. גם מינים אחרים בסקציה Domestici נבדלים בנבגים קטנים יותר, ואילו ל-Coprinopsis lagopus יש צעיף סיבי עדין, שעיר ולבן יותר ומורפולוגיית נבגים שונה.",
+        "notes": "אף שהיא נפוצה ברחבי אירופה, היא נדירה בחלקים מתחום תפוצתה ורשומה כנדירה (R) ברשימה האדומה של הצמחים והפטריות של פולין, בעוד שבפינלנד היא שכיחה. נבגיה הגדולים בעלי נקב הנביטה האקסצנטרי המובהק ומרכיבי הצעיף החלקים ודקי-הדופן (40–125 × 10–150 מיקרומטר) הם מאפיינים מיקרוסקופיים מרכזיים המפרידים אותה מפטריות דיו קרובות."
+      },
+      "hi": {
+        "description": "यह एक छोटा से मध्यम आकार का, नाज़ुक, मृतोपजीवी स्याही-छत्रक मशरूम है जो लकड़ी के टुकड़ों, बुरादे, पुराने भूसे और पोषक तत्वों से भरपूर मिट्टी पर अकेले, बिखरे हुए या छोटे समूहों में उगता है। यूरोप, उत्तरी अमेरिका और ओशिनिया में व्यापक रूप से वितरित यह कवक जंगलों के साथ-साथ बगीचों, लॉन और घर के अंदर के गमलों की मल्च में भी दिखाई देता है, और परिपक्व होने पर तेज़ी से काले तरल में घुल जाता है।",
+        "cap": "फैलने पर टोपी 1.5–4.5 सेमी चौड़ी होती है; युवा अवस्था में यह लगभग गोलाकार, बेलनाकार-अंडाकार या अंडे के आकार की (अधिकतम 3 सेमी ऊँची और 2 सेमी चौड़ी) होती है, जो फैलकर शंक्वाकार, घंटी के आकार की और अंततः चौड़ी शंक्वाकार या लगभग चपटी हो जाती है। इसकी सतह शुरुआत में रोएँदार, सफ़ेद से हल्के भूरे-पीले (बफ़), फ़ेल्ट जैसे सार्वभौमिक आवरण से ढकी होती है, जो टूटकर क्षणभंगुर ऊनी धब्बों और गुच्छों में बंट जाता है और केंद्र की ओर एकत्रित हो जाता है, जहाँ इनका रंग गेरुआ से भूरा हो जाता है। इसके नीचे, बिना चमक वाली बाहरी त्वचा केंद्र में हल्की गेरुआ, पीलापन लिए हुए या सरसों-भूरी होती है, किनारे की ओर हल्की पड़ती है और उम्र के साथ धूसर हो जाती है; किनारा शुरुआत में नीचे की ओर मुड़ा होता है, लगभग केंद्र तक अरीय रूप से धारीदार से गहरे प्लीटेड होता है, और अंत में लहरदार, ऊपर की ओर मुड़ा हुआ, फटा हुआ या द्रवित हो जाता है। पोटैशियम हाइड्रॉक्साइड (KOH) टोपी की सतह पर नकारात्मक प्रतिक्रिया देता है।",
+        "hymenium": "गिल्स मुक्त से लेकर डंठल से हल्के जुड़े हुए, बहुत घने और 3–8 मिमी चौड़े होते हैं, जिनमें तीन से चार स्तरों के छोटे उप-गिल्स (लैमेलुली) होते हैं और आवर्धक लेंस के नीचे इनके किनारे और सतहें सूक्ष्म रूप से रोएँदार दिखती हैं। ये शुरुआत में सफ़ेद से क्रीम रंग के होते हैं, बीजाणुओं के परिपक्व होने पर धूसर से धूसर-भूरे और अंततः काले हो जाते हैं, फिर स्याही जैसे तरल में घुल जाते हैं। बेसिडिया गदाकार, चार-बीजाणु वाले, 25–28 × 11–13 µm आकार के होते हैं और ब्रैकीबेसिडिओल्स से घिरे रहते हैं; प्लूरोसिस्टिडिया और वैसे ही काइलोसिस्टिडिया थैलीनुमा-संकुचित (यूट्रीफॉर्म) से दीर्घवृत्ताकार या उप-थैलीनुमा, 60–80 × 32–40 µm आकार के, चिकने, KOH में पारदर्शी होते हैं और इनकी भित्तियाँ 1–2 µm मोटी होती हैं।",
+        "stipe": "डंठल 2–13 सेमी लंबा और 0.2–0.7 सेमी मोटा, बेलनाकार, एकसमान या आधार पर थोड़ा गदाकार व फूला हुआ, नाज़ुक और बिना किसी आंतरिक धागे के खोखला होता है। सतह सफ़ेद होती है, युवा अवस्था में बारीक चूर्णिल और हल्की धारीदार रहती है, जो शीघ्र ही चिकनी और रोएँरहित हो जाती है; आधार भूरा पड़ जाता है और उस पर सफ़ेद कवकजाल के धागे लगे होते हैं। आंशिक आवरण अनुपस्थित होता है, हालाँकि युवा फलनकाय के डंठल के आधार पर सार्वभौमिक आवरण के अवशेषों से बना एक पतला, सफ़ेद, कॉलर जैसा वोलवा अक्सर दिखाई देता है।",
+        "flesh": "गूदा बहुत पतला (टोपी के केंद्र में लगभग 1 मिमी मोटा), सफ़ेद से हल्का गेरुआ, नाज़ुक होता है, काटने पर रंग नहीं बदलता और परिपक्व होने पर द्रवित हो जाता है। स्वाद विशिष्ट नहीं होता, और ताज़ा होने पर गंध अस्पष्ट रहती है, जो गिल्स के घुलने पर कभी-कभी हल्की दुर्गंधयुक्त हो जाती है।",
+        "sporePrint": "काला। बीजाणु 10–16.5 × 6.5–10 µm (सामान्यतः 11–15.5 × 6.5–8.5 µm, Q = 1.4–1.8) आकार के होते हैं, सामने से देखने पर दीर्घवृत्ताकार से बादाम के आकार के या अंडाकार तथा पार्श्व दृश्य में थोड़े चपटे, चिकने, KOH में बहुत गहरे लाल-भूरे रंग के होते हैं, जिनमें एक अस्पष्ट हिलर उपांग और 1–2 µm चौड़ा स्पष्ट विकेंद्रित अंकुरण छिद्र होता है।",
+        "habitat": "लकड़ी के टुकड़ों, बुरादे, मिट्टी में दबे लकड़ी के अवशेषों, सड़ते हुए भूसे, घोड़े की लीद मिले भूसे, खाद, पोषक तत्वों से भरपूर लॉन और व्यावसायिक गमले की मल्च पर मृतोपजीवी के रूप में उगता है; यह घने गुच्छों के बजाय अकेले, बिखरे हुए या छोटे समूहों में फलता है। यह वसंत से शरद ऋतु तक—मध्य यूरोप में सामान्यतः जून से अक्टूबर तक—फलता है और सौम्य जलवायु या घर के अंदर नम अवधियों के बाद वर्ष भर दिखाई दे सकता है।",
+        "uses": "अखाद्य; इसका गूदा अत्यंत पतला और तेज़ी से द्रवित होने वाला होता है, और इसका कोई पाक मूल्य नहीं है।",
+        "confusion": "Coprinellus micaceus मल्च या भूसे पर बिखरे उगने के बजाय सड़ते हुए चौड़ी पत्ती वाले पेड़ों के ठूंठों या मरते हुए पेड़ों के आसपास घने गुच्छों में उगता है, इसमें फ़ेल्ट जैसे धब्बों के बजाय अभ्रक जैसे सूक्ष्म कणों का चमकदार आवरण होता है, आधार पर कॉलर जैसा वोलवा नहीं होता और इसके बीजाणु छोटे होते हैं। Coprinellus domesticus चौड़ी पत्ती वाले पेड़ों के लट्ठों और ठूंठों को पसंद करता है, इसकी टोपी का केंद्र अधिक पीला-भूरा और आवरण दानेदार होता है, तथा सूक्ष्मदर्शी रूप से यह मोटी भित्ति वाली आवरण कोशिकाओं और विकेंद्रित के बजाय केंद्रीय अंकुरण छिद्र वाले छोटे बीजाणुओं से अलग पहचाना जाता है। Domestici अनुभाग की अन्य प्रजातियाँ भी अपने छोटे बीजाणुओं से भिन्न होती हैं, जबकि Coprinopsis lagopus में अधिक महीन, अधिक रोएँदार और अधिक सफ़ेद रेशेदार आवरण तथा भिन्न बीजाणु आकारिकी होती है।",
+        "notes": "यद्यपि यह पूरे यूरोप में व्यापक रूप से फैला हुआ है, अपने वितरण क्षेत्र के कुछ हिस्सों में यह विरल है और पोलैंड की पौधों व कवकों की लाल सूची में इसे दुर्लभ (R) के रूप में सूचीबद्ध किया गया है, जबकि फ़िनलैंड में यह सामान्य है। इसके स्पष्ट रूप से विकेंद्रित अंकुरण छिद्र वाले बड़े बीजाणु और पतली भित्ति वाले, चिकने आवरण तत्व (40–125 × 10–150 µm) प्रमुख सूक्ष्मदर्शी लक्षण हैं जो इसे निकट संबंधी स्याही-छत्रक मशरूमों से अलग करते हैं।"
+      },
+      "hr": {
+        "description": "Mala do srednje velika, krhka saprotrofna gljiva koja plodonosi pojedinačno, raspršeno ili u manjim skupinama na drvenoj sječki, piljevini, staroj slami i tlu bogatom hranjivim tvarima. Široko je rasprostranjena diljem Europe, Sjeverne Amerike i Oceanije, a pojavljuje se u šumama kao i u vrtovima, na travnjacima te u malču sobnih biljaka; u zrelosti se brzo razlaže u crnu tekućinu.",
+        "cap": "Raširen promjera 1,5–4,5 cm; u mladosti gotovo kuglast, valjkasto jajolik ili jajolik (do 3 cm visok i 2 cm širok), zatim se širi u stožast, zvonolik i naposljetku široko stožast ili gotovo ravan oblik. Površina je isprva prekrivena čupavim, bjelkastim do žućkastosmeđim, pustenastim općim ovojem koji se raspada u prolazne vunaste krpice i pahuljice gušće prema tjemenu, gdje postaju oker do smećkaste. Ispod njega mat kožica na tjemenu je blijedooker, žućkasta ili senfasto smeđa, svjetlija prema rubu, a starenjem blijedi u sivkaste tonove; rub je isprva podvijen, zrakasto izbrazdan do duboko naboran gotovo do sredine, a na kraju valovit, izvrnut, rascijepljen ili se otapa. Kalijev hidroksid (KOH) daje negativnu reakciju na površini klobuka.",
+        "hymenium": "Listići su slobodni do usko prirasli, vrlo gusti, široki 3–8 mm, s tri do četiri reda čestih kraćih međulistića te pod povećalom sitno dlakavih oštrica i ploha. Isprva su bijeli do kremasti, sazrijevanjem spora postaju sivkasti do sivosmeđi i na kraju crni, a potom se pretvaraju u tekućinu nalik tinti. Bazidiji su batinasti, četverosporni, 25–28 × 11–13 µm, okruženi brahibazidiolama; pleurocistide i slične heilocistide su mjehuraste do elipsoidne ili gotovo vrećaste, 60–80 × 32–40 µm, glatke, prozirne u KOH-u, sa stijenkama debelim 1–2 µm.",
+        "stipe": "Visok 2–13 cm i debeo 0,2–0,7 cm, valjkast, jednoliko debeo ili blago batinast i zadebljan pri dnu, krhak i šupalj bez unutarnje niti. Površina je bijela, u mladosti fino pahuljasta i slabo uzdužno prugasta, ubrzo postaje glatka i gola, dok dno smećkasto tamni i nosi bijele micelijske niti. Djelomični ovoj nedostaje, iako mlada plodna tijela pri dnu stručka često imaju tanku, bijelu volvu nalik ovratniku nastalu od ostataka općeg ovoja.",
+        "flesh": "Vrlo tanko (oko 1 mm debelo u sredini klobuka), bjelkasto do blijedooker, krhko, na presjeku ne mijenja boju, a u zrelosti se otapa. Okus nije izražen, a miris je u svježem stanju neizrazit, dok pri otapanju listića ponekad postaje blago neugodan.",
+        "sporePrint": "Crn. Spore su 10–16,5 × 6,5–10 µm (obično 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), sprijeda elipsoidne, bademaste ili jajolike, a bočno blago spljoštene, glatke, vrlo tamno crvenkastosmeđe u KOH-u, s neupadljivim apikulusom i izraženom ekscentričnom klijavom porom širokom 1–2 µm.",
+        "habitat": "Saprotrofna vrsta na drvenoj sječki, piljevini, zakopanim drvenim ostacima, truloj slami, slami pomiješanoj s konjskim gnojem, kompostu, travnjacima bogatim hranjivim tvarima i kupovnom malču za lončanice; plodonosi pojedinačno, raspršeno ili u malim skupinama, a ne u gustim busenovima. Plodonosi od proljeća do jeseni — u Srednjoj Europi obično od lipnja do listopada — a u blagim klimama ili u zatvorenom prostoru nakon vlažnih razdoblja može se pojavljivati tijekom cijele godine.",
+        "uses": "Nejestiva; meso je iznimno tanko i brzo se razlaže u tekućinu, bez ikakve kulinarske vrijednosti.",
+        "confusion": "Coprinellus micaceus raste u gustim busenovima oko trulih panjeva bjelogorice ili odumirućih stabala, a ne raspršeno na malču ili slami, ima sjajan ovoj od sitnih tinjčastih zrnaca umjesto pustenastih krpica, nema bazalnu volvu nalik ovratniku i ima manje spore. Coprinellus domesticus preferira bjelogorična debla i panjeve, ima tamnije riđesmeđe tjeme klobuka sa zrnatim ovojem, a mikroskopski se razlikuje po stanicama ovoja debelih stijenki i manjim sporama sa središnjom, a ne ekscentričnom klijavom porom. Ostale vrste iz sekcije Domestici također se razlikuju po manjim sporama, dok Coprinopsis lagopus ima finiji, dlakaviji, bjelji vlaknasti ovoj i drukčiju morfologiju spora.",
+        "notes": "Iako je široko rasprostranjena diljem Europe, u dijelovima svog areala je rjeđa te je na Poljskom crvenom popisu biljaka i gljiva navedena kao rijetka (R), dok je u Finskoj česta. Velike spore s izrazito ekscentričnom klijavom porom i tankostijeni, glatki elementi ovoja (40–125 × 10–150 µm) ključne su mikroskopske značajke koje je odvajaju od blisko srodnih vrsta."
+      },
+      "hu": {
+        "description": "Kicsi vagy közepes termetű, törékeny, szaprotróf tintagomba, amely egyesével, szórtan vagy kisebb csoportokban terem faaprítékon, fűrészporon, régi szalmán és tápanyagban gazdag talajon. Európában, Észak-Amerikában és Óceániában is széles körben elterjedt; erdőkben, valamint kertekben, gyepeken és beltéri cserepes növények mulcsában egyaránt megjelenik, és éretten gyorsan fekete folyadékká folyósodik.",
+        "cap": "Kiterülve 1,5–4,5 cm átmérőjű; fiatalon csaknem gömbölyded, hengeres-tojásdad vagy tojás alakú (legfeljebb 3 cm magas és 2 cm széles), később kúpos, harang alakú, végül szélesen kúpos vagy közel lapos lesz. Felületét kezdetben bozontos, fehéres–okkeres, nemezes általános burok borítja, amely múlékony, gyapjas foltokra és pelyhekre szakadozik; ezek a kalap közepe felé sűrűsödnek, és ott okkersárgára vagy barnásra színeződnek. Alatta a matt kalapbőr középen halványokker, sárgás vagy mustárbarna, a széle felé világosabb, idővel pedig szürkés árnyalatúra fakul; széle kezdetben aláhajló, csaknem a közepéig sugarasan bordás vagy mélyen ráncolt, végül hullámos, felhajló, beszakadozó vagy elfolyósodó. A kalap felületén a kálium-hidroxid (KOH) negatív reakciót ad.",
+        "hymenium": "Szabadon álló vagy tönkhöz nőtt, nagyon sűrű lemezek, 3–8 mm szélesek, három-négy szintben gyakori rövid köztes lemezekkel; nagyító alatt élük és lapjuk finoman szőrös. Kezdetben fehérek vagy krémszínűek, a spórák érésével szürkésre, szürkésbarnára, végül feketére színeződnek, majd tintaszerű folyadékká folyósodnak. A bazídiumok bunkósak, négyspórásak, 25–28 × 11–13 µm-esek, brachibazidiolákkal körülvéve; a pleurocisztídiumok és a hasonló keilocisztídiumok tömlősek, ellipszoidok vagy csaknem zsák alakúak, 60–80 × 32–40 µm-esek, simák, KOH-ban színtelenek, faluk 1–2 µm vastag.",
+        "stipe": "2–13 cm magas és 0,2–0,7 cm vastag, hengeres, egyenletes vastagságú vagy enyhén bunkós és a tövénél kiszélesedő, törékeny, üreges, belső fonal nélkül. Felülete fehér, fiatalon finoman hamvas és gyengén barázdált, hamar simává és csupasszá válik; töve barnásan elszíneződik, és fehér micéliumfonalak borítják. Részleges burok nincs, de a fiatal termőtestek tönkjének tövén gyakran látható az általános burok maradványaiból kialakult vékony, fehér, gallérszerű bocskor.",
+        "flesh": "Nagyon vékony (a kalap közepén körülbelül 1 mm vastag), fehéres vagy halványokker, törékeny, vágásra nem színeződik el, éretten elfolyósodik. Íze nem jellegzetes, szaga frissen jelentéktelen, a lemezek elfolyósodásakor időnként enyhén kellemetlenné válik.",
+        "sporePrint": "Fekete. A spórák 10–16,5 × 6,5–10 µm-esek (rendszerint 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), szemből ellipszoidok, mandula alakúak vagy tojásdadok, oldalnézetben kissé lapítottak, simák, KOH-ban nagyon sötét vörösesbarnák, kevéssé feltűnő apikulusszal és feltűnő, excentrikus, 1–2 µm széles csírapórussal.",
+        "habitat": "Szaprotróf faj, amely faaprítékon, fűrészporon, talajba temetett faanyagon, korhadó szalmán, lótrágyával kevert szalmán, komposzton, tápanyagban gazdag gyepeken és bolti virágföldmulcson él; többnyire egyesével, szórtan vagy kisebb csoportokban terem, nem sűrű csomókban. Tavasztól őszig terem – Közép-Európában jellemzően júniustól októberig –, enyhe éghajlaton vagy beltérben pedig nedves időszakok után egész évben megjelenhet.",
+        "uses": "Nem ehető; húsa rendkívül vékony és gyorsan elfolyósodik, kulináris értéke nincs.",
+        "confusion": "A Coprinellus micaceus korhadó lombos fák tuskói vagy pusztuló fák körül sűrű csomókban nő, nem szórtan mulcson vagy szalmán, burka nemezes foltok helyett apró, csillogó, csillámszerű szemcsékből áll, nincs gallérszerű tönkalji bocskora, és spórái kisebbek. A Coprinellus domesticus inkább lombos fák kidőlt törzsein és tuskóin fordul elő, kalapközepe élénkebb rozsdásbarna, burka szemcsés, mikroszkóp alatt pedig vastag falú buroksejtjei és kisebb, középponti (nem excentrikus) csírapórusú spórái különítik el. A Domestici szekció többi faja szintén kisebb spóráival tér el, míg a Coprinopsis lagopus finomabb, szőrösebb, fehérebb szálas burkával és eltérő spóramorfológiájával különbözik.",
+        "notes": "Bár Európa-szerte elterjedt, elterjedési területének egyes részein ritkább, és a lengyel növények és gombák vörös listáján ritka (R) kategóriában szerepel, míg Finnországban gyakori. Nagy, határozottan excentrikus csírapórusú spórái és vékony falú, sima burokelemei (40–125 × 10–150 µm) alapvető mikroszkópos bélyegek, amelyek elkülönítik a közeli rokon tintagombafajoktól."
+      },
+      "id": {
+        "description": "Jamur bertudung tinta saprotrof berukuran kecil hingga sedang dan rapuh yang tumbuh tunggal, tersebar, atau dalam kelompok kecil di atas serpihan kayu, serbuk gergaji, jerami tua, dan tanah kaya nutrisi. Tersebar luas di Eropa, Amerika Utara, dan Oseania, jamur ini muncul di kawasan hutan maupun taman, halaman rumput, dan mulsa pot dalam ruangan, lalu cepat mencair menjadi cairan hitam saat dewasa.",
+        "cap": "Berukuran lebar 1,5–4,5 cm saat mekar; berbentuk hampir bulat, silindris-bulat telur, atau seperti telur saat muda (tinggi hingga 3 cm dan lebar hingga 2 cm), melebar menjadi kerucut, berbentuk lonceng, dan akhirnya kerucut melebar atau hampir datar. Permukaannya mula-mula tertutup velum universal berbulu kusut seperti kain flanel berwarna keputihan hingga kuning kecokelatan pucat yang pecah menjadi bercak berbulu dan serpihan lembut yang cepat hilang serta terkumpul ke arah tengah, tempat warnanya berubah menjadi kuning oker hingga kecokelatan. Di bawahnya, kutikula yang tidak mengilap berwarna oker pucat, kekuningan, atau cokelat mustard di bagian tengah, lebih pucat ke arah tepi, dan memudar keabu-abuan seiring usia; tepi tudung mula-mula melengkung ke bawah, bergaris radial hingga berlipat dalam hampir sampai ke tengah, dan akhirnya bergelombang, melengkung ke atas, terbelah, atau mencair. Kalium hidroksida (KOH) memberikan reaksi negatif pada permukaan tudung.",
+        "hymenium": "Lamela bebas hingga agak menempel, sangat rapat, lebar 3–8 mm, dengan tiga hingga empat tingkat lamelula pendek yang sering muncul serta tepi dan permukaan yang berbulu halus di bawah kaca pembesar. Mula-mula berwarna putih hingga krem, berubah menjadi keabu-abuan hingga cokelat keabu-abuan dan akhirnya hitam saat spora matang, lalu mencair menjadi cairan seperti tinta. Basidium berbentuk gada, berspora empat, berukuran 25–28 × 11–13 µm, dikelilingi oleh brakibasidiol; pleurosistidia dan keilosistidia yang serupa berbentuk seperti kantong memanjang hingga elipsoid atau agak mengantong, berukuran 60–80 × 32–40 µm, halus, hialin dalam KOH, dengan dinding setebal 1–2 µm.",
+        "stipe": "Tinggi 2–13 cm dan tebal 0,2–0,7 cm, silindris, berdiameter seragam atau sedikit berbentuk gada dan membesar di pangkal, rapuh, serta berongga tanpa benang di bagian dalam. Permukaannya putih, berserbuk halus dan bergaris samar saat muda, segera menjadi halus dan gundul, dengan pangkal yang bernoda kecokelatan dan memiliki benang-benang miselium putih. Velum parsial tidak ada, meskipun tubuh buah muda sering menunjukkan volva tipis berwarna putih menyerupai kerah yang terbentuk dari sisa velum universal di pangkal tangkai.",
+        "flesh": "Sangat tipis (tebal sekitar 1 mm di bagian tengah tudung), berwarna keputihan hingga oker pucat, rapuh, tidak berubah warna saat diiris, dan mencair saat dewasa. Rasanya tidak khas, dan baunya tidak mencolok saat segar, terkadang menjadi agak tidak sedap ketika lamela mencair.",
+        "sporePrint": "Hitam. Spora berukuran 10–16,5 × 6,5–10 µm (umumnya 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), berbentuk elipsoid hingga seperti kacang almond atau bulat telur pada tampak depan dan agak pipih pada tampak samping, halus, berwarna cokelat kemerahan sangat gelap dalam KOH, dengan tonjolan hilar yang tidak mencolok dan pori kecambah eksentrik yang jelas selebar 1–2 µm.",
+        "habitat": "Saprotrof pada serpihan kayu, serbuk gergaji, sisa kayu yang terkubur, jerami membusuk, jerami bercampur kotoran kuda, kompos, halaman rumput kaya nutrisi, dan mulsa pot komersial; tumbuh tunggal, tersebar, atau dalam kelompok kecil yang berdekatan alih-alih rumpun rapat. Berbuah dari musim semi hingga musim gugur—umumnya Juni hingga Oktober di Eropa Tengah—dan dapat muncul sepanjang tahun di iklim sejuk atau di dalam ruangan setelah periode lembap.",
+        "uses": "Tidak dapat dimakan; dagingnya sangat tipis dan cepat mencair, tanpa nilai kuliner.",
+        "confusion": "Coprinellus micaceus tumbuh dalam rumpun rapat di sekitar tunggul kayu keras yang melapuk atau pohon yang hampir mati alih-alih tersebar di atas mulsa atau jerami, memiliki velum berkilau dari butiran halus seperti mika alih-alih bercak seperti kain flanel, tidak memiliki volva pangkal menyerupai kerah, dan memiliki spora lebih kecil. Coprinellus domesticus menyukai batang dan tunggul kayu keras, memiliki bagian tengah tudung yang lebih cokelat kekuningan dengan velum berbutir, serta dibedakan secara mikroskopis oleh sel velum berdinding tebal dan spora lebih kecil dengan pori kecambah di tengah alih-alih eksentrik. Spesies lain dalam seksi Domestici juga berbeda karena sporanya lebih kecil, sedangkan Coprinopsis lagopus memiliki velum berserat yang lebih halus, lebih berbulu, dan lebih putih serta morfologi spora yang berbeda.",
+        "notes": "Meskipun tersebar luas di seluruh Eropa, jamur ini jarang ditemukan di sebagian wilayah sebarannya dan tercantum sebagai langka (R) dalam Daftar Merah Tumbuhan dan Jamur Polandia, sedangkan di Finlandia spesies ini umum dijumpai. Spora berukuran besar dengan pori kecambah yang jelas eksentrik serta elemen velum berdinding tipis dan halus (40–125 × 10–150 µm) merupakan ciri mikroskopis utama yang membedakannya dari jamur bertudung tinta kerabat dekatnya."
+      },
+      "it": {
+        "description": "Fungo coprinoide saprotrofo, fragile, di dimensioni da piccole a medie, che fruttifica isolato, sparso o in piccoli gruppi su cippato, segatura, paglia vecchia e terreno ricco di nutrienti. Ampiamente diffuso in Europa, Nord America e Oceania, compare nei boschi così come in giardini, prati e pacciamatura da vaso in ambienti interni, liquefacendosi rapidamente in un liquido nero a maturità.",
+        "cap": "1,5–4,5 cm di diametro a completa espansione; da giovane subgloboso, cilindrico-ovoide o ovoidale (alto fino a 3 cm e largo fino a 2 cm), poi conico, campanulato e infine largamente conico o quasi piano. La superficie è inizialmente rivestita da un velo generale feltrato e irsuto, da biancastro a camoscio, che si dissocia in placche lanose e fiocchi fugaci concentrati verso il centro, dove virano all'ocra fino al brunastro. Al di sotto, la cuticola opaca è ocra pallido, giallastra o bruno-senape al disco, più chiara verso il margine, e impallidisce sul grigiastro con l'età; il margine è dapprima incurvato, radialmente striato fino a profondamente plissettato quasi fino al centro, e infine ondulato, ricurvo, fessurato o deliquescente. La reazione all'idrossido di potassio (KOH) sulla superficie del cappello è negativa.",
+        "hymenium": "Lamelle da libere ad annesse, molto fitte, larghe 3–8 mm, intercalate da tre o quattro ordini di frequenti lamellule corte, con filo e facce minutamente pelosi alla lente. Da bianche a color crema all'inizio, diventano grigiastre o grigio-brune e infine nere a maturazione delle spore, per poi liquefarsi in un fluido inchiostrato. I basidi sono clavati, tetrasporici, di 25–28 × 11–13 µm, circondati da brachibasidioli; i pleurocistidi e i simili cheilocistidi sono utriformi, ellissoidali o subsacciformi, di 60–80 × 32–40 µm, lisci, ialini in KOH, con pareti spesse 1–2 µm.",
+        "stipe": "Alto 2–13 cm e spesso 0,2–0,7 cm, cilindrico, uguale o leggermente clavato e ingrossato alla base, fragile e cavo senza cordone interno. La superficie è bianca, finemente pruinosa e debolmente striata da giovane, presto liscia e glabra, con la base che si macchia di brunastro e porta filamenti miceliari bianchi. Il velo parziale è assente, sebbene gli esemplari giovani mostrino spesso alla base del gambo una sottile volva bianca a forma di collare, formata dai residui del velo generale.",
+        "flesh": "Molto sottile (circa 1 mm di spessore al disco del cappello), da biancastra a ocra pallido, fragile, immutabile al taglio e deliquescente a maturità. Il sapore non è distintivo e l'odore è indistinto da fresco, diventando talvolta leggermente sgradevole man mano che le lamelle si liquefanno.",
+        "sporePrint": "Nera. Le spore misurano 10–16,5 × 6,5–10 µm (comunemente 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), sono da ellissoidali ad amigdaliformi o ovoidali in vista frontale e leggermente appiattite di profilo, lisce, bruno-rossastre molto scure in KOH, con appendice ilare poco evidente e un poro germinativo eccentrico ben marcato, largo 1–2 µm.",
+        "habitat": "Saprotrofo su cippato, segatura, detriti legnosi interrati, paglia marcescente, paglia mescolata a letame equino, compost, prati ricchi di nutrienti e pacciamatura commerciale da vaso; fruttifica isolato, sparso o in piccoli gruppi gregari anziché in cespi densi. Fruttifica dalla primavera all'autunno — tipicamente da giugno a ottobre nell'Europa centrale — e può comparire tutto l'anno nei climi miti o in ambienti interni dopo periodi umidi.",
+        "uses": "Non commestibile; la carne è estremamente sottile e rapidamente deliquescente, priva di valore culinario.",
+        "confusion": "Coprinellus micaceus cresce in cespi densi attorno a ceppaie di latifoglie in decomposizione o alberi deperienti anziché sparso su pacciamatura o paglia, possiede un velo lucente formato da minuscoli granuli micacei anziché placche feltrate, è privo di volva basale a collare e ha spore più piccole. Coprinellus domesticus predilige tronchi e ceppaie di latifoglie, ha un disco del cappello più bruno-fulvo con velo granuloso e si distingue microscopicamente per le cellule del velo a parete spessa e le spore più piccole con poro germinativo centrale anziché eccentrico. Anche altre specie della sezione Domestici si differenziano per le spore più piccole, mentre Coprinopsis lagopus presenta un velo fibroso più fine, peloso e bianco e una diversa morfologia sporale.",
+        "notes": "Sebbene ampiamente diffuso in Europa, è poco frequente in parte del suo areale ed è elencato come raro (R) nella Lista Rossa polacca delle piante e dei funghi, mentre è comune in Finlandia. Le grandi spore con poro germinativo nettamente eccentrico e gli elementi del velo lisci a parete sottile (40–125 × 10–150 µm) sono caratteri microscopici chiave che lo distinguono dalle specie affini."
+      },
+      "ja": {
+        "description": "小型から中型で脆い腐生性のヒトヨタケ類で、ウッドチップ、おがくず、古いわら、栄養に富む土壌に単生、散生、または小さな群れを作って発生します。ヨーロッパ、北アメリカ、オセアニアに広く分布し、森林のほか庭園や芝生、室内の鉢植え用マルチにも現れ、成熟すると速やかに黒い液体へと液化します。",
+        "cap": "開くと径1.5–4.5 cmになります。幼時は亜球形、円筒状卵形、または卵形（高さ3 cm、幅2 cmまで）で、次第に円錐形、鐘形、最終的には広円錐形またはほぼ平らに開きます。表面は最初、白っぽい色から淡黄褐色のフェルト状で毛羽立った外被膜に覆われますが、やがて消失しやすい羊毛状の斑片や鱗片へと裂け、中央部に集まって黄土色から褐色を帯びます。その下のつやのない表皮は中央が淡黄土色、帯黄色、またはからし褐色で、縁に向かって淡くなり、古くなると灰色がかって褪色します。縁は最初内側に曲がり、ほぼ中央まで放射状の条線から深いひだ状の溝があり、最終的には波打ち、反り返り、裂けるか液化します。傘表面での水酸化カリウム（KOH）反応は陰性です。",
+        "hymenium": "ひだは離生から上生で非常に密、幅3–8 mmあり、3–4段階の短い小ひだが頻繁に交じり、ルーペで見ると縁と面に微細な毛があります。最初は白色からクリーム色で、胞子の成熟に伴い灰色がかった色から灰褐色、最終的には黒色に変わり、インク状の液体へと液化します。担子器はこん棒形で4胞子性、25–28 × 11–13 µmで、周囲を短側糸（ブラキバシジオール）に囲まれます。側シスチジアおよび類似の縁シスチジアは徳利形から楕円形または亜嚢状で、60–80 × 32–40 µm、平滑でKOH中では無色透明、壁の厚さは1–2 µmです。",
+        "stipe": "高さ2–13 cm、太さ0.2–0.7 cmの円筒形で、上下ほぼ同径か基部に向かってわずかにこん棒状に太くなり、脆く中空で内部の菌糸索はありません。表面は白色で、幼時は微粉状かつかすかに条線がありますが、すぐに平滑で無毛となり、基部は褐色を帯びて白色の菌糸束をつけます。内被膜はありませんが、幼い子実体では柄の基部に外被膜の破片からなる薄い白色の襟状のつぼが見られることがよくあります。",
+        "flesh": "非常に薄く（傘の中央で約1 mm）、帯白色から淡黄土色で脆く、切断しても変色せず、成熟すると液化します。味に特徴はなく、新鮮なうちのにおいも不明瞭ですが、ひだが液化するにつれてかすかに不快な臭気を帯びることがあります。",
+        "sporePrint": "黒色です。胞子は10–16.5 × 6.5–10 µm（通常11–15.5 × 6.5–8.5 µm、Q = 1.4–1.8）で、正面観は楕円形からアーモンド形または卵形、側面観はわずかに扁平、平滑でKOH中では非常に濃い赤褐色を示し、目立たない臍突起と幅1–2 µmの明瞭な偏心発芽孔を備えます。",
+        "habitat": "ウッドチップ、おがくず、埋没した木質片、腐朽したわら、馬糞の混じったわら、堆肥、栄養に富む芝生、市販の鉢植え用マルチに腐生性として発生し、密な束生ではなく単生、散生、または小さな群生となります。春から秋にかけて発生し、中央ヨーロッパでは通常6月から10月に見られますが、温暖な気候や湿潤な時期の後の室内では通年現れることがあります。",
+        "uses": "不食です。肉が極めて薄く速やかに液化するため、食用価値はありません。",
+        "confusion": "Coprinellus micaceusはマルチやわらに散生するのではなく、腐朽した広葉樹の切り株や衰弱木の周囲に密に束生し、フェルト状の斑片ではなく微小な雲母状粒からなる光沢のある被膜を持ち、基部の襟状のつぼを欠き、胞子も小型です。Coprinellus domesticusは広葉樹の倒木や切り株を好み、顆粒状の被膜を伴うより黄褐色の傘中央部を持ち、顕微鏡的には厚壁の被膜細胞と偏心ではなく中心に発芽孔を持つ小型の胞子によって区別されます。Domestici節の他の種も胞子がより小さい点で異なり、Coprinopsis lagopusはより繊細で毛深く白い繊維状の被膜と異なる胞子形態を持ちます。",
+        "notes": "ヨーロッパ全域に広く分布するものの、分布域の一部ではまれであり、ポーランドの植物・菌類レッドリストでは希少（R）に挙げられている一方、フィンランドでは一般的です。明瞭な偏心発芽孔を持つ大型の胞子と、薄壁で平滑な被膜構成要素（40–125 × 10–150 µm）は、近縁のヒトヨタケ類と区別する重要な顕微鏡的特徴です。"
+      },
+      "ko": {
+        "description": "나무 조각, 톱밥, 오래된 짚, 영양이 풍부한 토양 위에서 단생하거나 산생하며 때로는 작은 무리를 이루어 자라는 소형에서 중형의 연약한 부생성 먹물버섯류입니다. 유럽, 북아메리카, 오세아니아 전역에 널리 분포하며, 숲속뿐만 아니라 정원, 잔디밭, 실내 화분의 멀치에서도 나타나고 성숙하면 빠르게 검은 액체로 녹아내립니다.",
+        "cap": "갓은 펼쳐졌을 때 지름 1.5–4.5 cm입니다. 어릴 때는 아구형, 원통형 난형 또는 달걀형(높이 최대 3 cm, 너비 최대 2 cm)이며, 자라면서 원뿔형과 종형을 거쳐 넓은 원뿔형이나 거의 편평한 모양으로 펼쳐집니다. 표면은 처음에 텁수룩하고 흰색에서 담황갈색을 띠는 펠트 모양의 외피막으로 덮여 있다가, 점차 사라지는 양모 모양의 조각과 작은 털 뭉치로 갈라져 중앙부에 집중되며 이곳에서는 황토색에서 갈색으로 변합니다. 그 아래의 광택 없는 표피는 중앙부가 옅은 황토색, 노란빛 또는 겨자갈색이고 가장자리로 갈수록 옅어지며 나이가 들면 회색빛으로 바랩니다. 가장자리는 처음에 안으로 굽어 있고 거의 중앙부까지 방사상의 줄무늬에서 깊은 주름이 지며, 나중에는 물결 모양이 되거나 뒤로 젖혀지고 갈라지거나 액화합니다. 갓 표면은 수산화칼륨(KOH)에 음성 반응을 보입니다.",
+        "hymenium": "주름살은 떨어진붙은형에서 끝붙은형이며 매우 빽빽하고 너비는 3–8 mm입니다. 짧은 주름살이 3–4단으로 빈번하게 끼어 있으며, 확대경으로 보면 주름살 날과 면에 미세한 털이 보입니다. 처음에는 흰색에서 크림색이다가 포자가 성숙하면서 회색빛에서 회갈색을 거쳐 결국 검은색으로 변한 뒤 먹물 같은 액체로 녹아내립니다. 담자기는 곤봉형이고 4포자성이며 크기는 25–28 × 11–13 µm이고 짧은 무성담자기(brachybasidioles)로 둘러싸여 있습니다. 측낭체와 유사한 연낭체는 자루 모양에서 타원형 또는 아낭형이며 60–80 × 32–40 µm이고, 표면이 매끄러우며 KOH에서 투명하고 벽 두께는 1–2 µm입니다.",
+        "stipe": "대는 높이 2–13 cm, 굵기 0.2–0.7 cm로 원통형이며 굵기가 일정하거나 밑동이 약간 곤봉 모양으로 굵어지고, 연약하며 속이 비어 있고 내부 실 모양 조직은 없습니다. 표면은 흰색으로 어릴 때 미세한 가루가 덮여 있고 희미한 세로줄이 있으나 곧 매끄럽고 털이 없어지며, 밑동은 갈색으로 물들고 흰색 균사 가닥이 붙어 있습니다. 내피막은 없지만, 어린 자실체에서는 대 밑동에 외피막 잔재로 이루어진 얇고 흰색의 깃 모양 대주머니가 자주 나타납니다.",
+        "flesh": "살은 매우 얇고(갓 중앙부에서 두께 약 1 mm) 흰색에서 옅은 황토색을 띠며 연약하고, 자르더라도 변색하지 않으며 성숙하면 액화합니다. 맛은 뚜렷하지 않고, 신선할 때는 냄새도 뚜렷하지 않으나 주름살이 녹아내리면서 때때로 희미하게 불쾌한 냄새가 납니다.",
+        "sporePrint": "포자문은 검은색입니다. 포자는 10–16.5 × 6.5–10 µm(보통 11–15.5 × 6.5–8.5 µm, Q = 1.4–1.8)이며 정면에서는 타원형에서 아몬드형 또는 난형이고 측면에서는 약간 납작합니다. 표면은 매끄럽고 KOH에서 매우 짙은 적갈색을 띠며, 뚜렷하지 않은 포자병 흔적과 너비 1–2 µm의 뚜렷한 편심 발아공을 가집니다.",
+        "habitat": "나무 조각, 톱밥, 땅속에 묻힌 목재 잔해, 썩은 짚, 말똥이 섞인 짚, 퇴비, 영양이 풍부한 잔디밭, 시판 화분용 멀치 등에서 부생성으로 자라며, 빽빽한 다발보다는 단생하거나 산생하거나 작은 무리로 발생합니다. 봄부터 가을까지—중앙유럽에서는 보통 6월부터 10월까지—자실체를 형성하며, 온화한 기후나 실내에서는 습한 시기가 지난 뒤 연중 나타날 수 있습니다.",
+        "uses": "식용 부적합합니다. 살이 매우 얇고 빠르게 액화하여 식용 가치가 없습니다.",
+        "confusion": "Coprinellus micaceus는 멀치나 짚 위에 산생하기보다 썩어가는 활엽수 그루터기나 죽어가는 나무 주위에 빽빽한 다발로 자라며, 펠트 모양의 조각 대신 미세한 운모 모양 알갱이로 이루어진 반짝이는 피막을 가지고, 밑동의 깃 모양 대주머니가 없으며 포자가 더 작습니다. Coprinellus domesticus는 활엽수 통나무와 그루터기를 선호하고 갓 중앙부가 더 황갈색이며 과립상 피막을 가지고, 현미경적으로 두꺼운 벽의 피막 세포와 편심이 아닌 중앙 발아공을 지닌 더 작은 포자로 구별됩니다. Domestici 절의 다른 종들도 더 작은 포자로 구분되며, Coprinopsis lagopus는 더 가늘고 털이 많으며 더 흰 섬유질 피막과 다른 포자 형태를 보입니다.",
+        "notes": "유럽 전역에 널리 분포하지만 일부 지역에서는 드물며 폴란드 식물·균류 적색목록에 희귀종(R)으로 등재되어 있는 반면, 핀란드에서는 흔합니다. 뚜렷하게 편심된 발아공을 가진 큰 포자와 벽이 얇고 매끄러운 피막 세포(40–125 × 10–150 µm)는 가까운 먹물버섯류와 구별하는 핵심 현미경적 특징입니다."
+      },
+      "lt": {
+        "description": "Smulkus ar vidutinio dydžio, trapus saprotrofinis mėšlagrybis, augantis pavieniui, išsibarstęs arba nedidelėmis grupelėmis ant medienos skiedrų, pjuvenų, senų šiaudų ir maistingo dirvožemio. Plačiai paplitęs Europoje, Šiaurės Amerikoje ir Okeanijoje, aptinkamas tiek miškuose, tiek soduose, vejose ir kambarinių augalų mulče; subrendęs greitai ištirpsta į juodą skystį.",
+        "cap": "Išsiskleidusi 1,5–4,5 cm skersmens; jauna beveik rutuliška, cilindriškai kiaušiniška arba kiaušiniška (iki 3 cm aukščio ir 2 cm pločio), vėliau kūgiška, varpiška, o galiausiai plačiai kūgiška arba beveik plokščia. Paviršių iš pradžių dengia gauruotas, balsvas ar gelsvai rusvas, veltiniškas bendrasis šydas, kuris suskyla į trumpalaikius vilnotus lopinėlius ir skiauteles, labiau susitelkusias ties centru, kur jos tampa ochrinės ar rusvos. Po šydu matoma matinė luobelė ties centru yra šviesiai ochrinė, gelsva arba garstyčių ruda, link krašto šviesesnė, o sendama pilkėja; kraštas iš pradžių užlenktas žemyn, spinduliškai vagotas ar giliai raukšlėtas beveik iki pat centro, vėliau banguotas, užsirietęs aukštyn, įtrūkęs arba ištirpstantis. Kalio šarmo (KOH) reakcija ant kepurėlės paviršiaus neigiama.",
+        "hymenium": "Lakšteliai laisvi arba siaurai priaugę, labai tankūs, 3–8 mm pločio, su trimis ar keturiais sluoksniais dažnų trumpų tarpinių lakštelių; per didinamąjį stiklą jų pakraščiai ir šonai smulkiai plaukuoti. Iš pradžių balti ar kreminiai, sporoms bręstant tampa pilkšvi, pilkai rudi ir galiausiai juodi, o paskui ištirpsta į rašalo spalvos skystį. Bazidijos buožiškos, ketursporės, 25–28 × 11–13 µm, apsuptos brachibazidiolių; pleurocistidės ir panašios cheilocistidės pūsliškai cilindro formos, elipsiškos arba beveik maišiškos, 60–80 × 32–40 µm, lygios, KOH tirpale bespalvės, 1–2 µm storio sienelėmis.",
+        "stipe": "2–13 cm aukščio ir 0,2–0,7 cm storio, cilindriškas, lygus arba nežymiai buožiškas ir paplatėjęs ties pagrindu, trapus, tuščiaviduris be vidinio siūlo. Paviršius baltas, jaunas smulkiai apšerkšnijęs ir vos pastebimai dryžuotas, netrukus tampantis lygus ir plikas; pagrindas rusvėjantis, su baltais grybienos siūlais. Dalinio šydo nėra, tačiau jauni vaisiakūniai ties koto pagrindu dažnai turi ploną, baltą, apykaklę primenančią išnarą, susidariusią iš bendrojo šydo liekanų.",
+        "flesh": "Labai plona (ties kepurėlės centru apie 1 mm storio), balsva ar šviesiai ochrinė, trapi, perpjauta spalvos nekeičia, o subrendusi ištirpsta. Skonis neišraiškingas, o šviežios grybo dalys be ryškaus kvapo, nors lakšteliams tirpstant kartais atsiranda silpnas nemalonus kvapas.",
+        "sporePrint": "Juodas. Sporos 10–16,5 × 6,5–10 µm (dažniausiai 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), žiūrint iš priekio elipsiškos, migdoliškos arba kiaušiniškos, o iš šono nežymiai suplotos, lygios, KOH tirpale labai tamsiai rausvai rudos, su neryškiu prisitvirtinimo kauburėliu ir ryškia ekscentriška 1–2 µm pločio dygimo pora.",
+        "habitat": "Saprotrofinis grybas, augantis ant medienos skiedrų, pjuvenų, žemėje esančių medienos liekanų, pūvančių šiaudų, su arklių mėšlu sumaišytų šiaudų, komposto, derlingų vejų ir komercinio vazonų mulčio; dera pavieniui, išsibarstęs arba nedidelėmis grupelėmis, bet ne tankiais kupstais. Vaisiakūniai pasirodo nuo pavasario iki rudens – Vidurio Europoje dažniausiai nuo birželio iki spalio – o švelnesnio klimato vietovėse ar patalpose po drėgnų laikotarpių gali augti ištisus metus.",
+        "uses": "Nevalgomas; trama itin plona ir greitai ištirpstanti, todėl kulinarinės vertės neturi.",
+        "confusion": "Coprinellus micaceus auga tankiais kupstais aplink pūvančius lapuočių kelmus ar džiūstančius medžius, o ne išsibarstęs ant mulčio ar šiaudų; jo šydas sudarytas iš blizgių, smulkių žėrinčių grūdelių, o ne veltiniškų lopinėlių, koto pagrindas neturi apykaklę primenančios išnaros, o sporos yra smulkesnės. Coprinellus domesticus dažniau auga ant lapuočių rąstų ir kelmų, turi ryškiau gelsvai rudą kepurėlės centrą su grūdėtu šydu, o mikroskopiškai skiriasi storasienėmis šydo ląstelėmis ir smulkesnėmis sporomis su centrine, o ne ekscentriška dygimo pora. Kitos Domestici sekcijos rūšys taip pat skiriasi smulkesnėmis sporomis, o Coprinopsis lagopus turi švelnesnį, plaukuotesnį, baltesnį plaušingą šydą ir kitokią sporų morfologiją.",
+        "notes": "Nors plačiai paplitęs visoje Europoje, dalyje arealo yra nedažnas ir Lenkijos augalų ir grybų raudonajame sąraše įrašytas kaip retas (R), tuo tarpu Suomijoje jis dažnas. Didelės sporos su aiškiai ekscentriška dygimo pora ir plonasieniai, lygūs šydo elementai (40–125 × 10–150 µm) yra pagrindiniai mikroskopiniai požymiai, skiriantys jį nuo artimų mėšlagrybių."
+      },
+      "lv": {
+        "description": "Neliela līdz vidēji liela, trausla, saprotrofa tintes sēne, kas aug pa vienai, izkliedēti vai nelielās grupās uz koksnes šķeldas, zāģu skaidām, veciem salmiem un barības vielām bagātas augsnes. Plaši izplatīta Eiropā, Ziemeļamerikā un Okeānijā; sastopama gan mežos, gan dārzos, zālienos un telpaugu podu mulčā, briedumā ātri sašķidrinoties melnā šķidrumā.",
+        "cap": "Izplestā veidā 1,5–4,5 cm plata; jaunībā gandrīz lodveida, cilindriski olveida vai olveida (līdz 3 cm augsta un 2 cm plata), vēlāk koniska, zvanveida un beidzot plati koniska vai gandrīz plakana. Virsmu sākumā klāj pinkains, bālgans līdz dzeltenbrūngans, tūbains vispārējais plīvurs, kas sadalās ātri izzūdošos vilnainos plankumos un pārslās, kas koncentrējas pret vidusdaļu, kur kļūst okera līdz brūnganas. Zem plīvura matētā virsmiziņa vidusdaļā ir bāli okera, dzeltenīga vai sinepju brūna, virzienā uz malu gaišāka un ar vecumu izbalē pelēcīga; mala sākumā ieliekta, radiāli svītraina līdz dziļi krokota gandrīz līdz pašai vidusdaļai, bet beigās viļņota, uzlocīta, saplaisājusi vai sašķidrināta. Kālija hidroksīds (KOH) uz cepurītes virsmas dod negatīvu reakciju.",
+        "hymenium": "Brīvas līdz šauri pieaugušas, ļoti ciešas lapiņas, 3–8 mm platas, ar trim līdz četrām pakāpēm biežu īslapiņu un lupā saskatāmām smalki matainām šķautnēm un sāniem. Sākumā baltas līdz krēmkrāsas, sporu nobriešanas gaitā kļūst pelēcīgas līdz pelēkbrūnas un visbeidzot melnas, pēc tam sašķidrinoties tintei līdzīgā šķidrumā. Bazīdijas ir vālveida, četrsporu, 25–28 × 11–13 µm, ko ieskauj brahibazīdiolas; pleirocistīdas un līdzīgās heilocistīdas ir utriformas līdz elipsoīdas vai gandrīz maisveida, 60–80 × 32–40 µm, gludas, KOH šķīdumā hialīnas, ar 1–2 µm biezām sieniņām.",
+        "stipe": "2–13 cm augsts un 0,2–0,7 cm resns, cilindrisks, vienāda resnuma vai pie pamatnes viegli vālveida un paplašināts, trausls un dobs bez iekšēja pavediena. Virsma balta, jaunībā smalki apsarmota un vāji svītraina, drīz kļūst gluda un kaila; pamatne krāsojas brūngana un nes baltus micēlija pavedienus. Daļējais plīvurs nepastāv, lai gan jauniem augļķermeņiem pie kātiņa pamatnes bieži redzama plāna, balta, apkaklītei līdzīga maksts, ko veido vispārējā plīvura atliekas.",
+        "flesh": "Ļoti plāns (cepurītes vidusdaļā aptuveni 1 mm biezs), bālgans līdz bāli okera, trausls, griezumā krāsu nemaina un briedumā sašķidrinās. Garša nav izteikta, un smarža svaigām sēnēm ir nenoteikta, taču lapiņām sašķidrinoties reizēm kļūst vāji nepatīkama.",
+        "sporePrint": "Melns. Sporas ir 10–16,5 × 6,5–10 µm (parasti 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), priekšskatā elipsoīdas līdz mandeļveida vai olveida, sānskatā viegli saplacinātas, gludas, KOH šķīdumā ļoti tumši sarkanbrūnas, ar neuzkrītošu apikulu un izteiktu ekscentrisku dīgšanas poru 1–2 µm platumā.",
+        "habitat": "Saprotrofa uz koksnes šķeldas, zāģu skaidām, augsnē apraktām koksnes atliekām, trūdošiem salmiem, ar zirgu mēsliem sajauktiem salmiem, kompostā, barības vielām bagātos zālienos un tirdzniecībā nopērkamā podu mulčā, augot pa vienai, izkliedēti vai nelielās grupās, nevis blīvos ceros. Augļķermeņi veidojas no pavasara līdz rudenim – Centrāleiropā parasti no jūnija līdz oktobrim –, bet maigā klimatā vai iekštelpās pēc mitriem periodiem var parādīties visu gadu.",
+        "uses": "Neēdama; mīkstums ir ārkārtīgi plāns un ātri sašķidrinās, bez kulināras vērtības.",
+        "confusion": "Coprinellus micaceus aug blīvos ceros ap trūdošiem lapkoku celmiem vai atmirstošiem kokiem, nevis izkliedēti uz mulčas vai salmiem, tai ir mirdzošs plīvurs no sīkiem vizlai līdzīgiem graudiņiem, nevis tūbainiem plankumiem, trūkst apkaklītei līdzīgas pamatnes maksts, un sporas ir mazākas. Coprinellus domesticus dod priekšroku lapkoku stumbriem un celmiem, tai ir rūsganbrūnāka cepurītes vidusdaļa ar graudainu plīvuru, un mikroskopiski to atšķir biezsienu plīvura šūnas un mazākas sporas ar centrālu, nevis ekscentrisku dīgšanas poru. Arī citas sekcijas Domestici sugas atšķiras ar mazākām sporām, savukārt Coprinopsis lagopus ir smalkāks, mataināks, baltāks šķiedrains plīvurs un citāda sporu morfoloģija.",
+        "notes": "Lai gan suga ir plaši izplatīta Eiropā, daļā areāla tā ir sastopama reti un ir iekļauta kā reta (R) Polijas augu un sēņu Sarkanajā sarakstā, turpretī Somijā tā ir parasta. Lielās sporas ar izteikti ekscentrisku dīgšanas poru un plānsienu, gludie plīvura elementi (40–125 × 10–150 µm) ir galvenās mikroskopiskās pazīmes, kas to atšķir no tuvu radniecīgajām tintes sēnēm."
+      },
+      "nl": {
+        "description": "Een kleine tot middelgrote, tere, saprotrofe inktzwam die alleenstaand, verspreid of in kleine groepjes groeit op houtsnippers, zaagsel, oud stro en voedselrijke grond. De soort is wijdverspreid in Europa, Noord-Amerika en Oceanië, komt zowel in bossen als in tuinen, op gazons en in potgrondmulch binnenshuis voor en vervloeit bij rijpheid snel tot een zwarte vloeistof.",
+        "cap": "Uitgespreid 1,5–4,5 cm breed; jong bijna bolvormig, cilindrisch-eivormig of eivormig (tot 3 cm hoog en 2 cm breed), later uitgroeiend tot kegelvormig, klokvormig en uiteindelijk breed kegelvormig of bijna vlak. Het oppervlak is aanvankelijk bedekt met een ruig, witachtig tot zeemkleurig, viltig algeheel velum dat opbreekt in vergankelijke wollige plakjes en vlokjes die zich naar het centrum concentreren en daar oker tot bruinachtig verkleuren. Daaronder is de matte hoedhuid in het centrum bleek oker, gelig of mosterdbruin, bleker naar de rand toe en met de leeftijd grijsachtig verblekend; de rand is eerst naar beneden gebogen, radiaal gestreept tot diep geplooid bijna tot aan het centrum, en uiteindelijk golvend, omgekruld, ingescheurd of vervloeiend. Kaliumhydroxide (KOH) geeft een negatieve reactie op het hoedoppervlak.",
+        "hymenium": "Vrije tot smal aangehechte, zeer dicht opeenstaande plaatjes, 3–8 mm breed, met drie tot vier rijen talrijke korte tussenplaatjes en onder een loep fijn behaarde sneden en vlakken. Aanvankelijk wit tot crèmekleurig, bij het rijpen van de sporen grijsachtig tot grijsbruin en ten slotte zwart verkleurend, om daarna te vervloeien tot een inktachtige vloeistof. De basidiën zijn knotsvormig, viersporig, 25–28 × 11–13 µm groot en omgeven door brachybasidiolen; pleurocystiden en vergelijkbare cheilocystiden zijn zakvormig (utriform) tot ellipsoïd of bijna blaasvormig, 60–80 × 32–40 µm, glad, hyalien in KOH, met 1–2 µm dikke wanden.",
+        "stipe": "2–13 cm hoog en 0,2–0,7 cm dik, cilindrisch, gelijkmatig dik of aan de voet licht knotsvormig verbreed, breekbaar en hol zonder binnenste mergdraad. Het oppervlak is wit, jong fijn berijpt en zwak gestreept, al snel glad en kaal wordend, waarbij de voet bruinachtig verkleurt en witte myceliumdraden draagt. Een gedeeltelijk velum ontbreekt, al vertonen jonge vruchtlichamen aan de steelvoet vaak een dunne, witte, kraagachtige volva die uit resten van het algehele velum bestaat.",
+        "flesh": "Zeer dun (ongeveer 1 mm dik in het centrum van de hoed), witachtig tot bleek oker, breekbaar, onveranderlijk bij doorsnijden en vervloeiend bij rijpheid. De smaak is niet opvallend en de geur is vers onopvallend, soms zwak onaangenaam wordend wanneer de plaatjes vervloeien.",
+        "sporePrint": "Zwart. De sporen meten 10–16,5 × 6,5–10 µm (doorgaans 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), zijn in vooraanzicht ellipsoïd tot amandelvormig of eivormig en in zijaanzicht licht afgeplat, glad, zeer donker roodbruin in KOH, met een onopvallend hilair aanhangsel en een duidelijke excentrische kiempore van 1–2 µm breed.",
+        "habitat": "Saprotroof op houtsnippers, zaagsel, begraven houtresten, rottend stro, met paardenmest gemengd stro, compost, voedselrijke gazons en commerciële potgrondmulch, waarbij de vruchtlichamen alleenstaand, verspreid of in kleine groepjes staan in plaats van in dichte bundels. De soort fructificeert van de lente tot de herfst – in Midden-Europa doorgaans van juni tot oktober – en kan in milde klimaten of binnenshuis na natte perioden het hele jaar door verschijnen.",
+        "uses": "Niet eetbaar; het vlees is uiterst dun en vervloeit snel, zonder culinaire waarde.",
+        "confusion": "De gewone glimmerinktzwam (Coprinellus micaceus) groeit in dichte bundels rond rottende loofhoutstronken of kwijnende bomen in plaats van verspreid op mulch of stro, heeft een glinsterend velum van fijne glimmerachtige korreltjes in plaats van viltige plakjes, mist een kraagachtige basale volva en heeft kleinere sporen. De grote viltinktzwam (Coprinellus domesticus) geeft de voorkeur aan loofhoutstammen en -stronken, heeft een meer taankleurig-bruin hoedcentrum met een korrelig velum en onderscheidt zich microscopisch door dikwandige velumcellen en kleinere sporen met een centrale in plaats van excentrische kiempore. Andere soorten uit de sectie Domestici verschillen eveneens door hun kleinere sporen, terwijl het hazenpootje (Coprinopsis lagopus) een fijner, hariger, witter vezelig velum en een andere sporenmorfologie heeft.",
+        "notes": "Hoewel wijdverspreid in Europa, is de soort in delen van haar verspreidingsgebied zeldzaam en staat zij als zeldzaam (R) vermeld op de Poolse Rode Lijst van planten en paddenstoelen, terwijl zij in Finland algemeen is. De grote sporen met een duidelijk excentrische kiempore en de dunwandige, gladde velumelementen (40–125 × 10–150 µm) vormen belangrijke microscopische kenmerken die haar onderscheiden van nauw verwante inktzwammen."
+      },
+      "no": {
+        "description": "En liten til middels stor, skjør, saprotrof blekksopp som vokser enkeltvis, spredt eller i små grupper på treflis, sagflis, gammel halm og næringsrik jord. Den er vidt utbredt i Europa, Nord-Amerika og Oseania, og forekommer både i skog og i hager, plener og innendørs pottejord, der den raskt går i oppløsning til en svart væske ved modning.",
+        "cap": "1,5–4,5 cm bred som utbredt; nesten kuleformet, sylindrisk-eggformet eller eggformet som ung (opptil 3 cm høy og 2 cm bred), senere kjegleformet, klokkeformet og til slutt bredt kjegleformet eller nesten flat. Overflaten er først dekket av et rufsete, hvitaktig til gulbrunt, filtet ytre hylle som brytes opp i flyktige, ullne flak og fnugg konsentrert mot midten, der de blir okerfargede til brunlige. Under hyllet er den matte hatthuden blekt okerfarget, gulaktig eller sennepsbrun på midten, lysere mot kanten og blekner til gråaktig med alderen; hattkanten er først nedbøyd, radialt stripet til dypt foldet nesten helt inn til midten, og til slutt bølget, oppbøyd, oppsprukket eller henflytende. Kaliumhydroksid (KOH) gir negativ reaksjon på hattoverflaten.",
+        "hymenium": "Frie til smalt tilvokste, svært tette skiver, 3–8 mm brede, med tre til fire lengder av tallrike korte mellomskiver samt fint hårete egger og flater sett med lupe. Hvite til kremfargede som unge, senere gråaktige til gråbrune og til slutt svarte etter hvert som sporene modnes, før de løser seg opp i en blekkaktig væske. Basidiene er kølleformede, firesporede, 25–28 × 11–13 µm, omgitt av brachybasidioler; pleurocystider og lignende cheilocystider er utriforme til ellipsoide eller nesten sekkformede, 60–80 × 32–40 µm, glatte, hyaline i KOH og med 1–2 µm tykke vegger.",
+        "stipe": "2–13 cm høy og 0,2–0,7 cm tykk, sylindrisk, jevntyk eller svakt kølleformet og utvidet ved basis, skjør og hul uten indre margtråd. Overflaten er hvit, fint dugget og svakt stripet som ung, men blir snart glatt og bar, mens basis anløper brunlig og har hvite myceltråder. Indre hylle mangler, men unge fruktlegemer har ofte en tynn, hvit, kragelignende slire dannet av rester av det ytre hyllet ved stilkbasis.",
+        "flesh": "Svært tynt (omtrent 1 mm tykt i hattmidten), hvitaktig til blekt okerfarget, skjørt, uforanderlig ved overskjæring og henflytende ved modning. Smaken er ikke særpreget, og lukten er ubetydelig som frisk, men kan bli svakt ubehagelig når skivene løser seg opp.",
+        "sporePrint": "Svart. Sporene er 10–16,5 × 6,5–10 µm (vanligvis 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), ellipsoide til mandelformede eller eggformede forfra og svakt avflatet fra siden, glatte, svært mørkt rødbrune i KOH, med en utydelig apikulus og en tydelig eksentrisk spirepore som er 1–2 µm bred.",
+        "habitat": "Saprotrof på treflis, sagflis, nedgravd vedavfall, råtnende halm, halm blandet med hestegjødsel, kompost, næringsrike plener og kommersiell pottejord, der den vokser enkeltvis, spredt eller i små grupper fremfor i tette knipper. Den danner fruktlegemer fra vår til høst – vanligvis juni til oktober i Mellom-Europa – og kan opptre året rundt i mildt klima eller innendørs etter fuktige perioder.",
+        "uses": "Ikke matsopp; kjøttet er ekstremt tynt og går raskt i oppløsning, uten kulinarisk verdi.",
+        "confusion": "Coprinellus micaceus vokser i tette knipper rundt råtnende løvtre-stubber eller døende trær snarere enn spredt på flis eller halm, har et glitrende hylle av små glimmerkorn i stedet for filtede flak, mangler en kragelignende slire ved basis og har mindre sporer. Coprinellus domesticus foretrekker løvtrestokker og -stubber, har en mer gulbrun til rødbrun hattmidte med kornet hylle, og skilles mikroskopisk på tykkveggede hylleceller og mindre sporer med sentral i stedet for eksentrisk spirepore. Andre arter i seksjon Domestici skiller seg også ut ved mindre sporer, mens Coprinopsis lagopus har et finere, mer hårete og hvitere trådet hylle samt annen sporemorfologi.",
+        "notes": "Selv om arten er vidt utbredt i Europa, er den fåtallig i deler av utbredelsesområdet og står oppført som sjelden (R) på den polske rødlisten over planter og sopp, mens den er vanlig i Finland. De store sporene med tydelig eksentrisk spirepore og de tynnveggede, glatte hylleelementene (40–125 × 10–150 µm) er viktige mikroskopiske kjennetegn som skiller den fra nærstående blekksopper."
+      },
+      "pl": {
+        "description": "Mały do średniej wielkości, kruchy, saprotroficzny grzyb owocnikujący pojedynczo, w rozproszeniu lub w niewielkich grupkach na zrębkach drewna, trocinach, starej słomie i żyznej glebie. Szeroko rozprzestrzeniony w Europie, Ameryce Północnej i Oceanii, pojawia się zarówno w lasach, jak i w ogrodach, na trawnikach oraz w domowym podłożu z korą lub ściółką, w dojrzałości szybko rozpływając się w czarną ciecz.",
+        "cap": "Po rozpostarciu ma średnicę 1,5–4,5 cm; za młodu niemal kulisty, cylindryczno-jajowaty lub jajowaty (wysokości do 3 cm i szerokości do 2 cm), z czasem rozpościera się do stożkowatego, dzwonkowatego, a w końcu szeroko stożkowatego lub prawie płaskiego. Powierzchnia jest początkowo pokryta kosmatą, białawą do płowobeżowej, filcowatą osłoną całkowitą, która rozpada się na nietrwałe, wełniste łatki i kłaczki skupione ku środkowi, gdzie przybierają barwę ochrową do brązowawej. Pod spodem matowa skórka jest na środku bladoochrowa, żółtawa lub musztardowobrązowa, jaśniejsza przy brzegu i z wiekiem szarzejąca; brzeg jest najpierw podwinięty, promieniście prążkowany do głęboko bruzdowanego niemal po sam środek, a na koniec falisty, odgięty, popękany lub rozpływający się. Wodorotlenek potasu (KOH) daje na powierzchni kapelusza reakcję negatywną.",
+        "hymenium": "Blaszki wolne do wąsko przyrośniętych, bardzo gęste, szerokości 3–8 mm, z trzema do czterech rzędów licznych krótkich blaszeczek oraz drobno owłosionymi pod lupą ostrzami i powierzchniami. Początkowo białe do kremowych, w miarę dojrzewania zarodników przechodzą w szarawe do szarobrązowych i w końcu czarne, po czym rozpływają się w atramentową ciecz. Podstawki są maczugowate, czterozarodnikowe, 25–28 × 11–13 µm, otoczone brachybazydiolami; pleurocystydy i podobne cheilocystydy są workowate do elipsoidalnych lub niemal pęcherzykowatych, 60–80 × 32–40 µm, gładkie, szkliste w KOH, o ścianach grubości 1–2 µm.",
+        "stipe": "Trzon ma wysokość 2–13 cm i grubość 0,2–0,7 cm, jest cylindryczny, równogruby lub lekko maczugowato rozszerzony u podstawy, kruchy i pusty bez wewnętrznego włókna. Powierzchnia jest biała, za młodu delikatnie oprószona i słabo prążkowana, szybko staje się gładka i naga, a podstawa przebarwia się brązowawo i jest opatrzona białymi sznurami grzybniowymi. Osłony częściowej brak, choć u młodych owocników u podstawy trzonu często widoczna jest cienka, biała, kołnierzykowata pochwa utworzona z resztek osłony całkowitej.",
+        "flesh": "Miąższ bardzo cienki (około 1 mm grubości w środku kapelusza), białawy do bladoochrowego, kruchy, niezmienny po przekrojeniu i rozpływający się w dojrzałości. Smak niewyraźny, zapach w stanie świeżym niewyraźny, przy rozpływaniu się blaszek niekiedy lekko nieprzyjemny.",
+        "sporePrint": "Czarny. Zarodniki mają wymiary 10–16,5 × 6,5–10 µm (zwykle 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), w widoku z przodu elipsoidalne do migdałowatych lub jajowatych, a z boku lekko spłaszczone, gładkie, w KOH bardzo ciemnoczerwonobrązowe, z mało wyraźnym wyrostkiem wnękowym i wyraźną, ekscentryczną porą rostkową o szerokości 1–2 µm.",
+        "habitat": "Saprotroficzny na zrębkach drewna, trocinach, zagrzebanych resztkach drzewnych, gnijącej słomie, słomie zmieszanej z końskim obornikiem, kompoście, żyznych trawnikach i sklepowym podłożu ze ściółką; owocnikuje pojedynczo, w rozproszeniu lub w małych grupkach, a nie w gęstych wiązkach. Owocniki pojawiają się od wiosny do jesieni – w Europie Środkowej zwykle od czerwca do października – a w łagodnym klimacie lub w pomieszczeniach po wilgotnych okresach mogą występować przez cały rok.",
+        "uses": "Niejadalny; miąższ jest niezwykle cienki i szybko się rozpływa, bez żadnej wartości kulinarnej.",
+        "confusion": "Czernidłaczek błyszczący (Coprinellus micaceus) rośnie w gęstych wiązkach wokół próchniejących pniaków drzew liściastych lub zamierających drzew, a nie w rozproszeniu na ściółce czy słomie, ma błyszczącą osłonę z drobnych, mikowatych ziarenek zamiast filcowatych łatek, nie ma kołnierzykowatej pochwy u podstawy i wytwarza mniejsze zarodniki. Czernidłaczek podwórzowy (Coprinellus domesticus) preferuje kłody i pniaki drzew liściastych, ma bardziej płowobrązowy środek kapelusza z ziarnistą osłoną, a mikroskopowo różni się grubościennymi komórkami osłony i mniejszymi zarodnikami z centralną, a nie ekscentryczną porą rostkową. Inne gatunki z sekcji Domestici również odróżniają się mniejszymi zarodnikami, natomiast czernidłówka zajęcza (Coprinopsis lagopus) ma delikatniejszą, bardziej owłosioną, bielszą włóknistą osłonę i odmienną morfologię zarodników.",
+        "notes": "Choć szeroko rozprzestrzeniony w Europie, w części zasięgu jest nieczęsty i znajduje się na Czerwonej liście roślin i grzybów Polski w kategorii gatunków rzadkich (R), podczas gdy w Finlandii jest pospolity. Jego duże zarodniki z wyraźnie ekscentryczną porą rostkową oraz cienkościenne, gładkie elementy osłony (40–125 × 10–150 µm) są kluczowymi cechami mikroskopowymi odróżniającymi go od blisko spokrewnionych gatunków."
+      },
+      "pt": {
+        "description": "Cogumelo coprinoide de porte pequeno a médio, frágil e saprotrófico, que frutifica isolado, disperso ou em pequenos grupos sobre aparas de madeira, serradura, palha velha e solo rico em nutrientes. Amplamente distribuído pela Europa, América do Norte e Oceânia, surge tanto em bosques como em jardins, relvados e substrato de vasos no interior, dissolvendo-se rapidamente num líquido negro na maturação.",
+        "cap": "Com 1,5–4,5 cm de diâmetro quando expandido; subgloboso, cilíndrico-ovoide ou ovoide quando jovem (até 3 cm de altura e 2 cm de largura), abrindo-se depois para cónico, campanulado e finalmente largamente cónico ou quase plano. A superfície está inicialmente coberta por um véu universal feltrado, hirsuto e esbranquiçado a creme-ocráceo, que se desfaz em placas lanosas e flóculos efémeros concentrados para o centro, onde adquirem tons ocre a acastanhados. Por baixo, a cutícula baça é ocre-pálida, amarelada ou castanho-mostarda no disco, mais pálida para a margem e acinzentando com a idade; a margem é inicialmente recurvada para baixo, radialmente estriada até profundamente pregueada quase até ao centro e, por fim, ondulada, revirada, fendida ou deliquescente. O hidróxido de potássio (KOH) produz uma reação negativa na superfície do chapéu.",
+        "hymenium": "Lâminas livres a adnexas, muito apertadas, com 3–8 mm de largura, apresentando três a quatro séries de lamélulas curtas frequentes e arestas e faces finamente pubescentes à lupa. Brancas a creme de início, tornam-se acinzentadas a castanho-acinzentadas e finalmente negras à medida que os esporos amadurecem, liquefazendo-se depois num fluido semelhante a tinta. Os basídios são claviformes, tetraspóricos, com 25–28 × 11–13 µm, rodeados por braquibasidíolos; os pleurocistídios e os queilocistídios semelhantes são utriformes a elipsoides ou subsaciformes, com 60–80 × 32–40 µm, lisos, hialinos em KOH e com paredes de 1–2 µm de espessura.",
+        "stipe": "Com 2–13 cm de altura e 0,2–0,7 cm de espessura, cilíndrico, uniforme ou ligeiramente claviforme e alargado na base, frágil e oco sem filamento interior. A superfície é branca, finamente pruinosa e ligeiramente estriada nos exemplares jovens, tornando-se rapidamente lisa e glabra, com a base manchada de acastanhado e provida de filamentos miceliares brancos. Não possui véu parcial, embora os corpos frutíferos jovens exibam frequentemente uma volva fina e branca em forma de colarinho na base do estipe, formada por restos do véu universal.",
+        "flesh": "Muito fina (cerca de 1 mm de espessura no centro do chapéu), esbranquiçada a ocre-pálida, frágil, imutável ao corte e deliquescente na maturação. O sabor não é distintivo e o odor é indistinto em fresco, tornando-se por vezes ligeiramente desagradável à medida que as lâminas se liquefazem.",
+        "sporePrint": "Negra. Esporos de 10–16,5 × 6,5–10 µm (habitualmente 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), elipsoides a amigdaliformes ou ovoides em vista frontal e ligeiramente achatados de perfil, lisos, castanho-avermelhados muito escuros em KOH, com um apículo discreto e um poro germinativo excêntrico proeminente de 1–2 µm de largura.",
+        "habitat": "Saprotrófico sobre aparas de madeira, serradura, detritos lenhosos enterrados, palha em decomposição, palha misturada com estrume de cavalo, composto, relvados ricos em nutrientes e substrato comercial de vasos, frutificando solitário, disperso ou em pequenos grupos gregários em vez de tufos densos. Frutifica da primavera ao outono — tipicamente de junho a outubro na Europa Central — e pode surgir durante todo o ano em climas amenos ou no interior após períodos húmidos.",
+        "uses": "Não comestível; a carne é extremamente fina e liquefaz-se rapidamente, sem valor culinário.",
+        "confusion": "Coprinellus micaceus cresce em tufos densos à volta de cepos de folhosas em decomposição ou árvores moribundas em vez de disperso sobre cobertura orgânica ou palha, possui um véu brilhante de minúsculos grânulos micáceos em vez de placas feltradas, não tem volva basal em forma de colarinho e apresenta esporos menores. Coprinellus domesticus prefere troncos e cepos de folhosas, tem o disco do chapéu de um castanho mais fulvo com véu granuloso e distingue-se ao microscópio pelas células velares de paredes espessas e pelos esporos menores com poro germinativo central em vez de excêntrico. Outras espécies da secção Domestici diferem igualmente pelos esporos menores, enquanto Coprinopsis lagopus tem um véu fibroso mais fino, peludo e branco e morfologia esporal distinta.",
+        "notes": "Embora amplamente distribuído pela Europa, é pouco frequente em partes da sua área de distribuição e consta como raro (R) na Lista Vermelha Polaca de Plantas e Fungos, ao passo que na Finlândia é comum. Os seus esporos grandes com poro germinativo nitidamente excêntrico e os elementos velares lisos e de paredes finas (40–125 × 10–150 µm) constituem caracteres microscópicos determinantes que o separam de espécies estreitamente aparentadas."
+      },
+      "ro": {
+        "description": "O ciupercă saprotrofă mică spre medie, fragilă, care fructifică izolat, dispersat sau în grupuri mici pe așchii de lemn, rumeguș, paie vechi și sol bogat în nutrienți. Răspândită pe scară largă în Europa, America de Nord și Oceania, apare atât în păduri, cât și în grădini, peluze și mulci de ghiveci din interior, lichefiindu-se rapid într-un lichid negru la maturitate.",
+        "cap": "1,5–4,5 cm diametru când este deschisă; subglobuloasă, cilindric-ovoidă sau ovoidă în tinerețe (până la 3 cm înălțime și 2 cm lățime), devenind conică, campanulată și în cele din urmă larg conică sau aproape plană. Suprafața este acoperită inițial de un văl universal flocos, albicios până la gălbui-bej, cu aspect pâslos, care se fragmentează în pete lânate și flocoane trecătoare, concentrate spre centru, unde devin ocru până la brunii. Dedesubt, cuticula mată este ocru pal, gălbuie sau brun-muștar la disc, mai palidă spre margine și devenind cenușie cu vârsta; marginea este inițial răsfrântă în jos, striată radial până la profund plisată aproape până la centru, iar în final ondulată, răsfrântă în sus, crăpată sau delicvescentă. Hidroxidul de potasiu (KOH) dă o reacție negativă pe suprafața pălăriei.",
+        "hymenium": "Lamele libere până la anexate, foarte dese, late de 3–8 mm, cu trei până la patru rânduri de lamele scurte frecvente și cu muchii și fețe fin păroase la lupă. Albe până la crem la început, devin cenușii spre gri-brun și în cele din urmă negre pe măsură ce sporii se maturizează, apoi se lichefiază într-un lichid asemănător cernelii. Bazidiile sunt clavate, tetrasporice, de 25–28 × 11–13 µm, înconjurate de brahibazidiole; pleurocistidele și cheilocistidele asemănătoare sunt utriforme până la elipsoidale sau subsacate, de 60–80 × 32–40 µm, netede, hialine în KOH, cu pereți groși de 1–2 µm.",
+        "stipe": "2–13 cm înălțime și 0,2–0,7 cm grosime, cilindric, egal sau ușor claviform și îngroșat la bază, fragil și gol pe dinăuntru, fără fir central. Suprafața este albă, fin pruinoasă și slab striată în tinerețe, devenind curând netedă și glabră, cu baza pătată bruniu și purtând fire albe de miceliu. Vălul parțial lipsește, deși corpurile fructifere tinere prezintă adesea la baza piciorului o volvă subțire, albă, în formă de guler, formată din resturile vălului universal.",
+        "flesh": "Foarte subțire (circa 1 mm grosime la discul pălăriei), albicioasă până la ocru pal, fragilă, neschimbată la tăiere și delicvescentă la maturitate. Gustul este nespecific, iar mirosul este indistinct în stare proaspătă, devenind uneori slab neplăcut pe măsură ce lamelele se lichefiază.",
+        "sporePrint": "Neagră. Sporii măsoară 10–16,5 × 6,5–10 µm (de obicei 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), elipsoidali până la migdalați sau ovoizi văzuți din față și ușor aplatizați lateral, netezi, brun-roșcat foarte închis în KOH, cu un apicul puțin vizibil și un por germinativ excentric proeminent, lat de 1–2 µm.",
+        "habitat": "Saprotrofă pe așchii de lemn, rumeguș, resturi lemnoase îngropate, paie în putrefacție, paie amestecate cu bălegar de cal, compost, peluze bogate în nutrienți și mulci comercial pentru ghivece, fructificând solitar, dispersat sau în grupuri mici gregare, mai degrabă decât în tufe dese. Fructifică din primăvară până toamna — de obicei din iunie până în octombrie în Europa Centrală — și poate apărea tot anul în climate blânde sau în interior, după perioade umede.",
+        "uses": "Necomestibilă; carnea este extrem de subțire și se lichefiază rapid, fără valoare culinară.",
+        "confusion": "Coprinellus micaceus crește în tufe dese în jurul cioatelor de foioase în descompunere sau al arborilor muribunzi, nu dispersat pe mulci ori paie, are un văl lucios din granule minuscule cu aspect de mică în locul petelor pâsloase, este lipsit de o volvă bazală în formă de guler și are spori mai mici. Coprinellus domesticus preferă trunchiurile și cioatele de foioase, are discul pălăriei mai brun-roșcat cu un văl granular și se deosebește microscopic prin celulele vălului cu pereți groși și sporii mai mici, cu por germinativ central, nu excentric. Alte specii din secția Domestici se diferențiază de asemenea prin sporii mai mici, în timp ce Coprinopsis lagopus are un văl fibros mai fin, mai păros și mai alb, precum și o morfologie diferită a sporilor.",
+        "notes": "Deși larg răspândită în Europa, este rară în anumite părți ale arealului său și figurează ca rară (R) pe Lista Roșie a Plantelor și Ciupercilor din Polonia, în timp ce în Finlanda este comună. Sporii săi mari, cu por germinativ net excentric, și elementele netede, cu pereți subțiri, ale vălului (40–125 × 10–150 µm) constituie caractere microscopice cheie care o separă de speciile strâns înrudite."
+      },
+      "ru": {
+        "description": "Небольшой или среднего размера, хрупкий сапротрофный навозник, плодоносящий одиночно, рассеянно или небольшими группами на древесной щепе, опилках, старой соломе и богатой питательными веществами почве. Широко распространён в Европе, Северной Америке и Океании, встречается как в лесах, так и в садах, на газонах и в горшечном субстрате в помещениях, при созревании быстро расплываясь в чёрную жидкость.",
+        "cap": "Диаметром 1,5–4,5 cm в раскрытом состоянии; у молодых грибов почти шаровидная, цилиндрически-яйцевидная или яйцевидная (до 3 cm высотой и 2 cm шириной), затем раскрывается до конической, колокольчатой и в итоге ширококонической или почти плоской. Поверхность вначале покрыта лохматым, беловатым или палевым войлочным общим покрывалом, которое распадается на быстро исчезающие шерстистые лоскутки и хлопья, сосредоточенные к центру, где они приобретают охристый или коричневатый оттенок. Под ним матовая кожица бледно-охристая, желтоватая или горчично-коричневая в центре, более светлая к краю и сереющая с возрастом; край вначале подогнутый, радиально рубчатый до глубоко складчатого почти до самого центра, затем волнистый, загнутый вверх, растрескивающийся или расплывающийся. Гидроксид калия (KOH) даёт отрицательную реакцию на поверхности шляпки.",
+        "hymenium": "Пластинки свободные или узкоприросшие, очень частые, шириной 3–8 mm, с тремя-четырьмя рядами многочисленных коротких пластиночек и тонкоопушёнными краями и гранями, заметными под лупой. Вначале белые до кремовых, по мере созревания спор становятся сероватыми, серо-коричневыми и наконец чёрными, после чего расплываются в чернильную жидкость. Базидии булавовидные, четырёхспоровые, 25–28 × 11–13 µm, окружённые брахибазидиолами; плевроцистиды и сходные с ними хейлоцистиды мешковидно-бутылковидные до эллипсоидных или почти мешковидных, 60–80 × 32–40 µm, гладкие, бесцветные в KOH, со стенками толщиной 1–2 µm.",
+        "stipe": "Высотой 2–13 cm и толщиной 0,2–0,7 cm, цилиндрическая, ровная или слегка булавовидная и расширенная у основания, хрупкая, полая без внутренней нити. Поверхность белая, у молодых грибов тонкоопушённая и слабо продольно-штриховатая, вскоре становится гладкой и голой; основание буреет и несёт белые мицелиальные тяжи. Частное покрывало отсутствует, однако у молодых плодовых тел у основания ножки часто заметна тонкая белая воротничковидная вольва, образованная остатками общего покрывала.",
+        "flesh": "Очень тонкая (около 1 mm толщиной в центре шляпки), беловатая до бледно-охристой, хрупкая, на срезе не изменяется и при созревании расплывается. Вкус невыразительный, запах у свежих грибов слабый, иногда становится слегка неприятным по мере расплывания пластинок.",
+        "sporePrint": "Чёрный. Споры 10–16,5 × 6,5–10 µm (обычно 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), эллипсоидные до миндалевидных или яйцевидных в анфас и слегка уплощённые в профиль, гладкие, очень тёмно-красновато-коричневые в KOH, с малозаметным хилярным придатком и отчётливой эксцентричной порой прорастания шириной 1–2 µm.",
+        "habitat": "Сапротрофный вид на древесной щепе, опилках, погребённых древесных остатках, гниющей соломе, соломе с примесью конского навоза, компосте, богатых питательными веществами газонах и покупной мульче для горшечных растений; плодоносит одиночно, рассеянно или небольшими группами, а не плотными пучками. Плодоношение длится с весны до осени — обычно с июня по октябрь в Центральной Европе — а в мягком климате или в помещениях гриб может появляться круглый год после влажных периодов.",
+        "uses": "Несъедобный; мякоть исключительно тонкая и быстро расплывается, пищевой ценности не имеет.",
+        "confusion": "Coprinellus micaceus растёт плотными пучками вокруг гниющих пней лиственных пород или усыхающих деревьев, а не рассеянно на мульче или соломе, имеет блестящее покрывало из мелких слюдистых крупинок вместо войлочных лоскутков, лишён воротничковидной вольвы у основания и обладает более мелкими спорами. Coprinellus domesticus предпочитает валеж и пни лиственных деревьев, отличается более рыжевато-коричневым центром шляпки с зернистым покрывалом, а микроскопически отделяется толстостенными клетками покрывала и более мелкими спорами с центральной, а не эксцентричной порой прорастания. Другие виды секции Domestici также отличаются более мелкими спорами, тогда как Coprinopsis lagopus имеет более тонкое, пушистое и белое волокнистое покрывало и иную морфологию спор.",
+        "notes": "Несмотря на широкое распространение в Европе, вид редок в отдельных частях ареала и включён как редкий (R) в Польский красный список растений и грибов, тогда как в Финляндии он обычен. Крупные споры с отчётливо эксцентричной порой прорастания и тонкостенные гладкие элементы покрывала (40–125 × 10–150 µm) служат ключевыми микроскопическими признаками, отличающими его от близкородственных видов."
+      },
+      "sk": {
+        "description": "Malý až stredne veľký, krehký, saprotrofný hnojník rastúci jednotlivo, roztrúsene alebo v malých skupinách na drevnej štiepke, pilinách, starej slame a na pôde bohatej na živiny. Je široko rozšírený v Európe, Severnej Amerike a Oceánii, objavuje sa v lesoch, ako aj v záhradách, na trávnikoch a v izbovom substráte s mulčom, pričom v dospelosti sa rýchlo rozplýva na čiernu tekutinu.",
+        "cap": "V rozprestretom stave má priemer 1,5–4,5 cm; za mladi je takmer guľovitý, valcovito vajcovitý alebo vajcovitý (vysoký do 3 cm a široký do 2 cm), neskôr sa rozprestiera do kužeľovitého, zvončekovitého a napokon široko kužeľovitého až takmer plochého tvaru. Povrch je spočiatku pokrytý strapatým, belavým až bledožltohnedým plstnatým celkovým závojom (vélom), ktorý sa trhá na pominuteľné vlnaté škvrny a vločky sústredené k stredu, kde sa sfarbujú do okrova až hnedasta. Pod nimi je matná pokožka v strede bledo okrová, žltkastá alebo horčicovohnedá, smerom k okraju bledšia a vekom sivasto vybledajúca; okraj je spočiatku podvinutý, lúčovito ryhovaný až hlboko zriasnený takmer až do stredu a nakoniec zvlnený, vyhrnutý, rozpukaný alebo sa rozplývajúci. Hydroxid draselný (KOH) vyvoláva na povrchu klobúka negatívnu reakciu.",
+        "hymenium": "Lupene sú voľné až úzko pripojené, veľmi husté, široké 3–8 mm, s troma až štyrmi radmi častých krátkych lupienkov a pod lupou jemne chĺpkatým ostrím aj plochami. Spočiatku sú biele až krémové, dozrievaním výtrusov sa menia na sivasté až sivohnedé a nakoniec čierne, potom sa rozplývajú na atramentovitú tekutinu. Bazídiá sú kyjakovité, štvorvýtrusové, 25–28 × 11–13 µm, obklopené brachybazídiolami; pleurocystidy a podobné cheilocystidy sú vakovité až elipsoidné alebo takmer mešcovité, 60–80 × 32–40 µm, hladké, v KOH hyalínne, so stenami hrubými 1–2 µm.",
+        "stipe": "Hlúbik je vysoký 2–13 cm a hrubý 0,2–0,7 cm, valcovitý, rovnako hrubý alebo na báze mierne kyjakovito zhrubnutý, krehký a dutý bez vnútorného vlákna. Povrch je biely, za mladi jemne oinovatený a slabo pozdĺžne ryhovaný, čoskoro olysieva a stáva sa hladkým, pričom báza hnedasto škvrnatie a nesie biele mycélium v podobe vláken. Čiastočný závoj chýba, hoci mladé plodnice majú na báze hlúbika často tenkú, bielu, golierovitú pošvu vytvorenú zo zvyškov celkového véla.",
+        "flesh": "Dužina je veľmi tenká (v strede klobúka hrubá asi 1 mm), belavá až bledo okrová, krehká, na reze nemenná a v dospelosti sa rozplýva. Chuť je nevýrazná a vôňa za čerstva nevýrazná, pri rozplývaní lupeňov niekedy slabo nepríjemná.",
+        "sporePrint": "Čierny. Výtrusy merajú 10–16,5 × 6,5–10 µm (zvyčajne 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), z čelného pohľadu sú elipsoidné až mandľovité alebo vajcovité a z bočného pohľadu mierne sploštené, hladké, v KOH veľmi tmavo červenohnedé, s nenápadným hilárnym príveskom a výrazným excentrickým klíčnym pórom širokým 1–2 µm.",
+        "habitat": "Saprotrofný druh na drevnej štiepke, pilinách, zahrabaných zvyškoch dreva, hnijúcej slame, slame zmiešanej s konským hnojom, komposte, trávnikoch bohatých na živiny a v komerčnom substrátovom mulči; plodnice rastú jednotlivo, roztrúsene alebo v malých zhlukoch, nie v hustých trsoch. Plodí od jari do jesene – v strednej Európe zvyčajne od júna do októbra – a v miernom podnebí alebo v interiéri po vlhkých obdobiach sa môže objavovať celoročne.",
+        "uses": "Nejedlý; dužina je mimoriadne tenká a rýchlo sa rozplýva, nemá žiadnu kulinársku hodnotu.",
+        "confusion": "Hnojník trblietavý (Coprinellus micaceus) rastie v hustých trsoch pri hnijúcich pňoch listnáčov alebo odumierajúcich stromoch, nie roztrúsene na mulči či slame, má trblietavé vélum tvorené drobnými sľudovitými zrnkami namiesto plstnatých škvŕn, chýba mu golierovitá bazálna pošva a má menšie výtrusy. Hnojník okrový (Coprinellus domesticus) uprednostňuje kmene a pne listnáčov, má sýtejšie žltohnedý stred klobúka so zrnitým vélom a mikroskopicky sa odlišuje hrubostennými bunkami véla a menšími výtrusmi s centrálnym, nie excentrickým klíčnym pórom. Ostatné druhy sekcie Domestici sa taktiež líšia menšími výtrusmi, zatiaľ čo hnojník zajačí (Coprinopsis lagopus) má jemnejšie, chlpatejšie, belšie vláknité vélum a odlišnú morfológiu výtrusov.",
+        "notes": "Hoci je v Európe široko rozšírený, v časti svojho areálu je zriedkavý a v poľskom Červenom zozname rastlín a húb je vedený ako vzácny (R), zatiaľ čo vo Fínsku je bežný. Jeho veľké výtrusy so zreteľne excentrickým klíčnym pórom a tenkostenné, hladké elementy véla (40–125 × 10–150 µm) sú kľúčovými mikroskopickými znakmi, ktoré ho odlišujú od blízko príbuzných hnojníkov."
+      },
+      "sl": {
+        "description": "Majhna do srednje velika, krhka saprotrofna goba, ki raste posamično, raztreseno ali v manjših skupinah na lesnih sekancih, žagovini, stari slami in s hranili bogatih tleh. Široko je razširjena po Evropi, Severni Ameriki in Oceaniji ter se pojavlja tako v gozdovih kot na vrtovih, zelenicah in v zastirki sobnih lončnic; ob zrelosti se hitro raztopi v črno tekočino.",
+        "cap": "Razprt meri 1,5–4,5 cm v premeru; mlad je skoraj okrogel, valjasto jajčast ali jajčast (do 3 cm visok in 2 cm širok), nato se razpre v stožčastega, zvonastega in nazadnje široko stožčastega ali skoraj ravnega. Površino sprva prekriva kosmata, belkasta do rumenkasto rjava, polstena zunanja ovojnica, ki razpade v hitro minljive volnate krpice in kosmiče, zgoščene proti sredini, kjer postanejo okrasti do rjavkasti. Pod njo je matirana kožica na temenu bledo okrasta, rumenkasta ali gorčično rjava, proti robu svetlejša in s starostjo posivi; rob je sprva podvihan, žarkasto nažlebkan do globoko naguban skoraj do sredine, nazadnje pa valovit, zavihan navzgor, razcepljen ali utekočinjen. Kalijev hidroksid (KOH) na površini klobuka ne povzroči barvne reakcije.",
+        "hymenium": "Lističi so prosti do pripeti, zelo gosti, široki 3–8 mm, s tremi do štirimi vrstami pogostih krajših vmesnih lističev ter pod lupo drobno dlakavimi ostrinkami in ploskvami. Sprva so beli do smetanasti, z dozorevanjem trosov postanejo sivkasti do sivo rjavi in nazadnje črni, nato pa se raztopijo v črnilasto tekočino. Bazidiji so kijasti, štiritrosni, veliki 25–28 × 11–13 µm in obdani z brahibazidiolami; plevrocistide in podobne heilocistide so mehurjaste do elipsoidne ali skoraj vrečaste, velike 60–80 × 32–40 µm, gladke, v KOH prozorne, s stenami debelimi 1–2 µm.",
+        "stipe": "Visok je 2–13 cm in debel 0,2–0,7 cm, valjast, enakomerno debel ali rahlo kijast in v dnišču odebeljen, krhek ter votel brez notranje nitke. Površina je bela, pri mladih trosnjakih fino poprhnjena in rahlo nažlebkana, kmalu pa postane gladka in gola; dnišče rjavkasto potemni in ima bele micelijske nitke. Delnega zastiralca ni, vendar imajo mladi trosnjaki v dnišču beta pogosto tanko, belo, ovratniku podobno nožnico, nastalo iz ostankov zunanje ovojnice.",
+        "flesh": "Zelo tanko (na sredini klobuka približno 1 mm debelo), belkasto do bledo okrasto, krhko, na prerezu nespremenljivo in ob zrelosti utekočinjeno. Okus ni izrazit, vonj pa je pri svežih gobah neizrazit in ob utekočinjanju lističev včasih postane rahlo neprijeten.",
+        "sporePrint": "Črn. Trosi merijo 10–16,5 × 6,5–10 µm (običajno 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), s sprednje strani so elipsoidni, mandljasti ali jajčasti, s strani pa rahlo sploščeni, gladki, v KOH zelo temno rdečkasto rjavi, z neopaznim nastavkom in izrazito ekscentrično kalitveno poro, široko 1–2 µm.",
+        "habitat": "Saprotrofna vrsta na lesnih sekancih, žagovini, zakopanih lesnih ostankih, trohneči slami, slami, pomešani s konjskim gnojem, kompostu, s hranili bogatih zelenicah in kupljeni zastirki za lončnice; raste posamično, raztreseno ali v manjših skupinah in ne v gostih šopih. Obrodi od pomladi do jeseni — v Srednji Evropi najpogosteje od junija do oktobra — v milejšem podnebju ali v zaprtih prostorih po vlažnih obdobjih pa se lahko pojavlja vse leto.",
+        "uses": "Neužitna; meso je izjemno tanko in se hitro utekočini, zato nima kulinarične vrednosti.",
+        "confusion": "Coprinellus micaceus raste v gostih šopih okoli trohnečih listnatih štorov ali odmirajočih dreves, ne raztreseno na zastirki ali slami, ima lesketajočo se ovojnico iz drobnih sljudastih zrnc namesto polstenih krpic, nima ovratniku podobne nožnice v dnišču in ima manjše trose. Coprinellus domesticus ima raje listnata debla in štore, ima bolj rjasto rjavo teme klobuka z zrnato ovojnico, mikroskopsko pa se loči po debelostenskih celicah ovojnice in manjših trosih s sredinsko, ne ekscentrično kalitveno poro. Druge vrste iz sekcije Domestici se prav tako razlikujejo po manjših trosih, medtem ko ima Coprinopsis lagopus nežnejšo, bolj dlakavo in bolj belo vlaknasto ovojnico ter drugačno morfologijo trosov.",
+        "notes": "Čeprav je široko razširjena po Evropi, je v delih svojega areala redkejša in je na poljskem rdečem seznamu rastlin in gliv uvrščena kot redka (R), medtem ko je na Finskem pogosta. Veliki trosi z izrazito ekscentrično kalitveno poro ter tankostenski, gladki elementi ovojnice (40–125 × 10–150 µm) so ključne mikroskopske značilnosti, ki jo ločujejo od sorodnih vrst."
+      },
+      "sr": {
+        "description": "Мала до средње велика, крхка сапротрофна гљива која плодоноси појединачно, расуто или у мањим групама на дрвној сечки, пиљевини, старој слами и земљишту богатом хранљивим материјама. Широко је распрострањена широм Европе, Северне Америке и Океаније, а јавља се у шумама, као и у баштама, на травњацима и у малчу собних биљака; у зрелости се брзо растапа у црну течност.",
+        "cap": "Отворен пречника 1,5–4,5 cm; у младости готово лоптаст, ваљкасто-јајаст или јајаст (до 3 cm висок и 2 cm широк), затим се шири у купаст, звонаст и на крају широко купаст или готово раван облик. Површина је у почетку прекривена чупавим, беличастим до жућкастосмеђим, филцаним општим овојем који се распада на пролазне вунасте крпице и пахуљице, гушће према средини где постају окер до смеђкасте. Испод њега мат кожица на темену је бледоокер, жућкаста или сенфастосмеђа, светлија према ивици и старењем сиви; ивица је испрва подвијена, зракасто избраздана до дубоко наборана готово до средине, а на крају таласаста, изврнута, исцепана или се растапа. Калијум-хидроксид (KOH) даје негативну реакцију на површини шешира.",
+        "hymenium": "Листићи су слободни до уско прирасли, веома густи, широки 3–8 mm, са три до четири реда честих краћих међулистића и под лупом ситно длакавим оштрицама и површинама. У почетку су бели до крем боје, сазревањем спора постају сивкасти до сивосмеђи и на крају црни, а затим се претварају у течност налик мастилу. Базидије су батинасте, четвороспорне, 25–28 × 11–13 µm, окружене брахибазидиолама; плеуроцистиде и сличне хеилоцистиде су мехурасте до елипсоидне или готово врећасте, 60–80 × 32–40 µm, глатке, прозирне у KOH, са зидовима дебљине 1–2 µm.",
+        "stipe": "Висока 2–13 cm и дебела 0,2–0,7 cm, ваљкаста, једнаке дебљине или благо батинаста и задебљана при основи, крхка и шупља без унутрашње нити. Површина је бела, у младости фино пахуљаста и благо уздужно пругаста, убрзо постаје глатка и гола, док основа смеђкасто тамни и носи беле мицелијске нити. Делимични овој недостаје, мада млада плодна тела при основи дршке често имају танку, белу волву налик крагни, насталу од остатака општег овоја.",
+        "flesh": "Веома танко (око 1 mm дебљине у средини шешира), беличасто до бледоокер, крхко, на пресеку не мења боју и у зрелости се растапа. Укус није изражен, а мирис је у свежем стању неизразит, док при растапању листића понекад постаје благо непријатан.",
+        "sporePrint": "Црн. Споре су 10–16,5 × 6,5–10 µm (најчешће 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), са предње стране елипсоидне, бадемасте или јајасте, а бочно благо спљоштене, глатке, веома тамно црвенкастосмеђе у KOH, са неупадљивим апикулусом и израженом ексцентричном клијавом пором ширине 1–2 µm.",
+        "habitat": "Сапротрофна врста на дрвној сечки, пиљевини, закопаним дрвним остацима, трулој слами, слами помешаној са коњским ђубривом, компосту, травњацима богатим хранљивим материјама и куповном малчу за саксије; плодоноси појединачно, расуто или у малим групама, а не у густим бусеновима. Плодоноси од пролећа до јесени — у Средњој Европи обично од јуна до октобра — а у благим климама или у затвореном простору након влажних периода може се јављати током целе године.",
+        "uses": "Нејестива; месо је изузетно танко и брзо се растапа у течност, без кулинарске вредности.",
+        "confusion": "Coprinellus micaceus расте у густим бусеновима око трулих пањева лишћара или одумирућих стабала, а не расуто на малчу или слами, има сјајан овој од ситних светлуцавих зрнаца уместо филцаних крпица, нема базалну волву налик крагни и има мање споре. Coprinellus domesticus преферира стабла и пањеве лишћара, има тамније риђесмеђе теме шешира са зрнастим овојем, а микроскопски се разликује по ћелијама овоја дебелих зидова и мањим спорама са централном, а не ексцентричном клијавом пором. Остале врсте из секције Domestici такође се разликују по мањим спорама, док Coprinopsis lagopus има финији, длакавији, бељи влакнасти овој и другачију морфологију спора.",
+        "notes": "Иако је широко распрострањена широм Европе, у деловима свог ареала је ређа и наведена је као ретка (R) на Пољској црвеној листи биљака и гљива, док је у Финској честа. Велике споре са изразито ексцентричном клијавом пором и танкозидни, глатки елементи овоја (40–125 × 10–150 µm) кључне су микроскопске одлике које је одвајају од блиско сродних врста."
+      },
+      "sv": {
+        "description": "En liten till medelstor, spröd, saprotrof bläcksvamp som växer enstaka, spridd eller i små grupper på träflis, sågspån, gammal halm och näringsrik jord. Den är vitt utbredd i Europa, Nordamerika och Oceanien och förekommer både i skogsmark och i trädgårdar, gräsmattor och inomhus i krukjord, där den snabbt upplöses till en svart vätska vid mognad.",
+        "cap": "1,5–4,5 cm bred som utbredd; nästan klotformig, cylindriskt äggformig eller äggformig som ung (upp till 3 cm hög och 2 cm bred), senare kägelformig, klocklik och slutligen brett kägelformig eller nästan plan. Ytan täcks i början av ett raggigt, vitaktigt till sämskfärgat, filtat yttre hylle som spricker upp i flyktiga, ulliga fläckar och flockor koncentrerade mot mitten, där de blir ockrafärgade till brunaktiga. Under hyllet är den matta hatthuden blekt ockrafärgad, gulaktig eller senapsbrun på mitten, ljusare mot kanten och bleknar till gråaktig med åldern; hattkanten är först nedböjd, radiellt strimmig till djupt veckad nästan ända in till mitten och slutligen vågig, uppböjd, uppsprucken eller flytande. Kaliumhydroxid (KOH) ger en negativ reaktion på hattytan.",
+        "hymenium": "Fria till smalt vidväxta, mycket tätt sittande skivor, 3–8 mm breda, med tre till fyra längder av talrika korta mellanskivor samt fint håriga eggar och sidor sedda med lupp. Först vita till gräddvita, sedan gråaktiga till gråbruna och slutligen svarta allteftersom sporerna mognar, varefter de upplöses till en bläckliknande vätska. Basidierna är klubblika, fyrsporiga, 25–28 × 11–13 µm, omgivna av brachybasidioler; pleurocystider och liknande cheilocystider är utriforma till ellipsoida eller nästan säcklika, 60–80 × 32–40 µm, släta, hyalina i KOH och med 1–2 µm tjocka väggar.",
+        "stipe": "2–13 cm hög och 0,2–0,7 cm tjock, cylindrisk, jämntjock eller svagt klubblik och förtjockad vid basen, spröd och ihålig utan inre märgtråd. Ytan är vit, fint pudrad och svagt strimmig som ung, men blir snart slät och kal, medan basen färgas brunaktig och bär vita myceltrådar. Inre hylle saknas, men unga fruktkroppar har ofta en tunn, vit, kragliknande strumpa bildad av rester från det yttre hyllet vid fotbasen.",
+        "flesh": "Mycket tunt (omkring 1 mm tjockt i hattmitten), vitaktigt till blekt ockrafärgat, sprött, oföränderligt vid genomskärning och upplöses till vätska vid mognad. Smaken är inte karakteristisk och lukten är obetydlig som färsk, men kan bli svagt obehaglig när skivorna flyter bort.",
+        "sporePrint": "Svart. Sporerna mäter 10–16,5 × 6,5–10 µm (vanligen 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), är ellipsoida till mandelformiga eller äggformiga framifrån och svagt tillplattade från sidan, släta, mycket mörkt rödbruna i KOH, med en otydlig apikulus och en tydlig excentrisk groddpor som är 1–2 µm bred.",
+        "habitat": "Saprotrof på träflis, sågspån, nedgrävda vedrester, ruttnande halm, halm blandad med hästgödsel, kompost, näringsrika gräsmattor och kommersiell krukjord, där den växer enstaka, spridd eller i små sällskapliga grupper snarare än i täta tuvor. Den bildar fruktkroppar från vår till höst – vanligen juni till oktober i Centraleuropa – och kan uppträda året runt i milda klimat eller inomhus efter fuktiga perioder.",
+        "uses": "Oätlig; köttet är extremt tunt och upplöses snabbt, utan något kulinariskt värde.",
+        "confusion": "Coprinellus micaceus växer i täta tuvor kring murknande lövträdsstubbar eller döende träd snarare än spridd på flis eller halm, har ett glittrande hylle av fina glimmerkorn i stället för filtade fläckar, saknar en kragliknande strumpa vid basen och har mindre sporer. Coprinellus domesticus föredrar lövträdsstammar och -stubbar, har en mer gulbrun till rödbrun hattmitt med grynigt hylle och skiljs mikroskopiskt genom tjockväggiga hylleceller samt mindre sporer med central i stället för excentrisk groddpor. Övriga arter i sektion Domestici skiljer sig också genom mindre sporer, medan Coprinopsis lagopus har ett finare, hårigare och vitare trådigt hylle samt avvikande spormorfologi.",
+        "notes": "Även om arten är vitt utbredd i Europa är den sällsynt i delar av sitt utbredningsområde och upptagen som sällsynt (R) på den polska rödlistan över växter och svampar, medan den är vanlig i Finland. De stora sporerna med tydligt excentrisk groddpor och de tunnväggiga, släta hylleelementen (40–125 × 10–150 µm) är viktiga mikroskopiska karaktärer som skiljer den från närstående bläcksvampar."
+      },
+      "tr": {
+        "description": "Yonga, talaş, eski saman ve besin bakımından zengin toprak üzerinde tek tek, dağınık ya da küçük gruplar hâlinde meyve veren, küçükten orta boya, kırılgan, saprotrof bir mürekkep mantarıdır. Avrupa, Kuzey Amerika ve Okyanusya boyunca geniş bir yayılışa sahip olup ormanlık alanların yanı sıra bahçelerde, çimenliklerde ve iç mekân saksı malçında görülür; olgunlaştığında hızla siyah bir sıvıya dönüşerek erir.",
+        "cap": "Açıldığında 1,5–4,5 cm çapındadır; gençken küremsiye yakın, silindirik-yumurtamsı veya yumurta biçimindedir (3 cm yüksekliğe ve 2 cm genişliğe kadar), zamanla konik, çan biçimli ve sonunda genişçe konik ya da neredeyse düz hâle gelir. Yüzey başlangıçta keçe benzeri, tüylü, beyazımsı ile açık devetüyü arası bir genel örtü (velum) ile kaplıdır; bu örtü kısa ömürlü yünsü yamalara ve merkeze doğru yoğunlaşarak aşıboyası ile kahverengimsi tonlara dönen pulcuklara ayrılır. Altındaki mat kutikula merkezde soluk aşıboyası, sarımsı veya hardal kahverengisi, kenara doğru daha açık renklidir ve yaşlandıkça grimsi tonlara solar; kenar başlangıçta aşağı kıvrıktır, neredeyse merkeze kadar ışınsal çizgili ile derince kıvrımlı arasında değişir ve sonunda dalgalı, geriye kıvrık, yarık veya eriyen bir yapı alır. Potasyum hidroksit (KOH) şapka yüzeyinde negatif tepki verir.",
+        "hymenium": "Serbest ile hafifçe sapa değen (adneks) arasında, çok sık, 3–8 mm genişliğinde lameller; üç ila dört kademeli sık kısa lamellülalar içerir ve büyüteç altında kenarları ile yüzleri incecik tüylüdür. Başlangıçta beyaz ile krem rengindedir, sporlar olgunlaştıkça grimsi, gri-kahverengi ve sonunda siyah renge dönerek mürekkep benzeri bir sıvı hâlinde erir. Bazidiyumlar çomak biçimli, dört sporlu, 25–28 × 11–13 µm boyutlarında olup brakibazidiyollerle çevrilidir; plevrosistidyumlar ve benzer şeilosistidyumlar tulumsu ile elipsoid veya hafifçe kesemsi arasında, 60–80 × 32–40 µm boyutlarında, pürüzsüz, KOH içinde saydam ve 1–2 µm kalınlığında çeperlidir.",
+        "stipe": "2–13 cm boyunda ve 0,2–0,7 cm kalınlığında, silindirik, eşit kalınlıkta veya tabanda hafifçe çomak biçiminde genişlemiş, kırılgan ve içi boş olup iç iplikçik taşımaz. Yüzey beyaz, gençken incecik pudralı ve hafifçe çizgilidir; kısa sürede pürüzsüz ve çıplak hâle gelir, tabanı kahverengimsi lekelenir ve beyaz miselyum iplikçikleri taşır. Kısmi örtü bulunmaz, ancak genç meyve gövdeleri çoğu zaman sap tabanında genel örtü kalıntılarından oluşan ince, beyaz, yaka benzeri bir volva gösterir.",
+        "flesh": "Çok ince (şapka merkezinde yaklaşık 1 mm kalınlığında), beyazımsı ile soluk aşıboyası arasında, kırılgan, kesildiğinde renk değiştirmeyen ve olgunlukta eriyen yapıdadır. Tadı belirgin değildir; kokusu tazeyken belirsizdir, lameller eridikçe bazen hafifçe hoş olmayan bir hâl alır.",
+        "sporePrint": "Siyahtır. Sporlar 10–16,5 × 6,5–10 µm (çoğunlukla 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8) boyutlarındadır; ön görünümde elipsoid ile badem biçimli veya yumurtamsı, yan görünümde hafifçe basık, pürüzsüz, KOH içinde çok koyu kırmızımsı kahverengidir; belirsiz bir hilar uzantıya ve 1–2 µm genişliğinde belirgin eksantrik çimlenme deliğine sahiptir.",
+        "habitat": "Yonga, talaş, gömülü odunsu döküntüler, çürüyen saman, at gübresiyle karışık saman, kompost, besin bakımından zengin çimenlikler ve ticari saksı malçı üzerinde saprotrof olarak yetişir; yoğun demetler yerine tek tek, dağınık ya da küçük toplu gruplar hâlinde meyve verir. İlkbahardan sonbahara kadar — Orta Avrupa'da tipik olarak hazirandan ekime — meyve verir; ılıman iklimlerde veya yağışlı dönemlerin ardından iç mekânlarda yıl boyu ortaya çıkabilir.",
+        "uses": "Yenmez; etli kısım son derece incedir ve hızla eridiğinden mutfak değeri yoktur.",
+        "confusion": "Coprinellus micaceus malç veya saman üzerinde dağınık büyümek yerine çürüyen yapraklı ağaç kütükleri ya da ölmekte olan ağaçların çevresinde yoğun demetler hâlinde gelişir, keçe benzeri yamalar yerine minik mika benzeri taneciklerden oluşan parlak bir örtüye sahiptir, yaka biçimli taban volvasından yoksundur ve daha küçük sporlar üretir. Coprinellus domesticus yapraklı ağaç kütüklerini ve gövdelerini tercih eder, tanecikli bir örtüyle kaplı daha kızıl-kahverengi bir şapka merkezine sahiptir ve mikroskobik olarak kalın çeperli örtü hücreleri ile eksantrik yerine merkezi çimlenme delikli daha küçük sporlarıyla ayrılır. Domestici seksiyonundaki diğer türler de daha küçük sporlarıyla farklılık gösterir; Coprinopsis lagopus ise daha ince, daha tüylü, daha beyaz lifsi bir örtüye ve farklı spor morfolojisine sahiptir.",
+        "notes": "Avrupa genelinde yaygın olmasına karşın yayılış alanının bazı bölümlerinde seyrektir ve Polonya Bitki ve Mantar Kırmızı Listesi'nde nadir (R) olarak yer alırken Finlandiya'da yaygındır. Belirgin biçimde eksantrik çimlenme delikli büyük sporları ve ince çeperli, pürüzsüz örtü elemanları (40–125 × 10–150 µm), onu yakın akraba mürekkep mantarlarından ayıran temel mikroskobik özelliklerdir."
+      },
+      "uk": {
+        "description": "Невеликий або середнього розміру, крихкий сапротрофний гриб, що плодоносить поодиноко, розсіяно або невеликими групами на деревній трісці, тирсі, старій соломі та багатому на поживні речовини ґрунті. Широко поширений у Європі, Північній Америці та Океанії, трапляється як у лісах, так і в садах, на газонах і в горщиковому субстраті в приміщеннях, при дозріванні швидко розпливаючись у чорну рідину.",
+        "cap": "Діаметром 1,5–4,5 cm у розкритому стані; у молодих грибів майже куляста, циліндрично-яйцеподібна або яйцеподібна (до 3 cm заввишки та 2 cm завширшки), згодом розкривається до конічної, дзвоникоподібної й врешті ширококонічної або майже пласкої. Поверхня спочатку вкрита кудлатим, білуватим до палевого повстистим загальним покривалом, яке розпадається на нетривкі вовнисті клапті та пластівці, зосереджені ближче до центру, де вони набувають вохристого або коричнюватого відтінку. Під ним матова шкірочка блідо-вохриста, жовтувата або гірчично-коричнева в центрі, світліша до краю і сіріє з віком; край спочатку підігнутий, радіально рубчастий до глибоко складчастого майже до центру, а згодом хвилястий, загнутий догори, розтрісканий або розпливчастий. Гідроксид калію (KOH) дає негативну реакцію на поверхні шапинки.",
+        "hymenium": "Пластинки вільні або вузькоприрослі, дуже густі, завширшки 3–8 mm, із трьома-чотирма рядами численних коротких пластиночок і дрібноопушеними краями та поверхнями, помітними під лупою. Спочатку білі до кремових, із дозріванням спор стають сіруватими, сіро-коричневими й нарешті чорними, після чого розпливаються в чорнильну рідину. Базидії булавоподібні, чотириспорові, 25–28 × 11–13 µm, оточені брахібазидіолами; плевроцистиди та подібні до них хейлоцистиди утриформні до еліпсоїдних або майже мішкоподібних, 60–80 × 32–40 µm, гладенькі, безбарвні в KOH, зі стінками завтовшки 1–2 µm.",
+        "stipe": "Заввишки 2–13 cm і завтовшки 0,2–0,7 cm, циліндрична, рівна або злегка булавоподібна й розширена біля основи, крихка, порожниста без внутрішньої нитки. Поверхня біла, у молодих грибів тонкоопушена та слабо штрихувата, незабаром стає гладенькою й голою; основа буріє і несе білі міцеліальні тяжі. Часткове покривало відсутнє, однак молоді плодові тіла часто мають тонку білу комірцеподібну вольву біля основи ніжки, утворену залишками загального покривала.",
+        "flesh": "Дуже тонкий (близько 1 mm завтовшки в центрі шапинки), білуватий до блідо-вохристого, крихкий, на розрізі не змінюється й розпливається при дозріванні. Смак невиразний, запах у свіжому стані слабкий, іноді стає злегка неприємним у міру розпливання пластинок.",
+        "sporePrint": "Чорний. Спори 10–16,5 × 6,5–10 µm (зазвичай 11–15,5 × 6,5–8,5 µm, Q = 1,4–1,8), еліпсоїдні до мигдалеподібних або яйцеподібних у фронтальному вигляді та злегка сплющені збоку, гладенькі, дуже темно-червонувато-коричневі в KOH, із малопомітним хілярним придатком і чіткою ексцентричною порою проростання завширшки 1–2 µm.",
+        "habitat": "Сапротрофний вид на деревній трісці, тирсі, занурених у ґрунт деревних рештках, гнилій соломі, соломі в суміші з кінським гноєм, компості, багатих на поживні речовини газонах і покупній мульчі для кімнатних рослин; плодоносить поодиноко, розсіяно або невеликими групами, а не щільними пучками. Плодоносить із весни до осені — зазвичай із червня до жовтня в Центральній Європі — а в м'якому кліматі або в приміщеннях може з'являтися цілорічно після вологих періодів.",
+        "uses": "Неїстівний; м'якуш надзвичайно тонкий і швидко розпливається, харчової цінності не має.",
+        "confusion": "Coprinellus micaceus росте щільними пучками навколо гнилих пнів листяних дерев або відмираючих дерев, а не розсіяно на мульчі чи соломі, має блискуче покривало з дрібних слюдистих зерняток замість повстистих клаптів, не має комірцеподібної вольви біля основи та утворює дрібніші спори. Coprinellus domesticus віддає перевагу колодам і пням листяних порід, має рудувато-коричневіший центр шапинки із зернистим покривалом, а мікроскопічно відрізняється товстостінними клітинами покривала й дрібнішими спорами з центральною, а не ексцентричною порою проростання. Інші види секції Domestici також відрізняються дрібнішими спорами, тоді як Coprinopsis lagopus має тонше, пухнастіше й біліше волокнисте покривало та іншу морфологію спор.",
+        "notes": "Попри широке поширення в Європі, вид є нечастим у частині свого ареалу й занесений як рідкісний (R) до Польського червоного списку рослин і грибів, тоді як у Фінляндії він звичайний. Великі спори з виразно ексцентричною порою проростання та тонкостінні гладенькі елементи покривала (40–125 × 10–150 µm) є ключовими мікроскопічними ознаками, що відокремлюють його від близькоспоріднених видів."
+      },
+      "zh": {
+        "description": "一種小型至中型、質地脆弱的腐生鬼傘類真菌，單生、散生或小群生於木屑、鋸屑、陳舊稻草及富含養分的土壤上。廣泛分布於歐洲、北美洲與大洋洲，可見於林地，也出現在花園、草坪與室內盆栽覆蓋物中，成熟後會迅速自溶為黑色液體。",
+        "cap": "展開後直徑1.5–4.5 cm；幼時近球形、圓柱狀卵形或卵形（高可達3 cm，寬可達2 cm），隨後展開呈圓錐形、鐘形，最終為寬圓錐形或近扁平。表面起初覆有毛茸狀、帶白至淺黃褐色的氈狀外菌幕，隨後碎裂為易脫落的綿毛狀斑塊與絮片，集中於中央，並在那裡轉為赭色至帶褐色。下方無光澤的菌蓋表皮在中央呈淺赭色、帶黃色或芥末褐色，向邊緣漸淡，老化後褪為帶灰色；邊緣起初內彎，具放射狀條紋至近中央的深溝紋，最終呈波狀、反捲、開裂或自溶。氫氧化鉀（KOH）滴於菌蓋表面呈陰性反應。",
+        "hymenium": "菌褶離生至直生，極密，寬3–8 mm，具三至四輪頻繁分布的短小菌褶，在放大鏡下褶緣與褶面可見細微絨毛。初為白色至奶油色，隨孢子成熟轉為帶灰色至灰褐色，最終變黑，繼而液化為墨汁狀液體。擔子棍棒狀，具四孢子，25–28 × 11–13 µm，周圍環繞短側絲；側囊狀體與相似的緣囊狀體呈瓶狀至橢圓形或近囊狀，60–80 × 32–40 µm，平滑，於KOH中無色透明，壁厚1–2 µm。",
+        "stipe": "高2–13 cm，粗0.2–0.7 cm，圓柱形，上下等粗或基部略呈棍棒狀膨大，質地脆弱，中空且內部無菌絲索。表面白色，幼時具細微白粉並略帶條紋，很快變為平滑無毛，基部染帶褐色並具白色菌絲束。無內菌幕，但幼小子實體的菌柄基部常可見由外菌幕殘餘形成的白色薄領狀菌托。",
+        "flesh": "極薄（菌蓋中央厚約1 mm），帶白色至淺赭色，質地脆弱，切開後不變色，成熟時自溶。味道無明顯特徵，新鮮時氣味不明顯，隨菌褶液化有時會略帶難聞氣味。",
+        "sporePrint": "黑色。孢子10–16.5 × 6.5–10 µm（常見11–15.5 × 6.5–8.5 µm，Q = 1.4–1.8），正面觀呈橢圓形至杏仁形或卵形，側面觀略扁，平滑，於KOH中呈極深紅褐色，具不明顯的臍突及寬1–2 µm的明顯偏生發芽孔。",
+        "habitat": "腐生於木屑、鋸屑、埋藏木質殘體、腐爛稻草、混有馬糞的稻草、堆肥、富含養分的草坪與市售盆栽覆蓋物上，單生、散生或小群聚生，而非密集叢生。自春季至秋季出菇——在中歐通常為6月至10月——在溫和氣候下或潮濕期過後的室內可全年出現。",
+        "uses": "不可食；菌肉極薄且迅速自溶，無食用價值。",
+        "confusion": "Coprinellus micaceus多在腐朽闊葉樹樹樁或瀕死樹木周圍密集叢生，而非散生於覆蓋物或稻草上，其菌幕由閃亮的細小雲母狀顆粒組成而非氈狀斑塊，基部缺乏領狀菌托，且孢子較小。Coprinellus domesticus偏好闊葉樹倒木與樹樁，菌蓋中央較偏黃褐色且具顆粒狀菌幕，在顯微鏡下可藉厚壁菌幕細胞及較小、具頂生而非偏生發芽孔的孢子加以區分。Domestici節的其他物種亦以較小的孢子相異，而Coprinopsis lagopus則具有更細緻、更多毛、更白的纖維狀菌幕及不同的孢子形態。",
+        "notes": "雖廣泛分布於歐洲，但在部分分布區並不常見，名列波蘭植物與真菌紅色名錄的稀有（R）等級，而在芬蘭則相當常見。具明顯偏生發芽孔的大型孢子，以及薄壁、平滑的菌幕細胞（40–125 × 10–150 µm），是將其與近緣鬼傘類區分的關鍵顯微特徵。"
+      }
+    },
+    "synonyms": [
+      {
+        "name": "Agaricus flocculosus",
+        "author": "DC.",
+        "rank": "species"
+      },
+      {
+        "name": "Coprinus flocculosus",
+        "author": "(DC.) Fr.",
+        "rank": "species"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Paralepista flaccida",
+    "author": "(Sowerby) Vizzini",
+    "citation": "in Vizzini & Ercole, Mycotaxon 120: 262 (2012)",
+    "family": "Paralepistaceae",
+    "genus": "Paralepista",
+    "order": "Agaricales",
+    "path": [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Paralepistaceae",
+      "Paralepista"
+    ],
+    "summary": [
+      "Agaricales",
+      "Paralepistaceae",
+      "Paralepista"
+    ],
+    "edibility": "edible_with_caution",
+    "hymenium": "gills",
+    "where": [
+      "ground",
+      "wood"
+    ],
+    "color": [
+      "brown",
+      "yellow",
+      "red"
+    ],
+    "capFrom": 2.0,
+    "capTo": 10.0,
+    "stipeHeightFrom": 2.0,
+    "stipeHeightTo": 7.0,
+    "stipeThickFrom": 0.4,
+    "stipeThickTo": 1.5,
+    "fruitingFrom": 6,
+    "fruitingTo": 11,
+    "added": "2026-11-23",
+    "label": {
+      "en": "tawny funnel cap",
+      "sk": "pôvabnica prehnutá",
+      "cs": "strmělka přehrnutá",
+      "da": "brunstænket hekseringshat",
+      "de": "Fuchsiger Rötelritterling",
+      "et": "pöörd-ebaheinik",
+      "fi": "ruskomalikka",
+      "fr": "clitocybe inversé",
+      "he": "משפכנית טבורית",
+      "hu": "rozsdasárga tölcsérgomba",
+      "lt": "rausvarudė stirnabudė",
+      "lv": "līganā aplocene",
+      "nl": "roodbruine schijnridderzwam",
+      "no": "gulbrun ridderhatt",
+      "pl": "gąsówka rudawa",
+      "ru": "говорушка перевёрнутая",
+      "sl": "ohlapni kolesnik",
+      "sv": "rödbrun trattskivling",
+      "tr": "almabeni mantarı",
+      "uk": "паралепіста обернена",
+      "zh": "倒垂香蘑"
+    },
+    "names": {
+      "en": [
+        "tawny funnel"
+      ],
+      "ar": [],
+      "bg": [],
+      "cs": [
+        "strmělka plavá",
+        "čirůvka chabá"
+      ],
+      "da": [
+        "brunstænket heksetragthat"
+      ],
+      "de": [
+        "Fuchsiger Röteltrichterling",
+        "Fuchsroter Trichterling"
+      ],
+      "es": [],
+      "et": [
+        "pöördlehtrik"
+      ],
+      "fa": [],
+      "fi": [
+        "pisamamalikka"
+      ],
+      "fr": [],
+      "he": [],
+      "hi": [],
+      "hr": [],
+      "hu": [
+        "fakósárga tölcsérgomba"
+      ],
+      "id": [],
+      "it": [],
+      "ja": [],
+      "ko": [],
+      "lt": [],
+      "lv": [],
+      "nl": [],
+      "no": [
+        "okerridderhatt"
+      ],
+      "pl": [],
+      "pt": [],
+      "ro": [],
+      "ru": [],
+      "sk": [],
+      "sl": [
+        "podvihana kolesnica"
+      ],
+      "sr": [],
+      "sv": [
+        "dropptrattskivling"
+      ],
+      "tr": [],
+      "uk": [],
+      "zh": [
+        "萎垂白近香蘑"
+      ]
+    },
+    "sources": {
+      "en": [
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=564347",
+          "detail": "564347"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=564347",
+          "detail": "564347"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        },
+        {
+          "group": "name",
+          "name": "Catalogue of Life",
+          "href": "https://www.catalogueoflife.org/data/taxon/4CYHL"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q108129855"
+        },
+        {
+          "group": "text",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/lepista-flaccida.php"
+        },
+        {
+          "group": "text",
+          "name": "MushroomExpert",
+          "href": "https://www.mushroomexpert.com/clitocybe_flaccida.html"
+        },
+        {
+          "group": "text",
+          "name": "MykoWeb",
+          "href": "https://www.mykoweb.com/CAF/species/Paralepista_flaccida.html"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/841424"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Paralepista_flaccida"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Fuchsiger_R%C3%B6telritterling",
+          "detail": "de"
+        },
+        {
+          "group": "text",
+          "name": "BOTANY.cz",
+          "href": "https://botany.cz/cs/lepista-flaccida/"
+        }
+      ],
+      "cs": [
+        {
+          "group": "text",
+          "name": "BOTANY.cz",
+          "href": "https://botany.cz/cs/lepista-flaccida/"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "da": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "de": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Fuchsiger_R%C3%B6telritterling",
+          "detail": "de"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "et": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "fi": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "fr": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/841424"
+        }
+      ],
+      "he": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "hu": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "it": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Paralepista_flaccida",
+          "detail": "it"
+        }
+      ],
+      "lt": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Rausvarud%C4%97_stirnabud%C4%97",
+          "detail": "lt"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "lv": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "nl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Roodbruine_schijnridderzwam",
+          "detail": "nl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "no": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "pl": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "ru": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "sk": [
+        {
+          "group": "text",
+          "name": "BOTANY.cz",
+          "href": "https://botany.cz/cs/lepista-flaccida/"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "sl": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sl.wikipedia.org/wiki/Ohlapni_kolesnik",
+          "detail": "sl"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "sv": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/R%C3%B6dbrun_trattskivling",
+          "detail": "sv"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "tr": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "uk": [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://uk.wikipedia.org/wiki/Paralepista_flaccida",
+          "detail": "uk"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        }
+      ],
+      "zh": [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7978027",
+          "detail": "7978027"
+        },
+        {
+          "group": "text",
+          "name": "iNaturalist",
+          "href": "https://www.inaturalist.org/taxa/841424"
+        }
+      ]
+    },
+    "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida@1600.webp",
+    "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida@400.webp",
+    "plateCredit": {
+      "author": "Adrian Benko (Gemini)",
+      "credit": "Mycological plate generated with Gemini in Bresadola style (848x1264 JPEG, LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows mature and young tawny funnel-shaped fruiting bodies on conifer needles and oak leaves with white basal mycelium, a tilted underside gill view, and a longitudinal cross-section.",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida@1600.webp",
+      "basedOn": []
+    },
+    "photos": [
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida_1.webp",
+        "author": "Jan Sheppard",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/102770212"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida_2.webp",
+        "author": "Kim Hansen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://www.inaturalist.org/observations/34071690"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida_3.webp",
+        "author": "ÖkopatóPál",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "https://www.inaturalist.org/observations/193944365"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida_4.webp",
+        "author": "Stuart Fraser",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/248100827"
+      },
+      {
+        "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Paralepistaceae/Paralepista_flaccida/Paralepista_flaccida_5.webp",
+        "author": "Letizia Weichgrebe",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "https://www.inaturalist.org/observations/34633509"
+      }
+    ],
+    "text": {
+      "en": {
+        "description": "A medium-sized, saprotrophic agaric fruiting gregariously, often in arcs or fairy rings, on woodland leaf litter, conifer needles, humus-rich soil, and occasionally damp wood chips. Widespread across the temperate Northern Hemisphere, it occurs throughout Europe, western Asia, and North America from the Pacific Northwest to the Great Lakes and Appalachians.",
+        "cap": "2–10 cm across, convex with an inrolled margin when young, soon flattening and becoming deeply depressed or funnel-shaped without a central umbo, with a sharp, wavy, often somewhat lobed or spout-like margin; late-season fruit bodies occasionally remain convex. The surface is smooth, matte to slightly glossy or sticky when moist, soon dry, and hygrophanous, coloured tawny-orange, reddish-ochre, cinnamon-brown, or pinkish-buff, typically darker in the centre and fading to pale buff as it dries. Potassium hydroxide (KOH) turns the cap surface yellow.",
+        "hymenium": "Deeply decurrent, thin, crowded gills with frequent short lamellulae, relatively easy to separate from the cap flesh. Pale cream, whitish, or pale apricot-buff when young, maturing to pale tawny, ochre, or orangish-brown while remaining paler than the cap. Basidia are clavate, four-spored, and 22–28 × 4–6 µm; cystidia are absent, and clamp connections are present.",
+        "stipe": "2–7 cm tall (occasionally up to 10 cm) and 0.4–1.5 cm thick, cylindrical, equal or slightly enlarged toward the base, tough and stuffed when young, becoming pithy to narrowly hollow with age. Dry and smooth to faintly fibrillose, coloured like the cap but paler, without a ring, and clad at the base with copious white to pale buff cottony mycelium that binds surrounding needles and leaf litter.",
+        "flesh": "Thin, fairly firm when young and softening with age, whitish to cream or pale buff-tawny, and unchanging when cut. The odour is pleasantly sweet, faintly fragrant, or mildly woody-fungal, and the taste is mild to slightly sour or faintly bitter.",
+        "sporePrint": "White to pale cream-yellow, occasionally with a very faint pinkish tint. Spores are 3–5 × 3–4.5 µm (including ornamentation), subglobose to broadly ellipsoid, minutely warty to spinose with spines 0.5–1 µm long, hyaline to yellowish in KOH, inamyloid, and cyanophilic.",
+        "habitat": "Saprotrophic on decaying conifer needles, broad-leaved forest litter, humus-rich soil, compost, and occasionally damp sawdust or wood-chip mulch in coniferous, deciduous, and mixed woodlands, fruiting in large troops, arcs, or fairy rings that can reach nearly 20 m across. In temperate Europe it fruits mainly from June to November, occasionally persisting into January in mild seasons; in North America it fruits in summer and autumn, or through winter in milder coastal climates such as California.",
+        "uses": "Edible with caution. Although traditionally eaten in parts of Europe, its culinary quality is modest, large quantities can cause digestive upset, and consumption is strongly discouraged in regions where the dangerously toxic lookalike Paralepistopsis amoenolens occurs.",
+        "confusion": "Paralepistopsis amoenolens, which causes severe acromelalgia (erythromelalgia) poisoning, has a paler beige, less deeply depressed cap, a strong sweet odour, and smooth ellipsoid spores rather than spinose subglobose ones. Infundibulicybe gibba is much paler buff, usually retains a small central umbo, has less crowded white gills, and produces larger smooth teardrop-shaped spores. Paralepista gilva is paler ochre-yellow, more robust, and typically marked with concentric darker watery spots on the cap. Cantharellus cibarius is fleshier, brighter yellow, and bears thick, blunt, forked ridges rather than thin crowded true gills.",
+        "notes": "Two ecological forms were long treated as separate species: a paler, matte, more flaccid form in broad-leaved woods and a deeper reddish-tawny, shinier, firmer form under conifers, but both share identical microscopic features and are now united as one variable species. Because Paralepistopsis amoenolens has expanded northward into central Europe, this species was removed from the official list of market edible mushrooms in Switzerland."
+      },
+      "sk": {
+        "description": "Stredne veľká saprotrofná lupeňovitá huba, ktorá plodí v skupinách, často v oblúkoch alebo čarodejných kruhoch, na lesnom lístí, ihličí, pôde bohatej na humus a občas aj na vlhkej drevnej štiepke. Je široko rozšírená v miernom pásme severnej pologule, vyskytuje sa v celej Európe, západnej Ázii a v Severnej Amerike od severozápadného pobrežia Tichého oceánu po oblasť Veľkých jazier a Apalačské vrchy.",
+        "cap": "Klobúk má v priemere 2–10 cm, za mladi je klenutý s podvinutým okrajom, čoskoro sa rozprestiera a hlboko prehlbuje až do lievikovitého tvaru bez stredového hrboľa, s ostrým, zvlneným, často mierne laločnatým alebo výlevkovito prehnutým okrajom; neskoré jesenné plodnice niekedy zostávajú klenuté. Povrch je hladký, matný až za vlhka slabo lesklý alebo lepkavý, čoskoro suchý a hygrofánny, sfarbený ryšavooranžovo, červenookrovo, škoricovohnedo alebo ružovkasto okrovo, v strede zvyčajne tmavší a pri vysychaní blednúci do bledo okrovej. Hydroxid draselný (KOH) sfarbuje povrch klobúka nažlto.",
+        "hymenium": "Lupene sú hlboko zbiehavé na hlúbik, tenké a husté, s početnými kratšími lupienkami, a dajú sa pomerne ľahko oddeliť od dužiny klobúka. Za mladi sú bledokrémové, belavé alebo bledo marhuľovo okrové, v dospelosti prechádzajú do bledo žltohnedej, okrovej až oranžovohnedej, pričom zostávajú svetlejšie než klobúk. Bazídiá sú kyjovité, štvorvýtrusné, veľké 22–28 × 4–6 µm; cystidy chýbajú a pracky sú prítomné.",
+        "stipe": "Hlúbik je 2–7 cm vysoký (občas až 10 cm) a 0,4–1,5 cm hrubý, valcovitý, rovnako široký alebo smerom k báze mierne zhrubnutý, za mladi tuhý a plný, vekom vatovito vypchatý až úzko dutý. Je suchý, hladký až slabo vláknitý, sfarbený ako klobúk, ale svetlejší, bez prsteňa a na báze husto obalený bielym až bledo okrovým vatovitým mycéliom, ktoré spája okolité ihličie a opadané lístie.",
+        "flesh": "Dužina je tenká, za mladi pomerne pevná a vekom mäknúca, belavá až krémová alebo bledo okrovoplavá, na reze nemenná. Vôňa je príjemne sladkastá, slabo aromatická alebo mierne drevito hubová a chuť je mierna až slabo kyslastá či nepatrne horkastá.",
+        "sporePrint": "Výtrusný prach je biely až bledo krémovožltý, občas s veľmi jemným ružovkastým nádychom. Výtrusy merajú 3–5 × 3–4,5 µm (vrátane ornamentiky), sú takmer guľovité až široko elipsoidné, jemne bradavkaté až ostnaté s ostňami dlhými 0,5–1 µm, v KOH hyalínne až žltkasté, neamyloidné a cyanofilné.",
+        "habitat": "Je to saprotrofná huba rastúca na rozkladajúcom sa ihličí, opade listnatých lesov, pôde bohatej na humus, komposte a občas aj na vlhkých pilinách alebo nastielacej štiepke v ihličnatých, listnatých a zmiešaných lesoch, kde tvorí početné skupiny, oblúky alebo čarodejné kruhy s priemerom až takmer 20 m. V miernom pásme Európy plodí najmä od júna do novembra, v miernych sezónach občas pretrváva až do januára; v Severnej Amerike plodí v lete a na jeseň, prípadne počas zimy v miernejších pobrežných oblastiach, napríklad v Kalifornii.",
+        "uses": "Jedlá s výhradou. Hoci sa v niektorých častiach Európy tradične zbiera na konzumáciu, jej kulinárska kvalita je skromná, väčšie množstvá môžu vyvolať tráviace ťažkosti a jej konzumácia sa dôrazne neodporúča v oblastiach, kde sa vyskytuje nebezpečne jedovatý podobný druh Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, ktorá spôsobuje ťažkú otravu s akromelalgiou (erytromelalgiou), má bledší béžový, menej hlboko prehĺbený klobúk, silnú sladkastú vôňu a hladké elipsoidné výtrusy namiesto ostnatých takmer guľovitých. Infundibulicybe gibba je oveľa bledšie okrová, zvyčajne si zachováva malý stredový hrboľ, má redšie biele lupene a tvorí väčšie hladké slzovité výtrusy. Paralepista gilva je bledšie okrovožltá, mohutnejšia a na klobúku má typické sústredné tmavšie vodnaté škvrny. Kuriatko jedlé (Cantharellus cibarius) je mäsitejšie, žiarivejšie žlté a namiesto tenkých hustých pravých lupeňov má hrubé, tupé, vidlicovito rozkonárené lišty.",
+        "notes": "Dve ekologické formy sa dlho považovali za samostatné druhy: bledšia, matná a ochabnutejšia forma z listnatých lesov a sýtejšie červenkasto žltohnedá, lesklejšia a pevnejšia forma spod ihličnanov, no obe majú zhodné mikroskopické znaky a dnes sa spájajú do jedného premenlivého druhu. Keďže sa Paralepistopsis amoenolens rozšírila smerom na sever do strednej Európy, tento druh bol vo Švajčiarsku vyradený z oficiálneho zoznamu trhových jedlých húb."
+      },
+      "ar": {
+        "description": "فطر صفائحي رمّي متوسط الحجم، يثمر في مجموعات متقاربة، وغالبًا في أقواس أو دوائر الجنيات، على فرشة أوراق الغابات وإبر الصنوبريات والتربة الغنية بالدبال، وأحيانًا على رقائق الخشب الرطبة. ينتشر على نطاق واسع في المناطق المعتدلة من نصف الكرة الشمالي، ويظهر في جميع أنحاء أوروبا وغرب آسيا وأمريكا الشمالية من إقليم الشمال الغربي المطل على المحيط الهادئ إلى البحيرات العظمى وجبال الأبلاش.",
+        "cap": "يبلغ قطر القبعة ٢–١٠ سم، وتكون محدبة ذات حافة ملتفة إلى الداخل في الصغر، ثم تنبسط سريعًا وتصبح غائرة بعمق أو قمعية الشكل دون سرة مركزية، مع حافة حادة ومتموجة وغالبًا مفصصة قليلًا أو شبيهة بالصنبور؛ وتبقى الأجسام الثمرية المتأخرة في الموسم محدبة أحيانًا. السطح أملس، مطفأ إلى قليل اللمعان أو لزج قليلًا عند الرطوبة، ثم يجف سريعًا، وهو متغير اللون بالرطوبة (هيغروفاني)، بلون برتقالي كستنائي فاتح أو مغري محمر أو بني قرفي أو بيج وردي، ويكون أدكن عادة في المركز ثم يبهت إلى بيج باهت عند الجفاف. يحوّل هيدروكسيد البوتاسيوم (KOH) سطح القبعة إلى الأصفر.",
+        "hymenium": "صفائح ممتدة بعمق على الساق، رقيقة ومزدحمة تتخللها صفيحات قصيرة متكررة، ويسهل نسبيًا فصلها عن لحم القبعة. تكون كريمية باهتة أو مائلة إلى البياض أو بلون مشمشي بيج باهت في الصغر، وتتحول عند النضج إلى كستنائي باهت أو مغري أو بني برتقالي مع بقائها أفتح من القبعة. البازيديات هراوية الشكل، رباعية الأبواغ، بأبعاد ٢٢–٢٨ × ٤–٦ ميكرومتر؛ وتغيب الخلايا الحوصلية، بينما توجد الوصلات المشبكية.",
+        "stipe": "يبلغ ارتفاع الساق ٢–٧ سم (وأحيانًا حتى ١٠ سم) وسمكها ٠٫٤–١٫٥ سم، أسطوانية، متساوية السمك أو متسعة قليلًا نحو القاعدة، متينة وممتلئة في الصغر، ثم تصبح لبّية إلى جوفاء بضيق مع التقدم في العمر. السطح جاف وأملس إلى ليفي بخفة، بلون يشبه القبعة لكنه أفتح، من دون حلقة، وتُكسى القاعدة بغزارة بخيوط فطرية قطنية بيضاء إلى بيج باهتة تربط الإبر وفرشة الأوراق المحيطة.",
+        "flesh": "اللحم رقيق، متماسك نسبيًا في الصغر ويلين مع العمر، مائل إلى البياض أو كريمي أو بيج كستنائي باهت، ولا يتغير لونه عند القطع. الرائحة حلوة لطيفة أو عطرية خفيفة أو فطرية خشبية معتدلة، والطعم معتدل إلى حامض قليلًا أو مر بخفة.",
+        "sporePrint": "أبيض إلى أصفر كريمي باهت، وأحيانًا بمسحة وردية خفيفة جدًا. الأبواغ بأبعاد ٣–٥ × ٣–٤٫٥ ميكرومتر (شاملة الزخرفة)، شبه كروية إلى إهليلجية عريضة، دقيقة الثآليل إلى شوكية بأشواك بطول ٠٫٥–١ ميكرومتر، شفافة إلى مصفرة في KOH، غير أميلويدية، ومُحبة للزرقة (cyanophilic).",
+        "habitat": "رمّي على إبر الصنوبريات المتحللة وفرشة غابات الأشجار عريضة الأوراق والتربة الغنية بالدبال والسماد العضوي، وأحيانًا على نشارة الخشب الرطبة أو مهاد رقائق الخشب في الغابات الصنوبرية والنفضية والمختلطة، ويثمر في أسراب كبيرة أو أقواس أو دوائر جنيات قد يصل قطرها إلى قرابة ٢٠ م. في أوروبا المعتدلة يثمر أساسًا من يونيو إلى نوفمبر، وقد يستمر أحيانًا حتى يناير في المواسم المعتدلة؛ وفي أمريكا الشمالية يثمر صيفًا وخريفًا، أو طوال الشتاء في المناخات الساحلية الأكثر اعتدالًا مثل كاليفورنيا.",
+        "uses": "صالح للأكل بحذر. فرغم تناوله تقليديًا في أجزاء من أوروبا، فإن جودته الغذائية متواضعة، وقد تسبب الكميات الكبيرة منه اضطرابًا هضميًا، كما يُنصح بشدة بتجنب تناوله في المناطق التي ينتشر فيها الشبيه السام الخطير Paralepistopsis amoenolens.",
+        "confusion": "يمتلك Paralepistopsis amoenolens، الذي يسبب تسمم احمرار الأطراف المؤلم (acromelalgia / erythromelalgia) الشديد، قبعة بيج أفتح لونًا وأقل غورًا في المركز، ورائحة حلوة قوية، وأبواغًا إهليلجية ملساء بدلًا من الأبواغ الشوكية شبه الكروية. أما Infundibulicybe gibba فلونه بيج أفتح بكثير، ويحتفظ عادة بسرة مركزية صغيرة، وصفائحه البيضاء أقل ازدحامًا، وينتج أبواغًا أكبر حجمًا ملساء على شكل دمعة. ويكون Paralepista gilva بلون أصفر مغري أفتح وأكثر متانة، ويتميز عادة ببقع مائية داكنة متحدة المركز على القبعة. بينما يتميز Cantharellus cibarius بلحمه الأكثر سماكة ولونه الأصفر الأزهى، وبحمله حوافًا سميكة كليلة متفرعة بدلًا من الصفائح الحقيقية الرقيقة المزدحمة.",
+        "notes": "عومل شكلان بيئيان طويلًا بوصفهما نوعين منفصلين: شكل أفتح ومطفأ وأكثر ترهلًا في الغابات عريضة الأوراق، وشكل أدكن بلون كستنائي محمر وأكثر لمعانًا وتماسكًا تحت الصنوبريات، إلا أن كليهما يشترك في الصفات المجهرية نفسها ويُجمعان الآن في نوع واحد متغير. وبسبب توسع نطاق انتشار Paralepistopsis amoenolens شمالًا نحو وسط أوروبا، أُزيل هذا النوع من القائمة الرسمية للفطور الصالحة للأكل والمصرّح ببيعها في الأسواق في سويسرا."
+      },
+      "bg": {
+        "description": "Средноголяма сапротрофна пластинчата гъба, която плододава на групи, често в дъги или самодивски кръгове, върху горска листна постилка, иглолистна постилка, богата на хумус почва и понякога върху влажен дървесен чипс. Широко разпространена е в умерената зона на Северното полукълбо: среща се в цяла Европа, Западна Азия и Северна Америка от Тихоокеанския северозапад до Големите езера и Апалачите.",
+        "cap": "Гуглата е широка 2–10 cm, в младост изпъкнала с подвит ръб, скоро се разперва и става дълбоко вдлъбната или фуниевидна без централна гърбица, с остър, вълнообразен, често донякъде нарязан на дялове или улеообразен ръб; късноесенните плодни тела понякога остават изпъкнали. Повърхността е гладка, от матова до слабо лъскава или лепкава при влага, бързо изсъхваща и хигрофанна, оцветена в жълтеникаво-оранжево, червеникаво-охра, канеленокафяво или розовеещо кремаво, обикновено по-тъмна в средата и избледняваща до бледокремаво при изсъхване. Калиевата основа (KOH) оцветява повърхността на гуглата в жълто.",
+        "hymenium": "Ламелите са дълбоко низходящи, тънки, гъсти, с чести къси междинни ламели, и сравнително лесно се отделят от месото на гуглата. В младост са бледокремави, белезникави или бледокайсиево-кремави, а при узряване стават бледоръждиви, охрени или оранжевокафяви, като остават по-светли от гуглата. Базидиите са бухалковидни, четириспорни, с размери 22–28 × 4–6 µm; цистиди липсват, а катарами присъстват.",
+        "stipe": "Пънчето е високо 2–7 cm (понякога до 10 cm) и дебело 0,4–1,5 cm, цилиндрично, равно или леко разширено към основата, жилаво и плътно в младост, с възрастта става рехаво до тясно кухо. Сухо е, гладко до фино влакнесто, оцветено като гуглата, но по-бледо, без пръстен, и покрито в основата с обилна бяла до бледокремава памуковидна гъбна маса, която слепва околните иглички и листна постилка.",
+        "flesh": "Месото е тънко, доста плътно в младост и омекващо с възрастта, белезникаво до кремаво или бледокремаво-ръждиво, и не променя цвета си при разрязване. Миризмата е приятно сладникава, леко ароматна или меко дървесно-гъбна, а вкусът е мек до леко киселеещ или слабо горчив.",
+        "sporePrint": "Споровият прашец е от бял до бледо кремавожълт, понякога с много слаб розов оттенък. Спорите са с размери 3–5 × 3–4,5 µm (включително орнаментацията), почти кълбовидни до широко елипсовидни, ситно брадавичести до бодливи с шипчета дълги 0,5–1 µm, безцветни до жълтеникави в KOH, неамилоидни и цианофилни.",
+        "habitat": "Местообитанието е сапротрофно върху разлагащи се иглолистни иглички, широколистна горска постилка, богата на хумус почва, компост и понякога влажни стърготини или мулч от дървесен чипс в иглолистни, широколистни и смесени гори, като плододава на големи групи, дъги или самодивски кръгове, достигащи близо 20 m в диаметър. В умерена Европа плододава главно от юни до ноември, понякога задържайки се до януари при меки сезони; в Северна Америка плододава през лятото и есента, или през зимата в по-мек крайбрежен климат като Калифорния.",
+        "uses": "Условно ядлива. Макар че традиционно се яде в части от Европа, кулинарните ѝ качества са скромни, големи количества могат да предизвикат храносмилателно разстройство, а консумацията ѝ категорично не се препоръчва в районите, където се среща опасно отровният двойник Paralepistopsis amoenolens.",
+        "confusion": "Подобният вид Paralepistopsis amoenolens, който причинява тежко отравяне с акромелалгия (еритромелалгия), има по-бледа бежова, по-плитко вдлъбната гугла, силна сладка миризма и гладки елипсовидни спори вместо бодливи почти кълбовидни. Infundibulicybe gibba е много по-бледокремава, обикновено запазва малка централна гърбица, има по-редки бели ламели и образува по-едри гладки капковидни спори. Paralepista gilva е по-бледо охреножълта, по-едра и обичайно белязана с концентрични по-тъмни воднисти петна по гуглата. Cantharellus cibarius е по-месеста, по-яркожълта и носи дебели, тъпи, разклонени жилки вместо тънки гъсти истински ламели.",
+        "notes": "Две екологични форми дълго са били разглеждани като отделни видове: по-бледа, матова и по-мека форма в широколистните гори и по-наситено червеникаво-ръждива, по-лъскава и по-твърда форма под иглолистни дървета, но и двете споделят еднакви микроскопски белези и днес са обединени в един променлив вид. Поради разширяването на ареала на Paralepistopsis amoenolens на север в Централна Европа, този вид е премахнат от официалния списък на пазарните ядливи гъби в Швейцария."
+      },
+      "cs": {
+        "description": "Středně velká saprotrofní lupenatá houba plodící pospolitě, často v obloucích nebo čarodějných kruzích, na lesním opadu listnáčů, jehličí, půdě bohaté na humus a občas i na vlhké dřevní štěpce. Široce je rozšířena v mírném pásu severní polokoule, vyskytuje se po celé Evropě, v západní Asii a v Severní Americe od severozápadního pobřeží Tichého oceánu po oblast Velkých jezer a Apalačské pohoří.",
+        "cap": "Klobouk má v průměru 2–10 cm, v mládí je vyklenutý s podvinutým okrajem, brzy se rozprostírá a hluboce prohlubuje až do nálevkovitého tvaru bez středového hrbolku, s ostrým, zvlněným, často poněkud laločnatým nebo výlevkovitě prohnutým okrajem; pozdní plodnice někdy zůstávají vyklenuté. Povrch je hladký, matný až za vlhka slabě lesklý či lepkavý, brzy suchý a hygrofánní, zbarvený rezavě oranžově, červenookrově, skořicově hnědě nebo růžově plavě, ve středu obvykle tmavší a při vysychání blednoucí do světle okrově plavé. Hydroxid draselný (KOH) zbarvuje povrch klobouku žlutě.",
+        "hymenium": "Lupeny jsou hluboce sbíhavé na třeň, tenké a husté, s hojnými kratšími lupénky, a poměrně snadno se oddělují od dužniny klobouku. V mládí jsou světle krémové, bělavé nebo světle meruňkově plavé, v dospělosti přecházejí do světle rezavohnědé, okrové až oranžovohnědé, přičemž zůstávají světlejší než klobouk. Bazidie jsou kyjovité, čtyřvýtrusné, velké 22–28 × 4–6 µm; cystidy chybějí a přezky jsou přítomny.",
+        "stipe": "Třeň je 2–7 cm vysoký (ojediněle až 10 cm) a 0,4–1,5 cm tlustý, válcovitý, stejně silný nebo k bázi mírně rozšířený, v mládí tuhý a plný, stářím vatovitě vycpaný až úzce dutý. Je suchý a hladký až jemně vláknitý, zbarvený jako klobouk, ale světlejší, bez prstenu a na bázi obalený hojným bílým až světle plavým vatovitým myceliem, které spojuje okolní jehličí a spadané listí.",
+        "flesh": "Dužnina je tenká, v mládí poměrně pevná a stářím měknoucí, bělavá až krémová nebo světle okrově rezavá, na řezu neměnná. Vůně je příjemně nasládlá, slabě aromatická nebo mírně dřevitě houbová a chuť je mírná až slabě nakyslá či lehce nahořklá.",
+        "sporePrint": "Výtrusný prach je bílý až světle krémově žlutý, občas s velmi slabým narůžovělým nádechem. Výtrusy měří 3–5 × 3–4,5 µm (včetně ornamentiky), jsou téměř kulovité až široce elipsoidní, drobně bradavčité až ostnité s ostny dlouhými 0,5–1 µm, v KOH hyalinní až nažloutlé, neamyloidní a cyanofilní.",
+        "habitat": "Saprotrofní houba rostoucí na rozkládajícím se jehličí, opadu listnatých lesů, půdě bohaté na humus, kompostu a občas i na vlhkých pilinách nebo štěpkovém mulči v jehličnatých, listnatých i smíšených lesích, kde plodí ve velkých skupinách, obloucích nebo čarodějných kruzích dosahujících v průměru téměř 20 m. V mírném pásu Evropy plodí hlavně od června do listopadu, v mírných zimách občas vytrvává až do ledna; v Severní Americe plodí v létě a na podzim, případně přes zimu v mírnějších pobřežních oblastech, jako je Kalifornie.",
+        "uses": "Jedlá s výhradou. Ačkoli se v některých částech Evropy tradičně sbírá k jídlu, její kulinářská hodnota je skromná, větší množství může vyvolat zažívací potíže a konzumace se důrazně nedoporučuje v oblastech, kde se vyskytuje nebezpečně jedovatý podobný druh Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, která způsobuje těžkou otravu s akromelalgií (erytromelalgií), má bledší béžový, méně hluboce prohloubený klobouk, silnou sladkou vůni a hladké elipsoidní výtrusy místo ostnitých téměř kulovitých. Strmělka nálevkovitá (Infundibulicybe gibba) je mnohem světleji plavá, obvykle si zachovává malý středový hrbolek, má řidší bílé lupeny a vytváří větší hladké slzovité výtrusy. Paralepista gilva je světleji okrově žlutá, statnější a na klobouku mívá typicky soustředné tmavší vodnaté skvrny. Liška obecná (Cantharellus cibarius) je masitější, jasněji žlutá a místo tenkých hustých pravých lupenů má tlusté, tupé, vidličnatě větvené lišty.",
+        "notes": "Dvě ekologické formy byly dlouho považovány za samostatné druhy: bledší, matnější a ochablejší forma v listnatých lesích a sytěji červenorezavá, lesklejší a pevnější forma pod jehličnany, obě však mají shodné mikroskopické znaky a dnes jsou spojovány do jednoho proměnlivého druhu. Protože se druh Paralepistopsis amoenolens rozšířil dále na sever do střední Evropy, byla tato houba ve Švýcarsku vyřazena z oficiálního seznamu tržních jedlých hub."
+      },
+      "da": {
+        "description": "En mellemstor, saprotrof bladhat, der danner frugtlegemer selskabeligt, ofte i buer eller hekseringe, på skovens løvfald, nålefald, humusrig jord og lejlighedsvis på fugtig træflis. Den er vidt udbredt på den tempererede nordlige halvkugle og forekommer i hele Europa, Vestasien samt i Nordamerika fra det nordvestlige Stillehavsområde til De Store Søer og Appalacherne.",
+        "cap": "Hatten er 2–10 cm bred, som ung hvælvet med indrullet rand, snart affladet og dybt nedtrykt eller tragtformet uden central pukkel, med skarp, bølget, ofte noget lappet eller tudformet rand; frugtlegemer sent på sæsonen forbliver af og til hvælvede. Overfladen er glat, mat til let skinnende eller klæbrig i fugtigt vejr, snart tør og hygrofan, farvet ræverød-orange, rødlig okker, kanelbrun eller rosa-lædergul, typisk mørkere i midten og falmende til bleg lædergul ved udtørring. Kaliumhydroxid (KOH) farver hatoverfladen gul.",
+        "hymenium": "Lamellerne er dybt nedløbende, tynde og tætstillede med hyppige korte mellemlameller og er forholdsvis lette at løsne fra hatkødet. De er blegt cremefarvede, hvidlige eller blegt abrikos-lædergule som unge, og modner til blegt ræverøde, okker eller orangebrune, men forbliver lysere end hatten. Basidierne er kølleformede, firesporede og 22–28 × 4–6 µm; cystider mangler, og der findes spænder.",
+        "stipe": "Stokken er 2–7 cm høj (lejlighedsvis op til 10 cm) og 0,4–1,5 cm tyk, cylindrisk, jævntykk eller let udvidet mod basis, sej og udstoppet som ung, med alderen marvet til snævert hul. Den er tør og glat til svagt trådet, farvet som hatten men blegere, uden ring og ved basis beklædt med rigeligt hvidt til blegt lædergult, vatagtigt mycelieflet, der binder omgivende nåle og løvfald.",
+        "flesh": "Kødet er tyndt, ret fast som ungt og blødere med alderen, hvidligt til cremefarvet eller blegt lædergult-ræverødt og uforanderligt ved gennemskæring. Lugten er behageligt sødlig, svagt duftende eller mildt træagtig-svampeagtig, og smagen er mild til let syrlig eller svagt bitter.",
+        "sporePrint": "Sporeaftrykket er hvidt til blegt cremegult, lejlighedsvis med et meget svagt rosa skær. Sporerne måler 3–5 × 3–4,5 µm (inklusive ornamentik), er næsten kuglerunde til bredt ellipsoide, fint vortede til piggede med 0,5–1 µm lange pigge, hyaline til gullige i KOH, inamyloide og cyanofile.",
+        "habitat": "Saprotrof på rådnende nålefald, løvskovsstrøelse, humusrig jord, kompost og lejlighedsvis fugtig savsmuld eller flisdække i nåle-, løv- og blandingsskove, hvor den danner frugtlegemer i store flokke, buer eller hekseringe, der kan nå næsten 20 m i diameter. I tempereret Europa danner den frugtlegemer hovedsageligt fra juni til november og kan i milde sæsoner lejlighedsvis holde sig ind i januar; i Nordamerika sætter den frugtlegemer om sommeren og efteråret, eller gennem vinteren i mildere kystklimaer som Californien.",
+        "uses": "Betinget spiselig. Selvom den traditionelt spises i dele af Europa, er dens kulinariske værdi beskeden, store mængder kan give mave-tarm-gener, og indtagelse frarådes kraftigt i egne, hvor den farligt giftige dobbeltgænger Paralepistopsis amoenolens forekommer.",
+        "confusion": "Paralepistopsis amoenolens, der forårsager alvorlig akromelalgi-forgiftning (erytromelalgi), har en blegere beige, mindre dybt nedtrykt hat, en stærk sød lugt samt glatte ellipsoide sporer i stedet for piggede, næsten kuglerunde sporer. Almindelig tragthat (Infundibulicybe gibba) er langt blegere lædergul, bevarer som regel en lille central pukkel, har mindre tætstillede hvide lameller og danner større, glatte, dråbeformede sporer. Plettet hekseringshat (Paralepista gilva) er blegere okkergul, kraftigere og typisk tegnet med koncentriske, mørkere vandpletter på hatten. Almindelig kantarel (Cantharellus cibarius) er mere kødfuld, klarere gul og har tykke, stumpe, gaffeldelte ribber frem for tynde, tætte, ægte lameller.",
+        "notes": "To økologiske former blev længe behandlet som adskilte arter: en blegere, mat og mere slap form i løvskove og en dybere ræverød, blankere og fastere form under nåletræer, men begge har identiske mikroskopiske kendetegn og forenes nu som én variabel art. Fordi Paralepistopsis amoenolens har bredt sig nordpå til Centraleuropa, blev denne art fjernet fra den officielle liste over spisesvampe til handel i Schweiz."
+      },
+      "de": {
+        "description": "Ein mittelgroßer, saprotropher Blätterpilz, der gesellig, oft in Bögen oder Hexenringen, auf Laubstreu in Wäldern, auf Nadelstreu, humusreichem Boden und gelegentlich auf feuchten Hackschnitzeln fruktifiziert. Er ist in der gemäßigten Nordhalbkugel weit verbreitet und kommt in ganz Europa, Westasien sowie in Nordamerika vom Pazifischen Nordwesten bis zu den Großen Seen und den Appalachen vor.",
+        "cap": "Der Hut ist 2–10 cm breit, jung gewölbt mit eingerolltem Rand, flacht bald ab und wird tief niedergedrückt oder trichterförmig ohne zentralen Buckel, mit scharfem, welligem, oft etwas lappigem oder ausgussartigem Rand; spät in der Saison erscheinende Fruchtkörper bleiben gelegentlich gewölbt. Die Oberfläche ist glatt, bei Feuchtigkeit matt bis leicht glänzend oder klebrig, bald trocken und hygrophan, fuchsig-orange, rötlich-ocker, zimtbraun oder rosabräunlich gefärbt, in der Mitte typischerweise dunkler und beim Abtrocknen zu blassem Ockerbeige verblassend. Kaliumhydroxid (KOH) färbt die Hutoberfläche gelb.",
+        "hymenium": "Die Lamellen laufen weit am Stiel herab, sind dünn, gedrängt mit zahlreichen kurzen Zwischenlamellen (Lamelletten) und lassen sich relativ leicht vom Hutfleisch lösen. Jung sind sie blass cremefarben, weißlich oder blass aprikosenbeige, im Alter blass fuchsig, ocker oder orangebraun, bleiben dabei aber blasser als der Hut. Die Basidien sind keulig, viersporig und 22–28 × 4–6 µm groß; Zystiden fehlen, und Schnallen sind vorhanden.",
+        "stipe": "Der Stiel ist 2–7 cm lang (gelegentlich bis zu 10 cm) und 0,4–1,5 cm dick, zylindrisch, gleichdick oder zur Basis hin leicht verdickt, jung zäh und ausgestopft, im Alter markig bis eng hohl. Er ist trocken und glatt bis feinfaserig, wie der Hut gefärbt, jedoch blasser, ohne Ring und an der Basis mit reichlichem weißem bis blassbeigem wattigem Myzelfilz bekleidet, der umgebende Nadeln und Laubstreu miteinander verwebt.",
+        "flesh": "Das Fleisch ist dünn, jung recht fest und im Alter weicher werdend, weißlich bis cremefarben oder blass fuchsig-beige und im Schnitt unveränderlich. Der Geruch ist angenehm süßlich, schwach duftend oder mild holzig-pilzartig, der Geschmack mild bis leicht säuerlich oder schwach bitter.",
+        "sporePrint": "Das Sporenpulver ist weiß bis blass cremegelb, gelegentlich mit einem sehr schwachen Rosaton. Die Sporen sind 3–5 × 3–4,5 µm groß (einschließlich Ornamentation), rundlich-ellipsoid bis breit ellipsoid, fein warzig bis stachelig mit 0,5–1 µm langen Stacheln, in KOH hyalin bis gelblich, inamyloid und cyanophil.",
+        "habitat": "Saprotroph auf verrottender Nadelstreu, Laubwaldstreu, humusreichem Boden, Kompost sowie gelegentlich auf feuchtem Sägemehl oder Rindenmulch in Nadel-, Laub- und Mischwäldern; die Art fruktifiziert in großen Scharen, Bögen oder Hexenringen, die fast 20 m Durchmesser erreichen können. Im gemäßigten Europa fruktifiziert sie hauptsächlich von Juni bis November und überdauert in milden Wintern gelegentlich bis in den Januar; in Nordamerika erscheint sie im Sommer und Herbst oder in milderen Küstenklimaten wie Kalifornien auch über den Winter.",
+        "uses": "Bedingt essbar. Obwohl der Pilz in Teilen Europas traditionell gegessen wird, ist sein Speisewert bescheiden, größere Mengen können Magen-Darm-Beschwerden verursachen, und vom Verzehr wird in Regionen, in denen der gefährlich giftige Doppelgänger Paralepistopsis amoenolens vorkommt, dringend abgeraten.",
+        "confusion": "Der Parfümierte Trichterling (Paralepistopsis amoenolens), der schwere Akromelalga-Vergiftungen (Erythromelalgie) verursacht, hat einen blasseren, beigefarbenen, weniger tief niedergedrückten Hut, einen stark süßlichen Geruch und glatte ellipsoide statt stachelige, rundlich-ellipsoide Sporen. Der Ockerbraune Trichterling (Infundibulicybe gibba) ist viel blasser beige, behält meist einen kleinen zentralen Buckel, hat weniger gedrängte weiße Lamellen und bildet größere, glatte, tropfenförmige Sporen. Der Wasserfleckige Röteltrichterling (Paralepista gilva) ist blasser ockergelb, kräftiger gebaut und trägt am Hut typischerweise konzentrische, dunklere Wasserflecken. Der Echte Pfifferling (Cantharellus cibarius) ist fleischiger, leuchtender gelb und besitzt dicke, stumpfe, gegabelte Leisten statt dünner, gedrängter echter Lamellen.",
+        "notes": "Zwei ökologische Formen wurden lange als getrennte Arten behandelt: eine blassere, matte, schlaffere Form in Laubwäldern und eine kräftiger rotbraun-fuchsige, glänzendere, festere Form unter Nadelbäumen; beide besitzen jedoch identische mikroskopische Merkmale und werden heute als eine einzige variable Art zusammengefasst. Da sich Paralepistopsis amoenolens nach Norden bis nach Mitteleuropa ausgebreitet hat, wurde diese Art in der Schweiz aus der offiziellen Liste der Marktspeisepilze gestrichen."
+      },
+      "es": {
+        "description": "Seta con láminas saprótrofa de tamaño mediano que fructifica de forma gregaria, a menudo en arcos o corros de brujas, sobre hojarasca de bosque, acículas de coníferas, suelos ricos en humus y, ocasionalmente, astillas de madera húmedas. Ampliamente distribuida por el hemisferio norte templado, se encuentra en toda Europa, Asia occidental y Norteamérica, desde el Noroeste del Pacífico hasta los Grandes Lagos y los Apalaches.",
+        "cap": "2–10 cm de diámetro, convexo y con el margen enrollado de joven, aplanándose pronto para volverse profundamente deprimido o infundibuliforme sin mamelón central, con un margen agudo, ondulado, a menudo algo lobulado o en forma de pico vertedor; los carpóforos de final de temporada permanecen ocasionalmente convexos. La superficie es lisa, de mate a ligeramente brillante o pegajosa en húmedo, pronto seca e higrófana, de color pardo leonado anaranjado, ocre rojizo, pardo canela o ante rosado, típicamente más oscura en el centro y palideciendo hacia un ante pálido al secarse. El hidróxido de potasio (KOH) tiñe la superficie del sombrero de amarillo.",
+        "hymenium": "Láminas profundamente decurrentes, delgadas y apretadas, con frecuentes lamélulas cortas, relativamente fáciles de separar de la carne del sombrero. De color crema pálido, blanquecino o ante albaricoque pálido de joven, maduran a leonado pálido, ocre o pardo anaranjado, manteniéndose más claras que el sombrero. Los basidios son claviformes, tetraspóricos y de 22–28 × 4–6 µm; carece de cistidios y presenta fíbulas.",
+        "stipe": "2–7 cm de altura (ocasionalmente hasta 10 cm) y 0,4–1,5 cm de grosor, cilíndrico, igual o ligeramente engrosado hacia la base, tenaz y relleno de joven, volviéndose meduloso a estrechamente hueco con la edad. Seco y de liso a levemente fibriloso, del mismo color que el sombrero pero más pálido, sin anillo, y revestido en la base de un abundante micelio algodonoso blanco a ante pálido que aglutina las acículas y la hojarasca circundantes.",
+        "flesh": "Delgada, bastante firme de joven y ablandándose con la edad, de blanquecina a crema o ante leonado pálido, inmutable al corte. El olor es agradablemente dulce, ligeramente fragante o suavemente fúngico y amaderado, y el sabor es suave a ligeramente ácido o levemente amargo.",
+        "sporePrint": "Blanca a amarillo crema pálido, ocasionalmente con un tinte rosado muy tenue. Las esporas miden 3–5 × 3–4,5 µm (incluida la ornamentación), son subglobosas a ampliamente elipsoidales, finamente verrugosas a espinosas con espinas de 0,5–1 µm de longitud, hialinas a amarillentas en KOH, inamiloides y cianófilas.",
+        "habitat": "Saprótrofo sobre acículas de coníferas en descomposición, hojarasca de bosques planifolios, suelos ricos en humus, compost y, ocasionalmente, serrín húmedo o mantillo de astillas de madera en bosques de coníferas, caducifolios y mixtos, fructificando en grandes grupos, arcos o corros de brujas que pueden alcanzar casi 20 m de diámetro. En la Europa templada fructifica principalmente de junio a noviembre, persistiendo ocasionalmente hasta enero en temporadas suaves; en Norteamérica fructifica en verano y otoño, o durante el invierno en climas costeros más templados como California.",
+        "uses": "Comestible con precaución. Aunque se consume tradicionalmente en algunas zonas de Europa, su calidad culinaria es modesta, las cantidades abundantes pueden causar trastornos gastrointestinales y su consumo se desaconseja firmemente en las regiones donde aparece la especie similar peligrosamente tóxica Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, que provoca graves intoxicaciones por acromelalgia (eritromelalgia), tiene un sombrero beige más pálido y menos profundamente deprimido, un olor dulce intenso y esporas elipsoidales lisas en lugar de subglobosas y espinosas. Infundibulicybe gibba es de color ante mucho más pálido, suele conservar un pequeño mamelón central, posee láminas blancas menos apretadas y produce esporas lisas más grandes en forma de lágrima. Paralepista gilva es de un amarillo ocre más pálido, más robusta y suele presentar manchas acuosas concéntricas más oscuras en el sombrero. Cantharellus cibarius es más carnosa, de amarillo más vivo y presenta pliegues gruesos, romos y bifurcados en lugar de verdaderas láminas delgadas y apretadas.",
+        "notes": "Durante mucho tiempo se trataron dos formas ecológicas como especies separadas: una forma más pálida, mate y más flácida en bosques de frondosas y una forma más firme, brillante y de color leonado rojizo más intenso bajo coníferas, pero ambas comparten caracteres microscópicos idénticos y hoy se reúnen en una única especie variable. Debido a que Paralepistopsis amoenolens se ha expandido hacia el norte en Europa central, esta especie fue retirada de la lista oficial de setas comestibles comercializables en Suiza."
+      },
+      "et": {
+        "description": "Keskmise suurusega saprotroofne lehikseen, mis viljub hulgakesi, sageli kaarte või nõiaringidena metsakõdul, okkaprahal, huumusrikkal mullal ning vahel niiskel puiduhakkel. See on põhjapoolkera parasvöötmes laialt levinud ning esineb kogu Euroopas, Lääne-Aasias ja Põhja-Ameerikas Vaikse ookeani loodeosast Suure järvistu ja Apalatšideni.",
+        "cap": "Kübar on 2–10 cm läbimõõduga, noorelt kumer ja sisserullunud servaga, kuid lameneb peagi ning muutub sügavalt nõgusaks või lehterjaks ilma keskse kühmukeseta; serv on terav, lainjas, sageli veidi hõlmine või tilakujuline, ning hilissügisesed viljakehad jäävad vahel kumeraks. Pind on sile, matist kergelt läikiva või niiskena kleepuvani, kuivab peagi ja on hügrofaanne; värvuselt ruugeoranž, punakasooker, kaneelpruun või roosakasbeež, keskelt tavaliselt tumedam ja kuivades kahvatubeežiks pleekuv. Kaaliumhüdroksiid (KOH) värvib kübara pinna kollaseks.",
+        "hymenium": "Eoslehed on sügavalt jalale laskuvad, õhukesed ja tihedad, rohkete lühikeste vahelehekestega ning eralduvad kübara seenelihast suhteliselt kergesti. Noorelt on need kahvatukreemid, valkjad või kahvatu aprikoosibeeži tooniga, valmides muutuvad kahvatupruunikas-ruugeks, ookerjaks või oranžikaspruuniks, jäädes siiski kübarast heledamaks. Basiidiumid on nuiakujulised, nelja eosega ja 22–28 × 4–6 µm suurused; tsüstiidid puuduvad ja pandlad on olemas.",
+        "stipe": "Jalg on 2–7 cm kõrge (vahel kuni 10 cm) ja 0,4–1,5 cm jäme, silindriline, ühtlane või aluse suunas veidi laienev, noorelt sitke ja täis, vananedes säsijas kuni kitsalt õõnes. Pind on kuiv, sile kuni nõrgalt kiuline, kübaraga sama värvi, kuid heledam, ilma rõngata ning jala alusel kaetud rohke valge kuni kahvatubeeži viltja seeneniidistikuga, mis seob ümbritsevaid okkaid ja lehekõdu.",
+        "flesh": "Seeneliha on õhuke, noorelt üsna tihke ja vanusega pehmenev, valkjas kuni kreemjas või kahvatubeežikas-ruuge ning lõikekohal värvust ei muuda. Lõhn on meeldivalt magusakas, nõrgalt aromaatne või mahedalt puidu-seenene, maitse mahe kuni kergelt hapukas või õrnalt mõrkjas.",
+        "sporePrint": "Eosetolm on valge kuni kahvatukreemikaskollane, vahel väga nõrga roosaka varjundiga. Eosed on 3–5 × 3–4,5 µm suurused (koos pinnamustriga), peaaegu kerajad kuni laiemalt ellipsoidid, peenelt näsalised kuni ogalised 0,5–1 µm pikkuste ogadega, KOH-s värvitud kuni kollakad, mitte-amüloidsed ja tsüanofiilsed.",
+        "habitat": "Kasvukoht on saprotroofne kõdunevatel okastel, lehtmetsa kõdul, huumusrikkal mullal, kompostil ning vahel niiskel saepurul või puiduhakkest multšil okas-, leht- ja segametsades, kus ta moodustab suuri rühmi, kaari või ligi 20 m läbimõõduga nõiaringe. Parasvöötme Euroopas viljub peamiselt juunist novembrini, püsides pehmetel aastatel vahel jaanuarini; Põhja-Ameerikas viljub suvel ja sügisel ning pehmema rannikukliimaga aladel, nagu Californias, ka talvel.",
+        "uses": "Tinglikult söödav. Kuigi teda süüakse traditsiooniliselt osas Euroopast, on tema kulinaarne väärtus tagasihoidlik, suured kogused võivad põhjustada seedehäireid ning tarbimisest soovitatakse tungivalt hoiduda piirkondades, kus esineb ohtlikult mürgine teisik Paralepistopsis amoenolens.",
+        "confusion": "Sarnastest liikidest põhjustab rasket akromelalgia- (erütromelalgia-) mürgistust Paralepistopsis amoenolens, millel on kahvatum beež, vähem sügavalt nõgus kübar, tugev magus lõhn ning ogaliste peaaegu kerajate eoste asemel siledad ellipsoidid eosed. Infundibulicybe gibba on tunduvalt kahvatum beež, säilitab tavaliselt väikese keskse kühmukese, omab hõredamaid valgeid eoslehti ja moodustab suuremaid siledaid pisarakujulisi eoseid. Paralepista gilva on kahvatum ookerkollane, jässakam ja tal on kübaral tüüpiliselt kontsentrilised tumedamad vesised laigud. Cantharellus cibarius on lihakam, erkkollasem ning tal on õhukeste tihedate päris eoslehtede asemel jämedad tömbid harunenud ribid.",
+        "notes": "Kahte ökoloogilist vormi käsitleti pikka aega eraldi liikidena: lehtmetsade kahvatum, matim ja lõdvem vorm ning okaspuude all kasvav sügavamalt punakasruuge, läikivam ja tihkem vorm, kuid mõlemal on identsed mikroskoopilised tunnused ja nüüd ühendatakse need üheks muutlikuks liigiks. Kuna Paralepistopsis amoenolens on levinud põhja poole Kesk-Euroopasse, eemaldati see liik Šveitsis turustatavate söögiseente ametlikust nimekirjast."
+      },
+      "fa": {
+        "description": "قارچ تیغه‌دار ساپروتروف با جثه متوسط است که به‌صورت دسته‌جمعی و اغلب در قوس‌ها یا حلقه‌های پری، روی لاش‌برگ‌های جنگلی، سوزن‌های مخروطیان، خاک غنی از هوموس و گاهی روی خرده‌چوب‌های مرطوب می‌روید. این گونه در سراسر مناطق معتدل نیم‌کره شمالی پراکنش گسترده‌ای دارد و در سرتاسر اروپا، غرب آسیا و آمریکای شمالی، از شمال‌غربی اقیانوس آرام تا دریاچه‌های بزرگ و رشته‌کوه آپالاش، دیده می‌شود.",
+        "cap": "قطر کلاهک ۲–۱۰ سانتی‌متر است؛ در جوانی محدب با لبه‌ای برگشته به داخل است و به‌زودی پهن شده و بدون برآمدگی مرکزی (اومبو)، به‌شدت فرورفته یا قیفی‌شکل می‌شود و لبه‌ای تیز، موج‌دار و اغلب اندکی لب‌دار یا ناودانی دارد؛ اندام‌های بارده آخر فصل گاهی محدب باقی می‌مانند. سطح کلاهک صاف، مات تا اندکی براق یا در حالت مرطوب چسبناک و به‌زودی خشک است و خاصیت رطوبت‌پذیری (هیگروفان) دارد؛ رنگ آن قهوه‌ای-نارنجی گندمی، اخرایی مایل به قرمز، قهوه‌ای دارچینی یا نخودی-صورتی است که معمولاً در مرکز تیره‌تر است و هنگام خشک شدن به نخودی کم‌رنگ می‌گراید. هیدروکسید پتاسیم (KOH) سطح کلاهک را زرد می‌کند.",
+        "hymenium": "تیغه‌ها عمیقاً نزولی (دیکورنت)، نازک و متراکم‌اند و تیغک‌های کوتاه فراوانی دارند و نسبتاً به‌آسانی از گوشت کلاهک جدا می‌شوند. در جوانی کرم کم‌رنگ، سفیدمایل یا نخودی-زردآلویی کم‌رنگ‌اند و با رسیدن به رنگ گندمی کم‌رنگ، اخرایی یا قهوه‌ای مایل به نارنجی درمی‌آیند، در حالی که روشن‌تر از کلاهک باقی می‌مانند. بازیدی‌ها گرزمانند، چهارهاگه و به ابعاد ۲۲–۲۸ × ۴–۶ میکرومترند؛ سیستیدیاها وجود ندارند و اتصالات چنگکی (کلمپ) حضور دارند.",
+        "stipe": "ساقه ۲–۷ سانتی‌متر (گاهی تا ۱۰ سانتی‌متر) ارتفاع و ۰٫۴–۱٫۵ سانتی‌متر ضخامت دارد، استوانه‌ای و یکنواخت یا به‌سوی پایه اندکی پهن‌تر است و در جوانی سفت و پر است و با افزایش سن مغزدار تا باریک‌تومیان‌تهی می‌شود. خشک و صاف تا به‌طور محو رشته‌ای، هم‌رنگ کلاهک اما روشن‌تر و بدون حلقه است و در پایه با میسلیوم پنبه‌ای فراوان به رنگ سفید تا نخودی کم‌رنگ پوشیده شده که سوزن‌ها و لاش‌برگ‌های پیرامون را به هم می‌چسباند.",
+        "flesh": "گوشت نازک، در جوانی نسبتاً سفت و با افزایش سن نرم‌شونده، سفیدمایل تا کرم یا نخودی-گندمی کم‌رنگ است و هنگام برش تغییر رنگ نمی‌دهد. بوی آن به‌طرزی خوشایند شیرین، اندکی معطر یا به‌ملایمت چوبی-قارچی است و مزه آن ملایم تا اندکی ترش یا کمی تلخ است.",
+        "sporePrint": "سفید تا زرد-کرم کم‌رنگ، گاهی با ته‌رنگ صورتی بسیار محو. هاگ‌ها به ابعاد ۳–۵ × ۳–۴٫۵ میکرومتر (با احتساب تزئینات)، شبه‌کروی تا بیضوی پهن، دارای زگیل‌های بسیار ریز تا خاردار با خارهایی به طول ۰٫۵–۱ میکرومتر، در KOH شفاف تا زردفام، غیرآمیلوئید و سیانوفیلیک‌اند.",
+        "habitat": "ساپروتروف روی سوزن‌های پوسیده مخروطیان، لاش‌برگ‌های جنگل‌های پهن‌برگ، خاک غنی از هوموس، کمپوست و گاهی خاک‌اره مرطوب یا مالچ خرده‌چوب در جنگل‌های سوزنی‌برگ، برگ‌ریز و مختلط؛ به‌صورت دسته‌های بزرگ، قوس‌ها یا حلقه‌های پری می‌روید که پهنای آن‌ها می‌تواند به نزدیک ۲۰ متر برسد. در اروپای معتدل عمدتاً از ژوئن تا نوامبر می‌روید و در فصل‌های ملایم گاهی تا ژانویه باقی می‌ماند؛ در آمریکای شمالی در تابستان و پاییز، یا در اقلیم‌های ساحلی ملایم‌تر مانند کالیفرنیا در سراسر زمستان، میوه می‌دهد.",
+        "uses": "خوراکی با احتیاط. اگرچه به‌طور سنتی در بخش‌هایی از اروپا مصرف می‌شود، کیفیت آشپزی آن معمولی است، مقادیر زیاد آن می‌تواند باعث ناراحتی گوارشی شود و مصرف آن در مناطقی که گونه مشابه و به‌طور خطرناکی سمی Paralepistopsis amoenolens می‌روید، اکیداً توصیه نمی‌شود.",
+        "confusion": "Paralepistopsis amoenolens که مسمومیت شدید اریتروملالژی (آکروملالژی) ایجاد می‌کند، کلاهکی بژ کم‌رنگ‌تر و با فرورفتگی کمتر عمیق، بوی شیرین قوی و هاگ‌های بیضوی صاف به‌جای هاگ‌های شبه‌کروی خاردار دارد. Infundibulicybe gibba بسیار نخودی کم‌رنگ‌تر است، معمولاً برآمدگی مرکزی کوچکی را حفظ می‌کند، تیغه‌های سفید کم‌تراکم‌تری دارد و هاگ‌های اشکی‌شکل صاف و بزرگ‌تری تولید می‌کند. Paralepista gilva زرد-اخرایی کم‌رنگ‌تر و تنومندتر است و معمولاً روی کلاهکش لکه‌های آبکی تیره هم‌مرکز دیده می‌شود. Cantharellus cibarius گوشتی‌تر و زرد روشن‌تر است و به‌جای تیغه‌های واقعی نازک و متراکم، برآمدگی‌های ضخیم، کند و دوشاخه دارد.",
+        "notes": "دو شکل بوم‌شناختی مدت‌ها به‌عنوان دو گونه جداگانه در نظر گرفته می‌شدند: شکلی کم‌رنگ‌تر، مات‌تر و شل‌تر در جنگل‌های پهن‌برگ و شکلی قهوه‌ای-قرمز تیره‌تر، براق‌تر و سفت‌تر در زیر مخروطیان؛ اما هر دو ویژگی‌های میکروسکوپی یکسانی دارند و اکنون به‌عنوان یک گونه متغیر واحد شناخته می‌شوند. از آنجا که Paralepistopsis amoenolens به‌سوی شمال و به اروپای مرکزی گسترش یافته است، این گونه از فهرست رسمی قارچ‌های خوراکی مجاز برای عرضه در بازار سوئیس حذف شده است."
+      },
+      "fi": {
+        "description": "Keskikokoinen, saprotrofinen helttasieni, joka muodostaa itiöemiä ryhminä, usein kaarina tai noidankehinä, metsän lehtikarikkeella, havunneulasilla, humusrikkaassa maassa ja toisinaan kostealla puuhakkeella. Laji on levinnyt laajalle pohjoisen pallonpuoliskon lauhkealle vyöhykkeelle ja esiintyy koko Euroopassa, Länsi-Aasiassa sekä Pohjois-Amerikassa Tyynenmeren luoteisosasta Suurille järville ja Appalakeille.",
+        "cap": "Lakki on 2–10 cm leveä, nuorena kupera ja sisäänkiertyneen reunainen, pian laakeneva ja syvään kuopalle painuva tai suppilomainen ilman keskuskuhmua; reuna on terävä, aaltoileva ja usein jonkin verran liuskainen tai kaatonokkamainen; loppukauden itiöemät jäävät toisinaan kuperiksi. Pinta on sileä, kosteana himmeä tai hieman kiiltävä tai tahmea, pian kuiva ja hygrofaaninen, väriltään punaruskeanoranssi, punertavanokra, kanelinruskea tai vaaleanpunertavan säämiskänvärinen, tyypillisesti keskeltä tummempi ja kuivuessaan vaalean säämiskänväriseksi haalistuva. Kaliumhydroksidi (KOH) värjää lakin pinnan keltaiseksi.",
+        "hymenium": "Heltat ovat syvään johteiset, ohuet ja tiheät, niissä on runsaasti lyhyitä välihelttoja ja ne irtoavat suhteellisen helposti lakin mallosta. Nuorena ne ovat vaalean kermanväriset, valkeahkot tai vaalean aprikoosinsäämiskänväriset, ja kypsyessään ne muuttuvat vaalean punaruskeiksi, okriksi tai oranssinruskeiksi jääden aina lakkia vaaleammiksi. Basidiot ovat nuijamaisia, neli-itiöisiä ja 22–28 × 4–6 µm; kystidejä ei ole, ja sinkilöitä on.",
+        "stipe": "Jalka on 2–7 cm korkea (toisinaan jopa 10 cm) ja 0,4–1,5 cm paksu, liereä, tasapaksu tai tyveä kohti hieman levenevä, nuorena sitkeä ja täyteinen, iän myötä hohkainen tai kapealti ontto. Pinta on kuiva ja sileä tai heikosti säikeinen, lakin värinen mutta vaaleampi, renkaaton, ja tyvellä on runsasta valkoista tai vaalean säämiskänväristä vanumaista rihmastoa, joka sitoo ympäröiviä neulasia ja lehtikariketta.",
+        "flesh": "Malto on ohutta, nuorena melko kiinteää ja vanhetessaan pehmenevää, valkeahkoa tai kermanväristä taikka vaalean säämiskänruskeaa, eikä se muuta väriä leikattaessa. Tuoksu on miellyttävän makeahko, miedosti tuoksuva tai lievästi puumaisen sienimäinen, ja maku on mieto tai hieman hapan taikka heikosti karvas.",
+        "sporePrint": "Itiöpöly on valkoista tai vaalean kermankeltaista, toisinaan hyvin heikosti vaaleanpunertavaa. Itiöt ovat 3–5 × 3–4,5 µm (pintakuviointi mukaan lukien), lähes pallomaisia tai leveän ellipsoideja, hienonystyisiä tai piikkisiä 0,5–1 µm pitkin piikein, KOH:ssa värittömiä tai kellertäviä, inamyloideja ja syanofiilisiä.",
+        "habitat": "Saprotrofinen lahoavilla havunneulasilla, lehtimetsän karikkeella, humusrikkaassa maassa, kompostissa ja toisinaan kostealla sahanpurulla tai puuhakkeella havu-, lehti- ja sekametsissä. Se muodostaa suuria ryhmiä, kaaria tai noidankehiä, jotka voivat olla halkaisijaltaan lähes 20 m. Lauhkeassa Euroopassa se tuottaa itiöemiä pääasiassa kesäkuusta marraskuuhun ja säilyy leutoina kausina toisinaan tammikuuhun asti; Pohjois-Amerikassa se kasvaa kesällä ja syksyllä tai talven yli leudommassa rannikkoilmastossa, kuten Kaliforniassa.",
+        "uses": "Syötävä varauksin. Vaikka sitä on perinteisesti syöty osissa Eurooppaa, sen ruokasieniarvo on vaatimaton, suuret määrät voivat aiheuttaa ruoansulatusvaivoja, ja syömistä vältetään ehdottomasti alueilla, joilla esiintyy vaarallisen myrkyllistä näköislajia Paralepistopsis amoenolens.",
+        "confusion": "Vakavaa akromelalgia-myrkytystä (erytromelalgia) aiheuttavalla Paralepistopsis amoenolens -lajilla on vaaleampi beige, vähemmän syvään kuopalle painunut lakki, voimakas makea tuoksu ja sileät ellipsoidit itiöt piikkisten lähes pallomaisten itiöiden sijaan. Suppilomalikka (Infundibulicybe gibba) on paljon vaaleamman säämiskänvärinen, sillä säilyy yleensä pieni keskuskuhmu, sen valkoiset heltat ovat harvemmassa ja sen itiöt ovat suurempia, sileitä ja pisaranmuotoisia. Paralepista gilva on vaaleamman okrankeltainen, tanakampi ja sen lakissa on tyypillisesti samankeskisiä tummempia vesilaikkuja. Keltavahvero (Cantharellus cibarius) on maltoisampi, kirkkaamman keltainen ja sillä on ohuiden, tiheiden oikeiden helttojen sijaan paksut, tylpät ja haaraiset poimut.",
+        "notes": "Kahta ekologista muotoa pidettiin pitkään erillisinä lajeina: lehtimetsissä esiintyvää vaaleampaa, himmeämpää ja veltompaa muotoa sekä havupuiden alla kasvavaa syvemmän punaruskeaa, kiiltävämpää ja kiinteämpää muotoa, mutta molemmilla on identtiset mikroskooppiset tuntomerkit, ja ne yhdistetään nykyään yhdeksi muuntelevaksi lajiksi. Koska Paralepistopsis amoenolens on levinnyt pohjoiseen Keski-Eurooppaan, tämä laji poistettiin Sveitsissä virallisesta kauppasienten luettelosta."
+      },
+      "fr": {
+        "description": "Agaric saprotrophe de taille moyenne, fructifiant en troupes, souvent en arcs ou en ronds de sorcières, sur la litière de feuilles forestière, les aiguilles de conifères, les sols riches en humus et parfois les copeaux de bois humides. Largement répandu dans l'hémisphère Nord tempéré, il est présent dans toute l'Europe, en Asie occidentale et en Amérique du Nord, du Nord-Ouest pacifique aux Grands Lacs et aux Appalaches.",
+        "cap": "2–10 cm de diamètre, convexe à marge enroulée dans la jeunesse, s'aplanissant rapidement pour devenir profondément déprimé ou en entonnoir sans mamelon central, avec une marge aiguë, ondulée, souvent un peu lobée ou en bec de verseur ; les carpophores de fin de saison restent parfois convexes. La surface est lisse, mate à légèrement luisante ou collante à l'humidité, vite sèche et hygrophane, de couleur fauve orangé, ocre rougeâtre, brun cannelle ou chamois rosâtre, généralement plus foncée au centre et pâlissant vers le chamois pâle en séchant. L'hydroxyde de potassium (KOH) colore la surface du chapeau en jaune.",
+        "hymenium": "Lames profondément décurrentes, minces et serrées, entremêlées de fréquentes lamellules courtes, relativement faciles à détacher de la chair du chapeau. Crème pâle, blanchâtres ou chamois abricot pâle dans la jeunesse, elles évoluent à maturité vers le fauve pâle, l'ocre ou le brun orangé tout en restant plus claires que le chapeau. Les basides sont clavées, tétrasporiques et mesurent 22–28 × 4–6 µm ; les cystides sont absentes et les boucles sont présentes.",
+        "stipe": "2–7 cm de hauteur (parfois jusqu'à 10 cm) pour 0,4–1,5 cm d'épaisseur, cylindrique, égal ou légèrement élargi vers la base, coriace et plein dans la jeunesse, devenant spongieux à étroitement creux avec l'âge. Sec et lisse à finement fibrilleux, concolore au chapeau mais plus pâle, sans anneau, et revêtu à la base d'un abondant mycélium cotonneux blanc à chamois pâle qui agglomère les aiguilles et la litière environnantes.",
+        "flesh": "Mince, assez ferme dans la jeunesse et s'amollissant avec l'âge, blanchâtre à crème ou chamois fauve pâle, immuable à la coupe. L'odeur est agréablement douce, légèrement parfumée ou faiblement boisée et fongique, et la saveur est douce à légèrement acidulée ou faiblement amère.",
+        "sporePrint": "Blanche à jaune crème pâle, parfois avec une très légère nuance rosée. Les spores mesurent 3–5 × 3–4,5 µm (ornementation comprise), sont subglobuleuses à largement ellipsoïdes, finement verruqueuses à échinulées avec des aiguillons de 0,5–1 µm de long, hyalines à jaunâtres dans le KOH, non amyloïdes et cyanophiles.",
+        "habitat": "Saprotrophe sur les aiguilles de conifères en décomposition, la litière des forêts de feuillus, les sols riches en humus, le compost et parfois la sciure humide ou le paillis de copeaux de bois dans les bois de conifères, de feuillus et mixtes, fructifiant en grandes troupes, en arcs ou en ronds de sorcières pouvant atteindre près de 20 m de diamètre. En Europe tempérée, il fructifie principalement de juin à novembre, persistant parfois jusqu'en janvier lors des saisons douces ; en Amérique du Nord, il fructifie en été et en automne, ou tout au long de l'hiver dans les climats côtiers plus doux comme la Californie.",
+        "uses": "Comestible sous conditions. Bien que traditionnellement consommé dans certaines régions d'Europe, sa qualité culinaire est modeste, de grandes quantités peuvent provoquer des troubles digestifs et sa consommation est fortement déconseillée dans les régions où pousse l'espèce sosie dangereusement toxique Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, qui provoque une grave intoxication de type acromélalgie (érythromélalgie), possède un chapeau beige plus pâle et moins profondément déprimé, une forte odeur douce et des spores lisses et ellipsoïdes plutôt que subglobuleuses et échinulées. Infundibulicybe gibba est d'un chamois beaucoup plus pâle, conserve généralement un petit mamelon central, présente des lames blanches moins serrées et produit des spores plus grandes, lisses et larmiformes. Paralepista gilva est jaune ocre plus pâle, plus robuste et typiquement ornée de taches aqueuses concentriques plus foncées sur le chapeau. Cantharellus cibarius est plus charnu, d'un jaune plus vif, et porte des plis épais, obtus et fourchus plutôt que de vraies lames minces et serrées.",
+        "notes": "Deux formes écologiques ont longtemps été traitées comme des espèces distinctes : une forme plus pâle, mate et plus flasque dans les bois de feuillus et une forme fauve rougeâtre plus soutenu, plus brillante et plus ferme sous les conifères, mais toutes deux partagent des caractères microscopiques identiques et sont désormais réunies en une seule espèce variable. En raison de l'expansion vers le nord de Paralepistopsis amoenolens en Europe centrale, cette espèce a été retirée de la liste officielle des champignons comestibles commercialisables en Suisse."
+      },
+      "he": {
+        "description": "פטריית דפים סאפרוטרופית בינונית בגודלה, המניבה גופי פרי בקבוצות צפופות, ולעיתים קרובות בקשתות או בטבעות מכשפות, על מצע נשורת עלים ביערות, מחטי מחטניים, קרקע עשירה בהומוס ולעיתים שבבי עץ לחים. היא נפוצה ברחבי האזורים הממוזגים של חצי הכדור הצפוני, ומופיעה בכל אירופה, במערב אסיה ובצפון אמריקה מצפון-מערב האוקיינוס השקט ועד האגמים הגדולים והרי האפלצ'ים.",
+        "cap": "קוטר הכובע 2–10 ס\"מ; בצעירותו הוא קמור ושוליו מגולגלים פנימה, ועד מהרה הוא משתטח ונעשה שקוע עמוקות או דמוי משפך ללא פיטם מרכזי, עם שוליים חדים, גליים ולעיתים מעט אונתיים או דמויי פייה; גופי פרי מאוחרים בעונה נותרים לעיתים קמורים. פני השטח חלקים, עמומים עד מבריקים קלות או דביקים כשהם לחים, מתייבשים במהרה והיגרופניים, בגוון חום-כתום זהוב, אוכרה-אדמדם, חום-קינמון או צהבהב-ורדרד, בדרך כלל כהים יותר במרכז ודוהים לצהבהב-בז' בהיר עם ההתייבשות. אשלגן הידרוקסידי (KOH) צובע את פני הכובע בצהוב.",
+        "hymenium": "דפים גולשים עמוקות על הרגל, דקים וצפופים עם דפיות קצרות תכופות, והם קלים יחסית להפרדה מבשר הכובע. צבעם קרם חיוור, לבנבן או משמשי-בז' חיוור בצעירותם, ובבגרותם הם הופכים לחום-זהבהב חיוור, אוכרה או חום-כתמתם תוך שהם נותרים בהירים מן הכובע. הבסידיות דמויות אלה, בעלות ארבעה נבגים, בגודל 22–28 × 4–6 מיקרומטר; ציסטידיות נעדרות, וחיבורי אבזם (clamp connections) נוכחים.",
+        "stipe": "הרגל בגובה 2–7 ס\"מ (לעיתים עד 10 ס\"מ) ובעובי 0.4–1.5 ס\"מ, גלילית, שווה בעובייה או מתרחבת קלות כלפי הבסיס, קשיחה ומלאה בצעירותה, ונעשית ספוגית עד חלולה בצרות עם הגיל. יבשה וחלקה עד בעלת סיבים קלושים, צבעה כצבע הכובע אך בהיר יותר, ללא טבעת, ובבסיסה מצויה שכבה שופעת של תפטיר צמרירי לבן עד בז' חיוור הכורך את המחטים ונשורת העלים שסביב.",
+        "flesh": "הבשר דק, מוצק למדי בצעירותו ומתרכך עם הגיל, לבנבן עד קרם או חום-צהבהב חיוור, ואינו משנה את צבעו בחיתוך. הריח מתקתק ונעים, ריחני קלות או פטרייתי-עצי עדין, והטעם עדין עד מעט חמצמץ או מריר קלות.",
+        "sporePrint": "לבן עד צהוב-קרם חיוור, לעיתים עם גוון ורדרד קלוש ביותר. הנבגים בגודל 3–5 × 3–4.5 מיקרומטר (כולל העיטור), תת-כדוריים עד אליפסואידיים רחבים, מכוסים יבלות זעירות עד קוצניים עם קוצים באורך 0.5–1 מיקרומטר, שקופים עד צהבהבים ב-KOH, לא-עמילניים וציאנופיליים.",
+        "habitat": "סאפרוטרופית על מחטי מחטניים מרקיבות, נשורת יערות רחבי עלים, קרקע עשירה בהומוס, קומפוסט ולעיתים נסורת לחה או חיפוי שבבי עץ ביערות מחטניים, נשירים ומעורבים, ומניבה קבוצות גדולות, קשתות או טבעות מכשפות העשויות להגיע לקוטר של כמעט 20 מטר. באירופה הממוזגת היא מניבה בעיקר מיוני עד נובמבר, ולעיתים שורדת עד ינואר בעונות מתונות; בצפון אמריקה היא מניבה בקיץ ובסתיו, או לאורך החורף באקלים חופי מתון יותר כגון קליפורניה.",
+        "uses": "אכיל בזהירות. אף שהיא נאכלת באופן מסורתי בחלקים מאירופה, איכותה הקולינרית צנועה, כמויות גדולות עלולות לגרום להפרעות עיכול, והצריכה שלה אינה מומלצת כלל באזורים שבהם מצוי המין הדומה והרעיל מאוד Paralepistopsis amoenolens.",
+        "confusion": "ל-Paralepistopsis amoenolens, הגורם להרעלת אקרומללגיה (אריתרומללגיה) קשה, יש כובע בז' חיוור יותר ושקוע פחות לעומק, ריח מתוק חזק ונבגים אליפסואידיים חלקים במקום נבגים תת-כדוריים קוצניים. Infundibulicybe gibba בעל גוון בז' חיוור הרבה יותר, שומר לרוב על פיטם מרכזי קטן, דפיו הלבנים צפופים פחות, והוא מייצר נבגים חלקים גדולים יותר בצורת טיפה. Paralepista gilva הוא צהוב-אוכרה חיוור יותר, חסון יותר, ומעוטר בדרך כלל בכתמים מימיים כהים קונצנטריים על הכובע. Cantharellus cibarius בשרני יותר, צהוב עז יותר, ונושא רכסים עבים, קהים ומסתעפים במקום דפים אמיתיים דקים וצפופים.",
+        "notes": "שתי צורות אקולוגיות נחשבו במשך זמן רב למינים נפרדים: צורה חיוורת, עמומה ורפה יותר ביערות רחבי עלים וצורה אדמדמה-חום-זהוב עמוקה יותר, מבריקה ומוצקה יותר תחת מחטניים, אך שתיהן חולקות מאפיינים מיקרוסקופיים זהים ומאוחדות כיום למין משתנה אחד. מאחר ש-Paralepistopsis amoenolens התפשט צפונה אל מרכז אירופה, הוסר מין זה מן הרשימה הרשמית של פטריות המאכל המותרות לשיווק בשווייץ."
+      },
+      "hi": {
+        "description": "यह एक मध्यम आकार का मृतोपजीवी गिल-युक्त छत्रक मशरूम है, जो जंगलों में पत्तियों के कूड़े, शंकुधारी सुइयों, ह्यूमस से भरपूर मिट्टी और कभी-कभी नम लकड़ी के टुकड़ों पर समूहों में, अक्सर चापों या परी-वलयों (फेयरी रिंग्स) में उगता है। उत्तरी गोलार्ध के समशीतोष्ण क्षेत्रों में व्यापक रूप से फैला यह कवक पूरे यूरोप, पश्चिमी एशिया और उत्तरी अमेरिका में प्रशांत उत्तर-पश्चिम से लेकर ग्रेट लेक्स और एपलाशियन पर्वतमाला तक पाया जाता है।",
+        "cap": "टोपी 2–10 सेमी चौड़ी होती है; युवा अवस्था में यह उभरी हुई और अंदर मुड़े किनारे वाली होती है, तथा शीघ्र ही चपटी होकर बिना किसी केंद्रीय उभार (अंबो) के गहरे धँसे हुए या कीप के आकार की हो जाती है, जिसका किनारा तीखा, लहरदार और अक्सर कुछ पालिवत या टोंटी जैसा होता है; मौसम के अंत में निकलने वाले फलनकाय कभी-कभी उभरे हुए ही रहते हैं। सतह चिकनी, बिना चमक से हल्की चमकदार या नमी में चिपचिपी, शीघ्र सूखने वाली और आर्द्रताग्राही (हाइग्रोफैनस) होती है, जिसका रंग भूरा-नारंगी, लाल-गेरुआ, दालचीनी-भूरा या गुलाबी-बफ़ होता है, जो आमतौर पर केंद्र में अधिक गहरा होता है और सूखने पर हल्का बफ़ हो जाता है। पोटैशियम हाइड्रॉक्साइड (KOH) टोपी की सतह को पीला कर देता है।",
+        "hymenium": "गिल्स डंठल पर गहराई तक नीचे उतरे हुए, पतले और घने होते हैं, जिनमें बार-बार छोटे उप-गिल्स (लैमेलुली) पाए जाते हैं, और इन्हें टोपी के गूदे से अलग करना अपेक्षाकृत आसान होता है। युवा अवस्था में ये हल्के क्रीम, सफ़ेद-से या हल्के खुबानी-बफ़ रंग के होते हैं, और परिपक्व होने पर हल्के भूरे-नारंगी, गेरुए या नारंगी-भूरे हो जाते हैं, फिर भी टोपी से हल्के ही रहते हैं। बेसिडिया गदाकार, चार-बीजाणु वाले और 22–28 × 4–6 µm आकार के होते हैं; सिस्टिडिया अनुपस्थित होते हैं और क्लैम्प कनेक्शन मौजूद रहते हैं।",
+        "stipe": "डंठल 2–7 सेमी लंबा (कभी-कभी 10 सेमी तक) और 0.4–1.5 सेमी मोटा, बेलनाकार, एकसमान या आधार की ओर थोड़ा चौड़ा होता है, जो युवा अवस्था में मज़बूत व भरा हुआ रहता है और उम्र के साथ स्पंजी से संकरे खोखले रूप में बदल जाता है। यह सूखा और चिकना से लेकर हल्का रेशेदार होता है, टोपी जैसा पर उससे हल्के रंग का और बिना छल्ले का होता है, तथा इसके आधार पर सफ़ेद से हल्के बफ़ रंग के रूई जैसे कवकजाल की भरपूर परत होती है जो आसपास की सुइयों और पत्तियों के कूड़े को आपस में बांधती है।",
+        "flesh": "गूदा पतला, युवा अवस्था में काफी दृढ़ और उम्र के साथ नरम पड़ने वाला, सफ़ेद-से से क्रीम या हल्के बफ़-भूरे रंग का होता है, और काटने पर इसका रंग नहीं बदलता। इसकी गंध सुखद रूप से मीठी, हल्की सुगंधित या सौम्य काष्ठीय-कवक जैसी होती है, और स्वाद हल्का से थोड़ा खट्टा या हल्का कड़वा होता है।",
+        "sporePrint": "सफ़ेद से हल्का क्रीम-पीला, कभी-कभी बहुत हल्की गुलाबी आभा के साथ। बीजाणु 3–5 × 3–4.5 µm (सजावट सहित) आकार के, उप-गोलाकार से चौड़े दीर्घवृत्ताकार, सूक्ष्म मस्सेदार से काँटेदार होते हैं जिनमें 0.5–1 µm लंबे काँटे होते हैं, KOH में पारदर्शी से पीलापन लिए हुए, गैर-एमाइलॉइड और सायनोफिलिक होते हैं।",
+        "habitat": "यह शंकुधारी, पर्णपाती और मिश्रित वनों में सड़ती हुई शंकुधारी सुइयों, चौड़ी पत्ती वाले वनों के कूड़े, ह्यूमस-समृद्ध मिट्टी, खाद और कभी-कभी नम बुरादे या लकड़ी के टुकड़ों की मल्च पर मृतोपजीवी के रूप में उगता है, और बड़े झुंडों, चापों या लगभग 20 मीटर चौड़े परी-वलयों में फलता है। समशीतोष्ण यूरोप में यह मुख्यतः जून से नवंबर तक उगता है और हल्के मौसम में कभी-कभी जनवरी तक बना रहता है; उत्तरी अमेरिका में यह गर्मियों और पतझड़ में, या कैलिफ़ोर्निया जैसे सौम्य तटीय जलवायु वाले क्षेत्रों में पूरे जाड़े में फलता है।",
+        "uses": "सावधानी के साथ खाद्य। यद्यपि यूरोप के कुछ हिस्सों में इसे पारंपरिक रूप से खाया जाता है, इसकी पाक गुणवत्ता साधारण है, अधिक मात्रा में सेवन से पाचन संबंधी गड़बड़ी हो सकती है, और उन क्षेत्रों में इसके सेवन को दृढ़ता से हतोत्साहित किया जाता है जहाँ खतरनाक रूप से विषैली मिलती-जुलती प्रजाति Paralepistopsis amoenolens पाई जाती है।",
+        "confusion": "Paralepistopsis amoenolens, जो गंभीर एक्रोमेलैल्जिया (एरिथ्रोमेलैल्जिया) विषाक्तता का कारण बनता है, की टोपी अधिक हल्के बेज रंग की और कम गहरी धँसी हुई होती है, गंध तेज़ मीठी होती है, तथा इसके बीजाणु काँटेदार उप-गोलाकार होने के बजाय चिकने और दीर्घवृत्ताकार होते हैं। Infundibulicybe gibba बहुत अधिक हल्के बफ़ रंग का होता है, आमतौर पर इसमें एक छोटा केंद्रीय उभार बना रहता है, इसके सफ़ेद गिल्स कम घने होते हैं, और यह आँसू के आकार के बड़े व चिकने बीजाणु बनाता है। Paralepista gilva अधिक हल्का गेरुआ-पीला और अधिक मज़बूत होता है, तथा इसकी टोपी पर आमतौर पर संकेंद्रित गहरे जलीय धब्बे पाए जाते हैं। Cantharellus cibarius अधिक गूदेदार और चमकीला पीला होता है, तथा इसमें पतले व घने वास्तविक गिल्स के बजाय मोटे, कुंद और द्विशाखित उभार होते हैं।",
+        "notes": "दो पारिस्थितिक रूपों को लंबे समय तक अलग प्रजातियाँ माना जाता था: चौड़ी पत्ती वाले वनों में पाया जाने वाला अधिक हल्का, बिना चमक वाला और अधिक शिथिल रूप, तथा शंकुधारी वृक्षों के नीचे पाया जाने वाला गहरा लाल-भूरा, अधिक चमकदार और अधिक दृढ़ रूप; लेकिन दोनों के सूक्ष्मदर्शी लक्षण बिल्कुल समान हैं और अब इन्हें एक ही परिवर्तनशील प्रजाति के रूप में एकीकृत कर दिया गया है। चूँकि Paralepistopsis amoenolens उत्तर की ओर मध्य यूरोप में फैल गया है, इसलिए इस प्रजाति को स्विट्ज़रलैंड में बाज़ार में बेचे जाने योग्य खाद्य मशरूमों की आधिकारिक सूची से हटा दिया गया है।"
+      },
+      "hr": {
+        "description": "Srednje velika saprotrofna lističasta gljiva koja plodonosi skupno, često u lukovima ili vilinim kolima, na šumskom otpalom lišću, četinjačkim iglicama, tlu bogatom humusom te povremeno na vlažnoj drvnoj sječki. Široko je rasprostranjena u umjerenom pojasu sjeverne polutke, a javlja se diljem Europe, zapadne Azije te u Sjevernoj Americi od pacifičkog sjeverozapada do Velikih jezera i Apalačkog gorja.",
+        "cap": "Klobuk je promjera 2–10 cm, u mladosti ispupčen s podvinutim rubom, ubrzo se izravnava i postaje duboko ulegnut ili ljevkast bez središnje grbice, s oštrim, valovitim, često pomalo krpastim ili izljevasto savijenim rubom; kasnojesenska plodna tijela povremeno ostaju ispupčena. Površina je glatka, mat do blago sjajna ili ljepljiva za vlažna vremena, ubrzo suha i higrofana, obojena riđenarančasto, crvenkastooker, cimetnosmeđe ili ružičastoblijedosmeđe, obično tamnija u sredini te pri sušenju blijedi u svijetlu kožastožutu nijansu. Kalijev hidroksid (KOH) oboji površinu klobuka žuto.",
+        "hymenium": "Listići su duboko silazni niz stručak, tanki i gusti, s čestim kraćim listićima između njih, te se razmjerno lako odvajaju od mesa klobuka. U mladosti su blijedokrem, bjelkasti ili blijedo mareličnosmeđkasti, a sazrijevanjem postaju blijedoriđi, oker ili narančastosmeđi, ostajući pritom svjetliji od klobuka. Bazidiji su batinasti, četverosporni, veličine 22–28 × 4–6 µm; cistide nedostaju, a kopče su prisutne.",
+        "stipe": "Stručak je visok 2–7 cm (povremeno do 10 cm) i debeo 0,4–1,5 cm, valjkast, podjednake debljine ili blago proširen prema bazi, u mladosti žilav i pun, a starenjem spužvast do usko šupalj. Suh je i gladak do slabo vlaknast, obojen poput klobuka ali svjetliji, bez vjenčića, a pri bazi je obrastao obilnim bijelim do blijedosmeđkastim pamučastim micelijem koji povezuje okolne iglice i otpalo lišće.",
+        "flesh": "Meso je tanko, u mladosti prilično čvrsto, a starenjem omekšava, bjelkasto do krem ili blijedo kožastoriđe, te ne mijenja boju na presjeku. Miris je ugodno slatkast, blago mirisan ili nježno drvenasto-gljivarski, a okus blag do blago kiselkast ili jedva primjetno gorak.",
+        "sporePrint": "Otisak spora je bijel do blijedo kremastožut, povremeno s vrlo blagim ružičastim tonom. Spore su veličine 3–5 × 3–4,5 µm (uključujući ornamentaciju), gotovo kuglaste do široko elipsoidne, sitno bradavičaste do bodljikave s bodljama dugim 0,5–1 µm, u KOH hijaline do žućkaste, neamiloidne i cijanofilne.",
+        "habitat": "Raste saprotrofno na trulim iglicama četinjača, stelji listopadnih šuma, tlu bogatom humusom, kompostu te povremeno na vlažnoj piljevini ili malču od drvne sječke u crnogoričnim, bjelogoričnim i mješovitim šumama, gdje plodonosi u velikim skupinama, lukovima ili vilinim kolima promjera gotovo do 20 m. U umjerenom pojasu Europe plodonosi uglavnom od lipnja do studenoga, a u blagim sezonama povremeno opstaje i do siječnja; u Sjevernoj Americi plodonosi ljeti i u jesen, odnosno tijekom zime u blažim obalnim područjima poput Kalifornije.",
+        "uses": "Uvjetno jestiva gljiva. Iako se u nekim dijelovima Europe tradicionalno jede, njezina je kulinarska kakvoća skromna, veće količine mogu izazvati probavne tegobe, a konzumacija se snažno odvraća u područjima u kojima raste opasno otrovna slična vrsta Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, koja uzrokuje teško trovanje akromelalgijom (eritromelalgijom), ima bljeđi bež, pliće udubljen klobuk, snažan slatkast miris te glatke elipsoidne spore umjesto bodljikavih gotovo kuglastih. Mala martinčica (Infundibulicybe gibba) znatno je bljeđa, obično zadržava malu središnju grbicu, ima rjeđe bijele listiće te stvara veće glatke suzaste spore. Paralepista gilva je bljeđe okeržuta, robusnija i na klobuku najčešće ima koncentrično raspoređene tamnije vodenaste pjege. Lisičarka (Cantharellus cibarius) je mesnatija, sjajnije žuta te umjesto tankih gustih pravih listića nosi debele, tupe, račvaste žilice.",
+        "notes": "Dva su se ekološka oblika dugo smatrala zasebnim vrstama: bljeđi, mat i mlohaviji oblik iz bjelogoričnih šuma te izrazitije crvenkastoriđi, sjajniji i čvršći oblik pod četinjačama, no oba imaju istovjetne mikroskopske značajke te su danas ujedinjena u jednu promjenjivu vrstu. Budući da se vrsta Paralepistopsis amoenolens proširila prema sjeveru u srednju Europu, ova je gljiva u Švicarskoj uklonjena sa službenog popisa tržišnih jestivih gljiva."
+      },
+      "hu": {
+        "description": "Közepes termetű szaprotróf lemezes gomba, amely csoportosan, gyakran ívekben vagy boszorkánykörökben terem erdei avaron, fenyőtűkön, humuszban gazdag talajon, és alkalmilag nedves faaprítékon. Az északi félteke mérsékelt övében széles körben elterjedt: előfordul Európa-szerte, Nyugat-Ázsiában és Észak-Amerikában a csendes-óceáni északnyugati vidéktől a Nagy-tavakig és az Appalache-hegységig.",
+        "cap": "A kalap 2–10 cm széles, fiatalon domború, begöngyölt szélű, hamar kiterül és mélyen bemélyedővé vagy tölcséressé válik középső púp nélkül, éles, hullámos, gyakran kissé karéjos vagy csőrösen lehajló széllel; a késői termőtestek alkalmilag domborúak maradnak. Felszíne sima, mattól enyhén fénylőig vagy nedvesen kissé tapadósig változik, hamar szárad és higrofán; színe sárgásbarnás-narancsos, vörösesokker, fahéjbarna vagy rózsás krémszínű, a közepén jellemzően sötétebb, száradva pedig halvány krémszínűre fakul. A kálium-hidroxid (KOH) sárgára színezi a kalap felszínét.",
+        "hymenium": "A lemezek mélyen lefutók, vékonyak, sűrűk, gyakori rövid köztes lemezekkel, és viszonylag könnyen leválaszthatók a kalap húsáról. Fiatalon halványkrémek, fehéresek vagy halvány sárgabarack-krémszínűek, éretten halvány rőtsárgák, okkeresek vagy narancsosbarnák, de világosabbak maradnak a kalapnál. A bazídiumok bunkósak, négyspórásak, 22–28 × 4–6 µm méretűek; cisztídiumok nincsenek, csatok jelen vannak.",
+        "stipe": "A tönk 2–7 cm magas (alkalmilag legfeljebb 10 cm) és 0,4–1,5 cm vastag, hengeres, egyenletes vagy a töve felé kissé vastagodó, fiatalon szívós és tömött, idővel szivacsos-beles vagy keskenyen üreges lesz. Száraz, sima vagy gyengén szálas, színe a kalapéval azonos, de halványabb, gallérja nincs, tövét pedig bőséges fehér vagy halványkrém vattás micélium borítja, amely összefogja a környező tűleveleket és az avart.",
+        "flesh": "A hús vékony, fiatalon meglehetősen kemény, majd idővel megpuhul, fehérestől a krémszínűig vagy halvány barnássárgás-krémszínűig terjed, és vágásra nem változik. Illata kellemesen édeskés, enyhén illatos vagy lágyan fás-gombaszagú, íze enyhétől enyhén savanykásig vagy gyengén kesernyésig változik.",
+        "sporePrint": "A spórapor fehértől a halvány krémsárgáig terjed, alkalmilag nagyon halvány rózsás árnyalattal. A spórák 3–5 × 3–4,5 µm méretűek (a díszítéssel együtt), majdnem gömbölydedtől széles ellipszoidig terjedők, apró szemölcsöktől 0,5–1 µm hosszú tüskécskékkel borítottak, KOH-ban színtelenek vagy sárgásak, nem amiloidok és cianofilok.",
+        "habitat": "Élőhelye szaprotróf: korhadó fenyőtűkön, lombos erdei avaron, humuszos talajon, komposzton, valamint alkalmilag nedves fűrészporon vagy faaprítékos mulcson nő tűlevelű, lombos és vegyes erdőkben, nagy csoportokban, ívekben vagy közel 20 m átmérőt is elérő boszorkánykörökben. A mérsékelt éghajlatú Európában főként júniustól novemberig terem, enyhébb teleken néha januárig is kitart; Észak-Amerikában nyáron és ősszel jelenik meg, vagy az enyhébb tengerparti területeken, például Kaliforniában, télen is.",
+        "uses": "Feltételesen ehető. Bár Európa egyes részein hagyományosan fogyasztják, kulináris értéke szerény, nagy mennyiségben emésztési panaszokat okozhat, fogyasztása pedig kifejezetten ellenjavallt azokon a vidékeken, ahol a veszélyesen mérgező hasonmás, a Paralepistopsis amoenolens előfordul.",
+        "confusion": "A hasonló fajok közül a súlyos akromelalgiás (eritromelalgiás) mérgezést okozó Paralepistopsis amoenolens kalapja halványabb bézs színű és kevésbé mélyen tölcséres, erős édeskés szagú, spórái pedig simák és ellipszoidok a tüskés, majdnem gömbölyded spórák helyett. Az Infundibulicybe gibba sokkal halványabb krémszínű, rendszerint megőrzi kis középső púpját, ritkább állású fehér lemezei vannak, és nagyobb, sima, könnycsepp alakú spórákat fejleszt. A Paralepista gilva halványabb okkersárga, zömökebb, és kalapján jellemzően koncentrikus, sötétebb vizenyős foltok láthatók. A Cantharellus cibarius húsosabb, élénksárgább, és vékony, sűrű valódi lemezek helyett vastag, tompa, villásan elágazó ráncokat visel.",
+        "notes": "Két ökológiai alakját sokáig külön fajként kezelték: a lombos erdőkben növő halványabb, matt, lazább húsú alakot és a fenyők alatt előforduló mélyebb vörösesbarna, fényesebb, keményebb alakot, ám mindkettő azonos mikroszkópos bélyegekkel rendelkezik, így ma egyetlen változékony fajként egyesítik őket. Mivel a Paralepistopsis amoenolens észak felé terjeszkedve megjelent Közép-Európában, ezt a fajt törölték a Svájcban árusítható ehető gombák hivatalos listájáról."
+      },
+      "id": {
+        "description": "Jamur berlamela saprotrof berukuran sedang yang tumbuh berkelompok, sering kali membentuk lengkungan atau lingkaran peri, di atas serasah daun hutan, jarum konifer, tanah kaya humus, dan sesekali serpihan kayu yang lembap. Tersebar luas di Belahan Bumi Utara beriklim sedang, jamur ini ditemukan di seluruh Eropa, Asia Barat, dan Amerika Utara mulai dari Pasifik Barat Laut hingga Great Lakes dan Pegunungan Appalachia.",
+        "cap": "Berdiameter 2–10 cm, cembung dengan tepi menggulung ke dalam saat muda, segera mendatar lalu menjadi cekung dalam atau berbentuk corong tanpa tonjolan tengah, dengan tepi yang tajam, bergelombang, sering kali agak berlekuk atau menyerupai cerat; tubuh buah di akhir musim sesekali tetap berbentuk cembung. Permukaannya halus, kusam hingga sedikit mengilap atau lengket saat lembap, segera mengering, serta bersifat higrofan, berwarna jingga kekuningan kecokelatan, oker kemerahan, cokelat kayu manis, atau cokelat kekuningan pucat kemerahan, umumnya lebih gelap di bagian tengah dan memudar menjadi cokelat kekuningan pucat saat mengering. Kalium hidroksida (KOH) mengubah permukaan tudung menjadi kuning.",
+        "hymenium": "Lamela menempel menurun dalam pada tangkai, tipis, dan rapat dengan banyak lamela pendek di antaranya, serta relatif mudah dipisahkan dari daging tudung. Berwarna krem pucat, keputihan, atau cokelat aprikot pucat saat muda, lalu matang menjadi cokelat kekuningan pucat, oker, atau cokelat kejinggaan namun tetap lebih pucat daripada tudung. Basidia berbentuk gada, berspora empat, dan berukuran 22–28 × 4–6 µm; sistidia tidak ada, dan sambungan klem ditemukan.",
+        "stipe": "Tinggi 2–7 cm (sesekali hingga 10 cm) dan tebal 0,4–1,5 cm, silindris, berdiameter sama atau sedikit melebar ke arah pangkal, liat dan padat berisi saat muda, lalu menjadi berserat lunak hingga berongga sempit seiring usia. Kering dan halus hingga berserabut samar, berwarna seperti tudung tetapi lebih pucat, tanpa cincin, serta diselimuti di bagian pangkal oleh miselium lebat seperti kapas berwarna putih hingga cokelat kekuningan pucat yang mengikat jarum konifer dan serasah daun di sekitarnya.",
+        "flesh": "Tipis, cukup padat saat muda dan melunak seiring usia, berwarna keputihan hingga krem atau cokelat kekuningan pucat, dan tidak berubah warna saat dipotong. Baunya manis menyenangkan, sedikit harum, atau beraroma kayu-jamur yang lembut, sedangkan rasanya ringan hingga sedikit asam atau agak pahit.",
+        "sporePrint": "Putih hingga kuning krem pucat, sesekali dengan semburat merah muda yang sangat samar. Spora berukuran 3–5 × 3–4,5 µm (termasuk ornamentasi), hampir bulat hingga elipsoid lebar, berbintil halus hingga berduri dengan duri sepanjang 0,5–1 µm, hialin hingga kekuningan dalam KOH, non-amiloid, dan sianofilik.",
+        "habitat": "Bersifat saprotrof pada jarum konifer yang membusuk, serasah hutan berdaun lebar, tanah kaya humus, kompos, serta sesekali serbuk gergaji lembap atau mulsa serpihan kayu di hutan konifer, hutan gugur, dan hutan campuran, berbuah dalam kelompok besar, lengkungan, atau lingkaran peri yang diameternya dapat mencapai hampir 20 m. Di Eropa beriklim sedang, jamur ini terutama berbuah dari Juni hingga November, sesekali bertahan hingga Januari pada musim yang hangat; di Amerika Utara berbuah pada musim panas dan musim gugur, atau sepanjang musim dingin di wilayah pesisir beriklim lebih sejuk seperti California.",
+        "uses": "Dapat dimakan dengan hati-hati. Meskipun secara tradisional dikonsumsi di beberapa bagian Eropa, kualitas kulinernya biasa saja, konsumsi dalam jumlah besar dapat menyebabkan gangguan pencernaan, dan penggunaannya sangat tidak dianjurkan di wilayah tempat spesies serupa yang sangat beracun Paralepistopsis amoenolens ditemukan.",
+        "confusion": "Paralepistopsis amoenolens, yang menyebabkan keracunan akromelalgia (eritromelalgia) berat, memiliki tudung berwarna krem kecokelatan yang lebih pucat dan tidak terlalu cekung dalam, bau manis yang kuat, serta spora elipsoid yang halus alih-alih hampir bulat berduri. Infundibulicybe gibba berwarna cokelat kekuningan jauh lebih pucat, biasanya mempertahankan tonjolan kecil di tengah, memiliki lamela putih yang kurang rapat, dan menghasilkan spora halus berbentuk tetesan air mata yang lebih besar. Paralepista gilva berwarna kuning oker lebih pucat, lebih kokoh, dan biasanya bertanda bercak-bercak berair lebih gelap yang tersusun konsentris pada tudung. Cantharellus cibarius berdaging lebih tebal, berwarna kuning lebih cerah, dan memiliki pematang tebal, tumpul, serta bercabang alih-alih lamela sejati yang tipis dan rapat.",
+        "notes": "Dua bentuk ekologi lama diperlakukan sebagai spesies terpisah: bentuk yang lebih pucat, kusam, dan lebih lunak di hutan berdaun lebar serta bentuk yang lebih merah kecokelatan tua, lebih mengilap, dan lebih keras di bawah konifer, namun keduanya memiliki ciri mikroskopis yang identik dan kini disatukan sebagai satu spesies yang bervariasi. Karena Paralepistopsis amoenolens telah meluas ke utara hingga Eropa Tengah, spesies ini dihapus dari daftar resmi jamur pangan pasar di Swiss."
+      },
+      "it": {
+        "description": "Fungo a lamelle saprotrofo di dimensioni medie che fruttifica gregario, spesso in archi o cerchi delle streghe, su lettiera di foglie boschiva, aghi di conifere, suoli ricchi di humus e occasionalmente cippato di legno umido. Ampiamente distribuito nell'emisfero boreale temperato, è presente in tutta Europa, nell'Asia occidentale e in Nordamerica, dal Nord-Ovest Pacifico ai Grandi Laghi e agli Appalachi.",
+        "cap": "2–10 cm di diametro, convesso con margine involuto da giovane, presto disteso e profondamente depresso o imbutiforme senza umbone centrale, con margine acuto, ondulato, spesso un po' lobato o a beccuccio; i carpofori tardivi rimangono talvolta convessi. La superficie è liscia, da opaca a leggermente lucida o appiccicosa con l'umidità, presto asciutta e igrofana, di colore fulvo-arancio, ocra-rossastro, bruno-cannella o camoscio rosato, tipicamente più scura al centro e schiarente verso il camoscio pallido asciugandosi. L'idrossido di potassio (KOH) vira al giallo la superficie del cappello.",
+        "hymenium": "Lamelle profondamente decorrenti, sottili e fitte, con frequenti lamellule corte, relativamente facili da separare dalla carne del cappello. Crema pallido, biancastre o albicocca-camoscio pallido da giovani, maturano verso il fulvo pallido, l'ocra o il bruno-aranciato rimanendo più chiare del cappello. I basidi sono clavati, tetrasporici e misurano 22–28 × 4–6 µm; i cistidi sono assenti e i giunti a fibbia sono presenti.",
+        "stipe": "2–7 cm di altezza (occasionalmente fino a 10 cm) e 0,4–1,5 cm di spessore, cilindrico, uguale o leggermente ingrossato verso la base, tenace e pieno da giovane, poi midolloso fino a strettamente cavo con l'età. Asciutto e da liscio a debolmente fibrilloso, concolore al cappello ma più pallido, privo di anello e rivestito alla base da abbondante micelio cotonoso da bianco a camoscio pallido che ingloba aghi e lettiera circostanti.",
+        "flesh": "Sottile, abbastanza soda da giovane e più tenera con l'età, da biancastra a crema o fulvo-camoscio pallido, immutabile al taglio. L'odore è gradevolmente dolciastro, debolmente fragrante o leggermente legnoso-fungino, e il sapore è mite fino a lievemente acidulo o debolmente amarognolo.",
+        "sporePrint": "Bianca fino a giallo crema pallido, occasionalmente con una leggerissima sfumatura rosata. Le spore misurano 3–5 × 3–4,5 µm (ornamentazione inclusa), sono da subglobose a largamente ellissoidali, minutamente verrucose o spinose con spine lunghe 0,5–1 µm, ialine o giallastre in KOH, inamiloidi e cianofile.",
+        "habitat": "Saprotrofo su aghi di conifere in decomposizione, lettiera di boschi di latifoglie, suolo ricco di humus, compost e occasionalmente segatura umida o pacciamatura di cippato di legno in boschi di conifere, di latifoglie e misti, fruttificando in grandi gruppi, archi o cerchi delle streghe che possono raggiungere quasi 20 m di diametro. Nell'Europa temperata fruttifica principalmente da giugno a novembre, persistendo occasionalmente fino a gennaio nelle stagioni miti; in Nordamerica fruttifica in estate e in autunno, oppure durante l'inverno nei climi costieri più miti come la California.",
+        "uses": "Commestibile con riserva. Sebbene consumato tradizionalmente in alcune zone d'Europa, la sua qualità culinaria è modesta, quantità elevate possono provocare disturbi digestivi e il consumo è fortemente sconsigliato nelle regioni in cui è presente la specie sosia pericolosamente tossica Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, che causa gravi avvelenamenti da acromelalgia (eritromelalgia), presenta un cappello beige più pallido e meno profondamente depresso, un forte odore dolciastro e spore ellissoidali lisce anziché subglobose e spinose. Infundibulicybe gibba è di un camoscio molto più chiaro, conserva di solito un piccolo umbone centrale, ha lamelle bianche meno fitte e produce spore lisce più grandi a forma di lacrima. Paralepista gilva è giallo ocra più pallido, più robusta e tipicamente segnata sul cappello da macchie acquose concentriche più scure. Cantharellus cibarius è più carnoso, di un giallo più vivo e porta pieghe spesse, ottuse e biforcate anziché vere lamelle sottili e fitte.",
+        "notes": "Due forme ecologiche sono state a lungo trattate come specie distinte: una forma più pallida, opaca e più flaccida nei boschi di latifoglie e una forma fulvo-rossastra più carica, più lucida e più soda sotto le conifere, ma entrambe condividono caratteri microscopici identici e sono oggi riunite in un'unica specie variabile. Poiché Paralepistopsis amoenolens si è espansa verso nord nell'Europa centrale, questa specie è stata rimossa dall'elenco ufficiale dei funghi commestibili commercializzabili in Svizzera."
+      },
+      "ja": {
+        "description": "林内の落葉層、針葉、腐植に富む土壌、ときに湿ったウッドチップ上に群生し、しばしば弧状や菌輪を描いて発生する中型の腐生性ハラタケ類です。北半球の温帯域に広く分布し、ヨーロッパ、西アジア、および北アメリカの太平洋岸北西部から五大湖周辺、アパラチア山脈にかけて見られます。",
+        "cap": "径2–10 cmで、幼菌時は縁が内側に巻いたまんじゅう形ですが、すぐに平らに開いて中央に突起のない深い凹み状または漏斗形になり、縁は鋭く波打ち、しばしばやや裂片状または注ぎ口状になります。晩期のものはときにまんじゅう形のまま残ります。表面は平滑で、つやがないか湿時にはわずかに光沢や粘性があり、すぐに乾き、吸水性によって湿時と乾燥時で色が変化します。色は黄褐色味を帯びた橙色、赤黄土色、肉桂褐色、または桃色を帯びた淡黄褐色で、通常は中央部がより濃く、乾燥すると淡黄褐色へと褪色します。水酸化カリウム（KOH）溶液により、傘の表面は黄色に変わります。",
+        "hymenium": "ひだは深く垂生し、薄くて密に並び、短い小ひだが頻繁に交じり、傘の肉から比較的容易に剥がれます。幼時は淡いクリーム色、帯白色、または淡い杏黄褐色ですが、成熟すると傘より淡い色を保ったまま淡黄褐色、黄土色、または橙褐色になります。担子器はこん棒形で4胞子性、22–28 × 4–6 µmです。シスチジアはなく、かすがい連結が認められます。",
+        "stipe": "高さ2–7 cm（ときに最大10 cm）、太さ0.4–1.5 cmの円筒形で、上下同径か基部に向かってわずかに太くなり、幼時は強靭で中実ですが、老成すると髄状から狭い中空になります。表面は乾いており、平滑からかすかな繊維状で、傘と同色ながらより淡く、ツバを欠き、基部は周囲の針葉や落葉を絡め取る豊かな白色から淡黄褐色の綿状の菌糸体に覆われます。",
+        "flesh": "肉は薄く、幼時はかなり硬くて老成すると軟らかくなり、帯白色からクリーム色または淡い黄褐色を帯び、切断しても変色しません。においは心地よい甘みがあり、かすかに芳香を帯びるか穏やかな木質・キノコ様の香りがあり、味は穏やかからわずかに酸味またはかすかな苦味があります。",
+        "sporePrint": "胞子紋は白色から淡いクリーム黄色で、ときにごくかすかな桃色を帯びます。胞子は3–5 × 3–4.5 µm（突起を含む）で、亜球形から広楕円形、長さ0.5–1 µmの刺を含む微細なイボ状から刺状突起をもち、KOH中では無色から帯黄色で、非アミロイド性かつ好藍性を示します。",
+        "habitat": "針葉樹林、広葉樹林、および混交林において、腐朽した針葉、広葉樹の落葉層、腐植に富む土壌、堆肥、ときに湿ったおがくずやウッドチップマルチ上に腐生し、大きな群れや弧状、あるいは直径20 m近くに達する菌輪を作って発生します。温帯ヨーロッパでは主に6月から11月にかけて発生し、温暖な年には1月まで残ることがあります。北アメリカでは夏から秋にかけて発生しますが、カリフォルニアなど温暖な沿岸部では冬を通じて見られます。",
+        "uses": "条件付き食用です。ヨーロッパの一部では伝統的に食用とされてきましたが、食味としての評価は高くなく、多量に摂取すると消化器系の不調を引き起こすことがあります。また、危険な毒キノコである類似種Paralepistopsis amoenolensが分布する地域では、食用としないよう強く推奨されています。",
+        "confusion": "Paralepistopsis amoenolensは激しい肢端紅痛症（紅斑性肢痛症）の中毒を引き起こす種で、より淡いベージュ色で凹みの浅い傘と強い甘い香りを有し、刺状の亜球形胞子ではなく平滑な楕円形胞子を作ります。Infundibulicybe gibbaははるかに淡い淡黄褐色で、通常は中央に小さな突起が残り、白色のひだがより疎で、より大型で平滑な涙滴形の胞子を形成します。Paralepista gilvaはより淡い黄土黄色でがっしりしており、通常は傘に同心円状に並ぶ濃色の水浸状の斑点が見られます。Cantharellus cibariusは肉厚でより鮮やかな黄色をしており、薄く密な真のひだではなく、太く鈍頭で分岐する脈状の隆起を備えます。",
+        "notes": "長らく、広葉樹林に生える淡色でつやがなく軟弱な型と、針葉樹下に生えるより濃い赤黄褐色で光沢があり硬めの型の2つの生態型が別種として扱われてきましたが、両者は顕微鏡的特徴が完全に一致しており、現在では変異に富む単一の種に統合されています。Paralepistopsis amoenolensが中央ヨーロッパへ北上・拡大したことを受け、本種はスイスの公定市場食用キノコ一覧から除外されました。"
+      },
+      "ko": {
+        "description": "숲속의 낙엽층, 침엽수 잎, 부식질이 풍부한 토양 및 때때로 축축한 우드칩 위에서 무리 지어, 종종 활 모양이나 균환을 이루며 자라는 중형 부생성 주름버섯류입니다. 북반구 온대 전역에 널리 분포하며 유럽, 서아시아 및 태평양 북서부에서 오대호와 애팔래치아산맥에 이르는 북아메리카 전역에서 발견됩니다.",
+        "cap": "지름은 2–10 cm이며 어릴 때는 가장자리가 안으로 말린 볼록한 모양이다가 곧 편평해지고 가운데 돌기 없이 깊게 오목하거나 깔때기 모양이 되며, 가장자리는 날카롭고 물결 모양으로 종종 다소 갈라지거나 주둥이처럼 굽습니다. 늦은 계절에 자라는 자실체는 때때로 볼록한 모양을 유지하기도 합니다. 표면은 매끄럽고 광택이 없거나 습할 때 약간 윤기가 돌거나 끈적거리다가 곧 마르며, 수분에 따라 색이 변하는 흡수성이 있습니다. 색은 황갈색을 띤 주황색, 붉은 황토색, 계피갈색 또는 분홍빛을 띤 옅은 황갈색이며 보통 가운데가 더 어둡고 마르면서 옅은 황갈색으로 바랩니다. 수산화칼륨(KOH)을 떨어뜨리면 갓 표면이 노란색으로 변합니다.",
+        "hymenium": "주름살은 대에 깊게 내린형이며 얇고 빽빽하고 짧은 작은 주름살이 자주 섞여 있으며, 갓 살에서 비교적 쉽게 분리됩니다. 어릴 때는 옅은 크림색, 흰빛 또는 옅은 살구빛 담황갈색이다가 성숙하면서 갓보다 더 옅은 색을 유지한 채 옅은 황갈색, 황토색 또는 주황갈색이 됩니다. 담자기는 곤봉형이고 4포자성이며 크기는 22–28 × 4–6 µm입니다. 낭상체는 없고 꺾쇠연결이 존재합니다.",
+        "stipe": "대는 높이 2–7 cm(때로는 최대 10 cm), 굵기 0.4–1.5 cm의 원통형으로 위아래 굵기가 같거나 밑동 쪽으로 약간 굵어지며, 어릴 때는 질기고 속이 차 있다가 노화하면서 스펀지 같은 속에서 좁은 속빈 형태로 변합니다. 표면은 건조하고 매끄럽거나 희미한 섬유질이며 갓과 비슷하지만 더 옅은 색을 띠고 턱받이는 없으며, 밑동은 주변 침엽수 잎과 낙엽을 엉키게 하는 풍성한 흰색에서 옅은 담황갈색의 솜 같은 균사체로 덮여 있습니다.",
+        "flesh": "살은 얇고 어릴 때는 꽤 단단하다가 노화하면서 부드러워지며, 흰빛에서 크림색 또는 옅은 황갈색을 띠고 잘라도 색이 변하지 않습니다. 냄새는 기분 좋게 달콤하고 희미한 향기가 나거나 은은한 나무·버섯 냄새가 나며, 맛은 순하거나 약간 시큼하거나 희미하게 씁쓸합니다.",
+        "sporePrint": "포자문은 흰색에서 옅은 크림노란색이며 때때로 아주 희미한 분홍빛이 감돕니다. 포자는 3–5 × 3–4.5 µm(표면 돌기 포함)로 아구형에서 넓은 타원형이며 길이 0.5–1 µm의 가시가 있는 미세한 사마귀 모양에서 가시 모양의 돌기가 있고, KOH에서 투명하거나 노란빛을 띠며 비아밀로이드성이고 호청성입니다.",
+        "habitat": "침엽수림, 활엽수림, 혼효림에서 썩어가는 침엽수 잎, 활엽수림 낙엽층, 부식질이 풍부한 토양, 퇴비 및 때때로 축축한 톱밥이나 우드칩 멀치 위에서 부생하며 큰 무리, 활 모양 또는 지름이 거의 20 m에 달할 수 있는 균환을 이루어 발생합니다. 온대 유럽에서는 주로 6월부터 11월까지 발생하고 온화한 계절에는 간혹 1월까지 이어지기도 하며, 북아메리카에서는 여름과 가을에 발생하거나 캘리포니아처럼 온화한 해안 기후에서는 겨울 내내 자실체를 형성합니다.",
+        "uses": "주의해서 식용합니다. 유럽 일부 지역에서는 전통적으로 식용해 왔으나 식용 가치는 보통 수준이며, 많은 양을 섭취하면 소화 장애를 일으킬 수 있고 위험한 독버섯인 유사종 Paralepistopsis amoenolens가 분포하는 지역에서는 섭취하지 않을 것을 강력히 권고합니다.",
+        "confusion": "심각한 말단홍통증(홍반성 사지통증) 중독을 일으키는 Paralepistopsis amoenolens는 더 옅은 베이지색에 덜 깊게 오목한 갓과 강하고 달콤한 냄새를 지니며, 가시가 있는 아구형 포자 대신 매끄러운 타원형 포자를 만듭니다. Infundibulicybe gibba는 훨씬 더 옅은 담황갈색이며 보통 중앙에 작은 돌기가 남아 있고, 흰색 주름살이 덜 빽빽하며, 더 크고 매끄러운 물방울 모양의 포자를 형성합니다. Paralepista gilva는 더 옅은 황토노란색이고 더 단단하고 굵으며, 보통 갓 위에 동심원상으로 배열된 어두운 물에 젖은 듯한 반점이 나타납니다. Cantharellus cibarius는 살이 더 두껍고 더 선명한 노란색이며, 얇고 빽빽한 진짜 주름살 대신 두껍고 뭉툭하며 갈라지는 주름형 능선을 지닙니다.",
+        "notes": "오랫동안 활엽수림에 자라며 색이 더 옅고 광택이 없으며 연약한 생태형과 침엽수 아래에서 자라며 더 짙은 붉은 황갈색이고 윤기가 있으며 단단한 생태형이 별개의 종으로 취급되어 왔으나, 두 형은 현미경적 특징이 동일하여 현재는 변이가 큰 단일 종으로 통합되었습니다. Paralepistopsis amoenolens가 중앙유럽으로 북상하여 확산됨에 따라 이 종은 스위스의 공식 시장 판매용 식용버섯 목록에서 제외되었습니다."
+      },
+      "lt": {
+        "description": "Vidutinio dydžio saprotrofinis lakštabudis grybas, vaisiakūnius išauginantis grupėmis, dažnai lankais ar raganų ratilais, ant miško lapų paklotės, spyglių, humusingo dirvožemio, o kartais ir ant drėgnų medienos skiedrų. Jis plačiai paplitęs Šiaurės pusrutulio vidutinio klimato juostoje: aptinkamas visoje Europoje, Vakarų Azijoje ir Šiaurės Amerikoje nuo Ramiojo vandenyno šiaurės vakarų iki Didžiųjų ežerų ir Apalačų.",
+        "cap": "Kepurėlė 2–10 cm skersmens, jaunų grybų iškili su užsirietusiu kraštu, netrukus išsitiesia ir tampa giliai įdubusi arba piltuviška be centrinio gūbrelio, aštriu, banguotu, dažnai kiek skiautėtu ar snapelio pavidalo kraštu; vėlyvojo sezono vaisiakūniai kartais lieka iškilūs. Paviršius lygus, nuo matinio iki šiek tiek blizgaus arba drėgnas lipnus, greitai išdžiūstantis ir higrofaniškas, rusvai oranžinės, rausvai ochrinės, cinamoninės rudos ar rausvai kreminės spalvos, viduryje paprastai tamsesnis, o džiūdamas išblunka iki šviesiai kreminės. Kalio šarmas (KOH) kepurėlės paviršių nudažo geltonai.",
+        "hymenium": "Lakšteliai giliai nuaugtiniai, ploni, tankūs, su gausiais trumpais tarpiniais lakšteliais, palyginti lengvai atsiskiria nuo kepurėlės tramos. Jaunų grybų jie šviesiai kreminiai, balsvi arba šviesiai abrikosiškai kreminiai, bręstant tampa šviesiai rusvi, ochriniai ar oranžiškai rudi, tačiau išlieka šviesesni už kepurėlę. Bazidės buožiškos, ketursporės, 22–28 × 4–6 µm; cistidžių nėra, sagtelių yra.",
+        "stipe": "Kotas 2–7 cm aukščio (kartais iki 10 cm) ir 0,4–1,5 cm storio, cilindriškas, lygus arba šiek tiek platėjantis į pagrindą, jaunų grybų tamprus ir pilnaviduris, senstant tampa purus arba siaurai tuščiaviduris. Jis sausas, lygus ar silpnai plaušuotas, panašios į kepurėlę, bet šviesesnės spalvos, be rinkio, o pagrinde apgaubtas gausios baltos ar šviesiai kreminės vatinės grybienos, kuri suriša aplinkinius spyglius ir lapų paklotę.",
+        "flesh": "Trama plona, jaunų vaisiakūnių gana stangri, o senstant minkštėjanti, balsva, kreminė ar šviesiai kreminiai rusva, perpjovus spalvos nekeičia. Kvapas maloniai salstelėjęs, silpnai kvapnus arba švelniai medienos ir grybų, skonis švelnus iki silpnai rūgštoko ar lengvai kartoko.",
+        "sporePrint": "Sporų atspaudas nuo balto iki šviesiai kreminiai geltono, kartais su labai silpnu rausvu atspalviu. Sporos 3–5 × 3–4,5 µm (įskaitant ornamentiką), beveik rutuliškos iki plačiai elipsiškos, smulkiai karpotos arba dygliuotos su 0,5–1 µm ilgio dygliukais, KOH tirpale bespalvės iki gelsvų, neamiloidinės ir cianofilinės.",
+        "habitat": "Augavietė saprotrofinė ant pūvančių spyglių, lapuočių miško paklotės, humusingo dirvožemio, komposto, o kartais ant drėgnų pjuvenų ar medienos skiedrų mulčio spygliuočių, lapuočių ir mišriuose miškuose; auga didelėmis grupėmis, lankais arba raganų ratilais, kurie gali siekti beveik 20 m skersmens. Vidutinio klimato Europoje vaisiakūnius augina daugiausia nuo birželio iki lapkričio, švelniais sezonais kartais išlieka iki sausio; Šiaurės Amerikoje auga vasarą ir rudenį, o švelnesnio pakrančių klimato regionuose, pavyzdžiui, Kalifornijoje, – ir žiemą.",
+        "uses": "Sąlyginai valgomas. Nors kai kuriose Europos dalyse tradiciškai valgomas, jo kulinarinė vertė menka, didesni kiekiai gali sukelti virškinimo sutrikimų, o vartoti jį griežtai nerekomenduojama regionuose, kur paplitusi pavojingai nuodinga panaši rūšis Paralepistopsis amoenolens.",
+        "confusion": "Iš panašių rūšių sunkų apsinuodijimą akromelalgija (eritromelalgija) sukelianti Paralepistopsis amoenolens turi šviesesnę smėlio spalvos, sekliau įdubusią kepurėlę, stiprų saldų kvapą ir lygias elipsiškas sporas vietoj dygliuotų beveik rutuliškų. Infundibulicybe gibba yra gerokai šviesesnė kreminė, paprastai išlaiko nedidelį centrinį gūbrelį, turi retesnius baltus lakštelius ir užaugina didesnes lygias ašaros formos sporas. Paralepista gilva yra šviesesnė ochriškai geltona, stambesnė ir ant kepurėlės paprastai turi koncentriškų tamsesnių vandeningų dėmių. Cantharellus cibarius yra mėsingesnė, ryškiau geltona ir vietoj plonų tankių tikrųjų lakštelių turi storas, bukas, šakotas klostes.",
+        "notes": "Dvi ekologinės formos ilgą laiką buvo laikomos atskiromis rūšimis: šviesesnė, matinė ir gležnesnė forma lapuočių miškuose bei tamsesnė rausvai ruda, blizgesnė ir stangresnė forma po spygliuočiais, tačiau abi pasižymi tapačiais mikroskopiniais požymiais ir šiuo metu yra sujungtos į vieną kintamą rūšį. Kadangi Paralepistopsis amoenolens išplito į šiaurę link Vidurio Europos, ši rūšis buvo išbraukta iš oficialaus Šveicarijoje parduoti leidžiamų valgomųjų grybų sąrašo."
+      },
+      "lv": {
+        "description": "Vidēja izmēra saprotrofa lapiņu sēne, kas aug grupās, bieži lokos vai raganu apļos, uz meža lapu nobirām, skujām, trūdvielām bagātas augsnes un dažkārt uz mitrām koksnes skaidām. Tā ir plaši izplatīta Ziemeļu puslodes mērenajā joslā un sastopama visā Eiropā, Rietumāzijā, kā arī Ziemeļamerikā no Klusā okeāna ziemeļrietumiem līdz Lielajiem ezeriem un Apalačiem.",
+        "cap": "Cepurīte ir 2–10 cm plata, jaunībā izliekta ar ieritinātu malu, drīz izplešas un kļūst dziļi ieliekta vai piltuvveida bez centrāla paugura, ar asu, viļņotu, bieži nedaudz daivainu vai snīpjveida malu; vēlu rudenī augļķermeņi dažkārt paliek izliekti. Virsma ir gluda, no matētas līdz viegli spīdīgai vai mitrumā lipīgai, drīz nožūst un ir higrofāna, dzeltenbrūngani oranžā, sarkanīgi okera, kanēļbrūnā vai sārtā krēma krāsā, centrā parasti tumšāka un žūstot izbalē līdz gaišai krēmkrāsai. Kālija hidroksīds (KOH) cepurītes virsmu iekrāso dzeltenu.",
+        "hymenium": "Lapiņas ir dziļi nolaidenas, plānas, blīvas, ar biežām īsām starplapiņām un samērā viegli atdalāmas no cepurītes mīkstuma. Jaunām sēnēm tās ir gaiši krēmkrāsas, bālganas vai bāli aprikožu krēma krāsā, nogatavojoties kļūst gaiši rūsganbrūnas, okera vai oranžīgi brūnas, saglabājoties gaišākām par cepurīti. Bazīdijas ir vālesveida, četrsporu, 22–28 × 4–6 µm; cistīdu nav, un skavas ir klātesošas.",
+        "stipe": "Kātiņš ir 2–7 cm garš (dažkārt līdz 10 cm) un 0,4–1,5 cm resns, cilindrisks, vienāda resnuma vai pie pamatnes nedaudz paplašināts, jaunībā sīksts un pildīts, ar vecumu kļūst irdeni pildīts līdz šauri dobs. Tas ir sauss, gluds līdz vāji šķiedrains, cepurītes krāsā, bet gaišāks, bez gredzena, un pie pamatnes klāts ar bagātīgu baltu līdz gaiši krēmkrāsas vatesveida micēliju, kas satur kopā apkārtējās skujas un lapu nobiras.",
+        "flesh": "Mīkstums ir plāns, jaunībā diezgan stingrs, ar vecumu kļūst mīkstāks, bālgans līdz krēmkrāsas vai gaiši krēmīgi rūsgans un griezumā nemainās. Smarža ir patīkami saldena, viegli aromātiska vai maigi koksnes un sēņu, garša maiga līdz viegli skābenai vai nedaudz rūgtenai.",
+        "sporePrint": "Sporu nospiedums ir balts līdz gaiši krēmdzeltens, dažkārt ar ļoti vāju sārtu nokrāsu. Sporas ir 3–5 × 3–4,5 µm (ieskaitot ornamentējumu), gandrīz lodveida līdz plati elipsoīdas, smalki kārpiņainas līdz dzeloņainas ar 0,5–1 µm gariem dzelonīšiem, KOH šķīdumā bezkrāsainas līdz dzeltenīgas, neamiloīdas un cianofilas.",
+        "habitat": "Biotops ir saprotrofs uz trūdošām skujām, lapu koku meža nobirām, trūdvielām bagātas augsnes, komposta un dažkārt uz mitrām zāģu skaidām vai koksnes šķeldu mulčas skujkoku, lapkoku un jauktos mežos, veidojot lielas grupas, lokus vai raganu apļus, kas var sasniegt gandrīz 20 m diametrā. Mērenajā Eiropā augļķermeņi parādās galvenokārt no jūnija līdz novembrim, maigos gados dažkārt saglabājoties līdz janvārim; Ziemeļamerikā tā aug vasarā un rudenī vai maigākā piekrastes klimatā, piemēram, Kalifornijā, arī ziemā.",
+        "uses": "Nosacīti ēdama. Lai gan dažviet Eiropā to tradicionāli lieto uzturā, tās kulinārā vērtība ir pieticīga, lielos daudzumos tā var izraisīt gremošanas traucējumus, un tās lietošana stingri nav ieteicama reģionos, kur sastopama bīstami indīgā līdzinieksuga Paralepistopsis amoenolens.",
+        "confusion": "No līdzīgajām sugām Paralepistopsis amoenolens, kas izraisa smagu akromelalģijas (eritromelalģijas) saindēšanos, atšķiras ar bālāku bēšu, seklāk ieliektu cepurīti, spēcīgu saldu smaržu un gludām elipsoīdām sporām dzeloņaino gandrīz lodveida sporu vietā. Infundibulicybe gibba ir daudz gaišāka krēmkrāsā, parasti saglabā nelielu pauguriņu centrā, tai ir retākas baltas lapiņas un lielākas gludas lāsveida sporas. Paralepista gilva ir gaišāka okerdzeltenā krāsā, druknāka, un uz tās cepurītes parasti redzami koncentriski tumšāki ūdeņaini plankumi. Cantharellus cibarius ir gaļīgāka, košāk dzeltena un plānu, blīvu īsto lapiņu vietā nes biezas, strupas, zarotas krokotas joslas.",
+        "notes": "Divas ekoloģiskās formas ilgi tika uzskatītas par atsevišķām sugām: bālāka, matēta un mīkstāka forma lapkoku mežos un dziļāk sarkanbrūna, spīdīgāka un stingrāka forma zem skujkokiem, taču abām ir vienādas mikroskopiskās pazīmes un tagad tās ir apvienotas vienā mainīgā sugā. Tā kā Paralepistopsis amoenolens ir izplatījusies uz ziemeļiem Centrāleiropā, šī suga tika izņemta no Šveices oficiālā tirgū atļauto ēdamo sēņu saraksta."
+      },
+      "nl": {
+        "description": "Een middelgrote, saprotrofe plaatjeszwam die gezellig vruchtlichamen vormt, vaak in bogen of heksenkringen, op bladstrooisel in bossen, dennennaalden, humusrijke grond en af en toe op vochtige houtsnippers. De soort is wijdverspreid over het gematigde noordelijk halfrond en komt voor in heel Europa, West-Azië en in Noord-Amerika van het Pacifische Noordwesten tot de Grote Meren en de Appalachen.",
+        "cap": "De hoed is 2–10 cm breed, jong gewelfd met een ingerolde rand, al snel vlakker wordend en diep ingezonken tot trechtervormig zonder centrale umbo, met een scherpe, golvende, vaak wat gelobde of tuitvormige rand; laat in het seizoen verschijnende vruchtlichamen blijven soms gewelfd. Het oppervlak is glad, bij vocht mat tot licht glanzend of kleverig, al snel droog en hygrofaan, gekleurd roodbruin-oranje, roodachtig oker, kaneelbruin of roze-zeemkleurig, in het midden doorgaans donkerder en bij opdrogen verblekend tot bleek zeemkleurig. Kaliumhydroxide (KOH) kleurt het hoedoppervlak geel.",
+        "hymenium": "De plaatjes zijn diep aflopend, dun en staan dicht opeen, met talrijke korte tussenplaatjes (lamellulae), en zijn relatief gemakkelijk van het hoedvlees los te maken. Jong zijn ze bleek crème, witachtig of bleek abrikoos-zeemkleurig, en ze rijpen naar bleek roodbruin, oker of oranjebruin, maar blijven bleker dan de hoed. De basidiën zijn knotsvormig, viersporig en 22–28 × 4–6 µm; cystiden ontbreken en gespen zijn aanwezig.",
+        "stipe": "De steel is 2–7 cm hoog (af en toe tot 10 cm) en 0,4–1,5 cm dik, cilindrisch, gelijkdik of naar de basis toe iets verbreed, jong taai en gevuld, met de ouderdom mergachtig tot nauw hol. Hij is droog en glad tot zwak vezelig, gekleurd als de hoed maar bleker, zonder ring en aan de basis bekleed met overvloedig wit tot bleek zeemkleurig wollig mycelium dat omringende naalden en bladstrooisel samenspinselt.",
+        "flesh": "Het vlees is dun, jong vrij stevig en bij het ouder worden zachter, witachtig tot crème of bleek zeemkleurig-roodbruin, en onveranderlijk bij doorsnijden. De geur is aangenaam zoetig, zwak geurig of mild houtig-paddenstoelachtig, en de smaak is mild tot licht zuur of zwak bitter.",
+        "sporePrint": "De sporenprint is wit tot bleek crèmegeel, af en toe met een zeer zwakke roze tint. De sporen meten 3–5 × 3–4,5 µm (inclusief ornamentatie), zijn bijna bolvormig tot breed ellipsoïd, fijn wrattig tot stekelig met stekels van 0,5–1 µm lang, in KOH hyalien tot geelachtig, inamyloïd en cyanofiel.",
+        "habitat": "Saprotroof op verterende naalden, loofbosstrooisel, humusrijke grond, compost en af en toe op vochtig zaagsel of houtsnippermulch in naald-, loof- en gemengde bossen, waarbij grote groepen, bogen of heksenkringen worden gevormd die bijna 20 m breed kunnen worden. In gematigd Europa verschijnen de vruchtlichamen vooral van juni tot november, in zachte seizoenen soms tot in januari; in Noord-Amerika verschijnen ze in de zomer en herfst, of gedurende de winter in zachtere kustklimaten zoals Californië.",
+        "uses": "Eetbaar onder voorbehoud. Hoewel deze paddenstoel in delen van Europa traditioneel wordt gegeten, is de culinaire waarde bescheiden, kunnen grote hoeveelheden maag-darmklachten veroorzaken en wordt consumptie sterk afgeraden in streken waar de gevaarlijk giftige dubbelganger Paralepistopsis amoenolens voorkomt.",
+        "confusion": "Paralepistopsis amoenolens, die ernstige acromelalgie-vergiftiging (erytromelalgie) veroorzaakt, heeft een blekere beige, minder diep ingezonken hoed, een sterke zoete geur en gladde ellipsoïde sporen in plaats van stekelige, bijna bolvormige sporen. De slanke trechterzwam (Infundibulicybe gibba) is veel bleker zeemkleurig, behoudt gewoonlijk een kleine centrale umbo, heeft minder dicht opeenstaande witte plaatjes en vormt grotere, gladde traanvormige sporen. Paralepista gilva is bleker okergeel, robuuster en op de hoed typisch getekend met concentrische donkerdere watervlekken. De hanenkam (Cantharellus cibarius) is vleziger, helderder geel en draagt dikke, stompe, gevorkte ribbels in plaats van dunne, dicht opeenstaande echte plaatjes.",
+        "notes": "Twee ecologische vormen werden lange tijd als aparte soorten beschouwd: een blekere, matte, slappere vorm in loofbossen en een dieper roodbruine, glanzendere, stevigere vorm onder naaldbomen, maar beide hebben identieke microscopische kenmerken en worden nu verenigd als één variabele soort. Doordat Paralepistopsis amoenolens zich noordwaarts heeft uitgebreid tot in Midden-Europa, is deze soort in Zwitserland van de officiële lijst van marktwaardige eetbare paddenstoelen geschrapt."
+      },
+      "no": {
+        "description": "En mellomstor, saprotrof skivesopp som danner fruktlegemer selskapelig, ofte i buer eller hekseringer, på løvstrø i skog, barnåler, humusrik jord og av og til fuktig flis. Den er vidt utbredt på den tempererte nordlige halvkule og forekommer i hele Europa, Vest-Asia og i Nord-Amerika fra det nordvestlige Stillehavsområdet til De store sjøer og Appalachene.",
+        "cap": "Hatten er 2–10 cm bred, hvelvet med innrullet kant som ung, snart flatere og dypt nedsenket eller traktformet uten sentral pukkel, med skarp, bølget, ofte noe lappet eller tutformet kant; fruktlegemer sent i sesongen forblir av og til hvelvede. Overflaten er glatt, matt til svakt glinsende eller klebrig i fuktig vær, snart tørr og hygrofan, farget rødbrun-oransje, rødlig oker, kanelbrun eller rosa-læraktig, typisk mørkere i midten og bleknende til blekt læraktig ved uttørking. Kaliumhydroksid (KOH) farger hattoverflaten gul.",
+        "hymenium": "Skivene er dypt nedløpende, tynne og tette med hyppige korte mellomskiver, og de er forholdsvis lette å løsne fra hattekjøttet. De er blekt kremfargede, hvitaktige eller blekt aprikos-læraktige som unge, og modner til blekt rødbrune, oker eller oransjebrune, men forblir blekere enn hatten. Basidiene er kølleformede, firesporede og 22–28 × 4–6 µm; cystider mangler, og spenner finnes.",
+        "stipe": "Stilken er 2–7 cm høy (av og til opptil 10 cm) og 0,4–1,5 cm tykk, sylindrisk, jevntykk eller svakt utvidet mot basis, seig og fylt som ung, med alderen margfylt til trangt hul. Den er tørr og glatt til svakt trådet, farget som hatten men blekere, uten ring og ved basis kledd med rikelig hvitt til blekt læraktig, bomullsaktig mycel som binder omkringliggende nåler og løvstrø.",
+        "flesh": "Kjøttet er tynt, ganske fast som ungt og blir mykere med alderen, hvitaktig til kremfarget eller blekt læraktig-rødbrunt, og uforanderlig ved gjennomskjæring. Lukten er behagelig søtlig, svakt duftende eller mildt treaktig-soppaktig, og smaken er mild til svakt syrlig eller svakt bitter.",
+        "sporePrint": "Sporeavtrykket er hvitt til blekt kremgult, av og til med et svært svakt rosa skjær. Sporene er 3–5 × 3–4,5 µm (inkludert ornamentikk), nesten kulerunde til bredt ellipsoide, fint vortete til piggete med 0,5–1 µm lange pigger, hyaline til gulaktige i KOH, inamyloide og cyanofile.",
+        "habitat": "Saprotrof på råtnende barnåler, løvskogsstrø, humusrik jord, kompost og av og til fuktig sagflis eller flisdekke i bar-, løv- og blandingsskog, der den danner fruktlegemer i store klynger, buer eller hekseringer som kan bli nærmere 20 m i tverrmål. I temperert Europa danner den fruktlegemer hovedsakelig fra juni til november og holder seg av og til inn i januar i milde sesonger; i Nord-Amerika fruktifiserer den om sommeren og høsten, eller gjennom vinteren i mildere kystklima som California.",
+        "uses": "Spiselig med forbehold. Selv om den tradisjonelt spises i deler av Europa, er den kulinariske kvaliteten beskjeden, store mengder kan gi mage-tarm-besvær, og inntak frarådes på det sterkeste i områder der den farlig giftige dobbeltgjengeren Paralepistopsis amoenolens forekommer.",
+        "confusion": "Paralepistopsis amoenolens, som forårsaker alvorlig akromelalgi-forgiftning (erytromelalgi), har en blekere beige, mindre dypt nedsenket hatt, en sterk søt lukt og glatte ellipsoide sporer fremfor piggete, nesten kulerunde sporer. Sommertraktsopp (Infundibulicybe gibba) er langt blekere læraktig, beholder vanligvis en liten sentral pukkel, har mindre tette hvite skiver og danner større, glatte, dråpeformede sporer. Paralepista gilva er blekere okergul, mer robust og typisk tegnet med konsentriske, mørkere vannflekker på hatten. Kantarell (Cantharellus cibarius) er mer kjøttfull, klarere gul og har tykke, butte, gaffeldelte ribber i stedet for tynne, tette, ekte skiver.",
+        "notes": "To økologiske former ble lenge regnet som atskilte arter: en blekere, matt og slappere form i løvskog og en dypere rødbrun, blankere og fastere form under bartrær, men begge har identiske mikroskopiske kjennetegn og forenes nå som én variabel art. Fordi Paralepistopsis amoenolens har spredt seg nordover til Mellom-Europa, ble denne arten fjernet fra den offisielle listen over omsettelige matsopper i Sveits."
+      },
+      "pl": {
+        "description": "Średniej wielkości saprotroficzny grzyb blaszkowy owocnikujący gromadnie, często w łukach lub czarcich kręgach, na leśnej ściółce liściastej, igliwiu, glebie bogatej w próchnicę oraz niekiedy na wilgotnych zrębkach drewna. Szeroko rozprzestrzeniony w strefie umiarkowanej półkuli północnej, występuje w całej Europie, w Azji Zachodniej oraz w Ameryce Północnej od północno-zachodniego wybrzeża Pacyfiku po Wielkie Jeziora i Appalachy.",
+        "cap": "Kapelusz o średnicy 2–10 cm, za młodu wypukły z podwiniętym brzegiem, szybko staje się płaski i głęboko wklęsły do lejkowatego bez garbka w centrum, o ostrym, falistym, często nieco płatowatym lub rynienkowato wywiniętym brzegu; późnojesienne owocniki niekiedy pozostają wypukłe. Powierzchnia jest gładka, matowa do słabo błyszczącej lub nieco lepkiej w stanie wilgotnym, szybko wysychająca i higrofaniczna, barwy płowopomarańczowej, czerwonoochrowej, cynamonowobrązowej lub różowawo-płowej, zazwyczaj ciemniejsza w środku i blaknąca przy wysychaniu do jasnopłowej. Wodorotlenek potasu (KOH) barwi powierzchnię kapelusza na żółto.",
+        "hymenium": "Blaszki głęboko zbiegające na trzon, cienkie i gęste, z licznymi krótszymi blaszeczkami, stosunkowo łatwo oddzielające się od miąższu kapelusza. Za młodu są jasnokremowe, białawe lub blado morelowo-płowe, z wiekiem stają się jasnopłowe, ochrowe lub pomarańczowobrązowe, pozostając jaśniejsze od kapelusza. Podstawki są maczugowate, czterozarodnikowe, o wymiarach 22–28 × 4–6 µm; cystyd brak, występują sprzążki.",
+        "stipe": "Trzon o wysokości 2–7 cm (wyjątkowo do 10 cm) i grubości 0,4–1,5 cm, walcowaty, równogruby lub lekko rozszerzony ku podstawie, za młodu twardy i pełny, z wiekiem watowato wypełniony do wąsko rurkowatego. Jest suchy, gładki do delikatnie włóknistego, ubarwiony podobnie do kapelusza, lecz jaśniejszy, bez pierścienia, u podstawy obficie pokryty białą do jasnopłowej watowatą grzybnią spajającą okoliczne igliwie i opadłe liście.",
+        "flesh": "Miąższ cienki, za młodu dość jędrny, z wiekiem mięknący, białawy do kremowego lub blado płowoochrowego, niezmienny po przekrojeniu. Zapach przyjemnie słodkawy, lekko aromatyczny lub łagodnie drzewno-grzybowy, smak łagodny do lekko kwaskowatego lub słabo gorzkawego.",
+        "sporePrint": "Wysyp zarodników biały do blado kremowożółtego, niekiedy z bardzo słabym różowawym odcieniem. Zarodniki mają wymiary 3–5 × 3–4,5 µm (wraz z ornamentacją), są niemal kuliste do szeroko elipsoidalnych, drobno brodawkowate do kolczastych z kolcami o długości 0,5–1 µm, w KOH szkliste do żółtawych, nieamyloidalne i cyjanofilne.",
+        "habitat": "Grzyb saprotroficzny rosnący na rozkładającym się igliwiu, ściółce lasów liściastych, glebie bogatej w próchnicę, kompoście oraz niekiedy na wilgotnych trocinach lub ściółce ze zrębków drewna w lasach iglastych, liściastych i mieszanych, owocnikujący w dużych grupach, łukach lub czarcich kręgach osiągających niemal 20 m średnicy. W umiarkowanej strefie Europy owocnikuje głównie od czerwca do listopada, w łagodne sezony utrzymując się czasem do stycznia; w Ameryce Północnej pojawia się latem i jesienią, a w łagodniejszym klimacie przybrzeżnym, takim jak Kalifornia, także zimą.",
+        "uses": "Warunkowo jadalny. Choć w niektórych częściach Europy bywa tradycyjnie zbierany do celów kulinarnych, jego wartość smakowa jest skromna, większe ilości mogą powodować zaburzenia trawienia, a spożycie jest stanowczo odradzane w regionach, w których występuje niebezpiecznie trujący gatunek podobny Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, wywołujący ciężkie zatrucia objawiające się akromelalgią (erytromelalgią), ma bledszy, beżowy i płycej wgłębiony kapelusz, silny słodki zapach oraz gładkie elipsoidalne zarodniki zamiast kolczastych, niemal kulistych. Lejkogłówka żółtobrązowa (Infundibulicybe gibba) jest znacznie jaśniejsza, jasnopłowa, zazwyczaj zachowuje mały garbek w środku kapelusza, ma rzadsze białe blaszki i tworzy większe, gładkie, łezkowate zarodniki. Gąsownik płowy (Paralepista gilva) jest jaśniejszy, ochrowożółty, bardziej krępy i ma na kapeluszu charakterystyczne koncentrycznie ułożone ciemniejsze, wodniste plamki. Pieprznik jadalny (Cantharellus cibarius) jest bardziej mięsisty, intensywniej żółty i ma grube, tępe, widlasto rozgałęzione listewki zamiast cienkich, gęstych prawdziwych blaszek.",
+        "notes": "Dwie formy ekologiczne długo traktowano jako odrębne gatunki: bledszą, matową i bardziej wiotką formę z lasów liściastych oraz intensywniej czerwonawopłową, bardziej błyszczącą i jędrniejszą formę spod drzew iglastych, jednak obie mają identyczne cechy mikroskopowe i obecnie łączy się je w jeden zmienny gatunek. Ponieważ Paralepistopsis amoenolens rozszerzył swój zasięg na północ do Europy Środkowej, gatunek ten został usunięty z oficjalnej listy grzybów jadalnych dopuszczonych do obrotu handlowego w Szwajcarii."
+      },
+      "pt": {
+        "description": "Cogumelo de lâminas saprotrófico, de porte médio, que frutifica de forma gregária, frequentemente em arcos ou anéis de fadas, sobre a manta morta de folhas em bosques, agulhas de coníferas, solos ricos em húmus e, ocasionalmente, aparas de madeira húmidas. Amplamente distribuído pelo hemisfério norte temperado, ocorre em toda a Europa, Ásia ocidental e América do Norte, desde o Noroeste do Pacífico até aos Grandes Lagos e aos Apalaches.",
+        "cap": "2–10 cm de diâmetro, convexo com margem enrolada quando jovem, aplanando-se depressa para se tornar profundamente deprimido ou afunilado sem umbo central, com margem aguda, ondulada, muitas vezes algo lobada ou em bico; os carpóforos tardios permanecem ocasionalmente convexos. A superfície é lisa, mate a ligeiramente brilhante ou pegajosa quando húmida, depressa seca e higrófana, de cor fulvo-alaranjada, ocre-avermelhada, castanho-canela ou bege-rosada, tipicamente mais escura no centro e desvanecendo para bege-pálido ao secar. O hidróxido de potássio (KOH) torna a superfície do chapéu amarela.",
+        "hymenium": "Lâminas profundamente decorrentes, finas e apertadas, com frequentes lamélulas curtas, relativamente fáceis de separar da carne do chapéu. Creme-pálidas, esbranquiçadas ou alperce-bege pálidas quando jovens, amadurecendo para fulvo-pálido, ocre ou castanho-alaranjado, mantendo-se mais claras do que o chapéu. Os basídios são claviformes, tetraspóricos e medem 22–28 × 4–6 µm; os cistídios estão ausentes e as fíbulas estão presentes.",
+        "stipe": "2–7 cm de altura (ocasionalmente até 10 cm) e 0,4–1,5 cm de espessura, cilíndrico, igual ou ligeiramente alargado em direção à base, rijo e cheio quando jovem, tornando-se meduloso a estreitamente oco com a idade. Seco e liso a tenuemente fibriloso, da mesma cor que o chapéu mas mais pálido, sem anel, e revestido na base por abundante micélio algodonoso branco a bege-pálido que aglutina as agulhas e a manta morta envolventes.",
+        "flesh": "Fina, razoavelmente firme quando jovem e amolecendo com a idade, esbranquiçada a creme ou fulvo-bege pálida, imutável ao corte. O odor é agradavelmente doce, tenuemente perfumado ou ligeiramente fúngico-amadeirado, e o sabor é suave a ligeiramente ácido ou tenuemente amargo.",
+        "sporePrint": "Branca a amarelo-creme pálida, ocasionalmente com um matiz rosado muito ténue. Os esporos medem 3–5 × 3–4,5 µm (incluindo a ornamentação), são subglobosos a largamente elipsoides, finamente verrucosos a espinhosos com espinhos de 0,5–1 µm de comprimento, hialinos a amarelados em KOH, inamiloides e cianófilos.",
+        "habitat": "Saprotrófico sobre agulhas de coníferas em decomposição, manta morta de bosques de folhosas, solo rico em húmus, composto e, ocasionalmente, serradura húmida ou cobertura de aparas de madeira em bosques de coníferas, de folhosas e mistos, frutificando em grandes grupos, arcos ou anéis de fadas que podem atingir quase 20 m de diâmetro. Na Europa temperada frutifica sobretudo de junho a novembro, persistindo ocasionalmente até janeiro em estações amenas; na América do Norte frutifica no verão e no outono, ou durante o inverno em climas costeiros mais amenos como o da Califórnia.",
+        "uses": "Comestível com precaução. Embora seja tradicionalmente consumido em partes da Europa, a sua qualidade culinária é modesta, grandes quantidades podem causar perturbações digestivas e o seu consumo é fortemente desaconselhado nas regiões onde ocorre a espécie semelhante perigosamente tóxica Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, que provoca intoxicações graves por acromelalgia (eritromelalgia), tem um chapéu bege mais pálido e menos profundamente deprimido, um odor doce intenso e esporos elipsoides lisos em vez de subglobosos espinhosos. Infundibulicybe gibba é de um bege muito mais pálido, conserva normalmente um pequeno umbo central, tem lâminas brancas menos apertadas e produz esporos lisos maiores em forma de lágrima. Paralepista gilva é amarelo-ocre mais pálido, mais robusta e tipicamente marcada por manchas aquosas concêntricas mais escuras no chapéu. Cantharellus cibarius é mais carnuda, de um amarelo mais vivo e apresenta pregas espessas, obtusas e bifurcadas em vez de verdadeiras lâminas finas e apertadas.",
+        "notes": "Duas formas ecológicas foram durante muito tempo tratadas como espécies distintas: uma forma mais pálida, mate e mais flácida em bosques de folhosas e uma forma fulvo-avermelhada mais carregada, mais brilhante e mais firme sob coníferas, mas ambas partilham características microscópicas idênticas e estão hoje reunidas numa única espécie variável. Como Paralepistopsis amoenolens se expandiu para norte até à Europa central, esta espécie foi retirada da lista oficial de cogumelos comestíveis comercializáveis na Suíça."
+      },
+      "ro": {
+        "description": "Ciupercă cu lamele saprotrofă, de talie medie, care fructifică gregar, adesea în arcuri sau cercuri ale zânelor, pe litiera de frunze din păduri, ace de conifere, soluri bogate în humus și, ocazional, așchii de lemn umede. Larg răspândită în emisfera nordică temperată, apare în toată Europa, Asia de Vest și America de Nord, din Nord-Vestul Pacificului până la Marile Lacuri și Munții Apalași.",
+        "cap": "2–10 cm diametru, convexă cu marginea răsfrântă spre interior în tinerețe, aplatizându-se repede și devenind adânc deprimată sau în formă de pâlnie, fără gurgui central, cu o margine ascuțită, ondulată, adesea ușor lobată sau în formă de cioc; corpurile de fructificație târzii rămân ocazional convexe. Suprafața este netedă, mată până la ușor lucioasă sau lipicioasă la umezeală, curând uscată și higrofană, colorată roșcat-portocaliu, ocru-roșiatic, brun-scorțișoară sau galben-rozaliu, de obicei mai închisă în centru și pălind spre gălbui-bej pal la uscare. Hidroxidul de potasiu (KOH) colorează suprafața pălăriei în galben.",
+        "hymenium": "Lamele adânc decurente, subțiri și dese, cu numeroase lamelule scurte, relativ ușor de separat de carnea pălăriei. Crem-pal, albicioase sau caisiu-bej pal în tinerețe, se maturizează spre roșcat-gălbui pal, ocru sau brun-portocaliu, rămânând mai deschise la culoare decât pălăria. Bazidiile sunt clavate, tetrasporice și măsoară 22–28 × 4–6 µm; cistidele lipsesc, iar cataramele sunt prezente.",
+        "stipe": "2–7 cm înălțime (ocazional până la 10 cm) și 0,4–1,5 cm grosime, cilindric, egal sau ușor îngroșat spre bază, tenace și plin în tinerețe, devenind măduvos până la îngust gol cu vârsta. Uscat și neted până la slab fibrilos, colorat ca pălăria dar mai palid, fără inel, și îmbrăcat la bază cu un miceliu vătuit bogat, alb spre bej-pal, care leagă acele și litiera de frunze din jur.",
+        "flesh": "Subțire, destul de fermă în tinerețe și înmuindu-se cu vârsta, albicioasă spre crem sau bej-roșcat pal, neschimbătoare la tăiere. Mirosul este plăcut dulceag, discret parfumat sau ușor lemnos-fungic, iar gustul este blând până la ușor acrișor sau slab amărui.",
+        "sporePrint": "Albă până la galben-crem pal, ocazional cu o nuanță rozalie foarte discretă. Sporii măsoară 3–5 × 3–4,5 µm (incluzând ornamentația), sunt subglobuloși până la larg elipsoidali, mărunt verucoși până la spinoși cu spini lungi de 0,5–1 µm, hialini până la gălbui în KOH, neamiloizi și cianofili.",
+        "habitat": "Saprotrofă pe ace de conifere în descompunere, litieră de păduri de foioase, sol bogat în humus, compost și, ocazional, rumeguș umed sau mulci de așchii de lemn în păduri de conifere, de foioase și mixte, fructificând în grupuri mari, arcuri sau cercuri ale zânelor care pot atinge aproape 20 m în diametru. În Europa temperată fructifică în principal din iunie până în noiembrie, persistând ocazional până în ianuarie în sezoanele blânde; în America de Nord fructifică vara și toamna, sau pe parcursul iernii în climatele costiere mai blânde, precum California.",
+        "uses": "Comestibilă cu precauție. Deși consumată tradițional în anumite părți ale Europei, calitatea sa culinară este modestă, cantitățile mari pot provoca tulburări digestive, iar consumul este puternic descurajat în regiunile în care apare specia asemănătoare periculos de otrăvitoare Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, care provoacă intoxicații grave de tip acromelalgie (eritromelalgie), are o pălărie bej mai palidă și mai puțin adânc deprimată, un miros dulce puternic și spori elipsoidali netezi, nu subglobuloși și spinoși. Infundibulicybe gibba este de un bej mult mai palid, păstrează de obicei un mic gurgui central, are lamele albe mai puțin dese și produce spori netezi mai mari, lacrimiformi. Paralepista gilva este galben-ocru mai palidă, mai robustă și marcată de regulă cu pete apoase concentrice mai închise pe pălărie. Cantharellus cibarius este mai cărnoasă, de un galben mai aprins și poartă pliuri groase, boante și bifurcate în loc de lamele adevărate subțiri și dese.",
+        "notes": "Două forme ecologice au fost tratate mult timp ca specii separate: o formă mai palidă, mată și mai flască în pădurile de foioase și o formă roșcat-arămie mai intensă, mai lucioasă și mai fermă sub conifere, însă ambele împărtășesc trăsături microscopice identice și sunt unite astăzi într-o singură specie variabilă. Deoarece Paralepistopsis amoenolens s-a extins spre nord în Europa Centrală, această specie a fost eliminată de pe lista oficială a ciupercilor comestibile admise la comercializare în Elveția."
+      },
+      "ru": {
+        "description": "Средних размеров сапротрофный пластинчатый гриб, плодоносящий группами, часто дугами или ведьмиными кругами, на лесной подстилке из листвы, хвое, богатой гумусом почве и изредка на влажной древесной щепе. Широко распространен в умеренной зоне Северного полушария: встречается по всей Европе, в Западной Азии и в Северной Америке от Тихоокеанского Северо-Запада до Великих озер и Аппалачей.",
+        "cap": "Шляпка диаметром 2–10 см, у молодых грибов выпуклая с подвернутым краем, вскоре расправляющаяся и становящаяся глубоко вдавленной или воронковидной без центрального бугорка, с острым, волнистым, часто несколько лопастным или желобчатым краем; позднеосенние плодовые тела изредка остаются выпуклыми. Поверхность гладкая, от матовой до слегка блестящей или клейкой во влажную погоду, быстро высыхающая и гигрофанная, окрашена в рыжевато-оранжевый, красновато-охристый, корично-коричневый или розовато-кремовый цвет, обычно темнее в центре и выцветающая при подсыхании до бледно-кремового. Под действием гидроксида калия (KOH) поверхность шляпки желтеет.",
+        "hymenium": "Пластинки глубоко нисходящие, тонкие, частые, с многочисленными короткими пластиночками, сравнительно легко отделяются от мякоти шляпки. У молодых грибов бледно-кремовые, беловатые или бледно-абрикосово-кремовые, при созревании становятся бледно-рыжеватыми, охристыми или оранжевато-коричневыми, но остаются светлее шляпки. Базидии булавовидные, четырехспоровые, размером 22–28 × 4–6 мкм; цистиды отсутствуют, пряжки имеются.",
+        "stipe": "Ножка высотой 2–7 см (изредка до 10 см) и толщиной 0,4–1,5 см, цилиндрическая, ровная или слегка расширенная к основанию, плотная и выполненная у молодых грибов, с возрастом становится рыхлой внутри или узкополой. Сухая, гладкая до слабоволокнистой, окрашена сходно со шляпкой, но светлее, без кольца; у основания одета обильным белым или бледно-кремовым ватообразным мицелием, скрепляющим окружающую хвою и листовой опад.",
+        "flesh": "Мякоть тонкая, довольно плотная в молодости и размягчающаяся с возрастом, беловатая, кремовая или бледно-охристо-рыжеватая, на срезе цвет не меняет. Запах приятно-сладковатый, слабо душистый или мягкий древесно-грибной, вкус мягкий до слегка кисловатого или слабо горьковатого.",
+        "sporePrint": "Споровый порошок от белого до бледно-кремово-желтого, изредка с очень слабым розоватым оттенком. Споры размером 3–5 × 3–4,5 мкм (включая орнаментацию), почти шаровидные до широкоэллипсоидных, мелкобородавчатые или шиповатые с шипиками длиной 0,5–1 мкм, в KOH гиалиновые до желтоватых, неамилоидные и цианофильные.",
+        "habitat": "Местообитание сапротрофное: растет на разлагающейся хвое, лиственной лесной подстилке, богатой гумусом почве, компосте и изредка на влажных опилках или мульче из древесной щепы в хвойных, лиственных и смешанных лесах, образуя крупные скопления, дуги или ведьмины круги диаметром почти до 20 м. В умеренной Европе плодоносит преимущественно с июня по ноябрь, в мягкие зимы иногда сохраняясь до января; в Северной Америке плодоносит летом и осенью, а в более мягком прибрежном климате, таком как Калифорния, — также зимой.",
+        "uses": "Условно-съедобный. Хотя в некоторых частях Европы его традиционно употребляют в пищу, кулинарные качества скромные, в больших количествах он способен вызывать расстройство пищеварения, а в регионах, где встречается опасно ядовитый двойник Paralepistopsis amoenolens, его употребление настоятельно не рекомендуется.",
+        "confusion": "Схожий вид Paralepistopsis amoenolens, вызывающий тяжелое отравление типа акромелалгии (эритромелалгии), отличается более бледной бежевой, менее глубоко вдавленной шляпкой, сильным сладким запахом и гладкими эллипсоидными, а не шиповатыми почти шаровидными спорами. Infundibulicybe gibba имеет гораздо более бледную кремово-палевую окраску, обычно сохраняет небольшой центральный бугорок, отличается менее частыми белыми пластинками и более крупными гладкими слезовидными спорами. Paralepista gilva светлее, охристо-желтая, более плотного сложения и обычно несет на шляпке концентрически расположенные более темные водянистые пятна. Cantharellus cibarius более мясистая, ярко-желтая и имеет толстые тупые разветвленные складки, а не тонкие частые настоящие пластинки.",
+        "notes": "Две экологические формы долгое время рассматривались как самостоятельные виды: более бледная, матовая и рыхлая форма из лиственных лесов и более насыщенно красно-рыжая, блестящая и плотная форма под хвойными деревьями, однако обе обладают идентичными микроскопическими признаками и ныне объединены в один изменчивый вид. В связи с тем что Paralepistopsis amoenolens распространился к северу в Центральную Европу, данный вид был исключен из официального перечня съедобных грибов, разрешенных к продаже в Швейцарии."
+      },
+      "sl": {
+        "description": "Srednje velika saprotrofna lističasta gliva, ki raste skupinsko, pogosto v lokih ali vilinskih krogih, na gozdnem listnem opadu, iglicah iglavcev, s humusom bogatih tleh in občasno na vlažnih lesnih sekancih. Široko je razširjena po zmernem pasu severne poloble ter se pojavlja po vsej Evropi, v zahodni Aziji in v Severni Ameriki od pacifiškega severozahoda do Velikih jezer in Apalačev.",
+        "cap": "Klobuk meri 2–10 cm v premeru; mlad je izbočen s podvihanim robom, nato se kmalu zravna in postane globoko udrt ali lijakast brez osrednje grbice, z ostrim, valovitim, pogosto nekoliko krpastim ali izlivno upognjenim robom; poznosezonski trosnjaki včasih ostanejo izbočeni. Površina je gladka, motna do rahlo sijoča ali v vlagi lepljiva, kmalu suha in higrofana, obarvana rjavooranžno, rdečeokrasto, cimetovo rjavo ali rožnato okrasto, običajno temnejša na sredini ter med sušenjem bledi v bledo okrasto. Kalijev hidroksid (KOH) obarva površino klobuka rumeno.",
+        "hymenium": "Lističi so globoko poraščeni po betu, tanki in gosti, s številnimi krajšimi vmesnimi lističi, in se razmeroma zlahka ločijo od mesa klobuka. Mladi so bledo smetanasti, belkasti ali bledo marelično okrasti, z zorenjem pa postanejo bledo rjasto rjavi, okrasti ali oranžnorjavi, vendar ostanejo svetlejši od klobuka. Bazidiji so kijasti, štiritrosni in merijo 22–28 × 4–6 µm; cistid ni, zaponke so prisotne.",
+        "stipe": "Bet je visok 2–7 cm (občasno do 10 cm) in debel 0,4–1,5 cm, valjast, enakomerno debel ali proti dnišču rahlo razširjen, mlad žilav in poln, s starostjo pa strženast do ozko votel. Je suh, gladek do rahlo vlaknast, obarvan kot klobuk, vendar svetlejši, brez obročka ter pri dnišču poraščen z obilnim belim do bledo okrastim vatenim micelijem, ki povezuje okoliške iglice in listni opad.",
+        "flesh": "Meso je tanko, pri mladih trosnjakih precej čvrsto, s starostjo mehkejše, belkasto do smetanasto ali bledo rjavo okrasto ter se na prerezu ne spreminja. Vonj je prijetno sladek, rahlo dišeč ali blago lesno-gobji, okus pa blag do rahlo kiselkast ali komaj zaznavno grenak.",
+        "sporePrint": "Trosni prah je bel do bledo smetanasto rumen, občasno z zelo rahlim rožnatim pridihom. Trosi merijo 3–5 × 3–4,5 µm (vključno z ornamentiko), so skoraj kroglasti do široko elipsoidni, drobno bradavičasti do bodičasti z bodicami, dolgimi 0,5–1 µm, v KOH hialini do rumenkasti, neamiloidni in cianofilni.",
+        "habitat": "Je saprotrofna vrsta na razpadajočih iglicah iglavcev, opadu listnatih gozdov, s humusom bogatih tleh, kompostu in občasno na vlažnem žaganju ali zastirki iz lesnih sekancev v iglastih, listnatih in mešanih gozdovih, kjer raste v velikih skupinah, lokih ali vilinskih krogih s premerom do skoraj 20 m. V zmerni Evropi uspeva predvsem od junija do novembra, v milih sezonah pa občasno vztraja do januarja; v Severni Ameriki raste poleti in jeseni oziroma pozimi v milejšem obalnem podnebju, kot je Kalifornija.",
+        "uses": "Pogojno užitna gliva. Čeprav jo v nekaterih delih Evrope tradicionalno nabirajo za prehrano, je njena kulinarična kakovost skromna, večje količine lahko povzročijo prebavne težave, uživanje pa se močno odsvetuje na območjih, kjer se pojavlja nevarno strupena podobna vrsta Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, ki povzroča hudo zastrupitev z akromelalgijo (eritromelalgijo), ima bledejši bež, plitveje udrt klobuk, močan sladek vonj ter gladke elipsoidne trose namesto bodičastih skoraj kroglastih. Rjavkasta lijevka (Infundibulicybe gibba) je veliko bledejša, običajno ohrani majhno osrednjo grbico, ima redkejše bele lističe in tvori večje gladke solzaste trose. Lisasti kolesnik (Paralepista gilva) je bledejši okrasto rumen, bolj čokat in ima po klobuku značilne koncentrične temnejše vodenaste pege. Navadna lisička (Cantharellus cibarius) je mesnatejša, izraziteje rumena ter ima namesto tankih gostih pravih lističev debele, tope, viličasto razvejane letvice.",
+        "notes": "Dve ekološki obliki sta dolgo veljali za ločeni vrsti: bledejša, motnejša in bolj ohlapna oblika v listnatih gozdovih ter bolj rdečkasto rjava, sijoča in čvrstejša oblika pod iglavci, vendar imata obe enake mikroskopske znake in sta danes združeni v eno spremenljivo vrsto. Ker se je Paralepistopsis amoenolens razširila proti severu v srednjo Evropo, je bila ta vrsta v Švici umaknjena z uradnega seznama tržnih užitnih gob."
+      },
+      "sr": {
+        "description": "Средње велика сапротрофна листићаста гљива која плодоноси у скупинама, често у луковима или вилиним колима, на шумској стељи од опалог лишћа, четинама, земљишту богатом хумусом и повремено на влажној дрвној сечки. Широко је распрострањена широм умереног појаса северне хемисфере и јавља се у целој Европи, западној Азији и у Северној Америци од пацифичког северозапада до Великих језера и Апалачких планина.",
+        "cap": "Шешир је пречника 2–10 cm, у младости испупчен са подвијеном ивицом, убрзо се изравнава и постаје дубоко удубљен или левкаст без средишње грбице, са оштром, таласастом, често донекле режњевитом или изливасто савијеном ивицом; касносезонска плодна тела повремено остају испупчена. Површина је глатка, мат до благо сјајна или лепљива када је влажна, убрзо сува и хигрофана, обојена риђенаранџасто, црвенкастоокер, циметсмеђе или ружичастобеж, обично тамнија у средини и бледи у светлу кожножућкасту нијансу док се суши. Калијум-хидроксид (KOH) боји површину шешира у жуто.",
+        "hymenium": "Листићи су дубоко силазни низ дршку, танки и густи, са честим краћим листићима између њих, и релативно се лако одвајају од меса шешира. У младости су бледокрем, беличасти или бледо кајсијастобеж, а сазревањем постају бледориђи, окер или наранџастосмеђи, остајући притом светлији од шешира. Базидије су батинасте, четвороспорне, димензија 22–28 × 4–6 µm; цистиде недостају, а копче су присутне.",
+        "stipe": "Дршка је висока 2–7 cm (повремено до 10 cm) и дебела 0,4–1,5 cm, ваљкаста, уједначене дебљине или благо проширена према основи, у младости жилава и пуна, а са старењем постаје сунђераста до уско шупља. Сува је и глатка до слабо влакнаста, обојена попут шешира али светлија, без прстена, а у основи је обрасла обилним белим до бледокожнатим памучастим мицелијумом који повезује околне четине и опало лишће.",
+        "flesh": "Месо је танко, у младости прилично чврсто и са старењем омекшава, беличасто до крем или бледо кожнориђе, и не мења боју на пресеку. Мирис је пријатно сладуњав, благо мирисан или нежно дрвенасто-гљиварски, а укус благ до благо киселкаст или једва приметно горак.",
+        "sporePrint": "Отисак спора је бео до бледо кремастожут, повремено са веома благим ружичастим тоном. Споре су димензија 3–5 × 3–4,5 µm (укључујући орнаментацију), готово лоптасте до широко елипсоидне, ситно брадавичасте до бодљикаве са бодљама дугим 0,5–1 µm, хијалине до жућкасте у KOH, неамилоидне и цијанофилне.",
+        "habitat": "Сапротрофна је врста на трулим четинама, стељи листопадних шума, тлу богатом хумусом, компосту и повремено на влажној пиљевини или малчу од дрвне сечке у четинарским, листопадним и мешовитим шумама, где плодоноси у великим скупинама, луковима или вилиним колима пречника готово до 20 m. У умереном појасу Европе плодоноси углавном од јуна до новембра, а у благим сезонама повремено опстаје и до јануара; у Северној Америци плодоноси лети и у јесен, односно током зиме у блажим приобалним климама попут Калифорније.",
+        "uses": "Условно јестива гљива. Иако се у неким деловима Европе традиционално једе, њен кулинарски квалитет је скроман, веће количине могу изазвати пробавне тегобе, а конзумација се снажно не препоручује у областима где расте опасно отровна слична врста Paralepistopsis amoenolens.",
+        "confusion": "Paralepistopsis amoenolens, која изазива тешко тровање акромелалгијом (еритромелалгијом), има блеђи беж, плиће удубљен шешир, јак сладак мирис и глатке елипсоидне споре уместо бодљикавих готово лоптастих. Infundibulicybe gibba је знатно блеђа, обично задржава малу средишњу грбицу, има ређе беле листиће и ствара веће глатке сузасте споре. Paralepista gilva је блеђе окержута, робуснија и на шеширу обично има концентрично распоређене тамније воденасте мрље. Лисичарка (Cantharellus cibarius) је меснатија, јаркожута и уместо танких густих правих листића носи дебеле, тупе, рачвасте жилице.",
+        "notes": "Две еколошке форме су се дуго сматрале засебним врстама: блеђа, мат и млитавија форма из листопадних шума и изразитије црвенкасториђа, сјајнија и чвршћа форма испод четинара, али обе имају истоветне микроскопске одлике и данас су спојене у једну променљиву врсту. Пошто се врста Paralepistopsis amoenolens проширила ка северу у средњу Европу, ова гљива је у Швајцарској уклоњена са званичне листе тржишних јестивих гљива."
+      },
+      "sv": {
+        "description": "En medelstor, saprotrof skivling som fruktar sällskapligt, ofta i bågar eller häxringar, på skogens lövförna, barrförna, humusrik jord och ibland på fuktig träflis. Den är vida spridd över det tempererade norra halvklotet och förekommer i hela Europa, västra Asien samt i Nordamerika från nordvästra Stilla havsområdet till Stora sjöarna och Appalacherna.",
+        "cap": "Hatten är 2–10 cm bred, välvd med inrullad kant som ung, snart utbredd och djupt nedsänkt eller trattformad utan central puckel, med skarp, vågig, ofta något flikig eller pipformig kant; sena fruktkroppar förblir ibland välvda. Ytan är slät, matt till svagt glänsande eller klibbig i fuktig väderlek, snart torr och hygrofan, färgad rävröd-orange, rödockra, kanelbrun eller rosaaktigt sämskfärgad, typiskt mörkare i mitten och bleknande till blekt sämskfärgad vid uttorkning. Kaliumhydroxid (KOH) färgar hattytan gul.",
+        "hymenium": "Skivorna är djupt nedlöpande, tunna och tätt sittande med talrika korta mellanskivor (lamellulae), och de är relativt lätta att lossa från hattköttet. De är blekt gräddvita, vitaktiga eller blekt aprikos-sämskfärgade som unga och mognar till blekt rävröda, ockra eller orangebruna, men förblir blekare än hatten. Basidierna är klubbformade, fyrsporiga och 22–28 × 4–6 µm; cystidier saknas och söljor finns.",
+        "stipe": "Foten är 2–7 cm hög (ibland upp till 10 cm) och 0,4–1,5 cm tjock, cylindrisk, jämntjock eller något vidgad mot basen, seg och fylld som ung, med åldern märgfylld till trångt ihålig. Den är torr och slät till svagt trådig, färgad som hatten men blekare, utan ring och vid basen klädd med rikligt vitt till blekt sämskfärgat, bomullsartat mycel som binder omgivande barr och lövförna.",
+        "flesh": "Köttet är tunt, ganska fast som ungt och mjuknar med åldern, vitaktigt till gräddvitt eller blekt sämskfärgat-rävrött, och oföränderligt vid snitt. Doften är behagligt sötaktig, svagt väldoftande eller milt vedartat-svampaktig, och smaken är mild till lätt syrlig eller svagt bitter.",
+        "sporePrint": "Sporavtrycket är vitt till blekt gräddgult, ibland med en mycket svag rosa ton. Sporerna är 3–5 × 3–4,5 µm (inklusive ornamentik), nästan klotrunda till brett ellipsoida, fint vårtiga till taggiga med 0,5–1 µm långa taggar, i KOH hyalina till gulaktiga, inamyloida och cyanofila.",
+        "habitat": "Saprotrof på förmultnande barr, lövskogsförna, humusrik jord, kompost och ibland på fuktigt sågspån eller täckflis i barr-, löv- och blandskogar, där den växer i stora grupper, bågar eller häxringar som kan nå närmare 20 m i diameter. I tempererade Europa bildar den fruktkroppar främst från juni till november och dröjer ibland kvar in i januari under milda säsonger; i Nordamerika växer den under sommar och höst, eller genom vintern i mildare kustklimat som Kalifornien.",
+        "uses": "Ätlig med försiktighet. Även om den traditionellt äts i delar av Europa är dess kulinariska värde blygsamt, stora mängder kan ge mag-tarmbesvär och förtäring avråds starkt i områden där den farligt giftiga förväxlingsarten Paralepistopsis amoenolens förekommer.",
+        "confusion": "Paralepistopsis amoenolens, som orsakar svår akromelalgi-förgiftning (erytromelalgi), har en blekare beige, mindre djupt nedsänkt hatt, en stark söt doft samt släta ellipsoida sporer i stället för taggiga, nästan klotrunda sporer. Sommartrattskivling (Infundibulicybe gibba) är mycket blekare sämskfärgad, behåller vanligen en liten central puckel, har glesare vita skivor och bildar större, släta, droppformade sporer. Paralepista gilva är blekare ockragul, kraftigare och typiskt tecknad med koncentriska, mörkare vattenfläckar på hatten. Kantarell (Cantharellus cibarius) är köttigare, klarare gul och har tjocka, trubbiga, gaffelgrenade åsar i stället för tunna, tätt sittande äkta skivor.",
+        "notes": "Två ekologiska former behandlades länge som skilda arter: en blekare, matt och slakare form i lövskog och en djupare rävröd, blankare och fastare form under barrträd, men båda har identiska mikroskopiska karaktärer och förenas numera som en enda variabel art. Eftersom Paralepistopsis amoenolens har brett ut sig norrut till Centraleuropa ströks denna art från den officiella listan över handelssvampar i Schweiz."
+      },
+      "tr": {
+        "description": "Ormanlık alanlardaki yaprak döküntüleri, ibreli ağaç iğneleri, humus bakımından zengin toprak ve zaman zaman nemli odun yongaları üzerinde toplu hâlde, çoğunlukla yaylar veya peri halkaları oluşturarak meyve veren orta boylu, saprotrof bir lamelli mantardır. Kuzey Yarımküre'nin ılıman kuşağı boyunca geniş bir yayılışa sahip olup Avrupa'nın tamamında, Batı Asya'da ve Kuzey Amerika'da Pasifik Kuzeybatısı'ndan Büyük Göller'e ve Apalaş Dağları'na kadar görülür.",
+        "cap": "2–10 cm çapındadır; gençken kenarı içe kıvrık ve dışbükeydir, kısa sürede düzleşerek ortasında bir tümsek (umbo) olmaksızın derince çukurlaşır veya huni biçimini alır; kenarı keskin, dalgalı ve çoğu zaman hafifçe loplu ya da oluk benzeridir; mevsim sonu meyve gövdeleri bazen dışbükey kalır. Yüzey pürüzsüzdür, mat ile hafifçe parlak arasında değişir veya nemliyken yapışkandır, kısa sürede kurur ve higrofan özellik gösterir; rengi tarçınımsı turuncu, kızıl-aşıboyası, tarçın kahverengisi veya pembemsi devetüyüdür, genellikle merkezde daha koyudur ve kurudukça soluk devetüyüne açılır. Potasyum hidroksit (KOH) şapka yüzeyini sarıya boyar.",
+        "hymenium": "Sapa derince inen (dekürent), ince ve sık lameller çok sayıda kısa lamellüla içerir ve şapka etli kısmından nispeten kolay ayrılır. Gençken soluk krem, beyazımsı veya soluk kayısı-devetüyü rengindedir; olgunlaştıkça şapkadan daha açık kalmakla birlikte soluk kızılımsı tarçın, aşıboyası veya turuncumsu kahverengiye döner. Bazidiyumlar çomak biçimli, dört sporlu ve 22–28 × 4–6 µm boyutlarındadır; sistidyum bulunmaz, kanca bağlantıları (clamp connections) mevcuttur.",
+        "stipe": "2–7 cm boyunda (bazen 10 cm'ye kadar) ve 0,4–1,5 cm kalınlığındadır; silindirik, eşit kalınlıkta veya tabana doğru hafifçe genişlemiştir; gençken sert ve içi doludur, yaşlandıkça özlü ile darca içi boş bir yapıya dönüşür. Kuru ve pürüzsüz ile hafifçe lifsi arasındadır; şapkayla benzer renkte ancak daha soluktur, yüzüksüzdür ve tabanında çevredeki iğneleri ve yaprak döküntülerini birbirine bağlayan bol miktarda beyaz ile soluk devetüyü renginde pamuksu miselyum taşır.",
+        "flesh": "Etli kısım ince, gençken oldukça sıkı ve yaşlandıkça yumuşayan yapıdadır; beyazımsı ile krem veya soluk devetüyü-tarçın rengindedir ve kesildiğinde renk değiştirmez. Kokusu hoş biçimde tatlı, hafifçe hoş kokulu veya ılımlı odunsu-mantarsıdır; tadı ise hafif ile az ekşimsi veya hafifçe acımsı arasındadır.",
+        "sporePrint": "Beyaz ile soluk krem-sarısı arasındadır, zaman zaman çok hafif pembemsi bir ton taşır. Sporlar (süslemeler dâhil) 3–5 × 3–4,5 µm boyutlarında, küremsiye yakın ile geniş elipsoid arasında, 0,5–1 µm uzunluğunda dikenlere sahip incecik siğilli ile dikenli arasında, KOH içinde saydam ile sarımsı arasında, inamiloid ve siyanofiliktir.",
+        "habitat": "İbreli, yaprak döken ve karışık ormanlardaki çürümekte olan ibreli ağaç iğneleri, geniş yapraklı orman döküntüleri, humus bakımından zengin toprak, kompost ve zaman zaman nemli talaş veya odun yongası malçı üzerinde saprotrofik olarak yaşar; çapı yaklaşık 20 m'ye ulaşabilen büyük sürüler, yaylar veya peri halkaları hâlinde meyve verir. Ilıman Avrupa'da başlıca haziran ile kasım arasında meyve verir ve ılıman mevsimlerde bazen ocağa kadar kalabilir; Kuzey Amerika'da yaz ve sonbaharda ya da Kaliforniya gibi daha ılıman kıyı iklimlerinde kış boyunca meyve verir.",
+        "uses": "Şartlı yenilebilir. Avrupa'nın bazı bölgelerinde geleneksel olarak tüketilmesine karşın mutfak değeri mütevazıdır, yüksek miktarlarda tüketimi sindirim rahatsızlıklarına yol açabilir ve tehlikeli biçimde zehirli benzer tür Paralepistopsis amoenolens'in bulunduğu bölgelerde tüketilmesi kesinlikle önerilmez.",
+        "confusion": "Şiddetli akromelalji (eritromelalji) zehirlenmesine yol açan Paralepistopsis amoenolens daha soluk bej, daha az derince çukurlaşmış bir şapkaya, güçlü tatlı bir kokuya ve dikenli küremsiye yakın sporlar yerine pürüzsüz elipsoid sporlara sahiptir. Infundibulicybe gibba çok daha soluk devetüyü rengindedir, genellikle küçük bir merkez tümseği korur, daha seyrek beyaz lamellere sahiptir ve gözyaşı biçiminde daha büyük pürüzsüz sporlar üretir. Paralepista gilva daha soluk aşıboyası-sarısı ve daha iridir; şapkasında tipik olarak eş merkezli daha koyu sulu lekeler bulunur. Cantharellus cibarius daha etli ve daha parlak sarıdır; ince, sık gerçek lameller yerine kalın, küt ve çatallanan kıvrımlar taşır.",
+        "notes": "İki ekolojik form uzun süre ayrı türler olarak ele alınmıştır: geniş yapraklı ormanlardaki daha soluk, mat ve daha gevşek form ile ibrelilerin altındaki daha koyu kızıl-tarçın rengi, daha parlak ve daha sıkı form; ancak her ikisi de özdeş mikroskobik özellikler paylaşır ve günümüzde tek bir değişken tür altında birleştirilmiştir. Paralepistopsis amoenolens'in kuzeye, Orta Avrupa'ya doğru yayılması nedeniyle bu tür İsviçre'de pazarda satılabilen resmî yemeklik mantarlar listesinden çıkarılmıştır."
+      },
+      "uk": {
+        "description": "Середніх розмірів сапротрофний пластинчастий гриб, що плодоносить групами, часто дугами або відьминими колами, на лісовій підстилці з листя, хвої, багатому на гумус ґрунті та зрідка на вологій деревній трісці. Широко поширений у помірній зоні Північної півкулі: трапляється по всій Європі, у Західній Азії та в Північній Америці від Тихоокеанського Північного Заходу до Великих озер і Аппалачів.",
+        "cap": "Шапинка діаметром 2–10 см, у молодих грибів опукла із загорнутим краєм, невдовзі розпростається і стає глибоко увігнутою або лійкоподібною без центрального горбка, з гострим, хвилястим, часто дещо лопатевим або жолобчастим краєм; пізньоосінні плодові тіла інколи залишаються опуклими. Поверхня гладенька, від матової до злегка блискучої або клейкої у вологу погоду, швидко висихає, гігрофанна, забарвлена в рудувато-оранжевий, червонувато-вохристий, корично-коричневий або рожевувато-кремовий колір, зазвичай темніша в центрі та вицвітає при підсиханні до блідо-кремового. Під дією гідроксиду калію (KOH) поверхня шапинки жовтіє.",
+        "hymenium": "Пластинки глибоко спускаються на ніжку, тонкі, густі, з численними короткими проміжними пластиночками, відносно легко відокремлюються від м'якуша шапинки. У молодих грибів блідо-кремові, білуваті або блідо-абрикосово-кремові, при дозріванні стають блідо-рудуватими, вохристими або оранжево-коричневими, проте залишаються світлішими за шапинку. Базидії булавоподібні, чотириспорові, розміром 22–28 × 4–6 мкм; цистиди відсутні, пряжки наявні.",
+        "stipe": "Ніжка заввишки 2–7 см (зрідка до 10 см) і завтовшки 0,4–1,5 см, циліндрична, рівна або злегка розширена до основи, щільна та виповнена в молодих грибів, з віком стає рихлою або вузькопорожнистою. Суха, гладенька до слабковолокнистої, забарвлена подібно до шапинки, але світліше, без кільця; біля основи вкрита рясним білим до блідо-кремового ватоподібним міцелієм, який скріплює навколишню хвою та опале листя.",
+        "flesh": "М'якуш тонкий, доволі щільний у молодому віці та м'якшає з часом, білуватий, кремовий або блідо-кремово-рудуватий, на зрізі не змінює забарвлення. Запах приємно-солодкуватий, злегка духмяний або м'який деревно-грибний, смак м'який до злегка кислуватого або ледь гіркуватого.",
+        "sporePrint": "Споровий порошок від білого до блідо-кремово-жовтого, зрідка з дуже слабким рожевуватим відтінком. Спори розміром 3–5 × 3–4,5 мкм (включно з орнаментацією), майже кулясті до широко-еліпсоїдних, дрібнобородавчасті або шипуваті з шипиками завдовжки 0,5–1 мкм, у KOH прозорі до жовтуватих, неамілоїдні й ціанофільні.",
+        "habitat": "Місцезростання сапротрофне: росте на розкладеній хвої, листяній лісовій підстилці, багатому на гумус ґрунті, компості та інколи на вологій тирсі або мульчі з деревної тріски у хвойних, листяних і мішаних лісах, утворюючи великі групи, дуги або відьмині кола діаметром майже до 20 м. У помірній Європі плодоносить переважно з червня по листопад, інколи зберігаючись до січня у м'які сезони; у Північній Америці плодоносить улітку та восени, а в м'якшому прибережному кліматі, такому як Каліфорнія, — і взимку.",
+        "uses": "Умовно-їстівний. Хоча в деяких частинах Європи його традиційно вживають у їжу, кулінарні якості невисокі, велика кількість може спричинити розлад травлення, а в регіонах, де трапляється небезпечно отруйний двійник Paralepistopsis amoenolens, споживати цей гриб наполегливо не рекомендується.",
+        "confusion": "Схожий вид Paralepistopsis amoenolens, що спричиняє тяжке отруєння акромелалгією (еритромелалгією), має блідішу бежеву, менш глибоко увігнуту шапинку, сильний солодкий запах і гладенькі еліпсоїдні спори замість шипуватих майже кулястих. Infundibulicybe gibba значно блідішого кремово-вохристого кольору, зазвичай зберігає невеликий центральний горбок, має менш густі білі пластинки та утворює більші гладенькі сльозоподібні спори. Paralepista gilva має блідіше вохристо-жовте забарвлення, масивнішу будову і зазвичай вкрита концентричними темнішими водянистими плямами на шапинці. Cantharellus cibarius м'ясистіший, яскравіше жовтий і має товсті тупі розгалужені жилки замість тонких густих справжніх пластинок.",
+        "notes": "Дві екологічні форми тривалий час розглядалися як окремі види: блідіша, матова й м'якша форма з листяних лісів та насиченіше червоно-руда, блискучіша й щільніша форма під хвойними деревами, проте обидві мають ідентичні мікроскопічні ознаки й нині об'єднані в один мінливий вид. Оскільки Paralepistopsis amoenolens поширився на північ до Центральної Європи, цей вид виключили з офіційного переліку їстівних грибів, дозволених для продажу у Швейцарії."
+      },
+      "zh": {
+        "description": "一種中型的腐生傘菌，群生（常呈弧形或仙女環狀）於林地落葉層、針葉、富含腐殖質的土壤，偶爾亦見於潮濕的木屑上。廣泛分布於北半球溫帶地區，遍及歐洲、西亞及北美洲，範圍從太平洋西北地區延伸至五大湖區與阿帕拉契山脈。",
+        "cap": "寬2–10 cm，幼時呈凸鏡形且邊緣內捲，不久展開並深凹或呈漏斗形，中央無突起，邊緣銳利、波狀，常略呈裂片狀或傾倒口狀；晚季子實體偶爾仍維持凸鏡形。表面平滑，無光澤至潮濕時略具光澤或微黏，不久即乾燥，且具吸濕變色性，呈黃褐橘色、紅赭色、肉桂褐色或粉調淺黃褐色，中央通常較深，乾燥時褪為淺黃褐色。滴加氫氧化鉀（KOH）後，菌蓋表面轉為黃色。",
+        "hymenium": "菌褶深延生、薄且密生，夾雜頻繁的短小菌褶，相對容易與菌蓋菌肉剝離。幼時呈淺奶油色、帶白色或淺杏黃褐色，成熟後轉為淺黃褐色、赭色或橘褐色，但仍較菌蓋色淡。擔子呈棍棒狀，具四枚孢子，22–28 × 4–6 µm；無囊狀體，具鎖狀聯合。",
+        "stipe": "高2–7 cm（偶爾可達10 cm）、粗0.4–1.5 cm，圓柱形，上下等粗或向基部略膨大，幼時堅韌且實心，隨老化轉為海綿狀至狹中空。表面乾燥，平滑至具微弱纖維狀細紋，顏色與菌蓋相近但較淡，無菌環，基部覆有大量白色至淺黃褐色的棉絮狀菌絲體，常將周圍針葉與落葉黏結在一起。",
+        "flesh": "菌肉薄，幼時相當緊實而隨老化變軟，呈帶白色至奶油色或淺黃褐色，切開後不變色。氣味宜人而帶甜香、微具芬芳或略呈溫和的木質真菌氣息，味道清淡至微酸或略帶微苦。",
+        "sporePrint": "白色至淺乳黃色，偶爾帶極淡的粉紅色調。孢子3–5 × 3–4.5 µm（含表面紋飾），近球形至寬橢圓形，具微細疣點至刺狀突起，刺長0.5–1 µm，於KOH中呈透明無色至微黃色，非澱粉質且具嗜藍性。",
+        "habitat": "腐生於針葉林、闊葉林與混合林中腐朽的針葉、闊葉林落葉層、富含腐殖質的土壤與堆肥上，偶爾亦見於潮濕的鋸屑或木屑覆蓋物上，常大群、成弧形或形成直徑可近20 m的仙女環出菇。在歐洲溫帶地區主要於6月至11月出菇，溫暖季節偶爾延續至1月；在北美洲則於夏季與秋季出菇，或在加州等較溫和的沿海氣候區延續至整個冬季。",
+        "uses": "謹慎食用。雖然歐洲部分地區傳統上有採食習慣，但其烹調品質普通，大量食用可能引起腸胃不適，且在危險有毒相似種Paralepistopsis amoenolens分布的地區強烈不建議食用。",
+        "confusion": "Paralepistopsis amoenolens會引起嚴重的肢端紅痛症（紅斑性肢痛症）中毒，其菌蓋呈較淡的米褐色、中央凹陷較淺，具濃郁甜香氣味，且孢子平滑呈橢圓形，而非具刺的近球形孢子。Infundibulicybe gibba呈色顯著較淡為淺黃褐色，中央通常保留一個小突起，白色菌褶較疏，且產生較大、平滑的淚滴狀孢子。Paralepista gilva呈較淡的赭黃色，體型較壯碩，且菌蓋上通常帶有呈同心圓狀排列的較深水漬狀斑點。雞油菌（Cantharellus cibarius）菌肉較厚實、呈更鮮亮的黃色，且菌蓋下方為粗厚、鈍圓而分叉的脈狀褶，而非薄而密生的真菌褶。",
+        "notes": "過去長期將兩種生態型視為獨立物種：一種生長於闊葉林中，色較淡、無光澤且質地較軟弱；另一種生長於針葉樹下，呈較深的紅黃褐色、較有光澤且質地較緊實，但兩者的顯微特徵完全相同，現已合併為同一多變物種。由於Paralepistopsis amoenolens已向北擴張至中歐，本種已自瑞士官方市售食用菇名錄中移除。"
+      }
+    },
+    "synonyms": [
+      {
+        "name": "Agaricus flaccidus",
+        "author": "Sowerby",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus gilvus var. flaccidus",
+        "author": "(Sowerby) Pers.",
+        "rank": "variety"
+      },
+      {
+        "name": "Clitocybe flaccida",
+        "author": "(Sowerby) P. Kumm.",
+        "rank": "species"
+      },
+      {
+        "name": "Omphalia flaccida",
+        "author": "(Sowerby) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Lepista flaccida",
+        "author": "(Sowerby) Pat.",
+        "rank": "species"
+      },
+      {
+        "name": "Clitocybe inversa var. flaccida",
+        "author": "(Sowerby) Costantin & L.M. Dufour",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus inversus",
+        "author": "Scop.",
+        "rank": "species"
+      },
+      {
+        "name": "Clitocybe inversa",
+        "author": "(Scop.) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Omphalia inversa",
+        "author": "(Scop.) Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Lepista inversa",
+        "author": "(Scop.) Pat.",
+        "rank": "species"
+      },
+      {
+        "name": "Paralepista inversa",
+        "author": "(Scop.) Raithelh.",
+        "rank": "species"
+      },
+      {
+        "name": "Lepista flaccida var. inversa",
+        "author": "(Scop.) Chiari",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus obconicus",
+        "author": "J.F. Gmel.",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus infundibuliformis",
+        "author": "Bull.",
+        "rank": "species"
+      },
+      {
+        "name": "Agaricus lobatus",
+        "author": "Sowerby",
+        "rank": "species"
+      },
+      {
+        "name": "Craterellus infundibuliformis",
+        "author": "Quél.",
+        "rank": "species"
+      },
+      {
+        "name": "Omphalia lobata",
+        "author": "(Sowerby) Gray",
+        "rank": "species"
+      },
+      {
+        "name": "Clitocybe flaccida var. lobata",
+        "author": "(Sowerby) Rea",
+        "rank": "variety"
+      },
+      {
+        "name": "Lepista flaccida var. lobata",
+        "author": "(Sowerby) Romagn. & Bon",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus fimbriatus var. lobatus",
+        "author": "Fr.",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus extenuatus",
+        "author": "Britzelm.",
+        "rank": "species"
+      },
+      {
+        "name": "Clitocybe guttatomarmorata",
+        "author": "Britzelm.",
+        "rank": "species"
+      },
+      {
+        "name": "Clitocybe gilva var. guttatomarmorata",
+        "author": "(Britzelm.) Keissl.",
+        "rank": "variety"
+      },
+      {
+        "name": "Clitocybe flaccida var. arenaria",
+        "author": "Hruby",
+        "rank": "variety"
+      },
+      {
+        "name": "Agaricus inversus var. lobatus",
+        "author": "Cout.",
+        "rank": "variety"
+      },
+      {
+        "name": "Clitocybe flaccida var. fibrillosa",
+        "author": "Malençon",
+        "rank": "variety"
+      },
+      {
+        "name": "Paralepista flaccida var. fibrillosa",
+        "author": "(Malençon) Vizzini",
+        "rank": "variety"
+      },
+      {
+        "name": "Clitocybe gilva var. tianschanica",
+        "author": "G.A. Nam",
+        "rank": "variety"
+      },
+      {
+        "name": "Lepista flaccida f. caespitosa",
+        "author": "Mornand & Bon",
+        "rank": "form"
+      }
+    ]
   }
 ];
