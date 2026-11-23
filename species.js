@@ -203436,5 +203436,1023 @@ export const CATALOG = [
   "reserved": false,
   "id": 199,
   "citation": "in Bresadola, Iconogr. Mycol., Suppl. I (Milan) 27: 66 (1940)"
+},
+{
+  "id": 200,
+  "name": "Fuscopostia fragilis",
+  "author": "(Fr.) B.K. Cui, L.L. Shen & Y.C. Dai",
+  "citation": "in Shen, Wang, Zhou, Xing, Cui & Dai, Persoonia 42: 119 (2018) [2019]",
+  "family": "Postiaceae",
+  "genus": "Fuscopostia",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Incertae sedis",
+    "Polyporales",
+    "Postiaceae",
+    "Fuscopostia"
+  ],
+  "summary": [
+    "Polyporales",
+    "Postiaceae",
+    "Fuscopostia"
+  ],
+  "edibility": "inedible",
+  "hymenium": "tubes",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "red",
+    "brown"
+  ],
+  "capFrom": 2.5,
+  "capTo": 12.0,
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
+  "added": "2026-11-23",
+  "label": {
+    "en": "brown-staining cheese polypore",
+    "cs": "bělochoroš křehký",
+    "da": "brunende kødporesvamp",
+    "de": "Braunfleckender Saftporling",
+    "es": "hongo repisa de queso",
+    "et": "tumenev tümak",
+    "fi": "tahrakääpä",
+    "fr": "polypore fragile",
+    "hu": "barnuló likacsosgomba",
+    "ja": "シミタケ",
+    "lt": "trapioji postija",
+    "lv": "trauslā mīkstpiepe",
+    "nl": "Vlekkende kaaszwam",
+    "no": "flekkjuke",
+    "pl": "rdzawoporek kruchy",
+    "ru": "постия хрупкая",
+    "sl": "krhka sirnica",
+    "sv": "blödticka",
+    "sk": "šťavnatec krehký"
+  },
+  "names": {
+    "en": [
+      "staining cheese polypore",
+      "red-staining polypore"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [
+      "brunlig kødporesvamp"
+    ],
+    "de": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "białak kruchy",
+      "drobnoporek kruchy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=819285",
+        "detail": "819285"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=819285",
+        "detail": "819285"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/10672649",
+        "detail": "10672649"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/6JSLN"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Postia_fragilis"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q107687743"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/fuscopostia_fragilis.html"
+      },
+      {
+        "group": "text",
+        "name": "MykoWeb",
+        "href": "https://www.mykoweb.com/CAF/species/Postia_fragilis.html"
+      },
+      {
+        "group": "text",
+        "name": "iNaturalist",
+        "href": "https://www.inaturalist.org/taxa/959326"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Vlekkende_kaaszwam",
+        "detail": "Dutch"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fi.wikipedia.org/wiki/Tahrak%C3%A4%C3%A4p%C3%A4",
+        "detail": "Finnish"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Barnul%C3%B3_likacsosgomba",
+        "detail": "Hungarian"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Rdzawoporek_kruchy",
+        "detail": "Polish"
+      }
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "da": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "de": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "es": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Tumenev_t%C3%BCmak"
+    ],
+    "fa": [],
+    "fi": [
+      "https://species.wikimedia.org/wiki/Postia_fragilis",
+      "https://fi.wikipedia.org/wiki/Tahrak%C3%A4%C3%A4p%C3%A4",
+      "https://www.gbif.org/species/10672649"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/10672649",
+      "https://www.mycoquebec.org/bas.php?trie=F&l=l&nom=Fuscopostia%20fragilis%20/%20Polypore%20fragile&tag=Fuscopostia%20fragilis&gro=117"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Barnul%C3%B3_likacsosgomba",
+      "https://www.gbif.org/species/10672649"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Postia_fragilis",
+      "https://nl.wikipedia.org/wiki/Vlekkende_kaaszwam",
+      "https://www.gbif.org/species/10672649"
+    ],
+    "no": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Rdzawoporek_kruchy",
+      "https://www.gbif.org/species/10672649"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "sk": [],
+    "sl": [
+      "https://www.gbif.org/species/10672649"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Bl%C3%B6dticka",
+      "https://www.gbif.org/species/10672649"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "User-supplied mycological plate (896x1200 JPEG, center-cropped to 800x1200 and LANCZOS-resized 2.0x to 1600x2400 and 400x600 WebP; no compositing or repainting). Shows an overlapping cluster of sessile white-to-reddish-brown brackets on mossy conifer wood, a young cushion-like specimen, an underside pore view with magnified angular-to-lacerate pore detail, and a vertical section.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_1.webp",
+      "author": "moorebuesing",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/66856048"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_2.webp",
+      "author": "Chael Thomas",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/25990348"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_3.webp",
+      "author": "Chael Thomas",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/25990348"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_4.webp",
+      "author": "Sigrid Jakob",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/30212419"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_5.webp",
+      "author": "moorebuesing",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/66856048"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis@1600.webp",
+      "basedOn": []
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_1.webp",
+      "author": "moorebuesing",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/66856048"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_2.webp",
+      "author": "Chael Thomas",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/25990348"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_3.webp",
+      "author": "Chael Thomas",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/25990348"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_4.webp",
+      "author": "Sigrid Jakob",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/30212419"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Polyporales/Postiaceae/Fuscopostia_fragilis/Fuscopostia_fragilis_5.webp",
+      "author": "moorebuesing",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/66856048"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر قوسيّ حوليّ طريّ محلل للخشب، ينمو منفرداً أو في تجمعات صغيرة متراكبة على أخشاب الصنوبريات الميتة، حيث يسبب عفناً بنياً. ينتشر على نطاق واسع في نصف الكرة الشمالي، ويوجد في الغابات المعتدلة والشمالية في أوروبا وأمريكا الشمالية وشمال آسيا ووسطها.",
+      "cap": "الأجسام الثمرية حولية، عديمة الساق، وتتخذ شكل رفوف قوسية أو تكون ممتدةً على الركيزة مع حواف قبعة بارزة، وكثيراً ما تنمو في طبقات متراكبة أو صفوف ملتحمة جانبياً. يبلغ عرض كل قبعة ٢٫٥–١٢ سم (وأحياناً حتى ١٥ سم) وسمكها ٠٫٥–٢ سم، وهي غير منتظمة نصف دائرية أو مروحية أو متطاولة الشكل، محدبة قليلاً إلى شبه مسطحة، ذات حافة متموجة تبرز أحياناً فوق طبقة الأنابيب. السطح العلوي جاف إلى رطب قليلاً، عديم النطاقات اللونية، طريّ، ناعم الوبر أو قطنيّ الزغب في الصغر، ويصبح متلبداً أو شبه أملس مع التقدم في العمر. يكون لونه في البداية أبيض أو مبيضاً أو كريمياً باهتاً، ثم يتبقع ويتغير لونه بسرعة عند الكدم أو التقدم في العمر مروراً بالبني المصفر والبني الأسمر إلى البني المحمر والبني الصدئ الداكن، ويصبح صلباً وهشاً عند الجفاف.",
+      "hymenium": "السطح المسامي مبيضّ عندما يكون طازجاً، ويتبقع بسرعة عند اللمس أو التقدم في العمر مروراً بالبني المصفر أو البني الأسمر إلى البني المحمر أو البني الخمري. المسام صغيرة، مستديرة إلى مضلعة، يتراوح عددها بين ٢–٥ مسام في المليمتر (وعادة ٣–٤ في المليمتر)، ذات جدران رقيقة سرعان ما تتمزق وتستطيل لتشكل فتحات غير منتظمة مسننة شبيهة بالأسنان. طبقة الأنابيب مبيضة ويبلغ عمقها ٤–١٥ مم، وتتصبغ بالطريقة نفسها التي يتصبغ بها السطح المسامي. البازيديات هراوية الشكل، رباعية السويقات (٤ سويقات)، وأبعادها ١٥–١٨ × ٤–٥ ميكرومتر؛ وتغيب السيستيدات والأشواك المجهرية. النظام الخيطي أحادي النمط، يتألف من خيوط مولدة رقيقة إلى متوسطة سماكة الجدران بعرض ٢–٦ ميكرومتر تحمل وصلات مشبكية واضحة.",
+      "stipe": "غائبة؛ فالأجسام الثمرية عديمة الساق ومتصلة اتصالاً عريضاً ومباشراً بالخشب، أو ممتدةً على الركيزة مع انعكاس حافتها.",
+      "flesh": "طريّ، مائيّ، مرن، وشبيه بالجبن عندما يكون طازجاً، بسماكة ٠٫٢–١٫٥ سم، ثم يصبح قاسياً وصلباً وهشاً عند الجفاف. يكون اللحم أبيض في الصغر، ويبقى أبيض أو يتبقع تدريجياً باللون البني في مواضع الكدم، ويجف بلون بني أو بني مائل قليلاً إلى الأرجواني. الرائحة خفيفة، عطرية قليلاً أو لاذعة بشكل طفيف؛ والطعم غير مميز أو مرّ قليلاً. يعطي هيدروكسيد البوتاسيوم (KOH) تفاعلاً سلبياً على اللحم وسطح القبعة، وسلبياً أو زيتونياً باهتاً على السطح المسامي.",
+      "sporePrint": "أبيض. الأبواغ البازيدية بأبعاد ٤–٥ × ١–٢٫٥ ميكرومتر (وأحياناً حتى ٧ × ٣ ميكرومتر)، أسطوانية في المنظر الأمامي ومقوسة شبيهة بالنقانق في المنظر الجانبي، ملساء، رقيقة الجدران، شفافة في محلول KOH، تحتوي على شوائب حبيبية، غير أميلويدية، غير ديكسترينويدية، وغير محبة للسيانين.",
+      "habitat": "رمّي على أخشاب الصنوبريات الميتة — بما في ذلك الجذوع الساقطة والأرومات والأغصان المتساقطة من التنوب (Picea) والصنوبر (Pinus) والشوح (Abies)، ونادراً جداً على النغت الرمادي (Alnus incana) — حيث يسبب عفناً بنياً. تنمو الأجسام الثمرية منفردة أو في جماعات أو في تجمعات صغيرة متراكبة من الربيع حتى الخريف (عادة من مايو إلى نوفمبر)، وقد تستمر في الإثمار حتى منتصف الشتاء أو أواخره في المناخات الأكثر اعتدالاً.",
+      "uses": "غير صالح للأكل. يصبح اللحم الطري المائي قاسياً وهشاً مع التقدم في العمر وليس له أي قيمة غذائية أو طهوية.",
+      "confusion": "تتبقع عدة فطريات مسامية أخرى طرية وبيضاء تعيش على الصنوبريات باللون البني المحمر أيضاً، وقد يصعب تمييزها دون الفحص المجهري. يميل كل من Parmastomyces transmutans (مرادف Parmastomyces mollissimus) وAmylocystis lapponica إلى التبقع مباشرة باللون البني المحمر دون المرور بمرحلة وسطية صفراء أو بنية سمراء؛ ومجهرياً، يمتلك Parmastomyces transmutans أبواغاً ديكسترينويدية، بينما يتميز Amylocystis lapponica بقبعة أكثر كثافة في الوبر الخشن وبسيستيدات مغلفة أميلويدية. أما Leptoporus mollis فيتبقع بلون وردي زهري أكثر وضوحاً إلى بني خمري، ويفتقر إلى الوصلات المشبكية في خيوطه المولدة.",
+      "notes": "على الرغم من أن الأجسام الثمرية الطازجة تكون طرية ومرنة، فإنها تجف لتصبح صلبة ومتفتتة، وتنكسر بسهولة بمجرد فقدان رطوبتها. يُعد هذا النوع عاملاً مهماً في إحداث العفن البني في أخشاب الصنوبريات الميتة، إذ يحلل السليلوز ويترك وراءه خشباً بنياً متشققاً إلى مكعبات.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Мека, едногодишна, дърворазрушаваща праханова гъба, която расте единично или на малки керемидообразно припокриващи се групи върху мъртва иглолистна дървесина, където причинява кафяво гниене. Широко разпространена е в Северното полукълбо и се среща в умерените и бореалните гори на Европа, Северна Америка и Северна и Централна Азия.",
+      "cap": "Плодните тела са едногодишни, приседнали, оформени като конзоли или разстлано-отгънати с издаващи се ръбове на гуглата, като често растат на припокриващи се етажи или странично сраснали редици. Отделните гугли са широки 2,5–12 cm (понякога до 15 cm) и дебели 0,5–2 cm, неправилно полукръгли, ветрилообразни или удължени в очертание, плоско-изпъкнали до почти плоски, с вълнообразен ръб, който понякога надвисва над тръбестия слой. Сухата до слабо влажна, незонирана горна повърхност е мека, фино окосмена или памучно-плъстена при младите екземпляри и става сбита или почти гладка с възрастта. Първоначално бяла, белезникава или бледокремова, при нараняване и стареене бързо променя цвета си през жълто-кафяво и рижо-кафяво до червено-кафяво и тъмноръждивокафяво, а при изсъхване става твърда и крехка.",
+      "hymenium": "Поровата повърхност е белезникава в свежо състояние, но при допир или стареене бързо се оцветява през жълтеникаво или рижо-кафяво до червено-кафяво или виненокафяво. Порите са дребни, кръгли до ъгловати, 2–5 на mm (обикновено 3–4 на mm), с тънки стени, които скоро се разкъсват и удължават в неправилни, назъбени, шипчести отвори. Белезникавият слой от тръбички е дълбок 4–15 mm и променя цвета си като поровата повърхност. Базидиите са бухалковидни, с 4 стеригми, с размери 15–18 × 4–5 µm; цистидии и сети липсват. Хифната система е мономитична, с тънкостенни до умерено дебелостенни генеративни хифи, широки 2–6 µm, носещи ясно изразени скоби.",
+      "stipe": "Липсва; плодните тела са приседнали и широко прикрепени директно към дървесината или разстлано-отгънати по субстрата.",
+      "flesh": "Меко, воднисто, еластично и подобно на сирене в свежо състояние, дебело 0,2–1,5 cm, като при изсъхване става жилаво, твърдо и крехко. Месото е бяло при младите гъби, остава бяло или постепенно покафенява при нараняване, а при изсушаване придобива кафеникав или леко пурпурнокафяв оттенък. Миризмата е слаба, леко ароматна или слабо остра; вкусът е неопределен или леко горчив. Калиевата основа (KOH) дава отрицателна реакция върху месото и повърхността на гуглата, и отрицателна или бледомаслинена върху поровата повърхност.",
+      "sporePrint": "Бял. Базидиоспорите са с размери 4–5 × 1–2,5 µm (понякога до 7 × 3 µm), цилиндрични в анфас и наденичковидни (алантоидни) в профил, гладки, тънкостенни, хиалинни в KOH, със зърнести включения, неамилоидни, недекстриноидни и ацианофилни.",
+      "habitat": "Сапротрофен вид върху мъртва иглолистна дървесина — включително паднали стволове, пънове и клони на смърч (Picea), бор (Pinus) и ела (Abies), а много рядко и върху сива елша (Alnus incana) — където причинява кафяво гниене. Плодните тела растат единично, на групи или в малки керемидообразни струпвания от пролетта до есента (обикновено от май до ноември), а в по-мек климат могат да плододават до средата или края на зимата.",
+      "uses": "Неядлива. Мекото, воднисто месо става жилаво и крехко с възрастта и няма кулинарна стойност.",
+      "confusion": "Няколко други меки, бели праханови гъби по иглолистна дървесина също се оцветяват в червено-кафяво при нараняване и трудно се различават без микроскопско изследване. Parmastomyces transmutans (син. Parmastomyces mollissimus) и Amylocystis lapponica обикновено почервеняват до червено-кафяво директно, без междинен жълтеникав или рижо-кафяв стадий; микроскопски Parmastomyces transmutans има декстриноидни спори, докато Amylocystis lapponica има по-гъсто четинесто окосмена гугла и инкрустирани, амилоидни цистидии. Leptoporus mollis се оцветява по-скоро в розово до виненокафяво и няма скоби по генеративните си хифи.",
+      "notes": "Макар свежите плодни тела да са меки и гъвкави, при изсъхване те стават твърди и ронливи и се чупят лесно след дехидратация. Видът е значим причинител на кафяво гниене по мъртвата иглолистна дървесина, като разгражда целулозата и оставя кафява дървесина с кубично напукване.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Měkká, jednoletá dřevokazná chorošovitá houba, která roste jednotlivě nebo v malých střechovitých trsech na mrtvém jehličnatém dřevě, kde vyvolává hnědou hnilobu. Je široce rozšířena po celé severní polokouli a vyskytuje se v mírných i boreálních lesích Evropy, Severní Ameriky a severní a střední Asie.",
+      "cap": "Plodnice jsou jednoleté, přisedlé, polokruhovitě kloboukaté nebo polorozlité s odstávajícími okraji klobouku, často rostoucí ve střechovitých patrech či bočně srůstajících řadách. Jednotlivé klobouky měří 2,5–12 cm v průměru (výjimečně až 15 cm) a jsou 0,5–2 cm tlusté, nepravidelně polokruhovité, vějířovité nebo protažené, ploše vyklenuté až téměř ploché, se zvlněným okrajem, který někdy přesahuje vrstvu rourek. Suchý až slabě vlhký, nezónovaný horní povrch je v mládí měkký, jemně chlupatý nebo vatovitě plstnatý a stářím zplstnatělý až téměř hladký. Zpočátku je bílý, bělavý nebo světle krémový, po otlačení a stářím se rychle zbarvuje přes žlutohnědou a skořicově hnědou do červenohnědé a tmavě rezavě hnědé a při vysychání tvrdne a křehne.",
+      "hymenium": "Povrch pórů je v čerstvém stavu bělavý, po doteku nebo stářím se rychle zbarvuje přes žlutavou nebo skořicově hnědou do červenohnědé až vínově hnědé. Póry jsou drobné, okrouhlé až hranaté, v počtu 2–5 na mm (typicky 3–4 na mm), s tenkými stěnami, které se brzy trhají a protahují v nepravidelné, zubaté otvory. Bělavá vrstva rourek je 4–15 mm vysoká a zbarvuje se stejně jako povrch pórů. Bazidie jsou kyjovité, se 4 sterigmaty, o rozměrech 15–18 × 4–5 µm; cystidy a sety chybějí. Hyfový systém je monomitický, s tenkostěnnými až středně tlustostěnnými generativními hyfami širokými 2–6 µm a nesoucími výrazné přezky.",
+      "stipe": "Chybí; plodnice jsou přisedlé a široce přirostlé přímo ke dřevu nebo polorozlité po substrátu.",
+      "flesh": "Za čerstva měkká, vodnatá, pružná a sýrovité konzistence, 0,2–1,5 cm tlustá, po zaschnutí tuhá, pevná a křehká. Dužnina je v mládí bílá, zůstává bílá nebo na otlačených místech postupně hnědne a při sušení se zbarvuje dohněda až lehce purpurově hnědě. Vůně je jemná, slabě vonná nebo lehce štiplavá; chuť je nevýrazná nebo mírně nahořklá. Hydroxid draselný (KOH) dává na dužnině a povrchu klobouku negativní reakci a na povrchu pórů reakci negativní nebo slabě olivovou.",
+      "sporePrint": "Bílý. Bazidiospory měří 4–5 × 1–2,5 µm (ojediněle až 7 × 3 µm), při čelním pohledu jsou válcovité a z boku klobáskovité (alantoidní), hladké, tenkostěnné, v KOH hyalinní, se zrnitými inkluzemi, neamyloidní, nedextrinoidní a acyanofilní.",
+      "habitat": "Saprotrofní druh na mrtvém jehličnatém dřevě — včetně padlých kmenů, pařezů a větví smrku (Picea), borovice (Pinus) a jedle (Abies), velmi vzácně také na olši šedé (Alnus incana) — kde způsobuje hnědou hnilobu. Plodnice vyrůstají jednotlivě, ve skupinách nebo v malých střechovitých trsech od jara do podzimu (obvykle od května do listopadu) a v mírnějším klimatu mohou plodit až do poloviny či konce zimy.",
+      "uses": "Nejedlá. Měkká, vodnatá dužnina stářím tuhne a křehne a nemá žádnou kuchyňskou hodnotu.",
+      "confusion": "Několik dalších měkkých bílých chorošů rostoucích na jehličnanech se rovněž po otlačení zbarvuje červenohnědě a bez mikroskopického vyšetření je lze obtížně odlišit. Parmastomyces transmutans (syn. Parmastomyces mollissimus) a Amylocystis lapponica mají tendenci měnit barvu přímo do červenohněda bez přechodného žlutavého nebo skořicově hnědého odstínu; mikroskopicky má Parmastomyces transmutans dextrinoidní výtrusy, zatímco Amylocystis lapponica má hustěji štětinatě chlupatý klobouk a inkrustované amyloidní cystidy. Leptoporus mollis se zbarvuje spíše růžově až vínově hnědě a postrádá přezky na generativních hyfách.",
+      "notes": "Přestože jsou čerstvé plodnice měkké a ohebné, při vysychání tvrdnou, stávají se drobivými a po vysušení se snadno lámou. Druh je významným původcem hnědé hniloby mrtvého jehličnatého dřeva, rozkládá celulózu a zanechává hnědé dřevo rozpadající se v kostkovité útvary.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "da": {
+      "description": "En blød, etårig, trænedbrydende poresvamp, der vokser enkeltvis eller i små taglagte klynger på dødt nåletræ, hvor den forårsager brunmuld. Den er vidt udbredt på den nordlige halvkugle og forekommer i tempererede og boreale skove i Europa, Nordamerika samt det nordlige og centrale Asien.",
+      "cap": "Frugtlegemerne er etårige, siddende og enten konsolformede eller udbredt-opbøjede med udragende hatkanter, ofte voksende i taglagte etager eller sideværts sammenvoksede rækker. Enkelte hatte måler 2,5–12 cm i bredden (undtagelsesvis op til 15 cm) og er 0,5–2 cm tykke, uregelmæssigt halvcirkelformede, vifteformede eller aflange i omrids, fladt hvælvede til næsten flade med en bølget rand, der undertiden rager ud over rørlaget. Den tørre til let fugtige, uzonerede overside er blød, fint håret eller vatagtigt filtet hos unge eksemplarer og bliver sammenfiltret eller næsten glat med alderen. Oprindeligt hvid, hvidlig eller blegt cremefarvet anløber og ældes den hurtigt gennem gulbrun og okkerbrun til rødbrun og mørkt rustbrun, og den tørrer ind til en stiv og skør konsistens.",
+      "hymenium": "Porefladen er hvidlig i frisk tilstand og anløber hurtigt gennem gullig eller okkerbrun til rødbrun eller vinbrun ved berøring eller med alderen. Porerne er små, runde til kantede, 2–5 pr. mm (typisk 3–4 pr. mm), med tynde vægge, der hurtigt flosser og strækker sig til uregelmæssige, takkede, tandlignende åbninger. Det hvidlige rørlag er 4–15 mm tykt og farves på samme måde som porefladen. Basidierne er kølleformede, 4-sporede og 15–18 × 4–5 µm; cystider og børster mangler. Hyfesystemet er monomitisk med tynd- til moderat tykvæggede generative hyfer på 2–6 µm i bredden med tydelige øskner.",
+      "stipe": "Mangler; frugtlegemerne er siddende og bredt tilhæftede direkte til veddet eller udbredt-opbøjede langs substratet.",
+      "flesh": "Blødt, vandholdigt, eftergivende og osteagtigt i frisk tilstand, 0,2–1,5 cm tykt, men sejt, stift og skørt i tør tilstand. Kødet er hvidt hos unge frugtlegemer og forbliver hvidt eller anløber gradvist brunligt ved tryk, og tørrer brunligt eller svagt purpurbrunt ind. Lugten er mild, svagt aromatisk eller let skarp; smagen er ubestemmelig eller let bitter. Kaliumhydroxid (KOH) giver en negativ reaktion på kødet og hatoversiden, og en negativ eller svagt olivenfarvet reaktion på porefladen.",
+      "sporePrint": "Hvidt. Basidiesporerne er 4–5 × 1–2,5 µm (undtagelsesvis op til 7 × 3 µm), cylindriske set forfra og pølseformede (allantoide) set fra siden, glatte, tyndvæggede, hyaline i KOH, med kornede indeslutninger, inamyloide, ikke-dekstrinoide og acyanofile.",
+      "habitat": "Saprotrof på dødt nåletræ — herunder faldne stammer, stubbe og grene af gran (Picea), fyr (Pinus) og ædelgran (Abies) samt meget sjældent på gråel (Alnus incana) — hvor den forårsager brunmuld. Frugtlegemerne vokser enkeltvis, i grupper eller i små taglagte klynger fra forår til efterår (typisk maj til november) og kan i mildere klimaer danne frugtlegemer til midt på eller sent på vinteren.",
+      "uses": "Uspiselig. Det bløde, vandholdige kød bliver sejt og skørt med alderen og har ingen kulinarisk værdi.",
+      "confusion": "Flere andre bløde, hvide poresvampe på nåletræ anløber ligeledes rødbrunt og kan være vanskelige at adskille uden mikroskopi. Parmastomyces transmutans (syn. Parmastomyces mollissimus) og Amylocystis lapponica har tendens til at anløbe direkte rødbrunt uden et mellemliggende gulligt eller okkerbrunt stadium; mikroskopisk har Parmastomyces transmutans dekstrinoide sporer, mens Amylocystis lapponica har en tættere stridhåret hat og inkrusterede, amyloide cystider. Leptoporus mollis anløber mere rosa til vinbrunt og mangler øskner på de generative hyfer.",
+      "notes": "Selvom de friske frugtlegemer er bløde og bøjelige, tørrer de hårdt og smuldrende ind og knækker let, når de er udtørrede. Arten er en markant nedbryder med brunmuld i dødt nåletræ, hvor den nedbryder cellulose og efterlader terningeformet opsprukket, brunt ved.",
+      "names": [
+        "brunlig kødporesvamp"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "de": {
+      "description": "Ein weicher, einjähriger, holzzersetzender Porling, der einzeln oder in kleinen dachziegeligen Gruppen auf totem Nadelholz wächst und dort eine Braunfäule verursacht. Er ist auf der gesamten Nordhalbkugel weit verbreitet und kommt in den gemäßigten und borealen Wäldern Europas, Nordamerikas sowie Nord- und Zentralasiens vor.",
+      "cap": "Die Fruchtkörper sind einjährig, sitzend und entweder konsolenförmig oder effus-reflex mit abstehenden Hutkanten, wobei sie häufig in dachziegeligen Reihen oder seitlich verwachsenen Gruppen stehen. Einzelne Hüte messen 2,5–12 cm in der Breite (gelegentlich bis 15 cm) und sind 0,5–2 cm dick, im Umriss unregelmäßig halbkreisförmig, fächerförmig oder langgestreckt, flach gewölbt bis nahezu flach, mit einem welligen Rand, der die Röhrenschicht bisweilen überragt. Die trockene bis leicht feuchte, ungezonte Oberseite ist jung weich, fein behaart oder wattig-filzig und verfilzt oder verkahlend im Alter. Anfangs weiß, weißlich oder blass cremefarben, verfärbt sie sich bei Druck und im Alter rasch über gelbbraun und ockerbraun zu rotbraun und dunkel rostbraun und trocknet starr und brüchig ein.",
+      "hymenium": "Die Porenschicht ist frisch weißlich und verfärbt sich bei Berührung oder im Alter rasch über gelblich oder ockerbraun zu rotbraun oder weinbraun. Die Poren sind klein, rundlich bis eckig, 2–5 pro mm (typischerweise 3–4 pro mm), mit dünnen Wänden, die bald einreißen und sich zu unregelmäßigen, zackigen, zahnartigen Öffnungen verlängern. Die weißliche Röhrenschicht ist 4–15 mm dick und verfärbt sich wie die Porenoberfläche. Die Basidien sind keulig, 4-sporig und 15–18 × 4–5 µm groß; Zystiden und Seten fehlen. Das Hyphensystem ist monomitisch, mit dünn- bis mäßig dickwandigen generativen Hyphen von 2–6 µm Breite und auffälligen Schnallen.",
+      "stipe": "Fehlend; die Fruchtkörper sind sitzend und breit direkt am Holz angewachsen oder effus-reflex dem Substrat anliegend.",
+      "flesh": "Frisch weich, wässrig, elastisch und käseartig, 0,2–1,5 cm dick, im trockenen Zustand zäh, starr und brüchig. Das Fleisch ist jung weiß, bleibt weiß oder bräunt bei Druck allmählich und trocknet bräunlich oder leicht purpurbraun ein. Der Geruch ist mild, schwach aromatisch oder leicht stechend; der Geschmack ist unauffällig oder leicht bitter. Kaliumhydroxid (KOH) zeigt am Fleisch und auf der Hutoberseite eine negative Reaktion und auf der Porenschicht eine negative oder schwach olivfarbene Reaktion.",
+      "sporePrint": "Weiß. Die Basidiosporen messen 4–5 × 1–2,5 µm (gelegentlich bis 7 × 3 µm), sind in Vorderansicht zylindrisch und in Seitenansicht würstchenförmig (allantoid), glatt, dünnwandig, in KOH hyalin, mit körnigen Einschlüssen, inamyloid, nicht dextrinoid und azyanophil.",
+      "habitat": "Saprotroph auf totem Nadelholz — einschließlich liegender Stämme, Stümpfe und Äste von Fichte (Picea), Kiefer (Pinus) und Tanne (Abies), sehr selten auch auf Grauerle (Alnus incana) — wo er eine Braunfäule erzeugt. Die Fruchtkörper wachsen einzeln, gesellig oder in kleinen dachziegeligen Gruppen vom Frühjahr bis zum Herbst (typischerweise Mai bis November) und können in milderen Klimazonen bis in den mittleren oder späten Winter hinein erscheinen.",
+      "uses": "Ungenießbar. Das weiche, wässrige Fleisch wird im Alter zäh und brüchig und hat keinen Speisewert.",
+      "confusion": "Mehrere andere weiche, weiße Porlinge an Nadelholz verfärben sich ebenfalls rotbraun und sind ohne Mikroskopie schwer abzugrenzen. Parmastomyces transmutans (Syn. Parmastomyces mollissimus) und Amylocystis lapponica verfärben sich meist direkt rotbraun ohne ein gelbliches oder ockerbraunes Zwischenstadium; mikroskopisch besitzt Parmastomyces transmutans dextrinoide Sporen, während Amylocystis lapponica einen dichter borstig behaarten Hut sowie inkrustierte, amyloide Zystiden aufweist. Leptoporus mollis verfärbt sich eher rosarot bis weinbraun und besitzt keine Schnallen an den generativen Hyphen.",
+      "notes": "Obwohl die frischen Fruchtkörper weich und biegsam sind, trocknen sie hart und krümelig ein und zerbrechen im getrockneten Zustand leicht. Die Art ist ein bedeutender Braunfäuleerreger an totem Nadelholz, der Zellulose abbaut und würfelbrüchiges braunes Holz zurücklässt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "en": {
+      "description": "A soft, annual, wood-decaying bracket fungus that grows singly or in small overlapping clusters on dead conifer wood, where it causes a brown rot. Widely distributed across the Northern Hemisphere, it occurs throughout temperate and boreal forests of Europe, North America, and northern and central Asia.",
+      "cap": "Fruiting bodies are annual, sessile, and either shelf-like brackets or effused-reflexed with projecting cap margins, often growing in overlapping tiers or laterally fused rows. Individual caps measure 2.5–12 cm across (occasionally up to 15 cm) and 0.5–2 cm thick, irregularly semicircular, fan-shaped, or elongated in outline, plano-convex to nearly flat, with a wavy margin that sometimes overhangs the tube layer. The dry to slightly moist, azonate upper surface is soft, finely hairy, or cottony-tomentose when young and becomes matted or nearly smooth with age. Initially white, whitish, or pale cream, it bruises and ages rapidly through yellowish-brown and tawny-brown to reddish-brown and dark rusty-brown, drying rigid and brittle.",
+      "hymenium": "The pore surface is whitish when fresh, bruising rapidly through yellowish or tawny-brown to reddish-brown or vinaceous-brown when handled or aged. Pores are small, round to angular, and measure 2–5 per mm (typically 3–4 per mm), with thin walls that soon tear and elongate into irregular, jagged, tooth-like openings. The whitish tube layer is 4–15 mm deep and stains like the pore surface. Basidia are clavate, 4-sterigmate, and 15–18 × 4–5 µm; cystidia and setae are absent. The hyphal system is monomitic, with thin- to moderately thick-walled generative hyphae 2–6 µm wide bearing conspicuous clamp connections.",
+      "stipe": "Absent; fruiting bodies are sessile and broadly attached directly to the wood or effused-reflexed along the substrate.",
+      "flesh": "Soft, watery, resilient, and cheese-like when fresh, 0.2–1.5 cm thick, becoming tough, rigid, and brittle when dry. The flesh is white when young, staying white or gradually staining brownish where bruised and drying brownish or slightly purplish-brown. The odour is mild, faintly fragrant, or slightly pungent; the taste is indistinct or slightly bitter. Potassium hydroxide (KOH) gives a negative reaction on the flesh and cap surface, and is negative or faintly olive on the pore surface.",
+      "sporePrint": "White. Basidiospores are 4–5 × 1–2.5 µm (occasionally up to 7 × 3 µm), cylindrical in face view and sausage-shaped (allantoid) in side view, smooth, thin-walled, hyaline in KOH, with granular inclusions, inamyloid, non-dextrinoid, and acyanophilous.",
+      "habitat": "Saprotrophic on dead conifer wood—including fallen logs, stumps, and branches of spruce (Picea), pine (Pinus), and fir (Abies), and very rarely on grey alder (Alnus incana)—where it causes a brown rot. Fruiting bodies grow singly, gregariously, or in small imbricate clusters from spring through autumn (typically May to November), and may fruit into mid- to late winter in milder climates.",
+      "uses": "Inedible. The soft, watery flesh becomes tough and brittle with age and has no culinary value.",
+      "confusion": "Several other soft, white, conifer-inhabiting polypores also bruise reddish-brown and can be difficult to separate without microscopy. Parmastomyces transmutans (syn. Parmastomyces mollissimus) and Amylocystis lapponica tend to bruise directly reddish-brown without an intermediate yellowish or tawny-brown stage; microscopically, Parmastomyces transmutans has dextrinoid spores, whereas Amylocystis lapponica has a more densely hirsute cap and encrusted, amyloid cystidia. Leptoporus mollis stains more pinkish-rose to vinaceous-brown and lacks clamp connections on its generative hyphae.",
+      "notes": "Although the fresh fruiting bodies are soft and pliable, they dry hard and crumbly, breaking apart easily once dehydrated. The species is a notable agent of brown rot in dead conifer timber, breaking down cellulose and leaving behind cubically cracked brown wood.",
+      "names": [
+        "staining cheese polypore",
+        "red-staining polypore"
+      ],
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=819285",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=819285",
+        "https://www.gbif.org/species/10672649",
+        "https://www.catalogueoflife.org/data/taxon/6JSLN",
+        "https://species.wikimedia.org/wiki/Postia_fragilis",
+        "https://www.wikidata.org/wiki/Q107687743",
+        "https://www.mushroomexpert.com/fuscopostia_fragilis.html",
+        "https://www.mykoweb.com/CAF/species/Postia_fragilis.html",
+        "https://www.inaturalist.org/taxa/959326",
+        "https://nl.wikipedia.org/wiki/Vlekkende_kaaszwam",
+        "https://fi.wikipedia.org/wiki/Tahrak%C3%A4%C3%A4p%C3%A4",
+        "https://hu.wikipedia.org/wiki/Barnul%C3%B3_likacsosgomba",
+        "https://pl.wikipedia.org/wiki/Rdzawoporek_kruchy"
+      ]
+    },
+    "es": {
+      "description": "Un hongo políporo blando, anual y lignícola que crece solitario o en pequeños grupos imbricados sobre madera muerta de coníferas, donde provoca una pudrición parda. Ampliamente distribuido por el hemisferio norte, habita en los bosques templados y boreales de Europa, América del Norte y el norte y centro de Asia.",
+      "cap": "Los cuerpos fructíferos son anuales, sésiles y adoptan forma de repisa o bien son efuso-reflejos con márgenes pileicos salientes, creciendo a menudo en pisos superpuestos o hileras fusionadas lateralmente. Los sombreros individuales miden 2,5–12 cm de anchura (ocasionalmente hasta 15 cm) y 0,5–2 cm de grosor, de contorno irregularmente semicircular, en abanico o alargado, plano-convexos a casi planos, con el margen ondulado que a veces sobresale por encima de la capa de tubos. La superficie superior, seca a ligeramente húmeda y no zonada, es blanda, finamente pelosa o algodonoso-tomentosa de joven y se vuelve apelmazada o casi lisa con la edad. Inicialmente blanca, blanquecina o crema pálido, se mancha y envejece rápidamente pasando por tonos pardo-amarillentos y leonados hasta pardo-rojizos y pardo-herrumbrosos oscuros, endureciéndose y volviéndose quebradiza al secarse.",
+      "hymenium": "La superficie porosa es blanquecina en fresco y se mancha rápidamente al roce o con la edad, pasando por amarillenta o pardo-leonada hasta pardo-rojiza o pardo-vinosa. Los poros son pequeños, redondeados a angulosos, de 2–5 por mm (típicamente 3–4 por mm), con paredes delgadas que pronto se rasgan y alargan en aberturas irregulares, dentadas y laceradas. La capa de tubos, blanquecina, tiene 4–15 mm de profundidad y se mancha igual que la superficie porosa. Los basidios son claviformes, con 4 esterigmas, de 15–18 × 4–5 µm; carece de cistidios y setas. El sistema hifal es monomítico, con hifas generativas de paredes delgadas a moderadamente gruesas, de 2–6 µm de anchura, provistas de fíbulas conspicuas.",
+      "stipe": "Ausente; los cuerpos fructíferos son sésiles y se adhieren ampliamente de forma directa a la madera, o bien crecen efuso-reflejos a lo largo del sustrato.",
+      "flesh": "Blanda, acuosa, elástica y de consistencia quesosa en fresco, de 0,2–1,5 cm de grosor, tornándose coriácea, rígida y quebradiza al secarse. La carne es blanca de joven, permanece blanca o se tiñe gradualmente de pardo al magullarse, y al secarse adquiere un tono parduzco o ligeramente pardo-purpúreo. El olor es suave, ligeramente fragante o algo acre; el sabor es indistinto o ligeramente amargo. El hidróxido potásico (KOH) produce una reacción negativa en la carne y la superficie del sombrero, y negativa o ligeramente olivácea en la superficie de los poros.",
+      "sporePrint": "Blanca. Las basidiosporas miden 4–5 × 1–2,5 µm (ocasionalmente hasta 7 × 3 µm), cilíndricas en vista frontal y en forma de salchicha (alantoides) en vista lateral, lisas, de paredes delgadas, hialinas en KOH, con inclusiones granulares, inamiloides, no dextrinoides y acianófilas.",
+      "habitat": "Saprótrofo sobre madera muerta de coníferas —incluidos troncos caídos, tocones y ramas de pícea (Picea), pino (Pinus) y abeto (Abies), y muy raramente sobre aliso gris (Alnus incana)— donde causa una pudrición parda. Los cuerpos fructíferos crecen aislados, gregarios o en pequeños grupos imbricados desde la primavera hasta el otoño (típicamente de mayo a noviembre), y pueden fructificar hasta mediados o finales del invierno en climas más templados.",
+      "uses": "No comestible. La carne blanda y acuosa se vuelve correosa y quebradiza con la edad y carece de valor culinario.",
+      "confusion": "Varios otros políporos blandos y blancos propios de coníferas también se manchan de pardo-rojizo y pueden resultar difíciles de separar sin microscopía. Parmastomyces transmutans (sin. Parmastomyces mollissimus) y Amylocystis lapponica tienden a virar directamente al pardo-rojizo sin una fase intermedia amarillenta o pardo-leonada; microscópicamente, Parmastomyces transmutans posee esporas dextrinoides, mientras que Amylocystis lapponica presenta un sombrero más densamente hirsuto y cistidios incrustados y amiloides. Leptoporus mollis se tiñe más bien de rosa-rosáceo a pardo-vinoso y carece de fíbulas en sus hifas generativas.",
+      "notes": "Aunque los cuerpos fructíferos frescos son blandos y flexibles, al secarse se vuelven duros y desmenuzables, rompiéndose con facilidad una vez deshidratados. La especie es un agente notable de pudrición parda en madera muerta de coníferas, descomponiendo la celulosa y dejando madera parda agrietada en cubos.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "et": {
+      "description": "Pehme, üheaastane puitu lagundav torikseen, mis kasvab üksikult või väikeste katusekivitaoliselt paiknevate rühmadena surnud okaspuidul, põhjustades seal pruunmädanikku. See on laialt levinud kogu põhjapoolkeral, esinedes Euroopa, Põhja-Ameerika ning Põhja- ja Kesk-Aasia parasvöötme ja boreaalsetes metsades.",
+      "cap": "Viljakehad on üheaastased, jalata ning kas riiulitaoliste konsoolidena või liibuv-käändunud eenduvate kübaraservadega, kasvades sageli ülestikku paiknevate ridadena või külgmiselt kokku kasvanud rühmadena. Üksikud kübarad on 2,5–12 cm laiad (harva kuni 15 cm) ja 0,5–2 cm paksud, ebakorrapäraselt poolringikujulised, lehvikjad või piklikud, lamedalt kumerad kuni peaaegu lamedad, lainelise servaga, mis mõnikord ulatub üle torukeste kihi. Kuiv kuni kergelt niiske vöötideta ülapind on noorelt pehme, peenkarvane või vatjalt viltjas ning muutub vananedes viltjalt liibuvaks või peaaegu siledaks. Esialgu valge, valkjas või kahvatukreemikas kübar värvub vigastamisel ja vananedes kiiresti kollakaspruuni ja ookerpruuni kaudu punakaspruuniks ning tumedaks roostepruuniks, muutudes kuivades jäigaks ja hapraks.",
+      "hymenium": "Pooride pind on värskelt valkjas, värvudes puudutamisel või vananedes kiiresti kollaka või ookerpruuni kaudu punakaspruuniks või veinpruuniks. Poorid on väikesed, ümarad kuni nurgelised, 2–5 tükki millimeetri kohta (tavaliselt 3–4 mm kohta), õhukeste seintega, mis peagi rebenevad ja pikenevad ebakorrapärasteks, sakilisteks, hambataolisteks avadeks. Valkjas torukeste kiht on 4–15 mm sügav ja värvub samamoodi nagu pooride pind. Basiidiumid on nuiakujulised, 4-sterigmalised ja mõõtmetega 15–18 × 4–5 µm; tsüstiidid ja harjased puuduvad. Hüüfisüsteem on monomiitiline, õhukese- kuni mõõdukalt paksuseinaliste generatiivhüüfidega (laius 2–6 µm), millel on selged pandlad.",
+      "stipe": "Puudub; viljakehad on jalata ja laialt otse puidule kinnitunud või mööda substraati liibuv-käändunud.",
+      "flesh": "Värskelt pehme, vesine, vetruv ja juustutaoline, 0,2–1,5 cm paksune, kuivades muutub sitkeks, jäigaks ja hapraks. Seeneliha on noorelt valge, jääb valgeks või muutub muljumiskohtades järk-järgult pruunikaks ning kuivab pruunikaks või kergelt lillakaspruuniks. Lõhn on mahe, kergelt aromaatne või nõrgalt terav; maitse on ebamäärane või kergelt mõrkjas. Kaaliumhüdroksiid (KOH) annab seenelihal ja kübara pinnal negatiivse reaktsiooni ning pooride pinnal negatiivse või nõrgalt oliivja reaktsiooni.",
+      "sporePrint": "Valge. Basiidiospoorid on mõõtmetega 4–5 × 1–2,5 µm (harva kuni 7 × 3 µm), eestvaates silindrilised ja külgvaates vorstikujulised (allantoidsed), siledad, õhukeseseinalised, KOH-s hüaliinsed, teraliste sisaldistega, inamüloidsed, mittedekstrinoidsed ja atsüanofiilsed.",
+      "habitat": "Saprotroofne surnud okaspuidul — sealhulgas kuuse (Picea), männi (Pinus) ja nulu (Abies) langenud tüvedel, kändudel ja okstel ning väga harva hallil lepal (Alnus incana) — kus põhjustab pruunmädanikku. Viljakehad kasvavad üksikult, rühmiti või väikeste katusekivitaoliste kogumikena kevadest sügiseni (tavaliselt maist novembrini) ning leebemas kliimas võivad viljuda kuni südatalveni või hilistalveni.",
+      "uses": "Mittesöödav. Pehme ja vesine seeneliha muutub vananedes sitkeks ja hapraks ning sellel puudub toiduväärtus.",
+      "confusion": "Ka mitmed teised pehmed valged okaspuidul kasvavad torikseened värvuvad vigastamisel punakaspruuniks ning neid võib ilma mikroskoopiata olla raske eristada. Parmastomyces transmutans (sün. Parmastomyces mollissimus) ja Amylocystis lapponica kipuvad värvuma otse punakaspruuniks ilma vahepealse kollaka või ookerpruuni staadiumita; mikroskoopiliselt on liigil Parmastomyces transmutans dekstrinoidsed eosed, samas kui liigil Amylocystis lapponica on tihedamalt karvane kübar ning inkrusteeritud amüloidsed tsüstiidid. Leptoporus mollis värvub pigem roosakaspunasest veinpruunini ning selle generatiivhüüfidel puuduvad pandlad.",
+      "notes": "Kuigi värsked viljakehad on pehmed ja elastsed, kuivavad need kõvaks ja pudedaks ning murduvad pärast kuivamist kergesti. Liik on oluline pruunmädaniku tekitaja surnud okaspuidus, lagundades tselluloosi ja jättes järele kuubikujuliselt lõhenenud pruuni puidu.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Tumenev_t%C3%BCmak"
+      ]
+    },
+    "fa": {
+      "description": "قارچ تاقچه‌ای نرم، یک‌ساله و چوب‌پوسان است که به‌صورت منفرد یا در دسته‌های کوچک هم‌پوشان روی چوب مردهٔ مخروطیان می‌روید و باعث پوسیدگی قهوه‌ای می‌شود. این گونه در سراسر نیم‌کرهٔ شمالی پراکندگی گسترده‌ای دارد و در جنگل‌های معتدل و شمالی اروپا، آمریکای شمالی و شمال و مرکز آسیا یافت می‌شود.",
+      "cap": "اندام‌های بارده یک‌ساله و بی‌ساقه هستند و به‌صورت تاقچه‌ای یا گسترده-برگشته با لبه‌های برجستهٔ کلاهک دیده می‌شوند و اغلب در طبقات هم‌پوشان یا ردیف‌های به‌هم‌پیوسته از پهلو می‌رویند. هر کلاهک ۲٫۵–۱۲ سانتی‌متر پهنا (گاهی تا ۱۵ سانتی‌متر) و ۰٫۵–۲ سانتی‌متر ضخامت دارد، در نما به‌طور نامنظم نیم‌دایره‌ای، بادبزنی یا کشیده، مسطح-محدب تا تقریباً تخت است و لبه‌ای موج‌دار دارد که گاهی بر لایهٔ لوله‌ها سایه می‌اندازد. سطح بالایی خشک تا کمی مرطوب و بدون نوارهای هم‌مرکز است؛ در جوانی نرم، ظریف‌پرزدار یا پنبه‌ای-نمدی است و با گذشت زمان نمدی‌شکل یا تقریباً صاف می‌شود. در ابتدا سفید، مایل به سفید یا کرم کم‌رنگ است و در اثر ضربه یا پیری به‌سرعت از زردقهوه‌ای و قهوه‌ای حنایی به قرمزقهوه‌ای و قهوه‌ای زنگاری تیره تغییر رنگ می‌دهد و هنگام خشک شدن سفت و شکننده می‌شود.",
+      "hymenium": "سطح روزنه‌ها در حالت تازه مایل به سفید است و با لمس یا گذشت زمان به‌سرعت از زرد یا قهوه‌ای حنایی به قرمزقهوه‌ای یا قهوه‌ای شرابی لکه‌دار می‌شود. روزنه‌ها کوچک، گرد تا زاویه‌دار و به تعداد ۲–۵ عدد در هر میلی‌متر (معمولاً ۳–۴ عدد در هر میلی‌متر) هستند و دیواره‌های نازکی دارند که به‌زودی پاره شده و به دهانه‌های نامنظم، دندانه‌دار و خارمانند کشیده می‌شوند. لایهٔ لوله‌های مایل به سفید ۴–۱۵ میلی‌متر عمق دارد و همانند سطح روزنه‌ها تغییر رنگ می‌دهد. بازیدی‌ها گرزشکل، دارای ۴ استریگما و به ابعاد ۱۵–۱۸ × ۴–۵ میکرومتر هستند؛ سیستیدها و خارهای میکروسکوپی (سته‌ها) وجود ندارند. سامانهٔ هیفی تک‌ریخت (مونومیتیک) است و هیف‌های زایا با دیوارهٔ نازک تا نسبتاً ضخیم به عرض ۲–۶ میکرومتر و دارای اتصالات گیره‌ای مشخص هستند.",
+      "stipe": "ندارد؛ اندام‌های بارده بی‌ساقه هستند و با قاعدهٔ پهن مستقیماً به چوب متصل می‌شوند یا به‌صورت گسترده-برگشته در امتداد بستر می‌رویند.",
+      "flesh": "در حالت تازه نرم، آبدار، ارتجاعی و پنیرمانند به ضخامت ۰٫۲–۱٫۵ سانتی‌متر است و هنگام خشک شدن سفت، سخت و شکننده می‌شود. گوشت در جوانی سفید است و سفید باقی می‌ماند یا در محل ضربه به‌تدریج قهوه‌ای می‌شود و هنگام خشک شدن به قهوه‌ای یا اندکی ارغوانی-قهوه‌ای درمی‌آید. بو ملایم، کمی معطر یا اندکی تند و مزه نامشخص یا کمی تلخ است. هیدروکسید پتاسیم (KOH) روی گوشت و سطح کلاهک واکنش منفی و روی سطح روزنه‌ها واکنش منفی یا زیتونی بسیار کم‌رنگ نشان می‌دهد.",
+      "sporePrint": "سفید. بازیدیوهاگ‌ها به ابعاد ۴–۵ × ۱–۲٫۵ میکرومتر (گاهی تا ۷ × ۳ میکرومتر)، در نمای روبه‌رو استوانه‌ای و در نمای جانبی سوسیسی‌شکل (آلانتوئید)، صاف، نازک‌دیواره، در محلول KOH شفاف، دارای درون‌دادهای دانه‌ای، غیرامیلوئید، غیردکسترینوئید و غیرسیانوفیل هستند.",
+      "habitat": "ساپروتروف روی چوب مردهٔ مخروطیان — از جمله تنه‌های افتاده، کنده‌ها و شاخه‌های نوئل (Picea)، کاج (Pinus) و نراد (Abies)، و بسیار به‌ندرت روی توسکای خاکستری (Alnus incana) — که در آن پوسیدگی قهوه‌ای ایجاد می‌کند. اندام‌های بارده به‌صورت منفرد، گروهی یا در دسته‌های کوچک هم‌پوشان از بهار تا پاییز (معمولاً از مه تا نوامبر) می‌رویند و در اقلیم‌های معتدل‌تر ممکن است تا میانه یا اواخر زمستان نیز باردهی داشته باشند.",
+      "uses": "غیرخوراکی. گوشت نرم و آبدار با گذشت زمان سفت و شکننده می‌شود و ارزش غذایی ندارد.",
+      "confusion": "چندین قارچ روزنه‌دار نرم و سفید دیگر که روی مخروطیان می‌رویند نیز در اثر ضربه به قرمزقهوه‌ای تغییر رنگ می‌دهند و جداسازی آن‌ها بدون بررسی میکروسکوپی می‌تواند دشوار باشد. گونه‌های Parmastomyces transmutans (مترادف Parmastomyces mollissimus) و Amylocystis lapponica معمولاً بدون مرحلهٔ میانی زرد یا قهوه‌ای حنایی مستقیماً به قرمزقهوه‌ای تغییر رنگ می‌دهند؛ از نظر میکروسکوپی، Parmastomyces transmutans هاگ‌های دکسترینوئید دارد، در حالی که Amylocystis lapponica کلاهکی با پرزهای زبر و متراکم‌تر و سیستیدهای پوشیده‌شدهٔ آمیلوئید دارد. گونهٔ Leptoporus mollis بیشتر به صورتی-رز تا قهوه‌ای شرابی لکه‌دار می‌شود و در هیف‌های زایا فاقد اتصالات گیره‌ای است.",
+      "notes": "اگرچه اندام‌های باردهٔ تازه نرم و انعطاف‌پذیر هستند، هنگام خشک شدن سخت و خردشونده می‌شوند و پس از بی‌آب شدن به‌راحتی می‌شکنند. این گونه از عوامل مهم پوسیدگی قهوه‌ای در چوب مردهٔ مخروطیان است که سلولز را تجزیه می‌کند و چوبی قهوه‌ای با ترک‌های مکعبی بر جای می‌گذارد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pehmeä, yksivuotinen, puuta lahottava kääpäsieni, joka kasvaa yksittäin tai pieninä limittäisinä ryhminä kuolleella havupuulla aiheuttaen ruskolahoa. Se on laajalle levinnyt pohjoisella pallonpuoliskolla ja esiintyy lauhkean ja boreaalisen vyöhykkeen metsissä Euroopassa, Pohjois-Amerikassa sekä Pohjois- ja Keski-Aasiassa.",
+      "cap": "Itiöemät ovat yksivuotisia, jalattomia ja joko hyllymäisiä lakkeja tai puoliresupinaattisia, jolloin lakkimainen reuna ulkonee alustasta; ne kasvavat usein limittäisinä kerroksina tai sivuiltaan yhteen kasvaneina riveinä. Yksittäiset lakit ovat 2,5–12 cm leveitä (satunnaisesti jopa 15 cm) ja 0,5–2 cm paksuja, muodoltaan epäsäännöllisen puoliympyrämäisiä, viuhkamaisia tai pitkulaisia, laakean kuperia tai lähes litteitä, ja niiden aaltoileva reuna kaartuu toisinaan pillistön yli. Kuiva tai hieman kostea, vyöhykkeetön yläpinta on nuorena pehmeä, hienokarvainen tai pumpulimaisen nukkainen ja muuttuu vanhetessaan huopuneeksi tai lähes kaljuksi. Aluksi valkoinen, valkeahko tai vaalean kermanvärinen pinta tummuu kosketuksesta ja vanhetessaan nopeasti kellanruskean ja okranruskean kautta punaruskeaksi ja tumman ruosteenruskeaksi sekä kuivuu kovaksi ja hauraaksi.",
+      "hymenium": "Pillistö on tuoreena valkeahko ja värjäytyy käsiteltäessä tai vanhetessaan nopeasti kellertävän tai okranruskean kautta punaruskeaksi tai viininruskeaksi. Pillit ovat pieniä, pyöreitä tai kulmikkaita, 2–5 kpl/mm (tavallisesti 3–4 kpl/mm), ja niiden ohuet seinämät repeilevät ja pitenevät pian epäsäännöllisiksi, sahalaitaisiksi, hampaisiksi aukoiksi. Valkeahko pillikerros on 4–15 mm paksu ja tummuu samoin kuin pillistön pinta. Basidit ovat nuijamaisia, 4-itiöisiä ja kooltaan 15–18 × 4–5 µm; kystidit ja seetat puuttuvat. Rihmarakenne on monomiittinen, ja ohut- tai kohtalaisen paksuseinäiset alkeisrihmat ovat 2–6 µm leveitä ja niissä on selkeät sinkilät.",
+      "stipe": "Puuttuu; itiöemät ovat jalattomia ja kiinnittyvät leveästi suoraan puuhun tai kasvavat alustanmyötäisesti puoliresupinaattisina.",
+      "flesh": "Tuoreena pehmeää, vetistä, joustavaa ja juustomaista, 0,2–1,5 cm paksua, kuivuessaan sitkeää, jäykkää ja haurasta. Malto on nuorena valkoista, pysyy valkoisena tai tummuu vähitellen ruskehtavaksi vahingoittuneista kohdista ja kuivuu ruskehtavaksi tai hieman purppuranruskeaksi. Haju on mieto, hennosti aromaattinen tai hieman pistävä; maku on epämääräinen tai hieman karvas. Kaliumhydroksidi (KOH) antaa negatiivisen reaktion maltossa ja lakin pinnassa sekä negatiivisen tai hennosti oliivinvärisen reaktion pillistössä.",
+      "sporePrint": "Valkoinen. Basidioitiöt ovat 4–5 × 1–2,5 µm (satunnaisesti jopa 7 × 3 µm), edestä lieriömäisiä ja sivulta makkaramaisia (allantoidisia), sileitä, ohutseinäisiä, KOH-liuoksessa värittömiä, jyvässulkeumaisia, inamyloideja, ei-dekstrinoideja ja asyanofiilisia.",
+      "habitat": "Lahottaja kuolleella havupuulla — mukaan lukien kaatuneet rungot, kannot ja oksat kuusella (Picea), männyllä (Pinus) ja pihdalla (Abies) sekä hyvin harvoin harmaalepällä (Alnus incana) — jossa se aiheuttaa ruskolahoa. Itiöemät kasvavat yksittäin, ryhminä tai pieninä limittäisinä rypäinä keväästä syksyyn (tavallisesti toukokuusta marraskuuhun), ja leudommassa ilmastossa ne voivat kehittyä keski- tai lopputalveen saakka.",
+      "uses": "Syötäväksi kelpaamaton. Pehmeä ja vetinen malto muuttuu vanhetessaan sitkeäksi ja hauraaksi, eikä sillä ole ruokasieniarvoa.",
+      "confusion": "Useat muut pehmeät, valkoiset havupuilla kasvavat käävät tummuvat myös punaruskeiksi, ja niiden erottaminen ilman mikroskooppia voi olla vaikeaa. Parmastomyces transmutans (syn. Parmastomyces mollissimus) ja Amylocystis lapponica värjäytyvät yleensä suoraan punaruskeiksi ilman kellertävää tai okranruskeaa välivaihetta; mikroskooppisesti lajilla Parmastomyces transmutans on dekstrinoidit itiöt, kun taas lajilla Amylocystis lapponica on tiheämmin karkeakarvainen lakki ja kiteiset, amyloidit kystidit. Leptoporus mollis värjäytyy ruusunpunertavammaksi ja viininruskeaksi, ja sen alkeisrihmoista puuttuvat sinkilät.",
+      "notes": "Vaikka tuoreet itiöemät ovat pehmeitä ja taipuisia, ne kuivuvat koviksi ja mureneviksi ja hajoavat helposti kuivuttuaan. Laji on merkittävä ruskolahon aiheuttaja kuolleessa havupuussa: se hajottaa selluloosaa ja jättää jälkeensä kuutiomaisesti halkeilevaa ruskeaa puuainesta.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Postia_fragilis",
+        "https://fi.wikipedia.org/wiki/Tahrak%C3%A4%C3%A4p%C3%A4",
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "fr": {
+      "description": "Un polypore lignicole annuel et mou, poussant isolément ou en petits groupes imbriqués sur le bois mort de conifères, où il provoque une pourriture brune. Largement répandu dans l'hémisphère Nord, il se rencontre dans les forêts tempérées et boréales d'Europe, d'Amérique du Nord ainsi que d'Asie septentrionale et centrale.",
+      "cap": "Les basidiomes sont annuels, sessiles et forment soit des consoles en éventail, soit des revêtements résupinés-réfléchis à marge saillante, souvent disposés en étages imbriqués ou soudés latéralement en rangées. Les chapeaux individuels mesurent 2,5–12 cm de largeur (parfois jusqu'à 15 cm) pour 0,5–2 cm d'épaisseur, de contour irrégulièrement semi-circulaire, flabelliforme ou allongé, plan-convexe à presque plat, avec une marge ondulée qui surplombe parfois la couche de tubes. La surface supérieure, sèche à légèrement humide et non zonée, est molle, finement velue ou cotonneuse-tomenteuse chez les jeunes sujets, puis devient feutrée ou presque lisse avec l'âge. D'abord blanche, blanchâtre ou crème pâle, elle se tache et évolue rapidement au toucher ou avec l'âge vers le brun jaunâtre et le brun fauve, puis le brun rougeâtre et le brun rouille foncé, en devenant rigide et cassante au séchage.",
+      "hymenium": "La surface poroïde est blanchâtre à l'état frais, puis brunit rapidement au toucher ou avec l'âge en passant par le jaunâtre ou le brun fauve jusqu'au brun rougeâtre ou brun vineux. Les pores sont petits, ronds à anguleux, au nombre de 2–5 par mm (généralement 3–4 par mm), à parois minces qui se déchirent rapidement et s'allongent en ouvertures irrégulières, dentelées et laciniées. La couche de tubes blanchâtre mesure 4–15 mm d'épaisseur et se tache de la même manière que la surface poroïde. Les basides sont clavées, tétrasporiques (à 4 stérigmates), mesurant 15–18 × 4–5 µm ; les cystides et les soies sont absentes. Le système hyphal est monomitique, composé d'hyphes génératrices à parois minces à modérément épaissies, larges de 2–6 µm et pourvues de boucles bien visibles.",
+      "stipe": "Absent ; les basidiomes sont sessiles et largement fixés directement au bois, ou résupinés-réfléchis le long du substrat.",
+      "flesh": "Molle, aqueuse, élastique et de consistance fromagère à l'état frais, épaisse de 0,2–1,5 cm, devenant tenace, rigide et cassante en séchant. La chair est blanche chez les jeunes spécimens, restant blanche ou se tachant progressivement de brunâtre aux blessures, puis prenant une teinte brunâtre ou légèrement brun violacé au séchage. L'odeur est faible, légèrement aromatique ou un peu âcre ; la saveur est indistincte ou légèrement amère. L'hydroxyde de potassium (KOH) donne une réaction négative sur la chair et la surface du chapeau, et négative ou faiblement olivâtre sur la surface poroïde.",
+      "sporePrint": "Blanche. Les basidiospores mesurent 4–5 × 1–2,5 µm (occasionnellement jusqu'à 7 × 3 µm) ; elles sont cylindriques de face et allantoïdes (en forme de saucisse) de profil, lisses, à paroi mince, hyalines dans le KOH, contenant des inclusions granuleuses, non amyloïdes, non dextrinoïdes et acyanophiles.",
+      "habitat": "Saprotrophe sur le bois mort de conifères — notamment les troncs couchés, les souches et les branches d'épicéa (Picea), de pin (Pinus) et de sapin (Abies), et très rarement sur l'aulne blanc (Alnus incana) — où il provoque une pourriture brune. Les basidiomes poussent isolément, en troupes ou en petits groupes imbriqués du printemps à l'automne (généralement de mai à novembre), et peuvent fructifier jusqu'au milieu ou à la fin de l'hiver dans les climats plus doux.",
+      "uses": "Non comestible. La chair molle et aqueuse devient tenace et cassante avec l'âge et ne présente aucune valeur culinaire.",
+      "confusion": "Plusieurs autres polypores blancs et mous poussant sur conifères se tachent également de brun rougeâtre et peuvent être difficiles à distinguer sans examen microscopique. Parmastomyces transmutans (syn. Parmastomyces mollissimus) et Amylocystis lapponica tendent à virer directement au brun rougeâtre sans passer par une phase intermédiaire jaunâtre ou brun fauve ; au microscope, Parmastomyces transmutans possède des spores dextrinoïdes, tandis qu'Amylocystis lapponica présente un chapeau plus densément hirsute et des cystides incrustées et amyloïdes. Leptoporus mollis se tache plutôt de rose vineux à brun vineux et est dépourvu de boucles sur ses hyphes génératrices.",
+      "notes": "Bien que les basidiomes frais soient mous et souples, ils deviennent durs et friables en séchant et se brisent facilement une fois déshydratés. L'espèce est un agent notable de pourriture brune sur le bois mort de conifères, dégradant la cellulose et laissant un bois brun à cassure cubique.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649",
+        "https://www.mycoquebec.org/bas.php?trie=F&l=l&nom=Fuscopostia%20fragilis%20/%20Polypore%20fragile&tag=Fuscopostia%20fragilis&gro=117"
+      ]
+    },
+    "he": {
+      "description": "פטריית מדף שנתית, רכה ומפרקת עץ, הגדלה ביחידות או בקבוצות קטנות וחופפות על עץ מת של מחטניים, שם היא גורמת לריקבון חום. הפטרייה נפוצה ברחבי חצי הכדור הצפוני וגדלה ביערות ממוזגים ובוריאליים באירופה, באמריקה הצפונית ובצפון אסיה ובמרכזה.",
+      "cap": "גופי הפרי שנתיים, יושבים (חסרי רגל), ויוצרים צורת מדף או צורה שטוחה-כפופה עם שולי כובע בולטים, לעיתים קרובות בשכבות חופפות או בשורות מאוחות לרוחב. רוחב הכובעים הבודדים 2.5–12 cm (לעיתים עד 15 cm) ועוביים 0.5–2 cm; מתארם חצי-עגול בלתי סדיר, דמוי מניפה או מוארך, קמור-שטוח עד כמעט שטוח, עם שוליים גליים הגולשים לעיתים מעל שכבת הצינורות. פני השטח העליונים יבשים עד לחים מעט, חסרי אזורים קונצנטריים, רכים, שעירים בעדינות או לבדיים-כותנתיים בצעירותם ונעשים דחוסים או כמעט חלקים עם הגיל. צבעם בתחילה לבן, לבנבן או קרם חיוור, ובמגע או עם ההזדקנות הם מכתמים במהירות לחום-צהבהב וחום-צהוב-אדמדם, ובהמשך לחום-אדמדם ולחום-חלודה כהה; בייבוש הם נעשים נוקשים ושבירים.",
+      "hymenium": "משטח הנקבוביות לבנבן בטריותו ומכתים במהירות לצהבהב או לחום-צהוב-אדמדם, ולאחר מכן לחום-אדמדם או לחום-ייני במגע או עם הגיל. הנקבוביות קטנות, עגולות עד זוויתיות, וצפיפותן 2–5 למילימטר (בדרך כלל 3–4 למילימטר), עם דפנות דקות הנקרעות ומתארכות במהרה לפתחים בלתי סדירים, משוננים ודמויי שיניים. שכבת הצינורות הלבנבנה בעומק 4–15 mm ומכתימה בדומה למשטח הנקבוביות. הבסידיות דמויות אלה, בעלות 4 סטריגמטות, ומידותיהן 15–18 × 4–5 µm; ציסטידות וזיפים חסרים. מערכת הקורים מונומיטית, עם קורים גנרטיביים בעלי דופן דקה עד עבה במידה בינונית, ברוחב 2–6 µm, הנושאים קשרי אבזם בולטים.",
+      "stipe": "חסרה; גופי הפרי יושבים ומחוברים ישירות לעץ בבסיס רחב או שטוחים-כפופים לאורך המצע.",
+      "flesh": "רך, מימי, גמיש ודמוי גבינה בטריותו, בעובי 0.2–1.5 cm, ונעשה קשיח, נוקשה ושביר בייבוש. הבשר לבן בצעירותו, נשאר לבן או מכתים בהדרגה לחום באזורי פציעה, ומתייבש לגוון חום או חום-סגלגל קלוש. הריח עדין, ריחני קלות או חריף במקצת; הטעם בלתי מובחן או מריר קלות. תגובת אשלגן הידרוקסיד (KOH) שלילית על הבשר ועל פני הכובע, ושלילית או ירקרקה-זיתית קלושה על משטח הנקבוביות.",
+      "sporePrint": "לבן. הבסידיוספורות במידות 4–5 × 1–2.5 µm (לעיתים עד 7 × 3 µm), גליליות במבט חזיתי ודמויות נקניק (אלנטואידיות) במבט צדי, חלקות, דקות-דופן, שקופות ב-KOH, בעלות תכלילים גרגיריים, בלתי עמילניות, בלתי דקסטרינואידיות ובלתי ציאנופיליות.",
+      "habitat": "סאפרוטרופית על עץ מת של מחטניים — לרבות גזעים שרועים, גדמים וענפים של אשוחית (Picea), אורן (Pinus) ואשוח (Abies), ולעיתים נדירות ביותר גם על אלנוס אפור (Alnus incana) — שם היא גורמת לריקבון חום. גופי הפרי גדלים ביחידות, בקבוצות או באשכולות קטנים וחופפים מהאביב ועד הסתיו (בדרך כלל ממאי עד נובמבר), ובאזורים בעלי אקלים מתון יותר הם עשויים להניב פרי עד אמצע החורף או סופו.",
+      "uses": "לא למאכל. הבשר הרך והמימי נעשה קשיח ושביר עם הגיל ואין לו ערך קולינרי.",
+      "confusion": "מספר נקבובניות לבנות ורכות נוספות הגדלות על מחטניים מכתימות אף הן לחום-אדמדם, ועלול להיות קשה להבדיל ביניהן ללא בדיקה מיקרוסקופית. Parmastomyces transmutans (שם נרדף: Parmastomyces mollissimus) ו-Amylocystis lapponica נוטים להכתים ישירות לחום-אדמדם ללא שלב ביניים צהבהב או חום-צהוב-אדמדם; מבחינה מיקרוסקופית, ל-Parmastomyces transmutans יש נבגים דקסטרינואידיים, ואילו ל-Amylocystis lapponica יש כובע שעיר וזיפני בצפיפות רבה יותר וציסטידות מצופות ועמילניות. Leptoporus mollis מכתים לגוון ורוד-ורדרד עד חום-ייני וחסר קשרי אבזם בקורים הגנרטיביים שלו.",
+      "notes": "אף שגופי הפרי הטריים רכים וגמישים, הם מתקשים ונעשים פירוריים בייבוש ונשברים בקלות לאחר התייבשותם. המין הוא גורם חשוב לריקבון חום בעץ מחטניים מת, המפרק תאית ומותיר אחריו עץ חום הסדוק לקוביות.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक नरम, वार्षिक, लकड़ी सड़ाने वाला ब्रैकेट कवक जो मृत शंकुधारी लकड़ी पर अकेले या छोटे अतिव्यापी समूहों में उगता है और उसमें भूरा सड़न उत्पन्न करता है। उत्तरी गोलार्ध में व्यापक रूप से वितरित यह कवक यूरोप, उत्तरी अमेरिका तथा उत्तरी और मध्य एशिया के समशीतोष्ण और बोरियल वनों में पाया जाता है।",
+      "cap": "फलनकाय वार्षिक और वृंतहीन होते हैं तथा शेल्फ जैसे ब्रैकेट या उभरे हुए टोपी के किनारों वाले फैले-मुड़े रूप में उगते हैं, जो अक्सर अतिव्यापी स्तरों या पार्श्व रूप से जुड़ी पंक्तियों में व्यवस्थित रहते हैं। अलग-अलग टोपियाँ 2.5–12 cm चौड़ी (कभी-कभी 15 cm तक) और 0.5–2 cm मोटी होती हैं; इनका आकार अनियमित अर्धवृत्ताकार, पंखे जैसा या लंबा, समतल-उत्तल से लगभग चपटा होता है, और इनका लहरदार किनारा कभी-कभी नलिका परत के ऊपर लटका रहता है। सूखी से हल्की नम, बिना धारियों वाली ऊपरी सतह युवा अवस्था में नरम, महीन रोएँदार या रुई जैसी मखमली होती है और उम्र के साथ चिपकी हुई या लगभग चिकनी हो जाती है। शुरुआत में सफेद, सफेदी लिए या हल्के क्रीम रंग की यह सतह छूने या उम्र बढ़ने पर तेजी से पीले-भूरे और पीताभ-भूरे से होते हुए लाल-भूरे और गहरे जंग-भूरे रंग की हो जाती है, तथा सूखने पर कठोर और भंगुर बन जाती है।",
+      "hymenium": "ताजी अवस्था में छिद्र सतह सफेदी लिए होती है, जो छूने या उम्र बढ़ने पर तेजी से पीले या पीताभ-भूरे से होते हुए लाल-भूरे या मदिरा-भूरे रंग में बदल जाती है। छिद्र छोटे, गोल से कोणीय होते हैं और प्रति mm इनकी संख्या 2–5 (आमतौर पर 3–4 प्रति mm) होती है; इनकी पतली भित्तियाँ शीघ्र ही फटकर लंबे, अनियमित, दांतेदार और काँटे जैसे छिद्रों में बदल जाती हैं। सफेदी लिए नलिका परत 4–15 mm गहरी होती है और छिद्र सतह की तरह ही रंग बदलती है। बेसिडिया गदाकार, 4-स्टेरिगमा युक्त और 15–18 × 4–5 µm माप के होते हैं; सिस्टिडिया और सीटा अनुपस्थित होते हैं। कवकतंतु तंत्र मोनोमिटिक होता है, जिसमें 2–6 µm चौड़े पतली से मध्यम मोटी भित्ति वाले जनन कवकतंतु स्पष्ट क्लैंप संधियों के साथ पाए जाते हैं।",
+      "stipe": "अनुपस्थित; फलनकाय वृंतहीन होते हैं और सीधे लकड़ी से चौड़े आधार द्वारा जुड़े रहते हैं या आधार पर फैले-मुड़े रूप में उगते हैं।",
+      "flesh": "ताजी अवस्था में नरम, जलीय, लचीला और पनीर जैसा, 0.2–1.5 cm मोटा, जो सूखने पर सख्त, कठोर और भंगुर हो जाता है। युवा अवस्था में गूदा सफेद होता है, जो सफेद ही बना रहता है या चोट लगने पर धीरे-धीरे भूरे रंग का दाग छोड़ता है तथा सूखने पर भूरा या हल्का बैंगनी-भूरा हो जाता है। गंध हल्की, मंद सुगंधित या थोड़ी तीखी होती है; स्वाद अस्पष्ट या हल्का कड़वा होता है। पोटेशियम हाइड्रॉक्साइड (KOH) गूदे और टोपी की सतह पर नकारात्मक प्रतिक्रिया देता है, तथा छिद्र सतह पर नकारात्मक या हल्का जैतूनी रंग दर्शाता है।",
+      "sporePrint": "सफेद। बेसिडियोबीजाणु 4–5 × 1–2.5 µm (कभी-कभी 7 × 3 µm तक) माप के होते हैं, सामने से देखने पर बेलनाकार और पार्श्व से देखने पर सॉसेज के आकार के (एलैंटॉइड), चिकने, पतली भित्ति वाले, KOH में पारदर्शी, कणिकामय अंतर्वेश युक्त, अ-एमिलॉइड, अ-डेक्सट्रिनॉइड और अ-साइनोफिलस होते हैं।",
+      "habitat": "मृत शंकुधारी लकड़ी — जिनमें स्प्रूस (Picea), चीड़ (Pinus) और फर (Abies) के गिरे हुए तने, ठूंठ और शाखाएँ शामिल हैं, तथा बहुत दुर्लभ रूप से ग्रे एल्डर (Alnus incana) — पर मृतोपजीवी के रूप में उगता है और भूरा सड़न उत्पन्न करता है। फलनकाय वसंत से शरद ऋतु तक (आमतौर पर मई से नवंबर तक) अकेले, समूह में या छोटे अतिव्यापी गुच्छों में उगते हैं, और अपेक्षाकृत सौम्य जलवायु वाले क्षेत्रों में मध्य से देर शीत ऋतु तक भी फलन कर सकते हैं।",
+      "uses": "अखाद्य। नरम और जलीय गूदा उम्र के साथ सख्त और भंगुर हो जाता है तथा इसका कोई पाक महत्व नहीं है।",
+      "confusion": "शंकुधारी लकड़ी पर उगने वाले कई अन्य नरम, सफेद पॉलीपोर कवक भी चोट लगने पर लाल-भूरे हो जाते हैं और सूक्ष्मदर्शी जांच के बिना उन्हें अलग पहचानना कठिन हो सकता है। Parmastomyces transmutans (पर्याय: Parmastomyces mollissimus) और Amylocystis lapponica बिना मध्यवर्ती पीले या पीताभ-भूरे चरण के सीधे लाल-भूरे रंग का दाग छोड़ते हैं; सूक्ष्मदर्शी से देखने पर Parmastomyces transmutans में डेक्सट्रिनॉइड बीजाणु होते हैं, जबकि Amylocystis lapponica की टोपी अधिक घने कड़े रोओं वाली होती है और इसमें पपड़ीदार एमिलॉइड सिस्टिडिया पाए जाते हैं। Leptoporus mollis अधिक गुलाबी-गुलाब से मदिरा-भूरे रंग का दाग छोड़ता है और इसके जनन कवकतंतुओं में क्लैंप संधियाँ अनुपस्थित होती हैं।",
+      "notes": "हालाँकि ताजे फलनकाय नरम और लचीले होते हैं, सूखने पर वे कठोर और भुरभुरे हो जाते हैं तथा निर्जलित होने पर आसानी से टूट जाते हैं। यह प्रजाति मृत शंकुधारी लकड़ी में भूरे सड़न का एक प्रमुख कारक है, जो सेल्यूलोज को विघटित करती है और घनाकार दरारों वाली भूरी लकड़ी पीछे छोड़ जाती है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mekana, jednogodišnja lignikolna gljiva rupičavka koja raste pojedinačno ili u manjim crijepasto poredanim skupinama na mrtvom drvu četinjača, gdje uzrokuje smeđu trulež. Široko rasprostranjena diljem sjeverne polutke, javlja se u umjerenim i borealnim šumama Europe, Sjeverne Amerike te sjeverne i srednje Azije.",
+      "cap": "Plodna tijela su jednogodišnja, sjedeća, u obliku konzola ili razliveno-odignuta s izbočenim rubovima klobuka, često poredana u preklapajuće slojeve ili bočno srasle nizove. Pojedinačni klobuci mjere 2,5–12 cm u širinu (povremeno do 15 cm) i 0,5–2 cm u debljinu, nepravilno polukružnog, lepezastog ili izduženog obrisa, plosnato-ispupčeni do gotovo ravni, s valovitim rubom koji ponekad prelazi preko sloja cjevčica. Suha do blago vlažna, nezonirana gornja površina u mladosti je mekana, fino dlakava ili pamučasto-baršunasta, a s vremenom postaje slijepljena ili gotovo glatka. Isprva bijela, bjelkasta ili blijedokrem, na dodir i starenjem brzo tamni preko žućkastosmeđe i okerastosmeđe do crvenkastosmeđe i tamnohrđastosmeđe boje, a sušenjem postaje kruta i krhka.",
+      "hymenium": "Površina pora u svježem je stanju bjelkasta, a na dodir ili starenjem brzo poprima žućkastu ili okerastosmeđu, zatim crvenkastosmeđu ili vinskosmeđu boju. Pore su sitne, okrugle do uglate, 2–5 po mm (obično 3–4 po mm), tankih stijenki koje se ubrzo cijepaju i izdužuju u nepravilne, nazubljene otvore nalik zupcima. Bjelkasti sloj cjevčica dubok je 4–15 mm i mijenja boju jednako kao površina pora. Bazidiji su batinasti, s 4 sterigme, veličine 15–18 × 4–5 µm; cistide i sete nedostaju. Hifni sustav je monomitički, s tankostijenim do umjereno debelostijenim generativnim hifama širokim 2–6 µm koje nose uočljive kopče.",
+      "stipe": "Nedostaje; plodna tijela su sjedeća i široko prirasla izravno uz drvo ili razliveno-odignuta duž podloge.",
+      "flesh": "Mekano, vodenasto, elastično i siraste konzistencije u svježem stanju, debelo 0,2–1,5 cm, a sušenjem postaje žilavo, kruto i krhko. Meso je u mladosti bijelo, ostaje bijelo ili na oštećenim mjestima postupno poprima smećkastu boju, dok se sušenjem mijenja u smećkastu ili blago purpurnosmeđu. Miris je blag, slabo mirisan ili blago opor; okus je neodređen ili blago gorak. Kalijev hidroksid (KOH) daje negativnu reakciju na mesu i površini klobuka, a na površini pora negativnu ili slabo maslinastu.",
+      "sporePrint": "Bijel. Bazidiospore mjere 4–5 × 1–2,5 µm (povremeno do 7 × 3 µm), valjkaste su u prednjem pogledu i kobasičaste (alantoidne) u bočnom pogledu, glatke, tankostijene, hijaline u KOH, sa zrnatim uklopinama, neamiloidne, nedekstrinoidne i acijanofilne.",
+      "habitat": "Saprotrofna na mrtvom drvu četinjača — uključujući oborena debla, panjeve i grane smreke (Picea), bora (Pinus) i jele (Abies), te vrlo rijetko na sivoj johi (Alnus incana) — gdje uzrokuje smeđu trulež. Plodna tijela rastu pojedinačno, u skupinama ili u malim crijepastim nakupinama od proljeća do jeseni (obično od svibnja do studenoga), a u blažim podnebljima mogu plodonositi i do sredine ili kraja zime.",
+      "uses": "Nejestiva. Mekano, vodenasto meso starenjem postaje žilavo i krhko te nema kulinarsku vrijednost.",
+      "confusion": "Nekoliko drugih mekanih, bijelih rupičavki koje rastu na četinjačama također na dodir poprima crvenkastosmeđu boju te ih može biti teško razlikovati bez mikroskopije. Parmastomyces transmutans (sin. Parmastomyces mollissimus) i Amylocystis lapponica obično izravno mijenjaju boju u crvenkastosmeđu bez prijelazne žućkaste ili okerastosmeđe faze; mikroskopski, Parmastomyces transmutans ima dekstrinoidne spore, dok Amylocystis lapponica ima gušće čekinjast klobuk te inkrustirane, amiloidne cistide. Leptoporus mollis mijenja boju više prema ružičastoružinoj do vinskosmeđoj i nema kopče na generativnim hifama.",
+      "notes": "Iako su svježa plodna tijela mekana i savitljiva, sušenjem postaju tvrda i mrvljiva te se lako lome nakon što se osuše. Vrsta je značajan uzročnik smeđe truleži mrtvog drva četinjača; razgrađuje celulozu i za sobom ostavlja smeđe drvo ispucano na kockaste komade.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Puha, egyéves, fabontó taplógomba, amely magányosan vagy kisebb, egymást átfedő csoportokban nő elhalt fenyőfán, barnakorhadást okozva. Az északi féltekén széles körben elterjedt; Európa, Észak-Amerika, valamint Észak- és Közép-Ázsia mérsékelt övi és boreális erdeiben egyaránt előfordul.",
+      "cap": "Termőtestei egyévesek, tönk nélküliek, konzolosak vagy elterülő-felhajló kalappereműek, gyakran egymás fölé boruló szintekben vagy oldalirányban összenőtt sorokban fejlődnek. Az egyes kalapok 2,5–12 cm szélesek (ritkán akár 15 cm-esek) és 0,5–2 cm vastagok, szabálytalanul félkör, legyező alakúak vagy megnyúltak, lapos-domborúak vagy csaknem laposak, hullámos peremük olykor túlnyúlik a csöves rétegen. A száraz vagy kissé nedves, zónázatlan felszín fiatalon puha, finoman szőrös vagy vattás-nemezes, idővel lesimulóvá vagy csaknem simává válik. Kezdetben fehér, fehéres vagy halvány krémszínű, érintésre és idősödve gyorsan sárgásbarna és fakóbarna árnyalatokon át vörösesbarnára és sötét rozsdabarnára színeződik, száradáskor merevvé és törékennyé válik.",
+      "hymenium": "A pórusos termőréteg frissen fehéres, érintésre vagy idősödve gyorsan sárgásbarnára, fakóbarnára, majd vörösesbarnára vagy borbarnára foltosodik. A pórusok aprók, kerekdedek vagy szögletesek, milliméterenként 2–5 (jellemzően 3–4) található belőlük; vékony falaik hamar felszakadoznak, és szabálytalan, fogazott, csipkézett nyílásokká nyúlnak meg. A fehéres csöves réteg 4–15 mm vastag, és a pórusfelülethez hasonlóan színeződik. A bazídiumok bunkó alakúak, 4 szterigmásak, 15–18 × 4–5 µm méretűek; cisztídiumok és széták nincsenek. Hifarendszere monomitikus, a vékony vagy mérsékelten vastag falú, 2–6 µm széles generatív hifákon jól látható csatok találhatók.",
+      "stipe": "Nincs; a termőtestek tönk nélküliek, széles alappal közvetlenül a fához nőnek, vagy elterülő-felhajló módon tapadnak az aljzathoz.",
+      "flesh": "Frissen puha, vizenyős, rugalmas és sajtszerű állagú, 0,2–1,5 cm vastag, száradva szívóssá, merevvé és törékennyé válik. A hús fiatalon fehér, később fehér marad vagy sérülésre fokozatosan barnásan elszíneződik, száradáskor barnás vagy enyhén bíborosbarna árnyalatot vesz fel. Szaga enyhe, gyengén aromás vagy kissé csípős; íze jellegtelen vagy enyhén kesernyés. Kálium-hidroxiddal (KOH) a hús és a kalapfelszín nem reagál, a pórusfelület pedig negatív vagy halvány olívszínű reakciót ad.",
+      "sporePrint": "Fehér. A bazídiospórák 4–5 × 1–2,5 µm (alkalmanként akár 7 × 3 µm) méretűek, szemből hengeresek, oldalnézetben kolbász alakúak (allantoidok), simák, vékony falúak, KOH-ban színtelenek, szemcsés zárványokkal, nem amiloidok, nem dextrinoidok és nem cianofilok.",
+      "habitat": "Szaprotróf faj elhalt fenyőfán — többek között lucfenyő (Picea), fenyő (Pinus) és jegenyefenyő (Abies) kidőlt törzsein, tuskóin és ágain, nagyon ritkán pedig hamvas égeren (Alnus incana) —, ahol barnakorhadást idéz elő. Termőtestei tavasztól őszig (jellemzően májustól novemberig) magányosan, csoportosan vagy kisebb, cserépszerűen egymást fedő csomókban jelennek meg, enyhébb éghajlatú területeken pedig a tél közepéig-végéig is teremhetnek.",
+      "uses": "Nem ehető. A puha, vizenyős hús idősödve szívóssá és törékennyé válik, kulináris értéke nincs.",
+      "confusion": "Számos más, fenyőfélék fáján élő puha, fehér taplógomba is vörösesbarnára színeződik érintésre, így mikroszkópos vizsgálat nélkül nehéz lehet őket elkülöníteni. A Parmastomyces transmutans (szin. Parmastomyces mollissimus) és az Amylocystis lapponica rendszerint közvetlenül vörösesbarnára foltosodik, köztes sárgás vagy fakóbarna fázis nélkül; mikroszkóppal a Parmastomyces transmutans dextrinoid spóráiról, míg az Amylocystis lapponica sűrűbben sörtés kalapjáról és inkrusztált, amiloid cisztídiumairól ismerhető fel. A Leptoporus mollis inkább rózsás-rózsaszínes árnyalatúról borbarnára színeződik, és generatív hifáiról hiányoznak a csatok.",
+      "notes": "Bár a friss termőtestek puhák és hajlékonyak, száradáskor keménnyé és morzsalékossá válnak, kiszáradva könnyen széttörnek. Jelentős barnakorhadást okozó faj az elhalt fenyőfaanyagban: lebontja a cellulózt, és kockásan repedezett barna faanyagot hagy maga után.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Barnul%C3%B3_likacsosgomba",
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "id": {
+      "description": "Jamur braket pelapuk kayu semusim yang lunak, tumbuh tunggal atau dalam kelompok kecil yang saling bertumpuk pada kayu konifer mati dan menyebabkan busuk cokelat. Tersebar luas di Belahan Bumi Utara, jamur ini dijumpai di hutan beriklim sedang dan boreal di Eropa, Amerika Utara, serta Asia bagian utara dan tengah.",
+      "cap": "Tubuh buah bersifat semusim, tidak bertangkai, berbentuk braket seperti rak atau melebar dengan tepi tudung yang melengkung ke luar, sering tumbuh bertingkat saling bertumpuk atau menyatu secara menyamping membentuk deretan. Masing-masing tudung berukuran lebar 2,5–12 cm (terkadang hingga 15 cm) dan tebal 0,5–2 cm, berbentuk setengah lingkaran tidak beraturan, menyerupai kipas, atau memanjang, datar-cembung hingga hampir datar, dengan tepi bergelombang yang kadang menjorok melewati lapisan tabung. Permukaan atasnya kering hingga agak lembap, tidak berzona, lunak, berambut halus atau berbulu seperti kapas saat muda, lalu menjadi kusut atau hampir licin seiring bertambahnya usia. Awalnya berwarna putih, keputihan, atau krem pucat, kemudian cepat memar dan berubah warna seiring usia melalui cokelat kekuningan dan cokelat kekuningan kusam hingga cokelat kemerahan dan cokelat karat tua, serta menjadi kaku dan rapuh saat mengering.",
+      "hymenium": "Permukaan pori berwarna keputihan saat segar, lalu cepat memar menjadi kekuningan atau cokelat kekuningan kusam hingga cokelat kemerahan atau cokelat anggur saat disentuh atau menua. Pori berukuran kecil, bulat hingga bersudut, berjumlah 2–5 per mm (umumnya 3–4 per mm), dengan dinding tipis yang segera sobek dan memanjang menjadi bukaan tidak beraturan, bergerigi, dan menyerupai gigi. Lapisan tabung keputihan setebal 4–15 mm dan berubah warna seperti permukaan pori. Basidium berbentuk gada, bersterigma 4, berukuran 15–18 × 4–5 µm; sistidia dan seta tidak ada. Sistem hifa monomitik, dengan hifa generatif berdinding tipis hingga agak tebal selebar 2–6 µm yang memiliki sambungan klem yang jelas.",
+      "stipe": "Tidak ada; tubuh buah tidak bertangkai dan melekat lebar langsung pada kayu atau melebar-melengkung mengikuti substrat.",
+      "flesh": "Lunak, berair, kenyal, dan bertekstur seperti keju saat segar, setebal 0,2–1,5 cm, kemudian menjadi liat, kaku, dan rapuh saat kering. Daging berwarna putih saat muda, tetap putih atau perlahan menodai kecokelatan pada bagian yang memar, dan mengering menjadi kecokelatan atau sedikit cokelat keunguan. Baunya lembut, agak harum, atau sedikit menyengat; rasanya tidak khas atau sedikit pahit. Kalium hidroksida (KOH) memberikan reaksi negatif pada daging dan permukaan tudung, serta negatif atau sedikit zaitun pada permukaan pori.",
+      "sporePrint": "Putih. Basidiospora berukuran 4–5 × 1–2,5 µm (terkadang hingga 7 × 3 µm), berbentuk silindris jika dilihat dari depan dan berbentuk sosis (alantoid) dari samping, licin, berdinding tipis, hialin dalam KOH, dengan inklusi berbutir, inamiloid, nondestrinoid, dan asianofil.",
+      "habitat": "Saprotrof pada kayu konifer mati—termasuk batang tumbang, tunggul, dan cabang spruce (Picea), pinus (Pinus), dan fir (Abies), serta sangat jarang pada alder abu-abu (Alnus incana)—yang menimbulkan busuk cokelat. Tubuh buah tumbuh tunggal, berkelompok, atau dalam rumpun kecil yang saling bertumpuk dari musim semi hingga musim gugur (umumnya Mei hingga November), dan dapat terus berbuah hingga pertengahan atau akhir musim dingin di wilayah beriklim lebih sejuk.",
+      "uses": "Tidak dapat dimakan. Dagingnya yang lunak dan berair menjadi liat serta rapuh seiring usia dan tidak memiliki nilai kuliner.",
+      "confusion": "Beberapa jamur polipora putih dan lunak lainnya yang hidup pada konifer juga memar menjadi cokelat kemerahan sehingga sulit dibedakan tanpa pemeriksaan mikroskop. Parmastomyces transmutans (sin. Parmastomyces mollissimus) dan Amylocystis lapponica cenderung memar langsung menjadi cokelat kemerahan tanpa tahap perantara kekuningan atau cokelat kekuningan kusam; secara mikroskopis, Parmastomyces transmutans memiliki spora dekstrinoid, sedangkan Amylocystis lapponica memiliki tudung yang lebih lebat berambut kaku serta sistidia berkerak yang amiloid. Leptoporus mollis berubah warna lebih ke arah merah muda mawar hingga cokelat anggur dan tidak memiliki sambungan klem pada hifa generatifnya.",
+      "notes": "Meskipun tubuh buah segarnya lunak dan lentur, bagian tersebut mengering menjadi keras dan mudah hancur, serta cepat patah setelah kehilangan air. Spesies ini merupakan agen penting penyebab busuk cokelat pada kayu konifer mati, menguraikan selulosa dan menyisakan kayu cokelat yang retak berbentuk kubus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Fungo lignicolo annuale, morbido e a mensola, che cresce isolato o in piccoli gruppi embricati su legno morto di conifere, dove provoca una carie bruna. Ampiamente distribuito nell'emisfero settentrionale, è presente nelle foreste temperate e boreali di Europa, Nord America e Asia settentrionale e centrale.",
+      "cap": "I basidiomi sono annuali, sessili, a mensola oppure effuso-reflessi con margini pileici sporgenti, spesso disposti in ripiani sovrapposti o fusi lateralmente in file. I singoli cappelli misurano 2,5–12 cm di larghezza (talvolta fino a 15 cm) e 0,5–2 cm di spessore, con profilo irregolarmente semicircolare, a ventaglio o allungato, piano-convessi fino a quasi piatti e con margine ondulato che talvolta sporge oltre lo strato dei tubuli. La superficie superiore, asciutta o leggermente umida e priva di zonature, è morbida, finemente pelosa o cotonoso-tomentosa da giovane, per poi diventare feltrosa o quasi liscia con l'età. Inizialmente bianca, biancastra o crema pallido, al tocco e invecchiando si macchia rapidamente passando dal bruno-giallastro e bruno-fulvo al bruno-rossastro e bruno-ruggine scuro, diventando rigida e fragile con l'essiccamento.",
+      "hymenium": "La superficie poroide è biancastra da fresca e si macchia rapidamente al tocco o con l'età, virando dal giallastro o bruno-fulvo al bruno-rossastro o bruno-vinoso. I pori sono piccoli, rotondi o angolosi, in numero di 2–5 per mm (tipicamente 3–4 per mm), con pareti sottili che si lacerano precocemente allungandosi in aperture irregolari, frastagliate e dentiformi. Lo strato biancastro dei tubuli è profondo 4–15 mm e si macchia in modo analogo alla superficie poroide. I basidi sono clavati, tetrasporici (con 4 sterigmi), di 15–18 × 4–5 µm; cistidi e sete sono assenti. Il sistema ifale è monomitico, con ife generatrici a parete da sottile a moderatamente spessa, larghe 2–6 µm e provviste di evidenti giunti a fibbia.",
+      "stipe": "Assente; i basidiomi sono sessili e ampiamente aderenti direttamente al legno oppure effuso-reflessi lungo il substrato.",
+      "flesh": "Morbida, acquosa, elastica e di consistenza caseosa da fresca, spessa 0,2–1,5 cm, diventa tenace, rigida e fragile una volta essiccata. Da giovane la carne è bianca, rimanendo bianca o macchiandosi gradualmente di brunastro nelle zone contuse, ed essicca su toni brunastri o leggermente bruno-porporini. L'odore è debole, leggermente aromatico o un po' pungente; il sapore è indistinto o leggermente amaro. L'idrossido di potassio (KOH) dà reazione negativa sulla carne e sulla superficie del cappello, e negativa o debolmente olivastra sulla superficie poroide.",
+      "sporePrint": "Bianca. Le basidiospore misurano 4–5 × 1–2,5 µm (occasionalmente fino a 7 × 3 µm), sono cilindriche in visione frontale e a forma di salsiccia (allantoidi) di profilo, lisce, a parete sottile, ialine in KOH, con inclusioni granulari, non amiloidi, non destrinoidi e acianofile.",
+      "habitat": "Saprotrofo su legno morto di conifere — compresi tronchi caduti, ceppaie e rami di peccio (Picea), pino (Pinus) e abete (Abies), e molto raramente su ontano bianco (Alnus incana) — dove provoca una carie bruna. I basidiomi crescono isolati, gregari o in piccoli gruppi embricati dalla primavera all'autunno (tipicamente da maggio a novembre), e possono fruttificare fino alla metà o alla fine dell'inverno nei climi più miti.",
+      "uses": "Non commestibile. La carne morbida e acquosa diventa tenace e fragile con l'età e non ha alcun valore gastronomico.",
+      "confusion": "Diversi altri polipori bianchi e morbidi che crescono su conifere si macchiano anch'essi di bruno-rossastro e possono risultare difficili da separare senza l'esame microscopico. Parmastomyces transmutans (sin. Parmastomyces mollissimus) e Amylocystis lapponica tendono a virare direttamente al bruno-rossastro senza una fase intermedia giallastra o bruno-fulva; microscopicamente, Parmastomyces transmutans possiede spore destrinoidi, mentre Amylocystis lapponica presenta un cappello più densamente irsuto e cistidi incrostati e amiloidi. Leptoporus mollis si macchia su toni più rosa-rosati fino al bruno-vinoso ed è privo di giunti a fibbia sulle ife generatrici.",
+      "notes": "Sebbene i basidiomi freschi siano morbidi e flessibili, con l'essiccamento diventano duri e friabili, spezzandosi facilmente una volta disidratati. La specie è un importante agente di carie bruna del legno morto di conifere: degrada la cellulosa lasciando legno bruno fessurato in modo cubico.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "枯れた針葉樹の材上に単生または小さな重なり合った群れをつくって発生し、褐色腐朽を引き起こす、軟らかい一年生の木材腐朽性サルノコシカケ類です。北半球に広く分布し、ヨーロッパ、北アメリカ、および北部・中央アジアの温帯林や亜寒帯林に生育します。",
+      "cap": "子実体は一年生で無柄であり、棚状の半背着生または傘縁が張り出した背着反転型となり、しばしば重なり合った段状や横方向に癒合した列状に発生します。個々の傘は幅2.5–12 cm（ときに最大15 cm）、厚さ0.5–2 cmで、輪郭は不規則な半円形、扇形、または細長い形をし、扁平からわずかに中高で、波打つ縁部がときに管孔層の上に張り出します。環紋のない上面は乾性からやや湿性で、幼時は軟らかく微毛状または綿毛状ですが、老成すると圧着した毛状またはほぼ平滑になります。初めは白色、帯白色、または淡クリーム色ですが、傷つくか老成すると速やかに黄褐色や黄土褐色を経て赤褐色から暗錆褐色へと変色し、乾燥すると硬くもろくなります。",
+      "hymenium": "孔口面は新鮮時に帯白色ですが、触れるか老成すると速やかに黄色や黄土褐色を経て赤褐色またはぶどう酒褐色に変色します。管孔は微細で円形から角形をなし、1 mmあたり2–5個（通常は3–4個）あり、薄い隔壁はまもなく裂けて不規則でぎざぎざした歯牙状の開口部へと伸びます。帯白色の管孔層は深さ4–15 mmで、孔口面と同様に変色します。担子器はこん棒形で4本の小柄をもち、大きさは15–18 × 4–5 µmです。シスチジアおよび剛毛体は欠きます。菌糸系は一菌糸型で、薄壁からやや厚壁の幅2–6 µmの生殖菌糸に明瞭なクランプ（かすがい連結）を備えます。",
+      "stipe": "欠きます。子実体は無柄で、材に広く直接付着するか、基質に沿って背着反転状に広がります。",
+      "flesh": "新鮮時は軟らかく水っぽく、弾力のあるチーズ状で厚さ0.2–1.5 cmですが、乾燥すると強靭で硬くもろくなります。肉は幼時に白色で、白色のまま保たれるか傷口が次第に帯褐色に染まり、乾燥すると帯褐色またはわずかに紫褐色になります。においは穏やかでかすかに芳香があるかやや刺激臭があり、味は不明瞭またはかすかに苦みがあります。水酸化カリウム（KOH）水溶液は肉および傘の表面では陰性、孔口面では陰性またはかすかにオリーブ色を呈します。",
+      "sporePrint": "白色です。担子胞子は4–5 × 1–2.5 µm（ときに最大7 × 3 µm）で、正面観は円筒形、側面観はソーセージ形（弯曲円筒形）をなし、平滑、薄壁、KOH中で無色透明で顆粒状の内容物を含み、非アミロイド、非デキストリノイド、非シアノフィル性です。",
+      "habitat": "トウヒ属（Picea）、マツ属（Pinus）、モミ属（Abies）の倒木、切り株、枯れ枝などの針葉樹の枯死材、およびごくまれにハンノキ属の一種（Alnus incana）に腐生性として発生し、褐色腐朽を引き起こします。子実体は春から秋（通常は5月から11月）にかけて単生、群生、または小さな瓦状の群れをつくって発生し、温暖な気候の地域では真冬から晩冬にかけて発生することもあります。",
+      "uses": "不食です。軟らかく水っぽい肉は老成すると強靭でもろくなり、食用としての価値はありません。",
+      "confusion": "針葉樹に発生するほかの軟らかい白色の多孔菌類にも赤褐色に変色する種が複数あり、顕微鏡観察なしでは見分けにくいことがあります。Parmastomyces transmutans（異名: Parmastomyces mollissimus）およびAmylocystis lapponicaは、中間的な黄色や黄土褐色の段階を経ずに直接赤褐色へ変色する傾向があります。顕微鏡的には、Parmastomyces transmutansはデキストリノイド性の胞子をもち、Amylocystis lapponicaは傘がより密な剛毛に覆われ、結晶を付着したアミロイド性のシスチジアをもちます。Leptoporus mollisはより桃色からぶどう酒褐色に変色し、生殖菌糸にクランプを欠きます。",
+      "notes": "新鮮な子実体は軟らかくしなやかですが、乾燥すると硬く崩れやすくなり、脱水後は容易に砕けます。本種は枯死した針葉樹材における重要な褐色腐朽菌であり、セルロースを分解して立方体状にひび割れた褐色の材を残します。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "ko": {
+      "description": "죽은 침엽수 목재 위에서 홀로 또는 작은 무리가 기와 모양으로 겹쳐 자라며 갈색부후를 일으키는 부드러운 일년생 목재부후성 구멍장이버섯입니다. 북반구 전역에 널리 분포하며, 유럽, 북아메리카, 북부 및 중앙아시아의 온대와 아한대 숲에서 흔히 발견됩니다.",
+      "cap": "자실체는 일년생으로 대가 없으며, 선반 모양으로 자라거나 기질에 퍼져 자라다가 갓 가장자리가 젖혀진 배착반전형을 이룹니다. 종종 여러 층으로 겹치거나 옆으로 합쳐진 줄 모양으로 발생합니다. 개별 갓은 너비 2.5–12 cm(드물게 최대 15 cm), 두께 0.5–2 cm이며, 윤곽은 불규칙한 반원형, 부채형 또는 길쭉한 모양이고 평볼록형에서 거의 편평하며, 물결 모양의 가장자리가 때때로 관공층 위로 드리워집니다. 갓 윗면은 건조하거나 약간 습하며 환문이 없고, 어릴 때는 부드럽고 잔털이 나거나 솜털 모양의 융모로 덮여 있다가 나이가 들면 엉켜 붙거나 거의 매끄러워집니다. 처음에는 흰색, 백색 또는 옅은 크림색이지만 상처를 입거나 성숙하면 빠르게 황갈색과 담황갈색을 거쳐 적갈색 및 짙은 녹슨 갈색으로 변하며, 마르면 단단하고 부서지기 쉬워집니다.",
+      "hymenium": "관공면은 신선할 때 백색이지만, 만지거나 나이가 들면 빠르게 황색 또는 담황갈색을 거쳐 적갈색이나 포도주빛 갈색으로 얼룩집니다. 구멍은 작고 둥글거나 각진 모양이며 1 mm당 2–5개(보통 3–4개)로, 얇은 격벽이 곧 찢어지고 길어지면서 불규칙하고 들쭉날쭉한 톱니 모양의 구멍으로 변합니다. 백색의 관공층은 깊이 4–15 mm이며 관공면과 같은 색으로 얼룩집니다. 담자기는 곤봉형이고 4개의 담자뿔을 가지며 크기는 15–18 × 4–5 µm이고, 낭상체와 강모는 없습니다. 균사계는 1균사형이며, 폭 2–6 µm의 얇거나 중간 두께의 벽을 가진 생식균사에 뚜렷한 꺾쇠연결이 있습니다.",
+      "stipe": "대가 없습니다. 자실체는 목재 표면에 넓게 직접 붙어 자라거나 기질을 따라 퍼져 자라며 가장자리가 젖혀진 형태를 이룹니다.",
+      "flesh": "신선할 때는 부드럽고 수분이 많으며 탄력이 있어 치즈 같은 질감을 띠고 두께는 0.2–1.5 cm이지만, 마르면 질기고 단단하며 부서지기 쉬워집니다. 어릴 때는 흰색이며 그대로 흰색을 유지하거나 상처 부위가 점차 갈색으로 물들고, 건조되면 갈색 또는 약간 자갈색을 띱니다. 냄새는 순하고 은은하게 향긋하거나 약간 톡 쏘며, 맛은 뚜렷하지 않거나 약간 씁니다. 수산화칼륨(KOH) 반응은 살과 갓 표면에서는 음성이고, 관공면에서는 음성이거나 희미한 올리브색을 나타냅니다.",
+      "sporePrint": "흰색입니다. 담자포자는 4–5 × 1–2.5 µm(드물게 최대 7 × 3 µm)로, 정면에서는 원통형이고 측면에서는 소시지 모양(알란토이드형)이며, 매끄럽고 벽이 얇으며 KOH 용액에서 무색 투명하고 과립상 내용물을 포함합니다. 또한 비아밀로이드성, 비덱스트리노이드성, 비시아노필성입니다.",
+      "habitat": "가문비나무속(Picea), 소나무속(Pinus), 전나무속(Abies) 등의 쓰러진 통나무, 그루터기, 가지와 같은 죽은 침엽수 목재에서 부생성으로 자라며 갈색부후를 일으키고, 매우 드물게 회색오리나무(Alnus incana)에서도 발생합니다. 자실체는 봄부터 가을(보통 5월에서 11월)까지 홀로, 무리 지어 또는 작은 기와 모양의 군락을 이루어 자라며, 온화한 기후에서는 한겨울에서 늦겨울까지도 발생할 수 있습니다.",
+      "uses": "식용 부적합합니다. 부드럽고 수분이 많은 살은 나이가 들면 질기고 부서지기 쉬워지며 식용 가치가 없습니다.",
+      "confusion": "침엽수에서 자라는 다른 여러 부드러운 흰색 구멍장이버섯류도 상처를 입으면 적갈색으로 변색되어 현미경 관찰 없이는 구별하기 어려울 수 있습니다. Parmastomyces transmutans(이명 Parmastomyces mollissimus)와 Amylocystis lapponica는 중간의 황색이나 담황갈색 단계를 거치지 않고 곧바로 적갈색으로 변색되는 경향이 있습니다. 현미경적으로는 Parmastomyces transmutans가 덱스트리노이드성 포자를 가지는 반면, Amylocystis lapponica는 갓에 더 빽빽한 거친 털이 나 있고 결정체가 붙은 아밀로이드성 낭상체를 가집니다. Leptoporus mollis는 분홍빛 장미색에서 포도주빛 갈색으로 더 치우쳐 변색되며 생식균사에 꺾쇠연결이 없습니다.",
+      "notes": "신선한 자실체는 부드럽고 유연하지만, 수분이 빠져 마르면 단단하고 부스러지기 쉽게 변해 쉽게 부서집니다. 이 종은 죽은 침엽수 목재에서 셀룰로오스를 분해하여 목재가 갈색의 정육면체 모양으로 갈라지게 만드는 주요 갈색부후균입니다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Minkštas, vienmetis, medieną ardantis kempininis grybas, augantis pavieniui arba nedidelėmis čerpiškai išsidėsčiusiomis grupėmis ant negyvos spygliuočių medienos ir sukeliantis rudąjį puvinį. Plačiai paplitęs Šiaurės pusrutulyje, aptinkamas visos Europos, Šiaurės Amerikos bei šiaurinės ir vidurinės Azijos vidutinio klimato ir borealinėse giriose.",
+      "cap": "Vaisiakūniai vienmečiai, bekočiai, lentyniškos formos arba pusiau išsiplėtę su atsilenkusiais kepurėlės kraštais, dažnai augantys čerpiškais aukštais arba šonais suaugusiomis eilėmis. Atskiros kepurėlės yra 2,5–12 cm pločio (kartais iki 15 cm) ir 0,5–2 cm storio, netaisyklingai pusapvalės, vėduokliškos ar pailgos formos, plokščiai iškilios iki beveik plokščių, su banguotu kraštu, kuris kartais užlinksta virš vamzdelių sluoksnio. Sausas ar vos drėgnas, be rievėtų juostų viršutinis paviršius jaunystėje būna minkštas, smulkiai plaukuotas arba veltiniškai pūkuotas, o senstant suveltas arba beveik lygus. Iš pradžių baltas, balsvas ar šviesiai kreminis, paspaustas ir senstant greitai paruduoja per gelsvai rudą ir rusvai geltoną iki rausvai rudos ir tamsiai rūdžių rudos spalvos, o džiūdamas tampa kietas ir trapus.",
+      "hymenium": "Porų paviršius šviežias būna balsvas, tačiau palietus ar senstant greitai nusidažo per gelsvą ar rusvai geltoną iki rausvai rudos ar vyno rudos spalvos. Poros smulkios, apvalios arba kampuotos, 2–5 viename milimetre (dažniausiai 3–4 per mm), plonomis sienelėmis, kurios greitai įplyšta ir pailgėja į netaisyklingas, dantytas, dygliškų kraštų angas. Balsvas vamzdelių sluoksnis yra 4–15 mm storio ir spalvą keičia taip pat kaip porų paviršius. Bazidijos buožiškos, ketursporės, 15–18 × 4–5 µm; cistidžių ir šerelių nėra. Hifų sistema monomitinė, sudaryta iš plonasienių ir vidutinio storio sienelėmis generatyvinių hifų, 2–6 µm pločio, su ryškiomis sąsagomis.",
+      "stipe": "Koto nėra; vaisiakūniai bekočiai, plačiu pagrindu priaugę tiesiai prie medienos arba pusiau išsiplėtę išilgai substrato.",
+      "flesh": "Šviežia trama minkšta, vandeninga, elastinga, sūrio konsistencijos, 0,2–1,5 cm storio, o išdžiūvusi tampa kieta, standi ir trapi. Jauna trama balta, išlieka balta arba pažeistose vietose pamažu paruduoja, o džiūdama įgauna rudą ar šiek tiek purpuriškai rudą atspalvį. Kvapas švelnus, silpnai aromatingas arba šiek tiek aitrokas; skonis neryškus arba lengvai kartokas. Kalio hidroksidas (KOH) su trama ir kepurėlės paviršiumi nereaguoja, o ant porų paviršiaus reakcija neigiama arba vos alyviška.",
+      "sporePrint": "Baltas. Bazidiosporos yra 4–5 × 1–2,5 µm (kartais iki 7 × 3 µm), žiūrint iš priekio cilindriškos, o iš šono – dešrelės formos (alantoidinės), lygios, plonasienės, KOH tirpale bespalvės, su grūdėtais intarpais, neamiloidinės, nedekstrinoidinės ir necianofilinės.",
+      "habitat": "Saprotrofinis grybas, augantis ant negyvos spygliuočių medienos – nuvirtusių kamienų, kelmų ir šakų, ypač eglės (Picea), pušies (Pinus) ir kėnio (Abies), o labai retai ant baltalksnio (Alnus incana) – kur sukelia rudąjį puvinį. Vaisiakūniai auga pavieniui, grupėmis arba nedidelėmis čerpiškomis santalkomis nuo pavasario iki rudens (dažniausiai nuo gegužės iki lapkričio), o švelnesnio klimato kraštuose gali derėti iki žiemos vidurio ar pabaigos.",
+      "uses": "Nevalgomas. Minkšta, vandeninga trama senstant tampa kieta ir trapi, todėl grybas neturi jokios kulinarinės vertės.",
+      "confusion": "Kitos minkštos, baltos, ant spygliuočių augančios kempinės taip pat paspaustos rausvai paruduoja, todėl be mikroskopo jas gali būti sunku atskirti. Parmastomyces transmutans (sin. Parmastomyces mollissimus) ir Amylocystis lapponica linkusios iškart nusidažyti rausvai rudai be tarpinio gelsvo ar rusvai geltono atspalvio; mikroskopiškai Parmastomyces transmutans turi dekstrinoidines sporas, o Amylocystis lapponica išsiskiria tankiau šiurkščiai plaukuota kepurėle ir inkrustuotomis amiloidinėmis cistidėmis. Leptoporus mollis dažosi labiau rožiškai rausvais iki vyno rudos atspalviais ir neturi sąsagų ant generatyvinių hifų.",
+      "notes": "Nors švieži vaisiakūniai yra minkšti ir lankstūs, išdžiūvę jie sukietėja, tampa trapūs ir lengvai trupa. Ši rūšis yra svarbi rudojo puvinio sukėlėja negyvoje spygliuočių medienoje – skaidydama celiuliozę ji palieka kubeliais sutrūkinėjusią rudą medieną.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "lv": {
+      "description": "Mīksta, viengadīga, koksni noārdoša piepjveida sēne, kas aug pa vienai vai nelielās jumstiņveida grupās uz atmirušas skujkoku koksnes, izraisot brūno trupi. Plaši izplatīta Ziemeļu puslodē, sastopama mērenās un boreālās joslas mežos visā Eiropā, Ziemeļamerikā, kā arī Ziemeļāzijā un Vidusāzijā.",
+      "cap": "Augļķermeņi ir viengadīgi, bez kātiņa, konsolveidīgi vai pusklājeni ar atliektām cepurītes malām, bieži augot jumstiņveida stāvos vai sānos saaugušās rindās. Atsevišķas cepurītes ir 2,5–12 cm platas (reizēm līdz 15 cm) un 0,5–2 cm biezas, neregulāri pusapaļas, vēdekļveida vai iegarenas, plakaniski izliektas līdz gandrīz plakanām, ar viļņotu malu, kas dažkārt pārkāras pāri stobriņu slānim. Sausā līdz viegli mitrā, nejoslotā augšējā virsma jaunībā ir mīksta, smalki pūkaina vai tūbaini vateņveida, bet ar vecumu kļūst saplakusi vai gandrīz gluda. Sākotnēji balta, bālgana vai gaiši krēmkrāsas, iespiedumos un novecojot tā strauji maina krāsu caur dzeltenbrūnu un rūsgandzeltenu līdz sarkanbrūnai un tumši rūsganbrūnai, bet izžūstot kļūst cieta un trausla.",
+      "hymenium": "Poru virsma svaigā stāvoklī ir bālgana, taču pieskaroties vai novecojot strauji krāsojas caur dzeltenīgu vai rūsgandzeltenu līdz sarkanbrūnai vai vīnsarkanbrūnai. Poras ir sīkas, apaļas līdz stūrainas, pa 2–5 vienā milimetrā (parasti 3–4 uz mm), ar plānām sieniņām, kas drīz vien saplīst un izstiepjas neregulārās, robainās, zobainās atverēs. Bālganais stobriņu slānis ir 4–15 mm biezs un krāsojas tāpat kā poru virsma. Bazīdijas ir vālesveida, ar 4 sterigmām, 15–18 × 4–5 µm lielas; cistīdu un sariņu nav. Hifu sistēma ir monomitiska, ar plānsienainām līdz vidēji biezsienainām ģeneratīvajām hifām, 2–6 µm platām, ar labi saskatāmām skavām.",
+      "stipe": "Nav; augļķermeņi ir bez kātiņa un plaši pieauguši tieši pie koksnes vai pusklājeni gar substrātu.",
+      "flesh": "Mīkstums svaigā stāvoklī ir mīksts, ūdeņains, elastīgs, siera konsistences, 0,2–1,5 cm biezs, bet izžūstot kļūst sīksts, ciets un trausls. Jaunībā tas ir balts, paliek balts vai iespiedumu vietās pakāpeniski brūnē, bet izžūstot kļūst brūngans vai viegli purpurbrūns. Smarža ir maiga, vāji smaržīga vai nedaudz asa; garša neizteikta vai viegli rūgtena. Kālija hidroksīds (KOH) uz mīkstuma un cepurītes virsmas dod negatīvu reakciju, bet uz poru virsmas reakcija ir negatīva vai vāji olīvzaļgana.",
+      "sporePrint": "Balts. Bazīdijsporas ir 4–5 × 1–2,5 µm (reizēm līdz 7 × 3 µm), pretskatā cilindriskas un sānskatā desiņveida (alantoīdas), gludas, plānsienainas, KOH šķīdumā bezkrāsainas, ar graudainiem ieslēgumiem, neamiloīdas, nedekstrinoīdas un necianofilas.",
+      "habitat": "Saprotrofa sēne uz atmirušas skujkoku koksnes — kritalām, celmiem un zariem, īpaši egles (Picea), priedes (Pinus) un baltegles (Abies), bet ļoti reti arī uz baltalkšņa (Alnus incana) — kur tā izraisa brūno trupi. Augļķermeņi aug pa vienam, grupās vai nelielos jumstiņveida sakopojumos no pavasara līdz rudenim (parasti no maija līdz novembrim), bet maigākā klimatā var augt līdz ziemas vidum vai beigām.",
+      "uses": "Neēdama. Mīkstais, ūdeņainais mīkstums ar vecumu kļūst sīksts un trausls, un sēnei nav kulināras vērtības.",
+      "confusion": "Vairākas citas mīkstas, baltas, uz skujkokiem augošas piepes arī iespiedumos krāsojas sarkanbrūnas, un bez mikroskopijas tās var būt grūti atšķirt. Parmastomyces transmutans (sin. Parmastomyces mollissimus) un Amylocystis lapponica mēdz krāsoties uzreiz sarkanbrūnas bez starpposma dzeltenīgās vai rūsgandzeltenās nokrāsas; mikroskopiski Parmastomyces transmutans ir dekstrinoīdas sporas, savukārt Amylocystis lapponica ir blīvāk saraini mataina cepurīte un inkrustētas, amiloīdas cistīdas. Leptoporus mollis krāsojas vairāk rozā līdz vīnsarkanbrūnos toņos, un tā ģeneratīvajām hifām nav skavu.",
+      "notes": "Lai gan svaigi augļķermeņi ir mīksti un lokani, izžūstot tie kļūst cieti un drūpoši, pēc dehidratācijas viegli sadaloties gabalos. Suga ir nozīmīga brūnās trupes izraisītāja atmirušā skujkoku koksnē, noārdot celulozi un atstājot aiz sevis kubiskās plaisās saplaisājušu brūnu koksni.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "nl": {
+      "description": "Een zachte, eenjarige, houtafbrekende korst- of consolezwam die alleenstaand of in kleine dakpansgewijze groepjes groeit op dood naaldhout, waar hij bruinrot veroorzaakt. Hij is wijdverspreid op het noordelijk halfrond en komt voor in gematigde en boreale bossen van Europa, Noord-Amerika en Noord- en Centraal-Azië.",
+      "cap": "De vruchtlichamen zijn eenjarig, ongesteeld en vormen consolevormige hoeden of korstvormige lagen met afstaande hoedranden, vaak groeiend in dakpansgewijze etages of zijdelings vergroeide rijen. Afzonderlijke hoeden meten 2,5–12 cm in breedte (soms tot 15 cm) en zijn 0,5–2 cm dik, onregelmatig halfrond, waaiervormig of langwerpig van omtrek, vlak gewelfd tot vrijwel vlak, met een golvende rand die soms over de buisjeslaag heen hangt. De droge tot licht vochtige, niet-gezoneerde bovenzijde is jong zacht, fijn behaard of wollig-viltig en wordt bij het ouder worden vervilt of bijna glad. Aanvankelijk wit, witachtig of bleek roomkleurig, verkleurt hij bij aanraking en veroudering snel via geelbruin en okerbruin naar roodbruin en donker roestbruin, en droogt stijf en bros op.",
+      "hymenium": "Het poriënoppervlak is vers witachtig en verkleurt bij aanraking of veroudering snel via geelachtig of okerbruin naar roodbruin of wijnroodbruin. De poriën zijn klein, rond tot hoekig, met 2–5 per mm (doorgaans 3–4 per mm), en hebben dunne wanden die spoedig inscheuren en zich verlengen tot onregelmatige, getande, tandvormige openingen. De witachtige buisjeslaag is 4–15 mm dik en verkleurt op dezelfde wijze als het poriënoppervlak. De basidiën zijn knotsvormig, 4-sporig en meten 15–18 × 4–5 µm; cystiden en setae ontbreken. Het hyfensysteem is monomitisch, met dun- tot matig dikwandige generatieve hyfen van 2–6 µm breed, voorzien van duidelijke gespen.",
+      "stipe": "Afwezig; de vruchtlichamen zijn ongesteeld en breed direct aan het hout vastgehecht of korstvormig-afstaand langs het substraat.",
+      "flesh": "Zacht, waterig, veerkrachtig en kaasachtig in verse toestand, 0,2–1,5 cm dik, en bij droging taai, stijf en bros wordend. Het vlees is jong wit, blijft wit of kleurt op gekneusde plekken geleidelijk bruinachtig en droogt bruinachtig of licht purperbruin op. De geur is mild, zwak geurig of licht scherp; de smaak is onopvallend of licht bitter. Kaliumhydroxide (KOH) geeft een negatieve reactie op het vlees en de hoedoppervlakte, en is negatief of zwak olijfkleurig op het poriënoppervlak.",
+      "sporePrint": "Wit. De basidiosporen meten 4–5 × 1–2,5 µm (soms tot 7 × 3 µm), zijn cilindrisch in vooraanzicht en worstvormig (allantoïd) in zijaanzicht, glad, dunwandig, hyalien in KOH, met korrelige insluitsels, inamyloïd, niet-dextrinoïd en acyanofiel.",
+      "habitat": "Saprotroof op dood naaldhout — waaronder liggende stammen, stronken en takken van spar (Picea), den (Pinus) en zilverspar (Abies), en zeer zelden op witte els (Alnus incana) — waar hij bruinrot veroorzaakt. De vruchtlichamen groeien alleenstaand, in groepen of in kleine dakpansgewijze clusters van het voorjaar tot de herfst (doorgaans van mei tot november), en kunnen in mildere klimaten doorvruchten tot midden of laat in de winter.",
+      "uses": "Niet eetbaar. Het zachte, waterige vlees wordt bij het ouder worden taai en bros en heeft geen culinaire waarde.",
+      "confusion": "Verschillende andere zachte, witte, op naaldhout groeiende buisjeszwammen verkleuren eveneens roodbruin bij aanraking en kunnen zonder microscopie moeilijk te onderscheiden zijn. Parmastomyces transmutans (syn. Parmastomyces mollissimus) en Amylocystis lapponica hebben de neiging direct roodbruin te verkleuren zonder een tussentijds geelachtig of okerbruin stadium; microscopisch heeft Parmastomyces transmutans dextrinoïde sporen, terwijl Amylocystis lapponica een dichter ruig behaarde hoed en geïncrusteerde, amyloïde cystiden bezit. Leptoporus mollis verkleurt meer rozig tot wijnroodbruin en mist gespen aan de generatieve hyfen.",
+      "notes": "Hoewel de verse vruchtlichamen zacht en buigzaam zijn, drogen ze hard en brokkelig op en breken ze eenmaal uitgedroogd gemakkelijk uiteen. De soort is een belangrijke veroorzaker van bruinrot in dood naaldhout, waarbij cellulose wordt afgebroken en kubisch gescheurd bruin hout achterblijft.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Postia_fragilis",
+        "https://nl.wikipedia.org/wiki/Vlekkende_kaaszwam",
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "no": {
+      "description": "En myk, ettårig, vednedbrytende kjuke som vokser enkeltvis eller i små taklagte grupper på død barved, der den forårsaker brunråte. Den er vidt utbredt på den nordlige halvkule og forekommer i tempererte og boreale skoger i Europa, Nord-Amerika samt Nord- og Sentral-Asia.",
+      "cap": "Fruktlegemene er ettårige, stilkløse og danner enten hylleformede konsoller eller er halvresupinate med utstående hattkanter, ofte i taklagte etasjer eller sideveis sammenvokste rekker. Enkelthattene er 2,5–12 cm brede (av og til opptil 15 cm) og 0,5–2 cm tykke, uregelmessig halvsirkelformede, vifteformede eller langstrakte i omriss, svakt hvelvede til nesten flate, med en bølget kant som iblant henger ut over rørlaget. Den tørre til svakt fuktige, usonerte oversiden er myk, finhåret eller bomullsaktig filtet som ung, og blir sammenfiltret eller nesten glatt med alderen. Først hvit, hvitaktig eller blekt kremfarget, anløper og eldes den raskt via gulbrun og okergulbrun til rødbrun og mørkt rustbrun, og tørker stiv og sprø.",
+      "hymenium": "Porelaget er hvitaktig som ferskt, men anløper raskt via gulaktig eller okergulbrun til rødbrun eller vinrødbrun ved berøring eller aldring. Porene er små, runde til kantete, 2–5 per mm (vanligvis 3–4 per mm), med tynne skillevegger som snart rives opp og forlenges til uregelmessige, flisete, tannlignende åpninger. Det hvitaktige rørlaget er 4–15 mm tykt og anløper på samme måte som porelaget. Basidiene er kølleformede, 4-sporede og 15–18 × 4–5 µm; cystider og setae mangler. Hyfesystemet er monomitisk, med tynn- til moderat tykkveggede generative hyfer som er 2–6 µm brede og har tydelige bøyler.",
+      "stipe": "Mangler; fruktlegemene er stilkløse og bredt festet direkte til veden eller vokser halvresupinat langs substratet.",
+      "flesh": "Mykt, vannholdig, spenstig og osteaktig som ferskt, 0,2–1,5 cm tykt, og blir seigt, stivt og sprøtt ved tørking. Kjøttet er hvitt som ungt, forblir hvitt eller anløper gradvis brunlig ved skade, og tørker brunlig eller svakt purpurbrunt. Lukten er mild, svakt aromatisk eller lett stikkende; smaken er utydelig eller svakt bitter. Kaliumhydroksid (KOH) gir negativ reaksjon på kjøtt og hattoverflate, og er negativ eller svakt olivenfarget på porelaget.",
+      "sporePrint": "Hvitt. Basidiesporene er 4–5 × 1–2,5 µm (av og til opptil 7 × 3 µm), sylindriske sett forfra og pølseformede (allantoide) sett fra siden, glatte, tynnveggede, hyaline i KOH, med kornede inneslutninger, inamyloide, ikke-dekstrinoide og acyanofile.",
+      "habitat": "Saprotrof på død barved — inkludert læger, stubber og greiner av gran (Picea), furu (Pinus) og edelgran (Abies), samt svært sjeldent på gråor (Alnus incana) — der den forårsaker brunråte. Fruktlegemene vokser enkeltvis, i grupper eller i små taklagte klynger fra vår til høst (vanligvis mai til november), og kan i mildere klima danne fruktlegemer til midt- eller senvinter.",
+      "uses": "Ikke matsopp. Det myke, vannholdige kjøttet blir seigt og sprøtt med alderen og har ingen kulinarisk verdi.",
+      "confusion": "Flere andre myke, hvite kjuker på barved anløper også rødbrunt og kan være vanskelige å skille uten mikroskopi. Parmastomyces transmutans (syn. Parmastomyces mollissimus) og Amylocystis lapponica har en tendens til å anløpe direkte rødbrunt uten et mellomliggende gulaktig eller okergulbrunt stadium; mikroskopisk har Parmastomyces transmutans dekstrinoide sporer, mens Amylocystis lapponica har en tettere strihåret hatt og inkrusterte, amyloide cystider. Leptoporus mollis anløper mer rosa til vinrødbrunt og mangler bøyler på de generative hyfene.",
+      "notes": "Selv om de ferske fruktlegemene er myke og bøyelige, tørker de hardt og smuldrende og brekker lett i stykker når de er uttørket. Arten er en viktig brunråtesopp i død barved, der den bryter ned cellulose og etterlater kubisk oppsprukket brun ved.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "pl": {
+      "description": "Miękki, jednoroczny, rozkładający drewno grzyb poliporoidalny, rosnący pojedynczo lub w niewielkich dachówkowatych skupieniach na martwym drewnie drzew iglastych, gdzie wywołuje brunatną zgniliznę drewna. Szeroko rozpowszechniony na półkuli północnej, występuje w lasach strefy umiarkowanej i borealnej Europy, Ameryki Północnej oraz północnej i środkowej Azji.",
+      "cap": "Owocniki są jednoroczne, beztrzonowe, w formie konsolowatych półeczek lub rozpostarto-odgięte z odstającymi brzegami kapeluszy, często rosnące dachówkowato lub zrośnięte bokami w rzędy. Pojedyncze kapelusze mają 2,5–12 cm szerokości (niekiedy do 15 cm) i 0,5–2 cm grubości, w zarysie są nieregularnie półkoliste, wachlarzowate lub wydłużone, płaskowypukłe do niemal płaskich, z falistym brzegiem, który czasami zachodzi na warstwę rurek. Sucha do lekko wilgotnej, niestrefowana górna powierzchnia jest za młodu miękka, drobno owłosiona lub watowato-filcowata, a z wiekiem staje się zbita lub niemal gładka. Początkowo biała, biaława lub bladokremowa, po uciśnięciu i z wiekiem szybko przebarwia się przez żółtobrązową i płowobrązową do czerwonobrązowej i ciemno-rdzawobrązowej, a po wyschnięciu staje się sztywna i krucha.",
+      "hymenium": "Powierzchnia porów jest za świeża biaława, lecz po dotknięciu lub z wiekiem szybko przebarwia się przez żółtawą lub płowobrązową do czerwonobrązowej lub winnobrązowej. Pory są drobne, okrągłe do kanciastych, po 2–5 na mm (zwykle 3–4 na mm), o cienkich ściankach, które wkrótce rozrywają się i wydłużają w nieregularne, poszarpane, ząbkowate otwory. Biaława warstwa rurek ma 4–15 mm głębokości i przebarwia się tak samo jak powierzchnia porów. Podstawki są maczugowate, 4-sterygmowe, o wymiarach 15–18 × 4–5 µm; cystydy i szczecinki są nieobecne. System strzępkowy jest monomityczny, ze strzępkami generatywnymi o cienkich do umiarkowanie grubych ściankach, szerokości 2–6 µm, opatrzonymi wyraźnymi sprzążkami.",
+      "stipe": "Brak; owocniki są siedzące, szeroko przyrośnięte bezpośrednio do drewna lub rozpostarto-odgięte wzdłuż podłoża.",
+      "flesh": "Za świeża miękki, wodnisty, sprężysty i serowaty, grubości 0,2–1,5 cm, po wyschnięciu staje się twardy, sztywny i kruchy. Miąższ jest za młodu biały, pozostaje biały lub stopniowo brązowieje w miejscach uszkodzeń, a po wyschnięciu przybiera barwę brązowawą lub lekko purpurowobrązową. Zapach jest łagodny, lekko aromatyczny lub nieco ostry; smak niewyraźny lub lekko gorzkawy. Wodorotlenek potasu (KOH) daje reakcję negatywną na miąższu i powierzchni kapelusza, a na powierzchni porów jest negatywny lub daje słabe oliwkowe zabarwienie.",
+      "sporePrint": "Biały. Zarodniki podstawkowe mają wymiary 4–5 × 1–2,5 µm (niekiedy do 7 × 3 µm), w widoku z przodu są cylindryczne, a z boku kiełbaskowate (alantoidalne), gładkie, cienkościenne, hialinowe w KOH, z ziarnistymi wtrąceniami, nieamyloidalne, niedekstrynoidalne i niecyjanofilne.",
+      "habitat": "Saprotroficzny na martwym drewnie drzew iglastych — w tym na powalonych kłodach, pniakach i gałęziach świerka (Picea), sosny (Pinus) i jodły (Abies), a bardzo rzadko na olszy szarej (Alnus incana) — gdzie wywołuje brunatną zgniliznę drewna. Owocniki wyrastają pojedynczo, gromadnie lub w niewielkich dachówkowatych skupieniach od wiosny do jesieni (zwykle od maja do listopada), a w łagodniejszym klimacie mogą owocować aż do połowy lub końca zimy.",
+      "uses": "Niejadalny. Miękki, wodnisty miąższ z wiekiem staje się twardy i kruchy i nie ma żadnej wartości kulinarnej.",
+      "confusion": "Kilka innych miękkich, białych grzybów poliporoidalnych zasiedlających drewno iglaste również przebarwia się czerwonobrązowo po uszkodzeniu i może być trudnych do odróżnienia bez mikroskopii. Parmastomyces transmutans (syn. Parmastomyces mollissimus) oraz Amylocystis lapponica zwykle przebarwiają się bezpośrednio na kolor czerwonobrązowy bez pośredniego stadium żółtawego lub płowobrązowego; mikroskopowo Parmastomyces transmutans ma zarodniki dekstrynoidalne, podczas gdy Amylocystis lapponica odznacza się gęściej szczeciniasto owłosionym kapeluszem oraz inkrustowanymi, amyloidalnymi cystydami. Leptoporus mollis przebarwia się bardziej różowawo do winnobrązowego i nie ma sprzążek na strzępkach generatywnych.",
+      "notes": "Choć świeże owocniki są miękkie i elastyczne, po wyschnięciu stają się twarde i sypkie, łatwo rozpadając się na kawałki. Gatunek ten jest ważnym sprawcą brunatnej zgnilizny w martwym drewnie iglastym, rozkładając celulozę i pozostawiając brunatne drewno spękane na kostki.",
+      "names": [
+        "białak kruchy",
+        "drobnoporek kruchy"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Rdzawoporek_kruchy",
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "pt": {
+      "description": "Um poliporo anual, macio e lignícola, que cresce isolado ou em pequenos grupos imbricados sobre madeira morta de coníferas, onde provoca podridão castanha. Amplamente distribuído pelo Hemisfério Norte, ocorre nas florestas temperadas e boreais da Europa, América do Norte e Ásia setentrional e central.",
+      "cap": "Os corpos frutíferos são anuais, sésseis e em forma de consola ou efuso-reflexos com margens de chapéu salientes, crescendo frequentemente em camadas imbricadas ou fileiras fundidas lateralmente. Os chapéus individuais medem 2,5–12 cm de largura (ocasionalmente até 15 cm) e 0,5–2 cm de espessura, com contorno irregularmente semicircular, em leque ou alongado, plano-convexos a quase planos, apresentando uma margem ondulada que por vezes pende sobre a camada de tubos. A superfície superior, seca a ligeiramente húmida e sem zonas concêntricas, é macia, finamente pilosa ou algodonoso-tomentosa quando jovem, tornando-se emaranhada ou quase lisa com a idade. Inicialmente branca, esbranquiçada ou creme-pálida, mancha-se e escurece rapidamente ao toque e com o envelhecimento, passando de amarelo-acastanhado e castanho-aloirado a castanho-avermelhado e castanho-ferrugem escuro, ficando rígida e quebradiça ao secar.",
+      "hymenium": "A superfície dos poros é esbranquiçada em fresco, manchando-se rapidamente de amarelado ou castanho-aloirado a castanho-avermelhado ou castanho-vinoso ao toque ou com a idade. Os poros são pequenos, arredondados a angulosos, com 2–5 por mm (tipicamente 3–4 por mm), de paredes finas que rapidamente se rasgam e se alongam em aberturas irregulares, recortadas e dentiformes. A camada de tubos esbranquiçada tem 4–15 mm de profundidade e mancha-se da mesma forma que a superfície dos poros. Os basídios são claviformes, tetraspóricos e medem 15–18 × 4–5 µm; não apresenta cistídios nem setas. O sistema hifal é monomítico, com hifas generativas de paredes finas a moderadamente espessas, com 2–6 µm de largura e fíbulas bem visíveis.",
+      "stipe": "Ausente; os corpos frutíferos são sésseis e encontram-se amplamente aderidos diretamente à madeira ou em disposição efuso-reflexa ao longo do substrato.",
+      "flesh": "Macia, aquosa, elástica e de consistência semelhante a queijo em fresco, com 0,2–1,5 cm de espessura, tornando-se dura, rígida e quebradiça quando seca. A carne é branca na juventude, permanecendo branca ou manchando-se gradualmente de acastanhado nas zonas contundidas, e seca em tons acastanhados ou ligeiramente púrpura-acastanhados. O odor é suave, ligeiramente aromático ou um pouco acre; o sabor é pouco pronunciado ou ligeiramente amargo. O hidróxido de potássio (KOH) apresenta reação negativa na carne e na superfície do chapéu, sendo negativa ou ligeiramente olivácea na superfície dos poros.",
+      "sporePrint": "Branca. Os basidiósporos medem 4–5 × 1–2,5 µm (ocasionalmente até 7 × 3 µm), são cilíndricos em vista frontal e em forma de salsicha (alantoides) em vista lateral, lisos, de parede fina, hialinos em KOH, com inclusões granulares, inamiloides, não dextrinoides e acianófilos.",
+      "habitat": "Saprotrófico sobre madeira morta de coníferas — incluindo troncos caídos, cepos e ramos de pícea (Picea), pinheiro (Pinus) e abeto (Abies), e muito raramente sobre amieiro-cinzento (Alnus incana) — onde causa podridão castanha. Os corpos frutíferos crescem isolados, em grupos ou em pequenos agregados imbricados da primavera ao outono (tipicamente de maio a novembro), podendo frutificar até meados ou finais do inverno em climas mais amenos.",
+      "uses": "Não comestível. A carne macia e aquosa torna-se dura e quebradiça com a idade e não tem valor culinário.",
+      "confusion": "Vários outros poliporos macios e brancos que crescem em coníferas também se mancham de castanho-avermelhado e podem ser difíceis de separar sem microscopia. Parmastomyces transmutans (sin. Parmastomyces mollissimus) e Amylocystis lapponica tendem a manchar-se diretamente de castanho-avermelhado sem uma fase intermédia amarelada ou castanho-aloirada; microscopicamente, Parmastomyces transmutans possui esporos dextrinoides, ao passo que Amylocystis lapponica apresenta um chapéu mais densamente hirsuto e cistídios incrustados e amiloides. Leptoporus mollis mancha-se em tons mais rosados a castanho-vinosos e carece de fíbulas nas hifas generativas.",
+      "notes": "Embora os corpos frutíferos frescos sejam macios e flexíveis, ao secarem tornam-se duros e quebradiços, desfazendo-se facilmente uma vez desidratados. A espécie é um agente relevante de podridão castanha em madeira morta de coníferas, decompondo a celulose e deixando para trás madeira castanha fendida em cubos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă anuală, moale, lignicolă, cu pori, care crește solitar sau în mici grupuri imbricate pe lemn mort de conifere, unde provoacă un putregai brun. Larg răspândită în emisfera nordică, apare în pădurile temperate și boreale din Europa, America de Nord și Asia de Nord și Centrală.",
+      "cap": "Corpurile de fructificație sunt anuale, sesile, în formă de console sau efuz-reflexe cu margini de pălărie proeminente, crescând adesea în etaje suprapuse sau în șiruri unite lateral. Pălăriile individuale măsoară 2,5–12 cm lățime (ocazional până la 15 cm) și 0,5–2 cm grosime, au contur neregulat semicircular, în formă de evantai sau alungit, sunt plan-convexe până la aproape plate, cu o margine ondulată care uneori depășește stratul de tuburi. Suprafața superioară, uscată până la ușor umedă și nezonată, este moale, fin păroasă sau bumbăcos-tomentoasă la tinerețe și devine pâsloasă sau aproape netedă la maturitate. Inițial albă, albicioasă sau crem-pal, se pătează și îmbătrânește rapid prin galben-brun și brun-ocru până la brun-roșcat și brun-ruginiu închis, devenind rigidă și casantă la uscare.",
+      "hymenium": "Suprafața porilor este albicioasă în stare proaspătă, pătându-se rapid la atingere sau cu vârsta prin gălbui sau brun-ocru până la brun-roșcat sau brun-vinos. Porii sunt mici, rotunzi până la angulari, 2–5 pe mm (de obicei 3–4 pe mm), cu pereți subțiri care se rup și se alungesc curând în deschideri neregulate, zimțate, cu aspect dințat. Stratul albicios de tuburi are o adâncime de 4–15 mm și se pătează la fel ca suprafața porilor. Bazidiile sunt clavate, cu 4 sterigme, și măsoară 15–18 × 4–5 µm; cistidele și setele lipsesc. Sistemul hifal este monomitic, cu hife generative cu pereți subțiri până la moderat groși, late de 2–6 µm, prevăzute cu catarame evidente.",
+      "stipe": "Absent; corpurile de fructificație sunt sesile și prinse larg direct de lemn sau dispuse efuz-reflex de-a lungul substratului.",
+      "flesh": "Moale, apoasă, elastică și cu consistență asemănătoare brânzei în stare proaspătă, groasă de 0,2–1,5 cm, devenind tare, rigidă și casantă la uscare. Carnea este albă la tinerețe, rămânând albă sau pătându-se treptat bruniu în locurile rănite și uscându-se în nuanțe brune sau ușor brun-purpurii. Mirosul este blând, slab aromat sau ușor înțepător; gustul este indistinct sau ușor amar. Hidroxidul de potasiu (KOH) dă o reacție negativă pe carne și pe suprafața pălăriei, și este negativ sau slab oliv pe suprafața porilor.",
+      "sporePrint": "Albă. Bazidiosporii măsoară 4–5 × 1–2,5 µm (ocazional până la 7 × 3 µm), sunt cilindrici văzuți din față și alantoizi (în formă de cârnăcior) din profil, netezi, cu pereți subțiri, hialini în KOH, cu incluziuni granulare, inamiloizi, nedextrinoizi și acianofili.",
+      "habitat": "Saprotrofă pe lemn mort de conifere — inclusiv trunchiuri căzute, cioate și ramuri de molid (Picea), pin (Pinus) și brad (Abies), și foarte rar pe anin alb (Alnus incana) — unde provoacă putregai brun. Corpurile de fructificație cresc solitar, gregar sau în mici mănunchiuri imbricate din primăvară până toamna (de obicei din mai până în noiembrie), putând fructifica până la mijlocul sau sfârșitul iernii în climate mai blânde.",
+      "uses": "Necomestibilă. Carnea moale și apoasă devine tare și casantă odată cu vârsta și nu are valoare culinară.",
+      "confusion": "Mai multe alte specii de ciuperci cu pori, moi și albe, care cresc pe conifere se pătează de asemenea în brun-roșcat și pot fi greu de separat fără microscopie. Parmastomyces transmutans (sin. Parmastomyces mollissimus) și Amylocystis lapponica tind să se păteze direct în brun-roșcat fără un stadiu intermediar gălbui sau brun-ocru; microscopic, Parmastomyces transmutans are spori dextrinoizi, în timp ce Amylocystis lapponica are o pălărie mai dens hirsută și cistide încrustate, amiloide. Leptoporus mollis se pătează mai degrabă în roz-roșiatic până la brun-vinos și nu prezintă catarame pe hifele generative.",
+      "notes": "Deși corpurile de fructificație proaspete sunt moi și flexibile, la uscare devin tari și sfărâmicioase, rupându-se ușor odată deshidratate. Specia este un agent important al putregaiului brun în lemnul mort de conifere, descompunând celuloza și lăsând în urmă lemn brun fisurat cubic.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Мягкий однолетний дереворазрушающий трутовый гриб, растущий одиночно или небольшими черепитчатыми группами на мертвой древесине хвойных пород, где вызывает бурую гниль. Широко распространен в Северном полушарии: встречается по всей зоне умеренных и бореальных лесов Европы, Северной Америки, а также Северной и Центральной Азии.",
+      "cap": "Плодовые тела однолетние, сидячие, полочковидные или распростерто-отогнутые с выступающими краями шляпок, часто растут черепитчатыми ярусами или сросшимися боками рядами. Отдельные шляпки достигают 2,5–12 см в поперечнике (изредка до 15 см) и 0,5–2 см в толщину, имеют неправильно-полуокруглые, вееровидные или вытянутые очертания, плоско-выпуклые до почти плоских, с волнистым краем, иногда свисающим над трубчатым слоем. Сухая или слегка влажная, незональная верхняя поверхность в молодости мягкая, тонковолосистая или ватно-войлочная, с возрастом становится спутанной или почти гладкой. Вначале белая, беловатая или бледно-кремовая, при повреждении и с возрастом быстро меняет окраску через желтовато-коричневую и рыжевато-коричневую до красновато-коричневой и темно-ржаво-коричневой, а при высыхании становится жесткой и хрупкой.",
+      "hymenium": "Поровая поверхность в свежем состоянии беловатая, при прикосновении или с возрастом быстро буреет через желтоватый или рыжевато-коричневый оттенок до красновато-коричневого или винно-коричневого. Поры мелкие, округлые до угловатых, 2–5 на 1 мм (обычно 3–4 на 1 мм), с тонкими стенками, которые вскоре разрываются и вытягиваются в неправильные зазубренные зубовидные отверстия. Беловатый трубчатый слой толщиной 4–15 мм меняет цвет так же, как поровая поверхность. Базидии булавовидные, четырехспоровые, 15–18 × 4–5 мкм; цистиды и щетинки отсутствуют. Гифальная система мономитическая, с тонкостенными до умеренно толстостенных генеративными гифами шириной 2–6 мкм с хорошо заметными пряжками.",
+      "stipe": "Ножка отсутствует; плодовые тела сидячие, широко приросшие непосредственно к древесине или распростерто-отогнутые вдоль субстрата.",
+      "flesh": "Мякоть в свежем состоянии мягкая, водянистая, упругая, сырообразной консистенции, толщиной 0,2–1,5 см, при высыхании становится плотной, жесткой и хрупкой. В молодости белая, остается белой или постепенно буреет на поврежденных участках, при высыхании приобретает коричневатый или слегка пурпурно-коричневый оттенок. Запах слабый, едва заметно ароматный или слегка резкий; вкус невыраженный или слегка горьковатый. Гидроксид калия (KOH) дает отрицательную реакцию на мякоти и поверхности шляпки и отрицательную или слабо-оливковую на поровой поверхности.",
+      "sporePrint": "Споровый порошок белый. Базидиоспоры 4–5 × 1–2,5 мкм (изредка до 7 × 3 мкм), цилиндрические при виде спереди и колбасовидные (аллантоидные) при виде сбоку, гладкие, тонкостенные, гиалиновые в KOH, с зернистыми включениями, неамилоидные, недекстриноидные и ацианофильные.",
+      "habitat": "Сапротрофный вид на мертвой древесине хвойных пород — валежных стволах, пнях и ветвях ели (Picea), сосны (Pinus) и пихты (Abies), очень редко на ольхе серой (Alnus incana), где вызывает бурую гниль. Плодовые тела растут одиночно, группами или небольшими черепитчатыми сростками с весны до осени (обычно с мая по ноябрь), а в более мягком климате могут плодоносить до середины и конца зимы.",
+      "uses": "Несъедобный гриб. Мягкая, водянистая мякоть с возрастом становится жесткой и хрупкой и не имеет пищевой ценности.",
+      "confusion": "Несколько других мягких белых трутовиков, растущих на хвойной древесине, также буреют с красноватым оттенком при повреждении, и без микроскопии их бывает трудно различить. Parmastomyces transmutans (син. Parmastomyces mollissimus) и Amylocystis lapponica обычно сразу окрашиваются в красновато-коричневый цвет без промежуточной желтоватой или рыжевато-коричневой стадии; микроскопически Parmastomyces transmutans отличается декстриноидными спорами, тогда как у Amylocystis lapponica более густо щетинисто-волосистая шляпка и инкрустированные амилоидные цистиды. Leptoporus mollis при повреждении окрашивается скорее в розовато-розовый до винно-коричневого цвет и лишен пряжек на генеративных гифах.",
+      "notes": "Хотя свежие плодовые тела мягкие и податливые, при высыхании они становятся твердыми и крошащимися, легко распадаясь после обезвоживания. Вид является заметным возбудителем бурой гнили мертвой хвойной древесины: он разрушает целлюлозу, оставляя бурую древесину с кубическим растрескиванием.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "sk": {
+      "description": "Mäkká jednoročná drevokazná trúdnikovitá huba, ktorá rastie jednotlivo alebo v malých škridlicovitých zhlukoch na odumretom dreve ihličnanov, kde spôsobuje hnedú hnilobu. Je široko rozšírená na severnej pologuli v miernych a boreálnych lesoch Európy, Severnej Ameriky a severnej i strednej Ázie.",
+      "cap": "Plodnice sú jednoročné, prisadnuté, konzolovité alebo rozliato-odstávajúce s vyčnievajúcimi okrajmi klobúkov, často usporiadané v škridlicovitých poschodiach alebo bočne zrastených radoch. Jednotlivé klobúky dosahujú šírku 2,5–12 cm (zriedkavo do 15 cm) a hrúbku 0,5–2 cm, majú nepravidelne polkruhovitý, vejárovitý alebo predĺžený obrys, sú plocho klenuté až takmer ploché, so zvlneným okrajom, ktorý niekedy presahuje vrstvu rúrok. Suchý až slabo vlhký, nepásikavý vrchný povrch je za mladi mäkký, jemne chlpatý alebo vatovito plstnatý a starnutím sa stáva zľahnutým až takmer hladkým. Spočiatku je biely, belavý alebo bledo krémový, po otlačení a vekom rýchlo prechádza cez žltohnedú a okrovohnedú do červenohnedej až tmavo hrdzavohnedej farby; po vyschnutí tuhne a krehne.",
+      "hymenium": "Pórový povrch je za čerstva belavý, po dotyku alebo vekom sa rýchlo sfarbuje cez žltkastú či okrovohnedú do červenohnedej alebo vínovohnedej farby. Póry sú drobné, okrúhle až hranaté, v hustote 2–5 na 1 mm (zvyčajne 3–4 na 1 mm), s tenkými stenami, ktoré sa čoskoro trhajú a predlžujú do nepravidelných, zúbkovaných, zúbkovitých otvorov. Belavá vrstva rúrok je hrubá 4–15 mm a mení farbu rovnako ako povrch pórov. Bazídiá sú kyjakovité, štvorvýtrusné, veľké 15–18 × 4–5 µm; cystidy a štetinky chýbajú. Hýfový systém je monomitický, s tenkostennými až mierne hrubostennými generatívnymi hýfami širokými 2–6 µm, ktoré nesú zreteľné pracky.",
+      "stipe": "Hlúbik chýba; plodnice sú prisadnuté a široko prirastené priamo k drevu alebo rozliato-odstávajúce pozdĺž substrátu.",
+      "flesh": "Dužina je za čerstva mäkká, vodnatá, pružná a syrovitej konzistencie, hrubá 0,2–1,5 cm, po vyschnutí tuhá, pevná a krehká. Za mladi je biela, neskôr ostáva biela alebo na otlačených miestach postupne hnedne a pri sušení nadobúda hnedastý až slabo purpurovohnedý odtieň. Vôňa je nevýrazná, slabo príjemná alebo mierne štipľavá; chuť je nevýrazná alebo slabo horkastá. Hydroxid draselný (KOH) vyvoláva na dužine a povrchu klobúka negatívnu reakciu a na povrchu pórov negatívnu alebo slabo olivovú reakciu.",
+      "sporePrint": "Výtrusný prach je biely. Bazídiospóry merajú 4–5 × 1–2,5 µm (zriedkavo do 7 × 3 µm), pri pohľade spredu sú valcovité a pri pohľade zboku klobáskovité (alantoidné), hladké, tenkostenné, v KOH hyalínne, so zrnitými inklúziami, neamyloidné, nedextrinoidné a acyanofilné.",
+      "habitat": "Saprotrofná huba rastúca na odumretom dreve ihličnanov — na padnutých kmeňoch, pňoch a konároch smreka (Picea), borovice (Pinus) a jedle (Abies), celkom výnimočne aj na jelši sivej (Alnus incana) — kde spôsobuje hnedú hnilobu. Plodnice rastú jednotlivo, v skupinách alebo v malých škridlicovitých trsoch od jari do jesene (zvyčajne od mája do novembra), v miernejších oblastiach môžu vyrastať až do polovice či konca zimy.",
+      "uses": "Nejedlá. Mäkká, vodnatá dužina vekom tuhne a krehne a nemá žiadnu kulinársku hodnotu.",
+      "confusion": "Viaceré ďalšie mäkké biele trúdnikovité huby rastúce na ihličnanoch sa po otlačení takisto sfarbujú do červenohneda a bez mikroskopie ich možno ťažko rozlíšiť. Parmastomyces transmutans (syn. Parmastomyces mollissimus) a Amylocystis lapponica sa zvyčajne sfarbujú priamo do červenohneda bez prechodného žltkastého alebo okrovohnedého štádia; mikroskopicky má Parmastomyces transmutans dextrinoidné výtrusy, zatiaľ čo Amylocystis lapponica má hustejšie štetinato chlpatý klobúk a inkrustované amyloidné cystidy. Leptoporus mollis sa sfarbuje skôr do ružovkastej až vínovohnedej farby a na generatívnych hýfach nemá pracky.",
+      "notes": "Hoci sú čerstvé plodnice mäkké a poddajné, po vyschnutí stvrdnú, stanú sa drobivými a po dehydratácii sa ľahko lámu. Druh je významným pôvodcom hnedej hniloby odumretého ihličnatého dreva, keďže rozkladá celulózu a zanecháva kockovito rozpukané hnedé drevo.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Mehka, enoletna lesna razkrojevalka konzolaste oblike, ki raste posamično ali v manjših strešasto prekrivajočih se skupinah na odmrlem lesu iglavcev, kjer povzroča rjavo trohnobo. Široko je razširjena po severni polobli v zmernih in borealnih gozdovih Evrope, Severne Amerike ter severne in srednje Azije.",
+      "cap": "Trosnjaki so enoletni, sedeči, konzolasti ali razprostrto-odstojni s štrlečimi robovi klobukov, pogosto zraščeni v strešasto prekrivajoče se vrste ali bočno združene nize. Posamezni klobuki merijo 2,5–12 cm v premer (izjemoma do 15 cm) in so debeli 0,5–2 cm, nepravilno polkrožnega, pahljačastega ali podolgovatega obrisa, plosko izbočeni do skoraj ploski, z valovitim robom, ki včasih sega čez plast cevk. Suha do rahlo vlažna, nekolobarjena zgornja površina je v mladosti mehka, drobno dlakava ali bombažasto polstena, s starostjo pa postane polegla ali skoraj gladka. Sprva je bela, belkasta ali bledo smetanasta, na dotik in s starostjo pa hitro potemni prek rumenkasto rjave in okrasto rjave v rdečkasto rjavo in temno rjasto rjavo; ob sušenju postane trda in krhka.",
+      "hymenium": "Trosovnica s porami je v svežem stanju belkasta, ob dotiku ali s starostjo pa se hitro obarva prek rumenkaste ali okrasto rjave v rdečkasto rjavo ali vinsko rjavo. Pore so drobne, okrogle do oglate, po 2–5 na 1 mm (običajno 3–4 na 1 mm), s tankimi stenami, ki se kmalu raztrgajo in podaljšajo v nepravilne, nazobčane, zobcem podobne odprtine. Belkasta plast cevk je globoka 4–15 mm in se obarva enako kot površina por. Bazidiji so kijasti, štiritrosni, veliki 15–18 × 4–5 µm; cistide in ščetine manjkajo. Hifni sistem je monomitičen, s tankostenskimi do zmerno debelostenskimi generativnimi hifami širine 2–6 µm z dobro vidnimi zaponkami.",
+      "stipe": "Bet manjka; trosnjaki so sedeči in široko priraščeni neposredno na les ali razprostrto-odstojni vzdolž podlage.",
+      "flesh": "Meso je v svežem stanju mehko, vodeno, prožno in siraste konsistence, debelo 0,2–1,5 cm, ob sušenju pa postane žilavo, trdo in krhko. V mladosti je belo, nato ostane belo ali na poškodovanih mestih postopoma rjavi, ob sušenju pa postane rjavkasto ali rahlo škrlatno rjavo. Vonj je blag, rahlo prijeten ali nekoliko oster; okus je neizrazit ali rahlo grenak. Kalijev hidroksid (KOH) na mesu in površini klobuka ne povzroči reakcije, na površini por pa je reakcija negativna ali rahlo olivna.",
+      "sporePrint": "Trosni prah je bel. Bazidiospore merijo 4–5 × 1–2,5 µm (izjemoma do 7 × 3 µm), s čelne strani so valjaste, s strani pa klobasaste (alantoidne), gladke, tankostenske, v KOH brezbarvne, z zrnatimi vključki, neamiloidne, nedekstrinoidne in acianofilne.",
+      "habitat": "Saprotrofna vrsta na odmrlem lesu iglavcev — na podrtih deblih, štorih in vejah smreke (Picea), bora (Pinus) in jelke (Abies), zelo redko na sivi jelši (Alnus incana) — kjer povzroča rjavo trohnobo. Trosnjaki rastejo posamično, v skupinah ali v manjših strešastih šopih od pomladi do jeseni (običajno od maja do novembra), v milejšem podnebju pa lahko trosijo tudi do sredine ali pozne zime.",
+      "uses": "Neuživna. Mehko, vodeno meso s starostjo postane žilavo in krhko ter nima kulinarične vrednosti.",
+      "confusion": "Več drugih mehkih, belih luknjičarjev na iglavcih ob dotiku prav tako rdečkasto rjavi, zato jih je brez mikroskopiranja težko ločiti. Parmastomyces transmutans (sin. Parmastomyces mollissimus) in Amylocystis lapponica se na dotik običajno obarvata neposredno rdečkasto rjavo brez vmesne rumenkaste ali okrasto rjave faze; mikroskopsko ima Parmastomyces transmutans dekstrinoidne trose, medtem ko ima Amylocystis lapponica gosteje ščetinasto dlakav klobuk ter inkrustirane, amiloidne cistide. Leptoporus mollis se obarva bolj rožnato do vinsko rjavo in na generativnih hifah nima zaponk.",
+      "notes": "Čeprav so sveži trosnjaki mehki in upogljivi, se posušeni strdijo in postanejo drobljivi ter se po izsušitvi zlahka lomijo. Vrsta je pomemben povzročitelj rjave trohnobe odmrlega lesa iglavcev, saj razgrajuje celulozo in za seboj pušča kockasto razpokan rjav les.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "sr": {
+      "description": "Мека, једногодишња лигниколна рупичарка конзоластог облика која расте појединачно или у малим црепасто преклопљеним скупинама на мртвом дрвету четинара, где изазива мрку трулеж. Широко је распрострањена на северној хемисфери у умереним и бореалним шумама Европе, Северне Америке, као и северне и средње Азије.",
+      "cap": "Плодна тела су једногодишња, седећа, конзоласта или разливено-одстојећа са истуреним рубовима шешира, често распоређена у црепастим спратовима или бочно сраслим низовима. Појединачни шешири имају пречник 2,5–12 cm (повремено до 15 cm) и дебљину 0,5–2 cm, неправилног су полукружног, лепезастог или издуженог обриса, пљоснато испупчени до готово равни, са таласастим рубом који понекад надвисује слој цевчица. Сува до благо влажна, непојасна горња површина у младости је мека, фино длакава или памучасто-пустенаста, а старењем постаје слепљена или готово глатка. У почетку је бела, беличаста или бледокрем, али на додир и старењем брзо мења боју преко жућкастосмеђе и жутомрке до црвенкастосмеђе и тамнорђастосмеђе, а сушењем постаје чврста и крта.",
+      "hymenium": "Површина пора је у свежем стању беличаста, али при додиру или старењем брзо потамни преко жућкасте или жутомрке до црвенкастосмеђе или винскосмеђе боје. Поре су ситне, округле до угласте, по 2–5 на 1 mm (најчешће 3–4 на 1 mm), са танким зидовима који се убрзо цепају и издужују у неправилне, назубљене, зупчасте отворе. Беличасти слој цевчица дубок је 4–15 mm и мења боју исто као површина пора. Базидије су батинасте, четвороспорне, величине 15–18 × 4–5 µm; цистиде и чекиње одсуствују. Хифни систем је мономитичан, са танкозидим до умерено дебелозидим генеративним хифама ширине 2–6 µm које носе уочљиве копче.",
+      "stipe": "Дршка недостаје; плодна тела су седећа и широко прирасла директно за дрво или разливено-одстојећа дуж подлоге.",
+      "flesh": "Месо је у свежем стању меко, воденасто, еластично и сирасте конзистенције, дебљине 0,2–1,5 cm, а сушењем постаје жилаво, круто и крто. У младости је бело, остаје бело или на нагњеченим местима постепено добија смеђкасту нијансу, док при сушењу постаје смеђкасто или благо љубичастосмеђе. Мирис је благ, слабо мирисан или благо опор; укус је неизразит или благо горак. Калијум-хидроксид (KOH) даје негативну реакцију на месу и површини шешира, а негативну или благо маслинасту на површини пора.",
+      "sporePrint": "Отисак спора је бео. Базидиоспоре су величине 4–5 × 1–2,5 µm (повремено до 7 × 3 µm), ваљкасте с лица и кобасичасте (алантоидне) из профила, глатке, танкозиде, хијалине у KOH, са зрнастим инклузијама, неамилоидне, недекстриноидне и ацијанофилне.",
+      "habitat": "Сапротрофна врста на мртвом дрвету четинара — на обореним стаблима, пањевима и гранама смрче (Picea), бора (Pinus) и јеле (Abies), а веома ретко на сивој јови (Alnus incana) — где изазива мрку трулеж. Плодна тела расту појединачно, у скупинама или малим црепастим гроздовима од пролећа до јесени (обично од маја до новембра), а у блажој клими могу плодоносити до средине или краја зиме.",
+      "uses": "Нејестива. Меко, воденасто месо старењем постаје жилаво и крто и нема кулинарску вредност.",
+      "confusion": "Неколико других меких, белих рупичарки које расту на четинарима такође поприма црвенкастосмеђу боју на додир, па их је без микроскопије тешко раздвојити. Parmastomyces transmutans (син. Parmastomyces mollissimus) и Amylocystis lapponica на додир обично одмах поцрвене у црвенкастосмеђу нијансу без прелазне жућкасте или жутомрке фазе; микроскопски, Parmastomyces transmutans има декстриноидне споре, док Amylocystis lapponica има гушће чекињасто длакав шешир и инкрустиране, амилоидне цистиде. Leptoporus mollis се боји више у ружичасту до винскосмеђу нијансу и нема копче на генеративним хифама.",
+      "notes": "Иако су свежа плодна тела мека и савитљива, сушењем постају тврда и мрвљива и лако се ломе када се исуше. Врста је значајан узрочник мрке трулежи мртвог четинарског дрвета, јер разлаже целулозу и за собом оставља смеђе дрво са коцкастим пукотинама.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En mjuk, ettårig, vedlevande ticka som växer enstaka eller i små tegellagda klungor på död barrved, där den orsakar brunröta. Den är vidsträckt på norra halvklotet och förekommer i tempererade och boreala skogar i Europa, Nordamerika samt norra och mellersta Asien.",
+      "cap": "Fruktkropparna är ettåriga, oskaftade och bildar antingen hyllformiga konsoler eller vidvuxna, resupinat-pileata bildningar med utskjutande hattkanter, ofta i tegellagda våningar eller sidledes sammanvuxna rader. Enskilda hattar mäter 2,5–12 cm i bredd (undantagsvis upp till 15 cm) och är 0,5–2 cm tjocka, oregelbundet halvcirkelformiga, solfjäderformiga eller utdragna i konturen, planvälvda till nästan plana, med en vågig kant som ibland hänger ut över rörlagret. Den torra till svagt fuktiga, ozonerade ovansidan är mjuk, finhårig eller bomullslikt filtartad som ung och blir tovig eller nästan slät med åldern. Till en början är den vit, vitaktig eller blekt gräddvit, men vid beröring och med åldern missfärgas den snabbt via gulbrunt och gulbrunt-ockra till rödbrunt och mörkt rostbrunt, och torkar styv och spröd.",
+      "hymenium": "Porytan är vitaktig som färsk och mörknar snabbt via gulaktigt eller gulbrunt till rödbrunt eller vinbrunt vid hantering eller med åldern. Porerna är små, runda till kantiga, 2–5 per mm (vanligen 3–4 per mm), med tunna väggar som snart brister och dras ut till oregelbundna, flikiga, tandliknande öppningar. Det vitaktiga rörlagret är 4–15 mm djupt och missfärgas på samma sätt som porytan. Basidierna är klubblika, 4-sporiga och 15–18 × 4–5 µm; cystider och setaer saknas. Hyfsystemet är monomitiskt, med tunn- till måttligt tjockväggiga generativa hyfer, 2–6 µm breda, försedda med tydliga söljor.",
+      "stipe": "Fot saknas; fruktkropparna är oskaftade och brett fästa direkt på veden eller halvt utbredda längs substratet.",
+      "flesh": "Köttet är mjukt, vattnigt, spänstigt och ostliknande som färskt, 0,2–1,5 cm tjockt, men blir segt, styvt och sprött vid torkning. Det är vitt som ungt, förblir vitt eller fläckas gradvis brunaktigt där det skadas och torkar brunaktigt eller svagt purpurbrunt. Lukten är mild, svagt aromatisk eller lätt stickande; smaken är obetydlig eller svagt bitter. Kaliumhydroxid (KOH) ger negativ reaktion på köttet och hattens ovansida, och negativ eller svagt olivfärgad reaktion på porytan.",
+      "sporePrint": "Vitt. Basidiosporerna är 4–5 × 1–2,5 µm (undantagsvis upp till 7 × 3 µm), cylindriska sedda rakt framifrån och korvformiga (allantoida) sedda från sidan, släta, tunnväggiga, hyalina i KOH, med korniga inneslutningar, inamyloida, icke-dextrinoida och acyanofila.",
+      "habitat": "Saprotrof på död barrved — däribland lågor, stubbar och grenar av gran (Picea), tall (Pinus) och ädelgran (Abies), samt mycket sällsynt på gråal (Alnus incana) — där den orsakar brunröta. Fruktkropparna växer enstaka, i grupper eller i små tegellagda klungor från vår till höst (vanligen maj till november) och kan i mildare klimat bildas ända in i mitten eller slutet av vintern.",
+      "uses": "Oätlig. Det mjuka, vattniga köttet blir segt och sprött med åldern och har inget kulinariskt värde.",
+      "confusion": "Flera andra mjuka, vita tickor på barrved får också rödbruna fläckar vid beröring och kan vara svåra att skilja åt utan mikroskopering. Parmastomyces transmutans (syn. Parmastomyces mollissimus) och Amylocystis lapponica färgas vanligen direkt rödbruna utan ett mellanliggande gulaktigt eller gulbrunt stadium; mikroskopiskt har Parmastomyces transmutans dextrinoida sporer, medan Amylocystis lapponica har en tätare strävhårig hatt och inkrusterade, amyloida cystider. Leptoporus mollis färgas mer rosaröd till vinbrun och saknar söljor på de generativa hyferna.",
+      "notes": "Även om de färska fruktkropparna är mjuka och följsamma blir de hårda och smuliga när de torkar, och bryts lätt sönder i uttorkat tillstånd. Arten är en påtaglig brunrötesvamp i död barrved som bryter ned cellulosa och lämnar efter sig kubiskt sprucken brun ved.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Bl%C3%B6dticka",
+        "https://www.gbif.org/species/10672649"
+      ]
+    },
+    "tr": {
+      "description": "Ölü ibreli ağaç odunları üzerinde tek tek ya da küçük kiremit dizilişli kümeler halinde büyüyen ve kahverengi çürüklüğe yol açan yumuşak, tek yıllık, odun çürüten bir kav mantarıdır. Kuzey Yarımküre boyunca geniş bir yayılışa sahiptir; Avrupa, Kuzey Amerika ile kuzey ve orta Asya'nın ılıman ve boreal ormanlarında görülür.",
+      "cap": "Üreme yapıları tek yıllık, sapsız ve raf biçimli konsollar ya da çıkıntılı şapka kenarlı yayılıcı-kıvrık oluşumlar halindedir; sıklıkla üst üste binen katmanlar veya yan yana kaynaşmış sıralar oluşturur. Tek tek şapkalar 2,5–12 cm genişliğinde (nadiren 15 cm'ye kadar) ve 0,5–2 cm kalınlığındadır; düzensiz yarım dairemsi, yelpaze biçimli veya uzamış hatlı, yassı-dışbükeyden neredeyse düze doğru olup bazen borucuk tabakasının üzerine sarkan dalgalı bir kenara sahiptir. Kuru ila hafif nemli, kuşaksız üst yüzey gençken yumuşak, ince tüylü veya pamuksu-keçemsidir; yaşlandıkça keçeleşir ya da neredeyse düzleşir. Başlangıçta beyaz, beyazımsı veya soluk krem rengindedir; zedelendiğinde ve yaşlandıkça hızla sarımsı kahverengi ve tarçın kahverengisinden kırmızımsı kahverengi ve koyu pas kahverengisine döner, kuruduğunda sert ve kırılgan bir hal alır.",
+      "hymenium": "Gözenek yüzeyi tazeyken beyazımsıdır; dokunulduğunda veya yaşlandıkça hızla sarımsı ya da tarçın kahverengisi üzerinden kırmızımsı kahverengiye veya şarap kahverengisine dönüşür. Gözenekler küçük, yuvarlak ila köşelidir ve milimetrede 2–5 adet (genellikle 3–4 adet) bulunur; ince çeperleri kısa sürede yırtılıp uzayarak düzensiz, tırtıklı, diş benzeri açıklıklara dönüşür. Beyazımsı borucuk tabakası 4–15 mm derinliğindedir ve gözenek yüzeyiyle aynı şekilde renk değiştirir. Bazidiyumlar çomak biçimli, 4 sterigmalı ve 15–18 × 4–5 µm boyutlarındadır; sistidyum ve seta bulunmaz. Hif sistemi monomitiktir; 2–6 µm genişliğindeki ince ila orta kalın çeperli generatif hifler belirgin kancalar taşır.",
+      "stipe": "Sap yoktur; üreme yapıları sapsızdır ve geniş bir tabanla doğrudan oduna tutunur ya da substrat boyunca yayılıcı-kıvrık şekilde gelişir.",
+      "flesh": "Etli kısım tazeyken yumuşak, sulu, esnek ve peynirimsi yapıda olup 0,2–1,5 cm kalınlığındadır; kuruduğunda sert, katı ve kırılgan hale gelir. Gençken beyazdır; beyaz kalır ya da zedelenen yerlerde yavaş yavaş kahverengileşir, kuruduğunda kahverengimsi veya hafif morumsu kahverengi olur. Koku hafif, zayıf hoş kokulu veya hafif keskindir; tat belirsiz veya hafif acımsıdır. Potasyum hidroksit (KOH) etli kısımda ve şapka yüzeyinde negatif tepki verir; gözenek yüzeyinde ise negatif veya hafif zeytin rengi tepki gösterir.",
+      "sporePrint": "Beyaz. Bazidiyosporlar 4–5 × 1–2,5 µm (nadiren 7 × 3 µm'ye kadar), önden bakıldığında silindirik, yandan bakıldığında sosis biçimli (allantoid), düz, ince çeperli, KOH içinde saydam, granüler içerikli, inamiloid, dekstrinoid olmayan ve asiyanofil yapıdadır.",
+      "habitat": "Ladin (Picea), çam (Pinus) ve göknar (Abies) gibi ibrelilerin devrilmiş gövdeleri, kütükleri ve dalları dahil ölü ibreli odunlarında, çok nadiren de boz kızılağaç (Alnus incana) üzerinde saprotrof olarak yaşar ve kahverengi çürüklüğe neden olur. Üreme yapıları ilkbahardan sonbahara kadar (genellikle mayıstan kasıma) tek tek, toplu halde veya küçük kiremit dizilişli kümeler biçiminde gelişir; daha ılıman iklimlerde kış ortasına ya da kış sonuna kadar meyve verebilir.",
+      "uses": "Yenmez. Yumuşak ve sulu etli kısım yaşlandıkça sertleşip kırılganlaşır ve mutfak değeri yoktur.",
+      "confusion": "İbrelilerde yetişen başka yumuşak, beyaz polipor türleri de zedelendiğinde kırmızımsı kahverengiye döner ve mikroskopi olmadan ayırt edilmeleri zor olabilir. Parmastomyces transmutans (sin. Parmastomyces mollissimus) ve Amylocystis lapponica, ara bir sarımsı veya tarçın kahverengisi evre göstermeden doğrudan kırmızımsı kahverengiye dönme eğilimindedir; mikroskopik olarak Parmastomyces transmutans dekstrinoid sporlara sahipken Amylocystis lapponica daha yoğun sert tüylü bir şapkaya ve kabuklu, amiloid sistidyumlara sahiptir. Leptoporus mollis daha çok pembemsi gül renginden şarap kahverengisine lekelenir ve generatif hiflerinde kanca bulunmaz.",
+      "notes": "Taze üreme yapıları yumuşak ve esnek olsa da kuruduklarında sert ve ufalanabilir bir hal alır, nemini kaybettikten sonra kolayca parçalanır. Tür, ölü ibreli odunlarında selülozu parçalayarak geride küp biçiminde çatlamış kahverengi odun bırakan belirgin bir kahverengi çürüklük etkenidir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "М'який однорічний дереворуйнівний трутовик, що росте поодинці або невеликими черепичастими групами на мертвій деревині хвойних порід, де спричиняє буру гниль. Широко поширений у Північній півкулі: трапляється в помірних і бореальних лісах Європи, Північної Америки, а також Північної та Центральної Азії.",
+      "cap": "Плодові тіла однорічні, сидячі, поличкоподібні або розпростерто-відігнуті з виступаючими краями шапинок, часто утворюють черепичасті яруси або зрощені боками ряди. Окремі шапинки мають 2,5–12 см завширшки (зрідка до 15 см) і 0,5–2 см завтовшки, неправильно-напівокруглі, віялоподібні або видовжені в обрисі, плоско-опуклі до майже плоских, із хвилястим краєм, що іноді нависає над трубчастим шаром. Суха або злегка волога, незональна верхня поверхня в молодості м'яка, тонковолосиста або ватно-повстиста, а з віком стає збитою або майже гладенькою. Спочатку біла, білувата чи блідо-кремова, при ушкодженні й з віком швидко змінює забарвлення через жовтувато-коричневе й рудувато-коричневе до червонувато-коричневого та темно-іржаво-коричневого, а при висиханні стає твердою та крихкою.",
+      "hymenium": "Порова поверхня у свіжому стані білувата, при дотику або з віком швидко буріє через жовтуватий чи рудувато-коричневий відтінок до червонувато-коричневого або винно-коричневого. Пори дрібні, округлі до кутастих, 2–5 на 1 мм (зазвичай 3–4 на 1 мм), з тонкими стінками, які незабаром розриваються й витягуються в неправильні, зазублені, зубоподібні отвори. Білуватий трубчастий шар завтовшки 4–15 мм забарвлюється так само, як порова поверхня. Базидії булавоподібні, чотириспорові, 15–18 × 4–5 мкм; цистиди та щетинки відсутні. Гіфальна система мономітична, з тонкостінними до помірно товстостінних генеративними гіфами завширшки 2–6 мкм із добре помітними пряжками.",
+      "stipe": "Ніжка відсутня; плодові тіла сидячі, широко приростають безпосередньо до деревини або розпростерто-відігнуті вздовж субстрату.",
+      "flesh": "М'якуш у свіжому стані м'який, водянистий, пружний, сироподібної консистенції, завтовшки 0,2–1,5 см, при висиханні стає щільним, твердим і крихким. У молодості білий, залишається білим або поступово буріє на ушкоджених ділянках, а при висиханні набуває коричнюватого чи злегка пурпурово-коричневого відтінку. Запах слабкий, ледь ароматний або злегка різкий; смак невиразний або трохи гіркуватий. Гідроксид калію (KOH) дає негативну реакцію на м'якуші й поверхні шапинки та негативну або слабко-оливкову на поровій поверхні.",
+      "sporePrint": "Споровий порошок білий. Базидіоспори 4–5 × 1–2,5 мкм (зрідка до 7 × 3 мкм), циліндричні при огляді спереду й ковбасоподібні (алантоїдні) при огляді збоку, гладенькі, тонкостінні, гіалінові в KOH, із зернистими включеннями, неамілоїдні, недекстриноїдні й аціанофільні.",
+      "habitat": "Сапротрофний вид на мертвій деревині хвойних порід — повалених стовбурах, пнях і гілках ялини (Picea), сосни (Pinus) та ялиці (Abies), дуже рідко на вільсі сірій (Alnus incana) — де спричиняє буру гниль. Плодові тіла ростуть поодинці, групами або невеликими черепичастими зростками з весни до осені (зазвичай із травня до листопада), а в м'якшому кліматі можуть плодоносити до середини чи кінця зими.",
+      "uses": "Неїстівний. М'який, водянистий м'якуш з віком стає твердим і крихким та не має харчової цінності.",
+      "confusion": "Кілька інших м'яких білих трутовиків на хвойній деревині також червонувато буріють при ушкодженні, і без мікроскопії їх буває складно розрізнити. Parmastomyces transmutans (син. Parmastomyces mollissimus) та Amylocystis lapponica зазвичай одразу забарвлюються в червонувато-коричневий колір без проміжної жовтуватої чи рудувато-коричневої стадії; мікроскопічно Parmastomyces transmutans вирізняється декстриноїдними спорами, тоді як Amylocystis lapponica має густіше щетинисто-волосисту шапинку й інкрустовані амілоїдні цистиди. Leptoporus mollis забарвлюється радше в рожевуватий до винно-коричневого відтінок і не має пряжок на генеративних гіфах.",
+      "notes": "Хоча свіжі плодові тіла м'які й податливі, після висихання вони стають твердими та крихкими й легко ламаються в зневодненому стані. Вид є помітним збудником бурої гнилі мертвої хвойної деревини, розкладаючи целюлозу та залишаючи буру деревину з кубічним розтріскуванням.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種質地柔軟、一年生的木腐多孔菌，單生或呈小型覆瓦狀群生於針葉樹枯木上，並引起褐腐。廣泛分布於北半球，見於歐洲、北美洲以及亞洲北部與中部的溫帶和寒帶森林。",
+      "cap": "子實體一年生、無柄，呈架狀菌蓋或平伏反捲狀而具突出蓋緣，常呈覆瓦狀層疊或側向癒合成列生長。單個菌蓋寬2.5–12 cm（偶爾可達15 cm），厚0.5–2 cm，輪廓呈不規則半圓形、扇形或長形，平凸至近扁平，邊緣波狀，有時會懸垂於菌管層之外。上表面乾燥至微濕、無環紋，幼時柔軟且具細毛或棉絨狀，隨老化變得伏貼或近於平滑。初為白色、灰白色或淡乳白色，碰傷或老化後迅速經黃褐色與茶褐色轉為紅褐色至深鏽褐色，乾燥後變得堅硬且易碎。",
+      "hymenium": "菌管孔表面新鮮時呈灰白色，觸碰或老化後迅速經黃色或茶褐色轉為紅褐色或酒褐色。管孔細小，圓形至角形，每毫米2–5個（通常為每毫米3–4個），管壁薄，不久即撕裂拉長成不規則、鋸齒狀的齒狀開口。灰白色菌管層厚4–15 mm，變色反應與孔面相同。擔子棒狀，具4個擔孢子梗，大小15–18 × 4–5 µm；無囊狀體及剛毛。菌絲系統單系，生殖菌絲薄壁至中等厚壁，寬2–6 µm，具明顯扣子體。",
+      "stipe": "無菌柄；子實體無柄，寬基部直接著生於木材上，或沿基質呈平伏反捲狀生長。",
+      "flesh": "菌肉新鮮時柔軟、多汁、具彈性且呈乳酪狀，厚0.2–1.5 cm，乾燥後變得堅韌、僵硬且易碎。幼時白色，之後保持白色或在碰傷處逐漸染成褐色，乾燥時呈褐色或微帶紫褐色。氣味溫和、略帶清香或微辛辣；味道不明顯或略苦。氫氧化鉀（KOH）在菌肉與菌蓋表面呈陰性反應，在孔面則呈陰性或微橄欖色反應。",
+      "sporePrint": "白色。擔孢子大小4–5 × 1–2.5 µm（偶爾可達7 × 3 µm），正面觀圓柱形，側面觀香腸形（臘腸形），平滑、薄壁，於KOH中無色透明，內含顆粒狀物質，非澱粉質反應、非類糊精反應且非嗜藍性。",
+      "habitat": "腐生於針葉樹枯木上——包括雲杉（Picea）、松樹（Pinus）與冷杉（Abies）的倒木、樹樁與枯枝，極罕見於灰榿木（Alnus incana）——並造成褐腐。子實體自春季至秋季（通常為5月至11月）單生、群生或呈小型覆瓦狀叢生，在較溫和的氣候下可持續結實至仲冬或晚冬。",
+      "uses": "不可食。柔軟多汁的菌肉隨老化變得堅韌易碎，無食用價值。",
+      "confusion": "數種生長於針葉樹上的其他柔軟白色多孔菌在碰傷後同樣會變為紅褐色，不藉助顯微特徵往往難以區分。Parmastomyces transmutans（異名Parmastomyces mollissimus）與Amylocystis lapponica碰傷後通常直接變為紅褐色，不經過黃色或茶褐色的過渡階段；在顯微鏡下，Parmastomyces transmutans具類糊精孢子，而Amylocystis lapponica的菌蓋毛更密集粗硬，且具有覆晶的澱粉質囊狀體。Leptoporus mollis碰傷後偏向粉玫瑰色至酒褐色，且其生殖菌絲缺乏扣子體。",
+      "notes": "雖然新鮮子實體柔軟富彈性，但乾燥後會變得堅硬且易剝碎，脫水後極易斷裂。此物種是針葉樹枯木褐腐的重要分解者，能分解纖維素並留下呈立方塊狀龜裂的褐色木材。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Bjerkandera fragilis",
+      "author": "(Fr.) P. Karst.",
+      "rank": "species"
+    },
+    {
+      "name": "Bjerkandera weinmannii",
+      "author": "(Fr.) P. Karst.",
+      "rank": "species"
+    },
+    {
+      "name": "Daedalea sistotremoides",
+      "author": "Velen.",
+      "rank": "species"
+    },
+    {
+      "name": "Daedalea weinmannii",
+      "author": "(Fr.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Inodermus weinmannii",
+      "author": "(Fr.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Leptoporus fragilis",
+      "author": "(Fr.) Pat.",
+      "rank": "species"
+    },
+    {
+      "name": "Leptoporus fragilis",
+      "author": "(Fr.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Oligoporus fragilis",
+      "author": "(Fr.) Gilb. & Ryvarden",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus cavinae",
+      "author": "Velen.",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus fragilis",
+      "author": "Fr.",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus kavinae",
+      "author": "Velen.",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus keithii",
+      "author": "Berk. & Broome",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus orbicularis",
+      "author": "Velen.",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus sensibilis",
+      "author": "(Murrill) Murrill",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus vermiculus",
+      "author": "Veull.",
+      "rank": "species"
+    },
+    {
+      "name": "Polyporus weinmannii",
+      "author": "Fr.",
+      "rank": "species"
+    },
+    {
+      "name": "Polystictus fragilis",
+      "author": "(Fr.) Bigeard & H. Guill.",
+      "rank": "species"
+    },
+    {
+      "name": "Postia fragilis",
+      "author": "(Fr.) Jülich",
+      "rank": "species"
+    },
+    {
+      "name": "Postia weinmannii",
+      "author": "(Fr.) P. Karst.",
+      "rank": "species"
+    },
+    {
+      "name": "Spongipellis fragilis",
+      "author": "(Fr.) Murrill",
+      "rank": "species"
+    },
+    {
+      "name": "Spongipellis sensibilis",
+      "author": "Murrill",
+      "rank": "species"
+    },
+    {
+      "name": "Spongipellis weinmannii",
+      "author": "(Fr.) Pat.",
+      "rank": "species"
+    },
+    {
+      "name": "Spongiporus fragilis",
+      "author": "(Fr.) A. David",
+      "rank": "species"
+    },
+    {
+      "name": "Tyromyces fragilis",
+      "author": "(Fr.) Donk",
+      "rank": "species"
+    }
+  ],
+  "reserved": false
 }
 ];

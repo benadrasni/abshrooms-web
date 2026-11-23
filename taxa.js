@@ -1095,5 +1095,11 @@ export const TAXA = {
   },
   Volvopluteus: {
     rank: "genus"
+  },
+  Postiaceae: {
+    rank: "family"
+  },
+  Fuscopostia: {
+    rank: "genus"
   }
 };
