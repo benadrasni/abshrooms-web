@@ -1107,5 +1107,8 @@ export const TAXA = {
   },
   Fuscopostia: {
     rank: "genus"
+  },
+  Leratiomyces: {
+    rank: "genus"
   }
 };
