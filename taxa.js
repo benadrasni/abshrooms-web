@@ -1139,5 +1139,8 @@ export const TAXA = {
   Panaeolus: {
     rank: "genus",
     sk: "zvoncovec"
+  },
+  Panaeolina: {
+    rank: "genus"
   }
 };
