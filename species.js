@@ -213519,5 +213519,1771 @@ export const CATALOG = [
       "rank": "species"
     }
   ]
+},
+{
+  "id": 211,
+  "name": "Macrolepiota mastoidea",
+  "author": "(Fr.) Singer",
+  "citation": "Lilloa 22: 417 (1951) [1949]",
+  "family": "Agaricaceae",
+  "genus": "Macrolepiota",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Agaricaceae",
+    "Macrolepiota"
+  ],
+  "summary": [
+    "Agaricales",
+    "Agaricaceae",
+    "Macrolepiota"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 6,
+  "capTo": 15,
+  "stipeHeightFrom": 7,
+  "stipeHeightTo": 16,
+  "stipeThickFrom": 0.6,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "added": "2026-11-24",
+  "label": {
+    "bg": "зърнеста сърнела",
+    "cs": "bedla štíhlá",
+    "de": "Zitzen-Riesenschirmling",
+    "en": "slender parasol",
+    "fi": "suippu-ukonsieni",
+    "fr": "lépiote mamelonnée",
+    "hr": "grbava sunčanica",
+    "hu": "karcsú őzlábgomba",
+    "lv": "paugurainā dižsardzene",
+    "nl": "tepelparasolzwam",
+    "pl": "czubajka sutkowata",
+    "ro": "nană de pădure",
+    "ru": "гриб-зонтик сосцевидный",
+    "sk": "bedľa štíhla",
+    "sl": "grbičasti dežnik",
+    "sv": "puckelfjällskivling",
+    "zh": "乳头状大环柄菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [
+      "елегантна сърнела"
+    ],
+    "cs": [
+      "bedla útlá"
+    ],
+    "da": [],
+    "de": [
+      "Spitzbuckliger Schirmling",
+      "Warzenschirmling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [
+      "paugurainā saulsardzene"
+    ],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=299971",
+        "detail": "299971"
+      },
+      {
+        "group": "name",
+        "name": "MycoBank",
+        "href": "https://www.mycobank.org/page/Name%20details%20page/299971"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2536707",
+        "detail": "2536707"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/3X5NK"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Macrolepiota_mastoidea"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q206727"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/macrolepiota-mastoidea.php"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Macrolepiota_mastoidea"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Macrolepiota-mastoidea/"
+      },
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Macrolepiota&espece=mastoidea"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Zitzen-Riesenschirmling",
+        "detail": "German"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Karcs%C3%BA_%C5%91zl%C3%A1bgomba",
+        "detail": "Hungarian"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Tepelparasolzwam",
+        "detail": "Dutch"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1-%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D0%BA_%D1%81%D0%BE%D1%81%D1%86%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9",
+        "detail": "Russian"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://it.wikipedia.org/wiki/Macrolepiota_mastoidea",
+        "detail": "Italian"
+      }
+    ],
+    "bg": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://bg.wikipedia.org/wiki/%D0%97%D1%8A%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%B0_%D1%81%D1%8A%D1%80%D0%BD%D0%B5%D0%BB%D0%B0"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Macrolepiota-mastoidea/"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Zitzen-Riesenschirmling"
+      }
+    ],
+    "fi": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fi.wikipedia.org/wiki/Suippu-ukonsieni"
+      }
+    ],
+    "fr": [
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Macrolepiota&espece=mastoidea"
+      }
+    ],
+    "hr": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hr.wikipedia.org/wiki/Grbava_sun%C4%8Danica"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Karcs%C3%BA_%C5%91zl%C3%A1bgomba"
+      }
+    ],
+    "it": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://it.wikipedia.org/wiki/Macrolepiota_mastoidea"
+      }
+    ],
+    "lv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lv.wikipedia.org/wiki/Paugurain%C4%81_di%C5%BEsardzene"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Tepelparasolzwam"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Czubajka_sutkowata"
+      }
+    ],
+    "ro": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ro.wikipedia.org/wiki/Macrolepiota_mastoidea"
+      }
+    ],
+    "ru": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1-%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D0%BA_%D1%81%D0%BE%D1%81%D1%86%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sl.wikipedia.org/wiki/Grbi%C4%8Dasti_de%C5%BEnik"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Puckelfj%C3%A4llskivling"
+      }
+    ],
+    "zh": [
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Macrolepiota_mastoidea"
+      }
+    ]
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Mycological plate generated with Gemini in Bresadola style (848x1264 JPEG, LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows mature and young fruit bodies of Macrolepiota mastoidea on dry calcareous grass and leaf litter, a tilted underside view with crowded free white-to-cream gills and movable ring, and a longitudinal half-section.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea_1.webp",
+      "author": "Strobilomyces",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrolepiota_mastoidea_170926w.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea_2.webp",
+      "author": "agujaceratops",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrolepiota_mastoidea_100364993.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea_3.webp",
+      "author": "agujaceratops",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrolepiota_mastoidea_101905389.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea_4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrolepiota_mastoidea_102854145.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Macrolepiota_mastoidea/Macrolepiota_mastoidea_5.webp",
+      "author": "Adnan Sınar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2009-02-01_Macrolepiota_mastoidea_(Fr.)_Singer_35418.jpg"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر رمّي (مترمم) مظلّي الشكل متوسط إلى كبير الحجم، يثمر منفردًا أو في مجموعات صغيرة عبر أوروبا، بما في ذلك بريطانيا وأيرلندا، ويمتد انتشاره إلى آسيا المعتدلة والصين وأمريكا الشمالية والجنوبية وأفريقيا الاستوائية. يفضّل التربة الجافة المفتوحة والكلسية في فسحات الغابات، وحواف الغابات العشبية، والمروج، والكثبان الرملية الساحلية.",
+      "cap": "يبلغ قطر القبعة ٦–١٥ سم (وغالبًا ما يتراوح بين ٨–١٢ سم). تكون في البداية بيضوية إلى جرسية الشكل ذات حافة ملتفة إلى الداخل، ثم تنبسط لتصبح مخروطية عريضة وأخيرًا مسطحة مع احتفاظها بحدبة مركزية بارزة مستديرة الرأس شبيهة بالحلمة. يتشقق السطح الأبيض إلى الكريمي المغري الباهت إلى قشور دقيقة منبطحة إلى ليفية ذات لون بني مغري أو بندقي أو بني محمر، تكون أكثر كثافة وقتامة فوق الحدبة السليمة، مع تباين منخفض مقارنة بالخلفية الفاتحة.",
+      "hymenium": "صفائح عريضة ومزدحمة وحرة، بيضاء إلى كريمية باهتة — قد تتفرع أحيانًا وتكتسب مسحة كريمية وردية أو بنية خفيفة على الحافة مع التقدم في العمر — وتنتهي عند طوق واضح شبيه بالحلقة بعيدًا عن الساق. الدعاميات (البازيديات) هراوية الشكل، رباعية الأبواغ، بأبعاد ٣٥–٤٠ × ٨–١٠ ميكرومتر، ولها ذنيبات بوغية بطول ٣٫٥–٤ ميكرومتر، وتحمل وصلات مشبكية نادرة أو غير واضحة. أما الكيسات الحافية فذات جدران رقيقة وشفافة، هراوية أو قارورية أو مغزلية الشكل، بأبعاد ٢٧–٤٠ × ٨–١٥ ميكرومتر؛ بينما تغيب الكيسات الجانبية.",
+      "stipe": "الساق أسطوانية نحيلة بارتفاع ٧–١٦ سم (وقد تصل أحيانًا إلى ١٨ سم) وبسماكة ٠٫٦–١٫٥ سم، تستدق قليلًا نحو القمة وتنتفخ عند القاعدة لتشكّل بصلة متواضعة يصل عرضها إلى ٢٫٢ سم. وهي ليفية ومتينة، مصمتة في البداية ثم تصبح مجوفة، وتنفصل بسهولة عن القبعة؛ لونها كريمي باهت إلى أبيض فوق الحلقة، ومغطاة أسفلها بقشور أو تنقيط دقيق ومتقارب بلون بني مصفر باهت إلى مغري برتقالي فاتح. وتحيط بأعلى الساق حلقة غشائية متحركة ذات حافة بسيطة إلى مزدوجة، بيضاء من الأعلى وبنية باهتة على الحافة والسطح السفلي.",
+      "flesh": "اللحم أبيض وطري أو قطني في القبعة، وأكثر صلابة وليفية في الساق. وعلى خلاف الأنواع المظلّية الشبيهة التي تحمرّ، لا يحمرّ اللحم عند القطع أو الكدم، وإن كان قد يتحول ببطء إلى لون بني باهت مع التقدم في العمر أو اللمس. الرائحة خفيفة وفطرية لطيفة أو تذكّر بالزبدة المذابة، والطعم خفيف ومكسّراتي مستساغ.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى كريمية باهتة. الأبواغ ملساء وشفافة، إهليلجية إلى لوزية الشكل قليلًا، بأبعاد ١٢–١٦ × ٨–٩٫٥ ميكرومتر (وتصل أحيانًا إلى ١٨–١٩ × ١٠–١٠٫٥ ميكرومتر)، دكسترينويدية (تتلون بالبني المحمر في كاشف ميلتسر) ومتغيرة اللون، مع ثقب إنبات مغطى بقلنسوة شفافة عدسية الشكل.",
+      "habitat": "فطر رمّي (مترمم) ينمو على التربة الكلسية الجافة الفقيرة إلى متوسطة الخصوبة، ويثمر متفرقًا أو في مجموعات صغيرة في فسحات الغابات، وحواف الغابات النفضية والصنوبرية العشبية، وغابات الزان وغابات البلوط والنيّر المشمسة، ومروج العرعر، والمراعي، والحدائق، والكثبان الرملية الساحلية الغنية بالأصداف. تظهر الأجسام الثمرية أساسًا من يوليو إلى نوفمبر في معظم أنحاء أوروبا، وقد تبدأ منذ مايو في المناطق الأكثر دفئًا وتمتد إلى أواخر الخريف في الجنوب.",
+      "uses": "فطر صالح للأكل جيد يتميز بنكهة خفيفة ومكسّراتية تضاهي Macrolepiota procera، وإن كان أقل امتلاءً باللحم. تُستخدم القبعات الطرية فقط في الطهي، لأن السيقان قاسية وليفية. يجب طهيه جيدًا قبل تناوله وعدم أكله نيئًا، ونظرًا لكونه غير شائع أو في تراجع محلي في عدة مناطق أوروبية، يُنصح بالاعتدال عند جمعه.",
+      "confusion": "يتميز Macrolepiota procera بحجمه الأكبر بكثير وبوجود أشرطة متعرجة داكنة البنية تشبه جلد الأفعى على الساق بدلًا من التنقيط الفاتح الدقيق. ويرتبط Macrolepiota konradii به ارتباطًا وثيقًا ويُعامل أحيانًا كصنف منه، ويختلف عنه بقشور القبعة الأكبر والأقل كثافة ذات الشكل النجمي. أما Chlorophyllum rhacodes وChlorophyllum olivieri والنوع السام Chlorophyllum brunneum فتمتلك قشور قبعة أخشن ومنقلبة للخارج، وسيقانًا ملساء غير منقوشة، ولحمًا يتحول إلى الأحمر البرتقالي أو الأحمر الزعفراني عند القطع. وينتج النوع السام Chlorophyllum molybdites طبعة أبواغ مخضرّة وصفائح ناضجة ذات مسحة خضراء. وتبقى أنواع Lepiota الصغيرة والقاتلة محتملًا، مثل Lepiota brunneoincarnata وLepiota cristata، أقل بكثير من ١٠ سم قطرًا في العادة، ولها حلقات هشة غير متحركة، وتفتقر إلى الحدبة المركزية البارزة الشبيهة بالحلمة.",
+      "notes": "لا تزال الحدود التصنيفية المحيطة بنوع Macrolepiota mastoidea موضع نقاش نشط؛ إذ تُعامل عدة أشكال أوروبية نحيلة أو قشرية — بما في ذلك Macrolepiota rickenii وMacrolepiota gracilenta وMacrolepiota konradii — كمرادفات أو أصناف لدى بعض المراجع، وكأنواع مستقلة لدى مراجع أخرى. وعلى الرغم من عدم تقييمه عالميًا، فإن هذا النوع نادر ومُدرج ضمن فئة معرض للخطر (Vulnerable) في القوائم الحمراء الوطنية في أجزاء من شمال غرب أوروبا، بما في ذلك هولندا. وفي الاختبارات الكيميائية المجهرية، يعطي اللحم تفاعلًا أحمر أرجوانيًا يتحول إلى البني مع الفينول أنيلين، وبنيًا مع اللاكتوفينول، بينما يبقى سالبًا مع الأنيلين وألفا-نافثول."
+    },
+    "bg": {
+      "description": "Средно едра до едра сапротрофна гъба сърнела, която плододава поединично или на малки групи в цяла Европа, включително Великобритания и Ирландия, и достига до умерените части на Азия, Китай, Северна и Южна Америка и тропическа Африка. Предпочита сухи, открити варовити почви по горски поляни, тревисти горски покрайнини, ливади и крайбрежни пясъчни дюни.",
+      "cap": "Гуглата е с диаметър 6–15 см (най-често 8–12 см). Отначало е яйцевидна до камбанковидна с подвит ръб, след това се разтваря до широко конусовидна и накрая плоска, като запазва добре изразена заоблено-заострена централна гърбица. Белезникавата до бледо кремаво-охрена повърхност се напуква на фини, прилегнали до влакнести охрено-кафяви, лешниково-кафяви или червеникаво-кафяви люспици, най-гъсти и най-тъмни върху целостта на гърбицата и със слаб контраст спрямо светлия фон.",
+      "hymenium": "Ламелите са широки, гъсти, свободни, бели до бледо кремави, понякога разклонени и с възрастта добиващи розово-кремав или слабо кафеникав оттенък по ръба; около пънчето завършват в ясно оформен пръстеновиден колариум. Базидиите са бухалковидни, четириспорови, 35–40 × 8–10 мкм, със стеригми с дължина 3,5–4 мкм и с редки или незабележими катарами. Тънкостенните хиалинни хейлоцистидии са бухалковидни, бутилковидни или вретеновидни, 27–40 × 8–15 мкм; плевроцистидии липсват.",
+      "stipe": "Пънчето е стройно, цилиндрично, високо 7–16 см (понякога до 18 см) и дебело 0,6–1,5 см, леко стеснено към върха и разширено в основата в умерена луковица с ширина до 2,2 см. Влакнесто и жилаво, отначало плътно, а после кухо, то се отделя лесно от гуглата; над пръстенчето е бледо кремаво до белезникаво, а под него е покрито с фини, гъсто разположени бледо жълтеникаво-кафяви до охрено-кафеникави люспици или точици. В горната част на пънчето има ципесто, подвижно пръстенче с прост до двоен ръб, белезникаво отгоре и бледокафяво по ръба и отдолу.",
+      "flesh": "Месото е бяло, меко или памукообразно в гуглата, по-жилаво и влакнесто в пънчето. За разлика от почервеняващите подобни видове, месото не почервенява при разрязване или нараняване, макар че с възрастта или при допир може бавно да придобие слабо кафеникав оттенък. Миризмата е слаба, леко гъбена или напомняща разтопено масло, а вкусът е мек и приятно ядков.",
+      "sporePrint": "Споровият прашец е бял до бледо кремав. Спорите са гладки, хиалинни, елипсовидни до леко бадемовидни, 12–16 × 8–9,5 мкм (понякога до 18–19 × 10–10,5 мкм), декстриноидни (оцветяват се червеникаво-кафяво в реактива на Мелцер) и метахроматични, с кълнителна пора, покрита с прозрачно лещовидно капаче.",
+      "habitat": "Сапротрофен вид върху сухи, бедни до умерено богати на хранителни вещества варовити почви; плододава разпръснато или на малки групи по горски поляни, тревисти покрайнини на широколистни и иглолистни гори, светли букови и дъбово-габърови гори, хвойнови пустоши, ливади, паркове и обогатени с черупки крайбрежни пясъчни дюни. Плодните тела се появяват основно от юли до ноември в по-голямата част от Европа, още от май в по-топлите райони и до по-късна есен на юг.",
+      "uses": "Добра ядлива гъба с мек ядков вкус, сравним с този на Macrolepiota procera, макар и по-малко месеста. В кулинарията се използват само крехките гугли, тъй като пънчетата са жилави и влакнести. Трябва да се сготви добре преди консумация и да не се яде сурова, а тъй като е рядка или с намаляващи популации в редица европейски райони, се препоръчва умереност при събирането.",
+      "confusion": "Macrolepiota procera е значително по-едра и има едра, тъмнокафява змиевидна зигзагообразна шарка по пънчето вместо фини бледи точици. Macrolepiota konradii е близкородствена и понякога се разглежда като вариетет, като се отличава с по-едрите и по-редки звездовидни люспи по гуглата. Chlorophyllum rhacodes, Chlorophyllum olivieri и отровната Chlorophyllum brunneum имат по-груби, щръкнали люспи по гуглата, гладки пънчета без шарка и месо, което почервенява в оранжево-червено или шафраново-червено при разрязване. Отровната Chlorophyllum molybdites дава зеленикав споров прашец и има зеленикав оттенък на зрелите ламели. Дребните, потенциално смъртоносно отровни видове от род Lepiota като Lepiota brunneoincarnata и Lepiota cristata обикновено остават доста под 10 см в диаметър, имат крехки неподвижни пръстенчета и нямат ясно изразена централна гърбица.",
+      "notes": "Таксономичните граници около Macrolepiota mastoidea остават предмет на активен дебат: няколко стройни или люспести европейски форми, включително Macrolepiota rickenii, Macrolepiota gracilenta и Macrolepiota konradii, се разглеждат като синоними или вариетети от едни автори и като отделни видове от други. Макар да не е оценен на глобално ниво, видът е рядък и е вписан като уязвим (Vulnerable) в националните червени списъци на части от Северозападна Европа, включително Нидерландия. При микрохимични тестове месото дава пурпурно-червена реакция, преминаваща в кафява с феноланилин, и кафява с лактофенол, като остава отрицателно с анилин и алфа-нафтол."
+    },
+    "cs": {
+      "description": "Středně velká až velká saprotrofní bedla, která roste jednotlivě nebo v menších skupinách po celé Evropě včetně Británie a Irska a zasahuje i do mírného pásu Asie, Číny, Severní a Jižní Ameriky a tropické Afriky. Upřednostňuje suché, otevřené vápnité půdy na lesních pasekách, travnatých okrajích lesů, loukách a pobřežních písečných dunách.",
+      "cap": "Klobouk má průměr 6–15 cm (nejčastěji 8–12 cm). Zpočátku je vejčitý až zvoncovitý s podvinutým okrajem, později se rozprostírá do široce kuželovitého až plochého tvaru, přičemž si zachovává výrazný, zaobleně zašpičatělý středový hrbol připomínající bradavku. Bělavý až bledě krémově okrový povrch se rozpadá na jemné, přitisklé až vláknité okrově hnědé, lískově hnědé nebo červenohnědé šupiny, které jsou nejhustší a nejtmavší na neporušeném hrbolu a jen málo kontrastují se světlým podkladem.",
+      "hymenium": "Široké, husté, volné bílé až bledě krémové lupeny — občas vidličnatě větvené a ve stáří někdy na ostří slabě růžově krémově či nahnědle zbarvené — končí u zřetelného prstencovitého límečku (kolária) v dostatečném odstupu od třeně. Bazidie jsou kyjovité, čtyřvýtrusé, velké 35–40 × 8–10 µm se sterigmaty dlouhými 3,5–4 µm, s řídkými nebo nenápadnými přezkami. Tenkostěnné, hyalinní cheilocystidy jsou kyjovité, lahvicovité nebo vřetenovité, 27–40 × 8–15 µm; pleurocystidy chybějí.",
+      "stipe": "Štíhlý válcovitý třeň je vysoký 7–16 cm (výjimečně až 18 cm) a tlustý 0,6–1,5 cm, směrem k vrcholu se mírně zužuje a na bázi se rozšiřuje v nevýraznou hlízu širokou až 2,2 cm. Je vláknitý a tuhý, nejprve plný a později dutý, snadno oddělitelný od klobouku, nad prstenem bledě krémový až bělavý a pod ním pokrytý jemnými, hustě uspořádanými bledě žlutohnědými až okrově hnědými šupinkami nebo tečkováním. Horní část třeně objímá blanitý, posuvný prsten s jednoduchým až dvojitým okrajem, svrchu bělavý a na okraji i vespod světle hnědavý.",
+      "flesh": "Dužnina je v klobouku bílá a měkká až vatovitá, ve třeni tužší a vláknitá. Na rozdíl od červenajících bedel na řezu ani po otlačení nečervená, i když může stářím nebo manipulací pomalu slabě hnědnout. Vůně je jemná, lehce houbová nebo připomínající rozpuštěné máslo, a chuť je mírná a příjemně oříšková.",
+      "sporePrint": "Výtrusný prach je bílý až bledě krémový. Výtrusy jsou hladké, hyalinní, elipsoidní až mírně mandlovité, 12–16 × 8–9,5 µm (ojediněle až 18–19 × 10–10,5 µm), dextrinoidní (v Melzerově činidle se barví červenohnědě) a metachromatické, s klíčním pórem krytým průhlednou čočkovitou čepičkou.",
+      "habitat": "Saprotrofní houba rostoucí na suchých, živinami chudých až středně bohatých vápnitých půdách, roztroušeně nebo v malých skupinách na lesních pasekách, travnatých okrajích listnatých i jehličnatých lesů, ve světlých bučinách a dubohabřinách, na jalovcových vřesovištích, loukách, v parcích a na pobřežních písečných dunách obohacených o úlomky schránek. Plodnice se ve většině Evropy objevují hlavně od července do listopadu, v teplejších oblastech již od května a na jihu přetrvávají až do pozdního podzimu.",
+      "uses": "Dobrá jedlá houba s jemnou oříškovou chutí srovnatelnou s bedlou vysokou (Macrolepiota procera), i když je méně masitá. V kuchyni se využívají pouze křehké klobouky, protože třeně jsou tuhé a vláknité. Před konzumací je nutné ji důkladně tepelně upravit a nejíst syrovou; vzhledem k tomu, že je v několika evropských oblastech vzácná nebo místně ustupuje, doporučuje se při sběru zdrženlivost.",
+      "confusion": "Bedla vysoká (Macrolepiota procera) je podstatně větší a má na třeni výrazné tmavohnědé klikaté žíhání připomínající hadí kůži místo jemného světlého tečkování. Blízce příbuzná bedla Konradova (Macrolepiota konradii), někdy hodnocená jako varieta, se liší většími a řidšími hvězdicovitými šupinami na klobouku. Bedla červenající (Chlorophyllum rhacodes), bedla Olivierova (Chlorophyllum olivieri) a jedovatá bedla zahradní (Chlorophyllum brunneum) mají hrubší, odstávající šupiny na klobouku, hladký nežíhaný třeň a dužninu, která na řezu oranžově červená až šafránově červená. Jedovatý druh Chlorophyllum molybdites vytváří nazelenalý výtrusný prach a v dospělosti má nazelenalé lupeny. Drobné, potenciálně smrtelně jedovaté druhy rodu Lepiota, například bedla chřapáčovitá (Lepiota brunneoincarnata) a bedla hřebenitá (Lepiota cristata), obvykle zůstávají výrazně pod průměrem 10 cm, mají křehký neposuvný prsten a postrádají výrazný bradavkovitý hrbol.",
+      "notes": "Taxonomické vymezení druhu Macrolepiota mastoidea zůstává předmětem živé diskuse: řada štíhlých nebo šupinatých evropských forem — včetně Macrolepiota rickenii, Macrolepiota gracilenta a Macrolepiota konradii — je některými autory řazena mezi synonyma či variety, zatímco jiní je považují za samostatné druhy. Ačkoli nebyla celosvětově vyhodnocena, v částech severozápadní Evropy včetně Nizozemska je vzácná a v národních červených seznamech je vedena jako zranitelný druh (Vulnerable). Při mikrochemických zkouškách dužnina reaguje s fenolanilinem purpurově červeně s přechodem do hněda a s laktofenolem hnědě, zatímco s anilinem a alfa-naftolem zůstává reakce negativní."
+    },
+    "da": {
+      "description": "En mellemstor til stor saprotrof parasolsvamp, der danner frugtlegemer enkeltvis eller i små grupper i hele Europa, herunder Storbritannien og Irland, og videre ind i det tempererede Asien, Kina, Nord- og Sydamerika samt det tropiske Afrika. Den foretrækker tør, åben, kalkholdig jord i skovlysninger, græsrige skovbryn, enge og kystklitter.",
+      "cap": "Hatten måler 6–15 cm i diameter (hyppigst 8–12 cm). Den er oprindeligt ægformet til klokkeformet med indbøjet rand, men breder sig efterhånden ud til bredt kegleformet og til sidst flad, idet den bevarer en markant, afrundet-spids, vorteformet pukkel i midten. Den hvidlige til blegt cremefarvet-okker overflade bryder op i fine, tiltrykte til trævlede okkerbrune, hasselnøddebrune eller rødbrune skæl, som sidder tættest og er mørkest over den hele pukkel og står med lav kontrast mod den lyse bund.",
+      "hymenium": "Brede, tætstillede, frie, hvide til blegt cremefarvede lameller – lejlighedsvis gaffeldelte og undertiden svagt rosacreme eller let brunlige langs æggen med alderen – ender i en tydelig ringformet krave et stykke fra stokken. Basidierne er kølleformede, firesporede, 35–40 × 8–10 µm med 3,5–4 µm lange sterigmer og sparsomme eller utydelige øskner. Tyndvæggede, hyaline cheilocystider er kølleformede, flaskeformede eller tenformede og måler 27–40 × 8–15 µm; pleurocystider mangler.",
+      "stipe": "Den slanke, cylindriske stok er 7–16 cm høj (lejlighedsvis op til 18 cm) og 0,6–1,5 cm tyk, svagt afsmalnende mod toppen og udvidet ved basis i en beskeden knold på op til 2,2 cm i bredden. Den er trævlet og sej, først kompakt, siden hul, løsner sig let fra hatten, er blegt cremefarvet til hvidlig over ringen og derunder dækket af fine, tætsiddende blegt gulbrune til okkerbrune skæl eller småprikker. En hindet, forskydelig ring med enkel til dobbelt kant – hvidlig på oversiden og blegt brun på randen og undersiden – omslutter den øvre del af stokken.",
+      "flesh": "Hvidt og blødt eller vatagtigt i hatten, mere sejt og trævlet i stokken. I modsætning til rødmende forvekslingsarter rødmer kødet ikke ved gennemskæring eller tryk, men kan langsomt blive svagt brunligt med alderen eller ved berøring. Lugten er mild og svagt svampeagtig eller minder om smeltet smør, og smagen er mild og behageligt nøddeagtig.",
+      "sporePrint": "Sporeaftrykket er hvidt til blegt cremefarvet. Sporerne er glatte, hyaline, ellipsoidiske til svagt mandelformede, 12–16 × 8–9,5 µm (lejlighedsvis op til 18–19 × 10–10,5 µm), dextrinoide (farves rødbrune i Melzers reagens) og metakromatiske, med en spirepore dækket af en gennemsigtig linseformet hætte.",
+      "habitat": "Saprotrof på tør, næringsfattig til moderat næringsrig kalkholdig jord, hvor den vokser spredt eller i små grupper i skovlysninger, græsrige bryn af løv- og nåleskov, solrige bøge- og ege-avnbøgeskove, eneheder, enge, parker og skalrige kystklitter. Frugtlegemerne fremkommer hovedsageligt fra juli til november i det meste af Europa, i varmere egne allerede fra maj og længere hen på efteråret mod syd.",
+      "uses": "En god spisesvamp med en mild, nøddeagtig smag, som kan sammenlignes med Macrolepiota procera, dog mindre kødfuld. Kun de møre hatte anvendes i madlavningen, da stokkene er seje og trævlede. Svampen bør tilberedes grundigt og må ikke spises rå, og da den er ualmindelig eller lokalt i tilbagegang i flere europæiske egne, tilrådes tilbageholdenhed ved indsamling.",
+      "confusion": "Macrolepiota procera er betydeligt større og har kraftige, mørkebrune slangeskindsagtige zigzagbånd på stokken i stedet for fine, lyse småskæl. Macrolepiota konradii er nært beslægtet og opfattes undertiden som en varietet, men adskiller sig ved sine større, mere spredte, stjerneformede hatskæl. Chlorophyllum rhacodes, Chlorophyllum olivieri og den giftige Chlorophyllum brunneum har grovere, udstående hatskæl, glatte, umønstrede stokke og kød, der farves orangerødt eller safranrødt ved gennemskæring. Den giftige Chlorophyllum molybdites danner grønligt sporeaftryk og får grønlige lameller som moden. Små, potentielt dødeligt giftige arter i slægten Lepiota, såsom Lepiota brunneoincarnata og Lepiota cristata, forbliver normalt langt under 10 cm i hatdiameter, har skrøbelige, ikke-forskydelige ringe og mangler den markante vorteformede pukkel.",
+      "notes": "De taksonomiske grænser omkring Macrolepiota mastoidea er fortsat genstand for diskussion: flere slanke eller skællede europæiske former – herunder Macrolepiota rickenii, Macrolepiota gracilenta og Macrolepiota konradii – betragtes som synonymer eller varieteter af nogle forfattere og som selvstændige arter af andre. Skønt arten ikke er vurderet globalt, er den sjælden og opført som Sårbar (Vulnerable) på nationale rødlister i dele af Nordvesteuropa, herunder Nederlandene. Ved mikrokemiske reaktioner farves kødet purpurrødt og derefter brunt med fenolanilin samt brunt med laktofenol, mens reaktionerne med anilin og alfa-naftol er negative."
+    },
+    "de": {
+      "description": "Ein mittelgroßer bis großer saprotropher Schirmling, der einzeln oder in kleinen Gruppen in ganz Europa einschließlich Großbritannien und Irland fruktifiziert und bis in die gemäßigten Gebiete Asiens, Chinas, Nord- und Südamerikas sowie das tropische Afrika verbreitet ist. Er bevorzugt trockene, offene, kalkhaltige Böden auf Waldlichtungen, grasigen Waldrändern, Wiesen und Küstendünen.",
+      "cap": "Der Hut hat einen Durchmesser von 6–15 cm (meist 8–12 cm). Anfangs eiförmig bis glockig mit eingerolltem Rand, breitet er sich breit kegelförmig und schließlich flach aus, behält dabei jedoch einen ausgeprägten, abgerundet-spitzen, zitzenförmigen zentralen Buckel. Die weißliche bis blass cremeockerfarbene Oberfläche reißt in feine, anliegende bis faserige ockerbraune, haselnussbraune oder rotbraune Schuppen auf, die über dem ungeteilten Buckel am dichtesten und dunkelsten sind und sich nur schwach vom hellen Untergrund abheben.",
+      "hymenium": "Die breiten, gedrängten, freien, weißen bis blass cremefarbenen Lamellen — gelegentlich gegabelt und im Alter an der Schneide bisweilen rosa-creme oder schwach bräunlich getönt — enden in einem deutlichen, ringförmigen Kollar weit entfernt vom Stiel. Die Basidien sind keulig, viersporig, 35–40 × 8–10 µm groß, mit 3,5–4 µm langen Sterigmen sowie spärlichen oder unauffälligen Schnallen. Die dünnwandigen, hyalinen Cheilozystiden sind keulig, flaschenförmig oder spindelförmig und messen 27–40 × 8–15 µm; Pleurozystiden fehlen.",
+      "stipe": "Der schlanke, zylindrische Stiel ist 7–16 cm hoch (gelegentlich bis 18 cm) und 0,6–1,5 cm dick, verjüngt sich leicht zur Spitze hin und schwillt an der Basis zu einer mäßigen Knolle von bis zu 2,2 cm Breite an. Er ist faserig und zäh, anfangs voll und später hohl, leicht vom Hut ablösbar, oberhalb des Rings blass cremefarben bis weißlich und darunter mit feinen, dicht stehenden, blass gelbbraunen bis ockerbräunlichen Schüppchen oder einer feinen Sprenkelung bedeckt. Ein häutiger, verschiebbarer Ring mit einfachem bis doppeltem Rand — oberseits weißlich, am Rand und unterseits blass bräunlich — umgibt den oberen Stiel.",
+      "flesh": "Das Fleisch ist im Hut weiß und weich bis wattig, im Stiel zäher und faserig. Anders als bei rötenden Schirmlingen verfärbt sich das Fleisch bei Verletzung oder im Schnitt nicht rötlich, kann jedoch im Alter oder bei Berührung langsam schwach bräunen. Der Geruch ist mild und schwach pilzig oder an geschmolzene Butter erinnernd, der Geschmack mild und angenehm nussig.",
+      "sporePrint": "Das Sporenpulver ist weiß bis blass cremefarben. Die Sporen sind glatt, hyalin, ellipsoid bis schwach mandelförmig, 12–16 × 8–9,5 µm (gelegentlich bis 18–19 × 10–10,5 µm), dextrinoid (färben sich in Melzers Reagenz rotbraun) und metachromatisch, mit einem Keimporus, der von einer transparenten, linsenförmigen Kappe bedeckt ist.",
+      "habitat": "Saprotroph auf trockenen, nährstoffarmen bis mäßig nährstoffreichen Kalkböden, verstreut oder in kleinen Gruppen auf Waldlichtungen, an grasigen Laub- und Nadelwaldrändern, in lichten Buchen- und Eichen-Hainbuchenwäldern, Wacholderheiden, Wiesen, Parks sowie auf muschelschalenhaltigen Küstendünen. Die Fruchtkörper erscheinen in den meisten Teilen Europas vor allem von Juli bis November, in wärmeren Regionen bereits ab Mai und im Süden bis in den späten Herbst.",
+      "uses": "Ein guter Speisepilz mit mildem, nussigem Geschmack, vergleichbar mit dem Gemeinen Riesenschirmling (Macrolepiota procera), jedoch weniger fleischig. In der Küche werden nur die zarten Hüte verwendet, da die Stiele zäh und faserig sind. Er sollte vor dem Verzehr gründlich durchgegart und nicht roh gegessen werden; da er in mehreren europäischen Regionen selten ist oder lokal zurückgeht, ist Zurückhaltung beim Sammeln angebracht.",
+      "confusion": "Der Gemeine Riesenschirmling (Macrolepiota procera) ist deutlich größer und weist eine kräftige, dunkelbraune, schlangenhautartige Natterung am Stiel statt einer feinen hellen Sprenkelung auf. Der nah verwandte Sternschuppige Riesenschirmling (Macrolepiota konradii), der bisweilen als Varietät eingestuft wird, unterscheidet sich durch größere, spärlichere, sternförmige Hutschuppen. Der Safran-Schirmling (Chlorophyllum rhacodes), der Olivbraune Safranschirmling (Chlorophyllum olivieri) und der giftige Garten-Safranschirmling (Chlorophyllum brunneum) besitzen gröbere, abstehende Hutschuppen, glatte, ungenatterte Stiele und Fleisch, das im Schnitt orangerot bis safranrot anläuft. Der giftige Chlorophyllum molybdites bildet ein grünliches Sporenpulver und reif grünlich getönte Lamellen. Kleine, potenziell tödlich giftige Arten der Gattung Lepiota wie der Fleischbräunliche Schirmling (Lepiota brunneoincarnata) und der Stink-Schirmling (Lepiota cristata) bleiben in der Regel deutlich unter 10 cm Hutdurchmesser, haben fragile, nicht verschiebbare Ringe und besitzen keinen ausgeprägten zitzenförmigen Buckel.",
+      "notes": "Die taxonomische Abgrenzung rund um Macrolepiota mastoidea wird weiterhin aktiv diskutiert: Mehrere schlanke oder schuppige europäische Formen — darunter Macrolepiota rickenii, Macrolepiota gracilenta und Macrolepiota konradii — werden von manchen Autoren als Synonyme oder Varietäten, von anderen als eigenständige Arten behandelt. Obwohl weltweit nicht bewertet, ist die Art selten und steht in Teilen Nordwesteuropas, darunter in den Niederlanden, als gefährdet (Vulnerable) auf nationalen Roten Listen. In mikrochemischen Tests reagiert das Fleisch mit Phenolanilin purpurrot nach braun umschlagend und mit Lactophenol braun, während es mit Anilin und Alpha-Naphthol negativ bleibt."
+    },
+    "en": {
+      "description": "A medium-sized to large saprotrophic parasol mushroom that fruits singly or in small groups across Europe, including Britain and Ireland, and extends into temperate Asia, China, North and South America, and tropical Africa. It favours dry, open, calcareous soils in woodland clearings, grassy forest edges, meadows, and coastal sand dunes.",
+      "cap": "The cap measures 6–15 cm across (most commonly 8–12 cm). Initially ovoid to bell-shaped with an incurved margin, it expands to broadly conical and finally flat while retaining a prominent, rounded-pointed central nipple-like umbo. The whitish to pale cream-ochre surface breaks into fine, appressed to fibrous ochre-brown, hazelnut-brown, or reddish-brown scales that are densest and darkest over the intact umbo, with low contrast against the pale ground.",
+      "hymenium": "Broad, crowded, free white to pale cream gills—occasionally forked and sometimes tinged pinkish-cream or faintly brownish along the edge with age—terminate in a clear ring-like collar well away from the stipe. Basidia are clavate, four-spored, 35–40 × 8–10 µm with sterigmata 3.5–4 µm long, and carry sparse or inconspicuous clamp connections. Thin-walled, hyaline cheilocystidia are clavate, lageniform, or fusiform, 27–40 × 8–15 µm; pleurocystidia are absent.",
+      "stipe": "The slender cylindrical stipe is 7–16 cm tall (occasionally to 18 cm) and 0.6–1.5 cm thick, tapering slightly toward the apex and swelling at the base into a modest bulb up to 2.2 cm wide. Fibrous and tough, it is solid at first before becoming hollow, easily detached from the cap, pale cream to whitish above the ring and covered below with fine, closely spaced pale yellowish-brown to ochre-buff scales or speckling. A membranous, movable ring with a simple to double edge—whitish above and pale brown on the margin and underside—encircles the upper stipe.",
+      "flesh": "White and soft or cottony in the cap, tougher and fibrous in the stipe. Unlike reddening parasol lookalikes, the flesh does not redden when cut or bruised, though it may slowly turn faintly brownish with age or handling. The odour is mild and faintly mushroomy or reminiscent of melted butter, and the taste is mild and pleasantly nutty.",
+      "sporePrint": "The spore print is white to pale cream. Spores are smooth, hyaline, ellipsoid to slightly amygdaliform, 12–16 × 8–9.5 µm (occasionally up to 18–19 × 10–10.5 µm), dextrinoid (staining reddish-brown in Melzer's reagent) and metachromatic, with a germ pore covered by a transparent lens-shaped cap.",
+      "habitat": "Saprotrophic on dry, nutrient-poor to moderately rich calcareous soils, fruiting scattered or in small groups in woodland clearings, grassy deciduous and coniferous forest edges, sunlit beech and oak-hornbeam woods, juniper heaths, meadows, parks, and shell-enriched coastal sand dunes. Fruit bodies appear mainly from July to November across most of Europe, starting as early as May in warmer regions and extending later into autumn in the south.",
+      "uses": "A good edible mushroom with a mild, nutty flavour comparable to Macrolepiota procera, though less fleshy. Only the tender caps are used in cooking, as the stipes are tough and fibrous. It should be thoroughly cooked before eating rather than consumed raw, and because it is uncommon or locally declining in several European regions, restraint in collecting is advised.",
+      "confusion": "Macrolepiota procera is substantially larger and has bold, dark brown snakeskin-like zigzag banding on the stipe rather than fine pale speckling. Macrolepiota konradii is closely related and sometimes treated as a variety, differing in its larger, sparser star-like cap scales. Chlorophyllum rhacodes, Chlorophyllum olivieri, and the poisonous Chlorophyllum brunneum have coarser, reflexed cap scales, smooth unpatterned stipes, and flesh that turns orange-red or saffron-red when cut. The poisonous Chlorophyllum molybdites produces a greenish spore print and greenish-tinged mature gills. Small, potentially deadly species of Lepiota such as Lepiota brunneoincarnata and Lepiota cristata generally stay well below 10 cm across, have fragile non-movable rings, and lack the prominent nipple-like umbo.",
+      "notes": "Taxonomic limits around Macrolepiota mastoidea remain actively debated: several slender or scaly European forms—including Macrolepiota rickenii, Macrolepiota gracilenta, and Macrolepiota konradii—are treated as synonyms or varieties by some authorities and as separate species by others. Although unassessed globally, the species is rare and listed as Vulnerable on national red lists in parts of north-western Europe, including the Netherlands. In microchemical tests, the flesh gives a purplish-red turning brown reaction with phenolaniline and brown with lactophenol, while remaining negative with aniline and alpha-naphthol."
+    },
+    "es": {
+      "description": "Seta saprótrofa de tamaño mediano a grande que fructifica aislada o en pequeños grupos por toda Europa, incluidas Gran Bretaña e Irlanda, y se extiende por el Asia templada, China, América del Norte y del Sur y el África tropical. Prefiere suelos secos, abiertos y calcáreos en claros de bosque, lindes herbosas, praderas y dunas costeras.",
+      "cap": "El sombrero mide 6–15 cm de diámetro (lo más habitual 8–12 cm). Al principio es ovoide a campanulado con el margen incurvado, luego se extiende hasta quedar anchamente cónico y finalmente plano, conservando un mamelón central prominente, redondeado-apuntado. La superficie, de color blanquecino a crema ocráceo pálido, se rompe en finas escamas aplicadas a fibrosas de tonos pardo ocráceo, pardo avellana o pardo rojizo, más densas y oscuras sobre el mamelón intacto y con escaso contraste respecto al fondo pálido.",
+      "hymenium": "Las láminas son anchas, apretadas, libres, de color blanco a crema pálido — ocasionalmente bifurcadas y a veces ligeramente teñidas de crema rosado o parduzco en la arista con la edad — y terminan en un nítido collarium anular bien separado del pie. Los basidios son claviformes, tetraspóricos, de 35–40 × 8–10 µm con esterigmas de 3,5–4 µm de longitud, y presentan fíbulas escasas o poco visibles. Los queilocistidios, hialinos y de pared delgada, son claviformes, lageniformes o fusiformes, de 27–40 × 8–15 µm; los pleurocistidios están ausentes.",
+      "stipe": "El pie, esbelto y cilíndrico, mide 7–16 cm de altura (ocasionalmente hasta 18 cm) y 0,6–1,5 cm de grosor, estrechándose ligeramente hacia el ápice y ensanchándose en la base en un modesto bulbo de hasta 2,2 cm de anchura. Fibroso y tenaz, inicialmente macizo y después hueco, se separa con facilidad del sombrero; es crema pálido a blanquecino por encima del anillo y está cubierto por debajo de finas escamillas o motas apretadas de color pardo amarillento pálido a ocre ante. Un anillo membranoso y móvil, de borde simple a doble — blanquecino por arriba y pardo pálido en el margen y la cara inferior — rodea la parte superior del pie.",
+      "flesh": "La carne es blanca y blanda o algodonosa en el sombrero, más tenaz y fibrosa en el pie. A diferencia de las especies afines enrojecientes, no enrojece al corte ni al roce, aunque puede pardear ligeramente y con lentitud con la edad o la manipulación. El olor es suave, ligeramente fúngico o reminiscente de la mantequilla derretida, y el sabor es dulce y agradablemente a avellana.",
+      "sporePrint": "La esporada es blanca a crema pálido. Las esporas son lisas, hialinas, elipsoides a ligeramente amigdaliformes, de 12–16 × 8–9,5 µm (ocasionalmente hasta 18–19 × 10–10,5 µm), dextrinoides (se tiñen de pardo rojizo con el reactivo de Melzer) y metacromáticas, con un poro germinativo cubierto por un capuchón transparente lenticular.",
+      "habitat": "Saprótrofa en suelos calcáreos secos, de pobres a moderadamente ricos en nutrientes, fructificando dispersa o en pequeños grupos en claros de bosque, márgenes herbosos de bosques de frondosas y coníferas, hayedos y robledales-carpedales soleados, brezales de enebro, praderas, parques y dunas costeras enriquecidas con restos de conchas. Los cuerpos fructíferos aparecen principalmente de julio a noviembre en la mayor parte de Europa, comenzando ya en mayo en regiones más cálidas y prolongándose hasta bien entrado el otoño en el sur.",
+      "uses": "Buena seta comestible de sabor suave a avellana, comparable al del parasol (Macrolepiota procera), aunque menos carnosa. En la cocina solo se aprovechan los sombreros tiernos, ya que los pies son duros y fibrosos. Debe cocinarse bien antes de consumirla y no comerse cruda; dado que es poco común o está en retroceso local en varias regiones europeas, se aconseja moderación en su recolección.",
+      "confusion": "El parasol (Macrolepiota procera) es sustancialmente mayor y presenta en el pie un marcado atigrado pardo oscuro en zigzag semejante a la piel de serpiente en lugar de un fino moteado pálido. Macrolepiota konradii, estrechamente emparentada y a veces tratada como variedad, difiere por sus escamas del sombrero más grandes, más espaciadas y en forma de estrella. Chlorophyllum rhacodes, Chlorophyllum olivieri y la tóxica Chlorophyllum brunneum tienen escamas del sombrero más gruesas y levantadas, pies lisos sin dibujos y carne que vira a rojo anaranjado o rojo azafrán al corte. La tóxica Chlorophyllum molybdites produce una esporada verdosa y láminas teñidas de verde en la madurez. Pequeñas especies potencialmente mortales del género Lepiota, como Lepiota brunneoincarnata y Lepiota cristata, suelen mantenerse muy por debajo de los 10 cm de diámetro, poseen anillos frágiles no móviles y carecen del prominente mamelón.",
+      "notes": "Los límites taxonómicos en torno a Macrolepiota mastoidea siguen siendo objeto de debate activo: varias formas europeas esbeltas o escamosas — entre ellas Macrolepiota rickenii, Macrolepiota gracilenta y Macrolepiota konradii — son tratadas como sinónimos o variedades por unos autores y como especies independientes por otros. Aunque no ha sido evaluada a escala mundial, la especie es rara y figura como vulnerable (Vulnerable) en las listas rojas nacionales de partes del noroeste de Europa, incluidos los Países Bajos. En las pruebas microquímicas, la carne da una reacción rojo púrpura que vira a pardo con fenolanilina y parda con lactofenol, mientras que permanece negativa con anilina y alfa-naftol."
+    },
+    "et": {
+      "description": "Keskmise suurusega kuni suur saprotroofne sirmikuline, mis viljub üksikult või väikeste rühmadena kogu Euroopas, sealhulgas Suurbritannias ja Iirimaal, ning levib parasvöötme Aasiasse, Hiinasse, Põhja- ja Lõuna-Ameerikasse ning troopilisse Aafrikasse. Ta eelistab kuiva, avatud ja lubjarikast mulda metsalagendikel, rohtunud metsaservas, niitudel ja ranniku liivaluidetel.",
+      "cap": "Kübara läbimõõt on 6–15 cm (kõige sagedamini 8–12 cm). Algul munajas kuni kellukjas ja sissepoole pöördunud servaga kübar laieneb laialt koonusjaks ning lõpuks lamedaks, säilitades keskel selge ümar-terava nibuja kühmukese. Valkjas kuni kahvatult kreemjasookerjas pind laguneb peeneteks, liibuvateks kuni kiulisteks ookerpruunideks, sarapuupruunideks või punakaspruunideks soomusteks, mis on kõige tihedamad ja tumedamad tervena püsival kühmul ning eristuvad heledast taustast nõrga kontrastiga.",
+      "hymenium": "Laiad, tihedad, vabad, valged kuni kahvatukreemjad eoslehed – kohati harunenud ning vananedes servalt vahel õrnalt roosakaskreemid või nõrgalt pruunikad – lõpevad selge rõngakujulise kraena jalast eemal. Basiidiumid on nuijad, neljaeoselised, 35–40 × 8–10 µm, sterigmad on 3,5–4 µm pikad ning pandlad on hõredad või märkamatud. Õhukeseseinalised värvitud heilotsüstiidid on nuijad, pudeljad või käävjad mõõtmetega 27–40 × 8–15 µm; pleurotsüstiidid puuduvad.",
+      "stipe": "Sale, silindriline jalg on 7–16 cm kõrge (harva kuni 18 cm) ja 0,6–1,5 cm jäme, aheneb tipu suunas veidi ning paisub alusel mõõdukaks, kuni 2,2 cm laiuseks mugulaks. Kiuline ja sitke jalg on algul täis, hiljem õõnes, eraldub kübarast kergesti, on rõngast kõrgemal kahvatukreem kuni valkjas ning allpool kaetud peente, tihedalt paiknevate kahvatult kollakaspruunide kuni ookerjate soomuste või täpikestega. Jala ülaosa ümbritseb kilejas, liigutatav lihtsa kuni kahekordse servaga rõngas, mis on pealt valkjas ning servalt ja alaküljelt kahvatupruun.",
+      "flesh": "Seeneliha on kübaras valge ja pehme või vatjas, jalas sitkem ja kiuline. Erinevalt punetavatest sarnastest liikidest ei värvu seeneliha lõikamisel ega muljumisel punaseks, kuigi võib vananedes või käsitsemisel muutuda aeglaselt õrnalt pruunikaks. Lõhn on mahe ja nõrgalt seenelõhnaline või meenutab sulatatud võid ning maitse on mahe ja meeldivalt pähkline.",
+      "sporePrint": "Eosetolm on valge kuni kahvatukreemjas. Eosed on siledad, värvitud, ellipsoidsed kuni kergelt mandlikujulised, 12–16 × 8–9,5 µm (harva kuni 18–19 × 10–10,5 µm), dekstrinoidsed (värvuvad Melzeri reaktiivis punakaspruuniks) ja metakromaatilised, läbipaistva läätsekujulise mütsikesega kaetud idupooriga.",
+      "habitat": "Saprotroofne seen kuival, toitainevaesel kuni mõõdukalt viljakal lubjarikkal mullal; kasvab hajusalt või väikeste rühmadena metsalagendikel, rohtunud leht- ja okasmetsade servades, päikeselistes pöögi- ja tamme-valgepöögimetsades, kadastikes, niitudel, parkides ning karpide poolest rikastel ranniku liivaluidetel. Viljakehad ilmuvad suuremas osas Euroopast peamiselt juulist novembrini, soojemates piirkondades juba mais ning lõuna pool veelgi hilisemal sügisel.",
+      "uses": "Hea söögiseen maheda, pähklise maitsega, mis on võrreldav liigiga Macrolepiota procera, kuigi seeneliha on õhem. Toiduks kasutatakse üksnes õrnu kübaraid, sest jalad on sitked ja kiulised. Enne söömist tuleb see põhjalikult kuumtöödelda ega tohi süüa toorelt; kuna liik on mitmes Euroopa piirkonnas haruldane või paiguti hääbuv, soovitatakse korjamisel olla tagasihoidlik.",
+      "confusion": "Macrolepiota procera on tunduvalt suurem ning tema jalal on peene kahvatu täpilisuse asemel tugevad tumepruunid ussinahka meenutavad siksakilised vöödid. Macrolepiota konradii on lähedalt sugulane ja seda käsitletakse vahel teisendina, erinedes suuremate ja hõredamate tähtjate kübarasoomuste poolest. Liikidel Chlorophyllum rhacodes, Chlorophyllum olivieri ja mürgisel liigil Chlorophyllum brunneum on jämedamad, püstisemad kübarasoomused, sile mustrita jalg ning seeneliha, mis värvub lõikamisel oranžikaspunaseks või safranpunaseks. Mürgise liigi Chlorophyllum molybdites eosetolm on rohekas ja küpsed eoslehed omandavad roheka varjundi. Väikesed, potentsiaalselt surmavalt mürgised perekonna Lepiota liigid, nagu Lepiota brunneoincarnata ja Lepiota cristata, jäävad üldjuhul tublisti alla 10 cm laiuseks, neil on habras liikumatult kinnitunud rõngas ja neil puudub selge nibujas kühm.",
+      "notes": "Liigi Macrolepiota mastoidea taksonoomiliste piiride üle käib jätkuvalt elav arutelu: mitmeid saledaid või soomuselisi Euroopa vorme – sealhulgas Macrolepiota rickenii, Macrolepiota gracilenta ja Macrolepiota konradii – peavad ühed autorid sünonüümideks või teisenditeks ja teised iseseisvateks liikideks. Kuigi ülemaailmne hinnang puudub, on liik haruldane ja kantud rahvuslikesse punastesse nimestikesse ohualti (Vulnerable) liigina osas Loode-Euroopast, sealhulgas Madalmaades. Mikrokeemilistes katsetes reageerib seeneliha fenoolaniliiniga lillakaspunaseks, muutudes pruuniks, ja laktofenooliga pruuniks, samas kui reaktsioonid aniliini ja alfa-naftooliga jäävad negatiivseks."
+    },
+    "fa": {
+      "description": "قارچ چتری ساپروتروف با جثهٔ متوسط تا بزرگ است که به‌صورت تکی یا در گروه‌های کوچک در سراسر اروپا، از جمله بریتانیا و ایرلند، می‌روید و پراکنش آن تا آسیای معتدل، چین، آمریکای شمالی و جنوبی و آفریقای استوایی امتداد می‌یابد. این قارچ خاک‌های خشک، باز و آهکی را در فضاهای باز جنگلی، حاشیه‌های علفی جنگل، چمنزارها و تپه‌های شنی ساحلی ترجیح می‌دهد.",
+      "cap": "قطر کلاهک ۶–۱۵ سانتی‌متر (بیشتر اوقات ۸–۱۲ سانتی‌متر) است. در ابتدا تخم‌مرغی تا زنگوله‌ای با لبه‌ای برگشته به داخل است و سپس پهن شده و به شکل مخروطی پهن و در نهایت مسطح درمی‌آید، در حالی که برآمدگی مرکزی برجسته، گرد-نوک‌تیز و پستانک‌مانند خود را حفظ می‌کند. سطح سفیدرنگ تا کرم-اخرایی کم‌رنگ آن به پولک‌های ریز، خوابیده تا رشته‌ای به رنگ قهوه‌ای اخرایی، فندقی یا قهوه‌ای مایل به قرمز می‌شکند که روی برآمدگی سالم مرکزی متراکم‌تر و تیره‌ترند و تضاد کمی با زمینهٔ روشن دارند.",
+      "hymenium": "تیغه‌های پهن، متراکم و آزاد، به رنگ سفید تا کرم کم‌رنگ — که گاهی دوشاخه می‌شوند و با افزایش سن ممکن است در لبه ته‌رنگ کرم-صورتی یا قهوه‌ای محو بگیرند — در یک طوق حلقه‌مانند مشخص با فاصلهٔ زیاد از ساقه پایان می‌یابند. بازیدی‌ها گرزشکل، چهارهاگی، به ابعاد ۳۵–۴۰ × ۸–۱۰ میکرومتر با استریگماتای به طول ۳٫۵–۴ میکرومتر هستند و اتصالات قلاب‌مانند پراکنده یا نامحسوس دارند. سیستیدی‌های لبه‌ای (کیلوسستیدی‌ها) نازک‌دیواره و شفاف بوده و به شکل گرزشکل، بطری‌شکل یا دوکی با ابعاد ۲۷–۴۰ × ۸–۱۵ میکرومتر دیده می‌شوند؛ سیستیدی‌های جانبی (پلوروسستیدی‌ها) وجود ندارند.",
+      "stipe": "ساقهٔ استوانه‌ای باریک ۷–۱۶ سانتی‌متر ارتفاع (گاهی تا ۱۸ سانتی‌متر) و ۰٫۶–۱٫۵ سانتی‌متر ضخامت دارد که به سمت بالا اندکی باریک می‌شود و در قاعده به پیازک متعادلی با پهنای تا ۲٫۲ سانتی‌متر متورم می‌گردد. این ساقه رشته‌ای و سفت است، در ابتدا توپر و سپس توخالی می‌شود، به‌آسانی از کلاهک جدا می‌گردد، بالای حلقه کرم کم‌رنگ تا سفیدرنگ است و در پایین آن از پولک‌ها یا لکه‌های ریز و نزدیک به هم به رنگ قهوه‌ای مایل به زرد کم‌رنگ تا اخرایی نخودی پوشیده شده است. حلقه‌ای غشایی و متحرک با لبه‌ای ساده تا دولبه — در سطح بالایی سفیدرنگ و در حاشیه و سطح زیرین قهوه‌ای کم‌رنگ — بخش بالایی ساقه را دربر می‌گیرد.",
+      "flesh": "گوشت در کلاهک سفید و نرم یا پنبه‌ای، و در ساقه سفت‌تر و رشته‌ای است. برخلاف گونه‌های چتری مشابه که قرمز می‌شوند، گوشت هنگام برش یا کوفتگی قرمز نمی‌شود، هرچند ممکن است با گذشت زمان یا دست‌مالی به‌آهستگی اندکی قهوه‌ای شود. بوی آن ملایم و کمی قارچی یا یادآور کرهٔ ذوب‌شده، و طعم آن ملایم و مطبوعاً آجیلی است.",
+      "sporePrint": "نقش هاگ سفید تا کرم کم‌رنگ است. هاگ‌ها صاف، شفاف، بیضوی تا اندکی بادامی‌شکل، به ابعاد ۱۲–۱۶ × ۸–۹٫۵ میکرومتر (گاهی تا ۱۸–۱۹ × ۱۰–۱۰٫۵ میکرومتر)، دکسترینوئید (در معرف ملتزر به رنگ قهوه‌ای مایل به قرمز درمی‌آیند) و متاکروماتیک هستند و منفذ جوانه‌زنی آن‌ها با کلاهک شفاف عدسی‌شکل پوشیده شده است.",
+      "habitat": "ساپروتروف بر روی خاک‌های آهکی خشک و فقیر تا نسبتاً غنی از مواد مغذی است و به‌صورت پراکنده یا در گروه‌های کوچک در فضاهای باز جنگلی، حاشیه‌های علفی جنگل‌های پهن‌برگ و سوزنی‌برگ، جنگل‌های آفتاب‌گیر راش و بلوط-ممرز، بیشه‌زارهای ارس، چمنزارها، پارک‌ها و تپه‌های شنی ساحلی غنی از صدف می‌روید. اندام‌های بارده عمدتاً از ژوئیه تا نوامبر در بیشتر نقاط اروپا ظاهر می‌شوند و در مناطق گرم‌تر از مه آغاز شده و در جنوب تا اواخر پاییز ادامه می‌یابند.",
+      "uses": "قارچ خوراکی خوبی با طعم ملایم و آجیلی قابل مقایسه با Macrolepiota procera است، هرچند گوشت کمتری دارد. تنها کلاهک‌های ترد آن در آشپزی به کار می‌روند، زیرا ساقه‌ها سفت و رشته‌ای هستند. پیش از مصرف باید کاملاً پخته شود و به‌صورت خام خورده نشود، و از آنجا که در چندین منطقهٔ اروپایی کمیاب یا به‌طور محلی در حال کاهش است، در جمع‌آوری آن خویشتن‌داری توصیه می‌شود.",
+      "confusion": "Macrolepiota procera به‌مراتب بزرگ‌تر است و به‌جای نقطه‌چین روشن و ریز، نوارهای زیگزاگی قهوه‌ای تیره و برجسته شبیه پوست مار روی ساقه دارد. Macrolepiota konradii خویشاوند نزدیک آن است و گاهی به‌عنوان یک واریته در نظر گرفته می‌شود، اما با پولک‌های بزرگ‌تر، پراکنده‌تر و ستاره‌مانند کلاهک متمایز است. Chlorophyllum rhacodes و Chlorophyllum olivieri و گونهٔ سمی Chlorophyllum brunneum پولک‌های درشت‌تر و برگشته به بیرون روی کلاهک، ساقه‌های صاف و بدون نقش، و گوشتی دارند که هنگام برش به قرمز نارنجی یا قرمز زعفرانی تغییر رنگ می‌دهد. گونهٔ سمی Chlorophyllum molybdites نقش هاگ مایل به سبز و تیغه‌های بالغ با ته‌رنگ سبز تولید می‌کند. گونه‌های کوچک و بالقوه کشندهٔ جنس Lepiota مانند Lepiota brunneoincarnata و Lepiota cristata عموماً قطری بسیار کمتر از ۱۰ سانتی‌متر دارند، حلقه‌های شکننده و غیرمتحرک دارند و فاقد برآمدگی مرکزی برجستهٔ پستانک‌مانند هستند.",
+      "notes": "مرزهای تاکسونومیک پیرامون Macrolepiota mastoidea همچنان موضوع بحث فعال است: چند شکل باریک یا پولک‌دار اروپایی — از جمله Macrolepiota rickenii و Macrolepiota gracilenta و Macrolepiota konradii — از سوی برخی مراجع به‌عنوان مترادف یا واریته و از سوی برخی دیگر به‌عنوان گونه‌های مستقل در نظر گرفته می‌شوند. اگرچه این گونه در سطح جهانی ارزیابی نشده است، در بخش‌هایی از شمال غرب اروپا از جمله هلند کمیاب است و در فهرست‌های سرخ ملی در ردهٔ آسیب‌پذیر (Vulnerable) قرار دارد. در آزمون‌های میکروشیمیایی، گوشت با فنول‌آنیلین واکنش قرمز ارغوانیِ متمایل به قهوه‌ای و با لاکتوفنول واکنش قهوه‌ای نشان می‌دهد، در حالی که با آنیلین و آلفا-نفتول منفی باقی می‌ماند."
+    },
+    "fi": {
+      "description": "Keskikokoinen tai kookas saprotrofinen ukonsienilaji, jonka itiöemät kasvavat yksittäin tai pieninä ryhminä kautta Euroopan, mukaan lukien Iso-Britannia ja Irlanti, ja edelleen lauhkeaan Aasiaan, Kiinaan, Pohjois- ja Etelä-Amerikkaan sekä trooppiseen Afrikkaan. Se suosii kuivaa, avointa ja kalkkipitoista maaperää metsänaukeilla, ruohoisilla metsänreunoilla, niityillä ja rannikon hiekkadyyneillä.",
+      "cap": "Lakki on leveydeltään 6–15 cm (yleisimmin 8–12 cm). Aluksi munamainen tai kellomainen ja sisäänkiertyneestä reunastaan kapea lakki laajenee leveän kartiomaiseksi ja lopulta laakeaksi säilyttäen keskellä selvästi erottuvan, pyöreäkärkisen nisämäisen kohouman. Valkeahko tai vaalean kermanokra pinta repeilee hienoiksi, pinnanmyötäisiksi tai säikeisiksi okranruskeiksi, hasselpähkinänruskeiksi tai punaruskeiksi suomuiksi, jotka ovat tiheimmillään ja tummimmillaan ehjän keskuskohouman päällä erottuen vain loivasti vaaleasta pohjasta.",
+      "hymenium": "Leveät, tiheät, irtotyviset, valkoiset tai vaalean kermanväriset heltat – toisinaan haarautuvat ja vanhemmiten terästään ajoittain hennon punertavankeltaiset tai heikosti ruskehtavat – päättyvät selvään rengasmaiseen kaulukseen selvästi erilleen jalasta. Itiökannat eli basidit ovat nuijamaisia, neli-itiöisiä, kooltaan 35–40 × 8–10 µm, niiden sterigmat ovat 3,5–4 µm pitkiä ja niissä on harvassa tai huomaamattomia sinkilöitä. Ohutseinäiset, värittömät heltanteräkystidit (keilokystidit) ovat nuijamaisia, pullomaisia tai sukkulamaisia ja kooltaan 27–40 × 8–15 µm; heltanpintakystidit (pleurokystidit) puuttuvat.",
+      "stipe": "Hoikka, lieriömäinen jalka on 7–16 cm korkea (satunnaisesti jopa 18 cm) ja 0,6–1,5 cm paksu; se kapenee hieman latvaa kohti ja laajenee tyvestä vaatimattomaksi, enintään 2,2 cm leveäksi mukulaksi. Jalka on säikeinen ja sitkeä, aluksi täyteinen ja myöhemmin ontto, irtoaa helposti lakista, on renkaan yläpuolelta vaalean kermanvärinen tai valkeahko ja alapuolelta hienojen, tiheiden vaalean kellanruskeiden tai okranruskeiden suomujen tai täplien peittämä. Jalan yläosaa ympäröi kalvomainen, liikuteltava rengas, jossa on yksin- tai kaksinkertainen reuna ja joka on päältä valkeahko sekä reunaltaan ja alapinnaltaan vaaleanruskea.",
+      "flesh": "Malto on lakissa valkoista ja pehmeää tai pumpulimaista, jalassa sitkeämpää ja säikeistä. Toisin kuin punertuvilla näköislajeilla, malto ei punerra leikkauspinnoilta eikä kolhiintuessa, vaikka se saattaa vanhemmiten tai käsittelyssä muuttua hitaasti hennon ruskehtavaksi. Haju on mieto ja hennosti sienimäinen tai sulatettua voita muistuttava, ja maku on mieto sekä miellyttävän pähkinäinen.",
+      "sporePrint": "Itiöpöly on valkoista tai vaalean kermanväristä. Itiöt ovat sileitä, värittömiä, soikeita tai hieman mantelinmuotoisia, kooltaan 12–16 × 8–9,5 µm (satunnaisesti jopa 18–19 × 10–10,5 µm), dekstrinoidisia (värjäytyvät punaruskeiksi Melzerin reagenssissa) ja metakromaattisia, ja niiden ituhuokosta peittää läpinäkyvä linssimäinen kalotti.",
+      "habitat": "Lahottajasieni kuivalla, niukkaravinteisella tai keskiravinteisella kalkkipitoisella maalla; se kasvaa yksittäin tai pieninä ryhminä metsänaukeilla, ruohoisilla lehti- ja havumetsien reunoilla, valoisissa pyökki- ja tammi-valkopyökkimetsissä, katajanummilla, niityillä, puistoissa sekä simpukankuoripitoisilla rannikon hiekkadyyneillä. Itiöemiä esiintyy suurimmassa osassa Eurooppaa pääasiassa heinäkuusta marraskuuhun, lämpimämmillä alueilla jo toukokuusta alkaen ja etelässä pidemmälle syksyyn.",
+      "uses": "Hyvä ruokasieni, jonka mieto, pähkinäinen maku vetää vertoja lajille Macrolepiota procera, joskin se on vähemmän maltoinen. Ruoanlaittoon käytetään vain mureat lakit, sillä jalat ovat sitkeitä ja säikeisiä. Sieni tulee kypsentää perusteellisesti ennen syömistä eikä sitä pidä nauttia raakana, ja koska laji on monin paikoin Euroopassa harvinainen tai paikallisesti taantunut, sen keräämisessä suositellaan maltillisuutta.",
+      "confusion": "Macrolepiota procera on huomattavasti kookkaampi, ja sen jalassa on hienon vaalean täplikkyyden sijaan voimakkaat tummanruskeat käärmeennahkamaiset siksak-kuviot. Macrolepiota konradii on läheistä sukua ja luetaan toisinaan muunnokseksi, mutta se eroaa suuremmilla, harvemmilla tähtimäisillä lakkisuomuillaan. Lajeilla Chlorophyllum rhacodes, Chlorophyllum olivieri sekä myrkyllisellä lajilla Chlorophyllum brunneum on karkeammat, pystyyn kaartuvat lakkisuomut, sileä kuvioton jalka ja malto, joka muuttuu leikattaessa oranssinpunaiseksi tai sahraminpunaiseksi. Myrkyllisen lajin Chlorophyllum molybdites itiöpöly on vihertävää, ja sen kypsät heltat saavat vihertävän sävyn. Pienet, mahdollisesti tappavan myrkylliset Lepiota-suvun lajit, kuten Lepiota brunneoincarnata ja Lepiota cristata, jäävät yleensä reilusti alle 10 cm leveiksi, niiden rengas on hauras eikä liiku, ja niiltä puuttuu selvä nisämäinen keskuskohouma.",
+      "notes": "Lajin Macrolepiota mastoidea taksonomisesta rajauksesta käydään edelleen vilkasta keskustelua: useita hoikkia tai suomuisia eurooppalaisia muotoja – mukaan lukien Macrolepiota rickenii, Macrolepiota gracilenta ja Macrolepiota konradii – pidetään joidenkin tutkijoiden mukaan synonyymeina tai muunnoksina ja toisten mukaan itsenäisinä lajeina. Vaikka lajia ei ole arvioitu maailmanlaajuisesti, se on harvinainen ja luokiteltu kansallisilla punaisilla listoilla vaarantuneeksi (Vulnerable) osassa Luoteis-Eurooppaa, muun muassa Alankomaissa. Mikrokemiallisissa testeissä malto reagoi fenolianiliinin kanssa purppuranpunaiseksi muuttuen ruskeaksi ja laktofenolin kanssa ruskeaksi, kun taas reaktiot aniliinin ja alfanaftolin kanssa jäävät negatiivisiksi."
+    },
+    "fr": {
+      "description": "Un champignon saprotrophe de taille moyenne à grande qui fructifie isolément ou en petits groupes dans toute l'Europe, y compris en Grande-Bretagne et en Irlande, et s'étend jusqu'en Asie tempérée, en Chine, en Amérique du Nord et du Sud ainsi qu'en Afrique tropicale. Il affectionne les sols secs, ouverts et calcaires des clairières, lisières herbeuses, prairies et dunes côtières.",
+      "cap": "Le chapeau mesure 6–15 cm de diamètre (le plus souvent 8–12 cm). D'abord ovoïde à campanulé avec une marge enroulée, il s'étale en forme largement conique puis plane tout en conservant un mamelon central proéminent, arrondi-pointu. La surface blanchâtre à crème ocracé pâle se rompt en fines squames apprimées à fibrilleuses, brun ocracé, brun noisette ou brun rougeâtre, plus denses et plus sombres sur le mamelon intact et peu contrastées sur le fond pâle.",
+      "hymenium": "Les lames larges, serrées, libres, blanches à crème pâle — parfois fourchues et parfois légèrement teintées de crème rosé ou de brunâtre sur l'arête avec l'âge — se terminent par un collarium annulaire net, bien écarté du pied. Les basides sont clavées, tétrasporiques, de 35–40 × 8–10 µm avec des stérigmates longs de 3,5–4 µm, et portent des boucles rares ou peu visibles. Les cheilocystides, hyalines et à paroi mince, sont clavées, lagéniformes ou fusiformes, de 27–40 × 8–15 µm ; les pleurocystides sont absentes.",
+      "stipe": "Le pied élancé et cylindrique mesure 7–16 cm de hauteur (parfois jusqu'à 18 cm) pour 0,6–1,5 cm d'épaisseur, s'amincissant légèrement vers le sommet et s'élargissant à la base en un bulbe modeste atteignant 2,2 cm de large. Fibreux et tenace, d'abord plein puis creux, facilement détachable du chapeau, il est crème pâle à blanchâtre au-dessus de l'anneau et recouvert en dessous de fines écailles ou mouchetures serrées brun jaunâtre pâle à chamois ocracé. Un anneau membraneux et coulissant, à bord simple à double — blanchâtre dessus et brun pâle sur la marge et le dessous — entoure la partie supérieure du pied.",
+      "flesh": "La chair est blanche et tendre ou cotonneuse dans le chapeau, plus tenace et fibreuse dans le pied. Contrairement aux espèces rougissantes voisines, elle ne rougit pas à la coupe ni au froissement, bien qu'elle puisse lentement brunir légèrement avec l'âge ou la manipulation. L'odeur est faible, légèrement fongique ou rappelant le beurre fondu, et la saveur est douce et agréablement noisettée.",
+      "sporePrint": "La sporée est blanche à crème pâle. Les spores sont lisses, hyalines, ellipsoïdes à légèrement amygdaliformes, de 12–16 × 8–9,5 µm (parfois jusqu'à 18–19 × 10–10,5 µm), dextrinoïdes (se colorant en brun rougeâtre dans le réactif de Melzer) et métachromatiques, munies d'un pore germinatif recouvert d'un capuchon transparent lenticulaire.",
+      "habitat": "Saprotrophe sur sols calcaires secs, pauvres à moyennement riches en éléments nutritifs, poussant isolément ou en petits groupes dans les clairières, les lisières herbeuses de forêts de feuillus et de conifères, les hêtraies et chênaies-charmaies lumineuses, les landes à genévriers, les prairies, les parcs et les dunes côtières enrichies en débris coquilliers. Les sporophores apparaissent principalement de juillet à novembre dans la majeure partie de l'Europe, dès le mois de mai dans les régions plus chaudes et plus tard en automne dans le sud.",
+      "uses": "Bon champignon comestible à la saveur douce de noisette, comparable à celle de la coulemelle (Macrolepiota procera), quoique moins charnu. Seuls les chapeaux tendres sont consommés, les pieds étant coriaces et fibreux. Il doit être bien cuit avant consommation et ne doit pas être mangé cru ; étant peu commun ou en déclin local dans plusieurs régions d'Europe, la modération lors de la cueillette est recommandée.",
+      "confusion": "La coulemelle (Macrolepiota procera) est nettement plus grande et présente sur le pied de nettes zébrures brun foncé en peau de serpent plutôt qu'un fin mouchetage pâle. Macrolepiota konradii, espèce proche parfois traitée comme variété, s'en distingue par des écailles piléiques plus grandes, plus espacées et disposées en étoile. La lépiote déguenillée (Chlorophyllum rhacodes), Chlorophyllum olivieri et le toxique Chlorophyllum brunneum ont des écailles plus grossières et retroussées sur le chapeau, un pied lisse sans chinures et une chair virant au rouge orangé ou rouge safran à la coupe. Le toxique Chlorophyllum molybdites produit une sporée verdâtre et des lames teintées de vert à maturité. De petites espèces potentiellement mortelles du genre Lepiota, comme la lépiote brun incarnat (Lepiota brunneoincarnata) et la lépiote crêtée (Lepiota cristata), restent généralement bien en dessous de 10 cm de diamètre, possèdent un anneau fragile non coulissant et sont dépourvues de mamelon proéminent.",
+      "notes": "Les limites taxonomiques autour de Macrolepiota mastoidea restent activement débattues : plusieurs formes européennes élancées ou écailleuses — dont Macrolepiota rickenii, Macrolepiota gracilenta et Macrolepiota konradii — sont considérées comme des synonymes ou des variétés par certains auteurs et comme des espèces distinctes par d'autres. Bien que non évaluée à l'échelle mondiale, l'espèce est rare et inscrite comme vulnérable (Vulnerable) sur les listes rouges nationales dans certaines parties du nord-ouest de l'Europe, notamment aux Pays-Bas. Lors des tests microchimiques, la chair donne une réaction rouge pourpre virant au brun avec la phénolaniline et brune avec le lactophénol, tout en restant négative avec l'aniline et l'alpha-naphtol."
+    },
+    "he": {
+      "description": "פטריית מטרייה סאפרוטרופית בינונית עד גדולה המניבה גופי פרי יחידים או בקבוצות קטנות ברחבי אירופה, כולל בריטניה ואירלנד, ומתפשטת לאסיה הממוזגת, סין, אמריקה הצפונית והדרומית ואפריקה הטרופית. היא מעדיפה קרקעות יבשות, פתוחות וגירניות בקרחות יער, בשולי יער עשבניים, באחו ובדיונות חול חופיות.",
+      "cap": "קוטר הכובע 6–15 ס\"מ (לרוב 8–12 ס\"מ). בתחילה הוא ביצני עד פעמוני בעל שוליים כפופים פנימה, ולאחר מכן נפרש לחרוטי רחב ולבסוף שטוח תוך שמירה על פיטם מרכזי בולט, מעוגל-מחודד דמוי פטמה. פני השטח הלבנבנים עד קרם-אוכרה חיוור מתבקעים לקשקשים עדינים, צמודים עד סיביים בצבע חום-אוכרה, חום-אגוז או חום-אדמדם, הצפופים והכהים ביותר על הפיטם השלם, בניגודיות נמוכה מול הרקע הבהיר.",
+      "hymenium": "דפים רחבים, צפופים וחופשיים, לבנים עד קרם חיוור — לעיתים מפוצלים ולעיתים בעלי גוון קרם-ורדרד או חום קלוש לאורך השפה עם הגיל — מסתיימים בקולר טבעתי ברור הרחק מהרגל. הבסידיות אלתיות, ארבע-נבגיות, בגודל 35–40 × 8–10 מיקרומטר עם סטריגמות באורך 3.5–4 מיקרומטר, ונושאות קשרי מהדק דלילים או בלתי בולטים. הכיילוציסטידות דקות-דופן ושקופות, אלתיות, דמויות בקבוק או כישוריות, בגודל 27–40 × 8–15 מיקרומטר; פלאורוציסטידות נעדרות.",
+      "stipe": "הרגל הגלילית הדקה בגובה 7–16 ס\"מ (לעיתים עד 18 ס\"מ) ובעובי 0.6–1.5 ס\"מ, הולכת וצרה מעט כלפי הקודקוד ומתרחבת בבסיסה לפקעת מתונה ברוחב של עד 2.2 ס\"מ. היא סיבית וקשיחה, מלאה בתחילה ולאחר מכן נעשית חלולה, ניתקת בקלות מהכובע, בצבע קרם חיוור עד לבנבן מעל הטבעת ומכוסה מתחתיה בקשקשים עדינים וצפופים או מנוקדים בצבע חום-צהבהב חיוור עד אוכרה-בז'. טבעת קרומית וניידת בעלת שפה פשוטה עד כפולה — לבנבנה מלמעלה וחום חיוור בשוליים ובצד התחתון — מקיפה את חלקה העליון של הרגל.",
+      "flesh": "הבשר לבן ורך או צמרירי בכובע, וקשיח וסיבי יותר ברגל. בניגוד למיני מטרייה דומים המאדימים, הבשר אינו מאדים בחיתוך או בחבלה, אם כי הוא עשוי להשחים באיטיות קלות עם הגיל או הטיפול. הריח עדין ופטרייתי קלוש או מזכיר חמאה מומסת, והטעם עדין ואגוזי נעים.",
+      "sporePrint": "הדפס הנבגים לבן עד קרם חיוור. הנבגים חלקים, שקופים, אליפסואידיים עד דמויי שקד קלות, בגודל 12–16 × 8–9.5 מיקרומטר (לעיתים עד 18–19 × 10–10.5 מיקרומטר), דקסטרינואידיים (נצבעים בחום-אדמדם בריאגנט מלצר) ומטאכרומטיים, בעלי נקב נביטה המכוסה בכיפה שקופה דמוית עדשה.",
+      "habitat": "סאפרוטרופית על קרקעות גירניות יבשות, דלות עד עשירות במידה בינונית בחומרי הזנה, וגדלה פזורה או בקבוצות קטנות בקרחות יער, בשולי יערות נשירים ומחטניים עשבניים, ביערות אשור ויערות אלון-קרפינוס שטופי שמש, בבתות ערער, באחו, בפארקים ובדיונות חול חופיות עשירות בצדפים. גופי הפרי מופיעים בעיקר מיולי עד נובמבר ברוב אירופה, החל ממאי באזורים חמים יותר ועד מאוחר יותר בסתיו בדרום.",
+      "uses": "פטריית מאכל טובה בעלת טעם עדין ואגוזי הדומה לזה של Macrolepiota procera, אם כי פחות בשרנית ממנה. בבישול משתמשים בכובעים הרכים בלבד, שכן הרגליים קשיחות וסיביות. יש לבשלה היטב לפני האכילה ולא לצרוך אותה נאה, ומאחר שהיא אינה שכיחה או נמצאת בירידה מקומית בכמה אזורים באירופה, מומלץ לנהוג באיפוק בליקוטה.",
+      "confusion": "Macrolepiota procera גדול משמעותית ובעל פסי זיגזג כהים ובולטים בצבע חום כהה דמויי עור נחש על הרגל, במקום ניקוד בהיר ועדין. Macrolepiota konradii קרוב אליו מאוד ולעיתים נחשב לזן שלו, אך נבדל ממנו בקשקשי כובע גדולים, דלילים יותר ודמויי כוכב. ל-Chlorophyllum rhacodes, ל-Chlorophyllum olivieri ולמין הרעיל Chlorophyllum brunneum יש קשקשי כובע גסים יותר ומופנים כלפי חוץ, רגליים חלקות ללא דגם, ובשר המאדים לכתום-אדום או אדום-זעפרן בחיתוך. המין הרעיל Chlorophyllum molybdites יוצר הדפס נבגים ירקרק ודפים בוגרים בעלי גוון ירקרק. מינים קטנים וקטלניים בפוטנציה של Lepiota, כגון Lepiota brunneoincarnata ו-Lepiota cristata, נשארים לרוב הרבה מתחת לקוטר של 10 ס\"מ, בעלי טבעות שבירות שאינן ניידות, וחסרים את הפיטם המרכזי הבולט דמוי הפטמה.",
+      "notes": "הגבולות הטקסונומיים סביב Macrolepiota mastoidea נותרים נושא לדיון פעיל: כמה צורות אירופיות דקות או קשקשיות — בהן Macrolepiota rickenii, Macrolepiota gracilenta ו-Macrolepiota konradii — נחשבות למילים נרדפות או לזנים בידי חוקרים אחדים ולמינים נפרדים בידי אחרים. אף שלא הוערך ברמה העולמית, המין נדיר ומוגדר פגיע (Vulnerable) ברשימות אדומות לאומיות בחלקים מצפון-מערב אירופה, כולל הולנד. בבדיקות מיקרוכימיות הבשר נותן תגובה אדומה-סגולה ההופכת לחומה עם פנול-אנילין וחום עם לקטופנול, בעודו נשאר שלילי עם אנילין ועם אלפא-נפתול."
+    },
+    "hi": {
+      "description": "एक मध्यम से बड़े आकार का मृतोपजीवी छत्रक मशरूम है जो यूरोप (ब्रिटेन और आयरलैंड सहित) में अकेले या छोटे समूहों में फलता है और समशीतोष्ण एशिया, चीन, उत्तरी व दक्षिणी अमेरिका तथा उष्णकटिबंधीय अफ्रीका तक फैला हुआ है। यह जंगल के खुले स्थानों, घास वाले वन किनारों, चरागाहों और तटीय रेत के टीलों में शुष्क, खुली और चूनायुक्त मिट्टी को पसंद करता है।",
+      "cap": "टोपी का व्यास 6–15 सेमी होता है (अधिकांशतः 8–12 सेमी)। प्रारंभ में यह अंदर मुड़े किनारे के साथ अंडाकार से घंटी के आकार की होती है, फिर चौड़े शंक्वाकार और अंततः समतल रूप में फैल जाती है, जबकि केंद्र में एक प्रमुख, गोल-नुकीला निप्पल जैसा उभार (अंबो) बना रहता है। सफ़ेद से हल्की क्रीम-गेरुआ सतह महीन, चिपके हुए से रेशेदार गेरुआ-भूरे, हेज़लनट-भूरे या लाल-भूरे शल्कों में टूट जाती है, जो अखंड उभार पर सबसे घने और गहरे होते हैं तथा हल्की पृष्ठभूमि के साथ कम विपरीतता दिखाते हैं।",
+      "hymenium": "चौड़े, घने, मुक्त सफ़ेद से हल्के क्रीम रंग के गिल्स—जो कभी-कभी द्विशाखित होते हैं और उम्र के साथ किनारे पर गुलाबी-क्रीम या हल्के भूरे रंग की आभा ले सकते हैं—डंठल से काफी दूर एक स्पष्ट वलय-सदृश कॉलर पर समाप्त होते हैं। बेसिडिया मुगदराकार, चार-बीजाणु वाले, 35–40 × 8–10 µm आकार के होते हैं जिनमें 3.5–4 µm लंबे स्टेरिग्मेटा होते हैं, और इनमें विरल या अस्पष्ट क्लैंप कनेक्शन पाए जाते हैं। पतली भित्ति वाले, पारदर्शी काइलोसिस्टिडिया मुगदराकार, सुराहीनुमा या तर्कु-आकार के, 27–40 × 8–15 µm होते हैं; प्ल्यूरोसिस्टिडिया अनुपस्थित रहते हैं।",
+      "stipe": "पतला बेलनाकार डंठल 7–16 सेमी ऊँचा (कभी-कभी 18 सेमी तक) और 0.6–1.5 सेमी मोटा होता है, जो शीर्ष की ओर हल्का संकरा होता है और आधार पर फूलकर 2.2 सेमी तक चौड़ा एक मध्यम कंद बनाता है। रेशेदार और सख्त होने के साथ यह शुरू में ठोस रहता है और बाद में खोखला हो जाता है, टोपी से आसानी से अलग हो जाता है, छल्ले के ऊपर हल्का क्रीम से सफ़ेद होता है तथा नीचे हल्के पीले-भूरे से गेरुआ-बफ़ रंग के महीन, पास-पास सटे शल्कों या चित्तियों से ढका रहता है। ऊपरी डंठल को एक झिल्लीदार, चल छल्ला घेरे रहता है जिसका किनारा एकल से दोहरा होता है—ऊपर सफ़ेद और किनारे व निचली सतह पर हल्का भूरा।",
+      "flesh": "गूदा टोपी में सफ़ेद और नरम या रुई जैसा, तथा डंठल में अधिक सख्त और रेशेदार होता है। लाल होने वाले मिलते-जुलते छत्रक मशरूमों के विपरीत, काटने या चोट लगने पर गूदा लाल नहीं होता, हालांकि उम्र या छूने के साथ यह धीरे-धीरे हल्का भूरा हो सकता है। गंध हल्की और मंद मशरूम जैसी या पिघले मक्खन की याद दिलाने वाली होती है, और स्वाद हल्का व सुखद मेवे जैसा होता है।",
+      "sporePrint": "बीजाणु छाप सफ़ेद से हल्के क्रीम रंग की होती है। बीजाणु चिकने, पारदर्शी, दीर्घवृत्ताकार से हल्के बादाम के आकार के, 12–16 × 8–9.5 µm (कभी-कभी 18–19 × 10–10.5 µm तक), डेक्सट्रिनॉइड (मेलज़र अभिकर्मक में लाल-भूरा रंग लेने वाले) और मेटाक्रोमैटिक होते हैं, जिनमें एक पारदर्शी लेंस-सदृश आवरण से ढका अंकुरण छिद्र होता है।",
+      "habitat": "शुष्क, पोषक-तत्वों में कम से मध्यम रूप से समृद्ध चूनायुक्त मिट्टी पर मृतोपजीवी, जो जंगल के खुले स्थानों, पर्णपाती और शंकुधारी वनों के घास वाले किनारों, धूपदार बीच तथा ओक-हॉर्नबीम वनों, जुनिपर झाड़ियों, चरागाहों, पार्कों और सीप-समृद्ध तटीय रेत के टीलों में बिखरे हुए या छोटे समूहों में फलता है। फलनकाय अधिकांश यूरोप में मुख्यतः जुलाई से नवंबर तक दिखाई देते हैं, जबकि गर्म क्षेत्रों में मई से ही शुरू होकर दक्षिण में शरद ऋतु के उत्तरार्ध तक बने रहते हैं।",
+      "uses": "हल्के, मेवे जैसे स्वाद वाला एक अच्छा खाद्य मशरूम है, जो Macrolepiota procera के तुलनीय है हालांकि कम गूदेदार होता है। खाना पकाने में केवल कोमल टोपियों का ही उपयोग किया जाता है, क्योंकि डंठल सख्त और रेशेदार होते हैं। इसे कच्चा खाने के बजाय अच्छी तरह पकाकर ही खाना चाहिए, और चूँकि यह कई यूरोपीय क्षेत्रों में दुर्लभ या स्थानीय रूप से घट रहा है, इसलिए इसके संग्रहण में संयम बरतने की सलाह दी जाती है।",
+      "confusion": "Macrolepiota procera काफी बड़ा होता है और इसके डंठल पर महीन हल्की चित्तियों के बजाय गहरे भूरे रंग की स्पष्ट साँप की खाल जैसी टेढ़ी-मेढ़ी धारियाँ होती हैं। Macrolepiota konradii इसका निकट संबंधी है और कभी-कभी इसे एक किस्म माना जाता है, जो अपनी टोपी के बड़े, विरल और तारे जैसे शल्कों से भिन्न होता है। Chlorophyllum rhacodes, Chlorophyllum olivieri और विषाक्त Chlorophyllum brunneum में मोटे, बाहर की ओर मुड़े टोपी के शल्क, चिकने बिना पैटर्न वाले डंठल और ऐसा गूदा होता है जो काटने पर नारंगी-लाल या केसरिया-लाल हो जाता है। विषाक्त Chlorophyllum molybdites हरे रंग की बीजाणु छाप और परिपक्व होने पर हरी आभा वाले गिल्स उत्पन्न करता है। Lepiota की छोटी, संभावित रूप से घातक प्रजातियाँ जैसे Lepiota brunneoincarnata और Lepiota cristata सामान्यतः 10 सेमी से काफी कम चौड़ी रहती हैं, इनमें नाज़ुक अचल छल्ले होते हैं और प्रमुख निप्पल जैसा उभार नहीं होता।",
+      "notes": "Macrolepiota mastoidea के आसपास की वर्गीकरण सीमाओं पर अब भी सक्रिय बहस जारी है: कई पतले या शल्कीय यूरोपीय रूप—जिनमें Macrolepiota rickenii, Macrolepiota gracilenta और Macrolepiota konradii शामिल हैं—कुछ विशेषज्ञों द्वारा पर्यायवाची या किस्मों के रूप में और अन्य द्वारा अलग प्रजातियों के रूप में माने जाते हैं। हालांकि वैश्विक स्तर पर इसका मूल्यांकन नहीं हुआ है, यह प्रजाति दुर्लभ है और नीदरलैंड सहित उत्तर-पश्चिमी यूरोप के कुछ हिस्सों की राष्ट्रीय लाल सूचियों में सुभेद्य (Vulnerable) श्रेणी में सूचीबद्ध है। सूक्ष्म-रासायनिक परीक्षणों में गूदा फ़ीनॉलएनिलीन के साथ बैंगनी-लाल होकर भूरा होने वाली प्रतिक्रिया और लैक्टोफ़ीनॉल के साथ भूरा रंग देता है, जबकि एनिलीन और अल्फा-नैफ्थॉल के साथ नकारात्मक रहता है।"
+    },
+    "hr": {
+      "description": "Srednje velika do velika saprotrofna gljiva koja plodonosi pojedinačno ili u manjim skupinama diljem Europe, uključujući Britaniju i Irsku, a proteže se i u umjerena područja Azije, Kinu, Sjevernu i Južnu Ameriku te tropsku Afriku. Preferira suha, otvorena vapnenačka tla na šumskim čistinama, travnatim rubovima šuma, livadama i obalnim pješčanim dinama.",
+      "cap": "Klobuk je širok 6–15 cm (najčešće 8–12 cm). Isprva je jajolik do zvonolik s podvijenim rubom, zatim se širi u široko stožast i na kraju ravan oblik, zadržavajući istaknutu, zaobljeno-zašiljenu središnju bradavicu. Bjelkasta do blijedo krem-oker površina puca u sitne, priljubljene do vlaknaste oker-smeđe, lješnjakovo-smeđe ili crvenkasto-smeđe ljuske koje su najgušće i najtamnije na cjelovitoj grbici te slabo kontrastiraju sa svijetlom podlogom.",
+      "hymenium": "Listići su široki, gusti, slobodni, bijeli do blijedo kremasti, povremeno račvasti i s vremenom ponekad ružičasto-kremasti ili blago smećkasti po oštrici; prema stručku završavaju u jasnom prstenastom ovratniku. Bazidiji su batinasti, četverosporni, 35–40 × 8–10 µm, sa sterigmama dugim 3,5–4 µm, s rijetkim ili neupadljivim kopčama. Tankostijene, hijaline heilocistide su batinaste, bočaste ili vretenaste, 27–40 × 8–15 µm; pleurocistide nedostaju.",
+      "stipe": "Stručak je vitak, valjkast, visok 7–16 cm (povremeno do 18 cm) i debeo 0,6–1,5 cm, blago se sužava prema vrhu, a pri dnu se širi u umjereno gomoljasto zadebljanje široko do 2,2 cm. Vlaknast je i žilav, isprva pun, a zatim šupalj, lako se odvaja od klobuka; iznad vjenčića blijedo kremast do bjelkast, a ispod pokriven sitnim, gusto raspoređenim blijedo žućkasto-smeđim do oker-smećkastim ljuskicama ili pjegicama. Na gornjem dijelu stručka nalazi se kožast, pomičan vjenčić jednostrukog do dvostrukog ruba, bjelkast s gornje strane te blijedo smeđ po rubu i s donje strane.",
+      "flesh": "Meso je bijelo, mekano ili vateno u klobuku, a tvrđe i vlaknasto u stručku. Za razliku od sličnih vrsta koje crvene, meso ne crveni na prerezu ni na dodir, iako s vremenom ili pri rukovanju može polako blago posmeđiti. Miris je blag, lagano gljivast ili podsjeća na otopljeni maslac, a okus je blag i ugodno orašast.",
+      "sporePrint": "Otisak spora je bijel do blijedo kremast. Spore su glatke, hijaline, elipsoidne do blago bademaste, 12–16 × 8–9,5 µm (povremeno do 18–19 × 10–10,5 µm), dekstrinoidne (boje se crvenkasto-smeđe u Melzerovu reagensu) i metakromatične, s klijavom porom prekrivenom prozirnom lećastom kapicom.",
+      "habitat": "Saprotrofna vrsta na suhim, hranjivima siromašnim do umjereno bogatim vapnenačkim tlima; raste raštrkano ili u manjim skupinama na šumskim čistinama, travnatim rubovima bjelogoričnih i crnogoričnih šuma, u osunčanim bukovim i hrastovo-grabovim šumama, na borovičnim vrištinama, livadama, u parkovima i na obalnim pješčanim dinama bogatim školjkama. Plodna tijela u većem dijelu Europe pojavljuju se uglavnom od srpnja do studenoga, u toplijim krajevima već od svibnja, a na jugu sve do kasne jeseni.",
+      "uses": "Dobra jestiva gljiva blagog orašastog okusa usporedivog s vrstom Macrolepiota procera, premda manje mesnata. Za jelo se koriste samo nježni klobuci jer su stručci tvrdi i vlaknasti. Prije jela treba je temeljito termički obraditi i ne konzumirati sirovu, a budući da je u pojedinim europskim regijama rijetka ili lokalno u opadanju, preporučuje se umjerenost pri branju.",
+      "confusion": "Macrolepiota procera znatno je veća i na stručku ima izražene tamnosmeđe zmijolike cik-cak šare umjesto sitne blijede pjegavosti. Macrolepiota konradii blisko je srodna i ponekad se tretira kao varijetet, a razlikuje se po krupnijim i rjeđim zvjezdastim ljuskama na klobuku. Chlorophyllum rhacodes, Chlorophyllum olivieri i otrovni Chlorophyllum brunneum imaju krupnije, nakostriješene ljuske na klobuku, glatke nešarane stručke i meso koje na prerezu postaje narančasto-crveno ili šafranasto-crveno. Otrovni Chlorophyllum molybdites daje zelenkasti otisak spora i ima zelenkasto obojene zrele listiće. Sitne, potencijalno smrtno otrovne vrste roda Lepiota poput Lepiota brunneoincarnata i Lepiota cristata obično ostaju znatno ispod 10 cm u promjeru, imaju krhke nepomične vjenčiće i nemaju istaknutu središnju bradavicu.",
+      "notes": "Taksonomske granice oko vrste Macrolepiota mastoidea i dalje su predmet rasprava: nekoliko vitkih ili ljuskavih europskih oblika, uključujući Macrolepiota rickenii, Macrolepiota gracilenta i Macrolepiota konradii, jedni autori smatraju sinonimima ili varijetetima, a drugi zasebnim vrstama. Iako globalno nije procijenjena, vrsta je rijetka i uvrštena kao osjetljiva (Vulnerable) na nacionalne crvene popise u dijelovima sjeverozapadne Europe, uključujući Nizozemsku. U mikrokemijskim ispitivanjima meso s fenolanilinom daje purpurnocrvenu reakciju koja prelazi u smeđu, a s laktofenolom smeđu, dok s anilinom i alfa-naftolom ostaje negativno."
+    },
+    "hu": {
+      "description": "Közepes vagy nagy termetű szaprotróf gombafaj, amely magányosan vagy kisebb csoportokban terem Európa-szerte, beleértve Nagy-Britanniát és Írországot is, emellett előfordul Ázsia mérsékelt égövi részein, Kínában, Észak- és Dél-Amerikában, valamint a trópusi Afrikában. A száraz, nyílt, meszes talajokat kedveli erdei tisztásokon, füves erdőszéleken, réteken és tengerparti homokdűnéken.",
+      "cap": "A kalap 6–15 cm átmérőjű (leggyakrabban 8–12 cm). Kezdetben tojásdad vagy harang alakú, behajló peremmel, később szélesen kúposra, végül laposra kiterül, miközben középen markáns, lekerekített csúcsú, bimbószerű púpot őriz meg. A fehéres vagy halvány krémokker felszín finom, rásimuló vagy szálas okkerbarna, mogyoróbarna vagy vörösesbarna pikkelyekre szakadozik, amelyek a sértetlen púp felett a legsűrűbbek és legsötétebbek, a világos alapszíntől pedig alacsony kontraszttal különülnek el.",
+      "hymenium": "A széles, sűrűn álló, szabadon álló, fehér vagy halvány krémszínű lemezek – amelyek néha villásan elágazók, és idősödve az élük mentén olykor rózsás-krémes vagy halványbarnás árnyalatúak – a tönktől jól elkülönülő, gyűrűszerű gallérban (kolláriumban) végződnek. A bazídiumok bunkó alakúak, négyspórásak, 35–40 × 8–10 µm méretűek, 3,5–4 µm hosszú szterigmákkal, valamint ritka vagy jelentéktelen csatokkal. A vékony falú, színtelen keilocisztídiumok bunkó, palack vagy orsó alakúak, 27–40 × 8–15 µm méretűek; pleurocisztídiumok nincsenek.",
+      "stipe": "A karcsú, hengeres tönk 7–16 cm magas (ritkán 18 cm-ig) és 0,6–1,5 cm vastag, a csúcsa felé kissé elkeskenyedik, a tövénél pedig szerény, legfeljebb 2,2 cm széles gumóvá duzzad. Szálas és szívós, eleinte tömör, később üreges, könnyen kifordítható a kalapból; a gallér felett halvány krémszínű vagy fehéres, alatta pedig finom, sűrűn elhelyezkedő halvány sárgásbarna vagy okkerbarnás pikkelykék, apró pöttyök borítják. A tönk felső részét hártyás, eltolható, egyszerű vagy kettős peremű gallér övezi, amely felül fehéres, a szélén és az alsó oldalán pedig halványbarna.",
+      "flesh": "A hús a kalapban fehér és puha vagy vattás, a tönkben szívósabb és szálas. A vörösödő hasonló fajokkal ellentétben vágásra vagy nyomásra nem vörösödik, bár idősödve vagy fogdosásra lassan halványbarnás árnyalatot ölthet. Szaga enyhe, gyengén gombás vagy olvasztott vajra emlékeztető, íze enyhe és kellemesen diószerű.",
+      "sporePrint": "A spórapor fehér vagy halvány krémszínű. A spórák simák, színtelenek, ellipszoidok vagy enyhén mandula alakúak, 12–16 × 8–9,5 µm (ritkán 18–19 × 10–10,5 µm) méretűek, dextrinoidok (Melzer-reagensben vörösesbarnán festődnek) és metakromatikusak, csírapórusukat átlátszó, lencse alakú sapka fedi.",
+      "habitat": "Szaprotróf faj száraz, tápanyagszegény vagy mérsékelten tápanyagban gazdag meszes talajokon; szórtan vagy kisebb csoportokban terem erdei tisztásokon, füves lomb- és fenyőerdőszéleken, napfényes bükkösökben és gyertyános-tölgyesekben, borókásokban, réteken, parkokban és kagylóhéjban gazdag tengerparti homokdűnéken. Termőtestei Európa nagy részén főként júliustól novemberig jelennek meg, melegebb vidékeken már májustól, délen pedig később őszig is.",
+      "uses": "Jó ehető gomba, amelynek enyhe, diós íze a Macrolepiota procera fajéhoz fogható, bár annál kevésbé húsos. Konyhai felhasználásra csak a zsenge kalapok alkalmasak, mivel a tönkök szívósak és szálasak. Fogyasztás előtt alaposan meg kell főzni vagy sütni, nyersen nem fogyasztható, és mivel több európai térségben ritka vagy helyenként visszaszorulóban van, gyűjtésekor mértékletesség ajánlott.",
+      "confusion": "A Macrolepiota procera lényegesen nagyobb termetű, és a tönkjén finom, halvány pettyezettség helyett erőteljes, sötétbarna kígyóbőrszerű, cikkcakkos mintázat látható. A Macrolepiota konradii közeli rokon, amelyet olykor változatként kezelnek, és nagyobb, ritkásabb, csillagszerű kalappikkelyei alapján tér el. A Chlorophyllum rhacodes, a Chlorophyllum olivieri és a mérgező Chlorophyllum brunneum durvább, elálló kalappikkelyekkel, sima, mintázat nélküli tönkkel, valamint vágásra narancsvörösre vagy sáfrányvörösre színeződő hússal rendelkezik. A mérgező Chlorophyllum molybdites zöldes spóraport ad, érett lemezei pedig zöldes árnyalatúak. A Lepiota nemzetség kis termetű, potenciálisan halálosan mérgező fajai – például a Lepiota brunneoincarnata és a Lepiota cristata – általában jóval 10 cm alatti kalapátmérőjűek, gallérjuk törékeny és nem eltolható, továbbá hiányzik róluk a markáns, bimbószerű púp.",
+      "notes": "A Macrolepiota mastoidea taxonómiai határai körül máig élénk vita folyik: számos karcsú vagy pikkelyes európai alakot – köztük a Macrolepiota rickenii, a Macrolepiota gracilenta és a Macrolepiota konradii fajokat – egyes szerzők szinonimaként vagy változatként, mások önálló fajként kezelnek. Bár globális értékelése nincs, a faj ritka, és Északnyugat-Európa egyes részein, köztük Hollandiában a nemzeti vörös listákon sebezhető (Vulnerable) kategóriába sorolják. Mikrokémiai vizsgálatokban a hús fenolanilinnal barnába forduló bíborvörös, laktofenollal barna reakciót ad, míg anilinnal és alfa-naftollal negatív marad."
+    },
+    "id": {
+      "description": "Jamur payung saprotrof berukuran sedang hingga besar yang berbuah soliter atau dalam kelompok kecil di seluruh Eropa, termasuk Inggris dan Irlandia, serta meluas ke Asia beriklim sedang, Tiongkok, Amerika Utara dan Selatan, serta Afrika tropis. Jamur ini menyukai tanah berkapur yang kering dan terbuka di lahan terbuka hutan, tepi hutan berumput, padang rumput, dan gumuk pasir pesisir.",
+      "cap": "Tudung berdiameter 6–15 cm (paling umum 8–12 cm). Awalnya berbentuk bulat telur hingga lonceng dengan tepi melengkung ke dalam, kemudian melebar menjadi kerucut lebar dan akhirnya datar sambil mempertahankan umbo tengah yang menonjol, membulat-meruncing menyerupai puting. Permukaannya yang keputihan hingga krem-oker pucat pecah menjadi sisik-sisik halus yang menempel hingga berserat berwarna cokelat oker, cokelat kemiri, atau cokelat kemerahan, paling padat dan paling gelap di atas umbo yang utuh, dengan kontras rendah terhadap warna dasar yang pucat.",
+      "hymenium": "Lamela lebar, rapat, bebas, berwarna putih hingga krem pucat—sesekali bercabang dan terkadang bersemburat krem merah muda atau kecokelatan samar di sepanjang tepinya seiring bertambahnya usia—berakhir pada kerah menyerupai cincin yang jelas jauh dari tangkai. Basidium berbentuk gada, berspora empat, berukuran 35–40 × 8–10 µm dengan sterigmata sepanjang 3,5–4 µm, serta memiliki sambungan jepit yang jarang atau tidak mencolok. Keilosistidia berdinding tipis dan hialin, berbentuk gada, seperti botol, atau gelendong, berukuran 27–40 × 8–15 µm; pleurosistidia tidak ada.",
+      "stipe": "Tangkai silindris yang ramping berukuran tinggi 7–16 cm (sesekali hingga 18 cm) dan tebal 0,6–1,5 cm, sedikit mengecil ke arah puncak dan membesar di pangkal membentuk umbi sederhana selebar hingga 2,2 cm. Berserat dan liat, awalnya padat sebelum menjadi berongga, mudah dilepaskan dari tudung, berwarna krem pucat hingga keputihan di atas cincin dan di bawahnya ditutupi sisik atau bintik-bintik halus yang rapat berwarna cokelat kekuningan pucat hingga oker kecokelatan. Sebuah cincin bermembran yang dapat digeser dengan tepi tunggal hingga ganda—keputihan di bagian atas dan cokelat pucat di tepi serta sisi bawahnya—melingkari bagian atas tangkai.",
+      "flesh": "Daging berwarna putih dan lunak atau seperti kapas di bagian tudung, lebih liat dan berserat di bagian tangkai. Tidak seperti jamur payung mirip yang memerah, dagingnya tidak memerah saat dipotong atau memar, meskipun dapat perlahan berubah agak kecokelatan seiring usia atau sentuhan. Baunya lembut dan samar beraroma jamur atau mengingatkan pada mentega cair, sedangkan rasanya lembut dan gurih seperti kacang.",
+      "sporePrint": "Jejak spora berwarna putih hingga krem pucat. Spora halus, hialin, elipsoid hingga sedikit berbentuk seperti almon, berukuran 12–16 × 8–9,5 µm (sesekali hingga 18–19 × 10–10,5 µm), dekstrinoid (berwarna cokelat kemerahan dalam reagen Melzer) dan metakromatik, dengan pori kecambah yang ditutupi tudung transparan berbentuk lensa.",
+      "habitat": "Saprotrof pada tanah berkapur yang kering, miskin hingga cukup kaya hara, berbuah tersebar atau dalam kelompok kecil di lahan terbuka hutan, tepi hutan berdaun lebar dan konifer yang berumput, hutan beech dan ek-hornbeam yang cerah, semak juniper, padang rumput, taman, dan gumuk pasir pesisir yang kaya cangkang kerang. Tubuh buah muncul terutama dari Juli hingga November di sebagian besar Eropa, dimulai sejak Mei di wilayah yang lebih hangat dan berlangsung lebih lama hingga akhir musim gugur di selatan.",
+      "uses": "Jamur yang dapat dimakan dengan baik dengan cita rasa lembut seperti kacang yang sebanding dengan Macrolepiota procera, meskipun dagingnya lebih tipis. Hanya tudungnya yang empuk yang digunakan dalam masakan, karena tangkainya liat dan berserat. Jamur ini harus dimasak hingga matang sebelum dimakan dan tidak dikonsumsi mentah, serta karena tidak umum atau mengalami penurunan secara lokal di beberapa wilayah Eropa, dianjurkan untuk bersikap bijak saat memanennya.",
+      "confusion": "Macrolepiota procera berukuran jauh lebih besar dan memiliki pola pita zig-zag cokelat tua yang mencolok menyerupai sisik ular pada tangkainya, bukan bintik-bintik pucat halus. Macrolepiota konradii berkerabat dekat dan terkadang diperlakukan sebagai varietas, berbeda karena sisik tudungnya lebih besar, lebih jarang, dan menyerupai bintang. Chlorophyllum rhacodes, Chlorophyllum olivieri, dan Chlorophyllum brunneum yang beracun memiliki sisik tudung yang lebih kasar dan mencuat, tangkai halus tanpa pola, serta daging yang berubah menjadi merah jingga atau merah safron saat dipotong. Chlorophyllum molybdites yang beracun menghasilkan jejak spora kehijauan dan lamela dewasa yang bersemburat kehijauan. Spesies kecil Lepiota yang berpotensi mematikan seperti Lepiota brunneoincarnata dan Lepiota cristata umumnya berdiameter jauh di bawah 10 cm, memiliki cincin rapuh yang tidak dapat digeser, serta tidak memiliki umbo menonjol menyerupai puting.",
+      "notes": "Batas taksonomi di sekitar Macrolepiota mastoidea masih terus diperdebatkan: beberapa bentuk Eropa yang ramping atau bersisik—termasuk Macrolepiota rickenii, Macrolepiota gracilenta, dan Macrolepiota konradii—diperlakukan sebagai sinonim atau varietas oleh sebagian ahli dan sebagai spesies terpisah oleh ahli lainnya. Meskipun belum dinilai secara global, spesies ini jarang ditemukan dan tercantum sebagai Rentan (Vulnerable) dalam daftar merah nasional di sebagian Eropa barat laut, termasuk Belanda. Dalam uji mikrokimia, daging memberikan reaksi merah keunguan yang berubah menjadi cokelat dengan fenolanilin dan cokelat dengan laktofenol, sementara tetap negatif dengan anilin dan alfa-naftol."
+    },
+    "it": {
+      "description": "Fungo saprotrofo di dimensioni medio-grandi che fruttifica isolato o in piccoli gruppi in tutta Europa, comprese Gran Bretagna e Irlanda, e si estende fino all'Asia temperata, alla Cina, all'America settentrionale e meridionale e all'Africa tropicale. Predilige suoli asciutti, aperti e calcarei in radure boschive, margini erbosi di boschi, prati e dune sabbiose costiere.",
+      "cap": "Il cappello misura 6–15 cm di diametro (più comunemente 8–12 cm). Inizialmente ovoide o campanulato con margine involuto, si espande assumendo forma ampiamente conica e infine piana, conservando al centro un umbone prominente, arrotondato-appuntito e mammellonato. La superficie da biancastra a crema-ocra pallido si dissocia in fini squame appressate o fibrose di colore bruno-ocraceo, bruno nocciola o bruno-rossastro, più fitte e scure sull'umbone intatto, con scarso contrasto rispetto al fondo chiaro.",
+      "hymenium": "Le lamelle larghe, fitte, libere, da bianche a crema pallido — occasionalmente forcate e talvolta leggermente tinte di crema-rosato o bruniccio lungo il filo con l'età — terminano in un netto collarium anulare ben distante dal gambo. I basidi sono clavati, tetrasporici, di 35–40 × 8–10 µm con sterigmi lunghi 3,5–4 µm, e presentano giunti a fibbia radi o poco evidenti. I cheilocistidi, ialini e a parete sottile, sono clavati, lageniformi o fusiformi, 27–40 × 8–15 µm; i pleurocistidi sono assenti.",
+      "stipe": "Il gambo slanciato e cilindrico è alto 7–16 cm (occasionalmente fino a 18 cm) e spesso 0,6–1,5 cm, leggermente attenuato verso l'apice e rigonfio alla base in un modesto bulbo largo fino a 2,2 cm. Fibroso e tenace, dapprima pieno e poi cavo, facilmente separabile dal cappello, è crema pallido o biancastro sopra l'anello e ricoperto al di sotto da fini squamette o punteggiature fitte di colore bruno-giallastro pallido o ocra-camoscio. Un anello membranoso e scorrevole, con margine semplice o doppio — biancastro superiormente e bruno pallido sul bordo e nella parte inferiore — circonda la porzione superiore del gambo.",
+      "flesh": "La carne è bianca e tenera o cotonosa nel cappello, più tenace e fibrosa nel gambo. A differenza delle specie affini arrossanti, non arrossa al taglio né allo sfregamento, sebbene possa imbrunire leggermente e lentamente con l'età o la manipolazione. L'odore è tenue, leggermente fungino o simile al burro fuso, e il sapore è dolce e gradevolmente nocciolato.",
+      "sporePrint": "L'impronta sporale è da bianca a crema pallido. Le spore sono lisce, ialine, da ellissoidi a leggermente amigdaliformi, 12–16 × 8–9,5 µm (occasionalmente fino a 18–19 × 10–10,5 µm), destrinoidi (si colorano di bruno-rossastro nel reagente di Melzer) e metacromatiche, con poro germinativo coperto da un cappuccio trasparente a forma di lente.",
+      "habitat": "Saprotrofo su terreni calcarei asciutti, da poveri a moderatamente ricchi di nutrienti, cresce sparso o in piccoli gruppi in radure boschive, margini erbosi di boschi di latifoglie e conifere, faggete e querceti-carpineti luminosi, brughiere a ginepro, prati, parchi e dune sabbiose costiere arricchite di frammenti di conchiglie. I carpofori compaiono soprattutto da luglio a novembre nella maggior parte d'Europa, già a partire da maggio nelle regioni più calde e protraendosi fino al tardo autunno nel sud.",
+      "uses": "Buon fungo commestibile dal sapore delicato di nocciola, paragonabile a quello della mazza di tamburo (Macrolepiota procera), sebbene meno carnoso. In cucina si utilizzano soltanto i cappelli teneri, poiché i gambi sono coriacei e fibrosi. Deve essere ben cotto prima del consumo e non mangiato crudo; poiché è poco comune o in declino locale in diverse regioni europee, si raccomanda moderazione nella raccolta.",
+      "confusion": "La mazza di tamburo (Macrolepiota procera) è nettamente più grande e presenta sul gambo evidenti zebrature bruno scuro a zig-zag simili a pelle di serpente anziché una fine punteggiatura chiara. Macrolepiota konradii, strettamente affine e talvolta considerata una varietà, si distingue per squame del cappello più grandi, più rade e disposte a stella. Chlorophyllum rhacodes, Chlorophyllum olivieri e il velenoso Chlorophyllum brunneum hanno squame del cappello più grossolane e sollevate, gambo liscio privo di ornamentazioni e carne che vira al rosso-arancio o rosso zafferano al taglio. Il velenoso Chlorophyllum molybdites produce un'impronta sporale verdastra e lamelle tinte di verde a maturità. Piccole specie potenzialmente mortali del genere Lepiota, come Lepiota brunneoincarnata e Lepiota cristata, restano generalmente ben al di sotto dei 10 cm di diametro, hanno anelli fragili e non scorrevoli e mancano del prominente umbone mammellonato.",
+      "notes": "I limiti tassonomici intorno a Macrolepiota mastoidea restano attivamente dibattuti: diverse forme europee slanciate o squamose — tra cui Macrolepiota rickenii, Macrolepiota gracilenta e Macrolepiota konradii — sono trattate come sinonimi o varietà da alcuni autori e come specie distinte da altri. Sebbene non valutata a livello globale, la specie è rara ed è inserita come vulnerabile (Vulnerable) nelle liste rosse nazionali in alcune parti dell'Europa nord-occidentale, inclusi i Paesi Bassi. Nei saggi microchimici la carne mostra una reazione rosso-porpora che vira al bruno con la fenolanilina e bruna con il lattofenolo, mentre rimane negativa con l'anilina e l'alfa-naftolo."
+    },
+    "ja": {
+      "description": "中型から大型の腐生性のカラカサタケ類で、イギリスやアイルランドを含むヨーロッパ全域に単生または小群生し、温帯アジア、中国、南北アメリカ、熱帯アフリカにも分布します。森林の開けた場所、草地の林縁、牧草地、海岸砂丘などの乾燥した開けた石灰質土壌を好みます。",
+      "cap": "傘の径は6–15 cm（最も一般的には8–12 cm）です。幼菌時は縁が内側に巻いた卵形から釣鐘形ですが、次第に広い円錐形となり、最終的には平らに開きますが、中央には目立つ丸みを帯びた先端の乳頭状突起が残ります。帯白色から淡いクリーム黄土色の表面は、細かく伏生から繊維状の黄土褐色、ヘーゼルナッツ褐色、または赤褐色の鱗片に裂け、鱗片は裂けずに残る中央突起上で最も密かつ濃色になりますが、淡い地色との対比は弱めです。",
+      "hymenium": "ひだは幅広く密で離生し、白色から淡いクリーム色で、ときに分岐し、老成すると縁に沿って淡い桃クリーム色やわずかな褐色を帯びることがあり、柄から十分に離れた明瞭な環状の襟状部で終わります。担子器はこん棒形で4胞子性、35–40 × 8–10 µm、小柄の長さは3.5–4 µmで、クランプはまばらまたは目立ちません。縁シスチジアは薄壁で無色、こん棒形、徳利形、または紡錘形で27–40 × 8–15 µmです。側シスチジアはありません。",
+      "stipe": "細長い円筒形の柄は高さ7–16 cm（ときに18 cmまで）、太さ0.6–1.5 cmで、頂部に向かってわずかに細くなり、基部は幅2.2 cmまでの控えめな球根状に膨らみます。繊維質で強靭であり、初め中実で後に中空となり、傘から容易に外れます。つばより上は淡いクリーム色から帯白色で、つばより下は細かく密に並んだ淡い黄褐色から黄土淡褐色の鱗片または細点に覆われます。柄の上部には、上面が帯白色で縁と下面が淡褐色の、単縁から二重縁をもつ膜質で可動性のつばが付きます。",
+      "flesh": "肉は傘では白色で柔らかく綿状ですが、柄ではより硬く繊維質です。赤変する類似のカラカサタケ類とは異なり、傷つけたり切断したりしても赤変しませんが、老成や接触によってゆっくりとわずかに褐色を帯びることがあります。匂いは穏やかでかすかなキノコ臭または溶かしバターを思わせる香りがあり、味は穏やかで心地よいナッツ風味です。",
+      "sporePrint": "胞子紋は白色から淡いクリーム色です。胞子は平滑で無色、楕円形からわずかに扁桃形、12–16 × 8–9.5 µm（ときに18–19 × 10–10.5 µmまで）、デキストリノイド（メルツァー試薬で赤褐色に染まる）かつ異染性を示し、透明なレンズ状の覆いを伴う発芽孔をもちます。",
+      "habitat": "乾燥した貧栄養から中程度に肥沃な石灰質土壌に腐生し、森林の開けた場所、広葉樹林や針葉樹林の草地の林縁、日当たりのよいブナ林やナラ・シデ林、ビャクシン類の荒地、牧草地、公園、貝殻片に富む海岸砂丘などに散生または小群生します。ヨーロッパの大部分では主に7月から11月に子実体が発生し、温暖な地域では5月から始まり、南部では秋遅くまで続きます。",
+      "uses": "肉厚ではやや劣るものの、Macrolepiota proceraに匹敵する穏やかでナッツのような風味をもつ優れた食用キノコです。柄は硬く繊維質であるため、調理には柔らかい傘のみを用います。生食は避けて十分に加熱してから食べる必要があり、ヨーロッパの複数地域では稀または局所的に減少しているため、採取は控えめにすることが勧められます。",
+      "confusion": "Macrolepiota proceraははるかに大型で、柄には淡い細点ではなく暗褐色の目立つ蛇皮状のジグザグ模様があります。Macrolepiota konradiiは近縁で変種として扱われることもあり、傘の鱗片がより大きくまばらで星状になる点で異なります。Chlorophyllum rhacodes、Chlorophyllum olivieri、および有毒のChlorophyllum brunneumは、より粗く反り返った傘の鱗片、模様のない平滑な柄、切断すると橙赤色からサフラン赤色に変わる肉をもちます。有毒のChlorophyllum molybditesは緑色を帯びた胞子紋と成熟時に緑色を帯びるひだを生じます。Lepiota brunneoincarnataやLepiota cristataなどの小型で致命的となり得るLepiota属の種は、一般に径10 cmをはるかに下回り、脆く動かないつばをもち、目立つ乳頭状突起を欠きます。",
+      "notes": "Macrolepiota mastoideaをめぐる分類学的境界については現在も活発な議論が続いており、Macrolepiota rickenii、Macrolepiota gracilenta、Macrolepiota konradiiを含む細身または鱗片の目立つ複数のヨーロッパ型は、研究者によって異名や変種として扱われる場合も、別種として扱われる場合もあります。世界規模での評価は行われていませんが、オランダを含む北西ヨーロッパの一部では希少であり、国のレッドリストで危急（Vulnerable）に指定されています。顕微化学反応では、肉はフェノールアニリンで紫赤色から褐色へ変化し、ラクトフェノールで褐色となりますが、アニリンおよびα-ナフトールには陰性です。"
+    },
+    "ko": {
+      "description": "중형에서 대형에 이르는 부생성 큰갓버섯류로, 영국과 아일랜드를 포함한 유럽 전역에서 단생하거나 작은 무리를 지어 자라며 온대 아시아, 중국, 북미와 남미, 열대 아프리카까지 분포합니다. 숲의 빈터, 풀밭이 있는 숲 가장자리, 초원, 해안 사구의 건조하고 트인 석회질 토양을 선호합니다.",
+      "cap": "갓의 지름은 6–15 cm(대체로 8–12 cm)입니다. 처음에는 가장자리가 안으로 말린 달걀 모양에서 종 모양이었다가 점차 넓은 원뿔형을 거쳐 편평하게 펼쳐지며, 가운데에는 둥글고 뾰족한 젖꼭지 모양의 뚜렷한 돌기가 남습니다. 흰빛에서 옅은 크림황토색을 띠는 표면은 미세하고 밀착되거나 섬유질인 황토갈색, 개암갈색 또는 적갈색 인편으로 갈라지며, 인편은 온전히 남은 중앙 돌기 위에서 가장 빽빽하고 짙으며 옅은 바탕과의 대비가 약합니다.",
+      "hymenium": "주름살은 넓고 빽빽하며 떨어져 붙고 흰색에서 옅은 크림색을 띠며, 때때로 갈라지고 노숙하면 가장자리를 따라 분홍빛 크림색이나 희미한 갈색을 띠기도 하며, 대에서 멀리 떨어진 뚜렷한 고리 모양의 턱에서 끝납니다. 담자기는 곤봉 모양의 4포자성으로 크기는 35–40 × 8–10 µm이고 소병 길이는 3.5–4 µm이며, 꺾쇠연결은 드물거나 눈에 띄지 않습니다. 얇은 벽을 가진 무색의 연낭상체는 곤봉 모양, 병 모양 또는 방추형으로 27–40 × 8–15 µm이며, 측낭상체는 없습니다.",
+      "stipe": "가늘고 원통형인 대는 높이 7–16 cm(때때로 18 cm까지), 굵기 0.6–1.5 cm로 위쪽으로 갈수록 약간 가늘어지며 밑동은 너비 최대 2.2 cm의 완만한 구근 모양으로 부풀어 오릅니다. 섬유질이고 질기며 처음에는 속이 차 있다가 점차 비고, 갓에서 쉽게 분리됩니다. 턱받이 위쪽은 옅은 크림색에서 흰빛을 띠고, 아래쪽은 미세하고 촘촘한 옅은 황갈색에서 황토담황색의 인편이나 잔점으로 덮여 있습니다. 대의 위쪽에는 윗면이 흰빛이고 가장자리와 아랫면이 옅은 갈색인, 단일에서 이중 가장자리를 가진 막질의 이동성 턱받이가 둘러져 있습니다.",
+      "flesh": "살은 갓에서는 흰색이고 부드럽거나 솜 같으며, 대에서는 더 질기고 섬유질입니다. 붉게 변하는 유사한 큰갓버섯류와 달리 자르거나 상처를 내도 붉어지지 않지만, 노숙하거나 만지면 천천히 희미한 갈색을 띨 수 있습니다. 냄새는 순하고 은은한 버섯 향이 나거나 녹인 버터를 연상시키며, 맛은 순하고 기분 좋은 견과류 풍미가 있습니다.",
+      "sporePrint": "포자문은 흰색에서 옅은 크림색입니다. 포자는 매끄럽고 무색이며 타원형에서 약간 아몬드 모양으로 크기는 12–16 × 8–9.5 µm(때때로 18–19 × 10–10.5 µm까지)이고, 덱스트리노이드성(멜처 시약에서 적갈색으로 염색됨) 및 이염성을 나타내며 투명한 렌즈 모양 덮개로 덮인 발아공을 가집니다.",
+      "habitat": "건조하고 빈영양에서 중영양 수준인 석회질 토양에서 부생하며, 숲의 빈터, 풀밭이 있는 활엽수림과 침엽수림 가장자리, 햇볕이 잘 드는 너도밤나무 숲과 참나무-서어나무 숲, 노간주나무 황무지, 초원, 공원, 조개껍데기가 풍부한 해안 사구에서 산생하거나 작은 무리를 지어 자랍니다. 자실체는 유럽 대부분 지역에서 주로 7월부터 11월 사이에 나타나며, 따뜻한 지역에서는 이르면 5월부터 시작해 남부에서는 늦가을까지 이어집니다.",
+      "uses": "살이 다소 덜 두툼하지만 Macrolepiota procera에 견줄 만한 순하고 고소한 견과류 풍미를 지닌 좋은 식용 버섯입니다. 대는 질기고 섬유질이므로 요리에는 부드러운 갓만 사용합니다. 날것으로 먹지 말고 반드시 충분히 익혀 섭취해야 하며, 여러 유럽 지역에서 드물거나 국지적으로 감소하고 있어 채취 시 절제가 권장됩니다.",
+      "confusion": "Macrolepiota procera는 훨씬 더 크며 대에 미세한 옅은 잔점 대신 뱀껍질 같은 짙은 갈색의 뚜렷한 지그재그 띠무늬가 있습니다. Macrolepiota konradii는 매우 가까운 근연종으로 때때로 변종으로 다루어지며, 갓의 인편이 더 크고 성기며 별 모양을 띠는 점에서 구별됩니다. Chlorophyllum rhacodes, Chlorophyllum olivieri, 그리고 독버섯인 Chlorophyllum brunneum은 더 거칠고 뒤로 젖혀진 갓 인편, 무늬 없이 매끄러운 대, 그리고 잘랐을 때 주황적색이나 사프란적색으로 변하는 살을 가집니다. 독버섯인 Chlorophyllum molybdites는 녹색빛 포자문과 성숙 시 녹색빛이 도는 주름살을 만듭니다. Lepiota brunneoincarnata와 Lepiota cristata처럼 작고 치명적일 수 있는 Lepiota속 종들은 일반적으로 지름이 10 cm보다 훨씬 작고, 부서지기 쉬우며 움직이지 않는 턱받이를 가지며, 젖꼭지 모양의 뚜렷한 돌기가 없습니다.",
+      "notes": "Macrolepiota mastoidea를 둘러싼 분류학적 경계는 여전히 활발히 논의되고 있습니다. Macrolepiota rickenii, Macrolepiota gracilenta, Macrolepiota konradii를 포함한 여러 가늘거나 인편이 있는 유럽형은 일부 학자들에 의해 이명이나 변종으로, 다른 학자들에 의해 별개의 종으로 취급됩니다. 전 세계적인 평가는 이루어지지 않았으나, 네덜란드를 포함한 북서유럽 일부 지역에서는 희귀하며 국가 적색목록에 취약(Vulnerable) 등급으로 등재되어 있습니다. 미시화학 반응에서 살은 페놀아닐린에 자적색을 띠었다가 갈색으로 변하고 락토페놀에는 갈색 반응을 보이지만, 아닐린과 알파-나프톨에는 음성을 유지합니다."
+    },
+    "lt": {
+      "description": "Vidutinio dydžio ar stambus saprotrofinis grybas, vaisiakūnius auginantis pavieniui arba nedidelėmis grupėmis visoje Europoje, įskaitant Didžiąją Britaniją ir Airiją, taip pat paplitęs vidutinio klimato Azijoje, Kinijoje, Šiaurės ir Pietų Amerikoje bei tropinėje Afrikoje. Mėgsta sausą, atvirą, kalkingą dirvožemį miško aikštelėse, žolėtuose pamiškėse, pievose ir pajūrio smėlio kopose.",
+      "cap": "Kepurėlė 6–15 cm skersmens (dažniausiai 8–12 cm). Iš pradžių kiaušiniška ar varpiška su užlenktu kraštu, vėliau išsiskleidžia iki plačiai kūgiškos ir galiausiai plokščios, centre išlaikydama ryškų, suapvalintai smailų, spenelio pavidalo gūbrelį. Balkšvas ar blyškiai kreminis ochrinis paviršius sutrūkinėja į smulkius, prigludusius ar plaušingus ochriškai rudus, lazdynų riešutų rudumo arba rausvai rudus žvynelius, kurie tankiausi ir tamsiausi ant sveiko gūbrelio ir menkai kontrastuoja su šviesiu fonu.",
+      "hymenium": "Platūs, tankūs, laisvi, balti ar blyškiai kreminiai lakšteliai – kartais šakoti, o senstant pakraščiuose vietomis įgaunantys rausvai kreminį ar silpną rusvą atspalvį – baigiasi ryškia žiedine apykakle gerokai atokiau nuo koto. Bazidijos buožiškos, ketursporės, 35–40 × 8–10 µm dydžio, su 3,5–4 µm ilgio sterigmomis, turi retas arba neryškias sąsagas. Plonasienės, bespalvės cheilocistidės yra buožiškos, kolbiškos arba verpstiškos, 27–40 × 8–15 µm dydžio; pleurocistidžių nėra.",
+      "stipe": "Lieknas, cilindriškas kotas yra 7–16 cm aukščio (kartais iki 18 cm) ir 0,6–1,5 cm storio, link viršūnės šiek tiek siaurėjantis, o prie pagrindo sustorėjęs į nedidelį, iki 2,2 cm pločio gumbelį. Plaušingas ir kietokas, iš pradžių pilnaviduris, vėliau tuščiaviduris, lengvai atsiskiria nuo kepurėlės, virš žiedo blyškiai kreminis ar balkšvas, o žemiau padengtas smulkiais, tankiai išsidėsčiusiais blyškiai gelsvai rudais ar ochriškais žvyneliais arba taškeliais. Viršutinę koto dalį juosia plėvelinis, slankus žiedas su viengubu arba dvigubu kraštu, viršuje balkšvas, o pakraštyje ir apačioje blyškiai rudas.",
+      "flesh": "Trama kepurėlėje balta ir minkšta arba vatiška, kote kietesnė ir plaušinga. Skirtingai nei raustančių panašių rūšių, perpjauta ar paspausta trama nerausta, nors senstant ar liečiant gali pamažu tapti švelniai rusva. Kvapas švelnus, silpnai grybiškas arba primenantis lydytą sviestą, o skonis švelnus ir maloniai riešutinis.",
+      "sporePrint": "Sporų atspaudas baltas arba blyškiai kreminis. Sporos lygios, bespalvės, elipsoidinės ar šiek tiek migdoliškos, 12–16 × 8–9,5 µm (kartais iki 18–19 × 10–10,5 µm), dekstrinoidinės (Melzerio reagente nusidažo rausvai rudai) ir metachromatinės, su daigumo pora, kurią dengia skaidrus lęšiškas gaubtelis.",
+      "habitat": "Saprotrofinis grybas, augantis sausoje, mažai arba vidutiniškai derlingoje kalkingoje dirvoje, pavieniui arba nedidelėmis grupėmis miško aikštelėse, žolėtuose lapuočių ir spygliuočių pamiškėse, saulėtuose bukynuose ir ąžuolynuose su skroblais, kadagynuose, pievose, parkuose bei kriauklelėmis praturtintose pajūrio smėlio kopose. Vaisiakūniai didžiojoje Europos dalyje dažniausiai pasirodo nuo liepos iki lapkričio, šiltesniuose kraštuose jau gegužę, o pietuose išlieka vėliau rudenį.",
+      "uses": "Geras valgomas grybas, pasižymintis švelniu, riešutiniu skoniu, prilygstančiu Macrolepiota procera, nors yra mažiau mėsingas. Maistui naudojamos tik švelnios kepurėlės, nes kotai yra kieti ir plaušingi. Prieš valgant jį reikia gerai termiškai apdoroti ir nevartoti žalio, o kadangi kai kuriuose Europos regionuose rūšis yra reta arba lokaliai nykstanti, rekomenduojama rinkti saikingai.",
+      "confusion": "Macrolepiota procera yra gerokai stambesnė ir ant koto vietoj smulkaus blyškaus margumo turi ryškias tamsiai rudas gyvatės odą primenančias zigzago juostas. Macrolepiota konradii yra artimai gimininga ir kartais laikoma varietetu, skiriasi stambesniais, retesniais žvaigždiškais kepurėlės žvynais. Chlorophyllum rhacodes, Chlorophyllum olivieri ir nuodinga Chlorophyllum brunneum turi stambesnius, atlenktus kepurėlės žvynus, lygius neraštuotus kotus ir tramą, kuri perpjauta tampa oranžiškai raudona arba šafrano raudonumo. Nuodinga Chlorophyllum molybdites palieka žalsvą sporų atspaudą, o jos subrendę lakšteliai įgauna žalsvą atspalvį. Smulkios, potencialiai mirtinai nuodingos Lepiota genties rūšys, tokios kaip Lepiota brunneoincarnata ir Lepiota cristata, paprastai būna gerokai siauresnės nei 10 cm, turi trapius neslankius žiedus ir neturi ryškaus spenelio pavidalo gūbrelio.",
+      "notes": "Taksonominės Macrolepiota mastoidea ribos tebėra aktyviai diskutuojamos: kelias lieknas ar žvynuotas Europos formas – tarp jų Macrolepiota rickenii, Macrolepiota gracilenta ir Macrolepiota konradii – vieni mokslininkai laiko sinonimais arba varietetais, o kiti – atskiromis rūšimis. Nors pasauliniu mastu rūšis neįvertinta, ji yra reta ir kai kurių Šiaurės Vakarų Europos šalių, įskaitant Nyderlandus, nacionaliniuose raudonuosiuose sąrašuose priskirta pažeidžiamų (Vulnerable) kategorijai. Mikrocheminiuose tyrimuose trama su fenolanilinu reaguoja purpuriškai raudona spalva, pereinančia į rudą, o su laktofenoliu – rudai, tuo tarpu reakcijos su anilinu ir alfa-naftoliu išlieka neigiamos."
+    },
+    "lv": {
+      "description": "Vidēja lieluma līdz liela saprotrofa sēne, kas veido augļķermeņus pa vienam vai nelielās grupās visā Eiropā, tostarp Lielbritānijā un Īrijā, un sastopama arī mērenajā Āzijā, Ķīnā, Ziemeļamerikā, Dienvidamerikā un tropiskajā Āfrikā. Tā dod priekšroku sausai, atklātai, kaļķainai augsnei meža laucēs, zāļainās mežmalās, pļavās un piekrastes smilšu kāpās.",
+      "cap": "Cepurīte ir 6–15 cm plata (visbiežāk 8–12 cm). Sākumā olveida līdz zvanveida ar ieritinātu malu, vēlāk tā izplešas līdz plati koniskai un visbeidzot plakanai, saglabājot izteiktu, noapaļoti smailu, krūtsgalam līdzīgu pauguru centrā. Bālganā līdz bāli krēmokera virsma saplaisā smalkās, pieguļošās līdz šķiedrainās okerbrūnās, lazdu riekstu brūnās vai sarkanbrūnās zvīņās, kas ir visblīvākās un vistumšākās uz neskartā paugura un maz kontrastē ar gaišo pamatni.",
+      "hymenium": "Platas, ciešas, brīvas, baltas līdz bāli krēmkrāsas lapiņas – reizēm zarotas un ar vecumu gar šķautni vietām iesārti krēmīgas vai viegli brūnganas – beidzas pie skaidri izteiktas gredzenveida apkaklītes krietni atstatu no kātiņa. Bazīdijas ir vālesveida, četrsporu, 35–40 × 8–10 µm lielas ar 3,5–4 µm garām sterigmām, ar retām vai neuzkrītošām skavām. Plānsienu, bezkrāsainās heilocistīdas ir vālesveida, pudeļveida vai vārpstveida, 27–40 × 8–15 µm lielas; pleirocistīdu nav.",
+      "stipe": "Slaidais, cilindriskais kātiņš ir 7–16 cm garš (reizēm līdz 18 cm) un 0,6–1,5 cm resns, uz augšu nedaudz tievējošs, bet pie pamatnes paplašināts mērenā, līdz 2,2 cm platā bumbuļveida sabiezinājumā. Šķiedrains un sīksts, sākumā blīvs, vēlāk dobs, viegli atdalāms no cepurītes; virs gredzena tas ir bāli krēmkrāsas līdz bālgans, bet zem tā klāts ar smalkām, blīvi izvietotām bāli dzeltenbrūnām līdz okerbrūnām zvīņām vai raibumiņiem. Kātiņa augšdaļu aptver plēvains, pārbīdāms gredzens ar vienkāršu līdz dubultu malu, kas no virspuses ir bālgans, bet gar malu un apakšpusē bāli brūns.",
+      "flesh": "Mīkstums cepurītē ir balts un mīksts vai vatveida, kātiņā sīkstāks un šķiedrains. Atšķirībā no sārtojošām līdzīgām sugām mīkstums griezumā vai saspiestās vietās nesārtojas, lai gan ar vecumu vai aizskarot var lēnām kļūt viegli brūngans. Smarža ir maiga un viegli sēnīga vai atgādina kausētu sviestu, bet garša ir maiga un patīkami riekstaina.",
+      "sporePrint": "Sporu nospiedums ir balts līdz bāli krēmkrāsas. Sporas ir gludas, bezkrāsainas, elipsoīdas līdz viegli mandeļveida, 12–16 × 8–9,5 µm (reizēm līdz 18–19 × 10–10,5 µm), dekstrinoīdas (Melcera reaģentā krāsojas sarkanbrūnas) un metahromatiskas, ar dīgšanas poru, kuru sedz caurspīdīga lēcveida cepurīte.",
+      "habitat": "Saprotrofa sēne uz sausas, barības vielām nabadzīgas līdz mēreni auglīgas kaļķainas augsnes; aug izklaidus vai nelielās grupās meža laucēs, zāļainās lapu koku un skujkoku mežmalās, saulainos dižskābaržu un ozolu-skābaržu mežos, kadiķu tīreļos, pļavās, parkos un ar gliemežvākiem bagātās piekrastes smilšu kāpās. Augļķermeņi lielākajā daļā Eiropas parādās galvenokārt no jūlija līdz novembrim, siltākos apgabalos jau maijā, bet dienvidos ilgāk rudenī.",
+      "uses": "Laba ēdamā sēne ar maigu, riekstainu garšu, kas līdzinās Macrolepiota procera, taču ir mazāk gaļīga. Gatavošanā izmanto tikai maigās cepurītes, jo kātiņi ir sīksti un šķiedraini. Pirms lietošanas uzturā tā rūpīgi jāapstrādā termiski un nedrīkst ēst neapstrādātu; tā kā vairākos Eiropas reģionos šī suga ir reta vai lokāli sarūkoša, vākšanā ieteicama atturība.",
+      "confusion": "Macrolepiota procera ir ievērojami lielāka, un uz tās kātiņa smalku bālu raibumiņu vietā ir izteiktas tumši brūnas čūskādai līdzīgas zigzaga joslas. Macrolepiota konradii ir tuvu radniecīga un reizēm tiek uzskatīta par varietāti, atšķiroties ar lielākām, retākām, zvaigžņveida cepurītes zvīņām. Chlorophyllum rhacodes, Chlorophyllum olivieri un indīgajai Chlorophyllum brunneum ir rupjākas, atliektas cepurītes zvīņas, gludi kātiņi bez raksta un mīkstums, kas griezumā kļūst oranžsarkans vai safrānsarkans. Indīgajai Chlorophyllum molybdites ir zaļgans sporu nospiedums un nogatavojoties zaļgani iekrāsotas lapiņas. Mazās, potenciāli nāvīgi indīgās Lepiota ģints sugas, piemēram, Lepiota brunneoincarnata un Lepiota cristata, parasti nepārsniedz 10 cm platumu, tām ir trausli, nepārbīdāmi gredzeni un trūkst izteiktā krūtsgalam līdzīgā paugura.",
+      "notes": "Taksonomiskās robežas ap Macrolepiota mastoidea joprojām tiek aktīvi apspriestas: vairākas slaidas vai zvīņainas Eiropas formas – tostarp Macrolepiota rickenii, Macrolepiota gracilenta un Macrolepiota konradii – vieni autori uzskata par sinonīmiem vai varietātēm, bet citi par patstāvīgām sugām. Lai gan globāli suga nav novērtēta, tā ir reta un iekļauta nacionālajos sarkanajos sarakstos kā jutīga (Vulnerable) daļā Ziemeļrietumeiropas, tostarp Nīderlandē. Mikroķīmiskajās pārbaudēs mīkstums ar fenolanilīnu iekrāsojas purpursarkans, pārejot brūnā, bet ar laktofenolu – brūns, savukārt reakcijas ar anilīnu un alfa-naftolu ir negatīvas."
+    },
+    "nl": {
+      "description": "Een middelgrote tot grote saprotrofe parasolzwam die alleenstaand of in kleine groepjes groeit in heel Europa, met inbegrip van Groot-Brittannië en Ierland, en verder voorkomt in gematigd Azië, China, Noord- en Zuid-Amerika en tropisch Afrika. De soort geeft de voorkeur aan droge, open, kalkrijke bodems op open plekken in bossen, grazige bosranden, graslanden en kustduinen.",
+      "cap": "De hoed heeft een diameter van 6–15 cm (meestal 8–12 cm). Aanvankelijk eivormig tot klokvormig met een ingerolde rand, spreidt hij zich uit tot breed kegelvormig en uiteindelijk vlak, met behoud van een opvallende, afgerond-spitse, tepelvormige centrale umbo. Het witachtige tot bleek crème-oker kleurige oppervlak breekt open in fijne, aangedrukte tot vezelige okerbruine, hazelnootbruine of roodbruine schubben die het dichtst en donkerst zijn op de gave umbo en weinig contrast vormen met de lichte ondergrond.",
+      "hymenium": "De brede, dicht opeenstaande, vrije, witte tot bleek crèmekleurige plaatjes — soms gevorkt en bij veroudering aan de snede soms licht rozecrème of zwak bruinachtig getint — eindigen in een duidelijk ringvormig collarium ruim vrij van de steel. De basidiën zijn knotsvormig, viersporig, 35–40 × 8–10 µm met sterigmen van 3,5–4 µm lang, en dragen schaarse of onopvallende gespen. De dunwandige, hyaliene cheilocystiden zijn knotsvormig, flesvormig of spoelvormig, 27–40 × 8–15 µm; pleurocystiden ontbreken.",
+      "stipe": "De slanke, cilindrische steel is 7–16 cm hoog (soms tot 18 cm) en 0,6–1,5 cm dik, versmalt licht naar de top en zwelt aan de voet op tot een bescheiden knol van maximaal 2,2 cm breed. Hij is vezelig en taai, aanvankelijk gevuld en later hol, gemakkelijk van de hoed los te maken, boven de ring bleek crème tot witachtig en daaronder bedekt met fijne, dicht opeenstaande bleek geelbruine tot okerachtige schubjes of spikkels. Rond het bovenste deel van de steel zit een vliezige, verschuifbare ring met een enkele tot dubbele rand, aan de bovenzijde witachtig en aan de rand en onderzijde lichtbruin.",
+      "flesh": "Het vlees is wit en zacht of watachtig in de hoed, taaier en vezelig in de steel. Anders dan bij roodverkleurende verwante soorten kleurt het vlees niet rood bij doorsnijden of kneuzen, al kan het met de leeftijd of door aanraking langzaam licht bruinachtig verkleuren. De geur is mild en licht paddenstoelachtig of doet denken aan gesmolten boter, en de smaak is mild en aangenaam nootachtig.",
+      "sporePrint": "De sporenprint is wit tot bleek crèmekleurig. De sporen zijn glad, hyalien, ellipsoïde tot licht amandelvormig, 12–16 × 8–9,5 µm (soms tot 18–19 × 10–10,5 µm), dextrinoïde (kleuren roodbruin in Melzers reagens) en metachromatisch, met een kiempore bedekt door een transparant, lensvormig kapje.",
+      "habitat": "Saprotroof op droge, voedselarme tot matig voedselrijke kalkhoudende bodems, verspreid of in kleine groepjes op open plekken in bossen, grazige loof- en naaldbosranden, lichte beuken- en eiken-haagbeukenbossen, jeneverbesheiden, graslanden, parken en schelpenrijke kustduinen. Vruchtlichamen verschijnen in het grootste deel van Europa voornamelijk van juli tot november, in warmere streken al vanaf mei en in het zuiden tot laat in de herfst.",
+      "uses": "Een goede eetbare paddenstoel met een milde, nootachtige smaak die vergelijkbaar is met die van de grote parasolzwam (Macrolepiota procera), al is hij minder vlezig. Alleen de malse hoeden worden in de keuken gebruikt, omdat de stelen taai en vezelig zijn. De paddenstoel moet voor consumptie grondig worden verhit en niet rauw worden gegeten; omdat de soort in verschillende Europese regio's zeldzaam is of plaatselijk achteruitgaat, wordt terughoudendheid bij het verzamelen aangeraden.",
+      "confusion": "De grote parasolzwam (Macrolepiota procera) is aanzienlijk groter en heeft een grove, donkerbruine slangenhuidachtige zigzagtekening op de steel in plaats van fijne lichte spikkels. De nauw verwante sterparasolzwam (Macrolepiota konradii), soms beschouwd als variëteit, verschilt door grotere, meer verspreide stervormige hoedschubben. De knolparasolzwam (Chlorophyllum rhacodes), de sombere knolparasolzwam (Chlorophyllum olivieri) en de giftige gifknolparasolzwam (Chlorophyllum brunneum) hebben grovere, afstaande hoedschubben, gladde ongetekende stelen en vlees dat bij doorsnijden oranjerood of saffraanrood verkleurt. De giftige Chlorophyllum molybdites geeft een groenachtige sporenprint en heeft bij rijpheid groenachtig getinte plaatjes. Kleine, potentieel dodelijk giftige soorten uit het geslacht Lepiota, zoals de vleeskleurige parasolzwam (Lepiota brunneoincarnata) en de stinkparasolzwam (Lepiota cristata), blijven doorgaans ruim onder de 10 cm hoeddiameter, hebben tere, niet-verschuifbare ringen en missen de opvallende tepelvormige umbo.",
+      "notes": "De taxonomische afbakening rond Macrolepiota mastoidea blijft onderwerp van discussie: verscheidene slanke of schubbige Europese vormen — waaronder Macrolepiota rickenii, Macrolepiota gracilenta en Macrolepiota konradii — worden door sommige auteurs als synoniemen of variëteiten beschouwd en door andere als aparte soorten. Hoewel wereldwijd niet beoordeeld, is de soort zeldzaam en staat zij in delen van Noordwest-Europa, waaronder Nederland, als kwetsbaar (Vulnerable) op nationale rode lijsten. Bij microchemische reacties kleurt het vlees met fenolaniline purperrood overgaand in bruin en met lactofenol bruin, terwijl de reactie met aniline en alfa-naftol negatief blijft."
+    },
+    "no": {
+      "description": "En mellomstor til stor saprotrof parasollsopp som danner fruktlegemer enkeltvis eller i små grupper over hele Europa, inkludert Storbritannia og Irland, og videre inn i temperert Asia, Kina, Nord- og Sør-Amerika samt tropisk Afrika. Den foretrekker tørr, åpen, kalkrik jord i skoglysninger, gressrike skogbryn, enger og kystdyner.",
+      "cap": "Hatten måler 6–15 cm i diameter (vanligst 8–12 cm). Til å begynne med er den eggformet til klokkeformet med innrullet kant, før den brer seg ut til bredt kjegleformet og til slutt flat, samtidig som den beholder en tydelig, avrundet-spiss, brystvortelignende pukkel i midten. Den hvitlige til blekt krem-okerfargede overflaten sprekker opp i fine, tiltrykte til trevlete okerbrune, hasselnøttbrune eller rødbrune skjell som sitter tettest og er mørkest over den hele pukkelen, med lav kontrast mot den lyse bunnen.",
+      "hymenium": "Brede, tettstilte, frie, hvite til blekt kremfargede skiver – av og til gaffeldelte og stundom med et svakt rosakrem eller svakt brunlig skjær langs eggen hos eldre eksemplarer – slutter i en tydelig ringformet krage godt adskilt fra stilken. Basidiene er kølleformede, firesporede, 35–40 × 8–10 µm med 3,5–4 µm lange sterigmer, og har sparsomme eller utydelige bøyler. Tynnveggede, hyaline cheilocystider er kølleformede, flaskeformede eller spoleformede og måler 27–40 × 8–15 µm; pleurocystider mangler.",
+      "stipe": "Den slanke, sylindriske stilken er 7–16 cm høy (av og til opptil 18 cm) og 0,6–1,5 cm tykk, smalner svakt av mot toppen og utvider seg nederst til en beskjeden knoll på opptil 2,2 cm i bredde. Den er trevlet og seig, først kompakt og senere hul, løsner lett fra hatten, er blekt kremfarget til hvitlig over ringen og dekket nedenfor av fine, tettstilte blekt gulbrune til okerbrune skjell eller småflekker. En hinneaktig, bevegelig ring med enkel til dobbel kant – hvitlig på oversiden og blekt brun langs kanten og på undersiden – omgir den øvre delen av stilken.",
+      "flesh": "Hvitt og mykt eller bomullsaktig i hatten, seigere og mer trevlet i stilken. I motsetning til rødnende forvekslingsarter rødner ikke kjøttet ved overskjæring eller trykk, men det kan langsomt bli svakt brunlig med alderen eller ved håndtering. Lukten er mild og svakt soppaktig eller minner om smeltet smør, og smaken er mild og behagelig nøtteaktig.",
+      "sporePrint": "Sporeavtrykket er hvitt til blekt kremfarget. Sporene er glatte, hyaline, ellipsoidiske til svakt mandelformede, 12–16 × 8–9,5 µm (av og til opptil 18–19 × 10–10,5 µm), dekstrinoide (farges rødbrune i Melzers reagens) og metakromatiske, med en spirepore dekket av en gjennomsiktig linseformet hette.",
+      "habitat": "Saprotrof på tørr, næringsfattig til moderat næringsrik kalkrik jord, der den fruktifiserer spredt eller i små grupper i skoglysninger, gressrike bryn av løv- og barskog, solrike bøke- og eik-agnbøkskoger, einerheier, enger, parker og skjellsandrike kystdyner. Fruktlegemene dukker hovedsakelig opp fra juli til november i størstedelen av Europa, så tidlig som i mai i varmere strøk og senere utover høsten lenger sør.",
+      "uses": "En god matsopp med mild, nøtteaktig smak som kan sammenlignes med Macrolepiota procera, men den er mindre kjøttfull. Bare de møre hattene brukes i matlagingen, ettersom stilkene er seige og trevlete. Den bør varmebehandles grundig før den spises og ikke nytes rå, og siden arten er uvanlig eller i lokal tilbakegang i flere europeiske regioner, anbefales tilbakeholdenhet ved plukking.",
+      "confusion": "Macrolepiota procera er betydelig større og har tydelige, mørkebrune slangeskinnslignende sikksakkbånd på stilken i stedet for fine, bleke småflekker. Macrolepiota konradii er nært beslektet og regnes av og til som en varietet, men skiller seg ved større, mer spredte, stjerneformede hattskjell. Chlorophyllum rhacodes, Chlorophyllum olivieri og den giftige Chlorophyllum brunneum har grovere, utstående hattskjell, glatte stilker uten mønster og kjøtt som farges oransjerødt eller safranrødt ved overskjæring. Den giftige Chlorophyllum molybdites gir et grønnlig sporeavtrykk og får grønnlig skjær på modne skiver. Små, potensielt dødelig giftige arter i slekten Lepiota, som Lepiota brunneoincarnata og Lepiota cristata, holder seg som regel godt under 10 cm i hattbredde, har skjøre, ubevegelige ringer og mangler den fremtredende brystvortelignende pukkelen.",
+      "notes": "De taksonomiske grensene rundt Macrolepiota mastoidea er fortsatt gjenstand for aktiv debatt: flere slanke eller skjellete europeiske former – blant annet Macrolepiota rickenii, Macrolepiota gracilenta og Macrolepiota konradii – behandles som synonymer eller varieteter av enkelte forfattere og som egne arter av andre. Selv om arten ikke er vurdert globalt, er den sjelden og oppført som Sårbar (Vulnerable) på nasjonale rødlister i deler av Nordvest-Europa, deriblant Nederland. I mikrokjemiske tester gir kjøttet en purpurrød reaksjon som går over i brunt med fenolanilin, og brun reaksjon med laktofenol, mens reaksjonene med anilin og alfa-naftol forblir negative."
+    },
+    "pl": {
+      "description": "Średniej wielkości lub duży grzyb saprotroficzny owocnikujący pojedynczo albo w niewielkich grupach w całej Europie, w tym w Wielkiej Brytanii i Irlandii, a także w strefie umiarkowanej Azji, w Chinach, Ameryce Północnej i Południowej oraz w tropikalnej Afryce. Preferuje suche, otwarte gleby wapienne na polanach leśnych, trawiastych skrajach lasów, łąkach i nadmorskich wydmach piaszczystych.",
+      "cap": "Kapelusz ma średnicę 6–15 cm (najczęściej 8–12 cm). Początkowo jajowaty do dzwonkowatego z podwiniętym brzegiem, z czasem rozpościera się do szeroko stożkowatego, a w końcu płaskiego, zachowując wyraźny, zaokrąglono-stożkowaty, sutkowaty garbek pośrodku. Biaława do blado kremowoochrowej powierzchnia pęka na drobne, przylegające lub włókniste ochrowobrązowe, orzechowobrązowe bądź czerwonawobrązowe łuski, najgęstsze i najciemniejsze na niepopękanym garbku, słabo kontrastujące z jasnym tłem.",
+      "hymenium": "Szerokie, gęste, wolne, białe do blado kremowych blaszki — niekiedy rozwidlone, a z wiekiem czasem o ostrzach lekko różowawokremowych lub brązowawych — kończą się wyraźnym pierścieniowatym kołnierzykiem (collarium) z dala od trzonu. Podstawki są maczugowate, czterozarodnikowe, 35–40 × 8–10 µm, ze sterygmami długości 3,5–4 µm i rzadkimi lub słabo widocznymi sprzążkami. Cienkościenne, hialinowe cheilocystydy są maczugowate, butelkowate lub wrzecionowate, 27–40 × 8–15 µm; pleurocystyd brak.",
+      "stipe": "Smukły, walcowaty trzon ma 7–16 cm wysokości (wyjątkowo do 18 cm) i 0,6–1,5 cm grubości, lekko zwęża się ku szczytowi, a u podstawy rozszerza w niewielką bulwę szerokości do 2,2 cm. Jest włóknisty i łykowaty, początkowo pełny, później pusty, łatwo oddzielający się od kapelusza; nad pierścieniem blado kremowy do białawego, a poniżej pokryty drobnymi, gęsto rozmieszczonymi blado żółtobrązowymi lub ochrowopłowymi łuseczkami albo nakrapianiem. W górnej części trzonu znajduje się błoniasty, ruchomy pierścień o pojedynczym do podwójnego brzegu, z wierzchu białawy, a na brzegu i od spodu jasnobrązowawy.",
+      "flesh": "Miąższ w kapeluszu jest biały i miękki lub watowaty, w trzonie twardszy i włóknisty. W przeciwieństwie do czerwieniejących gatunków podobnych miąższ nie czerwienieje po przekrojeniu ani uciśnięciu, choć z wiekiem lub po uszkodzeniu może powoli lekko brązowieć. Zapach jest łagodny, lekko grzybowy lub przypominający roztopione masło, a smak delikatny i przyjemnie orzechowy.",
+      "sporePrint": "Wysyp zarodników jest biały do blado kremowego. Zarodniki są gładkie, hialinowe, elipsoidalne do lekko migdałowatych, 12–16 × 8–9,5 µm (sporadycznie do 18–19 × 10–10,5 µm), dekstrynoidalne (w odczynniku Melzera barwią się na czerwonobrązowo) i metachromatyczne, z porą rostkową przykrytą przezroczystym, soczewkowatym kapturkiem.",
+      "habitat": "Gatunek saprotroficzny rosnący na suchych, ubogich do średnio zasobnych glebach wapiennych, pojedynczo lub w małych grupach na polanach leśnych, trawiastych skrajach lasów liściastych i iglastych, w widnych buczynach i grądach, na wrzosowiskach jałowcowych, łąkach, w parkach oraz na nadmorskich wydmach piaszczystych wzbogaconych okruchami muszli. Owocniki pojawiają się w większości Europy głównie od lipca do listopada, w cieplejszych regionach już od maja, a na południu utrzymują się do późnej jesieni.",
+      "uses": "Dobry grzyb jadalny o łagodnym, orzechowym smaku porównywalnym z czubajką kanią (Macrolepiota procera), choć mniej mięsisty. W kuchni wykorzystuje się wyłącznie delikatne kapelusze, ponieważ trzony są twarde i łykowate. Przed spożyciem wymaga dokładnej obróbki termicznej i nie należy go jeść na surowo; ponieważ w wielu regionach Europy jest rzadki lub lokalnie ustępuje, zaleca się umiar podczas zbioru.",
+      "confusion": "Czubajka kania (Macrolepiota procera) jest znacznie większa i ma na trzonie wyraźne, ciemnobrązowe zygzakowate pręgowanie przypominające skórę węża zamiast drobnego, jasnego nakrapiania. Blisko spokrewniona czubajka gwiaździsta (Macrolepiota konradii), niekiedy traktowana jako odmiana, różni się większymi, rzadszymi, gwiaździstymi łuskami na kapeluszu. Czubajka czerwieniejąca (Chlorophyllum rhacodes), Chlorophyllum olivieri oraz trujący Chlorophyllum brunneum mają grubsze, odstające łuski na kapeluszu, gładki, niepręgowany trzon i miąższ przebarwiający się po przekrojeniu na pomarańczowoczerwono lub szafranowoczerwono. Trujący gatunek Chlorophyllum molybdites daje zielonkawy wysyp zarodników i ma zielonkawo zabarwione dojrzałe blaszki. Niewielkie, potencjalnie śmiertelnie trujące gatunki z rodzaju Lepiota, takie jak czubajeczka brązowoczerwonawa (Lepiota brunneoincarnata) i czubajeczka cuchnąca (Lepiota cristata), zazwyczaj mają średnicę wyraźnie poniżej 10 cm, kruchy, nieruchomy pierścień i są pozbawione wyraźnego sutkowatego garbka.",
+      "notes": "Granice taksonomiczne wokół Macrolepiota mastoidea pozostają przedmiotem żywej dyskusji: kilka smukłych lub łuskowatych form europejskich — w tym Macrolepiota rickenii, Macrolepiota gracilenta i Macrolepiota konradii — bywa traktowanych przez jednych autorów jako synonimy lub odmiany, a przez innych jako odrębne gatunki. Choć nie dokonano globalnej oceny zagrożenia, gatunek ten jest rzadki i w części północno-zachodniej Europy, w tym w Niderlandach, figuruje na krajowych czerwonych listach jako narażony (Vulnerable). W reakcjach mikrochemicznych miąższ barwi się pod wpływem fenoloaniliny purpurowoczerwono, przechodząc w brąz, a z laktofenolem na brązowo, natomiast z aniliną i alfa-naftolem daje reakcję ujemną."
+    },
+    "pt": {
+      "description": "Cogumelo saprotrófico de porte médio a grande que frutifica isoladamente ou em pequenos grupos em toda a Europa, incluindo a Grã-Bretanha e a Irlanda, estendendo-se à Ásia temperada, China, América do Norte e do Sul e África tropical. Prefere solos secos, abertos e calcários em clareiras de bosque, orlas herbosas de florestas, prados e dunas costeiras.",
+      "cap": "O chapéu mede 6–15 cm de diâmetro (mais frequentemente 8–12 cm). Inicialmente ovoide a campanulado com a margem encurvada, expande-se até ficar amplamente cónico e por fim plano, conservando ao centro um umbo proeminente, arredondado-pontiagudo e mamilado. A superfície esbranquiçada a creme-ocre pálido fragmenta-se em escamas finas, adpressas a fibrosas, de cor castanho-ocrácea, castanho-avelã ou castanho-avermelhada, mais densas e escuras sobre o umbo intacto e com fraco contraste em relação ao fundo claro.",
+      "hymenium": "As lâminas largas, apertadas, livres, brancas a creme-pálido — ocasionalmente bifurcadas e por vezes ligeiramente tingidas de creme-rosado ou acastanhado no gume com a idade — terminam num colário anular bem definido, afastado do estipe. Os basídios são claviformes, tetraspóricos, com 35–40 × 8–10 µm e esterigmas de 3,5–4 µm de comprimento, apresentando ansas de anastomose escassas ou pouco evidentes. Os queilocistídios, hialinos e de parede fina, são claviformes, lageniformes ou fusiformes, de 27–40 × 8–15 µm; os pleurocistídios estão ausentes.",
+      "stipe": "O estipe esguio e cilíndrico tem 7–16 cm de altura (ocasionalmente até 18 cm) e 0,6–1,5 cm de espessura, adelgaçando-se ligeiramente para o ápice e alargando-se na base num bolbo modesto até 2,2 cm de largura. Fibroso e rijo, inicialmente cheio e depois oco, separa-se facilmente do chapéu; é creme-pálido a esbranquiçado acima do anel e coberto abaixo por finas escamazinhas ou ponteado denso de cor castanho-amarelada pálida a ocre-camurça. Um anel membranoso e móvel, de margem simples a dupla — esbranquiçado na face superior e castanho-pálido na margem e na face inferior — envolve a parte superior do estipe.",
+      "flesh": "A carne é branca e macia ou algodoada no chapéu, mais rija e fibrosa no estipe. Ao contrário das espécies afins que avermelham, não fica vermelha ao corte nem ao toque, embora possa acastanhar ligeira e lentamente com a idade ou o manuseamento. O odor é suave, ligeiramente fúngico ou semelhante a manteiga derretida, e o sabor é doce e agradavelmente a avelã.",
+      "sporePrint": "A esporada é branca a creme-pálido. Os esporos são lisos, hialinos, elipsoides a ligeiramente amigdaliformes, com 12–16 × 8–9,5 µm (ocasionalmente até 18–19 × 10–10,5 µm), dextrinoides (corando-se de castanho-avermelhado no reagente de Melzer) e metacromáticos, com um poro germinativo coberto por um opérculo transparente em forma de lente.",
+      "habitat": "Saprotrófico em solos calcários secos, pobres a moderadamente ricos em nutrientes, frutificando disperso ou em pequenos grupos em clareiras de bosque, orlas herbosas de florestas de folhosas e coníferas, faiais e carvalhais com cárpino ensolarados, urzais de zimbro, prados, parques e dunas costeiras enriquecidas com fragmentos de conchas. Os corpos frutíferos surgem principalmente de julho a novembro na maior parte da Europa, começando já em maio em regiões mais quentes e prolongando-se até tarde no outono no sul.",
+      "uses": "Bom cogumelo comestível de sabor suave a avelã, comparável ao de Macrolepiota procera, embora menos carnudo. Na cozinha utilizam-se apenas os chapéus tenros, pois os estipes são rijos e fibrosos. Deve ser bem cozinhado antes de ser consumido e não deve ser ingerido cru; uma vez que é pouco comum ou apresenta declínio local em várias regiões europeias, recomenda-se moderação na colheita.",
+      "confusion": "Macrolepiota procera é substancialmente maior e apresenta no estipe bandas castanho-escuras bem marcadas em ziguezague, semelhantes a pele de cobra, em vez de um ponteado claro fino. Macrolepiota konradii, estreitamente relacionada e por vezes tratada como variedade, distingue-se pelas escamas do chapéu maiores, mais espaçadas e estreladas. Chlorophyllum rhacodes, Chlorophyllum olivieri e o venenoso Chlorophyllum brunneum têm escamas mais grosseiras e levantadas no chapéu, estipes lisos sem padrão e carne que vira para vermelho-alaranjado ou vermelho-açafrão ao corte. O venenoso Chlorophyllum molybdites produz esporada esverdeada e lâminas tingidas de verde na maturação. Pequenas espécies potencialmente mortais do género Lepiota, como Lepiota brunneoincarnata e Lepiota cristata, permanecem em geral bem abaixo dos 10 cm de diâmetro, possuem anéis frágeis e não móveis e não apresentam o umbo mamilado proeminente.",
+      "notes": "Os limites taxonómicos em torno de Macrolepiota mastoidea continuam a ser debatidos ativamente: várias formas europeias esguias ou escamosas — incluindo Macrolepiota rickenii, Macrolepiota gracilenta e Macrolepiota konradii — são tratadas como sinónimos ou variedades por alguns autores e como espécies separadas por outros. Embora não avaliada a nível global, a espécie é rara e consta como vulnerável (Vulnerable) em listas vermelhas nacionais de partes do noroeste da Europa, incluindo os Países Baixos. Nos testes microquímicos, a carne apresenta reação vermelho-púrpura que vira para castanho com fenolanilina e castanha com lactofenol, permanecendo negativa com anilina e alfa-naftol."
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă de talie medie spre mare care fructifică solitar sau în grupuri mici în toată Europa, inclusiv în Marea Britanie și Irlanda, și se extinde în Asia temperată, China, America de Nord și de Sud și Africa tropicală. Preferă solurile uscate, deschise și calcaroase din luminișuri, margini ierboase de pădure, pajiști și dune de nisip costiere.",
+      "cap": "Pălăria măsoară 6–15 cm în diametru (cel mai frecvent 8–12 cm). Inițial ovoidă până la campanulată cu marginea răsfrântă spre interior, se deschide devenind larg conică și în cele din urmă plană, păstrând un mamelon central proeminent, rotunjit-ascuțit. Suprafața albicioasă până la crem-ocru palid se desface în solzi fini, lipiți până la fibroși, ocru-brun, brun-alună sau brun-roșcat, cei mai denși și mai închiși pe mamelonul intact, cu contrast redus față de fondul deschis.",
+      "hymenium": "Lamelele sunt late, dese, libere, albe până la crem palid, uneori bifurcate și ocazional cu o nuanță roz-crem sau slab brunie pe muchie la maturitate, terminându-se într-un guler clar în jurul piciorului. Bazidiile sunt clavate, tetrasporice, de 35–40 × 8–10 µm, cu sterigme lungi de 3,5–4 µm și cu fibule rare sau puțin vizibile. Cheilocistidele cu pereți subțiri și hialine sunt clavate, lageniforme sau fusiforme, de 27–40 × 8–15 µm; pleurocistidele lipsesc.",
+      "stipe": "Piciorul zvelt, cilindric, are 7–16 cm înălțime (ocazional până la 18 cm) și 0,6–1,5 cm grosime, subțiindu-se ușor spre vârf și umflându-se la bază într-un bulb modest de până la 2,2 cm lățime. Fibros și tare, plin la început și apoi gol, se desprinde ușor de pălărie; este crem palid până la albicios deasupra inelului și acoperit dedesubt cu solzișori sau pete fine, dese, galben-brun palid până la ocru-gălbui. În partea superioară a piciorului se află un inel membranos, mobil, cu margine simplă până la dublă, albicios pe fața superioară și brun palid pe margine și pe fața inferioară.",
+      "flesh": "Carnea este albă, moale sau vătoasă în pălărie, mai tare și fibroasă în picior. Spre deosebire de speciile asemănătoare care se înroșesc, carnea nu se înroșește la tăiere sau lovire, deși se poate brunifica lent și ușor cu vârsta sau la manipulare. Mirosul este slab, plăcut de ciupercă sau amintind de unt topit, iar gustul este blând și plăcut de nucă.",
+      "sporePrint": "Amprenta sporală este albă până la crem palid. Sporii sunt netezi, hialini, elipsoidali până la ușor migdaliformi, de 12–16 × 8–9,5 µm (ocazional până la 18–19 × 10–10,5 µm), dextrinoizi (se colorează brun-roșcat în reactivul Melzer) și metacromatici, cu un por germinativ acoperit de o calotă transparentă în formă de lentilă.",
+      "habitat": "Saprotrofă pe soluri calcaroase uscate, sărace până la moderat bogate în nutrienți, fructificând răzleț sau în grupuri mici în luminișuri, margini ierboase de păduri de foioase și conifere, păduri însorite de fag și stejar cu carpen, tufărișuri de ienupăr, pajiști, parcuri și dune de nisip costiere bogate în cochilii. Corpurile de fructificare apar în principal din iulie până în noiembrie în cea mai mare parte a Europei, încă din mai în regiunile mai calde și până toamna târziu în sud.",
+      "uses": "O ciupercă comestibilă bună, cu gust blând de nucă comparabil cu Macrolepiota procera, deși mai puțin cărnoasă. La gătit se folosesc doar pălăriile fragede, deoarece picioarele sunt tari și fibroase. Trebuie gătită temeinic înainte de consum și nu consumată crudă, iar deoarece este rară sau în declin local în mai multe regiuni europene, se recomandă reținere la cules.",
+      "confusion": "Macrolepiota procera este considerabil mai mare și are pe picior benzi pronunțate în zig-zag de culoare brun închis, asemănătoare pielii de șarpe, în locul petelor fine și palide. Macrolepiota konradii este strâns înrudită și uneori tratată ca varietate, deosebindu-se prin solzii mai mari și mai rari, în formă de stea, de pe pălărie. Chlorophyllum rhacodes, Chlorophyllum olivieri și otrăvitoarea Chlorophyllum brunneum au solzi mai grosolani și răsfrânți pe pălărie, picioare netede fără desen și carne care devine portocaliu-roșie sau șofran-roșie la tăiere. Otrăvitoarea Chlorophyllum molybdites produce o amprentă sporală verzuie și are lamelele mature cu tentă verzuie. Speciile mici, potențial mortale, din genul Lepiota, precum Lepiota brunneoincarnata și Lepiota cristata, rămân de obicei mult sub 10 cm în diametru, au inele fragile și fixe și sunt lipsite de mamelonul central proeminent.",
+      "notes": "Limitele taxonomice din jurul speciei Macrolepiota mastoidea rămân activ dezbătute: mai multe forme europene zvelte sau solzoase, inclusiv Macrolepiota rickenii, Macrolepiota gracilenta și Macrolepiota konradii, sunt tratate ca sinonime sau varietăți de unii autori și ca specii distincte de alții. Deși neevaluată la nivel global, specia este rară și inclusă ca vulnerabilă (Vulnerable) pe listele roșii naționale din părți ale Europei de nord-vest, inclusiv Țările de Jos. În testele microchimice, carnea dă o reacție roșu-purpuriu care trece în brun cu fenolanilină și brună cu lactofenol, rămânând negativă cu anilină și alfa-naftol."
+    },
+    "ru": {
+      "description": "Средний или крупный сапротрофный гриб-зонтик, плодоносящий одиночно или небольшими группами по всей Европе, включая Великобританию и Ирландию, а также в умеренных областях Азии, Китае, Северной и Южной Америке и тропической Африке. Предпочитает сухие, открытые известковые почвы на лесных полянах, травянистых опушках, лугах и прибрежных песчаных дюнах.",
+      "cap": "Шляпка диаметром 6–15 см (чаще всего 8–12 см). Сначала яйцевидная или колокольчатая с подогнутым краем, затем ширококоническая и наконец распростертая, но сохраняющая отчетливый округло-заостренный сосцевидный бугорок в центре. Беловато-кремовая или бледно-охристая поверхность растрескивается на мелкие прижатые или волокнистые охристо-коричневые, орехово-коричневые или красновато-коричневые чешуйки, наиболее густые и темные на цельном бугорке и слабо контрастирующие со светлым фоном.",
+      "hymenium": "Пластинки широкие, частые, свободные, белые или бледно-кремовые, иногда разветвленные и с возрастом приобретающие розовато-кремовый или слабо-буроватый оттенок по краю; у ножки они образуют отчетливый коллариум. Базидии булавовидные, четырехспоровые, 35–40 × 8–10 мкм, со стеригмами длиной 3,5–4 мкм, с редкими или малозаметными пряжками. Тонкостенные гиалиновые хейлоцистиды булавовидные, бутыльчатые или веретеновидные, 27–40 × 8–15 мкм; плевроцистиды отсутствуют.",
+      "stipe": "Ножка стройная, цилиндрическая, высотой 7–16 см (изредка до 18 см) и толщиной 0,6–1,5 см, слегка сужающаяся кверху и расширенная в основании в небольшой клубень шириной до 2,2 см. Волокнистая и жесткая, сначала выполненная, затем полая, легко отделяется от шляпки; выше кольца бледно-кремовая или беловатая, ниже покрыта мелкими тесно расположенными бледно-желтовато-коричневыми или охристо-буроватыми чешуйками или крапинками. В верхней части ножки расположено пленчатое подвижное кольцо с простым или двойным краем, беловатое сверху и бледно-коричневое по краю и снизу.",
+      "flesh": "Мякоть белая, мягкая или ватообразная в шляпке, более жесткая и волокнистая в ножке. В отличие от краснеющих грибов-зонтиков, на срезе и при повреждении не краснеет, хотя с возрастом или при надавливании может медленно приобретать слабый буроватый оттенок. Запах слабый, мягкий, грибной или напоминающий топленое масло; вкус мягкий, приятно ореховый.",
+      "sporePrint": "Споровый порошок белый или бледно-кремовый. Споры гладкие, гиалиновые, эллипсоидные или слегка миндалевидные, 12–16 × 8–9,5 мкм (изредка до 18–19 × 10–10,5 мкм), декстриноидные (окрашиваются в красновато-коричневый цвет в реактиве Мельцера) и метахроматичные, с ростковой порой, прикрытой прозрачным линзовидным колпачком.",
+      "habitat": "Сапротроф на сухих, бедных или умеренно богатых питательными веществами известковых почвах; плодоносит рассеянно или небольшими группами на лесных полянах, травянистых опушках лиственных и хвойных лесов, в светлых буковых и дубово-грабовых лесах, можжевеловых пустошах, на лугах, в парках и на обогащенных ракушечником прибрежных песчаных дюнах. Плодовые тела в большей части Европы появляются преимущественно с июля по ноябрь, в более теплых регионах уже с мая, а на юге — до поздней осени.",
+      "uses": "Хороший съедобный гриб с мягким ореховым вкусом, сравнимым с Macrolepiota procera, хотя и менее мясистый. В пищу используют только нежные шляпки, поскольку ножки жесткие и волокнистые. Перед употреблением гриб необходимо тщательно термически обрабатывать и не есть сырым; учитывая его редкость или локальное сокращение численности в ряде европейских регионов, рекомендуется проявлять умеренность при сборе.",
+      "confusion": "Macrolepiota procera значительно крупнее и имеет выраженный темно-коричневый змеевидный зигзагообразный рисунок на ножке вместо мелкой бледной крапчатости. Macrolepiota konradii близкородственна и иногда рассматривается как разновидность, но отличается более крупными и редкими звездчатыми чешуйками на шляпке. Chlorophyllum rhacodes, Chlorophyllum olivieri и ядовитый Chlorophyllum brunneum обладают более грубыми оттопыренными чешуйками на шляпке, гладкой ножкой без рисунка и мякотью, окрашивающейся на срезе в оранжево-красный или шафраново-красный цвет. Ядовитый Chlorophyllum molybdites дает зеленоватый споровый порошок и имеет зеленоватый оттенок зрелых пластинок. Мелкие, потенциально смертельно ядовитые виды рода Lepiota, такие как Lepiota brunneoincarnata и Lepiota cristata, обычно не достигают 10 см в диаметре, имеют хрупкое неподвижное кольцо и лишены выраженного сосцевидного бугорка.",
+      "notes": "Таксономические границы вокруг Macrolepiota mastoidea остаются предметом дискуссий: ряд стройных или чешуйчатых европейских форм, включая Macrolepiota rickenii, Macrolepiota gracilenta и Macrolepiota konradii, одни авторы считают синонимами или разновидностями, а другие — самостоятельными видами. Хотя на глобальном уровне статус вида не оценивался, в ряде стран Северо-Западной Европы, включая Нидерланды, он редок и включен в национальные красные списки в категории уязвимого (Vulnerable). В микрохимических тестах мякоть дает с феноланилином пурпурно-красную реакцию, переходящую в коричневую, и коричневую с лактофенолом, оставаясь отрицательной с анилином и альфа-нафтолом."
+    },
+    "sk": {
+      "description": "Stredne veľká až veľká saprotrofná bedľa, ktorá rastie jednotlivo alebo v menších skupinách v celej Európe vrátane Británie a Írska a zasahuje aj do mierneho pásma Ázie, Číny, Severnej a Južnej Ameriky a tropickej Afriky. Uprednostňuje suché, otvorené vápnité pôdy na lesných čistinkách, trávnatých okrajoch lesov, lúkach a pobrežných piesočných dunách.",
+      "cap": "Klobúk má priemer 6–15 cm (najčastejšie 8–12 cm). Za mladi je vajcovitý až zvoncovitý s podvinutým okrajom, neskôr sa rozprestiera do široko kužeľovitého až plochého tvaru, pričom si zachováva výrazný, zaoblene končitý stredový hrboľ pripomínajúci bradavku. Belavý až bledo krémovookrový povrch sa rozpukáva na jemné, pritisnuté až vláknité okrovohnedé, lieskovohnedé alebo červenkastohnedé šupiny, ktoré sú najhustejšie a najtmavšie na neporušenom hrboli a málo kontrastujú so svetlým podkladom.",
+      "hymenium": "Široké, husté, voľné biele až bledo krémové lupene — občas vidlicovito rozvetvené a v starobe niekedy na ostrí slabo ružovkastokrémovo alebo hnedasto sfarbené — sú od hlúbika zreteľne oddelené prstencovitým golierikom (koláriom). Bazídiá sú kyjakovité, štvorvýtrusné, veľké 35–40 × 8–10 µm so sterigmami dlhými 3,5–4 µm a nesú riedke alebo nenápadné pracky. Tenkostenné hyalínne cheilocystidy sú kyjakovité, fľaškovité alebo vretenovité, 27–40 × 8–15 µm; pleurocystidy chýbajú.",
+      "stipe": "Štíhly valcovitý hlúbik je vysoký 7–16 cm (výnimočne až 18 cm) a hrubý 0,6–1,5 cm, smerom k vrcholu sa mierne zužuje a na báze sa rozširuje do nevýraznej hľuzy širokej do 2,2 cm. Je vláknitý a húževnatý, za mladi plný, neskôr dutý, ľahko oddeliteľný od klobúka, nad prsteňom bledo krémový až belavý a pod ním pokrytý jemnými, husto usporiadanými bledo žltohnedými až okrovohnedými šupinkami alebo bodkovaním. Hornú časť hlúbika obopína blanitý, posuvný prsteň s jednoduchým až dvojitým okrajom, na vrchnej strane belavý a na okraji i zospodu bledo hnedastý.",
+      "flesh": "Dužina je v klobúku biela a mäkká až vatovitá, v hlúbiku húževnatejšia a vláknitá. Na rozdiel od červenejúcich druhov bedlí na reze ani po otlačení nečervenie, hoci v starobe alebo po manipulácii môže pomaly slabo hnednúť. Vôňa je nevýrazná, jemne hubová alebo pripomínajúca roztopené maslo, chuť je mierna a príjemne oriešková.",
+      "sporePrint": "Výtrusný prach je biely až bledo krémový. Výtrusy sú hladké, hyalínne, elipsoidné až mierne mandľovité, 12–16 × 8–9,5 µm (ojedinele až 18–19 × 10–10,5 µm), dextrinoidné (v Melzerovom činidle sa farbia červenohnedo) a metachromatické, s klíčnym pórom prekrytým priehľadnou šošovkovitou čiapočkou.",
+      "habitat": "Saprotrofná huba rastúca na suchých, živinami chudobných až stredne bohatých vápnitých pôdach, roztrúsene alebo v malých skupinách na lesných čistinkách, trávnatých okrajoch listnatých aj ihličnatých lesov, v presvetlených bučinách a dubovo-hrabových lesoch, na borievkových vresoviskách, lúkach, v parkoch a na pobrežných piesočných dunách obohatených o úlomky schránok. Plodnice sa vo väčšine Európy objavujú najmä od júla do novembra, v teplejších oblastiach už od mája a na juhu pretrvávajú až do neskorej jesene.",
+      "uses": "Dobrá jedlá huba s jemnou orieškovou chuťou porovnateľnou s bedľou vysokou (Macrolepiota procera), hoci je menej mäsitá. Na kulinárske spracovanie sa používajú iba krehké klobúky, pretože hlúbiky sú tvrdé a vláknité. Pred konzumáciou sa musí dôkladne tepelne upraviť a nesmie sa jesť surová; keďže je vo viacerých európskych regiónoch zriedkavá alebo lokálne ubúda, odporúča sa pri zbere zdržanlivosť.",
+      "confusion": "Bedľa vysoká (Macrolepiota procera) je podstatne väčšia a na hlúbiku má výrazné tmavohnedé kľukaté pásy pripomínajúce hadiu kožu namiesto jemného svetlého bodkovania. Blízko príbuzná bedľa Konradova (Macrolepiota konradii), niekedy hodnotená len ako varieta, sa líši väčšími a redšími hviezdicovitými šupinami na klobúku. Bedľa červenejúca (Chlorophyllum rhacodes), bedľa Olivierova (Chlorophyllum olivieri) a jedovatá bedľa záhradná (Chlorophyllum brunneum) majú hrubšie, odstávajúce šupiny na klobúku, hladký nezdobený hlúbik a dužinu, ktorá na reze oranžovočervenie až šafranovo červenie. Jedovatý druh Chlorophyllum molybdites má zelenkastý výtrusný prach a v dospelosti zelenkasto sfarbené lupene. Drobné, potenciálne smrteľne jedovaté druhy rodu Lepiota, ako sú bedlička hnedočervená (Lepiota brunneoincarnata) a bedlička hrebenitá (Lepiota cristata), spravidla zostávajú hlboko pod priemerom 10 cm, majú krehký neposuvný prsteň a chýba im výrazný bradavkovitý hrboľ.",
+      "notes": "Taxonomické vymedzenie druhu Macrolepiota mastoidea zostáva predmetom aktívnej diskusie: viaceré štíhle alebo šupinaté európske formy — vrátane Macrolepiota rickenii, Macrolepiota gracilenta a Macrolepiota konradii — niektorí autori považujú za synonymá alebo variety a iní za samostatné druhy. Hoci nebola celosvetovo vyhodnotená, v častiach severozápadnej Európy vrátane Holandska je vzácna a v národných červených zoznamoch je zaradená ako zraniteľný druh (Vulnerable). Pri mikrochemických skúškach dužina reaguje s fenolanilínom purpurovočerveno s prechodom do hneda a s laktofenolom hnedo, zatiaľ čo s anilínom a alfa-naftolom zostáva reakcia negatívna."
+    },
+    "sl": {
+      "description": "Srednje velika do velika saprotrofna goba, ki uspeva posamično ali v manjših skupinah po vsej Evropi, vključno z Britanijo in Irsko, ter sega v zmerne predele Azije, Kitajsko, Severno in Južno Ameriko ter tropsko Afriko. Najraje ima suha, odprta apnenčasta tla na gozdnih jasah, travnatih gozdnih robovih, travnikih in obalnih peščenih sipinah.",
+      "cap": "Klobuk meri 6–15 cm v premeru (najpogosteje 8–12 cm). Sprva je jajčast do zvonast s podvihanim robom, nato se razpre v široko stožčastega in končno ravnega, pri čemer ohrani izrazito, zaobljeno-zašiljeno osrednjo grbico. Belkasta do bledo kremasto-okrasta površina razpoka v drobne, prilegle do vlaknate okrasto-rjave, lešnikovo-rjave ali rdečkasto-rjave luske, ki so najgostejše in najtemnejše na celi grbici ter slabo kontrastirajo s svetlo podlago.",
+      "hymenium": "Lističi so široki, gosti, prosti, beli do bledo kremasti, občasno viličasti in v starosti včasih rožnato-kremasti ali rahlo rjavkasti po ostrinki; pri betu se zaključujejo v izrazitem obročastem ovratniku. Bazidiji so kijasti, štiritrosni, 35–40 × 8–10 µm, s sterigmami dolgimi 3,5–4 µm ter redkimi ali neopaznimi zaponkami. Tankostenske, hialine heilocistide so kijaste, stekleničaste ali vretenaste, 27–40 × 8–15 µm; plevrocistid ni.",
+      "stipe": "Bet je vitek, valjast, visok 7–16 cm (občasno do 18 cm) in debel 0,6–1,5 cm, rahlo zožen proti vrhu, v dnišču pa se odebeli v zmeren gomolj, širok do 2,2 cm. Je vlaknat in žilav, sprva poln, pozneje votel, ter se zlahka loči od klobuka; nad obročkom je bledo kremast do belkast, pod njim pa pokrit z drobnimi, gosto razporejenimi bledo rumenkasto-rjavimi do okrasto-rjavkastimi luskicami ali pikicami. Zgornji del beta obdaja kožnat, premičen obroček z enojnim do dvojnim robom, belkast zgoraj ter bledo rjav po robu in spodaj.",
+      "flesh": "Meso je belo, mehko ali vatasto v klobuku ter trše in vlaknato v betu. V nasprotju z rdečečimi podobnimi vrstami meso na prerezu ali pri poškodbi ne pordi, čeprav lahko s starostjo ali pri prijemanju počasi rahlo porjavi. Vonj je blag, rahlo gobast ali spominja na stopljeno maslo, okus pa je blag in prijetno oreškast.",
+      "sporePrint": "Trosni prah je bel do bledo kremast. Trosi so gladki, hialini, elipsoidni do rahlo mandljasti, 12–16 × 8–9,5 µm (občasno do 18–19 × 10–10,5 µm), dekstrinoidni (v Melzerjevem reagentu se obarvajo rdečkasto-rjavo) in metakromatični, s kalitveno poro, prekrito s prozorno lečasto kapico.",
+      "habitat": "Saprotrofna vrsta na suhih, s hranili revnih do zmerno bogatih apnenčastih tleh; raste raztreseno ali v manjših skupinah na gozdnih jasah, travnatih robovih listnatih in iglastih gozdov, v sončnih bukovih in hrastovo-gabrovih gozdovih, brinjevih resavah, na travnikih, v parkih in na s školjkami obogatenih obalnih peščenih sipinah. Trosnjaki se v večjem delu Evrope pojavljajo predvsem od julija do novembra, v toplejših krajih že od maja, na jugu pa vse do pozne jeseni.",
+      "uses": "Dobra užitna goba z blagim oreškastim okusom, primerljivim z vrsto Macrolepiota procera, vendar manj mesnata. Za kuhanje so uporabni le nežni klobuki, saj so beti trdi in vlaknati. Pred uživanjem jo je treba temeljito toplotno obdelati in je ne jesti surove; ker je v več evropskih regijah redka ali lokalno upada, je priporočljiva zmernost pri nabiranju.",
+      "confusion": "Macrolepiota procera je bistveno večja in ima na betu izrazit temno rjav kačast cikcakast vzorec namesto drobnih bledih pikic. Macrolepiota konradii je tesno sorodna in jo včasih obravnavajo kot varieteto, razlikuje pa se po večjih, redkejših zvezdastih luskah na klobuku. Chlorophyllum rhacodes, Chlorophyllum olivieri in strupeni Chlorophyllum brunneum imajo bolj grobe, štrleče luske na klobuku, gladke neprogaste bete in meso, ki na prerezu postane oranžno-rdeče ali žafranasto-rdeče. Strupeni Chlorophyllum molybdites ima zelenkast trosni prah in zelenkasto obarvane zrele lističe. Majhne, potencialno smrtno strupene vrste rodu Lepiota, kot sta Lepiota brunneoincarnata in Lepiota cristata, običajno ostanejo precej pod 10 cm v premeru, imajo krhek nepremičen obroček in nimajo izrazite osrednje grbice.",
+      "notes": "Taksonomske meje okoli vrste Macrolepiota mastoidea ostajajo predmet razprav: več vitkih ali luskastih evropskih oblik, vključno z Macrolepiota rickenii, Macrolepiota gracilenta in Macrolepiota konradii, nekateri avtorji obravnavajo kot sinonime ali varietete, drugi pa kot samostojne vrste. Čeprav globalno ni bila ocenjena, je vrsta redka in uvrščena kot ranljiva (Vulnerable) na nacionalnih rdečih seznamih v delih severozahodne Evrope, vključno z Nizozemsko. Pri mikrokemičnih preizkusih daje meso s fenolanilinom škrlatno-rdečo reakcijo, ki prehaja v rjavo, in rjavo z laktofenolom, medtem ko z anilinom in alfa-naftolom ostane negativno."
+    },
+    "sr": {
+      "description": "Средње крупна до крупна сапротрофна гљива која плодоноси појединачно или у мањим групама широм Европе, укључујући Британију и Ирску, а простире се и у умереним деловима Азије, Кини, Северној и Јужној Америци и тропској Африци. Преферира сува, отворена кречњачка земљишта на шумским чистинама, травнатим ободима шума, ливадама и приобалним пешчаним динама.",
+      "cap": "Шешир је пречника 6–15 см (најчешће 8–12 см). У почетку је јајаст до звонаст са подвијеним рубом, затим се шири у широко купаст и на крају раван облик, задржавајући изражено, заобљено-зашиљено средишње испупчење. Беличаста до бледо крем-окер површина пуца у ситне, приљубљене до влакнасте окер-смеђе, лешниково-смеђе или црвенкасто-смеђе љуспице, најгушће и најтамније на целој грбици, са слабим контрастом у односу на светлу подлогу.",
+      "hymenium": "Листићи су широки, густи, слободни, бели до бледо кремасти, повремено рачвасти и са старењем понекад ружичасто-кремасти или благо смећкасти по ивици; уз дршку се завршавају у јасном прстенастом коларијуму. Базидије су батинасте, четвороспорне, 35–40 × 8–10 мкм, са стеригмама дугим 3,5–4 мкм и ретким или неупадљивим копчама. Танкозидне, хијалине хеилоцистиде су батинасте, боцасте или вретенасте, 27–40 × 8–15 мкм; плеуроцистиде недостају.",
+      "stipe": "Дршка је витка, цилиндрична, висока 7–16 см (повремено до 18 см) и дебела 0,6–1,5 см, благо сужена ка врху и проширена у основи у умерено луковичасто задебљање ширине до 2,2 см. Влакнаста је и жилава, у почетку пуна, а затим шупља, лако се одваја од шешира; изнад прстена је бледо кремаста до беличаста, а испод покривена ситним, густо распоређеним бледо жућкасто-смеђим до окер-смећкастим љуспицама или пегицама. Горњи део дршке обухвата опнаст, покретан прстен једноструке до двоструке ивице, беличаст одозго и бледо смеђ по рубу и са доње стране.",
+      "flesh": "Месо је бело, мекано или памучасто у шеширу, а тврђе и влакнасто у дршци. За разлику од сличних врста које црвене, месо не црвени на пресеку нити при оштећењу, иако са старењем или при додиру може полако благо да посмеђи. Мирис је благ, благо гљиваст или подсећа на отопљени маслац, а укус је благ и пријатно орашаст.",
+      "sporePrint": "Отисак спора је бео до бледо кремаст. Споре су глатке, хијалине, елипсоидне до благо бадемасте, 12–16 × 8–9,5 мкм (повремено до 18–19 × 10–10,5 мкм), декстриноидне (боје се црвенкасто-смеђе у Мелцеровом реагенсу) и метахроматичне, са клијавом пором прекривеном провидном сочивастом капицом.",
+      "habitat": "Сапротрофна врста на сувим, хранљивим материјама сиромашним до умерено богатим кречњачким земљиштима; расте расуто или у мањим групама на шумским чистинама, травнатим ободима листопадних и четинарских шума, у осунчаним буковим и храстово-грабовим шумама, клековим вресиштима, на ливадама, у парковима и на приобалним пешчаним динама богатим шкољкама. Плодна тела се у већем делу Европе појављују углавном од јула до новембра, у топлијим пределима већ од маја, а на југу све до касне јесени.",
+      "uses": "Добра јестива гљива благог орашастог укуса упоредивог са врстом Macrolepiota procera, иако мање месната. У кухињи се користе само нежни шешири, јер су дршке жилаве и влакнасте. Пре јела треба је темељно термички обрадити и не јести сирову, а пошто је у више европских региона ретка или локално у опадању, препоручује се умереност при брању.",
+      "confusion": "Macrolepiota procera је знатно крупнија и на дршци има изразите тамносмеђе змијолике цик-цак шаре уместо ситне бледе пегавости. Macrolepiota konradii је блиско сродна и понекад се третира као варијетет, а разликује се по крупнијим и ређим звездастим љускама на шеширу. Chlorophyllum rhacodes, Chlorophyllum olivieri и отровна Chlorophyllum brunneum имају грубље, накострешене љуске на шеширу, глатке нешаране дршке и месо које на пресеку постаје наранџасто-црвено или шафранасто-црвено. Отровна Chlorophyllum molybdites даје зеленкаст отисак спора и има зеленкасто обојене зреле листиће. Ситне, потенцијално смртно отровне врсте рода Lepiota, као што су Lepiota brunneoincarnata и Lepiota cristata, обично остају знатно испод 10 см у пречнику, имају крхак непокретан прстен и немају изражено средишње испупчење.",
+      "notes": "Таксономске границе око врсте Macrolepiota mastoidea и даље су предмет расправа: неколико витких или љускавих европских облика, укључујући Macrolepiota rickenii, Macrolepiota gracilenta и Macrolepiota konradii, једни аутори сматрају синонимима или варијететима, а други засебним врстама. Иако није процењена на глобалном нивоу, врста је ретка и наведена као рањива (Vulnerable) на националним црвеним листама у деловима северозападне Европе, укључујући Холандију. У микрохемијским тестовима месо са феноланилином даје пурпурноцрвену реакцију која прелази у смеђу, а са лактофенолом смеђу, док са анилином и алфа-нафтолом остаје негативно."
+    },
+    "sv": {
+      "description": "En medelstor till stor saprotrof fjällskivling som fruktificerar enstaka eller i små grupper i hela Europa, inklusive Storbritannien och Irland, och vidare in i tempererade delar av Asien, Kina, Nord- och Sydamerika samt tropiska Afrika. Den föredrar torr, öppen, kalkrik mark i skogsgläntor, gräsrika skogsbryn, ängar och kustdyner.",
+      "cap": "Hatten är 6–15 cm i diameter (vanligast 8–12 cm). Den är först äggformad till klocklik med inböjd kant, men breder sedan ut sig till brett kägelformad och slutligen utbredd med en tydlig, avrundat spetsig, bröstvårtliknande puckel i mitten. Den vitaktiga till blekt gräddockra ytan spricker upp i fina, tilltryckta till trådiga ockrabruna, hasselnötsbruna eller rödbruna fjäll som sitter tätast och är mörkast över den hela puckeln, med låg kontrast mot den ljusa bottnen.",
+      "hymenium": "Breda, tätt sittande, fria, vita till blekt gräddvita skivor – ibland gaffelgrenade och med åldern stundom svagt rosagräddtonade eller lätt brunaktiga längs eggen – slutar i en tydlig ringformad krage en bit från foten. Basidierna är klubblika, fyrsporiga, 35–40 × 8–10 µm med 3,5–4 µm långa sterigmer, och har sparsamma eller otydliga söljor. Tunnväggiga, hyalina keilocystider är klubblika, flasklika eller spolformade och mäter 27–40 × 8–15 µm; pleurocystider saknas.",
+      "stipe": "Den slanka, cylindriska foten är 7–16 cm hög (ibland upp till 18 cm) och 0,6–1,5 cm tjock, smalnar av något mot toppen och vidgar sig vid basen till en måttlig knöl på upp till 2,2 cm i bredd. Den är trådig och seg, först fylld men senare ihålig, lossnar lätt från hatten, är blekt gräddvit till vitaktig ovanför ringen och täckt nedanför av fina, tätt sittande blekt gulbruna till ockrabruna fjäll eller småprickar. En hinnartad, förskjutbar ring med enkel till dubbel kant – vitaktig på ovansidan och blekt brun längs kanten och på undersidan – omsluter fotens övre del.",
+      "flesh": "Vitt och mjukt eller bomullsartat i hatten, segare och trådigare i foten. Till skillnad från rodnande förväxlingsarter rodnar köttet inte vid snitt eller tryck, även om det långsamt kan bli svagt brunaktigt med åldern eller vid hantering. Doften är mild och svagt svampartad eller påminner om smält smör, och smaken är mild och behagligt nötaktig.",
+      "sporePrint": "Sporavtrycket är vitt till blekt gräddvitt. Sporerna är släta, hyalina, ellipsoidiska till svagt mandelformade, 12–16 × 8–9,5 µm (ibland upp till 18–19 × 10–10,5 µm), dextrinoida (färgas rödbruna i Melzers reagens) och metakromatiska, med en groddpor täckt av en genomskinlig linsformad hätta.",
+      "habitat": "Saprotrof på torr, näringsfattig till måttligt näringsrik kalkrik mark, där den växer spridd eller i små grupper i skogsgläntor, gräsrika bryn av löv- och barrskog, soliga bok- och ek-avenboksskogar, enhedar, ängar, parker och skalrika kustdyner. Fruktkropparna uppträder främst från juli till november i större delen av Europa, redan från maj i varmare trakter och längre fram under hösten i söder.",
+      "uses": "En god matsvamp med mild, nötaktig smak som är jämförbar med Macrolepiota procera, om än mindre köttig. Endast de möra hattarna används i matlagningen, eftersom fötterna är sega och trådiga. Den bör tillagas grundligt innan den äts och inte konsumeras rå, och eftersom den är ovanlig eller lokalt på tillbakagång i flera delar av Europa rekommenderas återhållsamhet vid plockning.",
+      "confusion": "Macrolepiota procera är betydligt större och har kraftiga, mörkbruna ormskinnsliknande sicksackband på foten i stället för fin, blek prickighet. Macrolepiota konradii är närstående och behandlas ibland som en varietet, men skiljer sig genom större, glesare, stjärnlika hattfjäll. Chlorophyllum rhacodes, Chlorophyllum olivieri och den giftiga Chlorophyllum brunneum har grövre, utstående hattfjäll, släta omönstrade fötter och kött som färgas orangerött eller saffransrött vid snitt. Den giftiga Chlorophyllum molybdites ger ett grönaktigt sporavtryck och får gröntonade skivor som mogen. Små, potentiellt dödligt giftiga arter inom släktet Lepiota, såsom Lepiota brunneoincarnata och Lepiota cristata, stannar i regel långt under 10 cm i hattbredd, har sköra, icke förskjutbara ringar och saknar den framträdande bröstvårtliknande puckeln.",
+      "notes": "De taxonomiska gränserna kring Macrolepiota mastoidea är fortsatt omdebatterade: flera slanka eller fjälliga europeiska former – däribland Macrolepiota rickenii, Macrolepiota gracilenta och Macrolepiota konradii – betraktas som synonymer eller varieteter av vissa auktorer och som egna arter av andra. Även om arten inte är globalt bedömd är den sällsynt och upptagen som Sårbar (Vulnerable) på nationella rödlistor i delar av nordvästra Europa, däribland Nederländerna. I mikrokemiska tester ger köttet en purpurröd reaktion som övergår i brunt med fenolanilin samt brun reaktion med laktofenol, medan reaktionerna med anilin och alfa-naftol förblir negativa."
+    },
+    "tr": {
+      "description": "Britanya ve İrlanda dâhil Avrupa genelinde tek tek veya küçük gruplar hâlinde meyve veren, ılıman Asya, Çin, Kuzey ve Güney Amerika ile tropikal Afrika'ya kadar yayılan orta ila büyük boylu saprotrof bir şemsiye mantarıdır. Orman açıklıklarındaki, otlu orman kenarlarındaki, çayırlardaki ve kıyı kumullarındaki kuru, açık, kireçli toprakları tercih eder.",
+      "cap": "Şapka 6–15 cm çapındadır (en yaygın 8–12 cm). Başlangıçta yumurtamsı ila çan şeklinde ve kenarı içe kıvrıkken, zamanla geniş konik ve sonunda düzleşir; ancak ortasında belirgin, yuvarlak-sivri meme benzeri bir tümseği korur. Beyazımsı ila soluk krem-okra renkli yüzey, sağlam kalan tümsek üzerinde en yoğun ve en koyu olan, açık zeminle düşük kontrast oluşturan ince, yatık ila lifsi okra-kahverengi, fındık kahverengisi veya kızılımsı kahverengi pullara ayrılır.",
+      "hymenium": "Lameller geniş, sık, serbest, beyaz ila soluk krem renklidir; zaman zaman çatallanır ve yaşlandıkça kenar boyunca pembe-krem veya hafif kahverengimsi bir ton alabilir; saptan belirgin biçimde ayrılan halka benzeri bir yaka ile sonlanır. Bazidiyumlar lobut biçimli, dört sporlu, 35–40 × 8–10 µm boyutlarında, 3,5–4 µm uzunluğunda sterigmalı olup seyrek veya belirsiz kelepçe bağlantılarına sahiptir. İnce çeperli, şeffaf keylosistidyumlar lobut, şişe veya iğ biçimli, 27–40 × 8–15 µm boyutlarındadır; plevrosistidyum bulunmaz.",
+      "stipe": "İnce ve silindirik sap 7–16 cm boyunda (bazen 18 cm'ye kadar) ve 0,6–1,5 cm kalınlığındadır; tepeye doğru hafifçe incelir ve tabanda 2,2 cm genişliğe kadar ulaşan mütevazı bir yumru oluşturur. Lifli ve sert yapılıdır, başlangıçta doluyken sonradan içi boşalır ve şapkadan kolayca ayrılır; yüzüğün üstünde soluk krem ila beyazımsı, altında ise ince, sık dizilmiş soluk sarımsı kahverengi ila okra-bej pullar veya beneklerle kaplıdır. Sapın üst kısmını, üstü beyazımsı, kenarı ve altı soluk kahverengi olan, basit ila çift kenarlı zarsı ve hareketli bir yüzük çevreler.",
+      "flesh": "Etli kısım şapkada beyaz, yumuşak veya pamuksu, sapta ise daha sert ve liflidir. Kızaran benzer şemsiye mantarlarının aksine kesildiğinde veya zedelendiğinde kızarmaz; ancak yaşlandıkça veya dokunulduğunda yavaşça hafif kahverengimsi bir renk alabilir. Kokusu hafif, hoş mantarımsı veya eritilmiş tereyağını andırır; tadı yumuşak ve hoş fındıksıdır.",
+      "sporePrint": "Spor izi beyaz ila soluk krem rengindedir. Sporlar pürüzsüz, şeffaf, elipsoid ila hafif badem biçimli, 12–16 × 8–9,5 µm (bazen 18–19 × 10–10,5 µm'ye kadar), dekstrinoid (Melzer reaktifinde kızılımsı kahverengiye boyanır) ve metakromatik olup şeffaf mercek biçimli bir başlıkla örtülü çimlenme poruna sahiptir.",
+      "habitat": "Kuru, besin açısından fakir ila orta düzeyde zengin kireçli topraklarda saprotroftur; orman açıklıklarında, yapraklı ve iğne yapraklı ormanların otlu kenarlarında, güneşli kayın ve meşe-gürgen ormanlarında, ardıç fundalıklarında, çayırlarda, parklarda ve kabuklu deniz canlısı kalıntılarınca zengin kıyı kumullarında dağınık veya küçük gruplar hâlinde meyve verir. Mantar gövdeleri Avrupa'nın büyük bölümünde ağırlıklı olarak temmuzdan kasıma kadar görülür; daha sıcak bölgelerde mayıs gibi erken bir dönemde başlayıp güneyde sonbaharın ilerleyen dönemlerine kadar uzanır.",
+      "uses": "Daha az etli olmakla birlikte Macrolepiota procera ile karşılaştırılabilir yumuşak ve fındıksı bir tada sahip iyi bir yenilebilir mantardır. Sapları sert ve lifli olduğundan mutfakta yalnızca körpe şapkalar kullanılır. Çiğ tüketilmemeli, yemeden önce iyice pişirilmelidir; çeşitli Avrupa bölgelerinde nadir olması veya yerel olarak azalması nedeniyle toplarken ölçülü olunması önerilir.",
+      "confusion": "Macrolepiota procera belirgin biçimde daha büyüktür ve sapında ince soluk benekler yerine koyu kahverengi, yılan derisini andıran belirgin zikzak bantlar taşır. Macrolepiota konradii yakın akrabadır ve bazen bir varyete olarak değerlendirilir; şapkadaki daha iri ve seyrek yıldızsı pullarıyla ayrılır. Chlorophyllum rhacodes, Chlorophyllum olivieri ve zehirli Chlorophyllum brunneum şapkada daha kaba ve kıvrık pullara, desensiz pürüzsüz saplara ve kesildiğinde turuncu-kırmızıya veya safran kırmızısına dönen etli kısma sahiptir. Zehirli Chlorophyllum molybdites yeşilimsi bir spor izi bırakır ve olgun lamelleri yeşilimsi tonludur. Lepiota brunneoincarnata ve Lepiota cristata gibi küçük, potansiyel olarak ölümcül Lepiota türleri genellikle 10 cm çapın oldukça altında kalır, kırılgan ve sabit yüzüklere sahiptir ve belirgin meme benzeri tümsekten yoksundur.",
+      "notes": "Macrolepiota mastoidea çevresindeki taksonomik sınırlar hâlen aktif olarak tartışılmaktadır: Macrolepiota rickenii, Macrolepiota gracilenta ve Macrolepiota konradii dâhil olmak üzere çeşitli ince veya pullu Avrupa formları bazı otoritelerce sinonim veya varyete, diğerlerince ayrı tür olarak ele alınmaktadır. Küresel ölçekte değerlendirilmemiş olmakla birlikte tür, Hollanda dâhil kuzeybatı Avrupa'nın bazı bölümlerinde nadirdir ve ulusal kırmızı listelerde hassas (Vulnerable) kategorisinde yer alır. Mikrokimyasal testlerde etli kısım fenolanilin ile kahverengiye dönen morumsu kırmızı, laktofenol ile kahverengi tepkime verir; anilin ve alfa-naftol ile ise tepkime vermez."
+    },
+    "uk": {
+      "description": "Середній або великий сапротрофний гриб-парасолька, що плодоносить поодинці або невеликими групами по всій Європі, включно з Великою Британією та Ірландією, а також у помірних регіонах Азії, Китаї, Північній і Південній Америці та тропічній Африці. Віддає перевагу сухим, відкритим вапняковим ґрунтам на лісових галявинах, трав'янистих узліссях, луках і прибережних піщаних дюнах.",
+      "cap": "Шапинка діаметром 6–15 см (найчастіше 8–12 см). Спочатку яйцеподібна або дзвоникоподібна із загнутим краєм, згодом ширококонічна і нарешті розпростерта, але зберігає помітний округло-загострений центральний соскоподібний горбок. Білувата або блідо-кремово-вохриста поверхня розтріскується на дрібні притиснуті або волокнисті вохристо-коричневі, ліщиново-коричневі чи червонувато-коричневі лусочки, найгустіші й найтемніші на цілісному горбку та малоконтрастні на світлому тлі.",
+      "hymenium": "Пластинки широкі, густі, вільні, білі або блідо-кремові, іноді розгалужені, з віком подекуди з рожевувато-кремовим або слабко-буруватим відтінком по краю; біля ніжки утворюють чіткий кільцеподібний коларіум. Базидії булавоподібні, чотириспорові, 35–40 × 8–10 мкм, зі стеригмами завдовжки 3,5–4 мкм, із рідкісними або малопомітними пряжками. Тонкостінні гіалінові хейлоцистиди булавоподібні, пляшкоподібні або веретеноподібні, 27–40 × 8–15 мкм; плевроцистиди відсутні.",
+      "stipe": "Ніжка струнка, циліндрична, заввишки 7–16 см (зрідка до 18 см) і завтовшки 0,6–1,5 см, злегка звужується до верхівки та розширюється біля основи в невелику бульбу завширшки до 2,2 см. Волокниста й жорстка, спочатку суцільна, згодом порожниста, легко відділяється від шапинки; над кільцем блідо-кремова або білувата, нижче вкрита дрібними щільно розташованими блідо-жовтувато-коричневими чи вохристо-буруватими лусочками або цяточками. У верхній частині ніжки є плівчасте рухоме кільце з простим або подвійним краєм, білувате зверху й блідо-коричневе по краю та знизу.",
+      "flesh": "М'якуш білий, м'який або ватоподібний у шапинці, жорсткіший і волокнистий у ніжці. На відміну від червоніючих схожих парасольок, м'якуш не червоніє на зрізі чи при пошкодженні, хоча з віком або при торканні може повільно набувати слабкого буруватого відтінку. Запах слабкий, приємний, грибний або подібний до топленого масла; смак м'який, приємно горіховий.",
+      "sporePrint": "Споровий порошок білий або блідо-кремовий. Спори гладенькі, гіалінові, еліпсоїдні або злегка мигдалеподібні, 12–16 × 8–9,5 мкм (зрідка до 18–19 × 10–10,5 мкм), декстриноїдні (забарвлюються у червонувато-коричневий колір у реактиві Мельцера) та метахроматичні, з ростковою порою, прикритою прозорим лінзоподібним ковпачком.",
+      "habitat": "Сапротроф на сухих, бідних або помірно багатих на поживні речовини вапнякових ґрунтах; плодоносить розсіяно або невеликими групами на лісових галявинах, трав'янистих узліссях листяних і хвойних лісів, у світлих букових та дубово-грабових лісах, ялівцевих пустищах, на луках, у парках і на збагачених черепашником прибережних піщаних дюнах. Плодові тіла в більшій частині Європи з'являються переважно з липня по листопад, у тепліших регіонах уже з травня, а на півдні — до пізньої осені.",
+      "uses": "Добрий їстівний гриб із м'яким горіховим смаком, подібним до Macrolepiota procera, хоча й менш м'ясистий. У кулінарії використовують лише ніжні шапинки, оскільки ніжки жорсткі й волокнисті. Перед споживанням його слід ретельно термічно обробляти й не вживати сирим; оскільки вид є рідкісним або локально скорочує чисельність у низці європейських регіонів, рекомендовано утримуватися від надмірного збирання.",
+      "confusion": "Macrolepiota procera значно більша і має виразний темно-коричневий змієподібний зигзагоподібний візерунок на ніжці замість дрібної блідої цяткованості. Macrolepiota konradii є близьким видом і подекуди розглядається як різновид, вирізняючись більшими та рідшими зірчастими лусочками на шапинці. Chlorophyllum rhacodes, Chlorophyllum olivieri та отруйний Chlorophyllum brunneum мають грубіші відстовбурчені лусочки на шапинці, гладеньку ніжку без візерунка та м'якуш, що на зрізі червоніє до помаранчево-червоного або шафраново-червоного. Отруйний Chlorophyllum molybdites дає зеленуватий споровий порошок і має зеленуватий відтінок зрілих пластинок. Дрібні, потенційно смертельно отруйні види роду Lepiota, як-от Lepiota brunneoincarnata і Lepiota cristata, зазвичай залишаються значно меншими за 10 см у діаметрі, мають крихке нерухоме кільце і позбавлені виразного соскоподібного горбка.",
+      "notes": "Таксономічні межі навколо Macrolepiota mastoidea залишаються предметом активних дискусій: кілька струнких або лускатих європейських форм, зокрема Macrolepiota rickenii, Macrolepiota gracilenta та Macrolepiota konradii, одні фахівці вважають синонімами чи різновидами, а інші — окремими видами. Хоча вид не оцінювався на глобальному рівні, у частині північно-західної Європи, зокрема в Нідерландах, він рідкісний і внесений до національних червоних списків у категорії вразливого (Vulnerable). У мікрохімічних тестах м'якуш дає пурпурово-червону реакцію, що переходить у коричневу, з феноланіліном і коричневу з лактофенолом, залишаючись негативним з аніліном та альфа-нафтолом."
+    },
+    "zh": {
+      "description": "一種中型至大型的腐生傘狀菇類，單生或成小群生長於包括英國與愛爾蘭在內的歐洲各地，分布並延伸至溫帶亞洲、中國、北美洲、南美洲及熱帶非洲。偏好乾燥、開闊的鈣質土壤，見於林間空地、長草的林緣、草地及海岸沙丘。",
+      "cap": "菌蓋直徑6–15 cm（最常見為8–12 cm）。幼時呈卵形至鐘形，邊緣內捲，隨後展開為寬圓錐形並最終平展，但中央仍保留一個顯著、圓鈍而微尖的乳頭狀突起。表面帶白色至淡奶油赭色，裂解為細小、平伏至纖維狀的赭褐色、榛果褐色或紅褐色鱗片，在完整無裂的中央突起上最為密集且色深，整體與淡色底面之間的對比較低。",
+      "hymenium": "菌褶寬闊、密生、離生，呈白色至淡奶油色，偶爾分叉，老熟時褶緣有時帶淡粉紅奶油色或微褐色調，並於遠離菌柄處止於明顯的環狀領部。擔子呈棍棒狀，具四枚孢子，35–40 × 8–10 µm，小梗長3.5–4 µm，具稀疏或不明顯的鎖狀聯合。緣囊狀體薄壁、無色透明，呈棍棒狀、瓶狀或紡錘形，27–40 × 8–15 µm；無側囊狀體。",
+      "stipe": "菌柄細長呈圓柱形，高7–16 cm（偶爾可達18 cm），粗0.6–1.5 cm，向頂端略微漸細，基部膨大為寬度可達2.2 cm的適度球莖。質地纖維質且堅韌，初時實心，後轉中空，極易與菌蓋分離；菌環上方呈淡奶油色至帶白色，下方覆有細小且緊密排列的淡黃褐色至赭淡褐色鱗片或細斑點。菌柄上部環繞一枚膜質、可上下移動的菌環，具單層至雙層邊緣，上面帶白色，邊緣及下面呈淡褐色。",
+      "flesh": "菌肉在菌蓋中呈白色、柔軟或棉絮狀，在菌柄中則較堅韌且具纖維質。與會變紅的相似傘狀菇類不同，菌肉切開或碰傷後不會變紅，但隨成熟或觸摸可能緩慢轉為微弱的淡褐色。氣味溫和，略帶菇香或類似融化奶油的氣息；味道溫和，帶有宜人的堅果風味。",
+      "sporePrint": "孢子印呈白色至淡奶油色。孢子平滑、無色透明，橢圓形至略呈杏仁形，12–16 × 8–9.5 µm（偶爾可達18–19 × 10–10.5 µm），具類糊精性（於梅澤試劑中染成紅褐色）及異染性，具發芽孔且覆有透明的透鏡狀帽蓋。",
+      "habitat": "腐生於乾燥、貧瘠至中等肥沃的鈣質土壤上，散生或成小群生長於林間空地、長草的闊葉林與針葉林緣、向陽的山毛櫸林及櫟樹與鵝耳櫪林、刺柏灌叢地、草地、公園以及富含貝殼碎屑的海岸沙丘。子實體在歐洲大部分地區主要於7月至11月出現，在較溫暖地區最早可自5月開始，於南部則可延續至深秋。",
+      "uses": "優良的可食菇類，具有溫和的堅果風味，足與Macrolepiota procera媲美，惟菌肉較不厚實。因菌柄堅韌且具纖維質，烹調時僅使用細嫩的菌蓋。食用前須徹底煮熟，切勿生食；此外，由於本種在數個歐洲地區並不常見或局部族群呈下降趨勢，建議採集時保持節制。",
+      "confusion": "Macrolepiota procera體型顯著較大，且菌柄上具有粗大、深褐色如蛇皮般的之字形環帶花紋，而非細小淡色斑點。Macrolepiota konradii親緣關係密切，有時被視為變種，其差異在於菌蓋鱗片較大、較稀疏且呈星狀。Chlorophyllum rhacodes、Chlorophyllum olivieri以及有毒的Chlorophyllum brunneum具有較粗大且翹起的菌蓋鱗片、平滑無花紋的菌柄，以及切開後轉為橘紅色或番紅花紅色的菌肉。有毒的Chlorophyllum molybdites會產生帶綠色的孢子印，且成熟菌褶帶有綠色調。體型較小、具潛在致命毒性的Lepiota屬種類（如Lepiota brunneoincarnata與Lepiota cristata）菌蓋直徑通常遠小於10 cm，具脆弱且不可移動的菌環，並缺乏顯著的乳頭狀突起。",
+      "notes": "圍繞Macrolepiota mastoidea的分類界線目前仍存在熱烈討論：數個細長或多鱗片的歐洲類型——包括Macrolepiota rickenii、Macrolepiota gracilenta與Macrolepiota konradii——被部分學者視為同物異名或變種，另一些學者則將其視為獨立物種。雖然尚未進行全球評估，但本種在包括荷蘭在內的西北歐部分地區相當稀少，並被列入國家紅皮書的易危（Vulnerable）等級。在微化學測試中，菌肉遇苯酚苯胺呈紫紅色並轉為褐色，遇乳酚呈褐色，遇苯胺與α-萘酚則呈陰性反應。"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus mastoideus",
+      "author": "Fr.",
+      "rank": "species"
+    },
+    {
+      "name": "Lepiota mastoidea",
+      "author": "(Fr.) P. Kumm.",
+      "rank": "species"
+    },
+    {
+      "name": "Lepiota excoriata subsp. mastoidea",
+      "author": "(Fr.) Quél.",
+      "rank": "subspecies"
+    },
+    {
+      "name": "Leucocoprinus mastoideus",
+      "author": "(Fr.) Singer",
+      "rank": "species"
+    },
+    {
+      "name": "Lepiotophyllum mastoideum",
+      "author": "(Fr.) Locq.",
+      "rank": "species"
+    },
+    {
+      "name": "Mastocephalus mastoideus",
+      "author": "(Fr.) Kuntze",
+      "rank": "species"
+    },
+    {
+      "name": "Lepiota rickenii",
+      "author": "Velen.",
+      "rank": "species"
+    },
+    {
+      "name": "Macrolepiota rickenii",
+      "author": "(Velen.) Bellù & Lanzoni",
+      "rank": "species"
+    },
+    {
+      "name": "Macrolepiota mastoidea var. rickenii",
+      "author": "(Velen.) Gminder",
+      "rank": "variety"
+    },
+    {
+      "name": "Agaricus gracilentus",
+      "author": "Krombh.",
+      "rank": "species"
+    },
+    {
+      "name": "Lepiota gracilenta",
+      "author": "(Krombh.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Macrolepiota gracilenta",
+      "author": "(Krombh.) Wasser",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus umbonatus",
+      "author": "Schumach.",
+      "rank": "species"
+    },
+    {
+      "name": "Lepiota umbonata",
+      "author": "(Schumach.) J. Schröt.",
+      "rank": "species"
+    }
+  ]
+},
+{
+  "id": 212,
+  "name": "Mycena polygramma",
+  "author": "(Bull.) Gray",
+  "citation": "Nat. Arr. Brit. Pl. (London) 1: 619 (1821)",
+  "family": "Mycenaceae",
+  "genus": "Mycena",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Mycenaceae",
+    "Mycena"
+  ],
+  "summary": [
+    "Agaricales",
+    "Mycenaceae",
+    "Mycena"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood",
+    "ground"
+  ],
+  "color": [
+    "dark",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 4.5,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 12.0,
+  "stipeThickFrom": 0.2,
+  "stipeThickTo": 0.5,
+  "fruitingFrom": 5,
+  "fruitingTo": 12,
+  "added": "2026-11-24",
+  "label": {
+    "cs": "helmovka rýhonohá",
+    "da": "mangestribet huesvamp",
+    "de": "Rillstieliger Helmling",
+    "en": "grooved bonnet",
+    "et": "vagujalg-mütsik",
+    "fi": "tinahiippo",
+    "fr": "mycène à pied strié",
+    "hu": "barázdálttönkű kígyógomba",
+    "ja": "アシナガタケ",
+    "ko": "세로줄애주름버섯",
+    "lt": "vagotakotė šalmabudė",
+    "lv": "rievainā sēntiņa",
+    "nl": "streepsteelmycena",
+    "no": "sølvhette",
+    "pl": "grzybówka bruzdowanotrzonowa",
+    "ru": "мицена полосатоножковая",
+    "sk": "prilbička ryhovaná",
+    "sl": "nažlebičena čeladica",
+    "sv": "silverhätta",
+    "uk": "міцена борозенчаста",
+    "zh": "溝傘小菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "helmovka brázditá"
+    ],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "grzybówka bruzdowana",
+      "grzybokarlik bruzdowany"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "міцена штрихувата"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=186463",
+        "detail": "186463"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=186463",
+        "detail": "186463"
+      },
+      {
+        "group": "name",
+        "name": "MycoBank",
+        "href": "https://www.mycobank.org/page/Name%20details%20page/186463"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/44TNM"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q2725438"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Mycena_polygramma"
+      },
+      {
+        "group": "text",
+        "name": "The Mycenas of Norway",
+        "href": "https://mycena.no/polygramma1.htm"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/mycena-polygramma.php"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Mycena-polygramma/"
+      },
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Mycena&espece=polygramma"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Rillstieliger_Helmling",
+        "detail": "German"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Streepsteelmycena",
+        "detail": "Dutch"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Grzyb%C3%B3wka_bruzdowanotrzonowa",
+        "detail": "Polish"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Mycena-polygramma/"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "da": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Rillstieliger_Helmling"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/Vagujalg-m%C3%BCtsik"
+      }
+    ],
+    "fi": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "fr": [
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Mycena&espece=polygramma"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Bar%C3%A1zd%C3%A1ltt%C3%B6nk%C5%B1_k%C3%ADgy%C3%B3gomba"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "ja": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "ko": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "lt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lt.wikipedia.org/wiki/Vagotakot%C4%97_%C5%A1almabud%C4%97"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "lv": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Streepsteelmycena"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "no": [
+      {
+        "group": "text",
+        "name": "The Mycenas of Norway",
+        "href": "https://mycena.no/polygramma1.htm"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Grzyb%C3%B3wka_bruzdowanotrzonowa"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "ru": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "sk": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "sl": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Silverh%C3%A4tta"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "uk": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%86%D0%B5%D0%BD%D0%B0_%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B5%D0%BD%D1%87%D0%B0%D1%81%D1%82%D0%B0"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ],
+    "zh": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/4911745",
+        "detail": "4911745"
+      }
+    ]
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Mycological plate generated with Gemini in Bresadola style (896x1200 PNG composited onto background.webp, LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows mature cluster, young specimen, underside gill view, and vertical section of Mycena polygramma on mossy oak wood.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma_1.webp",
+      "author": "Arne Aronsen",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mycena_polygramma_Artsdatabanken.png"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma_2.webp",
+      "author": "Reinhold Möller",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rillstieliger_Helmling_(Mycena_polygramma)_Bruderwald-20261101-RM-155949.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma_3.webp",
+      "author": "Jerzy Opioła",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mycena_polygramma_a1.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma_4.webp",
+      "author": "rainerburkard",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mycena_polygramma_161851051.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Mycenaceae/Mycena_polygramma/Mycena_polygramma_5.webp",
+      "author": "James Baker",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mycena_polygramma_(Bull.)_Gray_320256.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "description": "A widespread saprotrophic agaric that fruits singly, in small groups, or in loose tufts on decaying hardwood stumps, fallen branches, and buried wood, and occasionally on conifer wood. Common across Europe, including Britain and Ireland, it also occurs in Asia, North America, and the Falkland Islands.",
+      "cap": "Measuring 2–4.5 cm across (occasionally up to 5 cm), the cap starts egg-shaped to conical and expands to bell-shaped or convex with a prominent central umbo; the margin is initially slightly incurved and often scalloped or toothed, becoming flared or wavy with age. Its dry, matte surface is finely pruinose when young before turning smooth, slightly lubricous in wet weather, and translucent-striate to coarsely furrowed toward the edge. Colour ranges from dark grey-brown to pale silvery grey, darkest at the centre and paler near the margin, sometimes fading to pinkish-buff or developing rust-brown spots with age.",
+      "hymenium": "The 23–38 gills reaching the stipe are ascending, narrowly adnate or attached by a short decurrent tooth, moderately broad (4–7 mm), and often cross-veined at the back in mature fruit bodies. They are white to greyish white, sometimes flushing pale pink or acquiring reddish-brown stains with age, with smooth concolorous edges. Basidia are four-spored and clavate (26–38 × 7–10 μm). Cheilocystidia form a sterile gill edge and are fusiform to irregularly shaped, smooth or bearing a few apical or lateral finger-like projections; pleurocystidia are absent.",
+      "stipe": "Measuring 5–12 cm tall (occasionally up to 15–18 cm) and 0.2–0.5 cm thick, the hollow, rigid yet brittle stipe is cylindrical or slightly widened downward and often extends into a rooting pseudorrhiza. Its most characteristic feature is fine to coarse longitudinal grooves—sometimes slightly twisted—that can be seen under a hand lens or felt by touch, though occasional smooth-stemmed specimens occur. Silvery grey to slate grey or greyish brown, often paler and finely powdered at the apex, it becomes darker reddish-brown toward the base, which is clothed in dense, coarse white hairs; there is no ring.",
+      "flesh": "The flesh is thin, watery whitish to greyish, and cartilaginous in the stipe. It has an indistinctive or faintly radish-like to mealy odour and a mild, occasionally slightly acrid taste.",
+      "sporePrint": "The spore print is white. Spores are broadly ellipsoid to pip-shaped, smooth, hyaline, and amyloid, measuring 7.5–10.5 × 5–7.5 μm (occasionally up to 12 × 8 μm) and sometimes containing oil droplets.",
+      "habitat": "Saprotrophic on dead wood of broadleaf trees—especially oak, as well as beech, maple, ash, alder, birch, hazel, and basswood—growing on rotting stumps, fallen trunks, branches, twigs, and buried wood near tree bases, and rarely on conifer wood. Fruit bodies appear from May to December (peaking from summer to late autumn, and occasionally into mild winters) singly, in small groups, or in small tufts.",
+      "uses": "Inedible; it has no culinary value and has been reported to contain low concentrations of muscarine, so it should not be eaten.",
+      "confusion": "Mycena galericulata grows on similar hardwood stumps but has a completely smooth, glossy stipe without longitudinal grooves. Mycena inclinata fruits in dense tufts on oak stumps with a strongly scalloped cap margin and a smooth stipe that turns bright orange-brown to reddish-brown from the base upward. Mycena vitilis is smaller and more slender with fewer than 23 gills reaching the stipe, a tough, smooth, gelatinized stipe surface, narrower spores, and generally no clamp connections. Mycena maculata can share the reddish-brown spotting on cap and gills, but lacks the grooved stipe and differs microscopically. Mycena laevigata has a whitish to yellowish-brown cap, a smooth stipe, smaller spores (7–8 × 4 μm), and prefers montane habitats.",
+      "notes": "A vigorous decomposer of lignin and cellulose in woody litter, it is occasionally parasitized by the pin moulds Spinellus fusiger and Spinellus macrocarpus. Its fruit bodies and mycelia exhibit weak bioluminescence with a diurnal rhythm (470–640 nm), though the glow is generally too faint to be seen with the unaided eye and requires long-exposure photography or sensitive instruments to detect. It also produces two unusual hydroxy fatty acids. Rare nearly pure white specimens have been treated as forma candida, and smooth-stemmed specimens as forma laevipes, though intermediate forms occur."
+    },
+    "sk": {
+      "description": "Rozšírená saprotrofná lupenatá huba, ktorá rastie jednotlivo, v malých skupinách alebo v riedkych trsoch na tlejúcich pňoch listnáčov, spadnutých konároch a v pôde zakrytom dreve, zriedkavejšie aj na dreve ihličnanov. Je hojná v celej Európe vrátane Británie a Írska a vyskytuje sa aj v Ázii, Severnej Amerike a na Falklandských ostrovoch.",
+      "cap": "Klobúk má priemer 2–4,5 cm (zriedkavo do 5 cm), za mladi je vajcovitý až kužeľovitý a neskôr sa rozprestiera do zvoncovitého až klenutého tvaru s výrazným stredovým hrboľom; okraj je spočiatku mierne podvinutý a často vrúbkovaný alebo zúbkatý, v starobe býva vyhnutý alebo zvlnený. Suchý, matný povrch je za mladi jemne oinovatený, neskôr hladký, za vlhka mierne slizký a smerom k okraju priesvitne ryhovaný až hrubo brázditý. Sfarbenie siaha od tmavo sivohnedej po bledú striebristosivú, v strede najtmavšie a pri okraji bledšie, v starobe niekedy vybledne do ružovkasto okrovej alebo sa na ňom objavujú hrdzavohnedé škvrny.",
+      "hymenium": "Lupene dosahujúce k hlúbiku (23–38) sú vystúpavé, úzko prirastené alebo pripojené krátkym zbiehavým zúbkom, stredne široké (4–7 mm) a u dospelých plodníc bývajú pri báze priečne pospájané žilkami. Sú biele až sivobiele, v starobe niekedy s bledo ružovým nádychom alebo červenohnedými škvrnami, s hladkým rovnako sfarbeným ostrím. Bazídiá sú štvorvýtrusné a kyjakovité (26–38 × 7–10 μm). Cheilocystidy tvoria sterilné ostrie lupeňov, sú vretenovité až nepravidelného tvaru, hladké alebo s niekoľkými vrcholovými či bočnými prstovitými výrastkami; pleurocystidy chýbajú.",
+      "stipe": "Hlúbik je vysoký 5–12 cm (zriedkavo do 15–18 cm) a hrubý 0,2–0,5 cm, dutý, tuhý, no krehký, valcovitý alebo smerom nadol mierne rozšírený a často predĺžený do koreňujúcej pseudorízy. Jeho najtypickejším znakom sú jemné až hrubé pozdĺžne ryhy – niekedy mierne stočené –, ktoré sú viditeľné pod lupou alebo citeľné na dotyk, hoci ojedinele sa vyskytujú aj plodnice s hladkým hlúbikom. Je striebristosivý až bridlicovosivý alebo sivohnedý, na vrchole často bledší a jemne poprášený, smerom k báze tmavne do červenohneda; bázu pokrývajú husté, hrubé biele chĺpky a prsteň chýba.",
+      "flesh": "Dužina je tenká, vodnato belavá až sivastá a v hlúbiku chrupavkovitá. Má nevýraznú alebo slabo reďkovkovú až múčnu vôňu a miernu, občas mierne štipľavú chuť.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú široko elipsoidné až kôstkovité, hladké, hyalínne a amyloidné, s rozmermi 7,5–10,5 × 5–7,5 μm (zriedkavo do 12 × 8 μm), a niekedy obsahujú olejové kvapôčky.",
+      "habitat": "Saprotrofná huba na odumretom dreve listnatých stromov – najmä dubov, ale aj bukov, javorov, jaseňov, jelší, briez, liesok a líp –, kde rastie na tlejúcich pňoch, padnutých kmeňoch, konároch, vetvičkách a v pôde zakrytom dreve pri bázach stromov, zriedkavo aj na dreve ihličnanov. Plodnice sa objavujú od mája do decembra (s vrcholom od leta do neskorej jesene a občas aj počas miernych zím) jednotlivo, v malých skupinách alebo v menších trsoch.",
+      "uses": "Nejedlá; nemá kuchynskú hodnotu a boli v nej zaznamenané nízke koncentrácie muskarínu, preto by sa nemala konzumovať.",
+      "confusion": "Mycena galericulata rastie na podobných pňoch listnáčov, má však úplne hladký, lesklý hlúbik bez pozdĺžnych rýh. Mycena inclinata rastie v hustých trsoch na dubových pňoch, má výrazne zúbkatý okraj klobúka a hladký hlúbik, ktorý od bázy nahor nadobúda jasnú oranžovohnedú až červenohnedú farbu. Mycena vitilis je menšia a štíhlejšia, má menej ako 23 lupeňov dosahujúcich k hlúbiku, pružný, hladký, sliznatý povrch hlúbika, užšie výtrusy a spravidla nemá pracky. Mycena maculata môže mať podobné červenohnedé škvrny na klobúku a lupeňoch, ale chýba jej ryhovaný hlúbik a líši sa aj mikroskopicky. Mycena laevigata má belavý až žltohnedý klobúk, hladký hlúbik, menšie výtrusy (7–8 × 4 μm) a uprednostňuje horské biotopy.",
+      "notes": "Je výkonným rozkladačom lignínu a celulózy v drevnom opade a občas ju parazitujú plesne Spinellus fusiger a Spinellus macrocarpus. Jej plodnice a mycélium vykazujú slabú bioluminiscenciu s denným rytmom (470–640 nm), žiara je však spravidla príliš slabá pre voľné oko a na jej zachytenie je potrebná fotografia s dlhou expozíciou alebo citlivé prístroje. Produkuje tiež dve neobvyklé hydroxymastné kyseliny. Zriedkavé takmer čisto biele plodnice sa označujú ako forma candida a plodnice s hladkým hlúbikom ako forma laevipes, hoci sa vyskytujú aj prechodné formy."
+    },
+    "cs": {
+      "description": "Rozšířená saprotrofní lupenatá houba, která plodí jednotlivě, v malých skupinách nebo ve volných trsech na tlejících pařezech listnáčů, spadaných větvích a v zemi zanořeném dřevě, příležitostně i na dřevě jehličnanů. Je hojná po celé Evropě včetně Británie a Irska a vyskytuje se také v Asii, Severní Americe a na Falklandských ostrovech.",
+      "cap": "Klobouk má průměr 2–4,5 cm (výjimečně až 5 cm), v mládí je vejčitý až kuželovitý a rozšiřuje se do zvoncovitého až sklenutého tvaru s výrazným středovým hrbolem; okraj je zpočátku mírně podvinutý a často zoubkovaný nebo vroubkovaný, stářím se vyrovnává nebo zvlní. Suchý, matný povrch je v mládí jemně ojíněný, později hladký, za vlhka mírně lepkavý a směrem k okraji prosvítavě rýhovaný až hrubě brázditý. Zbarvení se pohybuje od tmavě šedohnědé po světle stříbřitě šedou, nejtmavší je ve středu a světlejší při okraji, stářím někdy bledne do růžově okrové nebo na něm vznikají rezavě hnědé skvrny.",
+      "hymenium": "Lupeny dosahující k třeni (23–38) jsou vystoupavé, úzce připojené nebo přirostlé krátkým sbíhavým zoubkem, středně široké (4–7 mm) a u dospělých plodnic často při bázi příčně žilkované. Jsou bílé až šedobílé, stářím někdy nabývají světle růžového nádechu nebo červenohnědých skvrn, s hladkým stejnobarevným ostřím. Bazidie jsou čtyřvýtrusné a kyjovité (26–38 × 7–10 μm). Cheilocystidy tvoří sterilní ostří lupenů a jsou vřetenovité až nepravidelného tvaru, hladké nebo s několika vrcholovými či postranními prstovitými výběžky; pleurocystidy chybějí.",
+      "stipe": "Třeň je vysoký 5–12 cm (výjimečně až 15–18 cm) a tlustý 0,2–0,5 cm, dutý, tuhý, ale křehký, válcovitý nebo směrem dolů mírně rozšířený a často protažený v kořenující pseudorhizu. Jeho nejcharakterističtějším znakem jsou jemné až hrubé podélné rýhy – někdy mírně stočené –, které jsou patrné pod lupou nebo hmatatelné na dotek, ačkoli ojediněle se objevují i plodnice s hladkým třeněm. Je stříbřitě šedý až břidlicově šedý nebo šedohnědý, na vrcholu často světlejší a jemně poprášený, směrem k bázi tmavne do červenohněda; bázi pokrývají husté, hrubé bílé chloupky a prsten chybí.",
+      "flesh": "Dužnina je tenká, vodnatě bělavá až našedlá a ve třeni chrupavčitá. Má nevýraznou nebo slabě ředkvovou až moučnou vůni a mírnou, občas lehce palčivou chuť.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou široce elipsoidní až peckovité, hladké, hyalinní a amyloidní, o rozměrech 7,5–10,5 × 5–7,5 μm (výjimečně až 12 × 8 μm) a někdy obsahují olejové kapky.",
+      "habitat": "Saprotrofní na odumřelém dřevě listnatých stromů – zejména dubu, dále buku, javoru, jasanu, olše, břízy, lísky a lípy –, kde roste na tlejících pařezech, padlých kmenech, větvích, větvičkách a zanořeném dřevě u bází stromů, vzácně i na dřevě jehličnanů. Plodnice se objevují od května do prosince (s vrcholem od léta do pozdního podzimu a příležitostně i během mírných zim) jednotlivě, v malých skupinách nebo v menších trsech.",
+      "uses": "Nejedlá; nemá žádnou kuchyňskou hodnotu a byl u ní zjištěn nízký obsah muskarinu, proto by se neměla jíst.",
+      "confusion": "Mycena galericulata roste na podobných pařezech listnáčů, má však zcela hladký, lesklý třeň bez podélných rýh. Mycena inclinata plodí v hustých trsech na dubových pařezech, má výrazně zoubkovaný okraj klobouku a hladký třeň, který se od báze vzhůru zbarvuje jasně oranžovohnědě až červenohnědě. Mycena vitilis je menší a štíhlejší, má méně než 23 lupenů dosahujících k třeni, pružný, hladký, slizký povrch třeně, užší výtrusy a zpravidla postrádá přezky. Mycena maculata může mít podobné červenohnědé skvrny na klobouku a lupenech, ale nemá rýhovaný třeň a liší se mikroskopicky. Mycena laevigata má bělavý až žlutohnědý klobouk, hladký třeň, menší výtrusy (7–8 × 4 μm) a dává přednost horským stanovištím.",
+      "notes": "Je vydatným rozkladačem ligninu a celulózy v dřevním opadu a příležitostně ji napadají parazitické plísně Spinellus fusiger a Spinellus macrocarpus. Její plodnice a mycelium vykazují slabou bioluminiscenci s denním rytmem (470–640 nm), svit je však zpravidla příliš slabý pro pouhé oko a k jeho zachycení je nutná dlouhá expozice nebo citlivé přístroje. Produkuje také dvě neobvyklé hydroxymastné kyseliny. Vzácné téměř čistě bílé plodnice byly popsány jako forma candida a plodnice s hladkým třeněm jako forma laevipes, i když se vyskytují přechodné formy."
+    },
+    "de": {
+      "description": "Ein weit verbreiteter saprotropher Lamellenpilz, der einzeln, in kleinen Gruppen oder in lockeren Büscheln auf verrottenden Laubholzstümpfen, heruntergefallenen Ästen und vergrabenem Holz sowie gelegentlich auf Nadelholz fruktifiziert. Er ist in ganz Europa einschließlich Großbritannien und Irland häufig und kommt auch in Asien, Nordamerika und auf den Falklandinseln vor.",
+      "cap": "Mit einem Durchmesser von 2–4,5 cm (gelegentlich bis 5 cm) ist der Hut jung eiförmig bis kegelig und breitet sich später glockig bis gewölbt mit einem deutlichen zentralen Buckel aus; der Rand ist anfangs leicht eingebogen und oft gekerbt oder gezähnelt, im Alter ausgebreitet oder wellig. Die trockene, matte Oberfläche ist jung fein bereift, wird dann glatt, bei feuchtem Wetter leicht schmierig und ist zum Rand hin durchscheinend gerieft bis grob gefurcht. Die Farbe reicht von dunkel graubraun bis blass silbergrau, in der Mitte am dunkelsten und zum Rand hin heller, im Alter bisweilen rosa-ockerlich verblassend oder rostbraun fleckend.",
+      "hymenium": "Die 23–38 den Stiel erreichenden Lamellen sind aufsteigend, schmal angewachsen oder mit einem kurzen herablaufenden Zahn angeheftet, mäßig breit (4–7 mm) und bei reifen Fruchtkörpern am Grund oft queradrig verbunden. Sie sind weiß bis grauweiß, laufen im Alter manchmal blassrosa an oder bekommen rotbraune Flecken und besitzen glatte, gleichfarbige Schneiden. Die Basidien sind viersporig und keulig (26–38 × 7–10 μm). Cheilozystiden bilden eine sterile Lamellenschneide und sind spindelig bis unregelmäßig geformt, glatt oder mit einigen apikalen oder seitlichen fingerförmigen Auswüchsen versehen; Pleurozystiden fehlen.",
+      "stipe": "Der 5–12 cm hohe (gelegentlich bis 15–18 cm) und 0,2–0,5 cm dicke, hohle, steife und doch brüchige Stiel ist zylindrisch oder nach unten leicht verbreitert und verlängert sich oft in eine wurzelnde Pseudorhiza. Sein charakteristischstes Merkmal sind feine bis grobe Längsrillen – manchmal leicht gedreht –, die unter der Lupe sichtbar oder mit den Fingern spürbar sind, auch wenn gelegentlich glattstielige Exemplare vorkommen. Silbergrau bis schiefergrau oder graubraun, an der Spitze oft heller und fein bereift, dunkelt er zur Basis hin rotbraun nach; die Basis ist mit dichten, groben weißen Haaren besetzt, und ein Ring fehlt.",
+      "flesh": "Das Fleisch ist dünn, wässrig weißlich bis gräulich und im Stiel knorpelig. Es hat einen unauffälligen oder schwach rettichartigen bis mehligen Geruch und einen milden, gelegentlich leicht scharfen Geschmack.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind breit ellipsoid bis apfelkernförmig, glatt, hyalin und amyloid, messen 7,5–10,5 × 5–7,5 μm (gelegentlich bis 12 × 8 μm) und enthalten manchmal Öltropfen.",
+      "habitat": "Saprotroph auf totem Laubholz – vor allem Eiche, außerdem Buche, Ahorn, Esche, Erle, Birke, Hasel und Linde –, wachsend auf verrottenden Stümpfen, liegenden Stämmen, Ästen, Zweigen und vergrabenem Holz nahe der Stammbasis, selten auch auf Nadelholz. Die Fruchtkörper erscheinen von Mai bis Dezember (mit einem Höhepunkt vom Sommer bis in den Spätherbst und gelegentlich bis in milde Winter) einzeln, in kleinen Gruppen oder in kleinen Büscheln.",
+      "uses": "Ungenießbar; der Pilz besitzt keinen Speisewert und enthält Berichten zufolge geringe Konzentrationen von Muscarin, sodass er nicht verzehrt werden sollte.",
+      "confusion": "Mycena galericulata wächst auf ähnlichen Laubholzstümpfen, besitzt jedoch einen völlig glatten, glänzenden Stiel ohne Längsrillen. Mycena inclinata fruktifiziert in dichten Büscheln auf Eichenstümpfen mit stark gekerbtem Hutrand und glattem Stiel, der sich von der Basis her leuchtend orangebraun bis rotbraun verfärbt. Mycena vitilis ist kleiner und schlanker, hat weniger als 23 den Stiel erreichende Lamellen, eine zähe, glatte, gelatinisierte Stieloberfläche, schmalere Sporen und meist keine Schnallen. Mycena maculata kann ähnliche rotbraune Flecken auf Hut und Lamellen aufweisen, hat aber keinen gerillten Stiel und unterscheidet sich mikroskopisch. Mycena laevigata hat einen weißlichen bis gelbbraunen Hut, einen glatten Stiel, kleinere Sporen (7–8 × 4 μm) und bevorzugt montane Lebensräume.",
+      "notes": "Als kräftiger Zersetzer von Lignin und Zellulose in holziger Streu wird die Art gelegentlich von den Schimmelpilzen Spinellus fusiger und Spinellus macrocarpus parasitiert. Fruchtkörper und Myzel zeigen eine schwache Biolumineszenz mit Tagesrhythmus (470–640 nm), doch ist das Leuchten in der Regel zu schwach für das bloße Auge und nur durch Langzeitbelichtung oder empfindliche Messgeräte nachweisbar. Zudem bildet sie zwei ungewöhnliche Hydroxyfettsäuren. Seltene, fast rein weiße Exemplare wurden als forma candida und glattstielige Exemplare als forma laevipes beschrieben, obwohl Übergangsformen auftreten."
+    },
+    "fr": {
+      "description": "Un champignon à lames saprotrophe largement répandu qui fructifie isolément, en petits groupes ou en touffes lâches sur les souches de feuillus en décomposition, les branches tombées et le bois enfoui, et occasionnellement sur le bois de conifères. Commun dans toute l'Europe, y compris en Grande-Bretagne et en Irlande, il se rencontre également en Asie, en Amérique du Nord et aux îles Malouines.",
+      "cap": "Mesurant 2–4,5 cm de diamètre (occasionnellement jusqu'à 5 cm), le chapeau est d'abord ovoïde à conique puis s'étale en cloche ou devient convexe avec un mamelon central proéminent ; la marge est initialement légèrement incurvée et souvent festonnée ou dentelée, devenant évasée ou ondulée avec l'âge. Sa surface sèche et mate est finement pruineuse chez les jeunes sujets avant de devenir lisse, légèrement lubrifiée par temps humide, et striée par transparence à grossièrement sillonnée vers le bord. La couleur va du gris-brun foncé au gris argenté pâle, plus sombre au centre et plus claire vers la marge, pâlissant parfois vers le chamois rosé ou développant des taches brun rouille avec l'âge.",
+      "hymenium": "Les 23–38 lames atteignant le pied sont ascendantes, étroitement adnées ou rattachées par une courte dent décurrente, moyennement larges (4–7 mm) et souvent interveinées au fond chez les carpophores matures. Elles sont blanches à blanc grisâtre, se teintant parfois de rose pâle ou se tachant de brun rougeâtre avec l'âge, avec une arête lisse et concolore. Les basides sont tétrasporiques et clavées (26–38 × 7–10 μm). Les cheilocystides forment une arête stérile et sont fusiformes à irrégulières, lisses ou portant quelques excroissances digitiformes apicales ou latérales ; les pleurocystides sont absentes.",
+      "stipe": "Mesurant 5–12 cm de hauteur (occasionnellement jusqu'à 15–18 cm) et 0,2–0,5 cm d'épaisseur, le pied creux, rigide mais cassant, est cylindrique ou légèrement élargi vers le bas et se prolonge souvent en une pseudorhize radicante. Son caractère le plus typique consiste en des sillons longitudinaux fins à grossiers – parfois légèrement torsadés – visibles à la loupe ou perceptibles au toucher, bien que des spécimens à pied lisse se rencontrent parfois. Gris argenté à gris ardoise ou gris-brun, souvent plus pâle et finement poudré au sommet, il s'assombrit en brun rougeâtre vers la base, laquelle est couverte de poils blancs denses et grossiers ; il n'y a pas d'anneau.",
+      "flesh": "La chair est mince, blanchâtre aqueux à grisâtre, et cartilagineuse dans le pied. Elle dégage une odeur indistincte ou faiblement raphanoïde à farineuse et présente une saveur douce, occasionnellement légèrement âcre.",
+      "sporePrint": "La sporée est blanche. Les spores sont largement ellipsoïdes à en forme de pépin, lisses, hyalines et amyloïdes, mesurant 7,5–10,5 × 5–7,5 μm (occasionnellement jusqu'à 12 × 8 μm) et contenant parfois des gouttelettes lipidiques.",
+      "habitat": "Saprotrophe sur le bois mort de feuillus – en particulier le chêne, ainsi que le hêtre, l'érable, le frêne, l'aulne, le bouleau, le noisetier et le tilleul –, il pousse sur les souches pourrissantes, les troncs couchés, les branches, les brindilles et le bois enfoui près de la base des arbres, et rarement sur le bois de conifères. Les carpophores apparaissent de mai à décembre (avec un pic de l'été à la fin de l'automne, et occasionnellement durant les hivers doux) isolément, en petits groupes ou en petites touffes.",
+      "uses": "Non comestible ; sans valeur culinaire, l'espèce a été signalée comme contenant de faibles concentrations de muscarine et ne doit donc pas être consommée.",
+      "confusion": "Mycena galericulata pousse sur des souches de feuillus similaires mais possède un pied entièrement lisse et brillant, dépourvu de sillons longitudinaux. Mycena inclinata fructifie en touffes denses sur les souches de chêne avec une marge piléique fortement dentelée et un pied lisse qui vire au brun orangé vif à brun rougeâtre depuis la base vers le haut. Mycena vitilis est plus petite et plus grêle, avec moins de 23 lames atteignant le pied, une surface du pied tenace, lisse et gélifiée, des spores plus étroites et généralement dépourvue de boucles. Mycena maculata peut partager les taches brun rougeâtre sur le chapeau et les lames, mais ne présente pas de pied sillonné et diffère microscopiquement. Mycena laevigata a un chapeau blanchâtre à brun jaunâtre, un pied lisse, des spores plus petites (7–8 × 4 μm) et préfère les habitats montagnards.",
+      "notes": "Décomposeur vigoureux de la lignine et de la cellulose dans la litière ligneuse, il est occasionnellement parasité par les moisissures Spinellus fusiger et Spinellus macrocarpus. Ses carpophores et son mycélium présentent une faible bioluminescence suivant un rythme diurne (470–640 nm), bien que la lueur soit généralement trop faible pour être perçue à l'œil nu et nécessite une photographie à longue exposition ou des instruments sensibles. Il produit également deux acides gras hydroxylés inhabituels. De rares spécimens presque entièrement blancs ont été traités comme forma candida, et les spécimens à pied lisse comme forma laevipes, bien que des formes intermédiaires existent."
+    },
+    "es": {
+      "description": "Seta de láminas saprótrofa muy extendida que fructifica de forma aislada, en pequeños grupos o en manojos laxos sobre tocones de frondosas en descomposición, ramas caídas y madera enterrada, y ocasionalmente sobre madera de coníferas. Común en toda Europa, incluidas Gran Bretaña e Irlanda, también aparece en Asia, Norteamérica y las islas Malvinas.",
+      "cap": "Con un diámetro de 2–4,5 cm (ocasionalmente hasta 5 cm), el sombrero comienza siendo ovoide a cónico y se abre hasta volverse campanulado o convexo con un mamelón central prominente; el margen es inicialmente algo incurvado y a menudo festoneado o dentado, tornándose extendido u ondulado con la edad. Su superficie seca y mate es finamente pruinosa en ejemplares jóvenes antes de volverse lisa, ligeramente lubrificada en tiempo húmedo y estriada por transparencia hasta groseramente surcada hacia el borde. El color varía de gris pardusco oscuro a gris plateado pálido, más oscuro en el centro y más claro hacia el margen, decolorándose a veces a ocre rosado o desarrollando manchas pardo herrumbre con la edad.",
+      "hymenium": "Las 23–38 láminas que alcanzan el pie son ascendentes, estrechamente adnatas o unidas mediante un corto diente decurrente, moderadamente anchas (4–7 mm) y a menudo intervenadas en el fondo en los carpóforos maduros. Son blancas a blanco grisáceas, a veces teñidas de rosa pálido o con manchas pardo rojizas con la edad, con la arista lisa y concolora. Los basidios son tetraspóricos y claviformes (26–38 × 7–10 μm). Los queilocistidios forman una arista estéril y son fusiformes a irregulares, lisos o provistos de algunas proyecciones digitiformes apicales o laterales; carece de pleurocistidios.",
+      "stipe": "Con 5–12 cm de altura (ocasionalmente hasta 15–18 cm) y 0,2–0,5 cm de grosor, el pie hueco, rígido pero quebradizo, es cilíndrico o ligeramente ensanchado hacia abajo y con frecuencia se prolonga en una seudorríza radicante. Su rasgo más característico son los surcos longitudinales de finos a gruesos —a veces ligeramente retorcidos— visibles con lupa o perceptibles al tacto, aunque ocasionalmente aparecen ejemplares de pie liso. De gris plateado a gris pizarra o gris pardusco, a menudo más pálido y finamente pruinoso en el ápice, se oscurece a pardo rojizo hacia la base, que está cubierta de pelos blancos densos y gruesos; carece de anillo.",
+      "flesh": "La carne es fina, blanquecina acuosa a grisácea y cartilaginosa en el pie. Presenta un olor poco definido o débilmente rafanoide a harinoso y un sabor suave, ocasionalmente algo acre.",
+      "sporePrint": "La esporada es blanca. Las esporas son anchamente elipsoides a en forma de pepita, lisas, hialinas y amiloides, de 7,5–10,5 × 5–7,5 μm (ocasionalmente hasta 12 × 8 μm) y a veces contienen gotículas lipídicas.",
+      "habitat": "Saprótrofa sobre madera muerta de árboles frondosos —especialmente roble, así como haya, arce, fresno, aliso, abedul, avellano y tilo—, creciendo en tocones en descomposición, troncos caídos, ramas, ramitas y madera enterrada cerca de la base de los árboles, y raramente sobre madera de coníferas. Los carpóforos aparecen de mayo a diciembre (con máximo desde el verano hasta finales de otoño, y ocasionalmente en inviernos suaves) de forma solitaria, en pequeños grupos o en pequeños manojos.",
+      "uses": "No comestible; carece de valor culinario y se ha informado de que contiene bajas concentraciones de muscarina, por lo que no debe consumirse.",
+      "confusion": "Mycena galericulata crece sobre tocones de frondosas similares, pero tiene un pie completamente liso y brillante sin surcos longitudinales. Mycena inclinata fructifica en manojos densos sobre tocones de roble, con un margen del sombrero fuertemente dentado y un pie liso que se torna pardo anaranjado vivo a pardo rojizo desde la base hacia arriba. Mycena vitilis es más pequeña y esbelta, con menos de 23 láminas que llegan al pie, una superficie del pie tenaz, lisa y gelatinizada, esporas más estrechas y generalmente sin fíbulas. Mycena maculata puede compartir el manchado pardo rojizo en sombrero y láminas, pero carece del pie surcado y difiere microscópicamente. Mycena laevigata tiene un sombrero blanquecino a pardo amarillento, pie liso, esporas más pequeñas (7–8 × 4 μm) y prefiere hábitats montanos.",
+      "notes": "Vigorosa descomponedora de lignina y celulosa en la hojarasca leñosa, ocasionalmente es parasitada por los mohos Spinellus fusiger y Spinellus macrocarpus. Sus carpóforos y micelio muestran una débil bioluminiscencia con ritmo diurno (470–640 nm), aunque el brillo suele ser demasiado tenue para percibirse a simple vista y requiere fotografía de larga exposición o instrumentos sensibles para detectarlo. También produce dos ácidos grasos hidroxilados poco comunes. Los raros ejemplares casi completamente blancos se han tratado como forma candida, y los de pie liso como forma laevipes, aunque existen formas intermedias."
+    },
+    "it": {
+      "description": "Fungo a lamelle saprotrofo ampiamente diffuso che fruttifica singolarmente, in piccoli gruppi o in cespi radi su ceppaie di latifoglie in decomposizione, rami caduti e legno interrato, e occasionalmente su legno di conifere. Comune in tutta Europa, comprese Gran Bretagna e Irlanda, è presente anche in Asia, Nord America e nelle isole Falkland.",
+      "cap": "Con un diametro di 2–4,5 cm (occasionalmente fino a 5 cm), il cappello è inizialmente ovoide o conico e si distende fino a diventare campanulato o convesso con un umbone centrale prominente; il margine è dapprima leggermente involuto e spesso festonato o dentellato, diventando svasato o ondulato con l'età. La superficie asciutta e opaca è finemente pruinosa da giovane, poi liscia, leggermente lubrificata con tempo umido e striata per trasparenza fino a grossolanamente solcata verso il bordo. Il colore varia dal grigio-bruno scuro al grigio argenteo pallido, più scuro al centro e più chiaro verso il margine, sbiadendo talvolta al camoscio rosato o sviluppando macchie bruno-ruggine con l'età.",
+      "hymenium": "Le 23–38 lamelle che raggiungono il gambo sono ascendenti, strettamente adnate o unite da un breve dentino decorrente, moderatamente larghe (4–7 mm) e spesso intervenate sul fondo negli esemplari maturi. Sono bianche o bianco-grigiastre, talvolta sfumate di rosa pallido o macchiate di bruno-rossastro con l'età, con filo liscio e concolore. I basidi sono tetrasporici e claviformi (26–38 × 7–10 μm). I cheilocistidi formano un filo sterile e sono fusiformi o di forma irregolare, lisci o provvisti di alcune proiezioni digitiformi apicali o laterali; i pleurocistidi sono assenti.",
+      "stipe": "Alto 5–12 cm (occasionalmente fino a 15–18 cm) e spesso 0,2–0,5 cm, il gambo cavo, rigido ma fragile, è cilindrico o leggermente allargato verso il basso e spesso si prolunga in una pseudorriza radicante. Il suo carattere più distintivo sono le solcature longitudinali da fini a grossolane — talvolta leggermente ritorte — visibili con una lente o percepibili al tatto, sebbene si riscontrino occasionalmente esemplari a gambo liscio. Grigio argenteo, grigio ardesia o bruno-grigiastro, spesso più pallido e finemente pruinoso all'apice, scurisce al bruno-rossastro verso la base, rivestita di fitti peli bianchi grossolani; manca l'anello.",
+      "flesh": "La carne è sottile, biancastra acquosa o grigiastra e cartilaginea nel gambo. Ha un odore indistinto o debolmente rafanoide o farinoso e un sapore mite, occasionalmente leggermente acre.",
+      "sporePrint": "L'impronta sporale è bianca. Le spore sono largamente ellissoidi o a forma di vinacciolo, lisce, ialine e amiloidi, misurano 7,5–10,5 × 5–7,5 μm (occasionalmente fino a 12 × 8 μm) e talvolta contengono goccioline lipidiche.",
+      "habitat": "Saprotrofo su legno morto di latifoglie — soprattutto quercia, oltre a faggio, acero, frassino, ontano, betulla, nocciolo e tiglio —, cresce su ceppaie marcescenti, tronchi caduti, rami, rametti e legno interrato presso la base degli alberi, e raramente su legno di conifere. I corpi fruttiferi compaiono da maggio a dicembre (con picco dall'estate al tardo autunno, e occasionalmente negli inverni miti) singolarmente, in piccoli gruppi o in piccoli cespi.",
+      "uses": "Non commestibile; privo di valore culinario, è stato segnalato per contenere basse concentrazioni di muscarina e non deve quindi essere consumato.",
+      "confusion": "Mycena galericulata cresce su ceppaie di latifoglie simili, ma presenta un gambo completamente liscio e lucido privo di solcature longitudinali. Mycena inclinata fruttifica in cespi fitti su ceppaie di quercia con margine del cappello fortemente dentellato e gambo liscio che vira al bruno-arancio vivo o bruno-rossastro dalla base verso l'alto. Mycena vitilis è più piccola e slanciata, con meno di 23 lamelle che raggiungono il gambo, superficie del gambo tenace, liscia e gelatinizzata, spore più strette e generalmente priva di giunti a fibbia. Mycena maculata può condividere le macchie bruno-rossastre su cappello e lamelle, ma non ha il gambo solcato e differisce microscopicamente. Mycena laevigata ha un cappello biancastro o giallo-brunastro, gambo liscio, spore più piccole (7–8 × 4 μm) e predilige ambienti montani.",
+      "notes": "Vigoroso decompositore di lignina e cellulosa nella lettiera legnosa, è occasionalmente parassitato dalle muffe Spinellus fusiger e Spinellus macrocarpus. I suoi corpi fruttiferi e il micelio mostrano una debole bioluminescenza con ritmo diurno (470–640 nm), sebbene il bagliore sia generalmente troppo tenue per essere visto a occhio nudo e richieda fotografie a lunga esposizione o strumenti sensibili per essere rilevato. Produce inoltre due insoliti acidi grassi idrossilati. Rari esemplari quasi interamente bianchi sono stati trattati come forma candida e quelli a gambo liscio come forma laevipes, sebbene esistano forme intermedie."
+    },
+    "pt": {
+      "description": "Um cogumelo de lâminas saprotrófico amplamente distribuído que frutifica isoladamente, em pequenos grupos ou em tufos soltos sobre cepos de folhosas em decomposição, ramos caídos e madeira enterrada, e ocasionalmente sobre madeira de coníferas. Comum em toda a Europa, incluindo a Grã-Bretanha e a Irlanda, ocorre também na Ásia, na América do Norte e nas ilhas Falkland.",
+      "cap": "Com 2–4,5 cm de diâmetro (ocasionalmente até 5 cm), o chapéu começa por ser ovoide a cónico e abre-se até ficar campanulado ou convexo com um umbo central proeminente; a margem é inicialmente ligeiramente encurvada e frequentemente crenada ou denticulada, tornando-se aberta ou ondulada com a idade. A superfície seca e mate é finamente pruinosa nos exemplares jovens antes de se tornar lisa, ligeiramente lubrificada em tempo húmido e estriada por transparência a grosseiramente sulcada junto à borda. A cor varia de cinzento-acastanhado escuro a cinzento-prateado pálido, mais escura no centro e mais clara perto da margem, desvanecendo por vezes para camurça rosado ou desenvolvendo manchas castanho-ferrugem com a idade.",
+      "hymenium": "As 23–38 lâminas que atingem o estipe são ascendentes, estreitamente adnatas ou ligadas por um curto dente decorrente, moderadamente largas (4–7 mm) e frequentemente intervenadas no fundo nos carpóforos maduros. São brancas a branco-acinzentadas, adquirindo por vezes um tom rosado pálido ou manchas castanho-avermelhadas com a idade, com a aresta lisa e concolor. Os basídios são tetraspóricos e claviformes (26–38 × 7–10 μm). Os queilocistídios formam uma aresta estéril e são fusiformes a irregulares, lisos ou providos de algumas projeções digitiformes apicais ou laterais; os pleurocistídios estão ausentes.",
+      "stipe": "Com 5–12 cm de altura (ocasionalmente até 15–18 cm) e 0,2–0,5 cm de espessura, o estipe oco, rígido mas quebradiço, é cilíndrico ou ligeiramente alargado para a base e prolonga-se frequentemente numa pseudorriza radicante. A sua característica mais distintiva são os sulcos longitudinais finos a grosseiros — por vezes ligeiramente torcidos — visíveis à lupa ou percetíveis ao tato, embora ocorram ocasionalmente exemplares de estipe liso. De cinzento-prateado a cinzento-ardósia ou cinzento-acastanhado, frequentemente mais pálido e finamente pulverulento no ápice, escurece para castanho-avermelhado em direção à base, revestida de pelos brancos densos e grosseiros; não apresenta anel.",
+      "flesh": "A carne é fina, esbranquiçada aquosa a acinzentada e cartilaginosa no estipe. Tem um odor indistinto ou fracamente rabanete a farináceo e um sabor suave, ocasionalmente ligeiramente acre.",
+      "sporePrint": "A esporada é branca. Os esporos são largamente elipsoides a em forma de grainha, lisos, hialinos e amiloides, medindo 7,5–10,5 × 5–7,5 μm (ocasionalmente até 12 × 8 μm) e contendo por vezes gotículas de óleo.",
+      "habitat": "Saprotrófico em madeira morta de árvores folhosas — especialmente carvalho, bem como faia, ácer, freixo, amieiro, bétula, aveleira e tília —, cresce em cepos em apodrecimento, troncos caídos, ramos, raminhos e madeira enterrada junto à base das árvores, e raramente em madeira de coníferas. Os carpóforos surgem de maio a dezembro (com pico do verão ao final do outono, e ocasionalmente em invernos amenos) isoladamente, em pequenos grupos ou em pequenos tufos.",
+      "uses": "Não comestível; não tem valor culinário e foi relatado como contendo baixas concentrações de muscarina, pelo que não deve ser consumido.",
+      "confusion": "Mycena galericulata cresce em cepos de folhosas semelhantes, mas tem um estipe completamente liso e brilhante sem sulcos longitudinais. Mycena inclinata frutifica em tufos densos em cepos de carvalho, com a margem do chapéu fortemente denticulada e um estipe liso que passa a castanho-alaranjado vivo a castanho-avermelhado da base para cima. Mycena vitilis é mais pequena e esguia, com menos de 23 lâminas a atingir o estipe, uma superfície do estipe resistente, lisa e gelatinizada, esporos mais estreitos e geralmente sem ansas de anastomose. Mycena maculata pode partilhar as manchas castanho-avermelhadas no chapéu e nas lâminas, mas não tem o estipe sulcado e difere microscopicamente. Mycena laevigata tem um chapéu esbranquiçado a castanho-amarelado, estipe liso, esporos mais pequenos (7–8 × 4 μm) e prefere habitats montanos.",
+      "notes": "Decompositor vigoroso de lenhina e celulose na folhada lenhosa, é ocasionalmente parasitado pelos bolores Spinellus fusiger e Spinellus macrocarpus. Os seus carpóforos e micélio exibem uma fraca bioluminescência com ritmo diurno (470–640 nm), embora o brilho seja geralmente demasiado ténue para ser visto a olho nu, exigindo fotografia de longa exposição ou instrumentos sensíveis para ser detetado. Produz também dois ácidos gordos hidroxilados invulgares. Raros exemplares quase totalmente brancos foram tratados como forma candida, e os exemplares de estipe liso como forma laevipes, embora ocorram formas intermédias."
+    },
+    "nl": {
+      "description": "Een wijdverspreide saprotrofe plaatjeszwam die alleenstaand, in kleine groepjes of in losse bundels vruchtlichamen vormt op rottende loofhoutstronken, gevallen takken en begraven hout, en soms op naaldhout. De soort is algemeen in heel Europa, inclusief Groot-Brittannië en Ierland, en komt ook voor in Azië, Noord-Amerika en op de Falklandeilanden.",
+      "cap": "De hoed meet 2–4,5 cm in doorsnede (soms tot 5 cm), is jong eivormig tot kegelvormig en spreidt zich uit tot klokvormig of gewelfd met een duidelijke centrale bult; de rand is aanvankelijk licht naar binnen gebogen en vaak geschulpt of getand, en wordt op latere leeftijd uitgespreid of golvend. Het droge, matte oppervlak is jong fijn berijpt voordat het glad wordt, bij vochtig weer licht kleverig, en naar de rand toe doorschijnend gestreept tot grof gegroefd. De kleur varieert van donker grijsbruin tot bleek zilvergrijs, het donkerst in het midden en bleker bij de rand, soms verblekend tot rozig oker of op latere leeftijd roestbruine vlekken vertonend.",
+      "hymenium": "De 23–38 plaatjes die de steel bereiken zijn opstijgend, smal aangehecht of met een kort aflopend tandje verbonden, matig breed (4–7 mm) en bij rijpe vruchtlichamen aan de basis vaak door dwarsaderen verbonden. Ze zijn wit tot grijswit, lopen op latere leeftijd soms bleekroze aan of krijgen roodbruine vlekken, met gladde gelijkkleurige sneden. De basidiën zijn viersporig en knotsvormig (26–38 × 7–10 μm). Cheilocystiden vormen een steriele plaatjessnede en zijn spoelvormig tot onregelmatig gevormd, glad of voorzien van enkele apicale of zijdelingse vingervormige uitsteeksels; pleurocystiden ontbreken.",
+      "stipe": "De 5–12 cm hoge (soms tot 15–18 cm) en 0,2–0,5 cm dikke, holle, stijve maar brosse steel is cilindrisch of naar beneden toe iets verbreed en loopt vaak uit in een wortelende pseudorhiza. Het meest kenmerkende onderscheid zijn de fijne tot grove lengtegroeven – soms licht gedraaid – die met een loep zichtbaar of op de tast voelbaar zijn, al komen af en toe exemplaren met een gladde steel voor. Zilvergrijs tot leigrijs of grijsbruin, aan de top vaak bleker en fijn bepoederd, wordt hij naar de basis toe donkerder roodbruin; de basis is bekleed met dichte, grove witte haren en een ring ontbreekt.",
+      "flesh": "Het vlees is dun, waterig witachtig tot grijsachtig en in de steel kraakbeenachtig. Het heeft een onopvallende of zwak radijsachtige tot melige geur en een milde, soms licht scherpe smaak.",
+      "sporePrint": "De sporenprint is wit. De sporen zijn breed ellipsoïd tot pitvormig, glad, hyalien en amyloïd, meten 7,5–10,5 × 5–7,5 μm (soms tot 12 × 8 μm) en bevatten soms oliedruppels.",
+      "habitat": "Saprotroof op dood hout van loofbomen – vooral eik, daarnaast beuk, esdoorn, es, els, berk, hazelaar en linde –, groeiend op rottende stronken, gevallen stammen, takken, twijgen en begraven hout nabij de voet van bomen, en zelden op naaldhout. De vruchtlichamen verschijnen van mei tot december (met een piek van de zomer tot de late herfst, en soms tot in zachte winters) alleenstaand, in kleine groepjes of in kleine bundels.",
+      "uses": "Niet eetbaar; de paddenstoel heeft geen culinaire waarde en bevat volgens meldingen lage concentraties muscarine, waardoor hij niet mag worden gegeten.",
+      "confusion": "Mycena galericulata groeit op vergelijkbare loofhoutstronken, maar heeft een volledig gladde, glanzende steel zonder lengtegroeven. Mycena inclinata groeit in dichte bundels op eikenstronken met een sterk getande hoedrand en een gladde steel die van de basis af naar boven toe helder oranjebruin tot roodbruin kleurt. Mycena vitilis is kleiner en slanker met minder dan 23 plaatjes die de steel bereiken, een taai, glad, gelatineus steeloppervlak, smallere sporen en meestal geen gespen. Mycena maculata kan dezelfde roodbruine vlekken op hoed en plaatjes hebben, maar mist de gegroefde steel en verschilt microscopisch. Mycena laevigata heeft een witachtige tot geelbruine hoed, een gladde steel, kleinere sporen (7–8 × 4 μm) en geeft de voorkeur aan bergachtige standplaatsen.",
+      "notes": "Als krachtige afbreker van lignine en cellulose in houtachtig strooisel wordt de soort soms geparasiteerd door de schimmels Spinellus fusiger en Spinellus macrocarpus. De vruchtlichamen en het mycelium vertonen een zwakke bioluminescentie met een dagritme (470–640 nm), al is het licht doorgaans te zwak om met het blote oog te zien en vereist het fotografie met lange sluitertijd of gevoelige meetinstrumenten om het waar te nemen. De soort produceert daarnaast twee ongebruikelijke hydroxyvetzuren. Zeldzame vrijwel zuiver witte exemplaren zijn onderscheiden als forma candida en exemplaren met een gladde steel als forma laevipes, al komen overgangsvormen voor."
+    },
+    "pl": {
+      "description": "Szeroko rozpowszechniony saprotroficzny grzyb blaszkowy owocnikujący pojedynczo, w małych grupach lub w luźnych kępkach na rozkładających się pniakach drzew liściastych, opadłych gałęziach i zagrzebanym drewnie, a sporadycznie także na drewnie iglastym. Pospolity w całej Europie, w tym w Wielkiej Brytanii i Irlandii, występuje również w Azji, Ameryce Północnej oraz na Falklandach.",
+      "cap": "Kapelusz ma średnicę 2–4,5 cm (wyjątkowo do 5 cm); początkowo jajowaty do stożkowatego, z czasem rozpościera się do dzwonkowatego lub wypukłego z wyraźnym środkowym garbkiem, a jego brzeg jest za młodu lekko podwinięty i często karbowany lub ząbkowany, później rozpostarty lub falisty. Sucha, matowa powierzchnia jest za młodu delikatnie oszroniona, potem gładka, w wilgotną pogodę lekko śliska, prześwitująco prążkowana do grubo bruzdowanej przy brzegu. Barwa waha się od ciemnoszarobrązowej po jasnosrebrzystoszarą, najciemniejsza w środku i jaśniejsza ku brzegowi, czasem płowiejąca do różowawopłowej lub pokrywająca się z wiekiem rdzawobrązowymi plamami.",
+      "hymenium": "Do trzonu dochodzi 23–38 blaszek; są one wznoszące się, wąsko przyrośnięte lub przyrośnięte krótkim zbiegającym ząbkiem, umiarkowanie szerokie (4–7 mm) i u dojrzałych owocników często połączone u nasady poprzecznymi żyłkami. Mają barwę białą do szarawobiałej, z wiekiem nabierają czasem bladoróżowego odcienia lub rdzawoczerwonych plam, a ich ostrza są gładkie i tej samej barwy. Podstawki są czterozarodnikowe i maczugowate (26–38 × 7–10 μm). Cheilocystydy tworzą płonne ostrze blaszki, są wrzecionowate do nieregularnych, gładkie lub zaopatrzone w kilka szczytowych bądź bocznych palczastych wyrostków; pleurocystyd brak.",
+      "stipe": "Trzon osiąga 5–12 cm wysokości (sporadycznie do 15–18 cm) i 0,2–0,5 cm grubości; jest rurkowaty, sztywny, lecz kruchy, walcowaty lub lekko rozszerzający się ku dołowi i często przechodzi w korzeniasto wydłużoną pseudoryzę. Jego najbardziej charakterystyczną cechą są delikatne lub wyraźne podłużne bruzdy – czasem lekko skręcone – widoczne przez lupę lub wyczuwalne w dotyku, choć sporadycznie trafiają się okazy o gładkim trzonie. Srebrzystoszary do łupkowoszarego lub szarobrązowego, u szczytu często jaśniejszy i delikatnie oprószony, ku podstawie ciemnieje do czerwonobrązowego i jest tam gęsto pokryty szorstkimi, białymi włoskami; pierścienia brak.",
+      "flesh": "Miąższ jest cienki, wodnisty, białawy do szarawego, a w trzonie chrząstkowaty. Zapach jest niewyraźny lub słabo rzodkiewkowy do mącznego, a smak łagodny, sporadycznie lekko ostry.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są szerokoelipsoidalne do pestkowatych, gładkie, bezbarwne i amyloidalne, o wymiarach 7,5–10,5 × 5–7,5 μm (wyjątkowo do 12 × 8 μm), czasem zawierają krople tłuszczu.",
+      "habitat": "Gatunek saprotroficzny rozwijający się na martwym drewnie drzew liściastych – zwłaszcza dębów, a także buków, klonów, jesionów, olsz, brzóz, leszczyn i lip – na murszejących pniakach, leżących pniach, gałęziach, gałązkach oraz zagrzebanym drewnie u nasady drzew, rzadko na drewnie iglastym. Owocniki pojawiają się od maja do grudnia (najliczniej od lata do późnej jesieni, a podczas łagodnych zim także później) pojedynczo, w małych grupach lub w niewielkich kępkach.",
+      "uses": "Grzyb niejadalny; nie ma wartości kulinarnej, a według doniesień zawiera niewielkie ilości muskaryny, dlatego nie należy go spożywać.",
+      "confusion": "Mycena galericulata rośnie na podobnych pniakach drzew liściastych, ale ma całkowicie gładki, lśniący trzon bez podłużnych bruzd. Mycena inclinata owocnikuje w gęstych kępach na pniakach dębowych, ma silnie ząbkowany brzeg kapelusza oraz gładki trzon przebarwiający się od podstawy ku górze na jaskrawopomarańczowobrązowo do czerwonobrązowo. Mycena vitilis jest mniejsza i smuklejsza, ma mniej niż 23 blaszki dochodzące do trzonu, elastyczny, gładki trzon o zżelowanej powierzchni, węższe zarodniki i zwykle nie ma sprzążek. Mycena maculata może podobnie pokrywać się czerwonobrązowymi plamami na kapeluszu i blaszkach, lecz nie ma bruzdowanego trzonu i różni się cechami mikroskopowymi. Mycena laevigata ma białawy do żółtobrązowego kapelusz, gładki trzon, mniejsze zarodniki (7–8 × 4 μm) i preferuje siedliska górskie.",
+      "notes": "Sprawnie rozkłada ligninę i celulozę w ściółce drzewnej, a sporadycznie bywa porażany przez pleśnie pasożytnicze Spinellus fusiger i Spinellus macrocarpus. Owocniki oraz grzybnia wykazują słabą bioluminescencję o rytmie dobowym (470–640 nm), jednak świecenie jest zwykle zbyt słabe, by dostrzec je gołym okiem, i wymaga fotografii z długim czasem naświetlania lub czułej aparatury. Wytwarza także dwa nietypowe hydroksykwasy tłuszczowe. Rzadkie, niemal czysto białe okazy opisywano jako forma candida, a okazy o gładkim trzonie jako forma laevipes, choć występują również formy pośrednie."
+    },
+    "hu": {
+      "description": "Széles körben elterjedt szaprotróf lemezes gomba, amely magányosan, kisebb csoportokban vagy laza csomókban terem korhadó lombos fák tuskóin, lehullott ágakon és talajba temetett faanyagon, ritkán fenyőfán is. Európa-szerte gyakori, beleértve Nagy-Britanniát és Írországot is, emellett Ázsiában, Észak-Amerikában és a Falkland-szigeteken is előfordul.",
+      "cap": "A kalap 2–4,5 cm átmérőjű (ritkán 5 cm-ig). Kezdetben tojásdad vagy kúpos, majd harang alakúra vagy domborúra kiterül, közepén markáns púppal; pereme eleinte kissé begöngyölt és gyakran csipkés vagy fogazott, idővel kiterülő vagy hullámos. Száraz, matt felszíne fiatalon finoman deres, később sima, nedves időben kissé síkos, a széle felé áttetszően bordázott vagy durván barázdált. Színe a sötét szürkésbarnától a halvány ezüstszürkéig terjed, középen a legsötétebb, a perem felé világosabb, idővel olykor rózsás-okkeresre fakul vagy rozsdabarna foltok jelennek meg rajta.",
+      "hymenium": "A tönköt 23–38 lemez éri el; ezek felkanyarodók, keskenyen tönkhöz nőttek vagy rövid, lefutó foggal kapcsolódnak, közepesen szélesek (4–7 mm), és az érett termőtesteknél a tövükön gyakran keresztirányban erezettek. Fehérek vagy szürkésfehérek, idővel néha halvány rózsaszínű árnyalatot kapnak vagy vörösesbarna foltok jelennek meg rajtuk; élük sima és azonos színű. A bazídiumok négyspórásak és bunkó alakúak (26–38 × 7–10 μm). A keilocisztídiumok steril lemezélt alkotnak, orsó alakúak vagy szabálytalanok, simák vagy néhány csúcsi, illetve oldalsó ujjszerű nyúlványt viselnek; pleurocisztídiumok nincsenek.",
+      "stipe": "A tönk 5–12 cm magas (ritkán 15–18 cm-ig) és 0,2–0,5 cm vastag; üreges, merev, mégis törékeny, hengeres vagy lefelé kissé szélesedő, és gyakran gyökérszerű nyúlványban (pszeudorrhizában) folytatódik. Legjellemzőbb bélyege a finomtól a durváig terjedő hosszanti barázdáltság – amely néha kissé csavart –, ez nagyítóval jól látható vagy tapintással is érezhető, bár olykor sima tönkű példányok is előfordulnak. Ezüstszürke, palaszürke vagy szürkésbarna, a csúcsán gyakran világosabb és finoman korpás, a töve felé sötétebb vörösesbarnára színeződik, ahol sűrű, durva fehér szőrök borítják; gallérja nincs.",
+      "flesh": "A hús vékony, vizenyős, fehérestől szürkésig terjedő színű, a tönkben porcos. Szaga jellegtelen vagy enyhén retek-, illetve lisztszerű, íze enyhe, olykor kissé csípős.",
+      "sporePrint": "A spórapor fehér. A spórák szélesen ellipszoidok vagy mag alakúak, simák, színtelenek és amiloidok, méretük 7,5–10,5 × 5–7,5 μm (ritkán 12 × 8 μm-ig), és olykor olajcseppeket tartalmaznak.",
+      "habitat": "Szaprotróf faj lombos fák – különösen tölgy, valamint bükk, juhar, kőris, éger, nyír, mogyoró és hárs – elhalt faanyagán; korhadó tuskókon, kidőlt törzseken, ágakon, gallyakon és a fák töve közelében eltemetett faanyagon nő, fenyőfán ritka. Termőtestei májustól decemberig jelennek meg (nyártól késő őszig tetőzve, enyhe teleken akár tovább is) magányosan, kisebb csoportokban vagy kis csomókban.",
+      "uses": "Nem ehető; kulináris értéke nincs, és a beszámolók szerint kis koncentrációban muszkarint tartalmaz, ezért fogyasztása kerülendő.",
+      "confusion": "A Mycena galericulata hasonló lombosfa-tuskókon terem, de tönkje teljesen sima és fényes, hosszanti barázdák nélkül. A Mycena inclinata sűrű csomókban nő tölgytuskókon, kalappereme erősen csipkés, sima tönkje pedig a tövétől felfelé élénk narancsbarnára vagy vörösesbarnára színeződik. A Mycena vitilis kisebb és karcsúbb, 23-nál kevesebb lemeze éri el a tönköt, tönkje szívós, sima és kocsonyás felületű, spórái keskenyebbek, és általában nincsenek csatjai. A Mycena maculata kalapján és lemezein szintén megjelenhetnek vörösesbarna foltok, de tönkje nem barázdált, és mikroszkópos bélyegei is eltérnek. A Mycena laevigata kalapja fehéres vagy sárgásbarna, tönkje sima, spórái kisebbek (7–8 × 4 μm), és hegyvidéki élőhelyeket kedvel.",
+      "notes": "Erőteljesen bontja a faanyagban lévő lignint és cellulózt, termőtestein pedig olykor a Spinellus fusiger és a Spinellus macrocarpus gombaparazita penészfajok élősködnek. Termőtestei és micéliuma gyenge, napi ritmust követő biolumineszcenciát mutat (470–640 nm), ám a fény többnyire túl halvány ahhoz, hogy szabad szemmel látható legyen, kimutatásához hosszú expozíciós fotózás vagy érzékeny műszer szükséges. Két szokatlan hidroxizsírsavat is termel. A ritka, szinte tiszta fehér példányokat forma candida, a sima tönkűeket pedig forma laevipes néven különítették el, bár átmeneti alakok is előfordulnak."
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă cu lamele larg răspândită, care fructifică solitar, în grupuri mici sau în tufe laxe pe cioate aflate în descompunere de foioase, pe ramuri căzute și pe lemn îngropat, iar ocazional pe lemn de conifere. Comună în toată Europa, inclusiv în Marea Britanie și Irlanda, se întâlnește și în Asia, America de Nord și Insulele Falkland.",
+      "cap": "Pălăria măsoară 2–4,5 cm în diametru (ocazional până la 5 cm); inițial ovoidă până la conică, se deschide spre campanulată sau convexă, cu un umbon central proeminent, iar marginea este la început ușor răsfrântă spre interior și adesea festonată sau dințată, devenind evazată sau ondulată cu vârsta. Suprafața uscată și mată este fin pruinoasă în tinerețe, apoi devine netedă, ușor lubrifiantă pe vreme umedă și striată translucid până la grosier brăzdată spre margine. Culoarea variază de la gri-brun închis la gri-argintiu pal, mai închisă în centru și mai deschisă spre margine, decolorându-se uneori spre roz-ocru sau căpătând pete brun-ruginii odată cu înaintarea în vârstă.",
+      "hymenium": "Cele 23–38 de lamele care ajung la picior sunt ascendente, îngust adnate sau prinse printr-un scurt dinte decurent, moderat de late (4–7 mm) și adesea unite prin nervuri transversale la bază la exemplarele mature. Sunt albe până la alb-cenușii, uneori cu o nuanță roz pal sau cu pete brun-roșcate la maturitate, având muchii netede, de aceeași culoare. Bazidiile sunt tetrasporice și clavate (26–38 × 7–10 μm). Cheilocistidele formează o muchie sterilă și sunt fusiforme până la neregulate, netede sau prevăzute cu câteva proeminențe apicale sau laterale digitiforme; pleurocistidele lipsesc.",
+      "stipe": "Piciorul are 5–12 cm înălțime (ocazional până la 15–18 cm) și 0,2–0,5 cm grosime; este gol pe dinăuntru, rigid, dar casant, cilindric sau ușor lățit spre bază și se prelungește adesea într-o pseudoriză radicantă. Trăsătura sa cea mai caracteristică o constituie șanțurile longitudinale fine până la grosiere – uneori ușor răsucite – vizibile cu lupa sau perceptibile la atingere, deși apar ocazional și exemplare cu picior neted. De culoare gri-argintiu până la gri-ardeziu sau gri-brun, adesea mai deschis și fin pudrat la vârf, devine brun-roșcat mai închis spre bază, care este acoperită cu peri albi, deși și aspri; nu prezintă inel.",
+      "flesh": "Carnea este subțire, apoasă, albicioasă până la cenușie și cartilaginoasă în picior. Are un miros indistinct sau slab de ridiche până la făinos și un gust blând, ocazional ușor iute.",
+      "sporePrint": "Amprenta sporală este albă. Sporii sunt larg elipsoidali până la în formă de sâmbure, netezi, hialini și amiloizi, măsurând 7,5–10,5 × 5–7,5 μm (ocazional până la 12 × 8 μm), conținând uneori picături de ulei.",
+      "habitat": "Specie saprotrofă pe lemn mort de arbori foioși – în special stejar, precum și fag, arțar, frasin, arin, mesteacăn, alun și tei – crescând pe cioate putrede, trunchiuri căzute, ramuri, crenguțe și lemn îngropat lângă baza copacilor, rar pe lemn de conifere. Corpurile de fructificație apar din mai până în decembrie (cu un vârf din vară până toamna târziu și ocazional în iernile blânde), solitar, în grupuri mici sau în tufe reduse.",
+      "uses": "Necomestibilă; nu are valoare culinară și s-a raportat că conține concentrații scăzute de muscarină, astfel încât nu trebuie consumată.",
+      "confusion": "Mycena galericulata crește pe cioate similare de foioase, dar are un picior complet neted și lucios, lipsit de șanțuri longitudinale. Mycena inclinata fructifică în tufe dese pe cioate de stejar, având marginea pălăriei puternic festonată și un picior neted care devine portocaliu-brun aprins până la brun-roșcat de la bază spre vârf. Mycena vitilis este mai mică și mai zveltă, cu mai puțin de 23 de lamele care ajung la picior, un picior tenace și neted cu suprafață gelatinizată, spori mai îngusti și, în general, fără fibule. Mycena maculata poate prezenta pete brun-roșcate similare pe pălărie și lamele, dar nu are piciorul brăzdat și diferă microscopic. Mycena laevigata are pălăria albicioasă până la galben-brună, piciorul neted, spori mai mici (7–8 × 4 μm) și preferă habitatele montane.",
+      "notes": "Descompunător viguros al ligninei și celulozei din litiera lemnoasă, este ocazional parazitată de mucegaiurile Spinellus fusiger și Spinellus macrocarpus. Corpurile de fructificație și miceliul manifestă o bioluminescență slabă cu ritm diurn (470–640 nm), însă strălucirea este în general prea slabă pentru a fi văzută cu ochiul liber și necesită fotografie cu expunere lungă sau instrumente sensibile pentru detecție. Produce, de asemenea, doi acizi grași hidroxilați neobișnuiți. Exemplarele rare, aproape complet albe, au fost tratate ca forma candida, iar cele cu picior neted ca forma laevipes, deși există și forme intermediare."
+    },
+    "bg": {
+      "description": "Широко разпространена сапротрофна пластинчата гъба, която плододава поединично, на малки групи или на рехави туфи върху гниещи пънове на широколистни дървета, паднали клони и заровена дървесина, а понякога и върху иглолистна дървесина. Обичайна в цяла Европа, включително Великобритания и Ирландия, тя се среща също в Азия, Северна Америка и на Фолкландските острови.",
+      "cap": "Гуглата е с диаметър 2–4,5 см (понякога до 5 см); отначало е яйцевидна до конусовидна, а после се разтваря до камбанковидна или изпъкнала с добре изразена централна гърбица, като ръбът първоначално е леко подвит и често назъбен или вълновидно нарязан, а с възрастта става разперен или вълнообразен. Сухата, матова повърхност е фино напрашена в младост, след което става гладка, леко хлъзгава във влажно време и прозиращо набраздена до грубо нагъната към ръба. Оцветяването варира от тъмно сиво-кафяво до бледо сребристосиво, най-тъмно в центъра и по-светло към ръба, като с възрастта понякога избледнява до розово-охрено или развива ръждивокафяви петна.",
+      "hymenium": "До пънчето достигат 23–38 ламели; те са възходящи, тясно прираснали или прикрепени с късо низбягващо зъбче, умерено широки (4–7 мм) и при зрелите плодни тела често свързани с напречни жилки в основата. Бели до сивкавобели, с възрастта понякога придобиват бледорозов оттенък или червеникавокафяви петна, а ръбовете им са гладки и едноцветни. Базидиите са четириспорови и бухалковидни (26–38 × 7–10 мкм). Хейлоцистидиите образуват стерилен ръб на ламелите и са вретеновидни до неправилни по форма, гладки или с няколко връхни или странични пръстовидни израстъка; плевроцистидии липсват.",
+      "stipe": "Пънчето е високо 5–12 см (понякога до 15–18 см) и дебело 0,2–0,5 см; то е кухо, твърдо, но крехко, цилиндрично или леко разширено надолу и често продължава във вкореняваща се псевдориза. Най-характерният му белег са фините до груби надлъжни бразди – понякога леко усукани – които се виждат под лупа или се усещат на пипане, макар че понякога се срещат и екземпляри с гладко пънче. Сребристосиво до шистовосиво или сиво-кафяво, често по-светло и фино напрашено при върха, то потъмнява до червеникавокафяво към основата, която е покрита с гъсти, груби бели власинки; пръстенче липсва.",
+      "flesh": "Месото е тънко, воднисто, белезникаво до сивкаво, а в пънчето – хрущялно. Миризмата е неопределена или слабо напомняща репичка до брашнена, а вкусът е мек, понякога леко парлив.",
+      "sporePrint": "Споровият прашец е бял. Спорите са широко елипсовидни до семковидни, гладки, хиалинни и амилоидни, с размери 7,5–10,5 × 5–7,5 мкм (понякога до 12 × 8 мкм), като понякога съдържат мастни капчици.",
+      "habitat": "Сапротрофен вид върху мъртва дървесина на широколистни дървета – особено дъб, както и бук, клен, ясен, елша, бреза, леска и липа – върху гниещи пънове, паднали стволове, клони, клонки и заровена дървесина край основите на дърветата, а рядко и върху иглолистна дървесина. Плодните тела се появяват от май до декември (с пик от лятото до късната есен, а при меки зими и по-късно) поединично, на малки групи или на малки туфи.",
+      "uses": "Неядлива; няма кулинарна стойност и според данни съдържа ниски концентрации на мускарин, затова не бива да се консумира.",
+      "confusion": "Mycena galericulata расте върху сходни широколистни пънове, но има напълно гладко, лъскаво пънче без надлъжни бразди. Mycena inclinata плододава на гъсти туфи върху дъбови пънове със силно назъбен ръб на гуглата и гладко пънче, което от основата нагоре става ярко оранжево-кафяво до червеникаво-кафяво. Mycena vitilis е по-дребна и по-стройна, с по-малко от 23 ламели, достигащи пънчето, жилаво и гладко пънче с желатинизирана повърхност, по-тесни спори и обикновено без катарами. Mycena maculata може да има сходни червеникаво-кафяви петна по гуглата и ламелите, но няма набраздено пънче и се различава микроскопски. Mycena laevigata има белезникава до жълто-кафява гугла, гладко пънче, по-дребни спори (7–8 × 4 мкм) и предпочита планински местообитания.",
+      "notes": "Активен разложител на лигнин и целулоза в дървесната постилка, като понякога бива паразитиран от плесените Spinellus fusiger и Spinellus macrocarpus. Плодните тела и мицелът проявяват слаба биолуминесценция с денонощен ритъм (470–640 нм), но светенето обикновено е твърде слабо за невъоръженото око и изисква фотография с дълга експозиция или чувствителна апаратура. Произвежда и две необичайни хидроксимастни киселини. Редките почти чисто бели екземпляри са описвани като forma candida, а тези с гладко пънче – като forma laevipes, въпреки че се срещат и междинни форми."
+    },
+    "hr": {
+      "description": "Široko rasprostranjena saprotrofna gljiva s listićima koja plodonosi pojedinačno, u manjim skupinama ili u rahlim busenima na trulim panjevima bjelogoričnog drveća, palim granama i zakopanom drvu, a povremeno i na crnogoričnom drvu. Česta diljem Europe, uključujući Britaniju i Irsku, javlja se i u Aziji, Sjevernoj Americi te na Falklandskim otocima.",
+      "cap": "Klobuk je promjera 2–4,5 cm (povremeno do 5 cm); isprva je jajolik do stožast, a potom se širi u zvonolik ili konveksan s izraženom središnjom grbicom, dok mu je rub u početku blago podvijen i često narovašen ili nazubljen, a starenjem postaje raširen ili valovit. Suha, mat površina u mladosti je fino pahuljasto nahukana, zatim glatka, po vlažnom vremenu blago skliska te prozirno crtasta do grubo izbrazdana prema rubu. Boja se kreće od tamno sivosmeđe do blijedo srebrnastosive, najtamnija u sredini i svjetlija uz rub, a starenjem ponekad blijedi u ružičasto-oker ili dobiva hrđavosmeđe mrlje.",
+      "hymenium": "Do stručka dopire 23–38 listića; oni su uzlazni, usko prirasli ili prirasli kratkim silaznim zupcem, umjereno široki (4–7 mm) i kod zrelih plodnih tijela često poprečno žilasto povezani u dnu. Bijeli su do sivkastobijeli, ponekad s blagim ružičastim daškom ili crvenkastosmeđim mrljama u starosti, glatke i istobojne oštrice. Bazidiji su četverosporni i batinasti (26–38 × 7–10 μm). Heilocistide tvore sterilnu oštricu listića, vretenaste su do nepravilnog oblika, glatke ili s nekoliko vršnih ili bočnih prstastih izraslina; pleurocistide nedostaju.",
+      "stipe": "Stručak je visok 5–12 cm (povremeno do 15–18 cm) i debeo 0,2–0,5 cm; šupalj je, krut ali krhak, valjkast ili blago proširen prema dnu te se često produljuje u korjenastu pseudorizu. Njegovo najkarakterističnije obilježje su fine do grube uzdužne brazde – ponekad blago uvijene – koje se vide pod povećalom ili se mogu osjetiti dodirom, premda se povremeno nalaze i primjerci glatkog stručka. Srebrnastosiv do škriljastosiv ili sivosmeđ, pri vrhu često svjetliji i fino naprašen, prema dnu postaje tamnije crvenkastosmeđ i prekriven gustim, grubim bijelim dlačicama; vjenčića nema.",
+      "flesh": "Meso je tanko, vodenasto, bjelkasto do sivkasto, a u stručku hrskavičavo. Miris je neodređen ili slabo podsjeća na rotkvicu do brašnast, a okus blag, povremeno blago ljutkast.",
+      "sporePrint": "Otisak spora je bijel. Spore su široko elipsoidne do sjemenkaste, glatke, hijaline i amiloidne, veličine 7,5–10,5 × 5–7,5 μm (povremeno do 12 × 8 μm), a ponekad sadrže uljne kapljice.",
+      "habitat": "Saprotrofna vrsta na mrtvom drvu bjelogoričnih stabala – osobito hrasta, kao i bukve, javora, jasena, johe, breze, lijeske i lipe – gdje raste na trulim panjevima, palim deblima, granama, grančicama i zakopanom drvu uz podnožje stabala, a rijetko na crnogoričnom drvu. Plodna tijela pojavljuju se od svibnja do prosinca (s vrhuncem od ljeta do kasne jeseni, a tijekom blagih zima i dulje) pojedinačno, u malim skupinama ili u manjim busenima.",
+      "uses": "Nejestiva; nema kulinarsku vrijednost, a zabilježeno je da sadrži niske koncentracije muskarina, stoga se ne smije jesti.",
+      "confusion": "Mycena galericulata raste na sličnim bjelogoričnim panjevima, ali ima potpuno gladak, sjajan stručak bez uzdužnih brazda. Mycena inclinata plodonosi u gustim busenima na hrastovim panjevima, ima izrazito nazubljen rub klobuka i gladak stručak koji od dna prema vrhu postaje jarko narančastosmeđ do crvenkastosmeđ. Mycena vitilis je manja i vitkija, ima manje od 23 listića koji dopiru do stručka, žilav i gladak stručak želatinozne površine, uže spore i u pravilu nema kopče. Mycena maculata može imati slične crvenkastosmeđe mrlje na klobuku i listićima, ali nema izbrazdan stručak i razlikuje se mikroskopski. Mycena laevigata ima bjelkast do žućkastosmeđ klobuk, gladak stručak, sitnije spore (7–8 × 4 μm) i preferira planinska staništa.",
+      "notes": "Snažan je razgrađivač lignina i celuloze u drvnom otpadu, a povremeno ga parazitiraju plijesni Spinellus fusiger i Spinellus macrocarpus. Plodna tijela i micelij pokazuju slabu bioluminiscenciju s dnevnim ritmom (470–640 nm), no sjaj je u pravilu preslab da bi se vidio golim okom te za otkrivanje zahtijeva fotografiju duge ekspozicije ili osjetljive instrumente. Također stvara dvije neuobičajene hidroksi masne kiseline. Rijetki gotovo potpuno bijeli primjerci opisani su kao forma candida, a primjerci glatkog stručka kao forma laevipes, iako se javljaju i prijelazni oblici."
+    },
+    "sr": {
+      "description": "Широко распрострањена сапротрофна гљива са листићима која плодоноси појединачно, у мањим групама или у растреситим бусеновима на трулим пањевима листопадног дрвећа, опалим гранама и закопаном дрвету, а повремено и на четинарском дрвету. Честа широм Европе, укључујући Британију и Ирску, јавља се и у Азији, Северној Америци и на Фокландским острвима.",
+      "cap": "Шешир је пречника 2–4,5 см (повремено до 5 см); у почетку је јајаст до купаст, а затим се шири у звонаст или испупчен са израженом средишњом грбицом, док је руб у почетку благо подвијен и често назубљен или рецкав, а са старењем постаје раширен или таласаст. Сува, мат површина у младости је фино напрашена, потом глатка, по влажном времену благо клизава и провидно пругаста до грубо избраздана ка рубу. Боја варира од тамно сивосмеђе до бледо сребрнастосиве, најтамнија у средини и светлија уз руб, а са старењем понекад бледи у ружичасто-окер или добија рђастосмеђе пеге.",
+      "hymenium": "До дршке допире 23–38 листића; они су узлазни, уско прирасли или причвршћени кратким силазним зупцем, умерено широки (4–7 мм) и код зрелих плодних тела често попречно жиласто повезани при основи. Бели су до сивкастобели, понекад са бледоружичастим преливом или црвенкастосмеђим пегама у старости, глатке и истобојне ивице. Базидије су четвороспорне и батинасте (26–38 × 7–10 мкм). Хеилоцистиде образују стерилну ивицу листића, вретенасте су до неправилног облика, глатке или са неколико вршних или бочних прстастих израштаја; плеуроцистиде недостају.",
+      "stipe": "Дршка је висока 5–12 см (повремено до 15–18 см) и дебела 0,2–0,5 см; шупља је, крута али крхка, цилиндрична или благо проширена наниже и често се продужава у коренолику псеудоризу. Њена најкарактеристичнија особина су фине до грубе уздужне бразде – понекад благо увијене – које се виде под лупом или се осећају под прстима, мада се повремено јављају и примерци са глатком дршком. Сребрнастосива до шкриљастосива или сивосмеђа, при врху често светлија и фино напрашена, ка основи постаје тамније црвенкастосмеђа и обрасла густим, грубим белим длачицама; прстен не постоји.",
+      "flesh": "Месо је танко, воденасто, беличасто до сивкасто, а у дршци хрскавичаво. Мирис је неодређен или благо подсећа на ротквицу до брашнаст, а укус благ, повремено благо љуткаст.",
+      "sporePrint": "Отисак спора је бео. Споре су широко елипсоидне до семенкасте, глатке, хијалине и амилоидне, величине 7,5–10,5 × 5–7,5 мкм (повремено до 12 × 8 мкм), а понекад садрже уљне капљице.",
+      "habitat": "Сапротрофна врста на мртвом дрвету листопадних стабала – нарочито храста, као и букве, јавора, јасена, јове, брезе, леске и липе – где расте на трулим пањевима, палим стаблима, гранама, гранчицама и закопаном дрвету уз подножје стабала, а ретко на четинарском дрвету. Плодна тела се појављују од маја до децембра (са врхунцем од лета до касне јесени, а током благих зима и дуже) појединачно, у малим групама или у мањим бусеновима.",
+      "uses": "Нејестива; нема кулинарску вредност, а забележено је да садржи ниске концентрације мускарина, па се не сме јести.",
+      "confusion": "Mycena galericulata расте на сличним листопадним пањевима, али има потпуно глатку, сјајну дршку без уздужних бразди. Mycena inclinata плодоноси у густим бусеновима на храстовим пањевима, има изразито назубљен руб шешира и глатку дршку која од основе навише постаје јарко наранџастосмеђа до црвенкастосмеђа. Mycena vitilis је мања и виткија, има мање од 23 листића који допиру до дршке, жилаву и глатку дршку желатинозне површине, уже споре и обично нема копче. Mycena maculata може имати сличне црвенкастосмеђе пеге на шеширу и листићима, али нема избраздану дршку и разликује се микроскопски. Mycena laevigata има беличаст до жућкастосмеђ шешир, глатку дршку, ситније споре (7–8 × 4 мкм) и преферира планинска станишта.",
+      "notes": "Снажан је разлагач лигнина и целулозе у дрвном отпаду, а повремено је паразитирају плесни Spinellus fusiger и Spinellus macrocarpus. Плодна тела и мицелијум показују слабу биолуминисценцију са дневним ритмом (470–640 нм), али је сјај углавном сувише слаб да би се видео голим оком и за откривање захтева фотографију са дугом експозицијом или осетљиве инструменте. Такође производи две необичне хидрокси масне киселине. Ретки, готово потпуно бели примерци описивани су као forma candida, а примерци са глатком дршком као forma laevipes, иако се јављају и прелазни облици."
+    },
+    "sl": {
+      "description": "Široko razširjena saprotrofna lističarka, ki uspeva posamično, v manjših skupinah ali v rahlih šopih na trohnečih štorih listavcev, odpadlih vejah in zakopanem lesu, občasno pa tudi na lesu iglavcev. Pogosta je po vsej Evropi, vključno z Britanijo in Irsko, pojavlja pa se tudi v Aziji, Severni Ameriki in na Falklandskih otokih.",
+      "cap": "Klobuk meri 2–4,5 cm v premeru (občasno do 5 cm); sprva je jajčast do stožčast, nato se razpre v zvonastega ali izbočenega z izrazito osrednjo grbico, rob pa je sprva rahlo podvihan in pogosto nazobčan ali valovito izrezan, v starosti razširjen ali valovit. Suha, mat površina je v mladosti fino poprhnjena, pozneje gladka, v vlažnem vremenu rahlo spolzka ter prosojno črtasta do grobo nažlebičena proti robu. Barva sega od temno sivo-rjave do bledo srebrnkasto sive, najtemnejša je v sredini in svetlejša ob robu, v starosti pa včasih obledi v rožnato okrasto ali dobi rjasto rjave pege.",
+      "hymenium": "Do beta sega 23–38 lističev; so vzpenjajoči, ozko prirasli ali prirasli s kratkim spuščajočim se zobcem, zmerno široki (4–7 mm) in pri zrelih trosnjakih na dnu pogosto prečno žilasto povezani. So beli do sivkasto beli, v starosti včasih z bledo rožnatim nadihom ali rdečkasto rjavimi madeži, z gladko in istobarvno ostrinko. Bazidiji so štiritrosni in kijasti (26–38 × 7–10 μm). Heilocistide tvorijo sterilno ostrinko lističa in so vretenaste do nepravilne oblike, gladke ali z nekaj vršnimi oziroma stranskimi prstastimi izrastki; plevrocistid ni.",
+      "stipe": "Bet je visok 5–12 cm (občasno do 15–18 cm) in debel 0,2–0,5 cm; je votel, čvrst, vendar krhek, valjast ali navzdol rahlo razširjen ter se pogosto nadaljuje v koreninasto psevdorizo. Njegova najbolj značilna lastnost so fini do grobi vzdolžni žlebovi – včasih rahlo zaviti – ki so vidni pod lupo ali otipljivi na dotik, čeprav se občasno pojavljajo tudi primerki z gladkim betom. Srebrnkasto siv do skrilasto siv ali sivo-rjav, pri vrhu pogosto svetlejši in fino poprhnjen, proti dnišču potemni v rdečkasto rjavo in je tam gosto poraščen z grobimi belimi dlačicami; obročka nima.",
+      "flesh": "Meso je tanko, vodenasto, belkasto do sivkasto, v betu pa hrustančasto. Vonj je neizrazit ali rahlo po redkvici do mokast, okus pa blag, občasno rahlo pekoč.",
+      "sporePrint": "Trosni prah je bel. Trosi so široko elipsoidni do peškasti, gladki, hialini in amiloidni, veliki 7,5–10,5 × 5–7,5 μm (občasno do 12 × 8 μm), včasih pa vsebujejo oljne kapljice.",
+      "habitat": "Saprotrofna vrsta na odmrlem lesu listavcev – zlasti hrasta, pa tudi bukve, javorja, jesena, jelše, breze, leske in lipe – ki raste na trohnečih štorih, podrtih deblih, vejah, vejicah in zakopanem lesu ob vznožju dreves, redko na lesu iglavcev. Trosnjaki se pojavljajo od maja do decembra (najpogosteje od poletja do pozne jeseni, ob milih zimah pa tudi pozneje) posamično, v manjših skupinah ali v majhnih šopih.",
+      "uses": "Neužitna; nima kulinarične vrednosti, poleg tega naj bi vsebovala nizke koncentracije muskarina, zato je ne smemo uživati.",
+      "confusion": "Mycena galericulata raste na podobnih štorih listavcev, vendar ima popolnoma gladek, bleščeč bet brez vzdolžnih žlebov. Mycena inclinata uspeva v gostih šopih na hrastovih štorih, ima močno nazobčan rob klobuka in gladek bet, ki se od dnišča navzgor obarva živo oranžno-rjavo do rdečkasto rjavo. Mycena vitilis je manjša in vitkejša, ima manj kot 23 lističev, ki segajo do beta, žilav in gladek bet z želatinasto površino, ožje trose ter običajno brez zaponk. Mycena maculata ima lahko podobne rdečkasto rjave pege na klobuku in lističih, vendar nima nažlebičenega beta in se razlikuje mikroskopsko. Mycena laevigata ima belkast do rumenkasto rjav klobuk, gladek bet, manjše trose (7–8 × 4 μm) in daje prednost gorskim rastiščem.",
+      "notes": "Je močan razkrojevalec lignina in celuloze v lesnem opadu, občasno pa nanj zajedata plesni Spinellus fusiger in Spinellus macrocarpus. Trosnjaki in micelij kažejo šibko bioluminiscenco z dnevnim ritmom (470–640 nm), vendar je sijaj običajno prešibek za prosto oko in zahteva fotografijo z dolgo osvetlitvijo ali občutljive instrumente. Tvori tudi dve nenavadni hidroksi maščobni kislini. Redke, skoraj povsem bele primerke so obravnavali kot forma candida, primerke z gladkim betom pa kot forma laevipes, čeprav se pojavljajo tudi vmesne oblike."
+    },
+    "uk": {
+      "description": "Широко розповсюджений сапротрофний пластинчастий гриб, що плодоносить поодинці, невеликими групами або пухкими пучками на гнилих пнях листяних дерев, опалих гілках і зануреній у ґрунт деревині, а зрідка й на хвойній деревині. Поширений по всій Європі, включно з Великою Британією та Ірландією, трапляється також в Азії, Північній Америці та на Фолклендських островах.",
+      "cap": "Шапинка діаметром 2–4,5 см (зрідка до 5 см); спочатку яйцеподібна до конічної, згодом розкривається до дзвоникоподібної або опуклої з виразним центральним горбком, а її край спочатку злегка загнутий і часто городчастий або зубчастий, із віком стає розпростертим або хвилястим. Суха матова поверхня в молодості дрібноприпудрена, згодом гладенька, у вологу погоду злегка слизька, прозоро-смугаста до грубоборозенчастої ближче до краю. Забарвлення варіює від темно-сіро-коричневого до блідо-сріблясто-сірого, найтемніше в центрі й світліше біля краю, іноді вицвітає до рожевувато-вохристого або вкривається з віком іржаво-коричневими плямами.",
+      "hymenium": "До ніжки досягає 23–38 пластинок; вони висхідні, вузькоприрослі або прикріплені коротким зубцем, що спускається, помірно широкі (4–7 мм) і в зрілих плодових тіл часто з'єднані поперечними жилками біля основи. Вони білі до сірувато-білих, іноді набувають блідо-рожевого відтінку або червонувато-коричневих плям із віком, із рівними одноколірними краями. Базидії чотириспорові й булавоподібні (26–38 × 7–10 мкм). Хейлоцистиди утворюють стерильний край пластинки, вони веретеноподібні до неправильної форми, гладенькі або з кількома верхівковими чи бічними пальчастими виростами; плевроцистиди відсутні.",
+      "stipe": "Ніжка заввишки 5–12 см (зрідка до 15–18 см) і завтовшки 0,2–0,5 см; порожниста, жорстка, але ламка, циліндрична або злегка розширена донизу й часто продовжується у коренеподібну псевдоризу. Її найхарактернішою ознакою є тонкі або грубі поздовжні борозенки — іноді злегка закручені, — які видно під лупою або можна відчути на дотик, хоча зрідка трапляються екземпляри з гладенькою ніжкою. Сріблясто-сіра до сланцево-сірої або сірувато-коричневої, біля верхівки часто світліша й тонко припудрена, до основи темніє до червонувато-коричневої та густо вкрита грубими білими волосками; кільця немає.",
+      "flesh": "М'якуш тонкий, водянистий, білуватий до сіруватого, а в ніжці хрящуватий. Запах невиразний або слабко редьковий до борошнистого, смак м'який, іноді злегка їдкий.",
+      "sporePrint": "Споровий порошок білий. Спори широко-еліпсоїдні до кісточкоподібних, гладенькі, гіалінові й амілоїдні, розміром 7,5–10,5 × 5–7,5 мкм (зрідка до 12 × 8 мкм), іноді містять краплі олії.",
+      "habitat": "Сапротроф на мертвій деревині листяних дерев — особливо дуба, а також бука, клена, ясена, вільхи, берези, ліщини та липи — зростає на гнилих пнях, повалених стовбурах, гілках, гілочках і зануреній у ґрунт деревині біля основи дерев, рідко на хвойній деревині. Плодові тіла з'являються з травня по грудень (найрясніше з літа до пізньої осені, а в м'які зими й пізніше) поодинці, невеликими групами або невеликими пучками.",
+      "uses": "Неїстівний; не має кулінарної цінності й, за повідомленнями, містить низькі концентрації мускарину, тому його не слід вживати в їжу.",
+      "confusion": "Mycena galericulata росте на подібних листяних пнях, але має цілком гладеньку блискучу ніжку без поздовжніх борозенок. Mycena inclinata плодоносить густими пучками на дубових пнях, має сильно зубчастий край шапинки й гладеньку ніжку, яка від основи вгору стає яскраво-помаранчево-коричневою до червонувато-коричневої. Mycena vitilis дрібніша й стрункіша, має менше 23 пластинок, що досягають ніжки, пружну гладеньку ніжку із желатинізованою поверхнею, вужчі спори та зазвичай не має пряжок. Mycena maculata може мати подібну червонувато-коричневу плямистість на шапинці й пластинках, але не має борозенчастої ніжки та відрізняється мікроскопічно. Mycena laevigata має білувату до жовтувато-коричневої шапинку, гладеньку ніжку, дрібніші спори (7–8 × 4 мкм) і віддає перевагу гірським місцезростанням.",
+      "notes": "Активний руйнівник лігніну та целюлози в деревній підстилці, на якому іноді паразитують цвілеві гриби Spinellus fusiger і Spinellus macrocarpus. Плодові тіла та міцелій виявляють слабку біолюмінесценцію з добовим ритмом (470–640 нм), однак світіння зазвичай занадто слабке для неозброєного ока й потребує фотозйомки з довгою витримкою або чутливих приладів. Також продукує дві незвичні гідроксижирні кислоти. Рідкісні майже чисто-білі екземпляри розглядалися як forma candida, а екземпляри з гладенькою ніжкою — як forma laevipes, хоча трапляються й проміжні форми."
+    },
+    "ru": {
+      "description": "Широко распространенный сапротрофный пластинчатый гриб, плодоносящий одиночно, небольшими группами или рыхлыми пучками на разлагающихся пнях лиственных деревьев, опавших ветвях и погруженной в почву древесине, а изредка и на древесине хвойных пород. Обычен по всей Европе, включая Великобританию и Ирландию, а также встречается в Азии, Северной Америке и на Фолклендских островах.",
+      "cap": "Шляпка диаметром 2–4,5 см (изредка до 5 см) вначале яйцевидная до конической, затем раскрывается до колокольчатой или выпуклой с выраженным центральным бугорком; край сначала слегка подогнутый и часто городчатый или зубчатый, с возрастом становится отогнутым или волнистым. Сухая, матовая поверхность у молодых грибов покрыта тонким мучнистым налетом, затем становится гладкой, в сырую погоду слегка скользкой, а к краю просвечивающе-полосатой до грубо бороздчатой. Окраска варьируется от темно-серо-коричневой до бледно-серебристо-серой, наиболее темная в центре и более светлая у края, иногда с возрастом выцветающая до розовато-охристой или покрывающаяся ржаво-коричневыми пятнами.",
+      "hymenium": "Пластинки, достигающие ножки (23–38 штук), восходящие, узкоприросшие или приросшие коротким нисходящим зубцом, умеренно широкие (4–7 мм) и у зрелых плодовых тел часто соединенные поперечными жилками у основания. Они белые до серовато-белых, иногда с бледно-розовым оттенком или приобретающие с возрастом красновато-коричневые пятна, с ровным одноцветным краем. Базидии четырехспоровые, булавовидные (26–38 × 7–10 мкм). Хейлоцистиды образуют стерильный край пластинки и имеют веретеновидную или неправильную форму, гладкие или с несколькими верхушечными либо боковыми пальцевидными выростами; плевроцистиды отсутствуют.",
+      "stipe": "Ножка высотой 5–12 см (изредка до 15–18 см) и толщиной 0,2–0,5 см, полая, жесткая, но ломкая, цилиндрическая или слегка расширяющаяся книзу, часто переходит в укореняющийся корневидный вырост (псевдоризу). Ее наиболее характерный признак — тонкие или грубые продольные бороздки, иногда слегка спирально закрученные, которые видны в лупу или ощущаются на ощупь, хотя изредка встречаются экземпляры с гладкой ножкой. Серебристо-серая до сланцево-серой или серовато-коричневой, часто более светлая и мелкоприпудренная в верхней части, к основанию она темнеет до красновато-коричневой и покрыта густыми грубыми белыми волосками; кольцо отсутствует.",
+      "flesh": "Мякоть тонкая, водянистая, беловатого или сероватого цвета, в ножке хрящеватая. Запах невыраженный или слабо редечный до мучнистого, вкус мягкий, изредка слегка острый.",
+      "sporePrint": "Споровый порошок белый. Споры широкоэллипсоидальные до косточковидных, гладкие, гиалиновые и амилоидные, размером 7,5–10,5 × 5–7,5 мкм (изредка до 12 × 8 мкм), иногда содержат капли масла.",
+      "habitat": "Сапротроф на мертвой древесине лиственных деревьев — особенно дуба, а также бука, клена, ясеня, ольхи, березы, лещины и липы — растет на гниющих пнях, поваленных стволах, ветвях, сучьях и погруженной в почву древесине у оснований деревьев, реже на древесине хвойных пород. Плодовые тела появляются с мая по декабрь (с пиком с лета до поздней осени, а иногда и в мягкие зимы) одиночно, небольшими группами или небольшими пучками.",
+      "uses": "Несъедобный гриб; кулинарной ценности не имеет, а по имеющимся данным содержит небольшие концентрации мускарина, поэтому употреблять его в пищу не следует.",
+      "confusion": "Mycena galericulata растет на сходных пнях лиственных деревьев, но имеет полностью гладкую блестящую ножку без продольных бороздок. Mycena inclinata плодоносит плотными пучками на дубовых пнях, отличается сильно зубчатым краем шляпки и гладкой ножкой, окрашивающейся от основания вверх в ярко-оранжево-коричневый до красновато-коричневого цвет. Mycena vitilis мельче и стройнее, имеет менее 23 пластинок, достигающих ножки, прочную гладкую желатинизированную поверхность ножки, более узкие споры и обычно лишена пряжек. Mycena maculata может иметь сходные красновато-коричневые пятна на шляпке и пластинках, но не имеет бороздчатой ножки и отличается микроскопически. Mycena laevigata имеет беловатую до желтовато-коричневой шляпку, гладкую ножку, более мелкие споры (7–8 × 4 мкм) и предпочитает горные местообитания.",
+      "notes": "Активный разрушитель лигнина и целлюлозы в древесном опаде; изредка на нем паразитируют плесневые грибы Spinellus fusiger и Spinellus macrocarpus. Его плодовые тела и мицелий обладают слабой биолюминесценцией с суточным ритмом (470–640 нм), однако свечение обычно слишком слабое для невооруженного глаза и требует съемки с длительной выдержкой или чувствительных приборов. Гриб также вырабатывает две необычные гидроксижирные кислоты. Редкие почти чисто белые экземпляры описывались как forma candida, а экземпляры с гладкой ножкой — как forma laevipes, хотя встречаются и переходные формы."
+    },
+    "da": {
+      "description": "En vidt udbredt saprotrof bladhat, der danner frugtlegemer enkeltvis, i små grupper eller i løse knipper på nedbrudte løvtræsstubbe, nedfaldne grene og begravet ved samt lejlighedsvis på nåletræsved. Den er almindelig i hele Europa, inklusive Storbritannien og Irland, og forekommer også i Asien, Nordamerika og på Falklandsøerne.",
+      "cap": "Hatten måler 2–4,5 cm i diameter (lejlighedsvis op til 5 cm) og er først ægformet til kegleformet, siden breder den sig til klokkeformet eller hvælvet med en tydelig pukkel i midten; randen er først let indbøjet og ofte tunget eller tandet og bliver med alderen udbredt eller bølget. Den tørre, matte overflade er fint pudret hos unge eksemplarer, før den bliver glat, let slimet i fugtigt vejr og gennemskinneligt stribet til groft furet mod randen. Farven varierer fra mørkt gråbrun til blegt sølvgrå, mørkest i midten og lysere mod randen, og falmer undertiden til rosa-okker eller får rustbrune pletter med alderen.",
+      "hymenium": "De 23–38 lameller, der når stokken, er opstigende, smalt tilvoksede eller fastvoksede med en kort nedløbende tand, moderat brede (4–7 mm) og ofte tværårede i bunden hos modne frugtlegemer. De er hvide til gråhvide, undertiden med et blegt rosa skær eller rødbrune pletter med alderen, og har glatte, ensfarvede ægge. Basidierne er firesporede og kølleformede (26–38 × 7–10 μm). Cheilocystiderne danner en steril lamelæg og er tenformede til uregelmæssige, glatte eller med nogle få apikale eller sidestillede fingerformede udvækster; pleurocystider mangler.",
+      "stipe": "Stokken er 5–12 cm høj (lejlighedsvis op til 15–18 cm) og 0,2–0,5 cm tyk, hul, stiv men skør, cylindrisk eller let udvidet nedefter og fortsætter ofte i en rodslående forlængelse (pseudorhiza). Dens mest karakteristiske kendetegn er fine til grove længdefurer – undertiden let snoede – som kan ses med lup eller mærkes ved berøring, selv om der lejlighedsvis forekommer eksemplarer med glat stok. Farven er sølvgrå til skifergrå eller gråbrun, ofte lysere og fint pudret foroven, og bliver mørkere rødbrun mod basis, som er dækket af tætte, grove hvide hår; der er ingen ring.",
+      "flesh": "Kødet er tyndt, vandigt hvidligt til gråligt og bruskagtigt i stokken. Det har en ubetydelig eller svagt radiseagtig til melet lugt og en mild, lejlighedsvis let skarp smag.",
+      "sporePrint": "Sporeaftrykket er hvidt. Sporerne er bredt ellipsoidiske til kerneformede, glatte, hyaline og amyloide, måler 7,5–10,5 × 5–7,5 μm (lejlighedsvis op til 12 × 8 μm) og indeholder undertiden oliedråber.",
+      "habitat": "Saprotrof på dødt ved af løvtræer – især eg samt bøg, ahorn, ask, el, birk, hassel og lind – på rådnende stubbe, væltede stammer, grene, kviste og begravet ved nær træernes basis, sjældent på nåletræsved. Frugtlegemerne fremkommer fra maj til december (med højdepunkt fra sommer til sent efterår og lejlighedsvis ind i milde vintre) enkeltvis, i små grupper eller i små knipper.",
+      "uses": "Uspiselig; den har ingen kulinarisk værdi og er rapporteret at indeholde lave koncentrationer af muskarin, så den bør ikke spises.",
+      "confusion": "Mycena galericulata vokser på lignende løvtræsstubbe, men har en helt glat, blank stok uden længdefurer. Mycena inclinata danner tætte knipper på egestubbe med en kraftigt tandet hatrand og en glat stok, der farves klart orangebrun til rødbrun nedefra og op. Mycena vitilis er mindre og slankere med færre end 23 lameller, der når stokken, en sej, glat, gelatineret stokoverflade, smallere sporer og som regel uden øskner. Mycena maculata kan ligeledes få rødbrune pletter på hat og lameller, men mangler den furede stok og afviger mikroskopisk. Mycena laevigata har en hvidlig til gulbrun hat, glat stok, mindre sporer (7–8 × 4 μm) og foretrækker bjergrige voksesteder.",
+      "notes": "En kraftig nedbryder af lignin og cellulose i dødt ved, som lejlighedsvis parasiteres af skimmelsvampene Spinellus fusiger og Spinellus macrocarpus. Frugtlegemerne og myceliet udviser svag bioluminescens med døgnrytme (470–640 nm), men skæret er som regel for svagt til at ses med det blotte øje og kræver langtidseksponering eller følsomme måleinstrumenter. Den danner desuden to usædvanlige hydroxyfedtsyrer. Sjældne næsten rent hvide eksemplarer er blevet henført til forma candida, og eksemplarer med glat stok til forma laevipes, selv om der forekommer overgangsformer."
+    },
+    "sv": {
+      "description": "En vida spridd saprotrof skivling som bildar fruktkroppar enstaka, i små grupper eller i glesa tuvor på multnande lövträdsstubbar, nedfallna grenar och begravd ved samt ibland på barrved. Den är vanlig i hela Europa, inklusive Storbritannien och Irland, och förekommer även i Asien, Nordamerika och på Falklandsöarna.",
+      "cap": "Hatten är 2–4,5 cm bred (ibland upp till 5 cm), först äggformad till kägelformad och breder ut sig till klocklik eller välvd med en tydlig puckel i mitten; kanten är till en början svagt inböjd och ofta naggad eller tandad, och blir med åldern utbredd eller vågig. Den torra, matta ytan är fint pudrad som ung innan den blir slät, lätt klibbig i vått väder och genomlysande strimmig till grovt fårad mot kanten. Färgen varierar från mörkt gråbrun till blekt silvergrå, mörkast i mitten och ljusare nära kanten, och bleknar ibland till rosaaktigt sämskfärgad eller får rostbruna fläckar med åldern.",
+      "hymenium": "De 23–38 skivorna som når foten är uppåtstigande, smalt vidväxta eller fästa med en kort nedlöpande tand, måttligt breda (4–7 mm) och ofta tvärådrade vid basen hos mogna fruktkroppar. De är vita till gråvita, ibland med en blekt rosa ton eller rödbruna fläckar med åldern, med slät, likfärgad egg. Basidierna är fyrsporiga och klubblika (26–38 × 7–10 μm). Keilocystiderna bildar en steril skivegg och är spolformade till oregelbundna, släta eller med några få apikala eller sidoställda fingerlika utskott; pleurocystider saknas.",
+      "stipe": "Foten är 5–12 cm hög (ibland upp till 15–18 cm) och 0,2–0,5 cm tjock, ihålig, styv men spröd, cylindrisk eller svagt vidgad nedåt och fortsätter ofta i en rotliknande förlängning (pseudoriza). Dess mest utmärkande drag är fina till grova längsgående fåror – ibland lätt vridna – som kan ses med lupp eller kännas med fingrarna, även om exemplar med slät fot förekommer ibland. Silvergrå till skiffergrå eller gråbrun, ofta ljusare och fint pudrad upptill, blir den mörkare rödbrun mot basen, som är klädd med täta, grova vita hår; ring saknas.",
+      "flesh": "Köttet är tunt, vattnigt vitaktigt till gråaktigt och broskartat i foten. Det har en obetydlig eller svagt rädislik till mjölig lukt och en mild, ibland svagt skarp smak.",
+      "sporePrint": "Sporavtrycket är vitt. Sporerna är brett ellipsoidiska till kärnformade, släta, hyalina och amyloida, 7,5–10,5 × 5–7,5 μm (ibland upp till 12 × 8 μm), och innehåller ibland oljedroppar.",
+      "habitat": "Saprotrof på död ved av lövträd – särskilt ek samt bok, lönn, ask, al, björk, hassel och lind – växande på murknande stubbar, fallna stammar, grenar, kvistar och begravd ved nära trädbaser, sällan på barrved. Fruktkropparna uppträder från maj till december (med tyngdpunkt från sommar till senhöst, och ibland in i milda vintrar) enstaka, i små grupper eller i små tuvor.",
+      "uses": "Oätlig; den saknar matvärde och har rapporterats innehålla låga halter av muskarin, så den bör inte ätas.",
+      "confusion": "Mycena galericulata växer på liknande lövträdsstubbar men har en helt slät, glansig fot utan längsgående fåror. Mycena inclinata bildar täta tuvor på ekstubbar med kraftigt tandad hattkant och slät fot som blir klart orangebrun till rödbrun nedifrån och upp. Mycena vitilis är mindre och spädare med färre än 23 skivor som når foten, en seg, slät, gelatinerad fotyta, smalare sporer och vanligen inga söljor. Mycena maculata kan också få rödbruna fläckar på hatt och skivor, men saknar den fårade foten och skiljer sig mikroskopiskt. Mycena laevigata har en vitaktig till gulbrun hatt, slät fot, mindre sporer (7–8 × 4 μm) och föredrar bergstrakter.",
+      "notes": "En kraftfull nedbrytare av lignin och cellulosa i vedförna som ibland parasiteras av mögelsvamparna Spinellus fusiger och Spinellus macrocarpus. Fruktkropparna och mycelet uppvisar svag bioluminescens med dygnsrytm (470–640 nm), men skenet är vanligen för svagt för att ses med blotta ögat och kräver långtidsexponering eller känsliga instrument. Den producerar även två ovanliga hydroxifettsyror. Sällsynta nästan rent vita exemplar har förts till forma candida och exemplar med slät fot till forma laevipes, även om övergångsformer förekommer."
+    },
+    "no": {
+      "description": "En vidt utbredt saprotrof skivesopp som danner fruktlegemer enkeltvis, i små grupper eller i løse knipper på morknende løvtrestubber, nedfalne greiner og nedgravd ved, og av og til på barved. Den er vanlig i hele Europa, inkludert Storbritannia og Irland, og forekommer også i Asia, Nord-Amerika og på Falklandsøyene.",
+      "cap": "Hatten er 2–4,5 cm bred (av og til opptil 5 cm), først eggformet til kjegleformet og brer seg ut til klokkeformet eller hvelvet med en tydelig pukkel i midten; kanten er til å begynne med svakt innbøyd og ofte tunget eller tannet, og blir med alderen utbredt eller bølget. Den tørre, matte overflaten er fint pudret hos unge eksemplarer før den blir glatt, svakt klebrig i fuktig vær og gjennomskinnelig stripet til grovt furet mot kanten. Fargen varierer fra mørkt gråbrun til blekt sølvgrå, mørkest i midten og lysere mot kanten, og blekner av og til til rosaaktig okergul eller får rustbrune flekker med alderen.",
+      "hymenium": "De 23–38 skivene som når stilken er oppstigende, smalt tilvokste eller festet med en kort nedløpende tann, middels brede (4–7 mm) og ofte tverråret ved basis hos modne fruktlegemer. De er hvite til gråhvite, av og til med et blekt rosa skjær eller rødbrune flekker med alderen, med glatt, ensfarget egg. Basidiene er firesporede og kølleformede (26–38 × 7–10 μm). Cheilocystidene danner en steril skiveegg og er spoleformede til uregelmessige, glatte eller med noen få apikale eller sidestilte fingerlignende utvekster; pleurocystider mangler.",
+      "stipe": "Stilken er 5–12 cm høy (av og til opptil 15–18 cm) og 0,2–0,5 cm tykk, hul, stiv men sprø, sylindrisk eller svakt utvidet nedover og fortsetter ofte i en rotlignende forlengelse (pseudorhiza). Dens mest karakteristiske trekk er fine til grove langsgående furer – av og til svakt vridd – som kan ses med lupe eller kjennes med fingrene, selv om eksemplarer med glatt stilk forekommer av og til. Sølvgrå til skifergrå eller gråbrun, ofte lysere og fint pudret øverst, blir den mørkere rødbrun mot basis, som er dekket av tette, grove hvite hår; den mangler ring.",
+      "flesh": "Kjøttet er tynt, vannaktig hvitlig til grålig og bruskaktig i stilken. Det har en ubetydelig eller svakt reddiklignende til melet lukt og en mild, av og til svakt skarp smak.",
+      "sporePrint": "Sporeavtrykket er hvitt. Sporene er bredt ellipsoidiske til kjerneformede, glatte, hyaline og amyloide, 7,5–10,5 × 5–7,5 μm (av og til opptil 12 × 8 μm), og inneholder av og til oljedråper.",
+      "habitat": "Saprotrof på død ved av løvtrær – særlig eik, samt bøk, lønn, ask, or, bjørk, hassel og lind – på råtnende stubber, falne stammer, greiner, kvister og nedgravd ved nær trebaser, sjelden på barved. Fruktlegemene kommer fra mai til desember (med topp fra sommer til senhøst, og av og til inn i milde vintre) enkeltvis, i små grupper eller i små knipper.",
+      "uses": "Ikke matsopp; den har ingen kulinarisk verdi og er rapportert å inneholde lave konsentrasjoner av muskarin, så den bør ikke spises.",
+      "confusion": "Mycena galericulata vokser på lignende løvtrestubber, men har en helt glatt, blank stilk uten langsgående furer. Mycena inclinata vokser i tette knipper på eikestubber med en kraftig tannet hattkant og en glatt stilk som blir klart oransjebrun til rødbrun nedenfra og opp. Mycena vitilis er mindre og slankere med færre enn 23 skiver som når stilken, en seig, glatt, gelatinert stilkoverflate, smalere sporer og vanligvis uten bøyler. Mycena maculata kan også få rødbrune flekker på hatt og skiver, men mangler den furede stilken og skiller seg mikroskopisk. Mycena laevigata har en hvitlig til gulbrun hatt, glatt stilk, mindre sporer (7–8 × 4 μm) og foretrekker fjellnære voksesteder.",
+      "notes": "En kraftig nedbryter av lignin og cellulose i vedstrø som av og til parasitteres av muggsoppene Spinellus fusiger og Spinellus macrocarpus. Fruktlegemene og mycelet viser svak bioluminescens med døgnrytme (470–640 nm), men lyset er vanligvis for svakt til å ses med det blotte øye og krever langtidseksponering eller følsomme instrumenter. Den produserer også to uvanlige hydroksifettsyrer. Sjeldne nesten rent hvite eksemplarer er blitt regnet til forma candida og eksemplarer med glatt stilk til forma laevipes, selv om overgangsformer forekommer."
+    },
+    "fi": {
+      "description": "Laajalle levinnyt lahottajahelttasieni, joka kasvaa yksittäin, pieninä ryhminä tai löyhinä tuppaina lahoavilla lehtipuiden kannoilla, pudonneilla oksilla ja maahan hautautuneella puuaineksella sekä satunnaisesti havupuulla. Se on yleinen kaikkialla Euroopassa, mukaan lukien Britannia ja Irlanti, ja esiintyy myös Aasiassa, Pohjois-Amerikassa ja Falklandinsaarilla.",
+      "cap": "Lakki on leveydeltään 2–4,5 cm (satunnaisesti jopa 5 cm), aluksi munanmuotoinen tai kartiomainen ja laajenee kellomaiseksi tai kuperaksi selkeällä keskuskohoumalla; reuna on nuorena hieman sisäänkiertynyt ja usein nyhäinen tai hampainen, vanhemmiten levenevä tai aaltoileva. Kuiva, himmeä pinta on nuorena hienosti härmäinen, muuttuu sitten sileäksi, kostealla säällä hieman niljakkaaksi ja reunaan päin läpikuultavasti uurteiseksi tai karkeasti poimuiseksi. Väri vaihtelee tumman harmaanruskeasta vaalean hopeanharmaaseen, keskeltä tummimpana ja reunalta vaaleampana, ja haalistuu toisinaan vanhemmiten punertavan okranruskeaksi tai saa ruosteenruskeita laikkuja.",
+      "hymenium": "Jalkaan ulottuvia helttoja on 23–38; ne ovat nousevia, kapeasti tasatyvisiä tai lyhyesti johteisella hampaalla jalkaan kiinnittyneitä, kohtalaisen leveitä (4–7 mm) ja täysikasvuisilla itiöemillä tyvestä usein poikittaissuonisia. Heltat ovat valkoisia tai harmaanvalkoisia, saavat toisinaan vaaleanpunertavan sävyn tai vanhemmiten punaruskeita laikkuja, ja niiden terä on tasainen ja samanvärinen. Basidit ovat neli-itiöisiä ja nuijamaisia (26–38 × 7–10 μm). Keilokystidit muodostavat steriilin heltan terän ja ovat sukkulamaisia tai epäsäännöllisen muotoisia, sileitä tai muutamalla kärki- tai sivupuolisella sormimaisella ulokkeella; pleurokystidit puuttuvat.",
+      "stipe": "Jalka on 5–12 cm korkea (satunnaisesti jopa 15–18 cm) ja 0,2–0,5 cm paksu, ontto, jäykkä mutta hauras, tasapaksu tai alaspäin hieman levenevä ja jatkuu usein juurehtivana jatkeena (pseudoritsa). Sen luonteenomaisin tuntomerkki ovat hienot tai karkeat pitkittäisuurteet – toisinaan hieman kiertyneet – jotka näkyvät luupilla tai tuntuvat sormin, vaikka satunnaisesti esiintyy myös sileäjalkaisia yksilöitä. Väriltään jalka on hopeanharmaa, liuskekivenharmaa tai harmaanruskea, yläosastaan usein vaaleampi ja hienosti härmäinen, tyveä kohti tummemman punaruskea ja tiheän karkean valkoisen karvan peittämä; rengas puuttuu.",
+      "flesh": "Malto on ohutta, vetisen valkeahkoa tai harmahtavaa ja jalassa rustoista. Haju on huomaamaton tai heikosti retikkamainen tai jauhomainen, ja maku on mieto, satunnaisesti hieman kirpeä.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat leveän ellipsoidimaisia tai siemenmäisiä, sileitä, värittömiä ja amyloideja, kooltaan 7,5–10,5 × 5–7,5 μm (satunnaisesti jopa 12 × 8 μm), ja sisältävät toisinaan öljypisaroita.",
+      "habitat": "Lahottaja lehtipuiden – erityisesti tammen sekä pyökin, vaahteran, saarnen, lepän, koivun, pähkinäpensaan ja lehmuksen – kuolleella puuaineksella lahoavilla kannoilla, kaatuneilla rungoilla, oksilla, risuilla ja puiden tyvien lähellä maahan hautautuneella puulla, harvoin havupuulla. Itiöemiä esiintyy toukokuusta joulukuuhun (runsaimmillaan kesästä myöhäissyksyyn ja leutoina talvina joskus pitempäänkin) yksittäin, pieninä ryhminä tai pieninä tuppaina.",
+      "uses": "Syötäväksi kelpaamaton; sillä ei ole ruokakäyttöä, ja sen on raportoitu sisältävän pieniä määriä muskariinia, joten sitä ei tule syödä.",
+      "confusion": "Mycena galericulata kasvaa samankaltaisilla lehtipuiden kannoilla, mutta sen jalka on täysin sileä ja kiiltävä ilman pitkittäisuurteita. Mycena inclinata kasvaa tiheinä tuppaina tammen kannoilla, ja sillä on voimakkaasti hampainen lakin reuna sekä sileä jalka, joka muuttuu tyvestä ylöspäin kirkkaan oranssinruskeaksi tai punaruskeaksi. Mycena vitilis on pienempi ja hennompi, sillä on alle 23 jalkaan ulottuvaa helttaa, sitkeä, sileä ja limapintainen jalka, kapeammat itiöt eikä yleensä sinkilöitä. Mycena maculata voi myös saada punaruskeita laikkuja lakkiin ja helttoihin, mutta sen jalka ei ole uurteinen ja se eroaa mikroskooppisesti. Mycena laevigata on lakiltaan valkeahko tai kellanruskea, sen jalka on sileä, itiöt pienemmät (7–8 × 4 μm) ja se suosii vuoristoisia kasvupaikkoja.",
+      "notes": "Voimakas ligniinin ja selluloosan lahottaja puukarikkeessa; siinä loisivat satunnaisesti homesienet Spinellus fusiger ja Spinellus macrocarpus. Sen itiöemillä ja rihmastolla on heikko vuorokausirytminen bioluminesenssi (470–640 nm), mutta hehku on yleensä liian himmeä paljaalle silmälle ja vaatii pitkän valotusajan tai herkkiä mittalaitteita. Se tuottaa myös kahta epätavallista hydroksirasvahappoa. Harvinaisia lähes puhtaan valkoisia yksilöitä on käsitelty muotona forma candida ja sileäjalkaisia yksilöitä muotona forma laevipes, vaikka välimuotojakin esiintyy."
+    },
+    "et": {
+      "description": "Laialt levinud saprotroofne lehikseen, mis viljub üksikult, väikeste rühmadena või hõredate puhmikutena kõdunevatel lehtpuukändudel, mahakukkunud okstel ja pinnasesse mattunud puidul ning aeg-ajalt ka okaspuupuidul. Ta on tavaline kogu Euroopas, sealhulgas Suurbritannias ja Iirimaal, ning esineb ka Aasias, Põhja-Ameerikas ja Falklandi saartel.",
+      "cap": "Kübar läbimõõduga 2–4,5 cm (aeg-ajalt kuni 5 cm) on algul munajas kuni kooniline ning laieneb kellukjaks või kumeraks silmapaistva keskmise kühmuga; serv on noorelt kergelt sissepoole keerdunud ning sageli sälguline või hambuline, muutudes vanusega laienevaks või laineliseks. Kuiv matt pind on noorena peenelt härmatisega kaetud, muutub seejärel siledaks, niiske ilmaga kergelt libedaks ning serva suunas läbikumavalt triibuliseks kuni jämedalt vaoliseks. Värvus ulatub tumehallikaspruunist kahvatuhõbehallini, olles keskel tumedam ja serva lähedal heledam, tuhmudes vanusega mõnikord roosakaskollakaks või saades roostepruune laike.",
+      "hymenium": "Jalani ulatuvaid eoslehti on 23–38; need on tõusvad, kitsalt külgekasvanud või lühikese laskuva hambaga kinnitunud, mõõdukalt laiad (4–7 mm) ning küpsetel viljakehadel alusel sageli ristsoontega. Need on valged kuni hallikasvalged, omandades vanusega mõnikord kahvaturoosa varjundi või punakaspruune laike, ning nende serv on sile ja eoslehtedega sama värvi. Basiidiumid on neljaeoselised ja nuijad (26–38 × 7–10 μm). Heilotsüstiidid moodustavad steriilse eoslehe serva ja on käävjad kuni ebakorrapärase kujuga, siledad või mõne tipmise või külgmise sõrmja jätkega; pleurotsüstiidid puuduvad.",
+      "stipe": "Jalg on 5–12 cm kõrge (aeg-ajalt kuni 15–18 cm) ja 0,2–0,5 cm jäme, õõnes, jäik kuid rabe, silindriline või allapoole kergelt laienev ning jätkub sageli juurduva pikendusena (pseudoriis). Selle kõige iseloomulikum tunnus on peened kuni jämedad pikivaod – mõnikord kergelt keerdunud –, mis on nähtavad luubiga või tuntavad katsudes, kuigi aeg-ajalt esineb ka sileda jalaga isendeid. Hõbehall kuni kiltkivihall või hallikaspruun, tipus sageli heledam ja peenelt jahukas, muutub see aluse suunas tumedamaks punakaspruuniks ja on kaetud tihedate jämedate valgete karvadega; rõngas puudub.",
+      "flesh": "Seeneliha on õhuke, vesine, valkjas kuni hallikas ning jalas kõhrjas. Lõhn on ebamäärane või nõrgalt redise- kuni jahulõhnaline ja maitse mahe, aeg-ajalt kergelt kibe.",
+      "sporePrint": "Eosetolm on valge. Eosed on laialt ellipsoidjad kuni seemnekujulised, siledad, värvitud ja amüloidsed, mõõtmetega 7,5–10,5 × 5–7,5 μm (aeg-ajalt kuni 12 × 8 μm) ning sisaldavad mõnikord õlitilku.",
+      "habitat": "Saprotroof lehtpuude – eriti tamme, samuti pöögi, vahtra, saare, lepa, kase, sarapuu ja pärna – surnud puidul, kasvades kõdunevatel kändudel, lamatüvedel, okstel, raagudel ja puude tüvealuste lähedal pinnasesse mattunud puidul, harva okaspuupuidul. Viljakehad ilmuvad maist detsembrini (kõrghooajaga suvest hilissügiseni ja pehmetel talvedel aeg-ajalt kauemgi) üksikult, väikeste rühmadena või väikeste puhmikutena.",
+      "uses": "Mittesöödav; sellel puudub toiteväärtus ning on teatatud, et see sisaldab väikeses koguses muskariini, mistõttu seda ei tohi süüa.",
+      "confusion": "Mycena galericulata kasvab sarnastel lehtpuukändudel, kuid sellel on täiesti sile läikiv jalg ilma pikivagudeta. Mycena inclinata viljub tihedate puhmikutena tammekändudel, sellel on tugevalt hambuline kübaraserv ja sile jalg, mis värvub aluselt ülespoole erksaks oranžikaspruuniks kuni punakaspruuniks. Mycena vitilis on väiksem ja saledam, sellel on alla 23 jalani ulatuva eoslehe, sitke, sile ja limastunud jalapind, kitsamad eosed ning tavaliselt puuduvad pandlad. Mycena maculata võib samuti kanda punakaspruune laike kübaral ja eoslehtedel, kuid tal puudub vaoline jalg ja ta erineb mikroskoopiliselt. Mycena laevigata on valkja kuni kollakaspruuni kübaraga, sileda jalaga, väiksemate eostega (7–8 × 4 μm) ning eelistab mägiseid kasvukohti.",
+      "notes": "Tõhus ligniini ja tselluloosi lagundaja puiduvarises, millel parasiteerivad aeg-ajalt hallitusseened Spinellus fusiger ja Spinellus macrocarpus. Selle viljakehadel ja mütseelil esineb nõrk ööpäevase rütmiga bioluminestsents (470–640 nm), kuid helendus on palja silmaga nägemiseks tavaliselt liiga nõrk ning vajab pika säriajaga pildistamist või tundlikke mõõteriistu. Samuti toodab see kahte ebatavalist hüdroksürasvhapet. Haruldasi peaaegu puhtvalgeid isendeid on käsitletud vormina forma candida ja sileda jalaga isendeid vormina forma laevipes, kuigi esineb ka vahevorme."
+    },
+    "lv": {
+      "description": "Plaši izplatīta saprotrofa lapiņu sēne, kas aug pa vienai, nelielās grupās vai irdenos ceros uz trūdošiem lapu koku celmiem, kritušiem zariem un augsnē ieraktas koksnes, bet reizēm arī uz skuju koku koksnes. Bieži sastopama visā Eiropā, tostarp Lielbritānijā un Īrijā, kā arī Āzijā, Ziemeļamerikā un Folklenda salās.",
+      "cap": "Cepurīte ir 2–4,5 cm plata (reizēm līdz 5 cm), sākumā olveida līdz koniska, vēlāk izplešas līdz zvanveida vai izliektai formai ar izteiktu pauguru vidū; mala sākumā ir viegli ieliekta un bieži jomaina vai zobaina, ar vecumu kļūst izliekta uz āru vai viļņaina. Sausā, matētā virsma jaunām sēnēm ir smalki apsarmota, vēlāk kļūst gluda, mitrā laikā viegli slidena, bet malas virzienā caurspīdīgi svītrota līdz rupji rievota. Krāsa variē no tumši pelēkbrūnas līdz bāli sudrabaini pelēkai, vidū vistumšākā un pie malas gaišāka, ar vecumu dažkārt izbalējot līdz sārti dzeltenbrūnai vai iegūstot rūsas brūnus plankumus.",
+      "hymenium": "Pie kātiņa pieguļošās 23–38 lapiņas ir augšupejošas, šauri pieaugušas vai piestiprinātas ar īsu nolaidenu zobiņu, mēreni platas (4–7 mm) un nobriedušiem augļķermeņiem pie pamatnes bieži savienotas ar šķērsdzīslām. Tās ir baltas līdz pelēcīgi baltas, dažkārt ar bāli sārtu nokrāsu vai ar vecumu iegūst sarkanbrūnus plankumus, ar gludu, vienkrāsainu šķautni. Bazīdijas ir četrsporu, vālesveida (26–38 × 7–10 μm). Heilocistīdas veido sterilu lapiņu šķautni un ir vārpstveida līdz neregulāras formas, gludas vai ar dažiem galotnes vai sānu pirkstveida izaugumiem; pleirocistīdu nav.",
+      "stipe": "Kātiņš ir 5–12 cm garš (reizēm līdz 15–18 cm) un 0,2–0,5 cm resns, dobs, stingrs, bet trausls, cilindrisks vai lejup nedaudz paplašināts un bieži pāriet sakņveida pagarinājumā (pseidorīzā). Tā raksturīgākā pazīme ir smalkas līdz rupjas gareniskas rievas – dažkārt nedaudz savītas –, kuras var saskatīt ar lupu vai sajust taustot, lai gan reizēm sastopami arī īpatņi ar gludu kātiņu. Sudrabaini pelēks līdz šīferpelēks vai pelēkbrūns, augšdaļā bieži gaišāks un smalki apsarmots, tas virzienā uz pamatni kļūst tumšāk sarkanbrūns, un pamatni klāj blīvi, rupji balti matiņi; gredzena nav.",
+      "flesh": "Mīkstums ir plāns, ūdeņaini bālgans līdz pelēcīgs un kātiņā skrimšļains. Tam ir neizteikta vai vāji redīsiem līdzīga līdz miltaina smarža un maiga, reizēm viegli sīva garša.",
+      "sporePrint": "Sporu nospiedums ir balts. Sporas ir plaši elipsoidālas līdz sēklveida, gludas, bezkrāsainas un amiloīdas, izmērā 7,5–10,5 × 5–7,5 μm (reizēm līdz 12 × 8 μm), dažkārt satur eļļas pilienus.",
+      "habitat": "Saprotrofa uz lapu koku – īpaši ozola, kā arī dižskābarža, kļavas, oša, alkšņa, bērza, lazdas un liepas – atmirusās koksnes, augot uz trūdošiem celmiem, kritušiem stumbriem, zariem, zariņiem un augsnē ieraktas koksnes pie koku pamatnēm, reti uz skuju koku koksnes. Augļķermeņi parādās no maija līdz decembrim (visbiežāk no vasaras līdz vēlam rudenim, bet maigās ziemās reizēm arī ilgāk) pa vienam, nelielās grupās vai nelielos ceros.",
+      "uses": "Neēdama; tai nav kulināras vērtības, un ir ziņots, ka tā satur nelielu muskarīna koncentrāciju, tāpēc to nevajadzētu ēst.",
+      "confusion": "Mycena galericulata aug uz līdzīgiem lapu koku celmiem, taču tai ir pilnīgi gluds, spīdīgs kātiņš bez gareniskām rievām. Mycena inclinata aug blīvos ceros uz ozolu celmiem, tai ir izteikti zobaina cepurītes mala un gluds kātiņš, kas no pamatnes uz augšu krāsojas koši oranžbrūns līdz sarkanbrūns. Mycena vitilis ir mazāka un slaidāka, ar mazāk nekā 23 pie kātiņa pieguļošām lapiņām, sīkstu, gludu, želatinizētu kātiņa virsmu, šaurākām sporām un parasti bez skavām. Mycena maculata arī var būt sarkanbrūni plankumi uz cepurītes un lapiņām, taču tai trūkst rievotā kātiņa un tā atšķiras mikroskopiski. Mycena laevigata ir bālgana līdz dzeltenbrūna cepurīte, gluds kātiņš, mazākas sporas (7–8 × 4 μm), un tā dod priekšroku kalnainiem biotopiem.",
+      "notes": "Aktīva lignīna un celulozes noārdītāja koksnes nobirās, uz kuras reizēm parazitē pelējuma sēnes Spinellus fusiger un Spinellus macrocarpus. Tās augļķermeņiem un micēlijam piemīt vāja bioluminiscence ar diennakts ritmu (470–640 nm), tomēr mirdzums parasti ir pārāk vājš, lai to redzētu ar neapbruņotu aci, un tā noteikšanai nepieciešama ilgstošas ekspozīcijas fotogrāfija vai jutīgi mērinstrumenti. Tā ražo arī divas neparastas hidroksitaukskābes. Reti sastopami gandrīz tīri balti īpatņi ir aprakstīti kā forma candida, bet īpatņi ar gludu kātiņu – kā forma laevipes, lai gan pastāv arī pārejas formas."
+    },
+    "lt": {
+      "description": "Plačiai paplitęs saprotrofinis lakštabudinis grybas, augantis pavieniui, nedidelėmis grupėmis ar puriais kuokštais ant pūvančių lapuočių kelmų, nukritusių šakų ir žemėje esančios medienos, o kartais ir ant spygliuočių medienos. Dažnas visoje Europoje, įskaitant Didžiąją Britaniją ir Airiją, taip pat aptinkamas Azijoje, Šiaurės Amerikoje ir Folklando salose.",
+      "cap": "Kepurėlė 2–4,5 cm skersmens (kartais iki 5 cm), pradžioje kiaušiniška ar kūgiška, vėliau išsiskleidžia iki varpiškos ar iškilios su ryškiu centriniu gūbreliu; kraštas iš pradžių šiek tiek užlinkęs ir dažnai karbuotas ar dantytas, senstant pasidaro atsiknojęs arba banguotas. Sausas, matinis paviršius jaunų grybų būna padengtas smulkiu apnašu, vėliau tampa lygus, drėgnu oru šiek tiek slidus, o ties kraštu peršviečiamai dryžuotas iki stambiai vagotas. Spalva kinta nuo tamsiai pilkai rudos iki šviesiai sidabriškai pilkos, tamsiausia centre ir šviesesnė prie krašto, kartais senstant išblunka iki rausvai gelsvai rudos arba atsiranda rūdžių rudos dėmės.",
+      "hymenium": "Kotą pasiekia 23–38 lakšteliai; jie kylantys, siaurai priaugę arba prisitvirtinę trumpu nuaugtiniu danteliu, vidutinio pločio (4–7 mm), o subrendusiuose vaisiakūniuose ties pamatu dažnai sujungti skersinėmis gyslelėmis. Jie balti iki pilkšvai baltų, kartais įgauna šviesiai rausvą atspalvį arba senstant pasidengia rausvai rudomis dėmėmis, jų pakraštys lygus ir tos pačios spalvos. Bazidijos ketursporės, buožiškos (26–38 × 7–10 μm). Cheilocistidės sudaro sterilų lakštelio pakraštį ir yra verpstiškos arba netaisyklingos formos, lygios arba su keliomis viršūninėmis ar šoninėmis pirštiškomis ataugomis; pleurocistidžių nėra.",
+      "stipe": "Kotas 5–12 cm aukščio (kartais iki 15–18 cm) ir 0,2–0,5 cm storio, tuščiaviduris, standus, bet trapus, cilindriškas arba į apačią šiek tiek platėjantis, dažnai pereina į įsišaknijančią šaknišką ataugą (pseudorizą). Būdingiausias jo požymis – smulkios ar stambios išilginės vagelės, kartais šiek tiek susuktos, matomos per lupą arba jaučiamos liečiant, nors kartais pasitaiko ir lygų kotą turinčių egzempliorių. Sidabriškai pilkas iki skalūniškai pilko ar pilkai rudo, viršūnėje dažnai šviesesnis ir smulkiai miltuotas, link pamato tamsėja iki rausvai rudo ir yra apaugęs tankiais šiurkščiais baltais plaukeliais; rinkio nėra.",
+      "flesh": "Trama plona, vandeninga, balkšva ar pilkšva, kote kremzliška. Kvapas silpnas arba šiek tiek primenantis ridikus ar miltus, skonis švelnus, kartais kiek aitrokas.",
+      "sporePrint": "Sporų atspaudas baltas. Sporos plačiai elipsoidiškos iki sėkliškų, lygios, bespalvės ir amiloidinės, 7,5–10,5 × 5–7,5 μm dydžio (kartais iki 12 × 8 μm), jose kartais būna riebalų lašelių.",
+      "habitat": "Saprotrofas ant negyvos lapuočių – ypač ąžuolo, taip pat buko, klevo, uosio, alksnio, beržo, lazdyno ir liepos – medienos, augantis ant pūvančių kelmų, nuvirtusių kamienų, šakų, šakelių ir prie medžių pamatų žemėje esančios medienos, retai ant spygliuočių medienos. Vaisiakūniai pasirodo nuo gegužės iki gruodžio (gausiausiai nuo vasaros iki vėlyvo rudens, o švelniomis žiemomis kartais ir ilgiau) pavieniui, nedidelėmis grupėmis arba mažais kuokštais.",
+      "uses": "Nevalgomas; jis neturi maistinės vertės, o pranešimai rodo, kad jame yra nedidelė muskarino koncentracija, todėl jo valgyti nereikėtų.",
+      "confusion": "Mycena galericulata auga ant panašių lapuočių kelmų, tačiau turi visiškai lygų, blizgų kotą be išilginių vagelių. Mycena inclinata auga tankiais kuokštais ant ąžuolų kelmų, turi smarkiai dantytą kepurėlės kraštą ir lygų kotą, kuris nuo pamato į viršų nusidažo ryškiai oranžiškai ruda iki rausvai rudos spalvos. Mycena vitilis yra smulkesnė ir liaunesnė, turi mažiau nei 23 kotą pasiekiančius lakštelius, tvirtą, lygų, gleivėtą koto paviršių, siauresnes sporas ir paprastai neturi sąsagėlių. Mycena maculata taip pat gali turėti rausvai rudų dėmių ant kepurėlės ir lakštelių, bet neturi vagoto koto ir skiriasi mikroskopiškai. Mycena laevigata turi balkšvą ar gelsvai rudą kepurėlę, lygų kotą, mažesnes sporas (7–8 × 4 μm) ir mėgsta kalnuotas augavietes.",
+      "notes": "Aktyvus lignino ir celiuliozės skaidytojas medienos paklotėje, ant kurio kartais parazituoja pelėsiniai grybai Spinellus fusiger ir Spinellus macrocarpus. Jo vaisiakūniai ir grybiena pasižymi silpna paros ritmą turinčia bioliuminescencija (470–640 nm), tačiau švytėjimas paprastai per silpnas, kad būtų matomas plika akimi, ir jam užfiksuoti reikia ilgo išlaikymo fotografijos arba jautrių prietaisų. Jis taip pat gamina dvi neįprastas hidroksiriebalų rūgštis. Reti beveik grynai balti egzemplioriai buvo priskirti formai forma candida, o egzemplioriai lygiu kotu – formai forma laevipes, nors pasitaiko ir tarpinių formų."
+    },
+    "ar": {
+      "description": "فطر صفائحي رمّي واسع الانتشار يثمر منفرداً أو في مجموعات صغيرة أو في عناقيد مفككة على جذوع الأشجار عريضة الأوراق المتحللة والأغصان المتساقطة والأخشاب المدفونة، وأحياناً على أخشاب الصنوبريات. وهو شائع في أنحاء أوروبا، بما في ذلك بريطانيا وأيرلندا، كما يوجد في آسيا وأمريكا الشمالية وجزر فوكلاند.",
+      "cap": "يبلغ قطر القبعة ٢–٤٫٥ سم (وأحياناً حتى ٥ سم)، وتبدأ بيضوية إلى مخروطية ثم تتسع لتصبح جرسية أو محدبة ذات سنام مركزي بارز؛ وتكون الحافة في البداية منحنية قليلاً إلى الداخل وغالباً ما تكون مقوسة الفصوص أو مسننة، ثم تنبسط أو تتموج مع التقدم في العمر. سطحها جاف ومطفي ومغطى بغبار دقيق في الصغر قبل أن يصبح أملس ولزجاً قليلاً في الطقس الرطب، ومخططاً بشفافية إلى محززاً بخشونة نحو الحافة. يتراوح اللون بين البني الرمادي الداكن والرمادي الفضي الشاحب، ويكون أغمق في المركز وأفتح قرب الحافة، وقد يبهت أحياناً إلى برتقالي وردي شاحب أو تظهر عليه بقع بنية صدئة مع التقدم في العمر.",
+      "hymenium": "الصفائح التي تصل إلى الساق عددها ٢٣–٣٨ صفيحة، وهي صاعدة وملتصقة بضيق أو متصلة بسن هابط قصير، ومتوسطة العرض (٤–٧ مم)، وغالباً ما تكون مترابطة بعروق عرضية في الخلف لدى الأجسام الثمرية الناضجة. لونها أبيض إلى أبيض رمادي، وقد تكتسب أحياناً مسحة وردية شاحبة أو بقعاً بنية محمرة مع التقدم في العمر، ولها حواف ملساء بنفس اللون. الدعامات رباعية الأبواغ وهراوية الشكل (٢٦–٣٨ × ٧–١٠ ميكرومتر). تشكل السيستيدات الحافية حافة صفيحية عقيمة، وهي مغزلية إلى غير منتظمة الشكل، ملساء أو تحمل بضعة نتوءات إصبعية قِمّية أو جانبية؛ بينما تغيب السيستيدات الجانبية.",
+      "stipe": "يبلغ ارتفاع الساق ٥–١٢ سم (وأحياناً حتى ١٥–١٨ سم) وسمكها ٠٫٢–٠٫٥ سم، وهي جوفاء وصلبة لكنها هشة، أسطوانية أو متسعة قليلاً نحو الأسفل، وغالباً ما تمتد إلى جذر كاذب متجذر. أبرز سماتها المميزة وجود أخاديد طولية دقيقة إلى خشنة، تكون أحياناً ملتوية قليلاً، يمكن رؤيتها بالعدسة اليدوية أو تحسسها باللمس، مع ظهور عينات ملساء الساق في حالات نادرة. لونها رمادي فضي إلى رمادي أردوازي أو بني رمادي، وغالباً ما تكون أفتح ومغبرة بدقة عند القمة، وتصبح أغمق بلون بني محمر نحو القاعدة التي يكسوها شعر أبيض كثيف وخشن؛ ولا توجد حلقة.",
+      "flesh": "اللحم رقيق ومائي، أبيض مائل إلى الرمادي، وغضروفي القوام في الساق. رائحته غير مميزة أو تشبه الفجل أو الدقيق بشكل خفيف، ومذاقه معتدل وقد يكون لاذعاً قليلاً أحياناً.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ إهليلجية عريضة إلى كمثرية الشكل، ملساء وشفافة ونشوية التفاعل، وتقيس ٧٫٥–١٠٫٥ × ٥–٧٫٥ ميكرومتر (وأحياناً حتى ١٢ × ٨ ميكرومتر) وقد تحتوي أحياناً على قطيرات زيتية.",
+      "habitat": "فطر رمّي على الأخشاب الميتة للأشجار عريضة الأوراق، ولا سيما البلوط، وكذلك الزان والقيقب والمران والنغت والبتولا والبندق والزيزفون، حيث ينمو على الجذوع المتعفنة والجذوع الساقطة والأغصان والفروع الدقيقة والأخشاب المدفونة قرب قواعد الأشجار، ونادراً على أخشاب الصنوبريات. تظهر الأجسام الثمرية من مايو إلى ديسمبر، وتبلغ ذروتها من الصيف إلى أواخر الخريف وقد تمتد أحياناً إلى فصول الشتاء المعتدلة، منفردة أو في مجموعات صغيرة أو في عناقيد صغيرة.",
+      "uses": "غير صالح للأكل؛ لا قيمة غذائية أو طهوية له، وقد ورد احتواؤه على تراكيز منخفضة من المسكارين، لذا لا ينبغي تناوله.",
+      "confusion": "ينمو Mycena galericulata على جذوع أخشاب صلبة مشابهة، لكنه يمتلك ساقاً ملساء ولامعة تماماً دون أخاديد طولية. ويثمر Mycena inclinata في عناقيد كثيفة على جذوع البلوط مع حافة قبعة شديدة التفصص وساق ملساء تتحول إلى بني برتقالي زاهٍ ثم بني محمر من القاعدة نحو الأعلى. أما Mycena vitilis فأصغر وأكثر نحافة مع أقل من ٢٣ صفيحة تصل إلى الساق، وسطح ساق صلب وأملس وهلامي، وأبواغ أضيق، وغالباً دون روابط مشبكية. وقد يشترك Mycena maculata في البقع البنية المحمرة على القبعة والصفائح، لكنه يفتقر إلى الساق المحززة ويختلف مجهرياً. ولدى Mycena laevigata قبعة بيضاء مائلة إلى البني المصفر وساق ملساء وأبواغ أصغر (٧–٨ × ٤ ميكرومتر)، كما يفضل الموائل الجبلية.",
+      "notes": "محلِّل نشط للّجنين والسليلوز في المخلفات الخشبية، ويتطفل عليه أحياناً فطرا العفن الدبوسي Spinellus fusiger وSpinellus macrocarpus. تُظهر أجسامه الثمرية وغزله الفطري تلألؤاً حيوياً ضعيفاً بإيقاع يومي (٤٧٠–٦٤٠ نانومتر)، غير أن التوهج أضعف عموماً من أن يُرى بالعين المجردة ويتطلب تصويراً بتعريض طويل أو أجهزة حساسة لرصده. كما ينتج حمضين دهنيين هيدروكسيليين غير معتادين. وقد صُنّفت العينات النادرة شبه البيضاء النقية تحت forma candida، والعينات ملساء الساق تحت forma laevipes، مع وجود أشكال وسيطة بينهما."
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار و ساپروتروف با پراکنش گسترده که به‌صورت منفرد، در گروه‌های کوچک یا به‌شکل دسته‌های سست روی کنده‌های پوسیدهٔ درختان پهن‌برگ، شاخه‌های افتاده و چوب‌های مدفون، و گاهی روی چوب سوزنی‌برگان می‌روید. در سراسر اروپا، از جمله بریتانیا و ایرلند، فراوان است و در آسیا، آمریکای شمالی و جزایر فالکلند نیز یافت می‌شود.",
+      "cap": "قطر کلاهک ۲–۴٫۵ سانتی‌متر (و گاهی تا ۵ سانتی‌متر) است؛ در آغاز تخم‌مرغی تا مخروطی بوده و سپس به شکل زنگوله‌ای یا محدب با برجستگی مرکزی مشخص باز می‌شود؛ لبه در ابتدا اندکی به داخل خمیده و اغلب کنگره‌دار یا دندانه‌دار است و با افزایش سن باز یا موج‌دار می‌شود. سطح خشک و مات آن در جوانی پودری ظریف دارد، سپس صاف می‌شود، در هوای مرطوب اندکی لغزنده است و به‌سمت لبه به‌صورت نیمه‌شفاف شیاردار تا درشت‌شیار دیده می‌شود. رنگ آن از خاکستری‌قهوه‌ای تیره تا خاکستری نقره‌ای کم‌رنگ متغیر است، در مرکز تیره‌تر و نزدیک لبه روشن‌تر بوده و گاهی با افزایش سن به نخودی‌صورتی می‌گراید یا لکه‌های قهوه‌ای زنگاری پیدا می‌کند.",
+      "hymenium": "تعداد تیغه‌های متصل به ساقه ۲۳–۳۸ عدد است که بالارونده، به‌طور باریک چسبیده یا با دندانه‌ای کوتاه و فرورونده متصل‌اند، پهنای متوسطی دارند (۴–۷ میلی‌متر) و در اندام‌های بارده بالغ اغلب در بخش پشتی دارای رگه‌های عرضی هستند. رنگ آن‌ها سفید تا سفید مایل به خاکستری است و گاهی با افزایش سن ته‌رنگ صورتی کمرنگ یا لکه‌های قهوه‌ای مایل به قرمز پیدا می‌کنند و لبه‌هایی صاف و هم‌رنگ دارند. بازیدی‌ها چهارهاگی و چماقی‌شکل هستند (۲۶–۳۸ × ۷–۱۰ میکرومتر). کیلُوسیستیدی‌ها لبهٔ عقیم تیغه را می‌سازند و دوکی تا نامنظم، صاف یا دارای چند زائدهٔ انگشت‌مانند رأسی یا جانبی‌اند؛ پلوروسیستیدی وجود ندارد.",
+      "stipe": "ارتفاع ساقه ۵–۱۲ سانتی‌متر (گاهی تا ۱۵–۱۸ سانتی‌متر) و ضخامت آن ۰٫۲–۰٫۵ سانتی‌متر است؛ ساقه‌ای توخالی، سفت اما شکننده، استوانه‌ای یا اندکی پهن‌تر به‌سمت پایین بوده و اغلب به ریشه‌ای کاذب و ریشه‌دوان امتداد می‌یابد. شاخص‌ترین ویژگی آن شیارهای طولی ظریف تا درشت و گاهی اندکی پیچ‌خورده است که با ذره‌بین دستی دیده یا با لمس حس می‌شوند، هرچند گاهی نمونه‌هایی با ساقهٔ صاف نیز دیده می‌شوند. رنگ آن خاکستری نقره‌ای تا خاکستری سنگی یا قهوه‌ای مایل به خاکستری است، اغلب در رأس روشن‌تر و به‌ظرافت پودری بوده و به‌سمت قاعده به قهوه‌ای مایل به قرمز تیره تبدیل می‌شود؛ قاعده با موهای سفید انبوه و زبر پوشیده شده و حلقه وجود ندارد.",
+      "flesh": "گوشت نازک، آبدار به رنگ سفید مایل به خاکستری و در ساقه غضروفی است. بویی نامشخص یا اندکی شبیه تربچه تا آردی و طعمی ملایم و گاهی اندکی تند دارد.",
+      "sporePrint": "نقش هاگ سفید است. هاگ‌ها پهن‌بیضوی تا هسته‌مانند، صاف، شفاف و آمیلوئید بوده و ابعاد آن‌ها ۷٫۵–۱۰٫۵ × ۵–۷٫۵ میکرومتر (گاهی تا ۱۲ × ۸ میکرومتر) است و گاهی حاوی قطرات روغنی هستند.",
+      "habitat": "ساپروتروف روی چوب مردهٔ درختان پهن‌برگ، به‌ویژه بلوط و همچنین راش، افرا، زبان‌گنجشک، توسکا، توس، فندق و نمدار، که روی کنده‌های پوسیده، تنه‌های افتاده، شاخه‌ها، سرشاخه‌ها و چوب‌های مدفون نزدیک پایهٔ درختان و به‌ندرت روی چوب سوزنی‌برگان می‌روید. اندام‌های بارده از مه تا دسامبر (با اوج از تابستان تا اواخر پاییز و گاهی تا زمستان‌های ملایم) به‌صورت منفرد، در گروه‌های کوچک یا در دسته‌های کوچک ظاهر می‌شوند.",
+      "uses": "غیرخوراکی؛ هیچ ارزش آشپزی ندارد و گزارش شده که حاوی غلظت‌های پایینی از موسکارین است، بنابراین نباید مصرف شود.",
+      "confusion": "گونهٔ Mycena galericulata روی کنده‌های مشابه درختان پهن‌برگ می‌روید اما ساقه‌ای کاملاً صاف و براق بدون شیارهای طولی دارد. گونهٔ Mycena inclinata به‌صورت دسته‌های متراکم روی کنده‌های بلوط می‌روید، لبهٔ کلاهک آن به‌شدت کنگره‌دار است و ساقه‌ای صاف دارد که از قاعده به‌سمت بالا به قهوه‌ای نارنجی روشن تا قهوه‌ای مایل به قرمز تغییر رنگ می‌دهد. گونهٔ Mycena vitilis کوچک‌تر و باریک‌تر است، کمتر از ۲۳ تیغهٔ متصل به ساقه دارد، سطح ساقهٔ آن سفت، صاف و ژلاتینی است، هاگ‌های باریک‌تری دارد و عموماً فاقد اتصالات قلاب‌مانند است. گونهٔ Mycena maculata ممکن است لکه‌های قهوه‌ای مایل به قرمز روی کلاهک و تیغه‌ها را نشان دهد، اما فاقد ساقهٔ شیاردار بوده و از نظر میکروسکوپی متفاوت است. گونهٔ Mycena laevigata کلاهکی سفید تا قهوه‌ای مایل به زرد، ساقه‌ای صاف و هاگ‌های کوچک‌تری دارد (۷–۸ × ۴ میکرومتر) و زیستگاه‌های کوهستانی را ترجیح می‌دهد.",
+      "notes": "تجزیه‌کنندهٔ توانمند لیگنین و سلولز در لاشبرگ‌های چوبی است و گاهی توسط کپک‌های سنجاقی Spinellus fusiger و Spinellus macrocarpus مورد انگل‌زیستی قرار می‌گیرد. اندام‌های بارده و میسلیوم‌های آن زیست‌تابی ضعیفی با ریتم شبانه‌روزی (۴۷۰–۶۴۰ نانومتر) نشان می‌دهند، اما این درخشش عموماً ضعیف‌تر از آن است که با چشم غیرمسلح دیده شود و برای ثبت آن به عکاسی با نوردهی طولانی یا ابزارهای حساس نیاز است. همچنین دو اسید چرب هیدروکسی غیرمعمول تولید می‌کند. نمونه‌های نادر تقریباً کاملاً سفید به‌عنوان forma candida و نمونه‌های دارای ساقهٔ صاف به‌عنوان forma laevipes در نظر گرفته شده‌اند، هرچند شکل‌های حدواسط نیز رخ می‌دهند."
+    },
+    "he": {
+      "description": "פטריית דפים סאפרוטרופית נפוצה המניבה גופי פרי בודדים, בקבוצות קטנות או באשכולות רפויים על גדמים רקובים של עצים רחבי עלים, ענפים שנפלו ועץ קבור, ולעיתים על עץ מחטניים. היא נפוצה ברחבי אירופה, כולל בריטניה ואירלנד, ומופיעה גם באסיה, בצפון אמריקה ובאיי פוקלנד.",
+      "cap": "קוטר הכובע 2–4.5 cm (ולעיתים עד 5 cm); בתחילה הוא ביצתי עד חרוטי ובהמשך נפתח לצורת פעמון או כיפה קמורה עם פיטם מרכזי בולט; השוליים כפופים קלות פנימה בתחילה ולעיתים קרובות משוננים או גליים, והופכים פרושים או גליים עם הגיל. פני השטח היבשים והעמומים מכוסים אבקה עדינה בצעירותם לפני שהם הופכים חלקים, מעט חלקלקים במזג אוויר רטוב, ומפוספסים בשקיפות עד מחורצים בגסות לכיוון השוליים. הצבע נע מחום-אפור כהה ועד אפור כסוף חיוור, כהה ביותר במרכז ובהיר יותר ליד השוליים, ולעיתים דוהה לגוון בז'-ורדרד או מפתח כתמים חומים-חלודיים עם הגיל.",
+      "hymenium": "23–38 הדפים המגיעים לרגל עולים כלפי מעלה, מחוברים בצורה צרה או באמצעות שן קצרה היורדת על הרגל, רחבים במידה בינונית (4–7 mm), ולעיתים קרובות בעלי עורקים רוחביים בחלקם האחורי בגופי פרי בוגרים. צבעם לבן עד לבן-אפרפר, ולעיתים הם מקבלים גוון ורוד חיוור או כתמים חומים-אדמדמים עם הגיל, עם קצוות חלקים ובאותו צבע. הבסידיות בעלות ארבעה נבגים וצורתן דמוית אלה (26–38 × 7–10 μm). כילוציסטידיות יוצרות קצה דף עקר וצורתן כישורית עד לא סדירה, חלקה או בעלת מעט בליטות דמויות אצבע בקצה או בצדדים; פלאורוציסטידיות נעדרות.",
+      "stipe": "גובה הרגל 5–12 cm (ולעיתים עד 15–18 cm) ועובייה 0.2–0.5 cm; היא חלולה, נוקשה אך שבירה, גלילית או מתרחבת קלות כלפי מטה, ולעיתים קרובות נמשכת לפסאודוריזה משתרשת. המאפיין הבולט ביותר שלה הוא חריצים אורכיים עדינים עד גסים, שלעיתים מפותלים קלות, הניתנים לצפייה בזכוכית מגדלת או למישוש במגע, אם כי לעיתים מופיעים פרטים בעלי רגל חלקה. צבעה אפור כסוף עד אפור צפחה או חום-אפרפר, לעיתים קרובות בהיר יותר ומאובק בעדינות בקצה העליון, והיא מתכהה לחום-אדמדם כלפי הבסיס העטוף בשערות לבנות צפופות וגסות; אין טבעת.",
+      "flesh": "הבשר דק, מימי, לבנבן עד אפרפר וסחוסי ברגל. ריחו אינו מובחן או מזכיר קלות צנון עד קמח, וטעמו עדין ולעיתים מעט חריף.",
+      "sporePrint": "הדפס הנבגים לבן. הנבגים אליפסואידיים רחבים עד דמויי חרצן, חלקים, שקופים ואמילואידיים, בגודל 7.5–10.5 × 5–7.5 μm (ולעיתים עד 12 × 8 μm) ולעיתים מכילים טיפות שמן.",
+      "habitat": "סאפרוטרופית על עץ מת של עצים רחבי עלים, במיוחד אלון, וכן אשור, אדר, מילה, אלנוס, שדר, אגוז לוז ותרזה, על גדמים רקובים, גזעים שנפלו, ענפים, זרדים ועץ קבור ליד בסיסי עצים, ולעיתים נדירות על עץ מחטניים. גופי הפרי מופיעים ממאי עד דצמבר (בשיאם מהקיץ ועד סוף הסתיו, ולעיתים גם בחורפים מתונים) כיחידים, בקבוצות קטנות או באשכולות קטנים.",
+      "uses": "לא למאכל; אין לה ערך קולינרי ודווח כי היא מכילה ריכוזים נמוכים של מוסקרין, ולכן אין לאכול אותה.",
+      "confusion": "Mycena galericulata גדלה על גדמי עצים רחבי עלים דומים אך בעלת רגל חלקה ומבריקה לחלוטין ללא חריצים אורכיים. Mycena inclinata מניבה באשכולות צפופים על גדמי אלון עם שולי כובע משוננים מאוד ורגל חלקה ההופכת כתום-חום בהיר עד חום-אדמדם מהבסיס כלפי מעלה. Mycena vitilis קטנה ודקה יותר, בעלת פחות מ-23 דפים המגיעים לרגל, פני רגל קשיחים, חלקים וג'לטיניים, נבגים צרים יותר ובדרך כלל ללא קשרי אבזם. Mycena maculata עשויה להציג כתמים חומים-אדמדמים דומים על הכובע והדפים, אך חסרה את הרגל המחורצת ונבדלת מיקרוסקופית. Mycena laevigata בעלת כובע לבנבן עד חום-צהבהב, רגל חלקה, נבגים קטנים יותר (7–8 × 4 μm) ומעדיפה בתי גידול הרריים.",
+      "notes": "מפרקת נמרצת של ליגנין ותאית בפסולת עצית, ולעיתים משמשת פונדקאית לפטריות העובש הטפיליות Spinellus fusiger ו-Spinellus macrocarpus. גופי הפרי והתפטיר שלה מפגינים הארה ביולוגית חלשה בקצב יומי (470–640 nm), אם כי הזוהר חלש מכדי להיראות בעין בלתי מזוינת ודורש צילום בחשיפה ארוכה או מכשור רגיש לזיהויו. היא מייצרת גם שתי חומצות שומן הידרוקסיליות חריגות. פרטים נדירים כמעט לבנים טהורים סווגו כ-forma candida, ופרטים בעלי רגל חלקה כ-forma laevipes, אם כי מופיעות גם צורות ביניים."
+    },
+    "hi": {
+      "description": "एक व्यापक मृतोपजीवी गिल्स वाला मशरूम है जो सड़ते हुए चौड़ी पत्ती वाले पेड़ों के ठूंठों, गिरी हुई शाखाओं और मिट्टी में दबी लकड़ी पर, तथा कभी-कभी शंकुधारी लकड़ी पर अकेले, छोटे समूहों या ढीले गुच्छों में उगता है। यह ब्रिटेन और आयरलैंड सहित पूरे यूरोप में सामान्य है, और एशिया, उत्तरी अमेरिका तथा फ़ॉकलैंड द्वीप समूह में भी पाया जाता है।",
+      "cap": "टोपी का व्यास 2–4.5 cm (कभी-कभी 5 cm तक) होता है; यह शुरुआत में अंडाकार से शंक्वाकार होती है और फैलकर घंटी के आकार की या उत्तल हो जाती है, जिसके केंद्र में एक स्पष्ट उभार होता है। इसका किनारा शुरू में हल्का अंदर की ओर मुड़ा हुआ और अक्सर कंगूरेदार या दांतेदार होता है, जो उम्र के साथ बाहर की ओर फैला हुआ या लहरदार हो जाता है। इसकी सूखी, मैट सतह युवा अवस्था में बारीक चूर्ण जैसी होती है, फिर चिकनी हो जाती है, गीले मौसम में हल्की फिसलन भरी होती है, और किनारे की ओर अर्ध-पारदर्शी धारीदार से मोटी खांचेदार हो जाती है। रंग गहरे भूरे-धूसर से हल्के चांदी जैसे धूसर तक होता है, केंद्र में सबसे गहरा और किनारे के पास हल्का, जो कभी-कभी उम्र के साथ हल्के गुलाबी-बादामी रंग में फीका पड़ जाता है या इस पर जंग जैसे भूरे धब्बे बन जाते हैं।",
+      "hymenium": "डंठल तक पहुंचने वाले 23–38 गिल्स ऊपर की ओर चढ़ते हुए, संकीर्ण रूप से जुड़े या एक छोटे नीचे उतरते दांत से जुड़े होते हैं, मध्यम चौड़े (4–7 mm) होते हैं, और परिपक्व फलनकाय में अक्सर पीछे की ओर आड़ी शिराओं से जुड़े रहते हैं। ये सफेद से धूसर-सफेद होते हैं, कभी-कभी हल्की गुलाबी आभा ले लेते हैं या उम्र के साथ लाल-भूरे धब्बे पड़ जाते हैं, और इनके किनारे चिकने तथा समान रंग के होते हैं। बेसिडिया चार-बीजाणु वाले और गदाकार (26–38 × 7–10 μm) होते हैं। काइलोसिस्टिडिया एक बंध्य गिल किनारा बनाते हैं और तर्कु के आकार से अनियमित आकार के, चिकने या कुछ शीर्षस्थ अथवा पार्श्व उंगली जैसे उभारों वाले होते हैं; प्ल्यूरोसिस्टिडिया अनुपस्थित होते हैं।",
+      "stipe": "डंठल 5–12 cm ऊंचा (कभी-कभी 15–18 cm तक) और 0.2–0.5 cm मोटा होता है; यह खोखला, कड़ा फिर भी भंगुर, बेलनाकार या नीचे की ओर हल्का चौड़ा होता है और अक्सर जड़ जैसी आभासी संरचना में फैला रहता है। इसकी सबसे विशिष्ट पहचान महीन से मोटी अनुदैर्ध्य खांचें हैं, जो कभी-कभी हल्की मुड़ी हुई होती हैं और हैंड लेंस से देखी या छूकर महसूस की जा सकती हैं, हालांकि कभी-कभी चिकने डंठल वाले नमूने भी मिलते हैं। रंग चांदी जैसे धूसर से स्लेटी धूसर या भूरे-धूसर तक होता है, शीर्ष पर अक्सर हल्का और बारीक चूर्णयुक्त होता है, और आधार की ओर गहरे लाल-भूरे रंग का हो जाता है, जो घने, मोटे सफेद रोओं से ढका रहता है; इसमें कोई वलय नहीं होता।",
+      "flesh": "गूदा पतला, जल जैसा सफेद से धूसर और डंठल में उपास्थि जैसा होता है। इसकी गंध अस्पष्ट या हल्की मूली जैसी से आटे जैसी होती है, और स्वाद हल्का तथा कभी-कभी थोड़ा तीखा होता है।",
+      "sporePrint": "बीजाणु छाप सफेद होती है। बीजाणु चौड़े दीर्घवृत्ताकार से बीज के आकार के, चिकने, पारदर्शी और एमाइलॉइड होते हैं, जिनका माप 7.5–10.5 × 5–7.5 μm (कभी-कभी 12 × 8 μm तक) होता है और इनमें कभी-कभी तेल की बूंदें होती हैं।",
+      "habitat": "यह चौड़ी पत्ती वाले पेड़ों—विशेष रूप से ओक, साथ ही बीच, मेपल, ऐश, एल्डर, बर्च, हेज़ल और बैसवुड—की मृत लकड़ी पर मृतोपजीवी है, जो सड़ते ठूंठों, गिरे हुए तनों, शाखाओं, टहनियों और पेड़ों के आधार के पास दबी लकड़ी पर, तथा दुर्लभ रूप से शंकुधारी लकड़ी पर उगता है। फलनकाय मई से दिसंबर तक (गर्मियों से देर पतझड़ तक चरम पर, और कभी-कभी हल्की सर्दियों में भी) अकेले, छोटे समूहों या छोटे गुच्छों में दिखाई देते हैं।",
+      "uses": "अखाद्य; इसका कोई पाक महत्व नहीं है और इसमें मस्कारिन की कम सांद्रता होने की सूचना मिली है, इसलिए इसे नहीं खाना चाहिए।",
+      "confusion": "Mycena galericulata समान चौड़ी पत्ती वाले ठूंठों पर उगता है, लेकिन इसका डंठल बिना अनुदैर्ध्य खांचों के पूरी तरह चिकना और चमकदार होता है। Mycena inclinata ओक के ठूंठों पर घने गुच्छों में उगता है, जिसकी टोपी का किनारा गहरा कंगूरेदार होता है और चिकना डंठल आधार से ऊपर की ओर चमकीले नारंगी-भूरे से लाल-भूरे रंग का हो जाता है। Mycena vitilis छोटा और अधिक पतला होता है, इसमें डंठल तक पहुंचने वाले गिल्स की संख्या 23 से कम होती है, डंठल की सतह सख्त, चिकनी और जिलेटिन जैसी होती है, बीजाणु संकरे होते हैं और सामान्यतः क्लैंप कनेक्शन नहीं होते। Mycena maculata की टोपी और गिल्स पर भी लाल-भूरे धब्बे हो सकते हैं, लेकिन इसमें खांचेदार डंठल नहीं होता और यह सूक्ष्म रूप से भिन्न है। Mycena laevigata की टोपी सफेद से पीले-भूरे रंग की, डंठल चिकना और बीजाणु छोटे (7–8 × 4 μm) होते हैं, तथा यह पर्वतीय प्राकृतिक वास को प्राथमिकता देता है।",
+      "notes": "काष्ठीय कूड़े में लिग्निन और सेल्युलोज़ का एक सक्रिय अपघटक है, और कभी-कभी पिन मोल्ड Spinellus fusiger और Spinellus macrocarpus द्वारा परजीवी रूप से संक्रमित होता है। इसके फलनकाय और कवकजाल दैनिक लय के साथ मंद जैव-संदीप्ति (470–640 nm) प्रदर्शित करते हैं, हालांकि यह चमक सामान्यतः नग्न आंखों से देखने के लिए बहुत क्षीण होती है और इसे पहचानने के लिए लंबे एक्सपोज़र वाली फोटोग्राफी या संवेदनशील उपकरणों की आवश्यकता होती है। यह दो असामान्य हाइड्रॉक्सी फैटी एसिड भी उत्पन्न करता है। दुर्लभ लगभग शुद्ध सफेद नमूनों को forma candida और चिकने डंठल वाले नमूनों को forma laevipes माना गया है, हालांकि मध्यवर्ती रूप भी मिलते हैं।"
+    },
+    "id": {
+      "description": "Jamur berlamela saprotrof yang tersebar luas dan berbuah tunggal, dalam kelompok kecil, atau dalam rumpun longgar pada tunggul kayu keras yang membusuk, cabang tumbang, dan kayu terpendam, serta sesekali pada kayu konifer. Umum di seluruh Eropa, termasuk Britania dan Irlandia, jamur ini juga ditemukan di Asia, Amerika Utara, dan Kepulauan Falkland.",
+      "cap": "Berukuran 2–4,5 cm melintang (sesekali hingga 5 cm), tudung awalnya berbentuk bulat telur hingga kerucut lalu melebar menjadi berbentuk lonceng atau cembung dengan tonjolan tengah yang menonjol; tepinya mula-mula sedikit melengkung ke dalam dan sering berlekuk atau bergigi, kemudian melebar atau bergelombang seiring bertambahnya usia. Permukaannya yang kering dan kusam awalnya bertepung halus sebelum menjadi halus, sedikit licin saat cuaca basah, dan bergaris-garis tembus cahaya hingga beralur kasar ke arah tepi. Warnanya berkisar dari cokelat keabu-abuan gelap hingga abu-abu keperakan pucat, paling gelap di bagian tengah dan lebih pucat di dekat tepi, terkadang memudar menjadi krem kemerahmudaan atau memunculkan bercak cokelat karat seiring usia.",
+      "hymenium": "Sebanyak 23–38 lamela yang mencapai tangkai bersifat menanjak, melekat sempit atau menempel dengan gigi pendek yang menurun, cukup lebar (4–7 mm), dan sering memiliki urat melintang di bagian belakang pada tubuh buah dewasa. Warnanya putih hingga putih keabu-abuan, terkadang bersemu merah muda pucat atau mendapat noda cokelat kemerahan seiring usia, dengan tepi halus sewarna. Basidium berspora empat dan berbentuk gada (26–38 × 7–10 μm). Keilosistidia membentuk tepi lamela yang steril, berbentuk gelendong hingga tidak beraturan, halus atau memiliki beberapa tonjolan mirip jari di ujung maupun sisi; pleurosistidia tidak ada.",
+      "stipe": "Berukuran tinggi 5–12 cm (sesekali hingga 15–18 cm) dan tebal 0,2–0,5 cm, tangkai yang berongga, kaku namun rapuh ini berbentuk silindris atau sedikit melebar ke bawah dan sering memanjang menjadi pseudorrhiza yang berakar. Ciri paling khasnya adalah alur memanjang halus hingga kasar—terkadang sedikit terpilin—yang dapat dilihat dengan kaca pembesar atau dirasakan saat disentuh, meski sesekali dijumpai spesimen bertangkai halus. Warnanya abu-abu keperakan hingga abu-abu sabak atau cokelat keabu-abuan, sering lebih pucat dan bertepung halus di puncak, lalu menjadi cokelat kemerahan lebih gelap ke arah pangkal yang tertutup rambut putih tebal dan kasar; tidak terdapat cincin.",
+      "flesh": "Daging tipis, berair, berwarna keputihan hingga keabu-abuan, dan bertulang rawan pada tangkai. Baunya tidak khas atau samar seperti lobak hingga bertepung, dengan rasa hambar yang sesekali sedikit getir.",
+      "sporePrint": "Jejak spora berwarna putih. Spora berbentuk elipsoid lebar hingga menyerupai biji buah, halus, hialin, dan amiloid, berukuran 7,5–10,5 × 5–7,5 μm (sesekali hingga 12 × 8 μm) serta terkadang mengandung tetesan minyak.",
+      "habitat": "Saprotrof pada kayu mati pohon berdaun lebar—terutama ek, serta beech, maple, ash, alder, birch, hazel, dan basswood—tumbuh pada tunggul membusuk, batang tumbang, cabang, ranting, dan kayu terpendam dekat pangkal pohon, serta jarang pada kayu konifer. Tubuh buah muncul dari Mei hingga Desember (memuncak dari musim panas hingga akhir musim gugur, dan sesekali hingga musim dingin yang sejuk) secara tunggal, dalam kelompok kecil, atau rumpun kecil.",
+      "uses": "Tidak dapat dimakan; jamur ini tidak memiliki nilai kuliner dan dilaporkan mengandung muskarina dalam konsentrasi rendah, sehingga tidak boleh dikonsumsi.",
+      "confusion": "Mycena galericulata tumbuh pada tunggul kayu keras serupa tetapi memiliki tangkai yang sepenuhnya halus dan mengilap tanpa alur memanjang. Mycena inclinata berbuah dalam rumpun rapat pada tunggul ek dengan tepi tudung sangat bergigi dan tangkai halus yang berubah menjadi cokelat jingga cerah hingga cokelat kemerahan dari pangkal ke atas. Mycena vitilis lebih kecil dan lebih ramping dengan kurang dari 23 lamela yang mencapai tangkai, permukaan tangkai yang liat, halus, dan bergelatin, spora lebih sempit, serta umumnya tanpa sambungan klem. Mycena maculata dapat menunjukkan bercak cokelat kemerahan serupa pada tudung dan lamela, tetapi tidak memiliki tangkai beralur dan berbeda secara mikroskopis. Mycena laevigata memiliki tudung keputihan hingga cokelat kekuningan, tangkai halus, spora lebih kecil (7–8 × 4 μm), dan menyukai habitat pegunungan.",
+      "notes": "Sebagai pengurai lignin dan selulosa yang giat pada serasah kayu, jamur ini sesekali diparasiti oleh kapang jarum Spinellus fusiger dan Spinellus macrocarpus. Tubuh buah dan miseliumnya menunjukkan bioluminesensi lemah dengan ritme diurnal (470–640 nm), meski cahayanya umumnya terlalu redup untuk dilihat mata telanjang dan memerlukan fotografi eksposur panjang atau instrumen peka untuk mendeteksinya. Jamur ini juga menghasilkan dua asam lemak hidroksi yang tidak biasa. Spesimen langka yang hampir putih murni telah diperlakukan sebagai forma candida, dan spesimen bertangkai halus sebagai forma laevipes, walaupun bentuk peralihan juga ditemukan."
+    },
+    "ja": {
+      "description": "腐朽した広葉樹の切り株や倒木・落枝、埋もれた材の上、まれに針葉樹材の上に単生、少数群生、あるいは緩い束生で発生する広分布の腐生性きのこです。イギリスやアイルランドを含むヨーロッパ各地で普通に見られ、アジア、北アメリカ、フォークランド諸島にも分布しています。",
+      "cap": "傘の径は2–4.5 cm（まれに5 cmに達します）で、幼時は卵形から円錐形を呈し、のちに中央に明瞭な突出部をもつ釣鐘形からまんじゅう形に開きます。縁は初めやや内側に巻き、しばしば波状または鋸歯状に切れ込みますが、老成すると反り返ったり波打ったりします。表面は乾性でつやがなく、幼時は微粉を帯びますが、のちに平滑となり、湿時にはやや粘性あるいはぬめりを帯び、縁に向かって透過条線から粗い溝線を生じます。色は暗灰褐色から淡銀灰色まで変化し、中央が最も濃く縁付近は淡色で、老成すると淡い桃褐色に褪色したり錆褐色の斑点を生じたりすることがあります。",
+      "hymenium": "柄に達するひだは23–38本で、上生し、狭く直生または短い垂生歯をもって付着します。幅は中程度（4–7 mm）で、成熟した子実体では背面側に連絡脈を生じることがよくあります。色は白色から灰白色で、老成すると淡い桃色を帯びたり赤褐色のしみが生じたりすることがあり、縁は平滑で同色です。担子器は4胞子性でこん棒形（26–38 × 7–10 μm）です。縁シスチジアは不稔のひだ縁を形成し、紡錘形から不整形で、平滑か頂部または側面に少数の指状突起をもちます。側シスチジアはありません。",
+      "stipe": "柄は高さ5–12 cm（まれに15–18 cmに達します）、太さ0.2–0.5 cmで、中空、強靭ながらもろく、円柱形または下方に向かってやや太くなり、しばしば根状に伸びる偽根を備えます。最も顕著な特徴は、微細から粗い縦溝が走ること（ときにわずかにねじれます）で、ルーペで確認できるほか指先で触れても感じられますが、まれに柄が平滑な個体も現れます。色は銀灰色からスレート灰色または灰褐色で、上部はより淡色で微粉を帯びることが多く、基部に向かって暗い赤褐色となり、密生する粗い白色の毛に覆われます。つばはありません。",
+      "flesh": "肉は薄く、水っぽい白色から灰色を帯び、柄では軟骨質です。においは目立たないか、わずかにダイコン臭から粉臭があり、味は温和でまれにやや辛みがあります。",
+      "sporePrint": "胞子紋は白色です。胞子は広楕円形からリンゴの種子形で、平滑、無色、アミロイド性を示し、大きさは7.5–10.5 × 5–7.5 μm（まれに12 × 8 μmに達します）で、ときに油滴を含みます。",
+      "habitat": "広葉樹の枯死木（特にコナラ属などのナラ類のほか、ブナ、カエデ、トネリコ、ハンノキ、カバノキ、ハシバミ、シナノキなど）の腐朽した切り株、倒木、枝、小枝、樹幹基部付近の埋もれた材に発生する腐生性で、まれに針葉樹材にも生えます。子実体は5月から12月にかけて（夏から晩秋が最盛期で、温暖な冬に及ぶこともあります）、単生、少数群生、または小さな束生で発生します。",
+      "uses": "不食です。食用価値はなく、低濃度のムスカリンを含むと報告されているため、食べてはいけません。",
+      "confusion": "Mycena galericulataは同様の広葉樹の切り株に発生しますが、柄が完全に平滑で光沢があり縦溝を欠きます。Mycena inclinataはナラ類の切り株に密な束生で発生し、傘の縁が強く鋸歯状で、平滑な柄が基部から上方に向かって鮮やかな橙褐色から赤褐色に変わります。Mycena vitilisはより小型で細く、柄に達するひだが23本未満であり、柄の表面が強靭で平滑かつゼラチン質で、胞子がより細く、一般にクランプを欠きます。Mycena maculataは傘やひだに赤褐色の斑点を生じる点で共通することがありますが、縦溝のある柄をもたず顕微鏡的特徴も異なります。Mycena laevigataは白色から黄褐色の傘と平滑な柄、より小型の胞子（7–8 × 4 μm）をもち、山地帯の環境を好みます。",
+      "notes": "木質リター中のリグニンやセルロースを活発に分解する菌であり、まれにケカビ目の寄生菌Spinellus fusigerやSpinellus macrocarpusに寄生されます。子実体および菌糸体は日周リズムを伴う弱い生物発光（470–640 nm）を示しますが、その光は一般に肉眼では確認できないほど微弱であり、検出には長時間露光撮影や高感度機器を要します。また、2種類の特異なヒドロキシ脂肪酸を産生します。ほぼ純白のまれな個体はforma candida、柄が平滑な個体はforma laevipesとして扱われてきましたが、中間的な形態も見られます。"
+    },
+    "ko": {
+      "description": "썩어 가는 활엽수 그루터기, 떨어진 가지, 땅속에 묻힌 나무, 그리고 드물게 침엽수재 위에 홀로, 작은 무리로 또는 느슨한 다발을 이루어 발생하는 널리 분포하는 부생성 주름살 버섯입니다. 영국과 아일랜드를 포함한 유럽 전역에서 흔하며, 아시아, 북아메리카 및 포클랜드 제도에도 분포합니다.",
+      "cap": "갓은 지름 2–4.5 cm(드물게 최대 5 cm)이며, 어릴 때는 달걀형에서 원뿔형이다가 자라면서 중앙에 뚜렷한 볼록부가 있는 종형 또는 반구형으로 퍼집니다. 가장자리는 처음에 안쪽으로 약간 말려 있고 흔히 물결 모양이나 톱니 모양을 띠다가 노숙하면서 퍼지거나 물결칩니다. 건조하고 광택이 없는 표면은 어릴 때 미세한 가루가 덮여 있다가 매끄러워지며, 습한 날씨에는 약간 미끈거리고 가장자리 쪽으로 반투명한 줄무늬에서 거친 홈줄이 나타납니다. 색상은 어두운 회갈색에서 옅은 은회색까지 다양하며 중앙이 가장 짙고 가장자리로 갈수록 옅어지는데, 노숙하면 분홍빛이 감도는 담황갈색으로 바래거나 녹갈색 얼룩이 생기기도 합니다.",
+      "hymenium": "대에 닿는 주름살은 23–38개로 위로 올라붙은 형태이며 좁게 붙거나 짧은 내린 이빨 모양으로 연결되고, 폭은 중간 정도(4–7 mm)이며 성숙한 자실체에서는 뒤쪽에 가로맥이 발달하는 경우가 많습니다. 색상은 흰색에서 회백색이며 노숙하면서 옅은 분홍빛이 돌거나 적갈색 얼룩이 생기기도 하고, 주름살날은 매끄럽고 같은 색입니다. 담자기는 4포자성이고 곤봉형(26–38 × 7–10 μm)입니다. 연시스티디아는 불임의 주름살날을 이루며 방추형에서 불규칙한 모양으로 매끄럽거나 꼭대기 또는 옆면에 몇 개의 손가락 모양 돌기를 지니며, 측시스티디아는 없습니다.",
+      "stipe": "대는 높이 5–12 cm(드물게 최대 15–18 cm), 굵기 0.2–0.5 cm로 속이 비어 있고 단단하면서도 부서지기 쉬우며, 원통형이거나 아래쪽으로 약간 굵어지고 흔히 뿌리 모양의 헛뿌리로 이어집니다. 가장 뚜렷한 특징은 미세하거나 거친 세로 홈줄이 있으며 때로 약간 비틀려 있어 돋보기로 관찰하거나 손으로 만져 느낄 수 있다는 점이지만, 드물게 대가 매끄러운 개체도 나타납니다. 색상은 은회색에서 청회색 또는 회갈색이며 꼭대기는 흔히 더 옅고 미세한 가루가 덮여 있고, 아래쪽으로 갈수록 짙은 적갈색을 띠며 밑동은 빽빽하고 거친 흰색 털로 덮여 있습니다. 턱받이는 없습니다.",
+      "flesh": "살은 얇고 물기가 많은 흰색에서 회색빛이며 대에서는 연골질입니다. 냄새는 뚜렷하지 않거나 희미한 무 냄새에서 밀가루 냄새가 나며, 맛은 순하지만 때로 약간 아린 맛이 납니다.",
+      "sporePrint": "포자문은 흰색입니다. 포자는 넓은 타원형에서 씨앗 모양이며 매끄럽고 투명하며 아밀로이드성을 띠고, 크기는 7.5–10.5 × 5–7.5 μm(드물게 최대 12 × 8 μm)이며 때로 기름방울을 포함합니다.",
+      "habitat": "참나무류를 비롯한 너도밤나무, 단풍나무, 물푸레나무, 오리나무, 자작나무, 개암나무, 피나무 등 활엽수의 죽은 나무에 발생하는 부생성으로, 썩은 그루터기, 쓰러진 줄기, 가지, 잔가지 및 나무 밑동 근처의 묻힌 나무에서 자라며 침엽수재에서는 드뭅니다. 자실체는 5월부터 12월까지(여름부터 늦가을에 가장 많고 온화한 겨울까지 이어지기도 함) 홀로, 작은 무리로 또는 작은 다발로 발생합니다.",
+      "uses": "식용 부적합합니다. 요리 가치가 없으며 낮은 농도의 무스카린을 함유하는 것으로 보고되어 있으므로 먹어서는 안 됩니다.",
+      "confusion": "Mycena galericulata는 비슷한 활엽수 그루터기에서 자라지만 세로 홈줄 없이 완전히 매끄럽고 광택이 나는 대를 가집니다. Mycena inclinata는 참나무 그루터기에 빽빽한 다발로 발생하며 갓 가장자리가 강하게 톱니 모양이고 매끄러운 대가 밑동에서 위쪽으로 밝은 주황갈색에서 적갈색으로 변합니다. Mycena vitilis는 더 작고 가늘며 대에 닿는 주름살이 23개 미만이고, 대 표면이 질기고 매끄러우며 젤라틴질이고 포자가 더 좁으며 일반적으로 꺾쇠연결이 없습니다. Mycena maculata는 갓과 주름살에 적갈색 반점이 생기는 점에서 비슷할 수 있으나 홈줄이 있는 대가 없고 현미경적 형질이 다릅니다. Mycena laevigata는 흰색에서 황갈색의 갓과 매끄러운 대, 더 작은 포자(7–8 × 4 μm)를 가지며 산지 서식지를 선호합니다.",
+      "notes": "목질 낙엽층에서 리그닌과 셀룰로오스를 왕성하게 분해하며, 때로 핀 곰팡이인 Spinellus fusiger와 Spinellus macrocarpus에 기생당합니다. 자실체와 균사체는 일주기 리듬을 따르는 약한 생물발광(470–640 nm)을 보이지만, 그 빛은 일반적으로 맨눈으로 보기에는 너무 미약하여 장노출 사진 촬영이나 민감한 측정 장비가 필요합니다. 또한 두 가지 특이한 하이드록시 지방산을 생성합니다. 드물게 나타나는 거의 순백색 개체는 forma candida로, 대가 매끄러운 개체는 forma laevipes로 다루어져 왔으나 중간형도 존재합니다."
+    },
+    "tr": {
+      "description": "Çürüyen yapraklı ağaç kütükleri, düşmüş dallar ve toprağa gömülü odunlar üzerinde, zaman zaman da iğne yapraklı odunlarda tek tek, küçük gruplar veya gevşek demetler hâlinde meyve veren yaygın bir saprotrof lamelli mantardır. Britanya ve İrlanda dâhil Avrupa genelinde yaygın olup Asya, Kuzey Amerika ve Falkland Adaları'nda da görülür.",
+      "cap": "Çapı 2–4,5 cm (zaman zaman 5 cm'ye kadar) olan şapka, başlangıçta yumurta biçimli ile konik arasındadır ve belirgin merkezi bir çıkıntı taşıyarak çan biçimli ya da dışbükey hâle açılır; kenarı ilk başta hafifçe içe kıvrık ve çoğu kez dilimli veya dişlidir, yaşlandıkça dışa açılır veya dalgalanır. Kuru ve mat yüzeyi gençken ince pudralıdır, ardından pürüzsüzleşir, yağışlı havalarda hafifçe kayganlaşır ve kenara doğru yarı saydam çizgiliden kaba olukluya dönüşür. Rengi koyu gri-kahverengiden soluk gümüşi griye değişir; merkezde en koyu, kenara yakın daha soluktur ve yaşlandıkça bazen pembemsi krem tonlara solabilir ya da pas kahverengisi lekeler geliştirebilir.",
+      "hymenium": "Sapa ulaşan 23–38 lamel yukarı doğru yükselen, dar biçimde bağlı veya kısa bir aşağı uzanan dişle tutunmuş, orta genişlikte (4–7 mm) ve olgun meyve gövdelerinde arka kısımda sıklıkla enine damarlıdır. Beyazdan grimsi beyaza uzanan renktedirler; yaşlandıkça bazen soluk pembe bir ton alabilir veya kızılımsı kahverengi lekeler geliştirebilirler, kenarları pürüzsüz ve aynı renktedir. Bazidiyumlar dört sporlu ve topuz biçimlidir (26–38 × 7–10 μm). Keilosistidyumlar kısır bir lamel kenarı oluşturur; iğ biçimliden düzensiz şekilliye kadar değişir, pürüzsüz ya da uçta veya yanlarda birkaç parmak benzeri çıkıntı taşırlar; plörosistidyum bulunmaz.",
+      "stipe": "Boyu 5–12 cm (zaman zaman 15–18 cm'ye kadar) ve kalınlığı 0,2–0,5 cm olan içi boş, sert ancak kırılgan sap silindirik veya aşağıya doğru hafifçe genişlemiştir ve çoğu kez köksü bir yalancı köke uzanır. En belirgin özelliği, büyüteçle görülebilen veya dokunarak hissedilebilen ince ile kaba arası uzunlamasına oluklarıdır (bazen hafifçe burulmuştur); bununla birlikte zaman zaman pürüzsüz saplı örneklere de rastlanır. Gümüşi griden arduvaz grisine veya grimsi kahverengiye uzanan renkte olup tepede genellikle daha soluk ve ince pudralıdır; yoğun, kaba beyaz kıllarla kaplı tabana doğru daha koyu kızılımsı kahverengiye döner; halka yoktur.",
+      "flesh": "Etli kısım ince, sulu beyazımsı ile grimsi arası renkte ve sapta kıkırdaksıdır. Kokusu belirsiz ya da hafifçe turp veya un benzeri, tadı ise hafif ve zaman zaman azıcık yakıcıdır.",
+      "sporePrint": "Spor izi beyazdır. Sporlar geniş elipsoidden çekirdek biçimliye kadar değişir, pürüzsüz, saydam ve amiloiddir; 7,5–10,5 × 5–7,5 μm (zaman zaman 12 × 8 μm'ye kadar) boyutlarındadır ve bazen yağ damlacıkları içerir.",
+      "habitat": "Yapraklı ağaçların—özellikle meşe, ayrıca kayın, akçaağaç, dişbudak, kızılağaç, huş, fındık ve ıhlamur—ölü odunları üzerinde saprotroftur; çürüyen kütüklerde, devrilmiş gövdelerde, dallarda, ince dallarda ve ağaç tabanları yakınındaki gömülü odunlarda, nadiren de iğne yapraklı odunlarda yetişir. Meyve gövdeleri mayıstan aralığa kadar (yazdan geç sonbahara zirve yaparak ve zaman zaman ılıman kışlara sarkarak) tek tek, küçük gruplar veya küçük demetler hâlinde ortaya çıkar.",
+      "uses": "Yenmez; mutfak değeri yoktur ve düşük derişimlerde muskarin içerdiği bildirildiğinden tüketilmemelidir.",
+      "confusion": "Mycena galericulata benzer yapraklı ağaç kütüklerinde yetişir ancak uzunlamasına olukları olmayan tamamen pürüzsüz ve parlak bir sapa sahiptir. Mycena inclinata meşe kütüklerinde sık demetler hâlinde meyve verir, şapka kenarı belirgin biçimde dişlidir ve pürüzsüz sapı tabandan yukarı doğru parlak turuncu-kahverengiden kızılımsı kahverengiye döner. Mycena vitilis daha küçük ve incedir; sapa ulaşan 23'ten az lamele, dayanıklı, pürüzsüz ve jelatinimsi bir sap yüzeyine, daha dar sporlara sahiptir ve genellikle kanca bağlantılarından yoksundur. Mycena maculata şapka ve lamellerde kızılımsı kahverengi lekelenme gösterebilir ancak oluklu saptan yoksundur ve mikroskobik olarak ayrılır. Mycena laevigata beyazımsıdan sarımsı kahverengiye değişen şapkası, pürüzsüz sapı ve daha küçük sporlarıyla (7–8 × 4 μm) ayrılır ve dağlık yaşam alanlarını tercih eder.",
+      "notes": "Odunsu döküntüdeki lignin ve selülozun güçlü bir ayrıştırıcısıdır ve zaman zaman Spinellus fusiger ile Spinellus macrocarpus adlı iğne küfleri tarafından parazitlenir. Meyve gövdeleri ve miselyumları günlük bir ritimle zayıf biyolüminesans (470–640 nm) gösterir; ancak bu parıltı genellikle çıplak gözle görülemeyecek kadar soluktur ve saptanması için uzun pozlamalı fotoğrafçılık veya hassas cihazlar gerekir. Ayrıca iki alışılmadık hidroksi yağ asidi üretir. Nadir görülen neredeyse saf beyaz örnekler forma candida, pürüzsüz saplı örnekler ise forma laevipes olarak ele alınmıştır; ancak ara formlar da görülür."
+    },
+    "zh": {
+      "description": "一種分布廣泛的腐生褶菌，單生、小群生或疏鬆叢生於腐朽闊葉樹樹樁、倒伏枝幹與埋藏木材上，偶爾見於針葉樹木材。在包括英國與愛爾蘭在內的歐洲各地相當常見，亦分布於亞洲、北美洲及福克蘭群島。",
+      "cap": "菌蓋直徑2–4.5 cm（偶可達5 cm），幼時呈卵形至圓錐形，展開後為鐘形或凸面狀，中央具明顯臍突；邊緣起初略內卷，常呈圓齒狀或齒狀，成熟後向外展開或呈波浪狀。表面乾燥無光澤，幼時被細微粉霜，隨後轉為平滑，潮濕天氣略具滑潤感，近邊緣呈半透明條紋至粗溝紋狀。色澤由深灰褐色至淡銀灰色，中央最深、邊緣較淺，老化時偶會褪成粉紅淡黃褐色或出現鏽褐色斑點。",
+      "hymenium": "直達菌柄的菌褶有23–38枚，向上貼生、狹直生或具短延生齒，寬度中等（4–7 mm），成熟子實體的褶間背部常具橫脈。色呈白色至灰白色，老熟時偶帶淡粉紅暈或出現紅褐色斑痕，褶緣平滑且同色。擔子具四孢，呈棍棒狀（26–38 × 7–10 μm）。褶緣囊狀體形成不孕褶緣，呈紡錘形至不規則形，平滑或於頂端及側面具數枚指狀突起；無褶側囊狀體。",
+      "stipe": "菌柄高5–12 cm（偶可達15–18 cm）、粗0.2–0.5 cm，中空、堅挺而脆，呈圓柱形或向下略膨大，常延伸成具根狀構造的假根。其最具辨識度的特徵為細密至粗顯的縱向溝紋（有時略扭轉），以放大鏡即可觀察或以手指觸摸察覺，惟偶爾亦可見光滑菌柄個體。色澤為銀灰色至石板灰或灰褐色，頂端常較淡且具細粉霜，向基部轉為較深的紅褐色，基部被覆濃密粗白毛；無菌環。",
+      "flesh": "菌肉薄、水漬狀，呈白色至灰白色，於菌柄處呈軟骨質。氣味不明顯，或略帶蘿蔔味至粉味；味道溫和，偶爾略顯辛辣。",
+      "sporePrint": "孢子印白色。孢子寬橢圓形至果核形，平滑、無色透明、具澱粉質反應，大小為7.5–10.5 × 5–7.5 μm（偶可達12 × 8 μm），有時內含油滴。",
+      "habitat": "腐生於闊葉樹枯木上——尤其是櫟樹，亦見於山毛櫸、楓樹、梣樹、榿木、樺樹、榛樹與椴樹——生長於腐朽樹樁、倒木、枯枝、細枝及樹基附近的埋藏木材上，極少見於針葉樹木材。子實體於5月至12月出現（夏季至深秋為盛期，偶爾延續至暖冬），單生、小群生或小叢生。",
+      "uses": "不可食；無食用價值，且據報導含有低濃度的毒蕈鹼，切勿食用。",
+      "confusion": "Mycena galericulata生長於相似的闊葉樹樹樁上，但其菌柄完全光滑有光澤且無縱向溝紋。Mycena inclinata於櫟樹樹樁上密集叢生，菌蓋邊緣強烈呈齒狀，平滑菌柄自基部向上轉為明亮的橙褐色至紅褐色。Mycena vitilis體型更小且纖細，直達菌柄的菌褶少於23枚，菌柄表面堅韌、平滑且膠質化，孢子較窄，且通常無扣子體。Mycena maculata在菌蓋與菌褶上亦可能出現紅褐色斑點，但缺乏縱溝菌柄且顯微特徵不同。Mycena laevigata具白色至黃褐色菌蓋、平滑菌柄與較小孢子（7–8 × 4 μm），並偏好山地生長環境。",
+      "notes": "為木質枯落物中木質素與纖維素的強效分解者，偶爾受大頭黴屬的Spinellus fusiger與Spinellus macrocarpus寄生。其子實體與菌絲體展現具晝夜節律的微弱生物發光（470–640 nm），但光芒通常微弱到肉眼無法察覺，需藉由長曝光攝影或高靈敏度儀器方能偵測。此外亦能產生兩種罕見的羥基脂肪酸。罕見近乎純白的個體曾被處理為forma candida，光滑菌柄個體則被處理為forma laevipes，但兩者之間亦存在中間型。"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus polygrammus",
+      "author": "Bull.",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus cynophallus",
+      "author": "Batsch",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus varius var. polygrammus",
+      "author": "(Bull.) Purton",
+      "rank": "variety"
+    },
+    {
+      "name": "Agaricus fistulosus var. polygrammus",
+      "author": "(Bull.) St.-Amans",
+      "rank": "variety"
+    },
+    {
+      "name": "Agaricus polygrammus var. cynophallus",
+      "author": "(Batsch) Pers.",
+      "rank": "variety"
+    },
+    {
+      "name": "Agaricus polygrammus var. niveus",
+      "author": "Pers.",
+      "rank": "variety"
+    },
+    {
+      "name": "Agaricus polygrammus var. cinerascens",
+      "author": "Alb. & Schwein.",
+      "rank": "variety"
+    },
+    {
+      "name": "Marasmius polygrammus",
+      "author": "(Bull.) Schulzer",
+      "rank": "species"
+    },
+    {
+      "name": "Mycena polygramma var. candida",
+      "author": "Gillet",
+      "rank": "variety"
+    },
+    {
+      "name": "Mycena polygramma f. candida",
+      "author": "J.E. Lange",
+      "rank": "form"
+    },
+    {
+      "name": "Mycena polygramma var. candida",
+      "author": "(J.E. Lange) R. Buch",
+      "rank": "variety"
+    },
+    {
+      "name": "Mycena polygramma f. pumila",
+      "author": "J.E. Lange",
+      "rank": "form"
+    },
+    {
+      "name": "Mycena polygramma var. nana",
+      "author": "Killerm.",
+      "rank": "variety"
+    },
+    {
+      "name": "Mycena polygramma var. albida",
+      "author": "Killerm.",
+      "rank": "variety"
+    },
+    {
+      "name": "Mycena polygramma f. laevipes",
+      "author": "Robich",
+      "rank": "form"
+    }
+  ]
 }
 ];
