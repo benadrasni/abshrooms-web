@@ -482,6 +482,13 @@ export const TAXA = {
     rank: "genus",
     sk: "vláknica"
   },
+  Inocybe: {
+    rank: "genus",
+    sk: "vláknica",
+    cs: "vláknice",
+    de: "Risspilze",
+    pl: "strzępiak"
+  },
   Thelephorales: {
     rank: "order",
     lv: "kārpsēņu rinda"
