@@ -223533,5 +223533,1894 @@ export const CATALOG = [
   "reserved": false,
   "id": 221,
   "citation": "Mycotaxon 9(1): 218 (1979)"
+},
+{
+  "name": "Stropharia caerulea",
+  "author": "Kreisel",
+  "family": "Strophariaceae",
+  "genus": "Stropharia",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Strophariaceae",
+    "Stropharia"
+  ],
+  "summary": [
+    "Agaricales",
+    "Strophariaceae",
+    "Stropharia"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "grass",
+    "ground"
+  ],
+  "color": [
+    "green",
+    "yellow",
+    "brown",
+    "purple"
+  ],
+  "capFrom": 2.0,
+  "capTo": 9.0,
+  "stipeHeightFrom": 2.0,
+  "stipeHeightTo": 12.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 1.2,
+  "fruitingFrom": 7,
+  "fruitingTo": 12,
+  "label": {
+    "cs": "límcovka modrá",
+    "de": "Grünblauer Träuschling",
+    "en": "Blue Roundhead",
+    "et": "tsüaanvärvik",
+    "fi": "tarhakaulussieni",
+    "fr": "strophaire bleutée",
+    "hu": "zöldeskék harmatgomba",
+    "lt": "melsvoji gleiviabudė",
+    "lv": "zilganā virpainīte",
+    "nl": "Valse kopergroenzwam",
+    "no": "blågrønn kragesopp",
+    "pl": "pierścieniak niebieskawy",
+    "ru": "строфария небесно-синяя",
+    "sk": "golierovka zelenomodrá",
+    "sl": "modrikasta strniščnica",
+    "sv": "blågrön kragskivling",
+    "uk": "строфарія небесно-блакитна"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Blauer Träuschling",
+      "Braunsporiger Träuschling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "pierścieniak białoniebieski",
+      "łysiczka niebieskawa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "строфария небесно-голубая"
+    ],
+    "sk": [
+      "golierovka modrá"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=324292",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=324292",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=324292",
+      "https://www.gbif.org/species/2533355",
+      "https://www.first-nature.com/fungi/stropharia-caerulea.php",
+      "https://de.wikipedia.org/wiki/Gr%C3%BCnblauer_Tr%C3%A4uschling",
+      "https://www.myko.cz/myko-atlas/Stropharia-caerulea/",
+      "https://en.wikipedia.org/wiki/Stropharia_caerulea",
+      "https://nl.wikipedia.org/wiki/Valse_kopergroenzwam",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.wikidata.org/wiki/Q639931"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://api.gbif.org/v1/species/2533355/vernacularNames",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.wikidata.org/wiki/Q639931",
+      "https://www.myko.cz/myko-atlas/Stropharia-caerulea/"
+    ],
+    "da": [],
+    "de": [
+      "https://de.wikipedia.org/wiki/Gr%C3%BCnblauer_Tr%C3%A4uschling",
+      "https://www.wikidata.org/wiki/Q639931",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.gbif.org/species/2533355"
+    ],
+    "es": [],
+    "et": [
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Tarhakaulussieni",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.gbif.org/species/2533355",
+      "https://www.wikidata.org/wiki/Q639931"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Z%C3%B6ldesk%C3%A9k_harmatgomba",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.gbif.org/species/2533355",
+      "https://www.wikidata.org/wiki/Q639931"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Valse_kopergroenzwam",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.gbif.org/species/2533355"
+    ],
+    "no": [
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Pier%C5%9Bcieniak_niebieskawy",
+      "https://www.wikidata.org/wiki/Q639931",
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%84%D0%B0%D1%80%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D0%BE-%D1%81%D0%B8%D0%BD%D1%8F%D1%8F",
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.gbif.org/species/2533355"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/2533355",
+      "https://www.inaturalist.org/taxa/118196"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Bl%C3%A5gr%C3%B6n_kragskivling",
+      "https://www.inaturalist.org/taxa/118196",
+      "https://www.gbif.org/species/2533355",
+      "https://www.wikidata.org/wiki/Q639931"
+    ],
+    "tr": [],
+    "uk": [
+      "https://www.gbif.org/species/2533355",
+      "https://api.gbif.org/v1/species/2533355/vernacularNames"
+    ],
+    "zh": []
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_1.webp",
+      "author": "Alan Rockefeller",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/188728693"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_2.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/34926456"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_3.webp",
+      "author": "Stuart Fraser",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/248269067"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_4.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/320456119"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_5.webp",
+      "author": "reagan peschke",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/322450258"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename) has a cursive “Gemini” mark at the lower right. The 2:3 fit scales 2.0× and trims 48 source pixels (96 output pixels) from each side, with no vertical crop. Visual inspection of the fit preview confirms that all figures (gill view, main fruit body, young specimen, section) and the signature remain fully inside the trimmed frame; nothing was erased or painted."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_1.webp",
+      "author": "Alan Rockefeller",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/188728693"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_2.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/34926456"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_3.webp",
+      "author": "Stuart Fraser",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/248269067"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_4.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/320456119"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_caerulea/Stropharia_caerulea_5.webp",
+      "author": "reagan peschke",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/322450258"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر صفائحي رمّي للتربة الغنية، ينمو في مجموعات في العشب والحدائق والمتنزهات وحواف الغابات وجوانب الطرق وعلى فرش رقائق الخشب في أوروبا وأمريكا الشمالية. القبعة مخاطية عند الرطوبة، زرقاء خضراء إلى تركواز، وتبهت بشكل غير منتظم من المركز إلى أصفر ترابي أو أسمر؛ وهي في الصغر تحمل غالباً عند الحافة قشورًا بيضاء صغيرة من الغشاء. الصفائح في البداية رمادية شاحبة أو لون الطين، ثم بنية أرجوانية، وحافتها بلون الوجوه نفسه، ليست بيضاء. الساق زرقاء خضراء، تحت حلقة ضعيفة هشة كثيراً ما تبقى مجرد نطاق باهت مغبرّ بالأبواغ، دقيقة الزغب الأبيض. لا توجد جرابة. تظهر الأجسام الثمرية من يوليو إلى ديسمبر، بأغزر ما يكون في الخريف.",
+      "cap": "القبعة قطرها 2–9 سم. تكون في البداية جرسية أو محدبة، ثم مسطحة على نحو واسع، وغالباً مع حدبة منخفضة كليلة. السطح مخاطي لامع عند الرطوبة، أزرق أخضر إلى تركواز، ويبهت بشكل غير متساوٍ من المركز إلى أصفر ترابي أو بني خردلي. القبعات الصغيرة تحمل غالباً عند الحافة قطعاً بيضاء صغيرة من الغشاء سرعان ما تزول.",
+      "hymenium": "الصفائح متوسطة الازدحام، ملتصقة بالساق أو محزوزة عندها، في البداية رمادية شاحبة إلى بنية طينية، ثم بنية أرجوانية باهتة أو بنية داكنة. حافة الصفائح بلون الوجوه نفسه وليست بيضاء. توجد بينها صفائح أقصر.",
+      "stipe": "الساق طولها 2–12 سم وسُمكها 0.5–1.2 سم، أسطوانية، زرقاء خضراء إلى بيضاء مخضرّة، أشحب فوق حلقة ضعيفة هشة أو نطاق حلقي كثيراً ما يبقى مجرد خط بني مغبرّ بالأبواغ وقد يختفي. تحت النطاق الحلقي تكون الساق دقيقة الزغب الأبيض أو حرشفية. القاعدة غالباً بيضاء لبادية وقد تحمل حبالاً من الخيوط الفطرية. لا توجد جرابة.",
+      "flesh": "اللحم مبيض، وأحياناً مائل إلى الزرقة بخفة تحت قشرة القبعة وفي قشرة الساق. الرائحة غير مميزة؛ والطعم خفيف.",
+      "sporePrint": "طبعة الأبواغ بنية أرجوانية داكنة. الأبواغ ملساء إهليلجية، نحو 7–10 × 4–6 ميكرومتر.",
+      "habitat": "رمّي أرضي في تربة غنية، غالباً كلسية: عشب، فرش أوراق، حواف الغابات والممرات، حدائق ومتنزهات، جوانب الطرق وفرش الرقائق. تظهر الأجسام الثمرية عادة في مجموعات صغيرة من يوليو إلى ديسمبر، بأغزر ما يكون في الخريف؛ وفي جنوب أوروبا قد تستمر إلى وقت لاحق.",
+      "uses": "يُعد غير صالح للأكل ولا يُجمع للمائدة. تسميه بعض الأدلة صالحاً للأكل لكنه رديء، وأخرى ساماً، أو تحذّر من اضطرابات هضمية في الجنس؛ والأسلم ألا يُؤكل.",
+      "confusion": "أقرب التشابه هو Stropharia aeruginosa: عادةً أخضر نحاسي أعمق، يحتفظ وقتاً أطول بقشور بيضاء على القبعة، وله حلقة غشائية أمتن، وأوثق علامة هي حواف صفائح بيضاء تتباين مع الوجوه البنية. Stropharia pseudocyanea أصغر، يتحول سريعاً إلى لون ترابي وينمو في عشب قصير. Collybia odora أيضاً أزرق أخضر، لكن قبعته جافة غير مخاطية، وصفائحه شاحبة هابطة قليلاً، بلا حلقة، وله رائحة يانسون قوية. Gliophorus psittacinus فطر شمعي مخاطي أصغر من المروج، بصفائح سميكة شمعية شاحبة، بلا حلقة ولا طبعة أبواغ بنية أرجوانية.",
+      "notes": "أوثق العلامات هي القبعة المخاطية الزرقاء الخضراء التي تبهت بشكل غير منتظم إلى أصفر ترابي، والصفائح البنية الأرجوانية ذات الحافة غير البيضاء، والنطاق الحلقي الضعيف الذي كثيراً ما يختفي على ساق زرقاء خضراء دقيقة الزغب الأبيض. ينمو في العشب والحدائق وفرش الرقائق وكذلك في فرش الغابة.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Сапротрофна плочеста гъба на богати почви, растяща на групи по тревни площи, в паркове, градини, по горски крайща, край пътища и върху мулч от дървесен чипс в Европа и Северна Америка. Шапката при влага е слузеста, синьозелена до тюркоазена, от центъра неравномерно избледнява до охражълта или бледокафява; на младо при ръба често с дребни бели остатъци от булото. Пластинките отначало са бледосиви или глинести, после виолетовокафяви, а ръбът им е в същия цвят като повърхностите, не е бял. Пънчето е синьозелено, под слаб, крехък пръстен, който често остава само като неясна, със спори напудрена зона, ситно белезникаво люспесто. Волва няма. Плодните тела се появяват от юли до декември, най-обилно през есента.",
+      "cap": "Шапката е с диаметър 2–9 cm. Отначало е камбановидна или изпъкнала, после широко сплескана, често с нисък тъп гърбичен връх. Повърхността при влага е слузеста и лъскава, синьозелена до тюркоазена, от центъра неравномерно избледнява до охражълта или горчичнокафява. Младите шапки при ръба често имат дребни, бързо изчезващи бели остатъци от булото.",
+      "hymenium": "Пластинките са умерено гъсти, прираснали или изрязани при пънчето, отначало бледосиви до глинестокафяви, по-късно матово виолетовокафяви или тъмнокафяви. Ръбът на пластинките е в същия цвят като повърхностите и не е бял. Между тях има по-къси пластинки (ламелули).",
+      "stipe": "Пънчето е високо 2–12 cm и дебело 0,5–1,2 cm, цилиндрично, синьозелено до зеленикавобяло, по-бледо над слаб, крехък пръстен или пръстенна зона, която често остава само като кафява, със спори напудрена линия и може да изчезне. Под пръстенната зона е ситно белезникаво люспесто. Основата често е белезникаво плъстена и може да носи мицелни шнурове. Волва няма.",
+      "flesh": "Месото е белезникаво, понякога слабо синкаво под кожицата на шапката и в кората на пънчето. Миризмата не е характерна; вкусът е мек.",
+      "sporePrint": "Споровият прах е тъмновиолетовокафяв. Спорите са гладки, елипсовидни, около 7–10 × 4–6 µm.",
+      "habitat": "Почвен сапротроф на богати, често варовити почви: в трева, в постилка, по горски крайща и пътеки, в паркове, градини, край пътища и върху мулч от чипс. Плодните тела обикновено се появяват на малки групи от юли до декември, най-обилно през есента; в Южна Европа могат да се задържат по-дълго.",
+      "uses": "Смята се за неядлива и не се събира за масата. Някои определители я наричат ядлива, но малоценна, други отровна или предупреждават за стомашно-чревни разстройства в рода; най-безопасно е да не се яде.",
+      "confusion": "Най-близкото объркване е Stropharia aeruginosa: обикновено е с по-дълбок меденозелен цвят, по-дълго запазва бели люспици на шапката, има по-здрав ципест пръстен и — най-сигурният белег — бели ръбове на пластинките, които контрастират с кафявите повърхности. Stropharia pseudocyanea е по-дребна, бързо става охра и расте в ниска трева. Collybia odora също е синьозелена, но има суха, не слузеста шапка, бледи слабо низбягващи пластинки, без пръстен и силна миризма на анасон. Папагалска черешова гъба (Gliophorus psittacinus) е по-дребна, слузеста ливадна восъчница с дебели, восъчни, бледи пластинки, без пръстен и без виолетовокафяв споров прах.",
+      "notes": "Най-сигурните белези са слузестата синьозелена шапка, която неравномерно избледнява до охражълта, виолетовокафявите пластинки с ръб, който не е бял, и слабата, често изчезваща пръстенна зона на белезникаво люспесто синьозелено пънче. Расте в трева, в градини и върху чипс, както и в горска постилка.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Saprotrofní lupenatá houba bohatých půd, rostoucí ve skupinách na trávnících, v parcích, zahradách, na okrajích lesů, při cestách a na mulči z dřevěné štěpky v Evropě a v Severní Americe. Klobouk je za vlhka slizký, zelenomodrý až tyrkysový, od středu nepravidelně vybledající do okrově žluté nebo pískové barvy; v mládí má při okraji často drobné bílé zbytky vela. Lupeny jsou zprvu bledě šedé nebo jílovité, později fialovohnědé, a jejich ostří má stejnou barvu jako plochy, není bílé. Třeň je zelenomodrý, pod slabým, křehkým prstenem, který často zbývá jen jako nezřetelná, výtrusy poprášená zóna, jemně bělavě vločkatý. Pochva chybí. Plodnice rostou od července do prosince, nejhojněji na podzim.",
+      "cap": "Klobouk má 2–9 cm v průměru. Je zprvu zvoncovitý nebo vyklenutý, později široce zploštělý, často s nízkým tupým hrbolem. Povrch je za vlhka slizký a lesklý, zelenomodrý až tyrkysový, od středu nerovnoměrně vybledající do okrově žluté nebo hořčičně hnědé. Mladé klobouky mají při okraji často drobné, rychle mizející bílé zbytky vela.",
+      "hymenium": "Lupeny jsou středně husté, u třeně připojené nebo vykrojené, zprvu bledě šedé až jílově hnědé, později matně fialovohnědé nebo tmavohnědé. Ostří lupenů má stejnou barvu jako jejich plochy a není bílé. Mezi nimi jsou kratší lupeny (lameluly).",
+      "stipe": "Třeň je 2–12 cm vysoký a 0,5–1,2 cm tlustý, válcovitý, zelenomodrý až zelenobílý, nad slabým, křehkým prstenem nebo prstenovou zónou, která často zbývá jen jako hnědá, výtrusy poprášená čára a může zmizet, bledší. Pod prstenovou zónou je jemně bělavě vločkatý nebo šupinkatý. Báze je často bělavě plstnatá a může nést provazce podhoubí. Pochva chybí.",
+      "flesh": "Dužnina je bělavá, pod pokožkou klobouku a v kůře třeně někdy slabě namodralá. Vůně není výrazná; chuť je mírná.",
+      "sporePrint": "Výtrusný prach je tmavě fialovohnědý. Výtrusy jsou hladké, elipsoidní, přibližně 7–10 × 4–6 µm.",
+      "habitat": "Půdní saprotrof na živinami bohatých, často vápnitých půdách: v trávě, v opadu, na okrajích a cestách lesů, v parcích, zahradách, při cestách a na mulči z dřevěné štěpky. Plodnice rostou obvykle v malých skupinách od července do prosince, nejhojněji na podzim; v jižní Evropě mohou pokračovat i později.",
+      "uses": "Je nejedlá a ke stolu se nesbírá. Některé příručky ji označují jako jedlou, ale málo hodnotnou, jiné jako jedovatou nebo varují před žaludečními potížemi v rodě; nejbezpečnější je považovat ji za nejedlou.",
+      "confusion": "Nejbližší záměna je Stropharia aeruginosa: bývá sytěji měděnkově zelená, na klobouku si déle udržuje bílé šupinky, má pevnější blanitý prsten a — nejjistější znak — bílé ostří lupenů, které kontrastuje s hnědými plochami. Stropharia pseudocyanea je menší, rychle okroví a roste v nízké trávě. Strmělka anýzka (Collybia odora) je také zelenomodrá, má však suchý, nikoli slizký klobouk, bledé slabě sbíhavé lupeny, bez prstenu a silnou anýzovou vůni. Voskovka papouščí (Gliophorus psittacinus) je menší, slizká luční voskovka s tlustými, voskovitými, bledými lupeny, bez prstenu a bez fialovohnědého výtrusného prachu.",
+      "notes": "Nejistější znaky jsou slizký zelenomodrý klobouk, který nepravidelně vybledá do okrově žluté, fialovohnědé lupeny s ostřím, které není bílé, a slabá, často mizející prstenová zóna na bělavě vločkatém zelenomodrém třeni. Roste v trávě, v zahradách a na mulči z dřevěné štěpky i v lesním opadu.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2533355/vernacularNames",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.wikidata.org/wiki/Q639931",
+        "https://www.myko.cz/myko-atlas/Stropharia-caerulea/"
+      ],
+      "label": "límcovka modrá"
+    },
+    "da": {
+      "description": "En saprotrof bladhat på næringsrig bund, der vokser i grupper i græs, parker, haver, i skovbryn, langs veje og på flis i Europa og Nordamerika. Hatten er slimet i fugtigt vejr, blågrøn til turkis og blegner uregelmæssigt fra midten til okkergul eller læderfarvet; unge hatte har ofte små hvide slørrester nær randen. Lamellerne er først bleggrå eller lertfarvede, senere purpurbrune, og deres æg har samme farve som fladerne, de er ikke hvide. Stokken er blågrøn, under en svag, skrøbelig ring, der ofte kun efterlader en utydelig, sporestøvet zone, fint hvidfloxet. Der er ingen skede. Frugtlegemerne fremkommer fra juli til december, rigeligst om efteråret.",
+      "cap": "Hatten er 2–9 cm bred. Den er først klokkeformet eller hvælvet, senere bredt udfladet, ofte med en lav, stump pukkel. Overfladen er slimet og blank i fugtigt vejr, blågrøn til turkis, og blegner ujævnt fra midten til okkergul eller sennepsbrun. Unge hatte har ofte små, hurtigt forsvindende hvide slørrester nær randen.",
+      "hymenium": "Lamellerne er ret tætte, tilvoksede eller udrandede ved stokken, først bleggrå til lerbrune, senere mat purpurbrune eller mørkebrune. Lamellernes æg har samme farve som fladerne og er ikke hvide. Der forekommer kortere lameller (lamelluler) imellem.",
+      "stipe": "Stokken er 2–12 cm høj og 0,5–1,2 cm tyk, cylindrisk, blågrøn til grønlig-hvid, blegere over en svag, skrøbelig ring eller ringzone, der ofte kun er en brun, sporestøvet linje og kan forsvinde. Under ringzonen er den fint hvidfloxet eller skællet. Basis er ofte hvidfiltet og kan have myceliestrenge. Der er ingen skede.",
+      "flesh": "Kødet er hvidligt, undertiden svagt blåligt under hattehuden og i stokkens bark. Lugten er ikke karakteristisk; smagen er mild.",
+      "sporePrint": "Sporeaftrykket er mørkt purpurbrunt. Sporerne er glatte, ellipsoidiske, cirka 7–10 × 4–6 µm.",
+      "habitat": "En jordsaprotrof på næringsrig, ofte kalkholdig bund: i græs, i førne, i skovbryn og langs stier, i parker, haver, vejkanter og på flis. Frugtlegemerne kommer sædvanligvis i små grupper fra juli til december, rigeligst om efteråret; i Sydeuropa kan de stå længere.",
+      "uses": "Den er uspiselig og samles ikke til bordet. Nogle førere kalder den spiselig, men ringe, andre giftig, eller advarer om mave-tarmgener i slægten; den bør behandles som uspiselig.",
+      "confusion": "Den nærmeste forveksling er Stropharia aeruginosa: den er som regel dybere spangrøn, beholder længere hvide skæl på hatten, har en fast membranøs ring og — det sikreste kendetegn — hvide lamelæg, der kontrasterer til de brune flader. Stropharia pseudocyanea er mindre, bliver hurtigt okker og vokser i kort græs. Collybia odora er også blågrøn, men har en tør, ikke slimet hat, blege, svagt nedløbende lameller, ingen ring og en stærk anisduft. Papegøje-vokshat (Gliophorus psittacinus) er en mindre, slimet græsland-vokshat med tykke, voksagtige, blege lameller, uden ring og uden purpurbrunt sporeaftryk.",
+      "notes": "De sikreste kendetegn er den slimede blågrønne hat, der uregelmæssigt blegner til okkergul, de purpurbrune lameller med æg, der ikke er hvide, og den svage, ofte forsvindende ringzone på en hvidfloxet blågrøn stok. Den vokser i græs, haver og på flis såvel som i skovførne.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein saprotrober Blätterpilz nährstoffreicher Böden, der in Gruppen in Gras, Parks, Gärten, an Waldrändern, Wegrändern und auf Holzhäckselmulch in Europa und Nordamerika wächst. Der Hut ist feucht schleimig, blaugrün bis türkis und bleicht unregelmäßig von der Mitte her ockergelb oder lederfarben aus; jung trägt er am Rand oft kleine weiße Velumflocken. Die Lamellen sind zuerst blassgrau oder lehmfarben, später purpurbraun, und ihre Schneiden haben dieselbe Farbe wie die Flächen, sie sind nicht weiß. Der Stiel ist blaugrün, unter einem schwachen, vergänglichen Ring, der oft nur als undeutliche, sporengestäubte Zone bleibt, fein weißflockig. Eine Volva fehlt. Die Fruchtkörper erscheinen von Juli bis Dezember, am reichsten im Herbst.",
+      "cap": "Der Hut ist 2–9 cm breit. Er ist zuerst glockig oder gewölbt, später flach ausgebreitet, oft mit einem niedrigen, stumpfen Buckel. Die Oberfläche ist feucht schleimig und glänzend, blaugrün bis türkis und bleicht ungleichmäßig von der Mitte her ockergelb oder senffarben aus. Junge Hüte tragen am Rand oft kleine, rasch schwindende weiße Velumreste.",
+      "hymenium": "Die Lamellen stehen mäßig gedrängt, sind am Stiel angewachsen oder ausgebuchtet, zuerst blassgrau bis lehmbraun, später matt purpurbraun oder dunkelbraun. Die Schneiden haben dieselbe Farbe wie die Flächen und sind nicht weiß. Dazwischen stehen kürzere Lamellen (Lamelullen).",
+      "stipe": "Der Stiel ist 2–12 cm lang und 0,5–1,2 cm dick, zylindrisch, blaugrün bis grünlichweiß, über einem schwachen, vergänglichen Ring oder einer Ringzone, die oft nur als braune, sporengestäubte Linie bleibt und verschwinden kann, blasser. Unter der Ringzone ist er fein weißflockig oder schuppig. Die Basis ist oft weißfilzig und kann Myzelstränge tragen. Eine Volva fehlt.",
+      "flesh": "Das Fleisch ist weißlich, unter der Huthaut und in der Stielrinde manchmal schwach bläulich. Der Geruch ist unauffällig; der Geschmack milde.",
+      "sporePrint": "Das Sporenpulver ist dunkel purpurbraun. Die Sporen sind glatt, ellipsoid, etwa 7–10 × 4–6 µm.",
+      "habitat": "Ein Bodensaprobiont auf nährstoffreichen, oft kalkhaltigen Böden: in Gras, in der Streu, an Wald- und Wegrändern, in Parks, Gärten, an Straßenrändern und auf Holzhäckselmulch. Die Fruchtkörper erscheinen gewöhnlich in kleinen Gruppen von Juli bis Dezember, am reichsten im Herbst; in Südeuropa können sie länger stehen.",
+      "uses": "Er gilt als ungenießbar und wird nicht für die Küche gesammelt. Manche Führer nennen ihn essbar, aber minderwertig, andere giftig oder warnen vor Magen-Darm-Beschwerden in der Gattung; am sichersten ist, ihn nicht zu essen.",
+      "confusion": "Die nächste Verwechslung ist Stropharia aeruginosa: sie ist gewöhnlich tiefer spangrün, behält länger weiße Schuppen auf dem Hut, hat einen festeren häutigen Ring und — das sicherste Merkmal — weiße Lamellenschneiden, die sich von den braunen Flächen abheben. Stropharia pseudocyanea ist kleiner, wird rasch ocker und wächst im kurzen Gras. Der Grüne Anis-Trichterling (Collybia odora) ist ebenfalls blaugrün, hat aber einen trockenen, nicht schleimigen Hut, blasse, schwach herablaufende Lamellen, keinen Ring und einen starken Anisgeruch. Der Papageigrüne Saftling (Gliophorus psittacinus) ist ein kleinerer, schleimiger Wiesen-Saftling mit dicken, wachsartigen, blassen Lamellen, ohne Ring und ohne purpurbraunes Sporenpulver.",
+      "notes": "Die sichersten Merkmale sind der schleimige blaugrüne Hut, der unregelmäßig ockergelb ausbleicht, die purpurbraunen Lamellen mit nicht weißen Schneiden und die schwache, oft schwindende Ringzone an einem weißflockigen blaugrünen Stiel. Er wächst in Gras, Gärten und auf Holzhäcksel ebenso wie in Waldstreu.",
+      "names": [
+        "Blauer Träuschling",
+        "Braunsporiger Träuschling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Gr%C3%BCnblauer_Tr%C3%A4uschling",
+        "https://www.wikidata.org/wiki/Q639931",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.gbif.org/species/2533355"
+      ],
+      "label": "Grünblauer Träuschling"
+    },
+    "en": {
+      "description": "A saprotrophic agaric of nutrient-rich ground, found in groups in grassland, parks, gardens, woodland edges, roadsides and wood-chip mulch in Europe and North America. The cap is slimy when moist, blue-green to turquoise, fading irregularly to ochre-yellow or tan from the centre, often with small white veil flecks near the margin when young. The gills are at first pale grey or clay, then purple-brown, and their edges are the same colour as the faces, not white. The stem is blue-green, finely white-floccose below a weak, fragile ring that is often reduced to a faint, spore-dusted zone. There is no volva. Fruit bodies appear from July to December, most freely in autumn.",
+      "cap": "The cap is 2–9 cm across. It is bell-shaped or convex at first, then broadly flattened, often with a low, blunt umbo. The surface is slimy and glossy when moist, blue-green to turquoise, fading unevenly to ochre-yellow or mustard-tan from the centre. Young caps often bear small, fleeting white veil fragments near the margin.",
+      "hymenium": "The gills are moderately crowded, adnate or notched (sinuate) at the stem, at first pale grey to clay-brown, later dull purple-brown or dark brown. The gill edges are the same colour as the faces and are not white. Shorter gills (lamellulae) are present.",
+      "stipe": "The stem is 2–12 cm tall and 0.5–1.2 cm thick, cylindrical, blue-green to greenish-white, paler above a weak, fragile ring or ring zone that is often only a brown, spore-dusted line and may disappear. Below the ring zone the stem is finely white-floccose or scaly. The base is often whitish-felted and may bear mycelial cords. There is no volva.",
+      "flesh": "The flesh is whitish, sometimes faintly bluish under the cap skin and in the stem cortex. The smell is not distinctive; the taste is mild.",
+      "sporePrint": "The spore print is dark purplish-brown. The spores are smooth, ellipsoid, about 7–10 × 4–6 µm.",
+      "habitat": "A soil saprotroph on nutrient-rich, often calcareous ground: grass, leaf litter, woodland edges and rides, parks, gardens, roadsides and wood-chip mulch. Fruit bodies usually appear in small groups from July to December, most freely in autumn; in southern Europe they may continue later.",
+      "uses": "It is inedible and not collected for the table. Some guides call it edible but poor, and others call it poisonous or warn of gastrointestinal upset in the genus; it is best treated as not for eating.",
+      "confusion": "Stropharia aeruginosa is the closest look-alike: it is usually a deeper verdigris green, keeps more persistent white scales on the cap, has a sturdier membranous ring, and — the surest mark — white gill edges that contrast with the brown faces. Stropharia pseudocyanea is smaller, quickly turns ochre, and grows in short grass. The aniseed funnel (Collybia odora) is also blue-green but has a dry, not slimy cap, pale slightly decurrent gills, no ring, and a strong smell of aniseed. The parrot waxcap (Gliophorus psittacinus) is a smaller, slimy grassland waxcap with thick, waxy, pale gills and no ring or purple-brown spore print.",
+      "notes": "The surest field marks are the slimy blue-green cap that fades irregularly to ochre-yellow, the purple-brown gills with edges that are not white, and the weak, often disappearing ring zone on a white-floccose blue-green stem. It grows in grass, gardens and wood-chip mulch as well as woodland litter.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=324292",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=324292",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=324292",
+        "https://www.gbif.org/species/2533355",
+        "https://www.first-nature.com/fungi/stropharia-caerulea.php",
+        "https://de.wikipedia.org/wiki/Gr%C3%BCnblauer_Tr%C3%A4uschling",
+        "https://www.myko.cz/myko-atlas/Stropharia-caerulea/",
+        "https://en.wikipedia.org/wiki/Stropharia_caerulea",
+        "https://nl.wikipedia.org/wiki/Valse_kopergroenzwam",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.wikidata.org/wiki/Q639931"
+      ],
+      "label": "Blue Roundhead"
+    },
+    "es": {
+      "description": "Agarical saprótrofo de suelos ricos, que crece en grupos en prados, parques, jardines, orlas de bosque, bordes de caminos y acolchado de astillas en Europa y Norteamérica. El sombrero es viscoso en húmedo, de azul verdoso a turquesa, y palidece de forma irregular desde el centro a ocre amarillo o ante; de joven suele llevar cerca del margen pequeñas escamas blancas del velo. Las láminas son al principio gris pálido o color arcilla, luego púrpura-pardas, y su arista tiene el mismo color que las caras, no es blanca. El pie es azul verdoso, finamente flocoso-blanco bajo un anillo débil y frágil, a menudo reducido a una zona tenue espolvoreada de esporas. No hay volva. Los cuerpos fructíferos aparecen de julio a diciembre, con más abundancia en otoño.",
+      "cap": "El sombrero mide 2–9 cm de diámetro. Es al principio acampanado o convexo, luego ampliamente aplanado, a menudo con un umbón bajo y obtuso. La superficie es viscosa y brillante en húmedo, de azul verdoso a turquesa, y palidece de manera desigual desde el centro a ocre amarillo o pardo mostaza. Los sombreros jóvenes suelen llevar cerca del margen pequeños fragmentos blancos del velo, pronto efímeros.",
+      "hymenium": "Las láminas son moderadamente apretadas, adnatas o escotadas en el pie, al principio gris pálido a pardo arcilloso, luego púrpura-pardas mates o pardo oscuras. La arista tiene el mismo color que las caras y no es blanca. Hay láminas más cortas (lamélulas).",
+      "stipe": "El pie mide 2–12 cm de alto y 0,5–1,2 cm de grosor, cilíndrico, de azul verdoso a blanco verdoso, más pálido por encima de un anillo débil y frágil o de una zona anular, a menudo reducida a una línea parda espolvoreada de esporas y que puede desaparecer. Por debajo de la zona anular el pie es finamente flocoso-blanco o escamoso. La base suele ser blanquecino-feltrosa y puede llevar cordones miceliares. No hay volva.",
+      "flesh": "La carne es blanquecina, a veces débilmente azulada bajo la cutícula del sombrero y en la corteza del pie. El olor no es distintivo; el sabor es suave.",
+      "sporePrint": "La esporada es púrpura-parda oscura. Las esporas son lisas, elipsoides, de unos 7–10 × 4–6 µm.",
+      "habitat": "Saprótrofo terrestre de suelos ricos, a menudo calcáreos: hierba, hojarasca, orlas y sendas de bosque, parques, jardines, bordes de caminos y acolchado de astillas. Los cuerpos fructíferos suelen aparecer en grupos pequeños de julio a diciembre, con más abundancia en otoño; en el sur de Europa pueden prolongarse más tarde.",
+      "uses": "Se considera no comestible y no se recolecta para la mesa. Algunas guías lo llaman comestible pero mediocre, otras tóxico, o advierten de trastornos gastrointestinales en el género; lo más seguro es no comerlo.",
+      "confusion": "El parecido más cercano es Stropharia aeruginosa: suele ser de un verde cardenillo más intenso, conserva más tiempo escamas blancas en el sombrero, tiene un anillo membranoso más firme y —el carácter más seguro— aristas de lámina blancas que contrastan con las caras pardas. Stropharia pseudocyanea es más pequeña, pasa pronto a ocre y crece en hierba corta. Collybia odora también es azul verdosa, pero tiene el sombrero seco, no viscoso, láminas pálidas ligeramente decurrentes, sin anillo y un fuerte olor a anís. El higróforo loro (Gliophorus psittacinus) es un higróforo viscoso más pequeño de pradera, con láminas gruesas, cerosas y pálidas, sin anillo ni esporada púrpura-parda.",
+      "notes": "Los rasgos más seguros son el sombrero viscoso azul verdoso que palidece de forma irregular a ocre amarillo, las láminas púrpura-pardas con arista que no es blanca, y la zona anular débil, a menudo caduca, en un pie azul verdoso flocoso-blanco. Crece en hierba, jardines y acolchado de astillas, además de en la hojarasca del bosque.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Toitaineterikka mulla saprotroofne eosleheline seen, mis kasvab rühmadena murul, parkides, aedades, metsaservadel, teeservadel ja hakkepuidul Euroopas ja Põhja-Ameerikas. Kübar on niiskelt limane, sinakasroheline kuni türkiissinine ning pleegib keskelt ebakorrapäraselt ookerkollaseks või pruunikaskollaseks; noorelt on serva lähedal sageli väikesi valgeid loori jääke. Eoslehekesed on algul kahvatuhallid või savivärvi, hiljem purpurpruunid, ja nende servad on sama värvi kui pinnad, mitte valged. Jalg on sinakasroheline, nõrga, habra rõnga all, mis jääb sageli vaid hägusa, eospulbriga kaetud vööndina, peenelt valgekarvaline. Tuppe ei ole. Viljakehad ilmuvad juulist detsembrini, kõige rohkem sügisel.",
+      "cap": "Kübar on 2–9 cm lai. Ta on algul kellukjas või kumer, hiljem laialt lamenenud, sageli madala nüri kühmuga. Pind on niiskelt limane ja läikiv, sinakasroheline kuni türkiissinine ning pleegib ebaühtlaselt keskelt ookerkollaseks või sinepipruuniks. Noortel kübaratel on serva lähedal sageli väikesi, kiiresti kaduvaid valgeid loori jääke.",
+      "hymenium": "Eoslehekesed on mõõdukalt tihedad, jala juures kinnitunud või väljalõigatud, algul kahvatuhallid kuni savipruunid, hiljem matt purpurpruunid või tumepruunid. Eoslehekeste servad on sama värvi kui pinnad ja ei ole valged. Nende vahel on lühemaid eoslehekesi.",
+      "stipe": "Jalg on 2–12 cm kõrge ja 0,5–1,2 cm jäme, silinderjas, sinakasroheline kuni rohekasvalge, kahvatum nõrga, habra rõnga või rõngasvööndi kohal, mis jääb sageli vaid pruuni, eospulbriga kaetud joonena ja võib kaduda. Rõngasvööndi all on jalg peenelt valgekarvaline või soomuseline. Tüvi on sageli valge vilditaoline ja võib kanda seeneniidistikunööri. Tuppe ei ole.",
+      "flesh": "Liha on valkjas, kübara naha all ja jala koores mõnikord nõrgalt sinakas. Lõhn ei ole iseloomulik; maitse on leebe.",
+      "sporePrint": "Eospulber on tume purpurpruun. Eosed on siledad, ellipsoidse kujuga, umbes 7–10 × 4–6 µm.",
+      "habitat": "Mullasaprotoof toitaineterikkal, sageli lubjarikkal pinnal: murul, varises, metsaservadel ja radadel, parkides, aedades, teeservadel ja hakkepuidul. Viljakehad ilmuvad tavaliselt väikeste rühmadena juulist detsembrini, kõige rohkem sügisel; Lõuna-Euroopas võivad need kesta kauem.",
+      "uses": "Seen on mittesöödav ja seda ei korjata toiduks. Mõned juhendid peavad teda söödavaks, kuid väheväärtuslikuks, teised mürgiseks või hoiatavad perekonna põhjustatud seedehäirete eest; kõige ohutum on teda mitte süüa.",
+      "confusion": "Lähim segiajamise liik on Stropharia aeruginosa: ta on tavaliselt sügavamalt vaskroheline, hoiab kübaral kauem valgeid soomuseid, tal on püsivam kilejas rõngas ja — kindlaim tunnus — valged eoslehekeste servad, mis kontrastuvad pruunide pindadega. Stropharia pseudocyanea on väiksem, muutub kiiresti ookerjaks ja kasvab lühikeses rohus. Aniislehtrik (Collybia odora) on samuti sinakasroheline, kuid tal on kuiv, mitte limane kübar, kahvatud kergelt allajooksvad eoslehekesed, rõngas puudub ja lõhn on tugevasti aniisine. Gliophorus psittacinus on väiksem, limane niiduvahakas paksude, vahajate, kahvatute eoslehekeste, ilma rõnga ja ilma purpurpruuni eospulbrita.",
+      "notes": "Kindlaimad tunnused on limane sinakasroheline kübar, mis pleegib ebakorrapäraselt ookerkollaseks, purpurpruunid eoslehekesed, mille servad ei ole valged, ning nõrk, sageli kaduv rõngasvöönd valgekarvalisel sinakasrohelisel jalal. Ta kasvab murul, aedades ja hakkepuidul ning ka metsavarises.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "tsüaanvärvik"
+    },
+    "fa": {
+      "description": "قارچ تیغه‌ای ساپروتروف خاک‌های غنی که در اروپا و آمریکای شمالی به‌صورت گروهی در چمن، پارک‌ها، باغ‌ها، حاشیه جنگل، کنار جاده و مالچ خرده‌چوب می‌روید. کلاهک در رطوبت لزج است، آبی-سبز تا فیروزه‌ای، و از مرکز به‌طور نامنظم به زرد اخرایی یا نخودی می‌پرد؛ در جوانی نزدیک حاشیه اغلب پولک‌های سفید کوچک پوشش دارد. تیغه‌ها ابتدا خاکستری کم‌رنگ یا رنگ رس‌اند، سپس قهوه‌ای مایل به بنفش، و لبهٔ آنها همرنگ سطح‌هاست، سفید نیست. پایه آبی-سبز است، زیر حلقه‌ای ضعیف و شکننده که اغلب فقط به‌صورت نواری کم‌رنگ و غبارآلود از هاگ باقی می‌ماند، با پرز سفید ریز. غلاف ندارد. اندام‌های بارده از ژوئیه تا دسامبر ظاهر می‌شوند، فراوان‌ترین در پاییز.",
+      "cap": "کلاهک 2–9 سانتی‌متر قطر دارد. ابتدا زنگی یا محدب است، سپس به‌صورت گسترده پهن می‌شود، اغلب با برآمدگی کوتاه و کند. سطح در رطوبت لزج و براق است، آبی-سبز تا فیروزه‌ای، و از مرکز به‌طور نایکنواخت به زرد اخرایی یا قهوه‌ای خردلی می‌پرد. کلاهک‌های جوان نزدیک حاشیه اغلب خرده‌های سفید کوچک پوشش دارند که زود ناپدید می‌شوند.",
+      "hymenium": "تیغه‌ها با تراکم متوسط، چسبیده به پایه یا بریده‌شده در محل اتصال، ابتدا خاکستری کم‌رنگ تا قهوه‌ای رسی، سپس قهوه‌ای مایل به بنفش کدر یا قهوه‌ای تیره. لبهٔ تیغه‌ها همرنگ سطح‌هاست و سفید نیست. تیغه‌های کوتاه‌تر نیز میان آنها هست.",
+      "stipe": "پایه 2–12 سانتی‌متر بلندی و 0.5–1.2 سانتی‌متر قطر دارد، استوانه‌ای، آبی-سبز تا سفید مایل به سبز، بالای حلقهٔ ضعیف و شکننده یا نوار حلقه کم‌رنگ‌تر است؛ این نوار اغلب فقط به‌صورت خطی قهوه‌ای و غبارآلود از هاگ می‌ماند و ممکن است ناپدید شود. زیر نوار حلقه پایه پرز سفید ریز یا پولک‌دار است. قاعده اغلب سفید نمدی است و ممکن است ریسمان‌های ریسه داشته باشد. غلاف ندارد.",
+      "flesh": "گوشت سفیدمتمایل است، گاهی کمی مایل به آبی زیر پوست کلاهک و در پوست پایه. بو مشخص نیست؛ طعم ملایم است.",
+      "sporePrint": "پودر هاگ قهوه‌ای مایل به بنفش تیره است. هاگ‌ها صاف و بیضوی‌اند، حدود 7–10 × 4–6 میکرومتر.",
+      "habitat": "ساپروتروف خاک در خاک‌های غنی، اغلب آهکی: چمن، لاشبرگ، حاشیه و مسیر جنگل، پارک‌ها، باغ‌ها، کنار جاده و مالچ خرده‌چوب. اندام‌های بارده معمولاً در گروه‌های کوچک از ژوئیه تا دسامبر ظاهر می‌شوند، فراوان‌ترین در پاییز؛ در جنوب اروپا ممکن است دیرتر هم ادامه یابند.",
+      "uses": "غیرخوراکی دانسته می‌شود و برای سفره جمع نمی‌شود. برخی راهنماها آن را خوراکی اما کم‌ارزش، برخی سمی می‌دانند یا نسبت به ناراحتی گوارشی در این سرده هشدار می‌دهند؛ ایمن‌ترین کار نخوردن آن است.",
+      "confusion": "نزدیک‌ترین اشتباه Stropharia aeruginosa است: معمولاً سبز مسی تیره‌تر است، پولک‌های سفید کلاهک را بیشتر نگه می‌دارد، حلقهٔ پرده‌ای محکم‌تری دارد و — مطمئن‌ترین نشانه — لبه‌های سفید تیغه است که با سطح‌های قهوه‌ای تضاد دارند. Stropharia pseudocyanea کوچک‌تر است، زود اخرایی می‌شود و در چمن کوتاه می‌روید. Collybia odora نیز آبی-سبز است، اما کلاهکی خشک و غیرلزج، تیغه‌های کم‌رنگ کمی پایین‌رونده، بدون حلقه و بوی تند انیسون دارد. Gliophorus psittacinus قارچ مومی لزج کوچک‌تری از چمنزار است، با تیغه‌های ضخیم، مومی و کم‌رنگ، بدون حلقه و بدون پودر هاگ قهوه‌ای مایل به بنفش.",
+      "notes": "مطمئن‌ترین نشانه‌ها کلاهک لزج آبی-سبز است که به‌طور نامنظم به زرد اخرایی می‌پرد، تیغه‌های قهوه‌ای مایل به بنفش با لبه‌ای که سفید نیست، و نوار حلقهٔ ضعیف که اغلب ناپدید می‌شود روی پایهٔ آبی-سبز با پرز سفید. در چمن، باغ‌ها و مالچ خرده‌چوب و نیز در لاشبرگ جنگل می‌روید.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Ravinteikkaiden maiden lahottajasieni, joka kasvaa ryhminä nurmikolla, puistoissa, puutarhoissa, metsänreunoilla, teiden varsilla ja hakkeella Euroopassa ja Pohjois-Amerikassa. Lakki on kosteana limainen, sinivihreä tai turkoosi ja haalistuu epätasaisesti keskustasta okrankeltaiseksi tai ruskeankeltaiseksi; nuorilla lakeilla on reunan lähellä usein pieniä valkoisia suojusjäänteitä. Heltat ovat aluksi vaaleanharmaat tai savenväriset, myöhemmin purppuranruskeat, ja niiden terät ovat samanväriset kuin pinnat, eivät valkoiset. Jalka on sinivihreä, heikon, hauraan renkaan alapuolelta hienosti valkokarvainen; rengas jää usein vain epäselväksi, itiöpölyn peittämäksi vyöhykkeeksi. Tuppea ei ole. Itiöemät ilmestyvät heinäkuusta joulukuuhun, runsaimmin syksyllä.",
+      "cap": "Lakki on 2–9 cm leveä. Se on aluksi kellomainen tai kupera, myöhemmin laajasti litistynyt, usein matalan, tylpän kohouman kera. Pinta on kosteana limainen ja kiiltävä, sinivihreä tai turkoosi, ja haalistuu epätasaisesti keskustasta okrankeltaiseksi tai sinapinruskeaksi. Nuorilla lakeilla on reunan lähellä usein pieniä, nopeasti katoavia valkoisia suojusjäänteitä.",
+      "hymenium": "Heltat ovat kohtalaisen tiheät, jalkaan kiinnittyneet tai koltomaiset, aluksi vaaleanharmaat tai saviruskeat, myöhemmin himmeän purppuranruskeat tai tummanruskeat. Heltan terät ovat samanväriset kuin pinnat eivätkä valkoiset. Väliin jää lyhyempiä helttoja.",
+      "stipe": "Jalka on 2–12 cm korkea ja 0,5–1,2 cm paksu, lieriömäinen, sinivihreä tai vihertävänvalkea, vaaleampi heikon, hauraan renkaan tai rengasvyöhykkeen yläpuolella; rengas jää usein vain ruskeaksi, itiöpölyn peittämäksi viivaksi ja voi kadota. Rengasvyöhykkeen alapuolella jalka on hienosti valkokarvainen tai suomuinen. Tyvi on usein valkean huopainen ja voi kantaa rihmastojänteitä. Tuppea ei ole.",
+      "flesh": "Malo on valkeahko, lakin nahan alla ja jalan kuoressa joskus heikosti sinertävä. Tuoksu ei ole luonteenomainen; maku on mieto.",
+      "sporePrint": "Itiöpöly on tumman purppuranruskeaa. Itiöt ovat sileitä, ellipsoideja, noin 7–10 × 4–6 µm.",
+      "habitat": "Maalahottaja ravinteikkailla, usein kalkkipitoisilla mailla: nurmella, karikkeessa, metsänreunoilla ja poluilla, puistoissa, puutarhoissa, tienpientareilla ja hakkeella. Itiöemät ilmestyvät tavallisesti pieninä ryhminä heinäkuusta joulukuuhun, runsaimmin syksyllä; Etelä-Euroopassa ne voivat jatkua myöhemminkin.",
+      "uses": "Sieni on syötäväksi kelpaamaton eikä sitä kerätä ruokapöytään. Jotkut oppaat pitävät sitä syötävänä mutta vähäarvoisena, toiset myrkyllisenä tai varoittavat suvun aiheuttamista vatsavaivoista; turvallisinta on jättää se syömättä.",
+      "confusion": "Lähin sekoitettava laji on Stropharia aeruginosa: se on tavallisesti syvemmin kuparivihreä, säilyttää pidempään valkoiset suomut lakissa, sillä on kestävämpi kalvomainen rengas ja — varmin tuntomerkki — valkoiset helttojen terät, jotka erottuvat ruskeista pinnoista. Stropharia pseudocyanea on pienempi, muuttuu nopeasti okraksi ja kasvaa lyhyessä ruohikossa. Vihertuoksumalikka (Collybia odora) on myös sinivihreä, mutta sillä on kuiva, ei limainen lakki, vaaleat hieman jalkaa myöten laskeutuvat heltat, ei rengasta ja voimakas aniksen tuoksu. Papukaijavahakas (Gliophorus psittacinus) on pienempi, limainen niittyvahakas, jolla on paksut, vahamaiset, vaaleat heltat, ei rengasta eikä purppuranruskeaa itiöpölyä.",
+      "notes": "Varmimmat tuntomerkit ovat limainen sinivihreä lakki, joka haalistuu epätasaisesti okrankeltaiseksi, purppuranruskeat heltat, joiden terät eivät ole valkoiset, ja heikko, usein katoava rengasvyöhyke valkokarvaisen sinivihreän jalan varressa. Se kasvaa nurmella, puutarhoissa ja hakkeella sekä metsän karikkeessa.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Tarhakaulussieni",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.gbif.org/species/2533355",
+        "https://www.wikidata.org/wiki/Q639931"
+      ],
+      "label": "tarhakaulussieni"
+    },
+    "fr": {
+      "description": "Agaric saprotrophe des sols riches, poussant en groupes dans les herbages, les parcs, les jardins, en lisière de bois, au bord des chemins et sur le paillis de copeaux en Europe et en Amérique du Nord. Le chapeau est visqueux par temps humide, bleu-vert à turquoise, se décolorant irrégulièrement à partir du centre en ocre-jaune ou fauve ; jeune, il porte souvent de petites mèches blanches de voile près de la marge. Les lames sont d'abord gris pâle ou couleur d'argile, puis brun-pourpre, et leur arête a la même couleur que les faces, elle n'est pas blanche. Le pied est bleu-vert, finement floconneux-blanc sous un anneau faible et fragile, souvent réduit à une zone ténue poudrée de spores. Il n'y a pas de volve. Les sporophores apparaissent de juillet à décembre, surtout en automne.",
+      "cap": "Le chapeau mesure 2–9 cm de diamètre. Il est d'abord campanulé ou convexe, puis largement étalé, souvent avec un umbo bas et obtus. La cuticule est visqueuse et luisante par temps humide, bleu-vert à turquoise, se décolorant inégalement à partir du centre en ocre-jaune ou brun moutarde. Les jeunes chapeaux portent souvent près de la marge de petits fragments blancs de voile, vite fugaces.",
+      "hymenium": "Les lames sont assez serrées, adnées ou échancrées au pied, d'abord gris pâle à brun argileux, plus tard brun-pourpre terne ou brun foncé. L'arête des lames a la même couleur que les faces et n'est pas blanche. Des lames plus courtes (lamellules) sont présentes.",
+      "stipe": "Le pied mesure 2–12 cm de haut et 0,5–1,2 cm d'épaisseur, cylindrique, bleu-vert à blanc verdâtre, plus pâle au-dessus d'un anneau faible et fragile ou d'une zone annulaire, souvent réduite à une ligne brune poudrée de spores et pouvant disparaître. Sous la zone annulaire, le pied est finement floconneux-blanc ou squamuleux. La base est souvent feutrée de blanc et peut porter des cordons mycéliens. Il n'y a pas de volve.",
+      "flesh": "La chair est blanchâtre, parfois faiblement bleuâtre sous la cuticule du chapeau et dans le cortex du pied. L'odeur n'est pas caractéristique ; la saveur est douce.",
+      "sporePrint": "La sporée est brun-pourpre foncé. Les spores sont lisses, ellipsoïdes, d'environ 7–10 × 4–6 µm.",
+      "habitat": "Saprotrophe terrestre des sols riches, souvent calcaires : herbe, litière, lisières et allées forestières, parcs, jardins, bords de routes et paillis de copeaux. Les sporophores apparaissent d'ordinaire en petits groupes de juillet à décembre, surtout en automne ; en Europe du Sud, ils peuvent se prolonger plus tard.",
+      "uses": "Il est considéré comme non comestible et n'est pas cueilli pour la table. Certains guides le disent comestible mais médiocre, d'autres toxique, ou mettent en garde contre des troubles gastro-intestinaux dans le genre ; le plus sûr est de ne pas le consommer.",
+      "confusion": "Le sosie le plus proche est Stropharia aeruginosa : il est généralement d'un vert-de-gris plus soutenu, conserve plus longtemps des écailles blanches sur le chapeau, possède un anneau membraneux plus ferme et — le caractère le plus sûr — des arêtes de lames blanches qui contrastent avec les faces brunes. Stropharia pseudocyanea est plus petit, vire rapidement à l'ocre et pousse dans l'herbe rase. Le clitocybe odorant (Collybia odora) est aussi bleu-vert, mais a un chapeau sec, non visqueux, des lames pâles légèrement décurrentes, pas d'anneau et une forte odeur d'anis. L'hygrophore perroquet (Gliophorus psittacinus) est un petit hygrophore visqueux des pelouses, aux lames épaisses, cireuses et pâles, sans anneau ni sporée brun-pourpre.",
+      "notes": "Les caractères les plus sûrs sont le chapeau visqueux bleu-vert qui se décolore irrégulièrement en ocre-jaune, les lames brun-pourpre à arête non blanche, et la zone annulaire faible, souvent caduque, sur un pied bleu-vert floconneux-blanc. Il pousse dans l'herbe, les jardins et le paillis de copeaux aussi bien que dans la litière forestière.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "strophaire bleutée"
+    },
+    "he": {
+      "description": "פטריית דפים ספרוטרופית של קרקעות עשירות, הגדלה בקבוצות בדשא, בפארקים, בגנים, בשולי יער, בשולי דרכים ובחיפוי שבבי עץ באירופה ובצפון אמריקה. הכובע רירי בלחות, כחול-ירוק עד טורקיז, ודהה באופן לא סדיר מן המרכז לצהוב-אוכרה או לחום בהיר; בצעירותו נושא לעיתים קרובות ליד השוליים קשקשים לבנים קטנים של הלוט. הדפים תחילה אפורים חיוורים או בצבע חרסית, אחר כך חום-סגלגל, ושפתם באותו צבע כמו הפנים, אינה לבנה. הרגל כחולה-ירוקה, מתחת לטבעת חלשה ושבירה שלעיתים קרובות נותרת רק כאזור עמום המאובק בנבגים, מכוסה פלומה לבנה עדינה. אין נרתיק. גופי הפרי מופיעים מיולי עד דצמבר, בשפע רב ביותר בסתיו.",
+      "cap": "הכובע בקוטר 2–9 ס״מ. תחילה דמוי פעמון או קמור, אחר כך שטוח לרוחב, לעיתים קרובות עם פיטם נמוך וקהה. המשטח רירי ומבריק בלחות, כחול-ירוק עד טורקיז, ודהה באופן לא אחיד מן המרכז לצהוב-אוכרה או לחום חרדלי. כובעים צעירים נושאים לעיתים קרובות ליד השוליים שברי לוט לבנים קטנים, חולפים במהרה.",
+      "hymenium": "הדפים צפופים במידה בינונית, גדלים אל הרגל או מפורצים לידה, תחילה אפור חיוור עד חום-חרסית, אחר כך חום-סגלגל עמום או חום כהה. שפת הדפים באותו צבע כמו הפנים ואינה לבנה. ביניהם יש דפים קצרים יותר.",
+      "stipe": "הרגל גבוהה 2–12 ס״מ ועובייה 0.5–1.2 ס״מ, גלילית, כחולה-ירוקה עד לבנה-ירקרקה, חיוורת יותר מעל טבעת חלשה ושבירה או אזור טבעת, שלעיתים קרובות נותר רק כקו חום המאובק בנבגים ועשוי להיעלם. מתחת לאזור הטבעת הרגל מכוסה פלומה לבנה עדינה או קשקשית. הבסיס לעיתים קרובות לבנבן-לבד ועשוי לשאת מיתרי תפטיר. אין נרתיק.",
+      "flesh": "הבשר לבנבן, לעיתים כחלחל במעומעם מתחת לעור הכובע ובקליפת הרגל. הריח אינו אופייני; הטעם עדין.",
+      "sporePrint": "אבקת הנבגים חומה-סגלגלה כהה. הנבגים חלקים, אליפסואידיים, בערך 7–10 × 4–6 מיקרומטר.",
+      "habitat": "ספרוטרוף קרקע בקרקעות עשירות, לעיתים קרובות גיריות: דשא, שכבת עלים, שולי יער ושבילים, פארקים, גנים, שולי דרכים וחיפוי שבבים. גופי הפרי מופיעים בדרך כלל בקבוצות קטנות מיולי עד דצמבר, בשפע רב ביותר בסתיו; בדרום אירופה הם עשויים להימשך מאוחר יותר.",
+      "uses": "נחשבת בלתי אכילה ואינה נאספת לשולחן. מדריכים אחדים מכנים אותה אכילה אך דלת ערך, אחרים רעילה, או מזהירים מפני הפרעות במערכת העיכול בסוג; הבטוח ביותר הוא שלא לאכול אותה.",
+      "confusion": "הדמיון הקרוב ביותר הוא Stropharia aeruginosa: בדרך כלל ירוק-חלודה עמוק יותר, שומר זמן רב יותר קשקשים לבנים על הכובע, יש לו טבעת קרומית איתנה יותר, והסימן הבטוח ביותר — שפות דפים לבנות המנוגדות לפנים החומים. Stropharia pseudocyanea קטנה יותר, הופכת במהרה לאוכרה וגדלה בדשא קצר. Collybia odora גם היא כחולה-ירוקה, אך יש לה כובע יבש ולא רירי, דפים חיוורים יורדים במעט, בלי טבעת וריח אניס חזק. Gliophorus psittacinus היא פטריית שעווה רירית קטנה יותר של עשב, עם דפים עבים, שעוותיים וחיוורים, בלי טבעת ובלי אבקת נבגים חומה-סגלגלה.",
+      "notes": "הסימנים הבטוחים ביותר הם הכובע הרירי הכחול-ירוק שדהה באופן לא סדיר לצהוב-אוכרה, הדפים החום-סגלגלים ששפתם אינה לבנה, ואזור הטבעת החלש, שלעיתים קרובות נעלם, על רגל כחולה-ירוקה מכוסה פלומה לבנה. היא גדלה בדשא, בגנים ובחיפוי שבבים וגם בשכבת עלים של היער.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "समृद्ध मिट्टी का सैप्रोट्रॉफ गिल कवक, जो यूरोप और उत्तरी अमेरिका में घास, उद्यानों, बगीचों, वन किनारों, सड़क किनारों और लकड़ी के चिप्स की मल्च में समूहों में उगता है। टोपी नमी में चिपचिपी होती है, नीली-हरी से फ़िरोज़ी, और केंद्र से अनियमित रूप से गेरुआ-पीली या हल्के भूरे रंग में फीकी पड़ती है; युवा अवस्था में किनारे के पास अक्सर आवरण की छोटी सफ़ेद परतें होती हैं। गिल पहले पीली-धूसरी या चिकनी मिट्टी के रंग की, बाद में बैंगनी-भूरी होती हैं, और उनका किनारा फलकों के समान रंग का होता है, सफ़ेद नहीं। डंठल नीला-हरा होता है, एक कमज़ोर, नाज़ुक वलय के नीचे महीन सफ़ेद रोएँदार, जो अक्सर केवल एक धुँधले, बीजाणु-धूल वाले क्षेत्र के रूप में रहता है। आवरण-कोष नहीं होता। फलन-पिंड जुलाई से दिसंबर तक दिखाई देते हैं, सबसे अधिक शरद ऋतु में।",
+      "cap": "टोपी 2–9 सेमी व्यास की होती है। पहले घंटाकार या उत्तल, फिर चौड़ी चपटी, अक्सर एक नीची, कुंद उभार के साथ। सतह नमी में चिपचिपी और चमकदार होती है, नीली-हरी से फ़िरोज़ी, और केंद्र से असमान रूप से गेरुआ-पीली या सरसों-भूरी हो जाती है। युवा टोपियों के किनारे के पास अक्सर आवरण के छोटे, जल्दी मिटने वाले सफ़ेद टुकड़े होते हैं।",
+      "hymenium": "गिल मध्यम रूप से सघन, डंठल से जुड़ी या उस पर खाँची हुई, पहले पीली-धूसरी से चिकनी-मिट्टी भूरी, बाद में फीकी बैंगनी-भूरी या गहरी भूरी। गिल का किनारा फलकों के समान रंग का होता है और सफ़ेद नहीं होता। उनके बीच छोटी गिलें भी होती हैं।",
+      "stipe": "डंठल 2–12 सेमी ऊँचा और 0.5–1.2 सेमी मोटा होता है, बेलनाकार, नीला-हरा से हरा-सफ़ेद, एक कमज़ोर, नाज़ुक वलय या वलय-क्षेत्र के ऊपर अधिक फीका; यह क्षेत्र अक्सर केवल एक भूरी, बीजाणु-धूल वाली रेखा के रूप में रहता है और मिट सकता है। वलय-क्षेत्र के नीचे डंठल महीन सफ़ेद रोएँदार या परतदार होता है। आधार अक्सर सफ़ेद-मखमली होता है और कवकसूत्र की रस्सियाँ हो सकती हैं। आवरण-कोष नहीं होता।",
+      "flesh": "मांस सफ़ेद-सा होता है, कभी-कभी टोपी की त्वचा के नीचे और डंठल की छाल में हल्का नीला। गंध विशेष नहीं; स्वाद मृदु होता है।",
+      "sporePrint": "बीजाणु-छाप गहरी बैंगनी-भूरी होती है। बीजाणु चिकने, दीर्घवृत्ताकार, लगभग 7–10 × 4–6 माइक्रोमीटर।",
+      "habitat": "समृद्ध, अक्सर चूनायुक्त मिट्टी का स्थलीय सैप्रोट्रॉफ: घास, पत्ती-आस्तर, वन किनारे और पथ, उद्यान, बगीचे, सड़क किनारे और चिप्स की मल्च। फलन-पिंड आमतौर पर छोटे समूहों में जुलाई से दिसंबर तक दिखाई देते हैं, सबसे अधिक शरद ऋतु में; दक्षिणी यूरोप में वे बाद तक भी रह सकते हैं।",
+      "uses": "इसे अखाद्य माना जाता है और मेज के लिए नहीं तोड़ा जाता। कुछ मार्गदर्शिकाएँ इसे खाद्य लेकिन कम मूल्य का, कुछ विषैला कहती हैं, या वंश में पाचन संबंधी विकारों की चेतावनी देती हैं; सबसे सुरक्षित है इसे न खाना।",
+      "confusion": "सबसे निकट भ्रम Stropharia aeruginosa है: आमतौर पर अधिक गहरा ताम्र-हरा, टोपी पर सफ़ेद परतें अधिक समय तक रखता है, अधिक मजबूत झिल्लीदार वलय होता है, और — सबसे विश्वसनीय लक्षण — सफ़ेद गिल किनारे जो भूरी फलकों से विपरीत होते हैं। Stropharia pseudocyanea छोटा है, जल्दी गेरुआ हो जाता है और छोटी घास में उगता है। Collybia odora भी नीला-हरा है, लेकिन इसकी टोपी सूखी, अचिपचिपी है, गिलें फीकी और थोड़ी नीचे उतरती हैं, वलय नहीं होता और सौंफ़ जैसी तीव्र गंध होती है। Gliophorus psittacinus घास के मैदान का छोटा चिपचिपा मोमी कवक है, मोटी, मोमी, फीकी गिलों के साथ, बिना वलय और बिना बैंगनी-भूरी बीजाणु-छाप के।",
+      "notes": "सबसे विश्वसनीय लक्षण चिपचिपी नीली-हरी टोपी है जो अनियमित रूप से गेरुआ-पीली हो जाती है, बैंगनी-भूरी गिलें जिनका किनारा सफ़ेद नहीं होता, और महीन सफ़ेद रोएँदार नीले-हरे डंठल पर कमज़ोर, अक्सर मिटने वाला वलय-क्षेत्र। यह घास, बगीचों और चिप्स की मल्च में तथा वन आस्तर में उगता है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Saprotofna listićava gljiva bogatih tala, raste u skupinama na travnjacima, u parkovima, vrtovima, na rubovima šuma, uz ceste i na malču od drvne sječke u Europi i Sjevernoj Americi. Klobuk je vlažan sluzav, plavozelen do tirkizan, od središta nepravilno blijedi u okeržuto ili smeđežuto; u mladosti uz rub često s sitnim bijelim ostacima vela. Listići su isprva blijedosivi ili glineni, poslije ljubičastosmeđi, a njihov brid ima istu boju kao plohe, nije bijel. Stručak je plavozelen, ispod slabog, lomljivog prstena, koji često ostaje samo kao nejasna, sporama popeprena zona, fino bjelkasto-pahuljast. Volva nema. Plodišta rastu od srpnja do prosinca, najobilnije u jesen.",
+      "cap": "Klobuk ima 2–9 cm u promjeru. Isprva je zvonolik ili ispupčen, poslije široko spljošten, često s niskim tupim grbom. Površina je vlažna sluzava i sjajna, plavozelena do tirkizna, od središta neravnomjerno blijedi u okeržuto ili gorušičastosmeđe. Mladi klobuci uz rub često imaju sitne, brzo nestajuće bijele ostatke vela.",
+      "hymenium": "Listići su umjereno gusti, pri stručku prirasli ili izrezani, isprva blijedosivi do glinenosmeđi, poslije mat ljubičastosmeđi ili tamnosmeđi. Brid listića ima istu boju kao plohe i nije bijel. Između njih postoje kraći listići (lamelule).",
+      "stipe": "Stručak je visok 2–12 cm i debljine 0,5–1,2 cm, valjkast, plavozelen do zelenkastobijel, iznad slabog, lomljivog prstena ili prstenaste zone, koja često ostaje samo kao smeđa, sporama popeprena crta i može nestati, svjetliji. Ispod prstenaste zone je fino bjelkasto-pahuljast ili ljuskav. Baza je često bjelkasto-filcasta i može imati micelijske vrpce. Volva nema.",
+      "flesh": "Meso je bjelkasto, pod kožicom klobuka i u kori stručka ponekad slabo plavkasto. Miris nije karakterističan; okus je blag.",
+      "sporePrint": "Otisak spora je tamnoljubičastosmeđ. Spore su glatke, elipsoidne, oko 7–10 × 4–6 µm.",
+      "habitat": "Tlosaprotrof na hranjivim, često vapnenastim tlima: u travi, u stelji, na šumskim rubovima i stazama, u parkovima, vrtovima, uz ceste i na malču od sječke. Plodišta obično rastu u malim skupinama od srpnja do prosinca, najobilnije u jesen; u južnoj Europi mogu trajati duže.",
+      "uses": "Nije jestiva i ne bere se za stol. Neki vodiči je smatraju jestivom, ali niske vrijednosti, drugi otrovnom ili upozoravaju na želučane tegobe u rodu; najsigurnije ju je smatrati nejestivom.",
+      "confusion": "Najbliža zamjena je Stropharia aeruginosa: obično je dublje zelenkasta poput bakrene patine, duže zadržava bijele ljuske na klobuku, ima čvršći opnast prsten i — najpouzdaniji znak — bijeli brid listića koji kontrastira sa smeđim plohama. Stropharia pseudocyanea je manja, brzo pocrveni u oker i raste u niskoj travi. Collybia odora također je plavozelena, ali ima suh, ne sluzav klobuk, blijede blago silazne listiće, bez prstena i jak miris aniša. Papigasta vlažnica (Gliophorus psittacinus) manja je, sluzava travnjačka voštanica s debelim, voštanim, blijedim listićima, bez prstena i bez ljubičastosmeđeg otiska spora.",
+      "notes": "Najpouzdanija obilježja su sluzav plavozelen klobuk koji nepravilno blijedi u okeržuto, ljubičastosmeđi listići s bridom koji nije bijel te slaba, često nestajuća prstenasta zona na bjelkasto-pahuljastom plavozelenom stručku. Raste u travi, u vrtovima i na sječki te u šumskoj stelji.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Tápanyagban gazdag talajok szaprotróf lemezes gombája, csoportosan nő gyepeken, parkokban, kertekben, erdőszéleken, utak mentén és faháncs mulcson Európában és Észak-Amerikában. A kalap nedvesen nyálkás, kékeszöldtől türkizig, a közepétől szabálytalanul okkersárgára vagy sárgásbarnára fakul; fiatalon a szélén gyakran apró fehér burokmaradványok vannak. A lemezek eleinte sápadtszürkék vagy agyagszínűek, később bíborbarnák, és élük ugyanolyan színű, mint a lapjuk, nem fehér. A tönk kékeszöld, egy gyenge, törékeny gyűrű alatt, amely gyakran csak halvány, spóraporos zónaként marad, finoman fehéren pelyhes. Bocskor nincs. A termőtestek júliustól decemberig jelennek meg, legbővebben ősszel.",
+      "cap": "A kalap 2–9 cm átmérőjű. Eleinte harangszerű vagy domború, később szélesen ellaposodik, gyakran alacsony, tompa púppal. A felszín nedvesen nyálkás és fényes, kékeszöldtől türkizig, a közepétől egyenetlenül okkersárgára vagy mustárbarnára fakul. A fiatal kalapok szélén gyakran apró, gyorsan eltűnő fehér buroktöredékek vannak.",
+      "hymenium": "A lemezek közepesen sűrűk, a tönknél hozzánőttek vagy kikanyarodók, eleinte sápadtszürkék vagy agyagbarnák, később tompa bíborbarnák vagy sötétbarnák. A lemezek éle ugyanolyan színű, mint a lapjuk, és nem fehér. Közöttük rövidebb lemezek (lamellulák) is vannak.",
+      "stipe": "A tönk 2–12 cm magas és 0,5–1,2 cm vastag, hengeres, kékeszöldtől zöldesfehérig, a gyenge, törékeny gyűrű vagy gyűrűzóna fölött halványabb; a zóna gyakran csak barna, spóraporos vonalként marad, és eltűnhet. A gyűrűzóna alatt a tönk finoman fehéren pelyhes vagy pikkelyes. A töve gyakran fehéren nemezes, és micéliumzsinórokat viselhet. Bocskor nincs.",
+      "flesh": "A hús fehéres, a kalapbőr alatt és a tönk kérgében néha halványan kékes. Az illata nem jellegzetes; az íze enyhe.",
+      "sporePrint": "A spórapor sötét bíborbarna. A spórák simák, ellipszoidok, körülbelül 7–10 × 4–6 µm.",
+      "habitat": "Talajlakó szaprotróf tápanyagban gazdag, gyakran meszes talajon: fűben, avarban, erdőszéleken és nyiladékokon, parkokban, kertekben, útmentéken és faháncs mulcson. A termőtestek általában kis csoportokban jelennek meg júliustól decemberig, legbővebben ősszel; Dél-Európában tovább is tarthatnak.",
+      "uses": "Ehetetlennek tekintik, és nem gyűjtik az asztalra. Egyes útmutatók ehetőnek, de csekély értékűnek, mások mérgezőnek nevezik, vagy a nemzetségben előforduló gyomor-bél panaszokra figyelmeztetnek; a legbiztonságosabb nem enni.",
+      "confusion": "A legközelebbi tévesztés a Stropharia aeruginosa: általában mélyebb rézrozsdazöld, tovább megtartja a fehér pikkelyeket a kalapon, erősebb hártyás gyűrűje van, és — a legbiztosabb bélyeg — fehér lemezélei, amelyek elütnek a barna lapoktól. A Stropharia pseudocyanea kisebb, gyorsan okkeresedik, és rövid fűben nő. A zöld ánizsgomba (Collybia odora) szintén kékeszöld, de száraz, nem nyálkás kalapja, halvány, enyhén lefutó lemezei vannak, gyűrű nélkül, és erős ánizsillata. A papagáj-nedűgomba (Gliophorus psittacinus) kisebb, nyálkás gyepi nedűgomba vastag, viaszos, halvány lemezekkel, gyűrű és bíborbarna spórapor nélkül.",
+      "notes": "A legbiztosabb bélyegek a nyálkás kékeszöld kalap, amely szabálytalanul okkersárgára fakul, a bíborbarna lemezek nem fehér éllel, és a gyenge, gyakran eltűnő gyűrűzóna a fehéren pelyhes kékeszöld tönkön. Fűben, kertekben és faháncson nő, valamint erdei avarban.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Z%C3%B6ldesk%C3%A9k_harmatgomba",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.gbif.org/species/2533355",
+        "https://www.wikidata.org/wiki/Q639931"
+      ],
+      "label": "zöldeskék harmatgomba"
+    },
+    "id": {
+      "description": "Jamur insang saprotrof tanah kaya, tumbuh berkelompok di rumput, taman, kebun, tepi hutan, tepi jalan, dan mulsa serpihan kayu di Eropa dan Amerika Utara. Tudung berlendir saat basah, biru-hijau hingga pirus, memudar secara tidak merata dari pusat menjadi oker-kuning atau cokelat muda; ketika muda sering membawa sisik putih kecil dari selubung dekat tepi. Insang mula-mula abu-abu pucat atau warna tanah liat, kemudian cokelat keunguan, dan tepinya sama warnanya dengan permukaan, tidak putih. Tangkai biru-hijau, berbulu putih halus di bawah cincin lemah dan rapuh yang sering hanya tersisa sebagai zona samar berdebu spora. Tidak ada volva. Tubuh buah muncul dari Juli hingga Desember, paling banyak pada musim gugur.",
+      "cap": "Tudung berdiameter 2–9 cm. Mula-mula berbentuk lonceng atau cembung, kemudian melebar mendatar, sering dengan umbo rendah dan tumpul. Permukaan berlendir dan mengilap saat basah, biru-hijau hingga pirus, memudar secara tidak merata dari pusat menjadi oker-kuning atau cokelat mustar. Tudung muda sering membawa dekat tepi pecahan selubung putih kecil yang cepat lenyap.",
+      "hymenium": "Insang sedang rapatnya, menempel pada tangkai atau berlekuk di situ, mula-mula abu-abu pucat hingga cokelat tanah liat, kemudian cokelat keunguan kusam atau cokelat tua. Tepi insang sama warnanya dengan permukaan dan tidak putih. Ada insang yang lebih pendek di antaranya.",
+      "stipe": "Tangkai tinggi 2–12 cm dan tebal 0,5–1,2 cm, silindris, biru-hijau hingga putih kehijauan, lebih pucat di atas cincin lemah dan rapuh atau zona cincin, yang sering hanya tersisa sebagai garis cokelat berdebu spora dan dapat menghilang. Di bawah zona cincin tangkai berbulu putih halus atau bersisik. Pangkal sering keputihan-berbulu felt dan dapat membawa tali miselium. Tidak ada volva.",
+      "flesh": "Daging keputihan, kadang agak kebiruan di bawah kutikula tudung dan di korteks tangkai. Bau tidak khas; rasa lembut.",
+      "sporePrint": "Jejak spora cokelat keunguan gelap. Spora halus, elipsoid, sekitar 7–10 × 4–6 µm.",
+      "habitat": "Saprotrof tanah pada tanah kaya, sering berkapur: rumput, serasah, tepi dan jalur hutan, taman, kebun, tepi jalan, dan mulsa serpihan. Tubuh buah biasanya muncul dalam kelompok kecil dari Juli hingga Desember, paling banyak pada musim gugur; di Eropa Selatan dapat berlanjut lebih lama.",
+      "uses": "Dianggap tidak dapat dimakan dan tidak dipetik untuk meja. Beberapa panduan menyebutnya dapat dimakan tetapi bernilai rendah, yang lain beracun, atau memperingatkan gangguan gastrointestinal dalam genus ini; yang paling aman adalah tidak memakannya.",
+      "confusion": "Kemiripan terdekat adalah Stropharia aeruginosa: biasanya hijau tembaga yang lebih dalam, lebih lama mempertahankan sisik putih pada tudung, memiliki cincin bermembran yang lebih kokoh, dan — ciri paling andal — tepi insang putih yang kontras dengan permukaan cokelat. Stropharia pseudocyanea lebih kecil, cepat menjadi oker, dan tumbuh di rumput pendek. Collybia odora juga biru-hijau, tetapi tudungnya kering, tidak berlendir, insang pucat sedikit menurun, tanpa cincin, dan berbau adas manis yang kuat. Gliophorus psittacinus adalah jamur lilin berlendir yang lebih kecil di padang rumput, dengan insang tebal, berlilin, dan pucat, tanpa cincin dan tanpa jejak spora cokelat keunguan.",
+      "notes": "Ciri paling andal adalah tudung berlendir biru-hijau yang memudar secara tidak merata menjadi oker-kuning, insang cokelat keunguan dengan tepi yang tidak putih, dan zona cincin lemah yang sering hilang pada tangkai biru-hijau berbulu putih halus. Tumbuh di rumput, kebun, dan mulsa serpihan, serta di serasah hutan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Agarico saprotrofo di suoli ricchi, che cresce in gruppi in prati, parchi, giardini, ai margini dei boschi, lungo i sentieri e su pacciamatura di cippato in Europa e in Nordamerica. Il cappello è vischioso a umido, blu-verde fino a turchese, e sbiadisce irregolarmente dal centro verso l'ocra-giallo o il fulvo; da giovane porta spesso vicino al margine piccole squame bianche del velo. Le lamelle sono dapprima grigio pallido o color argilla, poi bruno-porpora, e il filo ha lo stesso colore delle facce, non è bianco. Il gambo è blu-verde, finemente fioccoso-bianco sotto un anello debole e fragile, spesso ridotto a una zona tenue spolverata di spore. Non c'è volva. I corpi fruttiferi compaiono da luglio a dicembre, più abbondanti in autunno.",
+      "cap": "Il cappello misura 2–9 cm di diametro. È dapprima campanulato o convesso, poi ampiamente appiattito, spesso con un umbone basso e ottuso. La superficie è vischiosa e lucida a umido, blu-verde fino a turchese, e sbiadisce in modo ineguale dal centro verso l'ocra-giallo o il bruno senape. I cappelli giovani portano spesso vicino al margine piccoli frammenti bianchi del velo, presto evanescenti.",
+      "hymenium": "Le lamelle sono moderatamente fitte, adnate o sinuate al gambo, dapprima grigio pallido fino a bruno argilloso, poi bruno-porpora opaco o bruno scuro. Il filo ha lo stesso colore delle facce e non è bianco. Sono presenti lamelle più corte (lamellule).",
+      "stipe": "Il gambo è alto 2–12 cm e spesso 0,5–1,2 cm, cilindrico, blu-verde fino a biancastro verdognolo, più pallido sopra un anello debole e fragile o una zona anulare, spesso ridotta a una linea bruna spolverata di spore e che può scomparire. Sotto la zona anulare il gambo è finemente fioccoso-bianco o squamuloso. La base è spesso biancastra-feltrosa e può portare cordoni miceliari. Non c'è volva.",
+      "flesh": "La carne è biancastra, talvolta debolmente bluastra sotto la cuticola del cappello e nella corteccia del gambo. L'odore non è distintivo; il sapore è mite.",
+      "sporePrint": "La sporata è bruno-porpora scura. Le spore sono lisce, ellissoidi, di circa 7–10 × 4–6 µm.",
+      "habitat": "Saprotrofo terrestre di suoli ricchi, spesso calcarei: erba, lettiera, margini e sentieri boschivi, parchi, giardini, bordi di strade e pacciamatura di cippato. I corpi fruttiferi compaiono di solito in piccoli gruppi da luglio a dicembre, più abbondanti in autunno; nell'Europa meridionale possono protrarsi più a lungo.",
+      "uses": "È considerato non commestibile e non si raccoglie per la tavola. Alcune guide lo dicono commestibile ma mediocre, altre tossico, o avvertono di disturbi gastrointestinali nel genere; il più sicuro è non mangiarlo.",
+      "confusion": "Il sosia più vicino è Stropharia aeruginosa: è di solito di un verde verderame più intenso, conserva più a lungo squame bianche sul cappello, ha un anello membranoso più saldo e — il carattere più sicuro — fili delle lamelle bianchi che contrastano con le facce brune. Stropharia pseudocyanea è più piccola, vira presto all'ocra e cresce nell'erba bassa. Collybia odora è anch'essa blu-verde, ma ha il cappello asciutto, non vischioso, lamelle pallide lievemente decorrenti, senza anello e un forte odore di anice. L'igrocybe pappagallo (Gliophorus psittacinus) è un igroforo vischioso più piccolo dei prati, con lamelle spesse, ceree e pallide, senza anello né sporata bruno-porpora.",
+      "notes": "I caratteri più sicuri sono il cappello vischioso blu-verde che sbiadisce irregolarmente verso l'ocra-giallo, le lamelle bruno-porpora con filo che non è bianco, e la zona anulare debole, spesso evanescente, su un gambo blu-verde fioccoso-bianco. Cresce nell'erba, nei giardini e sul cippato, oltre che nella lettiera forestale.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "肥沃な土壌の腐生性ひだ菌で、ヨーロッパと北アメリカの草地、公園、庭、林縁、路傍、ウッドチップのマルチに群生する。かさは湿時に粘性で青緑色からターコイズ、中央から不規則に黄土色や淡黄褐色に退色し、若いときは縁近くに白い被膜片を残すことが多い。ひだははじめ淡灰色または粘土色、のちに紫褐色となり、縁は面と同じ色で白くない。柄は青緑色で、弱くもろいつばの下に細かい白い綿毛があり、つばはしばしば胞子で粉を吹いたかすかな帯として残るだけである。つぼはない。子実体は7月から12月、とくに秋に多く現れる。",
+      "cap": "かさは径2–9 cm。はじめ鐘形または半球形、のちに広く平らになり、しばしば低く鈍い中丘がある。表面は湿時に粘性で光沢があり、青緑色からターコイズ、中央から不均一に黄土色やマスタード褐色に退色する。若いのかさは縁近くに、すぐに消える小さな白い被膜片を残すことが多い。",
+      "hymenium": "ひだは中程度に密、柄に着生または湾生、はじめ淡灰色から粘土褐色、のちに鈍い紫褐色または暗褐色。ひだの縁は面と同じ色で白くない。短いひだ（ひだ間片）もある。",
+      "stipe": "柄は高さ2–12 cm、太さ0.5–1.2 cm、円柱状、青緑色から緑がかった白色、弱くもろいつばまたはつば帯の上がより淡く、その帯はしばしば胞子で粉を吹いた褐色の線として残るだけで消失することもある。つば帯の下の柄は細かい白い綿毛または小鱗片がある。基部はしばしば白いフェルト状で、菌糸索を伴うことがある。つぼはない。",
+      "flesh": "肉は白色、かさの表皮の下と柄の皮層ではときに淡く青みを帯びる。においには特徴がなく、味は温和。",
+      "sporePrint": "胞子紋は暗い紫褐色。胞子は平滑で楕円形、およそ7–10 × 4–6 µm。",
+      "habitat": "肥沃でしばしば石灰質の土壌の地上腐生菌。草地、落葉層、林縁や小径、公園、庭、路傍、チップのマルチに生じる。子実体はふつう小さな群れで7月から12月、とくに秋に現れ、南ヨーロッパではより遅くまで続くことがある。",
+      "uses": "食用には適さないとされ、食卓用には採らない。ガイドによっては食用だが価値が低い、あるいは有毒とし、属内の消化器障害を警告するものもある。食べないのが最も安全である。",
+      "confusion": "最も紛らわしいのはStropharia aeruginosaで、通常より深い緑青色、かさの白い鱗片がより長く残り、よりしっかりした膜質のつばがあり、最も確実な特徴は褐色の面と対比する白いひだ縁である。Stropharia pseudocyaneaはより小さく、早く黄土色になり、短い草地に生じる。アオイヌシメジ（Collybia odora）も青緑色だが、かさは乾いて粘性がなく、ひだは淡色でわずかに垂生、つばがなく、強いアニズ臭がある。ワカクサタケ（Gliophorus psittacinus）は草地のより小さな粘性のワックスキャップで、厚く蝋質の淡いひだがあり、つばも紫褐色の胞子紋もない。",
+      "notes": "最も確実な特徴は、不規則に黄土色へ退色する粘性の青緑のかさ、縁が白くない紫褐色のひだ、細かい白い綿毛のある青緑の柄の上の弱くしばしば消失するつば帯である。草地、庭、チップのマルチのほか、林内の落葉層にも生じる。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "비옥한 토양의 부생 주름버섯으로, 유럽과 북아메리카의 풀밭, 공원, 정원, 숲가장자리, 길가, 나무 칩 멀치에 무리를 지어 난다. 갓은 젖으면 점액질이고 청록색에서 터키석색이며, 가운데부터 불규칙하게 황토색이나 담갈색으로 바래고, 어릴 때는 가장자리 근처에 작은 흰색 피막 조각이 있는 경우가 많다. 주름은 처음에는 연회색 또는 점토색이다가 나중에는 자갈색이 되며, 가장자리는 면과 같은 색으로 하얗지 않다. 대는 청록색이며, 약하고 부서지기 쉬운 테 아래에 가는 흰 솜털이 있고, 테는 흔히 포자로 가루가 묻은 희미한 대로만 남는다. 대주머니는 없다. 자실체는 7월부터 12월까지, 특히 가을에 가장 많이 나타난다.",
+      "cap": "갓은 지름 2–9 cm이다. 처음에는 종형 또는 볼록하다가 넓게 편평해지며, 흔히 낮고 둔한 중앙 융기가 있다. 표면은 젖으면 점액질이고 광택이 있으며, 청록색에서 터키석색이고, 가운데부터 고르지 않게 황토색이나 겨자갈색으로 바랜다. 어린 갓은 가장자리 근처에 곧 사라지는 작은 흰색 피막 조각을 남기는 경우가 많다.",
+      "hymenium": "주름은 중간 정도로 빽빽하고, 대에 붙은형 또는 만입형이며, 처음에는 연회색에서 점토갈색, 나중에는 둔한 자갈색 또는 암갈색이다. 주름 가장자리는 면과 같은 색이며 하얗지 않다. 그 사이에 더 짧은 주름이 있다.",
+      "stipe": "대는 높이 2–12 cm, 두께 0.5–1.2 cm이고, 원기둥형이며, 청록색에서 녹색을 띤 흰색이고, 약하고 부서지기 쉬운 테 또는 테 띠 위쪽이 더 옅다. 그 띠는 흔히 포자로 가루가 묻은 갈색 선으로만 남고 사라질 수 있다. 테 띠 아래의 대는 가는 흰 솜털 또는 작은 비늘이 있다. 기부는 흔히 흰 펠트상이며 균사 끈을 달 수 있다. 대주머니는 없다.",
+      "flesh": "살은 흰빛을 띠며, 갓 표피 아래와 대 껍질에서는 때로 옅게 푸르스름하다. 냄새는 특징적이지 않고, 맛은 온화하다.",
+      "sporePrint": "포자무늬는 어두운 자갈색이다. 포자는 매끈하고 타원형이며, 대략 7–10 × 4–6 µm이다.",
+      "habitat": "비옥하고 흔히 석회질인 토양의 지상부생균으로, 풀, 낙엽층, 숲가장자리와 오솔길, 공원, 정원, 길가, 칩 멀치에 난다. 자실체는 보통 작은 무리로 7월부터 12월까지, 특히 가을에 나타나며, 남유럽에서는 더 늦게까지 이어질 수 있다.",
+      "uses": "식용에 적합하지 않은 것으로 여기며 식탁용으로 따지 않는다. 일부 안내서는 식용이지만 가치가 낮다고 하고, 다른 안내서는 독성이 있다고 하거나 속 안의 소화기 장애를 경고한다. 먹지 않는 것이 가장 안전하다.",
+      "confusion": "가장 가까운 혼동은 Stropharia aeruginosa로, 보통 더 짙은 녹청색이며, 갓의 흰 비늘을 더 오래 유지하고, 더 단단한 막질의 테가 있으며, 가장 확실한 특징은 갈색 면과 대비되는 흰 주름 가장자리이다. Stropharia pseudocyanea는 더 작고 빨리 황토색이 되며 짧은 풀에서 난다. Collybia odora 또한 청록색이지만, 갓이 마르고 점액질이 아니며, 주름은 옅고 약간 밑으로 내리고, 테가 없으며 강한 아니스 향이 있다. 앵무새버섯(Gliophorus psittacinus)은 풀밭의 더 작은 점액질 밀랍버섯으로, 두껍고 밀랍질인 옅은 주름이 있으며, 테와 자갈색 포자무늬가 없다.",
+      "notes": "가장 확실한 특징은 불규칙하게 황토색으로 바랜 점액질의 청록색 갓, 가장자리가 하얗지 않은 자갈색 주름, 가는 흰 솜털이 있는 청록색 대 위의 약하고 흔히 사라지는 테 띠이다. 풀, 정원, 칩 멀치와 숲의 낙엽층에서도 난다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Saprotrafinis lapinis grybas derlingose dirvose, augantis grupėmis pievose, parkuose, soduose, miško pakraščiuose, pakelėse ir medienos skiedrų mulče Europoje ir Šiaurės Amerikoje. Kepurėlė drėgna būna gleivėta, melsvai žalia iki turkio, nuo centro nelygiai blunka į ochriškai geltoną ar gelsvai rudą; jauna prie krašto dažnai turi smulkių baltų apvalkalo likučių. Lakšteliai iš pradžių būna blyškiai pilki ar molio spalvos, vėliau violetiniai rudi, o jų ašmenys tokios pat spalvos kaip plokštumos, ne balti. Kotelis melsvai žalias, po silpnu, trapiu žiedu, kuris dažnai lieka tik neryškia, sporomis apdulkėjusia zona, smulkiai baltai pūkuotas. Makšties nėra. Vaisiakūniai pasirodo nuo liepos iki gruodžio, gausiausiai rudenį.",
+      "cap": "Kepurėlė 2–9 cm skersmens. Iš pradžių būna varpelio pavidalo ar iškili, vėliau plačiai suplokštėjusi, dažnai su žemu, bukiu gumburėliu. Paviršius drėgnas gleivėtas ir blizgus, melsvai žalias iki turkio, nuo centro nelygiai blunka į ochriškai geltoną ar garstyčių rudą. Jaunos kepurėlės prie krašto dažnai turi smulkių, greitai nykstančių baltų apvalkalo fragmentų.",
+      "hymenium": "Lakšteliai vidutiniškai tankūs, prie koto priaugtiniai ar įpjauti, iš pradžių blyškiai pilki iki molio rudumo, vėliau blankiai violetiniai rudi ar tamsiai rudi. Ašmenys tokios pat spalvos kaip plokštumos ir nėra balti. Tarp jų yra trumpesnių lakštelių.",
+      "stipe": "Kotelis 2–12 cm aukščio ir 0,5–1,2 cm storio, cilindriškas, melsvai žalias iki žalsvai balto, šviesesnis virš silpno, trapaus žiedo ar žiedo zonos, kuri dažnai lieka tik ruda, sporomis apdulkėjusia linija ir gali išnykti. Po žiedo zona kotelis smulkiai baltai pūkuotas ar žvynuotas. Pagrindas dažnai balsvai veltiniškas ir gali turėti grybienos virvelių. Makšties nėra.",
+      "flesh": "Mėsa balsva, po kepurėlės odele ir koto žievėje kartais silpnai melsva. Kvapas nėra būdingas; skonis švelnus.",
+      "sporePrint": "Sporų milteliai tamsiai violetiniai rudi. Sporos lygios, elipsoidinės, apie 7–10 × 4–6 µm.",
+      "habitat": "Dirvos saprotrofas derlingose, dažnai kalkingose dirvose: žolėje, paklotėje, miško pakraščiuose ir takuose, parkuose, soduose, pakelėse ir skiedrų mulče. Vaisiakūniai paprastai pasirodo mažomis grupėmis nuo liepos iki gruodžio, gausiausiai rudenį; Pietų Europoje jie gali trukti ilgiau.",
+      "uses": "Laikomas nevalgomu ir nerenkamas į stalą. Vieni vadovai vadina jį valgomu, bet menkaverčiu, kiti nuodingu arba įspėja dėl virškinimo sutrikimų gentyje; saugiausia jo nevalgyti.",
+      "confusion": "Artimiausias panašumas yra Stropharia aeruginosa: paprastai būna gilesnės žalsvai varinės spalvos, ilgiau išlaiko baltus žvynelius ant kepurėlės, turi tvirtesnį plėvinį žiedą ir — patikimiausias požymis — baltus lakštelių ašmenis, kontrastuojančius su rudomis plokštumomis. Stropharia pseudocyanea yra mažesnė, greitai apochrėja ir auga trumpoje žolėje. Melsvoji tauriabudė (Collybia odora) taip pat melsvai žalia, bet turi sausą, ne gleivėtą kepurėlę, blyškius silpnai nuaugusius lakštelius, be žiedo ir stiprų anyžių kvapą. Žalsvoji guotikė (Gliophorus psittacinus) yra mažesnis, gleivėtas pievų vaškuotis storais, vaškiniais, blyškiais lakšteliais, be žiedo ir be violetinių rudų sporų miltelių.",
+      "notes": "Patikimiausi požymiai yra gleivėta melsvai žalia kepurėlė, nelygiai blunkanti į ochriškai geltoną, violetiniai rudi lakšteliai su ašmenimis, kurie nėra balti, ir silpna, dažnai nykstanti žiedo zona ant baltai pūkuoto melsvai žalio koto. Auga žolėje, soduose ir skiedrose, taip pat miško paklotėje.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "melsvoji gleiviabudė"
+    },
+    "lv": {
+      "description": "Saprotofiska lapiņu sēne barības vielām bagātās augsnēs, kas aug grupās zālājos, parkos, dārzos, mežmalās, ceļmalās un koka šķeldu mulčā Eiropā un Ziemeļamerikā. Cepurīte mitrumā ir gļotaina, zilganzaļa līdz tirkīza, no centra neregulāri izbalē okrdzeltenā vai dzeltenbrūnā krāsā; jauna pie malas bieži ar sīkiem baltiem plīvura atlikumiem. Lapiņas sākumā ir gaiši pelēkas vai māla krāsā, vēlāk purpurbrūnas, un to asmeņi ir tādā pašā krāsā kā plaknes, nav balti. Kātiņš ir zilganzaļš, zem vāja, trausla gredzena, kas bieži paliek tikai kā neskaidra, sporām apbērta josla, smalki balti pūkains. Maksts nav. Augļķermeņi parādās no jūlija līdz decembrim, visbagātāk rudenī.",
+      "cap": "Cepurīte ir 2–9 cm plata. Sākumā tā ir zvanveida vai izliekta, vēlāk plati saplacināta, bieži ar zemu, strupu pauguru. Virsma mitrumā ir gļotaina un spīdīga, zilganzaļa līdz tirkīza, no centra nevienmērīgi izbalē okrdzeltenā vai sinepju brūnā krāsā. Jaunām cepurītēm pie malas bieži ir sīki, ātri izzūdoši balti plīvura fragmenti.",
+      "hymenium": "Lapiņas ir mēreni blīvas, pie kātiņa pieaugušas vai izgrieztas, sākumā gaiši pelēkas līdz māla brūnām, vēlāk matēti purpurbrūnas vai tumši brūnas. Asmeņi ir tādā pašā krāsā kā plaknes un nav balti. Starp tām ir īsākas lapiņas.",
+      "stipe": "Kātiņš ir 2–12 cm augsts un 0,5–1,2 cm resns, cilindrisks, zilganzaļš līdz zaļganbaltam, gaišāks virs vāja, trausla gredzena vai gredzenjoslas, kas bieži paliek tikai kā brūna, sporām apbērta līnija un var izzust. Zem gredzenjoslas tas ir smalki balti pūkains vai zvīņains. Pamats bieži ir bāli filcains un var nēsāt micēlija auklas. Maksts nav.",
+      "flesh": "Mīkstums ir bālgans, zem cepurītes miziņas un kātiņa mizā dažreiz vāji zilgans. Smarža nav raksturīga; garša ir maiga.",
+      "sporePrint": "Sporu putekļi ir tumši purpurbrūni. Sporas ir gludas, elipsoidālas, apmēram 7–10 × 4–6 µm.",
+      "habitat": "Augsnes sapotrofs barības vielām bagātās, bieži kaļķainās augsnēs: zālē, kādībā, mežmalās un takās, parkos, dārzos, ceļmalās un šķeldu mulčā. Augļķermeņi parasti parādās nelielās grupās no jūlija līdz decembrim, visbagātāk rudenī; Dienvideiropā tie var turpināties ilgāk.",
+      "uses": "Tā ir neēdama un netiek vākta galdam. Dažas rokasgrāmatas to sauc par ēdamu, bet mazvērtīgu, citas par indīgu vai brīdina par kuņģa-zarnu traucējumiem ģintī; visdrošāk to neēst.",
+      "confusion": "Tuvākā sajaukšana ir Stropharia aeruginosa: parasti tā ir dziļāk vara zaļa, ilgāk saglabā baltas zvīņas uz cepurītes, tai ir stiprāks plēvains gredzens un — drošākā pazīme — balti lapiņu asmeņi, kas kontrastē ar brūnajām plaknēm. Stropharia pseudocyanea ir mazāka, ātri kļūst okera un aug īsā zālē. Anīsa piltuvene (Collybia odora) arī ir zilganzaļa, bet tai ir sausa, ne gļotaina cepurīte, bālas viegli nolaidenas lapiņas, bez gredzena un spēcīgs anīsa aromāts. Zaļā stiklene (Gliophorus psittacinus) ir mazāka, gļotaina pļavas vaska sēne ar biezām, vaskainām, bālām lapiņām, bez gredzena un bez purpurbrūniem sporu putekļiem.",
+      "notes": "Drošākās pazīmes ir gļotainā zilganzaļā cepurīte, kas neregulāri izbalē okrdzeltenā krāsā, purpurbrūnās lapiņas ar asmeņiem, kas nav balti, un vājā, bieži izzūdošā gredzenjosla uz balti pūkaina zilganzaļa kātiņa. Tā aug zālē, dārzos un šķeldā, kā arī meža kādībā.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "zilganā virpainīte"
+    },
+    "nl": {
+      "description": "Een saprotrofe plaatjeszwam van voedselrijke grond, die in groepjes groeit in gras, parken, tuinen, aan bosranden, wegbermen en op houtsnippermulch in Europa en Noord-Amerika. De hoed is vochtig slijmerig, blauwgroen tot turkoois en verbleekt onregelmatig vanuit het midden tot okergeel of leerbruin; jong heeft hij aan de rand vaak kleine witte velumvlokjes. De lamellen zijn eerst bleekgrijs of kleikleurig, later paarsbruin, en hun sneden hebben dezelfde kleur als de vlakken, ze zijn niet wit. De steel is blauwgroen, onder een zwakke, broze ring die vaak slechts een vage, met sporen bestoven zone blijft, fijn witvlokkig. Een beurs ontbreekt. De vruchtlichamen verschijnen van juli tot december, het rijkst in de herfst.",
+      "cap": "De hoed is 2–9 cm breed. Hij is eerst klokvormig of gewelfd, later breed afgeplat, vaak met een lage, stompe umbo. Het oppervlak is vochtig slijmerig en glanzend, blauwgroen tot turkoois, en verbleekt ongelijkmatig vanuit het midden tot okergeel of mosterdbruin. Jonge hoeden dragen aan de rand vaak kleine, snel verdwijnende witte velumresten.",
+      "hymenium": "De lamellen staan matig dicht, zijn aan de steel aangehecht of uitgebocht, eerst bleekgrijs tot kleibruin, later dof paarsbruin of donkerbruin. De sneden hebben dezelfde kleur als de vlakken en zijn niet wit. Daartussen staan kortere lamellen (lamelulen).",
+      "stipe": "De steel is 2–12 cm hoog en 0,5–1,2 cm dik, cilindrisch, blauwgroen tot groenachtig wit, boven een zwakke, broze ring of ringzone, die vaak slechts een bruine, met sporen bestoven lijn blijft en kan verdwijnen, bleker. Onder de ringzone is hij fijn witvlokkig of schubbig. De basis is vaak witviltig en kan myceliumstrengen dragen. Een beurs ontbreekt.",
+      "flesh": "Het vlees is witachtig, onder de hoedhuid en in de steelcortex soms zwak blauwachtig. De geur is niet kenmerkend; de smaak is mild.",
+      "sporePrint": "De sporenafdruk is donker paarsbruin. De sporen zijn glad, ellipsoïd, ongeveer 7–10 × 4–6 µm.",
+      "habitat": "Een bodemsaprotroof op voedselrijke, vaak kalkrijke grond: in gras, in strooisel, aan bosranden en paden, in parken, tuinen, bermen en op houtsnippermulch. De vruchtlichamen verschijnen gewoonlijk in kleine groepjes van juli tot december, het rijkst in de herfst; in Zuid-Europa kunnen ze langer aanhouden.",
+      "uses": "Hij is oneetbaar en wordt niet voor de pot verzameld. Sommige gidsen noemen hem eetbaar maar van geringe waarde, andere giftig, of waarschuwen voor maag-darmklachten in het geslacht; het veiligst is hem niet te eten.",
+      "confusion": "De nauwste lookalike is Stropharia aeruginosa: die is meestal dieper kopergroen, houdt langer witte schubben op de hoed, heeft een steviger vliezige ring en — het zekerste kenmerk — witte lamelsneden die contrasteren met de bruine vlakken. Stropharia pseudocyanea is kleiner, wordt snel oker en groeit in kort gras. De groene anijstrechterzwam (Collybia odora) is ook blauwgroen, maar heeft een droge, niet slijmerige hoed, bleke licht aflopende lamellen, geen ring en een sterke anijsgeur. Het papegaaizwammetje (Gliophorus psittacinus) is een kleinere, slijmerige weidewasplaat met dikke, wasachtige, bleke lamellen, zonder ring en zonder paarsbruine sporenafdruk.",
+      "notes": "De zekerste kenmerken zijn de slijmerige blauwgroene hoed die onregelmatig tot okergeel verbleekt, de paarsbruine lamellen met sneden die niet wit zijn, en de zwakke, vaak verdwijnende ringzone op een witvlokkige blauwgroene steel. Hij groeit in gras, tuinen en op houtsnippers evengoed als in bosstrooisel.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Valse_kopergroenzwam",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.gbif.org/species/2533355"
+      ],
+      "label": "Valse kopergroenzwam"
+    },
+    "no": {
+      "description": "En saprotrof skivesopp på næringsrik mark, som vokser i grupper i gress, parker, hager, i skogkanter, langs veier og på flis i Europa og Nord-Amerika. Hatten er slimete i fuktig vær, blågrønn til turkis og blekner ujevnt fra midten til okergul eller lærbrun; unge hatter har ofte små hvite slørrester nær randen. Skivene er først blekgrå eller leirfarget, senere purpurbrune, og eggene har samme farge som flatene, de er ikke hvite. Stokken er blågrønn, under en svak, skjør ring som ofte bare blir en utydelig, sporestøvet sone, fint hvitflokket. Skjede mangler. Fruktlegemene kommer fra juli til desember, rikeligst om høsten.",
+      "cap": "Hatten er 2–9 cm bred. Den er først klokkeformet eller hvelvet, senere bredt avflatet, ofte med en lav, stump pukkel. Overflaten er slimete og blank i fuktig vær, blågrønn til turkis, og blekner ujevnt fra midten til okergul eller sennepsbrun. Unge hatter har ofte små, raskt forsvinnende hvite slørrester nær randen.",
+      "hymenium": "Skivene er middels tette, ved stokken tilvokste eller utbuktede, først blekgrå til leirbrune, senere matt purpurbrune eller mørkebrune. Skiveeggene har samme farge som flatene og er ikke hvite. Mellom dem finnes kortere skiver (lamelluler).",
+      "stipe": "Stokken er 2–12 cm høy og 0,5–1,2 cm tykk, sylindrisk, blågrønn til grønnlig hvit, blekere over en svak, skjør ring eller ringsone som ofte bare er en brun, sporestøvet linje og kan forsvinne. Under ringsonen er den fint hvitflokket eller skjjellet. Basis er ofte hvitfiltet og kan ha mycelstrenger. Skjede mangler.",
+      "flesh": "Kjøttet er hvitaktig, under hattehuden og i stokkens bark av og til svakt blålig. Lukten er ikke karakteristisk; smaken er mild.",
+      "sporePrint": "Sporeavtrykket er mørkt purpurbrunt. Sporene er glatte, ellipsoide, omtrent 7–10 × 4–6 µm.",
+      "habitat": "En jordsaprotrof på næringsrik, ofte kalkholdig mark: i gress, i strø, i skogkanter og langs stier, i parker, hager, veikanter og på flis. Fruktlegemene kommer vanligvis i små grupper fra juli til desember, rikeligst om høsten; i Sør-Europa kan de stå lenger.",
+      "uses": "Den er uspiselig og plukkes ikke til mat. Noen guider kaller den spiselig men av lav verdi, andre giftig, eller advarer mot mageplager i slekten; den bør behandles som uspiselig.",
+      "confusion": "Den nærmeste forvekslingen er Stropharia aeruginosa: den er vanligvis dypere spangrønn, beholder lenger hvite skjell på hatten, har en fastere hinneaktig ring og — det sikreste kjennetegnet — hvite skiveegger som kontrasterer mot de brune flatene. Stropharia pseudocyanea er mindre, blir raskt oker og vokser i kort gress. Grønn anistraktsopp (Collybia odora) er også blågrønn, men har en tørr, ikke slimete hatt, bleke, svakt nedløpende skiver, ingen ring og en sterk anisduft. Papegøyevokssopp (Gliophorus psittacinus) er en mindre, slimete engvokssopp med tykke, voksaktige, bleke skiver, uten ring og uten purpurbrunt sporeavtrykk.",
+      "notes": "De sikreste kjennetegnene er den slimete blågrønne hatten som ujevnt blekner til okergul, de purpurbrune skivene med egg som ikke er hvite, og den svake, ofte forsvinnende ringsonen på en hvitflokket blågrønn stokk. Den vokser i gress, hager og på flis like mye som i skogstrø.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "blågrønn kragesopp"
+    },
+    "pl": {
+      "description": "Saprotroficzny grzyb blaszkowy żyznych gleb, rosnący w grupach na trawnikach, w parkach, ogrodach, na skrajach lasów, przy drogach i na ściółce z zrębków drzewnych w Europie i Ameryce Północnej. Kapelusz jest w wilgoci śluzowaty, niebieskozielony do turkusowego, od środka nieregularnie blaknący do ochrowożółtego lub płowego; w młodości przy brzegu często z drobnymi białymi resztkami osłony. Blaszki są z początku bladoszare lub gliniaste, później fioletowobrązowe, a ich ostrza mają ten sam kolor co powierzchnie, nie są białe. Trzon jest niebieskozielony, pod słabym, kruchym pierścieniem, który często zostaje tylko jako niewyraźna, zarodnikami osypana strefa, drobno białawo-kłaczkowaty. Pochwy brak. Owocniki pojawiają się od lipca do grudnia, najobficiej jesienią.",
+      "cap": "Kapelusz ma 2–9 cm średnicy. Jest z początku dzwonkowaty lub wypukły, później szeroko spłaszczony, często z niskim, tępym garbkiem. Powierzchnia jest w wilgoci śluzowata i lśniąca, niebieskozielona do turkusowej, od środka nierównomiernie blaknąca do ochrowożółtej lub musztardowobrązowej. Młode kapelusze mają przy brzegu często drobne, szybko znikające białe resztki osłony.",
+      "hymenium": "Blaszki są umiarkowanie gęste, przy trzonie przyrośnięte lub wykrojone, z początku bladoszare do gliniastobrązowych, później matowo fioletowobrązowe lub ciemnobrązowe. Ostrza blaszek mają ten sam kolor co ich powierzchnie i nie są białe. Między nimi występują krótsze blaszki (lamelle).",
+      "stipe": "Trzon ma 2–12 cm wysokości i 0,5–1,2 cm grubości, jest walcowaty, niebieskozielony do zielonawobiałego, nad słabym, kruchym pierścieniem lub strefą pierścieniową, która często zostaje tylko jako brązowa, zarodnikami osypana linia i może zanikać, jaśniejszy. Pod strefą pierścieniową jest drobno białawo-kłaczkowaty lub łuseczkowaty. Nasada jest często białawo-filcowata i może mieć sznury grzybni. Pochwy brak.",
+      "flesh": "Miąższ jest białawy, pod skórką kapelusza i w korze trzonu czasem słabo niebieskawy. Zapach nie jest charakterystyczny; smak łagodny.",
+      "sporePrint": "Wysyp zarodników jest ciemnofioletowobrązowy. Zarodniki są gładkie, elipsoidalne, około 7–10 × 4–6 µm.",
+      "habitat": "Glebowy saprotrof na żyznych, często wapiennych glebach: w trawie, w ściółce, na skrajach i drogach leśnych, w parkach, ogrodach, przy drogach i na ściółce z zrębków. Owocniki pojawiają się zwykle w małych grupach od lipca do grudnia, najobficiej jesienią; w południowej Europie mogą utrzymywać się dłużej.",
+      "uses": "Jest niejadalny i nie zbiera się go do kuchni. Niektóre przewodniki określają go jako jadalny, ale mało wartościowy, inne jako trujący lub ostrzegają przed dolegliwościami żołądkowymi w rodzaju; najbezpieczniej traktować go jako niejadalny.",
+      "confusion": "Najbliższym podobieństwem jest Stropharia aeruginosa: bywa intensywniej grynszpanowo zielony, dłużej zachowuje białe łuski na kapeluszu, ma trwalszy błoniasty pierścień i — najpewniejsza cecha — białe ostrza blaszek kontrastujące z brązowymi powierzchniami. Stropharia pseudocyanea jest mniejsza, szybko płowieje do ochry i rośnie w niskiej trawie. Lejkówka wonna (Collybia odora) jest także niebieskozielona, ale ma suchy, nie śluzowaty kapelusz, blade, lekko zbiegające blaszki, bez pierścienia i silny anyżowy zapach. Wilgotniczka papuzia (Gliophorus psittacinus) to mniejszy, śluzowaty łąkowy woskowinowiec o grubych, woskowatych, bladych blaszkach, bez pierścienia i bez fioletowobrązowego wysypu.",
+      "notes": "Najpewniejsze cechy to śluzowaty niebieskozielony kapelusz nieregularnie blaknący do ochrowożółtego, fioletowobrązowe blaszki o ostrzach, które nie są białe, oraz słaba, często zanikająca strefa pierścieniowa na białawo-kłaczkowatym niebieskozielonym trzonie. Rośnie w trawie, w ogrodach i na zrębkach, a także w ściółce leśnej.",
+      "names": [
+        "pierścieniak białoniebieski",
+        "łysiczka niebieskawa"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Pier%C5%9Bcieniak_niebieskawy",
+        "https://www.wikidata.org/wiki/Q639931",
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "pierścieniak niebieskawy"
+    },
+    "pt": {
+      "description": "Agarical saprótrofo de solos ricos, que cresce em grupos em relvados, parques, jardins, orlas de bosque, bermas de caminhos e cobertura de estilha na Europa e na América do Norte. O chapéu é viscoso quando húmido, azul-esverdeado a turquesa, desvanecendo-se irregularmente a partir do centro para ocre-amarelo ou acastanhado; quando jovem, tem muitas vezes pequenas escamas brancas do véu perto da margem. As lâminas são a princípio cinzento-pálidas ou cor de barro, depois púrpura-acastanhadas, e o fio tem a mesma cor que as faces, não é branco. O pé é azul-esverdeado, finamente flocoso-branco abaixo de um anel fraco e frágil, muitas vezes reduzido a uma zona ténue polvilhada de esporos. Não há volva. Os corpos frutíferos aparecem de julho a dezembro, mais abundantemente no outono.",
+      "cap": "O chapéu mede 2–9 cm de diâmetro. É a princípio campanulado ou convexo, depois largamente aplanado, muitas vezes com um umbo baixo e obtuso. A superfície é viscosa e brilhante quando húmida, azul-esverdeada a turquesa, desvanecendo-se de forma desigual a partir do centro para ocre-amarelo ou castanho-mostarda. Os chapéus jovens têm muitas vezes perto da margem pequenos fragmentos brancos do véu, depressa efémeros.",
+      "hymenium": "As lâminas são moderadamente apertadas, adnatas ou escotadas no pé, a princípio cinzento-pálidas a castanho-argilosas, depois púrpura-acastanhadas baças ou castanho-escuras. O fio tem a mesma cor que as faces e não é branco. Há lâminas mais curtas (lamélulas).",
+      "stipe": "O pé mede 2–12 cm de altura e 0,5–1,2 cm de espessura, cilíndrico, azul-esverdeado a branco-esverdeado, mais pálido acima de um anel fraco e frágil ou de uma zona anular, muitas vezes reduzida a uma linha castanha polvilhada de esporos e que pode desaparecer. Abaixo da zona anular o pé é finamente flocoso-branco ou escamoso. A base é muitas vezes esbranquiçada-feltrosa e pode ter cordões micelianos. Não há volva.",
+      "flesh": "A carne é esbranquiçada, por vezes debilmente azulada sob a cutícula do chapéu e no córtex do pé. O cheiro não é distintivo; o sabor é suave.",
+      "sporePrint": "A esporada é púrpura-acastanhada-escura. Os esporos são lisos, elipsoides, cerca de 7–10 × 4–6 µm.",
+      "habitat": "Saprótrofo terrestre de solos ricos, muitas vezes calcários: relva, folhada, orlas e caminhos de bosque, parques, jardins, bermas e cobertura de estilha. Os corpos frutíferos aparecem habitualmente em pequenos grupos de julho a dezembro, mais abundantemente no outono; no sul da Europa podem prolongar-se mais tarde.",
+      "uses": "É considerado não comestível e não se colhe para a mesa. Alguns guias chamam-lhe comestível mas medíocre, outros tóxico, ou avisam para perturbações gastrointestinais no género; o mais seguro é não o comer.",
+      "confusion": "O sósia mais próximo é Stropharia aeruginosa: é geralmente de um verde-cardenilho mais intenso, conserva mais tempo escamas brancas no chapéu, tem um anel membranoso mais firme e — o caráter mais seguro — fios de lâmina brancos que contrastam com as faces acastanhadas. Stropharia pseudocyanea é mais pequena, passa depressa a ocre e cresce em relva curta. Collybia odora também é azul-esverdeada, mas tem o chapéu seco, não viscoso, lâminas pálidas ligeiramente decurrentes, sem anel e um forte cheiro a anis. Gliophorus psittacinus é um higróforo viscoso mais pequeno de prado, com lâminas espessas, cerosas e pálidas, sem anel nem esporada púrpura-acastanhada.",
+      "notes": "Os traços mais seguros são o chapéu viscoso azul-esverdeado que desvanece irregularmente para ocre-amarelo, as lâminas púrpura-acastanhadas com fio que não é branco, e a zona anular fraca, muitas vezes caduca, num pé azul-esverdeado flocoso-branco. Cresce em relva, jardins e cobertura de estilha, bem como na folhada florestal.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Agarical saprotof de soluri bogate, care crește în grupuri pe pajiști, în parcuri, grădini, la liziera pădurilor, pe marginea drumurilor și pe mulci de așchii în Europa și America de Nord. Pălăria este vâscoasă pe umezeală, albastru-verzuie până la turcoaz, decolorându-se neregulat din centru spre ocru-galben sau cafeniu; la început poartă adesea, aproape de margine, mici solzi albi ai vălului. Lamelele sunt la început gri-palide sau de culoarea lutului, apoi brun-purpurii, iar muchia are aceeași culoare cu fețele, nu este albă. Piciorul este albastru-verzui, fin flocos-alb sub un inel slab și fragil, adesea redus la o zonă vagă prăfuită de spori. Nu există volvă. Corpurile de fructificație apar din iulie până în decembrie, cel mai abundent toamna.",
+      "cap": "Pălăria are 2–9 cm în diametru. Este la început campanulată sau convexă, apoi larg aplatizată, adesea cu un umbo jos și obtuz. Suprafața este vâscoasă și lucioasă pe umezeală, albastru-verzuie până la turcoaz, decolorându-se neuniform din centru spre ocru-galben sau brun-muștar. Pălăriile tinere poartă adesea, aproape de margine, mici fragmente albe ale vălului, repede trecătoare.",
+      "hymenium": "Lamelele sunt moderat dese, adnate sau scobite la picior, la început gri-palide până la brun-lutos, apoi brun-purpurii mate sau brun-închise. Muchia are aceeași culoare cu fețele și nu este albă. Există lamele mai scurte (lamelule).",
+      "stipe": "Piciorul are 2–12 cm înălțime și 0,5–1,2 cm grosime, cilindric, albastru-verzui până la alb-verzui, mai palid deasupra unui inel slab și fragil sau a unei zone inelare, adesea redusă la o linie brună prăfuită de spori și care poate dispărea. Sub zona inelară piciorul este fin flocos-alb sau solzos. Baza este adesea albicios-pâsloasă și poate purta cordoane de miceliu. Nu există volvă.",
+      "flesh": "Carnea este albicioasă, uneori slab albăstruie sub cuticula pălăriei și în scoarța piciorului. Mirosul nu este distinctiv; gustul este blând.",
+      "sporePrint": "Sporada este brun-purpurie închisă. Sporii sunt netezi, elipsoizi, de circa 7–10 × 4–6 µm.",
+      "habitat": "Saprotof terestru al solurilor bogate, adesea calcaroase: iarbă, litieră, liziere și poteci de pădure, parcuri, grădini, margini de drum și mulci de așchii. Corpurile de fructificație apar de obicei în grupuri mici din iulie până în decembrie, cel mai abundent toamna; în sudul Europei pot dura mai târziu.",
+      "uses": "Este considerată necomestibilă și nu se culege pentru masă. Unele ghiduri o numesc comestibilă, dar de valoare slabă, altele toxice, sau avertizează asupra tulburărilor gastrointestinale în gen; cel mai sigur este să nu fie consumată.",
+      "confusion": "Cea mai apropiată confuzie este Stropharia aeruginosa: este de obicei de un verde-de-aramă mai intens, păstrează mai mult timp solzi albi pe pălărie, are un inel membranos mai ferm și — caracterul cel mai sigur — muchii albe ale lamelelor, care contrastează cu fețele brune. Stropharia pseudocyanea este mai mică, trece repede în ocru și crește în iarbă scurtă. Collybia odora este de asemenea albastru-verzuie, dar are pălăria uscată, nu vâscoasă, lamele palide ușor decurente, fără inel și un miros puternic de anason. Gliophorus psittacinus este un higrofor vâscos mai mic de pajiște, cu lamele groase, ceroase și palide, fără inel și fără sporadă brun-purpurie.",
+      "notes": "Cele mai sigure semne sunt pălăria vâscoasă albastru-verzuie care se decolorează neregulat spre ocru-galben, lamelele brun-purpurii cu muchia care nu este albă, și zona inelară slabă, adesea caducă, pe un picior albastru-verzui flocos-alb. Crește în iarbă, în grădini și pe mulci de așchii, precum și în litiera pădurii.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Сапротрофный пластинчатый гриб богатых почв, растущий группами на лужайках, в парках, садах, по опушкам леса, вдоль дорог и на мульче из древесной щепы в Европе и Северной Америке. Шляпка во влажную погоду слизистая, сине-зелёная до бирюзовой, от центра неравномерно выцветает до охристо-жёлтой или палевой; в молодости у края часто с мелкими белыми остатками покрывала. Пластинки сначала бледно-серые или глинистые, затем фиолетово-коричневые, и их края того же цвета, что и поверхности, не белые. Ножка сине-зелёная, под слабым, непрочным кольцом, которое часто остаётся лишь как неясная, пылящая спорами зона, мелко беловато-хлопьевидная. Вольвы нет. Плодовые тела появляются с июля по декабрь, обильнее всего осенью.",
+      "cap": "Шляпка 2–9 см в диаметре. Сначала колокольчатая или выпуклая, затем широко уплощённая, часто с низким тупым бугорком. Поверхность во влажную погоду слизистая и блестящая, сине-зелёная до бирюзовой, от центра неравномерно выцветает до охристо-жёлтой или горчично-коричневой. Молодые шляпки часто несут у края мелкие, быстро исчезающие белые обрывки покрывала.",
+      "hymenium": "Пластинки умеренно частые, приросшие или выемчатые у ножки, сначала бледно-серые до глинисто-коричневых, позднее тускло фиолетово-коричневые или тёмно-коричневые. Края пластинок того же цвета, что и поверхности, и не белые. Между ними есть более короткие пластинки (ламеллулы).",
+      "stipe": "Ножка 2–12 см высотой и 0,5–1,2 см толщиной, цилиндрическая, сине-зелёная до зеленовато-белой, бледнее над слабым, непрочным кольцом или кольцевой зоной, которая часто остаётся лишь как коричневая, пылящая спорами линия и может исчезнуть. Под кольцевой зоной ножка мелко беловато-хлопьевидная или чешуйчатая. Основание часто беловато-войлочное и может нести мицелиальные шнуры. Вольвы нет.",
+      "flesh": "Мякоть беловатая, иногда слабо голубоватая под кожицей шляпки и в коре ножки. Запах нехарактерный; вкус мягкий.",
+      "sporePrint": "Споровый порошок тёмно-фиолетово-коричневый. Споры гладкие, эллипсоидные, около 7–10 × 4–6 мкм.",
+      "habitat": "Почвенный сапротроф на богатых, часто известковых почвах: в траве, в подстилке, по опушкам и лесным дорожкам, в парках, садах, вдоль дорог и на мульче из щепы. Плодовые тела обычно появляются небольшими группами с июля по декабрь, обильнее всего осенью; в Южной Европе они могут сохраняться дольше.",
+      "uses": "Считается несъедобным и не собирается к столу. Некоторые определители называют его съедобным, но малоценным, другие — ядовитым или предупреждают о желудочно-кишечных расстройствах в роде; безопаснее всего не употреблять его в пищу.",
+      "confusion": "Ближайшая путаница — Stropharia aeruginosa: обычно более глубокого медно-зелёного цвета, дольше сохраняет белые чешуйки на шляпке, имеет более прочное перепончатое кольцо и — самый надёжный признак — белые края пластинок, контрастирующие с коричневыми поверхностями. Stropharia pseudocyanea мельче, быстро становится охристой и растёт в короткой траве. Говорушка пахучая (Collybia odora) тоже сине-зелёная, но имеет сухую, не слизистую шляпку, бледные слабо нисходящие пластинки, без кольца и сильный запах аниса. Гигроцибе попугайская (Gliophorus psittacinus) — более мелкий слизистый луговой восковик с толстыми, восковидными, бледными пластинками, без кольца и без фиолетово-коричневого спорового порошка.",
+      "notes": "Самые надёжные признаки — слизистая сине-зелёная шляпка, неравномерно выцветающая до охристо-жёлтой, фиолетово-коричневые пластинки с краями, которые не белые, и слабая, часто исчезающая кольцевая зона на беловато-хлопьевидной сине-зелёной ножке. Растёт в траве, в садах и на щепе, а также в лесной подстилке.",
+      "names": [
+        "строфария небесно-голубая"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%84%D0%B0%D1%80%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D0%BE-%D1%81%D0%B8%D0%BD%D1%8F%D1%8F",
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "строфария небесно-синяя"
+    },
+    "sk": {
+      "description": "Saprotrofná lupeňovitá huba bohatých pôd, rastúca v skupinách na trávnikoch, v parkoch, záhradách, na okrajoch lesov, pri cestách a na mulči z drevnej štiepky v Európe a v Severnej Amerike. Klobúk je za vlhka slizký, zelenomodrý až tyrkysový, od stredu nepravidelne vybledajúci do okrovožltej alebo plavej farby; v mladosti má pri okraji často drobné biele zvyšky závoja. Lupene sú spočiatku bledosivé alebo ílovité, neskôr fialovohnedé, a ich ostrie má rovnakú farbu ako plochy, nie je biele. Hlúbik je zelenomodrý, pod slabým, krehkým prsteňom, ktorý často ostáva len ako nezreteľná, výtrusmi poprášená zóna, jemne belavo vločkatý. Pošva chýba. Plodnice rastú od júla do decembra, najhojnejšie na jeseň.",
+      "cap": "Klobúk má 2–9 cm v priemere. Je spočiatku zvoncovitý alebo vypuklý, neskôr široko sploštený, často s nízkym tupým hrboľom. Povrch je za vlhka slizký a lesklý, zelenomodrý až tyrkysový, od stredu nerovnomerne vybledajúci do okrovožltej alebo horčicovohnedej farby. Mladé klobúky majú pri okraji často drobné, rýchlo miznúce biele zvyšky závoja.",
+      "hymenium": "Lupene sú stredne husté, pri hlúbiku prirastené alebo vykrojené, spočiatku bledosivé až ílovohnedé, neskôr matne fialovohnedé alebo tmavohnedé. Ostrie lupeňov má rovnakú farbu ako ich plochy a nie je biele. Medzi nimi sú kratšie medzilupne.",
+      "stipe": "Hlúbik je 2–12 cm vysoký a 0,5–1,2 cm hrubý, valcovitý, zelenomodrý až zelenobiely, nad slabým, krehkým prsteňom alebo prstencovou zónou, ktorá často ostáva len ako hnedá, výtrusmi poprášená čiara a môže zmiznúť, bledší. Pod prstencovou zónou je jemne belavo vločkatý alebo šupinkatý. Báza je často belavo plstnatá a môže niesť povrazce podhubia. Pošva chýba.",
+      "flesh": "Dužina je belavá, pod pokožkou klobúka a v kôre hlúbika niekedy slabo namodralá. Vôňa nie je výrazná; chuť je mierna.",
+      "sporePrint": "Výtrusný prach je tmavofialovohnedý. Výtrusy sú hladké, elipsoidné, približne 7–10 × 4–6 µm.",
+      "habitat": "Pôdna saprotrofná huba na živinami bohatých, často vápnitých pôdach: v tráve, v opade, na okrajoch a cestách lesov, v parkoch, záhradách, pri cestách a na mulči z drevnej štiepky. Plodnice rastú zvyčajne v malých skupinách od júla do decembra, najhojnejšie na jeseň; v južnej Európe môžu pokračovať aj neskôr.",
+      "uses": "Je nejedlá a na stôl sa nezbiera. Niektoré príručky ju označujú ako jedlú, ale málo hodnotnú, iné ako jedovatú alebo varujú pred žalúdočnými ťažkosťami v rode; najbezpečnejšie ju považovať za nejedlú.",
+      "confusion": "Najbližšia zámena je Stropharia aeruginosa: býva sýtejšie meďnato zelená, na klobúku si dlhšie udržiava biele šupinky, má pevnejší blankovitý prsteň a — najspoľahlivejší znak — biele ostrie lupeňov, ktoré kontrastuje s hnedými plochami. Stropharia pseudocyanea je menšia, rýchlo okrovie a rastie v nízkej tráve. Strmuľka anízová (Collybia odora) je tiež zelenomodrá, má však suchý, nie slizký klobúk, bledé slabo zbiehavé lupene, bez prsteňa a silnú anízovú vôňu. Lúčnica žltozelená (Gliophorus psittacinus) je menšia, slizká lúčna voskovka s hrubými, voskovitými, bledými lupeňmi, bez prsteňa a bez fialovohnedého výtrusného prachu.",
+      "notes": "Najspoľahlivejšie znaky sú slizký zelenomodrý klobúk, ktorý nepravidelne vybledá do okrovožltej farby, fialovohnedé lupene s ostím, ktoré nie je biele, a slabá, často miznúca prstencová zóna na belavo vločkatom zelenomodrom hlúbiku. Rastie v tráve, v záhradách a na mulči z drevnej štiepky aj v lesnom opade.",
+      "names": [
+        "golierovka modrá"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.gbif.org/species/2533355"
+      ],
+      "label": "golierovka zelenomodrá"
+    },
+    "sl": {
+      "description": "Saprotrofna lističasta goba bogatih tal, ki raste v skupinah na trateh, v parkih, vrtovih, na gozdnih robovih, ob cestah in na zastirki iz lesnih sekancev v Evropi in Severni Ameriki. Klobuk je v vlagi sluzast, modrozelen do turkizen, od središča neenakomerno bledi v okrasto rumeno ali rumenorjavo; v mladosti ima ob robu pogosto drobne bele ostanke ovojnice. Lističi so sprva bledosivi ali ilovnati, pozneje vijoličasto rjavi, njihov rob pa ima enako barvo kot ploskve in ni bel. Bet je modrozelen, pod šibkim, krhkim obročem, ki pogosto ostane le kot nejasna, s trosi poprašena cona, fino belkasto kosmat. Pochve ni. Trosnjaki rastejo od julija do decembra, najbolj jeseni.",
+      "cap": "Klobuk meri 2–9 cm v premeru. Je sprva zvonast ali izbočen, pozneje široko sploščen, pogosto z nizkim topim grbom. Površina je v vlagi sluzasta in sijoča, modrozelena do turkizna, od središča neenakomerno bledi v okrasto rumeno ali gorčično rjavo. Mladi klobuki imajo ob robu pogosto drobne, hitro izginjajoče bele ostanke ovojnice.",
+      "hymenium": "Lističi so zmerno gosti, pri betu pritrjeni ali izrezani, sprva bledosivi do ilovnato rjavi, pozneje mat vijoličasto rjavi ali temnorjavi. Rob lističev ima enako barvo kot ploskve in ni bel. Med njimi so krajši lističi (lamelule).",
+      "stipe": "Bet je 2–12 cm visok in 0,5–1,2 cm debel, valjast, modrozelen do zelenkasto bel, nad šibkim, krhkim obročem ali obročno cono, ki pogosto ostane le kot rjava, s trosi poprašena črta in lahko izgine, bledši. Pod obročno cono je fino belkasto kosmat ali luskast. Dna je pogosto belkasto plstnata in ima lahko micelijske vrvice. Pochve ni.",
+      "flesh": "Meso je belkasto, pod kožico klobuka in v skorji beta včasih šibko modrikasto. Vonj ni značilen; okus je blag.",
+      "sporePrint": "Trosni prah je temno vijoličasto rjav. Trosi so gladki, elipsoidni, približno 7–10 × 4–6 µm.",
+      "habitat": "Talni sapotrof na s hranili bogatih, pogosto apnenčastih tleh: v travi, v stelji, na gozdnih robovih in stezah, v parkih, vrtovih, ob cestah in na zastirki iz sekancev. Trosnjaki rastejo običajno v majhnih skupinah od julija do decembra, najbolj jeseni; v južni Evropi lahko trajajo dlje.",
+      "uses": "Je neužitna in se je ne nabira za mizo. Nekateri vodniki jo označujejo kot užitno, a slabe kakovosti, drugi kot strupeno ali opozarjajo na želodčne težave v rodu; najvarneje jo obravnavati kot neužitno.",
+      "confusion": "Najbližja zamenjava je Stropharia aeruginosa: je običajno bolj bakreno zelena, na klobuku dlje ohrani bele luske, ima trdnejši kožnat obroč in — najzanesljivejši znak — bel rob lističev, ki kontrastira z rjavimi ploskvami. Stropharia pseudocyanea je manjša, hitro postane okrasta in raste v nizki travi. Janeževa livka (Collybia odora) je prav tako modrozelena, vendar ima suh, ne sluzast klobuk, blede rahlo pritezajoče lističe, brez obroča in močan janežev vonj. Papagajska vlažnica (Gliophorus psittacinus) je manjša, sluzasta travniška voskovnica z debelimi, voščenimi, bledimi lističi, brez obroča in brez vijoličasto rjavega trosnega prahu.",
+      "notes": "Najzanesljivejši znaki so sluzast modrozelen klobuk, ki neenakomerno bledi v okrasto rumeno, vijoličasto rjavi lističi z robom, ki ni bel, in šibka, pogosto izginjajoča obročna cona na belkasto kosmatem modrozelenem betu. Raste v travi, v vrtovih in na sekancih ter tudi v gozdni stelji.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://www.inaturalist.org/taxa/118196"
+      ],
+      "label": "modrikasta strniščnica"
+    },
+    "sr": {
+      "description": "Сапротрофна листићава гљива богатих земаља, расте у групама на травњацима, у парковима, баштама, на рубовима шума, уз путеве и на малчу од дрвне сечке у Европи и Северној Америци. Шешир је у влази слузав, плавозелен до тиркизан, од средине неравномерно бледи у океружуто или смеђежуто; у младости уз ивицу често са ситним белим остацима вела. Листићи су с почетка бледосиви или иловасти, касније љубичастосмеђи, а њихова оштрица има исту боју као плохе и није бела. Стручак је плавозелен, испод слабог, ломљивог прстена, који често остаје само као нејасна, спорама попрашена зона, фино беличасто пахуљаст. Волве нема. Плодна тела расту од јула до децембра, најобилније у јесен.",
+      "cap": "Шешир има 2–9 cm у пречнику. С почетка је звонаст или испупчен, касније широко спљоштен, често са ниским тупим грбом. Површина је у влази слузава и сјајна, плавозелена до тиркизна, од средине неравномерно бледи у океружуто или горушичастосмеђе. Млади шешири уз ивицу често имају ситне, брзо нестајуће беле остатке вела.",
+      "hymenium": "Листићи су умерено густи, при стручку прирасли или усечени, с почетка бледосиви до иловастосмеђи, касније мат љубичастосмеђи или тамносмеђи. Оштрица листића има исту боју као плохе и није бела. Између њих постоје краћи листићи (ламелуле).",
+      "stipe": "Стручак је висок 2–12 cm и дебљине 0,5–1,2 cm, ваљкаст, плавозелен до зеленикастобео, изнад слабог, ломљивог прстена или прстенасте зоне, која често остаје само као смеђа, спорама попрашена црта и може нестати, светлији. Испод прстенасте зоне је фино беличасто пахуљаст или љускав. База је често беличасто филцаста и може имати мицелијске врпце. Волве нема.",
+      "flesh": "Месо је беличасто, под кожицом шешира и у кори стручка понекад слабо плавичасто. Мирис није карактеристичан; укус је благ.",
+      "sporePrint": "Отисак спора је тамнољубичастосмеђ. Споре су глатке, елипсоидне, око 7–10 × 4–6 µm.",
+      "habitat": "Земљишни сапротроф на хранљивим, често кречњачким земљиштима: у трави, у стељи, на шумским рубовима и стазама, у парковима, баштама, уз путеве и на малчу од сечке. Плодна тела обично расту у малим групама од јула до децембра, најобилније у јесен; у јужној Европи могу трајати дуже.",
+      "uses": "Није јестива и не бере се за сто. Неки водичи је сматрају јестивом, али мало вредном, други отровном или упозоравају на желудачне тегобе у роду; најбезбедније је сматрати је нејестивом.",
+      "confusion": "Најближа замена је Stropharia aeruginosa: обично је дубље зелена као бакарна патина, дуже задржава беле љуске на шеширу, има чвршћи опнасти прстен и — најпоузданији знак — белу оштрицу листића која контрастира са смеђим плохама. Stropharia pseudocyanea је мања, брзо поокерје и расте у ниској трави. Collybia odora такође је плавозелена, али има сув, не слузав шешир, бледе благо силазне листиће, без прстена и јак мирис аниса. Папагајска влажница (Gliophorus psittacinus) је мања, слузава ливадска воштаница са дебелим, воштаним, бледим листићима, без прстена и без љубичастосмеђег отиска спора.",
+      "notes": "Најпоузданија обележја су слузав плавозелен шешир који неравномерно бледи у океружуто, љубичастосмеђи листићи са оштрицом која није бела и слаба, често нестајућа прстенаста зона на беличасто пахуљастом плавозеленом стручку. Расте у трави, у баштама и на сечки, као и у шумској стељи.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En saprotrof skivling på näringsrik mark, som växer i grupper i gräs, parker, trädgårdar, i skogsbryn, längs vägar och på flis i Europa och Nordamerika. Hatten är slemmig i fuktigt väder, blågrön till turkos och bleknar oregelbundet från mitten till ockragul eller läderfärgad; unga hattar har ofta små vita slöjrester nära kanten. Skivorna är först blekgrå eller lertärgade, senare purpurbruna, och deras eggar har samma färg som ytorna, de är inte vita. Foten är blågrön, under en svag, skör ring som ofta bara blir en otydlig, spordammad zon, fint vitflockig. Fodral saknas. Fruktkropparna kommer från juli till december, rikligast på hösten.",
+      "cap": "Hatten är 2–9 cm bred. Den är först klockformad eller välvd, senare brett tillplattad, ofta med en låg, trubbig puckel. Ytan är slemmig och blank i fuktigt väder, blågrön till turkos, och bleknar ojämnt från mitten till ockragul eller senapsbrun. Unga hattar har ofta små, snabbt försvinnande vita slöjrester nära kanten.",
+      "hymenium": "Skivorna är måttligt täta, vid foten vidvuxna eller urbukade, först blekgrå till lerbruna, senare matt purpurbruna eller mörkbruna. Skivornas eggar har samma färg som ytorna och är inte vita. Däremellan finns kortare skivor (lamelluler).",
+      "stipe": "Foten är 2–12 cm hög och 0,5–1,2 cm tjock, cylindrisk, blågrön till grönaktigt vit, blekare ovanför en svag, skör ring eller ringzon som ofta bara är en brun, spordammad linje och kan försvinna. Under ringzonen är den fint vitflockig eller fjällig. Basen är ofta vitfiltad och kan ha mycelsträngar. Fodral saknas.",
+      "flesh": "Köttet är vitaktigt, under hatthuden och i fotens bark ibland svagt blåaktigt. Lukten är inte karakteristisk; smaken är mild.",
+      "sporePrint": "Sporpulveret är mörkt purpurbrunt. Sporerna är släta, ellipsoida, cirka 7–10 × 4–6 µm.",
+      "habitat": "En jordsaprotrof på näringsrik, ofta kalkhaltig mark: i gräs, i förna, i skogsbryn och längs stigar, i parker, trädgårdar, vägrenar och på flis. Fruktkropparna kommer vanligen i små grupper från juli till december, rikligast på hösten; i södra Europa kan de stå längre.",
+      "uses": "Den är oätlig och plockas inte till mat. Vissa guider kallar den ätlig men av lågt värde, andra giftig, eller varnar för magbesvär i släktet; den bör behandlas som oätlig.",
+      "confusion": "Den närmaste förväxlingen är Stropharia aeruginosa: den är vanligen djupare spangrön, behåller längre vita fjäll på hatten, har en fastare membranös ring och — det säkraste tecknet — vita skiveggar som kontrasterar mot de bruna ytorna. Stropharia pseudocyanea är mindre, blir snabbt ockra och växer i kort gräs. Grön trattskivling (Collybia odora) är också blågrön, men har en torr, inte slemmig hatt, bleka, svagt nedlöpande skivor, ingen ring och en stark anislukt. Papegojvaxing (Gliophorus psittacinus) är en mindre, slemmig ängsvaxskivling med tjocka, vaxartade, bleka skivor, utan ring och utan purpurbrunt sporpulver.",
+      "notes": "De säkraste kännetecknen är den slemmiga blågröna hatten som oregelbundet bleknar till ockragul, de purpurbruna skivorna med eggar som inte är vita, och den svaga, ofta försvinnande ringzonen på en vitflockig blågrön fot. Den växer i gräs, trädgårdar och på flis liksom i skogsförna.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Bl%C3%A5gr%C3%B6n_kragskivling",
+        "https://www.inaturalist.org/taxa/118196",
+        "https://www.gbif.org/species/2533355",
+        "https://www.wikidata.org/wiki/Q639931"
+      ],
+      "label": "blågrön kragskivling"
+    },
+    "tr": {
+      "description": "Zengin toprakların saprotrof lamelli mantarı, Avrupa ve Kuzey Amerika’da çimenliklerde, parklarda, bahçelerde, orman kenarlarında, yol kenarlarında ve odun yongası malçında gruplar halinde büyür. Şapka nemliyken sümüksü, mavi-yeşilden turkuaza kadar değişir, merkezden düzensiz olarak okr-sarıya veya açık kahverengiye solar; gençken kenara yakın sıklıkla küçük beyaz örtü pulları taşır. Lameller önce soluk gri veya kil rengi, sonra morumsu kahverengidir ve kenarları yüzlerle aynı renktedir, beyaz değildir. Sap mavi-yeşildir, zayıf ve kırılgan bir halkanın altında ince beyaz pulcukludur; halka çoğu kez yalnızca soluk, spor tozlu bir kuşak olarak kalır. Volva yoktur. Meyve cisimleri temmuzdan aralığa kadar, en bol sonbaharda görünür.",
+      "cap": "Şapka 2–9 cm çapındadır. Önce çan biçimli veya dışbükey, sonra genişçe yassılaşır, çoğu kez alçak, küt bir umbo taşır. Yüzey nemliyken sümüksü ve parlaktır, mavi-yeşilden turkuaza kadar değişir ve merkezden düzensiz olarak okr-sarıya veya hardal kahvesine solar. Genç şapkalar kenara yakın çoğu kez küçük, çabuk kaybolan beyaz örtü parçaları taşır.",
+      "hymenium": "Lameller orta sıklıktadır, sapa bitişik veya oyukludur, önce soluk griden kil kahvesine, sonra donuk morumsu kahverengi veya koyu kahverengiye döner. Lamellerin kenarı yüzlerle aynı renktedir ve beyaz değildir. Aralarında daha kısa lameller (lameluller) bulunur.",
+      "stipe": "Sap 2–12 cm boyunda ve 0,5–1,2 cm kalınlığındadır, silindirik, mavi-yeşilden yeşilimsi beyaza, zayıf ve kırılgan bir halkanın veya halka kuşağının üzerinde daha soluktur; kuşak çoğu kez yalnızca kahverengi, spor tozlu bir çizgi olarak kalır ve kaybolabilir. Halka kuşağının altında sap ince beyaz pulcuklu veya pulludur. Taban çoğu kez beyazımsı keçelidir ve miselyum ipleri taşıyabilir. Volva yoktur.",
+      "flesh": "Et beyazımsıdır, şapka kabuğunun altında ve sap kabuğunda bazen hafif mavimsidir. Koku belirgin değildir; tat yumuşaktır.",
+      "sporePrint": "Spor izi koyu morumsu kahverengidir. Sporlar pürüzsüz, elipsoittir, yaklaşık 7–10 × 4–6 µm.",
+      "habitat": "Zengin, çoğu kez kireçli topraklarda yer saprotrofu: çimen, yaprak döküntüsü, orman kenarları ve patikalar, parklar, bahçeler, yol kenarları ve yonga malçı. Meyve cisimleri genellikle küçük gruplar halinde temmuzdan aralığa kadar, en bol sonbaharda görünür; Güney Avrupa’da daha geç de sürebilir.",
+      "uses": "Yenmez kabul edilir ve sofralık toplanmaz. Bazı rehberler onu yenilebilir ama değersiz, bazıları zehirli sayar veya cinsteki mide-bağırsak rahatsızlıklarına karşı uyarır; en güvenlisi yenmemesidir.",
+      "confusion": "En yakın karışıklık Stropharia aeruginosa’dır: genellikle daha derin bakır yeşilidir, şapkada beyaz pulları daha uzun süre korur, daha sağlam zarlı bir halkası vardır ve — en güvenilir ayırt edici özellik — kahverengi yüzlerle karşıtlık oluşturan beyaz lamel kenarlarıdır. Stropharia pseudocyanea daha küçüktür, hızla okra döner ve kısa çimde büyür. Collybia odora da mavi-yeşildir ama kuru, sümüksü olmayan bir şapkası, soluk hafifçe inen lamelleri, halkası yoktur ve güçlü bir anason kokusu vardır. Koca kanlıyama mantarı (Gliophorus psittacinus) daha küçük, sümüksü bir çayır mum mantarıdır; kalın, mumsu, soluk lamelleri vardır, halkası ve morumsu kahverengi spor izi yoktur.",
+      "notes": "En güvenilir belirtiler, düzensiz olarak okr-sarıya solan sümüksü mavi-yeşil şapka, kenarları beyaz olmayan morumsu kahverengi lameller ve ince beyaz pulcuklu mavi-yeşil sap üzerindeki zayıf, çoğu kez kaybolan halka kuşağıdır. Çimende, bahçelerde ve yonga malçında, ayrıca orman döküntüsünde büyür.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Сапротрофний пластинчастий гриб багатих ґрунтів, що росте групами на газонах, у парках, садах, на узліссях, вздовж доріг і на мульчі з деревної тріски в Європі та Північній Америці. Шапинка у вологу погоду слизувата, синьо-зелена до бірюзової, від центру нерівномірно вицвітає до вохристо-жовтої або палевої; у молодості біля краю часто з дрібними білими залишками покривала. Пластинки спочатку блідо-сірі або глинисті, згодом фіолетово-коричневі, і їхні краї того самого кольору, що й поверхні, не білі. Ніжка синьо-зелена, під слабким, крихким кільцем, яке часто лишається лише як невиразна, спорами припорошена зона, дрібно білувато-пластівчаста. Вольви немає. Плодові тіла з’являються з липня до грудня, найрясніше восени.",
+      "cap": "Шапинка 2–9 см у діаметрі. Спочатку дзвоникувата або опукла, згодом широко сплощена, часто з низьким тупим горбком. Поверхня у вологу погоду слизувата й блискуча, синьо-зелена до бірюзової, від центру нерівномірно вицвітає до вохристо-жовтої або гірчично-коричневої. Молоді шапинки часто мають біля краю дрібні, швидко зникаючі білі залишки покривала.",
+      "hymenium": "Пластинки помірно густі, прирослі або виїмчасті біля ніжки, спочатку блідо-сірі до глинисто-коричневих, пізніше тьмяно фіолетово-коричневі або темно-коричневі. Краї пластинок того самого кольору, що й поверхні, і не білі. Між ними є коротші пластинки (ламелули).",
+      "stipe": "Ніжка 2–12 см заввишки й 0,5–1,2 см завтовшки, циліндрична, синьо-зелена до зеленувато-білої, блідіша над слабким, крихким кільцем або кільцевою зоною, яка часто лишається лише як коричнева, спорами припорошена лінія і може зникнути. Під кільцевою зоною ніжка дрібно білувато-пластівчаста або луската. Основа часто білувато-повстиста і може нести міцеліальні шнури. Вольви немає.",
+      "flesh": "М’якуш білуватий, іноді слабо блакитнуватий під шкіркою шапинки та в корі ніжки. Запах нехарактерний; смак м’який.",
+      "sporePrint": "Споровий порошок темно-фіолетово-коричневий. Спори гладкі, еліпсоїдні, близько 7–10 × 4–6 мкм.",
+      "habitat": "Ґрунтовий сапротроф на багатих, часто вапнякових ґрунтах: у траві, у підстилці, на узліссях і лісових стежках, у парках, садах, вздовж доріг і на мульчі з тріски. Плодові тіла зазвичай з’являються невеликими групами з липня до грудня, найрясніше восени; у Південній Європі вони можуть зберігатися довше.",
+      "uses": "Вважається неїстівним і не збирається до столу. Деякі визначники називають його їстівним, але малоцінним, інші — отруйним або застерігають щодо шлунково-кишкових розладів у роді; найбезпечніше не вживати його в їжу.",
+      "confusion": "Найближча плутанина — Stropharia aeruginosa: зазвичай глибшого мідно-зеленого кольору, довше зберігає білі лусочки на шапинці, має міцніше перетинчасте кільце і — найнадійніша ознака — білі краї пластинок, що контрастують із коричневими поверхнями. Stropharia pseudocyanea дрібніша, швидко стає вохристою і росте в короткій траві. Collybia odora також синьо-зелена, але має суху, не слизувату шапинку, бліді слабко низбіжні пластинки, без кільця і сильний запах анісу. Гігроцибе папугова (Gliophorus psittacinus) — дрібніший слизуватий лучний восковик із товстими, воскоподібними, блідими пластинками, без кільця і без фіолетово-коричневого спорового порошку.",
+      "notes": "Найнадійніші ознаки — слизувата синьо-зелена шапинка, що нерівномірно вицвітає до вохристо-жовтої, фіолетово-коричневі пластинки з краями, які не білі, і слабка, часто зникаюча кільцева зона на білувато-пластівчастій синьо-зеленій ніжці. Росте в траві, в садах і на трісці, а також у лісовій підстилці.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533355",
+        "https://api.gbif.org/v1/species/2533355/vernacularNames"
+      ],
+      "label": "строфарія небесно-блакитна"
+    },
+    "zh": {
+      "description": "肥沃土壤上的腐生褶菌，在欧洲和北美的草地、公园、园圃、林缘、路边和木屑覆盖层中成群生长。菌盖湿时黏滑，蓝绿色至青绿色，自中央不规则地褪为赭黄或淡黄褐色；幼时近边缘常有白色薄膜残片。菌褶初为浅灰或黏土色，后呈紫褐色，褶缘与褶面同色，不为白色。菌柄蓝绿色，在薄弱易碎的菌环下被细白絮毛；菌环常仅剩一条被孢子粉的淡色环带。无菌托。子实体见于7月至12月，秋季最盛。",
+      "cap": "菌盖直径2–9 cm。初为钟形或凸出，后广阔展平，常具低而钝的中央凸起。表面湿时黏滑有光泽，蓝绿色至青绿色，自中央不均匀地褪为赭黄或芥末褐色。幼盖近边缘常有很快消失的白色薄膜残片。",
+      "hymenium": "菌褶中等密集，于菌柄处直生或弯生，初为浅灰至黏土褐色，后呈暗紫褐色或深褐色。褶缘与褶面同色，不为白色。其间有较短的菌褶。",
+      "stipe": "菌柄高2–12 cm，粗0.5–1.2 cm，圆柱形，蓝绿色至带绿的白色，在薄弱易碎的菌环或环带之上较淡；该带常仅剩一条被孢子粉的褐色线，并可消失。环带以下的菌柄被细白絮毛或小鳞片。基部常呈白色毡状，可具菌索。无菌托。",
+      "flesh": "菌肉近白色，在菌盖表皮下和菌柄皮层中有时略带蓝色。气味不明显；味道温和。",
+      "sporePrint": "孢子印深紫褐色。孢子平滑、椭圆形，约7–10 × 4–6 µm。",
+      "habitat": "肥沃、常为石灰质土壤上的地生腐生菌，见于草地、凋落物、林缘和小径、公园、园圃、路边和木屑覆盖层。子实体通常于7月至12月成小群出现，秋季最盛；在南欧可延至更晚。",
+      "uses": "被视为不可食用，不采集入馔。有的指南称其可食但价值低，有的称有毒，或提醒本属可能引起肠胃不适；最稳妥是不要食用。",
+      "confusion": "最易混淆的是Stropharia aeruginosa：通常为更深的铜绿色，菌盖上的白色鳞片保持更久，菌环更坚韧而膜质，最可靠的特征是与褐色褶面形成对比的白色褶缘。Stropharia pseudocyanea较小，很快变为赭色，生长于短草中。浅黄绿杯伞（Collybia odora）也呈蓝绿色，但菌盖干燥不黏，菌褶浅色并略下延，无菌环，并有强烈的茴香味。鸚鵡濕傘（Gliophorus psittacinus）是草地上较小的黏滑蜡伞，菌褶厚、蜡质而浅色，无菌环，也无紫褐色孢子印。",
+      "notes": "最可靠的特征是不规则褪为赭黄的黏滑蓝绿色菌盖、褶缘不为白色的紫褐色菌褶，以及带细白絮毛的蓝绿色菌柄上那条薄弱、常会消失的环带。生长于草地、园圃和木屑覆盖层，也见于林中凋落物。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Psilocybe caerulea",
+      "author": "(Kreisel) Noordel.",
+      "year": 1995,
+      "rank": "species",
+      "type": "synonym",
+      "if": 414013
+    },
+    {
+      "name": "Agaricus politus",
+      "author": "Bolton",
+      "year": 1788,
+      "rank": "species",
+      "type": "synonym",
+      "if": 462379
+    }
+  ],
+  "reserved": false,
+  "id": 222,
+  "citation": "Beih. Sydowia 8: 229 (1979)"
+},
+{
+  "name": "Stropharia rugosoannulata",
+  "author": "Farl. ex Murrill",
+  "family": "Strophariaceae",
+  "genus": "Stropharia",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Strophariaceae",
+    "Stropharia"
+  ],
+  "summary": [
+    "Agaricales",
+    "Strophariaceae",
+    "Stropharia"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "wood",
+    "ground"
+  ],
+  "color": [
+    "white",
+    "red",
+    "brown",
+    "purple",
+    "dark"
+  ],
+  "capFrom": 4.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 6.0,
+  "stipeHeightTo": 20.0,
+  "stipeThickFrom": 0.9,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
+  "label": {
+    "cs": "límcovka vrásčitoprstenná",
+    "da": "Rødbrun bredblad",
+    "de": "Riesen-Träuschling",
+    "en": "Wine Roundhead",
+    "et": "hiidvärvik",
+    "fi": "viljelykaulussieni",
+    "fr": "Cèpe de paille",
+    "hu": "óriás harmatgomba",
+    "ja": "サケツバタケ",
+    "ko": "턱받이포도버섯",
+    "lt": "raukšlėtažiedė gleiviabudė",
+    "nl": "Blauwplaatstropharia",
+    "no": "rødbrun kragesopp",
+    "pl": "Pierścieniak uprawny",
+    "ru": "строфария морщинисто-кольцевая",
+    "sk": "golierovka slamomilná",
+    "sl": "kukmakova strniščnica",
+    "sv": "jättekragskivling",
+    "uk": "строфарія зморшкувато-кільцева",
+    "zh": "大球盖菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "límcovka vrásčitolupenná"
+    ],
+    "da": [],
+    "de": [
+      "Riesenträuschling",
+      "Kultur-Träuschling"
+    ],
+    "en": [
+      "Wine-cap Stropharia",
+      "Wine-red Stropharia",
+      "King Stropharia",
+      "Garden Giant",
+      "Wine Cap"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Strophaire à anneau rugueux"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "кольцевик"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "皺環球蓋菇"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=145219",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=145219",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=145219",
+      "https://www.gbif.org/species/2533347",
+      "https://www.first-nature.com/fungi/stropharia-rugosoannulata.php",
+      "https://www.myko.cz/myko-atlas/Stropharia-rugosoannulata/",
+      "https://de.wikipedia.org/wiki/Riesen-Tr%C3%A4uschling",
+      "https://en.wikipedia.org/wiki/Stropharia_rugosoannulata",
+      "https://www.inaturalist.org/taxa/119151",
+      "https://www.wikidata.org/wiki/Q1236980"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/L%C3%ADmcovka_vr%C3%A1s%C4%8Ditoprstenn%C3%A1",
+      "https://www.myko.cz/myko-atlas/Stropharia-rugosoannulata/",
+      "https://www.gbif.org/species/2533347",
+      "https://www.wikidata.org/wiki/Q1236980"
+    ],
+    "da": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Riesen-Tr%C3%A4uschling",
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "es": [],
+    "et": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.gbif.org/species/2533347"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/%C3%93ri%C3%A1s_harmatgomba",
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151",
+      "https://www.wikidata.org/wiki/Q1236980"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "lt": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "lv": [],
+    "nl": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "no": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Pier%C5%9Bcieniak_uprawny",
+      "https://www.gbif.org/species/2533347",
+      "https://www.wikidata.org/wiki/Q1236980"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.wikidata.org/wiki/Q1236980",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "sk": [
+      "https://sk.wikipedia.org/wiki/Golierovka_slamomiln%C3%A1",
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151",
+      "https://www.wikidata.org/wiki/Q1236980"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "tr": [],
+    "uk": [
+      "https://www.gbif.org/species/2533347",
+      "https://www.inaturalist.org/taxa/119151"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q1236980",
+      "https://www.inaturalist.org/taxa/119151",
+      "https://www.gbif.org/species/2533347"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_1.webp",
+      "author": "noelw",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/18669968"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_2.webp",
+      "author": "Annie Weissman",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/116193324"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_3.webp",
+      "author": "noelw",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/18669968"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_4.webp",
+      "author": "Beth Ace",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/45969940"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_5.webp",
+      "author": "Beth Ace",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/45969940"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename) has a cursive “Gemini” mark at the lower right. The 2:3 fit scales 2.0× and trims 48 source pixels (96 output pixels) from each side, with no vertical crop. Visual inspection of the fit preview confirms that all figures (main wine-red fruit body with cogwheel ring, young burgundy specimen, underside with purple gills, longitudinal section, white rhizomorphs in wood chips) and the signature remain fully inside the trimmed frame; only paper margin is cut. Nothing was erased or painted."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_1.webp",
+      "author": "noelw",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/18669968"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_2.webp",
+      "author": "Annie Weissman",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/116193324"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_3.webp",
+      "author": "noelw",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/18669968"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_4.webp",
+      "author": "Beth Ace",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/45969940"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Strophariaceae/Stropharia_rugosoannulata/Stropharia_rugosoannulata_5.webp",
+      "author": "Beth Ace",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/45969940"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر صفائح رمّي لمهاد رقائق الخشب والتبن والحدائق العامة والبساتين، يُزرع على نطاق واسع ويظهر كثيرًا في مواطن مشابهة في أوروبا وأمريكا الشمالية وأماكن أخرى. القبعة كبيرة، حمراء كخمر العنب إلى بورغندي في الصغر، ثم تتبهت إلى بني مصفر، جافة إلى لزجة قليلًا وكثيرًا ما تكون متموجة قليلًا عند الحافة. الصفائح في البداية رمادية أرجوانية، ثم بنية أرجوانية إلى شبه سوداء، بحواف أبهت أو بيضاء. الساق متينة وبيضاء، ذات حلقة مزدوجة سميكة دائمة ملتفة إلى الأعلى، ينقسم وجهها السفلي إلى أجزاء شعاعية تشبه ترسًا مسننًا؛ وكثيرًا ما يُغبر الوجه العلوي للحلقة بأبواغ أرجوانية سوداء داكنة. تمتد من القاعدة خيوط ريزومورفية بيضاء في الرقائق. لا توجد فولفا. تظهر الأجسام الثمرية من مايو إلى نوفمبر، وكثيرًا ما تكون في مجموعات.",
+      "cap": "القبعة عرضها 4–15 cm (وقد تكون أكبر استثناءً). تكون في البداية نصف كروية أو محدبة، ثم تتسطح اتساعًا، وأحيانًا محدبة قليلًا في الوسط، وكثيرًا ما تكون متموجة أو غير منتظمة عند الحافة. السطح أملس إلى ليفي دقيق، جاف إلى لزج قليلًا، أحمر كخمر العنب أو بورغندي أو بني محمر وهو طازج، ويتبهت مع العمر أو في الطقس الجاف إلى لون أسمر أو مغرة أو بني مصفر. قد تحمل القبعات الفتية بقايا غشاء مائل إلى البياض عند الحافة.",
+      "hymenium": "الصفائح متزاحمة، ملتصقة بالساق أو محزوزة قليلًا، في البداية رمادية أرجوانية أو بلون صلصال شاحب، ثم بنية أرجوانية داكنة إلى شبه سوداء. حواف الصفائح أبهت أو بيضاء. توجد صفائح أقصر (لميّلات).",
+      "stipe": "الساق طولها 6–20 cm وسُمكها 0.9–3.0 cm، متينة، أسطوانية أو شبه صولجانية قليلًا عند القاعدة، بيضاء إلى كريمية وكثيرًا ما تكون ليفية دقيقة. تحمل حلقة مزدوجة سميكة بيضاء دائمة ملتفة إلى الأعلى؛ ينقسم الوجه السفلي للحلقة إلى أجزاء شعاعية تشبه ترسًا مسننًا، وكثيرًا ما يُغبر الوجه العلوي بأبواغ أرجوانية سوداء داكنة. تنمو من القاعدة حبال فطرية بيضاء (ريزومورفات) في رقائق الخشب أو التبن. لا توجد فولفا.",
+      "flesh": "اللحم في القبعة والساق سميك ومتماسك وأبيض؛ وتصبح الساق مجوفة قليلًا مع العمر. الرائحة خفيفة، وأحيانًا تشبه الفجل قليلًا أو ترابية؛ والطعم خفيف ومقبول.",
+      "sporePrint": "طبعة الأبواغ بنية أرجوانية داكنة إلى شبه سوداء. الأبواغ ملساء إهليلجية، نحو 10–15 × 6–9 µm.",
+      "habitat": "رمّي للتربة الغنية بالمغذيات، وكثيرًا ما تكون مضطربة: مهاد رقائق الخشب والقشر، والتبن، والسماد، وأحواض الزراعة، والحدائق العامة وبقايا خشبية مشابهة. تظهر الأجسام الثمرية عادة في مجموعات من مايو إلى نوفمبر. في وسط أوروبا غالبًا ما تكون هناك فترة توقف صيفية بين موجة ربيعية وأخرى خريفية. يُزرع النوع على نطاق واسع على التبن أو رقائق الخشب ويظهر كثيرًا في البساتين والحدائق العامة.",
+      "uses": "صالح للأكل ويُزرع على نطاق واسع، ويُعد عمومًا فطر مائدة جيدًا. وككثير من الفطريات قد يراكم المعادن الثقيلة في التربة الملوثة، ولا ينبغي أكل الأجسام الثمرية الآتية من مهاد حديقة عامة ملوث أو كثير الارتياد. كما أُبلغ عن حالات عدم تحمل فردية عرضية. ينبغي استخدام القطوف المعرَّفة جيدًا والنظيفة فقط.",
+      "confusion": "أوضح الصفات هي القبعة الكبيرة الحمراء كخمر العنب، والحلقة المزدوجة البيضاء السميكة الشبيهة بترس مسنن، والصفائح الأرجوانية السوداء ذات الحواف الأبهت، والريزومورفات البيضاء عند القاعدة في رقائق الخشب أو التبن. ينمو Leratiomyces ceres في المواطن نفسها من رقائق الخشب، لكنه أصغر بكثير، بقبعة برتقالية حمراء زاهية وساق أنحف وحلقة أضعف. لـ Stropharia hornemannii قبعة مخاطية، مصفرة إلى بنية، وساق حرشفية تحت حلقة شبيهة بتنورة، وينمو في الغابة لا في مهاد الحديقة. قد يكون لأنواع الجنس Agaricus أيضًا حلقة وساق بيضاء متينة، لكن صفائحها تبدأ وردية وتصير بنية شوكولاتية، وليس لها صفائح أرجوانية سوداء ولا حلقة شبيهة بترس مسنن. Cortinarius praestans فطر غابي أكبر وأمتن بكثير، بغطاء عنكبوتي وصفائح بنية صدئة ومن دون حلقة غشائية شبيهة بترس مسنن.",
+      "notes": "الصفات الميدانية المميزة هي القبعة الحمراء كخمر العنب التي تتبهت إلى لون أسمر، والحلقة المزدوجة البيضاء السميكة ذات الوجه السفلي الشبيه بترس مسنن، والصفائح البنية الأرجوانية إلى شبه السوداء ذات الحواف الأبهت، والريزومورفات البيضاء عند قاعدة ساق بيضاء متينة، عادة في مهاد رقائق الخشب أو على التبن.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Сапротрофна ламелна гъба на дървесен чипс, слама, паркове и градини, широко култивирана и често появяваща се на подобни местообитания в Европа, Северна Америка и другаде. Гуглата е голяма, при младите плодни тела виненочервена до бургундска, по-късно избледнява до охра или жълтеникавокафява, суха до леко лепкава и често леко вълниста по ръба. Ламелите отначало са сивкаволилави, после пурпурнокафяви до почти черни, с по-блед или бял ръб. Пънчето е здраво и бяло, с дебел, траен, обърнат нагоре двоен пръстен, чиято долна страна е разделена на лъчеви, подобни на зъбно колело сегменти; горната страна на пръстена често е напрашена с тъмно пурпурночерни спори. От основата през чипса вървят бели ризоморфи. Волва няма. Плодните тела се появяват от май до ноември, често на групи.",
+      "cap": "Гуглата е 4–15 cm в диаметър (изключително по-голяма). Отначало е полукълбовидна или изпъкнала, после широко разперена, понякога слабо гърбица, и често вълниста или неправилна по ръба. Повърхността е гладка до финовлакнеста, суха до леко лепкава, прясна виненочервена, бургундска или червеникавокафява, и с възрастта или при сухо време избледнява до охра, тен или жълтеникавокафява. Младите гугли могат да имат по ръба белезникави остатъци от було.",
+      "hymenium": "Ламелите са гъсти, прикрепени към пънчето или слабо изрязани, отначало сивкаволилави или бледо глинести, по-късно тъмно пурпурнокафяви до почти черни. Ръбът на ламелите е по-блед или бял. Има по-къси ламели (ламелули).",
+      "stipe": "Пънчето е високо 6–20 cm и дебело 0,9–3,0 cm, здраво, цилиндрично или в основата слабо бухалковидно, бяло до кремаво и често финовлакнесто. Носи дебел, бял, траен, обърнат нагоре двоен пръстен; долната страна на пръстена е разделена на лъчеви, подобни на зъбно колело сегменти, а горната често е напрашена с тъмно пурпурночерни спори. От основата в дървесния чипс или сламата растат бели мицелни върви (ризоморфи). Волва няма.",
+      "flesh": "Месото в гуглата и пънчето е дебело, твърдо и бяло; пънчето с възрастта става леко кухо. Мирисът е слаб, понякога леко репичен или землист; вкусът е слаб и приятен.",
+      "sporePrint": "Споровият прашец е тъмно пурпурнокафяв до почти черен. Спорите са гладки, елипсоидни, около 10–15 × 6–9 µm.",
+      "habitat": "Сапротроф на богати на хранителни вещества, често нарушени почви: дървесен и коров чипс, слама, компост, лехи, паркове и подобни дървесни остатъци. Плодните тела обикновено се появяват на групи от май до ноември. В Централна Европа между пролетната и есенната вълна често има лятна пауза. Видът се култивира широко върху слама или чипс и често се появява в градини и паркове.",
+      "uses": "Ядлива е и широко култивирана и обикновено се смята за добра трапезна гъба. Както много гъби, в замърсена почва може да натрупва тежки метали, и плодни тела от замърсен или силно посещаван парков мулч не трябва да се ядат. Съобщена е и рядка индивидуална непоносимост. Трябва да се използват само добре определени, чисти сборове.",
+      "confusion": "Най-сигурните белези са голямата виненочервена гугла, дебелият бял двоен пръстен, подобен на зъбно колело, пурпурночерните ламели с по-блед ръб и белите ризоморфи в основата в чипса или върху сламата. Leratiomyces ceres расте на същите местообитания върху дървесен чипс, но е много по-малък, с яркооранжевочервена гугла, по-тънко пънче и по-слаб пръстен. Stropharia hornemannii има слузеста, жълтеникава до кафява гугла и люспесто пънче под полаобразен пръстен и расте в гора, а не върху градински мулч. Видовете от род Agaricus също могат да имат пръстен и здраво бяло пънче, но техните ламели започват розови и стават шоколадовокафяви, и нямат пурпурночерни ламели и пръстен, подобен на зъбно колело. Превъзходният паяжинник (Cortinarius praestans) е много по-едър, здрав горски паяжинник с паяжиновидно було, ръждивокафяви ламели и без ципест пръстен, подобен на зъбно колело.",
+      "notes": "Характерните полеви белези са виненочервената, по-късно избледняваща до охра гугла, дебелият бял двоен пръстен с долна страна, подобна на зъбно колело, пурпурнокафявите до почти черни ламели с по-блед ръб и белите ризоморфи в основата на здраво бяло пънче, обикновено в дървесен чипс или върху слама.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Saprotrofní lupenatá houba dřevní štěpky, slámy, parků a zahrad, široce pěstovaná a často se objevující na podobných stanovištích v Evropě, Severní Americe i jinde. Klobouk je velký, za mlada vínově červený až burgundský, později vybledá do plavé nebo nažloutle hnědé, suchý až mírně lepkavý a na okraji často mírně zvlněný. Lupeny jsou zprvu šedavě lila, později purpurově hnědé až téměř černé, s bledším nebo bílým ostřím. Třeň je statný a bílý, s tlustým, vytrvalým, vzhůru ohrnutým dvojitým prstenem, jehož spodní strana je rozčleněna do paprsčitých, ozubenému kolu podobných segmentů; horní plocha prstenu je často poprášena temně purpurově černými výtrusy. Od báze vystupují do štěpky bílé rhizomorfy. Pochva chybí. Plodnice vyrůstají od května do listopadu, často ve skupinách.",
+      "cap": "Klobouk má 4–15 cm v průměru (výjimečně více). Je zprvu polokulovitý nebo klenutý, později široce rozprostřený, někdy slabě vyklenutý uprostřed, a na okraji často zvlněný nebo nepravidelný. Povrch je hladký až jemně vláknitý, suchý až mírně lepkavý, za čerstva vínově červený, burgundský nebo červenohnědý, stárnutím nebo za sucha vybledá do plavé, okrové nebo nažloutle hnědé. Mladé klobouky mohou mít na okraji bělavé zbytky vela.",
+      "hymenium": "Lupeny jsou husté, ke třeni připojené nebo slabě vykrojené, zprvu šedavě lila nebo bledě jílovité, později temně purpurově hnědé až téměř černé. Ostří lupeňů je bledší nebo bílé. Jsou přítomny kratší lupeny (lamelluly).",
+      "stipe": "Třeň je 6–20 cm vysoký a 0,9–3,0 cm tlustý, statný, válcovitý nebo na bázi slabě kyjovitý, bílý až krémový a často jemně vláknitý. Nese tlustý, bílý, vytrvalý, vzhůru ohrnutý dvojitý prsten; spodní strana prstenu je rozčleněna do paprsčitých, ozubenému kolu podobných segmentů a horní plocha je často poprášena temně purpurově černými výtrusy. Od báze vyrůstají do dřevní štěpky nebo slámy bílé myceliové provazce (rhizomorfy). Pochva chybí.",
+      "flesh": "Dužnina je v klobouku i ve třeni tlustá, pevná a bílá; třeň ve stáří bývá slabě dutý. Vůně je mírná, někdy slabě ředkvová nebo zemitá; chuť je mírná a příjemná.",
+      "sporePrint": "Výtrusný prach je temně purpurově hnědý až téměř černý. Výtrusy jsou hladké, elipsoidní, přibližně 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof na živinami bohaté, často narušené půdě: dřevní a kůrová štěpka, sláma, kompost, záhony, parky a podobné dřevní zbytky. Plodnice vyrůstají obvykle ve skupinách od května do listopadu. Ve střední Evropě je mezi jarním a podzimním výskytem často letní přestávka. Druh je široce pěstován na slámě nebo dřevní štěpce a často se objevuje v zahradách a parcích.",
+      "uses": "Je jedlá a široce pěstovaná a obecně se považuje za dobrou stolní houbu. Stejně jako mnohé houby může v kontaminované půdě hromadit těžké kovy, a plodnice ze znečištěného nebo silně frekventovaného parkového mulče by se neměly jíst. Byly zaznamenány i občasné individuální nesnášenlivosti. Používat je třeba jen dobře určené, čisté sběry.",
+      "confusion": "Nejspolehlivější znaky jsou velký vínově červený klobouk, tlustý bílý dvojitý prsten podobný ozubenému kolu, purpurově černé lupeny s bledším ostřím a bílé rhizomorfy na bázi ve dřevní štěpce nebo na slámě. Límcovka oranžová (Leratiomyces ceres) roste na stejných stanovištích na dřevní štěpce, je však mnohem menší, s jasně oranžovočerveným kloboukem, tenčím třeněm a slabším prstenem. Stropharia hornemannii má slizký, nažloutlý až hnědý klobouk a pod sukénkovitým prstenem šupinatý třeň a roste v lese, nikoli na zahradním mulči. Druhy rodu Agaricus mohou mít rovněž prsten a statný bílý třeň, jejich lupeny však začínají růžově a později čokoládově hnědnou a postrádají purpurově černé lupeny i prsten podobný ozubenému kolu. Pavučinec náramkovcový (Cortinarius praestans) je mnohem větší, statná lesní pavučinatka s pavučinovým závojem, rezavě hnědými lupeny a bez blankovitého prstenu podobného ozubenému kolu.",
+      "notes": "Význačné znaky jsou vínově červený až do plava vybledající klobouk, tlustý bílý dvojitý prsten se spodní stranou podobnou ozubenému kolu, purpurově hnědé až téměř černé lupeny s bledším ostřím a bílé rhizomorfy na bázi statného bílého třeně, typicky ve dřevní štěpce nebo na slámě.",
+      "names": [
+        "límcovka vrásčitolupenná"
+      ],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/L%C3%ADmcovka_vr%C3%A1s%C4%8Ditoprstenn%C3%A1",
+        "https://www.myko.cz/myko-atlas/Stropharia-rugosoannulata/",
+        "https://www.gbif.org/species/2533347",
+        "https://www.wikidata.org/wiki/Q1236980"
+      ],
+      "label": "límcovka vrásčitoprstenná"
+    },
+    "da": {
+      "description": "En saprotrof lamelsvamp fra træflis, halm, parker og haver, der dyrkes i vid udstrækning og ofte optræder på lignende voksesteder i Europa, Nordamerika og andre steder. Hatten er stor, som ung vinrød til bordeaux, senere afbleget til okker- eller gulligbrun, tør til let klæbrig og i randen ofte lidt bølget. Lamellerne er først grålilla, senere purpurbrune til næsten sorte, med lysere eller hvid æg. Stokken er kraftig og hvid, med en tyk, vedvarende, opad slået dobbelt ring, hvis underside er delt i stråleformede, tandhjulsagtige segmenter; ringens overside er ofte støvet mørkt purpursort af sporer. Fra basis løber hvide rhizomorfer gennem flisen. Der er ingen volva. Frugtlegemerne kommer fra maj til november, ofte i grupper.",
+      "cap": "Hatten er 4–15 cm bred (undtagelsesvis større). Den er først halvkugleformet eller hvælvet, senere bredt udbredt, undertiden svagt puklet, og i randen ofte bølget eller uregelmæssig. Overfladen er glat til fint trådet, tør til let klæbrig, frisk vinrød, bordeaux eller rødbrun, og afbleges med alderen eller i tørt vejr til okker, tan eller gulligbrun. Unge hatte kan have hvidlige slørrester i randen.",
+      "hymenium": "Lamellerne er tætte, tilvoksede til stokken eller svagt udbugtede, først grålilla eller bleg lerfarvede, senere mørkt purpurbrune til næsten sorte. Lamellernes æg er lysere eller hvidt. Kortere lameller (lamelluler) er til stede.",
+      "stipe": "Stokken er 6–20 cm høj og 0,9–3,0 cm tyk, kraftig, cylindrisk eller ved basis svagt kølleformet, hvid til cremefarvet og ofte fint trådet. Den bærer en tyk, hvid, vedvarende, opad slået dobbelt ring; undersiden af ringen er delt i stråleformede, tandhjulsagtige segmenter, og oversiden er ofte støvet mørkt purpursort af sporer. Fra basis vokser hvide myceliestrenge (rhizomorfer) ind i træflisen eller halmen. Der er ingen volva.",
+      "flesh": "Kødet er i hat og stok tykt, fast og hvidt; stokken bliver med alderen lidt hul. Lugten er mild, undertiden svagt radiselignende eller jordagtig; smagen er mild og behagelig.",
+      "sporePrint": "Sporeaftrykket er mørkt purpurbrunt til næsten sort. Sporerne er glatte, ellipsoidiske, omkring 10–15 × 6–9 µm.",
+      "habitat": "En saprotrof på næringsrig, ofte forstyrret jord: træ- og barkflis, halm, kompost, bede, parker og lignende træagtige rester. Frugtlegemerne kommer sædvanligvis i grupper fra maj til november. I Centraleuropa er der ofte en sommerpause mellem et forårs- og et efterårsskub. Arten dyrkes i vid udstrækning på halm eller træflis og optræder ofte i haver og parker.",
+      "uses": "Den er spiselig og dyrkes i vid udstrækning og betragtes almindeligvis som en god spisesvamp. Som mange svampe kan den i forurenet jord ophobe tungmetaller, og frugtlegemer fra forurenet eller stærkt trafikeret parkaffald bør ikke spises. Lejlighedsvis individuel intolerance er også rapporteret. Kun velbestemte, rene fund bør bruges.",
+      "confusion": "De sikrest kendetegn er den store vinrøde hat, den tykke hvide, tandhjulsagtige dobbeltring, de purpursorte lameller med lysere æg og de hvide rhizomorfer ved basis i træflis eller halm. Orange bredblad (Leratiomyces ceres) vokser på de samme træflisvoksesteder, men er meget mindre, med en klart orangerød hat, en tyndere stok og en svagere ring. Stropharia hornemannii har en slimet, gullig til brun hat og under en skørtagtig ring en skællet stok, og vokser i skov, ikke på havemuld. Arter af slægten Agaricus kan også have en ring og en kraftig hvid stok, men deres lameller begynder lyserøde og bliver chokoladebrune, og de mangler purpursorte lameller og en tandhjulsagtig ring. Cortinarius praestans er en langt større, kraftig skovslørhat med et spindelvævsagtigt slør, rustbrune lameller og uden en hinderig, tandhjulsagtig ring.",
+      "notes": "De karakteristiske kendetegn er den vinrøde, senere tan-afblegede hat, den tykke hvide dobbeltring med tandhjulsagtig underside, de purpurbrune til næsten sorte lameller med lysere æg, og de hvide rhizomorfer ved basis af en kraftig hvid stok, typisk i træflis eller på halm.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "Rødbrun bredblad"
+    },
+    "de": {
+      "description": "Ein saprotropher Blätterpilz von Holzschnitzeln, Stroh, Parks und Gärten, der weit verbreitet kultiviert wird und oft an ähnlichen Standorten in Europa, Nordamerika und anderswo erscheint. Der Hut ist groß, jung weinrot bis burgunderfarben, verblasst später zu ocker- oder gelblichbraun, trocken bis leicht klebrig und am Rand oft etwas wellig. Die Lamellen sind zuerst grau-lila, später purpurbraun bis fast schwarz, mit blasseren oder weißen Schneiden. Der Stiel ist kräftig und weiß, mit einem dicken, bleibenden, nach oben umgeschlagenen Doppelring, dessen Unterseite in strahlenförmige, zahnradartige Segmente geteilt ist; die Oberseite des Rings ist oft dunkel purpurschwarz von Sporen bestäubt. Von der Basis ziehen weiße Rhizomorphen durch die Schnitzel. Eine Volva fehlt. Die Fruchtkörper erscheinen von Mai bis November, oft in Gruppen.",
+      "cap": "Der Hut ist 4–15 cm breit (ausnahmsweise größer). Er ist zuerst halbkugelig oder gewölbt, später breit abgeflacht, manchmal schwach gebuckelt und am Rand oft wellig oder unregelmäßig. Die Oberfläche ist glatt bis fein faserig, trocken bis leicht klebrig, frisch weinrot, burgunderfarben oder rotbraun und verblasst mit dem Alter oder bei Trockenheit zu ocker, honigfarben oder gelblichbraun. Junge Hüte können am Rand weißliche Velumreste tragen.",
+      "hymenium": "Die Lamellen stehen gedrängt, sind am Stiel angewachsen oder schwach ausgebuchtet, zuerst grau-lila oder blass lehmfarben, später dunkel purpurbraun bis fast schwarz. Die Lamellenschneiden sind blasser oder weiß. Kürzere Lamellen (Lamelullen) sind vorhanden.",
+      "stipe": "Der Stiel ist 6–20 cm hoch und 0,9–3,0 cm dick, kräftig, zylindrisch oder an der Basis schwach keulig, weiß bis cremefarben und oft fein faserig. Er trägt einen dicken, weißen, bleibenden, nach oben umgeschlagenen Doppelring; die Unterseite des Rings ist in strahlenförmige, zahnradartige Segmente geteilt, und die Oberseite ist oft dunkel purpurschwarz von Sporen bestäubt. Von der Basis wachsen weiße Myzelstränge (Rhizomorphen) in die Holzschnitzel oder das Stroh. Eine Volva fehlt.",
+      "flesh": "Das Fleisch ist in Hut und Stiel dick, fest und weiß; der Stiel wird im Alter etwas hohl. Der Geruch ist mild, manchmal leicht rettichartig oder erdig; der Geschmack ist mild und angenehm.",
+      "sporePrint": "Das Sporenpulver ist dunkel purpurbraun bis fast schwarz. Die Sporen sind glatt, ellipsoid, etwa 10–15 × 6–9 µm.",
+      "habitat": "Ein Saprotroph nährstoffreicher, oft gestörter Böden: Holz- und Rindenschnitzel, Stroh, Kompost, Beete, Parks und ähnliche holzige Reste. Die Fruchtkörper erscheinen gewöhnlich in Gruppen von Mai bis November. In Mitteleuropa liegt zwischen einem Frühjahrs- und einem Herbstschub oft eine sommerliche Pause. Die Art wird weit verbreitet auf Stroh oder Holzschnitzeln kultiviert und erscheint häufig in Gärten und Parks.",
+      "uses": "Sie ist essbar und weit verbreitet kultiviert und gilt allgemein als guter Speisepilz. Wie viele Pilze kann sie in belasteten Böden Schwermetalle anreichern, und Fruchtkörper von verschmutztem oder stark frequentiertem Parkmulch sollten nicht gegessen werden. Gelegentliche individuelle Unverträglichkeiten sind ebenfalls berichtet worden. Nur gut bestimmte, saubere Aufsammlungen sollten verwendet werden.",
+      "confusion": "Die sichersten Merkmale sind der große weinrote Hut, der dicke weiße, zahnradartige Doppelring, die purpurschwarzen Lamellen mit blasseren Schneiden und die weißen Rhizomorphen an der Basis in Holzschnitzeln oder Stroh. Der Orangerote Träuschling (Leratiomyces ceres) wächst an denselben Holzschnitzel-Standorten, ist aber viel kleiner, mit einem leuchtend orangeroten Hut, einem dünneren Stiel und einem schwächeren Ring. Stropharia hornemannii hat einen schleimigen, gelblichen bis braunen Hut und unter einem schürzenartigen Ring einen schuppigen Stiel und wächst im Wald, nicht auf Gartenmulch. Arten der Gattung Agaricus können ebenfalls einen Ring und einen kräftigen weißen Stiel haben, aber ihre Lamellen beginnen rosa und werden schokoladenbraun und ihnen fehlen purpurschwarze Lamellen und ein zahnradartiger Ring. Die Schleiereule (Cortinarius praestans) ist ein viel größerer, kräftiger Wald-Schleierling mit einem spinnwebigen Schleier, rostbraunen Lamellen und ohne häutigen, zahnradartigen Ring.",
+      "notes": "Die kennzeichnenden Merkmale sind der weinrote, später ocker verblassende Hut, der dicke weiße Doppelring mit zahnradartiger Unterseite, die purpurbraunen bis fast schwarzen Lamellen mit blasseren Schneiden und die weißen Rhizomorphen an der Basis eines kräftigen weißen Stiels, typischerweise in Holzschnitzeln oder auf Stroh.",
+      "names": [
+        "Riesenträuschling",
+        "Kultur-Träuschling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Riesen-Tr%C3%A4uschling",
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "Riesen-Träuschling"
+    },
+    "en": {
+      "description": "A saprotrophic agaric of wood-chip mulch, straw, parks and gardens, widely cultivated and often appearing in similar habitats in Europe, North America and elsewhere. The cap is large, wine-red to burgundy when young, fading to tan or yellowish-brown, dry to slightly tacky, and often slightly wavy at the margin. The gills are greyish-lilac at first, then purple-brown to nearly black, with paler or white edges. The stem is stout and white, with a thick, persistent, upturned double ring whose lower side is split into radiating cogwheel-like segments; the upper surface of the ring is often dusted dark purple-black with spores. White rhizomorphs run from the base through the chips. There is no volva. Fruit bodies appear from May to November, often in groups.",
+      "cap": "The cap is 4–15 cm across (exceptionally larger). It is hemispherical or convex at first, then broadly flattened, sometimes slightly umbonate, and often wavy or irregular at the margin. The surface is smooth to finely fibrillose, dry to slightly tacky, wine-red, burgundy or reddish-brown when fresh, fading with age or in dry weather to tan, ochre or yellowish-brown. Young caps may bear whitish veil remnants at the margin.",
+      "hymenium": "The gills are crowded, adnate or slightly notched at the stem, at first greyish-lilac or pale clay, later dark purple-brown to almost black. The gill edges are paler or white. Shorter gills (lamellulae) are present.",
+      "stipe": "The stem is 6–20 cm tall and 0.9–3.0 cm thick, sturdy, cylindrical or slightly club-shaped at the base, white to cream, and often finely fibrillose. It bears a thick, white, persistent, upturned double ring; the lower side of the ring is split into radiating, cogwheel-like segments, and the upper surface is often dusted dark purple-black with spores. White mycelial cords (rhizomorphs) grow from the base into the wood chips or straw. There is no volva.",
+      "flesh": "The flesh is thick, firm and white in the cap and stem, becoming slightly hollow in the stem with age. The smell is mild, sometimes slightly radish-like or earthy; the taste is mild and pleasant.",
+      "sporePrint": "The spore print is dark purple-brown to almost black. The spores are smooth, ellipsoid, about 10–15 × 6–9 µm.",
+      "habitat": "A saprotroph of nutrient-rich, often disturbed ground: wood-chip and bark mulch, straw, compost, garden beds, parks and similar woody remains. Fruit bodies usually appear in groups from May to November. In Central Europe there is often a midsummer pause between a spring flush and an autumn one. The species is widely cultivated on straw or wood chips and frequently appears in gardens and parks.",
+      "uses": "It is edible and widely cultivated, and is generally regarded as a good table mushroom. Like many mushrooms it can accumulate heavy metals in contaminated soil, and fruit bodies from polluted or heavily trafficked park mulch should not be eaten. Occasional individual intolerances have also been reported. Only well-identified, clean collections should be used.",
+      "confusion": "The surest marks are the large wine-red cap, the thick white cogwheel double ring, the purple-black gills with paler edges, and the white rhizomorphs at the base in wood chips or straw. The redlead roundhead (Leratiomyces ceres) grows in the same wood-chip habitats but is much smaller, with a bright orange-red cap, a thinner stem and a weaker ring. Stropharia hornemannii has a slimy, yellowish to brown cap and a shaggy stem below a skirt-like ring, and grows in woodland rather than garden mulch. Agaricus species may also have a ring and a stout white stem, but their gills start pink and become chocolate-brown, and they lack purple-black gills and a cogwheel ring. The goliath webcap (Cortinarius praestans) is a much larger, stout woodland webcap with a cobweb veil, rusty-brown gills and no membranous cogwheel ring.",
+      "notes": "The distinctive field marks are the wine-red to fading tan cap, the thick white double ring with a cogwheel underside, the purple-brown to almost black gills with paler edges, and the white rhizomorphs at the base of a stout white stem, typically in wood-chip mulch or straw.",
+      "names": [
+        "Wine-cap Stropharia",
+        "Wine-red Stropharia",
+        "King Stropharia",
+        "Garden Giant",
+        "Wine Cap"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=145219",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=145219",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=145219",
+        "https://www.gbif.org/species/2533347",
+        "https://www.first-nature.com/fungi/stropharia-rugosoannulata.php",
+        "https://www.myko.cz/myko-atlas/Stropharia-rugosoannulata/",
+        "https://de.wikipedia.org/wiki/Riesen-Tr%C3%A4uschling",
+        "https://en.wikipedia.org/wiki/Stropharia_rugosoannulata",
+        "https://www.inaturalist.org/taxa/119151",
+        "https://www.wikidata.org/wiki/Q1236980"
+      ],
+      "label": "Wine Roundhead"
+    },
+    "es": {
+      "description": "Agarical saprótrofo de acolchados de astillas de madera, paja, parques y jardines, ampliamente cultivado y que aparece a menudo en hábitats similares en Europa, América del Norte y otras regiones. El sombrero es grande, de color rojo vinoso a burdeos en los ejemplares jóvenes, que palidece a ante o pardo amarillento, seco a ligeramente viscoso y a menudo un poco ondulado en el margen. Las láminas son al principio de un gris lila, luego pardo púrpura a casi negras, con aristas más pálidas o blancas. El pie es robusto y blanco, con un anillo doble, grueso, persistente y vuelto hacia arriba, cuya cara inferior está dividida en segmentos radiados a modo de rueda dentada; la cara superior del anillo suele estar cubierta de esporas de un púrpura-negro oscuro. Del pie salen rizomorfos blancos que recorren las astillas. No hay volva. Los cuerpos fructíferos aparecen de mayo a noviembre, a menudo en grupos.",
+      "cap": "El sombrero mide 4–15 cm de diámetro (excepcionalmente más). Es al principio hemisférico o convexo, luego ampliamente aplanado, a veces un poco umbonado, y a menudo ondulado o irregular en el margen. La superficie es lisa a finamente fibrillosa, seca a ligeramente viscosa, de color rojo vinoso, burdeos o pardo rojizo en fresco, y palidece con la edad o en tiempo seco a ante, ocre o pardo amarillento. Los sombreros jóvenes pueden llevar restos blanquecinos de velo en el margen.",
+      "hymenium": "Las láminas son apretadas, adnatas o ligeramente escotadas en el pie, al principio de un gris lila o de un color arcilla pálido, luego de un pardo púrpura oscuro a casi negras. Las aristas de las láminas son más pálidas o blancas. Hay láminas más cortas (lamélulas).",
+      "stipe": "El pie mide 6–20 cm de alto y 0,9–3,0 cm de grosor, es robusto, cilíndrico o ligeramente claviforme en la base, blanco a crema y a menudo finamente fibrilloso. Lleva un anillo doble, grueso, blanco, persistente y vuelto hacia arriba; la cara inferior del anillo está dividida en segmentos radiados a modo de rueda dentada, y la cara superior suele estar cubierta de esporas de un púrpura-negro oscuro. De la base salen cordones miceliares blancos (rizomorfos) hacia las astillas o la paja. No hay volva.",
+      "flesh": "La carne es gruesa, firme y blanca en el sombrero y el pie; el pie se vuelve un poco hueco con la edad. El olor es suave, a veces ligeramente rabanoso o terroso; el sabor es suave y agradable.",
+      "sporePrint": "La esporada es de un pardo púrpura oscuro a casi negra. Las esporas son lisas, elipsoides, de unos 10–15 × 6–9 µm.",
+      "habitat": "Saprótrofo de suelos ricos en nutrientes, a menudo removidos: acolchado de astillas de madera y de corteza, paja, compost, arriates, parques y restos leñosos semejantes. Los cuerpos fructíferos aparecen por lo general en grupos de mayo a noviembre. En Europa Central suele haber una pausa estival entre una tanda primaveral y otra otoñal. La especie se cultiva ampliamente sobre paja o astillas y aparece con frecuencia en jardines y parques.",
+      "uses": "Es comestible y se cultiva ampliamente, y se considera en general un buen hongo de mesa. Como muchos hongos, puede acumular metales pesados en suelos contaminados, y no deben comerse los cuerpos fructíferos procedentes de un acolchado de parque contaminado o muy transitado. También se han descrito intolerancias individuales ocasionales. Solo deben usarse recolecciones bien identificadas y limpias.",
+      "confusion": "Los caracteres más seguros son el gran sombrero rojo vinoso, el grueso anillo doble blanco en forma de rueda dentada, las láminas púrpura-negras con aristas más pálidas y los rizomorfos blancos de la base en las astillas o la paja. El hongo sombrero rojo (Leratiomyces ceres) crece en los mismos hábitats de astillas, pero es mucho más pequeño, con un sombrero de un naranja-rojo vivo, un pie más delgado y un anillo más débil. Stropharia hornemannii tiene un sombrero viscoso, amarillento a pardo, y un pie escamoso bajo un anillo en faldilla, y crece en el bosque, no en el acolchado de jardín. Las especies del género Agaricus pueden tener también un anillo y un pie blanco robusto, pero sus láminas empiezan rosadas y pasan a pardo chocolate, y carecen de láminas púrpura-negras y de un anillo en rueda dentada. El cortinario grande (Cortinarius praestans) es un cortinario forestal mucho más grande y robusto, con un velo aracnoide, láminas de un pardo herrumbre y sin anillo membranoso en rueda dentada.",
+      "notes": "Los caracteres de campo distintivos son el sombrero rojo vinoso que palidece a ante, el grueso anillo doble blanco con la cara inferior en rueda dentada, las láminas pardo púrpura a casi negras con aristas más pálidas, y los rizomorfos blancos en la base de un pie blanco robusto, por lo general en un acolchado de astillas o sobre paja.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Saprotroofne eoslehtedega seen puiduhakkel, õlgedel, parkides ja aedades, mida kasvatatakse laialdaselt ja mis ilmub sageli sarnastel kasvukohtadel Euroopas, Põhja-Ameerikas ja mujal. Kübar on suur, noorelt veinipunane kuni burgundipunane, hiljem tuhmub ooker- või kollakaspruuniks, kuiv kuni kergelt kleepuv ja servast sageli veidi laineline. Eoslehed on algul hallikaslillad, hiljem purpurpruunid kuni peaaegu mustad, heledama või valge servaga. Jalg on jäme ja valge, paksu, püsiva, ülespoole pööratud kaksikvõruga, mille alakülg on jagunenud kiirjateks, hammasratast meenutavateks osadeks; võru ülakülg on sageli tume purpursmustade eostega tolmunud. Aluselt kulgevad valged risomorfid hakke sisse. Volva puudub. Viljakehad ilmuvad maist novembrini, sageli rühmadena.",
+      "cap": "Kübar on 4–15 cm lai (erandlikult suurem). Ta on algul poolkerajas või kumer, hiljem laialt lapik, vahel nõrgalt kühmuga, ja servast sageli laineline või ebaühtlane. Pind on sile kuni peenekiuline, kuiv kuni kergelt kleepuv, värskelt veinipunane, burgundipunane või punakaspruun, ning tuhmub vananedes või kuiva ilmaga ookriks, tani- või kollakaspruuniks. Noortel kübaratel võib servas olla valkjaid loori jääke.",
+      "hymenium": "Eoslehed on tihedad, jalale kinnitunud või nõrgalt sisselõikunud, algul hallikaslillad või kahvatult savivärvi, hiljem tumedalt purpurpruunid kuni peaaegu mustad. Eoslehtede serv on heledam või valge. Lühemaid eoslehti (lamelluleid) on olemas.",
+      "stipe": "Jalg on 6–20 cm kõrge ja 0,9–3,0 cm paks, jäme, silinderjas või alusel nõrgalt nuiakujuline, valge kuni kreemjas ja sageli peenekiuline. Tal on paks, valge, püsiv, ülespoole pööratud kaksikvõru; võru alakülg on jagunenud kiirjateks, hammasratast meenutavateks osadeks ja ülakülg on sageli tume purpursmustade eostega tolmunud. Aluselt kasvavad valged seeneniidistikunöörid (risomorfid) puiduhakkesse või õlgedesse. Volva puudub.",
+      "flesh": "Seeneliha on kübaras ja jalas paks, kindel ja valge; jalg muutub vananedes veidi õõnsaks. Lõhn on leebe, vahel veidi rediselaadne või muldane; maitse on leebe ja meeldiv.",
+      "sporePrint": "Eosetolm on tume purpurpruun kuni peaaegu must. Eosed on siledad, ellipsoidsed, umbes 10–15 × 6–9 µm.",
+      "habitat": "Saprotroof toiterikkal, sageli häiritud pinnasel: puidu- ja koorehakke, õled, kompost, peenrad, pargid ja sarnased puidujäätmed. Viljakehad ilmuvad tavaliselt rühmadena maist novembrini. Kesk-Euroopas on kevadise ja sügisese lainete vahel sageli suvine paus. Liiki kasvatatakse laialdaselt õlgedel või puiduhakkel ning ta ilmub sageli aedadesse ja parkidesse.",
+      "uses": "Ta on söödav ja laialdaselt kasvatatud ning teda peetakse üldiselt heaks söögiseeneks. Nagu paljud seened võib ta saastunud pinnases koguda raskemetalle, ja saastunud või tiheda liiklusega pargihakke viljakehi ei tohiks süüa. Teatatud on ka juhuslikust individuaalsest talumatusest. Kasutada tuleks ainult hästi määratud, puhtaid korjeid.",
+      "confusion": "Kindlaimad tunnused on suur veinipunane kübar, paks valge, hammasratast meenutav kaksikvõru, purpursmustad eoslehed heledama servaga ja valged risomorfid alusel puiduhakkes või õlgedel. Leratiomyces ceres kasvab samadel puiduhakke kasvukohtadel, kuid on palju väiksem, ereoranžpunase kübaraga, peenema jalaga ja nõrgema võruga. Stropharia hornemannii-l on limane, kollakas kuni pruun kübar ja seelikulaadse võru all soomuseline jalg, ning ta kasvab metsas, mitte aiakattel. Perekonna Agaricus liikidel võib samuti olla võru ja jäme valge jalg, kuid nende eoslehed algavad roosadena ja muutuvad šokolaadipruuniks ning neil puuduvad purpursmustad eoslehed ja hammasratast meenutav võru. Hiidvöödik (Cortinarius praestans) on tunduvalt suurem, jässakas metsavöödik ämblikuvõrgulaadse looriga, roostepunaste eoslehtedega ja ilma kileja, hammasratast meenutava võruta.",
+      "notes": "Iseloomulikud tunnused on veinipunane, hiljem taniks tuhmuv kübar, paks valge kaksikvõru hammasratast meenutava alaküljega, purpurpruunid kuni peaaegu mustad eoslehed heledama servaga ja valged risomorfid jämeda valge jala alusel, tüüpiliselt puiduhakkel või õlgedel.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "hiidvärvik"
+    },
+    "fa": {
+      "description": "قارچ تیغه‌ای ساپروتروف خاک‌پوشه تراشه چوب، کاه، پارک‌ها و باغ‌ها که به‌طور گسترده کشت می‌شود و اغلب در زیستگاه‌های مشابه در اروپا، آمریکای شمالی و جاهای دیگر ظاهر می‌شود. کلاهک بزرگ است، در جوانی سرخِ شرابی تا بورگوندی، سپس به قهوه‌ای مایل به زرد کم‌رنگ می‌شود، خشک تا کمی چسبناک و در حاشیه اغلب کمی موج‌دار. تیغه‌ها نخست خاکستری‌یاسی‌اند، سپس قهوه‌ای‌ارغوانی تا تقریباً سیاه، با لبه روشن‌تر یا سفید. ساقه ستبر و سفید است، با حلقه دوتایی ضخیم، پایدار و برگشته به بالا که روی زیرین آن به بخش‌های شعاعی شبیه چرخ‌دنده تقسیم شده است؛ روی بالایی حلقه اغلب با هاگ‌های ارغوانی‌سیاه تیره پوشیده است. از پایه ریخت‌ریشه‌های سفید در تراشه‌ها می‌روند. ولو وجود ندارد. اندام‌های بارده از مه تا نوامبر ظاهر می‌شوند، اغلب به‌صورت گروهی.",
+      "cap": "کلاهک ۴–۱۵ cm پهنا دارد (به‌ندرت بزرگ‌تر). نخست نیم‌کره‌ای یا محدب است، سپس به‌طور گسترده پهن می‌شود، گاهی کمی برآمده، و در حاشیه اغلب موج‌دار یا نامنظم است. سطح صاف تا ریزرشته‌ای، خشک تا کمی چسبناک است، تازه سرخِ شرابی، بورگوندی یا قهوه‌ای مایل به سرخ، و با سن یا در هوای خشک به نخودی، اخرایی یا قهوه‌ای مایل به زرد کم‌رنگ می‌شود. کلاهک‌های جوان ممکن است در حاشیه بقایای سفیدپوش پرده داشته باشند.",
+      "hymenium": "تیغه‌ها متراکم‌اند، به ساقه چسبیده‌اند یا کمی بریده‌اند، نخست خاکستری‌یاسی یا به رنگ رس کم‌رنگ، سپس قهوه‌ای‌ارغوانی تیره تا تقریباً سیاه. لبه تیغه‌ها روشن‌تر یا سفید است. تیغه‌های کوتاه‌تر (لاملول) وجود دارند.",
+      "stipe": "ساقه ۶–۲۰ cm بلندا و ۰.۹–۳.۰ cm ستبرا دارد، ستبر، استوانه‌ای یا در پایه کمی چماقی، سفید تا کرم و اغلب ریزرشته‌ای است. حلقه دوتایی ضخیم، سفید، پایدار و برگشته به بالا دارد؛ روی زیرین حلقه به بخش‌های شعاعی شبیه چرخ‌دنده تقسیم شده و روی بالایی اغلب با هاگ‌های ارغوانی‌سیاه تیره پوشیده است. از پایه طناب‌های میسلیومی سفید (ریخت‌ریشه‌ها) به تراشه چوب یا کاه می‌روند. ولو وجود ندارد.",
+      "flesh": "گوشت در کلاهک و ساقه ضخیم، سفت و سفید است؛ ساقه با سن کمی توخالی می‌شود. بو ملایم است، گاهی کمی شبیه ترب یا خاکی؛ طعم ملایم و خوشایند است.",
+      "sporePrint": "نقش هاگ قهوه‌ای‌ارغوانی تیره تا تقریباً سیاه است. هاگ‌ها صاف و بیضوی‌اند، حدود ۱۰–۱۵ × ۶–۹ µm.",
+      "habitat": "ساپروتروف خاک‌های غنی از مواد غذایی، اغلب آشفته: خاک‌پوشه تراشه چوب و پوست، کاه، کمپوست، کرت‌ها، پارک‌ها و باقیمانده‌های چوبی مشابه. اندام‌های بارده معمولاً از مه تا نوامبر به‌صورت گروهی ظاهر می‌شوند. در اروپای مرکزی اغلب میان موج بهاری و پاییزی وقفه‌ای تابستانی هست. این گونه به‌طور گسترده روی کاه یا تراشه چوب کشت می‌شود و اغلب در باغ‌ها و پارک‌ها ظاهر می‌شود.",
+      "uses": "خوراکی است و به‌طور گسترده کشت می‌شود و معمولاً قارچ سفره خوبی به‌شمار می‌رود. مانند بسیاری از قارچ‌ها ممکن است در خاک آلوده فلزات سنگین انباشته کند و اندام‌های بارده خاک‌پوشه پارک آلوده یا پررفت‌وآمد را نباید خورد. ناسازگاری فردی گاه‌به‌گاه نیز گزارش شده است. فقط برداشت‌های به‌خوبی شناسایی‌شده و پاک باید به کار روند.",
+      "confusion": "مطمئن‌ترین نشانه‌ها کلاهک بزرگ سرخِ شرابی، حلقه دوتایی سفید ضخیم شبیه چرخ‌دنده، تیغه‌های ارغوانی‌سیاه با لبه روشن‌تر، و ریخت‌ریشه‌های سفید در پایه در تراشه یا کاه هستند. Leratiomyces ceres در همان زیستگاه‌های تراشه چوب می‌روید، اما بسیار کوچک‌تر است، با کلاهک نارنجی‌سرخ درخشان، ساقه باریک‌تر و حلقه ضعیف‌تر. Stropharia hornemannii کلاهکی لزج، مایل به زرد تا قهوه‌ای، و زیر حلقه‌ای دامن‌مانند ساقه‌ای پولکی دارد و در جنگل می‌روید، نه روی خاک‌پوشه باغ. گونه‌های سرده Agaricus نیز ممکن است حلقه و ساقه سفید ستبر داشته باشند، اما تیغه‌هایشان از صورتی آغاز می‌شود و قهوه‌ای شکلاتی می‌شود و تیغه ارغوانی‌سیاه و حلقه شبیه چرخ‌دنده ندارند. Cortinarius praestans کورتنار جنگلی بسیار بزرگ‌تر و ستبری است با پرده تارعنکبوتی، تیغه‌های قهوه‌ای زنگاری و بدون حلقه غشایی شبیه چرخ‌دنده.",
+      "notes": "نشانه‌های میدانی مشخص کلاهک سرخِ شرابی است که به نخودی کم‌رنگ می‌شود، حلقه دوتایی سفید ضخیم با روی زیرین شبیه چرخ‌دنده، تیغه‌های قهوه‌ای‌ارغوانی تا تقریباً سیاه با لبه روشن‌تر، و ریخت‌ریشه‌های سفید در پایه ساقه سفید ستبر، معمولاً در خاک‌پوشه تراشه چوب یا روی کاه.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Lahottajahelttasieni puuhakkeella, oljella, puistoissa ja puutarhoissa; sitä viljellään laajalti, ja se ilmestyy usein samanlaisille kasvupaikoille Euroopassa, Pohjois-Amerikassa ja muualla. Lakki on kookas, nuorena viininpunainen tai burgundinpunainen, myöhemmin haalistuva kellanruskeaksi, kuiva tai hieman tahmea ja reunaltaan usein hieman aaltoileva. Heltat ovat aluksi harmaanlilat, myöhemmin purppuranruskeat tai lähes mustat, vaaleammalla tai valkoisella terällä. Jalka on tanakka ja valkoinen, ja siinä on paksu, kestävä, ylöspäin kääntynyt kaksinkertainen rengas, jonka alapinta jakautuu säteittäisiksi, hammasratasta muistuttaviksi lohkoiksi; renkaan yläpinta on usein tumman purppuranmustan itiöpölyn peittämä. Tyvestä kulkee valkoisia rihmastojänteitä hakkeeseen. Tuppea ei ole. Itiöemät ilmestyvät toukokuusta marraskuuhun, usein ryhminä.",
+      "cap": "Lakki on 4–15 cm leveä (poikkeuksellisesti suurempi). Se on aluksi puolipallomainen tai kupera, myöhemmin laajasti laakeneva, toisinaan hieman kohokas, ja reunaltaan usein aaltoileva tai epäsäännöllinen. Pinta on sileä tai hienokuituinen, kuiva tai hieman tahmea, tuoreena viininpunainen, burgundinpunainen tai punaruskea, ja haalistuu iän myötä tai kuivalla säällä okran, tanin tai kellanruskeaksi. Nuorilla lakeilla voi olla reunalla valkeita suojusjäänteitä.",
+      "hymenium": "Heltat ovat tiheitä, jalkaan kiinnittyneitä tai hieman loviutuneita, aluksi harmaanlilat tai vaalean savenväriset, myöhemmin tumman purppuranruskeat tai lähes mustat. Heltan terä on vaaleampi tai valkoinen. Lyhyempiä heltoja (lamelluleja) on.",
+      "stipe": "Jalka on 6–20 cm korkea ja 0,9–3,0 cm paksu, tanakka, lieriömäinen tai tyvestä hieman nuijamainen, valkoinen tai kermanvärinen ja usein hienokuituinen. Siinä on paksu, valkoinen, kestävä, ylöspäin kääntynyt kaksinkertainen rengas; renkaan alapinta jakautuu säteittäisiksi, hammasratasta muistuttaviksi lohkoiksi, ja yläpinta on usein tumman purppuranmustan itiöpölyn peittämä. Tyvestä kasvaa valkoisia rihmastojänteitä (rhizomorfeja) puuhakkeeseen tai olkeen. Tuppea ei ole.",
+      "flesh": "Malto on lakissa ja jalassa paksua, kiinteää ja valkoista; jalka ontoutuu iän myötä hieman. Tuoksu on mieto, toisinaan hieman retiisimäinen tai maamainen; maku on mieto ja miellyttävä.",
+      "sporePrint": "Itiöpöly on tumman purppuranruskeaa tai lähes mustaa. Itiöt ovat sileitä, elliptisiä, noin 10–15 × 6–9 µm.",
+      "habitat": "Lahottaja ravinteikkaalla, usein häirityllä maalla: puu- ja kaarnahake, olki, komposti, penkit, puistot ja vastaavat puujätteet. Itiöemät ilmestyvät tavallisesti ryhminä toukokuusta marraskuuhun. Keski-Euroopassa kevät- ja syysadannan välillä on usein kesätauko. Lajia viljellään laajalti oljella tai puuhakkeella, ja se ilmestyy usein puutarhoihin ja puistoihin.",
+      "uses": "Se on syötävä ja laajalti viljelty, ja sitä pidetään yleisesti hyvänä ruokasienenä. Kuten monet sienet se voi saastuneessa maassa kerätä raskasmetalleja, eikä saastuneelta tai vilkkaasti liikennöidyltä puistokatteilta kerättyjä itiöemiä pidä syödä. Satunnaista yksilöllistä intoleranssia on myös ilmoitettu. Käyttää saa vain hyvin määritettyjä, puhtaita keräyksiä.",
+      "confusion": "Varmimmat tuntomerkit ovat kookas viininpunainen lakki, paksu valkoinen, hammasratasta muistuttava kaksinkertainen rengas, purppuranmustat helttojen vaaleammat terät ja valkoiset rihmastojänteet tyvellä puuhakkeessa tai oljella. Leratiomyces ceres kasvaa samoilla puuhakkeen kasvupaikoilla, mutta on paljon pienempi, kirkkaan oranssinpunaisella lakilla, ohuemmalla jalalla ja heikommalla renkaalla. Stropharia hornemannii:lla on limainen, kellertävä tai ruskea lakki ja hameenomaisen renkaan alla suomuinen jalka, ja se kasvaa metsässä, ei puutarhakatteella. Suvun Agaricus lajeilla voi myös olla rengas ja tanakka valkoinen jalka, mutta niiden helttojen väri alkaa vaaleanpunaisena ja muuttuu suklaanruskeaksi, eikä niillä ole purppuranmustia heltoja eikä hammasratasta muistuttavaa rengasta. Jättiseitikki (Cortinarius praestans) on huomattavasti kookkaampi, tanakka metsän seitikki, jolla on hämähäkinseittimäinen suojus, ruosteenruskeat helttoja ja ei kalvomaista, hammasratasta muistuttavaa rengasta.",
+      "notes": "Tunnusomaiset tuntomerkit ovat viininpunainen, myöhemmin taniksi haalistuva lakki, paksu valkoinen kaksinkertainen rengas hammasratasta muistuttavine alapintoineen, purppuranruskeat tai lähes mustat helttojen vaaleammat terät ja valkoiset rihmastojänteet tanakan valkoisen jalan tyvellä, tyypillisesti puuhakkeella tai oljella.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347"
+      ],
+      "label": "viljelykaulussieni"
+    },
+    "fr": {
+      "description": "Agaric saprotrophe des mulchs de copeaux de bois, de la paille, des parcs et des jardins, largement cultivé et apparaissant souvent dans des habitats semblables en Europe, en Amérique du Nord et ailleurs. Le chapeau est grand, rouge vineux à bordeaux chez le jeune, passant ensuite au fauve ou au brun jaunâtre, sec à un peu collant, et souvent un peu ondulé à la marge. Les lames sont d’abord gris lilas, puis brun pourpré à presque noires, à arêtes plus pâles ou blanches. Le pied est robuste et blanc, muni d’un anneau double, épais, persistant et relevé vers le haut, dont la face inférieure est divisée en segments rayonnants en roue dentée ; la face supérieure de l’anneau est souvent poudrée de spores d’un pourpre-noir foncé. Des rhizomorphes blancs partent de la base dans les copeaux. Il n’y a pas de volve. Les sporophores apparaissent de mai à novembre, souvent en groupes.",
+      "cap": "Le chapeau mesure 4–15 cm de diamètre (exceptionnellement plus). Il est d’abord hémisphérique ou convexe, puis largement étalé, parfois un peu umboné, et souvent ondulé ou irrégulier à la marge. La surface est lisse à finement fibrilleuse, sèche à un peu collante, rouge vineux, bordeaux ou brun-rouge à l’état frais, et passe avec l’âge ou par temps sec au fauve, à l’ocre ou au brun jaunâtre. Les jeunes chapeaux peuvent porter des restes blanchâtres de voile à la marge.",
+      "hymenium": "Les lames sont serrées, adnées ou un peu échancrées au pied, d’abord gris lilas ou d’un ocre pâle, plus tard d’un brun pourpré foncé à presque noires. Les arêtes des lames sont plus pâles ou blanches. Des lames plus courtes (lamellules) sont présentes.",
+      "stipe": "Le pied mesure 6–20 cm de haut et 0,9–3,0 cm d’épaisseur, robuste, cylindrique ou un peu en massue à la base, blanc à crème, souvent finement fibrilleux. Il porte un anneau double, épais, blanc, persistant et relevé vers le haut ; la face inférieure de l’anneau est divisée en segments rayonnants en roue dentée, et la face supérieure est souvent poudrée de spores d’un pourpre-noir foncé. Des cordons mycéliens blancs (rhizomorphes) partent de la base dans les copeaux de bois ou la paille. Il n’y a pas de volve.",
+      "flesh": "La chair est épaisse, ferme et blanche dans le chapeau et le pied ; le pied devient un peu creux avec l’âge. L’odeur est faible, parfois un peu raphanoïde ou terreuse ; la saveur est douce et agréable.",
+      "sporePrint": "La sporée est d’un brun pourpré foncé à presque noire. Les spores sont lisses, ellipsoïdes, d’environ 10–15 × 6–9 µm.",
+      "habitat": "Saprotrophe des sols riches, souvent remués : mulch de copeaux de bois et d’écorce, paille, compost, plates-bandes, parcs et débris ligneux semblables. Les sporophores apparaissent généralement en groupes de mai à novembre. En Europe centrale, une pause estivale sépare souvent une poussée de printemps d’une poussée d’automne. L’espèce est largement cultivée sur paille ou copeaux de bois et apparaît fréquemment dans les jardins et les parcs.",
+      "uses": "Il est comestible et largement cultivé, et généralement regardé comme un bon champignon de table. Comme beaucoup de champignons, il peut accumuler des métaux lourds dans un sol contaminé, et les sporophores provenant d’un mulch de parc pollué ou très fréquenté ne doivent pas être consommés. Des intolérances individuelles occasionnelles ont également été signalées. Seules des récoltes bien identifiées et propres doivent être utilisées.",
+      "confusion": "Les caractères les plus sûrs sont le grand chapeau rouge vineux, l’épais anneau double blanc en roue dentée, les lames d’un pourpre-noir à arêtes plus pâles, et les rhizomorphes blancs à la base dans les copeaux ou la paille. La strophaire orangée (Leratiomyces ceres) pousse dans les mêmes habitats de copeaux, mais elle est beaucoup plus petite, à chapeau d’un rouge-orangé vif, pied plus grêle et anneau plus faible. Stropharia hornemannii a un chapeau visqueux, jaunâtre à brun, et un pied squameux sous un anneau en jupe, et pousse en forêt plutôt que dans le mulch de jardin. Les espèces du genre Agaricus peuvent aussi avoir un anneau et un pied blanc robuste, mais leurs lames commencent roses et deviennent brun chocolat, et elles n’ont ni lames pourpre-noir ni anneau en roue dentée. Le cortinaire remarquable (Cortinarius praestans) est un cortinaire forestier beaucoup plus grand et robuste, à voile arachnoïde, lames d’un brun rouille et sans anneau membraneux en roue dentée.",
+      "notes": "Les caractères de terrain distinctifs sont le chapeau rouge vineux devenant fauve, l’épais anneau double blanc à face inférieure en roue dentée, les lames brun pourpré à presque noires à arêtes plus pâles, et les rhizomorphes blancs à la base d’un pied blanc robuste, typiquement dans un mulch de copeaux ou sur paille.",
+      "names": [
+        "Strophaire à anneau rugueux"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "Cèpe de paille"
+    },
+    "he": {
+      "description": "פטריית דפים ספרוטרופית של שבבי עץ, קש, פארקים וגנים, המגודלת בהרחבה ומופיעה לעיתים קרובות בבתי גידול דומים באירופה, בצפון אמריקה ובמקומות אחרים. הכובע גדול, אדום-ייני עד בורדו בצעירים, אחר כך דוהה לחום-צהבהב, יבש עד מעט דביק ולעיתים קרובות מעט גלי בשוליים. הדפים בהתחלה אפורים-לילך, אחר כך חומים-ארגמניים עד כמעט שחורים, עם שוליים בהירים יותר או לבנים. הרגל עבה ולבנה, עם טבעת כפולה עבה, מתמידה ומופשלת כלפי מעלה, שצידה התחתון מחולק לקטעים קורנים דמויי גלגל שיניים; צידה העליון של הטבעת מכוסה לעיתים קרובות באבקת נבגים ארגמנית-שחורה כהה. מבסיס הרגל נמשכים ריזומורפים לבנים בשבבים. אין נרתיק (וולווה). גופי הפרי מופיעים ממאי עד נובמבר, לעיתים קרובות בקבוצות.",
+      "cap": "הכובע ברוחב 4–15 cm (לעיתים גדול יותר). הוא בהתחלה חצי-כדורי או קמור, אחר כך שטוח לרוחב, לפעמים מעט גבנוני, ולעיתים קרובות גלי או בלתי סדיר בשוליים. המשטח חלק עד סיבי דק, יבש עד מעט דביק, טרי אדום-ייני, בורדו או חום-אדמדם, ודוהה עם הגיל או במזג אוויר יבש לחוּם בהיר, אוכרה או חום-צהבהב. לכובעים צעירים עשויים להיות שאריות מעטפת לבנבנות בשוליים.",
+      "hymenium": "הדפים צפופים, מחוברים לרגל או מעט חתוכים, בהתחלה אפורים-לילך או בצבע חרסית חיוור, אחר כך חומים-ארגמניים כהים עד כמעט שחורים. שולי הדפים בהירים יותר או לבנים. יש דפים קצרים יותר (למלולות).",
+      "stipe": "הרגל בגובה 6–20 cm ובעובי 0.9–3.0 cm, חסונה, גלילית או מעט דמוית אלה בבסיס, לבנה עד קרם ולעיתים קרובות סיבית דקה. היא נושאת טבעת כפולה עבה, לבנה, מתמידה ומופשלת כלפי מעלה; הצד התחתון של הטבעת מחולק לקטעים קורנים דמויי גלגל שיניים, והצד העליון מכוסה לעיתים קרובות באבקת נבגים ארגמנית-שחורה כהה. מבסיס הרגל גדלים מיתרי תפטיר לבנים (ריזומורפים) לתוך שבבי העץ או הקש. אין נרתיק.",
+      "flesh": "הבשר בכובע וברגל עבה, מוצק ולבן; הרגל נעשית מעט חלולה עם הגיל. הריח עדין, לפעמים מעט דמוי צנון או אדמתי; הטעם עדין ונעים.",
+      "sporePrint": "הדפס הנבגים חום-ארגמני כהה עד כמעט שחור. הנבגים חלקים, אליפסואידיים, בערך 10–15 × 6–9 µm.",
+      "habitat": "ספרוטרוף של קרקעות עשירות בחומרי הזנה, לעיתים קרובות מופרעות: שבבי עץ וקליפה, קש, קומפוסט, ערוגות, פארקים ושרידים עציים דומים. גופי הפרי מופיעים בדרך כלל בקבוצות ממאי עד נובמבר. במרכז אירופה יש לעיתים קרובות הפסקה בקיץ בין גל אביב לגל סתיו. המין מגודל בהרחבה על קש או שבבי עץ ומופיע לעיתים קרובות בגנים ובפארקים.",
+      "uses": "הוא אכיל ומגודל בהרחבה, ונחשב בדרך כלל לפטריית מאכל טובה. כמו פטריות רבות הוא יכול לצבור מתכות כבדות בקרקע מזוהמת, ואין לאכול גופי פרי מכיסוי פארק מזוהם או סואן. דווחה גם אי-סבילות אישית מזדמנת. יש להשתמש רק באוספים שזוהו היטב ונקיים.",
+      "confusion": "הסימנים הבטוחים ביותר הם הכובע האדום-ייני הגדול, הטבעת הכפולה הלבנה העבה דמוית גלגל השיניים, הדפים הארגמניים-שחורים עם שוליים בהירים יותר, והריזומורפים הלבנים בבסיס בשבבים או בקש. Leratiomyces ceres גדל באותם בתי גידול של שבבי עץ, אך הוא קטן בהרבה, עם כובע כתום-אדום בהיר, רגל דקה יותר וטבעת חלשה יותר. ל-Stropharia hornemannii כובע רירי, צהבהב עד חום, ורגל קשקשית מתחת לטבעת דמוית סינר, והוא גדל ביער ולא בכיסוי גן. למיני הסוג Agaricus עשויים להיות גם טבעת ורגל לבנה חסונה, אך הדפים שלהם מתחילים ורודים והופכים לחום שוקולד, ואין להם דפים ארגמניים-שחורים ולא טבעת דמוית גלגל שיניים. Cortinarius praestans הוא כפתור יער גדול וחסונה הרבה יותר, עם מעטפת קורית, דפים חום-חלודה וללא טבעת קרומית דמוית גלגל שיניים.",
+      "notes": "סימני השדה האופייניים הם הכובע האדום-ייני הדוהה לחוּם בהיר, הטבעת הכפולה הלבנה העבה שצידה התחתון דמוי גלגל שיניים, הדפים החומים-ארגמניים עד כמעט שחורים עם שוליים בהירים יותר, והריזומורפים הלבנים בבסיס רגל לבנה חסונה, בדרך כלל בשבבי עץ או על קש.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "लकड़ी के चिप्स, पुआल, उद्यानों और बगीचों का एक सैप्रोट्रॉफिक गिल्स कवक, जो व्यापक रूप से उगाया जाता है और यूरोप, उत्तर अमेरिका तथा अन्य स्थानों में इसी तरह के प्राकृतिक वासों में अक्सर दिखाई देता है। टोपी बड़ी होती है, युवा अवस्था में मदिरा-लाल से बरगंडी तक, बाद में पीले-भूरे रंग तक फीकी पड़ती है, सूखी से थोड़ी चिपचिपी और किनारे पर अक्सर थोड़ी लहरदार। गिल्स पहले धूसर-बैंजनी होती हैं, फिर बैंगनी-भूरी से लगभग काली तक, अधिक हल्के या सफेद किनारे के साथ। डंठल मोटा और सफेद होता है, जिस पर एक मोटी, स्थायी, ऊपर की ओर मुड़ी दोहरी वलय होती है, जिसका निचला तल अरीय, दंतचक्र-सदृश खंडों में बँटा होता है; वलय का ऊपरी तल अक्सर गहरे बैंगनी-काले बीजाणु चूर्ण से ढका होता है। आधार से चिप्स में सफेद राइजोमॉर्फ़ चलते हैं। वोल्वा नहीं होता। फलन-काय मई से नवंबर तक दिखाई देते हैं, अक्सर समूहों में।",
+      "cap": "टोपी 4–15 cm चौड़ी होती है (अपवादस्वरूप बड़ी)। यह पहले अर्धगोलाकार या उत्तल होती है, फिर व्यापक रूप से चपटी, कभी-कभी थोड़ी उभरी, और किनारे पर अक्सर लहरदार या अनियमित। सतह चिकनी से महीन रेशेदार, सूखी से थोड़ी चिपचिपी होती है, ताज़ी मदिरा-लाल, बरगंडी या लाल-भूरी, और उम्र या शुष्क मौसम में फीकी, गेरुआ या पीली-भूरी हो जाती है। युवा टोपियों के किनारे पर सफेदी लिए परदे के अवशेष हो सकते हैं।",
+      "hymenium": "गिल्स घनी होती हैं, डंठल से जुड़ी या थोड़ी कटी हुई, पहले धूसर-बैंजनी या हल्के मिट्टी रंग की, बाद में गहरी बैंगनी-भूरी से लगभग काली। गिल्स का किनारा अधिक हल्का या सफेद होता है। छोटी गिल्स (लैमेल्यूल) भी होती हैं।",
+      "stipe": "डंठल 6–20 cm ऊँचा और 0.9–3.0 cm मोटा होता है, मजबूत, बेलनाकार या आधार पर थोड़ा गदाकार, सफेद से क्रीम और अक्सर महीन रेशेदार। इसमें एक मोटी, सफेद, स्थायी, ऊपर की ओर मुड़ी दोहरी वलय होती है; वलय का निचला तल अरीय, दंतचक्र-सदृश खंडों में बँटा होता है, और ऊपरी तल अक्सर गहरे बैंगनी-काले बीजाणु चूर्ण से ढका होता है। आधार से लकड़ी के चिप्स या पुआल में सफेद कवकजाल रस्सियाँ (राइजोमॉर्फ़) बढ़ती हैं। वोल्वा नहीं होता।",
+      "flesh": "गूदा टोपी और डंठल में मोटा, दृढ़ और सफेद होता है; उम्र के साथ डंठल थोड़ा खोखला हो जाता है। गंध हल्की होती है, कभी-कभी थोड़ी मूली जैसी या मिट्टी जैसी; स्वाद हल्का और सुखद होता है।",
+      "sporePrint": "बीजाणु छाप गहरी बैंगनी-भूरी से लगभग काली होती है। बीजाणु चिकने, दीर्घवृत्ताकार होते हैं, लगभग 10–15 × 6–9 µm।",
+      "habitat": "पोषक-समृद्ध, अक्सर विक्षुब्ध भूमि का सैप्रोट्रॉफ़: लकड़ी और छाल के चिप्स, पुआल, खाद, क्यारियाँ, उद्यान और ऐसे ही काष्ठ अवशेष। फलन-काय आमतौर पर मई से नवंबर तक समूहों में दिखाई देते हैं। मध्य यूरोप में वसंत और शरद लहरों के बीच अक्सर ग्रीष्म का विराम होता है। यह प्रजाति पुआल या लकड़ी के चिप्स पर व्यापक रूप से उगाई जाती है और अक्सर बगीचों और उद्यानों में दिखाई देती है।",
+      "uses": "यह खाद्य है और व्यापक रूप से उगाया जाता है, और आम तौर पर एक अच्छा टेबल मशरूम माना जाता है। कई कवकों की तरह यह दूषित मिट्टी में भारी धातुएँ जमा कर सकता है, और दूषित या अधिक आवाजाही वाले उद्यान मल्च के फलन-कायों को नहीं खाना चाहिए। कभी-कभार व्यक्तिगत असहिष्णुता भी बताई गई है। केवल अच्छी तरह पहचाने गए, स्वच्छ संग्रहों का उपयोग करना चाहिए।",
+      "confusion": "सबसे विश्वसनीय लक्षण बड़ी मदिरा-लाल टोपी, मोटी सफेद दंतचक्र-सदृश दोहरी वलय, अधिक हल्के किनारे वाली बैंगनी-काली गिल्स, और चिप्स या पुआल में आधार पर सफेद राइजोमॉर्फ़ हैं। Leratiomyces ceres उन्हीं लकड़ी-चिप्स के प्राकृतिक वासों में उगता है, लेकिन बहुत छोटा होता है, चटकीली नारंगी-लाल टोपी, पतले डंठल और कमजोर वलय के साथ। Stropharia hornemannii की टोपी श्लेष्मी, पीली से भूरी होती है और स्कर्ट जैसी वलय के नीचे शल्कीय डंठल होता है, और यह वन में उगता है, बगीचे के मल्च पर नहीं। Agaricus वंश की प्रजातियों में भी वलय और मोटा सफेद डंठल हो सकता है, लेकिन उनकी गिल्स गुलाबी शुरू होती हैं और चॉकलेट-भूरी हो जाती हैं, और उनमें बैंगनी-काली गिल्स तथा दंतचक्र-सदृश वलय नहीं होते। Cortinarius praestans कहीं बड़ा, मजबूत वन जाल-कवक है, जिसमें मकड़ी के जाले जैसा परदा, जंग-भूरी गिल्स और झिल्लीदार दंतचक्र-सदृश वलय नहीं होता।",
+      "notes": "विशिष्ट क्षेत्र लक्षण मदिरा-लाल टोपी है जो फीकी पड़कर हल्की भूरी हो जाती है, निचले तल पर दंतचक्र-सदृश मोटी सफेद दोहरी वलय, अधिक हल्के किनारे वाली बैंगनी-भूरी से लगभग काली गिल्स, और मोटे सफेद डंठल के आधार पर सफेद राइजोमॉर्फ़, आमतौर पर लकड़ी के चिप्स या पुआल पर।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Saprotrofna listićasta gljiva drvne sječke, slame, parkova i vrtova, široko uzgajana i često se pojavljuje na sličnim staništima u Europi, Sjevernoj Americi i drugdje. Klobuk je velik, u mladosti vinskocrven do burgundski, kasnije blijedi u žućkastosmeđi, suh do blago ljepljiv i na rubu često blago valovit. Listići su isprva sivkastoljubičasti, kasnije purpurnosmeđi do gotovo crni, sa svjetlijim ili bijelim oštricama. Stručak je čvrst i bijel, s debelim, trajnim, prema gore zavijenim dvostrukim prstenom čija je donja strana podijeljena u zrakaste, zupčastom kolu slične segmente; gornja površina prstena često je poprašena tamnopurpurnocrnim sporama. Od baze kroz sječku se pružaju bijele rizomorfe. Volve nema. Plodna tijela pojavljuju se od svibnja do studenoga, često u skupinama.",
+      "cap": "Klobuk ima 4–15 cm u promjeru (iznimno više). Isprva je polukuglast ili konveksan, kasnije široko spljošten, ponekad blago ispupčen, a na rubu često valovit ili nepravilan. Površina je glatka do fino vlaknasta, suha do blago ljepljiva, svježa vinskocrvena, burgundska ili crvenosmeđa, starenjem ili po suhom vremenu blijedi u žućkastu, oker ili žućkastosmeđu. Mladi klobuci mogu na rubu imati bjelkaste ostatke vela.",
+      "hymenium": "Listići su gusti, prirasli na stručak ili blago izrezani, isprva sivkastoljubičasti ili blijedo ilinasti, kasnije tamnopurpurnosmeđi do gotovo crni. Oštrica listića je svjetlija ili bijela. Prisutni su kraći listići (lamelule).",
+      "stipe": "Stručak je visok 6–20 cm i debljine 0,9–3,0 cm, čvrst, valjkast ili pri dnu blago kijačast, bijel do krem i često fino vlaknast. Nosi debeo, bijeli, trajni, prema gore zavijeni dvostruki prsten; donja strana prstena podijeljena je u zrakaste, zupčastom kolu slične segmente, a gornja površina često je poprašena tamnopurpurnocrnim sporama. Od baze u drvnu sječku ili slamu rastu bijele micelijske vrpce (rizomorfe). Volve nema.",
+      "flesh": "Meso je u klobuku i stručku debelo, čvrsto i bijelo; stručak sa starošću postaje blago šupalj. Miris je blag, ponekad slabo rotkvast ili zemljast; okus je blag i ugodan.",
+      "sporePrint": "Otisak spora je tamnopurpurnosmeđ do gotovo crn. Spore su glatke, elipsoidne, oko 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof na hranjivima bogatom, često narušenom tlu: drvna i kora sječka, slama, kompost, gredice, parkovi i slični drvni ostaci. Plodna tijela se obično pojavljuju u skupinama od svibnja do studenoga. U Srednjoj Europi između proljetnog i jesenskog pojavljivanja često postoji ljetna stanka. Vrsta se široko uzgaja na slami ili drvnoj sječki i često se pojavljuje u vrtovima i parkovima.",
+      "uses": "Jestiva je i široko uzgajana te se općenito smatra dobrom jestivom gljivom. Kao i mnoge gljive može u onečišćenom tlu akumulirati teške metale, pa plodna tijela s onečišćenog ili prometnog parkovnog malča ne treba jesti. Zabilježena je i povremena individualna nepodnošljivost. Koristiti treba samo dobro određene, čiste nalaze.",
+      "confusion": "Najpouzdanija obilježja su veliki vinskocrveni klobuk, debeli bijeli dvostruki prsten sličan zupčastom kolu, purpurnocrni listići sa svjetlijom oštricom i bijele rizomorfe pri bazi u drvnoj sječki ili na slami. Leratiomyces ceres raste na istim staništima na drvnoj sječki, ali je znatno manji, s jarko narančastocrvenim klobukom, tanjim stručkom i slabijim prstenom. Stropharia hornemannii ima sluzav, žućkast do smeđi klobuk i čupav stručak ispod suknjastog prstena te raste u šumi, a ne na vrtnom malču. Vrste roda Agaricus također mogu imati prsten i čvrst bijeli stručak, ali njihovi listići počinju ružičasto i prelaze u čokoladnosmeđe, te nemaju purpurnocrne listiće ni prsten sličan zupčastom kolu. Cortinarius praestans je znatno veća, čvrsta šumska koprenka s paučinastom koprenom, hrđavosmeđim listićima i bez kožnatog prstena sličnog zupčastom kolu.",
+      "notes": "Prepoznatljiva obilježja su vinskocrveni do u žućkasto blijedeći klobuk, debeli bijeli dvostruki prsten s donjom stranom sličnom zupčastom kolu, purpurnosmeđi do gotovo crni listići sa svjetlijom oštricom i bijele rizomorfe pri bazi čvrstog bijelog stručka, tipično u drvnoj sječci ili na slami.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Szaprotróf lemezes gomba faháncson, szalmán, parkokban és kertekben, széles körben termesztett, és gyakran megjelenik hasonló élőhelyeken Európában, Észak-Amerikában és máshol. A kalap nagy, fiatalon borvörös vagy burgundi, később fakó vagy sárgásbarna színűre fakul, száraz vagy kissé tapadós, és a szélén gyakran kissé hullámos. A lemezek eleinte szürkéslilák, később bíborbarnák vagy csaknem feketék, világosabb vagy fehér éllel. A tönk vastag és fehér, vastag, tartós, felfelé hajló kettős gyűrűvel, amelynek alsó oldala sugárirányú, fogaskerékre emlékeztető szegmensekre oszlik; a gyűrű felső oldala gyakran sötét bíborfekete spóraporral van behintve. A tövtől fehér rizomorfák futnak a faháncsban. Nincs burokmaradvány (volva). A termőtestek májustól novemberig jelennek meg, gyakran csoportosan.",
+      "cap": "A kalap 4–15 cm széles (kivételesen nagyobb). Eleinte félgömbölyű vagy domború, később szélesen kiterülő, néha gyengén púpos, és a szélén gyakran hullámos vagy szabálytalan. A felület sima vagy finoman szálas, száraz vagy kissé tapadós, frissen borvörös, burgundi vagy vörösesbarna, és korral vagy száraz időben fakóra, okkerre vagy sárgásbarnára fakul. A fiatal kalapok szélén fehéres burokmaradványok lehetnek.",
+      "hymenium": "A lemezek sűrűn állók, a tönkhöz nőttek vagy enyhén kikanyarítottak, eleinte szürkéslilák vagy halvány agyagszínűek, később sötét bíborbarnák vagy csaknem feketék. A lemezek éle világosabb vagy fehér. Rövidebb lemezek (lamellulák) is vannak.",
+      "stipe": "A tönk 6–20 cm magas és 0,9–3,0 cm vastag, zömök, hengeres vagy a tövén kissé bunkós, fehér vagy krémszínű és gyakran finoman szálas. Vastag, fehér, tartós, felfelé hajló kettős gyűrűt visel; a gyűrű alsó oldala sugárirányú, fogaskerékre emlékeztető szegmensekre oszlik, a felső oldal pedig gyakran sötét bíborfekete spóraporral van behintve. A tövtől fehér micéliumzsinórok (rizomorfák) nőnek a faháncsba vagy a szalmába. Nincs volva.",
+      "flesh": "A hús a kalapban és a tönkben vastag, tömör és fehér; a tönk korral kissé üregesedik. A szag enyhe, néha kissé retekre emlékeztető vagy földes; az íz enyhe és kellemes.",
+      "sporePrint": "A spórapor sötét bíborbarna vagy csaknem fekete. A spórák simák, ellipszoidok, körülbelül 10–15 × 6–9 µm.",
+      "habitat": "Szaprotróf tápanyagban gazdag, gyakran bolygatott talajon: fa- és kéregháncs, szalma, komposzt, ágyások, parkok és hasonló fás maradványok. A termőtestek általában csoportosan jelennek meg májustól novemberig. Közép-Európában a tavaszi és őszi hullám között gyakran van nyári szünet. A fajt széles körben termesztik szalmán vagy faháncson, és gyakran megjelenik kertekben és parkokban.",
+      "uses": "Ehető és széles körben termesztett, és általában jó asztali gombának tartják. Mint sok gomba, szennyezett talajban nehézfémeket halmozhat fel, és szennyezett vagy sűrűn látogatott parki mulcsról származó termőtesteket nem szabad enni. Alkalmankénti egyéni intoleranciáról is beszámoltak. Csak jól azonosított, tiszta gyűjtéseket szabad felhasználni.",
+      "confusion": "A legbiztosabb bélyegek a nagy borvörös kalap, a vastag fehér, fogaskerékre emlékeztető kettős gyűrű, a bíborfekete lemezek világosabb éllel és a fehér rizomorfák a tövén a faháncsban vagy a szalmán. A narancsvörös harmatgomba (Leratiomyces ceres) ugyanazokon a faháncsos élőhelyeken nő, de sokkal kisebb, élénk narancsvörös kalappal, vékonyabb tönkkel és gyengébb gyűrűvel. A Stropharia hornemannii nyálkás, sárgás vagy barna kalapú, a szoknyaszerű gyűrű alatt pikkelyes tönkű, és erdőben nő, nem kerti mulcson. Az Agaricus nemzetség fajainak is lehet gyűrűjük és zömök fehér tönkjük, de lemezeik rózsaszínnel kezdődnek és csokoládébarna színűvé válnak, és nincs bíborfekete lemezük, sem fogaskerékre emlékeztető gyűrűjük. Az óriás pókhálósgomba (Cortinarius praestans) sokkal nagyobb, zömök erdei pókhálósgomba pókhálószerű fátyollal, rozsdabarna lemezekkel, és membrános, fogaskerékre emlékeztető gyűrű nélkül.",
+      "notes": "A jellegzetes terepi bélyegek a borvörös, később fakóra fakuló kalap, a vastag fehér kettős gyűrű fogaskerékre emlékeztető alsó oldallal, a bíborbarna vagy csaknem fekete lemezek világosabb éllel, és a fehér rizomorfák a zömök fehér tönk tövén, tipikusan faháncson vagy szalmán.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/%C3%93ri%C3%A1s_harmatgomba",
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "óriás harmatgomba"
+    },
+    "id": {
+      "description": "Jamur lamela saprotrof serpihan kayu, jerami, taman, dan kebun, yang dibudidayakan secara luas dan sering muncul di habitat serupa di Eropa, Amerika Utara, dan tempat lain. Tudungnya besar, merah anggur hingga burgundy ketika muda, kemudian memudar menjadi cokelat kekuningan, kering hingga agak lengket, dan sering agak bergelombang di tepi. Lamela mula-mula abu-abu keunguan, kemudian cokelat keunguan hingga nyaris hitam, dengan tepi lebih pucat atau putih. Tangkainya kekar dan putih, dengan cincin ganda yang tebal, tahan lama, dan terlipat ke atas, yang sisi bawahnya terbagi menjadi ruas-ruas meradiasi seperti roda gigi; sisi atas cincin sering berdebu spora ungu-hitam gelap. Dari pangkal, rizomorf putih merambat di serpihan. Tidak ada volva. Tubuh buah muncul dari Mei hingga November, sering berkelompok.",
+      "cap": "Tudung berdiameter 4–15 cm (luar biasa lebih besar). Mula-mula setengah bola atau cembung, kemudian datar lebar, kadang sedikit berumbun, dan sering bergelombang atau tidak beraturan di tepi. Permukaannya halus hingga berserat halus, kering hingga agak lengket, segar merah anggur, burgundy, atau cokelat kemerahan, dan memudar dengan usia atau cuaca kering menjadi cokelat muda, oker, atau cokelat kekuningan. Tudung muda dapat membawa sisa selubung keputihan di tepi.",
+      "hymenium": "Lamela rapat, melekat pada tangkai atau sedikit berlekuk, mula-mula abu-abu keunguan atau berwarna lempung pucat, kemudian cokelat keunguan gelap hingga nyaris hitam. Tepi lamela lebih pucat atau putih. Ada lamela yang lebih pendek (lamelula).",
+      "stipe": "Tangkai tinggi 6–20 cm dan tebal 0,9–3,0 cm, kekar, silindris atau agak berbentuk gada di pangkal, putih hingga krem, dan sering berserat halus. Ia membawa cincin ganda yang tebal, putih, tahan lama, dan terlipat ke atas; sisi bawah cincin terbagi menjadi ruas-ruas meradiasi seperti roda gigi, dan sisi atas sering berdebu spora ungu-hitam gelap. Dari pangkal, tali miselium putih (rizomorf) tumbuh ke dalam serpihan kayu atau jerami. Tidak ada volva.",
+      "flesh": "Daging pada tudung dan tangkai tebal, padat, dan putih; tangkai menjadi agak berongga seiring usia. Bau lembut, kadang agak seperti lobak atau tanah; rasa lembut dan menyenangkan.",
+      "sporePrint": "Jejak spora cokelat keunguan gelap hingga nyaris hitam. Spora halus, elipsoid, sekitar 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof tanah kaya hara yang sering terganggu: mulsa serpihan kayu dan kulit kayu, jerami, kompos, bedengan, taman, dan sisa berkayu serupa. Tubuh buah biasanya muncul berkelompok dari Mei hingga November. Di Eropa Tengah sering ada jeda musim panas antara gelombang musim semi dan musim gugur. Spesies ini dibudidayakan secara luas pada jerami atau serpihan kayu dan sering muncul di kebun dan taman.",
+      "uses": "Dapat dimakan dan dibudidayakan secara luas, dan umumnya dianggap jamur meja yang baik. Seperti banyak jamur, ia dapat menumpuk logam berat di tanah tercemar, dan tubuh buah dari mulsa taman yang tercemar atau sangat ramai tidak boleh dimakan. Intoleransi individu yang sesekali juga telah dilaporkan. Hanya koleksi yang teridentifikasi dengan baik dan bersih yang boleh digunakan.",
+      "confusion": "Ciri paling andal adalah tudung merah anggur yang besar, cincin ganda putih tebal seperti roda gigi, lamela ungu-hitam dengan tepi lebih pucat, dan rizomorf putih di pangkal pada serpihan atau jerami. Leratiomyces ceres tumbuh di habitat serpihan kayu yang sama, tetapi jauh lebih kecil, dengan tudung oranye-merah cerah, tangkai lebih ramping, dan cincin lebih lemah. Stropharia hornemannii memiliki tudung berlendir, kekuningan hingga cokelat, dan tangkai bersisik di bawah cincin berbentuk rok, serta tumbuh di hutan, bukan pada mulsa kebun. Spesies genus Agaricus juga dapat memiliki cincin dan tangkai putih kekar, tetapi lamelanya mulai merah muda dan menjadi cokelat cokelat, dan tidak memiliki lamela ungu-hitam maupun cincin seperti roda gigi. Cortinarius praestans adalah kortinarius hutan yang jauh lebih besar dan kekar, dengan selubung seperti jaring laba-laba, lamela cokelat karat, dan tanpa cincin bermembran seperti roda gigi.",
+      "notes": "Ciri lapangan yang khas adalah tudung merah anggur yang memudar menjadi cokelat muda, cincin ganda putih tebal dengan sisi bawah seperti roda gigi, lamela cokelat keunguan hingga nyaris hitam dengan tepi lebih pucat, dan rizomorf putih di pangkal tangkai putih kekar, biasanya pada mulsa serpihan kayu atau jerami.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Agarico saprotrofo di pacciamature di cippato, paglia, parchi e giardini, ampiamente coltivato e che compare spesso in habitat simili in Europa, Nord America e altrove. Il cappello è grande, rosso vinoso o bordeaux da giovane, poi sbiadisce al fulvo o al bruno-giallastro, secco o leggermente viscoso e spesso un po’ ondulato al margine. Le lamelle sono dapprima grigio-lilla, poi bruno-porpora fino a quasi nere, con filo più chiaro o bianco. Il gambo è tozzo e bianco, con un anello doppio, spesso, persistente e rivolto verso l’alto, la cui faccia inferiore è divisa in segmenti raggianti a ruota dentata; la faccia superiore dell’anello è spesso cosparsa di spore di un porpora-nero scuro. Dalla base partono rizomorfe bianche che percorrono il cippato. Non c’è volva. I corpi fruttiferi compaiono da maggio a novembre, spesso in gruppi.",
+      "cap": "Il cappello misura 4–15 cm di diametro (eccezionalmente di più). È dapprima emisferico o convesso, poi ampiamente appiattito, talvolta un po’ umbonato, e spesso ondulato o irregolare al margine. La superficie è liscia o finemente fibrillosa, secca o leggermente viscosa, rosso vinosa, bordeaux o bruno-rossastra da fresco, e sbiadisce con l’età o col tempo asciutto al fulvo, all’ocra o al bruno-giallastro. I cappelli giovani possono portare resti biancastri di velo al margine.",
+      "hymenium": "Le lamelle sono fitte, adnate o lievemente smarginate al gambo, dapprima grigio-lilla o di un tono argilloso pallido, poi di un bruno-porpora scuro fino a quasi nere. Il filo delle lamelle è più chiaro o bianco. Sono presenti lamelle più corte (lamellule).",
+      "stipe": "Il gambo è alto 6–20 cm e spesso 0,9–3,0 cm, tozzo, cilindrico o lievemente clavato alla base, bianco o crema e spesso finemente fibrilloso. Porta un anello doppio, spesso, bianco, persistente e rivolto verso l’alto; la faccia inferiore dell’anello è divisa in segmenti raggianti a ruota dentata, e la faccia superiore è spesso cosparsa di spore di un porpora-nero scuro. Dalla base crescono cordoni miceliari bianchi (rizomorfe) nel cippato o nella paglia. Non c’è volva.",
+      "flesh": "La carne è spessa, soda e bianca nel cappello e nel gambo; il gambo diventa un po’ cavo con l’età. L’odore è lieve, talvolta leggermente rapanello o terroso; il sapore è lieve e gradevole.",
+      "sporePrint": "L’impronta sporale è di un bruno-porpora scuro fino a quasi nera. Le spore sono lisce, ellissoidi, di circa 10–15 × 6–9 µm.",
+      "habitat": "Saprotrofo di suoli ricchi di nutrienti, spesso disturbati: pacciamatura di cippato di legno e di corteccia, paglia, compost, aiuole, parchi e resti legnosi simili. I corpi fruttiferi compaiono di solito in gruppi da maggio a novembre. Nell’Europa centrale c’è spesso una pausa estiva tra una spinta primaverile e una autunnale. La specie è ampiamente coltivata su paglia o cippato e compare di frequente in giardini e parchi.",
+      "uses": "È commestibile e ampiamente coltivato, e in genere è considerato un buon fungo da tavola. Come molti funghi può accumulare metalli pesanti in suoli contaminati, e i corpi fruttiferi provenienti da pacciamatura di parco inquinata o molto frequentata non vanno mangiati. Sono state segnalate anche intolleranze individuali occasionali. Devono essere usate solo raccolte ben identificate e pulite.",
+      "confusion": "I caratteri più sicuri sono il grande cappello rosso vinoso, il spesso anello doppio bianco a ruota dentata, le lamelle porpora-nere con filo più chiaro e le rizomorfe bianche alla base nel cippato o sulla paglia. Leratiomyces ceres cresce negli stessi habitat di cippato, ma è molto più piccolo, con un cappello di un arancio-rosso vivo, un gambo più sottile e un anello più debole. Stropharia hornemannii ha un cappello vischioso, giallastro o bruno, e un gambo squamoso sotto un anello a gonnellino, e cresce nel bosco, non nella pacciamatura da giardino. Le specie del genere Agaricus possono avere anch’esse un anello e un gambo bianco tozzo, ma le loro lamelle cominciano rosa e diventano bruno cioccolato, e mancano di lamelle porpora-nere e di un anello a ruota dentata. Cortinarius praestans è un cortinario boschivo molto più grande e tozzo, con un velo aracnoide, lamelle di un bruno ruggine e senza un anello membranoso a ruota dentata.",
+      "notes": "I caratteri di campo distintivi sono il cappello rosso vinoso che sbiadisce al fulvo, il spesso anello doppio bianco con la faccia inferiore a ruota dentata, le lamelle bruno-porpora fino a quasi nere con filo più chiaro, e le rizomorfe bianche alla base di un gambo bianco tozzo, tipicamente in una pacciamatura di cippato o su paglia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "木屑マルチ、わら、公園や庭に生じる腐生性のひだのあるきのこで、広く栽培され、ヨーロッパ、北アメリカなど同様の発生環境にもよく現れる。傘は大きく、若いときはワイン赤〜暗紅色、のちに淡黄褐色に褪色し、乾燥〜やや粘性で、縁はしばしばやや波打つ。ひだは初め灰紫色、のちに紫褐色〜ほぼ黒色で、縁はより淡色または白色。柄は太く白色で、厚く永続し上向きに反った二重のつばがあり、その下面は放射状の歯車状の片に分かれ、上面はしばしば暗紫黒色の胞子で粉をふく。基部から白い根状菌糸束が木屑に伸びる。つぼはない。子実体は5月から11月に生じ、しばしば群生する。",
+      "cap": "傘は径4–15 cm（まれにより大きい）。初め半球形または凸形、のちに広く平らになり、ときにやや中高で、縁はしばしば波打ちまたは不規則。表面は平滑〜細かい繊維状、乾燥〜やや粘性で、新鮮なときはワイン赤、暗紅色または赤褐色、老化や乾燥で淡黄、黄土色または淡黄褐色に褪色する。若い傘の縁には白い被膜の名残が残ることがある。",
+      "hymenium": "ひだは密、柄に着生するかやや湾入し、初め灰紫色または淡い粘土色、のちに暗紫褐色〜ほぼ黒色。ひだの縁はより淡色または白色。短いひだ（小ひだ）がある。",
+      "stipe": "柄は高さ6–20 cm、太さ0.9–3.0 cm、頑丈で、円柱形または基部でややこん棒状、白色〜クリーム色で、しばしば細かい繊維状。厚く永続し上向きに反った白い二重のつばがあり、つばの下面は放射状の歯車状の片に分かれ、上面はしばしば暗紫黒色の胞子で粉をふく。基部から白い菌糸束（根状菌糸束）が木屑やわらに伸びる。つぼはない。",
+      "flesh": "肉は傘・柄とも厚く、堅く、白色。柄は老化とともにやや中空になる。においはやや弱く、ときにわずかにダイコン様または土様。味はやや弱く、快い。",
+      "sporePrint": "胞子紋は暗紫褐色〜ほぼ黒色。胞子は平滑、楕円形、約10–15 × 6–9 µm。",
+      "habitat": "養分の多い、しばしば攪乱された地面の腐生菌：木屑や樹皮チップ、わら、堆肥、花壇、公園および同様の木質残渣。子実体はふつう5月から11月に群生する。中部ヨーロッパでは春と秋の発生のあいだに夏の休みがあることが多い。本種はわらや木屑で広く栽培され、庭や公園によく現れる。",
+      "uses": "食用で広く栽培され、一般に良い食卓きのことされる。多くのきのこと同様、汚染された土壌では重金属を蓄積することがあり、汚染された、または人通りの多い公園のマルチから得た子実体は食べてはならない。まれな個人の不耐も報告されている。よく同定された清潔な採集だけを用いるべきである。",
+      "confusion": "最も確かな特徴は大きなワイン赤の傘、厚い白い歯車状の二重のつば、縁のより淡い紫黒色のひだ、および木屑やわらの基部の白い根状菌糸束である。Leratiomyces ceresは同じ木屑の発生環境に生じるが、はるかに小さく、鮮やかな橙赤色の傘、より細い柄、より弱いつばをもつ。Stropharia hornemanniiは粘性のある黄〜褐色の傘と、スカート状のつばの下の鱗片のある柄をもち、庭のマルチではなく林内に生じる。Agaricus属の種もつばと太い白い柄をもつことがあるが、ひだは初め桃色でチョコレート褐色になり、紫黒色のひだや歯車状のつばをもたない。ムレオオフウセンタケ（Cortinarius praestans）ははるかに大きく頑丈な林内のフウセンタケで、クモの巣状の被膜とさび褐色のひだをもち、膜質の歯車状のつばはない。",
+      "notes": "野外での特徴は、ワイン赤から淡黄に褪色する傘、下面が歯車状の厚い白い二重のつば、縁のより淡い紫褐色〜ほぼ黒色のひだ、および太い白い柄の基部の白い根状菌糸束であり、典型的には木屑マルチやわらに生じる。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151",
+        "https://www.wikidata.org/wiki/Q1236980"
+      ],
+      "label": "サケツバタケ"
+    },
+    "ko": {
+      "description": "나무 칩 멀치, 짚, 공원과 정원의 부생성 주름살 버섯으로, 널리 재배되며 유럽, 북아메리카 등의 비슷한 서식지에도 자주 나타난다. 갓은 크고, 어릴 때는 포도주색에서 버건디색이며 나중에 누르스름한 갈색으로 바래고, 건조하거나 약간 점성이 있으며 가장자리가 종종 약간 물결친다. 주름살은 처음에는 회자색, 나중에는 자갈색에서 거의 검은색이며, 가장자리는 더 옅거나 흰색이다. 대는 굵고 흰색이며, 두껍고 오래 남으며 위로 젖혀진 이중 턱받이가 있고, 그 아랫면은 방사상의 톱니바퀴 모양 조각으로 나뉘며, 윗면은 종종 어두운 자주흑색 포자 가루로 덮인다. 밑동에서 흰색 균사속이 칩 속으로 뻗는다. 대주머니는 없다. 자실체는 5월부터 11월까지 나타나며, 종종 무리를 이룬다.",
+      "cap": "갓은 너비 4–15 cm이다(드물게 더 크다). 처음에는 반구형 또는 볼록하고, 나중에 넓게 평평해지며, 때로는 약간 가운데가 볼록하고, 가장자리는 종종 물결치거나 불규칙하다. 표면은 매끄럽거나 가늘게 섬유상이며, 건조하거나 약간 점성이 있고, 신선할 때는 포도주색, 버건디색 또는 적갈색이며, 나이가 들거나 건조한 날씨에 옅은색, 황토색 또는 누르스름한 갈색으로 바랜다. 어린 갓의 가장자리에는 흰 피막 잔편이 남을 수 있다.",
+      "hymenium": "주름살은 촘촘하고, 대에 붙거나 약간 파이며, 처음에는 회자색 또는 옅은 점토색, 나중에는 어두운 자갈색에서 거의 검은색이다. 주름살 가장자리는 더 옅거나 흰색이다. 더 짧은 주름살(작은주름살)이 있다.",
+      "stipe": "대는 높이 6–20 cm, 두께 0.9–3.0 cm로, 튼튼하고, 원기둥형이거나 밑동에서 약간 곤봉형이며, 흰색에서 크림색이고 종종 가늘게 섬유상이다. 두껍고 흰색이며 오래 남고 위로 젖혀진 이중 턱받이가 있고, 턱받이 아랫면은 방사상의 톱니바퀴 모양 조각으로 나뉘며, 윗면은 종종 어두운 자주흑색 포자 가루로 덮인다. 밑동에서 흰색 균사속(리조모르프)이 나무 칩이나 짚으로 자란다. 대주머니는 없다.",
+      "flesh": "살은 갓과 대에서 두껍고 단단하며 흰색이다. 대는 나이가 들며 약간 속이 빈다. 냄새는 약하고, 때로는 약간 무맛 같거나 흙냄새가 나며, 맛은 약하고 쾌적하다.",
+      "sporePrint": "포자문은 어두운 자갈색에서 거의 검은색이다. 포자는 매끄럽고 타원형이며, 약 10–15 × 6–9 µm이다.",
+      "habitat": "양분이 많고 종종 교란된 땅의 부생균이다: 나무와 나무껍질 칩, 짚, 퇴비, 화단, 공원 및 비슷한 목질 잔재. 자실체는 보통 5월부터 11월까지 무리져 나타난다. 중부 유럽에서는 봄과 가을 발생 사이에 종종 여름 휴지기가 있다. 이 종은 짚이나 나무 칩에서 널리 재배되며 정원과 공원에 자주 나타난다.",
+      "uses": "식용이며 널리 재배되고, 일반적으로 좋은 식탁 버섯으로 여겨진다. 많은 버섯과 마찬가지로 오염된 토양에서는 중금속을 축적할 수 있으며, 오염되었거나 통행이 많은 공원 멀치의 자실체는 먹지 말아야 한다. 가끔 개인 과민증도 보고되었다. 잘 동정된 깨끗한 채집만 사용해야 한다.",
+      "confusion": "가장 확실한 특징은 큰 포도주색 갓, 두꺼운 흰색 톱니바퀴 모양 이중 턱받이, 더 옅은 가장자리의 자주흑색 주름살, 그리고 나무 칩이나 짚에서 밑동의 흰색 균사속이다. Leratiomyces ceres는 같은 나무 칩 서식지에서 자라지만 훨씬 작으며, 선명한 주홍빛 갓, 더 가는 대, 더 약한 턱받이를 가진다. Stropharia hornemannii는 점성이 있는 노르스름하거나 갈색인 갓과 치마 모양 턱받이 아래의 비늘 있는 대를 가지며, 정원 멀치가 아니라 숲에서 자란다. Agaricus속의 종도 턱받이와 굵은 흰 대를 가질 수 있으나, 주름살은 분홍색으로 시작해 초콜릿갈색이 되며, 자주흑색 주름살과 톱니바퀴 모양 턱받이는 없다. Cortinarius praestans는 훨씬 크고 튼튼한 숲의 끈적버섯으로, 거미줄 같은 피막과 녹슨 갈색 주름살을 가지며 막질의 톱니바퀴 모양 턱받이는 없다.",
+      "notes": "야외의 특징은 포도주색에서 옅은색으로 바랜 갓, 아랫면이 톱니바퀴 모양인 두꺼운 흰색 이중 턱받이, 더 옅은 가장자리의 자갈색에서 거의 검은색 주름살, 그리고 굵은 흰 대 밑동의 흰색 균사속이며, 전형적으로 나무 칩 멀치나 짚에서 난다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "턱받이포도버섯"
+    },
+    "lt": {
+      "description": "Saprotrofinis lakštuotis grybas medienos skiedrose, šiauduose, parkuose ir soduose, plačiai auginamas ir dažnai pasirodantis panašiose augavietėse Europoje, Šiaurės Amerikoje ir kitur. Kepurėlė didelė, jauna vyno raudonumo ar burgundiška, vėliau nublanksta į gelsvai rudą, sausa ar šiek tiek lipni ir dažnai kiek banguotu kraštu. Lakšteliai iš pradžių pilkai alyviniai, vėliau purpuriniai rudi iki beveik juodų, šviesesniais ar baltais ašmenimis. Kotas tvirtas ir baltas, su storu, išliekančiu, į viršų atlenktu dvigubu žiedu, kurio apatinė pusė suskirstyta į spindulinius, krumpliaračio pavidalo segmentus; viršutinė žiedo pusė dažnai apibarstyta tamsiai purpuriniais juodais sporų milteliais. Nuo pagrindo per skiedras eina balti rizomorfai. Volvos nėra. Vaisiakūniai pasirodo nuo gegužės iki lapkričio, dažnai grupėmis.",
+      "cap": "Kepurėlė 4–15 cm skersmens (išimtinai didesnė). Iš pradžių pusrutuliška ar iškili, vėliau plačiai paplokščia, kartais kiek gumburiuota, ir dažnai banguotu ar netaisyklingu kraštu. Paviršius lygus ar smulkiai plaušuotas, sausas ar šiek tiek lipnus, šviežias vyno raudonumo, burgundiškas ar rausvai rudas, ir su amžiumi ar sausu oru nublanksta į gelsvą, ochrinį ar gelsvai rudą. Jaunos kepurėlės krašte gali turėti balkšvų apvalkalo liekanų.",
+      "hymenium": "Lakšteliai tankūs, priaugę prie koto ar kiek įpjauti, iš pradžių pilkai alyviniai ar blyškiai molio spalvos, vėliau tamsiai purpuriniai rudi iki beveik juodų. Lakštelių ašmenys šviesesni ar balti. Yra trumpesnių lakštelių (lamelių).",
+      "stipe": "Kotas 6–20 cm aukščio ir 0,9–3,0 cm storio, tvirtas, cilindriškas ar prie pagrindo kiek buožiškas, baltas iki kreminio ir dažnai smulkiai plaušuotas. Jis turi storą, baltą, išliekantį, į viršų atlenktą dvigubą žiedą; apatinė žiedo pusė suskirstyta į spindulinius, krumpliaračio pavidalo segmentus, o viršutinė dažnai apibarstyta tamsiai purpuriniais juodais sporų milteliais. Nuo pagrindo į medienos skiedras ar šiaudus auga balti grybienos virželiai (rizomorfai). Volvos nėra.",
+      "flesh": "Trama kepurėlėje ir kote stora, kieta ir balta; kotas su amžiumi šiek tiek išduba. Kvapas švelnus, kartais kiek ridikinis ar žemiškas; skonis švelnus ir malonus.",
+      "sporePrint": "Sporų atspaudas tamsiai purpurinis rudas iki beveik juodo. Sporos lygios, elipsoidinės, apie 10–15 × 6–9 µm.",
+      "habitat": "Saprotrofas maistingose, dažnai suardytose dirvose: medienos ir žievės skiedros, šiaudai, kompostas, lysvės, parkai ir panašios sumedėjusios liekanos. Vaisiakūniai paprastai pasirodo grupėmis nuo gegužės iki lapkričio. Vidurio Europoje tarp pavasarinio ir rudeninio derliaus dažnai būna vasaros pertrauka. Rūšis plačiai auginama ant šiaudų ar skiedrų ir dažnai pasirodo soduose ir parkuose.",
+      "uses": "Ji valgoma ir plačiai auginama, ir paprastai laikoma geru valgomuoju grybu. Kaip daugelis grybų, užterštoje dirvoje gali kauptis sunkiuosius metalus, ir vaisiakūnių iš užteršto ar labai lankomo parko mulčio valgyti nereikėtų. Taip pat buvo pranešta apie retą individualų netoleravimą. Naudoti reikėtų tik gerai nustatytus, švarius rinkinius.",
+      "confusion": "Patikimiausi požymiai – didelė vyno raudonumo kepurėlė, storas baltas, krumpliaratį primenantis dvigubas žiedas, purpuriniai juodi lakšteliai su šviesesniais ašmenimis ir balti rizomorfai prie pagrindo skiedrose ar šiauduose. Raudonasis žvyngrybis (Leratiomyces ceres) auga tose pačiose medienos skiedrų augavietėse, bet yra gerokai mažesnis, ryškiai oranžine raudona kepurėle, plonesniu kotu ir silpnesniu žiedu. Stropharia hornemannii turi gleivėtą, gelsvą ar rudą kepurėlę ir po sijono pavidalo žiedu žvynuotą kotą, ir auga miške, ne sodo mulčiuje. Genties Agaricus rūšys taip pat gali turėti žiedą ir tvirtą baltą kotą, bet jų lakšteliai prasideda rausvi ir tampa šokoladiniai rudi, ir jie neturi purpurinių juodų lakštelių bei krumpliaratį primenančio žiedo. Valgomasis nuosėdis (Cortinarius praestans) yra gerokai didesnis, tvirtas miško nuosėdis su voratinklišku apvalkalu, rūdžių rudais lakšteliais ir be plėvinio, krumpliaratį primenančio žiedo.",
+      "notes": "Būdingi požymiai yra vyno raudonumo, vėliau į gelsvumą blunkanti kepurėlė, storas baltas dvigubas žiedas su krumpliaratį primenančia apatine puse, purpuriniai rudi iki beveik juodų lakšteliai su šviesesniais ašmenimis ir balti rizomorfai prie tvirto balto koto pagrindo, paprastai medienos skiedrose ar šiauduose.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "raukšlėtažiedė gleiviabudė"
+    },
+    "lv": {
+      "description": "Saprotrofa lapiņu sēne koksnes šķeldā, salmos, parkos un dārzos, plaši kultivēta un bieži parādās līdzīgos biotopos Eiropā, Ziemeļamerikā un citur. Cepurīte ir liela, jaunībā vīnsarkana līdz burgundiska, vēlāk izbalo līdz dzeltenbrūnai, sausa līdz nedaudz lipīgai un malā bieži nedaudz viļņota. Lapiņas vispirms ir pelēklilas, vēlāk purpursarkanbrūnas līdz gandrīz melnām, ar gaišāku vai baltu asmeni. Kātiņš ir resns un balts, ar biezu, paliekošu, uz augšu uzlocītu dubultu gredzenu, kura apakšpuse ir sadalīta starainos, zobrata veida segmentos; gredzena virspuse bieži ir apputināta ar tumši purpurmelnām sporām. No pamatnes caur šķeldu stiepjas baltas rizomorfas. Volvas nav. Augļķermeņi parādās no maija līdz novembrim, bieži grupās.",
+      "cap": "Cepurīte ir 4–15 cm plata (izņēmuma gadījumos lielāka). Tā vispirms ir puslodes veida vai izliekta, vēlāk plaši saplacināta, dažreiz nedaudz pauguraina, un malā bieži viļņota vai neregulāra. Virsma ir gluda līdz smalki šķiedraina, sausa līdz nedaudz lipīga, svaiga vīnsarkana, burgundiska vai sarkanbrūna, un ar vecumu vai sausā laikā izbalo līdz okera, tan vai dzeltenbrūnai. Jaunām cepurītēm malā var būt bālganas plīvura paliekas.",
+      "hymenium": "Lapiņas ir blīvas, pie kātiņa pieaugušas vai nedaudz izgrieztas, vispirms pelēklilas vai bāli māla krāsā, vēlāk tumši purpursarkanbrūnas līdz gandrīz melnām. Lapiņu asmenis ir gaišāks vai balts. Ir īsākas lapiņas (lamelulas).",
+      "stipe": "Kātiņš ir 6–20 cm augsts un 0,9–3,0 cm resns, resns, cilindrisks vai pie pamatnes nedaudz vālveidīgs, balts līdz krēmkrāsas un bieži smalki šķiedrains. Tam ir biezs, balts, paliekošs, uz augšu uzlocīts dubults gredzens; gredzena apakšpuse ir sadalīta starainos, zobrata veida segmentos, un virspuse bieži ir apputināta ar tumši purpurmelnām sporām. No pamatnes koksnes šķeldā vai salmos aug baltas micēlija auklas (rizomorfas). Volvas nav.",
+      "flesh": "Mīkstums cepurītē un kātiņā ir biezs, ciets un balts; kātiņš ar vecumu kļūst nedaudz dobs. Smarža ir maiga, dažreiz nedaudz redīsu vai zemes; garša ir maiga un patīkama.",
+      "sporePrint": "Sporu nospiedums ir tumši purpursarkanbrūns līdz gandrīz melns. Sporas ir gludas, elipsoidālas, apmēram 10–15 × 6–9 µm.",
+      "habitat": "Saprotrofs barības vielām bagātā, bieži traucētā augsnē: koksnes un mizas šķelda, salmi, komposts, dobes, parki un līdzīgām koksnes atliekām. Augļķermeņi parasti parādās grupās no maija līdz novembrim. Centrāleiropā starp pavasara un rudens vilni bieži ir vasaras pauze. Suga tiek plaši kultivēta uz salmiem vai šķeldas un bieži parādās dārzos un parkos.",
+      "uses": "Tā ir ēdama un plaši kultivēta, un parasti tiek uzskatīta par labu galda sēni. Tāpat kā daudzām sēnēm, piesārņotā augsnē tā var uzkrāt smagos metālus, un augļķermeņus no piesārņotas vai intensīvi apmeklētas parka mulčas nevajadzētu ēst. Ziņots arī par gadījuma individuālu nepanesību. Izmantot vajadzētu tikai labi noteiktus, tīrus ievākumus.",
+      "confusion": "Drošākās pazīmes ir lielā vīnsarkanā cepurīte, biezais baltais, zobrata veida dubultais gredzens, purpurmelnās lapiņas ar gaišāku asmeni un baltās rizomorfas pie pamatnes šķeldā vai salmos. Leratiomyces ceres aug tajos pašos šķeldas biotopos, bet ir daudz mazāks, ar spilgti oranžsarkanu cepurīti, tievāku kātiņu un vājāku gredzenu. Stropharia hornemannii ir gļotaina, dzeltenīga līdz brūna cepurīte un zem svārku veida gredzena zvīņains kātiņš, un tas aug mežā, nevis dārza mulčā. Ģints Agaricus sugām arī var būt gredzens un resns balts kātiņš, bet to lapiņas sākas rozā un kļūst šokolādes brūnas, un tām nav purpurmelnu lapiņu un zobrata veida gredzena. Cortinarius praestans ir daudz lielāka, resna meža tīmekļsēne ar tīmekļveida plīvuru, rūsas brūnām lapiņām un bez plēvainā, zobrata veida gredzena.",
+      "notes": "Raksturīgās lauka pazīmes ir vīnsarkanā, vēlāk līdz dzeltenīgumam izbalusī cepurīte, biezais baltais dubultais gredzens ar zobrata veida apakšpusi, purpursarkanbrūnās līdz gandrīz melnajām lapiņām ar gaišāku asmeni un baltās rizomorfas pie resna baltā kātiņa pamatnes, parasti koksnes šķeldā vai salmos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een saprotrofe plaatjeszwam van houtsnippers, stro, parken en tuinen, die op grote schaal wordt gekweekt en vaak op vergelijkbare standplaatsen in Europa, Noord-Amerika en elders verschijnt. De hoed is groot, jong wijnrood tot bordeaux, later verblekend tot geelbruin, droog tot licht kleverig en aan de rand vaak iets golvend. De plaatjes zijn eerst grijslila, later paarsbruin tot bijna zwart, met een blekere of witte snede. De steel is stevig en wit, met een dikke, blijvende, omhoog omgeslagen dubbele ring waarvan de onderzijde in straalvormige, tandwielachtige segmenten is verdeeld; de bovenzijde van de ring is vaak donker paarszwart berijpt met sporen. Vanaf de basis lopen witte rizomorfen door de snippers. Een volva ontbreekt. De vruchtlichamen verschijnen van mei tot november, vaak in groepjes.",
+      "cap": "De hoed is 4–15 cm breed (uitzonderlijk groter). Hij is eerst halfbolvormig of gewelfd, later breed afgeplat, soms zwak gebocheld, en aan de rand vaak golvend of onregelmatig. Het oppervlak is glad tot fijn vezelig, droog tot licht kleverig, vers wijnrood, bordeaux of roodbruin, en verbleekt met de leeftijd of bij droog weer tot oker, tan of geelbruin. Jonge hoeden kunnen aan de rand witachtige velumresten dragen.",
+      "hymenium": "De plaatjes staan dicht opeen, zijn aangehecht aan de steel of iets uitgebocht, eerst grijslila of bleek leemkleurig, later donker paarsbruin tot bijna zwart. De snede van de plaatjes is bleker of wit. Kortere plaatjes (lamelulen) zijn aanwezig.",
+      "stipe": "De steel is 6–20 cm hoog en 0,9–3,0 cm dik, stevig, cilindrisch of aan de basis zwak knotsvormig, wit tot roomkleurig en vaak fijn vezelig. Hij draagt een dikke, witte, blijvende, omhoog omgeslagen dubbele ring; de onderzijde van de ring is in straalvormige, tandwielachtige segmenten verdeeld, en de bovenzijde is vaak donker paarszwart berijpt met sporen. Vanaf de basis groeien witte myceliumstrengen (rizomorfen) de houtsnippers of het stro in. Een volva ontbreekt.",
+      "flesh": "Het vlees is in hoed en steel dik, stevig en wit; de steel wordt met de leeftijd iets hol. De geur is mild, soms licht radijsachtig of aards; de smaak is mild en aangenaam.",
+      "sporePrint": "De sporenprint is donker paarsbruin tot bijna zwart. De sporen zijn glad, ellipsoïd, ongeveer 10–15 × 6–9 µm.",
+      "habitat": "Een saprotroof van voedselrijke, vaak verstoorde grond: hout- en schorssnippers, stro, compost, borders, parken en soortgelijke houtige resten. De vruchtlichamen verschijnen gewoonlijk in groepjes van mei tot november. In Midden-Europa is er tussen een voorjaars- en een najaarsgolf vaak een zomerpauze. De soort wordt op grote schaal gekweekt op stro of houtsnippers en verschijnt vaak in tuinen en parken.",
+      "uses": "Hij is eetbaar en wordt op grote schaal gekweekt, en geldt algemeen als een goede tafelzwam. Zoals veel paddenstoelen kan hij in verontreinigde grond zware metalen ophopen, en vruchtlichamen van vervuild of druk belopen parkaafval moeten niet worden gegeten. Ook incidentele individuele intolerantie is gemeld. Alleen goed gedetermineerde, schone vondsten moeten worden gebruikt.",
+      "confusion": "De zekerste kenmerken zijn de grote wijnrode hoed, de dikke witte, tandwielachtige dubbele ring, de paarszwarte plaatjes met blekere snede en de witte rizomorfen aan de basis in houtsnippers of stro. De oranjerode stropharia (Leratiomyces ceres) groeit op dezelfde houtsnipperstandplaatsen, maar is veel kleiner, met een helder oranjerode hoed, een dunnere steel en een zwakkere ring. Stropharia hornemannii heeft een slijmerige, geelachtige tot bruine hoed en onder een schortachtige ring een schilferige steel, en groeit in het bos, niet op tuinafval. Soorten van het geslacht Agaricus kunnen eveneens een ring en een stevige witte steel hebben, maar hun plaatjes beginnen roze en worden chocoladebruin, en ze missen paarszwarte plaatjes en een tandwielachtige ring. Cortinarius praestans is een veel grotere, stevige bosgordijnzwam met een spinnenwebachtig velum, roestbruine plaatjes en zonder vliezige, tandwielachtige ring.",
+      "notes": "De kenmerkende veldmerken zijn de wijnrode, later tan verblekende hoed, de dikke witte dubbele ring met tandwielachtige onderzijde, de paarsbruine tot bijna zwarte plaatjes met blekere snede, en de witte rizomorfen aan de basis van een stevige witte steel, typisch in houtsnippers of op stro.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "Blauwplaatstropharia"
+    },
+    "no": {
+      "description": "En saprotrof skivesopp på treflis, halm, i parker og hager, som dyrkes i stort omfang og ofte opptrer på lignende voksesteder i Europa, Nord-Amerika og andre steder. Hatten er stor, som ung vinrød til burgunderrød, senere blekende til oker- eller gulbrun, tørr til lett klebrig og i randen ofte noe bølget. Skivene er først grålilla, senere purpurbrune til nesten svarte, med lysere eller hvit egg. Stilken er kraftig og hvit, med en tykk, vedvarende, oppoverbøyd dobbelring hvis underside er delt i stråleformede, tannhjulsaktige segmenter; oversiden av ringen er ofte støvet mørkt purpursvart av sporer. Fra basis løper hvite rhizomorfer gjennom flisen. Volva mangler. Fruktlegemene kommer fra mai til november, ofte i grupper.",
+      "cap": "Hatten er 4–15 cm bred (unntaksvis større). Den er først halvkuleformet eller hvelvet, senere bredt utbredt, av og til svakt puklet, og i randen ofte bølget eller uregelmessig. Overflaten er glatt til fint trådet, tørr til lett klebrig, fersk vinrød, burgunderrød eller rødbrun, og blekner med alderen eller i tørt vær til oker, tan eller gulbrun. Unge hatter kan ha hvitaktige slørrester i randen.",
+      "hymenium": "Skivene er tette, tilvokste til stilken eller svakt utbuktede, først grålilla eller blekt leirfargede, senere mørkt purpurbrune til nesten svarte. Skivenes egg er lysere eller hvit. Kortere skiver (lamelluler) er til stede.",
+      "stipe": "Stilken er 6–20 cm høy og 0,9–3,0 cm tykk, kraftig, sylindrisk eller ved basis svakt kølleformet, hvit til kremfarget og ofte fint trådet. Den bærer en tykk, hvit, vedvarende, oppoverbøyd dobbelring; undersiden av ringen er delt i stråleformede, tannhjulsaktige segmenter, og oversiden er ofte støvet mørkt purpursvart av sporer. Fra basis vokser hvite mycelstrenger (rhizomorfer) inn i treflisen eller halmen. Volva mangler.",
+      "flesh": "Kjøttet er i hatt og stilk tykt, fast og hvitt; stilken blir med alderen noe hul. Lukten er mild, av og til svakt reddikaktig eller jordaktig; smaken er mild og behagelig.",
+      "sporePrint": "Sporeavtrykket er mørkt purpurbrunt til nesten svart. Sporene er glatte, ellipsoide, omkring 10–15 × 6–9 µm.",
+      "habitat": "En saprotrof på næringsrik, ofte forstyrret jord: tre- og barkflis, halm, kompost, bed, parker og lignende vedaktige rester. Fruktlegemene kommer vanligvis i grupper fra mai til november. I Sentral-Europa er det ofte en sommerpause mellom et vår- og et høstskudd. Arten dyrkes i stort omfang på halm eller treflis og opptrer ofte i hager og parker.",
+      "uses": "Den er spiselig og dyrkes i stort omfang, og anses allment som en god matsopp. Som mange sopper kan den i forurenset jord hope opp tungmetaller, og fruktlegemer fra forurenset eller hardt trafikkert parklitter bør ikke spises. Leilighetsvis individuell intoleranse er også rapportert. Bare velbestemte, rene funn bør brukes.",
+      "confusion": "De sikreste kjennetegnene er den store vinrøde hatten, den tykke hvite, tannhjulsaktige dobbelringen, de purpursvarte skivene med lysere egg og de hvite rhizomorfene ved basis i treflis eller halm. Rød skurvehatt (Leratiomyces ceres) vokser på de samme treflisvoksestedene, men er mye mindre, med en klart oransjerød hatt, en tynnere stilk og en svakere ring. Stropharia hornemannii har en slimete, gulaktig til brun hatt og under en skjørtaktig ring en skjellende stilk, og vokser i skog, ikke på hagemulch. Arter i slekten Agaricus kan også ha en ring og en kraftig hvit stilk, men skivene deres begynner rosa og blir sjokoladebrune, og de mangler purpursvarte skiver og en tannhjulsaktig ring. Kjempeslørsopp (Cortinarius praestans) er en langt større, kraftig skogslørsopp med et spindelvevaktig slør, rustbrune skiver og uten en hinneaktig, tannhjulsaktig ring.",
+      "notes": "De karakteristiske feltkjennetegnene er den vinrøde, senere tan-bleknende hatten, den tykke hvite dobbelringen med tannhjulsaktig underside, de purpurbrune til nesten svarte skivene med lysere egg, og de hvite rhizomorfene ved basis av en kraftig hvit stilk, typisk i treflis eller på halm.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "rødbrun kragesopp"
+    },
+    "pl": {
+      "description": "Saprotroficzny grzyb blaszkowy ściółki z zrębków drzewnych, słomy, parków i ogrodów, szeroko uprawiany i często pojawiający się na podobnych stanowiskach w Europie, Ameryce Północnej i gdzie indziej. Kapelusz jest duży, za młodu winnoczerwony do burgundzkiego, później płowieje do płowego lub żółtawobrązowego, suchy do lekko kleisty i na brzegu często lekko pofalowany. Blaszki są z początku szarawoliliowe, potem purpurowobrązowe do niemal czarnych, z jaśniejszym lub białym ostrzem. Trzon jest tęgi i biały, z grubym, trwałym, w górę odwiniętym podwójnym pierścieniem, którego dolna strona jest podzielona na promieniste, przypominające koło zębate odcinki; górna powierzchnia pierścienia jest często oprószona ciemnopurpurowoczarnymi zarodnikami. Od podstawy w zrębki wrastają białe ryzomorfy. Pochwy brak. Owocniki pojawiają się od maja do listopada, często w grupach.",
+      "cap": "Kapelusz ma 4–15 cm średnicy (wyjątkowo więcej). Jest z początku półkulisty lub wypukły, później szeroko rozpostarty, niekiedy słabo garbkowaty, a na brzegu często pofalowany lub nieregularny. Powierzchnia jest gładka do delikatnie włóknistej, sucha do lekko kleistej, świeża winnoczerwona, burgundzka lub czerwonobrązowa, z wiekiem lub w suchej pogodzie płowieje do płowej, ochrowej lub żółtawobrązowej. Młode kapelusze mogą mieć na brzegu białawe resztki osłony.",
+      "hymenium": "Blaszki są gęste, przyrośnięte do trzonu lub lekko wycięte, z początku szarawoliliowe lub blado gliniaste, później ciemnopurpurowobrązowe do niemal czarnych. Ostrze blaszek jest jaśniejsze lub białe. Obecne są krótsze blaszki (lamelle).",
+      "stipe": "Trzon ma 6–20 cm wysokości i 0,9–3,0 cm grubości, jest tęgi, walcowaty lub u podstawy słabo buławkowaty, biały do kremowego i często delikatnie włóknisty. Niesie gruby, biały, trwały, w górę odwinięty podwójny pierścień; dolna strona pierścienia jest podzielona na promieniste, przypominające koło zębate odcinki, a górna powierzchnia jest często oprószona ciemnopurpurowoczarnymi zarodnikami. Od podstawy wrastają w zrębki drzewne lub słomę białe sznury grzybni (ryzomorfy). Pochwy brak.",
+      "flesh": "Miąższ w kapeluszu i w trzonie jest gruby, jędrny i biały; trzon z wiekiem bywa lekko pusty. Zapach jest łagodny, czasem lekko rzodkiewkowy lub ziemisty; smak jest łagodny i przyjemny.",
+      "sporePrint": "Wysyp zarodników jest ciemnopurpurowobrązowy do niemal czarnego. Zarodniki są gładkie, elipsoidalne, około 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof żyznego, często zaburzonego podłoża: zrębki drzewne i korowe, słoma, kompost, rabaty, parki i podobne resztki drzewne. Owocniki pojawiają się zwykle w grupach od maja do listopada. W Europie Środkowej między wiosennym a jesiennym owocnikowaniem jest często letnia przerwa. Gatunek jest szeroko uprawiany na słomie lub zrębkach i często pojawia się w ogrodach i parkach.",
+      "uses": "Jest jadalny i szeroko uprawiany, i ogólnie uważany za dobry grzyb stołowy. Jak wiele grzybów może w zanieczyszczonej glebie gromadzić metale ciężkie, a owocników z zanieczyszczonej lub silnie uczęszczanej ściółki parkowej nie należy jeść. Notowano także sporadyczną indywidualną nietolerancję. Używać należy tylko dobrze oznaczonych, czystych zbiorów.",
+      "confusion": "Najpewniejsze cechy to duży winnoczerwony kapelusz, gruby biały podwójny pierścień przypominający koło zębate, purpurowoczarne blaszki z jaśniejszym ostrzem oraz białe ryzomorfy u podstawy w zrębkach lub na słomie. Leratiomyces ceres rośnie na tych samych stanowiskach na zrębkach, jest jednak znacznie mniejszy, z jaskrawo pomarańczowoczerwonym kapeluszem, cieńszym trzonem i słabszym pierścieniem. Stropharia hornemannii ma śluzowaty, żółtawy do brązowego kapelusz i kosmaty trzon poniżej spódniczkowatego pierścienia i rośnie w lesie, a nie na ogrodowej ściółce. Gatunki z rodzaju Agaricus mogą również mieć pierścień i tęgi biały trzon, ale ich blaszki zaczynają się różowo i przechodzą w czekoladowobrązowe, i nie mają purpurowoczarnych blaszek ani pierścienia przypominającego koło zębate. Cortinarius praestans to znacznie większy, tęgi leśny zasłonak z pajęczynowatą osłoną, rdzawobrązowymi blaszkami i bez błoniastego pierścienia przypominającego koło zębate.",
+      "notes": "Charakterystyczne cechy to winnoczerwony do płowo wyblakającego kapelusz, gruby biały podwójny pierścień z dolną stroną przypominającą koło zębate, purpurowobrązowe do niemal czarnych blaszki z jaśniejszym ostrzem oraz białe ryzomorfy u podstawy tęgiego białego trzonu, typowo w zrębkach drzewnych lub na słomie.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Pier%C5%9Bcieniak_uprawny",
+        "https://www.gbif.org/species/2533347",
+        "https://www.wikidata.org/wiki/Q1236980"
+      ],
+      "label": "Pierścieniak uprawny"
+    },
+    "pt": {
+      "description": "Agarical saprotrófico de cobertura de estilha de madeira, palha, parques e jardins, amplamente cultivado e que aparece frequentemente em habitats semelhantes na Europa, na América do Norte e noutros lugares. O chapéu é grande, vermelho-vinhoso a bordeaux quando jovem, desvanecendo depois para fulvo ou castanho-amarelado, seco a ligeiramente pegajoso e muitas vezes um pouco ondulado na margem. As lâminas são a princípio cinzento-lilases, depois pardo-púrpura a quase pretas, com arestas mais pálidas ou brancas. O estipe é robusto e branco, com um anel duplo, grosso, persistente e virado para cima, cuja face inferior está dividida em segmentos radiados semelhantes a uma roda dentada; a face superior do anel está muitas vezes poeirada de esporos de um púrpura-preto escuro. Da base saem rizomorfos brancos que percorrem a estilha. Não há volva. Os corpos frutíferos aparecem de maio a novembro, muitas vezes em grupos.",
+      "cap": "O chapéu mede 4–15 cm de diâmetro (excepcionalmente mais). É a princípio hemisférico ou convexo, depois largamente aplanado, por vezes um pouco umbonado, e muitas vezes ondulado ou irregular na margem. A superfície é lisa a finamente fibrilhosa, seca a ligeiramente pegajosa, vermelho-vinhosa, bordeaux ou pardo-avermelhada quando fresco, e desvanece com a idade ou em tempo seco para fulvo, ocre ou castanho-amarelado. Os chapéus jovens podem ter restos esbranquiçados de véu na margem.",
+      "hymenium": "As lâminas são apertadas, adnatas ou ligeiramente entalhadas no estipe, a princípio cinzento-lilases ou de um tom argiloso pálido, depois de um pardo-púrpura escuro a quase pretas. As arestas das lâminas são mais pálidas ou brancas. Há lâminas mais curtas (lamélulas).",
+      "stipe": "O estipe mede 6–20 cm de altura e 0,9–3,0 cm de espessura, é robusto, cilíndrico ou ligeiramente claviforme na base, branco a creme e muitas vezes finamente fibrilhoso. Leva um anel duplo, grosso, branco, persistente e virado para cima; a face inferior do anel está dividida em segmentos radiados semelhantes a uma roda dentada, e a face superior está muitas vezes poeirada de esporos de um púrpura-preto escuro. Da base saem cordões miceliais brancos (rizomorfos) para a estilha de madeira ou a palha. Não há volva.",
+      "flesh": "A carne é espessa, firme e branca no chapéu e no estipe; o estipe torna-se um pouco oco com a idade. O cheiro é suave, por vezes ligeiramente rabanete ou terroso; o sabor é suave e agradável.",
+      "sporePrint": "A esporada é de um pardo-púrpura escuro a quase preta. Os esporos são lisos, elipsoides, com cerca de 10–15 × 6–9 µm.",
+      "habitat": "Saprotrófico de solos ricos em nutrientes, muitas vezes revolvidos: cobertura de estilha de madeira e de casca, palha, composto, canteiros, parques e restos lenhosos semelhantes. Os corpos frutíferos aparecem geralmente em grupos de maio a novembro. Na Europa Central há muitas vezes uma pausa de verão entre uma vaga de primavera e outra de outono. A espécie é amplamente cultivada em palha ou estilha e aparece com frequência em jardins e parques.",
+      "uses": "É comestível e amplamente cultivado, e é geralmente considerado um bom cogumelo de mesa. Como muitos cogumelos, pode acumular metais pesados em solos contaminados, e os corpos frutíferos de cobertura de parque poluída ou muito frequentada não devem ser comidos. Também foram assinaladas intolerâncias individuais ocasionais. Só devem ser usadas colheitas bem identificadas e limpas.",
+      "confusion": "Os caracteres mais seguros são o grande chapéu vermelho-vinhoso, o grosso anel duplo branco em forma de roda dentada, as lâminas púrpura-pretas com arestas mais pálidas e os rizomorfos brancos na base, na estilha ou na palha. Leratiomyces ceres cresce nos mesmos habitats de estilha, mas é muito menor, com um chapéu de um laranja-vermelho vivo, um estipe mais fino e um anel mais fraco. Stropharia hornemannii tem um chapéu viscoso, amarelado a castanho, e um estipe escamoso sob um anel em saia, e cresce na floresta, não na cobertura de jardim. As espécies do género Agaricus podem também ter um anel e um estipe branco robusto, mas as suas lâminas começam cor-de-rosa e passam a pardo-chocolate, e não têm lâminas púrpura-pretas nem um anel em roda dentada. Cortinarius praestans é um cortinário florestal muito maior e robusto, com um véu aracnóide, lâminas de um pardo-ferrugem e sem anel membranoso em roda dentada.",
+      "notes": "Os caracteres de campo distintivos são o chapéu vermelho-vinhoso que desvanece para fulvo, o grosso anel duplo branco com a face inferior em roda dentada, as lâminas pardo-púrpura a quase pretas com arestas mais pálidas, e os rizomorfos brancos na base de um estipe branco robusto, tipicamente numa cobertura de estilha ou sobre palha.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Agaric saprotrof al mulciului de așchii de lemn, al paielor, parcurilor și grădinilor, cultivat pe scară largă și care apare adesea în habitate asemănătoare în Europa, America de Nord și în alte părți. Pălăria este mare, roșu-vinetiu până la burgundy la tineret, apoi palidă spre ocru sau brun-gălbui, uscată până la ușor lipicioasă și adesea puțin ondulată la margine. Lamelele sunt la început gri-liliachii, apoi brun-purpurii până aproape negre, cu muchii mai palide sau albe. Piciorul este vânjos și alb, cu un inel dublu, gros, persistent și întors în sus, a cărui față inferioară este împărțită în segmente radiale asemănătoare unei roți dințate; fața superioară a inelului este adesea pudrată cu spori de un purpuriu-negru închis. De la bază pornesc rizomorfe albe prin așchii. Nu există volvă. Corpurile de fructificație apar din mai până în noiembrie, adesea în grupuri.",
+      "cap": "Pălăria are 4–15 cm în diametru (excepțional mai mare). Este la început emisferică sau convexă, apoi larg aplatizată, uneori puțin umbonată, și adesea ondulată sau neregulată la margine. Suprafața este netedă până la fin fibriloasă, uscată până la ușor lipicioasă, roșu-vinetie, burgundy sau brun-roșiatică proaspătă, și palidește cu vârsta sau pe vreme uscată spre ocru, tan sau brun-gălbui. Pălăriile tinere pot avea la margine rămășițe albicioase de văl.",
+      "hymenium": "Lamelele sunt dese, adnate sau ușor scobite la picior, la început gri-liliachii sau de un ton argilos pal, apoi de un brun-purpuriu închis până aproape negre. Muchiile lamelor sunt mai palide sau albe. Sunt prezente lamele mai scurte (lamelule).",
+      "stipe": "Piciorul are 6–20 cm înălțime și 0,9–3,0 cm grosime, vânjos, cilindric sau ușor claviform la bază, alb până la crem și adesea fin fibrilos. Poartă un inel dublu, gros, alb, persistent și întors în sus; fața inferioară a inelului este împărțită în segmente radiale asemănătoare unei roți dințate, iar fața superioară este adesea pudrată cu spori de un purpuriu-negru închis. De la bază cresc cordoane miceliene albe (rizomorfe) în așchiile de lemn sau în paie. Nu există volvă.",
+      "flesh": "Carnea este groasă, fermă și albă în pălărie și în picior; piciorul devine puțin gol cu vârsta. Mirosul este slab, uneori ușor de ridiche sau pământiu; gustul este slab și plăcut.",
+      "sporePrint": "Amprenta sporală este de un brun-purpuriu închis până aproape neagră. Sporii sunt netezi, elipsoizi, de circa 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof al solurilor bogate în nutrienți, adesea deranjate: mulci de așchii de lemn și de scoarță, paie, compost, straturi, parcuri și resturi lemnoase asemănătoare. Corpurile de fructificație apar de obicei în grupuri din mai până în noiembrie. În Europa Centrală există adesea o pauză de vară între un val de primăvară și unul de toamnă. Specia este cultivată pe scară largă pe paie sau așchii și apare frecvent în grădini și parcuri.",
+      "uses": "Este comestibilă și cultivată pe scară largă, și este în general considerată o ciupercă de masă bună. Ca multe ciuperci, poate acumula metale grele în soluri contaminate, iar corpurile de fructificație din mulciul de parc poluat sau foarte circulat nu trebuie mâncate. Au fost semnalate și intoleranțe individuale ocazionale. Trebuie folosite doar culegeri bine identificate și curate.",
+      "confusion": "Cele mai sigure caractere sunt pălăria mare roșu-vinetie, inelul dublu alb gros în formă de roată dințată, lamelele purpuriu-negre cu muchii mai palide și rizomorfele albe de la bază în așchii sau pe paie. Leratiomyces ceres crește în aceleași habitate de așchii, dar este mult mai mic, cu o pălărie de un portocaliu-roșu viu, un picior mai subțire și un inel mai slab. Stropharia hornemannii are o pălărie vâscoasă, gălbuie până la brună, și un picior solzos sub un inel în fustă, și crește în pădure, nu pe mulciul de grădină. Speciile genului Agaricus pot avea și ele un inel și un picior alb vânjos, dar lamelele lor încep roz și devin brun-ciocolatiu, și le lipsesc lamelele purpuriu-negre și un inel în roată dințată. Cortinarius praestans este un cortinar forestier mult mai mare și vânjos, cu un văl arahnoid, lamele de un brun-ruginos și fără un inel membranos în roată dințată.",
+      "notes": "Caracterele de teren distinctive sunt pălăria roșu-vinetie care palidește spre ocru, inelul dublu alb gros cu fața inferioară în roată dințată, lamelele brun-purpurii până aproape negre cu muchii mai palide, și rizomorfele albe de la baza unui picior alb vânjos, de obicei în mulci de așchii sau pe paie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Сапротрофный пластинчатый гриб древесной щепы, соломы, парков и садов, широко культивируемый и часто появляющийся в сходных местообитаниях в Европе, Северной Америке и в других регионах. Шляпка крупная, у молодых плодовых тел винно-красная до бордовой, позже выцветает до палевой или желтовато-коричневой, сухая или слегка клейкая, часто слегка волнистая по краю. Пластинки сначала серовато-лиловые, затем пурпурно-коричневые до почти чёрных, с более бледным или белым краем. Ножка толстая и белая, с толстым, сохраняющимся, загнутым вверх двойным кольцом, нижняя сторона которого разделена на радиальные, похожие на зубчатое колесо сегменты; верхняя сторона кольца часто покрыта тёмно-пурпурно-чёрным споровым порошком. От основания по щепе тянутся белые ризоморфы. Вольвы нет. Плодовые тела появляются с мая по ноябрь, часто группами.",
+      "cap": "Шляпка 4–15 см в диаметре (исключительно крупнее). Сначала полушаровидная или выпуклая, затем широко распростёртая, иногда слабо горбовидная, и часто волнистая или неправильная по краю. Поверхность гладкая до тонковолокнистой, сухая или слегка клейкая, в свежем состоянии винно-красная, бордовая или красновато-коричневая, с возрастом или в сухую погоду выцветает до палевой, охряной или желтовато-коричневой. У молодых шляпок по краю могут быть беловатые остатки покрывала.",
+      "hymenium": "Пластинки частые, приросшие к ножке или слегка выемчатые, сначала серовато-лиловые или бледно-глинистые, позже тёмно-пурпурно-коричневые до почти чёрных. Край пластинок более бледный или белый. Имеются более короткие пластинки (ламеллулы).",
+      "stipe": "Ножка 6–20 см высотой и 0,9–3,0 см толщиной, крепкая, цилиндрическая или у основания слабо булавовидная, белая до кремовой и часто тонковолокнистая. Несёт толстое, белое, сохраняющееся, загнутое вверх двойное кольцо; нижняя сторона кольца разделена на радиальные, похожие на зубчатое колесо сегменты, а верхняя часто покрыта тёмно-пурпурно-чёрным споровым порошком. От основания в древесную щепу или солому растут белые мицелиальные тяжи (ризоморфы). Вольвы нет.",
+      "flesh": "Мякоть в шляпке и ножке толстая, плотная и белая; ножка с возрастом становится слегка полой. Запах слабый, иногда слегка редечный или землистый; вкус слабый и приятный.",
+      "sporePrint": "Споровый порошок тёмно-пурпурно-коричневый до почти чёрного. Споры гладкие, эллипсоидные, около 10–15 × 6–9 µm.",
+      "habitat": "Сапротроф богатых питательными веществами, часто нарушенных почв: древесная и коровая щепа, солома, компост, клумбы, парки и сходные древесные остатки. Плодовые тела обычно появляются группами с мая по ноябрь. В Центральной Европе между весенней и осенней волнами часто бывает летний перерыв. Вид широко культивируется на соломе или щепе и часто появляется в садах и парках.",
+      "uses": "Съедобный и широко культивируемый, обычно считается хорошим столовым грибом. Как многие грибы, на загрязнённых почвах может накапливать тяжёлые металлы, и плодовые тела с загрязнённой или сильно посещаемой парковой мульчи есть не следует. Сообщалось также о редкой индивидуальной непереносимости. Использовать следует только хорошо определённые, чистые сборы.",
+      "confusion": "Самые надёжные признаки — крупная винно-красная шляпка, толстое белое двойное кольцо, похожее на зубчатое колесо, пурпурно-чёрные пластинки с более бледным краем и белые ризоморфы у основания в щепе или на соломе. Строфария оранжевая (Leratiomyces ceres) растёт в тех же местообитаниях на щепе, но гораздо мельче, с ярко-оранжево-красной шляпкой, более тонкой ножкой и более слабым кольцом. Stropharia hornemannii имеет слизистую, желтоватую до коричневой шляпку и чешуйчатую ножку под юбковидным кольцом и растёт в лесу, а не на садовой мульче. Виды рода Agaricus также могут иметь кольцо и крепкую белую ножку, но их пластинки начинаются розовыми и становятся шоколадно-коричневыми, и у них нет пурпурно-чёрных пластинок и кольца, похожего на зубчатое колесо. Паутинник превосходный (Cortinarius praestans) — гораздо более крупный, крепкий лесной паутинник с паутинистым покрывалом, ржаво-коричневыми пластинками и без перепончатого кольца, похожего на зубчатое колесо.",
+      "notes": "Характерные полевые признаки — винно-красная, позже выцветающая до палевой шляпка, толстое белое двойное кольцо с нижней стороной, похожей на зубчатое колесо, пурпурно-коричневые до почти чёрных пластинки с более бледным краем и белые ризоморфы у основания крепкой белой ножки, обычно в древесной щепе или на соломе.",
+      "names": [
+        "кольцевик"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.wikidata.org/wiki/Q1236980",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "строфария морщинисто-кольцевая"
+    },
+    "sk": {
+      "description": "Saprotrofná lupenatá huba drevnej štiepky, slamy, parkov a záhrad, široko pestovaná a často sa objavujúca na podobných stanovištiach v Európe, Severnej Amerike aj inde. Klobúk je veľký, za mladi vínovočervený až burgundský, neskôr vybledá do plavej alebo žltkastohnedej, suchý až slabo lepkavý a na okraji často slabo zvlnený. Lupene sú spočiatku sivastolila, neskôr purpurovohnedé až takmer čierne, s bledším alebo bielym ostím. Hlúbik je statný a biely, s hrubým, trvácim, nahor ohnutým dvojitým prsteňom, ktorého spodná strana je rozčlenená do lúčovitých, ozubenému kolesu podobných segmentov; horná plocha prsteňa je často poprášená tmavo purpurovočiernymi výtrusmi. Od bázy vystupujú do štiepky biele rhizomorfy. Pošva chýba. Plodnice vyrastajú od mája do novembra, často v skupinách.",
+      "cap": "Klobúk má 4–15 cm v priemere (výnimočne viac). Je spočiatku polguľovitý alebo klenutý, neskôr široko rozprestretý, niekedy slabo vypuklý v strede, a na okraji často zvlnený alebo nepravidelný. Povrch je hladký až jemne vláknitý, suchý až slabo lepkavý, v čerstvom stave vínovočervený, burgundský alebo červenohnedý, starnutím alebo za sucha vybledá do plavej, okrovej alebo žltkastohnedej. Mladé klobúky môžu mať na okraji belavé zvyšky závoja.",
+      "hymenium": "Lupene sú husté, k hlúbiku pripojené alebo slabo vykrojené, spočiatku sivastolila alebo bledo ílovité, neskôr tmavo purpurovohnedé až takmer čierne. Ostrie lupeňov je bledšie alebo biele. Prítomné sú aj kratšie lupene (lamelluly).",
+      "stipe": "Hlúbik je 6–20 cm vysoký a 0,9–3,0 cm hrubý, statný, valcovitý alebo na báze slabo kyjakovitý, biely až krémový a často jemne vláknitý. Nesie hrubý, biely, trváci, nahor ohnutý dvojitý prsteň; spodná strana prsteňa je rozčlenená do lúčovitých, ozubenému kolesu podobných segmentov a horná plocha je často poprášená tmavo purpurovočiernymi výtrusmi. Od bázy vyrastajú do drevnej štiepky alebo slamy biele podhubnicové povrazce (rhizomorfy). Pošva chýba.",
+      "flesh": "Dužina je v klobúku aj v hlúbiku hrubá, pevná a biela; hlúbik v starobe býva slabo dutý. Vôňa je mierna, niekedy slabo reďkovková alebo zemitá; chuť je mierna a príjemná.",
+      "sporePrint": "Výtrusný prach je tmavo purpurovohnedý až takmer čierny. Výtrusy sú hladké, elipsoidné, približne 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof na živinami bohatej, často narušenej pôde: drevná a kôrová štiepka, slama, kompost, záhony, parky a podobné drevné zvyšky. Plodnice vyrastajú zvyčajne v skupinách od mája do novembra. V strednej Európe je medzi jarným a jesenným výskytom často letná prestávka. Druh je široko pestovaný na slame alebo drevnej štiepke a často sa objavuje v záhradách a parkoch.",
+      "uses": "Je jedlá a široko pestovaná a všeobecne sa považuje za dobrú jedlú hubu. Rovnako ako mnohé huby môže v kontaminovanej pôde hromadiť ťažké kovy, a plodnice zo znečisteného alebo silne frekventovaného parkového mulča by sa nemali jesť. Zaznamenaná bola aj občasná individuálna neznášanlivosť. Používať treba len dobre určené, čisté zbery.",
+      "confusion": "Najspoľahlivejšie znaky sú veľký vínovočervený klobúk, hrubý biely dvojitý prsteň podobný ozubenému kolesu, purpurovočierne lupene s bledším ostím a biele rhizomorfy na báze v drevnej štiepke alebo na slame. Límcovka oranžová (Leratiomyces ceres) rastie na tých istých stanovištiach na drevnej štiepke, je však oveľa menšia, s jasne oranžovočerveným klobúkom, tenším hlúbikom a slabším prsteňom. Stropharia hornemannii má slizký, žltkastý až hnedý klobúk a pod sukienkovitým prsteňom šupinatý hlúbik a rastie v lese, nie na záhradnom mulči. Druhy rodu Agaricus môžu mať tiež prsteň a statný biely hlúbik, ich lupene však začínajú ružovo a neskôr čokoládovohnednú a postrádajú purpurovočierne lupene aj prsteň podobný ozubenému kolesu. Pavučinovec mohutný (Cortinarius praestans) je oveľa väčšia, statná lesná pavučinovka s pavučinovým závojom, hrdzavohnedými lupeňmi a bez blankovitého prsteňa podobného ozubenému kolesu.",
+      "notes": "Význačné znaky sú vínovočervený až do plava vybledajúci klobúk, hrubý biely dvojitý prsteň so spodnou stranou podobnou ozubenému kolesu, purpurovohnedé až takmer čierne lupene s bledším ostím a biele rhizomorfy na báze statného bieleho hlúbika, typicky v drevnej štiepke alebo na slame.",
+      "names": [],
+      "sourceUrls": [
+        "https://sk.wikipedia.org/wiki/Golierovka_slamomiln%C3%A1",
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "golierovka slamomilná"
+    },
+    "sl": {
+      "description": "Saprotrofna lističasta goba lesnih sekancev, slame, parkov in vrtov, široko gojena in pogosto pojavljajoča se na podobnih rastiščih v Evropi, Severni Ameriki in drugod. Klobuk je velik, v mladosti vinsko rdeč do burgundski, pozneje zbledi v rumenkasto rjavega, suh do rahlo lepljiv in na robu pogosto rahlo valovit. Lističi so sprva sivkasto lila, pozneje škrlatnorjavi do skoraj črni, s svetlejšim ali belim robom. Bet je čokat in bel, z debelim, trajnim, navzgor zavihanim dvojnim obročkom, katerega spodnja stran je razdeljena v žarkaste, zobatemu kolesu podobne segmente; zgornja ploskev obročka je pogosto poprašena temno škrlatnočrnimi trosi. Od dna v sekancih potekajo bele rizomorfe. Volve ni. Trosnjaki se pojavljajo od maja do novembra, pogosto v skupinah.",
+      "cap": "Klobuk meri 4–15 cm premera (izjemoma več). Je sprva polkroglast ali izbočen, pozneje široko sploščen, včasih rahlo grbast, in na robu pogosto valovit ali nepravilen. Površina je gladka do drobno vlaknata, suha do rahlo lepljiva, sveža vinsko rdeča, burgundska ali rdečerjava, s staranjem ali v suhem vremenu zbledi v rumenkasto, okrasto ali rumenkastorjavo. Mladi klobuki imajo lahko na robu belkaste ostanke ovojnice.",
+      "hymenium": "Lističi so gosti, priraščeni na bet ali rahlo izrezani, sprva sivkasto lila ali bledo ilovnati, pozneje temno škrlatnorjavi do skoraj črni. Rob lističev je svetlejši ali bel. Prisotni so krajši lističi (lamelule).",
+      "stipe": "Bet je visok 6–20 cm in debel 0,9–3,0 cm, čokat, valjast ali na dnu rahlo kijačast, bel do kremast in pogosto drobno vlaknat. Nosi debel, bel, trajen, navzgor zavihan dvojni obroček; spodnja stran obročka je razdeljena v žarkaste, zobatemu kolesu podobne segmente, zgornja ploskev pa je pogosto poprašena temno škrlatnočrnimi trosi. Od dna v lesne sekance ali slamo zrastejo bele podgobne vrvi (rizomorfe). Volve ni.",
+      "flesh": "Meso je v klobuku in betu debelo, čvrsto in belo; bet s starostjo postane rahlo votel. Vonj je blag, včasih rahlo redkvin ali zemeljski; okus je blag in prijeten.",
+      "sporePrint": "Trosni prah je temno škrlatnorjav do skoraj črn. Trosi so gladki, elipsoidni, približno 10–15 × 6–9 µm.",
+      "habitat": "Saprotrof na s hranili bogatih, pogosto motenih tleh: lesni in skorjini sekanci, slama, kompost, gredice, parki in podobni lesni ostanki. Trosnjaki se običajno pojavljajo v skupinah od maja do novembra. V Srednji Evropi je med spomladanskim in jesenskim pojavljanjem pogosto poletni premor. Vrsta je široko gojena na slami ali lesnih sekancih in se pogosto pojavlja na vrtovih in v parkih.",
+      "uses": "Je užitna in široko gojena ter na splošno velja za dobro jedilno gobo. Tako kot številne gobe lahko v onesnaženi prsti kopiči težke kovine, zato trosnjakov z onesnažene ali močno obiskane parkovne zastirke ne smemo jesti. Zabeležena je tudi občasna posamezna nestrpnost. Uporabljati je treba le dobro določene, čiste nabire.",
+      "confusion": "Najzanesljivejše znake predstavljajo velik vinsko rdeč klobuk, debel bel dvojni obroček, podoben zobatemu kolesu, škrlatnočrni lističi s svetlejšim robom in bele rizomorfe ob dnu v lesnih sekancih ali na slami. Leratiomyces ceres raste na istih rastiščih na lesnih sekancih, je pa precej manjši, s svetlo oranžnordečim klobukom, tanjšim betom in šibkejšim obročkom. Stropharia hornemannii ima sluzast, rumenkast do rjav klobuk in kosmat bet pod krilatim obročkom ter raste v gozdu, ne na vrtni zastirki. Vrste rodu Agaricus imajo lahko prav tako obroček in čokat bel bet, vendar so njihovi lističi sprva rožnati in pozneje čokoladnorjavi ter nimajo škrlatnočrnih lističev niti obročka, podobnega zobatemu kolesu. Nagubana koprenka (Cortinarius praestans) je precej večja, čokata gozdna koprenka s pajčevinastim ovojem, rjasto rjavimi lističi in brez kožastega obročka, podobnega zobatemu kolesu.",
+      "notes": "Značilni znaki so vinsko rdeč do v rumenkasto bledeč klobuk, debel bel dvojni obroček s spodnjo stranjo, podobno zobatemu kolesu, škrlatnorjavi do skoraj črni lističi s svetlejšim robom in bele rizomorfe ob dnu čokatega belega beta, značilno v lesnih sekancih ali na slami.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151",
+        "https://www.wikidata.org/wiki/Q1236980"
+      ],
+      "label": "kukmakova strniščnica"
+    },
+    "sr": {
+      "description": "Сапротрофна листићаста гљива дрвне сечке, сламе, паркова и вртова, широко гајена и често се појављује на сличним стаништима у Европи, Северној Америци и другде. Шешир је велик, у младости винскоцрвен до бургундски, касније бледи у жућкастосмеђ, сув до благо лепљив и на рубу често благо таласаст. Листићи су испрва сивкастољибичасти, касније пурпурносмеђи до готово црни, са светлијим или белим оштрицама. Дршка је чврста и бела, са дебелим, трајним, навише савијеним двоструким прстеном чија је доња страна подељена у зракасте, зупчастом колу сличне сегменте; горња површина прстена често је попрашена тамнопурпурноцрним спорама. Од базе кроз сечку се пружају беле ризоморфе. Волве нема. Плодна тела се јављају од маја до новембра, често у групама.",
+      "cap": "Шешир има 4–15 cm у пречнику (изузетно више). Испрва је полулоптаст или конвексан, касније широко спљоштен, понекад благо испупчен, а на рубу често таласаст или неправилан. Површина је глатка до фино влакнаста, сува до благо лепљива, свежа винскоцрвена, бургундска или црвеносмеђа, старењем или по сувом времену бледи у жућкасту, окерасту или жућкастосмеђу. Млади шешири могу на рубу имати беличасте остатке вела.",
+      "hymenium": "Листићи су густи, прирасли на дршку или благо урезани, испрва сивкастољибичасти или бледо иловасти, касније тамнопурпурносмеђи до готово црни. Оштрица листића је светлија или бела. Присутни су краћи листићи (ламелуле).",
+      "stipe": "Дршка је висока 6–20 cm и дебљине 0,9–3,0 cm, чврста, ваљкаста или при дну благо тољагаста, бела до крем и често фино влакнаста. Носи дебео, бели, трајни, навише савијени двоструки прстен; доња страна прстена подељена је у зракасте, зупчастом колу сличне сегменте, а горња површина често је попрашена тамнопурпурноцрним спорама. Од базе у дрвну сечку или сламу расту беле мицелијске врпце (ризоморфе). Волве нема.",
+      "flesh": "Месо је у шеширу и дршци дебело, чврсто и бело; дршка са старошћу постаје благо шупља. Мирис је благ, понекад слабо ротквичаст или земљаст; укус је благ и пријатан.",
+      "sporePrint": "Отисак спора је тамнопурпурносмеђ до готово црн. Споре су глатке, елипсоидне, око 10–15 × 6–9 µm.",
+      "habitat": "Сапротроф на хранљивима богатом, често нарушеном тлу: дрвна и корна сечка, слама, компост, леје, паркови и слични дрвни остаци. Плодна тела се обично јављају у групама од маја до новембра. У Средњој Европи између пролећног и јесењег појављивања често постоји летња пауза. Врста се широко гаји на слами или дрвној сечки и често се појављује у вртовима и парковима.",
+      "uses": "Јестива је и широко гајена и уопште се сматра добром јестивом гљивом. Као и многе гљиве може у загађеном тлу да акумулира тешке метале, па плодна тела са загађеног или прометног парковског малча не треба јести. Забележена је и повремена индивидуална неподношљивост. Користити треба само добро одређене, чисте налазе.",
+      "confusion": "Најпоузданија обележја су велики винскоцрвени шешир, дебели бели двоструки прстен сличан зупчастом колу, пурпурноцрни листићи са светлијом оштрицом и беле ризоморфе при бази у дрвној сечки или на слами. Златна витичарка (Leratiomyces ceres) расте на истим стаништима на дрвној сечки, али је знатно мања, са јарко наранџастоцрвеним шеширом, тањом дршком и слабијим прстеном. Stropharia hornemannii има слузав, жућкаст до смеђ шешир и чупаву дршку испод сукњастог прстена и расте у шуми, а не на вртном малчу. Врсте рода Agaricus такође могу имати прстен и чврсту белу дршку, али њихови листићи почињу ружичасто и прелазе у чоколадносмеђе, и немају пурпурноцрне листиће ни прстен сличан зупчастом колу. Дебелоношка (Cortinarius praestans) је знатно већа, чврста шумска копренка са паучинастом копреном, рђавосмеђим листићима и без кожичастог прстена сличног зупчастом колу.",
+      "notes": "Препознатљива обележја су винскоцрвени до у жућкасто бледећи шешир, дебели бели двоструки прстен са доњом страном сличном зупчастом колу, пурпурносмеђи до готово црни листићи са светлијом оштрицом и беле ризоморфе при бази чврсте беле дршке, типично у дрвној сечки или на слами.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En saprotrof skivling på träflis, halm, i parker och trädgårdar, som odlas i stor utsträckning och ofta uppträder på liknande växtplatser i Europa, Nordamerika och någon annanstans. Hatten är stor, som ung vinröd till burgunderröd, senare blekande till ockra eller gulbrun, torr till lätt klibbig och i kanten ofta något vågig. Skivorna är först grålila, senare purpurbruna till nästan svarta, med ljusare eller vit egg. Foten är kraftig och vit, med en tjock, beständig, uppåtvikt dubbelring vars undersida är delad i strålförmade, kugghjulslika segment; ringens ovansida är ofta pudrad mörkt purpursvart av sporer. Från basen löper vita rhizomorfer genom fliset. Volva saknas. Fruktkropparna kommer från maj till november, ofta i grupper.",
+      "cap": "Hatten är 4–15 cm bred (undantagsvis större). Den är först halvklotformad eller välvd, senare brett utbredd, ibland svagt bucklig, och i kanten ofta vågig eller oregelbunden. Ytan är slät till fint trådig, torr till lätt klibbig, färsk vinröd, burgunderröd eller rödbrun, och bleknar med åldern eller i torrt väder till ockra, tan eller gulbrun. Unga hattar kan ha vitaktiga slöjrester i kanten.",
+      "hymenium": "Skivorna är täta, vidvuxna vid foten eller svagt urbugtade, först grålila eller blekt lerfärgade, senare mörkt purpurbruna till nästan svarta. Skivornas egg är ljusare eller vit. Kortare skivor (lamelluler) finns.",
+      "stipe": "Foten är 6–20 cm hög och 0,9–3,0 cm tjock, kraftig, cylindrisk eller vid basen svagt klubbformad, vit till gräddfärgad och ofta fint trådig. Den bär en tjock, vit, beständig, uppåtvikt dubbelring; undersidan av ringen är delad i strålförmade, kugghjulslika segment, och ovansidan är ofta pudrad mörkt purpursvart av sporer. Från basen växer vita mycelsträngar (rhizomorfer) in i träfliset eller halmen. Volva saknas.",
+      "flesh": "Köttet är i hatt och fot tjockt, fast och vitt; foten blir med åldern något ihålig. Lukten är mild, ibland svagt rättikartad eller jordig; smaken är mild och behaglig.",
+      "sporePrint": "Sporavtrycket är mörkt purpurbrunt till nästan svart. Sporerna är släta, ellipsoida, omkring 10–15 × 6–9 µm.",
+      "habitat": "En saprotrof på näringsrik, ofta störd mark: trä- och barkflis, halm, kompost, rabatter, parker och liknande vedartade rester. Fruktkropparna kommer vanligen i grupper från maj till november. I Centraleuropa finns ofta en sommarpaus mellan en vår- och en höstskov. Arten odlas i stor utsträckning på halm eller träflis och uppträder ofta i trädgårdar och parker.",
+      "uses": "Den är ätlig och odlas i stor utsträckning, och betraktas allmänt som en god matsvamp. Som många svampar kan den i förorenad jord anrika tungmetaller, och fruktkroppar från förorenad eller hårt trafikerad parktäckning bör inte ätas. Tillfällig individuell intolerans har också rapporterats. Endast välbestämda, rena fynd bör användas.",
+      "confusion": "De säkraste kännetecknen är den stora vinröda hatten, den tjocka vita, kugghjulslika dubbelringen, de purpursvarta skivorna med ljusare egg och de vita rhizomorferna vid basen i träflis eller halm. Röd kragskivling (Leratiomyces ceres) växer på samma träflisväxtplatser, men är mycket mindre, med en klart orangeröd hatt, en tunnare fot och en svagare ring. Stropharia hornemannii har en slemmig, gulaktig till brun hatt och under en kjollik ring en fjällig fot, och växer i skog, inte på trädgårdstäckning. Arter i släktet Agaricus kan också ha en ring och en kraftig vit fot, men deras skivor börjar rosa och blir chokladbruna, och de saknar purpursvarta skivor och en kugghjulslik ring. Jättespindling (Cortinarius praestans) är en långt större, kraftig skogsspindling med en spindelvävsliknande slöja, rostbruna skivor och utan en hinnaktig, kugghjulslik ring.",
+      "notes": "De utmärkande fältkännetecknen är den vinröda, senare tan-bleknande hatten, den tjocka vita dubbelringen med kugghjulslik undersida, de purpurbruna till nästan svarta skivorna med ljusare egg, och de vita rhizomorferna vid basen av en kraftig vit fot, typiskt i träflis eller på halm.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "jättekragskivling"
+    },
+    "tr": {
+      "description": "Odun yongası, saman, park ve bahçelerin saprotrof lamelli mantarı; yaygın olarak yetiştirilir ve Avrupa, Kuzey Amerika ve başka yerlerde benzer yaşam alanlarında sıkça görünür. Şapka büyüktür, gençken şarap kırmızısından bordo tona kadar değişir, sonra soluk sarımsı kahverengiye solar, kuru veya hafif yapışkandır ve kenarda çoğu zaman hafif dalgalıdır. Lameller önce grimsi leylak, sonra morumsu kahverengiden neredeyse siyaha kadar değişir, daha açık veya beyaz kenarlıdır. Sap kalın ve beyazdır; kalın, kalıcı, yukarı kıvrık çift halkası vardır ve halkanın alt yüzü ışınsal, dişli çarka benzeyen bölümlere ayrılır; halkanın üst yüzü çoğu zaman koyu mor-siyah spor tozuyla örtülüdür. Tabanından yonga içine beyaz rizomorflar uzanır. Volva yoktur. Meyve gövdeleri mayıstan kasıma kadar, çoğu zaman kümeler halinde görünür.",
+      "cap": "Şapka 4–15 cm genişliğindedir (ayrıca daha büyük olabilir). Önce yarıküremsi veya dışbükeydir, sonra genişçe yassılaşır, bazen hafif tümsekli olur ve kenarda çoğu zaman dalgalı veya düzensizdir. Yüzey düzden ince lifliye, kurudan hafif yapışkana kadar değişir; taze iken şarap kırmızısı, bordo veya kırmızımsı kahverengidir ve yaşla veya kuru havada soluk, oker veya sarımsı kahverengiye solar. Genç şapkaların kenarında beyazımsı örtü kalıntıları olabilir.",
+      "hymenium": "Lameller sıktır, sapa bitişik veya hafifçe oyuktur, önce grimsi leylak veya soluk kil renginde, sonra koyu morumsu kahverengiden neredeyse siyaha kadardır. Lamellerin kenarı daha açık veya beyazdır. Daha kısa lameller (lamellulalar) vardır.",
+      "stipe": "Sap 6–20 cm boyunda ve 0,9–3,0 cm kalınlığındadır, sağlam, silindirik veya tabanda hafif sopa biçimli, beyazdan krem rengine ve çoğu zaman ince liflidir. Kalın, beyaz, kalıcı, yukarı kıvrık bir çift halka taşır; halkanın alt yüzü ışınsal, dişli çarka benzeyen bölümlere ayrılır ve üst yüzü çoğu zaman koyu mor-siyah spor tozuyla örtülüdür. Tabandan odun yongasına veya samana beyaz miselyum ipleri (rizomorflar) uzanır. Volva yoktur.",
+      "flesh": "Etli kısım şapka ve sapta kalın, sıkı ve beyazdır; sap yaşla biraz oyulur. Koku hafiftir, bazen hafif turpumsu veya topraksıdır; tat hafif ve hoştur.",
+      "sporePrint": "Spor izi koyu morumsu kahverengiden neredeyse siyaha kadardır. Sporlar düz, elipsoittir, yaklaşık 10–15 × 6–9 µm.",
+      "habitat": "Besince zengin, çoğu zaman bozulmuş toprakların saprotrofudur: odun ve kabuk yongası, saman, kompost, tarhlar, parklar ve benzer odunsu kalıntılar. Meyve gövdeleri genellikle mayıstan kasıma kadar kümeler halinde görünür. Orta Avrupa’da ilkbahar ve sonbahar dalgaları arasında çoğu zaman bir yaz duraklaması vardır. Tür saman veya odun yongası üzerinde yaygın olarak yetiştirilir ve sıkça bahçe ve parklarda görünür.",
+      "uses": "Yenilebilir ve yaygın olarak yetiştirilir, genellikle iyi bir sofra mantarı sayılır. Birçok mantar gibi kirlenmiş toprakta ağır metal biriktirebilir ve kirlenmiş veya yoğun kullanılan park malçından gelen meyve gövdeleri yenmemelidir. Ara sıra bireysel tahammülsüzlük de bildirilmiştir. Yalnızca iyi teşhis edilmiş, temiz toplamalar kullanılmalıdır.",
+      "confusion": "En güvenilir özellikler büyük şarap kırmızısı şapka, kalın beyaz, dişli çarka benzeyen çift halka, daha açık kenarlı mor-siyah lameller ve tabanda yonga veya samandaki beyaz rizomorflardır. Leratiomyces ceres aynı odun yongası yaşam alanlarında büyür, ancak çok daha küçüktür, parlak turuncu-kırmızı şapkalı, daha ince saplı ve daha zayıf halkalıdır. Stropharia hornemannii sümüksü, sarımsı veya kahverengi şapkalıdır, etek biçimli halkanın altında pul pul sapı vardır ve bahçe malçında değil ormanda büyür. Agaricus cinsinin türlerinde de halka ve kalın beyaz sap olabilir, ancak lamelleri pembe başlar ve çikolata kahverengisine döner ve mor-siyah lamelleri ile dişli çarka benzeyen halkaları yoktur. Cortinarius praestans çok daha büyük, sağlam bir orman örümcek mantarıdır, örümcek ağı gibi örtüsü, pas kahverengisi lamelleri vardır ve zarlı, dişli çarka benzeyen halkası yoktur.",
+      "notes": "Ayırt edici arazi özellikleri, şarap kırmızısından soluk tona solan şapka, alt yüzü dişli çarka benzeyen kalın beyaz çift halka, daha açık kenarlı morumsu kahverengiden neredeyse siyaha lameller ve tipik olarak odun yongası veya samanda, kalın beyaz sapın tabanındaki beyaz rizomorflardır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Сапротрофний пластинчастий гриб деревної тріски, соломи, парків і садків, широко культивований і часто з’являється в подібних місцезростаннях у Європі, Північній Америці та в інших регіонах. Шапинка велика, у молодих плодових тіл винно-червона до бордової, пізніше вицвітає до палевої або жовтувато-коричневої, суха або злегка клейка, часто злегка хвиляста по краю. Пластинки спочатку сірувато-лілові, потім пурпурово-коричневі до майже чорних, з блідішим або білим краєм. Ніжка товста і біла, з товстим, стійким, загнутим угору подвійним кільцем, нижній бік якого поділений на радіальні, схожі на зубчасте колесо сегменти; верхній бік кільця часто вкритий темно-пурпурово-чорним споровим порошком. Від основи крізь тріску тягнуться білі ризоморфи. Вольви немає. Плодові тіла з’являються з травня по листопад, часто групами.",
+      "cap": "Шапинка 4–15 см у діаметрі (винятково більша). Спочатку півкуляста або опукла, потім широко розпростерта, інколи слабко горбкувата, і часто хвиляста або неправильна по краю. Поверхня гладенька до тонковолокнистої, суха або злегка клейка, у свіжому стані винно-червона, бордова або червонувато-коричнева, з віком або в суху погоду вицвітає до палевої, вохристої або жовтувато-коричневої. У молодих шапинок по краю можуть бути білуваті залишки покривала.",
+      "hymenium": "Пластинки густі, прирослі до ніжки або злегка виїмчасті, спочатку сірувато-лілові або блідо-глинисті, пізніше темно-пурпурово-коричневі до майже чорних. Край пластинок блідіший або білий. Є коротші пластинки (ламелули).",
+      "stipe": "Ніжка 6–20 см заввишки і 0,9–3,0 см завтовшки, міцна, циліндрична або біля основи слабко булавоподібна, біла до кремової і часто тонковолокниста. Несе товсте, біле, стійке, загнуте вгору подвійне кільце; нижній бік кільця поділений на радіальні, схожі на зубчасте колесо сегменти, а верхній часто вкритий темно-пурпурово-чорним споровим порошком. Від основи в деревну тріску або солому ростуть білі міцеліальні тяжі (ризоморфи). Вольви немає.",
+      "flesh": "М'якуш у шапинці й ніжці товстий, щільний і білий; ніжка з віком стає злегка порожнистою. Запах слабкий, інколи злегка редьковий або землистий; смак слабкий і приємний.",
+      "sporePrint": "Споровий порошок темно-пурпурово-коричневий до майже чорного. Спори гладенькі, еліпсоїдні, близько 10–15 × 6–9 µm.",
+      "habitat": "Сапротроф багатих на поживні речовини, часто порушених ґрунтів: деревна і корова тріска, солома, компост, клумби, парки й подібні деревні рештки. Плодові тіла зазвичай з’являються групами з травня по листопад. У Центральній Європі між весняною і осінньою хвилями часто буває літня перерва. Вид широко культивують на соломі або трісці, і він часто з’являється в садках і парках.",
+      "uses": "Їстівний і широко культивований, зазвичай вважається добрим столовим грибом. Як багато грибів, на забруднених ґрунтах може накопичувати важкі метали, і плодові тіла із забрудненої або дуже відвідуваної паркової мульчі їсти не слід. Повідомлялося також про рідкісну індивідуальну непереносимість. Використовувати слід лише добре визначені, чисті збори.",
+      "confusion": "Найбільш надійні ознаки — велика винно-червона шапинка, товсте біле подвійне кільце, схоже на зубчасте колесо, пурпурово-чорні пластинки з блідішим краєм і білі ризоморфи біля основи в трісці або на соломі. Leratiomyces ceres росте в тих самих місцезростаннях на трісці, але набагато дрібніший, з яскраво-помаранчево-червоною шапинкою, тоншою ніжкою і слабшим кільцем. Stropharia hornemannii має слизову, жовтувату до коричневої шапинку і лускату ніжку під спідницеподібним кільцем і росте в лісі, а не на садовій мульчі. Види роду Agaricus також можуть мати кільце і міцну білу ніжку, але їхні пластинки починаються рожевими і стають шоколадно-коричневими, і в них немає пурпурово-чорних пластинок і кільця, схожого на зубчасте колесо. Cortinarius praestans — набагато більший, міцний лісовий павутинник з павутинним покривалом, іржаво-коричневими пластинками і без перетинчастого кільця, схожого на зубчасте колесо.",
+      "notes": "Характерні польові ознаки — винно-червона, пізніше вицвітаюча до палевої шапинка, товсте біле подвійне кільце з нижнім боком, схожим на зубчасте колесо, пурпурово-коричневі до майже чорних пластинки з блідішим краєм і білі ризоморфи біля основи міцної білої ніжки, зазвичай у деревній трісці або на соломі.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2533347",
+        "https://www.inaturalist.org/taxa/119151"
+      ],
+      "label": "строфарія зморшкувато-кільцева"
+    },
+    "zh": {
+      "description": "木屑覆蓋物、稻草、公園與園圃的腐生褶菌，廣泛栽培，並常在歐洲、北美洲及其他類似生長環境出現。菌蓋大型，幼時酒紅色至暗紅色，之後褪成黃褐色，乾燥至稍帶黏性，邊緣常略呈波狀。菌褶起初灰紫色，之後紫褐色至近黑色，褶緣較淡或白色。菌柄粗壯而白色，具厚實、宿存、向上翻捲的雙層菌環，其下表面裂成輻射狀、如齒輪的裂片；菌環上表面常覆有暗紫黑色孢子粉。基部有白色根狀菌索伸入木屑。無菌托。子實體於五月至十一月出現，常成群。",
+      "cap": "菌蓋直徑4–15 cm（偶爾更大）。起初半球形或凸形，之後寬廣展平，有時略具凸起，邊緣常呈波狀或不規則。表面平滑至細纖維狀，乾燥至稍帶黏性，新鮮時酒紅色、酒紅色或紅褐色，隨齡或乾燥天氣褪成淡褐色、赭色或黃褐色。幼蓋邊緣可帶白色菌幕殘片。",
+      "hymenium": "菌褶密，貼生於菌柄或略呈凹生，起初灰紫色或淡黏土色，之後暗紫褐色至近黑色。菌褶邊緣較淡或白色。具較短菌褶（小菌褶）。",
+      "stipe": "菌柄高6–20 cm、粗0.9–3.0 cm，粗壯，圓柱形或基部略呈棒狀，白色至乳白色，常具細纖維。具厚實、白色、宿存、向上翻捲的雙層菌環；菌環下表面裂成輻射狀、如齒輪的裂片，上表面常覆有暗紫黑色孢子粉。基部有白色菌絲索（根狀菌索）伸入木屑或稻草。無菌托。",
+      "flesh": "菌肉在菌蓋與菌柄中厚實、堅實而白色；菌柄隨齡略中空。氣味淡，有時略帶蘿蔔味或土味；味道淡而宜人。",
+      "sporePrint": "孢子印為暗紫褐色至近黑色。孢子平滑、橢圓形，約10–15 × 6–9 µm。",
+      "habitat": "營養豐富、常受干擾土壤上的腐生菌：木屑與樹皮覆蓋物、稻草、堆肥、花壇、公園及類似木質殘體。子實體通常於五月至十一月成群出現。在中歐，春、秋兩波發生之間常有夏季間歇。本種廣泛以稻草或木屑栽培，並常出現於園圃與公園。",
+      "uses": "可食且廣泛栽培，一般視為良好的餐桌蕈。如同許多蕈類，它可在受污染土壤中累積重金屬，來自受污染或人潮密集公園覆蓋物的子實體不宜食用。亦有偶發的個別不耐症報告。僅應使用鑑定確實、清潔的採集。",
+      "confusion": "最可靠的特徵是大型酒紅色菌蓋、厚實白色齒輪狀雙層菌環、褶緣較淡的紫黑色菌褶，以及木屑或稻草中基部的白色根狀菌索。穀神星勒氏菌（Leratiomyces ceres）生長於同樣的木屑環境，但體型小得多，具鮮橙紅色菌蓋、較細的菌柄與較弱的菌環。Stropharia hornemannii具黏性、淡黃至褐色的菌蓋，裙狀菌環下方有鱗片狀菌柄，生長於林地而非園圃覆蓋物。Agaricus屬種類亦可具菌環與粗壯白柄，但其菌褶始為粉紅色、後轉巧克力褐色，且無紫黑色菌褶與齒輪狀菌環。Cortinarius praestans是體型大得多、粗壯的林地絲膜菌，具蛛網狀菌幕與鏽褐色菌褶，而無膜質齒輪狀菌環。",
+      "notes": "野外的辨識特徵是酒紅色、之後褪成淡褐色的菌蓋，下表面呈齒輪狀的厚實白色雙層菌環，褶緣較淡的紫褐色至近黑色菌褶，以及粗壯白柄基部的白色根狀菌索，典型見於木屑覆蓋物或稻草上。",
+      "names": [
+        "皺環球蓋菇"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1236980",
+        "https://www.inaturalist.org/taxa/119151",
+        "https://www.gbif.org/species/2533347"
+      ],
+      "label": "大球盖菇"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Psilocybe rugosoannulata",
+      "author": "(Farl. ex Murrill) Noordel.",
+      "year": 1995,
+      "rank": "species",
+      "type": "synonym",
+      "if": 414038
+    },
+    {
+      "name": "Naematoloma rugosoannulatum",
+      "author": "(Farl. ex Murrill) S. Ito",
+      "year": 1959,
+      "rank": "species",
+      "type": "synonym",
+      "if": 521786
+    },
+    {
+      "name": "Stropharia ferrii",
+      "author": "Bres.",
+      "year": 1926,
+      "rank": "species",
+      "type": "synonym",
+      "if": 264771
+    },
+    {
+      "name": "Naematoloma ferrii",
+      "author": "(Bres.) Singer",
+      "year": 1951,
+      "rank": "species",
+      "type": "synonym",
+      "if": 652397
+    },
+    {
+      "name": "Naematoloma ferrei",
+      "author": "(Bres.) Singer",
+      "year": 1951,
+      "rank": "species",
+      "type": "synonym",
+      "if": 521823
+    }
+  ],
+  "reserved": false,
+  "id": 223,
+  "citation": "Mycologia 14(3): 139 (1922)"
 }
 ];

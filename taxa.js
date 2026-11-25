@@ -1158,5 +1158,8 @@ export const TAXA = {
   },
   Rhodocollybia: {
     rank: "genus"
+  },
+  Stropharia: {
+    rank: "genus"
   }
 };
