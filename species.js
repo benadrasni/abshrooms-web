@@ -217600,5 +217600,1698 @@ export const CATALOG = [
       "rank": "species"
     }
   ]
+},
+{
+  "id": 216,
+  "name": "Macrocystidia cucumis",
+  "author": "(Pers.) Joss.",
+  "citation": "Bull. Trimestriel Soc. Mycol. France 49(3-4): 373 (1934) [1933]",
+  "family": "Macrocystidiaceae",
+  "genus": "Macrocystidia",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Macrocystidiaceae",
+    "Macrocystidia"
+  ],
+  "summary": [
+    "Agaricales",
+    "Macrocystidiaceae",
+    "Macrocystidia"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "ground",
+    "wood",
+    "grass"
+  ],
+  "color": [
+    "brown",
+    "red",
+    "dark"
+  ],
+  "capFrom": 1.0,
+  "capTo": 6.0,
+  "stipeHeightFrom": 2.5,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 0.2,
+  "stipeThickTo": 0.8,
+  "fruitingFrom": 6,
+  "fruitingTo": 12,
+  "added": "2026-11-24",
+  "label": {
+    "cs": "cystidovka rybovonná",
+    "da": "agurkehat",
+    "de": "Gurkenschnitzling",
+    "en": "cucumber cap",
+    "et": "kurgiseen",
+    "fr": "naucorie à odeur de concombre",
+    "hu": "hamvas uborkagomba",
+    "ja": "クリイロムクエタケ",
+    "lt": "agurkinė didpūslė",
+    "nl": "levertraanzwam",
+    "no": "agurkhatt",
+    "pl": "mięsichówka ogórkowonna",
+    "ro": "castravetele pădurii",
+    "sk": "smeťovček uhorkový",
+    "sv": "transkräling",
+    "zh": "瓜形大囊傘"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "kržatka okurková",
+      "kržatka rybovonná",
+      "kržatička okurková"
+    ],
+    "da": [],
+    "de": [
+      "Gemeiner Gurkenschnitzling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "macrocystidie à odeur de concombre"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "mięsicha ogórkowa",
+      "skórzak ogórkowy",
+      "bedłka ogórkowa",
+      "drobniak ogórkowy",
+      "nicówka ogórkowa"
+    ],
+    "pt": [],
+    "ro": [
+      "castraveții pădurii"
+    ],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=251679",
+        "detail": "251679"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=251679",
+        "detail": "251679"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/9107939",
+        "detail": "9107939"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/3X4LJ"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1555204"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/macrocystidia-cucumis.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert",
+        "href": "https://www.mushroomexpert.com/macrocystidia_cucumis.html"
+      },
+      {
+        "group": "text",
+        "name": "MykoWeb",
+        "href": "https://www.mykoweb.com/CAF/species/Macrocystidia_cucumis.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Macrocystidia-cucumis/"
+      },
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Macrocystidia&espece=cucumis"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Macrocystidia_cucumis"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Gurkenschnitzling",
+        "detail": "de"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Mi%C4%99sich%C3%B3wka_og%C3%B3rkowonna",
+        "detail": "pl"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ro.wikipedia.org/wiki/Macrocystidia_cucumis",
+        "detail": "ro"
+      }
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Macrocystidia-cucumis/"
+    ],
+    "da": [
+      "https://www.gbif.org/species/9107939"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Gurkenschnitzling"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Kurgiseen"
+    ],
+    "fr": [
+      "https://www.mycodb.fr/fiche.php?genre=Macrocystidia&espece=cucumis",
+      "https://www.gbif.org/species/9107939"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Hamvas_uborkagomba"
+    ],
+    "ja": [
+      "https://www.gbif.org/species/9107939"
+    ],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Agurkin%C4%97_didp%C5%ABsl%C4%97"
+    ],
+    "nl": [
+      "https://www.gbif.org/species/9107939"
+    ],
+    "no": [
+      "https://www.gbif.org/species/9107939"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Mi%C4%99sich%C3%B3wka_og%C3%B3rkowonna"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Macrocystidia_cucumis"
+    ],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Transkr%C3%A4ling",
+      "https://www.gbif.org/species/9107939"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q1555204",
+      "https://www.gbif.org/species/9107939"
+    ]
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Mycological plate generated with Gemini in Bresadola style (848x1264 image LANCZOS-resized to 1600x2400 and 400x600 WebP). Shows mature fruiting bodies, conical young specimen, underside gill view, and vertical section of Macrocystidia cucumis on beech leaf litter and woodchips.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis_1.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gruga-0102.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis_2.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gruga-0104.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis_3.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrocystidia_cucumis_(23922439708).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis_4.webp",
+      "author": "Lukas from London, England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrocystidia_cucumis_-_Cucumber_Cap_(49264334607).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Macrocystidiaceae/Macrocystidia_cucumis/Macrocystidia_cucumis_5.webp",
+      "author": "Tim Sage",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Macrocystidia_cucumis_12435423.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "description": "A small, saprotrophic agaric that fruits singly, in small groups, or in troops on humus-rich soil, leaf litter, and woody debris. Widespread across Europe, Britain and Ireland, North America, North Africa, and northern Asia, and also recorded in Australia and New Zealand, it is frequently overlooked despite its distinctive odour.",
+      "cap": "1–6 cm across, conical to bell-shaped when young, expanding to broadly convex or nearly flat with age and often retaining a low central umbo. The surface is smooth, matte, and finely velvety or silky from numerous projecting pileocystidia, becoming slightly shiny when wet. Strongly hygrophanous, it is deep reddish-brown to chestnut-brown and blackish-brown at the centre, shading to a distinctly paler yellowish-buff or whitish-ochre margin that is faintly translucent-striate when moist, and fading overall to dingy buff or pale ochre-brown in dry weather. Potassium hydroxide (KOH) turns the cap surface dark olive, then grey.",
+      "hymenium": "Broad, ventricose, close to crowded gills with numerous short-gills, narrowly attached, notched, or nearly free in age. Whitish to cream or pale buff when young, they turn pale pinkish-beige, yellowish-pink, or pale reddish-ochre as the spores mature, and may bruise darker brown. Basidia are cylindrical to clavate, 20–25 × 7–8 µm, four-spored (occasionally two-spored), with basal clamp connections. Abundant, huge lanceolate cheilocystidia and pleurocystidia, 50–100 × 13–25 µm, line the gill edges and faces and are large enough to be seen with a good hand lens.",
+      "stipe": "2.5–8 cm tall and 0.2–0.8 cm thick, cylindrical, equal or tapering slightly toward the base, sometimes grooved or slightly flattened, stiff, cartilaginous, pliant, and hollow, with no ring or volva. Pale cream, buff, or ochre-brown and finely pruinose near the apex, it darkens steadily downward to deep chestnut-brown or blackish-brown at the base, and is clad throughout in a fine velvety sheen formed by fasciculate caulocystidia.",
+      "flesh": "Thin and watery brownish to dirty whitish in the cap, darker chestnut-brown to blackish-brown and tougher in the stipe. It has a strong, penetrating odour of freshly cut cucumbers, often shifting to herring, fish oil, or sardines, especially in older specimens and lingering on the fingers; the taste is mild to faintly fishy or slightly unpleasant.",
+      "sporePrint": "Variable, ranging from pale pinkish-brown, reddish-ochre, or rusty-ochre to dirty yellowish, pinkish, or nearly white in pale-spored forms. Spores measure 6.5–10 × 3–5 µm (occasionally to 11 µm long), are ellipsoid to narrowly amygdaliform or fusiform, smooth, thin-walled, pale reddish under the microscope, and inamyloid.",
+      "habitat": "Saprotrophic on decaying woody debris, woodchip mulch, needle and broadleaf litter (especially beech), and moist, nitrogen- or humus-rich soil. It fruits singly, scattered, or in troops in deciduous and coniferous woodlands, shaded paths, roadside verges, stream banks, gardens, parks, and among grass or nettles. In temperate regions it appears mainly from June or July to November or December, with occasional fruitings in spring and winter during mild weather.",
+      "uses": "Inedible and of no culinary value, with a tough stipe, thin flesh, and an unappealing cucumber-to-fishy odour and taste; some authorities also suspect it may be mildly poisonous.",
+      "confusion": "The penetrating cucumber-to-fishy odour, finely velvety dark stipe, and huge lanceolate cystidia make fresh fruit bodies distinctive. Flammulina velutipes also has a dark velvety stipe, but grows in clusters directly on wood in winter, has a bright orange-yellow viscid cap, lacks a cucumber odour, and produces a white spore print. Pluteus cervinus fruits on rotting wood, has a larger, flatter, radially fibrillose cap with completely free gills, and lacks the velvety stipe and cucumber odour. Rhodocollybia butyracea has a greasy, smooth, non-velvety cap and a swollen, hollow stipe without a fishy smell. Entoloma vernum has a silky-fibrillose grey-brown cap, lacks giant cystidia and the cucumber odour, and produces angular spores.",
+      "notes": "The enormous lanceolate cystidia covering the cap, gills, and stipe are responsible for the characteristic velvety surface and can be discerned even with a strong hand lens. Once considered uncommon in parts of its range, the species has become more frequently recorded with the widespread use of woodchip mulch in parks and gardens. Two small-fruited varieties are traditionally distinguished in Europe: var. latifolia, with broad gills and an orange-ochre spore print, and var. leucospora, with narrow gills and a nearly white spore print."
+    },
+    "sk": {
+      "description": "Malá saprotrofná lupenatá huba, ktorá plodí jednotlivo, v malých skupinách alebo v húfoch na pôde bohatej na humus, opadanom lístí a drevných zvyškoch. Je široko rozšírená v celej Európe, vo Veľkej Británii a Írsku, v Severnej Amerike, severnej Afrike a severnej Ázii a bola zaznamenaná aj v Austrálii a na Novom Zélande; napriek svojej charakteristickej vôni však býva často prehliadaná.",
+      "cap": "Klobúk má v priemere 1–6 cm, za mladi je kužeľovitý až zvoncovitý, vekom sa rozprestiera na široko klenutý až takmer plochý a často si zachováva nízky stredový hrboľ. Povrch je hladký, matný a jemne zamatový alebo hodvábisty od početných vyčnievajúcich pileocystíd, za mokra mierne lesklý. Je výrazne hygrofánny, v strede sýto červenohnedý až gaštanovohnedý a černastohnedý, smerom k okraju prechádza do zreteľne bledšej žltkasto-plavej alebo belavookrovej farby, pričom okraj je za vlhka slabo presvitavo ryhovaný; v suchom počasí celý klobúk bledne do špinavoplavej až bledo okrovohnedej farby. Hydroxid draselný (KOH) sfarbuje povrch klobúka na tmavoolivovo, neskôr na sivo.",
+      "hymenium": "Lupene sú široké, bruškaté, stredne husté až husté s početnými kratšími lupienkami, úzko pripojené, zúbkom vykrojené alebo vekom takmer voľné. Za mladi sú belavé až krémové alebo bledo plavé, dozrievaním výtrusov sa menia na bledo ružovkastobéžové, žltkastoružové alebo bledo červenookrové a po otlačení môžu hnednúť. Bazídiá sú valcovité až kyjakovité, 20–25 × 7–8 µm, štvorvýtrusné (zriedkavo dvojvýtrusné), s prackami na báze. Početné obrovské kopijovité cheilocystidy a pleurocystidy s rozmermi 50–100 × 13–25 µm lemujú ostrie aj plochu lupeňov a sú natoľko veľké, že ich možno vidieť dobrou lupou.",
+      "stipe": "Hlúbik je 2,5–8 cm vysoký a 0,2–0,8 cm hrubý, valcovitý, rovnako hrubý alebo smerom k báze mierne zúžený, niekedy ryhovaný alebo mierne sploštený, pevný, chrupavkovitý, pružný a dutý, bez prsteňa a pošvy. Pri vrchole je bledokrémový, plavý alebo okrovohnedý a jemne oinovatený, smerom nadol postupne tmavne do sýtej gaštanovohnedej až černastohnedej pri báze a po celej dĺžke ho pokrýva jemný zamatový lesk tvorený zväzkovitými kaulocystidami.",
+      "flesh": "Dužina je v klobúku tenká a vodnato hnedastá až špinavobelavá, v hlúbiku tmavšia gaštanovohnedá až černastohnedá a tuhšia. Má silnú, prenikavú vôňu čerstvo rozkrojených uhoriek, ktorá najmä pri starších plodniciach často prechádza do pachu sleďov, rybieho tuku alebo sardiniek a dlho pretrváva na prstoch; chuť je mierna až slabo rybacia alebo mierne nepríjemná.",
+      "sporePrint": "Výtrusný prach je premenlivý, od bledoružovohnedého, červenookrového alebo hrdzavookrového až po špinavožltkastý, ružovkastý či pri bledovýtrusných formách takmer biely. Výtrusy merajú 6,5–10 × 3–5 µm (zriedkavo do dĺžky 11 µm), sú elipsoidné až úzko mandľovité alebo vretenovité, hladké, tenkostenné, pod mikroskopom bledo červenkasté a neamyloidné.",
+      "habitat": "Saprotrofná huba rastúca na tlejúcich drevných zvyškoch, drevnej štiepke, ihličnatej aj listnatej opadanke (najmä bukovej) a vlhkej pôde bohatej na dusík alebo humus. Plodí jednotlivo, roztrúsene alebo v húfoch v listnatých a ihličnatých lesoch, na zatienených chodníkoch, okrajoch ciest, brehoch potokov, v záhradách, parkoch aj v tráve či medzi žihľavou. V miernom pásme sa objavuje najmä od júna alebo júla do novembra až decembra, za mierneho počasia občas aj na jar a v zime.",
+      "uses": "Nejedlá a bez kulinárskej hodnoty pre tuhý hlúbik, tenkú dužinu a nepríjemnú uhorkovú až rybaciu vôňu a chuť; niektorí autori ju navyše podozrievajú z miernej jedovatosti.",
+      "confusion": "Prenikavá uhorková až rybacia vôňa, jemne zamatový tmavý hlúbik a obrovské kopijovité cystidy robia čerstvé plodnice nezameniteľnými. Plamienka zimná (Flammulina velutipes) má takisto tmavý zamatový hlúbik, ale rastie v trsoch priamo na dreve v zime, má žiarivo oranžovožltý slizký klobúk, nevonia po uhorkách a má biely výtrusný prach. Štítovka jelenia (Pluteus cervinus) rastie na tlejúcom dreve, má väčší, plochejší, lúčovito vláknitý klobúk s úplne voľnými lupeňmi a chýba jej zamatový hlúbik aj uhorková vôňa. Peniazovka maslová (Rhodocollybia butyracea) má mastný, hladký, nezamatový klobúk a zhrubnutý, dutý hlúbik bez rybieho pachu. Hodvábnica včasná (Entoloma vernum) má hodvábne vláknitý sivohnedý klobúk, nemá obrovské cystidy ani uhorkovú vôňu a vytvára hranaté výtrusy.",
+      "notes": "Obrovské kopijovité cystidy pokrývajúce klobúk, lupene aj hlúbik spôsobujú charakteristický zamatový povrch a dajú sa rozpoznať aj silnou lupou. Hoci sa tento druh kedysi v časti svojho areálu považoval za zriedkavý, so širokým využívaním mulča z drevnej štiepky v parkoch a záhradách sa zaznamenáva častejšie. V Európe sa tradične rozlišujú dve drobnoplodé variety: var. latifolia so širokými lupeňmi a oranžovookrovým výtrusným prachom a var. leucospora s úzkymi lupeňmi a takmer bielym výtrusným prachom."
+    },
+    "ar": {
+      "description": "فطر صفائحي رمّي صغير يثمر منفرداً أو في مجموعات صغيرة أو في أسراب على التربة الغنية بالدبال وفرش الأوراق وبقايا الخشب المتحللة. ينتشر على نطاق واسع في أنحاء أوروبا وبريطانيا وأيرلندا وأمريكا الشمالية وشمال إفريقيا وشمال آسيا، كما سُجِّل في أستراليا ونيوزيلندا، وكثيراً ما يغفل عنه على الرغم من رائحته المميزة.",
+      "cap": "بعرض ١–٦ سم، مخروطية إلى جرسية الشكل في الصغر، ثم تنبسط لتصبح محدبة عريضة أو شبه مسطحة مع التقدم في العمر وغالباً ما تحتفظ بسنام مركزي منخفض. السطح أملس غير لامع، ومخملي ناعم أو حريري بفعل العديد من الكيسيدات القبعية البارزة، ويصبح لامعاً قليلاً عندما يبتل. شديد التغير بالرطوبة (هيغروفاني)؛ فلونه بني محمر غامق إلى كستنائي وبني مسود في المركز، ويتدرج نحو حافة أفتح بوضوح ذات لون برتقالي مصفر شاحب أو مغري مبيض تكون مخططة بشفافية باهتة عند الرطوبة، ويشحب بكامله في الطقس الجاف إلى لون بيج كدر أو بني مغري باهت. يحوّل هيدروكسيد البوتاسيوم (KOH) سطح القبعة إلى زيتوني داكن ثم إلى رمادي.",
+      "hymenium": "صفائح عريضة منتفخة، متقاربة إلى مزدحمة مع العديد من الصفائح القصيرة، متصلة اتصالاً ضيقاً بالساق أو مثلمة أو تكاد تكون حرة مع التقدم في العمر. لونها مبيض إلى كريمي أو بيج باهت في الصغر، ثم تتحول إلى بيج وردي باهت أو وردي مصفر أو مغري محمر باهت مع نضوج الأبواغ، وقد يتغير لونها إلى بني أغمق عند الكدم. الدعامات أسطوانية إلى هراوية الشكل، بأبعاد ٢٠–٢٥ × ٧–٨ ميكرومتر، رباعية الأبواغ (وأحياناً ثنائية الأبواغ)، مع وصلات مشبكية قاعدية. وتبطن حواف الصفائح ووجوهها كيسيدات طرفية وكيسيدات جانبية رمحية ضخمة وفيرة بأبعاد ٥٠–١٠٠ × ١٣–٢٥ ميكرومتر، وهي كبيرة بما يكفي لرؤيتها بعدسة يدوية جيدة.",
+      "stipe": "بارتفاع ٢٫٥–٨ سم وسماكة ٠٫٢–٠٫٨ سم، أسطوانية متساوية السمك أو مستدقة قليلاً نحو القاعدة، ومثلمة أو مسطحة قليلاً أحياناً، قاسية وغضروفية ومرنة ومجوفة، ومن دون حلقة أو غمد (فولفا). لونها كريمي باهت أو بيج أو بني مغري ومغطاة بغبار ناعم قرب القمة، وتزداد قتامة تدريجياً نحو الأسفل حتى تصبح بنية كستنائية داكنة أو بنية مسودة عند القاعدة، ويكسوها بالكامل لمعان مخملي ناعم تشكّله كيسيدات ساقية متجمعة في حزم.",
+      "flesh": "رقيق ومائي بني إلى مبيض كدر في القبعة، وأغمق بلون بني كستنائي إلى بني مسود وأكثر قساوة في الساق. له رائحة قوية نفاذة تشبه رائحة الخيار المقطوع حديثاً، وغالباً ما تتحول إلى رائحة سمك الرنجة أو زيت السمك أو السردين، لا سيما في العينات المسنة، وتبقى عالقة بالأصابع؛ وطعمه معتدل إلى سمكي خفيف أو غير مستساغ قليلاً.",
+      "sporePrint": "متغيرة، تتراوح من البني الوردي الباهت أو المغري المحمر أو المغري الصدئ إلى الأصفر الكدر أو الوردي أو شبه الأبيض في الأشكال ذات الأبواغ الباهتة. تقاس الأبواغ بأبعاد ٦٫٥–١٠ × ٣–٥ ميكرومتر (وأحياناً حتى ١١ ميكرومتر طولاً)، إهليلجية إلى لوزية ضيقة أو مغزلية الشكل، ملساء، رقيقة الجدار، محمرة باهتة تحت المجهر، وغير نشوية (إيناميلويدية).",
+      "habitat": "رمّي على بقايا الخشب المتحلل ونشارة رقائق الخشب وفرش الإبر والأوراق العريضة (لا سيما الزان) والتربة الرطبة الغنية بالنيتروجين أو الدبال. يثمر منفرداً أو متفرقاً أو في أسراب في الغابات النفضية والصنوبرية والممرات الظليلة وحواف الطرق وضفاف الجداول والحدائق والمتنزهات وبين الأعشاب أو القراص. يظهر في المناطق المعتدلة أساساً من يونيو أو يوليو حتى نوفمبر أو ديسمبر، مع إثمار عرضي في الربيع والشتاء خلال الطقس المعتدل.",
+      "uses": "غير صالح للأكل ولا قيمة غذائية أو مطبخية له، إذ يتميز بساق قاسية ولحم رقيق ورائحة وطعم غير مستساغين بين الخيار والسمك؛ كما يشتبه بعض المختصين في احتمال كونه ساماً بشكل طفيف.",
+      "confusion": "تجعل الرائحة النفاذة التي تتراوح بين الخيار والسمك والساق الداكنة المخملية الناعمة والكيسيدات الرمحية الضخمة الأجسام الثمرية الطازجة مميزة بوضوح. يمتلك Flammulina velutipes أيضاً ساقاً داكنة مخملية، غير أنه ينمو في عناقيد مباشرة على الخشب في الشتاء، وله قبعة لزجة صفراء برتقالية زاهية، ويفتقر إلى رائحة الخيار، وينتج طبعة أبواغ بيضاء. أما Pluteus cervinus فيثمر على الخشب المتعفن، وله قبعة أكبر وأكثر تسطحاً ومخططة بألياف شعاعية مع صفائح حرة تماماً، ويفتقر إلى الساق المخملية ورائحة الخيار. ولدى Rhodocollybia butyracea قبعة دهنية ملساء غير مخملية وساق منتفخة مجوفة بلا رائحة سمكية. بينما يتميز Entoloma vernum بقبعة بنية رمادية ذات ألياف حريرية، ويفتقر إلى الكيسيدات العملاقة ورائحة الخيار، وينتج أبواغاً مضلعة.",
+      "notes": "الكيسيدات الرمحية الهائلة التي تغطي القبعة والصفائح والساق هي المسؤولة عن السطح المخملي المميز، ويمكن تمييزها حتى بعدسة يدوية قوية. وبعد أن كان هذا النوع يُعدّ غير شائع في أجزاء من نطاق انتشاره، بات يُسجَّل بتكرار أكبر مع الانتشار الواسع لاستخدام نشارة رقائق الخشب في المتنزهات والحدائق. ويُميَّز تقليدياً في أوروبا ضربان صغيرَا الحجم: var. latifolia ذو الصفائح العريضة وطبعة الأبواغ المغرية البرتقالية، وvar. leucospora ذو الصفائح الضيقة وطبعة الأبواغ شبه البيضاء."
+    },
+    "bg": {
+      "description": "Дребна сапротрофна пластинчата гъба, която плододава поединично, на малки групи или на находища върху богата на хумус почва, листна постилка и дървесни остатъци. Широко разпространена е в Европа, Великобритания и Ирландия, Северна Америка, Северна Африка и Северна Азия, а също така е регистрирана в Австралия и Нова Зеландия, но често остава незабелязана въпреки характерната си миризма.",
+      "cap": "Гуглата е широка 1–6 cm, в младост конусовидна до камбанковидна, с възрастта се разперва до широко изпъкнала или почти плоска, като често запазва ниска централна гърбица. Повърхността е гладка, матова и фино кадифена или копринена от многобройните стърчащи пилеоцистиди, а при влажно време става леко лъскава. Силно хигрофанна е: наситено червеникавокафява до кестенявокафява и чернокафява в центъра, преминаваща към осезаемо по-блед жълтеникаво-охрен или белезникаво-охрен ръб, който при влага е слабо прозиращо набразден, а при сухо време избледнява изцяло до мръсно охрено или бледо охренокафяво. Калиевият хидроксид (KOH) оцветява повърхността на гуглата в тъмно маслиненозелено, а след това в сиво.",
+      "hymenium": "Ламелите са широки, коремчести, гъсти до много гъсти, с многобройни къси междинни ламели, тясно прираснали, изрязани или с възрастта почти свободни. В младост са белезникави до кремави или бледоохрени, при узряването на спорите стават бледо розовато-бежови, жълтеникаворозови или бледо червеникаво-охрени и при нараняване могат да потъмнеят до по-тъмнокафяво. Базидиите са цилиндрични до бухалковидни, 20–25 × 7–8 µm, четириспорни (понякога двуспорни), с базални клампи. Обилни огромни ланцетовидни хейлоцистиди и плевроцистиди с размери 50–100 × 13–25 µm покриват ръбовете и страните на ламелите и са достатъчно едри, за да се видят с добра лупа.",
+      "stipe": "Пънчето е високо 2,5–8 cm и дебело 0,2–0,8 cm, цилиндрично, равно или леко стеснено към основата, понякога набраздено или леко сплеснато, жилаво, хрущялно, еластично и кухо, без пръстен и волва. Близо до върха е бледокремаво, охрено или охренокафяво и фино напрашено, надолу постепенно потъмнява до наситено кестенявокафяво или чернокафяво в основата и по цялата си дължина е покрито с фина кадифена покривка, образувана от снопчести каулоцистиди.",
+      "flesh": "Месото е тънко и воднисто кафеникаво до мръснобелезникаво в гуглата, а в пънчето е по-тъмно кестенявокафяво до чернокафяво и по-жилаво. Има силна, проникваща миризма на прясно нарязани краставици, която често преминава в миризма на херинга, рибено масло или сардини, особено при по-стари екземпляри, и се задържа дълго по пръстите; вкусът е мек до слабо рибен или леко неприятен.",
+      "sporePrint": "Споровият прашец е променлив — от бледо розоватокафяв, червеникаво-охрен или ръждиво-охрен до мръсножълтеникав, розовеещ или почти бял при светлоспорните форми. Спорите са с размери 6,5–10 × 3–5 µm (понякога до 11 µm дълги), елипсовидни до тясно бадемовидни или вретеновидни, гладки, тънкостенни, бледочервеникави под микроскоп и инамилоидни.",
+      "habitat": "Сапротроф върху разлагащи се дървесни остатъци, мулч от дървесни стърготини, иглолистна и широколистна постилка (особено букова) и влажна, богата на азот или хумус почва. Плододава поединично, разпръснато или на групи в широколистни и иглолистни гори, по сенчести пътеки, крайпътни ивици, брегове на потоци, в градини, паркове и сред трева или коприва. В умерените области се появява главно от юни или юли до ноември или декември, с редки плододавания през пролетта и зимата при меко време.",
+      "uses": "Неядлива гъба без кулинарна стойност поради жилавото пънче, тънкото месо и неприятната краставично-рибна миризма и вкус; някои автори също подозират, че може да е слабо отровна.",
+      "confusion": "Проникващата краставично-рибна миризма, фино кадифеното тъмно пънче и огромните ланцетовидни цистиди правят пресните плодни тела лесно отличими. Flammulina velutipes също има тъмно кадифено пънче, но расте на туфи директно върху дървесина през зимата, има ярко оранжевожълта лепкава гугла, няма миризма на краставица и образува бял споров прашец. Pluteus cervinus плододава върху гниеща дървесина, има по-голяма, по-плоска, радиално влакнеста гугла с напълно свободни ламели и няма кадифено пънче и миризма на краставица. Rhodocollybia butyracea има мазна, гладка, некадифена гугла и подуто, кухо пънче без рибна миризма. Entoloma vernum има копринено-влакнеста сивокафява гугла, няма гигантски цистиди и миризма на краставица и образува ъгловати спори.",
+      "notes": "Огромните ланцетовидни цистиди, покриващи гуглата, ламелите и пънчето, придават характерната кадифена повърхност и могат да се различат дори със силна лупа. Някога смятан за рядък в части от ареала си, видът се регистрира по-често с широкото използване на дървесен мулч в паркове и градини. В Европа традиционно се различават две дребноплодни разновидности: var. latifolia с широки ламели и оранжево-охрен споров прашец и var. leucospora с тесни ламели и почти бял споров прашец."
+    },
+    "cs": {
+      "description": "Drobná saprotrofní lupenatá houba, která plodí jednotlivě, v malých skupinách nebo v houfech na půdě bohaté na humus, opadaném listí a dřevních zbytcích. Je široce rozšířená po celé Evropě, ve Velké Británii a Irsku, v Severní Americe, severní Africe a severní Asii a byla zaznamenána také v Austrálii a na Novém Zélandu; navzdory své charakteristické vůni však bývá často přehlížena.",
+      "cap": "Klobouk má v průměru 1–6 cm, v mládí je kuželovitý až zvoncovitý, stářím se rozprostírá do široce sklenutého až téměř plochého tvaru a často si zachovává nízký středový hrbol. Povrch je hladký, matný a jemně sametový nebo hedvábný díky četným vyčnívajícím pileocystidám, za vlhka mírně lesklý. Je silně hygrofánní, ve středu sytě červenohnědý až kaštanově hnědý a černohnědý, přecházející do zřetelně bledšího žlutavě plavého nebo bělavě okrového okraje, který je za vlhka slabě prosvítavě rýhovaný; za sucha celý klobouk bledne do špinavě plavé nebo bledě okrově hnědé barvy. Hydroxid draselný (KOH) zbarvuje povrch klobouku tmavě olivově, poté šedě.",
+      "hymenium": "Lupeny jsou široké, břichaté, středně husté až husté s četnými krátkými lupénky, úzce připojené, vykrojené nebo ve stáří téměř volné. V mládí jsou bělavé až krémové nebo bledě plavé, dozráváním výtrusů se mění na bledě růžově béžové, žlutavě růžové nebo bledě červenookrové a po otlačení mohou tmavnout do hněda. Bazidie jsou válcovité až kyjovité, 20–25 × 7–8 µm, čtyřvýtrusé (vzácně dvouvýtrusé), s přezkami na bázi. Hojné, obrovské kopinaté cheilocystidy a pleurocystidy o rozměrech 50–100 × 13–25 µm lemují ostří i plochy lupenů a jsou dostatečně velké na to, aby byly patrné dobrou lupou.",
+      "stipe": "Třeň je 2,5–8 cm vysoký a 0,2–0,8 cm tlustý, válcovitý, stejně silný nebo k bázi mírně zúžený, někdy rýhovaný nebo mírně zploštělý, tuhý, chrupavčitý, pružný a dutý, bez prstenu a pochvy. U vrcholu je bledě krémový, plavý nebo okrově hnědý a jemně ojíněný, směrem dolů plynule tmavne do sytě kaštanově hnědé až černohnědé na bázi a po celé délce je pokryt jemným sametovým leskem tvořeným svazčitými kaulocystidami.",
+      "flesh": "Dužnina je v klobouku tenká a vodnatě nahnědlá až špinavě bělavá, ve třeni tmavší kaštanově hnědá až černohnědá a tužší. Má silnou, pronikavou vůni čerstvě rozkrojených okurek, která zejména u starších plodnic často přechází v pach sleďů, rybího tuku nebo sardinek a ulpívá na prstech; chuť je mírná až slabě rybí nebo lehce nepříjemná.",
+      "sporePrint": "Výtrusný prach je proměnlivý, od bledě růžově hnědého, červenookrového nebo rezavě okrového po špinavě žlutavý, růžový nebo u bledovýtrusných forem téměř bílý. Výtrusy měří 6,5–10 × 3–5 µm (vzácně až 11 µm na délku), jsou elipsoidní až úzce mandlovité nebo vřetenovité, hladké, tenkostěnné, pod mikroskopem bledě načervenalé a neamyloidní.",
+      "habitat": "Saprotrofní druh na tlejících dřevních zbytcích, dřevní štěpce, jehličnaté i listnaté opadance (zejména bukové) a vlhké půdě bohaté na dusík nebo humus. Plodí jednotlivě, roztroušeně nebo v houfech v listnatých a jehličnatých lesích, na stinných cestách, krajnicích, březích potoků, v zahradách, parcích i v trávě nebo mezi kopřivami. V mírném pásmu se objevuje hlavně od června nebo července do listopadu až prosince, za mírného počasí občas i na jaře a v zimě.",
+      "uses": "Nejedlá a bez kulinářské hodnoty kvůli tuhému třeni, tenké dužnině a nepříjemné okurkové až rybí vůni i chuti; někteří autoři ji rovněž podezřívají z mírné jedovatosti.",
+      "confusion": "Pronikavá okurková až rybí vůně, jemně sametový tmavý třeň a obrovské kopinaté cystidy činí čerstvé plodnice nezaměnitelnými. Penízovka sametonohá (Flammulina velutipes) má rovněž tmavý sametový třeň, ale roste v trsech přímo na dřevě v zimě, má jasně oranžovožlutý slizký klobouk, nevoní po okurkách a vytváří bílý výtrusný prach. Štítovka jelení (Pluteus cervinus) plodí na tlejícím dřevě, má větší, plošší, paprsčitě vláknitý klobouk se zcela volnými lupeny a postrádá sametový třeň i okurkovou vůni. Penízovka máslová (Rhodocollybia butyracea) má mastný, hladký, nesametový klobouk a zduřelý, dutý třeň bez rybího pachu. Závojenka jarní (Entoloma vernum) má hedvábně vláknitý šedohnědý klobouk, postrádá obří cystidy i okurkovou vůni a má hranaté výtrusy.",
+      "notes": "Obrovské kopinaté cystidy pokrývající klobouk, lupeny i třeň jsou příčinou charakteristického sametového povrchu a lze je rozeznat i silnou lupou. Ačkoliv byl tento druh v části svého areálu dříve považován za vzácnější, s rozšířeným používáním mulče z dřevní štěpky v parcích a zahradách je zaznamenáván častěji. V Evropě se tradičně rozlišují dvě drobně plodící variety: var. latifolia se širokými lupeny a oranžově okrovým výtrusným prachem a var. leucospora s úzkými lupeny a téměř bílým výtrusným prachem."
+    },
+    "da": {
+      "description": "En lille, saprotrof bladhat, der sætter frugtlegemer enkeltvis, i små grupper eller i flokke på humusrig jord, førne og vedrester. Den er vidt udbredt i Europa, Storbritannien og Irland, Nordamerika, Nordafrika og det nordlige Asien samt registreret i Australien og New Zealand, men bliver ofte overset trods sin karakteristiske lugt.",
+      "cap": "1–6 cm bred, kegle- til klokkeformet som ung, med alderen udbredt til bredt hvælvet eller næsten flad, ofte med en lav pukkel i midten. Overfladen er glat, mat og fint fløjlsagtig eller silkeagtig på grund af talrige fremstående pileocystider og bliver let skinnende i fugtigt vejr. Stærkt hygrofan, dybt rødbrun til kastanjebrun og sortbrun i midten, gradvist lysere mod en tydeligt blegere gulbrunt okkerfarvet eller hvidlig okker rand, som er svagt gennemskinneligt stribet i fugtig tilstand; i tørt vejr bleges hele hatten til smudsig okkergul eller bleg okkerbrun. Kaliumhydroxid (KOH) farver hatoverfladen mørkt olivengrøn og derefter grå.",
+      "hymenium": "Brede, bugede, tætstillede til meget tætte lameller med talrige korte smålameller, smalt tilhæftede, udrandede eller næsten frie med alderen. Som unge hvidlige til cremefarvede eller blegt lædergule, senere blegt rosa-beige, gulligrosa eller blegt rødokker efterhånden som sporerne modnes, og kan blive mørkere brune ved tryk. Basidierne er cylindriske til kølleformede, 20–25 × 7–8 µm, 4-sporede (sjældnere 2-sporede) og med basale øskner. Talrige, kæmpestore lancetformede cheilocystider og pleurocystider på 50–100 × 13–25 µm beklæder lamelægge og -flader og er store nok til at ses med en god lup.",
+      "stipe": "2,5–8 cm høj og 0,2–0,8 cm tyk, cylindrisk, jævntyk eller let tilspidset mod basis, undertiden furet eller let sammentrykt, stiv, bruskagtig, smidig og hul, uden ring eller skede. Blegt cremefarvet, lædergul eller okkerbrun og fint pudret nær toppen, jævnt mørknende nedefter til dybt kastanjebrun eller sortbrun ved basis og overalt beklædt med et fint fløjlsagtigt skær dannet af knippede caulocystider.",
+      "flesh": "Tyndt og vandet brunligt til smudsigthvidligt i hatten, mørkere kastanjebrunt til sortbrunt og sejere i stokken. Det har en kraftig, gennemtrængende lugt af friskskåret agurk, som ofte slår over i sild, fiskeolie eller sardiner, især hos ældre eksemplarer, og bliver hængende på fingrene; smagen er mild til svagt fiskeagtig eller let ubehagelig.",
+      "sporePrint": "Variabelt, fra blegt rosabrun, rødokker eller rustokker til smudsig gullig, rosa eller næsten hvid hos blegsporede former. Sporerne måler 6,5–10 × 3–5 µm (undtagelsesvis op til 11 µm lange), er ellipsoide til smalt mandelformede eller tenformede, glatte, tyndvæggede, blegt rødlige under mikroskopet og inamyloide.",
+      "habitat": "Saprotrof på rådnende vedrester, træflis, nåle- og løvførne (især bøg) samt fugtig, kvælstof- eller humusrig jord. Den vokser enkeltvis, spredt eller i flokke i løv- og nåleskove, langs skyggefulde stier, vejkanter, åbredder, i haver og parker samt blandt græs eller nælder. I tempererede egne viser den sig hovedsageligt fra juni eller juli til november eller december, med lejlighedsvise fund om foråret og vinteren i mildt vejr.",
+      "uses": "Uspiselig og uden kulinarisk værdi på grund af den seje stok, det tynde kød og den uappetitlige agurke- til fiskeagtige lugt og smag; nogle kilder mistænker den desuden for at være svagt giftig.",
+      "confusion": "Den gennemtrængende agurke- til fiskeagtige lugt, den fint fløjlsagtige mørke stok og de kæmpestore lancetformede cystider gør friske frugtlegemer karakteristiske. Gul fløjlsfod (Flammulina velutipes) har også en mørk fløjlsagtig stok, men vokser i knipper direkte på ved om vinteren, har en klar orangegul slimet hat, mangler agurkelugt og har hvidt sporeaftryk. Sodfarvet skærmhat (Pluteus cervinus) vokser på rådnende ved, har en større, fladere og radialt fibret hat med helt frie lameller og mangler den fløjlsagtige stok og agurkelugten. Rhodocollybia butyracea har en fedtet, glat hat uden fløjlsskær og en opsvulmet, hul stok uden fiskelugt. Entoloma vernum har en silkefibret gråbrun hat, mangler kæmpecystider og agurkelugt og har kantede sporer.",
+      "notes": "De enorme lancetformede cystider, der dækker hat, lameller og stok, er årsag til den karakteristiske fløjlsagtige overflade og kan skelnes selv med en kraftig lup. Arten blev tidligere regnet for ualmindelig i dele af sit udbredelsesområde, men registreres nu hyppigere i takt med den udbredte brug af træflis i parker og haver. I Europa skelnes traditionelt mellem to småfrugtede varieteter: var. latifolia med brede lameller og orangeokker sporeaftryk samt var. leucospora med smalle lameller og næsten hvidt sporeaftryk."
+    },
+    "de": {
+      "description": "Ein kleiner, saprotropher Blätterpilz, der einzeln, in kleinen Gruppen oder gesellig auf humusreichem Boden, Laubstreu und Holzresten fruktifiziert. Er ist in ganz Europa, Großbritannien und Irland, Nordamerika, Nordafrika und Nordasien weit verbreitet und wurde auch aus Australien und Neuseeland nachgewiesen; trotz seines auffälligen Geruchs wird er jedoch häufig übersehen.",
+      "cap": "Der Hut misst 1–6 cm im Durchmesser, ist jung kegelig bis glockig, breitet sich im Alter breit konvex bis fast flach aus und behält oft einen niedrigen zentralen Buckel. Die Oberfläche ist glatt, matt und durch zahlreiche vorstehende Pileozystiden fein samtig bis seidig, bei Nässe leicht glänzend. Er ist stark hygrophan, in der Mitte tief rotbraun bis kastanienbraun und schwarzbraun, zum Rand hin deutlich blasser gelblich-ockerlich bis weißlich-ockerlich aufgehellt und feucht schwach durchscheinend gerieft; bei trockenem Wetter blasst der gesamte Hut zu trübem Ocker oder blassem Ockerbraun aus. Kalilauge (KOH) verfärbt die Hutoberfläche dunkel olivfarben, dann grau.",
+      "hymenium": "Die Lamellen sind breit, bauchig, gedrängt bis sehr dicht stehend mit zahlreichen Zwischenlamellen, schmal angeheftet, ausgebuchtet angewachsen oder im Alter fast frei. Jung sind sie weißlich bis cremefarben oder blass falb, verfärben sich mit der Sporenreife blass rosabeige, gelblich-rosa oder blass rötlich-ocker und können bei Druck dunkler braun anlaufen. Die Basidien sind zylindrisch bis keulig, 20–25 × 7–8 µm groß, viersporig (gelegentlich zweisporig), mit Basalschnallen. Zahlreiche, riesige lanzettliche Cheilo- und Pleurozystiden von 50–100 × 13–25 µm säumen Lamellenschneiden und -flächen und sind groß genug, um bereits mit einer guten Lupe erkannt zu werden.",
+      "stipe": "Der Stiel ist 2,5–8 cm hoch und 0,2–0,8 cm dick, zylindrisch, gleichmäßig dick oder zur Basis hin leicht verjüngt, bisweilen gefurcht oder etwas abgeflacht, steif, knorpelig, biegsam und hohl, ohne Ring und Volva. An der Spitze ist er blass cremefarben, falb oder ockerbraun und fein bereift, dunkelt nach unten hin stetig bis zu tiefem Kastanien- oder Schwarzbraun an der Basis nach und ist durchgehend mit einem feinen samtigen Schimmer aus büscheligen Kaulozystiden überzogen.",
+      "flesh": "Das Fleisch ist im Hut dünn und wässrig bräunlich bis schmutzig weißlich, im Stiel dunkler kastanien- bis schwarzbraun und zäher. Es besitzt einen starken, durchdringenden Geruch nach frisch geschnittenen Gurken, der besonders bei älteren Fruchtkörpern oft in Hering, Fischöl oder Sardinen umschlägt und an den Fingern haften bleibt; der Geschmack ist mild bis schwach fischig oder leicht unangenehm.",
+      "sporePrint": "Das Sporenpulver ist variabel und reicht von blass rosabraun, rötlich-ocker oder rostocker bis zu schmutzig gelblich, rosa oder bei hellsporigen Formen fast weiß. Die Sporen messen 6,5–10 × 3–5 µm (gelegentlich bis 11 µm lang), sind ellipsoid bis schmal mandel- oder spindelförmig, glatt, dünnwandig, unter dem Mikroskop blass rötlich und inamyloid.",
+      "habitat": "Saprotroph auf verrottenden Holzresten, Holzhäckseln, Nadel- und Laubstreu (insbesondere Buche) sowie feuchtem, stickstoff- oder humusreichem Boden. Die Art fruktifiziert einzeln, zerstreut oder gesellig in Laub- und Nadelwäldern, an schattigen Wegen, Wegrändern, Bachufern, in Gärten, Parks sowie im Gras oder zwischen Brennnesseln. In gemäßigten Regionen erscheint sie hauptsächlich von Juni oder Juli bis November oder Dezember, bei mildem Wetter gelegentlich auch im Frühjahr und Winter.",
+      "uses": "Ungenießbar und ohne kulinarischen Wert wegen des zähen Stiels, des dünnen Fleisches und des unangenehmen gurken- bis fischartigen Geruchs und Geschmacks; einige Autoren vermuten zudem eine leichte Giftigkeit.",
+      "confusion": "Der durchdringende gurken- bis fischartige Geruch, der fein samtige dunkle Stiel und die riesigen lanzettlichen Zystiden machen frische Fruchtkörper unverwechselbar. Der Gemeine Samtfußrübling (Flammulina velutipes) besitzt ebenfalls einen dunklen samtigen Stiel, wächst jedoch im Winter büschelig direkt an Holz, hat einen leuchtend orangegelben, schleimigen Hut, riecht nicht nach Gurke und liefert ein weißes Sporenpulver. Der Rehbraune Dachpilz (Pluteus cervinus) fruktifiziert auf morschem Holz, hat einen größeren, flacheren, radialfaserigen Hut mit völlig freien Lamellen und weder einen samtigen Stiel noch Gurkengeruch. Der Butter-Rübling (Rhodocollybia butyracea) hat einen fettigen, glatten, nicht samtigen Hut und einen verdickten, hohlen Stiel ohne Fischgeruch. Der Frühlings-Gift-Rötling (Entoloma vernum) besitzt einen seidig-faserigen graubraunen Hut, hat weder Riesenzystiden noch Gurkengeruch und bildet eckige Sporen.",
+      "notes": "Die riesigen lanzettlichen Zystiden auf Hut, Lamellen und Stiel sind für die charakteristische samtige Oberfläche verantwortlich und lassen sich selbst mit einer starken Handlupe erkennen. Früher in Teilen ihres Verbreitungsgebiets als selten angesehen, wird die Art durch den verbreiteten Einsatz von Holzhäckselmulch in Parks und Gärten inzwischen häufiger nachgewiesen. In Europa werden traditionell zwei kleinfruchtkörperige Varietäten unterschieden: var. latifolia mit breiten Lamellen und orangeockerfarbenem Sporenpulver sowie var. leucospora mit schmalen Lamellen und fast weißem Sporenpulver."
+    },
+    "es": {
+      "description": "Pequeña seta saprótrofa con láminas que fructifica aislada, en pequeños grupos o en colonias sobre suelos ricos en humus, hojarasca y restos leñosos. Ampliamente distribuida por Europa, Gran Bretaña e Irlanda, Norteamérica, el norte de África y el norte de Asia, y también registrada en Australia y Nueva Zelanda, suele pasar inadvertida a pesar de su olor característico.",
+      "cap": "Sombrero de 1–6 cm de diámetro, de cónico a acampanado de joven, que se expande hasta ampliamente convexo o casi plano con la edad y conserva a menudo un umbón central bajo. La superficie es lisa, mate y finamente aterciopelada o sedosa debido a numerosos pileocistidios salientes, volviéndose ligeramente brillante con la humedad. Fuertemente higrófano, es de color pardo rojizo intenso a pardo castaño y pardo negruzco en el centro, aclarándose hacia un margen netamente más pálido, amarillo anteado u ocre blanquecino, débilmente estriado por transparencia en húmedo, y palidece en conjunto a anteado sucio o pardo ocre pálido en tiempo seco. El hidróxido de potasio (KOH) tiñe la superficie del sombrero de verde oliva oscuro y después de gris.",
+      "hymenium": "Láminas anchas, ventrudas, de próximas a apretadas y con numerosas lamélulas, estrechamente adnatas, escotadas o casi libres con la edad. Blanquecinas a crema o ante pálido de jóvenes, pasan a beige rosado pálido, rosa amarillento o ocre rojizo pálido al madurar las esporas, y pueden mancharse de pardo más oscuro al roce. Basidios de cilíndricos a claviformes, de 20–25 × 7–8 µm, tetraspóricos (ocasionalmente bispóricos), con fíbulas basales. Abundantes y enormes queilocistidios y pleurocistidios lanceolados, de 50–100 × 13–25 µm, recubren las aristas y las caras de las láminas y son lo bastante grandes como para distinguirse con una buena lupa de mano.",
+      "stipe": "Pie de 2,5–8 cm de altura y 0,2–0,8 cm de grosor, cilíndrico, igual o ligeramente atenuado hacia la base, a veces acanalado o algo aplanado, rígido, cartilaginoso, flexible y hueco, sin anillo ni volva. De color crema pálido, ante o pardo ocre y finamente pruinoso cerca del ápice, se oscurece progresivamente hacia abajo hasta pardo castaño intenso o pardo negruzco en la base, y está cubierto en toda su longitud por un fino brillo aterciopelado formado por caulocistidios fasciculados.",
+      "flesh": "Carne delgada y acuosa, de parduzca a blanquecina sucia en el sombrero, más oscura de pardo castaño a pardo negruzco y más tenaz en el pie. Desprende un olor fuerte y penetrante a pepino recién cortado, que a menudo vira a arenque, aceite de pescado o sardinas, sobre todo en ejemplares viejos, y persiste en los dedos; el sabor es suave a ligeramente a pescado o algo desagradable.",
+      "sporePrint": "Esporada variable, desde pardo rosado pálido, ocre rojizo u ocre herrumbroso hasta amarillento sucio, rosado o casi blanco en las formas de esporada pálida. Las esporas miden 6,5–10 × 3–5 µm (ocasionalmente hasta 11 µm de longitud), son de elipsoides a estrechamente amigdaliformes o fusiformes, lisas, de pared delgada, de color rojizo pálido al microscopio e inamiloides.",
+      "habitat": "Saprótrofa sobre restos leñosos en descomposición, acolchado de astillas de madera, mantillo de acículas y frondosas (especialmente de haya) y suelos húmedos ricos en nitrógeno o humus. Fructifica aislada, dispersa o en grupos en bosques de frondosas y de coníferas, senderos sombreados, cunetas, riberas de arroyos, jardines, parques y entre hierba u ortigas. En las regiones templadas aparece principalmente de junio o julio a noviembre o diciembre, con fructificaciones ocasionales en primavera e invierno con tiempo suave.",
+      "uses": "No comestible y sin valor culinario, por su pie tenaz, carne delgada y olor y sabor poco apetecibles de pepino a pescado; algunos autores sospechan además que pueda ser levemente tóxica.",
+      "confusion": "El olor penetrante de pepino a pescado, el pie oscuro finamente aterciopelado y los enormes cistidios lanceolados hacen inconfundibles los cuerpos fructíferos frescos. Flammulina velutipes también posee un pie oscuro aterciopelado, pero crece en ramilletes directamente sobre madera en invierno, tiene un sombrero viscoso de color amarillo anaranjado vivo, carece de olor a pepino y produce esporada blanca. Pluteus cervinus fructifica sobre madera en descomposición, presenta un sombrero mayor, más plano y radialmente fibriloso con láminas completamente libres, y carece del pie aterciopelado y del olor a pepino. Rhodocollybia butyracea tiene un sombrero grasiento, liso y no aterciopelado, y un pie hinchado y hueco sin olor a pescado. Entoloma vernum muestra un sombrero gris pardo sedoso-fibriloso, carece de cistidios gigantes y de olor a pepino, y produce esporas angulosas.",
+      "notes": "Los enormes cistidios lanceolados que recubren el sombrero, las láminas y el pie son los responsables de la característica superficie aterciopelada y pueden apreciarse incluso con una lupa potente. Considerada antaño poco común en parte de su área de distribución, la especie se registra hoy con mayor frecuencia gracias al uso extendido de acolchado de astillas de madera en parques y jardines. En Europa se distinguen tradicionalmente dos variedades de carpóforos pequeños: var. latifolia, con láminas anchas y esporada ocre anaranjada, y var. leucospora, con láminas estrechas y esporada casi blanca."
+    },
+    "et": {
+      "description": "Väike saprotroofne lehikseen, mis viljub üksikult, väikeste rühmadena või kogumikena huumusrikkal mullal, lehekõdul ja puidujäänustel. Laialt levinud Euroopas, Suurbritannias ja Iirimaal, Põhja-Ameerikas, Põhja-Aafrikas ja Põhja-Aasias ning registreeritud ka Austraalias ja Uus-Meremaal, kuid jääb iseloomulikust lõhnast hoolimata sageli märkamatuks.",
+      "cap": "1–6 cm läbimõõduga, noorelt kooniline kuni kellukjas, vananedes laialt kumeraks või peaaegu lamedaks laienev ning sageli madala keskmise kühmuga. Pind on sile, matt ja arvukate väljaulatuvate pileotsüstiidide tõttu peenelt sametjas või siidine, muutudes märjana kergelt läikivaks. Tugevalt hügrofaanne: sügavalt punakaspruun kuni kastanpruun ja keskelt mustjaspruun, minnes üle selgelt kahvatumaks kollakaspruuniks või valkjasookriks servaks, mis on niiskena nõrgalt läbikumavalt triibuline; kuiva ilmaga pleekub kogu kübar määrdunud kollakaspruuniks või kahvatuks ookerpruuniks. Kaaliumhüdroksiid (KOH) värvib kübara pinna tumeoliivroheliseks ja seejärel halliks.",
+      "hymenium": "Laiad, kõhukad, tihedad kuni väga tihedad eoslehed rohkete lühikeste vahelehekestega, kitsalt külge kasvanud, sälkjad või vanana peaaegu vabad. Noorelt valkjad kuni kreemjad või kahvatupruunikad, muutuvad eoste valmides kahvatuks roosakasbeežiks, kollakasroosaks või kahvatuks punaookriks ning võivad vigastamisel tumepruuniks tõmbuda. Basiidiumid on silinderjad kuni nuiajad, 20–25 × 7–8 µm, neljaeoselised (harva kaheeoselised), alusel pandlaga. Arvukad hiiglaslikud süstjad heilotsüstiidid ja pleurotsüstiidid mõõtmetega 50–100 × 13–25 µm ääristavad eoslehtede servi ja külgi ning on piisavalt suured, et olla nähtavad hea luubiga.",
+      "stipe": "2,5–8 cm kõrge ja 0,2–0,8 cm jäme, silinderjas, ühtlase jämedusega või aluse suunas kergelt ahenev, mõnikord sooniline või kergelt lapik, jäik, kõhrejas, painduv ja õõnes, ilma rõnga ja tuppeta. Ülaosas kahvatu kreemjas, kollakaspruun või ookerpruun ja peenelt härmas, tumeneb allapoole ühtlaselt sügavaks kastanpruuniks või mustjaspruuniks alusel ning on üleni kaetud kimpjate kaulotsüstiidide moodustatud peene sametja läikega.",
+      "flesh": "Õhuke ja vesine pruunakas kuni määrdunudvalkjas kübaras, jalas tumedam kastanpruun kuni mustjaspruun ja sitkem. Seenelihal on tugev, läbitungiv värskelt lõigatud kurgi lõhn, mis muutub sageli heeringa-, kalaõli- või sardiinilõhnaks, eriti vanematel viljakehadel, ning püsib kätel kaua; maitse on mahe kuni nõrgalt kalamaitseline või kergelt ebameeldiv.",
+      "sporePrint": "Muutlik, kahvatust roosakaspruunist, punaookrist või roosteookrist kuni määrdunudkollaka, roosaka või heledaeoselistel vormidel peaaegu valgeni. Eosed mõõtmetega 6,5–10 × 3–5 µm (harva kuni 11 µm pikad) on ellipsoidsed kuni kitsalt mandeljad või käävjad, siledad, õhukeseseinalised, mikroskoobis kahvatupunakad ja inamüloidsed.",
+      "habitat": "Saprotroof kõdunevatel puidujäänustel, puiduhakkel, okka- ja lehekõdul (eriti pöögil) ning niiskel lämmastiku- või huumusrikkal mullal. Viljub üksikult, hajusalt või kogumikena leht- ja okasmetsades, varjulistel radadel, teeäärtel, ojakallastel, aedades ja parkides ning rohus või nõgeste vahel. Parasvöötmes esineb peamiselt juunist või juulist novembri või detsembrini, pehme ilmaga üksikute leidudena ka kevadel ja talvel.",
+      "uses": "Mittesöödav ja ilma kulinaarse väärtuseta sitke jala, õhukese seeneliha ning ebameeldiva kurgi- ja kalalõhna ning -maitse tõttu; mõned autorid kahtlustavad ka nõrka mürgisust.",
+      "confusion": "Läbitungiv kurgi- ja kalalõhn, peenelt sametjas tume jalg ning hiiglaslikud süstjad tsüstiidid teevad värsked viljakehad kergesti eristatavaks. Puidu-sametkõrges (Flammulina velutipes) omab samuti tumedat sametjat jalga, kuid kasvab talvel puhmastena otse puidul, on ereda oranžikaskollase limase kübaraga, tal puudub kurgilõhn ja eosetolm on valge. Põdranapsik (Pluteus cervinus) viljub kõduneval puidul, tal on suurem, lamedam, radiaalselt kiuline kübar täiesti vabade eoslehtedega ning puuduvad sametjas jalg ja kurgilõhn. Liigil Rhodocollybia butyracea on rasvane, sile, mittesametjas kübar ja pundunud õõnes jalg ilma kalalõhnata. Entoloma vernum on siidjaskiulise hallikaspruuni kübaraga, ilma hiidtsüstiidide ja kurgilõhnata ning kandiliste eostega.",
+      "notes": "Kübarat, eoslehti ja jalga katvad hiiglaslikud süstjad tsüstiidid annavad iseloomuliku sametja pinna ning on eristatavad isegi tugeva luubiga. Varem oma levila mitmes osas haruldaseks peetud liiki on hakatud sagedamini registreerima seoses puiduhakke laialdase kasutamisega parkides ja aedades. Euroopas eristatakse traditsiooniliselt kahte väikeseviljakehalist teisendit: laiade eoslehtede ja oranžookri eosetolmuga var. latifolia ning kitsaste eoslehtede ja peaaegu valge eosetolmuga var. leucospora."
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار، کوچک و ساپروتروف است که به صورت تکی، در دسته‌های کوچک یا به صورت گله‌ای بر روی خاک غنی از هوموس، برگ‌ریزه و بقایای چوبی می‌روید. این گونه در سراسر اروپا، بریتانیا و ایرلند، آمریکای شمالی، شمال آفریقا و شمال آسیا پراکنش گسترده‌ای دارد و در استرالیا و نیوزیلند نیز گزارش شده است، اما با وجود بوی متمایزش اغلب نادیده گرفته می‌شود.",
+      "cap": "با قطر ۱–۶ سانتی‌متر، در جوانی مخروطی تا زنگوله‌ای است و با افزایش سن به شکل محدب پهن یا تقریباً مسطح باز می‌شود و اغلب برآمدگی کم‌ارتفاعی در مرکز خود حفظ می‌کند. سطح آن صاف، مات و به دلیل فراوانی پیلئوسیستیدیوم‌های برجسته، مخملی ظریف یا ابریشمی است و هنگام خیس شدن کمی براق می‌شود. به شدت رطوبت‌پذیر (هیگروفان) است؛ در مرکز به رنگ قهوه‌ای مایل به قرمز تیره تا شاه‌بلوطی و قهوه‌ای مایل به سیاه بوده و به سمت لبه به رنگ مشخصاً روشن‌تر نخودی مایل به زرد یا اخرایی مایل به سفید می‌گراید که در حالت مرطوب به طور محو شیاردار نیمه‌شفاف است و در هوای خشک یکسره به نخودی کدر یا قهوه‌ای اخرایی کمرنگ رنگ‌پریده می‌شود. هیدروکسید پتاسیم (KOH) سطح کلاهک را به زیتونی تیره و سپس خاکستری تغییر رنگ می‌دهد.",
+      "hymenium": "تیغه‌ها پهن، شکم‌دار، متراکم تا بسیار فشرده و دارای تیغک‌های کوتاه فراوان هستند و با اتصال باریک به ساقه می‌چسبند، دندانه‌دارند یا در پیری تقریباً آزاد می‌شوند. در جوانی سفید مایل به کرم یا نخودی کمرنگ هستند، با رسیدن هاگ‌ها به بژ مایل به صورتی کمرنگ، صورتی مایل به زرد یا اخرایی مایل به قرمز کمرنگ درمی‌آیند و ممکن است در اثر کوبیدگی به قهوه‌ای تیره‌تر تغییر رنگ دهند. بازیدی‌ها استوانه‌ای تا چماقی، به اندازهٔ ۲۰–۲۵ × ۷–۸ میکرومتر، چهارهاگی (گاهی دوهاگی) و دارای پیوند قلابی قاعده‌ای هستند. کیلوسیستیدیوم‌ها و پلوروسیستیدیوم‌های نیزه‌ای‌شکل و غول‌پیکر فراوان به اندازهٔ ۵۰–۱۰۰ × ۱۳–۲۵ میکرومتر، لبه‌ها و سطوح تیغه‌ها را می‌پوشانند و آن‌قدر بزرگ‌اند که با یک ذره‌بین دستی خوب دیده می‌شوند.",
+      "stipe": "با ارتفاع ۲٫۵–۸ سانتی‌متر و ضخامت ۰٫۲–۰٫۸ سانتی‌متر، استوانه‌ای، یکنواخت یا به سمت قاعده اندکی باریک‌شونده، گاهی شیاردار یا کمی پهن‌شده، سفت، غضروفی، انعطاف‌پذیر و توخالی است و حلقه یا ولوا ندارد. در نزدیکی رأس به رنگ کرم کمرنگ، نخودی یا قهوه‌ای اخرایی و دارای گردآلودگی ظریف است، به سمت پایین پیوسته تیره می‌شود تا در قاعده به قهوه‌ای شاه‌بلوطی تیره یا قهوه‌ای مایل به سیاه برسد و در سرتاسر طول خود با درخششی مخملی و ظریف پوشیده شده است که حاصل کائولوسیستیدیوم‌های دسته‌ای است.",
+      "flesh": "گوشت در کلاهک نازک و آبکی و به رنگ قهوه‌ای مایل به سفید کدر، و در ساقه تیره‌تر به رنگ قهوه‌ای شاه‌بلوطی تا قهوه‌ای مایل به سیاه و سفت‌تر است. بوی تند و نافذ خیار تازه‌بریده‌شده دارد که اغلب به ویژه در نمونه‌های مسن‌تر به بوی شاه‌ماهی، روغن ماهی یا ساردین تغییر می‌یابد و بر روی انگشتان باقی می‌ماند؛ مزهٔ آن ملایم تا اندکی شبیه ماهی یا کمی ناخوشایند است.",
+      "sporePrint": "متغیر است و از قهوه‌ای مایل به صورتی کمرنگ، اخرایی مایل به قرمز یا اخرایی زنگاری تا زرد کدر، صورتی یا در شکل‌های کم‌رنگ‌تر تقریباً سفید متغیر است. هاگ‌ها ۶٫۵–۱۰ × ۳–۵ میکرومتر (گاهی تا ۱۱ میکرومتر طول)، بیضوی تا بادامی‌شکل باریک یا دوکی، صاف، نازک‌دیواره، زیر میکروسکوپ به رنگ قرمز کمرنگ و غیرآمیلوئید هستند.",
+      "habitat": "ساپروتروف بر روی بقایای چوبی پوسیده، مالچ خرده‌چوب، برگ‌ریزهٔ سوزنی‌برگان و پهن‌برگان (به ویژه راش) و خاک مرطوبِ غنی از نیتروژن یا هوموس است. به صورت تکی، پراکنده یا گله‌ای در جنگل‌های پهن‌برگ و سوزنی‌برگ، مسیرهای سایه‌دار، حاشیهٔ جاده‌ها، کنار جویبارها، باغ‌ها، پارک‌ها و میان علف‌ها یا گزنه می‌روید. در مناطق معتدل عمدتاً از ژوئن یا ژوئیه تا نوامبر یا دسامبر ظاهر می‌شود و در هوای ملایم گاه‌گاهی در بهار و زمستان نیز میوه می‌دهد.",
+      "uses": "غیرخوراکی است و هیچ ارزش آشپزی ندارد، زیرا ساقهٔ سفت، گوشت نازک و بو و مزهٔ ناخوشایند خیار تا ماهی دارد؛ برخی منابع همچنین احتمال می‌دهند که ممکن است به طور خفیف سمی باشد.",
+      "confusion": "بوی نافذ خیار تا ماهی، ساقهٔ تیره و مخملی ظریف و سیستیدیوم‌های نیزه‌ای‌شکل عظیم، اندام‌های بارده تازه را متمایز می‌سازند. گونهٔ Flammulina velutipes نیز ساقهٔ تیره و مخملی دارد، اما در زمستان به صورت دسته‌ای مستقیماً روی چوب می‌روید، کلاهک چسبناک به رنگ نارنجی-زرد روشن دارد، فاقد بوی خیار است و نقش هاگ سفید تولید می‌کند. گونهٔ Pluteus cervinus بر روی چوب پوسیده می‌روید، کلاهکی بزرگ‌تر، مسطح‌تر و دارای الیاف شعاعی با تیغه‌های کاملاً آزاد دارد و فاقد ساقهٔ مخملی و بوی خیار است. گونهٔ Rhodocollybia butyracea کلاهکی چرب، صاف و غیرمخملی و ساقه‌ای متورم و توخالی بدون بوی ماهی دارد. گونهٔ Entoloma vernum کلاهک قهوه‌ای خاکستری با الیاف ابریشمی دارد، فاقد سیستیدیوم‌های غول‌پیکر و بوی خیار است و هاگ‌های گوشه‌دار تولید می‌کند.",
+      "notes": "سیستیدیوم‌های نیزه‌ای‌شکل عظیم که کلاهک، تیغه‌ها و ساقه را می‌پوشانند عامل سطح مخملی متمایز این قارچ هستند و حتی با یک ذره‌بین دستی قوی نیز قابل تشخیص‌اند. این گونه که زمانی در بخش‌هایی از گسترهٔ پراکنش خود کم‌یاب تلقی می‌شد، با کاربرد گستردهٔ مالچ خرده‌چوب در پارک‌ها و باغ‌ها بیشتر گزارش شده است. در اروپا به طور سنتی دو واریتهٔ کوچک‌میوه تشخیص داده می‌شوند: var. latifolia با تیغه‌های پهن و نقش هاگ اخرایی نارنجی، و var. leucospora با تیغه‌های باریک و نقش هاگ تقریباً سفید."
+    },
+    "fi": {
+      "description": "Pieni, lahottajasienenä elävä helttasieni, joka muodostaa itiöemiä yksittäin, pieninä ryhminä tai parvittain humuspitoisella maalla, karikkeella ja puujätteellä. Se on laajalle levinnyt Euroopassa, Isossa-Britanniassa ja Irlannissa, Pohjois-Amerikassa, Pohjois-Afrikassa ja Pohjois-Aasiassa, ja sitä on havaittu myös Australiassa ja Uudessa-Seelannissa, mutta selvästä hajustaan huolimatta se jää usein huomaamatta.",
+      "cap": "1–6 cm leveä, nuorena kartiomainen tai kellomainen, vanhemmiten laakean kuperaksi tai lähes laakeaksi laajeneva ja usein matalan keskuskohouman säilyttävä. Pinta on sileä, himmeä ja lukuisien ulkonevien pileokystidien vuoksi hienon samettinen tai silkkimäinen, kosteana hieman kiiltävä. Voimakkaasti kosteusmuuntuva (hygrofaani): kosteana syvän punaruskeasta kastanjanruskeaan ja keskeltä mustanruskea, vaaleten selvästi kohti kellanruskehtavan nahankeltaista tai vaalean okraa reunaa, joka on kosteana heikosti läpikuultavan uurteinen; kuivalla säällä koko lakki haalistuu likaisen nahankeltaiseksi tai vaalean okranruskeaksi. Kaliumhydroksidi (KOH) värjää lakin pinnan tumman oliivinvihreäksi ja sitten harmaaksi.",
+      "hymenium": "Leveät, pullistuneet, melko tiheät tai tiheät heltat, joiden välissä on runsaasti lyhyitä välihelttoja; ne ovat kapeasti jalkaan kiinnittyneitä, kolotyvisiä tai vanhemmiten lähes irtonaisia. Nuorena valkeahkoista kermanvärisiin tai vaalean nahankeltaisiin, muuttuen itiöiden kypsyessä vaalean punertavanbeigeiksi, kellanpunertaviksi tai vaalean punaokriksi, ja voivat tummua kolhiintuessaan ruskeammiksi. Basidit ovat lieriömäisistä nuijamaisiin, 20–25 × 7–8 µm, neljäitiöisiä (joskus kaksiitiöisiä), ja niissä on tyvisinkilä. Runsaat, valtavat suikeat keilosystidit ja pleurosystidit, kooltaan 50–100 × 13–25 µm, reunustavat helttojen teriä ja sivuja ja ovat niin suuria, että ne erottuvat hyvällä luupilla.",
+      "stipe": "2,5–8 cm pitkä ja 0,2–0,8 cm paksu, liereä, tasapaksu tai tyveä kohti lievästi kapeneva, joskus uurteinen tai hieman litistynyt, jäykkä, rustoinen, taipuisa ja ontto, ilman rengasta tai tuppea. Yläosastaan vaalean kermanvärinen, nahankeltainen tai okranruskea ja hienojauheinen, tummuen tasaisesti tyveä kohti syvän kastanjanruskeaksi tai mustanruskeaksi, ja kauttaaltaan kimppumaisten kaulokystidien muodostaman hienon samettisen hohteen peittämä.",
+      "flesh": "Ohut ja vetisen ruskehtava tai likaisenvalkeahko lakissa, jalassa tummemman kastanjanruskeasta mustanruskeaan ja sitkeämpi. Maldossa on voimakas, tunkeutuva vastaleikatun kurkun tuoksu, joka muuttuu usein sillin, kalaöljyn tai sardiinien hajuiseksi erityisesti vanhoissa itiöemissä ja tarttuu pitkäksi aikaa sormiin; maku on mieto, lievästi kalamainen tai hieman epämiellyttävä.",
+      "sporePrint": "Vaihteleva, vaalean punertavanruskeasta, punaokrasta tai ruosteenokrasta likaiseen kellertävään, punertavaan tai vaaleaitiöisillä muodoilla lähes valkoiseen. Itiöt ovat 6,5–10 × 3–5 µm (joskus jopa 11 µm pitkiä), soikeista kapean mantelimaisiin tai sukkulamaisiin, sileitä, ohutseinäisiä, mikroskoopissa vaalean punertavia ja inamyloideja.",
+      "habitat": "Lahottaja lahoavalla puujätteellä, hakkeella, havu- ja lehtikarikkeella (erityisesti pyökillä) sekä kosteassa, typpi- tai humuspitoisessa maassa. Se kasvaa yksittäin, hajallaan tai parvittain lehti- ja havumetsissä, varjoisilla poluilla, tienpientareilla, puronvarsilla, puutarhoissa ja puistoissa sekä heinikossa tai nokkosten seassa. Lauhkeilla alueilla se tuottaa itiöemiä pääasiassa kesä- tai heinäkuusta marras- tai joulukuuhun, ja leudolla säällä satunnaisesti myös keväällä ja talvella.",
+      "uses": "Syötäväksi kelpaamaton eikä sillä ole ruokasieniarvoa sitkeän jalan, ohuen maldon sekä epämiellyttävän kurkkua tai kalaa muistuttavan hajun ja maun vuoksi; jotkin lähteet epäilevät sen olevan myös lievästi myrkyllinen.",
+      "confusion": "Tunkeutuva kurkun- ja kalamainen haju, hienon samettinen tumma jalka sekä valtavat suikeat kystidit tekevät tuoreista itiöemistä omaleimaisia. Puistotalvijuurekas (Flammulina velutipes) omaa myös tumman samettisen jalan, mutta se kasvaa kimppuina suoraan puulla talvisin, sillä on kirkkaan oranssinkeltainen limainen lakki, siitä puuttuu kurkun haju ja sen itiöpöly on valkoista. Koivulahorusokas (Pluteus cervinus) kasvaa lahoavalla puulla, sillä on kookkaampi, laakeampi ja säteittäisesti säikeinen lakki täysin irtonaisin heltoin, eikä sillä ole samettista jalkaa tai kurkun hajua. Rhodocollybia butyracea eroaa rasvamaisen sileällä, sametittomalla lakillaan ja turpealla, ontolla jalallaan ilman kalan hajua. Entoloma vernum puolestaan omaa silkkisäikeisen harmaanruskean lakin, siitä puuttuvat jättikystidit ja kurkun haju, ja sen itiöt ovat kulmikkaita.",
+      "notes": "Lakkia, helttoja ja jalkaa peittävät valtavat suikeat kystidit saavat aikaan tunnusomaisen samettisen pinnan ja erottuvat jopa tehokkaalla luupilla. Aiemmin lajia pidettiin osassa levinneisyysaluettaan harvinaisena, mutta sitä on alettu havaita entistä useammin puistoissa ja puutarhoissa yleistyneen hakkeen käytön myötä. Euroopassa on perinteisesti erotettu kaksi pienikokoista muunnosta: var. latifolia, jolla on leveät heltat ja oranssinokra itiöpöly, sekä var. leucospora, jolla on kapeat heltat ja lähes valkoinen itiöpöly."
+    },
+    "fr": {
+      "description": "Petit champignon à lames saprotrophe fructifiant isolément, en petits groupes ou en troupes sur les sols riches en humus, la litière de feuilles et les débris ligneux. Largement répandu dans toute l'Europe, en Grande-Bretagne et en Irlande, en Amérique du Nord, en Afrique du Nord et en Asie du Nord, et également signalé en Australie et en Nouvelle-Zélande, il passe souvent inaperçu malgré son odeur caractéristique.",
+      "cap": "Chapeau de 1–6 cm de diamètre, conique à campanulé dans la jeunesse, s'étalant avec l'âge pour devenir largement convexe à presque plat tout en conservant souvent un mamelon central bas. La surface est lisse, mate et finement veloutée ou soyeuse en raison des nombreuses piléocystides saillantes, devenant légèrement luisante par temps humide. Fortement hygrophane, il est brun rougeâtre foncé à brun châtain et brun noirâtre au centre, s'éclaircissant vers une marge nettement plus pâle, jaune chamois à ocre blanchâtre et faiblement striée par transparence à l'humidité, puis pâlissant entièrement vers le chamois terne ou le brun ocre pâle par temps sec. L'hydroxyde de potassium (KOH) fait virer la surface du chapeau au vert olive foncé, puis au gris.",
+      "hymenium": "Lames larges, ventrues, serrées à très serrées avec de nombreuses lamellules, étroitement adnées, échancrées ou presque libres avec l'âge. Blanchâtres à crème ou chamois pâle dans la jeunesse, elles deviennent beige rosé pâle, rose jaunâtre ou ocre rougeâtre pâle à la maturation des spores, et peuvent se tacher de brun plus foncé au froissement. Basides cylindriques à clavées, de 20–25 × 7–8 µm, tétrasporiques (occasionnellement bisporiques), munies de boucles basales. D'abondantes et énormes cheilocystides et pleurocystides lancéolées, de 50–100 × 13–25 µm, tapissent l'arête et les faces des lames et sont suffisamment grandes pour être visibles avec une bonne loupe.",
+      "stipe": "Pied de 2,5–8 cm de hauteur pour 0,2–0,8 cm d'épaisseur, cylindrique, égal ou légèrement atténué vers la base, parfois sillonné ou un peu aplati, raide, cartilagineux, souple et creux, dépourvu d'anneau et de volve. Crème pâle, chamois ou brun ocre et finement pruineux près du sommet, il fonce progressivement vers le bas jusqu'au brun châtain foncé ou brun noirâtre à la base, et est entièrement revêtu d'un fin lustre velouté formé par des caulocystides fasciculées.",
+      "flesh": "Chair mince et brunâtre aqueux à blanchâtre sale dans le chapeau, brun châtain plus foncé à brun noirâtre et plus tenace dans le pied. Elle dégage une forte odeur pénétrante de concombre fraîchement coupé, évoluant souvent vers le hareng, l'huile de poisson ou la sardine, surtout chez les vieux spécimens, et persistant sur les doigts ; la saveur est douce à faiblement poissonneuse ou légèrement désagréable.",
+      "sporePrint": "Sporée variable, allant du brun rosé pâle, ocre rougeâtre ou ocre rouillé au jaunâtre sale, rosé ou presque blanc chez les formes à spores pâles. Les spores mesurent 6,5–10 × 3–5 µm (occasionnellement jusqu'à 11 µm de longueur), sont ellipsoïdes à étroitement amygdaliformes ou fusiformes, lisses, à paroi mince, rougeâtre pâle sous le microscope et inamyloïdes.",
+      "habitat": "Saprotrophe sur les débris ligneux en décomposition, le paillis de copeaux de bois, la litière d'aiguilles et de feuillus (en particulier de hêtre) ainsi que sur les sols humides riches en azote ou en humus. Il fructifie isolément, dispersé ou en troupes dans les forêts de feuillus et de conifères, le long des sentiers ombragés, sur les bas-côtés des routes, au bord des ruisseaux, dans les jardins, les parcs et parmi l'herbe ou les orties. Dans les régions tempérées, il apparaît principalement de juin ou juillet à novembre ou décembre, avec des fructifications occasionnelles au printemps et en hiver par temps doux.",
+      "uses": "Non comestible et sans valeur culinaire en raison de son pied tenace, de sa chair mince et de son odeur comme de sa saveur peu engageantes de concombre à poisson ; certains auteurs le soupçonnent également d'être légèrement toxique.",
+      "confusion": "L'odeur pénétrante de concombre à poisson, le pied sombre finement velouté et les énormes cystides lancéolées rendent les carpophores frais bien reconnaissables. La collybie à pied velouté (Flammulina velutipes) présente aussi un pied sombre velouté, mais pousse en touffes directement sur le bois en hiver, possède un chapeau visqueux jaune orangé vif, n'a pas d'odeur de concombre et produit une sporée blanche. Le plutée couleur de cerf (Pluteus cervinus) fructifie sur le bois pourrissant, montre un chapeau plus grand, plus plat et radialement fibrilleux aux lames entièrement libres, et n'a ni pied velouté ni odeur de concombre. La collybie beurrée (Rhodocollybia butyracea) a un chapeau gras, lisse et non velouté ainsi qu'un pied renflé et creux sans odeur de poisson. L'entolome printanier (Entoloma vernum) a un chapeau gris-brun soyeux-fibrilleux, est dépourvu de cystides géantes comme d'odeur de concombre et produit des spores anguleuses.",
+      "notes": "Les énormes cystides lancéolées qui recouvrent le chapeau, les lames et le pied sont responsables de l'aspect velouté caractéristique et peuvent être distinguées même avec une forte loupe de poche. Autrefois considérée comme peu commune dans une partie de son aire de répartition, l'espèce est plus fréquemment recensée depuis la généralisation du paillage de copeaux de bois dans les parcs et les jardins. Deux variétés à petits carpophores sont traditionnellement distinguées en Europe : var. latifolia, à lames larges et sporée ocre orangé, et var. leucospora, à lames étroites et sporée presque blanche."
+    },
+    "he": {
+      "description": "פטריית דפים קטנה וסאפרוטרופית המניבה גופי פרי יחידים, בקבוצות קטנות או בלהקות על קרקע עשירה בהומוס, עלים נושרים ופסולת עצית. היא נפוצה ברחבי אירופה, בריטניה ואירלנד, אמריקה הצפונית, צפון אפריקה וצפון אסיה, ותועדה גם באוסטרליה ובניו זילנד, אך לעיתים קרובות מתעלמים ממנה למרות ריחה האופייני.",
+      "cap": "קוטרה 1–6 ס\"מ, חרוטית עד פעמונית בצעירותה, ונפתחת עם הגיל לקמורה רחבה או כמעט שטוחה, שלעיתים קרובות שומרת על בליטה מרכזית נמוכה. פני השטח חלקים, עמומים וקטיפתיים עדינים או משיים בזכות פיליאוציסטידיה בולטים רבים, והופכים מעט מבריקים כשהם רטובים. היגרופאנית מאוד: צבעה חום-אדמדם עמוק עד חום-ערמוני וחום-שחרחר במרכז, והיא מתבהרת בהדרגה לשוליים בהירים בולטים בצבע צהבהב-חום בהיר או אוכרה-לבנבן, המפוספסים קלושות ושקופים למחצה כשהם לחים, ובמזג אוויר יבש דוהה כולה לבז' עמום או חום-אוכרה חיוור. אשלגן הידרוקסידי (KOH) הופך את פני הכובע לזית כהה ואחר כך לאפור.",
+      "hymenium": "הדפים רחבים, תפוחים, צפופים עד צפופים מאוד עם דפונים קצרים רבים, מחוברים בצורה צרה לרגל, משונצים או כמעט חופשיים בגיל מבוגר. בצעירותם צבעם לבנבן עד שמנת או בז' חיוור, וכשהנבגים מבשילים הם הופכים לבז'-ורדרד חיוור, ורוד-צהבהב או אוכרה-אדמדם חיוור, ועלולים להכהות לחום כהה יותר בחבלה. הבסידיות גליליות עד אלותיות, בגודל 20–25 × 7–8 מיקרומטר, בעלות ארבעה נבגים (לעיתים רחוקות שניים), עם קשרי אבזם בסיסיים. כיילוציסטידיה ופלאורוציסטידיה עצומים דמויי אזמל ובשפע, בגודל 50–100 × 13–25 מיקרומטר, מרפדים את שפות הדפים ואת דפנותיהם וגדולים דיים כדי להיראות בעזרת זכוכית מגדלת טובה.",
+      "stipe": "גובהה 2.5–8 ס\"מ ועובייה 0.2–0.8 ס\"מ, גלילית, אחידה או מצטמצמת מעט כלפי הבסיס, לעיתים מחורצת או פחוסה מעט, נוקשה, סחוסית, גמישה וחלולה, ללא טבעת וללא נרתיק. סמוך לקצה היא בצבע שמנת חיוור, בז' או חום-אוכרה ומכוסה באבקתיות עדינה, מתכהה בהתמדה כלפי מטה עד חום-ערמוני עמוק או חום-שחרחר בבסיס, ועטויה לכל אורכה בברק קטיפתי עדין שיוצרים קאולוציסטידיה מאוגדים.",
+      "flesh": "דק ומימי חום-בהיר עד לבנבן עכור בכובע, כהה יותר בצבע חום-ערמוני עד חום-שחרחר וקשיח יותר ברגל. יש לו ריח חזק וחודר של מלפפונים שנחתכו זה עתה, שלעיתים קרובות הופך לריח של הרינג, שמן דגים או סרדינים, במיוחד בפרטים מבוגרים, ונשאר על האצבעות; הטעם מתון עד דגי קלות או לא נעים במקצת.",
+      "sporePrint": "משתנה, ונע מחום-ורדרד חיוור, אוכרה-אדמדם או אוכרה-חלוד עד צהבהב עכור, ורדרד או כמעט לבן בצורות בעלות נבגים בהירים. הנבגים בגודל 6.5–10 × 3–5 מיקרומטר (לעיתים רחוקות עד אורך 11 מיקרומטר), אליפסואידיים עד דמויי שקד צרים או כישוריים, חלקים, בעלי דופן דקה, אדמדמים חיוורים תחת המיקרוסקופ ואינם עמילואידיים.",
+      "habitat": "סאפרוטרופית על פסולת עצית מרקיבה, חיפוי שבבי עץ, נשורת מחטים ועלים רחבים (במיוחד אשור), ועל קרקע לחה העשירה בחנקן או בהומוס. מניבה גופי פרי יחידים, מפוזרים או בלהקות ביערות נשירים ומחטניים, בשבילים מוצלים, בשולי דרכים, בגדות נחלים, בגינות, בפארקים ובין עשב או סרפדים. באזורים ממוזגים היא מופיעה בעיקר מיוני או יולי עד נובמבר או דצמבר, עם הנבה מזדמנת באביב ובחורף במזג אוויר מתון.",
+      "uses": "לא למאכל וחסרת כל ערך קולינרי, בשל רגל קשיחה, בשר דק וריח וטעם לא מושכים שבין מלפפון לדג; כמה מומחים גם חושדים כי ייתכן שהיא רעילה קלות.",
+      "confusion": "הריח החודר שבין מלפפון לדג, הרגל הכהה הקטיפתית העדינה והציסטידיה העצומים דמויי האזמל הופכים גופי פרי טריים לייחודיים. גם ל-Flammulina velutipes יש רגל כהה וקטיפתית, אך היא גדלה בצברים ישירות על עץ בחורף, יש לה כובע דביק בצבע צהוב-כתום עז, היא חסרה ריח מלפפון ומפיקה הדפס נבגים לבן. Pluteus cervinus מניבה על עץ נרקב, יש לה כובע גדול ושטוח יותר בעל סיבים רדיאליים עם דפים חופשיים לחלוטין, והיא חסרה את הרגל הקטיפתית ואת ריח המלפפון. ל-Rhodocollybia butyracea יש כובע שמנוני, חלק ואינו קטיפתי ורגל תפוחה וחלולה ללא ריח דגי. ל-Entoloma vernum יש כובע חום-אפור בעל סיבים משיים, היא חסרה ציסטידיה ענקיים ואת ריח המלפפון, ומפיקה נבגים זוויתיים.",
+      "notes": "הציסטידיה האדירים דמויי האזמל המכסים את הכובע, הדפים והרגל אחראים לפני השטח הקטיפתיים האופייניים, וניתן להבחין בהם אפילו בעזרת זכוכית מגדלת חזקה. מין זה, שנחשב בעבר לנדיר בחלקים מתפוצתו, מתועד בתדירות גבוהה יותר מאז השימוש הנרחב בחיפוי שבבי עץ בפארקים ובגינות. באירופה מבחינים באופן מסורתי בשני זנים קטני-פרי: var. latifolia בעל דפים רחבים והדפס נבגים אוכרה-כתום, ו-var. leucospora בעל דפים צרים והדפס נבגים כמעט לבן."
+    },
+    "hi": {
+      "description": "एक छोटा, मृतोपजीवी गिल्स वाला कवक जो ह्यूमस से भरपूर मिट्टी, पत्तियों के कूड़े और लकड़ी के मलबे पर अकेले, छोटे समूहों में या बड़े झुंडों में उगता है। यह यूरोप, ब्रिटेन और आयरलैंड, उत्तरी अमेरिका, उत्तरी अफ्रीका और उत्तरी एशिया में व्यापक रूप से फैला हुआ है, और ऑस्ट्रेलिया तथा न्यूज़ीलैंड में भी दर्ज किया गया है; अपनी विशिष्ट गंध के बावजूद इस पर अक्सर ध्यान नहीं जाता।",
+      "cap": "1–6 cm चौड़ी, युवा अवस्था में शंक्वाकार से घंटी के आकार की, आयु के साथ चौड़ी उत्तल या लगभग चपटी हो जाती है और अक्सर बीच में एक नीचा उभार बना रहता है। सतह चिकनी, मैट और अनेक उभरे हुए पाइलियोसिस्टिडिया के कारण महीन मखमली या रेशमी होती है, तथा भीगने पर हल्की चमकदार हो जाती है। प्रबल आर्द्रताग्राही (हाइग्रोफैनस) होने के कारण यह केंद्र में गहरे लाल-भूरे से अखरोटी-भूरे और काले-भूरे रंग की होती है, और किनारे की ओर स्पष्ट रूप से हल्के पीले-बफ़ या सफ़ेद-गेरुए रंग में बदलती है जो नमी में हल्की पारभासी धारीदार दिखती है; शुष्क मौसम में पूरी टोपी फीके बफ़ या हल्के गेरुए-भूरे रंग की हो जाती है। पोटैशियम हाइड्रॉक्साइड (KOH) टोपी की सतह को गहरे जैतूनी और फिर धूसर रंग का कर देता है।",
+      "hymenium": "चौड़े, उभरे हुए, घने से अत्यंत सघन गिल्स जिनमें अनेक छोटे गिल्स होते हैं; ये डंठल से संकीर्ण रूप से जुड़े, कटे हुए या परिपक्व होने पर लगभग मुक्त होते हैं। युवा अवस्था में सफ़ेद से क्रीम या हल्के बफ़ रंग के होते हैं, जो बीजाणुओं के परिपक्व होने पर हल्के गुलाबी-बेज, पीले-गुलाबी या हल्के लाल-गेरुए हो जाते हैं और चोट लगने पर गहरे भूरे पड़ सकते हैं। बेसिडियम बेलनाकार से गदाकार, 20–25 × 7–8 µm, चार-बीजाणु वाले (कभी-कभी दो-बीजाणु वाले) और आधारीय क्लैम्प कनेक्शन युक्त होते हैं। गिल्स के किनारों और सतहों पर प्रचुर मात्रा में विशाल भालाकार कीलोसिस्टिडिया और प्लूरोसिस्टिडिया (50–100 × 13–25 µm) पाए जाते हैं, जो इतने बड़े होते हैं कि अच्छे आवर्धक लेंस से देखे जा सकते हैं।",
+      "stipe": "2.5–8 cm लंबा और 0.2–0.8 cm मोटा, बेलनाकार, एकसमान या आधार की ओर थोड़ा पतला होता हुआ, कभी-कभी खांचेदार या हल्का चपटा, कठोर, उपास्थिमय, लचीला और खोखला होता है, तथा इस पर कोई वलय या वोल्वा नहीं होता। शीर्ष के पास हल्का क्रीम, बफ़ या गेरुआ-भूरा और महीन चूर्णिल होता है, नीचे की ओर लगातार गहरा होकर आधार पर गहरे अखरोटी-भूरे या काले-भूरे रंग का हो जाता है, और गुच्छित कौलोसिस्टिडिया से बनी महीन मखमली चमक से पूरी तरह ढका रहता है।",
+      "flesh": "टोपी में पतला और जलीय भूरापन लिए गंदा सफ़ेद, तथा डंठल में गहरा अखरोटी-भूरा से काला-भूरा और अधिक कठोर होता है। इसमें ताजे कटे खीरे की तेज, तीखी गंध होती है, जो अक्सर हेरिंग, मछली के तेल या सार्डिन जैसी गंध में बदल जाती है, विशेषकर पुराने नमूनों में, और उंगलियों पर देर तक बनी रहती है; स्वाद हल्का से हल्का मछली जैसा या थोड़ा अप्रिय होता है।",
+      "sporePrint": "परिवर्तनशील, जो हल्के गुलाबी-भूरे, लाल-गेरुए या जंग-गेरुए से लेकर हल्के-बीजाणु वाले रूपों में गंदे पीले, गुलाबी या लगभग सफ़ेद तक होता है। बीजाणु 6.5–10 × 3–5 µm (कभी-कभी 11 µm तक लंबे) माप के, दीर्घवृत्ताकार से संकीर्ण बादाम के आकार के या तर्कुरूपी, चिकने, पतली भित्ति वाले, सूक्ष्मदर्शी के नीचे हल्के लाल और इनैमिलॉइड होते हैं।",
+      "habitat": "सड़ते हुए लकड़ी के मलबे, लकड़ी की छीलन के मल्च, शंकुधर पत्तियों और चौड़ी पत्तियों के कूड़े (विशेषकर बीच वृक्ष की पत्तियों) तथा नम, नाइट्रोजन- या ह्यूमस-समृद्ध मिट्टी पर मृतोपजीवी। यह पर्णपाती और शंकुधारी वनों, छायादार पगडंडियों, सड़क के किनारों, धाराओं के तटों, बगीचों, पार्कों और घास या बिच्छू बूटी के बीच अकेले, बिखरे हुए या झुंडों में उगता है। शीतोष्ण क्षेत्रों में यह मुख्य रूप से जून या जुलाई से नवंबर या दिसंबर तक दिखाई देता है, और हल्के मौसम में वसंत तथा सर्दियों में भी कभी-कभी उग आता है।",
+      "uses": "अखाद्य और पाक दृष्टि से किसी काम का नहीं, क्योंकि इसका डंठल सख्त, गूदा पतला तथा खीरे से मछली जैसी गंध और स्वाद अप्रिय होता है; कुछ विशेषज्ञ इसे हल्का विषाक्त होने का संदेह भी करते हैं।",
+      "confusion": "खीरे से मछली जैसी तीखी गंध, महीन मखमली गहरा डंठल और विशाल भालाकार सिस्टिडिया ताजे फलनकायों को विशिष्ट बनाते हैं। Flammulina velutipes का डंठल भी गहरा और मखमली होता है, परंतु यह सर्दियों में सीधे लकड़ी पर गुच्छों में उगता है, इसकी टोपी चमकीले नारंगी-पीले रंग की और चिपचिपी होती है, इसमें खीरे की गंध नहीं होती और बीजाणु छाप सफ़ेद होती है। Pluteus cervinus सड़ी हुई लकड़ी पर उगता है, इसकी टोपी बड़ी, अधिक चपटी और अरीय रूप से रेशेदार होती है, गिल्स पूरी तरह मुक्त होते हैं, तथा इसमें मखमली डंठल और खीरे की गंध का अभाव होता है। Rhodocollybia butyracea की टोपी चिकनाईयुक्त, सपाट और बिना मखमली परत की होती है तथा इसका फूला हुआ, खोखला डंठल मछली जैसी गंध से रहित होता है। Entoloma vernum की टोपी रेशमी-रेशेदार और धूसर-भूरी होती है, इसमें विशाल सिस्टिडिया व खीरे की गंध नहीं होती और इसके बीजाणु कोणीय होते हैं।",
+      "notes": "टोपी, गिल्स और डंठल को ढकने वाले विशाल भालाकार सिस्टिडिया इसकी विशिष्ट मखमली सतह के लिए उत्तरदायी होते हैं और एक मजबूत आवर्धक लेंस से भी पहचाने जा सकते हैं। अपने वितरण क्षेत्र के कुछ हिस्सों में कभी असामान्य मानी जाने वाली यह प्रजाति पार्कों और बगीचों में लकड़ी की छीलन के मल्च के व्यापक उपयोग के साथ अब अधिक बार दर्ज की जाने लगी है। यूरोप में पारंपरिक रूप से इसके दो छोटे फलनकाय वाले प्रभेद पहचाने जाते हैं: var. latifolia, जिसमें चौड़े गिल्स और नारंगी-गेरुआ बीजाणु छाप होती है, तथा var. leucospora, जिसमें संकीर्ण गिल्स और लगभग सफ़ेद बीजाणु छाप होती है।"
+    },
+    "hr": {
+      "description": "Mala saprotrofna listićava gljiva koja plodi pojedinačno, u manjim skupinama ili u većim nakupinama na tlu bogatom humusom, na šumskoj stelji i drvnim ostatcima. Široko je rasprostranjena diljem Europe, Britanije i Irske, Sjeverne Amerike, sjeverne Afrike i sjeverne Azije, a zabilježena je i u Australiji i na Novom Zelandu; unatoč prepoznatljivu mirisu često ostaje nezapažena.",
+      "cap": "Klobuk je širok 1–6 cm, u mladosti stožast do zvonolik, zatim se širi u široko konveksan do gotovo ravan oblik i u starosti često zadržava nisku središnju grbicu. Površina je glatka, mat i fino baršunasta ili svilenasta od brojnih stršećih pileocistida, a vlažna postaje blago sjajna. Izrazito je higrofan, tamno crvenkastosmeđe do kestenjastosmeđe i crnkastosmeđe boje u središtu, s prijelazom prema znatno bljeđem žućkastosmećkastom ili bjelkastooker rubu koji je za vlažna vremena slabo prozirno narebran, dok po suhu vremenu čitav klobuk izblijedi u prljavo okeržutu ili blijedo okersmeđu boju. Kalijev hidroksid (KOH) oboji površinu klobuka tamno maslinasto, a zatim sivo.",
+      "hymenium": "Listići su široki, trbušasti, gusti do vrlo gusti s brojnim kraćim listićima, usko prirasli, izrezani ili u starosti gotovo slobodni. U mladosti su bjelkasti do krem ili blijedo okeržuti, a sazrijevanjem spora postaju blijedo ružičastobež, žućkastoružičasti ili blijedo crvenkastooker te na pritisak mogu potamnjeti u tamnosmeđu boju. Bazidiji su valjkasti do batinasti, veličine 20–25 × 7–8 µm, četverosporni (katkad dvosporni), s bazalnim kopčama. Brojne, goleme lancetaste heilocistide i pleurocistide, veličine 50–100 × 13–25 µm, obrubljuju oštrice i plohe listića te su dovoljno velike da se vide dobrim ručnim povećalom.",
+      "stipe": "Stručak je visok 2,5–8 cm i debeo 0,2–0,8 cm, valjkast, jednoliko debeo ili blago sužen prema dnu, katkada užlijebljen ili blago spljošten, krut, hrskavičav, savitljiv i šupalj, bez prstena i bez ovoja. Pri vrhu je blijedo krem, okeržut ili okersmeđ i sitno brašnasto posut, prema dnu postupno tamni u duboko kestenjastosmeđu ili crnkastosmeđu boju, a čitavom je duljinom prekriven finim baršunastim sjajem koji tvore snopaste kaulocistide.",
+      "flesh": "Meso je tanko i vodenasto, smećkasto do prljavo bjelkasto u klobuku, a tamnije kestenjastosmeđe do crnkastosmeđe i žilavije u stručku. Ima jak, prodoran miris svježe narezanih krastavaca koji često prelazi u miris haringe, ribljeg ulja ili srdela, osobito u starijih primjeraka, i dugo se zadržava na prstima; okus je blag do slabo riblji ili pomalo neugodan.",
+      "sporePrint": "Otisak spora je promjenjiv, od blijedo ružičastosmeđeg, crvenkastookera ili hrđastookera do prljavo žućkastog, ružičastog ili gotovo bijelog u blijedospornih oblika. Spore su veličine 6,5–10 × 3–5 µm (katkad duge do 11 µm), elipsoidne do usko bademaste ili vretenaste, glatke, tankih stijenki, pod mikroskopom blijedo crvenkaste i neamiloidne.",
+      "habitat": "Saprotrof na trulećim drvnim ostatcima, malču od drvne sječke, igličastoj i listopadnoj stelji (osobito bukvinoj) te vlažnom tlu bogatom dušikom ili humusom. Plodi pojedinačno, raštrkano ili u skupinama u bjelogoričnim i crnogoričnim šumama, uz sjenovite putove, rubove cesta, obale potoka, u vrtovima, parkovima te među travom ili koprivama. U umjerenim područjima pojavljuje se ponajviše od lipnja ili srpnja do studenoga ili prosinca, uz povremeno plodonošenje u proljeće i zimi za blagih razdoblja.",
+      "uses": "Nejestiva i bez kulinarske vrijednosti zbog žilava stručka, tanka mesa te odbojnog mirisa i okusa po krastavcima i ribi; pojedini izvori također sumnjaju da bi mogla biti blago otrovna.",
+      "confusion": "Prodoran miris po krastavcima i ribi, tamni fino baršunasti stručak i goleme lancetaste cistide čine svježa plodišta prepoznatljivima. Flammulina velutipes također ima taman baršunast stručak, ali zimi raste u busenima izravno na drvu, ima sjajno narančastožut ljepljiv klobuk, nema miris po krastavcima i daje bijeli otisak spora. Pluteus cervinus plodi na trulom drvu, ima veći, plosnatiji i radijalno vlaknast klobuk s posve slobodnim listićima te nema baršunast stručak ni miris po krastavcima. Rhodocollybia butyracea ima mastan, gladak, nebaršunast klobuk i zadebljan šupalj stručak bez ribljeg mirisa. Entoloma vernum ima svilenasto-vlaknast sivosmeđi klobuk, nema goleme cistide ni miris po krastavcima, a spore su joj uglate.",
+      "notes": "Goleme lancetaste cistide koje prekrivaju klobuk, listiće i stručak zaslužne su za karakterističnu baršunastu površinu i mogu se uočiti čak i jačim ručnim povećalom. Nekada smatrana rijetkom u dijelu svoga areala, vrsta se danas češće bilježi zahvaljujući širokoj primjeni malča od drvne sječke u parkovima i vrtovima. U Europi se tradicionalno razlikuju dva sitnoplodna varijeteta: var. latifolia sa širokim listićima i narančastooker otiskom spora te var. leucospora s uskim listićima i gotovo bijelim otiskom spora."
+    },
+    "hu": {
+      "description": "Kisméretű, szaprotróf lemezes gomba, amely magányosan, kis csoportokban vagy seregesen terem humuszban gazdag talajon, avarban és korhadó faanyagon. Széles körben elterjedt Európa-szerte, Nagy-Britanniában és Írországban, Észak-Amerikában, Észak-Afrikában és Észak-Ázsiában, továbbá Ausztráliából és Új-Zélandról is jelezték; jellegzetes szaga ellenére gyakran elsiklanak felette.",
+      "cap": "A kalap 1–6 cm átmérőjű, fiatalon kúpos vagy harang alakú, idővel szélesen domborúvá vagy majdnem lapossá terül ki, gyakran alacsony központi púpot tartva meg. Felülete sima, matt, és a számos kiálló pileocisztídiumtól finoman bársonyos vagy selymes, nedvesen enyhén fénylő. Erősen higrofán: középen mély vörösesbarna, gesztenyebarna vagy feketésbarna, a széle felé feltűnően világosabb sárgás-okkeres vagy fehéres-okker árnyalatba megy át, amely nedvesen halványan áttetszően bordázott; száraz időben az egész kalap fakó okkeresre vagy halvány okkerbarnára fakul. A kálium-hidroxid (KOH) a kalap felületét előbb sötét olajzöldre, majd szürkére színezi.",
+      "hymenium": "A lemezek szélesek, hasasak, sűrűk vagy nagyon sűrűk számos köztes lemezkével, keskenyen tönkhöz nőttek, foggal felkanyarodók vagy idősen majdnem szabadon állók. Fiatalon fehéresek, krémszínűek vagy halvány okkeresek, a spórák érésével halvány rózsaszínes bézsre, sárgásrózsaszínre vagy halvány vörösesokkerre színeződnek, és nyomásra sötétebb barnára foltosodhatnak. A bazídiumok hengeresek vagy bunkósak, 20–25 × 7–8 µm méretűek, négy spórásak (ritkán kétspórásak), alapjukon csatokkal. A lemezek élét és lapját sűrűn borító, hatalmas lándzsás keilocisztídiumok és pleurocisztídiumok 50–100 × 13–25 µm méretűek, és elég nagyok ahhoz, hogy jó nagyítóval is láthatók legyenek.",
+      "stipe": "A tönk 2,5–8 cm magas és 0,2–0,8 cm vastag, hengeres, egyenletes vastagságú vagy a töve felé enyhén elvékonyodó, néha barázdált vagy kissé lapított, merev, porcos, rugalmas és üreges, gallér és bocskor nélkül. A csúcsán halvány krémszínű, okkeres vagy okkerbarna és finoman deres, lefelé fokozatosan mély gesztenyebarnára vagy feketésbarnára sötétedik a tövénél, és teljes hosszában finom, nyalábos kaulocisztídiumok alkotta bársonyos fény vonja be.",
+      "flesh": "A hús a kalapban vékony és vizenyősen barnás vagy piszkosfehéres, a tönkben sötétebb gesztenyebarnától feketésbarnáig terjedő színű és szívósabb. Erős, átható, frissen vágott uborkára emlékeztető szaga van, amely különösen az idősebb termőtesteken gyakran hering-, halolaj- vagy szardiniaszagba fordul, és az ujjakon is hosszan megmarad; íze enyhe vagy gyengén halszerű, kissé kellemetlen.",
+      "sporePrint": "A spórapor változékony, a halvány rózsásbarnától, vörösesokkertől vagy rozsdaokkertől a piszkossárgásig, rózsaszínesig vagy a halványspórás alakoknál majdnem fehérig terjed. A spórák 6,5–10 × 3–5 µm méretűek (ritkán akár 11 µm hosszúak), ellipszoid vagy keskeny mandula, illetve orsó alakúak, simák, vékony falúak, mikroszkóp alatt halvány vörösesek és nem amiloidok.",
+      "habitat": "Szaprotróf faj korhadó faanyagon, faapríték-mulcson, tűlevelű- és lombavaron (különösen bükkön), valamint nedves, nitrogénben vagy humuszban gazdag talajon. Magányosan, szórtan vagy seregesen terem lomb- és fenyőerdőkben, árnyas ösvényeken, útszéleken, patakpartokon, kertekben, parkokban, valamint fű vagy csalán között. Mérsékelt égövön főként júniustól vagy júliustól novemberig vagy decemberig jelenik meg, enyhe időjárás esetén tavasszal és télen is előfordul.",
+      "uses": "Nem ehető és kulináris értéke nincs a szívós tönk, a vékony hús és a kellemetlen, uborkás-halas szag és íz miatt; egyes szerzők enyhén mérgezőnek is gyanítják.",
+      "confusion": "Az átható uborkás-halas szag, a finoman bársonyos sötét tönk és a hatalmas lándzsás cisztídiumok jól megkülönböztetik a friss termőtesteket. A téli fülőke (Flammulina velutipes) szintén sötét, bársonyos tönkkel rendelkezik, de télen csoportosan közvetlenül fán nő, élénk narancssárga, nyálkás kalapja van, nincs uborkaszaga, és spórapora fehér. A barna csengettyűgomba (Pluteus cervinus) korhadó fán terem, nagyobb, laposabb, sugarasan szálas kalapja és teljesen szabadon álló lemezei vannak, továbbá hiányzik róla a bársonyos tönk és az uborkaszag. A bunkóslábú fülőke (Rhodocollybia butyracea) kalapja zsíros tapintású, sima és nem bársonyos, tönkje pedig duzzadt, üreges és halszag nélküli. A tavaszi döggomba (Entoloma vernum) selymesen szálas szürkésbarna kalapú, nincsenek óriás cisztídiumai sem uborkaszaga, és spórái szögletesek.",
+      "notes": "A kalapot, a lemezeket és a tönköt borító hatalmas lándzsás cisztídiumok felelősek a jellegzetes bársonyos felületért, és már erős kézi nagyítóval is kivehetők. Elterjedési területének egyes részein korábban ritkábbnak tartották, ám a faapríték-mulcs parkokban és kertekben való széles körű alkalmazásával gyakrabban észlelik. Európában hagyományosan két kistermetű változatát különböztetik meg: a széles lemezű és narancsokker spóraporú var. latifolia változatot, valamint a keskeny lemezű és csaknem fehér spóraporú var. leucospora változatot."
+    },
+    "id": {
+      "description": "Jamur berlamela berukuran kecil yang bersifat saprotrof dan tumbuh tunggal, dalam kelompok kecil, atau bergerombol di tanah kaya humus, serasah daun, dan sisa-sisa kayu. Tersebar luas di Eropa, Inggris dan Irlandia, Amerika Utara, Afrika Utara, serta Asia utara, dan juga tercatat di Australia dan Selandia Baru, jamur ini sering terlewatkan meskipun memiliki bau yang khas.",
+      "cap": "Diameter 1–6 cm, berbentuk kerucut hingga lonceng saat muda, melebar menjadi cembung lebar atau hampir rata seiring usia dan sering mempertahankan umbo rendah di tengah. Permukaannya halus, tidak mengilap, dan berbulu beludru halus atau seperti sutra karena banyaknya pileosistidia yang menonjol, serta menjadi sedikit mengilap saat basah. Bersifat sangat higrofan, berwarna cokelat kemerahan tua hingga cokelat kastanye dan cokelat kehitaman di bagian tengah, berangsur memucat ke bagian tepi yang kuning kecokelatan atau okrea keputihan dengan garis-garis samar tembus cahaya saat lembap, lalu memudar seluruhnya menjadi krem kecokelatan kusam atau cokelat okrea pucat saat cuaca kering. Kalium hidroksida (KOH) mengubah permukaan tudung menjadi hijau zaitun gelap, lalu abu-abu.",
+      "hymenium": "Lamela lebar, menggembung di tengah, rapat hingga berdesakan dengan banyak lamela pendek, melekat sempit, bertakik, atau hampir bebas pada usia tua. Berwarna keputihan hingga krem atau krem kecokelatan pucat saat muda, lalu berubah menjadi krem merah muda pucat, merah muda kekuningan, atau okrea kemerahan pucat saat spora matang, dan dapat memar menjadi cokelat lebih gelap. Basidium berbentuk silindris hingga gada, berukuran 20–25 × 7–8 µm, berspora empat (sesekali berspora dua), dengan sambungan apit di pangkal. Keilosistidia dan pleurosistidia berbentuk lanset berukuran sangat besar dan melimpah, 50–100 × 13–25 µm, berjajar di tepi dan permukaan lamela serta cukup besar untuk terlihat dengan kaca pembesar yang baik.",
+      "stipe": "Tinggi 2,5–8 cm dan tebal 0,2–0,8 cm, silindris, sama lebar atau sedikit meruncing ke arah pangkal, terkadang beralur atau agak pipih, kaku, kenyal seperti tulang rawan, lentur, dan berongga, tanpa cincin maupun volva. Berwarna krem pucat, krem kecokelatan, atau cokelat okrea dan bertepung halus di dekat puncak, lalu semakin gelap secara bertahap ke bawah menjadi cokelat kastanye tua atau cokelat kehitaman di pangkal, serta seluruhnya diselimuti kilau beludru halus yang dibentuk oleh kaulosistidia berkelompok.",
+      "flesh": "Tipis dan kecokelatan berair hingga keputihan kusam pada tudung, serta cokelat kastanye lebih gelap hingga cokelat kehitaman dan lebih liat pada tangkai. Mempunyai bau kuat dan menusuk seperti mentimun segar yang baru dipotong, sering berubah menjadi bau ikan haring, minyak ikan, atau sarden terutama pada spesimen tua dan bertahan lama di jari; rasanya tawar hingga agak amis atau sedikit tidak enak.",
+      "sporePrint": "Bervariasi, mulai dari cokelat kemerahan muda pucat, okrea kemerahan, atau okrea karat hingga kekuningan kotor, kemerahan muda, atau hampir putih pada bentuk berspora pucat. Spora berukuran 6,5–10 × 3–5 µm (sesekali hingga panjang 11 µm), berbentuk elipsoid hingga hampir seperti amigdala sempit atau gelendong, halus, berdinding tipis, kemerahan pucat di bawah mikroskop, dan inamiloid.",
+      "habitat": "Saprotrof pada sisa kayu lapuk, mulsa serpihan kayu, serasah jarum konifer dan daun lebar (terutama pohon beech), serta tanah lembap yang kaya nitrogen atau humus. Tumbuh tunggal, tersebar, atau bergerombol di hutan berdaun lebar dan hutan konifer, jalan setapak teduh, tepi jalan, tepi sungai, kebun, taman, serta di antara rumput atau jelatang. Di daerah beriklim sedang terutama muncul dari Juni atau Juli hingga November atau Desember, dengan kemunculan sesekali pada musim semi dan musim dingin saat cuaca hangat.",
+      "uses": "Tidak dapat dimakan dan tidak bernilai kuliner, dengan tangkai yang liat, daging yang tipis, serta bau dan rasa mentimun hingga amis yang tidak menarik; beberapa ahli juga menduga jamur ini mungkin beracun ringan.",
+      "confusion": "Bau mentimun hingga amis yang menusuk, tangkai gelap berbeludru halus, dan sistidia berbentuk lanset yang sangat besar membuat tubuh buah segar mudah dikenali. Flammulina velutipes juga memiliki tangkai gelap berbeludru, tetapi tumbuh berkelompok langsung pada kayu di musim dingin, memiliki tudung kuning-jingga cerah yang lengket, tidak berbau mentimun, dan menghasilkan jejak spora putih. Pluteus cervinus tumbuh pada kayu lapuk, memiliki tudung yang lebih besar, lebih datar, dan berserat radial dengan lamela yang benar-benar bebas, serta tidak memiliki tangkai berbeludru maupun bau mentimun. Rhodocollybia butyracea memiliki tudung yang licin berminyak, halus, tidak berbeludru, dan tangkai menggembung berongga tanpa bau amis. Entoloma vernum memiliki tudung abu-abu kecokelatan berserat seperti sutra, tidak memiliki sistidia raksasa maupun bau mentimun, serta menghasilkan spora bersudut.",
+      "notes": "Sistidia berbentuk lanset berukuran sangat besar yang menyelimuti tudung, lamela, dan tangkai menghasilkan permukaan beludru yang khas dan bahkan dapat diamati dengan kaca pembesar yang kuat. Pernah dianggap jarang di sebagian wilayah sebarannya, spesies ini kini semakin sering tercatat seiring meluasnya penggunaan mulsa serpihan kayu di taman dan kebun. Di Eropa secara tradisional dibedakan dua varietas bertubuh buah kecil: var. latifolia dengan lamela lebar dan jejak spora jingga-okrea, serta var. leucospora dengan lamela sempit dan jejak spora hampir putih."
+    },
+    "it": {
+      "description": "Piccolo fungo saprotrofo a lamelle che fruttifica isolato, in piccoli gruppi o in colonie su terreni ricchi di humus, lettiera di foglie e detriti legnosi. Ampiamente diffuso in Europa, Gran Bretagna e Irlanda, Nordamerica, Nordafrica e Asia settentrionale, e segnalato anche in Australia e Nuova Zelanda, passa spesso inosservato nonostante il suo odore caratteristico.",
+      "cap": "Cappello largo 1–6 cm, da conico a campanulato nei giovani esemplari, poi disteso fino a largamente convesso o quasi piano con l’età e spesso provvisto di un basso umbone centrale. La superficie è liscia, opaca e finemente vellutata o sericea per la presenza di numerosi pileocistidi sporgenti, divenendo leggermente lucida con l’umidità. Fortemente igrofano, è di colore bruno-rossastro carico fino a bruno castano e bruno-nerastro al centro, sfumando verso un margine nettamente più pallido, giallo-camoscio o ocra-biancastro, debolmente striato per trasparenza a tempo umido, e schiarendosi nell’insieme a camoscio sporco o bruno-ocra pallido con il secco. L’idrossido di potassio (KOH) vira la superficie del cappello al verde oliva scuro, poi al grigio.",
+      "hymenium": "Lamelle larghe, ventricose, da mediamente fitte a fitte e intercalate da numerose lamellule, strettamente adnate, smarginate o quasi libere con l’età. Biancastre fino a crema o camoscio pallido nei giovani, divengono beige-rosato pallido, rosa-giallastro o ocra-rossastro pallido a maturazione delle spore, e possono imbrunire al tocco. Basidi da cilindrici a clavati, 20–25 × 7–8 µm, tetrasporici (occasionalmente bisporici), con giunti a fibbia basali. Abbondanti ed enormi cheilocistidi e pleurocistidi lanceolati, 50–100 × 13–25 µm, rivestono il filo e le facce delle lamelle e risultano abbastanza grandi da essere visibili con una buona lente d’ingrandimento.",
+      "stipe": "Gambo alto 2,5–8 cm e spesso 0,2–0,8 cm, cilindrico, uguale o leggermente attenuato verso la base, talvolta solcato o un po’ appiattito, rigido, cartilagineo, elastico e cavo, privo di anello e di volva. Crema pallido, camoscio o bruno-ocra e finemente pruinoso vicino all’apice, si scurisce progressivamente verso il basso fino a bruno castano carico o bruno-nerastro alla base, ed è rivestito su tutta la lunghezza da una fine lucentezza vellutata dovuta a caulocistidi fascicolati.",
+      "flesh": "Carne sottile e acquosa, da brunastra a biancastro sporco nel cappello, più scura, bruno castano fino a bruno-nerastra e più tenace nel gambo. Emana un odore forte e penetrante di cetriolo appena tagliato, che vira spesso verso l’aringa, l’olio di pesce o le sardine, soprattutto negli esemplari maturi, persistendo sulle dita; il sapore è mite fino a debolmente di pesce o leggermente sgradevole.",
+      "sporePrint": "Impronta sporale variabile, da bruno-rosato pallido, ocra-rossastro o ocra-rugginoso fino a giallastro sporco, rosato o quasi bianco nelle forme a sporata chiara. Le spore misurano 6,5–10 × 3–5 µm (occasionalmente fino a 11 µm di lunghezza), sono da ellissoidali a strettamente amigdaliformi o fusiformi, lisce, a parete sottile, rossastre pallide al microscopio e non amiloidi.",
+      "habitat": "Saprotrofo su detriti legnosi in decomposizione, pacciamatura di cippato, lettiera di aghi e latifoglie (soprattutto faggio) e suoli umidi ricchi di azoto o humus. Fruttifica isolato, sparso o in gruppi in boschi di latifoglie e conifere, sentieri ombrosi, margini stradali, rive di ruscelli, giardini, parchi e tra erba od ortiche. Nelle regioni temperate compare principalmente da giugno o luglio a novembre o dicembre, con fruttificazioni occasionali in primavera e in inverno durante i periodi miti.",
+      "uses": "Non commestibile e privo di valore culinario, per il gambo tenace, la carne sottile e l’odore e il sapore sgradevoli tra il cetriolo e il pesce; alcuni autori sospettano inoltre che possa essere leggermente tossico.",
+      "confusion": "L’odore penetrante tra il cetriolo e il pesce, il gambo scuro finemente vellutato e gli enormi cistidi lanceolati rendono inconfondibili i carpofori freschi. Flammulina velutipes possiede anch’essa un gambo scuro e vellutato, ma cresce in cespi direttamente sul legno in inverno, ha un cappello vischioso giallo-arancio vivace, è priva di odore di cetriolo e produce una sporata bianca. Pluteus cervinus fruttifica su legno marcescente, ha un cappello più grande, più appianato e radialmente fibrilloso con lamelle completamente libere, ed è privo del gambo vellutato e dell’odore di cetriolo. Rhodocollybia butyracea ha un cappello untuoso, liscio e non vellutato e un gambo rigonfio e cavo senza odore di pesce. Entoloma vernum presenta un cappello grigio-bruno sericeo-fibrilloso, è privo di cistidi giganti e di odore di cetriolo, e produce spore angolose.",
+      "notes": "Gli enormi cistidi lanceolati che ricoprono cappello, lamelle e gambo sono responsabili della caratteristica superficie vellutata e possono essere osservati persino con una potente lente tascabile. Un tempo ritenuta poco comune in parte del suo areale, la specie viene segnalata con maggiore frequenza in seguito alla diffusione della pacciamatura con cippato in parchi e giardini. In Europa si distinguono tradizionalmente due varietà di piccole dimensioni: var. latifolia, con lamelle larghe e sporata ocra-aranciata, e var. leucospora, con lamelle strette e sporata quasi bianca."
+    },
+    "ja": {
+      "description": "腐植に富んだ土壌、落葉、木質片の上に単生、小群生、または群生する小型の腐生性きのこです。ヨーロッパ、イギリスおよびアイルランド、北米、北アフリカ、北アジアに広く分布し、オーストラリアやニュージーランドでも記録されていますが、特徴的なにおいにもかかわらず見過ごされることがよくあります。",
+      "cap": "径1–6 cmで、幼時は円錐形から鐘形、成菌になると広いまんじゅう形からほぼ平らに開き、しばしば中央に低い中丘を残します。表面は平滑でつやがなく、多数突出した傘シスチジアにより細かなビロード状または絹糸状を呈し、湿るとわずかに光沢を帯びます。強い吸湿性を示し、中央部は濃い赤褐色から栗褐色ないし黒褐色で、湿時にはかすかに条線が透けて見える明瞭に淡い黄土色または帯白黄土色の縁部へと移り変わり、乾燥すると全体にくすんだ黄土色または淡い黄土褐色へと退色します。水酸化カリウム（KOH）溶液を滴下すると傘表面は暗オリーブ色から灰色に変色します。",
+      "hymenium": "ひだは幅広く腹太で、密から非常に密に並び、多数の小ひだを交え、柄に狭く直生、湾生、または老成するとほぼ離生します。幼時は白色からクリーム色または淡い黄土色ですが、胞子の成熟に伴い淡い帯桃ベージュ、黄桃色、または淡い赤黄土色に変わり、傷つくとより濃い褐色に変色することがあります。担子器は円筒形からこん棒形で20–25 × 7–8 µm、4胞子性（ときに2胞子性）で、基部にクランプ結合を持ちます。ひだの縁および側面には50–100 × 13–25 µmに達する巨大な披針形の縁シスチジアおよび側シスチジアが密生し、良質なルーペで観察できるほどの大きさです。",
+      "stipe": "長さ2.5–8 cm、太さ0.2–0.8 cmで、円筒形、上下同大または基部に向かってやや細まり、ときに溝やわずかな扁平部があり、硬く軟骨質で弾力があり、中空で、つばやつぼはありません。頂部付近は淡いクリーム色、黄土色、または黄土褐色で微粉を帯び、下方に向かって次第に濃色となって基部では濃い栗褐色から黒褐色になり、束生する柄シスチジアによって生じる細かなビロード状の光沢に全体が覆われています。",
+      "flesh": "傘では薄く水っぽい帯褐色から汚白色で、柄ではより濃い栗褐色から黒褐色で強靭です。切りたてのキュウリのような強く浸透するにおいがあり、特に老成した子実体ではニシン、魚油、またはイワシのようなにおいに変わることが多く、指にも残りやすいです。味は温和からかすかな魚臭さ、またはやや不快な味です。",
+      "sporePrint": "変異に富み、淡い帯桃褐色、赤黄土色、またはさび黄土色から、淡色胞子型では汚黄色、帯桃色、またはほぼ白色まで幅があります。胞子は6.5–10 × 3–5 µm（ときに長さ11 µmに達する）で、楕円形から狭扁桃形または紡錘形、平滑、薄壁、顕微鏡下では淡赤色を帯び、非アミロイドです。",
+      "habitat": "腐朽した木質片、ウッドチップマルチ、針葉樹および広葉樹（特にブナ）の落葉、ならびに湿った窒素や腐植に富む土壌上に生える腐生菌です。広葉樹林や針葉樹林、日陰の小道、道端、渓流沿い、庭園、公園、草地やイラクサの中などに単生、散生、または群生します。温帯地域では主に6月または7月から11月または12月にかけて発生し、温暖な天候の年には春や冬にもまれに発生します。",
+      "uses": "不食であり食用価値はありません。柄が硬く、肉が薄く、キュウリから魚のような不快なにおいと味があるため利用されず、弱毒性を疑う見解もあります。",
+      "confusion": "キュウリから魚のような強いにおい、細かなビロード状の暗色の柄、および巨大な披針形シスチジアにより、新鮮な子実体は容易に見分けられます。Flammulina velutipesも暗色のビロード状の柄を持ちますが、冬季に材上に直接束生し、鮮やかな橙黄色で粘性のある傘を持ち、キュウリ臭がなく、白色の胞子紋を生じます。ウラベニガサ（Pluteus cervinus）は腐朽材上に発生し、より大型で平らな放射状繊維紋のある傘と完全に離生したひだを持ち、ビロード状の柄やキュウリ臭を欠きます。Rhodocollybia butyraceaは脂ぎった平滑でビロード状でない傘と膨らんで中空の柄を持ち、魚臭がありません。Entoloma vernumは絹糸状繊維紋のある灰褐色の傘を持ち、巨大シスチジアとキュウリ臭を欠き、多角形の胞子を形成します。",
+      "notes": "傘、ひだ、柄を覆う巨大な披針形シスチジアがこの種特有のビロード状表面をつくり出しており、倍率の高いルーペでも確認できます。かつては分布域の一部でまれとされていましたが、公園や庭園でのウッドチップマルチの普及に伴い記録が増えています。ヨーロッパでは従来、子実体が小型の2つの変種、すなわちひだが幅広く橙黄土色の胞子紋を持つvar. latifoliaと、ひだが狭くほぼ白色の胞子紋を持つvar. leucosporaが区別されてきました。"
+    },
+    "ko": {
+      "description": "부식질이 풍부한 토양, 낙엽층, 나무 부스러기 위에서 홀로 또는 작은 무리나 떼를 지어 자라는 소형 부생성 버섯입니다. 유럽, 영국과 아일랜드, 북아메리카, 북아프리카, 북아시아에 널리 분포하며 오스트레일리아와 뉴질랜드에서도 기록되었고, 특유의 냄새에도 불구하고 종종 눈에 띄지 않고 지나치기 쉽습니다.",
+      "cap": "지름 1–6 cm로 어릴 때는 원뿔형에서 종형이다가 자라면서 넓은 볼록형 또는 거의 평평하게 펴지며, 가운데에 낮은 볼록 꼭지가 남는 경우가 많습니다. 표면은 매끄럽고 광택이 없으며, 돌출한 수많은 갓낭상체로 인해 미세한 벨벳 또는 비단 같은 질감을 띠고 젖으면 약간의 광택이 납니다. 흡습성이 매우 강하여 가운데는 짙은 적갈색에서 밤갈색, 흑갈색을 띠고, 가장자리로 갈수록 뚜렷하게 옅은 황담황색이나 백황토색으로 옅어지며 습할 때는 희미하게 비치는 줄무늬가 나타나고, 건조한 날씨에는 전체적으로 칙칙한 담황색이나 옅은 황토갈색으로 퇴색합니다. 수산화칼륨(KOH)을 떨어뜨리면 갓 표면이 짙은 올리브색에서 회색으로 변합니다.",
+      "hymenium": "주름살은 폭이 넓고 배가 부르며 촘촘하거나 매우 빽빽하고 작은 주름살이 많으며, 대에 좁게 붙거나 홈이 파여 붙거나 노숙하면 거의 떨어져 붙습니다. 어릴 때는 흰색에서 크림색 또는 옅은 담황색이지만 포자가 성숙하면서 옅은 분홍베이지색, 황분홍색 또는 옅은 적황토색으로 변하고, 상처를 입으면 더 짙은 갈색으로 변할 수 있습니다. 담자기는 원통형에서 곤봉형으로 크기 20–25 × 7–8 µm, 4포자성(간혹 2포자성)이며 기부에 꺾쇠연결이 있습니다. 주름살 날과 면에는 크기 50–100 × 13–25 µm의 거대한 피침형 연낭상체와 측낭상체가 풍부하게 늘어서 있어 성능 좋은 확대경으로도 볼 수 있습니다.",
+      "stipe": "높이 2.5–8 cm, 굵기 0.2–0.8 cm로 원통형이며 위아래 굵기가 같거나 밑동을 향해 약간 가늘어지고, 때때로 세로 홈이 있거나 약간 납작하며, 단단하고 연골질이면서 질기고 속이 비어 있고 턱받이나 대주머니는 없습니다. 꼭대기 부근은 옅은 크림색, 담황색 또는 황토갈색으로 미세한 가루가 덮여 있으며, 아래로 내려갈수록 점점 짙어져 밑동에서는 짙은 밤갈색이나 흑갈색이 되고, 다발을 이룬 대낭상체가 만드는 미세한 벨벳 광택으로 전체가 덮여 있습니다.",
+      "flesh": "살은 갓에서 얇고 물기 있는 갈색빛에서 탁한 흰색이며, 대에서는 더 짙은 밤갈색에서 흑갈색을 띠고 더 질깁니다. 갓 자른 오이 같은 강하고 코를 찌르는 냄새가 나며, 특히 오래된 개체에서는 청어, 생선기름 또는 정어리 냄새로 바뀌는 경우가 많고 손가락에 오래 남습니다. 맛은 순하거나 희미하게 비리거나 약간 불쾌합니다.",
+      "sporePrint": "포자문은 변화가 커서 옅은 분홍갈색, 적황토색 또는 녹황토색에서 담색 포자형의 경우 탁한 황색, 분홍색 또는 거의 흰색까지 다양합니다. 포자는 크기 6.5–10 × 3–5 µm(간혹 길이 11 µm까지)로 타원형에서 좁은 아몬드형 또는 방추형이며, 매끄럽고 벽이 얇으며 현미경 아래에서 옅은 붉은색을 띠고 비아밀로이드성입니다.",
+      "habitat": "썩어 가는 나무 부스러기, 우드칩 멀치, 침엽수 잎과 활엽수(특히 너도밤나무) 낙엽층, 그리고 질소나 부식질이 풍부한 습한 토양에서 자라는 부생성 버섯입니다. 활엽수림과 침엽수림, 그늘진 오솔길, 길가, 시냇가, 정원, 공원, 풀밭이나 쐐기풀 사이에서 홀로, 흩어져 또는 떼를 지어 발생합니다. 온대 지역에서는 주로 6월이나 7월부터 11월이나 12월까지 나타나며, 온화한 날씨에는 봄과 겨울에도 간혹 발생합니다.",
+      "uses": "대가 질기고 살이 얇으며 오이에서 생선 비린내로 변하는 불쾌한 냄새와 맛 때문에 식용 부적합하며 요리 가치가 없습니다. 일부 학자들은 약한 독성이 있을 가능성도 의심합니다.",
+      "confusion": "코를 찌르는 오이에서 생선 비린내로 이어지는 냄새, 미세한 벨벳 질감의 어두운 대, 그리고 거대한 피침형 낭상체 덕분에 신선한 자실체는 쉽게 구별됩니다. Flammulina velutipes 역시 어두운 벨벳 질감의 대를 가지지만 겨울철 나무 위에서 직접 다발로 자라며, 밝은 주황노란색의 끈적한 갓을 가지고 오이 냄새가 없으며 흰색 포자문을 만듭니다. 난버섯(Pluteus cervinus)은 썩은 나무 위에서 자라며 더 크고 평평하며 방사상 섬유 무늬가 있는 갓과 완전히 떨어진 주름살을 가지고 있고 벨벳 질감의 대와 오이 냄새가 없습니다. Rhodocollybia butyracea는 기름지고 매끄러우며 벨벳 질감이 아닌 갓과 부풀고 속이 빈 대를 가지며 비린내가 없습니다. Entoloma vernum은 비단결 섬유 무늬가 있는 회갈색 갓을 가지며 거대 낭상체와 오이 냄새가 없고 각진 포자를 생성합니다.",
+      "notes": "갓, 주름살, 대를 덮고 있는 거대한 피침형 낭상체가 특유의 벨벳 같은 표면 질감을 만들어 내며, 배율이 높은 확대경으로도 확인할 수 있습니다. 한때 분포 지역의 일부에서 드문 종으로 여겨졌으나 공원과 정원에 우드칩 멀치가 널리 쓰이면서 기록 빈도가 높아졌습니다. 유럽에서는 전통적으로 자실체가 작은 두 변종, 즉 주름살이 넓고 주황황토색 포자문을 갖는 var. latifolia와 주름살이 좁고 거의 흰색 포자문을 갖는 var. leucospora가 구별됩니다."
+    },
+    "lt": {
+      "description": "Nedidelis saprotrofinis lakštabudinis grybas, išauginantis vaisiakūnius pavieniui, nedidelėmis grupelėmis ar būriais ant humusingos dirvos, nukritusių lapų paklotės ir medienos liekanų. Plačiai paplitęs Europoje, Didžiojoje Britanijoje ir Airijoje, Šiaurės Amerikoje, Šiaurės Afrikoje bei Šiaurės Azijoje, taip pat užfiksuotas Australijoje ir Naujojoje Zelandijoje, tačiau nepaisant išskirtinio kvapo neretai lieka nepastebėtas.",
+      "cap": "1–6 cm skersmens, jauna kūgiška arba varpiška, senstant išsiskleidžia iki plačiai išgaubtos ar beveik plokščios, dažnai išlaikydama žemą gūbrelį centre. Paviršius lygus, matinis, dėl daugybės išsikišusių pileocistidžių švelniai aksominis arba šilkiškas, drėgnu oru tampa šiek tiek blizgus. Stipriai higrofaniška: tamsiai rausvai ruda iki kaštoninės rudos ir juodai rudos spalvos centre, pakraščių link pereinanti į pastebimai šviesesnę gelsvai rusvą arba balsvai ochrinę spalvą, drėgna ties kraštu silpnai peršviečiamai dryžuota; sausu oru visa kepurėlė išblunka iki nešvariai rusvos ar šviesiai ochriškai rudos. Kalio hidroksidas (KOH) kepurėlės paviršių nudažo tamsiai alyviškai žaliai, vėliau – pilkai.",
+      "hymenium": "Lakšteliai platūs, išsipūtę, tankūs arba labai tankūs, su gausiais trumpais tarpiniais lakšteliais, siaurai priaugę, su įlanka arba senstant beveik laisvi. Jauni balsvi, kreminiai arba šviesiai rusvi, sporoms bręstant tampa šviesiai rausvai smėlio spalvos, gelsvai rausvais arba šviesiai rausvai ochriniais, o paspausti gali paruduoti tamsiau. Bazidijos cilindriškos arba buožiškos, 20–25 × 7–8 µm dydžio, ketursporės (kartais dvisporės), su sąsagomis prie pamato. Gausios, milžiniškos lancetiškos cheilocistidės ir pleurocistidės, siekiančios 50–100 × 13–25 µm, apaugusios lakštelių pakraščius bei šonus ir yra pakankamai didelės, kad jas būtų galima įžiūrėti su geru didinamuoju stiklu.",
+      "stipe": "2,5–8 cm aukščio ir 0,2–0,8 cm storio, cilindriškas, vienodo storio arba šiek tiek smailėjantis link pagrindo, kartais vagotas ar šiek tiek suplotas, standus, kremzliškas, lankstus ir tuščiaviduris, be rinkio ir išnaros. Viršutinėje dalyje šviesiai kreminis, gelsvai rusvas arba ochriškai rudas ir smulkiai apšepęs, žemyn tolygiai tamsėja iki sodriai kaštoninės rudos arba juodai rudos spalvos prie pagrindo, o per visą ilgį padengtas švelniu aksominiu blizgesiu, kurį sudaro kuokštais augančios kaulocistidės.",
+      "flesh": "Kepurėlėje plona ir vandeningai rusva iki nešvariai balsvos, kote tamsesnė – kaštoninės rudos iki juodai rudos spalvos ir stangresnė. Pasižymi stipriu, skvarbiu šviežiai pjaustytų agurkų kvapu, kuris, ypač senuose vaisiakūniuose, dažnai pereina į silkės, žuvų taukų ar sardinių kvapą ir ilgai išlieka ant pirštų; skonis švelnus, silpnai žuviškas arba kiek nemalonus.",
+      "sporePrint": "Kintamas – nuo šviesiai rausvai rudo, rausvai ochrinio ar rūdžių ochrinio iki nešvariai gelsvo, rausvo ar beveik balto šviesiasporėse formose. Sporos 6,5–10 × 3–5 µm dydžio (kartais iki 11 µm ilgio), elipsiškos iki siaurai migdoliškų ar verpstiškų, lygios, plonasienės, pro mikroskopą šviesiai rausvos, inamiloidinės.",
+      "habitat": "Saprotrofas, augantis ant pūvančių medienos liekanų, medienos skiedrų mulčio, spyglių ir lapų paklotės (ypač bukų) bei ant drėgno, azotingo ar humusingo dirvožemio. Vaisiakūniai išauga pavieniui, pasklidai arba būriais lapuočių ir spygliuočių miškuose, prie pavėsingų takų, pakelėse, upelių pakrantėse, soduose, parkuose, tarp žolių ar dilgėlių. Vidutinio klimato juostoje daugiausia pasirodo nuo birželio ar liepos iki lapkričio ar gruodžio, o esant švelniems orams pavieniui gali pasitaikyti ir pavasarį bei žiemą.",
+      "uses": "Nevalgomas ir jokios kulinarinės vertės neturintis grybas dėl kieto koto, plonos tramos ir nemalonaus agurkų bei žuvies kvapo ir skonio; kai kurie šaltiniai taip pat įtaria, kad jis gali būti silpnai nuodingas.",
+      "confusion": "Skvarbus agurkų ir žuvies kvapas, švelniai aksominis tamsus kotas ir milžiniškos lancetiškos cistidės padeda lengvai atskirti šviežius vaisiakūnius. Juodkotė ugniabudė (Flammulina velutipes) taip pat turi tamsų aksominį kotą, tačiau žiemą auga kupstais tiesiai ant medienos, pasižymi ryškiai oranžiškai geltona gleivėta kepurėle, neturi agurkų kvapo ir palieka baltą sporų atspaudą. Elninė skydabudė (Pluteus cervinus) auga ant pūvančios medienos, turi didesnę, plokštesnę, spinduliškai plaušuotą kepurėlę su visiškai laisvais lakšteliais ir neturi nei aksominio koto, nei agurkų kvapo. Rhodocollybia butyracea pasižymi riebia, lygia, neaksomine kepurėle ir išpūstu tuščiaviduriu kotu be žuvies kvapo. Entoloma vernum turi šilkiškai plaušuotą pilkai rudą kepurėlę, neturi milžiniškų cistidžių bei agurkų kvapo ir brandina kampuotas sporas.",
+      "notes": "Didžiulės lancetiškos cistidės, dengiančios kepurėlę, lakštelius ir kotą, sukuria būdingą aksominį paviršių ir yra įžiūrimos net su stipriu didinamuoju stiklu. Anksčiau dalyje savo paplitimo arealo laikyta reta, ši rūšis dabar registruojama dažniau dėl plačiai parkuose ir soduose naudojamo medienos skiedrų mulčio. Europoje tradiciškai skiriamos dvi smulkiavaisės atmainos: var. latifolia su plačiais lakšteliais ir oranžiškai ochriniu sporų atspaudu bei var. leucospora su siaurais lakšteliais ir beveik baltu sporų atspaudu."
+    },
+    "lv": {
+      "description": "Neliela saprotrofa lapiņsēne, kas veido augļķermeņus pa vienam, nelielās grupās vai baros uz trūdvielām bagātas augsnes, nobirām un koksnes atliekām. Plaši izplatīta Eiropā, Lielbritānijā un Īrijā, Ziemeļamerikā, Ziemeļāfrikā un Āzijas ziemeļdaļā, kā arī konstatēta Austrālijā un Jaunzēlandē, taču neraugoties uz īpatnējo smaržu, bieži paliek nepamanīta.",
+      "cap": "1–6 cm plata, jaunībā koniska līdz zvanveida, vecumā izplešas līdz plati izliektai vai gandrīz plakanai, bieži saglabājot zemu pauguru vidū. Virsma ir gluda, matēta un daudzo izvirzīto pileocistīdu dēļ smalki samtaina vai zīdaina, mitrumā kļūst viegli spīdīga. Izteikti higrofāna: tumši sarkanbrūna līdz kastaņbrūna un vidū melnbrūna, pārejot uz jūtami gaišāku dzeltenbrūnu vai bālgani okera malu, kas mitrumā ir vāji caurspīdīgi rievota; sausā laikā visa cepurīte izbalo līdz netīri dzeltenbrūnai vai bāli okerbrūnai. Kālija hidroksīds (KOH) cepurītes virsmu iekrāso tumši olīvzaļu, bet pēc tam pelēku.",
+      "hymenium": "Platas, izliektas, ciešas līdz ļoti ciešas lapiņas ar daudzām īsām starplapiņām, šauri pieaugušas, ar jomiņu vai vecumā gandrīz brīvas. Jaunībā bālganas līdz krēmkrāsas vai bāli dzeltenbrūnas, sporām nobriestot kļūst bāli sārtbēšas, dzeltenīgi sārtas vai bāli sārtokera, un piespiežot var kļūt tumšāk brūnas. Bazīdijas ir cilindriskas līdz vālesveida, 20–25 × 7–8 µm lielas, četrsporu (retāk divsporu), ar bazālām skavām. Bagātīgas, milzīgas lancetveida heilocistīdas un pleirocistīdas, 50–100 × 13–25 µm lielas, klāj lapiņu šķautnes un sānu virsmas un ir pietiekami lielas, lai tās saskatītu ar labu lupu.",
+      "stipe": "2,5–8 cm augsts un 0,2–0,8 cm resns, cilindrisks, vienāda resnuma vai pret pamatu viegli sašaurināts, reizēm rievots vai viegli saplacināts, stīvs, skrimšļains, lokans un dobs, bez gredzena un maksts. Augšdaļā bāli krēmkrāsas, dzeltenbrūns vai okerbrūns un smalki apsarmots, virzienā uz leju vienmērīgi satumst līdz dziļi kastaņbrūnam vai melnbrūnam pie pamata un visā garumā klāts ar smalku samtainu mirdzumu, ko veido kūlīšos sakārtotas kaulocistīdas.",
+      "flesh": "Cepurītē plāns un ūdeņaini brūngans līdz netīri bālgans, kātiņā tumšāks – kastaņbrūns līdz melnbrūns – un sīkstāks. Tam piemīt spēcīga, uzbāzīga svaigi grieztu gurķu smarža, kas, īpaši vecākos augļķermeņos, nereti pāriet siļķu, zivju eļļas vai sardīņu smaržā un ilgi saglabājas uz pirkstiem; garša ir maiga līdz vāji zivjaina vai nedaudz nepatīkama.",
+      "sporePrint": "Mainīgs – no bāli sārtbrūna, sārtokera vai rūsas okera līdz netīri dzeltenīgam, sārtam vai gaišsporu formām gandrīz baltam. Sporas ir 6,5–10 × 3–5 µm lielas (retāk līdz 11 µm garas), elipsoīdas līdz šauri mandeļveida vai vārpstveida, gludas, plānsienainas, mikroskopā bāli sārtas un inamiloīdas.",
+      "habitat": "Saprotrofs uz satrupējušām koksnes atliekām, koksnes šķeldas mulčas, skuju un lapu nobirām (īpaši dižskābarža) un mitras, slāpekli vai trūdvielas saturošas augsnes. Aug pa vienam, izkliedēti vai baros lapu koku un skujkoku mežos, gar ēnainām takām, ceļmalās, strautu krastos, dārzos, parkos un zālē vai starp nātrēm. Mērenā klimata joslā galvenokārt sastopams no jūnija vai jūlija līdz novembrim vai decembrim, ar atsevišķiem atradumiem pavasarī un ziemā maigos laikapstākļos.",
+      "uses": "Neēdama un bez kulināras vērtības sīkstā kātiņa, plānā mīkstuma un nepievilcīgās gurķu līdz zivju smaržas un garšas dēļ; daži avoti arī pieļauj, ka tā varētu būt viegli indīga.",
+      "confusion": "Uzbāzīgā gurķu līdz zivju smarža, smalki samtainais tumšais kātiņš un milzīgās lancetveida cistīdas padara svaigus augļķermeņus viegli atšķiramus. Arī Flammulina velutipes ir tumšs samtains kātiņš, taču tā ziemā aug čemuros tieši uz koksnes, tai ir koši oranždzeltena gļotaina cepurīte, nav gurķu smaržas un sporu nospiedums ir balts. Briežu jumtene (Pluteus cervinus) aug uz trūdošas koksnes, tai ir lielāka, plakanāka, radiāli šķiedraina cepurīte ar pilnīgi brīvām lapiņām, un tai nav samtaina kātiņa un gurķu smaržas. Rhodocollybia butyracea ir taukaina, gluda, nesamtaina cepurīte un uzpūsts, dobs kātiņš bez zivju smaržas. Entoloma vernum ir zīdaini šķiedraina pelēkbrūna cepurīte, tai trūkst milzu cistīdu un gurķu smaržas, un tās sporas ir stūrainas.",
+      "notes": "Milzīgās lancetveida cistīdas, kas klāj cepurīti, lapiņas un kātiņu, rada raksturīgo samtaino virsmu un ir saskatāmas pat ar spēcīgu lupu. Suga, kas agrāk daļā izplatības areāla tika uzskatīta par retu, mūsdienās tiek reģistrēta biežāk līdz ar plašu koksnes šķeldas mulčas izmantošanu parkos un dārzos. Eiropā tradicionāli izšķir divas sīkaugļu varietātes: var. latifolia ar platām lapiņām un oranžokera sporu nospiedumu un var. leucospora ar šaurām lapiņām un gandrīz baltu sporu nospiedumu."
+    },
+    "nl": {
+      "description": "Een kleine, saprotrofe plaatjeszwam die alleenstaand, in kleine groepjes of in groepen groeit op humusrijke grond, bladstrooisel en houtresten. De soort is wijdverspreid in heel Europa, Groot-Brittannië en Ierland, Noord-Amerika, Noord-Afrika en Noord-Azië, en is ook gemeld uit Australië en Nieuw-Zeeland; ondanks de kenmerkende geur wordt zij vaak over het hoofd gezien.",
+      "cap": "De hoed is 1–6 cm breed, jong kegelvormig tot klokvormig, bij het ouder worden uitspreidend tot breed gewelfd of bijna vlak en vaak met een lage centrale umbo. Het oppervlak is glad, mat en fijn fluweelachtig of zijdeachtig door talloze uitstekende pileocystiden, bij vochtig weer licht glanzend. De hoed is sterk hygrofaan, in het centrum diep roodbruin tot kastanjebruin en zwartbruin, uitlopend naar een duidelijk blekere geelachtig zeemkleurige of witachtig okerkleurige rand die vochtig zwak doorschijnend gestreept is, en bij droog weer in zijn geheel verblekend tot vuil zeemkleurig of bleek okerbruin. Kaliumhydroxide (KOH) kleurt het hoedoppervlak donker olijfkleurig en daarna grijs.",
+      "hymenium": "De plaatjes zijn breed, buikig, vrij dicht tot dicht opeen met talrijke tussenplaatjes, smal aangehecht, uitgerand of op latere leeftijd bijna vrij. Jong zijn ze witachtig tot roomkleurig of bleek zeemkleurig, maar bij het rijpen van de sporen kleuren ze bleek rozebeige, geelachtig roze of bleek roodachtig okerkleurig en kunnen ze bij kneuzing donkerder bruin verkleuren. De basidiën zijn cilindrisch tot knotsvormig, 20–25 × 7–8 µm, viersporig (zelden tweesporig), met basale gespen. Talrijke, reusachtige lancetvormige cheilocystiden en pleurocystiden van 50–100 × 13–25 µm bekleden de snede en vlakken van de plaatjes en zijn groot genoeg om met een goede loep te zien.",
+      "stipe": "De steel is 2,5–8 cm hoog en 0,2–0,8 cm dik, cilindrisch, gelijkmatig dik of naar de basis toe iets versmallend, soms gegroefd of licht afgeplat, stijf, kraakbeenachtig, buigzaam en hol, zonder ring of beurs. Nabij de top is hij bleek roomkleurig, zeemkleurig of okerbruin en fijn berijpt, naar onderen toe geleidelijk donkerder wordend tot diep kastanjebruin of zwartbruin aan de basis, en over de gehele lengte bekleed met een fijne fluweelachtige glans gevormd door gebundelde caulocystiden.",
+      "flesh": "Het vlees is dun en waterig bruinachtig tot vuilwit in de hoed, en donkerder kastanjebruin tot zwartbruin en taaier in de steel. Het heeft een sterke, doordringende geur van vers gesneden komkommer, die vooral bij oudere exemplaren vaak omslaat naar haring, visolie of sardines en aan de vingers blijft hangen; de smaak is mild tot zwak visachtig of licht onaangenaam.",
+      "sporePrint": "De sporenprint is variabel, van bleek rozebruin, roodachtig oker of roestoker tot vuil geelachtig, rozig of bijna wit bij bleeksporige vormen. De sporen meten 6,5–10 × 3–5 µm (incidenteel tot 11 µm lang), zijn ellipsoïde tot smal amandelvormig of spoelvormig, glad, dunwandig, onder de microscoop bleek roodachtig en inamyloïde.",
+      "habitat": "Saprotroof op verterend houtafval, houtsnippers, naald- en bladstrooisel (vooral van beuk) en vochtige, stikstof- of humusrijke grond. De soort groeit alleenstaand, verspreid of in groepen in loof- en naaldbossen, langs schaduwrijke paden, wegbermen, beekoevers, in tuinen, parken en tussen gras of brandnetels. In gematigde streken verschijnt zij voornamelijk van juni of juli tot november of december, met incidentele vruchtlichamen in het voorjaar en de winter bij zacht weer.",
+      "uses": "Niet eetbaar en zonder culinaire waarde door de taaie steel, het dunne vlees en de onaangename komkommer- tot visachtige geur en smaak; sommige auteurs vermoeden bovendien dat de paddenstoel licht giftig kan zijn.",
+      "confusion": "De doordringende komkommer- tot visgeur, de fijn fluweelachtige donkere steel en de reusachtige lancetvormige cystiden maken verse vruchtlichamen goed herkenbaar. Het gewoon fluweelpootje (Flammulina velutipes) heeft eveneens een donkere fluweelachtige steel, maar groeit in bundels rechtstreeks op hout in de winter, heeft een helder oranjegele, slijmerige hoed, mist de komkommergeur en geeft een witte sporenprint. De gewone hertenzwam (Pluteus cervinus) groeit op rottend hout, heeft een grotere, vlakkere, radiaal vezelige hoed met volledig vrije plaatjes en mist zowel de fluweelachtige steel als de komkommergeur. De botercollybia (Rhodocollybia butyracea) heeft een vettige, gladde, niet-fluweelachtige hoed en een gezwollen, holle steel zonder visgeur. De vroege dennensatijnzwam (Entoloma vernum) heeft een zijdeachtig-vezelige grijsbruine hoed, mist de reuzencystiden en de komkommergeur en vormt hoekige sporen.",
+      "notes": "De enorme lancetvormige cystiden die de hoed, plaatjes en steel bedekken zijn verantwoordelijk voor het kenmerkende fluweelachtige oppervlak en kunnen zelfs met een sterke handloep worden waargenomen. De soort werd in delen van haar verspreidingsgebied vroeger als zeldzaam beschouwd, maar wordt vaker waargenomen sinds houtsnippers op grote schaal als bodembedekker in parken en tuinen worden gebruikt. In Europa worden traditioneel twee kleinvruchtige variëteiten onderscheiden: var. latifolia met brede plaatjes en een oranje-oker sporenprint, en var. leucospora met smalle plaatjes en een bijna witte sporenprint."
+    },
+    "no": {
+      "description": "En liten, saprotrof skivesopp som danner fruktlegemer enkeltvis, i små grupper eller i flokker på humusrik jord, strø og vedrester. Den er vidt utbredt i Europa, Storbritannia og Irland, Nord-Amerika, Nord-Afrika og Nord-Asia, og er også registrert i Australia og New Zealand, men blir ofte oversett til tross for sin karakteristiske lukt.",
+      "cap": "1–6 cm bred, kjegle- til klokkeformet som ung, med alderen utbredt til bredt hvelvet eller nesten flat, ofte med en lav pukkel i midten. Overflaten er glatt, matt og fint fløyelslodden eller silkeaktig av tallrike utstikkende pileocystider, og blir svakt skinnende i fuktig vær. Sterkt hygrofan, dypt rødbrun til kastanjebrun og svartbrun i midten, med overgang til en tydelig blekere gulaktig okker eller hvitaktig okker kant som er svakt gjennomskinnelig stripet i fuktig tilstand, og blekner i tørt vær i sin helhet til skittengul okker eller blekt okkerbrun. Kaliumhydroksid (KOH) farger hatteoverflaten mørkt olivengrønn og deretter grå.",
+      "hymenium": "Brede, bukede, tette til svært tette skiver med tallrike korte mellomskiver, smalt tilvokste, utrannede eller nesten frie med alderen. Hvitaktige til kremfargede eller blekt gulbrune som unge, senere blekt rosabeige, gulrosa eller blekt rødokker etter hvert som sporene modnes, og kan få mørkere brune flekker ved trykk. Basidiene er sylindriske til kølleformede, 20–25 × 7–8 µm, firesporede (av og til tosporede), med basale bøyler. Tallrike, enorme lansettformede cheilocystider og pleurocystider på 50–100 × 13–25 µm kler skiveeggene og skiveflatene og er store nok til å sees med en god lupe.",
+      "stipe": "2,5–8 cm høy og 0,2–0,8 cm tykk, sylindrisk, jevntykk eller svakt avsmalnende mot basis, av og til furet eller lett flattrykt, stiv, bruskaktig, bøyelig og hul, uten ring eller slire. Blekt kremfarget, gulbrun eller okkerbrun og fint pudret nær toppen, mørkner jevnt nedover til dypt kastanjebrun eller svartbrun ved basis, og er over det hele kledd i et fint fløyelsaktig skjær dannet av knippede caulocystider.",
+      "flesh": "Tynt og vannaktig brunlig til skittenhvitt i hatten, mørkere kastanjebrunt til svartbrunt og seigere i stilken. Det har en sterk, gjennomtrengende lukt av nyskåret agurk som ofte går over mot sild, fiskeolje eller sardiner, særlig hos eldre eksemplarer, og som sitter lenge igjen på fingrene; smaken er mild til svakt fiskeaktig eller litt ubehagelig.",
+      "sporePrint": "Variabelt, fra blekt rosabrun, rødokker eller rustokker til skittengul, rosa eller nesten hvitt hos bleksporede former. Sporene måler 6,5–10 × 3–5 µm (av og til opptil 11 µm lange), er ellipsoide til smalt mandelformede eller tenformede, glatte, tynnveggede, blekt rødlige under mikroskopet og inamyloide.",
+      "habitat": "Saprotrof på råtnende vedrester, flisdekke, bar- og løvstrø (særlig bøk) og fuktig, nitrogen- eller humusrik jord. Den vokser enkeltvis, spredt eller i flokker i løv- og barskog, langs skyggefulle stier, veikanter, bekke- og elvebredder, i hager og parker samt blant gress eller nesler. I tempererte strøk opptrer den hovedsakelig fra juni eller juli til november eller desember, med spredte funn om våren og vinteren i mildt vær.",
+      "uses": "Ikke matsopp og uten kulinarisk verdi på grunn av den seige stilken, det tynne kjøttet og den uappetittlige agurk- til fiskeaktige lukten og smaken; enkelte kilder mistenker også at den kan være svakt giftig.",
+      "confusion": "Den gjennomtrengende agurk- til fiskeaktige lukten, den fint fløyelsaktige mørke stilken og de enorme lansettformede cystidene gjør friske fruktlegemer lette å kjenne igjen. Flammulina velutipes har også en mørk fløyelslodden stilk, men vokser i knipper direkte på ved om vinteren, har en klart orangegul, slimet hatt, mangler agurklukt og har hvitt sporeavtrykk. Skjermsopp (Pluteus cervinus) vokser på råtnende ved, har en større, flatere og radialt fibret hatt med helt frie skiver og mangler den fløyelsaktige stilken og agurklukten. Rhodocollybia butyracea har en fettaktig, glatt hatt uten fløyelsbelegg og en oppsvulmet, hul stilk uten fiskelukt. Entoloma vernum har en silkefibret gråbrun hatt, mangler kjempecystider og agurklukt og har kantede sporer.",
+      "notes": "De enorme lansettformede cystidene som dekker hatt, skiver og stilk, gir den karakteristiske fløyelsaktige overflaten og kan skimtes selv med en sterk lupe. Arten ble tidligere regnet som uvanlig i deler av utbredelsesområdet, men blir nå oftere registrert i takt med utstrakt bruk av treflis i parker og hager. I Europa skilles det tradisjonelt mellom to småfruktede varieteter: var. latifolia med brede skiver og oransjeokker sporeavtrykk, og var. leucospora med smale skiver og nesten hvitt sporeavtrykk."
+    },
+    "pl": {
+      "description": "Niewielki saprotroficzny grzyb blaszkowy, owocnikujący pojedynczo, w małych grupach lub gromadnie na glebie bogatej w próchnicę, ściółce liściastej i szczątkach drewna. Jest szeroko rozpowszechniony w całej Europie, w Wielkiej Brytanii i Irlandii, Ameryce Północnej, Afryce Północnej oraz północnej Azji, a ponadto odnotowano go w Australii i Nowej Zelandii; mimo charakterystycznego zapachu bywa często przeoczany.",
+      "cap": "Kapelusz o średnicy 1–6 cm, za młodu stożkowaty do dzwonkowatego, z wiekiem rozpościerający się do szeroko wypukłego lub niemal płaskiego, często z niskim garbkiem na środku. Powierzchnia jest gładka, matowa i delikatnie aksamitna lub jedwabista dzięki licznym wystającym pileocystydom, w stanie mokrym lekko błyszcząca. Jest silnie higrofaniczny, w centrum głęboko czerwonobrązowy do kasztanowobrązowego i czarnobrązowego, przechodzący ku wyraźnie bledszemu żółtawo-płowemu lub białawoochrowemu brzegowi, który w stanie wilgotnym jest słabo prześwitująco prążkowany; podczas suchej pogody cały kapelusz blednie do brudnopłowego lub bladoochrowobrązowego. Wodorotlenek potasu (KOH) barwi powierzchnię kapelusza na ciemnooliwkowo, a następnie na szaro.",
+      "hymenium": "Blaszki szerokie, brzuchate, średnio gęste do gęstych z licznymi krótkimi blaszeczkami, wąsko przyrośnięte, wycięte ząbkiem lub na starość niemal wolne. Za młodu są białawe do kremowych lub bladopłowych, w miarę dojrzewania zarodników stają się bladoróżowobeżowe, żółtaworóżowe lub bladoczerwonawoochrowe, a po uszkodzeniu mogą ciemnieć na brązowo. Podstawki są cylindryczne do maczugowatych, 20–25 × 7–8 µm, czterozarodnikowe (sporadycznie dwuzarodnikowe), ze sprzążkami u podstawy. Liczne, olbrzymie lancetowate cheilocystydy i pleurocystydy o wymiarach 50–100 × 13–25 µm pokrywają ostrza i boki blaszek i są na tyle duże, że można je dostrzec przez dobrą lupę.",
+      "stipe": "Trzon ma 2,5–8 cm wysokości i 0,2–0,8 cm grubości, jest walcowaty, równogruby lub lekko zwężający się ku podstawie, czasem bruzdowany lub nieznacznie spłaszczony, sztywny, chrząstkowaty, giętki i pusty w środku, bez pierścienia i pochwy. Przy wierzchołku jest bladokremowy, płowy lub ochrowobrązowy i delikatnie oprószony, ku dołowi stopniowo ciemnieje do głęboko kasztanowobrązowego lub czarnobrązowego u podstawy i na całej długości pokryty jest subtelnym aksamitnym połyskiem tworzonym przez pęczkowate kaulocystydy.",
+      "flesh": "Miąższ w kapeluszu jest cienki i wodniście brązowawy do brudnobiaławego, w trzonie ciemniejszy, kasztanowobrązowy do czarnobrązowego i twardszy. Ma silny, przenikliwy zapach świeżo pokrojonych ogórków, często przechodzący w woń śledzi, tranu lub sardynek, zwłaszcza u starszych owocników, i utrzymujący się na palcach; smak jest łagodny do lekko rybiego lub nieco nieprzyjemnego.",
+      "sporePrint": "Wysyp zarodników jest zmienny, od bladoróżowobrązowego, czerwonawoochrowego lub rdzawoochrowego po brudnożółtawy, różowawy lub niemal biały u form jasnozarodnikowych. Zarodniki mierzą 6,5–10 × 3–5 µm (wyjątkowo do 11 µm długości), są elipsoidalne do wąskomigdałowatych lub wrzecionowatych, gładkie, cienkościenne, pod mikroskopem bladoczerwonawe i nieamyloidalne.",
+      "habitat": "Grzyb saprotroficzny rozwijający się na rozkładających się szczątkach drewna, zrębkach drzewnych, ściółce iglastej i liściastej (zwłaszcza bukowej) oraz na wilgotnej glebie bogatej w azot lub próchnicę. Owocnikuje pojedynczo, w rozproszeniu lub gromadnie w lasach liściastych i iglastych, na zacienionych ścieżkach, poboczach dróg, brzegach strumieni, w ogrodach, parkach oraz wśród traw i pokrzyw. W strefie umiarkowanej pojawia się głównie od czerwca lub lipca do listopada albo grudnia, a w łagodną pogodę sporadycznie także wiosną i zimą.",
+      "uses": "Niejadalny i pozbawiony wartości kulinarnej ze względu na twardy trzon, cienki miąższ oraz nieapetyczny ogórkowy do rybiego zapach i smak; niektórzy autorzy podejrzewają ponadto, że może być lekko trujący.",
+      "confusion": "Przenikliwy zapach ogórkowo-rybi, delikatnie aksamitny ciemny trzon oraz olbrzymie lancetowate cystydy nadają świeżym owocnikom bardzo charakterystyczny wygląd. Płomiennica zimowa (Flammulina velutipes) również ma ciemny, aksamitny trzon, lecz rośnie w wiązkach bezpośrednio na drewnie zimą, ma jaskrawo pomarańczowożółty, lepki kapelusz, nie pachnie ogórkami i daje biały wysyp zarodników. Drobnołuszczak jeleni (Pluteus cervinus) owocnikuje na próchniejącym drewnie, ma większy, bardziej płaski, promieniście włóknisty kapelusz z zupełnie wolnymi blaszkami oraz nie ma aksamitnego trzonu ani zapachu ogórków. Monetnica maślana (Rhodocollybia butyracea) ma tłusty, gładki, nieaksamitny kapelusz i zgrubiały, pusty trzon pozbawiony rybiego zapachu. Dzwonkówka wiosenna (Entoloma vernum) ma jedwabiście włóknisty, szarobrązowy kapelusz, nie ma olbrzymich cystyd ani zapachu ogórków i wytwarza kanciaste zarodniki.",
+      "notes": "Olbrzymie lancetowate cystydy pokrywające kapelusz, blaszki i trzon odpowiadają za charakterystyczną aksamitną powierzchnię i można je dostrzec nawet przez silną lupę. Gatunek ten, uznawany niegdyś w części swojego zasięgu za rzadki, stał się częściej notowany wraz z upowszechnieniem się ściółkowania zrębkami drzewnymi w parkach i ogrodach. W Europie tradycyjnie wyróżnia się dwie drobnoowocnikowe odmiany: var. latifolia o szerokich blaszkach i pomarańczowoochrowym wysypie zarodników oraz var. leucospora o wąskich blaszkach i niemal białym wysypie zarodników."
+    },
+    "pt": {
+      "description": "Pequeno cogumelo saprotrófico com lâminas que frutifica isolado, em pequenos grupos ou em colónias sobre solos ricos em húmus, folhada e detritos lenhosos. Amplamente distribuído pela Europa, Grã-Bretanha e Irlanda, América do Norte, Norte de África e norte da Ásia, e também registado na Austrália e na Nova Zelândia, passa frequentemente despercebido apesar do seu cheiro distinto.",
+      "cap": "Chapéu com 1–6 cm de largura, cónico a campanulado quando jovem, expandindo-se até amplamente convexo ou quase plano com a idade e mantendo frequentemente um umbo central baixo. A superfície é lisa, mate e finamente aveludada ou sedosa devido a numerosos pileocistídios salientes, tornando-se ligeiramente brilhante quando húmida. Fortemente higrófano, apresenta cor castanho-avermelhada escura a castanho-pinhão e castanho-anegrada no centro, aclareando para uma margem distintamente mais pálida, amarelo-camurça ou ocre-esbranquiçada, tenuemente estriada por transparência em tempo húmido, e desbotando no conjunto para camurça sujo ou castanho-ocre pálido em tempo seco. O hidróxido de potássio (KOH) torna a superfície do chapéu verde-azeitona escuro e depois cinzenta.",
+      "hymenium": "Lâminas largas, ventrudas, próximas a apertadas e com numerosas lamélulas, estreitamente adnatas, chanfradas ou quase livres com a idade. Esbranquiçadas a creme ou camurça pálido quando jovens, tornam-se bege-rosado pálido, rosa-amarelado ou ocre-avermelhado pálido à medida que os esporos amadurecem, podendo escurecer para castanho com o manuseamento. Basídios cilíndricos a claviformes, com 20–25 × 7–8 µm, tetraspóricos (ocasionalmente bispóricos), com fíbulas basais. Abundantes e enormes queilocistídios e pleurocistídios lanceolados, com 50–100 × 13–25 µm, revestem os gumes e as faces das lâminas e são suficientemente grandes para serem observados com uma boa lupa de mão.",
+      "stipe": "Estipe com 2,5–8 cm de altura e 0,2–0,8 cm de espessura, cilíndrico, uniforme ou ligeiramente atenuado para a base, por vezes sulcado ou um pouco achatado, rijo, cartilaginoso, flexível e oco, sem anel nem volva. Creme pálido, camurça ou castanho-ocre e finamente pruinoso perto do ápice, escurece progressivamente para baixo até castanho-pinhão escuro ou castanho-anegrado na base, sendo revestido em toda a extensão por um fino brilho aveludado formado por caulocistídios fasciculados.",
+      "flesh": "Carne fina e aquosa, acastanhada a esbranquiçada suja no chapéu, mais escura, castanho-pinhão a castanho-anegrada e mais rija no estipe. Apresenta um cheiro forte e penetrante a pepino acabado de cortar, evoluindo frequentemente para arenque, óleo de peixe ou sardinhas, sobretudo em exemplares mais velhos, e persistindo nos dedos; o sabor é suave a ligeiramente a peixe ou um pouco desagradável.",
+      "sporePrint": "Esporada variável, desde castanho-rosado pálido, ocre-avermelhado ou ocre-ferrugíneo até amarelado sujo, rosado ou quase branco nas formas de esporada pálida. Os esporos medem 6,5–10 × 3–5 µm (ocasionalmente até 11 µm de comprimento), são elipsoides a estreitamente amigdaliformes ou fusiformes, lisos, de parede fina, avermelhado-pálidos ao microscópio e inamiloides.",
+      "habitat": "Saprotrófico sobre detritos lenhosos em decomposição, cobertura de aparas de madeira, manta morta de agulhas e folhosas (especialmente de faia) e solos húmidos ricos em azoto ou húmus. Frutifica isolado, disperso ou em grupos em bosques de folhosas e coníferas, trilhos sombreados, bermas de estradas, margens de ribeiros, jardins, parques e entre erva ou urtigas. Nas regiões temperadas surge sobretudo de junho ou julho a novembro ou dezembro, com frutificações ocasionais na primavera e no inverno em períodos de tempo ameno.",
+      "uses": "Não comestível e sem valor culinário, com estipe rijo, carne fina e cheiro e sabor pouco apelativos entre pepino e peixe; algumas autoridades suspeitam também que possa ser ligeiramente venenoso.",
+      "confusion": "O cheiro penetrante a pepino e peixe, o estipe escuro finamente aveludado e os enormes cistídios lanceolados tornam os corpos frutíferos frescos inconfundíveis. Flammulina velutipes também tem um estipe escuro aveludado, mas cresce em tufos diretamente sobre madeira no inverno, possui um chapéu viscoso amarelo-alaranjado vivo, não tem cheiro a pepino e produz esporada branca. Pluteus cervinus frutifica sobre madeira em decomposição, tem um chapéu maior, mais plano e radialmente fibriloso com lâminas completamente livres, e não apresenta o estipe aveludado nem o cheiro a pepino. Rhodocollybia butyracea tem um chapéu gorduroso, liso e não aveludado, e um estipe inchado e oco sem cheiro a peixe. Entoloma vernum apresenta um chapéu castanho-acinzentado sedoso-fibriloso, não tem cistídios gigantes nem cheiro a pepino, e produz esporos angulosos.",
+      "notes": "Os enormes cistídios lanceolados que revestem o chapéu, as lâminas e o estipe são responsáveis pela superfície aveludada característica e podem ser distinguidos mesmo com uma lupa forte. Outrora considerado pouco comum em parte da sua área de distribuição, este cogumelo tem sido registado com maior frequência devido ao uso generalizado de cobertura de aparas de madeira em parques e jardins. Na Europa distinguem-se tradicionalmente duas variedades de frutificação pequena: var. latifolia, com lâminas largas e esporada ocre-alaranjada, e var. leucospora, com lâminas estreitas e esporada quase branca."
+    },
+    "ro": {
+      "description": "O mică ciupercă saprotrofă cu lamele care fructifică solitar, în grupuri mici sau în colonii pe sol bogat în humus, litieră de frunze și resturi lemnoase. Larg răspândită în Europa, Marea Britanie și Irlanda, America de Nord, Africa de Nord și nordul Asiei, și semnalată de asemenea în Australia și Noua Zeelandă, este adesea trecută cu vederea în ciuda mirosului său distinctiv.",
+      "cap": "Pălărie de 1–6 cm în diametru, conică până la clopotată la exemplarele tinere, întinzându-se până la larg convexă sau aproape plană cu vârsta și păstrând adesea un gurgui central jos. Suprafața este netedă, mată și fin catifelată sau mătăsoasă datorită numeroaselor pileocistide proeminente, devenind ușor lucioasă la umezeală. Puternic higrofană, are culoare brun-roșcată intensă până la brun-castanie și brun-negricioasă în centru, trecând spre o margine net mai palidă, gălbui-ocru deschis sau albicios-ocracee, slab striată prin transparență pe timp umed, și decolorându-se în ansamblu la ocru murdar sau brun-ocraceu palid pe vreme uscată. Hidroxidul de potasiu (KOH) colorează suprafața pălăriei în măsliniu închis, apoi în cenușiu.",
+      "hymenium": "Lamele late, ventricose, dese până la îndesuite, cu numeroase lamelule, îngust adnate, emarginate sau aproape libere la bătrânețe. Albicioase până la crem sau ocru-gălbui palid în tinerețe, devin bej-rozaliu palid, roz-gălbui sau ocru-roșcat palid pe măsură ce sporii se maturează și se pot păta în brun mai închis la atingere. Bazidii cilindrice până la clavate, de 20–25 × 7–8 µm, tetrasporice (ocazional bisporice), cu catarame bazale. Cheilocistide și pleurocistide lanceolate uriașe și abundente, de 50–100 × 13–25 µm, tapetează muchiile și fețele lamelelor și sunt suficient de mari pentru a fi observate cu o lupă bună de mână.",
+      "stipe": "Picior înalt de 2,5–8 cm și gros de 0,2–0,8 cm, cilindric, egal sau ușor subțiat spre bază, uneori brăzdat sau ușor aplatizat, rigid, cartilaginos, flexibil și gol pe dinăuntru, fără inel și fără volvă. Crem palid, gălbui-ocru deschis sau brun-ocraceu și fin pruinos lângă vârf, se închide treptat spre jos până la brun-castaniu intens sau brun-negricios la bază și este acoperit pe toată lungimea de un luciu fin catifelat format de caulocistide fasciculate.",
+      "flesh": "Carne subțire și apoasă, brunie până la albicioasă murdară în pălărie, mai închisă, brun-castanie până la brun-negricioasă și mai tenace în picior. Are un miros puternic și pătrunzător de castraveți proaspăt tăiați, care virează adesea spre hering, ulei de pește sau sardine, mai ales la exemplarele bătrâne, persistând pe degete; gustul este blând până la slab de pește sau ușor neplăcut.",
+      "sporePrint": "Amprentă sporală variabilă, de la brun-rozaliu palid, ocru-roșcat sau ocru-ruginiu până la gălbui murdar, rozaliu ori aproape albă la formele cu spori palizi. Sporii măsoară 6,5–10 × 3–5 µm (ocazional până la 11 µm lungime), sunt elipsoidali până la îngust amigdaliformi sau fusiformi, netezi, cu perete subțire, roșcat-palizi la microscop și neamiloizi.",
+      "habitat": "Saprotrofă pe resturi lemnoase în descompunere, mulci din așchii de lemn, litieră de ace și de foioase (mai ales de fag) și sol umed bogat în azot sau humus. Fructifică solitar, răsfirat sau în grupuri în păduri de foioase și de conifere, pe poteci umbrite, margini de drumuri, maluri de pâraie, grădini, parcuri și printre iarbă sau urzici. În regiunile temperate apare mai ales din iunie sau iulie până în noiembrie sau decembrie, cu fructificări ocazionale primăvara și iarna pe vreme blândă.",
+      "uses": "Necomestibilă și lipsită de valoare culinară, din cauza piciorului tenace, a cărnii subțiri și a mirosului și gustului neatrăgătoare de castravete spre pește; unele surse suspectează de asemenea că ar putea fi ușor toxică.",
+      "confusion": "Mirosul pătrunzător de castravete spre pește, piciorul întunecat fin catifelat și cistidele lanceolate uriașe fac corpurile fructifere proaspete ușor de recunoscut. Flammulina velutipes are și ea un picior întunecat și catifelat, dar crește în tufe direct pe lemn iarna, are pălăria vâscoasă de culoare galben-portocalie aprinsă, nu are miros de castravete și lasă o amprentă sporală albă. Pluteus cervinus fructifică pe lemn putred, are pălăria mai mare, mai plată și radial fibriloasă, cu lamele complet libere, și nu prezintă nici piciorul catifelat, nici mirosul de castravete. Rhodocollybia butyracea are pălăria unsuroasă, netedă și necatifelată, precum și un picior umflat și gol fără miros de pește. Entoloma vernum are pălăria cenușiu-brună mătăsos-fibriloasă, este lipsită de cistide gigantice și de miros de castravete și produce spori unghiulari.",
+      "notes": "Cistidele lanceolate enorme care acoperă pălăria, lamelele și piciorul sunt responsabile pentru suprafața catifelată caracteristică și pot fi distinse chiar și cu o lupă puternică. Considerată odinioară rară în anumite părți ale arealului său, specia este consemnată tot mai frecvent odată cu utilizarea pe scară largă a mulciului din așchii de lemn în parcuri și grădini. În Europa sunt distinse în mod tradițional două varietăți cu corpuri fructifere mici: var. latifolia, cu lamele late și amprentă sporală ocru-portocalie, și var. leucospora, cu lamele înguste și amprentă sporală aproape albă."
+    },
+    "ru": {
+      "description": "Небольшой сапротрофный пластинчатый гриб, плодоносящий одиночно, небольшими группами или скоплениями на богатой гумусом почве, листовом опаде и древесных остатках. Широко распространен по всей Европе, в Великобритании и Ирландии, Северной Америке, Северной Африке и Северной Азии, а также отмечен в Австралии и Новой Зеландии; несмотря на характерный запах, его нередко упускают из виду.",
+      "cap": "Шляпка диаметром 1–6 см, у молодых грибов коническая или колокольчатая, с возрастом раскрывается до широковыпуклой или почти плоской, часто сохраняя низкий центральный бугорок. Поверхность гладкая, матовая, тонкобархатистая или шелковистая из-за многочисленных выступающих пилеоцистид, во влажную погоду слегка блестящая. Сильно гигрофанная: темно-красно-коричневая до каштаново-коричневой и черно-коричневой в центре, переходящая к заметно более бледному желтовато-буроватому или беловато-охристому краю, который во влажном состоянии слабо просвечивает и полосат, а в сухую погоду целиком выцветает до грязновато-буроватого или бледно-охристо-коричневого оттенка. Гидроксид калия (KOH) окрашивает поверхность шляпки в темно-оливковый, а затем серый цвет.",
+      "hymenium": "Пластинки широкие, вздутые, частые или очень густые, с многочисленными укороченными пластиночками, узко приросшие, выемчатые или с возрастом почти свободные. У молодых грибов от беловатых до кремовых или бледно-буроватых, по мере созревания спор становятся бледно-розовато-бежевыми, желтовато-розовыми или бледно-красновато-охристыми, при повреждении могут темнеть до более густого коричневого цвета. Базидии цилиндрические или булавовидные, 20–25 × 7–8 мкм, четырехспоровые (изредка двуспоровые), с пряжками в основании. Многочисленные огромные ланцетовидные хейлоцистиды и плевроцистиды размером 50–100 × 13–25 мкм выстилают края и боковые поверхности пластинок и достаточно крупны, чтобы их можно было рассмотреть в хорошую лупу.",
+      "stipe": "Ножка высотой 2,5–8 см и толщиной 0,2–0,8 см, цилиндрическая, ровная или слегка сужающаяся к основанию, иногда желобчатая или слегка сплюснутая, жесткая, хрящеватая, упругая и полая, без кольца и вольвы. У вершины бледно-кремовая, буроватая или охристо-коричневая и тонкоопушенная, книзу постепенно темнеет до глубокого каштаново-коричневого или черно-коричневого цвета в основании и по всей длине покрыта тонким бархатистым налетом, образованным пучковыми каулоцистидами.",
+      "flesh": "Мякоть тонкая и водянистая, в шляпке коричневатая до грязно-беловатой, в ножке более темная, от каштаново-коричневой до черно-коричневой, и более жесткая. Обладает сильным, проникающим запахом свежесрезанных огурцов, который часто переходит в запах сельди, рыбьего жира или сардин, особенно у старых плодовых тел, и долго держится на пальцах; вкус мягкий, до слабо рыбного или слегка неприятного.",
+      "sporePrint": "Споровый порошок изменчивый: от бледно-розовато-коричневого, красновато-охристого или ржаво-охристого до грязно-желтоватого, розоватого или почти белого у светлоспоровых форм. Споры 6,5–10 × 3–5 мкм (изредка до 11 мкм длиной), от эллипсоидных до узкоминдалевидных или веретеновидных, гладкие, тонкостенные, под микроскопом бледно-красноватые, инамилоидные.",
+      "habitat": "Сапротроф на разлагающихся древесных остатках, мульче из древесной щепы, хвойном и лиственном опаде (особенно буковом), а также на влажной, богатой азотом или гумусом почве. Плодоносит одиночно, рассеянно или скоплениями в лиственных и хвойных лесах, на тенистых тропах, придорожных обочинах, берегах ручьев, в садах, парках и среди травы или крапивы. В умеренных широтах появляется главным образом с июня или июля по ноябрь или декабрь, с редким плодоношением весной и зимой в мягкую погоду.",
+      "uses": "Несъедобный, не представляет кулинарной ценности из-за жесткой ножки, тонкой мякоти и неприятного огуречно-рыбного запаха и вкуса; некоторые специалисты также подозревают, что он может быть слабо ядовитым.",
+      "confusion": "Проникающий огуречно-рыбный запах, тонкобархатистая темная ножка и огромные ланцетовидные цистиды делают свежие плодовые тела хорошо узнаваемыми. У Flammulina velutipes тоже темная бархатистая ножка, однако этот вид растет пучками непосредственно на древесине зимой, имеет ярко-оранжево-желтую слизистую шляпку, лишен огуречного запаха и дает белый споровый порошок. Pluteus cervinus плодоносит на гниющей древесине, имеет более крупную, плоскую, радиально-волокнистую шляпку с полностью свободными пластинками и лишен бархатистой ножки и огуречного запаха. Rhodocollybia butyracea отличается жирной на ощупь, гладкой, небархатистой шляпкой и вздутой полой ножкой без рыбного запаха. Entoloma vernum имеет шелковисто-волокнистую серо-коричневую шляпку, лишена гигантских цистид и огуречного запаха и образует угловатые споры.",
+      "notes": "Именно гигантские ланцетовидные цистиды, покрывающие шляпку, пластинки и ножку, придают поверхности характерную бархатистость и различимы даже в сильную лупу. Вид, некогда считавшийся редким в ряде частей своего ареала, стал отмечаться чаще благодаря широкому применению древесной мульчи в парках и садах. В Европе традиционно различают две мелкоплодные разновидности: var. latifolia с широкими пластинками и оранжево-охристым споровым порошком и var. leucospora с узкими пластинками и почти белым споровым порошком."
+    },
+    "sl": {
+      "description": "Majhna saprotrofna lističasta goba, ki plodi posamično, v manjših skupinah ali v večjih trumah na humusu bogatih tleh, v opadu in na lesnih ostankih. Široko je razširjena po Evropi, Britaniji in na Irskem, v Severni Ameriki, severni Afriki ter severni Aziji, zabeležena pa je tudi v Avstraliji in na Novi Zelandiji; kljub značilnemu vonju jo pogosto spregledamo.",
+      "cap": "Klobuk meri 1–6 cm v premeru, v mladosti je stožčast do zvonast, s starostjo se razširi v široko izbočenega do skoraj ravnega in pogosto ohrani nizko osrednjo grbico. Površina je gladka, motna ter drobno žametasta ali svilnata zaradi številnih štrlečih pileocistid, vlažna pa postane rahlo sijoča. Je izrazito higrofan, v sredini temno rdečerjav do kostanjevorjav in črnkasto rjav, proti robu pa opazno svetlejši, rumenkasto okrast do belkasto okrast, v vlažnem vremenu na robu rahlo prosojno nažlebkan, v suhem pa v celoti zbledi v umazano okrasto ali bledo okrasto rjavo barvo. Kalijev hidroksid (KOH) obarva površino klobuka temno olivno, nato sivo.",
+      "hymenium": "Lističi so široki, trebušasti, srednje gosti do gosti s številnimi krajšimi lističi, ozko pripeti, izrezani ali v starosti skoraj prosti. Mladi so belkasti do smetanasti ali bledo okrasti, z dozorevanjem trosov postanejo bledo rožnatobež, rumenkasto rožnati ali bledo rdečkasto okrasti, na poškodovanih mestih pa lahko potemnijo v temneje rjavo. Bazidiji so valjasti do kijasti, 20–25 × 7–8 µm, štiritrosni (občasno dvotrosni), z bazalnimi zaponkami. Številne, ogromne suličaste heilocistide in pleurocistide, velike 50–100 × 13–25 µm, obdajajo ostrinke in ploskve lističev ter so dovolj velike, da jih lahko vidimo z dobro ročno lupo.",
+      "stipe": "Bet je visok 2,5–8 cm in debel 0,2–0,8 cm, valjast, enakomerno debel ali rahlo zožen proti dnišču, včasih žlebast ali nekoliko sploščen, tog, hrustančast, prožen in votel, brez obročka in brez nožnice. Pri vrhu je bledo smetanast, okrast ali okrasto rjav ter drobno poprhnjen, navzdol pa enakomerno temni do temno kostanjevorjave ali črnkasto rjave barve v dnišču; po vsej dolžini je prevlečen s finim žametastim leskom, ki ga tvorijo šopaste kavlocistide.",
+      "flesh": "Meso je tanko in vodenasto, v klobuku rjavkasto do umazano belkasto, v betu temnejše kostanjevorjavo do črnkasto rjavo in žilavejše. Ima močan, prodoren vonj po sveže narezanih kumarah, ki pogosto preide v vonj po slanikih, ribjem olju ali sardinah, zlasti pri starejših primerkih, in se dolgo drži na prstih; okus je blag do rahlo ribji ali nekoliko neprijeten.",
+      "sporePrint": "Trosni prah je spremenljiv, od bledo rožnatorjavega, rdečkasto okrastega ali rjasto okrastega do umazano rumenkastega, rožnatega ali skoraj belega pri svetlotrosnih oblikah. Trosi merijo 6,5–10 × 3–5 µm (občasno do 11 µm v dolžino), so elipsoidni do ozko mandljasti ali vretenasti, gladki, tankostenski, pod mikroskopom bledo rdečkasti in neamiloidni.",
+      "habitat": "Saprotrof na razpadajočih lesnih ostankih, zastirki iz lesnih sekancev, igličnem in listnatem opadu (zlasti bukovem) ter vlažnih tleh, bogatih z dušikom ali humusom. Plodi posamično, raztreseno ali v skupinah v listnatih in iglastih gozdovih, ob senčnih poteh, cestnih robovih, bregovih potokov, v vrtovih, parkih ter med travo ali koprivami. V zmernih območjih se pojavlja predvsem od junija ali julija do novembra ali decembra, ob milem vremenu pa občasno tudi spomladi in pozimi.",
+      "uses": "Neužitna in brez kulinarične vrednosti zaradi žilavega beta, tankega mesa ter neprijetnega vonja in okusa po kumarah in ribah; nekateri viri domnevajo tudi, da bi utegnila biti blago strupena.",
+      "confusion": "Prodoren vonj po kumarah in ribah, temni drobno žametasti bet ter ogromne suličaste cistide naredijo sveže trosnjake zlahka prepoznavne. Flammulina velutipes ima prav tako temen žametast bet, vendar raste pozimi v šopih neposredno na lesu, ima živo oranžnorumen sluzast klobuk, nima vonja po kumarah in daje bel trosni prah. Pluteus cervinus plodi na trohnečem lesu, ima večji, bolj plosk in radialno vlaknast klobuk s povsem prostimi lističi ter nima žametastega beta in vonja po kumarah. Rhodocollybia butyracea ima masten, gladek, nežametast klobuk ter napihnjen votel bet brez ribjega vonja. Entoloma vernum ima svilnato-vlaknast sivorjav klobuk, nima velikanskih cistid niti vonja po kumarah in tvori oglate trose.",
+      "notes": "Ogromne suličaste cistide, ki pokrivajo klobuk, lističe in bet, povzročajo značilno žametasto površino in jih je mogoče opaziti celo z močno ročno lupo. Vrsta, ki je v delu svojega območja razširjenosti nekoč veljala za redkejšo, je postala pogosteje zabeležena z razširjeno uporabo zastirke iz lesnih sekancev v parkih in vrtovih. V Evropi tradicionalno ločijo dva drobnorasla varieteta: var. latifolia s širokimi lističi in oranžnookrastim trosnim prahom ter var. leucospora z ozkimi lističi in skoraj belim trosnim prahom."
+    },
+    "sr": {
+      "description": "Мала сапротрофна листићава гљива која плодоноси појединачно, у мањим групама или у већим скупинама на земљишту богатом хумусом, на стељи и дрвним остацима. Широко је распрострањена широм Европе, Британије и Ирске, Северне Америке, северне Африке и северне Азије, а забележена је и у Аустралији и на Новом Зеланду; упркос упечатљивом мирису често остаје непримећена.",
+      "cap": "Шешир је пречника 1–6 cm, у младости купаст до звонаст, затим се шири у широко испупчен до готово раван облик и са старошћу често задржава ниско средишње испупчење. Површина је глатка, мат и фино баршунаста или свиленкаста од бројних испупчених пилеоцистида, а када је влажна постаје благо сјајна. Изразито је хигрофан, у средини тамно црвенкастосмеђе до кестењастосмеђе и црнкастосмеђе боје, прелазећи ка упадљиво светлијем жућкасто-окер или беличасто-окер рубу који је по влажном времену слабо прозирно нарецкан, док по сувом времену читав шешир избледи у прљаво окержуту или бледо окерсмеђу нијансу. Калијум-хидроксид (KOH) боји површину шешира тамномаслинасто, а потом сиво.",
+      "hymenium": "Листићи су широки, трбушасти, густи до веома густи с бројним краћим листићима, уско прирасли, усечени или у старости готово слободни. У младости су беличасти до крем или бледо окержути, а са сазревањем спора постају бледо ружичастобеж, жућкасторужичасти или бледо црвенкасто-окер и на нагњеченим местима могу потамнети у тамносмеђу боју. Базидије су цилиндричне до батинасте, 20–25 × 7–8 µm, четвороспорне (повремено двоспорне), са базалним копчама. Обилне, огромне ланцетасте хеилоцистиде и плеуроцистиде, 50–100 × 13–25 µm, облажу оштрице и бочне стране листића и довољно су крупне да се виде добром ручном лупом.",
+      "stipe": "Дршка је висока 2,5–8 cm и дебела 0,2–0,8 cm, цилиндрична, уједначене дебљине или благо сужена ка основи, понекад избраздана или благо спљоштена, чврста, хрскавичава, савитљива и шупља, без прстена и волве. При врху је бледо крем, окержута или окерсмеђа и фино брашнасто посута, према основи поступно тамни до тамно кестењастосмеђе или црнкастосмеђе боје, а читавом дужином прекривена је финим баршунастим сјајем који граде снопасте каулоцистиде.",
+      "flesh": "Месо је танко и воденасто, смеђкасто до прљаво беличасто у шеширу, а тамније кестењастосмеђе до црнкастосмеђе и жилавије у дршци. Има јак, продоран мирис на свеже исечене краставце који често прелази у мирис харинге, рибљег уља или сардина, нарочито код старијих примерака, и дуго се задржава на прстима; укус је благ до слабо рибљи или помало непријатан.",
+      "sporePrint": "Отисак спора је променљив, од бледо ружичастосмеђег, црвенкасто-окера или рђасто-окера до прљаво жућкастог, ружичастог или готово белог код облика са светлим спорама. Споре су величине 6,5–10 × 3–5 µm (повремено дуге до 11 µm), елипсоидне до уско бадемасте или вретенасте, глатке, танких зидова, под микроскопом бледо црвенкасте и неамилоидне.",
+      "habitat": "Сапротроф на трулим дрвним остацима, малчу од дрвне сечке, игличавој и листопадној стељи (посебно буковој) и влажном земљишту богатом азотом или хумусом. Плодоноси појединачно, раштркано или у скупинама у листопадним и четинарским шумама, уз сеновите стазе, ивице путева, обале потока, у баштама, парковима и међу травом или копривама. У умереним пределима јавља се углавном од јуна или јула до новембра или децембра, уз повремено плодоношење у пролеће и зими током благог времена.",
+      "uses": "Нејестива и без кулинарске вредности због жилаве дршке, танког меса и одбојног мириса и укуса на краставце и рибу; поједини аутори такође сумњају да може бити благо отровна.",
+      "confusion": "Продоран мирис на краставце и рибу, тамна фино баршунаста дршка и огромне ланцетасте цистиде чине свежа плодна тела упечатљивим. Flammulina velutipes такође има тамну баршунасту дршку, али зими расте у бусеновима непосредно на дрвету, има јарко наранџастожут лепљив шешир, нема мирис на краставце и даје бео отисак спора. Pluteus cervinus плодоноси на трулом дрвету, има већи, равнији и радијално влакнаст шешир с потпуно слободним листићима и нема баршунасту дршку ни мирис на краставце. Rhodocollybia butyracea има мастан, гладак, небаршунаст шешир и задебљану шупљу дршку без рибљег мириса. Entoloma vernum има свиленкасто-влакнаст сивосмеђи шешир, нема џиновске цистиде ни мирис на краставце и ствара угласте споре.",
+      "notes": "Огромне ланцетасте цистиде које прекривају шешир, листиће и дршку дају карактеристичну баршунасту површину и могу се уочити чак и јачом ручном лупом. Некада сматрана ређом у делу свог ареала, ова врста се данас чешће бележи услед широке примене малча од дрвне сечке у парковима и баштама. У Европи се традиционално разликују два ситноплодна варијетета: var. latifolia, са широким листићима и наранџасто-окер отиском спора, и var. leucospora, са уским листићима и готово белим отиском спора."
+    },
+    "sv": {
+      "description": "En liten, saprotrof skivling som bildar fruktkroppar enstaka, i små grupper eller i flockar på humusrik jord, förna och vedrester. Den är vida spridd i Europa, Storbritannien och Irland, Nordamerika, Nordafrika och norra Asien samt noterad i Australien och Nya Zeeland, men förbises ofta trots sin karakteristiska lukt.",
+      "cap": "1–6 cm bred, kägel- till klockformad som ung, med åldern utbredd till brett välvd eller nästan plan, ofta med en låg puckel i mitten. Ytan är slät, matt och fint sammetsluden eller silkeslen av talrika utskjutande pileocystider och blir svagt glänsande i väta. Starkt hygrofan, djupt rödbrun till kastanjebrun och svartbrun i mitten, övergående i en tydligt blekare gulaktigt sämskfärgad eller vitaktigt ockrafärgad kant som är svagt genomskinligt strimmig i fuktigt tillstånd; i torrt väder bleknar hela hatten till smutsgul eller blekt ockrabrun. Kaliumhydroxid (KOH) färgar hattytan mörkt olivgrön och därefter grå.",
+      "hymenium": "Breda, bukiga, täta till mycket tättstående skivor med talrika korta småskivor, smalt vidväxta, urnupna eller nästan fria med åldern. Vitaktiga till gräddvita eller blekt sämskfärgade som unga, senare blekt rosabeige, gulrosa eller blekt rödockra allt efter som sporerna mognar, och kan mörkna till brunt vid tryck. Basidierna är cylindriska till klubbformade, 20–25 × 7–8 µm, fyrsporiga (ibland tvåsporiga), med basala söljor. Talrika, enorma lansettformade cheilocystider och pleurocystider på 50–100 × 13–25 µm kantar skiveggarna och täcker skivsidorna och är stora nog att ses med en god lupp.",
+      "stipe": "2,5–8 cm hög och 0,2–0,8 cm tjock, cylindrisk, jämntjock eller svagt avsmalnande mot basen, ibland fårad eller lätt tillplattad, styv, broskartad, böjlig och ihålig, utan ring eller strumpa. Blekt gräddgul, sämskfärgad eller ockrabrun och fint pudrad nära toppen, mörknar jämnt nedåt till djupt kastanjebrun eller svartbrun vid basen och är helt klädd i en fin sammetslyster bildad av knippen av caulocystider.",
+      "flesh": "Tunt och vattnigt brunaktigt till smutsvitt i hatten, mörkare kastanjebrunt till svartbrunt och segare i foten. Det har en stark, genomträngande lukt av nyskuren gurka som ofta övergår i sill, fiskolja eller sardiner, särskilt hos äldre exemplar, och dröjer kvar på fingrarna; smaken är mild till svagt fiskartad eller lätt obehaglig.",
+      "sporePrint": "Variabelt, från blekt rosabrunt, rödockra eller rostocker till smutsgult, rosa eller nästan vitt hos bleksporiga former. Sporerna mäter 6,5–10 × 3–5 µm (ibland upp till 11 µm långa), är ellipsoida till smalt mandelformade eller spolformade, släta, tunnväggiga, blekt rödaktiga i mikroskop och inamyloida.",
+      "habitat": "Saprotrof på multnande vedrester, träflis, barr- och lövförna (särskilt bok) samt fuktig, kväve- eller humusrik jord. Den växer enstaka, spridd eller i flockar i löv- och barrskogar, längs skuggiga stigar, vägkanter, bäckstränder, i trädgårdar och parker samt bland gräs eller nässlor. I tempererade områden uppträder den främst från juni eller juli till november eller december, med enstaka fynd om våren och vintern under mild väderlek.",
+      "uses": "Oätlig och utan kulinariskt värde på grund av den sega foten, det tunna köttet och den oaptitliga gurk- till fiskliknande lukten och smaken; vissa källor misstänker dessutom att den kan vara svagt giftig.",
+      "confusion": "Den genomträngande gurk- till fiskliknande lukten, den fint sammetsludna mörka foten och de enorma lansettformade cystiderna gör färska fruktkroppar lätta att känna igen. Vinterskivling (Flammulina velutipes) har också en mörk sammetsluden fot, men växer tuvig direkt på ved under vintern, har en klart orangegul slemmig hatt, saknar gurklukt och ger ett vitt sporavtryck. Hjortskölding (Pluteus cervinus) växer på murknande ved, har en större, plattare, radiärt trådig hatt med helt fria skivor och saknar den sammetsludna foten och gurklukten. Rhodocollybia butyracea har en fettglänsande, slät hatt utan sammetsyta och en uppsvälld, ihålig fot utan fisklukt. Entoloma vernum har en silkestrådig gråbrun hatt, saknar jättecystider och gurklukt samt har kantiga sporer.",
+      "notes": "De enorma lansettformade cystiderna som täcker hatt, skivor och fot ger upphov till den karakteristiska sammetsytan och kan urskiljas redan med en stark lupp. Arten betraktades tidigare som ovanlig i delar av sitt utbredningsområde, men har påträffats allt oftare i takt med den utbredda användningen av träflis i parker och trädgårdar. I Europa urskiljs traditionellt två småfruktiga varieteter: var. latifolia med breda skivor och orangeockra sporavtryck samt var. leucospora med smala skivor och nästan vitt sporavtryck."
+    },
+    "tr": {
+      "description": "Humusça zengin toprak, yaprak döküntüsü ve odunsu artıklar üzerinde tek tek, küçük gruplar veya topluluklar halinde meyve veren küçük, saprofit (saprotrof) lamelli bir mantardır. Avrupa, Büyük Britanya ve İrlanda, Kuzey Amerika, Kuzey Afrika ve Kuzey Asya boyunca yaygın olup Avustralya ve Yeni Zelanda'da da kaydedilmiştir; belirgin kokusuna rağmen sıklıkla gözden kaçar.",
+      "cap": "1–6 cm çapında, gençken konik ile çan biçimli arasında olup yaşlandıkça genişçe dışbükey veya neredeyse düz bir biçim alır ve çoğu zaman merkezde alçak bir çıkıntı korur. Yüzeyi çok sayıda çıkıntılı pileosistidyum nedeniyle pürüzsüz, mat ve ince kadifemsi veya ipeksidir; ıslandığında hafifçe parlaklaşır. Güçlü biçimde higrofandır; merkezde koyu kırmızımsı kahverengiden kestane kahverengiye ve siyahımsı kahverengiye çalar, kenara doğru belirgin biçimde daha soluk sarımsı devetüyü veya beyazımsı okra rengine açılır, nemliyken kenarı belli belirsiz yarı saydam çizgilidir ve kuru havada bütünüyle donuk devetüyü veya soluk okra kahverengiye solar. Potasyum hidroksit (KOH) şapka yüzeyini koyu zeytin yeşiline, ardından griye çevirir.",
+      "hymenium": "Lameller geniş, karınlı, sık ile çok sık arasında ve çok sayıda ara lamelli olup sapa darca bağlı, çentikli veya yaşla birlikte neredeyse serbesttir. Gençken beyazımsı ile krem veya soluk devetüyü arasındadır, sporlar olgunlaştıkça soluk pembemsi bej, sarımsı pembe veya soluk kırmızımsı okra rengini alır ve zedelendiğinde daha koyu kahverengiye dönüşebilir. Bazidiyumlar silindirik ile lobut biçimli arasında, 20–25 × 7–8 µm boyutunda, dört sporlu (nadiren iki sporlu) ve tabanlarında kancalıdır. 50–100 × 13–25 µm boyutundaki bol miktardaki dev mızraksı keylosistidyum ve plörosistidyumlar lamel kenarlarını ve yan yüzlerini kaplar ve iyi bir el büyüteciyle görülebilecek kadar büyüktür.",
+      "stipe": "2,5–8 cm boyunda ve 0,2–0,8 cm kalınlığında, silindirik, eşit kalınlıkta veya tabana doğru hafifçe incelen, bazen oluklu veya hafifçe yassılaşmış, sert, kıkırdaksı, esnek ve içi boş olup halka ve volvası yoktur. Tepeye yakın kısmı soluk krem, devetüyü veya okra kahverengi ve ince unsu görünümlüdür; aşağı doğru giderek koyulaşarak tabanda koyu kestane kahverengiye veya siyahımsı kahverengiye dönüşür ve baştan başa demetli kaulosistidyumların oluşturduğu ince kadifemsi bir parlaklıkla kaplıdır.",
+      "flesh": "Etli kısım şapkada ince ve sulu kahverengimsiden kirli beyazımsıya dönük, sapta ise daha koyu kestane kahverengiden siyahımsı kahverengiye çalan ve daha sert yapıdadır. Özellikle yaşlı örneklerde sıklıkla ringa balığı, balık yağı veya sardalya kokusuna dönüşen ve parmaklarda uzun süre kalan keskin, nüfuz edici bir taze kesilmiş salatalık kokusuna sahiptir; tadı hafiften belli belirsiz balıksıya veya biraz hoş olmayan bir tada kadar değişir.",
+      "sporePrint": "Spor izi değişkendir; soluk pembemsi kahverengi, kırmızımsı okra veya paslı okradan soluk sporlu formlarda kirli sarımsı, pembemsi veya neredeyse beyaza kadar uzanır. Sporlar 6,5–10 × 3–5 µm (nadiren 11 µm uzunluğa kadar), elipsoid ile darca badem biçimli veya iğ biçimli arasında, pürüzsüz, ince çeperli, mikroskop altında soluk kırmızımsı ve inamiloiddir.",
+      "habitat": "Çürüyen odunsu artıklar, odun yongası malçı, iğne ve geniş yaprak döküntüleri (özellikle kayın) ve nemli, azot veya humusça zengin toprak üzerinde saprofit olarak yaşar. Yapraklı ve iğne yapraklı ormanlarda, gölgeli patikalarda, yol kenarlarında, dere kıyılarında, bahçelerde, parklarda ve çimen ya da ısırgan otları arasında tek tek, dağınık veya topluluklar halinde meyve verir. Ilıman bölgelerde esas olarak haziran veya temmuzdan kasım veya aralığa kadar görülür; ılıman havalarda ilkbahar ve kış aylarında da zaman zaman meyve verebilir.",
+      "uses": "Sert sapı, ince etli kısmı ve hoş olmayan salatalık ile balıksı arası kokusu ve tadı nedeniyle yenmez ve hiçbir mutfak değeri yoktur; bazı otoriteler ayrıca hafifçe zehirli olabileceğinden şüphelenmektedir.",
+      "confusion": "Nüfuz edici salatalık ile balıksı arası koku, ince kadifemsi koyu sap ve dev mızraksı sistidyumlar taze meyve gövdelerini ayırt edici kılar. Flammulina velutipes de koyu kadifemsi bir sapa sahiptir ancak kışın doğrudan odun üzerinde kümeler halinde büyür, parlak turuncu-sarı yapışkan bir şapkaya sahiptir, salatalık kokusundan yoksundur ve beyaz bir spor izi bırakır. Pluteus cervinus çürüyen odun üzerinde meyve verir, tamamen serbest lamellere sahip daha büyük, daha düz ve ışınsal lifli bir şapkası vardır ve kadifemsi sap ile salatalık kokusundan yoksundur. Rhodocollybia butyracea yağlı, pürüzsüz, kadifemsi olmayan bir şapkaya ve balık kokusu olmayan şişkin, içi boş bir sapa sahiptir. Entoloma vernum ipeksi-lifli gri-kahverengi bir şapkaya sahiptir, dev sistidyumlardan ve salatalık kokusundan yoksundur ve köşeli sporlar üretir.",
+      "notes": "Şapkayı, lamelleri ve sapı kaplayan dev mızraksı sistidyumlar karakteristik kadifemsi yüzeyden sorumludur ve güçlü bir el büyüteciyle bile seçilebilir. Bir zamanlar yayılış alanının bazı kısımlarında nadir kabul edilen bu tür, parklarda ve bahçelerde odun yongası malçının yaygınlaşmasıyla birlikte daha sık kaydedilmeye başlamıştır. Avrupa'da geleneksel olarak küçük meyveli iki varyete ayırt edilir: geniş lamelli ve turuncu-okra spor izine sahip var. latifolia ile dar lamelli ve neredeyse beyaz spor izine sahip var. leucospora."
+    },
+    "uk": {
+      "description": "Невеликий сапротрофний пластинчастий гриб, що плодоносить поодинці, невеликими групами або скупченнями на багатому на гумус ґрунті, листовому опаді та деревних рештках. Широко поширений у всій Європі, у Великій Британії та Ірландії, Північній Америці, Північній Африці та Північній Азії, а також зафіксований в Австралії та Новій Зеландії; попри виразний запах, його часто не помічають.",
+      "cap": "Шапинка діаметром 1–6 см, у молодих грибів конічна або дзвоникоподібна, з віком розпростається до широкоопуклої або майже пласкої, часто зберігаючи невисокий центральний горбок. Поверхня гладенька, матова, тонкооксамитова або шовковиста через численні виступні пілеоцистиди, у вологу погоду злегка блискуча. Сильно гігрофанна: темно-червоно-коричнева до каштаново-коричневої й чорно-коричневої в центрі, поступово переходить до помітно блідішого жовтувато-вохристого або білувато-вохристого краю, який у вологому стані слабко просвічує та смугастий, а в суху погоду вицвітає до брудно-жовтувато-бурого або блідо-вохристо-коричневого кольору. Гідроксид калію (KOH) забарвлює поверхню шапинки в темно-оливковий, а згодом сірий колір.",
+      "hymenium": "Пластинки широкі, здуті, густі або дуже густі, з численними короткими проміжними пластиночками, вузько прирослі, виїмчасті або з віком майже вільні. У молодих грибів від білуватих до кремових або блідо-палевих, у міру дозрівання спор стають блідо-рожевувато-бежевими, жовтувато-рожевими або блідо-червонувато-вохристими, при пошкодженні можуть темніти до глибшого коричневого відтінку. Базидії циліндричні або булавоподібні, 20–25 × 7–8 мкм, чотириспорові (зрідка двоспорові), з базальними пряжками. Численні величезні ланцетоподібні хейлоцистиди та плевроцистиди розміром 50–100 × 13–25 мкм вистилають краї та бічні поверхні пластинок і достатньо великі, щоб побачити їх у добру лупу.",
+      "stipe": "Ніжка заввишки 2,5–8 см і завтовшки 0,2–0,8 см, циліндрична, рівна або злегка звужена до основи, інколи жолобчаста або трохи сплюснута, жорстка, хрящувата, пружна й порожниста, без кільця та вольви. Біля верхівки блідо-кремова, блідо-бурувата або вохристо-коричнева і дрібноборошниста, донизу поступово темніє до глибокого каштаново-коричневого або чорно-коричневого кольору біля основи та по всій довжині вкрита ніжним оксамитовим полиском, утвореним пучкуватими каулоцистидами.",
+      "flesh": "М'якуш тонкий і водянистий, коричнюватий до брудно-білуватого в шапинці, темніший каштаново-коричневий до чорно-коричневого та жорсткіший у ніжці. Має сильний, пронизливий запах свіжонарізаних огірків, який часто переходить у запах оселедця, риб'ячого жиру або сардин, особливо у старих плодових тіл, і надовго залишається на пальцях; смак м'який до слабко рибного або дещо неприємного.",
+      "sporePrint": "Споровий порошок мінливий: від блідо-рожевувато-коричневого, червонувато-вохристого або іржаво-вохристого до брудно-жовтуватого, рожевуватого або майже білого у світлоспорових форм. Спори розміром 6,5–10 × 3–5 мкм (зрідка до 11 мкм завдовжки), від еліпсоїдних до вузькомигдалеподібних або веретеноподібних, гладенькі, тонкостінні, блідо-червонуваті під мікроскопом, інамілоїдні.",
+      "habitat": "Сапротроф на гнилих деревних рештках, мульчі з деревної тріски, хвойному й листяному опаді (особливо буковому) та вологому, багатому на азот або гумус ґрунті. Плодоносить поодинці, розсіяно або скупченнями в листяних і хвойних лісах, на затінених стежках, узбіччях доріг, берегах струмків, у садах, парках та серед трави або кропиви. У помірних регіонах з'являється переважно з червня або липня до листопада чи грудня, з поодиноким плодоношенням навесні та взимку за м'якої погоди.",
+      "uses": "Неїстівний гриб, що не має жодної кулінарної цінності через жорстку ніжку, тонкий м'якуш і непривабливий огірково-рибний запах та смак; деякі фахівці також підозрюють, що він може бути слабко отруйним.",
+      "confusion": "Пронизливий огірково-рибний запах, дрібнооксамитова темна ніжка та величезні ланцетоподібні цистиди роблять свіжі плодові тіла легко впізнаваними. Flammulina velutipes також має темну оксамитову ніжку, але росте зростками безпосередньо на деревині взимку, має яскраво-помаранчево-жовту слизьку шапинку, позбавлена огіркового запаху й дає білий споровий порошок. Pluteus cervinus плодоносить на гнилій деревині, має більшу, пласкішу, радіально-волокнисту шапинку з повністю вільними пластинками й не має оксамитової ніжки та огіркового запаху. Rhodocollybia butyracea має масну, гладеньку, неоксамитову шапинку та потовщену порожнисту ніжку без рибного запаху. Entoloma vernum має шовковисто-волокнисту сіро-коричневу шапинку, позбавлена гігантських цистид і огіркового запаху та утворює кутасті спори.",
+      "notes": "Величезні ланцетоподібні цистиди, що вкривають шапинку, пластинки й ніжку, зумовлюють характерну оксамитову поверхню і помітні навіть у сильну лупу. Колись цей вид вважався рідкісним у частині свого ареалу, але нині його фіксують частіше через широке використання деревної мульчі в парках і садах. У Європі традиційно розрізняють два дрібноплідних різновиди: var. latifolia з широкими пластинками та помаранчево-вохристим споровим порошком і var. leucospora з вузькими пластинками та майже білим споровим порошком."
+    },
+    "zh": {
+      "description": "這是一種小型腐生傘菌，單生、小群生或成群生長於富含腐殖質的土壤、落葉層及木質碎屑上。廣泛分布於歐洲、英國與愛爾蘭、北美洲、北非及亞洲北部，在澳洲與紐西蘭亦有紀錄；儘管氣味十分獨特，仍常被人忽略。",
+      "cap": "菌蓋寬1–6 cm，幼時呈圓錐形至鐘形，隨成熟展開為寬凸形或近乎平展，中央常保留一個低矮的臍凸。表面平滑、無光澤，因具有大量突出的蓋囊狀體而呈細緻絨毛狀或絲光感，潮濕時略具光澤。具強烈吸濕性，中央呈深紅褐色至栗褐色及黑褐色，向邊緣過渡為明顯較淡的黃淡褐色或白赭色，潮濕時邊緣隱約可見半透明條紋，乾燥天氣下整體褪為暗淡褐色或淡赭褐色。氫氧化鉀（KOH）會使菌蓋表面轉為暗橄欖色，繼而變為灰色。",
+      "hymenium": "菌褶寬大、中部膨大，密至極密並夾雜眾多短菌褶，狹附生、凹生或老時近乎離生。幼時呈白色至乳白色或淡淡褐色，隨孢子成熟轉為淡粉米色、黃粉色或淡紅赭色，受傷處可能變為較深的褐色。擔子呈圓柱形至棒狀，大小為20–25 × 7–8 µm，具四枚孢子（偶為二枚孢子），基部具鎖狀聯合。菌褶緣部與側面密布大量巨大的披針形褶緣囊狀體與褶側囊狀體，大小為50–100 × 13–25 µm，體積大到可用優質放大鏡直接觀察。",
+      "stipe": "菌柄長2.5–8 cm、粗0.2–0.8 cm，圓柱形，上下等粗或向基部略細，有時具縱溝或略微扁平，質地堅硬、軟骨質、富韌性且中空，無菌環與菌托。頂端附近呈淡乳白色、淡褐色或赭褐色並覆有細粉霜，向下逐漸加深，至基部呈深栗褐色或黑褐色，整體被覆由成束柄囊狀體所形成的細緻絨毛光澤。",
+      "flesh": "菌肉在菌蓋中薄而呈水浸狀淡褐色至污白色，在菌柄中則為較深的栗褐色至黑褐色且較堅韌。具有強烈且刺鼻的新鮮現切黃瓜氣味，尤其在老熟標本中常轉變為鯡魚、魚油或沙丁魚味，且氣味會殘留於手指上；味道溫和至微帶魚腥味或略令人不適。",
+      "sporePrint": "孢子印變化較大，由淡粉褐色、紅赭色或鏽赭色，至淡孢子類型中的污黃色、粉紅色或近乎白色不等。孢子大小為6.5–10 × 3–5 µm（偶可長達11 µm），呈橢圓形至狹杏仁形或紡錘形，平滑，薄壁，顯微鏡下呈淡紅色，非類澱粉質。",
+      "habitat": "腐生於腐朽的木質碎屑、木屑覆蓋物、針葉與闊葉（特別是山毛櫸）落葉層，以及潮濕且富含氮或腐殖質的土壤上。單生、散生或成群出現於闊葉林與針葉林、陰蔽小徑、路邊、溪岸、花園、公園以及草叢或蕁麻之間。在溫帶地區主要見於6月或7月至11月或12月，若遇溫暖天氣，春季與冬季亦偶爾出菇。",
+      "uses": "不可食且無烹飪價值，因菌柄堅韌、菌肉單薄，且帶有不討喜的黃瓜至魚腥氣味與味道；部分學者亦懷疑其可能具有輕微毒性。",
+      "confusion": "刺鼻的黃瓜至魚腥氣味、細緻絨毛狀的深色菌柄，以及巨大的披針形囊狀體，使新鮮子實體極易辨識。Flammulina velutipes同樣具有深色絨毛狀菌柄，但在冬季直接簇生於木材上，菌蓋呈鮮橙黃色且黏滑，不具黃瓜氣味，且孢子印為白色。Pluteus cervinus生於腐木上，菌蓋較大、較扁平且具放射狀纖維紋，菌褶完全離生，不具絨毛狀菌柄與黃瓜氣味。Rhodocollybia butyracea的菌蓋油滑平整而非絨毛狀，菌柄膨大中空且無魚腥味。Entoloma vernum具有絲光纖維狀的灰褐色菌蓋，缺乏巨型囊狀體與黃瓜氣味，且產生具稜角的孢子。",
+      "notes": "覆蓋於菌蓋、菌褶與菌柄上的巨大披針形囊狀體，造就了此菇特有的絨毛狀表面，甚至使用高倍放大鏡即可辨識。此物種過去在部分分布區曾被視為少見，但隨著公園與花園廣泛使用木屑覆蓋物，紀錄次數已明顯增加。歐洲傳統上區分出兩個子實體較小的變種：var. latifolia具有較寬的菌褶與橙赭色孢子印，而var. leucospora則具有較窄的菌褶與近乎白色的孢子印。"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus cucumis",
+      "author": "Pers.",
+      "rank": "species"
+    },
+    {
+      "name": "Gymnopus cucumis",
+      "author": "(Pers.) Zaw.",
+      "rank": "species"
+    },
+    {
+      "name": "Naucoria cucumis",
+      "author": "(Pers.) P. Kumm.",
+      "rank": "species"
+    },
+    {
+      "name": "Simocybe cucumis",
+      "author": "(Pers.) P. Karst.",
+      "rank": "species"
+    },
+    {
+      "name": "Galera cucumis",
+      "author": "(Pers.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Hylophila cucumis",
+      "author": "(Pers.) Quél.",
+      "rank": "species"
+    },
+    {
+      "name": "Derminus cucumis",
+      "author": "(Pers.) J. Schröt.",
+      "rank": "species"
+    },
+    {
+      "name": "Macrocystis cucumis",
+      "author": "(Pers.) R. Heim",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus nigripes",
+      "author": "Trog",
+      "rank": "species"
+    },
+    {
+      "name": "Nolanea nigripes",
+      "author": "Gillet",
+      "rank": "species"
+    },
+    {
+      "name": "Latzinaea nigripes",
+      "author": "(Gillet) Kuntze",
+      "rank": "species"
+    },
+    {
+      "name": "Hyporrhodius nigripes",
+      "author": "(Gillet) Mig.",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus pisciodorus",
+      "author": "Ces.",
+      "rank": "species"
+    },
+    {
+      "name": "Nolanea pisciodora",
+      "author": "(Ces.) Gillet",
+      "rank": "species"
+    },
+    {
+      "name": "Latzinaea pisciodora",
+      "author": "(Ces.) Kuntze",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus piceus",
+      "author": "Kalchbr.",
+      "rank": "species"
+    },
+    {
+      "name": "Nolanea picea",
+      "author": "(Kalchbr.) Gillet",
+      "rank": "species"
+    },
+    {
+      "name": "Latzinaea picea",
+      "author": "(Kalchbr.) Kuntze",
+      "rank": "species"
+    },
+    {
+      "name": "Hyporrhodius piceus",
+      "author": "(Kalchbr.) Mig.",
+      "rank": "species"
+    },
+    {
+      "name": "Entoloma piceum",
+      "author": "(Kalchbr.) Blanco-Dios",
+      "rank": "species"
+    },
+    {
+      "name": "Naucoria cucumis var. tenuis",
+      "author": "S. Petersen",
+      "rank": "variety"
+    },
+    {
+      "name": "Naucoria cucumis var. umbonata",
+      "author": "S. Petersen",
+      "rank": "variety"
+    }
+  ]
+},
+{
+  "name": "Saproamanita vittadinii",
+  "author": "(Moretti) Redhead, Vizzini, Drehmel & Contu",
+  "family": "Amanitaceae",
+  "genus": "Saproamanita",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Amanitaceae",
+    "Saproamanita"
+  ],
+  "summary": [
+    "Agaricales",
+    "Amanitaceae",
+    "Saproamanita"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "grass",
+    "ground"
+  ],
+  "color": [
+    "white"
+  ],
+  "capFrom": 7.0,
+  "capTo": 17.0,
+  "stipeHeightFrom": 8.0,
+  "stipeHeightTo": 16.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 5,
+  "fruitingTo": 10,
+  "label": {
+    "bg": "едролюспеста мухоморка",
+    "cs": "muchomůrka Vittadiniho",
+    "de": "Spindelfüßiger Wulstling",
+    "en": "barefoot amanita",
+    "es": "amanita de Vittadini",
+    "fr": "amanite de Vittadini",
+    "hu": "őzlábgalóca",
+    "nl": "Schubsteelamaniet",
+    "ru": "мухомор Виттадини",
+    "sk": "muchotrávka Vittadiniho",
+    "sr": "крљуштава повојњача",
+    "uk": "мухомор степовий",
+    "zh": "白鱗粗柄鵝膏"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Schuppenstieliger Wulstling"
+    ],
+    "en": [
+      "Vittadini's lepidella"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [
+      "ливадска мухара"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "мухомор Віттадіні"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=816367",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=816367",
+      "https://link.springer.com/article/10.5598/imafungus.2016.07.01.07",
+      "https://www.gbif.org/species/9322084",
+      "https://www.wikidata.org/wiki/Q30327546",
+      "https://en.wikipedia.org/wiki/Saproamanita_vittadinii",
+      "https://www.inaturalist.org/taxa/938922",
+      "https://myconote.com/en/mushrooms/amanita-vittadinii",
+      "https://fungusradar.com/atlas/saproamanita-vittadinii/",
+      "https://www.myko.cz/myko-atlas/Amanita-vittadinii/",
+      "https://ru.wikipedia.org/wiki/Мухомор_Виттадини",
+      "https://api.gbif.org/v1/species/7647780/vernacularNames"
+    ],
+    "ar": [],
+    "bg": [
+      "https://manatarka.org/amanita/",
+      "https://www.wikidata.org/wiki/Q922092"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Amanita-vittadinii/",
+      "https://cs.wikipedia.org/wiki/Muchom%C5%AFrka_Vittadiniho"
+    ],
+    "da": [],
+    "de": [
+      "https://api.gbif.org/v1/species/7647780/vernacularNames",
+      "https://www.inaturalist.org/taxa/938922"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/7647780/vernacularNames"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://api.gbif.org/v1/species/7647780/vernacularNames",
+      "https://fr.wikipedia.org/wiki/Amanita_vittadinii"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.gombanet.hu/ozlabgaloca-amanita-vittadinii",
+      "https://www.gombanet.hu/vedett-gombak",
+      "https://hu.wikipedia.org/wiki/%C5%90zl%C3%A1bgal%C3%B3ca"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "https://api.gbif.org/v1/species/7647780/vernacularNames"
+    ],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%92%D0%B8%D1%82%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Saproamanita-vittadinii/muchotravka-Vittadiniho/muchomurka-Vittadiniho/ID301",
+      "https://www.google.com/search?kgmid=%2Fm%2F0fqrl5n&q=Slovak+name+for+Saproamanita+vittadinii+muchotr%C3%A1vka+vittadiniho"
+    ],
+    "sl": [],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/%D0%9A%D1%80%D1%99%D1%83%D1%88%D1%82%D0%B0%D0%B2%D0%B0_%D0%BF%D0%BE%D0%B2%D0%BE%D1%98%D1%9A%D0%B0%D1%87%D0%B0",
+      "https://www.wikidata.org/wiki/Q922092",
+      "https://www.inaturalist.org/taxa/938922"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "https://api.gbif.org/v1/species/9322084/vernacularNames",
+      "https://www.inaturalist.org/taxa/938922"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q922092"
+    ]
+  },
+  "added": "2026-11-24",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Saproamanita vittadinii.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 e32f1281470a4ebfe3d6aecfe42658f806eb8c78990effd0db056e684137113b; no filename variants) is used as supplied: only a uniform Lanczos resize (2×) to 1600×2400 and 400×600, after trimming 48 px of blank paper margin from each side of the source to reach exactly 2:3. No compositing, background replacement, cutout, fill or restoration. The existing cursive “Gemini” mark at the lower right is kept exactly as found. It is AI art, not a documented historical botanical plate. The composition shows a mature fruit body with pyramidal warts and an appendiculate margin, a high skirt-like ring and a scaly lower stem in grass, a warty button, an underside view with free white gills and a torn ring, and a longitudinal section with solid white flesh and a tapering base. Anatomy mismatch: the mature stem swells to a club-shaped, rounded base rather than tapering into a spindle-shaped root, and the button's base looks swollen; the ring appears single rather than double. The plate is slightly soft because the source was enlarged 2×.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_1.webp",
+      "author": "Jonáš Gaigr",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/251526105"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_2.webp",
+      "author": "moorebuesing",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/141351031"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_3.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/407040470"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_4.webp",
+      "author": "Andrea Albani",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/189228019"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_5.webp",
+      "author": "Kristian Bosak",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/163795065"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_1.webp",
+      "author": "Jonáš Gaigr",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/251526105"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_2.webp",
+      "author": "moorebuesing",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/141351031"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_3.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/407040470"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_4.webp",
+      "author": "Andrea Albani",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/189228019"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Amanitaceae/Saproamanita_vittadinii/Saproamanita_vittadinii_5.webp",
+      "author": "Kristian Bosak",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/163795065"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر كبير أبيض بالكامل ينمو في المروج، له قبعة أشعث ثؤلولية وحلقة عريضة مزدوجة وساق مغطاة تحت الحلقة بأحزمة من حراشف مدببة منتصبة. وخلافًا للأمانيتات الحقيقية لا يكوّن جذورًا فطرية، وينمو في العشب المكشوف بعيدًا عن الأشجار، في المروج والسهوب والمراعي والحدائق والمسطحات العشبية، ولا سيما في المناطق الأدفأ من أوروبا. صلاحيته للأكل موضع خلاف، ويسهل الخلط بينه وبين الأمانيتات البيضاء القاتلة، لذا لا ينبغي أكله.",
+      "cap": "القبعة بقطر 7–17 سم، وأحيانًا حتى 20 سم؛ كروية أولًا ثم نصف كروية ومحدبة، وأخيرًا محدبة مسطحة. سطحها جاف، أبيض إلى قشدي أو عاجي، ويصبح وسطها مع التقدم في العمر مغريًا باهتًا إلى بنيًا، وتغطيه بقايا الغلاف العام: في الوسط ثآليل كثيفة مدببة هرمية الشكل تتحول نحو الحافة إلى حراشف أكثر تسطحًا متراكبة كالقرميد على هيئة رقع. تمتد الحافة إلى ما بعد الصفائح، وهي غير مخططة وتتدلى منها مِزَق من الغلاف.",
+      "hymenium": "الصفائح حرة، متقاربة، عريضة وسميكة نوعًا ما، بيضاء إلى قشدية، وأحيانًا بلون قشدي مخضر إلى أصفر مخضر باهت، وبينها صفائح قصيرة كثيرة؛ حوافها مهدبة بدقة.",
+      "stipe": "الساق بطول 8–16 سم، وأحيانًا حتى 20 سم، وبسمك 1.5–3 سم؛ متينة، أسطوانية، تضيق قليلًا نحو الأعلى، مصمتة وبيضاء. هي ملساء فوق الحلقة، ومن الحلقة حتى القاعدة مغطاة بأحزمة متحدة المركز من حراشف مدببة متجهة إلى الأعلى تصبح بنية مع العمر وعند اللمس. تقع الحلقة عاليًا مباشرة تحت القبعة؛ وهي عريضة غشائية بيضاء مزدوجة، ملساء من الأعلى وقطنية من الأسفل، وحافتها غير منتظمة ومسننة. تضيق القاعدة وتتجذر في التربة من دون بصلة؛ ولا يترك الغلاف العام سوى حراشف، ولا يوجد كيس فولفا.",
+      "flesh": "اللحم أبيض متماسك، لا يتغير عند القطع أو يصفر قليلًا نحو قاعدة الساق. الرائحة ضعيفة في البداية وقد تصبح حلوة أو كريهة مع التقدم في العمر؛ والطعم معتدل.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ إهليلجية عريضة إلى شبه كروية، ملساء ونشوانية، نحو 9–15 × 6.5–11 ميكرومتر، وغالبًا 10–13 × 7.5–10 ميكرومتر.",
+      "habitat": "رمّي التغذية، لا يكوّن جذورًا فطرية. ينمو في المروج المكشوفة على تربة غنية، غالبًا متعادلة إلى قلوية: في المروج ومنحدرات السهوب والمراعي والحدائق والمسطحات العشبية وبساتين الزيتون والحقول القديمة، وأحيانًا عند حواف الغابات. يظهر منفردًا أو في مجموعات صغيرة أو في حلقات الساحرات، ويمكن للأجسام الثمرية أن تتحمل الجفاف وتستأنف النمو بعد المطر. وهو نوع محب للدفء، مسجل من الجزر البريطانية وحوض البحر المتوسط شرقًا حتى أوكرانيا، مع سجلات أخرى من منطقة القوقاز وغرب آسيا. يثمر من مايو إلى أكتوبر، ولا سيما في أواخر الصيف وفي الخريف.",
+      "uses": "لا يُنصح بأكله. تتعارض المعلومات: فبعض المصادر الإسبانية والفرنسية والشمال أفريقية تعده صالحًا للأكل، وأخرى تصفه بأنه سام أو ربما سام قليلًا، ولم تُنسب إليه أي حالة تسمم على نحو مؤكد. وندرته وشبهه الكبير بالأمانيتات البيضاء القاتلة سببان وجيهان لتركه في مكانه.",
+      "confusion": "النوعان Amanita echinocephala وAmanita solitaria مبيضان أيضًا وعلى قبعتيهما ثآليل مدببة، لكن لهما عند قاعدة الساق بصلة منتفخة متجذرة تحيط بها أحزمة من الثآليل، وينموان مع الأشجار. أما Amanita strobiliformis فله بصلة كبيرة وبقايا غلاف طرية على هيئة رقع بيضاء رمادية على القبعة. ولـ Amanita virosa القاتل وللأشكال البيضاء من Amanita phalloides قبعة ملساء وكيس فولفا عند القاعدة. ولـ Macrolepiota procera حراشف بنية على القبعة وساق مرقطة بالبني وحلقة متحركة، أما Echinoderma asperum فأصغر حجمًا وله ثآليل بنية منتصبة وساق أنحف.",
+      "notes": "أفضل العلامات المميزة هي الجسم الثمري الأبيض بالكامل، وقاعدة الساق المتجذرة من دون بصلة أو فولفا، وأحزمة الحراشف المنتصبة تحت الحلقة المزدوجة الكبيرة، إضافة إلى نموه في العشب المكشوف بعيدًا عن الأشجار. وهو نادر في معظم نطاق انتشاره؛ وفي التشيك يُصنف مهددًا بالانقراض بشدة (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Едра, изцяло бяла гъба на тревисти места с рошава, брадавичеста шапка, широк двоен пръстен и пънче, покрито под пръстена с пояси от щръкнали, заострени люспи. За разлика от истинските мухоморки не образува микориза и расте в открита трева далеч от дървета — по ливади, степи, пасища, в паркове и тревни площи, най-вече в по-топлите части на Европа. Ядливостта ѝ е спорна и лесно се бърка със смъртоносно отровни бели мухоморки, затова не бива да се яде.",
+      "cap": "Шапката е 7–17 cm в диаметър, понякога до 20 cm; отначало кълбовидна, после полукълбовидна и изпъкнала, накрая плоско изпъкнала. Повърхността е суха, бяла до кремава или с цвят на слонова кост, с възрастта в центъра бледоохрена до кафеникава, покрита с остатъци от общото покривало: в центъра с гъсти, заострени, пирамидални брадавици, които към ръба преминават в по-плоски, керемидообразно застъпващи се, петновидни люспи. Ръбът надвисва над ламелите, не е набразден и по него висят парцалчета от покривалото.",
+      "hymenium": "Ламелите са свободни, гъсти, широки и доста дебели, бели до кремави, понякога със зеленикавокремав до бледо зеленикавожълт оттенък, с многобройни къси ламели между тях; ръбът е фино ресничест.",
+      "stipe": "Пънчето е 8–16 cm дълго, понякога до 20 cm, и 1,5–3 cm дебело; здраво, цилиндрично, леко изтънено към върха, плътно и бяло. Над пръстена е гладко, а от пръстена до основата е покрито с концентрични пояси от заострени, извити нагоре люспи, които с възрастта и при допир покафеняват. Пръстенът е разположен високо, точно под шапката; широк е, ципест, бял и двоен, отгоре гладък и отдолу памукообразен, с неправилен, назъбен ръб. Основата изтънява и навлиза в почвата като корен, без луковица; общото покривало оставя само люспи и торбовидна волва липсва.",
+      "flesh": "Месото е бяло и плътно, при разрязване не се променя или към основата на пънчето слабо пожълтява. Мирисът отначало е слаб и с възрастта може да стане сладникав или неприятен; вкусът е мек.",
+      "sporePrint": "Спорите на маса са бели. Спорите са широко елипсовидни до почти кълбовидни, гладки и амилоидни, около 9–15 × 6,5–11 µm, най-често 10–13 × 7,5–10 µm.",
+      "habitat": "Сапротрофна, не образува микориза. Расте по открити тревисти места на богата, често неутрална до алкална почва: по ливади, степни склонове, пасища, в паркове, тревни площи, маслинови горички и стари ниви, понякога и по горски окрайнини. Среща се единично, на малки групи или във вещерски кръгове, а плодните тела могат да преживеят суша и след дъжд да продължат да растат. Топлолюбив вид, известен от Британските острови и Средиземноморието на изток до Украйна, с други находища в Кавказкия регион и Западна Азия. Плододава от май до октомври, главно в края на лятото и през есента.",
+      "uses": "Не се препоръчва за консумация. Данните се разминават: някои испански, френски и северноафрикански източници я сочат като ядлива, други я описват като отровна или вероятно слабо отровна, а нито едно отравяне не е свързано сигурно с нея. Рядкостта ѝ и голямата ѝ прилика със смъртоносно отровните бели мухоморки са сериозни причини да бъде оставена на мира.",
+      "confusion": "Шипоглавата мухоморка (Amanita echinocephala) и Amanita solitaria също са белезникави със заострени брадавици по шапката, но в основата на пънчето имат издута, вкореняваща се луковица, опасана с брадавици, и растат с дървета. Amanita strobiliformis има голяма луковица и меки, петновидни сивобели остатъци от покривалото по шапката. Смъртоносната бяла леплива мухоморка (Amanita virosa) и белите форми на зелената мухоморка (Amanita phalloides) имат гладка шапка и торбовидна волва в основата. Сърнелата (Macrolepiota procera) има кафяви люспи по шапката, кафяво нашарено пънче и подвижен пръстен, а Echinoderma asperum е по-дребна, с кафяви изправени брадавици и по-тънко пънче.",
+      "notes": "Най-добрите белези са изцяло бялото плодно тяло, вкореняващата се основа на пънчето без луковица и волва и поясите от щръкнали люспи под големия двоен пръстен, заедно с растежа в открита трева далеч от дървета. В голяма част от ареала си видът е рядък; в Чехия е оценен като критично застрашен (Critically Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://manatarka.org/amanita/",
+        "https://www.wikidata.org/wiki/Q922092"
+      ],
+      "label": "едролюспеста мухоморка"
+    },
+    "cs": {
+      "description": "Velká, celá bílá houba travnatých míst se střapatým, bradavčitým kloboukem, širokým dvojitým prstenem a třeněm, který je pod prstenem pokrytý pásy odstávajících, špičatých šupin. Na rozdíl od pravých muchomůrek netvoří mykorhizu a roste v otevřené trávě daleko od stromů, na loukách, stepích, pastvinách, v parcích a na trávnících, hlavně v teplejších částech Evropy. Její jedlost je sporná a snadno se zamění se smrtelně jedovatými bílými muchomůrkami, proto se nemá jíst.",
+      "cap": "Klobouk je široký 7–17 cm, výjimečně až 20 cm; nejprve kulovitý, pak polokulovitý a sklenutý, nakonec ploše sklenutý. Povrch je suchý, bílý až krémový nebo slonovinový, ve stáří ve středu světle okrový až nahnědlý, a pokrytý zbytky plachetky: ve středu hustými, špičatými, pyramidálními bradavkami, které směrem k okraji přecházejí v plošší, střechovitě se překrývající, ploškovité šupiny. Okraj přesahuje lupeny, není rýhovaný a visí z něj cáry plachetky.",
+      "hymenium": "Lupeny jsou volné, husté, široké a dosti tlusté, bílé až krémové, někdy se zelenavě krémovým až světle zelenožlutým nádechem, s četnými lupénky; ostří je jemně třásnité.",
+      "stipe": "Třeň je 8–16 cm dlouhý, výjimečně až 20 cm, a 1,5–3 cm tlustý; statný, válcovitý, nahoře mírně zúžený, plný a bílý. Nad prstenem je hladký a od prstenu až k bázi pokrytý soustřednými pásy špičatých, odstávajících šupin, které stářím a dotykem hnědnou. Prsten sedí vysoko, těsně pod kloboukem; je široký, blanitý, bílý a dvojitý, nahoře hladký a vespod vatovitý, s nepravidelným, zubatým okrajem. Báze se zužuje a kořenovitě vniká do půdy bez hlízy; plachetka zanechává jen šupiny a pochva ve tvaru vaku chybí.",
+      "flesh": "Dužnina je bílá a pevná, na řezu se nemění nebo k bázi třeně slabě žloutne. Vůně je zpočátku slabá a ve stáří může být nasládlá až nepříjemná; chuť je mírná.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou široce elipsoidní až téměř kulovité, hladké a amyloidní, asi 9–15 × 6,5–11 µm, většinou 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofní, netvoří mykorhizu. Roste na otevřených travnatých plochách na živné, často neutrální až zásadité půdě: na loukách, stepních svazích, pastvinách, v parcích, na trávnících, v olivových hájích a na starých polích, někdy i na okrajích lesů. Vyrůstá jednotlivě, v malých skupinách nebo v čarodějných kruzích a plodnice dokážou přečkat sucho a po dešti dál růst. Je to teplomilný druh, známý od Britských ostrovů a Středomoří na východ po Ukrajinu, s dalšími nálezy z oblasti Kavkazu a západní Asie. Plodí od května do října, hlavně koncem léta a na podzim.",
+      "uses": "Ke konzumaci se nedoporučuje. Údaje se rozcházejí: některé španělské, francouzské a severoafrické zprávy ji uvádějí jako jedlou, jiné ji popisují jako jedovatou nebo pravděpodobně mírně jedovatou, a žádná otrava s ní nebyla spolehlivě spojena. Její vzácnost a velká podobnost se smrtelně jedovatými bílými muchomůrkami jsou pádnými důvody nechat ji být.",
+      "confusion": "Amanita echinocephala a Amanita solitaria jsou také bělavé se špičatými bradavkami na klobouku, ale mají na bázi třeně ztlustlou, kořenující hlízu lemovanou bradavkami a rostou se stromy. Muchomůrka šiškovitá (Amanita strobiliformis) má velkou hlízu a na klobouku měkké, ploškovité šedobílé zbytky plachetky. Smrtelně jedovatá muchomůrka jízlivá (Amanita virosa) a bílé formy muchomůrky zelené (Amanita phalloides) mají hladký klobouk a na bázi vakovitou pochvu. Bedla vysoká (Macrolepiota procera) má hnědé šupiny na klobouku, hnědě hadovitě pruhovaný třeň a posuvný prsten, a bedla ostrošupinná (Echinoderma asperum) je menší, s hnědými vztyčenými bradavkami a tenčím třeněm.",
+      "notes": "Nejlepšími poznávacími znaky jsou celá bílá plodnice, kořenující báze třeně bez hlízy a pochvy a pásy odstávajících šupin pod velkým dvojitým prstenem, spolu s růstem v otevřené trávě daleko od stromů. Ve velké části areálu je vzácná; v České republice je hodnocena jako kriticky ohrožený druh (Critically Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Amanita-vittadinii/",
+        "https://cs.wikipedia.org/wiki/Muchom%C5%AFrka_Vittadiniho"
+      ],
+      "label": "muchomůrka Vittadiniho"
+    },
+    "da": {
+      "description": "En stor, helt hvid græslandssvamp med en laset, vortet hat, en bred dobbelt ring og en stok, der under ringen er klædt med bånd af udstående, spidse skæl. I modsætning til de egentlige fluesvampe danner den ikke mykorrhiza og vokser i åbent græs langt fra træer, på enge, stepper, overdrev, i parker og på plæner, især i de varmere dele af Europa. Dens spiselighed er omstridt, og den forveksles let med dødeligt giftige hvide fluesvampe, så den bør ikke spises.",
+      "cap": "Hat 7–17 cm bred, undertiden op til 20 cm; først kugleformet, siden halvkugleformet og hvælvet, til sidst fladt hvælvet. Overfladen er tør, hvid til cremefarvet eller elfenbensfarvet, med alderen bleg okker til brunlig i midten, og dækket af rester af det fælles hylster: i midten tætte, spidse, pyramideformede vorter, der mod randen går over i fladere, taglagte, pletformede skæl. Randen rager ud over lamellerne, er ikke furet og bærer hængende hylsterrester.",
+      "hymenium": "Lameller fri, tætte, brede og temmelig tykke, hvide til cremefarvede, undertiden med en grønlig cremefarvet til bleg grønliggul tone, med mange korte lameller imellem; ægen er fint frynset.",
+      "stipe": "Stok 8–16 cm lang, undertiden op til 20 cm, og 1,5–3 cm tyk; kraftig, cylindrisk, let tilspidset opad, fyldt og hvid. Over ringen er den glat, og fra ringen ned til basis er den dækket af koncentriske bånd af spidse, opadrettede skæl, der bliver brunlige med alderen og ved berøring. Ringen sidder højt, lige under hatten; den er bred, hindeagtig, hvid og dobbelt, glat på oversiden og vatagtig på undersiden, med uregelmæssig, tandet kant. Basis tilspidses og rodfæster sig i jorden uden knold; det fælles hylster efterlader kun skæl, og der er ingen sækformet volva.",
+      "flesh": "Kød hvidt og fast, uforandret ved snit eller svagt gulnende mod stokbasis. Lugten er først svag og kan med alderen blive sødlig eller ubehagelig; smagen er mild.",
+      "sporePrint": "Sporepulver hvidt. Sporer bredt ellipsoide til næsten kugleformede, glatte og amyloide, ca. 9–15 × 6,5–11 µm, mest 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrof, danner ikke mykorrhiza. Vokser i åbent græsland på næringsrig, ofte neutral til basisk jord: på enge, stepeskrænter, overdrev, i parker, på plæner, i olivenlunde og på gamle marker, undertiden også i skovbryn. Den optræder enkeltvis, i små grupper eller i heksering, og frugtlegemerne kan overleve tørke og vokse videre efter regn. Den varmekære art er kendt fra De Britiske Øer og Middelhavsområdet østpå til Ukraine, med yderligere fund fra Kaukasus-området og Vestasien. Frugtlegemer fra maj til oktober, især i sensommeren og om efteråret.",
+      "uses": "Frarådes som spisesvamp. Oplysningerne er modstridende: nogle spanske, franske og nordafrikanske kilder kalder den spiselig, andre beskriver den som giftig eller sandsynligvis svagt giftig, og ingen forgiftning er sikkert knyttet til den. Dens sjældenhed og store lighed med de dødeligt giftige hvide fluesvampe er gode grunde til at lade den stå.",
+      "confusion": "Amanita echinocephala og Amanita solitaria er også hvidlige med spidse hattevorter, men har ved stokbasis en opsvulmet, rodfæstet knold med bælter af vorter og vokser ved træer. Amanita strobiliformis har en stor knold og bløde, pletformede gråhvide hylsterrester på hatten. Den dødeligt giftige snehvid fluesvamp (Amanita virosa) og hvide former af grøn fluesvamp (Amanita phalloides) har en glat hat og en sækformet volva ved basis. Stor parasolhat (Macrolepiota procera) har brune hatteskæl, en brunt slangetegnet stok og en bevægelig ring, og Echinoderma asperum er mindre, med brune, oprette vorter og en tyndere stok.",
+      "notes": "De bedste kendetegn er det helt hvide frugtlegeme, den rodfæstede stokbasis uden knold eller volva og båndene af udstående skæl under den store dobbelte ring, sammen med væksten i åbent græs langt fra træer. Den er sjælden i store dele af udbredelsesområdet; i Tjekkiet er den vurderet som kritisk truet (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein großer, ganz weißer Graslandpilz mit zottigem, warzigem Hut, breitem doppeltem Ring und einem Stiel, der unterhalb des Rings mit Gürteln abstehender, spitzer Schuppen besetzt ist. Anders als die echten Wulstlinge bildet er keine Mykorrhiza und wächst im offenen Gras fern von Bäumen, auf Wiesen, Steppen, Weiden, in Parks und auf Rasenflächen, vor allem in den wärmeren Teilen Europas. Sein Speisewert ist umstritten, und er wird leicht mit tödlich giftigen weißen Wulstlingen verwechselt, daher sollte er nicht gegessen werden.",
+      "cap": "Hut 7–17 cm breit, gelegentlich bis 20 cm; anfangs kugelig, dann halbkugelig und gewölbt, schließlich flach gewölbt. Die Oberfläche ist trocken, weiß bis cremefarben oder elfenbeinfarben, im Alter in der Mitte blass ocker bis bräunlich, und mit Resten der Gesamthülle bedeckt: in der Mitte dicht stehende, spitze, pyramidenförmige Warzen, die zum Rand hin in flachere, dachziegelartig überlappende, fleckenartige Schuppen übergehen. Der Rand überragt die Lamellen, ist nicht gerieft und trägt herabhängende Hüllfetzen.",
+      "hymenium": "Lamellen frei, gedrängt, breit und ziemlich dick, weiß bis cremefarben, manchmal mit grünlich cremefarbenem bis blass grünlichgelbem Ton, mit zahlreichen Zwischenlamellen; die Schneiden sind fein bewimpert.",
+      "stipe": "Stiel 8–16 cm lang, gelegentlich bis 20 cm, und 1,5–3 cm dick; kräftig, zylindrisch, zur Spitze leicht verjüngt, voll und weiß. Oberhalb des Rings ist er glatt, vom Ring bis zur Basis mit konzentrischen Gürteln spitzer, aufwärts abstehender Schuppen besetzt, die mit dem Alter und bei Berührung bräunen. Der Ring sitzt hoch, direkt unter dem Hut; er ist breit, häutig, weiß und doppelt, oben glatt und unten wattig, mit unregelmäßigem, gezähntem Rand. Die Basis verjüngt sich und wurzelt ohne Knolle im Boden; die Gesamthülle hinterlässt nur Schuppen, eine sackartige Volva fehlt.",
+      "flesh": "Fleisch weiß und fest, im Schnitt unveränderlich oder zur Stielbasis hin schwach gilbend. Der Geruch ist anfangs schwach und kann im Alter süßlich oder unangenehm werden; der Geschmack ist mild.",
+      "sporePrint": "Sporenpulver weiß. Sporen breit ellipsoid bis fast kugelig, glatt und amyloid, etwa 9–15 × 6,5–11 µm, meist 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotroph, keine Mykorrhiza. Wächst in offenem Grasland auf nährstoffreichem, oft neutralem bis basischem Boden: auf Wiesen, Steppenhängen, Weiden, in Parks, auf Rasen, in Olivenhainen und auf alten Äckern, manchmal auch an Waldrändern. Er erscheint einzeln, in kleinen Gruppen oder in Hexenringen, und die Fruchtkörper können Trockenheit überstehen und nach Regen weiterwachsen. Die wärmeliebende Art ist von den Britischen Inseln und dem Mittelmeerraum ostwärts bis in die Ukraine nachgewiesen, mit weiteren Funden aus dem Kaukasusgebiet und Westasien. Fruchtkörper von Mai bis Oktober, vor allem im Spätsommer und Herbst.",
+      "uses": "Nicht zum Verzehr empfohlen. Die Angaben widersprechen sich: Einige spanische, französische und nordafrikanische Berichte nennen ihn essbar, andere beschreiben ihn als giftig oder wahrscheinlich schwach giftig, und keine Vergiftung wurde ihm sicher zugeordnet. Seine Seltenheit und die große Ähnlichkeit mit den tödlich giftigen weißen Wulstlingen sind gute Gründe, ihn stehen zu lassen.",
+      "confusion": "Der Igel-Wulstling (Amanita echinocephala) und Amanita solitaria sind ebenfalls weißlich mit spitzen Hutwarzen, haben aber an der Stielbasis eine verdickte, wurzelnde Knolle mit Warzengürteln und wachsen bei Bäumen. Der Fransen-Wulstling (Amanita strobiliformis) hat eine große Knolle und weiche, fleckenartige grauweiße Hüllreste auf dem Hut. Der tödlich giftige Kegelhütige Knollenblätterpilz (Amanita virosa) und weiße Formen des Grünen Knollenblätterpilzes (Amanita phalloides) haben einen glatten Hut und eine sackartige Volva an der Basis. Der Gemeine Riesenschirmling (Macrolepiota procera) hat braune Hutschuppen, einen braun genatterten Stiel und einen verschiebbaren Ring, und der Spitzschuppige Stachelschirmling (Echinoderma asperum) ist kleiner, mit braunen, aufrechten Warzen und dünnerem Stiel.",
+      "notes": "Die besten Merkmale sind der ganz weiße Fruchtkörper, die wurzelnde Stielbasis ohne Knolle oder Volva und die Gürtel abstehender Schuppen unterhalb des großen doppelten Rings, zusammen mit dem Wuchs im offenen Gras fern von Bäumen. In weiten Teilen des Areals ist die Art selten; in Tschechien wird sie als vom Aussterben bedroht (Critically Endangered) eingestuft.",
+      "names": [
+        "Schuppenstieliger Wulstling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7647780/vernacularNames",
+        "https://www.inaturalist.org/taxa/938922"
+      ],
+      "label": "Spindelfüßiger Wulstling"
+    },
+    "en": {
+      "description": "A large, all-white grassland mushroom with a shaggy, warty cap, a broad double ring and a stem clad below the ring in bands of upturned, pointed scales. Unlike the true amanitas it forms no mycorrhiza and grows in open grass away from trees, in meadows, steppe, pastures, parks and lawns, mostly in the warmer parts of Europe. Its edibility is disputed and it is easily mistaken for deadly white amanitas, so it should not be eaten.",
+      "cap": "7–17 cm across, occasionally up to 20 cm; globose at first, then hemispherical and convex, finally plano-convex. The surface is dry, white to cream or ivory, ageing pale ochre to brownish at the centre, and covered with remnants of the universal veil: crowded, pointed, pyramidal warts at the centre that grade into flatter, overlapping, patch-like scales towards the edge. The margin overhangs the gills, is not grooved and carries hanging fragments of veil.",
+      "hymenium": "Gills free, crowded, broad and rather thick, white to cream, sometimes with a greenish-cream to pale greenish-yellow tinge, with many short gills between them; the edges are finely fringed.",
+      "stipe": "8–16 cm long, occasionally up to 20 cm, and 1.5–3 cm thick; sturdy, cylindrical, slightly narrower at the top, solid and white. It is smooth above the ring, and from the ring down to the base it is covered with concentric bands of pointed, upturned scales that turn brownish with age and handling. The ring sits high, just below the cap; it is broad, membranous, white and double, smooth above and cottony below, with an irregular, toothed edge. The base tapers and roots into the soil without a bulb; the universal veil leaves only scales, and there is no sac-like volva.",
+      "flesh": "White and firm, unchanging when cut or turning faintly yellowish towards the stem base. The smell is faint at first and may become sweetish or unpleasant with age; the taste is mild.",
+      "sporePrint": "White. Spores broadly ellipsoid to subglobose, smooth and amyloid, about 9–15 × 6.5–11 µm, mostly 10–13 × 7.5–10 µm.",
+      "habitat": "Saprotrophic, not mycorrhizal. It grows in open grassland on rich, often neutral to basic soil: meadows, steppe slopes, pastures, parks, lawns, olive groves and old fields, and sometimes at woodland edges. It appears singly, in small groups or in fairy rings, and the fruit bodies can survive drought and resume growth after rain. A warmth-loving species, it is recorded from the British Isles and the Mediterranean east to Ukraine, with further records from the Caucasus region and western Asia. It fruits from May to October, chiefly in late summer and autumn.",
+      "uses": "Not recommended for eating. Reports disagree: some Spanish, French and North African accounts call it edible, while others describe it as poisonous or probably mildly poisonous, and no poisoning case has been firmly linked to it. Its rarity and its close resemblance to the deadly white amanitas are strong reasons to leave it alone.",
+      "confusion": "Amanita echinocephala and Amanita solitaria are also whitish with pointed cap warts, but they have a swollen, rooting bulb at the stem base ringed with warts, and they grow with trees. Amanita strobiliformis has a large bulb and soft, patch-like greyish-white veil remnants on the cap. The deadly Amanita virosa and white forms of Amanita phalloides have a smooth cap and a sac-like volva at the base. Macrolepiota procera has brown cap scales, a brown, snakeskin-banded stem and a movable ring, and Echinoderma asperum is smaller, with brown erect warts and a thinner stem.",
+      "notes": "The all-white fruit body, the rooting stem base without a bulb or volva and the bands of upturned scales below the large double ring are the best field marks, together with growth in open grass away from trees. It is rare across much of its range; in the Czech Republic it is assessed as Critically Endangered.",
+      "names": [
+        "Vittadini's lepidella"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=816367",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=816367",
+        "https://link.springer.com/article/10.5598/imafungus.2016.07.01.07",
+        "https://www.gbif.org/species/9322084",
+        "https://www.wikidata.org/wiki/Q30327546",
+        "https://en.wikipedia.org/wiki/Saproamanita_vittadinii",
+        "https://www.inaturalist.org/taxa/938922",
+        "https://myconote.com/en/mushrooms/amanita-vittadinii",
+        "https://fungusradar.com/atlas/saproamanita-vittadinii/",
+        "https://www.myko.cz/myko-atlas/Amanita-vittadinii/",
+        "https://ru.wikipedia.org/wiki/Мухомор_Виттадини",
+        "https://api.gbif.org/v1/species/7647780/vernacularNames"
+      ],
+      "label": "barefoot amanita"
+    },
+    "es": {
+      "description": "Una seta grande y totalmente blanca de pastizales, con sombrero hirsuto y verrugoso, un anillo ancho y doble y un pie cubierto, por debajo del anillo, de bandas de escamas puntiagudas y levantadas. A diferencia de las verdaderas amanitas no forma micorrizas y crece en hierba abierta lejos de los árboles, en prados, estepas, pastos, parques y céspedes, sobre todo en las zonas más cálidas de Europa. Su comestibilidad es discutida y se confunde con facilidad con amanitas blancas mortales, por lo que no debe consumirse.",
+      "cap": "Sombrero de 7–17 cm de diámetro, a veces hasta 20 cm; primero globoso, luego hemisférico y convexo, finalmente plano-convexo. La superficie es seca, blanca a crema o marfil, con la edad ocre pálido a parduzca en el centro, y cubierta de restos del velo general: en el centro, verrugas apretadas, puntiagudas y piramidales que hacia el margen pasan a escamas más planas, imbricadas y en placas. El margen sobrepasa las láminas, no es estriado y lleva jirones colgantes de velo.",
+      "hymenium": "Láminas libres, apretadas, anchas y bastante gruesas, blancas a crema, a veces con un tono crema verdoso a amarillo verdoso pálido, con numerosas laminillas; la arista es finamente flecosa.",
+      "stipe": "Pie de 8–16 cm de largo, a veces hasta 20 cm, y 1,5–3 cm de grosor; robusto, cilíndrico, algo atenuado hacia arriba, macizo y blanco. Por encima del anillo es liso, y desde el anillo hasta la base está cubierto de bandas concéntricas de escamas puntiagudas y levantadas que se vuelven parduzcas con la edad y al tacto. El anillo está alto, justo bajo el sombrero; es ancho, membranoso, blanco y doble, liso por arriba y algodonoso por debajo, con el borde irregular y dentado. La base se adelgaza y se hunde en el suelo como una raíz, sin bulbo; el velo general solo deja escamas y no hay volva en saco.",
+      "flesh": "Carne blanca y firme, inmutable al corte o amarilleando débilmente hacia la base del pie. El olor es débil al principio y con la edad puede volverse dulzón o desagradable; el sabor es suave.",
+      "sporePrint": "Esporada blanca. Esporas anchamente elipsoidales a subglobosas, lisas y amiloides, de unas 9–15 × 6,5–11 µm, sobre todo 10–13 × 7,5–10 µm.",
+      "habitat": "Saprótrofa, no micorrícica. Crece en pastizales abiertos sobre suelo rico, a menudo neutro a básico: prados, laderas esteparias, pastos, parques, céspedes, olivares y campos viejos, a veces también en bordes de bosque. Aparece aislada, en grupos pequeños o en corros de brujas, y los cuerpos fructíferos pueden sobrevivir a la sequía y reanudar su crecimiento tras la lluvia. Es una especie termófila, citada desde las islas británicas y el Mediterráneo hasta Ucrania por el este, con otras citas de la región del Cáucaso y de Asia occidental. Fructifica de mayo a octubre, sobre todo a finales del verano y en otoño.",
+      "uses": "No se recomienda su consumo. Los datos no coinciden: algunas fuentes españolas, francesas y norteafricanas la consideran comestible, otras la describen como tóxica o probablemente algo tóxica, y ninguna intoxicación se le ha atribuido con seguridad. Su rareza y su gran parecido con las amanitas blancas mortales son buenas razones para dejarla en su sitio.",
+      "confusion": "Amanita echinocephala y Amanita solitaria también son blanquecinas con verrugas puntiagudas en el sombrero, pero tienen en la base del pie un bulbo engrosado y radicante rodeado de verrugas, y crecen con árboles. Amanita strobiliformis tiene un bulbo grande y restos de velo blandos, en placas de color blanco grisáceo, sobre el sombrero. La mortal Amanita virosa y las formas blancas de la oronja verde (Amanita phalloides) tienen el sombrero liso y una volva en saco en la base. La galamperna (Macrolepiota procera) tiene escamas pardas en el sombrero, un pie atigrado de pardo y un anillo móvil, y Echinoderma asperum es más pequeña, con verrugas pardas erguidas y un pie más delgado.",
+      "notes": "Los mejores caracteres son el cuerpo fructífero totalmente blanco, la base del pie radicante sin bulbo ni volva y las bandas de escamas levantadas bajo el gran anillo doble, junto con su crecimiento en hierba abierta lejos de los árboles. Es rara en gran parte de su área; en la República Checa está evaluada como en peligro crítico (Critically Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7647780/vernacularNames"
+      ],
+      "label": "amanita de Vittadini"
+    },
+    "et": {
+      "description": "Suur, täiesti valge rohumaade seen, millel on narmendav, tüükaline kübar, lai kahekordne rõngas ja jalg, mida rõnga all katavad väljaulatuvate, teravate soomuste vööd. Erinevalt tõelistest kärbseseentest ei moodusta see mükoriisat ning kasvab lagedas rohus puudest eemal, niitudel, steppides, karjamaadel, parkides ja murul, peamiselt Euroopa soojemates osades. Selle söödavus on vaieldav ja seda on kerge segi ajada surmavalt mürgiste valgete kärbseseentega, seega ei tohi seda süüa.",
+      "cap": "Kübar 7–17 cm lai, mõnikord kuni 20 cm; alguses kerajas, siis poolkerajas ja kumer, lõpuks lamekumer. Pind on kuiv, valge kuni kreemjas või elevandiluuvärvi, vanemas eas keskelt kahvatu ookerjas kuni pruunikas, ning kaetud üldkatte jäänustega: keskel tihedad, teravad, püramiidjad tüükad, mis serva poole lähevad üle lamedamateks, katusekivijalt kattuvateks, laigulisteks soomusteks. Serv ulatub üle eoslehtede, ei ole vagune ja sellel ripuvad katteräbalad.",
+      "hymenium": "Eoslehed vabad, tihedad, laiad ja üsna paksud, valged kuni kreemjad, mõnikord rohekalt kreemja kuni kahvatu rohekaskollase varjundiga, nende vahel palju lühikesi eoslehti; servad peenelt narmalised.",
+      "stipe": "Jalg 8–16 cm pikk, mõnikord kuni 20 cm, ja 1,5–3 cm jäme; tugev, silinderjas, ülaosas veidi ahenev, täidisega ja valge. Rõngast kõrgemal on see sile, rõngast kuni aluseni aga kaetud kontsentriliste vöödega teravatest, ülespoole suunatud soomustest, mis vanusega ja puudutamisel pruunistuvad. Rõngas asub kõrgel, vahetult kübara all; see on lai, kilejas, valge ja kahekordne, pealt sile ja alt vatjas, ebakorrapärase hambulise servaga. Alus aheneb ja juurdub mulda ilma mugulata; üldkattest jäävad vaid soomused ning kotjas tupp puudub.",
+      "flesh": "Viljaliha valge ja tihke, lõikamisel muutumatu või jala aluse poole nõrgalt kolletuv. Lõhn on alguses nõrk ning võib vanemas eas muutuda magusakaks või ebameeldivaks; maitse on mahe.",
+      "sporePrint": "Eoslaik valge. Eosed laialt ellipsoidsed kuni peaaegu kerajad, siledad ja amüloidsed, umbes 9–15 × 6,5–11 µm, enamasti 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotroofne, ei moodusta mükoriisat. Kasvab lagedatel rohumaadel toitainerikkal, sageli neutraalsel kuni aluselisel pinnasel: niitudel, stepinõlvadel, karjamaadel, parkides, murul, oliivisaludes ja vanadel põldudel, mõnikord ka metsaservades. Kasvab üksikult, väikeste rühmadena või nõiaringidena ning viljakehad võivad põua üle elada ja pärast vihma edasi kasvada. Soojalembene liik on teada Briti saartelt ja Vahemere piirkonnast ida poole kuni Ukrainani, lisaks leide Kaukaasia piirkonnast ja Lääne-Aasiast. Viljakehad maist oktoobrini, peamiselt hilissuvel ja sügisel.",
+      "uses": "Söömiseks ei soovitata. Andmed on vastukäivad: mõned Hispaania, Prantsuse ja Põhja-Aafrika allikad peavad seda söödavaks, teised kirjeldavad seda mürgisena või tõenäoliselt kergelt mürgisena, ning ühtegi mürgistust pole sellega kindlalt seostatud. Selle haruldus ja suur sarnasus surmavalt mürgiste valgete kärbseseentega on head põhjused see rahule jätta.",
+      "confusion": "Amanita echinocephala ja Amanita solitaria on samuti valkjad teravate kübaratüügastega, kuid neil on jala alusel paisunud, juurduv mugul tüükavöödega ning nad kasvavad puude juures. Amanita strobiliformis on suure mugulaga ja kübaral on pehmed, laigulised hallikasvalged katte jäänused. Surmavalt mürgisel valgel kärbseseenel (Amanita virosa) ja rohelise kärbseseene (Amanita phalloides) valgetel vormidel on sile kübar ja alusel kotjas tupp. Suurel sirmikul (Macrolepiota procera) on pruunid kübarasoomused, pruunilt maokirjaline jalg ja liikuv rõngas, ning Echinoderma asperum on väiksem, pruunide püstiste tüügaste ja peenema jalaga.",
+      "notes": "Parimad tunnused on täiesti valge viljakeha, ilma mugula ja tupeta juurduv jala alus ning väljaulatuvate soomuste vööd suure kahekordse rõnga all, lisaks kasv lagedas rohus puudest eemal. Suures osas levilast on liik haruldane; Tšehhis on see hinnatud äärmiselt ohustatuks (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچی بزرگ و یکسره سفید در علفزارها، با کلاهکی ژولیده و زگیل‌دار، حلقه‌ای پهن و دولایه و پایه‌ای که زیر حلقه با کمربندهایی از فلس‌های نوک‌تیز و برگشته پوشیده است. برخلاف آمانیتاهای حقیقی، میکوریز تشکیل نمی‌دهد و در علف باز و دور از درختان می‌روید؛ در چمنزارها، استپ‌ها، چراگاه‌ها، پارک‌ها و چمن‌ها، بیشتر در بخش‌های گرم‌تر اروپا. خوراکی بودن آن محل اختلاف است و به‌آسانی با آمانیتاهای سفید کشنده اشتباه گرفته می‌شود، پس نباید آن را خورد.",
+      "cap": "کلاهک ۷–۱۷ سانتی‌متر، گاهی تا ۲۰ سانتی‌متر؛ ابتدا کروی، سپس نیم‌کروی و محدب و سرانجام محدبِ تخت. سطح آن خشک، سفید تا کرم یا عاجی است و با افزایش سن در مرکز به اُخرایی کم‌رنگ تا قهوه‌ای‌فام می‌گراید، و با بقایای پوشش عمومی پوشیده است: در مرکز زگیل‌های انبوه، نوک‌تیز و هرمی که به‌سوی لبه به فلس‌های تخت‌تر، سفال‌گونه روی‌هم‌افتاده و لکه‌مانند تبدیل می‌شوند. لبه از تیغه‌ها جلوتر می‌آید، شیاردار نیست و تکه‌هایی آویزان از پوشش بر آن دیده می‌شود.",
+      "hymenium": "تیغه‌ها آزاد، فشرده، پهن و نسبتاً ضخیم، سفید تا کرم، گاهی با ته‌رنگ کرمِ مایل به سبز تا زردِ مایل به سبزِ کم‌رنگ، با تیغه‌های کوتاه فراوان در میانشان؛ لبهٔ تیغه‌ها ریز ریشه‌دار است.",
+      "stipe": "پایه به طول ۸–۱۶ سانتی‌متر، گاهی تا ۲۰ سانتی‌متر، و ضخامت ۱٫۵–۳ سانتی‌متر؛ تنومند، استوانه‌ای، کمی باریک‌شونده به‌سوی بالا، توپر و سفید. بالای حلقه صاف است و از حلقه تا قاعده با کمربندهای هم‌مرکز از فلس‌های نوک‌تیز و رو به بالا پوشیده است که با افزایش سن و در اثر لمس قهوه‌ای می‌شوند. حلقه بالا و درست زیر کلاهک قرار دارد؛ پهن، غشایی، سفید و دولایه است، رویش صاف و زیرش پنبه‌ای، با لبه‌ای نامنظم و دندانه‌دار. قاعده باریک می‌شود و بدون پیاز در خاک ریشه می‌دواند؛ پوشش عمومی تنها فلس به جا می‌گذارد و ولوای کیسه‌مانند وجود ندارد.",
+      "flesh": "گوشت سفید و سفت است، در برش تغییر نمی‌کند یا به‌سوی قاعدهٔ پایه کمی زرد می‌شود. بو در آغاز ضعیف است و با افزایش سن ممکن است شیرین‌مزه یا ناخوشایند شود؛ مزه ملایم است.",
+      "sporePrint": "اثر هاگ سفید است. هاگ‌ها بیضوی پهن تا تقریباً کروی، صاف و آمیلوئید، حدود ۹–۱۵ × ۶٫۵–۱۱ میکرومتر، بیشتر ۱۰–۱۳ × ۷٫۵–۱۰ میکرومتر.",
+      "habitat": "گندرو است و میکوریز تشکیل نمی‌دهد. در علفزارهای باز بر خاک غنی، اغلب خنثی تا قلیایی، می‌روید: در چمنزارها، دامنه‌های استپی، چراگاه‌ها، پارک‌ها، چمن‌ها، باغ‌های زیتون و کشتزارهای کهنه، و گاهی در حاشیهٔ جنگل. به‌صورت تکی، در گروه‌های کوچک یا در حلقه‌های جادوگر ظاهر می‌شود و اندام‌های بارده می‌توانند خشکی را تاب آورند و پس از باران به رشد ادامه دهند. گونه‌ای گرمادوست است که از جزایر بریتانیا و حوزهٔ مدیترانه تا اوکراین در شرق ثبت شده و گزارش‌های دیگری نیز از منطقهٔ قفقاز و غرب آسیا دارد. از اردیبهشت تا مهر، یعنی از ماه مه تا اکتبر، بیشتر در اواخر تابستان و پاییز، بار می‌دهد.",
+      "uses": "خوردن آن توصیه نمی‌شود. گزارش‌ها با هم ناسازگارند: برخی منابع اسپانیایی، فرانسوی و شمال آفریقایی آن را خوراکی می‌دانند، برخی دیگر آن را سمی یا احتمالاً اندکی سمی توصیف می‌کنند، و هیچ مسمومیتی به‌طور قطعی به آن نسبت داده نشده است. کمیابی آن و شباهت زیادش به آمانیتاهای سفید کشنده دلایل محکمی برای دست نزدن به آن است.",
+      "confusion": "Amanita echinocephala و Amanita solitaria نیز سفیدفام و دارای زگیل‌های نوک‌تیز روی کلاهک‌اند، اما در قاعدهٔ پایه پیازی متورم و ریشه‌دار با کمربندهایی از زگیل دارند و همراه درختان می‌رویند. Amanita strobiliformis پیازی بزرگ و بقایای نرم و لکه‌مانند خاکستری‌سفید پوشش روی کلاهک دارد. Amanita virosa کشنده و شکل‌های سفید Amanita phalloides کلاهکی صاف و ولوای کیسه‌مانند در قاعده دارند. Macrolepiota procera فلس‌های قهوه‌ای روی کلاهک، پایه‌ای با نقش قهوه‌ای و حلقه‌ای متحرک دارد، و Echinoderma asperum کوچک‌تر است، با زگیل‌های قهوه‌ای راست‌ایستاده و پایه‌ای باریک‌تر.",
+      "notes": "بهترین نشانه‌های شناسایی اندام بارده یکسره سفید، قاعدهٔ ریشه‌دار پایه بدون پیاز یا ولوا و کمربندهای فلس‌های برگشته زیر حلقهٔ بزرگ دولایه است، همراه با رویش در علف باز و دور از درختان. این گونه در بیشتر گسترهٔ پراکنش خود کمیاب است؛ در جمهوری چک در وضعیت در خطر انقراض شدید (Critically Endangered) ارزیابی شده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, kokonaan valkoinen niittyjen sieni, jolla on takkuinen, nystyinen lakki, leveä kaksinkertainen rengas ja jalka, jota renkaan alapuolella peittävät harottavien, suippojen suomujen vyöt. Toisin kuin varsinaiset kärpässienet se ei muodosta sienijuurta, vaan kasvaa avoimessa nurmessa kaukana puista, niityillä, aroilla, laitumilla, puistoissa ja nurmikoilla, enimmäkseen Euroopan lämpimimmissä osissa. Sen syötävyys on kiistanalainen, ja se sekoitetaan helposti tappavan myrkyllisiin valkoisiin kärpässieniin, joten sitä ei pidä syödä.",
+      "cap": "Lakki 7–17 cm leveä, joskus jopa 20 cm; aluksi pallomainen, sitten puolipallomainen ja kupera, lopulta laakean kupera. Pinta on kuiva, valkoinen, kermanvärinen tai norsunluunvärinen, vanhana keskeltä vaalean okra tai ruskehtava, ja sitä peittävät yleisverhon jäänteet: keskellä tiheät, suipot, pyramidimaiset nystyt, jotka reunaa kohti muuttuvat laakeammiksi, kattotiilimäisesti limittäisiksi, laikkumaisiksi suomuiksi. Reuna ulottuu heltojen yli, ei ole uurteinen ja siinä roikkuu verhon riekaleita.",
+      "hymenium": "Heltat vapaat, tiheät, leveät ja melko paksut, valkoiset tai kermanväriset, joskus vihertävän kermanväriset tai vaalean vihertävänkeltaiset, ja niiden välissä on paljon lyhyitä heltoja; terät ovat hienosti ripsiset.",
+      "stipe": "Jalka 8–16 cm pitkä, joskus jopa 20 cm, ja 1,5–3 cm paksu; tukeva, lieriömäinen, ylöspäin hieman kapeneva, täyteinen ja valkoinen. Renkaan yläpuolella se on sileä, ja renkaasta tyveen asti sitä peittävät samankeskiset vyöt suippoja, ylöspäin harottavia suomuja, jotka ruskettuvat vanhetessa ja kosketuksesta. Rengas on korkealla, heti lakin alla; se on leveä, kalvomainen, valkoinen ja kaksinkertainen, yläpinnalta sileä ja alapinnalta vanumainen, reunaltaan epäsäännöllinen ja hammaslaitainen. Tyvi kapenee ja juurtuu maahan ilman mukulaa; yleisverhosta jää vain suomuja, eikä pussimaista tuppea ole.",
+      "flesh": "Malto valkoinen ja kiinteä, leikattaessa muuttumaton tai jalan tyveä kohti heikosti kellastuva. Haju on aluksi heikko ja voi vanhana muuttua imeläksi tai epämiellyttäväksi; maku on mieto.",
+      "sporePrint": "Itiöpöly valkoinen. Itiöt leveän ellipsoidisia tai lähes pallomaisia, sileitä ja amyloideja, noin 9–15 × 6,5–11 µm, useimmiten 10–13 × 7,5–10 µm.",
+      "habitat": "Lahottaja, ei muodosta sienijuurta. Kasvaa avoimilla nurmialueilla ravinteikkaalla, usein neutraalilla tai emäksisellä maalla: niityillä, arorinteillä, laitumilla, puistoissa, nurmikoilla, oliivitarhoissa ja vanhoilla pelloilla, joskus myös metsänreunoissa. Se kasvaa yksittäin, pieninä ryhminä tai noidankehinä, ja itiöemät voivat selviytyä kuivuudesta ja jatkaa kasvuaan sateen jälkeen. Lämpöä suosiva laji tunnetaan Brittein saarilta ja Välimeren alueelta itään Ukrainaan, ja lisäksi sitä on löydetty Kaukasuksen alueelta ja Länsi-Aasiasta. Itiöemiä toukokuusta lokakuuhun, pääasiassa loppukesällä ja syksyllä.",
+      "uses": "Ei suositella syötäväksi. Tiedot ovat ristiriitaisia: jotkin espanjalaiset, ranskalaiset ja pohjoisafrikkalaiset lähteet pitävät sitä syötävänä, toiset kuvaavat sen myrkylliseksi tai todennäköisesti lievästi myrkylliseksi, eikä yhtään myrkytystä ole varmasti yhdistetty siihen. Sen harvinaisuus ja suuri samankaltaisuus tappavan myrkyllisten valkoisten kärpässienten kanssa ovat hyviä syitä jättää se rauhaan.",
+      "confusion": "Amanita echinocephala ja Amanita solitaria ovat myös valkeahkoja ja niiden lakissa on suippoja nystyjä, mutta niiden jalan tyvessä on paksuuntunut, juurtuva mukula nystyvöineen, ja ne kasvavat puiden seurassa. Amanita strobiliformis -lajilla on suuri mukula ja lakissa pehmeitä, laikkumaisia harmaanvalkoisia verhon jäänteitä. Tappavan myrkyllisellä valkokärpässienellä (Amanita virosa) ja kavalakärpässienen (Amanita phalloides) valkoisilla muodoilla on sileä lakki ja tyvessä pussimainen tuppi. Isoukonsienellä (Macrolepiota procera) on ruskeat lakkisuomut, ruskeakuvioinen jalka ja liikkuva rengas, ja Echinoderma asperum on pienempi, ja sillä on ruskeat pystyt nystyt ja ohuempi jalka.",
+      "notes": "Parhaat tuntomerkit ovat kokonaan valkoinen itiöemä, juurtuva jalan tyvi ilman mukulaa tai tuppea ja harottavien suomujen vyöt suuren kaksinkertaisen renkaan alla sekä kasvu avoimessa nurmessa kaukana puista. Laji on harvinainen suuressa osassa levinneisyysaluettaan; Tšekissä se on arvioitu äärimmäisen uhanalaiseksi (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un grand champignon des prairies, entièrement blanc, au chapeau hirsute et verruqueux, à large anneau double et au pied couvert, sous l’anneau, de bandes d’écailles pointues et retroussées. Contrairement aux vraies amanites, il ne forme pas de mycorhizes et pousse dans l’herbe à découvert, loin des arbres, dans les prés, les steppes, les pâturages, les parcs et les pelouses, surtout dans les régions les plus chaudes d’Europe. Sa comestibilité est discutée et on le confond facilement avec des amanites blanches mortelles ; il ne faut donc pas le consommer.",
+      "cap": "Chapeau de 7–17 cm de diamètre, parfois jusqu’à 20 cm ; d’abord globuleux, puis hémisphérique et convexe, enfin plan-convexe. La surface est sèche, blanche à crème ou ivoire, se teintant avec l’âge d’ocre pâle à brunâtre au centre, et couverte de restes du voile général : au centre, des verrues serrées, pointues et pyramidales, qui passent vers la marge à des écailles plus plates, imbriquées et en plaques. La marge déborde les lames, n’est pas striée et porte des lambeaux de voile pendants.",
+      "hymenium": "Lames libres, serrées, larges et assez épaisses, blanches à crème, parfois teintées de crème verdâtre à jaune verdâtre pâle, avec de nombreuses lamellules ; l’arête est finement floconneuse.",
+      "stipe": "Pied de 8–16 cm de long, parfois jusqu’à 20 cm, et de 1,5–3 cm d’épaisseur ; robuste, cylindrique, légèrement atténué vers le haut, plein et blanc. Il est lisse au-dessus de l’anneau et, de l’anneau jusqu’à la base, couvert de bandes concentriques d’écailles pointues et retroussées qui brunissent avec l’âge et au toucher. L’anneau est placé haut, juste sous le chapeau ; il est large, membraneux, blanc et double, lisse dessus et cotonneux dessous, à bord irrégulier et denté. La base s’amincit et s’enracine dans le sol sans bulbe ; le voile général ne laisse que des écailles et il n’y a pas de volve en sac.",
+      "flesh": "Chair blanche et ferme, immuable à la coupe ou jaunissant faiblement vers la base du pied. L’odeur est d’abord faible et peut devenir douceâtre ou désagréable avec l’âge ; la saveur est douce.",
+      "sporePrint": "Sporée blanche. Spores largement ellipsoïdes à subglobuleuses, lisses et amyloïdes, d’environ 9–15 × 6,5–11 µm, le plus souvent 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrophe, sans mycorhizes. Il pousse dans les prairies ouvertes sur sol riche, souvent neutre à basique : prés, pentes steppiques, pâturages, parcs, pelouses, oliveraies et vieux champs, parfois aussi en lisière de bois. Il apparaît isolé, en petits groupes ou en ronds de sorcières, et les carpophores peuvent survivre à la sécheresse et reprendre leur croissance après la pluie. Espèce thermophile, il est connu des îles Britanniques et du bassin méditerranéen jusqu’à l’Ukraine à l’est, avec d’autres mentions dans la région du Caucase et en Asie occidentale. Il fructifie de mai à octobre, surtout en fin d’été et en automne.",
+      "uses": "Consommation déconseillée. Les avis divergent : certains récits espagnols, français et nord-africains le disent comestible, d’autres le décrivent comme toxique ou probablement légèrement toxique, et aucune intoxication ne lui a été attribuée avec certitude. Sa rareté et sa grande ressemblance avec les amanites blanches mortelles sont de bonnes raisons de le laisser en place.",
+      "confusion": "Amanita echinocephala et Amanita solitaria sont aussi blanchâtres avec des verrues pointues sur le chapeau, mais elles ont à la base du pied un bulbe renflé et radicant cerclé de verrues, et elles poussent avec des arbres. Amanita strobiliformis a un gros bulbe et des restes de voile mous, en plaques gris blanchâtre, sur le chapeau. L’amanite vireuse (Amanita virosa), mortelle, et les formes blanches de l’amanite phalloïde (Amanita phalloides) ont un chapeau lisse et une volve en sac à la base. La lépiote élevée (Macrolepiota procera) a des écailles brunes sur le chapeau, un pied chiné de brun et un anneau coulissant, et Echinoderma asperum est plus petite, avec des verrues brunes dressées et un pied plus mince.",
+      "notes": "Les meilleurs caractères sont le carpophore entièrement blanc, la base du pied radicante sans bulbe ni volve et les bandes d’écailles retroussées sous le grand anneau double, ainsi que la croissance dans l’herbe à découvert, loin des arbres. L’espèce est rare dans une grande partie de son aire ; en République tchèque, elle est évaluée comme en danger critique (Critically Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7647780/vernacularNames",
+        "https://fr.wikipedia.org/wiki/Amanita_vittadinii"
+      ],
+      "label": "amanite de Vittadini"
+    },
+    "he": {
+      "description": "פטרייה גדולה, לבנה כולה, של שטחי עשב, בעלת מצנפת פרועה ויבלתית, טבעת רחבה וכפולה ורגל המכוסה מתחת לטבעת בחגורות של קשקשים מחודדים וזקורים. בניגוד לאמניתות האמיתיות היא אינה יוצרת מיקוריזה וגדלה בעשב פתוח הרחק מעצים — באחו, בערבות, במרעה, בפארקים ובמדשאות, בעיקר באזורים החמים יותר של אירופה. מאכליותה שנויה במחלוקת והיא מתחלפת בקלות באמניתות לבנות קטלניות, ולכן אין לאכול אותה.",
+      "cap": "המצנפת בקוטר 7–17 ס״מ, לעיתים עד 20 ס״מ; תחילה כדורית, אחר כך חצי־כדורית וקמורה, ולבסוף קמורה־שטוחה. פני השטח יבשים, לבנים עד שמנתיים או בצבע שנהב, ועם הגיל המרכז הופך לאוכרה חיוורת עד חומחם; הם מכוסים שרידי המעטה הכללי: במרכז יבלות צפופות, מחודדות ופירמידליות, שלעבר השוליים עוברות לקשקשים שטוחים יותר, חופפים כרעפים ודמויי כתמים. השוליים בולטים מעבר לזימים, אינם מחורצים ותלויים בהם קרעי מעטה.",
+      "hymenium": "הזימים חופשיים, צפופים, רחבים ועבים למדי, לבנים עד שמנתיים, לעיתים בגוון שמנת־ירקרק עד צהוב־ירקרק חיוור, וביניהם זימים קצרים רבים; שפותיהם מצויצות דק.",
+      "stipe": "הרגל באורך 8–16 ס״מ, לעיתים עד 20 ס״מ, ובעובי 1.5–3 ס״מ; חסונה, גלילית, מצטמצמת מעט כלפי מעלה, מלאה ולבנה. מעל הטבעת היא חלקה, ומהטבעת עד הבסיס מכוסה חגורות קונצנטריות של קשקשים מחודדים הפונים כלפי מעלה, המשחימים עם הגיל ובמגע. הטבעת ממוקמת גבוה, ממש מתחת למצנפת; היא רחבה, קרומית, לבנה וכפולה, חלקה מלמעלה וצמרית מלמטה, ושפתה לא סדירה ומשוננת. הבסיס מצטמצם ומשתרש באדמה ללא פקעת; המעטה הכללי משאיר רק קשקשים, ואין נרתיק דמוי שק.",
+      "flesh": "הבשר לבן ומוצק, אינו משתנה בחיתוך או מצהיב קלות לעבר בסיס הרגל. הריח חלש בתחילה ועם הגיל עשוי להפוך למתקתק או לא נעים; הטעם עדין.",
+      "sporePrint": "אבקת הנבגים לבנה. הנבגים אליפסואידיים רחבים עד כמעט כדוריים, חלקים ועמילואידיים, כ־9–15 × 6.5–11 מיקרומטר, לרוב 10–13 × 7.5–10 מיקרומטר.",
+      "habitat": "ספרוטרופית, אינה יוצרת מיקוריזה. גדלה בשטחי עשב פתוחים על קרקע עשירה, לרוב ניטרלית עד בסיסית: באחו, במדרונות ערבתיים, במרעה, בפארקים, במדשאות, במטעי זיתים ובשדות ישנים, ולעיתים גם בשולי יער. היא מופיעה בודדת, בקבוצות קטנות או במעגלי מכשפות, וגופי הפרי מסוגלים לשרוד בצורת ולהמשיך לגדול אחרי גשם. זהו מין אוהב חום, הידוע מהאיים הבריטיים ומאגן הים התיכון מזרחה עד אוקראינה, עם תיעודים נוספים מאזור הקווקז וממערב אסיה. היא פורה ממאי עד אוקטובר, בעיקר בסוף הקיץ ובסתיו.",
+      "uses": "אכילתה אינה מומלצת. הדיווחים סותרים: חלק מהמקורות הספרדיים, הצרפתיים והצפון־אפריקניים מתארים אותה כאכילה, אחרים כרעילה או כנראה רעילה במידה קלה, ואף הרעלה לא נקשרה אליה בוודאות. נדירותה ודמיונה הרב לאמניתות הלבנות הקטלניות הם סיבות טובות להשאיר אותה במקומה.",
+      "confusion": "Amanita echinocephala ו־Amanita solitaria גם הן לבנבנות עם יבלות מחודדות על המצנפת, אך בבסיס הרגל שלהן פקעת נפוחה ומשתרשת המוקפת חגורות יבלות, והן גדלות ליד עצים. ל־Amanita strobiliformis פקעת גדולה ושרידי מעטה רכים, דמויי כתמים, בצבע לבן־אפרפר על המצנפת. ל־Amanita virosa הקטלנית ולצורות הלבנות של Amanita phalloides מצנפת חלקה ונרתיק דמוי שק בבסיס. ל־Macrolepiota procera קשקשים חומים על המצנפת, רגל מנומרת בחום וטבעת נעה, ו־Echinoderma asperum קטנה יותר, עם יבלות חומות זקופות ורגל דקה יותר.",
+      "notes": "סימני ההיכר הטובים ביותר הם גוף הפרי הלבן כולו, בסיס הרגל המשתרש ללא פקעת או נרתיק וחגורות הקשקשים הזקורים מתחת לטבעת הכפולה הגדולה, יחד עם הגידול בעשב פתוח הרחק מעצים. המין נדיר ברוב תחום תפוצתו; בצ׳כיה הוא מוערך כבסכנת הכחדה חמורה (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "घास के मैदानों का एक बड़ा, पूरी तरह सफ़ेद मशरूम, जिसकी टोपी झबरीली और मस्सेदार होती है, वलय चौड़ा और दोहरा होता है, और डंठल वलय के नीचे उभरे हुए, नुकीले शल्कों की पट्टियों से ढका रहता है। असली अमानिटा प्रजातियों के विपरीत यह कवकमूल नहीं बनाता और पेड़ों से दूर खुली घास में उगता है — चरागाहों, स्टेपी, पशु-चरागाहों, पार्कों और लॉन में, ज़्यादातर यूरोप के गर्म भागों में। इसकी खाद्यता विवादित है और इसे घातक सफ़ेद अमानिटा प्रजातियों से आसानी से भ्रमित किया जा सकता है, इसलिए इसे नहीं खाना चाहिए।",
+      "cap": "टोपी 7–17 cm चौड़ी, कभी-कभी 20 cm तक; पहले गोलाकार, फिर अर्धगोलाकार और उत्तल, अंत में चपटी-उत्तल। सतह सूखी, सफ़ेद से क्रीम या हाथीदाँत जैसे रंग की होती है, उम्र के साथ बीच में हल्की गेरुई से भूरी हो जाती है, और सार्वत्रिक आवरण के अवशेषों से ढकी रहती है: बीच में घने, नुकीले, पिरामिडनुमा मस्से, जो किनारे की ओर अधिक चपटे, खपरैल की तरह एक-दूसरे पर चढ़े, धब्बेनुमा शल्कों में बदल जाते हैं। किनारा गलफड़ों से आगे निकला रहता है, धारीदार नहीं होता और उससे आवरण के टुकड़े लटकते हैं।",
+      "hymenium": "गलफड़े मुक्त, घने, चौड़े और काफ़ी मोटे, सफ़ेद से क्रीम, कभी-कभी हरापन लिए क्रीम से हल्के हरित-पीले रंग के, बीच में अनेक छोटे गलफड़े; धारें बारीक झालरदार।",
+      "stipe": "डंठल 8–16 cm लंबा, कभी-कभी 20 cm तक, और 1.5–3 cm मोटा; मज़बूत, बेलनाकार, ऊपर की ओर थोड़ा पतला, ठोस और सफ़ेद। वलय के ऊपर यह चिकना है, और वलय से आधार तक नुकीले, ऊपर की ओर मुड़े शल्कों की संकेंद्री पट्टियों से ढका है, जो उम्र और छूने से भूरे हो जाते हैं। वलय ऊँचा, टोपी के ठीक नीचे होता है; चौड़ा, झिल्लीदार, सफ़ेद और दोहरा, ऊपर से चिकना और नीचे से रुई जैसा, अनियमित, दाँतेदार किनारे वाला। आधार पतला होकर बिना कंद के मिट्टी में जड़ की तरह धँसता है; सार्वत्रिक आवरण केवल शल्क छोड़ता है और थैलीनुमा वोल्वा नहीं होता।",
+      "flesh": "गूदा सफ़ेद और ठोस, काटने पर नहीं बदलता या डंठल के आधार की ओर हल्का पीला पड़ता है। गंध शुरू में हल्की होती है और उम्र के साथ मीठी-सी या अप्रिय हो सकती है; स्वाद हल्का।",
+      "sporePrint": "बीजाणु छाप सफ़ेद। बीजाणु चौड़े दीर्घवृत्ताकार से लगभग गोल, चिकने और एमिलॉइड, लगभग 9–15 × 6.5–11 µm, अधिकतर 10–13 × 7.5–10 µm।",
+      "habitat": "मृतजीवी, कवकमूल नहीं बनाता। यह उपजाऊ, अक्सर उदासीन से क्षारीय मिट्टी वाली खुली घास भूमि में उगता है: घास के मैदानों, स्टेपी ढलानों, चरागाहों, पार्कों, लॉन, जैतून के बाग़ों और पुराने खेतों में, कभी-कभी जंगल के किनारों पर भी। यह अकेले, छोटे समूहों में या परी-घेरों में निकलता है, और फलन-काय सूखा झेलकर बारिश के बाद फिर बढ़ सकते हैं। यह गर्मी पसंद प्रजाति ब्रिटिश द्वीपों और भूमध्यसागरीय क्षेत्र से पूर्व में यूक्रेन तक दर्ज है, और कॉकेशस क्षेत्र तथा पश्चिमी एशिया से भी इसके अभिलेख हैं। यह मई से अक्टूबर तक, मुख्यतः गर्मियों के अंत और शरद ऋतु में फलता है।",
+      "uses": "खाने की सलाह नहीं दी जाती। जानकारी परस्पर विरोधी है: कुछ स्पेनी, फ़्रांसीसी और उत्तर अफ़्रीकी स्रोत इसे खाने योग्य बताते हैं, जबकि अन्य इसे विषैला या संभवतः हल्का विषैला बताते हैं, और किसी भी विषाक्तता को निश्चित रूप से इससे नहीं जोड़ा गया है। इसकी दुर्लभता और घातक सफ़ेद अमानिटा प्रजातियों से इसकी गहरी समानता इसे न छूने के ठोस कारण हैं।",
+      "confusion": "Amanita echinocephala और Amanita solitaria भी सफ़ेद-सी होती हैं और उनकी टोपी पर नुकीले मस्से होते हैं, लेकिन उनके डंठल के आधार पर मस्सों की पट्टियों से घिरा फूला हुआ, जड़दार कंद होता है और वे पेड़ों के साथ उगती हैं। Amanita strobiliformis का कंद बड़ा होता है और टोपी पर नरम, धब्बेनुमा, धूसर-सफ़ेद आवरण-अवशेष होते हैं। घातक Amanita virosa और Amanita phalloides के सफ़ेद रूपों की टोपी चिकनी होती है और आधार पर थैलीनुमा वोल्वा होता है। Macrolepiota procera की टोपी पर भूरे शल्क, भूरे चित्तीदार डंठल और खिसकने वाला वलय होता है, और Echinoderma asperum छोटी होती है, जिसके भूरे, खड़े मस्से और पतला डंठल होता है।",
+      "notes": "सबसे अच्छी पहचान पूरी तरह सफ़ेद फलन-काय, बिना कंद या वोल्वा के जड़दार डंठल-आधार, और बड़े दोहरे वलय के नीचे उभरे शल्कों की पट्टियाँ हैं, साथ ही पेड़ों से दूर खुली घास में उगना। अपने अधिकांश क्षेत्र में यह दुर्लभ है; चेक गणराज्य में इसे गंभीर रूप से संकटग्रस्त (Critically Endangered) आँका गया है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, potpuno bijela gljiva travnatih površina s čupavim, bradavičastim šeširom, širokim dvostrukim vjenčićem i stručkom koji je ispod vjenčića prekriven pojasevima stršećih, šiljastih ljusaka. Za razliku od pravih muhara ne stvara mikorizu i raste u otvorenoj travi daleko od drveća, na livadama, stepama, pašnjacima, u parkovima i na travnjacima, uglavnom u toplijim dijelovima Europe. Jestivost joj je sporna i lako se zamijeni sa smrtno otrovnim bijelim muharama, pa je ne treba jesti.",
+      "cap": "Šešir je širok 7–17 cm, iznimno do 20 cm; isprva kuglast, zatim polukuglast i ispupčen, na kraju plosnato ispupčen. Površina je suha, bijela do krem ili boje bjelokosti, starenjem u sredini blijedo okeržuta do smećkasta, i prekrivena ostacima općeg ovoja: u sredini gustim, šiljastim, piramidalnim bradavicama koje prema rubu prelaze u plosnatije, crjepasto preklopljene, krpaste ljuske. Rub prelazi preko listića, nije izbrazdan i s njega vise krpice ovoja.",
+      "hymenium": "Listići su slobodni, gusti, široki i prilično debeli, bijeli do krem, ponekad sa zelenkasto krem do blijedo zelenkastožutim odsjajem, s mnogo kratkih listića između njih; oštrice su sitno resaste.",
+      "stipe": "Stručak je dug 8–16 cm, iznimno do 20 cm, i debeo 1,5–3 cm; čvrst, valjkast, prema vrhu blago sužen, pun i bijel. Iznad vjenčića je gladak, a od vjenčića do osnove prekriven koncentričnim pojasevima šiljastih, prema gore stršećih ljusaka koje starenjem i dodirom posmeđe. Vjenčić je visoko, odmah ispod šešira; širok je, opnast, bijel i dvostruk, odozgo gladak i odozdo vatast, s nepravilnim, nazubljenim rubom. Osnova se sužava i korijenasto ulazi u tlo bez gomolja; opći ovoj ostavlja samo ljuske, a vrećaste volve nema.",
+      "flesh": "Meso je bijelo i čvrsto, na prerezu se ne mijenja ili prema osnovi stručka slabo požuti. Miris je isprva slab i starenjem može postati slatkast ili neugodan; okus je blag.",
+      "sporePrint": "Otisak spora je bijel. Spore su široko elipsoidne do gotovo kuglaste, glatke i amiloidne, oko 9–15 × 6,5–11 µm, uglavnom 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofna, ne stvara mikorizu. Raste na otvorenim travnatim površinama na hranjivom, često neutralnom do bazičnom tlu: na livadama, stepskim padinama, pašnjacima, u parkovima, na travnjacima, u maslinicima i na starim poljima, ponekad i na rubovima šuma. Pojavljuje se pojedinačno, u malim skupinama ili u vilinskim krugovima, a plodišta mogu preživjeti sušu i nakon kiše nastaviti rasti. Toploljubna je vrsta, zabilježena od Britanskog otočja i Sredozemlja na istok do Ukrajine, s daljnjim nalazima s područja Kavkaza i iz zapadne Azije. Plodišta razvija od svibnja do listopada, uglavnom krajem ljeta i u jesen.",
+      "uses": "Ne preporučuje se za jelo. Podaci se razlikuju: neki španjolski, francuski i sjevernoafrički izvori navode je kao jestivu, drugi je opisuju kao otrovnu ili vjerojatno blago otrovnu, a nijedno trovanje nije pouzdano povezano s njom. Njezina rijetkost i velika sličnost sa smrtno otrovnim bijelim muharama snažni su razlozi da je ostavite na miru.",
+      "confusion": "Amanita echinocephala i Amanita solitaria također su bjelkaste sa šiljastim bradavicama na šeširu, ali imaju na osnovi stručka zadebljan, ukorijenjen gomolj obrubljen bradavicama i rastu uz drveće. Amanita strobiliformis ima velik gomolj i na šeširu meke, krpaste sivobijele ostatke ovoja. Smrtno otrovna bijela pupavka (Amanita virosa) i bijeli oblici zelene pupavke (Amanita phalloides) imaju gladak šešir i vrećastu volvu na osnovi. Velika sunčanica (Macrolepiota procera) ima smeđe ljuske na šeširu, smeđe, zmijoliko prugast stručak i pomični vjenčić, a Echinoderma asperum je manja, sa smeđim uspravnim bradavicama i tanjim stručkom.",
+      "notes": "Najbolja obilježja za prepoznavanje su potpuno bijelo plodište, ukorijenjena osnova stručka bez gomolja i volve te pojasevi stršećih ljusaka ispod velikog dvostrukog vjenčića, uz rast u otvorenoj travi daleko od drveća. U velikom dijelu areala je rijetka; u Češkoj je procijenjena kao kritično ugrožena vrsta (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Nagy termetű, egészen fehér gyepi gomba bozontos, szemölcsös kalappal, széles, kettős gallérral és olyan tönkkel, amelyet a gallér alatt elálló, hegyes pikkelyek övei borítanak. A valódi galócákkal ellentétben nem képez mikorrhizát, hanem nyílt gyepben, fáktól távol nő réteken, sztyeppeken, legelőkön, parkokban és pázsitokon, főleg Európa melegebb részein. Ehetősége vitatott, és könnyen összetéveszthető halálosan mérgező fehér galócákkal, ezért nem szabad megenni.",
+      "cap": "Kalapja 7–17 cm széles, néha 20 cm-ig; eleinte gömb alakú, majd félgömb alakú és domború, végül laposan domború. Felszíne száraz, fehér, krémszínű vagy elefántcsontszínű, idősen a közepén halvány okkeres vagy barnás, és az általános burok maradványai borítják: középen sűrű, hegyes, piramis alakú szemölcsök, amelyek a szél felé laposabb, cserepesen egymásra boruló, foltszerű pikkelyekbe mennek át. Széle túlnyúlik a lemezeken, nem bordázott, és burokfoszlányok csüngenek róla.",
+      "hymenium": "Lemezei szabadon állók, sűrűk, szélesek és meglehetősen vastagok, fehérek vagy krémszínűek, néha zöldes krémszínű vagy halvány zöldessárga árnyalattal, köztük sok rövid féllemezzel; élük finoman pillás.",
+      "stipe": "Tönkje 8–16 cm hosszú, néha 20 cm-ig, és 1,5–3 cm vastag; vaskos, hengeres, felfelé kissé elvékonyodó, tömör és fehér. A gallér fölött sima, a gallértól a tövéig koncentrikus övekben hegyes, felfelé elálló pikkelyek borítják, amelyek idővel és érintésre barnulnak. A gallér magasan, közvetlenül a kalap alatt ül; széles, hártyás, fehér és kettős, felül sima, alul vattás, szabálytalan, fogazott szélű. Töve elvékonyodik és gumó nélkül gyökerezik a talajba; az általános burokból csak pikkelyek maradnak, zsákszerű bocskora nincs.",
+      "flesh": "Húsa fehér és kemény, vágásra nem változik vagy a tönk töve felé gyengén sárgul. Szaga eleinte gyenge, idősen édeskés vagy kellemetlen lehet; íze enyhe.",
+      "sporePrint": "Spórapora fehér. Spórái széles ellipszoid vagy majdnem gömb alakúak, simák és amiloidok, kb. 9–15 × 6,5–11 µm, többnyire 10–13 × 7,5–10 µm.",
+      "habitat": "Szaprotróf, nem képez mikorrhizát. Nyílt gyepekben, tápanyagdús, gyakran semleges vagy bázikus talajon nő: réteken, sztyepplejtőkön, legelőkön, parkokban, pázsitokon, olajfaligetekben és régi szántókon, néha erdőszéleken is. Magányosan, kis csoportokban vagy boszorkánykörökben terem, termőtestei átvészelik a szárazságot, és eső után tovább nőnek. Melegkedvelő faj, a Brit-szigetektől és a Földközi-tenger vidékétől keletre Ukrajnáig ismert, további adatokkal a Kaukázus térségéből és Nyugat-Ázsiából. Májustól októberig terem, főleg nyár végén és ősszel.",
+      "uses": "Fogyasztása nem ajánlott. Az adatok ellentmondók: egyes spanyol, francia és észak-afrikai források ehetőnek tartják, mások mérgezőnek vagy valószínűleg enyhén mérgezőnek írják le, és egyetlen mérgezést sem kötöttek hozzá biztosan. Ritkasága és a halálosan mérgező fehér galócákhoz való nagy hasonlósága jó ok arra, hogy a helyén hagyjuk.",
+      "confusion": "A tüskés galóca (Amanita echinocephala) és az Amanita solitaria szintén fehéres, hegyes kalapszemölcsökkel, de tönkjük tövén megvastagodott, gyökerező, szemölcsövekkel körülvett gumó van, és fák közelében nőnek. Az Amanita strobiliformis nagy gumójú, kalapján puha, foltszerű, szürkésfehér burokmaradványok vannak. A halálosan mérgező hegyeskalapú galóca (Amanita virosa) és a gyilkos galóca (Amanita phalloides) fehér változatai sima kalapúak, tövükön zsákszerű bocskor van. A nagy őzlábgomba (Macrolepiota procera) barna kalappikkelyes, tönkje barnán kígyóbőrmintás, gallérja elmozdítható, az Echinoderma asperum pedig kisebb, barna, felálló szemölcsökkel és vékonyabb tönkkel.",
+      "notes": "A legjobb ismertetőjegyek az egészen fehér termőtest, a gumó és bocskor nélküli, gyökerező tönkvég és a nagy, kettős gallér alatti elálló pikkelyövek, valamint a fáktól távoli, nyílt gyepben való növekedés. Elterjedési területének nagy részén ritka; Csehországban a kihaláshoz közeli (Critically Endangered) kategóriába sorolják. Magyarországon egyes területeken nem ritka.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gombanet.hu/ozlabgaloca-amanita-vittadinii",
+        "https://www.gombanet.hu/vedett-gombak",
+        "https://hu.wikipedia.org/wiki/%C5%90zl%C3%A1bgal%C3%B3ca"
+      ],
+      "label": "őzlábgalóca"
+    },
+    "id": {
+      "description": "Jamur padang rumput yang besar dan seluruhnya putih, dengan tudung berbulu kusut dan berkutil, cincin lebar dan ganda, serta tangkai yang di bawah cincin tertutup pita-pita sisik runcing yang mencuat. Berbeda dengan amanita sejati, jamur ini tidak membentuk mikoriza dan tumbuh di rumput terbuka jauh dari pohon, di padang rumput, stepa, padang penggembalaan, taman, dan halaman berumput, terutama di bagian Eropa yang lebih hangat. Kelayakan konsumsinya diperdebatkan dan mudah tertukar dengan amanita putih yang mematikan, jadi jangan dimakan.",
+      "cap": "Tudung berdiameter 7–17 cm, kadang hingga 20 cm; mula-mula bulat, lalu setengah bulat dan cembung, akhirnya cembung datar. Permukaannya kering, putih hingga krem atau gading, seiring umur bagian tengahnya menjadi oker pucat hingga kecokelatan, dan tertutup sisa selubung umum: di tengah ada kutil rapat, runcing, berbentuk piramida yang ke arah tepi berubah menjadi sisik lebih pipih, bertumpuk seperti genteng, dan berbentuk bercak. Tepinya menjorok melewati bilah, tidak beralur, dan bergantungan serpihan selubung.",
+      "hymenium": "Bilah bebas, rapat, lebar, dan cukup tebal, putih hingga krem, kadang bernuansa krem kehijauan hingga kuning kehijauan pucat, dengan banyak bilah pendek di antaranya; tepinya berumbai halus.",
+      "stipe": "Tangkai panjang 8–16 cm, kadang hingga 20 cm, dan tebal 1,5–3 cm; kokoh, silindris, sedikit menyempit ke atas, padat, dan putih. Di atas cincin halus, sedangkan dari cincin sampai pangkal tertutup pita konsentris sisik runcing yang mencuat ke atas dan menjadi kecokelatan seiring umur dan bila disentuh. Cincin terletak tinggi, tepat di bawah tudung; lebar, bermembran, putih, dan ganda, halus di atas dan seperti kapas di bawah, dengan tepi tidak beraturan dan bergerigi. Pangkalnya meruncing dan menancap ke tanah seperti akar tanpa umbi; selubung umum hanya meninggalkan sisik, dan tidak ada volva berbentuk kantong.",
+      "flesh": "Daging putih dan padat, tidak berubah saat dipotong atau sedikit menguning ke arah pangkal tangkai. Baunya mula-mula lemah dan seiring umur dapat menjadi agak manis atau tidak sedap; rasanya lembut.",
+      "sporePrint": "Cetak spora putih. Spora elipsoid lebar hingga hampir bulat, halus, dan amiloid, sekitar 9–15 × 6,5–11 µm, umumnya 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrof, tidak membentuk mikoriza. Tumbuh di padang rumput terbuka pada tanah subur, sering netral hingga basa: di padang rumput, lereng stepa, padang penggembalaan, taman, halaman berumput, kebun zaitun, dan ladang lama, kadang juga di tepi hutan. Muncul tunggal, dalam kelompok kecil, atau dalam lingkaran peri, dan tubuh buahnya dapat bertahan saat kekeringan lalu melanjutkan pertumbuhan setelah hujan. Spesies penyuka hangat ini tercatat dari Kepulauan Britania dan kawasan Mediterania ke timur hingga Ukraina, dengan catatan lain dari wilayah Kaukasus dan Asia Barat. Berbuah dari Mei hingga Oktober, terutama pada akhir musim panas dan musim gugur.",
+      "uses": "Tidak dianjurkan untuk dimakan. Informasinya bertentangan: sebagian sumber Spanyol, Prancis, dan Afrika Utara menyebutnya dapat dimakan, sementara yang lain menggambarkannya beracun atau mungkin sedikit beracun, dan tidak ada keracunan yang secara pasti dikaitkan dengannya. Kelangkaannya dan kemiripannya yang besar dengan amanita putih yang mematikan merupakan alasan kuat untuk membiarkannya.",
+      "confusion": "Amanita echinocephala dan Amanita solitaria juga keputihan dengan kutil runcing pada tudung, tetapi memiliki umbi membengkak yang berakar di pangkal tangkai dengan cincin-cincin kutil, dan tumbuh bersama pohon. Amanita strobiliformis memiliki umbi besar dan sisa selubung lunak berbentuk bercak putih keabu-abuan pada tudung. Amanita virosa yang mematikan dan bentuk putih Amanita phalloides memiliki tudung halus dan volva berbentuk kantong di pangkal. Macrolepiota procera memiliki sisik cokelat pada tudung, tangkai berpola cokelat, dan cincin yang dapat digeser, sedangkan Echinoderma asperum lebih kecil, dengan kutil cokelat tegak dan tangkai lebih ramping.",
+      "notes": "Ciri terbaiknya adalah tubuh buah yang seluruhnya putih, pangkal tangkai berakar tanpa umbi atau volva, dan pita sisik mencuat di bawah cincin ganda yang besar, ditambah tumbuhnya di rumput terbuka jauh dari pohon. Jamur ini langka di sebagian besar wilayah sebarannya; di Republik Ceko dinilai Kritis (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande fungo dei prati, completamente bianco, con cappello irsuto e verrucoso, un ampio anello doppio e un gambo rivestito, sotto l’anello, da fasce di squame appuntite e rialzate. A differenza delle vere amanite non forma micorrize e cresce nell’erba aperta lontano dagli alberi, in prati, steppe, pascoli, parchi e tappeti erbosi, soprattutto nelle zone più calde d’Europa. La sua commestibilità è discussa e si confonde facilmente con amanite bianche mortali, perciò non va consumato.",
+      "cap": "Cappello di 7–17 cm di diametro, talvolta fino a 20 cm; dapprima globoso, poi emisferico e convesso, infine piano-convesso. La superficie è asciutta, da bianca a crema o avorio, con l’età ocra pallido o brunastra al centro, e ricoperta da residui del velo generale: al centro verruche fitte, appuntite e piramidali che verso il margine passano a squame più piatte, embricate e a placche. Il margine supera le lamelle, non è striato e porta lembi di velo pendenti.",
+      "hymenium": "Lamelle libere, fitte, larghe e piuttosto spesse, da bianche a crema, talvolta con una tinta crema verdastra o giallo verdastro pallido, con numerose lamellule; il filo è finemente fioccoso.",
+      "stipe": "Gambo lungo 8–16 cm, talvolta fino a 20 cm, e spesso 1,5–3 cm; robusto, cilindrico, leggermente attenuato verso l’alto, pieno e bianco. Sopra l’anello è liscio, e dall’anello fino alla base è ricoperto da fasce concentriche di squame appuntite e rialzate che imbruniscono con l’età e al tocco. L’anello è posto in alto, subito sotto il cappello; è ampio, membranoso, bianco e doppio, liscio sopra e cotonoso sotto, con il bordo irregolare e dentellato. La base si assottiglia e si radica nel terreno senza bulbo; il velo generale lascia solo squame e manca una volva a sacco.",
+      "flesh": "Carne bianca e soda, immutabile al taglio o debolmente ingiallente verso la base del gambo. L’odore è dapprima debole e con l’età può diventare dolciastro o sgradevole; il sapore è mite.",
+      "sporePrint": "Sporata bianca. Spore largamente ellissoidali o subglobose, lisce e amiloidi, di circa 9–15 × 6,5–11 µm, per lo più 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofo, non micorrizico. Cresce nei prati aperti su terreno ricco, spesso neutro o basico: prati, pendii steppici, pascoli, parchi, tappeti erbosi, oliveti e vecchi campi coltivati, talvolta anche ai margini dei boschi. Compare isolato, in piccoli gruppi o in cerchi delle streghe, e i carpofori possono sopravvivere alla siccità e riprendere a crescere dopo la pioggia. Specie termofila, è nota dalle isole britanniche e dal Mediterraneo verso est fino all’Ucraina, con altre segnalazioni dalla regione del Caucaso e dall’Asia occidentale. Fruttifica da maggio a ottobre, soprattutto a fine estate e in autunno.",
+      "uses": "Se ne sconsiglia il consumo. Le notizie sono contrastanti: alcune fonti spagnole, francesi e nordafricane lo dicono commestibile, altre lo descrivono come tossico o probabilmente leggermente tossico, e nessuna intossicazione gli è stata attribuita con certezza. La sua rarità e la forte somiglianza con le amanite bianche mortali sono buone ragioni per lasciarlo dov’è.",
+      "confusion": "Amanita echinocephala e Amanita solitaria sono anch’esse biancastre con verruche appuntite sul cappello, ma hanno alla base del gambo un bulbo ingrossato e radicante cerchiato di verruche e crescono con gli alberi. Amanita strobiliformis ha un grosso bulbo e residui di velo morbidi, a placche bianco-grigiastre, sul cappello. La mortale Amanita virosa e le forme bianche della tignosa verdognola (Amanita phalloides) hanno il cappello liscio e una volva a sacco alla base. La mazza di tamburo (Macrolepiota procera) ha squame brune sul cappello, un gambo zebrato di bruno e un anello scorrevole, ed Echinoderma asperum è più piccola, con verruche brune erette e un gambo più sottile.",
+      "notes": "I caratteri migliori sono il carpoforo completamente bianco, la base del gambo radicante senza bulbo né volva e le fasce di squame rialzate sotto il grande anello doppio, insieme alla crescita nell’erba aperta lontano dagli alberi. È raro in gran parte del suo areale; nella Repubblica Ceca è valutato come in pericolo critico (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "草地に生える大型で全体が白いきのこで、かさは毛羽立ちいぼに覆われ、幅広い二重のつばをもち、柄はつばの下で反り返った尖った鱗片の帯に覆われる。本来のテングタケ類と異なり菌根を作らず、樹木から離れた開けた草地、すなわち草原、ステップ、放牧地、公園、芝生に生え、主にヨーロッパの温暖な地域に分布する。食用性については意見が分かれ、猛毒の白いテングタケ類と取り違えやすいため、食べてはならない。",
+      "cap": "かさは径7–17 cm、ときに20 cmに達する。初め球形、のち半球形から饅頭形、最後には平たい饅頭形になる。表面は乾いており、白色からクリーム色または象牙色で、古くなると中央が淡い黄土色から褐色を帯び、外被膜の残りに覆われる。中央には密集した尖ったピラミッド状のいぼがあり、縁に向かってより平たく瓦状に重なるパッチ状の鱗片に移行する。縁はひだより突き出し、条線はなく、被膜の切れ端が垂れ下がる。",
+      "hymenium": "ひだは離生し、密で幅広く、やや厚く、白色からクリーム色、ときに緑がかったクリーム色から淡い緑黄色を帯び、小ひだが多い。ひだの縁は細かく房状になる。",
+      "stipe": "柄は長さ8–16 cm、ときに20 cmに達し、太さ1.5–3 cm。頑丈で円柱形、上方へやや細まり、中実で白色。つばより上は平滑で、つばから基部まで尖って上向きに反り返った鱗片が同心円状の帯をなし、古くなったり触れたりすると褐色になる。つばは高い位置、かさのすぐ下にあり、幅広く膜質、白色で二重、上面は平滑、下面は綿毛状で、縁は不規則で歯状。基部は細まり、球根状のふくらみなしに根のように土中へ伸びる。外被膜は鱗片を残すだけで、袋状のつぼはない。",
+      "flesh": "肉は白く締まり、切っても変色しないか、柄の基部に向かってわずかに黄変する。においは初め弱く、古くなると甘ったるいまたは不快なにおいになることがある。味は温和。",
+      "sporePrint": "胞子紋は白色。胞子は広楕円形から類球形、平滑でアミロイド、約9–15 × 6.5–11 µm、多くは10–13 × 7.5–10 µm。",
+      "habitat": "腐生性で、菌根を作らない。肥沃で、しばしば中性からアルカリ性の土壌の開けた草地に生える。草原、ステップの斜面、放牧地、公園、芝生、オリーブ園、古い畑などで、ときに林縁にも出る。単生、小さな群れ、または菌輪をなして発生し、子実体は乾燥を耐えて雨の後に再び成長することがある。温暖を好む種で、ブリテン諸島と地中海地域から東はウクライナまで記録され、さらにコーカサス地方と西アジアからも記録がある。5月から10月に発生し、主に晩夏から秋。",
+      "uses": "食用には勧められない。情報は食い違っており、スペイン、フランス、北アフリカの一部の資料は食用とする一方、有毒あるいはおそらく弱毒とする資料もあり、本種による中毒が確実に結びつけられた例はない。希少であることと、猛毒の白いテングタケ類によく似ていることが、採らずにおく十分な理由である。",
+      "confusion": "Amanita echinocephala と Amanita solitaria も白っぽく、かさに尖ったいぼがあるが、柄の基部にいぼの帯に囲まれた膨らんだ根状の球根をもち、樹木とともに生える。Amanita strobiliformis は大きな球根をもち、かさに柔らかなパッチ状の灰白色の被膜の残りがある。猛毒のドクツルタケ (Amanita virosa) とタマゴテングタケ (Amanita phalloides) の白色型はかさが平滑で、基部に袋状のつぼがある。カラカサタケ (Macrolepiota procera) はかさに褐色の鱗片があり、柄は褐色のだんだら模様で、つばは動かせる。Echinoderma asperum はより小さく、褐色の直立したいぼとより細い柄をもつ。",
+      "notes": "最もよい識別点は、全体が白い子実体、球根もつぼもない根状の柄の基部、大きな二重のつばの下にある反り返った鱗片の帯であり、さらに樹木から離れた開けた草地に生えることである。分布域の大部分で稀であり、チェコでは深刻な危機(Critically Endangered)と評価されている。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "초원에 나는 크고 전체가 흰 버섯으로, 갓은 덥수룩하고 사마귀점이 덮여 있으며, 넓은 이중 턱받이가 있고, 자루는 턱받이 아래에 뾰족하게 일어선 비늘의 띠로 덮여 있다. 진정한 광대버섯류와 달리 균근을 만들지 않으며, 나무에서 떨어진 탁 트인 풀밭, 곧 초원, 스텝, 목초지, 공원, 잔디밭에서 자라고, 주로 유럽의 따뜻한 지역에 분포한다. 식용 여부는 논란이 있고 치명적인 흰 광대버섯류와 혼동하기 쉬우므로 먹어서는 안 된다.",
+      "cap": "갓은 지름 7–17 cm, 때로는 20 cm에 이른다. 처음에는 구형이다가 반구형과 둥근산형을 거쳐 마지막에는 편평한 둥근산형이 된다. 표면은 건조하고 흰색에서 크림색 또는 상아색이며, 오래되면 가운데가 연한 황토색에서 갈색을 띠고, 외피막의 잔존물로 덮여 있다. 가운데에는 빽빽하고 뾰족한 피라미드 모양의 사마귀점이 있고, 가장자리 쪽으로 갈수록 더 납작하고 기와처럼 겹친 조각 모양 비늘로 바뀐다. 가장자리는 주름살 밖으로 돌출하고 홈선이 없으며 피막 조각이 매달려 있다.",
+      "hymenium": "주름살은 끝붙은형이고 빽빽하며 넓고 꽤 두껍고, 흰색에서 크림색이며 때로 녹색빛 크림색에서 연한 녹황색을 띤다. 사이에 짧은 주름살이 많고, 주름살 가장자리는 미세하게 술 모양이다.",
+      "stipe": "자루는 길이 8–16 cm, 때로는 20 cm에 이르고, 굵기 1.5–3 cm이다. 튼튼하고 원통형이며 위쪽으로 약간 가늘어지고, 속이 차 있으며 흰색이다. 턱받이 위는 매끄럽고, 턱받이에서 밑동까지는 뾰족하게 위로 젖혀진 비늘이 동심원 띠를 이루며, 오래되거나 만지면 갈색이 된다. 턱받이는 높은 곳, 갓 바로 아래에 있으며 넓고 막질이고 흰색의 이중 구조로, 윗면은 매끄럽고 아랫면은 솜털 같으며 가장자리는 불규칙하고 톱니 모양이다. 밑동은 가늘어지며 구근 없이 뿌리처럼 흙 속으로 뻗고, 외피막은 비늘만 남기며 주머니 모양의 대주머니는 없다.",
+      "flesh": "살은 희고 단단하며, 잘라도 변색하지 않거나 자루 밑동 쪽으로 약간 노랗게 변한다. 냄새는 처음에 약하고 오래되면 들척지근하거나 불쾌해질 수 있으며, 맛은 순하다.",
+      "sporePrint": "포자문은 흰색이다. 포자는 넓은 타원형에서 거의 구형이고 매끄러우며 아밀로이드이고, 약 9–15 × 6.5–11 µm, 대개 10–13 × 7.5–10 µm이다.",
+      "habitat": "부생성이며 균근을 만들지 않는다. 비옥하고 흔히 중성에서 염기성인 토양의 탁 트인 초지에서 자란다. 초원, 스텝 비탈, 목초지, 공원, 잔디밭, 올리브 과수원, 오래된 밭 등이며 때로 숲 가장자리에도 난다. 홀로, 작은 무리로, 또는 균륜을 이루어 나며, 자실체는 가뭄을 견디고 비가 온 뒤 다시 자랄 수 있다. 따뜻한 곳을 좋아하는 종으로, 영국 제도와 지중해 지역에서 동쪽으로 우크라이나까지 기록되어 있고, 캅카스 지역과 서아시아에서도 기록이 있다. 5월부터 10월까지, 주로 늦여름과 가을에 발생한다.",
+      "uses": "식용을 권하지 않는다. 정보가 엇갈리는데, 일부 스페인, 프랑스, 북아프리카 자료는 식용이라고 하고 다른 자료는 독성이 있거나 아마도 약한 독성이 있다고 하며, 이 종과 확실히 연결된 중독 사례는 없다. 희귀하다는 점과 치명적인 흰 광대버섯류와 매우 닮았다는 점은 그대로 두어야 할 충분한 이유이다.",
+      "confusion": "Amanita echinocephala와 Amanita solitaria도 희끄무레하고 갓에 뾰족한 사마귀점이 있지만, 자루 밑동에 사마귀점 띠로 둘러싸인 부풀고 뿌리 내린 구근이 있으며 나무와 함께 자란다. Amanita strobiliformis는 큰 구근이 있고 갓에 부드럽고 조각 모양인 회백색 피막 잔존물이 있다. 치명적인 독우산광대버섯 (Amanita virosa)과 알광대버섯 (Amanita phalloides)의 흰색 형태는 갓이 매끄럽고 밑동에 주머니 모양의 대주머니가 있다. 큰갓버섯 (Macrolepiota procera)은 갓에 갈색 비늘이 있고 자루에 갈색 얼룩무늬가 있으며 턱받이가 움직이고, Echinoderma asperum은 더 작으며 갈색의 곧추선 사마귀점과 더 가는 자루를 가진다.",
+      "notes": "가장 좋은 식별 형질은 전체가 흰 자실체, 구근이나 대주머니가 없이 뿌리처럼 뻗은 자루 밑동, 큰 이중 턱받이 아래의 일어선 비늘 띠이며, 나무에서 떨어진 탁 트인 풀밭에서 자란다는 점도 함께 본다. 분포 지역 대부분에서 드물며, 체코에서는 위급(Critically Endangered)으로 평가되었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelis, visiškai baltas pievų grybas su gauruota, karpuota kepurėle, plačiu dvigubu žiedu ir kotu, kurį žemiau žiedo dengia atsišiaušusių, smailių žvynų juostos. Kitaip nei tikrosios musmirės, jis nesudaro mikorizės ir auga atviroje žolėje toli nuo medžių, pievose, stepėse, ganyklose, parkuose ir vejose, daugiausia šiltesnėse Europos dalyse. Jo valgomumas ginčytinas, ir jį lengva supainioti su mirtinai nuodingomis baltosiomis musmirėmis, todėl jo valgyti nereikėtų.",
+      "cap": "Kepurėlė 7–17 cm skersmens, kartais iki 20 cm; iš pradžių rutuliška, vėliau pusrutuliška ir išgaubta, galiausiai plokščiai išgaubta. Paviršius sausas, baltas iki kreminio ar dramblio kaulo spalvos, senstant viduryje blyškiai ochrinis iki rusvo, padengtas bendrosios dangos liekanomis: viduryje tankiomis, smailiomis, piramidinėmis karpomis, kurios link krašto pereina į plokštesnius, čerpiškai persidengiančius, dėmiškus žvynus. Kraštas išsikiša virš lakštelių, nėra rievėtas ir ant jo kabo dangos skiautelės.",
+      "hymenium": "Lakšteliai laisvi, tankūs, platūs ir gana stori, balti iki kreminių, kartais su žalsvai kreminiu iki blyškiai žalsvai gelsvo atspalviu, tarp jų gausu trumpų lakštelių; briaunos smulkiai kutuotos.",
+      "stipe": "Kotas 8–16 cm ilgio, kartais iki 20 cm, ir 1,5–3 cm storio; tvirtas, cilindriškas, viršūnės link šiek tiek siaurėjantis, pilnaviduris ir baltas. Virš žiedo jis lygus, o nuo žiedo iki pagrindo padengtas koncentrinėmis smailių, aukštyn atsišiaušusių žvynų juostomis, kurios senstant ir palietus paruduoja. Žiedas yra aukštai, iškart po kepurėle; jis platus, plėviškas, baltas ir dvigubas, viršuje lygus, apačioje vatiškas, netaisyklingu, dantytu kraštu. Pagrindas siaurėja ir šakniškai įsiskverbia į dirvą be gumbo; bendroji danga palieka tik žvynus, o maišiškos makšties nėra.",
+      "flesh": "Trama balta ir tvirta, pjūvyje nekinta arba link koto pagrindo silpnai pageltonuoja. Kvapas iš pradžių silpnas, senstant gali tapti saldokas ar nemalonus; skonis švelnus.",
+      "sporePrint": "Sporų milteliai balti. Sporos plačiai elipsoidinės iki beveik rutuliškų, lygios ir amiloidinės, apie 9–15 × 6,5–11 µm, dažniausiai 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofas, nesudaro mikorizės. Auga atvirose žolynuose derlingoje, dažnai neutralioje iki šarminės dirvoje: pievose, stepių šlaituose, ganyklose, parkuose, vejose, alyvmedžių giraitėse ir senuose laukuose, kartais ir miško pakraščiuose. Auga pavieniui, nedidelėmis grupėmis ar raganų ratais, o vaisiakūniai gali išgyventi sausrą ir po lietaus augti toliau. Tai šilumamėgė rūšis, žinoma nuo Britų salų ir Viduržemio jūros regiono į rytus iki Ukrainos, taip pat rasta Kaukazo regione ir Vakarų Azijoje. Vaisiakūnius sudaro nuo gegužės iki spalio, daugiausia vasaros pabaigoje ir rudenį.",
+      "uses": "Valgyti nerekomenduojama. Duomenys prieštaringi: kai kurie ispanų, prancūzų ir Šiaurės Afrikos šaltiniai jį laiko valgomu, kiti aprašo kaip nuodingą ar tikriausiai silpnai nuodingą, ir nė vienas apsinuodijimas nebuvo patikimai su juo susietas. Jo retumas ir didelis panašumas į mirtinai nuodingas baltąsias musmires yra svarios priežastys jo nerinkti.",
+      "confusion": "Amanita echinocephala ir Amanita solitaria taip pat balkšvos su smailiomis karpomis ant kepurėlės, tačiau koto pagrinde turi išsipūtusį, šaknijantį gumbą su karpų žiedais ir auga prie medžių. Amanita strobiliformis turi didelį gumbą ir ant kepurėlės minkštas, dėmiškas pilkšvai baltas dangos liekanas. Mirtinai nuodinga Amanita virosa ir baltos žalsvosios musmirės (Amanita phalloides) formos turi lygią kepurėlę ir maišišką makštį pagrinde. Didžioji žvynabudė (Macrolepiota procera) turi rudus kepurėlės žvynus, rudai margą kotą ir slankiojantį žiedą, o Echinoderma asperum mažesnė, su rudomis stačiomis karpomis ir plonesniu kotu.",
+      "notes": "Geriausi požymiai yra visiškai baltas vaisiakūnis, šaknijantis koto pagrindas be gumbo ir makšties bei atsišiaušusių žvynų juostos po dideliu dvigubu žiedu, kartu su augimu atviroje žolėje toli nuo medžių. Didelėje arealo dalyje rūšis reta; Čekijoje ji įvertinta kaip kritiškai nykstanti (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Liela, pilnīgi balta pļavu sēne ar pinkainu, kārpainu cepurīti, platu dubultu gredzenu un kātu, ko zem gredzena klāj atliektu, smailu zvīņu joslas. Atšķirībā no īstajām mušmirēm tā neveido mikorizu un aug atklātā zālē tālu no kokiem, pļavās, stepēs, ganībās, parkos un zālienos, galvenokārt Eiropas siltākajās daļās. Tās ēdamība ir apstrīdama, un to viegli sajaukt ar nāvējoši indīgām baltajām mušmirēm, tāpēc to nevajadzētu ēst.",
+      "cap": "Cepurīte 7–17 cm diametrā, dažkārt līdz 20 cm; sākumā lodveida, vēlāk puslodveida un izliekta, beigās plakani izliekta. Virsma sausa, balta līdz krēmkrāsas vai ziloņkaula krāsā, ar vecumu centrā gaiši okerīga līdz brūngana, klāta ar vispārējā plīvura atliekām: centrā ar blīvām, smailām, piramīdveida kārpām, kas malas virzienā pāriet plakanākās, kārniņveidā pārklājošās, plankumainās zvīņās. Mala pārsniedz lapiņas, nav rievota, un pie tās karājas plīvura skrandas.",
+      "hymenium": "Lapiņas brīvas, biezas, platas un diezgan resnas, baltas līdz krēmkrāsas, dažkārt ar zaļgani krēmkrāsas līdz gaiši zaļgandzeltenu nokrāsu, starp tām daudz īsu lapiņu; asmeņi smalki bārkstaini.",
+      "stipe": "Kāts 8–16 cm garš, dažkārt līdz 20 cm, un 1,5–3 cm resns; stingrs, cilindrisks, uz augšu nedaudz sašaurināts, pildīts un balts. Virs gredzena tas ir gluds, bet no gredzena līdz pamatnei klāts ar koncentriskām smailu, uz augšu atliektu zvīņu joslām, kas ar vecumu un pieskaroties kļūst brūnganas. Gredzens atrodas augstu, tieši zem cepurītes; tas ir plats, plēvains, balts un dubults, virspusē gluds un apakšpusē vatains, ar neregulāru, robainu malu. Pamatne sašaurinās un sakņojas augsnē bez gumza; vispārējais plīvurs atstāj tikai zvīņas, un maisveida makstiņas nav.",
+      "flesh": "Mīkstums balts un stingrs, griezumā nemainīgs vai uz kāta pamatnes pusi vāji dzeltējošs. Smarža sākumā vāja un ar vecumu var kļūt saldena vai nepatīkama; garša maiga.",
+      "sporePrint": "Sporu pulveris balts. Sporas plati elipsoīdas līdz gandrīz lodveida, gludas un amiloīdas, aptuveni 9–15 × 6,5–11 µm, pārsvarā 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofs, neveido mikorizu. Aug atklātos zālājos uz auglīgas, bieži neitrālas līdz bāziskas augsnes: pļavās, stepju nogāzēs, ganībās, parkos, zālienos, olīvu birzīs un vecos laukos, dažkārt arī meža malās. Aug pa vienai, nelielās grupās vai raganu lokos, un augļķermeņi spēj pārdzīvot sausumu un pēc lietus augt tālāk. Siltummīloša suga, zināma no Britu salām un Vidusjūras reģiona uz austrumiem līdz Ukrainai, ar papildu atradnēm Kaukāza reģionā un Rietumāzijā. Augļķermeņus veido no maija līdz oktobrim, galvenokārt vasaras beigās un rudenī.",
+      "uses": "Ēšanai nav ieteicama. Ziņas ir pretrunīgas: daži Spānijas, Francijas un Ziemeļāfrikas avoti to uzskata par ēdamu, citi apraksta kā indīgu vai, iespējams, viegli indīgu, un neviena saindēšanās nav droši saistīta ar to. Tās retums un lielā līdzība ar nāvējoši indīgajām baltajām mušmirēm ir labi iemesli to atstāt neskartu.",
+      "confusion": "Amanita echinocephala un Amanita solitaria arī ir bālganas ar smailām kārpām uz cepurītes, bet kāta pamatnē tām ir uzbriedis, sakņojošs gumzs ar kārpu joslām, un tās aug pie kokiem. Amanita strobiliformis ir liels gumzs un uz cepurītes mīkstas, plankumainas pelēkbaltas plīvura atliekas. Nāvējoši indīgajai Amanita virosa un zaļās mušmires (Amanita phalloides) baltajām formām ir gluda cepurīte un maisveida makstiņa pamatnē. Lielajai sunenei (Macrolepiota procera) ir brūnas cepurītes zvīņas, brūni raibs kāts un kustīgs gredzens, bet Echinoderma asperum ir mazāka, ar brūnām, stāvām kārpām un tievāku kātu.",
+      "notes": "Labākās pazīmes ir pilnīgi baltais augļķermenis, sakņojošā kāta pamatne bez gumza vai makstiņas un atliekto zvīņu joslas zem lielā dubultā gredzena, kā arī augšana atklātā zālē tālu no kokiem. Lielā areāla daļā suga ir reta; Čehijā tā novērtēta kā kritiski apdraudēta (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een grote, geheel witte paddenstoel van graslanden met een ruige, wrattige hoed, een brede dubbele ring en een steel die onder de ring bezet is met banden van afstaande, puntige schubben. Anders dan de echte amanieten vormt hij geen mycorrhiza en groeit hij in open gras ver van bomen, in weilanden, steppen, graslanden, parken en gazons, vooral in de warmere delen van Europa. Zijn eetbaarheid is omstreden en hij is gemakkelijk te verwarren met dodelijk giftige witte amanieten, dus hij moet niet gegeten worden.",
+      "cap": "Hoed 7–17 cm breed, soms tot 20 cm; eerst bolvormig, dan halfbolvormig en gewelfd, ten slotte vlak gewelfd. Het oppervlak is droog, wit tot crème of ivoorkleurig, met de leeftijd in het midden bleek oker tot bruinachtig, en bedekt met resten van het algemeen velum: in het midden dicht opeen staande, puntige, piramidevormige wratten die naar de rand overgaan in vlakkere, dakpansgewijs overlappende, plekvormige schubben. De rand steekt over de lamellen uit, is niet gestreept en draagt afhangende velumresten.",
+      "hymenium": "Lamellen vrij, dicht opeen, breed en vrij dik, wit tot crème, soms met een groenig crème tot bleek groengele tint, met veel lamelletjes ertussen; de snede is fijn gewimperd.",
+      "stipe": "Steel 8–16 cm lang, soms tot 20 cm, en 1,5–3 cm dik; stevig, cilindrisch, naar de top iets versmald, vol en wit. Boven de ring glad, van de ring tot de voet bezet met concentrische banden van puntige, opwaarts afstaande schubben die met de leeftijd en bij aanraking bruin worden. De ring zit hoog, vlak onder de hoed; hij is breed, vliezig, wit en dubbel, van boven glad en van onderen watachtig, met een onregelmatige, getande rand. De voet versmalt en wortelt zonder knol in de bodem; het algemeen velum laat alleen schubben achter en een zakvormige beurs ontbreekt.",
+      "flesh": "Vlees wit en stevig, bij doorsnijden onveranderlijk of naar de steelvoet zwak vergelend. De geur is eerst zwak en kan met de leeftijd zoetig of onaangenaam worden; de smaak is mild.",
+      "sporePrint": "Sporenpoeder wit. Sporen breed ellipsoïde tot bijna bolvormig, glad en amyloïde, ongeveer 9–15 × 6,5–11 µm, meestal 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotroof, vormt geen mycorrhiza. Groeit in open grasland op voedselrijke, vaak neutrale tot basische grond: in weilanden, op steppehellingen, in graslanden, parken, gazons, olijfgaarden en op oude akkers, soms ook aan bosranden. Hij verschijnt alleen, in kleine groepen of in heksenkringen, en de vruchtlichamen kunnen droogte overleven en na regen verder groeien. Het is een warmteminnende soort, bekend van de Britse Eilanden en het Middellandse Zeegebied oostwaarts tot Oekraïne, met verdere vondsten uit de Kaukasus en West-Azië. Vruchtlichamen van mei tot oktober, vooral in de nazomer en de herfst.",
+      "uses": "Niet aanbevolen om te eten. De gegevens spreken elkaar tegen: sommige Spaanse, Franse en Noord-Afrikaanse bronnen noemen hem eetbaar, andere beschrijven hem als giftig of waarschijnlijk licht giftig, en geen enkele vergiftiging is met zekerheid aan hem gekoppeld. Zijn zeldzaamheid en de grote gelijkenis met de dodelijk giftige witte amanieten zijn goede redenen om hem te laten staan.",
+      "confusion": "Amanita echinocephala en Amanita solitaria zijn ook witachtig met puntige hoedwratten, maar hebben aan de steelvoet een verdikte, wortelende knol met gordels van wratten en groeien bij bomen. Amanita strobiliformis heeft een grote knol en zachte, plekvormige grijswitte velumresten op de hoed. De dodelijk giftige kleverige knolamaniet (Amanita virosa) en witte vormen van de groene knolamaniet (Amanita phalloides) hebben een gladde hoed en een zakvormige beurs aan de voet. De grote parasolzwam (Macrolepiota procera) heeft bruine hoedschubben, een bruin geslangde steel en een verschuifbare ring, en Echinoderma asperum is kleiner, met bruine, rechtopstaande wratten en een dunnere steel.",
+      "notes": "De beste kenmerken zijn het geheel witte vruchtlichaam, de wortelende steelvoet zonder knol of beurs en de banden van afstaande schubben onder de grote dubbele ring, samen met de groei in open gras ver van bomen. In een groot deel van het areaal is de soort zeldzaam; in Tsjechië is ze beoordeeld als ernstig bedreigd (Critically Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7647780/vernacularNames"
+      ],
+      "label": "Schubsteelamaniet"
+    },
+    "no": {
+      "description": "En stor, helt hvit gressmarkssopp med lodden, vortet hatt, bred dobbel ring og en stilk som under ringen er kledd med belter av utstående, spisse skjell. I motsetning til de egentlige fluesoppene danner den ikke mykorrhiza og vokser i åpent gress langt fra trær, på enger, stepper, beitemarker, i parker og på plener, mest i de varmere delene av Europa. Spiseligheten er omstridt, og den forveksles lett med dødelig giftige hvite fluesopper, så den bør ikke spises.",
+      "cap": "Hatt 7–17 cm bred, av og til opptil 20 cm; først kuleformet, så halvkuleformet og hvelvet, til slutt flatt hvelvet. Overflaten er tørr, hvit til kremfarget eller elfenbensfarget, med alderen blekt oker til brunlig i midten, og dekket av rester av det universelle sløret: i midten tette, spisse, pyramideformede vorter som mot kanten går over i flatere, taksteinslagte, flekkformede skjell. Kanten stikker ut over skivene, er ikke furet og bærer hengende slørrester.",
+      "hymenium": "Skiver frie, tette, brede og ganske tykke, hvite til kremfargede, av og til med en grønnlig kremfarget til blekt grønngul tone, med mange korte skiver imellom; eggen er fint frynset.",
+      "stipe": "Stilk 8–16 cm lang, av og til opptil 20 cm, og 1,5–3 cm tykk; kraftig, sylindrisk, svakt avsmalnende oppover, fylt og hvit. Over ringen er den glatt, og fra ringen ned til basis er den dekket av konsentriske belter av spisse, oppoverrettede skjell som brunner med alderen og ved berøring. Ringen sitter høyt, rett under hatten; den er bred, hinneaktig, hvit og dobbel, glatt oppå og vattaktig under, med uregelmessig, tannet kant. Basis smalner av og rotfester seg i jorda uten knoll; det universelle sløret etterlater bare skjell, og det finnes ingen sekkformet volva.",
+      "flesh": "Kjøtt hvitt og fast, uforandret ved snitt eller svakt gulnende mot stilkbasis. Lukten er først svak og kan med alderen bli søtlig eller ubehagelig; smaken er mild.",
+      "sporePrint": "Sporepulver hvitt. Sporer bredt ellipsoide til nesten kuleformede, glatte og amyloide, ca. 9–15 × 6,5–11 µm, for det meste 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrof, danner ikke mykorrhiza. Vokser i åpen gressmark på næringsrik, ofte nøytral til basisk jord: på enger, steppeskråninger, beitemarker, i parker, på plener, i olivenlunder og på gamle åkrer, av og til også i skogkanter. Den opptrer enkeltvis, i små grupper eller i heksringer, og fruktlegemene kan overleve tørke og vokse videre etter regn. Den varmekjære arten er kjent fra De britiske øyer og Middelhavsområdet østover til Ukraina, med flere funn fra Kaukasus-området og Vest-Asia. Fruktlegemer fra mai til oktober, mest på ettersommeren og om høsten.",
+      "uses": "Frarådes som matsopp. Opplysningene spriker: noen spanske, franske og nordafrikanske kilder kaller den spiselig, andre beskriver den som giftig eller sannsynligvis svakt giftig, og ingen forgiftning er sikkert knyttet til den. Sjeldenheten og den store likheten med de dødelig giftige hvite fluesoppene er gode grunner til å la den stå.",
+      "confusion": "Amanita echinocephala og Amanita solitaria er også hvitaktige med spisse hattevorter, men har ved stilkbasis en oppsvulmet, rotfestet knoll med belter av vorter og vokser ved trær. Amanita strobiliformis har en stor knoll og myke, flekkformede gråhvite slørrester på hatten. Den dødelig giftige hvit fluesopp (Amanita virosa) og hvite former av grønn fluesopp (Amanita phalloides) har glatt hatt og en sekkformet volva ved basis. Stor parasollsopp (Macrolepiota procera) har brune hatteskjell, en brunt slangemønstret stilk og en bevegelig ring, og Echinoderma asperum er mindre, med brune, oppreiste vorter og en tynnere stilk.",
+      "notes": "De beste kjennetegnene er det helt hvite fruktlegemet, den rotfestede stilkbasisen uten knoll eller volva og beltene av utstående skjell under den store doble ringen, sammen med veksten i åpent gress langt fra trær. Den er sjelden i store deler av utbredelsesområdet; i Tsjekkia er den vurdert som kritisk truet (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Duży, całkowicie biały grzyb terenów trawiastych o kudłatym, brodawkowatym kapeluszu, szerokim podwójnym pierścieniu i trzonie pokrytym poniżej pierścienia pasami odstających, spiczastych łusek. W odróżnieniu od właściwych muchomorów nie tworzy mikoryzy i rośnie w otwartej trawie z dala od drzew, na łąkach, stepach, pastwiskach, w parkach i na trawnikach, głównie w cieplejszych częściach Europy. Jego jadalność jest sporna i łatwo go pomylić ze śmiertelnie trującymi białymi muchomorami, dlatego nie należy go jeść.",
+      "cap": "Kapelusz o średnicy 7–17 cm, wyjątkowo do 20 cm; początkowo kulisty, potem półkulisty i wypukły, w końcu płasko-wypukły. Powierzchnia sucha, biała do kremowej lub kości słoniowej, z wiekiem na środku jasnoochrowa do brązowawej, pokryta resztkami osłony całkowitej: na środku gęstymi, spiczastymi, piramidalnymi brodawkami, które ku brzegowi przechodzą w bardziej płaskie, dachówkowato zachodzące na siebie, płatowate łuski. Brzeg wystaje poza blaszki, nie jest prążkowany i zwisają z niego strzępy osłony.",
+      "hymenium": "Blaszki wolne, gęste, szerokie i dość grube, białe do kremowych, czasem z zielonkawokremowym do bladozielonożółtego odcieniem, z licznymi blaszeczkami; ostrza drobno postrzępione.",
+      "stipe": "Trzon długości 8–16 cm, wyjątkowo do 20 cm, i grubości 1,5–3 cm; masywny, walcowaty, ku górze lekko zwężony, pełny i biały. Powyżej pierścienia gładki, a od pierścienia aż do podstawy pokryty koncentrycznymi pasami spiczastych, odstających łusek, które z wiekiem i po dotknięciu brązowieją. Pierścień osadzony wysoko, tuż pod kapeluszem; szeroki, błoniasty, biały i podwójny, od góry gładki, od spodu watowaty, z nieregularnym, ząbkowanym brzegiem. Podstawa zwęża się i korzeniasto wnika w glebę, bez bulwy; osłona całkowita pozostawia jedynie łuski, a workowatej pochwy brak.",
+      "flesh": "Miąższ biały i jędrny, na przekroju niezmienny lub ku podstawie trzonu słabo żółknący. Zapach początkowo słaby, z wiekiem może stać się słodkawy lub nieprzyjemny; smak łagodny.",
+      "sporePrint": "Wysyp zarodników biały. Zarodniki szeroko elipsoidalne do prawie kulistych, gładkie i amyloidalne, około 9–15 × 6,5–11 µm, przeważnie 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrof, nie tworzy mikoryzy. Rośnie na otwartych terenach trawiastych na żyznej, często obojętnej do zasadowej glebie: na łąkach, stepowych zboczach, pastwiskach, w parkach, na trawnikach, w gajach oliwnych i na starych polach, czasem także na skrajach lasów. Pojawia się pojedynczo, w małych grupach lub w czarcich kręgach, a owocniki potrafią przetrwać suszę i po deszczu rosnąć dalej. Jest to gatunek ciepłolubny, notowany od Wysp Brytyjskich i regionu śródziemnomorskiego na wschód po Ukrainę, z dalszymi stwierdzeniami z rejonu Kaukazu i zachodniej Azji. Owocniki wytwarza od maja do października, głównie późnym latem i jesienią.",
+      "uses": "Nie zaleca się spożywania. Dane są sprzeczne: niektóre źródła hiszpańskie, francuskie i północnoafrykańskie podają go jako jadalny, inne opisują jako trujący lub prawdopodobnie słabo trujący, a żadnego zatrucia nie powiązano z nim w sposób pewny. Jego rzadkość i duże podobieństwo do śmiertelnie trujących białych muchomorów to mocne powody, by go nie zbierać.",
+      "confusion": "Amanita echinocephala i Amanita solitaria są również białawe ze spiczastymi brodawkami na kapeluszu, ale mają u podstawy trzonu zgrubiałą, korzeniącą się bulwę otoczoną brodawkami i rosną z drzewami. Muchomor szyszkowaty (Amanita strobiliformis) ma dużą bulwę i miękkie, płatowate szarobiałe resztki osłony na kapeluszu. Śmiertelnie trujący muchomor jadowity (Amanita virosa) i białe formy muchomora zielonawego (Amanita phalloides) mają gładki kapelusz i workowatą pochwę u podstawy. Czubajka kania (Macrolepiota procera) ma brązowe łuski na kapeluszu, brązowo, wężowato prążkowany trzon i ruchomy pierścień, a Echinoderma asperum jest mniejsza, z brązowymi, sterczącymi brodawkami i cieńszym trzonem.",
+      "notes": "Najlepsze cechy rozpoznawcze to całkowicie biały owocnik, korzeniąca się podstawa trzonu bez bulwy i pochwy oraz pasy odstających łusek poniżej dużego podwójnego pierścienia, a także wzrost w otwartej trawie z dala od drzew. W dużej części zasięgu jest rzadki; w Czechach oceniono go jako gatunek krytycznie zagrożony (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um cogumelo grande e totalmente branco de prados, com chapéu hirsuto e verrugoso, um anel largo e duplo e um pé coberto, abaixo do anel, por faixas de escamas pontiagudas e levantadas. Ao contrário das verdadeiras amanitas, não forma micorrizas e cresce em erva aberta longe das árvores, em prados, estepes, pastagens, parques e relvados, sobretudo nas regiões mais quentes da Europa. A sua comestibilidade é discutida e confunde-se facilmente com amanitas brancas mortais, por isso não deve ser consumido.",
+      "cap": "Chapéu com 7–17 cm de diâmetro, por vezes até 20 cm; primeiro globoso, depois hemisférico e convexo, por fim plano-convexo. A superfície é seca, branca a creme ou marfim, com a idade ocre-pálida a acastanhada no centro, e coberta de restos do véu universal: no centro, verrugas densas, pontiagudas e piramidais que, em direção à margem, passam a escamas mais planas, imbricadas e em placas. A margem ultrapassa as lâminas, não é estriada e tem farrapos de véu pendentes.",
+      "hymenium": "Lâminas livres, apertadas, largas e bastante grossas, brancas a creme, por vezes com um tom creme-esverdeado a amarelo-esverdeado pálido, com numerosas lamélulas; a aresta é finamente franjada.",
+      "stipe": "Pé com 8–16 cm de comprimento, por vezes até 20 cm, e 1,5–3 cm de espessura; robusto, cilíndrico, ligeiramente atenuado para cima, cheio e branco. Acima do anel é liso e, do anel até à base, coberto de faixas concêntricas de escamas pontiagudas e levantadas que acastanham com a idade e ao toque. O anel fica alto, logo abaixo do chapéu; é largo, membranoso, branco e duplo, liso por cima e algodonoso por baixo, com a borda irregular e denteada. A base afina e enraíza-se no solo sem bolbo; o véu universal deixa apenas escamas e não há volva em saco.",
+      "flesh": "Carne branca e firme, imutável ao corte ou amarelando levemente para a base do pé. O cheiro é fraco ao início e pode tornar-se adocicado ou desagradável com a idade; o sabor é suave.",
+      "sporePrint": "Esporada branca. Esporos largamente elipsoides a subglobosos, lisos e amiloides, com cerca de 9–15 × 6,5–11 µm, sobretudo 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrófico, não micorrízico. Cresce em prados abertos sobre solo rico, muitas vezes neutro a básico: prados, encostas estépicas, pastagens, parques, relvados, olivais e campos antigos, por vezes também em orlas de bosque. Surge isolado, em pequenos grupos ou em círculos de fadas, e os corpos frutíferos conseguem sobreviver à seca e retomar o crescimento depois da chuva. Espécie termófila, está registado desde as ilhas Britânicas e o Mediterrâneo até à Ucrânia, a leste, com outros registos da região do Cáucaso e da Ásia ocidental. Frutifica de maio a outubro, sobretudo no fim do verão e no outono.",
+      "uses": "Não se recomenda o consumo. As informações divergem: alguns relatos espanhóis, franceses e norte-africanos consideram-no comestível, outros descrevem-no como tóxico ou provavelmente ligeiramente tóxico, e nenhuma intoxicação lhe foi atribuída com segurança. A sua raridade e a grande semelhança com as amanitas brancas mortais são boas razões para o deixar no lugar.",
+      "confusion": "Amanita echinocephala e Amanita solitaria também são esbranquiçadas com verrugas pontiagudas no chapéu, mas têm na base do pé um bolbo engrossado e radicante rodeado de verrugas, e crescem junto de árvores. Amanita strobiliformis tem um bolbo grande e restos de véu moles, em placas branco-acinzentadas, no chapéu. A mortal Amanita virosa e as formas brancas de Amanita phalloides têm o chapéu liso e uma volva em saco na base. Macrolepiota procera tem escamas castanhas no chapéu, um pé mosqueado de castanho e um anel móvel, e Echinoderma asperum é menor, com verrugas castanhas erguidas e um pé mais fino.",
+      "notes": "As melhores características são o corpo frutífero totalmente branco, a base do pé radicante sem bolbo nem volva e as faixas de escamas levantadas abaixo do grande anel duplo, a par do crescimento em erva aberta longe das árvores. É rara em grande parte da sua área; na República Checa está avaliada como criticamente em perigo (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mare, complet albă, de pajiști, cu pălărie zbârlită și negoasă, un inel lat și dublu și un picior acoperit, sub inel, de benzi de solzi ascuțiți și ridicați. Spre deosebire de amanitele propriu-zise, nu formează micoriză și crește în iarbă deschisă, departe de copaci, pe pajiști, stepe, pășuni, în parcuri și pe gazon, mai ales în părțile mai calde ale Europei. Comestibilitatea ei este controversată și se confundă ușor cu amanite albe mortale, de aceea nu trebuie consumată.",
+      "cap": "Pălăria are 7–17 cm în diametru, uneori până la 20 cm; la început globuloasă, apoi emisferică și convexă, în final plan-convexă. Suprafața este uscată, albă până la crem sau ivorie, cu vârsta ocru-pal până la brunie la centru, și acoperită de resturi ale vălului general: la centru negi deși, ascuțiți, piramidali, care spre margine trec în solzi mai plați, imbricați, în plăci. Marginea depășește lamelele, nu este striată și poartă fâșii de văl atârnânde.",
+      "hymenium": "Lamele libere, dese, late și destul de groase, albe până la crem, uneori cu o nuanță crem-verzuie până la galben-verzui pal, cu numeroase lamelule; muchia este fin franjurată.",
+      "stipe": "Piciorul are 8–16 cm lungime, uneori până la 20 cm, și 1,5–3 cm grosime; robust, cilindric, ușor îngustat spre vârf, plin și alb. Deasupra inelului este neted, iar de la inel până la bază este acoperit de benzi concentrice de solzi ascuțiți, ridicați, care se brunifică odată cu vârsta și la atingere. Inelul este așezat sus, imediat sub pălărie; este lat, membranos, alb și dublu, neted deasupra și vătos dedesubt, cu marginea neregulată și dințată. Baza se subțiază și pătrunde în sol ca o rădăcină, fără bulb; vălul general lasă doar solzi și nu există volvă în formă de sac.",
+      "flesh": "Carnea este albă și fermă, neschimbătoare la tăiere sau îngălbenind slab spre baza piciorului. Mirosul este la început slab și poate deveni dulceag sau neplăcut cu vârsta; gustul este blând.",
+      "sporePrint": "Sporea albă. Spori larg elipsoidali până la subglobuloși, netezi și amiloizi, de aproximativ 9–15 × 6,5–11 µm, mai ales 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofă, nu formează micoriză. Crește pe pajiști deschise, pe sol bogat, adesea neutru până la bazic: pe fânețe, versanți stepici, pășuni, în parcuri, pe gazon, în livezi de măslini și pe câmpuri vechi, uneori și la marginea pădurilor. Apare izolat, în grupuri mici sau în cercuri ale vrăjitoarelor, iar corpurile fructifere pot supraviețui secetei și își pot relua creșterea după ploaie. Este o specie termofilă, semnalată din Insulele Britanice și zona mediteraneeană spre est până în Ucraina, cu alte semnalări din regiunea Caucazului și din Asia de vest. Fructifică din mai până în octombrie, mai ales la sfârșitul verii și toamna.",
+      "uses": "Nu se recomandă consumul. Datele diferă: unele surse spaniole, franceze și nord-africane o consideră comestibilă, altele o descriu ca toxică sau probabil ușor toxică, iar nicio intoxicație nu i-a fost atribuită cu certitudine. Raritatea ei și marea asemănare cu amanitele albe mortale sunt motive temeinice de a o lăsa în pace.",
+      "confusion": "Amanita echinocephala și Amanita solitaria sunt și ele albicioase, cu negi ascuțiți pe pălărie, dar au la baza piciorului un bulb îngroșat, radicant, încercuit de negi, și cresc lângă copaci. Amanita strobiliformis are un bulb mare și resturi de văl moi, în plăci alb-cenușii, pe pălărie. Mortala Amanita virosa și formele albe ale buretelui viperei (Amanita phalloides) au pălăria netedă și o volvă în formă de sac la bază. Macrolepiota procera are solzi bruni pe pălărie, un picior pestrițat cu brun și un inel mobil, iar Echinoderma asperum este mai mică, cu negi bruni erecți și un picior mai subțire.",
+      "notes": "Cele mai bune caractere sunt corpul fructifer complet alb, baza piciorului radicantă fără bulb sau volvă și benzile de solzi ridicați sub marele inel dublu, împreună cu creșterea în iarbă deschisă, departe de copaci. Este rară în mare parte din areal; în Cehia este evaluată ca specie critic periclitată (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крупный, целиком белый гриб травянистых мест с лохматой, бородавчатой шляпкой, широким двойным кольцом и ножкой, покрытой ниже кольца поясками оттопыренных заострённых чешуек. В отличие от настоящих мухоморов не образует микоризы и растёт в открытой траве вдали от деревьев — на лугах, в степях, на пастбищах, в парках и на газонах, преимущественно в тёплых районах Европы. Его съедобность спорна, а спутать его со смертельно ядовитыми белыми мухоморами легко, поэтому есть его не следует.",
+      "cap": "Шляпка 7–17 см в диаметре, иногда до 20 см; сначала шаровидная, затем полушаровидная и выпуклая, в конце плоско-выпуклая. Поверхность сухая, белая, кремовая или цвета слоновой кости, с возрастом в центре бледно-охристая до буроватой, покрыта остатками общего покрывала: в центре густыми, острыми, пирамидальными бородавками, которые к краю переходят в более плоские, черепитчато налегающие лоскутовидные чешуйки. Край выступает за пластинки, не рубчатый, с него свисают обрывки покрывала.",
+      "hymenium": "Пластинки свободные, частые, широкие и довольно толстые, белые до кремовых, иногда с зеленовато-кремовым до бледного зеленовато-жёлтого оттенком, с многочисленными пластиночками; край тонко бахромчатый.",
+      "stipe": "Ножка 8–16 см длиной, иногда до 20 см, и 1,5–3 см толщиной; крепкая, цилиндрическая, слегка сужающаяся кверху, сплошная, белая. Выше кольца она гладкая, а от кольца до основания покрыта концентрическими поясками острых, загнутых вверх чешуек, которые с возрастом и от прикосновения буреют. Кольцо расположено высоко, сразу под шляпкой; оно широкое, плёнчатое, белое и двойное, сверху гладкое, снизу ватообразное, с неровным зубчатым краем. Основание сужается и укореняется в почве без клубня; общее покрывало оставляет лишь чешуйки, мешковидной вольвы нет.",
+      "flesh": "Мякоть белая, плотная, на срезе не меняется или к основанию ножки слегка желтеет. Запах сначала слабый, с возрастом может становиться сладковатым или неприятным; вкус мягкий.",
+      "sporePrint": "Споровый порошок белый. Споры широкоэллипсоидные до почти шаровидных, гладкие, амилоидные, около 9–15 × 6,5–11 мкм, чаще 10–13 × 7,5–10 мкм.",
+      "habitat": "Сапротроф, микоризы не образует. Растёт на открытых травянистых местах на богатой, часто нейтральной или щелочной почве: на лугах, степных склонах, пастбищах, в парках, на газонах, в оливковых рощах и на старых полях, иногда и на опушках. Встречается одиночно, небольшими группами или «ведьмиными кольцами»; плодовые тела переживают засуху и после дождя продолжают расти. Теплолюбивый вид, известен от Британских островов и Средиземноморья на восток до Украины, а также из Кавказского региона и Западной Азии. Плодоносит с мая по октябрь, главным образом в конце лета и осенью.",
+      "uses": "Употреблять в пищу не рекомендуется. Сведения противоречивы: одни испанские, французские и североафриканские источники называют его съедобным, другие описывают как ядовитый или, вероятно, слабоядовитый, и ни одно отравление достоверно с ним не связано. Редкость гриба и его большое сходство со смертельно ядовитыми белыми мухоморами — веские причины его не трогать.",
+      "confusion": "Amanita echinocephala и Amanita solitaria тоже беловатые, с острыми бородавками на шляпке, но у основания ножки у них вздутый укореняющийся клубень, опоясанный бородавками, и растут они с деревьями. Amanita strobiliformis имеет крупный клубень и мягкие лоскутовидные серовато-белые остатки покрывала на шляпке. Смертельно ядовитый мухомор вонючий (Amanita virosa) и белые формы бледной поганки (Amanita phalloides) имеют гладкую шляпку и мешковидную вольву у основания. Гриб-зонтик пёстрый (Macrolepiota procera) отличается бурыми чешуйками на шляпке, бурой узорчатой ножкой и подвижным кольцом, а Echinoderma asperum мельче, с бурыми торчащими бородавками и более тонкой ножкой.",
+      "notes": "Лучшие признаки — целиком белое плодовое тело, укореняющееся основание ножки без клубня и вольвы и пояски оттопыренных чешуек под крупным двойным кольцом, а также рост в открытой траве вдали от деревьев. На большей части ареала вид редок; в Чехии он оценён как находящийся на грани исчезновения (Critically Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%92%D0%B8%D1%82%D1%82%D0%B0%D0%B4%D0%B8%D0%BD%D0%B8"
+      ],
+      "label": "мухомор Виттадини"
+    },
+    "sk": {
+      "description": "Veľká, celá biela huba trávnatých miest so strapatým, bradavičnatým klobúkom, širokým dvojitým prsteňom a hlúbikom, ktorý je pod prsteňom pokrytý pásmi odstávajúcich, špicatých šupín. Na rozdiel od pravých muchotrávok netvorí mykorízu a rastie v otvorenej tráve ďaleko od stromov, na lúkach, stepiach, pasienkoch, v parkoch a na trávnikoch, najmä v teplejších častiach Európy. Jej jedlosť je sporná a ľahko sa zamení so smrteľne jedovatými bielymi muchotrávkami, preto sa nemá jesť.",
+      "cap": "Klobúk má 7–17 cm, výnimočne až 20 cm; najprv je guľovitý, potom polguľovitý a klenutý, napokon ploskoklenutý. Povrch je suchý, biely až krémový alebo slonovinový, v starobe v strede svetlo okrový až hnedastý, a pokrytý zvyškami celkového závoja: v strede hustými, špicatými, pyramídovitými bradavicami, ktoré smerom k okraju prechádzajú do plochších, strechovito sa prekrývajúcich, škvrnitých šupín. Okraj presahuje lupene, nie je ryhovaný a visia z neho cáriky závoja.",
+      "hymenium": "Lupene sú voľné, husté, široké a dosť hrubé, biele až krémové, niekedy so zelenkastokrémovým až svetlo zelenožltým nádychom, s početnými lupienkami; ostrie je jemne strapkaté.",
+      "stipe": "Hlúbik je 8–16 cm dlhý, výnimočne až 20 cm, a 1,5–3 cm hrubý; statný, valcovitý, navrchu mierne zúžený, plný a biely. Nad prsteňom je hladký a od prsteňa až po bázu pokrytý sústrednými pásmi špicatých, odstávajúcich šupín, ktoré starnutím a dotykom hnednú. Prsteň sedí vysoko, tesne pod klobúkom; je široký, blanitý, biely a dvojitý, navrchu hladký a zospodu vatovitý, s nepravidelným, zúbkatým okrajom. Báza sa zužuje a koreňovito vniká do pôdy bez hľuzy; celkový závoj zanecháva len šupiny a vrecovitá pošva chýba.",
+      "flesh": "Dužina je biela a pevná, na reze sa nemení alebo k báze hlúbika slabo žltne. Vôňa je spočiatku slabá a v starobe môže byť nasladlá až nepríjemná; chuť je mierna.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú široko elipsoidné až takmer guľovité, hladké a amyloidné, asi 9–15 × 6,5–11 µm, väčšinou 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofná, netvorí mykorízu. Rastie na otvorených trávnatých plochách na živnej, často neutrálnej až zásaditej pôde: na lúkach, stepných svahoch, pasienkoch, v parkoch, na trávnikoch, v olivových hájoch a na starých poliach, niekedy aj na okrajoch lesov. Vyrastá jednotlivo, v malých skupinách alebo v čarovných kruhoch a plodnice dokážu prečkať sucho a po daždi ďalej rásť. Je to teplomilný druh, známy od Britských ostrovov a Stredomoria na východ po Ukrajinu, s ďalšími nálezmi z oblasti Kaukazu a západnej Ázie. Plodnice tvorí od mája do októbra, hlavne koncom leta a na jeseň.",
+      "uses": "Na konzumáciu sa neodporúča. Údaje sa rozchádzajú: niektoré španielske, francúzske a severoafrické správy ju uvádzajú ako jedlú, iné ju opisujú ako jedovatú alebo pravdepodobne mierne jedovatú, a žiadna otrava s ňou nebola spoľahlivo spojená. Jej vzácnosť a veľká podobnosť so smrteľne jedovatými bielymi muchotrávkami sú pádnymi dôvodmi nechať ju tak.",
+      "confusion": "Amanita echinocephala a Amanita solitaria sú tiež belavé so špicatými bradavicami na klobúku, ale majú na báze hlúbika zhrubnutú, koreniacu hľuzu lemovanú bradavicami a rastú so stromami. Muchotrávka šiškovitá (Amanita strobiliformis) má veľkú hľuzu a na klobúku mäkké, škvrnité sivobiele zvyšky závoja. Smrteľne jedovatá muchotrávka jedovatá (Amanita virosa) a biele formy muchotrávky zelenej (Amanita phalloides) majú hladký klobúk a na báze vrecovitú pošvu. Bedľa vysoká (Macrolepiota procera) má hnedé šupiny na klobúku, hnedo hadovito pásikavý hlúbik a posuvný prsteň, a Echinoderma asperum je menšia, s hnedými vztýčenými bradavicami a tenším hlúbikom.",
+      "notes": "Najlepšími poznávacími znakmi sú celá biela plodnica, koreniaca báza hlúbika bez hľuzy a pošvy a pásy odstávajúcich šupín pod veľkým dvojitým prsteňom, spolu s rastom v otvorenej tráve ďaleko od stromov. Vo veľkej časti areálu je vzácna; v Českej republike je hodnotená ako kriticky ohrozený druh (Critically Endangered). Na Slovensku je veľmi zriedkavá a je známa len z niekoľkých lokalít.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Saproamanita-vittadinii/muchotravka-Vittadiniho/muchomurka-Vittadiniho/ID301",
+        "https://www.google.com/search?kgmid=%2Fm%2F0fqrl5n&q=Slovak+name+for+Saproamanita+vittadinii+muchotr%C3%A1vka+vittadiniho"
+      ],
+      "label": "muchotrávka Vittadiniho"
+    },
+    "sl": {
+      "description": "Velika, povsem bela goba travnatih površin s kosmatim, bradavičastim klobukom, širokim dvojnim obročkom in betom, ki je pod obročkom prekrit s pasovi štrlečih, koničastih lusk. Za razliko od pravih mušnic ne tvori mikorize in raste v odprti travi daleč od dreves, na travnikih, stepah, pašnikih, v parkih in na tratah, predvsem v toplejših delih Evrope. Njena užitnost je sporna in jo je lahko zamenjati s smrtno strupenimi belimi mušnicami, zato je ne jejte.",
+      "cap": "Klobuk meri 7–17 cm, izjemoma do 20 cm; sprva je kroglast, nato polkroglast in izbočen, nazadnje ploščato izbočen. Površina je suha, bela do kremasta ali slonokoščena, s starostjo na sredini bledo okrasta do rjavkasta, in prekrita z ostanki splošnega ovoja: na sredini z gostimi, koničastimi, piramidastimi bradavicami, ki proti robu prehajajo v bolj ploske, strehasto prekrivajoče se, krpaste luske. Rob sega čez lističe, ni progast in z njega visijo cunjice ovoja.",
+      "hymenium": "Lističi so prosti, gosti, široki in precej debeli, beli do kremasti, včasih z zelenkasto kremastim do bledo zelenkasto rumenim odtenkom, z mnogimi kratkimi lističi vmes; robovi so drobno resasti.",
+      "stipe": "Bet je dolg 8–16 cm, izjemoma do 20 cm, in debel 1,5–3 cm; čvrst, valjast, proti vrhu rahlo zožen, poln in bel. Nad obročkom je gladek, od obročka do dna pa prekrit s koncentričnimi pasovi koničastih, navzgor štrlečih lusk, ki s starostjo in ob dotiku porjavijo. Obroček je visoko, tik pod klobukom; je širok, kožnat, bel in dvojen, zgoraj gladek in spodaj vatast, z nepravilnim, nazobčanim robom. Dno se zožuje in korenasto sega v tla brez gomolja; splošni ovoj pusti le luske, vrečaste nožnice ni.",
+      "flesh": "Meso je belo in čvrsto, na prerezu se ne spreminja ali proti dnu beta rahlo porumeni. Vonj je sprva šibek, s starostjo lahko postane sladkoben ali neprijeten; okus je blag.",
+      "sporePrint": "Trosni prah je bel. Trosi so široko elipsoidni do skoraj kroglasti, gladki in amiloidni, približno 9–15 × 6,5–11 µm, večinoma 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrofna, ne tvori mikorize. Raste na odprtih travnatih površinah na hranljivih, pogosto nevtralnih do bazičnih tleh: na travnikih, stepskih pobočjih, pašnikih, v parkih, na tratah, v oljčnikih in na starih njivah, včasih tudi na gozdnih robovih. Pojavlja se posamič, v majhnih skupinah ali v čarovniških krogih, trosnjaki pa lahko preživijo sušo in po dežju rastejo naprej. Je toploljubna vrsta, znana od Britanskega otočja in Sredozemlja proti vzhodu do Ukrajine, z nadaljnjimi najdbami s Kavkaza in iz zahodne Azije. Trosnjake razvija od maja do oktobra, predvsem pozno poleti in jeseni.",
+      "uses": "Za uživanje ni priporočljiva. Podatki si nasprotujejo: nekateri španski, francoski in severnoafriški viri jo navajajo kot užitno, drugi jo opisujejo kot strupeno ali verjetno rahlo strupeno, nobena zastrupitev pa z njo ni bila zanesljivo povezana. Njena redkost in velika podobnost s smrtno strupenimi belimi mušnicami sta tehtna razloga, da jo pustite pri miru.",
+      "confusion": "Amanita echinocephala in Amanita solitaria sta prav tako belkasti s koničastimi bradavicami na klobuku, vendar imata na dnu beta odebeljen, ukoreninjen gomolj, obdan z bradavicami, in rasteta z drevesi. Amanita strobiliformis ima velik gomolj in na klobuku mehke, krpaste sivobele ostanke ovoja. Smrtno strupena Amanita virosa in bele oblike zelene mušnice (Amanita phalloides) imajo gladek klobuk in na dnu vrečasto nožnico. Orjaški dežnik (Macrolepiota procera) ima rjave luske na klobuku, rjavo, kačje progast bet in premičen obroček, Echinoderma asperum pa je manjša, z rjavimi, pokončnimi bradavicami in tanjšim betom.",
+      "notes": "Najboljši prepoznavni znaki so povsem bel trosnjak, ukoreninjeno dno beta brez gomolja in nožnice ter pasovi štrlečih lusk pod velikim dvojnim obročkom, skupaj z rastjo v odprti travi daleč od dreves. V velikem delu areala je redka; na Češkem je ocenjena kot skrajno ogrožena vrsta (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Велика, потпуно бела гљива травнатих површина са чупавим, брадавичастим шеширом, широким двоструким прстеном и дршком која је испод прстена покривена појасевима штрчећих, шиљатих љуспи. За разлику од правих мухара не гради микоризу и расте у отвореној трави далеко од дрвећа, на ливадама, степама, пашњацима, у парковима и на травњацима, углавном у топлијим деловима Европе. Јестивост јој је спорна и лако се замени са смртно отровним белим мухарама, па је не треба јести.",
+      "cap": "Шешир је широк 7–17 cm, изузетно до 20 cm; у почетку лоптаст, затим полулоптаст и испупчен, на крају пљоснато испупчен. Површина је сува, бела до крем или боје слоноваче, старењем у средини бледо окераста до смеђкаста, и покривена остацима општег вела: у средини густим, шиљатим, пирамидалним брадавицама које према ободу прелазе у пљоснатије, цреполико преклопљене, крпасте љуспе. Обод прелази преко листића, није избраздан и са њега висе крпице вела.",
+      "hymenium": "Листићи су слободни, густи, широки и прилично дебели, бели до крем, понекад са зеленкасто крем до бледо зеленкастожутим одсјајем, са много кратких листића између њих; ивице су ситно ресасте.",
+      "stipe": "Дршка је дуга 8–16 cm, изузетно до 20 cm, и дебела 1,5–3 cm; чврста, ваљкаста, према врху благо сужена, пуна и бела. Изнад прстена је глатка, а од прстена до основе покривена концентричним појасевима шиљатих, навише штрчећих љуспи које старењем и додиром посмеђе. Прстен је високо, одмах испод шешира; широк је, опнаст, бео и двострук, одозго гладак и одоздо ватаст, са неправилним, назубљеним ободом. Основа се сужава и корењасто улази у земљиште без кртоле; општи вео оставља само љуспе, а врећасте волве нема.",
+      "flesh": "Месо је бело и чврсто, на пресеку се не мења или према основи дршке слабо пожути. Мирис је у почетку слаб и старењем може постати слаткаст или непријатан; укус је благ.",
+      "sporePrint": "Отисак спора је бео. Споре су широко елипсоидне до готово лоптасте, глатке и амилоидне, око 9–15 × 6,5–11 µm, углавном 10–13 × 7,5–10 µm.",
+      "habitat": "Сапротрофна, не гради микоризу. Расте на отвореним травнатим површинама на хранљивом, често неутралном до базном земљишту: на ливадама, степским падинама, пашњацима, у парковима, на травњацима, у маслињацима и на старим њивама, понекад и на ободима шума. Јавља се појединачно, у малим групама или у вилинским круговима, а плодишта могу да преживе сушу и после кише наставе да расту. Топлољубива је врста, забележена од Британских острва и Средоземља на исток до Украјине, са даљим налазима са подручја Кавказа и из западне Азије. Плодишта образује од маја до октобра, углавном крајем лета и у јесен.",
+      "uses": "Не препоручује се за јело. Подаци се разликују: неки шпански, француски и северноафрички извори наводе је као јестиву, други је описују као отровну или вероватно благо отровну, а ниједно тровање није поуздано повезано са њом. Њена реткост и велика сличност са смртно отровним белим мухарама јаки су разлози да је оставите на миру.",
+      "confusion": "Amanita echinocephala и Amanita solitaria су такође беличасте са шиљатим брадавицама на шеширу, али имају на основи дршке задебљалу, укорењену кртолу оивичену брадавицама и расту уз дрвеће. Amanita strobiliformis има велику кртолу и на шеширу меке, крпасте сивобеле остатке вела. Смртно отровна бела пупавка (Amanita virosa) и бели облици зелене пупавке (Amanita phalloides) имају гладак шешир и врећасту волву на основи. Велика сунчаница (Macrolepiota procera) има смеђе љуспе на шеширу, смеђе, змијолико пругасту дршку и покретан прстен, а Echinoderma asperum је мања, са смеђим усправним брадавицама и тањом дршком.",
+      "notes": "Најбоља обележја за препознавање су потпуно бело плодиште, укорењена основа дршке без кртоле и волве и појасеви штрчећих љуспи испод великог двоструког прстена, уз раст у отвореној трави далеко од дрвећа. У великом делу ареала је ретка; у Чешкој је процењена као крајње угрожена врста (Critically Endangered).",
+      "names": [
+        "ливадска мухара"
+      ],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/%D0%9A%D1%80%D1%99%D1%83%D1%88%D1%82%D0%B0%D0%B2%D0%B0_%D0%BF%D0%BE%D0%B2%D0%BE%D1%98%D1%9A%D0%B0%D1%87%D0%B0",
+        "https://www.wikidata.org/wiki/Q922092",
+        "https://www.inaturalist.org/taxa/938922"
+      ],
+      "label": "крљуштава повојњача"
+    },
+    "sv": {
+      "description": "En stor, helt vit gräsmarkssvamp med lurvig, vårtig hatt, bred dubbel ring och en fot som nedanför ringen är klädd med band av utstående, spetsiga fjäll. Till skillnad från de egentliga flugsvamparna bildar den ingen mykorrhiza och växer i öppet gräs långt från träd, på ängar, stäpper, betesmarker, i parker och på gräsmattor, främst i Europas varmare delar. Dess ätlighet är omstridd och den förväxlas lätt med dödligt giftiga vita flugsvampar, så den bör inte ätas.",
+      "cap": "Hatt 7–17 cm bred, ibland upp till 20 cm; först klotformig, sedan halvklotformig och välvd, till sist flackt välvd. Ytan är torr, vit till krämfärgad eller elfenbensfärgad, med åldern blekt ockra till brunaktig i mitten, och täckt av rester av det allmänna höljet: i mitten täta, spetsiga, pyramidformade vårtor som mot kanten övergår i flatare, taktegellagda, fläckformiga fjäll. Kanten skjuter ut över skivorna, är inte fårad och bär hängande hyllerester.",
+      "hymenium": "Skivor fria, täta, breda och ganska tjocka, vita till krämfärgade, ibland med en grönaktigt krämfärgad till blekt grönaktigt gul ton, med många korta skivor emellan; eggen är fint fransad.",
+      "stipe": "Fot 8–16 cm lång, ibland upp till 20 cm, och 1,5–3 cm tjock; kraftig, cylindrisk, något avsmalnande uppåt, fylld och vit. Ovanför ringen är den slät, och från ringen ned till basen är den täckt av koncentriska band av spetsiga, uppåtriktade fjäll som brunnar med åldern och vid beröring. Ringen sitter högt, strax under hatten; den är bred, hinnaktig, vit och dubbel, slät ovan och vaddlik under, med oregelbunden, tandad kant. Basen smalnar av och rotar sig i jorden utan knöl; det allmänna höljet lämnar bara fjäll och det finns ingen säckformig strumpa.",
+      "flesh": "Kött vitt och fast, oföränderligt i snitt eller svagt gulnande mot fotbasen. Lukten är först svag och kan med åldern bli sötaktig eller obehaglig; smaken är mild.",
+      "sporePrint": "Sporpulver vitt. Sporer brett ellipsoida till nästan klotrunda, släta och amyloida, cirka 9–15 × 6,5–11 µm, mest 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotrof, bildar inte mykorrhiza. Växer i öppen gräsmark på näringsrik, ofta neutral till basisk jord: på ängar, stäppsluttningar, betesmarker, i parker, på gräsmattor, i olivlundar och på gamla åkrar, ibland även i skogsbryn. Den uppträder ensam, i små grupper eller i häxringar, och fruktkropparna kan överleva torka och växa vidare efter regn. Den värmeälskande arten är känd från Brittiska öarna och Medelhavsområdet österut till Ukraina, med ytterligare fynd från Kaukasusområdet och västra Asien. Fruktkroppar från maj till oktober, främst på sensommaren och hösten.",
+      "uses": "Avråds som matsvamp. Uppgifterna går isär: vissa spanska, franska och nordafrikanska källor kallar den ätlig, andra beskriver den som giftig eller troligen svagt giftig, och ingen förgiftning har säkert kopplats till den. Dess sällsynthet och stora likhet med de dödligt giftiga vita flugsvamparna är goda skäl att låta den stå.",
+      "confusion": "Amanita echinocephala och Amanita solitaria är också vitaktiga med spetsiga hattvårtor, men har vid fotbasen en uppsvälld, rotande knöl med bälten av vårtor och växer vid träd. Amanita strobiliformis har en stor knöl och mjuka, fläckformiga gråvita hyllerester på hatten. Den dödligt giftiga vita flugsvampen (Amanita virosa) och vita former av lömsk flugsvamp (Amanita phalloides) har slät hatt och en säckformig strumpa vid basen. Stolt fjällskivling (Macrolepiota procera) har bruna hattfjäll, en brunt ormskinnsmönstrad fot och en rörlig ring, och Echinoderma asperum är mindre, med bruna, upprätta vårtor och en tunnare fot.",
+      "notes": "De bästa kännetecknen är den helt vita fruktkroppen, den rotande fotbasen utan knöl eller strumpa och banden av utstående fjäll nedanför den stora dubbla ringen, tillsammans med växtsättet i öppet gräs långt från träd. Den är sällsynt i stora delar av utbredningsområdet; i Tjeckien bedöms den som akut hotad (Critically Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Çayırlarda yetişen, tamamen beyaz, büyük bir mantar; şapkası kabarık ve siğillidir, geniş çift halkası vardır ve sapı halkanın altında dışa kalkık, sivri pulların oluşturduğu kuşaklarla kaplıdır. Gerçek Amanita türlerinden farklı olarak mikoriza oluşturmaz; ağaçlardan uzakta, açık çimenlikte, çayırlarda, bozkırlarda, otlaklarda, parklarda ve çimlerde, daha çok Avrupa’nın sıcak bölgelerinde yetişir. Yenebilirliği tartışmalıdır ve ölümcül zehirli beyaz Amanita türleriyle kolayca karıştırılır; bu nedenle yenmemelidir.",
+      "cap": "Şapka 7–17 cm çapında, bazen 20 cm’ye kadar; önce küremsi, sonra yarım küre biçimli ve dışbükey, en sonunda yassı dışbükeydir. Yüzey kuru, beyazdan krem rengine ya da fildişi rengine kadar değişir, yaşla birlikte ortası soluk okr ile kahverengimsi olur ve genel örtünün kalıntılarıyla kaplıdır: ortada sık, sivri, piramit biçimli siğiller bulunur, bunlar kenara doğru daha yassı, kiremit gibi üst üste binen, yama biçimli pullara dönüşür. Kenar lamellerin ötesine taşar, çizgili değildir ve üzerinde sarkan örtü parçaları bulunur.",
+      "hymenium": "Lameller serbest, sık, geniş ve oldukça kalın, beyazdan kreme kadar, bazen yeşilimsi krem ile soluk yeşilimsi sarı tonlu, aralarında çok sayıda kısa lamel bulunur; kenarları ince saçaklıdır.",
+      "stipe": "Sap 8–16 cm uzunluğunda, bazen 20 cm’ye kadar, ve 1,5–3 cm kalınlığındadır; sağlam, silindirik, uca doğru hafifçe incelen, dolgun ve beyazdır. Halkanın üstünde düzdür, halkadan tabana kadar ise yaşla ve dokunulunca kahverengileşen, sivri, yukarı kalkık pulların eş merkezli kuşaklarıyla kaplıdır. Halka yüksekte, şapkanın hemen altında yer alır; geniş, zarsı, beyaz ve çifttir, üstü düz, altı pamuksu, kenarı düzensiz ve dişlidir. Taban incelir ve yumru oluşturmadan toprağa kök salar; genel örtü yalnızca pullar bırakır ve torba biçimli volva yoktur.",
+      "flesh": "Eti beyaz ve sıkıdır, kesilince değişmez ya da sap tabanına doğru hafifçe sararır. Kokusu başta zayıftır, yaşla birlikte tatlımsı ya da hoş olmayan bir hal alabilir; tadı yumuşaktır.",
+      "sporePrint": "Spor izi beyazdır. Sporlar geniş elipsoit ile neredeyse küresel arası, düz ve amiloittir, yaklaşık 9–15 × 6,5–11 µm, çoğunlukla 10–13 × 7,5–10 µm.",
+      "habitat": "Saprotroftur, mikoriza oluşturmaz. Besince zengin, çoğu kez nötr ile bazik topraklardaki açık çayırlarda yetişir: çayırlarda, bozkır yamaçlarında, otlaklarda, parklarda, çimlerde, zeytinliklerde ve eski tarlalarda, bazen de orman kenarlarında. Tek tek, küçük gruplar hâlinde ya da cadı halkaları oluşturarak çıkar; meyve gövdeleri kuraklığa dayanabilir ve yağmurdan sonra büyümeye devam edebilir. Sıcağı seven bir türdür; Britanya Adaları ve Akdeniz’den doğuda Ukrayna’ya kadar kaydedilmiştir, ayrıca Kafkasya bölgesinden ve Batı Asya’dan kayıtları vardır. Mayıstan ekime kadar, özellikle yaz sonunda ve sonbaharda meyve verir.",
+      "uses": "Yenmesi önerilmez. Bilgiler çelişkilidir: bazı İspanyol, Fransız ve Kuzey Afrika kaynakları onu yenebilir sayar, diğerleri zehirli ya da muhtemelen hafif zehirli olarak tanımlar ve hiçbir zehirlenme kesin olarak ona bağlanmamıştır. Nadir oluşu ve ölümcül zehirli beyaz Amanita türlerine büyük benzerliği, onu yerinde bırakmak için güçlü nedenlerdir.",
+      "confusion": "Amanita echinocephala ve Amanita solitaria da beyazımsıdır ve şapkalarında sivri siğiller vardır, ancak sap tabanlarında siğil kuşaklarıyla çevrili şişkin, kök salan bir yumru bulunur ve ağaçlarla birlikte yetişirler. Amanita strobiliformis büyük bir yumruya ve şapkasında yumuşak, yama biçimli grimsi beyaz örtü kalıntılarına sahiptir. Ölümcül zehirli Amanita virosa ve köygöçüren mantarının (Amanita phalloides) beyaz formları düz şapkalıdır ve tabanlarında torba biçimli bir volva bulunur. Şemsiye mantarı (Macrolepiota procera) kahverengi şapka pullarına, kahverengi desenli bir sapa ve hareket ettirilebilen bir halkaya sahiptir; Echinoderma asperum ise daha küçüktür, kahverengi dik siğilleri ve daha ince bir sapı vardır.",
+      "notes": "En iyi ayırt edici özellikler tamamen beyaz meyve gövdesi, yumru ya da volva olmadan kök salan sap tabanı ve büyük çift halkanın altındaki kalkık pul kuşaklarıdır; buna ağaçlardan uzakta açık çimenlikte yetişmesi eklenir. Yayılış alanının büyük bölümünde nadirdir; Çekya’da Kritik Tehlikede (Critically Endangered) olarak değerlendirilmektedir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий, цілком білий гриб трав’янистих місць із кошлатим, бородавчастим капелюшком, широким подвійним кільцем і ніжкою, вкритою нижче кільця поясками відстовбурчених загострених лусочок. На відміну від справжніх мухоморів не утворює мікоризи й росте у відкритій траві далеко від дерев — на луках, у степах, на пасовищах, у парках і на газонах, переважно в теплих районах Європи. Його їстівність спірна, а сплутати його зі смертельно отруйними білими мухоморами легко, тому їсти його не слід.",
+      "cap": "Капелюшок 7–17 см у діаметрі, іноді до 20 см; спершу кулястий, потім напівкулястий і опуклий, зрештою плоско-опуклий. Поверхня суха, біла, кремова або кольору слонової кістки, з віком у центрі блідо-вохриста до буруватої, вкрита залишками загального покривала: у центрі густими, гострими, пірамідальними бородавками, що до краю переходять у пласкіші, черепичасто налеглі клаптеподібні лусочки. Край виступає за пластинки, не рубчастий, з нього звисають клапті покривала.",
+      "hymenium": "Пластинки вільні, часті, широкі й досить товсті, білі до кремових, іноді із зеленкувато-кремовим до блідого зеленкувато-жовтого відтінком, з численними пластиночками; край тонко бахромчастий.",
+      "stipe": "Ніжка 8–16 см завдовжки, іноді до 20 см, і 1,5–3 см завтовшки; міцна, циліндрична, трохи звужена догори, суцільна, біла. Вище кільця вона гладенька, а від кільця до основи вкрита концентричними поясками гострих, загнутих догори лусочок, що з віком і від дотику буріють. Кільце розташоване високо, одразу під капелюшком; воно широке, плівчасте, біле й подвійне, зверху гладеньке, знизу ватоподібне, з нерівним зубчастим краєм. Основа звужується й укорінюється в ґрунті без бульби; загальне покривало залишає лише лусочки, мішкоподібної вольви немає.",
+      "flesh": "М’якуш білий, щільний, на розрізі не змінюється або до основи ніжки злегка жовтіє. Запах спершу слабкий, з віком може ставати солодкуватим чи неприємним; смак м’який.",
+      "sporePrint": "Споровий порошок білий. Спори широкоеліпсоподібні до майже кулястих, гладенькі, амілоїдні, близько 9–15 × 6,5–11 мкм, здебільшого 10–13 × 7,5–10 мкм.",
+      "habitat": "Сапротроф, мікоризи не утворює. Росте на відкритих трав’янистих місцях на багатому, часто нейтральному чи лужному ґрунті: на луках, степових схилах, пасовищах, у парках, на газонах, в оливкових гаях і на старих полях, іноді й на узліссях. Трапляється поодинці, невеликими групами або «відьминими кільцями»; плодові тіла переживають посуху й після дощу ростуть далі. Теплолюбний вид, відомий від Британських островів і Середземномор’я на схід до України, а також із Кавказького регіону та Західної Азії. Плодоносить із травня по жовтень, головним чином наприкінці літа й восени.",
+      "uses": "Вживати в їжу не рекомендується. Відомості суперечливі: одні іспанські, французькі та північноафриканські джерела називають його їстівним, інші описують як отруйний або, ймовірно, слабкоотруйний, і жодне отруєння достовірно з ним не пов’язане. Рідкісність гриба та велика схожість зі смертельно отруйними білими мухоморами — вагомі причини його не чіпати.",
+      "confusion": "Amanita echinocephala та Amanita solitaria також білуваті, з гострими бородавками на капелюшку, але біля основи ніжки мають здуту вкорінену бульбу, оперезану бородавками, і ростуть із деревами. Amanita strobiliformis має велику бульбу та м’які клаптеподібні сірувато-білі залишки покривала на капелюшку. Смертельно отруйний мухомор смердючий (Amanita virosa) і білі форми блідої поганки (Amanita phalloides) мають гладенький капелюшок і мішкоподібну вольву біля основи. Гриб-зонтик великий (Macrolepiota procera) має бурі лусочки на капелюшку, буру візерунчасту ніжку та рухоме кільце, а Echinoderma asperum дрібніша, з бурими стирчащими бородавками й тоншою ніжкою.",
+      "notes": "Найкращі ознаки — цілком біле плодове тіло, вкорінена основа ніжки без бульби й вольви та пояски відстовбурчених лусочок під великим подвійним кільцем, а також ріст у відкритій траві далеко від дерев. На більшій частині ареалу вид рідкісний; у Чехії його оцінено як такий, що перебуває під критичною загрозою (Critically Endangered).",
+      "names": [
+        "мухомор Віттадіні"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9322084/vernacularNames",
+        "https://www.inaturalist.org/taxa/938922"
+      ],
+      "label": "мухомор степовий"
+    },
+    "zh": {
+      "description": "一種生於草地、體型大而全身白色的菇類，菌蓋蓬亂並布滿疣狀物，具寬闊的雙層菌環，菌柄在菌環以下覆有一圈圈翹起的尖鱗片。與真正的鵝膏菌不同，它不形成菌根，生長在遠離樹木的開闊草地上，如草甸、草原、牧場、公園和草坪，主要分布於歐洲較溫暖的地區。其可食性有爭議，且容易與致命的白色鵝膏菌混淆，因此不應食用。",
+      "cap": "菌蓋直徑 7–17 cm，偶可達 20 cm；初呈球形，後為半球形至凸鏡形，最後為平凸形。表面乾燥，白色至奶油色或象牙色，老後中央轉為淡赭色至淺褐色，並覆有外菌幕殘餘：中央為密集、尖銳的角錐狀疣，向邊緣漸變為較扁平、覆瓦狀重疊的片狀鱗片。邊緣超出菌褶，無條紋，並垂掛菌幕碎片。",
+      "hymenium": "菌褶離生，密，寬而頗厚，白色至奶油色，有時帶淡綠奶油色至淡黃綠色，其間有許多短菌褶；褶緣具細緣毛。",
+      "stipe": "菌柄長 8–16 cm，偶可達 20 cm，粗 1.5–3 cm；粗壯，圓柱形，向上稍細，實心，白色。菌環以上光滑，自菌環至基部覆有同心環帶狀、尖而向上翹起的鱗片，老後及觸摸後變褐色。菌環位置高，緊貼菌蓋之下；寬闊、膜質、白色、雙層，上表面光滑，下表面棉絮狀，邊緣不規則並呈齒狀。基部漸細，無膨大的球莖，像根一樣伸入土中；外菌幕只留下鱗片，沒有囊狀菌托。",
+      "flesh": "菌肉白色而緊實，切開後不變色，或向菌柄基部略轉黃。氣味起初微弱，老後可能變得甜膩或令人不快；味道溫和。",
+      "sporePrint": "孢子印白色。孢子寬橢圓形至近球形，光滑，類澱粉質，約 9–15 × 6.5–11 µm，多為 10–13 × 7.5–10 µm。",
+      "habitat": "腐生，不形成菌根。生長於土壤肥沃、常為中性至鹼性的開闊草地：草甸、草原坡地、牧場、公園、草坪、橄欖園和舊田地，有時也見於林緣。單生、小群生或形成蘑菇圈，子實體能耐乾旱，雨後可繼續生長。為喜溫物種，記錄自不列顛群島和地中海地區向東至烏克蘭，並在高加索地區和西亞也有記錄。五月至十月出菇，主要在夏末和秋季。",
+      "uses": "不建議食用。資料互相矛盾：部分西班牙、法國及北非的記載稱其可食，另一些則描述為有毒或可能微毒，且沒有任何中毒事件被確切歸因於它。它的稀有以及與致命白色鵝膏菌的高度相似，都是不採的充分理由。",
+      "confusion": "Amanita echinocephala 和 Amanita solitaria 同樣偏白、菌蓋上有尖疣，但菌柄基部有膨大而生根、外圍環繞疣帶的球莖，且與樹木共生。Amanita strobiliformis 有大型球莖，菌蓋上有柔軟、片狀的灰白色菌幕殘餘。致命的 Amanita virosa 以及綠蓋鵝膏 (Amanita phalloides) 的白色型菌蓋光滑，基部具囊狀菌托。高大環柄菇 (Macrolepiota procera) 菌蓋有褐色鱗片，菌柄有褐色花紋，菌環可移動；Echinoderma asperum 則較小，具褐色直立的疣和較細的菌柄。",
+      "notes": "最好的辨識特徵是全身白色的子實體、無球莖也無菌托而生根的菌柄基部，以及大型雙層菌環下方翹起的鱗片環帶，再加上生長於遠離樹木的開闊草地。它在分布範圍的大部分地區都很稀少；在捷克被評為極危（Critically Endangered）。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q922092"
+      ],
+      "label": "白鱗粗柄鵝膏"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Amanita vittadinii",
+      "author": "(Moretti) Vittad.",
+      "year": 1826,
+      "rank": "species",
+      "type": "synonym",
+      "if": 174636
+    },
+    {
+      "name": "Agaricus vittadinii",
+      "author": "Moretti",
+      "year": 1826,
+      "rank": "species",
+      "type": "basionym",
+      "if": null
+    },
+    {
+      "name": "Lepiota vittadinii",
+      "author": "(Moretti) Quél.",
+      "year": 1873,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Lepidella vittadinii",
+      "author": "(Moretti) E.-J. Gilbert",
+      "year": 1925,
+      "rank": "species",
+      "type": "synonym",
+      "if": 281960
+    },
+    {
+      "name": "Aspidella vittadinii",
+      "author": "(Moretti) E.-J. Gilbert",
+      "year": 1940,
+      "rank": "species",
+      "type": "synonym",
+      "if": 284336
+    },
+    {
+      "name": "Armillaria vittadinii",
+      "author": "(Moretti) Locq.",
+      "year": 1952,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    }
+  ],
+  "reserved": false,
+  "id": 217,
+  "citation": "IMA Fungus 7(1): 124 (2016)"
 }
 ];

@@ -1146,5 +1146,14 @@ export const TAXA = {
   Phaeolus: {
     rank: "genus",
     sk: "hnedák"
+  },
+  Macrocystidiaceae: {
+    rank: "family"
+  },
+  Macrocystidia: {
+    rank: "genus"
+  },
+  Saproamanita: {
+    rank: "genus"
   }
 };
