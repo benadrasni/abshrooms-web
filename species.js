@@ -219293,5 +219293,2132 @@ export const CATALOG = [
   "reserved": false,
   "id": 217,
   "citation": "IMA Fungus 7(1): 124 (2016)"
+},
+{
+  "name": "Pholiota lenta",
+  "author": "(Pers.) Singer",
+  "family": "Strophariaceae",
+  "genus": "Pholiota",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Strophariaceae",
+    "Pholiota"
+  ],
+  "summary": [
+    "Agaricales",
+    "Strophariaceae",
+    "Pholiota"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood",
+    "ground"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 8.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 0.4,
+  "stipeThickTo": 1.2,
+  "fruitingFrom": 9,
+  "fruitingTo": 12,
+  "label": {
+    "cs": "šupinovka šedohlínová",
+    "da": "løv-skælhat",
+    "de": "Tonweißer Schüppling",
+    "es": "foliota flexible",
+    "et": "valkjas mampel",
+    "fi": "limahelokka",
+    "fr": "pholiote glutineuse",
+    "hr": "žilava ljuskavica",
+    "hu": "fakó tőkegomba",
+    "ja": "シロナメツムタケ",
+    "ko": "흰비늘버섯",
+    "lt": "švelniaspalvė skujagalvė",
+    "lv": "mālubālā zvīņene",
+    "nl": "slijmerige blekerik",
+    "no": "slimskjellsopp",
+    "pl": "łuskwiak śluzowaty",
+    "ru": "чешуйчатка клейкая",
+    "sk": "šupinovka hlinovookrová",
+    "sl": "bledi luskinar",
+    "sv": "slemflamskivling",
+    "zh": "黏鳞伞"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "plaménka šedohlínová"
+    ],
+    "da": [],
+    "de": [
+      "Tonfalber Schüppling",
+      "Tonblasser Schüppling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "fakó lánggomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "slimskjelsopp"
+    ],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "lövtofsskivling",
+      "slemmig flamskivling"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "粘鳞伞"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=115388",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=115388",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=115388",
+      "https://species.data.kew.org/species/115388",
+      "https://www.gbif.org/species/9091857",
+      "https://www.wikidata.org/wiki/Q2442393",
+      "https://www.inaturalist.org/taxa/351824",
+      "https://www.mykoweb.com/Pholiota/species/Pholiota_lenta.html",
+      "https://mushrooms.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=100272",
+      "https://fungusradar.com/atlas/pholiota-lenta/",
+      "https://www.myko.cz/myko-atlas/Pholiota-lenta/"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Pholiota-lenta/",
+      "https://cs.wikipedia.org/wiki/%C5%A0upinovka_%C5%A1edohl%C3%ADnov%C3%A1"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://de.wikipedia.org/wiki/Tonwei%C3%9Fer_Sch%C3%BCppling",
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames"
+    ],
+    "et": [
+      "https://www.inaturalist.org/taxa/351824",
+      "https://www.wikidata.org/wiki/Q2442393",
+      "https://et.wikipedia.org/wiki/Valkjas_mampel"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824",
+      "https://fi.wikipedia.org/wiki/Limahelokka"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/%C5%BDilava_ljuskavica",
+      "https://www.wikidata.org/wiki/Q2442393"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Fak%C3%B3_t%C5%91kegomba",
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824",
+      "https://www.wikidata.org/wiki/Q2442393"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "ko": [
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "lt": [
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "lv": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "nl": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Slijmerige_blekerik",
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/%C5%81uskwiak_%C5%9Bluzowaty",
+      "https://www.wikidata.org/wiki/Q2442393",
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/351824"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Bledi_luskinar",
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824",
+      "https://www.wikidata.org/wiki/Q2442393"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Slemflamskivling",
+      "https://api.gbif.org/v1/species/9091857/vernacularNames",
+      "https://www.inaturalist.org/taxa/351824",
+      "https://www.wikidata.org/wiki/Q2442393"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q2442393",
+      "https://www.inaturalist.org/taxa/351824"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "credit": "Plate authored “Adrian Benko (Gemini)” per standing Gemini-plate credit. The supplied file “Pholiota lenta.png” (from ~/Downloads; JPEG/JFIF bytes in a .png name, 896×1200, SHA-256 ac12729e30eb4b4a9ddb21eb7d2476448901d389f80ba912dd63688d0eb6aa3b; also present as Pholiota squarrosa.png, which was not used) is used as supplied: only a uniform Lanczos resize (2×) to cover 1600×2400, then a centre crop that removes 48 source pixels of cream paper margin from each side to reach exactly 2:3 (ink remains inside the crop: left margin 84 px, right 69 px). No compositing, background replacement, cutout, fill or restoration. The existing cursive “Gemini” mark at the lower right is kept exactly as found. It is AI art, not a documented historical botanical plate. The composition shows a mature slimy pale cap with a darker centre, hanging slime and white flecks, a shaggy white-scaly stem browning towards the base in beech litter with a twig and a beechnut husk; a young specimen; an underside with close brownish gills; and a longitudinal section with whitish flesh. Anatomy mismatch: slime at the mature cap margin is drawn as hanging droplets, which is stylized; the young specimen’s gills are somewhat exposed rather than still covered by a copious cobwebby veil; the longitudinal section does not show the darker cap disc; and a distinct ring zone is not clearly marked on the mature stem (the ring is fleeting in life). The plate is slightly soft because the source was enlarged 2×.",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta@1600.webp",
+    "basedOn": []
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_1.webp",
+      "author": "Snap",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/325696629"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_2.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/247099442"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_3.webp",
+      "author": "Denis Otkydach",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/100789800"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_4.webp",
+      "author": "victor laborde",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/247697776"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_5.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/325544633"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_1.webp",
+      "author": "Snap",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/325696629"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_2.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/247099442"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_3.webp",
+      "author": "Denis Otkydach",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/100789800"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_4.webp",
+      "author": "victor laborde",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/247697776"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Strophariaceae/Pholiota_lenta/Pholiota_lenta_5.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/325544633"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر صفائحي شاحب شديد اللزوجة، يبدو في كثير من الأحيان وكأنه ينمو من التربة لكنه متصل بخشب متعفن مدفون وأغصان دقيقة وفرش، خاصة في غابات الزان. القبعة بيضاء مائلة إلى المغرة الطينية، بمركز أغمق، وفي المخاط قشور بيضاء متفرقة من الحجاب. الساق بيضاء، وتحت منطقة حلقية ضعيفة سريعة الزوال تكون كثيفة بقشور بيضاء وبرية؛ وتسمر نحو القاعدة. النوع منتشر في أوروبا ويُذكر أيضًا في أمريكا الشمالية، ولا سيما في الخريف.",
+      "cap": "القبعة 3–8 سم، وأحيانًا حتى 10 سم. تكون في البداية نصف كروية، بحافة ملتفة إلى الداخل وحجاب أبيض عنكبوتي، ثم محدبة وأخيرًا مسطحة على نطاق واسع، وأحيانًا بحافة مرتفعة. السطح لزج، وفي الرطوبة شديد اللزوجة ولامع، أبيض إلى كريمي شاحب أو رمادي مغري أو وردي بيج خفيف، بمركز أغمق بوضوح، بني مغري إلى بني طيني، وحافة أشحب. في المخاط قشور ليفية بيضاء صغيرة وبقايا حجاب، وكثيرًا ما تتدلى من الحافة بقايا حجاب بيضاء وقتًا طويلًا قبل أن تستوي القبعة. جلد القبعة مرن ويمكن تقشيره.",
+      "hymenium": "الصفائح متقاربة، ضيقة إلى متوسطة العرض إلى حد ما، وملتصقة بالساق (adnate)، وأحيانًا بسن صغير ينزل على الساق. تكون أولًا بيضاء، ثم رمادية مغرية أو بنية طينية أو رمادية بنية شاحبة، وأحيانًا بلمسة صفراء زيتونية؛ والحافة مستوية إلى مهدبة بدقة وكثيرًا ما تكون أشحب. في الأجسام الثمرية الفتية يغطيها حجاب أبيض عنكبوتي وفير.",
+      "stipe": "الساق طولها 3–8 سم، وأحيانًا حتى 10–12 سم، وسُمكها 0.4–1.2 سم؛ متينة، أسطوانية، وكثيرًا ما تكون منحنية قليلًا أو مثخنة قليلًا عند القاعدة، ممتلئة إلى إسفنجية قليلًا. في الأعلى بيضاء ودقيقية، بمنطقة حلقية عنكبوتية ضعيفة زائلة. تحتها تغطيها بكثافة قشور ليفية بيضاء وبرية بارزة على خلفية تتحول نحو القاعدة إلى بيج أو بني.",
+      "flesh": "اللحم في القبعة أبيض إلى كريمي، متماسك، وشاحب البني نحو قاعدة الساق؛ وقد يسمر ببطء عند الضغط. الرائحة خفيفة أو خفيفة اللفت، والطعم معتدل أو خفيف اللفت.",
+      "sporePrint": "طبعة الأبواغ بنية إلى بنية صدئية أو بنية طينية. الأبواغ ملساء، إهليلجية مستطيلة، نحو 5.5–7 × 3.5–4.5 µm.",
+      "habitat": "رمّي على خشب متعفن مدفون وأغصان ساقطة ولحاء وفرش أوراق أو إبر في غابات عريضة الأوراق ومختلطة، كثيرًا تحت الزان، وأيضًا في غابات مخروطية. تظهر الأجسام الثمرية منفردة أو في مجموعات صغيرة أو عناقيد رخوة، وكثيرًا ما تبدو خارجة من التربة. الموسم الرئيسي من سبتمبر إلى ديسمبر؛ وفي وسط أوروبا يُذكر أيضًا في أبريل ومايو.",
+      "uses": "لا يُنصح بأكله. بعض الأدلة في وسط أوروبا تعدّه صالحًا للأكل لكن قليل القيمة المطبخية؛ وأخرى تعدّه غير صالح أو تنهى عنه. القبعة شديدة اللزوجة في الرطوبة، واللحم باهت الطعم، وفي الطقس الرطب يمكن الخلط بينه وبين أنواع Hebeloma الشاحبة اللزجة التي قد تسبب اضطرابات معدية.",
+      "confusion": "أنواع Hebeloma الشاحبة (بما فيها مجموعة Hebeloma crustuliniforme السامة) لها أيضًا قبعة دهنية أو لزجة شاحبة ورائحة فجل، لكن قبعتها ملساء بلا قشور حجاب بيضاء في المخاط، وتفتقر إلى ساق كثيفة مكسوة بقشور بيضاء وبقايا حجاب متدلية، وكثيرًا ما تذرف الصفائح قطرات مائية. لـ Pholiota gummosa قبعة صفراء خضراء. لـ Pholiota lubrica وPholiota elegans مركز أوضح بني برتقالي أو أصفر مغري. تنمو Pholiota squarrosa في عناقيد كثيفة على الجذوع والجلاميد ولها قبعة جافة بقشور خشنة قائمة بنية صدئية. Pholiota spumosa أنحف وأكثر اصفرارًا إلى بني مائل إلى الأصفر، وكثيرًا ما تنمو على فرش الصنوبريات، وتفتقر إلى القبعة البيضاء الضاربة إلى المغرة الطينية لهذه الفطر. تنمو Galerina marginata المميتة على الجلاميد والجذوع؛ وهي أصغر، بقبعة ملساء بنية صدئية بلا قشور بيضاء، وساق رفيعة ذات حلقة هشة.",
+      "notes": "أفضل علامات التعرف قبعة شاحبة شديدة اللزوجة بقشور بيضاء حرة في المخاط، وساق بيضاء كثيفة تحت منطقة حلقية ضعيفة. يحلل الخشب المختبئ في الدبال، وهو مميز لفرش الزان الرطب في أواخر الخريف.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Бледа, много слузеста пластинчата гъба, която често изглежда като да расте от почвата, но е прикрепена към заровена гниеща дървесина, клонки и постеля, особено в букови гори. Гуглата е белезникава до глинесто-охрена, с по-тъмен център, а в слузта са разпръснати бели люспици от покривалото. Пънчето е белезникаво и под слаба, краткотрайна пръстенна зона е космато от пухкави бели люспи; към основата покафенява. Видът е широко разпространен в Европа и се посочва и в Северна Америка, главно през есента.",
+      "cap": "Гуглата е 3–8 cm, понякога до 10 cm. Отначало е полукълбовидна, със завит ръб и паяжиновидно бяло покривало, после изпъкнала и накрая широко сплесната, понякога с повдигнат ръб. Повърхността е лепкава и във влажно време много слузеста и лъскава, белезникава до бледо кремава, сиво-охрена или слабо розово-бежова, с явно по-тъмен охрево-кафяв до глинесто-кафяв център и по-блед ръб. В слузта са разпръснати дребни бели влакнести люспици и остатъци от покривало, а от ръба често дълго висят бели късове покривало, докато гуглата оголее. Кожицата на гуглата е еластична и се обелва.",
+      "hymenium": "Ламелите са гъсти, доста тесни до средно широки и прираснали към пънчето (adnate), понякога с малко зъбче, слизащо по пънчето. Отначало са белезникави, после сиво-охра, глинесто-кафяви или бледо сиво-кафяви, понякога с маслиненожълт оттенък; ръбът е равен до фино ресничест и често по-блед. При младите плодни тела ги покрива обилно бяло паяжиновидно покривало.",
+      "stipe": "Пънчето е 3–8 cm дълго, понякога до 10–12 cm, и 0,4–1,2 cm дебело; здраво, цилиндрично, често леко извито или леко удебелено в основата, плътно до слабо гъбесто. Отгоре е белезникаво и брашнесто, със слаба, бързо изчезваща паяжиновидна пръстенна зона. Под нея е гъсто покрито с пухкави, стърчащи бели влакнести люспи върху фон, който към основата става бежов до кафеникав.",
+      "flesh": "Месото в гуглата е белезникаво до кремаво, стегнато, а към основата на пънчето бледокафеникаво; при натиск може бавно да покафенява. Миризмата е слаба или слабо репична, вкусът мек или слабо репичен.",
+      "sporePrint": "Споровият прашец е кафяв до ръждивокафяв или глинесто-кафяв. Спорите са гладки, удължено елипсовидни, около 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Сапротроф върху заровена гниеща дървесина, опадали клонки, кора и листна или иглеста постеля в широколистни и смесени гори, често под бук, също в иглолистни гори. Плодните тела се появяват поединично, на малки групи или в рехави снопчета и често изглеждат като да растат от почвата. Основният сезон е от септември до декември; в Централна Европа видът се посочва и през април и май.",
+      "uses": "Не се препоръчва за ядене. Някои централноевропейски ръководства я смятат за ядлива, но с малка кулинарна стойност; други я водят като неядлива или я отхвърлят. Гуглата във влажно време е много слузеста, месото е безвкусно, а при мокро време може да се сбърка с бледи лепкави видове от род Hebeloma, които могат да причинят стомашни неразположения.",
+      "confusion": "Бледите видове от род Hebeloma (включително отровната група Hebeloma crustuliniforme) също имат мазна или лепкава бледа гугла и репична миризма, но гуглата им е гладка, без бели люспици от покривало в слузта, липсват им космато белезникаво люспесто пънче и висящи остатъци от покривало, а ламелите често ронят воднисти капчици. Pholiota gummosa има жълтозелена гугла. Pholiota lubrica и Pholiota elegans имат по-ясно оранжевокафяв или жълтоохрен център. Pholiota squarrosa расте на гъсти снопчета по стволове и пънове и има суха гугла с груби, стърчащи ръждивокафяви люспи. Pholiota spumosa е по-стройна и по-жълта до жълтеникавокафява, често върху иглолистна постилка, и няма белезникаво глинестоохровата шапка на този вид. Смъртоносно отровната Galerina marginata расте по пънове и стволове; тя е по-дребна, с гладка ръждивокафява гугла, без бели люспици и с тънко пънче с крехък пръстен.",
+      "notes": "Най-добрият разпознавателен белег е бледа, много слузеста гугла със свободни бели люспици в слузта и пънче, което под слабата пръстенна зона е белезникаво космато. Гъбата разлага скрита дървесина в хумуса и е типична за влажната букова постеля късно през есента.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Bledá, velmi slizká lupenatá houba, která často vypadá, jako by rostla ze země, ale je přichycená k zanořenému trouchnivějícímu dřevu, větvičkám a opadu, zejména v bučinách. Klobouk je bělavý až jílově okrový s tmavším středem a ve slizu má rozptýlené bílé vločky vela. Třeň je bělavý a pod slabou, krátce trvající prstenitou zónou chlupatý od nadýchaných bílých šupin; k bázi hnědne. Je rozšířená v Evropě a uvádí se i v Severní Americe, především na podzim.",
+      "cap": "Klobouk má 3–8 cm, výjimečně až 10 cm. Nejprve je polokulovitý, s podehnutým okrajem a pavučinovitým bílým velem, potom klenutý a nakonec široce zploštělý, někdy se zvednutým okrajem. Povrch je lepkavý a za vlhka velmi slizký a lesklý, bělavý až světle krémový, šedookrový nebo slabě narůžovale béžový, s výrazně tmavším okrově hnědým až jílově hnědým středem a bledším okrajem. Ve slizu jsou rozptýlené drobné bílé vláknité šupinky a zbytky vela a z okraje často dlouho visí bílé zbytky vela, než klobouk olysá. Pokožka klobouku je pružná a lze ji sloupnout.",
+      "hymenium": "Lupeny jsou husté, dosti úzké až středně široké a ke třeni připojené (adnate), někdy s malým zubem sbíhajícím na třeň. Nejprve jsou bělavé, později šedookrové, jílově hnědé nebo světle šedohnědé, někdy s olivově žlutým nádechem; ostří je rovné až jemně třásnité a často bledší. U mladých plodnic je zakrývá hojné bílé pavučinovité velum.",
+      "stipe": "Třeň je 3–8 cm dlouhý, někdy až 10–12 cm, a 0,4–1,2 cm tlustý; statný, válcovitý, často mírně prohnutý nebo na bázi trochu ztloustlý, plný až slabě houbovitý. Nahoře je bělavý a moučnatý, se slabou, pomíjivou pavučinovitou prstenitou zónou. Pod ní je hustě pokrytý nadýchanými, odstávajícími bílými vláknitými šupinami na podkladu, který k bázi přechází do béžové až hnědavé.",
+      "flesh": "Dužnina je v klobouku bělavá až krémová, pevná a k bázi třeně bledě hnědavá; po otlačení může pomalu hnědnout. Vůně je nevýrazná nebo slabě ředkvová, chuť mírná nebo slabě ředkvová.",
+      "sporePrint": "Výtrusný prach je hnědý až rezavě hnědý nebo jílově hnědý. Výtrusy jsou hladké, protáhle elipsoidní, asi 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrofní houba na zanořeném trouchnivějícím dřevu, opadaných větvičkách, kůře a listovém nebo jehličnatém opadu v listnatých a smíšených lesích, často pod bukem, i v jehličnatých lesích. Plodnice vyrůstají jednotlivě, v malých skupinách nebo ve volných trsech a často vypadají, jako by rostly ze země. Hlavní sezóna je od září do prosince; ve střední Evropě se uvádí i v dubnu a květnu.",
+      "uses": "Ke konzumaci se nedoporučuje. Některé středoevropské příručky ji uvádějí jako jedlou, ale kuchyňsky málo hodnotnou; jiné ji považují za nejedlou nebo ji nedoporučují. Klobouk je za vlhka velmi slizký, dužnina je bezvýrazná a za mokra ji lze zaměnit s bledými lepkavými druhy rodu Hebeloma, které mohou způsobit žaludeční potíže.",
+      "confusion": "Bledé druhy rodu Hebeloma (včetně jedovaté skupiny Hebeloma crustuliniforme) mají rovněž mastný až lepkavý bledý klobouk a ředkvovou vůni, ale klobouk je hladký, bez bílých vloček vela ve slizu, chybí jim chlupatý bělavě šupinatý třeň i visící zbytky vela a lupeny často roní vodnaté kapky. Pholiota gummosa má žlutozelený klobouk. Pholiota lubrica a Pholiota elegans mají výrazněji oranžovohnědý nebo žlutookrový střed klobouku. Šupinovka kostrbatá (Pholiota squarrosa) roste v hustých trsech na kmenech a pařezech a má suchý klobouk s hrubými, odstávajícími rezavě hnědými šupinami. Pholiota spumosa je štíhlejší a spíše žlutá až žlutohnědá, často na jehličnatém opadu, a postrádá bělavě jílově okrový klobouk tohoto druhu. Smrtelně jedovatá Galerina marginata roste na pařezech a kmenech; je menší, s hladkým rezavě hnědým kloboukem, bez bílých vloček a s tenkým třeněm s křehkým prstenem.",
+      "notes": "Nejlepšími poznávacími znaky jsou bledý, velmi slizký klobouk s volnými bílými vločkami ve slizu a třeň, který je pod slabou prstenitou zónou bělavě chlupatý. Rozkládá skryté dřevo v humusu a je typická pro vlhký bukový opad pozdě na podzim.",
+      "names": [
+        "plaménka šedohlínová"
+      ],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Pholiota-lenta/",
+        "https://cs.wikipedia.org/wiki/%C5%A0upinovka_%C5%A1edohl%C3%ADnov%C3%A1"
+      ],
+      "label": "šupinovka šedohlínová"
+    },
+    "da": {
+      "description": "En bleg, meget slimet skivesvamp, der ofte ser ud til at vokse fra jorden, men sidder fast på nedgravet rådnent træ, kviste og førne, især i bøgeskove. Hatten er hvidlig til lerokkerfarvet med mørkere midte, og i slimet sidder spredte hvide slørfnug. Stokken er hvidlig og under en svag, kortvarig ringzone lodden af fnugede hvide skæl; mod basis brunlig. Arten er udbredt i Europa og angives også fra Nordamerika, især om efteråret.",
+      "cap": "Hatten er 3–8 cm bred, lejlighedsvis op til 10 cm. Først er den halvkugleformet, med indrullet rand og et spindelvævsagtigt hvidt slør, derefter hvælvet og til sidst bredt fladtrykt, undertiden med oprullet rand. Overfladen er klæbrig og i vådt vejr meget slimet og blank, hvidlig til blegt cremefarvet, gråokker eller svagt rosa-beige, med tydeligt mørkere okkerbrun til lerbrun midte og blegere rand. I slimet sidder spredte små hvide fiberagtige skæl og slørrester, og fra randen hænger ofte længe hvide slørrester, før hatten bliver glat. Hattehuden er elastisk og kan trækkes af.",
+      "hymenium": "Lamellerne er tætte, ret smalle til middelbrede og tilhæftede på stokken (adnate), undertiden med en lille tand, der løber lidt ned ad stokken. De er først hvidlige, senere gråligt okkerbrune, lerbrune eller blegt gråbrune, undertiden med oliven-gul tone; æggen er jævn til fint frynset og ofte blegere. Hos unge frugtlegemer dækkes de af et rigt hvidt, spindelvævsagtigt slør.",
+      "stipe": "Stokken er 3–8 cm lang, undertiden op til 10–12 cm, og 0,4–1,2 cm tyk; kraftig, cylindrisk, ofte lidt krum eller lidt fortykket ved basis, solid til let svampet. Foroven er den hvidlig og melet, med en svag, forgængelig spindelvævsagtig ringzone. Nedenfor er den tæt dækket af fnugede, udstående hvide fiberagtige skæl på en baggrund, der mod basis bliver beige til brunlig.",
+      "flesh": "Kødet er i hatten hvidligt til cremefarvet, fast, og mod stokkens basis blegt brunligt; ved tryk kan det langsomt brune. Lugten er svag eller svagt radiseagtig, smagen mild eller svagt radiseagtig.",
+      "sporePrint": "Sporeaftrykket er brunt til rustbrunt eller lerbrunt. Sporerne er glatte, langstrakt ellipsoidiske, cirka 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "En saprotrof på nedgravet rådnent træ, nedfaldne kviste, bark og løv- eller nåleførne i løv- og blandskove, ofte under bøg, også i nåleskove. Frugtlegemerne kommer enkeltvis, i små grupper eller i løse klynger og ser ofte ud til at vokse fra jorden. Hovedsæsonen er fra september til december; i Centraleuropa angives den også i april og maj.",
+      "uses": "Frarådes som spisesvamp. Nogle centraleuropæiske håndbøger kalder den spiselig, men af ringe køkkenværdi; andre opfører den som uspiselig eller fraråder den. Hatten er i vådt vejr meget slimet, kødet er smagløst, og i fugtigt vejr kan den forveksles med blege, klæbrige Hebeloma-arter, som kan give maveonde.",
+      "confusion": "Blege Hebeloma-arter (herunder den giftige Hebeloma crustuliniforme-gruppe) har også en fedtet til klæbrig bleg hat og radiselugt, men deres hat er glat, uden hvide slørfnug i slimet, de mangler en lodden hvidskællet stok og hængende slørrester, og lamellerne græder ofte vandede dråber. Pholiota gummosa har en gulgrøn hat. Pholiota lubrica og Pholiota elegans har en tydeligere orangebrun eller gulokker midte. Krumskællet skælhat (Pholiota squarrosa) vokser i tætte knipper på stammer og stubbe og har en tør hat med grove, udstående rustbrune skæl. Pholiota spumosa er slankere og mere gul til gulbrun, ofte på nåleaffald, og mangler denne arts hvidlige lerokerfarvede hat. Den dødeligt giftige Galerina marginata vokser på stubbe og stammer; den er mindre, med glat rustbrun hat, uden hvide fnug og med tynd stok med en skrøbelig ring.",
+      "notes": "Det bedste kendetegn er en bleg, meget slimet hat med løse hvide fnug i slimet og en stok, der under en svag ringzone er hvidligt lodden. Den nedbryder skjult træ i humusen og er typisk for fugtig bøgeførne sent på efteråret.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames"
+      ],
+      "label": "løv-skælhat"
+    },
+    "de": {
+      "description": "Ein blasser, sehr schleimiger Blätterpilz, der oft wie aus dem Boden wachsend wirkt, aber an vergrabenem morschem Holz, Zweigen und Streu sitzt, besonders in Buchenwäldern. Der Hut ist weißlich bis lehmockerfarben mit dunklerer Mitte, und im Schleim sitzen verstreute weiße Velumflöckchen. Der Stiel ist weißlich und unter einer schwachen, vergänglichen Ringzone zottig von flockigen weißen Schuppen; zur Basis hin bräunt er. Die Art ist in Europa weit verbreitet und wird auch in Nordamerika angegeben, vor allem im Herbst.",
+      "cap": "Der Hut misst 3–8 cm, gelegentlich bis 10 cm. Zuerst ist er halbkugelig, mit eingerolltem Rand und einem spinnwebigen weißen Velum, dann gewölbt und schließlich breit abgeflacht, manchmal mit hochgebogenem Rand. Die Oberfläche ist klebrig und bei Nässe sehr schleimig und glänzend, weißlich bis blass cremefarben, grauocker oder schwach rosa-beige, mit deutlich dunklerer ockerbrauner bis lehmbrauner Mitte und blasserem Rand. Im Schleim sitzen verstreute kleine weiße faserige Schüppchen und Velumreste, und am Rand hängen oft lange weiße Velumfetzen, bevor der Hut verkahlt. Die Huthaut ist elastisch und lässt sich abziehen.",
+      "hymenium": "Die Lamellen stehen gedrängt, sind ziemlich schmal bis mittelbreit und am Stiel angewachsen (adnat), manchmal mit einem kleinen, am Stiel herablaufenden Zähnchen. Sie sind zuerst weißlich, später graugelbbräunlich, lehmbraun oder blass graubraun, manchmal mit olivgelbem Ton; die Schneiden sind eben bis fein bewimpert und oft blasser. Bei jungen Fruchtkörpern bedeckt sie ein reichliches weißes, spinnwebiges Velum.",
+      "stipe": "Der Stiel ist 3–8 cm lang, manchmal bis 10–12 cm, und 0,4–1,2 cm dick; kräftig, zylindrisch, oft leicht gebogen oder an der Basis etwas verdickt, voll bis leicht schwammig. Oben ist er weißlich und mehlig, mit einer schwachen, vergänglichen spinnwebigen Ringzone. Darunter ist er dicht mit flockigen, abstehenden weißen faserigen Schuppen auf einem Grund bedeckt, der zur Basis hin beige bis bräunlich wird.",
+      "flesh": "Das Fleisch ist im Hut weißlich bis cremefarben, fest und zur Stielbasis hin blass bräunlich; bei Druck kann es langsam bräunen. Der Geruch ist unauffällig oder schwach rettichartig, der Geschmack mild oder leicht rettichartig.",
+      "sporePrint": "Das Sporenpulver ist braun bis rostbraun oder lehmbraun. Die Sporen sind glatt, länglich ellipsoid, etwa 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Ein Saprotroph an vergrabenem morschem Holz, abgefallenen Zweigen, Rinde und Laub- oder Nadelstreu in Laub- und Mischwäldern, oft unter Buche, auch in Nadelwäldern. Die Fruchtkörper erscheinen einzeln, in kleinen Gruppen oder in lockeren Büscheln und wirken oft, als wüchsen sie aus dem Boden. Die Hauptzeit ist von September bis Dezember; in Mitteleuropa wird die Art auch im April und Mai angegeben.",
+      "uses": "Zum Essen nicht empfohlen. Einige mitteleuropäische Führer nennen sie essbar, aber von geringem Speisewert; andere führen sie als ungenießbar oder raten ab. Der Hut ist bei Nässe sehr schleimig, das Fleisch ist fade, und bei feuchtem Wetter kann sie mit blassen, klebrigen Hebeloma-Arten verwechselt werden, die Magenbeschwerden verursachen können.",
+      "confusion": "Blasse Hebeloma-Arten (einschließlich der giftigen Gruppe um Hebeloma crustuliniforme) haben ebenfalls einen fettigen bis klebrigen blassen Hut und Rettichgeruch, aber ihr Hut ist glatt, ohne weiße Velumflocken im Schleim, ihnen fehlen der zottig weißschuppige Stiel und herabhängende Velumreste, und die Lamellen tränen oft wässrige Tröpfchen. Pholiota gummosa hat einen gelbgrünen Hut. Pholiota lubrica und Pholiota elegans haben eine deutlich orangerbraune oder gelbockere Hutmitte. Der Sparrige Schüppling (Pholiota squarrosa) wächst in dichten Büscheln an Stämmen und Stümpfen und hat einen trockenen Hut mit groben, abstehenden rostbraunen Schuppen. Pholiota spumosa ist schlanker und eher gelb bis gelbbraun, oft auf Nadelstreu, und entbehrt den weißlich tonockerfarbenen Hut dieser Art. Die tödlich giftige Galerina marginata wächst an Stümpfen und Stämmen; sie ist kleiner, mit glattem rostbraunem Hut, ohne weiße Flocken und mit dünnem Stiel mit zerbrechlichem Ring.",
+      "notes": "Das beste Erkennungsmerkmal ist ein blasser, sehr schleimiger Hut mit losen weißen Flocken im Schleim und ein Stiel, der unter einer schwachen Ringzone weißlich zottig ist. Die Art zersetzt verborgenes Holz im Humus und ist typisch für feuchte Buchenstreu im Spätherbst.",
+      "names": [
+        "Tonfalber Schüppling",
+        "Tonblasser Schüppling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://de.wikipedia.org/wiki/Tonwei%C3%9Fer_Sch%C3%BCppling",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "Tonweißer Schüppling"
+    },
+    "en": {
+      "description": "A pale, very slimy gilled mushroom that often seems to grow from the soil but is attached to buried rotting wood, twigs and leaf litter, especially in beech woods. The cap is whitish to clay-buff with a darker centre, and scattered white veil flecks sit in the slime. The stem is whitish and shaggy with fluffy white scales below a faint, short-lived ring zone, and it browns towards the base. It is widespread in Europe and is also recorded in North America, mainly in autumn.",
+      "cap": "3–8 cm across, occasionally up to 10 cm. It is hemispherical at first, with an inrolled margin and a cobwebby white veil, then convex and finally broadly flattened, sometimes with the margin lifting. The surface is sticky and, when wet, very slimy and glossy, whitish to pale cream, greyish ochre or pale pinkish buff, with a distinctly darker ochre-tan to clay-brown centre and a paler margin. Scattered small white fibrillose scales and veil fragments are stuck in the slime, and white veil remnants often hang from the margin for a long time before the cap becomes smoother. The cap skin is elastic and can be peeled.",
+      "hymenium": "The gills are close, rather narrow to medium, and attached to the stem (adnate), sometimes with a small decurrent tooth. They are whitish at first, then grey-tawny, clay-brown or pale grey-brown, sometimes with an olive-yellow tinge, and the edges are even to finely fringed and often paler. In young fruit bodies they are covered by a copious white cobwebby veil.",
+      "stipe": "3–8 cm long, sometimes up to 10–12 cm, and 0.4–1.2 cm thick; sturdy, cylindrical, often slightly curved or a little thickened at the base, and solid to slightly spongy. It is whitish and mealy at the top, with a faint, fleeting cobwebby ring zone. Below that zone it is covered with dense, fluffy, protruding white fibrous scales over a background that turns beige to brownish towards the base.",
+      "flesh": "Whitish to creamy in the cap, firm, and pale brownish towards the stem base; it may slowly brown where bruised. The smell is mild or faintly of radish, and the taste is mild or slightly radish-like.",
+      "sporePrint": "Brown to rusty brown or clay-brown. The spores are smooth, elongate-ellipsoid, about 5.5–7 × 3.5–4.5 µm.",
+      "habitat": "A saprotroph on buried rotting wood, fallen twigs, bark and leaf or needle litter in broadleaved and mixed woods, often under beech, and also in coniferous woods. Fruit bodies appear singly, in small groups or in loose clusters, and often look as if they are growing from the soil. The main season is September to December; in Central Europe it is also reported in April and May.",
+      "uses": "Not recommended for eating. Some Central European guides call it edible but of little culinary value; others list it as inedible or do not recommend it. The cap is very slimy when wet, the flesh is bland, and pale sticky Hebeloma species, which can cause stomach upset, may be mistaken for it in wet weather.",
+      "confusion": "Pale Hebeloma species (including the poisonous Hebeloma crustuliniforme group) also have greasy to sticky pale caps and a radish smell, but their caps are smooth, without white veil flecks in the slime, they lack a shaggy white-scaly stem and hanging veil remnants, and the gills often weep watery droplets. Pholiota gummosa has a yellow-green cap. Pholiota lubrica and Pholiota elegans have a more strongly orange-brown or yellow-ochre cap centre. Pholiota squarrosa grows in dense tufts on trunks and stumps and has a dry cap with coarse, upturned rusty-brown scales. Pholiota spumosa is slimmer and more yellow to yellowish-brown, often on conifer litter, and lacks this species' whitish clay-buff cap. The deadly Galerina marginata grows on stumps and logs; it is smaller, with a smooth rusty-brown cap, no white flecks, and a thin stem with a fragile ring.",
+      "notes": "The key combination is a pale, very slimy cap with loose white flakes in the slime and a stem that is shaggy-white below a faint ring zone. It decomposes hidden wood in the humus and is typical of damp beech litter in late autumn.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=115388",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=115388",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=115388",
+        "https://species.data.kew.org/species/115388",
+        "https://www.gbif.org/species/9091857",
+        "https://www.wikidata.org/wiki/Q2442393",
+        "https://www.inaturalist.org/taxa/351824",
+        "https://www.mykoweb.com/Pholiota/species/Pholiota_lenta.html",
+        "https://mushrooms.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=100272",
+        "https://fungusradar.com/atlas/pholiota-lenta/",
+        "https://www.myko.cz/myko-atlas/Pholiota-lenta/"
+      ]
+    },
+    "es": {
+      "description": "Una seta laminada pálida y muy viscosa, que a menudo parece brotar del suelo pero está sujeta a madera podrida enterrada, ramitas y hojarasca, sobre todo en hayedos. El sombrero es blanquecino a ocre arcilloso, con el centro más oscuro, y en el mucus hay escamas blancas del velo dispersas. El pie es blanquecino y, bajo una zona anular débil y fugaz, está cubierto de escamas blancas algodonosas; hacia la base se vuelve pardo. La especie está extendida en Europa y también se cita en Norteamérica, sobre todo en otoño.",
+      "cap": "El sombrero mide 3–8 cm, a veces hasta 10 cm. Al principio es hemisférico, con el margen enrollado y un velo blanco aracnoide, luego convexo y por fin ampliamente aplanado, a veces con el margen levantado. La superficie es pegajosa y, en tiempo húmedo, muy viscosa y brillante, blanquecina a crema pálido, gris ocráceo o ligeramente rosáceo-beige, con un centro claramente más oscuro, ocre pardo a pardo arcilloso, y un margen más pálido. En el mucus hay pequeñas escamas fibrilosas blancas y restos de velo, y del margen cuelgan a menudo durante mucho tiempo restos blancos de velo antes de que el sombrero se alise. La cutícula es elástica y se puede pelar.",
+      "hymenium": "Las láminas son prietas, bastante estrechas a de anchura media, y adheridas al pie (adnatas), a veces con un pequeño diente decurrente. Son al principio blanquecinas, luego gris-leonadas, pardo arcillosas o gris-pardas pálidas, a veces con un matiz amarillo oliváceo, y el filo es liso a finamente festoneado y a menudo más pálido. En los carpóforos jóvenes las cubre un velo blanco aracnoide abundante.",
+      "stipe": "El pie mide 3–8 cm de largo, a veces hasta 10–12 cm, y 0,4–1,2 cm de grosor; es robusto, cilíndrico, a menudo un poco curvado o algo engrosado en la base, macizo a ligeramente esponjoso. Es blanquecino y harinoso en la parte superior, con una zona anular aracnoide débil y fugaz. Por debajo está densamente cubierto de escamas fibrilosas blancas, algodonosas y salientes, sobre un fondo que hacia la base pasa a beige o pardo.",
+      "flesh": "La carne es blanquecina a crema en el sombrero, firme, y pardo pálida hacia la base del pie; puede pardosear lentamente al roce. El olor es débil o ligeramente a rábano, el sabor suave o ligeramente a rábano.",
+      "sporePrint": "La esporada es parda a pardo-oxidada o pardo arcillosa. Las esporas son lisas, elipsoides alargadas, de unos 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprófita sobre madera podrida enterrada, ramitas caídas, corteza y hojarasca o acículas en bosques caducifolios y mixtos, a menudo bajo haya, también en pinares y abetales. Los carpóforos aparecen aislados, en pequeños grupos o en ramilletes sueltos, y a menudo parecen salir del suelo. La temporada principal va de septiembre a diciembre; en Europa central también se cita en abril y mayo.",
+      "uses": "No se recomienda su consumo. Algunas guías centroeuropeas la dan por comestible pero de poco valor culinario; otras la consideran no comestible o la desaconsejan. El sombrero es muy viscoso en tiempo húmedo, la carne es insípida, y con humedad puede confundirse con especies pálidas y pegajosas de Hebeloma, que pueden causar molestias gástricas.",
+      "confusion": "Las especies pálidas de Hebeloma (incluido el grupo tóxico de Hebeloma crustuliniforme) tienen también un sombrero graso o pegajoso, pálido, y olor a rábano, pero su sombrero es liso, sin escamas blancas de velo en el mucus, les faltan el pie peloso cubierto de escamas blancas y los restos de velo colgantes, y las láminas a menudo rezuman gotitas acuosas. Pholiota gummosa tiene el sombrero amarillo-verdoso. Pholiota lubrica y Pholiota elegans tienen el centro más claramente pardo-anaranjado o amarillo ocre. La foliota escamosa (Pholiota squarrosa) crece en ramilletes densos sobre troncos y tocones y tiene un sombrero seco con escamas gruesas, erizadas, pardo-oxidadas. Pholiota spumosa es más esbelta y más amarilla a pardoamarillenta, a menudo sobre hojarasca de coníferas, y carece del sombrero blanquecino ocre arcilloso de esta especie. La mortal Galerina marginata crece en tocones y troncos; es más pequeña, de sombrero liso pardo-oxidado, sin escamas blancas, y de pie delgado con un anillo frágil.",
+      "notes": "La mejor combinación diagnóstica es un sombrero pálido, muy viscoso, con escamas blancas sueltas en el mucus, y un pie blanquecino y peloso bajo una zona anular débil. Descompone madera oculta en el humus y es típica de la hojarasca húmeda de haya a finales de otoño.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames"
+      ],
+      "label": "foliota flexible"
+    },
+    "et": {
+      "description": "Kahvatu, väga limane eoslehtedega seen, mis näib sageli kasvavat mullast, kuid on kinnitunud maetud kõduneva puidu, okste ja varise külge, eriti pöögimetsades. Kübar on valkjas kuni savikookerja keskmega, mis on tumedam, ja limas paiknevad hajusalt valged loorihelbed. Jalg on valkjas ning nõrga, lühiealise vööndi all karvane kohevatest valgetest soomustest; tüve poole pruunistub. Liik on Euroopas laialt levinud ja teda esitatakse ka Põhja-Ameerikast, peamiselt sügisel.",
+      "cap": "Kübar on 3–8 cm lai, vahel kuni 10 cm. Alguses on ta poolkerajas, sissepööratud serva ja ämblikuvõrgutaolise valge looriga, siis kumer ja lõpuks laialt lapik, vahel tõstetud servaga. Pind on kleepuv ning niiskena väga limane ja läikiv, valkjas kuni kahvatukreemjas, hallikasookerjas või nõrgalt roosakasbeež, selgelt tumedama ookerpruuni kuni savipruuni keskme ja kahvatuva servaga. Limas on hajusalt väikesi valgeid kiudjaid soomuseid ja loorijäänuseid ning servast ripuvad sageli kaua valged loorijäänused, enne kui kübar paljastub. Kübara nahk on elastne ja tuleb maha.",
+      "hymenium": "Eoslehed on tihedad, üsna kitsad kuni keskmise laiusega ja jala külge kinnituvad (adnaatsed), vahel väikese, jalale laskuva hambakesega. Need on alguses valkjad, hiljem hallikasookerjad, savipruunid või kahvatuhallikaspruunid, vahel oliivikollase varjundiga; serv on tasane kuni peenelt narmaline ja sageli kahvatum. Noortel viljakehadel katab neid rohke valge, ämblikuvõrgutaoline loor.",
+      "stipe": "Jalg on 3–8 cm pikk, vahel kuni 10–12 cm, ja 0,4–1,2 cm jäme; tugev, silinderjas, sageli veidi kaardus või tüvest veidi paksenenud, täis kuni veidi käsnjas. Ülevalt on ta valkjas ja jahune, nõrga, kaduva ämblikuvõrgutaolise vööndiga. Selle all on ta tihedalt kaetud kohevate, eemalehoiduvate valgete kiudjate soomustega taustal, mis tüve poole muutub beežiks kuni pruunikaks.",
+      "flesh": "Seeneliha on kübaras valkjas kuni kreemjas, kindel ja jala tüve poole kahvatuprunakas; muljumisel võib ta aeglaselt pruunistuda. Lõhn on nõrk või nõrgalt redisene, maitse leebe või nõrgalt redisene.",
+      "sporePrint": "Eosetolm on pruun kuni roostepruun või savipruun. Eosed on siledad, piklikellipsoidsed, umbes 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotroof maetud kõduneval puidul, langenud okstel, koorel ning leht- või okkavarises leht- ja segametsades, sageli pöögi all, ka okasmetsades. Viljakehad ilmuvad üksikult, väikeste rühmadena või hõredate kobaratena ja näivad sageli kasvavat mullast. Peamine hooaeg on septembrist detsembrini; Kesk-Euroopas esitatakse teda ka aprillis ja mais.",
+      "uses": "Söömist ei soovitata. Mõned Kesk-Euroopa juhendid peavad teda söödavaks, kuid köögiiväärtuselt tagasihoidlikuks; teised loevad teda mittesöödavaks või hoiatavad. Kübar on niiskena väga limane, seeneliha on maotu ning märja ilmaga võib teda segi ajada kahvatute, kleepuvate Hebeloma liikidega, mis võivad tekitada seedevaevusi.",
+      "confusion": "Kahvatutel Hebeloma liikidel (sealhulgas mürgisel Hebeloma crustuliniforme rühmal) on samuti rasvane või kleepuv kahvatu kübar ja redisene lõhn, kuid nende kübar on sile, ilma valgete loorihelvesteta limas, neil puuduvad karvane valgesoomuseline jalg ja rippuvad loorijäänused ning eoslehed nutavad sageli vesiseid tilku. Pholiota gummosal on kollakasroheline kübar. Pholiota lubrical ja Pholiota elegansil on selgemalt oranžikaspruun või kollaseookerjas kübara kese. Soomusmampel (Pholiota squarrosa) kasvab tihedate kobaratena tüvedel ja kändudel ning tal on kuiv kübar jämedate, eemalehoiduvate roostepruunide soomustega. Pholiota spumosa on peenem ja kollasem kuni kollakaspruun, sageli okkalitteril, ning tal puudub selle liigi valkjas saviokra kübar. Surmavalt mürgine Galerina marginata kasvab kändudel ja tüvedel; ta on väiksem, sileda roostepruuni kübaraga, ilma valgete helvesteta ja peenikese, haprarõngaga jalaga.",
+      "notes": "Parim tundemärk on kahvatu, väga limane kübar lahtiste valgete helvestega limas ja jalg, mis on nõrga vööndi all valkjalt karvane. Liik lagundab varjatud puitu huumuses ja on tüüpiline niiskele pöögivarisele hilissügisel.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351824",
+        "https://www.wikidata.org/wiki/Q2442393",
+        "https://et.wikipedia.org/wiki/Valkjas_mampel"
+      ],
+      "label": "valkjas mampel"
+    },
+    "fa": {
+      "description": "قارچ تیغه‌ای رنگ‌پریده و بسیار لزج که اغلب به نظر می‌رسد از خاک می‌روید، اما به چوب پوسیدهٔ مدفون، شاخه‌های نازک و لاشبرگ، به‌ویژه در جنگل‌های راش، متصل است. کلاهک سفید تا اخراییِ رُسی است، با مرکز تیره‌تر، و در لزج پولک‌های سفید پرده پراکنده‌اند. ساقه سفید است و زیر ناحیهٔ حلقوی ضعیف و کوتاه‌عمر از پولک‌های سفید پرزدار پشمالو است؛ به‌سوی قاعده قهوه‌ای می‌شود. این گونه در اروپا گسترده است و از آمریکای شمالی نیز گزارش می‌شود، بیشتر در پاییز.",
+      "cap": "کلاهک ۳–۸ سانتی‌متر است، گاه تا ۱۰ سانتی‌متر. ابتدا نیم‌کره‌ای است، با حاشیهٔ پیچ‌خورده به داخل و پردهٔ سفید تارعنکبوتی، سپس محدب و سرانجام به‌طور گسترده پهن، گاه با حاشیهٔ بالاآمده. سطح چسبناک است و در رطوبت بسیار لزج و براق، سفید تا کرم کم‌رنگ، خاکستری‌اخرایی یا کمی صورتی‌بژ، با مرکزی آشکارا تیره‌تر، اخرایی‌قهوه‌ای تا قهوه‌ای رُسی، و حاشیهٔ کم‌رنگ‌تر. در لزج پولک‌های الیافی سفید کوچک و بقایای پرده پراکنده‌اند و از حاشیه اغلب مدت درازی تکه‌های سفید پرده آویزان می‌مانند تا کلاهک صاف‌تر شود. پوست کلاهک کشسان است و کنده می‌شود.",
+      "hymenium": "تیغه‌ها متراکم، نسبتاً باریک تا متوسط، و چسبیده به ساقه (adnate) هستند، گاه با دندانهٔ کوچکی که روی ساقه فرو می‌رود. ابتدا سفیدند، سپس خاکستری‌اخرایی، قهوه‌ای رُسی یا خاکستری‌قهوه‌ای کم‌رنگ، گاه با ته رنگ زرد زیتونی؛ لبه صاف تا ریزریشه‌دار و اغلب کم‌رنگ‌تر است. در اندام‌های باردهٔ جوان پردهٔ سفید تارعنکبوتی فراوان آن‌ها را می‌پوشاند.",
+      "stipe": "ساقه ۳–۸ سانتی‌متر طول دارد، گاه تا ۱۰–۱۲ سانتی‌متر، و ۰.۴–۱.۲ سانتی‌متر قطر؛ استوار، استوانه‌ای، اغلب کمی خمیده یا در قاعده کمی ضخیم، توپر تا کمی اسفنجی. در بالا سفید و آردی است، با ناحیهٔ حلقوی تارعنکبوتی ضعیف و گذرا. زیر آن به‌طور متراکم با پولک‌های الیافی سفید پرزدار و برآمده پوشیده است، بر زمینه‌ای که به‌سوی قاعده بژ تا قهوه‌ای می‌شود.",
+      "flesh": "گوشت در کلاهک سفید تا کرم، سفت، و به‌سوی قاعدهٔ ساقه قهوه‌ای کم‌رنگ است؛ با فشار ممکن است به‌آرامی قهوه‌ای شود. بو ضعیف یا کمی ترب‌مانند است، طعم ملایم یا کمی ترب‌مانند.",
+      "sporePrint": "نقش هاگ قهوه‌ای تا قهوه‌ای زنگاری یا قهوه‌ای رُسی است. هاگ‌ها صاف، بیضوی کشیده، حدود ۵.۵–۷ × ۳.۵–۴.۵ µm هستند.",
+      "habitat": "ساپروتروف روی چوب پوسیدهٔ مدفون، شاخه‌های افتاده، پوست و لاشبرگ برگ یا سوزن در جنگل‌های پهن‌برگ و آمیخته، اغلب زیر راش، و نیز در جنگل‌های سوزنی‌برگ. اندام‌های بارده تکی، در گروه‌های کوچک یا دسته‌های سست ظاهر می‌شوند و اغلب چنان به نظر می‌رسند که از خاک بیرون می‌آیند. فصل اصلی از سپتامبر تا دسامبر است؛ در اروپای مرکزی در آوریل و مه نیز گزارش می‌شود.",
+      "uses": "خوردن آن توصیه نمی‌شود. برخی راهنماهای اروپای مرکزی آن را خوراکی اما کم‌ارزش می‌دانند؛ برخی دیگر آن را غیرخوراکی می‌شمارند یا پرهیز می‌دهند. کلاهک در رطوبت بسیار لزج است، گوشت بی‌مزه است، و در هوای مرطوب ممکن است با گونه‌های رنگ‌پریده و چسبناک Hebeloma که می‌توانند ناراحتی معده ایجاد کنند اشتباه شود.",
+      "confusion": "گونه‌های رنگ‌پریدهٔ Hebeloma (از جمله گروه سمی Hebeloma crustuliniforme) نیز کلاهکی چرب یا چسبناک و رنگ‌پریده و بوی ترب دارند، اما کلاهکشان صاف است، بدون پولک‌های سفید پرده در لزج، ساقهٔ پشمالوی پوشیده از پولک سفید و بقایای آویزان پرده ندارند، و تیغه‌ها اغلب قطره‌های آبکی می‌گریند. Pholiota gummosa کلاهکی زرد مایل به سبز دارد. Pholiota lubrica و Pholiota elegans مرکزی مشخص‌تر نارنجی‌قهوه‌ای یا زرد اخرایی دارند. Pholiota squarrosa در دسته‌های انبوه روی تنه و کنده می‌روید و کلاهکی خشک با پولک‌های درشت، ایستاده و قهوه‌ای زنگاری دارد. Pholiota spumosa باریک‌تر و بیشتر زرد تا زردمایل‌به‌قهوه‌ای است، اغلب روی لاشبرگ سوزنی‌برگ، و کلاهک سفید مایل به اخراییِ رُسی این گونه را ندارد. Galerina marginata مرگبار روی کنده و تنه می‌روید؛ کوچک‌تر است، با کلاهک صاف قهوه‌ای زنگاری، بدون پولک سفید، و ساقه‌ای باریک با حلقه‌ای شکننده.",
+      "notes": "بهترین نشانه ترکیبی کلاهکی رنگ‌پریده و بسیار لزج با پولک‌های سفید آزاد در لزج، و ساقه‌ای سفید و پشمالو زیر ناحیهٔ حلقوی ضعیف است. این گونه چوب پنهان در هوموس را تجزیه می‌کند و ویژهٔ لاشبرگ مرطوب راش در اواخر پاییز است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Kalpea, hyvin limainen helttasieni, joka näyttää usein kasvavan maasta mutta on kiinnittynyt hautautuneeseen lahopuuhun, oksanpätkiin ja karikkeeseen, etenkin pyökkimetsissä. Lakki on vaaleanvalkoinen tai savenokraan värinen, keskeltä tummempi, ja limassa on hajallaan valkoisia suojushiutaleita. Jalka on vaalea ja heikon, lyhytikäisen rengasvyöhykkeen alapuolelta nukkainen valkoisista suomuista; tyveä kohti se ruskettuu. Laji on laajalti levinnyt Euroopassa ja sitä ilmoitetaan myös Pohjois-Amerikasta, etenkin syksyllä.",
+      "cap": "Lakki on 3–8 cm leveä, toisinaan jopa 10 cm. Aluksi se on puolipallomainen, sisäänkiertyneellä laidalla ja seittimäisellä valkoisella suojuksella, sitten kupera ja lopulta laajasti litistynyt, joskus laita koholla. Pinta on tahmea ja märkänä hyvin limainen ja kiiltävä, vaaleanvalkoinen tai vaalean kermanvärinen, harmaahiekanvärinen tai heikosti punertavanbeige, selvästi tummemman okra- tai savenruskean keskuksen ja vaaleamman laidan kera. Limassa on hajallaan pieniä valkoisia säikeisiä suomuja ja suojusjätteitä, ja laidasta roikkuu usein pitkään valkoisia suojusriekaleita, kunnes lakki paljastuu. Lakin kuori on joustava ja irtoaa.",
+      "hymenium": "Heltat ovat tiheitä, melko kapeita tai keskileveitä ja kiinnittyneet jalkaan (adnaatit), joskus pienellä, jalkaa myöten laskevalla hampaalla. Ne ovat aluksi vaaleanvalkoisia, myöhemmin harmahtavan okranruskeita, savenruskeita tai vaalean harmaanruskeita, joskus oliivin-keltaisella sävyllä; terä on tasainen tai hienosti ripsinen ja usein vaaleampi. Nuorilla itiöemillä niitä peittää runsas valkoinen, seittimäinen suojus.",
+      "stipe": "Jalka on 3–8 cm pitkä, toisinaan 10–12 cm, ja 0,4–1,2 cm paksu; tanakka, lieriömäinen, usein hieman kaareva tai tyvestä hieman paksuuntunut, umpinainen tai hieman pesusienimäinen. Ylhäältä se on vaalea ja jauheinen, heikon, katoavan seittimäisen rengasvyöhykkeen kera. Sen alapuolelta se on tiheästi nukkainen törröttävistä valkoisista säikeisistä suomuista, joiden pohja muuttuu tyveä kohti beigen tai ruskehtavan väriseksi.",
+      "flesh": "Malto on lakissa vaaleanvalkoista tai kermanväristä, kiinteää, ja jalan tyveä kohti vaalean ruskehtavaa; painettaessa se voi hitaasti ruskettua. Tuoksu on heikko tai heikosti retisamainen, maku mieto tai heikosti retisamainen.",
+      "sporePrint": "Itiöpöly on ruskeaa tai ruosteenruskeaa tai savenruskeaa. Itiöt ovat sileitä, pitkänomaisen ellipsoideja, noin 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Lahottaja hautautuneella lahopuulla, pudonneilla oksilla, kuorella sekä lehti- tai neulaskarikkeessa lehti- ja sekametsissä, usein pyökin alla, myös havumetsissä. Itiöemät ilmestyvät yksittäin, pieninä ryhminä tai harvoina kimppuina ja näyttävät usein kasvavan maasta. Pääkausi on syyskuusta joulukuuhun; Keski-Euroopassa sitä ilmoitetaan myös huhti- ja toukokuussa.",
+      "uses": "Ei suositella syötäväksi. Jotkin keskieurooppalaiset oppaat pitävät sitä syötävänä mutta keittiöarvoltaan vähäisenä; toiset pitävät sitä syötäväksi kelpaamattomana tai kehottavat välttämään. Lakki on märkänä hyvin limainen, malto on mautonta, ja kostealla säällä sen voi sekoittaa kalpeisiin, tahmeisiin Hebeloma-lajeihin, jotka voivat aiheuttaa vatsavaivoja.",
+      "confusion": "Kalpeat Hebeloma-lajit (mukaan lukien myrkyllinen Hebeloma crustuliniforme -ryhmä) ovat myös rasvaisen tai tahmean kalpean lakin ja retisamaisen tuoksun omaavia, mutta niiden lakki on sileä, ilman valkoisia suojushiutaleita limassa, niiltä puuttuvat nukkainen valkosuomuinen jalka ja roikkuvat suojusjätteet, ja heltat itkevät usein vetisiä pisaroita. Pholiota gummosa -lajilla on keltavihreä lakki. Pholiota lubricalla ja Pholiota elegansilla on selvemmin oranssinruskea tai keltahiekanvärinen lakin keskus. Pörhösuomuhelokka (Pholiota squarrosa) kasvaa tiheinä kimppuina rungoilla ja kannoilla ja sillä on kuiva lakki, jossa on karkeita, törröttäviä ruosteenruskeita suomuja. Pholiota spumosa on hoikempi ja keltaisempi tai kellanruskea, usein havukarikkeella, eikä sillä ole tämän lajin valkean saviokrat väristä lakkia. Tappavan myrkyllinen Galerina marginata kasvaa kannoilla ja rungoilla; se on pienempi, sileän ruosteenruskean lakin, ilman valkoisia hiutaleita, ja ohuen, hauraanrenkaan omaavan jalan kera.",
+      "notes": "Paras tuntomerkki on kalpea, hyvin limainen lakki, jossa on irtonaisia valkoisia hiutaleita limassa, sekä jalka, joka on heikon rengasvyöhykkeen alapuolelta vaalean nukkainen. Laji lahotttaa kätkettyä puuta humuksessa ja on tyypillinen kostealle pyökkikarikkeelle myöhään syksyllä.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824",
+        "https://fi.wikipedia.org/wiki/Limahelokka"
+      ],
+      "label": "limahelokka"
+    },
+    "fr": {
+      "description": "Un champignon à lames pâle et très visqueux, qui semble souvent pousser du sol mais est attaché à du bois pourri enfoui, à des brindilles et à la litière, surtout dans les hêtraies. Le chapeau est blanchâtre à ocre argileux, à centre plus foncé, et des flocons blancs de voile sont dispersés dans le mucus. Le pied est blanchâtre et, sous une zone annulaire faible et éphémère, hérissé d’écailles blanches duveteuses ; il brunit vers la base. L’espèce est répandue en Europe et est aussi signalée en Amérique du Nord, surtout en automne.",
+      "cap": "Le chapeau mesure 3–8 cm, parfois jusqu’à 10 cm. Il est d’abord hémisphérique, à marge enroulée et à voile blanc arachnoïde, puis convexe et enfin largement aplati, parfois à marge relevée. La surface est poisseuse et, par temps humide, très visqueuse et luisante, blanchâtre à crème pâle, gris ocré ou légèrement rosâtre-beige, avec un centre nettement plus foncé, ocre-brun à brun argileux, et une marge plus pâle. De petites écailles fibrilleuses blanches et des restes de voile sont dispersés dans le mucus, et des lambeaux blancs de voile pendent souvent longtemps à la marge avant que le chapeau ne devienne plus lisse. La cuticule est élastique et se laisse peler.",
+      "hymenium": "Les lames sont serrées, assez étroites à moyennement larges, et attachées au pied (adnées), parfois avec une petite dent décurrente. Elles sont d’abord blanchâtres, puis gris-fauve, brun argileux ou gris-brun pâle, parfois à teinte jaune-olive, et l’arête est plane à finement frangée, souvent plus pâle. Chez les jeunes sporophores, elles sont recouvertes d’un voile blanc arachnoïde abondant.",
+      "stipe": "Le pied mesure 3–8 cm de long, parfois jusqu’à 10–12 cm, et 0,4–1,2 cm d’épaisseur ; il est robuste, cylindrique, souvent un peu courbé ou un peu épaissi à la base, plein à légèrement spongieux. Il est blanchâtre et farineux au sommet, avec une zone annulaire arachnoïde faible et fugace. Au-dessous, il est densément couvert d’écailles fibrilleuses blanches, duveteuses et saillantes, sur un fond qui vire au beige à brunâtre vers la base.",
+      "flesh": "La chair est blanchâtre à crème dans le chapeau, ferme, et brunâtre pâle vers la base du pied ; elle peut brunir lentement à la pression. L’odeur est faible ou légèrement raphanoïde, la saveur douce ou légèrement raphanoïde.",
+      "sporePrint": "La sporée est brune à brun-rouille ou brun argileux. Les spores sont lisses, ellipsoïdes allongées, d’environ 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrophe sur bois pourri enfoui, brindilles tombées, écorce et litière de feuilles ou d’aiguilles dans les forêts de feuillus et mixtes, souvent sous hêtre, aussi dans les forêts de conifères. Les sporophores apparaissent isolés, en petits groupes ou en touffes lâches, et semblent souvent sortir du sol. La saison principale va de septembre à décembre ; en Europe centrale, l’espèce est aussi signalée en avril et en mai.",
+      "uses": "La consommation n’est pas recommandée. Certains guides d’Europe centrale la disent comestible mais de peu de valeur culinaire ; d’autres la tiennent pour immangeable ou la déconseillent. Le chapeau est très visqueux par temps humide, la chair est fade, et par temps mouillé on peut la confondre avec des Hebeloma pâles et poisseux, susceptibles de provoquer des troubles gastriques.",
+      "confusion": "Les Hebeloma pâles (y compris le groupe toxique d’Hebeloma crustuliniforme) ont aussi un chapeau gras à poisseux, pâle, et une odeur de radis, mais leur chapeau est lisse, sans flocons blancs de voile dans le mucus, ils n’ont ni pied hérissé d’écailles blanches ni restes de voile pendants, et les lames suintent souvent des gouttelettes aqueuses. Pholiota gummosa a un chapeau jaune-vert. Pholiota lubrica et Pholiota elegans ont un centre plus nettement orangé-brun ou jaune ocré. La pholiote écailleuse (Pholiota squarrosa) pousse en touffes denses sur les troncs et les souches et a un chapeau sec à écailles rustres, dressées, brun-rouille. Pholiota spumosa est plus grêle et davantage jaune à jaune-brun, souvent sur litière de conifères, et n'a pas le chapeau blanchâtre brun-ocre argileux de cette espèce. La mortelle Galerina marginata pousse sur souches et troncs ; elle est plus petite, à chapeau lisse brun-rouille, sans flocons blancs, et à pied mince muni d’un anneau fragile.",
+      "notes": "La meilleure combinaison de caractères est un chapeau pâle, très visqueux, à flocons blancs libres dans le mucus, et un pied blanchâtre et hérissé sous une faible zone annulaire. L’espèce décompose le bois caché dans l’humus et typique de la litière de hêtre humide en fin d’automne.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "pholiote glutineuse"
+    },
+    "he": {
+      "description": "פטריית דפים חיוורת ורירית מאוד, שנראית לעיתים קרובות כצומחת מן הקרקע אך מחוברת לעץ נרקב קבור, לבדים ולרביד, בעיקר ביערות אשור. הכובע לבנבן עד אוכרה-חימרי, בעל מרכז כהה יותר, ובריר מפוזרים פתיתי יריעה לבנים. הרגל לבנבנה, ומתחת לאזור טבעת חלש וקצר-חיים היא שעירה מקשקשים לבנים פלומתיים; לכיוון הבסיס היא משחימה. המין נפוץ באירופה ומדווח גם בצפון אמריקה, בעיקר בסתיו.",
+      "cap": "הכובע בקוטר 3–8 ס״מ, לעיתים עד 10 ס״מ. תחילה הוא חצי-כדורי, עם שוליים מגולגלים פנימה ויריעה לבנה דמוית קורי עכביש, אחר כך קמור ולבסוף שטוח לרוחב, לעיתים עם שוליים מורמים. המשטח דביק, ובלחות רירי מאוד ומבריק, לבנבן עד קרם חיוור, אפור-אוכרה או ורוד-בז׳ חלש, עם מרכז כהה יותר בבירור, אוכרה-חום עד חום חימרי, ושוליים חיוורים יותר. בריר מפוזרים קשקשים סיביים לבנים קטנים ושרידי יריעה, ומהשוליים תלויים לעיתים קרובות זמן רב שאריות יריעה לבנות עד שהכובע מחלק. עור הכובע גמיש וניתן לקילוף.",
+      "hymenium": "הדפים צפופים, צרים למדי עד בינוניים ברוחב, ומחוברים לרגל (אדנטיים), לעיתים עם שן קטנה היורדת על הרגל. תחילה הם לבנבנים, אחר כך אפור-אוכרה, חום חימרי או אפור-חום חיוור, לעיתים בגוון צהוב-זית; השפה ישרה עד מצויצת דק ולעיתים קרובות חיוורת יותר. בגופי פרי צעירים מכסה אותם יריעה לבנה דמוית קורי עכביש בשפע.",
+      "stipe": "הרגל באורך 3–8 ס״מ, לעיתים עד 10–12 ס״מ, ובעובי 0.4–1.2 ס״מ; איתנה, גלילית, לעיתים קרובות מעט קמורה או מעט מעובה בבסיס, מלאה עד ספוגית במקצת. בחלקה העליון היא לבנבנה וקמחית, עם אזור טבעת דמוי קורי עכביש חלש וחולף. מתחתיו היא מכוסה בצפיפות בקשקשים סיביים לבנים, פלומתיים ובולטים, על רקע ההופך לכיוון הבסיס לבז׳ עד חום.",
+      "flesh": "הבשר בכובע לבנבן עד קרם, מוצק, ולכיוון בסיס הרגל חום חיוור; בלחיצה הוא עשוי להשחים לאט. הריח חלש או מעט של צנון, הטעם עדין או מעט של צנון.",
+      "sporePrint": "הדפס הנבגים חום עד חום-חלודה או חום חימרי. הנבגים חלקים, אליפסואידיים מוארכים, כ-5.5–7 × 3.5–4.5 µm.",
+      "habitat": "ספרוטרופ על עץ נרקב קבור, בדים שנשרו, קליפה ורביד עלים או מחטים ביערות עלים וביערות מעורבים, לעיתים קרובות תחת אשור, וגם ביערות מחטניים. גופי הפרי מופיעים יחידים, בקבוצות קטנות או באגודות רופפות, ולעיתים קרובות נראים כיוצאים מן הקרקע. העונה העיקרית היא מספטמבר עד דצמבר; במרכז אירופה מדווח המין גם באפריל ובמאי.",
+      "uses": "אין המלצה לאכול. מדריכים אחדים במרכז אירופה מתארים אותה כראויה למאכל אך דלת ערך קולינרי; אחרים רואים אותה כבלתי אכילה או מזהירים מפניה. הכובע רירי מאוד בלחות, הבשר תפל, ובמזג אוויר רטוב אפשר לבלבל אותה עם מיני Hebeloma חיוורים ודביקים, העלולים לגרום להפרעות קיבה.",
+      "confusion": "מיני Hebeloma חיוורים (כולל קבוצת Hebeloma crustuliniforme הרעילה) אף הם בעלי כובע שמנוני או דביק וחיוור וריח צנון, אך כובעם חלק, בלי פתיתי יריעה לבנים בריר, חסרים להם רגל שעירה מכוסה קשקשים לבנים ושרידי יריעה תלויים, והדפים מפרישים לעיתים קרובות טיפות מימיות. ל-Pholiota gummosa כובע צהוב-ירוק. ל-Pholiota lubrica ול-Pholiota elegans מרכז כובע כתום-חום או צהוב-אוכרה ברור יותר. Pholiota squarrosa גדלה באגודות צפופות על גזעים וגדמים ויש לה כובע יבש עם קשקשים גסים, זקופים, חום-חלודה. Pholiota spumosa צרה יותר וצהובה עד חום-צהבהב יותר, לעיתים קרובות על מצע מחטניים, וחסר לה הכובע הלבנבן בצבע אוכרת-חרסית של מין זה. Galerina marginata הקטלנית גדלה על גדמים וגזעים; היא קטנה יותר, בעלת כובע חלק חום-חלודה, בלי פתיתים לבנים, ורגל דקה עם טבעת שבירה.",
+      "notes": "צירוף הסימנים הטוב ביותר הוא כובע חיוור וריר מאוד עם פתיתים לבנים חופשיים בריר, ורגל לבנבנה ושעירה מתחת לאזור טבעת חלש. המין מפרק עץ נסתר בחומוס ואופייני לרביד אשור לח בסוף הסתיו.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक फीका, बहुत चिपचिपा गिल वाला मशरूम, जो अक्सर मिट्टी से उगता दिखता है, पर दबे सड़े काठ, टहनियों और पत्ती-कचरे से जुड़ा होता है, खासकर बीच के जंगलों में। टोपी सफेद से मिट्टी-गेरुई है, बीच गहरा, और कीच में सफेद परदे की पपड़ियाँ बिखरी हैं। डंठल सफेद है और एक कमजोर, अल्पकालिक वलय-क्षेत्र के नीचे फुहारी सफेद शल्कों से रोएँदार है; आधार की ओर भूरा होता है। यह प्रजाति यूरोप में व्यापक है और उत्तरी अमेरिका से भी बताई जाती है, मुख्यतः शरद में।",
+      "cap": "टोपी 3–8 सेमी है, कभी-कभी 10 सेमी तक। पहले यह गोलार्धी होती है, मुड़ी किनारी और मकड़ी-जाले जैसे सफेद परदे के साथ, फिर उभरी और अंत में चौड़ी चपटी, कभी किनारी उठी हुई। सतह चिपचिपी है और नमी में बहुत कीच वाली और चमकदार, सफेद से हल्की क्रीम, धूसर-गेरुई या हल्की गुलाबी-बेज, स्पष्ट रूप से गहरे गेरुआ-भूरे से मिट्टी-भूरे केंद्र और हल्की किनारी के साथ। कीच में छोटी सफेद रेशेदार शल्कें और परदे के अवशेष बिखरे हैं, और किनारी से टोपी चिकनी होने तक अक्सर देर तक सफेद परदे के टुकड़े लटकते हैं। टोपी की त्वचा लचीली है और उतर सकती है।",
+      "hymenium": "गिल्स घनी हैं, काफी संकरी से मध्यम चौड़ी, और डंठल से जुड़ी (adnate), कभी-कभी एक छोटे दाँत के साथ जो डंठल पर उतरता है। पहले वे सफेद हैं, फिर धूसर-गेरुई, मिट्टी-भूरी या हल्की धूसर-भूरी, कभी जैतूनी-पीले रंग के साथ; किनारा समतल से बारीक झालरदार और अक्सर हल्का होता है। युवा फलों में उन्हें प्रचुर सफेद, मकड़ी-जाले जैसा परदा ढकता है।",
+      "stipe": "डंठल 3–8 सेमी लंबा है, कभी-कभी 10–12 सेमी तक, और 0.4–1.2 सेमी मोटा; मजबूत, बेलनाकार, अक्सर थोड़ा मुड़ा या आधार पर थोड़ा मोटा, ठोस से थोड़ा स्पंजी। ऊपर यह सफेद और मैला है, एक कमजोर, क्षणिक मकड़ी-जाले जैसे वलय-क्षेत्र के साथ। उसके नीचे यह फुहारी, उभरी सफेद रेशेदार शल्कों से घना ढका है, एक पृष्ठभूमि पर जो आधार की ओर बेज से भूरे रंग की हो जाती है।",
+      "flesh": "गूदा टोपी में सफेद से क्रीम, दृढ़, और डंठल के आधार की ओर हल्का भूरा है; दबाने पर धीरे-धीरे भूरा हो सकता है। गंध हल्की या थोड़ी मूली जैसी है, स्वाद मृदु या थोड़ा मूली जैसा।",
+      "sporePrint": "बीजाणु छाप भूरी से जंग-भूरी या मिट्टी-भूरी है। बीजाणु चिकने, लम्बे दीर्घवृत्ताकार, लगभग 5.5–7 × 3.5–4.5 µm हैं।",
+      "habitat": "दबे सड़े काठ, गिरी टहनियों, छाल और पत्ती या सुई के कचरे पर चौड़ी-पत्ती और मिश्रित जंगलों में, अक्सर बीच के नीचे, तथा शंकुधारी जंगलों में भी मृतोपजीवी। फल शरीर अकेले, छोटे समूहों में या ढीले गुच्छों में आते हैं और अक्सर मिट्टी से निकलते दिखते हैं। मुख्य ऋतु सितंबर से दिसंबर है; मध्य यूरोप में अप्रैल और मई में भी बताया जाता है।",
+      "uses": "खाने की सलाह नहीं है। मध्य यूरोप की कुछ मार्गदर्शिकाएँ इसे खाने योग्य पर रसोई में कम मूल्य का मानती हैं; अन्य इसे अखाद्य कहती हैं या हतोत्साहित करती हैं। नमी में टोपी बहुत कीच वाली है, गूदा फीका है, और गीले मौसम में इसे फीकी, चिपचिपी Hebeloma प्रजातियों से भ्रमित किया जा सकता है, जो पेट की गड़बड़ी कर सकती हैं।",
+      "confusion": "फीकी Hebeloma प्रजातियाँ (विषैले Hebeloma crustuliniforme समूह सहित) भी चिकनी या चिपचिपी फीकी टोपी और मूली जैसी गंध रखती हैं, पर उनकी टोपी चिकनी है, कीच में सफेद परदे की पपड़ियाँ नहीं हैं, रोएँदार सफेद-शल्क डंठल और लटकते परदे के अवशेष नहीं हैं, और गिल्स अक्सर पानी जैसी बूँदें टपकाती हैं। Pholiota gummosa की टोपी पीली-हरी है। Pholiota lubrica और Pholiota elegans का केंद्र अधिक स्पष्ट नारंगी-भूरा या पीला गेरुआ है। Pholiota squarrosa तनों और ठूँठों पर घने गुच्छों में उगती है और मोटी, उठी, जंग-भूरी शल्कों वाली सूखी टोपी रखती है। Pholiota spumosa अधिक पतली और अधिक पीली से पीली-भूरी है, अक्सर शंकुधारी कचरे पर, और इस प्रजाति की सफेद मिट्टी-गेरुई टोपी नहीं रखती। घातक Galerina marginata ठूँठों और तनों पर उगती है; यह छोटी है, चिकनी जंग-भूरी टोपी के साथ, बिना सफेद पपड़ियों के, और पतले डंठल पर नाजुक वलय के साथ।",
+      "notes": "सबसे अच्छी पहचान एक फीकी, बहुत कीच वाली टोपी है जिसमें कीच में ढीली सफेद पपड़ियाँ हों, और एक डंठल जो कमजोर वलय-क्षेत्र के नीचे सफेद-रोएँदार हो। यह प्रजाति ह्यूमस में छिपे काठ को विघटित करती है और देर शरद में नम बीच की पत्ती-कचरे के लिए विशिष्ट है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Bljedasta, vrlo sluzava listićava gljiva koja često izgleda kao da raste iz tla, ali je pričvršćena na zakopano trulo drvo, grančice i stelju, osobito u bukovim šumama. Klobuk je bjelkast do ilovasto okrast sa tamnijim središtem, a u sluzi su raspršeni bijeli krpice vela. Stručak je bjelkast i ispod slabe, kratkotrajne prstenaste zone čupav od puhastih bijelih ljuskica; prema dnu smeđi. Vrsta je raširena u Europi i navodi se i u Sjevernoj Americi, uglavnom u jesen.",
+      "cap": "Klobuk ima 3–8 cm, iznimno do 10 cm. Najprije je polukuglast, sa zavinutim rubom i paučinastim bijelim velom, zatim ispupčen i napokon široko spljošten, ponekad s uzdignutim rubom. Površina je ljepljiva i po vlažnu vrlo sluzava i sjajna, bjelkasta do svijetlo krem, sivookrasta ili slabo ružičastobež, s izrazito tamnijim okrasto smeđim do ilovasto smeđim središtem i bljeđim rubom. U sluzi su raspršene sitne bijele vlaknaste ljuskice i ostaci vela, a s ruba često dugo vise bijeli ostaci vela dok se klobuk ne izgladi. Kožica klobuka je elastična i može se oguliti.",
+      "hymenium": "Listići su gusti, prilično uski do srednje široki i prirasli na stručak (adnate), ponekad s malim zupcem koji silazi niz stručak. Najprije su bjelkasti, kasnije sivookrasti, ilovasto smeđi ili svijetlo sivosmeđi, ponekad s maslinastožutim tonom; oštrica je ravna do fino resasta i često bljeđa. U mladih plodišta prekriva ih obilno bijelo paučinasto velum.",
+      "stipe": "Stručak je visok 3–8 cm, ponekad do 10–12 cm, i debljine 0,4–1,2 cm; čvrst, valjkast, često malo savijen ili pri dnu malo zadebljan, pun do slabo spužvast. Gore je bjelkast i brašnast, sa slabom, prolaznom paučinastom prstenastom zonom. Ispod nje gusto je prekriven puhastim, odstajućim bijelim vlaknastim ljuskama na podlozi koja prema dnu prelazi u bež do smeđastu.",
+      "flesh": "Meso je u klobuku bjelkasto do krem, čvrsto, a prema dnu stručka blijedosmeđasto; na pritisak može polako smeđiti. Miris je neizražen ili slabo rotkvast, okus blag ili slabo rotkvast.",
+      "sporePrint": "Otisak spora je smeđ do hrđastosmeđ ili ilovasto smeđ. Spore su glatke, izduženo elipsoidne, oko 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrof na zakopanom trulom drvu, otpalim grančicama, kori te lisnatoj ili četinarskoj stelji u lisnatim i mješovitim šumama, često pod bukvom, također u četinarskim šumama. Plodišta rastu pojedinačno, u malim skupinama ili u labavim skupinama i često izgledaju kao da rastu iz tla. Glavna sezona je od rujna do prosinca; u srednjoj Europi navodi se i u travnju i svibnju.",
+      "uses": "Ne preporučuje se za jelo. Neki srednjoeuropski vodiči navode je kao jestivu, ali kuhinjski malo vrijednu; drugi je smatraju nejestivom ili je ne preporučuju. Klobuk je po vlažnu vrlo sluzav, meso je bezizražajno, a po mokru se može zamijeniti s blijedim ljepljivim vrstama roda Hebeloma, koje mogu izazvati želučane tegobe.",
+      "confusion": "Blijede vrste roda Hebeloma (uključujući otrovnu skupinu Hebeloma crustuliniforme) također imaju mastan do ljepljiv blijedi klobuk i rotkvast miris, ali im je klobuk gladak, bez bijelih krpica vela u sluzi, nedostaje im čupavi bjelkasto ljuskavi stručak i viseći ostaci vela, a listići često ispuštaju vodenaste kapljice. Pholiota gummosa ima žutozeleni klobuk. Pholiota lubrica i Pholiota elegans imaju izrazitije narančastosmeđe ili žutookrasto središte klobuka. Hrapava ljuskavica (Pholiota squarrosa) raste u gustim skupinama na deblima i panjevima i ima suhi klobuk s grubim, odstajućim hrđastosmeđim ljuskama. Pholiota spumosa vitkija je i više žuta do žutosmeđa, često na crnogoričnom listincu, i nema bjelkasto glinenookerasti klobuk ove vrste. Smrtno otrovna Galerina marginata raste na panjevima i trupcima; manja je, s glatkim hrđastosmeđim klobukom, bez bijelih krpica i s tankim stručkom s krhkim prstenom.",
+      "notes": "Najbolja prepoznatljiva obilježja su blijedi, vrlo sluzavi klobuk sa slobodnim bijelim krpicama u sluzi i stručak koji je ispod slabe prstenaste zone bjelkasto čupav. Rasgrađuje skriveno drvo u humusu i tipična je za vlažnu bukovu stelju kasno u jesen.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/%C5%BDilava_ljuskavica",
+        "https://www.wikidata.org/wiki/Q2442393"
+      ],
+      "label": "žilava ljuskavica"
+    },
+    "hu": {
+      "description": "Halvány, nagyon nyálkás lemezes gomba, amely gyakran úgy tűnik, mintha a talajból nőne, valójában azonban eltemetett korhadó fához, gallyakhoz és avarhoz kötődik, különösen bükkösökben. A kalap fehéres vagy agyagsárgás-okker, sötétebb közepű, a nyálkában pedig szórt fehér burokpehely van. A tönk fehéres, és egy gyenge, rövid életű gyűrűzóna alatt bolyhos fehér pikkelyektől szőrös; a töve felé barnul. A faj Európában elterjedt, és Észak-Amerikából is jelzik, főként ősszel.",
+      "cap": "A kalap 3–8 cm széles, alkalmanként 10 cm-ig. Először félgömbölyű, begöngyölt széllel és pókhálószerű fehér burokkal, majd domború, végül szélesen lapított, néha felemelkedő széllel. Felszíne tapadós, nedves időben nagyon nyálkás és fénylő, fehéres vagy halvány krémszínű, szürkésokker vagy enyhén rózsásbézs, határozottan sötétebb okkerbarna vagy agyagbarna középpel és halványabb széllel. A nyálkában szórt apró fehér, fonalas pikkelyek és burokmaradványok ülnek, a szélről pedig gyakran sokáig fehér burokcafatok csüngnek, amíg a kalap le nem kopaszodik. A kalapbőr rugalmas és lehúzható.",
+      "hymenium": "A lemezek sűrűn állók, meglehetősen keskenyek vagy közepes szélességűek, a tönkhöz nőttek (adnate), néha kis, a tönkre lefutó fogacskával. Először fehéresek, később szürkésokkeresek, agyagbarnák vagy halvány szürkésbarnák, néha olívás-sárga árnyalattal; élük sík vagy finoman rojtos, gyakran halványabb. A fiatal termőtesteken bőséges fehér, pókhálószerű burok fedi őket.",
+      "stipe": "A tönk 3–8 cm hosszú, néha 10–12 cm-ig, és 0,4–1,2 cm vastag; zömök, hengeres, gyakran kissé görbült vagy a tövénél kissé vastagodott, telt vagy enyhén szivacsos. Felül fehéres és lisztes, gyenge, elmúló pókhálószerű gyűrűzónával. Alatta sűrűn borítják bolyhos, elálló fehér fonalas pikkelyek egy alapon, amely a tő felé bézs vagy barnás lesz.",
+      "flesh": "A hús a kalapban fehéres vagy krémszínű, szívós, a tönk töve felé halvány barnás; nyomásra lassan barnulhat. Illata gyenge vagy enyhén retekre emlékeztet, íze enyhe vagy enyhén retekízű.",
+      "sporePrint": "A spórapor barna, rozsdabarna vagy agyagbarna. A spórák simák, hosszúkás ellipszoidok, körülbelül 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Szaprotróf eltemetett korhadó fán, lehullott gallyakon, kérgen, valamint levél- vagy tűavarón lombos és elegyes erdőkben, gyakran bükk alatt, tűlevelű erdőkben is. A termőtestek magánosan, kis csoportokban vagy laza csomókban jelennek meg, és gyakran úgy tűnik, mintha a talajból nőnének. A fő évszak szeptembertől decemberig tart; Közép-Európában áprilisban és májusban is jelzik.",
+      "uses": "Fogyasztása nem ajánlott. Egyes közép-európai útmutatók ehetőnek, de csekély konyhai értékűnek tartják; mások ehetetlennek írják vagy óvnak tőle. A kalap nedves időben nagyon nyálkás, a hús ízetlen, nedves időben pedig összetéveszthető a halvány, tapadós Hebeloma fajokkal, amelyek gyomorpanaszokat okozhatnak.",
+      "confusion": "A halvány Hebeloma fajoknak (köztük a mérgező Hebeloma crustuliniforme csoportnak) szintén zsíros vagy tapadós, halvány kalapjuk és retekillatuk van, de kalapjuk sima, a nyálkában nincsenek fehér burokpehely, hiányzik róluk a szőrös, fehéren pikkelyes tönk és a csüngő burokmaradvány, a lemezek pedig gyakran vizes cseppeket könnyeznek. A Pholiota gummosa kalapja sárgászöld. A Pholiota lubrica és a Pholiota elegans közepe határozottabban narancsbarna vagy sárgásokker. A tüskés tőkegomba (Pholiota squarrosa) sűrű csomókban nő törzseken és tuskókon, és száraz kalapján durva, felálló rozsdabarna pikkelyek vannak. A Pholiota spumosa karcsúbb és sárgább vagy sárgásbarna, gyakran fenyőavaron, és hiányzik belőle e faj fehéres agyagokker kalapja. A halálosan mérgező Galerina marginata tuskókon és törzseken nő; kisebb, sima rozsdabarna kalapú, fehér pelyhek nélkül, vékony tönkje törékeny gyűrűs.",
+      "notes": "A legjobb bélyeg a halvány, nagyon nyálkás kalap laza fehér pelyhekkel a nyálkában, és a tönk, amely a gyenge gyűrűzóna alatt fehéresen szőrös. A faj a humuszban rejtőző fát bontja, és jellemző a nedves bükkavarra késő ősszel.",
+      "names": [
+        "fakó lánggomba"
+      ],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Fak%C3%B3_t%C5%91kegomba",
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824",
+        "https://www.wikidata.org/wiki/Q2442393"
+      ],
+      "label": "fakó tőkegomba"
+    },
+    "id": {
+      "description": "Jamur berlamela pucat dan sangat berlendir yang sering tampak tumbuh dari tanah, tetapi melekat pada kayu lapuk terpendam, ranting, dan seresah, terutama di hutan beech. Tudung keputihan hingga oker lempung, dengan pusat lebih gelap, dan dalam lendir terdapat serpihan tudung putih yang tersebar. Tangkai keputihan dan di bawah zona cincin lemah yang singkat berbulu oleh sisik putih berbulu halus; ke arah pangkal menjadi kecokelatan. Jenis ini tersebar luas di Eropa dan juga dicatat di Amerika Utara, terutama pada musim gugur.",
+      "cap": "Tudung berukuran 3–8 cm, kadang hingga 10 cm. Mula-mula hemisferis, dengan tepi terlipat ke dalam dan selubung putih seperti jaring laba-laba, kemudian cembung dan akhirnya datar lebar, kadang dengan tepi terangkat. Permukaan lengket dan, ketika basah, sangat berlendir dan mengilap, keputihan hingga krem pucat, abu-abu oker atau sedikit merah jambu-beige, dengan pusat yang jelas lebih gelap, oker-cokelat hingga cokelat lempung, dan tepi yang lebih pucat. Dalam lendir tersebar sisik berserat putih kecil dan sisa selubung, dan dari tepi sering lama tergantung sisa selubung putih sebelum tudung menjadi lebih rata. Kulit tudung elastis dan dapat dikupas.",
+      "hymenium": "Lamela rapat, agak sempit hingga sedang, dan melekat pada tangkai (adnate), kadang dengan gigi kecil yang turun pada tangkai. Mula-mula keputihan, kemudian abu-abu oker, cokelat lempung atau abu-abu cokelat pucat, kadang dengan warna kuning zaitun; tepi rata hingga berjumbai halus dan sering lebih pucat. Pada tubuh buah muda, selubung putih seperti jaring laba-laba yang berlimpah menutupinya.",
+      "stipe": "Tangkai sepanjang 3–8 cm, kadang hingga 10–12 cm, dan 0,4–1,2 cm tebal; kokoh, silindris, sering sedikit bengkok atau sedikit menebal di pangkal, padat hingga sedikit spons. Di atas keputihan dan bertepung, dengan zona cincin seperti jaring laba-laba yang lemah dan cepat hilang. Di bawahnya tertutup rapat oleh sisik berserat putih, berbulu halus dan menonjol, pada latar yang ke arah pangkal menjadi beige hingga kecokelatan.",
+      "flesh": "Daging dalam tudung keputihan hingga krem, padat, dan ke arah pangkal tangkai cokelat pucat; jika ditekan dapat menjadi cokelat secara perlahan. Bau lemah atau sedikit seperti lobak, rasa lembut atau sedikit seperti lobak.",
+      "sporePrint": "Jejak spora cokelat hingga cokelat karat atau cokelat lempung. Spora halus, elipsoid memanjang, sekitar 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrof pada kayu lapuk terpendam, ranting jatuh, kulit kayu, dan seresah daun atau jarum di hutan daun dan campuran, sering di bawah beech, juga di hutan konifer. Tubuh buah muncul sendiri-sendiri, dalam kelompok kecil, atau dalam rumpun longgar, dan sering tampak keluar dari tanah. Musim utama dari September hingga Desember; di Eropa Tengah juga dicatat pada April dan Mei.",
+      "uses": "Tidak dianjurkan untuk dimakan. Beberapa panduan Eropa Tengah menyebutnya dapat dimakan tetapi bernilai kuliner rendah; yang lain menganggapnya tidak dapat dimakan atau tidak menganjurkannya. Tudung sangat berlendir saat basah, daging hambar, dan dalam cuaca basah dapat dikelirukan dengan jenis Hebeloma pucat dan lengket, yang dapat menyebabkan gangguan perut.",
+      "confusion": "Jenis Hebeloma pucat (termasuk kelompok beracun Hebeloma crustuliniforme) juga memiliki tudung berminyak atau lengket yang pucat dan bau lobak, tetapi tudungnya halus, tanpa serpihan selubung putih dalam lendir, tidak memiliki tangkai berbulu bersisik putih dan sisa selubung yang tergantung, dan lamela sering meneteskan titik-titik berair. Pholiota gummosa memiliki tudung kuning-hijau. Pholiota lubrica dan Pholiota elegans memiliki pusat yang lebih jelas cokelat-oranye atau kuning oker. Pholiota squarrosa tumbuh dalam rumpun rapat pada batang dan tunggul dan memiliki tudung kering dengan sisik kasar, tegak, cokelat karat. Pholiota spumosa lebih ramping dan lebih kuning hingga kuning-cokelat, sering pada seresah konifer, dan tidak memiliki tudung keputihan oker lempung spesies ini. Galerina marginata yang mematikan tumbuh pada tunggul dan batang; lebih kecil, dengan tudung halus cokelat karat, tanpa serpihan putih, dan tangkai tipis dengan cincin rapuh.",
+      "notes": "Ciri pengenal terbaik adalah tudung pucat yang sangat berlendir dengan serpihan putih longgar dalam lendir, dan tangkai keputihan berbulu di bawah zona cincin yang lemah. Jenis ini mengurai kayu tersembunyi dalam humus dan khas bagi seresah beech yang lembap pada akhir musim gugur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo lamellato pallido e molto vischioso, che spesso sembra crescere dal suolo ma è attaccato a legno marcio interrato, rametti e lettiera, soprattutto nei boschi di faggio. Il cappello è biancastro fino a ocraceo argilloso, con il centro più scuro, e nel muco sono dispersi fiocchi bianchi del velo. Il gambo è biancastro e, sotto una zona anulare debole e fugace, è ricoperto di squame bianche fioccose; verso la base imbrunisce. La specie è diffusa in Europa ed è segnalata anche in Nordamerica, soprattutto in autunno.",
+      "cap": "Il cappello misura 3–8 cm, talvolta fino a 10 cm. All’inizio è emisferico, con il margine involuto e un velo bianco araneoso, poi convesso e infine ampiamente appiattito, talvolta con il margine sollevato. La superficie è vischiosa e, a umido, molto viscida e lucente, biancastra fino a crema pallido, grigio-ocracea o debolmente rosato-beige, con un centro nettamente più scuro, ocraceo-bruno fino a bruno argilloso, e un margine più chiaro. Nel muco sono disperse piccole squamette fibrillose bianche e resti di velo, e dal margine pendono spesso a lungo resti bianchi di velo prima che il cappello si lisci. La cuticola è elastica e si può staccare.",
+      "hymenium": "Le lamelle sono fitte, piuttosto strette o di larghezza media, e aderenti al gambo (adnate), talvolta con un piccolo dente decorrente. Sono dapprima biancastre, poi grigio-fulve, bruno-argillose o grigio-brune pallide, talvolta con una sfumatura giallo-olivacea, e il filo è piano o finemente frangiato e spesso più chiaro. Nei basidiomi giovani sono coperte da un velo bianco araneoso abbondante.",
+      "stipe": "Il gambo misura 3–8 cm di lunghezza, talvolta fino a 10–12 cm, e 0,4–1,2 cm di spessore; è robusto, cilindrico, spesso un po’ curvato o un po’ ingrossato alla base, pieno fino a leggermente spugnoso. È biancastro e farinoso in alto, con una zona anulare araneosa debole e fugace. Al di sotto è densamente ricoperto di squame fibrillose bianche, fioccose e sporgenti, su un fondo che verso la base diventa beige o brunastro.",
+      "flesh": "La carne è biancastra fino a crema nel cappello, soda, e brunastro-pallida verso la base del gambo; alla pressione può imbrunire lentamente. L’odore è debole o lievemente ravanello, il sapore mite o lievemente ravanello.",
+      "sporePrint": "La sporata è bruna fino a bruno-ruggine o bruno argillosa. Le spore sono lisce, ellissoidi allungate, di circa 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrofo su legno marcio interrato, rametti caduti, corteccia e lettiera di foglie o aghi in boschi latifoglie e misti, spesso sotto faggio, anche in boschi di conifere. I basidiomi compaiono isolati, in piccoli gruppi o in cespi lassi, e sembrano spesso uscire dal suolo. La stagione principale va da settembre a dicembre; in Europa centrale è segnalata anche in aprile e maggio.",
+      "uses": "Il consumo non è raccomandato. Alcune guide dell’Europa centrale lo dicono commestibile ma di scarso valore culinario; altre lo considerano non commestibile o lo sconsigliano. Il cappello è molto viscido a umido, la carne è insipida, e con tempo umido si può confondere con specie pallide e vischiose di Hebeloma, che possono causare disturbi gastrici.",
+      "confusion": "Le specie pallide di Hebeloma (compreso il gruppo tossico di Hebeloma crustuliniforme) hanno anch’esse un cappello grasso o vischioso, pallido, e odore di ravanello, ma il cappello è liscio, senza fiocchi bianchi di velo nel muco, mancano il gambo irsuto ricoperto di squame bianche e i resti di velo pendenti, e le lamelle spesso trasudano goccioline acquose. Pholiota gummosa ha il cappello giallo-verde. Pholiota lubrica e Pholiota elegans hanno il centro più nettamente bruno-arancio o giallo ocraceo. Pholiota squarrosa cresce in cespi densi su tronchi e ceppi e ha un cappello asciutto con squame grosse, erette, bruno-ruggine. Pholiota spumosa è più snella e più gialla o giallo-bruna, spesso su lettiera di conifere, e manca del cappello biancastro ocraceo-argilloso di questa specie. La mortale Galerina marginata cresce su ceppi e tronchi; è più piccola, con cappello liscio bruno-ruggine, senza fiocchi bianchi, e con gambo sottile munito di un anello fragile.",
+      "notes": "La migliore combinazione diagnostica è un cappello pallido, molto viscido, con fiocchi bianchi liberi nel muco, e un gambo biancastro e irsuto sotto una debole zona anulare. Decompone il legno nascosto nell’humus ed è tipica della lettiera umida di faggio in tardo autunno.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "淡色で非常に粘るひらたけ型のきのこで、しばしば地上から生えているように見えるが、埋もれた腐朽材や小枝、落葉に着いており、とくにブナ林に多い。かさは白っぽいから粘土色の黄土色で、中央がより暗く、粘液の中に白い被膜の鱗片が散らばる。柄は白っぽく、弱く短命なつばの跡の下はふわふわした白い鱗片で毛羽立ち、基部に向かって褐変する。ヨーロッパに広く分布し、北アメリカからも記録され、おもに秋に出る。",
+      "cap": "かさは3–8 cm、ときに10 cmまで。はじめ半球形で、縁が内側に巻き、白いクモの巣状の被膜があり、のちに凸形、ついには広く平らになり、縁が持ち上がることがある。表面は粘り、湿時は非常に粘液質で光沢があり、白っぽいから淡いクリーム色、灰色がかった黄土色、または弱いピンクベージュで、中央は明らかに暗い黄土褐色から粘土褐色、縁はより淡い。粘液の中に小さな白い繊維状の鱗片と被膜の破片が散らばり、縁からは、かさが滑らかになるまで白い被膜片が長く垂れることが多い。かさの表皮は弾力があり、はがせる。",
+      "hymenium": "ひだは密、やや狭いから中くらいの幅で、柄に着生し（上生）、ときに柄を少し下りる小さな歯がある。はじめ白っぽく、のちに灰色がかった黄土色、粘土褐色、または淡い灰褐色、ときにオリーブ黄色を帯び、縁は平らか細かく房状で、しばしばより淡い。若い子実体では豊かな白いクモの巣状の被膜におおわれる。",
+      "stipe": "柄は長さ3–8 cm、ときに10–12 cm、太さ0.4–1.2 cm。がっしりして円柱状、しばしばやや曲がり、または基部がやや太く、充実からやや海綿質。上部は白っぽく粉状で、弱く消えやすいクモの巣状のつばの跡がある。その下は、基部に向かってベージュから褐色になる地に、ふわふわと突き出た白い繊維状の鱗片が密に覆う。",
+      "flesh": "肉はかさでは白っぽいからクリーム色で堅く、柄の基部に向かって淡褐色。圧すとゆっくり褐変することがある。匂いは弱いか、わずかにダイコンようで、味は温和か、わずかにダイコンよう。",
+      "sporePrint": "胞子紋は褐色からさび褐色、または粘土褐色。胞子は平滑、細長い楕円形、およそ5.5–7 × 3.5–4.5 µm。",
+      "habitat": "広葉樹や混交林の埋もれた腐朽材、落ち枝、樹皮、落葉や落ち葉針の上の腐生菌で、しばしばブナの下、針葉樹林にも出る。子実体は単生、小さな群、または疎らな束生で、しばしば土から出ているように見える。主な季節は9月から12月。中欧では4月と5月にも記録される。",
+      "uses": "食用にはすすめない。中欧の図鑑の一部は食用だが料理価値は低いとし、他は不適または採取を控えよとする。湿時のかさは非常に粘り、肉は淡白で、湿った天候では胃腸障害を起こしうる淡色で粘るHebeloma類と間違えやすい。",
+      "confusion": "淡色のHebeloma類（有毒なHebeloma crustuliniforme群を含む）も脂肪状または粘る淡色のかさとダイコン臭があるが、かさは平滑で粘液中に白い被膜片がなく、白い鱗片で毛羽立つ柄や垂れる被膜片を欠き、ひだはしばしば水滴をにじませる。Pholiota gummosaは黄緑色のかさ。Pholiota lubricaとPholiota elegansは、よりはっきりした橙褐色または黄黄土色の中央をもつ。スギタケ（Pholiota squarrosa）は幹や切り株に密な束生し、粗い上向きのさび褐色鱗片のある乾いたかさをもつ。Pholiota spumosaはより細く、より黄から黄褐色で、しばしば針葉の落葉上に生じ、本種のような白っぽい粘土黄土色のかさを欠く。致死性のGalerina marginataは切り株や幹に生じ、より小さく、平滑なさび褐色のかさで白い鱗片がなく、薄い柄に壊れやすいつばがある。",
+      "notes": "最もよい見分けは、粘液中に遊離した白い鱗片がある淡色で非常に粘るかさと、弱い環帯の下で白っぽく毛羽立つ柄である。腐植中の隠れた材を分解し、晩秋の湿ったブナの落葉に典型的である。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "シロナメツムタケ"
+    },
+    "ko": {
+      "description": "옅고 매우 점액질인 주름살 버섯으로, 흔히 땅에서 나는 것처럼 보이지만 묻힌 썩은 나무, 잔가지, 낙엽층에, 특히 너도밤나무 숲에 붙어 난다. 갓은 희거나 점토빛 황토색이며 중앙이 더 어둡고, 점액 속에 흰 피막 조각이 흩어져 있다. 대는 희고, 약하고 짧은 고리대의 아래는 솜털 같은 흰 비늘로 거칠며, 밑동으로 갈수록 갈색이 된다. 유럽에 널리 퍼져 있고 북아메리카에서도 기록되며, 주로 가을에 나온다.",
+      "cap": "갓은 3–8 cm, 가끔 10 cm까지이다. 처음에는 반구형으로, 가장자리가 안쪽으로 말리고 흰 거미줄 같은 피막이 있으며, 이어서 볼록해지고 마침내 넓게 편평해지며, 가끔 가장자리가 들린다. 표면은 끈적이고 젖으면 매우 점액질이며 광택이 나고, 희거나 연한 크림색, 회황토색 또는 약한 분홍베이지이며, 중앙은 분명히 더 어두운 황토갈색에서 점토갈색이고 가장자리는 더 옅다. 점액 속에 작은 흰 섬유상 비늘과 피막 잔편이 흩어져 있고, 갓이 매끈해질 때까지 가장자리에서 흰 피막 조각이 오래 늘어지는 경우가 많다. 갓 표피는 탄력이 있어 벗겨진다.",
+      "hymenium": "주름살은 빽빽하고, 다소 좁거나 중간 너비이며 대에 붙고(올린주름), 가끔 대를 따라 내려가는 작은 톱니가 있다. 처음에는 희고, 나중에 회황토색, 점토갈색 또는 연한 회갈색이며, 가끔 올리브노란색을 띠고, 가장자리는 편평하거나 가늘게 술 모양이며 종종 더 옅다. 어린 자실체에서는 풍부한 흰 거미줄 같은 피막이 덮는다.",
+      "stipe": "대는 길이 3–8 cm, 가끔 10–12 cm, 두께 0.4–1.2 cm이다. 탄탄하고 원기둥형이며, 흔히 약간 굽거나 밑동이 조금 굵고, 속이 차 있거나 약간 스펀지질이다. 위는 희고 가루가 있으며, 약하고 곧 사라지는 거미줄 같은 고리대가 있다. 그 아래는 밑동으로 갈수록 베이지에서 갈색이 되는 바탕 위에 솜털처럼 솟은 흰 섬유상 비늘이 빽빽하다.",
+      "flesh": "살은 갓에서 희거나 크림색이고 단단하며, 대 밑동으로 갈수록 연한 갈색이다. 누르면 천천히 갈변할 수 있다. 냄새는 약하거나 약간 무 같고, 맛은 순하거나 약간 무 같다.",
+      "sporePrint": "포자문은 갈색에서 녹슨 갈색 또는 점토갈색이다. 포자는 매끈하고 긴 타원형이며, 약 5.5–7 × 3.5–4.5 µm이다.",
+      "habitat": "넓은잎나무와 혼효림의 묻힌 썩은 나무, 떨어진 잔가지, 나무껍질, 낙엽이나 침엽 낙엽층에서 부생하며, 흔히 너도밤나무 아래, 침엽수림에도 난다. 자실체는 하나씩, 작은 무리 또는 성긴 다발로 나타나며 흔히 땅에서 나오는 것처럼 보인다. 주된 계절은 9월부터 12월이며, 중부 유럽에서는 4월과 5월에도 기록된다.",
+      "uses": "식용은 권하지 않는다. 중부 유럽의 일부 도감은 먹을 수 있으나 요리 가치가 낮다고 하고, 다른 곳은 식용 부적합이거나 채취를 말린다. 젖으면 갓이 매우 점액질이고 살은 싱거우며, 습한 날씨에는 위장 장애를 일으킬 수 있는 옅고 끈적한 Hebeloma 종류와 혼동하기 쉽다.",
+      "confusion": "옅은 Hebeloma 종류(유독한 Hebeloma crustuliniforme 무리 포함)도 기름지거나 끈적한 옅은 갓과 무 냄새를 갖지만, 갓은 매끈하고 점액 속에 흰 피막 조각이 없으며, 흰 비늘로 거친 대와 늘어진 피막 잔편이 없고, 주름살은 종종 물방울을 흘린다. Pholiota gummosa는 황록색 갓을 가진다. Pholiota lubrica와 Pholiota elegans는 더 뚜렷한 주황갈색 또는 노란 황토색 중앙을 가진다. Pholiota squarrosa는 줄기와 그루터기에 빽빽한 다발로 나며, 거칠고 선 녹슨 갈색 비늘이 있는 마른 갓을 가진다. Pholiota spumosa는 더 가늘고 더 노랗거나 황갈색이며, 흔히 침엽 낙엽층에 나고, 이 종의 흰 점토황토색 갓이 없다. 치명적인 Galerina marginata는 그루터기와 줄기에 나며, 더 작고 매끈한 녹슨 갈색 갓에 흰 조각이 없으며, 가는 대에 부서지기 쉬운 고리가 있다.",
+      "notes": "가장 좋은 식별 특징은 점액 속에 느슨한 흰 조각이 있는 옅고 매우 점액질인 갓과, 약한 고리대 아래에서 희게 거친 대이다. 부식토 속의 숨은 나무를 분해하며, 늦가을의 습한 너도밤나무 낙엽층에 전형적이다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "흰비늘버섯"
+    },
+    "lt": {
+      "description": "Blyškus, labai gleivėtas lakštuotas grybas, dažnai atrodantis tarsi augantis iš dirvos, bet prisitvirtinęs prie užkastų pūvančių medienos likučių, šakelių ir paklotės, ypač bukynuose. Kepurėlė balkšva iki molio okrinės, su tamsesniu viduriu, o gleivėse išsibarstę balti dangalo sloksniai. Kotas balkšvas ir po silpna, trumpalaike žiedo zona šeriuotas pūkuotais baltais žvyneliais; link pagrindo paruduoja. Rūšis paplitusi Europoje ir nurodoma ir Šiaurės Amerikoje, daugiausia rudenį.",
+      "cap": "Kepurėlė 3–8 cm pločio, kartais iki 10 cm. Iš pradžių pusiau rutuliška, su užsirietusiu kraštu ir voratinkliška balta danga, vėliau išgaubta ir galiausiai plačiai suplokštėjusi, kartais su pakeltu kraštu. Paviršius lipnus, o drėgnu oru labai gleivėtas ir blizgantis, balkšvas iki šviesiai kreminio, pilkai okrinis arba silpnai rožinis-smėlio, su aiškiai tamsesniu okriniu rudu iki molio rudo viduriu ir šviesesniu kraštu. Gleivėse išsibarstę maži balti skaiduliniai žvyneliai ir dangalos likučiai, o nuo krašto dažnai ilgai kabo balti dangalos skiautelės, kol kepurėlė nuplinka. Kepurėlės odelė tampri ir nusilupama.",
+      "hymenium": "Lakštai tankūs, gana siauri iki vidutinio pločio ir priaugę prie koto (adnatūs), kartais su mažu, kotu nusileidžiančiu danteliu. Iš pradžių balkšvi, vėliau pilkai okriniai, molio rudi arba šviesiai pilkai rudi, kartais su alyviniu geltonu atspalviu; ašmenys lygūs iki smulkiai kutais apaugusių ir dažnai šviesesni. Jaunose vaisiakūniuose juos dengia gausi balta voratinkliška danga.",
+      "stipe": "Kotas 3–8 cm ilgio, kartais iki 10–12 cm, ir 0,4–1,2 cm storio; tvirtas, cilindriškas, dažnai šiek tiek išlenktas arba prie pagrindo šiek tiek storesnis, kietas iki silpnai kempinis. Viršuje balkšvas ir miltuotas, su silpna, nykstančia voratinkliška žiedo zona. Po ja tankiai apaugęs pūkuotais, atsikišusiais baltais skaiduliniais žvyneliais ant fono, kuris link pagrindo tampa smėlio iki rusvo.",
+      "flesh": "Minkštimas kepurėlėje balkšvas iki kreminio, tvirtas, o link koto pagrindo šviesiai rusvas; paspaudus gali lėtai paruduoti. Kvapas silpnas arba silpnai ridikinis, skonis švelnus arba silpnai ridikinis.",
+      "sporePrint": "Sporų milteliai rudi iki rūdžių rudų arba molio rudi. Sporos lygios, pailgai elipsoidinės, apie 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrofas ant užkastų pūvančių medienos likučių, nukritusių šakelių, žievės ir lapų ar spyglių paklotės lapuočių ir mišriuose miškuose, dažnai po bukais, taip pat spygliuočių miškuose. Vaisiakūniai auga pavieniui, mažomis grupelėmis arba retais kuokštais ir dažnai atrodo tarsi augantys iš dirvos. Pagrindinis sezonas yra nuo rugsėjo iki gruodžio; Vidurio Europoje nurodoma ir balandį bei gegužę.",
+      "uses": "Valgyti nerekomenduojama. Kai kurie Vidurio Europos vadovai ją laiko valgomąja, bet mažos kulinarnės vertės; kiti laiko nevalgoma arba atgraso. Kepurėlė drėgnu oru labai gleivėta, minkštimas beskonis, o šlapiu oru ją galima supainioti su blyškiomis, lipniomis Hebeloma rūšimis, kurios gali sukelti skrandžio sutrikimų.",
+      "confusion": "Blyškios Hebeloma rūšys (įskaitant nuodingą Hebeloma crustuliniforme grupę) taip pat turi riebų ar lipnų blyškų kepurėlės paviršių ir ridikinį kvapą, bet jų kepurėlė lygi, be baltų dangalos sloksnių gleivėse, joms trūksta šeriuoto, baltai žvynuoto koto ir kabančių dangalos likučių, o lakštai dažnai raitoja vandeningus lašelius. Pholiota gummosa turi geltonai žalią kepurėlę. Pholiota lubrica ir Pholiota elegans turi ryškiau oranžiniai rusvą arba geltonai okrinį kepurėlės vidurį. Žvynuotoji skujagalvė (Pholiota squarrosa) auga tankiais kuokštais ant kamienų ir kelmų ir turi sausą kepurėlę su stambiais, atsikišusiais rūdžių rudais žvynais. Pholiota spumosa yra lieknesnė ir gelsvesnė iki gelsvai rudos, dažnai ant spygliuočių paklotės, ir neturi šios rūšies balsvo molio ochros kepurėlės. Mirtinai nuodinga Galerina marginata auga ant kelmų ir kamienų; ji mažesnė, su lygia rūdžių ruda kepurėle, be baltų sloksnių ir su plonu kotu su trapiu žiedu.",
+      "notes": "Geriausias pažinimo požymis yra blyški, labai gleivėta kepurėlė su laisvais baltais sloksniais gleivėse ir kotas, kuris po silpna žiedo zona yra balkšvai šeriuotas. Rūšis skaido paslėptą medieną humuse ir būdinga drėgnai bukų paklotei vėlyvą rudenį.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "švelniaspalvė skujagalvė"
+    },
+    "lv": {
+      "description": "Bāla, ļoti gļotaina lapiņu sēne, kas bieži izskatās augam no augsnes, bet ir piestiprināta pie apraktas trūdošas koksnes, zariņiem un nobirām, īpaši dižskābaržu mežos. Cepurīte ir bālgana līdz mālu okras krāsai, ar tumšāku vidu, un gļotās ir izkaisīti balti plīvura pārslas. Kātiņš ir bālgan un zem vājas, īslaicīgas gredzena zonas kosmats no pūkainām baltām zvīņām; pret pamatni kļūst brūngans. Suga ir plaši izplatīta Eiropā un tiek norādīta arī Ziemeļamerikā, galvenokārt rudenī.",
+      "cap": "Cepurīte ir 3–8 cm plata, reizēm līdz 10 cm. Sākumā tā ir puslodes forma, ar ierullētu malu un tīklveida baltu plīvuru, tad izliekta un visbeidzot plaši saplacināta, reizēm ar paceltu malu. Virsma ir lipīga un mitrā laikā ļoti gļotaina un spīdīga, bālgana līdz gaiši krēmkrāsai, pelēki okras vai vāji sārti bēšai, ar skaidri tumšāku okras brūnu līdz mālu brūnam vidu un gaišāku malu. Gļotās ir izkaisītas sīkas baltas šķiedrainas zvīņas un plīvura paliekas, un no malas bieži ilgi karājas baltas plīvura paliekas, līdz cepurīte nokailojas. Cepurītes miziņa ir elastīga un nolobāma.",
+      "hymenium": "Lapiņas ir ciešas, diezgan šauras līdz vidēji platām un pie kātiņa pieaugušas (adnātas), reizēm ar mazu zobiņu, kas nedaudz nokāpj pa kātiņu. Sākumā tās ir bālganas, vēlāk pelēki okras, mālu brūnas vai gaiši pelēkbrūnas, reizēm ar olīvdzeltenu nokrāsu; mala ir līdzena līdz smalki bārkstainai un bieži gaišāka. Jauniem augļķermeņiem tās sedz bagātīgs balts, tīklveida plīvurs.",
+      "stipe": "Kātiņš ir 3–8 cm garš, reizēm līdz 10–12 cm, un 0,4–1,2 cm resns; tvirtu, cilindrisks, bieži nedaudz liekts vai pie pamatnes nedaudz paresnināts, pilns līdz viegli sūkļveida. Augšpusē tas ir bālgan un miltains, ar vāju, zūdošu tīklveida gredzena zonu. Zem tās tas ir blīvi klāts ar pūkainām, atstāvošām baltām šķiedrainām zvīņām uz fona, kas pret pamatni kļūst bēšs līdz brūnganam.",
+      "flesh": "Mīkstums cepurītē ir bālgan līdz krēmkrāsai, stingrs, un pret kātiņa pamatni gaiši brūngans; saspiedot tas var lēni brūnēt. Smarža ir vāja vai vāji redīsu, garša maiga vai vāji redīsu.",
+      "sporePrint": "Sporu putekļi ir brūni līdz rūsganbrūniem vai mālu brūni. Sporas ir gludas, iegareni elipsoidālas, apmēram 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrofs uz apraktas trūdošas koksnes, nokritušiem zariņiem, mizas un lapu vai skuju nobirām lapkoku un jauktos mežos, bieži zem dižskābarža, arī skujkoku mežos. Augļķermeņi parādās pa vienam, nelielās grupās vai irdenos pušķos un bieži izskatās augam no augsnes. Galvenā sezona ir no septembra līdz decembrim; Centrāleiropā to norāda arī aprīlī un maijā.",
+      "uses": "Ēšana nav ieteicama. Dažos Centrāleiropas ceļvežos to uzskata par ēdamu, bet ar mazu kulināro vērtību; citi to uzskata par neēdamu vai neiesaka. Cepurīte mitrā laikā ir ļoti gļotaina, mīkstums ir bezgaršīgs, un mitrā laikā to var sajaukt ar bālām, lipīgām Hebeloma sugām, kas var izraisīt kuņģa traucējumus.",
+      "confusion": "Bālajām Hebeloma sugām (ieskaitot indīgo Hebeloma crustuliniforme grupu) arī ir taukaina vai lipīga bāla cepurīte un redīsu smarža, bet to cepurīte ir gluda, bez baltām plīvura pārslām gļotās, tām trūkst kosmata, balti zvīņaina kātiņa un karājošos plīvura palieku, un lapiņas bieži svīst ūdeņainus pilienus. Pholiota gummosa cepurīte ir dzeltenzaļa. Pholiota lubrica un Pholiota elegans ir izteiktāk oranžbrūns vai dzeltenokras vidus. Spurainā zvīņene (Pholiota squarrosa) aug blīvos pušķos uz stumbriem un celmiem un tai ir sausa cepurīte ar rupjām, atstāvošām rūsganbrūnām zvīņām. Pholiota spumosa ir slaidāka un dzeltenāka līdz dzeltenbrūnai, bieži uz skuju koku nobirām, un tai nav šīs sugas bāli mālaini okras krāsas cepurītes. Nāvējoši indīgā Galerina marginata aug uz celmiem un stumbriem; tā ir mazāka, ar gludu rūsganbrūnu cepurīti, bez baltām pārslām un ar tievu kātiņu ar trauslu gredzenu.",
+      "notes": "Labākā pazīme ir bāla, ļoti gļotaina cepurīte ar brīvām baltām pārslām gļotās un kātiņš, kas zem vājas gredzena zonas ir bālgani kosmats. Suga sadala slēptu koksni humusā un ir raksturīga mitrām dižskābaržu nobirām vēlā rudenī.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "mālubālā zvīņene"
+    },
+    "nl": {
+      "description": "Een bleke, zeer slijmerige plaatjeszwam die vaak lijkt op te groeien uit de bodem, maar vastzit aan begraven rottend hout, twijgjes en strooisel, vooral in beukenbossen. De hoed is witachtig tot leemoker met een donkerder centrum, en in het slijm zitten verspreide witte velumvlokjes. De steel is witachtig en onder een zwakke, kortstondige ringzone wollig van pluizige witte schubben; naar de basis toe wordt hij bruin. De soort is wijdverbreid in Europa en wordt ook in Noord-Amerika opgegeven, vooral in de herfst.",
+      "cap": "De hoed is 3–8 cm breed, soms tot 10 cm. Eerst is hij halfbolvormig, met een ingerolde rand en een spinselachtig wit velum, daarna gewelfd en ten slotte breed afgeplat, soms met een opgerichte rand. Het oppervlak is kleverig en bij vocht zeer slijmerig en glanzend, witachtig tot bleek roomkleurig, grijsooker of zwak roze-beige, met een duidelijk donkerder okerbruin tot leembruin centrum en een blekere rand. In het slijm zitten verspreide kleine witte vezelige schubjes en velumresten, en aan de rand hangen vaak lang witte velumflarden voordat de hoed kaal wordt. De hoedhuid is elastisch en laat zich aftrekken.",
+      "hymenium": "De lamellen staan dicht opeen, zijn vrij smal tot middelbreed en aangehecht aan de steel (adnaat), soms met een klein tandje dat langs de steel afl<fim-middle>oopt. Ze zijn eerst witachtig, later grijstauw, leembruin of bleek grijsbruin, soms met een olijfgele tint; de snede is vlak tot fijn gewimperd en vaak bleker. Bij jonge vruchtlichamen worden ze bedekt door een overvloedig wit, spinselachtig velum.",
+      "stipe": "De steel is 3–8 cm lang, soms tot 10–12 cm, en 0,4–1,2 cm dik; stevig, cilindrisch, vaak iets gebogen of aan de basis iets verdikt, vol tot licht sponsachtig. Bovenaan is hij witachtig en meelachtig, met een zwakke, vergankelijke spinselachtige ringzone. Daaronder is hij dicht bedekt met pluizige, afstaande witte vezelige schubben op een achtergrond die naar de basis toe beige tot bruinachtig wordt.",
+      "flesh": "Het vlees is in de hoed witachtig tot roomkleurig, stevig, en naar de steelbasis toe bleek bruinachtig; bij kneuzing kan het langzaam bruin worden. De geur is onopvallend of zwak naar radijs, de smaak mild of licht naar radijs.",
+      "sporePrint": "De sporenprint is bruin tot roestbruin of leembruin. De sporen zijn glad, langwerpig ellipsoïd, ongeveer 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Een saprotroof op begraven rottend hout, gevallen twijgjes, schors en blad- of naaldstrooisel in loof- en gemengde bossen, vaak onder beuk, ook in naaldbossen. De vruchtlichamen verschijnen alleen, in kleine groepjes of in losse bundels en lijken vaak uit de bodem te groeien. Het hoofseizoen is van september tot december; in Midden-Europa wordt de soort ook in april en mei opgegeven.",
+      "uses": "Niet aanbevolen om te eten. Sommige Midden-Europese gidsen noemen hem eetbaar maar van geringe culinaire waarde; andere vermelden hem als oneetbaar of raden hem af. De hoed is bij vocht zeer slijmerig, het vlees is flauw, en bij nat weer kan hij worden verward met bleke, kleverige Hebeloma-soorten, die maagklachten kunnen veroorzaken.",
+      "confusion": "Bleke Hebeloma-soorten (waaronder de giftige Hebeloma crustuliniforme-groep) hebben eveneens een vettige tot kleverige bleke hoed en een radijsgeur, maar hun hoed is glad, zonder witte velumvlokken in het slijm, ze missen een wollig witgeschubde steel en hangende velumresten, en de lamellen tranen vaak waterige druppeltjes. Pholiota gummosa heeft een geelgroene hoed. Pholiota lubrica en Pholiota elegans hebben een duidelijker oranjebruin of geeloker centrum. De schubbige bundelzwam (Pholiota squarrosa) groeit in dichte bundels aan stammen en stronken en heeft een droge hoed met grove, afstaande roestbruine schubben. Pholiota spumosa is slanker en meer geel tot geelbruin, vaak op naaldstrooisel, en mist de witachtig klei-okergele hoed van deze soort. De dodelijk giftige Galerina marginata groeit op stronken en stammen; hij is kleiner, met een gladde roestbruine hoed, zonder witte vlokken en met een dunne steel met een broze ring.",
+      "notes": "De beste herkenningscombinatie is een bleke, zeer slijmerige hoed met losse witte vlokken in het slijm en een steel die onder een zwakke ringzone witachtig wollig is. De soort verteert verborgen hout in de humus en is typisch voor vochtig beukenstrooisel in de late herfst.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Slijmerige_blekerik",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "slijmerige blekerik"
+    },
+    "no": {
+      "description": "En blek, svært slimete skivesopp som ofte ser ut til å vokse fra jorda, men sitter festet til nedgravd råtten ved, kvister og strø, særlig i bøkeskog. Hatten er hvitaktig til leir-okergul med mørkere midt, og i slimet sitter spredte hvite slørflak. Stokken er hvitaktig og under en svak, kortvarig ringsone lodden av flokete hvite skjell; mot basis brunlig. Arten er utbredt i Europa og angis også fra Nord-Amerika, særlig om høsten.",
+      "cap": "Hatten er 3–8 cm bred, av og til opptil 10 cm. Først er den halvkuleformet, med innrullet rand og et spindelvevaktig hvitt slør, deretter hvelvet og til slutt bredt avflatet, av og til med oppløftet rand. Overflaten er klebrig og i vått vær svært slimete og blank, hvitaktig til blekt kremfarget, gråoker eller svakt rosa-beige, med tydelig mørkere okerbrun til leirbrun midt og blekere rand. I slimet sitter spredte små hvite trådaktige skjell og slørrester, og fra randen henger ofte lenge hvite slørrester før hatten blir glatt. Hattehuden er elastisk og kan trekkes av.",
+      "hymenium": "Skivene er tette, ganske smale til middels brede og festet til stokken (adnate), av og til med en liten tann som løper litt nedover stokken. De er først hvitaktige, senere gråoker, leirbrune eller blekt gråbrune, av og til med oliven-gul tone; eggen er jevn til fint frynset og ofte blekere. Hos unge fruktlegemer dekkes de av et rikt hvitt, spindelvevaktig slør.",
+      "stipe": "Stokken er 3–8 cm lang, av og til opptil 10–12 cm, og 0,4–1,2 cm tykk; kraftig, sylindrisk, ofte litt krum eller litt fortykket ved basis, solid til lett svampet. Øverst er den hvitaktig og meleaktig, med en svak, forgjengelig spindelvevaktig ringsone. Nedenfor er den tett dekket av flokete, utstående hvite trådaktige skjell på en bakgrunn som mot basis blir beige til brunlig.",
+      "flesh": "Kjøttet er i hatten hvitaktig til kremfarget, fast, og mot stokkens basis blekt brunlig; ved trykk kan det langsomt brunfarges. Lukten er svak eller svakt reddikaktig, smaken mild eller svakt reddikaktig.",
+      "sporePrint": "Sporeavtrykket er brunt til rustbrunt eller leirbrunt. Sporene er glatte, avlangt ellipsoide, om lag 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "En saprotrof på nedgravd råtten ved, falne kvister, bark og løv- eller barnålestrø i løv- og blandingsskog, ofte under bøk, også i barskog. Fruktlegemene kommer enkeltvis, i små grupper eller i løse klynger og ser ofte ut til å vokse fra jorda. Hovedsesongen er fra september til desember; i Sentral-Europa angis den også i april og mai.",
+      "uses": "Anbefales ikke som matsop. Noen sentraleuropeiske håndbøker kaller den spiselig, men av liten kjøkkenverdi; andre fører den som uspiselig eller fraråder den. Hatten er i vått vær svært slimete, kjøttet er smakløst, og i fuktig vær kan den forveksles med bleke, klebrige Hebeloma-arter, som kan gi mageubehag.",
+      "confusion": "Bleke Hebeloma-arter (inklusive den giftige Hebeloma crustuliniforme-gruppen) har også en fet til klebrig blek hatt og reddiklukt, men hatten deres er glatt, uten hvite slørflak i slimet, de mangler en lodden hvitskjellende stokk og hengende slørrester, og skivene gråter ofte vanndråper. Pholiota gummosa har en gulgrønn hatt. Pholiota lubrica og Pholiota elegans har en tydeligere oransjebrun eller guloker midt. Raspskjellsopp (Pholiota squarrosa) vokser i tette klynger på stammer og stubber og har en tørr hatt med grove, utstående rustbrune skjell. Pholiota spumosa er slankere og mer gul til gulbrun, ofte på barnålsstrø, og mangler denne artens hvitaktig leir-okerfargede hatt. Den dødelig giftige Galerina marginata vokser på stubber og stammer; den er mindre, med glatt rustbrun hatt, uten hvite flak og med tynn stokk med en skjør ring.",
+      "notes": "Den beste kjennetegnskombinasjonen er en blek, svært slimete hatt med løse hvite flak i slimet og en stokk som under en svak ringsone er hvitaktig lodden. Den bryter ned skjult ved i humusen og er typisk for fuktig bøkestrø sent på høsten.",
+      "names": [
+        "slimskjelsopp"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "slimskjellsopp"
+    },
+    "pl": {
+      "description": "Blady, bardzo śluzowaty grzyb blaszkowy, który często wygląda, jakby rósł z gleby, ale jest przyczepiony do zagrzebanego próchniejącego drewna, gałązek i ściółki, zwłaszcza w buczynach. Kapelusz jest białawy do gliniastoochrowego, z ciemniejszym środkiem, a w śluzie tkwią rozproszone białe płatki osłony. Trzon jest białawy i pod słabą, krótkotrwałą strefą pierścieniową kosmaty od puszystych białych łusek; ku podstawie brązowieje. Gatunek jest rozpowszechniony w Europie i podawany także z Ameryki Północnej, głównie jesienią.",
+      "cap": "Kapelusz ma 3–8 cm średnicy, wyjątkowo do 10 cm. Najpierw jest półkulisty, z podwiniętym brzegiem i pajęczynowatą białą osłoną, potem wypukły, wreszcie szeroko spłaszczony, niekiedy z uniesionym brzegiem. Powierzchnia jest lepka, a w wilgoci bardzo śluzowata i błyszcząca, biaława do jasno kremowej, szaroochrowej lub słabo różowawobeżowej, z wyraźnie ciemniejszym ochrowobrązowym do gliniastobrązowego środkiem i bledszym brzegiem. W śluzie tkwią rozproszone drobne białe włókniste łuseczki i resztki osłony, a z brzegu często długo zwisają białe resztki osłony, zanim kapelusz zgładzieje. Skórka kapelusza jest sprężysta i daje się ściągnąć.",
+      "hymenium": "Blaszki są gęste, dość wąskie do średnio szerokich i przyrośnięte do trzonu (adnate), czasem z małym ząbkiem zbiegającym na trzon. Najpierw są białawe, później szaroochrowe, gliniastobrązowe lub jasno szarobrązowe, niekiedy z oliwkowożółtym odcieniem; ostrze jest równe do delikatnie frędzlowanego i często bledsze. U młodych owocników okrywa je obfita biała pajęczynowata osłona.",
+      "stipe": "Trzon ma 3–8 cm długości, czasem do 10–12 cm, i 0,4–1,2 cm grubości; krzepki, walcowaty, często lekko wygięty lub nieco zgrubiały u podstawy, pełny do słabo gąbczastego. U góry jest białawy i mączysty, ze słabą, znikającą pajęczynowatą strefą pierścieniową. Poniżej niej jest gęsto pokryty puszystymi, odstającymi białymi włóknistymi łuskami na tle, które ku podstawie przechodzi w beżowe do brązowawego.",
+      "flesh": "Miąższ w kapeluszu jest białawy do kremowego, jędrny, a ku podstawie trzonu bladobrązowawy; po ugnieceniu może powoli brązowieć. Zapach jest niewyraźny lub słabo rzeżuchowy (rzodkiewkowy), smak łagodny lub słabo rzodkiewkowy.",
+      "sporePrint": "Wysyp zarodników jest brązowy do rdzawobrązowego lub gliniastobrązowego. Zarodniki są gładkie, wydłużonoelipsoidalne, około 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrof na zagrzebanym próchniejącym drewnie, opadłych gałązkach, korze oraz liściastej lub iglastej ściółce w lasach liściastych i mieszanych, często pod bukiem, także w lasach iglastych. Owocniki pojawiają się pojedynczo, w małych grupach lub w luźnych kępkach i często wyglądają, jakby rosły z gleby. Główny sezon to wrzesień–grudzień; w Europie Środkowej podawany jest także w kwietniu i maju.",
+      "uses": "Nie zaleca się spożywania. Niektóre środkowoeuropejskie przewodniki podają go jako jadalnego, ale o małej wartości kulinarnej; inne uznają go za niejadalnego lub nie zalecają. Kapelusz jest w wilgoci bardzo śluzowaty, miąższ jest mdły, a w mokrej pogodzie można go pomylić z bladymi, lepkimi gatunkami z rodzaju Hebeloma, które mogą powodować dolegliwości żołądkowe.",
+      "confusion": "Blade gatunki z rodzaju Hebeloma (w tym trująca grupa Hebeloma crustuliniforme) mają również tłusty do lepkiego blady kapelusz i rzodkiewkowy zapach, ale ich kapelusz jest gładki, bez białych płatków osłony w śluzie, brak im kosmatego, białawo łuskowatego trzonu i zwisających resztek osłony, a blaszki często wydzielają wodniste kropelki. Pholiota gummosa ma żółtozielony kapelusz. Pholiota lubrica i Pholiota elegans mają wyraźniej pomarańczowobrązowy lub żółtoochrowy środek kapelusza. Łuskwiak nastroszony (Pholiota squarrosa) rośnie w gęstych kępach na pniach i pieńkach i ma suchy kapelusz z grubymi, odstającymi rdzawobrązowymi łuskami. Pholiota spumosa jest smuklejsza i bardziej żółta do żółtobrązowej, często na ściółce iglastej, i nie ma białawo gliniastoochrowego kapelusza tego gatunku. Śmiertelnie trująca Galerina marginata rośnie na pieńkach i kłodach; jest mniejsza, z gładkim rdzawobrązowym kapeluszem, bez białych płatków i z cienkim trzonem o kruchym pierścieniu.",
+      "notes": "Najlepszymi cechami rozpoznawczymi są blady, bardzo śluzowaty kapelusz z luźnymi białymi płatkami w śluzie oraz trzon kosmato białawy poniżej słabej strefy pierścieniowej. Rozkłada ukryte drewno w próchnicy i typowy jest dla wilgotnej bukowej ściółki późną jesienią.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/%C5%81uskwiak_%C5%9Bluzowaty",
+        "https://www.wikidata.org/wiki/Q2442393",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "łuskwiak śluzowaty"
+    },
+    "pt": {
+      "description": "Um cogumelo lamelado pálido e muito viscoso, que parece muitas vezes brotar do solo mas está preso a madeira podre enterrada, raminhos e folhada, sobretudo em bosques de faia. O chapéu é esbranquiçado a ocre-argiloso, com o centro mais escuro, e no muco há flocos brancos do véu. O pé é esbranquiçado e, abaixo de uma zona anelar fraca e fugaz, está coberto de escamas brancas felpudas; para a base torna-se acastanhado. A espécie é ampla na Europa e também é referida na América do Norte, sobretudo no outono.",
+      "cap": "O chapéu mede 3–8 cm, por vezes até 10 cm. É primeiro hemisférico, com a margem enrolada e um véu branco aracnoide, depois convexo e por fim largamente aplanado, por vezes com a margem erguida. A superfície é pegajosa e, com humidade, muito viscosa e brilhante, esbranquiçada a creme pálido, cinzento-ocre ou ligeiramente rosado-bege, com um centro claramente mais escuro, ocre-acastanhado a pardo-argiloso, e uma margem mais pálida. No muco há pequenas escamas fibrilosas brancas e restos de véu, e da margem pendem muitas vezes durante muito tempo restos brancos de véu antes de o chapéu se alisar. A cutícula é elástica e pode ser descascada.",
+      "hymenium": "As lâminas são apertadas, bastante estreitas a de largura média, e aderentes ao pé (adnadas), por vezes com um pequeno dente decurrente. São primeiro esbranquiçadas, depois cinzento-fulvas, pardo-argilosas ou cinzento-pardas pálidas, por vezes com um tom amarelo-oliváceo, e a aresta é lisa a finamente franjada e muitas vezes mais pálida. Nos carpóforos jovens estão cobertas por um véu branco aracnoide abundante.",
+      "stipe": "O pé mede 3–8 cm de comprimento, por vezes até 10–12 cm, e 0,4–1,2 cm de espessura; é robusto, cilíndrico, muitas vezes um pouco curvado ou um pouco engrossado na base, maciço a ligeiramente esponjoso. É esbranquiçado e farinhoso no ápice, com uma zona anelar aracnoide fraca e fugaz. Abaixo desta está densamente coberto de escamas fibrilosas brancas, felpudas e salientes, sobre um fundo que para a base passa a bege ou acastanhado.",
+      "flesh": "A carne é esbranquiçada a creme no chapéu, firme, e pardo-pálida para a base do pé; pode escurecer lentamente ao toque. O cheiro é fraco ou ligeiramente a rabanete, o sabor suave ou ligeiramente a rabanete.",
+      "sporePrint": "A esporada é parda a pardo-ferrugínea ou pardo-argilosa. Os esporos são lisos, elipsoides alongados, com cerca de 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Sapróbia sobre madeira podre enterrada, raminhos caídos, casca e folhada ou agulhas em bosques caducifólios e mistos, muitas vezes sob faia, também em bosques de resinosas. Os carpóforos aparecem isolados, em pequenos grupos ou em tufos frouxos, e muitas vezes parecem sair do solo. A época principal vai de setembro a dezembro; na Europa Central também é referida em abril e maio.",
+      "uses": "Não se recomenda o consumo. Alguns guias da Europa Central consideram-no comestível mas de pouco valor culinário; outros consideram-no não comestível ou desaconselham-no. O chapéu é muito viscoso com humidade, a carne é insípida, e com tempo húmido pode confundir-se com espécies pálidas e pegajosas de Hebeloma, que podem causar problemas gástricos.",
+      "confusion": "As espécies pálidas de Hebeloma (incluindo o grupo tóxico de Hebeloma crustuliniforme) têm também um chapéu gorduroso ou pegajoso, pálido, e cheiro a rabanete, mas o chapéu é liso, sem flocos brancos de véu no muco, falta-lhes o pé peludo coberto de escamas brancas e os restos de véu pendentes, e as lâminas muitas vezes exsudam gotículas aquosas. Pholiota gummosa tem o chapéu amarelo-esverdeado. Pholiota lubrica e Pholiota elegans têm o centro mais claramente pardo-alaranjado ou amarelo-ocre. Pholiota squarrosa cresce em tufos densos em troncos e cepos e tem um chapéu seco com escamas grosseiras, erguidas, pardo-ferrugíneas. Pholiota spumosa é mais esbelta e mais amarela a amarelo-acastanhada, frequentemente sobre serapilheira de coníferas, e não tem o chapéu esbranquiçado ocre-argiloso desta espécie. A mortal Galerina marginata cresce em cepos e troncos; é mais pequena, de chapéu liso pardo-ferrugíneo, sem flocos brancos, e de pé fino com um anel frágil.",
+      "notes": "A melhor combinação diagnóstica é um chapéu pálido, muito viscoso, com flocos brancos soltos no muco, e um pé esbranquiçado e peludo abaixo de uma zona anelar fraca. Decompõe madeira oculta no húmus e é típica da folhada húmida de faia no fim do outono.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă cu lamele palidă și foarte vâscoasă, care pare adesea că iese din sol, dar este prinsă de lemn putred îngropat, crenguțe și litieră, mai ales în făgete. Pălăria este albicioasă până la ocru-argilos, cu centrul mai închis, iar în mucus sunt dispersate fulgi albi de văl. Piciorul este albicios și, sub o zonă inelară slabă și fugace, este acoperit cu solzi albi pufoși; spre bază se brunifică. Specia este răspândită în Europa și este semnalată și în America de Nord, mai ales toamna.",
+      "cap": "Pălăria măsoară 3–8 cm, uneori până la 10 cm. La început este emisferică, cu marginea răsfrântă înăuntru și un văl alb arahnoid, apoi convexă și în cele din urmă larg aplatizată, uneori cu marginea ridicată. Suprafața este lipicioasă și, pe vreme umedă, foarte vâscoasă și lucioasă, albicioasă până la crem pal, gri-ocru sau ușor roz-bej, cu un centru net mai închis, ocru-brun până la brun argilos, și o margine mai palidă. În mucus sunt dispersați solzi fibriloși albi mici și resturi de văl, iar de pe margine atârnă adesea vreme îndelungată resturi albe de văl înainte ca pălăria să se netezească. Cuticula este elastică și se poate jupui.",
+      "hymenium": "Lamelele sunt dese, destul de înguste până la de lățime medie, și aderente la picior (adnate), uneori cu un dințișor scurt decurent. Sunt la început albicioase, apoi gri-fulve, brun-argiloase sau gri-brune palide, uneori cu o nuanță galben-olivacee, iar muchia este plană până la fin franjurată și adesea mai palidă. La carpoforii tineri sunt acoperite de un văl alb arahnoid abundant.",
+      "stipe": "Piciorul măsoară 3–8 cm lungime, uneori până la 10–12 cm, și 0,4–1,2 cm grosime; este viguros, cilindric, adesea ușor curbat sau puțin îngroșat la bază, plin până la ușor spongios. Este albicios și făinos la vârf, cu o zonă inelară arahnoidă slabă și fugace. Sub aceasta este dens acoperit cu solzi fibriloși albi, pufoși și proeminenți, pe un fond care spre bază trece în bej până la brun-cenușiu.",
+      "flesh": "Carnea este albicioasă până la crem în pălărie, fermă, și brun-palidă spre baza piciorului; la apăsare poate să se brunifice încet. Mirosul este slab sau ușor de ridiche, gustul blând sau ușor de ridiche.",
+      "sporePrint": "Sporada este brună până la brun-ruginie sau brun-argiloasă. Sporii sunt netezi, elipsoidali alungiți, de circa 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprofită pe lemn putred îngropat, crenguțe căzute, scoarță și litieră de frunze sau ace în păduri de foioase și mixte, adesea sub fag, și în păduri de conifere. Carpoforii apar izolați, în grupuri mici sau în smocuri rare, și par adesea că ies din sol. Sezonul principal este din septembrie până în decembrie; în Europa Centrală este semnalată și în aprilie și mai.",
+      "uses": "Consumul nu este recomandat. Unele ghiduri din Europa Centrală o dau ca comestibilă, dar de mică valoare culinară; altele o consideră necomestibilă sau o descurajează. Pălăria este foarte vâscoasă pe vreme umedă, carnea este fadă, iar pe umezeală poate fi confundată cu specii palide și lipicioase de Hebeloma, care pot provoca tulburări gastrice.",
+      "confusion": "Speciile palide de Hebeloma (inclusiv grupul toxic Hebeloma crustuliniforme) au și ele o pălărie unsuroasă sau lipicioasă, palidă, și miros de ridiche, dar pălăria este netedă, fără fulgi albi de văl în mucus, le lipsesc piciorul păros acoperit de solzi albi și resturile de văl pendente, iar lamelele transpiră adesea picături apoase. Pholiota gummosa are pălăria galben-verde. Pholiota lubrica și Pholiota elegans au centrul mai clar brun-portocaliu sau galben-ocru. Bureții solzoși (Pholiota squarrosa) cresc în smocuri dese pe trunchiuri și cioate și au o pălărie uscată cu solzi groși, răsfrânți, brun-ruginii. Pholiota spumosa este mai zveltă și mai galbenă până la brun-gălbuie, adesea pe litieră de conifere, și nu are pălăria albicioasă ocru-argiloasă a acestei specii. Mortala Galerina marginata crește pe cioate și trunchiuri; este mai mică, cu pălărie netedă brun-ruginie, fără fulgi albi, și cu picior subțire prevăzut cu un inel fragil.",
+      "notes": "Cea mai bună combinație de caractere este o pălărie palidă, foarte vâscoasă, cu fulgi albi liberi în mucus, și un picior albicios și păros sub o zonă inelară slabă. Descompune lemnul ascuns în humus și este tipică pentru litiera umedă de fag toamna târziu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Бледный, очень слизистый пластинчатый гриб, который часто кажется растущим из почвы, но прикреплён к погребённой гниющей древесине, веточкам и подстилке, особенно в буковых лесах. Шляпка беловатая до глинисто-охристой, с более тёмным центром, а в слизи разбросаны белые хлопья покрывала. Ножка беловатая и ниже слабой, недолговечной кольцевой зоны мохнатая от пушистых белых чешуек; к основанию буреет. Вид широко распространён в Европе и отмечается также в Северной Америке, главным образом осенью.",
+      "cap": "Шляпка 3–8 см, иногда до 10 см. Сначала полушаровидная, с подвёрнутым краем и паутинистым белым покрывалом, затем выпуклая и наконец широко распростёртая, иногда с приподнятым краем. Поверхность липкая и во влажную погоду очень слизистая и блестящая, беловатая до бледно-кремовой, серо-охристой или слабо розовато-бежевой, с заметно более тёмным охристо-бурым до глинисто-бурого центром и более бледным краем. В слизи разбросаны мелкие белые волокнистые чешуйки и остатки покрывала, а с края часто долго свисают белые обрывки покрывала, пока шляпка не станет глаже. Кожица шляпки эластичная и снимается.",
+      "hymenium": "Пластинки частые, довольно узкие до средней ширины, приросшие к ножке (adnate), иногда с небольшим зубцом, сбегающим на ножку. Сначала они беловатые, затем серо-охристые, глинисто-бурые или бледно-серо-бурые, иногда с оливково-жёлтым оттенком; край ровный до мелкореснитчатого и часто бледнее. У молодых плодовых тел их закрывает обильное белое паутинистое покрывало.",
+      "stipe": "Ножка 3–8 см длиной, иногда до 10–12 см, и 0,4–1,2 см толщиной; крепкая, цилиндрическая, часто слегка изогнутая или немного утолщённая у основания, выполненная до слегка губчатой. Сверху беловатая и мучнистая, со слабой, быстро исчезающей паутинистой кольцевой зоной. Ниже она густо покрыта пушистыми, оттопыренными белыми волокнистыми чешуйками на фоне, который к основанию становится бежевым до буроватого.",
+      "flesh": "Мякоть в шляпке беловатая до кремовой, плотная, к основанию ножки бледно-буроватая; при надавливании может медленно буреть. Запах слабый или слабо редечный, вкус мягкий или слабо редечный.",
+      "sporePrint": "Споровый порошок бурый до ржаво-бурого или глинисто-бурого. Споры гладкие, удлинённо-эллипсоидные, около 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Сапротроф на погребённой гниющей древесине, опавших веточках, коре и листовом или хвойном опаде в лиственных и смешанных лесах, часто под буком, также в хвойных лесах. Плодовые тела появляются поодиночке, небольшими группами или рыхлыми пучками и часто кажутся растущими из почвы. Основной сезон — с сентября по декабрь; в Центральной Европе вид отмечается также в апреле и мае.",
+      "uses": "К употреблению в пищу не рекомендуется. Некоторые центральноевропейские справочники считают его съедобным, но малоценным; другие относят к несъедобным или не советуют собирать. Шляпка во влажную погоду очень слизистая, мякоть пресная, а в сырую погоду его можно спутать с бледными липкими видами рода Hebeloma, которые могут вызывать расстройство желудка.",
+      "confusion": "Бледные виды рода Hebeloma (включая ядовитую группу Hebeloma crustuliniforme) также имеют жирную или липкую бледную шляпку и редечный запах, но их шляпка гладкая, без белых хлопьев покрывала в слизи, у них нет мохнатой беловато-чешуйчатой ножки и свисающих остатков покрывала, а пластинки часто плачут водянистыми каплями. У Pholiota gummosa шляпка жёлто-зелёная. У Pholiota lubrica и Pholiota elegans центр шляпки более отчётливо оранжево-бурый или жёлто-охристый. Чешуйчатка обыкновенная (Pholiota squarrosa) растёт густыми пучками на стволах и пнях и имеет сухую шляпку с грубыми, оттопыренными ржаво-бурыми чешуйками. Pholiota spumosa стройнее и более жёлтая до желтовато-коричневой, часто на хвойной подстилке, и у неё нет беловато-глинисто-охристой шляпки этого вида. Смертельно ядовитая Galerina marginata растёт на пнях и стволах; она мельче, с гладкой ржаво-бурой шляпкой, без белых хлопьев и с тонкой ножкой с хрупким кольцом.",
+      "notes": "Лучший отличительный признак — бледная, очень слизистая шляпка со свободными белыми хлопьями в слизи и ножка, которая ниже слабой кольцевой зоны беловато-мохнатая. Гриб разлагает скрытую древесину в гумусе и типичен для влажного букового опада поздней осенью.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "чешуйчатка клейкая"
+    },
+    "sk": {
+      "description": "Belavá, veľmi slizká lupeňovitá huba, ktorá často vyzerá, akoby rástla zo zeme, ale je prichytená na zahrabanom trouchnivom dreve, konárikoch a opade, najmä v bučinách. Klobúk je belavý až ílovito okrový s tmavším stredom a v slize má roztrúsené biele vločky závoja. Hlúbik je belavý a pod slabou, krátkotrvajúcou prstenovitou zónou strapatý od nadýchaných bielych šupín; k báze hnedne. Je rozšírená v Európe a uvádza sa aj v Severnej Amerike, predovšetkým na jeseň.",
+      "cap": "Klobúk má 3–8 cm, výnimočne až 10 cm. Najprv je polguľovitý, s podvinutým okrajom a pavučinovitým bielym závojom, potom klenutý a napokon široko sploštený, niekedy so zdvihnutým okrajom. Povrch je lepkavý a za vlhka veľmi slizký a lesklý, belavý až svetlo krémový, sivookrový alebo slabo ružovkastobéžový, s výrazne tmavším okrovo hnedým až ílovito hnedým stredom a bledším okrajom. V slize sú roztrúsené drobné biele vláknité šupinky a zvyšky závoja a z okraja často dlho visia biele zvyšky závoja, kým klobúk nevyhladne. Pokožka klobúka je pružná a dá sa stiahnuť.",
+      "hymenium": "Lupene sú husté, dosť úzke až stredne široké a na hlúbik prirastené (adnate), niekedy s malým zubom zbiehajúcim na hlúbik. Najprv sú belavé, neskôr sivookrové, ílovito hnedé alebo svetlo sivohnedé, niekedy s olivovožltým nádychom; ostrie je rovné až jemne strapkaté a často bledšie. U mladých plodníc ich zakrýva hojný biely pavučinovitý závoj.",
+      "stipe": "Hlúbik je 3–8 cm dlhý, niekedy až 10–12 cm, a 0,4–1,2 cm hrubý; statný, valcovitý, často slabo zahnutý alebo na báze trocha zhrubnutý, plný až slabo hubovitý. Navrchu je belavý a múčnatý, so slabou, prchavou pavučinovitou prstenovitou zónou. Pod ňou je husto pokrytý nadýchanými, odstávajúcimi bielymi vláknitými šupinami na podklade, ktorý k báze prechádza do béžovej až hnedastej.",
+      "flesh": "Dužina je v klobúku belavá až krémová, pevná a k báze hlúbika bledohnedastá; po otlačení môže pomaly hnednúť. Vôňa je nevýrazná alebo slabo reďkovková, chuť mierna alebo slabo reďkovková.",
+      "sporePrint": "Výtrusný prach je hnedý až hrdzavohnedý alebo ílovito hnedý. Výtrusy sú hladké, predĺžene elipsoidné, asi 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrofná huba na zahrabanom trouchnivom dreve, opadaných konárikoch, kôre a listovom alebo ihličnatom opade v listnatých a zmiešaných lesoch, často pod bukom, aj v ihličnatých lesoch. Plodnice vyrastajú jednotlivo, v malých skupinách alebo vo voľných zhlukoch a často vyzerajú, akoby rástli zo zeme. Hlavná sezóna je od septembra do decembra; v strednej Európe sa uvádza aj v apríli a máji.",
+      "uses": "Na konzumáciu sa neodporúča. Niektoré stredoeurópske príručky ju uvádzajú ako jedlú, ale kuchynsky málo hodnotnú; iné ju považujú za nejedlú alebo ju neodporúčajú. Klobúk je za vlhka veľmi slizký, dužina je bezvýrazná a za mokra ju možno zameniť s belavými lepkavými druhmi rodu Hebeloma, ktoré môžu spôsobiť žalúdočné ťažkosti.",
+      "confusion": "Belavé druhy rodu Hebeloma (vrátane jedovatej skupiny Hebeloma crustuliniforme) majú tiež mastný až lepkavý bledý klobúk a reďkovkovú vôňu, ale klobúk je hladký, bez bielych vločiek závoja v slize, chýba im strapatý belavo šupinatý hlúbik aj visiace zvyšky závoja a lupene často ronia vodnaté kvapky. Pholiota gummosa má žltozelený klobúk. Pholiota lubrica a Pholiota elegans majú výraznejšie oranžovohnedý alebo žltookrový stred klobúka. Šupinovka šupinatá (Pholiota squarrosa) rastie v hustých trsoch na kmeňoch a pňoch a má suchý klobúk s hrubými, odstávajúcimi hrdzavohnedými šupinami. Pholiota spumosa je štíhlejšia a skôr žltá až žltohnedá, často na ihličnatom opade, a nemá belavo hlinovookrový klobúk tohto druhu. Smrteľne jedovatá Galerina marginata rastie na pňoch a kmeňoch; je menšia, s hladkým hrdzavohnedým klobúkom, bez bielych vločiek a s tenkým hlúbikom s krehkým prsteňom.",
+      "notes": "Najlepšími poznávacími znakmi sú bledý, veľmi slizký klobúk s voľnými bielymi vločkami v slize a hlúbik, ktorý je pod slabou prstenovitou zónou belavo strapatý. Rozkladá skryté drevo v humuse a je typická pre vlhký bukový opad neskoro na jeseň.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "šupinovka hlinovookrová"
+    },
+    "sl": {
+      "description": "Bleda, zelo sluzasta lističasta goba, ki pogosto deluje, kakor da raste iz prsti, vendar je pritrjena na zakopane trohneče lesne ostanke, vejice in opad, zlasti v bukovih gozdovih. Klobuk je belkast do ilovnato okrast z temnejšim središčem, v sluzi pa so raztreseni beli kosmiči ovojnice. Bet je belkast in pod šibkim, kratkotrajnim obročkastim pasom kosmat od puhastih belih lusk; proti dnišču porjavi. Vrsta je razširjena v Evropi in navedena tudi v Severni Ameriki, predvsem jeseni.",
+      "cap": "Klobuk meri 3–8 cm, izjemoma do 10 cm. Najprej je polkroglast, z zavihanim robom in pajčevinasto belo ovojnico, nato izbočen in nazadnje široko sploščen, včasih z dvignjenim robom. Površina je lepljiva in v mokrem zelo sluzasta ter sijoča, belkasta do svetlo kremasta, sivookrasta ali rahlo rožnatobež, z izrazito temnejšim okrovo rjavim do ilovnato rjavim središčem in bledjšim robom. V sluzi so raztresene drobne bele vlaknate luske in ostanki ovojnice, z roba pa pogosto dolgo visijo beli ostanki ovojnice, dokler se klobuk ne zgladi. Kožica klobuka je prožna in se da olupiti.",
+      "hymenium": "Lističi so gosti, precej ozki do srednje široki in priraščeni na bet (adnate), včasih z majhnim zobcem, ki se spušča po betu. Najprej so belkasti, pozneje sivookrasti, ilovnato rjavi ali svetlo sivorjavi, včasih z olivno rumenim pridihom; rob je raven do drobno resast in pogosto bledjši. Pri mladih trosnjakih jih prekriva obilna bela pajčevinasta ovojnica.",
+      "stipe": "Bet je visok 3–8 cm, včasih do 10–12 cm, in debel 0,4–1,2 cm; čvrst, valjast, pogosto rahlo ukrivljen ali pri dnišču malce zadebeljen, poln do rahlo gobast. Zgoraj je belkast in moknat, s šibkim, minevajočim pajčevinastim obročkastim pasom. Pod njim je gosto pokrit s puhastimi, štrlečimi belimi vlaknatimi luskami na podlagi, ki proti dnišču prehaja v bež do rjavkasto.",
+      "flesh": "Meso je v klobuku belkasto do kremasto, čvrsto in proti dnišču beta bledorjavkasto; na pritisku lahko počasi porjavi. Vonj je neizrazit ali rahlo redkvin, okus blag ali rahlo redkvin.",
+      "sporePrint": "Trosni prah je rjav do rjasto rjav ali ilovnato rjav. Trosi so gladki, podolgovato elipsoidni, približno 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Saprotrof na zakopanem trohnečem lesu, odpadlih vejicah, lubju ter listnem ali igličevskem opadu v listnatih in mešanih gozdovih, pogosto pod bukvijo, tudi v iglastih gozdovih. Trosnjaki rastejo posamič, v majhnih skupinah ali v rahlih šopih in pogosto delujejo, kakor da rastejo iz prsti. Glavna sezona je od septembra do decembra; v srednji Evropi je naveden tudi v aprilu in maju.",
+      "uses": "Uživanje se ne priporoča. Nekateri srednjeevropski vodniki jo navajajo kot užitno, a kulinarično malo vredno; drugi jo imajo za neužitno ali je ne priporočajo. Klobuk je v mokrem zelo sluzast, meso je vsakdanje, v mokrem vremenu pa jo je mogoče zamenjati z bledimi lepljivimi vrstami rodu Hebeloma, ki lahko povzročijo želodčne težave.",
+      "confusion": "Blede vrste rodu Hebeloma (vključno s strupeno skupino Hebeloma crustuliniforme) imajo prav tako masten do lepljiv bled klobuk in redkvin vonj, vendar je klobuk gladek, brez belih kosmičev ovojnice v sluzi, manjkata jim kosmat, belkasto luskan bet in viséči ostanki ovojnice, lističi pa pogosto solzijo vodne kapljice. Pholiota gummosa ima rumeno zelen klobuk. Pholiota lubrica in Pholiota elegans imata izraziteje oranžno rjav ali rumeno okrast sredini klobuka. Hrapavi luskinar (Pholiota squarrosa) raste v gostih šopih na deblih in panjih ter ima suh klobuk z grobimi, štrlečimi rjasto rjavimi luskami. Pholiota spumosa je vitkejša in bolj rumena do rumenorjava, pogosto na iglastem opadu, in nima belkasto ilovnato okrastega klobuka te vrste. Smrtno strupena Galerina marginata raste na panjih in hlodih; je manjša, z gladkim rjasto rjavim klobukom, brez belih kosmičev in s tankim betom s krhkim obročkom.",
+      "notes": "Najzanesljivejša prepoznavna znaka sta bled, zelo sluzast klobuk s prostimi belimi kosmiči v sluzi in bet, ki je pod šibkim obročkastim pasom belkasto kosmat. Razkraja skriti les v humusu in je značilna za vlažen bukov opad pozno jeseni.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Bledi_luskinar",
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824",
+        "https://www.wikidata.org/wiki/Q2442393"
+      ],
+      "label": "bledi luskinar"
+    },
+    "sr": {
+      "description": "Бледа, веома слузава листићава гљива која често изгледа као да расте из земље, али је причвршћена за закопаном труло дрво, гранчице и стељу, нарочито у буковим шумама. Шешир је беличаст до иловасто окераст са тамнијим средиштем, а у слузи су распршене беле крпице вела. Стручак је беличаст и испод слабе, краткотрајне прстенасте зоне чупав од пухастих белих љускица; према дну смеђи. Врста је распрострањена у Европи и наводи се и у Северној Америци, углавном у јесен.",
+      "cap": "Шешир има 3–8 cm, изузетно до 10 cm. Најпре је полулоптаст, са завијеним ободом и паучинастим белим велом, затим испупчен и напокон широко спљоштен, понекад са уздигнутим ободом. Површина је лепљива и по влажном веома слузава и сјајна, беличаста до светло крем, сивоокераста или слабо ружичастобеж, са изразито тамнијим окерасто смеђим до иловасто смеђим средиштем и блеђим ободом. У слузи су распршене ситне беле влакнасте љускице и остаци вела, а са обода често дуго висе беле крпице вела док се шешир не изглади. Кожица шешира је еластична и може се огулити.",
+      "hymenium": "Листићи су густи, прилично уски до средње широки и прирасли на стручак (adnate), понекад са малим зупцем који силази низ стручак. Најпре су беличасти, касније сивоокерасти, иловасто смеђи или светло сивосмеђи, понекад са маслинастожутим тоном; оштрица је равна до фино ресаста и често блеђа. Код младих плодоносница их прекрива обилно бело паучинасто велум.",
+      "stipe": "Стручак је висок 3–8 cm, понекад до 10–12 cm, и дебљине 0,4–1,2 cm; чврст, ваљкаст, често мало савијен или при дну мало задебљан, пун до слабо сунђераст. Горе је беличаст и брашнаст, са слабом, пролазном паучинастом прстенастом зоном. Испод ње густо је покривен пухастим, одстојећим белим влакнастим љускама на подлози која према дну прелази у беж до смеђасту.",
+      "flesh": "Месо је у шеширу беличасто до крем, чврсто, а према дну стручка бледосмеђасто; на притисак може полако смеђети. Мирис је неизражен или слабо ротквичаст, укус благ или слабо ротквичаст.",
+      "sporePrint": "Отисак спора је смеђ до рђастосмеђ или иловасто смеђ. Споре су глатке, издужено елипсоидне, око 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Сапротроф на закопаномм трулом дрвету, отпалим гранчицама, кори и лиснатој или четинарској стељи у лиснатим и мешовитим шумама, често под буквом, такође у четинарским шумама. Плодоноснице расту појединачно, у малим групама или у растреситим групама и често изгледају као да расту из земље. Главна сезона је од септембра до децембра; у средњој Европи наводи се и у априлу и мају.",
+      "uses": "Не препоручује се за јело. Неки средњоевропски водичи је наводе као јестиву, али кухињски мало вредну; други је сматрају нејестивом или је не препоручују. Шешир је по влажном веома слузав, месо је безизражајно, а по мокром се може заменити с бледим лепљивим врстама рода Hebeloma, које могу изазвати желудачне тегобе.",
+      "confusion": "Бледе врсте рода Hebeloma (укључујући отровну групу Hebeloma crustuliniforme) такође имају мастан до лепљив бледи шешир и ротквичаст мирис, али им је шешир гладак, без белих крпица вела у слузи, недостаје им чупави беличасто љускави стручак и висећи остаци вела, а листићи често испуштају воденасте капљице. Pholiota gummosa има жутозелени шешир. Pholiota lubrica и Pholiota elegans имају изразитије наранџастосмеђе или жутоокерасто средиште шешира. Храпава љускавица (Pholiota squarrosa) расте у густим групама на стаблима и пањевима и има сув шешир с грубим, одстојећим рђастосмеђим љускама. Pholiota spumosa је виткија и више жута до жутосмеђа, често на четинарској стељи, и нема беличасто глинено-окерасти шешир ове врсте. Смртно отровна Galerina marginata расте на пањевима и трупцима; мања је, с глатким рђастосмеђим шеширом, без белих крпица и с танким стручком с крхким прстеном.",
+      "notes": "Најбоља препознатљива обележја су бледи, веома слузави шешир са слободним белим крпицама у слузи и стручак који је испод слабе прстенасте зоне беличасто чупав. Разграђује скривено дрво у хумусу и типична је за влажну букову стељу касно у јесен.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En blek, mycket slemmig skivling som ofta ser ut att växa ur marken men sitter fäst vid nedgrävd murken ved, kvistar och förna, särskilt i bokskogar. Hatten är vitaktig till lerockerfärgad med mörkare mitt, och i slemmet sitter strödda vita slöjflockor. Foten är vitaktig och under en svag, kortlivad ringzon luden av flockiga vita fjäll; mot basen brunaktig. Arten är vida spridd i Europa och anges också från Nordamerika, främst på hösten.",
+      "cap": "Hatten är 3–8 cm bred, ibland upp till 10 cm. Först är den halvklotformad, med invikt kant och en spindelvävslik vit slöja, sedan välvd och slutligen brett tillplattad, ibland med upplyft kant. Ytan är klibbig och i väta mycket slemmig och blank, vitaktig till blekt gräddfärgad, gråocker eller svagt rosabéige, med tydligt mörkare ockrabrun till lerbrun mitt och blekare kant. I slemmet sitter strödda små vita trådiga fjäll och slöjrester, och från kanten hänger ofta länge vita slöjrester innan hatten kalnar. Hatthuden är elastisk och kan dras av.",
+      "hymenium": "Skivorna är täta, ganska smala till medelbreda och vidfästa vid foten (adnata), ibland med en liten tand som löper ned längs foten. De är först vitaktiga, senare gråockra, lerbruna eller blekt gråbruna, ibland med olivgul anstrykning; eggen är jämn till fint fransad och ofta blekare. Hos unga fruktkroppar täcks de av en riklig vit, spindelvävslik slöja.",
+      "stipe": "Foten är 3–8 cm lång, ibland upp till 10–12 cm, och 0,4–1,2 cm tjock; kraftig, cylindrisk, ofta något böjd eller något förtjockad vid basen, solid till något svampig. Upptill är den vitaktig och mjölrik, med en svag, förgänglig spindelvävslik ringzon. Därunder är den tätt klädd med flockiga, utstående vita trådiga fjäll på en botten som mot basen blir beige till brunaktig.",
+      "flesh": "Köttet är i hatten vitaktigt till gräddfärgat, fast, och mot fotbasen blekt brunaktigt; vid tryck kan det långsamt brunna. Lukten är obetydlig eller svagt rädislik, smaken mild eller svagt rädislik.",
+      "sporePrint": "Sporpulvret är brunt till rostbrunt eller lerbrunt. Sporerna är släta, avlångt ellipsoida, cirka 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "En saprotrof på nedgrävd murken ved, fallna kvistar, bark och löv- eller barrförna i löv- och blandskog, ofta under bok, också i barrskog. Fruktkropparna kommer enstaka, i små grupper eller i glesa klasar och ser ofta ut att växa ur marken. Huvudsäsongen är från september till december; i Centraleuropa anges den också i april och maj.",
+      "uses": "Rekommenderas inte som matsvamp. Vissa centraleuropeiska guider kallar den ätlig men av litet köksvärde; andra för den som oätlig eller avråder. Hatten är i väta mycket slemmig, köttet är smaklöst, och i fuktigt väder kan den förväxlas med bleka, klibbiga Hebeloma-arter, som kan ge magbesvär.",
+      "confusion": "Bleka Hebeloma-arter (inklusive den giftiga Hebeloma crustuliniforme-gruppen) har också en fet till klibbig blek hatt och rädislukt, men deras hatt är slät, utan vita slöjflockor i slemmet, de saknar en luden vitfjällig fot och hängande slöjrester, och skivorna gråter ofta vattniga droppar. Pholiota gummosa har en gulgrön hatt. Pholiota lubrica och Pholiota elegans har en tydligare orangbrun eller gulocker mitt. Fjällig tofsskivling (Pholiota squarrosa) växer i täta klasar på stammar och stubbar och har en torr hatt med grova, utstående rostbruna fjäll. Pholiota spumosa är slankare och mer gul till gulbrun, ofta på barrförna, och saknar denna arts vitaktigt lerochrafärgade hatt. Den dödligt giftiga Galerina marginata växer på stubbar och stammar; den är mindre, med slät rostbrun hatt, utan vita flockor och med tunn fot med en skör ring.",
+      "notes": "Den bästa känneteckenskombinationen är en blek, mycket slemmig hatt med lösa vita flockor i slemmet och en fot som under en svag ringzon är vitaktigt luden. Den bryter ned dold ved i humusen och är typisk för fuktig bokförna sent på hösten.",
+      "names": [
+        "lövtofsskivling",
+        "slemmig flamskivling"
+      ],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Slemflamskivling",
+        "https://api.gbif.org/v1/species/9091857/vernacularNames",
+        "https://www.inaturalist.org/taxa/351824",
+        "https://www.wikidata.org/wiki/Q2442393"
+      ],
+      "label": "slemflamskivling"
+    },
+    "tr": {
+      "description": "Soluk, çok yapışkan lamelli bir mantar; çoğu zaman topraktan büyüyormuş gibi görünür ama gömülü çürük oduna, ince dallara ve döküntüye, özellikle kayın ormanlarında bağlıdır. Şapka beyazımsı ile killi okr arasında, daha koyu merkezli, ve sümükte dağınık beyaz örtü pulcukları vardır. Sap beyazımsıdır ve zayıf, kısa ömürlü bir halka zonunun altında kabarık beyaz pullarla tüylüdür; tabana doğru kahverengileşir. Tür Avrupa’da yaygındır ve Kuzey Amerika’dan da bildirilir, başlıca sonbaharda.",
+      "cap": "Şapka 3–8 cm, bazen 10 cm’ye kadar. Önce yarımküre, kenarı içe kıvrık ve örümceksi beyaz bir örtüyle, sonra dışbükey ve sonunda genişçe basık, bazen kenarı kalkık. Yüzey yapışkan, ıslak havada çok sümüksü ve parlak, beyazımsı ile soluk krem, gri okr veya hafif pembe-bej arasında, belirgin biçimde daha koyu okr-kahverengi ile killi kahverengi bir merkez ve daha soluk bir kenarla. Sümükte dağınık küçük beyaz lifsi pulcuklar ve örtü kalıntıları bulunur; kenardan, şapka düzelene dek uzun süre beyaz örtü parçaları sarkar. Şapka derisi esnek ve soyulabilir.",
+      "hymenium": "Lameller sık, oldukça dar ile orta genişlikte ve sapa bitişik (adnate), bazen sap boyunca inen küçük bir dişle. Önce beyazımsı, sonra gri-okrlu, killi kahverengi veya soluk gri-kahverengi, bazen zeytinsi sarı bir tonla; kenar düz ile ince saçaklı arasında ve çoğu zaman daha soluk. Genç meyve gövdelerinde bol, örümceksi beyaz bir örtü onları örter.",
+      "stipe": "Sap 3–8 cm uzunluğunda, bazen 10–12 cm’ye kadar, ve 0,4–1,2 cm kalınlığında; sağlam, silindirik, çoğu zaman biraz kıvrık veya tabanda biraz kalınlaşmış, dolu ile hafif süngersi arasında. Üstte beyazımsı ve unlu, zayıf, geçici örümceksi bir halka zonuyla. Bunun altında, tabana doğru bej ile kahverengimsiye dönen bir zemin üzerinde kabarık, dik duran beyaz lifsi pullarla sık örtülüdür.",
+      "flesh": "Et, şapkada beyazımsı ile krem arasında, sıkı, sapın tabanına doğru soluk kahverengimsi; basınca yavaşça kahverengileşebilir. Koku zayıf veya hafif turpumsu, tat yumuşak veya hafif turpumsu.",
+      "sporePrint": "Spor izi kahverengi ile pas kahverengisi veya killi kahverengi arasındadır. Sporlar pürüzsüz, uzunca elipsoit, yaklaşık 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Gömülü çürük odun, düşmüş ince dallar, kabuk ve yaprak veya iğne döküntüsü üzerinde, yapraklı ve karışık ormanlarda, çoğu zaman kayın altında, iğne yapraklı ormanlarda da saprotrof. Meyve gövdeleri tek tek, küçük kümeler halinde veya gevşek demetler halinde çıkar ve çoğu zaman topraktan büyüyormuş gibi görünür. Asıl mevsim eylül ile aralık arasıdır; Orta Avrupa’da nisan ve mayısta da bildirilir.",
+      "uses": "Yenmesi önerilmez. Bazı Orta Avrupa rehberleri onu yenilebilir ama mutfak değeri düşük sayar; diğerleri yenmez kabul eder veya önermez. Islak havada şapka çok sümüksüdür, et yavan kalır ve ıslak havada, mide rahatsızlığı yapabilen soluk, yapışkan Hebeloma türleriyle karıştırılabilir.",
+      "confusion": "Soluk Hebeloma türleri (zehirli Hebeloma crustuliniforme grubu dahil) de yağlı veya yapışkan soluk bir şapkaya ve turp kokusuna sahiptir, ancak şapkaları düzdür, sümükte beyaz örtü pulcukları yoktur, tüylü beyaz pullu sapları ve sarkan örtü kalıntıları eksiktir ve lameller çoğu zaman sulu damlalar döker. Pholiota gummosa’nın şapkası sarı-yeşildir. Pholiota lubrica ve Pholiota elegans’ın merkezi daha belirgin turuncu-kahverengi veya sarı okrdır. Pholiota squarrosa gövde ve kütüklerde sık demetler halinde büyür ve kaba, dik, pas kahverengisi pullu kuru bir şapkası vardır. Pholiota spumosa daha ince ve daha sarı ile sarımsı kahverengidir, çoğu zaman iğne yaprak döküntüsü üzerindedir ve bu türün beyazımsı kil-oker şapkasını taşımaz. Ölümcül zehirli Galerina marginata kütük ve gövdelerde büyür; daha küçüktür, düz pas kahverengisi şapkalı, beyaz pulcuksuz ve ince, kırılgan halkalı saplıdır.",
+      "notes": "En iyi tanı özellikleri, sümükte serbest beyaz pulcukları olan soluk, çok sümüksü bir şapka ve zayıf bir halka zonunun altında beyazımsı tüylü bir saptır. Humustaki gizli odunu ayıştırır ve geç sonbaharda nemli kayın döküntüsü için tipiktir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Блідий, дуже слизистий пластинчастий гриб, який часто здається таким, що росте з ґрунту, але прикріплений до похованої гнилої деревини, гілочок і підстилки, особливо в букових лісах. Шапинка білувата до глинисто-вохристої, з темнішим центром, а в слизу розкидані білі пластівці покривала. Ніжка білувата і нижче слабкої, нетривалої кільцевої зони волохата від пухнастих білих лусочок; до основи буріє. Вид широко поширений у Європі і зазначається також у Північній Америці, переважно восени.",
+      "cap": "Шапинка 3–8 см, іноді до 10 см. Спочатку півкуляста, із загорнутим краєм і павутинистим білим покривалом, потім опукла і нарешті широко розпростерта, іноді з піднятим краєм. Поверхня липка і в вологу погоду дуже слизиста і блискуча, білувата до блідо-кремової, сіро-вохристої або слабко рожевувато-бежевої, зі помітно темнішим вохристо-бурим до глинисто-бурого центром і блідішим краєм. У слизу розкидані дрібні білі волокнисті лусочки й рештки покривала, а з краю часто довго звисають білі клаптики покривала, поки шапинка не стане гладкішою. Шкірка шапинки еластична і знімається.",
+      "hymenium": "Пластинки густі, досить вузькі до середньої ширини, прирослі до ніжки (adnate), іноді з невеликим зубцем, що збігає на ніжку. Спочатку вони білуваті, потім сіро-вохристі, глинисто-бурі або блідо-сіро-бурі, іноді з оливково-жовтим відтінком; край рівний до дрібновійчастого і часто блідіший. У молодих плодових тіл їх закриває рясне біле павутинисте покривало.",
+      "stipe": "Ніжка 3–8 см завдовжки, іноді до 10–12 см, і 0,4–1,2 см завтовшки; міцна, циліндрична, часто трохи зігнута або трохи потовщена біля основи, суцільна до злегка губчастої. Зверху білувата і борошниста, зі слабкою, швидко зникаючою павутинистою кільцевою зоною. Нижче вона густо вкрита пухнастими, відстовбурченими білими волокнистими лусочками на тлі, яке до основи стає бежевим до буруватого.",
+      "flesh": "М’якуш у шапинці білуватий до кремового, щільний, до основи ніжки блідо-буруватий; при натисканні може повільно буріти. Запах слабкий або слабко редьковий, смак м’який або слабко редьковий.",
+      "sporePrint": "Споровий порошок бурий до іржаво-бурого або глинисто-бурого. Спори гладкі, видовжено-еліпсоїдні, близько 5,5–7 × 3,5–4,5 µm.",
+      "habitat": "Сапротроф на похованій гнилій деревині, опалих гілочках, корі та листковому чи хвойному опаді в листяних і мішаних лісах, часто під буком, також у хвойних лісах. Плодові тіла з’являються поодинці, невеликими групами або нещільними пучками і часто здаються такими, що ростуть із ґрунту. Основний сезон — з вересня по грудень; у Центральній Європі вид зазначають також у квітні та травні.",
+      "uses": "До вживання в їжу не рекомендується. Деякі центральноєвропейські довідники вважають його їстівним, але малоцінним; інші відносять до неїстівних або не радять збирати. Шапинка в вологу погоду дуже слизиста, м’якуш прісний, а в сиру погоду його можна сплутати з блідими липкими видами роду Hebeloma, які можуть викликати розлад шлунка.",
+      "confusion": "Бліді види роду Hebeloma (включно з отруйною групою Hebeloma crustuliniforme) також мають жирну або липку бліду шапинку і редьковий запах, але їхня шапинка гладка, без білих пластівців покривала в слизу, у них немає волохатої білувато-лускатої ніжки та звислих решток покривала, а пластинки часто плачуть водянистими краплями. У Pholiota gummosa шапинка жовто-зелена. У Pholiota lubrica і Pholiota elegans центр шапинки виразніше помаранчево-бурий або жовто-вохристий. Лускатка звичайна (Pholiota squarrosa) росте густими пучками на стовбурах і пнях і має суху шапинку з грубими, відстовбурченими іржаво-бурими лусочками. Pholiota spumosa стрункіша і більш жовта до жовтувато-коричневої, часто на хвойній підстилці, і в неї немає білувато-глинисто-вохристої шапинки цього виду. Смертельно отруйна Galerina marginata росте на пнях і стовбурах; вона дрібніша, з гладкою іржаво-бурою шапинкою, без білих пластівців і з тонкою ніжкою з крихким кільцем.",
+      "notes": "Найкраща розпізнавальна ознака — бліда, дуже слизиста шапинка з вільними білими пластівцями в слизу і ніжка, яка нижче слабкої кільцевої зони білувато-волохата. Гриб розкладає приховану деревину в гумусі і типовий для вологого букового опаду пізньої осені.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一种淡色、极其黏滑的褶菌，常看似从土壤中长出，实则着生于埋藏的腐木、细枝和枯落物上，尤见于山毛榉林。菌盖近白色至黏土赭色，中央较深，黏液中散生白色菌幕残片。菌柄近白色，在微弱、短暂的菌环带下方被绒毛状白色鳞片所覆，向基部转褐。本种广布于欧洲，北美洲亦有记录，主要见于秋季。",
+      "cap": "菌盖宽3–8 cm，偶可达10 cm。初呈半球形，边缘内卷，具蛛网状白色菌幕，后凸出，终于宽扁，边缘有时上翘。表面黏腻，湿时极其黏滑而有光泽，近白色至浅奶油色、灰赭色或略带粉红米色，中央明显更深，呈赭褐至黏土褐色，边缘较淡。黏液中散生细小的白色纤维状鳞片和菌幕残片，边缘常长时间悬挂白色菌幕残片，直至菌盖渐趋平滑。菌盖表皮有弹性，可剥离。",
+      "hymenium": "菌褶较密，相当窄至中等宽，着生于菌柄（直生），有时具沿菌柄稍下延的小齿。初近白色，后呈灰赭色、黏土褐色或浅灰褐色，有时带橄榄黄色；褶缘平直至细流苏状，常较淡。幼子实体时被丰厚的白色蛛网状菌幕所覆。",
+      "stipe": "菌柄长3–8 cm，有时达10–12 cm，粗0.4–1.2 cm；粗壮，圆柱形，常稍弯或基部稍膨大，实心至略海绵质。上部近白色而带粉霜，具微弱、易逝的蛛网状菌环带。其下密被绒毛状、外突的白色纤维状鳞片，背景向基部转为米色至褐色。",
+      "flesh": "菌肉在菌盖中近白色至奶油色，坚实，向菌柄基部呈浅褐色；受压可缓慢变褐。气味淡或略带萝卜味，味道温和或略带萝卜味。",
+      "sporePrint": "孢子印褐色至锈褐色或黏土褐色。孢子平滑，长椭圆形，约5.5–7 × 3.5–4.5 µm。",
+      "habitat": "腐生于阔叶林和混交林中埋藏的腐木、落枝、树皮及叶或针叶枯落物上，常在山毛榉下，针叶林中亦有。子实体单生、小群生或稀疏丛生，常看似从土中伸出。主要季节为九月至十二月；在中欧，四月和五月亦有记录。",
+      "uses": "不建议食用。部分中欧图鉴称其可食但烹饪价值低；另一些则列为不可食或不建议采集。潮湿时菌盖极其黏滑，菌肉平淡，湿天易与可引起肠胃不适的浅色黏滑滑锈伞属（Hebeloma）种类混淆。",
+      "confusion": "浅色滑锈伞属种类（包括有毒的大毒滑锈伞Hebeloma crustuliniforme类群）也有油腻或黏滑的浅色菌盖和萝卜气味，但其菌盖平滑，黏液中无白色菌幕残片，缺少被白鳞毛覆的菌柄和悬挂的菌幕残片，菌褶常渗出水滴。Pholiota gummosa的菌盖黄绿色。Pholiota lubrica和Pholiota elegans的中央更明显呈橙褐或黄赭色。翹鱗環鏽傘（Pholiota squarrosa）密丛生于树干和树桩上，菌盖干燥，具粗而直立的锈褐色鳞片。Pholiota spumosa较细瘦、颜色更偏黄至黄褐色，常生于针叶枯落物上，没有本种近白色黏土赭色的菌盖。致命的纹缘盔孢菌Galerina marginata生于树桩和树干上；较小，菌盖平滑锈褐、无白色残片，菌柄细并具易碎菌环。",
+      "notes": "最可靠的识别组合是淡色、极其黏滑、黏液中有游离白色残片的菌盖，以及在微弱菌环带下方近白色而毛状的菌柄。本种分解腐殖质中的隐匿木材，典型见于晚秋潮湿的山毛榉枯落物。",
+      "names": [
+        "粘鳞伞"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q2442393",
+        "https://www.inaturalist.org/taxa/351824"
+      ],
+      "label": "黏鳞伞"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus lentus",
+      "author": "Pers.",
+      "year": 1801,
+      "rank": "species",
+      "type": "basionym",
+      "if": 218297
+    },
+    {
+      "name": "Flammula lenta",
+      "author": "(Pers.) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Inocybe lenta",
+      "author": "(Pers.) Roze",
+      "year": 1876,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Dryophila lenta",
+      "author": "(Pers.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Naucoria lenta",
+      "author": "(Pers.) Henn.",
+      "year": 1898,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Gymnopilus lentus",
+      "author": "(Pers.) Murrill",
+      "year": 1917,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pholiotina lenta",
+      "author": "(Pers.) Singer",
+      "year": 1951,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus glutinosus",
+      "author": "Lindgr.",
+      "year": 1845,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Inocybe glutinosa",
+      "author": "P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Hebeloma glutinosum",
+      "author": "(P. Karst.) Quél.",
+      "year": 1880,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    }
+  ],
+  "reserved": false,
+  "id": 218,
+  "citation": "Lilloa 22: 516 (1951) [1949]"
+},
+{
+  "name": "Pleurotus dryinus",
+  "author": "(Pers.) P. Kumm.",
+  "family": "Pleurotaceae",
+  "genus": "Pleurotus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Pleurotaceae",
+    "Pleurotus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Pleurotaceae",
+    "Pleurotus"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 4.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "label": {
+    "ar": "محاري سندياني",
+    "cs": "hlíva dubová",
+    "da": "korkagtig østershat",
+    "de": "Berindeter Seitling",
+    "en": "veiled oyster",
+    "es": "pleuroto del roble",
+    "et": "loorservik",
+    "fi": "rengasvinokas",
+    "fr": "pleurote du chêne",
+    "hu": "pihés laskagomba",
+    "ja": "ツバヒラタケ",
+    "lt": "ąžuolinė kreivabudė",
+    "lv": "ozolu sānause",
+    "nl": "schubbige oesterzwam",
+    "no": "seig østerssopp",
+    "pl": "boczniak białożółty",
+    "ru": "вёшенка дубовая",
+    "sk": "hliva dubová",
+    "sl": "hrastov ostrigar",
+    "sv": "ringmussling",
+    "zh": "栎生侧耳"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Eichenseitling",
+      "Eichen-Seitling",
+      "Beringter Seitling"
+    ],
+    "en": [
+      "veiled oyster mushroom"
+    ],
+    "es": [
+      "orellana de suro"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "boczniak dębowy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "вешенка дубовая"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "櫟生側耳",
+      "裂皮侧耳"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=151965",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=151965",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=151965",
+      "https://species.data.kew.org/species/151965",
+      "https://www.gbif.org/species/2526564",
+      "https://www.wikidata.org/wiki/Q820657",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.first-nature.com/fungi/pleurotus-dryinus.php",
+      "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Pleurotus%20dryinus.htm",
+      "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?noTransfer=0&sciname=Pleurotus+dryinus",
+      "https://www.myko.cz/myko-atlas/Pleurotus-dryinus/",
+      "https://fungusradar.com/atlas/pleurotus-dryinus/",
+      "https://en.wikipedia.org/wiki/Pleurotus_dryinus",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames"
+    ],
+    "ar": [
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "bg": [],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Hl%C3%ADva_dubov%C3%A1",
+      "https://www.myko.cz/myko-atlas/Pleurotus-dryinus/",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/2526564/vernacularNames"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Berindeter_Seitling",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "es": [
+      "https://api.gbif.org/v1/species/2526564/vernacularNames"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Loorservik",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "fr": [
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Pih%C3%A9s_laskagomba",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/334340",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/%C4%84%C5%BEuolin%C4%97_kreivabud%C4%97",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "lv": [
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Schubbige_oesterzwam",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340"
+    ],
+    "no": [
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Boczniak_bia%C5%BC%C3%B3%C5%82ty",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%92%D1%91%D1%88%D0%B5%D0%BD%D0%BA%D0%B0_%D0%B4%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%D1%8F",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/334340",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Hrastov_ostrigar",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Ringmussling",
+      "https://api.gbif.org/v1/species/2526564/vernacularNames",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://www.wikidata.org/wiki/Q820657"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q820657",
+      "https://www.inaturalist.org/taxa/334340",
+      "https://zh.wikipedia.org/wiki/%E6%A0%8E%E7%94%9F%E5%81%B4%E8%80%B3"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_1.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/321890216"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_2.webp",
+      "author": "Joe crutwell",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/188561525"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_3.webp",
+      "author": "Alan Rockefeller",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/195799494"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_4.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/314090271"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_5.webp",
+      "author": "Fabian Battiege",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/405417526"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_1.webp",
+      "author": "Matej Frančeškin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/321890216"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_2.webp",
+      "author": "Joe crutwell",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/188561525"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_3.webp",
+      "author": "Alan Rockefeller",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/195799494"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_4.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/314090271"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_dryinus/Pleurotus_dryinus_5.webp",
+      "author": "Fabian Battiege",
+      "license": "CC0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/405417526"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر محاري كبير سميك اللحم ينمو من الجروح والجذوع والقرم في الأشجار عريضة الأوراق الحية أو الميتة، ولا سيما البلوط والزان، وأحيانًا على المخروطيات أيضًا. القبعة كريمية مبيضة إلى رمادية شاحبة، جافة ولبادية، وكثيرًا ما تتشقق إلى حراشف رمادية بنية ناعمة. وهو نوع Pleurotus المألوف الوحيد ذو حجاب جزئي غشائي أبيض يترك قصاصات على حافة القبعة المطوية إلى الداخل وحلقة عابرة على الساق القصيرة الغليظة اللامركزية. تنحدر الخياشيم البيضاء بعيدًا على الساق وكثيرًا ما تتفرع وتتصل هناك. النوع واسع الانتشار في أوروبا ويظهر أيضًا في آسيا وأمريكا الشمالية، أساسًا في الصيف والخريف.",
+      "cap": "يبلغ قطر القبعة 4–15 سم، وأحيانًا حتى 20 سم. تكون في البداية محدبة، وحافتها مطوية إلى الداخل ولا تزال متصلة بالساق بحجاب غشائي أبيض، ثم تتسطح وتصبح عريضة بشكل المروحة أو الصدفة، وأحيانًا بحدبة منخفضة عريضة. السطح جاف ولبادي، كريمي مبيض إلى رمادي شاحب أو بني رمادي شاحب، وكثيرًا ما يصفر قليلًا، ويتشقق عادة نحو المركز إلى حراشف رمادية بنية ناعمة شبيهة بالبقع. وكثيرًا ما تتدلى من الحافة قصاصات بيضاء من الحجاب.",
+      "hymenium": "الخياشيم بيضاء إلى كريمية، وقد تصفر لاحقًا أحيانًا، متقاربة نوعًا وضيقة، مع خيشومات أصغر، وشديدة الانحدار تجري بعيدًا على الساق. في الجزء السفلي من الساق كثيرًا ما تتفرع وتتصل مكوّنة أخاديد أو شبكة. وفي الأجسام الثمرية الفتية يغطيها الحجاب الجزئي.",
+      "stipe": "الساق طولها 3–10 سم (وأحيانًا 2–6 سم فقط) وسمكها 1–3 سم، قصيرة وغليظة، لامركزية إلى جانبية، مستدقة نحو القاعدة، مصمتة وقاسية، مبيضة ولبادية، وكثيرًا ما تصفر. وهي تحمل في الشباب حلقة غشائية بيضاء رقيقة قصيرة العمر؛ وقد تبقى البقايا نطاقًا حلقيًا باهتًا.",
+      "flesh": "اللحم سميك ومتين وقاس، أبيض، ويصفر عند الكدم أو مع التقدم في العمر. الرائحة خافتة، مستحبة أو فطرية قليلًا؛ والطعم خفيف أو بندقي قليلًا.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ ملساء، إهليلجية مستطيلة إلى أسطوانية، نحو 9–15 × 3.5–5 µm.",
+      "habitat": "رمّي وضعيف التطفل على الخشب الحي أو الميت للأشجار عريضة الأوراق، ولا سيما البلوط والزان، وكذلك الحور وكستناء الحصان وعريضات أوراق أخرى، وأحيانًا على المخروطيات (في التشيك، رغم اسمه، يوجد كثيرًا على التنوب). تظهر الأجسام الثمرية منفردة أو في مجموعات صغيرة من الجروح والجذوع والقرم والجذوع الساقطة. الموسم الرئيسي من يوليو إلى نوفمبر؛ وفي بعض المناطق يثمر أيضًا في الشتاء.",
+      "uses": "هو صالح للأكل، ولا سيما وهو فتي، لكن اللحم يقسو مع العمر ويُعد عمومًا أدنى من فطور محارية أشهر مثل Pleurotus ostreatus. ويصنفه بعض المؤلفين غير صالح للأكل بسبب هذه القساوة.",
+      "confusion": "لفطر Pleurotus ostreatus قبعة ملساء، غالبًا رمادية مزرقة إلى بنية، بلا حجاب ولا حلقة، وينمو عادة في عناقيد أكبر متراكبة. أما Pleurotus pulmonarius فعادة أفتح لونًا وأرق لحمًا، وهو أيضًا بلا حجاب. ولفطر Pleurotus cornucopiae قبعة كريمية أكثر قمعية بلا حلقة، وتشكل خياشيمه شبكة أغلظ على الساق. ولفطر Pleurotus calyptratus حجاب أيضًا لكن قبعة ملساء، وينمو عادة على الحور. أما Pleurocybella porrigens فمميت؛ وهو رقيق، شبه عديم الساق، وينمو على المخروطيات.",
+      "notes": "أوضح العلامات الحقلية هي القبعة المبيضة اللبادية، الكثيرة الحراشف غالبًا، وبقايا الحجاب الغشائي على الحافة وحلقة عابرة على ساق قصيرة غليظة لامركزية، والخياشيم البيضاء الشديدة الانحدار التي تتفرع على الساق. وهو الفطر المحاري المألوف الوحيد ذو حجاب وحلقة.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "محاري سندياني"
+    },
+    "bg": {
+      "description": "Едра дебеломесеста стридицова гъба, която расте от рани, стволове и пънове на живи или мъртви широколистни дървета, предимно дъб и бук, а понякога и върху иглолистни. Шапката е белезникаво кремава до бледосива, суха и плъстеста и често се напуква на меки сиво-кафяви люспици. Това е единственият обичаен вид от род Pleurotus с бяло ципесто частично покривало, което оставя късчета по подгънатия ръб на шапката и бързо изчезващ пръстен върху късото, дебело, ексцентрично пънче. Белите пластинки слизат далеч по пънчето и често там се вилят и свързват. Видът е широко разпространен в Европа и се среща също в Азия и Северна Америка, главно през лятото и есента.",
+      "cap": "Шапката е 4–15 cm в диаметър, понякога до 20 cm. Отначало е изпъкнала, с подгънат ръб, още съединен с пънчето чрез бяло ципесто покривало, после се сплесква и става широко ветрилообразна или черупковидна, понякога с ниска широка гърбица. Повърхността е суха и плъстеста, белезникаво кремава до бледосива или бледосиво-кафява, често слабо пожълтяваща, и обикновено към центъра се напуква на меки сиво-кафяви, петнисти люспици. От ръба често висят бели късчета от покривалото.",
+      "hymenium": "Пластинките са бели до кремави, по-късно понякога пожълтяващи, сравнително гъсти и тесни, с по-малки междинни пластинки, и силно низбягващи, слизащи далеч по пънчето. Ниско на пънчето те често се вилят и свързват, образувайки бразди или мрежа. При младите плодни тела ги прикрива частичното покривало.",
+      "stipe": "Пънчето е 3–10 cm дълго (понякога само 2–6 cm) и 1–3 cm дебело, късо и дебело, ексцентрично до странично, стесняващо се към основата, плътно и жилаво, белезникаво и плъстесто, често пожълтяващо. На младо то носи тънък, недълготраен бял ципест пръстен; остатъци могат да се запазят като слаба пръстенна зона.",
+      "flesh": "Месото е дебело, твърдо и жилаво, бяло и пожълтява при нараняване или с възрастта. Миризмата е слаба, приятна или леко гъбна; вкусът е мек или леко орехов.",
+      "sporePrint": "Споровият прах е бял. Спорите са гладки, удължено елипсовидни до цилиндрични, около 9–15 × 3,5–5 µm.",
+      "habitat": "Сапротроф и слаб паразит върху жива или мъртва дървесина на широколистни, особено дъб и бук, също топола, конски кестен и други широколистни, а понякога върху иглолистни (в Чехия, въпреки името, често върху смърч). Плодните тела се появяват поединично или на малки групи от рани, стволове, пънове и паднали трупи. Основният сезон е от юли до ноември; в някои райони плододава и през зимата.",
+      "uses": "Ядлива е, особено когато е млада, но месото с възрастта става жилаво и обикновено се смята за по-долнокачествено от по-известни стридицови гъби като кладницата (Pleurotus ostreatus). Някои автори поради жилавостта я посочват като неядлива.",
+      "confusion": "Кладницата (Pleurotus ostreatus) има гладка, често синкавосива до кафява шапка, без покривало и пръстен, и обикновено расте в по-големи, керемидообразно застъпващи се туфи. Pleurotus pulmonarius обикновено е по-бледа и тънкомесеста, също без покривало. Pleurotus cornucopiae има по-фуниевидна кремава шапка и няма пръстен, а пластинките по пънчето образуват по-груба мрежа. Pleurotus calyptratus също има покривало, но по-гладка шапка и обикновено расте върху топола. Pleurocybella porrigens е смъртоносно отровна; тя е тънка, почти без пънче и расте върху иглолистни.",
+      "notes": "Най-сигурните белези са плъстестата, често люспеста белезникава шапка, ципестите остатъци от покривалото по ръба и бързо изчезващият пръстен върху късо, дебело, ексцентрично пънче, както и силно низбягващите бели пластинки, които се вилят по пънчето. Това е единственият обичаен вид от род Pleurotus с покривало и пръстен.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Velká, tlustě masitá hlíva, která vyrůstá z ran, kmenů a pařezů živých nebo odumřelých listnatých stromů, zejména dubu a buku, a někdy i na jehličnanech. Klobouk je bělavě krémový až bledě šedý, suchý a plstnatý a často se rozpadá na měkké šedohnědé šupiny. Je to jediná běžná hlíva s bílým blánovitým částečným závojem, který zanechává útržky na podvinutém okraji klobouku a prchavý prsten na krátkém, silném, výstředním třeni. Bílé lupeny sbíhají daleko po třeni a často se tam vidličnatě dělí a spojují. Druh je rozšířený v Evropě a vyskytuje se také v Asii a Severní Americe, převážně v létě a na podzim.",
+      "cap": "Klobouk je široký 4–15 cm, příležitostně až 20 cm. Nejprve je sklenutý, s podvinutým okrajem ještě spojeným s třeněm bílým blánovitým závojem, později zploštělý a široce vějířovitý nebo lasturovitý, někdy s nízkým, širokým hrbolem. Povrch je suchý a plstnatý, bělavě krémový až bledě šedý nebo bledě šedohnědý, často slabě žloutnoucí, a typicky se směrem ke středu rozpadá na měkké šedohnědé políčkovité šupiny. Z okraje často visí bílé útržky závoje.",
+      "hymenium": "Lupeny jsou bílé až krémové, později někdy žloutnoucí, poměrně husté a úzké, s menšími mezilupeny, a silně sbíhavé, probíhající daleko po třeni. Nízko na třeni se často vidličnatě dělí a propojují a tvoří rýhy nebo síť. U mladých plodnic je zakrývá částečný závoj.",
+      "stipe": "Třeň je dlouhý 3–10 cm (někdy jen 2–6 cm) a 1–3 cm tlustý, krátký a silný, výstřední až boční, k bázi zúžený, plný a tuhý, bělavý a plstnatý, často žloutnoucí. V mládí nese tenký, krátkodobý bílý blánovitý prsten; zbytky mohou zůstat jako nezřetelná prstenová zóna.",
+      "flesh": "Dužnina je tlustá, pevná a tuhá, bílá a na poranění nebo stářím žloutne. Vůně je slabá, příjemná nebo slabě houbová; chuť mírná nebo slabě oříšková.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou hladké, protáhle elipsoidní až válcovité, asi 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofní a slabě parazitická na živém nebo odumřelém dřevě listnáčů, zejména dubu a buku, také topolu, jírovci a jiných listnáčích, a někdy na jehličnanech (v Česku se navzdory jménu často vyskytuje na smrku). Plodnice vyrůstají jednotlivě nebo v malých skupinách z ran, kmenů, pařezů a ležících kmenů. Hlavní sezona je od července do listopadu; v některých oblastech plodí i v zimě.",
+      "uses": "Je jedlá, zejména v mládí, ale dužnina s věkem tuhne a obvykle se považuje za horší než známější hlívy, například hlíva ústřičná (Pleurotus ostreatus). Několik autorů ji pro tuhost uvádí jako nejedlou.",
+      "confusion": "Hlíva ústřičná (Pleurotus ostreatus) má hladký, často namodrale šedý až hnědý klobouk, bez závoje a prstenu, a typicky roste ve větších překrývajících se trsech. Pleurotus pulmonarius je obvykle bledší a tenčeji masitý, rovněž bez závoje. Pleurotus cornucopiae má spíše nálevkovitý krémový klobouk a žádný prsten a jeho lupeny tvoří hrubší síť po třeni. Pleurotus calyptratus má také závoj, ale hladší klobouk a typicky roste na topolu. Hlíva ušatá (Pleurocybella porrigens) je smrtelně jedovatá; je tenká, téměř bez třeně a roste na jehličnanech.",
+      "notes": "Nejistějšími znaky jsou plstnatý, často šupinatý bělavý klobouk, blánovité zbytky závoje na okraji a prchavý prsten na krátkém, silném, výstředním třeni a silně sbíhavé bílé lupeny, které se na třeni vidličnatě dělí. Je to jediná běžná hlíva se závojem a prstenem.",
+      "names": [],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Hl%C3%ADva_dubov%C3%A1",
+        "https://www.myko.cz/myko-atlas/Pleurotus-dryinus/",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340"
+      ],
+      "label": "hlíva dubová"
+    },
+    "da": {
+      "description": "En stor, tykkødet østershat, der vokser fra sår, stammer og stubbe af levende eller døde løvtræer, især eg og bøg, og undertiden også på nåletræ. Hatten er hvidlig cremefarvet til bleggrå, tør og filtet og brydes ofte op i bløde gråbrune skæl. Det er den eneste velkendte østershat med et hvidt hinderigt delslør, som efterlader flige på den indrullede hatrand og en flygtig ring på den korte, kraftige, excentriske stok. De hvide lameller løber langt ned ad stokken og gaffeler og forbinder sig ofte dér. Arten er udbredt i Europa og forekommer også i Asien og Nordamerika, mest om sommeren og efteråret.",
+      "cap": "Hatten er 4–15 cm bred, lejlighedsvis op til 20 cm. Først er den hvælvet, med en indrullet rand som stadig er forbundet med stokken af et hvidt hinderigt slør, senere fladtrykt og bredt vifte- eller skålformet, undertiden med en lav, bred pukkel. Overfladen er tør og filtet, hvidlig cremefarvet til bleggrå eller blegt gråbrun, ofte svagt gulfarvende, og brydes typisk mod midten op i bløde gråbrune, feltagtige skæl. Fra randen hænger ofte hvide slørrester.",
+      "hymenium": "Lamellerne er hvide til cremefarvede, senere undertiden gulfarvende, ret tætte og smalle, med mindre mellemlameller, og stærkt nedløbende, der løber langt ned ad stokken. Nede på stokken gaffeler og forbinder de sig ofte og danner furer eller et net. Hos unge frugtlegemer dækkes de af delsløret.",
+      "stipe": "Stokken er 3–10 cm lang (undertiden kun 2–6 cm) og 1–3 cm tyk, kort og kraftig, excentrisk til sidelæns, tilspidset mod basis, fast og sej, hvidlig og filtet, ofte gulfarvende. Ung bærer den en tynd, kortlivet hvid hinderig ring; rester kan blive tilbage som en svag ringzone.",
+      "flesh": "Kødet er tykt, fast og sejt, hvidt og gulfarves ved beskadigelse eller med alderen. Lugten er svag, behagelig eller let svampeagtig; smagen mild eller let nøddeagtig.",
+      "sporePrint": "Sporeaftrykket er hvidt. Sporerne er glatte, langstrakt ellipsoide til cylindriske, omkring 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrof og svagt parasitisk på levende eller dødt løvtræ, især eg og bøg, også poppel, hestekastanje og andre løvtræer, og undertiden på nåletræ (i Tjekkiet ofte på gran trods navnet). Frugtlegemerne kommer enkeltvis eller i små grupper fra sår, stammer, stubbe og liggende stammer. Hovedsæsonen er fra juli til november; i nogle områder frugter den også om vinteren.",
+      "uses": "Den er spiselig, især når den er ung, men kødet bliver sejt med alderen og anses almindeligvis for ringere end bedre kendte østershatte som almindelig østershat (Pleurotus ostreatus). Nogle forfattere angiver den som uspiselig på grund af sejheden.",
+      "confusion": "Almindelig østershat (Pleurotus ostreatus) har en glat, ofte blågrå til brun hat, intet slør eller ring og vokser typisk i større, overlappende klynger. Pleurotus pulmonarius er sædvanligvis blegere og tyndere i kødet, også uden slør. Pleurotus cornucopiae har en mere tragtformet cremefarvet hat og ingen ring, og dens lameller danner et grovere net ned ad stokken. Pleurotus calyptratus har også et slør, men en glattere hat og vokser typisk på poppel. Kridthat (Pleurocybella porrigens) er dødeligt giftig; den er tynd, næsten uden stok og vokser på nåletræ.",
+      "notes": "De sikreste kendetegn er den filtede, ofte skællede hvidlige hat, de hinderige slørrester på randen og en flygtig ring på en kort, kraftig, excentrisk stok samt de stærkt nedløbende hvide lameller, der gaffeler på stokken. Det er den eneste velkendte østershat med slør og ring.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2526564/vernacularNames"
+      ],
+      "label": "korkagtig østershat"
+    },
+    "de": {
+      "description": "Ein großer, dickfleischiger Seitling, der aus Wunden, Stämmen und Stümpfen lebender oder toter Laubbäume wächst, vor allem an Eiche und Buche, gelegentlich auch an Nadelholz. Der Hut ist weißlich cremefarben bis blassgrau, trocken und filzig und zerfällt oft in weiche graubraune Schuppen. Es ist der einzige vertraute Seitling mit einem weißen, häutigen Teilvelum, das Fetzen am eingerollten Hutrand und einen flüchtigen Ring am kurzen, kräftigen, exzentrischen Stiel hinterlässt. Die weißen Lamellen laufen weit am Stiel herab und gabeln und verbinden sich dort oft. Die Art ist in Europa weit verbreitet und kommt auch in Asien und Nordamerika vor, vor allem im Sommer und Herbst.",
+      "cap": "Der Hut ist 4–15 cm breit, gelegentlich bis 20 cm. Zunächst ist er gewölbt, mit eingerolltem Rand, der noch durch ein weißes häutiges Velum mit dem Stiel verbunden ist, später abgeflacht und breit fächer- oder muschelförmig, manchmal mit einem niedrigen, breiten Buckel. Die Oberfläche ist trocken und filzig, weißlich cremefarben bis blassgrau oder blass graubraun, oft schwach gilbend, und zerfällt typischerweise zur Mitte hin in weiche graubraune, felderartige Schuppen. Am Rand hängen oft weiße Velumfetzen.",
+      "hymenium": "Die Lamellen sind weiß bis cremefarben, später manchmal gilbend, ziemlich gedrängt und schmal, mit kleineren Zwischenlamellen, und stark herablaufend, weit am Stiel hinab. Tief am Stiel gabeln und verbinden sie sich oft und bilden Rinnen oder ein Netz. Bei jungen Fruchtkörpern werden sie vom Teilvelum verdeckt.",
+      "stipe": "Der Stiel ist 3–10 cm lang (manchmal nur 2–6 cm) und 1–3 cm dick, kurz und kräftig, exzentrisch bis seitlich, zur Basis verjüngt, voll und zäh, weißlich und filzig, oft gilbend. Jung trägt er einen dünnen, kurzlebigen weißen häutigen Ring; Reste können als schwache Ringzone erhalten bleiben.",
+      "flesh": "Das Fleisch ist dick, fest und zäh, weiß und gilbt bei Verletzung oder mit dem Alter. Der Geruch ist schwach, angenehm oder leicht pilzig; der Geschmack mild oder leicht nussig.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind glatt, lang ellipsoid bis zylindrisch, etwa 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotroph und schwach parasitisch an lebendem oder totem Laubholz, vor allem Eiche und Buche, auch Pappel, Rosskastanie und anderen Laubbäumen, manchmal an Nadelholz (in Tschechien trotz des Namens oft an Fichte). Die Fruchtkörper erscheinen einzeln oder in kleinen Gruppen aus Wunden, Stämmen, Stümpfen und liegenden Stämmen. Die Hauptzeit ist von Juli bis November; in manchen Gebieten fruktifiziert die Art auch im Winter.",
+      "uses": "Er ist essbar, besonders jung, aber das Fleisch wird mit dem Alter zäh und gilt allgemein als geringerwertig als bekanntere Seitlinge wie der Austern-Seitling (Pleurotus ostreatus). Einige Autoren führen ihn wegen der Zähigkeit als ungenießbar.",
+      "confusion": "Der Austern-Seitling (Pleurotus ostreatus) hat einen glatten, oft bläulich grauen bis braunen Hut, kein Velum und keinen Ring und wächst typischerweise in größeren, überlappenden Büscheln. Pleurotus pulmonarius ist meist blasser und dünnfleischiger, ebenfalls ohne Velum. Pleurotus cornucopiae hat einen eher trichterförmigen cremefarbenen Hut und keinen Ring, und seine Lamellen bilden am Stiel ein gröberes Netz. Pleurotus calyptratus hat ebenfalls ein Velum, aber einen glatteren Hut und wächst typischerweise an Pappel. Der Ohrförmige Weißseitling (Pleurocybella porrigens) ist tödlich giftig; er ist dünn, fast stielos und wächst an Nadelholz.",
+      "notes": "Die sichersten Merkmale sind der filzige, oft schuppige weißliche Hut, die häutigen Velumreste am Rand und ein flüchtiger Ring an einem kurzen, kräftigen, exzentrischen Stiel sowie die stark herablaufenden weißen Lamellen, die sich am Stiel gabeln. Es ist der einzige vertraute Seitling mit Velum und Ring.",
+      "names": [
+        "Eichenseitling",
+        "Eichen-Seitling",
+        "Beringter Seitling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Berindeter_Seitling",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "Berindeter Seitling"
+    },
+    "en": {
+      "description": "A large, thick-fleshed oyster mushroom that grows from wounds, trunks and stumps of living or dead broadleaf trees, especially oak and beech, and sometimes on conifers. The cap is whitish cream to pale grey, dry and felty, and often breaks into soft grey-brown scales. It is the only familiar Pleurotus with a white membranous partial veil, which leaves fragments on the inrolled cap margin and a fleeting ring on the short, stout, off-centre stem. The white gills run far down the stem and often fork and join there. The species is widespread in Europe and also occurs in Asia and North America, mainly in summer and autumn.",
+      "cap": "The cap is 4–15 cm across, occasionally to 20 cm. At first it is convex, with an inrolled margin still joined to the stem by a white membranous veil, then flattened and broadly fan- or shell-shaped, sometimes with a low, broad umbo. The surface is dry and felt-like, whitish cream to pale grey or pale grey-brown, often faintly yellowing, and typically breaks into soft grey-brown patch-like scales toward the centre. White veil fragments often hang from the margin.",
+      "hymenium": "The gills are white to cream, later sometimes yellowing, fairly close and narrow, with smaller subgills, and strongly decurrent, running far down the stem. Low on the stem they often fork and interconnect, forming grooves or a network. In young fruit bodies they are hidden by the partial veil.",
+      "stipe": "The stem is 3–10 cm long (sometimes only 2–6 cm) and 1–3 cm thick, short and stout, off-centre to lateral, tapering toward the base, solid and tough, whitish and felty, and often yellowing. When young it bears a thin, short-lived white membranous ring; remnants may persist as a faint ring zone.",
+      "flesh": "The flesh is thick, firm and tough, white, and yellows when bruised or with age. The smell is faint, pleasant or slightly fungal; the taste is mild or slightly nutty.",
+      "sporePrint": "The spore print is white. The spores are smooth, elongated ellipsoid to cylindrical, about 9–15 × 3.5–5 µm.",
+      "habitat": "Saprotrophic and weakly parasitic on living or dead hardwood, especially oak and beech, also poplar, horse chestnut and other broadleaves, and sometimes on conifers (in Czechia it is often found on spruce despite its name). Fruit bodies appear singly or in small groups from wounds, trunks, stumps and fallen logs. The main season is July to November; in some regions it also fruits into winter.",
+      "uses": "It is edible, especially when young, but the flesh becomes tough with age and is generally considered inferior to better-known oyster mushrooms such as Pleurotus ostreatus. A few authors list it as inedible because of the toughness.",
+      "confusion": "The oyster mushroom (Pleurotus ostreatus) has a smooth, often bluish-grey to brown cap, no veil or ring, and typically grows in larger overlapping clusters. Pleurotus pulmonarius is usually paler and thinner-fleshed, also without a veil. Pleurotus cornucopiae has a more funnel-shaped cream cap and no ring, and its gills form a coarser network down the stem. Pleurotus calyptratus also has a veil but a smoother cap and typically grows on poplar. Angel's wings (Pleurocybella porrigens) is deadly; it is thin, almost stemless, and grows on conifers.",
+      "notes": "The surest field marks are the felted, often scaly whitish cap, the membranous veil remnants on the margin and a fleeting ring on a short, stout, off-centre stem, and the strongly decurrent white gills that fork on the stem. It is the only familiar oyster mushroom with a veil and ring.",
+      "names": [
+        "veiled oyster mushroom"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=151965",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=151965",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=151965",
+        "https://species.data.kew.org/species/151965",
+        "https://www.gbif.org/species/2526564",
+        "https://www.wikidata.org/wiki/Q820657",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.first-nature.com/fungi/pleurotus-dryinus.php",
+        "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Pleurotus%20dryinus.htm",
+        "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?noTransfer=0&sciname=Pleurotus+dryinus",
+        "https://www.myko.cz/myko-atlas/Pleurotus-dryinus/",
+        "https://fungusradar.com/atlas/pleurotus-dryinus/",
+        "https://en.wikipedia.org/wiki/Pleurotus_dryinus",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames"
+      ],
+      "label": "veiled oyster"
+    },
+    "es": {
+      "description": "Una seta ostra grande y de carne gruesa que crece en heridas, troncos y tocones de árboles de hoja ancha vivos o muertos, sobre todo encinas, robles y hayas, y a veces también en coníferas. El sombrero es de color crema blanquecino a gris pálido, seco y afeltrado, y a menudo se agrieta en escamas gris parduzcas blandas. Es el único Pleurotus habitual con un velo parcial membranoso blanco, que deja fragmentos en el margen enrollado del sombrero y un anillo fugaz en el pie corto, robusto y excéntrico. Las láminas blancas descienden mucho por el pie y allí suelen bifurcarse y anastomosarse. La especie está extendida en Europa y también aparece en Asia y Norteamérica, sobre todo en verano y otoño.",
+      "cap": "El sombrero mide 4–15 cm de diámetro, a veces hasta 20 cm. Al principio es convexo, con el margen enrollado aún unido al pie por un velo membranoso blanco; luego se aplana y se vuelve ampliamente flabeliforme o en forma de concha, a veces con un umbón bajo y ancho. La superficie es seca y afeltrada, de color crema blanquecino a gris pálido o pardo grisáceo pálido, a menudo ligeramente amarilleante, y típicamente se agrieta hacia el centro en escamas blandas gris parduzcas, en placas. Del margen suelen colgar fragmentos blancos de velo.",
+      "hymenium": "Las láminas son blancas a crema, más tarde a veces amarilleantes, bastante apretadas y estrechas, con lamélulas menores, y fuertemente decurrentes, que bajan mucho por el pie. En la parte baja del pie suelen bifurcarse y anastomosarse, formando surcos o una red. En los basidiomas jóvenes las cubre el velo parcial.",
+      "stipe": "El pie mide 3–10 cm de largo (a veces solo 2–6 cm) y 1–3 cm de grosor, corto y robusto, excéntrico a lateral, atenuado hacia la base, macizo y coriáceo, blanquecino y afeltrado, a menudo amarilleante. En joven lleva un anillo membranoso blanco, delgado y efímero; pueden quedar restos como una zona anular tenue.",
+      "flesh": "La carne es gruesa, firme y coriácea, blanca, y amarillea al roce o con la edad. El olor es débil, agradable o ligeramente fúngico; el sabor es suave o ligeramente avellanado.",
+      "sporePrint": "La esporada es blanca. Las esporas son lisas, elipsoidales alargadas a cilíndricas, de unos 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrófica y débilmente parásita sobre madera viva o muerta de frondosas, especialmente roble y haya, también chopo, castaño de Indias y otras frondosas, y a veces en coníferas (en Chequia, pese a su nombre, se encuentra a menudo sobre abeto). Los basidiomas aparecen aislados o en pequeños grupos en heridas, troncos, tocones y rollos caídos. La temporada principal va de julio a noviembre; en algunas regiones también fructifica en invierno.",
+      "uses": "Es comestible, sobre todo cuando es joven, pero la carne se vuelve coriácea con la edad y se considera en general inferior a setas ostra más conocidas como la seta de ostra (Pleurotus ostreatus). Algunos autores la dan por no comestible a causa de esa dureza.",
+      "confusion": "La seta de ostra (Pleurotus ostreatus) tiene un sombrero liso, a menudo gris azulado a pardo, sin velo ni anillo, y suele crecer en ramos más grandes e imbricados. Pleurotus pulmonarius suele ser más pálido y de carne más delgada, también sin velo. Pleurotus cornucopiae tiene un sombrero crema más infundibuliforme y no presenta anillo, y sus láminas forman una red más gruesa en el pie. Pleurotus calyptratus también tiene velo, pero un sombrero más liso, y suele crecer en chopo. El ala de ángel (Pleurocybella porrigens) es mortal; es delgada, casi sin pie, y crece en coníferas.",
+      "notes": "Los rasgos más seguros son el sombrero blanquecino afeltrado, a menudo escamoso, los restos membranosos de velo en el margen y un anillo fugaz en un pie corto, robusto y excéntrico, y las láminas blancas fuertemente decurrentes que se bifurcan en el pie. Es el único Pleurotus habitual con velo y anillo.",
+      "names": [
+        "orellana de suro"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2526564/vernacularNames"
+      ],
+      "label": "pleuroto del roble"
+    },
+    "et": {
+      "description": "Suur, paksu viljalihaga servik, mis kasvab elusate või surnud lehtpuude, eriti tamme ja pöögi, haavadest, tüvedest ja kändudest, vahel ka okaspuudel. Kübar on valkjas-kreemjas kuni kahvatuhall, kuiv ja viltjas ning lõheneb sageli pehmeteks hallikaspruuniks soomusteks. See on ainus tuttav servik valge kileja osalise looriga, mis jätab rippeid sissekäändunud kübaraserva ja põgusa rõnga lühikesele, jässakale, ekstsentrilisele jalale. Valged eoslehekesed kulgevad kaugele piki jalga ning hargnevad ja ühinevad seal sageli. Liik on Euroopas laialt levinud ning esineb ka Aasias ja Põhja-Ameerikas, peamiselt suvel ja sügisel.",
+      "cap": "Kübar on 4–15 cm lai, vahel kuni 20 cm. Algul on ta kumer, sissekäändunud servaga, mis on veel valge kileja looriga jala külge seotud, hiljem lamenenud ja laialt lehvik- või karbikujuline, vahel madala, laia kühmuga. Pind on kuiv ja viltjas, valkjas-kreemjas kuni kahvatuhall või kahvatult hallikaspruun, sageli nõrgalt kolletuv, ja lõheneb tüüpiliselt keskme suunas pehmeteks hallikaspruuniks, väljakujulisteks soomusteks. Servast ripuvad sageli valged loori jäänused.",
+      "hymenium": "Eoslehekesed on valged kuni kreemjad, hiljem vahel kolletuvad, üsna tihedad ja kitsad, väiksemate vaheeoslehekestega, ja tugevasti jalgamööda laskuvad. Allpool jalal hargnevad ja ühinevad nad sageli ning moodustavad sooned või võrgu. Noortel viljakehadel katab neid osaline loor.",
+      "stipe": "Jalg on 3–10 cm pikk (vahel vaid 2–6 cm) ja 1–3 cm jäme, lühike ja jässakas, ekstsentriline kuni külgmine, aluse poole ahenev, täis ja sitke, valkjas ja viltjas, sageli kolletuv. Noorena kannab ta õhukest, lühiealist valget kilejat rõngast; jäänused võivad jääda nõrgaks rõngastsooniks.",
+      "flesh": "Viljaliha on paks, tihe ja sitke, valge ning kolletub vigastusel või vananedes. Lõhn on nõrk, meeldiv või kergelt seeneline; maitse mahe või kergelt pähkline.",
+      "sporePrint": "Eospulber on valge. Eosed on siledad, piklik-ellipsoidsed kuni silindrilised, umbes 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotroofne ja nõrgalt parasiitne elusal või surnud lehtpuupuidul, eriti tammel ja pöögil, ka paplil, hobusekastanil ja teistel lehtpuudel, vahel okaspuudel (Tšehhis esineb liik nimele vaatamata sageli kuusel). Viljakehad ilmuvad üksikult või väikeste rühmadena haavadest, tüvedest, kändudest ja lamatüvedest. Peamine hooaeg on juulist novembrini; mõnes piirkonnas viljub ta ka talvel.",
+      "uses": "Ta on söödav, eriti noorelt, kuid viljaliha muutub vananedes sitkeks ja teda peetakse üldiselt kehvemaks kui tuntumaid servikuid, näiteks austerservikut (Pleurotus ostreatus). Mõned autorid märgivad ta sitkuse tõttu mittesöödavaks.",
+      "confusion": "Austerservikul (Pleurotus ostreatus) on sile, sageli sinakashall kuni pruun kübar, ilma loori ja rõngata, ning ta kasvab tüüpiliselt suuremates, üksteist katvates puhmikutes. Pleurotus pulmonarius on tavaliselt kahvatum ja õhema viljalihaga, samuti ilma loorita. Pleurotus cornucopiae on enam lehterjas kreemjas kübarata ja ilma rõngata, ning tema eoslehekesed moodustavad jalal jämedama võrgu. Pleurotus calyptratusel on samuti loor, kuid siledam kübar, ja ta kasvab tüüpiliselt paplil. Kõrvkülik (Pleurocybella porrigens) on surmavalt mürgine; ta on õhuke, peaaegu jalatu ja kasvab okaspuudel.",
+      "notes": "Kindlaimad tunnused on viltjas, sageli soomuseline valkjas kübar, kilejad loorijäänused serval ja põgus rõngas lühikesel, jässakal, ekstsentrilisel jalal ning tugevalt jalgamööda laskuvad valged eoslehekesed, mis jalal hargnevad. See on ainus tuttav servik loori ja rõngaga.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Loorservik",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "loorservik"
+    },
+    "fa": {
+      "description": "قارچ صدفی بزرگ و گوشت‌کلفتی که از زخم‌ها، تنه‌ها و کُنده‌های درختان پهن‌برگ زنده یا مرده، به‌ویژه بلوط و راش، و گاهی نیز روی مخروطیان می‌روید. کلاهک سفید مایل به کرم تا خاکستری کمرنگ، خشک و نمدی است و اغلب به فلس‌های نرم خاکستری-قهوه‌ای شکسته می‌شود. این تنها گونهٔ آشنای Pleurotus با پردهٔ ناقص غشایی سفید است که تکه‌هایی روی حاشیهٔ برگشتهٔ کلاهک و حلقه‌ای گذرا روی ساقهٔ کوتاه، ستبر و خارج از مرکز باقی می‌گذارد. تیغه‌های سفید تا پایین ساقه ادامه می‌یابند و اغلب در آنجا دوشاخه و به هم پیوسته می‌شوند. گونه در اروپا گسترده است و در آسیا و آمریکای شمالی نیز دیده می‌شود، بیشتر در تابستان و پاییز.",
+      "cap": "کلاهک 4–15 سانتی‌متر قطر دارد، گاه تا 20 سانتی‌متر. نخست محدب است، با حاشیهٔ برگشته که هنوز با پرده‌ای غشایی سفید به ساقه پیوسته است، سپس پهن می‌شود و به شکل بادبزنی یا صدفی پهن درمی‌آید، گاه با برآمده‌ای کوتاه و پهن. سطح خشک و نمدی است، سفید مایل به کرم تا خاکستری کمرنگ یا قهوه‌ای خاکستری کمرنگ، اغلب اندکی زردشونده، و معمولاً به‌سوی مرکز به فلس‌های نرم خاکستری-قهوه‌ای لکه‌مانند شکسته می‌شود. اغلب تکه‌های سفید پرده از حاشیه آویزان است.",
+      "hymenium": "تیغه‌ها سفید تا کرم، بعدها گاه زردشونده، نسبتاً نزدیک و باریک، با تیغه‌های فرعی کوچک‌تر، و به‌شدت پایین‌رونده‌اند و تا پایین ساقه ادامه می‌یابند. در بخش پایین ساقه اغلب دوشاخه و به هم پیوسته می‌شوند و شیار یا شبکه‌ای می‌سازند. در اندام‌های بارده جوان، پردهٔ ناقص آنها را می‌پوشاند.",
+      "stipe": "ساقه 3–10 سانتی‌متر طول (گاه فقط 2–6 سانتی‌متر) و 1–3 سانتی‌متر ضخامت دارد، کوتاه و ستبر، خارج از مرکز تا جانبی، به‌سوی پایه باریک‌شونده، توپر و سفت، مایل به سفید و نمدی، و اغلب زردشونده است. در جوانی حلقه‌ای غشایی سفید، نازک و کوتاه‌عمر دارد؛ بقایا ممکن است به صورت نوار حلقه‌ای کم‌رنگ باقی بمانند.",
+      "flesh": "گوشت ضخیم، محکم و سفت، سفید است و هنگام کوفتگی یا با افزایش سن زرد می‌شود. بو ضعیف، مطبوع یا اندکی قارچی است؛ طعم ملایم یا اندکی مغزدار است.",
+      "sporePrint": "نقش اسپور سفید است. اسپورها صاف، بیضوی کشیده تا استوانه‌ای، حدود 9–15 × 3.5–5 µm هستند.",
+      "habitat": "ساپروتروف و انگل ضعیف روی چوب زنده یا مردهٔ پهن‌برگان، به‌ویژه بلوط و راش، همچنین سپیدار، شاه‌بلوط هندی و دیگر پهن‌برگان، و گاهی روی مخروطیان (در چک، با وجود نامش، اغلب روی نوئل یافت می‌شود). اندام‌های بارده به‌تنهایی یا در گروه‌های کوچک از زخم‌ها، تنه‌ها، کُنده‌ها و تنه‌های افتاده پدید می‌آیند. فصل اصلی از ژوئیه تا نوامبر است؛ در برخی مناطق در زمستان نیز میوه می‌دهد.",
+      "uses": "خوراکی است، به‌ویژه در جوانی، اما گوشت با افزایش سن سفت می‌شود و معمولاً پایین‌تر از قارچ‌های صدفی شناخته‌شده‌تری مانند Pleurotus ostreatus دانسته می‌شود. برخی نویسندگان به‌سبب همین سفتی آن را غیرخوراکی می‌دانند.",
+      "confusion": "Pleurotus ostreatus کلاهکی صاف، اغلب خاکستری مایل به آبی تا قهوه‌ای، بدون پرده و حلقه دارد و معمولاً در خوشه‌های بزرگ‌تر روی‌هم‌افتاده می‌روید. Pleurotus pulmonarius معمولاً کم‌رنگ‌تر و نازک‌گوشت‌تر است و آن نیز پرده ندارد. Pleurotus cornucopiae کلاهکی کرمی قیفی‌شکل‌تر و بدون حلقه دارد و تیغه‌هایش روی ساقه شبکهٔ درشت‌تری می‌سازند. Pleurotus calyptratus نیز پرده دارد اما کلاهک صاف‌تری دارد و معمولاً روی سپیدار می‌روید. Pleurocybella porrigens مرگبار است؛ نازک و تقریباً بدون ساقه است و روی مخروطیان می‌روید.",
+      "notes": "مطمئن‌ترین نشانه‌های میدانی کلاهک مایل به سفید و نمدی، اغلب فلس‌دار، بقایای غشایی پرده روی حاشیه و حلقهٔ گذرا روی ساقه‌ای کوتاه، ستبر و خارج از مرکز، و تیغه‌های سفید به‌شدت پایین‌رونده است که روی ساقه دوشاخه می‌شوند. این تنها قارچ صدفی آشنا با پرده و حلقه است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Kookas, paksulihainen vinokas, joka kasvaa elävien tai kuolleiden lehtipuiden, erityisesti tammen ja pyökin, haavoista, rungoista ja kannoista, toisinaan myös havupuilla. Lakki on valkean kermankeltainen tai vaaleanharmaa, kuiva ja huopamainen ja halkeilee usein pehmeiksi harmaanruskeiksi suomuiksi. Se on ainoa tuttu vinokas, jolla on valkoinen kalvomainen osittainen verho; verho jättää riekaleita lakin sisäänkiertyneeseen laitaan ja lyhytikäisen renkaan lyhyeen, tukevaan, epäkeskiseen jalkaan. Valkoiset heltat jatkuvat pitkälle jalkaa pitkin ja haarautuvat ja yhtyvät siellä usein. Laji on laajalti levinnyt Euroopassa ja esiintyy myös Aasiassa ja Pohjois-Amerikassa, pääasiassa kesällä ja syksyllä.",
+      "cap": "Lakki on 4–15 cm leveä, toisinaan jopa 20 cm. Aluksi se on kupera, sisäänkiertyneen laidan vielä liittyessä jalkaan valkoisella kalvomaisella verholla, myöhemmin litistynyt ja laajalti viuhkamainen tai simpukkamainen, joskus matalan, leveän kuhmun kera. Pinta on kuiva ja huopamainen, valkean kermankeltainen tai vaaleanharmaa tai vaalean harmaanruskea, usein heikosti kellastuva, ja halkeilee tyypillisesti keskustaa kohti pehmeiksi harmaanruskeiksi, kenttämäisiksi suomuiksi. Laidasta roikkuu usein valkoisia verhon riekaleita.",
+      "hymenium": "Heltat ovat valkoiset tai kermankeltaiset, myöhemmin toisinaan kellastuvat, melko tiheät ja kapeat, ja niissä on pienempiä välihelttoja; ne ovat voimakkaasti jalkaa pitkin laskevia. Alhaalla jalassa ne haarautuvat ja yhtyvät usein ja muodostavat uurteita tai verkon. Nuorilla itiöemillä ne peittyvät osittaisen verhon alle.",
+      "stipe": "Jalka on 3–10 cm pitkä (toisinaan vain 2–6 cm) ja 1–3 cm paksu, lyhyt ja tukeva, epäkeskinen tai sivullinen, tyveä kohti kapeneva, umpinainen ja sitkeä, valkeahko ja huopamainen, usein kellastuva. Nuorena siinä on ohut, lyhytikäinen valkoinen kalvomainen rengas; jäänteitä voi jäädä heikoksi rengasvyöhykkeeksi.",
+      "flesh": "Malo on paksu, kiinteä ja sitkeä, valkoinen, ja kellastuu vioittuessaan tai vanhetessaan. Tuoksu on heikko, miellyttävä tai hieman sienimäinen; maku mieto tai hieman pähkinäinen.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat sileitä, pitkänomaisen ellipsoideja tai lieriömäisiä, noin 9–15 × 3,5–5 µm.",
+      "habitat": "Lahottaja ja heikosti loinen elävällä tai kuolleella lehtipuulla, erityisesti tammella ja pyökillä, myös poppelilla, hevoskastanjalla ja muilla lehtipuilla, toisinaan havupuilla (Tšekissä laji kasvaa nimestään huolimatta usein kuusella). Itiöemät ilmestyvät yksittäin tai pieninä ryhminä haavoista, rungoista, kannoista ja maapuista. Pääkausi on heinäkuusta marraskuuhun; joillakin alueilla se tuottaa itiöemiä myös talvella.",
+      "uses": "Se on syötävä, erityisesti nuorena, mutta malo sitkistyy vanhetessaan ja sitä pidetään yleensä heikompana kuin tunnetumpia vinokkaita, kuten osterivinokasta (Pleurotus ostreatus). Jotkut kirjoittajat pitävät sitä sitkeyden takia syömäkelvottomana.",
+      "confusion": "Osterivinokas (Pleurotus ostreatus) on sileälakkinen, usein sinertävän harmaa tai ruskea, ilman verhoa ja rengasta, ja kasvaa tyypillisesti suurempina, toisiaan peittävinä kimppuina. Pleurotus pulmonarius on yleensä vaaleampi ja ohutmaltoisempi, myös ilman verhoa. Pleurotus cornucopiae on suppilomaisempi, kermankeltainen lakki ilman rengasta, ja helttojen verkko jalassa on karkeampi. Pleurotus calyptratus:lla on myös verho, mutta sileämpi lakki, ja se kasvaa tyypillisesti poppelilla. Korvavinokas (Pleurocybella porrigens) on tappavan myrkyllinen; se on ohut, lähes jalaton ja kasvaa havupuilla.",
+      "notes": "Varmimmat tuntomerkit ovat huopamainen, usein suomuinen valkeahko lakki, kalvomaiset verhon jäänteet laidassa ja lyhytikäinen rengas lyhyessä, tukevassa, epäkeskisessä jalassa sekä voimakkaasti jalkaa pitkin laskevat valkoiset heltat, jotka haarautuvat jalassa. Se on ainoa tuttu vinokas, jolla on verho ja rengas.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "rengasvinokas"
+    },
+    "fr": {
+      "description": "Un grand pleurote à chair épaisse qui pousse à partir des blessures, des troncs et des souches d'arbres feuillus vivants ou morts, surtout le chêne et le hêtre, et parfois aussi sur les conifères. Le chapeau est blanc crème à gris pâle, sec et feutré, et se fend souvent en écailles gris-brun molles. C'est le seul pleurote familier pourvu d'un voile partiel membraneux blanc, qui laisse des lambeaux sur la marge enroulée du chapeau et un anneau fugace sur le pied court, trapu et excentré. Les lames blanches descendent loin sur le pied et s'y fourchent et s'y anastomosent souvent. L'espèce est répandue en Europe et se rencontre aussi en Asie et en Amérique du Nord, surtout en été et en automne.",
+      "cap": "Le chapeau mesure 4–15 cm de diamètre, parfois jusqu'à 20 cm. D'abord convexe, à marge enroulée encore réunie au pied par un voile membraneux blanc, il s'aplatit ensuite et devient largement en éventail ou en coquille, parfois avec un large umbo bas. La surface est sèche et feutrée, blanc crème à gris pâle ou gris-brun pâle, souvent légèrement jaunissante, et se fend typiquement vers le centre en écailles molles gris-brun, en plaques. Des fragments blancs de voile pendent souvent de la marge.",
+      "hymenium": "Les lames sont blanches à crème, parfois jaunissantes plus tard, assez serrées et étroites, avec de plus petites lamellules, et fortement décurrentes, descendant loin sur le pied. Bas sur le pied, elles se fourchent et s'anastomosent souvent, formant des sillons ou un réseau. Chez les jeunes sporophores, elles sont cachées par le voile partiel.",
+      "stipe": "Le pied mesure 3–10 cm de long (parfois seulement 2–6 cm) et 1–3 cm d'épaisseur, court et trapu, excentré à latéral, atténué vers la base, plein et coriace, blanchâtre et feutré, souvent jaunissant. Jeune, il porte un anneau membraneux blanc, mince et éphémère; des restes peuvent persister en une faible zone annulaire.",
+      "flesh": "La chair est épaisse, ferme et coriace, blanche, et jaunit à la blessure ou avec l'âge. L'odeur est faible, agréable ou légèrement fongique; la saveur est douce ou légèrement de noisette.",
+      "sporePrint": "La sporée est blanche. Les spores sont lisses, ellipsoïdes allongées à cylindriques, d'environ 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrophe et faiblement parasite sur le bois feuillu vivant ou mort, surtout le chêne et le hêtre, aussi le peuplier, le marronnier et d'autres feuillus, et parfois sur les conifères (en Tchéquie, malgré son nom, il se trouve souvent sur l'épicéa). Les sporophores apparaissent isolés ou en petits groupes à partir de blessures, de troncs, de souches et de billots. La saison principale va de juillet à novembre; dans certaines régions, il fructifie aussi en hiver.",
+      "uses": "Il est comestible, surtout jeune, mais la chair devient coriace avec l'âge et est généralement jugée inférieure à celle de pleurotes plus connus comme le pleurote en huître (Pleurotus ostreatus). Quelques auteurs le tiennent pour non comestible en raison de cette coriacité.",
+      "confusion": "Le pleurote en huître (Pleurotus ostreatus) a un chapeau lisse, souvent gris bleuté à brun, sans voile ni anneau, et pousse typiquement en touffes plus grandes et imbriquées. Pleurotus pulmonarius est généralement plus pâle et à chair plus mince, également sans voile. Pleurotus cornucopiae a un chapeau crème plus infundibuliforme, sans anneau, et ses lames forment un réseau plus grossier sur le pied. Pleurotus calyptratus a aussi un voile, mais un chapeau plus lisse, et pousse typiquement sur le peuplier. Le pleurote étalé (Pleurocybella porrigens) est mortel; il est mince, presque sans pied, et pousse sur les conifères.",
+      "notes": "Les caractères les plus sûrs sont le chapeau blanchâtre feutré, souvent écailleux, les restes membraneux de voile à la marge et un anneau fugace sur un pied court, trapu et excentré, ainsi que les lames blanches fortement décurrentes qui se fourchent sur le pied. C'est le seul pleurote familier pourvu d'un voile et d'un anneau.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340"
+      ],
+      "label": "pleurote du chêne"
+    },
+    "he": {
+      "description": "פטריית צדפה גדולה ועבת בשר הגדלה מפצעים, גזעים וגדמים של עצים רחבי-עלים חיים או מתים, בעיקר אלון ואשור, ולעיתים גם על מחטניים. הכובע שמנת-לבנבן עד אפור חיוור, יבש ולבדדי, ולעיתים קרובות מתבקע לקשקשים רכים אפורים-חומים. זהו מין ה-Pleurotus המוכר היחיד בעל וילונית חלקית קרומית לבנה, המותירה קרעים בשולי הכובע המגולגלים פנימה וטבעת חולפת על הרגל הקצרה, העבה והאקסצנטרית. הזים הלבנים יורדים הרחק לאורך הרגל ושם לעיתים קרובות מתפצלים ומתחברים. המין נפוץ באירופה ומופיע גם באסיה ובצפון אמריקה, בעיקר בקיץ ובסתיו.",
+      "cap": "הכובע בקוטר 4–15 ס\"מ, לעיתים עד 20 ס\"מ. תחילה הוא קמור, עם שוליים מגולגלים פנימה שעדיין מחוברים לרגל בווילונית קרומית לבנה, אחר כך משתטח ונעשה דמוי מניפה או קונכייה רחבה, לפעמים עם דמוי-פיטם נמוך ורחב. פני השטח יבשים ולבדדיים, שמנת-לבנבן עד אפור חיוור או אפור-חום חיוור, לעיתים מצהיבים קלות, ובדרך כלל מתבקעים כלפי המרכז לקשקשים רכים אפורים-חומים דמויי כתמים. מהשוליים תלויים לעיתים קרובות קרעי וילונית לבנים.",
+      "hymenium": "הזים לבנים עד שמנת, אחר כך לעיתים מצהיבים, צפופים למדי וצרים, עם זימונים קטנים יותר, ויורדים חזק, רצים הרחק במורד הרגל. בחלק התחתון של הרגל הם לעיתים קרובות מתפצלים ומתחברים ויוצרים חריצים או רשת. בגופי פרי צעירים מכסה אותם הווילונית החלקית.",
+      "stipe": "הרגל באורך 3–10 ס\"מ (לעיתים רק 2–6 ס\"מ) ובעובי 1–3 ס\"מ, קצרה ועבה, אקסצנטרית עד צדית, מתחדדת כלפי הבסיס, מלאה וקשה, לבנבנה ולבדדית, ולעיתים קרובות מצהיבה. בצעירותה היא נושאת טבעת קרומית לבנה דקה וקצרת-חיים; שרידים עשויים להישאר כאזור טבעת חיוור.",
+      "flesh": "הבשר עבה, מוצק וקשה, לבן, ומצהיב בפציעה או עם הגיל. הריח חלש, נעים או מעט פטרייתי; הטעם עדין או מעט אגוזי.",
+      "sporePrint": "טביעת הנבגים לבנה. הנבגים חלקים, אליפסואידיים מוארכים עד גליליים, כ-9–15 × 3.5–5 µm.",
+      "habitat": "ספרוטרוף וטפיל חלש על עץ רחב-עלים חי או מת, בעיקר אלון ואשור, גם צפצפה, ערמון סוסים ורחבי-עלים אחרים, ולעיתים על מחטניים (בצ'כיה, למרות השם, נמצא לעיתים קרובות על אשוחית). גופי הפרי מופיעים בודדים או בקבוצות קטנות מפצעים, גזעים, גדמים וגזעים שנפלו. העונה העיקרית היא מיולי עד נובמבר; באזורים מסוימים הוא גם מניב בחורף.",
+      "uses": "הוא אכיל, במיוחד כשהוא צעיר, אך הבשר מתקשה עם הגיל ובדרך כלל נחשב נחות מפטריות צדפה מוכרות יותר כגון אזנית צדף (Pleurotus ostreatus). מחברים אחדים מציינים אותו כבלתי אכיל בשל הקשיחות.",
+      "confusion": "לאזנית צדף (Pleurotus ostreatus) כובע חלק, לעיתים קרובות אפור-כחלחל עד חום, בלי וילונית ובלי טבעת, והיא גדלה בדרך כלל באשכולות גדולים יותר החופפים זה את זה. Pleurotus pulmonarius בדרך כלל חיוור יותר ודק-בשר יותר, גם בלי וילונית. ל-Pleurotus cornucopiae כובע שמנת דמוי משפך יותר ואין טבעת, והזים יוצרים על הרגל רשת גסה יותר. גם ל-Pleurotus calyptratus יש וילונית, אך כובע חלק יותר, והוא גדל בדרך כלל על צפצפה. Pleurocybella porrigens קטלני; הוא דק, כמעט בלי רגל, וגדל על מחטניים.",
+      "notes": "הסימנים הבטוחים ביותר הם הכובע הלבדדי הלבנבן, לעיתים קרובות הקשקשי, שרידי הווילונית הקרומית בשוליים וטבעת חולפת על רגל קצרה, עבה ואקסצנטרית, וכן הזים הלבנים היורדים חזק ומתפצלים על הרגל. זו פטריית הצדפה המוכרת היחידה בעלת וילונית וטבעת.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक बड़ा, मोटा-गूदेदार ऑइस्टर मशरूम जो जीवित या मृत चौड़ी-पत्ती वाले वृक्षों, विशेषकर ओक और बीच, के घावों, तनों और ठूँठों से उगता है, और कभी-कभी शंकुधारियों पर भी। टोपी सफ़ेद-क्रीम से लेकर फीकी धूसर, सूखी और महसूसी होती है, और अक्सर मुलायम धूसर-भूरे शल्कों में फट जाती है। यह एकमात्र परिचित Pleurotus है जिसमें सफेद झिल्लीदार आंशिक आवरण होता है, जो अंदर की ओर लिपटे किनारे पर टुकड़े और छोटे, मोटे, केंद्र से हटे डंठल पर एक क्षणिक वलय छोड़ता है। सफेद गिल्स डंठल पर बहुत नीचे तक उतरती हैं और वहाँ अक्सर शाखाओं में बँटती और जुड़ती हैं। यह प्रजाति यूरोप में व्यापक है और एशिया तथा उत्तर अमेरिका में भी पाई जाती है, मुख्यतः ग्रीष्म और शरद में।",
+      "cap": "टोपी 4–15 सेमी चौड़ी होती है, कभी-कभी 20 सेमी तक। पहले यह उत्तल होती है, अंदर की ओर लिपटे किनारे के साथ जो अभी भी सफेद झिल्लीदार आवरण से डंठल से जुड़ा होता है, फिर चपटी होकर चौड़ी पंखे या शंख के आकार की हो जाती है, कभी-कभी एक नीची, चौड़ी ऊभार के साथ। सतह सूखी और महसूसी है, सफ़ेद-क्रीम से फीकी धूसर या फीकी धूसर-भूरी, अक्सर हल्की पीली पड़ती हुई, और आमतौर पर केंद्र की ओर मुलायम धूसर-भूरे धब्बेनुमा शल्कों में फट जाती है। किनारे से अक्सर सफेद आवरण के टुकड़े लटके रहते हैं।",
+      "hymenium": "गिल्स सफेद से क्रीम, बाद में कभी-कभी पीली पड़ती हुई, काफी पास-पास और संकीर्ण, छोटी उप-गिल्स के साथ, और तीव्रता से अवरोही होती हैं, डंठल पर बहुत नीचे तक जाती हैं। डंठल के निचले भाग पर वे अक्सर शाखाओं में बँटती और जुड़ती हैं, खांचे या जाल बनाती हुई। युवा फलन-कायों में उन्हें आंशिक आवरण छिपाता है।",
+      "stipe": "डंठल 3–10 सेमी लंबा (कभी-कभी केवल 2–6 सेमी) और 1–3 सेमी मोटा होता है, छोटा और मोटा, केंद्र से हटा हुआ से लेकर पार्श्व तक, आधार की ओर पतला, ठोस और सख्त, सफ़ेद और महसूसी, और अक्सर पीला पड़ता हुआ। युवा अवस्था में यह एक पतला, अल्पकालिक सफेद झिल्लीदार वलय धारण करता है; अवशेष एक फीके वलय-क्षेत्र के रूप में रह सकते हैं।",
+      "flesh": "गूदा मोटा, दृढ़ और सख्त, सफेद होता है, और चोट लगने या आयु के साथ पीला पड़ जाता है। गंध हल्की, सुखद या थोड़ी कवकीय है; स्वाद मृदु या थोड़ा मेवेदार है।",
+      "sporePrint": "बीजाणु छाप सफेद होती है। बीजाणु चिकने, लम्बे दीर्घवृत्ताकार से बेलनाकार, लगभग 9–15 × 3.5–5 µm होते हैं।",
+      "habitat": "जीवित या मृत चौड़ी-पत्ती की लकड़ी पर मृतजीवी और दुर्बल परजीवी, विशेषकर ओक और बीच पर, साथ ही पॉपलर, हॉर्स चेस्टनट और अन्य चौड़ी-पत्ती वृक्षों पर, और कभी-कभी शंकुधारियों पर (चेकिया में, नाम के बावजूद, अक्सर स्प्रूस पर पाया जाता है)। फलन-काय घावों, तनों, ठूँठों और गिरे हुए लट्ठों से अकेले या छोटे समूहों में दिखाई देते हैं। मुख्य ऋतु जुलाई से नवंबर तक है; कुछ क्षेत्रों में यह सर्दियों में भी फलता है।",
+      "uses": "यह खाने योग्य है, विशेषकर युवा अवस्था में, लेकिन गूदा आयु के साथ सख्त हो जाता है और आमतौर पर Pleurotus ostreatus जैसे बेहतर ज्ञात ऑइस्टर मशरूमों से निम्न माना जाता है। कुछ लेखक सख्ती के कारण इसे अखाद्य बताते हैं।",
+      "confusion": "Pleurotus ostreatus की टोपी चिकनी होती है, अक्सर नीली-धूसर से भूरी, बिना आवरण और वलय के, और यह आमतौर पर बड़े अतिव्यापी गुच्छों में उगता है। Pleurotus pulmonarius आमतौर पर अधिक फीका और पतले गूदे वाला होता है, वह भी बिना आवरण के। Pleurotus cornucopiae की टोपी अधिक कीप के आकार की क्रीम रंग की होती है और वलय नहीं होता, तथा इसकी गिल्स डंठल पर मोटा जाल बनाती हैं। Pleurotus calyptratus में भी आवरण होता है, लेकिन टोपी अधिक चिकनी होती है, और यह आमतौर पर पॉपलर पर उगता है। Pleurocybella porrigens घातक है; यह पतला, लगभग डंठल-रहित होता है और शंकुधारियों पर उगता है।",
+      "notes": "सबसे विश्वसनीय पहचान चिह्न महसूसी, अक्सर शल्कीय सफ़ेद टोपी, किनारे पर झिल्लीदार आवरण के अवशेष और छोटे, मोटे, केंद्र से हटे डंठल पर क्षणिक वलय, तथा डंठल पर शाखाओं में बँटने वाली तीव्र अवरोही सफेद गिल्स हैं। आवरण और वलय वाला यही एकमात्र परिचित ऑइस्टर मशरूम है.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, debelo mesnata gljiva iz roda Pleurotus koja raste iz rana, debala i panjeva živih ili odumrlih listača, osobito hrasta i bukve, a ponekad i na četinjačama. Klobuk je bjelkasto krem do blijedo siv, suh i pustenast te se često raspada na meke sivosmeđe ljuske. To je jedina poznata vrsta roda Pleurotus s bijelim kožastim djelomičnim velumom, koji ostavlja ostatke na podvinutom rubu klobuka i kratkotrajni prsten na kratkoj, zdepastoj, ekscentričnoj stručku. Bijeli listići daleko silaze niz stručak i tamo se često vilasto dijele i spajaju. Vrsta je raširena u Europi i pojavljuje se i u Aziji i Sjevernoj Americi, uglavnom ljeti i u jesen.",
+      "cap": "Klobuk ima 4–15 cm u promjeru, povremeno do 20 cm. Najprije je ispupčen, s podvinutim rubom još spojenim sa stručkom bijelim kožastim velumom, zatim spljošten i široko lepezast ili školjkast, ponekad s niskom, širokom grbom. Površina je suha i pustenasta, bjelkasto krem do blijedo siva ili blijedo sivosmeđa, često slabo požuteća, i tipično se prema sredini raspada na meke sivosmeđe, poljastolike ljuske. S ruba često vise bijeli ostaci veluma.",
+      "hymenium": "Listići su bijeli do krem, kasnije ponekad požuteći, prilično gusti i uski, s manjim međulistićima, i jako silazni, te sežu daleko niz stručak. Nisko na stručku često se vilasto dijele i povezuju, tvoreći brazde ili mrežu. Kod mladih plodišta prekriva ih djelomični velum.",
+      "stipe": "Stručak je dugačak 3–10 cm (ponekad samo 2–6 cm) i 1–3 cm debeo, kratak i zdepast, ekscentričan do bočni, sužuje se prema dnu, pun i čvrst, bjelkast i pustenast, često požuteći. U mladosti nosi tanak, kratkotrajan bijeli kožasti prsten; ostaci mogu ostati kao slaba prstenasta zona.",
+      "flesh": "Meso je debelo, čvrsto i žilavo, bijelo i pri ozljedi ili sa starošću žuti. Miris je slab, ugodan ili slabo gljivast; okus blag ili slabo orašast.",
+      "sporePrint": "Otisak spora je bijel. Spore su glatke, izduženo elipsoidne do valjkaste, oko 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofna i slabo parazitska na živom ili odumrlom drvu listača, osobito hrasta i bukve, također topole, divljeg kestena i drugih listača, a ponekad na četinjačama (u Češkoj se unatoč imenu često pojavljuje na smreki). Plodišta se pojavljuju pojedinačno ili u malim skupinama iz rana, debala, panjeva i poleglih debla. Glavna sezona je od srpnja do studenoga; u nekim područjima plodi i zimi.",
+      "uses": "Jestiva je, osobito u mladosti, ali meso sa starošću postaje žilavo i općenito se smatra lošijom od poznatijih vrsta roda Pleurotus, kao što je Pleurotus ostreatus. Neki je autori zbog žilavosti navode kao nejestivu.",
+      "confusion": "Pleurotus ostreatus ima gladak, često plavičastosiv do smeđ klobuk, bez veluma i prstena, i tipično raste u većim, preklapajućim skupinama. Pleurotus pulmonarius obično je bljeđi i tanjeg mesa, također bez veluma. Pleurotus cornucopiae ima više lijevkast krem klobuk i nema prsten, a njegovi listići na stručku tvore grublju mrežu. Pleurotus calyptratus također ima velum, ali glađi klobuk i tipično raste na topoli. Smrtno otrovna Pleurocybella porrigens tanka je, gotovo bez stručka i raste na četinjačama.",
+      "notes": "Najpouzdanija obilježja su pustenast, često ljuskav bjelkast klobuk, kožasti ostaci veluma na rubu i kratkotrajni prsten na kratkom, zdepastom, ekscentričnom stručku te jako silazni bijeli listići koji se na stručku vilasto dijele. To je jedina poznata vrsta roda Pleurotus s velumom i prstenom.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Nagy, vastag húsú laskagomba, amely élő vagy holt lomblevelű fák, különösen tölgy és bükk sebesedéseiből, törzseiről és tuskóiról nő, néha fenyőféléken is. A kalap fehéres krémszínű vagy halványszürke, száraz és nemezes, és gyakran puha szürkésbarna pikkelyekre hasad. Ez az egyetlen közismert Pleurotus-faj fehér, hártyás részleges burokkal, amely rongyokat hagy a begöngyölt kalapszélen, és múlékony gyűrűt a rövid, zömök, excentrikus tönkön. A fehér lemezek messze lefutnak a tönkön, és ott gyakran villásan elágaznak és összekapcsolódnak. A faj Európa-szerte elterjedt, Ázsiában és Észak-Amerikában is előfordul, főként nyáron és ősszel.",
+      "cap": "A kalap 4–15 cm átmérőjű, esetenként 20 cm-ig. Először domború, begöngyölt széllel, amelyet fehér hártyás burok még a tönkhöz kapcsol, majd ellaposodik, és szélesen legyező vagy kagyló alakúvá válik, néha alacsony, széles púppal. A felszín száraz és nemezes, fehéres krémszínű vagy halványszürke, illetve halvány szürkésbarna, gyakran halványan sárguló, és jellemzően a közép felé puha, foltszerű szürkésbarna pikkelyekre hasad. A szélről gyakran fehér burokfoszlányok csüngenek.",
+      "hymenium": "A lemezek fehérek vagy krémszínűek, később néha sárgulók, viszonylag sűrűk és keskenyek, kisebb közteslemezekkel, és erősen lefutók, messze a tönkre nyúlók. A tönk alsó részén gyakran villásan elágaznak és összekapcsolódnak, barázdákat vagy hálót alkotva. A fiatal termőtesteken a részleges burok takarja őket.",
+      "stipe": "A tönk 3–10 cm hosszú (néha csak 2–6 cm) és 1–3 cm vastag, rövid és zömök, excentrikus vagy oldalsó, a töve felé keskenyedő, telt és szívós, fehéres és nemezes, gyakran sárguló. Fiatalon vékony, rövid életű fehér hártyás gyűrűt visel; a maradványok halvány gyűrűzónaként megmaradhatnak.",
+      "flesh": "A hús vastag, szilárd és szívós, fehér, és sérülésre vagy korral sárgul. Az illata gyenge, kellemes vagy enyhén gombaszerű; az íze enyhe vagy enyhén diós.",
+      "sporePrint": "A spórapor fehér. A spórák simák, megnyúlt ellipszoidok vagy hengeresek, körülbelül 9–15 × 3,5–5 µm-esek.",
+      "habitat": "Szaprotróf és gyengén parazita élő vagy holt lomblevelű faanyagon, különösen tölgyön és bükkön, továbbá nyárfán, vadgesztenyén és más lomblevelűeken, néha fenyőféléken is (Csehországban a neve ellenére gyakran lucfenyőn). A termőtestek magánosan vagy kis csoportokban jelennek meg sebek, törzsek, tuskók és kidőlt rönkök felől. A fő idény júliustól novemberig tart; egyes vidékeken télen is terem.",
+      "uses": "Ehető, különösen fiatalon, de a hús korral szívóssá válik, és általában gyengébbnek tartják, mint az ismertebb laskagombákat, például a késői laskagombát (Pleurotus ostreatus). Egyes szerzők a szívósság miatt ehetetlennek sorolják.",
+      "confusion": "A késői laskagombának (Pleurotus ostreatus) sima, gyakran kékes-szürke vagy barna kalapja van, burok és gyűrű nélkül, és jellemzően nagyobb, tetőcserépszerűen átfedő csokrokban nő. A Pleurotus pulmonarius általában halványabb és vékonyabb húsú, szintén burok nélkül. A Pleurotus cornucopiae tölcséresebb krémszínű kalapú és nem visel gyűrűt, lemezei a tönkön durvább hálót alkotnak. A Pleurotus calyptratusnak szintén van burka, de simább a kalapja, és jellemzően nyárfán nő. A fehér fülőke (Pleurocybella porrigens) halálosan mérgező; vékony, szinte tönk nélküli, és fenyőfákon nő.",
+      "notes": "A legbiztosabb bélyegek a nemezes, gyakran pikkelyes fehéres kalap, a hártyás burokmaradványok a szélen és a múlékony gyűrű a rövid, zömök, excentrikus tönkön, valamint az erősen lefutó fehér lemezek, amelyek a tönkön villásan elágaznak. Ez az egyetlen közismert laskagomba burokkal és gyűrűvel.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Pih%C3%A9s_laskagomba",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "pihés laskagomba"
+    },
+    "id": {
+      "description": "Jamur tiram besar berdaging tebal yang tumbuh dari luka, batang, dan tunggul pohon berdaun lebar yang hidup atau mati, terutama ek dan beech, dan kadang juga pada konifer. Tudung berwarna krem keputihan hingga abu-abu pucat, kering dan seperti felt, dan sering pecah menjadi sisik cokelat keabu-abuan yang lembut. Ini adalah satu-satunya Pleurotus yang dikenal dengan selubung sebagian berbentuk selaput putih, yang meninggalkan serpihan pada tepi tudung yang menggulung ke dalam dan cincin singkat pada tangkai pendek, kekar, dan tidak di pusat. Lamela putih merunduk jauh ke bawah tangkai dan di sana sering bercabang serta bersambungan. Spesies ini tersebar luas di Eropa dan juga terdapat di Asia dan Amerika Utara, terutama pada musim panas dan musim gugur.",
+      "cap": "Tudung berdiameter 4–15 cm, kadang hingga 20 cm. Mulanya cembung, dengan tepi menggulung ke dalam yang masih terhubung ke tangkai oleh selubung selaput putih, kemudian mendatar dan berbentuk kipas atau cangkang yang lebar, kadang dengan umbo rendah dan lebar. Permukaan kering dan seperti felt, krem keputihan hingga abu-abu pucat atau cokelat keabu-abuan pucat, sering sedikit menguning, dan biasanya pecah ke arah pusat menjadi sisik cokelat keabu-abuan lembut mirip bercak. Serpihan selubung putih sering tergantung dari tepi.",
+      "hymenium": "Lamela putih hingga krem, kemudian kadang menguning, cukup rapat dan sempit, dengan sublamela yang lebih kecil, dan sangat decurrent, merunduk jauh ke bawah tangkai. Di bagian bawah tangkai mereka sering bercabang dan bersambungan, membentuk alur atau jaring. Pada tubuh buah muda mereka ditutupi oleh selubung sebagian.",
+      "stipe": "Tangkai panjangnya 3–10 cm (kadang hanya 2–6 cm) dan tebal 1–3 cm, pendek dan kekar, tidak di pusat hingga lateral, meruncing ke arah pangkal, padat dan liat, keputihan dan seperti felt, serta sering menguning. Ketika muda ia memiliki cincin selaput putih yang tipis dan berumur singkat; sisa-sisanya dapat bertahan sebagai zona cincin yang samar.",
+      "flesh": "Daging tebal, teguh dan liat, putih, dan menguning ketika memar atau seiring usia. Baunya lemah, menyenangkan atau sedikit jamur; rasanya lembut atau sedikit berasa kacang.",
+      "sporePrint": "Jejak spora berwarna putih. Spora halus, elipsoid memanjang hingga silindris, sekitar 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrof dan parasit lemah pada kayu berdaun lebar yang hidup atau mati, terutama ek dan beech, juga poplar, kastanye kuda, dan berdaun lebar lain, serta kadang pada konifer (di Ceko, meskipun namanya, sering ditemukan pada spruce). Tubuh buah muncul sendiri-sendiri atau dalam kelompok kecil dari luka, batang, tunggul, dan gelondongan rebah. Musim utama adalah Juli hingga November; di beberapa wilayah ia juga berbuah hingga musim dingin.",
+      "uses": "Dapat dimakan, terutama ketika masih muda, tetapi daging menjadi liat seiring usia dan umumnya dianggap lebih rendah mutunya daripada jamur tiram yang lebih terkenal seperti Pleurotus ostreatus. Beberapa penulis mencantumkannya sebagai tidak dapat dimakan karena keliatan itu.",
+      "confusion": "Pleurotus ostreatus memiliki tudung licin, sering abu-abu kebiruan hingga cokelat, tanpa selubung atau cincin, dan biasanya tumbuh dalam rumpun lebih besar yang saling tumpang tindih. Pleurotus pulmonarius biasanya lebih pucat dan lebih tipis dagingnya, juga tanpa selubung. Pleurotus cornucopiae memiliki tudung krem yang lebih berbentuk corong dan tanpa cincin, dan lamelanya membentuk jaring yang lebih kasar pada tangkai. Pleurotus calyptratus juga memiliki selubung, tetapi tudungnya lebih licin, dan biasanya tumbuh pada poplar. Pleurocybella porrigens mematikan; ia tipis, hampir tanpa tangkai, dan tumbuh pada konifer.",
+      "notes": "Ciri lapangan yang paling andal adalah tudung keputihan yang seperti felt, sering bersisik, sisa selubung selaput pada tepi dan cincin singkat pada tangkai pendek, kekar, dan tidak di pusat, serta lamela putih yang sangat decurrent dan bercabang pada tangkai. Ini adalah satu-satunya jamur tiram yang dikenal dengan selubung dan cincin.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande pleuroto a carne spessa che cresce da ferite, tronchi e ceppi di alberi a foglia larga vivi o morti, soprattutto quercia e faggio, e talvolta anche su conifere. Il cappello è biancastro-crema o grigio pallido, secco e feltroso, e spesso si fende in squame grigio-brunastre morbide. È l'unico Pleurotus familiare provvisto di un velo parziale membranoso bianco, che lascia frammenti sul margine involuto del cappello e un anello fugace sul gambo corto, tozzo ed eccentrico. Le lamelle bianche decorrono lontano sul gambo e lì spesso si biforcano e si anastomizzano. La specie è diffusa in Europa e si trova anche in Asia e in Nord America, soprattutto in estate e in autunno.",
+      "cap": "Il cappello misura 4–15 cm di diametro, talvolta fino a 20 cm. Dapprima è convesso, con il margine involuto ancora unito al gambo da un velo membranoso bianco; poi si appiattisce e diventa ampiamente flabelliforme o a conchiglia, talvolta con un umbone basso e largo. La superficie è secca e feltrosa, biancastro-crema o grigio pallido o bruno-grigiastro pallido, spesso lievemente ingiallente, e tipicamente si fende verso il centro in squame morbide grigio-brunastre, a placche. Dal margine pendono spesso frammenti bianchi di velo.",
+      "hymenium": "Le lamelle sono bianche o crema, più tardi talvolta ingiallenti, piuttosto fitte e strette, con lamellule minori, e fortemente decorrenti, che scendono lontano sul gambo. In basso sul gambo spesso si biforcano e si anastomizzano, formando solchi o una rete. Nei basidiomi giovani sono nascoste dal velo parziale.",
+      "stipe": "Il gambo misura 3–10 cm di lunghezza (talvolta solo 2–6 cm) e 1–3 cm di spessore, corto e tozzo, eccentrico o laterale, attenuato verso la base, pieno e coriaceo, biancastro e feltroso, spesso ingiallente. Da giovane porta un anello membranoso bianco, sottile ed effimero; possono restare residui come una debole zona anulare.",
+      "flesh": "La carne è spessa, soda e coriacea, bianca, e ingiallisce alla lesione o con l'età. L'odore è debole, gradevole o lievemente fungino; il sapore è mite o lievemente di nocciola.",
+      "sporePrint": "La sporata è bianca. Le spore sono lisce, ellissoidali allungate o cilindriche, di circa 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofa e debolmente parassita su legno vivo o morto di latifoglie, soprattutto quercia e faggio, anche pioppo, ippocastano e altre latifoglie, e talvolta su conifere (in Cechia, nonostante il nome, si trova spesso sull'abete rosso). I basidiomi compaiono isolati o in piccoli gruppi da ferite, tronchi, ceppi e fusti a terra. La stagione principale va da luglio a novembre; in alcune regioni fruttifica anche in inverno.",
+      "uses": "È commestibile, soprattutto da giovane, ma la carne diventa coriacea con l'età ed è generalmente considerata inferiore a pleuroti più noti come il gelone (Pleurotus ostreatus). Alcuni autori lo indicano come non commestibile a causa di questa durezza.",
+      "confusion": "Il gelone (Pleurotus ostreatus) ha un cappello liscio, spesso grigio bluastro o bruno, senza velo né anello, e cresce tipicamente in cespi più grandi e imbricati. Pleurotus pulmonarius è di solito più pallido e a carne più sottile, anch'esso senza velo. Pleurotus cornucopiae ha un cappello crema più infundibuliforme e non presenta anello, e le sue lamelle formano una rete più grossolana sul gambo. Pleurotus calyptratus ha anch'esso un velo, ma un cappello più liscio, e cresce tipicamente sul pioppo. L'orecchietta d'angelo (Pleurocybella porrigens) è mortale; è sottile, quasi senza gambo, e cresce sulle conifere.",
+      "notes": "I caratteri più sicuri sono il cappello biancastro feltroso, spesso squamoso, i resti membranosi di velo sul margine e un anello fugace su un gambo corto, tozzo ed eccentrico, e le lamelle bianche fortemente decorrenti che si biforcano sul gambo. È l'unico Pleurotus familiare con velo e anello.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "生きた、または枯れた広葉樹、とくにナラ類やブナの傷口・幹・切り株から、ときに針葉樹にも生じる、大型で肉の厚いヒラタケ類である。かさは白っぽいクリーム色から淡い灰色、乾いてフェルト状で、しばしば軟らかい灰褐色の鱗片に裂ける。白い膜質のつばを残す部分的な被膜をもつ、よく知られたヒラタケ属では唯一の種で、被膜は内に巻きこんだかさの縁に断片を、短く太く偏心した柄には短命なつばを残す。白いひだは柄を遠くまで下り、そこでしばしば分岐し互いに連絡する。ヨーロッパに広く分布し、アジアと北アメリカにも見られ、おもに夏から秋に発生する。",
+      "cap": "かさの径は4–15 cm、ときに20 cmに達する。初めは半球形で、縁は内に巻き、白い膜質の被膜で柄とつながっている。のちには平らになり、幅広い扇形または貝殻形となり、ときに低く広い中丘がある。表面は乾いてフェルト状、白っぽいクリーム色から淡い灰色または淡い灰褐色で、しばしばわずかに黄変し、典型的には中央に向かって軟らかい灰褐色の斑状の鱗片に裂ける。縁から白い被膜の断片が垂れることが多い。",
+      "hymenium": "ひだは白からクリーム色、のちに黄変することもある。やや密で狭く、小さな小ひだを伴い、強く垂生して柄を遠くまで下る。柄の下部ではしばしば分岐し連絡して溝や網目を作る。若い子実体では部分的な被膜に覆われている。",
+      "stipe": "柄は長さ3–10 cm（ときに2–6 cmのみ）、太さ1–3 cmで、短く太い。偏心から側生、基部に向かって細まり、中実で強靭、白っぽくフェルト状で、しばしば黄変する。若いときは薄く短命な白い膜質のつばをつけ、残存部が弱いつばの跡として残ることがある。",
+      "flesh": "肉は厚く、硬くて強靭、白色で、傷つけると、あるいは老成すると黄変する。匂いは弱く、快い、またはわずかにきのこ臭、味は温和、またはわずかにナッツ様である。",
+      "sporePrint": "胞子紋は白色。胞子は平滑、細長い楕円形から円筒形、およそ9–15 × 3.5–5 µm。",
+      "habitat": "生きた、または枯れた広葉樹材、とくにナラ類とブナ、またポプラ、トチノキその他の広葉樹に腐生し、弱い寄生もする。ときに針葉樹にも生じ（チェコでは名に反してしばしばトウヒ上に見られる）、子実体は傷口・幹・切り株・倒れた丸太から単生または小さな群となって現れる。主季は7月から11月で、地域によっては冬にも発生する。",
+      "uses": "食用になり、とくに若いときはよいが、肉は老成すると強靭になり、ヒラタケ（Pleurotus ostreatus）などよく知られたヒラタケ類より劣ると一般にされる。この強靭さのために食用不適とする著者もある。",
+      "confusion": "ヒラタケ（Pleurotus ostreatus）は平滑で、しばしば青みを帯びた灰色から褐色のかさを持ち、被膜やつばがなく、より大きな重なり合う束生になるのが普通である。Pleurotus pulmonariusはたいていより淡色で肉が薄く、やはり被膜がない。Pleurotus cornucopiaeはより漏斗形のクリーム色のかさでつばがなく、ひだは柄の上でより粗い網目を作る。Pleurotus calyptratusも被膜をもつがかさはより平滑で、通常ポプラ上に生じる。スギヒラタケ（Pleurocybella porrigens）は致死性で、薄くほぼ無柄、針葉樹上に生じる。",
+      "notes": "確実な野外の特徴は、フェルト状でしばしば鱗片のある白っぽいかさ、縁の膜質の被膜片と短く太く偏心した柄の短命なつば、および柄の上で分岐する強く垂生する白いひだである。被膜とつばをもつ、よく知られたヒラタケ類は本種だけである。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/334340",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "ツバヒラタケ"
+    },
+    "ko": {
+      "description": "살아 있거나 죽은 활엽수, 특히 참나무와 너도밤나무의 상처·줄기·그루터기에서, 때로는 침엽수에서도 나는 크고 살이 두꺼운 느타리류이다. 갓은 흰 크림색에서 연한 회색으로, 마르고 펠트질이며 종종 부드러운 회갈색 비늘로 갈라진다. 흰 막질의 부분 피막을 가진 잘 알려진 유일한 Pleurotus로, 피막은 안쪽으로 말린 갓 가장자리에 조각을, 짧고 굵으며 한쪽으로 치우친 대에는 짧은 수명의 테를 남긴다. 흰 주름은 대를 따라 멀리 내려가며 그곳에서 자주 갈라지고 서로 이어진다. 유럽에 널리 분포하고 아시아와 북아메리카에도 나타나며, 주로 여름과 가을에 난다.",
+      "cap": "갓은 지름 4–15 cm이며 때로 20 cm에 이른다. 처음에는 볼록하고, 가장자리는 안쪽으로 말려 흰 막질 피막으로 대와 아직 이어져 있으며, 이후 편평해져 넓게 부채꼴 또는 조개껍데기 모양이 되고 때로 낮고 넓은 중앙 볼록함이 있다. 표면은 마르고 펠트질이며, 흰 크림색에서 연한 회색 또는 연한 회갈색이고 종종 약하게 노랗게 변하며, 전형적으로 가운데를 향해 부드러운 회갈색의 얼룩 같은 비늘로 갈라진다. 가장자리에서 흰 피막 조각이 자주 늘어져 있다.",
+      "hymenium": "주름은 흰색에서 크림색이며 나중에 노랗게 변하기도 하고, 비교적 빽빽하고 좁으며 더 작은 짧은 주름을 동반하고, 강하게 내리뻗어 대를 따라 멀리 내려간다. 대의 아래쪽에서는 자주 갈라지고 이어져 홈이나 그물을 만든다. 어린 자실체에서는 부분 피막에 가려져 있다.",
+      "stipe": "대는 길이 3–10 cm(때로는 2–6 cm뿐)에 두께 1–3 cm로, 짧고 굵으며 중심에서 벗어나 옆쪽으로 붙고, 기부를 향해 가늘어지며, 속이 차고 질기며, 희고 펠트질이고 종종 노랗게 변한다. 어릴 때는 얇고 수명이 짧은 흰 막질 테를 달며, 잔존부가 희미한 테 띠로 남을 수 있다.",
+      "flesh": "살은 두껍고 단단하며 질기고 흰색이며, 상처를 입거나 늙으면 노랗게 변한다. 냄새는 약하고 기분 좋거나 약간 버섯 냄새이며, 맛은 온화하거나 약간 견과향이다.",
+      "sporePrint": "포자무늬는 흰색이다. 포자는 매끈하고 길쭉한 타원형에서 원통형이며, 약 9–15 × 3.5–5 µm이다.",
+      "habitat": "살아 있거나 죽은 활엽수 목재, 특히 참나무와 너도밤나무, 또한 포플러·칠엽수와 다른 활엽수에서 부생하며 약하게 기생하고, 때로는 침엽수에도 난다(체코에서는 이름과 달리 종종 가문비나무에서 발견된다). 자실체는 상처·줄기·그루터기·쓰러진 원목에서 단생하거나 작은 무리로 나타난다. 주요 계절은 7월부터 11월까지이며, 일부 지역에서는 겨울에도 발생한다.",
+      "uses": "식용이며 특히 어릴 때 좋으나, 살은 늙으면 질겨지고 일반적으로 느타리(Pleurotus ostreatus)와 같이 더 잘 알려진 느타리류보다 못하다고 여겨진다. 이 질김 때문에 식용 부적합으로 적는 저자도 있다.",
+      "confusion": "느타리(Pleurotus ostreatus)는 매끈하고 종종 푸른빛이 도는 회색에서 갈색인 갓을 가지며 피막과 테가 없고, 보통 더 크고 겹치는 다발로 난다. Pleurotus pulmonarius는 보통 더 연하고 살이 얇으며 역시 피막이 없다. Pleurotus cornucopiae는 더 깔때기형인 크림색 갓을 갖고 테가 없으며, 주름이 대 위에서 더 거친 그물을 이룬다. Pleurotus calyptratus도 피막이 있으나 갓이 더 매끈하고 보통 포플러에서 난다. 날개버섯(Pleurocybella porrigens)은 치명적이며, 얇고 거의 대가 없으며 침엽수에서 난다.",
+      "notes": "가장 확실한 야외 특징은 펠트질이고 종종 비늘이 있는 흰 갓, 가장자리의 막질 피막 잔편과 짧고 굵으며 한쪽으로 치우친 대 위의 짧은 수명의 테, 그리고 대 위에서 갈라지는 강하게 내리뻗은 흰 주름이다. 피막과 테를 가진 잘 알려진 느타리류는 이 종뿐이다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelė, storu kremzle kreivabudė, auganti iš gyvų ar negyvų lapuočių, ypač ąžuolo ir buko, žaizdų, kamienų ir kelmų, kartais ir ant spygliuočių. Kepurėlė balsvai gelsva iki blankiai pilka, sausa ir veltininė, dažnai suskyla į minkštus pilkai rudus žvynelius. Tai vienintelė įprasta kreivabudė su baltu plėveliniu daliniu velumu, kuris palieka skiautes užsirietusiame kepurėlės krašte ir trumpalaikį žiedą ant trumpo, tvirto, ekscentriško koto. Balti lakšteliai toli nubėga kotu ir ten dažnai šakojasi bei susijungia. Rūšis plačiai paplitusi Europoje ir aptinkama taip pat Azijoje bei Šiaurės Amerikoje, daugiausia vasarą ir rudenį.",
+      "cap": "Kepurėlė 4–15 cm skersmens, kartais iki 20 cm. Pirmiausia ji iškili, užsirietusiu kraštu, dar sujungtu su kotu baltu plėveliniu velumu, vėliau suplokštėja ir tampa plačiai vėduokliška ar kriauklelės pavidalo, kartais su žemu, plačiu gumburėliu. Paviršius sausas ir veltininis, balsvai gelsvas iki blankiai pilkas ar blankiai pilkšvai rudas, dažnai silpnai gelstantis, ir tipingai link centro suskyla į minkštus pilkai rudus, laukelius primenančius žvynelius. Nuo krašto dažnai kabo balti velumo likučiai.",
+      "hymenium": "Lakšteliai balti iki gelsvų, vėliau kartais gelstantys, gana tankūs ir siauri, su mažesniais tarpiniais lakšteliais, ir stipriai nuaugę, toli nubėgantys kotu. Žemai ant koto jie dažnai šakojasi ir susijungia, sudarydami vageles ar tinklą. Jaunuose vaisiaus kūnuose juos dengia dalinis velumas.",
+      "stipe": "Kotas 3–10 cm ilgio (kartais tik 2–6 cm) ir 1–3 cm storio, trumpas ir tvirtas, ekscentriškas iki šoninio, siaurėjantis link pagrindo, kietas ir standus, balsvas ir veltininis, dažnai gelstantis. Jaunas jis turi ploną, trumpalaikį baltą plėvelinį žiedą; likučiai gali išlikti kaip silpna žiedo zona.",
+      "flesh": "Kremzlė stora, kieta ir standi, balta ir pagelsta pažeista ar su amžiumi. Kvapas silpnas, malonus ar silpnai grybiškas; skonis švelnus ar silpnai riešutinis.",
+      "sporePrint": "Sporų atspaudas baltas. Sporos lygios, pailgai elipsoidinės iki cilindrinių, apie 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofinė ir silpnai parazitinė ant gyvos ar negyvos lapuočių medienos, ypač ąžuolo ir buko, taip pat tuopos, kaštono ir kitų lapuočių, kartais ant spygliuočių (Čekijoje, nepaisant vardo, dažnai ant eglės). Vaisiaus kūnai pasirodo pavieniui ar nedidelėmis grupėmis iš žaizdų, kamienų, kelmų ir gulinčių rąstų. Pagrindinis sezonas – nuo liepos iki lapkričio; kai kuriuose regionuose dera ir žiemą.",
+      "uses": "Ji valgoma, ypač jauna, tačiau kremzlė su amžiumi sukietėja ir paprastai laikoma prastesne už geriau žinomas kreivabudes, pavyzdžiui, gluosninę kreivabudę (Pleurotus ostreatus). Kai kurie autoriai dėl kietumo ją nurodo kaip nevalgomą.",
+      "confusion": "Gluosninė kreivabudė (Pleurotus ostreatus) turi lygia, dažnai melsvai pilka iki ruda kepurėlę, be velumo ir žiedo, ir paprastai auga didesniais, persidengiančiais kuokštais. Pleurotus pulmonarius paprastai šviesesnė ir plonesnės kremzlės, taip pat be velumo. Pleurotus cornucopiae turi labiau piltuvišką gelsvą kepurėlę ir neturi žiedo, o jos lakšteliai ant koto sudaro stambesnį tinklą. Pleurotus calyptratus taip pat turi velumą, bet lygesnę kepurėlę ir paprastai auga ant tuopos. Kriauklinė baltė (Pleurocybella porrigens) yra mirtinai nuodinga; ji plona, beveik be koto ir auga ant spygliuočių.",
+      "notes": "Patikimiausi požymiai – veltininė, dažnai žvynuota balsva kepurėlė, plėveliniai velumo likučiai krašte ir trumpalaikis žiedas ant trumpo, tvirto, ekscentriško koto bei stipriai nuaugę balti lakšteliai, kurie ant koto šakojasi. Tai vienintelė įprasta kreivabudė su velumu ir žiedu.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/%C4%84%C5%BEuolin%C4%97_kreivabud%C4%97",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "ąžuolinė kreivabudė"
+    },
+    "lv": {
+      "description": "Liela, biezas mīkstuma sānause, kas aug no dzīvu vai atmirušu lapu koku, īpaši ozola un dižskābarža, brūcēm, stumbriem un celmiem, reizēm arī uz skuju kokiem. Cepurīte ir bāli krēmkrāsas līdz gaiši pelēka, sausa un filcaina un bieži saplaisā mīkstās pelēkbrūnās zvīņās. Tā ir vienīgā pazīstamā sānause ar baltu plēvainu daļēju plīvuru, kas atstāj plīsumus ievirzītajā cepurītes malā un īslaicīgu gredzenu uz īsa, resna, ekscentriska kātiņa. Baltās lapiņas tālu nolaidenas pa kātiņu un tur bieži sazarojas un savienojas. Suga ir plaši izplatīta Eiropā un sastopama arī Āzijā un Ziemeļamerikā, galvenokārt vasarā un rudenī.",
+      "cap": "Cepurīte ir 4–15 cm plata, reizēm līdz 20 cm. Sākumā tā ir izliekta, ar ievirzītu malu, ko ar kātiņu vēl savieno balts plēvains plīvurs, vēlāk saplacināta un plaši vēdekļveida vai gliemežvāka veida, reizēm ar zemu, platu pacēlumu. Virsma ir sausa un filcaina, bāli krēmkrāsas līdz gaiši pelēka vai gaiši pelēkbrūna, bieži vāji dzeltenējoša, un tipiski pret centru saplaisā mīkstās pelēkbrūnās, laukumiņveida zvīņās. No malas bieži karājas balti plīvura paliekas.",
+      "hymenium": "Lapiņas ir baltas līdz krēmkrāsas, vēlāk reizēm dzeltenējošas, diezgan blīvas un šauras, ar mazākām starplapiņām, un stipri nolaidenas, tālu ejošas pa kātiņu. Zemu uz kātiņa tās bieži sazarojas un savienojas, veidojot rievas vai tīklu. Jaunos augļķermeņos tās aizsedz daļējais plīvurs.",
+      "stipe": "Kātiņš ir 3–10 cm garš (reizēm tikai 2–6 cm) un 1–3 cm resns, īss un resns, ekscentrisks līdz sāniskam, sašaurinās pret pamatni, pilns un sīksts, bālgans un filcains, bieži dzeltenējošs. Jaunībā tas nes plānu, īslaicīgu baltu plēvainu gredzenu; paliekas var palikt kā vāja gredzenzona.",
+      "flesh": "Mīkstums ir biezs, stingrs un sīksts, balts un ievainojumā vai ar vecumu kļūst dzeltens. Smarža ir vāja, patīkama vai viegli sēņaina; garša maiga vai viegli riekstaina.",
+      "sporePrint": "Sporu nospiedums ir balts. Sporas ir gludas, iegareni elipsoidālas līdz cilindriskas, apmēram 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofa un vāji parazitiska uz dzīvas vai atmirušas lapu koku koksnes, īpaši ozola un dižskābarža, arī apses, zirgkastaņas un citu lapu koku, reizēm uz skuju kokiem (Čehijā, neskatoties uz nosaukumu, bieži uz egles). Augļķermeņi parādās pa vienam vai nelielās grupās no brūcēm, stumbriem, celmiem un guļošiem stumbriem. Galvenā sezona ir no jūlija līdz novembrim; dažos apgabalos tā augļo arī ziemā.",
+      "uses": "Tā ir ēdama, īpaši jauna, taču mīkstums ar vecumu kļūst sīksts un parasti tiek uzskatīts par sliktāku nekā labāk zināmām sānausēm, piemēram, austeru sānausei (Pleurotus ostreatus). Daži autori tās sīkstuma dēļ to uzskata par neēdamu.",
+      "confusion": "Austeru sānausei (Pleurotus ostreatus) ir gluda, bieži zilganpelēka līdz brūna cepurīte, bez plīvura un gredzena, un tā parasti aug lielākos, pārklājošos pušķos. Pleurotus pulmonarius parasti ir gaišāka un plānāka mīkstuma, arī bez plīvura. Pleurotus cornucopiae ir vairāk piltuvveida krēmkrāsas cepurīte bez gredzena, un tās lapiņas uz kātiņa veido rupjāku tīklu. Pleurotus calyptratus arī ir plīvurs, bet gludāka cepurīte, un tā parasti aug uz apses. Mirdzošā karotene (Pleurocybella porrigens) ir nāvējoši indīga; tā ir plāna, gandrīz bez kātiņa un aug uz skuju kokiem.",
+      "notes": "Drošākās pazīmes ir filcainā, bieži zvīņainā bālganā cepurīte, plēvainie plīvura paliekas malā un īslaicīgs gredzens uz īsa, resna, ekscentriska kātiņa, kā arī stipri nolaidenās baltās lapiņas, kas uz kātiņa sazarojas. Tā ir vienīgā pazīstamā sānause ar plīvuru un gredzenu.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340"
+      ],
+      "label": "ozolu sānause"
+    },
+    "nl": {
+      "description": "Een grote, dikvlezige oesterzwam die groeit uit wonden, stammen en stronken van levende of dode loofbomen, vooral eik en beuk, en soms ook op naaldhout. De hoed is witachtig roomkleurig tot bleekgrijs, droog en viltig en breekt vaak in zachte grijzig-bruine schubben. Het is de enige vertrouwde oesterzwam met een wit vliezig deelvelum, dat flarden aan de ingerolde hoedrand nalaat en een vluchtige ring op de korte, stevige, excentrische steel. De witte lamellen lopen ver langs de steel af en vertakken en verbinden zich daar vaak. De soort is wijdverbreid in Europa en komt ook voor in Azië en Noord-Amerika, vooral in de zomer en de herfst.",
+      "cap": "De hoed is 4–15 cm breed, soms tot 20 cm. Eerst is hij gewelfd, met een ingerolde rand die nog door een wit vliezig velum met de steel verbonden is, later afgeplat en breed waaier- of schelpvormig, soms met een lage, brede bult. Het oppervlak is droog en viltig, witachtig roomkleurig tot bleekgrijs of bleek grijzig-bruin, vaak zwak vergelend, en breekt typisch naar het midden in zachte grijzig-bruine, veldachtige schubben. Aan de rand hangen vaak witte velumresten.",
+      "hymenium": "De lamellen zijn wit tot roomkleurig, later soms vergelend, vrij dicht en smal, met kleinere tussenlamellen, en sterk aflopend, ver langs de steel. Laag op de steel vertakken en verbinden ze zich vaak en vormen groeven of een netwerk. Bij jonge vruchtlichamen worden ze door het deelvelum bedekt.",
+      "stipe": "De steel is 3–10 cm lang (soms slechts 2–6 cm) en 1–3 cm dik, kort en stevig, excentrisch tot zijdelings, naar de basis versmald, vol en taai, witachtig en viltig, vaak vergelend. Jong draagt hij een dunne, kortlevende witte vliezige ring; resten kunnen als een zwakke ringzone blijven.",
+      "flesh": "Het vlees is dik, stevig en taai, wit, en vergelen bij kneuzing of met de leeftijd. De geur is zwak, aangenaam of licht zwammerig; de smaak mild of licht nootachtig.",
+      "sporePrint": "De sporenafdruk is wit. De sporen zijn glad, langwerpig ellipsoïd tot cilindrisch, ongeveer 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotroof en zwak parasitair op levend of dood loofhout, vooral eik en beuk, ook populier, paardenkastanje en andere loofbomen, en soms op naaldhout (in Tsjechië ondanks de naam vaak op spar). Vruchtlichamen verschijnen alleen of in kleine groepjes uit wonden, stammen, stronken en liggende stammen. Het hoofseizoen loopt van juli tot november; in sommige gebieden vormt de soort ook in de winter vruchtlichamen.",
+      "uses": "Hij is eetbaar, vooral jong, maar het vlees wordt met de leeftijd taai en geldt algemeen als minderwaardig aan bekendere oesterzwammen zoals de gewone oesterzwam (Pleurotus ostreatus). Enkele auteurs vermelden hem vanwege de taaiheid als oneetbaar.",
+      "confusion": "De gewone oesterzwam (Pleurotus ostreatus) heeft een gladde, vaak blauwgrijze tot bruine hoed, geen velum of ring, en groeit typisch in grotere, elkaar overlappende bundels. Pleurotus pulmonarius is meestal bleker en dunvleziger, eveneens zonder velum. Pleurotus cornucopiae heeft een meer trechtervormige roomkleurige hoed en geen ring, en zijn lamellen vormen op de steel een grover netwerk. Pleurotus calyptratus heeft ook een velum, maar een gladdere hoed en groeit typisch op populier. Pleurocybella porrigens is dodelijk giftig; hij is dun, bijna steelloos en groeit op naaldhout.",
+      "notes": "De zekerste kenmerken zijn de viltige, vaak schubbige witachtige hoed, de vliezige velumresten aan de rand en een vluchtige ring op een korte, stevige, excentrische steel, en de sterk aflopende witte lamellen die zich op de steel vertakken. Het is de enige vertrouwde oesterzwam met velum en ring.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Schubbige_oesterzwam",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340"
+      ],
+      "label": "schubbige oesterzwam"
+    },
+    "no": {
+      "description": "En stor, tykkjøttet østerssopp som vokser fra sår, stammer og stubber av levende eller døde lauvtrær, særlig eik og bøk, og av og til også på bartre. Hatten er hvitaktig kremfarget til blekgrå, tørr og filtet og sprekker ofte opp i myke gråbrune skjell. Det er den eneste kjente østerssoppen med et hvitt hinneaktig delslør, som etterlater fliker på den innrullede hatteranden og en flyktig ring på den korte, kraftige, eksentriske stilken. De hvite skivene løper langt nedover stilken og gaffeler og forbinder seg ofte der. Arten er utbredt i Europa og forekommer også i Asia og Nord-Amerika, særlig om sommeren og høsten.",
+      "cap": "Hatten er 4–15 cm bred, av og til opptil 20 cm. Først er den hvelvet, med en innrullet rand som fortsatt er forbundet med stilken av et hvitt hinneaktig slør, senere avflatet og bredt vifte- eller skålformet, av og til med en lav, bred pukkel. Overflaten er tørr og filtet, hvitaktig kremfarget til blekgrå eller blekt gråbrun, ofte svakt gulfargende, og sprekker typisk mot midten opp i myke gråbrune, feltaktige skjell. Fra randen henger ofte hvite slørrester.",
+      "hymenium": "Skivene er hvite til kremfargede, senere av og til gulfargende, ganske tette og smale, med mindre mellomskiver, og sterkt nedløpende, som løper langt nedover stilken. Nede på stilken gaffeler og forbinder de seg ofte og danner furer eller et nett. Hos unge fruktlegemer dekkes de av delsløret.",
+      "stipe": "Stilken er 3–10 cm lang (av og til bare 2–6 cm) og 1–3 cm tykk, kort og kraftig, eksentrisk til sidestilt, avsmalnende mot basis, fast og seig, hvitaktig og filtet, ofte gulfargende. Ung bærer den en tynn, kortlivet hvit hinneaktig ring; rester kan bli igjen som en svak ringsone.",
+      "flesh": "Kjøttet er tykt, fast og seigt, hvitt og gulfarges ved skade eller med alderen. Lukten er svak, behagelig eller lett soppaktig; smaken mild eller lett nøtteaktig.",
+      "sporePrint": "Sporeavtrykket er hvitt. Sporene er glatte, avlangt ellipsoide til sylindriske, omkring 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrof og svakt parasitisk på levende eller dødt lauvved, særlig eik og bøk, også poppel, hestekastanje og andre lauvtrær, og av og til på bartre (i Tsjekkia ofte på gran til tross for navnet). Fruktlegemene kommer enkeltvis eller i små grupper fra sår, stammer, stubber og liggende stammer. Hovedsesongen er fra juli til november; i noen områder frukter den også om vinteren.",
+      "uses": "Den er spiselig, særlig når den er ung, men kjøttet blir seigt med alderen og regnes vanligvis som dårligere enn mer kjente østerssopper som blågrå østerssopp (Pleurotus ostreatus). Noen forfattere oppgir den som uspiselig på grunn av seigheten.",
+      "confusion": "Blågrå østerssopp (Pleurotus ostreatus) har en glatt, ofte blågrå til brun hatt, uten slør eller ring, og vokser typisk i større, overlappende klynger. Pleurotus pulmonarius er vanligvis blekere og tynnere i kjøttet, også uten slør. Pleurotus cornucopiae har en mer traktformet kremfarget hatt og ingen ring, og skivene danner et grovere nett nedover stilken. Pleurotus calyptratus har også et slør, men en jevnere hatt og vokser typisk på poppel. Krittøsterssopp (Pleurocybella porrigens) er dødelig giftig; den er tynn, nesten uten stilk og vokser på bartre.",
+      "notes": "De sikreste kjennetegnene er den filtede, ofte skjellete hvitaktige hatten, de hinneaktige slørrestene på randen og en flyktig ring på en kort, kraftig, eksentrisk stilk samt de sterkt nedløpende hvite skivene som gaffeler på stilken. Det er den eneste kjente østerssoppen med slør og ring.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340"
+      ],
+      "label": "seig østerssopp"
+    },
+    "pl": {
+      "description": "Duży, grubomięsisty boczniak, który wyrasta z ran, pni i pieńków żywych lub martwych drzew liściastych, zwłaszcza dębu i buka, a niekiedy także na iglastych. Kapelusz jest białawokremowy do bladoszarego, suchy i filcowaty, i często pęka na miękkie szarobrązowe łuski. Jest to jedyny pospolity boczniak z białą błoniastą osłoną częściową, która pozostawia strzępki na podwiniętym brzegu kapelusza i zanikający pierścień na krótkim, krępym, ekscentrycznym trzonie. Białe blaszki zbiegają daleko po trzonie i często się tam rozwidlają i łączą. Gatunek jest szeroko rozpowszechniony w Europie i występuje także w Azji i Ameryce Północnej, głównie latem i jesienią.",
+      "cap": "Kapelusz ma 4–15 cm średnicy, okazjonalnie do 20 cm. Najpierw jest wypukły, z podwiniętym brzegiem jeszcze połączonym z trzonem białą błoniastą osłoną, potem spłaszczony i szeroko wachlarzowaty lub muszlowaty, niekiedy z niskim, szerokim garbkiem. Powierzchnia jest sucha i filcowata, białawokremowa do bladoszarej lub bladoszarobrązowej, często słabo żółknąca, i typowo pęka ku środkowi na miękkie szarobrązowe, poletkowate łuski. Z brzegu często zwisają białe resztki osłony.",
+      "hymenium": "Blaszki są białe do kremowych, później niekiedy żółknące, dość gęste i wąskie, z mniejszymi międzyblaszkami, i silnie zbiegające, biegnące daleko po trzonie. Nisko na trzonie często się rozwidlają i łączą, tworząc rowki lub siateczkę. U młodych owocników zasłania je osłona częściowa.",
+      "stipe": "Trzon ma 3–10 cm długości (niekiedy tylko 2–6 cm) i 1–3 cm grubości, krótki i krępy, ekscentryczny do bocznego, zwężający się ku podstawie, pełny i twardy, białawy i filcowaty, często żółknący. W młodości ma cienki, krótkotrwały biały błoniasty pierścień; resztki mogą pozostać jako słaba strefa pierścieniowa.",
+      "flesh": "Miąższ jest gruby, zbity i twardy, biały, i żółknie przy uszkodzeniu lub z wiekiem. Zapach jest słaby, przyjemny lub lekko grzybowy; smak łagodny lub lekko orzechowy.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są gładkie, wydłużenie elipsoidalne do walcowatych, około 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotroficzny i słabo pasożytniczy na żywym lub martwym drewnie liściastym, zwłaszcza dębu i buka, także topoli, kasztanowca i innych liściastych, a niekiedy na iglastych (w Czechach mimo nazwy często na świerku). Owocniki pojawiają się pojedynczo lub w małych grupach z ran, pni, pieńków i leżących kłód. Główny sezon trwa od lipca do listopada; w niektórych regionach owocniki pojawiają się też zimą.",
+      "uses": "Jest jadalny, zwłaszcza w młodości, ale miąższ z wiekiem twardnieje i zwykle uważa się go za gorszy od lepiej znanych boczniaków, takich jak boczniak ostrygowaty (Pleurotus ostreatus). Niektórzy autorzy z powodu twardości podają go jako niejadalny.",
+      "confusion": "Boczniak ostrygowaty (Pleurotus ostreatus) ma gładki, często niebieskawoszary do brązowego kapelusz, bez osłony i pierścienia, i typowo rośnie w większych, zachodzących na siebie kępach. Pleurotus pulmonarius jest zwykle bledszy i cieńszy w miąższu, również bez osłony. Pleurotus cornucopiae ma bardziej lejkowaty kremowy kapelusz i nie ma pierścienia, a jego blaszki tworzą grubszą siateczkę na trzonie. Pleurotus calyptratus też ma osłonę, ale gładszy kapelusz i typowo rośnie na topoli. Bokówka biała (Pleurocybella porrigens) jest śmiertelnie trująca; jest cienka, niemal bez trzonu i rośnie na iglastych.",
+      "notes": "Najpewniejszymi cechami są filcowaty, często łuskowaty białawy kapelusz, błoniaste resztki osłony na brzegu i zanikający pierścień na krótkim, krępym, ekscentrycznym trzonie oraz silnie zbiegające białe blaszki, które rozwidlają się na trzonie. Jest to jedyny pospolity boczniak z osłoną i pierścieniem.",
+      "names": [
+        "boczniak dębowy"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Boczniak_bia%C5%BC%C3%B3%C5%82ty",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "boczniak białożółty"
+    },
+    "pt": {
+      "description": "Um grande pleuroto de carne espessa que cresce a partir de feridas, troncos e cepos de árvores de folha larga vivas ou mortas, sobretudo carvalho e faia, e por vezes também em coníferas. O chapéu é branco-creme a cinzento-pálido, seco e feltrado, e rompe-se muitas vezes em escamas acinzentado-acastanhadas moles. É o único Pleurotus familiar com um véu parcial membranoso branco, que deixa fragmentos na margem enrolada do chapéu e um anel fugaz no pé curto, robusto e excêntrico. As lâminas brancas descem longe pelo pé e aí se bifurcam e anastomosam com frequência. A espécie é ampla na Europa e ocorre também na Ásia e na América do Norte, sobretudo no verão e no outono.",
+      "cap": "O chapéu mede 4–15 cm de diâmetro, por vezes até 20 cm. A princípio é convexo, com a margem enrolada ainda unida ao pé por um véu membranoso branco; depois achata-se e torna-se largamente em leque ou em concha, por vezes com um umbo baixo e largo. A superfície é seca e feltrada, branco-creme a cinzento-pálido ou pardo-acinzentado pálido, muitas vezes ligeiramente amarelante, e rompe-se tipicamente para o centro em escamas moles acinzentado-acastanhadas, em placas. Da margem pendem frequentemente fragmentos brancos de véu.",
+      "hymenium": "As lâminas são brancas a creme, mais tarde por vezes amarelantes, bastante cerradas e estreitas, com lamélulas menores, e fortemente decurrentes, descendo longe pelo pé. Na parte baixa do pé bifurcam-se e anastomosam-se muitas vezes, formando sulcos ou uma rede. Nos basidiomas jovens estão cobertas pelo véu parcial.",
+      "stipe": "O pé mede 3–10 cm de comprimento (por vezes apenas 2–6 cm) e 1–3 cm de espessura, curto e robusto, excêntrico a lateral, atenuado para a base, maciço e coriáceo, esbranquiçado e feltrado, muitas vezes amarelante. Quando jovem leva um anel membranoso branco, fino e efémero; podem permanecer restos como uma zona anular ténue.",
+      "flesh": "A carne é espessa, firme e coriácea, branca, e amarela ao ferimento ou com a idade. O cheiro é fraco, agradável ou ligeiramente fúngico; o sabor é suave ou ligeiramente a avelã.",
+      "sporePrint": "A esporada é branca. Os esporos são lisos, elipsoides alongados a cilíndricos, com cerca de 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrófica e fracamente parasita em madeira viva ou morta de folhosas, especialmente carvalho e faia, também choupo, castanheiro-da-Índia e outras folhosas, e por vezes em coníferas (na Chéquia, apesar do nome, encontra-se muitas vezes em abeto). Os basidiomas aparecem isolados ou em pequenos grupos a partir de feridas, troncos, cepos e toros caídos. A época principal vai de julho a novembro; em algumas regiões também frutifica no inverno.",
+      "uses": "É comestível, sobretudo quando jovem, mas a carne torna-se coriácea com a idade e é geralmente considerada inferior a pleurotos mais conhecidos como o cogumelo-ostra (Pleurotus ostreatus). Alguns autores consideram-no não comestível devido a essa dureza.",
+      "confusion": "O cogumelo-ostra (Pleurotus ostreatus) tem um chapéu liso, muitas vezes cinzento-azulado a pardo, sem véu nem anel, e cresce tipicamente em tufos maiores e imbricados. Pleurotus pulmonarius é geralmente mais pálido e de carne mais fina, também sem véu. Pleurotus cornucopiae tem um chapéu creme mais infundibuliforme e não apresenta anel, e as suas lâminas formam uma rede mais grosseira no pé. Pleurotus calyptratus também tem véu, mas um chapéu mais liso, e cresce tipicamente em choupo. Pleurocybella porrigens é mortal; é fina, quase sem pé, e cresce em coníferas.",
+      "notes": "Os caracteres mais seguros são o chapéu esbranquiçado feltrado, muitas vezes escamoso, os restos membranosos de véu na margem e um anel fugaz num pé curto, robusto e excêntrico, e as lâminas brancas fortemente decurrentes que se bifurcam no pé. É o único Pleurotus familiar com véu e anel.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un păstrăv mare, cu carne groasă, care crește din răni, trunchiuri și cioate de arbori foioși vii sau morți, mai ales stejar și fag, și uneori și pe conifere. Pălăria este alb-crem până la gri pal, uscată și pâsloasă, și se crapă adesea în solzi gri-căprui moi. Este singurul Pleurotus familiar cu un văl parțial membranos alb, care lasă fragmente pe marginea răsfrântă a pălăriei și un inel fugace pe piciorul scurt, îndesat și excentric. Lamelele albe coboară departe pe picior și acolo se furcă și se anastomozează adesea. Specia este răspândită în Europa și apare și în Asia și în America de Nord, mai ales vara și toamna.",
+      "cap": "Pălăria măsoară 4–15 cm în diametru, uneori până la 20 cm. La început este convexă, cu marginea răsfrântă încă unită de picior printr-un văl membranos alb; apoi se aplatizează și devine larg flabeliformă sau în formă de scoică, uneori cu un umbo jos și lat. Suprafața este uscată și pâsloasă, alb-crem până la gri pal sau brun-cenușiu pal, adesea ușor îngălbenitoare, și se crapă de obicei spre centru în solzi moi gri-căprui, în plăci. De pe margine atârnă adesea fragmente albe de văl.",
+      "hymenium": "Lamelele sunt albe până la crem, mai târziu uneori îngălbenitoare, destul de dese și înguste, cu lamelule mai mici, și puternic decurente, coborând departe pe picior. Jos pe picior se furcă și se anastomozează adesea, formând șanțuri sau o rețea. La basidiomele tinere sunt acoperite de vălul parțial.",
+      "stipe": "Piciorul măsoară 3–10 cm lungime (uneori numai 2–6 cm) și 1–3 cm grosime, scurt și îndesat, excentric până la lateral, îngustat spre bază, plin și coriac, albicios și pâslos, adesea îngălbenitor. Când este tânăr poartă un inel membranos alb, subțire și efemer; pot rămâne resturi ca o zonă inelară slabă.",
+      "flesh": "Carnea este groasă, fermă și coriacă, albă, și se îngălbenește la rănire sau odată cu vârsta. Mirosul este slab, plăcut sau ușor fungic; gustul este blând sau ușor de alună.",
+      "sporePrint": "Sporada este albă. Sporii sunt netezi, elipsoidali alungiți până la cilindrici, de circa 9–15 × 3,5–5 µm.",
+      "habitat": "Saprofită și slab parazită pe lemn viu sau mort de foioase, mai ales stejar și fag, de asemenea plop, castan porcesc și alte foioase, și uneori pe conifere (în Cehia, în ciuda numelui, se găsește adesea pe molid). Basidiomele apar izolate sau în grupuri mici din răni, trunchiuri, cioate și bușteni căzuți. Sezonul principal este din iulie până în noiembrie; în unele regiuni fructifică și iarna.",
+      "uses": "Este comestibil, mai ales când este tânăr, dar carnea devine coriacă odată cu vârsta și este în general considerată inferioară unor păstrăvi mai cunoscuți, cum este păstrăvul de fag (Pleurotus ostreatus). Unii autori îl dau ca necomestibil din pricina acestei durități.",
+      "confusion": "Păstrăvul de fag (Pleurotus ostreatus) are o pălărie netedă, adesea gri-albăstruie până la brună, fără văl și fără inel, și crește de obicei în mănunchiuri mai mari, imbricate. Pleurotus pulmonarius este de obicei mai palid și cu carne mai subțire, de asemenea fără văl. Pleurotus cornucopiae are o pălărie crem mai infundibuliformă și nu prezintă inel, iar lamelele formează pe picior o rețea mai groasă. Pleurotus calyptratus are și el văl, dar o pălărie mai netedă, și crește de obicei pe plop. Aripi de înger (Pleurocybella porrigens) sunt mortale; ciuperca este subțire, aproape fără picior, și crește pe conifere.",
+      "notes": "Cele mai sigure caractere sunt pălăria albicioasă pâsloasă, adesea solzoasă, resturile membranoase de văl pe margine și un inel fugace pe un picior scurt, îndesat și excentric, precum și lamelele albe puternic decurente care se furcă pe picior. Este singurul Pleurotus familiar cu văl și inel.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крупная, толстомясистая вёшенка, которая растёт из ран, стволов и пней живых или мёртвых широколиственных деревьев, прежде всего дуба и бука, а иногда и на хвойных. Шляпка беловато-кремовая до бледно-серой, сухая и войлочная, часто растрескивается на мягкие серо-коричневые чешуйки. Это единственная обычная вёшенка с белым перепончатым частным покрывалом, которое оставляет обрывки на подвёрнутом крае шляпки и быстро исчезающее кольцо на короткой, толстой, эксцентрической ножке. Белые пластинки далеко нисходят по ножке и часто там вильчато разделяются и соединяются. Вид широко распространён в Европе, встречается также в Азии и Северной Америке, в основном летом и осенью.",
+      "cap": "Шляпка 4–15 см в диаметре, иногда до 20 см. Сначала она выпуклая, с подвёрнутым краем, ещё соединённым с ножкой белым перепончатым покрывалом, затем уплощается и становится широко вееровидной или раковиновидной, иногда с низким широким бугорком. Поверхность сухая, войлочная, беловато-кремовая до бледно-серой или бледно-серо-коричневой, часто слегка желтеющая, и обычно к центру растрескивается на мягкие серо-коричневые, пятнистые чешуйки. С края часто свисают белые обрывки покрывала.",
+      "hymenium": "Пластинки белые до кремовых, позднее иногда желтеющие, довольно частые и узкие, с более мелкими пластиночками, и сильно нисходящие, далеко сбегающие по ножке. В нижней части ножки они часто вильчато разделяются и соединяются, образуя бороздки или сеть. У молодых плодовых тел их скрывает частное покрывало.",
+      "stipe": "Ножка 3–10 см длиной (иногда только 2–6 см) и 1–3 см толщиной, короткая и толстая, эксцентрическая до боковой, суживающаяся к основанию, выполненная и жёсткая, беловатая и войлочная, часто желтеющая. В молодости она несёт тонкое, недолговечное белое перепончатое кольцо; остатки могут сохраняться как слабая кольцевая зона.",
+      "flesh": "Мякоть толстая, плотная и жёсткая, белая и желтеет при повреждении или с возрастом. Запах слабый, приятный или слегка грибной; вкус мягкий или слегка ореховый.",
+      "sporePrint": "Споровый порошок белый. Споры гладкие, удлинённо-эллипсоидные до цилиндрических, около 9–15 × 3,5–5 µm.",
+      "habitat": "Сапротроф и слабый паразит на живой или мёртвой древесине широколиственных пород, особенно дуба и бука, также тополя, конского каштана и других лиственных, а иногда на хвойных (в Чехии, несмотря на название, часто на ели). Плодовые тела появляются поодиночке или небольшими группами из ран, стволов, пней и лежащих брёвен. Основной сезон — с июля по ноябрь; в некоторых регионах плодоносит и зимой.",
+      "uses": "Съедобен, особенно в молодом возрасте, но мякоть с возрастом становится жёсткой и обычно считается хуже, чем у более известных вёшенок, например вёшенки обыкновенной (Pleurotus ostreatus). Некоторые авторы из-за жёсткости относят его к несъедобным.",
+      "confusion": "Вёшенка обыкновенная (Pleurotus ostreatus) имеет гладкую, часто сизовато-серую до коричневой шляпку, без покрывала и кольца, и обычно растёт более крупными черепитчатыми пучками. Pleurotus pulmonarius обычно бледнее и тонкомясистее, тоже без покрывала. Pleurotus cornucopiae имеет более воронковидную кремовую шляпку и не образует кольца, а пластинки на ножке складываются в более грубую сеть. Pleurotus calyptratus тоже имеет покрывало, но более гладкую шляпку и обычно растёт на тополе. Плевроцибелла вытянутая (Pleurocybella porrigens) смертельно ядовита; она тонкая, почти без ножки и растёт на хвойных.",
+      "notes": "Самые надёжные признаки — войлочная, часто чешуйчатая беловатая шляпка, перепончатые остатки покрывала по краю и быстро исчезающее кольцо на короткой, толстой, эксцентрической ножке, а также сильно нисходящие белые пластинки, вильчато разделяющиеся на ножке. Это единственная обычная вёшенка с покрывалом и кольцом.",
+      "names": [
+        "вешенка дубовая"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%92%D1%91%D1%88%D0%B5%D0%BD%D0%BA%D0%B0_%D0%B4%D1%83%D0%B1%D0%BE%D0%B2%D0%B0%D1%8F",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "вёшенка дубовая"
+    },
+    "sk": {
+      "description": "Veľká, hrubo mäsitá hliva, ktorá vyrastá z rán, kmeňov a pňov živých alebo odumretých listnatých stromov, najmä duba a buka, a niekedy aj na ihličnanoch. Klobúk je belavo krémový až bledo sivý, suchý a plstnatý a často sa rozpadá na mäkké sivohnedé šupiny. Je to jediná bežná hliva s bielym blanovitým čiastočným závojom, ktorý zanecháva útržky na podvinutom okraji klobúka a prchavý prsteň na krátkom, hrubom, výstrednom hlúbiku. Biele lupene zbiehajú ďaleko po hlúbiku a často sa tam vidlicovito delia a spájajú. Druh je rozšírený v Európe a vyskytuje sa aj v Ázii a Severnej Amerike, predovšetkým v lete a na jeseň.",
+      "cap": "Klobúk má 4–15 cm v priemere, príležitostne až 20 cm. Najprv je vypuklý, s podvinutým okrajom ešte spojeným s hlúbikom bielym blanovitým závojom, neskôr sploštený a široko vejárovito alebo lastúrovito tvarovaný, niekedy s nízkym, širokým hrboľom. Povrch je suchý a plstnatý, belavo krémový až bledo sivý alebo bledo sivohnedý, často slabo žltnúci, a typicky sa smerom k stredu rozpadá na mäkké sivohnedé políčkovité šupiny. Z okraja často visia biele útržky závoja.",
+      "hymenium": "Lupene sú biele až krémové, neskôr niekedy žltnúce, pomerne husté a úzke, s menšími medzilupenmi, a silno zbiehavé, prebiehajúce ďaleko po hlúbiku. Nízko na hlúbiku sa často vidlicovito delia a prepoja a tvoria ryhy alebo sieť. U mladých plodníc ich zakrýva čiastočný závoj.",
+      "stipe": "Hlúbik je dlhý 3–10 cm (niekedy len 2–6 cm) a 1–3 cm hrubý, krátky a pevný, výstredný až bočný, k báze zúžený, plný a tuhý, belavý a plstnatý, často žltnúci. V mladosti nesie tenký, krátkotrvajúci biely blanovitý prsteň; zvyšky môžu ostať ako nevýrazná prstencová zóna.",
+      "flesh": "Dužina je hrubá, pevná a tuhá, biela a pri poranení alebo vekom žltne. Vôňa je slabá, príjemná alebo slabo hubová; chuť mierna alebo slabo oriešková.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú hladké, predĺžene elipsoidné až valcovité, asi 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofná a slabo parazitická na živom alebo odumretom dreve listnáčov, najmä duba a buka, tiež topoľa, pagaštana a iných listnáčov, a niekedy na ihličnanoch (v Česku sa napriek menu často vyskytuje na smreku). Plodnice vyrastajú jednotlivo alebo v malých skupinách z rán, kmeňov, pňov a ležiacich kmeňov. Hlavná sezóna je od júla do novembra; v niektorých oblastiach plodí aj v zime.",
+      "uses": "Je jedlá, najmä v mladosti, ale dužina s vekom tuhne a zvyčajne sa považuje za horšiu než známejšie hlivy, napríklad hliva ustricová (Pleurotus ostreatus). Niekoľko autorov ju pre tuhosť uvádza ako nejedlú.",
+      "confusion": "Hliva ustricová (Pleurotus ostreatus) má hladký, často namodralo sivý až hnedý klobúk, bez závoja a prsteňa, a typicky rastie vo väčších prekrývajúcich sa trsoch. Pleurotus pulmonarius je zvyčajne bledší a tenšie mäsitý, tiež bez závoja. Pleurotus cornucopiae má skôr lievikovitý krémový klobúk a žiadny prsteň a jeho lupene tvoria hrubšiu sieť po hlúbiku. Pleurotus calyptratus má tiež závoj, ale hladší klobúk a typicky rastie na topole. Hlivuľa uškatá (Pleurocybella porrigens) je smrteľne jedovatá; je tenká, takmer bez hlúbika a rastie na ihličnanoch.",
+      "notes": "Najistejšími znakmi sú plstnatý, často šupinatý belavý klobúk, blanovité zvyšky závoja na okraji a prchavý prsteň na krátkom, hrubom, výstrednom hlúbiku a silno zbiehavé biele lupene, ktoré sa na hlúbiku vidlicovito delia. Je to jediná bežná hliva so závojom a prsteňom.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/334340",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames"
+      ],
+      "label": "hliva dubová"
+    },
+    "sl": {
+      "description": "Velika, debelo mesnata ostrigarjeva goba, ki raste iz ran, debel in panjev živih ali odmrlih listavcev, zlasti hrasta in bukve, včasih tudi na iglavcih. Klobuk je belkasto kremast do bledo siv, suh in plsten ter se pogosto razpoka v mehke sivorjave luske. To je edini znani ostrigar z belo kožasto delno ovojnico, ki pusti ostanke na zavihanem robu klobuka in minljiv prstan na kratkem, čokatem, izsrednem betu. Bele lističe daleč zbíhajo po betu in se tam pogosto vilasto razvejijo in povežejo. Vrsta je razširjena v Evropi in se pojavlja tudi v Aziji in Severni Ameriki, predvsem poleti in jeseni.",
+      "cap": "Klobuk meri 4–15 cm v premeru, občasno do 20 cm. Najprej je izbočen, z zavihanem robu, ki ga z betom še povezuje bela kožasta ovojnica, nato sploščen in široko pahljačast ali školjkast, včasih z nizko, široko grbo. Površina je suha in plstena, belkasto kremasta do bledo siva ali bledo sivorjava, pogosto rahlo rumenéča, in se proti sredini običajno razpoka v mehke sivorjave, poljasto razporejene luske. Z roba pogosto visijo beli ostanki ovojnice.",
+      "hymenium": "Lističi so beli do kremasti, pozneje včasih rumenéči, precej gosti in ozki, z manjšimi vmesnimi lističi, in močno zbíhajoči, ki potekajo daleč po betu. Nizko na betu se pogosto vilasto razvejijo in povežejo ter tvorijo brazde ali mrežo. Pri mladih trosnjakih jih prekriva delna ovojnica.",
+      "stipe": "Bet je dolg 3–10 cm (včasih le 2–6 cm) in 1–3 cm debel, kratek in čokat, izsreden do stranski, proti dnu zožen, poln in čvrst, belkast in plsten, pogosto rumenéč. V mladosti nosi tanek, kratkotrajen bel kožast prstan; ostanki lahko ostanejo kot šibka prstanasta cona.",
+      "flesh": "Meso je debelo, čvrsto in žilavo, belo in se ob poškodbi ali s starostjo porumeni. Vonj je šibek, prijeten ali rahlo gobast; okus blag ali rahlo oreškov.",
+      "sporePrint": "Trosni prah je bel. Trosi so gladki, podolgovato elipsoidni do valjasti, približno 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrofna in šibko parazitska na živem ali odmrlem lesu listavcev, zlasti hrasta in bukve, tudi topola, divjega kostanja in drugih listavcev, včasih na iglavcih (na Češkem se kljub imenu pogosto pojavlja na smreki). Trosnjaki rastejo posamič ali v majhnih skupinah iz ran, debel, panjev in ležečih debel. Glavna sezona je od julija do novembra; v nekaterih območjih trosnjaki rastejo tudi pozimi.",
+      "uses": "Je užitna, zlasti v mladosti, vendar meso s starostjo otrdi in velja na splošno za slabše od bolj znanih ostrigarjev, kot je bukov ostrigar (Pleurotus ostreatus). Nekateri avtorji jo zaradi žilavosti navajajo kot neužitno.",
+      "confusion": "Bukov ostrigar (Pleurotus ostreatus) ima gladek, pogosto modrikastosiv do rjav klobuk, brez ovojnice in prstana, in običajno raste v večjih, prekrivajočih se šopih. Pleurotus pulmonarius je običajno bledši in tanjše mesnat, prav tako brez ovojnice. Pleurotus cornucopiae ima bolj lijakast kremast klobuk in nima prstana, njegovi lističi pa na betu tvorijo grobejšo mrežo. Pleurotus calyptratus ima tudi ovojnico, vendar bolj gladek klobuk in običajno raste na topolu. Zleknjena školjkarica (Pleurocybella porrigens) je smrtno strupena; je tanka, skoraj brez beta in raste na iglavcih.",
+      "notes": "Najzanesljivejše znake predstavljajo plsten, pogosto luskast belkast klobuk, kožasti ostanki ovojnice na robu in minljiv prstan na kratkem, čokatem, izsrednem betu ter močno zbíhajoči beli lističi, ki se na betu vilasto razvejijo. To je edini znani ostrigar z ovojnico in prstanom.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Hrastov_ostrigar",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "hrastov ostrigar"
+    },
+    "sr": {
+      "description": "Велика, дебело месната гљива из рода Pleurotus која расте из рана, стабала и пањева живих или одумрлих лишћара, посебно храста и букве, а понекад и на четинарима. Шешир је беличасто крем до бледо сив, сув и филцаст и често се распада на меке сивосмеђе љуспе. То је једина позната врста рода Pleurotus с белим опнастим делимичним велумом, који оставља остатке на подвијеном рубу шешира и краткотрајан прстен на краткој, здепастој, ексцентричној дршци. Бели листићи далеко силазе низ дршку и тамо се често виљасто деле и спајају. Врста је распрострањена у Европи и јавља се и у Азији и Северној Америци, углавном лети и у јесен.",
+      "cap": "Шешир има 4–15 cm у пречнику, повремено до 20 cm. Најпре је испупчен, с подвијеним рубом још спојеним са дршком белим опнастим велумом, затим спљоштен и широко лепезаст или шкољкаст, понекад с ниском, широком грбом. Површина је сува и филцаста, беличасто крем до бледо сива или бледо сивосмеђа, често слабо жутећа, и типично се према средини распада на меке сивосмеђе, пољасте љуспе. С руба често висе бели остаци велума.",
+      "hymenium": "Листићи су бели до крем, касније понекад жутећи, прилично густи и уски, с мањим међулистићима, и јако силазни, те сежу далеко низ дршку. Ниско на дршци често се виљасто деле и повезују, стварајући бразде или мрежу. Код младих плодишта прекрива их делимични велум.",
+      "stipe": "Дршка је дугачка 3–10 cm (понекад само 2–6 cm) и 1–3 cm дебела, кратка и здепаста, ексцентрична до бочна, сужава се према дну, пуна и чврста, беличаста и филцаста, често жутећа. У младости носи танак, краткотрајан бели опнасти прстен; остаци могу остати као слаба прстенаста зона.",
+      "flesh": "Месо је дебело, чврсто и жилаво, бело и при повреди или са старошћу жути. Мирис је слаб, пријатан или слабо гљивичаст; укус благ или слабо орашаст.",
+      "sporePrint": "Отисак спора је бео. Споре су глатке, издужено елипсоидне до ваљкасте, око 9–15 × 3,5–5 µm.",
+      "habitat": "Сапротрофна и слабо паразитска на живом или одумрлом дрвету лишћара, посебно храста и букве, такође тополе, дивљег кестена и других лишћара, а понекад на четинарима (у Чешкој се упркос имену често јавља на смрчи). Плодишта се јављају појединачно или у малим групама из рана, стабала, пањева и полеглих стабала. Главна сезона је од јула до новембра; у неким подручјима плодоноси и зими.",
+      "uses": "Јстива је, посебно у младости, али месо са старошћу постаје жилаво и углавном се сматра лошијом од познатијих врста рода Pleurotus, као што је Pleurotus ostreatus. Неки је аутори због жилавости наводе као нејестиву.",
+      "confusion": "Pleurotus ostreatus има гладак, често плавичатосив до смеђ шешир, без велума и прстена, и типично расте у већим, преклапајућим групама. Pleurotus pulmonarius обично је бледији и тањег меса, такође без велума. Pleurotus cornucopiae има више левкаст крем шешир и нема прстен, а његови листићи на дршци стварају грубљу мрежу. Pleurotus calyptratus такође има велум, али глађи шешир и типично расте на топољи. Смртно отровна Pleurocybella porrigens танка је, готово без дршке и расте на четинарима.",
+      "notes": "Најпоузданија обележја су филцаст, често љускав беличаст шешир, опнасти остаци велума на рубу и краткотрајни прстен на краткој, здепастој, ексцентричној дршци те јако силазни бели листићи који се на дршци виљасто деле. То је једина позната врста рода Pleurotus с велумом и прстеном.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En stor, tjockköttig mussling som växer ur sår, stammar och stubbar av levande eller döda lövträd, särskilt ek och bok, och ibland även på barrträd. Hatten är vitaktigt krämfärgad till blekgrå, torr och filthårig och spricker ofta upp i mjuka gråbruna fjäll. Det är den enda välkända musslingen med en vit hinntartad delslöja, som lämnar flikar på den invällda hattrand och en flyktig ring på den korta, kraftiga, excentriska foten. De vita skivorna löper långt ner på foten och gafflar och förenar sig ofta där. Arten är vida spridd i Europa och förekommer också i Asien och Nordamerika, främst på sommaren och hösten.",
+      "cap": "Hatten är 4–15 cm bred, ibland upp till 20 cm. Först är den välvd, med en invälld kant som fortfarande är förbunden med foten av en vit hinntartad slöja, senare tillplattad och brett solfjäder- eller skålformad, ibland med en låg, bred puckel. Ytan är torr och filthårig, vitaktigt krämfärgad till blekgrå eller blekt gråbrun, ofta svagt gulfärgande, och spricker typiskt mot mitten upp i mjuka gråbruna, fältlika fjäll. Från kanten hänger ofta vita slöjrester.",
+      "hymenium": "Skivorna är vita till krämfärgade, senare ibland gulfärgande, ganska täta och smala, med mindre mellanskivor, och starkt nedlöpande, som löper långt ner på foten. Långt ner på foten gafflar och förenar de sig ofta och bildar fåror eller ett nät. Hos unga fruktkroppar täcks de av delslöjan.",
+      "stipe": "Foten är 3–10 cm lång (ibland bara 2–6 cm) och 1–3 cm tjock, kort och kraftig, excentrisk till sidoställd, avsmalnande mot basen, solid och seg, vitaktig och filthårig, ofta gulfärgande. Ung bär den en tunn, kortlivad vit hinntartad ring; rester kan bli kvar som en svag ringzon.",
+      "flesh": "Köttet är tjockt, fast och segt, vitt och gulfärgas vid skada eller med åldern. Lukten är svag, behaglig eller lätt svampaktig; smaken mild eller lätt nötig.",
+      "sporePrint": "Sporavtrycket är vitt. Sporerna är släta, långsträckt ellipsoida till cylindriska, omkring 9–15 × 3,5–5 µm.",
+      "habitat": "Saprotrof och svagt parasitisk på levande eller dött lövved, särskilt ek och bok, även poppel, hästkastanj och andra lövträd, och ibland på barrträd (i Tjeckien ofta på gran trots namnet). Fruktkropparna kommer ensamma eller i små grupper ur sår, stammar, stubbar och liggande stammar. Huvudsäsongen är från juli till november; i vissa områden bildar den också fruktkroppar på vintern.",
+      "uses": "Den är ätlig, särskilt när den är ung, men köttet blir segt med åldern och anses allmänt sämre än mer kända musslingar som ostronmussling (Pleurotus ostreatus). Vissa författare anger den som oätlig på grund av segheten.",
+      "confusion": "Ostronmussling (Pleurotus ostreatus) har en slät, ofta blågrå till brun hatt, ingen slöja eller ring och växer typiskt i större, överlappande klasar. Pleurotus pulmonarius är vanligen blekare och tunnare i köttet, också utan slöja. Pleurotus cornucopiae har en mer trattformad krämfärgad hatt och ingen ring, och dess skivor bildar ett grövre nät ner på foten. Pleurotus calyptratus har också en slöja, men en slätare hatt och växer typiskt på poppel. Öronmussling (Pleurocybella porrigens) är dödligt giftig; den är tunn, nästan fotlös och växer på barrträd.",
+      "notes": "De säkraste kännetecknen är den filthåriga, ofta fjälliga vitaktiga hatten, de hinntartade slöjresterna på kanten och en flyktig ring på en kort, kraftig, excentrisk fot samt de starkt nedlöpande vita skivorna som gafflar på foten. Det är den enda välkända musslingen med slöja och ring.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Ringmussling",
+        "https://api.gbif.org/v1/species/2526564/vernacularNames",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://www.wikidata.org/wiki/Q820657"
+      ],
+      "label": "ringmussling"
+    },
+    "tr": {
+      "description": "Canlı veya ölü geniş yapraklı ağaçların, özellikle meşe ve kayının, yaralarından, gövdelerinden ve kütüklerinden, bazen de iğne yapraklılarda büyüyen iri, kalın etli bir istiridye mantarıdır. Şapka kirli kremden soluk griye kadar, kuru ve keçemsi olup çoğu zaman yumuşak grimsi kahverengi pullara yarılır. Beyaz zarlı kısmi bir örtüye sahip alışılmış tek Pleurotus türüdür; örtü, içeri kıvrık şapka kenarında parçalar ve kısa, kalın, eksantrik sapta geçici bir halka bırakır. Beyaz lameller sapın aşağısına kadar iner ve orada sıkça çatallanır ve birleşir. Tür Avrupa'da yaygındır, Asya ve Kuzey Amerika'da da görülür; esas olarak yaz ve sonbaharda çıkar.",
+      "cap": "Şapka 4–15 cm çapındadır, bazen 20 cm'ye ulaşır. Önce tümsek, kenarı hâlâ beyaz zarlı bir örtüyle sapa bağlı ve içeri kıvrıktır; sonra yassılaşır ve genişçe yelpaze veya kabuk biçimini alır, bazen alçak, geniş bir tümseği vardır. Yüzey kuru ve keçemsi, kirli kremden soluk griye veya soluk grimsi kahverengiye kadar, çoğu zaman hafifçe sararır ve tipik olarak merkeze doğru yumuşak, benek gibi grimsi kahverengi pullara yarılır. Kenardan sıkça beyaz örtü artıkları sarkar.",
+      "hymenium": "Lameller beyazdan kreme kadar, sonra bazen sararan, oldukça sık ve dar, daha küçük ara lamelli ve güçlü biçimde dekürrent olup sapın aşağısına kadar iner. Sapın alt kısmında sıkça çatallanır ve birleşerek oluklar veya bir ağ oluşturur. Genç meyve bedenlerinde onları kısmi örtü gizler.",
+      "stipe": "Sap 3–10 cm uzunluğunda (bazen yalnızca 2–6 cm) ve 1–3 cm kalınlığındadır; kısa ve kalın, eksantrikten yana doğru, tabana doğru daralan, dolu ve sert, beyazımsı ve keçemsi, çoğu zaman sararan bir yapısı vardır. Gençken ince, kısa ömürlü beyaz zarlı bir halka taşır; kalıntılar zayıf bir halka kuşağı olarak kalabilir.",
+      "flesh": "Et kalın, sıkı ve sert, beyazdır; ezilince veya yaşlanınca sararır. Koku zayıf, hoş veya hafif mantarımsıdır; tat hafif veya hafifçe fındığımsıdır.",
+      "sporePrint": "Spor izi beyazdır. Sporlar düz, uzunca elipsoitten silindirike kadar, yaklaşık 9–15 × 3,5–5 µm'dir.",
+      "habitat": "Canlı veya ölü geniş yapraklı odunda, özellikle meşe ve kayında, ayrıca kavak, at kestanesi ve diğer geniş yapraklılarda, bazen de iğne yapraklılarda saprotrof ve zayıf parazittir (Çekya'da adına rağmen çoğu zaman ladin üzerinde bulunur). Meyve bedenleri yaralardan, gövdelerden, kütüklerden ve devrilmiş tomruklardan tek tek veya küçük gruplar halinde çıkar. Ana mevsim Temmuz'dan Kasım'a kadardır; bazı bölgelerde kışın da meyve verir.",
+      "uses": "Yenilebilir, özellikle gençken; ancak et yaşla sertleşir ve genellikle kavak mantarı (Pleurotus ostreatus) gibi daha tanınmış istiridye mantarlarından daha düşük nitelikli sayılır. Bazı yazarlar bu sertlik yüzünden onu yenmez kabul eder.",
+      "confusion": "Kavak mantarının (Pleurotus ostreatus) düz, çoğu zaman mavimsi gridan kahverengiye bir şapkası vardır, örtüsü ve halkası yoktur ve tipik olarak daha büyük, birbiri üzerine binen kümelerde büyür. Pleurotus pulmonarius genellikle daha soluk ve daha ince etlidir, örtüsü de yoktur. Pleurotus cornucopiae daha huni biçimli krem bir şapkaya sahiptir, halkası yoktur ve lamelleri sapta daha kaba bir ağ oluşturur. Pleurotus calyptratus'un da örtüsü vardır ama şapkası daha düzdür ve tipik olarak kavakta büyür. Mermer mantarı (Pleurocybella porrigens) ölümcül zehirlidir; incedir, neredeyse sapsızdır ve iğne yapraklılarda büyür.",
+      "notes": "En güvenilir belirtiler keçemsi, çoğu zaman pullu beyazımsı şapka, kenardaki zarlı örtü artıkları ve kısa, kalın, eksantrik saptaki geçici halka ile sapta çatallanan, güçlü biçimde dekürrent beyaz lamellerdir. Örtüsü ve halkası olan alışılmış tek istiridye mantarıdır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий товстом'ясистий гриб з роду Pleurotus, що росте з ран, стовбурів і пнів живих або мертвих широколистяних дерев, передусім дуба і бука, а іноді й на хвойних. Шапинка білувато-кремова до блідо-сірої, суха і повстиста, часто розтріскується на м'які сіро-коричневі лусочки. Це єдиний звичайний вид роду Pleurotus з білим перетинчастим частковим покривалом, яке залишає обривки на загорнутому краї шапинки і швидко зникаюче кільце на короткій, товстій, ексцентричній ніжці. Білі пластинки далеко сбігають ніжкою і часто там вилчасто розгалужуються та з'єднуються. Вид широко поширений у Європі, трапляється також в Азії та Північній Америці, здебільшого влітку та восени.",
+      "cap": "Шапинка 4–15 см у діаметрі, інколи до 20 см. Спочатку вона опукла, із загорнутим краєм, ще з'єднаним із ніжкою білим перетинчастим покривалом, потім сплощується і стає широко віялоподібною або мушлеподібною, інколи з низьким широким горбком. Поверхня суха, повстиста, білувато-кремова до блідо-сірої або блідо-сіро-коричневої, часто слабко жовтіє і типово до центру розтріскується на м'які сіро-коричневі, плямисті лусочки. З краю часто звисають білі обривки покривала.",
+      "hymenium": "Пластинки білі до кремових, пізніше інколи жовтіють, досить густі й вузькі, з дрібнішими пластиночками, і сильно низхідні, далеко сбігають ніжкою. Унизу на ніжці вони часто вилчасто розгалужуються та з'єднуються, утворюючи борозенки або сітку. У молодих плодових тіл їх ховає часткове покривало.",
+      "stipe": "Ніжка 3–10 см завдовжки (інколи лише 2–6 см) і 1–3 см завтовшки, коротка й товста, ексцентрична до бічної, звужується до основи, виповнена й жорстка, білувата й повстиста, часто жовтіє. Замолоду вона несе тонке, недовговічне біле перетинчасте кільце; залишки можуть зберігатися як слабка кільцева зона.",
+      "flesh": "М'якоть товста, щільна й жорстка, біла і жовтіє при пошкодженні або з віком. Запах слабкий, приємний або злегка грибний; смак м'який або злегка горіховий.",
+      "sporePrint": "Споровий відбиток білий. Спори гладкі, видовжено-еліпсоїдні до циліндричних, близько 9–15 × 3,5–5 µm.",
+      "habitat": "Сапротроф і слабкий паразит на живій або мертвій деревині широколистяних порід, особливо дуба і бука, також тополі, кінського каштана та інших листяних, а іноді на хвойних (у Чехії, попри назву, часто на ялині). Плодові тіла з'являються поодинці або невеликими групами з ран, стовбурів, пнів і повалених колод. Основний сезон — з липня до листопада; у деяких регіонах плодоносить і взимку.",
+      "uses": "Їстівний, особливо молодим, але м'якоть з віком стає жорсткою і загалом вважається гіршою, ніж у більш відомих видів, наприклад гливи звичайної (Pleurotus ostreatus). Деякі автори через жорсткість відносять його до неїстівних.",
+      "confusion": "Глива звичайна (Pleurotus ostreatus) має гладку, часто сизувато-сіру до коричневої шапинку, без покривала і кільця, і зазвичай росте більшими черепичастими пучками. Pleurotus pulmonarius зазвичай блідіший і тонком'ясистіший, також без покривала. Pleurotus cornucopiae має більш лійкоподібну кремову шапинку і не утворює кільця, а пластинки на ніжці складаються в грубішу сітку. Pleurotus calyptratus теж має покривало, але гладкішу шапинку і зазвичай росте на тополі. Плевроцибела витягнута (Pleurocybella porrigens) смертельно отруйна; вона тонка, майже без ніжки і росте на хвойних.",
+      "notes": "Найпевніші ознаки — повстиста, часто луската білувата шапинка, перетинчасті залишки покривала по краю і швидко зникаюче кільце на короткій, товстій, ексцентричній ніжці, а також сильно низхідні білі пластинки, що вилчасто розгалужуються на ніжці. Це єдиний звичайний вид роду Pleurotus з покривалом і кільцем.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一种大型、肉质肥厚的侧耳，从活立木或枯死阔叶树（尤其是栎树和山毛榉）的伤口、树干和树桩上长出，有时也生于针叶树上。菌盖污白至浅灰色，干燥呈毡状，常裂成柔软的灰褐色鳞片。这是常见侧耳中唯一具有白色膜质部分菌幕的种类，菌幕在内卷的菌盖边缘留下残片，并在短而粗、偏生的菌柄上留下短暂的菌环。白色菌褶沿菌柄深延，并常在柄上分叉和网结。本种广布于欧洲，亚洲和北美也有分布，主要见于夏秋。",
+      "cap": "菌盖直径4–15 cm，偶可达20 cm。初期凸起，边缘内卷，仍由白色膜质菌幕与菌柄相连，随后变平并呈宽扇形或贝壳形，有时具宽而低的中央凸起。表面干燥、毡状，污白奶油色至浅灰或浅灰褐色，常略微变黄，并通常向中央裂成柔软的灰褐色斑状鳞片。边缘常悬挂白色菌幕残片。",
+      "hymenium": "菌褶白色至奶油色，后期有时变黄，较密而窄，具较小的小菌褶，并强烈延生，沿菌柄深延而下。在菌柄下部常分叉并相互连接，形成沟槽或网纹。幼嫩子实体的菌褶被部分菌幕所遮盖。",
+      "stipe": "菌柄长3–10 cm（有时仅2–6 cm），粗1–3 cm，短而粗壮，偏生至侧生，向基部渐细，实心而坚韧，近白色、毡状，常变黄。幼时具薄而短命的白色膜质菌环；残迹可保留为淡弱的环带。",
+      "flesh": "菌肉厚、结实而坚韧，白色，受伤或老化时变黄。气味淡，宜人或略带菌味；味道温和或略有坚果味。",
+      "sporePrint": "孢子印白色。孢子平滑，长椭圆形至圆柱形，约9–15 × 3.5–5 µm。",
+      "habitat": "在活或死的阔叶木材上腐生并弱寄生，尤其是栎树和山毛榉，也见于杨树、七叶树和其他阔叶树，有时生于针叶树（在捷克，尽管得名于栎，却常出现在云杉上）。子实体单生或小群生于伤口、树干、树桩和倒木上。主要季节为7月至11月；在某些地区冬季也可出菇。",
+      "uses": "可食用，尤以幼嫩时为佳，但菌肉随年龄变韧，一般认为不及糙皮侧耳（Pleurotus ostreatus）等更著名的侧耳。因其质地坚韧，也有作者将其列为不可食用。",
+      "confusion": "糙皮侧耳（Pleurotus ostreatus）的菌盖平滑，常呈蓝灰色至褐色，无菌幕和菌环，通常以更大的覆瓦状丛生。Pleurotus pulmonarius通常颜色更浅、肉更薄，同样无菌幕。Pleurotus cornucopiae的奶油色菌盖更呈漏斗形，无菌环，菌褶在菌柄上形成更粗的网纹。Pleurotus calyptratus也有菌幕，但菌盖更平滑，通常生于杨树上。贝形圆孢侧耳（Pleurocybella porrigens）有致死毒性；其菌体薄，几乎无柄，生于针叶树上。",
+      "notes": "最可靠的野外特征是毡状、常具鳞片的近白色菌盖，边缘的膜质菌幕残片，短而粗、偏生的菌柄上的短暂菌环，以及在菌柄上分叉的强烈延生的白色菌褶。这是常见侧耳中唯一具有菌幕和菌环的种类。",
+      "names": [
+        "櫟生側耳",
+        "裂皮侧耳"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q820657",
+        "https://www.inaturalist.org/taxa/334340",
+        "https://zh.wikipedia.org/wiki/%E6%A0%8E%E7%94%9F%E5%81%B4%E8%80%B3"
+      ],
+      "label": "栎生侧耳"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus dryinus",
+      "author": "Pers.",
+      "year": 1800,
+      "rank": "species",
+      "type": "basionym",
+      "if": 230225
+    },
+    {
+      "name": "Pleuropus dryinus",
+      "author": "(Pers.) Zaw.",
+      "year": 1835,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Armillaria dryina",
+      "author": "(Pers.) P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Armillariella dryina",
+      "author": "(Pers.) P. Karst.",
+      "year": 1881,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Lentodiopsis dryina",
+      "author": "(Pers.) Kreisel",
+      "year": 1977,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus corticatus",
+      "author": "Fr.",
+      "year": 1815,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pleurotus corticatus",
+      "author": "(Fr.) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Armillaria corticata",
+      "author": "(Fr.) P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Armillariella corticata",
+      "author": "(Fr.) P. Karst.",
+      "year": 1889,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus albertinii",
+      "author": "Fr.",
+      "year": 1821,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pleurotus albertinii",
+      "author": "(Fr.) Sacc.",
+      "year": 1887,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus acerinus",
+      "author": "Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pleurotus acerinus",
+      "author": "(Fr.) Gillet",
+      "year": 1876,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Clitocybe acerina",
+      "author": "(Fr.) P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus spongiosus",
+      "author": "Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Armillaria spongiosa",
+      "author": "P. Karst.",
+      "year": 1879,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus corticatus",
+      "author": "W. Saunders & W.G. Sm.",
+      "year": 1870,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pleurotus spongiosus",
+      "author": "(P. Karst.) Sacc.",
+      "year": 1887,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Lentinus underwoodii",
+      "author": "Peck",
+      "year": 1896,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Lentinus integer",
+      "author": "Reichert",
+      "year": 1921,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    }
+  ],
+  "reserved": false,
+  "id": 219,
+  "citation": "Führ. Pilzk. (Zerbst): 101 (1871)"
 }
 ];
