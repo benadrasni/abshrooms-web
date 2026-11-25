@@ -1142,5 +1142,9 @@ export const TAXA = {
   },
   Panaeolina: {
     rank: "genus"
+  },
+  Phaeolus: {
+    rank: "genus",
+    sk: "hnedák"
   }
 };
