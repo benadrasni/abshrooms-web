@@ -221420,5 +221420,2118 @@ export const CATALOG = [
   "reserved": false,
   "id": 219,
   "citation": "Führ. Pilzk. (Zerbst): 101 (1871)"
+},
+{
+  "name": "Pleurotus eryngii",
+  "author": "(DC.) Quél.",
+  "family": "Pleurotaceae",
+  "genus": "Pleurotus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Pleurotaceae",
+    "Pleurotus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Pleurotaceae",
+    "Pleurotus"
+  ],
+  "edibility": "choice",
+  "hymenium": "gills",
+  "where": [
+    "grass",
+    "ground"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 4.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 2.0,
+  "stipeHeightTo": 6.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 9,
+  "fruitingTo": 2,
+  "label": {
+    "ar": "محاري ايرنغي",
+    "bg": "ветрогонова гъба",
+    "cs": "hlíva máčková",
+    "de": "Brauner Kräuter-Seitling",
+    "en": "king oyster mushroom",
+    "es": "seta de cardo",
+    "et": "kuningservik",
+    "fi": "kuningasosterivinokas",
+    "fr": "pleurote du panicaut",
+    "he": "אוזנית הכלך",
+    "hu": "ördögszekér-laskagomba",
+    "it": "cardoncello",
+    "ja": "エリンギ",
+    "ko": "큰느타리",
+    "lt": "stambiakotė kreivabudė",
+    "nl": "kruisdisteloesterzwam",
+    "pl": "boczniak mikołajkowy",
+    "pt": "repolga-dos-cardos",
+    "ro": "păstrăvul scailor",
+    "ru": "вёшенка степная",
+    "sk": "hliva kotúčová",
+    "sl": "možinin ostrigar",
+    "sv": "kungsmussling",
+    "tr": "diken mantarı",
+    "uk": "глива миколайчикова",
+    "zh": "杏鲍菇"
+  },
+  "names": {
+    "ar": [
+      "فطر المحار الملكي"
+    ],
+    "bg": [
+      "ветрогонова кладница"
+    ],
+    "cs": [
+      "hlíva královská"
+    ],
+    "da": [],
+    "de": [
+      "Kräuter-Seitling",
+      "Königsausternpilz"
+    ],
+    "en": [
+      "king oyster",
+      "king trumpet mushroom"
+    ],
+    "es": [
+      "oreja de cardo"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [
+      "kuningasvinokas"
+    ],
+    "fr": [
+      "pleurote de l'Eryngium",
+      "oreille de chardon"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [
+      "새송이",
+      "새송이버섯"
+    ],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [
+      "cogumelo-do-cardo"
+    ],
+    "ro": [],
+    "ru": [
+      "вешенка степная"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "kejsarhatt"
+    ],
+    "tr": [
+      "körek mantarı",
+      "kulak mantarı"
+    ],
+    "uk": [
+      "глива королівська"
+    ],
+    "zh": [
+      "杏鮑菇",
+      "刺芹侧耳"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=170772",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=170772",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=170772",
+      "https://www.gbif.org/species/9075265",
+      "https://herbmedit.org/storage/1120/FL25SI_143-156.pdf",
+      "https://mushrooms.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=100246",
+      "https://www.fungi.fr/Html/pleerng_descript.html",
+      "https://www.123pilzsuche.de/daten/details/Kraeuterseitling.htm",
+      "https://en.wikipedia.org/wiki/Pleurotus_eryngii",
+      "https://de.wikipedia.org/wiki/Kr%C3%A4uter-Seitling",
+      "https://www.inaturalist.org/taxa/205516"
+    ],
+    "ar": [
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "cs": [
+      "https://api.gbif.org/v1/species/9075265/vernacularNames",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "da": [],
+    "de": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://de.wikipedia.org/wiki/Kr%C3%A4uter-Seitling",
+      "https://www.123pilzsuche.de/daten/details/Kraeuterseitling.htm"
+    ],
+    "es": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "et": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Kuningasosterivinokas",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://fr.wikipedia.org/wiki/Pleurotus_eryngii",
+      "https://www.fungi.fr/Html/pleerng_descript.html"
+    ],
+    "he": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://hu.wikipedia.org/wiki/%C3%96rd%C3%B6gszek%C3%A9r-laskagomba",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "id": [],
+    "it": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://it.wikipedia.org/wiki/Pleurotus_eryngii"
+    ],
+    "ja": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "lt": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516"
+    ],
+    "lv": [],
+    "nl": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://nl.wikipedia.org/wiki/Kruisdisteloesterzwam"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Boczniak_miko%C5%82ajkowy",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "pt": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/P%C4%83str%C4%83vul_scailor",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "ru": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://ru.wikipedia.org/wiki/%D0%92%D1%91%D1%88%D0%B5%D0%BD%D0%BA%D0%B0_%D1%81%D1%82%D0%B5%D0%BF%D0%BD%D0%B0%D1%8F",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/205516",
+      "https://www.gbif.org/species/9075265"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.dyntaxa.se/Taxon/Info/6052076",
+      "https://www.wikidata.org/wiki/Q901105"
+    ],
+    "tr": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516"
+    ],
+    "uk": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516"
+    ],
+    "zh": [
+      "https://www.gbif.org/species/9075265",
+      "https://www.inaturalist.org/taxa/205516",
+      "https://zh.wikipedia.org/wiki/%E6%9D%8F%E9%AE%91%E8%8F%87",
+      "https://www.wikidata.org/wiki/Q901105"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_1.webp",
+      "author": "Nico Hernandez",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/326034686"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_2.webp",
+      "author": "Davide Puddu",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/19154567"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_3.webp",
+      "author": "szegedigombasz",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/189118284"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_4.webp",
+      "author": "szegedigombasz",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/190771262"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_5.webp",
+      "author": "Cenaida",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/247912226"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii@1600.webp",
+      "basedOn": [],
+      "existingMark": "existing cursive “Gemini” mark kept exactly as found (ink only); nothing erased; no mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_1.webp",
+      "author": "Nico Hernandez",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/326034686"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_2.webp",
+      "author": "Davide Puddu",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/19154567"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_3.webp",
+      "author": "szegedigombasz",
+      "license": "CC0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/189118284"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_4.webp",
+      "author": "szegedigombasz",
+      "license": "CC0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/190771262"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Pleurotaceae/Pleurotus_eryngii/Pleurotus_eryngii_5.webp",
+      "author": "Cenaida",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/247912226"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر محاري برّي سميك اللحم، ينمو من التربة على الجذور المدفونة لنبات الشبرق الحقلي (Eryngium campestre) والشبرق البحري (Eryngium maritimum) في المروج الجافة الكلسية أو الرملية والمراعي والكثبان. القبعة بنيّة بيج إلى بنيّة محمرّة أو رمادية-بنيّة، مطفية، جافة ومخملية ناعمة. الساق قصيرة ومتينة، مبيضّة، مركزية إلى مائلة قليلاً، بلا حلقة وبلا غشاء. الخياشيم المتراصة، المبيضّة إلى الكريمية، تنحدر بعيداً على الساق وتلتقي هناك غالباً في شبكة. النوع أصلي في جنوب ووسط أوروبا وشمال أفريقيا وغرب آسيا، ويُثمر أساساً من الخريف إلى أواخر الشتاء. يُزرع على نطاق واسع، لكن الشكل المزروع يكون عادةً بساق أطول وأغلظ وبقبعة أصغر من النمط البرّي المعروض هنا.",
+      "cap": "يبلغ قطر القبعة 4–15 cm (وغالباً 5–10 cm). تكون في البداية محدّبة بحافة ملتفة قليلاً إلى الداخل، ثم تتسطّح وتصير منخفضة قليلاً أو قمعية بعض الشيء، وكثيراً ما تكون غير منتظمة. السطح جاف ومطفٍ ومخملي لبادي ناعم، من بنيّ بيج فاتح إلى بنيّ محمرّ دافئ أو رمادي-بني.",
+      "hymenium": "الخياشيم متراصة، مبيضّة إلى كريمية شاحبة أو بيج فاتحة، وقد تميل مع العمر إلى الرمادي أو الأصفر قليلاً، وهي متنازلة بعمق وتنحدر بعيداً على الساق. حيث تلتقي بالساق غالباً تتفرع وتتصل مكوّنة شبكة من العروق.",
+      "stipe": "الساق طولها 2–6 cm وسمكها 1–3 cm (وأحياناً 0.5 cm فقط)، قصيرة ومتينة، مركزية إلى مائلة قليلاً، وغالباً أوسع قليلاً في الأعلى ومتضيّقة نحو القاعدة، مصمتة، مبيضّة إلى كريمية شاحبة. لا حلقة ولا غشاء.",
+      "flesh": "اللحم سميك وصلب وأبيض في القبعة وفي الساق المصمتة. الرائحة ضعيفة ومستحسنة؛ والطعم لطيف.",
+      "sporePrint": "بصمة الأبواغ بيضاء. الأبواغ ملساء، أسطوانية-إهليلجية، نحو 9–14 × 4.5–6.5 µm.",
+      "habitat": "طفيلي ضعيف ورُمّام على الجذور المدفونة لـ Eryngium campestre وE. maritimum في المروج الجافة الكلسية أو الرملية والمراعي والكثبان والمنحدرات الغنية بالمعادن. تظهر الأجسام الثمرية من التربة، منفردة أو في مجموعات صغيرة، لا على الخشب. الموسم الرئيس من الخريف إلى أواخر الشتاء (سبتمبر إلى فبراير)؛ وفي وسط أوروبا يُذكر أيضاً الصيف إلى الخريف، وتشير بعض البيانات المتوسطية إلى إثمار ربيعي عَرَضي. أما بقية أفراد المُركَّب فتنمو على جذور نباتات خيمية أخرى ولا تُبحث هنا.",
+      "uses": "فطر ممتاز للأكل، لحمه صلب ولذيذ، ويُزرع على نطاق واسع. الشكل المزروع عادة ساق بيضاء طويلة وغليظة بقبعة صغيرة نسبياً، ويختلف عن النمط البرّي قصير الساق. أفضل الأجسام الثمرية البرّية هي الفتية؛ أما القديمة فتتصلّب.",
+      "confusion": "فطر المحار (Pleurotus ostreatus) وPleurotus dryinus ينموان على الخشب، لا من تربة المروج. لـ P. ostreatus قبعة أملس أكثر، غالباً رمادية مزرقة، وهو يكوّن عادةً تجمعات أكبر متراكبة؛ ولـ P. dryinus قبعة مبيضّة لبادية حرشفية وحلقة غشائية عابرة. Pleurotus nebrodensis وPleurotus ferulaginis وسائر أصناف مُركَّب P. eryngii متشابهة لكنها تنمو على عوائل نباتية أخرى وتكون غالباً أفتح لوناً. في المروج قد تشبه من بعيد فطريات قمعية سامة رقيقة اللحم مثل Clitocybe dealbata وClitocybe rivulosa، لكنها ليست مخملية ولا تنمو أبداً على جذور الشبرق.",
+      "notes": "أوثق صفات النمط البرّي هي القبعة البنية السميكة المطفية المخملية، والساق المبيضّة القصيرة المتينة بلا حلقة ولا غشاء، والخياشيم الكريمية المتنازلة بعمق التي تتصل على الساق، والنمو من التربة على جذور Eryngium في المروج الجافة. يُزرع على نطاق واسع، لكن الأجسام الثمرية البرّية أقصر وأكثر امتلاءً من الشكل التجاري.",
+      "names": [
+        "فطر المحار الملكي"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "محاري ايرنغي"
+    },
+    "bg": {
+      "description": "Дива дебеломъсеста кладница, която расте от почвата върху заровените корени на полския ветрогон (Eryngium campestre) и крайморския ветрогон (Eryngium maritimum) в сухи варовити или песъчливи тревни площи, пасища и дюни. Шапката е бежовокафява до червеникавокафява или сиво-кафява, матова, суха и фино кадифена. Пънчето е късо и дебело, белезникаво, централно до леко ексцентрично, без пръстен и без було. Гъстите белезникави до кремави пластинки слизат надалеч по пънчето и там често се свързват в мрежа. Видът е разпространен в Южна и Централна Европа, Северна Африка и Западна Азия и плододава главно от есента до късната зима. Той се отглежда широко, но култивираната форма обикновено има много по-високо и по-дебело пънче и по-малка шапка от показания тук див тип.",
+      "cap": "Шапката е 4–15 cm в диаметър (често 5–10 cm). Отначало е изпъкнала, със слабо подвит ръб, после се сплесква, става слабо вдлъбната или леко фуниевидна и често неправилна. Повърхността е суха, матова и фино кадифено-филцова, светлобежовокафява до топло червеникавокафява или сиво-кафява.",
+      "hymenium": "Пластинките са гъсти, белезникави до бледокремави или светлобежови, с възрастта понякога слабо сивкави или жълтеникави, и дълбоко низбягващи, които слизат надалеч по пънчето. Там, където се срещат с пънчето, те често се разклоняват и свързват, образувайки мрежа от жилки.",
+      "stipe": "Пънчето е 2–6 cm дълго и 1–3 cm дебело (понякога само 0,5 cm), късо и дебело, централно до леко ексцентрично, често малко по-широко горе и стеснено към основата, плътно, белезникаво до бледокремово. Няма нито пръстен, нито було.",
+      "flesh": "Месото е дебело, стегнато и бяло в шапката и в плътното пънче. Мирисът е слаб и приятен; вкусът е мек.",
+      "sporePrint": "Споровият прашец е бял. Спорите са гладки, цилиндрично-елипсоидни, около 9–14 × 4,5–6,5 µm.",
+      "habitat": "Слаб паразит и сапротроф върху заровените корени на Eryngium campestre и E. maritimum в сухи варовити или песъчливи тревни площи, пасища, дюни и минерални склонове. Плодните тела се появяват от почвата, поединично или на малки групи, не върху дървесина. Основният сезон е от есента до късната зима (септември–февруари); в Централна Европа се посочва също лято–есен, а някои средиземноморски данни споменават рядко пролетно плододаване. Останалите членове на комплекса растат върху корени на други сенникоцветни и тук не се разглеждат.",
+      "uses": "Това е отличен ядлив вид със стегнато вкусно месо и се отглежда широко. Култивираната форма обикновено е високо дебело бяло пънче със сравнително малка шапка и се различава от късостъбления див тип. Най-добри са младите диви плодни тела; старите се втвърдяват.",
+      "confusion": "Обикновената кладница (Pleurotus ostreatus) и Pleurotus dryinus растат върху дървесина, а не от почвата на тревните площи. При P. ostreatus шапката е по-гладка, често синкавосива, и обикновено образува по-големи керемидени туфи; при P. dryinus белезникавата филцово-люспеста шапка и бързо изчезващ ципест пръстен. Pleurotus nebrodensis и Pleurotus ferulaginis, както и други таксони от комплекса на P. eryngii, са сходни, но растат върху други гостоприемници и често са по-бледи. На тревните площи отдалеч могат да наподобяват тънкомъсести отровни фунийки като Clitocybe dealbata и Clitocybe rivulosa, които обаче не са кадифени и никога не растат върху корени на ветрогон.",
+      "notes": "Най-сигурните белези на дивия тип са дебелата матова кадифенокафява шапка, късото дебело белезникаво пънче без пръстен и було, дълбоко низбягващите кремави пластинки, които се свързват по пънчето, и растежът от почвата върху корени на Eryngium в сухи тревни площи. Това е познатата култивирана кладница, но дивите плодни тела са по-къси и по-дебели от търговската форма.",
+      "names": [
+        "ветрогонова кладница"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "ветрогонова гъба"
+    },
+    "cs": {
+      "description": "Masitá planě rostoucí hlíva, která vyrůstá z půdy na pohřbených kořenech máčky ladní (Eryngium campestre) a máčky přímořské (Eryngium maritimum), v suchých vápnitých nebo písčitých trávnících, pastvinách a dunách. Klobouk je béžově hnědý až červenavě či šedohnědý, matný, suchý a jemně sametový. Třeň je krátký a tlustý, bělavý, středový až mírně výstředný, bez prstenu a bez vela. Husté, bělavé až krémové lupeny daleko sbíhají na třeň a často se tam spojují v síť. Druh je původní v jižní a střední Evropě, v severní Africe a v západní Asii a plodí hlavně od podzimu do pozdní zimy. Široce se pěstuje, ale pěstovaná forma mívá mnohem vyšší a tlustší třeň a menší klobouk než zde zobrazený planý typ.",
+      "cap": "Klobouk má 4–15 cm v průměru (často 5–10 cm). Nejprve je vyklenutý, s mírně podvinutým okrajem, později zploštělý až mělce vmáčklý nebo mírně nálevkovitý a často nepravidelný. Povrch je suchý, matný a jemně sametově plstnatý, světle béžově hnědý až teplý červenavě hnědý nebo šedohnědý.",
+      "hymenium": "Lupeny jsou husté, bělavé až bledě krémové nebo světle béžové, ve stáří někdy slabě našedlé nebo nažloutlé, a hluboce sbíhavé, daleko sbíhající na třeň. Tam, kde se stýkají s třeněm, se často větví a propojují a tvoří síť žilek.",
+      "stipe": "Třeň je 2–6 cm dlouhý a 1–3 cm tlustý (ojediněle jen 0,5 cm), krátký a tlustý, středový až mírně výstředný, nahoře často trochu širší a k bázi zúžený, plný, bělavý až bledě krémový. Prsten ani velum chybí.",
+      "flesh": "Dužnina je tlustá, pevná a bílá v klobouku i v plném třeni. Vůně je slabá a příjemná; chuť mírná.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou hladké, válcovitě elipsoidní, asi 9–14 × 4,5–6,5 µm.",
+      "habitat": "Slabý parazit a saprotrof na pohřbených kořenech Eryngium campestre a E. maritimum, v suchých vápnitých nebo písčitých trávnících, pastvinách, dunách a na minerálně bohatých svazích. Plodnice vyrůstají z půdy, jednotlivě nebo v malých skupinách, nikoli na dřevě. Hlavní sezona je od podzimu do pozdní zimy (září až únor); ve střední Evropě se uvádí také léto až podzim a některé středomořské údaje zmiňují občasný jarní výskyt. Ostatní zástupci okruhu rostou na kořenech jiných miříkovitých a zde se nepojednávají.",
+      "uses": "Je výborná jedlá houba, s pevnou, dobře chutnající dužninou, a široce se pěstuje. Pěstovaná forma bývá vysoký tlustý bílý třeň s relativně malým kloboukem a vypadá jinak než krátce třeňovitý planý typ. Nejlepší jsou mladé plané plodnice; staré tuhnou.",
+      "confusion": "Hlíva ústřičná (Pleurotus ostreatus) a hlíva dubová (Pleurotus dryinus) rostou na dřevě, nikoli z luční půdy. P. ostreatus má hladší, často namodrale šedý klobouk a typicky tvoří větší překrývající se trsy; P. dryinus má plstnatý, šupinatý bělavý klobouk a prchavý blánitý prsten. Pleurotus nebrodensis a Pleurotus ferulaginis a další taxony okruhu P. eryngii jsou podobné, ale rostou na jiných hostitelích a jsou často světlejší. Na trávnících se jim vzdáleně podobají tenkomasé jedovaté strmělky, například Clitocybe dealbata a Clitocybe rivulosa, které však nejsou sametové a nikdy nerostou z kořenů máčky.",
+      "notes": "Nejspolehlivější znaky planého typu jsou tlustý, matný, sametově hnědý klobouk, krátký tlustý bělavý třeň bez prstenu a vela, hluboce sbíhavé krémové lupeny propojené na třeni a růst z půdy na kořenech máčky v suchých trávnících. Široce se pěstuje, ale plané plodnice jsou kratší a zavalitější než obchodní forma.",
+      "names": [
+        "hlíva královská"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9075265/vernacularNames",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "hlíva máčková"
+    },
+    "da": {
+      "description": "En tykkødet, vild østershat, der vokser op af jorden på de nedgravede rødder af mark-tidselkugle (Eryngium campestre) og strand-tidselkugle (Eryngium maritimum), i tør kalk- eller sandrig græsmark, overdrev og klit. Hatten er beigebrun til rødlig eller gråbrun, mat, tør og fint fløjlsagtig. Stokken er kort og kraftig, hvidlig, central til lidt excentrisk, uden ring og uden slør. De tætte, hvidlige til cremefarvede lameller løber langt ned ad stokken og danner dér ofte et net. Arten er hjemmehørende i Syd- og Centraleuropa, Nordafrika og Vestasien og frugter især fra efterår til sen vinter. Den dyrkes i stor udstrækning, men den dyrkede form har som regel en meget højere, tykkere stok og en mindre hat end den vildtype, der vises her.",
+      "cap": "Hatten er 4–15 cm bred (ofte 5–10 cm). Først er den hvælvet, med svagt indrullet rand, siden affladet til lavt nedtrykt eller lidt tragtformet og ofte uregelmæssig. Overfladen er tør, mat og fint fløjlfiltet, lyst beigebrun til varmt rødbrun eller gråbrun.",
+      "hymenium": "Lamellerne er tætte, hvidlige til blegt creme eller lysebeige, med alderen undertiden svagt grålige eller gullige, og dybt nedløbende, løbende langt ned ad stokken. Hvor de møder stokken, forgrener og sammenvokser de sig ofte og danner et årenet.",
+      "stipe": "Stokken er 2–6 cm lang og 1–3 cm tyk (lejlighedsvis kun 0,5 cm), kort og kraftig, central til lidt excentrisk, foroven ofte lidt bredere og tilspidset mod basis, massiv, hvidlig til blegt creme. Der er hverken ring eller slør.",
+      "flesh": "Kødet er tykt, fast og hvidt i hatten og i den massive stok. Lugten er svag og behagelig; smagen mild.",
+      "sporePrint": "Sporeaftrykket er hvidt. Sporerne er glatte, cylindrisk-ellipsoide, ca. 9–14 × 4,5–6,5 µm.",
+      "habitat": "En svag parasit og saprotrof på nedgravede rødder af Eryngium campestre og E. maritimum, i tør kalk- eller sandrig græsmark, overdrev, klit og mineralrige skrænter. Frugtlegemerne kommer op af jorden, enkeltvis eller i små grupper, ikke på ved. Hovedsæsonen er efterår til sen vinter (september til februar); i Centraleuropa angives også sommer til efterår, og visse middelhavsoplysninger nævner lejlighedsvis forårsfrugtning. Øvrige medlemmer af artskomplekset vokser på rødder af andre skærmplanter og behandles ikke her.",
+      "uses": "Den er en udmærket spisesvamp med fast, velsmagende kød og dyrkes i stor udstrækning. Den dyrkede form er som regel en høj, tyk hvid stok med en forholdsvis lille hat og ser anderledes ud end den kortstokkede vildtype. Unge vilde frugtlegemer er bedst; gamle bliver seje.",
+      "confusion": "Almindelig østershat (Pleurotus ostreatus) og korkagtig østershat (Pleurotus dryinus) vokser på ved, ikke fra græsmarksjord. P. ostreatus har en glattere, ofte blågrå hat og danner typisk større, overlappende klynger; P. dryinus har en filtet, skællet hvidlig hat og en flygtig hindeagtig ring. Pleurotus nebrodensis og Pleurotus ferulaginis samt andre taxa i P. eryngii-komplekset er ligende, men vokser på andre værter og er ofte blegere. På græsmark kan tyndkødede giftige tragthatte som Clitocybe dealbata og Clitocybe rivulosa minde fjern, men de er ikke fløjlsagtige og vokser aldrig på tidselkuglerødder.",
+      "notes": "De sikrest kendetegn ved vildtypen er den tykke, matte, fløjlsbrune hat, den korte kraftige hvidlige stok uden ring og slør, de dybt nedløbende cremefarvede lameller, der forbindes på stokken, og væksten op af jorden på Eryngium-rødder i tør græsmark. Det er den kendte dyrkede kejsersvamp, men vilde frugtlegemer er kortere og tættere end butiksformen.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein dickfleischiger, wilder Seitling, der aus dem Boden an den vergrabenen Wurzeln der Feld-Mannstreu (Eryngium campestre) und der Stranddistel (Eryngium maritimum) wächst, auf trockenen kalk- oder sandreichen Rasen, Weiden und Dünen. Der Hut ist beige- bis rötlich- oder graubraun, matt, trocken und fein samtig. Der Stiel ist kurz und kräftig, weißlich, zentral bis leicht exzentrisch und ohne Ring und ohne Velum. Die gedrängten, weißlichen bis cremefarbenen Lamellen laufen weit am Stiel herab und verbinden sich dort oft zu einem Netz. Die Art ist in Süd- und Mitteleuropa, Nordafrika und Westasien heimisch und fruktifiziert vor allem vom Herbst bis in den Spätwinter. Sie wird weithin kultiviert, doch die Kulturform hat meist einen viel höheren, dickeren Stiel und einen kleineren Hut als der hier gezeigte Wildtyp.",
+      "cap": "Der Hut ist 4–15 cm breit (häufig 5–10 cm). Zuerst ist er gewölbt, mit leicht eingerolltem Rand, dann abgeflacht bis flach niedergedrückt oder etwas trichterig und oft unregelmäßig. Die Oberfläche ist trocken, matt und fein samtig-filzig, hell beige-braun bis warm rötlichbraun oder graubraun.",
+      "hymenium": "Die Lamellen sind gedrängt, weißlich bis blass cremefarben oder hellbeige, im Alter manchmal schwach graulich oder gelblich, und tief herablaufend, weit am Stiel herabziehend. Wo sie den Stiel treffen, gabeln und verbinden sie sich oft und bilden ein Adernetz.",
+      "stipe": "Der Stiel ist 2–6 cm lang und 1–3 cm dick (gelegentlich nur 0,5 cm), kurz und kräftig, zentral bis leicht exzentrisch, oben oft etwas breiter und zur Basis verjüngt, voll, weißlich bis blass cremefarben. Es gibt weder Ring noch Velum.",
+      "flesh": "Das Fleisch ist dick, fest und weiß im Hut und im vollen Stiel. Der Geruch ist schwach und angenehm; der Geschmack mild.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind glatt, zylindrisch-ellipsoid, etwa 9–14 × 4,5–6,5 µm.",
+      "habitat": "Ein schwacher Parasit und Saprotroph an vergrabenen Wurzeln von Eryngium campestre und E. maritimum, auf trockenen kalk- oder sandreichen Rasen, Weiden, Dünen und mineralreichen Böschungen. Die Fruchtkörper erscheinen einzeln oder in kleinen Gruppen aus dem Boden, nicht an Holz. Die Hauptzeit ist Herbst bis Spätwinter (September bis Februar); in Mitteleuropa wird auch Sommer bis Herbst angegeben, und manche mediterranen Angaben erwähnen gelegentliche Frühjahrsfruktifikation. Andere Vertreter des Artenkomplexes wachsen an Wurzeln anderer Doldenblütler und werden hier nicht behandelt.",
+      "uses": "Er ist ein vorzüglicher Speisepilz mit festem, wohlschmeckendem Fleisch und wird weithin kultiviert. Die Kulturform ist meist ein hoher, dicker weißer Stiel mit verhältnismäßig kleinem Hut und sieht anders aus als der kurzstielige Wildtyp. Am besten sind junge wilde Fruchtkörper; alte werden zäher.",
+      "confusion": "Der Austern-Seitling (Pleurotus ostreatus) und der Berindete Seitling (Pleurotus dryinus) wachsen an Holz, nicht aus Rasenboden. P. ostreatus hat einen glatteren, oft blaugrauen Hut und bildet typischerweise größere, dachziegelige Büschel; P. dryinus hat einen filzigen, schuppigen weißlichen Hut und einen flüchtigen häutigen Ring. Pleurotus nebrodensis und Pleurotus ferulaginis sowie andere Taxa des P.-eryngii-Komplexes sind ähnlich, wachsen aber an anderen Wirtspflanzen und sind oft blasser. Auf Rasen können dünnfleischige giftige Trichterlinge wie Clitocybe dealbata und Clitocybe rivulosa entfernt ähnlich wirken, sind aber nicht samtig und wachsen nie an Mannstreu-Wurzeln.",
+      "notes": "Die sichersten Merkmale des Wildtyps sind der dicke, matte, samtig braune Hut, der kurze kräftige weißliche Stiel ohne Ring und Velum, die tief herablaufenden cremefarbenen Lamellen, die sich am Stiel verbinden, und das Wachstum aus dem Boden an Eryngium-Wurzeln auf trockenem Rasen. Sie wird weithin kultiviert, doch wilde Fruchtkörper sind kürzer und gedrungener als die Handelsform.",
+      "names": [
+        "Kräuter-Seitling",
+        "Königsausternpilz"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://de.wikipedia.org/wiki/Kr%C3%A4uter-Seitling",
+        "https://www.123pilzsuche.de/daten/details/Kraeuterseitling.htm"
+      ],
+      "label": "Brauner Kräuter-Seitling"
+    },
+    "en": {
+      "description": "A thick-fleshed, wild oyster mushroom that grows from the soil on the buried roots of field eryngo (Eryngium campestre) and sea holly (Eryngium maritimum), in dry calcareous or sandy grassland, pastures and dunes. The cap is beige-brown to reddish- or grey-brown, matt, dry and finely velvety. The stem is short and stout, whitish, central to slightly off-centre, and has no ring or veil. The crowded, whitish to cream gills run far down the stem and often join there in a network. The species is native to southern and central Europe, North Africa and western Asia, and fruits mainly from autumn to late winter. It is widely cultivated, but the cultivated form usually has a much taller, thicker stem and a smaller cap than the wild type shown here.",
+      "cap": "The cap is 4–15 cm across (often 5–10 cm). At first it is convex, with a slightly inrolled margin, then flattened to shallowly depressed or slightly funnel-shaped, and often irregular. The surface is dry, matt and finely velvety-felted, light beige-brown to warm reddish-brown or grey-brown.",
+      "hymenium": "The gills are crowded, whitish to pale cream or light beige, sometimes faintly greyish or yellowish with age, and deeply decurrent, running well down the stem. Where they meet the stem they often fork and interconnect, forming a network of veins.",
+      "stipe": "The stem is 2–6 cm long and 1–3 cm thick (occasionally as slender as 0.5 cm), short and stout, central to slightly off-centre, often a little broader at the top and tapering toward the base, solid, whitish to pale cream. There is no ring and no veil.",
+      "flesh": "The flesh is thick, firm and white throughout the cap and the solid stem. The smell is faint and pleasant; the taste is mild.",
+      "sporePrint": "The spore print is white. The spores are smooth, cylindric-ellipsoid, about 9–14 × 4.5–6.5 µm.",
+      "habitat": "A weak parasite and saprotroph on the buried roots of Eryngium campestre and E. maritimum, in dry calcareous or sandy grassland, pastures, dunes and mineral-rich banks. Fruit bodies appear from the soil, singly or in small groups, not on wood. The main season is autumn to late winter (September to February); in Central Europe it is also recorded from summer to autumn, and some Mediterranean accounts mention occasional spring fruiting. Other members of the species complex grow on the roots of different umbellifers and are not treated here.",
+      "uses": "It is an excellent edible mushroom (choice), with firm, well-flavoured flesh, and is widely cultivated. The cultivated form is usually a tall, thick white stem with a relatively small cap, and looks different from the short-stemmed wild type. Young wild fruit bodies are the best; old ones become tougher.",
+      "confusion": "The oyster mushroom (Pleurotus ostreatus) and the veiled oyster (Pleurotus dryinus) grow on wood, not from grassland soil. P. ostreatus has a smoother, often bluish-grey cap and typically forms larger overlapping clusters; P. dryinus has a felty, scaly whitish cap and a fleeting membranous ring. Pleurotus nebrodensis and Pleurotus ferulaginis, and other taxa in the P. eryngii complex, are similar but grow on different host plants and are often paler. In grassland, pale toxic clitocybes such as Clitocybe dealbata and Clitocybe rivulosa can look vaguely similar, but they are thin-fleshed, not velvety, and never grow from eryngo roots.",
+      "notes": "The surest field marks of the wild type are the thick, matt, velvety brown cap, the short stout whitish stem without a ring or veil, the deeply decurrent cream gills that interconnect on the stem, and growth from the soil on Eryngium roots in dry grassland. It is widely cultivated, but wild fruit bodies are shorter-stemmed and stockier than the shop form.",
+      "names": [
+        "king oyster",
+        "king trumpet mushroom"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=170772",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=170772",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=170772",
+        "https://www.gbif.org/species/9075265",
+        "https://herbmedit.org/storage/1120/FL25SI_143-156.pdf",
+        "https://mushrooms.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=100246",
+        "https://www.fungi.fr/Html/pleerng_descript.html",
+        "https://www.123pilzsuche.de/daten/details/Kraeuterseitling.htm",
+        "https://en.wikipedia.org/wiki/Pleurotus_eryngii",
+        "https://de.wikipedia.org/wiki/Kr%C3%A4uter-Seitling",
+        "https://www.inaturalist.org/taxa/205516"
+      ],
+      "label": "king oyster mushroom"
+    },
+    "es": {
+      "description": "Una seta ostra silvestre de carne gruesa que crece del suelo sobre las raíces enterradas del cardo corredor (Eryngium campestre) y del cardo de mar (Eryngium maritimum), en pastizales secos calizos o arenosos, dehesas y dunas. El sombrero es de color pardo beige a pardo rojizo o grisáceo, mate, seco y finamente aterciopelado. El pie es corto y robusto, blanquecino, central a ligeramente excéntrico, sin anillo ni velo. Las láminas apretadas, blanquecinas a crema, descienden lejos por el pie y allí se anastomosan a menudo en una red. La especie es nativa del sur y el centro de Europa, el norte de África y el oeste de Asia, y fructifica sobre todo de otoño a finales de invierno. Se cultiva ampliamente, pero la forma cultivada suele tener un pie mucho más alto y grueso y un sombrero más pequeño que el tipo silvestre que se muestra aquí.",
+      "cap": "El sombrero mide 4–15 cm de diámetro (a menudo 5–10 cm). Al principio es convexo, con el margen ligeramente enrollado, luego aplanado hasta poco deprimido o algo infundibuliforme, y a menudo irregular. La superficie es seca, mate y finamente aterciopelada-feltrosa, de un pardo beige claro a un pardo rojizo cálido o grisáceo.",
+      "hymenium": "Las láminas son apretadas, blanquecinas a crema pálido o beige claro, a veces un poco grisáceas o amarillentas con la edad, y profundamente decurrentes, que bajan lejos por el pie. Donde se encuentran con el pie suelen bifurcarse y anastomosarse, formando una red de venas.",
+      "stipe": "El pie mide 2–6 cm de largo y 1–3 cm de grosor (a veces solo 0,5 cm), corto y robusto, central a ligeramente excéntrico, a menudo un poco más ancho arriba y atenuado hacia la base, macizo, blanquecino a crema pálido. No hay anillo ni velo.",
+      "flesh": "La carne es gruesa, firme y blanca en el sombrero y en el pie macizo. El olor es débil y agradable; el sabor, suave.",
+      "sporePrint": "La esporada es blanca. Las esporas son lisas, cilíndrico-elipsoides, de unos 9–14 × 4,5–6,5 µm.",
+      "habitat": "Parásito débil y saprotrofo sobre raíces enterradas de Eryngium campestre y E. maritimum, en pastizales secos calizos o arenosos, dehesas, dunas y taludes ricos en minerales. Los basidiomas aparecen del suelo, aislados o en pequeños grupos, no sobre madera. La temporada principal va de otoño a finales de invierno (septiembre a febrero); en Europa central se indica también verano a otoño, y algunos datos mediterráneos mencionan una fructificación primaveral ocasional. Los demás miembros del complejo crecen sobre raíces de otras umbelíferas y no se tratan aquí.",
+      "uses": "Es un excelente comestible, de carne firme y sabrosa, y se cultiva ampliamente. La forma cultivada suele ser un pie blanco alto y grueso con un sombrero relativamente pequeño, y se diferencia del tipo silvestre de pie corto. Los basidiomas silvestres jóvenes son los mejores; los viejos se endurecen.",
+      "confusion": "La seta de ostra (Pleurotus ostreatus) y el pleuroto del roble (Pleurotus dryinus) crecen sobre madera, no desde el suelo de los pastizales. P. ostreatus tiene un sombrero más liso, a menudo gris azulado, y forma típicamente racimos mayores imbricados; P. dryinus tiene un sombrero blanquecino afeltrado y escamoso y un anillo membranoso fugaz. Pleurotus nebrodensis y Pleurotus ferulaginis, y otros táxones del complejo de P. eryngii, son semejantes pero crecen sobre otras plantas huésped y suelen ser más pálidos. En los pastizales, clitocibes tóxicos de carne delgada como Clitocybe dealbata y Clitocybe rivulosa pueden parecerse de lejos, pero no son aterciopelados y nunca crecen sobre raíces de cardo corredor.",
+      "notes": "Los caracteres más seguros del tipo silvestre son el sombrero pardo grueso, mate y aterciopelado, el pie blanquecino corto y robusto sin anillo ni velo, las láminas crema profundamente decurrentes que se anastomosan en el pie, y el crecimiento desde el suelo sobre raíces de Eryngium en pastizales secos. Se cultiva ampliamente, pero los basidiomas silvestres son más cortos y robustos que la forma comercial.",
+      "names": [
+        "oreja de cardo"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "seta de cardo"
+    },
+    "et": {
+      "description": "Paksulihane, looduslikult kasvav servik, mis kasvab mullast põldohaka (Eryngium campestre) ja meriohaka (Eryngium maritimum) maetud juurtel, kuivadel lubja- või liivarikastel rohumaadel, karjamaadel ja luidetel. Kübar on beežikaspruun kuni punakas või hallikaspruun, matt, kuiv ja peenelt sametine. Jalg on lühike ja jässakas, valkjas, keskmine kuni veidi ekstsentriline, ilma rõngata ja ilma loorita. Tihedad, valkjad kuni kreemjad eoslehekesed laskuvad kaugele jalale ja moodustavad seal sageli võrgustiku. Liik on pärit Lõuna- ja Kesk-Euroopast, Põhja-Aafrikast ja Lääne-Aasiast ning viljub peamiselt sügisest hilistalveni. Seda kasvatatakse laialdaselt, kuid viljelusvormil on tavaliselt palju kõrgem ja jämedam jalg ning väiksem kübar kui siin näidatud loodustüübil.",
+      "cap": "Kübar on 4–15 cm lai (sageli 5–10 cm). Alguses on ta kumer, veidi sisserullunud servaga, hiljem lapik kuni madalalt sissevajunud või veidi lehterjas ja sageli ebakorrapärane. Pind on kuiv, matt ja peenelt sametjas-viltjas, heledalt beežikaspruun kuni soojalt punakaspruun või hallikaspruun.",
+      "hymenium": "Eoslehekesed on tihedad, valkjad kuni kahvatult kreemjad või heledalt beežid, vananedes mõnikord nõrgalt hallikad või kollakad, ja sügavalt jalale laskuvad, kaugele jalale ulatuvad. Seal, kus nad jalaga kohtuvad, hargnevad ja ühinevad nad sageli, moodustades soontevõrgu.",
+      "stipe": "Jalg on 2–6 cm pikk ja 1–3 cm jäme (mõnikord ainult 0,5 cm), lühike ja jässakas, keskmine kuni veidi ekstsentriline, ülalt sageli veidi laiem ja aluse suunas ahenev, täis, valkjas kuni kahvatult kreemjas. Rõngast ega loori ei ole.",
+      "flesh": "Liha on paks, sitke ja valge kübaras ja täis jalas. Lõhn on nõrk ja meeldiv; maitse leebe.",
+      "sporePrint": "Eospulber on valge. Eosed on siledad, silindriliselt ellipsoidse, umbes 9–14 × 4,5–6,5 µm.",
+      "habitat": "Nõrk parasiit ja saprotroof Eryngium campestre ja E. maritimumi maetud juurtel, kuivadel lubja- või liivarikastel rohumaadel, karjamaadel, luidetel ja mineraalirikastel nõlvadel. Viljakehad ilmuvad mullast, üksikult või väikeste rühmadena, mitte puidul. Peak<fim-middle>s hooaeg on sügisest hilistalveni (septembrist veebruarini); Kesk-Euroopas märgitakse ka suvest sügiseni, ja mõned vahemerelised andmed mainivad juhuslikku kevadist viljumist. Teised liigikompleksi liikmed kasvavad teiste sarikaliste juurtel ja neid siin ei käsitleta.",
+      "uses": "See on suurepärane söögiseen, sitke ja maitsva lihaga, ja seda kasvatatakse laialdaselt. Viljelusvorm on tavaliselt kõrge, jäme valge jalg suhteliselt väikese kübaraga ja näeb teistsugune välja kui lühijalgne loodustüüp. Parimad on noored looduslikud viljakehad; vanad muutuvad sitkemaks.",
+      "confusion": "Austerservik (Pleurotus ostreatus) ja loorservik (Pleurotus dryinus) kasvavad puidul, mitte rohumaamullast. P. ostreatusel on siledam, sageli sinakas-hall kübar ja ta moodustab tüüpiliselt suuremaid, katusekivina kattuvaid tuuste; P. dryinusel on viltjas, soomuseline valkjas kübar ja kaduv kilejas rõngas. Pleurotus nebrodensis ja Pleurotus ferulaginis ning teised P. eryngii kompleksi taksonid on sarnased, kuid kasvavad teistel peremeestaimedel ja on sageli kahvatumad. Rohumaadel võivad neile kaugelt sarnaneda õhukeselihalised mürgised lehterikud, näiteks Clitocybe dealbata ja Clitocybe rivulosa, mis ei ole aga sametjad ega kasva iial ohakajuurtel.",
+      "notes": "Loodustüübi kindlaimad tunnused on paks, matt, sametjalt pruun kübar, lühike jässakas valkjas jalg ilma rõnga ja loorita, sügavalt jalale laskuvad kreemjad eoslehekesed, mis ühinevad jalal, ja kasv mullast Eryngiumi juurtel kuival rohumaal. Seda kasvatatakse laialdaselt, kuid looduslikud viljakehad on lühemad ja jässakamad kui poevorm.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516"
+      ],
+      "label": "kuningservik"
+    },
+    "fa": {
+      "description": "یک قارچ صدفی وحشی با گوشت ضخیم که از خاک، روی ریشه‌های مدفون خارزه‌ صحرایی (Eryngium campestre) و خارزه‌ ساحلی (Eryngium maritimum)، در چمنزارهای خشک آهکی یا شنی، چراگاه‌ها و تلماسه‌ها می‌روید. کلاهک بژ-قهوه‌ای تا قرمز-قهوه‌ای یا خاکستری-قهوه‌ای، مات، خشک و مخملی ظریف است. پایه کوتاه و ستبر، مایل به سفید، مرکزی تا کمی خارج از مرکز، بدون حلقه و بدون پرده است. تیغه‌های متراکم مایل به سفید تا کرم‌رنگ دور به پایین پایه امتداد می‌یابند و اغلب در آنجا به شبکه‌ای می‌پیوندند. این گونه بومی جنوب و مرکز اروپا، شمال آفریقا و غرب آسیاست و بیشتر از پاییز تا اواخر زمستان میوه می‌دهد. به‌طور گسترده کشت می‌شود، اما شکل پرورشی معمولاً پایه‌ای بسیار بلندتر و ستبرتر و کلاهکی کوچک‌تر از تیپ وحشی نشان‌داده‌شده در اینجا دارد.",
+      "cap": "قطر کلاهک 4–15 cm است (اغلب 5–10 cm). ابتدا محدب است، با حاشیه کمی به‌داخل‌پیچیده؛ سپس پهن می‌شود، کمی فرورفته یا اندکی قیفی‌شکل می‌گردد و اغلب نامنظم است. سطح خشک، مات و مخملی-نمدی ظریف است، از بژ-قهوه‌ای روشن تا قرمز-قهوه‌ای گرم یا خاکستری-قهوه‌ای.",
+      "hymenium": "تیغه‌ها متراکم، مایل به سفید تا کرم کم‌رنگ یا بژ روشن هستند، گاهی با افزایش سن کمی خاکستری یا مایل به زرد می‌شوند و به‌ژرفی فرورونده‌اند و دور به پایین پایه می‌روند. آنجا که به پایه می‌رسند، اغلب منشعب می‌شوند و به هم می‌پیوندند و شبکه‌ای از رگه‌ها می‌سازند.",
+      "stipe": "پایه 2–6 cm طول و 1–3 cm ضخامت دارد (گاهی فقط 0.5 cm)، کوتاه و ستبر، مرکزی تا کمی خارج از مرکز، اغلب در بالا کمی پهن‌تر و به‌سوی قاعده باریک‌شونده، توپر، مایل به سفید تا کرم کم‌رنگ است. حلقه و پرده وجود ندارد.",
+      "flesh": "گوشت در کلاهک و در پایه توپر، ضخیم، سفت و سفید است. بو ضعیف و خوشایند است؛ طعم ملایم است.",
+      "sporePrint": "اثر هاگ سفید است. هاگ‌ها صاف، استوانه‌ای-بیضوی، حدود 9–14 × 4.5–6.5 µm هستند.",
+      "habitat": "انگل ضعیف و گندروی روی ریشه‌های مدفون Eryngium campestre و E. maritimum در چمنزارهای خشک آهکی یا شنی، چراگاه‌ها، تلماسه‌ها و دامنه‌های غنی از مواد معدنی. اندام‌های بارده از خاک پدیدار می‌شوند، منفرد یا در گروه‌های کوچک، نه روی چوب. فصل اصلی از پاییز تا اواخر زمستان است (سپتامبر تا فوریه)؛ در اروپای مرکزی تابستان تا پاییز نیز ذکر می‌شود و برخی داده‌های مدیترانه‌ای از باردهی بهاری گاه‌به‌گاه سخن می‌گویند. سایر اعضای مجموعه روی ریشه چتریان دیگر می‌رویند و در اینجا بررسی نمی‌شوند.",
+      "uses": "قارچی خوراکی عالی با گوشت سفت و خوش‌طعم است و به‌طور گسترده کشت می‌شود. شکل پرورشی معمولاً پایه‌ای سفید، بلند و ستبر با کلاهکی نسبتاً کوچک است و با تیپ وحشی کوتاه‌پایه تفاوت دارد. اندام‌های بارده جوان وحشی بهترین‌اند؛ پیرها سخت می‌شوند.",
+      "confusion": "قارچ صدفی (Pleurotus ostreatus) و Pleurotus dryinus روی چوب می‌رویند، نه از خاک چمنزار. P. ostreatus کلاهکی هموارتر، اغلب خاکستری مایل به آبی دارد و معمولاً دسته‌های بزرگ‌تر و روی‌هم‌افتاده می‌سازد؛ P. dryinus کلاهکی مایل به سفید، نمدی-پولکی و حلقه‌ای غشایی گذرا دارد. Pleurotus nebrodensis و Pleurotus ferulaginis و سایر آرایه‌های مجموعه P. eryngii مشابه‌اند اما روی گیاهان میزبان دیگر می‌رویند و اغلب رنگ‌پریده‌ترند. در چمنزار، قیفی‌های سمی نازک‌گوشت مانند Clitocybe dealbata و Clitocybe rivulosa ممکن است از دور شبیه به نظر برسند، اما مخملی نیستند و هرگز روی ریشه خارزه نمی‌رویند.",
+      "notes": "مطمئن‌ترین ویژگی‌های تیپ وحشی عبارت‌اند از کلاهک قهوه‌ای ضخیم، مات و مخملی؛ پایه مایل به سفید کوتاه و ستبر بدون حلقه و پرده؛ تیغه‌های کرم‌رنگ به‌ژرفی فرورونده که روی پایه به هم می‌پیوندند؛ و رویش از خاک روی ریشه‌های Eryngium در چمنزار خشک. این همان قارچ صدفی پرورشی آشناست، اما اندام‌های بارده وحشی کوتاه‌تر و ستبرتر از شکل تجاری‌اند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Paksulihaisten, villinä kasvava vinokas, joka nousee maasta kenttätyrakin (Eryngium campestre) ja merityrakin (Eryngium maritimum) haudatuista juurista, kuivilla kalkki- tai hiekkapitoisilla niityillä, laidunmailla ja dyynillä. Lakki on beigenruskea tai punertavan- tai harmaanruskea, himmeä, kuiva ja hienon samettinen. Jalka on lyhyt ja tanakka, valkeahko, keskinen tai hieman sivussa, ilman rengasta ja ilman suojuskalvoa. Tiheät, valkeahkot tai kermanväriset heltat juoksevat pitkälle jalkaa myöten ja muodostavat siinä usein verkon. Laji on kotoisin Etelä- ja Keski-Euroopasta, Pohjois-Afrikasta ja Länsi-Aasiasta ja itiöemii pääasiassa syksystä myöhäiseen talveen. Sitä viljellään laajasti, mutta viljelymuoto on yleensä paljon pidempijalkainen ja pienilakkinen kuin tässä esitetty villityyppi.",
+      "cap": "Lakki on 4–15 cm leveä (usein 5–10 cm). Aluksi se on kupera, hieman sisäänkäärtynein laitamin, sitten litistynyt tai matalasti painunut tai hieman suppiloinen ja usein epäsäännöllinen. Pinta on kuiva, himmeä ja hienon samettisen huopainen, vaalean beigenruskea tai lämpimän punaruskea tai harmaanruskea.",
+      "hymenium": "Heltat ovat tiheitä, valkeahkoja tai vaalean kermanvärisiä tai vaaleanbeigejä, vanhetessaan joskus heikosti harmahtavia tai kellertäviä, ja syvästi jalkaan juoksevia, pitkälle jalkaa myöten ulottuvia. Siinä missä ne kohtaavat jalan, ne usein haarautuvat ja yhtyvät muodostaen suoniverkon.",
+      "stipe": "Jalka on 2–6 cm pitkä ja 1–3 cm paksu (satunnaisesti vain 0,5 cm), lyhyt ja tanakka, keskinen tai hieman sivussa, ylhäältä usein hieman leveämpi ja tyveä kohti kapeneva, umpinainen, valkeahko tai vaalean kermanvärinen. Renkasta eikä suojuskalvoa ole.",
+      "flesh": "Malto on paksu, kiinteä ja valkoinen lakissa ja umpinaisessa jalassa. Tuoksu on heikko ja miellyttävä; maku mieto.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat sileitä, lieriömäisen ellipsoideja, noin 9–14 × 4,5–6,5 µm.",
+      "habitat": "Heikko loinen ja saprotrofi Eryngium campestren ja E. maritimumin haudatuissa juurissa, kuivilla kalkki- tai hiekkapitoisilla niityillä, laidunmailla, dyynillä ja mineraalipitoisilla penkereillä. Itiöemät nousevat maasta, yksittäin tai pieninä ryhminä, ei puulla. Pääkausi on syksystä myöhäiseen talveen (syyskuusta helmikuuhun); Keski-Euroopassa mainitaan myös kesä–syksy, ja joissakin välimerellisissä tiedoissa satunnaista keväistä itiöemistä. Muut lajikompleksin edustajat kasvavat muiden sarjakukkaiskasvien juurissa eikä niitä käsitellä tässä.",
+      "uses": "Se on erinomainen ruokasieni, jonka malto on kiinteää ja maukasta, ja sitä viljellään laajasti. Viljelymuoto on yleensä korkea, paksu valkoinen jalka, jossa on suhteellisen pieni lakki, ja se näyttää erilaiselta kuin lyhytjalkainen villityyppi. Parhaita ovat nuoret villit itiöemät; vanhat sitkistyvät.",
+      "confusion": "Osterivinokas (Pleurotus ostreatus) ja rengasvinokas (Pleurotus dryinus) kasvavat puulla, eivät niittymaasta. P. ostreatuksella on sileämpi, usein sinertävänharmaa lakki, ja se muodostaa tyypillisesti suurempia, limittäisiä kimppuja; P. dryinuksella on huopainen, suomuinen valkeahko lakki ja katoava kalvomainen rengas. Pleurotus nebrodensis ja Pleurotus ferulaginis sekä muut P. eryngii -kompleksin taksonit ovat samankaltaisia, mutta kasvavat eri isäntäkasveilla ja ovat usein vaaleampia. Niityillä etäisesti samankaltaisia voivat olla ohutmaltoiset myrkylliset suppilomaiset, kuten Clitocybe dealbata ja Clitocybe rivulosa, jotka eivät kuitenkaan ole samettisia eivätkä koskaan kasva tyrakin juurista.",
+      "notes": "Villityypin varmimmat tuntomerkit ovat paksu, himmeä, sametinruskea lakki, lyhyt tanakka valkeahko jalka ilman rengasta ja suojuskalvoa, syvästi jalkaan juoksevat kermanväriset heltat, jotka yhtyvät jalassa, sekä kasvu maasta Eryngium-juurilla kuivalla niityllä. Sitä viljellään laajasti, mutta villit itiöemät ovat lyhyempiä ja tanakampia kuin kaupan muoto.",
+      "names": [
+        "kuningasvinokas"
+      ],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Kuningasosterivinokas",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "kuningasosterivinokas"
+    },
+    "fr": {
+      "description": "Un pleurote sauvage à chair épaisse qui pousse du sol sur les racines enterrées du panicaut champêtre (Eryngium campestre) et du panicaut maritime (Eryngium maritimum), dans les pelouses sèches calcaires ou sablonneuses, les pâturages et les dunes. Le chapeau est beige-brun à brun rougeâtre ou gris-brun, mat, sec et finement velouté. Le pied est court et trapu, blanchâtre, central à légèrement excentré, sans anneau ni voile. Les lames serrées, blanchâtres à crème, descendent loin sur le pied et s'y anastomosent souvent en un réseau. L'espèce est indigène en Europe méridionale et centrale, en Afrique du Nord et en Asie occidentale, et fructifie surtout de l'automne à la fin de l'hiver. Elle est largement cultivée, mais la forme cultivée a généralement un pied beaucoup plus haut et plus épais et un chapeau plus petit que le type sauvage représenté ici.",
+      "cap": "Le chapeau mesure 4–15 cm de diamètre (souvent 5–10 cm). D'abord convexe, à marge un peu enroulée, il s'aplatit ensuite, devient légèrement déprimé ou un peu infundibuliforme, et est souvent irrégulier. La surface est sèche, mate et finement veloutée-feutrée, d'un beige-brun clair à un brun rougeâtre chaud ou un gris-brun.",
+      "hymenium": "Les lames sont serrées, blanchâtres à crème pâle ou beige clair, parfois un peu grisâtres ou jaunâtres avec l'âge, et profondément décurrentes, descendant loin sur le pied. À leur rencontre avec le pied, elles se fourchent et s'anastomosent souvent, formant un réseau de veines.",
+      "stipe": "Le pied mesure 2–6 cm de long et 1–3 cm d'épaisseur (parfois seulement 0,5 cm), court et trapu, central à légèrement excentré, souvent un peu plus large au sommet et atténué vers la base, plein, blanchâtre à crème pâle. Il n'y a ni anneau ni voile.",
+      "flesh": "La chair est épaisse, ferme et blanche dans le chapeau et dans le pied plein. L'odeur est faible et agréable; la saveur est douce.",
+      "sporePrint": "La sporée est blanche. Les spores sont lisses, cylindrico-ellipsoïdes, d'environ 9–14 × 4,5–6,5 µm.",
+      "habitat": "Parasite faible et saprotrophe sur les racines enterrées d'Eryngium campestre et d'E. maritimum, dans les pelouses sèches calcaires ou sablonneuses, les pâturages, les dunes et les talus riches en minéraux. Les sporophores apparaissent du sol, isolés ou en petits groupes, et non sur le bois. La saison principale va de l'automne à la fin de l'hiver (septembre à février); en Europe centrale on indique aussi l'été à l'automne, et certaines mentions méditerranéennes signalent une fructification printanière occasionnelle. Les autres membres du complexe poussent sur les racines d'autres ombellifères et ne sont pas traités ici.",
+      "uses": "C'est un excellent comestible, à chair ferme et savoureuse, largement cultivé. La forme cultivée est généralement un pied blanc haut et épais à chapeau relativement petit, et elle diffère du type sauvage à pied court. Les jeunes sporophores sauvages sont les meilleurs; les vieux durcissent.",
+      "confusion": "Le pleurote en huître (Pleurotus ostreatus) et le pleurote du chêne (Pleurotus dryinus) poussent sur le bois, et non à partir du sol des pelouses. P. ostreatus a un chapeau plus lisse, souvent gris bleuté, et forme typiquement de plus grandes touffes imbriquées; P. dryinus a un chapeau blanchâtre feutré et écailleux et un anneau membraneux fugace. Pleurotus nebrodensis et Pleurotus ferulaginis, ainsi que d'autres taxons du complexe de P. eryngii, sont semblables mais poussent sur d'autres plantes hôtes et sont souvent plus pâles. Dans les pelouses, des clitocybes toxiques à chair mince comme Clitocybe dealbata et Clitocybe rivulosa peuvent vaguement ressembler, mais ils ne sont pas veloutés et ne poussent jamais sur les racines de panicaut.",
+      "notes": "Les caractères les plus sûrs du type sauvage sont le chapeau brun épais, mat et velouté, le pied blanchâtre court et trapu sans anneau ni voile, les lames crème profondément décurrentes qui s'anastomosent sur le pied, et la croissance à partir du sol sur les racines d'Eryngium dans les pelouses sèches. Elle est largement cultivée, mais les sporophores sauvages sont plus courts et plus trapus que la forme commerciale.",
+      "names": [
+        "pleurote de l'Eryngium",
+        "oreille de chardon"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://fr.wikipedia.org/wiki/Pleurotus_eryngii",
+        "https://www.fungi.fr/Html/pleerng_descript.html"
+      ],
+      "label": "pleurote du panicaut"
+    },
+    "he": {
+      "description": "פטריית צדפה בר בעלת בשר עבה, הגדלה מן הקרקע על שורשים קבורים של חרחבינה שדה (Eryngium campestre) וחרחבינה חופית (Eryngium maritimum) באחו יבש גירי או חולי, במרעה ובחולות. הכובע בצבע חום-בז' עד חום-אדמדם או אפור-חום, מט, יבש וקטיפתי דק. הרגל קצרה ועבה, לבנבנה, מרכזית עד מעט אקסצנטרית, בלי טבעת ובלי מעטה. הדפים הצפופים, לבנבנים עד קרם, יורדים רחוק לאורך הרגל ושם מתאחים לעיתים לרשת. המין מצוי בדרום ובמרכז אירופה, בצפון אפריקה ובמערב אסיה, ומניב בעיקר מן הסתיו ועד סוף החורף. הוא מגודל בהרחבה, אך לצורה המתורבתת יש בדרך כלל רגל גבוהה ועבה בהרבה וכובע קטן יותר מאשר לטיפוס הבר המוצג כאן.",
+      "cap": "קוטר הכובע 4–15 cm (לעיתים קרובות 5–10 cm). תחילה הוא קמור, בשוליים מעוגלים מעט פנימה, אחר כך משתטח, נעשה שקוע במקצת או מעט דמוי משפך, ולעיתים קרובות אינו סדיר. פני השטח יבשים, מטים וקטיפתיים-לְבַדִּיים דקים, בצבע חום-בז' בהיר עד חום-אדמדם חם או אפור-חום.",
+      "hymenium": "הדפים צפופים, לבנבנים עד קרם חיוור או בז' בהיר, ולפעמים מעט אפרפרים או צהבהבים עם הגיל, ויורדים עמוקות, רחוק לאורך הרגל. במקום שהם פוגשים את הרגל הם מתפצלים ומתאחים לעיתים קרובות ויוצרים רשת של ורידים.",
+      "stipe": "הרגל באורך 2–6 cm ובעובי 1–3 cm (לפעמים רק 0.5 cm), קצרה ועבה, מרכזית עד מעט אקסצנטרית, לעיתים קרובות מעט רחבה יותר למעלה וצרה כלפי הבסיס, מלאה, לבנבנה עד קרם חיוור. אין טבעת ואין מעטה.",
+      "flesh": "הבשר עבה, מוצק ולבן בכובע וברגל המלאה. הריח חלש ונעים; הטעם עדין.",
+      "sporePrint": "אבקת הנבגים לבנה. הנבגים חלקים, גליליים-אליפסואידיים, בערך 9–14 × 4.5–6.5 µm.",
+      "habitat": "טפיל חלש וספרוטרוף על שורשים קבורים של Eryngium campestre ו-E. maritimum באחו יבש גירי או חולי, במרעה, בחולות ובמדרונות עשירים במינרלים. גופי הפרי מופיעים מן הקרקע, בודדים או בקבוצות קטנות, לא על עץ. העונה העיקרית היא מן הסתיו ועד סוף החורף (ספטמבר עד פברואר); במרכז אירופה מציינים גם קיץ–סתיו, ונתונים ים-תיכוניים אחדים מזכירים הבאת פרי אביבית מזדמנת. שאר בני המכלול גדלים על שורשי סוככיים אחרים ואינם נידונים כאן.",
+      "uses": "זו פטרייה אכילה מצוינת, בעלת בשר מוצק וטעים, והיא מגודלת בהרחבה. הצורה המתורבתת היא בדרך כלל רגל לבנה גבוהה ועבה עם כובע קטן יחסית, והיא שונה מן הטיפוס הבר בעל הרגל הקצרה. גופי הפרי הצעירים של הבר הם הטובים ביותר; הזקנים מתקשים.",
+      "confusion": "אזנית צדף (Pleurotus ostreatus) ו-Pleurotus dryinus גדלים על עץ, לא מן הקרקע של האחו. ל-P. ostreatus כובע חלק יותר, לעיתים קרובות אפור-כחלחל, והוא יוצר בדרך כלל אשכולות גדולים יותר וחופפים; ל-P. dryinus כובע לבנבן לבדי-קשקשי וטבעת קרומית חולפת. Pleurotus nebrodensis ו-Pleurotus ferulaginis, וכן טקסונים אחרים במכלול של P. eryngii, דומים אך גדלים על צמחי פונדקאי אחרים ולעיתים קרובות חיוורים יותר. באחו עלולים להידמות מרחוק פטריות משפך רעילות דקות-בשר כגון Clitocybe dealbata ו-Clitocybe rivulosa, שאינן קטיפתיות ומעולם אינן גדלות על שורשי חרחבינה.",
+      "notes": "הסימנים הבטוחים ביותר של טיפוס הבר הם הכובע החום העבה, המט והקטיפתי, הרגל הלבנבנה הקצרה והעבה בלי טבעת ובלי מעטה, הדפים בצבע קרם היורדים עמוקות ומתאחים על הרגל, והגידול מן הקרקע על שורשי Eryngium באחו יבש. זו פטריית הצדפה המתורבתת המוכרת, אך גופי הפרי של הבר קצרים ועבים יותר מן הצורה המסחרית.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "אוזנית הכלך"
+    },
+    "hi": {
+      "description": "एक जंगली, मोटे गूदे वाला सीप कवक, जो शुष्क चूना पत्थर या रेतीले घास के मैदानों, चरागाहों और टिब्बों में खेत एरिंजियम (Eryngium campestre) और समुद्री एरिंजियम (Eryngium maritimum) की दबी जड़ों पर मिट्टी से निकलता है। टोपी बेज-भूरे से लाल-भूरे या धूसर-भूरे रंग की, मैट, सूखी और बारीक मखमली होती है। डंठल छोटा और मोटा, सफ़ेद-सा, केंद्रीय से थोड़ा विलक्षण, बिना वलय और बिना आवरण के होता है। घनी, सफ़ेद-सी से क्रीम रंग की गिल्स डंठल पर दूर तक नीचे उतरती हैं और वहाँ अक्सर जाल में जुड़ जाती हैं। यह जाति दक्षिणी और मध्य यूरोप, उत्तर अफ़्रीका और पश्चिम एशिया की मूल निवासी है और मुख्यतः शरद से देर सर्दियों तक फलन-काय बनाती है। इसे व्यापक रूप से उगाया जाता है, पर उगाया गया रूप आमतौर पर यहाँ दिखाए गए जंगली प्रकार से कहीं ऊँचा और मोटा डंठल तथा छोटी टोपी रखता है।",
+      "cap": "टोपी 4–15 cm व्यास की होती है (अक्सर 5–10 cm)। पहले यह उत्तल होती है, किनारा थोड़ा अंदर मुड़ा होता है; फिर चपटी हो जाती है, हल्की धँसी या थोड़ी कीप जैसी बनती है, और अक्सर अनियमित होती है। सतह सूखी, मैट और बारीक मखमली-महसूसी होती है, हल्के बेज-भूरे से गरम लाल-भूरे या धूसर-भूरे रंग तक।",
+      "hymenium": "गिल्स घनी होती हैं, सफ़ेद-सी से फीकी क्रीम या हल्के बेज रंग की, उम्र के साथ कभी-कभी थोड़ी धूसर या पीली, और गहरी अधोमुखी, जो डंठल पर दूर तक उतरती हैं। जहाँ वे डंठल से मिलती हैं, वहाँ अक्सर शाखाएँ बनाती और जुड़ती हैं, शिराओं का जाल बनाती हैं।",
+      "stipe": "डंठल 2–6 cm लंबा और 1–3 cm मोटा होता है (कभी-कभी केवल 0.5 cm), छोटा और मोटा, केंद्रीय से थोड़ा विलक्षण, ऊपर अक्सर थोड़ा चौड़ा और आधार की ओर पतला, ठोस, सफ़ेद-सा से फीका क्रीम। न वलय है, न आवरण।",
+      "flesh": "गूदा टोपी और ठोस डंठल में मोटा, सख्त और सफ़ेद होता है। गंध हल्की और सुखद है; स्वाद मृदु है।",
+      "sporePrint": "बीजाणु-छाप सफ़ेद होती है। बीजाणु चिकने, बेलनाकार-दीर्घवृत्ताकार, लगभग 9–14 × 4.5–6.5 µm होते हैं।",
+      "habitat": "Eryngium campestre और E. maritimum की दबी जड़ों पर दुर्बल परजीवी और मृतोपजीवी, शुष्क चूना पत्थर या रेतीले घास के मैदानों, चरागाहों, टिब्बों और खनिज-समृद्ध ढलानों में। फलन-काय मिट्टी से निकलते हैं, अकेले या छोटे समूहों में, लकड़ी पर नहीं। मुख्य मौसम शरद से देर सर्दी तक है (सितंबर से फ़रवरी); मध्य यूरोप में ग्रीष्म–शरद भी बताया जाता है, और कुछ भूमध्यसागरीय आँकड़े कभी-कभार वसंत फलन का उल्लेख करते हैं। समूह के अन्य सदस्य अन्य छत्राकार पौधों की जड़ों पर उगते हैं और यहाँ नहीं लिए गए।",
+      "uses": "यह एक उत्कृष्ट खाद्य कवक है, सख्त और स्वादिष्ट गूदे वाला, और इसे व्यापक रूप से उगाया जाता है। उगाया गया रूप आमतौर पर अपेक्षाकृत छोटी टोपी वाला ऊँचा, मोटा सफ़ेद डंठल होता है और छोटे डंठल वाले जंगली प्रकार से भिन्न दिखता है। जंगली युवा फलन-काय सबसे अच्छे होते हैं; पुराने कठोर हो जाते हैं।",
+      "confusion": "सीप कवक (Pleurotus ostreatus) और Pleurotus dryinus लकड़ी पर उगते हैं, घास के मैदान की मिट्टी से नहीं। P. ostreatus की टोपी अधिक चिकनी, अक्सर नीली-धूसर होती है, और वह आमतौर पर बड़े, एक-दूसरे पर चढ़े गुच्छे बनाता है; P. dryinus की टोपी सफ़ेद-सी महसूसी-शल्कित होती है और एक क्षणिक झिल्लीदार वलय होता है। Pleurotus nebrodensis और Pleurotus ferulaginis, तथा P. eryngii समूह के अन्य वर्गक मिलते-जुलते हैं, पर अन्य परपोषी पौधों पर उगते हैं और अक्सर अधिक फीके होते हैं। घास के मैदानों में पतले गूदे वाले विषैले कीप कवक, जैसे Clitocybe dealbata और Clitocybe rivulosa, दूर से मिलते-जुलते लग सकते हैं, पर वे मखमली नहीं होते और एरिंजियम की जड़ों पर कभी नहीं उगते।",
+      "notes": "जंगली प्रकार के सबसे विश्वसनीय लक्षण हैं मोटी, मैट, मखमली भूरी टोपी; बिना वलय और आवरण का छोटा मोटा सफ़ेद-सा डंठल; गहरी अधोमुखी क्रीम गिल्स जो डंठल पर जुड़ती हैं; और शुष्क घास के मैदान में Eryngium की जड़ों पर मिट्टी से उगना। यह परिचित उगाया गया सीप कवक है, पर जंगली फलन-काय व्यापारिक रूप से छोटे और मोटे होते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mesnata, divlje rastuća bukovača koja raste iz tla na zakopanim korijenima poljskog kotrljana (Eryngium campestre) i primorskog kotrljana (Eryngium maritimum), na suhim vapnenastim ili pjeskovitim travnjacima, pašnjacima i dinama. Klobuk je bež smeđ do crvenkasto ili sivosmeđ, mat, suh i fino baršunast. Stručak je kratak i debeo, bjelkast, središnji do malo ekscentričan, bez prstena i bez vela. Gusti, bjelkasti do krem listići daleko silaze niz stručak i ondje se često spajaju u mrežicu. Vrsta je autohtona u južnoj i srednjoj Europi, u sjevernoj Africi i u zapadnoj Aziji te plodi uglavnom od jeseni do kasne zime. Široko se uzgaja, ali uzgojni oblik obično ima znatno viši i deblji stručak i manji klobuk od ovdje prikazanog divljeg tipa.",
+      "cap": "Klobuk ima 4–15 cm u promjeru (često 5–10 cm). Isprva je ispupčen, s blago podvinutim rubom, zatim spljošten do plitko udubljen ili malo lijevkast i često nepravilan. Površina je suha, mat i fino baršunasto-filcasta, svijetlo bež smeđa do toplo crvenkastosmeđa ili sivosmeđa.",
+      "hymenium": "Listići su gusti, bjelkasti do blijedo krem ili svijetlo bež, u starosti ponekad slabo sivkasti ili žućkasti, i duboko silazni, daleko silaze niz stručak. Ondje gdje se spajaju sa stručkom često se granaju i povezuju, tvoreći mrežicu žilica.",
+      "stipe": "Stručak je 2–6 cm dug i 1–3 cm debeo (rijetko samo 0,5 cm), kratak i debeo, središnji do malo ekscentričan, gore često malo širi i sužen prema dnu, pun, bjelkast do blijedo krem. Nema prstena ni vela.",
+      "flesh": "Meso je debelo, čvrsto i bijelo u klobuku i u punom stručku. Miris je slab i ugodan; okus blag.",
+      "sporePrint": "Otisak spora je bijel. Spore su glatke, cilindrično elipsoidne, oko 9–14 × 4,5–6,5 µm.",
+      "habitat": "Slab parazit i saprotrof na zakopanim korijenima Eryngium campestre i E. maritimum, na suhim vapnenastim ili pjeskovitim travnjacima, pašnjacima, dinama i mineralno bogatim padinama. Plodišta izrastaju iz tla, pojedinačno ili u malim skupinama, ne na drvu. Glavna sezona je jesen do kasne zime (rujan do veljače); u srednjoj Europi navodi se i ljeto do jeseni, a neki sredozemni podatci spominju povremeno proljetno plodonošenje. Ostali predstavnici kompleksa rastu na korijenima drugih štitarki i ovdje se ne obrađuju.",
+      "uses": "Izvrsna je jestiva gljiva, čvrsta i ukusna, i široko se uzgaja. Uzgojni oblik obično je visok, debeo bijeli stručak s razmjerno malim klobukom i izgleda drukčije od kratkostručkavog divljeg tipa. Najbolja su mlada divlja plodišta; stara otvrdnu.",
+      "confusion": "Bukovača (Pleurotus ostreatus) i Pleurotus dryinus rastu na drvu, ne iz travnjačkog tla. P. ostreatus ima glađi, često plavkasto siv klobuk i tipično tvori veće, preklapajuće svežnjeve; P. dryinus ima filcast, ljusnat bjelkast klobuk i prolazan opnast prsten. Pleurotus nebrodensis i Pleurotus ferulaginis te drugi taksoni kompleksa P. eryngii slični su, ali rastu na drugim domaćinima i često su svjetliji. Na travnjacima im nalikuju tankomesnate otrovne lijevke, na primjer Clitocybe dealbata i Clitocybe rivulosa, koje međutim nisu baršunaste i nikad ne rastu iz korijena kotrljana.",
+      "notes": "Najpouzdanija obilježja divljeg tipa su debeo, mat, baršunasto smeđ klobuk, kratak debeo bjelkast stručak bez prstena i vela, duboko silazni krem listići povezani na stručku te rast iz tla na korijenima kotrljana na suhim travnjacima. To je poznata uzgojna gljiva, ali divlja plodišta su kraća i čokata od trgovačkog oblika.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Vad, vastag húsú laskagomba, amely a talajból nő a mezei iringó (Eryngium campestre) és a tengerparti iringó (Eryngium maritimum) eltemetett gyökerein, száraz meszes vagy homokos gyepekben, legelőkön és dűnéken. A kalap bézsbarna vagy vöröses- illetve szürkésbarna, matt, száraz és finoman bársonyos. A tönk rövid és zömök, fehéres, középen álló vagy enyhén excentrikus, gyűrű és burok nélkül. A sűrű, fehéres vagy krémszínű lemezek messze lefutnak a tönkön, és ott gyakran hálózatban egyesülnek. A faj Dél- és Közép-Európában, Észak-Afrikában és Nyugat-Ázsiában honos, és elsősorban ősz végétől késő télig termőtestet hoz. Széles körben termesztik, de a termesztett forma általában sokkal magasabb és vastagabb tönkű, kisebb kalapú, mint az itt bemutatott vad típus.",
+      "cap": "A kalap 4–15 cm átmérőjű (gyakran 5–10 cm). Először domború, enyhén begöngyölt szélű, majd ellaposodik, sekélyen bemélyedő vagy kissé tölcséres lesz, és gyakran szabálytalan. A felszín száraz, matt és finoman bársonyos-nemezes, világos bézsbarna vagy meleg vörösesbarna, illetve szürkésbarna.",
+      "hymenium": "A lemezek sűrűek, fehéresek vagy halvány krémszínűek, illetve világos bézsek, korral néha kissé szürkés vagy sárgás árnyalatúak, és mélyen lefutók, messze a tönkre kiterjedők. Ahol a tönkkel találkoznak, gyakran elágaznak és összefutnak, erezetes hálózatot alkotva.",
+      "stipe": "A tönk 2–6 cm hosszú és 1–3 cm vastag (néha csak 0,5 cm), rövid és zömök, középen álló vagy enyhén excentrikus, felül gyakran kissé szélesebb és a töve felé keskenyedő, telt, fehéres vagy halvány krémszínű. Nincs gyűrű és nincs burok.",
+      "flesh": "A hús vastag, kemény és fehér a kalapban és a telt tönkben. A szag gyenge és kellemes; az íz enyhe.",
+      "sporePrint": "A spórapor fehér. A spórák simák, hengeres-elliptikusak, körülbelül 9–14 × 4,5–6,5 µm.",
+      "habitat": "Gyenge parazita és szaprotróf az Eryngium campestre és az E. maritimum eltemetett gyökerein, száraz meszes vagy homokos gyepekben, legelőkön, dűnéken és ásványi anyagokban gazdag rézsűkön. A termőtestek a talajból jelennek meg, magánosan vagy kis csoportokban, nem fán. A fő szezon ősz végétől késő télig tart (szeptember–február); Közép-Európában a nyár–őszt is megadják, egyes mediterrán adatok pedig ritka tavaszi termőtestképzést említenek. A komplexum többi tagja más ernyősvirágzatúak gyökerén nő, és itt nem tárgyaljuk őket.",
+      "uses": "Kiváló ehető gomba, kemény, ízletes hússal, és széles körben termesztik. A termesztett forma általában magas, vastag fehér tönk viszonylag kis kalappal, és eltér a rövid tönkű vad típustól. A fiatal vad termőtestek a legjobbak; az öregek megkeményednek.",
+      "confusion": "A késői laskagomba (Pleurotus ostreatus) és a pihés laskagomba (Pleurotus dryinus) fán nőnek, nem a gyep talajából. A P. ostreatus simább, gyakran kékes-szürke kalapú, és tipikusan nagyobb, egymást fedő csomókban nő; a P. dryinus fehéres, nemezes-pikkelyes kalapú, és gyorsan eltűnő hártyás gyűrűje van. A Pleurotus nebrodensis és a Pleurotus ferulaginis, valamint a P. eryngii-komplexum egyéb taxonjai hasonlók, de más gazdanövényeken nőnek, és gyakran halványabbak. Gyepeken távolról hasonlíthatnak vékony húsú, mérgező tölcsérgombák, például a Clitocybe dealbata és a Clitocybe rivulosa, amelyek azonban nem bársonyosak, és soha nem nőnek iringógyökereken.",
+      "notes": "A vad típus legbiztosabb bélyegei a vastag, matt, bársonyos barna kalap, a rövid, zömök, fehéres tönk gyűrű és burok nélkül, a mélyen lefutó krémszínű, a tönkön összefutó lemezek, és a talajból, Eryngium-gyökereken, száraz gyepben való növekedés. Ez a jól ismert termesztett laskagomba, de a vad termőtestek rövidebbek és zömökebbek, mint a kereskedelmi forma.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://hu.wikipedia.org/wiki/%C3%96rd%C3%B6gszek%C3%A9r-laskagomba",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "ördögszekér-laskagomba"
+    },
+    "id": {
+      "description": "Jamur tiram liar berdaging tebal yang tumbuh dari tanah pada akar terkubur Eryngium campestre dan Eryngium maritimum, di padang rumput kering berkapur atau berpasir, padang penggembalaan, dan bukit pasir. Tudung berwarna cokelat-beige hingga cokelat kemerahan atau cokelat keabu-abuan, kusam, kering, dan berbulu beludru halus. Tangkai pendek dan kekar, keputihan, sentral hingga sedikit eksentrik, tanpa cincin dan tanpa selubung. Insang rapat, keputihan hingga krem, menurun jauh di sepanjang tangkai dan di situ sering beranastomosis menjadi jaring. Spesies ini asli Eropa Selatan dan Tengah, Afrika Utara, dan Asia Barat, dan berbuah terutama dari musim gugur hingga akhir musim dingin. Ia banyak dibudidayakan, tetapi bentuk budidaya biasanya memiliki tangkai yang jauh lebih tinggi dan lebih tebal serta tudung yang lebih kecil daripada tipe liar yang ditunjukkan di sini.",
+      "cap": "Tudung berdiameter 4–15 cm (sering 5–10 cm). Mula-mula cembung, dengan tepi sedikit terlipat ke dalam, kemudian menjadi pipih hingga sedikit cekung atau agak berbentuk corong, dan sering tidak beraturan. Permukaan kering, kusam, dan berbulu beludru-felt halus, cokelat-beige muda hingga cokelat kemerahan hangat atau cokelat keabu-abuan.",
+      "hymenium": "Insang rapat, keputihan hingga krem pucat atau beige muda, kadang sedikit keabu-abuan atau kekuningan seiring usia, dan sangat dekurens, menurun jauh di sepanjang tangkai. Di tempat bertemu tangkai, insang sering bercabang dan beranastomosis, membentuk jaring urat.",
+      "stipe": "Tangkai sepanjang 2–6 cm dan setebal 1–3 cm (kadang hanya 0,5 cm), pendek dan kekar, sentral hingga sedikit eksentrik, sering sedikit lebih lebar di atas dan meruncing ke arah pangkal, padat, keputihan hingga krem pucat. Tidak ada cincin maupun selubung.",
+      "flesh": "Daging tebal, padat, dan putih pada tudung dan pada tangkai yang padat. Bau lemah dan menyenangkan; rasa lembut.",
+      "sporePrint": "Jejak spora berwarna putih. Spora halus, silindris-elipsoid, sekitar 9–14 × 4,5–6,5 µm.",
+      "habitat": "Parasit lemah dan saprotrof pada akar terkubur Eryngium campestre dan E. maritimum, di padang rumput kering berkapur atau berpasir, padang penggembalaan, bukit pasir, dan lereng kaya mineral. Badan buah muncul dari tanah, sendiri-sendiri atau dalam kelompok kecil, bukan pada kayu. Musim utama adalah dari musim gugur hingga akhir musim dingin (September hingga Februari); di Eropa Tengah musim panas hingga musim gugur juga disebutkan, dan beberapa data Mediterania menyebut pembuahan musim semi yang kadang-kadang. Anggota lain kompleks ini tumbuh pada akar tumbuhan berpayung lain dan tidak dibahas di sini.",
+      "uses": "Ini adalah jamur pangan yang unggul, berdaging padat dan enak, dan banyak dibudidayakan. Bentuk budidaya biasanya berupa tangkai putih yang tinggi dan tebal dengan tudung yang relatif kecil, dan berbeda dari tipe liar bertangkai pendek. Badan buah liar yang muda adalah yang terbaik; yang tua menjadi keras.",
+      "confusion": "Jamur tiram (Pleurotus ostreatus) dan Pleurotus dryinus tumbuh pada kayu, bukan dari tanah padang rumput. P. ostreatus memiliki tudung yang lebih halus, sering keabu-abuan kebiruan, dan biasanya membentuk rumpun yang lebih besar dan saling tumpang tindih; P. dryinus memiliki tudung keputihan yang berbulu felt dan bersisik serta cincin selaput yang cepat hilang. Pleurotus nebrodensis dan Pleurotus ferulaginis, serta takson lain dalam kompleks P. eryngii, serupa tetapi tumbuh pada tumbuhan inang lain dan sering lebih pucat. Di padang rumput, jamur corong beracun berdaging tipis seperti Clitocybe dealbata dan Clitocybe rivulosa mungkin tampak mirip dari jauh, tetapi tidak berbulu beludru dan tidak pernah tumbuh pada akar Eryngium.",
+      "notes": "Ciri paling andal dari tipe liar adalah tudung cokelat yang tebal, kusam, dan berbulu beludru; tangkai keputihan yang pendek dan kekar tanpa cincin maupun selubung; insang krem yang sangat dekurens dan beranastomosis pada tangkai; serta pertumbuhan dari tanah pada akar Eryngium di padang rumput kering. Ini adalah jamur tiram budidaya yang dikenal, tetapi badan buah liar lebih pendek dan lebih kekar daripada bentuk komersial.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un pleuroto selvatico a carne spessa che cresce dal suolo sulle radici interrate del calcatreppolo campestre (Eryngium campestre) e del calcatreppolo marittimo (Eryngium maritimum), in praterie secche calcaree o sabbiose, pascoli e dune. Il cappello è beige-bruno fino a bruno-rossastro o grigio-bruno, opaco, asciutto e finemente vellutato. Il gambo è corto e tozzo, biancastro, centrale o lievemente eccentrico, senza anello né velo. Le lamelle fitte, biancastre o crema, decorrono lontano sul gambo e vi si anastomizzano spesso in una rete. La specie è nativa dell'Europa meridionale e centrale, del Nord Africa e dell'Asia occidentale, e fruttifica soprattutto dall'autunno al tardo inverno. È ampiamente coltivata, ma la forma coltivata ha di solito un gambo molto più alto e spesso e un cappello più piccolo del tipo selvatico qui raffigurato.",
+      "cap": "Il cappello misura 4–15 cm di diametro (spesso 5–10 cm). Dapprima è convesso, con il margine lievemente involuto, poi appiattito fino a debolmente depresso o un poco infundibuliforme, e spesso irregolare. La superficie è asciutta, opaca e finemente vellutato-feltrosa, di un beige-bruno chiaro fino a un bruno-rossastro caldo o grigio-bruno.",
+      "hymenium": "Le lamelle sono fitte, biancastre o crema pallido o beige chiaro, talvolta un po' grigiastre o giallastre con l'età, e profondamente decorrenti, che scendono lontano sul gambo. Dove incontrano il gambo si biforcano e si anastomizzano spesso, formando una rete di vene.",
+      "stipe": "Il gambo misura 2–6 cm di lunghezza e 1–3 cm di spessore (talvolta solo 0,5 cm), corto e tozzo, centrale o lievemente eccentrico, spesso un po' più largo in alto e attenuato verso la base, pieno, biancastro o crema pallido. Non vi è anello né velo.",
+      "flesh": "La carne è spessa, soda e bianca nel cappello e nel gambo pieno. L'odore è debole e gradevole; il sapore è mite.",
+      "sporePrint": "La sporata è bianca. Le spore sono lisce, cilindrico-ellissoidali, di circa 9–14 × 4,5–6,5 µm.",
+      "habitat": "Parassita debole e saprotrofo sulle radici interrate di Eryngium campestre e E. maritimum, in praterie secche calcaree o sabbiose, pascoli, dune e scarpate ricche di minerali. I basidiomi compaiono dal suolo, isolati o in piccoli gruppi, non sul legno. La stagione principale va dall'autunno al tardo inverno (settembre–febbraio); in Europa centrale si indica anche l'estate-autunno, e alcune segnalazioni mediterranee menzionano una fruttificazione primaverile occasionale. Gli altri membri del complesso crescono sulle radici di altre ombrellifere e non sono trattati qui.",
+      "uses": "È un eccellente commestibile, a carne soda e saporita, ed è ampiamente coltivato. La forma coltivata è di solito un gambo bianco alto e spesso con un cappello relativamente piccolo, e differisce dal tipo selvatico a gambo corto. I basidiomi selvatici giovani sono i migliori; i vecchi induriscono.",
+      "confusion": "Il gelone (Pleurotus ostreatus) e Pleurotus dryinus crescono sul legno, non dal suolo dei prati. P. ostreatus ha un cappello più liscio, spesso grigio bluastro, e forma tipicamente cespi maggiori imbricati; P. dryinus ha un cappello biancastro feltroso e squamoso e un anello membranoso fugace. Pleurotus nebrodensis e Pleurotus ferulaginis, e altri taxa del complesso di P. eryngii, sono simili ma crescono su altre piante ospiti e sono spesso più chiari. Nei prati, clitocybe tossici a carne sottile come Clitocybe dealbata e Clitocybe rivulosa possono somigliare da lontano, ma non sono vellutati e non crescono mai sulle radici del calcatreppolo.",
+      "notes": "I caratteri più sicuri del tipo selvatico sono il cappello bruno spesso, opaco e vellutato, il gambo biancastro corto e tozzo senza anello né velo, le lamelle crema profondamente decorrenti che si anastomizzano sul gambo, e la crescita dal suolo sulle radici di Eryngium nelle praterie secche. È ampiamente coltivata, ma i basidiomi selvatici sono più corti e tozzi della forma commerciale.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://it.wikipedia.org/wiki/Pleurotus_eryngii"
+      ],
+      "label": "cardoncello"
+    },
+    "ja": {
+      "description": "厚い肉質の野生のヒラタケ類で、乾燥した石灰質または砂質の草地、放牧地、砂丘で、ヒゴタイ属の Eryngium campestre および Eryngium maritimum の地中の根から地中より発生します。傘はベージュ褐色から赤褐色または灰褐色で、つやがなく、乾燥し、細かなビロード状です。柄は短くて太く、ほぼ白色、中心生からやや偏心生で、つばも被膜もありません。密なほぼ白色からクリーム色のひだは柄を遠くまで下り、そこでしばしば網目状に癒合します。本種は南ヨーロッパおよび中部ヨーロッパ、北アフリカ、西アジアに自生し、主に秋から晩冬にかけて発生します。広く栽培されますが、栽培型は通常、ここに示した野生型よりもはるかに高く太い柄と、より小さな傘を持ちます。",
+      "cap": "傘の直径は 4–15 cm（しばしば 5–10 cm）です。はじめは凸形で縁はやや内巻き、のちに平らになり、浅く窪むかやや漏斗形となり、しばしば不整形です。表面は乾燥してつやがなく、細かなビロード状～フェルト状で、淡いベージュ褐色から温かい赤褐色または灰褐色です。",
+      "hymenium": "ひだは密で、ほぼ白色から淡クリーム色または淡ベージュ、老成するとやや灰色または黄色を帯びることがあり、深く垂生して柄を遠くまで下ります。柄との接合部ではしばしば分岐・癒合し、脈状の網目を作ります。",
+      "stipe": "柄は長さ 2–6 cm、太さ 1–3 cm（ときに 0.5 cm のみ）、短くて太く、中心生からやや偏心生、上部がやや広く基部に向かって細くなることが多く、中実で、ほぼ白色から淡クリーム色です。つばも被膜もありません。",
+      "flesh": "肉は傘でも中実の柄でも厚く、堅く、白色です。においはやや弱く快く、味は温和です。",
+      "sporePrint": "胞子紋は白色です。胞子は平滑、円筒状楕円形で、およそ 9–14 × 4.5–6.5 µm です。",
+      "habitat": "Eryngium campestre および E. maritimum の地中の根上の弱い寄生菌・腐生菌で、乾燥した石灰質または砂質の草地、放牧地、砂丘、鉱物質に富む斜面に生じます。子実体は地中から、単生または小さな群で現れ、材上には生じません。主な発生期は秋から晩冬（9月から2月）です。中部ヨーロッパでは夏から秋も記され、地中海地方の一部の記録ではまれな春の発生も挙げられます。複合体の他の分類群は別のセリ科植物の根に生じ、ここでは扱いません。",
+      "uses": "堅くて味のよい肉をもつ優れた食用菌で、広く栽培されます。栽培型は通常、比較的小さな傘をつけた高く太い白い柄で、短い柄の野生型とは見かけが異なります。野生の若い子実体が最もよく、古いものは硬くなります。",
+      "confusion": "ヒラタケ（Pleurotus ostreatus）およびツバヒラタケ（Pleurotus dryinus）は材上に生じ、草地の土中からは生じません。P. ostreatus はより滑らかで、しばしば青みがかった灰色の傘をもち、通常より大きな重なり合う束を作ります。P. dryinus はほぼ白色のフェルト状で鱗片のある傘と、まもなく消える膜質のつばをもちます。Pleurotus nebrodensis および Pleurotus ferulaginis、ならびに P. eryngii 複合体の他の分類群は似ていますが、別の宿主植物に生じ、しばしばより淡色です。草地では、Clitocybe dealbata や Clitocybe rivulosa などの薄い肉質の有毒な漏斗型キノコが遠くから似て見えることがありますが、ビロード状ではなく、ヒゴタイ属の根には生じません。",
+      "notes": "野生型の最も確実な特徴は、厚くてつやのないビロード状の褐色の傘、つばも被膜もない短く太いほぼ白色の柄、柄上で癒合する深く垂生するクリーム色のひだ、および乾燥した草地で Eryngium の根から地中より発生することです。よく知られた栽培ヒラタケ類ですが、野生の子実体は市販型より短く太いです。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%B3%E3%82%AE",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "エリンギ"
+    },
+    "ko": {
+      "description": "두꺼운 살의 야생 느타리류로, 건조한 석회질 또는 모래질 초지, 방목지, 사구에서 밭두릅나물의 일종인 Eryngium campestre와 Eryngium maritimum의 묻힌 뿌리 위 흙에서 납니다. 갓은 베이지갈색에서 적갈색 또는 회갈색이고, 광택이 없으며, 마르고, 가늘게 벨벳질입니다. 대는 짧고 굵으며 흰빛을 띠고, 중심생에서 약간 편심생이며, 테와 피막이 없습니다. 빽빽한 흰빛에서 크림색의 주름살은 대를 따라 멀리 내려가며 그곳에서 흔히 그물처럼 이어집니다. 이 종은 남유럽과 중부 유럽, 북아프리카, 서아시아에 자생하며, 주로 가을부터 늦겨울까지 발생합니다. 널리 재배되지만, 재배형은 보통 여기에 보인 야생형보다 훨씬 높고 굵은 대와 더 작은 갓을 가집니다.",
+      "cap": "갓의 지름은 4–15 cm(흔히 5–10 cm)입니다. 처음에는 볼록하고 가장자리가 약간 안쪽으로 말려 있으며, 나중에 편평해져 얕게 들어가거나 약간 깔때기형이 되고, 흔히 불규칙합니다. 표면은 마르고 광택이 없으며 가늘게 벨벳–펠트질이고, 연한 베이지갈색에서 따뜻한 적갈색 또는 회갈색입니다.",
+      "hymenium": "주름살은 빽빽하고, 흰빛에서 연한 크림색 또는 연한 베이지색이며, 나이가 들면 약간 회색 또는 노란색을 띠기도 하고, 깊게 내린주름살로 대를 따라 멀리 내려갑니다. 대와 만나는 곳에서는 흔히 갈라지고 이어져 맥상 그물을 만듭니다.",
+      "stipe": "대는 길이 2–6 cm, 두께 1–3 cm(때로는 0.5 cm뿐)이며, 짧고 굵고, 중심생에서 약간 편심생이고, 위쪽이 조금 더 넓고 밑으로 가늘어지는 경우가 많으며, 속은 차 있고, 흰빛에서 연한 크림색입니다. 테와 피막은 없습니다.",
+      "flesh": "살은 갓과 속이 찬 대에서 두껍고 단단하며 흰색입니다. 냄새는 약하고 기분 좋으며, 맛은 온화합니다.",
+      "sporePrint": "포자무늬는 흰색입니다. 포자는 매끄럽고 원통형–타원형이며, 약 9–14 × 4.5–6.5 µm입니다.",
+      "habitat": "Eryngium campestre와 E. maritimum의 묻힌 뿌리 위의 약한 기생균·부생균으로, 건조한 석회질 또는 모래질 초지, 방목지, 사구, 광물질이 풍부한 비탈에서 납니다. 자실체는 흙에서, 단생하거나 작은 무리를 이루어 나타나며, 나무 위에는 나지 않습니다. 주된 발생 시기는 가을부터 늦겨울(9월–2월)입니다. 중부 유럽에서는 여름–가을도 적히며, 일부 지중해 자료는 드물게 봄 발생을 언급합니다. 복합군의 다른 분류군은 다른 산형과 식물의 뿌리에서 나며 여기서는 다루지 않습니다.",
+      "uses": "단단하고 맛있는 살을 가진 우수한 식용 버섯이며, 널리 재배됩니다. 재배형은 보통 비교적 작은 갓을 단 높고 굵은 흰 대로, 짧은 대의 야생형과 다르게 보입니다. 야생의 어린 자실체가 가장 좋으며, 오래된 것은 단단해집니다.",
+      "confusion": "느타리(Pleurotus ostreatus)와 Pleurotus dryinus는 나무 위에서 나며, 초지 흙에서는 나지 않습니다. P. ostreatus는 더 매끄럽고 흔히 푸른빛이 도는 회색 갓을 가지며, 보통 더 크고 겹치는 무리를 이룹니다. P. dryinus는 흰빛의 펠트질·비늘 갓과 곧 사라지는 막질 테를 가집니다. Pleurotus nebrodensis와 Pleurotus ferulaginis, 그리고 P. eryngii 복합군의 다른 분류군은 비슷하지만 다른 기주 식물에서 나며 흔히 더 옅습니다. 초지에서는 Clitocybe dealbata와 Clitocybe rivulosa 같은 얇은 살의 독성 깔때기버섯이 멀리서 비슷해 보일 수 있으나, 벨벳질이 아니며 결코 이리등의 뿌리에서는 나지 않습니다.",
+      "notes": "야생형의 가장 확실한 특징은 두껍고 광택이 없는 벨벳질의 갈색 갓, 테와 피막이 없는 짧고 굵은 흰빛 대, 대에서 이어지는 깊게 내린 크림색 주름살, 그리고 건조한 초지에서 Eryngium 뿌리 위 흙으로부터의 발생입니다. 잘 알려진 재배 느타리류이지만, 야생 자실체는 시판형보다 더 짧고 굵습니다.",
+      "names": [
+        "새송이",
+        "새송이버섯"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "큰느타리"
+    },
+    "lt": {
+      "description": "Stora kremzle, laukinė kreivabudė, auganti iš dirvos ant lauko mėšlungio (Eryngium campestre) ir pajūrio mėšlungio (Eryngium maritimum) užkastų šaknų, sausose kalkingose ar smėlingose pievose, ganyklose ir kopose. Kepurėlė yra gelsvai ruda iki rausvai ar pilkšvai ruda, matinė, sausa ir smulkiai aksominė. Kotas trumpas ir tvirtas, balsvas, centrinis iki šiek tiek ekscentriško, be žiedo ir be velumo. Tankūs, balsvi iki gelsvi lakšteliai toli nubėga kotu ir ten dažnai susijungia į tinklą. Rūšis savaiminė Pietų ir Vidurio Europoje, Šiaurės Afrikoje ir Vakarų Azijoje ir dera daugiausia nuo rudens iki vėlyvos žiemos. Ji plačiai auginama, tačiau auginama forma paprastai turi gerokai aukštesnį ir storesnį kotą ir mažesnę kepurėlę nei čia parodytas laukinis tipas.",
+      "cap": "Kepurėlė 4–15 cm skersmens (dažnai 5–10 cm). Pirmiausia ji iškili, šiek tiek užsirietusiu kraštu, vėliau suplokštėja, tampa sekliai įdubusi ar šiek tiek piltuviška ir dažnai netaisyklinga. Paviršius sausas, matinis ir smulkiai aksomiškai veltininis, šviesiai gelsvai rudas iki šiltai rausvai rudo ar pilkšvai rudo.",
+      "hymenium": "Lakšteliai tankūs, balsvi iki blankiai gelsvų ar šviesiai gelsvai rudų, senstant kartais silpnai pilkšvi ar gelsvi, ir stipriai nuaugę, toli nubėgantys kotu. Ten, kur jie susitinka su kotu, jie dažnai šakojasi ir susijungia, sudarydami gyslų tinklą.",
+      "stipe": "Kotas 2–6 cm ilgio ir 1–3 cm storio (kartais tik 0,5 cm), trumpas ir tvirtas, centrinis iki šiek tiek ekscentriško, viršuje dažnai truputį platesnis ir siaurėjantis link pagrindo, kietas, balsvas iki blankiai gelsvo. Žiedo ir velumo nėra.",
+      "flesh": "Kremzlė stora, kieta ir balta kepurėlėje ir kietame kote. Kvapas silpnas ir malonus; skonis švelnus.",
+      "sporePrint": "Sporų atspaudas baltas. Sporos lygios, cilindriškai elipsoidinės, apie 9–14 × 4,5–6,5 µm.",
+      "habitat": "Silpnas parazitas ir saprotrofas ant Eryngium campestre ir E. maritimum užkastų šaknų, sausose kalkingose ar smėlingose pievose, ganyklose, kopose ir mineralais turtinguose šlaituose. Vaisiaus kūnai pasirodo iš dirvos, pavieniui ar nedidelėmis grupėmis, ne ant medienos. Pagrindinis sezonas – nuo rudens iki vėlyvos žiemos (rugsėjis–vasaris); Vidurio Europoje nurodoma ir vasara–ruduo, o kai kurie Viduržemio duomenys mini retą pavasarinį derėjimą. Kiti komplekso nariai auga ant kitų skėtinių šaknų ir čia nagrinėjami nėra.",
+      "uses": "Tai puikus valgomas grybas, kietos, skanios kremzlės, ir jis plačiai auginamas. Auginama forma paprastai yra aukštas, storas baltas kotas su santykinai maža kepurėle ir atrodo kitaip nei trumpakotis laukinis tipas. Geriausi jauni laukiniai vaisiaus kūnai; seni sukietėja.",
+      "confusion": "Gluosninė kreivabudė (Pleurotus ostreatus) ir ąžuolinė kreivabudė (Pleurotus dryinus) auga ant medienos, ne iš pievų dirvos. P. ostreatus turi lygesnę, dažnai melsvai pilką kepurėlę ir paprastai sudaro didesnius, persidengiančius kuokštus; P. dryinus turi veltininę, žvynuotą balsvą kepurėlę ir trumpalaikį plėvelinį žiedą. Pleurotus nebrodensis ir Pleurotus ferulaginis bei kiti P. eryngii komplekso taksonai panašūs, bet auga ant kitų augalų-šeimininkų ir dažnai šviesesni. Pievose iš tolo panašios gali būti plonakremzlės nuodingos piltuvėlės, pavyzdžiui Clitocybe dealbata ir Clitocybe rivulosa, kurios tačiau nėra aksominės ir niekada neauga ant mėšlungio šaknų.",
+      "notes": "Patikimiausi laukinio tipo požymiai – stora, matinė, aksomiškai ruda kepurėlė, trumpas tvirtas balsvas kotas be žiedo ir velumo, stipriai nuaugę gelsvi lakšteliai, susijungiantys ant koto, ir augimas iš dirvos ant Eryngium šaknų sausose pievose. Tai pažįstama auginama kreivabudė, tačiau laukiniai vaisiaus kūnai trumpesni ir tvirtesni už prekybinę formą.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516"
+      ],
+      "label": "stambiakotė kreivabudė"
+    },
+    "lv": {
+      "description": "Bieza mīkstuma, savvaļas sānause, kas aug no augsnes uz lauka zilpoga (Eryngium campestre) un jūras zilpoga (Eryngium maritimum) apraktajām saknēm, sausās kaļķainās vai smilšainās pļavās, ganībās un kāpās. Cepurīte ir bēši brūna līdz sarkanīgi vai pelēkbrūna, mata, sausa un sīki samtaina. Kātiņš ir īss un resns, bālgans, centrāls līdz nedaudz ekscentriskam, bez gredzena un bez plīvura. Blīvās, bālganās līdz krēmkrāsas lapiņas tālu nolaidenas pa kātiņu un tur bieži savienojas tīklā. Suga ir vietēja Dienvid- un Viduseiropā, Ziemeļāfrikā un Rietumāzijā un augļo galvenokārt no rudens līdz vēlam ziemas periodam. To plaši audzē, taču kultivētajai formai parasti ir daudz augstāks un resnāks kātiņš un mazāka cepurīte nekā šeit parādītajam savvaļas tipam.",
+      "cap": "Cepurīte ir 4–15 cm plata (bieži 5–10 cm). Sākumā tā ir izliekta, ar nedaudz ievirzītu malu, pēc tam saplacināta līdz seklai iedobei vai nedaudz piltuvveida un bieži neregulāra. Virsma ir sausa, mata un sīki samtaini filcaina, gaiši bēši brūna līdz silti sarkanbrūnai vai pelēkbrūnai.",
+      "hymenium": "Lapiņas ir blīvas, bālganas līdz bāli krēmkrāsas vai gaiši bēšas, ar vecumu dažkārt vāji pelēcīgas vai dzeltenīgas, un stipri nolaidenas, tālu ejošas pa kātiņu. Tur, kur tās sastopas ar kātiņu, tās bieži sazarojas un savienojas, veidojot dzīslojuma tīklu.",
+      "stipe": "Kātiņš ir 2–6 cm garš un 1–3 cm resns (reizēm tikai 0,5 cm), īss un resns, centrāls līdz nedaudz ekscentriskam, augšā bieži nedaudz platāks un sašaurināts pret pamatni, pilns, bālgans līdz bāli krēmkrāsas. Nav ne gredzena, ne plīvura.",
+      "flesh": "Mīkstums ir biezs, stingrs un balts cepurītē un pilnajā kātiņā. Smarža ir vāja un patīkama; garša maiga.",
+      "sporePrint": "Sporu nospiedums ir balts. Sporas ir gludas, cilindriski elipsoidālas, apmēram 9–14 × 4,5–6,5 µm.",
+      "habitat": "Vājš parazīts un saprotrofs uz Eryngium campestre un E. maritimum apraktajām saknēm, sausās kaļķainās vai smilšainās pļavās, ganībās, kāpās un minerālvielām bagātās nogāzēs. Augļķermeņi parādās no augsnes, pa vienam vai nelielās grupās, ne uz koksnes. Galvenā sezona ir no rudens līdz vēlam ziemas periodam (septembris–februāris); Viduseiropā norāda arī vasaru līdz rudenim, un daži Vidusjūras dati min gadījuma pavasara augļošanu. Pārējie kompleksa locekļi aug uz citu čemurziežu saknēm un šeit netiek aplūkoti.",
+      "uses": "Tā ir izcila ēdama sēne ar stingru, garšīgu mīkstumu, un to plaši audzē. Kultivētā forma parasti ir augsts, resns balts kātiņš ar samērā mazu cepurīti un izskatās citādi nekā īsā kātiņa savvaļas tips. Labākie ir jauni savvaļas augļķermeņi; vecie kļūst cietāki.",
+      "confusion": "Austeru sānause (Pleurotus ostreatus) un ozolu sānause (Pleurotus dryinus) aug uz koksnes, ne no pļavas augsnes. P. ostreatus ir gludāka, bieži zilganpelēka cepurīte un parasti veido lielākus, pārklājošos pušķus; P. dryinus ir filcaina, zvīņaina bālgana cepurīte un īslaicīgs plēvains gredzens. Pleurotus nebrodensis un Pleurotus ferulaginis, kā arī citi P. eryngii kompleksa taksoni ir līdzīgi, bet aug uz citiem saimniekaugiem un bieži ir gaišāki. Pļavās no tālienes var līdzināties plānmīkstuma indīgās piltuvenes, piemēram Clitocybe dealbata un Clitocybe rivulosa, kuras tomēr nav samtainas un nekad neaug uz zilpoga saknēm.",
+      "notes": "Drošākās savvaļas tipa pazīmes ir biezā, matā, samtaini brūnā cepurīte, īsais resnais bālganais kātiņš bez gredzena un plīvura, stipri nolaidenās krēmkrāsas lapiņas, kas savienojas uz kātiņa, un augšana no augsnes uz Eryngium saknēm sausā pļavā. Tā ir pazīstamā kultivētā sānause, bet savvaļas augļķermeņi ir īsāki un resnāki par tirdzniecības formu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een dikvlezige, wilde oesterzwam die uit de bodem groeit op de begraven wortels van kruisdistel (Eryngium campestre) en blauwe zeedistel (Eryngium maritimum), in droge kalk- of zandrijke graslanden, weiden en duinen. De hoed is beigebruin tot roodachtig of grijzig bruin, mat, droog en fijn fluweelachtig. De steel is kort en gedrongen, witachtig, centraal tot iets excentrisch, zonder ring en zonder velum. De dichte, witachtige tot crème lamellen lopen ver langs de steel af en vormen daar vaak een netwerk. De soort is inheems in Zuid- en Midden-Europa, Noord-Afrika en West-Azië en vrucht vooral van de herfst tot in de late winter. Ze wordt op grote schaal gekweekt, maar de kweekvorm heeft meestal een veel hogere, dikkere steel en een kleinere hoed dan het hier getoonde wilde type.",
+      "cap": "De hoed is 4–15 cm breed (vaak 5–10 cm). Eerst is hij gewelfd, met een licht ingerolde rand, daarna afgeplat tot ondiep ingedeukt of iets trechtervormig en vaak onregelmatig. Het oppervlak is droog, mat en fijn fluweelachtig-viltig, licht beigebruin tot warm roodbruin of grijzig bruin.",
+      "hymenium": "De lamellen zijn dicht, witachtig tot bleek crème of lichtbeige, op den duur soms zwak grijzig of geelachtig, en diep aflopend, ver langs de steel naar beneden lopend. Waar ze de steel ontmoeten, vertakken en verbinden ze zich vaak en vormen een adernet.",
+      "stipe": "De steel is 2–6 cm lang en 1–3 cm dik (soms slechts 0,5 cm), kort en gedrongen, centraal tot iets excentrisch, boven vaak iets breder en naar de basis versmald, vol, witachtig tot bleek crème. Er is geen ring en geen velum.",
+      "flesh": "Het vlees is dik, stevig en wit in de hoed en in de volle steel. De geur is zwak en aangenaam; de smaak mild.",
+      "sporePrint": "De sporenafdruk is wit. De sporen zijn glad, cilindrisch-ellipsoïd, ongeveer 9–14 × 4,5–6,5 µm.",
+      "habitat": "Een zwakke parasiet en saprotroof op begraven wortels van Eryngium campestre en E. maritimum, in droge kalk- of zandrijke graslanden, weiden, duinen en mineraalrijke taluds. De vruchtlichamen verschijnen uit de bodem, alleen of in kleine groepjes, niet op hout. Het hoofseizoen is herfst tot late winter (september tot februari); in Midden-Europa wordt ook zomer tot herfst vermeld, en sommige mediterrane bronnen noemen incidentele voorjaarsvruchtlichamen. Andere leden van het soortencomplex groeien op wortels van andere schermbloemigen en worden hier niet behandeld.",
+      "uses": "Het is een uitstekende eetbare paddenstoel met stevig, smakelijk vlees, en wordt op grote schaal gekweekt. De kweekvorm is meestal een hoge, dikke witte steel met een betrekkelijk kleine hoed en ziet er anders uit dan het kortgesteelde wilde type. Jonge wilde vruchtlichamen zijn het best; oude worden taaier.",
+      "confusion": "De gewone oesterzwam (Pleurotus ostreatus) en de schubbige oesterzwam (Pleurotus dryinus) groeien op hout, niet vanuit graslandbodem. P. ostreatus heeft een gladdere, vaak blauwgrijze hoed en vormt typisch grotere, dakpansgewijs overlappende bundels; P. dryinus heeft een viltige, schubbige witachtige hoed en een vluchtige vliezige ring. Pleurotus nebrodensis en Pleurotus ferulaginis en andere taxa van het P. eryngii-complex zijn vergelijkbaar, maar groeien op andere waardplanten en zijn vaak bleker. In grasland kunnen dunvlezige giftige trechterzwammen zoals Clitocybe dealbata en Clitocybe rivulosa van verre lijken, maar ze zijn niet fluweelachtig en groeien nooit op kruisdistelwortels.",
+      "notes": "De zekerste veldkenmerken van het wilde type zijn de dikke, matte, fluweelbruin hoed, de korte gedrongen witachtige steel zonder ring en velum, de diep aflopende crème lamellen die op de steel verbinden, en de groei uit de bodem op Eryngium-wortels in droog grasland. Ze wordt op grote schaal gekweekt, maar wilde vruchtlichamen zijn korter en gedrongener dan de winkelvorm.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://nl.wikipedia.org/wiki/Kruisdisteloesterzwam"
+      ],
+      "label": "kruisdisteloesterzwam"
+    },
+    "no": {
+      "description": "En tykkjøttet, vill østerssopp som vokser opp av jorden på de nedgravde røttene av mannsskjold (Eryngium campestre) og strandmannsskjold (Eryngium maritimum), i tørr kalk- eller sandrik eng, beite og dyne. Hatten er beigebrun til rødlig eller gråbrun, matt, tørr og fint fløyelsaktig. Stilken er kort og kraftig, hvitaktig, sentral til litt eksentrisk, uten ring og uten slør. De tette, hvitaktige til kremfargede skivene løper langt nedover stilken og danner der ofte et nett. Arten er hjemlig i Sør- og Mellom-Europa, Nord-Afrika og Vest-Asia og frukter særlig fra høst til sein vinter. Den dyrkes i stort omfang, men den dyrkede formen har vanligvis en mye høyere, tykkere stilk og en mindre hatt enn villtypen som vises her.",
+      "cap": "Hatten er 4–15 cm bred (ofte 5–10 cm). Først er den hvelvet, med svakt innrullet rand, siden avflatet til grunt nedtrykt eller litt traktformet og ofte uregelmessig. Overflaten er tørr, matt og fint fløyelsfiltet, lyst beigebrun til varmt rødbrun eller gråbrun.",
+      "hymenium": "Skivene er tette, hvitaktige til blekt kremfargede eller lyst beige, med alderen av og til svakt grålige eller gule, og dypt nedløpende, løpende langt nedover stilken. Der de møter stilken, forgrener og forbinder de seg ofte og danner et årenett.",
+      "stipe": "Stilken er 2–6 cm lang og 1–3 cm tykk (av og til bare 0,5 cm), kort og kraftig, sentral til litt eksentrisk, øverst ofte litt bredere og avsmalnende mot basis, solid, hvitaktig til blekt kremfarget. Det finnes verken ring eller slør.",
+      "flesh": "Kjøttet er tykt, fast og hvitt i hatten og i den solide stilken. Lukten er svak og behagelig; smaken mild.",
+      "sporePrint": "Sporeavtrykket er hvitt. Sporene er glatte, sylindrisk-ellipsoide, om lag 9–14 × 4,5–6,5 µm.",
+      "habitat": "En svak parasitt og saprotrof på nedgravde røtter av Eryngium campestre og E. maritimum, i tørr kalk- eller sandrik eng, beite, dyne og mineralrike skråninger. Fruktlegemene kommer opp av jorden, enkeltvis eller i små grupper, ikke på ved. Hovedsesongen er høst til sein vinter (september til februar); i Mellom-Europa angis også sommer til høst, og enkelte middelhavsopplysninger nevner tilfeldig vårfrukting. Øvrige medlemmer av artkomplekset vokser på røtter av andre skjermplanter og behandles ikke her.",
+      "uses": "Den er en utmerket matsopp med fast, velsmakende kjøtt og dyrkes i stort omfang. Den dyrkede formen er vanligvis en høy, tykk hvit stilk med forholdsvis liten hatt og ser annerledes ut enn den kortstilkede villtypen. Unge ville fruktlegemer er best; gamle blir seigere.",
+      "confusion": "Blågrå østerssopp (Pleurotus ostreatus) og seig østerssopp (Pleurotus dryinus) vokser på ved, ikke fra engjord. P. ostreatus har en glattere, ofte blågrå hatt og danner typisk større, overlappende klynger; P. dryinus har en filtet, skjellkledd hvitaktig hatt og en flyktig hinneaktig ring. Pleurotus nebrodensis og Pleurotus ferulaginis samt andre taxa i P. eryngii-komplekset er liknende, men vokser på andre verter og er ofte blekere. På eng kan tynnkjøttede giftige traktsopper som Clitocybe dealbata og Clitocybe rivulosa minne på avstand, men de er ikke fløyelsaktige og vokser aldri på mannsskjoldrøtter.",
+      "notes": "De sikreste feltkjennetegnene hos villtypen er den tykke, matte, fløyelsbrune hatten, den korte kraftige hvitaktige stilken uten ring og slør, de dypt nedløpende kremfargede skivene som forbinder seg på stilken, og veksten opp av jorden på Eryngium-røtter i tørr eng. Dette er den kjente dyrkede kongesoppen, men ville fruktlegemer er kortere og mer tettbygde enn butikkformen.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Mięsisty, dziko rosnący boczniak, który wyrasta z gleby na zagłębionych korzeniach mikolajka polnego (Eryngium campestre) i mikolajka nadmorskiego (Eryngium maritimum), na suchych wapiennych lub piaszczystych murawach, pastwiskach i wydmach. Kapelusz jest beżowobrązowy do czerwonawego lub szarobrązowego, matowy, suchy i delikatnie aksamitny. Trzon jest krótki i tęgi, białawy, centralny do lekko mimośrodkowego, bez pierścienia i bez osłony. Gęste, białawe do kremowych blaszki daleko zbiegają na trzon i często łączą się tam w siateczkę. Gatunek jest rodzimy w południowej i środkowej Europie, w Afryce Północnej i w zachodniej Azji i owocuje głównie od jesieni do późnej zimy. Jest szeroko uprawiany, ale forma uprawna ma zwykle znacznie wyższy i grubszy trzon oraz mniejszy kapelusz niż pokazany tu typ dziki.",
+      "cap": "Kapelusz ma 4–15 cm średnicy (często 5–10 cm). Najpierw jest wypukły, z lekko podwiniętym brzegiem, potem spłaszczony do płytko wklęsłego lub lekko lejkowatego i często nieregularny. Powierzchnia jest sucha, matowa i delikatnie aksamitno-filcowata, jasnobieżowobrązowa do ciepłej czerwonawobrązowej lub szarobrązowej.",
+      "hymenium": "Blaszki są gęste, białawe do blado kremowych lub jasnobieżowych, ze starością czasem słabo szarawe lub żółtawe, i głęboko zbiegające, daleko schodzące na trzon. Tam, gdzie stykają się z trzonem, często się rozwidlają i łączą, tworząc siateczkę żyłek.",
+      "stipe": "Trzon ma 2–6 cm długości i 1–3 cm grubości (rzadko tylko 0,5 cm), krótki i tęgi, centralny do lekko mimośrodkowego, u góry często nieco szerszy i zwężający się ku podstawie, pełny, białawy do blado kremowego. Pierścienia ani osłony nie ma.",
+      "flesh": "Miąższ jest gruby, jędrny i biały w kapeluszu i w pełnym trzonie. Zapach jest słaby i przyjemny; smak łagodny.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są gładkie, cylindryczno-elipsoidalne, około 9–14 × 4,5–6,5 µm.",
+      "habitat": "Słaby pasożyt i saprotrof na zagłębionych korzeniach Eryngium campestre i E. maritimum, na suchych wapiennych lub piaszczystych murawach, pastwiskach, wydmach i zasobnych w minerały skarpach. Owocniki wyrastają z gleby, pojedynczo lub w małych grupach, nie na drewnie. Główny sezon to jesień do późnej zimy (wrzesień–luty); w Europie Środkowej podaje się także lato do jesieni, a niektóre dane śródziemnomorskie wspominają sporadyczne owocowanie wiosną. Pozostali przedstawiciele kompleksu rosną na korzeniach innych baldaszkowatych i nie są tu omawiani.",
+      "uses": "To wyśmienity grzyb jadalny, o jędrnym, smacznym miąższu, szeroko uprawiany. Forma uprawna to zwykle wysoki, gruby biały trzon z stosunkowo małym kapeluszem i wygląda inaczej niż krótkotrzonowy typ dziki. Najlepsze są młode dzikie owocniki; stare twardnieją.",
+      "confusion": "Boczniak ostrygowaty (Pleurotus ostreatus) i boczniak białożółty (Pleurotus dryinus) rosną na drewnie, nie z gleb łąkowych. P. ostreatus ma gładszy, często niebieskawoszary kapelusz i typowo tworzy większe, dachówkowate kępy; P. dryinus ma filcowaty, łuskowaty białawy kapelusz i znikomy błoniasty pierścień. Pleurotus nebrodensis i Pleurotus ferulaginis oraz inne taksony kompleksu P. eryngii są podobne, ale rosną na innych roślinach żywicielskich i są często jaśniejsze. Na murawach odległe podobieństwo mogą wykazywać cienkomiąższowe trujące lejkówki, na przykład Clitocybe dealbata i Clitocybe rivulosa, które jednak nie są aksamitne i nigdy nie rosną z korzeni mikolajka.",
+      "notes": "Najpewniejsze cechy typu dzikiego to gruby, matowy, aksamitnie brązowy kapelusz, krótki tęgi białawy trzon bez pierścienia i osłony, głęboko zbiegające kremowe blaszki połączone na trzonie oraz wzrost z gleby na korzeniach mikolajka na suchych murawach. To znany uprawiany boczniak, ale dzikie owocniki są krótsze i krępe niż forma sklepowa.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Boczniak_miko%C5%82ajkowy",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "boczniak mikołajkowy"
+    },
+    "pt": {
+      "description": "Um pleuroto silvestre de carne espessa que cresce do solo sobre as raízes enterradas do cardo-corredor (Eryngium campestre) e do cardo-marítimo (Eryngium maritimum), em relvados secos calcários ou arenosos, pastagens e dunas. O chapéu é bege-acastanhado a castanho-avermelhado ou cinzento-acastanhado, mate, seco e finamente aveludado. O pé é curto e robusto, esbranquiçado, central a ligeiramente excêntrico, sem anel nem véu. As lâminas apertadas, esbranquiçadas a cor de creme, descem longe pelo pé e aí se anastomosam frequentemente numa rede. A espécie é nativa do sul e do centro da Europa, do norte de África e do oeste da Ásia, e frutifica sobretudo do outono ao fim do inverno. É amplamente cultivada, mas a forma cultivada tem geralmente um pé muito mais alto e grosso e um chapéu mais pequeno do que o tipo silvestre aqui mostrado.",
+      "cap": "O chapéu mede 4–15 cm de diâmetro (muitas vezes 5–10 cm). Primeiro é convexo, com a margem ligeiramente enrolada, depois achatado até pouco deprimido ou um pouco infundibuliforme, e frequentemente irregular. A superfície é seca, mate e finamente aveludada-feltrosa, de um bege-acastanhado claro a um castanho-avermelhado quente ou cinzento-acastanhado.",
+      "hymenium": "As lâminas são apertadas, esbranquiçadas a creme-pálido ou bege-claro, por vezes um pouco acinzentadas ou amareladas com a idade, e profundamente decurrentes, descendo longe pelo pé. Onde encontram o pé, bifurcam-se e anastomosam-se frequentemente, formando uma rede de veias.",
+      "stipe": "O pé mede 2–6 cm de comprimento e 1–3 cm de espessura (por vezes apenas 0,5 cm), curto e robusto, central a ligeiramente excêntrico, muitas vezes um pouco mais largo no topo e atenuado para a base, maciço, esbranquiçado a creme-pálido. Não há anel nem véu.",
+      "flesh": "A carne é espessa, firme e branca no chapéu e no pé maciço. O cheiro é fraco e agradável; o sabor é suave.",
+      "sporePrint": "A esporada é branca. Os esporos são lisos, cilíndrico-elipsoides, com cerca de 9–14 × 4,5–6,5 µm.",
+      "habitat": "Parasita fraco e saprotrofo sobre raízes enterradas de Eryngium campestre e E. maritimum, em relvados secos calcários ou arenosos, pastagens, dunas e taludes ricos em minerais. Os basidiomas aparecem do solo, isolados ou em pequenos grupos, não sobre madeira. A época principal vai do outono ao fim do inverno (setembro a fevereiro); na Europa Central indica-se também o verão ao outono, e alguns dados mediterrânicos mencionam uma frutificação primaveril ocasional. Os restantes membros do complexo crescem sobre raízes de outras umbelíferas e não são tratados aqui.",
+      "uses": "É um excelente comestível, de carne firme e saborosa, e é amplamente cultivado. A forma cultivada é geralmente um pé branco alto e grosso com um chapéu relativamente pequeno, e difere do tipo silvestre de pé curto. Os basidiomas silvestres jovens são os melhores; os velhos endurecem.",
+      "confusion": "O cogumelo-ostra (Pleurotus ostreatus) e Pleurotus dryinus crescem sobre madeira, não a partir do solo dos relvados. P. ostreatus tem um chapéu mais liso, muitas vezes cinzento-azulado, e forma tipicamente tufos maiores imbricados; P. dryinus tem um chapéu esbranquiçado feltrado e escamoso e um anel membranoso fugaz. Pleurotus nebrodensis e Pleurotus ferulaginis, e outros táxones do complexo de P. eryngii, são semelhantes mas crescem sobre outras plantas hospedeiras e são muitas vezes mais pálidos. Nos relvados, clitocibes tóxicos de carne fina como Clitocybe dealbata e Clitocybe rivulosa podem parecer-se de longe, mas não são aveludados e nunca crescem sobre raízes de cardo-corredor.",
+      "notes": "Os caracteres mais seguros do tipo silvestre são o chapéu acastanhado espesso, mate e aveludado, o pé esbranquiçado curto e robusto sem anel nem véu, as lâminas cor de creme profundamente decurrentes que se anastomosam no pé, e o crescimento a partir do solo sobre raízes de Eryngium em relvados secos. É o familiar pleuroto cultivado, mas os basidiomas silvestres são mais curtos e robustos do que a forma comercial.",
+      "names": [
+        "cogumelo-do-cardo"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "repolga-dos-cardos"
+    },
+    "ro": {
+      "description": "Un păstrăv sălbatic, cu carne groasă, care crește din sol pe rădăcinile îngropate ale scaiului de câmp (Eryngium campestre) și ale scaiului de mare (Eryngium maritimum), în pajiști uscate calcaroase sau nisipoase, pășuni și dune. Pălăria este bej-brună până la brun-roșiatică sau cenușiu-brună, mată, uscată și fin catifelată. Piciorul este scurt și îndesat, albicios, central până la ușor excentric, fără inel și fără văl. Lamelele dese, albicioase până la crem, coboară departe pe picior și acolo se anastomozează adesea într-o rețea. Specia este nativă în sudul și centrul Europei, în Africa de Nord și în vestul Asiei, și fructifică mai ales din toamnă până târziu în iarnă. Este cultivată pe scară largă, dar forma cultivată are de obicei un picior mult mai înalt și mai gros și o pălărie mai mică decât tipul sălbatic arătat aici.",
+      "cap": "Pălăria măsoară 4–15 cm în diametru (adesea 5–10 cm). La început este convexă, cu marginea ușor răsfrântă, apoi turtită până la puțin adâncită sau ușor infundibuliformă, și adesea neregulată. Suprafața este uscată, mată și fin catifelat-pâsloasă, bej-brun deschis până la brun-roșiatic cald sau cenușiu-brun.",
+      "hymenium": "Lamelele sunt dese, albicioase până la crem pal sau bej deschis, uneori puțin cenușii sau gălbui cu vârsta, și profund decurente, coborând departe pe picior. Unde întâlnesc piciorul se furcă și se anastomozează adesea, formând o rețea de vine.",
+      "stipe": "Piciorul măsoară 2–6 cm lungime și 1–3 cm grosime (uneori numai 0,5 cm), scurt și îndesat, central până la ușor excentric, adesea puțin mai lat sus și îngustat spre bază, plin, albicios până la crem pal. Nu există inel și nici văl.",
+      "flesh": "Carnea este groasă, fermă și albă în pălărie și în piciorul plin. Mirosul este slab și plăcut; gustul, blând.",
+      "sporePrint": "Sporada este albă. Sporii sunt netezi, cilindric-elipsoidali, de circa 9–14 × 4,5–6,5 µm.",
+      "habitat": "Parazit slab și saprotrof pe rădăcinile îngropate de Eryngium campestre și E. maritimum, în pajiști uscate calcaroase sau nisipoase, pășuni, dune și taluzuri bogate în minerale. Basidiomele apar din sol, izolate sau în grupuri mici, nu pe lemn. Sezonul principal este din toamnă până târziu în iarnă (septembrie–februarie); în Europa Centrală se indică și vara până toamna, iar unele date mediteraneene menționează o fructificare de primăvară ocazională. Ceilalți membri ai complexului cresc pe rădăcinile altor umbelifere și nu sunt tratați aici.",
+      "uses": "Este un comestibil excelent, cu carne fermă și gustoasă, și este cultivat pe scară largă. Forma cultivată este de obicei un picior alb înalt și gros, cu o pălărie relativ mică, și diferă de tipul sălbatic cu picior scurt. Basidiomele sălbatice tinere sunt cele mai bune; cele bătrâne se întăresc.",
+      "confusion": "Păstrăvul de fag (Pleurotus ostreatus) și Pleurotus dryinus cresc pe lemn, nu din solul pajiștilor. P. ostreatus are o pălărie mai netedă, adesea gri-albăstruie, și formează de obicei mănunchiuri mai mari, imbricate; P. dryinus are o pălărie albicioasă pâsloasă și solzoasă și un inel membranos fugace. Pleurotus nebrodensis și Pleurotus ferulaginis, precum și alți taxoni ai complexului P. eryngii, sunt asemănători, dar cresc pe alte plante-gazdă și sunt adesea mai palizi. În pajiști, clitocibe toxice cu carne subțire, cum sunt Clitocybe dealbata și Clitocybe rivulosa, pot semăna de departe, dar nu sunt catifelate și nu cresc niciodată pe rădăcinile scaiului.",
+      "notes": "Cele mai sigure caractere ale tipului sălbatic sunt pălăria brună groasă, mată și catifelată, piciorul albicios scurt și îndesat fără inel și fără văl, lamelele crem profund decurente care se anastomozează pe picior, și creșterea din sol pe rădăcinile de Eryngium în pajiști uscate. Este cunoscutul păstrăv cultivat, dar basidiomele sălbatice sunt mai scurte și mai îndesate decât forma comercială.",
+      "names": [],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/P%C4%83str%C4%83vul_scailor",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "păstrăvul scailor"
+    },
+    "ru": {
+      "description": "Дикий толстомясистый вёшенка, который растёт из почвы на погребённых корнях полевого синеголовника (Eryngium campestre) и приморского синеголовника (Eryngium maritimum) в сухих известковых или песчаных лугах, пастбищах и дюнах. Шляпка бежево-коричневая до красновато- или серовато-коричневой, матовая, сухая и мелкобархатистая. Ножка короткая и толстая, беловатая, центральная или слегка эксцентрическая, без кольца и покрывала. Частые беловатые до кремовых пластинки далеко нисходят по ножке и часто срастаются там в сеть. Вид встречается в Южной и Центральной Европе, Северной Африке и Западной Азии и плодоносит главным образом с осени до поздней зимы. Его широко культивируют, но культурная форма обычно имеет гораздо более высокую и толстую ножку и меньшую шляпку, чем показанный здесь дикий тип.",
+      "cap": "Шляпка 4–15 см в диаметре (часто 5–10 см). Сначала она выпуклая, со слегка подвёрнутым краем, затем уплощается, становится слабо вдавленной или слегка воронковидной и часто неправильной. Поверхность сухая, матовая и мелкобархатисто-войлочная, светло-бежево-коричневая до теплой красновато-коричневой или серовато-коричневой.",
+      "hymenium": "Пластинки частые, беловатые до бледно-кремовых или светло-бежевых, с возрастом иногда слегка сероватые или желтоватые, и глубоко нисходящие, далеко сбегающие по ножке. Там, где они встречаются с ножкой, они часто ветвятся и срастаются, образуя сеть жилок.",
+      "stipe": "Ножка 2–6 см длиной и 1–3 см толщиной (иногда всего 0,5 см), короткая и толстая, центральная или слегка эксцентрическая, часто немного шире сверху и суживающаяся к основанию, выполненная, беловатая до бледно-кремовой. Кольца и покрывала нет.",
+      "flesh": "Мякоть толстая, плотная и белая в шляпке и в выполненной ножке. Запах слабый и приятный; вкус мягкий.",
+      "sporePrint": "Споровый порошок белый. Споры гладкие, цилиндрически-эллипсоидные, около 9–14 × 4,5–6,5 µm.",
+      "habitat": "Слабый паразит и сапротроф на погребённых корнях Eryngium campestre и E. maritimum в сухих известковых или песчаных лугах, пастбищах, дюнах и минеральных склонах. Плодовые тела появляются из почвы, поодиночке или небольшими группами, не на древесине. Основной сезон — с осени до поздней зимы (сентябрь–февраль); в Центральной Европе указывают также лето–осень, а некоторые средиземноморские данные упоминают редкое весеннее плодоношение. Другие члены комплекса растут на корнях иных зонтичных и здесь не рассматриваются.",
+      "uses": "Это превосходный съедобный гриб с плотной вкусной мякотью, и его широко культивируют. Культурная форма обычно представляет собой высокую толстую белую ножку с относительно небольшой шляпкой и отличается от коротконожечного дикого типа. Лучше всего молодые дикие плодовые тела; старые твердеют.",
+      "confusion": "Вешенка обыкновенная (Pleurotus ostreatus) и Pleurotus dryinus растут на древесине, а не из почвы лугов. У P. ostreatus шляпка более гладкая, часто сизовато-серая, и он обычно образует более крупные черепитчатые скопления; у P. dryinus беловатая войлочно-чешуйчатая шляпка и быстро исчезающее перепончатое кольцо. Pleurotus nebrodensis и Pleurotus ferulaginis, а также другие таксоны комплекса P. eryngii похожи, но растут на других растениях-хозяевах и часто более бледные. На лугах отдалённо могут напоминать тонкомясистые ядовитые говорушки, например Clitocybe dealbata и Clitocybe rivulosa, которые, однако, не бархатистые и никогда не растут на корнях синеголовника.",
+      "notes": "Самые надёжные признаки дикого типа — толстая матовая бархатисто-коричневая шляпка, короткая толстая беловатая ножка без кольца и покрывала, глубоко нисходящие кремовые пластинки, срастающиеся на ножке, и рост из почвы на корнях Eryngium в сухих лугах. Это знакомая культивируемая вёшенка, но дикие плодовые тела короче и толще торговой формы.",
+      "names": [
+        "вешенка степная"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://ru.wikipedia.org/wiki/%D0%92%D1%91%D1%88%D0%B5%D0%BD%D0%BA%D0%B0_%D1%81%D1%82%D0%B5%D0%BF%D0%BD%D0%B0%D1%8F",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "вёшенка степная"
+    },
+    "sk": {
+      "description": "Mäsitá divo rastúca hliva, ktorá vyrastá z pôdy na zakopaných koreňoch kotúča poľného (Eryngium campestre) a kotúča prímorského (Eryngium maritimum), v suchých vápnitých alebo piesočnatých trávnikoch, pasienkoch a dunách. Klobúk je béžovohnedý až červenkastý alebo sivohnedý, matný, suchý a jemne zamatový. Hlúbik je krátky a hrubý, belavý, stredový až mierne výstredný, bez krúžka a bez závoja. Husté, belavé až krémové lupene ďaleko zbiehajú na hlúbik a často sa tam spájajú do sieťky. Druh je pôvodný v južnej a strednej Európe, v severnej Afrike a v západnej Ázii a plodí hlavne od jesene do neskorej zimy. Široko sa pestuje, ale pestovaná forma máva omnoho vyšší a hrubší hlúbik a menší klobúk ako tu zobrazený divý typ.",
+      "cap": "Klobúk má 4–15 cm v priemere (často 5–10 cm). Najprv je vypuklý, s mierne zavinutým okrajom, neskôr sploštený až plytko vmáčknutý alebo mierne lievikovitý a často nepravidelný. Povrch je suchý, matný a jemne zamatovo plstnatý, svetlo béžovohnedý až teplo červenkastohnedý alebo sivohnedý.",
+      "hymenium": "Lupene sú husté, belavé až bledo krémové alebo svetlo béžové, v starobe niekedy slabo sivasté alebo žltkasté, a hlboko zbiehavé, ďaleko zbiehajúce na hlúbik. Tam, kde sa stretávajú s hlúbikom, sa často vetvia a prepájajú a tvoria sieťku žiliek.",
+      "stipe": "Hlúbik je 2–6 cm dlhý a 1–3 cm hrubý (ojedinele len 0,5 cm), krátky a hrubý, stredový až mierne výstredný, hore často trochu širší a k báze zúžený, plný, belavý až bledo krémový. Krúžok ani závoj chýbajú.",
+      "flesh": "Dužina je hrubá, pevná a biela v klobúku aj v plnom hlúbiku. Vôňa je slabá a príjemná; chuť mierna.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú hladké, valcovito elipsoidné, asi 9–14 × 4,5–6,5 µm.",
+      "habitat": "Slabý parazit a saprotrof na zakopaných koreňoch Eryngium campestre a E. maritimum, v suchých vápnitých alebo piesočnatých trávnikoch, pasienkoch, dunách a na minerálne bohatých svahoch. Plodnice vyrastajú z pôdy, jednotlivo alebo v malých skupinách, nie na dreve. Hlavná sezóna je od jesene do neskorej zimy (september až február); v strednej Európe sa uvádza aj leto až jeseň a niektoré stredomorské údaje spomínajú občasný jarný výskyt. Ostatní zástupcovia okruhu rastú na koreňoch iných mrkvovitých a tu sa nepreberajú.",
+      "uses": "Je výborná jedlá huba, s pevnou, chutnou dužinou, a široko sa pestuje. Pestovaná forma býva vysoký hrubý biely hlúbik s relatívne malým klobúkom a vyzerá inak ako krátkohlúbikový divý typ. Najlepšie sú mladé divé plodnice; staré tvrdnú.",
+      "confusion": "Hliva ustricová (Pleurotus ostreatus) a hliva dubová (Pleurotus dryinus) rastú na dreve, nie z lúčnej pôdy. P. ostreatus má hladší, často namodralosivý klobúk a typicky tvorí väčšie prekrývajúce sa trsy; P. dryinus má plstnatý, šupinatý belavý klobúk a prchavý blanitý krúžok. Pleurotus nebrodensis a Pleurotus ferulaginis a ďalšie taxóny okruhu P. eryngii sú podobné, ale rastú na iných hostiteľoch a sú často svetlejšie. Na trávnikoch sa im vzdialene podobajú tenkomäsé jedovaté strmeľovky, napríklad Clitocybe dealbata a Clitocybe rivulosa, ktoré však nie sú zamatové a nikdy nerastú z koreňov kotúča.",
+      "notes": "Najspoľahlivejšie znaky divého typu sú hrubý, matný, zamatovo hnedý klobúk, krátky hrubý belavý hlúbik bez krúžka a závoja, hlboko zbiehavé krémové lupene prepojené na hlúbiku a rast z pôdy na koreňoch kotúča v suchých trávnikoch. Je to známa pestovaná hliva, ale divé plodnice sú kratšie a zavalitejšie ako predajná forma.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/205516",
+        "https://www.gbif.org/species/9075265"
+      ],
+      "label": "hliva kotúčová"
+    },
+    "sl": {
+      "description": "Mesnat, divje rastoč ostrigar, ki raste iz prsti na zakopanih koreninah navadnega kotiča (Eryngium campestre) in obmorskega kotiča (Eryngium maritimum), na suhih apnenčastih ali peščenih travnikih, pašnikih in sipinah. Klobuk je bež rjavo do rdečkasto ali sivorjavo obarvan, mat, suh in fino žametast. Bet je kratek in čokat, belkast, osrednji do rahlo izsreden, brez obročka in brez ovojnice. Goste, belkaste do kremaste lističe daleč priraščeno potekajo po betu in se tam pogosto povezujejo v mrežico. Vrsta je domorodna v južni in srednji Evropi, v severni Afriki in v zahodni Aziji in trosi predvsem od jeseni do pozne zime. Široko jo gojijo, vendar ima gojena oblika običajno veliko višji in debelejši bet ter manjši klobuk kot tu prikazani divji tip.",
+      "cap": "Klobuk meri 4–15 cm premera (pogosto 5–10 cm). Najprej je izbočen, z rahlo podvinjenim robom, nato sploščen do plitvo vdrt ali rahlo lijakast in pogosto nepravilen. Površina je suha, mat in fino žametasto-filcasta, svetlo bež rjava do toplo rdečkastorjava ali sivorjava.",
+      "hymenium": "Lističi so gosti, belkasti do bledo kremasti ali svetlo bež, v starosti včasih rahlo sivkasti ali rumenkasti, in globoko priraščeni, daleč potekajoči po betu. Tam, kjer se stikajo z betom, se pogosto vejijo in povezujejo ter tvorijo mrežico žilic.",
+      "stipe": "Bet je 2–6 cm dolg in 1–3 cm debel (redko le 0,5 cm), kratek in čokat, osrednji do rahlo izsreden, zgoraj pogosto nekoliko širši in zožen proti dnišču, poln, belkast do bledo kremast. Obročka in ovojnice ni.",
+      "flesh": "Meso je debelo, čvrsto in belo v klobuku in v polnem betu. Vonj je šibek in prijeten; okus blag.",
+      "sporePrint": "Trosni prah je bel. Trosi so gladki, valjasto elipsoidni, približno 9–14 × 4,5–6,5 µm.",
+      "habitat": "Šibek zajedavec in saprotrof na zakopanih koreninah Eryngium campestre in E. maritimum, na suhih apnenčastih ali peščenih travnikih, pašnikih, sipinah in mineralno bogatih brežinah. Trosišča rastejo iz prsti, posamič ali v majhnih skupinah, ne na lesu. Glavna sezona je jesen do pozne zime (september do februar); v srednji Evropi navajajo tudi poletje do jeseni, nekateri sredozemski podatki pa omenjajo občasno spomladansko trosenje. Drugi predstavniki kompleksa rastejo na koreninah drugih kobulnic in tu niso obravnavani.",
+      "uses": "Je odlična užitna goba, s čvrstim, okusnim mesom, in jo široko gojijo. Gojena oblika je običajno visok, debel bel bet z razmeroma majhnim klobukom in je videti drugače kot kratkobetni divji tip. Najboljša so mlada divja trosišča; stara otrdijo.",
+      "confusion": "Bukov ostrigar (Pleurotus ostreatus) in hrastov ostrigar (Pleurotus dryinus) rasteta na lesu, ne iz travniške prsti. P. ostreatus ima bolj gladek, pogosto modrikastosiv klobuk in tipično tvori večje, prekrivajoče se šope; P. dryinus ima filcast, luskinast belkast klobuk in minevajoč kožnat obroček. Pleurotus nebrodensis in Pleurotus ferulaginis ter drugi taksoni kompleksa P. eryngii so podobni, vendar rastejo na drugih gostiteljih in so pogosto svetlejši. Na travnikih so jim oddaljeno podobne tankomesnate strupene lijevke, na primer Clitocybe dealbata in Clitocybe rivulosa, ki pa niso žametaste in nikoli ne rastejo iz korenin kotiča.",
+      "notes": "Najzanesljivejši znaki divjega tipa so debel, mat, žametasto rjav klobuk, kratek čokat belkast bet brez obročka in ovojnice, globoko priraščeni kremasti lističi, povezani na betu, in rast iz prsti na koreninah kotiča na suhih travnikih. To je znani gojeni ostrigar, vendar so divja trosišča krajša in čokatejša od trgovske oblike.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516"
+      ],
+      "label": "možinin ostrigar"
+    },
+    "sr": {
+      "description": "Месната, дивље растућа буковача која расте из земље на укопаним коренима пољског котрљана (Eryngium campestre) и приморског котрљана (Eryngium maritimum), на сувим кречњачким или песковитим травњацима, пашњацима и динама. Шешир је беж-смеђ до црвенкасто или сивосмеђ, мат, сув и фино сомотаст. Дршка је кратка и дебела, беличаста, средишња до благо ексцентрична, без прстена и без вела. Густи, беличасти до крем листићи далеко силазе низ дршку и ту се често спајају у мрежицу. Врста је аутохтона у јужној и средњој Европи, у северној Африци и у западној Азији и плодоноси углавном од јесени до касне зиме. Широко се гаји, али гајени облик обично има знатно вишу и дебљу дршку и мањи шешир од овде приказаног дивљег типа.",
+      "cap": "Шешир има 4–15 cm у пречнику (често 5–10 cm). Најпре је испупчен, са благо повијеном ивицом, затим спљоштен до плитко удубљен или благо левкаст и често неправилан. Површина је сува, мат и фино сомотасто-филцаста, светло беж-смеђа до топло црвенкастосмеђа или сивосмеђа.",
+      "hymenium": "Листићи су густи, беличасти до бледо крем или светло беж, у старости понекад слабо сивкасти или жућкасти, и дубоко силазни, далеко силазе низ дршку. Тамо где се спајају са дршком често се гранају и повезују, стварајући мрежицу жилица.",
+      "stipe": "Дршка је 2–6 cm дуга и 1–3 cm дебела (ретко само 0,5 cm), кратка и дебела, средишња до благо ексцентрична, горе често мало шира и сужена према основи, пуна, беличаста до бледо крем. Нема прстена ни вела.",
+      "flesh": "Месо је дебело, чврсто и бело у шеширу и у пуној дршци. Мирис је слаб и пријатан; укус благ.",
+      "sporePrint": "Отисак спора је бео. Споре су глатке, цилиндрично елипсоидне, око 9–14 × 4,5–6,5 µm.",
+      "habitat": "Слаб паразит и сапротроф на укопаним коренима Eryngium campestre и E. maritimum, на сувим кречњачким или песковитим травњацима, пашњацима, динама и минерално богатим падинама. Плодна тела израстају из земље, појединачно или у малим групама, не на дрвету. Главна сезона је јесен до касне зиме (септембар до фебруар); у средњој Европи наводи се и лето до јесени, а неки средоземни подаци помињу повремено пролећно плодоношење. Остали представници комплекса расту на коренима других штитастих и овде се не обрађују.",
+      "uses": "Изузетна је јестива гљива, чврстог и укусног меса, и широко се гаји. Гајени облик обично је висока, дебела бела дршка са релативно малим шеширом и изгледа другачије од краткодршкастог дивљег типа. Најбоља су млада дивља плодна тела; стара отврдну.",
+      "confusion": "Буковача (Pleurotus ostreatus) и Pleurotus dryinus расту на дрвету, не из травњачког тла. P. ostreatus има глаткији, често плавичастосив шешир и типично гради веће, преклапајуће праменове; P. dryinus има филцаст, љускав беличаст шешир и пролазан опнаст прстен. Pleurotus nebrodensis и Pleurotus ferulaginis те други таксони комплекса P. eryngii слични су, али расту на другим домаћинима и често су светлији. На травњацима им наликују танкомеснате отровне левке, на пример Clitocybe dealbata и Clitocybe rivulosa, које међутим нису сомотасте и никад не расту из корена котрљана.",
+      "notes": "Најпоузданија обележја дивљег типа су дебео, мат, сомотасто смеђ шешир, кратка дебела беличаста дршка без прстена и вела, дубоко силазни крем листићи повезани на дршци и раст из земље на коренима котрљана на сувим травњацима. То је позната гајена гљива, али дивља плодна тела су краћа и здепастија од продајног облика.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En tjockköttig, vild mussling som växer upp ur jorden på de nedgrävda rötterna av fältmartorn (Eryngium campestre) och martorn (Eryngium maritimum), i torr kalk- eller sandrik gräsmark, betesmark och dyn. Hatten är beigebrun till rödaktigt eller gråbrun, matt, torr och fint sammetsluden. Foten är kort och kraftig, vitaktig, central till något excentrisk, utan ring och utan slöja. De täta, vitaktiga till krämfärgade skivorna löper långt ned på foten och bildar där ofta ett nät. Arten är inhemsk i södra och mellersta Europa, Nordafrika och västra Asien och bildar fruktkroppar främst från höst till sen vinter. Den odlas i stor utsträckning, men den odlade formen har vanligen en mycket högre, tjockare fot och en mindre hatt än den vildtyp som visas här.",
+      "cap": "Hatten är 4–15 cm bred (ofta 5–10 cm). Först är den välvd, med svagt inrullad kant, sedan avplattad till grunt nedsänkt eller något trattformad och ofta oregelbunden. Ytan är torr, matt och fint sammetsluden, ljust beigebrun till varmt rödbrun eller gråbrun.",
+      "hymenium": "Skivorna är täta, vitaktiga till blekt krämfärgade eller ljust beige, med åldern ibland svagt gråaktiga eller gulaktiga, och djupt nedlöpande, löpande långt ned på foten. Där de möter foten grenar och förenar de sig ofta och bildar ett ådernät.",
+      "stipe": "Foten är 2–6 cm lång och 1–3 cm tjock (ibland endast 0,5 cm), kort och kraftig, central till något excentrisk, upptill ofta något bredare och avsmalnande mot basen, solid, vitaktig till blekt krämfärgad. Det finns varken ring eller slöja.",
+      "flesh": "Köttet är tjockt, fast och vitt i hatten och i den solida foten. Lukten är svag och behaglig; smaken mild.",
+      "sporePrint": "Sporavtrycket är vitt. Sporerna är släta, cylindriskt ellipsoida, cirka 9–14 × 4,5–6,5 µm.",
+      "habitat": "En svag parasit och saprotrof på nedgrävda rötter av Eryngium campestre och E. maritimum, i torr kalk- eller sandrik gräsmark, betesmark, dyn och mineralrika branter. Fruktkropparna kommer upp ur jorden, ensamma eller i små grupper, inte på ved. Huvudsäsongen är höst till sen vinter (september till februari); i Centraleuropa anges även sommar till höst, och vissa medelhavsuppgifter nämner tillfällig vårfruktifiering. Övriga medlemmar av artkomplexet växer på rötter av andra flockblommiga växter och behandlas inte här.",
+      "uses": "Den är en utmärkt matsvamp med fast, vällsmakande kött och odlas i stor utsträckning. Den odlade formen är vanligen en hög, tjock vit fot med förhållandevis liten hatt och ser annorlunda ut än den kortfotade vildtypen. Unga vilda fruktkroppar är bäst; gamla blir segare.",
+      "confusion": "Ostronmussling (Pleurotus ostreatus) och ringmussling (Pleurotus dryinus) växer på ved, inte från gräsmark. P. ostreatus har en slätare, ofta blågrå hatt och bildar typiskt större, överlappande klasar; P. dryinus har en filthårig, fjällig vitaktig hatt och en flyktig hinnaaktig ring. Pleurotus nebrodensis och Pleurotus ferulaginis samt andra taxa i P. eryngii-komplexet är liknande, men växer på andra värdväxter och är ofta blekare. På gräsmark kan tunnköttade giftiga trattskivlingar som Clitocybe dealbata och Clitocybe rivulosa likna på avstånd, men de är inte sammetsludna och växer aldrig på martornsrötter.",
+      "notes": "De säkraste fältkännetecknen hos vildtypen är den tjocka, matta, sammetsbruna hatten, den korta kraftiga vitaktiga foten utan ring och slöja, de djupt nedlöpande krämfärgade skivorna som förenas på foten, och tillväxten ur jorden på Eryngium-rötter i torr gräsmark. Den odlas i stor utsträckning, men vilda fruktkroppar är kortare och mer knubbiga än butiksformen.",
+      "names": [
+        "kejsarhatt"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.dyntaxa.se/Taxon/Info/6052076",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "kungsmussling"
+    },
+    "tr": {
+      "description": "Kalın etli, yabani bir istiridye mantarı; kuru kireçli veya kumlu çayırlarda, otlaklarda ve kumularda tarla dikeni (Eryngium campestre) ve deniz dikeninin (Eryngium maritimum) gömülü kökleri üzerinde topraktan çıkar. Şapka bej-kahverengiden kırmızımsı veya gri-kahverengiye kadar, mat, kuru ve ince kadifemsidir. Sap kısa ve tıknaz, beyazımsı, merkezi veya hafifçe eksantriktir; halka ve örtü yoktur. Sık, beyazımsı ila krem rengi lameller sap boyunca uzaklara iner ve orada sıklıkla bir ağ halinde birleşir. Tür Güney ve Orta Avrupa, Kuzey Afrika ve Batı Asya'ya özgüdür ve esas olarak sonbahardan kış sonuna kadar meyve verir. Yaygın olarak yetiştirilir, ancak kültür formu genellikle burada gösterilen yabani tipe göre çok daha uzun ve kalın bir sap ile daha küçük bir şapkaya sahiptir.",
+      "cap": "Şapka 4–15 cm çapındadır (çoğunlukla 5–10 cm). Önce dışbükeydir, kenarı hafifçe içe kıvrıktır; sonra yassılaşır, hafifçe çukurlaşır veya biraz huni biçimini alır ve çoğu zaman düzensizdir. Yüzey kuru, mat ve ince kadifemsi-keçemsidir; açık bej-kahverengiden sıcak kırmızımsı kahverengiye veya gri-kahverengiye kadardır.",
+      "hymenium": "Lameller sıktır, beyazımsı ila soluk krem veya açık bej renktedir, yaşlandıkça bazen hafifçe grimsi veya sarımsı olur ve derin biçimde dekürandır, sap boyunca uzaklara iner. Sapa ulaştıkları yerde sıklıkla çatallanır ve birleşerek damar ağı oluşturur.",
+      "stipe": "Sap 2–6 cm uzunluğunda ve 1–3 cm kalınlığındadır (bazen yalnızca 0,5 cm), kısa ve tıknaz, merkezi veya hafifçe eksantrik, üstte çoğu zaman biraz daha geniş ve tabana doğru daralan, dolu, beyazımsı ila soluk krem renktedir. Halka ve örtü yoktur.",
+      "flesh": "Et, şapkada ve dolu sapta kalın, sert ve beyazdır. Koku zayıf ve hoştur; tadı yumuşaktır.",
+      "sporePrint": "Spor izi beyazdır. Sporlar pürüzsüz, silindirik-elipsoittir, yaklaşık 9–14 × 4,5–6,5 µm.",
+      "habitat": "Eryngium campestre ve E. maritimum'un gömülü kökleri üzerinde zayıf parazit ve saprottroftur; kuru kireçli veya kumlu çayırlarda, otlaklarda, kumularda ve mineralce zengin yamaçlarda bulunur. Meyve gövdeleri topraktan, tek tek veya küçük gruplar halinde çıkar, odun üzerinde değil. Ana mevsim sonbahardan kış sonuna kadardır (eylül–şubat); Orta Avrupa'da yaz–sonbahar da belirtilir ve bazı Akdeniz kayıtları ara sıra ilkbahar meyve vermesinden söz eder. Kompleksin diğer üyeleri başka maydanozgillerin köklerinde yetişir ve burada ele alınmaz.",
+      "uses": "Sert, lezzetli eti olan mükemmel yenilebilir bir mantardır ve yaygın olarak yetiştirilir. Kültür formu genellikle nispeten küçük şapkalı, uzun ve kalın beyaz bir saptır ve kısa saplı yabani tipten farklıdır. En iyisi genç yabani meyve gövdeleridir; yaşlılar sertleşir.",
+      "confusion": "Kavak mantarı (Pleurotus ostreatus) ve Pleurotus dryinus odun üzerinde büyür, çayır toprağından değil. P. ostreatus daha pürüzsüz, çoğu zaman mavimsi gri bir şapkaya sahiptir ve tipik olarak daha büyük, kiremit gibi üst üste binen kümeler oluşturur; P. dryinus keçemsi-pullu beyazımsı bir şapka ve geçici zarlı bir halkaya sahiptir. Pleurotus nebrodensis ve Pleurotus ferulaginis ile P. eryngii kompleksinin diğer taksonları benzerdir, ancak başka konukçu bitkiler üzerinde yetişir ve çoğu zaman daha soluktur. Çayırlarda ince etli zehirli huniler, örneğin Clitocybe dealbata ve Clitocybe rivulosa, uzaktan biraz benzeyebilir, ancak kadifemsi değildir ve asla diken kökleri üzerinde büyümez.",
+      "notes": "Yabani tipin en güvenilir özellikleri kalın, mat, kadifemsi kahverengi şapka, halkasız ve örtüsüz kısa tıknaz beyazımsı sap, sapta birleşen derin deküran krem rengi lameller ve kuru çayırlarda Eryngium kökleri üzerinde topraktan büyümedir. Bu, bilinen kültür istiridye mantarıdır, ancak yabani meyve gövdeleri ticari formdan daha kısa ve tıknazdır.",
+      "names": [
+        "körek mantarı",
+        "kulak mantarı"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516"
+      ],
+      "label": "diken mantarı"
+    },
+    "uk": {
+      "description": "Дика товстом'ясиста глива, що росте з ґрунту на закопаному корінні польових миколайчиків (Eryngium campestre) і приморських миколайчиків (Eryngium maritimum) у сухих вапнякових або піщаних луках, пасовищах і дюнах. Шапинка бежево-коричнева до червонувато- чи сірувато-коричневої, матова, суха і дрібно оксамитова. Ніжка коротка і товста, білувата, центральна або трохи ексцентрична, без кільця і покривала. Густі білуваті до кремових пластинки далеко спускаються ніжкою і там часто зростаються в сітку. Вид поширений у Південній і Центральній Європі, Північній Африці та Західній Азії і плодоносить переважно з осені до пізньої зими. Її широко культивують, але культурна форма зазвичай має набагато вищу і товщу ніжку та меншу шапинку, ніж показаний тут дикий тип.",
+      "cap": "Шапинка 4–15 см у діаметрі (часто 5–10 см). Спочатку вона опукла, зі злегка загорнутим краєм, потім сплощується, стає слабо вдавленою або трохи лійкоподібною і часто неправильною. Поверхня суха, матова і дрібно оксамитово-повстиста, світло-бежево-коричнева до теплої червонувато-коричневої або сірувато-коричневої.",
+      "hymenium": "Пластинки густі, білуваті до блідо-кремових або світло-бежевих, з віком інколи трохи сіруваті чи жовтуваті, і глибоко низбіжні, що далеко спускаються ніжкою. Там, де вони зустрічаються з ніжкою, вони часто галузяться і зростаються, утворюючи сітку жилок.",
+      "stipe": "Ніжка 2–6 см завдовжки і 1–3 см завтовшки (інколи лише 0,5 см), коротка і товста, центральна або трохи ексцентрична, часто трохи ширша зверху і звужена до основи, суцільна, білувата до блідо-кремової. Кільця і покривала немає.",
+      "flesh": "М'якоть товста, щільна і біла в шапинці та в суцільній ніжці. Запах слабкий і приємний; смак м'який.",
+      "sporePrint": "Споровий порошок білий. Спори гладкі, циліндрично-еліпсоїдні, близько 9–14 × 4,5–6,5 µm.",
+      "habitat": "Слабкий паразит і сапротроф на закопаному корінні Eryngium campestre і E. maritimum у сухих вапнякових або піщаних луках, пасовищах, дюнах і мінеральних схилах. Плодові тіла з'являються з ґрунту, поодинці або невеликими групами, не на деревині. Основний сезон — з осені до пізньої зими (вересень–лютий); у Центральній Європі вказують також літо–осінь, а деякі середземноморські дані згадують рідкісне весняне плодоношення. Інші члени комплексу ростуть на корінні інших зонтичних і тут не розглядаються.",
+      "uses": "Це чудовий їстівний гриб із щільною смачною м'якоттю, і його широко культивують. Культурна форма зазвичай являє собою високу товсту білу ніжку з відносно малою шапинкою і відрізняється від коротконіжкового дикого типу. Найкращі молоді дикі плодові тіла; старі тверднуть.",
+      "confusion": "Глива звичайна (Pleurotus ostreatus) і Pleurotus dryinus ростуть на деревині, а не з ґрунту луків. У P. ostreatus шапинка гладкіша, часто сизувато-сіра, і він зазвичай утворює більші черепицеподібні скупчення; у P. dryinus білувата повстисто-луската шапинка і швидко зникаюче плівчасте кільце. Pleurotus nebrodensis і Pleurotus ferulaginis, а також інші таксони комплексу P. eryngii подібні, але ростуть на інших рослинах-господарях і часто блідіші. На луках здалеку можуть нагадувати тонком'ясисті отруйні говорушки, наприклад Clitocybe dealbata і Clitocybe rivulosa, які, однак, не оксамитові і ніколи не ростуть на корінні миколайчиків.",
+      "notes": "Найбільш надійні ознаки дикого типу — товста матова оксамитово-коричнева шапинка, коротка товста білувата ніжка без кільця і покривала, глибоко низбіжні кремові пластинки, що зростаються на ніжці, і ріст із ґрунту на корінні Eryngium у сухих луках. Це знайома культивована глива, але дикі плодові тіла коротші й товщі за торгову форму.",
+      "names": [
+        "глива королівська"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516"
+      ],
+      "label": "глива миколайчикова"
+    },
+    "zh": {
+      "description": "一种肉质肥厚的野生侧耳，从土壤中长出，寄生或腐生于田刺芹（Eryngium campestre）和海刺芹（Eryngium maritimum）埋藏的根上，见于干燥的石灰质或沙质草地、牧场和沙丘。菌盖呈米色褐至红褐或灰褐色，无光泽，干燥，表面细绒状。菌柄短而粗壮，近白色，中生至稍偏生，无菌环，也无菌幕。菌褶密，近白至奶油色，沿菌柄远远下延，并常在柄上互相连成网。本种原产南欧和中欧、北非及西亚，主要在秋季至冬末出菇。它被广泛栽培，但栽培型通常菌柄更高更粗、菌盖更小，与这里所示的野生型不同。",
+      "cap": "菌盖直径 4–15 cm（常为 5–10 cm）。起初凸出，边缘稍内卷，随后变平，略下凹或稍呈漏斗形，并常不规则。表面干燥、无光泽、细绒至毡状，浅米色褐至暖红褐或灰褐色。",
+      "hymenium": "菌褶密，近白至浅奶油色或浅米色，老时或略带灰或黄，深深下延，沿菌柄远远下行。在与菌柄相接处常分叉并互相连结，形成脉状网。",
+      "stipe": "菌柄长 2–6 cm，粗 1–3 cm（有时仅 0.5 cm），短而粗壮，中生至稍偏生，上部常稍宽并向基部收狭，实心，近白至浅奶油色。无菌环，也无菌幕。",
+      "flesh": "菌肉在菌盖和实心菌柄中均肥厚、坚实、白色。气味淡而悦人；味道温和。",
+      "sporePrint": "孢子印白色。孢子光滑，圆柱–椭圆形，约 9–14 × 4.5–6.5 µm。",
+      "habitat": "弱寄生及腐生，生于 Eryngium campestre 和 E. maritimum 埋藏的根上，见于干燥的石灰质或沙质草地、牧场、沙丘和矿物质丰富的坡地。子实体从土壤中长出，单生或成小群，不生于木材上。主要出菇期为秋季至冬末（9月至2月）；中欧也记载夏季至秋季，部分地中海记录偶尔提及春季出菇。该复合群的其他分类群生于其他伞形科植物的根上，此处不讨论。",
+      "uses": "这是一种优质食用菌，菌肉坚实美味，并被广泛栽培。栽培型通常是高大粗壮的白色菌柄配相对较小的菌盖，外观不同于短柄的野生型。野生幼嫩子实体最好；老的会变硬。",
+      "confusion": "糙皮侧耳（Pleurotus ostreatus）和栎生侧耳（Pleurotus dryinus）生于木材上，而不是从草地土壤中长出。P. ostreatus 的菌盖更光滑，常呈蓝灰色，通常形成更大、叠生的丛；P. dryinus 有近白色、毡状带鳞的菌盖和很快消失的膜质菌环。Pleurotus nebrodensis 和 Pleurotus ferulaginis，以及该复合群的其他分类群外形相近，但生于其他寄主植物上，颜色往往更浅。在草地上，薄肉的有毒漏斗菌如 Clitocybe dealbata 和 Clitocybe rivulosa 远看可能有些相似，但它们不是绒状的，也从不生于刺芹根上。",
+      "notes": "野生型最可靠的特征是肥厚、无光泽、绒状的褐色菌盖，无菌环无菌幕的短粗近白色菌柄，在柄上互相连结的深深下延的奶油色菌褶，以及在干燥草地中从 Eryngium 根上的土壤里长出。它被广泛栽培，但野生子实体比商品型更短、更粗壮。",
+      "names": [
+        "杏鮑菇",
+        "刺芹侧耳"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9075265",
+        "https://www.inaturalist.org/taxa/205516",
+        "https://zh.wikipedia.org/wiki/%E6%9D%8F%E9%AE%91%E8%8F%87",
+        "https://www.wikidata.org/wiki/Q901105"
+      ],
+      "label": "杏鲍菇"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus eryngii",
+      "author": "DC.",
+      "year": 1815,
+      "rank": "species",
+      "type": "basionym",
+      "if": 468015
+    },
+    {
+      "name": "Agaricus cardarella",
+      "author": "Battarra ex Fr.",
+      "year": 1821,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pleurotus cardarella",
+      "author": "(Battarra ex Fr.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Clitocybe cardarella",
+      "author": "(Battarra ex Fr.) Sacc.",
+      "year": 1887,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus ferulae",
+      "author": "Lanzi",
+      "year": 1874,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Pleurotus fuscus",
+      "author": "Battarra ex Bres.",
+      "year": 1928,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    }
+  ],
+  "reserved": false,
+  "id": 220,
+  "citation": "Mém. Soc. Émul. Montbéliard, Sér. 2 5: 11 [79 repr.] (1872)"
+},
+{
+  "name": "Rhodocollybia butyracea",
+  "author": "(Bull.) Lennox",
+  "family": "Omphalotaceae",
+  "genus": "Rhodocollybia",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Omphalotaceae",
+    "Rhodocollybia"
+  ],
+  "summary": [
+    "Agaricales",
+    "Omphalotaceae",
+    "Rhodocollybia"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "fruitingFrom": 6,
+  "fruitingTo": 12,
+  "label": {
+    "bg": "Маслена паричка",
+    "cs": "penízovka máslová",
+    "da": "Keglestokket fladhat",
+    "de": "Butter-Rübling",
+    "en": "Butter Cap",
+    "et": "Või-punakõrges",
+    "fi": "valkoviirujuurekas",
+    "fr": "Collybie beurrée",
+    "he": "אסימונית חמאה",
+    "hu": "bunkóslábú fülőke",
+    "ja": "エセオリミキ",
+    "ko": "버터철쭉버섯",
+    "lt": "Sviestinė didplempė",
+    "lv": "Sviesta vērdiņsēne",
+    "nl": "Botercollybia",
+    "no": "rødbrun flathatt",
+    "pl": "Monetnica maślana",
+    "ru": "Коллибия масляная",
+    "sk": "peniazovka maslová",
+    "sl": "žaltava korenarka",
+    "sv": "mörk nagelskivling",
+    "tr": "Gövertek mantarı",
+    "uk": "Родоколібія масляна",
+    "zh": "乳酪状粉金钱菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Butterrübling",
+      "Kastanienroter Rübling"
+    ],
+    "en": [
+      "Buttery Collybia",
+      "Greasy Toughshank"
+    ],
+    "es": [],
+    "et": [
+      "Võikõrges"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Collybie savonneuse"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "Sviestinė plempė"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "Pieniążek maślany"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Родоколлибия масляная",
+      "Денежка масляная",
+      "Коллибия каштановая"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "乳酪狀金錢菌",
+      "乳酪紅金錢菇"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=322522",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=322522",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=322522",
+      "https://www.gbif.org/species/9217873",
+      "https://www.first-nature.com/fungi/rhodocollybia-butyracea.php",
+      "https://de.wikipedia.org/wiki/Butter-R%C3%BCbling",
+      "https://www.myko.cz/myko-atlas/Rhodocollybia-butyracea/",
+      "https://www.pilze-deutschland.de/organismen/rhodocollybia-butyracea-bull-lennox-1979-1",
+      "https://en.wikipedia.org/wiki/Rhodocollybia_butyracea",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://species.nbnatlas.org/species/BMSSYS0000016334"
+    ],
+    "ar": [],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "cs": [
+      "https://api.gbif.org/v1/species/9217873/vernacularNames",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://www.myko.cz/myko-atlas/Rhodocollybia-butyracea/"
+    ],
+    "da": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Butter-R%C3%BCbling",
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://www.pilze-deutschland.de/organismen/rhodocollybia-butyracea-bull-lennox-1979-1",
+      "https://www.gbif.org/species/9217873"
+    ],
+    "es": [],
+    "et": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Valkoviirujuurekas",
+      "https://www.gbif.org/species/9217873",
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "he": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "lt": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Botercollybia",
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "no": [
+      "https://www.gbif.org/species/9217873"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Rhodocollybia_butyracea",
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.gbif.org/species/9217873"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166",
+      "https://www.wikidata.org/wiki/Q1018043"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "tr": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "uk": [
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q1018043",
+      "https://www.gbif.org/species/9217873",
+      "https://www.inaturalist.org/taxa/118166"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_1.webp",
+      "author": "Christina s.l.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/245743323"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_2.webp",
+      "author": "Stuart",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/191361790"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_3.webp",
+      "author": "Teemu Kurppa",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/251206570"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_4.webp",
+      "author": "Mikko Heikkinen",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/187658998"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_5.webp",
+      "author": "arthur_haendler",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/189338573"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 848×1264 source has a cursive “Gemini” mark at the lower right (ink only, about x 676–741, y 1029–1060). The 2:3 fit crop trims only 2.67 source pixels from each side and does not reach the mark or any figure; nothing was erased or painted."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_1.webp",
+      "author": "Christina s.l.",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/245743323"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_2.webp",
+      "author": "Stuart",
+      "license": "CC0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/191361790"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_3.webp",
+      "author": "Teemu Kurppa",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/251206570"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_4.webp",
+      "author": "Mikko Heikkinen",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/187658998"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Omphalotaceae/Rhodocollybia_butyracea/Rhodocollybia_butyracea_5.webp",
+      "author": "arthur_haendler",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/189338573"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر غابي شائع ذو صفائح ينمو في فرش الأوراق والإبر، عادة في مجموعات تحت المخروطيات وأيضًا في الغابات المختلطة أو النفضية، غالبًا على ترب حمضية فقيرة بالمغذيات. القبعة دهنية وشديدة التغيّر بالرطوبة: بنيّة محمرّة داكنة إلى كستنائية وهي رطبة، وتجف من المركز إلى لون أوكر شاحب أو بيج، فيبقى السطح بلونين، عادة مع سنام عريض منخفض. الصفائح المتزاحمة بيضاء إلى كريمية شاحبة، حرّة أو متصلة بضيق، ذات حد مسنّن دقيق. الساق القاسية الليفية الجوفاء بنيّة محمرّة، أشحب نحو القمة، ومتسعة بوضوح بشكل هراوة عند القاعدة، التي يكسوها ميسيليوم أبيض صوفي يلحم الفرش. لا حلقة ولا فولفا. تظهر الأجسام الثمرية من يونيو إلى ديسمبر، بوفرة أكبر في الخريف.",
+      "cap": "القبعة عرضها 3–9 سم. تكون في البداية محدبة، بحافة ملفوفة قليلًا إلى الداخل، ثم تتسطح مع سنام عريض منخفض؛ والحافة رقيقة وقد تكون مخططّة شفافة باعتدال وهي رطبة. السطح أملس دهني وشديد التغيّر بالرطوبة، بنيّ محمرّ داكن إلى كستنائي وهو مبتل، ويجف من المركز إلى أوكر شاحب أو بيج ويبقى غالبًا أغمق على السنام.",
+      "hymenium": "الصفائح متزاحمة رقيقة، بيضاء إلى كريمية شاحبة، حرّة أو متصلة بضيق، ذات حد مسنّن دقيق، مع كثير من الصفائح الأقصر بينها.",
+      "stipe": "الساق طولها 3–8 سم وسُمكها 0.5–2 سم (السُمك الأكبر للقاعدة الهراوية؛ وعند القمة عادة نحو 0.5–1 سم). وهي قاسية، مخططة طوليا بالألياف وغضروفية، بنيّة محمرّة وأشحب نحو القمة، جوفاء أو محشوة، وتتسع إلى قاعدة هراوية يغطيها ميسيليوم أبيض صوفي يربط الفرش. لا حلقة ولا فولفا.",
+      "flesh": "اللحم في القبعة رقيق مائي وأبيض إلى بني شاحب. للساق قشرة ليفية وداخل محشو إلى أجوف يكون أصلب في القاعدة المتضخمة. الرائحة خفيفة؛ والطعم قليلاً دقيقي أو غير مميز.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى كريمية أو بيج وردي شاحب. الأبواغ ملساء إهليلجية، نحو 6–10 × 3–6 µm.",
+      "habitat": "رمّامي على إبر المخروطيات وفرش الأوراق، أساسًا في غابات المخروطيات، وأيضًا في الغابات المختلطة والنفضية، غالبًا على ترب حمضية فقيرة. تخرج الأجسام الثمرية في مجموعات من الفرش، لا من الخشب، من يونيو إلى ديسمبر، بوفرة أكبر في الخريف.",
+      "uses": "يؤكل لكنه رديء القيمة. السوق قاسية وعادة تُستبعد؛ وللقبعات طعم خفيف قليلاً دقيقي وليست مُرضية كثيرًا في المطبخ. في الغابة فطريات أفضل بكثير، ويسهل الخلط بينه وبين فطريات بنية صغيرة أخرى في الفرش، بعضها سام.",
+      "confusion": "لدى Gymnopus dryophilus قبعة جافة غير دهنية لا تجف بالطريقة ذاتها ذات اللونين، وساق أنحف وأكثر انتظامًا بلا قاعدة هراوية واضحة. Rhodocollybia asema فطر رمادي بني أشحب ذو هيئة مشابهة، يُعامل هنا نوعًا مستقلًا. لدى Rhodocollybia maculata قبعة أشحب تظهر عليها بقع حمراء صدئة، وصفائح مبقعة بالمثل. لدى Macrocystidia cucumis قبعة مخملية أغمق وساق مخملية كذلك ورائحة قوية تشبه الخيار أو السمك. في الفرش نفسه قد تنمو أنواع سامة صغيرة من Clitocybe وInocybe؛ ينقصها القبعة الدهنية ذات اللونين والساق الهراوية ذات القاعدة الصوفية.",
+      "notes": "أوضح العلامات في الحقل هي القبعة الدهنية الشديدة التغيّر بالرطوبة التي تجف بلونين من مركز بني محمرّ داكن، والصفائح البيضاء المتزاحمة ذات الحد المسنّن الدقيق، والساق القاسية البنيّة المحمرّة التي تتسع إلى قاعدة هراوية ملفوفة بلباد ميسيليومي أبيض.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Обикновена горска пластинчата гъба на листната и иглената постилка, обикновено на групи под иглолистни, а също в смесени или широколистни гори, често на кисели, бедни на хранителни вещества почви. Шапката е мазна и силно хигрофанна: влажна тъмно червеникавокафява до кестенява, при изсъхване изсветлява от центъра до бледо охра или жълтеникавокафява, така че повърхността остава двуцветна, обикновено с широка ниска пъпка. Гъстите пластинки са бели до бледо кремави, свободни или тясно прираснали, с фино назъбен ръб. Коравото, влакнесто, кухо пънче е червеникавокафяв, към върха по-блед и в основата ясно бухалковидно удебелен; основата е облечена в белезникав вълнест мицел, който слепва постилката. Пръстен и волва няма. Плодните тела се появяват от юни до декември, най-обилно през есента.",
+      "cap": "Шапката е 3–9 cm в диаметър. Отначало е изпъкнала, със слабо подвит ръб, после изплескана с широка ниска пъпка; ръбът е тънък и във влажно състояние може да е слабо прозирно набразден. Повърхността е гладка, мазна и силно хигрофанна, мокра тъмно червеникавокафява до кестенява, при изсъхване изсветлява от центъра до бледо охра или жълтеникавокафява и на пъпката често остава по-тъмна.",
+      "hymenium": "Пластинките са гъсти, тънки, бели до бледо кремави, свободни или тясно прираснали, с фино назъбен ръб и с много по-къси междинни пластинки.",
+      "stipe": "Пънчето е високо 3–8 cm и дебело 0,5–2 cm (по-голямата дебелина се пада на бухалковидната основа; при върха обикновено около 0,5–1 cm). То е кораво, надлъжно влакнесто набраздено и хрущялно, червеникавокафяво и към върха по-бледо, кухо или изпълнено и се разширява в бухалковидна основа, покрита с белезникав вълнест мицел, който свързва постилката. Пръстен и волва няма.",
+      "flesh": "Месото в шапката е тънко, воднисто и бяло до бледо кафеникаво. Пънчето има влакнеста кора и изпълнена до куха вътрешност, която в удебелената основа е по-плътна. Миризмата е слаба; вкусът леко брашнест или неизразителен.",
+      "sporePrint": "Споровият прах е бял до кремав или бледо розовоохра. Спорите са гладки, елипсоидни, около 6–10 × 3–6 µm.",
+      "habitat": "Сапротроф върху иглички и листна постилка, главно в иглолистни гори, също в смесени и широколистни насаждения, често на кисели, бедни почви. Плодните тела растат на групи от постилката, не от дървесина, от юни до декември, най-обилно през есента.",
+      "uses": "Ядлива е, но малоценна. Пънчетата са корави и обикновено се отстраняват; шапките имат слаб, леко брашнест вкус и кулинарно не са особено задоволителни. В гората има много по-добри гъби и лесно се обърква с други дребни кафяви гъби на постилката, някои от които са отровни.",
+      "confusion": "Gymnopus dryophilus има суха, не мазна шапка, която не изсъхва по същия двуцветен начин, и по-тънко, по-равномерно пънче без ясно бухалковидна основа. Rhodocollybia asema е по-бледа сивокафява гъба със сходен хабитус, тук разглеждана като отделен вид. Rhodocollybia maculata има по-бледа шапка, върху която се появяват ръждивочервени петна, и също така петнисти пластинки. Macrocystidia cucumis има кадифена, по-тъмна шапка, също така кадифено пънче и силна миризма на краставица или риба. В същата постилка могат да растат дребни отровни видове Clitocybe и Inocybe; липсват им мазната двуцветна шапка и бухалковидното пънче с вълнеста основа.",
+      "notes": "Най-сигурните белези на терена са мазната, силно хигрофанна шапка, която изсъхва двуцветно от тъмно червеникавокафяв център, гъстите бели пластинки с фино назъбен ръб и коравото червеникавокафяво пънче, което се разширява в бухалковидна основа, обвита в белезникав мицелен филц.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "Маслена паричка"
+    },
+    "cs": {
+      "description": "Běžná lesní lupenatá houba listového a jehličnatého opadu, obvykle ve skupinách pod jehličnany a také ve smíšených nebo listnatých lesích, často na kyselých, živinami chudých půdách. Klobouk je mastný a silně hygrofánní: za vlhka tmavě červenohnědý až kaštanový, od středu zasychá do bledě okrové až plavé, takže zůstává dvoutónový povrch, obvykle s širokým nízkým hrbolem. Husté lupeny jsou bílé až bledě krémové, volné nebo úzce připojené, s jemně zoubkatým ostřím. Tuhý, vláknitý, dutý třeň je červenohnědý, k vrcholu bledší a na bázi zřetelně kyjovitě ztlustlý; báze je oděná bílým vlnitým podhoubím, které slepuje opad. Prsten ani pochva chybí. Plodnice se objevují od června do prosince, nejhojněji na podzim.",
+      "cap": "Klobouk má 3–9 cm v průměru. Nejprve je sklenutý, se slabě podvinutým okrajem, později zploštělý s širokým nízkým hrbolem; okraj je tenký a za vlhka může být slabě průsvitně rýhovaný. Povrch je hladký, mastný a silně hygrofánní, za mokra tmavě červenohnědý až kaštanový, od středu zasychá do bledě okrové až plavé a na hrbole často zůstává tmavší.",
+      "hymenium": "Lupeny jsou husté, tenké, bílé až bledě krémové, volné nebo úzce připojené, s jemně zoubkatým ostřím a s mnoha kratšími mezilupeny.",
+      "stipe": "Třeň je 3–8 cm vysoký a 0,5–2 cm tlustý (větší tloušťka připadá na kyjovitou bázi; na vrcholu bývá asi 0,5–1 cm). Je tuhý, podélně vláknitě rýhovaný a chrupavčitý, červenohnědý a k vrcholu bledší, dutý nebo vycpaný, rozšiřuje se v kyjovitou bázi pokrytou bílým vlnitým podhoubím, které váže opad. Prsten ani pochva chybí.",
+      "flesh": "Dužnina je v klobouku tenká, vodnatá a bílá až bledě hnědavá. Třeň má vláknitou kůru a vycpaný až dutý vnitřek, který je v ztlustlé bázi plnější. Vůně je mírná; chuť slabě moučná nebo nevýrazná.",
+      "sporePrint": "Výtrusný prach je bílý až krémový nebo bledě narůžověle okrový. Výtrusy jsou hladké, elipsoidní, asi 6–10 × 3–6 µm.",
+      "habitat": "Saprotrof na jehličí a listovém opadu, především v jehličnatých lesích, také ve smíšených a listnatých porostech, často na kyselých, živinami chudých půdách. Plodnice vyrůstají ve skupinách z opadu, nikoli ze dřeva, od června do prosince, nejhojněji na podzim.",
+      "uses": "Je jedlá, ale málo hodnotná. Třeně jsou tuhé a obvykle se odstraňují; klobouky mají mírnou, slabě moučnou chuť a kuchyňsky příliš neuspokojí. V lese je mnoho lepších hub a snadno se zamění s jinými drobnými hnědými houbami opadu, z nichž některé jsou jedovaté.",
+      "confusion": "Gymnopus dryophilus má suchý, nikoli mastný klobouk, který stejně dvoutónově nezasychá, a tenčí, rovnoměrnější třeň bez zřetelně kyjovité báze. Rhodocollybia asema je bledší šedohnědá houba podobného vzhledu, zde pojímaná jako samostatný druh. Rhodocollybia maculata má bledší klobouk, na němž se objevují rezavě červené skvrny, a obdobně skvrnité lupeny. Cystidovka rybovonná (Macrocystidia cucumis) má sametový, tmavší klobouk, stejně sametový třeň a silnou okurkovou nebo rybí vůni. V tomtéž opadu mohou růst drobné jedovaté druhy rodů Clitocybe a Inocybe; chybí jim mastný dvoutónový klobouk i kyjovitý třeň s vlnitou bází.",
+      "notes": "Nejistějšími znaky v terénu jsou mastný, silně hygrofánní klobouk, který od tmavě červenohnědého středu zasychá dvoutónově, husté bílé lupeny s jemně zoubkatým ostřím a tuhý červenohnědý třeň, který se rozšiřuje v kyjovitou bázi obalenou bílým plstnatým podhoubím.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9217873/vernacularNames",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://www.myko.cz/myko-atlas/Rhodocollybia-butyracea/"
+      ],
+      "label": "penízovka máslová"
+    },
+    "da": {
+      "description": "En almindelig skovlamelsvamp i blad- og nåleaffald, typisk i grupper under nåletræer og også i blandede eller løvskove, ofte på sur, næringsfattig jord. Hatten er fedtet og stærkt hygrofan: fugtig mørkt rødbrun til kastanjebrun, tørrende bleg okker til gultan indefra midten, så en totone overflade bliver tilbage, sædvanligvis med en bred lav pukkel. De tætte lameller er hvide til bleg creme, frie eller smalt tilhæftede, med fint tandet æg. Den seje, fibrøse, hule stok er rødbrun, blegere mod spidsen og tydeligt kølleformet fortykket ved basis; basis er beklædt med hvidt uldent mycelium, der binder affaldet. Ring og volva mangler. Frugtlegemer vises fra juni til december, rigeligst om efteråret.",
+      "cap": "Hatten er 3–9 cm bred. Først er den hvælvet, med let indrullet rand, senere affladet med en bred lav pukkel; randen er tynd og kan være svagt gennemskinneligt stribet i fugtigt vejr. Overfladen er glat, fedtet og stærkt hygrofan, våd mørkt rødbrun til kastanjebrun, tørrende bleg okker til gultan indefra midten og ofte mørkere på pukkelen.",
+      "hymenium": "Lamellerne er tætte, tynde, hvide til bleg creme, frie eller smalt tilhæftede, med fint tandet æg og med mange kortere mellemlameller.",
+      "stipe": "Stokken er 3–8 cm høj og 0,5–2 cm tyk (den større tykkelse gælder den kølleformede basis; ved spidsen typisk omkring 0,5–1 cm). Den er sej, længdefibret stribet og bruskagtig, rødbrun og blegere mod spidsen, hul eller udfyldt og udvider sig til en kølleformet basis dækket af hvidt uldent mycelium, der binder affaldet. Ring og volva mangler.",
+      "flesh": "Kødet er i hatten tyndt, vandigt og hvidt til bleg brunligt. Stokken har en fibrøs bark og et udfyldt til hult indre, der er fastere i den fortykkede basis. Lugten er mild; smagen svagt melet eller upåfaldende.",
+      "sporePrint": "Sporeaftrykket er hvidt til cremefarvet eller bleg rosaoker. Sporerne er glatte, ellipsoide, omkring 6–10 × 3–6 µm.",
+      "habitat": "En saprotrof på nåle og bladstrøelse, især i nåleskove, også i blandede og løvskove, ofte på sur, næringsfattig jord. Frugtlegemerne kommer i grupper fra strøelsen, ikke fra ved, fra juni til december, rigeligst om efteråret.",
+      "uses": "Den er spiselig, men af ringe værdi. Stokkene er seje og kasseres sædvanligvis; hatte har en mild, svagt melet smag og er kulinarisk ikke særligt tilfredsstillende. I skoven findes mange bedre svampe, og den forveksles let med andre små brune strøelsessvampe, hvoraf nogle er giftige.",
+      "confusion": "Gymnopus dryophilus har en tør, ikke fedtet hat, der ikke tørrer totone på samme måde, og en tyndere, jævnere stok uden tydeligt kølleformet basis. Rhodocollybia asema er en blegere gråbrun svamp af lignende vækstform, her behandlet som en særskilt art. Rhodocollybia maculata har en blegere hat, der får rustøde pletter, og tilsvarende plettede lameller. Agurkehat (Macrocystidia cucumis) har en fløjlagtig, mørkere hat, en tilsvarende fløjlagtig stok og en stærk agurk- eller fiskeagtig lugt. I samme strøelse kan små giftige arter af Clitocybe og Inocybe gro; de mangler den fedtede totonede hat og den kølleformede, uldent basale stok.",
+      "notes": "De sikreste feltkendetegn er den fedtede, stærkt hygrofane hat, der tørrer totone fra et mørkt rødbrunt midtpunkt, de tætte hvide lameller med fint tandet æg og den seje rødbrune stok, der udvider sig til en kølleformet basis indhyllet i hvid myceliefilt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Keglestokket fladhat"
+    },
+    "de": {
+      "description": "Ein häufiger Waldblätterpilz der Laub- und Nadelstreu, meist in Gruppen unter Nadelbäumen, auch in Misch- oder Laubwäldern, oft auf sauren, nährstoffarmen Böden. Der Hut ist fettig und stark hygrophan: feucht dunkel rotbraun bis kastanienbraun, vom Zentrum her zu blass ocker- oder lederfarben auftrocknend, sodass eine zweifarbige Oberfläche bleibt, meist mit einem breiten, niedrigen Buckel. Die gedrängten Lamellen sind weiß bis blass cremefarben, frei oder schmal angewachsen, mit fein gezähnelter Schneide. Der zähe, faserige, hohle Stiel ist rotbraun, zur Spitze hin blasser und an der Basis deutlich keulig verdickt; die Basis ist von weißem, wolligem Myzel bekleidet, das die Streu verklebt. Ring und Volva fehlen. Fruchtkörper erscheinen von Juni bis Dezember, am reichlichsten im Herbst.",
+      "cap": "Der Hut misst 3–9 cm im Durchmesser. Zuerst ist er gewölbt, mit leicht eingerolltem Rand, später flach mit einem breiten, niedrigen Buckel; der Rand ist dünn und kann feucht schwach durchscheinend gerieft sein. Die Oberfläche ist glatt, fettig und stark hygrophan, nass dunkel rotbraun bis kastanienbraun, vom Zentrum her zu blass ocker- oder lederfarben auftrocknend und am Buckel oft dunkler bleibend.",
+      "hymenium": "Die Lamellen sind gedrängt, dünn, weiß bis blass cremefarben, frei oder schmal angewachsen, mit fein gezähnelter Schneide und zahlreichen kürzeren Zwischenlamellen.",
+      "stipe": "Der Stiel ist 3–8 cm hoch und 0,5–2 cm dick (die größere Dicke betrifft die keulige Basis; an der Spitze meist etwa 0,5–1 cm). Er ist zäh, längsfaserig gerieft und knorpelig, rotbraun und zur Spitze hin blasser, hohl oder ausgestopft und erweitert sich in eine keulige Basis, die von weißem, wolligem Myzel bedeckt ist und die Streu bindet. Ring und Volva fehlen.",
+      "flesh": "Das Fleisch ist im Hut dünn, wässrig und weiß bis blass bräunlich. Der Stiel hat eine faserige Rinde und ein ausgestopftes bis hohles Inneres, das in der verdickten Basis fester ist. Der Geruch ist mild; der Geschmack schwach mehlig oder unauffällig.",
+      "sporePrint": "Das Sporenpulver ist weiß bis cremefarben oder blass rosaocker. Die Sporen sind glatt, ellipsoid, etwa 6–10 × 3–6 µm.",
+      "habitat": "Ein Saprobiont auf Nadeln und Laubstreu, vor allem in Nadelwäldern, auch in Misch- und Laubwäldern, oft auf sauren, nährstoffarmen Böden. Die Fruchtkörper erscheinen in Gruppen aus der Streu, nicht am Holz, von Juni bis Dezember, am reichlichsten im Herbst.",
+      "uses": "Er ist essbar, aber von geringem Wert. Die Stiele sind zäh und werden gewöhnlich verworfen; die Hüte haben einen milden, leicht mehligen Geschmack und lohnen kulinarisch kaum. Im Wald gibt es viele bessere Pilze, und er ist leicht mit anderen kleinen braunen Streupilzen zu verwechseln, von denen einige giftig sind.",
+      "confusion": "Gymnopus dryophilus hat einen trockenen, nicht fettigen Hut, der nicht in derselben Weise zweifarbig auftrocknet, und einen dünneren, gleichmäßigeren Stiel ohne deutlich keulige Basis. Rhodocollybia asema ist ein blasser graubrauner Pilz ähnlichen Habitus, hier als eigene Art behandelt. Rhodocollybia maculata hat einen blasseren Hut, der rostrote Flecken bekommt, und ebenso gefleckte Lamellen. Der Gurkenschnitzling (Macrocystidia cucumis) hat einen samtigen, dunkleren Hut, einen ebenso samtigen Stiel und einen starken Gurken- oder Fischgeruch. In derselben Streu können kleine giftige Arten von Clitocybe und Inocybe wachsen; ihnen fehlen der fettige zweifarbige Hut und der keulige, wollig basale Stiel.",
+      "notes": "Die sichersten Feldmerkmale sind der fettige, stark hygrophane Hut, der von einem dunkel rotbraunen Zentrum zweifarbig auftrocknet, die gedrängten weißen Lamellen mit fein gezähnelter Schneide und der zähe rotbraune Stiel, der sich in eine keulige, von weißem Myzelfilz umhüllte Basis erweitert.",
+      "names": [
+        "Butterrübling",
+        "Kastanienroter Rübling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Butter-R%C3%BCbling",
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://www.pilze-deutschland.de/organismen/rhodocollybia-butyracea-bull-lennox-1979-1",
+        "https://www.gbif.org/species/9217873"
+      ],
+      "label": "Butter-Rübling"
+    },
+    "en": {
+      "description": "A common woodland agaric of leaf and needle litter, usually in groups under conifers and also in mixed or deciduous woods, often on acid, nutrient-poor soils. The cap is greasy and strongly hygrophanous: dark reddish-brown to chestnut when moist, drying paler buff-tan from the centre so that a two-toned surface remains, usually with a broad low umbo. The crowded gills are white to pale cream, free or narrowly attached, with finely toothed edges. The tough, fibrous, hollow stem is reddish-brown, paler toward the apex, and distinctly club-shaped at the base, which is clothed in white woolly mycelium that mats the litter. There is no ring or volva. Fruit bodies appear from June to December, most freely in autumn.",
+      "cap": "The cap is 3–9 cm across. It is convex at first, with a slightly inrolled margin, then flattened with a broad low umbo; the margin is thin and may be faintly translucent-striate when moist. The surface is smooth, greasy and strongly hygrophanous, dark reddish-brown to chestnut when wet, drying pale buff-tan from the centre outward and often remaining darker at the umbo.",
+      "hymenium": "The gills are crowded, thin, white to pale cream, free or narrowly adnexed, with finely toothed (crenulate) edges and many shorter gills (lamellulae) between them.",
+      "stipe": "The stem is 3–8 cm tall and 0.5–2 cm thick (the greater thickness is the club-shaped base; the apex is usually about 0.5–1 cm). It is tough, fibrous-striate and cartilaginous, reddish-brown and paler toward the apex, hollow or stuffed, widening into a club-shaped base covered in white woolly mycelium that binds the litter. There is no ring and no volva.",
+      "flesh": "The flesh is thin, watery and white to pale brownish in the cap. The stem has a fibrous rind and a stuffed-to-hollow interior that becomes more solid in the swollen base. The smell is mild; the taste is slightly mealy or unremarkable.",
+      "sporePrint": "The spore print is white to cream or pale pinkish-buff. The spores are smooth, ellipsoid, about 6–10 × 3–6 µm.",
+      "habitat": "A saprotroph on conifer needles and leaf litter, mainly in coniferous woods, also in mixed and deciduous woodland, often on acid, nutrient-poor soils. Fruit bodies appear in groups from the litter, not on wood, from June to December, most freely in autumn.",
+      "uses": "It is edible but poor. The stems are tough and usually discarded; the caps have a mild, slightly mealy flavour and are not especially rewarding. There are many better woodland mushrooms, and it is easily confused with other small brown litter fungi, some of which are toxic.",
+      "confusion": "Gymnopus dryophilus has a dry, not greasy cap that does not dry two-toned in the same way, and a thinner, more even stem that is not distinctly club-shaped at the base. Rhodocollybia asema is a paler grey-brown fungus of similar habit, treated here as a separate species. Rhodocollybia maculata has a paler cap that develops rusty-red spots, and similarly spotted gills. The cucumber cap (Macrocystidia cucumis) has a velvety, darker cap, a similarly velvety stem and a strong cucumber or fishy smell. Small toxic species of Clitocybe and Inocybe can grow in the same litter; they lack the greasy two-toned cap and the club-shaped, woolly-based stem.",
+      "notes": "The surest field marks are the greasy, strongly hygrophanous cap that dries two-toned from a dark reddish-brown centre, the crowded white gills with finely toothed edges, and the tough reddish-brown stem that widens into a club-shaped base bound in white mycelial felt.",
+      "names": [
+        "Buttery Collybia",
+        "Greasy Toughshank"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=322522",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=322522",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=322522",
+        "https://www.gbif.org/species/9217873",
+        "https://www.first-nature.com/fungi/rhodocollybia-butyracea.php",
+        "https://de.wikipedia.org/wiki/Butter-R%C3%BCbling",
+        "https://www.myko.cz/myko-atlas/Rhodocollybia-butyracea/",
+        "https://www.pilze-deutschland.de/organismen/rhodocollybia-butyracea-bull-lennox-1979-1",
+        "https://en.wikipedia.org/wiki/Rhodocollybia_butyracea",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://species.nbnatlas.org/species/BMSSYS0000016334"
+      ],
+      "label": "Butter Cap"
+    },
+    "es": {
+      "description": "Un agarical forestal frecuente de la hojarasca y de las acículas, por lo general en grupos bajo coníferas y también en bosques mixtos o caducifolios, a menudo en suelos ácidos y pobres en nutrientes. El sombrero es grasiento y fuertemente higrófano: de color pardo rojizo oscuro a castaño cuando está húmedo, se seca desde el centro a un ante ocráceo pálido, de modo que queda una superficie bicolor, habitualmente con un umbón bajo y ancho. Las láminas apretadas son blancas a crema pálido, libres o estrechamente adheridas, con el filo finamente denticulado. El pie fibroso, tenaz y hueco es pardo rojizo, más pálido hacia el ápice, y claramente ensanchado en maza en la base, que está vestida de un micelio blanco lanoso que aglutina la hojarasca. No hay anillo ni volva. Los basidiomas aparecen de junio a diciembre, con mayor abundancia en otoño.",
+      "cap": "El sombrero mide 3–9 cm de diámetro. Al principio es convexo, con el margen algo enrollado, luego aplanado con un umbón bajo y ancho; el margen es delgado y, en húmedo, puede ser débilmente estriado-translúcido. La superficie es lisa, grasienta y fuertemente higrófana, de color pardo rojizo oscuro a castaño en mojado, se seca desde el centro a un ante ocráceo pálido y suele permanecer más oscura en el umbón.",
+      "hymenium": "Las láminas son apretadas, delgadas, blancas a crema pálido, libres o estrechamente adheridas, con el filo finamente denticulado y con numerosas lamélulas más cortas.",
+      "stipe": "El pie mide 3–8 cm de alto y 0,5–2 cm de grosor (el mayor grosor corresponde a la base claviforme; en el ápice suele medir unos 0,5–1 cm). Es tenaz, fibriloso-estriado y cartilaginoso, pardo rojizo y más pálido hacia el ápice, hueco o relleno, y se ensancha en una base claviforme cubierta de micelio blanco lanoso que une la hojarasca. No hay anillo ni volva.",
+      "flesh": "La carne es delgada, acuosa y blanca a pardo pálido en el sombrero. El pie tiene una corteza fibrosa y un interior relleno a hueco, más sólido en la base ensanchada. El olor es suave; el sabor ligeramente harinoso o poco característico.",
+      "sporePrint": "La esporada es blanca a crema o ante rosáceo pálido. Las esporas son lisas, elipsoides, de unos 6–10 × 3–6 µm.",
+      "habitat": "Saprótrofo sobre acículas de coníferas y hojarasca, principalmente en bosques de coníferas, también en bosques mixtos y caducifolios, a menudo en suelos ácidos y pobres. Los basidiomas salen en grupos de la hojarasca, no de la madera, de junio a diciembre, con mayor abundancia en otoño.",
+      "uses": "Es comestible, pero de escaso valor. Los pies son tenaces y suelen desecharse; los sombreros tienen un sabor suave, ligeramente harinoso, y no resultan especialmente gratificantes en cocina. Hay muchos mejores hongos del bosque, y se confunde fácilmente con otros pequeños hongos pardos de hojarasca, algunos de ellos tóxicos.",
+      "confusion": "Gymnopus dryophilus tiene un sombrero seco, no grasiento, que no se seca de la misma manera bicolor, y un pie más delgado y uniforme, sin una base claramente claviforme. Rhodocollybia asema es un hongo pardo grisáceo más pálido de porte semejante, tratado aquí como una especie distinta. Rhodocollybia maculata tiene un sombrero más pálido que desarrolla manchas rojo-oxidado, y láminas igualmente manchadas. Macrocystidia cucumis tiene un sombrero aterciopelado más oscuro, un pie igualmente aterciopelado y un fuerte olor a pepino o a pescado. En la misma hojarasca pueden crecer pequeñas especies tóxicas de Clitocybe e Inocybe; les faltan el sombrero grasiento bicolor y el pie claviforme de base lanosa.",
+      "notes": "Los rasgos de campo más seguros son el sombrero grasiento, fuertemente higrófano, que se seca de forma bicolor desde un centro pardo rojizo oscuro, las láminas blancas apretadas de filo finamente denticulado, y el pie tenaz pardo rojizo que se ensancha en una base claviforme envuelta en un fieltro miceliar blanco.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Sage metsaeoslehine seen lehe- ja okkarisu, tavaliselt rühmadena okaspuude all ning ka sega- või lehtmetsades, sageli happelistel, toitainevaestel muldadel. Kübar on rasvane ja tugevasti hügrofaanne: niiskelt tumedalt punakaspruun kuni kastanipruun, kuivab keskelt kahvatult ookerjaks või helepruuniks, nii et pind jääb kahetooniliseks, tavaliselt laia madala kühmuga. Tihedad eoslehekesed on valged kuni kahvatult kreemjad, vabad või kitsalt kinnitunud, peenelt hambulisel serval. Sitke, kiuline, õõnes jalg on punakaspruun, tipu suunas kahvatum ja tüvel selgelt nuiakujuliselt jämenenud; tüve katab valge villjas mütseel, mis seob risu. Rõngast ja tuppe ei ole. Viljakehad ilmuvad juunist detsembrini, kõige rohkearvulisemalt sügisel.",
+      "cap": "Kübar on 3–9 cm lai. Alguses on ta kumer, kergelt sissekäändunud servaga, hiljem lapik laia madala kühmuga; serv on õhuke ja võib niiskelt olla nõrgalt läbikumavalt voodiline. Pind on sile, rasvane ja tugevasti hügrofaanne, märjalt tumedalt punakaspruun kuni kastanipruun, kuivab keskelt kahvatult ookerjaks või helepruuniks ja jääb kühmu pealt sageli tumedamaks.",
+      "hymenium": "Eoslehekesed on tihedad, õhukesed, valged kuni kahvatult kreemjad, vabad või kitsalt kinnitunud, peenelt hambulisel serval ja paljude lühemate vaheeoslehekestega.",
+      "stipe": "Jalg on 3–8 cm kõrge ja 0,5–2 cm paks (suurem paksus kuulub nuiakujulisele tüvele; tipus tavaliselt umbes 0,5–1 cm). Ta on sitke, pikikiuliselt voodiline ja kõhrjas, punakaspruun ja tipu suunas kahvatum, õõnes või täidisega ning laieneb nuiakujuliseks tüveks, mida katab valge villjas mütseel, mis seob risu. Rõngast ja tuppe ei ole.",
+      "flesh": "Lihakude on kübaras õhuke, vesine ja valge kuni kahvatult pruunikas. Jalal on kiuline koor ja täidetud kuni õõnes sisemus, mis on jämenenud tüves tihedam. Lõhn on leebe; maitse nõrgalt jahune või ebamäärane.",
+      "sporePrint": "Eospulber on valge kuni kreemjas või kahvatult roosakasookerjas. Eosed on siledad, ellipsoidsed, umbes 6–10 × 3–6 µm.",
+      "habitat": "Saprotroof okastel ja leherisul, peamiselt okasmetsades, ka sega- ja lehtmetsades, sageli happelistel, toitainevaestel muldadel. Viljakehad kasvavad rühmadena risust, mitte puidult, juunist detsembrini, kõige rohkearvulisemalt sügisel.",
+      "uses": "Ta on söödav, kuid väheväärtuslik. Jalad on sitked ja tavaliselt visatakse ära; kübaratel on leebe, nõrgalt jahune maitse ja kulinaarselt ei ole ta eriti rahuldav. Metsas on palju paremaid seeni ning teda on kerge segi ajada teiste väikeste pruunide risuseentega, millest mõned on mürgised.",
+      "confusion": "Gymnopus dryophilus'el on kuiv, mitte rasvane kübar, mis ei kuiva samamoodi kahetooniliseks, ja peenem, ühtlasem jalg ilma selgelt nuiakujulise tüveta. Rhodocollybia asema on kahvatum hallikaspruun seen sarnase kasvukujuga, siin käsitletud eraldi liigina. Rhodocollybia maculata'l on kahvatum kübar, millel tekivad roostepunased laigud, ja samuti laigulised eoslehekesed. Kurgiseen (Macrocystidia cucumis) on sametise, tumedama kübara, samuti sametise jala ja tugeva kurgi- või kalalõhnaga. Samas risus võivad kasvada väikesed mürgised Clitocybe ja Inocybe liigid; neil puuduvad rasvane kahetooniline kübar ja nuiakujuline, villjastüveline jalg.",
+      "notes": "Kindlaimad välimustunnused on rasvane, tugevasti hügrofaanne kübar, mis kuivab kahetooniliselt tumedalt punakaspruunist keskmest, tihedad valged peenelt hambulisel serval eoslehekesed ja sitke punakaspruun jalg, mis laieneb nuiakujuliseks, valge mütseelivildi sisse mähitud tüveks.",
+      "names": [
+        "Võikõrges"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "Või-punakõrges"
+    },
+    "fa": {
+      "description": "قارچ تیغه‌دار جنگلی رایجی روی لاشبرگ برگ و سوزن، معمولاً به‌صورت گروهی زیر مخروطیان و نیز در جنگل‌های آمیخته یا پهن‌برگ، اغلب روی خاک‌های اسیدی و فقیر از نظر مواد غذایی. کلاهک چرب و به‌شدت هیگروفان است: در حالت مرطوب قهوه‌ای مایل به قرمز تیره تا شاه‌بلوطی، از مرکز به رنگ نخودی یا اخرایی کم‌رنگ خشک می‌شود، چنان‌که سطحی دورنگ باقی می‌ماند، معمولاً با برآمدگی پهن و کوتاه. تیغه‌های متراکم سفید تا کرم کم‌رنگ‌اند، آزاد یا باریک چسبیده، با لبهٔ دندانه‌دار ظریف. پایهٔ سفت، الیافی و توخالی قهوه‌ای مایل به قرمز است، به‌سوی رأس کم‌رنگ‌تر، و در قاعده آشکارا گرزی‌شکل پهن می‌شود؛ قاعده را میسلیوم سفید پشمی می‌پوشاند که لاشبرگ را به هم می‌چسباند. حلقه و ولوا ندارد. اندام‌های بارده از ژوئن تا دسامبر، فراوان‌ترین در پاییز، ظاهر می‌شوند.",
+      "cap": "کلاهک 3–9 سانتی‌متر قطر دارد. ابتدا محدب است، با حاشیهٔ اندکی پیچ‌خورده به درون، سپس پهن می‌شود و برآمدگی پهن و کوتاهی دارد؛ حاشیه نازک است و در رطوبت ممکن است اندکی شفاف‌خط‌دار باشد. سطح صاف، چرب و به‌شدت هیگروفان است، در حالت خیس قهوه‌ای مایل به قرمز تیره تا شاه‌بلوطی، از مرکز به نخودی یا اخرایی کم‌رنگ خشک می‌شود و روی برآمدگی اغلب تیره‌تر می‌ماند.",
+      "hymenium": "تیغه‌ها متراکم، نازک، سفید تا کرم کم‌رنگ، آزاد یا باریک چسبیده‌اند، با لبهٔ دندانه‌دار ظریف و با تیغه‌های کوتاه‌تر بسیار در میانشان.",
+      "stipe": "پایه 3–8 سانتی‌متر بلندی و 0.5–2 سانتی‌متر قطر دارد (قطر بیشتر مربوط به قاعدهٔ گرزی‌شکل است؛ در رأس معمولاً حدود 0.5–1 سانتی‌متر). سفت، در درازا الیافی‌خط‌دار و غضروفی است، قهوه‌ای مایل به قرمز و به‌سوی رأس کم‌رنگ‌تر، توخالی یا پرشده، و به قاعده‌ای گرزی‌شکل پهن می‌شود که میسلیوم سفید پشمیِ نگهدارندهٔ لاشبرگ آن را می‌پوشاند. حلقه و ولوا ندارد.",
+      "flesh": "گوشت در کلاهک نازک، آبکی و سفید تا قهوه‌ای کم‌رنگ است. پایه پوستهٔ الیافی و درون پرشده تا توخالی دارد که در قاعدهٔ متورم محکم‌تر است. بو ملایم است؛ طعم اندکی آردی یا نامشخص.",
+      "sporePrint": "اثر هاگ سفید تا کرم یا نخودی مایل به صورتی کم‌رنگ است. هاگ‌ها صاف، بیضوی، حدود 6–10 × 3–6 µm هستند.",
+      "habitat": "ساپروتروف روی سوزن مخروطیان و لاشبرگ برگ، عمدتاً در جنگل‌های مخروطی، همچنین در توده‌های آمیخته و پهن‌برگ، اغلب روی خاک‌های اسیدی و فقیر. اندام‌های بارده به‌صورت گروهی از لاشبرگ، نه از چوب، از ژوئن تا دسامبر، فراوان‌ترین در پاییز، بیرون می‌آیند.",
+      "uses": "خوراکی است اما کم‌ارزش. پایه‌ها سفت‌اند و معمولاً دور ریخته می‌شوند؛ کلاهک‌ها طعم ملایم و اندکی آردی دارند و در آشپزی چندان رضایت‌بخش نیستند. در جنگل قارچ‌های بسیار بهتری هست و به‌آسانی با دیگر قارچ‌های قهوه‌ای کوچک لاشبرگ، که برخی سمی‌اند، اشتباه می‌شود.",
+      "confusion": "Gymnopus dryophilus کلاهکی خشک و ناچرب دارد که به همان شیوهٔ دورنگ خشک نمی‌شود، و پایه‌ای باریک‌تر و یکنواخت‌تر بدون قاعدهٔ آشکارا گرزی‌شکل. Rhodocollybia asema قارچی خاکستری‌قهوه‌ای کم‌رنگ‌تر با ریخت مشابه است که اینجا به‌عنوان گونه‌ای جداگانه در نظر گرفته شده است. Rhodocollybia maculata کلاهکی کم‌رنگ‌تر دارد که لکه‌های قرمز زنگ‌زده روی آن پدید می‌آید و تیغه‌هایی به‌همان‌سان لکه‌دار. Macrocystidia cucumis کلاهکی مخملی و تیره‌تر، پایه‌ای مخملی همانند، و بوی قوی خیار یا ماهی دارد. در همان لاشبرگ ممکن است گونه‌های سمی کوچک Clitocybe و Inocybe برویند؛ کلاهک چرب دورنگ و پایهٔ گرزی‌شکل با قاعدهٔ پشمی در آن‌ها نیست.",
+      "notes": "مطمئن‌ترین نشانه‌های صحرایی کلاهک چرب و به‌شدت هیگروفان است که از مرکزی قهوه‌ای مایل به قرمز تیره به‌صورت دورنگ خشک می‌شود، تیغه‌های سفید متراکم با لبهٔ دندانه‌دار ظریف، و پایهٔ سفت قهوه‌ای مایل به قرمز که به قاعده‌ای گرزی‌شکل پیچیده در نمد میسلیومی سفید پهن می‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Yleinen metsän helttasieni lehti- ja neulaskarikkeessa, tavallisesti ryhminä havupuiden alla sekä myös seka- ja lehtimetsissä, usein happamilla, niukkaravinteisilla mailla. Lakki on rasvainen ja voimakkaasti hygrofaaninen: kosteana tumman punaruskea tai kastanjanruskea, kuivuessaan vaalenee keskustasta vaalean okran- tai kellanruskeaksi, niin että pinta jää kaksiväriseksi, tavallisesti leveän matalan kohouman kera. Tiheät heltat ovat valkoiset tai vaalean kermanväriset, irtonaiset tai kapeasti kiinnittyneet, hienosti sahalaitaiset. Sitkeä, säikeinen, ontto jalka on punaruskea, kärkeä kohti vaaleampi ja tyvestä selvästi nuijamaisesti paksuuntunut; tyven peittää valkea villainen rihmasto, joka sitoo karikkeen. Rengasta ja tuppea ei ole. Itiöemät ilmestyvät kesäkuusta joulukuuhun, runsaimmin syksyllä.",
+      "cap": "Lakki on 3–9 cm leveä. Aluksi se on kupera, hieman sisäänkiertyneen laidan kera, myöhemmin litistynyt leveän matalan kohouman kanssa; laita on ohut ja voi kosteana olla heikosti läpikuultavan uurteinen. Pinta on sileä, rasvainen ja voimakkaasti hygrofaaninen, märkänä tumman punaruskea tai kastanjanruskea, kuivuessaan vaalenee keskustasta vaalean okran- tai kellanruskeaksi ja jää kohoumasta usein tummemmaksi.",
+      "hymenium": "Heltat ovat tiheät, ohuet, valkoiset tai vaalean kermanväriset, irtonaiset tai kapeasti kiinnittyneet, hienosti sahalaitaiset, ja niiden välissä on monia lyhyempiä välihelttoja.",
+      "stipe": "Jalka on 3–8 cm korkea ja 0,5–2 cm paksu (suurempi paksuus kuuluu nuijamaiseen tyveen; kärjessä yleensä noin 0,5–1 cm). Se on sitkeä, pitkittäissäikeisesti juovainen ja rustomainen, punaruskea ja kärkeä kohti vaaleampi, ontto tai täytteinen, ja levenee nuijamaiseksi tyveksi, jota peittää valkea villainen rihmasto, joka sitoo karikkeen. Rengasta ja tuppea ei ole.",
+      "flesh": "Malto on lakissa ohutta, vetistä ja valkoista tai vaalean ruskehtavaa. Jalassa on säikeinen kuori ja täytteinen tai ontto sisäosa, joka on paksuuntuneessa tyvessä kiinteämpi. Tuoksu on mieto; maku heikosti jauhoinen tai huomaamaton.",
+      "sporePrint": "Itiöpöly on valkoista, kermanväristä tai vaalean vaaleanpunertavan okraa. Itiöt ovat sileitä, ellipsoideja, noin 6–10 × 3–6 µm.",
+      "habitat": "Lahottaja neulas- ja lehtikarikkeella, lähinnä havumetsissä, myös seka- ja lehtimetsissä, usein happamilla, niukkaravinteisilla mailla. Itiöemät nousevat ryhminä karikkeesta, ei puusta, kesäkuusta joulukuuhun, runsaimmin syksyllä.",
+      "uses": "Se on syötävä mutta vähäarvoinen. Jalat ovat sitkeitä ja yleensä poistetaan; lakeissa on mieto, hieman jauhoinen maku, eikä se ole kulinaarisesti kovin palkitseva. Metsässä on monia parempia sieniä, ja sen sekoittaa helposti muihin pieniin ruskeisiin karikesieniin, joista osa on myrkyllisiä.",
+      "confusion": "Gymnopus dryophilus -lajilla on kuiva, ei rasvainen lakki, joka ei kuivu samalla tavoin kaksiväriseksi, ja ohuempi, tasaisempi jalka ilman selvästi nuijamaista tyveä. Rhodocollybia asema on vaaleampi harmaanruskea sieni samankaltaisella kasvutavalla, tässä käsitelty erillisenä lajina. Rhodocollybia maculata -lajilla on vaaleampi lakki, johon tulee ruosteenpunaisia laikkuja, ja samoin laikukkaat heltat. Macrocystidia cucumis -lajilla on samettinen, tummempi lakki, samoin samettinen jalka ja voimakas kurkku- tai kalanhaju. Samassa karikkeessa voi kasvaa pieniä myrkyllisiä Clitocybe- ja Inocybe-lajeja; niiltä puuttuvat rasvainen kaksivärinen lakki ja nuijamainen, villatyvinen jalka.",
+      "notes": "Varmimmat tuntomerkit maastossa ovat rasvainen, voimakkaasti hygrofaaninen lakki, joka kuivuu kaksiväriseksi tumman punaruskeasta keskustasta, tiheät valkoiset hienosti sahalaitaiset heltat ja sitkeä punaruskea jalka, joka levenee nuijamaiseksi, valkean rihmastohuovan peittämäksi tyveksi.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Valkoviirujuurekas",
+        "https://www.gbif.org/species/9217873",
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "valkoviirujuurekas"
+    },
+    "fr": {
+      "description": "Un agaric forestier commun de la litière de feuilles et d’aiguilles, généralement en groupes sous les conifères et aussi dans les bois mixtes ou feuillus, souvent sur sols acides et pauvres en nutriments. Le chapeau est gras et fortement hygrophane : d’un brun-rouge foncé à châtain à l’état humide, il sèche du centre en un beige ochracé pâle, de sorte qu’une surface bicolore demeure, d’ordinaire avec un large umbo bas. Les lames serrées sont blanches à crème pâle, libres ou étroitement attachées, à arête finement denticulée. Le pied coriace, fibreux et creux est brun-rouge, plus pâle vers le sommet, et nettement élargi en massue à la base, laquelle est vêtue d’un mycélium blanc laineux qui agglomère la litière. Il n’y a ni anneau ni volve. Les sporophores apparaissent de juin à décembre, surtout en automne.",
+      "cap": "Le chapeau mesure 3–9 cm de diamètre. Il est d’abord convexe, à marge un peu enroulée, puis s’aplatit avec un large umbo bas ; la marge est mince et peut être faiblement striée-translucide par temps humide. La cuticule est lisse, grasse et fortement hygrophane, d’un brun-rouge foncé à châtain à l’état mouillé, séchant du centre en un beige ochracé pâle et restant souvent plus foncée sur l’umbo.",
+      "hymenium": "Les lames sont serrées, minces, blanches à crème pâle, libres ou étroitement adnées, à arête finement denticulée, avec de nombreuses lamelles plus courtes intercalées.",
+      "stipe": "Le pied mesure 3–8 cm de haut et 0,5–2 cm d’épaisseur (la plus grande épaisseur correspond à la base en massue ; au sommet il fait généralement environ 0,5–1 cm). Il est coriace, fibrilleux-strié et cartilagineux, brun-rouge et plus pâle vers le sommet, creux ou farci, et s’élargit en une base claviforme couverte d’un mycélium blanc laineux qui relie la litière. Il n’y a ni anneau ni volve.",
+      "flesh": "La chair est mince, aqueuse et blanche à brunâtre pâle dans le chapeau. Le pied a une écorce fibreuse et un intérieur farci à creux, plus solide dans la base renflée. L’odeur est faible ; la saveur légèrement farineuse ou peu caractéristique.",
+      "sporePrint": "La sporée est blanche à crème ou d’un chamois rosâtre pâle. Les spores sont lisses, ellipsoïdes, d’environ 6–10 × 3–6 µm.",
+      "habitat": "Un saprotrophe sur aiguilles de conifères et litière de feuilles, surtout dans les bois de conifères, aussi dans les forêts mixtes et feuillues, souvent sur sols acides et pauvres. Les sporophores naissent en groupes de la litière, non du bois, de juin à décembre, surtout en automne.",
+      "uses": "Il est comestible mais médiocre. Les pieds sont coriaces et généralement écartés ; les chapeaux ont une saveur douce, légèrement farineuse, et ne sont guère gratifiants en cuisine. Il existe bien de meilleurs champignons forestiers, et on le confond aisément avec d’autres petits champignons bruns de litière, dont certains sont toxiques.",
+      "confusion": "Gymnopus dryophilus a un chapeau sec, non gras, qui ne sèche pas de la même manière bicolore, et un pied plus mince, plus régulier, sans base nettement claviforme. Rhodocollybia asema est un champignon gris-brun plus pâle de port semblable, traité ici comme une espèce distincte. Rhodocollybia maculata a un chapeau plus pâle qui se tache de rouille-rouge, et des lames également tachetées. La naucorie à odeur de concombre (Macrocystidia cucumis) a un chapeau velouté plus foncé, un pied également velouté et une forte odeur de concombre ou de poisson. De petites espèces toxiques de Clitocybe et d’Inocybe peuvent croître dans la même litière ; il leur manque le chapeau gras bicolore et le pied claviforme à base laineuse.",
+      "notes": "Les meilleurs caractères de terrain sont le chapeau gras, fortement hygrophane, qui sèche de façon bicolore à partir d’un centre brun-rouge foncé, les lames blanches serrées à arête finement denticulée, et le pied coriace brun-rouge qui s’élargit en une base claviforme enveloppée d’un feutre mycélien blanc.",
+      "names": [
+        "Collybie savonneuse"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "Collybie beurrée"
+    },
+    "he": {
+      "description": "פטריית דפים יערית שכיחה של רבד עלים ומחטים, בדרך כלל בקבוצות תחת מחטניים וגם ביערות מעורבים או נשירים, לעיתים קרובות בקרקעות חומציות ועניות בחומרי הזנה. הכובע שמנוני והיגרופני מאוד: חום-אדמדם כהה עד ערמוני בלחות, מתייבש מן המרכז לגוון אוכרה חיוור או בז׳, כך שנשאר משטח דו-גוני, בדרך כלל עם פיטם נמוך ורחב. הדפים הצפופים לבנים עד קרם חיוור, חופשיים או מחוברים בצרות, עם שפה משוננת דק. הרגל הקשה, הסיבית והחלולה חומה-אדמדמת, חיוורת יותר כלפי הקודקוד, ומתרחבת בבירור לדמוית אלה בבסיס, העטוף בתפטיר לבן צמרי המלכד את הרבד. אין טבעת ואין נרתיק. גופי הפרי מופיעים מיוני עד דצמבר, בשפע ביותר בסתיו.",
+      "cap": "הכובע 3–9 ס״מ בקוטר. תחילה הוא קמור, עם שפה כפופה מעט פנימה, אחר כך שטוח עם פיטם נמוך ורחב; השפה דקה ובלחות עשויה להיות חרוצה-שקופה במקצת. פני השטח חלקים, שמנוניים והיגרופניים מאוד, חום-אדמדם כהה עד ערמוני ברטיבות, מתייבשים מן המרכז לגוון אוכרה חיוור או בז׳, ולעיתים קרובות נשארים כהים יותר על הפיטם.",
+      "hymenium": "הדפים צפופים, דקים, לבנים עד קרם חיוור, חופשיים או מחוברים בצרות, עם שפה משוננת דק ועם דפים קצרים רבים ביניהם.",
+      "stipe": "הרגל גבוהה 3–8 ס״מ ועובייה 0.5–2 ס״מ (העובי הרב יותר הוא של הבסיס דמוי האלה; בקודקוד בדרך כלל כ-0.5–1 ס״מ). היא קשה, סיבית-מפוספסת לאורך וסחוסית, חומה-אדמדמת וחיוורת יותר כלפי הקודקוד, חלולה או ממולאת, ומתרחבת לבסיס דמוי אלה המכוסה בתפטיר לבן צמרי הקושר את הרבד. אין טבעת ואין נרתיק.",
+      "flesh": "הבשר בכובע דק, מימי ולבן עד חום חיוור. לרגל קליפה סיבית ותוך ממולא עד חלול, מוצק יותר בבסיס המעובה. הריח עדין; הטעם מעט קמחי או חסר אופי.",
+      "sporePrint": "אבקת הנבגים לבנה עד קרם או בז׳-ורוד חיוור. הנבגים חלקים, אליפסואידיים, כ-6–10 × 3–6 µm.",
+      "habitat": "ספרוטרוף על מחטי מחטניים ועל רבד עלים, בעיקר ביערות מחטניים, גם בחורשות מעורבות ונשירות, לעיתים קרובות בקרקעות חומציות ועניות. גופי הפרי יוצאים בקבוצות מן הרבד, לא מן העץ, מיוני עד דצמבר, בשפע ביותר בסתיו.",
+      "uses": "היא אכילה אך דלת ערך. הרגליים קשות ועל פי רוב מסלקים אותן; לכובעים טעם עדין, מעט קמחי, ואינם מתגמלים במיוחד במטבח. ביער יש פטריות טובות הרבה יותר, וקל לבלבל אותה עם פטריות חומות קטנות אחרות של הרבד, שחלקן רעילות.",
+      "confusion": "ל-Gymnopus dryophilus כובע יבש, לא שמנוני, שאינו מתייבש באופן דו-גוני באותו אופן, ורגל דקה ואחידה יותר בלי בסיס דמוי אלה ברור. Rhodocollybia asema היא פטרייה אפורה-חומה חיוורת יותר בעלת חזות דומה, המטופלת כאן כמין נפרד. ל-Rhodocollybia maculata כובע חיוור יותר שבו מופיעים כתמים אדומים-חלודים, ודפים כתמיים באותה מידה. ל-Macrocystidia cucumis כובע קטיפתי כהה יותר, רגל קטיפתית כמוה וריח חזק של מלפפון או דג. באותו רבד עשויים לגדול מינים רעילים קטנים של Clitocybe ו-Inocybe; חסרים להם הכובע השמנוני הדו-גוני והרגל דמוית האלה בעלת הבסיס הצמרי.",
+      "notes": "סימני השדה הבטוחים ביותר הם הכובע השמנוני, ההיגרופני מאוד, המתייבש בשני גוונים ממרכז חום-אדמדם כהה, הדפים הלבנים הצפופים בעלי השפה המשוננת דק, והרגל הקשה החומה-אדמדמת המתרחבת לבסיס דמוי אלה העטוף בשכבת תפטיר לבנה דמוית לבד.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "אסימונית חמאה"
+    },
+    "hi": {
+      "description": "पत्तियों और सुइयों के गिरे हुए आवरण पर उगने वाली एक आम वन ऐगारिक, आमतौर पर शंकुधारियों के नीचे समूहों में और मिश्रित या पर्णपाती वनों में भी, अक्सर अम्लीय, पोषक-निर्धन मिट्टी पर। टोपी चिकनी-तेलीय और तीव्रता से हाइग्रोफेनस होती है: गीली होने पर गहरा लाल-भूरा से शाहबलूती, केंद्र से फीके गेहुँआ-बेज रंग में सूखती है, जिससे दो-रंगा तल रह जाता है, आमतौर पर एक चौड़ी नीची उभार के साथ। घने गिल सफेद से फीके क्रीम, मुक्त या संकीर्ण रूप से जुड़े, बारीक दाँतेदार किनारे वाले होते हैं। सख्त, रेशेदार, खोखला डंठल लाल-भूरा होता है, शीर्ष की ओर फीका, और आधार पर स्पष्ट रूप से गदाकार मोटा; आधार सफेद ऊनी माइसीलियम से ढका रहता है जो गिरे हुए पदार्थ को बाँधता है। वलय या वॉल्वा नहीं होता। फलन-काय जून से दिसंबर तक दिखाई देते हैं, सबसे अधिक शरद में।",
+      "cap": "टोपी 3–9 सेमी चौड़ी होती है। पहले यह उत्तल होती है, थोड़ा अंदर मुड़े किनारे के साथ, फिर चौड़ी नीची उभार के साथ चपटी हो जाती है; किनारा पतला होता है और गीला होने पर हल्का पारदर्शी-धारीदार हो सकता है। सतह चिकनी, तेलीय और तीव्रता से हाइग्रोफेनस होती है, गीली होने पर गहरा लाल-भूरा से शाहबलूती, केंद्र से फीके गेहुँआ-बेज में सूखती है और उभार पर अक्सर अधिक गहरी रहती है।",
+      "hymenium": "गिल घने, पतले, सफेद से फीके क्रीम, मुक्त या संकीर्ण रूप से जुड़े होते हैं, बारीक दाँतेदार किनारे के साथ और उनके बीच कई छोटे गिल होते हैं।",
+      "stipe": "डंठल 3–8 सेमी ऊँचा और 0.5–2 सेमी मोटा होता है (अधिक मोटाई गदाकार आधार की है; शीर्ष पर आमतौर पर लगभग 0.5–1 सेमी)। यह सख्त, लंबाई में रेशेदार-धारीदार और उपास्थिल होता है, लाल-भूरा और शीर्ष की ओर फीका, खोखला या भरा हुआ, और गिरे हुए पदार्थ को बाँधने वाले सफेद ऊनी माइसीलियम से ढके गदाकार आधार में फैलता है। वलय या वॉल्वा नहीं होता।",
+      "flesh": "मांस टोपी में पतला, पानी जैसा और सफेद से फीका भूरा होता है। डंठल की रेशेदार छाल और भरा-से-खोखला भीतरी भाग होता है, जो फूले आधार में अधिक ठोस होता है। गंध हल्की है; स्वाद थोड़ा आटे जैसा या साधारण।",
+      "sporePrint": "बीजाणु-छाप सफेद से क्रीम या फीकी गुलाबी-गेहुँआ होती है। बीजाणु चिकने, दीर्घवृत्ताकार, लगभग 6–10 × 3–6 µm होते हैं।",
+      "habitat": "शंकुधारी सुइयों और पत्ती-आवरण पर मृतोपजीवी, मुख्यतः शंकुधारी वनों में, मिश्रित और पर्णपाती वनखंडों में भी, अक्सर अम्लीय, निर्धन मिट्टी पर। फलन-काय लकड़ी से नहीं, आवरण से समूहों में, जून से दिसंबर तक, सबसे अधिक शरद में निकलते हैं।",
+      "uses": "यह खाने योग्य है लेकिन कम मूल्य का। डंठल सख्त होते हैं और आमतौर पर हटा दिए जाते हैं; टोपियों का स्वाद हल्का, थोड़ा आटे जैसा होता है और रसोई में विशेष संतोषजनक नहीं। वन में कहीं बेहतर मशरूम हैं, और इसे आवरण की अन्य छोटी भूरी कवकों से आसानी से भ्रमित किया जा सकता है, जिनमें से कुछ विषैली हैं।",
+      "confusion": "Gymnopus dryophilus की टोपी सूखी, तेलीय नहीं होती और उसी तरह दो-रंगी नहीं सूखती, तथा डंठल पतला और अधिक समान होता है, स्पष्ट गदाकार आधार के बिना। Rhodocollybia asema समान आकृति की अधिक फीकी धूसर-भूरी कवक है, यहाँ एक अलग प्रजाति के रूप में ली गई है। Rhodocollybia maculata की टोपी अधिक फीकी होती है जिस पर जंग जैसा लाल धब्बे बनते हैं, और गिल भी वैसे ही धब्बेदार होते हैं। Macrocystidia cucumis की टोपी मखमली और अधिक गहरी होती है, डंठल भी मखमली, और तीव्र खीरे या मछली जैसी गंध होती है। उसी आवरण में Clitocybe और Inocybe की छोटी विषैली प्रजातियाँ उग सकती हैं; उनमें तेलीय दो-रंगी टोपी और ऊनी आधार वाला गदाकार डंठल नहीं होता।",
+      "notes": "सबसे विश्वसनीय क्षेत्र चिह्न हैं तेलीय, तीव्रता से हाइग्रोफेनस टोपी जो गहरे लाल-भूरे केंद्र से दो-रंगी सूखती है, बारीक दाँतेदार किनारे वाले घने सफेद गिल, और सख्त लाल-भूरा डंठल जो सफेद माइसीलियम की महसूसी परत में लिपटे गदाकार आधार में फैलता है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Česta šumska listićava gljiva lisnog i igličastog otpada, obično u skupinama pod crnogoricama te u mješovitim ili listopadnim šumama, često na kiselim, hranjivima siromašnim tlima. Klobuk je masan i jako higrofan: vlažan tamno crvenosmeđ do kestenjast, od središta se suši u blijedo okrasto do žućkastosmeđe, tako da površina ostaje dvobojna, obično sa širokom niskom grbicom. Gusti listići su bijeli do blijedo kremasti, slobodni ili usko prirasli, s fino nazubljenim oštricama. Čvrst, vlaknast, šupalj stručak je crvenosmeđ, prema vrhu blijedi i pri dnu jasno kijačasto zadebljan; bazu odijeva bjelkasto vunasto micelij koji lijepi otpad. Prstena ni ovoja nema. Plodna tijela pojavljuju se od lipnja do prosinca, najobilnije u jesen.",
+      "cap": "Klobuk ima 3–9 cm u promjeru. Najprije je ispupčen, sa slabo podvinutim rubom, kasnije spljošten sa širokom niskom grbicom; rub je tanak i u vlažnom stanju može biti slabo prozirno narebran. Površina je glatka, masna i jako higrofana, mokra tamno crvenosmeđa do kestenjasta, od središta se suši u blijedo okrasto do žućkastosmeđe i na grbici često ostaje tamnija.",
+      "hymenium": "Listići su gusti, tanki, bijeli do blijedo kremasti, slobodni ili usko prirasli, s fino nazubljenim oštricama i s brojnim kraćim međulistićima.",
+      "stipe": "Stručak je visok 3–8 cm i debljine 0,5–2 cm (veća debljina otpada na kijačastu bazu; pri vrhu je obično oko 0,5–1 cm). Čvrst je, uzdužno vlaknasto prugast i hrskavičav, crvenosmeđ i prema vrhu blijedi, šupalj ili ispunjen, širi se u kijačastu bazu prekrivenu bjelkastim vunastim micelijem koji veže otpad. Prstena ni ovoja nema.",
+      "flesh": "Meso je u klobuku tanko, vodenasto i bijelo do blijedo smeđkasto. Stručak ima vlaknastu koru i ispunjenu do šuplju unutrašnjost, koja je u zadebljanoj bazi punija. Miris je blag; okus slabo brašnast ili neizražen.",
+      "sporePrint": "Otisak spora je bijel do kremast ili blijedo ružičasto okrast. Spore su glatke, elipsoidne, oko 6–10 × 3–6 µm.",
+      "habitat": "Saprotrof na iglicama i lisnom otpadu, ponajprije u crnogoričnim šumama, također u mješovitim i listopadnim sastojinama, često na kiselim, siromašnim tlima. Plodna tijela rastu u skupinama iz otpada, ne s drveta, od lipnja do prosinca, najobilnije u jesen.",
+      "uses": "Jestiva je, ali slabe vrijednosti. Stručci su čvrsti i obično se odbacuju; klobuci imaju blag, slabo brašnast okus i kulinarski nisu osobito zadovoljavajući. U šumi ima mnogo boljih gljiva, a lako se zamijeni s drugim sitnim smeđim gljivama otpada, od kojih su neke otrovne.",
+      "confusion": "Gymnopus dryophilus ima suhi, ne masni klobuk koji se ne suši na isti dvobojni način, i tanji, ravnomjerniji stručak bez jasno kijačaste baze. Rhodocollybia asema je bledija sivosmeđa gljiva sličnog habitusa, ovdje shvaćena kao zasebna vrsta. Rhodocollybia maculata ima blediji klobuk na kojemu se pojavljuju hrđavo crvene pjege i slično pjegave listiće. Macrocystidia cucumis ima baršunast, tamniji klobuk, isto tako baršunast stručak i jak krastavčev ili riblji miris. U istom otpadu mogu rasti sitne otrovne vrste rodova Clitocybe i Inocybe; nedostaju im masni dvobojni klobuk i kijačast stručak s vunastom bazom.",
+      "notes": "Najsigurnija terenska obilježja su masni, jako higrofani klobuk koji se od tamno crvenosmeđeg središta suši dvobojno, gusti bijeli listići s fino nazubljenim oštricama i čvrsti crvenosmeđi stručak koji se širi u kijačastu bazu obavijenu bjelkastim filcastim micelijem.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Gyakori erdei lemezes gomba a lomb- és tűhulladékon, általában csoportosan fenyők alatt, valamint elegyes vagy lomblevelű erdőkben, gyakran savanyú, tápanyagban szegény talajokon. A kalap zsíros tapintású és erősen higrofán: nedvesen sötét vörösbarna vagy gesztenyebarna, középtől sápadt okkeres vagy sárgásbarnára szárad, így kétszínű felület marad, rendszerint széles, alacsony púppal. A sűrű lemezek fehérek vagy halvány krémszínűek, szabadok vagy keskenyen nőttek, finoman fogazott éllel. A szívós, rostos, üreges tönk vörösbarna, a csúcs felé halványabb, és a tövénél határozottan bunkósan vastagodott; a tövet fehéres, gyapjas micélium burkolja, amely összetapasztja az avart. Gallérja és bocskora nincs. A termőtestek júniustól decemberig jelennek meg, legbővebben ősszel.",
+      "cap": "A kalap 3–9 cm átmérőjű. Először domború, kissé begöngyölt széllel, később lapított, széles, alacsony púppal; a szél vékony, és nedvesen gyengén áttetszően bordázott lehet. A felszín sima, zsíros és erősen higrofán, vizesen sötét vörösbarna vagy gesztenyebarna, középtől sápadt okkeres vagy sárgásbarnára szárad, és a púpon gyakran sötétebb marad.",
+      "hymenium": "A lemezek sűrűek, vékonyak, fehérek vagy halvány krémszínűek, szabadok vagy keskenyen nőttek, finoman fogazott éllel, és sok rövidebb köztes lemezkével.",
+      "stipe": "A tönk 3–8 cm magas és 0,5–2 cm vastag (a nagyobb vastagság a bunkós tőre esik; a csúcsnál általában körülbelül 0,5–1 cm). Szívós, hosszirányban rostosan csíkozott és porcos, vörösbarna és a csúcs felé halványabb, üreges vagy kitöltött, és bunkós tővé szélesedik, amelyet fehéres, gyapjas micélium borít, és amely összeköti az avart. Gallérja és bocskora nincs.",
+      "flesh": "A hús a kalapban vékony, vizes és fehér vagy halvány barnás. A tönknek rostos kérge és kitöltött vagy üreges belseje van, amely a megvastagodott tőben tömörebb. A szaga enyhe; az íze enyhén lisztes vagy jellegtelen.",
+      "sporePrint": "A spórapor fehér vagy krémszínű, illetve halvány rózsásokker. A spórák simák, ellipszoidok, körülbelül 6–10 × 3–6 µm.",
+      "habitat": "Szaprotróf a tűleveleken és a lombavaron, elsősorban fenyvesekben, továbbá elegyes és lomblevelű állományokban, gyakran savanyú, szegény talajokon. A termőtestek csoportosan az avarból nőnek, nem fáról, júniustól decemberig, legbővebben ősszel.",
+      "uses": "Ehető, de csekély értékű. A tönkök szívósak, ezért általában eltávolítják őket; a kalapok enyhe, kissé lisztes ízűek, és konyhailag nem túl hálásak. Az erdőben sok jobb gomba van, és könnyen összetéveszthető más apró barna avargombákkal, amelyek közül néhány mérgező.",
+      "confusion": "A Gymnopus dryophilus száraz, nem zsíros kalapú, nem ugyanígy kétszínűre szárad, és tönkje vékonyabb, egyenletesebb, határozottan bunkós tő nélkül. A Rhodocollybia asema halványabb szürkésbarna gomba hasonló habitussal, itt külön fajként kezelve. A Rhodocollybia maculata halványabb kalapú, amelyen rozsdavörös foltok jelennek meg, és hasonlóan foltos lemezű. A hamvas uborkagomba (Macrocystidia cucumis) bársonyos, sötétebb kalapú, ugyancsak bársonyos tönkű, és erős uborka- vagy halillatú. Ugyanabban az avarban nőhetnek apró mérgező Clitocybe- és Inocybe-fajok; hiányzik róluk a zsíros, kétszínű kalap és a bunkós, gyapjas tövű tönk.",
+      "notes": "A legbiztosabb terepi jegyek a zsíros, erősen higrofán kalap, amely a sötét vörösbarna közepétől kétszínűen szárad, a sűrű fehér, finoman fogazott élű lemezek, és a szívós vörösbarna tönk, amely bunkós tővé szélesedik, fehéres micéliumfilccel burkolva.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "bunkóslábú fülőke"
+    },
+    "id": {
+      "description": "Agarik hutan yang umum di serasah daun dan jarum, biasanya bergerombol di bawah konifer dan juga di hutan campuran atau daun lebar, sering di tanah asam yang miskin hara. Tudung berminyak dan sangat higrofan: cokelat kemerahan tua hingga kastanye saat lembap, mengering dari pusat menjadi krem-oker pucat, sehingga permukaan tetap dwidwarna, biasanya dengan umbo lebar yang rendah. Lamela rapat berwarna putih hingga krem pucat, bebas atau melekat sempit, dengan tepi bergerigi halus. Tangkai yang liat, berserat, dan berongga berwarna cokelat kemerahan, lebih pucat ke arah puncak, dan jelas membesar seperti gada di pangkal, yang dilapisi miselium putih berbulu yang mengikat serasah. Tidak ada cincin atau volva. Tubuh buah muncul dari Juni hingga Desember, paling lebat pada musim gugur.",
+      "cap": "Tudung berdiameter 3–9 cm. Mulanya cembung, dengan tepi sedikit tergulung ke dalam, kemudian mendatar dengan umbo lebar yang rendah; tepi tipis dan saat lembap dapat berstria tembus cahaya secara lemah. Permukaan halus, berminyak, dan sangat higrofan, basah cokelat kemerahan tua hingga kastanye, mengering dari pusat menjadi krem-oker pucat dan pada umbo sering tetap lebih gelap.",
+      "hymenium": "Lamela rapat, tipis, putih hingga krem pucat, bebas atau melekat sempit, dengan tepi bergerigi halus dan banyak lamelula yang lebih pendek di antaranya.",
+      "stipe": "Tangkai tinggi 3–8 cm dan tebal 0,5–2 cm (ketebalan lebih besar adalah pangkal berbentuk gada; di puncak biasanya sekitar 0,5–1 cm). Ia liat, berserat-bergaris memanjang dan kartilaginosa, cokelat kemerahan dan lebih pucat ke arah puncak, berongga atau terisi, dan melebar menjadi pangkal berbentuk gada yang dilapisi miselium putih berbulu yang mengikat serasah. Tidak ada cincin atau volva.",
+      "flesh": "Daging pada tudung tipis, berair, dan putih hingga cokelat pucat. Tangkai memiliki kulit berserat dan bagian dalam terisi hingga berongga yang lebih padat pada pangkal yang membengkak. Bau lemah; rasa sedikit seperti tepung atau tidak khas.",
+      "sporePrint": "Cetakan spora putih hingga krem atau cokelat muda kemerahan-pucat. Spora halus, elipsoid, sekitar 6–10 × 3–6 µm.",
+      "habitat": "Saprotrof pada jarum konifer dan serasah daun, terutama di hutan konifer, juga di tegakan campuran dan daun lebar, sering di tanah asam yang miskin. Tubuh buah muncul bergerombol dari serasah, bukan dari kayu, dari Juni hingga Desember, paling lebat pada musim gugur.",
+      "uses": "Dapat dimakan tetapi bernilai rendah. Tangkai liat dan biasanya dibuang; tudung memiliki rasa lembut, sedikit seperti tepung, dan secara kuliner tidak terlalu memuaskan. Di hutan ada banyak jamur yang lebih baik, dan mudah dikelirukan dengan jamur cokelat kecil lain di serasah, beberapa di antaranya beracun.",
+      "confusion": "Gymnopus dryophilus memiliki tudung kering, tidak berminyak, yang tidak mengering secara dwidwarna dengan cara yang sama, dan tangkai yang lebih ramping dan merata tanpa pangkal yang jelas berbentuk gada. Rhodocollybia asema adalah jamur abu-cokelat yang lebih pucat dengan perawakan serupa, di sini diperlakukan sebagai spesies terpisah. Rhodocollybia maculata memiliki tudung lebih pucat yang mengembangkan bintik merah karat, dan lamela yang juga berbintik. Macrocystidia cucumis memiliki tudung beludru yang lebih gelap, tangkai yang juga beludru, dan bau mentimun atau ikan yang kuat. Di serasah yang sama dapat tumbuh spesies beracun kecil Clitocybe dan Inocybe; mereka tidak memiliki tudung berminyak dwidwarna dan tangkai berbentuk gada berpangkal berbulu.",
+      "notes": "Ciri lapangan yang paling andal adalah tudung berminyak yang sangat higrofan, yang mengering secara dwidwarna dari pusat cokelat kemerahan tua, lamela putih rapat dengan tepi bergerigi halus, dan tangkai cokelat kemerahan yang liat yang melebar menjadi pangkal berbentuk gada yang diselimuti lapisan miselium putih seperti kain felt.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un agarico forestale comune della lettiera di foglie e aghi, di solito in gruppi sotto le conifere e anche nei boschi misti o latifoglie, spesso su suoli acidi e poveri di nutrienti. Il cappello è grasso e fortemente igrofano: di un bruno-rossastro scuro o castano da umido, secca dal centro in un beige ocra pallido, così che resta una superficie bicolore, di solito con un largo umbone basso. Le lamelle fitte sono bianche o crema pallido, libere o strettamente attaccate, con il filo finemente denticolato. Il gambo fibroso, tenace e cavo è bruno-rossastro, più chiaro verso l’apice, e nettamente allargato a clava alla base, vestita di un micelio bianco lanoso che agglutina la lettiera. Non c’è anello né volva. I basidiomi compaiono da giugno a dicembre, più abbondanti in autunno.",
+      "cap": "Il cappello misura 3–9 cm di diametro. All’inizio è convesso, con il margine un po’ involuto, poi appiattito con un largo umbone basso; il margine è sottile e, da umido, può essere debolmente striato-traslucido. La superficie è liscia, grassa e fortemente igrofana, di un bruno-rossastro scuro o castano da bagnato, secca dal centro in un beige ocra pallido e resta spesso più scura sull’umbone.",
+      "hymenium": "Le lamelle sono fitte, sottili, bianche o crema pallido, libere o strettamente adnate, con il filo finemente denticolato e con numerose lamellule più corte.",
+      "stipe": "Il gambo è alto 3–8 cm e spesso 0,5–2 cm (il maggior spessore corrisponde alla base clavata; all’apice misura di solito circa 0,5–1 cm). È tenace, fibrilloso-striato e cartilagineo, bruno-rossastro e più chiaro verso l’apice, cavo o farcito, e si allarga in una base clavata coperta di micelio bianco lanoso che lega la lettiera. Non c’è anello né volva.",
+      "flesh": "La carne è sottile, acquosa e bianca o brunastro pallido nel cappello. Il gambo ha una corteccia fibrosa e un interno farcito o cavo, più solido nella base ingrossata. L’odore è mite; il sapore leggermente farinoso o poco caratteristico.",
+      "sporePrint": "La sporata è bianca o crema oppure di un camoscio rosato pallido. Le spore sono lisce, ellissoidi, di circa 6–10 × 3–6 µm.",
+      "habitat": "Un saprotrofo su aghi di conifere e lettiera di foglie, soprattutto nei boschi di conifere, anche in quelli misti e di latifoglie, spesso su suoli acidi e poveri. I basidiomi nascono in gruppi dalla lettiera, non dal legno, da giugno a dicembre, più abbondanti in autunno.",
+      "uses": "È commestibile, ma di scarso valore. I gambi sono tenaci e di solito si scartano; i cappelli hanno un sapore mite, leggermente farinoso, e non sono particolarmente gratificanti in cucina. Ci sono molti funghi boschivi migliori, e si confonde facilmente con altri piccoli funghi bruni della lettiera, alcuni dei quali sono tossici.",
+      "confusion": "Gymnopus dryophilus ha un cappello asciutto, non grasso, che non secca nello stesso modo bicolore, e un gambo più sottile e uniforme, senza una base nettamente clavata. Rhodocollybia asema è un fungo grigio-bruno più chiaro di portamento simile, trattato qui come una specie distinta. Rhodocollybia maculata ha un cappello più chiaro che sviluppa macchie rosso-ruggine, e lamelle ugualmente macchiate. Macrocystidia cucumis ha un cappello vellutato più scuro, un gambo altrettanto vellutato e un forte odore di cetriolo o di pesce. Nella stessa lettiera possono crescere piccole specie tossiche di Clitocybe e Inocybe; mancano loro il cappello grasso bicolore e il gambo clavato a base lanosa.",
+      "notes": "I caratteri di campo più sicuri sono il cappello grasso, fortemente igrofano, che secca in modo bicolore a partire da un centro bruno-rossastro scuro, le lamelle bianche fitte a filo finemente denticolato, e il gambo tenace bruno-rossastro che si allarga in una base clavata avvolta da un feltro miceliare bianco.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "落葉や針葉のリターに生じる普通の林地性ハラタケ類で、主に針葉樹の下に群生し、混交林や広葉樹林にも出る。しばしば酸性で貧栄養な土壌に見られる。かさは油質で強く湿性変色し、湿時は濃い赤褐色から栗褐色、中央から淡い淡黄褐色に乾いて二色の表面が残り、ふつう広く低い中丘がある。ひだは密、白から淡いクリーム色、離生またはごく狭く着き、縁は細かく歯状。柄は強靭で繊維質、中空、赤褐色で先端ほど淡く、基部は明らかに棍棒状に膨らみ、リターを絡める白い綿状の菌糸に覆われる。つばやつぼはない。子実体は6月から12月、とくに秋に多い。",
+      "cap": "かさの径は3–9 cm。初めは凸形で縁はわずかに内に巻き、のちに平らになり、広く低い中丘を残す。縁は薄く、湿時にはかすかに条線が透けて見えることがある。表面は平滑で油質、強く湿性変色し、湿時は濃い赤褐色から栗褐色、中央から淡い淡黄褐色に乾き、中丘はしばしばより濃色のまま残る。",
+      "hymenium": "ひだは密で薄く、白から淡いクリーム色、離生またはごく狭く着き、縁は細かく歯状で、短いひだ（小ひだ）が多数ある。",
+      "stipe": "柄は高さ3–8 cm、太さ0.5–2 cm（太いほうは棍棒状の基部で、先端はふつう約0.5–1 cm）。強靭で縦に繊維状の条線があり軟骨質、赤褐色で先端ほど淡く、中空または充満し、リターを結束する白い綿状の菌糸に覆われた棍棒状の基部に広がる。つばやつぼはない。",
+      "flesh": "かさの肉は薄く水っぽく、白から淡褐色。柄には繊維質の外皮と、充満から中空の内部があり、膨らんだ基部ではより充実する。においはやや弱く、味はわずかに粉質またはほとんど特徴がない。",
+      "sporePrint": "胞子紋は白からクリーム色、または淡いピンクがかった淡黄褐色。胞子は平滑、楕円形、およそ6–10 × 3–6 µm。",
+      "habitat": "針葉のリターや落葉上の腐生菌で、主に針葉樹林、混交林や広葉樹林にも生じ、しばしば酸性で貧栄養な土壌に出る。子実体は材からではなくリターから群生し、6月から12月、とくに秋に多い。",
+      "uses": "食用にはなるが価値は低い。柄は強靭なのでふつう捨てられ、かさの味は穏やかでわずかに粉質、料理としてはあまり報われない。林内にはよりよいきのこが多く、同じリターの他の小型褐色菌と紛れやすく、その中には有毒種もある。",
+      "confusion": "Gymnopus dryophilusは、油質でなく乾いたかさを持ち、同じようには二色に乾かず、基部が明らかに棍棒状でない、より細く均一な柄をもつ。Rhodocollybia asemaはより淡い灰褐色で似た姿の菌で、ここでは別種として扱う。Rhodocollybia maculataはより淡いかさに錆赤色の斑を生じ、ひだにも同様の斑が出る。クリイロムクエタケ（Macrocystidia cucumis）はビロード状のより暗いかさと、同様にビロード状の柄、強いキュウリまたは魚のにおいをもつ。同じリターには小型の有毒なClitocybeやInocybeが生えることがあり、それらには油質の二色のかさと、綿状基部の棍棒状の柄がない。",
+      "notes": "もっとも確かな野外の特徴は、濃い赤褐色の中央から二色に乾く油質で強く湿性変色するかさ、縁が細かく歯状の密な白いひだ、そして白い菌糸フェルトに包まれた棍棒状の基部へ広がる強靭な赤褐色の柄である。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "エセオリミキ"
+    },
+    "ko": {
+      "description": "낙엽과 침엽 낙엽층에서 나는 흔한 산림 주름버섯으로, 보통 침엽수 아래 무리를 이루며 혼효림이나 활엽수림에서도 나고, 흔히 산성·척박한 토양에 난다. 갓은 기름기가 있고 습성 변색이 뚜렷하다. 젖었을 때는 짙은 적갈색에서 밤색이고, 가운데부터 연한 황토색·담갈색으로 말라 두 톤의 표면이 남으며, 보통 넓고 낮은 중앙 볼록함이 있다. 주름은 빽빽하고 흰색에서 연한 크림색이며, 떨어지거나 좁게 붙고 가장자리는 잘게 톱니 같다. 질기고 섬유질이며 속이 빈 대는 적갈색이고 꼭대기로 갈수록 옅으며, 기부는 분명히 곤봉 모양으로 두꺼워지고, 낙엽층을 뭉치는 흰 솜 같은 균사로 덮인다. 테와 대주머니는 없다. 자실체는 6월부터 12월까지, 특히 가을에 많이 난다.",
+      "cap": "갓은 지름 3–9 cm이다. 처음에는 볼록하고 가장자리가 약간 안쪽으로 말리며, 이후 편평해지고 넓고 낮은 중앙 볼록함이 남는다. 가장자리는 얇고 젖었을 때 희미하게 반투명한 줄무늬가 보일 수 있다. 표면은 매끄럽고 기름기가 있으며 습성 변색이 뚜렷하고, 젖었을 때는 짙은 적갈색에서 밤색이며, 가운데부터 연한 황토색·담갈색으로 마르고 중앙 볼록함은 종종 더 어둡게 남는다.",
+      "hymenium": "주름은 빽빽하고 얇으며 흰색에서 연한 크림색이고, 떨어지거나 좁게 붙으며 가장자리는 잘게 톱니 같고, 그 사이에 더 짧은 주름이 많다.",
+      "stipe": "대는 높이 3–8 cm, 두께 0.5–2 cm이다(더 두꺼운 쪽은 곤봉형 기부이며, 꼭대기에서는 보통 약 0.5–1 cm). 질기고 세로로 섬유 줄무늬가 있으며 연골질이고, 적갈색으로 꼭대기로 갈수록 옅으며, 속이 비거나 차 있고, 낙엽층을 묶는 흰 솜 같은 균사로 덮인 곤봉형 기부로 넓어진다. 테와 대주머니는 없다.",
+      "flesh": "갓의 살은 얇고 물기가 많으며 흰색에서 연한 갈색이다. 대는 섬유질 겉껍질과, 차 있거나 빈 속부분을 가지며 부풀어 오른 기부에서는 더 단단하다. 냄새는 약하고, 맛은 약간 가루 같거나 특징이 거의 없다.",
+      "sporePrint": "포자무늬는 흰색에서 크림색, 또는 연한 분홍빛 황토색이다. 포자는 매끈하고 타원형이며 약 6–10 × 3–6 µm이다.",
+      "habitat": "침엽수 바늘과 낙엽층 위의 부생균으로, 주로 침엽수림, 혼효림과 활엽수림에서도 나며 흔히 산성·척박한 토양에 난다. 자실체는 나무가 아니라 낙엽층에서 무리져 나오며, 6월부터 12월까지, 특히 가을에 많다.",
+      "uses": "먹을 수는 있으나 가치가 낮다. 대는 질겨서 보통 버리고, 갓의 맛은 약하며 약간 가루 같아서 요리로는 그다지 보람이 없다. 숲에는 더 좋은 버섯이 많고, 같은 낙엽층의 다른 작은 갈색 버섯과 혼동하기 쉬우며 그중 일부는 독이 있다.",
+      "confusion": "Gymnopus dryophilus는 기름기 없는 마른 갓을 가지며 같은 방식으로 두 톤으로 마르지 않고, 기부가 분명히 곤봉형이 아닌 더 가늘고 고른 대를 가진다. Rhodocollybia asema는 더 연한 회갈색으로 비슷한 모습이며, 여기서는 별도의 종으로 다룬다. Rhodocollybia maculata는 더 연한 갓에 녹슨 붉은 반점이 생기고 주름에도 같은 반점이 난다. Macrocystidia cucumis는 벨벳질의 더 어두운 갓과 마찬가지로 벨벳질의 대, 그리고 강한 오이 또는 생선 냄새가 있다. 같은 낙엽층에는 독성이 있는 작은 Clitocybe와 Inocybe가 날 수 있으며, 이들에게는 기름기 있는 두 톤의 갓과 솜 같은 기부의 곤봉형 대가 없다.",
+      "notes": "가장 확실한 야외 특징은 짙은 적갈색 가운데부터 두 톤으로 마르는 기름기 있고 습성 변색이 뚜렷한 갓, 가장자리가 잘게 톱니 같은 빽빽한 흰 주름, 그리고 흰 균사 펠트에 감싸인 곤봉형 기부로 넓어지는 질긴 적갈색 대이다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "버터철쭉버섯"
+    },
+    "lt": {
+      "description": "Dažnas miško lakštabudis lapų ir spyglių paklotėje, paprastai grupėmis po spygliuočiais ir taip pat mišriuose ar lapuočių miškuose, dažnai rūgščiose, maisto medžiagų neturtingose dirvose. Kepurėlė riebi ir stipriai higrofaniška: drėgna tamsiai rausvai ruda ar kaštoninė, džiūdama nuo centro šviesėja iki blyškiai ochrinės ar gelsvai rusvos, tad paviršius lieka dvispalvis, paprastai su plačiu žemu gumburėliu. Tankūs lakšteliai balti ar blyškiai kreminiai, laisvi ar siaurai priaugę, smulkiai dantytais ašmenimis. Kietas, pluoštinis, tuščiaviduris kotas rausvai rudas, link viršūnės šviesesnis ir prie pagrindo aiškiai buožiškai pastorėjęs; pagrindą dengia balkšvas vilnotas grybienos apvalkalas, kuris sulipdo paklotę. Žiedo ir makšties nėra. Vaisiakūniai pasirodo nuo birželio iki gruodžio, gausiausiai rudenį.",
+      "cap": "Kepurėlė 3–9 cm skersmens. Pirmiausia ji iškili, silpnai užsirietusiu kraštu, vėliau suplokštėjusi su plačiu žemu gumburėliu; kraštas plonas ir drėgnas gali būti silpnai permatomai raukšlėtas. Paviršius lygus, riebus ir stipriai higrofaniškas, šlapias tamsiai rausvai rudas ar kaštoninis, džiūsta nuo centro iki blyškiai ochrinės ar gelsvai rusvos ir ant gumburėlio dažnai lieka tamsesnis.",
+      "hymenium": "Lakšteliai tankūs, ploni, balti ar blyškiai kreminiai, laisvi ar siaurai priaugę, smulkiai dantytais ašmenimis ir su daug trumpesnių tarplakštelių.",
+      "stipe": "Kotas 3–8 cm aukščio ir 0,5–2 cm storio (didesnis storis tenka buožiškam pagrindui; prie viršūnės paprastai apie 0,5–1 cm). Jis kietas, išilgai pluoštiškai dryžuotas ir kremzlinis, rausvai rudas ir link viršūnės šviesesnis, tuščiaviduris ar pripildytas, ir platėja į buožišką pagrindą, padengtą balkšva vilnota grybiena, kuri suriša paklotę. Žiedo ir makšties nėra.",
+      "flesh": "Mėsa kepurėlėje plona, vandeninga ir balta ar blyškiai rusva. Kotas turi pluoštinę žievę ir pripildytą iki tuščiavidurę vidų, kuris pastorėjusiame pagrinde yra tvirtesnis. Kvapas švelnus; skonis silpnai miltiškas arba neryškus.",
+      "sporePrint": "Sporų milteliai balti ar kreminiai, arba blyškiai rožiniai ochriniai. Sporos lygios, elipsoidinės, apie 6–10 × 3–6 µm.",
+      "habitat": "Saprofas ant spyglių ir lapų paklotės, daugiausia spygliuočių miškuose, taip pat mišriuose ir lapuočių medynuose, dažnai rūgščiose, neturtingose dirvose. Vaisiakūniai auga grupėmis iš paklotės, ne iš medienos, nuo birželio iki gruodžio, gausiausiai rudenį.",
+      "uses": "Ji valgoma, bet menkavertė. Kotai kieti ir paprastai atmetami; kepurėlės turi švelnų, silpnai miltišką skonį ir kulinariškai nėra ypač vertingos. Miške yra daug geresnių grybų, ir ją lengva supainioti su kitais smulkiais rudais paklotės grybais, kurių dalis yra nuodingi.",
+      "confusion": "Gymnopus dryophilus turi sausą, ne riebų kepurėlę, kuri neišdžiūsta tuo pačiu dvispalviu būdu, ir plonesnį, tolygesnį kotą be aiškiai buožiško pagrindo. Rhodocollybia asema yra šviesesnis pilkai rudas grybas panašaus pavidalo, čia traktuojamas kaip atskira rūšis. Rhodocollybia maculata turi šviesesnę kepurėlę, ant kurios atsiranda rūdžių raudonumo dėmės, ir panašiai dėmėtus lakštelius. Agurkinė didpūslė (Macrocystidia cucumis) turi aksominę, tamsesnę kepurėlę, taip pat aksominį kotą ir stiprų agurkų ar žuvies kvapą. Toje pačioje paklotėje gali augti smulkios nuodingos Clitocybe ir Inocybe rūšys; joms trūksta riebios dvispalvės kepurėlės ir buožiško, vilnotu pagrindu koto.",
+      "notes": "Patikimiausi lauko požymiai yra riebi, stipriai higrofaniška kepurėlė, kuri džiūsta dvispalviai nuo tamsiai rausvai rudo centro, tankūs balti lakšteliai su smulkiai dantytais ašmenimis ir kietas rausvai rudas kotas, kuris platėja į buožišką pagrindą, apvyniotą balkšvu grybienos veltiniu.",
+      "names": [
+        "Sviestinė plempė"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Sviestinė didplempė"
+    },
+    "lv": {
+      "description": "Parasta meža lapiņu sēne lapu un skuju kritalā, parasti grupās zem skuju kokiem un arī jauktos vai lapu koku mežos, bieži skābās, barības vielām nabadzīgās augsnēs. Cepurīte ir taukaina un stipri higrofāna: mitra tumši sarkanbrūna līdz kastaņbrūnai, žūstot no centra kļūst bāli okera vai dzeltenbrūna, tā ka virsma paliek divtoņu, parasti ar platu zemu pauguru. Blīvās lapiņas ir baltas līdz bāli krēmkrāsas, brīvas vai šauri pieaugušas, ar sīki zobotu šķautni. Stingrais, šķiedrainais, dobs kātiņš ir sarkanbrūns, pret galotni gaišāks un pie pamatnes skaidri vālesveidīgi paresnināts; pamatni klāj bālgans vilnains micēlijs, kas salīmē kritalu. Gredzena un maksts nav. Augļķermeņi parādās no jūnija līdz decembrim, visbagātīgāk rudenī.",
+      "cap": "Cepurīte ir 3–9 cm plata. Sākumā tā ir izliekta, ar viegli ieritinātu malu, vēlāk saplacināta ar platu zemu pauguru; mala ir plāna un mitra var būt vāji caurspīdīgi rievota. Virsma ir gluda, taukaina un stipri higrofāna, slapja tumši sarkanbrūna līdz kastaņbrūnai, žūst no centra līdz bāli okera vai dzeltenbrūnai un uz paugura bieži paliek tumšāka.",
+      "hymenium": "Lapiņas ir blīvas, plānas, baltas līdz bāli krēmkrāsas, brīvas vai šauri pieaugušas, ar sīki zobotu šķautni un ar daudzām īsākām starplapiņām.",
+      "stipe": "Kātiņš ir 3–8 cm augsts un 0,5–2 cm resns (lielākais resnums attiecas uz vālesveida pamatni; pie galotnes parasti ap 0,5–1 cm). Tas ir stingrs, gareniski šķiedraini svītrots un skrimšļains, sarkanbrūns un pret galotni gaišāks, dobs vai pildīts, un paplašinās vālesveida pamatnē, ko klāj bālgans vilnains micēlijs, kurš saista kritalu. Gredzena un maksts nav.",
+      "flesh": "Mīkstums cepurītē ir plāns, ūdeņains un balts līdz bāli brūnganam. Kātiņam ir šķiedraina miza un pildīts līdz dobam iekšpuse, kas paresninātajā pamatnē ir blīvāka. Smarža ir maiga; garša vāji miltaina vai neizteikta.",
+      "sporePrint": "Sporu pulveris ir balts līdz krēmkrāsas vai bāli rozīgi okera. Sporas ir gludas, elipsoidālas, ap 6–10 × 3–6 µm.",
+      "habitat": "Saprotrofs uz skujām un lapu kritalas, galvenokārt skuju koku mežos, arī jauktos un lapu koku audzēs, bieži skābās, nabadzīgās augsnēs. Augļķermeņi aug grupās no kritalas, ne no koksnes, no jūnija līdz decembrim, visbagātīgāk rudenī.",
+      "uses": "Tā ir ēdama, bet mazvērtīga. Kātiņi ir stingri un parasti tiek atmesti; cepurītēm ir maiga, vāji miltaina garša, un kulināri tās nav īpaši apmierinošas. Mežā ir daudz labāku sēņu, un to viegli sajauc ar citām sīkām brūnām kritalas sēnēm, no kurām dažas ir indīgas.",
+      "confusion": "Gymnopus dryophilus ir sausa, ne taukaina cepurīte, kas nežūst tādā pašā divtoņu veidā, un tievāks, vienmērīgāks kātiņš bez skaidri vālesveida pamatnes. Rhodocollybia asema ir gaišāka pelēkbrūna sēne līdzīgā auguma, šeit uzskatīta par atsevišķu sugu. Rhodocollybia maculata ir gaišāka cepurīte, uz kuras parādās rūsgani sarkani plankumi, un līdzīgi plankumainas lapiņas. Macrocystidia cucumis ir samtaina, tumšāka cepurīte, tāpat samtains kātiņš un stipra gurķu vai zivju smarža. Tajā pašā kritalā var augt sīkas indīgas Clitocybe un Inocybe sugas; tām trūkst taukainās divtoņu cepurītes un vālesveida, vilnaini pamatnē klāta kātiņa.",
+      "notes": "Drošākās pazīmes dabā ir taukainā, stipri higrofānā cepurīte, kas žūst divtoņaini no tumši sarkanbrūna centra, blīvās baltās lapiņas ar sīki zobotu šķautni un stingrais sarkanbrūnais kātiņš, kas paplašinās vālesveida pamatnē, ietīts bālganā micēlija filcā.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Sviesta vērdiņsēne"
+    },
+    "nl": {
+      "description": "Een algemene bladzwam van blad- en naaldstrooisel in bossen, meestal in groepjes onder naaldbomen en ook in gemengde of loofbossen, vaak op zure, voedselarme bodems. De hoed is vettig en sterk hygrofaan: vochtig donker roestbruin tot kastanjebruin, vanuit het midden opdrogend tot bleek oker of zeemkleurig, zodat een tweekleurig oppervlak overblijft, meestal met een brede lage umbo. De dichte lamellen zijn wit tot bleek roomkleurig, vrij of smal aangehecht, met fijn getande snede. De taaie, vezelige, holle steel is roodbruin, naar de top toe bleker en aan de basis duidelijk knotsvormig verdikt; de basis is bekleed met wit wollig mycelium dat het strooisel samenbindt. Een ring of volva ontbreekt. Vruchtlichamen verschijnen van juni tot december, het rijkelijkst in de herfst.",
+      "cap": "De hoed is 3–9 cm breed. Eerst is hij gewelfd, met een licht ingerolde rand, later afgeplat met een brede lage umbo; de rand is dun en kan vochtig zwak doorschijnend gestreept zijn. Het oppervlak is glad, vettig en sterk hygrofaan, nat donker roestbruin tot kastanjebruin, vanuit het midden opdrogend tot bleek oker of zeemkleurig en op de umbo vaak donkerder blijvend.",
+      "hymenium": "De lamellen zijn dicht opeen, dun, wit tot bleek roomkleurig, vrij of smal aangehecht, met fijn getande snede en met vele kortere tussenlamellen.",
+      "stipe": "De steel is 3–8 cm hoog en 0,5–2 cm dik (de grotere dikte betreft de knotsvormige basis; aan de top meestal ongeveer 0,5–1 cm). Hij is taai, vezelig overlangs gestreept en kraakbeenachtig, roodbruin en naar de top toe bleker, hol of opgevuld, en verbreedt zich tot een knotsvormige basis bedekt met wit wollig mycelium dat het strooisel bindt. Een ring of volva ontbreekt.",
+      "flesh": "Het vlees is in de hoed dun, waterig en wit tot bleek bruinachtig. De steel heeft een vezelige schors en een opgevulde tot holle binnenkant, die in de verdikte basis vaster is. De geur is mild; de smaak zwak meelachtig of onopvallend.",
+      "sporePrint": "Het sporenpoeder is wit tot roomkleurig of bleek roze-oker. De sporen zijn glad, ellipsoïd, ongeveer 6–10 × 3–6 µm.",
+      "habitat": "Een saprotroof op naalden en bladstrooisel, vooral in naaldbossen, ook in gemengde en loofbossen, vaak op zure, voedselarme bodems. Vruchtlichamen groeien in groepen uit het strooisel, niet op hout, van juni tot december, het rijkelijkst in de herfst.",
+      "uses": "Hij is eetbaar, maar van geringe waarde. De stelen zijn taai en worden meestal weggegooid; de hoeden hebben een milde, licht meelachtige smaak en zijn culinair weinig bevredigend. In het bos zijn er veel betere paddenstoelen, en hij is makkelijk te verwarren met andere kleine bruine strooiselzwammen, waarvan sommige giftig zijn.",
+      "confusion": "Gymnopus dryophilus heeft een droge, niet vettige hoed die niet op dezelfde tweekleurige manier opdroogt, en een dunnere, gelijkmatiger steel zonder duidelijk knotsvormige basis. Rhodocollybia asema is een blekere grijze tot bruine zwam van vergelijkbare habitus, hier als een aparte soort behandeld. Rhodocollybia maculata heeft een blekere hoed die roestrode vlekken krijgt, en evenzo gevlekte lamellen. De levertraanzwam (Macrocystidia cucumis) heeft een fluweelachtige, donkerdere hoed, een even fluweelachtige steel en een sterke komkommer- of visgeur. In hetzelfde strooisel kunnen kleine giftige soorten van Clitocybe en Inocybe groeien; hun ontbreekt de vettige tweekleurige hoed en de knotsvormige, wollig behaarde steelbasis.",
+      "notes": "De zekerste veldkenmerken zijn de vettige, sterk hygrofane hoed die vanuit een donker roodbruin centrum tweekleurig opdroogt, de dichte witte lamellen met fijn getande snede, en de taaie roodbruine steel die zich verbreedt tot een knotsvormige basis in wit myceliumvilt.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Botercollybia",
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "Botercollybia"
+    },
+    "no": {
+      "description": "En vanlig skogsbladsopp i løv- og barnålsstrø, typisk i grupper under bartre og også i blandingsskog eller løvskog, ofte på sur, næringsfattig jord. Hatten er fet og sterkt hygrofan: fuktig mørkt rødbrun til kastanjebrun, tørkende blekt oker til gulbeige fra midten slik at en totone overflate gjenstår, vanligvis med en bred lav pukkel. De tette skivene er hvite til blekt kremfargede, frie eller smalt festet, med fint tannet egg. Den seige, fibrøse, hule stilken er rødbrun, blekere mot toppen og tydelig kølleformet fortykket ved basis; basis er kledd med hvitt ullent mycel som binder strøet. Ring og volva mangler. Fruktlegemer vises fra juni til desember, rikeligst om høsten.",
+      "cap": "Hatten er 3–9 cm bred. Først er den hvelvet, med svakt innrullet rand, senere avflatet med en bred lav pukkel; randen er tynn og kan være svakt gjennomskinnelig stripet i fuktig vær. Overflaten er glatt, fet og sterkt hygrofan, våt mørkt rødbrun til kastanjebrun, tørkende blekt oker til gulbeige fra midten og ofte mørkere på pukkelen.",
+      "hymenium": "Skivene er tette, tynne, hvite til blekt kremfargede, frie eller smalt festet, med fint tannet egg og med mange kortere mellomskiver.",
+      "stipe": "Stilken er 3–8 cm høy og 0,5–2 cm tykk (den større tykkelsen gjelder den kølleformede basis; ved toppen vanligvis omkring 0,5–1 cm). Den er seig, langsgående fiberstripet og bruskaktig, rødbrun og blekere mot toppen, hul eller utfylt og utvider seg til en kølleformet basis dekket av hvitt ullent mycel som binder strøet. Ring og volva mangler.",
+      "flesh": "Kjøttet er i hatten tynt, vannaktig og hvitt til blekt brunlig. Stilken har en fibrøs bark og et utfylt til hult indre som er fastere i den fortykkede basis. Lukten er mild; smaken svakt melet eller ubetydelig.",
+      "sporePrint": "Sporeavtrykket er hvitt til kremfarget eller blekt rosaoker. Sporene er glatte, ellipsoide, omkring 6–10 × 3–6 µm.",
+      "habitat": "En saprotrof på barnåler og løvstrø, særlig i barskog, også i blandingsskog og løvskog, ofte på sur, næringsfattig jord. Fruktlegemene kommer i grupper fra strøet, ikke fra ved, fra juni til desember, rikeligst om høsten.",
+      "uses": "Den er spiselig, men av liten verdi. Stilkene er seige og kastes vanligvis; hattene har en mild, svakt melet smak og er kulinarisk lite tilfredsstillende. I skogen finnes mange bedre sopper, og den forveksles lett med andre små brune strøsopper, hvorav noen er giftige.",
+      "confusion": "Gymnopus dryophilus har en tørr, ikke fet hatt som ikke tørker totone på samme måte, og en tynnere, jevnere stilk uten tydelig kølleformet basis. Rhodocollybia asema er en blekere gråbrun sopp av lignende vekstform, her behandlet som en egen art. Rhodocollybia maculata har en blekere hatt som får rustrøde flekker, og tilsvarende flekkete skiver. Agurkhatt (Macrocystidia cucumis) har en fløyelsaktig, mørkere hatt, en tilsvarende fløyelsaktig stilk og en sterk agurk- eller fiskeaktig lukt. I samme strø kan små giftige arter av Clitocybe og Inocybe vokse; de mangler den fete totonede hatten og den kølleformede, ullent basale stilken.",
+      "notes": "De sikreste feltkjennetegnene er den fete, sterkt hygrofane hatten som tørker totone fra et mørkt rødbrunt midtpunkt, de tette hvite skivene med fint tannet egg og den seige rødbrune stilken som utvider seg til en kølleformet basis svøpt i hvitt myceliefilt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873"
+      ],
+      "label": "rødbrun flathatt"
+    },
+    "pl": {
+      "description": "Pospolity leśny grzyb blaszkowy ściółki liściastej i iglastej, zwykle w grupach pod drzewami iglastymi, a także w lasach mieszanych lub liściastych, często na kwaśnych, ubogich w składniki odżywcze glebach. Kapelusz jest tłusty i silnie higrofaniczny: w stanie wilgotnym ciemnoczerwonobrązowy do kasztanowego, od środka wysycha do bladoochrowego lub płowego, tak że powierzchnia pozostaje dwubarwna, zwykle z szerokim niskim garbkiem. Gęste blaszki są białe do bladokremowych, wolne lub wąsko przyrośnięte, o drobno ząbkowanym ostrzu. Twardy, włóknisty, pusty trzon jest czerwonobrązowy, ku wierzchołkowi jaśniejszy i u podstawy wyraźnie buławkowato zgrubiały; nasadę odziewa biaława wełnista grzybnia, która zlepia ściółkę. Pierścienia ani pochwy brak. Owocniki pojawiają się od czerwca do grudnia, najobficiej jesienią.",
+      "cap": "Kapelusz ma 3–9 cm średnicy. Najpierw jest wypukły, ze słabo podwiniętym brzegiem, później spłaszczony z szerokim niskim garbkiem; brzeg jest cienki i w stanie wilgotnym może być słabo prześwitująco prążkowany. Powierzchnia jest gładka, tłusta i silnie higrofaniczna, mokra ciemnoczerwonobrązowa do kasztanowej, od środka wysycha do bladoochrowej lub płowej i na garbku często pozostaje ciemniejsza.",
+      "hymenium": "Blaszki są gęste, cienkie, białe do bladokremowych, wolne lub wąsko przyrośnięte, o drobno ząbkowanym ostrzu i z licznymi krótszymi międzyblaszkami.",
+      "stipe": "Trzon ma 3–8 cm wysokości i 0,5–2 cm grubości (większa grubość przypada na buławkowatą podstawę; przy wierzchołku zwykle około 0,5–1 cm). Jest twardy, podłużnie włóknisto prążkowany i chrząstkowaty, czerwonobrązowy i ku wierzchołkowi jaśniejszy, pusty lub wypchany, rozszerza się w buławkowatą nasadę pokrytą białawą wełnistą grzybnią, która spaja ściółkę. Pierścienia ani pochwy brak.",
+      "flesh": "Miąższ w kapeluszu jest cienki, wodnisty i biały do blado brązowawego. Trzon ma włóknistą korę i wypchany do pustego środek, który w zgrubiałej podstawie jest pełniejszy. Zapach jest łagodny; smak słabo mączny lub niewyraźny.",
+      "sporePrint": "Wysyp zarodników jest biały do kremowego lub blado różowawoochrowego. Zarodniki są gładkie, eliptyczne, około 6–10 × 3–6 µm.",
+      "habitat": "Saprotrof na igliwiu i ściółce liściastej, przede wszystkim w lasach iglastych, także w mieszanych i liściastych, często na kwaśnych, ubogich glebach. Owocniki wyrastają grupami ze ściółki, nie z drewna, od czerwca do grudnia, najobficiej jesienią.",
+      "uses": "Jest jadalny, ale mało wartościowy. Trzony są twarde i zwykle się je usuwa; kapelusze mają łagodny, słabo mączny smak i kulinarnie nie są zbyt satysfakcjonujące. W lesie jest wiele lepszych grzybów, a łatwo pomylić go z innymi drobnymi brązowymi grzybami ściółki, z których niektóre są trujące.",
+      "confusion": "Gymnopus dryophilus ma suchy, nie tłusty kapelusz, który nie wysycha w ten sam dwubarwny sposób, oraz cieńszy, bardziej równomierny trzon bez wyraźnie buławkowatej podstawy. Rhodocollybia asema to bledszy szarobrązowy grzyb o podobnym pokroju, ujmowany tu jako osobny gatunek. Rhodocollybia maculata ma bledszy kapelusz, na którym pojawiają się rdzawoczerwone plamy, i podobnie plamiste blaszki. Mięsichówka ogórkowonna (Macrocystidia cucumis) ma aksamitny, ciemniejszy kapelusz, podobnie aksamitny trzon i silny ogórkowy lub rybi zapach. W tej samej ściółce mogą rosnąć drobne trujące gatunki z rodzajów Clitocybe i Inocybe; brak im tłustego dwubarwnego kapelusza i buławkowatego trzonu z wełnistą nasadą.",
+      "notes": "Najpewniejszymi cechami w terenie są tłusty, silnie higrofaniczny kapelusz, który od ciemnoczerwonobrązowego środka wysycha dwubarwnie, gęste białe blaszki o drobno ząbkowanym ostrzu oraz twardy czerwonobrązowy trzon, który rozszerza się w buławkowatą podstawę oplecioną białawą filcowatą grzybnią.",
+      "names": [
+        "Pieniążek maślany"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Rhodocollybia_butyracea",
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Monetnica maślana"
+    },
+    "pt": {
+      "description": "Um agarical florestal comum da folhada e das agulhas, em geral em grupos sob coníferas e também em bosques mistos ou caducifólios, muitas vezes em solos ácidos e pobres em nutrientes. O chapéu é gorduroso e fortemente higrófano: de cor pardo-avermelhada escura a castanha quando húmido, seca do centro para um bege ocráceo pálido, de modo que permanece uma superfície bicolor, habitualmente com um umbo baixo e largo. As lâminas apertadas são brancas a creme pálido, livres ou estreitamente aderentes, com o fio finamente denticulado. O pé fibroso, tenaz e oco é pardo-avermelhado, mais pálido em direção ao ápice, e claramente alargado em maça na base, que está vestida de um micélio branco lanoso que aglutina a folhada. Não há anel nem volva. Os basidiomas aparecem de junho a dezembro, com maior abundância no outono.",
+      "cap": "O chapéu mede 3–9 cm de diâmetro. A princípio é convexo, com a margem um pouco enrolada, depois aplanado com um umbo baixo e largo; a margem é delgada e, quando húmida, pode ser fracamente estriada-translúcida. A superfície é lisa, gordurosa e fortemente higrófana, de cor pardo-avermelhada escura a castanha quando molhada, seca do centro para um bege ocráceo pálido e costuma permanecer mais escura no umbo.",
+      "hymenium": "As lâminas são apertadas, delgadas, brancas a creme pálido, livres ou estreitamente aderentes, com o fio finamente denticulado e com numerosas lamélulas mais curtas.",
+      "stipe": "O pé mede 3–8 cm de altura e 0,5–2 cm de espessura (a maior espessura corresponde à base claviforme; no ápice costuma medir cerca de 0,5–1 cm). É tenaz, fibriloso-estriado e cartilaginoso, pardo-avermelhado e mais pálido em direção ao ápice, oco ou recheado, e alarga-se numa base claviforme coberta de micélio branco lanoso que une a folhada. Não há anel nem volva.",
+      "flesh": "A carne é delgada, aquosa e branca a pardo-pálida no chapéu. O pé tem uma casca fibrosa e um interior recheado a oco, mais sólido na base alargada. O cheiro é suave; o sabor ligeiramente farináceo ou pouco característico.",
+      "sporePrint": "A esporada é branca a creme ou de um camurça rosado pálido. Os esporos são lisos, elipsoides, com cerca de 6–10 × 3–6 µm.",
+      "habitat": "Saprótrofo sobre agulhas de coníferas e folhada, principalmente em bosques de coníferas, também em florestas mistas e caducifólias, muitas vezes em solos ácidos e pobres. Os basidiomas saem em grupos da folhada, não da madeira, de junho a dezembro, com maior abundância no outono.",
+      "uses": "É comestível, mas de pouco valor. Os pés são tenazes e costumam rejeitar-se; os chapéus têm um sabor suave, ligeiramente farináceo, e não são especialmente gratificantes na cozinha. Há muitos melhores cogumelos florestais, e confunde-se facilmente com outros pequenos fungos pardos da folhada, alguns dos quais são tóxicos.",
+      "confusion": "Gymnopus dryophilus tem um chapéu seco, não gorduroso, que não seca da mesma maneira bicolor, e um pé mais delgado e uniforme, sem uma base claramente claviforme. Rhodocollybia asema é um fungo pardo-acinzentado mais pálido de porte semelhante, tratado aqui como uma espécie distinta. Rhodocollybia maculata tem um chapéu mais pálido que desenvolve manchas vermelho-ferrugem, e lâminas igualmente manchadas. Macrocystidia cucumis tem um chapéu aveludado mais escuro, um pé igualmente aveludado e um forte cheiro a pepino ou a peixe. Na mesma folhada podem crescer pequenas espécies tóxicas de Clitocybe e Inocybe; faltam-lhes o chapéu gorduroso bicolor e o pé claviforme de base lanosa.",
+      "notes": "Os traços de campo mais seguros são o chapéu gorduroso, fortemente higrófano, que seca de forma bicolor a partir de um centro pardo-avermelhado escuro, as lâminas brancas apertadas de fio finamente denticulado, e o pé tenaz pardo-avermelhado que se alarga numa base claviforme envolvida num feltro micelial branco.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un agarical forestier comun al litierei de frunze și ace, de obicei în grupuri sub conifere și, de asemenea, în păduri mixte sau de foioase, adesea pe soluri acide, sărace în nutrienți. Pălăria este unsuroasă și puternic higrofană: de un brun-roșcat închis până la castaniu când e umedă, se usucă de la centru într-un bej ocru pal, astfel încât rămâne o suprafață bicoloră, de obicei cu un umbo jos și lat. Lamelele dese sunt albe până la crem pal, libere sau îngust atașate, cu muchia fin dințată. Piciorul fibros, tenace și gol este brun-roșcat, mai palid spre vârf, și evident lățit în măciucă la bază, care e îmbrăcată într-un miceliu alb lânos ce leagă litiera. Nu există inel nici volvă. Corpurile de fructificație apar din iunie până în decembrie, cel mai abundant toamna.",
+      "cap": "Pălăria are 3–9 cm în diametru. La început este convexă, cu marginea ușor răsfrântă spre interior, apoi turtită, cu un umbo jos și lat; marginea e subțire și, umedă, poate fi slab striat-translucidă. Suprafața este netedă, unsuroasă și puternic higrofană, de un brun-roșcat închis până la castaniu când e udă, se usucă de la centru într-un bej ocru pal și rămâne adesea mai închisă pe umbo.",
+      "hymenium": "Lamelele sunt dese, subțiri, albe până la crem pal, libere sau îngust atașate, cu muchia fin dințată și cu numeroase lamelule mai scurte.",
+      "stipe": "Piciorul are 3–8 cm înălțime și 0,5–2 cm grosime (grosimea mai mare corespunde bazei claviforme; la vârf măsoară de obicei circa 0,5–1 cm). Este tenace, fibrilos-striat și cartilaginos, brun-roșcat și mai palid spre vârf, gol sau umplut, și se lățește într-o bază claviformă acoperită de miceliu alb lânos care leagă litiera. Nu există inel nici volvă.",
+      "flesh": "Carnea este subțire, apoasă și albă până la brun-pal în pălărie. Piciorul are o scoarță fibroasă și un interior umplut până la gol, mai solid în baza îngroșată. Mirosul este slab; gustul ușor făinos sau puțin caracteristic.",
+      "sporePrint": "Sporata este albă până la crem sau de un ocru-roz pal. Sporii sunt netezi, elipsoidali, de circa 6–10 × 3–6 µm.",
+      "habitat": "Un saprotrof pe acele de conifere și litiera de frunze, mai ales în păduri de conifere, și în cele mixte și de foioase, adesea pe soluri acide și sărace. Corpurile de fructificație ies în grupuri din litieră, nu din lemn, din iunie până în decembrie, cel mai abundant toamna.",
+      "uses": "Este comestibil, dar de valoare slabă. Picioarele sunt tenace și de obicei se îndepărtează; pălăriile au un gust blând, ușor făinos, și nu sunt deosebit de mulțumitoare în bucătărie. Există multe ciuperci de pădure mai bune, și se confundă ușor cu alți fungii bruni mici ai litierei, dintre care unii sunt toxici.",
+      "confusion": "Gymnopus dryophilus are o pălărie uscată, nu unsuroasă, care nu se usucă în același fel bicolor, și un picior mai subțire, mai uniform, fără o bază evident claviformă. Rhodocollybia asema este o ciupercă brun-cenușie mai palidă, de port asemănător, tratată aici ca o specie distinctă. Rhodocollybia maculata are o pălărie mai palidă pe care apar pete roșu-ruginii, și lamele la fel pătate. Castravetele pădurii (Macrocystidia cucumis) are o pălărie catifelată mai închisă, un picior la fel de catifelat și un miros puternic de castravete sau de pește. În aceeași litieră pot crește specii toxice mici de Clitocybe și Inocybe; le lipsesc pălăria unsuroasă bicoloră și piciorul claviform cu baza lânoasă.",
+      "notes": "Cele mai sigure semne de teren sunt pălăria unsuroasă, puternic higrofană, care se usucă bicolor de la un centru brun-roșcat închis, lamelele albe dese cu muchia fin dințată, și piciorul tenace brun-roșcat care se lățește într-o bază claviformă învelită într-o pâslă miceliană albă.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Обычный лесной пластинчатый гриб листового и хвойного опада, обычно группами под хвойными, а также в смешанных или лиственных лесах, часто на кислых, бедных питательными веществами почвах. Шляпка жирная и сильно гигрофанная: во влажном состоянии тёмно-красновато-коричневая до каштановой, при высыхании светлеет от центра до бледно-охристой или палевой, так что поверхность остаётся двухцветной, обычно с широким низким бугорком. Частые пластинки белые до бледно-кремовых, свободные или узко приросшие, с мелкозубчатым краем. Жёсткая, волокнистая, полая ножка красновато-коричневая, к верхушке бледнее и у основания явно булавовидно утолщена; основание одето беловатым шерстистым мицелием, который склеивает опад. Кольца и вольвы нет. Плодовые тела появляются с июня по декабрь, наиболее обильно осенью.",
+      "cap": "Шляпка 3–9 см в диаметре. Сначала она выпуклая, со слабо подвёрнутым краем, затем распростёртая с широким низким бугорком; край тонкий и во влажном состоянии может быть слабо просвечивающе-полосатым. Поверхность гладкая, жирная и сильно гигрофанная, мокрая тёмно-красновато-коричневая до каштановой, при высыхании светлеет от центра до бледно-охристой или палевой и на бугорке часто остаётся более тёмной.",
+      "hymenium": "Пластинки частые, тонкие, белые до бледно-кремовых, свободные или узко приросшие, с мелкозубчатым краем и со множеством более коротких пластиночек.",
+      "stipe": "Ножка 3–8 см высотой и 0,5–2 см толщиной (большая толщина приходится на булавовидное основание; у верхушки обычно около 0,5–1 см). Она жёсткая, продольно волокнисто-полосатая и хрящеватая, красновато-коричневая и к верхушке бледнее, полая или выполненная, расширяется в булавовидное основание, покрытое беловатым шерстистым мицелием, который связывает опад. Кольца и вольвы нет.",
+      "flesh": "Мякоть в шляпке тонкая, водянистая и белая до бледно-буроватой. У ножки волокнистая кора и выполненная до полой сердцевина, которая в утолщённом основании плотнее. Запах слабый; вкус слегка мучнистый или невыразительный.",
+      "sporePrint": "Споровый порошок белый до кремового или бледно-розовато-охристого. Споры гладкие, эллипсоидные, около 6–10 × 3–6 µm.",
+      "habitat": "Сапротроф на хвое и листовом опаде, главным образом в хвойных лесах, также в смешанных и лиственных насаждениях, часто на кислых, бедных почвах. Плодовые тела растут группами из опада, не с древесины, с июня по декабрь, наиболее обильно осенью.",
+      "uses": "Съедобен, но малоценен. Ножки жёсткие и обычно удаляются; шляпки имеют слабый, слегка мучнистый вкус и кулинарно не слишком привлекательны. В лесу есть много лучших грибов, и его легко спутать с другими мелкими коричневыми грибами опада, некоторые из которых ядовиты.",
+      "confusion": "У Gymnopus dryophilus сухая, не жирная шляпка, которая не высыхает таким же двухцветным образом, и более тонкая, ровная ножка без явно булавовидного основания. Rhodocollybia asema — более бледный серовато-коричневый гриб сходного облика, здесь рассматриваемый как отдельный вид. У Rhodocollybia maculata более бледная шляпка, на которой появляются ржаво-красные пятна, и столь же пятнистые пластинки. Macrocystidia cucumis имеет бархатистую, более тёмную шляпку, такую же бархатистую ножку и сильный огуречный или рыбный запах. В том же опаде могут расти мелкие ядовитые виды Clitocybe и Inocybe; у них нет жирной двухцветной шляпки и булавовидной ножки с шерстистым основанием.",
+      "notes": "Надёжнее всего в поле узнаются жирная, сильно гигрофанная шляпка, высыхающая двухцветно от тёмно-красновато-коричневого центра, частые белые пластинки с мелкозубчатым краем и жёсткая красновато-коричневая ножка, расширяющаяся в булавовидное основание, обёрнутое беловатым мицелиальным войлоком.",
+      "names": [
+        "Родоколлибия масляная",
+        "Денежка масляная",
+        "Коллибия каштановая"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Коллибия масляная"
+    },
+    "sk": {
+      "description": "Bežná lesná lupeňovitá huba listového a ihličnatého opadu, zvyčajne v skupinách pod ihličnanmi a tiež v zmiešaných alebo listnatých lesoch, často na kyslých, živinami chudých pôdach. Klobúk je mastný a silno hygrofánny: za vlhka tmavo červenohnedý až gaštanový, od stredu zasychá do bledo okrovej až plavej, takže ostáva dvojtónový povrch, zvyčajne so širokým nízkym hrboľom. Husté lupene sú biele až bledo krémové, voľné alebo úzko prirastené, s jemne zúbkatým ostrím. Tuhý, vláknitý, dutý hlúbik je červenohnedý, k vrcholu bledší a na báze zreteľne kyjovito zhrubnutý; báza je odetá belavým vlnitým podhubím, ktoré zlepujú opad. Prsteň ani pošva chýbajú. Plodnice sa objavujú od júna do decembra, najhojnejšie na jeseň.",
+      "cap": "Klobúk má 3–9 cm v priemere. Najprv je vypuklý, so slabo podvinutým okrajom, neskôr sploštený so širokým nízkym hrboľom; okraj je tenký a za vlhka môže byť slabo priehľadne ryhovaný. Povrch je hladký, mastný a silno hygrofánny, za mokra tmavo červenohnedý až gaštanový, od stredu zasychá do bledo okrovej až plavej a na hrboli často ostáva tmavší.",
+      "hymenium": "Lupene sú husté, tenké, biele až bledo krémové, voľné alebo úzko prirastené, s jemne zúbkatým ostrím a s mnohými kratšími medzilupňami.",
+      "stipe": "Hlúbik je 3–8 cm vysoký a 0,5–2 cm hrubý (väčšia hrúbka pripadá na kyjovitú bázu; na vrchole býva asi 0,5–1 cm). Je tuhý, pozdĺžne vláknito ryhovaný a chrupkovitý, červenohnedý a k vrcholu bledší, dutý alebo vypchatý, rozširuje sa do kyjovitej bázy pokrytej belavým vlnitým podhubím, ktoré viaže opad. Prsteň ani pošva chýbajú.",
+      "flesh": "Dužina je v klobúku tenká, vodnatá a biela až bledo hnedastá. Hlúbik má vláknitú kôru a vypchatý až dutý vnútrajšok, ktorý je v zhrubnutej báze plnší. Vôňa je mierna; chuť slabo múčnatá alebo nevýrazná.",
+      "sporePrint": "Výtrusný prach je biely až krémový alebo bledo ružovkastookrový. Výtrusy sú hladké, elipsoidné, asi 6–10 × 3–6 µm.",
+      "habitat": "Saprotrofná huba na ihličí a listovom opade, predovšetkým v ihličnatých lesoch, tiež v zmiešaných a listnatých porastoch, často na kyslých, živinami chudých pôdach. Plodnice vyrastajú v skupinách z opadu, nie z dreva, od júna do decembra, najhojnejšie na jeseň.",
+      "uses": "Je jedlá, ale málo hodnotná. Hlúbiky sú tuhé a zvyčajne sa odstraňujú; klobúky majú miernu, slabo múčnatú chuť a kuchynsky príliš neuspokojia. V lese je veľa lepších húb a ľahko sa zamení s inými drobnými hnedými hubami opadu, z ktorých niektoré sú jedovaté.",
+      "confusion": "Gymnopus dryophilus má suchý, nie mastný klobúk, ktorý rovnako dvojtónovo nezasychá, a tenší, rovnomernejší hlúbik bez zreteľne kyjovitej bázy. Rhodocollybia asema je bledšia sivohnedá huba podobného vzhľadu, tu poňatá ako samostatný druh. Rhodocollybia maculata má bledší klobúk, na ktorom sa objavujú hrdzavo červené škvrny, a podobne škvrnité lupene. Smeťovček uhorkový (Macrocystidia cucumis) má zamatový, tmavší klobúk, rovnako zamatový hlúbik a silnú uhorkovú alebo rybiu vôňu. V tom istom opade môžu rásť drobné jedovaté druhy rodov Clitocybe a Inocybe; chýba im mastný dvojtónový klobúk aj kyjovitý hlúbik s vlnitou bázou.",
+      "notes": "Najistejšími znakmi v teréne sú mastný, silno hygrofánny klobúk, ktorý od tmavo červenohnedého stredu zasychá dvojtónovo, husté biele lupene s jemne zúbkatým ostrím a tuhý červenohnedý hlúbik, ktorý sa rozširuje do kyjovitej bázy obalenej belavým plstnatým podhubím.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.gbif.org/species/9217873"
+      ],
+      "label": "peniazovka maslová"
+    },
+    "sl": {
+      "description": "Pogosta gozdna lističasta goba listnega in igličnega opada, običajno v skupinah pod iglavci in tudi v mešanih ali listnatih gozdovih, pogosto na kislih, s hranili revnih tleh. Klobuk je masten in močno higrofan: vlažen temno rdečerjav do kostanjev, od središča se suši v bledo okrasto do rumenkastorjavo, tako da ostane dvobarvna površina, običajno s široko nizko grbico. Gosti lističi so beli do bledo kremasti, prosti ali ozko priraščeni, z drobno nazobčanim robom. Čvrst, vlaknat, votel bet je rdečerjav, proti vrhu bledši in pri dnu očitno kijasto odebeljen; dno pokriva belkasto volnato podgobje, ki zlepija opad. Obroča in ovojnice ni. Trosišča se pojavljajo od junija do decembra, najobilneje jeseni.",
+      "cap": "Klobuk meri 3–9 cm v premeru. Najprej je izbočen, s šibko podvinjenim robom, pozneje sploščen s široko nizko grbico; rob je tanek in vlažen lahko šibko prosojno nažlebkan. Površina je gladka, mastna in močno higrofana, mokra temno rdečerjava do kostanjeva, od središča se suši v bledo okrasto do rumenkastorjavo in na grbici pogosto ostane temnejša.",
+      "hymenium": "Lističi so gosti, tanki, beli do bledo kremasti, prosti ali ozko priraščeni, z drobno nazobčanim robom in s številnimi krajšimi vmesnimi lističi.",
+      "stipe": "Bet je visok 3–8 cm in debel 0,5–2 cm (večja debelina odpade na kijasto dno; pri vrhu je običajno okoli 0,5–1 cm). Je čvrst, vzdolžno vlaknato progasto in hrustančast, rdečerjav in proti vrhu bledši, votel ali napolnjen, razširi se v kijasto dno, pokrito z belkastim volnatim podgobjem, ki veže opad. Obroča in ovojnice ni.",
+      "flesh": "Meso je v klobuku tanko, vodeno in belo do bledo rjavkasto. Bet ima vlaknat plašč in napolnjeno do votlo notranjost, ki je v odebeljenem dnu bolj polna. Vonj je blag; okus šibko moknat ali neizrazit.",
+      "sporePrint": "Trosni prah je bel do kremast ali bledo rožnato okrast. Trosi so gladki, elipsoidni, približno 6–10 × 3–6 µm.",
+      "habitat": "Saprotrof na iglicah in listnem opadu, predvsem v iglastih gozdovih, tudi v mešanih in listnatih sestojih, pogosto na kislih, s hranili revnih tleh. Trosišča rastejo v skupinah iz opada, ne z lesa, od junija do decembra, najobilneje jeseni.",
+      "uses": "Je užitna, vendar malo vredna. Beti so čvrsti in se običajno odstranijo; klobuki imajo blag, šibko moknat okus in kulinarično niso posebej zadovoljivi. V gozdu je veliko boljših gob, zlahka pa jo zamenjamo z drugimi drobnimi rjavimi gobami opada, med katerimi so nekatere strupene.",
+      "confusion": "Gymnopus dryophilus ima suh, ne masten klobuk, ki se ne suši na enak dvobarven način, in tanjši, enakomernejši bet brez očitno kijastega dna. Rhodocollybia asema je bledša sivorjava goba podobne rasti, tu obravnavana kot ločena vrsta. Rhodocollybia maculata ima bledši klobuk, na katerem se pojavijo rjasto rdeče pege, in podobno pegaste lističe. Macrocystidia cucumis ima žameten, temnejši klobuk, prav tako žameten bet in močan kumarčen ali ribji vonj. V istem opadu lahko rastejo drobne strupene vrste rodov Clitocybe in Inocybe; primanjkuje jim mastnega dvobarvnega klobuka in kijastega beta z volnatim dnom.",
+      "notes": "Najzanesljivejši terenski znaki so masten, močno higrofan klobuk, ki se od temno rdečerjavega središča suši dvobarvno, gosti beli lističi z drobno nazobčanim robom in čvrst rdečerjav bet, ki se razširi v kijasto dno, ovito z belkastim filcastim podgobjem.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166",
+        "https://www.wikidata.org/wiki/Q1018043"
+      ],
+      "label": "žaltava korenarka"
+    },
+    "sr": {
+      "description": "Честа шумска листићава гљива лисног и игличастог отпада, обично у групама под четинарима, а и у мешовитим или листопадним шумама, често на киселим, хранљивим материјама сиромашним земљиштима. Шешир је мастан и јако хигрофан: влажан тамно црвеносмеђ до кестењаст, од средишта се суши у бледо окерасто до жућкастосмеђе, тако да површина остаје двобојна, обично са широком ниском квргом. Густи листићи су бели до бледо крем, слободни или уско прирасли, са фино назубљеним оштрицама. Чврст, влакнаст, шупаљ стручак је црвеносмеђ, према врху блеђи и при дну јасно батинасто задебљао; базу одева беличаста вунаста мицелија која слепљује отпад. Прстена ни овоја нема. Плодна тела се јављају од јуна до децембра, најобилније у јесен.",
+      "cap": "Шешир има 3–9 cm у пречнику. Најпре је испупчен, са слабо повијеним ободом, касније спљоштен са широком ниском квргом; обод је танак и у влажном стању може бити слабо прозирно наребран. Површина је глатка, масна и јако хигрофана, мокра тамно црвеносмеђа до кестењаста, од средишта се суши у бледо окерасто до жућкастосмеђе и на кврги често остаје тамнија.",
+      "hymenium": "Листићи су густи, танки, бели до бледо крем, слободни или уско прирасли, са фино назубљеним оштрицама и са бројним краћим међулистићима.",
+      "stipe": "Стручак је висок 3–8 cm и дебљине 0,5–2 cm (већа дебљина отпада на батинасту базу; при врху је обично око 0,5–1 cm). Чврст је, уздужно влакнасто пругаст и хрскавичав, црвеносмеђ и према врху блеђи, шупаљ или испуњен, шири се у батинасту базу покривену беличастом вунастом мицелијом која веже отпад. Прстена ни овоја нема.",
+      "flesh": "Месо је у шеширу танко, воденасто и бело до бледо смеђе. Стручак има влакнасту кору и испуњену до шупљу унутрашњост, која је у задебљаној бази пунија. Мирис је благ; укус слабо брашнаст или неизражен.",
+      "sporePrint": "Отисак спора је бео до крем или бледо ружичасто окер. Споре су глатке, елипсоидне, око 6–10 × 3–6 µm.",
+      "habitat": "Сапротроф на четинама и лисном отпаду, првенствено у четинарским шумама, такође у мешовитим и листопадним састојинама, често на киселим, сиромашним земљиштима. Плодна тела расту у групама из отпада, не са дрвета, од јуна до децембра, најобилније у јесен.",
+      "uses": "Јстива је, али слабе вредности. Стручци су чврсти и обично се одбацују; шешири имају благ, слабо брашнаст укус и кулинарски нису особито задовољавајући. У шуми има много бољих гљива, а лако се замени с другим ситним смеђим гљивама отпада, од којих су неке отровне.",
+      "confusion": "Gymnopus dryophilus има сув, не мастан шешир који се не суши на исти двобојни начин, и тањи, равномернији стручак без јасно батинасте базе. Rhodocollybia asema је блеђа сивосмеђа гљива сличног хабитуса, овде схваћена као засебна врста. Rhodocollybia maculata има блеђи шешир на коме се јављају рђасто црвене пеге и слично пегаве листиће. Macrocystidia cucumis има баршунаст, тамнији шешир, исто тако баршунаст стручак и јак краставачки или рибљи мирис. У истом отпаду могу расти ситне отровне врсте родова Clitocybe и Inocybe; недостају им мастан двобојни шешир и батинаст стручак с вунастом базом.",
+      "notes": "Најсигурнија теренска обележја су мастан, јако хигрофан шешир који се од тамно црвеносмеђег средишта суши двобојно, густи бели листићи са фино назубљеним оштрицама и чврст црвеносмеђ стручак који се шири у батинасту базу обавијену беличастом филцастом мицелијом.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En vanlig skogsbladsvamp i löv- och barrförna, oftast i grupper under barrträd och även i bland- eller lövskog, ofta på sur, näringsfattig mark. Hatten är fet och starkt hygrofan: fuktig mörkt rödbrun till kastanjebrun, torkande blekt ockra till gulbeige från mitten så att en tvåtonad yta kvarstår, vanligen med en bred låg puckel. De täta skivorna är vita till blekt krämfärgade, fria eller smalt fästa, med fint tandad egg. Den sega, fibrösa, ihåliga foten är rödbrun, blekare mot toppen och tydligt klubblikt förtjockad vid basen; basen är klädd med vitt ulligt mycel som binder förnan. Ring och volva saknas. Fruktkroppar uppträder från juni till december, rikligast på hösten.",
+      "cap": "Hatten är 3–9 cm bred. Först är den välvd, med svagt invikt kant, senare tillplattad med en bred låg puckel; kanten är tunn och kan vara svagt genomskinligt strimmig i fuktigt väder. Ytan är slät, fet och starkt hygrofan, våt mörkt rödbrun till kastanjebrun, torkande blekt ockra till gulbeige från mitten och ofta mörkare kvar på puckeln.",
+      "hymenium": "Skivorna är täta, tunna, vita till blekt krämfärgade, fria eller smalt fästa, med fint tandad egg och med många kortare mellanskivor.",
+      "stipe": "Foten är 3–8 cm hög och 0,5–2 cm tjock (den större tjockleken gäller den klubblika basen; vid toppen vanligen omkring 0,5–1 cm). Den är seg, längsfibrigt strimmig och broskartad, rödbrun och blekare mot toppen, ihålig eller utfylld och vidgas till en klubblik bas täckt av vitt ulligt mycel som binder förnan. Ring och volva saknas.",
+      "flesh": "Köttet är i hatten tunt, vattnigt och vitt till blekt brunaktigt. Foten har en fibrös bark och ett utfyllt till ihåligt inre som är fastare i den förtjockade basen. Lukten är mild; smaken svagt mjölig eller obetydlig.",
+      "sporePrint": "Sporavtrycket är vitt till krämfärgat eller blekt rosaocker. Sporerna är släta, ellipsoida, omkring 6–10 × 3–6 µm.",
+      "habitat": "En saprotrof på barr och lövförna, främst i barrskog, också i bland- och lövskog, ofta på sur, näringsfattig mark. Fruktkropparna växer i grupper ur förnan, inte på ved, från juni till december, rikligast på hösten.",
+      "uses": "Den är ätlig men av litet värde. Fötterna är sega och kasseras vanligen; hattarna har en mild, svagt mjölig smak och är kulinariskt föga tillfredsställande. I skogen finns många bättre svampar, och den förväxlas lätt med andra små bruna förnasvampar, av vilka några är giftiga.",
+      "confusion": "Gymnopus dryophilus har en torr, inte fet hatt som inte torkar tvåtonat på samma sätt, och en tunnare, jämnare fot utan tydligt klubblik bas. Rhodocollybia asema är en blekare gråbrun svamp av liknande växtsätt, här behandlad som en skild art. Rhodocollybia maculata har en blekare hatt som får roströda fläckar, och liknande fläckiga skivor. Transkräling (Macrocystidia cucumis) har en sammetslik, mörkare hatt, en likaledes sammetslik fot och en stark gurk- eller fisklukt. I samma förna kan små giftiga arter av Clitocybe och Inocybe växa; de saknar den feta tvåtonade hatten och den klubblika, ulligt basala foten.",
+      "notes": "De säkraste fältkännetecknen är den feta, starkt hygrofana hatten som torkar tvåtonat från ett mörkt rödbrunt centrum, de täta vita skivorna med fint tandad egg och den sega rödbruna foten som vidgas till en klubblik bas invirad i vitt mycelialt filtlager.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "mörk nagelskivling"
+    },
+    "tr": {
+      "description": "Yaprak ve iğne döküntüsünde yetişen yaygın bir orman lamelli mantarı; genellikle iğne yapraklıların altında gruplar halinde, ayrıca karışık veya yaprak döken ormanlarda, çoğu kez asitli, besince yoksul topraklarda. Şapka yağlı ve güçlü higrofandır: nemliyken koyu kırmızımsı kahverengiden kestane rengine kadar, ortadan soluk okrumsı veya sarımsı beje kurur, böylece genellikle geniş alçak bir tümsekle iki tonlu bir yüzey kalır. Sık lameller beyazdan soluk krem rengine kadar, serbest veya dar bağlı, ince dişli kenarlıdır. Sert, lifli, içi boş sap kırmızımsı kahverengi, tepeye doğru daha soluk ve tabanda belirgin sopa biçiminde kalınlaşmıştır; tabanı döküntüyü birbirine bağlayan beyaz yünsü miselyum örter. Halka ve volva yoktur. Meyve gövdeleri hazirandan aralığa kadar, en bol sonbaharda görünür.",
+      "cap": "Şapka 3–9 cm çapındadır. Önce dışbükeydir, biraz içeri kıvrık kenarlı, sonra geniş alçak bir tümsekle yassılaşır; kenar incedir ve nemliyken zayıfça yarı saydam çizgili olabilir. Yüzey düz, yağlı ve güçlü higrofandır, ıslakken koyu kırmızımsı kahverengiden kestane rengine kadar, ortadan soluk okrumsı veya sarımsı beje kurur ve tümsekte çoğu kez daha koyu kalır.",
+      "hymenium": "Lameller sıktır, incedir, beyazdan soluk krem rengine kadar, serbest veya dar bağlı, ince dişli kenarlıdır ve aralarında birçok daha kısa lamelcik bulunur.",
+      "stipe": "Sap 3–8 cm boyunda ve 0,5–2 cm kalınlığındadır (daha büyük kalınlık sopa biçimli tabana aittir; tepede genellikle yaklaşık 0,5–1 cm). Sert, boyuna lifli çizgili ve kıkırdaklıdır, kırmızımsı kahverengi ve tepeye doğru daha soluk, içi boş veya dolgulu, döküntüyü bağlayan beyaz yünsü miselyumla örtülü sopa biçimli bir tabana doğru genişler. Halka ve volva yoktur.",
+      "flesh": "Et, şapkada ince, sulu ve beyazdan soluk kahverengimsiye kadardır. Sapın lifli bir kabuğu ve kalınlaşmış tabanda daha katı olan dolgulu-içi boş bir içi vardır. Kokusu hafiftir; tadı hafif unumsu veya belirgin değildir.",
+      "sporePrint": "Spor izi beyazdan krem rengine veya soluk pembemsi okraya kadardır. Sporlar pürüzsüz, elipsoittir, yaklaşık 6–10 × 3–6 µm.",
+      "habitat": "İğne yapraklar ve yaprak döküntüsü üzerinde saprotroftur, başlıca iğne yapraklı ormanlarda, ayrıca karışık ve yaprak döken meşcerelerde, çoğu kez asitli, yoksul topraklarda. Meyve gövdeleri odundan değil döküntüden gruplar halinde, hazirandan aralığa kadar, en bol sonbaharda çıkar.",
+      "uses": "Yenilebilir ama değeri düşüktür. Saplar serttir ve genellikle atılır; şapkaların tadı hafif, biraz unumsudur ve mutfakta pek doyurucu değildir. Ormanda çok daha iyi mantarlar vardır ve bazıları zehirli olan başka küçük kahverengi döküntü mantarlarıyla kolayca karıştırılır.",
+      "confusion": "Gymnopus dryophilus’un kuru, yağlı olmayan bir şapkası vardır, aynı şekilde iki tonlu kurumaz, ve tabanı belirgin sopa biçiminde olmayan daha ince, daha düzgün bir sapı vardır. Rhodocollybia asema, benzer habituslu daha soluk gri-kahverengi bir mantardır ve burada ayrı bir tür olarak ele alınır. Rhodocollybia maculata’nın daha soluk bir şapkası pas kırmızısı lekeler geliştirir ve lamelleri de benzer biçimde lekelidir. Macrocystidia cucumis kadifemsi, daha koyu bir şapkaya, yine kadifemsi bir sapa ve güçlü salatalık veya balık kokusuna sahiptir. Aynı döküntüde küçük zehirli Clitocybe ve Inocybe türleri de büyüyebilir; yağlı iki tonlu şapka ile yünsü tabanlı sopa biçimli sap onlarda yoktur.",
+      "notes": "En güvenilir arazi belirtileri, koyu kırmızımsı kahverengi ortadan iki tonlu kuruyan yağlı, güçlü higrofan şapka, ince dişli kenarlı sık beyaz lameller ve beyaz miselyum keçesine sarılı sopa biçimli bir tabana genişleyen sert kırmızımsı kahverengi saptır.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Gövertek mantarı"
+    },
+    "uk": {
+      "description": "Звичайний лісовий пластинчастий гриб листового й хвойного опаду, зазвичай групами під хвойними, а також у мішаних чи листяних лісах, часто на кислих, бідних на поживні речовини ґрунтах. Шапинка жирна й сильно гігрофанна: у вологому стані темно-червонувато-коричнева до каштанової, підсихаючи світлішає від центру до блідо-вохристої чи палевої, тож поверхня лишається двоколірною, зазвичай із широким низьким горбком. Густі пластинки білі до блідо-кремових, вільні або вузько прирослі, з дрібнозубчастим краєм. Жорстка, волокниста, порожниста ніжка червонувато-коричнева, до верхівки блідіша й біля основи виразно булавоподібно потовщена; основу вкриває білуватий вовнистий міцелій, що склеює опад. Кільця й вольви немає. Плодові тіла з’являються з червня по грудень, найрясніше восени.",
+      "cap": "Шапинка 3–9 см у діаметрі. Спочатку вона опукла, зі слабо підгорнутим краєм, потім розпростерта з широким низьким горбком; край тонкий і у вологому стані може бути слабо просвічувально-смугастим. Поверхня гладка, жирна й сильно гігрофанна, мокра темно-червонувато-коричнева до каштанової, підсихаючи світлішає від центру до блідо-вохристої чи палевої й на горбку часто лишається темнішою.",
+      "hymenium": "Пластинки густі, тонкі, білі до блідо-кремових, вільні або вузько прирослі, з дрібнозубчастим краєм і з багатьма коротшими пластиночками.",
+      "stipe": "Ніжка 3–8 см заввишки й 0,5–2 см завтовшки (більша товщина припадає на булавоподібну основу; біля верхівки зазвичай близько 0,5–1 см). Вона жорстка, поздовжньо волокнисто-смугаста й хрящувата, червонувато-коричнева й до верхівки блідіша, порожниста або виповнена, розширюється в булавоподібну основу, вкриту білуватим вовнистим міцелієм, що зв’язує опад. Кільця й вольви немає.",
+      "flesh": "М’якоть у шапинці тонка, водяниста й біла до блідо-буруватої. Ніжка має волокнисту кору й виповнену до порожнистої серцевину, яка в потовщеній основі щільніша. Запах слабкий; смак злегка борошнистий або невиразний.",
+      "sporePrint": "Споровий порошок білий до кремового або блідо-рожевувато-вохристого. Спори гладкі, еліпсоїдні, близько 6–10 × 3–6 µm.",
+      "habitat": "Сапротроф на хвої й листовому опаді, головним чином у хвойних лісах, також у мішаних і листяних насадженнях, часто на кислих, бідних ґрунтах. Плодові тіла ростуть групами з опаду, не з деревини, з червня по грудень, найрясніше восени.",
+      "uses": "Їстівний, але малоцінний. Ніжки жорсткі й зазвичай видаляються; шапинки мають слабкий, злегка борошнистий смак і кулінарно не надто привабливі. У лісі є багато кращих грибів, і його легко сплутати з іншими дрібними коричневими грибами опаду, деякі з яких отруйні.",
+      "confusion": "У Gymnopus dryophilus суха, не жирна шапинка, яка не підсихає таким самим двоколірним чином, і тонша, рівномірніша ніжка без виразно булавоподібної основи. Rhodocollybia asema — блідіший сірувато-коричневий гриб подібного вигляду, тут розглянутий як окремий вид. У Rhodocollybia maculata блідіша шапинка, на якій з’являються іржаво-червоні плями, і так само плямисті пластинки. Macrocystidia cucumis має оксамитову, темнішу шапинку, таку саму оксамитову ніжку й сильний огірковий або риб’ячий запах. У тому самому опаді можуть рости дрібні отруйні види Clitocybe та Inocybe; їм бракує жирної двоколірної шапинки й булавоподібної ніжки з вовнистою основою.",
+      "notes": "Найпевші польові ознаки — жирна, сильно гігрофанна шапинка, що підсихає двоколірно від темно-червонувато-коричневого центру, густі білі пластинки з дрібнозубчастим краєм і жорстка червонувато-коричнева ніжка, яка розширюється в булавоподібну основу, обгорнуту білуватою міцеліальною повстю.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "Родоколібія масляна"
+    },
+    "zh": {
+      "description": "一种常见的林地伞菌，生于落叶和针叶凋落物上，通常成群出现在针叶树下，也见于混交林或阔叶林，常在酸性、贫瘠的土壤上。菌盖油润且强烈湿变：潮湿时深红褐色至栗色，自中央向外干成浅土黄或浅黄褐色，因而留下双色表面，通常具宽而低的中央凸起。菌褶密集，白色至浅奶油色，离生或狭着生，边缘细齿状。菌柄坚韧、纤维质、中空，红褐色，向上渐淡，基部明显棒状膨大，并覆有将凋落物粘结在一起的白色绵毛状菌丝。无菌环和菌托。子实体见于6月至12月，秋季最盛。",
+      "cap": "菌盖直径3–9 cm。初期凸起，边缘稍内卷，后变平并具宽而低的中央凸起；边缘薄，潮湿时或可略呈半透明条纹。表面平滑、油润、强烈湿变，湿时深红褐色至栗色，自中央向外干成浅土黄或浅黄褐色，中央凸起常保持较深颜色。",
+      "hymenium": "菌褶密集、薄，白色至浅奶油色，离生或狭着生，边缘细齿状，其间有许多较短的小菌褶。",
+      "stipe": "菌柄高3–8 cm，粗0.5–2 cm（较粗处为棒状基部；顶部通常约0.5–1 cm）。质地坚韧，具纵行纤维条纹并呈软骨质，红褐色、向上较淡，中空或实心，并向覆有粘结凋落物的白色绵毛状菌丝的棒状基部膨大。无菌环和菌托。",
+      "flesh": "菌盖的肉薄而含水，白色至浅褐色。菌柄有纤维质皮层，内部实心至中空，在膨大的基部较为充实。气味淡；味道略带粉质或不明显。",
+      "sporePrint": "孢子印白色至奶油色，或浅粉黄褐色。孢子光滑、椭圆形，约6–10 × 3–6 µm。",
+      "habitat": "针叶和落叶凋落物上的腐生菌，主要见于针叶林，也见于混交林和阔叶林，常在酸性贫瘠土壤上。子实体成群从凋落物中长出，不生于木材，见于6月至12月，秋季最盛。",
+      "uses": "可食用，但价值不高。菌柄坚韧，通常弃去；菌盖味道淡、略带粉质，烹饪上并不特别可取。林中有许多更好的蘑菇，且易与凋落物中其他小型褐色真菌混淆，其中有些有毒。",
+      "confusion": "Gymnopus dryophilus的菌盖干燥而不油润，不以同样方式干成双色，菌柄更细、更均匀，基部并不明显呈棒状。Rhodocollybia asema是颜色更浅的灰褐色、体态相近的真菌，此处作为独立种处理。Rhodocollybia maculata的菌盖较浅，会出现锈红色斑点，菌褶同样有斑。瓜形大囊傘（Macrocystidia cucumis）具有更暗的绒质菌盖、同样绒质的菌柄，以及强烈的黄瓜或鱼腥气味。同一凋落物中还可能长出有毒的小型Clitocybe和Inocybe；它们没有油润的双色菌盖，也没有基部覆有绵毛的棒状菌柄。",
+      "notes": "最可靠的野外特征是自深红褐色中央干成双色的油润、强烈湿变的菌盖，边缘细齿状的密集白色菌褶，以及向被白色菌丝毡包裹的棒状基部膨大的坚韧红褐色菌柄。",
+      "names": [
+        "乳酪狀金錢菌",
+        "乳酪紅金錢菇"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1018043",
+        "https://www.gbif.org/species/9217873",
+        "https://www.inaturalist.org/taxa/118166"
+      ],
+      "label": "乳酪状粉金钱菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus butyraceus",
+      "author": "Bull.",
+      "year": 1792,
+      "rank": "species",
+      "type": "basionym",
+      "if": 208132
+    },
+    {
+      "name": "Collybia butyracea",
+      "author": "(Bull.) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Marasmius butyraceus",
+      "author": "(Bull.) P. Karst.",
+      "year": 1889,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus leiopus",
+      "author": "Pers.",
+      "year": 1794,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Collybia aurorea",
+      "author": "(Fr.) Sacc.",
+      "year": 1887,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Agaricus bibulosus",
+      "author": "Massee",
+      "year": 1892,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    },
+    {
+      "name": "Collybia bibulosa",
+      "author": "(Massee) Massee",
+      "year": 1893,
+      "rank": "species",
+      "type": "synonym",
+      "if": null
+    }
+  ],
+  "reserved": false,
+  "id": 221,
+  "citation": "Mycotaxon 9(1): 218 (1979)"
 }
 ];

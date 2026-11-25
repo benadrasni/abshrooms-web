@@ -1155,5 +1155,8 @@ export const TAXA = {
   },
   Saproamanita: {
     rank: "genus"
+  },
+  Rhodocollybia: {
+    rank: "genus"
   }
 };
