@@ -196810,6 +196810,12 @@ export const CATALOG = [
       "author": "(Kuntze) J.E. Lange",
       "year": 1926,
       "rank": "species"
+    },
+    {
+      "name": "Agaricus silvaticus",
+      "author": "Schaeff.",
+      "year": 1774,
+      "rank": "species"
     }
   ],
   "reserved": false,
@@ -232255,6 +232261,1867 @@ export const CATALOG = [
       "name": "Bolbitius variicolor var. svalbardensis",
       "author": "Hauskn.",
       "rank": "variety"
+    }
+  ]
+},
+{
+  "id": 231,
+  "name": "Schizophyllum commune",
+  "author": "Fr.",
+  "family": "Schizophyllaceae",
+  "genus": "Schizophyllum",
+  "order": "Agaricales",
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "dark",
+    "brown"
+  ],
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Schizophyllaceae",
+    "Schizophyllum"
+  ],
+  "summary": [
+    "Agaricales",
+    "Schizophyllaceae",
+    "Schizophyllum"
+  ],
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "generated",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune_1.webp",
+      "author": "Ermell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gemeiner_Spaltbl%C3%A4ttling,_Schizophyllum_commune-20191216-RM-152856.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune_2.webp",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hongo_(Schizophyllum_commune),_Hartelholz,_M%C3%BAnich,_Alemania,_2020-11-28,_DD_333-378_FS.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune_3.webp",
+      "author": "Achim Lammerts (Syntaxys)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2025-10-30_D500-1400_Achim-Lammerts_Schizophyllum-commune.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune_4.webp",
+      "author": "Dendrofil",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Klanol%C3%ADstka09114.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Schizophyllaceae/Schizophyllum_commune/Schizophyllum_commune_5.webp",
+      "author": "Tõnu Pani",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%B5hkislehik.jpg"
+    }
+  ],
+  "capFrom": 1.0,
+  "capTo": 4.0,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "en": "split gill",
+    "ar": "زامح شائع",
+    "bg": "ветрилка",
+    "cs": "klanolístka obecná",
+    "da": "kløvblad",
+    "de": "Gemeiner Spaltblättling",
+    "et": "lõhislehik",
+    "fa": "شیزوفیلوم برزن",
+    "fi": "halkiheltta",
+    "fr": "Schizophylle commun",
+    "he": "שסועית מצויה",
+    "hu": "hasadtlemezű gomba",
+    "id": "Jamur gerigit",
+    "ja": "スエヒロタケ",
+    "ko": "치마버섯",
+    "lt": "paprastoji alksniabudė",
+    "lv": "parastā skaldlapīte",
+    "nl": "waaiertje",
+    "no": "kløyvsopp",
+    "pl": "rozszczepka pospolita",
+    "ru": "щелелистник обыкновенный",
+    "sk": "klanolupeňovka obyčajná",
+    "sl": "navadna cepilistka",
+    "sr": "длакава дволисница",
+    "sv": "klyvblad",
+    "uk": "розщепка звичайна",
+    "zh": "裂褶菌"
+  },
+  "names": {
+    "en": [
+      "split-gill fungus",
+      "split-gilled mushroom",
+      "common porecrust"
+    ],
+    "de": [
+      "Spaltblättling"
+    ],
+    "he": [
+      "שסועה מצויה"
+    ],
+    "no": [
+      "oldersopp"
+    ],
+    "zh": [
+      "白參菌"
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A tough, small, wood-decaying mushroom that fruits singly, in groups, or in overlapping bracket-like tiers on dead and weakened wood. One of the most widespread fungi on Earth, it occurs across every continent except Antarctica and revives repeatedly after prolonged drying.",
+      "cap": "1–4 cm across (occasionally from 0.5 cm) and 0.3–1 cm thick, fan-shaped when attached laterally to wood or shell-shaped to circular when attached dorsally underneath branches, often fused with adjacent caps. The margin is wavy, lobed, and enrolled when young. Dry and densely felted to finely hairy, the upper surface is whitish to pale grey when dry and darker grey-brown when moist, sometimes faintly zoned, tinged purplish, or greenish from microscopic algae.",
+      "hymenium": "Distant, radiating gill-like folds—actually compound folds of the fertile undersurface rather than true gills—whitish, greyish, pinkish-grey, or flesh-pink to purplish-grey. Each fold is distinctively split lengthwise down its edge into two halves that curl back to close over the fertile layer in dry weather and reopen when moistened. Basidia are clavate, 20–30 × 6–8 µm, four-spored, with basal clamp connections; hymenial cystidia are absent.",
+      "stipe": "Absent, or reduced to a very short, rudimentary lateral or dorsal attachment point barely visible above the substrate.",
+      "flesh": "Thin, pliable when young and moist, becoming tough, leathery, and rigid with age or drying; whitish to pale brownish, unchanging when cut, with no distinctive odour or taste.",
+      "sporePrint": "White to faintly pinkish. Spores are smooth, thin-walled, subcylindrical to subellipsoid, 4–6.5 × 1.5–2.5 µm (occasionally up to 7 × 3 µm), hyaline in KOH, and inamyloid.",
+      "habitat": "Saprotrophic—causing white rot—and occasionally a wound parasite on dead or weakened deciduous wood (especially beech, oak, alder, birch, and lime), less often on conifers, cut timber, wrapped silage bales, or other plant matter. Long-lived fruit bodies persist for months and can be found year-round, surviving repeated cycles of desiccation and rehydration.",
+      "uses": "Generally regarded as inedible in Europe and North America because of its small size and tough, leathery texture. Although not acutely poisonous, it is widely eaten young or chewed in parts of Mexico, Guatemala, Yunnan, Northeast India, and Madagascar, where tough fruit bodies spoil less quickly in hot, humid climates. Caution is warranted, as it is an opportunistic human pathogen capable of causing respiratory or sinus infections in immunocompromised people.",
+      "confusion": "The longitudinally cleft gill-like folds make it unmistakable on close inspection. Schizophyllum amplum is smaller, cup-shaped to ear-shaped, and has a smooth to faintly wrinkled underside rather than split folds. Crepidotus species are soft and fleshy with unsplit true gills and a brown spore print. Panellus stipticus has crowded, unsplit ochre-buff gills, a short lateral stipe, and an astringent taste. Trametes versicolor and Stereum hirsutum form zoned brackets on wood, but their undersides bear minute pores or a smooth surface instead of split folds.",
+      "notes": "Fruit bodies can survive years or even decades of drying and resume releasing spores once rehydrated. It has a tetrapolar mating system with two multi-allelic loci generating more than 23,000–28,000 mating types, ensuring almost universal outbreeding across populations, though molecular studies suggest it may comprise a complex of closely related cryptic species. The surface-active protein hydrophobin was first isolated from this species, its genome was sequenced in 2010, and rare cases of human bronchopulmonary and sinus mycosis have been documented worldwide."
+    },
+    "sk": {
+      "description": "Drobná, húževnatá drevokazná huba, ktorá tvorí plodnice jednotlivo, v skupinách alebo v škridlicovito nad sebou usporiadaných trsoch na odumretom a oslabenom dreve. Patrí medzi najrozšírenejšie huby na Zemi – vyskytuje sa na všetkých kontinentoch okrem Antarktídy a po dlhom vyschnutí dokáže opakovane ožiť.",
+      "cap": "Klobúk má priemer 1–4 cm (zriedkavo už od 0,5 cm) a hrúbku 0,3–1 cm; pri bočnom prirastaní k drevu je vejárovitý, pri chrbtovom prirastaní pod konármi lastúrovitý až okrúhly a často zrastá so susednými klobúkmi. Okraj je zvlnený, laločnatý a za mladi podvinutý. Vrchná strana je suchá, husto plstnatá až jemne chlpatá, za sucha belavá až svetlosivá, za vlhka tmavšia sivohnedá, niekedy slabo pásikavá, s fialkastým nádychom alebo zelenkastá od mikroskopických rias.",
+      "hymenium": "Riedke, lúčovito usporiadané záhyby pripomínajúce lupene – v skutočnosti zložené záhyby plodnej spodnej strany, nie pravé lupene – sú belavé, sivasté, ružovkastosivé alebo mäsovoružové až fialkastosivé. Každý záhyb je pozdĺž ostria príznačne rozštiepený na dve polovice, ktoré sa za suchého počasia stočia späť, aby uzavreli plodnú vrstvu, a po navlhčení sa opäť otvoria. Bazídiá sú kyjakovité, veľké 20–30 × 6–8 µm, štvorvýtrusné, s bazálnymi prackami; hymeniálne cystidy chýbajú.",
+      "stipe": "Hlúbik chýba alebo je redukovaný na veľmi krátky, zakrpatený bočný či chrbtový prirastací bod, ktorý nad substrátom takmer nevidieť.",
+      "flesh": "Dužina je tenká, za mladi a za vlhka ohybná, vekom alebo vyschnutím sa stáva húževnatou, kožovitou a tuhou; je belavá až svetlohnedastá, na reze nemenná, bez výraznej vône a chuti.",
+      "sporePrint": "Výtrusný prach je biely až slabo ružovkastý. Výtrusy sú hladké, tenkostenné, takmer valcovité až takmer elipsoidné, veľké 4–6,5 × 1,5–2,5 µm (ojedinele až 7 × 3 µm), v KOH hyalinné a neamyloidné.",
+      "habitat": "Rastie saprotrofne – spôsobuje bielu hnilobu – a príležitostne ako ranový parazit na odumretom alebo oslabenom dreve listnáčov (najmä buka, duba, jelše, brezy a lipy), zriedkavejšie na ihličnanoch, spracovanom dreve, zabalených silážnych balíkoch alebo inej rastlinnej hmote. Dlhotrvajúce plodnice vytrvávajú celé mesiace a možno ich nájsť celoročne, pričom prežívajú opakované cykly vyschnutia a opätovného nasatia vodou.",
+      "uses": "V Európe a Severnej Amerike sa pre malé rozmery a tuhú, kožovitú konzistenciu spravidla považuje za nejedlú hubu. Hoci nie je akútne jedovatá, v častiach Mexika, Guatemaly, Jün-nanu, severovýchodnej Indie a na Madagaskare sa v mladosti bežne konzumuje alebo žuje, keďže húževnaté plodnice sa v horúcom a vlhkom podnebí kazia pomalšie. Opatrnosť je však namieste, pretože ide o oportúnny ľudský patogén, ktorý môže u ľudí s oslabenou imunitou vyvolať infekcie dýchacích ciest alebo prínosových dutín.",
+      "confusion": "Vďaka pozdĺžne rozštiepeným záhybom pripomínajúcim lupene je pri bližšom pohľade nezameniteľná. Škľabka plstnatá (Schizophyllum amplum) je menšia, čiaškovitá až uchovitá a namiesto rozštiepených záhybov má spodnú stranu hladkú až slabo zvrásnenú. Druhy rodu trepka (Crepidotus) sú mäkké a mäsité, s nerozštiepenými pravými lupeňmi a hnedým výtrusným prachom. Panellus stipticus má husté, nerozštiepené okrovožlté lupene, krátky bočný hlúbik a zvieravú chuť. Trúdnikovec pestrý (Trametes versicolor) a pevník chlpatý (Stereum hirsutum) vytvárajú na dreve pásikavé klobúčiky, no na spodnej strane majú drobné póry alebo hladký povrch namiesto rozštiepených záhybov.",
+      "notes": "Plodnice dokážu prežiť roky až desaťročia v suchom stave a po opätovnom zvlhčení znovu uvoľňovať výtrusy. Má tetrapolárny systém párenia s dvoma multialelickými lokusmi, ktoré vytvárajú viac než 23 000–28 000 párovacích typov, čo zabezpečuje takmer všeobecné kríženie v populáciách, hoci molekulárne štúdie naznačujú, že môže ísť o komplex blízko príbuzných kryptických druhov. Z tohto druhu bol po prvý raz izolovaný povrchovo aktívny proteín hydrofobín, jeho genóm bol sekvenovaný v roku 2010 a celosvetovo boli zdokumentované zriedkavé prípady bronchopulmonálnej mykózy a mykózy prínosových dutín u človeka."
+    },
+    "ar": {
+      "description": "فطر قاسٍ صغير محلل للخشب يثمر منفردًا أو في مجموعات أو في طبقات رفّية متراكبة على الخشب الميت والضعيف. وهو من أوسع الفطريات انتشارًا على وجه الأرض، إذ يوجد في كل القارات باستثناء القارة القطبية الجنوبية، ويستعيد حيويته مرارًا بعد فترات الجفاف الطويلة.",
+      "cap": "بعرض ١–٤ سم (وأحيانًا بدءًا من ٠٫٥ سم) وبسماكة ٠٫٣–١ سم، مروحي الشكل عند اتصاله جانبيًا بالخشب أو صدفي إلى دائري عند اتصاله ظهريًا أسفل الأغصان، وغالبًا ما يلتحم مع القبعات المجاورة. الحافة متموجة ومفصصة وملفوفة للداخل في الصغر. السطح العلوي جاف ولبدي كثيف إلى دقيق الشعيرات، لونه مبيض إلى رمادي باهت عندما يكون جافًا وبني رمادي أغمق عندما يكون رطبًا، وأحيانًا ذو حلقات باهتة أو مسحة أرجوانية أو مخضر بسبب الطحالب المجهرية.",
+      "hymenium": "طيات متباعدة متشععة شبيهة بالصفائح — وهي في الواقع طيات مركبة للسطح السفلي الخصب وليست صفائح حقيقية — يتراوح لونها بين المبيض والرمادي والرمادي الوردي أو الوردي اللحمي إلى الرمادي الأرجواني. تنشق كل طية طوليًا بشكل مميز على طول حافتها إلى نصفين يلتفان إلى الخلف لإغلاق الطبقة الخصبة في الطقس الجاف وينفتحان مجددًا عند الترطيب. الدعامات هراوية الشكل، أبعادها ٢٠–٣٠ × ٦–٨ ميكرومتر، رباعية الأبواغ، ولها وصلات مشبكية قاعدية؛ وتغيب الكيسيدات الغشائية.",
+      "stipe": "غائبة، أو مختزلة إلى نقطة اتصال جانبية أو ظهرية أثرية قصيرة جدًا لا تكاد تُرى فوق الركيزة.",
+      "flesh": "رقيق، مرن عندما يكون فتيًا ورطبًا، ثم يصبح قاسيًا وجلديًا وصلبًا مع التقدم في العمر أو الجفاف؛ لونه مبيض إلى بني باهت، لا يتغير عند القطع، وليس له رائحة أو طعم مميز.",
+      "sporePrint": "أبيض إلى وردي خفيف. الأبواغ ملساء ورقيقة الجدار، شبه أسطوانية إلى شبه إهليلجية، أبعادها ٤–٦٫٥ × ١٫٥–٢٫٥ ميكرومتر (وأحيانًا تصل إلى ٧ × ٣ ميكرومتر)، شفافة في هيدروكسيد البوتاسيوم (KOH)، وغير أميلويدية.",
+      "habitat": "فطر رمّي يسبب العفن الأبيض، وأحيانًا متطفل على الجروح في الخشب الميت أو الضعيف للأشجار متساقطة الأوراق (لا سيما الزان والبلوط والنغت والبتولا والزيزفون)، وبدرجة أقل على المخروطيات والأخشاب المقطوعة وبالات السيلاج المغلفة أو غيرها من المواد النباتية. وتبقى الأجسام الثمرية طويلة العمر لأشهر ويمكن العثور عليها على مدار العام، إذ تصمد أمام دورات متكررة من الجفاف وإعادة الترطيب.",
+      "uses": "يُعد غير صالح للأكل عمومًا في أوروبا وأمريكا الشمالية لصغر حجمه وقوامه الجلدي القاسي. ومع أنه ليس شديد السمية، فإنه يُؤكل فتيًا أو يُمضغ على نطاق واسع في أجزاء من المكسيك وغواتيمالا ويوننان وشمال شرق الهند ومدغشقر، حيث تتلف الأجسام الثمرية القاسية ببطء أكبر في المناخات الحارة الرطبة. وينبغي توخي الحذر، إذ إنه ممرض انتهازي للإنسان قادر على التسبب في التهابات تنفسية أو التهابات الجيوب الأنفية لدى الأشخاص ذوي المناعة الضعيفة.",
+      "confusion": "تجعله الطيات الشبيهة بالصفائح المنشقة طوليًا لا يُخطئ عند الفحص الدقيق. نوع Schizophyllum amplum أصغر حجمًا، كأسي إلى أذني الشكل، وله سطح سفلي أملس إلى قليل التجعد بدلًا من الطيات المنشقة. أنواع جنس Crepidotus طرية ولحمية ولها صفائح حقيقية غير منشقة وطبعة أبواغ بنية. أما Panellus stipticus فله صفائح مزدحمة غير منشقة بلون مغري برتقالي باهت، وساق جانبية قصيرة، وطعم قابض. ويكوّن كل من Trametes versicolor وStereum hirsutum حوامل رفّية مخططة على الخشب، لكن سطحهما السفلي يحمل مسام دقيقة أو يكون أملس بدلًا من الطيات المنشقة.",
+      "notes": "تستطيع الأجسام الثمرية البقاء على قيد الحياة لسنوات أو حتى عقود من الجفاف واستئناف إطلاق الأبواغ بمجرد إعادة ترطيبها. ويمتلك نظام تزاوج رباعي الأقطاب بموضعين متعددي الأليلات يولّد أكثر من ٢٣٬٠٠٠–٢٨٬٠٠٠ نمط تزاوج، مما يضمن التلقيح الخلطي شبه الشامل عبر الجماعات، غير أن الدراسات الجزيئية تشير إلى أنه قد يضم معقدًا من الأنواع الخفية المتقاربة وراثيًا. وقد عُزل البروتين النشط سطحيًا هيدروفوبين أول مرة من هذا النوع، وسُلسل جينومه عام ٢٠١٠، كما وُثقت عالميًا حالات نادرة من الفطار القصبي الرئوي وفطار الجيوب الأنفية لدى الإنسان."
+    },
+    "bg": {
+      "description": "Дребна, жилава дърворазрушаваща гъба, която плододава поединично, на групи или в керемидообразно припокриващи се етажи върху мъртва и отслабена дървесина. Един от най-широко разпространените видове гъби на Земята, тя се среща на всички континенти с изключение на Антарктида и оживява многократно след продължително изсъхване.",
+      "cap": "Гуглата е широка 1–4 cm (понякога от 0,5 cm) и дебела 0,3–1 cm, ветрилообразна при странично прикрепване към дървесината или мидообразна до кръгла при гръбно прикрепване под клоните, често срасла със съседни гугли. Ръбът е вълновиден, нарязан на дялове и подвит в младост. Горната повърхност е суха и гъсто плъстена до фино влакнеста, белезникава до бледосива в сухо състояние и по-тъмно сиво-кафява при овлажняване, понякога слабо зонирана, с виолетова отсянка или зеленикава от микроскопични водорасли.",
+      "hymenium": "Редки, радиално разположени гънки, наподобяващи ламели – всъщност сложни гънки на плодната долна страна, а не истински ламели – белезникави, сивкави, розово-сиви или меснорозови до виолетово-сиви. Всяка гънка е характерно разцепена по дължината на ръба си на две половини, които при сухо време се извиват навън, за да затворят плодния слой, и при овлажняване се отварят отново. Базидиите са бухалковидни, 20–30 × 6–8 µm, четириспорни, с базални катарами; химениални цистидии липсват.",
+      "stipe": "Пънчето липсва или е сведено до много къса, рудиментарна странична или гръбна точка на прикрепване, едва забележима над субстрата.",
+      "flesh": "Месото е тънко, гъвкаво в младост и при влажно време, но с възрастта или при изсъхване става жилаво, кожесто и твърдо; белезникаво до бледокафяво, неизменно при разрез, без особена миризма или вкус.",
+      "sporePrint": "Споровият прашец е бял до леко розов. Спорите са гладки, тънкостенни, почти цилиндрични до почти елипсовидни, 4–6,5 × 1,5–2,5 µm (понякога до 7 × 3 µm), хиалинни в KOH и неамилоидни.",
+      "habitat": "Расте сапротрофно – предизвиквайки бяло гниене – и понякога като раневи паразит върху мъртва или отслабена широколистна дървесина (особено бук, дъб, елша, бреза и липа), по-рядко върху иглолистна дървесина, бичена дървесина, опаковани бали силаж или друга растителна материя. Дълготрайните плодни тела се запазват с месеци и могат да се открият целогодишно, като преживяват многократни цикли на изсушаване и повторно овлажняване.",
+      "uses": "В Европа и Северна Америка обикновено се смята за неядлива заради малкия си размер и жилавата, кожеста структура. Макар да не е остро отровна, в части от Мексико, Гватемала, Юнан, Североизточна Индия и Мадагаскар се яде масово млада или се дъвче, тъй като жилавите плодни тела се развалят по-бавно в горещия и влажен климат. Необходимо е обаче внимание, тъй като тя е опортюнистичен човешки патоген, способен да причини дихателни или синусни инфекции при хора с отслабена имунна система.",
+      "confusion": "Надлъжно разцепените гънки, наподобяващи ламели, я правят безпогрешна при близък оглед. Schizophyllum amplum е по-дребна, чашковидна до уховидна и има гладка до слабо набръчкана долна страна вместо разцепени гънки. Видовете от род Crepidotus са меки и месести, с неразцепени истински ламели и кафяв споров прашец. Panellus stipticus има гъсти, неразцепени охрено-жълтеникави ламели, късо странично пънче и стипчив вкус. Пъстър траметес (Trametes versicolor) и Stereum hirsutum образуват зонирани конзоли по дървесината, но долната им страна носи ситни пори или гладка повърхност вместо разцепени гънки.",
+      "notes": "Плодните тела могат да преживеят години или дори десетилетия в изсушено състояние и отново да освобождават спори след овлажняване. Притежава тетраполярна система на чифтосване с два мултиалелни локуса, които създават над 23 000–28 000 типа на чифтосване, осигурявайки почти универсално кръстосано оплождане в популациите, макар че молекулярните изследвания сочат, че може да включва комплекс от близкородствени криптични видове. Повърхностноактивният белтък хидрофобин е изолиран за първи път от този вид, геномът му е секвениран през 2010 г., а по света са документирани редки случаи на човешка бронхопулмонална и синусна микоза."
+    },
+    "cs": {
+      "description": "Drobná, tuhá dřevokazná houba, která plodí jednotlivě, ve skupinách nebo ve střechovitě uspořádaných vrstvách na odumřelém a oslabeném dřevě. Patří k nejrozšířenějším houbám na Zemi – vyskytuje se na všech kontinentech kromě Antarktidy a po dlouhodobém vyschnutí opakovaně ožívá.",
+      "cap": "Klobouk měří 1–4 cm v průměru (ojediněle od 0,5 cm) a 0,3–1 cm v tloušťce; při bočním přirůstání ke dřevu je vějířovitý, při hřbetním přirůstání pod větvemi lasturovitý až okrouhlý a často srůstá se sousedními klobouky. Okraj je zvlněný, laločnatý a v mládí podvinutý. Svrchní povrch je suchý a hustě plstnatý až jemně chlupatý, za sucha bělavý až světle šedý a za vlhka tmavší šedohnědý, někdy nezřetelně pásovaný, s fialovým nádechem nebo nazelenalý od mikroskopických řas.",
+      "hymenium": "Řídké, paprsčitě uspořádané záhyby připomínající lupeny – ve skutečnosti složené lišty plodné spodní strany, nikoli pravé lupeny – jsou bělavé, šedavé, narůžověle šedé nebo masově růžové až fialově šedé. Každý záhyb je po délce ostří charakteristicky rozštěpený na dvě poloviny, které se za suchého počasí stáčejí zpět, aby uzavřely plodnou vrstvu, a po navlhčení se opět otevírají. Bazidie jsou kyjovité, 20–30 × 6–8 µm, čtyřvýtrusné, s bazálními přezkami; hymeniální cystidy chybějí.",
+      "stipe": "Třeň chybí, nebo je redukován na velmi krátký, zakrnělý boční či hřbetní bod přirůstání, jenž je nad substrátem sotva patrný.",
+      "flesh": "Dužnina je tenká, v mládí a za vlhka ohebná, stářím nebo vyschnutím tuhá, kožovitá a pevná; je bělavá až světle nahnědlá, na řezu neměnná, bez výrazné vůně a chuti.",
+      "sporePrint": "Výtrusný prach je bílý až slabě narůžovělý. Výtrusy jsou hladké, tenkostěnné, téměř válcovité až téměř elipsoidní, 4–6,5 × 1,5–2,5 µm (ojediněle až 7 × 3 µm), v KOH hyalinní a neamyloidní.",
+      "habitat": "Roste saprotrofně – způsobuje bílou hnilobu – a příležitostně jako ranový parazit na odumřelém či oslabeném dřevě listnáčů (zejména buku, dubu, olše, břízy a lípy), méně často na jehličnanech, řezivu, zabalených silážních balících nebo jiné rostlinné hmotě. Dlouhověké plodnice vytrvávají celé měsíce a lze je nalézt celoročně, neboť přečkávají opakované cykly vysychání a zpětného provlhčení.",
+      "uses": "V Evropě a Severní Americe je pro svou malou velikost a tuhou, kožovitou konzistenci obecně považována za nejedlou houbu. Ačkoli není akutně jedovatá, v částech Mexika, Guatemaly, Jün-nanu, severovýchodní Indie a na Madagaskaru se v mládí běžně jí nebo žvýká, protože tuhé plodnice se v horkém a vlhkém podnebí méně rychle kazí. Je však nutná opatrnost, neboť jde o oportunný lidský patogen schopný vyvolat infekce dýchacích cest nebo vedlejších nosních dutin u osob s oslabenou imunitou.",
+      "confusion": "Podélně rozštěpené záhyby připomínající lupeny ji při bližším prohlédnutí činí nezaměnitelnou. Mušlovka plstnatá (Schizophyllum amplum) je menší, pohárkovitá až ušovitá a místo rozštěpených záhybů má hladkou až slabě vrásčitou spodní stranu. Trepky (druhy rodu Crepidotus) jsou měkké a masité s nerozštěpenými pravými lupeny a hnědým výtrusným prachem. Pařezník trpký (Panellus stipticus) má husté, nerozštěpené okrově žlutavé lupeny, krátký boční třeň a svíravou chuť. Outkovka pestrá (Trametes versicolor) a pevník chlupatý (Stereum hirsutum) tvoří na dřevě pásované kloboučky, ale na spodní straně mají drobné póry nebo hladký povrch místo rozštěpených záhybů.",
+      "notes": "Plodnice dokážou přežít roky či dokonce desetiletí vyschnutí a po opětovném navlhčení znovu uvolňovat výtrusy. Má tetrapolární systém páření se dvěma multialelickými lokusy vytvářejícími více než 23 000–28 000 párovacích typů, což zajišťuje téměř univerzální křížení v populacích, ačkoli molekulární studie naznačují, že může tvořit komplex blízce příbuzných kryptických druhů. Z tohoto druhu byl poprvé izolován povrchově aktivní protein hydrofobin, jeho genom byl sekvenován v roce 2010 a po celém světě byly zdokumentovány vzácné případy lidské bronchopulmonální mykózy a mykózy vedlejších nosních dutin."
+    },
+    "da": {
+      "description": "En sej, lille, trænedbrydende svamp, der danner frugtlegemer enkeltvis, i grupper eller i taglagte, konsolagtige etager på dødt og svækket ved. Den er blandt de mest udbredte svampe på Jorden, forekommer på alle kontinenter undtagen Antarktis og lever op igen gentagne gange efter langvarig udtørring.",
+      "cap": "1–4 cm bred (undertiden fra 0,5 cm) og 0,3–1 cm tyk, vifteformet når den sidder tilhæftet fra siden på ved, eller muslingeformet til kredsrund når den er fæstnet på oversiden under grene, ofte sammenvokset med nabohatte. Randen er bølget, lappet og indrullet hos unge eksemplarer. Den tørre og tæt filtede til fint hårede overside er hvidlig til bleggrå i tør tilstand og mørkere gråbrun i fugtig tilstand, undertiden svagt zoneret, med et violet skær eller grønlig af mikroskopiske alger.",
+      "hymenium": "Fjerne, udstrålende, lamellignende folder — i virkeligheden sammensatte folder af den fertile underside snarere end rigtige lameller — som er hvidlige, grålige, rosagrå eller kødrøde til violetgrå. Hver fold er karakteristisk spaltet på langs langs æggen i to halvdele, der ruller sig tilbage og lukker over det fertile lag i tørt vejr for at åbne sig igen ved fugt. Basidierne er kølleformede, 20–30 × 6–8 µm, firesporede og med basale øskner; cystider i hymeniet mangler.",
+      "stipe": "Mangler, eller er reduceret til et meget kort, rudimentært side- eller rygstillet tilhæftningspunkt, der næppe rager ud over substratet.",
+      "flesh": "Tyndt, bøjeligt når det er ungt og fugtigt, senere sejt, læderagtigt og stivt med alderen eller ved udtørring; hvidligt til blegt brunligt, uforanderligt ved gennemskæring og uden særpræget lugt eller smag.",
+      "sporePrint": "Hvidt til svagt rosa. Sporerne er glatte, tyndvæggede, næsten cylindriske til næsten ellipsoide, 4–6,5 × 1,5–2,5 µm (undertiden op til 7 × 3 µm), hyaline i KOH og inamyloide.",
+      "habitat": "Saprotrof — hvor den fremkalder hvidmuld — og lejlighedsvis sårparasit på dødt eller svækket løvtræ (især bøg, eg, el, birk og lind), sjældnere på nåletræ, opskåret tømmer, indpakkede ensilageballer eller andet plantemateriale. De langlivede frugtlegemer holder sig i månedsvis og kan findes året rundt, idet de overlever gentagne perioder med udtørring og genopblødning.",
+      "uses": "Regnes almindeligvis for uspiselig i Europa og Nordamerika på grund af den ringe størrelse og den seje, læderagtige konsistens. Skønt den ikke er akut giftig, bliver den i dele af Mexico, Guatemala, Yunnan, det nordøstlige Indien og Madagaskar i vid udstrækning spist som ung eller tygget, da de seje frugtlegemer ikke så let fordærves i varmt og fugtigt klima. Forsigtighed er dog påkrævet, da den er en opportunistisk humanpatogen, som kan forårsage infektioner i luftveje eller bihuler hos personer med svækket immunforsvar.",
+      "confusion": "De på langs spaltede, lamellignende folder gør arten umiskendelig ved nærmere eftersyn. Schizophyllum amplum er mindre, skål- til øreformet og har en glat til svagt rynket underside i stedet for spaltede folder. Arter i slægten Crepidotus er bløde og kødede med uspaltne, rigtige lameller og brunt sporeaftryk. Panellus stipticus har tætte, uspaltne okkerfarvede lameller, en kort sidestillet stok og en sammensnerpende smag. Broget læderporesvamp (Trametes versicolor) og håret lædersvamp (Stereum hirsutum) danner zonerede konsoller på ved, men deres underside har fine porer eller en glat overflade i stedet for spaltede folder.",
+      "notes": "Frugtlegemer kan overleve års eller endda årtiers udtørring og genoptage sporekastningen, så snart de bliver fugtige igen. Arten har et tetrapolært parringssystem med to multialleliske loci, som danner over 23.000–28.000 parringstyper og sikrer næsten fuldstændig fremmedbefrugtning mellem populationer, omend molekylære studier tyder på, at den kan rumme et kompleks af nærtstående kryptiske arter. Det overfladeaktive protein hydrofobin blev første gang isoleret fra denne art, dens genom blev sekventeret i 2010, og sjældne tilfælde af bronkopulmonale og sinonasale mykoser hos mennesker er dokumenteret verden over."
+    },
+    "de": {
+      "description": "Ein zäher, kleiner, holzzersetzender Pilz, der einzeln, gesellig oder in dachziegelig übereinanderstehenden Reihen auf totem und geschwächtem Holz fruktifiziert. Als einer der am weitesten verbreiteten Pilze der Erde kommt er auf jedem Kontinent außer der Antarktis vor und lebt nach längerem Austrocknen immer wieder auf.",
+      "cap": "1–4 cm breit (gelegentlich ab 0,5 cm) und 0,3–1 cm dick, fächerförmig bei seitlicher Anheftung an Holz oder muschel- bis kreisförmig bei rückseitiger Anheftung an der Unterseite von Ästen, oft mit benachbarten Hüten verwachsen. Der Rand ist wellig, gelappt und jung eingerollt. Die trockene und dicht filzige bis fein haarige Oberseite ist trocken weißlich bis blassgrau und feucht dunkler graubraun, mitunter schwach gezont, purpurfarben getönt oder durch mikroskopische Algen grünlich gefärbt.",
+      "hymenium": "Entfernt stehende, radial angeordnete lamellenartige Falten – tatsächlich zusammengesetzte Falten der fruchtbaren Unterseite und keine echten Lamellen –, weißlich, gräulich, rosagrau oder fleischrosa bis purpurgrau. Jede Falte ist charakteristisch längs entlang ihrer Schneide in zwei Hälften gespalten, die sich bei trockenem Wetter zurückrollen, um die fruchtbare Schicht zu verschließen, und sich bei Befeuchtung wieder öffnen. Die Basidien sind keulig, 20–30 × 6–8 µm groß, viersporig und besitzen basale Schnallen; Hymenialzystiden fehlen.",
+      "stipe": "Fehlend oder auf eine sehr kurze, verkümmerte seitliche oder rückseitige Anheftungsstelle reduziert, die kaum über das Substrat hinausragt.",
+      "flesh": "Dünn, jung und feucht biegsam, mit dem Alter oder beim Trocknen zäh, lederartig und starr werdend; weißlich bis blassbräunlich, im Schnitt unveränderlich, ohne ausgeprägten Geruch oder Geschmack.",
+      "sporePrint": "Weiß bis schwach rosafarben. Die Sporen sind glatt, dünnwandig, fast zylindrisch bis fast ellipsoid, 4–6,5 × 1,5–2,5 µm groß (gelegentlich bis zu 7 × 3 µm), in KOH hyalin und inamyloid.",
+      "habitat": "Saprotroph – Weißfäule erzeugend – und gelegentlich als Wundparasit an totem oder geschwächtem Laubholz (vor allem Buche, Eiche, Erle, Birke und Linde), seltener an Nadelholz, geschlagenem Bauholz, eingewickelten Silageballen oder anderem Pflanzenmaterial. Die langlebigen Fruchtkörper überdauern Monate, sind ganzjährig zu finden und überstehen wiederholte Zyklen von Austrocknung und Wiederbefeuchtung.",
+      "uses": "In Europa und Nordamerika gilt er wegen seiner geringen Größe und zähen, lederartigen Beschaffenheit allgemein als ungenießbar. Obwohl er nicht akut giftig ist, wird er in Teilen Mexikos, Guatemalas, Yunnans, Nordostindiens und Madagaskars vielfach jung gegessen oder gekaut, da zähe Fruchtkörper in heiß-feuchtem Klima weniger rasch verderben. Vorsicht ist geboten, da er ein opportunistischer Krankheitserreger beim Menschen ist, der bei immungeschwächten Personen Atemwegs- oder Nebenhöhleninfektionen verursachen kann.",
+      "confusion": "Durch die längs gespaltenen lamellenartigen Falten ist er bei genauer Betrachtung unverwechselbar. Schizophyllum amplum ist kleiner, schüssel- bis ohrförmig und hat eine glatte bis schwach runzelige Unterseite statt gespaltener Falten. Arten der Gattung Crepidotus sind weich und fleischig mit ungespaltenen echten Lamellen und braunem Sporenpulver. Panellus stipticus besitzt gedrängt stehende, ungespaltene ocker-lederfarbene Lamellen, einen kurzen seitlichen Stiel und einen zusammenziehenden Geschmack. Trametes versicolor und Stereum hirsutum bilden gezonte Konsolen an Holz, tragen an der Unterseite jedoch winzige Poren beziehungsweise eine glatte Oberfläche anstelle gespaltener Falten.",
+      "notes": "Fruchtkörper können Jahre oder sogar Jahrzehnte der Austrocknung überstehen und nach erneuter Befeuchtung wieder Sporen freisetzen. Die Art besitzt ein tetrapolares Paarungssystem mit zwei multiallelischen Genorten, die über 23.000–28.000 Kreuzungstypen hervorbringen und damit eine nahezu vollständige Auskreuzung zwischen Populationen sichern, wobei molekulare Untersuchungen darauf hindeuten, dass es sich um einen Komplex eng verwandter kryptischer Arten handeln könnte. Das oberflächenaktive Protein Hydrophobin wurde erstmals aus dieser Art isoliert, ihr Genom wurde 2010 sequenziert, und weltweit wurden seltene Fälle menschlicher bronchopulmonaler Mykosen und Sinusmykosen dokumentiert."
+    },
+    "es": {
+      "description": "Seta lignícola pequeña y correosa que fructifica aislada, en grupos o en hileras imbricadas en forma de repisa sobre madera muerta o debilitada. Es uno de los hongos más ampliamente distribuidos del planeta, presente en todos los continentes salvo la Antártida, y revive repetidamente tras una desecación prolongada.",
+      "cap": "De 1–4 cm de anchura (en ocasiones desde 0,5 cm) y 0,3–1 cm de grosor, en forma de abanico cuando se fija lateralmente a la madera o de concha a circular cuando se une dorsalmente bajo las ramas, a menudo fusionado con sombreros adyacentes. El margen es ondulado, lobulado y enrollado de joven. Seca y densamente fieltrada a finamente pilosa, la superficie superior es blanquecina a gris pálido en seco y gris pardo más oscuro en húmedo, a veces débilmente zonada, teñida de purpúreo o verdosa por algas microscópicas.",
+      "hymenium": "Pliegues laminares espaciados y radiales —en realidad pliegues compuestos de la cara inferior fértil más que verdaderas láminas— de color blanquecino, grisáceo, gris rosado o rosa carne a gris purpúreo. Cada pliegue aparece característicamente hendido longitudinalmente por su arista en dos mitades que se enrollan hacia atrás para cerrar la capa fértil en tiempo seco y vuelven a abrirse al humedecerse. Los basidios son claviformes, de 20–30 × 6–8 µm, tetraspóricos, con fíbulas basales; faltan los cistidios himeniales.",
+      "stipe": "Ausente o reducido a un punto de fijación lateral o dorsal muy corto y rudimentario, apenas visible sobre el sustrato.",
+      "flesh": "Delgada, flexible cuando es joven y está húmeda, volviéndose correosa, tenaz y rígida con la edad o al secarse; blanquecina a pardo pálido, inmutable al corte, sin olor ni sabor distintivos.",
+      "sporePrint": "Blanca a débilmente rosada. Las esporas son lisas, de pared delgada, subcilíndricas a subelipsoides, de 4–6,5 × 1,5–2,5 µm (ocasionalmente hasta 7 × 3 µm), hialinas en KOH e inamiloides.",
+      "habitat": "Saprótrofa —causante de podredumbre blanca— y ocasionalmente parásita de heridas sobre madera de frondosas muerta o debilitada (especialmente haya, roble, aliso, abedul y tilo), con menor frecuencia sobre coníferas, madera apeada, pacas de ensilado envueltas u otra materia vegetal. Los cuerpos fructíferos longevos persisten durante meses y pueden hallarse todo el año, sobreviviendo a ciclos repetidos de desecación y rehidratación.",
+      "uses": "En Europa y Norteamérica se considera generalmente no comestible por su pequeño tamaño y su textura correosa y tenaz. Aunque no es tóxico de forma aguda, se consume ampliamente joven o se mastica en partes de México, Guatemala, Yunnan, el noreste de la India y Madagascar, donde los cuerpos fructíferos resistentes se estropean con menor rapidez en climas cálidos y húmedos. Conviene extremar la precaución, ya que es un patógeno humano oportunista capaz de causar infecciones respiratorias o sinusales en personas inmunodeprimidas.",
+      "confusion": "Los pliegues laminares hendidos longitudinalmente la hacen inconfundible cuando se observa de cerca. Schizophyllum amplum es más pequeña, de forma de copa a oreja, y presenta la cara inferior lisa o ligeramente arrugada en lugar de pliegues hendidos. Las especies de Crepidotus son blandas y carnosas, con láminas verdaderas no hendidas y esporada parda. Panellus stipticus tiene láminas apretadas, no hendidas, de color ocre crema, un pie lateral corto y sabor astringente. Trametes versicolor y Stereum hirsutum forman repisas zonadas sobre la madera, pero su cara inferior presenta poros diminutos o una superficie lisa en vez de pliegues hendidos.",
+      "notes": "Los cuerpos fructíferos pueden sobrevivir años o incluso décadas de desecación y reanudar la liberación de esporas al rehidratarse. Posee un sistema de apareamiento tetrapolar con dos loci multialélicos que generan más de 23 000–28 000 tipos sexuales, lo que garantiza una exogamia casi universal entre poblaciones, aunque los estudios moleculares sugieren que podría abarcar un complejo de especies crípticas estrechamente emparentadas. La proteína tensioactiva hidrofobina se aisló por primera vez de esta especie, su genoma se secuenció en 2010 y se han documentado casos raros de micosis broncopulmonares y sinusales humanas en todo el mundo."
+    },
+    "et": {
+      "description": "Sitke, väike, puitu lagundav seen, mis moodustab viljakehi üksikult, rühmadena või üksteise kohal asetsevate torikulaadsete ridadena surnud ja nõrgestatud puidul. Ühe maailma laialdasemalt levinud seenena esineb see kõigil mandritel peale Antarktise ning ärkab pärast pikaajalist kuivamist korduvalt uuesti ellu.",
+      "cap": "1–4 cm lai (mõnikord alates 0,5 cm) ja 0,3–1 cm paks, külgmiselt puidule kinnitudes lehvikjas või okste alaküljele selgmiselt kinnitudes teokarbikujuline kuni ümar, sageli naaberkübaratega kokku kasvanud. Serv on lainjas, hõlmine ja noorelt sissepoole rullunud. Kuiv ja tihedalt viltjas kuni peenkarvane ülapind on kuivalt valkjas kuni kahvatuhall ning niiskelt tumedam hallikaspruun, mõnikord nõrgalt vöötmeline, purpurse varjundiga või mikroskoopiliste vetikate tõttu rohekas.",
+      "hymenium": "Hõredad, radiaalsed eoslehtedelaadsed kurrud — tegelikult viljakandva alakülje liitkurrud, mitte päris eoslehed —, mis on valkjad, hallikad, roosakashallid või liharoosad kuni purpurhallid. Iga kurd on iseloomulikult piki serva lõhestunud kaheks pooleks, mis rulluvad kuiva ilmaga tagasi, sulgedes viljakandva kihi, ning avanevad niiskudes uuesti. Basiidid on nuijad, 20–30 × 6–8 µm, neljaeoselised ja alusel pandlaga; hümeeniumi tsüstiidid puuduvad.",
+      "stipe": "Puudub või on taandarenenud väga lühikeseks algeliseks külg- või selgpoolseks kinnituskohaks, mis on substraadi kohal vaevu märgatav.",
+      "flesh": "Õhuke, noorelt ja niiskelt painduv, muutub vananedes või kuivades sitkeks, nahkjaks ja jäigaks; valkjas kuni kahvatupruunikas, lõikel muutumatu ning erilise lõhna ja maitseta.",
+      "sporePrint": "Valge kuni nõrgalt roosakas. Eosed on siledad, õhukeseseinalised, silinderjad kuni piklikellipsoidsed, 4–6,5 × 1,5–2,5 µm (mõnikord kuni 7 × 3 µm), KOH-lahuses värvitud ja mitteamüloidsed.",
+      "habitat": "Saprotroof — põhjustades valgemädanikku — ning aeg-ajalt haavaparasiit surnud või nõrgestatud lehtpuupuidul (eriti pöögil, tammel, lepal, kasel ja pärnal), harvem okaspuudel, saematerjalil, kilesse pakitud silopallidel või muul taimsel materjalil. Pikaealised viljakehad püsivad kuid ja neid võib leida aastaringselt, sest need taluvad korduvaid kuivamis- ja niiskumistsükleid.",
+      "uses": "Peetakse Euroopas ja Põhja-Ameerikas väiksuse ja sitke, nahkja tekstuuri tõttu üldiselt mittesöödavaks. Kuigi see pole ägedalt mürgine, süüakse seda noorelt või näritakse laialdaselt paiguti Mehhikos, Guatemalas, Yunnanis, Kirde-Indias ja Madagaskaril, kus sitked viljakehad riknevad kuumas ja niiskes kliimas aeglasemalt. Siiski on vaja ettevaatust, kuna tegu on oportunistliku inimese patogeeniga, mis võib immuunpuudulikkusega inimestel põhjustada hingamisteede või ninakõrvalkoobaste nakkusi.",
+      "confusion": "Pikisuunas lõhestunud eoslehtedelaadsed kurrud teevad liigi lähemal vaatlusel eksimatult äratuntavaks. Schizophyllum amplum on väiksem, kausjas kuni kõrvakujuline ning sellel on lõhestunud kurdude asemel sile kuni nõrgalt kortsuline alakülg. Perekonna Crepidotus liigid on pehmed ja lihakad, lõhestumata päris eoslehtede ja pruuni eosetolmuga. Liigil Panellus stipticus on tihedad, lõhestumata ookerjad eoslehed, lühike külgmine jalg ja kootav maitse. Libliktagel (Trametes versicolor) ja karvane nahkis (Stereum hirsutum) moodustavad puidul vöödilisi kübaraid, kuid nende alaküljel on lõhestunud kurdude asemel peened poorid või sile pind.",
+      "notes": "Viljakehad võivad üle elada aastaid või isegi aastakümneid kuivamist ning jätkata uuesti niiskudes eoste vabastamist. Liigil on tetrapolaarne ristumissüsteem kahe multialleelse lookusega, mis tekitavad üle 23 000–28 000 paarumistüübi, tagades populatsioonides peaaegu täieliku võõrristumise, kuigi molekulaarsed uuringud viitavad sellele, et tegu võib olla lähedaste krüptiliste liikide kompleksiga. Pindaktiivne valk hüdrofobiin eraldati esmakordselt just sellest liigist, selle genoom sekveneeriti 2010. aastal ning kogu maailmas on dokumenteeritud haruldasi inimeste bronhopulmonaalse ja siinuse mükoosi juhtumeid."
+    },
+    "fa": {
+      "description": "قارچی سخت، کوچک و چوب‌خوار که به‌صورت تکی، گروهی یا در ردیف‌های طاقچه‌مانندِ روی‌هم‌افتاده بر روی چوب‌های مرده و ضعیف می‌روید. این قارچ یکی از گسترده‌ترین قارچ‌های کرهٔ زمین است، در همهٔ قاره‌ها به‌جز جنوبگان یافت می‌شود و پس از خشک‌شدن طولانی‌مدت بارها دوباره زنده می‌شود.",
+      "cap": "به پهنای ۱–۴ سانتی‌متر (گاه از ۰٫۵ سانتی‌متر) و ضخامت ۰٫۳–۱ سانتی‌متر؛ هنگام اتصال جانبی به چوب بادبزنی‌شکل و هنگام اتصال پشتی در زیر شاخه‌ها صدف‌مانند تا دایره‌ای است و اغلب با کلاهک‌های مجاور جوش می‌خورد. لبه موج‌دار، لوب‌دار و در جوانی به درون برگشته است. سطح رویی خشک و از نمدی‌مانندِ متراکم تا کرک‌دار ریز است؛ در حالت خشک سفیدفام تا خاکستری کم‌رنگ و در حالت مرطوب خاکستری‌قهوه‌ای تیره‌تر می‌شود و گاهی نوارهای کم‌رنگ، ته‌رنگ بنفش یا به سبب جلبک‌های میکروسکوپی رنگ سبزفام دارد.",
+      "hymenium": "چین‌های تیغه‌مانندِ پراکنده و شعاعی — در واقع چین‌های مرکبِ سطح بارور زیرین و نه تیغه‌های حقیقی — به رنگ سفیدفام، خاکستری، خاکستری صورتی‌فام یا صورتی گوشتی تا خاکستری مایل به بنفش. هر چین به‌طور شاخص در راستای لبهٔ خود از طول به دو نیمه شکافته می‌شود که در هوای خشک به عقب می‌پیچند تا لایهٔ بارور را بپوشانند و با مرطوب‌شدن دوباره باز می‌شوند. بازیدی‌ها گرزمانند، ۲۰–۳۰ × ۶–۸ میکرومتر، چهارهاگی و دارای پیوند چنگکی در قاعده‌اند؛ سیستیدیای هیمنی وجود ندارد.",
+      "stipe": "فاقد ساقه است یا به یک نقطهٔ اتصال جانبی یا پشتی بسیار کوتاه و ابتدایی محدود می‌شود که به‌سختی بالای بستر دیده می‌شود.",
+      "flesh": "نازک، در جوانی و رطوبت انعطاف‌پذیر، و با افزایش سن یا خشک‌شدن سخت، چرمی و سفت می‌شود؛ سفیدفام تا قهوه‌ای کم‌رنگ است، در برش تغییر رنگ نمی‌دهد و بو یا مزهٔ مشخصی ندارد.",
+      "sporePrint": "سفید تا صورتی بسیار کم‌رنگ. هاگ‌ها صاف، نازک‌دیواره، شبه‌استوانه‌ای تا شبه‌بیضوی، ۴–۶٫۵ × ۱٫۵–۲٫۵ میکرومتر (گاه تا ۷ × ۳ میکرومتر)، در KOH شفاف (هیالین) و غیرآمیلوئید هستند.",
+      "habitat": "ساپروتروف — ایجادکنندهٔ پوسیدگی سفید — و گاه انگل زخم بر روی چوب مرده یا ضعیف درختان پهن‌برگ (به‌ویژه راش، بلوط، توسکا، توس و نمدار)، و کمتر بر روی سوزنی‌برگان، الوار بریده، عدل‌های سیلاژ روکش‌دار یا دیگر مواد گیاهی. اندام‌های باردهِ دیرپا ماه‌ها باقی می‌مانند و در تمام طول سال یافت می‌شوند و چرخه‌های مکرر خشک‌شدن و آبدارشدن دوباره را تاب می‌آورند.",
+      "uses": "در اروپا و آمریکای شمالی به سبب اندازهٔ کوچک و بافت سخت و چرمی عموماً غیرخوراکی به‌شمار می‌آید. هرچند به‌طور حاد سمی نیست، در بخش‌هایی از مکزیک، گواتمالا، یون‌نان، شمال شرق هند و ماداگاسکار به‌طور گسترده در جوانی خورده یا جویده می‌شود، زیرا اندام‌های باردهِ سخت در اقلیم‌های گرم و مرطوب دیرتر فاسد می‌شوند. احتیاط ضروری است، زیرا این قارچ یک عامل بیماری‌زای فرصت‌طلب انسانی است که می‌تواند در افراد دارای نقص ایمنی عفونت‌های تنفسی یا سینوس ایجاد کند.",
+      "confusion": "چین‌های تیغه‌مانندِ شکافته در طول سبب می‌شود در بررسی دقیق با هیچ گونهٔ دیگری اشتباه گرفته نشود. گونهٔ Schizophyllum amplum کوچک‌تر و فنجانی تا گوش‌مانند است و به‌جای چین‌های شکافته سطح زیرینی صاف تا اندکی چروکیده دارد. گونه‌های سردهٔ Crepidotus نرم و گوشتی‌اند و تیغه‌های حقیقی شکافته‌نشده و نقش هاگ قهوه‌ای دارند. Panellus stipticus تیغه‌های انبوه و شکافته‌نشدهٔ نخودی-اُخرایی، ساقهٔ جانبی کوتاه و مزهٔ گس دارد. گونه‌های Trametes versicolor و Stereum hirsutum بر روی چوب طاقچه‌های نواری می‌سازند، اما سطح زیرین آن‌ها به‌جای چین‌های شکافته دارای روزنه‌های ریز یا سطحی صاف است.",
+      "notes": "اندام‌های بارده می‌توانند سال‌ها و حتی دهه‌ها خشک‌شدن را تاب بیاورند و پس از آبدارشدن دوباره رهاسازی هاگ را از سر بگیرند. این گونه دارای سامانهٔ آمیزشی چهارقطبی با دو جایگاه ژنی چندآللی است که بیش از ۲۳٬۰۰۰–۲۸٬۰۰۰ تیپ آمیزشی پدید می‌آورد و دگرآمیزی تقریباً همگانی را در جمعیت‌ها تضمین می‌کند، هرچند پژوهش‌های مولکولی نشان می‌دهند ممکن است مجموعه‌ای از گونه‌های نهفتهٔ بسیار خویشاوند را در بر گیرد. پروتئین سطح‌فعال هیدروفوبین نخستین بار از این گونه جداسازی شد، ژنوم آن در سال ۲۰۱۰ توالی‌یابی گردید و موارد نادری از میکوز برونشوریوی و سینوس در انسان در سراسر جهان ثبت شده است."
+    },
+    "fi": {
+      "description": "Sitkeä, pieni, puuta lahottava sieni, joka kasvaa yksittäin, ryhminä tai kääpämäisinä päällekkäisinä kerroksina kuolleella ja heikentyneellä puulla. Se kuuluu maapallon laajimmalle levinneisiin sieniin, esiintyy kaikilla mantereilla Etelämannerta lukuun ottamatta ja virkoaa yhä uudelleen pitkänkin kuivumisen jälkeen.",
+      "cap": "1–4 cm leveä (toisinaan 0,5 cm:stä alkaen) ja 0,3–1 cm paksu, viuhkamainen kiinnittyessään sivusta puuhun tai simpukkamainen tai pyöreähkö kiinnittyessään yläpinnastaan oksien alapuolelle, usein yhteen kasvanut viereisten lakkien kanssa. Reuna on aaltoileva, liuskainen ja nuorena sisäänkiertynyt. Kuiva ja tiheähuopainen tai hienokarvainen yläpinta on kuivana valkeahkosta vaaleanharmaaseen ja kosteana tummemman harmaanruskea, toisinaan heikosti vyöhykkeinen, purppuransävyinen tai mikroskooppisten levien vuoksi vihertävä.",
+      "hymenium": "Harvat, säteittäiset, helttamaiset poimut — todellisuudessa itiölavan kerrannaispoimuja pikemminkin kuin varsinaisia helttoja — valkeahkot, harmahtavat, punertavanharmaat tai lihanpunaisesta purppuranharmaaseen. Jokainen poimu on luonteenomaisesti halkeillut pituussuunnassa terältään kahtia; puoliskot käpertyvät kuivalla säällä suojaamaan itiölavaa ja avautuvat jälleen kostuessaan. Basidit ovat nuijamaisia, 20–30 × 6–8 µm, neli-itiöisiä ja tyvestä sinkilällisiä; itiölavan kystidit puuttuvat.",
+      "stipe": "Puuttuu tai on surkastunut hyvin lyhyeksi, alkeelliseksi sivu- tai selkäpuolen kiinnittymiskohdaksi, joka tuskin erottuu kasvualustan yläpuolella.",
+      "flesh": "Ohutta, nuorena ja kosteana taipuisaa, muuttuen iän tai kuivumisen myötä sitkeäksi, nahkamaiseksi ja jäykäksi; valkeahkosta vaaleanruskehtavaan, leikkauspinnasta muuttumatonta, eikä sillä ole erityistä tuoksua tai makua.",
+      "sporePrint": "Valkoisesta heikosti vaaleanpunaiseen. Itiöt ovat sileitä, ohutseinäisiä, lähes lieriömäisiä tai lähes ellipsoideja, 4–6,5 × 1,5–2,5 µm (toisinaan enintään 7 × 3 µm), KOH-liuoksessa värittömiä ja inamyloideja.",
+      "habitat": "Lahottaja — joka aiheuttaa valkolahoa — ja toisinaan haavaloinen kuolleella tai heikentyneellä lehtipuulla (erityisesti pyökillä, tammella, lepällä, koivulla ja lehmuksella), harvemmin havupuulla, sahatavaralla, käärityillä säilörehupaaleilla tai muulla kasviaineksella. Pitkäikäiset itiöemät säilyvät kuukausia ja niitä voi tavata ympäri vuoden, sillä ne kestävät toistuvia kuivumis- ja kostumissyklejä.",
+      "uses": "Pidetään Euroopassa ja Pohjois-Amerikassa yleisesti syötäväksi kelpaamattomana pienen kokonsa ja sitkeän, nahkamaisen rakenteensa vuoksi. Vaikka se ei ole äkillisesti myrkyllinen, sitä syödään nuorena tai pureskellaan yleisesti osissa Meksikoa, Guatemalaa, Yunnania, Koillis-Intiaa ja Madagaskaria, missä sitkeät itiöemät pilaantuvat hitaammin kuumassa ja kosteassa ilmastossa. Varovaisuus on kuitenkin paikallaan, sillä kyseessä on opportunistinen ihmispatogeeni, joka voi aiheuttaa hengitystie- tai poskionteloinfektioita immuunipuutteisilla henkilöillä.",
+      "confusion": "Pituussuunnassa halkeilleet helttamaiset poimut tekevät lajista erehtymättömän lähemmässä tarkastelussa. Schizophyllum amplum on pienempi, malja- tai korvamainen, ja sillä on halkeilleiden poimujen sijasta sileä tai heikosti ryppyinen alapinta. Crepidotus-suvun lajit ovat pehmeitä ja maltoisia, ja niillä on halkeilemattomat varsinaiset heltat sekä ruskea itiöpöly. Panellus stipticus -lajilla on tiheät, halkeilemattomat okrankellertävät heltat, lyhyt sivujalka ja supistava maku. Silkkivyökääpä (Trametes versicolor) ja karvanahakka (Stereum hirsutum) muodostavat puulle vyöhykkeisiä lakkeja, mutta niiden alapinnalla on hienot pillit tai sileä pinta halkeilleiden poimujen sijaan.",
+      "notes": "Itiöemät voivat selvitä vuosia tai jopa vuosikymmeniä kuivina ja jatkaa itiöiden vapauttamista kostuttuaan uudelleen. Lajilla on tetrapolaarinen pariutumisjärjestelmä, jonka kaksi monialleelista lokusta tuottavat yli 23 000–28 000 pariutumistyyppiä ja varmistavat lähes täydellisen ristisiitoksen populaatioissa, joskin molekyylitutkimukset viittaavat siihen, että kyseessä voi olla lähisukuisten kryptisten lajien ryhmä. Pinta-aktiivinen proteiini hydrofobiini eristettiin ensimmäisen kerran tästä lajista, sen perimä sekvensoitiin vuonna 2010, ja harvinaisia ihmisen keuhkoputki-keuhko- ja nenän sivuontelomykooseja on raportoitu maailmanlaajuisesti."
+    },
+    "fr": {
+      "description": "Petit champignon coriace et lignicole qui fructifie isolé, en groupes ou en étages imbriqués en forme de consoles sur le bois mort ou affaibli. Figurant parmi les champignons les plus répandus sur Terre, il est présent sur tous les continents sauf l’Antarctique et revit à plusieurs reprises après une dessiccation prolongée.",
+      "cap": "De 1–4 cm de large (parfois dès 0,5 cm) et de 0,3–1 cm d’épaisseur, en éventail lorsqu’il est fixé latéralement au bois ou conchoïde à circulaire lorsqu’il est fixé dorsalement sous les branches, souvent soudé aux chapeaux voisins. La marge est ondulée, lobée et enroulée dans la jeunesse. Sèche et densément feutrée à finement velue, la face supérieure est blanchâtre à gris pâle par temps sec et gris-brun plus foncé à l’humidité, parfois faiblement zonée, teintée de pourpré ou verdie par des algues microscopiques.",
+      "hymenium": "Plis lamelliformes espacés et rayonnants — en réalité des plis composés de la face inférieure fertile plutôt que de vraies lames — blanchâtres, grisâtres, gris rosâtre ou rose chair à gris pourpré. Chaque pli est fendu de façon caractéristique sur toute la longueur de son arête en deux moitiés qui s’enroulent vers l’extérieur pour refermer la couche fertile par temps sec et se rouvrent à l’humidité. Les basides sont clavées, de 20–30 × 6–8 µm, tétrasporiques, munies de boucles basales ; les cystides hyméniales sont absentes.",
+      "stipe": "Absent ou réduit à un point d’attache latéral ou dorsal très court et rudimentaire, à peine visible au-dessus du substrat.",
+      "flesh": "Mince, souple à l’état jeune et humide, devenant coriace, tenace et rigide avec l’âge ou en séchant ; blanchâtre à brunâtre pâle, immuable à la coupe, sans odeur ni saveur particulières.",
+      "sporePrint": "Blanche à faiblement rosâtre. Les spores sont lisses, à paroi mince, subcylindriques à subellipsoïdes, de 4–6,5 × 1,5–2,5 µm (parfois jusqu’à 7 × 3 µm), hyalines dans le KOH et inamyloïdes.",
+      "habitat": "Saprotrophe — provoquant une pourriture blanche — et parfois parasite de blessure sur le bois de feuillus mort ou affaibli (en particulier hêtre, chêne, aulne, bouleau et tilleul), plus rarement sur conifères, bois débité, balles d’ensilage enrubannées ou autres matières végétales. Les carpophores longévifs persistent pendant des mois et se rencontrent toute l’année, survivant à des cycles répétés de dessiccation et de réhydratation.",
+      "uses": "Généralement considéré comme non comestible en Europe et en Amérique du Nord en raison de sa petite taille et de sa texture coriace et tenace. Bien qu’il ne soit pas toxique de manière aiguë, il est largement consommé jeune ou mâché dans certaines régions du Mexique, du Guatemala, du Yunnan, du Nord-Est de l’Inde et de Madagascar, où les carpophores coriaces se gâtent moins vite sous les climats chauds et humides. La prudence reste de mise, car c’est un pathogène humain opportuniste capable de provoquer des infections respiratoires ou sinusiennes chez les personnes immunodéprimées.",
+      "confusion": "Ses plis lamelliformes fendus longitudinalement le rendent impossible à confondre à l’examen attentif. Schizophyllum amplum est plus petit, cupuliforme à auriculé, et présente une face inférieure lisse à faiblement ridée plutôt que des plis fendus. Les espèces du genre Crepidotus sont molles et charnues, avec de vraies lames non fendues et une sporée brune. Panellus stipticus possède des lames serrées, non fendues, ocre chamois, un court pied latéral et une saveur astringente. Trametes versicolor et Stereum hirsutum forment des consoles zonées sur le bois, mais leur face inférieure porte de minuscules pores ou une surface lisse au lieu de plis fendus.",
+      "notes": "Les carpophores peuvent survivre à des années, voire des décennies, de dessiccation et recommencer à libérer des spores une fois réhydratés. L’espèce possède un système d’incompatibilité tétrapolaire à deux locus multialléliques générant plus de 23 000–28 000 types sexuels, assurant un croisement presque universel entre populations, bien que des études moléculaires suggèrent qu’elle pourrait recouvrir un complexe d’espèces cryptiques étroitement apparentées. La protéine tensioactive hydrophobine a été isolée pour la première fois chez cette espèce, son génome a été séquencé en 2010 et de rares cas de mycoses bronchopulmonaires et sinusiennes chez l’humain ont été documentés dans le monde entier."
+    },
+    "he": {
+      "description": "פטרייה קטנה וקשיחה מפרקת עץ, המניבה גופי פרי בודדים, בקבוצות או בקומות חופפות דמויות מדפים על עץ מת ונחלש. זהו אחד ממיני הפטריות הנפוצים ביותר על פני כדור הארץ, והוא מופיע בכל היבשות מלבד אנטארקטיקה ומתעורר לחיים שוב ושוב לאחר התייבשות ממושכת.",
+      "cap": "רוחב הכובע 1–4 ס\"מ (לעיתים מ-0.5 ס\"מ) ועוביו 0.3–1 ס\"מ; צורתו דמוית מניפה כשהוא מחובר לעץ מצידו, או דמוית צדפה עד עגולה כשהוא מחובר מגבו מתחת לענפים, ולעיתים קרובות הוא מתאחה עם כובעים סמוכים. השוליים גליים, בעלי אונות וגלולים פנימה בצעירותם. פני השטח העליונים יבשים ומכוסים לבד צפוף עד שערות עדינות; צבעם לבנבן עד אפור חיוור כשהם יבשים וחום-אפור כהה יותר כשהם לחים, ולעיתים ניכרים עליהם אזורים קונצנטריים קלושים, גוון סגלגל או גוון ירקרק שמקורו באצות מיקרוסקופיות.",
+      "hymenium": "קפלים מרוחקים וקורנים דמויי דפים — למעשה קפלים מורכבים של המשטח התחתון הפורה ולא דפים אמיתיים — בגוון לבנבן, אפרפר, ורדרד-אפור או ורוד-בשר עד אפור-סגלגל. כל קפל חצוי באופן אופייני לאורכו בקצהו לשני חצאים המתגלגלים לאחור כדי לסגור על השכבה הפורייה במזג אוויר יבש ונפתחים מחדש עם ההרטבה. הבסידיות דמויות אלה, בגודל 20–30 × 6–8 מיקרומטר, בעלות ארבעה נבגים ועם חיבורי אבזם בבסיסן; ציסטידיות בהימניום נעדרות.",
+      "stipe": "חסרת רגל, או מצומצמת לנקודת אחיזה צדדית או גבית קצרצרה ומנוונת שכמעט אינה נראית מעל המצע.",
+      "flesh": "הבשר דק וגמיש בצעירותו ובלחות, והופך קשיח, גלדני ונוקשה עם הגיל או ההתייבשות; צבעו לבנבן עד חום בהיר חיוור, אינו משנה את צבעו בחיתוך, וחסר ריח או טעם אופייניים.",
+      "sporePrint": "לבן עד ורדרד קלוש. הנבגים חלקים, דקי-דופן, תת-גליליים עד תת-אליפסואידיים, בגודל 4–6.5 × 1.5–2.5 מיקרומטר (לעיתים עד 7 × 3 מיקרומטר), שקופים ב-KOH ואינם עמילואידיים.",
+      "habitat": "סאפרוטרופית — הגורמת לריקבון לבן — ולעיתים טפילת פצעים על עץ מת או נחלש של עצים נשירים (במיוחד אשור, אלון, אלנוס, שדר ותרזה), ולעיתים רחוקות יותר על מחטניים, עץ מנוסר, חבילות תחמיץ עטופות או חומר צמחי אחר. גופי הפרי מאריכי הימים מתקיימים במשך חודשים וניתן למצוא אותם כל השנה, תוך שהם שורדים מחזורים חוזרים של התייבשות והרטבה מחדש.",
+      "uses": "נחשבת בדרך כלל ללא למאכל באירופה ובצפון אמריקה בשל גודלה הקטן ומרקמה הקשיח והגלדני. אף שאינה רעילה באופן חריף, היא נאכלת רבות כשהיא צעירה או נלעסת בחלקים של מקסיקו, גואטמלה, יונאן, צפון-מזרח הודו ומדגסקר, שבהם גופי פרי קשיחים מתקלקלים לאט יותר באקלים חם ולח. נדרשת זהירות, שכן היא פתוגן אופורטוניסטי בבני אדם המסוגל לגרום לזיהומים בדרכי הנשימה או בסינוסים אצל אנשים מדוכאי חיסון.",
+      "confusion": "הקפלים דמויי הדפים החצויים לאורכם הופכים אותה לבלתי ניתנת להחלפה בבדיקה מקרוב. המין Schizophyllum amplum קטן יותר, דמוי גביע עד דמוי אוזן, וצידו התחתון חלק עד מקומט קלות במקום קפלים חצויים. מיני Crepidotus רכים ובשרניים ובעלי דפים אמיתיים לא חצויים והדפס נבגים חום. למין Panellus stipticus יש דפים צפופים ולא חצויים בגוון אוכרה-צהבהב בהיר, רגל צדדית קצרה וטעם עפיץ. המינים Trametes versicolor ו-Stereum hirsutum יוצרים מדפים בעלי אזורים קונצנטריים על עץ, אך צידם התחתון נושא נקבוביות זעירות או משטח חלק במקום קפלים חצויים.",
+      "notes": "גופי הפרי מסוגלים לשרוד שנים ואף עשורים של יובש ולחדש את שחרור הנבגים מיד עם הרטבתם מחדש. למין מערכת הזדווגות טטראפולרית בעלת שני אתרים רב-אלליים היוצרים יותר מ-23,000–28,000 טיפוסי הזדווגות, מה שמבטיח הכלאה חיצונית כמעט מלאה באוכלוסיות, אם כי מחקרים מולקולריים מצביעים על כך שייתכן שמדובר במכלול של מינים קריפטיים קרובים זה לזה. החלבון הפעיל שטח הידרופובין בודד לראשונה ממין זה, הגנום שלו רוצף בשנת 2010, ובכל העולם תועדו מקרים נדירים של פטרת בדרכי הנשימה ובסינוסים אצל בני אדם."
+    },
+    "hi": {
+      "description": "एक सख्त, छोटा, लकड़ी सड़ाने वाला मशरूम जो मृत और कमजोर लकड़ी पर अकेले, समूहों में या ब्रैकेट जैसी परस्पर-व्यापी कतारों में फलता है। पृथ्वी पर सबसे व्यापक रूप से पाए जाने वाले कवकों में से एक होने के नाते, यह अंटार्कटिका को छोड़कर हर महाद्वीप में पाया जाता है और लंबे समय तक सूखने के बाद भी बार-बार पुनर्जीवित हो जाता है।",
+      "cap": "1–4 cm चौड़ी (कभी-कभी 0.5 cm से) और 0.3–1 cm मोटी; लकड़ी से पार्श्व रूप से जुड़ी होने पर पंखे के आकार की या शाखाओं के नीचे पृष्ठ भाग से जुड़ी होने पर सीप के आकार से गोलाकार होती है, और अक्सर पास की टोपियों के साथ जुड़ी रहती है। इसका किनारा लहरदार, पालिदार और युवावस्था में अंदर की ओर मुड़ा होता है। सूखी तथा घने नमदे जैसी से लेकर बारीक रोएँदार ऊपरी सतह सूखने पर सफ़ेदपन लिए से हल्की धूसर और नमी में गहरी धूसर-भूरी होती है, जिस पर कभी-कभी हल्के संकेंद्रित घेरे, बैंगनी आभा या सूक्ष्म शैवाल के कारण हरापन दिखाई देता है।",
+      "hymenium": "दूर-दूर स्थित, किरणों की तरह फैली गिल्स जैसी सिलवटें—जो वास्तविक गिल्स के बजाय उर्वर निचली सतह की संयुक्त सिलवटें होती हैं—सफ़ेदपन लिए, धूसर, गुलाबी-धूसर या मांसल-गुलाबी से बैंगनी-धूसर रंग की होती हैं। प्रत्येक सिलवट अपने किनारे से लंबाई के अनुदिश विशिष्ट रूप से दो हिस्सों में विभाजित होती है, जो शुष्क मौसम में पीछे मुड़कर उर्वर परत को ढक लेती हैं और नमी मिलने पर फिर खुल जाती हैं। बेसिडिया गदाकार, 20–30 × 6–8 µm, चार-बीजाणु वाले होते हैं और आधार पर क्लैंप कनेक्शन से युक्त होते हैं; हाइमेनियल सिस्टिडिया अनुपस्थित होते हैं।",
+      "stipe": "अनुपस्थित, या आधार से बाहर मुश्किल से दिखाई देने वाले एक अत्यंत छोटे, अवशेषी पार्श्व या पृष्ठीय जुड़ाव बिंदु तक सीमित होता है।",
+      "flesh": "पतला, युवावस्था व नमी में लचीला, और उम्र या सूखने के साथ सख्त, चमड़े जैसा तथा कड़ा हो जाने वाला; सफ़ेदपन लिए से हल्का भूरापन लिए होता है, काटने पर रंग नहीं बदलता और इसमें कोई विशिष्ट गंध या स्वाद नहीं होता।",
+      "sporePrint": "सफ़ेद से हल्का गुलाबीपन लिए हुए। बीजाणु चिकने, पतली भित्ति वाले, उप-बेलनाकार से उप-दीर्घवृत्ताकार, 4–6.5 × 1.5–2.5 µm (कभी-कभी 7 × 3 µm तक), KOH में पारदर्शी (हायलाइन) और अन-एमिलॉइड होते हैं।",
+      "habitat": "मृतोपजीवी—जो श्वेत विगलन उत्पन्न करता है—और कभी-कभी मृत या कमजोर पर्णपाती लकड़ी (विशेष रूप से बीच, ओक, ऐल्डर, बर्च और लिंडेन वृक्षों) पर घाव-परजीवी के रूप में उगता है; कम बार शंकुधारी वृक्षों, कटी हुई लकड़ी, लपेटे हुए साइलेज चारे की गांठों या अन्य पादप पदार्थों पर मिलता है। इसके दीर्घजीवी फलकाय महीनों तक बने रहते हैं और साल भर पाए जा सकते हैं, तथा बार-बार सूखने और पुनः नम होने के चक्रों को सहन कर लेते हैं।",
+      "uses": "अपने छोटे आकार और सख्त, चमड़े जैसी बनावट के कारण यूरोप और उत्तरी अमेरिका में इसे सामान्यतः अखाद्य माना जाता है। यद्यपि यह तीव्र रूप से विषैला नहीं है, फिर भी मेक्सिको, ग्वाटेमाला, युन्नान, पूर्वोत्तर भारत और मेडागास्कर के हिस्सों में इसे युवावस्था में व्यापक रूप से खाया या चबाया जाता है, जहाँ गर्म व आर्द्र जलवायु में सख्त फलकाय कम जल्दी खराब होते हैं। सावधानी आवश्यक है, क्योंकि यह एक अवसरवादी मानव रोगजनक है जो कमजोर प्रतिरक्षा वाले लोगों में श्वसन या साइनस संक्रमण उत्पन्न कर सकता है।",
+      "confusion": "लंबाई में विभाजित गिल्स जैसी सिलवटें सूक्ष्म निरीक्षण करने पर इसे अचूक रूप से अलग पहचान देती हैं। Schizophyllum amplum आकार में छोटा, प्याले से कान के आकार का होता है और उसकी निचली सतह विभाजित सिलवटों के बजाय चिकनी से हल्की झुर्रीदार होती है। Crepidotus की प्रजातियाँ मुलायम व गूदेदार होती हैं, जिनमें अविभाजित वास्तविक गिल्स और भूरी बीजाणु छाप होती है। Panellus stipticus में सघन, अविभाजित गेरुआ-हल्के पीले रंग के गिल्स, एक छोटा पार्श्व डंठल और कसैला स्वाद होता है। Trametes versicolor और Stereum hirsutum लकड़ी पर पट्टीदार ब्रैकेट बनाते हैं, लेकिन उनकी निचली सतह पर विभाजित सिलवटों के बजाय सूक्ष्म छिद्र या चिकनी सतह होती है।",
+      "notes": "इसके फलकाय वर्षों या दशकों तक सूखे रहने के बाद भी जीवित रह सकते हैं और पुनः नमी मिलने पर बीजाणु छोड़ना फिर से शुरू कर देते हैं। इसमें दो बहु-युग्मविकल्पी (मल्टी-एलीलिक) स्थलों वाली चतुर्ध्रुवीय संयुग्मन प्रणाली होती है जो 23,000–28,000 से अधिक संयुग्मन प्रकार उत्पन्न करती है, जिससे आबादी में लगभग सार्वभौमिक पर-प्रजनन सुनिश्चित होता है, हालांकि आणविक अध्ययन संकेत देते हैं कि इसमें निकट संबंधी गूढ़ प्रजातियों का एक समूह शामिल हो सकता है। सतह-सक्रिय प्रोटीन हाइड्रोफोबिन को सबसे पहले इसी प्रजाति से पृथक किया गया था, इसका जीनोम 2010 में अनुक्रमित किया गया था, और दुनिया भर में मनुष्यों में ब्रोंकोपल्मोनरी तथा साइनस कवकता के दुर्लभ मामले दर्ज किए गए हैं।"
+    },
+    "hr": {
+      "description": "Sitna, žilava lignikolna gljiva koja plodonosi pojedinačno, u skupinama ili u crijepasto poredanim nizovima na mrtvom i oslabljenom drvu. Jedna je od najraširenijih gljiva na Zemlji: pojavljuje se na svim kontinentima osim Antarktike i nakon dugotrajnog sušenja višekratno oživljava.",
+      "cap": "Klobuk je promjera 1–4 cm (povremeno od 0,5 cm) i debljine 0,3–1 cm, lepezast kada je bočno pričvršćen za drvo ili školjkast do okrugao kada je leđno pričvršćen s donje strane grana, često srastao sa susjednim klobucima. Rub je valovit, režnjevit i u mladosti podvrnut. Gornja je površina suha i gusto pustenasta do fino dlakava, u suhom stanju bjelkasta do blijedosiva, a u vlažnom tamnija sivosmeđa, katkad slabo pojasasta, s ljubičastim preljevom ili zelenkasta od mikroskopskih algi.",
+      "hymenium": "Rijetki, radijalno raspoređeni nabori nalik listićima – zapravo složeni nabori plodne donje strane, a ne pravi listići – bjelkasti su, sivkasti, ružičastosivi ili mesnoružičasti do ljubičastosivi. Svaki je nabor uzduž oštrice karakteristično rascijepljen na dvije polovice koje se po suhom vremenu uvijaju unatrag kako bi zatvorile plodni sloj, a po vlaženju se ponovno otvaraju. Bazidiji su batinasti, 20–30 × 6–8 µm, četverosporni, s bazalnim kopčama; himenijalnih cistida nema.",
+      "stipe": "Stručak nedostaje ili je sveden na vrlo kratku, zakržljalu bočnu ili leđnu točku pričvršćivanja, jedva vidljivu iznad podloge.",
+      "flesh": "Meso je tanko, u mladosti i vlažnom stanju savitljivo, a starenjem ili sušenjem postaje žilavo, kožasto i kruto; bjelkasto je do blijedosmećkasto, na presjeku nepromjenjivo, bez izraženog mirisa i okusa.",
+      "sporePrint": "Otisak spora je bijel do slabo ružičast. Spore su glatke, tankih stijenki, gotovo valjkaste do gotovo elipsoidne, 4–6,5 × 1,5–2,5 µm (povremeno do 7 × 3 µm), u KOH hijaline i neamiloidne.",
+      "habitat": "Raste saprotrofno – uzrokujući bijelu trulež – te povremeno kao parazit rana na mrtvom ili oslabljenom bjelogoričnom drvu (osobito bukvi, hrastu, johi, brezi i lipi), rjeđe na četinjačama, piljenoj građi, omotanim balama silaže ili drugoj biljnoj tvari. Dugovječna plodišta opstaju mjesecima i mogu se pronaći tijekom cijele godine jer preživljavaju ponovljene cikluse isušivanja i ponovnog vlaženja.",
+      "uses": "U Europi i Sjevernoj Americi općenito se smatra nejestivom zbog sitne veličine i žilave, kožaste teksture. Iako nije akutno otrovna, u dijelovima Meksika, Gvatemale, Yunnana, sjeveroistočne Indije i Madagaskara često se jede mlada ili žvače jer se žilava plodišta sporije kvare u vrućim i vlažnim podnebljima. Ipak je potreban oprez jer je riječ o oportunističkom ljudskom patogenu koji može uzrokovati infekcije dišnih putova ili sinusa kod osoba oslabljenog imuniteta.",
+      "confusion": "Uzdužno rascijepljeni nabori nalik listićima čine je nepogrešivom pri pažljivijem pregledu. Bjelkasta raskoljenka (Schizophyllum amplum) je manja, peharasta do uholika te ima glatku do slabo naboranu donju stranu umjesto rascijepljenih nabora. Vrste roda Crepidotus su mekane i mesnate s nerazdijeljenim pravim listićima i smeđim otiskom spora. Panellus stipticus ima guste, nerazdijeljene oker-žućkaste listiće, kratak bočni stručak i trpak okus. Šarena tvrdokoška (Trametes versicolor) i dlakavi slojevac (Stereum hirsutum) na drvu tvore pojasaste klobučiće, no donja im strana nosi sitne pore ili glatku površinu umjesto rascijepljenih nabora.",
+      "notes": "Plodišta mogu preživjeti godine ili čak desetljeća sušenja i nakon ponovnog vlaženja nastaviti otpuštati spore. Ima tetrapolarni sustav sparivanja s dvama višealelnim lokusima koji stvaraju više od 23.000–28.000 tipova sparivanja, što osigurava gotovo univerzalno križanje unutar populacija, premda molekularna istraživanja upućuju na to da bi mogla obuhvaćati kompleks blisko srodnih kriptičnih vrsta. Površinski aktivan protein hidrofobin prvi je put izoliran iz ove vrste, njezin je genom sekvenciran 2010. godine, a diljem svijeta zabilježeni su rijetki slučajevi ljudske bronhopulmonalne i sinusne mikoze."
+    },
+    "hu": {
+      "description": "Kicsi, szívós, fabontó gomba, amely egyesével, csoportosan vagy egymást tetőcserépszerűen fedő, konzolszerű rétegekben terem elhalt és legyengült fán. A Föld egyik legelterjedtebb gombafaja: az Antarktisz kivételével minden kontinensen előfordul, és hosszan tartó kiszáradás után is újra és újra feléled.",
+      "cap": "1–4 cm széles (esetenként 0,5 cm-től) és 0,3–1 cm vastag; legyező alakú, ha oldalt kapcsolódik a fához, vagy kagyló alakútól kerekdedig terjedő, ha az ágak alsó oldalán háti ponton tapad, és gyakran összenő a szomszédos kalapokkal. Széle hullámos, karéjos, fiatalon begöngyölt. Felső felülete száraz, sűrűn nemezes vagy finoman szőrös, szárazon fehérestől halványszürkéig terjedő, nedvesen sötétebb szürkésbarna, olykor halványan zónázott, lilás árnyalatú vagy a mikroszkopikus algáktól zöldes.",
+      "hymenium": "Ritkásan álló, sugarasan szétfutó, lemezszerű redők – valójában a termőréteg összetett redői, nem valódi lemezek –, amelyek fehéresek, szürkés, rózsásszürke vagy hússzínű-rózsaszíntől lilásszürkéig terjedő árnyalatúak. Minden redő jellegzetesen hosszanti irányban kettéhasadt az élén két félre, amelyek száraz időben visszakunkorodva lezárják a termőréteget, nedvesség hatására pedig újra szétnyílnak. A bazídiumok bunkó alakúak, 20–30 × 6–8 µm-esek, négyspórásak, alapi csattal; a termőrétegben cisztídiumok nincsenek.",
+      "stipe": "Hiányzik, vagy nagyon rövid, csökevényes, oldalsó vagy háti tapadóponttá redukált, amely alig látszik ki az aljzat fölé.",
+      "flesh": "Vékony, fiatalon és nedvesen hajlékony, idővel vagy kiszáradva szívóssá, bőrneművé és merevvé válik; fehérestől halványbarnásig terjed, vágásra nem változik, jellegzetes szaga és íze nincs.",
+      "sporePrint": "Fehér vagy halványrózsás. A spórák simák, vékony falúak, csaknem hengeresektől csaknem ellipszoidokig terjedők, 4–6,5 × 1,5–2,5 µm-esek (ritkán legfeljebb 7 × 3 µm), KOH-ban hialinok és inamiloidok.",
+      "habitat": "Szaprotróf – fehérkorhadást okoz –, ritkábban sebparazita elhalt vagy legyengült lombos fák faanyagán (különösen bükkön, tölgyön, égeren, nyíren és hárson), ritkábban fenyőféléken, kivágott faanyagon, fóliázott szilázsbálákon vagy más növényi anyagon. A hosszú életű termőtestek hónapokig megmaradnak, és egész évben megtalálhatók, átvészelve az ismétlődő kiszáradási és újranedvesedési ciklusokat.",
+      "uses": "Európában és Észak-Amerikában kis mérete és szívós, bőrnemű állaga miatt általában nem ehetőnek tekintik. Bár nem akut módon mérgező, Mexikó, Guatemala, Jünnan, Északkelet-India és Madagaszkár egyes részein fiatalon széles körben fogyasztják vagy rágják, mivel a szívós termőtestek a forró, párás éghajlaton lassabban romlanak meg. Óvatosság indokolt, mert opportunista humán patogén, amely legyengült immunrendszerű embereknél légúti vagy arcüregfertőzéseket okozhat.",
+      "confusion": "A hosszanti irányban kettéhasadt lemezszerű redők közelről megvizsgálva összetéveszthetetlenné teszik. A Schizophyllum amplum kisebb, csésze vagy fül alakú, alsó felülete pedig hasadt redők helyett sima vagy enyhén ráncos. A Crepidotus fajok puhák és húsosak, valódi, nem hasadt lemezekkel és barna spóraporral. A Panellus stipticus sűrűn álló, nem hasadt okkerbarnás lemezekkel, rövid oldalsó tönkkel és fanyar ízzel rendelkezik. A lepketapló (Trametes versicolor) és a Stereum hirsutum zónázott konzolokat képez fán, de alsó felületük hasadt redők helyett apró pórusokat visel vagy sima.",
+      "notes": "A termőtestek akár évekig vagy évtizedekig tartó kiszáradást is túlélnek, és újranedvesedve ismét spórákat szórnak. Tetrapoláris párosodási rendszere két sokallélos lókusszal több mint 23 000–28 000 párosodási típust hoz létre, ami szinte teljes idegenmegtermékenyülést biztosít a populációkban, bár a molekuláris vizsgálatok arra utalnak, hogy közeli rokon kriptikus fajok komplexét alkothatja. Ebből a fajból izolálták először a felületaktív hidrofobin fehérjét, genomját 2010-ben szekvenálták, és világszerte dokumentáltak ritka emberi bronchopulmonális és arcüreg-mikózisos eseteket."
+    },
+    "id": {
+      "description": "Jamur pelapuk kayu berukuran kecil dan liat yang berbuah secara tunggal, berkelompok, atau dalam susunan bertingkat saling tumpang tindih menyerupai kipas pada kayu mati dan lemah. Sebagai salah satu jamur yang paling luas persebarannya di Bumi, jamur ini ditemukan di setiap benua kecuali Antarktika dan dapat hidup kembali berulang kali setelah pengeringan berkepanjangan.",
+      "cap": "Diameter 1–4 cm (sesekali mulai dari 0,5 cm) dan tebal 0,3–1 cm, berbentuk kipas apabila melekat secara lateral pada kayu atau berbentuk cangkang hingga bulat apabila melekat secara dorsal di bawah cabang, sering menyatu dengan tudung di sebelahnya. Tepinya bergelombang, berlekuk, dan menggulung ke dalam saat muda. Permukaan atasnya kering dan berbulu lakan rapat hingga berambut halus, berwarna keputihan hingga abu-abu pucat saat kering dan cokelat keabu-abuan lebih gelap saat lembap, terkadang berzona samar, bersemu keunguan, atau kehijauan akibat alga mikroskopis.",
+      "hymenium": "Lipatan menyerupai lamela yang berjarak renggang dan memancar—sebenarnya merupakan lipatan majemuk dari permukaan bawah fertil dan bukan lamela sejati—berwarna keputihan, keabu-abuan, abu-abu merah muda, atau merah muda daging hingga abu-abu keunguan. Setiap lipatan terbelah khas memanjang di sepanjang tepinya menjadi dua bagian yang menggulung balik untuk menutup lapisan fertil saat cuaca kering dan membuka kembali ketika lembap. Basidium berbentuk gada, 20–30 × 6–8 µm, berspora empat, dengan sambungan kait pada pangkalnya; sistidia himenium tidak ada.",
+      "stipe": "Tidak ada, atau tereduksi menjadi titik perlekatan lateral atau dorsal yang sangat pendek dan rudimenter serta hampir tidak tampak di atas substrat.",
+      "flesh": "Tipis, lentur saat muda dan lembap, menjadi liat, seperti kulit, dan kaku seiring bertambahnya usia atau pengeringan; keputihan hingga kecokelatan pucat, tidak berubah warna saat dipotong, tanpa bau atau rasa yang khas.",
+      "sporePrint": "Putih hingga agak merah muda samar. Spora halus, berdinding tipis, agak silindris hingga agak elipsoid, 4–6,5 × 1,5–2,5 µm (sesekali hingga 7 × 3 µm), hialin dalam KOH, dan inamiloid.",
+      "habitat": "Saprotrof—menyebabkan pelapukan putih—dan sesekali menjadi parasit luka pada kayu pohon gugur daun yang mati atau lemah (terutama beech, ek, alder, birch, dan linden), lebih jarang pada konifera, kayu olahan, bal silase terbungkus, atau bahan tumbuhan lainnya. Tubuh buahnya berumur panjang, bertahan selama berbulan-bulan, dan dapat ditemukan sepanjang tahun karena mampu bertahan melewati siklus pengeringan dan rehidrasi berulang.",
+      "uses": "Umumnya dianggap tidak dapat dimakan di Eropa dan Amerika Utara karena ukurannya yang kecil serta teksturnya yang liat seperti kulit. Meskipun tidak beracun akut, jamur ini banyak dimakan saat masih muda atau dikunyah di sebagian Meksiko, Guatemala, Yunnan, India Timur Laut, dan Madagaskar, tempat tubuh buah yang liat tidak mudah membusuk di iklim panas dan lembap. Kewaspadaan diperlukan karena jamur ini merupakan patogen oportunistik pada manusia yang mampu menyebabkan infeksi saluran pernapasan atau sinus pada penderita gangguan kekebalan tubuh.",
+      "confusion": "Lipatan menyerupai lamela yang terbelah memanjang membuatnya mudah dikenali dengan pasti saat diamati dari dekat. Schizophyllum amplum berukuran lebih kecil, berbentuk cangkir hingga telinga, dan memiliki permukaan bawah yang halus hingga berkerut samar alih-alih lipatan terbelah. Spesies Crepidotus lunak dan berdaging dengan lamela sejati yang tidak terbelah serta jejak spora cokelat. Panellus stipticus memiliki lamela rapat yang tidak terbelah berwarna kuning kecokelatan pucat, tangkai lateral pendek, dan rasa kelat. Trametes versicolor dan Stereum hirsutum membentuk tudung brakit berzona pada kayu, tetapi permukaan bawahnya memiliki pori-pori sangat kecil atau permukaan halus alih-alih lipatan terbelah.",
+      "notes": "Tubuh buahnya dapat bertahan bertahun-tahun atau bahkan puluhan tahun dalam keadaan kering dan kembali melepaskan spora setelah mendapat kelembapan lagi. Spesies ini memiliki sistem perkawinan tetrapolar dengan dua lokus multi-alelik yang menghasilkan lebih dari 23.000–28.000 tipe perkawinan, sehingga menjamin perkawinan silang yang hampir menyeluruh di seluruh populasi, meskipun kajian molekuler menunjukkan bahwa spesies ini mungkin terdiri atas kompleks beberapa spesies kriptik yang berkerabat dekat. Protein aktif permukaan hidrofobin pertama kali diisolasi dari spesies ini, genomnya diurutkan pada tahun 2010, dan kasus langka mikosis bronkopulmoner serta sinus pada manusia telah didokumentasikan di seluruh dunia."
+    },
+    "it": {
+      "description": "Piccolo fungo lignicolo e tenace che fruttifica isolato, in gruppi o in mensole sovrapposte su legno morto o indebolito. È uno dei funghi più diffusi sulla Terra, presente in ogni continente eccetto l’Antartide, e rivive ripetutamente dopo un prolungato disseccamento.",
+      "cap": "Largo 1–4 cm (talvolta da 0,5 cm) e spesso 0,3–1 cm, a forma di ventaglio quando inserito lateralmente sul legno oppure a conchiglia o circolare quando inserito dorsalmente sotto i rami, spesso fuso con i cappelli adiacenti. Il margine è ondulato, lobato e involuto da giovane. Asciutta e fittamente feltrata fino a finemente pelosa, la superficie superiore è biancastra o grigio pallido a tempo secco e grigio-bruno più scuro a tempo umido, talvolta debolmente zonata, sfumata di porpora o verdastra per la presenza di alghe microscopiche.",
+      "hymenium": "Pieghe lamelliformi rade e radiali — in realtà pieghe composte della faccia inferiore fertile anziché vere lamelle — biancastre, grigiastre, grigio-rosate o rosa carne fino a grigio-porpora. Ciascuna piega è distintamente fessurata longitudinalmente lungo il filo in due metà che si arricciano all’indietro per richiudersi sullo strato fertile con tempo secco e si riaprono quando vengono inumidite. I basidi sono clavati, 20–30 × 6–8 µm, tetrasporici, con giunti a fibbia basali; i cistidi imeniali sono assenti.",
+      "stipe": "Assente oppure ridotto a un punto di inserzione laterale o dorsale molto corto e rudimentale, appena visibile sopra il substrato.",
+      "flesh": "Sottile, flessibile da giovane e allo stato umido, poi tenace, coriacea e rigida con l’età o il disseccamento; da biancastra a brunastra pallida, immutabile al taglio, priva di odore e sapore distintivi.",
+      "sporePrint": "Bianca o debolmente rosata. Le spore sono lisce, a parete sottile, da subcilindriche a subellissoidi, 4–6,5 × 1,5–2,5 µm (occasionalmente fino a 7 × 3 µm), ialine in KOH e inamiloidi.",
+      "habitat": "Saprotrofo — agente di carie bianca — e occasionalmente parassita da ferita su legno morto o indebolito di latifoglie (soprattutto faggio, quercia, ontano, betulla e tiglio), più raramente su conifere, legname tagliato, balle di insilato avvolte o altro materiale vegetale. I corpi fruttiferi longevi persistono per mesi e si rinvengono tutto l’anno, superando cicli ripetuti di disseccamento e reidratazione.",
+      "uses": "Generalmente considerato non commestibile in Europa e Nord America per le dimensioni ridotte e la consistenza tenace e coriacea. Pur non essendo acutamente velenoso, viene ampiamente consumato da giovane o masticato in parti del Messico, del Guatemala, dello Yunnan, dell’India nord-orientale e del Madagascar, dove i corpi fruttiferi coriacei si deteriorano meno rapidamente nei climi caldi e umidi. È opportuna cautela, poiché è un patogeno umano opportunista in grado di provocare infezioni respiratorie o sinusali nelle persone immunocompromesse.",
+      "confusion": "Le pieghe lamelliformi fessurate longitudinalmente lo rendono inconfondibile a un esame ravvicinato. Schizophyllum amplum è più piccolo, a forma di coppa o di orecchio, e presenta una faccia inferiore liscia o appena rugosa anziché pieghe fessurate. Le specie di Crepidotus sono molli e carnose, con vere lamelle non fessurate e impronta sporale bruna. Panellus stipticus ha lamelle fitte, non fessurate, ocra-camoscio, un corto gambo laterale e sapore astringente. Trametes versicolor e Stereum hirsutum formano mensole zonate su legno, ma la loro faccia inferiore presenta pori minuti oppure una superficie liscia invece di pieghe fessurate.",
+      "notes": "I corpi fruttiferi possono sopravvivere ad anni o persino decenni di disseccamento e riprendere a rilasciare spore una volta reidratati. Presenta un sistema di accoppiamento tetrapolare con due loci multiallelici che generano oltre 23.000–28.000 tipi sessuali, garantendo un incrocio quasi universale tra le popolazioni, sebbene studi molecolari suggeriscano che possa comprendere un complesso di specie criptiche strettamente affini. La proteina tensioattiva idrofobina è stata isolata per la prima volta da questa specie, il suo genoma è stato sequenziato nel 2010 e rari casi umani di micosi broncopolmonare e sinusale sono stati documentati in tutto il mondo."
+    },
+    "ja": {
+      "description": "枯死木や衰弱木の上に単生、群生、または重なり合う棚状の群れとなって発生する、小型で強靭な木材腐朽性のキノコです。地球上で最も広く分布する菌類の一つであり、南極を除くすべての大陸に見られ、長期間乾燥した後でも水分を得て何度も蘇生します。",
+      "cap": "傘は幅1–4 cm（まれに0.5 cmから）、厚さ0.3–1 cmで、木材に側着するときは扇形、枝の下側に背着するときは貝殻形から円形になり、隣接する傘と互いに癒合することもあります。縁は波打ち、裂片状になり、幼時は内側に巻き込みます。上面は乾いて密なフェルト状から微毛に覆われ、乾燥時は帯白色から淡灰色、湿時はより濃い灰褐色になり、ときに不明瞭な環紋や紫がかった色調、あるいは微細藻類の付着による緑がかりを帯びます。",
+      "hymenium": "ひだのように見える放射状のしわは疎に並び、実際には真のひだではなく胞子を形成する下面の複合的なしわで、帯白色、灰白色、桃灰色、または肉桃色から紫灰色を呈します。各しわの縁は縦方向に特徴的に2つへ裂けており、乾燥時には両側が外巻きに丸まって胞子形成層を覆い隠し、湿ると再び開きます。担子器はこん棒形で20–30 × 6–8 µm、4胞子性で基部にクランプ結合があり、子実層シスチジアはありません。",
+      "stipe": "柄は欠くか、基物の上にわずかに認められるごく短く痕跡的な側生または背生の付着部にとどまります。",
+      "flesh": "肉は薄く、幼時で湿っているときは柔軟ですが、老成または乾燥すると強靭で革質かつ硬くなります。帯白色から淡帯褐色で、傷つけても変色せず、特徴的なにおいや味はありません。",
+      "sporePrint": "胞子紋は白色からかすかな淡桃色です。胞子は平滑で薄壁、ほぼ円筒形からほぼ楕円形で、大きさは4–6.5 × 1.5–2.5 µm（まれに7 × 3 µmまで）、KOH中で無色透明、非アミロイドです。",
+      "habitat": "白色腐朽を引き起こす腐生性で、ときに枯死または衰弱した広葉樹（特にブナ、ナラ類、ハンノキ、カバノキ、シナノキ）の傷口寄生菌としても発生し、針葉樹、伐採材、ラップ梱包されたサイレージベール、その他の植物質にもまれに出現します。長命な子実体は数か月間持続し、乾燥と吸水のサイクルを繰り返しながら一年中見られます。",
+      "uses": "小型で強靭な革質のため、ヨーロッパや北アメリカでは一般に不食とみなされています。急性の毒性はありませんが、メキシコ、グアテマラ、雲南、インド北東部、マダガスカルの一部地域では、高温多湿の気候でも強靭な子実体が腐りにくいため、幼菌が広く食用にされたり噛まれたりします。ただし、免疫力が低下した人に呼吸器や副鼻腔の感染症を引き起こす日和見感染症の病原菌であるため、注意が必要です。",
+      "confusion": "縦に裂けたひだ状のしわがあるため、よく観察すれば見誤ることはありません。Schizophyllum amplumはより小型で杯形から耳形をしており、下面は裂けたしわではなく平滑からわずかにしわが寄る程度です。Crepidotus属の種は柔らかく肉質で、裂けない真のひだと褐色の胞子紋を持ちます。Panellus stipticusは密で裂けない黄土淡黄褐色のひだ、短い側生の柄、そして収斂性の味があります。Trametes versicolorやStereum hirsutumは木材上に環紋のある棚状の子実体を形成しますが、下面は裂けたしわではなく微細な管孔または平滑な面を持ちます。",
+      "notes": "子実体は何年あるいは何十年もの乾燥に耐えることができ、再び水分を吸うと胞子の放出を再開します。2つの複対立遺伝子座による四極性交配系を持ち、23,000–28,000を超える交配型を生み出すことで個体群全体でほぼ普遍的な他家交配を保証していますが、分子系統学的研究では近縁な複数の隠蔽種からなる複合種である可能性が示唆されています。表面活性タンパク質であるハイドロフォビンはこの種から最初に単離され、2010年にゲノムが解読され、世界中でヒトの気管支肺および副鼻腔真菌症のまれな症例が報告されています。"
+    },
+    "ko": {
+      "description": "죽거나 쇠약해진 나무 위에서 홑으로 나거나 무리 지어, 또는 서로 겹쳐지는 선반 모양의 층을 이루며 자라는 질기고 작은 목재부후성 버섯입니다. 지구상에서 가장 널리 분포하는 균류 가운데 하나로 남극 대륙을 제외한 모든 대륙에 분포하며, 장기간 건조된 뒤에도 수분을 만나면 반복해서 되살아납니다.",
+      "cap": "갓은 너비 1–4 cm(드물게 0.5 cm부터), 두께 0.3–1 cm로, 나무에 옆으로 붙을 때는 부채 모양이며 가지 아랫면에 등으로 붙을 때는 조개껍데기 모양에서 원형에 가깝고 인접한 갓과 종종 융합합니다. 가장자리는 물결 모양에 갈라진 틈이 있고 어릴 때는 안쪽으로 말립니다. 윗면은 건조하며 빽빽한 펠트 모양에서 미세한 털로 덮여 있고, 마르면 흰빛에서 옅은 회색이며 젖으면 더 어두운 회갈색이 되고, 때로는 희미한 동심원 고리 무늬나 보랏빛, 혹은 미세 조류에 의한 녹색빛을 띱니다.",
+      "hymenium": "성기게 방사상으로 배열된 주름살 모양의 주름은 실제로는 진짜 주름살이 아니라 생식 아랫면의 복합적인 주름이며, 흰빛, 회백색, 분홍회색 또는 살색 분홍에서 보라회색을 띱니다. 각 주름은 가장자리 길이를 따라 두 갈래로 특징적으로 세로로 갈라져 있어, 건조한 날씨에는 뒤로 말려 생식층을 덮어 닫았다가 습해지면 다시 열립니다. 담자기는 곤봉 모양으로 20–30 × 6–8 µm, 4포자성이며 기부에 꺾쇠연결이 있고, 자실층낭상체는 없습니다.",
+      "stipe": "대는 없거나 기질 위로 겨우 드러나는 매우 짧고 퇴화한 측면 또는 등쪽 부착점 정도로만 남아 있습니다.",
+      "flesh": "살은 얇고 어리고 습할 때는 유연하지만 나이가 들거나 마르면 질기고 가죽 같으며 단단해집니다. 흰빛에서 옅은 갈색빛을 띠며 자를 때 색이 변하지 않고 뚜렷한 냄새나 맛이 없습니다.",
+      "sporePrint": "흰색에서 희미한 분홍빛을 띱니다. 포자는 매끄럽고 벽이 얇으며 원통형에 가깝거나 타원형에 가깝고 크기는 4–6.5 × 1.5–2.5 µm(드물게 7 × 3 µm까지)이며, KOH에서 투명하고 비아밀로이드성입니다.",
+      "habitat": "백색부후를 일으키는 부생성 버섯이며 때로는 죽거나 약해진 활엽수(특히 너도밤나무, 참나무, 오리나무, 자작나무, 피나무)에 상처 기생균으로도 자라고, 드물게 침엽수, 벤 목재, 랩으로 감싼 사일리지 베일이나 다른 식물성 물질 위에서도 자랍니다. 수명이 긴 자실체는 수개월 동안 유지되며 반복되는 건조와 재수화 주기를 견뎌 연중 내내 관찰됩니다.",
+      "uses": "작은 크기와 질기고 가죽 같은 식감 때문에 유럽과 북아메리카에서는 대체로 식용 부적합으로 여겨집니다. 급성 독성은 없지만 멕시코, 과테말라, 윈난, 인도 북동부 및 마다가스카르 일부 지역에서는 덥고 습한 기후에서도 질긴 자실체가 덜 빨리 상하기 때문에 어릴 때 널리 식용하거나 씹어 먹습니다. 다만 면역력이 저하된 사람에게 호흡기나 부비동 감염을 일으킬 수 있는 기회감염성 인체 병원균이므로 주의가 필요합니다.",
+      "confusion": "세로로 갈라진 주름살 모양의 주름 때문에 가까이에서 관찰하면 다른 종과 혼동할 여지가 없습니다. Schizophyllum amplum은 더 작고 컵 모양에서 귀 모양이며, 갈라진 주름 대신 매끄럽거나 희미하게 주름진 아랫면을 가집니다. Crepidotus속 종들은 부드럽고 살이 많으며 갈라지지 않은 진짜 주름살과 갈색 포자문을 가집니다. Panellus stipticus는 빽빽하고 갈라지지 않은 황토 담황갈색 주름살과 짧은 측생 대, 그리고 떫은맛을 지닙니다. Trametes versicolor와 Stereum hirsutum은 나무 위에 고리 무늬가 있는 선반 모양을 이루지만, 아랫면에는 갈라진 주름 대신 미세한 관공이나 매끄러운 표면이 있습니다.",
+      "notes": "자실체는 수년 또는 수십 년 동안 건조 상태로도 살아남을 수 있으며 다시 수분을 공급받으면 포자 방출을 재개합니다. 두 개의 다대립유전자 좌위를 가진 사극성 교배 체계를 지녀 23,000–28,000개 이상의 교배형을 만들어 내므로 개체군 전반에 걸쳐 거의 보편적인 타가교배가 이루어지지만, 분자생물학적 연구에서는 서로 가까운 여러 은둔종으로 이루어진 복합종일 가능성이 제기됩니다. 표면활성 단백질인 하이드로포빈이 이 종에서 최초로 분리되었으며, 2010년에 유전체가 해독되었고, 전 세계적으로 인체의 기관지폐 및 부비동 진균증의 드문 사례들이 보고되었습니다."
+    },
+    "lt": {
+      "description": "Tamprus, smulkus, medieną ardantis grybas, augantis pavieniui, grupėmis arba čerpiškomis lentyniškų kepurėlių eilėmis ant negyvos ir nusilpusios medienos. Tai vienas plačiausiai Žemėje paplitusių grybų, aptinkamas visuose žemynuose, išskyrus Antarktidą, ir po ilgo išdžiūvimo galintis daug kartų vėl atgyti.",
+      "cap": "1–4 cm pločio (kartais nuo 0,5 cm) ir 0,3–1 cm storio, vėduokliška, kai prisitvirtinusi šonu prie medienos, arba kriauklės pavidalo iki apskritos, kai prisitvirtinusi viršutine puse po šakomis; dažnai suauga su gretimomis kepurėlėmis. Kraštas banguotas, skiautėtas, jaunų vaisiakūnių užsilenkęs į vidų. Sausas, tankiai veltiniškas ar smulkiai plaukuotas viršutinis paviršius sausame ore yra balkšvas ar šviesiai pilkas, o drėgname – tamsesnės pilkai rudos spalvos, kartais su neryškiomis zonomis, purpuriniu atspalviu arba pažaliavęs nuo mikroskopinių dumblių.",
+      "hymenium": "Retos, spinduliškos lakštelių pavidalo klostės – iš tikrųjų sudėtinės vaisinės apatinės pusės klostės, o ne tikrieji lakšteliai – balkšvos, pilkšvos, rausvai pilkos arba kūno rožinės iki purpuriškai pilkos spalvos. Kiekviena klostė išilgai ašmenų būdingai perskelta į dvi puseles, kurios sausu oru užsiriečia atgal ir uždengia vaisinį sluoksnį, o sudrėkusios vėl atsiveria. Bazidijos buožiškos, 20–30 × 6–8 µm, ketursporės, su pamatinėmis sąvaržomis; himenio cistidžių nėra.",
+      "stipe": "Koto nėra, arba jis redukuotas iki labai trumpo, rudimentinio šoninio ar nugarėlinio prisitvirtinimo taško, vos matomo virš substrato.",
+      "flesh": "Plona, jauna ir drėgna būna lanksti, o sendama ar džiūdama tampa tampri, odiška ir standi; balkšva ar šviesiai rusva, perpjovus spalvos nekeičia, be išskirtinio kvapo ar skonio.",
+      "sporePrint": "Baltas iki švelniai rausvo. Sporos lygios, plonasienės, beveik cilindriškos iki beveik elipsiškos, 4–6,5 × 1,5–2,5 µm (kartais iki 7 × 3 µm), KOH tirpale hialininės ir neamiloidinės.",
+      "habitat": "Saprotrofinis – sukeliantis baltąjį puvinį – ir kartais žaizdų parazitas ant negyvos ar nusilpusios lapuočių medienos (ypač buko, ąžuolo, alksnio, beržo ir liepos), rečiau ant spygliuočių, pjautinės medienos, į plėvelę suvyniotų šienainio ritinių ar kitos augalinės medžiagos. Ilgaamžiai vaisiakūniai išsilaiko mėnesius ir gali būti aptinkami ištisus metus, nes išgyvena pasikartojančius išdžiūvimo ir sudrėkimo ciklus.",
+      "uses": "Europoje ir Šiaurės Amerikoje dėl mažo dydžio ir tamprios, odiškos konsistencijos paprastai laikomas nevalgomu. Nors nėra ūmiai nuodingas, kai kuriose Meksikos, Gvatemalos, Junano, Šiaurės Rytų Indijos ir Madagaskaro dalyse jauni vaisiakūniai plačiai valgomi arba kramtomi, nes tamprūs vaisiakūniai karštame ir drėgname klimate lėčiau genda. Vis dėlto reikalingas atsargumas, nes tai oportunistinis žmogaus patogenas, galintis sukelti kvėpavimo takų ar sinusų infekcijas žmonėms su nusilpusiu imunitetu.",
+      "confusion": "Išilgai perskeltos lakštelių pavidalo klostės atidžiau apžiūrėjus leidžia rūšį atpažinti neklystamai. Schizophyllum amplum yra mažesnė, taurės ar ausies pavidalo, o jos apatinė pusė vietoj perskeltų klosčių yra lygi arba šiek tiek raukšlėta. Crepidotus genties rūšys yra minkštos ir mėsingos, su neperskeltais tikraisiais lakšteliais ir rudu sporų atspaudu. Panellus stipticus turi tankius, neperskeltus ochriškai gelsvus lakštelius, trumpą šoninį kotą ir sutraukiantį skonį. Įvairiaspalvė kempė (Trametes versicolor) ir šiurkštusis plutgrybis (Stereum hirsutum) ant medienos sudaro zonuotus vaisiakūnius, tačiau jų apatinėje pusėje vietoj perskeltų klosčių yra smulkios poros arba lygus paviršius.",
+      "notes": "Vaisiakūniai gali išgyventi metus ar net dešimtmečius išdžiūvę ir sudrėkę vėl atnaujinti sporų barstymą. Rūšis turi tetrapolinę kryžminimosi sistemą su dviem daugiaaleliais lokusais, sukuriančiais daugiau kaip 23 000–28 000 poravimosi tipų, o tai užtikrina beveik visuotinį kryžminimąsi populiacijose, nors molekuliniai tyrimai rodo, kad tai gali būti artimai giminingų kriptinių rūšių kompleksas. Paviršinio aktyvumo baltymas hidrofobinas pirmą kartą buvo išskirtas iš šios rūšies, jos genomas sekvenuotas 2010 m., o visame pasaulyje yra užfiksuota retų žmogaus bronchopulmoninės ir sinusų mikozės atvejų."
+    },
+    "lv": {
+      "description": "Sīksta, neliela, koksni noārdoša sēne, kas aug pa vienai, grupās vai jumstiņveida konsolveida kārtās uz atmirušas un novājinātas koksnes. Tā ir viena no visplašāk izplatītajām sēnēm uz Zemes, sastopama visos kontinentos, izņemot Antarktīdu, un pēc ilgstošas izžūšanas atkārtoti atdzīvojas.",
+      "cap": "1–4 cm plata (reizēm no 0,5 cm) un 0,3–1 cm bieza, vēdekļveida, kad piestiprināta pie koksnes ar sānu, vai gliemežvāka līdz apaļas formas, kad piestiprināta ar virspusi zem zariem, bieži saaugot ar blakus esošajām cepurītēm. Mala ir viļņota, daivaina un jaunībā ieritināta. Sausā un blīvi tūbainā līdz smalki matiņainā virspuse sausā laikā ir bālgana līdz gaiši pelēka, bet mitrumā — tumšāka pelēkbrūna, reizēm vāji joslota, ar purpurīgu nokrāsu vai mikroskopisko aļģu dēļ zaļgana.",
+      "hymenium": "Retas, radiālas lapiņveida krokas — patiesībā saliktas auglīgās apakšvirsmas krokas, nevis īstās lapiņas —, kas ir bālganas, pelēcīgas, sārtpelēkas vai miesassārtas līdz purpurpelēkas. Katra kroka gar šķautni ir raksturīgi pāršķelta garenvirzienā divās daļās, kuras sausā laikā atliecas atpakaļ, noslēdzot auglīgo slāni, un samitrinoties atkal atveras. Bazīdijas ir vālesveida, 20–30 × 6–8 µm lielas, četrsporainas un ar pamatnes skavām; himēnija cistīdu nav.",
+      "stipe": "Nav, vai arī tas ir reducēts līdz ļoti īsam, rudimentāram sānu vai virspuses piestiprināšanās punktam, kas virs substrāta tikko saskatāms.",
+      "flesh": "Plāns, jaunībā un mitrumā lokans, bet ar vecumu vai izžūstot kļūst sīksts, ādains un stīvs; bālgans līdz gaiši brūngans, griezumā krāsu nemaina, bez izteiktas smaržas vai garšas.",
+      "sporePrint": "Balts līdz vāji sārts. Sporas ir gludas, plānsienainas, gandrīz cilindriskas līdz gandrīz elipsoīdas, 4–6,5 × 1,5–2,5 µm lielas (reizēm līdz 7 × 3 µm), KOH šķīdumā caurspīdīgas (hialīnas) un neamiloīdas.",
+      "habitat": "Saprotrofs — izraisot balto trupi — un reizēm brūču parazīts uz atmirušas vai novājinātas lapu koku koksnes (īpaši dižskābarža, ozola, alkšņa, bērza un liepas), retāk uz skujkokiem, zāģmateriāliem, ietītiem skābsiena ruļļiem vai cita augu materiāla. Ilggadīgie augļķermeņi saglabājas mēnešiem un ir atrodami visu gadu, pārciešot atkārtotus izžūšanas un samirkšanas ciklus.",
+      "uses": "Eiropā un Ziemeļamerikā parasti tiek uzskatīta par neēdamu sīkā izmēra un sīkstās, ādainās konsistences dēļ. Lai gan tā nav akūti indīga, daļā Meksikas, Gvatemalas, Juņnaņas, Ziemeļaustrumindijas un Madagaskaras to plaši ēd jaunu vai košļā, jo sīkstie augļķermeņi karstā un mitrā klimatā bojājas lēnāk. Tomēr jāievēro piesardzība, jo tā ir oportūnistisks cilvēka patogēns, kas cilvēkiem ar novājinātu imunitāti var izraisīt elpceļu vai deguna blakusdobumu infekcijas.",
+      "confusion": "Garenvirzienā pāršķeltās lapiņveida krokas tuvākā apskatē padara šo sugu nekļūdīgi atpazīstamu. Schizophyllum amplum ir mazāka, kausveida līdz ausveida, un tai pāršķelto kroku vietā ir gluda līdz vāji krunkaina apakšpuse. Ģints Crepidotus sugas ir mīkstas un gaļīgas, ar nepāršķeltām īstajām lapiņām un brūnu sporu nospiedumu. Panellus stipticus ir ar blīvām, nepāršķeltām okerkrāsas lapiņām, īsu sānu kātiņu un savelkošu garšu. Raibā tauriņpiepe (Trametes versicolor) un pūkainā sīkpiepe (Stereum hirsutum) uz koksnes veido joslotus konsolveida augļķermeņus, bet to apakšpusē pāršķelto kroku vietā ir sīkas poras vai gluda virsma.",
+      "notes": "Augļķermeņi spēj pārdzīvot gadus vai pat gadu desmitus ilgu izžūšanu un, tiklīdz tiek samitrināti, atsākt sporu izdalīšanu. Sugai ir tetrapolāra pārošanās sistēma ar diviem multialēliskiem lokusiem, kas rada vairāk nekā 23 000–28 000 pārošanās tipu, nodrošinot gandrīz pilnīgu svešapaugļošanos populācijās, lai gan molekulārie pētījumi liecina, ka tā var ietvert tuvu radniecīgu kriptisko sugu kompleksu. Virsmaktīvais proteīns hidrofobīns pirmo reizi tika izolēts no šīs sugas, tās genoms tika sekvenēts 2010. gadā, un visā pasaulē ir dokumentēti reti cilvēku bronhopulmonālās un deguna blakusdobumu mikozes gadījumi."
+    },
+    "nl": {
+      "description": "Een taaie, kleine, houtafbrekende paddenstoel die alleenstaand, in groepen of in dakpansgewijs boven elkaar geplaatste rijen op dood en verzwakt hout groeit. Als een van de meest wijdverspreide schimmels op aarde komt hij op elk continent voor behalve Antarctica en herleeft hij herhaaldelijk na langdurige uitdroging.",
+      "cap": "1–4 cm breed (soms vanaf 0,5 cm) en 0,3–1 cm dik, waaiervormig bij zijdelingse aanhechting aan hout of schelp- tot cirkelvormig bij rugdelingse aanhechting onder takken, vaak vergroeid met aangrenzende hoeden. De rand is gegolfd, gelobd en jong ingerold. De droge en dicht viltige tot fijn behaarde bovenzijde is droog witachtig tot bleekgrijs en vochtig donkerder grijsbruin, soms zwak gezoneerd, paarsig getint of groenachtig door microscopische algen.",
+      "hymenium": "Ver uiteenstaande, straalsgewijs gerangschikte plaatjesachtige ribbels — in werkelijkheid samengestelde plooien van het vruchtbare ondervlak en geen echte plaatjes — witachtig, grijsachtig, rozig-grijs of vleesroze tot paarsgrijs. Elke ribbel is over de lengte van de snede kenmerkend gespleten in twee helften die bij droog weer terugkrullen om de vruchtbare laag af te sluiten en bij bevochtiging weer opengaan. De basidiën zijn knotsvormig, 20–30 × 6–8 µm, viersporig en voorzien van basale gespen; hymeniale cystiden ontbreken.",
+      "stipe": "Ontbrekend of teruggebracht tot een zeer kort, rudimentair zijdelings of rugdelings aanhechtingspunt dat nauwelijks boven het substraat uitsteekt.",
+      "flesh": "Dun, jong en vochtig buigzaam, bij veroudering of indroging taai, leerachtig en stug wordend; witachtig tot bleek bruinachtig, bij doorsnijden niet verkleurend, zonder kenmerkende geur of smaak.",
+      "sporePrint": "Wit tot zwak rozig. De sporen zijn glad, dunwandig, bijna cilindrisch tot bijna ellipsoïd, 4–6,5 × 1,5–2,5 µm (soms tot 7 × 3 µm), hyalien in KOH en inamyloïd.",
+      "habitat": "Saprotroof — witrot veroorzakend — en soms als wondparasiet op dood of verzwakt loofhout (vooral beuk, eik, els, berk en linde), minder vaak op naaldhout, gekapt timmerhout, gewikkelde kuilbalen of ander plantaardig materiaal. De langlevende vruchtlichamen blijven maandenlang aanwezig en zijn het hele jaar door te vinden, waarbij ze herhaalde cycli van uitdroging en herbevochtiging doorstaan.",
+      "uses": "In Europa en Noord-Amerika wordt hij vanwege zijn geringe grootte en taaie, leerachtige textuur doorgaans als niet eetbaar beschouwd. Hoewel hij niet acuut giftig is, wordt hij in delen van Mexico, Guatemala, Yunnan, Noordoost-India en Madagaskar veel jong gegeten of gekauwd, waar taaie vruchtlichamen in een warm en vochtig klimaat minder snel bederven. Voorzichtigheid is geboden, aangezien hij een opportunistische ziekteverwekker bij de mens is die bij mensen met een verzwakt immuunsysteem luchtweg- of sinusinfecties kan veroorzaken.",
+      "confusion": "Door de overlangs gespleten plaatjesachtige ribbels is hij bij nadere beschouwing onmiskenbaar. Schizophyllum amplum is kleiner, kom- tot oorvormig, en heeft een gladde tot zwak gerimpelde onderzijde in plaats van gespleten ribbels. Soorten van het geslacht Crepidotus zijn zacht en vlezig met ongespleten echte plaatjes en een bruine sporenprint. Panellus stipticus heeft dicht opeenstaande, ongespleten oker-zeemleren plaatjes, een korte zijdelingse steel en een samentrekkende smaak. Trametes versicolor en Stereum hirsutum vormen gezoneerde consoles op hout, maar hun onderzijde draagt zeer fijne poriën of een glad oppervlak in plaats van gespleten ribbels.",
+      "notes": "Vruchtlichamen kunnen jaren of zelfs decennia van uitdroging overleven en na herbevochtiging weer sporen vrijgeven. De soort heeft een tetrapolair paringssysteem met twee multiallelische loci die meer dan 23.000–28.000 paringstypen opleveren, wat vrijwel algemene kruisbevruchting tussen populaties waarborgt, al wijzen moleculaire studies erop dat het mogelijk om een complex van nauw verwante cryptische soorten gaat. Het oppervlakte-actieve eiwit hydrofobine werd voor het eerst uit deze soort geïsoleerd, het genoom werd in 2010 gesequenced en wereldwijd zijn zeldzame gevallen van menselijke bronchopulmonale en sinusmycose gedocumenteerd."
+    },
+    "no": {
+      "description": "En seig, liten, vednedbrytende sopp som danner fruktlegemer enkeltvis, i grupper eller i taklagte, kjukeaktige etasjer på død og svekket ved. Den er blant de mest utbredte soppene på jorden, forekommer på alle kontinenter unntatt Antarktis og lever opp igjen gjentatte ganger etter langvarig uttørking.",
+      "cap": "1–4 cm bred (av og til fra 0,5 cm) og 0,3–1 cm tykk, vifteformet når den er sidestilt festet til ved, eller skjellformet til sirkelrund når den er festet på oversiden under greiner, ofte sammenvokst med nabohatter. Kanten er bølget, lappet og innrullet som ung. Den tørre og tett filtede til fint hårete oversiden er hvitaktig til blekgrå som tørr og mørkere gråbrun som fuktig, iblant svakt sonert, med purpuraktig skjær eller grønnlig av mikroskopiske alger.",
+      "hymenium": "Fjerne, utstrålende, skivelignende folder — egentlig sammensatte folder i den fertile undersiden snarere enn ekte skiver — som er hvitaktige, gråaktige, rosagrå eller kjøttrosa til purpurgrå. Hver fold er karakteristisk kløvd på langs langs eggen i to halvdeler som ruller seg tilbake for å lukke seg over det fertile laget i tørt vær og åpner seg igjen ved fuktighet. Basidiene er klubbeformede, 20–30 × 6–8 µm, firesporede og med basale klemmebøyler; hymeniale cystider mangler.",
+      "stipe": "Mangler, eller er redusert til et svært kort, rudimentært side- eller ryggstilt festepunkt som knapt er synlig over substratet.",
+      "flesh": "Tynt, bøyelig som ungt og fuktig, men blir seigt, læraktig og stivt med alderen eller ved tørking; hvitaktig til blekt brunlig, uforanderlig ved gjennomskjæring og uten særpreget lukt eller smak.",
+      "sporePrint": "Hvitt til svakt rosa. Sporene er glatte, tynnveggede, nesten sylindriske til nesten ellipsoide, 4–6,5 × 1,5–2,5 µm (av og til opptil 7 × 3 µm), hyaline i KOH og inamyloide.",
+      "habitat": "Saprotrof — der den forårsaker hvitråte — og av og til sårparasitt på død eller svekket løvved (særlig bøk, eik, or, bjørk og lind), sjeldnere på barved, skåret tømmer, innpakkede rundballer eller annet plantemateriale. De langlivede fruktlegemene holder seg i månedsvis og kan finnes året rundt, idet de overlever gjentatte sykluser med uttørking og oppbløting.",
+      "uses": "Regnes vanligvis som ikke matsopp i Europa og Nord-Amerika på grunn av den lille størrelsen og den seige, læraktige konsistensen. Selv om den ikke er akutt giftig, spises den som ung eller tygges i utstrakt grad i deler av Mexico, Guatemala, Yunnan, Nordøst-India og Madagaskar, der seige fruktlegemer ikke bederves like raskt i varmt og fuktig klima. Forsiktighet er likevel påkrevd, siden den er en opportunistisk humanpatogen som kan forårsake luftveis- eller bihuleinfeksjoner hos personer med nedsatt immunforsvar.",
+      "confusion": "De langskløvde, skivelignende foldene gjør arten umiskjennelig ved nærmere ettersyn. Schizophyllum amplum er mindre, skål- til øreformet og har en glatt til svakt rynket underside i stedet for kløvde folder. Arter i slekten Crepidotus er myke og kjøttfulle med ukløvde, ekte skiver og brunt sporeavtrykk. Panellus stipticus har tette, ukløvde okerbrune skiver, en kort sidestilt stilk og en snerpende smak. Silkekjuke (Trametes versicolor) og raggskinn (Stereum hirsutum) danner sonerte konsoller på ved, men undersiden deres har fine porer eller en glatt overflate i stedet for kløvde folder.",
+      "notes": "Fruktlegemene kan overleve år eller til og med tiår med uttørking og gjenoppta sporespredningen så snart de blir fuktige igjen. Arten har et tetrapolært paringssystem med to multialleliske loci som gir mer enn 23 000–28 000 paringstyper og sikrer nesten fullstendig utkryssing mellom populasjoner, selv om molekylære studier tyder på at den kan omfatte et kompleks av nærstående kryptiske arter. Det overflateaktive proteinet hydrofobin ble først isolert fra denne arten, genomet ble sekvensert i 2010, og sjeldne tilfeller av bronkopulmonal og sinonasal mykose hos mennesker er dokumentert over hele verden."
+    },
+    "pl": {
+      "description": "Niewielki, łykowaty grzyb rozkładający drewno, owocnikujący pojedynczo, w grupach lub w dachówkowato zachodzących na siebie skupieniach na martwym i osłabionym drewnie. Jest jednym z najbardziej rozpowszechnionych grzybów na Ziemi – występuje na wszystkich kontynentach oprócz Antarktydy i wielokrotnie ożywa po długotrwałym wyschnięciu.",
+      "cap": "Kapelusz o średnicy 1–4 cm (wyjątkowo od 0,5 cm) i grubości 0,3–1 cm, wachlarzowaty przy przyrośnięciu bocznym do drewna lub muszelkowaty do kolistego przy przyrośnięciu grzbietowym pod gałęziami, często zrośnięty z sąsiednimi kapeluszami. Brzeg jest falisty, klapowany i podwinięty za młodu. Górna powierzchnia jest sucha i gęsto filcowata do drobno owłosionej, w stanie suchym biaława do jasnoszarej, a w stanie wilgotnym ciemniejsza szarobrązowa, czasem słabo strefowana, z fioletowym odcieniem lub zielonkawa od mikroskopijnych glonów.",
+      "hymenium": "Rzadkie, promieniście ułożone fałdy przypominające blaszki – w rzeczywistości złożone fałdy płodnej dolnej powierzchni, a nie prawdziwe blaszki – są białawe, szarawe, różowoszare lub mięsnoróżowe do fioletowoszarych. Każdy fałd jest charakterystycznie rozszczepiony wzdłuż ostrza na dwie połówki, które podczas suchej pogody zwijają się z powrotem, zamykając warstwę zarodnikonośną, a po zawilgoceniu ponownie się otwierają. Podstawki maczugowate, 20–30 × 6–8 µm, czterozarodnikowe, ze sprzążkami u podstawy; cystyd hymenialnych brak.",
+      "stipe": "Trzonu brak lub jest zredukowany do bardzo krótkiego, szczątkowego bocznego albo grzbietowego punktu przyczepu, ledwo widocznego nad podłożem.",
+      "flesh": "Miąższ jest cienki, za młodu i w stanie wilgotnym giętki, z wiekiem lub po wyschnięciu staje się łykowaty, skórzasty i sztywny; białawy do jasnobrązowawego, niezmienny po przekrojeniu, bez wyraźnego zapachu i smaku.",
+      "sporePrint": "Wysyp zarodników biały do słabo różowawego. Zarodniki gładkie, cienkościenne, niemal cylindryczne do niemal elipsoidalnych, o wymiarach 4–6,5 × 1,5–2,5 µm (wyjątkowo do 7 × 3 µm), w KOH hialinowe i nieamyloidalne.",
+      "habitat": "Saprotrof – powodujący białą zgniliznę – i niekiedy pasożyt przyranny na martwym lub osłabionym drewnie drzew liściastych (zwłaszcza buka, dębu, olszy, brzozy i lipy), rzadziej na drzewach iglastych, ściętym drewnie, zafoliowanych belach sianokiszonki lub innej materii roślinnej. Długowieczne owocniki utrzymują się przez wiele miesięcy i można je spotkać przez cały rok, gdyż przetrwają wielokrotne cykle wysychania i ponownego nawodnienia.",
+      "uses": "W Europie i Ameryce Północnej uznawana jest na ogół za grzyb niejadalny ze względu na niewielkie rozmiary i twardą, skórzastą konsystencję. Choć nie jest silnie trująca, w części Meksyku, Gwatemali, Junnanu, północno-wschodnich Indii oraz na Madagaskarze jest powszechnie jadana za młodu lub żuta, ponieważ twarde owocniki wolniej psują się w gorącym i wilgotnym klimacie. Zalecana jest jednak ostrożność, ponieważ jest to oportunistyczny patogen człowieka zdolny wywoływać zakażenia dróg oddechowych lub zatok u osób z obniżoną odpornością.",
+      "confusion": "Podłużnie rozszczepione fałdy przypominające blaszki sprawiają, że przy bliższym obejrzeniu jest nie do pomylenia. Schizophyllum amplum jest mniejszy, miseczkowaty do uszkowatego i ma spodnią stronę gładką do słabo pomarszczonej zamiast rozszczepionych fałd. Gatunki z rodzaju ciżmówka (Crepidotus) są miękkie i mięsiste, mają nierozszczepione prawdziwe blaszki oraz brązowy wysyp zarodników. Łycznik oprószony (Panellus stipticus) ma gęste, nierozszczepione blaszki barwy ochrowopłowej, krótki boczny trzon i cierpki smak. Wrośniak różnobarwny (Trametes versicolor) i skórnik szorstki (Stereum hirsutum) tworzą na drewnie strefowane owocniki, lecz od spodu mają drobne pory lub gładką powierzchnię zamiast rozszczepionych fałd.",
+      "notes": "Owocniki mogą przetrwać lata, a nawet dziesięciolecia w stanie wysuszonym i po ponownym nawodnieniu wznowić uwalnianie zarodników. Ma tetrapolarny system kojarzenia z dwoma wieloallelicznymi loci tworzącymi ponad 23 000–28 000 typów płciowych, co zapewnia niemal powszechne krzyżowanie się w obrębie populacji, choć badania molekularne wskazują, że może stanowić kompleks blisko spokrewnionych gatunków kryptycznych. Z tego gatunku po raz pierwszy wyizolowano powierzchniowo czynne białko hydrofobinę, jego genom zsekwencjonowano w 2010 roku, a na całym świecie opisano rzadkie przypadki grzybicy oskrzelowo-płucnej i zatok u ludzi."
+    },
+    "pt": {
+      "description": "Cogumelo lignícola pequeno e rijo que frutifica isolado, em grupos ou em camadas imbricadas em forma de prateleira sobre madeira morta ou enfraquecida. Sendo um dos fungos mais amplamente distribuídos na Terra, ocorre em todos os continentes exceto na Antártida e revive repetidamente após secagem prolongada.",
+      "cap": "De 1–4 cm de largura (ocasionalmente desde 0,5 cm) e 0,3–1 cm de espessura, em forma de leque quando fixado lateralmente à madeira ou em forma de concha a circular quando fixado dorsalmente por baixo dos ramos, frequentemente fundido com chapéus adjacentes. A margem é ondulada, lobada e enrolada quando jovem. Seca e densamente feltrada a finamente peluda, a superfície superior é esbranquiçada a cinzento-pálida quando seca e castanho-acinzentada mais escura quando húmida, por vezes ligeiramente zonada, tingida de purpúreo ou esverdeada por algas microscópicas.",
+      "hymenium": "Pregas semelhantes a lâminas, espaçadas e radiantes — na verdade pregas compostas da face inferior fértil e não verdadeiras lâminas — esbranquiçadas, acinzentadas, cinzento-rosadas ou rosa-carne a cinzento-purpúreas. Cada prega é distintivamente fendida ao comprido ao longo do gume em duas metades que se enrolam para trás, fechando a camada fértil com tempo seco, e voltam a abrir quando humedecidas. Os basídios são claviformes, com 20–30 × 6–8 µm, tetraspóricos, com ansas de anastomose basais; os cistídios himeniais estão ausentes.",
+      "stipe": "Ausente ou reduzido a um ponto de fixação lateral ou dorsal muito curto e rudimentar, mal visível acima do substrato.",
+      "flesh": "Fina, flexível quando jovem e húmida, tornando-se rija, coriácea e rígida com a idade ou ao secar; esbranquiçada a acastanhado-pálida, imutável ao corte, sem odor nem sabor distintos.",
+      "sporePrint": "Branca a ligeiramente rosada. Os esporos são lisos, de parede fina, subcilíndricos a subelipsoides, com 4–6,5 × 1,5–2,5 µm (ocasionalmente até 7 × 3 µm), hialinos em KOH e inamiloides.",
+      "habitat": "Saprotrófico — causando podridão branca — e ocasionalmente parasita de feridas em madeira morta ou enfraquecida de folhosas (especialmente faia, carvalho, amieiro, bétula e tília), menos frequentemente em coníferas, madeira cortada, fardos de silagem envolvidos ou outra matéria vegetal. Os corpos frutíferos longevos persistem durante meses e podem ser encontrados todo o ano, sobrevivendo a ciclos repetidos de dessecação e re-hidratação.",
+      "uses": "Geralmente considerado não comestível na Europa e na América do Norte devido ao seu pequeno tamanho e à sua textura rija e coriácea. Embora não seja agudamente venenoso, é amplamente consumido jovem ou mastigado em partes do México, da Guatemala, de Yunnan, do Nordeste da Índia e de Madagáscar, onde corpos frutíferos rijos se deterioram menos rapidamente em climas quentes e húmidos. Impõe-se precaução, pois trata-se de um patógeno humano oportunista capaz de causar infeções respiratórias ou sinusais em pessoas imunocomprometidas.",
+      "confusion": "As pregas semelhantes a lâminas fendidas longitudinalmente tornam-no inconfundível numa inspeção atenta. Schizophyllum amplum é mais pequeno, em forma de taça a orelha, e possui uma face inferior lisa a ligeiramente enrugada em vez de pregas fendidas. As espécies de Crepidotus são moles e carnudas, com lâminas verdadeiras não fendidas e esporada castanha. Panellus stipticus apresenta lâminas apertadas, não fendidas, ocre-bege, um estipe lateral curto e sabor adstringente. Trametes versicolor e Stereum hirsutum formam prateleiras zonadas sobre madeira, mas a sua face inferior apresenta poros diminutos ou uma superfície lisa em vez de pregas fendidas.",
+      "notes": "Os corpos frutíferos podem sobreviver anos ou mesmo décadas de secagem e retomar a libertação de esporos após re-hidratação. Apresenta um sistema de acasalamento tetrapolar com dois loci multialélicos que geram mais de 23 000–28 000 tipos sexuais, assegurando uma fecundação cruzada quase universal entre populações, embora estudos moleculares sugiram que possa compreender um complexo de espécies crípticas estreitamente aparentadas. A proteína tensioativa hidrofobina foi isolada pela primeira vez nesta espécie, o seu genoma foi sequenciado em 2010 e casos raros de micoses broncopulmonares e sinusais humanas têm sido documentados em todo o mundo."
+    },
+    "ro": {
+      "description": "O ciupercă mică, tare și lignicolă, care fructifică solitar, în grupuri sau în etaje suprapuse în formă de console pe lemn mort și slăbit. Fiind una dintre cele mai răspândite ciuperci de pe Pământ, apare pe toate continentele cu excepția Antarctidei și revine repetat la viață după o uscare îndelungată.",
+      "cap": "Lat de 1–4 cm (uneori de la 0,5 cm) și gros de 0,3–1 cm, în formă de evantai când este prins lateral de lemn sau în formă de scoică până la circulară când este prins dorsal sub ramuri, adesea concrescut cu pălăriile vecine. Marginea este ondulată, lobată și răsfrântă spre interior în tinerețe. Uscată și dens pâsloasă până la fin păroasă, suprafața superioară este albicioasă până la cenușiu pal pe vreme uscată și cenușiu-brun mai închis la umezeală, uneori slab zonată, cu nuanțe purpurii sau verzuie din cauza algelor microscopice.",
+      "hymenium": "Pliuri lameliforme distanțate și radiante — în realitate pliuri compuse ale feței inferioare fertile, nu lamele adevărate — albicioase, cenușii, roz-cenușii sau roz-carne până la purpuriu-cenușii. Fiecare pliu este despicat caracteristic în lungime pe muchie în două jumătăți care se răsucesc înapoi pentru a închide stratul fertil pe vreme uscată și se redeschid la umezire. Bazidiile sunt clavate, de 20–30 × 6–8 µm, tetrasporice, cu fibule bazale; cistidele himeniale lipsesc.",
+      "stipe": "Absent sau redus la un punct de prindere lateral ori dorsal foarte scurt și rudimentar, abia vizibil deasupra substratului.",
+      "flesh": "Subțire, flexibilă în tinerețe și la umezeală, devenind tare, pieloasă și rigidă odată cu vârsta sau prin uscare; albicioasă până la brun pal, neschimbătoare la tăiere, fără miros sau gust distinct.",
+      "sporePrint": "Albă până la slab rozalie. Sporii sunt netezi, cu perete subțire, subcilindrici până la subelipsoidali, de 4–6,5 × 1,5–2,5 µm (ocazional până la 7 × 3 µm), hialini în KOH și inamiloizi.",
+      "habitat": "Saprotrofă — provocând putregai alb — și ocazional parazită de răni pe lemn mort sau slăbit de foioase (în special fag, stejar, arin, mesteacăn și tei), mai rar pe conifere, lemn tăiat, baloți de siloz înfoliați sau altă materie vegetală. Corpurile de fructificație longevive persistă luni de zile și pot fi găsite tot timpul anului, supraviețuind unor cicluri repetate de deshidratare și rehidratare.",
+      "uses": "În Europa și America de Nord este considerată în general necomestibilă din cauza dimensiunilor mici și a texturii tari, pieloase. Deși nu este otrăvitoare acut, este consumată pe scară largă în stare tânără sau mestecată în părți din Mexic, Guatemala, Yunnan, nord-estul Indiei și Madagascar, unde corpurile fructifere tari se alterează mai greu în climatele calde și umede. Se impune prudență, deoarece este un patogen uman oportunist capabil să provoace infecții respiratorii sau sinusale la persoanele imunocompromise.",
+      "confusion": "Pliurile lameliforme despicate longitudinal o fac de neconfundat la o examinare atentă. Schizophyllum amplum este mai mică, în formă de cupă până la ureche, și are partea inferioară netedă până la slab zbârcită, în loc de pliuri despicate. Speciile de Crepidotus sunt moi și cărnoase, cu lamele adevărate nedespicate și amprentă sporală brună. Panellus stipticus are lamele dese, nedespicate, ocru-gălbui, un picior lateral scurt și gust astringent. Trametes versicolor și Stereum hirsutum formează console zonate pe lemn, însă fața lor inferioară poartă pori mărunți ori o suprafață netedă în loc de pliuri despicate.",
+      "notes": "Corpurile de fructificație pot supraviețui ani sau chiar decenii de uscare și își reiau eliberarea sporilor odată rehidratate. Are un sistem de împerechere tetrapolar cu doi loci multialelici care generează peste 23.000–28.000 de tipuri sexuale, asigurând o încrucișare aproape universală între populații, deși studiile moleculare sugerează că ar putea cuprinde un complex de specii criptice strâns înrudite. Proteina tensioactivă hidrofobină a fost izolată pentru prima dată din această specie, genomul său a fost secvențiat în 2010, iar cazuri rare de micoză bronhopulmonară și sinusală la om au fost documentate în întreaga lume."
+    },
+    "ru": {
+      "description": "Жесткий небольшой дереворазрушающий гриб, плодоносящий одиночно, группами или черепитчатыми ярусами на мертвой и ослабленной древесине. Один из самых широко распространенных грибов на Земле: встречается на всех континентах, кроме Антарктиды, и многократно оживает после длительного высыхания.",
+      "cap": "1–4 см в поперечнике (иногда от 0,5 см) и 0,3–1 см толщиной, вееровидная при боковом прикреплении к древесине или раковиновидная до округлой при спинном прикреплении под ветвями, нередко срастается с соседними шляпками. Край волнистый, лопастный и подвернутый у молодых плодовых тел. Сухая и густо войлочная до тонковолосистой верхняя поверхность в сухую погоду беловато-серая или светло-серая, во влажную — более темно-серо-коричневая, иногда со слабой зональностью, лиловатым оттенком или зеленоватая от микроскопических водорослей.",
+      "hymenium": "Редкие, радиально расходящиеся пластинковидные складки — фактически сложные складки спороносной нижней поверхности, а не настоящие пластинки — беловатые, сероватые, розовато-серые или мясо-розовые до лиловато-серых. Каждая складка характерно расщеплена вдоль края на две половинки, которые в сухую погоду закручиваются внутрь, прикрывая спороносный слой, и вновь раскрываются при увлажнении. Базидии булавовидные, 20–30 × 6–8 мкм, четырехспоровые, с базальными пряжками; гимениальные цистиды отсутствуют.",
+      "stipe": "Отсутствует или сведена к очень короткому рудиментарному боковому либо спинному месту прикрепления, едва выступающему над субстратом.",
+      "flesh": "Тонкая, у молодых и влажных плодовых тел податливая, с возрастом или при высыхании становится жесткой, кожистой и плотной; беловатая до бледно-коричневатой, на срезе не изменяется, без выраженного запаха и вкуса.",
+      "sporePrint": "Белый до слабо-розоватого. Споры гладкие, тонкостенные, почти цилиндрические до почти эллипсоидных, 4–6,5 × 1,5–2,5 мкм (изредка до 7 × 3 мкм), гиалиновые в KOH, неамилоидные.",
+      "habitat": "Сапротроф, вызывающий белую гниль, и изредка раневой паразит на мертвой или ослабленной древесине лиственных пород (особенно бука, дуба, ольхи, березы и липы), реже на хвойных породах, заготовленной древесине, обмотанных силосных тюках или другом растительном материале. Долговечные плодовые тела сохраняются месяцами и встречаются круглый год, перенося многократные циклы высыхания и повторного увлажнения.",
+      "uses": "В Европе и Северной Америке обычно считается несъедобным из-за небольшого размера и жесткой кожистой консистенции. Хотя гриб не является остро ядовитым, его широко употребляют в пищу в молодом возрасте или жуют в некоторых регионах Мексики, Гватемалы, Юньнани, Северо-Восточной Индии и на Мадагаскаре, где жесткие плодовые тела медленнее портятся в жарком и влажном климате. Следует проявлять осторожность, поскольку это условно-патогенный для человека гриб, способный вызывать респираторные инфекции или поражения околоносовых пазух у людей с ослабленным иммунитетом.",
+      "confusion": "Продольно расщепленные пластинковидные складки делают вид безошибочно узнаваемым при внимательном осмотре. Schizophyllum amplum мельче, чашевидной или уховидной формы, а его нижняя сторона гладкая или слегка морщинистая вместо расщепленных складок. Виды рода Crepidotus мягкие и мясистые, с нерасщепленными настоящими пластинками и коричневым споровым порошком. Panellus stipticus имеет частые нерасщепленные охристо-буроватые пластинки, короткую боковую ножку и вяжущий вкус. Траметес разноцветный (Trametes versicolor) и Stereum hirsutum образуют зональные шляпки-консоли на древесине, но их нижняя поверхность несет мельчайшие поры либо остается гладкой вместо расщепленных складок.",
+      "notes": "Плодовые тела способны переживать годы и даже десятилетия высушивания и возобновлять высвобождение спор после увлажнения. Вид обладает тетраполярной системой спаривания с двумя полиаллельными локусами, образующими более 23 000–28 000 типов спаривания, что обеспечивает почти повсеместное перекрестное скрещивание в популяциях, хотя молекулярные исследования указывают на возможность существования комплекса близкородственных криптических видов. Из этого вида впервые был выделен поверхностно-активный белок гидрофобин, его геном секвенирован в 2010 году, а во всем мире задокументированы редкие случаи бронхолегочных микозов и микозов околоносовых пазух у человека."
+    },
+    "sl": {
+      "description": "Majhna, žilava gliva, ki razkraja les in obrodi posamično, v skupinah ali v strešičasto prekrivajočih se nadstropjih na odmrlem in oslabelem lesu. Spada med najbolj razširjene glive na Zemlji, saj se pojavlja na vseh celinah razen Antarktike in po dolgotrajni suši večkrat znova oživi.",
+      "cap": "Klobuk meri 1–4 cm v premeru (občasno od 0,5 cm) in 0,3–1 cm v debelino; kadar je na les priraščen bočno, je pahljačaste oblike, kadar pa je pod vejami priraščen s hrbtno stranjo, je školjkast do okrogel in pogosto zraščen s sosednjimi klobuki. Rob je valovit, krpast in v mladosti podvihan. Zgornja površina je suha ter gosto polstenasta do fino dlakava, v suhem stanju belkasta do bledo siva, v vlažnem pa temnejše sivo rjava, včasih rahlo pasasta, z vijoličastim nadihom ali zelenkasta zaradi mikroskopskih alg.",
+      "hymenium": "Redke, žarkasto razporejene gube, ki spominjajo na lističe – v resnici gre za sestavljene gube plodne spodnje strani, ne za prave lističe – so belkaste, sivkaste, rožnato sive ali mesno rožnate do vijoličasto sive. Vsaka guba je po dolžini roba značilno razcepljena na dve polovici, ki se v suhem vremenu zavihata nazaj, da prekrijeta plodno plast, in se ob navlažitvi ponovno odpreta. Bazidiji so kijasti, 20–30 × 6–8 µm, štiritrosni, z bazalnimi zaponkami; himenialnih cistid ni.",
+      "stipe": "Bet manjka ali pa je zakrnel v zelo kratek, rudimentaren stranski ali hrbtni pritrditveni del, ki je nad podlago komaj viden.",
+      "flesh": "Meso je tanko, v mladosti in vlažnem stanju prožno, s starostjo ali izsušitvijo pa postane žilavo, usnjato in togo; je belkasto do bledo rjavkasto, na prerezu nespremenljivo ter brez izrazitega vonja ali okusa.",
+      "sporePrint": "Trosni prah je bel do rahlo rožnat. Trosi so gladki, tankostenski, skoraj valjasti do skoraj elipsoidni, 4–6,5 × 1,5–2,5 µm (občasno do 7 × 3 µm), v KOH hialini in neamiloidni.",
+      "habitat": "Raste saprotrofno – povzroča belo trohnobo – in občasno kot ranski zajedavec na odmrlem ali oslabelem lesu listavcev (zlasti bukve, hrasta, jelše, breze in lipe), redkeje na iglavcih, žaganem lesu, ovitih silažnih balah ali drugi rastlinski snovi. Dolgoživi trosnjaki vztrajajo več mesecev in jih je mogoče najti vse leto, saj preživijo ponavljajoče se cikle izsušitve in ponovnega navlaženja.",
+      "uses": "V Evropi in Severni Ameriki velja zaradi majhne velikosti ter žilave, usnjate strukture praviloma za neužitno glivo. Čeprav ni akutno strupena, jo v delih Mehike, Gvatemale, Junana, severovzhodne Indije in na Madagaskarju mlado na široko jedo ali žvečijo, saj se žilavi trosnjaki v vročem in vlažnem podnebju manj hitro pokvarijo. Potrebna pa je previdnost, saj je oportunistični človeški patogen, ki lahko pri ljudeh z oslabljenim imunskim sistemom povzroči okužbe dihal ali obnosnih votlin.",
+      "confusion": "Zaradi vzdolžno razcepljenih gub, podobnih lističem, je ob natančnem pregledu nezamenljiva. Schizophyllum amplum je manjša, skledičasta do uhljasta in ima namesto razcepljenih gub gladko do rahlo nagubano spodnjo stran. Vrste rodu Crepidotus so mehke in mesnate z nerazcepljenimi pravimi lističi ter rjavim trosnim prahom. Panellus stipticus ima goste, nerazcepljene okrasto rjave lističe, kratek stranski bet in trpek okus. Pisana ploskocevka (Trametes versicolor) in Stereum hirsutum tvorita na lesu pasaste konzolice, vendar imata na spodnji strani drobne luknjice ali gladko površino namesto razcepljenih gub.",
+      "notes": "Trosnjaki lahko preživijo leta ali celo desetletja sušenja in po ponovnem navlaženju znova sproščajo trose. Ima tetrapolarni sistem parjenja z dvema večalelnima lokusoma, ki ustvarjata več kot 23.000–28.000 paritvenih tipov, kar zagotavlja skoraj splošno križanje med populacijami, čeprav molekularne raziskave nakazujejo, da morda obsega kompleks tesno sorodnih kriptičnih vrst. Iz te vrste so prvič izolirali površinsko aktivno beljakovino hidrofobin, njen genom so sekvencirali leta 2010, po svetu pa so bili zabeleženi redki primeri človeške bronhopulmonalne mikoze in mikoze obnosnih votlin."
+    },
+    "sr": {
+      "description": "Ситна, жилава лигниколна гљива која плодоноси појединачно, у групама или у црепасто поређаним спратовима на мртвом и ослабљеном дрвету. Једна је од најраспрострањенијих гљива на Земљи — јавља се на свим континентима осим Антарктика и вишекратно оживљава након дуготрајног исушивања.",
+      "cap": "Шешир је пречника 1–4 cm (повремено од 0,5 cm) и дебљине 0,3–1 cm, лепезаст када је бочно причвршћен за дрво или шкољкаст до кружан када је леђно причвршћен испод грана, често срастао са суседним шеширима. Ивица је таласаста, режњевита и у младости подвијена. Горња површина је сува и густо пустенаста до фино длакава, у сувом стању беличаста до бледосива, а у влажном тамнија сивосмеђа, понекад благо зонирана, са љубичастим преливом или зеленкаста од микроскопских алги.",
+      "hymenium": "Ретки, зракасто распоређени набори налик листићима — заправо сложени набори плодне доње стране, а не прави листићи — беличасти су, сивкасти, ружичастосиви или месноружичасти до љубичастосиви. Сваки набор је дуж ивице карактеристично расцепљен на две половине које се по сувом времену увијају уназад да прекрију плодни слој, а по влажењу се поново отварају. Базидије су батинасте, 20–30 × 6–8 µm, четвороспорне, са базалним копчама; хименијалне цистиде недостају.",
+      "stipe": "Дршка недостаје или је сведена на веома кратку, закржљалу бочну или леђну тачку причвршћивања, једва видљиву изнад подлоге.",
+      "flesh": "Месо је танко, у младости и влажном стању савитљиво, а са старошћу или исушивањем постаје жилаво, кожасто и круто; беличасто је до бледосмећкасто, непроменљиво на пресеку, без израженог мириса и укуса.",
+      "sporePrint": "Отисак спора је бео до благо ружичаст. Споре су глатке, танких зидова, скоро цилиндричне до скоро елипсоидне, 4–6,5 × 1,5–2,5 µm (повремено до 7 × 3 µm), хијалине у KOH и неамилоидне.",
+      "habitat": "Расте сапротрофно — изазивајући белу трулеж — а повремено и као паразит рана на мртвом или ослабљеном дрвету лишћара (нарочито букве, храста, јове, брезе и липе), ређе на четинарима, резаној грађи, умотаним балама силаже или другој биљној материји. Дуговечна плодна тела опстају месецима и могу се наћи током целе године, преживљавајући поновљене циклусе исушивања и поновног влажења.",
+      "uses": "У Европи и Северној Америци се углавном сматра нејестивом због ситне величине и жилаве, кожасте грађе. Иако није акутно отровна, у деловима Мексика, Гватемале, Јунана, североисточне Индије и на Мадагаскару често се једе млада или жваће, јер се жилава плодна тела спорије кваре у врућој и влажној клими. Међутим, потребан је опрез јер је опортунистички хумани патоген који може изазвати инфекције дисајних путева или синуса код особа са ослабљеним имунитетом.",
+      "confusion": "Уздужно расцепљени набори налик листићима чине је непогрешивом при пажљивом прегледу. Тополова цепача (Schizophyllum amplum) је мања, пехараста до уволика и има глатку до благо наборану доњу страну уместо расцепљених набора. Врсте рода Crepidotus су меке и меснате, са нерасцепљеним правим листићима и смеђим отиском спора. Panellus stipticus има густе, нерасцепљене окер-жућкасте листиће, кратку бочну дршку и опор укус. Ћуранов реп (Trametes versicolor) и Stereum hirsutum образују зониране конзоле на дрвету, али њихова доња страна носи ситне поре или глатку површину уместо расцепљених набора.",
+      "notes": "Плодна тела могу преживети године или чак деценије исушивања и поново ослобађати споре након влажења. Има тетраполарни систем парења са два мултиалелна локуса који стварају више од 23.000–28.000 типова парења, што обезбеђује готово универзално укрштање међу популацијама, иако молекуларне студије указују да може обухватати комплекс блиско сродних криптичних врста. Површински активан протеин хидрофобин први пут је изолован из ове врсте, њен геном је секвенциран 2010. године, а широм света су документовани ретки случајеви хумане бронхопулмоналне и синусне микозе."
+    },
+    "sv": {
+      "description": "En seg, liten, vednedbrytande svamp som växer enstaka, i grupper eller i taktegellagda, tickliknande våningar på död och försvagad ved. Den hör till de mest spridda svamparna på jorden, förekommer på alla kontinenter utom Antarktis och lever upp på nytt upprepade gånger efter långvarig uttorkning.",
+      "cap": "1–4 cm bred (ibland från 0,5 cm) och 0,3–1 cm tjock, solfjäderformad när den är sidofäst vid ved eller musselformad till rundad när den är fäst på ovansidan under grenar, ofta sammanvuxen med intilliggande hattar. Kanten är vågig, flikig och inrullad som ung. Den torra och tätt filtade till fint håriga ovansidan är vitaktig till ljusgrå som torr och mörkare gråbrun som fuktig, ibland svagt zonerad, med purpuraktig anstrykning eller grönaktig av mikroskopiska alger.",
+      "hymenium": "Glesa, radiärt ställda, skivlika veck — egentligen sammansatta veck av den fertila undersidan snarare än äkta skivor — vitaktiga, gråaktiga, rosagrå eller köttröda till purpurgrå. Varje veck är karaktäristiskt kluvet på längden längs eggen i två halvor som rullar sig bakåt för att sluta sig över det fertila skiktet i torrt väder och öppnar sig igen vid fukt. Basidierna är klubbformade, 20–30 × 6–8 µm, fyrsporiga och med basala söljor; hymeniala cystider saknas.",
+      "stipe": "Saknas, eller är reducerad till en mycket kort, rudimentär sido- eller ryggställd fästpunkt som knappt höjer sig över substratet.",
+      "flesh": "Tunt, böjligt som ungt och fuktigt, men blir segt, läderartat och styvt med åldern eller vid torkning; vitaktigt till blekt brunaktigt, oföränderligt vid snitt och utan utmärkande doft eller smak.",
+      "sporePrint": "Vitt till svagt rosafärgat. Sporerna är släta, tunnväggiga, nästan cylindriska till nästan ellipsoida, 4–6,5 × 1,5–2,5 µm (ibland upp till 7 × 3 µm), hyalina i KOH och inamyloida.",
+      "habitat": "Saprotrof — och orsakar vitröta — samt ibland sårparasit på död eller försvagad lövved (särskilt bok, ek, al, björk och lind), mer sällan på barrved, sågat virke, inplastade ensilagebalar eller annat växtmaterial. De långlivade fruktkropparna håller i månader och kan hittas året runt, då de överlever upprepade cykler av uttorkning och återfuktning.",
+      "uses": "Betraktas vanligen som oätlig i Europa och Nordamerika på grund av sin ringa storlek och sega, läderartade konsistens. Även om den inte är akut giftig äts den som ung eller tuggas i stor utsträckning i delar av Mexiko, Guatemala, Yunnan, nordöstra Indien och Madagaskar, där sega fruktkroppar inte förfars lika snabbt i varmt och fuktigt klimat. Försiktighet är dock befogad, eftersom den är en opportunistisk humanpatogen som kan orsaka luftvägs- eller bihåleinfektioner hos personer med nedsatt immunförsvar.",
+      "confusion": "De längskluvna, skivlika vecken gör arten omisskännlig vid närmare granskning. Schizophyllum amplum är mindre, skål- till öronformad och har en slät till svagt rynkig undersida i stället för kluvna veck. Arter i släktet Crepidotus är mjuka och köttiga med okluvna, äkta skivor och brunt sporavtryck. Panellus stipticus har täta, okluvna ockrabruna skivor, en kort sidofot och en sträv, sammandragande smak. Sidenticka (Trametes versicolor) och raggskinn (Stereum hirsutum) bildar zonerade konsoler på ved, men deras undersida har fina porer respektive en slät yta i stället för kluvna veck.",
+      "notes": "Fruktkropparna kan överleva år eller till och med årtionden av uttorkning och återuppta sporspridningen så snart de återfuktas. Arten har ett tetrapolärt parningssystem med två multialleliska loci som ger upphov till över 23 000–28 000 parningstyper och säkerställer nästan fullständig utavel mellan populationer, även om molekylära studier tyder på att den kan omfatta ett komplex av närstående kryptiska arter. Det ytaktiva proteinet hydrofobin isolerades för första gången från denna art, dess genom sekvenserades 2010 och sällsynta fall av bronkopulmonell mykos och bihålemykos hos människa har dokumenterats världen över."
+    },
+    "tr": {
+      "description": "Ölü ve zayıflamış odun üzerinde tek tek, gruplar halinde ya da üst üste binen raf biçimli katmanlar oluşturarak meyve veren sert, küçük, odun çürüten bir mantardır. Yeryüzündeki en yaygın mantarlardan biri olup Antarktika dışındaki her kıtada görülür ve uzun süreli kurumaların ardından defalarca yeniden canlanır.",
+      "cap": "1–4 cm çapında (zaman zaman 0,5 cm'den başlayarak) ve 0,3–1 cm kalınlığındadır; oduna yandan tutunduğunda yelpaze biçimli, dalların alt yüzeyine sırt noktasından tutunduğunda ise kabuk biçimliden dairemseye doğrudur ve sıklıkla komşu şapkalarla kaynaşır. Kenarı dalgalı, loplu ve gençken içe kıvrıktır. Kuru ve yoğun keçeliden ince tüylüye kadar değişen üst yüzey kuruyken beyazımsıdan soluk griye, nemliyken daha koyu gri-kahverengidir; bazen hafif kuşaklı, morumsu tonlu veya mikroskobik algler nedeniyle yeşilimsidir.",
+      "hymenium": "Seyrek, ışınsal dizilişli lamel benzeri kıvrımlar — gerçek lameller değil, verimli alt yüzeyin bileşik kıvrımları — beyazımsı, grimsi, pembemsi gri ya da et pembesinden morumsu griye kadar değişen renklerdedir. Her kıvrım kenarı boyunca belirgin biçimde boyuna iki yarıya yarılır; bu iki yarı kuru havalarda geriye kıvrılarak verimli tabakayı örter ve nemlendiğinde yeniden açılır. Bazidiyumlar çomak biçimli, 20–30 × 6–8 µm boyutlarında, dört sporlu ve taban kancalıdır; himenyal sistidyum bulunmaz.",
+      "stipe": "Yoktur ya da substratın üzerinde güçlükle seçilen çok kısa, körelmiş bir yan veya sırt tutunma noktasına indirgenmiştir.",
+      "flesh": "İnce, genç ve nemliyken esnek olup yaşlandıkça veya kurudukça sert, derimsi ve katı hale gelir; beyazımsıdan soluk kahverengimsiye değişir, kesildiğinde renk değiştirmez, belirgin bir kokusu ya da tadı yoktur.",
+      "sporePrint": "Beyaz ila hafif pembemsidir. Sporlar düz, ince çeperli, yarı silindirikten yarı elipsoite kadar değişen biçimde, 4–6,5 × 1,5–2,5 µm (nadiren 7 × 3 µm'ye kadar), KOH içinde hiyalin ve inamiloiddir.",
+      "habitat": "Ölü veya zayıflamış yapraklı ağaç odunlarında (özellikle kayın, meşe, kızılağaç, huş ve ıhlamur), daha seyrek olarak iğne yapraklılarda, kesilmiş kerestede, sarılı silaj balyalarında veya diğer bitkisel materyallerde beyaz çürüklüğe yol açan saprotrof ve zaman zaman yara parazitidir. Uzun ömürlü üreme yapıları aylarca kalıcıdır ve tekrarlayan kuruma ve yeniden nemlenme döngülerini atlatarak yıl boyunca bulunabilir.",
+      "uses": "Küçük boyutu ve sert, derimsi dokusu nedeniyle Avrupa ve Kuzey Amerika'da genellikle yenmez kabul edilir. Akut düzeyde zehirli olmasa da Meksika, Guatemala, Yunnan, Kuzeydoğu Hindistan ve Madagaskar'ın bazı bölgelerinde sert üreme yapılarının sıcak ve nemli iklimlerde daha geç bozulması nedeniyle gençken yaygın olarak yenir veya çiğnenir. Bağışıklık sistemi baskılanmış kişilerde solunum yolu veya sinüs enfeksiyonlarına yol açabilen fırsatçı bir insan patojeni olduğu için dikkatli olunmalıdır.",
+      "confusion": "Boyuna yarılmış lamel benzeri kıvrımları yakından incelendiğinde türün ayırt edilmesini kusursuz biçimde sağlar. Schizophyllum amplum daha küçüktür, kase ila kulak biçimlidir ve yarık kıvrımlar yerine düz veya hafif buruşuk bir alt yüzeye sahiptir. Crepidotus türleri yumuşak ve etlidir, yarılmamış gerçek lamellere ve kahverengi spor izine sahiptir. Panellus stipticus sık, yarılmamış koyu sarımsı bej lamellere, kısa bir yan sapa ve burucu bir tada sahiptir. Hindi kuyruğu mantarı (Trametes versicolor) ve Stereum hirsutum odun üzerinde kuşaklı raflar oluşturur, ancak alt yüzeylerinde yarık kıvrımlar yerine çok küçük gözenekler veya düz bir yüzey bulunur.",
+      "notes": "Üreme yapıları yıllarca, hatta on yıllarca süren kurumaya dayanabilir ve yeniden nemlendiğinde tekrar spor salmaya başlayabilir. İki çok alelli lokusa sahip tetrapolar eşleşme sistemi 23.000–28.000'den fazla eşleşme tipi üretir ve popülasyonlar arasında neredeyse evrensel dış döllenmeyi garanti eder; ancak moleküler çalışmalar yakın akraba kriptik türlerden oluşan bir kompleks barındırabileceğine işaret etmektedir. Yüzey aktif protein hidrofobin ilk kez bu türden izole edilmiştir, genomu 2010 yılında dizilenmiştir ve dünya genelinde insanlarda nadir bronkopulmoner ve sinüs mikozu vakaları belgelenmiştir."
+    },
+    "uk": {
+      "description": "Жорсткий невеликий дереворуйнівний гриб, що плодоносить поодинці, групами або перекритими поличкоподібними ярусами на мертвій та ослабленій деревині. Один із найпоширеніших грибів на Землі: трапляється на всіх континентах, крім Антарктиди, і багаторазово оживає після тривалого висихання.",
+      "cap": "1–4 см завширшки (інколи від 0,5 см) і 0,3–1 см завтовшки, віялоподібна при бічному прикріпленні до деревини або черепашкоподібна до округлої при спинному прикріпленні під гілками, часто зростається із сусідніми шапинками. Край хвилястий, лопатевий і загорнутий у молодих плодових тіл. Суха та густо повстиста до тонковолосистої верхня поверхня в суху погоду білувата до блідо-сірої, у вологу — темніша сіро-коричнева, іноді слабко зональна, із лілуватим відтінком або зеленкувата від мікроскопічних водоростей.",
+      "hymenium": "Рідкі, радіально розбіжні пластинкоподібні складки — насправді складні складки спороносної нижньої поверхні, а не справжні пластинки — білуваті, сіруваті, рожевувато-сірі або м'ясо-рожеві до лілувато-сірих. Кожна складка характерно розщеплена вздовж краю на дві половинки, які в суху погоду загинаються, закриваючи спороносний шар, і знову розкриваються при зволоженні. Базидії булавоподібні, 20–30 × 6–8 мкм, чотириспорові, із базальними пряжками; гіменіальні цистиди відсутні.",
+      "stipe": "Відсутня або зведена до дуже короткої рудиментарної бічної чи спинної точки прикріплення, ледь помітної над субстратом.",
+      "flesh": "Тонкий, у молодому та вологому стані податливий, з віком або при висиханні стає жорстким, шкірястим і твердим; білуватий до блідо-коричнюватого, на розрізі не змінюється, без виразного запаху чи смаку.",
+      "sporePrint": "Білий до слабко-рожевуватого. Спори гладенькі, тонкостінні, майже циліндричні до майже еліпсоїдних, 4–6,5 × 1,5–2,5 мкм (зрідка до 7 × 3 мкм), гіалінові в KOH, неамілоїдні.",
+      "habitat": "Сапротрофний вид, що спричиняє білу гниль, та зрідка рановий паразит на мертвій або ослабленій деревині листяних порід (особливо бука, дуба, вільхи, берези й липи), рідше на хвойних породах, заготовленій деревині, обмотаних силосних тюках чи іншому рослинному матеріалі. Довговічні плодові тіла зберігаються місяцями й трапляються цілий рік, витримуючи багаторазові цикли висихання та повторного зволоження.",
+      "uses": "У Європі та Північній Америці зазвичай вважається неїстівним через невеликий розмір і жорстку шкірясту консистенцію. Хоча гриб не є гостро отруйним, його широко споживають молодим або жують у частинах Мексики, Гватемали, Юньнані, Північно-Східної Індії та на Мадагаскарі, де жорсткі плодові тіла повільніше псуються в спекотному й вологому кліматі. Потрібна обережність, оскільки це умовно-патогенний для людини гриб, здатний спричиняти респіраторні інфекції або інфекції носових пазух у людей з ослабленим імунітетом.",
+      "confusion": "Поздовжньо розщеплені пластинкоподібні складки роблять гриб безпомилково впізнаваним при детальному огляді. Schizophyllum amplum дрібніший, чашоподібний до вухоподібного, із гладенькою або слабко зморшкуватою нижньою поверхнею замість розщеплених складок. Види роду Crepidotus м'які й м'ясисті, зі справжніми нерозщепленими пластинками та коричневим споровим порошком. Panellus stipticus має густі нерозщеплені охристо-буруваті пластинки, коротку бічну ніжку й терпкий смак. Траметес різнобарвний (Trametes versicolor) і Stereum hirsutum утворюють зональні поличкоподібні плодові тіла на деревині, проте на нижньому боці мають дрібні пори або гладеньку поверхню замість розщеплених складок.",
+      "notes": "Плодові тіла можуть переживати роки й навіть десятиліття висихання та відновлювати вивільнення спор після зволоження. Вид має тетраполярну систему спарювання з двома мультиалельними локусами, що утворюють понад 23 000–28 000 типів спарювання й забезпечують майже повсюдне перехресне схрещування в популяціях, хоча молекулярні дослідження вказують на можливість існування комплексу близькоспоріднених криптичних видів. Із цього виду вперше виділили поверхнево-активний білок гідрофобін, його геном секвенували у 2010 році, а у світі задокументовано поодинокі випадки бронхолегеневих мікозів і мікозів носових пазух у людини."
+    },
+    "zh": {
+      "description": "一種小型且強韌的木腐菇類，單生、群生或呈覆瓦狀層疊著生於枯死及衰弱的木材上。作為地球上分布最廣泛的真菌之一，除南極洲外遍及各大洲，且在長時間乾燥後仍可反覆吸水復甦。",
+      "cap": "菌蓋寬1–4 cm（偶見0.5 cm起）、厚0.3–1 cm，側生於木材時呈扇形，背生於枝條下方時呈貝殼形至近圓形，常與相鄰菌蓋癒合。邊緣波狀、具裂瓣，幼時向內捲曲。上表面乾燥且密被氈毛至微細絨毛，乾燥時呈帶白色至淡灰色，潮濕時呈較深的灰褐色，有時具不明顯環紋，帶淡紫色調或因顯微藻類附著而略帶綠色。",
+      "hymenium": "稀疏、呈放射狀排列的類菌褶構造——實為可孕下表面的複合褶皺而非真正的菌褶——呈帶白色、灰白色、粉灰色或肉粉紅色至紫灰色。每條褶皺的邊緣皆具獨特的縱向開裂，分為兩半，在乾燥天氣中向兩側反捲閉合以覆蓋可孕層，遇濕後則重新張開。擔子呈棍棒狀，20–30 × 6–8 µm，具4個孢子，基部有扣子體；無子實層囊狀體。",
+      "stipe": "無菌柄，或退化為極短小、殘跡狀的側生或背生附著點，僅略微顯露於基質表面。",
+      "flesh": "菌肉薄，幼嫩且潮濕時柔韌，隨成熟或乾燥而變得強韌、革質且堅硬；帶白色至淡褐白色，切開後不變色，無特殊氣味或味道。",
+      "sporePrint": "白色至略帶淡粉紅色。孢子平滑、薄壁、近圓柱形至近橢圓形，4–6.5 × 1.5–2.5 µm（偶達7 × 3 µm），在KOH中呈無色透明，非澱粉質。",
+      "habitat": "腐生——引起白色腐朽——偶爾作為傷口寄生菌生長於枯死或衰弱的闊葉樹木材上（尤以山毛櫸、櫟樹、榿木、樺木與椴樹為主），較少見於針葉樹、採伐木材、塑膠膜包裹的青貯飼料捲或其他植物物質上。壽命長的子實體可存留數月之久，能承受反覆的乾燥與再水合循環，全年皆可發現。",
+      "uses": "由於體型細小且質地強韌革質，在歐洲與北美洲通常被視為不可食。雖然不具急性毒性，但在墨西哥、瓜地馬拉、雲南、印度東北部與馬達加斯加部分地區，幼嫩子實體常被廣泛食用或咀嚼，因為強韌的子實體在炎熱潮濕的氣候下較不易腐敗。然而仍須謹慎，因其屬於伺機性人類病原菌，可能導致免疫力低下者出現呼吸道或鼻竇感染。",
+      "confusion": "縱向開裂的類菌褶構造使其在仔細檢視下極易辨認而不會混淆。Schizophyllum amplum體型較小，呈杯狀至耳狀，下表面平滑至微具皺紋而非開裂的褶皺。Crepidotus屬物種質地柔軟肉質，具不開裂的真菌褶與褐色孢子印。Panellus stipticus具有密集、不開裂的赭黃褐色菌褶、短側生菌柄與收斂性澀味。Trametes versicolor與Stereum hirsutum在木材上形成具環紋的棚狀子實體，但其下表面具微細孔口或呈平滑狀，而非開裂的褶皺。",
+      "notes": "子實體在乾燥數年甚至數十年後仍能存活，一旦重新吸水即可恢復釋放孢子。其具有四極性交配系統，由兩個多對偶基因座產生超過23,000–28,000種交配型，確保族群間幾乎完全的異交，但分子生物學研究顯示該物種可能實為數個親緣極近的隱蔽種組成的複合群。表面活性蛋白疏水蛋白（hydrophobin）最初即自本種分離，其基因體於2010年完成定序，世界各地亦曾記錄人類支氣管肺部及鼻竇黴菌感染的罕見病例。"
+    }
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=208403",
+        "detail": "208403"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=208403",
+        "detail": "208403"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241128",
+        "detail": "5241128"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/79WX9"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Schizophyllum_commune"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q941733"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/schizophyllum-commune.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert.Com",
+        "href": "https://www.mushroomexpert.com/schizophyllum_commune.html"
+      },
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Schizophyllum-commune/"
+      },
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Schizophyllum&espece=commune"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Schizophyllum_commune"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Gemeiner_Spaltbl%C3%A4ttling",
+        "detail": "de"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/Klanol%C3%ADstka_obecn%C3%A1",
+        "detail": "cs"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%A9%D0%B5%D0%BB%D0%B5%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+        "detail": "ru"
+      }
+    ],
+    "ar": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ar.wikipedia.org/wiki/%D8%B2%D8%A7%D9%85%D8%AD_%D8%B4%D8%A7%D8%A6%D8%B9",
+        "detail": "ar"
+      }
+    ],
+    "bg": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241128",
+        "detail": "5241128"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q941733"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Schizophyllum-commune/"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/Klanol%C3%ADstka_obecn%C3%A1",
+        "detail": "cs"
+      }
+    ],
+    "da": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241128",
+        "detail": "5241128"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Gemeiner_Spaltbl%C3%A4ttling",
+        "detail": "de"
+      }
+    ],
+    "es": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://es.wikipedia.org/wiki/Schizophyllum_commune",
+        "detail": "es"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/L%C3%B5hislehik",
+        "detail": "et"
+      }
+    ],
+    "fa": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B2%D9%88%D9%81%DB%8C%D9%84%D9%88%D9%85_%D8%A8%D8%B1%D8%B2%D9%86",
+        "detail": "fa"
+      }
+    ],
+    "fi": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fi.wikipedia.org/wiki/Halkiheltta",
+        "detail": "fi"
+      }
+    ],
+    "fr": [
+      {
+        "group": "text",
+        "name": "MycoDB",
+        "href": "https://www.mycodb.fr/fiche.php?genre=Schizophyllum&espece=commune"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fr.wikipedia.org/wiki/Schizophyllum_commune",
+        "detail": "fr"
+      }
+    ],
+    "he": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241128",
+        "detail": "5241128"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Hasadtlemez%C5%B1_gomba",
+        "detail": "hu"
+      }
+    ],
+    "id": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://id.wikipedia.org/wiki/Jamur_gerigit",
+        "detail": "id"
+      }
+    ],
+    "it": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://it.wikipedia.org/wiki/Schizophyllum_commune",
+        "detail": "it"
+      }
+    ],
+    "ja": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A8%E3%83%92%E3%83%AD%E3%82%BF%E3%82%B1",
+        "detail": "ja"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Schizophyllum_commune"
+      }
+    ],
+    "ko": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ko.wikipedia.org/wiki/%EC%B9%98%EB%A7%88%EB%B2%84%EC%84%AF",
+        "detail": "ko"
+      }
+    ],
+    "lt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lt.wikipedia.org/wiki/Paprastoji_alksniabud%C4%97",
+        "detail": "lt"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Schizophyllum_commune"
+      }
+    ],
+    "lv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lv.wikipedia.org/wiki/Parast%C4%81_skaldlap%C4%ABte",
+        "detail": "lv"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Waaiertje_(paddenstoel)",
+        "detail": "nl"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Schizophyllum_commune"
+      }
+    ],
+    "no": [
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241128",
+        "detail": "5241128"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Rozszczepka_pospolita",
+        "detail": "pl"
+      }
+    ],
+    "ro": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ro.wikipedia.org/wiki/Schizophyllum_commune",
+        "detail": "ro"
+      }
+    ],
+    "ru": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%A9%D0%B5%D0%BB%D0%B5%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
+        "detail": "ru"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Schizophyllum_commune"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sl.wikipedia.org/wiki/Navadna_cepilistka",
+        "detail": "sl"
+      }
+    ],
+    "sr": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sr.wikipedia.org/wiki/Schizophyllum_commune",
+        "detail": "sr"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/5241128",
+        "detail": "5241128"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Klyvblad",
+        "detail": "sv"
+      }
+    ],
+    "uk": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D1%89%D0%B5%D0%BF%D0%BA%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0",
+        "detail": "uk"
+      }
+    ],
+    "zh": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://zh.wikipedia.org/wiki/%E8%A3%82%E8%A4%B6%E8%8F%8C",
+        "detail": "zh"
+      },
+      {
+        "group": "name",
+        "name": "Wikispecies",
+        "href": "https://species.wikimedia.org/wiki/Schizophyllum_commune"
+      }
+    ]
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus alneus",
+      "author": "L.",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus multifidus",
+      "author": "Batsch",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus radiatus",
+      "author": "Sw.",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus villosocanescens",
+      "author": "Baumg.",
+      "rank": "species"
+    },
+    {
+      "name": "Merulius alneus",
+      "author": "(L.) J.F. Gmel.",
+      "rank": "species"
+    },
+    {
+      "name": "Agaricus radians",
+      "author": "J.F. Gmel.",
+      "rank": "species"
+    },
+    {
+      "name": "Hyponevris multifida",
+      "author": "Paulet",
+      "rank": "species"
+    },
+    {
+      "name": "Scaphophorum agaricoides",
+      "author": "Ehrenb.",
+      "rank": "species"
+    },
+    {
+      "name": "Apus alneus",
+      "author": "(L.) Gray",
+      "rank": "species"
+    },
+    {
+      "name": "Schizonia vulgaris",
+      "author": "Pers.",
+      "rank": "species"
+    },
+    {
+      "name": "Pleuropus alneus",
+      "author": "(L.) Zaw.",
+      "rank": "species"
+    },
+    {
+      "name": "Schizophyllum radiatum",
+      "author": "(Sw.) Fr.",
+      "rank": "species"
+    },
+    {
+      "name": "Daedalea communis",
+      "author": "(Fr.) P. Kumm.",
+      "rank": "species"
+    },
+    {
+      "name": "Schizophyllum multifidum",
+      "author": "(Batsch) Fr.",
+      "rank": "species"
+    },
+    {
+      "name": "Schizophyllum alneum",
+      "author": "(L.) J. Schröt.",
+      "rank": "species"
+    },
+    {
+      "name": "Schizophyllum murrayi",
+      "author": "Massee",
+      "rank": "species"
+    },
+    {
+      "name": "Schizophyllum egelingianum",
+      "author": "Ellis & Everh.",
+      "rank": "species"
+    },
+    {
+      "name": "Hyponevris alneus",
+      "author": "(L.) Earle",
+      "rank": "species"
+    },
+    {
+      "name": "Merulius communis",
+      "author": "(Fr.) Spirin & Zmitr.",
+      "rank": "species"
+    },
+    {
+      "name": "Schizophyllus communis",
+      "author": "Fr.",
+      "rank": "species"
+    }
+  ]
+},
+{
+  "id": 232,
+  "name": "Helvella lacunosa",
+  "author": "Afzel.",
+  "family": "Helvellaceae",
+  "genus": "Helvella",
+  "order": "Pezizales",
+  "edibility": "poisonous",
+  "hymenium": "smooth",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "dark"
+  ],
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Helvellaceae",
+    "Helvella"
+  ],
+  "summary": [
+    "Pezizales",
+    "Helvellaceae",
+    "Helvella"
+  ],
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "generated",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa_1.webp",
+      "author": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gruben_lorchel_Helvella_lacunosa.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa_2.webp",
+      "author": "Anneli Salo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Helvella_lacunosa_-_Mustam%C3%B6rsky%2C_Svart_hattmurkla%2C_Slate_grey_saddle_C_IMG_0362.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa_3.webp",
+      "author": "Anneli Salo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Helvella_lacunosa_-_Mustam%C3%B6rsky%2C_Svart_hattmurkla%2C_Slate_grey_saddle_C_IMG_7760.JPG"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa_4.webp",
+      "author": "gillessanmartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Helvella_lacunosa_197390310.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Helvellaceae/Helvella_lacunosa/Helvella_lacunosa_5.webp",
+      "author": "Thomas Pruß",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Grubenlorchel.jpg"
+    }
+  ],
+  "capFrom": 2,
+  "capTo": 6,
+  "stipeHeightFrom": 3,
+  "stipeHeightTo": 10,
+  "stipeThickFrom": 1,
+  "stipeThickTo": 3,
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
+  "label": {
+    "en": "slate grey saddle",
+    "sk": "chriapač jamkatý",
+    "ar": "هلفيلة غائرة",
+    "bg": "сиво-черна бучка",
+    "zh": "多窪馬鞍菌",
+    "hr": "jamičavi hrčak",
+    "cs": "chřapáč jamkatý",
+    "da": "grubet foldhat",
+    "nl": "zwarte kluifzwam",
+    "et": "tume helvell",
+    "fi": "mustamörsky",
+    "fr": "helvelle lacuneuse",
+    "de": "Gruben-Lorchel",
+    "hu": "szürke papsapkagomba",
+    "ja": "クロノボリリュウ",
+    "ko": "안장버섯",
+    "lv": "dobais rumpucis",
+    "lt": "urvuotoji alvytė",
+    "no": "mørk høstmorkel",
+    "pl": "piestrzyca zatokowata",
+    "ro": "zbârciog negru",
+    "ru": "лопастник бороздчатый",
+    "sl": "jamičasti loputar",
+    "es": "oreja de gato",
+    "sv": "svart hattmurkla",
+    "uk": "гельвела лакуноса"
+  },
+  "names": {
+    "en": [
+      "fluted black elfin saddle",
+      "elfin saddle"
+    ],
+    "bg": [
+      "сива дипленка",
+      "яместа бучка"
+    ],
+    "zh": [
+      "稜柄馬鞍菌"
+    ],
+    "de": [
+      "Grubenlorchel"
+    ],
+    "ja": [
+      "クロノボリリュウタケ"
+    ],
+    "ko": [
+      "검은안장버섯"
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A dark summer and autumn ascomycete that fruits singly or in small groups on soil and burnt ground in deciduous, coniferous, and mixed woodlands, as well as parks and mossy clearings. Originally described from Europe, where it is widespread from Scandinavia to the Mediterranean, it has also been reported from Asia and eastern North America.",
+      "cap": "The cap is 2–6 cm across (occasionally 1–10 cm), irregularly saddle-shaped or mitre-shaped with two to four contorted, folded lobes. The margin is typically attached or fused to the stipe in several places. The upper surface is smooth to slightly wrinkled and slate grey, dark grey, brownish grey, or charcoal black, while rare albino forms are whitish. The sterile underside is paler whitish to ash grey and smooth to faintly pruinose rather than densely downy.",
+      "hymenium": "The spore-bearing layer covers the smooth to lightly wrinkled upper surface of the cap, with no gills, pores, or pits. The cylindrical asci measure 200–340 × 10–16 µm and each contains eight ascospores, accompanied by cylindrical paraphyses about 2.5–10 µm wide with rounded to slightly swollen tips.",
+      "stipe": "The stipe is 3–10 cm tall (occasionally up to 15 cm) and 1–3 cm thick, roughly cylindrical or slightly broadened at the base. It is whitish when young, soon becoming pale ash grey, grey-brown, or dark grey, and is deeply sculpted by sharp longitudinal ribs, cross-bridges, and elongated oval pockets, with several hollow chambers inside.",
+      "flesh": "The flesh is thin and brittle in the cap and waxy to cartilaginous or tough-elastic in the stipe, whitish to pale grey, with no colour change when cut. The taste is mild and unremarkable; the odour is faint and indistinct, sometimes pleasantly spicy in young specimens and dull or earthy in old ones.",
+      "sporePrint": "The spore print is white. The ascospores are broadly ellipsoid, smooth, and colourless, measuring 15–20 × 10–13 µm (occasionally 13–21 × 9–14 µm), each containing a single large central oil droplet.",
+      "habitat": "It grows on soil, among leaf litter, in moss, or in short grass in moist deciduous, coniferous, and mixed forests—often under oak, beech, or pine—as well as along woodland paths, on disturbed ground, in parks, and frequently on burnt soil. Likely ectomycorrhizal, it fruits from May to November, peaking in late summer and autumn.",
+      "uses": "Older guides and some European atlases treat it as edible after thorough cooking or parboiling, usually using only the caps in soups, though it is generally regarded as poor in flavour and texture. However, it causes gastrointestinal upset if eaten raw or undercooked and is suspected of containing gyromitrin-related compounds that release monomethylhydrazine, so modern toxicological guidance advises against eating it.",
+      "confusion": "Helvella crispa has a creamy-white to pale ochre cap with free margins and a finely downy underside, separating it even from rare pale forms. Helvella elastica, Helvella atra, and Helvella spadicea all have smooth, unribbed cylindrical stipes. Helvella phlebophora bears prominent ribs extending onto the cap underside. Gyromitra infula has a reddish-brown, saddle- or brain-like cap on a smooth stipe, and Morchella species have honeycomb-pitted caps and fruit in spring.",
+      "notes": "DNA studies show that true Helvella lacunosa is a boreal and temperate European species; similar dark fluted saddles in North America belong to a complex of at least eleven distinct phylogenetic species, including Helvella vespertina under conifers and Helvella dryophila under oaks in the west. Fruit bodies are occasionally parasitized by Hypomyces cervinigenus or Clitocybe sclerotoidea."
+    },
+    "sk": {
+      "description": "Tmavá letná a jesenná vreckatá huba, ktorá vyrastá jednotlivo alebo v malých skupinách na pôde a spáleniskách v listnatých, ihličnatých aj zmiešaných lesoch, ako aj v parkoch a na machnatých čistinkách. Pôvodne bola opísaná z Európy, kde je široko rozšírená od Škandinávie po Stredomorie, a uvádza sa aj z Ázie a východnej Severnej Ameriky.",
+      "cap": "Klobúk má priemer 2–6 cm (zriedkavo 1–10 cm) a je nepravidelne sedlovitý alebo mitrovitý s dvoma až štyrmi pokrútenými, poprehýbanými lalokmi. Okraj je zvyčajne na viacerých miestach prirastený alebo zrastený s hlúbikom. Vrchný povrch je hladký až slabo vráskavý, bridlicovosivý, tmavosivý, hnedosivý alebo uhlovočierny, zatiaľ čo vzácne albinotické formy sú belavé. Sterilná spodná strana je svetlejšia, belavá až popolavosivá, hladká až jemne oinovatená, nie husto plstnatá.",
+      "hymenium": "Výtrusorodá vrstva pokrýva hladký až slabo vráskavý vrchný povrch klobúka bez lupeňov, rúrok či jamiek. Valcovité vrecká merajú 200–340 × 10–16 µm, každé obsahuje osem askospór a sprevádzajú ich valcovité parafýzy široké približne 2,5–10 µm so zaoblenými až slabo kyjakovito zhrubnutými koncami.",
+      "stipe": "Hlúbik je vysoký 3–10 cm (zriedkavo do 15 cm) a hrubý 1–3 cm, zhruba valcovitý alebo na báze mierne rozšírený. Za mladi je belavý, čoskoro sa sfarbuje do svetlo popolavosiva, sivohneda až tmavosiva a je hlboko rozbrázdený ostrými pozdĺžnymi rebrami, priečnymi spojkami a pretiahnutými oválnymi jamkami, pričom vnútri má niekoľko dutých komôrok.",
+      "flesh": "Dužina je v klobúku tenká a krehká, v hlúbiku voskovitá až chrupavkovitá alebo tuho pružná, belavá až svetlosivá a na reze nemení farbu. Chuť je mierna a nevýrazná; vôňa je slabá a neurčitá, u mladých plodníc občas príjemne korenistá, u starších zatuchnutá alebo zemitá.",
+      "sporePrint": "Výtrusný prach je biely. Askospóry sú široko elipsoidné, hladké a bezfarebné, s rozmermi 15–20 × 10–13 µm (zriedkavo 13–21 × 9–14 µm), každá obsahuje jednu veľkú centrálnu tukovú kvapku.",
+      "habitat": "Rastie na pôde, v opadanom lístí, v machu alebo v nízkej tráve vo vlhkých listnatých, ihličnatých aj zmiešaných lesoch – často pod dubmi, bukmi alebo borovicami –, ako aj popri lesných cestách, na narušenej pôde, v parkoch a nezriedka na spáleniskách. Pravdepodobne je ektomykorízna a plodí od mája do novembra s vrcholom koncom leta a na jeseň.",
+      "uses": "Staršie príručky a niektoré európske atlasy ju uvádzajú ako jedlú po dôkladnej tepelnej úprave alebo obvarení, zvyčajne s použitím samotných klobúkov do polievok, hoci sa všeobecne považuje za málo hodnotnú chuťou aj konzistenciou. Pri konzumácii za surova alebo nedostatočne tepelne upravená však vyvoláva tráviace ťažkosti a existuje podozrenie, že obsahuje zlúčeniny príbuzné gyromitrínu, z ktorých sa uvoľňuje monometylhydrazín, preto moderné toxikologické odporúčania jej konzumáciu neodporúčajú.",
+      "confusion": "Helvella crispa má krémovobiely až bledo okrový klobúk s voľnými okrajmi a jemne plstnatou spodnou stranou, čím sa odlišuje aj od vzácnych bledých foriem. Helvella elastica, Helvella atra a Helvella spadicea majú hladký, nerebrovaný valcovitý hlúbik. Helvella phlebophora má výrazné rebrá prechádzajúce až na spodnú stranu klobúka. Gyromitra infula má červenohnedý, sedlovitý alebo mozgovito poprehýbaný klobúk na hladkom hlúbiku a druhy rodu Morchella majú klobúk s jamkami pripomínajúcimi včelí plást a rastú na jar.",
+      "notes": "Štúdie DNA ukazujú, že pravá Helvella lacunosa je boreálny a temperátny európsky druh; podobné tmavé druhy s rebrovaným hlúbikom v Severnej Amerike patria do komplexu najmenej jedenástich samostatných fylogenetických druhov vrátane Helvella vespertina pod ihličnanmi a Helvella dryophila pod dubmi na západe kontinentu. Plodnice občas parazituje Hypomyces cervinigenus alebo Clitocybe sclerotoidea."
+    },
+    "ar": {
+      "description": "فطر زقي داكن صيفي وخريفي يُثمر منفردًا أو في مجموعات صغيرة على التربة والأراضي المحروقة في الغابات النفضية والصنوبرية والمختلطة، وكذلك في المتنزهات والفسحات المكسوة بالطحالب. وُصف أصلًا من أوروبا، حيث ينتشر على نطاق واسع من إسكندنافيا إلى حوض البحر المتوسط، كما سُجل في آسيا وشرق أمريكا الشمالية.",
+      "cap": "يبلغ قطر القبعة ٢–٦ cm (وأحيانًا ١–١٠ cm)، وهي غير منتظمة تشبه السرج أو التاج الأسقفي، ولها فصّان إلى أربعة فصوص ملتوية ومطوية. تكون الحافة عادةً متصلة أو ملتحمة بالساق في عدة مواضع. السطح العلوي أملس إلى مجعد قليلًا، ولونه رمادي أردوازي أو رمادي داكن أو رمادي بني أو أسود فحمي، بينما تكون الأشكال المهقاء النادرة مائلة إلى البياض. أما السطح السفلي العقيم فأفتح لونًا من الأبيض الباهت إلى الرمادي الرمادي، وهو أملس إلى مغبّر قليلًا وليس مغطى بزغب كثيف.",
+      "hymenium": "تغطي الطبقة الحاملة للأبواغ السطح العلوي الأملس إلى المجعد قليلًا من القبعة، دون صفائح أو مسام أو حفر. تبلغ أبعاد الأكياس الزقية الأسطوانية ٢٠٠–٣٤٠ × ١٠–١٦ µm، ويحتوي كل منها على ثمانية أبواغ زقية، وترافقها خيوط عقيمة أسطوانية (بارافيزات) بعرض نحو ٢٫٥–١٠ µm ذات أطراف مستديرة إلى منتفخة قليلًا.",
+      "stipe": "يبلغ طول الساق ٣–١٠ cm (وأحيانًا حتى ١٥ cm) وسماكتها ١–٣ cm، وهي أسطوانية تقريبًا أو متسعة قليلًا عند القاعدة. تكون مائلة إلى البياض في الصغر ثم تتحول سريعًا إلى رمادي رمادي باهت أو بني رمادي أو رمادي داكن، وهي محفورة بعمق بأضلاع طولية حادة وجسور عرضية وجيوب بيضاوية مستطيلة، وتحتوي في داخلها على عدة تجاويف مجوفة.",
+      "flesh": "اللحم رقيق وهش في القبعة، وشمعي إلى غضروفي أو مرن متماسك في الساق، ولونه أبيض مائل إلى الرمادي الباهت ولا يتغير عند القطع. الطعم خفيف وغير مميز؛ أما الرائحة فضئيلة وغير واضحة، وتكون أحيانًا عطرية لطيفة في العينات الفتية وباهتة أو ترابية في العينات المسنة.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ الزقية إهليلجية عريضة وملساء وعديمة اللون، أبعادها ١٥–٢٠ × ١٠–١٣ µm (وأحيانًا ١٣–٢١ × ٩–١٤ µm)، ويحتوي كل بوغ على قطيرة زيتية مركزية واحدة كبيرة.",
+      "habitat": "ينمو على التربة، وبين بقايا الأوراق المتساقطة، وفي الطحالب، أو في العشب القصير داخل الغابات الرطبة النفضية والصنوبرية والمختلطة — وغالبًا تحت البلوط أو الزان أو الصنوبر — وكذلك على جوانب مسارات الغابات وفي التربة المضطربة وفي المتنزهات، وكثيرًا ما يظهر على التربة المحروقة. يُرجح أنه يقيم علاقة جذرية فطرية خارجية (إكتوميكوريزا)، ويثمر من مايو إلى نوفمبر مع ذروة في أواخر الصيف والخريف.",
+      "uses": "تعدّه الأدلة القديمة وبعض الأطالس الأوروبية صالحًا للأكل بعد الطهي الجيد أو السلق المسبق، مع الاقتصار عادةً على استخدام القبعات في الحساء، وإن كان يُنظر إليه عمومًا على أنه ضعيف النكهة والقوام. غير أنه يسبب اضطرابات معدية معوية إذا أُكل نيئًا أو غير مطهو جيدًا، ويُشتبه باحتوائه على مركبات مرتبطة بالجيرومترين تُطلق أحادي ميثيل الهيدرازين، ولذلك تنصح التوجيهات السمية الحديثة بتجنب أكله.",
+      "confusion": "يتميز Helvella crispa بقبعة بيضاء كريمية إلى مغرية باهتة ذات حواف حرة وسطح سفلي ذي زغب ناعم، مما يفصله حتى عن الأشكال الفاتحة النادرة. أما Helvella elastica وHelvella atra وHelvella spadicea فتمتلك جميعها سيقانًا أسطوانية ملساء غير مضلعة. ويحمل Helvella phlebophora أضلاعًا بارزة تمتد إلى السطح السفلي للقبعة. وللفطر Gyromitra infula قبعة بنية محمرة تشبه السرج أو الدماغ على ساق ملساء، بينما تمتلك أنواع Morchella قبعات ذات حفر تشبه قرص العسل وتثمر في الربيع.",
+      "notes": "تُظهر دراسات الحمض النووي أن Helvella lacunosa الحقيقي نوع أوروبي شمالي ومعتدل؛ أما الفطور الداكنة المشابهة ذات السيقان المضلعة في أمريكا الشمالية فتنتمي إلى مركّب يضم ما لا يقل عن أحد عشر نوعًا تطوريًا متمايزًا، من بينها Helvella vespertina تحت الصنوبريات وHelvella dryophila تحت البلوط في الغرب. وقد تتطفل على أجسامه الثمرية أحيانًا فطور Hypomyces cervinigenus أو Clitocybe sclerotoidea."
+    },
+    "bg": {
+      "description": "Тъмна лятно-есенна торбеста гъба, която плодоноси поединично или на малки групи върху почва и пожарища в широколистни, иглолистни и смесени гори, както и в паркове и мъхести поляни. Първоначално е описана от Европа, където е широко разпространена от Скандинавия до Средиземноморието, а е съобщавана и от Азия и източната част на Северна Америка.",
+      "cap": "Гуглата е с ширина 2–6 см (рядко 1–10 см), неправилно седловидна или митровидна с два до четири извити, нагънати дяла. Ръбът обикновено е прираснал или сраснал с пънчето на няколко места. Горната повърхност е гладка до леко набръчкана, шистовосива, тъмносива, кафеникавосива или въгленочерна, докато редките албиносни форми са белезникави. Стерилната долна страна е по-светла, белезникава до пепелявосива, гладка до слабо набрашнена, а не гъсто мъхеста.",
+      "hymenium": "Спороносният слой покрива гладката до леко набръчкана горна повърхност на гуглата, без ламели, пори или килийки. Цилиндричните аски (торбички) са с размери 200–340 × 10–16 мкм и всеки съдържа по осем аскоспори, придружени от цилиндрични парафизи с ширина около 2,5–10 мкм и заоблени до леко разширени върхове.",
+      "stipe": "Пънчето е високо 3–10 см (рядко до 15 см) и дебело 1–3 см, приблизително цилиндрично или леко разширено в основата. Младо е белезникаво, скоро става бледо пепелявосиво, сивокафяво или тъмносиво и е дълбоко изваяно с остри надлъжни ребра, напречни преградки и издължени овални ямички, а отвътре има няколко кухи камери.",
+      "flesh": "Месото е тънко и крехко в гуглата и восъчно до хрущялно или жилаво-еластично в пънчето, белезникаво до бледосиво, без да променя цвета си при разрязване. Вкусът е мек и неизразителен; миризмата е слаба и неопределена, при младите плодни тела понякога приятно пикантна, а при старите тъпа или земна.",
+      "sporePrint": "Споровият прашец е бял. Аскоспорите са широко елипсовидни, гладки и безцветни, с размери 15–20 × 10–13 мкм (рядко 13–21 × 9–14 мкм), като всяка съдържа една голяма централна мастна капка.",
+      "habitat": "Расте върху почва, сред листна постилка, в мъх или в ниска трева във влажни широколистни, иглолистни и смесени гори – често под дъб, бук или бор – както и покрай горски пътеки, върху нарушена почва, в паркове и често върху пожарища. Вероятно е ектомикоризна и плодоноси от май до ноември, с пик в края на лятото и есента.",
+      "uses": "По-стари определители и някои европейски атласи я посочват като ядлива след старателно сваряване или бланширане, обикновено като се използват само гуглите за супи, макар че като цяло се смята за слаба на вкус и консистенция. Сурова или недостатъчно термично обработена обаче предизвиква стомашно-чревни разстройства и има съмнения, че съдържа съединения, сродни на гиромитрина, които отделят монометилхидразин, затова съвременните токсикологични препоръки съветват да не се консумира.",
+      "confusion": "Helvella crispa има кремавобяла до бледоохрена гугла със свободни ръбове и фино мъхеста долна страна, което я отличава дори от редките светли форми. Helvella elastica, Helvella atra и Helvella spadicea имат гладки, неребрести цилиндрични пънчета. Helvella phlebophora има изразени ребра, продължаващи върху долната страна на гуглата. Gyromitra infula има червенокафява, седловидна или мозъковидна гугла върху гладко пънче, а видовете от род Morchella имат гугли с килийки като пчелна пита и плодоносят през пролетта.",
+      "notes": "ДНК изследванията показват, че същинската Helvella lacunosa е бореален и умерен европейски вид; подобните тъмни видове с ребресто пънче в Северна Америка принадлежат към комплекс от най-малко единадесет обособени филогенетични вида, включително Helvella vespertina под иглолистни дървета и Helvella dryophila под дъбове на запад. Плодните тела понякога биват паразитирани от Hypomyces cervinigenus или Clitocybe sclerotoidea."
+    },
+    "cs": {
+      "description": "Tmavá letní a podzimní vřeckovýtrusná houba, která plodí jednotlivě nebo v malých skupinách na půdě a spáleništích v listnatých, jehličnatých i smíšených lesích, ale také v parcích a na mechových světlinách. Původně byla popsána z Evropy, kde je hojně rozšířena od Skandinávie po Středomoří, a uvádí se rovněž z Asie a východní Severní Ameriky.",
+      "cap": "Klobouk má průměr 2–6 cm (vzácně 1–10 cm) a je nepravidelně sedlovitý nebo mitrovitý se dvěma až čtyřmi zkroucenými, zprohýbanými laloky. Okraj bývá na několika místech přirostlý nebo srostlý s třeněm. Svrchní povrch je hladký až slabě vrásčitý, břidlicově šedý, tmavě šedý, hnědošedý nebo uhlově černý, zatímco vzácné albinotické formy jsou bělavé. Sterilní spodní strana je světlejší, bělavá až popelavě šedá a hladká až jemně ojíněná, nikoli hustě plstnatá.",
+      "hymenium": "Výtrusorodá vrstva pokrývá hladký až slabě vrásčitý svrchní povrch klobouku bez lupenů, rourek či jamek. Válcovitá vřecka měří 200–340 × 10–16 µm, každé obsahuje osm askospor a doprovázejí je válcovité parafýzy široké zhruba 2,5–10 µm se zaoblenými až slabě zduřelými konci.",
+      "stipe": "Třeň je vysoký 3–10 cm (výjimečně až 15 cm) a tlustý 1–3 cm, zhruba válcovitý nebo na bázi mírně rozšířený. V mládí je bělavý, brzy přechází do světle popelavě šedé, šedohnědé nebo tmavě šedé barvy a je hluboce rozbrázděn ostrými podélnými žebry, příčnými můstky a protáhlými oválnými jamkami, přičemž uvnitř má několik dutých komůrek.",
+      "flesh": "Dužnina je v klobouku tenká a křehká, v třeni voskovitá až chrupavčitá nebo tuze pružná, bělavá až světle šedá a na řezu nemění barvu. Chuť je mírná a nevýrazná; vůně je slabá a neurčitá, u mladých plodnic někdy příjemně kořenitá, u starších mdlá nebo zemitá.",
+      "sporePrint": "Výtrusný prach je bílý. Askospory jsou široce elipsoidní, hladké a bezbarvé, o rozměrech 15–20 × 10–13 µm (výjimečně 13–21 × 9–14 µm), a každá obsahuje jedinou velkou centrální olejovou kapku.",
+      "habitat": "Roste na půdě, v opadu, v mechu nebo v nízké trávě ve vlhkých listnatých, jehličnatých i smíšených lesích – často pod duby, buky nebo borovicemi –, stejně jako podél lesních cest, na narušené půdě, v parcích a často na spáleništích. Pravděpodobně je ektomykorhizní a plodí od května do listopadu s vrcholem koncem léta a na podzim.",
+      "uses": "Starší příručky a některé evropské atlasy ji uvádějí jako jedlou po důkladné tepelné úpravě nebo povaření, obvykle s použitím samotných klobouků do polévek, i když bývá obecně hodnocena jako chuťově i konzistenčně slabá. Za syrova nebo při nedostatečném tepelném zpracování však způsobuje trávicí obtíže a je podezřelá z obsahu látek příbuzných gyromitrinu, které uvolňují monomethylhydrazin, proto moderní toxikologická doporučení od její konzumace odrazují.",
+      "confusion": "Helvella crispa má krémově bílý až světle okrový klobouk s volnými okraji a jemně plstnatou spodní stranou, čímž se odlišuje i od vzácných světlých forem. Helvella elastica, Helvella atra a Helvella spadicea mají hladký, nežebrovaný válcovitý třeň. Helvella phlebophora má výrazná žebra vybíhající až na spodní stranu klobouku. Gyromitra infula má červenohnědý, sedlovitý či mozkovitý klobouk na hladkém třeni a druhy rodu Morchella mají klobouk s jamkami připomínajícími včelí plástev a plodí na jaře.",
+      "notes": "Studie DNA ukazují, že pravá Helvella lacunosa je boreální a temperátní evropský druh; podobné tmavé druhy s žebrovaným třeněm v Severní Americe náležejí do komplexu nejméně jedenácti samostatných fylogenetických druhů včetně Helvella vespertina pod jehličnany a Helvella dryophila pod duby na západě. Plodnice občas parazituje Hypomyces cervinigenus nebo Clitocybe sclerotoidea."
+    },
+    "da": {
+      "description": "En mørk sommer- og efterårssæksvamp, der danner frugtlegemer enkeltvis eller i små grupper på jord og brandpletter i løv-, nåle- og blandingsskove samt i parker og mosrige lysninger. Oprindeligt beskrevet fra Europa, hvor den er vidt udbredt fra Skandinavien til Middelhavsområdet, er den også rapporteret fra Asien og det østlige Nordamerika.",
+      "cap": "Hatten er 2–6 cm bred (undertiden 1–10 cm) og uregelmæssigt sadel- eller bispehueformet med to til fire snoede, foldede lapper. Randen er typisk tilvokset eller sammenvokset med stokken flere steder. Oversiden er glat til let rynket og skifergrå, mørkegrå, brungrå eller kulsort, mens sjældne albinoformer er hvidlige. Den sterile underside er lysere hvidlig til askegrå og glat til svagt dugget snarere end tæt dunet.",
+      "hymenium": "Det sporedannende lag dækker hattens glatte til let rynkede overside, uden lameller, porer eller gruber. De cylindriske sække (asci) måler 200–340 × 10–16 µm og indeholder hver otte askosporer, ledsaget af cylindriske parafyser omkring 2,5–10 µm brede med afrundede til let opsvulmede spidser.",
+      "stipe": "Stokken er 3–10 cm høj (undertiden op til 15 cm) og 1–3 cm tyk, omtrent cylindrisk eller let udvidet ved basis. Den er hvidlig som ung, men bliver hurtigt blegt askegrå, gråbrun eller mørkegrå, og er dybt furet af skarpe længderibber, tværbroer og aflangt ovale gruber med flere hule kamre indvendigt.",
+      "flesh": "Kødet er tyndt og skørt i hatten og voksagtigt til bruskagtigt eller sejt-elastisk i stokken, hvidligt til bleggråt, uden farveændring ved gennemskæring. Smagen er mild og uanselig; lugten er svag og ubestemmelig, undertiden behageligt krydret hos unge eksemplarer og mat eller jordagtig hos gamle.",
+      "sporePrint": "Sporeaftrykket er hvidt. Askosporerne er bredt ellipsoide, glatte og farveløse, 15–20 × 10–13 µm (undertiden 13–21 × 9–14 µm), og indeholder hver en enkelt stor central oliedråbe.",
+      "habitat": "Den vokser på jord, i løvstrøelse, i mos eller i kort græs i fugtige løv-, nåle- og blandingsskove — ofte under eg, bøg eller fyr — samt langs skovstier, på forstyrret jord, i parker og hyppigt på brændt jord. Sandsynligvis ektomykorrhizadannende, og den fruktificerer fra maj til november med højdepunkt i sensommeren og efteråret.",
+      "uses": "Ældre svampebøger og enkelte europæiske atlas omtaler den som spiselig efter grundig kogning eller afkogning, hvor man som regel kun bruger hattene i supper, selv om den generelt regnes for ringe i smag og konsistens. Den giver imidlertid mave-tarm-gener, hvis den spises rå eller utilstrækkeligt tilberedt, og mistænkes for at indeholde gyromitrinbeslægtede forbindelser, der frigiver monomethylhydrazin, så moderne toksikologiske anbefalinger fraråder spisning.",
+      "confusion": "Helvella crispa har en cremehvid til blegokker hat med frie rande og en fint dunet underside, hvilket adskiller den selv fra sjældne lyse former. Helvella elastica, Helvella atra og Helvella spadicea har alle glatte, uribbede cylindriske stokke. Helvella phlebophora har tydelige ribber, der strækker sig ud på hattens underside. Gyromitra infula har en rødbrun, sadel- eller hjerneagtig hat på en glat stok, og Morchella-arter har bikubelignende gruber i hatten og vokser om foråret.",
+      "notes": "DNA-studier viser, at den ægte Helvella lacunosa er en boreal og tempereret europæisk art; lignende mørke arter med ribbet stok i Nordamerika tilhører et kompleks af mindst elleve adskilte fylogenetiske arter, herunder Helvella vespertina under nåletræer og Helvella dryophila under eg i vest. Frugtlegemerne parasiteres lejlighedsvis af Hypomyces cervinigenus eller Clitocybe sclerotoidea."
+    },
+    "de": {
+      "description": "Ein dunkler Sommer- und Herbst-Schlauchpilz, der einzeln oder in kleinen Gruppen auf Erde und Brandstellen in Laub-, Nadel- und Mischwäldern sowie in Parks und moosigen Lichtungen fruchtet. Ursprünglich aus Europa beschrieben, wo er von Skandinavien bis zum Mittelmeerraum weit verbreitet ist, wurde er auch aus Asien und dem östlichen Nordamerika gemeldet.",
+      "cap": "Der Hut ist 2–6 cm breit (gelegentlich 1–10 cm) und unregelmäßig sattel- oder mitraförmig mit zwei bis vier verdrehten, gefalteten Lappen. Der Rand ist typischerweise an mehreren Stellen mit dem Stiel verwachsen oder ihm angeheftet. Die Oberseite ist glatt bis leicht runzelig und schiefergrau, dunkelgrau, bräunlich grau oder kohlschwarz, während seltene Albinoformen weißlich sind. Die sterile Unterseite ist blasser weißlich bis aschgrau und glatt bis schwach bereift statt dicht flaumig.",
+      "hymenium": "Die sporenbildende Schicht überzieht die glatte bis leicht runzelige Oberseite des Hutes, ohne Lamellen, Poren oder Gruben. Die zylindrischen Schläuche (Asci) messen 200–340 × 10–16 µm und enthalten jeweils acht Askosporen, begleitet von zylindrischen Paraphysen von etwa 2,5–10 µm Breite mit abgerundeten bis leicht verdickten Spitzen.",
+      "stipe": "Der Stiel ist 3–10 cm hoch (gelegentlich bis 15 cm) und 1–3 cm dick, annähernd zylindrisch oder an der Basis leicht verbreitert. Jung ist er weißlich, verfärbt sich aber bald blass aschgrau, graubraun oder dunkelgrau und ist tief durch scharfe Längsrippen, Querbrücken und länglich-ovale Gruben gegliedert, mit mehreren hohlen Kammern im Inneren.",
+      "flesh": "Das Fleisch ist im Hut dünn und brüchig und im Stiel wachsartig bis knorpelig oder zäh-elastisch, weißlich bis blassgrau, ohne Verfärbung im Schnitt. Der Geschmack ist mild und unauffällig; der Geruch ist schwach und unbestimmt, bei jungen Fruchtkörpern mitunter angenehm würzig und bei alten dumpf oder erdig.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Askosporen sind breit ellipsoid, glatt und farblos, messen 15–20 × 10–13 µm (gelegentlich 13–21 × 9–14 µm) und enthalten jeweils einen einzelnen großen zentralen Öltropfen.",
+      "habitat": "Er wächst auf Erde, zwischen Falllaub, im Moos oder in kurzem Gras in feuchten Laub-, Nadel- und Mischwäldern – häufig unter Eiche, Buche oder Kiefer – sowie entlang von Waldwegen, auf gestörtem Boden, in Parks und oft auf Brandstellen. Wahrscheinlich ektomykorrhizabildend, fruchtet er von Mai bis November mit dem Schwerpunkt im Spätsommer und Herbst.",
+      "uses": "Ältere Pilzführer und einige europäische Atlanten führen ihn nach gründlichem Kochen oder Abkochen als essbar, wobei meist nur die Hüte in Suppen verwendet werden, wenngleich er in Geschmack und Konsistenz allgemein als minderwertig gilt. Roh oder unzureichend gegart verursacht er jedoch Magen-Darm-Beschwerden und steht im Verdacht, gyromitrinverwandte Verbindungen zu enthalten, die Monomethylhydrazin freisetzen, weshalb moderne toxikologische Empfehlungen vom Verzehr abraten.",
+      "confusion": "Helvella crispa hat einen cremeweißen bis blass ockerfarbenen Hut mit freien Rändern und einer fein flaumigen Unterseite, wodurch sie sich selbst von seltenen blassen Formen unterscheidet. Helvella elastica, Helvella atra und Helvella spadicea besitzen alle glatte, ungerippte zylindrische Stiele. Helvella phlebophora trägt deutliche Rippen, die sich auf die Hutunterseite erstrecken. Gyromitra infula hat einen rotbraunen, sattel- oder hirnartigen Hut auf einem glatten Stiel, und Morchella-Arten haben wabenartig grubige Hüte und fruchten im Frühjahr.",
+      "notes": "DNA-Studien zeigen, dass die echte Helvella lacunosa eine boreale und gemäßigt europäische Art ist; ähnliche dunkle, längsgerippte Arten in Nordamerika gehören zu einem Komplex aus mindestens elf eigenständigen phylogenetischen Arten, darunter Helvella vespertina unter Nadelbäumen und Helvella dryophila unter Eichen im Westen. Die Fruchtkörper werden gelegentlich von Hypomyces cervinigenus oder Clitocybe sclerotoidea parasitiert."
+    },
+    "es": {
+      "description": "Ascomiceto oscuro de verano y otoño que fructifica aislado o en pequeños grupos sobre el suelo y en terrenos quemados de bosques de frondosas, de coníferas y mixtos, así como en parques y claros musgosos. Descrito originalmente en Europa, donde está ampliamente distribuido desde Escandinavia hasta el Mediterráneo, también ha sido citado en Asia y en el este de Norteamérica.",
+      "cap": "El sombrero mide 2–6 cm de anchura (ocasionalmente 1–10 cm) y tiene forma irregular de silla de montar o de mitra, con dos a cuatro lóbulos retorcidos y plegados. El margen suele estar unido o soldado al pie en varios puntos. La superficie superior es lisa a ligeramente arrugada, de color gris pizarra, gris oscuro, gris parduzco o negro carbón, mientras que las raras formas albinas son blanquecinas. La cara inferior estéril es más pálida, blanquecina a gris ceniza, y lisa a levemente pruinosa en lugar de densamente vellosa.",
+      "hymenium": "La capa esporífera recubre la superficie superior lisa a ligeramente arrugada del sombrero, sin láminas, poros ni alvéolos. Las ascas cilíndricas miden 200–340 × 10–16 µm y contienen ocho ascosporas cada una, acompañadas de paráfisis cilíndricas de unos 2,5–10 µm de anchura con ápices redondeados a ligeramente engrosados.",
+      "stipe": "El pie mide 3–10 cm de altura (ocasionalmente hasta 15 cm) y 1–3 cm de grosor, aproximadamente cilíndrico o ligeramente ensanchado en la base. Es blanquecino de joven, tornándose pronto gris ceniza pálido, gris parduzco o gris oscuro, y está profundamente esculpido por costillas longitudinales afiladas, puentes transversales y cavidades ovales alargadas, con varias cámaras huecas en su interior.",
+      "flesh": "La carne es fina y quebradiza en el sombrero y cérea a cartilaginosa o tenaz-elástica en el pie, de color blanquecino a gris pálido, sin cambio de color al corte. El sabor es suave y poco destacable; el olor es débil e indefinido, a veces agradablemente especiado en ejemplares jóvenes y apagado o terroso en los viejos.",
+      "sporePrint": "La esporada es blanca. Las ascosporas son anchamente elipsoides, lisas e incoloras, de 15–20 × 10–13 µm (ocasionalmente 13–21 × 9–14 µm), cada una con una sola gran gota lipídica central.",
+      "habitat": "Crece sobre el suelo, entre la hojarasca, en el musgo o entre hierba corta en bosques húmedos de frondosas, de coníferas y mixtos —a menudo bajo roble, haya o pino—, así como en los márgenes de caminos forestales, suelos removidos, parques y con frecuencia sobre suelos quemados. Probablemente ectomicorrícico, fructifica de mayo a noviembre, con un máximo a finales de verano y en otoño.",
+      "uses": "Las guías antiguas y algunos atlas europeos la consideran comestible tras una cocción prolongada o un escaldado previo, utilizando habitualmente solo los sombreros en sopas, aunque en general se considera de escaso valor por su sabor y textura. Sin embargo, provoca trastornos gastrointestinales si se consume cruda o poco cocinada y se sospecha que contiene compuestos emparentados con la giromitrina que liberan monometilhidrazina, por lo que las recomendaciones toxicológicas actuales desaconsejan su consumo.",
+      "confusion": "Helvella crispa tiene un sombrero blanco crema a ocre pálido con márgenes libres y una cara inferior finamente vellosa, lo que la separa incluso de las raras formas pálidas. Helvella elastica, Helvella atra y Helvella spadicea poseen todas un pie cilíndrico liso y sin costillas. Helvella phlebophora presenta costillas prominentes que se extienden por la cara inferior del sombrero. Gyromitra infula tiene un sombrero pardo rojizo en forma de silla o cerebro sobre un pie liso, y las especies de Morchella presentan sombreros con alvéolos en panal y fructifican en primavera.",
+      "notes": "Los estudios de ADN muestran que la verdadera Helvella lacunosa es una especie europea boreal y templada; las especies oscuras de pie acanalado similares de Norteamérica pertenecen a un complejo de al menos once especies filogenéticas distintas, entre ellas Helvella vespertina bajo coníferas y Helvella dryophila bajo robles en el oeste. Los cuerpos fructíferos son parasitados ocasionalmente por Hypomyces cervinigenus o Clitocybe sclerotoidea."
+    },
+    "et": {
+      "description": "Tume suve- ja sügiskottseen, mis viljub üksikult või väikeste rühmadena mullal ja põlendikel leht-, okas- ja segametsades, samuti parkides ja samblastel lagendikel. Algselt Euroopast kirjeldatud liik on laialt levinud Skandinaaviast Vahemereni ning seda on registreeritud ka Aasias ja Põhja-Ameerika idaosas.",
+      "cap": "Kübar on 2–6 cm laiune (harva 1–10 cm) ning ebakorrapäraselt sadula- või mitrakujuline, kahe kuni nelja keerdunud, voldilise hõlmaga. Serv on tavaliselt mitmest kohast jalaga kokku kasvanud või selle külge kinnitunud. Ülapind on sile kuni kergelt kurruline ning kiltkivihall, tumehall, pruunikashall või süsimust, haruldased albiinovormid aga valkjad. Steriilne alapind on heledam, valkjast tuhkhallini, ning pigem sile kuni nõrgalt härmatisega kaetud kui tihedalt udejas.",
+      "hymenium": "Eoseid moodustav kiht katab kübara siledat kuni kergelt kurrulist ülapinda ilma eoslehtede, pooride või lohkudeta. Silindrilised eoskotid (askused) on mõõtmetega 200–340 × 10–16 µm ja sisaldavad igaüks kaheksat kottspoori, neid saadavad umbes 2,5–10 µm laiused silindrilised parafüüsid ümarate kuni kergelt paisunud tippudega.",
+      "stipe": "Jalg on 3–10 cm kõrge (harva kuni 15 cm) ja 1–3 cm jäme, ligikaudu silindriline või alusel veidi laienenud. Noorena on see valkjas, muutub aga peagi kahvatuks tuhkhalliks, hallikaspruuniks või tumehalliks ning on sügavalt liigendatud teravate pikisuunaliste ribide, ristsildade ja piklikovaalsete lohkudega, sisemuses mitme õõnsa kambriga.",
+      "flesh": "Seeneliha on kübaras õhuke ja habras ning jalas vahajas kuni kõhreline või sitkelt elastne, valkjast kahvatuhallini, lõikepinnal värvust muutmata. Maitse on mahe ja tagasihoidlik; lõhn on nõrk ja ebamäärane, noortel viljakehadel kohati meeldivalt vürtsikas ning vanadel läppunud või mullane.",
+      "sporePrint": "Eosetolm on valge. Kottspoorid on laielt ellipsoidid, siledad ja värvitud, mõõtmetega 15–20 × 10–13 µm (harva 13–21 × 9–14 µm), ning igaühes on üksainus suur keskne õlitilk.",
+      "habitat": "Kasvab mullal, lehekõdus, samblas või madalas rohus niisketes leht-, okas- ja segametsades — sageli tamme, pöögi või männi all —, samuti metsateede ääres, häiritud pinnasel, parkides ja sageli põlenud mullal. Tõenäoliselt ektomükoriisat moodustav liik viljub maist novembrini, kõrgajaga hilissuvel ja sügisel.",
+      "uses": "Vanemad määrajad ja mõned Euroopa atlased käsitlevad seda söödavana pärast põhjalikku kuumtöötlemist või kupatamist, kasutades tavaliselt vaid kübaraid suppides, kuigi maitse ja tekstuuri poolest peetakse seda üldiselt kesiseks. Toorelt või ebapiisavalt kuumtöödeldult põhjustab see aga seedehäireid ning kahtlustatakse, et see sisaldab güromitriinilaadseid ühendeid, mis vabastavad monometüülhüdrasiini, mistõttu tänapäevased toksikoloogilised soovitused selle söömist ei soovita.",
+      "confusion": "Helvella crispa kübar on kreemikasvalge kuni kahvatuookerkollane, vabade servade ja peenelt udeja alapinnaga, mis eristab seda isegi haruldastest heledatest vormidest. Liikidel Helvella elastica, Helvella atra ja Helvella spadicea on kõigil sile, ribideta silindriline jalg. Liigil Helvella phlebophora ulatuvad silmapaistvad ribid kübara alapinnale. Gyromitra infula kübar on punakaspruun, sadula- või ajukujuline siledal jalal, ning Morchella liikidel on kärjekujuliste lohkudega kübarad ja nad viljuvad kevadel.",
+      "notes": "DNA-uuringud näitavad, et tõeline Helvella lacunosa on boreaalne ja parasvöötme Euroopa liik; sarnased tumedad soonilise jalaga liigid Põhja-Ameerikas kuuluvad vähemalt üheteistkümnest eraldi fülogeneetilisest liigist koosnevasse kompleksi, sealhulgas lääneosas okaspuude all kasvav Helvella vespertina ja tammede all kasvav Helvella dryophila. Viljakehadel parasiteerivad aeg-ajalt Hypomyces cervinigenus või Clitocybe sclerotoidea."
+    },
+    "fa": {
+      "description": "قارچ آسکومیست تیره‌رنگ تابستانی و پاییزی است که به‌صورت تک‌تک یا در گروه‌های کوچک روی خاک و زمین‌های سوخته در جنگل‌های خزان‌کننده، سوزنی‌برگ و آمیخته، و نیز در پارک‌ها و فضاهای باز خزه‌پوش می‌روید. این گونه نخست از اروپا توصیف شده است، جایی که از اسکاندیناوی تا مدیترانه پراکنش گسترده‌ای دارد، و از آسیا و شرق آمریکای شمالی نیز گزارش شده است.",
+      "cap": "کلاهک ۲–۶ cm پهنا دارد (گاهی ۱–۱۰ cm) و به‌شکل نامنظم زین‌مانند یا تاج‌مانند با دو تا چهار لوب پیچ‌خورده و چین‌دار است. لبهٔ آن معمولاً در چند نقطه به ساقه متصل یا جوش‌خورده است. سطح بالایی صاف تا اندکی چروکیده و به رنگ خاکستری سنگی، خاکستری تیره، خاکستری قهوه‌ای یا سیاه زغالی است، در حالی که شکل‌های نادر زال مایل به سفید هستند. سطح زیرین عقیم روشن‌تر، سفید مایل به خاکستری خاکسترگون و صاف تا اندکی گردآلود است و کرک متراکم ندارد.",
+      "hymenium": "لایهٔ هاگ‌ساز سطح بالایی صاف تا کمی چروکیدهٔ کلاهک را می‌پوشاند و فاقد تیغه‌ها، روزنه‌ها یا حفره‌ها است. آسک‌های استوانه‌ای ۲۰۰–۳۴۰ × ۱۰–۱۶ µm اندازه دارند و هر یک شامل هشت هاگ آسکی هستند که همراه با پارافیزهای استوانه‌ای به پهنای حدود ۲٫۵–۱۰ µm با نوک گرد تا اندکی متورم دیده می‌شوند.",
+      "stipe": "ساقه ۳–۱۰ cm بلندی (گاهی تا ۱۵ cm) و ۱–۳ cm ضخامت دارد و تقریباً استوانه‌ای یا در پایه اندکی پهن‌تر است. در جوانی مایل به سفید است و به‌زودی به خاکستری خاکسترگون کم‌رنگ، خاکستری قهوه‌ای یا خاکستری تیره تغییر رنگ می‌دهد؛ سطح آن با شیارها و تیغه‌های طولی تیز، پل‌های عرضی و حفره‌های بیضی کشیده به‌عمق کنده شده و درون آن چندین محفظهٔ توخالی دارد.",
+      "flesh": "گوشت در کلاهک نازک و شکننده و در ساقه مومی تا غضروفی یا سخت و کشسان است؛ رنگ آن مایل به سفید تا خاکستری کم‌رنگ بوده و در اثر برش تغییر رنگ نمی‌دهد. طعم آن ملایم و معمولی است؛ بوی آن ضعیف و نامشخص است، گاهی در نمونه‌های جوان کمی مطبوع و ادویه‌ای و در نمونه‌های پیر کدر یا خاکی است.",
+      "sporePrint": "نقش هاگ سفید است. هاگ‌های آسکی پهن‌بیضوی، صاف و بی‌رنگ به اندازهٔ ۱۵–۲۰ × ۱۰–۱۳ µm (گاهی ۱۳–۲۱ × ۹–۱۴ µm) هستند و هر یک شامل یک قطرهٔ چربی بزرگ در مرکز خود است.",
+      "habitat": "روی خاک، میان برگ‌های ریخته، در خزه یا در چمن کوتاه جنگل‌های مرطوب خزان‌کننده، سوزنی‌برگ و آمیخته — اغلب زیر بلوط، راش یا کاج — و همچنین در حاشیهٔ مسیرهای جنگلی، زمین‌های دست‌خورده، پارک‌ها و اغلب روی خاک سوخته می‌روید. احتمالاً اکتومیکوریز است و از مه تا نوامبر باردهی می‌کند و اوج آن اواخر تابستان و پاییز است.",
+      "uses": "راهنماهای قدیمی‌تر و برخی اطلس‌های اروپایی آن را پس از پخت کامل یا آب‌پز کردن خوراکی دانسته‌اند و معمولاً تنها کلاهک آن در سوپ به کار رفته است، هرچند از نظر طعم و بافت عموماً ضعیف به شمار می‌آید. با این حال مصرف خام یا نیم‌پز آن باعث ناراحتی گوارشی می‌شود و گمان می‌رود ترکیبات مرتبط با ژیرومیترین داشته باشد که مونو متیل‌هیدرازین آزاد می‌کنند؛ از این رو توصیه‌های سم‌شناسی امروزی از خوردن آن برحذر می‌دارند.",
+      "confusion": "گونهٔ Helvella crispa کلاهکی سفید کرمی تا اخرایی کم‌رنگ با لبه‌های آزاد و سطح زیرین کرک‌دار ظریف دارد که آن را حتی از شکل‌های روشن نادر جدا می‌کند. گونه‌های Helvella elastica، Helvella atra و Helvella spadicea همگی ساقه‌های استوانه‌ای صاف و بدون شیار دارند. گونهٔ Helvella phlebophora دارای دنده‌های برجسته‌ای است که تا سطح زیرین کلاهک امتداد می‌یابند. گونهٔ Gyromitra infula کلاهکی قهوه‌ای مایل به قرمز و زین‌مانند یا مغزگونه روی ساقه‌ای صاف دارد و گونه‌های Morchella کلاهک‌های حفره‌دار شانه‌عسلی دارند و در بهار می‌رویند.",
+      "notes": "پژوهش‌های دی‌ان‌ای نشان می‌دهد که Helvella lacunosa واقعی گونه‌ای اروپایی از نواحی شمالی و معتدل است؛ گونه‌های تیره‌رنگ مشابه با ساقهٔ شیاردار در آمریکای شمالی به مجموعه‌ای شامل دست‌کم یازده گونهٔ تبارزایی متمایز تعلق دارند، از جمله Helvella vespertina در زیر سوزنی‌برگان و Helvella dryophila در زیر بلوط‌ها در غرب. اندام‌های باردهی آن گاهی به وسیلهٔ Hypomyces cervinigenus یا Clitocybe sclerotoidea انگلی می‌شوند."
+    },
+    "fi": {
+      "description": "Tumma kesän ja syksyn kotelosieni, joka muodostaa itiöemiä yksittäin tai pieninä ryhminä maalla ja palopaikoilla lehti-, havu- ja sekametsissä sekä puistoissa ja sammaleisilla aukkopaikoilla. Alun perin Euroopasta kuvattu laji on laajalle levinnyt Skandinaviasta Välimerelle, ja sitä on ilmoitettu myös Aasiasta ja itäisestä Pohjois-Amerikasta.",
+      "cap": "Lakki on 2–6 cm leveä (satunnaisesti 1–10 cm) ja epäsäännöllisesti satula- tai hiippamainen, ja siinä on kahdesta neljään kierteistä, poimuista liuskaa. Reuna on tyypillisesti kiinnittynyt tai kasvanut yhteen jalan kanssa useasta kohdasta. Yläpinta on sileä tai hieman ryppyinen ja liuskekivenharmaa, tummanharmaa, ruskeanharmaa tai hiilenmusta, kun taas harvinaiset albiinomuodot ovat valkeahkoja. Steriili alapinta on vaaleampi, valkeahkosta tuhkanharmaaseen, ja sileä tai heikosti härmäinen tiheän nukkaisen sijaan.",
+      "hymenium": "Itiöitä tuottava kerros peittää lakin sileän tai lievästi ryppyisen yläpinnan ilman helttoja, pillejä tai lokeroita. Lieriömäiset kotelot (askukset) ovat 200–340 × 10–16 µm ja sisältävät kukin kahdeksan koteloitiötä, ja niiden joukossa on noin 2,5–10 µm leveitä lieriömäisiä parafyysejä, joiden kärjet ovat pyöristyneitä tai hieman turvonneita.",
+      "stipe": "Jalka on 3–10 cm korkea (satunnaisesti jopa 15 cm) ja 1–3 cm paksu, jokseenkin lieriömäinen tai tyvestä hieman leventynyt. Nuorena se on valkeahko, mutta muuttuu pian vaalean tuhkanharmaaksi, harmaanruskeaksi tai tummanharmaaksi, ja sitä uurtelevat syvästi terävät pitkittäisharjut, poikittaiskannakset ja pitkulaisen soikeat kuopat, ja sen sisällä on useita onttoja lokeroita.",
+      "flesh": "Malto on lakissa ohutta ja haurasta ja jalassa vahamaista, rustoista tai sitkeän kimmoisaa, valkeahkosta vaaleanharmaaseen, eikä muuta väriään leikattaessa. Maku on mieto ja huomaamaton; haju on heikko ja epämääräinen, nuorilla itiöemillä toisinaan miellyttävän mausteinen ja vanhoilla tunkkainen tai multainen.",
+      "sporePrint": "Itiöpöly on valkoista. Koteloitiöt ovat leveän ellipsoideja, sileitä ja värittömiä, kooltaan 15–20 × 10–13 µm (satunnaisesti 13–21 × 9–14 µm), ja kussakin on yksi suuri keskeinen öljypisara.",
+      "habitat": "Se kasvaa maalla, lehtikarikkeessa, sammalessa tai lyhyessä ruohossa kosteissa lehti-, havu- ja sekametsissä — usein tammen, pyökin tai männyn alla — sekä metsäpolkujen varsilla, muokatulla maalla, puistoissa ja usein palaneella maalla. Todennäköisesti ektomykorritsainen laji muodostaa itiöemiä toukokuusta marraskuuhun huipun osuessa loppukesään ja syksyyn.",
+      "uses": "Vanhemmat sienioppaat ja eräät eurooppalaiset atlakset pitävät sitä syötävänä perusteellisen kypsennyksen tai esikeittämisen jälkeen, yleensä vain lakkeja keitoissa käyttäen, vaikka sitä pidetään yleisesti maultaan ja rakenteeltaan heikkona. Se aiheuttaa kuitenkin ruoansulatuskanavan oireita raakana tai riittämättömästi kypsennettynä ja sen epäillään sisältävän gyromitriinin kaltaisia yhdisteitä, joista vapautuu monometyylihydratsiinia, joten nykyaikaiset toksikologiset suositukset kehottavat välttämään sen syömistä.",
+      "confusion": "Helvella crispa -lajilla on kermanvalkoinen tai vaalean okrankeltainen lakki, jonka reunat ovat vapaat ja alapinta hienonukkainen, mikä erottaa sen harvinaisistakin vaaleista muodoista. Helvella elastica-, Helvella atra- ja Helvella spadicea -lajeilla on kaikilla sileä, uurteeton lieriömäinen jalka. Helvella phlebophora -lajilla on selvät harjut, jotka jatkuvat lakin alapinnalle. Gyromitra infula -lajilla on punaruskea, satula- tai aivomainen lakki sileässä jalassa, ja Morchella-suvun lajeilla on hunajakennomaisesti lokeroiset lakit ja ne kasvavat keväällä.",
+      "notes": "DNA-tutkimukset osoittavat, että varsinainen Helvella lacunosa on boreaalinen ja lauhkean vyöhykkeen eurooppalainen laji; samankaltaiset tummat uurtejalkaiset lajit Pohjois-Amerikassa kuuluvat vähintään yhdentoista erillisen fylogeneettisen lajin kompleksiin, johon kuuluvat lännessä havupuiden alla kasvava Helvella vespertina ja tammien alla kasvava Helvella dryophila. Itiöemillä loisivat satunnaisesti Hypomyces cervinigenus tai Clitocybe sclerotoidea."
+    },
+    "fr": {
+      "description": "Ascomycète sombre d’été et d’automne qui fructifie isolément ou en petits groupes sur le sol et les places à feu dans les forêts de feuillus, de conifères et mixtes, ainsi que dans les parcs et les clairières moussues. Décrit à l’origine en Europe, où il est largement répandu de la Scandinavie au bassin méditerranéen, il a également été signalé en Asie et dans l’est de l’Amérique du Nord.",
+      "cap": "Le chapeau mesure 2–6 cm de diamètre (parfois 1–10 cm) et présente une forme irrégulière en selle ou en mitre, à deux à quatre lobes contournés et plissés. La marge est généralement soudée ou adhérente au pied en plusieurs endroits. La face supérieure est lisse à légèrement ridée, gris ardoise, gris foncé, gris brunâtre ou noir charbon, tandis que de rares formes albinos sont blanchâtres. La face inférieure stérile est plus pâle, blanchâtre à gris cendré, et lisse à faiblement pruineuse plutôt que densément duveteuse.",
+      "hymenium": "La couche sporifère recouvre la face supérieure lisse à légèrement ridée du chapeau, sans lames, pores ni alvéoles. Les asques cylindriques mesurent 200–340 × 10–16 µm et renferment chacun huit ascospores, accompagnés de paraphyses cylindriques d’environ 2,5–10 µm de largeur à sommet arrondi à légèrement renflé.",
+      "stipe": "Le pied mesure 3–10 cm de hauteur (parfois jusqu’à 15 cm) pour 1–3 cm d’épaisseur, approximativement cylindrique ou légèrement élargi à la base. Blanchâtre dans la jeunesse, il devient rapidement gris cendré pâle, gris-brun ou gris foncé, et est profondément sculpté de côtes longitudinales tranchantes, de ponts transversaux et de lacunes ovales allongées, avec plusieurs loges creuses à l’intérieur.",
+      "flesh": "La chair est mince et cassante dans le chapeau, cireuse à cartilagineuse ou tenace-élastique dans le pied, blanchâtre à gris pâle, sans changement de couleur à la coupe. La saveur est douce et peu marquée ; l’odeur est faible et indistincte, parfois agréablement épicée chez les jeunes exemplaires et fade ou terreuse chez les sujets âgés.",
+      "sporePrint": "La sporée est blanche. Les ascospores sont largement ellipsoïdes, lisses et incolores, mesurant 15–20 × 10–13 µm (parfois 13–21 × 9–14 µm), chacune contenant une seule grosse gouttelette lipidique centrale.",
+      "habitat": "Il pousse sur le sol, dans la litière de feuilles, dans la mousse ou dans l’herbe rase des forêts humides de feuillus, de conifères et mixtes — souvent sous chêne, hêtre ou pin — ainsi que le long des sentiers forestiers, sur les sols remaniés, dans les parcs et fréquemment sur les sols brûlés. Probablement ectomycorhizien, il fructifie de mai à novembre, avec un pic en fin d’été et en automne.",
+      "uses": "D’anciens guides et certains atlas européens le considèrent comme comestible après une cuisson prolongée ou un blanchiment, en n’utilisant généralement que les chapeaux dans les potages, bien qu’il soit globalement jugé médiocre par sa saveur et sa texture. Toutefois, il provoque des troubles gastro-intestinaux s’il est consommé cru ou insuffisamment cuit et est soupçonné de contenir des composés apparentés à la gyromitrine libérant de la monométhylhydrazine, si bien que les recommandations toxicologiques modernes déconseillent sa consommation.",
+      "confusion": "Helvella crispa possède un chapeau blanc crème à ocre pâle à marges libres et une face inférieure finement duveteuse, ce qui la distingue même des rares formes pâles. Helvella elastica, Helvella atra et Helvella spadicea ont toutes un pied cylindrique lisse et non côtelé. Helvella phlebophora présente des côtes proéminentes qui se prolongent sur la face inférieure du chapeau. Gyromitra infula a un chapeau brun rougeâtre en selle ou cérébriforme sur un pied lisse, et les espèces du genre Morchella ont un chapeau alvéolé en nid d’abeilles et fructifient au printemps.",
+      "notes": "Les études d’ADN montrent que la véritable Helvella lacunosa est une espèce européenne boréale et tempérée ; les espèces sombres à pied côtelé similaires d’Amérique du Nord appartiennent à un complexe d’au moins onze espèces phylogénétiques distinctes, dont Helvella vespertina sous conifères et Helvella dryophila sous chênes dans l’Ouest. Les fructifications sont occasionnellement parasitées par Hypomyces cervinigenus ou Clitocybe sclerotoidea."
+    },
+    "he": {
+      "description": "פטריית שק כהה של קיץ וסתיו המניבה ביחידות או בקבוצות קטנות על קרקע ועל אדמה שרופה ביערות נשירים, מחטניים ומעורבים, וכן בפארקים ובקרחות טחב. היא תוארה במקור מאירופה, שבה היא נפוצה מסקנדינביה ועד אגן הים התיכון, ודווחה גם מאסיה וממזרח אמריקה הצפונית.",
+      "cap": "קוטר הכובע 2–6 cm (לעיתים 1–10 cm), וצורתו בלתי סדירה כעין אוכף או מצנפת עם שתיים עד ארבע אונות מפותלות ומקופלות. השוליים מחוברים או מאוחים לרגל בדרך כלל בכמה מקומות. המשטח העליון חלק עד מקומט קלות וצבעו אפור צפחה, אפור כהה, אפור חום או שחור פחם, בעוד צורות לבקניות נדירות הן לבנבנות. הצד התחתון העקר בהיר יותר, לבנבן עד אפור אפר, וחלק עד מאובק קלות ולא פלומתי בצפיפות.",
+      "hymenium": "השכבה יוצרת הנבגים מכסה את המשטח העליון החלק עד המקומט קלות של הכובע, ללא דפים, נקבוביות או גומות. האסקוסים הגליליים בגודל 200–340 × 10–16 µm וכל אחד מהם מכיל שמונה אסקוספורות, לצד פאראפיזות גליליות ברוחב כ-2.5–10 µm שבקצותיהן עיגול או התעבות קלה.",
+      "stipe": "גובה הרגל 3–10 cm (לעיתים עד 15 cm) ועובייה 1–3 cm, והיא גלילית בקירוב או מתרחבת קלות בבסיסה. בצעירותה היא לבנבנה, ובמהרה הופכת לאפור אפר חיוור, חום-אפור או אפור כהה; היא חרוצה עמוקות בצלעות אורך חדות, גשרי רוחב ושקעים סגלגלים מוארכים, ובפנים יש בה כמה חללים חלולים.",
+      "flesh": "הבשר דק ושביר בכובע ושעוותי עד סחוסי או גמיש-קשוח ברגל, לבנבן עד אפור בהיר, ללא שינוי צבע בחיתוך. הטעם עדין ובלתי בולט; הריח חלש ולא מוגדר, לעיתים מתובל בנעימות בפרטים צעירים ועמום או אדמתי בזקנים.",
+      "sporePrint": "הדפס הנבגים לבן. האסקוספורות אליפסואידיות רחבות, חלקות וחסרות צבע, בגודל 15–20 × 10–13 µm (לעיתים 13–21 × 9–14 µm), ובכל אחת מהן טיפת שמן מרכזית אחת גדולה.",
+      "habitat": "גדלה על קרקע, בין נשורת עלים, בטחב או בעשב נמוך ביערות לחים נשירים, מחטניים ומעורבים — לעיתים קרובות תחת אלון, אשור או אורן — וכן לאורך שבילי יער, על קרקע מופרעת, בפארקים ולעיתים תכופות על אדמה שרופה. ככל הנראה אקטומיקוריזית, ומניבה ממאי עד נובמבר עם שיא בסוף הקיץ ובסתיו.",
+      "uses": "מדריכים ישנים יותר וכמה אטלסים אירופיים מתייחסים אליה כאכילה לאחר בישול יסודי או חליטה מוקדמת, לרוב בשימוש בכובעים בלבד במרקים, אף שהיא נחשבת בדרך כלל לירודה בטעם ובמרקם. עם זאת היא גורמת להפרעות במערכת העיכול באכילה נאה או שאינה מבושלת דייה, וקיים חשד שהיא מכילה תרכובות הקשורות לגירומיטרין המשחררות מונומתילהידרזין, ולכן הנחיות טוקסיקולוגיות מודרניות ממליצות להימנע מאכילתה.",
+      "confusion": "ל-Helvella crispa כובע לבן-קרמי עד אוכרה חיוור בעל שוליים חופשיים וצד תחתון פלומתי עדין, המבדיל אותה גם מצורות בהירות נדירות. ל-Helvella elastica, ל-Helvella atra ול-Helvella spadicea רגליים גליליות חלקות ללא צלעות. ל-Helvella phlebophora צלעות בולטות הנמשכות אל הצד התחתון של הכובע. ל-Gyromitra infula כובע חום-אדמדם דמוי אוכף או מוח על רגל חלקה, ולמיני Morchella כובעים מנוקבי גומות כחלת דבש והם מניבים באביב.",
+      "notes": "מחקרי DNA מראים כי Helvella lacunosa האמיתית היא מין אירופי של האזור הבוריאלי והממוזג; מינים כהים דומים בעלי רגל מחורצת באמריקה הצפונית שייכים למכלול של לפחות אחד-עשר מינים פילוגנטיים נפרדים, ובהם Helvella vespertina תחת מחטניים ו-Helvella dryophila תחת אלונים במערב. גופי הפרי משמשים לעיתים פונדקאים לטפילים Hypomyces cervinigenus או Clitocybe sclerotoidea."
+    },
+    "hi": {
+      "description": "यह गहरे रंग का ग्रीष्म और शरद ऋतु का एस्कोमाइसीट कवक है, जो पर्णपाती, शंकुधारी और मिश्रित वनों के साथ-साथ उद्यानों और काई से ढके खुले स्थानों में मिट्टी तथा जली हुई भूमि पर अकेले या छोटे समूहों में उगता है। मूल रूप से यूरोप से वर्णित यह प्रजाति स्कैंडिनेविया से भूमध्यसागरीय क्षेत्र तक व्यापक रूप से पाई जाती है, और इसे एशिया तथा पूर्वी उत्तरी अमेरिका से भी दर्ज किया गया है।",
+      "cap": "इसकी टोपी 2–6 cm चौड़ी (कभी-कभी 1–10 cm) होती है, जो अनियमित रूप से काठी या मुकुट के आकार की होती है और इसमें दो से चार मुड़े हुए व तहदार खंड होते हैं। इसका किनारा आमतौर पर कई स्थानों पर डंठल से जुड़ा या संलग्न रहता है। ऊपरी सतह चिकनी से हल्की झुर्रीदार होती है और स्लेटी धूसर, गहरे धूसर, भूरे-धूसर या कोयले जैसे काले रंग की होती है, जबकि दुर्लभ एल्बिनो रूप सफेदी लिए होते हैं। निचली बंध्य सतह अपेक्षाकृत हल्की सफेदी लिए या राख जैसी धूसर होती है तथा घने रोएंदार होने के बजाय चिकनी से हल्की चूर्णिल होती है।",
+      "hymenium": "बीजाणु बनाने वाली परत टोपी की चिकनी से हल्की झुर्रीदार ऊपरी सतह को ढकती है; इसमें गिल्स, छिद्र या गड्ढे नहीं होते। बेलनाकार एस्कस 200–340 × 10–16 µm आकार के होते हैं और प्रत्येक में आठ एस्कोबीजाणु होते हैं, जिनके साथ लगभग 2.5–10 µm चौड़े बेलनाकार पैराफाइसिस होते हैं जिनके सिरे गोल से हल्के फूले हुए होते हैं।",
+      "stipe": "डंठल 3–10 cm लंबा (कभी-कभी 15 cm तक) और 1–3 cm मोटा होता है, जो लगभग बेलनाकार या आधार पर थोड़ा चौड़ा होता है। युवा अवस्था में यह सफेदी लिए होता है और शीघ्र ही हल्का राख-धूसर, धूसर-भूरा या गहरा धूसर हो जाता है; इसकी सतह पर तीखी अनुदैर्ध्य धारियाँ, आड़े सेतु और लंबे अंडाकार गड्ढे गहराई से उकेरे होते हैं, तथा भीतर कई खोखले कक्ष होते हैं।",
+      "flesh": "गूदा टोपी में पतला और भंगुर तथा डंठल में मोमी से उपास्थिल या दृढ़-लचीला होता है; यह सफेदी लिए से हल्का धूसर होता है और काटने पर रंग नहीं बदलता। स्वाद हल्का और सामान्य होता है; गंध क्षीण और अस्पष्ट होती है, जो कभी-कभी युवा नमूनों में सुखद मसालेदार और पुराने नमूनों में फीकी या मिट्टी जैसी होती है।",
+      "sporePrint": "बीजाणु छाप सफेद होती है। एस्कोबीजाणु चौड़े अंडाकार, चिकने और रंगहीन होते हैं, जिनका आकार 15–20 × 10–13 µm (कभी-कभी 13–21 × 9–14 µm) होता है और प्रत्येक के केंद्र में एक बड़ी तेल की बूंद होती है।",
+      "habitat": "यह नम पर्णपाती, शंकुधारी और मिश्रित वनों — प्रायः ओक, बीच या चीड़ के नीचे — में मिट्टी पर, गिरी हुई पत्तियों के बीच, काई में या छोटी घास में उगता है, साथ ही वन पगडंडियों के किनारे, खोदी हुई भूमि पर, उद्यानों में और अक्सर जली हुई मिट्टी पर मिलता है। यह संभवतः बाह्य कवकमूलीय (एक्टोमाइकोराइजल) है और मई से नवंबर तक फलता है, जिसका चरम ग्रीष्म के अंत और शरद ऋतु में होता है।",
+      "uses": "पुरानी मार्गदर्शिकाएँ और कुछ यूरोपीय एटलस इसे अच्छी तरह पकाने या उबालकर पानी फेंकने के बाद खाद्य मानते हैं, जिसमें आमतौर पर सूप में केवल टोपियों का उपयोग किया जाता है, यद्यपि स्वाद और बनावट में इसे सामान्यतः निम्न माना जाता है। फिर भी कच्चा या अधपका खाने पर यह जठरांत्र संबंधी विकार उत्पन्न करता है और इसमें गायरोमिट्रिन से संबंधित यौगिक होने का संदेह है जो मोनोमेथिलहाइड्राजीन मुक्त करते हैं; इसलिए आधुनिक विषविज्ञान संबंधी दिशानिर्देश इसे न खाने की सलाह देते हैं।",
+      "confusion": "Helvella crispa की टोपी क्रीमी-सफेद से हल्के गेरुए रंग की होती है, जिसके किनारे स्वतंत्र और निचली सतह महीन रोएंदार होती है, जिससे यह दुर्लभ हल्के रूपों से भी अलग पहचानी जाती है। Helvella elastica, Helvella atra और Helvella spadicea सभी के डंठल चिकने, बिना धारियों वाले और बेलनाकार होते हैं। Helvella phlebophora में स्पष्ट धारियाँ होती हैं जो टोपी की निचली सतह तक फैली रहती हैं। Gyromitra infula की टोपी लाल-भूरे रंग की, काठी या मस्तिष्क जैसी होती है और चिकने डंठल पर लगी रहती है, जबकि Morchella की प्रजातियों की टोपियाँ मधुमक्खी के छत्ते जैसे गड्ढों वाली होती हैं और वसंत ऋतु में उगती हैं।",
+      "notes": "डीएनए अध्ययनों से पता चलता है कि वास्तविक Helvella lacunosa उत्तरी और समशीतोष्ण यूरोप की प्रजाति है; उत्तरी अमेरिका में इसी तरह की गहरे रंग और नालीदार डंठल वाली प्रजातियाँ कम से कम ग्यारह अलग-अलग जातिवृत्तीय प्रजातियों के समूह से संबंधित हैं, जिनमें पश्चिम में शंकुधारियों के नीचे पाई जाने वाली Helvella vespertina और ओक के नीचे पाई जाने वाली Helvella dryophila शामिल हैं। इसके फलनकाय कभी-कभी Hypomyces cervinigenus या Clitocybe sclerotoidea द्वारा परजीवीकृत हो जाते हैं।"
+    },
+    "hr": {
+      "description": "Tamna ljetna i jesenska mješinarka koja plodonosi pojedinačno ili u manjim skupinama na tlu i zgarištima u listopadnim, crnogoričnim i mješovitim šumama, kao i u parkovima te na mahovinastim čistinama. Izvorno je opisana iz Europe, gdje je široko rasprostranjena od Skandinavije do Sredozemlja, a zabilježena je i u Aziji te istočnom dijelu Sjeverne Amerike.",
+      "cap": "Klobuk je širok 2–6 cm (rijetko 1–10 cm), nepravilno sedlast ili mitrast s dva do četiri zavrnuta, naborana režnja. Rub je obično na više mjesta prirastao ili srastao sa stručkom. Gornja površina je glatka do blago naborana, škriljastosiva, tamnosiva, smeđesiva ili ugljenocrna, dok su rijetki albino oblici bjelkasti. Sterilna donja strana je svjetlija, bjelkasta do pepeljastosiva, glatka do blago maškasta, a ne gusto baršunasta.",
+      "hymenium": "Plodni sloj prekriva glatku do blago naboranu gornju površinu klobuka, bez listića, pora i jamica. Valjkasti askusi mjere 200–340 × 10–16 µm i svaki sadrži osam askospora, uz valjkaste parafize široke oko 2,5–10 µm sa zaobljenim do blago zadebljanim vrhovima.",
+      "stipe": "Stručak je visok 3–10 cm (rijetko do 15 cm) i debeo 1–3 cm, približno valjkast ili blago proširen pri osnovi. U mladosti je bjelkast, ubrzo postaje blijedo pepeljastosiv, sivosmeđ ili tamnosiv te je duboko izbrazdan oštrim uzdužnim rebrima, poprečnim prečkama i izduženim ovalnim jamicama, dok u unutrašnjosti ima nekoliko šupljih komorica.",
+      "flesh": "Meso je u klobuku tanko i krhko, a u stručku voštano do hrskavičasto ili žilavo-elastično, bjelkasto do blijedosivo, bez promjene boje na prerezu. Okus je blag i neizrazit; miris je slab i neodređen, kod mladih primjeraka ponekad ugodno začinski, a kod starijih tup ili zemljast.",
+      "sporePrint": "Otisak spora je bijel. Askospore su široko elipsoidne, glatke i bezbojne, veličine 15–20 × 10–13 µm (rijetko 13–21 × 9–14 µm), a svaka sadrži jednu veliku središnju uljnu kapljicu.",
+      "habitat": "Raste na tlu, u opalom lišću, mahovini ili niskoj travi u vlažnim listopadnim, crnogoričnim i mješovitim šumama – često pod hrastom, bukvom ili borom – kao i uz šumske putove, na narušenom tlu, u parkovima te često na zgarištima. Vjerojatno je ektomikorizna i plodonosi od svibnja do studenoga, s vrhuncem u kasno ljeto i jesen.",
+      "uses": "Stariji priručnici i neki europski atlasi navode je kao jestivu nakon temeljitog kuhanja ili prokuhavanja, pri čemu se obično koriste samo klobuci u juhama, iako se općenito smatra slabom po okusu i teksturi. Međutim, ako se jede sirova ili nedovoljno kuhana, izaziva probavne tegobe, a sumnja se i da sadrži spojeve srodne giromitrinu koji oslobađaju monometilhidrazin, pa suvremene toksikološke preporuke savjetuju da se ne jede.",
+      "confusion": "Helvella crispa ima krembijeli do blijedooker klobuk sa slobodnim rubovima i fino pahuljastom donjom stranom, što je odvaja i od rijetkih blijedih oblika. Helvella elastica, Helvella atra i Helvella spadicea imaju gladak, nerebrasti valjkasti stručak. Helvella phlebophora ima izražena rebra koja se pružaju i na donju stranu klobuka. Gyromitra infula ima crvenosmeđi, sedlast ili mozgovito naboran klobuk na glatkom stručku, dok vrste roda Morchella imaju klobuke sa saćastim jamicama i plodonose u proljeće.",
+      "notes": "DNK istraživanja pokazuju da je prava Helvella lacunosa borealna i umjerena europska vrsta; slične tamne vrste s rebrastim stručkom u Sjevernoj Americi pripadaju kompleksu od najmanje jedanaest zasebnih filogenetskih vrsta, uključujući Helvella vespertina pod četinjačama i Helvella dryophila pod hrastovima na zapadu. Plodna tijela povremeno parazitiraju Hypomyces cervinigenus ili Clitocybe sclerotoidea."
+    },
+    "hu": {
+      "description": "Sötét nyári és őszi tömlősgomba, amely egyesével vagy kisebb csoportokban terem talajon és égésnyomokon lombos, fenyő- és vegyes erdőkben, valamint parkokban és mohás tisztásokon. Eredetileg Európából írták le, ahol Skandináviától a Földközi-tenger vidékéig széles körben elterjedt, de Ázsiából és Észak-Amerika keleti részéről is jelezték.",
+      "cap": "Kalapja 2–6 cm széles (ritkán 1–10 cm), szabálytalanul nyereg vagy püspöksüveg alakú, kettő–négy csavarodott, gyűrt lebenyből áll. Széle többnyire több ponton a tönkhöz nőtt vagy összeforrt vele. Felső felszíne sima vagy enyhén ráncos, palaszürke, sötétszürke, barnásszürke vagy szénfekete, míg a ritka albínó alakok fehéresek. Steril alsó oldala világosabb, fehéres vagy hamuszürke, sima vagy finoman deres, nem sűrűn pelyhes.",
+      "hymenium": "A termőréteg a kalap sima vagy enyhén ráncos felső felszínét borítja, lemezek, pórusok és gödröcskék nélkül. A hengeres tömlők (aszkuszok) 200–340 × 10–16 µm méretűek, mindegyik nyolc tömlőspórát (aszkospórát) tartalmaz, és körülbelül 2,5–10 µm széles, lekerekített vagy kissé megvastagodott csúcsú hengeres parafízisek kísérik őket.",
+      "stipe": "Tönkje 3–10 cm magas (ritkán 15 cm-ig) és 1–3 cm vastag, nagyjából hengeres vagy a tövénél kissé kiszélesedő. Fiatalon fehéres, majd hamar világos hamuszürke, szürkésbarna vagy sötétszürke lesz; felszínét mélyen tagolják az éles hosszanti bordák, harántkötések és megnyúlt ovális gödrök, belsejében pedig több üreges kamra található.",
+      "flesh": "Húsa a kalapban vékony és törékeny, a tönkben viaszos–porcos vagy szívósan rugalmas, fehéres vagy halványszürke, vágásra nem színeződik el. Íze enyhe és jellegtelen; szaga gyenge és bizonytalan, fiatal példányokon néha kellemesen fűszeres, öregebbeken tompa vagy földes.",
+      "sporePrint": "Spórapora fehér. A tömlőspórák széles ellipszoid alakúak, simák és színtelenek, 15–20 × 10–13 µm (ritkán 13–21 × 9–14 µm) méretűek, és mindegyikükben egyetlen nagy, központi olajcsepp található.",
+      "habitat": "Talajon, avarban, mohában vagy rövid fűben terem nyirkos lombos, fenyő- és vegyes erdőkben – gyakran tölgy, bükk vagy erdeifenyő alatt –, továbbá erdei utak mentén, bolygatott talajon, parkokban és gyakran égésnyomokon. Valószínűleg ektomikorrhizás, és májustól novemberig hoz termőtestet, a csúcsidőszaka a nyár vége és az ősz.",
+      "uses": "Régebbi határozók és egyes európai atlaszok alapos főzés vagy forrázás után ehetőként említik, többnyire csak a kalapját használva levesekbe, bár ízét és állagát általában gyengének tartják. Nyersen vagy nem eléggé megfőzve azonban gyomor-bélrendszeri panaszokat okoz, és felmerült, hogy giromitrinhez hasonló, monometilhidrazint felszabadító vegyületeket tartalmazhat, ezért a modern toxikológiai ajánlások nem javasolják a fogyasztását.",
+      "confusion": "A Helvella crispa kalapja krémfehér–halványokker, szélei szabadok, alsó oldala pedig finoman pelyhes, ami még a ritka világos alakoktól is elkülöníti. A Helvella elastica, a Helvella atra és a Helvella spadicea tönkje sima, bordázatlan és hengeres. A Helvella phlebophora markáns bordái a kalap alsó oldalára is átnyúlnak. A Gyromitra infula vörösesbarna, nyereg- vagy agyszerű kalapot visel sima tönkön, míg a Morchella fajok kalapja méhsejtszerűen gödröcskés, és tavasszal teremnek.",
+      "notes": "DNS-vizsgálatok szerint a valódi Helvella lacunosa boreális és mérsékelt övi európai faj; a hasonló sötét, bordás tönkű észak-amerikai fajok legalább tizenegy elkülönülő filogenetikai fajból álló fajkomplexbe tartoznak, köztük a nyugaton fenyők alatt növő Helvella vespertina és a tölgyek alatt növő Helvella dryophila. Termőtestein alkalmanként a Hypomyces cervinigenus vagy a Clitocybe sclerotoidea élősködik."
+    },
+    "id": {
+      "description": "Jamur askomisetes berwarna gelap musim panas dan gugur yang berbuah sendiri atau dalam kelompok kecil di tanah dan lahan bekas terbakar di hutan gugur, hutan konifer, dan hutan campuran, serta di taman dan padang terbuka berlumut. Awalnya dideskripsikan dari Eropa, tempat ia tersebar luas dari Skandinavia hingga Mediterania, jamur ini juga dilaporkan dari Asia dan Amerika Utara bagian timur.",
+      "cap": "Tudung berdiameter 2–6 cm (sesekali 1–10 cm), berbentuk pelana atau mitra tidak beraturan dengan dua hingga empat lobus yang terpilin dan terlipat. Tepinya biasanya menempel atau menyatu dengan tangkai di beberapa tempat. Permukaan atasnya halus hingga agak berkerut dan berwarna abu-abu batu tulis, abu-abu gelap, abu-abu kecokelatan, atau hitam arang, sedangkan bentuk albino yang langka berwarna keputihan. Bagian bawah yang steril lebih pucat, keputihan hingga abu-abu abu, dan halus hingga agak bertepung tipis, bukan berbulu halus lebat.",
+      "hymenium": "Lapisan penghasil spora menutupi permukaan atas tudung yang halus hingga sedikit berkerut, tanpa lamela, pori, atau lubang. Askus berbentuk silindris berukuran 200–340 × 10–16 µm dan masing-masing berisi delapan askospora, didampingi parafisis silindris selebar sekitar 2,5–10 µm dengan ujung membulat hingga agak membengkak.",
+      "stipe": "Tangkai setinggi 3–10 cm (sesekali hingga 15 cm) dan setebal 1–3 cm, kurang lebih silindris atau sedikit melebar di bagian pangkal. Saat muda berwarna keputihan, lalu segera berubah menjadi abu-abu abu pucat, cokelat keabu-abuan, atau abu-abu gelap, dan terpahat dalam oleh rusuk membujur tajam, jembatan melintang, serta kantong lonjong memanjang, dengan beberapa rongga di bagian dalamnya.",
+      "flesh": "Daging tipis dan rapuh pada tudung serta berlilin hingga seperti tulang rawan atau liat-elastis pada tangkai, berwarna keputihan hingga abu-abu pucat, tanpa perubahan warna saat dipotong. Rasanya ringan dan tidak mencolok; baunya lemah dan tidak khas, terkadang harum rempah lembut pada spesimen muda dan tawar atau berbau tanah pada spesimen tua.",
+      "sporePrint": "Jejak spora berwarna putih. Askospora berbentuk elipsoid lebar, halus, dan tidak berwarna, berukuran 15–20 × 10–13 µm (sesekali 13–21 × 9–14 µm), masing-masing mengandung satu tetesan minyak besar di tengahnya.",
+      "habitat": "Tumbuh di tanah, di antara serasah daun, di lumut, atau di rumput pendek pada hutan gugur, konifer, dan campuran yang lembap—sering di bawah pohon ek, beech, atau pinus—serta di sepanjang jalur hutan, di tanah terganggu, di taman, dan sering kali di tanah bekas terbakar. Kemungkinan besar bersifat ektomikoriza, berbuah dari Mei hingga November dengan puncak pada akhir musim panas dan musim gugur.",
+      "uses": "Panduan lama dan beberapa atlas Eropa memperlakukannya sebagai dapat dimakan setelah dimasak matang atau direbus terlebih dahulu, biasanya hanya memakai tudungnya dalam sup, meskipun secara umum dinilai kurang baik dari segi rasa dan tekstur. Namun, jamur ini menyebabkan gangguan saluran pencernaan jika dimakan mentah atau kurang matang dan diduga mengandung senyawa terkait giromitrin yang melepaskan monometilhidrazina, sehingga pedoman toksikologi modern menyarankan agar tidak memakannya.",
+      "confusion": "Helvella crispa memiliki tudung putih krem hingga oker pucat dengan tepi bebas dan bagian bawah berbulu halus, sehingga membedakannya bahkan dari bentuk pucat yang langka. Helvella elastica, Helvella atra, dan Helvella spadicea semuanya bertangkai silindris halus tanpa rusuk. Helvella phlebophora memiliki rusuk menonjol yang memanjang ke bagian bawah tudung. Gyromitra infula memiliki tudung cokelat kemerahan berbentuk pelana atau menyerupai otak pada tangkai halus, sedangkan spesies Morchella bertudung berlubang seperti sarang lebah dan berbuah pada musim semi.",
+      "notes": "Studi DNA menunjukkan bahwa Helvella lacunosa sejati merupakan spesies Eropa boreal dan beriklim sedang; jamur serupa berwarna gelap bertangkai beralur di Amerika Utara termasuk dalam kompleks sedikitnya sebelas spesies filogenetik yang berbeda, termasuk Helvella vespertina di bawah konifer dan Helvella dryophila di bawah ek di bagian barat. Tubuh buahnya sesekali diparasiti oleh Hypomyces cervinigenus atau Clitocybe sclerotoidea."
+    },
+    "it": {
+      "description": "Ascomicete scuro estivo e autunnale che fruttifica isolato o in piccoli gruppi sul terreno e su suoli bruciati in boschi di latifoglie, di conifere e misti, nonché in parchi e radure muschiose. Descritto originariamente in Europa, dove è ampiamente diffuso dalla Scandinavia al Mediterraneo, è stato segnalato anche in Asia e nel Nord America orientale.",
+      "cap": "Il cappello misura 2–6 cm di larghezza (occasionalmente 1–10 cm) e ha forma irregolare a sella o a mitra, con due fino a quattro lobi contorti e pieghettati. Il margine è tipicamente saldato o aderente al gambo in più punti. La superficie superiore è liscia o leggermente grinzosa, di colore grigio ardesia, grigio scuro, grigio-brunastro o nero carbone, mentre le rare forme albine sono biancastre. La faccia inferiore sterile è più chiara, da biancastra a grigio cenere, e liscia o lievemente pruinosa anziché fittamente pubescente.",
+      "hymenium": "Lo strato sporifero riveste la superficie superiore liscia o leggermente grinzosa del cappello, senza lamelle, pori né alveoli. Gli aschi cilindrici misurano 200–340 × 10–16 µm e contengono otto ascospore ciascuno, accompagnati da parafisi cilindriche larghe circa 2,5–10 µm con apici arrotondati o leggermente rigonfi.",
+      "stipe": "Il gambo è alto 3–10 cm (occasionalmente fino a 15 cm) e spesso 1–3 cm, grossolanamente cilindrico o leggermente allargato alla base. È biancastro da giovane, divenendo presto grigio cenere pallido, grigio-bruno o grigio scuro, ed è profondamente scolpito da costolature longitudinali affilate, ponti trasversali e fossette ovali allungate, con diverse camere cave all'interno.",
+      "flesh": "La carne è sottile e fragile nel cappello e cerosa fino a cartilaginea o tenace-elastica nel gambo, biancastra o grigio pallido, immutabile al taglio. Il sapore è mite e poco caratteristico; l'odore è debole e indistinto, talvolta gradevolmente speziato negli esemplari giovani e spento o terroso in quelli vecchi.",
+      "sporePrint": "L'impronta sporale è bianca. Le ascospore sono largamente ellissoidi, lisce e incolori, di 15–20 × 10–13 µm (occasionalmente 13–21 × 9–14 µm), ciascuna contenente una singola grande goccia lipidica centrale.",
+      "habitat": "Cresce sul terreno, tra la lettiera di foglie, nel muschio o nell'erba bassa in boschi umidi di latifoglie, di conifere e misti — spesso sotto quercia, faggio o pino — così come lungo i sentieri boschivi, su terreni smossi, nei parchi e frequentemente su suoli bruciati. Probabilmente ectomicorrizico, fruttifica da maggio a novembre, con il picco tra la tarda estate e l'autunno.",
+      "uses": "Guide più datate e alcuni atlanti europei lo considerano commestibile previa cottura prolungata o sbollentatura, impiegando di solito solo i cappelli nelle zuppe, sebbene sia generalmente ritenuto scadente per sapore e consistenza. Tuttavia provoca disturbi gastrointestinali se consumato crudo o poco cotto ed è sospettato di contenere composti affini alla giromitrina che rilasciano monometilidrazina, motivo per cui le moderne indicazioni tossicologiche ne sconsigliano il consumo.",
+      "confusion": "Helvella crispa presenta un cappello bianco crema o ocra pallido con margini liberi e faccia inferiore finemente pubescente, distinguendosi anche dalle rare forme chiare. Helvella elastica, Helvella atra e Helvella spadicea hanno tutte un gambo cilindrico liscio e privo di costolature. Helvella phlebophora mostra costolature prominenti che si estendono sulla faccia inferiore del cappello. Gyromitra infula ha un cappello bruno-rossastro a sella o cerebriforme su un gambo liscio, mentre le specie di Morchella hanno cappelli con alveoli a nido d'ape e fruttificano in primavera.",
+      "notes": "Gli studi del DNA mostrano che la vera Helvella lacunosa è una specie europea boreale e temperata; specie scure simili con gambo costoluto in Nord America appartengono a un complesso di almeno undici specie filogenetiche distinte, tra cui Helvella vespertina sotto conifere e Helvella dryophila sotto querce nell'ovest. I corpi fruttiferi sono occasionalmente parassitati da Hypomyces cervinigenus o Clitocybe sclerotoidea."
+    },
+    "ja": {
+      "description": "広葉樹林、針葉樹林、混交林の地上や焚き火跡のほか、公園やコケに覆われた林間の空き地に単生または少数群生する、暗色の夏から秋の子嚢菌です。スカンジナビアから地中海沿岸まで広く分布するヨーロッパから最初に記載され、アジアや北アメリカ東部からも報告されています。",
+      "cap": "傘は径2–6 cm（ときに1–10 cm）で、2–4個のねじれて折り重なった裂片からなる不規則な鞍形または司教帽形をしています。縁は通常、数か所で柄に付着または癒合しています。上面は平滑からわずかにしわがあり、スレート灰色、暗灰色、灰褐色または炭黒色で、まれに見られる白化型は帯白色です。胞子を作らない下面はより淡く帯白色から灰白色で、密な細毛はなく平滑からわずかに粉状を帯びます。",
+      "hymenium": "胞子を形成する層は傘の平滑から軽くしわのある上面を覆い、ひだ、管孔、くぼみはありません。円柱形の子嚢は200–340 × 10–16 µmで、それぞれ8個の子嚢胞子を含み、先端が丸いかやや膨らんだ幅約2.5–10 µmの円柱形の側糸を伴います。",
+      "stipe": "柄は高さ3–10 cm（ときに15 cmまで）、太さ1–3 cmで、ほぼ円柱形か基部がわずかに太くなります。幼時は帯白色ですが、まもなく淡い灰白色、灰褐色または暗灰色となり、鋭い縦の肋脈、横の橋状のつながり、細長い楕円形のくぼみによって深く彫刻され、内部には複数の中空室があります。",
+      "flesh": "肉は傘では薄くてもろく、柄ではろう質から軟骨質または強靱で弾力があり、帯白色から淡灰色で、傷つけても変色しません。味は温和で特徴に乏しく、においは弱く不明瞭で、若い個体ではときに心地よい香辛料様の香りがあり、老成した個体では鈍い土臭を帯びます。",
+      "sporePrint": "胞子紋は白色です。子嚢胞子は広楕円形で平滑・無色、大きさは15–20 × 10–13 µm（ときに13–21 × 9–14 µm）で、中央に大きな油滴を1個含みます。",
+      "habitat": "湿潤な広葉樹林、針葉樹林、混交林の地上、落ち葉の間、コケの中、丈の低い草地（しばしばナラ類、ブナ、マツの樹下）のほか、林道沿い、かく乱された地面、公園、そしてしばしば焼け跡の土壌に発生します。外生菌根性と推定され、5月から11月にかけて発生し、晩夏から秋に最盛期を迎えます。",
+      "uses": "古い図鑑や一部のヨーロッパの図譜では、通常は傘のみをスープなどに用い、十分に煮込むかゆでこぼせば食用になるとしていますが、風味や食感は一般に劣ると評価されています。しかし生食や加熱不十分な摂取で胃腸障害を引き起こすうえ、モノメチルヒドラジンを遊離するギロミトリン関連化合物を含む疑いがあるため、現代の毒性学的指針では食用にしないよう助言しています。",
+      "confusion": "Helvella crispaは乳白色から淡黄土色の傘を持ち、縁が柄から離れて下面に細かい毛が密生するため、まれな淡色型からも区別できます。Helvella elastica、Helvella atraおよびHelvella spadiceaはいずれも肋脈のない平滑な円柱形の柄を持ちます。Helvella phlebophoraは傘の下面まで伸びる明瞭な肋脈を備えます。Gyromitra infulaは平滑な柄の上に赤褐色の鞍形または脳状の傘をつけ、Morchella属は蜂の巣状のくぼみを持つ傘を形成して春に発生します。",
+      "notes": "DNA研究により、真のHelvella lacunosaはヨーロッパの亜寒帯から温帯にかけての種であることが示されています。北アメリカに産するよく似た暗色で溝のある柄の類縁群は、西部の針葉樹下に生えるHelvella vespertinaやナラ類の下に生えるHelvella dryophilaを含む、少なくとも11の独立した系統学的種からなる複合群に属します。子実体はときにHypomyces cervinigenusやClitocybe sclerotoideaの寄生を受けます。"
+    },
+    "ko": {
+      "description": "활엽수림, 침엽수림, 혼합림과 공원, 이끼 낀 공터의 땅이나 불탄 자리에서 홀로 또는 작은 무리를 이루어 자라는 어두운 색의 여름·가을 자낭균입니다. 스칸디나비아에서 지중해에 이르기까지 널리 분포하는 유럽에서 처음 기재되었으며, 아시아와 북아메리카 동부에서도 보고되었습니다.",
+      "cap": "갓은 지름 2–6 cm(드물게 1–10 cm)이며, 뒤틀리고 접힌 2–4개의 갈래를 지닌 불규칙한 안장 모양 또는 주교관 모양입니다. 가장자리는 보통 여러 곳에서 대에 붙거나 유합되어 있습니다. 윗면은 매끄럽거나 약간 주름져 있으며 점판암 회색, 짙은 회색, 갈회색 또는 숯검정색이고, 드문 백화형은 흰빛을 띱니다. 포자가 생기지 않는 아랫면은 더 옅은 흰빛에서 잿빛을 띠며, 빽빽한 잔털 대신 매끄럽거나 희미하게 분질이 덮여 있습니다.",
+      "hymenium": "포자를 만드는 층은 갓의 매끄럽거나 약간 주름진 윗면을 덮으며, 주름살이나 구멍, 오목한 홈은 없습니다. 원통형 자낭은 200–340 × 10–16 µm 크기이고 각각 8개의 자낭포자를 품으며, 끝이 둥글거나 약간 부푼 너비 약 2.5–10 µm의 원통형 측사가 동반됩니다.",
+      "stipe": "대는 높이 3–10 cm(드물게 15 cm까지), 굵기 1–3 cm이며 대략 원통형이거나 밑동이 약간 넓어집니다. 어릴 때는 흰빛을 띠다가 곧 옅은 잿빛, 회갈색 또는 짙은 회색으로 변하며, 날카로운 세로 능선과 가로 다리, 길쭉한 타원형 오목 자국으로 깊게 패어 있고 내부에는 여러 개의 빈 방이 있습니다.",
+      "flesh": "살은 갓에서는 얇고 부서지기 쉬우며 대에서는 밀랍질에서 연골질 또는 질기고 탄력 있는 질감이고, 흰빛에서 옅은 회색이며 잘라도 변색하지 않습니다. 맛은 순하고 뚜렷하지 않으며, 냄새는 약하고 모호하지만 어린 개체에서는 때로 기분 좋은 향신료 냄새가, 늙은 개체에서는 둔탁하거나 흙냄새가 납니다.",
+      "sporePrint": "포자문은 흰색입니다. 자낭포자는 넓은 타원형으로 매끄럽고 무색이며 크기는 15–20 × 10–13 µm(드물게 13–21 × 9–14 µm)이고, 각각 중앙에 큰 기름방울을 하나씩 지닙니다.",
+      "habitat": "습한 활엽수림, 침엽수림, 혼합림—흔히 참나무, 너도밤나무, 소나무 아래—의 땅, 낙엽층, 이끼 또는 짧은 풀밭뿐 아니라 숲길 가장자리, 교란된 지면, 공원, 그리고 불탄 흙 위에서도 자주 자랍니다. 외생균근성으로 추정되며 5월부터 11월까지 자실체를 만들고 늦여름과 가을에 가장 흔합니다.",
+      "uses": "오래된 도감과 일부 유럽 도보에서는 보통 갓만 수프에 넣어 충분히 익히거나 데친 뒤 식용할 수 있는 것으로 다루지만, 대체로 맛과 식감이 떨어진다고 평가됩니다. 그러나 날것이나 덜 익혀 먹으면 위장 장애를 일으키며 모노메틸히드라진을 방출하는 지로미트린 계열 화합물을 함유할 가능성이 의심되므로, 현대 독성학 지침에서는 섭취하지 말 것을 권장합니다.",
+      "confusion": "Helvella crispa는 가장자리가 떨어져 있고 아랫면에 고운 잔털이 있는 크림빛 흰색에서 옅은 황토색 갓을 지녀 드문 옅은 색 개체와도 구별됩니다. Helvella elastica, Helvella atra, Helvella spadicea는 모두 능선이 없는 매끄러운 원통형 대를 가집니다. Helvella phlebophora는 갓 아랫면까지 이어지는 뚜렷한 능선을 지닙니다. Gyromitra infula는 매끄러운 대 위에 적갈색의 안장 모양 또는 뇌 모양 갓을 가지며, Morchella 속 버섯은 벌집 모양의 구멍이 패인 갓을 지니고 봄에 발생합니다.",
+      "notes": "DNA 연구에 따르면 진정한 Helvella lacunosa는 유럽의 아한대 및 온대 종이며, 북아메리카의 비슷한 어두운 홈줄기 무리는 서부 침엽수림 아래의 Helvella vespertina와 참나무 아래의 Helvella dryophila를 포함해 최소 열한 개의 독립된 계통학적 종으로 이루어진 복합군에 속합니다. 자실체는 때때로 Hypomyces cervinigenus 또는 Clitocybe sclerotoidea의 기생을 받습니다."
+    },
+    "lt": {
+      "description": "Tamsus vasaros ir rudens aukšliagrybis, augantis pavieniui arba nedidelėmis grupėmis ant dirvožemio ir degimviečių lapuočių, spygliuočių bei mišriuose miškuose, taip pat parkuose ir samanotose aikštelėse. Iš pradžių aprašytas iš Europos, kur yra plačiai paplitęs nuo Skandinavijos iki Viduržemio jūros, jis taip pat užregistruotas Azijoje ir rytinėje Šiaurės Amerikos dalyje.",
+      "cap": "Kepurėlė 2–6 cm skersmens (kartais 1–10 cm), netaisyklingai balno arba mitros formos, su dviem–keturiomis susisukusiomis, susiraukšlėjusiomis skiautėmis. Kraštas paprastai keliose vietose priaugęs arba suaugęs su kotu. Viršutinis paviršius lygus arba šiek tiek raukšlėtas, skalūno pilkumo, tamsiai pilkas, rusvai pilkas arba anglies juodumo, o retos albinosinės formos yra balsvos. Sterili apatinė pusė šviesesnė — nuo balsvos iki pelenų pilkumo — ir lygi arba vos apšerkšnijusi, o ne tankiai pūkuota.",
+      "hymenium": "Sporas gaminantis sluoksnis dengia lygų arba šiek tiek raukšlėtą viršutinį kepurėlės paviršių; lakštelių, porų ar duobučių nėra. Cilindriški aukšliai (askai) yra 200–340 × 10–16 µm dydžio, kiekviename jų susidaro po aštuonias askosporas; juos lydi cilindriškos, apie 2,5–10 µm pločio parafizės suapvalintomis ar kiek sustorėjusiomis viršūnėmis.",
+      "stipe": "Kotas 3–10 cm aukščio (kartais iki 15 cm) ir 1–3 cm storio, maždaug cilindriškas arba ties pagrindu kiek išplatėjęs. Jaunas būna balsvas, netrukus tampa šviesiai pelenų pilkumo, pilkai rudas arba tamsiai pilkas; jį giliai raižo aštrios išilginės briaunos, skersinės pertvarėlės ir pailgos ovalios įdubos, o viduje yra kelios tuščiavidurės kameros.",
+      "flesh": "Trama kepurėlėje plona ir trapi, o kote vaškiška, kremzliška arba stangriai elastinga, balsva arba šviesiai pilka, perpjovus spalvos nekeičia. Skonis švelnus ir neišraiškingas; kvapas silpnas ir neapibrėžtas, jaunuose vaisiakūniuose kartais maloniai prieskoninis, o senuose — prėskas arba žemiškas.",
+      "sporePrint": "Sporų atspaudas baltas. Askosporos plačiai elipsiškos, lygios ir bespalvės, 15–20 × 10–13 µm dydžio (kartais 13–21 × 9–14 µm), kiekvienoje yra po vieną didelį centrinį riebalinį lašelį.",
+      "habitat": "Auga ant dirvožemio, tarp nukritusių lapų, samanose arba trumpoje žolėje drėgnuose lapuočių, spygliuočių ir mišriuose miškuose — dažnai po ąžuolais, bukais ar pušimis —, taip pat palei miško takus, ant suardytos žemės, parkuose ir neretai degimvietėse. Tikėtina, kad tai ektomikorizinis grybas; vaisiakūnius formuoja nuo gegužės iki lapkričio, gausiausiai vasaros pabaigoje ir rudenį.",
+      "uses": "Senesniuose vadovuose ir kai kuriuose Europos atlasuose laikomas valgomu po kruopštaus virimo ar nuvirimo, dažniausiai sriuboms naudojant tik kepurėles, nors paprastai vertinamas kaip prasto skonio ir tekstūros. Vis dėlto valgomas žalias arba nepakankamai termiškai apdorotas jis sukelia virškinamojo trakto sutrikimus ir įtariamas turintis su giromitrinu susijusių junginių, išskiriančių monometilhidraziną, todėl šiuolaikinės toksikologinės rekomendacijos pataria jo nevalgyti.",
+      "confusion": "Helvella crispa turi kreminės baltumo ar šviesiai ochros spalvos kepurėlę laisvais kraštais ir smulkiai pūkuota apatine puse, todėl skiriasi net nuo retų šviesių formų. Helvella elastica, Helvella atra ir Helvella spadicea turi lygius, nebriaunotus cilindriškus kotus. Helvella phlebophora pasižymi ryškiomis briaunomis, nusidriekiančiomis į apatinę kepurėlės pusę. Gyromitra infula turi rausvai rudą, balno arba smegenų pavidalo kepurėlę ant lygaus koto, o Morchella rūšys turi koriškas duobėtas kepurėles ir auga pavasarį.",
+      "notes": "DNR tyrimai rodo, kad tikroji Helvella lacunosa yra borealinės ir vidutinio klimato juostos Europos rūšis; panašūs tamsūs grybai rievėtais kotais Šiaurės Amerikoje priklauso mažiausiai vienuolikos atskirų filogenetinių rūšių kompleksui, įskaitant Helvella vespertina po spygliuočiais ir Helvella dryophila po ąžuolais vakaruose. Ant vaisiakūnių kartais parazituoja Hypomyces cervinigenus arba Clitocybe sclerotoidea."
+    },
+    "lv": {
+      "description": "Tumša vasaras un rudens asku sēne, kas aug pa vienai vai nelielās grupās uz zemes un degumos lapu koku, skuju koku un jauktos mežos, kā arī parkos un sūnainos klajumos. Sākotnēji aprakstīta no Eiropas, kur tā ir plaši izplatīta no Skandināvijas līdz Vidusjūrai, tā ziņota arī no Āzijas un Ziemeļamerikas austrumdaļas.",
+      "cap": "Cepurīte ir 2–6 cm plata (reizēm 1–10 cm), neregulāri seglveida vai mitrveida ar divām līdz četrām savītām, krokotām daivām. Mala parasti vairākās vietās ir pieaugusi vai saaugusi ar kātiņu. Virspuse ir gluda līdz viegli grumbaina, šīfera pelēka, tumši pelēka, brūnganpelēka vai ogļmelna, savukārt retas albīnas formas ir bālganas. Sterilā apakšpuse ir gaišāka — bālgana līdz pelnpelēka — un gluda līdz vāji apsarmota, nevis blīvi pūkaina.",
+      "hymenium": "Sporu veidojošais slānis klāj cepurītes gludo līdz viegli grumbaino virspusi; lapiņu, poru vai iedobumu nav. Cilindriskās somiņas (aski) ir 200–340 × 10–16 µm lielas, un katrā ir astoņas askosporas; tās pavada cilindriskas parafīzes, aptuveni 2,5–10 µm platas, ar noapaļotiem līdz nedaudz paresninātiem galiem.",
+      "stipe": "Kātiņš ir 3–10 cm garš (reizēm līdz 15 cm) un 1–3 cm resns, aptuveni cilindrisks vai pie pamatnes nedaudz paplašināts. Jaunībā tas ir bālgans, drīz kļūst gaiši pelnpelēks, pelēkbrūns vai tumši pelēks, un to dziļi vago asas gareniskas ribas, šķērssaites un pagarinātas ovālas iedobes; iekšpusē ir vairākas dobas kameras.",
+      "flesh": "Mīkstums cepurītē ir plāns un trausls, bet kātiņā — vaskains līdz skrimšļains vai sīksti elastīgs, bālgans līdz gaiši pelēks, griezumā krāsu nemaina. Garša ir maiga un neizteiksmīga; smarža ir vāja un nenoteikta, jauniem augļķermeņiem reizēm patīkami garšvielaina, bet vecākiem — blāva vai zemes smaržai līdzīga.",
+      "sporePrint": "Sporu nospiedums ir balts. Askosporas ir plati elipsoīdas, gludas un bezkrāsainas, 15–20 × 10–13 µm lielas (reizēm 13–21 × 9–14 µm), un katra satur vienu lielu centrālu eļļas pilienu.",
+      "habitat": "Aug uz zemes, lapu nobirās, sūnās vai īsā zālē mitros lapu koku, skuju koku un jauktos mežos — bieži zem ozoliem, dižskābaržiem vai priedēm —, kā arī gar meža takām, uz traucētas augsnes, parkos un bieži uz degumu zemes. Domājams, ka tā ir ektomikorizas sēne; augļķermeņi parādās no maija līdz novembrim ar maksimumu vēlā vasarā un rudenī.",
+      "uses": "Vecāki noteicēji un daži Eiropas atlanti to uzskata par ēdamu pēc rūpīgas vārīšanas vai novārīšanas, parasti zupās izmantojot tikai cepurītes, lai gan garšas un tekstūras ziņā tā parasti tiek vērtēta kā mazvērtīga. Tomēr, ēsta jēla vai nepietiekami termiski apstrādāta, tā izraisa kuņģa-zarnu trakta traucējumus, un pastāv aizdomas, ka tā satur giromitrīnam radniecīgus savienojumus, kas atbrīvo monometilhidrazīnu, tāpēc mūsdienu toksikoloģiskās vadlīnijas iesaka to nelietot uzturā.",
+      "confusion": "Helvella crispa ir krēmbalta līdz gaiši okera cepurīte ar brīvām malām un smalki pūkainu apakšpusi, kas to atšķir pat no retajām gaišajām formām. Helvella elastica, Helvella atra un Helvella spadicea visām ir gludi, neriboti cilindriski kātiņi. Helvella phlebophora ir izteiktas ribas, kas pāriet uz cepurītes apakšpusi. Gyromitra infula ir sarkanbrūna, seglveida vai smadzenēm līdzīga cepurīte uz gluda kātiņa, savukārt Morchella sugu cepurītēm ir šūnaini iedobumi, un tās aug pavasarī.",
+      "notes": "DNS pētījumi rāda, ka īstā Helvella lacunosa ir boreāla un mērenās joslas Eiropas suga; līdzīgās tumšās sēnes ar rievotu kātiņu Ziemeļamerikā pieder kompleksam, kurā ir vismaz vienpadsmit atšķirīgas filoģenētiskas sugas, tostarp Helvella vespertina zem skujkokiem un Helvella dryophila zem ozoliem rietumos. Uz augļķermeņiem reizēm parazitē Hypomyces cervinigenus vai Clitocybe sclerotoidea."
+    },
+    "nl": {
+      "description": "Een donkere zomer- en herfstzakjeszwam die alleenstaand of in kleine groepen vruchtlichamen vormt op de grond en op brandplekken in loof-, naald- en gemengde bossen, evenals in parken en mosrijke open plekken. Oorspronkelijk beschreven uit Europa, waar de soort wijdverspreid is van Scandinavië tot het Middellandse Zeegebied, is zij ook gemeld uit Azië en oostelijk Noord-Amerika.",
+      "cap": "De hoed is 2–6 cm breed (soms 1–10 cm) en onregelmatig zadel- of mijtervormig met twee tot vier gedraaide, geplooide lobben. De rand is doorgaans op verschillende plaatsen met de steel vergroeid of eraan vastgehecht. De bovenzijde is glad tot licht gerimpeld en leigrijs, donkergrijs, bruingrijs of koolzwart, terwijl zeldzame albinovormen witachtig zijn. De steriele onderzijde is bleker witachtig tot asgrijs en glad tot zwak berijpt in plaats van dicht donzig.",
+      "hymenium": "De sporenvormende laag bedekt de gladde tot licht gerimpelde bovenzijde van de hoed, zonder plaatjes, poriën of holtes. De cilindrische zakjes (asci) meten 200–340 × 10–16 µm en bevatten elk acht ascosporen, vergezeld van cilindrische parafysen van ongeveer 2,5–10 µm breed met afgeronde tot licht gezwollen toppen.",
+      "stipe": "De steel is 3–10 cm hoog (soms tot 15 cm) en 1–3 cm dik, ruwweg cilindrisch of aan de basis iets verbreed. Jong is hij witachtig, maar al snel wordt hij bleek asgrijs, grijsbruin of donkergrijs, en hij is diep gegroefd door scherpe lengteribben, dwarsverbindingen en langwerpig ovale holtes, met binnenin meerdere holle kamers.",
+      "flesh": "Het vlees is dun en bros in de hoed en wasachtig tot kraakbeenachtig of taai-elastisch in de steel, witachtig tot bleekgrijs, zonder verkleuring bij doorsnijden. De smaak is mild en onopvallend; de geur is zwak en onbestemd, bij jonge exemplaren soms aangenaam kruidig en bij oude muf of aards.",
+      "sporePrint": "De sporenprint is wit. De ascosporen zijn breed ellipsoïd, glad en kleurloos, 15–20 × 10–13 µm (soms 13–21 × 9–14 µm), en bevatten elk één grote centrale oliedruppel.",
+      "habitat": "Hij groeit op de grond, tussen bladafval, in mos of in kort gras in vochtige loof-, naald- en gemengde bossen — vaak onder eik, beuk of den — evenals langs bospaden, op verstoorde grond, in parken en geregeld op verbrande bodem. Waarschijnlijk ectomycorrhizavormend, vormt hij vruchtlichamen van mei tot november, met een piek in de nazomer en herfst.",
+      "uses": "Oudere gidsen en enkele Europese atlassen behandelen de soort als eetbaar na grondig koken of voorkoken, waarbij meestal alleen de hoeden in soepen worden gebruikt, al wordt zij qua smaak en textuur algemeen als matig beschouwd. Rauw of onvoldoende verhit veroorzaakt zij echter maag-darmklachten en wordt vermoed dat zij aan gyromitrine verwante verbindingen bevat die monomethylhydrazine vrijmaken, zodat moderne toxicologische richtlijnen het eten ervan afraden.",
+      "confusion": "Helvella crispa heeft een roomwitte tot bleekokerkleurige hoed met vrije randen en een fijn donzige onderzijde, waarmee zij zelfs van zeldzame bleke vormen te onderscheiden is. Helvella elastica, Helvella atra en Helvella spadicea hebben alle een gladde, ongeribde cilindrische steel. Helvella phlebophora heeft opvallende ribben die doorlopen op de onderzijde van de hoed. Gyromitra infula heeft een roodbruine, zadel- of hersenvormige hoed op een gladde steel, en Morchella-soorten hebben honingraatachtige hoeden met holtes en verschijnen in het voorjaar.",
+      "notes": "DNA-onderzoek toont aan dat de echte Helvella lacunosa een boreale en gematigd Europese soort is; vergelijkbare donkere soorten met geribde steel in Noord-Amerika behoren tot een complex van ten minste elf afzonderlijke fylogenetische soorten, waaronder Helvella vespertina onder naaldbomen en Helvella dryophila onder eiken in het westen. Vruchtlichamen worden af en toe geparasiteerd door Hypomyces cervinigenus of Clitocybe sclerotoidea."
+    },
+    "no": {
+      "description": "En mørk sommer- og høstsekksporesopp som danner fruktlegemer enkeltvis eller i små grupper på jord og brannplasser i løv-, bar- og blandingsskog, samt i parker og mosegrodde lysninger. Opprinnelig beskrevet fra Europa, der den er vidt utbredt fra Skandinavia til Middelhavsområdet, er den også rapportert fra Asia og østlige Nord-Amerika.",
+      "cap": "Hatten er 2–6 cm bred (av og til 1–10 cm) og uregelmessig sal- eller bispelueformet med to til fire vridde, foldede lapper. Kanten er typisk festet til eller sammenvokst med stilken flere steder. Oversiden er glatt til svakt rynket og skifergrå, mørkegrå, brungrå eller kullsvart, mens sjeldne albinoformer er hvitaktige. Den sterile undersiden er lysere hvitaktig til askegrå og glatt til svakt rimet snarere enn tett dunet.",
+      "hymenium": "Det sporedannende laget dekker den glatte til svakt rynkede oversiden av hatten, uten skiver, porer eller groper. De sylindriske sporesekkene (asci) måler 200–340 × 10–16 µm og inneholder åtte askosporer hver, ledsaget av sylindriske parafyser på omtrent 2,5–10 µm i bredde med avrundede til svakt oppsvulmede spisser.",
+      "stipe": "Stilken er 3–10 cm høy (av og til opptil 15 cm) og 1–3 cm tykk, tilnærmet sylindrisk eller svakt utvidet ved basis. Den er hvitaktig som ung, men blir raskt blek askegrå, gråbrun eller mørkegrå, og er dypt skulpturert av skarpe lengderibber, tverrbroer og avlange ovale groper, med flere hule kamre inni.",
+      "flesh": "Kjøttet er tynt og sprøtt i hatten og voksaktig til bruskaktig eller seigt-elastisk i stilken, hvitaktig til blekgrått, uten fargeendring ved gjennomsnitt. Smaken er mild og lite fremtredende; lukten er svak og ubestemmelig, av og til behagelig krydret hos unge eksemplarer og matt eller jordaktig hos gamle.",
+      "sporePrint": "Sporeavtrykket er hvitt. Askosporene er bredt ellipsoide, glatte og fargeløse, 15–20 × 10–13 µm (av og til 13–21 × 9–14 µm), og inneholder hver én stor sentral oljedråpe.",
+      "habitat": "Den vokser på jord, i løvstrø, i mose eller i kort gress i fuktig løv-, bar- og blandingsskog — ofte under eik, bøk eller furu — samt langs skogsstier, på forstyrret mark, i parker og hyppig på brent jord. Sannsynligvis ektomykorrhizadannende, og den fruktifiserer fra mai til november med topp i sensommeren og høsten.",
+      "uses": "Eldre soppbøker og enkelte europeiske atlas regner den som spiselig etter grundig koking eller forvelling, der vanligvis bare hattene brukes i supper, selv om den generelt anses som svak på smak og konsistens. Den gir imidlertid mage- og tarmbesvær dersom den spises rå eller utilstrekkelig varmebehandlet, og mistenkes for å inneholde gyromitrinbeslektede forbindelser som frigjør monometylhydrazin, så moderne toksikologiske råd fraråder å spise den.",
+      "confusion": "Helvella crispa har en kremhvit til blekokergul hatt med frie kanter og en fint dunet underside, noe som skiller den selv fra sjeldne lyse former. Helvella elastica, Helvella atra og Helvella spadicea har alle glatte, uribbede sylindriske stilker. Helvella phlebophora har tydelige ribber som fortsetter ut på undersiden av hatten. Gyromitra infula har en rødbrun, sal- eller hjernelignende hatt på en glatt stilk, og Morchella-arter har bikubemønstrede groper i hatten og fruktifiserer om våren.",
+      "notes": "DNA-studier viser at ekte Helvella lacunosa er en boreal og temperert europeisk art; lignende mørke arter med ribbet stilk i Nord-Amerika tilhører et kompleks av minst elleve atskilte fylogenetiske arter, inkludert Helvella vespertina under bartrær og Helvella dryophila under eik i vest. Fruktlegemene parasitteres av og til av Hypomyces cervinigenus eller Clitocybe sclerotoidea."
+    },
+    "pl": {
+      "description": "Ciemny letnio-jesienny grzyb workowy, który owocnikuje pojedynczo lub w niewielkich grupach na glebie i wypaleniskach w lasach liściastych, iglastych i mieszanych, a także w parkach oraz na omszonych polanach. Pierwotnie opisany z Europy, gdzie jest szeroko rozpowszechniony od Skandynawii po basen Morza Śródziemnego, bywa również podawany z Azji i wschodniej Ameryki Północnej.",
+      "cap": "Kapelusz ma 2–6 cm szerokości (wyjątkowo 1–10 cm) i jest nieregularnie siodłowaty lub mitrowaty, złożony z dwóch do czterech poskręcanych, pofałdowanych płatów. Brzeg jest zazwyczaj przyrośnięty lub zrośnięty z trzonem w kilku miejscach. Górna powierzchnia jest gładka do lekko pomarszczonej, łupkowoszara, ciemnoszara, brązowoszara lub węglowoczarna, podczas gdy rzadkie formy albinotyczne są białawe. Płonna spodnia strona jest jaśniejsza, biaława do popielatoszarej, gładka do delikatnie oszronionej, a nie gęsto omszona.",
+      "hymenium": "Warstwa zarodnikonośna pokrywa gładką do lekko pomarszczonej górną powierzchnię kapelusza, bez blaszek, porów ani jamek. Cylindryczne worki mierzą 200–340 × 10–16 µm i zawierają po osiem askospor, a towarzyszą im cylindryczne parafizy o szerokości około 2,5–10 µm z zaokrąglonymi do lekko maczugowato zgrubiałych wierzchołkami.",
+      "stipe": "Trzon ma 3–10 cm wysokości (wyjątkowo do 15 cm) i 1–3 cm grubości, jest mniej więcej cylindryczny lub lekko rozszerzony u podstawy. Za młodu białawy, szybko staje się jasnopopielatoszary, szarobrązowy lub ciemnoszary i jest głęboko urzeźbiony ostrymi podłużnymi żebrami, poprzecznymi połączeniami oraz wydłużonymi owalnymi jamkami, a wewnątrz zawiera kilka pustych komór.",
+      "flesh": "Miąższ jest cienki i kruchy w kapeluszu oraz woskowaty do chrząstkowatego lub twardo-elastycznego w trzonie, białawy do jasnoszarego, niezmieniający barwy po przekrojeniu. Smak jest łagodny i mało wyrazisty; zapach słaby i nieokreślony, u młodych owocników niekiedy przyjemnie korzenny, u starszych stęchły lub ziemisty.",
+      "sporePrint": "Wysyp zarodników jest biały. Askospory są szeroko elipsoidalne, gładkie i bezbarwne, o wymiarach 15–20 × 10–13 µm (wyjątkowo 13–21 × 9–14 µm), każda z jedną dużą centralną kroplą tłuszczu.",
+      "habitat": "Rośnie na glebie, w ściółce, wśród mchów lub w niskiej trawie w wilgotnych lasach liściastych, iglastych i mieszanych – często pod dębami, bukami lub sosnami – a także wzdłuż leśnych ścieżek, na naruszonym podłożu, w parkach i często na wypaleniskach. Prawdopodobnie jest grzybem ektomikoryzowym; owocnikuje od maja do listopada, ze szczytem późnym latem i jesienią.",
+      "uses": "Starsze przewodniki i niektóre europejskie atlasy uznają go za jadalny po dokładnym ugotowaniu lub obgotowaniu, zwykle z wykorzystaniem samych kapeluszy do zup, choć powszechnie uchodzi za mierny pod względem smaku i konsystencji. Spożyty na surowo lub niedogotowany wywołuje jednak dolegliwości żołądkowo-jelitowe i jest podejrzewany o zawieranie związków pokrewnych gyromitrynie uwalniających monometylohydrazynę, dlatego współczesne zalecenia toksykologiczne odradzają jego spożywanie.",
+      "confusion": "Helvella crispa ma kremowobiały do bladoochrowego kapelusz z wolnymi brzegami i delikatnie omszoną spodnią stroną, co odróżnia ją nawet od rzadkich jasnych form. Helvella elastica, Helvella atra i Helvella spadicea mają gładkie, nieżebrowane, cylindryczne trzony. Helvella phlebophora ma wyraźne żebra przechodzące na spodnią stronę kapelusza. Gyromitra infula ma czerwonobrązowy, siodłowaty lub mózgowaty kapelusz na gładkim trzonie, a gatunki z rodzaju Morchella mają kapelusze pokryte jamkami jak plaster miodu i owocnikują wiosną.",
+      "notes": "Badania DNA pokazują, że właściwa Helvella lacunosa jest gatunkiem borealnym i strefy umiarkowanej Europy; podobne ciemne gatunki o żebrowanym trzonie z Ameryki Północnej należą do kompleksu co najmniej jedenastu odrębnych gatunków filogenetycznych, w tym Helvella vespertina pod drzewami iglastymi i Helvella dryophila pod dębami na zachodzie kontynentu. Owocniki bywają sporadycznie pasożytowane przez Hypomyces cervinigenus lub Clitocybe sclerotoidea."
+    },
+    "pt": {
+      "description": "Ascomicete escuro de verão e outono que frutifica isoladamente ou em pequenos grupos no solo e em terrenos queimados de florestas de folhosas, de coníferas e mistas, bem como em parques e clareiras musgosas. Descrito originalmente na Europa, onde é amplamente distribuído da Escandinávia ao Mediterrâneo, foi também registado na Ásia e no leste da América do Norte.",
+      "cap": "O chapéu mede 2–6 cm de largura (ocasionalmente 1–10 cm) e tem forma irregular de sela ou de mitra, com dois a quatro lobos retorcidos e pregueados. A margem está tipicamente aderente ou fundida com o estipe em vários pontos. A superfície superior é lisa a ligeiramente enrugada, de cor cinzento-ardósia, cinzento-escura, cinzento-acastanhada ou negro-carvão, enquanto raras formas albinas são esbranquiçadas. A face inferior estéril é mais pálida, esbranquiçada a cinzento-cinza, e lisa a levemente pruinosa em vez de densamente felpuda.",
+      "hymenium": "A camada esporífera reveste a superfície superior lisa a ligeiramente enrugada do chapéu, sem lâminas, poros nem alvéolos. Os ascos cilíndricos medem 200–340 × 10–16 µm e contêm oito ascósporos cada um, acompanhados por paráfises cilíndricas com cerca de 2,5–10 µm de largura e extremidades arredondadas a ligeiramente dilatadas.",
+      "stipe": "O estipe mede 3–10 cm de altura (ocasionalmente até 15 cm) e 1–3 cm de espessura, aproximadamente cilíndrico ou ligeiramente alargado na base. É esbranquiçado quando jovem, tornando-se rapidamente cinzento-cinza pálido, cinzento-acastanhado ou cinzento-escuro, e é profundamente esculpido por costelas longitudinais agudas, pontes transversais e cavidades ovais alongadas, apresentando várias câmaras ocas no interior.",
+      "flesh": "A carne é fina e quebradiça no chapéu e cerosa a cartilaginosa ou tenaz-elástica no estipe, esbranquiçada a cinzento-pálida, sem alteração de cor ao corte. O sabor é suave e pouco pronunciado; o odor é fraco e indistinto, por vezes agradavelmente condimentado em exemplares jovens e apagado ou terroso nos velhos.",
+      "sporePrint": "A esporada é branca. Os ascósporos são largamente elipsoides, lisos e incolores, medindo 15–20 × 10–13 µm (ocasionalmente 13–21 × 9–14 µm), cada um contendo uma única grande gota lipídica central.",
+      "habitat": "Cresce no solo, entre a folhada, no musgo ou em relva curta em florestas húmidas de folhosas, de coníferas e mistas — frequentemente sob carvalho, faia ou pinheiro —, bem como ao longo de caminhos florestais, em solos revolvidos, em parques e com frequência em solos queimados. Provavelmente ectomicorrízico, frutifica de maio a novembro, com pico no final do verão e no outono.",
+      "uses": "Guias mais antigos e alguns atlas europeus tratam-no como comestível após cozedura prolongada ou fervura prévia, utilizando geralmente apenas os chapéus em sopas, embora seja geralmente considerado fraco em sabor e textura. Contudo, provoca distúrbios gastrointestinais quando consumido cru ou mal cozinhado e suspeita-se de que contenha compostos relacionados com a giromitrina que libertam monometil-hidrazina, pelo que as orientações toxicológicas modernas desaconselham o seu consumo.",
+      "confusion": "Helvella crispa possui um chapéu branco-creme a ocre-pálido com margens livres e face inferior finamente felpuda, distinguindo-se mesmo das raras formas pálidas. Helvella elastica, Helvella atra e Helvella spadicea têm todas estipes cilíndricos lisos e sem costelas. Helvella phlebophora apresenta costelas proeminentes que se estendem pela face inferior do chapéu. Gyromitra infula tem um chapéu castanho-avermelhado em forma de sela ou de cérebro sobre um estipe liso, e as espécies de Morchella apresentam chapéus alveolados em favo de mel e frutificam na primavera.",
+      "notes": "Estudos de ADN mostram que a verdadeira Helvella lacunosa é uma espécie europeia boreal e temperada; espécies escuras semelhantes de estipe sulcado na América do Norte pertencem a um complexo de pelo menos onze espécies filogenéticas distintas, incluindo Helvella vespertina sob coníferas e Helvella dryophila sob carvalhos no oeste. Os corpos frutíferos são ocasionalmente parasitados por Hypomyces cervinigenus ou Clitocybe sclerotoidea."
+    },
+    "ro": {
+      "description": "O ascomicetă întunecată de vară și toamnă care fructifică izolat sau în grupuri mici pe sol și pe locuri arse în păduri de foioase, de conifere și mixte, precum și în parcuri și poieni cu mușchi. Descrisă inițial din Europa, unde este larg răspândită din Scandinavia până în regiunea mediteraneană, a fost semnalată și din Asia și din estul Americii de Nord.",
+      "cap": "Pălăria are 2–6 cm în diametru (ocazional 1–10 cm) și este neregulat în formă de șa sau de mitră, cu doi până la patru lobi răsuciți și pliați. Marginea este de obicei atașată sau sudată de picior în mai multe puncte. Suprafața superioară este netedă până la ușor încrețită, cenușiu-ardezie, cenușiu-închis, cenușiu-brunie sau negru-cărbune, în timp ce rarele forme albinotice sunt albicioase. Partea inferioară sterilă este mai deschisă, albicioasă până la cenușiu-cenușă, netedă până la slab brumată și nu des pufoasă.",
+      "hymenium": "Stratul sporifer acoperă suprafața superioară netedă sau ușor încrețită a pălăriei, fără lamele, pori ori alveole. Ascele cilindrice măsoară 200–340 × 10–16 µm și conțin fiecare câte opt ascospori, fiind însoțite de parafize cilindrice late de circa 2,5–10 µm, cu vârfuri rotunjite până la ușor umflate.",
+      "stipe": "Piciorul are 3–10 cm înălțime (ocazional până la 15 cm) și 1–3 cm grosime, fiind aproximativ cilindric sau ușor lățit la bază. În tinerețe este albicios, devenind curând cenușiu-deschis, cenușiu-brun sau cenușiu-închis, adânc sculptat cu coaste longitudinale ascuțite, punți transversale și adâncituri ovale alungite, cu mai multe camere goale la interior.",
+      "flesh": "Carnea este subțire și fragilă în pălărie, iar în picior cerată până la cartilaginoasă sau elastic-tenace, albicioasă până la cenușiu-palid, fără a-și schimba culoarea la tăiere. Gustul este blând și banal; mirosul este slab și necaracteristic, uneori plăcut condimentat la exemplarele tinere și stătut sau pământos la cele bătrâne.",
+      "sporePrint": "Amprenta sporală este albă. Ascosporii sunt larg elipsoidali, netezi și incolori, măsurând 15–20 × 10–13 µm (ocazional 13–21 × 9–14 µm), fiecare conținând o singură picătură mare centrală de ulei.",
+      "habitat": "Crește pe sol, printre frunze căzute, în mușchi sau în iarbă scurtă în păduri umede de foioase, de conifere și mixte — adesea sub stejar, fag sau pin — precum și de-a lungul potecilor forestiere, pe sol deranjat, în parcuri și frecvent pe locuri arse. Probabil ectomicorizică, fructifică din mai până în noiembrie, cu un maxim la sfârșitul verii și toamna.",
+      "uses": "Ghidurile mai vechi și unele atlase europene o consideră comestibilă după o fierbere temeinică sau opărire, folosind de obicei doar pălăriile în supe, deși este în general apreciată ca slabă din punctul de vedere al gustului și texturii. Totuși, provoacă tulburări gastrointestinale dacă este consumată crudă sau insuficient gătită și este suspectată că ar conține compuși înrudiți cu giromitrina care eliberează monometilhidrazină, motiv pentru care recomandările toxicologice moderne descurajează consumul ei.",
+      "confusion": "Helvella crispa are pălăria alb-crem până la ocru-palid, cu margini libere și partea inferioară fin pufoasă, deosebindu-se chiar și de rarele forme palide. Helvella elastica, Helvella atra și Helvella spadicea au toate picioare cilindrice netede, fără coaste. Helvella phlebophora prezintă coaste proeminente care se prelungesc pe partea inferioară a pălăriei. Gyromitra infula are o pălărie brun-roșcată, în formă de șa sau cerebriformă, pe un picior neted, iar speciile de Morchella au pălării cu alveole ca fagurele și fructifică primăvara.",
+      "notes": "Studiile ADN arată că adevărata Helvella lacunosa este o specie europeană boreală și temperată; speciile întunecate similare cu picior costat din America de Nord aparțin unui complex de cel puțin unsprezece specii filogenetice distincte, inclusiv Helvella vespertina sub conifere și Helvella dryophila sub stejari în vest. Corpurile fructifere sunt uneori parazitate de Hypomyces cervinigenus sau Clitocybe sclerotoidea."
+    },
+    "ru": {
+      "description": "Тёмный летне-осенний сумчатый гриб, плодоносящий одиночно или небольшими группами на почве и кострищах в лиственных, хвойных и смешанных лесах, а также в парках и на мшистых полянах. Первоначально описан из Европы, где широко распространён от Скандинавии до Средиземноморья; отмечался также в Азии и на востоке Северной Америки.",
+      "cap": "Шляпка диаметром 2–6 см (изредка 1–10 см), неправильно седловидная или митровидная, с двумя–четырьмя скрученными складчатыми лопастями. Край обычно приросший или сросшийся с ножкой в нескольких местах. Верхняя поверхность гладкая до слегка морщинистой, аспидно-серая, тёмно-серая, буровато-серая или угольно-чёрная, тогда как редкие альбиносные формы беловатые. Стерильная нижняя сторона более светлая, беловатая до пепельно-серой, гладкая или со слабым налётом, но не густо опушённая.",
+      "hymenium": "Спороносный слой покрывает гладкую или слегка морщинистую верхнюю поверхность шляпки, без пластинок, пор и ячеек. Цилиндрические сумки (аски) размером 200–340 × 10–16 мкм содержат по восемь аскоспор и сопровождаются цилиндрическими парафизами шириной около 2,5–10 мкм с закруглёнными или слегка булавовидно утолщёнными верхушками.",
+      "stipe": "Ножка высотой 3–10 см (изредка до 15 см) и толщиной 1–3 см, примерно цилиндрическая или слегка расширенная к основанию. В молодости беловатая, вскоре становится бледно-пепельно-серой, серо-бурой или тёмно-серой, глубоко изрезана острыми продольными рёбрами, поперечными перемычками и вытянутыми овальными ямками, а внутри разделена на несколько полых камер.",
+      "flesh": "Мякоть в шляпке тонкая и хрупкая, в ножке восковидная до хрящеватой или плотно-эластичной, беловатая до бледно-серой, на срезе цвет не меняет. Вкус мягкий и невыразительный; запах слабый и неопределённый, у молодых плодовых тел иногда приятно пряный, у старых затхлый или землистый.",
+      "sporePrint": "Споровый порошок белый. Аскоспоры широкоэллипсоидные, гладкие и бесцветные, размером 15–20 × 10–13 мкм (изредка 13–21 × 9–14 мкм), каждая содержит одну крупную центральную масляную каплю.",
+      "habitat": "Растёт на почве, среди листового опада, во мху или невысокой траве во влажных лиственных, хвойных и смешанных лесах — часто под дубом, буком или сосной — а также вдоль лесных троп, на нарушенной почве, в парках и нередко на горелой земле. Предположительно эктомикоризный вид; плодоносит с мая по ноябрь с пиком в конце лета и осенью.",
+      "uses": "Более старые определители и некоторые европейские атласы относят его к съедобным после тщательной варки или отваривания, обычно используя в супах только шляпки, хотя в целом он считается невысоким по вкусу и консистенции. Однако в сыром или недостаточно проваренном виде он вызывает желудочно-кишечные расстройства и подозревается в содержании соединений, родственных гиромитрину и высвобождающих монометилгидразин, поэтому современные токсикологические рекомендации не советуют употреблять его в пищу.",
+      "confusion": "Helvella crispa имеет кремово-белую до бледно-охристой шляпку со свободными краями и тонко опушённой нижней стороной, что отличает её даже от редких светлых форм. Helvella elastica, Helvella atra и Helvella spadicea обладают гладкой, не ребристой цилиндрической ножкой. У Helvella phlebophora заметные рёбра переходят на нижнюю сторону шляпки. Gyromitra infula отличается красновато-бурой седловидной или мозговидной шляпкой на гладкой ножке, а виды рода Morchella имеют шляпки с сотовидными ячейками и плодоносят весной.",
+      "notes": "Исследования ДНК показывают, что истинная Helvella lacunosa — бореальный и умеренный европейский вид; сходные тёмные виды с ребристой ножкой в Северной Америке относятся к комплексу как минимум из одиннадцати самостоятельных филогенетических видов, включая Helvella vespertina под хвойными и Helvella dryophila под дубами на западе континента. Плодовые тела изредка поражаются паразитами Hypomyces cervinigenus или Clitocybe sclerotoidea."
+    },
+    "sl": {
+      "description": "Temna poletna in jesenska zaprtotrosnica, ki raste posamič ali v manjših skupinah na tleh in požariščih v listnatih, iglastih in mešanih gozdovih ter v parkih in na mahovitih jasah. Prvotno je bila opisana iz Evrope, kjer je široko razširjena od Skandinavije do Sredozemlja, poročali pa so o njej tudi iz Azije in vzhodne Severne Amerike.",
+      "cap": "Klobuk meri 2–6 cm v premeru (redko 1–10 cm) in je nepravilno sedlast ali mitrast z dvema do štirimi zavitimi, nagubanimi krpami. Rob je običajno na več mestih priraščen ali zraščeno spojen z betom. Zgornja površina je gladka do rahlo nagubana, skrilasto siva, temno siva, rjavkasto siva ali ogleno črna, medtem ko so redke albino oblike belkaste. Sterilna spodnja stran je svetlejša, belkasta do pepelnato siva ter gladka do rahlo poprhnjena in ne gosto puhasta.",
+      "hymenium": "Trosovnica pokriva gladko do rahlo nagubano zgornjo površino klobuka, brez lističev, cevk ali jamic. Valjasti askusi merijo 200–340 × 10–16 µm in vsak vsebuje osem askospor, spremljajo pa jih valjaste parafize, široke približno 2,5–10 µm, z zaobljenimi do rahlo zadebeljenimi vrhovi.",
+      "stipe": "Bet je visok 3–10 cm (redko do 15 cm) in debel 1–3 cm, približno valjast ali pri dnišču rahlo razširjen. Mlad je belkast, kmalu postane bledo pepelnato siv, sivo rjav ali temno siv in je globoko razbrazdan z ostrimi vzdolžnimi rebri, prečnimi povezavami in podolgovatimi ovalnimi jamicami, v notranjosti pa ima več votlih prekatov.",
+      "flesh": "Meso je v klobuku tanko in krhko, v betu pa voskasto do hrustančasto ali žilavo prožno, belkasto do bledo sivo in na prerezu ne spremeni barve. Okus je blag in neizrazit; vonj je šibek in nedoločljiv, pri mladih gobah včasih prijetno začimbast, pri starejših pa zatohlo ali zemljasto neprijeten.",
+      "sporePrint": "Trosni prah je bel. Askospore so široko elipsoidne, gladke in brezbarvne, velike 15–20 × 10–13 µm (redko 13–21 × 9–14 µm), vsaka z eno veliko osrednjo oljno kapljico.",
+      "habitat": "Raste na tleh, v listnem opadu, mahu ali nizki travi v vlažnih listnatih, iglastih in mešanih gozdovih – pogosto pod hrasti, bukvami ali bori – pa tudi ob gozdnih poteh, na razritih tleh, v parkih in pogosto na požariščih. Verjetno je ektomikorizna in obrodi od maja do novembra, z vrhuncem pozno poleti in jeseni.",
+      "uses": "Starejši priročniki in nekateri evropski atlasi jo obravnavajo kot užitno po temeljitem kuhanju ali prekuhavanju, pri čemer se za juhe običajno uporabljajo le klobuki, vendar velja na splošno za skromno po okusu in teksturi. Surova ali premalo kuhana pa povzroča prebavne težave in obstaja sum, da vsebuje spojine, sorodne giromitrinu, ki sproščajo monometilhidrazin, zato sodobna toksikološka priporočila uživanje odsvetujejo.",
+      "confusion": "Helvella crispa ima kremasto bel do bledo okrast klobuk s prostimi robovi in drobno puhasto spodnjo stranjo, kar jo loči celo od redkih svetlih oblik. Helvella elastica, Helvella atra in Helvella spadicea imajo gladek, nerebrast valjast bet. Helvella phlebophora ima izrazita rebra, ki segajo na spodnjo stran klobuka. Gyromitra infula ima rdečerjav, sedlast ali možganasto naguban klobuk na gladkem betu, vrste rodu Morchella pa imajo klobuke s satovjastimi jamicami in rastejo spomladi.",
+      "notes": "Analize DNK kažejo, da je prava Helvella lacunosa borealna in zmerna evropska vrsta; podobne temne vrste z rebrastim betom v Severni Ameriki sodijo v kompleks najmanj enajstih ločenih filogenetskih vrst, vključno s Helvella vespertina pod iglavci in Helvella dryophila pod hrasti na zahodu. Na trosnjakih občasno zajedata Hypomyces cervinigenus ali Clitocybe sclerotoidea."
+    },
+    "sr": {
+      "description": "Тамна летња и јесења мешинарка која плодоноси појединачно или у мањим групама на тлу и згариштима у листопадним, четинарским и мешовитим шумама, као и у парковима и на маховинастим пропланцима. Првобитно је описана из Европе, где је широко распрострањена од Скандинавије до Средоземља, а бележена је и у Азији и источном делу Северне Америке.",
+      "cap": "Шешир је широк 2–6 см (ретко 1–10 см), неправилно седласт или митраст са два до четири уврнута, наборана режња. Руб је обично на више места прирастао или срастао са дршком. Горња површина је глатка до благо наборана, шкриљастосива, тамносива, смеђесива или угљеноцрна, док су ретки албино облици беличасти. Стерилна доња страна је светлија, беличаста до пепељастосива, глатка до благо ињаста, а не густо пахуљаста.",
+      "hymenium": "Плодни слој прекрива глатку до благо наборану горњу површину шешира, без листића, пора и јамица. Ваљкасти аскуси мере 200–340 × 10–16 мкм и сваки садржи осам аскоспора, уз ваљкасте парафизе широке око 2,5–10 мкм са заобљеним до благо задебљалим врховима.",
+      "stipe": "Дршка је висока 3–10 см (ретко до 15 см) и дебела 1–3 см, приближно ваљкаста или благо проширена при основи. У младости је беличаста, убрзо постаје бледо пепељастосива, сивосмеђа или тамносива и дубоко је избраздана оштрим уздужним ребрима, попречним спојницама и издуженим овалним јамицама, са неколико шупљих коморица у унутрашњости.",
+      "flesh": "Месо је у шеширу танко и крхко, а у дршци воштано до хрскавичаво или жилаво-еластично, беличасто до бледосиво, без промене боје на пресеку. Укус је благ и неизразит; мирис је слаб и неодређен, код младих примерака понекад пријатно зачински, а код старијих туп или земљаст.",
+      "sporePrint": "Отисак спора је бео. Аскоспоре су широко елипсоидне, глатке и безбојне, величине 15–20 × 10–13 мкм (ретко 13–21 × 9–14 мкм), а свака садржи једну велику средишњу уљну капљицу.",
+      "habitat": "Расте на тлу, међу опалим лишћем, у маховини или ниској трави у влажним листопадним, четинарским и мешовитим шумама – често под храстом, буквом или бором – као и дуж шумских стаза, на поремећеном тлу, у парковима и често на згариштима. Вероватно је ектомикоризна и плодоноси од маја до новембра, са врхунцем у касно лето и јесен.",
+      "uses": "Старији приручници и неки европски атласи наводе је као јестиву након темељног кувања или прокувавања, обично уз употребу само шешира у супама, иако се углавном сматра слабом по укусу и текстури. Међутим, ако се једе сирова или недовољно кувана, изазива гастроинтестиналне тегобе, а сумња се да садржи једињења сродна гиромитрину која ослобађају монометилхидразин, па савремене токсиколошке препоруке саветују да се не једе.",
+      "confusion": "Helvella crispa има крембео до бледоокер шешир са слободним рубовима и фино пахуљастом доњом страном, што је разликује чак и од ретких бледих облика. Helvella elastica, Helvella atra и Helvella spadicea имају глатку, неребрасту ваљкасту дршку. Helvella phlebophora има изражена ребра која се пружају на доњу страну шешира. Gyromitra infula има црвеносмеђи, седласт или мождано наборан шешир на глаткој дршци, док врсте рода Morchella имају шешире са саћастим јамицама и плодоносе у пролеће.",
+      "notes": "ДНК истраживања показују да је права Helvella lacunosa бореална и умерена европска врста; сличне тамне врсте са ребрастом дршком у Северној Америци припадају комплексу од најмање једанаест засебних филогенетских врста, укључујући Helvella vespertina под четинарима и Helvella dryophila под храстовима на западу. Плодна тела повремено паразитирају Hypomyces cervinigenus или Clitocybe sclerotoidea."
+    },
+    "sv": {
+      "description": "En mörk sommar- och höstsporsäckssvamp som fruktificerar ensam eller i små grupper på jord och brandfläckar i löv-, barr- och blandskogar samt i parker och mossiga gläntor. Ursprungligen beskriven från Europa, där den är vida spridd från Skandinavien till Medelhavsområdet, har den även rapporterats från Asien och östra Nordamerika.",
+      "cap": "Hatten är 2–6 cm bred (ibland 1–10 cm) och oregelbundet sadel- eller mitraformad med två till fyra vridna, veckade lober. Kanten är typiskt fäst vid eller sammanvuxen med foten på flera ställen. Ovansidan är slät till svagt rynkig och skiffergrå, mörkgrå, brungrå eller kolsvart, medan sällsynta albinoformer är vitaktiga. Den sterila undersidan är ljusare vitaktig till askgrå och slät till svagt pudrad snarare än tätt finluden.",
+      "hymenium": "Det sporbildande lagret täcker hattens släta till svagt rynkiga ovansida, utan skivor, porer eller gropar. De cylindriska sporsäckarna (asci) mäter 200–340 × 10–16 µm och innehåller vardera åtta askosporer, åtföljda av cylindriska parafyser omkring 2,5–10 µm breda med rundade till svagt uppsvällda spetsar.",
+      "stipe": "Foten är 3–10 cm hög (ibland upp till 15 cm) och 1–3 cm tjock, ungefär cylindrisk eller svagt vidgad vid basen. Den är vitaktig som ung men blir snart blekt askgrå, gråbrun eller mörkgrå, och är djupt skulpterad av skarpa längsgående åsar, tvärbryggor och avlångt ovala gropar, med flera ihåliga kamrar inuti.",
+      "flesh": "Köttet är tunt och sprött i hatten och vaxartat till broskartat eller segt-elastiskt i foten, vitaktigt till blekgrått, utan färgförändring vid snitt. Smaken är mild och oansenlig; lukten är svag och obestämd, ibland behagligt kryddig hos unga exemplar och fadd eller jordig hos gamla.",
+      "sporePrint": "Sporavtrycket är vitt. Askosporerna är brett ellipsoida, släta och färglösa, 15–20 × 10–13 µm (ibland 13–21 × 9–14 µm), och innehåller vardera en enda stor central oljedroppe.",
+      "habitat": "Den växer på jord, i lövförna, i mossa eller i kort gräs i fuktiga löv-, barr- och blandskogar — ofta under ek, bok eller tall — samt längs skogsstigar, på störd mark, i parker och ofta på bränd jord. Troligen ektomykorrhizabildande fruktificerar den från maj till november, med topp under sensommaren och hösten.",
+      "uses": "Äldre svampböcker och vissa europeiska atlasverk anger den som ätlig efter grundlig tillagning eller avkokning, vanligtvis med enbart hattarna i soppor, även om den allmänt bedöms som klen i smak och konsistens. Den orsakar dock mag- och tarmbesvär om den äts rå eller otillräckligt tillagad och misstänks innehålla gyromitrinbesläktade föreningar som frisätter monometylhydrazin, varför moderna toxikologiska råd avråder från konsumtion.",
+      "confusion": "Helvella crispa har en gräddvit till blekockra hatt med fria kanter och en finluden undersida, vilket skiljer den även från sällsynta ljusa former. Helvella elastica, Helvella atra och Helvella spadicea har alla släta, ofårade cylindriska fötter. Helvella phlebophora har tydliga åsar som fortsätter ut på hattens undersida. Gyromitra infula har en rödbrun, sadel- eller hjärnlik hatt på en slät fot, och Morchella-arter har vaxkakelikt gropiga hattar och fruktificerar på våren.",
+      "notes": "DNA-studier visar att äkta Helvella lacunosa är en boreal och tempererad europeisk art; liknande mörka arter med räfflad fot i Nordamerika tillhör ett komplex av minst elva skilda fylogenetiska arter, däribland Helvella vespertina under barrträd och Helvella dryophila under ekar i väster. Fruktkropparna parasiteras ibland av Hypomyces cervinigenus eller Clitocybe sclerotoidea."
+    },
+    "tr": {
+      "description": "Yaprak döken, iğne yapraklı ve karışık ormanların yanı sıra parklarda ve yosunlu açıklıklarda toprak ve yanmış zemin üzerinde tek tek veya küçük gruplar hâlinde meyve veren koyu renkli bir yaz ve sonbahar askomisetidir. İlk kez İskandinavya’dan Akdeniz’e kadar yaygın olduğu Avrupa’dan tanımlanmış olup Asya’dan ve Kuzey Amerika’nın doğusundan da bildirilmiştir.",
+      "cap": "Şapka 2–6 cm (bazen 1–10 cm) genişliğinde, düzensiz eyer veya piskopos tacı biçiminde, iki ila dört kıvrımlı ve katlanmış lopludur. Kenarı genellikle birkaç noktadan sapa tutunmuş veya kaynaşmıştır. Üst yüzeyi düz ila hafif kırışık olup arduvaz grisi, koyu gri, kahverengimsi gri veya kömür siyahıdır; nadir albino formları beyazımsıdır. Kısır alt yüzeyi daha açık renkli, beyazımsı ila kül grisi olup yoğun tüylü değil, düz ila hafifçe pudralıdır.",
+      "hymenium": "Spor üreten tabaka şapkanın düz ila hafifçe kırışık üst yüzeyini kaplar; lameller, gözenekler veya çukurlar yoktur. Silindirik askuslar 200–340 × 10–16 µm boyutundadır ve her biri sekiz askospor içerir; bunlara uçları yuvarlak ila hafifçe şişkin, yaklaşık 2,5–10 µm genişliğinde silindirik parafizler eşlik eder.",
+      "stipe": "Sap 3–10 cm (bazen 15 cm’ye kadar) uzunluğunda ve 1–3 cm kalınlığında, kabaca silindirik veya tabanda hafifçe genişlemiştir. Gençken beyazımsıdır, kısa sürede soluk kül grisi, gri-kahverengi veya koyu griye döner; keskin boyuna kaburgalar, enine köprüler ve uzunlamasına oval oyuklarla derince oyulmuştur ve içinde birkaç boş odacık bulunur.",
+      "flesh": "Etli kısım şapkada ince ve kırılgan, sapta ise mumsu ila kıkırdaksı veya sertçe esnektir; beyazımsı ila soluk gri renkte olup kesildiğinde renk değiştirmez. Tadı hafif ve belirgin değildir; kokusu zayıf ve belirsizdir, genç örneklerde bazen hoş baharatlı, yaşlılarda ise mat veya topraksıdır.",
+      "sporePrint": "Spor izi beyazdır. Askosporlar geniş elipsoit, pürüzsüz ve renksiz olup 15–20 × 10–13 µm (bazen 13–21 × 9–14 µm) boyutundadır ve her birinde merkezde tek bir büyük yağ damlacığı bulunur.",
+      "habitat": "Nemli yaprak döken, iğne yapraklı ve karışık ormanlarda — sıklıkla meşe, kayın veya çam altında — toprakta, yaprak döküntüsü arasında, yosun içinde ya da kısa otlarda; ayrıca orman patikaları boyunca, bozulmuş zeminlerde, parklarda ve sıkça yanmış toprakta yetişir. Muhtemelen ektomikorizaldir; mayıstan kasıma kadar, en yoğun olarak yaz sonu ve sonbaharda meyve verir.",
+      "uses": "Daha eski kılavuzlar ve bazı Avrupa atlasları, genellikle yalnızca şapkaları çorbalarda kullanılarak iyice pişirildikten veya haşlandıktan sonra yenilebilir kabul etse de lezzet ve doku bakımından genellikle zayıf görülür. Bununla birlikte çiğ ya da az pişmiş yenildiğinde mide-bağırsak rahatsızlığına yol açar ve monometilhidrazin açığa çıkaran jiromitrin benzeri bileşikler içerdiğinden şüphelenilir; bu nedenle güncel toksikoloji rehberleri tüketilmemesini tavsiye eder.",
+      "confusion": "Helvella crispa, serbest kenarlı ve ince tüylü alt yüzeyli krem beyazı ila soluk okra şapkasıyla nadir açık renkli formlardan bile ayrılır. Helvella elastica, Helvella atra ve Helvella spadicea türlerinin tamamı düz, kaburgasız silindirik saplara sahiptir. Helvella phlebophora şapkanın alt yüzeyine kadar uzanan belirgin kaburgalar taşır. Gyromitra infula düz bir sap üzerinde kızıl kahverengi, eyer veya beyin benzeri bir şapkaya sahiptir; Morchella türleri ise petek gibi çukurlu şapkalara sahip olup ilkbaharda meyve verir.",
+      "notes": "DNA çalışmaları gerçek Helvella lacunosa’nın kuzey ve ılıman kuşak Avrupa türü olduğunu göstermektedir; Kuzey Amerika’daki benzer koyu renkli oluklu türler, batıda iğne yapraklılar altındaki Helvella vespertina ve meşeler altındaki Helvella dryophila dâhil en az on bir ayrı filogenetik türden oluşan bir komplekse aittir. Meyve gövdeleri zaman zaman Hypomyces cervinigenus veya Clitocybe sclerotoidea tarafından parazitlenir."
+    },
+    "uk": {
+      "description": "Темний літньо-осінній сумчастий гриб, що плодоносить поодинці або невеликими групами на ґрунті та згарищах у листяних, хвойних і мішаних лісах, а також у парках і на моховитих галявинах. Первісно описаний із Європи, де широко поширений від Скандинавії до Середземномор'я; також відмічався в Азії та на сході Північної Америки.",
+      "cap": "Шапинка діаметром 2–6 см (зрідка 1–10 см), неправильно сідлоподібна або мітроподібна, з двома–чотирма скрученими складчастими лопатями. Край зазвичай прирослий або зрослий із ніжкою в кількох місцях. Верхня поверхня гладенька до злегка зморшкуватої, аспідно-сіра, темно-сіра, коричнювато-сіра або вугільно-чорна, тоді як рідкісні альбіносні форми білуваті. Стерильний нижній бік світліший, білуватий до попелясто-сірого, гладенький або зі слабким нальотом, а не густо опушений.",
+      "hymenium": "Спороносний шар вкриває гладеньку або злегка зморшкувату верхню поверхню шапинки, без пластинок, пор чи комірок. Циліндричні сумки (аски) розміром 200–340 × 10–16 мкм містять по вісім аскоспор і супроводжуються циліндричними парафізами завширшки близько 2,5–10 мкм із закругленими або злегка потовщеними верхівками.",
+      "stipe": "Ніжка заввишки 3–10 см (зрідка до 15 см) і завтовшки 1–3 см, приблизно циліндрична або злегка розширена біля основи. Молода білувата, невдовзі стає блідо-попелясто-сірою, сіро-коричневою або темно-сірою, глибоко порізана гострими поздовжніми ребрами, поперечними перемичками та видовженими овальними ямками, а всередині має кілька порожнистих камер.",
+      "flesh": "М'якуш у шапинці тонкий і крихкий, у ніжці воскоподібний до хрящуватого або туго-еластичного, білуватий до блідо-сірого, на розрізі кольору не змінює. Смак м'який і невиразний; запах слабкий і невизначений, у молодих плодових тіл іноді приємно пряний, у старих — затхлий або землистий.",
+      "sporePrint": "Споровий порошок білий. Аскоспори широко еліпсоїдні, гладенькі й безбарвні, розміром 15–20 × 10–13 мкм (зрідка 13–21 × 9–14 мкм), кожна містить одну велику центральну олійну краплю.",
+      "habitat": "Росте на ґрунті, серед опалого листя, у моху або невисокій траві у вологих листяних, хвойних і мішаних лісах — часто під дубом, буком або сосною — а також уздовж лісових стежок, на порушеному ґрунті, у парках і нерідко на згарищах. Ймовірно, ектомікоризний вид; плодоносить із травня до листопада з піком наприкінці літа та восени.",
+      "uses": "Старіші визначники й деякі європейські атласи розглядають його як їстівний після ретельного варіння або відварювання, зазвичай використовуючи в супах лише шапинки, хоча загалом він вважається посереднім за смаком і консистенцією. Проте в сирому або недостатньо провареному вигляді спричиняє шлунково-кишкові розлади й підозрюється у вмісті сполук, споріднених із гіромітрином, які вивільняють монометилгідразин, тому сучасні токсикологічні рекомендації не радять його споживати.",
+      "confusion": "Helvella crispa має кремово-білу до блідо-охристої шапинку з вільними краями та дрібно опушеним нижнім боком, що відрізняє її навіть від рідкісних світлих форм. Helvella elastica, Helvella atra та Helvella spadicea мають гладенькі, неребристі циліндричні ніжки. У Helvella phlebophora помітні ребра заходять на нижній бік шапинки. Gyromitra infula має червонувато-коричневу, сідлоподібну або мозкоподібну шапинку на гладенькій ніжці, а види роду Morchella мають шапинки зі стільниковими комірками й плодоносять навесні.",
+      "notes": "Дослідження ДНК показують, що справжня Helvella lacunosa є бореальним і помірним європейським видом; подібні темні види з ребристою ніжкою в Північній Америці належать до комплексу щонайменше з одинадцяти окремих філогенетичних видів, зокрема Helvella vespertina під хвойними та Helvella dryophila під дубами на заході континенту. На плодових тілах зрідка паразитують Hypomyces cervinigenus або Clitocybe sclerotoidea."
+    },
+    "zh": {
+      "description": "一種深色的夏秋季子囊菌，單生或小群生於落葉林、針葉林與混合林的土壤及火燒地，也見於公園與長滿苔蘚的林間空地。本種最初描述自歐洲，自斯堪地那維亞至地中海地區皆廣為分布，在亞洲與北美東部亦有紀錄。",
+      "cap": "菌蓋寬2–6 cm（偶爾達1–10 cm），呈不規則馬鞍形或主教冠形，具有二至四個扭曲摺疊的裂片。邊緣通常在數處與菌柄相連或癒合。上表面平滑至略微皺褶，呈石板灰、深灰、褐灰或炭黑色，罕見的白化型呈帶白色。不孕的下表面較淡，呈帶白色至灰白色，平滑至略帶細粉，而非密被細絨毛。",
+      "hymenium": "產孢層覆蓋於菌蓋平滑至微皺的上表面，無菌褶、菌孔或凹坑。圓柱形子囊大小為200–340 × 10–16 µm，每個含八枚子囊孢子，並伴生圓柱形側絲，寬約2.5–10 µm，頂端圓鈍至略膨大。",
+      "stipe": "菌柄高3–10 cm（偶爾達15 cm），粗1–3 cm，大致呈圓柱形或基部略寬。幼時帶白色，不久轉為淡灰白色、灰褐色或深灰色，表面有深邃銳利的縱棱、橫橋與長橢圓形凹穴，內部具有數個中空腔室。",
+      "flesh": "菌肉在菌蓋中薄而易碎，在菌柄中呈蠟質至軟骨質或韌而具彈性，帶白色至淡灰色，切開後不變色。滋味溫和平淡；氣味微弱不明顯，幼嫩標本有時略帶宜人辛香，老熟個體則顯沉悶或帶土味。",
+      "sporePrint": "孢子印白色。子囊孢子寬橢圓形、平滑且無色，大小為15–20 × 10–13 µm（偶爾為13–21 × 9–14 µm），每枚中央含有一顆大型油滴。",
+      "habitat": "生長於潮濕的落葉林、針葉林及混合林中（常見於櫟樹、山毛櫸或松樹下）的土壤、落葉層、苔蘚或短草間，亦見於林道旁、受干擾的地面、公園，並經常出現在火燒過的土壤上。可能為外生菌根菌，自五月至十一月產生子實體，以夏末與秋季為盛期。",
+      "uses": "較早期的圖鑑與部分歐洲真菌誌將其視為經徹底烹煮或汆燙後可食，通常僅取菌蓋煮湯，但普遍認為風味與口感欠佳。然而，生食或未煮熟會引起腸胃不適，且疑似含有會釋放一甲基肼的鹿花菌素相關化合物，因此現代毒理學指引建議不要食用。",
+      "confusion": "Helvella crispa 的菌蓋呈乳白色至淡赭色，邊緣離生且下表面密被細絨毛，即使面對罕見淡色型也能區分。Helvella elastica、Helvella atra 與 Helvella spadicea 皆具平滑無棱的圓柱形菌柄。Helvella phlebophora 具有延伸至菌蓋下表面的明顯棱脈。Gyromitra infula 的菌蓋呈紅褐色、馬鞍形或腦狀，著生於平滑菌柄上；Morchella 屬物種則具蜂窩狀凹坑菌蓋並於春季結實。",
+      "notes": "DNA研究顯示，真正的 Helvella lacunosa 是歐洲北方與溫帶物種；北美外形相似的深色棱柄類群實屬一個至少包含十一種獨立系統發育物種的複合群，包括西部針葉林下的 Helvella vespertina 與櫟林下的 Helvella dryophila。子實體偶爾會被 Hypomyces cervinigenus 或 Clitocybe sclerotoidea 寄生。"
+    }
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum",
+        "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=147441",
+        "detail": "147441"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum",
+        "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=147441",
+        "detail": "147441"
+      },
+      {
+        "group": "name",
+        "name": "MycoBank",
+        "href": "https://www.mycobank.org/MB/147441"
+      },
+      {
+        "group": "name",
+        "name": "GBIF",
+        "href": "https://www.gbif.org/species/2594765",
+        "detail": "2594765"
+      },
+      {
+        "group": "name",
+        "name": "Catalogue of Life",
+        "href": "https://www.catalogueoflife.org/data/taxon/3KJZ6"
+      },
+      {
+        "group": "name",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1462244"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://en.wikipedia.org/wiki/Helvella_lacunosa"
+      },
+      {
+        "group": "text",
+        "name": "First Nature",
+        "href": "https://www.first-nature.com/fungi/helvella-lacunosa.php"
+      },
+      {
+        "group": "text",
+        "name": "MushroomExpert.Com",
+        "href": "https://www.mushroomexpert.com/helvella_lacunosa.html"
+      },
+      {
+        "group": "text",
+        "name": "myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Helvella-lacunosa/",
+        "detail": "Czech"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Gruben-Lorchel",
+        "detail": "German"
+      },
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fr.wikipedia.org/wiki/Helvelle_lacuneuse",
+        "detail": "French"
+      }
+    ],
+    "ar": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ar.wikipedia.org/wiki/%D9%87%D9%84%D9%81%D9%8A%D9%84%D8%A9_%D8%BA%D8%A7%D8%A6%D8%B1%D8%A9"
+      }
+    ],
+    "bg": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%BD%D0%B0_%D0%B1%D1%83%D1%87%D0%BA%D0%B0"
+      }
+    ],
+    "zh": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%AA%AA%E9%A6%AC%E9%9E%8D%E8%8F%8C"
+      }
+    ],
+    "hr": [
+      {
+        "group": "text",
+        "name": "gljive.com.hr",
+        "href": "https://www.gljive.com.hr"
+      }
+    ],
+    "cs": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://cs.wikipedia.org/wiki/Ch%C5%99ap%C3%A1%C4%8D_jamkat%C3%BD"
+      },
+      {
+        "group": "text",
+        "name": "myko.cz",
+        "href": "https://www.myko.cz/myko-atlas/Helvella-lacunosa/"
+      }
+    ],
+    "da": [
+      {
+        "group": "text",
+        "name": "naturbasen.dk",
+        "href": "https://www.naturbasen.dk"
+      }
+    ],
+    "nl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://nl.wikipedia.org/wiki/Zwarte_kluifzwam"
+      }
+    ],
+    "et": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://et.wikipedia.org/wiki/Tume_helvell"
+      }
+    ],
+    "fi": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fi.wikipedia.org/wiki/Mustam%C3%B6rsky"
+      }
+    ],
+    "fr": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://fr.wikipedia.org/wiki/Helvelle_lacuneuse"
+      }
+    ],
+    "de": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://de.wikipedia.org/wiki/Gruben-Lorchel"
+      }
+    ],
+    "hu": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://hu.wikipedia.org/wiki/Sz%C3%BCrke_papsapkagomba"
+      }
+    ],
+    "ja": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%AA%E3%83%AA%E3%83%A5%E3%82%A6"
+      }
+    ],
+    "ko": [
+      {
+        "group": "text",
+        "name": "NIBR",
+        "href": "https://species.nibr.go.kr"
+      }
+    ],
+    "lv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lv.wikipedia.org/wiki/Dobais_rumpucis"
+      }
+    ],
+    "lt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://lt.wikipedia.org/wiki/Urvuotoji_alvyt%C4%97"
+      }
+    ],
+    "no": [
+      {
+        "group": "text",
+        "name": "Wikidata",
+        "href": "https://www.wikidata.org/wiki/Q1462244"
+      }
+    ],
+    "pl": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pl.wikipedia.org/wiki/Piestrzyca_zatokowata"
+      }
+    ],
+    "pt": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://pt.wikipedia.org/wiki/Helvella_lacunosa"
+      }
+    ],
+    "ro": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ro.wikipedia.org/wiki/Helvella_lacunosa"
+      }
+    ],
+    "ru": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9"
+      }
+    ],
+    "sl": [
+      {
+        "group": "text",
+        "name": "gobe.si",
+        "href": "https://www.gobe.si"
+      }
+    ],
+    "es": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://es.wikipedia.org/wiki/Helvella_lacunosa"
+      }
+    ],
+    "sv": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://sv.wikipedia.org/wiki/Svart_hattmurkla"
+      }
+    ],
+    "uk": [
+      {
+        "group": "text",
+        "name": "Wikipedia",
+        "href": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%8C%D0%B2%D0%B5%D0%BB%D0%B0_%D0%BB%D0%B0%D0%BA%D1%83%D0%BD%D0%BE%D1%81%D0%B0"
+      }
+    ]
+  },
+  "synonyms": [
+    {
+      "name": "Costapeda lacunosa",
+      "author": "(Afzel.) Falck",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella sulcata",
+      "author": "Afzel.",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella mitra",
+      "author": "Schaeff.",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella monacella",
+      "author": "Schaeff.",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella manacella",
+      "author": "Schaeff.",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella pallescens",
+      "author": "Schaeff.",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella leucophaea",
+      "author": "Pers.",
+      "rank": "species"
+    },
+    {
+      "name": "Lachnea leucophaea",
+      "author": "(Pers.) P. Karst.",
+      "rank": "species"
+    },
+    {
+      "name": "Krombholziella leucophaea",
+      "author": "(Pers.) Imler",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella cinerea",
+      "author": "(Afzel.) Rea",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella subcostata",
+      "author": "Cooke",
+      "rank": "species"
+    },
+    {
+      "name": "Helvella costata",
+      "author": "Berk.",
+      "rank": "species"
+    },
+    {
+      "name": "Phallus brunneus",
+      "author": "Batsch",
+      "rank": "species"
+    },
+    {
+      "name": "Boletus leucophaeus",
+      "author": "Battarra",
+      "rank": "species"
     }
   ]
 }

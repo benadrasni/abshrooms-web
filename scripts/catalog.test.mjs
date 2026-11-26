@@ -512,7 +512,7 @@ test('synonym objects render as a name and an author', () => {
   const blushing = viewModel({ lang: 'en', view: 'mushroom', key: 'Agaricus sylvaticus' });
   assert.equal(blushing.html.includes('[object Object]'), false);
   assert.match(blushing.html, /<span class="latin">Agaricus haemorrhoidarius<\/span> Schulzer/);
-  assert.match(blushing.html, /12 more names/);
+  assert.match(blushing.html, /13 more names/);
   const waxcap = viewModel({ lang: 'en', view: 'mushroom', key: 'Hygrophorus chrysodon' });
   assert.match(
     waxcap.html,

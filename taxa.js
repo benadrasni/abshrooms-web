@@ -1185,5 +1185,11 @@ export const TAXA = {
   },
   Bolbitius: {
     rank: "genus"
+  },
+  Schizophyllaceae: {
+    rank: "family"
+  },
+  Schizophyllum: {
+    rank: "genus"
   }
 };
