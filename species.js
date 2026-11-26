@@ -240378,6 +240378,7 @@ export const CATALOG = [
       "https://www.inaturalist.org/taxa/125724"
     ]
   },
+  "added": "2026-11-26",
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Pseudoboletus_parasiticus/Pseudoboletus_parasiticus@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Pseudoboletus_parasiticus/Pseudoboletus_parasiticus@400.webp",
   "plateCredit": {
