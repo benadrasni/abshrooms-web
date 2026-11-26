@@ -1213,5 +1213,8 @@ export const TAXA = {
   },
   Suillellus: {
     rank: "genus"
+  },
+  Cyanoboletus: {
+    rank: "genus"
   }
 };
