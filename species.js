@@ -225422,5 +225422,2181 @@ export const CATALOG = [
   "reserved": false,
   "id": 223,
   "citation": "Mycologia 14(3): 139 (1922)"
+},
+{
+  "name": "Suillus bovinus",
+  "author": "(L.) Roussel",
+  "family": "Suillaceae",
+  "genus": "Suillus",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Suillaceae",
+    "Suillus"
+  ],
+  "summary": [
+    "Boletales",
+    "Suillaceae",
+    "Suillus"
+  ],
+  "edibility": "edible",
+  "hymenium": "tubes",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 2.0,
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "label": {
+    "bg": "кравешка масловка",
+    "cs": "klouzek kravský",
+    "da": "grovporet slimrørhat",
+    "de": "Kuh-Röhrling",
+    "en": "bovine bolete",
+    "es": "boleto bovino",
+    "et": "lehmatatik",
+    "fi": "nummitatti",
+    "fr": "Bolet des bouviers",
+    "hu": "tehéntinóru",
+    "ja": "アミタケ",
+    "ko": "황소비단그물버섯",
+    "lt": "tamprusis kazlėkas",
+    "lv": "govju sviestbeka",
+    "nl": "koeienboleet",
+    "no": "seig kusopp",
+    "pl": "maślak sitarz",
+    "ru": "козляк",
+    "sk": "masliak kravský",
+    "sl": "prožna lupljivka",
+    "sv": "örsopp",
+    "uk": "козляк",
+    "zh": "黏盖乳牛肝菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Kuhröhrling",
+      "Kuhpilz"
+    ],
+    "en": [
+      "jersey cow bolete",
+      "jersey cow mushroom",
+      "bovine jack"
+    ],
+    "es": [],
+    "et": [
+      "lehmapäkk",
+      "lehmapuravik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "網茸"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "koeieboleet"
+    ],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "kosopp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "粘盖乳牛肝菌",
+      "乳牛肝菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=356928",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=356928",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=356928",
+      "https://www.gbif.org/species/7623986",
+      "https://www.first-nature.com/fungi/suillus-bovinus.php",
+      "https://www.myko.cz/myko-atlas/Suillus-bovinus/",
+      "https://sk.wikipedia.org/wiki/Masliak_kravsk%C3%BD",
+      "https://en.wikipedia.org/wiki/Suillus_bovinus",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "ar": [],
+    "bg": [
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762",
+      "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B2%D0%B5%D1%88%D0%BA%D0%B0_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0"
+    ],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Klouzek_kravsk%C3%BD",
+      "https://www.myko.cz/myko-atlas/Suillus-bovinus/",
+      "https://www.gbif.org/species/7623986",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.gbif.org/species/5239860"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Kuh-R%C3%B6hrling",
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "es": [
+      "https://www.gbif.org/species/5239860"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Lehmatatik",
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Nummitatti",
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/7623986",
+      "https://fr.wikipedia.org/wiki/Bolet_des_bouviers",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Teh%C3%A9ntin%C3%B3ru",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%82%BF%E3%82%B1",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.gbif.org/species/5239860"
+    ],
+    "ko": [
+      "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%86%8C%EB%B9%84%EB%8B%A8%EA%B7%B8%EB%AC%BC%EB%B2%84%EC%84%AF",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Tamprusis_kazl%C4%97kas",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Govju_sviestbeka",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Koeienboleet",
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850"
+    ],
+    "no": [
+      "https://no.wikipedia.org/wiki/Seig_kusopp",
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Ma%C5%9Blak_sitarz",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D0%BB%D1%8F%D0%BA",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "sk": [
+      "https://sk.wikipedia.org/wiki/Masliak_kravsk%C3%BD",
+      "https://www.wikidata.org/wiki/Q1165762",
+      "https://fotonet.sk/atlas/fungi_huby/suillus-bovinus"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762",
+      "https://sl.wikipedia.org/wiki/Pro%C5%BEna_lupljivka"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/%C3%96rsopp",
+      "https://www.gbif.org/species/7623986",
+      "https://www.inaturalist.org/taxa/337850"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D0%BB%D1%8F%D0%BA",
+      "https://www.inaturalist.org/taxa/337850",
+      "https://www.wikidata.org/wiki/Q1165762"
+    ],
+    "zh": [
+      "https://www.gbif.org/species/7623986",
+      "https://www.wikidata.org/wiki/Q1165762",
+      "https://zh.wikipedia.org/wiki/%E4%B9%B3%E7%89%9B%E8%82%9D%E8%8F%8C"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_1.webp",
+      "author": "Egor Dyukarev",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/181401320"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_2.webp",
+      "author": "lizfrost47",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/320423946"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_3.webp",
+      "author": "Colin Wilson",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/139099052"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_4.webp",
+      "author": "Bartosz Czołczyński",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/247092220"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_5.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/194986357"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 aa858b6ba97d5c09eac15aa9835d4f129fe3bce6f47644c4d1257aea17640f0e, Exif Orientation 1) has a cursive “Gemini” mark at the lower right. plate --mode fit: scale 2.000 (upscaled; disclose softness), cropBox [96, 0, 1600, 2400] (96 output px / 48 source px each side, no vertical crop). Visual inspection of the @1600 fit confirms that all figures (main clay-pinkish cap with a paler margin and ringless stem; young convex specimen; underside with large angular compound pores; longitudinal section with pale yellow flesh and a pinkish stem base; a small group among pine needles and heather) and the signature remain fully inside the trimmed frame; only paper margin is cut. Nothing was erased or painted. @1600 SHA-256 196c07ac68e96ff9e57574182cf18990c9ba479b7152dde15a7fbee9a9e2558d; @400 SHA-256 d96700ba22402e79597d6361c836b7b7f4149fe44f9396013bf28b2c13bf5bc2."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_1.webp",
+      "author": "Egor Dyukarev",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/181401320"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_2.webp",
+      "author": "lizfrost47",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/320423946"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_3.webp",
+      "author": "Colin Wilson",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/139099052"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_4.webp",
+      "author": "Bartosz Czołczyński",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/247092220"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Suillaceae/Suillus_bovinus/Suillus_bovinus_5.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/194986357"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر أنابيب صغير إلى متوسط في غابات الصنوبر، كثيراً ما يظهر في مجموعات كثيفة على تربة فقيرة رملية حمضية. يُعرف بقبعة مخاطية، لونها أصفر طيني إلى بني برتقالي، ذات حافة أبهت، ومسام كبيرة زاوية مركبة، وساق بلا حلقة بلون القبعة. اللحم مطاطي ولا يزرق.",
+      "cap": "القبعة عرضها ٣–١٢ سم؛ محدبة أولاً ثم مسطحة وكثيراً ما تكون غير منتظمة أو متموجة عند الحافة. الحافة أبهت من بقية القبعة وملفوفة عند الصغار. أصفر باهت أو ترابي أو برتقالي طيني أو بني وردي، وتبهت مع العمر. السطح أملس، لامع ومخاطي في الرطوبة، أقل مما في بعض الأنواع القريبة، مطفي أو جلدي في الجفاف. القشرة صعبة التقشر ولا تنفصل عادة إلا قطعاً.",
+      "hymenium": "الأنابيب بطول يصل إلى ١ سم، ملتصقة إلى هابطة قليلاً، في البداية رمادية صفراء باهتة، ثم صفراء زيتونية إلى ترابية صدئية أو رمادية خضراء. المسام كبيرة وزاوية ومركبة (كل فتحة مقسمة إلى حجرات أصغر)، بلون الأنابيب، وتغمق بالضغط. لا تفرز قطرات حليبية.",
+      "stipe": "الساق طولها ٣–٨ سم وسُمكها ٠٫٥–٢ سم، كثيراً ما تكون قصيرة نسبياً، أسطوانية أو مستدقة نحو القاعدة، صولجانية عند الصغار، مصمتة، بلا حلقة وبلا نقاط غدية. بلون القبعة أو أبهت، وأحياناً بنية محمرة نحو القاعدة. عند القاعدة كثيراً ما يوجد ميسيليوم مبيض إلى وردي.",
+      "flesh": "اللحم طري لكنه مرن مطاطي، في القبعة مبيض أو أصفر باهت أو وردي طيني، وفي قاعدة الساق كثيراً ما يكون أشد وردية أو محمرّاً. عند القطع لا يزرق، أو يميل باهتاً جداً إلى الرمادي أو الوردي. الرائحة فاكهية خفيفة؛ والطعم لطيف وحامض قليلاً. عند الطبخ أو التجفيف كثيراً ما يتحول اللحم إلى الوردي حتى البنفسجي.",
+      "sporePrint": "طبعة الأبواغ خضراء زيتونية إلى بنية زيتونية. الأبواغ ملساء، شبه مغزلية، ٧–١٠ × ٣–٤ µm.",
+      "habitat": "فطر خارجي التكافل الجذري مع صنوبر ذي إبرتين، ولا سيما الصنوبر الإسكتلندي (Pinus sylvestris)، على تربة فقيرة رملية حمضية، كثيراً في غرسات فتية وعلى جوانب المسالك وفي الفسح، وأحياناً بين الخلنج. ينمو عادة في مجموعات أو خصل، وأحياناً في بقع واسعة. شائع في أوروبا ومسجل أيضاً حيث زُرع الصنوبر، بما في ذلك أجزاء من نيوزيلندا. في كثير من وسط أوروبا يثمر من يونيو أو يوليو إلى نوفمبر؛ وفي بريطانيا وإيرلندا يُوجد أكثر من أغسطس إلى نوفمبر، وقد يطول الموسم جنوباً. كثيراً ما يرافقه Gomphidius roseus، فطر صفائح ذو قبعة وردية يعيش معه تحت الصنوبر.",
+      "uses": "يؤكل، لكن جودته متواضعة: اللحم مطاطي والطعم لطيف وحامض قليلاً. أفضلها الأجسام الثمرية الفتية المتماسكة. انزع القشرة المخاطية للقبعة قبل الطبخ، وأزل الأنابيب من العينات المسنة، لتقليل اللزوجة وخطر اضطراب المعدة الذي يربطه بعض الناس بقشرة أنواع Suillus. يصلح في الخليط مع فطور أخرى أفضل منه وحده. اطبخه جيداً.",
+      "confusion": "ينمو Suillus granulatus أيضاً تحت الصنوبر وليس له حلقة، لكن مسامه صغيرة وبسيطة لا كبيرة ومركبة، والمسام الفتية تفرز قطرات حليبية، وأعلى الساق منقط بحبيبات. لـ Suillus luteus حلقة غشائية وقبعة مخاطية بنية أغمق. ينمو Suillus grevillei تحت الأرزية، وله قبعة صفراء ذهبية وحلقة. لـ Suillus collinitus مسام أدق وميسيليوم وردي عند قاعدة الساق، وكثيراً ما تظهر على القبعة خطوط شعاعية داكنة. لـ Suillus variegatus قبعة أجف، حرشفية دقيقة أو لبادية، ومسام زيتونية أصغر، ولحمه كثيراً ما يزرق خفيفاً. لا خطر في أي من هذه الاشتباهات؛ الخطر الرئيس هو الخلط مع فطر أنابيب يزرق لحمه بقوة أو يكون مرّ الطعم، وهذا النوع لا يفعل ذلك.",
+      "notes": "أوثق الصفات في الحقل هي المسام الكبيرة المركبة، وحافة القبعة الأبهت، والساق بلا حلقة، واللحم المطاطي. كثيراً ما تنمو الأجسام الثمرية متلاصقة، فتصبح القبعات مائلة.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка до средна тръбеста гъба на боровите гори, често в гъсти групи върху бедни, песъчливи и кисели почви. Познава се по слизестата, глинестожълта до оранжевокафява гугла с по-блед ръб, големите ъгловати сложни пори и пънчето без пръстен, оцветено като гуглата. Месото е гумено и не посинява.",
+      "cap": "Гугла 3–12 cm широка; отначало изпъкнала, после сплескана и по ръба често неправилна или вълниста. Ръбът е по-блед от останалата гугла и при младите подвит. Бледожълта, охрава, глинестооранжева или розово-кафява, с възрастта избеляваща. Повърхността е гладка, при влага лъскава и слизеста, по-малко отколкото при някои сродни видове, на сухо матова или кожеста. Кожицата се обелва трудно и обикновено слиза само на парчета.",
+      "hymenium": "Тръбички дълги до 1 cm, прираснали до слабо низбягващи, отначало бледосиво-жълти, после маслиненожълти до ръждивоохрави или сиво-зелени. Порите големи, ъгловати и сложни (всяко устие е разделено на по-малки камерки), със същия цвят като тръбичките, при натиск потъмняват. Не отделят млечни капчици.",
+      "stipe": "Пънче 3–8 cm високо и 0,5–2 cm дебело, често сравнително късо, цилиндрично или стеснено към основата, при младите бухалковидно, плътно, без пръстен и без жлезисти точки. Със същия цвят като гуглата или по-бледо, към основата понякога червеникавокафяво. При основата често с белезникав до розов мицел.",
+      "flesh": "Месо меко, но гумено-еластично, в гуглата белезникаво, бледожълто или глинесторозово, в основата на пънчето често по-розово или червеникаво. На срез не посинява или само много слабо посивява или порозовява. Мирис слабо плодов; вкус мек, леко кисел. При варене или сушене месото често порозовява до виолетово.",
+      "sporePrint": "Споров прах маслиненозелен до маслиненокафяв. Спори гладки, почти вретеновидни, 7–10 × 3–4 µm.",
+      "habitat": "Ектомикоризна гъба на двуиглените борове, особено на белия бор (Pinus sylvestris), върху бедни, песъчливи и кисели почви, често в млади насаждения, покрай пътеки и на просеки, понякога сред пирен. Обикновено расте на групи или китки, понякога на обширни килими. Честа в Европа и отбелязана и там, където са засадени борове, включително в части от Нова Зеландия. В голяма част от Централна Европа плододава от юни или юли до ноември; във Великобритания и Ирландия по-често се среща от август до ноември, а по на юг сезонът може да трае по-дълго. Често я придружава Gomphidius roseus, розовогуглеста пластинката гъба, която живее с нея под боровете.",
+      "uses": "Ядлива, но със скромно качество: месото е гумено, а вкусът мек и леко кисел. Най-добри са младите, стегнати плодни тела. Преди готвене обелете слизестата кожица на гуглата, а при по-стари екземпляри отстранете тръбичките, за да намалите слизестостта и риска от стомашни разстройства, които някои хора свързват с кожицата на гъби от род Suillus. По-добре се съчетава в смес с други гъби, отколкото сама. Сварете я добре.",
+      "confusion": "Suillus granulatus също расте под борове и няма пръстен, но порите му са дребни и прости, не големи и сложни, младите пори отделят млечни капчици, а горната част на пънчето е осеяна със зрънца. Масловка (Suillus luteus) има ципест пръстен и по-тъмна кафява слизеста гугла. Елегантна масловка (Suillus grevillei) расте под лиственици, има златистожълта гугла и пръстен. Розовокрака масловка (Suillus collinitus) има по-фини пори и розов мицел в основата на пънчето, а на гуглата често тъмни радиални ивици. Suillus variegatus има по-суха, ситнолюспеста или плъстена гугла и по-малки маслинени пори, а месото често слабо посинява. Нито едно от тези обърквания не е опасно; основният риск е объркване с тръбеста гъба, чието месо силно посинява или е горчиво, което този вид не прави.",
+      "notes": "Най-надеждните теренни белези са големите сложни пори, по-бледият ръб на гуглата, пънчето без пръстен и гуменото месо. Плодните тела често растат притиснати едно до друго, та гуглите стават криви.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762",
+        "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B2%D0%B5%D1%88%D0%BA%D0%B0_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0"
+      ],
+      "label": "кравешка масловка"
+    },
+    "cs": {
+      "description": "Malá až středně velká rourkatá houba borových lesů, často v hustých skupinách na chudých, písčitých a kyselých půdách. Pozná se podle slizkého hlinitě žlutého až oranžovohnědého klobouku se světlejším okrajem, velkých hranatých složených pórů a třeně bez prstenu, zbarveného jako klobouk. Dužnina je gumovitá a nemodrá.",
+      "cap": "Klobouk 3–12 cm široký; zprvu klenutý, později zploštělý a na okraji často nepravidelný nebo zvlněný. Okraj je světlejší než zbytek klobouku a v mládí podvinutý. Bledožlutý, okrový, hlinitě oranžový nebo narůžověle hnědý, s věkem blednoucí. Povrch je hladký, za vlhka lesklý a slizký, méně než u některých příbuzných druhů, za sucha matný nebo kožovitý. Pokožka se obtížně sloupává a obvykle jde dolů jen v útržcích.",
+      "hymenium": "Rourky dlouhé do 1 cm, přirostlé až mírně sbíhavé, zprvu bledě šedožluté, později olivově žluté až rezavě okrové nebo šedozelené. Póry velké, hranaté a složené (každé ústí je rozděleno na menší komůrky), zbarvené jako rourky, při stlačení tmavnou. Nevylučují mléčné kapičky.",
+      "stipe": "Třeň 3–8 cm dlouhý a 0,5–2 cm tlustý, často poměrně krátký, válcovitý nebo k bázi zúžený, v mládí kyjovitý, plný, bez prstenu a bez žláznatých teček. Zbarvený jako klobouk nebo bledší, směrem k bázi někdy červenohnědý. Při bázi často s bělavým až narůžovělým podhoubím.",
+      "flesh": "Dužnina měkká, ale gumovitě pružná, v klobouku bělavá, bledožlutá nebo hlinitě narůžovělá, v bázi třeně často růžovější nebo načervenalá. Na řezu nemodrá, nebo jen velmi slabě šedne či růžoví. Vůně slabě ovocná; chuť mírná, slabě nakyslá. Při vaření nebo sušení dužnina často růžoví až fialoví.",
+      "sporePrint": "Výtrusný prach olivově zelený až olivově hnědý. Výtrusy hladké, téměř vřetenovité, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorhizní houba dvoujehlicových borovic, zejména borovice lesní (Pinus sylvestris), na chudých, písčitých a kyselých půdách, často v mladých výsadbách, podél cest a na pasekách a někdy ve vřesovištích. Roste obvykle ve skupinách nebo trsech, někdy v rozsáhlých kobercích. Běžná v Evropě a zaznamenaná i tam, kde byly borovice vysazeny, včetně částí Nového Zélandu. Ve velké části střední Evropy plodí od června nebo července do listopadu; v Británii a Irsku se častěji nachází od srpna do listopadu a dále na jihu může sezóna trvat déle. Často ji doprovází Gomphidius roseus, růžově kloboukatá lupenatá houba, která s ní roste pod borovicemi.",
+      "uses": "Jedlá, ale skromné kvality: dužnina je gumovitá a chuť mírná, slabě nakyslá. Nejlepší jsou mladé, pevné plodnice. Před vařením stáhněte slizkou pokožku klobouku a u starších plodnic odstraňte rourky, abyste snížili sliznatost a riziko zažívacích potíží, které někteří lidé u pokožky hub rodu Suillus popisují. Lépe se hodí do směsi s jinými houbami než samostatně. Důkladně ji uvařte.",
+      "confusion": "Suillus granulatus roste rovněž pod borovicemi a postrádá prsten, ale jeho póry jsou drobné a jednoduché, nikoli velké a složené, mladé póry roní mléčné kapky a horní část třeně je poseta zrníčky. Klouzek obecný (Suillus luteus) má blánitý prsten a tmavší hnědý slizký klobouk. Klouzek sličný (Suillus grevillei) roste pod modříny, má zlatavě žlutý klobouk a prsten. Klouzek žíhaný (Suillus collinitus) má jemnější póry a růžové podhoubí na bázi třeně a na klobouku často tmavé radiální pruhy. Suillus variegatus má sušší, jemně šupinatý nebo plstnatý klobouk a menší olivové póry a jeho dužnina často slabě modrá. Žádná z těchto záměn není nebezpečná; hlavní riziko je záměna s kteroukoli rourkatou houbou, jejíž dužnina výrazně modrá nebo je hořká, což tento druh nedělá.",
+      "notes": "Nejspolehlivější znaky v terénu jsou velké složené póry, světlejší okraj klobouku, třeň bez prstenu a gumovitá dužnina. Plodnice často rostou natlačené vedle sebe, takže klobouky bývají nesouměrné.",
+      "names": [],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Klouzek_kravsk%C3%BD",
+        "https://www.myko.cz/myko-atlas/Suillus-bovinus/",
+        "https://www.gbif.org/species/7623986",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "klouzek kravský"
+    },
+    "da": {
+      "description": "En lille til mellemstor rørhat i fyrreskove, ofte i tætte grupper på fattig, sandet og sur jord. Den kendes på en slimet, ler- til orangegulbrun hat med blegere rand, store kantede sammensatte porer og en ringløs stok i samme farve som hatten. Kødet er gummiagtigt og blåner ikke.",
+      "cap": "Hat 3–12 cm bred; først hvælvet, senere fladtrykt og ved randen ofte uregelmæssig eller bølget. Randen er blegere end resten af hatten og indrullet hos unge eksemplarer. Bleggul, okker, lerorangegul eller rosa-brun, aftagende med alderen. Overfladen er glat, i fugtigt vejr blank og slimet, mindre end hos nogle beslægtede arter, tør mat eller læderagtig. Huden er vanskelig at trække af og kommer som regel kun af i lapper.",
+      "hymenium": "Rør op til 1 cm lange, tilvoksede til svagt nedløbende, først blegt grålige gule, senere oliven-gule til rustokker eller grågrønne. Porer store, kantede og sammensatte (hver åbning delt i mindre kamre), samme farve som rørene, mørknende ved berøring. De udskiller ikke mælkeagtige dråber.",
+      "stipe": "Stok 3–8 cm høj og 0,5–2 cm tyk, ofte forholdsvis kort, cylindrisk eller tilspidset mod basis, ung kølleformet, fast, uden ring og uden kirtelprikker. Samme farve som hatten eller blegere, mod basis undertiden rødbrun. Ved basis ofte med hvidligt til rosa mycelium.",
+      "flesh": "Kød blødt men gummiagtigt-elastisk, i hatten hvidligt, bleggul eller lerrosa, i stokkens basis ofte mere rosa eller rødligt. Ved gennemskæring blåner det ikke, eller kun meget svagt gråt eller rosa. Lugt svagt frugtagtig; smag mild og let syrlig. Ved kogning eller tørring bliver kødet ofte rosa til violet.",
+      "sporePrint": "Sporeaftryk olivengrønt til olivenbrunt. Sporer glatte, næsten tenformede, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorrhizasvamp hos tonålede fyrre, især skovfyr (Pinus sylvestris), på fattig, sandet og sur jord, ofte i unge plantninger, langs stier og i lysninger og undertiden blandt lyng. Den vokser som regel i grupper eller tuer, undertiden i store tæpper. Almindelig i Europa og også registreret dér, hvor fyrre er plantet, herunder dele af New Zealand. I store dele af Centraleuropa frugter den fra juni eller juli til november; i Storbritannien og Irland findes den oftere fra august til november, og længere sydpå kan sæsonen vare længere. Den ledsages ofte af Gomphidius roseus, en rosa-hatet lamelsvamp, der lever sammen med den under fyrre.",
+      "uses": "Spiselig, men af beskeden kvalitet: kødet er gummiagtigt, og smagen er mild og let syrlig. Unge, faste frugtlegemer er bedst. Træk den slimede hathud af inden tilberedning, og fjern rørene hos ældre eksemplarer for at mindske slimethed og risikoen for maveonde, som nogle mennesker rapporterer ved huden af Suillus-arter. Den egner sig bedre i blanding med andre svampe end alene. Kog den grundigt.",
+      "confusion": "Suillus granulatus vokser også under fyrre og mangler ring, men dens porer er små og enkle, ikke store og sammensatte, de unge porer udskiller mælkeagtige dråber, og den øvre del af stokken er besat med korn. Brungul slimrørhat (Suillus luteus) har en hindeagtig ring og en mørkere brun, slimet hat. Lærke-rørhat (Suillus grevillei) vokser under lærk og har en gyldengul hat og en ring. Rosafodet slimrørhat (Suillus collinitus) har finere porer og rosa mycelium ved stokkens basis, og hatten viser ofte mørke radiale striber. Suillus variegatus har en tørrere, fint skællet eller filtet hat og mindre olivenfarvede porer, og kødet blåner ofte svagt. Ingen af disse forvekslinger er farlige; den største risiko er forveksling med en rørhat, hvis kød blåner stærkt eller smager bittert, hvad denne art ikke gør.",
+      "notes": "De mest pålidelige feltkendetegn er de store sammensatte porer, den blegere hatrand, den ringløse stok og det gummiagtige kød. Frugtlegemerne vokser ofte tæt sammen, så hattene bliver skæve.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.gbif.org/species/5239860"
+      ],
+      "label": "grovporet slimrørhat"
+    },
+    "de": {
+      "description": "Ein kleiner bis mittelgroßer Röhrling der Kiefernwälder, oft in dichten Gruppen auf armen, sandigen und sauren Böden. Er ist an einem schleimigen, lehmgelb bis orangebraunen Hut mit blasserem Rand, großen eckigen, zusammengesetzten Poren und einem ringlosen, hutfarbenen Stiel zu erkennen. Das Fleisch ist gummiartig und blaut nicht.",
+      "cap": "Hut 3–12 cm breit; zuerst gewölbt, dann abgeflacht und am Rand oft unregelmäßig oder wellig. Der Rand ist blasser als die übrige Hutfläche und jung eingerollt. Blassgelb, ocker, lehmorange oder rosa-braun, im Alter verblassend. Die Oberfläche ist glatt, bei Nässe glänzend und schleimig, weniger als bei manchen verwandten Arten, trocken matt oder lederig. Die Huthaut lässt sich schwer abziehen und kommt meist nur in Fetzen herunter.",
+      "hymenium": "Röhren bis 1 cm lang, angewachsen bis schwach herablaufend, zuerst blass graugelb, später olivgelb bis rostocker oder graugrün. Poren groß, eckig und zusammengesetzt (jede Mündung in kleinere Kammern geteilt), von derselben Farbe wie die Röhren, bei Druck nachdunkelnd. Sie sondern keine milchigen Tröpfchen ab.",
+      "stipe": "Stiel 3–8 cm lang und 0,5–2 cm dick, oft verhältnismäßig kurz, zylindrisch oder zur Basis verjüngt, jung keulig, voll, ohne Ring und ohne Drüsenpunkte. Wie der Hut gefärbt oder blasser, zur Basis hin manchmal rotbraun. An der Basis oft mit weißlichem bis rosafarbenem Myzel.",
+      "flesh": "Fleisch weich, aber gummiartig-elastisch, im Hut weißlich, blassgelb oder lehmrosa, in der Stielbasis oft röter oder rötlich. Beim Anschneiden blaut es nicht oder nur sehr schwach grau oder rosa. Geruch schwach fruchtig; Geschmack mild und leicht säuerlich. Beim Kochen oder Trocknen wird das Fleisch oft rosa bis violett.",
+      "sporePrint": "Sporenpulver olivgrün bis olivbraun. Sporen glatt, fast spindelförmig, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorrhizapilz zweinadeliger Kiefern, besonders der Waldkiefer (Pinus sylvestris), auf armen, sandigen und sauren Böden, oft in jungen Pflanzungen, an Wegen und in Lichtungen und manchmal im Heidekraut. Er wächst meist in Gruppen oder Büscheln, manchmal in großen Flecken. In Europa häufig und auch dort nachgewiesen, wo Kiefern gepflanzt wurden, einschließlich Teilen Neuseelands. In weiten Teilen Mitteleuropas fruktifiziert er von Juni oder Juli bis November; in Großbritannien und Irland findet man ihn häufiger von August bis November, und weiter südlich kann die Saison länger dauern. Oft wird er von Gomphidius roseus begleitet, einem rosa behüteten Blätterpilz, der mit ihm unter Kiefern lebt.",
+      "uses": "Essbar, aber von bescheidener Qualität: das Fleisch ist gummiartig und der Geschmack mild und leicht säuerlich. Am besten sind junge, feste Fruchtkörper. Vor dem Kochen die schleimige Huthaut abziehen und bei älteren Exemplaren die Röhren entfernen, um die Schleimigkeit und das Risiko von Magenbeschwerden zu verringern, die manche Menschen bei der Haut von Suillus-Arten berichten. Er eignet sich besser in Mischgerichten als allein. Gründlich garen.",
+      "confusion": "Suillus granulatus wächst ebenfalls unter Kiefern und hat keinen Ring, doch sind seine Poren klein und einfach, nicht groß und zusammengesetzt, die jungen Poren sondern milchige Tröpfchen ab, und der obere Stiel ist mit Körnchen besetzt. Der Butter-Röhrling (Suillus luteus) hat einen häutigen Ring und einen dunkleren braunen, schleimigen Hut. Der Gold-Röhrling (Suillus grevillei) wächst unter Lärchen und hat einen goldgelben Hut und einen Ring. Der Ringlose Butterpilz (Suillus collinitus) hat feinere Poren und rosa Myzel an der Stielbasis, und sein Hut zeigt oft dunkle Radialstreifen. Suillus variegatus hat einen trockeneren, fein schuppigen oder filzigen Hut und kleinere olivfarbene Poren, und sein Fleisch blaut oft schwach. Keine dieser Verwechslungen ist gefährlich; das Hauptrisiko ist die Verwechslung mit einem Röhrling, dessen Fleisch stark blaut oder bitter schmeckt, was diese Art nicht tut.",
+      "notes": "Die zuverlässigsten Feldmerkmale sind die großen zusammengesetzten Poren, der blassere Hutrand, der ringlose Stiel und das gummiartige Fleisch. Die Fruchtkörper wachsen oft eng aneinander, sodass die Hüte schief werden.",
+      "names": [
+        "Kuhröhrling",
+        "Kuhpilz"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Kuh-R%C3%B6hrling",
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "Kuh-Röhrling"
+    },
+    "en": {
+      "description": "A small to medium bolete of pine woods, often in dense groups on poor, sandy, acidic soils. It is recognised by a slimy clay-yellow to orange-brown cap with a paler margin, large angular compound pores, and a ringless stem the same colour as the cap. The flesh is rubbery and does not turn blue.",
+      "cap": "3–12 cm across; convex at first, then flattened and often irregular or wavy at the margin, which is paler than the rest of the cap and inrolled when young. Pale yellow, ochre, clay-orange or pinkish brown, fading with age. Smooth, shiny and slimy when wet, less so than in some related species, and dull or leathery when dry. The skin is difficult to peel and usually comes off only in patches.",
+      "hymenium": "Tubes up to 1 cm long, adnate to slightly decurrent, pale grey-yellow at first, then olive-yellow to rusty ochre or grey-green. Pores large, angular and compound (each opening divided into smaller compartments), the same colour as the tubes, darkening when bruised. They do not exude milky droplets.",
+      "stipe": "3–8 cm long and 0.5–2 cm thick, often relatively short, cylindrical or tapering towards the base, club-shaped when young, solid, without a ring and without glandular dots. The same colour as the cap or paler, sometimes reddish brown towards the base. The base often bears whitish to pinkish mycelium.",
+      "flesh": "Soft but rubbery-elastic, whitish, pale yellow or clay-pink in the cap, often pinker or reddish in the stem base. It does not turn blue when cut, or only very faintly grey or pink. Smell slightly fruity; taste mild and slightly sour. The flesh often turns pink to purplish when cooked or dried.",
+      "sporePrint": "Olive-green to olive-brown. Spores smooth, subfusiform, 7–10 × 3–4 µm.",
+      "habitat": "Ectomycorrhizal with two-needled pines, especially Scots pine (Pinus sylvestris), on poor, sandy, acidic soils, often in young plantations, along paths and in clearings, and sometimes among heather. It usually grows in groups or tufts, sometimes in large patches. Common in Europe and also recorded where pines have been planted elsewhere, including parts of New Zealand. In much of Central Europe it fruits from June or July to November; in Britain and Ireland it is more often found from August to November, and the season can run later further south. It is often accompanied by Gomphidius roseus, a pink-capped gilled mushroom that lives with it under pines.",
+      "uses": "Edible but of modest quality: the flesh is rubbery and the flavour is mild and slightly sour. Young, firm fruit bodies are best. Peel the slimy cap skin before cooking, and discard the tubes of older specimens, to reduce sliminess and the chance of stomach upset that some people report from Suillus skins. It is better mixed with other mushrooms than served on its own. Cook thoroughly.",
+      "confusion": "Suillus granulatus also grows under pines and lacks a ring, but its pores are small and simple, not large and compound, its young pores exude milky droplets, and the upper stem is dotted with granules. The slippery jack (Suillus luteus) has a membranous ring and a darker brown slimy cap. The larch bolete (Suillus grevillei) grows under larch and has a golden-yellow cap and a ring. Suillus collinitus has finer pores and pink mycelium at the stem base, and its cap often shows dark radial streaks. Suillus variegatus has a drier, finely scaly or felty cap and smaller olive pores, and its flesh often turns slightly blue. None of these lookalikes is dangerous; the main risk is confusion with any bolete whose flesh blues strongly or tastes bitter, which this species does not.",
+      "notes": "The large compound pores, paler cap margin, ringless stem and rubbery flesh are the most reliable field characters. Fruit bodies often grow pressed together, so the caps become lopsided.",
+      "names": [
+        "jersey cow bolete",
+        "jersey cow mushroom",
+        "bovine jack"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=356928",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=356928",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=356928",
+        "https://www.gbif.org/species/7623986",
+        "https://www.first-nature.com/fungi/suillus-bovinus.php",
+        "https://www.myko.cz/myko-atlas/Suillus-bovinus/",
+        "https://sk.wikipedia.org/wiki/Masliak_kravsk%C3%BD",
+        "https://en.wikipedia.org/wiki/Suillus_bovinus",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "bovine bolete"
+    },
+    "es": {
+      "description": "Un boleto pequeño o mediano de pinares, a menudo en grupos densos sobre suelos pobres, arenosos y ácidos. Se reconoce por un sombrero viscoso, de color amarillo arcilloso a pardo anaranjado, con el margen más pálido, por poros grandes, angulosos y compuestos, y por un pie sin anillo del mismo color que el sombrero. La carne es gomosa y no azulea.",
+      "cap": "Sombrero de 3–12 cm de diámetro; al principio convexo, luego aplanado y a menudo irregular u ondulado en el margen. El margen es más pálido que el resto del sombrero y enrollado en los ejemplares jóvenes. Amarillo pálido, ocre, anaranjado arcilloso o pardo rosado, palideciendo con la edad. Superficie lisa, brillante y viscosa en tiempo húmedo, menos que en algunas especies próximas, mate o correosa en seco. La cutícula se desprende con dificultad y suele salir solo a trozos.",
+      "hymenium": "Tubos de hasta 1 cm de longitud, adnatos a ligeramente decurrentes, al principio gris amarillentos pálidos, luego amarillo oliváceo a ocre herrumbroso o gris verdoso. Poros grandes, angulosos y compuestos (cada abertura dividida en celdillas menores), del mismo color que los tubos, oscureciéndose al roce. No exudan gotitas lechosas.",
+      "stipe": "Pie de 3–8 cm de alto y 0,5–2 cm de grosor, a menudo relativamente corto, cilíndrico o atenuado hacia la base, claviforme en los jóvenes, macizo, sin anillo y sin puntos glandulares. Del mismo color que el sombrero o más pálido, a veces pardo rojizo hacia la base. En la base suele haber micelio blanquecino a rosado.",
+      "flesh": "Carne blanda pero elástica y gomosa, blanquecina, amarillo pálido o rosa arcilloso en el sombrero, a menudo más rosada o rojiza en la base del pie. Al corte no azulea, o solo muy débilmente al gris o al rosa. Olor ligeramente afrutado; sabor suave y un poco ácido. Al cocerse o secarse, la carne suele virar a rosa o violáceo.",
+      "sporePrint": "Esporada verde oliva a pardo oliva. Esporas lisas, casi fusiformes, 7–10 × 3–4 µm.",
+      "habitat": "Especie ectomicorrícica de pinos de dos acículas, especialmente el pino silvestre (Pinus sylvestris), en suelos pobres, arenosos y ácidos, a menudo en plantaciones jóvenes, a lo largo de caminos y en claros, y a veces entre el brezo. Suele crecer en grupos o racimos, a veces en manchas extensas. Común en Europa y también citada donde se han plantado pinos, incluidas partes de Nueva Zelanda. En gran parte de Europa central fructifica de junio o julio a noviembre; en Gran Bretaña e Irlanda se encuentra más a menudo de agosto a noviembre, y más al sur la temporada puede alargarse. A menudo lo acompaña Gomphidius roseus, un hongo de láminas con sombrero rosa que vive con él bajo los pinos.",
+      "uses": "Comestible, pero de calidad modesta: la carne es gomosa y el sabor suave, un poco ácido. Los carpóforos jóvenes y firmes son los mejores. Pele la cutícula viscosa del sombrero antes de cocinar y retire los tubos de los ejemplares viejos, para reducir la viscosidad y el riesgo de molestias digestivas que algunas personas relacionan con la cutícula de los Suillus. Queda mejor mezclado con otras setas que solo. Cocínelo bien.",
+      "confusion": "Suillus granulatus también crece bajo pinos y carece de anillo, pero sus poros son pequeños y simples, no grandes y compuestos, los poros jóvenes exudan gotitas lechosas y la parte alta del pie está punteada de gránulos. El baboso (Suillus luteus) tiene un anillo membranoso y un sombrero viscoso pardo más oscuro. El boleto elegante (Suillus grevillei) crece bajo alerces y tiene un sombrero amarillo dorado y un anillo. Suillus collinitus tiene poros más finos y micelio rosa en la base del pie, y su sombrero muestra a menudo estrías radiales oscuras. Suillus variegatus tiene un sombrero más seco, finamente escamoso o afelpado, y poros oliváceos más pequeños, y su carne suele azulear ligeramente. Ninguna de estas confusiones es peligrosa; el principal riesgo es confundirlo con un boleto cuya carne azulea con fuerza o sabe amarga, lo que esta especie no hace.",
+      "notes": "Los rasgos de campo más seguros son los grandes poros compuestos, el margen más pálido del sombrero, el pie sin anillo y la carne gomosa. Los carpóforos suelen crecer apretados, de modo que los sombreros quedan desiguales.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5239860"
+      ],
+      "label": "boleto bovino"
+    },
+    "et": {
+      "description": "Väike või keskmise suurusega männisalude torikseen, sageli tihedate rühmadena vaesel, liivasel ja happelisel pinnasel. Teda tuntakse limase, savikollase kuni oranžikaspruuni kübara järgi, mille serv on heledam, suurte nurgeliste liitpooride ja kübaraga sama värvi rõngata jala järgi. Seeneliha on kummjas ega muutu siniseks.",
+      "cap": "Kübar 3–12 cm lai; alguses kumer, hiljem lamenenud ja servast sageli ebakorrapärane või laineline. Serv on ülejäänud kübarast heledam ja noorelt sisserullunud. Kahvatukollane, ookerjas, savioranž või roosakaspruun, vananedes tuhmuv. Pind on sile, niiskena läikiv ja limane, vähem kui mõnel sugulasel, kuivalt matt või nahkjas. Koor on raskesti eemaldatav ja tuleb tavaliselt vaid tükkidena.",
+      "hymenium": "Torukesed kuni 1 cm pikad, jala külge kinnitunud kuni nõrgalt allajooksvad, alguses kahvatuhallikaskollased, hiljem oliivikollased kuni roosteookerjad või hallikasrohelised. Poorid suured, nurgelised ja liitunud (iga ava jaguneb väiksemateks kambriteks), sama värvi kui torukesed, vajutamisel tumenevad. Nad ei erita piimjaid tilku.",
+      "stipe": "Jalg 3–8 cm pikk ja 0,5–2 cm jäme, sageli suhteliselt lühike, silinderjas või aluse suunas ahenev, noorelt nuiakujuline, umbne, rõngata ja ilma näärmetäppideta. Kübaraga sama värvi või heledam, aluse suunas vahel punakaspruun. Alusel sageli valkja kuni roosa seeneniidistikuga.",
+      "flesh": "Seeneliha pehme, kuid kummjalt elastne, kübaras valkjas, kahvatukollane või saviroosa, jala aluses sageli roosam või punakas. Lõikamisel ei muutu siniseks või ainult väga nõrgalt halliks või roosaks. Lõhn nõrgalt viljane; maitse leebe ja kergelt hapukas. Keetmisel või kuivatamisel muutub seeneliha sageli roosaks kuni lillakaks.",
+      "sporePrint": "Eosetolm oliiviroheline kuni oliivipruun. Eosed siledad, peaaegu käävjad, 7–10 × 3–4 µm.",
+      "habitat": "Ektomükoriisaseen kaheokkaliste mändide, eriti hariliku männi (Pinus sylvestris) juures vaesel, liivasel ja happelisel pinnasel, sageli noortes istandikes, radade ääres ja lagendikel ning vahel kanarbikus. Kasvab tavaliselt rühmadena või mätastena, vahel suurte laikudena. Euroopas sage ja kirja pandud ka seal, kuhu mände on istutatud, sealhulgas osades Uus-Meremaast. Suures osas Kesk-Euroopas viljakehad juunist või juulist novembrini; Suurbritannias ja Iirimaal leitakse teda sagedamini augustist novembrini ning lõuna pool võib hooaeg kesta kauem. Teda saadab sageli Gomphidius roseus, roosakübaraline eosleheke, kes elab temaga mändide all.",
+      "uses": "Söödav, kuid tagasihoidliku kvaliteediga: seeneliha on kummjas ning maitse leebe ja kergelt hapukas. Parimad on noored, kindlad viljakehad. Enne küpsetamist koorige limane kübara nahk ja eemaldage vanematel viljakehadel torukesed, et vähendada limasust ja maohädade ohtu, mida mõned inimesed seostavad Suillus-liikide nahaga. Sobib paremini teiste seente hulka kui üksi. Küpsetage põhjalikult.",
+      "confusion": "Suillus granulatus kasvab samuti mändide all ja on rõngata, kuid tema poorid on väikesed ja lihtsad, mitte suured ja liitunud, noored poorid eritavad piimjaid tilku ning jala ülaosa on teraline. Võitatik (Suillus luteus) on kilejas rõngas ja tumedam pruun limane kübar. Kuldtatik (Suillus grevillei) kasvab lehistel, tal on kuldne kübar ja rõngas. Roosa tatik (Suillus collinitus) on peenemad poorid ja roosa seeneniidistik jala alusel ning kübaral on sageli tumedad kiirjad vööd. Suillus variegatus on kuivem, peenelt soomuseline või viltjas kübar ja väiksemad oliivjad poorid ning seeneliha muutub sageli nõrgalt siniseks. Ükski neist äravahetamistest ei ole ohtlik; peamine oht on segi ajada torikseenega, mille seeneliha muutub tugevasti siniseks või on mõru, mida see liik ei tee.",
+      "notes": "Kõige usaldusväärsemad tunnused looduses on suured liitpoorid, kübara heledam serv, rõngata jalg ja kummjas seeneliha. Viljakehad kasvavad sageli üksteise vastas, nii et kübarad muutuvad viltu.",
+      "names": [
+        "lehmapäkk",
+        "lehmapuravik"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Lehmatatik",
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850"
+      ],
+      "label": "lehmatatik"
+    },
+    "fa": {
+      "description": "قارچ لوله‌ای کوچک تا متوسط جنگل‌های کاج، اغلب در گروه‌های انبوه روی خاک فقیر، شنی و اسیدی. با کلاهک لزج، زرد خاک‌رسی تا قهوه‌ای نارنجی، با حاشیه رنگ‌پریده‌تر، روزنه‌های بزرگ گوشه‌دار و مرکب، و ساقه بی‌حلقه هم‌رنگ کلاهک شناخته می‌شود. گوشت لاستیکی است و آبی نمی‌شود.",
+      "cap": "کلاهک به پهنای ۳–۱۲ cm؛ نخست برآمده، سپس پهن و در حاشیه اغلب نامنظم یا موج‌دار. حاشیه از بقیه کلاهک رنگ‌پریده‌تر است و در نمونه‌های جوان به درون پیچیده. زرد کم‌رنگ، اخرایی، نارنجی خاک‌رسی یا قهوه‌ای مایل به صورتی، که با سن رنگ می‌بازد. سطح صاف است، در رطوبت براق و لزج، کمتر از برخی گونه‌های خویشاوند، و در خشکی مات یا چرمی. پوست به‌سختی کنده می‌شود و معمولاً فقط تکه‌تکه جدا می‌گردد.",
+      "hymenium": "لوله‌ها تا ۱ cm درازا، چسبیده تا اندکی فرورو، نخست خاکستری‌زرد کم‌رنگ، سپس زرد زیتونی تا اخرای زنگاری یا خاکستری‌سبز. روزنه‌ها بزرگ، گوشه‌دار و مرکب‌اند (هر دهانه به خانه‌های کوچک‌تر تقسیم می‌شود)، هم‌رنگ لوله‌ها، و با فشار تیره می‌شوند. قطره‌های شیری ترشح نمی‌کنند.",
+      "stipe": "ساقه به بلندی ۳–۸ cm و ستبرای ۰٫۵–۲ cm، اغلب نسبتاً کوتاه، استوانه‌ای یا به‌سوی پایه باریک‌شونده، در جوان‌ها گرزی، توپر، بی‌حلقه و بدون نقطه‌های غده‌ای. هم‌رنگ کلاهک یا کم‌رنگ‌تر، گاهی به‌سوی پایه قهوه‌ای مایل به سرخ. در پایه اغلب میسلیوم سفید تا صورتی دیده می‌شود.",
+      "flesh": "گوشت نرم اما کشسان و لاستیکی است، در کلاهک سفید، زرد کم‌رنگ یا صورتی خاک‌رسی، و در پایه ساقه اغلب صورتی‌تر یا سرخ‌فام. در برش آبی نمی‌شود، یا فقط بسیار اندک به خاکستری یا صورتی می‌گراید. بو اندکی میوه‌ای؛ مزه ملایم و کمی ترش. هنگام پخت یا خشک‌کردن گوشت اغلب به صورتی تا بنفش می‌گراید.",
+      "sporePrint": "نقش هاگ سبز زیتونی تا قهوه‌ای زیتونی. هاگ‌ها صاف، تقریباً دوکی، ۷–۱۰ × ۳–۴ µm.",
+      "habitat": "گونه برون‌ریشه‌همزی دوکاجه‌ای‌ها، به‌ویژه کاج جنگلی (Pinus sylvestris)، روی خاک فقیر، شنی و اسیدی، اغلب در کاشت‌های جوان، کنار مسیرها و در گشادگی‌ها، و گاهی میان خلنگ. معمولاً در گروه یا دسته می‌روید، گاهی در لکه‌های گسترده. در اروپا رایج است و در جاهایی که کاج کاشته شده، از جمله بخش‌هایی از نیوزیلند، نیز ثبت شده است. در بخش بزرگی از اروپای مرکزی از ژوئن یا ژوئیه تا نوامبر میوه می‌دهد؛ در بریتانیا و ایرلند بیشتر از اوت تا نوامبر یافت می‌شود و در جنوب‌تر فصل ممکن است طولانی‌تر باشد. غالباً Gomphidius roseus، قارچ تیغه‌ای با کلاهک صورتی که با آن زیر کاج‌ها زندگی می‌کند، همراهش است.",
+      "uses": "خوراکی است، اما کیفیت آن ساده است: گوشت لاستیکی و مزه ملایم و کمی ترش است. بهترین‌ها بدن‌های میوه‌ای جوان و سفت‌اند. پیش از پخت پوست لزج کلاهک را بکنید و در نمونه‌های پیر لوله‌ها را بردارید تا لزجی و خطر ناراحتی گوارشی که برخی افراد با پوست گونه‌های Suillus مرتبط می‌دانند کاهش یابد. در مخلوط با قارچ‌های دیگر بهتر از تنها می‌نشیند. کاملاً بپزید.",
+      "confusion": "Suillus granulatus نیز زیر کاج‌ها می‌روید و حلقه ندارد، اما روزنه‌هایش کوچک و ساده است، نه بزرگ و مرکب؛ روزنه‌های جوان قطره‌های شیری می‌دهند و بخش بالای ساقه دانه‌دانه است. Suillus luteus حلقه غشایی و کلاهک لزج قهوه‌ای تیره‌تری دارد. Suillus grevillei زیر کاج اروپایی (Larix) می‌روید و کلاهک زرد طلایی و حلقه دارد. Suillus collinitus روزنه‌های ظریف‌تر و میسلیوم صورتی در پایه ساقه دارد و روی کلاهک اغلب نوارهای شعاعی تیره دیده می‌شود. Suillus variegatus کلاهکی خشک‌تر، ریزپولک یا نمدی و روزنه‌های زیتونی کوچک‌تر دارد و گوشتش اغلب اندکی آبی می‌شود. هیچ‌یک از این اشتباه‌ها خطرناک نیست؛ خطر اصلی آمیختن با قارچ لوله‌ای است که گوشتش به‌شدت آبی شود یا تلخ باشد، کاری که این گونه نمی‌کند.",
+      "notes": "قابل‌اعتمادترین نشانه‌های صحرایی روزنه‌های بزرگ مرکب، حاشیه رنگ‌پریده‌تر کلاهک، ساقه بی‌حلقه و گوشت لاستیکی است. بدن‌های میوه‌ای اغلب به هم فشرده می‌رویند، پس کلاهک‌ها کج می‌شوند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni tai keskikokoinen männynmetsien tattilaji, usein tiheinä ryhminä köyhällä, hiekkaisella ja happamalla maalla. Sen tunnistaa limaisesta, savenkeltaisesta tai oranssinruskeasta lakista, jonka reuna on vaaleampi, suurista kulmikkaista, moniosaisista pillien suista ja lakin värisestä, renkaattomasta jalasta. Malto on kumimainen eikä sinisty.",
+      "cap": "Lakki 3–12 cm leveä; aluksi kupera, sitten litistynyt ja reunasta usein epäsäännöllinen tai aaltoileva. Reuna on muuta lakkia vaaleampi ja nuorena sisäänkiertynyt. Vaaleankeltainen, okranvärinen, savenoranssi tai vaaleanpunaisenruskea, iän myötä haalistuva. Pinta on sileä, kostealla säällä kiiltävä ja limainen, vähemmän kuin joillakin sukulaisilla, kuivana himmeä tai nahkamainen. Kuori irtoaa huonosti ja yleensä vain paloina.",
+      "hymenium": "Pillistö enintään 1 cm pitkä, jalkaan kiinnittynyt tai hieman johteinen, aluksi vaalean harmaankeltainen, myöhemmin oliivinkeltainen tai ruosteokranvärinen tai harmaanvihreä. Pillien suut suuria, kulmikkaita ja moniosaisia (kukin aukko jakautuu pienempiin kammioihin), samanvärisiä kuin pillistö, painettaessa tummenevia. Ne eivät eritä maitomaisia pisaroita.",
+      "stipe": "Jalka 3–8 cm pitkä ja 0,5–2 cm paksu, usein verraten lyhyt, lieriömäinen tai tyveä kohti kapeneva, nuorena nuijamainen, umpinainen, renkaaton ja ilman rauhaspisteitä. Lakin värinen tai vaaleampi, tyveä kohti joskus punaruskea. Tyvellä usein valkeaa tai vaaleanpunaista rihmastoa.",
+      "flesh": "Malto pehmeä mutta kumimaisen sitkeä, lakissa valkea, vaaleankeltainen tai savenvaaleanpunainen, jalan tyvessä usein vaaleanpunaisempi tai punertava. Leikkauspinnassa se ei sinisty tai vain hyvin heikosti harmaaksi tai vaaleanpunaiseksi. Haju heikosti hedelmäinen; maku mieto ja hieman hapahko. Keitettäessä tai kuivattaessa malto usein vaalenee punaiseksi tai violetin sävyiseksi.",
+      "sporePrint": "Itiöpöly oliivinvihreää tai oliivinruskeaa. Itiöt sileitä, lähes sukkulamaisia, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorritsasieni kaksineulaisten mäntyjen, etenkin metsämännyn (Pinus sylvestris), seuralainen köyhällä, hiekkaisella ja happamalla maalla, usein nuorissa istutuksissa, polkujen varsilla ja aukoissa sekä toisinaan kanervikossa. Kasvaa yleensä ryhminä tai mättäinä, joskus laajoina kasvustoina. Yleinen Euroopassa ja tavattu myös siellä, minne mäntyjä on istutettu, muun muassa osissa Uutta-Seelantia. Suuressa osassa Keski-Eurooppaa itiöemät kesä– tai heinäkuusta marraskuuhun; Britanniassa ja Irlannissa se löytyy useammin elokuusta marraskuuhun, ja etelämpänä kausi voi kestää pidempään. Sitä seuraa usein Gomphidius roseus, vaaleanpunalakkinen helttasieni, joka elää sen kanssa mäntyjen alla.",
+      "uses": "Syötävä, mutta vaatimaton laadultaan: malto on kumimaista ja maku mieto ja hieman hapahko. Parhaita ovat nuoret, kiinteät itiöemät. Kuori limainen lakin kuori ennen kypsennystä ja poista vanhemmista itiöemistä pillistö, jotta lima vähenee ja vatsavaivojen riski pienenee; jotkut ihmiset yhdistävät ne Suillus-lajien kuoreen. Se sopii paremmin muiden sienten sekaan kuin yksinään. Kypsennä huolellisesti.",
+      "confusion": "Suillus granulatus kasvaa myös mäntyjen alla ja on renkaaton, mutta sen pillien suut ovat pieniä ja yksinkertaisia, eivät suuria ja moniosaisia, nuoret suut erittävät maitomaisia pisaroita, ja jalan yläosa on jyväsinen. Voitatti (Suillus luteus) on kalvomainen rengas ja tummempi ruskea, limainen lakki. Lehtikuusentatti (Suillus grevillei) kasvaa lehtikuusten alla ja sillä on kultankeltainen lakki ja rengas. Suillus collinitus on hienommat pillien suut ja vaaleanpunaista rihmastoa jalan tyvellä, ja lakissa on usein tummia säteittäisiä juovia. Suillus variegatus on kuivempi, hienosuomuinen tai huopainen lakki ja pienemmät oliivinväriset pillien suut, ja malto sinistyy usein heikosti. Mikään näistä sekaannuksista ei ole vaarallinen; suurin riski on sekoittaminen tattilajiin, jonka malto sinistyy voimakkaasti tai maistuu karvaalta, mitä tämä laji ei tee.",
+      "notes": "Luotettavimmat tuntomerkit maastossa ovat suuret moniosaiset pillien suut, lakin vaaleampi reuna, renkaaton jalka ja kumimainen malto. Itiöemät kasvavat usein tiiviisti yhdessä, joten lakit vinoutuvat.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Nummitatti",
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850"
+      ],
+      "label": "nummitatti"
+    },
+    "fr": {
+      "description": "Un petit à moyen bolet des pinèdes, souvent en groupes denses sur sols pauvres, sablonneux et acides. On le reconnaît à son chapeau visqueux, jaune argileux à brun-orangé, à marge plus pâle, à ses grands pores anguleux et composés, et à son pied sans anneau, de la même couleur que le chapeau. La chair est caoutchouteuse et ne bleuit pas.",
+      "cap": "Chapeau de 3–12 cm de diamètre ; d’abord convexe, puis aplati, souvent irrégulier ou ondulé à la marge. La marge est plus pâle que le reste du chapeau et enroulée chez les jeunes. Jaune pâle, ocre, orangé argileux ou brun rosé, s’éclaircissant avec l’âge. Surface lisse, luisante et visqueuse par temps humide, moins que chez certaines espèces voisines, mate ou coriace par temps sec. La cuticule se dégage difficilement et ne vient généralement que par plaques.",
+      "hymenium": "Tubes longs de jusqu’à 1 cm, adnés à faiblement décurrents, d’abord gris-jaune pâle, puis jaune olivâtre à ocre rouille ou gris-vert. Pores grands, anguleux et composés (chaque ouverture divisée en logettes plus petites), de la même couleur que les tubes, noircissant à la pression. Ils n’exsudent pas de gouttelettes laiteuses.",
+      "stipe": "Pied de 3–8 cm de haut et 0,5–2 cm d’épaisseur, souvent assez court, cylindrique ou atténué vers la base, en massue chez les jeunes, plein, sans anneau et sans points glanduleux. De la même couleur que le chapeau ou plus pâle, parfois brun-rouge vers la base. La base porte souvent un mycélium blanchâtre à rosâtre.",
+      "flesh": "Chair molle mais élastique et caoutchouteuse, blanchâtre, jaune pâle ou rose argileux dans le chapeau, souvent plus rose ou rougeâtre dans la base du pied. Elle ne bleuit pas à la coupe, ou seulement très faiblement en gris ou en rose. Odeur légèrement fruitée ; saveur douce et un peu acide. À la cuisson ou au séchage, la chair vire souvent au rose ou au violacé.",
+      "sporePrint": "Sporée vert olivâtre à brun olivâtre. Spores lisses, presque fusiformes, 7–10 × 3–4 µm.",
+      "habitat": "Espèce ectomycorhizienne des pins à deux aiguilles, en particulier le pin sylvestre (Pinus sylvestris), sur sols pauvres, sablonneux et acides, souvent dans les jeunes plantations, le long des chemins et dans les clairières, parfois parmi les bruyères. Elle pousse généralement en groupes ou en touffes, parfois en nappes étendues. Commune en Europe et aussi signalée là où des pins ont été plantés, y compris dans certaines parties de la Nouvelle-Zélande. Dans une grande partie de l’Europe centrale, elle fructifie de juin ou juillet à novembre ; en Grande-Bretagne et en Irlande, on la trouve plus souvent d’août à novembre, et plus au sud la saison peut se prolonger. Elle est souvent accompagnée de Gomphidius roseus, un champignon à lames au chapeau rose qui vit avec elle sous les pins.",
+      "uses": "Comestible, mais de qualité modeste : la chair est caoutchouteuse et la saveur douce, un peu acide. Les jeunes sporophores fermes sont les meilleurs. Pelez la cuticule visqueuse du chapeau avant la cuisson et retirez les tubes des exemplaires âgés, pour limiter le caractère visqueux et le risque de troubles digestifs que certaines personnes associent à la cuticule des Suillus. Il convient mieux mélangé à d’autres champignons que seul. Cuisez-le soigneusement.",
+      "confusion": "Suillus granulatus pousse aussi sous les pins et n’a pas d’anneau, mais ses pores sont petits et simples, non grands et composés, les jeunes pores exsudent des gouttelettes laiteuses, et le haut du pied est parsemé de granules. Le bolet jaune (Suillus luteus) a un anneau membraneux et un chapeau visqueux brun plus foncé. Le bolet élégant (Suillus grevillei) pousse sous les mélèzes et a un chapeau jaune d’or et un anneau. Le bolet à base rose (Suillus collinitus) a des pores plus fins et un mycélium rose à la base du pied, et son chapeau montre souvent des stries radiales sombres. Suillus variegatus a un chapeau plus sec, finement squamuleux ou feutré, et des pores olivâtres plus petits, et sa chair bleuit souvent légèrement. Aucune de ces confusions n’est dangereuse ; le principal risque est la confusion avec un bolet dont la chair bleuit fortement ou a un goût amer, ce que cette espèce ne fait pas.",
+      "notes": "Les caractères de terrain les plus sûrs sont les grands pores composés, la marge plus pâle du chapeau, le pied sans anneau et la chair caoutchouteuse. Les sporophores poussent souvent serrés les uns contre les autres, si bien que les chapeaux deviennent dissymétriques.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/7623986",
+        "https://fr.wikipedia.org/wiki/Bolet_des_bouviers",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "Bolet des bouviers"
+    },
+    "he": {
+      "description": "פטריית צינורות קטנה עד בינונית של יערות אורן, לעיתים קרובות בקבוצות צפופות על קרקעות דלות, חוליות וחומציות. מזהים אותה לפי כובע רירי, צהוב-חרסיתי עד חום-כתום, עם שוליים חיוורים יותר, נקבוביות גדולות, זוויתיות ומורכבות, ורגל בלי טבעת בצבע הכובע. הבשר גומי ואינו מכחיל.",
+      "cap": "הכובע ברוחב 3–12 cm; בהתחלה קמור, אחר כך שטוח ולעיתים קרובות בלתי סדיר או גלי בשוליים. השוליים חיוורים משאר הכובע ומגולגלים פנימה בצעירים. צהוב חיוור, אוכרה, כתום-חרסיתי או חום-ורדרד, מחוויר עם הגיל. פני השטח חלקים, מבריקים ורירים בלחות, פחות מאשר במינים קרובים אחדים, עמומים או דמויי עור ביובש. הקליפה קשה לקילוף ובדרך כלל יורדת רק בקרעים.",
+      "hymenium": "הצינורות באורך עד 1 cm, צמודים עד יורדים מעט, בהתחלה אפור-צהוב חיוור, אחר כך צהוב-זיתי עד אוכרה חלודה או אפור-ירוק. הנקבוביות גדולות, זוויתיות ומורכבות (כל פתח מחולק לתאים קטנים יותר), בצבע הצינורות, וכהות בלחיצה. הן אינן מפרישות טיפות חלביות.",
+      "stipe": "הרגל בגובה 3–8 cm ובעובי 0.5–2 cm, לעיתים קרובות קצרה יחסית, גלילית או מתחדדת לבסיס, דמוית אלה בצעירים, מלאה, בלי טבעת ובלי נקודות בלוטיות. בצבע הכובע או חיוורת יותר, לפעמים חומה-אדמדמת כלפי הבסיס. בבסיס לעיתים קרובות יש תפטיר לבנבן עד ורדרד.",
+      "flesh": "הבשר רך אך אלסטי וגומי, בכובע לבנבן, צהוב חיוור או ורדרד-חרסיתי, בבסיס הרגל לעיתים קרובות ורדרד יותר או אדמדם. בחיתוך אינו מכחיל, או רק בחולשה רבה לאפור או לוורוד. ריח מעט פירותי; טעם עדין וחמצמץ קלות. בבישול או בייבוש הבשר לעיתים קרובות הופך ורוד עד סגול.",
+      "sporePrint": "הדפס הנבגים ירוק-זית עד חום-זית. הנבגים חלקים, כמעט דמויי כישור, 7–10 × 3–4 µm.",
+      "habitat": "פטרייה אקטומיקוריזית של אורנים דו-מחטיים, במיוחד אורן יער (Pinus sylvestris), על קרקעות דלות, חוליות וחומציות, לעיתים קרובות בנטיעות צעירות, לאורך שבילים ובפערים, ולפעמים בין אברש. בדרך כלל גדלה בקבוצות או באגודות, לפעמים בכתמים נרחבים. נפוצה באירופה ומתועדת גם במקומות שבהם נטעו אורנים, כולל חלקים מניו זילנד. בחלק גדול ממרכז אירופה היא מניבה מיוני או מיולי עד נובמבר; בבריטניה ובאירלנד מוצאים אותה לעיתים קרובות יותר מאוגוסט עד נובמבר, ודרומה יותר העונה עשויה להימשך. לעיתים קרובות מלווה אותה Gomphidius roseus, פטריית דפים בעלת כובע ורוד שחיה איתה מתחת לאורנים.",
+      "uses": "אכילה, אך באיכות צנועה: הבשר גומי והטעם עדין וחמצמץ קלות. גופי הפרי הצעירים והמוצקים הם הטובים ביותר. קלפו את קליפת הכובע הרירית לפני הבישול, ובפרטים זקנים הסירו את הצינורות, כדי להפחית את הריריות ואת הסיכון לאי-נוחות עיכולית שאנשים אחדים מקשרים לקליפה של מיני Suillus. היא מתאימה יותר בתערובת עם פטריות אחרות מאשר לבדה. בשלו היטב.",
+      "confusion": "גם Suillus granulatus גדל מתחת לאורנים וחסר טבעת, אך נקבוביותיו קטנות ופשוטות, לא גדולות ומורכבות, הנקבוביות הצעירות מפרישות טיפות חלביות, והחלק העליון של הרגל מנוקד גרגירים. Suillus luteus יש לו טבעת קרומית וכובע רירי חום כהה יותר. Suillus grevillei גדל מתחת ללַרִיכִּים, יש לו כובע צהוב-זהוב וטבעת. Suillus collinitus יש לו נקבוביות עדינות יותר ותפטיר ורוד בבסיס הרגל, ועל הכובע לעיתים קרובות פסים חישוריים כהים. ל-Suillus variegatus כובע יבש יותר, קשקשי דק או לבדדי, ונקבוביות זיתיות קטנות יותר, והבשר שלו לעיתים קרובות מכחיל מעט. אף אחת מההחלפות האלה אינה מסוכנת; הסיכון העיקרי הוא בלבול עם פטריית צינורות שבשרה מכחיל בחזקה או מריר, דבר שמין זה אינו עושה.",
+      "notes": "הסימנים האמינים ביותר בשדה הם הנקבוביות הגדולות והמורכבות, שולי הכובע החיוורים יותר, הרגל בלי טבעת והבשר הגומי. גופי הפרי גדלים לעיתים קרובות לחוצים זה לזה, כך שהכובעים נעשים עקומים.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "चीड़ के जंगलों की एक छोटी से मध्यम नलीदार कुकुरमुत्ता, अक्सर गरीब, बलुई और अम्लीय मिट्टी पर घने समूहों में। इसे चिकने, मिट्टी-पीले से नारंगी-भूरे टोपी से पहचाना जाता है, जिसकी किनारी कुछ और पीली होती है, बड़े कोणीय संयुक्त छिद्रों से, और टोपी के रंग के बिना छल्ले वाले डंठल से। गूदा रबड़ जैसा होता है और नीला नहीं होता.",
+      "cap": "टोपी 3–12 cm चौड़ी; पहले उभरी, फिर चपटी और किनारे पर अक्सर अनियमित या लहरदार। किनारी बाकी टोपी से कुछ और पीली होती है और युवा अवस्था में अंदर लिपटी रहती है। हल्का पीला, गेरुआ, मिट्टी-नारंगी या गुलाबी-भूरा, उम्र के साथ फीका पड़ता है। सतह चिकनी है, नमी में चमकदार और चिपचिपी, कुछ निकट प्रजातियों से कम, सूखे में मैट या चमड़े जैसी। छिलका मुश्किल से उतरता है और आमतौर पर केवल टुकड़ों में आता है।",
+      "hymenium": "नलिकाएं 1 cm तक लंबी, सटी हुई से थोड़ी नीचे उतरती, पहले हल्की धूसर-पीली, फिर जैतूनी-पीली से जंग जैसा गेरुआ या धूसर-हरी। छिद्र बड़े, कोणीय और संयुक्त (हर मुख छोटे कक्षों में बंटा होता है), नलिकाओं के ही रंग के, दबाने पर गहरे होते हैं। वे दूधिया बूंदें नहीं निकालते.",
+      "stipe": "डंठल 3–8 cm ऊँचा और 0.5–2 cm मोटा, अक्सर अपेक्षाकृत छोटा, बेलनाकार या आधार की ओर पतला, युवा में गदाकार, ठोस, बिना छल्ले और बिना ग्रंथिल बिंदुओं के। टोपी के रंग का या कुछ और हल्का, आधार की ओर कभी लाल-भूरा। आधार पर अक्सर सफेद से गुलाबी कवकजाल होता है।",
+      "flesh": "गूदा नरम पर रबड़ जैसा लचीला, टोपी में सफेद, हल्का पीला या मिट्टी-गुलाबी, डंठल के आधार में अक्सर अधिक गुलाबी या लालिमा लिए। काटने पर नीला नहीं होता, या बहुत हल्के से धूसर या गुलाबी हो जाता है। गंध थोड़ी फल जैसी; स्वाद मृदु और थोड़ा खट्टा। पकाने या सुखाने पर गूदा अक्सर गुलाबी से बैंगनी हो जाता है।",
+      "sporePrint": "बीजाणु छाप जैतूनी-हरी से जैतूनी-भूरी। बीजाणु चिकने, लगभग तकलीनुमा, 7–10 × 3–4 µm.",
+      "habitat": "दो-सुई वाले चीड़ों, खासकर स्कॉट्स पाइन (Pinus sylvestris) की एक्टोमाइकोराइजल प्रजाति, गरीब, बलुई और अम्लीय मिट्टी पर, अक्सर युवा रोपणों में, रास्तों के किनारे और खाली जगहों में, और कभी हीदर के बीच। आमतौर पर समूहों या गुच्छों में उगती है, कभी बड़े धब्बों में। यूरोप में आम है और वहाँ भी दर्ज है जहाँ चीड़ लगाए गए हैं, न्यूज़ीलैंड के कुछ भागों सहित। मध्य यूरोप के बड़े हिस्से में जून या जुलाई से नवंबर तक फलती है; ब्रिटेन और आयरलैंड में अधिकतर अगस्त से नवंबर तक मिलती है, और दक्षिण में मौसम लंबा चल सकता है। अक्सर Gomphidius roseus साथ रहता है, एक गुलाबी टोपी वाली गिल वाली कुकुरमुत्ता जो इसके साथ चीड़ों के नीचे रहती है।",
+      "uses": "खाद्य है, पर गुणवत्ता साधारण है: गूदा रबड़ जैसा और स्वाद मृदु, थोड़ा खट्टा है। युवा, ठोस फलन-शरीर सबसे अच्छे हैं। पकाने से पहले टोपी का चिपचिपा छिलका उतारें, और पुराने नमूनों की नलिकाएं हटा दें, ताकि चिपचिपाहट और पेट की तकलीफ का जोखिम घटे, जिसे कुछ लोग Suillus प्रजातियों के छिलके से जोड़ते हैं। अकेली से बेहतर यह अन्य कुकुरमुत्ताओं के मिश्रण में बैठती है। अच्छी तरह पकाएँ।",
+      "confusion": "Suillus granulatus भी चीड़ों के नीचे उगता है और बिना छल्ले का है, पर उसके छिद्र छोटे और सादे हैं, बड़े और संयुक्त नहीं; युवा छिद्र दूधिया बूंदें निकालते हैं, और डंठल का ऊपरी भाग दानेदार होता है। Suillus luteus में झिल्लीदार छल्ला और गहरी भूरी चिपचिपी टोपी होती है। Suillus grevillei लार्च के नीचे उगता है, उसकी टोपी सुनहरी-पीली होती है और छल्ला होता है। Suillus collinitus के छिद्र अधिक महीन होते हैं और डंठल के आधार पर गुलाबी कवकजाल होता है, और टोपी पर अक्सर गहरी अरीय धारियाँ दिखती हैं। Suillus variegatus की टोपी अधिक सूखी, बारीक पपड़ीदार या महसूस जैसी होती है और जैतूनी छिद्र छोटे होते हैं, और गूदा अक्सर हल्के से नीला हो जाता है। इनमें से कोई मिलावट खतरनाक नहीं है; मुख्य जोखिम ऐसी नलीदार कुकुरमुत्ता से भ्रम है जिसका गूदा जोर से नीला हो या कड़वा हो, जो यह प्रजाति नहीं करती।",
+      "notes": "मैदान में सबसे विश्वसनीय लक्षण बड़े संयुक्त छिद्र, टोपी की कुछ और पीली किनारी, बिना छल्ले का डंठल और रबड़ जैसा गूदा हैं। फलन-शरीर अक्सर एक-दूसरे से दबे उगते हैं, इसलिए टोपियाँ टेढ़ी हो जाती हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala do srednje velika cjevasta gljiva borovih šuma, često u gustim skupinama na siromašnim, pjeskovitim i kiselim tlima. Prepoznaje se po sluzavom, ilovastožutom do narančastosmđem klobuku sa svjetlijim rubom, velikim uglatim složenim porama i stručku bez prstena, obojenom kao klobuk. Meso je gumeno i ne plavi.",
+      "cap": "Klobuk širok 3–12 cm; isprva ispupčen, zatim spljošten i na rubu često nepravilan ili valovit. Rub je svjetliji od ostatka klobuka i u mladosti podvinut. Blijedožut, oker, ilovastonarančast ili ružičastosmeđ, sa starenjem blijeđi. Površina je glatka, po vlažnom vremenu sjajna i sluzava, manje nego u nekih srodnih vrsta, po suhom mat ili kožnata. Kožica se teško ljušti i obično silazi samo u krpama.",
+      "hymenium": "Cjevčice duge do 1 cm, prirasle do slabo silaznih, isprva blijedosivožute, zatim maslinastožute do hrđavooker ili sivzelene. Pore velike, uglate i složene (svaki otvor podijeljen je na manje komorice), iste boje kao cjevčice, pri pritisku tamne. Ne ispuštaju mliječne kapljice.",
+      "stipe": "Stručak 3–8 cm visok i 0,5–2 cm debeo, često razmjerno kratak, valjkast ili sužen prema dnu, u mladosti kijačast, pun, bez prstena i bez žljezdastih točkica. Obojen kao klobuk ili svjetliji, prema dnu ponekad crvenosmeđ. Pri dnu često s bjelkastim do ružičastim micelijem.",
+      "flesh": "Meso meko, ali gumeno elastično, u klobuku bjelkasto, blijedožuto ili ilovastoružičasto, u dnu stručka često ružičastije ili crvenkasto. Na presjeku ne plavi, ili samo vrlo slabo posivi ili porumeni. Miris slabo voćni; okus blag, slabo kiselkast. Pri kuhanju ili sušenju meso često porumeni do ljubičastog.",
+      "sporePrint": "Otisak spora maslinastozelen do maslinastosmeđ. Spore glatke, gotovo vretenaste, 7–10 × 3–4 µm.",
+      "habitat": "Ektomikorizna gljiva dvoigličastih borova, osobito običnog bora (Pinus sylvestris), na siromašnim, pjeskovitim i kiselim tlima, često u mladim nasadima, uz staze i na proplancima, a ponekad među vrijesom. Obično raste u skupinama ili kitama, ponekad u prostranim tepihima. Česta u Europi i zabilježena i tamo gdje su borovi sađeni, uključujući dijelove Novog Zelanda. U velikom dijelu Srednje Europe plodi od lipnja ili srpnja do studenoga; u Britaniji i Irskoj se češće nalazi od kolovoza do studenoga, a južnije sezona može trajati duže. Često je prati Gomphidius roseus, ružičastoklobučna listićava gljiva koja raste s njom pod borovima.",
+      "uses": "Jestiva, ali skromne kakvoće: meso je gumeno, a okus blag i slabo kiselkast. Najbolja su mlada, čvrsta plodišta. Prije kuhanja ogulite sluzavu kožicu klobuka, a kod starijih plodišta uklonite cjevčice, kako biste smanjili sluzavost i rizik želučanih tegoba koje neki ljudi povezuju s kožicom gljiva roda Suillus. Bolje se uklapa u smjesu s drugim gljivama nego sama. Temeljito je skuhajte.",
+      "confusion": "Suillus granulatus također raste pod borovima i nema prsten, ali su mu pore sitne i jednostavne, ne velike i složene, mlade pore ispuštaju mliječne kapljice, a gornji dio stručka posut je zrncima. Prstenasti sluzavac (Suillus luteus) ima kožnat prsten i tamniji smeđi sluzavi klobuk. Suillus grevillei raste pod arišima, ima zlatnožuti klobuk i prsten. Suillus collinitus ima finije pore i ružičasti micelij pri dnu stručka, a na klobuku često tamne radijalne pruge. Suillus variegatus ima suši, sitno ljuskav ili filcast klobuk i manje maslinaste pore, a meso mu često slabo plavi. Nijedna od tih zamjena nije opasna; glavni je rizik zamjena s bilo kojom cjevastom gljivom čije meso jako plavi ili je gorka, što ova vrsta ne čini.",
+      "notes": "Najpouzdanija poljska obilježja su velike složene pore, svjetliji rub klobuka, stručak bez prstena i gumeno meso. Plodišta često rastu pritisnuta jedno uz drugo, pa klobuci bivaju nesimetrični.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kis vagy közepes, csöves termőtestű gomba a fenyvesekben, gyakran sűrű csoportokban szegény, homokos és savanyú talajon. A nyálkás, agyagsárga vagy narancsbarna kalapról ismerhető fel, amelynek széle halványabb, a nagy, szögletes, összetett pórusokról és a kalappal egyező színű, gallér nélküli tönkről. A hús gumiszerű és nem kékül.",
+      "cap": "Kalap 3–12 cm széles; eleinte domború, később lapított, a szélén gyakran szabálytalan vagy hullámos. A szél halványabb, mint a kalap többi része, és fiatalon begöngyölt. Halványsárga, okker, agyagnarancs vagy rózsásbarna, korral fakuló. Felszíne sima, nedves időben fényes és nyálkás, kevésbé, mint egyes rokon fajoké, szárazon matt vagy bőrszerű. A bőr nehezen húzható le, és általában csak foszlányokban jön le.",
+      "hymenium": "Csövek legfeljebb 1 cm hosszúak, tönkhöz nőttek vagy gyengén lefutók, eleinte halvány szürkésárgák, később olívásárgák, rozsdásokkeresek vagy szürkészöldek. Pórusok nagyok, szögletesek és összetettek (minden nyílás kisebb rekeszekre oszlik), a csövekkel azonos színűek, nyomásra sötétednek. Tejszerű cseppeket nem izzadnak.",
+      "stipe": "Tönk 3–8 cm magas és 0,5–2 cm vastag, gyakran viszonylag rövid, hengeres vagy a töve felé keskenyedő, fiatalon bunkós, telt, gallér és mirigypontok nélkül. A kalappal azonos színű vagy halványabb, a töve felé néha vörösbarna. A tövénél gyakran fehéres vagy rózsaszín micélium van.",
+      "flesh": "Hús puha, de gumiszerűen rugalmas, a kalapban fehéres, halványsárga vagy agyagrózsaszín, a tönk tövében gyakran rózsásabb vagy vöröses. Vágásra nem kékül, vagy csak nagyon gyengén szürkül vagy pirul. Szaga gyengén gyümölcsös; íze enyhe, kissé savanykás. Főzéskor vagy szárításkor a hús gyakran rózsaszínűvé vagy ibolyásba fordul.",
+      "sporePrint": "Spórapor olívzöldtől olívbarnáig. Spórák simák, csaknem orsó alakúak, 7–10 × 3–4 µm.",
+      "habitat": "Két tűs fenyők, különösen az erdeifenyő (Pinus sylvestris) ektomikorrhizás gombája szegény, homokos és savanyú talajon, gyakran fiatal ültetvényekben, utak mentén és tisztásokon, néha fenyéren. Rendszerint csoportosan vagy csomókban nő, néha kiterjedt foltokban. Európában gyakori, és ott is feljegyezték, ahol fenyőt ültettek, beleértve Új-Zéland egyes részeit. Közép-Európa nagy részén júniustól vagy júliustól novemberig terem; Nagy-Britanniában és Írországban gyakrabban augusztustól novemberig találják, délebbre a szezon tovább tarthat. Gyakran kíséri a Gomphidius roseus, egy rózsaszín kalapú lemezes gomba, amely vele együtt él a fenyők alatt.",
+      "uses": "Ehető, de szerény minőségű: a hús gumiszerű, az íze enyhe és kissé savanykás. A fiatal, kemény termőtestek a legjobbak. Főzés előtt húzza le a nyálkás kalapbőrt, az idősebb példányokról pedig távolítsa el a csöveket, hogy csökkenjen a nyálkásság és a gyomorpanaszok kockázata, amelyet egyesek a Suillus-fajok bőréhez kötnek. Jobban illik más gombák közé, mint önmagában. Alaposan főzze meg.",
+      "confusion": "A Suillus granulatus szintén fenyők alatt nő, és nincs gallérja, de pórusai kicsik és egyszerűek, nem nagyok és összetettek, a fiatal pórusok tejszerű cseppeket izzadnak, a tönk felső része pedig szemcsés. A barna gyűrűstinóru (Suillus luteus) hártyás gallérral és sötétebb barna, nyálkás kalappal rendelkezik. A sárga gyűrűstinóru (Suillus grevillei) vörösfenyő alatt nő, aranysárga kalapja és gallérja van. A rózsástövű fenyőtinóru (Suillus collinitus) finomabb pórusú, a tönk tövénél rózsaszín micéliuma van, a kalapon pedig gyakran sötét sugaras sávok látszanak. A Suillus variegatus szárazabb, finoman pikkelyes vagy nemezes kalapú, kisebb olív pórusú, húsa gyakran gyengén kékül. Ezek a tévesztések egyike sem veszélyes; a fő kockázat az összetévesztés olyan csöves gombával, amelynek húsa erősen kékül vagy keserű, amit ez a faj nem tesz.",
+      "notes": "A legmegbízhatóbb terepi jegyek a nagy összetett pórusok, a kalap halványabb széle, a gallér nélküli tönk és a gumiszerű hús. A termőtestek gyakran egymáshoz préselődve nőnek, ezért a kalapok ferdék lesznek.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Teh%C3%A9ntin%C3%B3ru",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "tehéntinóru"
+    },
+    "id": {
+      "description": "Jamur berpori kecil hingga sedang di hutan pinus, sering dalam kelompok rapat di tanah miskin, berpasir, dan asam. Dikenali dari tudung berlendir, kuning lempung hingga cokelat jingga, dengan tepi lebih pucat, pori besar bersudut dan majemuk, serta tangkai tanpa cincin sewarna tudung. Dagingnya kenyal seperti karet dan tidak membiru.",
+      "cap": "Tudung 3–12 cm lebar; mula-mula cembung, kemudian pipih dan di tepi sering tidak beraturan atau bergelombang. Tepi lebih pucat daripada sisa tudung dan terlipat ke dalam pada yang muda. Kuning pucat, oker, jingga lempung, atau cokelat keunguan, memudar seiring usia. Permukaan halus, mengkilap dan berlendir saat basah, kurang daripada beberapa kerabat, kusam atau seperti kulit saat kering. Kulit sulit dikelupas dan biasanya hanya lepas sepotong-sepotong.",
+      "hymenium": "Pori hingga 1 cm panjang, melekat hingga sedikit menurun, mula-mula abu-abu kuning pucat, kemudian kuning zaitun hingga oker berkarat atau abu-abu hijau. Pori besar, bersudut, dan majemuk (setiap muara terbagi menjadi bilik lebih kecil), sewarna tabung, menggelap bila ditekan. Tidak mengeluarkan tetesan seperti susu.",
+      "stipe": "Tangkai 3–8 cm tinggi dan 0,5–2 cm tebal, sering relatif pendek, silindris atau meruncing ke pangkal, berbentuk gada pada yang muda, padat, tanpa cincin dan tanpa titik kelenjar. Sewarna tudung atau lebih pucat, kadang cokelat kemerahan ke pangkal. Di pangkal sering ada miselium keputihan hingga merah muda.",
+      "flesh": "Daging lunak tetapi kenyal seperti karet, di tudung keputihan, kuning pucat, atau merah muda kelempungan, di pangkal tangkai sering lebih merah muda atau kemerahan. Saat dipotong tidak membiru, atau hanya sangat lemah menjadi abu-abu atau merah muda. Bau sedikit berbuah; rasa lembut dan agak masam. Saat dimasak atau dikeringkan, daging sering berubah merah muda hingga keunguan.",
+      "sporePrint": "Jejak spora hijau zaitun hingga cokelat zaitun. Spora halus, hampir berbentuk gelendong, 7–10 × 3–4 µm.",
+      "habitat": "Jamur ektomikoriza pinus berdaun jarum dua, terutama pinus Skotlandia (Pinus sylvestris), di tanah miskin, berpasir, dan asam, sering di tanam muda, di sepanjang jalur dan di rumpang, dan kadang di antara heather. Biasanya tumbuh berkelompok atau berumpun, kadang dalam hamparan luas. Umum di Eropa dan juga tercatat di tempat pinus ditanam, termasuk bagian Selandia Baru. Di sebagian besar Eropa Tengah berbuah dari Juni atau Juli hingga November; di Britania dan Irlandia lebih sering ditemukan dari Agustus hingga November, dan lebih ke selatan musimnya dapat lebih panjang. Sering disertai Gomphidius roseus, jamur berlamela bertudung merah muda yang hidup bersamanya di bawah pinus.",
+      "uses": "Dapat dimakan, tetapi mutunya sederhana: dagingnya kenyal seperti karet dan rasanya lembut, agak masam. Tubuh buah muda yang padat adalah yang terbaik. Kupas kulit tudung yang berlendir sebelum dimasak, dan buang pori pada spesimen tua, untuk mengurangi kelendiran dan risiko gangguan perut yang dihubungkan sebagian orang dengan kulit jenis Suillus. Lebih baik dalam campuran dengan jamur lain daripada sendiri. Masak hingga matang benar.",
+      "confusion": "Suillus granulatus juga tumbuh di bawah pinus dan tidak memiliki cincin, tetapi porinya kecil dan sederhana, bukan besar dan majemuk; pori muda mengeluarkan tetesan seperti susu, dan bagian atas tangkai berbutir. Suillus luteus memiliki cincin bermembran dan tudung berlendir cokelat lebih gelap. Suillus grevillei tumbuh di bawah larch, memiliki tudung kuning keemasan dan cincin. Suillus collinitus memiliki pori lebih halus dan miselium merah muda di pangkal tangkai, dan pada tudung sering tampak garis radial gelap. Suillus variegatus memiliki tudung lebih kering, bersisik halus atau berbulu felt, dan pori zaitun lebih kecil, dan dagingnya sering agak membiru. Tidak satu pun kekeliruan ini berbahaya; risiko utama adalah tertukar dengan jamur berpori yang dagingnya sangat membiru atau rasanya pahit, yang tidak dilakukan spesies ini.",
+      "notes": "Ciri lapangan yang paling andal adalah pori majemuk yang besar, tepi tudung yang lebih pucat, tangkai tanpa cincin, dan daging kenyal seperti karet. Tubuh buah sering tumbuh saling menekan, sehingga tudung menjadi miring.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un boleto piccolo o medio delle pinete, spesso in gruppi densi su suoli poveri, sabbiosi e acidi. Si riconosce dal cappello vischioso, giallo argilloso o bruno-arancio, con il margine più chiaro, dai pori grandi, angolosi e composti, e dal gambo senza anello, dello stesso colore del cappello. La carne è gommosa e non vira al blu.",
+      "cap": "Cappello di 3–12 cm di diametro; dapprima convesso, poi appiattito e spesso irregolare o ondulato al margine. Il margine è più chiaro del resto del cappello e involuto nei giovani. Giallo pallido, ocra, arancio argilloso o bruno rosato, che sbiadisce con l’età. Superficie liscia, lucida e vischiosa a umido, meno che in alcune specie vicine, opaca o coriacea a secco. La cuticola si stacca a fatica e di solito viene via solo a brandelli.",
+      "hymenium": "Tubuli lunghi fino a 1 cm, adnati o lievemente decorrenti, dapprima grigio-gialli pallidi, poi giallo olivastro fino a ocra ruggine o grigio-verdi. Pori grandi, angolosi e composti (ogni apertura suddivisa in celluzze minori), dello stesso colore dei tubuli, che scuriscono alla pressione. Non essudano goccioline lattiginose.",
+      "stipe": "Gambo alto 3–8 cm e spesso 0,5–2 cm, spesso relativamente corto, cilindrico o attenuato verso la base, clavato nei giovani, pieno, senza anello e senza punteggiature ghiandolari. Dello stesso colore del cappello o più chiaro, talvolta bruno-rossastro verso la base. Alla base spesso con micelio biancastro o rosato.",
+      "flesh": "Carne molle ma elastica e gommosa, biancastra, giallo pallido o rosa argilloso nel cappello, spesso più rosea o rossastra nella base del gambo. Al taglio non vira al blu, o solo molto debolmente al grigio o al rosa. Odore leggermente fruttato; sapore mite e un po’ acidulo. Alla cottura o all’essiccazione la carne vira spesso al rosa o al violaceo.",
+      "sporePrint": "Sporata verde oliva o bruno oliva. Spore lisce, quasi fusiformi, 7–10 × 3–4 µm.",
+      "habitat": "Specie ectomicorrizica dei pini a due aghi, in particolare il pino silvestre (Pinus sylvestris), su suoli poveri, sabbiosi e acidi, spesso in giovani impianti, lungo i sentieri e nelle radure, e talvolta tra le eriche. Cresce di solito in gruppi o cespi, a volte in vaste chiazze. Comune in Europa e segnalata anche dove i pini sono stati piantati, comprese parti della Nuova Zelanda. In gran parte dell’Europa centrale fruttifica da giugno o luglio a novembre; in Gran Bretagna e Irlanda si trova più spesso da agosto a novembre, e più a sud la stagione può durare più a lungo. È spesso accompagnata da Gomphidius roseus, un fungo a lamelle dal cappello rosa che vive con essa sotto i pini.",
+      "uses": "Commestibile, ma di qualità modesta: la carne è gommosa e il sapore mite, un po’ acidulo. I corpi fruttiferi giovani e sodi sono i migliori. Spellate la cuticola vischiosa del cappello prima della cottura e togliete i tubuli negli esemplari vecchi, per ridurre la vischiosità e il rischio di disturbi digestivi che alcune persone associano alla cuticola dei Suillus. Sta meglio mescolato ad altri funghi che da solo. Cuocetelo a fondo.",
+      "confusion": "Suillus granulatus cresce anch’esso sotto i pini e manca di anello, ma i suoi pori sono piccoli e semplici, non grandi e composti, i pori giovani essudano goccioline lattiginose e la parte alta del gambo è punteggiata di granuli. Il pinarolo (Suillus luteus) ha un anello membranoso e un cappello vischioso bruno più scuro. Suillus grevillei cresce sotto i larici e ha un cappello giallo dorato e un anello. Suillus collinitus ha pori più fini e micelio rosa alla base del gambo, e il cappello mostra spesso striature radiali scure. Suillus variegatus ha un cappello più asciutto, finemente squamuloso o feltroso, e pori olivacei più piccoli, e la carne vira spesso debolmente al blu. Nessuna di queste confusioni è pericolosa; il rischio principale è lo scambio con un boleto la cui carne vira fortemente al blu o ha sapore amaro, cosa che questa specie non fa.",
+      "notes": "I caratteri di campo più sicuri sono i grandi pori composti, il margine più chiaro del cappello, il gambo senza anello e la carne gommosa. I corpi fruttiferi crescono spesso stretti gli uni agli altri, così che i cappelli diventano asimmetrici.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "マツ林の小型から中型の管孔菌で、貧栄養の砂質で酸性の土壌に密な群れで出ることが多い。ぬめりのある黄土色から橙褐色の傘で縁がより淡いこと、大きく角ばった複合管孔、傘と同色でつばのない柄で見分けられる。肉はゴム質で青変しない。",
+      "cap": "傘は径3–12 cm。初めは丸山形、のちに平らになり、縁はしばしば不規則または波打つ。縁は傘の他の部分より淡く、若いときは内側に巻く。淡黄、黄土色、土色の橙色または桃褐色で、老成すると色あせる。表面は平滑で、湿時は光沢があり粘性があるが、近縁の一部の種ほどではなく、乾くと鈍いか革質になる。表皮ははがしにくく、ふつう斑状にしか取れない。",
+      "hymenium": "管孔は長さ最大1 cm、柄に着生しやや垂生することもある。初めは淡い灰黄色、のちにオリーブ黄色から錆びた黄土色または灰緑色になる。孔口は大きく角ばり複合的で（各開口がより小さい室に分かれる）、管孔と同色、傷つくと暗色になる。乳白色の液滴は出さない。",
+      "stipe": "柄は高さ3–8 cm、太さ0.5–2 cm。比較的短いことが多く、円柱形または基部に向かって細まり、若いときはこん棒形、内部は充実し、つばも腺点もない。傘と同色かより淡く、基部に向かって赤褐色になることもある。基部にはしばしば白っぽいから桃色の菌糸がある。",
+      "flesh": "肉は柔らかいがゴム質で弾力があり、傘では白っぽい、淡黄または土色の桃色、柄の基部ではしばしばより桃色または赤みを帯びる。切断しても青変せず、ごくわずかに灰色または桃色になる程度である。においはやや果実様、味は穏やかでわずかに酸味がある。加熱や乾燥で肉はしばしば桃色から紫がかった色になる。",
+      "sporePrint": "胞子紋はオリーブ緑色からオリーブ褐色。胞子は平滑、ほぼ紡錘形、7–10 × 3–4 µm。",
+      "habitat": "二針葉のマツ、とくにヨーロッパアカマツ（Pinus sylvestris）と外生菌根を結び、貧栄養の砂質で酸性の土壌、若い植林地、道沿いの空き地、ときにはヒースの中に出る。ふつう群れや束になり、大きなパッチになることもある。ヨーロッパでは普通で、マツが植栽された土地、ニュージーランドの一部も含め、記録がある。中欧の多くでは6月または7月から11月に子実体をつけ、イギリスとアイルランドでは8月から11月に見つかることが多く、南では季節が延びることがある。しばしば Gomphidius roseus が伴う。これは桃色の傘をもつひだ菌で、マツの下で本種とともに生きる。",
+      "uses": "食用だが品質は控えめで、肉はゴム質、味は穏やかでわずかに酸味がある。若くて締まった子実体がよい。調理前に傘のぬるぬるした表皮を除き、古い個体では管孔を取り除くと、ぬめりと、一部の人が Suillus の表皮に結びつける胃腸の不調のリスクを減らせる。単独より他のきのことの混ぜ料理に向く。十分に加熱する。",
+      "confusion": "Suillus granulatus もマツの下に生じ、つばを欠くが、孔口は小さく単純で、大きく複合的ではなく、若い孔口は乳白色の液滴を出し、柄の上部には粒点がある。ヌメリイグチ（Suillus luteus）は膜質のつばと、より暗い褐色の粘性のある傘をもつ。ハナイグチ（Suillus grevillei）はカラマツの下に生じ、黄金色の傘とつばがある。Suillus collinitus は孔口がより細かく、柄の基部に桃色の菌糸があり、傘にはしばしば暗い放射状の筋がある。Suillus variegatus はより乾いた、細かい鱗片状またはフェルト状の傘と、より小さいオリーブ色の孔口をもち、肉はしばしばわずかに青変する。これらの誤認に危険はない。主なリスクは、肉が強く青変するか苦味のある管孔菌との混同であり、本種はそうならない。",
+      "notes": "野外でもっとも確実な特徴は、大きな複合管孔、より淡い傘の縁、つばのない柄、ゴム質の肉である。子実体はしばしば押し合うように群生し、傘がいびつになる。",
+      "names": [
+        "網茸"
+      ],
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%82%BF%E3%82%B1",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.gbif.org/species/5239860"
+      ],
+      "label": "アミタケ"
+    },
+    "ko": {
+      "description": "소나무 숲의 작거나 중간 크기 관공 버섯으로, 척박하고 모래질이며 산성인 땅에서 빽빽한 무리로 나는 일이 많다. 가장자리가 더 옅은 점액질의 황토색에서 주황갈색 갓, 크고 각진 복합 관공, 갓과 같은 색이고 턱받이가 없는 대로 알아본다. 살은 고무질이며 청색으로 변하지 않는다.",
+      "cap": "갓은 너비 3–12 cm이다. 처음에는 볼록하다가 나중에 납작해지며, 가장자리는 종종 불규칙하거나 물결친다. 가장자리는 갓의 나머지보다 옅고 어릴 때는 안쪽으로 말린다. 옅은 노랑, 황토색, 흙빛 주황 또는 분홍갈색이며 나이와 함께 바랜다. 표면은 매끄럽고, 젖으면 광택이 나고 점액질이나 일부 근연종보다 덜하며, 마르면 무광이거나 가죽질이다. 표피는 벗기기 어렵고 보통 조각으로만 떨어진다.",
+      "hymenium": "관공은 길이 최대 1 cm이며, 대에 붙거나 약간 내려오고, 처음에는 옅은 회황색이다가 나중에 올리브황색에서 녹슨 황토색 또는 회녹색이 된다. 구멍은 크고 각지며 복합적이다(각 개구가 더 작은 칸으로 나뉜다). 관공과 같은 색이며 누르면 어두워진다. 유백색 방울은 내지 않는다.",
+      "stipe": "대는 높이 3–8 cm, 두께 0.5–2 cm로, 종종 비교적 짧고, 원기둥이거나 밑으로 가늘어지며, 어릴 때는 곤봉형이고, 속이 차 있으며, 턱받이와 선점이 없다. 갓과 같은 색이거나 더 옅고, 밑으로 가며 적갈색이 되기도 한다. 밑부분에는 흔히 희거나 분홍빛 균사가 있다.",
+      "flesh": "살은 부드럽지만 고무처럼 탄력이 있으며, 갓에서는 희거나 옅은 노랑 또는 흙빛 분홍이고, 대 밑부분에서는 흔히 더 분홍이거나 붉은기가 있다. 자르면 청색으로 변하지 않거나 매우 약하게 회색이나 분홍으로만 변한다. 냄새는 약간 과일향이고, 맛은 온화하며 살짝 시다. 삶거나 말리면 살은 흔히 분홍에서 보라빛으로 변한다.",
+      "sporePrint": "포자문은 올리브녹색에서 올리브갈색이다. 포자는 매끄럽고 거의 방추형이며, 7–10 × 3–4 µm이다.",
+      "habitat": "두 잎 소나무, 특히 구주소나무(Pinus sylvestris)와 외생균근을 맺으며, 척박하고 모래질이며 산성인 땅, 어린 조림지, 길가와 공터, 때로는 히스 사이에서 난다. 대개 무리 또는 다발로 나고, 때로는 넓은 패치가 된다. 유럽에서 흔하고, 소나무를 심은 곳, 뉴질랜드 일부를 포함해, 기록되어 있다. 중부 유럽 대부분에서는 6월 또는 7월부터 11월까지 자실체가 나며, 영국과 아일랜드에서는 8월부터 11월에 더 자주 보이고, 남쪽에서는 계절이 더 길 수 있다. 흔히 Gomphidius roseus가 함께한다. 이는 분홍 갓의 주름살 버섯으로, 소나무 아래에서 이 종과 함께 산다.",
+      "uses": "식용이지만 품질은 소박하다. 살은 고무질이고 맛은 온화하며 살짝 시다. 젊고 단단한 자실체가 가장 좋다. 조리 전에 갓의 점액질 표피를 벗기고, 오래된 개체에서는 관공을 제거하면 점액과, 일부 사람이 Suillus 표피와 연관하는 소화 불편의 위험을 줄일 수 있다. 혼자보다는 다른 버섯과 섞어 쓰는 편이 낫다. 충분히 가열한다.",
+      "confusion": "Suillus granulatus도 소나무 아래에서 나며 턱받이가 없지만, 구멍은 작고 단순하지 크고 복합적이지 않으며, 어린 구멍은 유백색 방울을 내고 대 윗부분에는 알갱이가 있다. 비단그물버섯(Suillus luteus)은 막질의 턱받이와 더 어두운 갈색의 점액질 갓이 있다. Suillus grevillei는 낙엽송 아래에서 나며 금황색 갓과 턱받이가 있다. Suillus collinitus는 구멍이 더 가늘고 대 밑부분에 분홍 균사가 있으며, 갓에는 종종 어두운 방사 줄무늬가 있다. Suillus variegatus는 더 마른, 잔비늘 또는 펠트질 갓과 더 작은 올리브색 구멍이 있고, 살은 종종 약하게 청색으로 변한다. 이러한 혼동은 어느 것도 위험하지 않다. 주된 위험은 살이 강하게 청색으로 변하거나 쓴맛이 나는 관공 버섯과 혼동하는 것인데, 이 종은 그렇게 되지 않는다.",
+      "notes": "야외에서 가장 확실한 특징은 큰 복합 관공, 더 옅은 갓 가장자리, 턱받이 없는 대, 고무질 살이다. 자실체는 종종 서로 밀착해 나서 갓이 비뚤어진다.",
+      "names": [],
+      "sourceUrls": [
+        "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%86%8C%EB%B9%84%EB%8B%A8%EA%B7%B8%EB%AC%BC%EB%B2%84%EC%84%AF",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "황소비단그물버섯"
+    },
+    "lt": {
+      "description": "Mažas ar vidutinio dydžio pušynų vamzdelinis grybas, dažnai tankiomis grupėmis skurdžiame, smėlingame ir rūgščiame dirvožemyje. Jį galima atpažinti iš gleivėto, molio geltono iki oranžinės rudos kepurėlės su šviesesniu kraštu, didelių kampuotų sudėtinių porų ir žiedo neturinčio koto, tokios pat spalvos kaip kepurėlė. Trama yra gumuota ir nemėlynuoja.",
+      "cap": "Kepurėlė 3–12 cm pločio; iš pradžių iškili, vėliau suplokštėjusi ir krašte dažnai netaisyklinga ar banguota. Kraštas šviesesnis už likusią kepurėlę ir jaunų egzempliorių užsirietęs. Blyškiai geltona, ochrinė, molio oranžinė ar rausvai ruda, su amžiumi blunkanti. Paviršius lygus, drėgnu oru blizgus ir gleivėtas, mažiau nei kai kurių giminingų rūšių, sausas matinis ar odiškas. Odelė sunkiai nulupama ir dažniausiai nueina tik skiautėmis.",
+      "hymenium": "Vamzdeliai iki 1 cm ilgio, priaugę iki silpnai nuaugusių, iš pradžių blyškiai pilkai geltoni, vėliau alyviniai geltoni iki rūdžių ochros ar pilkai žali. Poros didelės, kampuotos ir sudėtinės (kiekviena anga padalyta į mažesnes kameras), tos pat spalvos kaip vamzdeliai, paspaudus tamsėja. Jos neišskiria pieniškų lašelių.",
+      "stipe": "Kotas 3–8 cm aukščio ir 0,5–2 cm storio, dažnai gana trumpas, cilindriškas ar siaurėjantis link pagrindo, jaunų buožiškas, vientisas, be žiedo ir be liaukinių taškelių. Tokios pat spalvos kaip kepurėlė ar šviesesnis, link pagrindo kartais raudonai rudas. Ties pagrindu dažnai su balsvu iki rausvo grybienos apnašu.",
+      "flesh": "Trama minkšta, bet gumuotai elastinga, kepurėlėje balsva, blyškiai geltona ar molio rausva, koto pagrinde dažnai rausvesnė ar raudonoka. Perpjovus nemėlynuoja arba tik labai silpnai pilkėja ar rausvėja. Kvapas silpnai vaisinis; skonis švelnus ir šiek tiek rūgštokas. Verdant ar džiovinant trama dažnai rausvėja iki violetinės.",
+      "sporePrint": "Sporų atspaudas alyviniai žalias iki alyviniai rudo. Sporos lygios, beveik verpstinės, 7–10 × 3–4 µm.",
+      "habitat": "Ektomikorizinis grybas dviadagių pušų, ypač paprastosios pušies (Pinus sylvestris), skurdžiame, smėlingame ir rūgščiame dirvožemyje, dažnai jaunuose želdiniuose, palei takus ir aikštelėse, kartais viržynuose. Paprastai auga grupėmis ar kuokštais, kartais dideliais ploteliais. Dažnas Europoje ir užrašytas ir ten, kur pušys pasodintos, įskaitant dalį Naujosios Zelandijos. Didelėje Vidurio Europos dalyje dera nuo birželio ar liepos iki lapkričio; Britanijoje ir Airijoje dažniau randamas nuo rugpjūčio iki lapkričio, o piečiau sezonas gali trukti ilgiau. Dažnai jį lydi Gomphidius roseus, rausvakepurė lakštuotoji grybų rūšis, gyvenanti su juo po pušimis.",
+      "uses": "Valgomas, bet kuklios kokybės: trama gumuota, skonis švelnus ir šiek tiek rūgštokas. Geriausi jauni, tvirti vaisiakūniai. Prieš virimą nuskuskite gleivėtą kepurėlės odelę, o senesniuose vaisiakūniuose pašalinkite vamzdelius, kad sumažintumėte gleivėtumą ir skrandžio sutrikimų riziką, kurią kai kurie žmonės sieja su Suillus rūšių odele. Geriau tinka mišinyje su kitais grybais nei vienas. Išvirkite kruopščiai.",
+      "confusion": "Suillus granulatus taip pat auga po pušimis ir neturi žiedo, tačiau jo poros mažos ir paprastos, ne didelės ir sudėtinės, jaunos poros išskiria pieniškus lašelius, o viršutinė koto dalis nuberta grūdeliais. Tikrasis kazlėkas (Suillus luteus) turi plėvinį žiedą ir tamsesnę rudą gleivėtą kepurėlę. Grakštusis kazlėkas (Suillus grevillei) auga po maumedžiais, turi aukso geltoną kepurėlę ir žiedą. Rausvakotis kazlėkas (Suillus collinitus) turi smulkesnes poras ir rausvą grybieną koto pagrinde, o kepurėlėje dažnai tamsios spindulinės juostos. Suillus variegatus turi sausesnę, smulkiai žvynuotą ar veltininę kepurėlę ir mažesnes alyvines poras, o trama dažnai silpnai mėlynuoja. Nė viena šių painiavų nėra pavojinga; pagrindinė rizika – painiojimas su vamzdeliniu grybu, kurio trama stipriai mėlynuoja ar karti, ko ši rūšis nedaro.",
+      "notes": "Patikimiausi lauko požymiai yra didelės sudėtinės poros, šviesesnis kepurėlės kraštas, kotas be žiedo ir gumuota trama. Vaisiakūniai dažnai auga susispaudę, todėl kepurėlės būna kreivos.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Tamprusis_kazl%C4%97kas",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "tamprusis kazlėkas"
+    },
+    "lv": {
+      "description": "Neliela līdz vidēja priežu mežu stobriņu sēne, bieži biezās grupās nabadzīgā, smilšainā un skābā augsnē. To atpazīst pēc gļotainas, māla dzeltenas līdz oranžbrūnas cepurītes ar gaišāku malu, lielām stūrainām saliktām porām un gredzena bez kātiņa cepurītes krāsā. Mīkstums ir gumijains un nezilē.",
+      "cap": "Cepurīte 3–12 cm plata; sākumā izliekta, vēlāk saplacināta un malā bieži neregulāra vai viļņota. Mala ir gaišāka par pārējo cepurīti un jaunām iegriezta. Bāli dzeltena, okraina, māla oranža vai sārti brūna, ar vecumu bālējoša. Virsma gluda, mitrā laikā spīdīga un gļotaina, mazāk nekā dažām radniecīgām sugām, sausa matēta vai ādaina. Miziņa grūti nolobās un parasti nāk nost tikai gabalos.",
+      "hymenium": "Stobriņi līdz 1 cm gari, pieauguši līdz vāji notekošiem, sākumā bāli pelēkdzelteni, vēlāk olīvdzelteni līdz rūsas okrai vai pelēkzaļi. Poras lielas, stūrainas un saliktas (katra atvere sadalīta mazākās kamerās), tādā pašā krāsā kā stobriņi, spiežot tumšojas. Tās neizdala pienainus pilienus.",
+      "stipe": "Kātiņš 3–8 cm garš un 0,5–2 cm resns, bieži samērā īss, cilindrisks vai sašaurināts pret pamatu, jaunām vālesveida, pilns, bez gredzena un bez dziedzeru punktiņiem. Tādā pašā krāsā kā cepurīte vai gaišāks, pret pamatu dažkārt sarkanbrūns. Pie pamata bieži ar bālgānu līdz sārtu micēliju.",
+      "flesh": "Mīkstums mīksts, bet gumijaini elastīgs, cepurītē bālgans, bāli dzeltens vai māla sārts, kātiņa pamatnē bieži sārtāks vai sarkanīgs. Pārgriežot nezilē vai tikai ļoti vāji pelēko vai sārto. Smarža vāji augļaina; garša maiga un nedaudz skābena. Vārot vai žāvējot mīkstums bieži kļūst sārts līdz violets.",
+      "sporePrint": "Sporu nospiedums olīvzaļš līdz olīvbrūns. Sporas gludas, gandrīz vārpstveida, 7–10 × 3–4 µm.",
+      "habitat": "Ektomikorizas sēne divu skuju priežu, īpaši parastās priedes (Pinus sylvestris), nabadzīgā, smilšainā un skābā augsnē, bieži jaunos stādījumos, gar takām un laucēm un dažkārt viršos. Parasti aug grupās vai ceriņos, dažkārt lielos plankumos. Izplatīta Eiropā un atzīmēta arī tur, kur priedes iestādītas, tostarp daļā Jaunzēlandes. Lielā daļā Viduseiropas augļķermeņi no jūnija vai jūlija līdz novembrim; Lielbritānijā un Īrijā to biežāk atrod no augusta līdz novembrim, bet tālāk uz dienvidiem sezona var ilgt ilgāk. To bieži pavada Gomphidius roseus, sārti cepurīšu lapiņu sēne, kas dzīvo kopā ar to zem priedēm.",
+      "uses": "Ēdama, bet pieticīgas kvalitātes: mīkstums ir gumijains, un garša maiga, nedaudz skābena. Labākie ir jauni, stingri augļķermeņi. Pirms vārīšanas noņemiet gļotaino cepurītes miziņu un vecākiem eksemplāriem izņemiet stobriņus, lai samazinātu gļotainību un gremošanas traucējumu risku, ko daži cilvēki saista ar Suillus sugu miziņu. Labāk iederas maisījumā ar citām sēnēm nekā viena. Rūpīgi izvāriet.",
+      "confusion": "Suillus granulatus arī aug zem priedēm un ir bez gredzena, bet tā poras ir sīkas un vienkāršas, ne lielas un saliktas, jaunas poras izdala pienainus pilienus, un kātiņa augšdaļa ir nokaisīta ar graudiņiem. Parastā sviestbeka (Suillus luteus) ir plēvains gredzens un tumšāka brūna, gļotaina cepurīte. Zeltainā sviestbeka (Suillus grevillei) aug zem lapeglēm, tai ir zeltaini dzeltena cepurīte un gredzens. Suillus collinitus ir sīkākas poras un sārts micēlijs pie kātiņa pamata, un cepurītē bieži tumšas radiālas svītras. Suillus variegatus ir sausāka, smalki zvīņaina vai filcaina cepurīte un mazākas olīvkrāsas poras, un mīkstums bieži vāji zilē. Neviena no šīm sajaukšanām nav bīstama; galvenais risks ir sajaukšana ar stobriņu sēni, kuras mīkstums stipri zilē vai ir rūgts, ko šī suga nedara.",
+      "notes": "Uzticamākās lauka pazīmes ir lielās saliktās poras, gaišākā cepurītes mala, kātiņš bez gredzena un gumijainais mīkstums. Augļķermeņi bieži aug saspiesti, tāpēc cepurītes kļūst šķības.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Govju_sviestbeka",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "govju sviestbeka"
+    },
+    "nl": {
+      "description": "Een kleine tot middelgrote boleet van dennenbossen, vaak in dichte groepjes op arme, zandige en zure bodems. Hij is te herkennen aan een slijmerige, leemgele tot oranjebruine hoed met een blekere rand, grote hoekige samengestelde poriën en een ringloze steel in dezelfde kleur als de hoed. Het vlees is rubberachtig en verkleurt niet blauw.",
+      "cap": "Hoed 3–12 cm breed; eerst gewelfd, later afgeplat en aan de rand vaak onregelmatig of golvend. De rand is bleker dan de rest van de hoed en bij jonge exemplaren ingerold. Bleekgeel, oker, leemoranje of rozebruin, met de leeftijd verblekend. Het oppervlak is glad, bij vocht glanzend en slijmerig, minder dan bij sommige verwante soorten, droog mat of leerachtig. De hoedhuid laat zich moeilijk afpellen en komt meestal alleen in lapjes los.",
+      "hymenium": "Buizen tot 1 cm lang, aangehecht tot zwak aflopend, eerst bleek grijsgeel, later olijfgeel tot roestoker of grijsgroen. Poriën groot, hoekig en samengesteld (elke opening verdeeld in kleinere kamertjes), dezelfde kleur als de buizen, donkerder wordend bij indrukken. Ze scheiden geen melkachtige druppeltjes af.",
+      "stipe": "Steel 3–8 cm lang en 0,5–2 cm dik, vaak betrekkelijk kort, cilindrisch of naar de basis versmald, jong knotsvormig, vol, zonder ring en zonder klierpuntjes. Dezelfde kleur als de hoed of bleker, naar de basis soms roodbruin. Aan de basis vaak met witachtig tot roze mycelium.",
+      "flesh": "Vlees zacht maar rubberachtig-elastisch, in de hoed witachtig, bleekgeel of leemroze, in de steelbasis vaak rozer of roodachtig. Bij doorsnijden verkleurt het niet blauw, of slechts zeer zwak grijs of roze. Geur zwak fruitig; smaak mild en licht zurig. Bij koken of drogen wordt het vlees vaak roze tot paarsachtig.",
+      "sporePrint": "Sporenprint olijfgroen tot olijfbruin. Sporen glad, bijna spoelvormig, 7–10 × 3–4 µm.",
+      "habitat": "Ectomycorrhizavormer bij tweenaaldige dennen, vooral grove den (Pinus sylvestris), op arme, zandige en zure bodems, vaak in jonge beplantingen, langs paden en in open plekken, en soms tussen heide. Groeit meestal in groepjes of trossen, soms in grote velden. Algemeen in Europa en ook gemeld waar dennen zijn aangeplant, waaronder delen van Nieuw-Zeeland. In een groot deel van Midden-Europa vruchtlichamen van juni of juli tot november; in Groot-Brittannië en Ierland vaker van augustus tot november, en verder naar het zuiden kan het seizoen langer duren. Vaak vergezeld door Gomphidius roseus, een roze hoedige plaatjeszwam die met hem onder dennen leeft.",
+      "uses": "Eetbaar, maar van bescheiden kwaliteit: het vlees is rubberachtig en de smaak mild en licht zurig. Jonge, stevige vruchtlichamen zijn het best. Pel de slijmerige hoedhuid voor het koken en verwijder bij oudere exemplaren de buizen, om slijmerigheid en de kans op maagklachten te verminderen die sommige mensen bij de huid van Suillus-soorten melden. Hij leent zich beter voor menggerechten dan alleen. Kook grondig.",
+      "confusion": "Suillus granulatus groeit eveneens onder dennen en mist een ring, maar zijn poriën zijn klein en enkelvoudig, niet groot en samengesteld, de jonge poriën scheiden melkachtige druppeltjes af en het bovenste deel van de steel is met korreltjes bezet. De Bruine ringboleet (Suillus luteus) heeft een vliezige ring en een donkerdere bruine, slijmerige hoed. De gele ringboleet (Suillus grevillei) groeit onder lariks en heeft een goudgele hoed en een ring. De valse melkboleet (Suillus collinitus) heeft fijnere poriën en roze mycelium aan de steelbasis, en de hoed toont vaak donkere radiale strepen. Suillus variegatus heeft een drogere, fijn schubbige of viltige hoed en kleinere olijfkleurige poriën, en het vlees verkleurt vaak zwak blauw. Geen van deze verwisselingen is gevaarlijk; het grootste risico is verwarring met een boleet waarvan het vlees sterk blauwt of bitter smaakt, wat deze soort niet doet.",
+      "notes": "De betrouwbaarste veldkenmerken zijn de grote samengestelde poriën, de blekere hoedrand, de ringloze steel en het rubberachtige vlees. De vruchtlichamen groeien vaak tegen elkaar aan, zodat de hoeden scheef worden.",
+      "names": [
+        "koeieboleet"
+      ],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Koeienboleet",
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850"
+      ],
+      "label": "koeienboleet"
+    },
+    "no": {
+      "description": "En liten til middels stor rørsopp i furuskoger, ofte i tette grupper på fattig, sandig og sur jord. Den kjennes på en slimete, leir- til oransjebrun hatt med blekere rand, store kantete sammensatte porer og en ringløs stilk i samme farge som hatten. Kjøttet er gummiaktig og blåner ikke.",
+      "cap": "Hatt 3–12 cm bred; først hvelvet, siden avflatet og ved randen ofte uregelmessig eller bølget. Randen er blekere enn resten av hatten og innrullet hos unge eksemplarer. Blegul, oker, leiroransje eller rosabrun, bleknende med alderen. Overflaten er glatt, i fuktig vær blank og slimete, mindre enn hos noen slektninger, tørr matt eller læraktig. Huden er vanskelig å dra av og løsner vanligvis bare i flak.",
+      "hymenium": "Rør opptil 1 cm lange, tilvokste til svakt nedløpende, først blekt grågule, senere oliven-gule til rustoker eller grågrønne. Porer store, kantete og sammensatte (hver åpning delt i mindre kammer), samme farge som rørene, mørknende ved trykk. De skiller ikke ut melkaktige dråper.",
+      "stipe": "Stilk 3–8 cm høy og 0,5–2 cm tykk, ofte forholdsvis kort, sylindrisk eller avsmalnende mot basis, ung kølleformet, fast, uten ring og uten kjertelprikker. Samme farge som hatten eller blekere, mot basis av og til rødbrun. Ved basis ofte med hvitaktig til rosa mycel.",
+      "flesh": "Kjøtt mykt men gummiaktig-elastisk, i hatten hvitaktig, blegult eller leirrosa, i stilkens basis ofte mer rosa eller rødlig. Ved gjennomskjæring blåner det ikke, eller bare svært svakt grått eller rosa. Lukt svakt fruktig; smak mild og lett syrlig. Ved koking eller tørking blir kjøttet ofte rosa til fiolett.",
+      "sporePrint": "Sporeavtrykk olivengrønt til olivenbrunt. Sporer glatte, nesten spindelformede, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorrhizasopp hos tonålede furuer, særlig furu (Pinus sylvestris), på fattig, sandig og sur jord, ofte i unge plantinger, langs stier og i lysninger og av og til blant lyng. Den vokser vanligvis i grupper eller tuer, av og til i store tepper. Vanlig i Europa og også registrert der furu er plantet, herunder deler av New Zealand. I store deler av Sentral-Europa fruktlegemer fra juni eller juli til november; i Storbritannia og Irland finnes den oftere fra august til november, og lenger sør kan sesongen vare lenger. Den følges ofte av Gomphidius roseus, en rosahattet skivesopp som lever sammen med den under furu.",
+      "uses": "Spiselig, men av beskjeden kvalitet: kjøttet er gummiaktig, og smaken er mild og lett syrlig. Unge, faste fruktlegemer er best. Trekk av den slimete hatthuden før tilberedning, og fjern rørene hos eldre eksemplarer for å redusere slimete konsistens og risikoen for magebesvær som noen mennesker rapporterer av huden hos Suillus-arter. Den passer bedre i blanding med andre sopper enn alene. Kok den grundig.",
+      "confusion": "Suillus granulatus vokser også under furu og mangler ring, men porene er små og enkle, ikke store og sammensatte, de unge porene skiller ut melkaktige dråper, og den øvre delen av stilken er besatt med korn. Smørsopp (Suillus luteus) har en hinneaktig ring og en mørkere brun, slimete hatt. Lerkesopp (Suillus grevillei) vokser under lerk og har en gullgul hatt og en ring. Suillus collinitus har finere porer og rosa mycel ved stilkens basis, og hatten viser ofte mørke radiale striper. Suillus variegatus har en tørrere, fint skjellendet eller filtet hatt og mindre olivenfargede porer, og kjøttet blåner ofte svakt. Ingen av disse forvekslingene er farlige; den største risikoen er forveksling med en rørsopp hvis kjøtt blåner sterkt eller smaker bittert, noe denne arten ikke gjør.",
+      "notes": "De mest pålitelige feltkjennetegnene er de store sammensatte porene, den blekere hatkanten, den ringløse stilken og det gummiaktige kjøttet. Fruktlegemene vokser ofte tett inntil hverandre, slik at hattene blir skjeve.",
+      "names": [],
+      "sourceUrls": [
+        "https://no.wikipedia.org/wiki/Seig_kusopp",
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850"
+      ],
+      "label": "seig kusopp"
+    },
+    "pl": {
+      "description": "Mały do średniego grzyb rurkowy lasów sosnowych, często w gęstych grupach na ubogich, piaszczystych i kwaśnych glebach. Poznać go można po śluzowatym, gliniastożółtym do pomarańczowobrązowego kapeluszu z jaśniejszym brzegiem, dużych kanciastych, złożonych porach i trzonie bez pierścienia, zabarwionym jak kapelusz. Miąższ jest gumowaty i nie sinieje.",
+      "cap": "Kapelusz o średnicy 3–12 cm; początkowo wypukły, później spłaszczony, na brzegu często nieregularny lub pofalowany. Brzeg jaśniejszy od reszty kapelusza i za młodu podwinięty. Bladożółty, ochrowy, gliniasto-pomarańczowy lub różowawobrązowy, z wiekiem blednący. Powierzchnia gładka, w wilgoci lśniąca i śluzowata, mniej niż u niektórych gatunków pokrewnych, w suchej pogodzie matowa lub skórzasta. Skórka trudno się zdejmuje i zwykle schodzi tylko płatami.",
+      "hymenium": "Rurki długości do 1 cm, przyrośnięte do lekko zbiegających, początkowo bladoszarawożółte, później oliwkowożółte do rdzawoochrowych lub szarozielonych. Pory duże, kanciaste i złożone (każde ujście podzielone jest na mniejsze komory), tej samej barwy co rurki, ciemniejące po ugnieceniu. Nie wydzielają mlecznych kropelek.",
+      "stipe": "Trzon 3–8 cm długi i 0,5–2 cm gruby, często stosunkowo krótki, walcowaty lub zwężający się ku podstawie, za młodu buławkowaty, pełny, bez pierścienia i bez gruczołowatych kropek. Zabarwiony jak kapelusz lub jaśniejszy, ku podstawie czasem czerwonawobrązowy. Przy podstawie często z białawą do różowawej grzybnią.",
+      "flesh": "Miąższ miękki, ale gumowato sprężysty, w kapeluszu białawy, bladożółty lub gliniasto różowawy, w podstawie trzonu często bardziej różowy lub czerwonawy. Po przekrojeniu nie sinieje albo tylko bardzo słabo szarzeje lub różowieje. Zapach słabo owocowy; smak łagodny, lekko kwaskowaty. Podczas gotowania lub suszenia miąższ często różowieje aż do fioletowawego.",
+      "sporePrint": "Wysyp zarodników oliwkowozielony do oliwkowobrązowego. Zarodniki gładkie, niemal wrzecionowate, 7–10 × 3–4 µm.",
+      "habitat": "Grzyb ektomykoryzowy dwuigielnych sosen, zwłaszcza sosny zwyczajnej (Pinus sylvestris), na ubogich, piaszczystych i kwaśnych glebach, często w młodnikach, wzdłuż dróg i na polanach, a czasem wśród wrzosu. Zwykle rośnie w grupach lub kępkach, niekiedy w rozległych łatach. Pospolity w Europie, notowany także tam, gdzie posadzono sosny, w tym w częściach Nowej Zelandii. W dużej części Europy Środkowej owocniki pojawiają się od czerwca lub lipca do listopada; w Wielkiej Brytanii i Irlandii częściej od sierpnia do listopada, a dalej na południu sezon może trwać dłużej. Często towarzyszy mu Gomphidius roseus, różowokapeluszowy grzyb blaszkowy rosnący z nim pod sosnami.",
+      "uses": "Jadalny, ale o skromnej jakości: miąższ jest gumowaty, a smak łagodny, lekko kwaskowaty. Najlepsze są młode, jędrne owocniki. Przed gotowaniem zdejmij śluzowatą skórkę kapelusza, a u starszych owocników usuń rurki, aby ograniczyć śluzowatość i ryzyko dolegliwości żołądkowych, które niektórzy ludzie zgłaszają po skórkach grzybów z rodzaju Suillus. Lepiej nadaje się do mieszanek z innymi grzybami niż sam. Gotuj dokładnie.",
+      "confusion": "Suillus granulatus również rośnie pod sosnami i nie ma pierścienia, ale jego pory są drobne i proste, nie duże i złożone, młode pory wydzielają mleczne kropelki, a górna część trzonu jest usiana ziarnistościami. Maślak zwyczajny (Suillus luteus) ma błoniasty pierścień i ciemniejszy brązowy, śluzowaty kapelusz. Maślak żółty (Suillus grevillei) rośnie pod modrzewiami, ma złocistożółty kapelusz i pierścień. Maślak rdzawobrązowy (Suillus collinitus) ma drobniejsze pory i różową grzybnię u podstawy trzonu, a na kapeluszu często ciemne promieniste prążki. Suillus variegatus ma suchszy, drobno łuseczkowaty lub filcowaty kapelusz i mniejsze oliwkowe pory, a jego miąższ często słabo sinieje. Żadna z tych pomyłek nie jest groźna; główne ryzyko to pomylenie z jakimkolwiek grzybem rurkowym, którego miąższ silnie sinieje albo jest gorzki, czego ten gatunek nie robi.",
+      "notes": "Najpewniejsze cechy w terenie to duże złożone pory, jaśniejszy brzeg kapelusza, trzon bez pierścienia i gumowaty miąższ. Owocniki często rosną ściśnięte obok siebie, więc kapelusze bywają niesymetryczne.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Ma%C5%9Blak_sitarz",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "maślak sitarz"
+    },
+    "pt": {
+      "description": "Um boleto pequeno a médio de pinhais, muitas vezes em grupos densos em solos pobres, arenosos e ácidos. Reconhece-se pelo chapéu viscoso, amarelo-argiloso a pardo-alaranjado, com margem mais pálida, pelos poros grandes, angulosos e compostos, e pelo pé sem anel, da mesma cor que o chapéu. A carne é borrachosa e não azul.",
+      "cap": "Chapéu de 3–12 cm de diâmetro; a princípio convexo, depois aplanado e muitas vezes irregular ou ondulado na margem. A margem é mais pálida do que o resto do chapéu e enrolada nos jovens. Amarelo-pálido, ocre, alaranjado-argiloso ou pardo-rosado, desbotando com a idade. Superfície lisa, brilhante e viscosa com humidade, menos do que em algumas espécies próximas, mate ou coriácea a seco. A cutícula desprende-se com dificuldade e costuma sair apenas aos pedaços.",
+      "hymenium": "Tubos com até 1 cm de comprimento, adnados a ligeiramente decurrentes, a princípio cinzento-amarelados pálidos, depois amarelo-oliváceo a ocre-ferrugem ou cinzento-esverdeado. Poros grandes, angulosos e compostos (cada abertura dividida em câmaras menores), da mesma cor que os tubos, escurecendo à pressão. Não exsudam gotículas leitosas.",
+      "stipe": "Pé de 3–8 cm de altura e 0,5–2 cm de espessura, muitas vezes relativamente curto, cilíndrico ou atenuado para a base, claviforme nos jovens, maciço, sem anel e sem pontos glandulares. Da mesma cor que o chapéu ou mais pálido, por vezes pardo-avermelhado para a base. Na base há frequentemente micélio esbranquiçado a rosado.",
+      "flesh": "Carne mole mas elástica e borrachosa, esbranquiçada, amarelo-pálida ou rosa-argilosa no chapéu, muitas vezes mais rosada ou avermelhada na base do pé. Ao corte não azul, ou apenas muito fracamente para cinzento ou rosa. Cheiro ligeiramente frutado; sabor suave e um pouco ácido. Ao cozer ou secar, a carne torna-se muitas vezes rosa a violácea.",
+      "sporePrint": "Esporada verde-olivácea a pardo-olivácea. Esporos lisos, quase fusiformes, 7–10 × 3–4 µm.",
+      "habitat": "Espécie ectomicorrízica de pinheiros de duas agulhas, especialmente o pinheiro-silvestre (Pinus sylvestris), em solos pobres, arenosos e ácidos, muitas vezes em plantações jovens, ao longo de caminhos e em clareiras, e por vezes entre urze. Costuma crescer em grupos ou tufos, às vezes em manchas extensas. Comum na Europa e também registada onde se plantaram pinheiros, incluindo partes da Nova Zelândia. Em grande parte da Europa Central frutifica de junho ou julho a novembro; na Grã-Bretanha e na Irlanda encontra-se mais vezes de agosto a novembro, e mais a sul a época pode prolongar-se. É frequentemente acompanhada por Gomphidius roseus, um fungo de lâminas com chapéu rosa que vive com ela sob os pinheiros.",
+      "uses": "Comestível, mas de qualidade modesta: a carne é borrachosa e o sabor suave, um pouco ácido. Os corpos frutíferos jovens e firmes são os melhores. Descasque a cutícula viscosa do chapéu antes de cozinhar e retire os tubos dos exemplares velhos, para reduzir a viscosidade e o risco de mal-estar digestivo que algumas pessoas associam à cutícula dos Suillus. Fica melhor misturada com outros cogumelos do que sozinha. Coza bem.",
+      "confusion": "Suillus granulatus também cresce sob pinheiros e não tem anel, mas os seus poros são pequenos e simples, não grandes e compostos, os poros jovens exsudam gotículas leitosas e a parte superior do pé está pontilhada de grânulos. Suillus luteus tem um anel membranoso e um chapéu viscoso pardo mais escuro. Suillus grevillei cresce sob lariços e tem um chapéu amarelo-dourado e um anel. Suillus collinitus tem poros mais finos e micélio rosa na base do pé, e o chapéu mostra muitas vezes estrias radiais escuras. Suillus variegatus tem um chapéu mais seco, finamente escamoso ou feltrado, e poros oliváceos mais pequenos, e a carne muitas vezes azula ligeiramente. Nenhuma destas confusões é perigosa; o principal risco é a confusão com um boleto cuja carne azule fortemente ou tenha sabor amargo, o que esta espécie não faz.",
+      "notes": "Os caracteres de campo mais seguros são os grandes poros compostos, a margem mais pálida do chapéu, o pé sem anel e a carne borrachosa. Os corpos frutíferos crescem muitas vezes apertados uns contra os outros, de modo que os chapéus ficam assimétricos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un bolet mic sau mijlociu al pădurilor de pin, adesea în grupuri dese pe soluri sărace, nisipoase și acide. Se recunoaște după pălăria vâscoasă, galben-argiloasă până la brun-portocalie, cu marginea mai pală, după porii mari, unghiulari și compuși, și după piciorul fără inel, de aceeași culoare cu pălăria. Carnea este cauciucată și nu albastră.",
+      "cap": "Pălăria de 3–12 cm în diametru; la început convexă, apoi turtită și adesea neregulată sau ondulată la margine. Marginea este mai pală decât restul pălăriei și răsucită la exemplarele tinere. Galben-pal, ocru, portocaliu-argilos sau brun-rozaliu, decolorându-se odată cu vârsta. Suprafața este netedă, lucioasă și vâscoasă pe vreme umedă, mai puțin decât la unele specii înrudite, mată sau pielosă pe uscat. Cuticula se desprinde greu și iese de obicei doar în fâșii.",
+      "hymenium": "Tuburile lungi de până la 1 cm, adnate până la ușor decurente, la început gri-gălbui pal, apoi galben-olivaceu până la ocru ruginos sau gri-verzui. Porii mari, unghiulari și compuși (fiecare deschidere împărțită în camerule mai mici), de aceeași culoare cu tuburile, întunecându-se la apăsare. Nu exsudă picături lăptoase.",
+      "stipe": "Piciorul de 3–8 cm înălțime și 0,5–2 cm grosime, adesea relativ scurt, cilindric sau îngustat spre bază, măciucat la tineri, plin, fără inel și fără puncte glandulare. De aceeași culoare cu pălăria sau mai pal, uneori brun-roșiatic spre bază. La bază are adesea miceliu albicios până la rozaliu.",
+      "flesh": "Carnea moale, dar elastică și cauciucată, albicioasă, galben-pal sau roz-argilos în pălărie, adesea mai rozalie sau roșiatică în baza piciorului. La tăiere nu albastră, sau doar foarte slab spre gri ori roz. Miros ușor fructat; gust blând și puțin acrișor. La fiert sau la uscare, carnea devine adesea roz până la violacee.",
+      "sporePrint": "Sporata verde-olivacee până la brun-olivacee. Sporii netezi, aproape fusiformi, 7–10 × 3–4 µm.",
+      "habitat": "Specie ectomicorizică a pinilor cu două ace, în special pinul silvestru (Pinus sylvestris), pe soluri sărace, nisipoase și acide, adesea în plantații tinere, de-a lungul potecilor și în poieni, uneori printre iarbă de calluna. Crește de obicei în grupuri sau smocuri, uneori în pâlcuri întinse. Comună în Europa și semnalată și acolo unde au fost plantați pini, inclusiv în părți ale Noii Zeelande. În mare parte din Europa Centrală fructifică din iunie sau iulie până în noiembrie; în Marea Britanie și Irlanda se găsește mai des din august până în noiembrie, iar mai la sud sezonul se poate prelungi. Este adesea însoțită de Gomphidius roseus, o ciupercă cu lamele cu pălărie roz, care trăiește cu ea sub pini.",
+      "uses": "Comestibilă, dar de calitate modestă: carnea este cauciucată, iar gustul blând, puțin acrișor. Cele mai bune sunt corpurile de fructificare tinere și ferme. Decojiți cuticula vâscoasă a pălăriei înainte de gătire și îndepărtați tuburile la exemplarele bătrâne, ca să reduceți vâscozitatea și riscul de tulburări digestive pe care unii oameni le leagă de cuticula speciilor de Suillus. Se potrivește mai bine amestecată cu alte ciuperci decât singură. Fierbeți-o temeinic.",
+      "confusion": "Suillus granulatus crește și el sub pini și nu are inel, dar porii săi sunt mici și simpli, nu mari și compuși, porii tineri exsudă picături lăptoase, iar partea de sus a piciorului este presărată cu granule. Turta vacii (Suillus luteus) are un inel membranos și o pălărie vâscoasă brună, mai închisă. Untoasă cu inel (Suillus grevillei) crește sub larici și are pălăria galben-aurie și un inel. Pitoașcă fără inel (Suillus collinitus) are pori mai fini și miceliu roz la baza piciorului, iar pălăria arată adesea striuri radiale întunecate. Suillus variegatus are o pălărie mai uscată, fin solzoasă sau pâslită, și pori olivacei mai mici, iar carnea albastră adesea slab. Niciuna dintre aceste confuzii nu este periculoasă; riscul principal este confuzia cu un bolet a cărui carne albastră puternic sau are gust amar, ceea ce această specie nu face.",
+      "notes": "Cele mai sigure caractere de teren sunt porii mari compuși, marginea mai pală a pălăriei, piciorul fără inel și carnea cauciucată. Corpurile de fructificare cresc adesea înghesuite, astfel că pălăriile devin asimetrice.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой или среднего размера трубчатый гриб сосновых лесов, часто густыми группами на бедных, песчаных и кислых почвах. Его узнают по слизистой, глинисто-жёлтой до оранжево-бурой шляпке с более бледным краем, крупным угловатым сложным порам и ножке без кольца, окрашенной как шляпка. Мякоть резинистая и не синеет.",
+      "cap": "Шляпка 3–12 см в диаметре; сначала выпуклая, затем уплощённая и по краю часто неправильная или волнистая. Край бледнее остальной шляпки и у молодых завернут внутрь. Бледно-жёлтая, охристая, глинисто-оранжевая или розовато-бурая, с возрастом выцветающая. Поверхность гладкая, во влажную погоду блестящая и слизистая, меньше, чем у некоторых родственных видов, в сухую матовая или кожистая. Кожица снимается с трудом и обычно сходит лишь лоскутами.",
+      "hymenium": "Трубочки длиной до 1 см, приросшие до слегка нисходящих, сначала бледно-серовато-жёлтые, затем оливково-жёлтые до ржаво-охристых или серо-зелёных. Поры крупные, угловатые и сложные (каждое устье разделено на более мелкие ячейки), того же цвета, что и трубочки, при надавливании темнеют. Молочные капельки они не выделяют.",
+      "stipe": "Ножка 3–8 см высотой и 0,5–2 см толщиной, часто относительно короткая, цилиндрическая или суживающаяся к основанию, у молодых булавовидная, выполненная, без кольца и без желёзистых точек. Того же цвета, что и шляпка, или бледнее, к основанию иногда красновато-бурая. У основания часто с беловатым до розоватого мицелием.",
+      "flesh": "Мякоть мягкая, но резинисто-упругая, в шляпке беловатая, бледно-жёлтая или глинисто-розоватая, в основании ножки часто более розовая или красноватая. На разрезе не синеет или лишь очень слабо сереет либо розовеет. Запах слабо фруктовый; вкус мягкий, слегка кисловатый. При варке или сушке мякоть часто розовеет до фиолетового.",
+      "sporePrint": "Споровый порошок оливково-зелёный до оливково-бурого. Споры гладкие, почти веретеновидные, 7–10 × 3–4 µm.",
+      "habitat": "Эктомикоризный гриб двухигловых сосен, особенно сосны обыкновенной (Pinus sylvestris), на бедных, песчаных и кислых почвах, часто в молодых посадках, вдоль троп и на прогалинах, иногда среди вереска. Обычно растёт группами или пучками, иногда обширными коврами. Обычен в Европе и отмечен также там, где сосны посажены, в том числе в частях Новой Зеландии. На большей части Центральной Европы плодоносит с июня или июля по ноябрь; в Великобритании и Ирландии чаще встречается с августа по ноябрь, а южнее сезон может длиться дольше. Часто его сопровождает Gomphidius roseus, розовошляпочный пластинчатый гриб, живущий с ним под соснами.",
+      "uses": "Съедобен, но скромного качества: мякоть резинистая, вкус мягкий и слегка кисловатый. Лучше всего молодые, плотные плодовые тела. Перед готовкой снимите слизистую кожицу шляпки, а у старых экземпляров удалите трубочки, чтобы уменьшить слизистость и риск желудочных расстройств, которые некоторые люди связывают с кожицей грибов рода Suillus. Лучше идёт в смеси с другими грибами, чем сам по себе. Тщательно проварите.",
+      "confusion": "Suillus granulatus тоже растёт под соснами и не имеет кольца, но его поры мелкие и простые, не крупные и сложные, молодые поры выделяют молочные капельки, а верхняя часть ножки усеяна зёрнышками. Маслёнок обыкновенный (Suillus luteus) имеет перепончатое кольцо и более тёмную бурую слизистую шляпку. Маслёнок лиственничный (Suillus grevillei) растёт под лиственницами, у него золотисто-жёлтая шляпка и кольцо. Маслёнок неокольцованный (Suillus collinitus) имеет более тонкие поры и розовый мицелий у основания ножки, а на шляпке часто тёмные радиальные полоски. Suillus variegatus имеет более сухую, мелкочешуйчатую или войлочную шляпку и более мелкие оливковые поры, и его мякоть часто слабо синеет. Ни одно из этих смешений не опасно; главная опасность — спутать с трубчатым грибом, мякоть которого сильно синеет или горькая, чего этот вид не делает.",
+      "notes": "Самые надёжные полевые признаки — крупные сложные поры, более бледный край шляпки, ножка без кольца и резинистая мякоть. Плодовые тела часто растут вплотную, так что шляпки становятся кривыми.",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D0%BB%D1%8F%D0%BA",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "козляк"
+    },
+    "sk": {
+      "description": "Malá až stredne veľká rúrkovitá huba borovicových lesov, často v hustých skupinách na chudobných, piesočnatých a kyslých pôdach. Spozná sa podľa slizkého hlinitožltého až oranžovohnedého klobúka so svetlejším okrajom, veľkých hranatých zložených pórov a hlúbika bez prsteňa, sfarbeného ako klobúk. Dužina je gumovitá a nemodrie.",
+      "cap": "Klobúk 3–12 cm široký; spočiatku vypuklý, neskôr sploštený a na okraji často nepravidelný alebo zvlnený. Okraj je svetlejší ako zvyšok klobúka a za mladi podvinutý. Bledožltý, okrový, hlinitooranžový alebo ružovkastohnedý, s vekom blednúci. Povrch je hladký, za vlhka lesklý a slizký, menej ako u niektorých príbuzných druhov, za sucha matný alebo kožovitý. Pokožka sa ťažko odlupuje a zvyčajne ide dole len v útržkoch.",
+      "hymenium": "Rúrky dlhé do 1 cm, prirastené až slabo zbiehavé, spočiatku bledosivožlté, neskôr olivovožlté až hrdzavo okrové alebo sivozelené. Póry veľké, hranaté a zložené (každé ústie je rozdelené na menšie komôrky), sfarbené ako rúrky, pri potlačení tmavnú. Nemliečia.",
+      "stipe": "Hlúbik 3–8 cm dlhý a 0,5–2 cm hrubý, často pomerne krátky, valcovitý alebo k báze zúžený, za mladi kyjakovitý, plný, bez prsteňa a bez žliazkatých bodiek. Sfarbený ako klobúk alebo bledší, smerom k báze niekedy červenohnedý. Pri báze často s belavým až ružovkastým podhubím.",
+      "flesh": "Dužina mäkká, ale gumovito pružná, v klobúku belavá, bledožltá alebo hlinito ružovkastá, v báze hlúbika často ružovejšia alebo červenkastá. Na reze nemodrie, alebo len veľmi slabo sivie či ružovie. Vôňa slabo ovocná; chuť jemná, slabo kyslastá. Pri varení alebo sušení dužina často ružovie až fialovie.",
+      "sporePrint": "Výtrusný prach olivovozelený až olivovohnedý. Výtrusy hladké, takmer vretenovité, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorízna huba dvojihlicových borovíc, najmä borovice lesnej (Pinus sylvestris), na chudobných, piesočnatých a kyslých pôdach, často v mladých výsadbách, popri cestách a na rúbaniskách a niekedy vo vresoviskách. Rastú zvyčajne v skupinách alebo trsoch, niekedy v rozsiahlych kobercoch. Bežná v Európe a zaznamenaná aj tam, kde boli borovice vysadené, vrátane častí Nového Zélandu. Vo veľkej časti strednej Európy plodí od júna alebo júla do novembra; v Británii a Írsku sa častejšie nachádza od augusta do novembra a ďalej na juhu môže sezóna trvať dlhšie. Často ju sprevádza Gomphidius roseus, ružovoklobúková lupenitá huba, ktorá s ňou rastie pod borovicami.",
+      "uses": "Jedlá, ale skromnej kvality: dužina je gumovitá a chuť jemná, slabo kyslastá. Najlepšie sú mladé, pevné plodnice. Pred varením stiahnite slizkú pokožku klobúka a u starších plodníc odstráňte rúrky, aby ste znížili sliznatosť a riziko zažívacích ťažkostí, ktoré niektorí ľudia pri pokožke húb rodu Suillus popisujú. Lepšie sa hodí do zmesi s inými hubami ako samostatne. Dôkladne ju uvarte.",
+      "confusion": "Suillus granulatus rastie tiež pod borovicami a nemá prsteň, ale jeho póry sú drobné a jednoduché, nie veľké a zložené, mladé póry roní mliečne kvapky a horná časť hlúbika je posiata zrnkami. Masliak obyčajný (Suillus luteus) má blanitý prsteň a tmavší hnedý slizký klobúk. Masliak smrekovcový (Suillus grevillei) rastie pod smrekovcami, má zlatistožltý klobúk a prsteň. Masliak kopcový (Suillus collinitus) má jemnejšie póry a ružové podhubie na báze hlúbika a na klobúku často tmavé radiálne pruhy. Suillus variegatus má suchší, jemne šupinatý alebo plstnatý klobúk a menšie olivové póry a jeho dužina často slabo modrie. Žiadna z týchto zámen nie je nebezpečná; hlavné riziko je zámena s akoukoľvek rúrkovitou hubou, ktorej dužina výrazne modrie alebo je horká, čo tento druh nerobí.",
+      "notes": "Najspoľahlivejšie znaky v teréne sú veľké zložené póry, svetlejší okraj klobúka, hlúbik bez prsteňa a gumovitá dužina. Plodnice často rastú natlačené vedľa seba, takže klobúky bývajú nesúmerné. Na Slovensku je najrozšírenejší v nížinách v oblastiach výskytu borovice lesnej.",
+      "names": [],
+      "sourceUrls": [
+        "https://sk.wikipedia.org/wiki/Masliak_kravsk%C3%BD",
+        "https://www.wikidata.org/wiki/Q1165762",
+        "https://fotonet.sk/atlas/fungi_huby/suillus-bovinus"
+      ],
+      "label": "masliak kravský"
+    },
+    "sl": {
+      "description": "Majhna do srednje velika cevkasta goba borovih gozdov, pogosto v gostih skupinah na revnih, peščenih in kislih tleh. Prepoznamo jo po sluzastem, ilovnato rumenem do oranžnorjavem klobuku s svetlejšim robom, velikih oglatih sestavljenih porah in betu brez obročka, obarvanem kot klobuk. Meso je gumijasto in ne siní.",
+      "cap": "Klobuk širok 3–12 cm; sprva izbočen, pozneje sploščen in na robu pogosto nepravilen ali valovit. Rob je svetlejši od preostalega klobuka in pri mladih podvihan. Bledo rumen, okrast, ilovnato oranžen ali rožnatorjav, s starostjo bledé. Površina je gladka, v vlagi sijoča in sluzasta, manj kot pri nekaterih sorodnih vrstah, v suhem matasta ali usnjata. Kožica se težko lupi in običajno odstopa le v kosih.",
+      "hymenium": "Cevke dolge do 1 cm, prirasle do rahlo zbegočih, sprva bledo sivo rumene, pozneje olivno rumene do rjasto okraste ali sivozelene. Pore velike, oglate in sestavljene (vsaka odprtina je razdeljena na manjše prekate), enake barve kot cevke, ob pritisku temnijo. Ne izločajo mlečnih kapljic.",
+      "stipe": "Bet 3–8 cm visok in 0,5–2 cm debel, pogosto razmeroma kratek, valjast ali zožen proti dnu, pri mladih kijast, poln, brez obročka in brez žlezastih pik. Obarvan kot klobuk ali svetlejši, proti dnu včasih rdečerjav. Pri dnu pogosto z belkastim do rožnatim podgobjem.",
+      "flesh": "Meso mehko, a gumijasto elastično, v klobuku belkasto, bledo rumeno ali ilovnato rožnato, v dnu beta pogosto bolj rožnato ali rdečkasto. Na prerezu ne siní ali le zelo slabo posivi oziroma poroženi. Vonj rahlo saden; okus blag, rahlo kiselkast. Pri kuhanju ali sušenju meso pogosto poroženi do vijoličastega.",
+      "sporePrint": "Trosni prah olivno zelen do olivno rjav. Trosi gladki, skoraj vretenasti, 7–10 × 3–4 µm.",
+      "habitat": "Ektomikorizna goba dvigličnih borovcev, zlasti rdečega bora (Pinus sylvestris), na revnih, peščenih in kislih tleh, pogosto v mladih nasadih, ob poteh in na jasah ter včasih med resjem. Navadno raste v skupinah ali šopih, včasih v obsežnih zaplatah. Pogosta v Evropi in zabeležena tudi tam, kjer so bori posajeni, vključno z deli Nove Zelandije. V velikem delu Srednje Evrope plodovi trosnjaki od junija ali julija do novembra; v Britaniji in na Irskem jo pogosteje najdemo od avgusta do novembra, južneje pa lahko sezona traja dlje. Pogosto jo spremlja Gomphidius roseus, rožnatoklobučna lističasta goba, ki raste z njo pod borovci.",
+      "uses": "Užitna, a skromne kakovosti: meso je gumijasto, okus pa blag in rahlo kiselkast. Najboljši so mladi, čvrsti trosnjaki. Pred kuhanjem olupite sluzasto kožico klobuka, pri starejših trosnjakih pa odstranite cevke, da zmanjšate sluzavost in tveganje prebavnih težav, ki jih nekateri ljudje povezujejo s kožico gob iz rodu Suillus. Bolje se poda v mešanici z drugimi gobami kot sama. Temeljito jo skuhajte.",
+      "confusion": "Suillus granulatus prav tako raste pod borovci in nima obročka, vendar so njegove pore drobne in preproste, ne velike in sestavljene, mlade pore izločajo mlečne kapljice, zgornji del beta pa je posut z zrncami. Maslena lupljivka (Suillus luteus) ima kožnat obroček in temnejši rjav sluzast klobuk. Macesnova lupljivka (Suillus grevillei) raste pod macesni, ima zlato rumen klobuk in obroček. Brezobročna lupljivka (Suillus collinitus) ima finejše pore in rožnato podgobje ob dnu beta, na klobuku pa pogosto temne radialne proge. Suillus variegatus ima bolj suh, drobno luskast ali plsten klobuk in manjše olivne pore, njegovo meso pa pogosto rahlo posini. Nobena od teh zamenjav ni nevarna; glavno tveganje je zamenjava s katero koli cevkasto gobo, katere meso močno siní ali je grenko, česar ta vrsta ne počne.",
+      "notes": "Najzanesljivejši znaki na terenu so velike sestavljene pore, svetlejši rob klobuka, bet brez obročka in gumijasto meso. Trosnjaki pogosto rastejo stisnjeni drug ob drugem, zato so klobuki pogosto nesimetrični.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762",
+        "https://sl.wikipedia.org/wiki/Pro%C5%BEna_lupljivka"
+      ],
+      "label": "prožna lupljivka"
+    },
+    "sr": {
+      "description": "Мала до средње велика цеваста гљива борових шума, често у густим групама на сиромашним, песковитим и киселим земљиштима. Препознаје се по слузавом, иловастожутом до наранџастосмеђем шеширу са светлијим ободом, великим угластим сложеним порама и дршци без прстена, обојеној као шешир. Месо је гумено и не плави.",
+      "cap": "Шешир широк 3–12 cm; најпре испупчен, затим спљоштен и на ободу често неправилан или таласаст. Обод је светлији од остатка шешира и у младости подвијен. Бледожут, окерасти, иловастонаранџаст или ружичастосмеђ, са старењем блеђи. Површина је глатка, по влажном времену сјајна и слузава, мање него код неких сродних врста, по сувом мат или кожаста. Кожица се тешко љушти и обично силази само у крпама.",
+      "hymenium": "Цевчице дуге до 1 cm, прирасле до слабо силазних, најпре бледосивожуте, затим маслинастожуте до рђавоокерасте или сивозелене. Поре велике, угласте и сложене (сваки отвор подељен је на мање коморице), исте боје као цевчице, при притиску тамне. Не испуштају млечне капљице.",
+      "stipe": "Дршка 3–8 cm висока и 0,5–2 cm дебела, често релативно кратка, ваљкаста или сужена према основи, у младости булаваста, пуна, без прстена и без жлездастих тачкица. Обојена као шешир или светлија, према основи понекад црвеносмеђа. При основи често са беличастом до ружичастом мицелијом.",
+      "flesh": "Месо меко, али гумено еластично, у шеширу беличасто, бледожуто или иловасторожичасто, у основи дршке често ружичастије или црвенкасто. На пресеку не плави, или само врло слабо поседи или порумени. Мирис слабо воћни; укус благ, слабо киселкаст. При кувању или сушењу месо често порумени до љубичастог.",
+      "sporePrint": "Отисак спора маслинастозелен до маслинастосмеђ. Споре глатке, готово вретенасте, 7–10 × 3–4 µm.",
+      "habitat": "Ектомикоризна гљива двоигличастих борова, нарочито белог бора (Pinus sylvestris), на сиромашним, песковитим и киселим земљиштима, често у младим засадима, уз стазе и на пропланцима, а понекад међу вресом. Обично расте у групама или бусеновима, понекад у пространим теписима. Честа у Европи и забележена и тамо где су борови сађени, укључујући делове Новог Зеланда. У великом делу Средње Европе плодоноси од јуна или јула до новембра; у Британији и Ирској се чешће налази од августа до новембра, а јужније сезона може трајати дуже. Често је прати Gomphidius roseus, ружичастошеширњача са листићима која расте с њом под боровима.",
+      "uses": "Јстива, али скромног квалитета: месо је гумено, а укус благ и слабо киселкаст. Најбоља су млада, чврста плодишта. Пре кувања огулите слузаву кожицу шешира, а код старијих плодишта уклоните цевчице, да бисте смањили слузавост и ризик желудачних тегоба које неки људи повезују са кожицом гљива рода Suillus. Боље се уклапа у мешавину с другим гљивама него сама. Темељно је скувајте.",
+      "confusion": "Suillus granulatus такође расте под боровима и нема прстен, али су му поре ситне и једноставне, не велике и сложене, младе поре испуштају млечне капљице, а горњи део дршке је посут зрнцима. Осинац (Suillus luteus) има кожичаст прстен и тамнији смеђи слузави шешир. Аришевац (Suillus grevillei) расте под аришима, има златножути шешир и прстен. Зракасти боричар (Suillus collinitus) има финије поре и ружичасту мицелију при основи дршке, а на шеширу често тамне зракасте пруге. Suillus variegatus има сувљи, ситно љускав или филцаст шешир и мање маслинасте поре, а месо му често слабо плави. Ниједна од тих замена није опасна; главни је ризик замена са било којом цевастом гљивом чије месо јако плави или је горко, што ова врста не чини.",
+      "notes": "Најпоузданија теренска обележја су велике сложене поре, светлији обод шешира, дршка без прстена и гумено месо. Плодишта често расту притиснута једно уз друго, па шешири бивају несиметрични.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten till medelstor sopp i tallskogar, ofta i täta grupper på fattig, sandig och sur jord. Den känns igen på en slemmig, ler- till orangebrun hatt med blekare kant, stora kantiga sammansatta porer och en ringlös fot i samma färg som hatten. Köttet är gummiaktigt och blånar inte.",
+      "cap": "Hatt 3–12 cm bred; först välvd, sedan tillplattad och vid kanten ofta oregelbunden eller vågig. Kanten är blekare än resten av hatten och inrullad hos unga exemplar. Blegul, ockra, lerorange eller rosabrun, blekande med åldern. Ytan är slät, i fuktigt väder blank och slemmig, mindre än hos vissa släktingar, torr matt eller läderartad. Huden är svår att dra av och lossnar vanligen bara i flikar.",
+      "hymenium": "Rör upp till 1 cm långa, vidvuxna till svagt nedlöpande, först blekt grågula, senare olivgula till rostockra eller grågröna. Porer stora, kantiga och sammansatta (varje mynning delad i mindre rum), samma färg som rören, mörknande vid tryck. De avsöndrar inga mjölkaktiga droppar.",
+      "stipe": "Fot 3–8 cm hög och 0,5–2 cm tjock, ofta förhållandevis kort, cylindrisk eller avsmalnande mot basen, ung klubblik, solid, utan ring och utan körtelprickar. Samma färg som hatten eller blekare, mot basen ibland rödbrun. Vid basen ofta med vitaktigt till rosa mycel.",
+      "flesh": "Kött mjukt men gummiaktigt-elastiskt, i hatten vitaktigt, blegult eller lerrosa, i fotens bas ofta mer rosa eller rödaktigt. Vid genomskärning blånar det inte, eller bara mycket svagt grått eller rosa. Lukt svagt fruktig; smak mild och lätt syrlig. Vid kokning eller torkning blir köttet ofta rosa till violett.",
+      "sporePrint": "Sporavtryck olivgrönt till olivbrunt. Sporer släta, nästan spolformiga, 7–10 × 3–4 µm.",
+      "habitat": "Ektomykorrhizasvamp hos tvåbarriga tallar, särskilt tall (Pinus sylvestris), på fattig, sandig och sur jord, ofta i unga planteringar, längs stigar och i gläntor och ibland bland ljung. Den växer vanligen i grupper eller tuvor, ibland i stora mattor. Allmän i Europa och även noterad där tallar har planterats, inklusive delar av Nya Zeeland. I stora delar av Centraleuropa fruktkroppar från juni eller juli till november; i Storbritannien och Irland hittas den oftare från augusti till november, och längre söderut kan säsongen vara längre. Den åtföljs ofta av Gomphidius roseus, en rosahattad skivsvamp som lever tillsammans med den under tallar.",
+      "uses": "Ätlig, men av blygsam kvalitet: köttet är gummiaktigt och smaken mild och lätt syrlig. Unga, fasta fruktkroppar är bäst. Dra av den slemmiga hatthuden före tillagning och ta bort rören hos äldre exemplar för att minska slemmigheten och risken för magbesvär som vissa människor rapporterar av huden hos Suillus-arter. Den passar bättre i blandning med andra svampar än ensam. Koka den grundligt.",
+      "confusion": "Suillus granulatus växer också under tallar och saknar ring, men dess porer är små och enkla, inte stora och sammansatta, de unga porerna avsöndrar mjölkaktiga droppar och den övre delen av foten är besatt med korn. Smörsopp (Suillus luteus) har en hinnalik ring och en mörkare brun, slemmig hatt. Lärksopp (Suillus grevillei) växer under lärk och har en guldgul hatt och en ring. Mörk grynsopp (Suillus collinitus) har finare porer och rosa mycel vid fotens bas, och hatten visar ofta mörka radiära streck. Suillus variegatus har en torrare, fint fjällig eller filtig hatt och mindre olivfärgade porer, och köttet blånar ofta svagt. Ingen av dessa förväxlingar är farlig; den främsta risken är förväxling med en sopp vars kött blånar starkt eller smakar bittert, vilket denna art inte gör.",
+      "notes": "De mest tillförlitliga fältkännetecknen är de stora sammansatta porerna, den blekare hatkanten, den ringlösa foten och det gummiaktiga köttet. Fruktkropparna växer ofta tryckta mot varandra, så att hattarna blir sneda.",
+      "names": [
+        "kosopp"
+      ],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/%C3%96rsopp",
+        "https://www.gbif.org/species/7623986",
+        "https://www.inaturalist.org/taxa/337850"
+      ],
+      "label": "örsopp"
+    },
+    "tr": {
+      "description": "Çam ormanlarının küçük veya orta boy bir borucuklu mantarı; çoğu kez yoksul, kumlu ve asitli topraklarda sık kümeler halinde bulunur. Daha soluk kenarlı, sümüksü, kil sarısından turuncu kahverengiye şapkası, büyük köşeli bileşik gözenekleri ve şapkayla aynı renkte, halkasız sapı ile tanınır. Etli kısım lastiksi ve mavileşmez.",
+      "cap": "Şapka 3–12 cm genişliğinde; önce kubbemsi, sonra basık ve kenarda çoğu kez düzensiz veya dalgalı. Kenar, şapkanın geri kalanından daha soluktur ve gençlerde içe kıvrıktır. Soluk sarı, okr, kil turuncusu veya pembemsi kahverengi, yaşla soluklaşır. Yüzey düz, nemliyken parlak ve sümüksü, bazı akrabalardan daha az; kuruyken mat veya derimsi. Kabuk zor soyulur ve genellikle yalnız parçalar halinde gelir.",
+      "hymenium": "Borucuklar 1 cm’ye kadar uzun, bitişik ila hafifçe aşağı inen, önce soluk gri-sarı, sonra zeytin sarısından pas okrına veya gri-yeşile döner. Gözenekler büyük, köşeli ve bileşiktir (her açıklık daha küçük bölmelere ayrılır), borucuklarla aynı renkte, basınca koyulaşır. Sütümsü damlacık salgılamazlar.",
+      "stipe": "Sap 3–8 cm boyunda ve 0,5–2 cm kalınlığında, çoğu kez oldukça kısa, silindirik veya tabana doğru daralan, gençlerde sopa biçimli, dolu, halkasız ve salgı bezeli noktasız. Şapkayla aynı renkte veya daha soluk, tabana doğru bazen kırmızımsı kahverengi. Tabanda çoğu kez beyazımsı ila pembemsi miselyum bulunur.",
+      "flesh": "Etli kısım yumuşak ama lastiksi-esnek, şapkada beyazımsı, soluk sarı veya kil pembesi, sap tabanında çoğu kez daha pembe veya kırmızımsı. Kesince mavileşmez ya da yalnızca çok hafif griye veya pembeye döner. Koku hafif meyvemsi; tat yumuşak ve biraz ekşimsi. Pişirme veya kurutmada etli kısım çoğu kez pembeden mora döner.",
+      "sporePrint": "Spor izi zeytin yeşilinden zeytin kahverengine. Sporlar düz, hemen hemen iğ biçimli, 7–10 × 3–4 µm.",
+      "habitat": "İki iğneli çamların, özellikle sarıçamın (Pinus sylvestris) ektomikorizal mantarı; yoksul, kumlu ve asitli topraklarda, çoğu kez genç dikimlerde, yollar boyunca ve açıklıklarda, bazen fundalıkta. Genellikle kümeler veya demetler halinde, bazen geniş örtülerde büyür. Avrupa’da yaygındır ve çamların dikildiği yerlerde, Yeni Zelanda’nın bazı kesimleri dahil, de kaydedilmiştir. Orta Avrupa’nın büyük bölümünde haziran veya temmuzdan kasıma kadar meyve verir; Britanya ve İrlanda’da daha çok ağustostan kasıma kadar bulunur, daha güneyde mevsim uzayabilir. Sıklıkla, çamların altında onunla yaşayan pembe şapkalı lamelli bir mantar olan Gomphidius roseus eşlik eder.",
+      "uses": "Yenilebilir, ama niteliği mütevazıdır: etli kısım lastiksi, tat yumuşak ve biraz ekşimsi. En iyisi genç, sıkı meyve gövdeleridir. Pişirmeden önce şapkanın sümüksü kabuğunu soyun ve yaşlı örneklerde borucukları çıkarın; sümüksülüğü ve bazı kişilerin Suillus türlerinin kabuğuna bağladığı mide rahatsızlığı riskini azaltmak için. Yalnız başına olmaktan çok diğer mantarlarla karışımda daha iyidir. İyice pişirin.",
+      "confusion": "Suillus granulatus de çamların altında büyür ve halkası yoktur, ama gözenekleri küçük ve basittir, büyük ve bileşik değildir; genç gözenekler sütümsü damlacık salgılar ve sapın üst kısmı taneciklidir. Suillus luteus zarlı bir halkaya ve daha koyu kahverengi, sümüksü bir şapkaya sahiptir. Suillus grevillei karaçamlar (Larix) altında büyür, altın sarısı şapkası ve halkası vardır. Suillus collinitus daha ince gözenekli ve sap tabanında pembe miselyumludur, şapkada çoğu kez koyu ışınsal çizgiler görülür. Suillus variegatus daha kuru, ince pulcuklu veya keçe gibi bir şapkaya ve daha küçük zeytin rengi gözeneklere sahiptir, eti çoğu kez hafifçe mavileşir. Bu karıştırmaların hiçbiri tehlikeli değildir; asıl risk, eti güçlü biçimde mavileşen veya acı tadı olan bir borucuklu mantarla karıştırmaktır; bu tür bunu yapmaz.",
+      "notes": "Arazideki en güvenilir özellikler büyük bileşik gözenekler, şapkanın daha soluk kenarı, halkasız sap ve lastiksi ettir. Meyve gövdeleri çoğu kez birbirine basılı büyür, bu yüzden şapkalar çarpık olur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий або середнього розміру трубчастий гриб соснових лісів, часто густими групами на бідних, піщаних і кислих ґрунтах. Його впізнають за слизовою, глинисто-жовтою до оранжево-бурої шапинкою з блідішим краєм, великими кутастими складними порами та ніжкою без кільця, забарвленою як шапинка. М’якуш гумовий і не синіє.",
+      "cap": "Шапинка 3–12 см у діаметрі; спочатку випукла, потім сплощена і по краю часто неправильна або хвиляста. Край блідіший за решту шапинки і в молодих загорнутий. Блідо-жовта, вохриста, глинисто-оранжева або рожевувато-бура, з віком вицвітає. Поверхня гладка, у вологу погоду блискуча й слизиста, менше, ніж у деяких споріднених видів, у суху матова або шкіряста. Шкірка знімається важко і зазвичай сходить лише клаптиками.",
+      "hymenium": "Трубочки довжиною до 1 см, прирослі до слабко низбіжних, спочатку блідо-сірувато-жовті, потім оливково-жовті до іржаво-вохристих або сіро-зелених. Пори великі, кутасті й складні (кожна вічка поділена на менші комірки), того ж кольору, що й трубочки, при натисканні темнішають. Молочних крапель вони не виділяють.",
+      "stipe": "Ніжка 3–8 см заввишки і 0,5–2 см завтовшки, часто відносно коротка, циліндрична або звужена до основи, у молодих булавоподібна, виповнена, без кільця і без залозистих крапок. Того ж кольору, що й шапинка, або блідіша, до основи інколи червонувато-бура. Біля основи часто з білуватим до рожевуватого міцелієм.",
+      "flesh": "М’якуш м’який, але гумово-пружний, у шапинці білуватий, блідо-жовтий або глинисто-рожевий, в основі ніжки часто рожевіший або червонуватий. На розрізі не синіє або лише дуже слабко сіріє чи рожевіє. Запах слабко фруктовий; смак м’який, злегка кислуватий. Під час варіння або сушіння м’якуш часто рожевіє до фіолетового.",
+      "sporePrint": "Споровий порошок оливково-зелений до оливково-бурого. Спори гладкі, майже веретеноподібні, 7–10 × 3–4 µm.",
+      "habitat": "Ектомікоризний гриб двохголочкових сосен, особливо сосни звичайної (Pinus sylvestris), на бідних, піщаних і кислих ґрунтах, часто в молодих насадженнях, уздовж стежок і на галявинах, інколи серед вересу. Зазвичай росте групами або пучками, інколи широкими килимами. Звичайний у Європі й зазначений також там, де сосни посаджено, зокрема в частинах Нової Зеландії. На більшій частині Центральної Європи плодоносить з червня або липня до листопада; у Великій Британії та Ірландії частіше трапляється з серпня до листопада, а південніше сезон може тривати довше. Часто його супроводжує Gomphidius roseus, рожевошапинковий пластинчастий гриб, що живе з ним під соснами.",
+      "uses": "Їстівний, але скромної якості: м’якуш гумовий, смак м’який і злегка кислуватий. Найкращі молоді, щільні плодові тіла. Перед приготуванням зніміть слизову шкірку шапинки, а в старих екземплярів видаліть трубочки, щоб зменшити слизистість і ризик шлункових розладів, які деякі люди пов’язують зі шкіркою грибів роду Suillus. Краще пасує в суміші з іншими грибами, ніж сам. Ретельно проваріть.",
+      "confusion": "Suillus granulatus також росте під соснами і не має кільця, але його пори дрібні й прості, не великі й складні, молоді пори виділяють молочні краплі, а верхня частина ніжки всипана зернятками. Маслюк звичайний (Suillus luteus) має плівчасте кільце і темнішу буру слизову шапинку. Маслюк модриновий (Suillus grevillei) росте під модринами, у нього золотисто-жовта шапинка і кільце. Suillus collinitus має тонші пори і рожевий міцелій біля основи ніжки, а на шапинці часто темні радіальні смужки. Suillus variegatus має сухішу, дрібнолускату або повстисту шапинку і дрібніші оливкові пори, і його м’якуш часто слабко синіє. Жодне з цих сплутувань не є небезпечним; головний ризик — сплутати з трубчастим грибом, м’якуш якого сильно синіє або гіркий, чого цей вид не робить.",
+      "notes": "Найнадійніші польові ознаки — великі складні пори, блідіший край шапинки, ніжка без кільця і гумовий м’якуш. Плодові тіла часто ростуть щільно, тож шапинки стають кривими.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D0%BB%D1%8F%D0%BA",
+        "https://www.inaturalist.org/taxa/337850",
+        "https://www.wikidata.org/wiki/Q1165762"
+      ],
+      "label": "козляк"
+    },
+    "zh": {
+      "description": "松林中的小型至中型管孔菌，常在贫瘠、砂质、酸性的土壤上成密丛出现。可凭黏滑、黏土黄至橙褐色、边缘较淡的菌蓋，大型角形的复合菌孔，以及与菌蓋同色、无菌环的菌柄来辨认。菌肉有橡胶质，不变蓝。",
+      "cap": "菌蓋宽3–12 cm；先凸后平，边缘常不规则或呈波状。边缘较菌蓋其余部分为淡，幼时内卷。淡黄、赭色、黏土橙色或粉褐色，随年龄褪淡。表面平滑，湿时有光泽并黏滑，程度不及某些近缘种，干时则暗淡或革质。表皮难剥，通常只成片脱落。",
+      "hymenium": "菌管长可达1 cm，贴生至稍延生，初为淡灰黄色，后为橄榄黄至锈赭色或灰绿色。菌孔大、角形且复合（每一开口再分为较小的小室），与菌管同色，按压后变暗。不分泌乳白色液滴。",
+      "stipe": "菌柄高3–8 cm，粗0.5–2 cm，往往相对较短，圆柱形或向基部渐细，幼时棒状，实心，无菌环，亦无腺点。与菌蓋同色或更淡，向基部有时红褐色。基部常有白色至粉红色菌丝。",
+      "flesh": "菌肉柔软但有橡胶般弹性，在菌蓋中近白、淡黄或黏土粉，在菌柄基部往往更粉或带红。切开不变蓝，或仅极淡地转灰或转粉。气味略带果香；味道温和、稍酸。烹煮或干燥时，菌肉常转为粉红以至紫红色。",
+      "sporePrint": "孢子印橄榄绿至橄榄褐。孢子平滑，近纺锤形，7–10 × 3–4 µm。",
+      "habitat": "与两针松、尤其欧洲赤松（Pinus sylvestris）形成外生菌根，生于贫瘠、砂质、酸性土壤，常见于幼龄造林、路旁空地，有时也在石楠丛中。通常成群或成丛，有时成大片。在欧洲常见，也记录于松树被栽植之处，包括新西兰部分地区。在中欧大部分地区，子实体自6月或7月至11月出现；在英国和爱尔兰较常于8月至11月见到，再往南季节可能更长。常有 Gomphidius roseus 伴生，那是一种粉红色菌蓋的褶菌，与本种同生于松下。",
+      "uses": "可食用，但品质一般：菌肉有橡胶质，味道温和、稍酸。以幼嫩结实的子实体为佳。烹前剥去菌蓋黏滑的表皮，老菌则去掉菌管，以减少黏滑，并降低有些人将肠胃不适与 Suillus 表皮联系起来的风险。与其他蘑菇同炒比单独食用更合适。须充分加热。",
+      "confusion": "Suillus granulatus 也生于松下且无菌环，但其菌孔小而单纯，并非大型复合孔，幼孔会分泌乳白色液滴，菌柄上部有颗粒。褐環乳牛肝菌（Suillus luteus）有膜质菌环，以及更深的褐色黏滑菌蓋。厚环乳牛肝菌（Suillus grevillei）生于落叶松下，有金黄色菌蓋和菌环。Suillus collinitus 菌孔更细，菌柄基部有粉红色菌丝，菌蓋上常有暗色放射条纹。Suillus variegatus 的菌蓋较干，细鳞或毡状，菌孔较小、呈橄榄色，菌肉常轻微变蓝。这些混淆都不危险；主要风险是与菌肉强烈变蓝或味苦的管孔菌相混，而本种并非如此。",
+      "notes": "野外最可靠的特征是大型复合菌孔、较淡的菌蓋边缘、无菌环的菌柄，以及橡胶质的菌肉。子实体常彼此挤生，菌蓋因而变得歪斜。",
+      "names": [
+        "粘盖乳牛肝菌",
+        "乳牛肝菌"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/7623986",
+        "https://www.wikidata.org/wiki/Q1165762",
+        "https://zh.wikipedia.org/wiki/%E4%B9%B3%E7%89%9B%E8%82%9D%E8%8F%8C"
+      ],
+      "label": "黏盖乳牛肝菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus bovinus",
+      "author": "L.",
+      "year": 1753,
+      "rank": "species",
+      "type": "basionym",
+      "if": 215589
+    },
+    {
+      "name": "Agaricus bovinus",
+      "author": "(L.) Lam.",
+      "year": 1783,
+      "rank": "species",
+      "type": "synonym",
+      "if": 494570
+    },
+    {
+      "name": "Viscipellis bovina",
+      "author": "(L.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "synonym",
+      "if": 580027
+    },
+    {
+      "name": "Ixocomus bovinus",
+      "author": "(L.) Quél.",
+      "year": 1888,
+      "rank": "species",
+      "type": "synonym",
+      "if": 456998
+    },
+    {
+      "name": "Mariaella bovina",
+      "author": "(L.) Šutara",
+      "year": 1987,
+      "rank": "species",
+      "type": "synonym",
+      "if": 131579
+    },
+    {
+      "name": "Boletus aestivus",
+      "author": "Schlotterb.",
+      "year": 1760,
+      "rank": "species",
+      "type": "synonym",
+      "if": 495501
+    },
+    {
+      "name": "Boletus mitis",
+      "author": "Pers.",
+      "year": 1825,
+      "rank": "species",
+      "type": "synonym",
+      "if": 197156
+    },
+    {
+      "name": "Ixocomus mitis",
+      "author": "(Pers.) Quél.",
+      "year": 1888,
+      "rank": "species",
+      "type": "synonym",
+      "if": 654019
+    },
+    {
+      "name": "Boletus congoensis",
+      "author": "(Beeli) Heinem.",
+      "year": 1951,
+      "rank": "species",
+      "type": "synonym",
+      "if": 293750
+    }
+  ],
+  "reserved": false,
+  "id": 224,
+  "citation": "Fl. Calvados: 34 (1796)"
+},
+{
+  "name": "Suillus granulatus",
+  "author": "(L.) Roussel",
+  "family": "Suillaceae",
+  "genus": "Suillus",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Suillaceae",
+    "Suillus"
+  ],
+  "summary": [
+    "Boletales",
+    "Suillaceae",
+    "Suillus"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "tubes",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 3.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 10.0,
+  "stipeThickFrom": 0.8,
+  "stipeThickTo": 2.0,
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "label": {
+    "ar": "بوليط حليبي النسغ",
+    "bg": "зърнеста масловка",
+    "cs": "klouzek zrnitý",
+    "da": "kornet slimrørhat",
+    "de": "Körnchen-Röhrling",
+    "en": "weeping bolete",
+    "et": "lambatatik",
+    "fi": "jyvästatti",
+    "fr": "Bolet granuleux",
+    "he": "אורנייה מצויה",
+    "hu": "szemcsésnyelű fenyőtinóru",
+    "ja": "チチアワタケ",
+    "lt": "šilinis kazlėkas",
+    "lv": "graudainā sviestbeka",
+    "nl": "melkboleet",
+    "no": "ringløs smørsopp",
+    "pl": "maślak ziarnisty",
+    "ru": "маслёнок зернистый",
+    "sk": "masliak zrnitý",
+    "sl": "ovčarska lupljivka",
+    "sv": "grynsopp",
+    "uk": "маслюк зернистий",
+    "zh": "点柄乳牛肝菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "klouzek ovčí"
+    ],
+    "da": [],
+    "de": [
+      "Körnchenröhrling",
+      "Schmerling"
+    ],
+    "en": [
+      "granulated bolete",
+      "dotted-stalked suillus"
+    ],
+    "es": [],
+    "et": [
+      "lambatatt",
+      "lambapuravik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Bolet granulé"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "šližiukas"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "ringlaus smørsopp"
+    ],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "зернистый маслёнок"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "點柄乳牛肝菌",
+      "点柄粘盖牛肝菌",
+      "点柄黏盖牛肝菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=291277",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=291277",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=291277",
+      "https://www.gbif.org/species/8146046",
+      "https://www.first-nature.com/fungi/suillus-granulatus.php",
+      "https://www.myko.cz/myko-atlas/Suillus-granulatus/",
+      "https://www.nahuby.sk/atlas-hub/Suillus-granulatus/masliak-zrnity/klouzek-zrnity/ID279",
+      "https://en.wikipedia.org/wiki/Suillus_granulatus",
+      "https://www.inaturalist.org/taxa/179065",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "ar": [
+      "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84%D9%8A%D8%B7_%D8%AD%D9%84%D9%8A%D8%A8%D9%8A_%D8%A7%D9%84%D9%86%D8%B3%D8%BA",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/%D0%97%D1%8A%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%B0_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Suillus-granulatus/",
+      "https://cs.wikipedia.org/wiki/Klouzek_zrnit%C3%BD",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/K%C3%B6rnchen-R%C3%B6hrling",
+      "https://www.gbif.org/species/8146046",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Lambatatik",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.gbif.org/species/8146046",
+      "https://fi.wikipedia.org/wiki/Jyv%C3%A4statti",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/8146046",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "he": [
+      "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%A0%D7%99%D7%99%D7%94_%D7%9E%D7%A6%D7%95%D7%99%D7%94",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Szemcs%C3%A9snyel%C5%B1_feny%C5%91tin%C3%B3ru",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%81%E3%82%A2%E3%83%AF%E3%82%BF%E3%82%B1",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/%C5%A0ilinis_kazl%C4%97kas",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Graudain%C4%81_sviestbeka",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "nl": [
+      "https://www.gbif.org/species/8146046",
+      "https://nl.wikipedia.org/wiki/Melkboleet",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "no": [
+      "https://www.gbif.org/species/8146046",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Ma%C5%9Blak_ziarnisty",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%91%D0%BD%D0%BE%D0%BA_%D0%B7%D0%B5%D1%80%D0%BD%D0%B8%D1%81%D1%82%D1%8B%D0%B9",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Suillus-granulatus/masliak-zrnity/klouzek-zrnity/ID279",
+      "https://www.inaturalist.org/taxa/179065",
+      "https://fotonet.sk/atlas/fungi_huby/suillus-granulatus"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Ov%C4%8Darska_lupljivka",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.gbif.org/species/8146046",
+      "https://sv.wikipedia.org/wiki/Grynsopp",
+      "https://www.wikidata.org/wiki/Q1142857"
+    ],
+    "tr": [],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%8E%D0%BA_%D0%B7%D0%B5%D1%80%D0%BD%D0%B8%D1%81%D1%82%D0%B8%D0%B9",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ],
+    "zh": [
+      "https://www.gbif.org/species/8146046",
+      "https://www.wikidata.org/wiki/Q1142857",
+      "https://www.inaturalist.org/taxa/179065"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_1.webp",
+      "author": "Oleg Kosterin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/304127485"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_2.webp",
+      "author": "agujaceratops",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/81180176"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_3.webp",
+      "author": "relew",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/223749103"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_4.webp",
+      "author": "agujaceratops",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/64124633"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_5.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.inaturalist.org/observations/305492561"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 be6bd8269664a7234c15b113cf2d0e0324a5ea93e21c0a57830d815953d8e5d3, Exif Orientation 1) has a cursive “Gemini” mark at the lower right. plate --mode fit: scale 2.000 (upscaled; disclose softness), cropBox [96, 0, 1600, 2400] (96 output px / 48 source px each side, no vertical crop). Visual inspection of the @1600 fit confirms that all figures (main cinnamon-brown cap with a ringless, glandular-dotted yellow stem; young dark-brown convex specimen with droplets on the stem; underside with small yellow pores and milky droplets; longitudinal section with pale yellow unchanging flesh and yellow tubes; a small group among pine needles, moss and a pine cone) and the signature remain fully inside the trimmed frame; only paper margin is cut. Nothing was erased or painted. @1600 SHA-256 f4f58187009ff0ff91def16d891f3b17a0571b65a755a14c414271c04dcfb78f; @400 SHA-256 679600ce80a7f8ffbacc75c1c9354e9fa998eb1212bfcff28fc2f3e71b49a36f."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_1.webp",
+      "author": "Oleg Kosterin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/304127485"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_2.webp",
+      "author": "agujaceratops",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/81180176"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_3.webp",
+      "author": "relew",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/223749103"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_4.webp",
+      "author": "agujaceratops",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/64124633"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Suillaceae/Suillus_granulatus/Suillus_granulatus_5.webp",
+      "author": "Björn Sothmann",
+      "license": "CC BY-SA 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/305492561"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر أنبوبي متوسط الحجم في غابات الصنوبر ثنائي الأوراق. يُعرف بالقبعة اللزجة بلون القرفة إلى البني البرتقالي، والمسام الصفراء الصغيرة البسيطة التي تفرز قطرات لبنية في الأجسام الفتية، والساق الصفراء الشاحبة بلا حلقة والمنقطة بحبيبات في جزئها العلوي. اللحم أصفر شاحب ولا يزرق.",
+      "cap": "القبعة ٣–١٢ سم عرضًا؛ محدبة أولًا ثم مسطحة، بحافة ملفوفة عند الفتية. بنية قرفة أو بنية برتقالية صدئة أو بنية مصفرة، غالبًا ما تشحب مع التقدم في العمر، ملساء، لامعة ولزجة وهي رطبة، لامعة وهي جافة. تنقشر القشرة بسهولة. لا توجد خطوط شعاعية داكنة.",
+      "hymenium": "الأنابيب بطول يصل إلى نحو ١ سم، ملتصقة إلى هابطة قليلًا، أصفر ليموني أولًا ثم أصفر ترابي أو بني مصفر. المسام صغيرة وبسيطة (غير مركبة)، بلون الأنابيب نفسه، وتفرز في الفتية قطرات بيضاء لبنية؛ تترك القطرات الجافة بقعًا بنية. لا تزرق عند الضغط.",
+      "stipe": "الساق بطول ٤–١٠ سم وسُمك ٠٫٨–٢ سم، أسطوانية أو تضيق قليلًا نحو القاعدة، مصمتة، أصفر ليموني شاحب إلى مبيض، بلا حلقة ولا حجاب. النصف العلوي منقط بحبيبات غدية صغيرة، شاحبة أولًا ثم بنية. لا يوجد مشيج وردي عند القاعدة.",
+      "flesh": "اللحم أصفر شاحب إلى مبيض، وأصفر ليموني أعمق فوق الأنابيب وفي الساق، طري ثم مائي في القبعة، لا يتغير عند القطع أو يغمق قليلًا فقط — لا يزرق. الرائحة ضعيفة، فاكهية أو حامضة قليلًا؛ الطعم لطيف وحامض قليلًا.",
+      "sporePrint": "طبعة الأبواغ أصفر ترابي إلى بني مصفر أو بني سيينا. الأبواغ ملساء، شبه مغزلية، ٨–١٠ × ٢٫٥–٤ ميكرومتر.",
+      "habitat": "فطر خارجي التعايش مع صنوبر ثنائي الأوراق، ولا سيما الصنوبر الإسكتلندي (Pinus sylvestris) والصنوبر الأسود (Pinus nigra)، في تربة رملية أو كلسية، وكذلك في حواف الغابات والقطع وعلى جوانب الطرق وفي عشب قصير تحت الصنوبر. كثيرًا ما ينمو في مجموعات أو أسراب. واسع الانتشار في أوروبا وفي جزء كبير من المنطقة المعتدلة في نصف الكرة الشمالي، وأُدخل إلى مواضع أخرى مع الصنوبر المزروع. في وسط أوروبا يثمر من يونيو إلى نوفمبر؛ وفي بريطانيا وأيرلندا يُوجد في الغالب من يوليو إلى نوفمبر، وقد يمتد الموسم جنوبًا.",
+      "uses": "يؤكل بحذر. كثير من الأدلة في وسط أوروبا تقيّمه عاليًا، لكن قشرة القبعة اللزجة وأنابيب الأجسام القديمة تُزال عادة، ويعاني بعض الناس اضطرابات معدية من أنواع Suillus. قشّر القبعة، أزل الأنابيب القديمة، اطبخ جيدًا وجرّب كمية صغيرة فقط في المرة الأولى. أفضلها الأجسام الفتية المتماسكة. لا يُعامل في هذا الفهرس على أنه فطر مأكول ممتاز.",
+      "confusion": "Suillus luteus ينمو أيضًا تحت الصنوبر، لكن له حلقة غشائية واضحة وقبعة لزجة بنية أغمق. Suillus collinitus بلا حلقة أيضًا وهو شديد الشبه، لكن القبعة تظهر غالبًا خطوطًا شعاعية داكنة، وقاعدة الساق ملفوفة بمشيج وردي. Suillus bovinus له مسام كبيرة زاويّة مركبة وساق بلا حلقة ولا حبيبات غدية. لا خطر في أي من هذه الأشباه. السجلات شمال الأمريكية باسم S. granulatus غالبًا أنواع أخرى، مثل Suillus weaverae.",
+      "notes": "أوثق الصفات في الحقل اجتماع ساق لزجة بلا حلقة ومنقطة بالحبيبات، ومسام صفراء صغيرة بسيطة «تبكي» في الفتية، والنمو تحت صنوبر ثنائي الأوراق. تنقشر قشرة القبعة بسهولة.",
+      "names": [],
+      "sourceUrls": [
+        "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84%D9%8A%D8%B7_%D8%AD%D9%84%D9%8A%D8%A8%D9%8A_%D8%A7%D9%84%D9%86%D8%B3%D8%BA",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "بوليط حليبي النسغ"
+    },
+    "bg": {
+      "description": "Средна тръбеста гъба на борови гори с двуиглеста хвоя. Познава се по слузестата канелено-оранжево-кафява шапка, дребните прости жълти пори, които при младите плодни тела отделят млечни капки, и бледожълтото пънче без пръстен, в горната част посипано със зрънца. Месото е бледожълто и не посинява.",
+      "cap": "Шапката е 3–12 cm широка; отначало изпъкнала, после сплескана, при младите с подвит ръб. Канеленокафява, ръждиво оранжевокафява или жълтеникавокафява, с възрастта често избледнява, гладка, при влага лъскава и слузеста, при сухо лъскава. Кожицата се бели лесно. Няма тъмни радиални ивици.",
+      "hymenium": "Тръбички дълги до около 1 cm, прираснали до слабо низбягващи, отначало лимоненожълти, после охра до кафявожълти. Порите са дребни и прости (не сложни), със същия цвят като тръбичките; при младите отделят бяло-млечни капки; изсъхналите капки оставят кафяви петънца. При натиск не посиняват.",
+      "stipe": "Пънчето е 4–10 cm дълго и 0,8–2 cm дебело, цилиндрично или към основата слабо стеснено, плътно, бледо лимоненожълто до белезникаво, без пръстен и без покривало. Горната половина е посипана с дребни жлезисти зрънца, отначало бледи, после кафеникави. В основата няма розов мицел.",
+      "flesh": "Месото е бледожълто до белезникаво, над тръбичките и в пънчето по-наситено лимоненожълто, меко, по-късно в шапката воднисто, на срез непроменено или само слабо по-тъмно — не посинява. Мирисът е слаб, леко плодов или кисел; вкусът е мек, леко кисел.",
+      "sporePrint": "Споровият прах е охра до жълтокафяв или сиена кафяв. Спорите са гладки, почти вретеновидни, 8–10 × 2,5–4 µm.",
+      "habitat": "Ектомикоризна гъба на двуиглести борове, особено обикновения бор (Pinus sylvestris) и черния бор (Pinus nigra), върху песъчливи или варовити почви, също по окраини, сечища, край пътеки и в ниска трева под борове. Често расте на групи или на войски. Разпространена в Европа и в голяма част от умерения пояс на Северното полукълбо и пренесена другаде със засадени борове. В Централна Европа плодните тела са от юни до ноември; във Великобритания и Ирландия по-често от юли до ноември, а по на юг сезонът може да е по-дълъг.",
+      "uses": "Ядлива с внимание. Много централноевропейски определители я ценят високо, но слузестата кожица на шапката и тръбичките на старите плодни тела обикновено се отстраняват, а някои хора получават стомашни неразположения от видовете Suillus. Обелете кожицата, отстранете старите тръбички, сварете добре и първия път опитайте само малко количество. Най-добри са младите, стегнати плодни тела. В този каталог не се води като първокласна ядлива гъба.",
+      "confusion": "Масловка (Suillus luteus) също расте под борове, но има ясен ципест пръстен и по-тъмна кафява слузеста шапка. Розовокрака масловка (Suillus collinitus) е също без пръстен и много сходна, но шапката често има тъмни радиални ивици, а основата на пънчето е обвита в розов мицел. Кравешка масловка (Suillus bovinus) има големи ъгловати сложни пори и пънче без пръстен и без жлезисти зрънца. Никой от тези сходни видове не е опасен. Северноамериканските находки под името S. granulatus често са други видове, например Suillus weaverae.",
+      "notes": "Най-надеждният белег на терена е съчетанието от слузесто пънче без пръстен с жлезисти зрънца, дребни прости жълти пори, които при младите „плачат“, и растеж под двуиглести борове. Кожицата на шапката се бели лесно.",
+      "names": [],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/%D0%97%D1%8A%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%B0_%D0%BC%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "зърнеста масловка"
+    },
+    "cs": {
+      "description": "Středně velká rourkatá houba dvoujehlicových borovic. Pozná se podle slizkého skořicového až oranžovohnědého klobouku, drobných jednoduchých žlutých pórů, které v mládí roní mléčné kapky, a bledě žlutého třeně bez prstenu, v horní části posetého zrníčky. Dužnina je bledě žlutá a nemodrá.",
+      "cap": "Klobouk 3–12 cm široký; zprvu vyklenutý, později zploštělý, v mládí s podvinutým okrajem. Skořicově hnědý, rezavě oranžovohnědý nebo nažloutle hnědý, stářím často blednoucí, hladký, za vlhka lesklý a slizký, za sucha lesklý. Pokožka se snadno sloupává. Nemá tmavé radiální pruhy.",
+      "hymenium": "Rourky dlouhé do asi 1 cm, přirostlé až slabě sbíhavé, zprvu citronově žluté, později okrové až hnědožluté. Póry drobné a jednoduché (ne složené), zbarvené jako rourky, v mládí roní bělavě mléčné kapky; po zaschnutí zůstávají hnědavé tečky. Při otlačení nemodrají.",
+      "stipe": "Třeň 4–10 cm dlouhý a 0,8–2 cm tlustý, válcovitý nebo k bázi slabě zúžený, plný, bledě citronově žlutý až bělavý, bez prstenu a bez vela. Horní polovina je poseta drobnými žláznatými zrníčky, zprvu bledými, později hnědavými. Při bázi není růžové mycelium.",
+      "flesh": "Dužnina bledě žlutá až bělavá, nad rourkami a ve třeni sytěji citronově žlutá, měkká, později v klobouku vodnatá, na řezu neměnná nebo jen slabě tmavší — nemodrá. Vůně slabá, slabě ovocná nebo nakyslá; chuť mírná, slabě nakyslá.",
+      "sporePrint": "Výtrusný prach okrový až žlutohnědý nebo sienna hnědý. Výtrusy hladké, téměř vřetenovité, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorhizní houba dvoujehlicových borovic, zejména borovice lesní (Pinus sylvestris) a borovice černé (Pinus nigra), na písčitých nebo vápnitých půdách, i na okrajích lesů, pasekách, podél cest a v nízké trávě pod borovicemi. Často roste ve skupinách nebo houfech. Rozšířená v Evropě a ve velké části mírného pásma severní polokoule a zavlečená i s vysazenými borovicemi jinde. Ve střední Evropě plodí od června do listopadu; v Británii a Irsku se častěji nachází od července do listopadu a dále na jihu může sezóna trvat déle.",
+      "uses": "Jedlá s opatrností. Mnohé středoevropské příručky ji hodnotí vysoko, ale slizká pokožka klobouku a rourky starších plodnic se obvykle odstraňují a některým lidem houby rodu Suillus způsobují zažívací potíže. Pokožku sloupněte, staré rourky odstraňte, důkladně uvařte a při prvním ochutnání vezměte jen malé množství. Nejlepší jsou mladé, pevné plodnice. V tomto katalogu není vedena jako prvotřídní jedlá houba.",
+      "confusion": "Klouzek obecný (Suillus luteus) roste rovněž pod borovicemi, ale má zřetelný blanitý prsten a tmavší hnědý slizký klobouk. Klouzek žíhaný (Suillus collinitus) je rovněž bez prstenu a velmi podobný, ale klobouk má často tmavé radiální pruhy a bázi třeně pokrývá růžové mycelium. Klouzek kravský (Suillus bovinus) má velké hranaté složené póry a třeň bez prstenu a bez žláznatých zrníček. Žádný z těchto druhů není nebezpečný. Severoamerické nálezy vedené jako S. granulatus jsou často jiné druhy, například Suillus weaverae.",
+      "notes": "Nejspolehlivějším znakem v terénu je kombinace slizkého třeně bez prstenu se žláznatými zrníčky, drobných jednoduchých žlutých pórů, které v mládí roní mléko, a růstu pod dvoujehlicovými borovicemi. Pokožka klobouku se dá snadno sloupnout.",
+      "names": [
+        "klouzek ovčí"
+      ],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Suillus-granulatus/",
+        "https://cs.wikipedia.org/wiki/Klouzek_zrnit%C3%BD",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "klouzek zrnitý"
+    },
+    "da": {
+      "description": "En middelstor rørhat i skove med tonålede fyrre. Den kendes på en slimet kanel- til orangebrun hat, små, enkle gule porer, der hos unge frugtlegemer afsondrer mælkeagtige dråber, og en ringløs, bleggul stok, der i den øvre del er besat med korn. Kødet er bleggult og blåner ikke.",
+      "cap": "Hat 3–12 cm bred; først hvælvet, senere fladtrykt, hos unge med indrullet rand. Kanelbrun, rusten orangebrun eller gulligbrun, med alderen ofte afblegende, glat, fugtig blank og slimet, tør blank. Huden lader sig let trække af. Ingen mørke radiale striber.",
+      "hymenium": "Rør op til ca. 1 cm lange, tilvoksede til svagt nedløbende, først citrongule, senere okker til brungule. Porer små og enkle (ikke sammensatte), samme farve som rørene, hos unge afsondrende mælkehvide dråber; de tørre dråber efterlader brunlige pletter. De blåner ikke ved tryk.",
+      "stipe": "Stok 4–10 cm lang og 0,8–2 cm tyk, cylindrisk eller svagt tilspidset mod basis, solid, bleg citrongul til hvidlig, uden ring og uden slør. Den øvre halvdel er besat med små glandulære korn, først blege, senere brunlige. Ved basis intet rosa mycelium.",
+      "flesh": "Kød bleggult til hvidligt, over rørene og i stokken dybere citrongult, blødt, senere vandigt i hatten, uforandret eller kun svagt mørkere i snit — det blåner ikke. Lugt svag, let frugtagtig eller syrlig; smag mild, let syrlig.",
+      "sporePrint": "Sporeaftryk okker- til gulbrunt eller sienna-brunt. Sporer glatte, næsten tenformede, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorrhizadannende med tonålede fyrre, især skovfyr (Pinus sylvestris) og sortfyr (Pinus nigra), på sandet eller kalkholdig bund, også i skovbryn, på lysninger, langs stier og i kort græs under fyrre. Ofte i grupper eller flokke. Udbredt i Europa og i store dele af den tempererede nordlige halvkugle, og indført med plantede fyrre andre steder. I Centraleuropa frugtlegemer fra juni til november; i Storbritannien og Irland oftere fra juli til november, og længere sydpå kan sæsonen vare længere.",
+      "uses": "Spiselig med forsigtighed. Mange centraleuropæiske håndbøger vurderer den højt, men den slimet hathud og rørene på ældre frugtlegemer fjernes som regel, og nogle mennesker får maveonde af Suillus-arter. Træk huden af, fjern gamle rør, kog grundigt, og prøv første gang kun en lille mængde. Unge, faste frugtlegemer er bedst. I dette katalog regnes den ikke som en udsøgt spisesvamp.",
+      "confusion": "Brungul slimrørhat (Suillus luteus) vokser også under fyrre, men har en tydelig hindeagtig ring og en mørkere brun, slimet hat. Rosafodet slimrørhat (Suillus collinitus) er ligeledes ringløs og meget lig, men hatten har ofte mørke radiale striber, og stokbasen er omgivet af rosa mycelium. Grovporet slimrørhat (Suillus bovinus) har store, kantede, sammensatte porer og en ringløs stok uden glandulære korn. Ingen af disse forvekslingsarter er farlige. Nordamerikanske fund under navnet S. granulatus er ofte andre arter, for eksempel Suillus weaverae.",
+      "notes": "Det mest pålidelige feltkendetegn er kombinationen af en slimet, kornet, ringløs stok, små enkle gule porer, der hos unge ‘græder’, og vækst under tonålede fyrre. Hathuden lader sig let trække af.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "kornet slimrørhat"
+    },
+    "de": {
+      "description": "Ein mittelgroßer Röhrling der zweinadeligen Kiefernwälder. Er ist kenntlich an einem schleimigen zimt- bis orangebraunen Hut, kleinen, einfachen gelben Poren, die bei jungen Fruchtkörpern milchige Tröpfchen absondern, und einem ringlosen, blassgelben Stiel, der im oberen Teil mit Körnchen besetzt ist. Das Fleisch ist blassgelb und blaut nicht.",
+      "cap": "Hut 3–12 cm breit; zuerst gewölbt, später abgeflacht, jung mit eingerolltem Rand. Zimtbraun, rostig orangebraun oder gelblichbraun, im Alter oft ausblassend, glatt, feucht glänzend und schleimig, trocken glänzend. Die Huthaut lässt sich leicht abziehen. Keine dunklen radialen Streifen.",
+      "hymenium": "Röhren bis etwa 1 cm lang, angewachsen bis leicht herablaufend, zuerst zitronengelb, später ocker bis braungelb. Poren klein und einfach (nicht zusammengesetzt), von derselben Farbe wie die Röhren, bei jungen Exemplaren milchig-weiße Tröpfchen absondernd; die trockenen Tropfen hinterlassen bräunliche Flecken. Sie blauen nicht bei Druck.",
+      "stipe": "Stiel 4–10 cm lang und 0,8–2 cm dick, zylindrisch oder zur Basis hin leicht verjüngt, voll, blass zitronengelb bis weißlich, ohne Ring und ohne Hülle. Die obere Hälfte ist mit kleinen drüsigen Körnchen besetzt, die zuerst blass sind und später bräunen. An der Basis kein rosa Myzel.",
+      "flesh": "Fleisch blassgelb bis weißlich, über den Röhren und im Stiel kräftiger zitronengelb, weich, später im Hut wässrig, im Schnitt unverändert oder nur schwach dunkler — es blaut nicht. Geruch schwach, leicht fruchtig oder säuerlich; Geschmack mild, leicht säuerlich.",
+      "sporePrint": "Sporenpulver ocker- bis gelbbraun oder sienna-braun. Sporen glatt, fast spindelförmig, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorrhizapilz zweinadeliger Kiefern, besonders der Waldkiefer (Pinus sylvestris) und der Schwarzkiefer (Pinus nigra), auf sandigen oder kalkhaltigen Böden, auch an Waldrändern, auf Lichtungen, an Wegrändern und im kurzen Gras unter Kiefern. Oft in Gruppen oder Trupps. Weit verbreitet in Europa und in großen Teilen der gemäßigten Nordhalbkugel, auch mit gepflanzten Kiefern anderswo eingeschleppt. In Mitteleuropa fruktifiziert er von Juni bis November; in Großbritannien und Irland findet man ihn häufiger von Juli bis November, weiter südlich kann die Saison länger dauern.",
+      "uses": "Essbar mit Vorsicht. Viele mitteleuropäische Führer schätzen ihn hoch, aber die schleimige Huthaut und die Röhren älterer Fruchtkörper werden gewöhnlich entfernt, und manche Menschen bekommen durch Suillus-Arten Magenbeschwerden. Die Huthaut abziehen, alte Röhren entfernen, gründlich kochen und beim ersten Mal nur eine kleine Menge versuchen. Am besten sind junge, feste Fruchtkörper. In diesem Katalog gilt er nicht als Speisepilz erster Wahl.",
+      "confusion": "Der Butter-Röhrling (Suillus luteus) wächst ebenfalls unter Kiefern, hat aber einen deutlichen häutigen Ring und einen dunkleren, braunen, schleimigen Hut. Der Ringlose Butterpilz (Suillus collinitus) ist ebenfalls ringlos und sehr ähnlich, aber der Hut zeigt oft dunkle Radialstreifen, und die Stielbasis ist von rosa Myzel umhüllt. Der Kuh-Röhrling (Suillus bovinus) hat große, eckige, zusammengesetzte Poren und einen ringlosen Stiel ohne drüsige Körnchen. Keiner dieser Doppelgänger ist gefährlich. Nordamerikanische Funde unter dem Namen S. granulatus sind oft andere Arten, etwa Suillus weaverae.",
+      "notes": "Das zuverlässigste Feldmerkmal ist die Verbindung aus einem schleimigen, körnig besetzten, ringlosen Stiel, kleinen einfachen gelben Poren, die in der Jugend tränen, und dem Wachstum unter zweinadeligen Kiefern. Die Huthaut lässt sich leicht abziehen.",
+      "names": [
+        "Körnchenröhrling",
+        "Schmerling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/K%C3%B6rnchen-R%C3%B6hrling",
+        "https://www.gbif.org/species/8146046",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "Körnchen-Röhrling"
+    },
+    "en": {
+      "description": "A medium bolete of two-needle pine woods, recognised by a slimy cinnamon to orange-brown cap, small simple yellow pores that weep milky droplets when young, and a ringless pale yellow stem dotted with granules towards the apex. The flesh is pale yellow and does not turn blue.",
+      "cap": "3–12 cm across; convex at first, then flattened, with an inrolled margin when young. Cinnamon-brown, rusty orange-brown or yellowish brown, often fading paler with age, smooth, shiny and slimy when wet and glossy when dry. The skin peels easily. There are no dark radial streaks.",
+      "hymenium": "Tubes up to about 1 cm long, adnate to slightly decurrent, pale lemon-yellow at first, then ochre to brown-yellow. Pores small and simple (not compound), the same colour as the tubes, exuding milky-white droplets when young; the droplets dry as brownish spots. They do not turn blue when bruised.",
+      "stipe": "4–10 cm long and 0.8–2 cm thick, cylindrical or slightly tapering towards the base, solid, pale lemon-yellow to whitish, without a ring or veil. The upper half is dotted with small glandular granules that are pale at first and darken to brown. The base has no pink mycelium.",
+      "flesh": "Pale yellow to whitish, a deeper lemon-yellow above the tubes and in the stem, soft, later watery in the cap, and unchanging or only faintly darker when cut — it does not turn blue. Smell faint and slightly fruity or sour; taste mild and slightly sour.",
+      "sporePrint": "Ochre to yellow-brown or sienna-brown. Spores smooth, subfusiform, 8–10 × 2.5–4 µm.",
+      "habitat": "Ectomycorrhizal with two-needle pines, especially Scots pine (Pinus sylvestris) and black pine (Pinus nigra), on sandy or calcareous ground, including woodland edges, clearings, path sides and short grass under pines. It often grows in groups or troops. Widespread in Europe and across much of the temperate Northern Hemisphere, and introduced with planted pines elsewhere. In Central Europe it fruits from June to November; in Britain and Ireland it is more often found from July to November, and the season can run later further south.",
+      "uses": "Edible with caution. Many Central European guides rate it highly, but the slimy cap skin and the tube layer of older specimens are usually removed, and some people get a stomach upset from Suillus species. Peel the cap, discard old tubes, cook thoroughly, and try only a small amount the first time. Young, firm fruit bodies are best. Not treated as a choice mushroom in this catalog.",
+      "confusion": "The slippery jack (Suillus luteus) also grows under pines but has a distinct membranous ring and a darker brown slimy cap. Suillus collinitus is very similar and likewise ringless, but its cap often has dark radial streaks and the stem base is sheathed in pink mycelium. The bovine bolete (Suillus bovinus) has large angular compound pores and a ringless stem without glandular dots. None of these lookalikes is dangerous. North American records named S. granulatus are often other species, such as Suillus weaverae.",
+      "notes": "The combination of a slimy ringless stem with glandular dots, small simple yellow pores that weep when young, and growth under two-needle pines is the most reliable field character. The cap skin peels readily, unlike the patchy peel of Suillus bovinus.",
+      "names": [
+        "granulated bolete",
+        "dotted-stalked suillus"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=291277",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=291277",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=291277",
+        "https://www.gbif.org/species/8146046",
+        "https://www.first-nature.com/fungi/suillus-granulatus.php",
+        "https://www.myko.cz/myko-atlas/Suillus-granulatus/",
+        "https://www.nahuby.sk/atlas-hub/Suillus-granulatus/masliak-zrnity/klouzek-zrnity/ID279",
+        "https://en.wikipedia.org/wiki/Suillus_granulatus",
+        "https://www.inaturalist.org/taxa/179065",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "weeping bolete"
+    },
+    "es": {
+      "description": "Un boleto de tamaño mediano de pinares de pinos de dos acículas. Se reconoce por un sombrero viscoso canela a pardo anaranjado, poros amarillos pequeños y simples que en los ejemplares jóvenes exudan gotitas lechosas, y un pie amarillo pálido sin anillo, punteado de gránulos en la parte superior. La carne es amarillo pálido y no azulea.",
+      "cap": "Sombrero de 3 a 12 cm de diámetro; al principio convexo, luego aplanado, con el margen enrollado en los jóvenes. Pardo canela, pardo anaranjado herrumbroso o pardo amarillento, a menudo más pálido con la edad, liso, brillante y viscoso en húmedo, brillante en seco. La cutícula se despega con facilidad. Sin estrías radiales oscuras.",
+      "hymenium": "Tubos de hasta unos 1 cm de largo, adnatos a ligeramente decurrentes, al principio amarillo limón, luego ocre a pardo amarillento. Poros pequeños y simples (no compuestos), del mismo color que los tubos, que en los jóvenes exudan gotitas blanco lechosas; al secarse dejan manchas pardo claras. No azulean al roce.",
+      "stipe": "Pie de 4 a 10 cm de largo y 0,8 a 2 cm de grosor, cilíndrico o un poco atenuado hacia la base, macizo, amarillo limón pálido a blanquecino, sin anillo ni velo. La mitad superior está punteada de pequeños gránulos glandulares, al principio pálidos y luego pardo claros. En la base no hay micelio rosado.",
+      "flesh": "Carne amarillo pálido a blanquecina, de un amarillo limón más intenso encima de los tubos y en el pie, blanda, luego acuosa en el sombrero, inmutable o solo un poco más oscura al corte: no azulea. Olor débil, ligeramente afrutado o ácido; sabor suave, un poco ácido.",
+      "sporePrint": "Esporada ocre a pardo amarillento o pardo siena. Esporas lisas, casi fusiformes, 8–10 × 2,5–4 µm.",
+      "habitat": "Especie ectomicorrícica de pinos de dos acículas, sobre todo el pino silvestre (Pinus sylvestris) y el pino negro (Pinus nigra), en suelos arenosos o calizos, también en orlas, claros, bordes de caminos y hierba corta bajo pinos. A menudo en grupos o tropas. Ampliamente extendida en Europa y en gran parte de la zona templada del hemisferio norte, e introducida en otros lugares con pinos plantados. En Europa central fructifica de junio a noviembre; en Gran Bretaña e Irlanda se encuentra más a menudo de julio a noviembre, y más al sur la temporada puede alargarse.",
+      "uses": "Comestible con precaución. Muchas guías de Europa central lo valoran mucho, pero suele quitarse la cutícula viscosa y los tubos de los ejemplares viejos, y algunas personas sufren molestias gástricas con los Suillus. Pele el sombrero, descarte los tubos viejos, cocine a fondo y pruebe solo una pequeña cantidad la primera vez. Los cuerpos jóvenes y firmes son los mejores. En este catálogo no se trata como un comestible excelente.",
+      "confusion": "El baboso (Suillus luteus) también crece bajo pinos, pero tiene un anillo membranoso nítido y un sombrero viscoso pardo más oscuro. Suillus collinitus es asimismo sin anillo y muy parecido, pero el sombrero suele mostrar estrías radiales oscuras y la base del pie está envuelta en micelio rosado. El boleto bovino (Suillus bovinus) tiene poros grandes, angulosos y compuestos y un pie sin anillo ni gránulos glandulares. Ninguno de estos semejantes es peligroso. Los registros norteamericanos nombrados S. granulatus suelen ser otras especies, por ejemplo Suillus weaverae.",
+      "notes": "El carácter de campo más fiable es la combinación de un pie viscoso sin anillo, granulado hacia el ápice, poros amarillos pequeños y simples que «lloran» en los jóvenes, y el crecimiento bajo pinos de dos acículas. La cutícula del sombrero se despega con facilidad.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Keskmise suurusega torik seen kaheokkaliste mändide puistutes. Teda tunneb ära limase kaneeli- kuni oranžikaspruuni kübaraga, väikeste lihtsate kollaste pooride järgi, millest noortel viljakehadel tilgub piimjaid piisku, ning rõngata, kahvatukollase jalaga, mille ülaosa on teraotstega. Liha on kahvatukollane ega sinistu.",
+      "cap": "Kübar 3–12 cm lai; algul kumer, hiljem lamenenud, noorelt sisserullunud servaga. Kaneelpruun, roosteoranžikaspruun või kollakaspruun, vananedes sageli kahvatuv, sile, niiskelt läikiv ja limane, kuivalt läikiv. Kübaranahka on lihtne maha koorida. Puuduvad tumedad kiirjad vöödid.",
+      "hymenium": "Torukesed kuni umbes 1 cm pikad, külgekasvanud kuni veidi allajooksvad, algul sidrunkollased, hiljem ookerjad kuni pruunkollased. Poorid väikesed ja lihtsad (mitte liitpoorid), torukestega sama värvi, noortel eritavad piimvalgeid piisku; kuivanud piisad jätavad prunakaid täppe. Vajutamisel ei sinistu.",
+      "stipe": "Jalg 4–10 cm pikk ja 0,8–2 cm jäme, silinderjas või aluse suunas veidi ahenev, täituv, kahvatu sidrunkollane kuni valkjas, ilma rõngata ja ilma loorita. Ülemine pool on kaetud väikeste näärmeliste teraotstega, algul kahvatute, hiljem prunakate. Alusel puudub roosakas mütseel.",
+      "flesh": "Liha kahvatukollane kuni valkjas, torukeste kohal ja jalas sügavama sidrunkollasena, pehme, hiljem kübaras vesine, lõikel muutumatu või vaid veidi tumedam — ei sinistu. Lõhn nõrk, kergelt puuviljane või hapukas; maitse leebe, kergelt hapukas.",
+      "sporePrint": "Eospulber ookerjas kuni kollakaspruun või siennapruun. Eosed siledad, peaaegu käävjad, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomükoriisne kaheokkaliste mändide, eriti hariliku männi (Pinus sylvestris) ja musta männi (Pinus nigra) seen liivastel või lubjarikastel muldadel, ka metsaservadel, lageraietel, teeservadel ja lühikeses rohus mändide all. Sageli rühmadena või salkadena. Levi Euroopas ja suures osas põhjapoolkera parasvöötmest ning viidud mujalegi istutatud mändidega. Kesk-Euroopas viljakehad juunist novembrini; Suurbritannias ja Iirimaal sagedamini juulist novembrini ning lõuna pool võib hooaeg kesta kauem.",
+      "uses": "Söödav ettevaatusega. Paljud Kesk-Euroopa käsiraamatud hindavad teda kõrgelt, kuid limane kübaranahk ja vanemate viljakehade torukesed eemaldatakse tavaliselt ning mõnel inimesel tekitavad Suillus'e liigid seedehäireid. Koorige nahk, eemaldage vanad torukesed, keetke põhjalikult ja proovige esimesel korral ainult väikest kogust. Parimad on noored, kindlad viljakehad. Selles kataloogis ei peeta teda esmaklassiliseks söögiseeneks.",
+      "confusion": "Võitatik (Suillus luteus) kasvab samuti mändide all, kuid tal on selge kilejas rõngas ja tumedam pruun limane kübar. Roosa tatik (Suillus collinitus) on samuti rõngata ja väga sarnane, kuid kübaral on sageli tumedad kiirjad vöödid ning jala alust katab roosakas mütseel. Lehmatatik (Suillus bovinus) on suured nurgelised liitpoorid ja rõngata jalg ilma näärmeliste teraotsteta. Ükski neist sarnastest liikidest ei ole ohtlik. Põhja-Ameerika leiud nime all S. granulatus on sageli teised liigid, näiteks Suillus weaverae.",
+      "notes": "Kõige usaldusväärsem tunnus looduses on limase, teraotstega, rõngata jala, väikeste lihtsate kollaste pooride, millest noortel tilgub vedelikku, ja kaheokkaliste mändide all kasvamise kooslus. Kübaranahk tuleb kergesti maha.",
+      "names": [
+        "lambatatt",
+        "lambapuravik"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Lambatatik",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "lambatatik"
+    },
+    "fa": {
+      "description": "قارچ لوله‌ای متوسط جنگل‌های کاج دوکاجه‌ای. با کلاهک لزج به رنگ دارچین تا قهوه‌ای نارنجی، روزنه‌های زرد کوچک و ساده که در جوانی قطره‌های شیری می‌دهند، و ساقه زرد کم‌رنگ بی‌حلقه که در نیمهٔ بالا دانه‌دانه است شناخته می‌شود. گوشت زرد کم‌رنگ است و آبی نمی‌شود.",
+      "cap": "کلاهک به پهنای ۳–۱۲ cm؛ نخست برآمده، سپس پهن، در جوان‌ها با حاشیه به درون پیچیده. قهوه‌ای دارچینی، قهوه‌ای نارنجی زنگاری یا قهوه‌ای مایل به زرد، که با سن اغلب رنگ می‌بازد، صاف، در رطوبت براق و لزج، در خشکی براق. پوست به‌آسانی کنده می‌شود. نوارهای شعاعی تیره ندارد.",
+      "hymenium": "لوله‌ها تا حدود ۱ cm درازا، چسبیده تا اندکی فرورو، نخست زرد لیمویی، سپس اخرایی تا قهوه‌ای‌زرد. روزنه‌ها کوچک و ساده‌اند (مرکب نیستند)، هم‌رنگ لوله‌ها، و در جوان‌ها قطره‌های سفید شیری ترشح می‌کنند؛ قطره‌های خشک لکه‌های قهوه‌ای بر جا می‌گذارند. با فشار آبی نمی‌شوند.",
+      "stipe": "ساقه به بلندی ۴–۱۰ cm و ستبرای ۰٫۸–۲ cm، استوانه‌ای یا به‌سوی پایه اندکی باریک‌شونده، توپر، زرد لیمویی کم‌رنگ تا سفیدک، بی‌حلقه و بدون پوشش. نیمهٔ بالایی با نقطه‌های غده‌ای ریز پوشیده است، نخست کم‌رنگ و سپس قهوه‌ای. در پایه میسلیوم صورتی نیست.",
+      "flesh": "گوشت زرد کم‌رنگ تا سفیدک، بالای لوله‌ها و در ساقه زرد لیمویی پررنگ‌تر، نرم، بعداً در کلاهک آبکی، در برش بدون تغییر یا فقط اندکی تیره‌تر — آبی نمی‌شود. بو ضعیف، اندکی میوه‌ای یا ترش؛ مزه ملایم و کمی ترش.",
+      "sporePrint": "نقش هاگ اخرایی تا قهوه‌ای‌زرد یا قهوه‌ای سیه‌نا. هاگ‌ها صاف، تقریباً دوکی، ۸–۱۰ × ۲٫۵–۴ µm.",
+      "habitat": "گونهٔ برون‌ریشه‌همزی کاج‌های دوکاجه‌ای، به‌ویژه کاج جنگلی (Pinus sylvestris) و کاج سیاه (Pinus nigra)، روی خاک شنی یا آهکی، همچنین در حاشیهٔ جنگل، برش‌ها، کنار مسیرها و در علف کوتاه زیر کاج‌ها. اغلب به گروه یا دسته می‌روید. در اروپا و بخش بزرگی از منطقهٔ معتدل نیمکرهٔ شمالی رایج است و با کاج‌های کاشته‌شده به جاهای دیگر نیز برده شده است. در اروپای مرکزی بدن‌های میوه‌ای از ژوئن تا نوامبر ظاهر می‌شوند؛ در بریتانیا و ایرلند بیشتر از ژوئیه تا نوامبر دیده می‌شود و در جنوب‌تر فصل ممکن است طولانی‌تر باشد.",
+      "uses": "با احتیاط خوراکی است. بسیاری از راهنماهای اروپای مرکزی آن را بالا می‌نهند، اما پوست لزج کلاهک و لوله‌های بدن‌های پیر معمولاً برداشته می‌شوند و در برخی افراد گونه‌های Suillus ناراحتی معده ایجاد می‌کنند. پوست را بکنید، لوله‌های کهنه را بردارید، خوب بپزید و بار نخست فقط مقدار کمی بچشید. بهترین‌ها بدن‌های جوان و سفت‌اند. در این فهرست به‌عنوان قارچ خوراکی ممتاز ثبت نشده است.",
+      "confusion": "Suillus luteus نیز زیر کاج‌ها می‌روید، اما حلقهٔ غشایی مشخص و کلاهک لزج قهوه‌ای تیره‌تری دارد. Suillus collinitus نیز بی‌حلقه و بسیار مشابه است، اما کلاهک اغلب نوارهای شعاعی تیره دارد و پایهٔ ساقه با میسلیوم صورتی پوشیده است. Suillus bovinus روزنه‌های بزرگ، گوشه‌دار و مرکب و ساقه‌ای بی‌حلقه و بدون نقطه‌های غده‌ای دارد. هیچ‌یک از این مشابهان خطرناک نیست. یافته‌های آمریکای شمالی به نام S. granulatus اغلب گونه‌های دیگرند، مثلاً Suillus weaverae.",
+      "notes": "قابل‌اعتمادترین نشانه در صحرا ترکیب ساقهٔ لزج بی‌حلقه با نقطه‌های غده‌ای، روزنه‌های زرد کوچک و ساده که در جوانی «می‌گریند»، و رویش زیر کاج‌های دوکاجه‌ای است. پوست کلاهک به‌آسانی کنده می‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Keskikokoinen tatikka kaksineulaisissa männiköissä. Sen tunnistaa limaisesta kanelin- tai oranssinruskeasta lakista, pienistä, yksinkertaisista keltaisista pillien suista, joista nuorina tihkuu maitomaisia pisaroita, sekä rengattomasta, vaaleankeltaisesta jalasta, jonka yläosa on jyväsinen. Malto on vaaleankeltaista eikä sinisty.",
+      "cap": "Laki 3–12 cm leveä; aluksi kupera, myöhemmin litistynyt, nuorena sisäänkiertynyt reuna. Kanelinruskea, ruosteisen oranssinruskea tai kellanruskea, iän myötä usein haalistuva, sileä, kosteana kiiltävä ja limainen, kuivana kiiltävä. Pintakate irtoaa helposti. Ei tummia säteittäisiä juovia.",
+      "hymenium": "Pillejä enintään noin 1 cm pitkiä, jalkaan kiinnittyneitä tai hieman johteisia, aluksi sitruunankeltaisia, myöhemmin okran- tai ruskeankeltaisia. Suut pieniä ja yksinkertaisia (eivät yhdysrakenteisia), samaa väriä kuin pillit, nuorina erittäen maitomaisen valkeita pisaroita; kuivuneet pisarat jättävät ruskehtavia laikkuja. Ne eivät sinisty painettaessa.",
+      "stipe": "Jalka 4–10 cm pitkä ja 0,8–2 cm paksu, lieriömäinen tai tyveä kohti hieman kapeneva, umpinainen, vaalean sitruunankeltainen tai valkeahko, ilman rengasta ja ilman verhoa. Yläpuolisko on pienten nystyräisten jyvästen peitossa, ensin vaaleina, myöhemmin ruskehtavina. Tyvellä ei ole vaaleanpunaista rihmastoa.",
+      "flesh": "Malto vaaleankeltaista tai valkeahkoa, pillien yllä ja jalassa syvemmän sitruunankeltaista, pehmeää, myöhemmin lakissa vetistä, leikkauspinnalla muuttumatonta tai vain hieman tummempaa — se ei sinisty. Tuoksu heikko, hieman hedelmäinen tai happamanvivahteinen; maku mieto, hieman hapahko.",
+      "sporePrint": "Itiöpöly okra- tai kellanruskeaa tai siennanruskeaa. Itiöt sileitä, lähes värttinämäisiä, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorritsainen kaksineulaisten mäntyjen, etenkin metsämännyn (Pinus sylvestris) ja mustamännyn (Pinus nigra), seuralainen hiekkaisilla tai kalkkipitoisilla mailla, myös metsien reunoilla, aukoilla, polunvarsilla ja lyhyessä ruohossa mäntyjen alla. Kasvaa usein ryhminä tai joukkoina. Laajalti Euroopassa ja suuressa osassa pohjoisen pallonpuoliskon lauhkeaa vyöhykettä, ja levinnyt istutettujen mäntyjen mukana muuallekin. Keski-Euroopassa itiöemiä kesäkuusta marraskuuhun; Britanniassa ja Irlannissa useammin heinäkuusta marraskuuhun, ja etelämpänä kausi voi kestää pidempään.",
+      "uses": "Syötävä varoen. Monet keskieurooppalaiset oppaat arvostavat sitä korkealle, mutta limainen pintakate ja vanhempien itiöemien pilit poistetaan yleensä, ja joillekin Suillus-lajit aiheuttavat vatsavaivoja. Kuori laki, poista vanhat pilit, kypsennä huolellisesti ja kokeile ensi kerralla vain pientä määrää. Nuoret, kiinteät itiöemät ovat parhaita. Tässä luettelossa sitä ei pidetä ensiluokkaisena ruokasienenä.",
+      "confusion": "Voitatti (Suillus luteus) kasvaa myös mäntyjen alla, mutta sillä on selvä kalvomainen rengas ja tummempi ruskea, limainen laki. Suillus collinitus on samoin rengaton ja hyvin samannäköinen, mutta lakissa on usein tummia säteittäisiä juovia ja jalan tyveä peittää vaaleanpunainen rihmasto. Nummitatti (Suillus bovinus) on suuret, kulmikkaat, yhdysrakenteiset pillien suut ja rengaton jalka ilman nystyräisiä jyväsiä. Mikään näistä sekaannuslajeista ei ole vaarallinen. Pohjoisamerikkalaiset S. granulatus -nimellä kirjatut löydöt ovat usein muita lajeja, esimerkiksi Suillus weaverae.",
+      "notes": "Luotettavin tuntomerkki maastossa on limaisen, jyväsisen, rengattoman jalan, pienten yksinkertaisten keltaisten pillien suiden, joista nuorina tihkuu nestettä, ja kaksineulaisten mäntyjen alla kasvamisen yhdistelmä. Lakin pintakate irtoaa helposti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/8146046",
+        "https://fi.wikipedia.org/wiki/Jyv%C3%A4statti",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "jyvästatti"
+    },
+    "fr": {
+      "description": "Un bolet de taille moyenne des bois de pins à deux aiguilles. On le reconnaît à un chapeau visqueux cannelle à brun-orangé, à de petits pores jaunes simples qui suintent des gouttelettes laiteuses chez les jeunes, et à un pied jaune pâle sans anneau, parsemé de granules dans sa partie supérieure. La chair est jaune pâle et ne bleuit pas.",
+      "cap": "Chapeau de 3 à 12 cm de diamètre ; d’abord convexe, puis aplati, à marge enroulée chez les jeunes. Brun cannelle, brun-orangé rouille ou brun jaunâtre, souvent plus pâle avec l’âge, lisse, luisant et visqueux par temps humide, luisant à sec. La cuticule se pèle facilement. Pas de stries radiales sombres.",
+      "hymenium": "Tubes longs d’environ 1 cm au plus, adnés à légèrement décurrents, d’abord jaune citron, puis ocre à brun-jaune. Pores petits et simples (non composés), de la même couleur que les tubes, exsudant chez les jeunes des gouttelettes blanc laiteux ; une fois sèches, elles laissent des taches brunâtres. Ils ne bleuisent pas à la pression.",
+      "stipe": "Pied de 4 à 10 cm de long et 0,8 à 2 cm d’épaisseur, cylindrique ou un peu atténué vers la base, plein, jaune citron pâle à blanchâtre, sans anneau ni voile. La moitié supérieure est parsemée de petits granules glanduleux, d’abord pâles, puis brunâtres. Pas de mycélium rose à la base.",
+      "flesh": "Chair jaune pâle à blanchâtre, d’un jaune citron plus franc au-dessus des tubes et dans le pied, molle, puis aqueuse dans le chapeau, immuable ou seulement un peu plus sombre à la coupe — elle ne bleuit pas. Odeur faible, légèrement fruitée ou acide ; saveur douce, un peu acide.",
+      "sporePrint": "Sporée ocre à jaune-brun ou brun de sienne. Spores lisses, presque fusiformes, 8–10 × 2,5–4 µm.",
+      "habitat": "Espèce ectomycorhizienne des pins à deux aiguilles, surtout le pin sylvestre (Pinus sylvestris) et le pin noir (Pinus nigra), sur sols sableux ou calcaires, y compris en lisière, dans les clairières, le long des chemins et dans l’herbe rase sous les pins. Souvent en groupes ou en troupes. Répandu en Europe et dans une grande partie de la zone tempérée de l’hémisphère nord, et introduit ailleurs avec les pins plantés. En Europe centrale, il fructifie de juin à novembre ; en Grande-Bretagne et en Irlande, on le trouve plus souvent de juillet à novembre, et plus au sud la saison peut se prolonger.",
+      "uses": "Comestible avec prudence. Beaucoup de guides d’Europe centrale le tiennent en haute estime, mais on retire d’ordinaire la cuticule visqueuse et les tubes des spécimens âgés, et certaines personnes ont des troubles gastriques avec les Suillus. Peler le chapeau, écarter les vieux tubes, cuire à fond et n’en goûter qu’une petite quantité la première fois. Les jeunes sporophores fermes sont les meilleurs. Ce catalogue ne le traite pas comme un comestible de choix.",
+      "confusion": "Le bolet jaune (Suillus luteus) pousse aussi sous les pins, mais il a un anneau membraneux net et un chapeau visqueux brun plus foncé. Le bolet à base rose (Suillus collinitus) est également sans anneau et très voisin, mais le chapeau montre souvent des stries radiales sombres et la base du pied est gainée d’un mycélium rose. Le Bolet des bouviers (Suillus bovinus) a de grands pores anguleux composés et un pied sans anneau ni granules glanduleux. Aucun de ces voisins n’est dangereux. Les récoltes nord-américaines nommées S. granulatus sont souvent d’autres espèces, par exemple Suillus weaverae.",
+      "notes": "Le meilleur caractère de terrain est l’association d’un pied visqueux sans anneau, granulé vers le sommet, de petits pores jaunes simples qui « pleurent » chez les jeunes, et de la poussée sous les pins à deux aiguilles. La cuticule du chapeau se pèle facilement.",
+      "names": [
+        "Bolet granulé"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/8146046",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "Bolet granuleux"
+    },
+    "he": {
+      "description": "פטריית צינורות בינונית של יערות אורן דו-מחטי. מזהים אותה לפי כובע רירי בצבע קינמון עד חום-כתום, נקבוביות צהובות קטנות ופשוטות המפרישות טיפות חלביות בפרטים צעירים, ורגל צהובה חיוורת בלי טבעת, מנוקדת גרגרים בחלקה העליון. הבשר צהוב חיוור ואינו מכחיל.",
+      "cap": "כובע בקוטר 3–12 ס\"מ; בהתחלה קמור, אחר כך שטוח, בשוליים מגולגלים בצעירים. חום-קינמון, חום-כתום חלוד או חום-צהבהב, לעיתים קרובות מחוויר עם הגיל, חלק, מבריק ורירי בלחות, מבריק ביובש. הקליפה נקלפת בקלות. אין פסים חישוריים כהים.",
+      "hymenium": "צינורות באורך עד כ-1 ס\"מ, מחוברים עד יורדים מעט, בהתחלה צהוב-לימון, אחר כך אוקר עד חום-צהוב. נקבוביות קטנות ופשוטות (לא מורכבות), באותו צבע כמו הצינורות, בצעירים מפרישות טיפות לבן-חלבי; הטיפות היבשות משאירות כתמים חומים. הן אינן מכחילות בלחיצה.",
+      "stipe": "רגל באורך 4–10 ס\"מ ובעובי 0.8–2 ס\"מ, גלילית או מעט מתחדדת לבסיס, מלאה, צהוב-לימון חיוור עד לבנבן, בלי טבעת ובלי מעטה. החצי העליון מנוקד גרגרים בלוטיים קטנים, בהתחלה חיוורים ואחר כך חומים. בבסיס אין תפטיר ורוד.",
+      "flesh": "בשר צהוב חיוור עד לבנבן, צהוב-לימון עמוק יותר מעל הצינורות וברגל, רך, אחר כך מימי בכובע, ללא שינוי או רק כהה מעט בחיתוך — אינו מכחיל. ריח חלש, מעט פירותי או חמצמץ; טעם עדין, מעט חמצמץ.",
+      "sporePrint": "אבקת נבגים אוקר עד חום-צהוב או חום סיינה. נבגים חלקים, כמעט דמויי כישור, 8–10 × 2.5–4 µm.",
+      "habitat": "פטרייה אקטומיקוריזית של אורנים דו-מחטיים, בעיקר אורן היער (Pinus sylvestris) ואורן שחור (Pinus nigra), בקרקעות חוליות או גיריות, גם בשולי יער, בבורות, לאורך שבילים ובדשא קצר תחת אורנים. לעיתים קרובות בקבוצות או בלהקות. נפוצה באירופה ובחלק גדול מהאזור הממוזג של חצי הכדור הצפוני, והובאה למקומות אחרים עם אורנים נטועים. במרכז אירופה היא מניבה מיוני עד נובמבר; בבריטניה ובאירלנד מוצאים אותה לעיתים קרובות יותר מיולי עד נובמבר, ודרומה יותר העונה עשויה להימשך.",
+      "uses": "אכילה בזהירות. מדריכים רבים במרכז אירופה מעריכים אותה מאוד, אך בדרך כלל מסירים את קליפת הכובע הרירי ואת הצינורות של פרטים ישנים, ואצל אנשים מסוימים מיני Suillus גורמים להפרעות קיבה. קלפו את הכובע, הסירו צינורות ישנים, בשלו היטב ובפעם הראשונה טעמו רק כמות קטנה. גופים צעירים ומוצקים הם הטובים ביותר. בקטלוג זה היא אינה מטופלת כפטריית מאכל משובחת.",
+      "confusion": "Suillus luteus גדל גם הוא תחת אורנים, אך יש לו טבעת קרומית ברורה וכובע רירי חום כהה יותר. אורנית נימים (Suillus collinitus) אף היא בלי טבעת ודומה מאוד, אך הכובע מציג לעיתים קרובות פסים חישוריים כהים, ובסיס הרגל עטוף בתפטיר ורוד. Suillus bovinus יש לו נקבוביות גדולות, זוויתיות ומורכבות ורגל בלי טבעת ובלי גרגרים בלוטיים. אף אחד מהדומים האלה אינו מסוכן. רשומות צפון-אמריקאיות בשם S. granulatus הן לעיתים קרובות מינים אחרים, למשל Suillus weaverae.",
+      "notes": "הסימן האמין ביותר בשדה הוא השילוב של רגל רירי בלי טבעת, מנוקדת גרגרים, נקבוביות צהובות קטנות ופשוטות ש\"בוכות\" בצעירים, וצמיחה תחת אורנים דו-מחטיים. קליפת הכובע נקלפת בקלות.",
+      "names": [],
+      "sourceUrls": [
+        "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%A0%D7%99%D7%99%D7%94_%D7%9E%D7%A6%D7%95%D7%99%D7%94",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "אורנייה מצויה"
+    },
+    "hi": {
+      "description": "दो-सुई चीड़ के जंगलों का मध्यम आकार का बोलिट। इसे चिपचिपी दालचीनी से नारंगी-भूरी टोपी, छोटे सादे पीले छिद्रों जो युवा अवस्था में दूधिया बूँदें टपकाते हैं, और बिना छल्ले के हल्के पीले डंठल से पहचाना जाता है, जिसका ऊपरी भाग दानेदार होता है। गूदा हल्का पीला होता है और नीला नहीं होता।",
+      "cap": "टोपी 3–12 cm चौड़ी; पहले उभरी, फिर चपटी, युवा में किनारा अंदर मुड़ा रहता है। दालचीनी-भूरी, जंग जैसा नारंगी-भूरा या पीला-भूरा, उम्र के साथ अक्सर फीकी, चिकनी, गीली होने पर चमकदार और चिपचिपी, सूखी होने पर चमकदार। छिलका आसानी से उतरता है। गहरी त्रिज्यीय धारियाँ नहीं होतीं।",
+      "hymenium": "नलिकाएँ लगभग 1 cm तक लंबी, सटी हुई से थोड़ी नीचे उतरती, पहले नींबू-पीली, फिर गेरुआ से भूरा-पीला। छिद्र छोटे और सादे (संयुक्त नहीं) हैं, नलिकाओं के ही रंग के, और युवा में सफ़ेद-दूधिया बूँदें निकालते हैं; सूखी बूँदें भूरे धब्बे छोड़ जाती हैं। दबाने पर नीले नहीं होते।",
+      "stipe": "डंठल 4–10 cm ऊँचा और 0.8–2 cm मोटा, बेलनाकार या आधार की ओर थोड़ा पतला, ठोस, हल्का नींबू-पीला से सफ़ेद-सा, बिना छल्ले और बिना आवरण के। ऊपरी आधा भाग छोटे ग्रंथिल कणों से ढका होता है, पहले हल्के, बाद में भूरे। आधार पर गुलाबी माइसीलियम नहीं होता।",
+      "flesh": "गूदा हल्का पीला से सफ़ेद-सा, नलिकाओं के ऊपर और डंठल में गहरा नींबू-पीला, नरम, बाद में टोपी में पानी जैसा, काटने पर अपरिवर्तित या केवल थोड़ा गहरा — नीला नहीं होता। गंध हल्की, थोड़ी फलों जैसी या खट्टी; स्वाद मृदु, थोड़ा खट्टा।",
+      "sporePrint": "बीजाणु छाप गेरुआ से पीली-भूरी या सिएना भूरी। बीजाणु चिकने, लगभग तकलीनुमा, 8–10 × 2.5–4 µm.",
+      "habitat": "दो-सुई चीड़ों, विशेषकर स्कॉच पाइन (Pinus sylvestris) और काले चीड़ (Pinus nigra) का एक्टोमाइकोराइजल कवक, बलुई या चूना मिट्टी पर, साथ ही वन किनारे, कटाई, पगडंडियों के किनारे और चीड़ों के नीचे छोटी घास में। अक्सर समूहों या झुंडों में उगता है। यूरोप और उत्तरी गोलार्ध के शीतोष्ण क्षेत्र के बड़े भाग में व्यापक है, और लगाए गए चीड़ों के साथ अन्य स्थानों पर भी पहुँचा है। मध्य यूरोप में फलकाय जून से नवंबर तक निकलते हैं; ब्रिटेन और आयरलैंड में अधिकतर जुलाई से नवंबर तक मिलते हैं, और दक्षिण में मौसम लंबा हो सकता है।",
+      "uses": "सावधानी से खाद्य है। कई मध्य यूरोपीय मार्गदर्शक इसे ऊँचा मानते हैं, पर टोपी का चिपचिपा छिलका और पुराने फलकायों की नलिकाएँ आमतौर पर हटा दी जाती हैं, और कुछ लोगों में Suillus प्रजातियाँ पेट खराब कर देती हैं। छिलका उतारें, पुरानी नलिकाएँ हटाएँ, अच्छी तरह पकाएँ और पहली बार केवल थोड़ी मात्रा चखें। युवा, ठोस फलकाय सबसे अच्छे हैं। इस सूची में इसे उत्कृष्ट खाद्य मशरूम नहीं माना गया है।",
+      "confusion": "Suillus luteus भी चीड़ों के नीचे उगता है, पर उसमें स्पष्ट झिल्लीदार छल्ला और गहरी भूरी चिपचिपी टोपी होती है। Suillus collinitus भी बिना छल्ले का और बहुत मिलता-जुलता है, पर टोपी पर अक्सर गहरी त्रिज्यीय धारियाँ होती हैं, और डंठल का आधार गुलाबी माइसीलियम से ढका होता है। Suillus bovinus में बड़े, कोणीय, संयुक्त छिद्र होते हैं और डंठल बिना छल्ले तथा बिना ग्रंथिल कणों का होता है। इन समान प्रजातियों में कोई खतरनाक नहीं है। S. granulatus नाम से उत्तर अमेरिकी अभिलेख अक्सर अन्य प्रजातियाँ होती हैं, जैसे Suillus weaverae.",
+      "notes": "मैदान में सबसे विश्वसनीय पहचान चिपचिपा बिना-छल्ला डंठल जिस पर ग्रंथिल कण हों, छोटे सादे पीले छिद्र जो युवा में ‘रोते’ हैं, और दो-सुई चीड़ों के नीचे उगना है। टोपी का छिलका आसानी से उतरता है.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Srednje velika cjevasta gljiva dvigličavih borova. Prepoznaje se po sluzavom cimetastom do narančast smeđem klobuku, sitnim jednostavnim žutim porama koje u mladih plodnih tijela ispuštaju mliječne kapljice, i blijedožutom stručku bez prstena, u gornjem dijelu posutom zrnima. Meso je blijedožuto i ne plavi.",
+      "cap": "Klobuk 3–12 cm širok; najprije ispupčen, poslije spljošten, u mladih sa zavinutim rubom. Cimetastosmeđ, rđasto narančast smeđ ili žućkastosmeđ, sa starenjem često blijedi, gladak, po vlažnom sjajan i sluzav, po suhom sjajan. Kožica se lako guli. Nema tamnih radijalnih pruga.",
+      "hymenium": "Cjevčice duge do oko 1 cm, prirasle do slabo silaznih, najprije limunasto žute, poslije oker do smeđežute. Pore sitne i jednostavne (ne složene), iste boje kao cjevčice, u mladih ispuštaju bijele mliječne kapljice; nakon sušenja ostaju smeđkaste pjege. Pri pritisku ne plave.",
+      "stipe": "Stručak 4–10 cm dug i 0,8–2 cm debeo, valjkast ili prema dnu slabo sužen, pun, blijedo limunasto žut do bjelkast, bez prstena i bez ovoja. Gornja polovica je posuta sitnim žljezdastim zrnima, najprije blijedim, poslije smeđkastim. Pri dnu nema ružičastog micelija.",
+      "flesh": "Meso blijedožuto do bjelkasto, iznad cjevčica i u stručku jače limunasto žuto, meko, poslije u klobuku vodenasto, na presjeku nepromijenjeno ili samo slabo tamnije — ne plavi. Miris slab, slabo voćni ili kiselkast; okus blag, slabo kiselkast.",
+      "sporePrint": "Otisak spora oker do žutosmeđ ili sienna smeđ. Spore glatke, gotovo vretenaste, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomikorizna gljiva dvigličavih borova, osobito običnog bora (Pinus sylvestris) i crnog bora (Pinus nigra), na pjeskovitim ili vapnenastim tlima, i na rubovima šuma, čistinama, uz staze i u niskoj travi pod borovima. Često raste u skupinama ili brojnim skupinama. Rasprostranjena u Europi i u velikom dijelu umjerenog pojasa sjeverne polutke te unešena i sa sađenim borovima drugdje. U srednjoj Europi plodna tijela pojavljuju se od lipnja do studenoga; u Britaniji i Irskoj češće od srpnja do studenoga, a južnije sezona može trajati duže.",
+      "uses": "Jestiva s oprezom. Mnogi srednjoeuropski priručnici cijene je visoko, ali sluzavu kožicu klobuka i cjevčice starijih plodnih tijela obično se uklanjaju, a nekima gljive roda Suillus izazivaju želučane tegobe. Oljuštite kožicu, uklonite stare cjevčice, temeljito skuhajte i prvi put probate samo malu količinu. Najbolja su mlada, čvrsta plodna tijela. U ovom katalogu nije vođena kao izvrsno jestiva gljiva.",
+      "confusion": "Prstenasti sluzavac (Suillus luteus) također raste pod borovima, ali ima izrazit opnast prsten i tamniji smeđi sluzavi klobuk. Suillus collinitus također je bez prstena i vrlo sličan, ali klobuk često ima tamne radijalne pruge, a bazu stručka obavija ružičast micelij. Suillus bovinus ima velike kutne složene pore i stručak bez prstena i bez žljezdastih zrna. Nijedna od tih vrsta nije opasna. Sjevernoamerički nalazi vođeni kao S. granulatus često su druge vrste, primjerice Suillus weaverae.",
+      "notes": "Najpouzdanije terensko obilježje je spoj sluzavog stručka bez prstena sa žljezdastim zrnima, sitnih jednostavnih žutih pora koje u mladih 'plaču', i rasta pod dvigličavim borovima. Kožica klobuka se lako guli.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Közepes méretű csöves gomba a kéttűs fenyvesekben. A nyálkás, fahéj- vagy narancsbarna kalapjáról, a kis, egyszerű sárga pórusokról, amelyek a fiatal termőtesteken tejszerű cseppeket izzadnak, és a gyűrűtlen, halványsárga tönkről ismerhető fel, amelynek felső részét szemcsék borítják. A hús halványsárga, és nem kékül.",
+      "cap": "Kalap 3–12 cm széles; eleinte domború, később lapított, a fiatalokon begöngyölt szélű. Fahéjbarna, rozsdás narancsbarna vagy sárgásbarna, korral gyakran kifakul, sima, nedvesen fényes és nyálkás, szárazon fényes. A bőr könnyen lehúzható. Nincsenek sötét sugárirányú csíkok.",
+      "hymenium": "Csövek legfeljebb kb. 1 cm hosszúak, a tönkhöz nőttek vagy enyhén lefutók, eleinte citromsárgák, később okkeresek vagy barnássárgák. A pórusok kicsik és egyszerűek (nem összetettek), a csövekkel azonos színűek, a fiatalokon fehéres, tejszerű cseppeket izzadnak; a megszáradt cseppek barnás foltokat hagynak. Nyomásra nem kékülnek.",
+      "stipe": "Tönk 4–10 cm hosszú és 0,8–2 cm vastag, hengeres vagy a töve felé kissé keskenyedő, tömör, halvány citromsárga vagy fehéres, gyűrű és burok nélkül. A felső felét apró mirigyes szemcsék borítják, eleinte sápadtak, később barnásak. A tövénél nincs rózsaszín micélium.",
+      "flesh": "Hús halványsárga vagy fehéres, a csövek fölött és a tönkben mélyebb citromsárga, puha, később a kalapban vizenyős, metszésen változatlan vagy csak kissé sötétebb — nem kékül. Szaga gyenge, enyhén gyümölcsös vagy savanykás; íze enyhe, kissé savanykás.",
+      "sporePrint": "Spórapor okkeres vagy sárgásbarna, esetleg sziena barna. A spórák simák, csaknem orsó alakúak, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomikorrhizás gomba a kéttűs fenyők, különösen az erdeifenyő (Pinus sylvestris) és a feketefenyő (Pinus nigra) alatt, homokos vagy meszes talajon, erdőszéleken, vágásokon, útmentén és rövid fűben is a fenyők alatt. Gyakran csoportosan vagy csapatokban. Elterjedt Európában és az északi félteke mérsékelt övének nagy részén, és ültetett fenyőkkel másutt is megjelent. Közép-Európában júniustól novemberig hoz termőtestet; Nagy-Britanniában és Írországban gyakrabban júliustól novemberig, délebbre a szezon tovább tarthat.",
+      "uses": "Óvatosan ehető. Sok közép-európai útmutató magasan értékeli, de a nyálkás kalapbőrt és az idős termőtestek csöveit általában eltávolítják, és egyeseknél a Suillus-fajok gyomorpanaszt okoznak. Húzza le a bőrt, távolítsa el a régi csöveket, főzze alaposan, és először csak kis adagot kóstoljon. A fiatal, szilárd termőtestek a legjobbak. Ebben a katalógusban nem számít elsőrangú étkezési gombának.",
+      "confusion": "A barna gyűrűstinóru (Suillus luteus) szintén fenyők alatt nő, de jól látható hártyás gyűrűje és sötétebb barna, nyálkás kalapja van. A rózsástövű fenyőtinóru (Suillus collinitus) szintén gyűrűtlen és nagyon hasonló, de a kalapon gyakran sötét sugárirányú csíkok vannak, a tönk tövét pedig rózsaszín micélium burkolja. A tehéntinóru (Suillus bovinus) nagy, szögletes, összetett pórusú, gyűrűtlen tönkje mirigyes szemcsék nélküli. E hasonmás fajok egyike sem veszélyes. A S. granulatus néven közölt észak-amerikai adatok gyakran más fajok, például a Suillus weaverae.",
+      "notes": "A legmegbízhatóbb bélyeg a terepen a nyálkás, szemcsés, gyűrűtlen tönk, a kis egyszerű sárga pórusok, amelyek a fiatalokon „sírnak”, és a kéttűs fenyők alatti növekedés együttese. A kalapbőr könnyen lehúzható.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Szemcs%C3%A9snyel%C5%B1_feny%C5%91tin%C3%B3ru",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "szemcsésnyelű fenyőtinóru"
+    },
+    "id": {
+      "description": "Bolet sedang di hutan pinus berdaun dua. Dikenali dari tudung berlendir berwarna kayu manis hingga cokelat jingga, pori kuning kecil dan sederhana yang meneteskan tetesan seperti susu ketika muda, dan tangkai kuning pucat tanpa cincin yang berbutir di bagian atas. Dagingnya kuning pucat dan tidak membiru.",
+      "cap": "Tudung 3–12 cm lebar; mula-mula cembung, kemudian pipih, pada yang muda tepinya terlipat ke dalam. Cokelat kayu manis, cokelat jingga berkarat, atau cokelat kekuningan, sering memucat dengan usia, halus, mengilap dan berlendir saat basah, mengilap saat kering. Kulit mudah dikupas. Tidak ada garis radial gelap.",
+      "hymenium": "Tabung hingga sekitar 1 cm panjang, melekat hingga sedikit menurun, mula-mula kuning lemon, kemudian oker hingga cokelat-kuning. Pori kecil dan sederhana (bukan majemuk), sewarna tabung, dan pada yang muda mengeluarkan tetesan putih seperti susu; tetesan yang mengering meninggalkan bintik kecokelatan. Tidak membiru jika ditekan.",
+      "stipe": "Tangkai 4–10 cm tinggi dan 0,8–2 cm tebal, silindris atau sedikit meruncing ke pangkal, padat, kuning lemon pucat hingga keputihan, tanpa cincin dan tanpa selubung. Separuh atas ditutupi butir kelenjar kecil, mula-mula pucat, kemudian kecokelatan. Tidak ada miselium merah muda di pangkal.",
+      "flesh": "Daging kuning pucat hingga keputihan, lebih dalam kuning lemon di atas tabung dan di tangkai, lunak, kemudian berair di tudung, tidak berubah atau hanya sedikit lebih gelap pada irisan — tidak membiru. Bau lemah, sedikit beraroma buah atau asam; rasa lembut, sedikit asam.",
+      "sporePrint": "Jejak spora oker hingga kuning-cokelat atau cokelat siena. Spora halus, hampir berbentuk gelendong, 8–10 × 2,5–4 µm.",
+      "habitat": "Jamur ektomikoriza pinus berdaun dua, terutama pinus Skotlandia (Pinus sylvestris) dan pinus hitam (Pinus nigra), di tanah berpasir atau berkapur, juga di tepi hutan, tebangan, sepanjang jalur, dan di rumput pendek di bawah pinus. Sering tumbuh berkelompok atau bergerombol. Meluas di Eropa dan sebagian besar zona sedang belahan utara, dan terintroduksi ke tempat lain bersama pinus tanam. Di Eropa Tengah tubuh buah muncul dari Juni hingga November; di Britania dan Irlandia lebih sering dari Juli hingga November, dan lebih ke selatan musimnya dapat lebih panjang.",
+      "uses": "Dapat dimakan dengan hati-hati. Banyak pedoman Eropa Tengah menilainya tinggi, tetapi kulit tudung yang berlendir dan tabung tubuh tua biasanya dibuang, dan pada sebagian orang jenis Suillus menimbulkan gangguan perut. Kupas kulitnya, buang tabung yang tua, masak hingga matang, dan pertama kali cicipi hanya sedikit. Tubuh buah muda yang padat adalah yang terbaik. Dalam katalog ini ia tidak diperlakukan sebagai jamur pangan unggulan.",
+      "confusion": "Suillus luteus juga tumbuh di bawah pinus, tetapi memiliki cincin bermembran yang jelas dan tudung berlendir cokelat lebih gelap. Suillus collinitus juga tanpa cincin dan sangat mirip, tetapi tudung sering memiliki garis radial gelap, dan pangkal tangkai diliputi miselium merah muda. Suillus bovinus memiliki pori besar, bersudut, dan majemuk serta tangkai tanpa cincin dan tanpa butir kelenjar. Tidak satu pun dari jenis serupa ini berbahaya. Rekaman Amerika Utara atas nama S. granulatus sering kali merupakan jenis lain, misalnya Suillus weaverae.",
+      "notes": "Ciri lapangan paling andal adalah gabungan tangkai berlendir tanpa cincin yang berbutir kelenjar, pori kuning kecil dan sederhana yang ‘menangis’ ketika muda, dan pertumbuhan di bawah pinus berdaun dua. Kulit tudung mudah dikupas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un boleto di media taglia dei boschi di pini a due aghi. Si riconosce per un cappello vischioso color cannella o bruno-arancio, pori gialli piccoli e semplici che nei giovani essudano goccioline lattiginose, e un gambo giallo pallido senza anello, punteggiato di granuli nella parte superiore. La carne è giallo pallido e non azzurreggia.",
+      "cap": "Cappello di 3–12 cm di diametro; dapprima convesso, poi appiattito, con il margine involuto nei giovani. Bruno cannella, bruno-arancio rugginoso o bruno giallastro, spesso più pallido con l’età, liscio, lucido e vischioso a umido, lucido a secco. La cuticola si stacca facilmente. Senza striature radiali scure.",
+      "hymenium": "Tubuli lunghi fino a circa 1 cm, adnati o lievemente decurrenti, dapprima giallo limone, poi ocra o bruno-gialli. Pori piccoli e semplici (non composti), dello stesso colore dei tubuli, che nei giovani essudano goccioline bianco-lattee; una volta asciutte lasciano macchie brunastre. Non azzurreggiano alla pressione.",
+      "stipe": "Gambo di 4–10 cm di lunghezza e 0,8–2 cm di spessore, cilindrico o un poco attenuato verso la base, pieno, giallo limone pallido o biancastro, senza anello né velo. La metà superiore è punteggiata di piccoli granuli ghiandolari, dapprima pallidi e poi bruniastri. Alla base non c’è micelio rosato.",
+      "flesh": "Carne giallo pallido o biancastra, di un giallo limone più intenso sopra i tubuli e nel gambo, molle, poi acquosa nel cappello, immutabile o solo un poco più scura al taglio — non azzurreggia. Odore debole, leggermente fruttato o acidulo; sapore mite, un poco acidulo.",
+      "sporePrint": "Sporata ocra o giallo-bruna o bruno di Siena. Spore lisce, quasi fusiformi, 8–10 × 2,5–4 µm.",
+      "habitat": "Specie ectomicorrizica dei pini a due aghi, soprattutto il pino silvestre (Pinus sylvestris) e il pino nero (Pinus nigra), su suoli sabbiosi o calcarei, anche ai margini dei boschi, nelle radure, lungo i sentieri e nell’erba bassa sotto i pini. Spesso in gruppi o truppe. Diffusa in Europa e in gran parte della zona temperata dell’emisfero settentrionale, e introdotta altrove con pini piantati. In Europa centrale fruttifica da giugno a novembre; in Gran Bretagna e Irlanda si trova più spesso da luglio a novembre, e più a sud la stagione può protrarsi.",
+      "uses": "Commestibile con cautela. Molte guide dell’Europa centrale lo stimano molto, ma di solito si toglie la cuticola vischiosa e i tubuli degli esemplari vecchi, e alcune persone hanno disturbi gastrici con i Suillus. Pelare il cappello, scartare i tubuli vecchi, cuocere a fondo e assaggiarne solo una piccola quantità la prima volta. I corpi giovani e sodi sono i migliori. In questo catalogo non è trattato come un commestibile pregiato.",
+      "confusion": "Il pinarolo (Suillus luteus) cresce anch’esso sotto i pini, ma ha un anello membranoso netto e un cappello vischioso bruno più scuro. Suillus collinitus è altrettanto privo di anello e molto simile, ma il cappello mostra spesso striature radiali scure e la base del gambo è avvolta da micelio rosato. Suillus bovinus ha pori grandi, angolosi e composti e un gambo senza anello né granuli ghiandolari. Nessuno di questi simili è pericoloso. I reperti nordamericani nominati S. granulatus sono spesso altre specie, per esempio Suillus weaverae.",
+      "notes": "Il carattere di campo più affidabile è l’insieme di un gambo vischioso senza anello, granuloso verso l’apice, pori gialli piccoli e semplici che «piangono» nei giovani, e la crescita sotto pini a due aghi. La cuticola del cappello si stacca facilmente.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "二葉マツ林に生じる中型のイグチ。粘性のあるシナモン色から橙褐色の傘、若いうちに乳白色の液滴を出す小さく単純な黄色の孔口、およびつばを欠き、上部に粒点のある淡黄色の柄で識別される。肉は淡黄色で青変しない。",
+      "cap": "傘は径3–12 cm。初めは丸山形、のちに平らになり、若いときは縁が内側に巻く。シナモン褐色、錆びた橙褐色または黄褐色で、老成するとしばしば色あせる。表面は平滑で、湿時は光沢があり粘性があり、乾時も光沢がある。表皮ははがしやすい。暗い放射状の条線はない。",
+      "hymenium": "管孔は長さ約1 cmまで、着生からやや垂生、初めレモン色、のちに黄土色から褐黄色。孔口は小さく単純（複合ではない）で管孔と同色、若いときは乳白色の液滴を出す。乾いた液滴は褐色の斑点を残す。圧しても青変しない。",
+      "stipe": "柄は高さ4–10 cm、太さ0.8–2 cm。円柱形または基部に向かってわずかに細まり、内部は充実し、淡いレモン色から白っぽく、つばも被膜もない。上半分は小さな腺点で覆われ、初めは淡く、のちに褐色になる。基部に桃色の菌糸はない。",
+      "flesh": "肉は淡黄色から白っぽく、管孔の上と柄ではより深いレモン色、柔らかく、のちに傘では水っぽくなる。切断しても変色しないか、わずかに暗くなるだけであり、青変しない。匂いはやや弱く、わずかに果実香または酸味があり、味は穏やかでやや酸味がある。",
+      "sporePrint": "胞子紋は黄土色から黄褐色またはシエナ褐色。胞子は平滑、ほぼ紡錘形、8–10 × 2.5–4 µm。",
+      "habitat": "二葉マツ、とくにヨーロッパアカマツ（Pinus sylvestris）およびクロマツ（Pinus nigra）と外生菌根を結び、砂質または石灰質の土壌に生じるほか、林縁、伐採地、小道沿いやマツの下の短い草地にも出る。しばしば群れまたは集団で発生する。ヨーロッパおよび北半球温帯の広い範囲に分布し、植栽されたマツとともに他地域にも移入されている。中欧では6月から11月に子実体が出る。イギリスおよびアイルランドではより多く7月から11月に見られ、南では季節が延びることがある。",
+      "uses": "注意して食用になる。中欧の図鑑の多くは高く評価するが、粘性のある傘の表皮と古い子実体の管孔は普通取り除かれ、一部の人では Suillus 属が胃腸障害を起こす。表皮をむき、古い管孔を除き、十分に加熱し、初めては少量だけ味わう。若く締まった子実体が最もよい。本図鑑では上級の食用菌としては扱わない。",
+      "confusion": "ヌメリイグチ（Suillus luteus）もマツの下に生じるが、明瞭な膜質のつばと、より暗い褐色の粘性のある傘をもつ。Suillus collinitus もつばを欠き非常によく似るが、傘にはしばしば暗い放射状の条線があり、柄の基部は桃色の菌糸に覆われる。アミタケ（Suillus bovinus）は大きく角ばった複合孔口をもち、つばも腺点もない柄をもつ。これらの類似種のいずれも危険ではない。北アメリカで S. granulatus として記録されたものは、しばしば Suillus weaverae など別種である。",
+      "notes": "野外で最も信頼できる特徴は、腺点のある粘性のつばなしの柄、若いときに「泣く」小さく単純な黄色の孔口、および二葉マツの下に生じることの組み合わせである。傘の表皮ははがしやすい。",
+      "names": [],
+      "sourceUrls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%81%E3%82%A2%E3%83%AF%E3%82%BF%E3%82%B1",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "チチアワタケ"
+    },
+    "ko": {
+      "description": "두잎 소나무 숲의 중간 크기 그물버섯이다. 점액질의 계피색에서 주황갈색 갓, 어릴 때 유백색 방울을 내는 작고 단순한 노란 구멍, 턱받이가 없고 윗부분에 알갱이가 있는 옅은 노란 대로 알아본다. 살은 옅은 노랑이며 청색으로 변하지 않는다.",
+      "cap": "갓은 너비 3–12 cm이다. 처음에는 볼록하다가 나중에 납작해지며, 어릴 때는 가장자리가 안쪽으로 말린다. 계피갈색, 녹슨 주황갈색 또는 황갈색이며 나이가 들며 종종 바랜다. 표면은 매끄럽고, 젖으면 광택이 나고 점액질이며, 마르면 광택이 난다. 껍질은 쉽게 벗겨진다. 어두운 방사 줄무늬는 없다.",
+      "hymenium": "관공은 길이 약 1 cm까지이며, 붙은형에서 약간 내린형이고, 처음에는 레몬노란색, 나중에는 황토색에서 갈색노랑이다. 구멍은 작고 단순하며(복합이 아님) 관공과 같은 색이고, 어릴 때는 유백색 방울을 낸다. 마른 방울은 갈색 점을 남긴다. 눌러도 청색으로 변하지 않는다.",
+      "stipe": "대는 높이 4–10 cm, 두께 0.8–2 cm로, 원기둥이거나 밑으로 약간 가늘어지며, 속이 차 있고, 옅은 레몬노랑에서 흰빛이 돌며, 턱받이와 피막이 없다. 윗부분은 작고 선점 같은 알갱이로 덮여 있으며, 처음에는 옅고 나중에는 갈색이 된다. 밑부분에 분홍 균사는 없다.",
+      "flesh": "살은 옅은 노랑에서 흰빛이 돌며, 관공 위와 대에서는 더 진한 레몬노랑이고, 부드러우며, 나중에는 갓에서 물기가 많다. 잘라도 변하지 않거나 조금만 어두워질 뿐이며 청색으로 변하지 않는다. 냄새는 약하고 약간 과일향이거나 시다. 맛은 온화하고 약간 시다.",
+      "sporePrint": "포자문은 황토색에서 노랑갈색 또는 시에나갈색이다. 포자는 매끄럽고 거의 방추형이며, 8–10 × 2.5–4 µm이다.",
+      "habitat": "두잎 소나무, 특히 구주소나무(Pinus sylvestris)와 구주흑송(Pinus nigra)과 외생균근을 맺으며, 모래질 또는 석회질 흙, 숲 가장자리, 벌채지, 오솔길 옆, 소나무 아래의 짧은 풀에서도 난다. 흔히 무리 또는 군생한다. 유럽과 북반구 온대의 넓은 범위에 퍼져 있으며, 심은 소나무와 함께 다른 지역에도 들어갔다. 중부 유럽에서는 6월부터 11월까지 자실체가 나오며, 영국과 아일랜드에서는 더 흔히 7월부터 11월에 보이고, 남쪽으로는 계절이 더 길 수 있다.",
+      "uses": "주의하여 식용한다. 중부 유럽의 많은 도감은 높이 평가하지만, 점액질의 갓 껍질과 오래된 자실체의 관공은 보통 제거하고, 어떤 사람은 Suillus 속에서 위장 장애를 겪는다. 껍질을 벗기고, 낡은 관공을 제거한 뒤 충분히 익히고, 처음에는 조금만 맛본다. 어리고 단단한 자실체가 가장 좋다. 이 목록에서는 으뜸 식용버섯으로 다루지 않는다.",
+      "confusion": "비단그물버섯(Suillus luteus)도 소나무 아래에서 나지만, 뚜렷한 막질의 턱받이와 더 어두운 갈색의 점액질 갓이 있다. Suillus collinitus 역시 턱받이가 없고 매우 비슷하지만, 갓에는 종종 어두운 방사 줄무늬가 있고 대 밑부분은 분홍 균사로 덮인다. 황소비단그물버섯(Suillus bovinus)은 크고 각진 복합 구멍이 있으며, 턱받이와 선점이 없는 대를 갖는다. 이들 비슷종은 어느 것도 위험하지 않다. 북아메리카에서 S. granulatus로 기록된 것은 종종 Suillus weaverae 등 다른 종이다.",
+      "notes": "야외에서 가장 믿을 수 있는 특징은 선점 있는 점액질의 턱받이 없는 대, 어릴 때 ‘우는’ 작고 단순한 노란 구멍, 그리고 두잎 소나무 아래에서 난다는 점의 조합이다. 갓 껍질은 쉽게 벗겨진다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Vidutinio dydžio vamzdelinis grybas dvinaujų pušynų. Jį pažinsi iš gleivėtos cinamono iki oranžinės rudos kepurėlės, smulkių paprastų geltonų porų, kurios jaunuose vaisiakūniuose leidžia pieniškas lašelius, ir bežiedžio šviesiai geltono koto, kurio viršutinė dalis nuberta grūdeliais. Minkštimas šviesiai geltonas ir nemėlynuoja.",
+      "cap": "Kepurėlė 3–12 cm pločio; pirma iškila, vėliau paplokščia, jaunų su užsirietusiu kraštu. Cinamono ruda, rūdiškai oranžinė ruda arba gelsvai ruda, su amžiumi dažnai nublanksta, lygi, drėgna blizgi ir gleivėta, sausa blizgi. Odelę lengva nulupti. Nėra tamsių radialinių dryžių.",
+      "hymenium": "Vamzdeliai iki apie 1 cm ilgio, priaugtiniai iki silpnai nuaugusių, pirma citrininiai geltoni, vėliau ochros iki rudai geltonų. Poros smulkios ir paprastos (nesudėtinės), tos pačios spalvos kaip vamzdeliai, jaunuose leidžia baltus pieniškus lašelius; išdžiūvę palieka rusvas dėmeles. Spaudžiant nemėlynuoja.",
+      "stipe": "Kotas 4–10 cm ilgio ir 0,8–2 cm storio, cilindriškas arba link pagrindo šiek tiek smailėjantis, kietas, šviesiai citrininis geltonas iki balsvo, be žiedo ir be apvalkalo. Viršutinė pusė nuberta smulkiais liaukiniais grūdeliais, pirma šviesiais, vėliau rusvais. Prie pagrindo nėra rausvo micelio.",
+      "flesh": "Minkštimas šviesiai geltonas iki balsvo, virš vamzdelių ir kote ryškiau citrininis geltonas, minkštas, vėliau kepurėlėje vandeningas, pjūvyje nepakites arba tik silpnai tamsesnis — nemėlynuoja. Kvapas silpnas, lengvai vaisinis arba rūgštokas; skonis švelnus, lengvai rūgštokas.",
+      "sporePrint": "Sporų milteliai ochros iki gelsvai rudi arba sienos rudi. Sporos lygios, beveik verpstiškos, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomikorizinis dvinaujų pušų, ypač paprastosios pušies (Pinus sylvestris) ir juodosios pušies (Pinus nigra), grybas smėlėtose arba kalkingose dirvose, taip pat miškų pakraščiuose, kirtavietėse, palei takus ir trumpoje žolėje po pušimis. Dažnai auga grupėmis ar būriais. Paplitęs Europoje ir didelėje šiaurinio pusrutulio vidutinių platumų dalyje, ir įvežtas kitur su sodintomis pušimis. Vidurio Europoje vaisiakūniai nuo birželio iki lapkričio; Didžiojoje Britanijoje ir Airijoje dažniau nuo liepos iki lapkričio, o piečiau sezonas gali trukti ilgiau.",
+      "uses": "Valgomas atsargiai. Daugelis Vidurio Europos vadovų jį vertina aukštai, bet gleivėtą kepurėlės odelę ir senesnių vaisiakūnių vamzdelius paprastai pašalina, o kai kuriems žmonėms Suillus rūšys sukelia skrandžio negalavimus. Nulupkite odelę, pašalinkite senus vamzdelius, gerai išvirkite ir pirmą kartą ragaukite tik nedidelį kiekį. Geriausi jauni, tvirti vaisiakūniai. Šiame kataloge jis nelaikomas aukščiausios kokybės valgomas grybas.",
+      "confusion": "Tikrasis kazlėkas (Suillus luteus) taip pat auga po pušimis, bet turi aiškų plėvinį žiedą ir tamsesnę rudą gleivėtą kepurėlę. Rausvakotis kazlėkas (Suillus collinitus) taip pat be žiedo ir labai panašus, bet kepurėlė dažnai turi tamsius radialinius dryžius, o koto pagrindą dengia rausvas micelis. Tamprusis kazlėkas (Suillus bovinus) turi dideles kampuotas sudėtines poras ir bežiedį kotą be liaukinių grūdelių. Nė viena šių panašių rūšių nėra pavojinga. Šiaurės Amerikos radiniai, vadinami S. granulatus, dažnai yra kitos rūšys, pavyzdžiui Suillus weaverae.",
+      "notes": "Patikimiausias požymis gamtoje — gleivėto bežiedžio, grūdeliais nubarto koto, smulkių paprastų geltonų porų, kurios jaunose „verkia“, ir augimo po dvinaujėmis pušimis derinys. Kepurėlės odelę lengva nulupti.",
+      "names": [
+        "šližiukas"
+      ],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/%C5%A0ilinis_kazl%C4%97kas",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "šilinis kazlėkas"
+    },
+    "lv": {
+      "description": "Vidēja lieluma stoģu sēne divadatu priežu mežos. To atpazīst pēc gļotainas kanēļa līdz oranži brūnas cepurītes, sīkām, vienkāršām dzeltenām porām, no kurām jauniem augļķermeņiem tek piena pilieni, un bezgredzena, gaiši dzeltena kātiņa, kura augšdaļa ir nokaisīta ar graudiņiem. Mīkstums ir gaiši dzeltens un nezilē.",
+      "cap": "Cepurīte 3–12 cm plata; vispirms izliekta, vēlāk saplacināta, jaunām ar ieritinātu malu. Kanēļbrūna, rūsaini oranži brūna vai dzeltenīgi brūna, ar vecumu bieži izbalē, gluda, mitra spīdīga un gļotaina, sausa spīdīga. Ādiņu viegli novelk. Nav tumšu radiālu svītru.",
+      "hymenium": "Stoģi līdz apmēram 1 cm gari, pieauguši līdz viegli nolaideniem, vispirms citrondzelteni, vēlāk okera līdz brūndzelteni. Poras sīkas un vienkāršas (nav saliktas), tādā pašā krāsā kā stoģi, jauniem izdala balti pienainus pilienus; izžuvuši atstāj brūnganus plankumiņus. Spiežot nezilē.",
+      "stipe": "Kātiņš 4–10 cm garš un 0,8–2 cm resns, cilindrisks vai pret pamatni nedaudz sašaurināts, pildīts, bāli citrondzeltens līdz bālgans, bez gredzena un bez plīvura. Augšējā puse nokaisīta ar sīkiem dziedzeru graudiņiem, vispirms bāliem, vēlāk brūnganiem. Pamatnē nav rozā micēlija.",
+      "flesh": "Mīkstums gaiši dzeltens līdz bālgans, virs stoģiem un kātiņā dziļāk citrondzeltenā krāsā, mīksts, vēlāk cepurītē ūdeņains, griezumā nemainīgs vai tikai nedaudz tumšāks — nezilē. Smarža vāja, viegli augļaina vai skābena; garša maiga, viegli skābena.",
+      "sporePrint": "Spora putekļi okera līdz dzeltenbrūni vai sjēnas brūni. Sporas gludas, gandrīz vārpstveida, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomikorizas sēne ar divadatu priedēm, īpaši parasto priedi (Pinus sylvestris) un melno priedi (Pinus nigra), smilšainās vai kaļķainās augsnēs, arī mežu malās, izcirtumos, ceļmalās un īsā zālē zem priedēm. Bieži grupās vai baros. Izplatīta Eiropā un lielā daļā ziemeļu puslodes mērenās joslas, un ievesta citur ar stādītām priedēm. Centrāleiropā augļķermeņi no jūnija līdz novembrim; Lielbritānijā un Īrijā biežāk no jūlija līdz novembrim, bet tālāk uz dienvidiem sezona var būt ilgāka.",
+      "uses": "Ēdama uzmanīgi. Daudzas Centrāleiropas rokasgrāmatas to vērtē augstu, taču gļotaino cepurītes ādiņu un vecāku augļķermeņu stoģus parasti noņem, un dažiem cilvēkiem Suillus sugas izraisa kuņģa traucējumus. Nomizojiet ādiņu, noņemiet vecos stoģus, rūpīgi izvāriet un pirmo reizi nogaršojiet tikai nelielu daudzumu. Labākie ir jauni, stingri augļķermeņi. Šajā katalogā tā nav uzskatīta par izcilu ēdamo sēni.",
+      "confusion": "Parastā sviestbeka (Suillus luteus) arī aug zem priedēm, bet tai ir skaidrs plēvains gredzens un tumšāka brūna gļotaina cepurīte. Suillus collinitus tāpat ir bez gredzena un ļoti līdzīga, taču cepurītei bieži ir tumšas radiālas svītras, un kātiņa pamatni apņem rozā micēlijs. Govju sviestbeka (Suillus bovinus) ir lielas stūrainas saliktas poras un bezgredzena kātiņš bez dziedzeru graudiņiem. Neviena no šīm līdzīgajām sugām nav bīstama. Ziemeļamerikas atradnes ar nosaukumu S. granulatus bieži ir citas sugas, piemēram, Suillus weaverae.",
+      "notes": "Uzticamākā pazīme dabā ir gļotaina, graudaina, bezgredzena kātiņa, sīku vienkāršu dzeltenu poru, no kurām jauniem «raudad», un augšanas zem divadatu priedēm savienojums. Cepurītes ādiņu viegli novelk.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Graudain%C4%81_sviestbeka",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "graudainā sviestbeka"
+    },
+    "nl": {
+      "description": "Een middelgrote boleet van bossen met tweenaaldige dennen. Te herkennen aan een slijmerige kaneel- tot oranjebruine hoed, kleine, eenvoudige gele poriën die bij jonge vruchtlichamen melkachtige druppels afscheiden, en een ringloze, bleekgele steel die in het bovenste deel met korreltjes is bezet. Het vlees is bleekgeel en blauwt niet.",
+      "cap": "Hoed 3–12 cm breed; eerst gewelfd, later afgeplat, jong met ingerolde rand. Kaneelbruin, roestig oranjebruin of geelachtig bruin, met de leeftijd vaak verblekend, glad, vochtig glanzend en slijmerig, droog glanzend. De hoedhuid laat zich makkelijk afpellen. Geen donkere radiale strepen.",
+      "hymenium": "Buisjes tot ongeveer 1 cm lang, aangehecht tot iets aflopend, eerst citroengeel, later oker tot bruingeel. Poriën klein en eenvoudig (niet samengesteld), dezelfde kleur als de buisjes, bij jonge exemplaren melkachtig witte druppels afscheidend; de droge druppels laten bruinachtige vlekjes achter. Ze blauwen niet bij indrukken.",
+      "stipe": "Steel 4–10 cm lang en 0,8–2 cm dik, cilindrisch of naar de basis iets versmald, vol, bleek citroengeel tot witachtig, zonder ring en zonder velum. De bovenste helft is bezet met kleine klierachtige korreltjes, eerst bleek, later bruinachtig. Aan de basis geen roze mycelium.",
+      "flesh": "Vlees bleekgeel tot witachtig, boven de buisjes en in de steel dieper citroengeel, zacht, later in de hoed waterig, bij doorsnijden onveranderd of slechts iets donkerder — het blauwt niet. Geur zwak, licht fruitig of zurig; smaak mild, licht zurig.",
+      "sporePrint": "Sporenafdruk oker- tot geelbruin of sienna-bruin. Sporen glad, bijna spoelvormig, 8–10 × 2,5–4 µm.",
+      "habitat": "Ectomycorrhizavormend met tweenaaldige dennen, vooral grove den (Pinus sylvestris) en zwarte den (Pinus nigra), op zandige of kalkhoudende grond, ook aan bosranden, op kapvlakten, langs paden en in kort gras onder dennen. Vaak in groepjes of troepen. Wijdverbreid in Europa en in grote delen van de gematigde noordelijke hemisfeer, en elders met aangeplante dennen ingevoerd. In Midden-Europa vruchtlichamen van juni tot november; in Groot-Brittannië en Ierland vaker van juli tot november, en verder naar het zuiden kan het seizoen langer duren.",
+      "uses": "Eetbaar met voorzichtigheid. Veel Midden-Europese gidsen waarderen hem hoog, maar de slijmerige hoedhuid en de buisjes van oudere vruchtlichamen worden meestal verwijderd, en sommige mensen krijgen maagklachten van Suillus-soorten. Pel de hoedhuid, verwijder oude buisjes, kook grondig en probeer de eerste keer slechts een kleine hoeveelheid. Jonge, stevige vruchtlichamen zijn het best. In deze catalogus geldt hij niet als een keuzepaddestoel.",
+      "confusion": "De bruine ringboleet (Suillus luteus) groeit eveneens onder dennen, maar heeft een duidelijke vliezige ring en een donkerder bruine, slijmerige hoed. Suillus collinitus is eveneens ringloos en zeer gelijkend, maar de hoed heeft vaak donkere radiale strepen en de steelbasis is gehuld in roze mycelium. De koeienboleet (Suillus bovinus) heeft grote, hoekige, samengestelde poriën en een ringloze steel zonder klierkorrels. Geen van deze dubbelgangers is gevaarlijk. Noord-Amerikaanse vondsten als S. granulatus zijn vaak andere soorten, bijvoorbeeld Suillus weaverae.",
+      "notes": "Het betrouwbaarste veldkenmerk is de combinatie van een slijmerige, korrelige, ringloze steel, kleine eenvoudige gele poriën die bij jonge exemplaren ‘wenen’, en groei onder tweenaaldige dennen. De hoedhuid laat zich makkelijk afpellen.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/8146046",
+        "https://nl.wikipedia.org/wiki/Melkboleet",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "melkboleet"
+    },
+    "no": {
+      "description": "En middels stor rørsopp i skoger med tonållete furuer. Den kjennes på en slimete kanel- til oransjebrun hatt, små, enkle gule porer som hos unge fruktlegemer avsondrer melkaktige dråper, og en ringløs, blekgul stokk som i den øvre delen er besatt med korn. Kjøttet er blekgult og blåner ikke.",
+      "cap": "Hatt 3–12 cm bred; først hvelvet, senere avflatet, hos unge med innrullet rand. Kanelbrun, rusten oransjebrun eller gulaktig brun, med alderen ofte avblekende, glatt, fuktig blank og slimete, tørr blank. Huden lar seg lett trekke av. Ingen mørke radiale striper.",
+      "hymenium": "Rør opptil ca. 1 cm lange, tilvokste til svakt nedløpende, først sitrongule, senere okergule til brungule. Porer små og enkle (ikke sammensatte), samme farge som rørene, hos unge avsondrende melkehvite dråper; de tørre dråpene etterlater brunlige flekker. De blåner ikke ved trykk.",
+      "stipe": "Stokk 4–10 cm lang og 0,8–2 cm tykk, sylindrisk eller mot basis svakt avsmalnende, solid, blekt sitrongul til hvitaktig, uten ring og uten slør. Den øvre halvdelen er besatt med små glandulære korn, først bleke, senere brunlige. Ved basis ingen rosa myceltråder.",
+      "flesh": "Kjøtt blekgult til hvitaktig, over rørene og i stokken dypere sitrongult, mykt, senere vannaktig i hatten, uforandret eller bare svakt mørkere i snitt — det blåner ikke. Lukt svak, lett fruktig eller syrlig; smak mild, lett syrlig.",
+      "sporePrint": "Sporeavtrykk oker- til gulbrunt eller sienna-brunt. Sporer glatte, nesten tenformede, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorrhizadannende med tonållete furuer, særlig furu (Pinus sylvestris) og svartfuru (Pinus nigra), på sandig eller kalkholdig mark, også i skogkanter, på hogstflater, langs stier og i kort gress under furuer. Ofte i grupper eller tropper. Utbredt i Europa og i store deler av den tempererte nordlige halvkule, og innført med plantede furuer andre steder. I Sentral-Europa fruktlegemer fra juni til november; i Storbritannia og Irland oftere fra juli til november, og lenger sør kan sesongen vare lenger.",
+      "uses": "Spiselig med forsiktighet. Mange sentraleuropeiske håndbøker vurderer den høyt, men den slimete hatthuden og rørene hos eldre fruktlegemer fjernes vanligvis, og noen mennesker får mageplager av Suillus-arter. Trekk av huden, fjern gamle rør, kok grundig, og prøv første gang bare en liten mengde. Unge, faste fruktlegemer er best. I denne katalogen regnes den ikke som en førsteklasses matsopp.",
+      "confusion": "Smørsopp (Suillus luteus) vokser også under furuer, men har en tydelig hinneaktig ring og en mørkere brun, slimete hatt. Suillus collinitus er likeså ringløs og svært lik, men hatten har ofte mørke radiale striper, og stokkbasen er kledd med rosa mycel. Seig kusopp (Suillus bovinus) har store, kantede, sammensatte porer og en ringløs stokk uten glandulære korn. Ingen av disse forvekslingsartene er farlige. Nordamerikanske funn under navnet S. granulatus er ofte andre arter, for eksempel Suillus weaverae.",
+      "notes": "Det mest pålitelige feltkjennetegnet er kombinasjonen av en slimete, kornet, ringløs stokk, små enkle gule porer som hos unge ‘gråter’, og vekst under tonållete furuer. Hatthuden lar seg lett trekke av.",
+      "names": [
+        "ringlaus smørsopp"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/8146046",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "ringløs smørsopp"
+    },
+    "pl": {
+      "description": "Średniej wielkości grzyb rurkowy lasów sosnowych z sosnami dwuigielnymi. Poznaje się go po śluzowatym, cynamonowym do pomarańczowobrązowego kapeluszu, drobnych, prostych żółtych porach, które u młodych owocników wydzielają mleczne kropelki, oraz jasnożółtym trzonie bez pierścienia, w górnej części usianym ziarenkami. Miąższ jest jasnożółty i nie sinieje.",
+      "cap": "Kapelusz 3–12 cm średnicy; najpierw wypukły, później spłaszczony, u młodych z podwiniętym brzegiem. Cynamonowobrązowy, rdzawo pomarańczowobrązowy lub żółtawobrązowy, z wiekiem często blaknący, gładki, w wilgoci lśniący i śluzowaty, w suszy lśniący. Skórkę łatwo ściągnąć. Brak ciemnych, promienistych prążków.",
+      "hymenium": "Rurki długie do ok. 1 cm, przyrośnięte do słabo zbiegających, najpierw cytrynowożółte, później ochrowe do brązowożółtych. Pory drobne i proste (nie złożone), tej samej barwy co rurki, u młodych wydzielają białe, mleczne kropelki; po wyschnięciu pozostają brązowawe plamki. Po uciśnięciu nie sinieją.",
+      "stipe": "Trzon 4–10 cm długi i 0,8–2 cm gruby, walcowaty lub ku podstawie nieco zwężony, pełny, blado cytrynowożółty do białawego, bez pierścienia i bez osłony. Górna połowa usiana drobnymi, gruczołowatymi ziarenkami, początkowo jasnymi, później brązowawymi. U podstawy brak różowawego mycelium.",
+      "flesh": "Miąższ jasnożółty do białawego, nad rurkami i w trzonie intensywniej cytrynowożółty, miękki, później w kapeluszu wodnisty, na przekroju niezmienny lub tylko nieznacznie ciemniejszy — nie sinieje. Zapach słaby, lekko owocowy lub kwaśnawy; smak łagodny, lekko kwaśnawy.",
+      "sporePrint": "Wysyp zarodników ochrowy do żółtobrązowego lub sienna brązowego. Zarodniki gładkie, prawie wrzecionowate, 8–10 × 2,5–4 µm.",
+      "habitat": "Grzyb ektomykoryzowy sosen dwuigielnych, zwłaszcza sosny zwyczajnej (Pinus sylvestris) i sosny czarnej (Pinus nigra), na glebach piaszczystych lub wapiennych, także na skrajach lasów, zrębach, przy drogach i w niskiej trawie pod sosnami. Często rośnie w grupach lub gromadnie. Rozpowszechniony w Europie i w dużej części umiarkowanej półkuli północnej, zawleczony też z sadzonymi sosnami gdzie indziej. W Europie Środkowej owocniki pojawiają się od czerwca do listopada; w Wielkiej Brytanii i Irlandii częściej od lipca do listopada, a dalej na południu sezon może trwać dłużej.",
+      "uses": "Jadalny ostrożnie. Wiele środkowoeuropejskich przewodników ceni go wysoko, ale śluzowatą skórkę kapelusza i rurki starszych owocników zwykle się usuwa, a u niektórych osób grzyby z rodzaju Suillus wywołują dolegliwości żołądkowe. Ściągnij skórkę, usuń stare rurki, dokładnie ugotuj i za pierwszym razem spróbuj tylko niewielkiej ilości. Najlepsze są młode, jędrne owocniki. W tym katalogu nie jest traktowany jako grzyb wybornie jadalny.",
+      "confusion": "Maślak zwyczajny (Suillus luteus) również rośnie pod sosnami, ale ma wyraźny błoniasty pierścień i ciemniejszy, brązowy, śluzowaty kapelusz. Maślak rdzawobrązowy (Suillus collinitus) jest również bez pierścienia i bardzo podobny, ale kapelusz często ma ciemne, promieniste prążki, a podstawę trzonu okrywa różowawe mycelium. Maślak sitarz (Suillus bovinus) ma duże, kanciaste, złożone pory i trzon bez pierścienia i bez gruczołowatych ziarenek. Żaden z tych gatunków nie jest groźny. Północnoamerykańskie stanowiska podawane jako S. granulatus to często inne gatunki, na przykład Suillus weaverae.",
+      "notes": "Najpewniejszą cechą w terenie jest połączenie śluzowatego trzonu bez pierścienia z gruczołowatymi ziarenkami, drobnych prostych żółtych porów, które w młodości „płaczą”, i wzrostu pod sosnami dwuigielnymi. Skórkę kapelusza łatwo ściągnąć.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Ma%C5%9Blak_ziarnisty",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "maślak ziarnisty"
+    },
+    "pt": {
+      "description": "Um boleto de tamanho médio de pinhais de pinheiros de duas agulhas. Reconhece-se por um chapéu viscoso cor de canela a pardo-alaranjado, poros amarelos pequenos e simples que nos exemplares jovens exsudam gotículas leitosas, e um pé amarelo-pálido sem anel, pontilhado de grânulos na parte superior. A carne é amarelo-pálida e não azul.",
+      "cap": "Chapéu de 3 a 12 cm de diâmetro; primeiro convexo, depois aplanado, com a margem enrolada nos jovens. Pardo-canela, pardo-alaranjado ferruginoso ou pardo-amarelado, muitas vezes mais pálido com a idade, liso, brilhante e viscoso quando húmido, brilhante quando seco. A cutícula destaca-se com facilidade. Sem estrias radiais escuras.",
+      "hymenium": "Tubos com até cerca de 1 cm de comprimento, adnatos a ligeiramente decurrentes, primeiro amarelo-limão, depois ocre a pardo-amarelados. Poros pequenos e simples (não compostos), da mesma cor que os tubos, que nos jovens exsudam gotículas branco-leitosas; ao secarem deixam manchas acastanhadas. Não azulam à pressão.",
+      "stipe": "Pé de 4 a 10 cm de comprimento e 0,8 a 2 cm de espessura, cilíndrico ou um pouco atenuado para a base, maciço, amarelo-limão pálido a esbranquiçado, sem anel nem véu. A metade superior está pontilhada de pequenos grânulos glandulares, primeiro pálidos e depois acastanhados. Na base não há micélio-rosado.",
+      "flesh": "Carne amarelo-pálida a esbranquiçada, de um amarelo-limão mais intenso acima dos tubos e no pé, mole, depois aquosa no chapéu, imutável ou apenas um pouco mais escura ao corte — não azul. Cheiro fraco, ligeiramente frutado ou ácido; sabor suave, um pouco ácido.",
+      "sporePrint": "Esporada ocre a pardo-amarelada ou pardo-siena. Esporos lisos, quase fusiformes, 8–10 × 2,5–4 µm.",
+      "habitat": "Espécie ectomicorrízica de pinheiros de duas agulhas, sobretudo o pinheiro-silvestre (Pinus sylvestris) e o pinheiro-negro (Pinus nigra), em solos arenosos ou calcários, também em orlas, clareiras, bordos de caminhos e relva curta sob pinheiros. Muitas vezes em grupos ou tropas. Amplamente distribuída na Europa e em grande parte da zona temperada do hemisfério norte, e introduzida noutros lugares com pinheiros plantados. Na Europa Central frutifica de junho a novembro; na Grã-Bretanha e na Irlanda encontra-se mais vezes de julho a novembro, e mais a sul a estação pode prolongar-se.",
+      "uses": "Comestível com precaução. Muitos guias da Europa Central avaliam-no muito bem, mas costuma retirar-se a cutícula viscosa e os tubos dos exemplares velhos, e algumas pessoas têm perturbações gástricas com os Suillus. Descasque o chapéu, deite fora os tubos velhos, cozinhe bem e prove apenas uma pequena quantidade da primeira vez. Os corpos jovens e firmes são os melhores. Neste catálogo não é tratado como um comestível de escolha.",
+      "confusion": "Suillus luteus também cresce sob pinheiros, mas tem um anel membranoso nítido e um chapéu viscoso pardo mais escuro. Suillus collinitus é igualmente sem anel e muito semelhante, mas o chapéu mostra muitas vezes estrias radiais escuras e a base do pé está envolvida por micélio-rosado. Suillus bovinus tem poros grandes, angulosos e compostos e um pé sem anel nem grânulos glandulares. Nenhum destes semelhantes é perigoso. Os registos norte-americanos nomeados S. granulatus são muitas vezes outras espécies, por exemplo Suillus weaverae.",
+      "notes": "O carácter de campo mais fiável é a combinação de um pé viscoso sem anel, granulado para o ápice, poros amarelos pequenos e simples que «choram» nos jovens, e o crescimento sob pinheiros de duas agulhas. A cutícula do chapéu destaca-se com facilidade.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un burete de mărime mijlocie al pădurilor de pini cu două ace. Se recunoaște după pălăria vâscoasă scorțișorie până la brun-portocalie, porii galbeni mici și simpli care la exemplarele tinere elimină picături lăptoase, și piciorul galben-pal fără inel, punctat cu granule în partea superioară. Carnea este galben-pală și nu albastră.",
+      "cap": "Pălăria de 3–12 cm în diametru; mai întâi convexă, apoi turtită, cu marginea răsucită la cele tinere. Brun-scorțișorie, brun-portocalie ruginie sau brun-gălbuie, adesea mai pală cu vârsta, netedă, lucioasă și vâscoasă pe umed, lucioasă pe uscat. Cuticula se dezlipește ușor. Fără striații radiale întunecate.",
+      "hymenium": "Tuburile lungi de până la circa 1 cm, adnate până la ușor decurente, mai întâi galben-lămâi, apoi ocru până la brun-gălbui. Porii mici și simpli (nu compuși), de aceeași culoare ca tuburile, care la cele tinere elimină picături alb-lăptoase; după uscare rămân pete brun-deschise. Nu se albăstresc la apăsare.",
+      "stipe": "Piciorul de 4–10 cm lungime și 0,8–2 cm grosime, cilindric sau ușor atenuat spre bază, plin, galben-lămâi pal până la albicios, fără inel și fără văl. Jumătatea superioară este punctată cu granule glandulare mici, mai întâi palide, apoi brun-deschise. La bază nu există miceliu roz.",
+      "flesh": "Carnea galben-pală până la albicioasă, de un galben-lămâi mai intens deasupra tuburilor și în picior, moale, apoi apoasă în pălărie, neschimbată sau doar puțin mai închisă la tăiere — nu albastră. Miros slab, ușor fructat sau acrișor; gust blând, puțin acrișor.",
+      "sporePrint": "Sporada ocru până la galben-brun sau brun-siena. Sporii netezi, aproape fusiformi, 8–10 × 2,5–4 µm.",
+      "habitat": "Specie ectomicoriziană a pinilor cu două ace, mai ales pinul silvestru (Pinus sylvestris) și pinul negru (Pinus nigra), pe soluri nisipoase sau calcaroase, și la liziere, poieni, de-a lungul potecilor și în iarba scurtă sub pini. Adesea în grupuri sau cete. Răspândită în Europa și în mare parte din zona temperată a emisferei nordice, și introdusă în alte locuri odată cu pinii plantați. În Europa Centrală fructifică din iunie până în noiembrie; în Marea Britanie și Irlanda se găsește mai des din iulie până în noiembrie, iar mai la sud sezonul poate dura mai mult.",
+      "uses": "Comestibilă cu prudență. Multe ghiduri din Europa Centrală o prețuiesc, dar de obicei se îndepărtează cuticula vâscoasă și tuburile exemplarelor bătrâne, iar unii oameni au tulburări gastrice de la speciile de Suillus. Decojiți pălăria, îndepărtați tuburile vechi, gătiți temeinic și gustați doar o cantitate mică prima dată. Cele mai bune sunt corpurile tinere și ferme. În acest catalog nu este tratată ca o ciupercă de calitate superioară.",
+      "confusion": "Turta vacii (Suillus luteus) crește și ea sub pini, dar are un inel membranos clar și o pălărie vâscoasă brună mai închisă. Pitoașcă fără inel (Suillus collinitus) este de asemenea fără inel și foarte asemănătoare, dar pălăria arată adesea striații radiale întunecate, iar baza piciorului este învăluită de miceliu roz. Suillus bovinus are pori mari, unghiulari și compuși și un picior fără inel și fără granule glandulare. Niciuna dintre aceste specii asemănătoare nu este periculoasă. Înregistrările nord-americane numite S. granulatus sunt adesea alte specii, de exemplu Suillus weaverae.",
+      "notes": "Cel mai de încredere caracter de teren este combinația dintre un picior vâscos fără inel, granulat spre vârf, pori galbeni mici și simpli care «plâng» la cele tinere, și creșterea sub pini cu două ace. Cuticula pălăriei se dezlipește ușor.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Средний трубчатый гриб сосновых лесов с двухигольной хвоей. Его узнают по слизистой коричнево-оранжевой шляпке, мелким простым жёлтым порам, которые у молодых плодовых тел выделяют молочные капли, и бледно-жёлтой ножке без кольца, в верхней части усеянной крупинками. Мякоть бледно-жёлтая и не синеет.",
+      "cap": "Шляпка 3–12 см в поперечнике; сначала выпуклая, затем плоская, у молодых с подвёрнутым краем. Коричнево-коричная, ржаво-оранжево-коричневая или желтовато-коричневая, с возрастом часто бледнеет, гладкая, во влажную погоду блестящая и слизистая, в сухую — блестящая. Кожица легко снимается. Тёмных радиальных полос нет.",
+      "hymenium": "Трубочки длиной до около 1 см, приросшие до слегка нисходящих, сначала лимонно-жёлтые, затем охристые до буро-жёлтых. Поры мелкие и простые (не сложные), того же цвета, что и трубочки, у молодых выделяют бело-молочные капли; высохшие капли оставляют буроватые пятнышки. При надавливании не синеют.",
+      "stipe": "Ножка 4–10 см длиной и 0,8–2 см толщиной, цилиндрическая или к основанию слегка суженная, сплошная, бледно-лимонно-жёлтая до беловатой, без кольца и без покрывала. Верхняя половина усеяна мелкими желёзистыми крупинками, сначала бледными, затем буроватыми. У основания нет розового мицелия.",
+      "flesh": "Мякоть бледно-жёлтая до беловатой, над трубочками и в ножке более насыщенно лимонно-жёлтая, мягкая, позднее в шляпке водянистая, на разрезе неизменная или лишь слегка темнеет — не синеет. Запах слабый, слегка фруктовый или кисловатый; вкус мягкий, слегка кисловатый.",
+      "sporePrint": "Споровый порошок охристый до жёлто-бурого или сиенового. Споры гладкие, почти веретеновидные, 8–10 × 2,5–4 мкм.",
+      "habitat": "Эктомикоризный гриб двухигольных сосен, особенно сосны обыкновенной (Pinus sylvestris) и сосны чёрной (Pinus nigra), на песчаных или известковых почвах, также по опушкам, на вырубках, вдоль троп и в низкой траве под соснами. Часто растёт группами или стаями. Широко распространён в Европе и в большей части умеренной зоны Северного полушария и завезён в другие места с посаженными соснами. В Центральной Европе плодовые тела с июня по ноябрь; в Великобритании и Ирландии чаще с июля по ноябрь, а южнее сезон может длиться дольше.",
+      "uses": "Съедобен с осторожностью. Многие центральноевропейские определители ценят его высоко, но слизистую кожицу шляпки и трубочки старых плодовых тел обычно удаляют, а у некоторых людей грибы рода Suillus вызывают желудочные расстройства. Снимите кожицу, удалите старые трубочки, тщательно проварите и в первый раз попробуйте лишь небольшое количество. Лучше всего молодые, плотные плодовые тела. В этом каталоге он не считается отборным съедобным грибом.",
+      "confusion": "Маслёнок обыкновенный (Suillus luteus) тоже растёт под соснами, но имеет явственное перепончатое кольцо и более тёмную коричневую слизистую шляпку. Маслёнок неокольцованный (Suillus collinitus) также без кольца и очень похож, но шляпка часто с тёмными радиальными полосками, а основание ножки одето розовым мицелием. Козляк (Suillus bovinus) имеет крупные угловатые сложные поры и ножку без кольца и без желёзистых крупинок. Ни один из этих сходных видов не опасен. Североамериканские находки под именем S. granulatus часто относятся к другим видам, например Suillus weaverae.",
+      "notes": "Самый надёжный полевой признак — сочетание слизистой ножки без кольца с желёзистыми крупинками, мелких простых жёлтых пор, которые у молодых «плачут», и роста под двухиглыми соснами. Кожица шляпки легко снимается.",
+      "names": [
+        "зернистый маслёнок"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%91%D0%BD%D0%BE%D0%BA_%D0%B7%D0%B5%D1%80%D0%BD%D0%B8%D1%81%D1%82%D1%8B%D0%B9",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "маслёнок зернистый"
+    },
+    "sk": {
+      "description": "Stredne veľká rúrkovitá huba dvojihlicových borovíc. Spozná sa podľa slizkého škoricového až oranžovohnedého klobúka, drobných jednoduchých žltých pórov, ktoré za mladi roní mliečne kvapky, a bledého žltého hlúbika bez prsteňa, v hornej časti posiateho zrnkami. Dužina je bledožltá a nemodrie.",
+      "cap": "Klobúk 3–12 cm široký; spočiatku vypuklý, neskôr sploštený, za mladi s podvinutým okrajom. Škoricovohnedý, hrdzavo oranžovohnedý alebo žltkastohnedý, s vekom často blednúci, hladký, za vlhka lesklý a slizký, za sucha lesklý. Pokožka sa dá ľahko stiahnuť. Nemá tmavé radiálne pruhy.",
+      "hymenium": "Rúrky dlhé do asi 1 cm, prirastené až slabo zbiehavé, spočiatku citrónovožlté, neskôr okrové až hnedožlté. Póry drobné a jednoduché (nie zložené), sfarbené ako rúrky, za mladi roní bielomliečne kvapky; po zaschnutí ostávajú hnedasté bodky. Pri potlačení nemodrejú.",
+      "stipe": "Hlúbik 4–10 cm dlhý a 0,8–2 cm hrubý, valcovitý alebo k báze slabo zúžený, plný, bledo citrónovožltý až belavý, bez prsteňa a bez závoja. Horná polovica je posiata drobnými žliazkatými zrnkami, spočiatku bledými, neskôr hnedastými. Pri báze nie je ružovkasté podhubie.",
+      "flesh": "Dužina bledožltá až belavá, nad rúrkami a v hlúbiku sýtejšie citrónovožltá, mäkká, neskôr v klobúku vodnatá, na reze nemenná alebo len slabo tmavšia — nemodrie. Vôňa slabá, slabo ovocná alebo kyslastá; chuť jemná, slabo kyslastá.",
+      "sporePrint": "Výtrusný prach okrový až žltohnedý alebo sienna hnedý. Výtrusy hladké, takmer vretenovité, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorízna huba dvojihlicových borovíc, najmä borovice lesnej (Pinus sylvestris) a borovice čiernej (Pinus nigra), na piesočnatých alebo vápnitých pôdach, aj na okrajoch lesov, rúbaniskách, popri cestách a v nízkej tráve pod borovicami. Často rastie v skupinách alebo húfoch. Rozšírená v Európe a vo veľkej časti mierneho pásma severnej pologule a zavlečená aj s vysadenými borovicami inde. V strednej Európe plodí od júna do novembra; v Británii a Írsku sa častejšie nachádza od júla do novembra a ďalej na juhu môže sezóna trvať dlhšie.",
+      "uses": "Jedlá s opatrnosťou. Mnohé stredoeurópske príručky ju hodnotia vysoko, ale slizká pokožka klobúka a rúrky starších plodníc sa zvyčajne odstraňujú a niektorým ľuďom huby rodu Suillus spôsobujú zažívacie ťažkosti. Pokožku stiahnite, staré rúrky odstráňte, dôkladne uvarte a pri prvom ochutnaní vezmite len malé množstvo. Najlepšie sú mladé, pevné plodnice. V tomto katalógu nie je vedená ako prvotriedna jedlá huba.",
+      "confusion": "Masliak obyčajný (Suillus luteus) rastie tiež pod borovicami, ale má zreteľný blanitý prsteň a tmavší hnedý slizký klobúk. Masliak kopcový (Suillus collinitus) je tiež bez prsteňa a veľmi podobný, ale klobúk má často tmavé radiálne pruhy a bázu hlúbika pokrýva ružovkasté podhubie. Masliak kravský (Suillus bovinus) má veľké hranaté zložené póry a hlúbik bez prsteňa a bez žliazkatých zŕn. Žiadny z týchto druhov nie je nebezpečný. Severoamerické nálezy vedené ako S. granulatus sú často iné druhy, napríklad Suillus weaverae.",
+      "notes": "Najspoľahlivejším znakom v teréne je kombinácia slizkého hlúbika bez prsteňa so žliazkatými zrnkami, drobných jednoduchých žltých pórov, ktoré za mladi mliečia, a rastu pod dvojihlicovými borovicami. Pokožka klobúka sa dá ľahko stiahnuť, na rozdiel od masliaka kravského, ktorému ide dole len v útržkoch.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Suillus-granulatus/masliak-zrnity/klouzek-zrnity/ID279",
+        "https://www.inaturalist.org/taxa/179065",
+        "https://fotonet.sk/atlas/fungi_huby/suillus-granulatus"
+      ],
+      "label": "masliak zrnitý"
+    },
+    "sl": {
+      "description": "Srednje velika cevasta goba dvigličnih borov. Prepozna se po sluzastem cimetastem do oranžnorjavem klobuku, drobnih preprostih rumenih porah, ki pri mladih trosnjakih izločajo mlečne kapljice, in bledorumenelem betu brez obročka, v zgornjem delu posutem z zrnci. Meso je bledorumeno in ne modri.",
+      "cap": "Klobuk 3–12 cm širok; najprej izbočen, pozneje sploščen, pri mladih s podvihanim robom. Cimetastorjav, rjasto oranžnorjav ali rumenkastorjav, s starostjo pogosto bledi, gladek, v mokrem sijajen in sluzast, v suhem sijajen. Kožico je mogoče zlahka olupiti. Nima temnih radialnih prog.",
+      "hymenium": "Cevke dolge do približno 1 cm, prirasle do rahlo zbegačih, najprej limonasto rumene, pozneje okraste do rjavorumene. Pore drobne in preproste (ne sestavljene), enake barve kot cevke, pri mladih izločajo belo mlečne kapljice; po zasušitvi ostanejo rjavkaste pege. Pri pritisku ne modrijo.",
+      "stipe": "Bet 4–10 cm dolg in 0,8–2 cm debel, valjast ali proti dnišču rahlo zožen, poln, bledo limonasto rumen do belkast, brez obročka in brez ovojnice. Zgornja polovica je posuta z drobnimi žleznimi zrnci, najprej bledimi, pozneje rjavkastimi. Pri dnišču ni rožnatega podgobja.",
+      "flesh": "Meso bledorumeno do belkasto, nad cevkami in v betu intenzivneje limonasto rumeno, mehko, pozneje v klobuku vodeno, na prerezu nespremenjeno ali le rahlo temnejše — ne modri. Vonj šibak, rahlo sadast ali kiselkast; okus blag, rahlo kiselkast.",
+      "sporePrint": "Trosni prah okrast do rumenorjav ali sienarjav. Trosi gladki, skoraj vretenasti, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomikorizna goba dvigličnih borov, zlasti rdečega bora (Pinus sylvestris) in črnega bora (Pinus nigra), na peščenih ali apnenčastih tleh, tudi na gozdnih robovih, posekah, ob poteh in v nizki travi pod borovci. Pogosto raste v skupinah ali množicah. Razširjena v Evropi in v velikem delu zmernega pasu severne poloble ter zanesena tudi z zasajenimi borovci drugod. V srednji Evropi trosnjaki rastejo od junija do novembra; v Britaniji in na Irskem pogosteje od julija do novembra, južneje pa lahko sezona traja dlje.",
+      "uses": "Užitna previdno. Številni srednjeevropski priročniki jo cenijo visoko, vendar sluzasto kožico klobuka in cevke starejših trosnjakov po navadi odstranimo, nekaterim ljudem pa gobe rodu Suillus povzročajo želodčne težave. Kožico olupite, stare cevke odstranite, temeljito skuhajte in prvič poskusite le majhno količino. Najboljši so mladi, čvrsti trosnjaki. V tem katalogu ni vodena kot izvrstno užitna goba.",
+      "confusion": "Maslena lupljivka (Suillus luteus) prav tako raste pod borovci, vendar ima jasen kožnat obroček in temnejši rjav sluzast klobuk. Brezobročna lupljivka (Suillus collinitus) je prav tako brez obročka in zelo podobna, vendar ima klobuk pogosto temne radialne proge, dno beta pa obdaja rožnato podgobje. Prožna lupljivka (Suillus bovinus) ima velike kotaste sestavljene pore in bet brez obročka in brez žleznih zrn. Nobena od teh vrst ni nevarna. Severnoameriške najdbe, vodene kot S. granulatus, so pogosto druge vrste, na primer Suillus weaverae.",
+      "notes": "Najzanesljivejša terenska znamenja so sluzast bet brez obročka z žleznimi zrnci, drobne preproste rumene pore, ki pri mladih »jočejo«, in rast pod dvigličnimi borovci. Kožico klobuka je mogoče zlahka olupiti.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Ov%C4%8Darska_lupljivka",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "ovčarska lupljivka"
+    },
+    "sr": {
+      "description": "Средње велика цеваста гљива двоигличастих борова. Препознаје се по слузавом циметастом до наранџастосмеђем шеширу, ситним једноставним жутим порама које код младих плодних тела испуштају млечне капи, и бледожутој дршци без прстена, у горњем делу посутој зрнцима. Месо је бледожуто и не плави.",
+      "cap": "Шешир 3–12 cm широк; најпре испупчен, касније спљоштен, код младих са подвијеним ободом. Циметастосмеђ, рђасто наранџастосмеђ или жућкастосмеђ, са старењем често бледи, гладак, по влажном сјајан и слузав, по сувом сјајан. Кожица се лако гули. Нема тамних радијалних пруга.",
+      "hymenium": "Цевчице дуге до око 1 cm, прирасле до слабо силазних, најпре лимунасто жуте, касније окераста до смеђежуте. Поре ситне и једноставне (не сложене), исте боје као цевчице, код младих испуштају беле млечне капи; после сушења остају смеђкасте пеге. При притиску не плаве.",
+      "stipe": "Дршка 4–10 cm дуга и 0,8–2 cm дебела, ваљкаста или према дну слабо сужена, пуна, бледо лимунасто жута до беличаста, без прстена и без овоја. Горња половина је посута ситним жлездастим зрнцима, најпре бледим, касније смеђкастим. При дну нема ружичастог мицелијума.",
+      "flesh": "Месо бледожуто до беличасто, изнад цевчица и у дршци јаче лимунасто жуто, меко, касније у шеширу воденасто, на пресеку непромењено или само слабо тамније — не плави. Мирис слаб, слабо воћни или киселкаст; укус благ, слабо киселкаст.",
+      "sporePrint": "Отисак спора окераст до жутосмеђ или сијена смеђ. Споре глатке, готово вретенасте, 8–10 × 2,5–4 µm.",
+      "habitat": "Ектомикоризна гљива двоигличастих борова, нарочито белог бора (Pinus sylvestris) и црног бора (Pinus nigra), на песковитим или кречњачким тлима, и на рубовима шума, чистинама, уз стазе и у ниској трави под боровима. Често расте у групама или бројним групама. Распрострањена у Европи и у великом делу умереног појаса северне полулопте и унета и са сађеним боровима другде. У средњој Европи плодна тела јављају се од јуна до новембра; у Британији и Ирској чешће од јула до новембра, а јужније сезона може трајати дуже.",
+      "uses": "Јстива опрезно. Многи средњоевропски приручници је цене високо, али слузаву кожицу шешира и цевчице старијих плодних тела обично се уклањају, а некима гљиве рода Suillus изазивају желудачне тегобе. Ољуштите кожицу, уклоните старе цевчице, темељно скувајте и први пут пробајте само малу количину. Најбоља су млада, чврста плодна тела. У овом каталогу није вођена као изврсно јестива гљива.",
+      "confusion": "Осинац (Suillus luteus) такође расте под боровима, али има изразит опнаст прстен и тамнији смеђи слузави шешир. Зракасти боричар (Suillus collinitus) такође је без прстена и врло сличан, али шешир често има тамне радијалне пруге, а базу дршке обавија ружичаст мицелијум. Suillus bovinus има велике угаоне сложене поре и дршку без прстена и без жлездастих зрнаца. Ниједна од тих врста није опасна. Северноамерички налази вођени као S. granulatus често су друге врсте, на пример Suillus weaverae.",
+      "notes": "Најпоузданије теренско обележје је спој слузаве дршке без прстена са жлездастим зрнцима, ситних једноставних жутих пора које код младих „плачу“, и раста под двоигличастим боровима. Кожица шешира се лако гули.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En medelstor sopp i skogar med tvåbarriga tallar. Den känns igen på en slemmig kanel- till orangebrun hatt, små, enkla gula porer som hos unga fruktkroppar avsöndrar mjölkaktiga droppar, och en ringlös, blekgul fot som i den övre delen är besatt med korn. Köttet är blekgult och blånar inte.",
+      "cap": "Hatt 3–12 cm bred; först välvd, senare tillplattad, hos unga med invikt kant. Kanelbrun, rostigt orangebrun eller gulaktigt brun, med åldern ofta bleknande, slät, fuktigt blank och slemmig, torrt blank. Huden går lätt att dra av. Inga mörka radiära strimmor.",
+      "hymenium": "Rör upp till ca 1 cm långa, vidvuxna till svagt nedlöpande, först citrongula, senare ockra till brunsgula. Porer små och enkla (inte sammansatta), samma färg som rören, hos unga avsöndrande mjölkvita droppar; de torkade dropparna lämnar brunaktiga fläckar. De blånar inte vid tryck.",
+      "stipe": "Fot 4–10 cm lång och 0,8–2 cm tjock, cylindrisk eller mot basen något avsmalnande, solid, blekt citrongul till vitaktig, utan ring och utan slöja. Den övre halvan är besatt med små glandulära korn, först bleka, senare brunaktiga. Vid basen inget rosa mycel.",
+      "flesh": "Kött blekgult till vitaktigt, ovanför rören och i foten djupare citrongult, mjukt, senare vattnigt i hatten, oförändrat eller endast svagt mörkare i snitt — det blånar inte. Lukt svag, lätt fruktig eller syrlig; smak mild, lätt syrlig.",
+      "sporePrint": "Sporavtryck ockra- till gulbrunt eller sienna-brunt. Sporer släta, nästan spolformade, 8–10 × 2,5–4 µm.",
+      "habitat": "Ektomykorrhizabildande med tvåbarriga tallar, särskilt tall (Pinus sylvestris) och svarttall (Pinus nigra), på sandig eller kalkhaltig mark, även i skogsbryn, på hyggen, längs stigar och i kort gräs under tallar. Ofta i grupper eller troppar. Utbredd i Europa och i stora delar av den tempererade norra hemisfären, och införd med planterade tallar på andra håll. I Centraleuropa fruktkroppar från juni till november; i Storbritannien och Irland oftare från juli till november, och längre söderut kan säsongen vara längre.",
+      "uses": "Ätlig med försiktighet. Många centraleuropeiska handböcker värderar den högt, men den slemmiga hatthuden och rören hos äldre fruktkroppar avlägsnas vanligen, och en del människor får magbesvär av Suillus-arter. Dra av huden, ta bort gamla rör, koka grundligt och prova första gången bara en liten mängd. Unga, fasta fruktkroppar är bäst. I denna katalog räknas den inte som en förstklassig matsvamp.",
+      "confusion": "Smörsopp (Suillus luteus) växer också under tallar, men har en tydlig hinnalik ring och en mörkare brun, slemmig hatt. Suillus collinitus är likaledes ringlös och mycket lik, men hatten har ofta mörka radiära strimmor och fotbasen är klädd med rosa mycel. Örsopp (Suillus bovinus) har stora, kantiga, sammansatta porer och en ringlös fot utan glandulära korn. Ingen av dessa förväxlingsarter är farlig. Nordamerikanska fynd under namnet S. granulatus är ofta andra arter, till exempel Suillus weaverae.",
+      "notes": "Det mest tillförlitliga fältkännetecknet är kombinationen av en slemmig, kornig, ringlös fot, små enkla gula porer som hos unga ‘gråter’, och växt under tvåbarriga tallar. Hatthuden går lätt att dra av.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/8146046",
+        "https://sv.wikipedia.org/wiki/Grynsopp",
+        "https://www.wikidata.org/wiki/Q1142857"
+      ],
+      "label": "grynsopp"
+    },
+    "tr": {
+      "description": "İki iğneli çam ormanlarının orta boy bir borulu mantarıdır. Sümüksü tarçın-turuncu kahverengi şapkası, gençken sütlü damlalar salgılayan küçük, basit sarı gözenekleri ve üst kısmı tanecikli, halkasız soluk sarı sapıyla tanınır. Eti soluk sarıdır ve mavileşmez.",
+      "cap": "Şapka 3–12 cm genişlikte; önce dışbükey, sonra basık, gençlerde kıvrık kenarlı. Tarçın kahverengi, paslı turuncu kahverengi veya sarımsı kahverengi, yaşlandıkça çoğu kez solar, düz, nemliyken parlak ve sümüksü, kuruyken parlak. Kabuk kolayca soyulur. Koyu ışınsal çizgiler yoktur.",
+      "hymenium": "Tüpler en fazla yaklaşık 1 cm uzunlukta, bitişik veya hafifçe aşağı inen, önce limon sarısı, sonra okradan kahverengimsi sarıya. Gözenekler küçük ve basit (bileşik değil), tüplerle aynı renkte; gençlerde süt beyazı damlalar salgılar; kuruyan damlalar kahverengimsi lekeler bırakır. Bastırınca mavileşmezler.",
+      "stipe": "Sap 4–10 cm uzunlukta ve 0,8–2 cm kalınlıkta, silindirik veya tabana doğru biraz daralmış, dolu, soluk limon sarısından beyazımsıya, halkasız ve örtüsüz. Üst yarısı önce soluk, sonra kahverengimsi küçük salgı tanecikleriyle örtülüdür. Tabanda pembe miselyum yoktur.",
+      "flesh": "Et soluk sarıdan beyazımsıya, tüplerin üzerinde ve sapta daha koyu limon sarısı, yumuşak, sonra şapkada sulu, kesitte değişmez veya yalnızca biraz koyulaşır — mavileşmez. Koku zayıf, hafif meyvemsi veya ekşimsi; tat yumuşak, hafif ekşimsi.",
+      "sporePrint": "Spor izi okradan sarı-kahverengiye veya siena kahverengiye. Sporlar düz, neredeyse iğ biçimli, 8–10 × 2,5–4 µm.",
+      "habitat": "İki iğneli çamlarla, özellikle sarıçam (Pinus sylvestris) ve karaçam (Pinus nigra) ile ektomikorizaldir; kumlu veya kireçli topraklarda, orman kenarlarında, açıklıklarda, patika kenarlarında ve çamların altındaki kısa çimde de bulunur. Sıklıkla gruplar veya kümeler hâlinde. Avrupa’da ve kuzey yarımkürenin ılıman kuşağının büyük kısmında yaygındır ve dikilmiş çamlarla başka yerlere de götürülmüştür. Orta Avrupa’da Haziran–Kasım arasında meyve verir; Britanya ve İrlanda’da daha çok Temmuz–Kasım arasında bulunur, daha güneyde mevsim uzayabilir.",
+      "uses": "Dikkatle yenir. Birçok Orta Avrupa rehberi onu yüksek tutar, ancak sümüksü şapka kabuğu ve yaşlı örneklerin tüpleri genellikle çıkarılır ve bazı kişilerde Suillus türleri mide rahatsızlığı yapar. Kabuğu soyun, eski tüpleri atın, iyice pişirin ve ilk kez yalnızca az bir miktar tadın. En iyisi genç, sıkı meyve gövdeleridir. Bu katalogda seçkin yenilebilir bir mantar olarak işlenmez.",
+      "confusion": "Kaypak mantarı (Suillus luteus) de çamların altında yetişir, ancak belirgin zarlı bir halkası ve daha koyu kahverengi, sümüksü bir şapkası vardır. Suillus collinitus de halkasızdır ve çok benzer, ancak şapkada çoğu kez koyu ışınsal çizgiler vardır ve sap tabanı pembe miselyumla sarılıdır. Suillus bovinus büyük, köşeli, bileşik gözeneklere ve salgı taneciksiz, halkasız bir sapı vardır. Bu benzerlerin hiçbiri tehlikeli değildir. S. granulatus adı altında kaydedilen Kuzey Amerika kayıtları çoğu kez başka türlerdir, örneğin Suillus weaverae.",
+      "notes": "Arazide en güvenilir özellik, üstü tanecikli sümüksü halkasız sap, gençken ‘ağlayan’ küçük basit sarı gözenekler ve iki iğneli çamların altında büyümenin birleşimidir. Şapka kabuğu kolayca soyulur.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Середній трубчастий гриб соснових лісів із двоголковою хвоєю. Його впізнають за слизовою корицево-помаранчево-коричневою шапинкою, дрібними простими жовтими порами, які в молодих плодових тіл виділяють молочні краплі, і блідо-жовтою ніжкою без кільця, у верхній частині всіяною крупинками. М’якуш блідо-жовтий і не синіє.",
+      "cap": "Шапинка 3–12 см у поперечнику; спочатку випукла, потім плеската, в молодих із підгорнутим краєм. Корицево-коричнева, іржаво-помаранчево-коричнева або жовтувато-коричнева, з віком часто блідне, гладка, у вологу погоду блискуча і слизова, в суху — блискуча. Шкірку легко зняти. Темних радіальних смуг немає.",
+      "hymenium": "Трубочки завдовжки до близько 1 см, прирослі до злегка низбіжних, спочатку лимонно-жовті, потім вохристі до буро-жовтих. Пори дрібні й прості (не складні), того ж кольору, що й трубочки, у молодих виділяють біло-молочні краплі; висохлі краплі залишають буруваті цятки. При натисканні не синіють.",
+      "stipe": "Ніжка 4–10 см завдовжки і 0,8–2 см завтовшки, циліндрична або до основи злегка звужена, суцільна, блідо-лимонно-жовта до білуватої, без кільця і без покривала. Верхня половина всіяна дрібними залозистими крупинками, спочатку блідими, потім буруватими. Біля основи немає рожевого міцелію.",
+      "flesh": "М’якуш блідо-жовтий до білуватого, над трубочками і в ніжці насиченіше лимонно-жовтий, м’який, пізніше в шапинці водянистий, на розрізі незмінний або лише трохи темніший — не синіє. Запах слабкий, злегка фруктовий або кислуватий; смак м’який, злегка кислуватий.",
+      "sporePrint": "Споровий порошок вохристий до жовто-бурого або сієнового. Спори гладкі, майже веретеноподібні, 8–10 × 2,5–4 мкм.",
+      "habitat": "Ектомікоризний гриб двоголкових сосен, особливо сосни звичайної (Pinus sylvestris) і сосни чорної (Pinus nigra), на піщаних або вапнякових ґрунтах, також на узліссях, вирубках, уздовж стежок і в низькій траві під соснами. Часто росте групами або зграями. Широко поширений у Європі та в більшій частині помірної зони Північної півкулі й завезений в інші місця з посадженими соснами. У Центральній Європі плодові тіла з червня по листопад; у Великій Британії та Ірландії частіше з липня по листопад, а південніше сезон може тривати довше.",
+      "uses": "Їстівний обережно. Багато центральноєвропейських визначників цінують його високо, але слизову шкірку шапинки та трубочки старих плодових тіл зазвичай знімають, а в деяких людей гриби роду Suillus викликають шлункові розлади. Зніміть шкірку, видаліть старі трубочки, ретельно проваріть і вперше спробуйте лише невелику кількість. Найкращі молоді, щільні плодові тіла. У цьому каталозі його не вважають добірним їстівним грибом.",
+      "confusion": "Маслюк звичайний (Suillus luteus) теж росте під соснами, але має виразне плівчасте кільце і темнішу коричневу слизову шапинку. Suillus collinitus також без кільця і дуже схожий, але шапинка часто з темними радіальними смужками, а основу ніжки вкриває рожевий міцелій. Козляк (Suillus bovinus) має великі кутасті складні пори і ніжку без кільця та без залозистих крупинок. Жоден із цих подібних видів не є небезпечним. Північноамериканські знахідки під назвою S. granulatus часто належать до інших видів, наприклад Suillus weaverae.",
+      "notes": "Найбільш надійна польова ознака — поєднання слизової ніжки без кільця із залозистими крупинками, дрібних простих жовтих пор, які в молодих «плачуть», і росту під двоголковими соснами. Шкірку шапинки легко зняти.",
+      "names": [],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%8E%D0%BA_%D0%B7%D0%B5%D1%80%D0%BD%D0%B8%D1%81%D1%82%D0%B8%D0%B9",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "маслюк зернистий"
+    },
+    "zh": {
+      "description": "生于两针松林中的中等牛肝菌。以其黏滑的肉桂色至橙褐色菌蓋、幼时会渗出乳白色液滴的细小单纯黄孔，以及无菌环、上部具颗粒的浅黄菌柄辨认。菌肉浅黄，不变蓝。",
+      "cap": "菌蓋宽3–12 cm；先凸后平，幼时边缘内卷。肉桂褐、锈橙褐或黄褐色，随年龄常褪淡，表面平滑，湿时有光泽并黏滑，干时仍有光泽。表皮易剥。没有暗色放射条纹。",
+      "hymenium": "菌管长达约1 cm，贴生至稍延生，初柠檬黄，后赭色至褐黄。菌孔小而单纯（非复合孔），与菌管同色，幼时渗出乳白液滴；干涸的液滴留下褐色斑点。按压不变蓝。",
+      "stipe": "菌柄高4–10 cm，粗0.8–2 cm，圆柱形或向基部稍细，实心，浅柠檬黄至近白，无菌环，亦无菌幕。上半部密布细小腺点，初淡后褐。基部没有粉红色菌丝。",
+      "flesh": "菌肉浅黄至近白，菌管之上和菌柄中柠檬黄更深，柔软，后来在菌蓋中含水较多，切开不变色或仅稍变深——不变蓝。气味弱，略带果香或酸味；味道温和，微酸。",
+      "sporePrint": "孢子印赭色至黄褐或赭棕。孢子平滑，近纺锤形，8–10 × 2.5–4 µm。",
+      "habitat": "与两针松、尤其欧洲赤松（Pinus sylvestris）和欧洲黑松（Pinus nigra）形成外生菌根，生于砂质或石灰质土壤，也见于林缘、伐迹、路旁以及松下短草中。常成群或成丛。广布于欧洲及北半球温带的大部分地区，并随栽植松树被引入他处。在中欧，子实体自6月至11月出现；在英国和爱尔兰较常于7月至11月见到，再往南季节可能更长。",
+      "uses": "谨慎可食。许多中欧图鉴评价较高，但通常要剥去黏滑的菌蓋表皮，并去掉老菌的菌管；有些人食用乳牛肝菌属会引起肠胃不适。剥皮、去掉老菌管、充分加热，第一次只尝少量。以幼嫩结实的子实体为佳。本目录不将其作为上品食用菌处理。",
+      "confusion": "褐環乳牛肝菌（Suillus luteus）也生于松下，但有明显的膜质菌环，以及更深的褐色黏滑菌蓋。Suillus collinitus 同样无菌环且极为相似，但菌蓋上常有暗色放射条纹，菌柄基部覆有粉红色菌丝。黏盖乳牛肝菌（Suillus bovinus）具大型角形复合孔，菌柄无菌环、亦无腺点。这些相似种都不危险。北美以 S. granulatus 之名记录的材料常常是其他种，例如 Suillus weaverae。",
+      "notes": "野外最可靠的特征，是带腺点的黏滑无菌环菌柄、幼时会“哭泣”的细小单纯黄孔，以及生于两针松下。菌蓋表皮容易剥下。",
+      "names": [
+        "點柄乳牛肝菌",
+        "点柄粘盖牛肝菌",
+        "点柄黏盖牛肝菌"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/8146046",
+        "https://www.wikidata.org/wiki/Q1142857",
+        "https://www.inaturalist.org/taxa/179065"
+      ],
+      "label": "点柄乳牛肝菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus granulatus",
+      "author": "L.",
+      "year": 1753,
+      "rank": "species",
+      "type": "basionym",
+      "if": 228021
+    },
+    {
+      "name": "Agaricus granulatus",
+      "author": "(L.) Lam.",
+      "year": 1783,
+      "rank": "species",
+      "type": "synonym",
+      "if": 494673
+    },
+    {
+      "name": "Rostkovites granulatus",
+      "author": "(L.) P. Karst.",
+      "year": 1881,
+      "rank": "species",
+      "type": "synonym",
+      "if": 495071
+    },
+    {
+      "name": "Viscipellis granulata",
+      "author": "(L.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "synonym",
+      "if": 580020
+    },
+    {
+      "name": "Ixocomus granulatus",
+      "author": "(L.) Quél.",
+      "year": 1888,
+      "rank": "species",
+      "type": "synonym",
+      "if": 356730
+    },
+    {
+      "name": "Boletus flavorufus",
+      "author": "Schaeff.",
+      "year": 1774,
+      "rank": "species",
+      "type": "synonym",
+      "if": 217147
+    },
+    {
+      "name": "Boletus lactifluus",
+      "author": "With.",
+      "year": 1796,
+      "rank": "species",
+      "type": "synonym",
+      "if": 375347
+    },
+    {
+      "name": "Leccinum lactifluum",
+      "author": "(With.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "synonym",
+      "if": 100517
+    },
+    {
+      "name": "Suillus lactifluus",
+      "author": "(With.) A.H. Sm. & Thiers",
+      "year": 1968,
+      "rank": "species",
+      "type": "synonym",
+      "if": 339852
+    },
+    {
+      "name": "Boletus lactifluus",
+      "author": "Sowerby",
+      "year": 1814,
+      "rank": "species",
+      "type": "synonym",
+      "if": 141859
+    },
+    {
+      "name": "Boletus lactifluus",
+      "author": "(With.) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327047
+    },
+    {
+      "name": "Ixocomus pictilis",
+      "author": "Quél.",
+      "year": 1894,
+      "rank": "species",
+      "type": "synonym",
+      "if": 198761
+    },
+    {
+      "name": "Boletus pictilis",
+      "author": "(Quél.) Sacc. & Traverso",
+      "year": 1910,
+      "rank": "species",
+      "type": "synonym",
+      "if": 200109
+    },
+    {
+      "name": "Boletus campanulatus",
+      "author": "(J. Blum) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327033
+    },
+    {
+      "name": "Boletus heterosporus",
+      "author": "(J. Blum) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327045
+    },
+    {
+      "name": "Boletus longisporus",
+      "author": "(J. Blum & Perr.-Bertr.) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327052
+    },
+    {
+      "name": "Boletus meridionalis",
+      "author": "(J. Blum) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327056
+    },
+    {
+      "name": "Boletus rufopunctatus",
+      "author": "(J. Blum) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327068
+    },
+    {
+      "name": "Boletus violaceopunctatus",
+      "author": "(J. Blum & Azéma) J. Blum",
+      "year": 1969,
+      "rank": "species",
+      "type": "synonym",
+      "if": 327076
+    }
+  ],
+  "reserved": false,
+  "id": 225,
+  "citation": "Fl. Calvados: 34 (1796)"
 }
 ];
