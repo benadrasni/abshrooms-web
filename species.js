@@ -234124,5 +234124,2072 @@ export const CATALOG = [
       "rank": "species"
     }
   ]
+},
+{
+  "name": "Xylaria polymorpha",
+  "author": "(Pers.) Grev.",
+  "family": "Xylariaceae",
+  "genus": "Xylaria",
+  "order": "Xylariales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Sordariomycetes",
+    "Xylariomycetidae",
+    "Xylariales",
+    "Xylariaceae",
+    "Xylaria"
+  ],
+  "summary": [
+    "Xylariales",
+    "Xylariaceae",
+    "Xylaria"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "dark"
+  ],
+  "capFrom": 3.0,
+  "capTo": 8.0,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "ar": "فطر أصابع الرجل الميت",
+    "bg": "Пръсти на мъртвеца",
+    "cs": "dřevnatka mnohotvará",
+    "da": "kølle-stødsvamp",
+    "de": "Vielgestaltige Holzkeule",
+    "en": "dead man's fingers",
+    "es": "Dedos de muerto",
+    "et": "kobarjas tõlvsüsik",
+    "fa": "انگشتان مرده",
+    "fi": "nuijasarvisieni",
+    "fr": "Xylaire polymorphe",
+    "he": "עציונית שחרחרה",
+    "hr": "mrtvačevi prsti",
+    "hu": "bunkós agancsgomba",
+    "ja": "マメザヤタケ",
+    "ko": "다형콩꼬투리버섯",
+    "lt": "kislusis elniagrybis",
+    "nl": "Houtknotszwam",
+    "no": "bredt stubbehorn",
+    "pl": "próchnilec maczugowaty",
+    "pt": "Dedo-de-bruxa",
+    "ro": "Degetele mortului",
+    "ru": "ксилария многообразная",
+    "sk": "drevnatec mnohotvárny",
+    "sl": "kopučasta lesenjača",
+    "sr": "Мртвачки прсти",
+    "sv": "tjockhorn",
+    "uk": "Ксиларія багатолика",
+    "zh": "多形炭角菌"
+  },
+  "names": {
+    "ar": [
+      "خشبية متعددة الأشكال"
+    ],
+    "bg": [],
+    "cs": [
+      "dřevnatka kyjovitá",
+      "dřevnatka mnohotvárná"
+    ],
+    "da": [],
+    "de": [
+      "Veränderliche Holzkeule"
+    ],
+    "en": [],
+    "es": [
+      "Xilaria polimorfa"
+    ],
+    "et": [
+      "kobarsüsik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Doigt du mort",
+      "Doigt de Satan"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "オオクロサイワイタケ",
+      "コノミタケ",
+      "ユビタケ",
+      "豆莢茸"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "breitt stubbehorn"
+    ],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Пальцы мертвеца",
+      "Пальцы покойника"
+    ],
+    "sk": [
+      "drevnatec kyjakovitý"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "mångformig stubbsvamp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "多型炭角菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=246876",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=246876",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=246876",
+      "https://www.gbif.org/species/5255104",
+      "https://www.first-nature.com/fungi/xylaria-polymorpha.php",
+      "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/dead-mans-fingers/",
+      "https://www.myko.cz/myko-atlas/Xylaria-polymorpha/",
+      "https://botany.cz/cs/xylaria-polymorpha/",
+      "https://123pilzsuche.de/daten/details/VielgestaltigeHolzkohle.htm",
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "ar": [
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Xylaria-polymorpha/",
+      "https://botany.cz/cs/xylaria-polymorpha/",
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "de": [
+      "https://123pilzsuche.de/daten/details/VielgestaltigeHolzkohle.htm",
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://de.wikipedia.org/wiki/Vielgestaltige_Holzkeule"
+    ],
+    "es": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "et": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "fa": [
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "fi": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "hi": [],
+    "hr": [
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "hu": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "ko": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "lt": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "lv": [],
+    "nl": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "pt": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "ro": [
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "ru": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://fotonet.sk/atlas/fungi_huby/xylaria-polymorpha",
+      "https://tnlive.sk/zahranicne/clanok/172308-prsty-m-tveho-muza",
+      "https://www.treking.cz/priroda/drevnatka-mnohotvarna.htm"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ],
+    "sr": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "sv": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "tr": [],
+    "uk": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104"
+    ],
+    "zh": [
+      "https://www.inaturalist.org/taxa/58698",
+      "https://www.gbif.org/species/5255104",
+      "https://www.wikidata.org/wiki/Q241408"
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_1.webp",
+      "author": "Thomas Dreux",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/95393621"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_2.webp",
+      "author": "Christian Kahle",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/30705107"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_3.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/217134047"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_4.webp",
+      "author": "aarongunnar",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/28599457"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_5.webp",
+      "author": "Ken Kneidel",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/118551928"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 072d5cae22338b0fc2833b784b2c7c28b9c2764c665414bee20f2cf20171625b, Exif Orientation 1, software Picasa) is an illustration with an existing cursive “Gemini” mark at the lower right. plate --mode fit: scale 2.000 (upscaled; disclose softness), cropBox [96, 0, 1600, 2400]. All figures and the signature remain fully inside the trimmed frame. @1600 SHA-256 40c904f42bc780afbe73dc65bc45a49a1e1b35549bfec8d4c6b05ecd0526bc54; @400 SHA-256 81a1c66e686e7431d16d72be5971a4e15c0891f40802c6f5300d2031444873dc."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_1.webp",
+      "author": "Thomas Dreux",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/95393621"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_2.webp",
+      "author": "Christian Kahle",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/30705107"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_3.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/217134047"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_4.webp",
+      "author": "aarongunnar",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/28599457"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_polymorpha/Xylaria_polymorpha_5.webp",
+      "author": "Ken Kneidel",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/118551928"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر قاسٍ شائع على جذوع الأشجار العريضة الأوراق المتعفنة، يُعرف بأصابع سوداء غير منتظمة تشبه الهراوة، تنمو عادةً في خصل من خشب مدفون، ولا سيما خشب الزان. تكون الهراوات الفتية رمادية شاحبة إلى مزرقة ومغطاة بغبار دقيق، ثم تتحول إلى قشرة سوداء مطفية دقيقة الثآليل. لا يوجد قبعة ولا صفائح ولا ساق حقيقية. اللحم صلب وأبيض، مع طبقة واحدة من حجرات سوداء صغيرة بشكل قارورة تحت السطح مباشرة.",
+      "cap": "يبلغ طول كل هراوة عادةً 3–8 سم وسُمكها 1–3 سم؛ وتذكر بعض الأدلة في وسط أوروبا ارتفاعًا 3–10 سم وسُمكًا يصل إلى 4 سم، ويسمح 123pilzsuche بـ 3–8 (9) × 1–3 (4) سم. شكلها غير منتظم يشبه الهراوة، وقد تكون مسطحة أو عقدية، بقمّة كليلة وقاعدة قصيرة أضيق ومتجعدة. يكون السطح أولًا رماديًا شاحبًا أو أبيض مزرقًا ودقيقيًا، ثم أسود مطفيًا خشنًا دقيقًا بسبب مسام صغيرة بارزة. لا توجد قبعة منفصلة.",
+      "hymenium": "لا يكون السطح الخصيب صفائح ولا أنابيب ولا أشواكًا. مباشرة تحت القشرة السوداء الرقيقة يوجد صف واحد من حجرات صغيرة مستديرة بشكل قارورة، تنفتح كل منها بمسام سطحي بالغ الصغر. ويُظهر مقطع هراوة ناضجة هذه الحجرات كإكليل من نقاط سوداء حول اللحم الأبيض.",
+      "stipe": "لا توجد ساق حقيقية. قاعدة الهراوة ليست سوى امتداد قصير عقيم متجعد ومتضيق لنفس الجسم الأسود، مثبت على الخشب.",
+      "flesh": "صلب وقاسٍ وخشبي، أبيض نقي من الداخل، ليفي شعاعيًا. الرائحة والطعم غير مميزين.",
+      "sporePrint": "طبع الأبواغ أسود. الأبواغ الجنسية ملساء، بنية داكنة، مغزلية أو بشكل موزة، وعادة 20–30 × 5–9 µm؛ يذكر myko.cz القياسات 20–28 × 6–10 µm و123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "ينمو على جذوع وجذور وخشب مدفون لأشجار عريضة الأوراق وبجوارها، ولا سيما الزان، وكذلك الدردار والبلوط وغيرهما من الأخشاب الصلبة، وعادة في خصل. وهو شائع إلى حد ما في بريطانيا وأيرلندا وفي أنحاء أوروبا القارية وفي أجزاء كثيرة من أمريكا الشمالية. يمكن العثور على الأجسام الثمرية طوال السنة. تظهر الهراوات الشاحبة الدقيقية خاصة في الربيع، وتُلاحظ الهراوات الناضجة الداكنة في الغالب في الصيف والخريف، غير أن الستروما السوداء القديمة تبقى.",
+      "uses": "غير صالح للأكل. اللحم صلب وخشبي ولا يُعد فطرًا للأكل. لا تعامل الأدلة الأوروبية المعتادة هذا النوع على أنه سام.",
+      "confusion": "Xylaria longipes أنحف، بساق عقيمة أطول، وينمو عادة على القيقب الجبلي أو غيره من أخشاب القيقب؛ وأبواغه أصغر، نحو 11–17 × 5–7 µm. أما Xylaria hypoxylon فأرفع كثيرًا ومتفرع كقرون الوعل، وغالبًا بقمم بيضاء دقيقية. وألسنة الأرض السوداء اللينة اللحمية (Geoglossum والأجناس القريبة) تنمو من التربة أو العشب لا من الخشب، وليست خشبية.",
+      "notes": "صفة ميدانية موثوقة هي اجتماع هراوات سوداء سميكة خشبية غير منتظمة في خصل من خشب عريض الأوراق مدفون، وقشرة دقيقة الثآليل، ولحم أبيض صلب مع إكليل من حجرات قارورية سوداء تحت السطح مباشرة. وإذا كانت الهراوات لا تزال شاحبة ودقيقية، فهذه المرحلة اللاجنسية لنفس النوع.",
+      "names": [
+        "خشبية متعددة الأشكال"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "فطر أصابع الرجل الميت"
+    },
+    "bg": {
+      "description": "Честа жилава гъба върху гниещи пънове на широколистни дървета, разпознаваема по неправилни, бухалковидни черни „пръсти“, които обикновено растат на снопчета от заровена дървесина, особено от бук. Младите бухалки са бледосиви до синкави и дребно напрашени, по-късно стават матова, дребно брадавичеста черна кора. Няма нито шапка, нито пластинки, нито истинно пънче. Месото е твърдо и бяло, с един слой малки черни бутилковидни камери непосредствено под повърхността.",
+      "cap": "Всяка бухалка е обикновено 3–8 cm висока и 1–3 cm дебела; някои централноевропейски определители посочват 3–10 cm височина и до 4 cm дебелина, а 123pilzsuche допуска 3–8 (9) × 1–3 (4) cm. Тя е неправилно бухалковидна, понякога сплескана или грудковидна, с тъп връх и къса, по-тясна, набръчкана основа. Повърхността отначало е бледосива или синкавобяла и брашнеста, по-късно матово черна и дребно грапава заради миниатюрни изпъкнали пори. Отделна шапка няма.",
+      "hymenium": "Плодоносната повърхност не образува нито пластинки, нито тръбички, нито бодли. Непосредствено под тънката черна кора има един ред малки закръглени бутилковидни камери, всяка от които се отваря с миниатюрна повърхностна пора. Разрез през зряла бухалка ги показва като венец от черни точки около бялото месо.",
+      "stipe": "Истинно пънче няма. Основата на бухалката е само кратко, стерилно, набръчкано и стеснено продължение на същото черно тяло, прикрепено към дървесината.",
+      "flesh": "Твърдо, жилаво и дървесно, отвътре чисто бяло, радиално влакнесто. Мирисът и вкусът са слаби.",
+      "sporePrint": "Споровият прах е черен. Половите спори са гладки, тъмнокафяви, вретеновидни или банановидни, обикновено 20–30 × 5–9 µm; myko.cz посочва 20–28 × 6–10 µm, а 123pilzsuche — 22–29 × 7–9 µm.",
+      "habitat": "Расте върху и до пънове, корени и заровена дървесина на широколистни дървета, особено бук, също бряст, дъб и друга твърда дървесина, обикновено на снопчета. Доста честа е във Великобритания и Ирландия, в цяла континентална Европа и в много части на Северна Америка. Плодни тела могат да се намерят през цялата година. Бледите, брашнени бухалки се появяват главно през пролетта, а тъмните зрели бухалки се забелязват най-често през лятото и есента, но старите черни строми се задържат.",
+      "uses": "Неядлива. Месото е твърдо и дървесно и не се смята за ядлива гъба. Обичайните европейски определители не я третират като отровна.",
+      "confusion": "Xylaria longipes е по-стройна, с по-дълго стерилно пънче, и обикновено расте върху планински явор или друга яворова дървесина; спорите са по-малки, около 11–17 × 5–7 µm. Xylaria hypoxylon е много по-тънка и разклонена като рога, често с бели брашнени върхове. Меките, месести черни земни езици (Geoglossum и близки родове) растат от почва или трева, не от дървесина, и не са дървесни.",
+      "notes": "Надежден полски белег е съчетанието от дебели, дървесни, неправилни черни бухалки на снопчета от заровена широколистна дървесина, дребно брадавичеста кора и твърдо бяло месо с венец от черни бутилковидни камери непосредствено под повърхността. Ако бухалките още са бледи и брашнени, това е безполовата фаза на същия вид.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "Пръсти на мъртвеца"
+    },
+    "cs": {
+      "description": "Běžná tuhá houba tlejících pařezů listnáčů, kterou spočteme podle nepravidelných kyjovitých černých prstů vyrůstajících obvykle v trsech ze zakopaného dřeva, především buku. Mladé kyje jsou bledě šedé až namodralé a poprášené jemným prachem, později tmavnou v matnou, jemně bradavčitou černou kůru. Nemá klobouk, lupeny ani pravý třeň. Dužnina je tvrdá a bílá, s jednou vrstvou drobných černých lahvicovitých komůrek těsně pod povrchem.",
+      "cap": "Každý kyj je typicky 3–8 cm vysoký a 1–3 cm tlustý; některé středoevropské příručky uvádějí 3–10 cm na výšku a až 4 cm na tloušťku a 123pilzsuche připouští 3–8 (9) × 1–3 (4) cm. Je nepravidelně kyjovitý, někdy zploštělý nebo hrbolatý, s tupým vrcholem a krátkou, užší, vrásčitou bází. Povrch je zprvu bledě šedý nebo namodrale bělavý a práškovitý, později matně černý a jemně zdrsněný drobnými vystouplými póry. Oddělený klobouk chybí.",
+      "hymenium": "Úrodný povrch netvoří lupeny, rourky ani ostny. Těsně pod tenkou černou kůrou je jedna řada drobných zaoblených lahvicovitých komůrek, z nichž každá se otvírá nepatrným povrchovým pórem. Řez zralým kyjem je ukáže jako věnec černých teček kolem bílé dužniny.",
+      "stipe": "Pravý třeň chybí. Báze kyje je jen krátké, sterilní, vrásčité a zúžené pokračování téhož černého těla, přirostlé ke dřevu.",
+      "flesh": "Tvrdá, tuhá a dřevnatá, uvnitř čistě bílá, s paprsčitě vláknitou strukturou. Vůně ani chuť nejsou výrazné.",
+      "sporePrint": "Výtrusný prach je černý. Pohlavní výtrusy jsou hladké, tmavohnědé, vřetenovité nebo banánovité, typicky 20–30 × 5–9 µm; myko.cz uvádí 20–28 × 6–10 µm a 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Roste na pařezech, kořenech a zakopaném dřevě listnáčů nebo těsně vedle nich, především na buku, také na jilmu, dubu a jiných tvrdých dřevech, obvykle v trsech. Je dosti hojná v Británii a Irsku, v celé pevninské Evropě i v mnoha částech Severní Ameriky. Plodnice lze nacházet po celý rok. Bledé, práškovité kyje se objevují hlavně na jaře a tmavé zralé kyje si nejčastěji všimneme v létě a na podzim, ale stará černá stromata vytrvávají.",
+      "uses": "Nejedlá. Dužnina je tvrdá a dřevnatá a za potravinu se nepovažuje. Běžné evropské příručky ji neoznačují za jedovatou.",
+      "confusion": "Xylaria longipes je štíhlejší, s delší sterilní stopkou, a roste obvykle na javoru klenu nebo jiném javorovém dřevě; její výtrusy jsou menší, asi 11–17 × 5–7 µm. Xylaria hypoxylon je mnohem tenčí a parohovitá, často s bílými práškovitými špičkami. Měkké, dužnaté černé pazoubky (Geoglossum a podobné rody) rostou z půdy nebo trávy, nikoli ze dřeva, a nejsou dřevnaté.",
+      "notes": "Spolehlivým terénním znakem je kombinace tlustých, dřevnatých, nepravidelných černých kyjů v trsech ze zakopaného listnatého dřeva, jemně bradavčité kůry a tvrdé bílé dužniny s věncem černých lahvicovitých komůrek těsně pod povrchem. Jsou-li kyje ještě bledé a práškovité, jde o nepohlavní stadium téhož druhu.",
+      "names": [
+        "dřevnatka kyjovitá",
+        "dřevnatka mnohotvárná"
+      ],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Xylaria-polymorpha/",
+        "https://botany.cz/cs/xylaria-polymorpha/",
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "dřevnatka mnohotvará"
+    },
+    "da": {
+      "description": "En almindelig seig svamp på rådne løvtræsstubbe, kendt på uregelmæssige, kølleformede sorte fingre, der som regel vokser i knipper fra nedgravet ved, især bøg. Unge køller er bleggrå til blålige og fint pudrede, senere mørkner de til en mat, fint vorteagtig sort skorpe. Der er hverken hat, lameller eller en ægte stok. Kødet er hårdt og hvidt med et enkelt lag små sorte flaskeformede kamre lige under overfladen.",
+      "cap": "Hver kølle er typisk 3–8 cm høj og 1–3 cm tyk; nogle mellemeuropæiske håndbøger angiver 3–10 cm i højden og op til 4 cm i tykkelsen, og 123pilzsuche tillader 3–8 (9) × 1–3 (4) cm. Den er uregelmæssigt kølleformet, undertiden fladtrykt eller knudret, med stump spids og en kort, smallere, rynket basis. Overfladen er først bleggrå eller blåhvid og melet, senere matsort og fint ru af små ophøjede porer. En særskilt hat mangler.",
+      "hymenium": "Den frugtbare flade danner hverken lameller, rør eller pigge. Lige under den tynde sorte skorpe sidder en enkelt række små afrundede flaskeformede kamre, der hver åbner sig med en lille overfladepore. Et snit gennem en moden kølle viser dem som en krans af sorte prikker omkring det hvide kød.",
+      "stipe": "En ægte stok mangler. Basis af køllen er kun en kort, steril, rynket og indsnævret fortsættelse af det samme sorte legeme, fæstnet til veden.",
+      "flesh": "Hårdt, seigt og vedagtigt, indvendigt rent hvidt, med en radialt fibrøs struktur. Lugt og smag er ikke udprægede.",
+      "sporePrint": "Sporeaftrykket er sort. De seksuelle sporer er glatte, mørkebrune, ten- eller bananformede, typisk 20–30 × 5–9 µm; myko.cz angiver 20–28 × 6–10 µm og 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Den vokser på og ved stubbe, rødder og nedgravet ved af løvtræer, især bøg, også elm, eg og andet hårdtved, som regel i knipper. Den er ret almindelig i Storbritannien og Irland, i hele det europæiske fastland og i mange dele af Nordamerika. Frugtlegemer kan findes hele året. Blege, melede køller viser sig især om foråret, og mørke modne køller bemærkes oftest om sommeren og efteråret, men gamle sorte stromata bliver stående.",
+      "uses": "Uspiselig. Kødet er hårdt og vedagtigt og betragtes ikke som en spisesvamp. Almindelige europæiske håndbøger behandler den ikke som giftig.",
+      "confusion": "Xylaria longipes er slankere, med en længere steril stok, og vokser som regel på ahorn eller andet ahornved; dens sporer er mindre, omkring 11–17 × 5–7 µm. Xylaria hypoxylon er meget tyndere og geviragtig, ofte med hvide melede spidser. Bløde, kødede sorte jordtunger (Geoglossum og lignende slægter) vokser fra jord eller græs, ikke fra ved, og er ikke vedagtige.",
+      "notes": "Et pålideligt feltkendetegn er kombinationen af tykke, vedagtige, uregelmæssige sorte køller i knipper fra nedgravet løvtræved, en fint vorteagtig skorpe og hårdt hvidt kød med en krans af sorte flaskeformede kamre lige under overfladen. Når køllerne stadig er blege og melede, er det det ukønnede stadium af den samme art.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "kølle-stødsvamp"
+    },
+    "de": {
+      "description": "Ein häufiger, zäher Pilz an faulenden Laubholzstümpfen, erkennbar an unregelmäßigen, keulenförmigen schwarzen Fingern, die meist in Büscheln aus vergrabenem Holz wachsen, besonders an Buche. Junge Keulen sind blassgrau bis bläulich und fein bestäubt, später werden sie zu einer matten, fein warzigen schwarzen Kruste. Es gibt weder Hut noch Lamellen noch einen echten Stiel. Das Fleisch ist hart und weiß, mit einer einzigen Lage winziger schwarzer Flaschenkammern dicht unter der Oberfläche.",
+      "cap": "Jede Keule ist typischerweise 3–8 cm hoch und 1–3 cm dick; einige mitteleuropäische Führer nennen 3–10 cm Höhe und bis 4 cm Dicke, und 123pilzsuche lässt 3–8 (9) × 1–3 (4) cm zu. Sie ist unregelmäßig keulig, manchmal abgeflacht oder knollig, mit stumpfer Spitze und kurzer, schmalerer, runzeliger Basis. Die Oberfläche ist zuerst blassgrau oder bläulichweiß und mehlig, später matt schwarz und durch winzige erhabene Poren fein aufgeraut. Einen gesonderten Hut gibt es nicht.",
+      "hymenium": "Die fruchtbare Fläche bildet weder Lamellen noch Röhren noch Stacheln. Dicht unter der dünnen schwarzen Kruste liegt eine einzige Reihe winziger, rundlicher Flaschenkammern, die sich jeweils durch eine winzige Oberflächenpore öffnen. Ein Schnitt durch eine reife Keule zeigt sie als Kranz schwarzer Punkte um das weiße Fleisch.",
+      "stipe": "Einen echten Stiel gibt es nicht. Die Basis der Keule ist nur eine kurze, sterile, runzelige, verschmälerte Fortsetzung desselben schwarzen Körpers und am Holz angewachsen.",
+      "flesh": "Hart, zäh und holzig, innen rein weiß, mit radial faseriger Struktur. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Das Sporenpulver ist schwarz. Die sexuellen Sporen sind glatt, dunkelbraun, spindelförmig oder bananenförmig, typisch 20–30 × 5–9 µm; myko.cz gibt 20–28 × 6–10 µm an, 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Er wächst an und neben Stümpfen, Wurzeln und vergrabenem Holz von Laubbäumen, besonders Buche, auch Ulme, Eiche und anderem Hartholz, meist in Büscheln. Er ist in Großbritannien und Irland, im gesamten europäischen Festland und in vielen Teilen Nordamerikas recht häufig. Fruchtkörper sind das ganze Jahr über zu finden. Blasse, mehlige Keulen erscheinen vor allem im Frühjahr, und dunkle reife Keulen fallen am ehesten im Sommer und Herbst auf, alte schwarze Stromata bleiben jedoch stehen.",
+      "uses": "Ungenießbar. Das Fleisch ist hart und holzig und gilt nicht als Speisepilz. Die üblichen europäischen Führer behandeln ihn nicht als giftig.",
+      "confusion": "Xylaria longipes ist schlanker, mit längerem sterilem Stielabschnitt, und wächst meist an Bergahorn oder anderem Ahornholz; ihre Sporen sind kleiner, etwa 11–17 × 5–7 µm. Xylaria hypoxylon ist viel dünner und geweihartig, oft mit weiß mehligen Spitzen. Weiche, fleischige schwarze Erdzungen (Geoglossum und ähnliche Gattungen) wachsen aus Erde oder Gras, nicht aus Holz, und sind nicht holzig.",
+      "notes": "Ein zuverlässiges Feldmerkmal ist die Verbindung aus dicken, holzigen, unregelmäßigen schwarzen Keulen in Büscheln an vergrabenem Laubholz, einer fein warzigen Kruste und hartem weißem Fleisch mit einem Kranz schwarzer Flaschenkammern dicht unter der Oberfläche. Sind die Keulen noch blass und mehlig, handelt es sich um das ungeschlechtliche Stadium desselben Pilzes.",
+      "names": [
+        "Veränderliche Holzkeule"
+      ],
+      "sourceUrls": [
+        "https://123pilzsuche.de/daten/details/VielgestaltigeHolzkohle.htm",
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://de.wikipedia.org/wiki/Vielgestaltige_Holzkeule"
+      ],
+      "label": "Vielgestaltige Holzkeule"
+    },
+    "en": {
+      "description": "A common tough fungus of rotting broadleaf stumps, recognised by irregular, club-shaped black fingers that usually rise in tufts from buried wood, especially beech. Young clubs are pale grey to bluish and dusted with a fine powder, then darken to a matte, finely warty black crust. There is no cap, gills or true stem. The flesh is hard and white, with a single layer of tiny black flasks just under the surface.",
+      "cap": "Each club is typically 3–8 cm tall and 1–3 cm thick; some Central European guides give 3–10 cm tall and up to 4 cm thick, and 123pilzsuche allows 3–8 (9) × 1–3 (4) cm. It is irregularly club-shaped, sometimes flattened or knobbly, with a blunt tip and a short, narrower, wrinkled base. The surface starts pale grey or bluish-white and powdery, then becomes matte black and finely roughened by tiny raised pores. There is no separate cap.",
+      "hymenium": "The fertile surface is not gills, pores or teeth. Just beneath the thin black crust is a single row of tiny rounded flasks, each opening by a minute surface pore. A section through a mature club shows these as a ring of black dots around the white flesh.",
+      "stipe": "There is no true stem. The base of the club is only a short, sterile, wrinkled, narrowed continuation of the same black body, attached to the wood.",
+      "flesh": "Hard, tough and woody, pure white inside, with a radial fibrous texture. Smell and taste are not distinctive.",
+      "sporePrint": "The spore deposit is black. The sexual spores are smooth, dark brown, spindle-shaped or banana-shaped, typically 20–30 × 5–9 µm; myko.cz gives 20–28 × 6–10 µm and 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "It lives on and beside stumps, roots and buried wood of broadleaf trees, especially beech, also elm, oak and other hardwoods, usually in tufts. It is fairly common in Britain and Ireland, throughout mainland Europe, and in many parts of North America. Fruit bodies can be found throughout the year. Pale, powdery clubs appear mainly in spring, and dark mature clubs are most often noticed in summer and autumn, but old black clubs persist.",
+      "uses": "Inedible. The flesh is hard and woody, and it is not considered a food fungus. The usual European guides do not treat it as poisonous.",
+      "confusion": "Xylaria longipes is slimmer, with a longer sterile stalk, and usually grows on sycamore or other maple wood; its spores are smaller, about 11–17 × 5–7 µm. Xylaria hypoxylon is much thinner and antler-like, often with white powdery tips. Soft, fleshy black earth tongues (Geoglossum and similar) grow from soil or grass, not from wood, and are not woody.",
+      "notes": "A reliable field mark is the combination of thick, woody, irregular black clubs in tufts from buried broadleaf wood, a finely warty crust, and hard white flesh with a ring of black flasks just under the surface. When the clubs are still pale and powdery they are the asexual stage of the same fungus.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=246876",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=246876",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=246876",
+        "https://www.gbif.org/species/5255104",
+        "https://www.first-nature.com/fungi/xylaria-polymorpha.php",
+        "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/dead-mans-fingers/",
+        "https://www.myko.cz/myko-atlas/Xylaria-polymorpha/",
+        "https://botany.cz/cs/xylaria-polymorpha/",
+        "https://123pilzsuche.de/daten/details/VielgestaltigeHolzkohle.htm",
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "dead man's fingers"
+    },
+    "es": {
+      "description": "Un hongo coriáceo frecuente en tocones de frondosas en descomposición, reconocible por unos dedos negros irregulares, en forma de maza, que suelen crecer en grupos desde madera enterrada, sobre todo de haya. Las mazas jóvenes son de un gris pálido a azulado y están finamente pruinosas; luego se vuelven una corteza negra mate, finamente verrugosa. No hay sombrero, ni láminas, ni un pie verdadero. La carne es dura y blanca, con una sola capa de pequeñas cámaras en forma de frasco justo bajo la superficie.",
+      "cap": "Cada maza mide típicamente 3–8 cm de alto y 1–3 cm de grosor; algunas guías de Europa central indican 3–10 cm de altura y hasta 4 cm de grosor, y 123pilzsuche admite 3–8 (9) × 1–3 (4) cm. Es irregularmente claviforme, a veces aplanada o nudosa, con el ápice obtuso y una base corta, más estrecha y arrugada. La superficie es al principio gris pálida o blanco-azulada y harinosa, después negra mate y finamente áspera por diminutos poros salientes. No existe un sombrero separado.",
+      "hymenium": "La superficie fértil no forma láminas, tubos ni aguijones. Justo bajo la delgada corteza negra hay una sola hilera de pequeñas cámaras redondeadas en forma de frasco, cada una abierta por un poro superficial minúsculo. Un corte de una maza madura las muestra como una corona de puntos negros alrededor de la carne blanca.",
+      "stipe": "No hay un pie verdadero. La base de la maza es solo una corta prolongación estéril, arrugada y estrecha del mismo cuerpo negro, fijada a la madera.",
+      "flesh": "Dura, coriácea y leñosa, de un blanco puro en el interior, de estructura radialmente fibrosa. El olor y el sabor son poco marcados.",
+      "sporePrint": "La esporada es negra. Las esporas sexuales son lisas, pardo oscuras, fusiformes o en forma de plátano, típicamente de 20–30 × 5–9 µm; myko.cz indica 20–28 × 6–10 µm y 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Crece sobre y junto a tocones, raíces y madera enterrada de frondosas, especialmente haya, también olmo, roble y otras maderas duras, casi siempre en grupos. Es bastante frecuente en Gran Bretaña e Irlanda, en toda Europa continental y en muchas partes de Norteamérica. Se pueden encontrar cuerpos fructíferos durante todo el año. Las mazas pálidas y harinosas aparecen sobre todo en primavera, y las mazas maduras oscuras se advierten más a menudo en verano y otoño, pero los estromas negros viejos persisten.",
+      "uses": "No comestible. La carne es dura y leñosa y no se considera un hongo comestible. Las guías europeas habituales no lo tratan como tóxico.",
+      "confusion": "Xylaria longipes es más esbelto, con un pie estéril más largo, y suele crecer en el arce sicómoro u otras maderas de arce; sus esporas son más pequeñas, de unos 11–17 × 5–7 µm. Xylaria hypoxylon es mucho más delgado y ramificado como una cornamenta, a menudo con ápices blancos y harinosos. Las lenguas de tierra negras, blandas y carnosas (Geoglossum y géneros afines) crecen en suelo o hierba, no en madera, y no son leñosas.",
+      "notes": "Un carácter de campo fiable es la combinación de mazas negras gruesas, leñosas e irregulares en grupos sobre madera de frondosa enterrada, una corteza finamente verrugosa y una carne blanca dura con una corona de cámaras negras en forma de frasco justo bajo la superficie. Si las mazas siguen pálidas y harinosas, se trata de la fase asexual de la misma especie.",
+      "names": [
+        "Xilaria polimorfa"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "Dedos de muerto"
+    },
+    "et": {
+      "description": "Sage sitke seen mädanenud lehtpuukändudel, äratuntav ebaühtlaste, nuiakujuliste mustade sõrmede järgi, mis kasvavad tavaliselt mätastena maetud puidust, eriti pöögilt. Noored nuiad on kahvatuhallid kuni sinakad ja peene pulbriga kaetud, hiljem tumenevad matiks, peenelt näsaliseks mustaks koorikuks. Puuduvad nii kübar, eoslehekesed kui ka tõeline jalg. Lihak on kõva ja valge ning pinna all on üks kiht pisikesi musti pudelikujulisi kambreid.",
+      "cap": "Iga nui on tüüpiliselt 3–8 cm kõrge ja 1–3 cm paks; mõned Kesk-Euroopa juhendid annavad 3–10 cm kõrgust ja kuni 4 cm paksust ning 123pilzsuche lubab 3–8 (9) × 1–3 (4) cm. Ta on ebaühtlaselt nuiakujuline, vahel lapik või muhklik, tömba tipu ja lühikese, kitsama, kortsulise alusega. Pind on algul kahvatuhall või sinakasvalge ja jahune, hiljem mattmust ja peenelt kare pisikeste kõrgendatud pooride tõttu. Eraldi kübarat ei ole.",
+      "hymenium": "Viljakas pind ei moodusta eoslehekesi, torukesi ega ogasid. Õhukese musta kooriku all on üks rida pisikesi ümaramaid pudelikujulisi kambreid, millest igaüks avaneb tillukese pinnapoori kaudu. Küpse nui läbilõige näitab neid mustade täppide pärjana valge lihaka ümber.",
+      "stipe": "Tõelist jalga ei ole. Nui alus on vaid lühike, steriilne, kortsuline ja ahenev sama musta keha jätk, kinnitunud puidu külge.",
+      "flesh": "Kõva, sitke ja puitjas, seest puhtalt valge, radiaalselt kiuline. Lõhn ja maitse on nõrgad.",
+      "sporePrint": "Eospulber on must. Sugulised eosed on siledad, tumepruunid, käävjad või banaanikujulised, tüüpiliselt 20–30 × 5–9 µm; myko.cz annab 20–28 × 6–10 µm ja 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Ta kasvab lehtpuude kändudel, juurtel ja maetud puidul või nende kõrval, eriti pöögil, ka jalakal, tammel ja muul kõval puidul, tavaliselt mätastena. Ta on üsna sage Suurbritannias ja Iirimaal, kogu Mandri-Euroopas ja paljudes Põhja-Ameerika osades. Viljakehi võib leida aastaringselt. Kahvatud, jahused nuiad ilmuvad peamiselt kevadel ning tumedaid küpseid nuiasid märgatakse kõige sagedamini suvel ja sügisel, kuid vanad mustad strooma kehad püsivad.",
+      "uses": "Mittesöödav. Lihak on kõva ja puitjas ning seda ei peeta toiduseeneks. Tavapärased Euroopa juhendid ei käsitle teda mürgisena.",
+      "confusion": "Xylaria longipes on peenike, pikema steriilse jalaga ning kasvab tavaliselt mägi-vahtral või muul vahtrapuidul; eosed on väiksemad, umbes 11–17 × 5–7 µm. Xylaria hypoxylon on palju peenem ja sarvekujuline, sageli valgete jahuste tippudega. Pehmed, lihakad mustad maakeeled (Geoglossum ja sarnased perekonnad) kasvavad mullast või rohust, mitte puidust, ega ole puitjad.",
+      "notes": "Usaldusväärne tunnus looduses on paksude, puitjate, ebaühtlaste mustade nuiade kasvamine mätastena maetud lehtpuidust, peenelt näsaline koorik ja kõva valge lihak mustade pudelikambrite pärjaga pinna all. Kui nuiad on veel kahvatud ja jahused, on tegu sama liigi mittesugulise staadiumiga.",
+      "names": [
+        "kobarsüsik"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "kobarjas tõlvsüsik"
+    },
+    "fa": {
+      "description": "قارچی سفت و رایج روی کنده درختان پهن‌برگ پوسیده که با انگشتان سیاه نامنظم چماقی‌شکل شناخته می‌شود؛ این انگشتان معمولاً دسته‌دسته از چوب دفن‌شده، به‌ویژه راش، می‌رویند. چماق‌های جوان خاکستری کم‌رنگ تا مایل به آبی و با غبار ریز پوشیده‌اند و سپس به پوسته‌ای سیاه مات با زگیل‌های ریز تبدیل می‌شوند. کلاهک، تیغه و ساقه واقعی وجود ندارد. گوشت سخت و سفید است و درست زیر سطح یک لایه حجره‌های سیاه کوچک بطری‌شکل دارد.",
+      "cap": "هر چماق معمولاً ۳–۸ سانتی‌متر بلندی و ۱–۳ سانتی‌متر قطر دارد؛ برخی راهنماهای اروپای مرکزی بلندی ۳–۱۰ سانتی‌متر و قطر تا ۴ سانتی‌متر را ذکر می‌کنند و 123pilzsuche اندازه ۳–۸ (۹) × ۱–۳ (۴) سانتی‌متر را می‌پذیرد. شکل آن نامنظم و چماقی است، گاهی پهن یا گره‌دار، با نوک کند و پایه‌ای کوتاه، باریک‌تر و چین‌خورده. سطح ابتدا خاکستری کم‌رنگ یا سفید مایل به آبی و آردی است، سپس سیاه مات و به‌خاطر منافذ ریز برآمده کمی زبر می‌شود. کلاهک جداگانه‌ای وجود ندارد.",
+      "hymenium": "سطح بارور تیغه، لوله یا خار نمی‌سازد. درست زیر پوسته سیاه نازک یک ردیف حجره کوچک گرد بطری‌شکل قرار دارد که هر کدام با منفذ سطحی بسیار کوچکی باز می‌شود. برش یک چماق رسیده آن‌ها را به صورت تاجی از نقطه‌های سیاه پیرامون گوشت سفید نشان می‌دهد.",
+      "stipe": "ساقه واقعی وجود ندارد. پایه چماق تنها امتداد کوتاه، نازا، چین‌خورده و باریک همان پیکر سیاه است که به چوب چسبیده.",
+      "flesh": "سخت، چقرمه و چوبی، درون آن سفید خالص، با بافت شعاعی الیافی. بو و طعم نامشخص است.",
+      "sporePrint": "گرده هاگ سیاه است. هاگ‌های جنسی صاف، قهوه‌ای تیره، دوکی یا موزشکل، معمولاً ۲۰–۳۰ × ۵–۹ µm هستند؛ myko.cz اندازه ۲۰–۲۸ × ۶–۱۰ µm و 123pilzsuche اندازه ۲۲–۲۹ × ۷–۹ µm را می‌دهد.",
+      "habitat": "روی کنده، ریشه و چوب دفن‌شده درختان پهن‌برگ و کنار آن‌ها می‌روید، به‌ویژه راش، همچنین نارون، بلوط و دیگر چوب‌های سخت، معمولاً به‌صورت دسته. در بریتانیا و ایرلند، سراسر اروپای قاره‌ای و بسیاری از نقاط آمریکای شمالی نسبتاً رایج است. اندام‌های بارده را می‌توان در تمام سال یافت. چماق‌های کم‌رنگ و آردی بیشتر در بهار ظاهر می‌شوند و چماق‌های رسیده تیره بیشتر در تابستان و پاییز دیده می‌شوند، اما استروماهای سیاه کهنه باقی می‌مانند.",
+      "uses": "خوراکی نیست. گوشت سخت و چوبی است و قارچ خوراکی به‌شمار نمی‌رود. راهنماهای رایج اروپایی آن را سمی نمی‌دانند.",
+      "confusion": "Xylaria longipes باریک‌تر است، ساقه نازای بلندتری دارد و معمولاً روی افرای کوهی یا دیگر چوب‌های افرا می‌روید؛ هاگ‌هایش کوچک‌ترند، حدود ۱۱–۱۷ × ۵–۷ µm. Xylaria hypoxylon بسیار نازک‌تر و شاخ‌مانند است و اغلب نوک‌های سفید آردی دارد. زبان‌های خاک سیاه نرم و گوشتی (Geoglossum و سرده‌های نزدیک) از خاک یا علف می‌رویند، نه از چوب، و چوبی نیستند.",
+      "notes": "نشانه میدانی مطمئن ترکیب چماق‌های سیاه ضخیم، چوبی و نامنظم به‌صورت دسته روی چوب پهن‌برگ دفن‌شده، پوسته با زگیل‌های ریز، و گوشت سفید سخت با تاج حجره‌های سیاه بطری‌شکل درست زیر سطح است. اگر چماق‌ها هنوز کم‌رنگ و آردی باشند، مرحله غیرجنسی همان گونه است.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "انگشتان مرده"
+    },
+    "fi": {
+      "description": "Tavallinen sitkeä sieni lahoavilla lehtipuiden kannoilla; sen tunnistaa epäsäännöllisistä, nuijamaisista mustista sormista, jotka kasvavat yleensä mättäinä haudatusta puusta, erityisesti pyökistä. Nuoret nuijat ovat vaaleanharmaita tai sinertäviä ja hienon jauheen peitossa, myöhemmin ne tummuvat himmeäksi, hienosti nystyräiseksi mustaksi kuoreksi. Lakki, heltat ja varsinainen jalka puuttuvat. Malto on kovaa ja valkoista, ja pinnan alla on yksi kerros pieniä mustia pullomaisia kammioita.",
+      "cap": "Kukin nuija on tyypillisesti 3–8 cm korkea ja 1–3 cm paksu; jotkin keskieurooppalaiset oppaat ilmoittavat 3–10 cm korkeutta ja enintään 4 cm paksuutta, ja 123pilzsuche sallii 3–8 (9) × 1–3 (4) cm. Se on epäsäännöllisen nuijamainen, joskus litistynyt tai kyhmyinen, tylppäkärkinen, ja tyvi on lyhyt, kapeampi ja ryppyinen. Pinta on aluksi vaaleanharmaa tai sinertävänvalkoinen ja jauheinen, myöhemmin himmeän musta ja hienosti karkea pienten koholla olevien huokosten takia. Erillistä lakkia ei ole.",
+      "hymenium": "Itiöitä tuottava pinta ei muodosta helttoja, pillistöä eikä oraita. Ohut musta kuori kätkee alleen yhden rivin pieniä pyöreähköjä pullomaisia kammioita, joista kukin avautuu pienen pintahuokosen kautta. Kypsän nuijan leikkauspinta näyttää ne mustien pisteiden kehänä valkoisen mallon ympärillä.",
+      "stipe": "Varsinaista jalkaa ei ole. Nuijan tyvi on vain lyhyt, steriili, ryppyinen ja kapeneva jatke samalle mustalle rungolle, kiinnittyneenä puuhun.",
+      "flesh": "Kovaa, sitkeää ja puumaista, sisältä puhtaan valkoista, säteittäin säikeistä. Tuoksu ja maku ovat heikot.",
+      "sporePrint": "Itiöpöly on mustaa. Suvulliset itiöt ovat sileitä, tummanruskeita, sukkulamaisia tai banaanimaisia, tyypillisesti 20–30 × 5–9 µm; myko.cz ilmoittaa 20–28 × 6–10 µm ja 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Se kasvaa lehtipuiden kannoilla, juurilla ja haudatussa puussa tai aivan niiden vieressä, erityisesti pyökillä, myös jalavalla, tammella ja muulla kovalla puulla, yleensä mättäinä. Se on melko tavallinen Britanniassa ja Irlannissa, koko Manner-Euroopassa ja monin paikoin Pohjois-Amerikassa. Itiöemiä voi löytää ympäri vuoden. Vaaleat, jauheiset nuijat ilmestyvät etenkin keväällä, ja tummat kypsät nuijat huomataan useimmin kesällä ja syksyllä, mutta vanhat mustat stroomat säilyvät.",
+      "uses": "Myrkytön mutta syötäväksi kelpaamaton. Malto on kovaa ja puumaista, eikä sitä pidetä ruokasienenä. Tavanomaiset eurooppalaiset oppaat eivät käsittele sitä myrkyllisenä.",
+      "confusion": "Xylaria longipes on hoikempi, pitempijalkainen ja steriilimpi jalkaosuudeltaan, ja kasvaa yleensä vaahteralla tai muulla vaahterapuulla; sen itiöt ovat pienempiä, noin 11–17 × 5–7 µm. Xylaria hypoxylon on paljon ohuempi ja sarvemainen, usein valkoisin jauheisin kärjin. Pehmeät, maltoiset mustat maakeelet (Geoglossum ja lähisuvut) kasvavat maasta tai ruohosta, ei puusta, eivätkä ole puumaisia.",
+      "notes": "Luotettava tuntomerkki maastossa on paksujen, puumaisten, epäsäännöllisten mustien nuijien esiintyminen mättäinä haudatussa lehtipuussa, hienosti nystyräinen kuori ja kova valkoinen malto, jonka alla on mustien pullokammioiden kehä. Jos nuijat ovat vielä vaaleita ja jauheisia, kyseessä on saman lajin suvuton vaihe.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "nuijasarvisieni"
+    },
+    "fr": {
+      "description": "Un champignon coriace fréquent des souches de feuillus en décomposition, reconnaissable à ses doigts noirs irréguliers, en massue, qui poussent le plus souvent en touffes depuis du bois enterré, surtout le hêtre. Les jeunes massues sont gris pâle à bleuâtres et finement pruineuses; elles deviennent ensuite une croûte noire mate, finement verruqueuse. Il n'y a ni chapeau, ni lames, ni vrai stipe. La chair est dure et blanche, avec une seule couche de petites chambres en forme de flacon juste sous la surface.",
+      "cap": "Chaque massue mesure typiquement 3–8 cm de haut et 1–3 cm d'épaisseur; certains guides d'Europe centrale indiquent 3–10 cm de hauteur et jusqu'à 4 cm d'épaisseur, et 123pilzsuche admet 3–8 (9) × 1–3 (4) cm. Elle est irrégulièrement claviforme, parfois aplatie ou noueuse, à sommet obtus et à base courte, plus étroite et ridée. La surface est d'abord gris pâle ou blanchâtre-bleuâtre et farineuse, puis d'un noir mat, rendue finement rugueuse par de minuscules pores saillants. Il n'existe pas de chapeau distinct.",
+      "hymenium": "La surface fertile ne forme ni lames, ni tubes, ni aiguillons. Juste sous la mince croûte noire se trouve une seule rangée de petites chambres arrondies en forme de flacon, chacune s'ouvrant par un minuscule pore de surface. Une coupe d'une massue mature les montre comme une couronne de points noirs autour de la chair blanche.",
+      "stipe": "Il n'y a pas de vrai stipe. La base de la massue n'est qu'un court prolongement stérile, ridé et rétréci du même corps noir, fixé au bois.",
+      "flesh": "Dure, coriace et ligneuse, d'un blanc pur à l'intérieur, à structure radialement fibreuse. Odeur et saveur sont peu marquées.",
+      "sporePrint": "La sporée est noire. Les spores sexuelles sont lisses, brun foncé, fusiformes ou en forme de banane, typiquement 20–30 × 5–9 µm; myko.cz indique 20–28 × 6–10 µm et 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Il pousse sur et près des souches, racines et bois enterré de feuillus, surtout le hêtre, aussi l'orme, le chêne et d'autres bois durs, le plus souvent en touffes. Il est assez fréquent en Grande-Bretagne et en Irlande, dans toute l'Europe continentale et dans de nombreuses régions d'Amérique du Nord. On peut trouver des fructifications toute l'année. Les massues pâles et farineuses apparaissent surtout au printemps, et les massues matures sombres se remarquent le plus souvent en été et en automne, mais les vieux stromas noirs persistent.",
+      "uses": "Non comestible. La chair est dure et ligneuse et n'est pas considérée comme un champignon de table. Les guides européens courants ne le traitent pas comme toxique.",
+      "confusion": "Xylaria longipes est plus grêle, avec un stipe stérile plus long, et pousse surtout sur l'érable sycomore ou d'autres érables; ses spores sont plus petites, environ 11–17 × 5–7 µm. Xylaria hypoxylon est beaucoup plus mince et ramifiée en bois de cerf, souvent à sommets blancs et farineux. Les langues de terre noires, molles et charnues (Geoglossum et genres proches) poussent dans le sol ou l'herbe, non sur le bois, et ne sont pas ligneuses.",
+      "notes": "Un bon caractère de terrain est l'association de massues noires épaisses, ligneuses et irrégulières en touffes sur du bois de feuillu enterré, d'une croûte finement verruqueuse et d'une chair blanche dure avec une couronne de chambres noires en flacon juste sous la surface. Si les massues sont encore pâles et farineuses, il s'agit du stade asexué de la même espèce.",
+      "names": [
+        "Doigt du mort",
+        "Doigt de Satan"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "Xylaire polymorphe"
+    },
+    "he": {
+      "description": "פטרייה קשה ונפוצה על גדמי עצי עלים נרקבים, מזוהה לפי אצבעות שחורות לא סדירות דמויות אלה, הגדלות בדרך כלל בצברים מעץ קבור, בעיקר של אשור. האלות הצעירות אפורות-חיוורות עד כחלחלות ומאובקות דקות, ואחר כך הופכות לקרום שחור מט ומגורגר דק. אין כובע, אין דפים ואין רגל אמיתית. הבשר קשה ולבן, עם שכבה אחת של תאים שחורים קטנים דמויי בקבוק ממש מתחת לפני השטח.",
+      "cap": "כל אלה גבוהה בדרך כלל 3–8 ס\"מ ועובייה 1–3 ס\"מ; מדריכים אחדים ממרכז אירופה מציינים 3–10 ס\"מ בגובה ועד 4 ס\"מ בעובי, ו-123pilzsuche מתירה 3–8 (9) × 1–3 (4) ס\"מ. היא דמוית אלה לא סדירה, לעיתים שטוחה או מגובששת, עם קצה קהה ובסיס קצר, צר יותר ומקומט. פני השטח תחילה אפורים-חיוורים או לבנים-כחלחלים וקמחיים, אחר כך שחורים מט ומחוספסים דק בגלל נקבוביות זעירות בולטות. אין כובע נפרד.",
+      "hymenium": "המשטח הפורֶה אינו יוצר דפים, צינורות או קוצים. ממש מתחת לקרום השחור הדק נמצאת שורה אחת של תאים קטנים מעוגלים דמויי בקבוק, שכל אחד מהם נפתח בנקב שטח זעיר. חתך באלה בשלה מראה אותם כזר נקודות שחורות סביב הבשר הלבן.",
+      "stipe": "אין רגל אמיתית. בסיס האלה הוא רק המשך קצר, עקר, מקומט וצר של אותו גוף שחור, מחובר לעץ.",
+      "flesh": "קשה, עמידה ועצי, בפנים לבן טהור, סיבי ברדיוס. הריח והטעם אינם בולטים.",
+      "sporePrint": "אבקת הנבגים שחורה. הנבגים המיניים חלקים, חומים כהים, דמויי כישור או בננה, בדרך כלל 20–30 × 5–9 µm; myko.cz מציין 20–28 × 6–10 µm ו-123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "היא גדלה על גדמים, שורשים ועץ קבור של עצי עלים ובסמוך להם, בעיקר על אשור, גם על בוקיצה, אלון ועץ קשה אחר, בדרך כלל בצברים. היא שכיחה למדי בבריטניה ובאירלנד, בכל אירופה היבשתית ובחלקים רבים של צפון אמריקה. אפשר למצוא גופי פרי כל השנה. אלות חיוורות וקמחיות מופיעות בעיקר באביב, ואלות בשלות כהות נראות לרוב בקיץ ובסתיו, אך הסטרומות השחורות הישנות נשארות.",
+      "uses": "אינה אכילה. הבשר קשה ועצי ואינו נחשב לפטריית מאכל. המדריכים האירופיים הרגילים אינם מתייחסים אליה כרעילה.",
+      "confusion": "Xylaria longipes דקה יותר, עם רגל עקרה ארוכה יותר, וגדלה בדרך כלל על אדר או על עץ אדר אחר; הנבגים קטנים יותר, בערך 11–17 × 5–7 µm. Xylaria hypoxylon דקה בהרבה ומסועפת כקרן, לעיתים קרובות עם קצות לבנים קמחיים. לשונות אדמה שחורות רכות ובשריות (Geoglossum וסוגים קרובים) גדלות מאדמה או מדשא, לא מעץ, ואינן עציות.",
+      "notes": "סימן שדה אמין הוא הצירוף של אלות שחורות עבות, עציות ולא סדירות בצברים מעץ עלים קבור, קרום מגורגר דק ובשר לבן קשה עם זר של תאי בקבוק שחורים ממש מתחת לפני השטח. אם האלות עדיין חיוורות וקמחיות, זהו השלב האל-מיני של אותו מין.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "עציונית שחרחרה"
+    },
+    "hi": {
+      "description": "सड़ते चौड़े-पत्तेदार वृक्षों के ठूँठों पर पाया जाने वाला एक आम, सख्त कवक, जो अनियमित, गदा के आकार की काली उँगलियों से पहचाना जाता है; ये प्रायः दबे हुए काठ से गुच्छों में उगती हैं, खासकर बीच के काठ से। युवा गदाएँ फीकी धूसर से नीली और महीन चूर्ण से ढकी होती हैं, बाद में ये एक मटमैली, महीन मस्सेदार काली परत बन जाती हैं। टोपी, गिल और असली डंठल नहीं होते। गूदा कठोर और सफ़ेद होता है, और सतह के ठीक नीचे छोटी काली बोतल-आकार की कक्षों की एक परत होती है।",
+      "cap": "प्रत्येक गदा आमतौर पर 3–8 सेमी ऊँची और 1–3 सेमी मोटी होती है; कुछ मध्य-यूरोपीय मार्गदर्शिकाएँ 3–10 सेमी ऊँचाई और 4 सेमी तक मोटाई बताती हैं, और 123pilzsuche 3–8 (9) × 1–3 (4) सेमी स्वीकार करता है। इसका आकार अनियमित गदा जैसा होता है, कभी चपटा या गाँठदार, कुंद सिरे और छोटे, संकरे, झुर्रीदार आधार के साथ। सतह पहले फीकी धूसर या नीली-सफ़ेद और आटे जैसी होती है, बाद में मैट काली और छोटे उभरे छिद्रों से महीन खुरदरी हो जाती है। अलग टोपी नहीं होती।",
+      "hymenium": "उपजाऊ सतह गिल, नलिकाएँ या काँटे नहीं बनाती। पतली काली परत के ठीक नीचे छोटी गोल बोतल-आकार की कक्षों की एक पंक्ति होती है, जिनमें से प्रत्येक एक अत्यंत छोटे सतही छिद्र से खुलती है। परिपक्व गदा का काट सफ़ेद गूदे के चारों ओर काले बिंदुओं का मुकुट दिखाता है।",
+      "stipe": "असली डंठल नहीं होता। गदा का आधार उसी काले शरीर का केवल एक छोटा, बांझ, झुर्रीदार और संकरा विस्तार है, जो काठ से जुड़ा रहता है।",
+      "flesh": "कठोर, चीमड़ और काष्ठमय, भीतर शुद्ध सफ़ेद, अरीय रेशेदार। गंध और स्वाद अस्पष्ट हैं।",
+      "sporePrint": "बीजाणु चूर्ण काला होता है। लैंगिक बीजाणु चिकने, गहरे भूरे, तकलानुमा या केले के आकार के होते हैं, आमतौर पर 20–30 × 5–9 µm; myko.cz 20–28 × 6–10 µm और 123pilzsuche 22–29 × 7–9 µm बताता है।",
+      "habitat": "यह चौड़े-पत्तेदार वृक्षों के ठूँठों, जड़ों और दबे हुए काठ पर या उनके पास उगता है, खासकर बीच पर, साथ ही एल्म, ओक और अन्य कठोर काठ पर, आमतौर पर गुच्छों में। यह ब्रिटेन और आयरलैंड, पूरे मुख्य भूमि यूरोप और उत्तरी अमेरिका के कई भागों में काफ़ी आम है। फलन-पिंड साल भर मिल सकते हैं। फीकी, आटे जैसी गदाएँ मुख्यतः वसंत में दिखाई देती हैं, और गहरी परिपक्व गदाएँ प्रायः गर्मियों और शरद में दिखती हैं, पर पुरानी काली स्ट्रोमा बनी रहती हैं।",
+      "uses": "अखाद्य। गूदा कठोर और काष्ठमय है और इसे खाद्य कवक नहीं माना जाता। सामान्य यूरोपीय मार्गदर्शिकाएँ इसे विषैला नहीं मानतीं।",
+      "confusion": "Xylaria longipes पतला होता है, लंबा बांझ डंठल रखता है, और आमतौर पर सिकमोर या अन्य मेपल काठ पर उगता है; इसके बीजाणु छोटे होते हैं, लगभग 11–17 × 5–7 µm। Xylaria hypoxylon कहीं अधिक पतला और सींग जैसा शाखित होता है, अक्सर सफ़ेद आटे जैसे सिरों के साथ। मुलायम, मांसल काली भूमि-जीभें (Geoglossum और निकट वंश) काठ से नहीं, मिट्टी या घास से उगती हैं, और काष्ठमय नहीं होतीं।",
+      "notes": "क्षेत्र में विश्वसनीय पहचान है दबे हुए चौड़े-पत्तेदार काठ से गुच्छों में मोटी, काष्ठमय, अनियमित काली गदाएँ, महीन मस्सेदार परत, और सतह के ठीक नीचे बोतल-आकार की काली कक्षों के मुकुट वाला कठोर सफ़ेद गूदा। यदि गदाएँ अभी भी फीकी और आटे जैसी हैं, तो यह उसी प्रजाति की अलैंगिक अवस्था है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Česta čvrsta gljiva trulih panjeva listača, prepoznatljiva po nepravilnim, kijačastim crnim prstima koji obično rastu u skupinama iz zakopanog drva, osobito bukve. Mladi kijevi su blijedosivi do plavkasti i posuti finim prahom, zatim potamne u mat, fino bradavičastu crnu koru. Nema klobuka, listića ni pravog stručka. Meso je tvrdo i bijelo, s jednim slojem sitnih crnih bočicastih komorica tik ispod površine.",
+      "cap": "Svaki kij je tipično 3–8 cm visok i 1–3 cm debel; neki srednjoeuropski priručnici navode 3–10 cm visine i do 4 cm debljine, a 123pilzsuche dopušta 3–8 (9) × 1–3 (4) cm. Nepravilno je kijačast, ponekad spljošten ili kvrčast, s tupim vrhom i kratkom, užom, naboranom bazom. Površina je najprije blijedosiva ili plavkastobijela i prašnava, kasnije mat crna i fino hrapava od sitnih uzdignutih pora. Odvojenog klobuka nema.",
+      "hymenium": "Plodna površina ne tvori listiće, cjevčice ni bodlje. Tik pod tankom crnom korom nalazi se jedan red sitnih zaobljenih bočicastih komorica, od kojih se svaka otvara sitnim površinskim porom. Presjek zrelog kija pokazuje ih kao vijenac crnih točkica oko bijelog mesa.",
+      "stipe": "Pravog stručka nema. Baza kija samo je kratki, sterilni, naborani i suženi nastavak istog crnog tijela, prirasao na drvo.",
+      "flesh": "Tvrdo, čvrsto i drvenasto, iznutra čisto bijelo, radijalno vlaknaste građe. Miris i okus nisu izraženi.",
+      "sporePrint": "Otisak spora je crn. Spolne spore su glatke, tamnosmeđe, vretenaste ili bananaste, tipično 20–30 × 5–9 µm; myko.cz navodi 20–28 × 6–10 µm, a 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Raste na panjevima, korijenju i zakopanom drvu listača ili tik do njih, osobito na bukvi, također na brijestu, hrastu i drugim tvrdim drvetima, obično u grupama. Prilično je česta u Britaniji i Irskoj, diljem kontinentalne Europe i u mnogim dijelovima Sjeverne Amerike. Plodišta se mogu nalaziti tijekom cijele godine. Bljedi, prašnavi kijevi pojavljuju se uglavnom u proljeće, a tamne zrele kijeve najčešće primjećujemo ljeti i u jesen, no stara crna stromata ostaju.",
+      "uses": "Nejestiva. Meso je tvrdo i drvenasto i ne smatra se jestivom gljivom. Uobičajeni europski priručnici je ne smatraju otrovnom.",
+      "confusion": "Xylaria longipes vitkija je, s dužom sterilnom drškom, i obično raste na gorskom javoru ili drugom javorovom drvu; njezine su spore manje, oko 11–17 × 5–7 µm. Xylaria hypoxylon znatno je tanja i rogasta, često s bijelim prašnavim vrhovima. Meke, mesnate crne jezičaste gljive (Geoglossum i slični rodovi) rastu iz tla ili trave, ne iz drva, i nisu drvenaste.",
+      "notes": "Pouzdano terensko obilježje je spoj debelih, drvenastih, nepravilnih crnih kijeva u grupama iz zakopanog drva listača, fino bradavičaste kore i tvrdog bijelog mesa s vijencem crnih bočicastih komorica tik pod površinom. Dok su kijevi još blijedi i prašnavi, riječ je o nespolnom stadiju iste gljive.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "mrtvačevi prsti"
+    },
+    "hu": {
+      "description": "Gyakori, szívós gomba korhadó lombosfa-tuskókon, felismerhető szabálytalan, bunkós fekete ujjairól, amelyek rendszerint csomókban nőnek eltemetett fából, különösen bükkből. A fiatal bunkók halványszürkék vagy kékesek és finoman porzósek, később matt, finoman szemölcsös fekete kérget kapnak. Nincs kalap, lemez és valódi tönk sem. A hús kemény és fehér, a felszín alatt egyetlen réteg apró, fekete, palack alakú kamrával.",
+      "cap": "Minden bunkó tipikusan 3–8 cm magas és 1–3 cm vastag; egyes közép-európai útmutatók 3–10 cm magasságot és akár 4 cm vastagságot adnak meg, a 123pilzsuche pedig 3–8 (9) × 1–3 (4) cm-t enged. Szabálytalanul bunkós, néha lapított vagy gumós, tompa csúccsal és rövid, keskenyebb, ráncos alappal. A felszín először halványszürke vagy kékesfehér és lisztes, később matt fekete, és az apró, kiemelkedő pórusoktól finoman érdes. Külön kalap nincs.",
+      "hymenium": "A termőfelület nem alkot lemezeket, csöveket vagy tüskéket. A vékony fekete kéreg alatt egyetlen sor apró, kerekded, palack alakú kamra van, amelyek mindegyike apró felszíni pórussal nyílik. Egy érett bunkó metszete fekete pontok koszorújaként mutatja őket a fehér hús körül.",
+      "stipe": "Valódi tönk nincs. A bunkó alapja csupán ugyanannak a fekete testnek rövid, meddő, ráncos és keskenyedő folytatása, a fához rögzülve.",
+      "flesh": "Kemény, szívós és fás, belül tiszta fehér, sugarasan rostos. Szaga és íze nem jellegzetes.",
+      "sporePrint": "A spórapor fekete. Az ivaros spórák simák, sötétbarnák, orsó vagy banán alakúak, tipikusan 20–30 × 5–9 µm; a myko.cz 20–28 × 6–10 µm-t, a 123pilzsuche 22–29 × 7–9 µm-t ad meg.",
+      "habitat": "Lombos fák tuskóin, gyökerein és eltemetett fáján vagy azok mellett nő, különösen bükkön, továbbá szilen, tölgyön és más keményfán, rendszerint csomókban. Meglehetősen gyakori Nagy-Britanniában és Írországban, egész kontinentális Európában és Észak-Amerika sok vidékén. Termőtestek egész évben találhatók. A halvány, lisztes bunkók főként tavasszal jelennek meg, a sötét érett bunkókat pedig leginkább nyáron és ősszel veszik észre, de a régi fekete stromák megmaradnak.",
+      "uses": "Ehetetlen. A hús kemény és fás, és nem számít étkezési gombának. A szokásos európai útmutatók nem kezelik mérgezőként.",
+      "confusion": "A Xylaria longipes karcsúbb, hosszabb meddő tönkrésszel, és általában hegyi juharon vagy más juharfán nő; spórái kisebbek, körülbelül 11–17 × 5–7 µm. A Xylaria hypoxylon jóval vékonyabb és agancsszerűen ágazik, gyakran fehér, lisztes csúcsokkal. A puha, húsos fekete földnyelvek (Geoglossum és rokon nemzetségek) talajból vagy fűből nőnek, nem fából, és nem fásak.",
+      "notes": "Megbízható terepi bélyeg a vastag, fás, szabálytalan fekete bunkók csomókban eltemetett lombos fából, a finoman szemölcsös kéreg és a kemény fehér hús a felszín alatt palack alakú fekete kamrák koszorújával. Ha a bunkók még halványak és lisztesek, ugyanannak a fajnak az ivartalan stádiumáról van szó.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "bunkós agancsgomba"
+    },
+    "id": {
+      "description": "Jamur keras yang umum pada tunggul pohon berdaun lebar yang membusuk, dikenali dari jari-jari hitam tidak beraturan berbentuk gada yang biasanya tumbuh berumpun dari kayu terkubur, terutama kayu beech. Gada muda berwarna abu-abu pucat hingga kebiruan dan bertepung halus, kemudian menjadi kerak hitam kusam yang berbintil halus. Tidak ada tudung, bilah, maupun batang sejati. Dagingnya keras dan putih, dengan satu lapisan bilik hitam kecil berbentuk botol tepat di bawah permukaan.",
+      "cap": "Setiap gada biasanya 3–8 cm tinggi dan 1–3 cm tebal; beberapa panduan Eropa Tengah menyebutkan tinggi 3–10 cm dan ketebalan hingga 4 cm, dan 123pilzsuche mengizinkan 3–8 (9) × 1–3 (4) cm. Bentuknya tidak beraturan seperti gada, kadang pipih atau berbenjol, dengan ujung tumpul dan pangkal pendek yang lebih sempit serta berkerut. Permukaan mula-mula abu-abu pucat atau putih kebiruan dan bertepung, kemudian hitam kusam dan kasar halus karena pori-pori kecil yang menonjol. Tidak ada tudung terpisah.",
+      "hymenium": "Permukaan fertil tidak membentuk bilah, tabung, maupun duri. Tepat di bawah kerak hitam yang tipis terdapat satu deret bilik kecil membulat berbentuk botol, masing-masing terbuka melalui pori permukaan yang sangat kecil. Potongan gada dewasa menunjukkannya sebagai mahkota titik-titik hitam di sekeliling daging putih.",
+      "stipe": "Tidak ada batang sejati. Pangkal gada hanyalah kelanjutan pendek, steril, berkerut, dan menyempit dari tubuh hitam yang sama, melekat pada kayu.",
+      "flesh": "Keras, liat, dan seperti kayu, di dalam putih murni, berserat secara radial. Bau dan rasa tidak mencolok.",
+      "sporePrint": "Jejak spora berwarna hitam. Spora seksual licin, cokelat tua, berbentuk gelendong atau pisang, biasanya 20–30 × 5–9 µm; myko.cz mencantumkan 20–28 × 6–10 µm dan 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Tumbuh pada dan di dekat tunggul, akar, dan kayu terkubur pohon berdaun lebar, terutama beech, juga elm, oak, dan kayu keras lain, biasanya berumpun. Cukup umum di Britania Raya dan Irlandia, di seluruh Eropa daratan, dan di banyak bagian Amerika Utara. Tubuh buah dapat ditemukan sepanjang tahun. Gada pucat bertepung muncul terutama pada musim semi, dan gada dewasa yang gelap paling sering terlihat pada musim panas dan musim gugur, tetapi stroma hitam yang tua tetap bertahan.",
+      "uses": "Tidak dapat dimakan. Dagingnya keras dan seperti kayu serta tidak dianggap jamur pangan. Panduan Eropa yang biasa tidak memperlakukannya sebagai beracun.",
+      "confusion": "Xylaria longipes lebih ramping, dengan batang steril yang lebih panjang, dan biasanya tumbuh pada sycamore atau kayu maple lain; sporanya lebih kecil, sekitar 11–17 × 5–7 µm. Xylaria hypoxylon jauh lebih tipis dan bercabang seperti tanduk, sering dengan ujung putih bertepung. Lidah tanah hitam yang lunak dan berdaging (Geoglossum dan marga dekat) tumbuh dari tanah atau rumput, bukan dari kayu, dan tidak seperti kayu.",
+      "notes": "Ciri lapangan yang andal adalah gabungan gada hitam tebal, seperti kayu, dan tidak beraturan berumpun dari kayu berdaun lebar yang terkubur, kerak berbintil halus, dan daging putih keras dengan mahkota bilik hitam berbentuk botol tepat di bawah permukaan. Jika gada masih pucat dan bertepung, itu adalah tahap aseksual dari spesies yang sama.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo coriaceo frequente su ceppaie di latifoglie in decomposizione, riconoscibile per dita nere irregolari, a forma di clava, che crescono di solito in ciuffi da legno interrato, soprattutto di faggio. Le clava giovani sono grigio pallido o bluastre e finemente pruinose; in seguito diventano una crosta nera opaca, finemente verrucosa. Non ci sono cappello, lamelle né un vero gambo. La carne è dura e bianca, con un solo strato di piccole camere a fiasco appena sotto la superficie.",
+      "cap": "Ogni clava è tipicamente alta 3–8 cm e spessa 1–3 cm; alcune guide dell'Europa centrale indicano 3–10 cm di altezza e fino a 4 cm di spessore, e 123pilzsuche ammette 3–8 (9) × 1–3 (4) cm. È irregolarmente claviforme, a volte appiattita o nodosa, con apice ottuso e base corta, più stretta e rugosa. La superficie è dapprima grigio pallido o biancastra-bluastra e farinosa, poi nera opaca e finemente ruvida per minuscoli pori rilevati. Non esiste un cappello distinto.",
+      "hymenium": "La superficie fertile non forma lamelle, tubuli né aculei. Appena sotto la sottile crosta nera c'è una sola fila di piccole camere arrotondate a fiasco, ciascuna aperta da un minuscolo poro superficiale. Una sezione di una clava matura le mostra come una corona di punti neri intorno alla carne bianca.",
+      "stipe": "Non c'è un vero gambo. La base della clava è soltanto un breve prolungamento sterile, rugoso e rastremato dello stesso corpo nero, fissato al legno.",
+      "flesh": "Dura, coriacea e legnosa, di un bianco puro all'interno, a struttura radialmente fibrosa. Odore e sapore sono poco marcati.",
+      "sporePrint": "La sporata è nera. Le spore sessuali sono lisce, bruno scure, fusiformi o a forma di banana, tipicamente 20–30 × 5–9 µm; myko.cz indica 20–28 × 6–10 µm e 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Cresce su e accanto a ceppaie, radici e legno interrato di latifoglie, soprattutto faggio, anche olmo, quercia e altri legni duri, di solito in ciuffi. È piuttosto frequente in Gran Bretagna e Irlanda, in tutta l'Europa continentale e in molte regioni del Nord America. I corpi fruttiferi si possono trovare tutto l'anno. Le clava pallide e farinose compaiono soprattutto in primavera, e le clava mature scure si notano più spesso in estate e in autunno, ma i vecchi stromi neri persistono.",
+      "uses": "Non commestibile. La carne è dura e legnosa e non è considerata un fungo commestibile. Le guide europee comuni non lo trattano come tossico.",
+      "confusion": "Xylaria longipes è più slanciato, con un gambo sterile più lungo, e cresce di solito sull'acero di monte o su altri legni di acero; le sue spore sono più piccole, circa 11–17 × 5–7 µm. Xylaria hypoxylon è molto più sottile e ramificato come un corno, spesso con apici bianchi e farinosi. Le lingue di terra nere, morbide e carnose (Geoglossum e generi affini) crescono dal suolo o dall'erba, non dal legno, e non sono legnose.",
+      "notes": "Un carattere di campo affidabile è la combinazione di clava nere spesse, legnose e irregolari in ciuffi su legno di latifoglia interrato, una crosta finemente verrucosa e una carne bianca dura con una corona di camere nere a fiasco appena sotto la superficie. Se le clava sono ancora pallide e farinose, si tratta dello stadio asessuato della stessa specie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "腐朽した広葉樹の切り株にふつうに見られる硬い菌で、不規則な棍棒状の黒い指のかたちで見分けられる。これらはふつう、とくにブナの埋もれた材から束になって生じる。若い棍棒は淡い灰色から青みを帯び、細かい粉に覆われ、のちに艶のない細かい疣状の黒い外皮になる。傘もひだも真の柄もない。肉は硬くて白く、表面のすぐ下に小さな黒いフラスコ形の室が一層ある。",
+      "cap": "各棍棒はふつう高さ 3–8 cm、太さ 1–3 cmである。中欧の図鑑には高さ 3–10 cm、太さ最大 4 cmと記すものもあり、123pilzsuche は 3–8 (9) × 1–3 (4) cm を認める。形は不規則な棍棒状で、ときに扁平またはこぶ状になり、先端は鈍く、基部は短く細くてしわがある。表面は初め淡灰または青白く粉状で、のちに艶のない黒色となり、微小な隆起した孔のために細かくざらつく。独立した傘はない。",
+      "hymenium": "生殖面はひだも管も針もつくらない。薄い黒い外皮のすぐ下に、小さな丸みのあるフラスコ形の室が一列あり、それぞれごく小さな表面の孔で開く。成熟した棍棒の縦断面では、白い肉のまわりに黒い点の輪として見える。",
+      "stipe": "真の柄はない。棍棒の基部は同じ黒い体の短い不稔でしわのある先細りの続きにすぎず、材に付着する。",
+      "flesh": "硬く強靭で木質、内部は純白で放射状に繊維質。においや味は目立たない。",
+      "sporePrint": "胞子紋は黒色。有性胞子は平滑で暗褐色、紡錘形またはバナナ形、ふつう 20–30 × 5–9 µm。myko.cz は 20–28 × 6–10 µm、123pilzsuche は 22–29 × 7–9 µm を示す。",
+      "habitat": "広葉樹の切り株、根、埋もれた材の上やその近くに生じ、とくにブナ、またニレ、ナラなど他の堅い材にもつき、ふつう束になる。イギリスとアイルランド、ヨーロッパ大陸全体、北アメリカの多くの地域でかなり普通。子実体は一年中見つかる。淡く粉状の棍棒はおもに春に現れ、暗い成熟した棍棒は夏と秋にいちばん目につくが、古い黒いストローマは残る。",
+      "uses": "食用にはならない。肉は硬く木質で食用菌とは見なされない。一般的なヨーロッパの図鑑では有毒とは扱われない。",
+      "confusion": "Xylaria longipes はより細く、不稔の柄部が長く、ふつうセイヨウカジカエデなどカエデ類の材に生じる。胞子はより小さく、約 11–17 × 5–7 µm。Xylaria hypoxylon ははるかに細く角状に分枝し、しばしば白い粉状の先端をもつ。柔らかく肉質の黒い地舌菌（Geoglossum および近縁属）は材ではなく土や草から生じ、木質ではない。",
+      "notes": "野外での確実な特徴は、埋もれた広葉樹材から束になる太く木質で不規則な黒い棍棒、細かい疣状の外皮、そして表面のすぐ下に黒いフラスコ形の室の輪をもつ硬い白い肉である。棍棒がまだ淡く粉状なら、同じ種の無性世代である。",
+      "names": [
+        "オオクロサイワイタケ",
+        "コノミタケ",
+        "ユビタケ",
+        "豆莢茸"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "マメザヤタケ"
+    },
+    "ko": {
+      "description": "썩는 활엽수 그루터기에 흔히 나는 질긴 균으로, 불규칙한 곤봉 모양의 검은 손가락으로 알아본다. 이들은 보통 묻힌 나무, 특히 너도밤나무에서 다발로 난다. 어린 곤봉은 옅은 회색에서 푸른빛을 띠고 고운 가루로 덮이며, 나중에 광택 없는 잔잔한 사마귀 모양의 검은 껍질이 된다. 갓도 주름도 진짜 대도 없다. 살은 단단하고 희며, 표면 바로 아래에 작은 검은 병 모양 방이 한 층 있다.",
+      "cap": "각 곤봉은 보통 높이 3–8 cm, 두께 1–3 cm이다. 일부 중부 유럽 도감은 높이 3–10 cm, 두께 최대 4 cm를 적고, 123pilzsuche는 3–8 (9) × 1–3 (4) cm를 허용한다. 형태는 불규칙한 곤봉형이며, 때로 납작하거나 혹이 있고, 끝은 무디며 밑동은 짧고 더 가늘며 주름진다. 표면은 처음에는 옅은 회색 또는 푸른빛이 도는 흰색으로 가루가 있고, 나중에는 광택 없는 검은색이 되며 작은 돌출 구멍 때문에 곱게 거칠다. 따로 된 갓은 없다.",
+      "hymenium": "생식면은 주름이나 관, 침을 만들지 않는다. 얇은 검은 껍질 바로 아래에 작고 둥근 병 모양 방이 한 줄 있으며, 각각 아주 작은 표면 구멍으로 열린다. 성숙한 곤봉의 단면은 흰 살 둘레에 검은 점의 고리로 보인다.",
+      "stipe": "진짜 대는 없다. 곤봉의 밑동은 같은 검은 몸의 짧고 불임이며 주름지고 가늘어지는 연장에 지나지 않으며, 나무에 붙어 있다.",
+      "flesh": "단단하고 질기며 목질이고, 속은 순백이며 방사상으로 섬유질이다. 냄새와 맛은 뚜렷하지 않다.",
+      "sporePrint": "포자문은 검은색이다. 유성 포자는 매끈하고 암갈색이며 방추형 또는 바나나형으로, 보통 20–30 × 5–9 µm이다. myko.cz는 20–28 × 6–10 µm, 123pilzsuche는 22–29 × 7–9 µm를 적는다.",
+      "habitat": "활엽수의 그루터기, 뿌리, 묻힌 나무 위나 그 근처에서 나며, 특히 너도밤나무, 또한 느릅나무, 참나무 등 다른 단단한 나무에도 붙고, 보통 다발이다. 영국과 아일랜드, 유럽 대륙 전체, 북아메리카의 많은 지역에서 꽤 흔하다. 자실체는 일 년 내내 찾을 수 있다. 옅고 가루 같은 곤봉은 주로 봄에 나타나고, 어두운 성숙한 곤봉은 여름과 가을에 가장 잘 보이지만, 오래된 검은 스트로마는 남는다.",
+      "uses": "식용할 수 없다. 살은 단단하고 목질이며 식용 버섯으로 보지 않는다. 일반적인 유럽 도감은 독버섯으로 다루지 않는다.",
+      "confusion": "Xylaria longipes는 더 가늘고 불임인 대가 더 길며, 보통 시커모어나 다른 단풍나무 재에 난다. 포자는 더 작아 약 11–17 × 5–7 µm이다. Xylaria hypoxylon은 훨씬 가늘고 뿔처럼 갈라지며, 흔히 흰색 가루 같은 끝을 갖는다. 부드럽고 육질의 검은 땅혀버섯(Geoglossum 및 근연 속)은 나무가 아니라 흙이나 풀에서 나며 목질이 아니다.",
+      "notes": "야외에서 믿을 수 있는 특징은 묻힌 활엽수 재에서 다발로 나는 굵고 목질이며 불규칙한 검은 곤봉, 잔잔한 사마귀 모양 껍질, 그리고 표면 바로 아래에 검은 병 모양 방의 고리를 지닌 단단한 흰 살이다. 곤봉이 아직 옅고 가루 같다면 같은 종의 무성 세대이다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "다형콩꼬투리버섯"
+    },
+    "lt": {
+      "description": "Dažnas kietas grybas ant pūvančių lapuočių kelmų, atpažįstamas iš nelygių, buožiškų juodų pirštų, kurie dažniausiai auga kuokštais iš užkasto medienos, ypač bukų. Jaunos buožės būna blyškiai pilkos iki melsvos ir smulkiai apdulkėjusios, vėliau tampa matiniu, smulkiai karpotu juodu pluteliu. Nei kepurėlės, nei lakštelių, nei tikro koto nėra. Minkštimas kietas ir baltas, su vienu sluoksniu mažų juodų buteliukų pavidalo kamerų tuoj po paviršiumi.",
+      "cap": "Kiekviena buožė paprastai būna 3–8 cm aukščio ir 1–3 cm storio; kai kurie Vidurio Europos vadovai nurodo 3–10 cm aukštį ir iki 4 cm storį, o 123pilzsuche leidžia 3–8 (9) × 1–3 (4) cm. Ji nelygiai buožiška, kartais suplota ar gumbuota, su buku viršūne ir trumpu, siauresniu, raukšlėtu pagrindu. Paviršius pirma blyškiai pilkas arba melsvai baltas ir miltuotas, vėliau matinis juodas ir smulkiai šiurkštus dėl mažų iškilių porų. Atskiros kepurėlės nėra.",
+      "hymenium": "Derlingasis paviršius nesudaro nei lakštelių, nei vamzdelių, nei dyglių. Tuoj po plonu juodu pluteliu yra viena eilė mažų apvalesnių buteliukų pavidalo kamerų, kurių kiekviena atsiveria mažyte paviršiaus pora. Brandžios buožės pjūvis jas rodo kaip juodų taškelių vainiką aplink baltą minkštimą.",
+      "stipe": "Tikro koto nėra. Buožės pagrindas tėra trumpas, sterilus, raukšlėtas ir smailėjantis to paties juodo kūno tęsinys, prisitvirtinęs prie medienos.",
+      "flesh": "Kietas, tvirtas ir medieniškas, viduje grynas baltas, radialiai pluoštinis. Kvapas ir skonis silpni.",
+      "sporePrint": "Sporų milteliai juodi. Lytinės sporos lygios, tamsiai rudos, verpstiškos arba banana formos, paprastai 20–30 × 5–9 µm; myko.cz nurodo 20–28 × 6–10 µm, o 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Auga ant lapuočių kelmų, šaknų ir užkasto medienos bei šalia jų, ypač ant bukų, taip pat ant vinkšnų, ąžuolų ir kitos kietos medienos, dažniausiai kuokštais. Gana dažnas Jungtinėje Karalystėje ir Airijoje, visoje žemyninėje Europoje ir daugelyje Šiaurės Amerikos vietų. Vaisiakūnius galima rasti ištisus metus. Blyškios, miltuotos buožės pasirodo daugiausia pavasarį, o tamsios brandžios buožės dažniausiai pastebimos vasarą ir rudenį, tačiau seni juodi stromos kūnai išlieka.",
+      "uses": "Nevalgomas. Minkštimas kietas ir medieniškas ir nelaikomas maistiniu grybu. Įprasti Europos vadovai jo nelaiko nuodingu.",
+      "confusion": "Xylaria longipes yra lieknesnė, su ilgesniu steriliu kotu, ir dažniausiai auga ant kalninių klevų ar kitos klevų medienos; sporos mažesnės, apie 11–17 × 5–7 µm. Xylaria hypoxylon yra gerokai plonesnė ir ragų pavidalo, dažnai su baltomis miltuotomis viršūnėmis. Minkšti, mėsingi juodi žemės liežuviai (Geoglossum ir artimos gentys) auga iš dirvos ar žolės, ne iš medienos, ir nėra medieniški.",
+      "notes": "Patikimas požymis gamtoje – stori, medieniški, nelygūs juodi buožių kuokštai iš užkasto lapuočių medienos, smulkiai karpotas plutelis ir kietas baltas minkštimas su juodų buteliukų kamerų vainiku tuoj po paviršiumi. Jei buožės vis dar blyškios ir miltuotos, tai tos pačios rūšies nelytinė stadija.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "kislusis elniagrybis"
+    },
+    "lv": {
+      "description": "Bieži sastopama stingra sēne uz trūdošiem lapkoku celmiem, atpazīstama pēc neregulāriem, vālītes veida melniem pirkstiem, kas parasti aug puduros no apraktas koksnes, it īpaši no dižskābarža. Jaunas vālītes ir bāli pelēkas līdz zilganas un smalki apputējušas, vēlāk tās kļūst matēti, smalki kārpainā melnā garozā. Nav ne cepurītes, ne lapiņu, ne īsta kātiņa. Mīkstums ir ciets un balts, ar vienu kārtu mazu, pudelītes veida kameru tieši zem virsmas.",
+      "cap": "Katra vālīte parasti ir 3–8 cm augsta un 1–3 cm bieza; dažas Viduseiropas rokasgrāmatas norāda 3–10 cm augstumu un līdz 4 cm biezumu, un 123pilzsuche pieļauj 3–8 (9) × 1–3 (4) cm. Tā ir neregulāri vālītes formā, dažkārt saplacināta vai pauguraina, ar strupu galotni un īsu, šaurāku, krokainu pamatni. Virsma vispirms ir bāli pelēka vai zilganbalta un miltaina, vēlāk matēti melna un smalki raupja mazu izcilu poru dēļ. Atsevišķas cepurītes nav.",
+      "hymenium": "Auglīgā virsma neveido ne lapiņas, ne stobriņus, ne dzelkņus. Tieši zem plānās melnās garozas ir viena rinda mazu, noapaļotu pudelītes veida kameru, no kurām katra atveras ar sīku virsmas poru. Nobriedušas vālītes griezums tās rāda kā melnu punktiņu vainagu ap balto mīkstumu.",
+      "stipe": "Īsta kātiņa nav. Vālītes pamatne ir tikai īss, sterils, krokains un sašaurināts tā paša melnā ķermeņa turpinājums, piestiprināts pie koksnes.",
+      "flesh": "Ciets, stingrs un koksnains, iekšpusē tīri balts, radiāli šķiedrains. Smarža un garša ir vājas.",
+      "sporePrint": "Sporu putekļi ir melni. Dzimumsporas ir gludas, tumši brūnas, vārpstveida vai banāna formā, parasti 20–30 × 5–9 µm; myko.cz norāda 20–28 × 6–10 µm, bet 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Tā aug uz lapkoku celmiem, saknēm un apraktas koksnes vai to tuvumā, it īpaši uz dižskābarža, arī uz gobām, ozoliem un citas cietas koksnes, parasti puduros. Tā ir diezgan bieži sastopama Lielbritānijā un Īrijā, visā kontinentālajā Eiropā un daudzviet Ziemeļamerikā. Augļķermeņus var atrast visu gadu. Bālas, miltainas vālītes parādās galvenokārt pavasarī, un tumšas nobriedušas vālītes visbiežāk ievēro vasarā un rudenī, bet vecie melnie stromas ķermeņi paliek.",
+      "uses": "Neēdama. Mīkstums ir ciets un koksnains un netiek uzskatīts par ēdamu sēni. Parastās Eiropas rokasgrāmatas to neuzskata par indīgu.",
+      "confusion": "Xylaria longipes ir tievāka, ar garāku sterilo kātiņu, un parasti aug uz kalnu kļavas vai citas kļavu koksnes; sporas ir mazākas, apmēram 11–17 × 5–7 µm. Xylaria hypoxylon ir daudz tievāka un ragveida, bieži ar baltām miltainām galotnēm. Mīkstas, gaļīgas melnas zemes mēles (Geoglossum un tuvas ģintis) aug no augsnes vai zāles, ne no koksnes, un nav koksnainas.",
+      "notes": "Uzticama pazīme dabā ir biezu, koksnainu, neregulāru melnu vālīšu puduri no apraktas lapkoku koksnes, smalki kārpaina garoza un ciets balts mīkstums ar melnu pudelīšu kameru vainagu tieši zem virsmas. Ja vālītes vēl ir bālas un miltainas, tā ir tās pašas sugas bezdzimuma stadija.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een algemene taaie schimmel van rottende loofhoutstompen, te herkennen aan onregelmatige, knotsvormige zwarte vingers die meestal in bundels uit begraven hout groeien, vooral van beuk. Jonge knotsen zijn bleekgrijs tot blauwachtig en fijn bepoederd, later worden ze een matte, fijn wrattige zwarte korst. Er is geen hoed, geen lamellen en geen echte steel. Het vlees is hard en wit, met één laag kleine zwarte flessenvormige kamers net onder het oppervlak.",
+      "cap": "Elke knots is typisch 3–8 cm hoog en 1–3 cm dik; sommige Midden-Europese gidsen geven 3–10 cm hoogte en tot 4 cm dikte, en 123pilzsuche laat 3–8 (9) × 1–3 (4) cm toe. Hij is onregelmatig knotsvormig, soms afgeplat of knobbelig, met een stompe top en een korte, smallere, gerimpelde basis. Het oppervlak is eerst bleekgrijs of blauwwit en meelachtig, later matzwart en fijn ruw door kleine verheven poriën. Een aparte hoed ontbreekt.",
+      "hymenium": "Het vruchtbare oppervlak vormt geen lamellen, buisjes of stekels. Net onder de dunne zwarte korst ligt één rij kleine afgeronde flessenvormige kamers, die elk openen door een minuscule oppervlakteporie. Een doorsnede van een rijpe knots toont ze als een krans van zwarte stippen rond het witte vlees.",
+      "stipe": "Een echte steel ontbreekt. De basis van de knots is slechts een korte, steriele, gerimpelde, versmalde voortzetting van hetzelfde zwarte lichaam, vastgehecht aan het hout.",
+      "flesh": "Hard, taai en houtig, van binnen zuiver wit, met een radiaal vezelige structuur. Geur en smaak zijn niet opvallend.",
+      "sporePrint": "De sporenafdruk is zwart. De seksuele sporen zijn glad, donkerbruin, spoel- of banaanvormig, typisch 20–30 × 5–9 µm; myko.cz geeft 20–28 × 6–10 µm en 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Hij groeit op en naast stompen, wortels en begraven hout van loofbomen, vooral beuk, ook iep, eik en ander hardhout, meestal in bundels. Hij is vrij algemeen in Groot-Brittannië en Ierland, in heel vasteland-Europa en in veel delen van Noord-Amerika. Vruchtlichamen zijn het hele jaar te vinden. Bleke, meelachtige knotsen verschijnen vooral in de lente, en donkere rijpe knotsen vallen het vaakst op in zomer en herfst, maar oude zwarte stromata blijven staan.",
+      "uses": "Oneetbaar. Het vlees is hard en houtig en geldt niet als voedselzwam. Gewone Europese gidsen behandelen hem niet als giftig.",
+      "confusion": "Xylaria longipes is slanker, met een langere steriele steel, en groeit meestal op gewone esdoorn of ander esdoornhout; de sporen zijn kleiner, ongeveer 11–17 × 5–7 µm. Xylaria hypoxylon is veel dunner en gewei-achtig, vaak met witte meelachtige toppen. Zachte, vlezige zwarte aardtongen (Geoglossum en verwante geslachten) groeien uit grond of gras, niet uit hout, en zijn niet houtig.",
+      "notes": "Een betrouwbaar veldkenmerk is de combinatie van dikke, houtige, onregelmatige zwarte knotsen in bundels uit begraven loofhout, een fijn wrattige korst en hard wit vlees met een krans van zwarte flessenvormige kamers net onder het oppervlak. Als de knotsen nog bleek en meelachtig zijn, is dat het ongeslachtelijke stadium van dezelfde soort.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "Houtknotszwam"
+    },
+    "no": {
+      "description": "En vanlig, seig sopp på råtnende lauvtrestubber, kjent på ujevne, kølleformede svarte fingre som vanligvis vokser i tuer fra nedgravd ved, særlig bøk. Unge køller er blekgrå til blålige og fint pudret, senere mørkner de til en matt, fint vorteaktig svart skorpe. Det finnes verken hatt, skiver eller en ekte stilk. Kjøttet er hardt og hvitt, med ett lag av små svarte flaskeformede kamre like under overflaten.",
+      "cap": "Hver kølle er typisk 3–8 cm høy og 1–3 cm tykk; noen sentraleuropeiske håndbøker oppgir 3–10 cm i høyde og inntil 4 cm i tykkelse, og 123pilzsuche tillater 3–8 (9) × 1–3 (4) cm. Den er ujevnt kølleformet, av og til avflatet eller knudrete, med butt spiss og en kort, smalere, rynket basis. Overflaten er først blekgrå eller blåhvit og melaktig, senere matt svart og fint ru av små opphøyde porer. En egen hatt mangler.",
+      "hymenium": "Den fruktbare flaten danner verken skiver, rør eller pigger. Like under den tynne svarte skorpen sitter en enkelt rad små avrundede flaskeformede kamre, som hver åpner seg med en liten overflatepore. Et snitt gjennom en moden kølle viser dem som en krans av svarte prikker rundt det hvite kjøttet.",
+      "stipe": "En ekte stilk mangler. Basis av køllen er bare en kort, steril, rynket og avsmalnet fortsettelse av det samme svarte legemet, festet til veden.",
+      "flesh": "Hardt, seigt og vedaktig, innvendig rent hvitt, med radiært fibrøs struktur. Lukt og smak er utydelige.",
+      "sporePrint": "Sporeavtrykket er svart. De seksuelle sporene er glatte, mørkebrune, spindel- eller bananformede, typisk 20–30 × 5–9 µm; myko.cz oppgir 20–28 × 6–10 µm og 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Den vokser på og ved stubber, røtter og nedgravd ved av lauvtrær, særlig bøk, også alm, eik og annen hardved, vanligvis i tuer. Den er ganske vanlig i Storbritannia og Irland, i hele det europeiske fastlandet og i mange deler av Nord-Amerika. Fruktlegemer kan finnes hele året. Bleke, melaktige køller viser seg særlig om våren, og mørke modne køller merkes oftest om sommeren og høsten, men gamle svarte stromata blir stående.",
+      "uses": "Uspiselig. Kjøttet er hardt og vedaktig og regnes ikke som matsopp. Vanlige europeiske håndbøker behandler den ikke som giftig.",
+      "confusion": "Xylaria longipes er slankere, med en lengre steril stilk, og vokser vanligvis på spisslønn eller annen lønneved; sporene er mindre, omkring 11–17 × 5–7 µm. Xylaria hypoxylon er mye tynnere og geviraktig, ofte med hvite melaktige spisser. Myke, kjøttfulle svarte jordtunger (Geoglossum og lignende slekter) vokser fra jord eller gress, ikke fra ved, og er ikke vedaktige.",
+      "notes": "Et pålitelig feltkjennetegn er kombinasjonen av tykke, vedaktige, ujevne svarte køller i tuer fra nedgravd lauvved, en fint vorteaktig skorpe og hardt hvitt kjøtt med en krans av svarte flaskeformede kamre like under overflaten. Når køllene ennå er bleke og melaktige, er det det ukjønnede stadiet av samme art.",
+      "names": [
+        "breitt stubbehorn"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "bredt stubbehorn"
+    },
+    "pl": {
+      "description": "Pospolity twardy grzyb butwiejących pni drzew liściastych, poznawany po nieregularnych, buławkowatych czarnych palcach, które zwykle wyrastają w kępkach z zagrzebanego drewna, zwłaszcza buka. Młode buławki są bladoszare do niebieskawych i oprószone drobnym pyłem, potem ciemnieją do matowej, drobno brodawkowatej czarnej skórki. Nie ma kapelusza, blaszek ani prawdziwego trzonu. Miąższ jest twardy i biały, z jedną warstwą drobnych czarnych butelkowatych komór tuż pod powierzchnią.",
+      "cap": "Każda buławka ma typowo 3–8 cm wysokości i 1–3 cm grubości; niektóre środkowoeuropejskie opracowania podają 3–10 cm wysokości i do 4 cm grubości, a 123pilzsuche dopuszcza 3–8 (9) × 1–3 (4) cm. Jest nieregularnie buławkowata, czasem spłaszczona lub guzowata, z tępym wierzchołkiem i krótką, węższą, pomarszczoną podstawą. Powierzchnia jest najpierw bladoszara lub niebieskawobiała i mączysta, później matowo czarna i drobno szorstka od drobnych wzniesionych porów. Oddzielnego kapelusza brak.",
+      "hymenium": "Powierzchnia zarodnikotwórcza nie tworzy blaszek, rurek ani kolców. Tuż pod cienką czarną skórką znajduje się jeden rząd drobnych zaokrąglonych butelkowatych komór, z których każda otwiera się drobnym powierzchniowym porem. Przekrój dojrzałej buławki ukazuje je jako wieniec czarnych kropek wokół białego miąższu.",
+      "stipe": "Prawdziwego trzonu brak. Podstawa buławki to tylko krótkie, płonne, pomarszczone i zwężone przedłużenie tego samego czarnego ciała, przyrośnięte do drewna.",
+      "flesh": "Twardy, tęgi i drewnisty, wewnątrz czysto biały, o promieniście włóknistej strukturze. Zapach i smak są niewyraźne.",
+      "sporePrint": "Wysyp zarodników jest czarny. Zarodniki płciowe są gładkie, ciemnobrązowe, wrzecionowate lub bananowate, typowo 20–30 × 5–9 µm; myko.cz podaje 20–28 × 6–10 µm, a 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Rośnie na pniach, korzeniach i zagrzebanym drewnie drzew liściastych lub tuż obok nich, zwłaszcza na buku, także na wiązie, dębie i innych twardych drewnach, zwykle w kępkach. Jest dość pospolity w Wielkiej Brytanii i Irlandii, w całej kontynentalnej Europie i w wielu częściach Ameryki Północnej. Owocniki można znajdować przez cały rok. Blade, mączyste buławki pojawiają się głównie wiosną, a ciemne dojrzałe buławki najczęściej zauważa się latem i jesienią, ale stare czarne stromata pozostają.",
+      "uses": "Jadalny nie jest. Miąższ jest twardy i drewnisty i nie uważa się go za grzyb jadalny. Typowe europejskie przewodniki nie traktują go jako trującego.",
+      "confusion": "Xylaria longipes jest smuklejsza, z dłuższą płonną nóżką, i zwykle rośnie na jaworze lub innym drewnie klonowym; jej zarodniki są mniejsze, około 11–17 × 5–7 µm. Xylaria hypoxylon jest znacznie cieńsza i porożowata, często z białymi mączystymi końcami. Miękkie, mięsiste czarne ozorki (Geoglossum i podobne rodzaje) rosną z gleby lub trawy, nie z drewna, i nie są drewniste.",
+      "notes": "Pewną cechą terenową jest połączenie grubych, drewnistych, nieregularnych czarnych buławek w kępkach z zagrzebanego drewna liściastego, drobno brodawkowatej skórki i twardego białego miąższu z wieńcem czarnych butelkowatych komór tuż pod powierzchnią. Gdy buławki są jeszcze blade i mączyste, jest to stadium bezpłciowe tego samego gatunku.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "próchnilec maczugowaty"
+    },
+    "pt": {
+      "description": "Um fungo coriáceo frequente em cepos de folhosas em decomposição, reconhecível por dedos pretos irregulares, em forma de clava, que crescem quase sempre em tufos a partir de madeira enterrada, sobretudo de faia. As clavas jovens são cinzento-pálidas a azuladas e finamente pruinosas; depois tornam-se uma crosta preta mate, finamente verrugosa. Não há chapéu, nem lâminas, nem um pé verdadeiro. A carne é dura e branca, com uma só camada de pequenas câmaras em forma de frasco logo abaixo da superfície.",
+      "cap": "Cada clava mede tipicamente 3–8 cm de altura e 1–3 cm de espessura; alguns guias da Europa Central indicam 3–10 cm de altura e até 4 cm de espessura, e 123pilzsuche admite 3–8 (9) × 1–3 (4) cm. É irregularmente claviforme, por vezes achatada ou nodosa, com o ápice obtuso e uma base curta, mais estreita e enrugada. A superfície é a princípio cinzento-pálida ou branco-azulada e farinhosa, depois preta mate e finamente áspera por poros minúsculos salientes. Não existe um chapéu separado.",
+      "hymenium": "A superfície fértil não forma lâminas, tubos nem agulhões. Logo abaixo da fina crosta preta há uma só fiada de pequenas câmaras arredondadas em forma de frasco, cada uma a abrir-se por um poro superficial minúsculo. Um corte de uma clava madura mostra-as como uma coroa de pontos pretos em volta da carne branca.",
+      "stipe": "Não há um pé verdadeiro. A base da clava é apenas um curto prolongamento estéril, enrugado e estreito do mesmo corpo preto, preso à madeira.",
+      "flesh": "Dura, coriácea e lenhosa, de um branco puro no interior, com estrutura radialmente fibrosa. O cheiro e o sabor são pouco marcados.",
+      "sporePrint": "A esporada é preta. Os esporos sexuais são lisos, pardo-escuros, fusiformes ou em forma de banana, tipicamente 20–30 × 5–9 µm; myko.cz indica 20–28 × 6–10 µm e 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Cresce sobre e junto a cepos, raízes e madeira enterrada de folhosas, especialmente faia, também ulmeiro, carvalho e outras madeiras duras, quase sempre em tufos. É bastante frequente na Grã-Bretanha e na Irlanda, em toda a Europa continental e em muitas regiões da América do Norte. Podem encontrar-se corpos frutíferos durante todo o ano. As clavas pálidas e farinhosas aparecem sobretudo na primavera, e as clavas maduras escuras notam-se mais frequentemente no verão e no outono, mas os estromas pretos velhos persistem.",
+      "uses": "Não comestível. A carne é dura e lenhosa e não é considerada um fungo comestível. Os guias europeus habituais não o tratam como tóxico.",
+      "confusion": "Xylaria longipes é mais esbelto, com um pé estéril mais longo, e cresce normalmente no bordo ou noutras madeiras de ácer; os seus esporos são mais pequenos, cerca de 11–17 × 5–7 µm. Xylaria hypoxylon é muito mais fino e ramificado como uma galhada, muitas vezes com ápices brancos e farinhosos. As línguas-da-terra pretas, moles e carnudas (Geoglossum e géneros aparentados) crescem no solo ou na relva, não na madeira, e não são lenhosas.",
+      "notes": "Um carácter de campo fiável é a combinação de clavas pretas grossas, lenhosas e irregulares em tufos sobre madeira de folhosa enterrada, uma crosta finamente verrugosa e uma carne branca dura com uma coroa de câmaras pretas em forma de frasco logo abaixo da superfície. Se as clavas ainda estão pálidas e farinhosas, trata-se da fase assexuada da mesma espécie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "Dedo-de-bruxa"
+    },
+    "ro": {
+      "description": "O ciupercă tare, destul de frecventă pe cioate de foioase în putrefacție, recunoscută după degete negre neregulate, în formă de măciucă, care cresc de obicei în smocuri din lemn îngropat, mai ales de fag. Măciucile tinere sunt gri-palide până la albăstrui și fin pruinoase; apoi devin o crustă neagră mată, fin verucoasă. Nu există pălărie, lamele și nici un picior adevărat. Carnea este tare și albă, cu un singur strat de camere mici, în formă de flacon, imediat sub suprafață.",
+      "cap": "Fiecare măciucă are de obicei 3–8 cm înălțime și 1–3 cm grosime; unele ghiduri din Europa Centrală dau 3–10 cm înălțime și până la 4 cm grosime, iar 123pilzsuche admite 3–8 (9) × 1–3 (4) cm. Este neregulat claviformă, uneori turtită sau noduroasă, cu vârful obtuz și o bază scurtă, mai îngustă și zbârcită. Suprafața este la început gri-palidă sau alb-albăstruie și făinoasă, apoi neagră mată și fin aspră din cauza unor pori minusculi proeminenți. Nu există o pălărie distinctă.",
+      "hymenium": "Suprafața fertilă nu formează lamele, tuburi sau țepi. Imediat sub crusta neagră subțire se află un singur șir de camere mici, rotunjite, în formă de flacon, fiecare deschizându-se printr-un por minuscul de suprafață. O secțiune printr-o măciucă matură le arată ca o coroană de puncte negre în jurul cărnii albe.",
+      "stipe": "Nu există un picior adevărat. Baza măciucii este doar o prelungire scurtă, sterilă, zbârcită și îngustată a aceluiași corp negru, prinsă de lemn.",
+      "flesh": "Tare, tenace și lemnoasă, albă pură în interior, cu structură radial fibroasă. Mirosul și gustul sunt slabe.",
+      "sporePrint": "Pulberea de spori este neagră. Sporii sexuali sunt netezi, brun-închiși, fusiformi sau în formă de banană, de obicei 20–30 × 5–9 µm; myko.cz indică 20–28 × 6–10 µm, iar 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Crește pe și lângă cioate, rădăcini și lemn îngropat de foioase, mai ales fag, de asemenea ulm, stejar și alte esențe tari, de obicei în smocuri. Este destul de frecventă în Marea Britanie și Irlanda, în toată Europa continentală și în multe părți ale Americii de Nord. Corpurile de fructificare pot fi găsite tot anul. Măciucile palide și făinoase apar mai ales primăvara, iar măciucile mature întunecate se observă cel mai des vara și toamna, dar stromatele negre vechi persistă.",
+      "uses": "Necomestibilă. Carnea este tare și lemnoasă și nu este considerată ciupercă de consum. Ghidurile europene obișnuite nu o tratează ca toxică.",
+      "confusion": "Xylaria longipes este mai zveltă, cu un picior steril mai lung, și crește de obicei pe paltin de munte sau pe alt lemn de arțar; sporii sunt mai mici, circa 11–17 × 5–7 µm. Xylaria hypoxylon este mult mai subțire și ramificată ca un corn, adesea cu vârfuri albe făinoase. Limbile de pământ negre, moi și cărnoase (Geoglossum și genuri înrudite) cresc din sol sau iarbă, nu din lemn, și nu sunt lemnoase.",
+      "notes": "Un caracter de teren de încredere este combinația de măciuci negre groase, lemnoase și neregulate în smocuri pe lemn de foioase îngropat, o crustă fin verucoasă și o carne albă tare cu o coroană de camere negre în formă de flacon imediat sub suprafață. Dacă măciucile sunt încă palide și făinoase, este vorba de stadiul asexuat al aceleiași specii.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "Degetele mortului"
+    },
+    "ru": {
+      "description": "Обычный жёсткий гриб на гниющих пнях лиственных деревьев, узнаваемый по неправильным, булавовидным чёрным «пальцам», которые обычно растут пучками из погребённой древесины, особенно бука. Молодые булавы бледно-серые до сизоватых и мелко припорошены, позже становятся матовой, мелкобугорчатой чёрной коркой. Шляпки, пластинок и настоящей ножки нет. Мякоть твёрдая и белая, с одним слоем мелких чёрных бутылковидных камер сразу под поверхностью.",
+      "cap": "Каждая булава обычно 3–8 см высотой и 1–3 см толщиной; некоторые центральноевропейские определители указывают 3–10 см в высоту и до 4 см в толщину, а 123pilzsuche допускает 3–8 (9) × 1–3 (4) см. Она неправильно булавовидная, иногда сплюснутая или бугристая, с тупой вершиной и короткой, более узкой, морщинистой основой. Поверхность сначала бледно-серая или сизовато-белая и мучнистая, позже матово-чёрная и мелкошероховатая из‑за крошечных приподнятых пор. Отдельной шляпки нет.",
+      "hymenium": "Плодоносящая поверхность не образует ни пластинок, ни трубочек, ни шипиков. Сразу под тонкой чёрной коркой расположен один ряд мелких округлых бутылковидных камер, каждая из которых открывается крошечной поверхностной порой. Разрез зрелой булавы показывает их венцом чёрных точек вокруг белой мякоти.",
+      "stipe": "Настоящей ножки нет. Основание булавы — лишь короткое, стерильное, морщинистое и суженное продолжение того же чёрного тела, прикреплённое к древесине.",
+      "flesh": "Твёрдая, жёсткая и деревянистая, внутри чисто белая, радиально волокнистая. Запах и вкус невыразительные.",
+      "sporePrint": "Споровый порошок чёрный. Половые споры гладкие, тёмно-коричневые, веретеновидные или банановидные, обычно 20–30 × 5–9 µm; myko.cz указывает 20–28 × 6–10 µm, а 123pilzsuche — 22–29 × 7–9 µm.",
+      "habitat": "Растёт на пнях, корнях и погребённой древесине лиственных деревьев и рядом с ними, особенно на буке, также на вязе, дубе и другой твёрдой древесине, обычно пучками. Довольно обычен в Великобритании и Ирландии, по всей континентальной Европе и во многих районах Северной Америки. Плодовые тела можно находить круглый год. Бледные мучнистые булавы появляются главным образом весной, а тёмные зрелые булавы чаще всего замечают летом и осенью, но старые чёрные стромы сохраняются.",
+      "uses": "Несъедобен. Мякоть твёрдая и деревянистая и не считается пищевым грибом. Обычные европейские определители не относят его к ядовитым.",
+      "confusion": "Xylaria longipes стройнее, с более длинной стерильной ножкой, и обычно растёт на клёне-яворе или другой кленовой древесине; споры мельче, около 11–17 × 5–7 µm. Xylaria hypoxylon гораздо тоньше и роговидно ветвится, часто с белыми мучнистыми кончиками. Мягкие, мясистые чёрные земляные языки (Geoglossum и близкие роды) растут из почвы или травы, а не из древесины, и не деревянистые.",
+      "notes": "Надёжный полевой признак — сочетание толстых, деревянистых, неправильных чёрных булав пучками из погребённой лиственной древесины, мелкобугорчатой корки и твёрдой белой мякоти с венцом чёрных бутылковидных камер сразу под поверхностью. Если булавы ещё бледные и мучнистые, это бесполая стадия того же вида.",
+      "names": [
+        "Пальцы мертвеца",
+        "Пальцы покойника"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "ксилария многообразная"
+    },
+    "sk": {
+      "description": "Bežná tuhá huba hnijúcich pňov listnatých stromov, ktorú spoľahlivo spoznáme podľa nepravidelných kyjakovitých čiernych prstov, ktoré zvyčajne vyrastajú v trsoch zo zakopaného dreva, najmä buka. Mladé kyjaky sú bledosivé až namodralé a poprášené jemným prachom, neskôr tmavnú do matnej, jemne bradavičnatej čiernej kôry. Nemá klobúk, lupeň ani pravý hlúbik. Dužina je tvrdá a biela, s jednou vrstvou drobných čiernych fľaškovitých komôrok tesne pod povrchom.",
+      "cap": "Každý kyjak je typicky 3–8 cm vysoký a 1–3 cm hrubý; niektoré stredoeurópske príručky uvádzajú 3–10 cm na výšku a až 4 cm na hrúbku a 123pilzsuche pripúšťa 3–8 (9) × 1–3 (4) cm. Je nepravidelne kyjakovitý, niekedy sploštený alebo hrboľatý, s tupým vrcholom a krátkou, užšou, vrásčitou bázou. Povrch je najprv bledosivý alebo namodralo belavý a práškovitý, neskôr matne čierny a jemne zdrsnený drobnými vystúpenými pórmi. Oddelený klobúk chýba.",
+      "hymenium": "Úrodný povrch netvoria lupene, rúrky ani ostne. Tesne pod tenkou čiernou kôrou je jeden rad drobných zaoblených fľaškovitých komôrok, z ktorých každá sa otvára nepatrným povrchovým pórom. Rez zrelým kyjakom ich ukáže ako veniec čiernych bodiek okolo bielej dužiny.",
+      "stipe": "Pravý hlúbik chýba. Báza kyjakovitého tela je len krátke, sterilné, vrásčité a zúžené pokračovanie toho istého čierneho tela, prirastené k drevu.",
+      "flesh": "Tvrdá, tuhá a drevnatá, vnútri čisto biela, s lúčovito vláknitou štruktúrou. Vôňa ani chuť nie sú výrazné.",
+      "sporePrint": "Výtrusný prach je čierny. Pohlavné výtrusy sú hladké, tmavohnedé, vretenovité alebo banánovité, typicky 20–30 × 5–9 µm; myko.cz uvádza 20–28 × 6–10 µm a 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Rastie na pňoch, koreňoch a zakopanom dreve listnatých stromov alebo tesne vedľa nich, predovšetkým na buku, tiež na breste, dube a iných tvrdých drevinách, zvyčajne v trsoch. Je pomerne hojná v Británii a Írsku, v celej pevninskej Európe aj v mnohých častiach Severnej Ameriky. Plodnice možno nachádzať po celý rok. Bledé, práškovité kyjaky sa objavujú najmä na jar a tmavé zrelé kyjaky si najčastejšie všimneme v lete a na jeseň, ale staré čierne stromaty pretrvávajú.",
+      "uses": "Nejedlá. Dužina je tvrdá a drevnatá a za potravinu sa nepovažuje. Bežné európske príručky ju neoznačujú za jedovatú.",
+      "confusion": "Xylaria longipes je štíhlejšia, s dlhšou sterilnou stopkou, a rastie zvyčajne na javore horskom alebo inom javorovom dreve; jej výtrusy sú menšie, asi 11–17 × 5–7 µm. Xylaria hypoxylon je oveľa tenšia a parohovitá, často s bielymi práškovitými špičkami. Mäkké, dužinaté čierne jazykovité huby (Geoglossum a podobné rody) rastú z pôdy alebo trávy, nie z dreva, a nie sú drevnaté.",
+      "notes": "Spoľahlivým terénnym znakom je kombinácia hrubých, drevnatých, nepravidelných čiernych kyjakov v trsoch zo zakopaného listnatého dreva, jemne bradavičnatej kôry a tvrdej bielej dužiny s vencom čiernych fľaškovitých komôrok tesne pod povrchom. Ak sú kyjaky ešte bledé a práškovité, ide o nepohlavné štádium toho istého druhu.",
+      "names": [
+        "drevnatec kyjakovitý"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://fotonet.sk/atlas/fungi_huby/xylaria-polymorpha",
+        "https://tnlive.sk/zahranicne/clanok/172308-prsty-m-tveho-muza",
+        "https://www.treking.cz/priroda/drevnatka-mnohotvarna.htm"
+      ],
+      "label": "drevnatec mnohotvárny"
+    },
+    "sl": {
+      "description": "Pogosta trda goba trohnečih panjev listavcev, ki jo prepoznamo po nepravilnih, kijastih črnih prstih, ki ponavadi rastejo v šopih iz zakopanega lesa, zlasti bukve. Mladi kiji so bledo sivi do modrikasti in posuti z drobnim prahom, pozneje potemne v mat, drobno bradavičasto črno skorjo. Nima klobuka, lističev niti pravega beta. Meso je trdo in belo, z eno plastjo drobnih črnih stekleničastih votlinic tik pod površino.",
+      "cap": "Vsak kij je tipično 3–8 cm visok in 1–3 cm debel; nekateri srednjeevropski priročniki navajajo 3–10 cm višine in do 4 cm debeline, 123pilzsuche pa dopušča 3–8 (9) × 1–3 (4) cm. Je nepravilno kijast, včasih sploščen ali grbast, s topim vrhom in kratko, ožjo, nagubano bazo. Površina je najprej bledo siva ali modrikasto bela in prašnata, pozneje mat črna in drobno hrapava od drobnih dvignjenih por. Ločenega klobuka ni.",
+      "hymenium": "Trosorodna površina ne tvori lističev, cevk niti bodic. Tik pod tanko črno skorjo je ena vrsta drobnih zaokroženih stekleničastih votlinic, od katerih se vsaka odpira z drobno površinsko poro. Prečni prerez zrelega kija jih pokaže kot venec črnih pik okoli belega mesa.",
+      "stipe": "Pravega beta ni. Baza kija je le kratko, sterilno, nagubano in zoženo nadaljevanje istega črnega telesa, priraslo na les.",
+      "flesh": "Trdo, čvrsto in lesnato, znotraj čisto belo, s radialno vlaknasto zgradbo. Vonj in okus nista izrazita.",
+      "sporePrint": "Trosni prah je črn. Spolni trosi so gladki, temno rjavi, vretenasti ali bananasti, tipično 20–30 × 5–9 µm; myko.cz navaja 20–28 × 6–10 µm, 123pilzsuche pa 22–29 × 7–9 µm.",
+      "habitat": "Raste na panjih, koreninah in zakopanem lesu listavcev ali tik ob njih, predvsem na bukvi, tudi na brestu, hrastu in drugih trdih lesih, ponavadi v šopih. Je precej pogosta v Britaniji in na Irskem, po vsej celinski Evropi in v mnogih delih Severne Amerike. Trosnjake je mogoče najti vse leto. Bledi, prašnati kiji se pojavljajo predvsem spomladi, temne zrele kije pa najpogosteje opazimo poleti in jeseni, vendar stara črna stromata vztrajajo.",
+      "uses": "Neužitna. Meso je trdo in lesnato in se ne šteje za jedilno gobo. Običajni evropski priročniki je ne obravnavajo kot strupeno.",
+      "confusion": "Xylaria longipes je vitkejša, z daljšim sterilnim betom, in ponavadi raste na gorskem javorju ali drugem javorjevem lesu; njeni trosi so manjši, približno 11–17 × 5–7 µm. Xylaria hypoxylon je precej tanjša in rogovilasta, pogosto z belimi prašnatimi konicami. Mehki, mesnati črni jezički (Geoglossum in podobni rodovi) rastejo iz prsti ali trave, ne iz lesa, in niso lesnati.",
+      "notes": "Zanesljiva terenska znamenja so debeli, lesnati, nepravilni črni kiji v šopih iz zakopanega listnatega lesa, drobno bradavičasta skorja in trdo belo meso z vencem črnih stekleničastih votlinic tik pod površino. Če so kiji še bledi in prašnati, gre za nespolečno stopnjo iste vrste.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "kopučasta lesenjača"
+    },
+    "sr": {
+      "description": "Честа чврста гљива трулих пањева лишћара, препознатљива по неправилним, буздованастим црним прстима који обично расту у групама из закопаног дрвета, посебно букве. Млади буздовани су бледосиви до плавкасти и посути ситним прахом, затим потамне у мат, фино брадавичасту црну кору. Нема шешира, листића ни правог дршка. Месо је тврдо и бело, са једним слојем ситних црних боцастих коморица одмах испод површине.",
+      "cap": "Сваки буздован је типично 3–8 cm висок и 1–3 cm дебео; неки средњоевропски приручници наводе 3–10 cm висине и до 4 cm дебљине, а 123pilzsuche допушта 3–8 (9) × 1–3 (4) cm. Неправилно је буздованаст, понекад спљоштен или квргаст, са тупим врхом и кратком, ужом, набораном базом. Површина је најпре бледосива или плавкастобела и прашњава, касније мат црна и фино храпава од ситних уздигнутих пора. Одвојеног шешира нема.",
+      "hymenium": "Плодна површина не ствара листиће, цевчице ни бодље. Одмах испод танке црне коре налази се један ред ситних заобљених боцастих коморица, од којих се свака отвара ситним површинским пором. Пресек зрелог буздована показује их као венац црних тачкица око белог меса.",
+      "stipe": "Правог дршка нема. База буздована само је кратак, стерилан, наборан и сужен наставак истог црног тела, прирасло уз дрво.",
+      "flesh": "Тврдо, чврсто и дрвенасто, изнутра чисто бело, радијално влакнасте грађе. Мирис и укус нису изражени.",
+      "sporePrint": "Отисак спора је црн. Полне споре су глатке, тамносмеђе, вретенасте или бананасте, типично 20–30 × 5–9 µm; myko.cz наводи 20–28 × 6–10 µm, а 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Расте на пањевима, корењу и закопаном дрвету лишћара или одмах поред њих, посебно на букви, такође на бресту, храсту и другим тврдим дрветима, обично у групама. Прилично је честа у Британији и Ирској, широм континенталне Европе и у многим деловима Северне Америке. Плодишта се могу налазити током целе године. Бледи, прашњави буздовани јављају се углавном у пролеће, а тамне зреле буздоване најчешће примећујемо лети и у јесен, али стара црна стромата остају.",
+      "uses": "Нејестива. Месо је тврдо и дрвенасто и не сматра се јестивом гљивом. Уобичајени европски приручници је не сматрају отровном.",
+      "confusion": "Xylaria longipes виткија је, с дужим стерилним дршком, и обично расте на горском јавору или другом јаворовом дрвету; њене споре су мање, око 11–17 × 5–7 µm. Xylaria hypoxylon знатно је тања и рогата, често с белим прашњавим врховима. Меке, меснате црне језичасте гљиве (Geoglossum и слични родови) расту из земље или траве, не из дрвета, и нису дрвенасте.",
+      "notes": "Поуздано теренско обележје је спој дебелих, дрвенастих, неправилних црних буздована у групама из закопаног дрвета лишћара, фино брадавичасте коре и тврдог белог меса с венцем црних боцастих коморица одмах испод површине. Док су буздовани још бледи и прашњави, реч је о бесполом стадијуму исте гљиве.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "Мртвачки прсти"
+    },
+    "sv": {
+      "description": "En vanlig, seg svamp på ruttnande lövvedsstubbar, känd på oregelbundna, klubblika svarta fingrar som oftast växer i tuvor från nedgrävd ved, särskilt bok. Unga klubbor är blekgrå till blåaktiga och fint pudrade, senare mörknar de till en matt, fint vårtig svart skorpa. Det finns varken hatt, skivor eller en äkta fot. Köttet är hårt och vitt, med ett enda skikt av små svarta flasklika kammare strax under ytan.",
+      "cap": "Varje klubba är typiskt 3–8 cm hög och 1–3 cm tjock; vissa centraleuropeiska handböcker anger 3–10 cm i höjd och upp till 4 cm i tjocklek, och 123pilzsuche tillåter 3–8 (9) × 1–3 (4) cm. Den är oregelbundet klubbformad, ibland tillplattad eller knölig, med trubbig spets och en kort, smalare, skrynklig bas. Ytan är först blekgrå eller blåvit och mjölig, senare mattsvart och fint sträv av små upphöjda porer. En separat hatt saknas.",
+      "hymenium": "Den fertila ytan bildar varken skivor, rör eller taggar. Strax under den tunna svarta skorpan sitter en enda rad små avrundade flasklika kammare, som var och en öppnar sig med en liten ytpor. Ett snitt genom en mogen klubba visar dem som en krans av svarta prickar runt det vita köttet.",
+      "stipe": "En äkta fot saknas. Basen av klubban är bara en kort, steril, skrynklig och avsmalnad fortsättning av samma svarta kropp, fäst vid veden.",
+      "flesh": "Hårt, segt och vedartat, invändigt rent vitt, med radiärt fibrös struktur. Lukt och smak är otydliga.",
+      "sporePrint": "Sporavtrycket är svart. De sexuella sporerna är släta, mörkbruna, spol- eller bananformade, typiskt 20–30 × 5–9 µm; myko.cz anger 20–28 × 6–10 µm och 123pilzsuche 22–29 × 7–9 µm.",
+      "habitat": "Den växer på och intill stubbar, rötter och nedgrävd ved av lövträd, särskilt bok, också alm, ek och annan hårdved, oftast i tuvor. Den är ganska allmän i Storbritannien och Irland, i hela det europeiska fastlandet och i många delar av Nordamerika. Fruktkroppar kan hittas året om. Blek, mjöliga klubbor visar sig främst på våren, och mörka mogna klubbor märks oftast på sommaren och hösten, men gamla svarta stromata kvarstår.",
+      "uses": "Oätlig. Köttet är hårt och vedartat och räknas inte som matsvamp. Vanliga europeiska handböcker behandlar den inte som giftig.",
+      "confusion": "Xylaria longipes är smalare, med en längre steril fot, och växer oftast på tysklönn eller annan lönnved; sporerna är mindre, omkring 11–17 × 5–7 µm. Xylaria hypoxylon är mycket tunnare och hornlik, ofta med vita mjöliga spetsar. Mjuka, köttiga svarta jordtungor (Geoglossum och liknande släkten) växer ur jord eller gräs, inte ur ved, och är inte vedartade.",
+      "notes": "Ett tillförlitligt fältkännetecken är kombinationen av tjocka, vedartade, oregelbundna svarta klubbor i tuvor från nedgrävd lövved, en fint vårtig skorpa och hårt vitt kött med en krans av svarta flasklika kammare strax under ytan. När klubborna ännu är bleka och mjöliga är det artens könlösa stadium.",
+      "names": [
+        "mångformig stubbsvamp"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "tjockhorn"
+    },
+    "tr": {
+      "description": "Çürüyen yapraklı ağaç kütüklerinde sık görülen sert bir mantardır; gömülü odundan, özellikle kayından, genellikle demetler halinde çıkan düzensiz, sopa biçimli siyah parmaklarıyla tanınır. Genç sopalar soluk gri ile mavimsi arasıdır ve ince tozludur; sonra mat, ince siğilli siyah bir kabuğa dönüşür. Şapka, lamel ve gerçek bir sap yoktur. Et sert ve beyazdır; yüzeyin hemen altında küçük siyah şişe biçimli odacıklardan oluşan tek bir katman bulunur.",
+      "cap": "Her sopa tipik olarak 3–8 cm boyunda ve 1–3 cm kalınlığındadır; bazı Orta Avrupa kılavuzları 3–10 cm boy ve 4 cm’ye varan kalınlık verir, 123pilzsuche ise 3–8 (9) × 1–3 (4) cm’ye izin verir. Düzensiz sopa biçimlidir, bazen yassılaşmış veya yumrulu, küt uçlu ve kısa, daha dar, buruşuk tabanlıdır. Yüzey önce soluk gri veya mavimsi beyaz ve unludur, sonra mat siyahtır ve minik kabarık gözenekler yüzünden ince pürüzlüdür. Ayrı bir şapka yoktur.",
+      "hymenium": "Verimli yüzey lamel, tüp veya diken oluşturmaz. İnce siyah kabuğun hemen altında, her biri minik bir yüzey gözenegiyle açılan, tek sıra küçük yuvarlak şişe biçimli odacık bulunur. Olgun bir sopanın kesiti bunları beyaz etin çevresinde siyah noktalardan oluşan bir taç olarak gösterir.",
+      "stipe": "Gerçek bir sap yoktur. Sopanın tabanı, oduna tutunmuş aynı siyah gövdenin kısa, kısır, buruşuk ve daralmış bir uzantısından ibarettir.",
+      "flesh": "Sert, dayanıklı ve odunsu, içeride saf beyaz, ışınsal liflidir. Koku ve tat belirgin değildir.",
+      "sporePrint": "Spor izi siyahtır. Eşeyli sporlar pürüzsüz, koyu kahverengi, iğsi veya muz biçimlidir, tipik olarak 20–30 × 5–9 µm; myko.cz 20–28 × 6–10 µm, 123pilzsuche 22–29 × 7–9 µm verir.",
+      "habitat": "Yapraklı ağaçların kütüklerinde, köklerinde ve gömülü odununda veya bunların yanında, özellikle kayında, ayrıca karaağaç, meşe ve diğer sert odunlarda, genellikle demetler halinde büyür. Britanya ve İrlanda’da, tüm kıta Avrupası’nda ve Kuzey Amerika’nın birçok yerinde oldukça sıktır. Meyve gövdeleri yıl boyunca bulunabilir. Soluk, unlu sopalar özellikle ilkbaharda belirir; koyu olgun sopalar en çok yaz ve sonbaharda fark edilir, ancak eski siyah stromalar kalır.",
+      "uses": "Yenmez. Et sert ve odunsudur ve yenilebilir bir mantar sayılmaz. Yaygın Avrupa kılavuzları onu zehirli olarak ele almaz.",
+      "confusion": "Xylaria longipes daha incedir, daha uzun kısır bir sapa sahiptir ve genellikle dağ akçaağacı veya diğer akçaağaç odununda büyür; sporları daha küçüktür, yaklaşık 11–17 × 5–7 µm. Xylaria hypoxylon çok daha ince ve boynuz gibi dallıdır, çoğu zaman beyaz unlu uçludur. Yumuşak, etli siyah yer dilleri (Geoglossum ve yakın cinsler) odundan değil topraktan veya ottan büyür ve odunsu değildir.",
+      "notes": "Güvenilir bir arazi özelliği, gömülü yapraklı odundan demetler halinde çıkan kalın, odunsu, düzensiz siyah sopalar, ince siğilli kabuk ve yüzeyin hemen altında şişe biçimli siyah odacıkların tacıyla sert beyaz ettir. Sopalar hâlâ soluk ve unluysa, aynı türün eşeysiz evresidir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Звичайний жорсткий гриб на гнилих пнях листяних дерев, пізнаваний за неправильними, булавоподібними чорними «пальцями», що зазвичай ростуть пучками з похованої деревини, особливо бука. Молоді булави блідо-сірі до сизуватих і дрібно припорошені, пізніше стають матовою, дрібногорбкуватою чорною кіркою. Ні шапинки, ні пластинок, ні справжньої ніжки немає. М'якоть тверда і біла, з одним шаром дрібних чорних пляшкоподібних камер одразу під поверхнею.",
+      "cap": "Кожна булава зазвичай 3–8 см заввишки і 1–3 см завтовшки; деякі центральноєвропейські визначники вказують 3–10 см заввишки і до 4 см завтовшки, а 123pilzsuche допускає 3–8 (9) × 1–3 (4) см. Вона неправильно булавоподібна, іноді сплющена або горбкувата, з тупою вершиною і короткою, вужчою, зморшкуватою основою. Поверхня спочатку блідо-сіра або сизувато-біла і борошниста, пізніше матово-чорна і дрібношорстка через крихітні підняті пори. Окремої шапинки немає.",
+      "hymenium": "Плодоносна поверхня не утворює ні пластинок, ні трубочок, ні шипиків. Одразу під тонкою чорною кіркою розташований один ряд дрібних округлих пляшкоподібних камер, кожна з яких відкривається крихітною поверхневою порою. Розріз зрілої булави показує їх вінцем чорних точок навколо білої м'якоті.",
+      "stipe": "Справжньої ніжки немає. Основа булави — лише коротке, стерильне, зморшкувате й звужене продовження того самого чорного тіла, прикріплене до деревини.",
+      "flesh": "Тверда, жорстка і деревинувата, всередині чисто біла, радіально волокниста. Запах і смак невиразні.",
+      "sporePrint": "Споровій порошок чорний. Статеві спори гладкі, темно-коричневі, веретеноподібні або бананоподібні, зазвичай 20–30 × 5–9 µm; myko.cz вказує 20–28 × 6–10 µm, а 123pilzsuche — 22–29 × 7–9 µm.",
+      "habitat": "Росте на пнях, коренях і похованій деревині листяних дерев та поряд із ними, особливо на буку, також на в'язі, дубі та іншій твердій деревині, зазвичай пучками. Досить звичайний у Великій Британії та Ірландії, по всій континентальній Європі та в багатьох районах Північної Америки. Плодові тіла можна знаходити цілий рік. Бліді борошнисті булави з'являються здебільшого навесні, а темні зрілі булави найчастіше помічають улітку та восени, але старі чорні строми зберігаються.",
+      "uses": "Їстівним не є. М'якоть тверда і деревинувата і не вважається харчовим грибом. Звичайні європейські визначники не відносять його до отруйних.",
+      "confusion": "Xylaria longipes стрункіша, з довшою стерильною ніжкою, і зазвичай росте на яворі чи іншій кленовій деревині; спори дрібніші, близько 11–17 × 5–7 µm. Xylaria hypoxylon набагато тонша і гілкується рогоподібно, часто з білими борошнистими кінчиками. М'які, м'ясисті чорні земляні язики (Geoglossum і близькі роди) ростуть із ґрунту або трави, а не з деревини, і не є деревинуватими.",
+      "notes": "Надійна польова ознака — поєднання товстих, деревинуватих, неправильних чорних булав пучками з похованої листяної деревини, дрібногорбкуватої кірки та твердої білої м'якоті з вінцем чорних пляшкоподібних камер одразу під поверхнею. Якщо булави ще бліді й борошнисті, це нестатева стадія того самого виду.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104"
+      ],
+      "label": "Ксиларія багатолика"
+    },
+    "zh": {
+      "description": "常见于腐朽阔叶树树桩上的坚韧真菌，以不规则的棒状黑“指”辨认，这些棒体通常成簇从埋藏的木材上长出，尤其是山毛榉。幼嫩棒体呈浅灰至带蓝色，覆有细粉，随后变成无光泽、细疣状的黑色外皮。没有菌盖、菌褶，也没有真正的菌柄。菌肉坚硬白色，表面正下方有一层小型黑色瓶状腔室。",
+      "cap": "每根棒体通常高 3–8 cm、粗 1–3 cm；一些中欧图鉴记载高 3–10 cm、粗可达 4 cm，123pilzsuche 允许 3–8 (9) × 1–3 (4) cm。形状不规则呈棒状，有时扁平或瘤状，顶端钝，基部较短、较窄并有皱纹。表面起初浅灰或蓝白色并带粉，后来呈无光泽的黑色，因细小突起的孔而略粗糙。没有单独的菌盖。",
+      "hymenium": "可育面不形成菌褶、菌管或菌刺。薄黑外皮正下方有一排小型近圆形的瓶状腔室，各自以极小的表面孔开口。成熟棒体的纵切面把它们显示为白肉周围的一圈黑点。",
+      "stipe": "没有真正的菌柄。棒体基部只是同一黑色菌体的短而无性、皱缩并变窄的延续，附着在木材上。",
+      "flesh": "坚硬、强韧而木质，内部纯白，呈放射状纤维。气味和味道不明显。",
+      "sporePrint": "孢子印为黑色。有性孢子平滑、深褐色，纺锤形或香蕉形，通常为 20–30 × 5–9 µm；myko.cz 记载 20–28 × 6–10 µm，123pilzsuche 记载 22–29 × 7–9 µm。",
+      "habitat": "生于阔叶树的树桩、树根和埋藏木材上或其附近，尤其是山毛榉，也见于榆树、栎树和其他硬木，通常成簇。在英国和爱尔兰、整个欧洲大陆以及北美许多地区相当常见。子实体全年可见。浅色带粉的棒体主要在春季出现，深色成熟棒体最常在夏秋被注意到，但老的黑色子座会残留。",
+      "uses": "不可食用。菌肉坚硬木质，不被视为食用菌。常见欧洲图鉴不把它当作有毒种类。",
+      "confusion": "Xylaria longipes 更细，不育柄部更长，通常生于梧桐槭或其他槭木上；孢子较小，约 11–17 × 5–7 µm。Xylaria hypoxylon 更细得多，呈鹿角状分枝，常有白色带粉的顶端。柔软肉质的黑色地舌菌（Geoglossum 及近缘属）生于土或草中而非木材，也不呈木质。",
+      "notes": "可靠的野外特征是成簇生于埋藏阔叶木材上的粗壮、木质、不规则黑棒，细疣状外皮，以及表面正下方带一圈黑色瓶状腔室的坚硬白肉。若棒体仍浅而带粉，则为同一物种的无性阶段。",
+      "names": [
+        "多型炭角菌"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/58698",
+        "https://www.gbif.org/species/5255104",
+        "https://www.wikidata.org/wiki/Q241408"
+      ],
+      "label": "多形炭角菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Sphaeria polymorpha",
+      "author": "Pers.",
+      "year": 1797,
+      "rank": "species",
+      "type": "basionym",
+      "if": 148631
+    },
+    {
+      "name": "Cordyceps polymorpha",
+      "author": "(Pers.) Fr.",
+      "year": 1818,
+      "rank": "species",
+      "type": "synonym",
+      "if": 634265
+    },
+    {
+      "name": "Cordylia polymorpha",
+      "author": "(Pers.) Fr.",
+      "year": 1818,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Hypoxylon polymorphum",
+      "author": "(Pers.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "synonym",
+      "if": 443895
+    },
+    {
+      "name": "Xylosphaera polymorpha",
+      "author": "(Pers.) Dumort.",
+      "year": 1822,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Sphaeria digitata",
+      "author": "Sowerby",
+      "year": 1797,
+      "rank": "species",
+      "type": "synonym",
+      "if": 465726
+    },
+    {
+      "name": "Xylaria corrugata",
+      "author": "Har. & Pat.",
+      "year": 1903,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Xylaria rugosa",
+      "author": "Sacc.",
+      "year": 1906,
+      "rank": "species",
+      "type": "synonym"
+    }
+  ],
+  "reserved": false,
+  "id": 233,
+  "citation": "Fl. Edin.: 355 (1824)"
+},
+{
+  "name": "Hydnum rufescens",
+  "author": "Pers.",
+  "family": "Hydnaceae",
+  "genus": "Hydnum",
+  "order": "Cantharellales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Cantharellales",
+    "Hydnaceae",
+    "Hydnum"
+  ],
+  "summary": [
+    "Cantharellales",
+    "Hydnaceae",
+    "Hydnum"
+  ],
+  "edibility": "edible",
+  "hymenium": "teeth",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "red",
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 6.0,
+  "stipeHeightFrom": 2.0,
+  "stipeHeightTo": 4.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 3.0,
+  "fruitingFrom": 7,
+  "fruitingTo": 12,
+  "label": {
+    "bg": "Оранжева рогачка",
+    "cs": "lišák ryšavý",
+    "da": "Rødgul pigsvamp",
+    "de": "Rotgelber Stoppelpilz",
+    "en": "Terracotta Hedgehog",
+    "et": "tume timpnarmik",
+    "fi": "rusko-orakas",
+    "fr": "pied-de-mouton roux",
+    "he": "שיננית אדמדמה",
+    "hu": "sárgásvörös gereben",
+    "ja": "イタチハリタケ",
+    "lt": "Rausvagelsvis dyglutis",
+    "lv": "Rūsganā kliņģerene",
+    "nl": "Rossige stekelzwam",
+    "no": "sørlig rødgul piggsopp",
+    "pl": "Kolczak rudawy",
+    "pt": "Gasalhos",
+    "ro": "arici roșu-galben",
+    "ru": "Ежовик рыжеющий",
+    "sk": "jelenka ryšavá",
+    "sl": "rdečkasti ježek",
+    "sv": "rödgul taggsvamp",
+    "tr": "Sarı Sığırdili",
+    "zh": "变红齿菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "lošák ryšavý"
+    ],
+    "da": [],
+    "de": [
+      "Rötlicher Stoppelpilz"
+    ],
+    "en": [
+      "Terracotta Wood Urchin",
+      "Rufous Hedgehog"
+    ],
+    "es": [],
+    "et": [
+      "pruunjas narmik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Pied-de-mouton rougissant"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "Mėsingasis dyglutis"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "Rødgul piggsopp"
+    ],
+    "pl": [
+      "Kolczak czerwonożółty",
+      "Kolczak rudy"
+    ],
+    "pt": [],
+    "ro": [
+      "piei de oaie fierbinte"
+    ],
+    "ru": [
+      "Гиднум рыжеющий",
+      "Ежевик рыжеющий",
+      "Ежовик красновато-жёлтый"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=219829",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=219829",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=219829",
+      "https://www.gbif.org/species/2544165",
+      "https://www.first-nature.com/fungi/hydnum-rufescens.php",
+      "https://www.wildfooduk.com/mushroom-guide/terracotta-hedgehog/",
+      "https://www.myko.cz/myko-atlas/Hydnum-rufescens/",
+      "https://botany.cz/cs/hydnum-rufescens/",
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "ar": [],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Hydnum-rufescens/",
+      "https://botany.cz/cs/hydnum-rufescens/",
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.gbif.org/species/2544165",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "de": [
+      "https://www.gbif.org/species/2544165",
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "es": [],
+    "et": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.gbif.org/species/2544165",
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/2544165",
+      "https://www.wikidata.org/wiki/Q2475470",
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470",
+      "https://hu.wikipedia.org/wiki/Sárgásvörös_gereben",
+      "https://www.wildfooduk.com/mushroom-guide/terracotta-hedgehog/"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.gbif.org/species/2544165"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.wikidata.org/wiki/Q2475470",
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "nl": [
+      "https://www.gbif.org/species/2544165",
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "no": [
+      "https://www.gbif.org/species/2544165",
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470",
+      "https://pl.wikipedia.org/wiki/Kolczak_rudawy",
+      "https://www.wildfooduk.com/mushroom-guide/terracotta-hedgehog/"
+    ],
+    "pt": [
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Hydnum_rufescens"
+    ],
+    "ru": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://botany.cz/cs/hydnum-rufescens/"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/340866",
+      "https://www.wikidata.org/wiki/Q2475470",
+      "https://sv.wikipedia.org/wiki/Rödgul_taggsvamp"
+    ],
+    "tr": [
+      "https://www.inaturalist.org/taxa/340866"
+    ],
+    "uk": [],
+    "zh": [
+      "https://www.inaturalist.org/taxa/340866"
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_1.webp",
+      "author": "Helen Mhari Graham",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/148998218"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_2.webp",
+      "author": "Piotr Lukasik",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/64614768"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_3.webp",
+      "author": "nbasargin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/137798066"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_4.webp",
+      "author": "fernium",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/328980604"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_5.webp",
+      "author": "Tero Linjama",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/182341859"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 7df5823f17e362cd97cf5fa7cc12d390c8b5bf2fd28d30849fd72b0d08a40446, Exif Orientation 1, software Picasa) is an illustration with an existing cursive “Gemini” mark at the lower right. plate --mode fit: scale 2.000 (upscaled; disclose softness), cropBox [96, 0, 1600, 2400]. All figures and the signature remain fully inside the trimmed frame. @1600 SHA-256 1fbcb4c0ff1251c4bde0278769fa396759ff034f618690c74a07b2b0ee45fa22; @400 SHA-256 204f9b94a0b201eccf2e78f069f34283c086b0d44c58377ce67b0eaa6a158d75."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_1.webp",
+      "author": "Helen Mhari Graham",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/148998218"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_2.webp",
+      "author": "Piotr Lukasik",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/64614768"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_3.webp",
+      "author": "nbasargin",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/137798066"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_4.webp",
+      "author": "fernium",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/328980604"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Cantharellales/Hydnaceae/Hydnum_rufescens/Hydnum_rufescens_5.webp",
+      "author": "Tero Linjama",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/182341859"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر قنفذ صغير بلون برتقالي ترابي في الغابات المكسوة بالطحالب، يُعرف بقبعة جافة ملساء إلى مخملية رقيقة، غالبًا ما تكون مزاحة قليلًا عن مركز الساق، وبأشواك بلون السلمون الباهت إلى المشمش تتوقف عند الساق ولا تنزل عليها. وهو عادة أصغر وأشد تلوّنًا من فطر القنفذ الشاحب الموجود أصلًا في هذا الكتاب.",
+      "cap": "يبلغ قطر القبعة عادة 2–6 cm؛ وتعطي بعض الأدلة في وسط أوروبا 3–8 cm، بينما تعطي Wild Food UK 3–6 cm. تكون في البداية محدبة ثم تتسطح وكثيرًا ما تنخفض قليلًا، بحافة متموجة أو مفصصة تبقى ملتفة إلى الداخل وهي فتية. السطح جاف، أملس إلى مخملي رقيق، برتقالي ترابي إلى مشمشي أو بني مصفر باهت، وكثيرًا ما يكون أغمق في الوسط وأبهت نحو الحافة. وكثيرًا ما تجلس القبعة مزاحة قليلًا عن مركز الساق.",
+      "hymenium": "يغطي السطح الخصيب بكثافة أشواك لينة متزاحمة متدلية إلى الأسفل، طولها عادة 2–4 mm؛ ويسمح myko.cz حتى 5 mm وbotany.cz حتى 0,5 cm. لونها سلموني باهت إلى مشمشي، وعادة أبهت من القبعة، وتنتهي عند الساق أو قبيلها مباشرة (ملتصقة إلى شبه حرة)، تاركة شريطًا باهتًا واضحًا عند قمة الساق بدل أن تنزل عليها.",
+      "stipe": "يبلغ طول الساق عادة 2–4 cm وسمكها 1,5–3 cm؛ وتعطي Wild Food UK 4–7 × 1,5–3 cm، وmyko.cz 2–7 × 1–2 cm، وbotany.cz 3–7 cm ارتفاعًا وحتى 2 cm سمكًا. وهي متينة، وكثيرًا ما تكون مزاحة قليلًا، ملساء ومصمتة، بيضاء إلى مشمشية باهتة، وأحيانًا ببقع صفراء أو برتقالية. لا يوجد حلق.",
+      "flesh": "متماسكة وسميكة إلى حد ما، بيضاء إلى كريمية باهتة، وأحيانًا بمسحة وردية أو صفراء. قد يصفر القطع أو الضغط ضعفًا إلى أصفر برتقالي. الرائحة غير مميزة. الطعم في البداية معتدل وكثيرًا ما يصير مرًا بعد وقت قصير؛ وتصفه بعض أدلة وسط أوروبا بالمعتدل أو المر قليلًا فقط.",
+      "sporePrint": "أبيض. الأبواغ ملساء وعديمة اللون، نحو 6,5–9 × 5,5–8 µm وشبه كروية إلى إهليلجية عريضة في الأدلة الأوروبية المعتادة (First Nature 6,5–8 × 5,5–7 µm؛ myko.cz 6,5–9 × 5,5–8 µm). وتعطي botany.cz رقمًا أكبر، 8–10 × 6–8 µm. ويُفصل Hydnum ellipsosporum بأبواغ أطول إهليلجية بوضوح.",
+      "habitat": "فطر خارجي التعايش الفطري في تربة الغابة، ينمو على الأرض وفي الطحالب وفي فرش الأوراق أو الإبر، وأحيانًا في مجموعات صغيرة أو أقواس أو حلقات. يعيش مع الصنوبريات ومع الأشجار عريضة الأوراق، ولا سيما الزان، وكذلك البلوط والتنوب. وهو شائع إلى حد ما في بريطانيا وإيرلندا وفي أنحاء أوروبا القارية، وقد سُجل أيضًا في شرق أمريكا الشمالية. تظهر الأجسام الثمرية من يوليو إلى ديسمبر: في وسط أوروبا غالبًا من يوليو إلى نوفمبر، وفي بريطانيا وإيرلندا خاصة من أغسطس إلى ديسمبر (تعطي Wild Food UK سبتمبر إلى ديسمبر).",
+      "uses": "صالح للأكل، وهو فطر غذائي محبوب عندما يكون فتيًا وخاليًا من الحشرات. قد تصير الأجسام الثمرية الأقدم مرةً ويستحسن تجنبها. لا يُعد هنا فطرًا مختارًا بالمعنى نفسه لفطر القنفذ الشاحب. ولا تعده الأدلة الأوروبية المعتادة سامًا.",
+      "confusion": "Hydnum repandum أكبر وأبهت، كريمي إلى أصفر ترابي، وأشواكه تنزل على الساق. ويشبه Hydnum ellipsosporum في الحقل ويُفصل بأبواغ أطول إهليلجية بوضوح. أما فطريات الأشواك الأدكن، الحَرْشَفية أو المنطّقة، ذات اللحم الجلدي، مثل Sarcodon وHydnellum، فلحمها أصلب وأشواكها عادة رمادية بنية. وللشانتيريل طيات كليلة لا أشواك. وتبيّن دراسات أحدث أن Hydnum rufescens بالمعنى الواسع يشمل أكثر من نوع؛ ويتبع هذا الوصف المفهوم الحقلي الأوروبي المعتاد لفطر القنفذ الترابي الأصغر الذي تتوقف أشواكه عند الساق.",
+      "notes": "علامة حقلية موثوقة هي اجتماع قبعة صغيرة إلى متوسطة بلون ترابي أو مشمشي، وأشواك باهتة تتوقف عند الساق، وساق متينة باهتة مصمتة كثيرًا ما تكون مزاحة قليلًا عن المركز.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка, теракотовооранжева бодлива гъба на мъхести гори, която се познава по суха, гладка до фино кадифена шапка, често леко изместена върху пънчето, и по бледолососови до кайсиеви бодли, които свършват при пънчето и не слизат по него. Обикновено е по-малка и по-наситено оцветена от жълтата рогачка, вече включена в тази книга.",
+      "cap": "Шапката е обикновено 2–6 cm в диаметър; някои централноевропейски определители дават 3–8 cm, а Wild Food UK 3–6 cm. Отначало е изпъкнала, после сплескана и често леко вдлъбната, с вълнист или надялен ръб, който при младите е още подвит. Повърхността е суха, гладка до фино кадифена, теракотово-оранжева до кайсиева или бледо жълтеникавокафява, често по-наситена към средата и по-бледа към ръба. Шапката често седи леко ексцентрично върху пънчето.",
+      "hymenium": "Плодоносната повърхност е гъсто покрита с меки, гъсти, надолу висящи бодли, обикновено дълги 2–4 mm; myko.cz допуска до 5 mm, а botany.cz до 0,5 cm. Те са бледолососови до кайсиеви, обикновено по-бледи от шапката, и свършват при пънчето или непосредствено преди него (прикрепени до почти свободни), като оставят ясна бледа ивица на върха на пънчето, вместо да слизат по него.",
+      "stipe": "Пънчето е обикновено високо 2–4 cm и дебело 1,5–3 cm; Wild Food UK посочва 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, а botany.cz 3–7 cm височина и до 2 cm дебелина. То е здраво, често леко ексцентрично, гладко и плътно, белезникаво до бледокайсиево, понякога с жълтеникави или оранжеви петна. Пръстен няма.",
+      "flesh": "Стегната, доста дебела и бяла до бледокремава, понякога с розов или жълтеникав оттенък. Срез или притискане може слабо да пожълтее до оранжевожълто. Миризмата не е характерна. Вкусът отначало е мек и често след кратко време става горчив; някои централноевропейски определители го описват като мек или само леко горчив.",
+      "sporePrint": "Бял. Спорите са гладки и безцветни, около 6,5–9 × 5,5–8 µm и почти кълбовидни до широко елипсовидни в обичайните европейски определители (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz дава по-голям размер, 8–10 × 6–8 µm. Hydnum ellipsosporum се отличава с по-дълги, ясно елипсовидни спори.",
+      "habitat": "Ектомикоризна гъба на горската почва, растяща на земя, в мъх и в листна или иглеста постилка, понякога в малки групи, дъги или кръгове. Живее заедно с иглолистни и широколистни дървета, особено с бук, също с дъб и смърч. Доста обичайна е във Великобритания и Ирландия и в цяла континентална Европа, и е съобщавана също в източната част на Северна Америка. Плодните тела се появяват от юли до декември: в Централна Европа често от юли до ноември, а във Великобритания и Ирландия главно от август до декември (Wild Food UK посочва септември–декември).",
+      "uses": "Ядлива и популярна хранителна гъба, докато е млада и без червеи. По-старите плодни тела могат да станат горчиви и е по-добре да се избягват. Тук не я смятаме за толкова отбрана ядлива гъба, колкото жълтата рогачка. Обичайните европейски определители не я смятат за отровна.",
+      "confusion": "Hydnum repandum е по-голям и по-блед, кремав до охра, и бодлите му слизат по пънчето. Hydnum ellipsosporum изглежда подобно на терен и се отличава с по-дълги, ясно елипсовидни спори. По-тъмните, люспести или зонирани, кожести бодливи гъби като Sarcodon и Hydnellum имат по-твърдо месо и обикновено сивокафяви бодли. Пачи крак имат тъпи гънки, а не бодли. По-нови изследвания показват, че Hydnum rufescens в широк смисъл включва повече от един вид; това описание следва обичайното европейско теренно понятие за по-малката теракотена рогачка, чиито бодли свършват при пънчето.",
+      "notes": "Надежден теренен белег е съчетанието от малка до средна теракотена или кайсиева шапка, бледи бодли, които свършват при пънчето, и здраво, бледо, плътно пънче, често леко ексцентрично.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "Оранжева рогачка"
+    },
+    "cs": {
+      "description": "Menší, cihlově oranžový lišák mechovitých lesů, který poznáme podle suchého, hladkého až jemně plstnatého klobouku, jenž často sedí trochu mimo střed třeně, a podle bledě lososových až meruňkových ostnů, které končí u třeně a nesbíhají po něm. Bývá obvykle menší a sytěji zbarvený než lišák zprohýbaný, který je už v tomto atlasu.",
+      "cap": "Klobouk má typicky 2–6 cm v průměru; některé středoevropské příručky uvádějí 3–8 cm a Wild Food UK 3–6 cm. Nejprve je vyklenutý, později zploštělý a často slabě prohloubený, s vlnitým nebo laločnatým okrajem, který je v mládí ještě podvinutý. Povrch je suchý, hladký až jemně plstnatý, cihlově oranžový až meruňkový nebo bledě žlutohnědý, často sytější uprostřed a bledší při okraji. Klobouk často sedí trochu mimo střed třeně.",
+      "hymenium": "Úrodný povrch hustě pokrývají měkké, husté, dolů visící ostny, typicky 2–4 mm dlouhé; myko.cz připouští až 5 mm a botany.cz až 0,5 cm. Jsou bledě lososové až meruňkové, obvykle bledší než klobouk, a končí u třeně nebo těsně před ním (přirostlé až téměř volné), takže na vrcholu třeně zůstává zřetelný bledý proužek a po třeni nesbíhají.",
+      "stipe": "Třeň je typicky 2–4 cm vysoký a 1,5–3 cm tlustý; Wild Food UK uvádí 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm a botany.cz 3–7 cm na výšku a až 2 cm na tloušťku. Je pevný, často trochu mimo střed, hladký a plný, bělavý až bledě meruňkový, někdy s nažloutlými nebo oranžovými skvrnami. Prsten chybí.",
+      "flesh": "Pevná, poměrně tlustá, bílá až bledě krémová, někdy s narůžovělým nebo nažloutlým nádechem. Řez nebo otlačené místo může slabě zežloutnout až oranžovožlutě. Vůně není výrazná. Chuť je zprvu mírná a často po chvíli zhořkne; některé středoevropské příručky ji označují za mírnou nebo jen slabě nahořklou.",
+      "sporePrint": "Bílý. Výtrusy jsou hladké a bezbarvé, asi 6,5–9 × 5,5–8 µm a téměř kulovité až široce elipsoidní podle obvyklých evropských příruček (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz uvádí větší rozměr, 8–10 × 6–8 µm. Hydnum ellipsosporum se odliší delšími, zřetelně elipsoidními výtrusy.",
+      "habitat": "Mykorhizní houba lesní půdy, rostoucí na zemi, v mechu a v listovém nebo jehličnatém opadu, někdy v malých skupinách, obloucích nebo kruzích. Žije v symbióze s jehličnany i listnatými stromy, především s bukem, také s dubem a smrkem. Je poměrně hojná v Británii a Irsku i v celé pevninské Evropě a byla zaznamenána i ve východní Severní Americe. Plodnice se objevují od července do prosince: ve střední Evropě často od července do listopadu a v Británii a Irsku především od srpna do prosince (Wild Food UK uvádí září až prosinec).",
+      "uses": "Jedlá a oblíbená jedlá houba, dokud je mladá a bez červivosti. Starší plodnice mohou zhořknout a je lepší je nesbírat. Zde ji nepovažujeme za pochoutku v tomtéž smyslu jako lišáka zprohýbaného. Běžné evropské příručky ji neoznačují za jedovatou.",
+      "confusion": "Hydnum repandum je větší a bledší, krémový až okrový, a jeho ostny sbíhají po třeni. Hydnum ellipsosporum je v terénu podobný a odliší se delšími, zřetelně elipsoidními výtrusy. Tmavé, šupinaté nebo páskované, kožovité ostnité houby, jako jsou lošáky (Sarcodon) a lošákovce (Hydnellum), mají tužší dužninu a obvykle šedohnědé ostny. Lišky mají tupé žilky, nikoli ostny. Novější studie ukazují, že Hydnum rufescens v širším smyslu zahrnuje více druhů; tento popis se drží obvyklého evropského terénního pojetí menšího, cihlově zbarveného lišáka s ostny, které končí u třeně.",
+      "notes": "Spolehlivým terénním znakem je kombinace malého až středního cihlového nebo meruňkového klobouku, bledých ostnů, které končí u třeně, a pevného, bledého, plného třeně, který často sedí trochu mimo střed.",
+      "names": [
+        "lošák ryšavý"
+      ],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Hydnum-rufescens/",
+        "https://botany.cz/cs/hydnum-rufescens/",
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.gbif.org/species/2544165",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "lišák ryšavý"
+    },
+    "da": {
+      "description": "En lille, terracottaorangefarvet pigsvamp fra mosrige skove, kendt på en tør, glat til fint filtet hat, der ofte sidder lidt ude af midten på stokken, og på blegt lakse- til abrikosfarvede pigge, der stopper ved stokken og ikke løber ned ad den. Den er som regel mindre og mere mættet farvet end almindelig pigsvamp, som allerede er i denne bog.",
+      "cap": "Hatten er typisk 2–6 cm bred; nogle mellemeuropæiske håndbøger angiver 3–8 cm, Wild Food UK 3–6 cm. Først er den hvælvet, senere fladtrykt og ofte lidt nedtrykt, med en bølget eller lappet rand, der hos unge frugtlegemer stadig er indrullet. Overfladen er tør, glat til fint filtet, terracottaorange til abrikosfarvet eller blegt gulbrun, ofte mørkere mod midten og lysere mod randen. Hatten sidder ofte lidt ude af midten på stokken.",
+      "hymenium": "Den fertile overflade er tæt dækket af bløde, tætsiddende, nedadhængende pigge, typisk 2–4 mm lange; myko.cz tillader op til 5 mm, botany.cz op til 0,5 cm. De er blegt lakse- til abrikosfarvede, som regel lysere end hatten, og ender ved eller lige før stokken (tilhæftede til næsten frie), så der bliver et tydeligt blegt bånd ved stokkens top, i stedet for at de løber ned ad stokken.",
+      "stipe": "Stokken er typisk 2–4 cm høj og 1,5–3 cm tyk; Wild Food UK angiver 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, og botany.cz 3–7 cm høj og op til 2 cm tyk. Den er kraftig, ofte lidt ude af midten, glat og fast, og hvidlig til blegt abrikosfarvet, undertiden med gullige eller orange pletter. Der er ingen ring.",
+      "flesh": "Fast, ret tykt og hvidt til blegt cremefarvet, undertiden med et rosa eller gulligt skær. Et snit eller et tryk kan svagt gulne til orangegult. Lugten er ikke karakteristisk. Smagen er først mild og bliver ofte bitter efter kort tid; nogle mellemeuropæiske håndbøger kalder den mild eller kun svagt bitter.",
+      "sporePrint": "Hvidt. Sporerne er glatte og farveløse, cirka 6,5–9 × 5,5–8 µm og næsten kugleformede til bredt ellipsoide i de sædvanlige europæiske håndbøger (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz angiver et større mål, 8–10 × 6–8 µm. Hydnum ellipsosporum adskilles ved længere, tydeligt ellipsoide sporer.",
+      "habitat": "En ektomykorrhizadannende svamp på skovbunden, som vokser på jord, i mos og i løv- eller nålestrøelse, undertiden i små grupper, buer eller ringe. Den lever sammen med nåletræer og løvtræer, især bøg, også eg og gran. Den er ret almindelig i Storbritannien og Irland og i hele det kontinentale Europa og er også angivet fra det østlige Nordamerika. Frugtlegemer vises fra juli til december: i Centraleuropa ofte fra juli til november, i Storbritannien og Irland især fra august til december (Wild Food UK angiver september til december).",
+      "uses": "Spiselig og en populær spisesvamp, så længe den er ung og fri for maddiker. Ældre frugtlegemer kan blive bitre og bør undgås. Her betragtes den ikke som en ligeså udsøgt spisesvamp som almindelig pigsvamp. De sædvanlige europæiske håndbøger betegner den ikke som giftig.",
+      "confusion": "Hydnum repandum er større og blegere, creme- til okkerfarvet, og dens pigge løber ned ad stokken. Hydnum ellipsosporum ligner i felten og adskilles ved længere, tydeligt ellipsoide sporer. Mørkere, skællede eller zonerede, læderagtige pigsvampe som Sarcodon og Hydnellum har fastere kød og som regel gråbrune pigge. Kantareller har butte folder, ikke pigge. Nyere undersøgelser viser, at Hydnum rufescens i vid forstand omfatter mere end én art; denne beskrivelse følger det sædvanlige europæiske feltbegreb om den mindre, terracottafarvede pigsvamp, hvis pigge ender ved stokken.",
+      "notes": "Et pålideligt feltkendetegn er kombinationen af en lille til middelstor terracotta- eller abrikosfarvet hat, blege pigge der stopper ved stokken, og en kraftig, bleg, fast stok, der ofte sidder lidt ude af midten.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Rødgul pigsvamp"
+    },
+    "de": {
+      "description": "Ein kleiner, terrakottaoranger Stoppelpilz moosiger Wälder, erkennbar an einem trockenen, glatten bis fein filzigen Hut, der oft etwas exzentrisch auf dem Stiel sitzt, und an blass lachsfarbenen bis aprikosenfarbenen Stacheln, die am Stiel enden und nicht an ihm herablaufen. Er ist gewöhnlich kleiner und kräftiger gefärbt als der Semmel-Stoppelpilz, der bereits in diesem Buch steht.",
+      "cap": "Der Hut ist typischerweise 2–6 cm breit; einige mitteleuropäische Werke geben 3–8 cm an, Wild Food UK 3–6 cm. Zuerst ist er gewölbt, später abgeflacht und oft leicht niedergedrückt, mit welligem oder gelapptem Rand, der jung noch eingerollt bleibt. Die Oberfläche ist trocken, glatt bis fein filzig, terrakottaorange bis aprikosenfarben oder blass gelblichbraun, oft kräftiger zur Mitte und blasser zum Rand. Der Hut sitzt oft etwas exzentrisch auf dem Stiel.",
+      "hymenium": "Die Fruchtschicht ist dicht mit weichen, gedrängten, herabhängenden Stacheln besetzt, typischerweise 2–4 mm lang; myko.cz lässt bis 5 mm zu, botany.cz bis 0,5 cm. Sie sind blass lachsfarben bis aprikosenfarben, gewöhnlich blasser als der Hut, und enden am Stiel oder knapp davor (angeheftet bis fast frei), sodass am Stielscheitel ein deutliches blasses Band bleibt und sie nicht am Stiel herablaufen.",
+      "stipe": "Der Stiel ist typischerweise 2–4 cm hoch und 1,5–3 cm dick; Wild Food UK gibt 4–7 × 1,5–3 cm an, myko.cz 2–7 × 1–2 cm und botany.cz 3–7 cm Höhe und bis 2 cm Dicke. Er ist kräftig, oft etwas exzentrisch, glatt und voll und weißlich bis blass aprikosenfarben, manchmal mit gelblichen oder orangen Flecken. Ein Ring fehlt.",
+      "flesh": "Fest, ziemlich dick und weiß bis blass cremefarben, manchmal mit einem rosa oder gelblichen Ton. Eine Schnitt- oder Druckstelle kann schwach orange-gelb nachfärben. Der Geruch ist unauffällig. Der Geschmack ist zunächst mild und wird oft nach kurzer Zeit bitter; einige mitteleuropäische Werke nennen ihn mild oder nur leicht bitter.",
+      "sporePrint": "Weiß. Die Sporen sind glatt und farblos, etwa 6,5–9 × 5,5–8 µm und fast kugelig bis breit ellipsoid in den üblichen europäischen Werken (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz gibt ein größeres Maß an, 8–10 × 6–8 µm. Hydnum ellipsosporum unterscheidet sich durch längere, deutlich ellipsoide Sporen.",
+      "habitat": "Ein Ektomykorrhizapilz des Waldbodens, der auf Erde, in Moos und in Laub- oder Nadelstreu wächst, manchmal in kleinen Gruppen, Bögen oder Ringen. Er lebt mit Nadel- und Laubbäumen zusammen, besonders mit Buche, auch mit Eiche und Fichte. Er ist in Großbritannien und Irland sowie im ganzen festländischen Europa ziemlich häufig und wurde auch im östlichen Nordamerika angegeben. Fruchtkörper erscheinen von Juli bis Dezember: in Mitteleuropa oft von Juli bis November, in Großbritannien und Irland vor allem von August bis Dezember (Wild Food UK nennt September bis Dezember).",
+      "uses": "Essbar und als Speisepilz beliebt, solange die Fruchtkörper jung und frei von Maden sind. Ältere Exemplare können bitter werden und sollten gemieden werden. Hier gilt er nicht als so hervorragender Speisepilz wie der Semmel-Stoppelpilz. Die üblichen europäischen Werke führen ihn nicht als giftig.",
+      "confusion": "Hydnum repandum ist größer und blasser, creme- bis ockerfarben, und seine Stacheln laufen am Stiel herab. Hydnum ellipsosporum sieht im Gelände ähnlich aus und unterscheidet sich durch längere, deutlich ellipsoide Sporen. Dunklere, schuppige oder gezonte, lederige Stachelpilze wie Sarcodon und Hydnellum haben zäheres Fleisch und gewöhnlich graubraune Stacheln. Pfifferlinge haben stumpfe Leisten, keine Stacheln. Neuere Studien zeigen, dass Hydnum rufescens im weiteren Sinn mehr als eine Art umfasst; diese Darstellung folgt dem üblichen europäischen Feldkonzept des kleineren, terrakottafarbenen Stoppelpilzes mit Stacheln, die am Stiel enden.",
+      "notes": "Ein zuverlässiges Feldmerkmal ist die Verbindung eines kleinen bis mittelgroßen terrakotta- oder aprikosenfarbenen Hutes, blasser Stacheln, die am Stiel enden, und eines kräftigen, blassen, vollen Stiels, der oft etwas exzentrisch sitzt.",
+      "names": [
+        "Rötlicher Stoppelpilz"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2544165",
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Rotgelber Stoppelpilz"
+    },
+    "en": {
+      "description": "A small, terracotta-orange hedgehog fungus of mossy woodland, recognised by a dry, smooth to finely felty cap that often sits a little off-centre on the stem, and by pale salmon to apricot spines that stop at the stem rather than running down it. It is usually smaller and more richly coloured than the Wood Hedgehog already in this book.",
+      "cap": "The cap is typically 2–6 cm across; some Central European guides give 3–8 cm, and Wild Food UK 3–6 cm. It is convex at first, then flattened and often slightly depressed, with a wavy or lobed margin that stays inrolled when young. The surface is dry, smooth to finely felty, and terracotta orange to apricot or pale tan, often richer towards the centre and paler at the edge. The cap is often a little off-centre on the stem.",
+      "hymenium": "The fertile surface is densely covered with soft, crowded, downward-hanging spines, typically 2–4 mm long; myko.cz allows up to 5 mm and botany.cz up to 0.5 cm. They are pale salmon-pink to apricot, usually paler than the cap, and they end at or just before the stem (adnexed to almost free), leaving a clear pale band at the stem apex rather than running down it.",
+      "stipe": "The stem is typically 2–4 cm tall and 1.5–3 cm thick; Wild Food UK gives 4–7 × 1.5–3 cm, myko.cz 2–7 × 1–2 cm, and botany.cz 3–7 cm tall and up to 2 cm thick. It is sturdy, often slightly off-centre, smooth and solid, and whitish to pale apricot, sometimes with yellowish or orange spots. There is no ring.",
+      "flesh": "Firm, fairly thick, and white to pale cream, sometimes with a pinkish or yellowish tinge. A cut or bruised edge may turn faintly orange-yellow. The smell is not distinctive. The taste is mild at first and often becomes bitter after a short time; some Central European guides call it mild or only slightly bitter.",
+      "sporePrint": "White. The spores are smooth and colourless, about 6.5–9 × 5.5–8 µm and nearly globose to broadly ellipsoid in the usual European guides (First Nature 6.5–8 × 5.5–7 µm; myko.cz 6.5–9 × 5.5–8 µm). botany.cz gives a larger figure, 8–10 × 6–8 µm. Hydnum ellipsosporum is separated by longer, clearly ellipsoid spores.",
+      "habitat": "An ectomycorrhizal fungus of the woodland floor, growing on soil, moss and leaf or needle litter, sometimes in small groups, arcs or rings. It associates with conifers and with broadleaf trees, especially beech, also oak and spruce. It is fairly common in Britain and Ireland and throughout mainland Europe, and it has also been reported from eastern North America. Fruit bodies appear from July to December: in Central Europe often from July to November, and in Britain and Ireland mainly from August to December (Wild Food UK gives September to December).",
+      "uses": "Edible, and a popular food fungus when young and free of insect damage. Older fruit bodies can become bitter and are best avoided. It is not treated here as a choice mushroom in the same way as the Wood Hedgehog. The usual European guides do not regard it as poisonous.",
+      "confusion": "Hydnum repandum is larger and paler, cream to buff, and its spines run down the stem. Hydnum ellipsosporum looks similar in the field and is separated by its longer, clearly ellipsoid spores. Darker, scaly or zoned, leathery tooth fungi such as Sarcodon and Hydnellum have tougher flesh and usually grey-brown spines. Chanterelles have blunt ridges, not spines. Recent studies show that Hydnum rufescens in the broad sense includes more than one species; this account follows the usual European field concept of the smaller terracotta hydnum with spines that end at the stem.",
+      "notes": "A reliable field mark is the combination of a small to medium terracotta or apricot cap, pale spines that stop at the stem, and a stout, pale, solid stem that is often off-centre.",
+      "names": [
+        "Terracotta Wood Urchin",
+        "Rufous Hedgehog"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=219829",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=219829",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=219829",
+        "https://www.gbif.org/species/2544165",
+        "https://www.first-nature.com/fungi/hydnum-rufescens.php",
+        "https://www.wildfooduk.com/mushroom-guide/terracotta-hedgehog/",
+        "https://www.myko.cz/myko-atlas/Hydnum-rufescens/",
+        "https://botany.cz/cs/hydnum-rufescens/",
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "Terracotta Hedgehog"
+    },
+    "es": {
+      "description": "Un hidno pequeño, de color naranja terracota, de bosques musgosos, reconocible por un sombrero seco, liso a finamente afelpado, que a menudo se asienta un poco descentrado sobre el pie, y por aguijones de color salmón pálido a albaricoque que terminan en el pie en vez de decurrir por él. Suele ser más pequeño y de color más intenso que la lengua de vaca, ya presente en este libro.",
+      "cap": "El sombrero mide típicamente 2–6 cm de diámetro; algunas guías de Europa central dan 3–8 cm, y Wild Food UK 3–6 cm. Al principio es convexo, luego aplanado y a menudo algo deprimido, con el margen ondulado o lobulado, aún enrollado en los jóvenes. La superficie es seca, lisa a finamente afelpada, de naranja terracota a albaricoque o pardo pálido, a menudo más intensa en el centro y más pálida hacia el borde. El sombrero suele estar un poco descentrado sobre el pie.",
+      "hymenium": "La cara fértil está densamente cubierta de aguijones blandos, apiñados y colgantes, típicamente de 2–4 mm de largo; myko.cz admite hasta 5 mm y botany.cz hasta 0,5 cm. Son de color salmón pálido a albaricoque, por lo general más pálidos que el sombrero, y terminan en el pie o justo antes (adnexos a casi libres), dejando una banda pálida clara en el ápice del pie en vez de decurrir por él.",
+      "stipe": "El pie mide típicamente 2–4 cm de alto y 1,5–3 cm de grosor; Wild Food UK indica 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, y botany.cz 3–7 cm de alto y hasta 2 cm de grosor. Es robusto, a menudo un poco descentrado, liso y macizo, blanquecino a albaricoque pálido, a veces con manchas amarillentas o anaranjadas. No hay anillo.",
+      "flesh": "Firme, bastante gruesa, blanca a crema pálida, a veces con un tinte rosado o amarillento. Un corte o una magulladura puede amarillear débilmente a anaranjado. El olor no es distintivo. El sabor es al principio suave y a menudo se vuelve amargo al cabo de un momento; algunas guías de Europa central lo describen como suave o solo ligeramente amargo.",
+      "sporePrint": "Blanca. Las esporas son lisas e incoloras, de unos 6,5–9 × 5,5–8 µm y casi globosas a ampliamente elipsoides en las guías europeas habituales (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz da una cifra mayor, 8–10 × 6–8 µm. Hydnum ellipsosporum se separa por esporas más largas, claramente elipsoides.",
+      "habitat": "Hongo ectomicorrícico del suelo forestal, que crece sobre tierra, musgo y hojarasca o acículas, a veces en grupos pequeños, arcos o corros. Se asocia con coníferas y con árboles de hoja ancha, sobre todo haya, también roble y abeto. Es bastante común en Gran Bretaña e Irlanda y en toda la Europa continental, y también se ha citado en el este de Norteamérica. Los cuerpos fructíferos aparecen de julio a diciembre: en Europa central a menudo de julio a noviembre, y en Gran Bretaña e Irlanda sobre todo de agosto a diciembre (Wild Food UK indica de septiembre a diciembre).",
+      "uses": "Comestible, y un hongo alimenticio apreciado cuando es joven y está libre de insectos. Los ejemplares más viejos pueden amargar y es mejor evitarlos. Aquí no se trata como una seta de primera en el mismo sentido que la lengua de vaca. Las guías europeas habituales no lo consideran venenoso.",
+      "confusion": "Hydnum repandum es más grande y más pálido, de color crema a ante, y sus aguijones decurren por el pie. Hydnum ellipsosporum se parece en el campo y se separa por sus esporas más largas, claramente elipsoides. Los hongos hidnoides más oscuros, escamosos o zonados y de carne correosa, como Sarcodon y Hydnellum, tienen carne más dura y por lo general aguijones pardo-grisáceos. Los rebozuelos tienen pliegues romos, no aguijones. Estudios recientes muestran que Hydnum rufescens en sentido amplio incluye más de una especie; esta ficha sigue el concepto de campo europeo habitual del hidno terracotta más pequeño, con aguijones que terminan en el pie.",
+      "notes": "Un carácter de campo fiable es la combinación de un sombrero pequeño o mediano de color terracota o albaricoque, aguijones pálidos que se detienen en el pie, y un pie robusto, pálido y macizo, a menudo un poco descentrado.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike, terrakotaoranž narmik samblastes metsades, mida tuntakse kuiva, sileda kuni peenelt viltja kübaraga, mis istub sageli veidi jala keskelt kõrval, ning kahvatult lõhe- kuni aprikoosivärvi ogadega, mis lõpevad jala juures ega jookse mööda jalga alla. Ta on tavaliselt väiksem ja küllastunumalt värvunud kui hele timpnarmik, mis on selles raamatus juba olemas.",
+      "cap": "Kübar on tüüpiliselt 2–6 cm lai; mõned Kesk-Euroopa teatmeteosed annavad 3–8 cm, Wild Food UK 3–6 cm. Alguses on ta kumer, hiljem lapik ja sageli veidi sissevajunud, lainja või hõlmise servaga, mis on noorelt veel sissekäändunud. Pind on kuiv, sile kuni peenelt viltjas, terrakotaoranž kuni aprikoosivärvi või kahvatult kollakaspruun, sageli sügavam keskel ja kahvatum serva poole. Kübar istub sageli veidi jala keskelt kõrval.",
+      "hymenium": "Viljakat pinda katavad tihedalt pehmed, tihedalt asetsevad, allapoole rippuvad ogad, tüüpiliselt 2–4 mm pikkused; myko.cz lubab kuni 5 mm, botany.cz kuni 0,5 cm. Need on kahvatult lõhe- kuni aprikoosivärvi, tavaliselt kübarast kahvatumad, ja lõpevad jala juures või vahetult enne seda (kinnitunud kuni peaaegu vabad), jättes jala tippu selge kahvatu vööndi, selle asemel et joosta mööda jalga alla.",
+      "stipe": "Jalg on tüüpiliselt 2–4 cm kõrge ja 1,5–3 cm paks; Wild Food UK annab 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm ja botany.cz 3–7 cm kõrge ning kuni 2 cm paks. Ta on jässakas, sageli veidi keskelt kõrval, sile ja täissäsi, valkjas kuni kahvatult aprikoosivärvi, mõnikord kollakate või oranžide laikudega. Rõngas puudub.",
+      "flesh": "Kindel, üsna paks ja valge kuni kahvatult kreemjas, mõnikord roosaka või kollaka varjundiga. Lõike- või surumiskoht võib nõrgalt oranžkollaseks värvuda. Lõhn ei ole iseloomulik. Maitse on alguses leebe ja muutub sageli lühikese aja pärast mõrkjaks; mõned Kesk-Euroopa teatmeteosed nimetavad seda leebeks või ainult kergelt mõrkjaks.",
+      "sporePrint": "Valge. Eosed on siledad ja värvitud, umbes 6,5–9 × 5,5–8 µm ning peaaegu kerajad kuni laialt ellipsoidsetena tavalistes Euroopa teatmeteostes (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz annab suurema mõõtme, 8–10 × 6–8 µm. Hydnum ellipsosporum eristub pikemate, selgelt ellipsoidsete eostega.",
+      "habitat": "Ektomükoriisne seen metsapinnasel, kasvades mullal, samblas ning lehe- või okkakõdus, mõnikord väikeste rühmadena, kaarede või ringidena. Ta elab koos okas- ja lehtpuudega, eriti pöögiga, ka tamme ja kuusega. Ta on üsna sage Suurbritannias ja Iirimaal ning kogu Mandri-Euroopas ning teda on märgitud ka Ida-Põhja-Ameerikast. Viljakehad ilmuvad juulist detsembrini: Kesk-Euroopas sageli juulist novembrini, Suurbritannias ja Iirimaal peamiselt augustist detsembrini (Wild Food UK annab septembri kuni detsembri).",
+      "uses": "Söödav ja populaarne toiduseen, kuni ta on noor ja ussivaba. Vanemad viljakehad võivad muutuda mõrkjaks ja neid on parem vältida. Siin ei peeta teda sama valitud toiduseenteks nagu heledat timpnarmikut. Tavapärased Euroopa teatmeteosed ei pea teda mürgiseks.",
+      "confusion": "Hydnum repandum on suurem ja kahvatum, kreemjas kuni ookerjas, ja tema ogad jooksevad mööda jalga alla. Hydnum ellipsosporum näeb maastikul sarnane välja ja eristub pikemate, selgelt ellipsoidsete eostega. Tumedamad, soomuselised või võõdilised, nahkjad ogaseened, nagu Sarcodon ja Hydnellum, on sitkema lihaga ja tavaliselt hallikaspruunide ogadega. Kukeseentel on nürid ridvad, mitte ogad. Uuemad uuringud näitavad, et Hydnum rufescens laiemas mõttes hõlmab rohkem kui ühe liigi; see kirjeldus järgib tavapärast Euroopa välitöökäsitlust väiksemast, terrakotavärvi narmikust, mille ogad lõpevad jala juures.",
+      "notes": "Usaldusväärne tunnus on väikese kuni keskmise terrakota- või aprikoosivärvi kübara, jala juures lõppevatel kahvatute ogade ning jässaka, kahvatu, täissäsise, sageli veidi keskelt kõrval oleva jala kooslus.",
+      "names": [
+        "pruunjas narmik"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "tume timpnarmik"
+    },
+    "fa": {
+      "description": "قارچ خارپشتی کوچک و به رنگ نارنجیِ Terracotta در جنگل‌های خزه‌دار که با کلاهی خشک، صاف تا کمی نمدی که اغلب اندکی نامتقارن روی پایه می‌نشیند، و خارهایی به رنگ سالمونِ کم‌رنگ تا زردآلویی که در پایه تمام می‌شوند و روی آن پایین نمی‌روند شناخته می‌شود. معمولاً کوچک‌تر و پررنگ‌تر از قارچ خارپشت روشن است که پیش‌تر در این کتاب آمده است.",
+      "cap": "قطر کلاه معمولاً 2–6 cm است؛ برخی راهنماهای اروپای مرکزی 3–8 cm و Wild Food UK 3–6 cm می‌دهند. ابتدا محدب است، سپس پهن می‌شود و غالباً اندکی فرورفته است، با حاشیه موج‌دار یا لبه‌دار که در جوانی هنوز به داخل پیچیده است. سطح خشک، صاف تا کمی نمدی، نارنجی Terracotta تا زردآلویی یا قهوه‌ای مایل به زردِ کم‌رنگ است، غالباً در مرکز پررنگ‌تر و به سوی حاشیه کم‌رنگ‌تر. کلاه اغلب اندکی نامتقارن روی پایه می‌نشیند.",
+      "hymenium": "سطح بارور را خارهای نرم، متراکم و آویخته به پایین، معمولاً به طول 2–4 mm، انبوه می‌پوشانند؛ myko.cz تا 5 mm و botany.cz تا 0,5 cm را می‌پذیرد. رنگ آن‌ها سالمونِ کم‌رنگ تا زردآلویی است، معمولاً کم‌رنگ‌تر از کلاه، و در پایه یا درست پیش از آن تمام می‌شوند (چسبیده تا تقریباً آزاد)، و به‌جای پایین رفتن روی پایه، نواری کم‌رنگ و مشخص در رأس پایه باقی می‌گذارند.",
+      "stipe": "پایه معمولاً 2–4 cm بلندی و 1,5–3 cm قطر دارد؛ Wild Food UK اندازه 4–7 × 1,5–3 cm، myko.cz اندازه 2–7 × 1–2 cm، و botany.cz بلندی 3–7 cm و قطر تا 2 cm را می‌دهد. ستبر است، اغلب اندکی نامتقارن، صاف و توپر، سفید تا زردآلوییِ کم‌رنگ، گاهی با لکه‌های زرد یا نارنجی. حلقه ندارد.",
+      "flesh": "محکم، نسبتاً ستبر، و سفید تا کرمِ کم‌رنگ است، گاهی با ته رنگ صورتی یا زرد. برش یا کوفتگی ممکن است به‌آرامی به زردِ نارنجی بگراید. بو مشخص نیست. طعم ابتدا ملایم است و غالباً پس از زمانی کوتاه تلخ می‌شود؛ برخی راهنماهای اروپای مرکزی آن را ملایم یا فقط اندکی تلخ می‌خوانند.",
+      "sporePrint": "سفید. هاگ‌ها صاف و بی‌رنگ‌اند، حدود 6,5–9 × 5,5–8 µm و در راهنماهای معمول اروپایی تقریباً کروی تا بیضوی پهن (First Nature 6,5–8 × 5,5–7 µm؛ myko.cz 6,5–9 × 5,5–8 µm). botany.cz اندازه بزرگ‌تری می‌دهد، 8–10 × 6–8 µm. Hydnum ellipsosporum با هاگ‌های بلندتر و آشکارا بیضوی جدا می‌شود.",
+      "habitat": "قارچ اکتومیکوریزای کف جنگل که روی خاک، در خزه و در لاشبرگ برگ یا سوزن، گاهی در گروه‌های کوچک، کمان‌ها یا حلقه‌ها می‌روید. با مخرویان و درختان پهن‌برگ، به‌ویژه راش، و نیز بلوط و نوئل همزیست است. در بریتانیا و ایرلند و سراسر اروپای قاره‌ای نسبتاً رایج است و از شرق آمریکای شمالی نیز گزارش شده است. اندام‌های بارده از ژوئیه تا دسامبر ظاهر می‌شوند: در اروپای مرکزی غالباً از ژوئیه تا نوامبر، و در بریتانیا و ایرلند بیشتر از اوت تا دسامبر (Wild Food UK سپتامبر تا دسامبر را می‌دهد).",
+      "uses": "خوراکی است و وقتی جوان و عاری از حشره باشد قارچ خوراکی محبوبی است. اندام‌های بارده پیرتر ممکن است تلخ شوند و بهتر است از آن‌ها پرهیز شود. در اینجا همچون قارچ برگزیده به همان معنی قارچ خارپشت روشن تلقی نمی‌شود. راهنماهای معمول اروپایی آن را سمی نمی‌دانند.",
+      "confusion": "Hydnum repandum بزرگ‌تر و کم‌رنگ‌تر است، کرم تا نخودی، و خارهایش روی پایه پایین می‌روند. Hydnum ellipsosporum در میدان شبیه است و با هاگ‌های بلندتر و آشکارا بیضوی جدا می‌شود. قارچ‌های خاردار تیره‌تر، پولک‌دار یا نواری، با گوشت چرمی، مانند Sarcodon و Hydnellum، گوشت سفت‌تری دارند و خارهایشان معمولاً خاکستری‌قهوه‌ای است.قارچ‌های Cantharellus چین‌های کند دارند، نه خار. مطالعات تازه نشان می‌دهد که Hydnum rufescens به معنی گسترده بیش از یک گونه را در بر می‌گیرد؛ این شرح از مفهوم رایج اروپاییِ میدان برای خارپشت Terracotta کوچک‌تری پیروی می‌کند که خارهایش در پایه تمام می‌شوند.",
+      "notes": "نشانه مطمئن میدان ترکیب کلاهی کوچک تا متوسط به رنگ Terracotta یا زردآلو، خارهای کم‌رنگی که در پایه تمام می‌شوند، و پایه‌ای ستبر، کم‌رنگ و توپر است که اغلب اندکی نامتقارن می‌نشیند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni, terrakotanoranssi orakas sammaleisissa metsissä, jonka tunnistaa kuivasta, sileästä tai hienon huopaisesta lakista, joka istuu usein hieman sivussa jalasta, sekä vaalean lohen- tai aprikoosinvärisistä piikeistä, jotka päättyvät jalkaan eivätkä jatku sitä pitkin. Se on yleensä pienempi ja voimakkaammin värinen kuin vaaleaorakas, joka on jo tässä kirjassa.",
+      "cap": "Laki on tyypillisesti 2–6 cm leveä; jotkin keskieurooppalaiset oppaat ilmoittavat 3–8 cm, Wild Food UK 3–6 cm. Aluksi se on kupera, myöhemmin litistynyt ja usein hieman painunut, aaltoileva- tai liuskareunainen, nuorena vielä sisäänkiertynyt. Pinta on kuiva, sileä tai hienon huopainen, terrakotanoranssi tai aprikoosinvärinen tai vaalean kellanruskea, usein voimakkaampi keskeltä ja vaaleampi reunasta. Laki istuu usein hieman sivussa jalasta.",
+      "hymenium": "Itiölavaa peittävät tiheästi pehmeät, tiheässä olevat, alaspäin roikkuvat piikit, tyypillisesti 2–4 mm pitkät; myko.cz sallii enintään 5 mm, botany.cz enintään 0,5 cm. Ne ovat vaalean lohen- tai aprikoosinvärisiä, yleensä lakia vaaleampia, ja päättyvät jalkaan tai juuri ennen sitä (kiinnittyneet tai lähes vapaat), jolloin jalan yläosaan jää selvä vaalea vyöhyke eivätkä ne jatku jalkaa pitkin.",
+      "stipe": "Jalka on tyypillisesti 2–4 cm korkea ja 1,5–3 cm paksu; Wild Food UK ilmoittaa 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm ja botany.cz 3–7 cm korkean ja enintään 2 cm paksun. Se on tukeva, usein hieman sivussa, sileä ja umpinainen sekä valkoinen tai vaalean aprikoosinvärinen, joskus kellertävin tai oranssein laikuin. Renkaita ei ole.",
+      "flesh": "Kiinteä, melko paksu ja valkoinen tai vaalean kermanvärinen, joskus vaaleanpunertava tai kellertävä sävy. Leikkaus- tai painumakohta voi heikosti kellertää oranssinkeltaiseksi. Tuoksu ei ole erikoinen. Maku on aluksi mieto ja muuttuu usein hetken kuluttua karvaaksi; jotkin keskieurooppalaiset oppaat kuvaavat sen miedoksi tai vain hieman karvaaksi.",
+      "sporePrint": "Valkoinen. Itiöt ovat sileitä ja värittömiä, noin 6,5–9 × 5,5–8 µm ja lähes pallomaisia tai leveän ellipsoideja tavanomaisissa eurooppalaisissa oppaissa (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz ilmoittaa suuremman mitan, 8–10 × 6–8 µm. Hydnum ellipsosporum erottuu pitemmillä, selvästi ellipsoideilla itiöillä.",
+      "habitat": "Ektomykorritsasieni metsämaassa, kasvava maassa, sammalessa ja lehti- tai neulaskarikkeessa, joskus pieninä ryhminä, kaarina tai renkaina. Se elää yhdessä havu- ja lehtipuiden, etenkin pyökin, myös tammen ja kuusen kanssa. Se on melko yleinen Britanniassa ja Irlannissa sekä koko Manner-Euroopassa, ja sitä on ilmoitettu myös itäisestä Pohjois-Amerikasta. Itiöemiä ilmestyy heinäkuusta joulukuuhun: Keski-Euroopassa usein heinäkuusta marraskuuhun, Britanniassa ja Irlannissa lähinnä elokuusta joulukuuhun (Wild Food UK ilmoittaa syys–joulukuun).",
+      "uses": "Syötävä ja suosittu ruokasieni nuorena ja toukattomana. Vanhemmat itiöemät voivat käydä karvaiksi, ja ne on parempi jättää. Tässä sitä ei pidetä yhtä erinomaisena ruokasienenä kuin vaaleaorakasta. Tavanomaiset eurooppalaiset oppaat eivät pidä sitä myrkyllisenä.",
+      "confusion": "Hydnum repandum on suurempi ja vaaleampi, kerman- tai okranvärinen, ja sen piikit jatkuvat jalkaa pitkin. Hydnum ellipsosporum näyttää maastossa samalta ja erottuu pitemmillä, selvästi ellipsoideilla itiöillä. Tummemmat, suomuiset tai vyöhykkeiset, nahkeat orakkaat, kuten Sarcodon ja Hydnellum, ovat sitkeämpimaltoisia ja niillä on yleensä harmaanruskeat piikit. Kanttarelleilla on tylppiä poimuja, ei piikkejä. Uudemmat tutkimukset osoittavat, että Hydnum rufescens laajassa mielessä käsittää useamman lajin; tämä kuvaus noudattaa tavanomaista eurooppalaista kenttäkäsitystä pienemmästä, terrakotanvärisestä orakkaasta, jonka piikit päättyvät jalkaan.",
+      "notes": "Luotettava tuntomerkki on pienen tai keskikokoisen terrakotan- tai aprikoosinvärisen lakin, jalkaan päättyvien vaaleiden piikkien ja tukevan, vaalean, umpinaisen, usein hieman sivussa olevan jalan yhdistelmä.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2544165",
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "rusko-orakas"
+    },
+    "fr": {
+      "description": "Un petit hydne orange terracotta des bois moussus, reconnaissable à un chapeau sec, lisse à finement feutré, souvent un peu excentré sur le pied, et à des aiguillons rose saumon pâle à abricot qui s’arrêtent au pied au lieu de descendre le long de celui-ci. Il est généralement plus petit et plus vivement coloré que l’hydne sinué déjà présent dans ce livre.",
+      "cap": "Le chapeau mesure typiquement 2–6 cm de diamètre ; certains guides d’Europe centrale indiquent 3–8 cm, et Wild Food UK 3–6 cm. D’abord convexe, il s’aplatit ensuite et est souvent un peu déprimé, à marge ondulée ou lobée, encore enroulée chez les jeunes. La surface est sèche, lisse à finement feutrée, orange terracotta à abricot ou beige pâle, souvent plus soutenue au centre et plus pâle vers le bord. Le chapeau est souvent un peu excentré sur le pied.",
+      "hymenium": "La face fertile est densément couverte d’aiguillons mous, serrés, pendants, typiquement longs de 2–4 mm ; myko.cz admet jusqu’à 5 mm et botany.cz jusqu’à 0,5 cm. Ils sont rose saumon pâle à abricot, généralement plus pâles que le chapeau, et s’arrêtent au pied ou juste avant (adnexés à presque libres), laissant une bande pâle nette au sommet du pied plutôt que de descendre le long de celui-ci.",
+      "stipe": "Le pied mesure typiquement 2–4 cm de haut et 1,5–3 cm d’épaisseur ; Wild Food UK indique 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, et botany.cz 3–7 cm de haut et jusqu’à 2 cm d’épaisseur. Il est robuste, souvent un peu excentré, lisse et plein, blanchâtre à abricot pâle, parfois tacheté de jaune ou d’orange. Il n’y a pas d’anneau.",
+      "flesh": "Ferme, assez épaisse, blanche à crème pâle, parfois teintée de rose ou de jaune. Une coupe ou une meurtrissure peut jaunir légèrement en orangé. L’odeur n’est pas caractéristique. La saveur est d’abord douce et devient souvent amère après un court moment ; certains guides d’Europe centrale la disent douce ou seulement légèrement amère.",
+      "sporePrint": "Blanche. Les spores sont lisses et incolores, d’environ 6,5–9 × 5,5–8 µm et presque globuleuses à largement ellipsoïdes dans les guides européens habituels (First Nature 6,5–8 × 5,5–7 µm ; myko.cz 6,5–9 × 5,5–8 µm). botany.cz donne une taille plus grande, 8–10 × 6–8 µm. Hydnum ellipsosporum se distingue par des spores plus longues, nettement ellipsoïdes.",
+      "habitat": "Champignon ectomycorhizien du sol forestier, croissant sur la terre, dans la mousse et dans la litière de feuilles ou d’aiguilles, parfois en petits groupes, en arcs ou en ronds. Il s’associe aux conifères et aux feuillus, surtout au hêtre, aussi au chêne et à l’épicéa. Il est assez commun en Grande-Bretagne et en Irlande ainsi que dans toute l’Europe continentale, et a aussi été signalé dans l’est de l’Amérique du Nord. Les sporophores apparaissent de juillet à décembre : en Europe centrale souvent de juillet à novembre, et en Grande-Bretagne et en Irlande surtout d’août à décembre (Wild Food UK indique septembre à décembre).",
+      "uses": "Comestible, et un champignon alimentaire apprécié lorsqu’il est jeune et indemne d’insectes. Les sporophores plus âgés peuvent devenir amers et sont à éviter. Il n’est pas traité ici comme un champignon de choix au même titre que l’hydne sinué. Les guides européens habituels ne le considèrent pas comme toxique.",
+      "confusion": "Hydnum repandum est plus grand et plus pâle, crème à chamois, et ses aiguillons descendent le long du pied. Hydnum ellipsosporum lui ressemble sur le terrain et se distingue par des spores plus longues, nettement ellipsoïdes. Les hydnes plus sombres, squameux ou zonés, à chair coriace, tels que Sarcodon et Hydnellum, ont une chair plus ferme et généralement des aiguillons gris-brun. Les girolles ont des plis obtus, non des aiguillons. Des études récentes montrent que Hydnum rufescens au sens large comprend plus d’une espèce ; ce compte rendu suit le concept de terrain européen habituel du petit hydne terracotta dont les aiguillons s’arrêtent au pied.",
+      "notes": "Un bon caractère de terrain est la combinaison d’un chapeau petit à moyen, terracotta ou abricot, d’aiguillons pâles qui s’arrêtent au pied, et d’un pied robuste, pâle et plein, souvent un peu excentré.",
+      "names": [
+        "Pied-de-mouton rougissant"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2544165",
+        "https://www.wikidata.org/wiki/Q2475470",
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "pied-de-mouton roux"
+    },
+    "he": {
+      "description": "פטריית קיפוד קטנה, כתומה־טרקוטה, של יערות טחביים, שמוכרים אותה לפי כובע יבש, חלק עד לבדדי עדין, שלעתים קרובות יושב מעט מחוץ למרכז הרגל, ולפי קוצים בצבע סלמון חיוור עד משמש הנעצרים ברגל ואינם יורדים לאורכה. בדרך כלל היא קטנה וכהה יותר בצבעה מפטריית הקיפוד הבהירה שכבר מופיעה בספר זה.",
+      "cap": "הכובע בדרך כלל בקוטר 2–6 cm; מדריכים אחדים ממרכז אירופה מציינים 3–8 cm, ו־Wild Food UK 3–6 cm. תחילה הוא קמור, אחר כך שטוח ולעתים קרובות שקוע מעט, עם שוליים גליים או אונתיים שעדיין מגולגלים פנימה בצעירים. המשטח יבש, חלק עד לבדדי עדין, כתום־טרקוטה עד משמש או חום־צהבהב חיוור, לעתים קרובות עמוק יותר במרכז וחיוור יותר כלפי השוליים. הכובע יושב לעתים קרובות מעט מחוץ למרכז הרגל.",
+      "hymenium": "פני השטח הפוריים מכוסים בצפיפות בקוצים רכים, צפופים ותלויים כלפי מטה, באורך טיפוסי של 2–4 mm; myko.cz מתיר עד 5 mm, ו־botany.cz עד 0,5 cm. הם בצבע סלמון חיוור עד משמש, בדרך כלל חיוורים מן הכובע, ומסתיימים ברגל או ממש לפניה (צמודים עד כמעט חופשיים), ומשאירים פס חיוור ברור בקצה העליון של הרגל במקום לרדת לאורכה.",
+      "stipe": "הרגל בדרך כלל בגובה 2–4 cm ובעובי 1,5–3 cm; Wild Food UK מציין 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, ו־botany.cz 3–7 cm גובה ועד 2 cm עובי. היא איתנה, לעתים קרובות מעט מחוץ למרכז, חלקה ומלאה, לבנבנה עד משמש חיוור, לעתים עם כתמים צהבהבים או כתומים. אין טבעת.",
+      "flesh": "מוצק, די עבה, לבן עד קרם חיוור, לעתים עם גוון ורוד או צהבהב. חתך או לחץ עשויים להצהיב קלות לכתום־צהוב. הריח אינו אופייני. הטעם מתון בהתחלה ולעתים קרובות נעשה מר לאחר זמן קצר; מדריכים אחדים ממרכז אירופה מתארים אותו כמתון או רק מעט מר.",
+      "sporePrint": "לבן. הנבגים חלקים וחסרי צבע, בערך 6,5–9 × 5,5–8 µm וכמעט כדוריים עד אליפסואידיים רחבים במדריכים האירופיים הרגילים (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz נותן מידה גדולה יותר, 8–10 × 6–8 µm. את Hydnum ellipsosporum מפרידים נבגים ארוכים יותר, אליפסואידיים בבירור.",
+      "habitat": "פטריית אקטומיקוריזה של קרקע היער, הגדלה על אדמה, בטחב ובשלכת עלים או מחטים, לעתים בקבוצות קטנות, בקשתות או בטבעות. היא חיה בשיתוף עם מחטניים ועם עצים רחבי עלים, בייחוד אשור, גם עם אלונים ואשוחית. היא שכיחה למדי בבריטניה ובאירלנד ובכל אירופה היבשתית, ודווחה גם במזרח צפון אמריקה. גופי הפרי מופיעים מיולי עד דצמבר: במרכז אירופה לעתים קרובות מיולי עד נובמבר, ובבריטניה ובאירלנד בעיקר מאוגוסט עד דצמבר (Wild Food UK מציין ספטמבר עד דצמבר).",
+      "uses": "אכילה, ופטריית מאכל אהובה כשהיא צעירה ונקייה מחרקים. גופי פרי מבוגרים יותר עלולים להיעשות מרים, ועדיף להימנע מהם. כאן אין רואים בה פטריית מאכל מעולה באותו מובן כמו פטריית הקיפוד הבהירה. המדריכים האירופיים הרגילים אינם מחשיבים אותה כרעילה.",
+      "confusion": "Hydnum repandum גדול יותר וחיוור יותר, בצבע קרם עד חום־צהבהב, והקוצים שלו יורדים לאורך הרגל. Hydnum ellipsosporum דומה בשדה ומופרד על ידי נבגים ארוכים יותר, אליפסואידיים בבירור. פטריות קוצים כהות יותר, קשקשניות או מזוהות, בעלות בשר עורי, כגון Sarcodon ו־Hydnellum, יש להן בשר קשה יותר וקוצים אפור־חומים בדרך כלל. לפטריות השועל יש קפלים קהים, לא קוצים. מחקרים חדשים מראים ש־Hydnum rufescens במובן הרחב כולל יותר ממין אחד; תיאור זה הולך אחר מושג השדה האירופי הרגיל של פטריית הקיפוד הטרקוטה הקטנה יותר, שקוציה נעצרים ברגל.",
+      "notes": "סימן שדה אמין הוא השילוב של כובע קטן עד בינוני בצבע טרקוטה או משמש, קוצים חיוורים שנעצרים ברגל, ורגל איתנה, חיוורת ומלאה, שלעתים קרובות יושבת מעט מחוץ למרכז.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "שיננית אדמדמה"
+    },
+    "hi": {
+      "description": "काईदार वनों का एक छोटा, टेराकोटा-नारंगी कांटेदार कवक, जिसे सूखे, चिकने से बारीक महसूसे जैसे टोपी से पहचाना जाता है, जो अक्सर डंडी पर थोड़ी तिरछी बैठती है, और हल्के साल्मन से खूबानी रंग के कांटों से, जो डंडी पर उतरने के बजाय उसी पर समाप्त होते हैं। यह आमतौर पर उस हल्के कांटेदार कवक से छोटा और अधिक गहरा रंग वाला होता है जो पहले से इस पुस्तक में है।",
+      "cap": "टोपी आमतौर पर 2–6 cm चौड़ी होती है; कुछ मध्य यूरोपीय मार्गदर्शिकाएँ 3–8 cm बताती हैं, और Wild Food UK 3–6 cm। पहले यह उत्तल होती है, फिर चपटी और अक्सर थोड़ी धँसी हुई, लहरदार या पालियुक्त किनारे के साथ, जो युवा अवस्था में अभी अंदर की ओर लिपटा रहता है। सतह सूखी, चिकनी से बारीक महसूसे जैसी, टेराकोटा-नारंगी से खूबानी या हल्के पीले-भूरे रंग की होती है, अक्सर केंद्र की ओर गहरी और किनारे की ओर हल्की। टोपी अक्सर डंडी पर थोड़ी तिरछी बैठती है।",
+      "hymenium": "उर्वर सतह नरम, घने, नीचे लटकते कांटों से सघन रूप से ढकी होती है, आमतौर पर 2–4 mm लंबे; myko.cz 5 mm तक और botany.cz 0,5 cm तक मानता है। ये हल्के साल्मन से खूबानी रंग के होते हैं, आमतौर पर टोपी से हल्के, और डंडी पर या ठीक पहले समाप्त होते हैं (संलग्न से लगभग स्वतंत्र), जिससे डंडी के शीर्ष पर एक स्पष्ट हल्की पट्टी रह जाती है, न कि कांटे डंडी पर उतरते हैं।",
+      "stipe": "डंडी आमतौर पर 2–4 cm ऊँची और 1,5–3 cm मोटी होती है; Wild Food UK 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, और botany.cz 3–7 cm ऊँचाई तथा 2 cm तक मोटाई बताता है। यह मजबूत होती है, अक्सर थोड़ी तिरछी, चिकनी और ठोस, सफ़ेद से हल्के खूबानी रंग की, कभी-कभी पीले या नारंगी धब्बों के साथ। वलय नहीं होता।",
+      "flesh": "दृढ़, काफी मोटी, और सफ़ेद से हल्के क्रीम रंग की, कभी-कभी गुलाबी या पीले आभा के साथ। काट या दबाने पर हल्का नारंगी-पीला हो सकता है। गंध विशिष्ट नहीं है। स्वाद पहले मृदु होता है और अक्सर थोड़ी देर बाद कड़वा हो जाता है; कुछ मध्य यूरोपीय मार्गदर्शिकाएँ इसे मृदु या केवल हल्का कड़वा कहती हैं।",
+      "sporePrint": "सफ़ेद। बीजाणु चिकने और रंगहीन होते हैं, लगभग 6,5–9 × 5,5–8 µm और सामान्य यूरोपीय मार्गदर्शिकाओं में लगभग गोलाकार से चौड़े दीर्घवृत्ताकार (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm)। botany.cz बड़ा माप देता है, 8–10 × 6–8 µm। Hydnum ellipsosporum लंबे, स्पष्ट रूप से दीर्घवृत्ताकार बीजाणुओं से अलग होता है।",
+      "habitat": "वन भूमि का एक एकटोमाइकोराइज़ल कवक, जो मिट्टी, काई और पत्ती या सुई की परत पर उगता है, कभी-कभी छोटे समूहों, चापों या वलयों में। यह शंकुधारी और चौड़ी पत्ती वाले वृक्षों, विशेषकर बीच, तथा ओक और स्प्रूस के साथ सहजीवी है। यह ब्रिटेन और आयरलैंड तथा पूरे महाद्वीपीय यूरोप में काफी सामान्य है, और पूर्वी उत्तरी अमेरिका से भी बताया गया है। फलकाय जुलाई से दिसंबर तक दिखाई देते हैं: मध्य यूरोप में अक्सर जुलाई से नवंबर तक, और ब्रिटेन तथा आयरलैंड में मुख्यतः अगस्त से दिसंबर तक (Wild Food UK सितंबर से दिसंबर बताता है)।",
+      "uses": "खाद्य है, और युवा तथा कीट-रहित होने पर एक लोकप्रिय खाद्य कवक है। पुराने फलकाय कड़वे हो सकते हैं और उन्हें छोड़ देना बेहतर है। यहाँ इसे उसी अर्थ में उत्कृष्ट खाद्य कवक नहीं माना जाता जैसे हल्का कांटेदार कवक। सामान्य यूरोपीय मार्गदर्शिकाएँ इसे विषैला नहीं मानतीं।",
+      "confusion": "Hydnum repandum बड़ा और हल्का होता है, क्रीम से भूरे-पीले रंग का, और उसके कांटे डंडी पर उतरते हैं। Hydnum ellipsosporum मैदान में समान दिखता है और लंबे, स्पष्ट रूप से दीर्घवृत्ताकार बीजाणुओं से अलग होता है। गहरे, शल्की या क्षेत्रीय, चमड़े जैसे कांटेदार कवक, जैसे Sarcodon और Hydnellum, का गूदा सख्त होता है और कांटे आमतौर पर धूसर-भूरे होते हैं। कैन्थरेलस में कुंद तहें होती हैं, कांटे नहीं। हाल के अध्ययन दिखाते हैं कि व्यापक अर्थ में Hydnum rufescens में एक से अधिक जातियाँ शामिल हैं; यह विवरण छोटे टेराकोटा कांटेदार कवक की सामान्य यूरोपीय क्षेत्रीय अवधारणा का अनुसरण करता है, जिसके कांटे डंडी पर समाप्त होते हैं।",
+      "notes": "एक विश्वसनीय क्षेत्रीय पहचान छोटी से मध्यम टेराकोटा या खूबानी टोपी, डंडी पर रुकने वाले हल्के कांटे, और एक मजबूत, हल्की, ठोस डंडी का संयोजन है, जो अक्सर थोड़ी तिरछी बैठती है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Manja, ciglasto narančasta ježevica mahovitih šuma, prepoznatljiva po suhom, glatkom do fino filcastom klobuku koji često sjedi malo izvan središta stručka, i po blijedolososovim do mareličnim bodljama koje prestaju na stručku i ne spuštaju se niz njega. Obično je manja i zasićenije obojena od prosenjaka, koji je već u ovom atlasu.",
+      "cap": "Klobuk je tipično širok 2–6 cm; neki srednjoeuropski priručnici navode 3–8 cm, a Wild Food UK 3–6 cm. Najprije je ispupčen, zatim spljošten i često malo udubljen, s valovitim ili režnjevitim rubom koji je u mladosti još podvinut. Površina je suha, glatka do fino filcasta, ciglasto narančasta do marelična ili blijedo žućkastosmeđa, često tamnija u sredini i svjetlija prema rubu. Klobuk često sjedi malo izvan središta stručka.",
+      "hymenium": "Plodnu površinu gusto prekrivaju meke, zbijene, prema dolje visjeće bodlje, tipično duge 2–4 mm; myko.cz dopušta do 5 mm, a botany.cz do 0,5 cm. Blijedolososove su do marelične, obično svjetlije od klobuka, i prestaju na stručku ili neposredno pred njim (prirasle do gotovo slobodne), ostavljajući jasan blijedi pojas na vrhu stručka, umjesto da se spuštaju niz njega.",
+      "stipe": "Stručak je tipično visok 2–4 cm i debeo 1,5–3 cm; Wild Food UK navodi 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, a botany.cz 3–7 cm visine i do 2 cm debljine. Čvrst je, često malo izvan središta, gladak i pun, bjelkast do blijedo mareličan, ponekad sa žućkastim ili narančastim pjegama. Prstena nema.",
+      "flesh": "Čvrsto, prilično debelo i bijelo do blijedo krem, ponekad s ružičastim ili žućkastim tonom. Presjek ili otisnuto mjesto može slabo požutjeti do narančastužuto. Miris nije osobit. Okus je isprva blag i često nakon kratkog vremena postane gorak; neki srednjoeuropski priručnici ga opisuju kao blag ili samo slabo gorak.",
+      "sporePrint": "Bijel. Spore su glatke i bezbojne, oko 6,5–9 × 5,5–8 µm i gotovo kuglaste do široko elipsoidne u uobičajenim europskim priručnicima (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz navodi veću mjeru, 8–10 × 6–8 µm. Hydnum ellipsosporum razlikuje se duljim, jasno elipsoidnim sporama.",
+      "habitat": "Ektomikorizna gljiva šumskog tla, koja raste na zemlji, u mahovini te u lisnatom ili četinarskom kojištju, ponekad u malim skupinama, lukovima ili kolutima. Živi u simbiozi s četinarima i listačama, osobito s bukvom, također s hrastom i smrekom. Prilično je česta u Britaniji i Irskoj te diljem kontinentalne Europe, a zabilježena je i u istočnoj Sjevernoj Americi. Plodna tijela pojavljuju se od srpnja do prosinca: u srednjoj Europi često od srpnja do studenoga, a u Britaniji i Irskoj uglavnom od kolovoza do prosinca (Wild Food UK navodi rujan do prosinac).",
+      "uses": "Jestiva i omiljena jestiva gljiva dok je mlada i bez crvljivosti. Starija plodna tijela mogu postati gorka i bolje ih je izbjegavati. Ovdje je ne smatramo vrhunskom jestivom gljivom u istom smislu kao prosenjaka. Uobičajeni europski priručnici je ne smatraju otrovnom.",
+      "confusion": "Hydnum repandum je veći i svjetliji, krem do okernast, a njegove bodlje spuštaju se niz stručak. Hydnum ellipsosporum je na terenu sličan i razlikuje se duljim, jasno elipsoidnim sporama. Tamnije, ljuskave ili zonirane, kožaste bodljikave gljive, kao što su Sarcodon i Hydnellum, imaju čvršće meso i obično sivosmeđe bodlje. Lisičarke imaju tupe naborane listiće, a ne bodlje. Novija istraživanja pokazuju da Hydnum rufescens u širem smislu uključuje više vrsta; ovaj opis slijedi uobičajeno europsko terensko shvaćanje manje, ciglasto obojene ježevice s bodljama koje prestaju na stručku.",
+      "notes": "Pouzdano terensko obilježje je spoj malog do srednje velikog ciglastog ili mareličnog klobuka, blijedih bodlji koje prestaju na stručku, i čvrstog, blijedog, punog stručka koji često sjedi malo izvan središta.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kis, terrakotta-narancs gereben mohos erdőkből, amelyről a száraz, sima vagy finoman nemezes, gyakran kissé excentrikusan ülő kalap, valamint a halvány lazac- vagy sárgabarack színű tüskék árulkodnak, amelyek a tönknél végződnek, és nem futnak le rajta. Általában kisebb és élénkebben színezett, mint a sárga gereben, amely már szerepel ebben a könyvben.",
+      "cap": "A kalap tipikusan 2–6 cm széles; egyes közép-európai útmutatók 3–8 cm-t, a Wild Food UK 3–6 cm-t ad meg. Először domború, majd ellaposodik, gyakran kissé bemélyed, hullámos vagy karéjos, fiatalon még begöngyölt széllel. Felülete száraz, sima vagy finoman nemezes, terrakotta-narancs, sárgabarack vagy halvány sárgásbarna, gyakran erősebb a közepén és halványabb a szélén. A kalap gyakran kissé excentrikusan ül a tönkön.",
+      "hymenium": "A termőréteget sűrűn borítják a puha, zsúfolt, lefelé csüngő tüskék, tipikusan 2–4 mm hosszúak; a myko.cz akár 5 mm-t, a botany.cz akár 0,5 cm-t is megenged. Halvány lazac- vagy sárgabarack színűek, általában halványabbak a kalapnál, és a tönknél vagy közvetlenül előtte végződnek (hozzánőttek vagy csaknem szabadok), így a tönk csúcsán tiszta halvány sáv marad, ahelyett hogy lefutnának a tönkön.",
+      "stipe": "A tönk tipikusan 2–4 cm magas és 1,5–3 cm vastag; a Wild Food UK 4–7 × 1,5–3 cm-t, a myko.cz 2–7 × 1–2 cm-t, a botany.cz 3–7 cm magasságot és akár 2 cm vastagságot ad meg. Zömök, gyakran kissé excentrikus, sima és telt, fehéres vagy halvány sárgabarack színű, néha sárgás vagy narancsos foltokkal. Gallérja nincs.",
+      "flesh": "Szilárd, elég vastag, fehér vagy halvány krémszínű, néha rózsás vagy sárgás árnyalattal. A vágás vagy nyomás gyengén narancssárgára színeződhet. Illata nem jellegzetes. Íze eleinte enyhe, és gyakran rövid idő után kesernyéssé válik; egyes közép-európai útmutatók enyhének vagy csak enyhén kesernyésnek mondják.",
+      "sporePrint": "Fehér. A spórák simák és színtelenek, körülbelül 6,5–9 × 5,5–8 µm-esek, és a szokásos európai útmutatók szerint csaknem gömbölyűek vagy széles ellipszoidok (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). A botany.cz nagyobb méretet ad, 8–10 × 6–8 µm. A Hydnum ellipsosporum hosszabb, határozottan ellipszoid spóráival különíthető el.",
+      "habitat": "Ektomikorrhizás gomba az erdőtalajon, amely talajon, mohában és avarban vagy tűlevél-avarban nő, néha kis csoportokban, ívekben vagy körökben. Tűlevelűekkel és lomblevelű fákkal él együtt, különösen bükkel, emellett tölggyel és luccal. Meglehetősen gyakori Nagy-Britanniában és Írországban, valamint egész kontinentális Európában, és Kelet-Észak-Amerikából is jelezték. A termőtestek júliustól decemberig jelennek meg: Közép-Európában gyakran júliustól novemberig, Nagy-Britanniában és Írországban elsősorban augusztustól decemberig (a Wild Food UK szeptembertől decemberig adja meg).",
+      "uses": "Ehető, és kedvelt étkezési gomba, amíg fiatal és rovarmentes. Az idősebb termőtestek keserűvé válhatnak, ezeket jobb kerülni. Itt nem tekintjük ugyanolyan kitűnő evőgombának, mint a sárga gerebent. A szokásos európai útmutatók nem tartják mérgezőnek.",
+      "confusion": "A Hydnum repandum nagyobb és halványabb, krémszínű vagy okkersárga, és tüskéi lefutnak a tönkön. A Hydnum ellipsosporum a terepen hasonló, és hosszabb, határozottan ellipszoid spóráival különíthető el. A sötétebb, pikkelyes vagy zónázott, bőrszerű tüskés gombáknak, például a Sarcodon és a Hydnellum fajoknak, keményebb a húsa, és általában szürkésbarna tüskéik vannak. A rókagombáknak tompa redőik vannak, nem tüskéik. Újabb vizsgálatok szerint a Hydnum rufescens tágabb értelemben több fajt foglal magában; ez a leírás a szokásos európai terepi felfogást követi a kisebb, terrakotta színű gerebenről, amelynek tüskéi a tönknél végződnek.",
+      "notes": "Megbízható terepi jegy a kis vagy közepes terrakotta vagy sárgabarack kalap, a tönknél végződő halvány tüskék, valamint a zömök, halvány, telt, gyakran kissé excentrikus tönk együttese.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470",
+        "https://hu.wikipedia.org/wiki/Sárgásvörös_gereben",
+        "https://www.wildfooduk.com/mushroom-guide/terracotta-hedgehog/"
+      ],
+      "label": "sárgásvörös gereben"
+    },
+    "id": {
+      "description": "Jamur duri kecil berwarna oranye terakota di hutan berlumut, dikenali dari tudung kering, licin hingga berbulu halus, yang sering duduk sedikit di luar pusat batang, dan dari duri berwarna salmon pucat hingga aprikot yang berhenti di batang, bukan merunduk sepanjang batang. Biasanya lebih kecil dan lebih kaya warnanya daripada jamur duri pucat yang sudah ada dalam buku ini.",
+      "cap": "Tudung biasanya berdiameter 2–6 cm; beberapa panduan Eropa Tengah menyebut 3–8 cm, dan Wild Food UK 3–6 cm. Mula-mula cembung, kemudian mendatar dan sering sedikit cekung, dengan tepi bergelombang atau berlekuk yang masih terlipat ke dalam saat muda. Permukaannya kering, licin hingga berbulu halus, oranye terakota hingga aprikot atau cokelat kekuningan pucat, sering lebih pekat di tengah dan lebih pucat ke tepi. Tudung sering duduk sedikit di luar pusat batang.",
+      "hymenium": "Permukaan subur tertutup rapat duri lunak, rapat, dan menggantung ke bawah, biasanya sepanjang 2–4 mm; myko.cz memperbolehkan hingga 5 mm, dan botany.cz hingga 0,5 cm. Warnanya salmon pucat hingga aprikot, biasanya lebih pucat daripada tudung, dan berakhir di batang atau tepat sebelumnya (melekat hingga hampir bebas), meninggalkan pita pucat yang jelas di puncak batang, bukan merunduk sepanjang batang.",
+      "stipe": "Batang biasanya tinggi 2–4 cm dan tebal 1,5–3 cm; Wild Food UK menyebut 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, dan botany.cz tinggi 3–7 cm serta tebal hingga 2 cm. Batangnya kekar, sering sedikit di luar pusat, licin dan padat, keputihan hingga aprikot pucat, kadang dengan noda kekuningan atau oranye. Tidak ada cincin.",
+      "flesh": "Padat, cukup tebal, dan putih hingga krem pucat, kadang dengan rona merah muda atau kekuningan. Potongan atau memar dapat menguning lemah menjadi oranye-kuning. Bau tidak khas. Rasa mula-mula lembut dan sering menjadi pahit setelah waktu singkat; beberapa panduan Eropa Tengah menyebutnya lembut atau hanya sedikit pahit.",
+      "sporePrint": "Putih. Spora licin dan tidak berwarna, sekitar 6,5–9 × 5,5–8 µm dan hampir bulat hingga elipsoid lebar dalam panduan Eropa yang biasa (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz memberikan ukuran lebih besar, 8–10 × 6–8 µm. Hydnum ellipsosporum dipisahkan oleh spora yang lebih panjang dan jelas elipsoid.",
+      "habitat": "Jamur ektomikoriza lantai hutan, tumbuh di tanah, lumut, dan seresah daun atau jarum, kadang dalam kelompok kecil, busur, atau lingkaran. Ia berasosiasi dengan pohon berdaun jarum dan berdaun lebar, terutama beech, juga oak dan spruce. Cukup umum di Britania dan Irlandia serta di seluruh Eropa daratan, dan juga dilaporkan dari Amerika Utara bagian timur. Tubuh buah muncul dari Juli hingga Desember: di Eropa Tengah sering dari Juli hingga November, dan di Britania serta Irlandia terutama dari Agustus hingga Desember (Wild Food UK menyebut September hingga Desember).",
+      "uses": "Dapat dimakan, dan jamur pangan yang disukai ketika masih muda dan bebas serangga. Tubuh buah yang lebih tua dapat menjadi pahit dan lebih baik dihindari. Di sini ia tidak diperlakukan sebagai jamur pilihan dalam arti yang sama dengan jamur duri pucat. Panduan Eropa yang biasa tidak menganggapnya beracun.",
+      "confusion": "Hydnum repandum lebih besar dan lebih pucat, krem hingga kuning cokelat, dan durinya merunduk sepanjang batang. Hydnum ellipsosporum tampak serupa di lapangan dan dipisahkan oleh spora yang lebih panjang dan jelas elipsoid. Jamur berduri yang lebih gelap, bersisik atau berzona, berdaging seperti kulit, seperti Sarcodon dan Hydnellum, memiliki daging lebih keras dan biasanya duri abu-cokelat. Chanterelle memiliki lipatan tumpul, bukan duri. Kajian mutakhir menunjukkan bahwa Hydnum rufescens dalam arti luas mencakup lebih dari satu spesies; uraian ini mengikuti konsep lapangan Eropa yang biasa tentang jamur duri terakota yang lebih kecil, yang durinya berakhir di batang.",
+      "notes": "Ciri lapangan yang andal adalah gabungan tudung kecil hingga sedang berwarna terakota atau aprikot, duri pucat yang berhenti di batang, dan batang kekar, pucat, serta padat yang sering duduk sedikit di luar pusat.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un idno piccolo, arancio terracotta, dei boschi muschiosi, riconoscibile per un cappello secco, liscio o finemente feltroso, spesso un po’ decentrato sul gambo, e per aculei rosa salmone pallido o albicocca che si fermano al gambo invece di decorrere lungo di esso. Di solito è più piccolo e più vivamente colorato dello steccherino dorato, già presente in questo libro.",
+      "cap": "Il cappello misura tipicamente 2–6 cm di diametro; alcune guide dell’Europa centrale indicano 3–8 cm, e Wild Food UK 3–6 cm. Dapprima convesso, poi appiattito e spesso un po’ depresso, con orlo ondulato o lobato, ancora involuto nei giovani. La superficie è secca, liscia o finemente feltrosa, arancio terracotta o albicocca o bruno-giallastro pallido, spesso più intensa al centro e più pallida verso il margine. Il cappello è spesso un po’ decentrato sul gambo.",
+      "hymenium": "La superficie fertile è densamente coperta di aculei morbidi, fitti e pendenti, tipicamente lunghi 2–4 mm; myko.cz ammette fino a 5 mm e botany.cz fino a 0,5 cm. Sono rosa salmone pallido o albicocca, di solito più pallidi del cappello, e terminano al gambo o poco prima (annessi o quasi liberi), lasciando una fascia pallida evidente all’apice del gambo invece di decorrere lungo di esso.",
+      "stipe": "Il gambo è tipicamente alto 2–4 cm e spesso 1,5–3 cm; Wild Food UK indica 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, e botany.cz 3–7 cm di altezza e fino a 2 cm di spessore. È robusto, spesso un po’ decentrato, liscio e pieno, biancastro o albicocca pallido, a volte con macchie giallastre o aranciate. Manca l’anello.",
+      "flesh": "Soda, piuttosto spessa, bianca o crema pallida, a volte con una tinta rosata o giallastra. Un taglio o una ammaccatura può virare debolmente all’arancio-giallo. L’odore non è caratteristico. Il sapore è dapprima mite e spesso diventa amaro dopo poco tempo; alcune guide dell’Europa centrale lo dicono mite o solo leggermente amaro.",
+      "sporePrint": "Bianca. Le spore sono lisce e incolori, di circa 6,5–9 × 5,5–8 µm e quasi globose o ampiamente ellissoidi nelle guide europee usuali (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz dà una misura maggiore, 8–10 × 6–8 µm. Hydnum ellipsosporum si distingue per spore più lunghe, chiaramente ellissoidi.",
+      "habitat": "Fungo ectomicorrizico del suolo forestale, che cresce su terra, muschio e lettiera di foglie o aghi, a volte in piccoli gruppi, archi o cerchi. Si associa a conifere e a latifoglie, soprattutto al faggio, anche a quercia e abete rosso. È abbastanza comune in Gran Bretagna e Irlanda e in tutta l’Europa continentale, ed è stato segnalato anche nell’est del Nord America. I corpi fruttiferi compaiono da luglio a dicembre: in Europa centrale spesso da luglio a novembre, e in Gran Bretagna e Irlanda soprattutto da agosto a dicembre (Wild Food UK indica settembre-dicembre).",
+      "uses": "Commestibile, e un fungo alimentare apprezzato quando è giovane e privo di insetti. Gli esemplari più vecchi possono diventare amari ed è meglio evitarli. Qui non è trattato come un fungo di prima scelta allo stesso modo dello steccherino dorato. Le guide europee usuali non lo considerano velenoso.",
+      "confusion": "Hydnum repandum è più grande e più pallido, crema o camoscio, e i suoi aculei decorrono lungo il gambo. Hydnum ellipsosporum è simile sul terreno e si distingue per le spore più lunghe, chiaramente ellissoidi. Gli idni più scuri, squamosi o zonati e di carne coriacea, come Sarcodon e Hydnellum, hanno carne più dura e di solito aculei grigio-bruni. I cantarelli hanno pliche ottuse, non aculei. Studi recenti mostrano che Hydnum rufescens in senso lato comprende più di una specie; questa scheda segue il consueto concetto di campo europeo del piccolo idno terracotta con aculei che terminano al gambo.",
+      "notes": "Un carattere di campo affidabile è la combinazione di un cappello piccolo o medio, terracotta o albicocca, di aculei pallidi che si fermano al gambo, e di un gambo robusto, pallido e pieno, spesso un po’ decentrato.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "コケの多い林地に生える小型でテラコッタ橙のハリタケで、乾燥し平滑から細かなフェルト状のカサが柄の中心からやや外れてつくことと、柄に垂れ下がらず柄のところで終わる淡いサーモンピンクからアプリコット色の針で見分けられる。本書にすでに載っている淡色の近縁種よりも、ふつう小さく、色が濃い。",
+      "cap": "カサの直径はふつう 2–6 cm。中欧の図鑑では 3–8 cm、Wild Food UK では 3–6 cm とされる。最初は饅頭形、のちに平らになり、しばしばやや中くぼみになる。縁は波打ち、または浅裂し、若いときは内巻きのままである。表面は乾燥し、平滑から細かなフェルト状で、テラコッタ橙からアプリコット色、または淡い黄褐色、中央ほど濃く縁ほど淡いことが多い。カサはしばしば柄に対してやや偏心してつく。",
+      "hymenium": "子実層面は、柔らかく密生して下向きに垂れる針でおおわれ、長さはふつう 2–4 mm。myko.cz は最大 5 mm、botany.cz は最大 0,5 cm とする。色は淡いサーモンピンクからアプリコット色で、カサより淡いことが多く、柄のところで、またはその直前で終わる（湾生からほぼ離生）。柄の頂点に明瞭な淡色の帯を残し、柄を伝って垂れ下がらない。",
+      "stipe": "柄はふつう高さ 2–4 cm、太さ 1,5–3 cm。Wild Food UK は 4–7 × 1,5–3 cm、myko.cz は 2–7 × 1–2 cm、botany.cz は高さ 3–7 cm、太さ最大 2 cm とする。太く、しばしばやや偏心し、平滑で中実、白っぽいから淡いアプリコット色で、ときに黄または橙の斑が出る。つばはない。",
+      "flesh": "堅く、かなり厚く、白から淡いクリーム色、ときに淡紅色や黄色みを帯びる。切ったり傷つけたりすると、かすかに橙黄色に変色することがある。臭いは特にない。味は最初まろやかで、しばしばしばらくすると苦くなる。中欧の図鑑の一部は、まろやか、またはわずかに苦いだけとする。",
+      "sporePrint": "白色。胞子は平滑で無色、おおよそ 6,5–9 × 5,5–8 µm、通常のヨーロッパの図鑑ではほぼ球形から広楕円形（First Nature 6,5–8 × 5,5–7 µm、myko.cz 6,5–9 × 5,5–8 µm）。botany.cz はより大きい 8–10 × 6–8 µm を示す。Hydnum ellipsosporum は、より長く明らかに楕円形の胞子で区別される。",
+      "habitat": "林地の外生菌根菌で、土壌、コケ、落葉や針葉の堆積の上に生じ、小さな群れ、弧、輪になることもある。針葉樹および広葉樹、とくにブナ、またオークやトウヒと共生する。イギリスとアイルランド、およびヨーロッパ大陸全体でかなり普通で、北アメリカ東部からも報告されている。子実体は 7 月から 12 月に出る。中欧ではしばしば 7 月から 11 月、イギリスとアイルランドでは主に 8 月から 12 月（Wild Food UK は 9 月から 12 月とする）。",
+      "uses": "食用で、若く虫に食われていないうちは好まれる食用菌である。古い子実体は苦くなることがあり、避けた方がよい。ここでは、淡色の近縁種ほど上等な食用菌とは扱わない。通常のヨーロッパの図鑑では有毒とはされていない。",
+      "confusion": "Hydnum repandum はより大きく色が淡く、クリームから淡黄褐色で、針が柄を伝って垂れる。Hydnum ellipsosporum は野外ではよく似ており、より長く明らかに楕円形の胞子で区別される。より暗色で鱗片や環紋があり、革質のハリタケ類、たとえば Sarcodon や Hydnellum は肉がより硬く、針はふつう灰褐色である。アンズタケ類には鈍いひだ状のしわがあり、針はない。近年の研究では、広義の Hydnum rufescens には複数の種が含まれるとされる。この記述は、針が柄のところで終わる小型のテラコッタ色のハリタケという、通常のヨーロッパの野外概念に従う。",
+      "notes": "信頼できる野外の特徴は、小型から中型のテラコッタまたはアプリコット色のカサ、柄のところで終わる淡色の針、そして太く淡色で中実、しばしばやや偏心した柄の組み合わせである。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.gbif.org/species/2544165"
+      ],
+      "label": "イタチハリタケ"
+    },
+    "ko": {
+      "description": "이끼 많은 숲의 작고 테라코타 주황색 치버섯으로, 마르고 매끄럽거나 가는 펠트질인 갓이 대에 다소 치우쳐 달리고, 대를 따라 내려가지 않고 대에서 끝나는 옅은 연어색 내지 살구색 가시에 의해 구별된다. 이미 이 책에 실린 옅은색 근연종보다 보통 더 작고 색이 짙다.",
+      "cap": "갓 지름은 보통 2–6 cm이다. 일부 중부 유럽 도감은 3–8 cm, Wild Food UK는 3–6 cm를 든다. 처음에는 볼록하다가 나중에 편평해지고 종종 약간 오목해지며, 물결치거나 얕게 갈라진 가장자리는 어릴 때 아직 안쪽으로 말려 있다. 표면은 마르고 매끄럽거나 가는 펠트질이며, 테라코타 주황색에서 살구색 또는 옅은 황갈색으로, 가운데가 더 짙고 가장자리가 더 옅은 경우가 많다. 갓은 종종 대 위에서 약간 치우쳐 달린다.",
+      "hymenium": "자실층면은 부드럽고 빽빽하며 아래로 드리운 가시로 촘촘히 덮이며, 길이는 보통 2–4 mm이다. myko.cz는 최대 5 mm, botany.cz는 최대 0,5 cm를 허용한다. 색은 옅은 연어색 내지 살구색으로 갓보다 옅은 경우가 많으며, 대에서 또는 바로 앞에서 끝난다(붙은 것에서 거의 떨어진 것까지). 대를 따라 내려가지 않고 대 꼭대기에 뚜렷한 옅은 띠를 남긴다.",
+      "stipe": "대는 보통 높이 2–4 cm, 두께 1,5–3 cm이다. Wild Food UK는 4–7 × 1,5–3 cm, myko.cz는 2–7 × 1–2 cm, botany.cz는 높이 3–7 cm, 두께 최대 2 cm를 든다. 굵고, 종종 약간 치우치며, 매끄럽고 속이 차 있고, 회백색에서 옅은 살구색이며 때로 노란 또는 주황 반점이 있다. 턱받이는 없다.",
+      "flesh": "단단하고 꽤 두꺼우며 흰색에서 옅은 크림색이고, 때로 분홍 또는 노란 기미가 있다. 자른 면이나 눌린 자국이 약하게 주황노랑으로 변할 수 있다. 냄새는 뚜렷하지 않다. 맛은 처음에는 온화하고 잠시 후면 쓴맛이 나는 경우가 많다. 일부 중부 유럽 도감은 온화하거나 약간만 쓰다고 한다.",
+      "sporePrint": "흰색. 포자는 매끄럽고 무색이며, 약 6,5–9 × 5,5–8 µm이고, 일반적인 유럽 도감에서는 거의 구형에서 넓은 타원형이다(First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz는 더 큰 수치인 8–10 × 6–8 µm를 든다. Hydnum ellipsosporum은 더 길고 분명히 타원인 포자로 구별된다.",
+      "habitat": "숲 바닥의 외생균근성 버섯으로, 흙, 이끼, 낙엽이나 침엽 퇴적물 위에서 자라며, 때로 작은 무리, 호선 또는 균환을 이룬다. 침엽수와 활엽수, 특히 너도밤나무, 또한 참나무와 가문비나무와 공생한다. 영국과 아일랜드 및 유럽 대륙 전역에서 비교적 흔하며, 북아메리카 동부에서도 보고되었다. 자실체는 7월부터 12월까지 나온다. 중부 유럽에서는 흔히 7월부터 11월까지, 영국과 아일랜드에서는 주로 8월부터 12월까지이다(Wild Food UK는 9월부터 12월을 든다).",
+      "uses": "식용이며, 어리고 벌레가 없을 때 즐겨 먹는 식용 버섯이다. 오래된 자실체는 쓸 수 있어 피하는 것이 좋다. 여기서는 옅은색 근연종과 같은 의미의 고급 식용 버섯으로 다루지 않는다. 일반적인 유럽 도감은 독버섯으로 보지 않는다.",
+      "confusion": "Hydnum repandum은 더 크고 색이 옅으며 크림색에서 담황색이고, 가시가 대를 따라 내려간다. Hydnum ellipsosporum은 야외에서 비슷해 보이며 더 길고 분명히 타원인 포자로 구별된다. Sarcodon과 Hydnellum처럼 더 어둡고 비늘이 있거나 테가 있으며 가죽질인 치버섯류는 살이 더 질기고 가시는 보통 회갈색이다. 꾀꼬리버섯류는 무딘 주름이 있지 가시가 없다. 최근 연구는 넓은 의미의 Hydnum rufescens가 둘 이상의 종을 포함한다고 본다. 이 기재는 가시가 대에서 끝나는 작은 테라코타색 치버섯이라는 일반적인 유럽 야외 개념을 따른다.",
+      "notes": "믿을 수 있는 야외 특징은 작거나 중간 크기의 테라코타 또는 살구색 갓, 대에서 끝나는 옅은 가시, 그리고 굵고 옅으며 속이 찬, 종종 약간 치우친 대의 조합이다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Nedidelis, terakotos oranžinis dyglutis samanotuose miškuose, atpažįstamas iš sausos, lygios ar smulkiai veltininės kepurėlės, dažnai šiek tiek pasislinkusios nuo kotelio centro, ir iš blankiai lašišinių ar abrikosinių spyglių, kurie baigiasi prie koto ir juo nenusileidžia. Paprastai jis būna mažesnis ir sodriau nuspalvintas nei raukšlėtasis dyglutis, jau esantis šioje knygoje.",
+      "cap": "Kepurėlė paprastai būna 2–6 cm skersmens; kai kurie Vidurio Europos vadovai nurodo 3–8 cm, o Wild Food UK 3–6 cm. Iš pradžių ji iškili, vėliau suplokštėjusi ir dažnai šiek tiek įdubusi, banguotu ar skiautėtu kraštu, jaunystėje dar užsirietusiu. Paviršius sausas, lygus ar smulkiai veltininis, terakotos oranžinis iki abrikosinio ar blankiai gelsvai rudo, dažnai sodresnis viduryje ir blankesnis link krašto. Kepurėlė dažnai sėdi šiek tiek nuo koto centro.",
+      "hymenium": "Derlingąjį paviršių tankiai dengia minkšti, tankūs, žemyn kabantys spygliukai, paprastai 2–4 mm ilgio; myko.cz leidžia iki 5 mm, o botany.cz iki 0,5 cm. Jie blankiai lašišiniai ar abrikosiniai, paprastai šviesesni už kepurėlę, ir baigiasi prie koto arba tuoj prieš jį (priaugę iki beveik laisvų), palikdami aiškią blankią juostą koto viršūnėje, o ne nusileisdami juo žemyn.",
+      "stipe": "Kotas paprastai būna 2–4 cm aukščio ir 1,5–3 cm storio; Wild Food UK nurodo 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, o botany.cz 3–7 cm aukščio ir iki 2 cm storio. Jis tvirtas, dažnai šiek tiek pasislinkęs, lygus ir kietas, balkšvas iki blankiai abrikosinio, kartais su gelsvomis ar oranžinėmis dėmėmis. Žiedo nėra.",
+      "flesh": "Stangri, gana stora, balta iki blankiai kreminės, kartais su rožiniu ar gelsvu atspalviu. Pjūvis ar prispaudimas gali silpnai pagelsti iki oranžinės geltonos. Kvapas nėra būdingas. Skonis iš pradžių švelnus ir dažnai po trumpo laiko tampa kartus; kai kurie Vidurio Europos vadovai jį vadina švelniu arba tik silpnai kartoku.",
+      "sporePrint": "Balta. Sporos lygios ir bespalvės, apie 6,5–9 × 5,5–8 µm ir beveik rutuliškos iki plačiai elipsoidinės įprastuose Europos vadovuose (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz nurodo didesnį matmenį, 8–10 × 6–8 µm. Hydnum ellipsosporum skiriasi ilgesnėmis, aiškiai elipsoidinėmis sporomis.",
+      "habitat": "Ektomikorizinis grybas miško dirvožemyje, augantis ant žemės, samanose ir lapų ar spyglių paklotėje, kartais nedidelėmis grupėmis, lankais ar ratais. Jis gyvena kartu su spygliuočiais ir lapuočiais, ypač su bukais, taip pat su ąžuolais ir eglėmis. Gana dažnas Didžiojoje Britanijoje ir Airijoje bei visoje žemyninėje Europoje, taip pat nurodytas rytinėje Šiaurės Amerikoje. Vaisiakūniai pasirodo nuo liepos iki gruodžio: Vidurio Europoje dažnai nuo liepos iki lapkričio, o Didžiojoje Britanijoje ir Airijoje daugiausia nuo rugpjūčio iki gruodžio (Wild Food UK nurodo rugsėjį–gruodį).",
+      "uses": "Valgomas ir mėgstamas maistinis grybas, kol jaunas ir be kirmėlių. Senesni vaisiakūniai gali apkarsti, ir geriau jų vengti. Čia jis nelaikomas tokia pat rinktinė valgiąja rūšimi kaip raukšlėtasis dyglutis. Įprasti Europos vadovai nelaiko jo nuodingu.",
+      "confusion": "Hydnum repandum yra didesnis ir blankesnis, kreminis iki gelsvai rudas, o jo spygliukai nusileidžia kotu. Hydnum ellipsosporum lauke atrodo panašiai ir skiriasi ilgesnėmis, aiškiai elipsoidinėmis sporomis. Tamsesni, žvynuoti ar juostuoti, odiški dyglutiniai grybai, tokie kaip Sarcodon ir Hydnellum, turi kietesnį minkštimą ir paprastai pilkšvai rudus spygliukus. Voveraitės turi bukas raukšles, ne spygliukus. Naujesni tyrimai rodo, kad Hydnum rufescens platesne prasme apima ne vieną rūšį; šis aprašymas laikosi įprastos europinės lauko sampratos apie mažesnį, terakotos spalvos dyglutį, kurio spygliukai baigiasi prie koto.",
+      "notes": "Patikimas lauko požymis yra mažos ar vidutinės terakotos ar abrikosinės kepurėlės, blankių spygliukų, baigiančių prie koto, ir tvirto, blankaus, kieto koto, dažnai šiek tiek pasislinkusio nuo centro, derinys.",
+      "names": [
+        "Mėsingasis dyglutis"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q2475470",
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Rausvagelsvis dyglutis"
+    },
+    "lv": {
+      "description": "Neliela, terakotas oranža kliņģerene sūņainos mežos, atpazīstama pēc sausas, gludas līdz smalki filcainas cepurītes, kas bieži sēž nedaudz ārpus kātiņa centra, un pēc bāli laša līdz aprikožu krāsas dzeloņiem, kas beidzas pie kātiņa un pa to nenolaižas. Parasti tā ir mazāka un intensīvāk krāsota nekā dzeltenā kliņģerene, kas jau ir šajā grāmatā.",
+      "cap": "Cepurīte parasti ir 2–6 cm plata; daži Viduseiropas ceļveži norāda 3–8 cm, bet Wild Food UK 3–6 cm. Sākumā tā ir izliekta, vēlāk saplacināta un bieži nedaudz ieliekta, ar viļņotu vai daivainu malu, kas jaunumā vēl ir ieritināta. Virsma ir sausa, gluda līdz smalki filcaina, terakotas oranža līdz aprikožu vai bāli dzeltenbrūna, bieži intensīvāka centrā un bālāka pret malu. Cepurīte bieži sēž nedaudz ārpus kātiņa centra.",
+      "hymenium": "Auglīgo virsmu blīvi klāj mīksti, blīvi, uz leju karājoši dzelonīši, parasti 2–4 mm gari; myko.cz pieļauj līdz 5 mm, bet botany.cz līdz 0,5 cm. Tie ir bāli laša līdz aprikožu krāsā, parasti gaišāki par cepurīti, un beidzas pie kātiņa vai tieši pirms tā (pieauguši līdz gandrīz brīviem), atstājot skaidru bālu joslu kātiņa galā, nevis nolaižoties pa to uz leju.",
+      "stipe": "Kātiņš parasti ir 2–4 cm augsts un 1,5–3 cm resns; Wild Food UK norāda 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, bet botany.cz 3–7 cm augstu un līdz 2 cm resnu. Tas ir tvirts, bieži nedaudz ārpus centra, gluds un pildīts, bālgans līdz bāli aprikožu krāsai, dažreiz ar dzeltenīgiem vai oranžiem plankumiem. Gredzena nav.",
+      "flesh": "Blīva, diezgan bieza un balta līdz bāli krēmkrāsai, dažreiz ar rozīgu vai dzeltenīgu toni. Griezums vai nospiedums var vāji iezelt līdz oranži dzeltenam. Smarža nav raksturīga. Garša sākumā ir maiga un bieži pēc īsa laika kļūst rūgta; daži Viduseiropas ceļveži to dēvē par maigu vai tikai viegli rūgtenu.",
+      "sporePrint": "Balta. Sporas ir gludas un bezkrāsainas, apmēram 6,5–9 × 5,5–8 µm un gandrīz lodveida līdz plati elipsoidālas parastajos Eiropas ceļvežos (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz norāda lielāku mēru, 8–10 × 6–8 µm. Hydnum ellipsosporum atšķiras ar garākām, skaidri elipsoidālām sporām.",
+      "habitat": "Ektomikorizas sēne meža zemsedzē, kas aug uz augsnes, sūnās un lapu vai skuju kritalā, dažreiz nelielās grupās, lokos vai riņķos. Tā dzīvo kopā ar skuju kokiem un lapu kokiem, īpaši ar beku, arī ar ozolu un egli. Tā ir diezgan bieži sastopama Lielbritānijā un Īrijā un visā kontinentālajā Eiropā, un ir norādīta arī Austrumu Ziemeļamerikā. Augļķermeņi parādās no jūlija līdz decembrim: Viduseiropā bieži no jūlija līdz novembrim, bet Lielbritānijā un Īrijā galvenokārt no augusta līdz decembrim (Wild Food UK norāda septembri–decembri).",
+      "uses": "Ēdama un iecienīta pārtikas sēne, kamēr tā ir jauna un bez tārpiem. Vecāki augļķermeņi var kļūt rūgti, un no tiem labāk izvairīties. Šeit tā netiek uzskatīta par tikpat izcilu ēdamo sēni kā dzeltenā kliņģerene. Parastie Eiropas ceļveži to neuzskata par indīgu.",
+      "confusion": "Hydnum repandum ir lielāka un bālāka, krēmkrāsā līdz okera krāsai, un tās dzelonīši nolaižas pa kātiņu. Hydnum ellipsosporum laukā izskatās līdzīgi un atšķiras ar garākām, skaidri elipsoidālām sporām. Tumšākas, zvīņainas vai joslotas, ādainas dzeloņainās sēnes, piemēram, Sarcodon un Hydnellum, ir stingrākas mīkstuma un parasti pelēkbrūniem dzelonīšiem. Gaišenēm ir strupi ielocījumi, nevis dzelonīši. Jaunāki pētījumi rāda, ka Hydnum rufescens plašākā nozīmē ietver vairāk nekā vienu sugu; šis apraksts seko parastajai Eiropas lauka izpratnei par mazāku, terakotas krāsas kliņģereni, kuras dzelonīši beidzas pie kātiņa.",
+      "notes": "Uzticama lauka pazīme ir nelielas līdz vidējas terakotas vai aprikožu cepurītes, bālu dzelonīšu, kas beidzas pie kātiņa, un tvirta, bāla, pildīta kātiņa, kas bieži sēž nedaudz ārpus centra, kopums.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Rūsganā kliņģerene"
+    },
+    "nl": {
+      "description": "Een kleine, terracottaoranje stekelzwam van bemoste bossen, herkenbaar aan een droge, gladde tot fijn viltige hoed die vaak iets uit het midden op de steel zit, en aan bleek zalm- tot abrikooskleurige stekels die bij de steel ophouden en er niet langs aflopen. Hij is gewoonlijk kleiner en dieper gekleurd dan de gele stekelzwam, die al in dit boek staat.",
+      "cap": "De hoed is typisch 2–6 cm breed; sommige Midden-Europese gidsen geven 3–8 cm, Wild Food UK 3–6 cm. Eerst is hij gewelfd, later afgeplat en vaak iets ingedeukt, met een golfachtige of gelobde rand die jong nog ingerold blijft. Het oppervlak is droog, glad tot fijn viltig, terracottaoranje tot abrikooskleurig of bleek geelbruin, vaak dieper naar het midden en bleker naar de rand. De hoed zit vaak iets uit het midden op de steel.",
+      "hymenium": "Het fertiele oppervlak is dicht bedekt met zachte, opeengedrongen, neerhangende stekels, typisch 2–4 mm lang; myko.cz staat tot 5 mm toe, botany.cz tot 0,5 cm. Ze zijn bleek zalm- tot abrikooskleurig, gewoonlijk bleker dan de hoed, en eindigen bij of vlak voor de steel (aangehecht tot bijna vrij), zodat aan de steeltop een duidelijke bleke band blijft en ze niet langs de steel aflopen.",
+      "stipe": "De steel is typisch 2–4 cm hoog en 1,5–3 cm dik; Wild Food UK geeft 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, en botany.cz 3–7 cm hoog en tot 2 cm dik. Hij is stevig, vaak iets uit het midden, glad en vol, en witachtig tot bleek abrikooskleurig, soms met geelachtige of oranje vlekken. Een ring ontbreekt.",
+      "flesh": "Stevig, vrij dik, en wit tot bleek roomkleurig, soms met een roze of geelachtige tint. Een snede of drukplek kan zwak oranjegeel verkleuren. De geur is niet opvallend. De smaak is eerst mild en wordt vaak na korte tijd bitter; sommige Midden-Europese gidsen noemen hem mild of slechts licht bitter.",
+      "sporePrint": "Wit. De sporen zijn glad en kleurloos, ongeveer 6,5–9 × 5,5–8 µm en bijna bolvormig tot breed ellipsoïd in de gebruikelijke Europese gidsen (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz geeft een grotere maat, 8–10 × 6–8 µm. Hydnum ellipsosporum onderscheidt zich door langere, duidelijk ellipsoïde sporen.",
+      "habitat": "Een ectomycorrhizavormende paddenstoel van de bosbodem, groeiend op grond, in mos en in blad- of naaldstrooisel, soms in kleine groepjes, bogen of kringen. Hij leeft samen met naald- en loofbomen, vooral beuk, ook eik en spar. Hij is vrij algemeen in Groot-Brittannië en Ierland en in heel vasteland-Europa, en is ook uit het oosten van Noord-Amerika opgegeven. Vruchtlichamen verschijnen van juli tot december: in Midden-Europa vaak van juli tot november, in Groot-Brittannië en Ierland vooral van augustus tot december (Wild Food UK noemt september tot december).",
+      "uses": "Eetbaar en een geliefde eetbare paddenstoel zolang hij jong is en vrij van maden. Oudere vruchtlichamen kunnen bitter worden en laat je beter staan. Hier beschouwen we hem niet als een even voortreffelijke eetbare soort als de gele stekelzwam. De gebruikelijke Europese gidsen beschouwen hem niet als giftig.",
+      "confusion": "Hydnum repandum is groter en bleker, room- tot okerkleurig, en de stekels lopen langs de steel af. Hydnum ellipsosporum lijkt in het veld sterk en onderscheidt zich door langere, duidelijk ellipsoïde sporen. Donkerdere, schubbige of gezoneerde, taaie stekelzwammen zoals Sarcodon en Hydnellum hebben taaier vlees en gewoonlijk grijze tot bruine stekels. Cantharellen hebben stompe richels, geen stekels. Recent onderzoek toont dat Hydnum rufescens in ruime zin meer dan één soort omvat; deze beschrijving volgt het gebruikelijke Europese veldbeeld van de kleinere, terracotta stekelzwam waarvan de stekels bij de steel eindigen.",
+      "notes": "Een betrouwbaar veldkenmerk is de combinatie van een kleine tot middelgrote terracotta- of abrikooskleurige hoed, bleke stekels die bij de steel ophouden, en een stevige, bleke, volle steel die vaak iets uit het midden zit.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2544165",
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Rossige stekelzwam"
+    },
+    "no": {
+      "description": "En liten, terrakottaoransje piggsopp i moserik skog, kjent på en tørr, glatt til fint filtet hatt som ofte sitter litt utenfor midten på stilken, og på blekt lakse- til aprikosfargede pigger som stopper ved stilken og ikke løper nedover den. Den er vanligvis mindre og mer mettet i fargen enn sørlig blek piggsopp, som allerede står i denne boken.",
+      "cap": "Hatten er typisk 2–6 cm bred; enkelte sentraleuropeiske håndbøker oppgir 3–8 cm, Wild Food UK 3–6 cm. Først er den hvelvet, senere avflatet og ofte litt nedtrykt, med en bølget eller lappet kant som hos unge fruktlegemer fortsatt er innrullet. Overflaten er tørr, glatt til fint filtet, terrakottaoransje til aprikosfarget eller blekt gulbrun, ofte dypere mot midten og blekere mot kanten. Hatten sitter ofte litt utenfor midten på stilken.",
+      "hymenium": "Den fertile overflaten er tett dekket av myke, tette, nedhengende pigger, typisk 2–4 mm lange; myko.cz tillater inntil 5 mm, botany.cz inntil 0,5 cm. De er blekt lakse- til aprikosfargede, vanligvis blekere enn hatten, og ender ved eller like foran stilken (tilheftede til nesten frie), slik at det blir et tydelig blekt bånd ved stilketoppen, i stedet for at de løper nedover stilken.",
+      "stipe": "Stilken er typisk 2–4 cm høy og 1,5–3 cm tykk; Wild Food UK oppgir 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, og botany.cz 3–7 cm høy og inntil 2 cm tykk. Den er kraftig, ofte litt utenfor midten, glatt og fast, og hvitaktig til blekt aprikosfarget, av og til med gulaktige eller oransje flekker. Ring mangler.",
+      "flesh": "Fast, ganske tykt og hvitt til blekt kremfarget, av og til med et rosa eller gulaktig skjær. Et snitt eller et trykkmerke kan svakt gulne til oransjegult. Lukten er ikke karakteristisk. Smaken er først mild og blir ofte bitter etter kort tid; enkelte sentraleuropeiske håndbøker kaller den mild eller bare svakt bitter.",
+      "sporePrint": "Hvitt. Sporene er glatte og fargeløse, om lag 6,5–9 × 5,5–8 µm og nesten kuleformede til bredt ellipsoide i de vanlige europeiske håndbøkene (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz oppgir et større mål, 8–10 × 6–8 µm. Hydnum ellipsosporum skilles ved lengre, tydelig ellipsoide sporer.",
+      "habitat": "En ektomykorrhizadannende sopp på skogbunnen, som vokser på jord, i mose og i løv- eller barnålsstrø, av og til i små grupper, buer eller ringer. Den lever sammen med bar- og løvtrær, særlig bøk, også eik og gran. Den er ganske vanlig i Storbritannia og Irland og i hele det kontinentale Europa, og er også rapportert fra østlige Nord-Amerika. Fruktlegemer vises fra juli til desember: i Sentral-Europa ofte fra juli til november, i Storbritannia og Irland hovedsakelig fra august til desember (Wild Food UK oppgir september til desember).",
+      "uses": "Spiselig og en populær matsopp så lenge den er ung og fri for makk. Eldre fruktlegemer kan bli bitre og bør unngås. Her regnes den ikke som en like utsøkt matsopp som sørlig blek piggsopp. Vanlige europeiske håndbøker omtaler den ikke som giftig.",
+      "confusion": "Hydnum repandum er større og blekere, krem- til okerfarget, og piggene løper nedover stilken. Hydnum ellipsosporum ligner i felt og skilles ved lengre, tydelig ellipsoide sporer. Mørkere, skjellede eller sonerte, læraktige piggsopper som Sarcodon og Hydnellum har seigere kjøtt og vanligvis gråbrune pigger. Kantareller har butte folder, ikke pigger. Nyere studier viser at Hydnum rufescens i vid forstand omfatter mer enn én art; denne beskrivelsen følger det vanlige europeiske feltbegrepet om den mindre, terrakottafargede piggsoppen hvis pigger ender ved stilken.",
+      "notes": "Et pålitelig feltkjennetegn er kombinasjonen av en liten til middels stor terrakotta- eller aprikosfarget hatt, bleke pigger som stopper ved stilken, og en kraftig, blek, fast stilk som ofte sitter litt utenfor midten.",
+      "names": [
+        "Rødgul piggsopp"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2544165",
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "sørlig rødgul piggsopp"
+    },
+    "pl": {
+      "description": "Mniejszy, ceglastopomarańczowy kolczak leśnych mchów, rozpoznawany po suchym, gładkim do delikatnie filcowatego kapeluszu, który często siedzi nieco mimośrodowo na trzonie, oraz po bladolososowych do morelowych kolcach, które kończą się przy trzonie i nie zbiegają po nim. Zwykle jest mniejszy i intensywniej zabarwiony niż kolczak obłączasty, już obecny w tym atlasie.",
+      "cap": "Kapelusz ma typowo 2–6 cm średnicy; niektóre środkowoeuropejskie opracowania podają 3–8 cm, a Wild Food UK 3–6 cm. Najpierw jest wypukły, potem spłaszczony i często lekko wklęsły, o falistym lub klapowanym brzegu, który w młodości pozostaje podwinięty. Powierzchnia jest sucha, gładka do delikatnie filcowatej, ceglastopomarańczowa do morelowej lub blado płowej, często ciemniejsza w środku i jaśniejsza przy brzegu. Kapelusz często siedzi nieco mimośrodowo na trzonie.",
+      "hymenium": "Powierzchnię zarodnikonośną gęsto pokrywają miękkie, stłoczone, zwisające kolce, typowo długości 2–4 mm; myko.cz dopuszcza do 5 mm, a botany.cz do 0,5 cm. Są bladolososowe do morelowych, zwykle jaśniejsze od kapelusza, i kończą się przy trzonie lub tuż przed nim (przyrośnięte do niemal wolnych), pozostawiając wyraźny jasny pasek u szczytu trzonu, zamiast zbiegać po nim.",
+      "stipe": "Trzon ma typowo 2–4 cm wysokości i 1,5–3 cm grubości; Wild Food UK podaje 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, a botany.cz 3–7 cm wysokości i do 2 cm grubości. Jest krępy, często nieco mimośrodowy, gładki i pełny, białawy do blado morelowego, czasem z żółtawymi lub pomarańczowymi plamkami. Pierścienia brak.",
+      "flesh": "Zwięzły, dość gruby, biały do blado kremowego, czasem z różowawym lub żółtawym odcieniem. Przekrój lub obtłoczone miejsce może słabo zżółknąć do pomarańczowożółtego. Zapach nie jest charakterystyczny. Smak jest z początku łagodny i często po chwili gorzknieje; niektóre środkowoeuropejskie opracowania określają go jako łagodny lub tylko lekko gorzkawy.",
+      "sporePrint": "Biały. Zarodniki są gładkie i bezbarwne, około 6,5–9 × 5,5–8 µm i niemal kuliste do szeroko elipsoidalnych w typowych europejskich opracowaniach (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz podaje większy wymiar, 8–10 × 6–8 µm. Hydnum ellipsosporum odróżnia się dłuższymi, wyraźnie elipsoidalnymi zarodnikami.",
+      "habitat": "Grzyb ektomykoryzowy runa leśnego, rosnący na glebie, wśród mchów oraz w ściółce liściastej lub iglastej, czasem w małych grupach, łukach lub kręgach. Tworzy mykoryzę z drzewami iglastymi i liściastymi, zwłaszcza z bukiem, także z dębem i świerkiem. Jest dość pospolity w Wielkiej Brytanii i Irlandii oraz w całej kontynentalnej Europie, a notowano go też we wschodniej Ameryce Północnej. Owocniki pojawiają się od lipca do grudnia: w Europie Środkowej często od lipca do listopada, a w Wielkiej Brytanii i Irlandii głównie od sierpnia do grudnia (Wild Food UK podaje wrzesień–grudzień).",
+      "uses": "Jadalny i popularny grzyb jadalny, gdy jest młody i wolny od robaków. Starsze owocniki mogą gorzknieć i lepiej ich unikać. Nie traktujemy go tu jako grzyba wybornie jadalnego w tym samym stopniu co kolczaka obłączastego. Typowe europejskie opracowania nie uważają go za trujący.",
+      "confusion": "Hydnum repandum jest większy i jaśniejszy, kremowy do płowego, a jego kolce zbiegają po trzonie. Hydnum ellipsosporum jest w terenie podobny i odróżnia się dłuższymi, wyraźnie elipsoidalnymi zarodnikami. Ciemniejsze, łuskowate lub strefowane, skórzaste grzyby kolczaste, takie jak Sarcodon i Hydnellum, mają twardszy miąższ i zwykle szarobrązowe kolce. Pieprzniki mają tępe żeberka, nie kolce. Nowsze badania pokazują, że Hydnum rufescens w szerokim ujęciu obejmuje więcej niż jeden gatunek; ten opis trzyma się typowego europejskiego ujęcia terenowego mniejszego, ceglastego kolczaka z kolcami kończącymi się przy trzonie.",
+      "notes": "Pewną cechą terenową jest połączenie małego lub średniego ceglastego lub morelowego kapelusza, jasnych kolców kończących się przy trzonie oraz krępego, jasnego, pełnego trzonu, często nieco mimośrodowego.",
+      "names": [
+        "Kolczak czerwonożółty",
+        "Kolczak rudy"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470",
+        "https://pl.wikipedia.org/wiki/Kolczak_rudawy",
+        "https://www.wildfooduk.com/mushroom-guide/terracotta-hedgehog/"
+      ],
+      "label": "Kolczak rudawy"
+    },
+    "pt": {
+      "description": "Um hidno pequeno, de cor laranja terracota, de bosques musgosos, reconhecível por um chapéu seco, liso a finamente felpudo, que muitas vezes assenta um pouco descentrado no pé, e por agulhões de cor salmão pálido a alperce que terminam no pé em vez de decorrerem por ele. Costuma ser mais pequeno e de cor mais viva do que a língua-de-vaca, já presente neste livro.",
+      "cap": "O chapéu tem tipicamente 2–6 cm de diâmetro; alguns guias da Europa Central indicam 3–8 cm, e a Wild Food UK 3–6 cm. Primeiro é convexo, depois achatado e muitas vezes um pouco deprimido, com margem ondulada ou lobada, ainda enrolada nos jovens. A superfície é seca, lisa a finamente felpuda, de laranja terracota a alperce ou pardo pálido, muitas vezes mais intensa no centro e mais pálida na margem. O chapéu fica muitas vezes um pouco descentrado no pé.",
+      "hymenium": "A face fértil está densamente coberta de agulhões macios, apertados e pendentes, tipicamente com 2–4 mm de comprimento; myko.cz admite até 5 mm e botany.cz até 0,5 cm. São de cor salmão pálido a alperce, em geral mais pálidos do que o chapéu, e terminam no pé ou imediatamente antes (anexos a quase livres), deixando uma faixa pálida nítida no ápice do pé, em vez de descerem por ele.",
+      "stipe": "O pé tem tipicamente 2–4 cm de altura e 1,5–3 cm de espessura; a Wild Food UK indica 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, e botany.cz 3–7 cm de altura e até 2 cm de espessura. É robusto, muitas vezes um pouco descentrado, liso e maciço, esbranquiçado a alperce pálido, por vezes com manchas amareladas ou alaranjadas. Não há anel.",
+      "flesh": "Firme, bastante espessa, branca a creme pálida, por vezes com um tom rosado ou amarelado. Um corte ou uma nódoa pode amarelecer ténue para alaranjado. O cheiro não é distintivo. O sabor é no início suave e muitas vezes torna-se amargo ao fim de pouco tempo; alguns guias da Europa Central descrevem-no como suave ou apenas ligeiramente amargo.",
+      "sporePrint": "Branca. Os esporos são lisos e incolores, com cerca de 6,5–9 × 5,5–8 µm e quase globosos a largamente elipsoides nos guias europeus habituais (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz dá uma medida maior, 8–10 × 6–8 µm. Hydnum ellipsosporum distingue-se por esporos mais longos, claramente elipsoides.",
+      "habitat": "Fungo ectomicorrízico do solo florestal, que cresce em terra, musgo e folhada ou agulhas, por vezes em pequenos grupos, arcos ou círculos. Associa-se a coníferas e a árvores de folha larga, sobretudo faia, também carvalho e espruce. É bastante comum na Grã-Bretanha e na Irlanda e em toda a Europa continental, e também foi referido no leste da América do Norte. Os corpos frutíferos aparecem de julho a dezembro: na Europa Central muitas vezes de julho a novembro, e na Grã-Bretanha e na Irlanda sobretudo de agosto a dezembro (a Wild Food UK indica setembro a dezembro).",
+      "uses": "Comestível, e um fungo alimentar apreciado quando é jovem e está livre de insetos. Os exemplares mais velhos podem amargar e é melhor evitá-los. Aqui não é tratado como um cogumelo de escolha no mesmo sentido que a língua-de-vaca. Os guias europeus habituais não o consideram venenoso.",
+      "confusion": "Hydnum repandum é maior e mais pálido, de cor creme a camurça, e os seus agulhões decorrem pelo pé. Hydnum ellipsosporum parece semelhante no campo e distingue-se pelos esporos mais longos, claramente elipsoides. Os fungos hidnoides mais escuros, escamosos ou zonados e de carne coriácea, como Sarcodon e Hydnellum, têm carne mais dura e geralmente agulhões pardo-acinzentados. Os cantarelos têm pregas obtusas, não agulhões. Estudos recentes mostram que Hydnum rufescens em sentido amplo inclui mais do que uma espécie; esta ficha segue o conceito de campo europeu habitual do hidno terracota mais pequeno, com agulhões que terminam no pé.",
+      "notes": "Um caráter de campo fiável é a combinação de um chapéu pequeno a médio de cor terracota ou alperce, agulhões pálidos que param no pé, e um pé robusto, pálido e maciço, muitas vezes um pouco descentrado.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Gasalhos"
+    },
+    "ro": {
+      "description": "Un hidn mic, portocaliu-teracotă, al pădurilor mușchioase, recunoscut după o pălărie uscată, netedă până la fin pâsloasă, adesea puțin excentrică pe picior, și după țepi de culoare somon pal până la caisă, care se opresc la picior în loc să coboare pe el. Este de obicei mai mic și mai intens colorat decât flocoșelul, deja prezent în această carte.",
+      "cap": "Pălăria are de obicei 2–6 cm în diametru; unele ghiduri din Europa Centrală dau 3–8 cm, iar Wild Food UK 3–6 cm. La început este convexă, apoi aplatizată și adesea ușor deprimată, cu marginea ondulată sau lobată, încă răsucită la tineri. Suprafața este uscată, netedă până la fin pâsloasă, portocaliu-teracotă până la caisă sau brun-gălbui pal, adesea mai intensă la centru și mai pală spre margine. Pălăria stă adesea puțin excentric pe picior.",
+      "hymenium": "Fața fertilă este dens acoperită cu țepi moi, înghesuiți, atârnând în jos, de obicei lungi de 2–4 mm; myko.cz admite până la 5 mm, iar botany.cz până la 0,5 cm. Sunt de culoare somon pal până la caisă, de regulă mai palizi decât pălăria, și se termină la picior sau imediat înainte (adnexați până aproape liberi), lăsând o bandă pală limpede la vârful piciorului, în loc să coboare pe el.",
+      "stipe": "Piciorul are de obicei 2–4 cm înălțime și 1,5–3 cm grosime; Wild Food UK indică 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, iar botany.cz 3–7 cm înălțime și până la 2 cm grosime. Este robust, adesea puțin excentric, neted și plin, albicios până la caisă pal, uneori cu pete gălbui sau portocalii. Nu există inel.",
+      "flesh": "Fermă, destul de groasă, albă până la crem pal, uneori cu o nuanță rozalie sau gălbuie. O tăietură sau o zdrelire poate îngălbeni slab spre portocaliu-galben. Mirosul nu este distinctiv. Gustul este la început blând și devine adesea amar după puțin timp; unele ghiduri din Europa Centrală îl descriu ca blând sau doar ușor amar.",
+      "sporePrint": "Albă. Sporii sunt netezi și incolori, de circa 6,5–9 × 5,5–8 µm și aproape globuloși până la larg elipsoidali în ghidurile europene obișnuite (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz dă o măsură mai mare, 8–10 × 6–8 µm. Hydnum ellipsosporum se deosebește prin spori mai lungi, clar elipsoidali.",
+      "habitat": "Ciupercă ectomicorizantă a solului forestier, care crește pe pământ, în mușchi și în litieră de frunze sau ace, uneori în grupuri mici, arcuri sau cercuri. Se asociază cu rășinoase și cu foioase, mai ales cu fagul, de asemenea cu stejarul și molidul. Este destul de comună în Marea Britanie și Irlanda și în toată Europa continentală, și a fost semnalată și în estul Americii de Nord. Corpurile de fructificație apar din iulie până în decembrie: în Europa Centrală adesea din iulie până în noiembrie, iar în Marea Britanie și Irlanda mai ales din august până în decembrie (Wild Food UK indică septembrie–decembrie).",
+      "uses": "Comestibilă și o ciupercă alimentară apreciată când este tânără și lipsită de insecte. Exemplarele mai bătrâne pot deveni amare și este mai bine evitate. Aici nu este tratată ca o ciupercă de soi în același sens ca flocoșelul. Ghidurile europene obișnuite nu o consideră otrăvitoare.",
+      "confusion": "Hydnum repandum este mai mare și mai palid, crem până la ocru, iar țepii săi coboară pe picior. Hydnum ellipsosporum arată similar în teren și se deosebește prin sporii mai lungi, clar elipsoidali. Hidnii mai închiși, solzoși sau zonați, cu carne pieleoasă, precum Sarcodon și Hydnellum, au carne mai tare și de obicei țepi cenușiu-bruni. Chanterelele au cute obtuze, nu țepi. Studii recente arată că Hydnum rufescens în sens larg include mai multe specii; această descriere urmează conceptul de teren european obișnuit al hidnului terracotta mai mic, cu țepi care se opresc la picior.",
+      "notes": "Un caracter de teren de încredere este combinația dintre o pălărie mică până la mijlocie, terracotta sau caisă, țepi palizi care se opresc la picior, și un picior robust, palid și plin, adesea puțin excentric.",
+      "names": [
+        "piei de oaie fierbinte"
+      ],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Hydnum_rufescens"
+      ],
+      "label": "arici roșu-galben"
+    },
+    "ru": {
+      "description": "Небольшой терракотово-оранжевый ежовик моховых лесов, который узнают по сухой, гладкой или тонко войлочной шляпке, часто слегка эксцентричной на ножке, и по бледно-лососевым или абрикосовым шипикам, которые заканчиваются у ножки и не сбегают по ней. Обычно он мельче и насыщеннее окрашен, чем жёлтый ежовик, уже включённый в эту книгу.",
+      "cap": "Шляпка обычно 2–6 см в диаметре; некоторые центральноевропейские определители указывают 3–8 см, а Wild Food UK — 3–6 см. Сначала она выпуклая, затем уплощённая и часто слегка вдавленная, с волнистым или лопастным краем, у молодых ещё подвёрнутым. Поверхность сухая, гладкая или тонко войлочная, терракотово-оранжевая до абрикосовой или бледно-желтовато-бурой, часто насыщеннее к центру и бледнее к краю. Шляпка часто сидит немного эксцентрично на ножке.",
+      "hymenium": "Плодущую поверхность густо покрывают мягкие, тесные, вниз свисающие шипики, обычно длиной 2–4 мм; myko.cz допускает до 5 мм, а botany.cz — до 0,5 cm. Они бледно-лососевые или абрикосовые, обычно бледнее шляпки, и заканчиваются у ножки или сразу перед ней (приросшие до почти свободных), оставляя у вершины ножки явную бледную полоску и не сбегая по ней.",
+      "stipe": "Ножка обычно 2–4 см высотой и 1,5–3 см толщиной; Wild Food UK указывает 4–7 × 1,5–3 см, myko.cz — 2–7 × 1–2 см, а botany.cz — 3–7 см в высоту и до 2 см в толщину. Она крепкая, часто слегка эксцентричная, гладкая и выполненная, беловатая до бледно-абрикосовой, иногда с желтоватыми или оранжевыми пятнами. Кольца нет.",
+      "flesh": "Плотная, довольно толстая, белая до бледно-кремовой, иногда с розоватым или желтоватым оттенком. Срез или вмятина могут слабо желтеть до оранжево-жёлтого. Запах не характерный. Вкус сначала мягкий и часто через короткое время становится горьким; некоторые центральноевропейские определители называют его мягким или лишь слегка горьковатым.",
+      "sporePrint": "Белый. Споры гладкие и бесцветные, около 6,5–9 × 5,5–8 µm и почти шаровидные до широкоэллипсоидных в обычных европейских определителях (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz даёт более крупный размер, 8–10 × 6–8 µm. Hydnum ellipsosporum отличают более длинные, явно эллипсоидные споры.",
+      "habitat": "Эктомикоризный гриб лесной почвы, растущий на земле, во мху и в листовом или хвойном опаде, иногда небольшими группами, дугами или кругами. Он связан с хвойными и широколиственными деревьями, особенно с буком, а также с дубом и елью. Довольно обычен в Великобритании и Ирландии и по всей континентальной Европе, отмечен также на востоке Северной Америки. Плодовые тела появляются с июля по декабрь: в Центральной Европе часто с июля по ноябрь, а в Великобритании и Ирландии в основном с августа по декабрь (Wild Food UK указывает сентябрь–декабрь).",
+      "uses": "Съедобен и популярен как пищевой гриб, пока молод и не червив. Более старые плодовые тела могут горчить, и их лучше не брать. Здесь его не считают таким же отборным съедобным грибом, как жёлтый ежовик. Обычные европейские определители не считают его ядовитым.",
+      "confusion": "Hydnum repandum крупнее и бледнее, кремовый до палевого, и его шипики сбегают по ножке. Hydnum ellipsosporum в природе похож и отличается более длинными, явно эллипсоидными спорами. Более тёмные, чешуйчатые или зональные, кожистые ежовиковые грибы, такие как Sarcodon и Hydnellum, имеют более жёсткую мякоть и обычно серо-коричневые шипики. Лисички имеют тупые складки, а не шипики. Недавние исследования показывают, что Hydnum rufescens в широком смысле включает более одного вида; это описание следует обычному европейскому полевому понятию меньшего терракотового ежовика, у которого шипики заканчиваются у ножки.",
+      "notes": "Надёжный полевой признак — сочетание небольшой или средней терракотовой или абрикосовой шляпки, бледных шипиков, заканчивающихся у ножки, и крепкой, бледной, выполненной ножки, часто слегка эксцентричной.",
+      "names": [
+        "Гиднум рыжеющий",
+        "Ежевик рыжеющий",
+        "Ежовик красновато-жёлтый"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "Ежовик рыжеющий"
+    },
+    "sk": {
+      "description": "Menšia, tehlovo oranžová jelenka machovitých lesov, ktorú spoznáme podľa suchého, hladkého až jemne plstnatého klobúka, ktorý často sedí trochu mimo stredu hlúbika, a podľa bledo lososových až marhuľových ostňov, ktoré sa končia pri hlúbiku a nezbiehajú po ňom. Býva zvyčajne menšia a sýtejšie sfarbená ako jelenka poprehýbaná, ktorá je už v tomto atlase.",
+      "cap": "Klobúk má typicky 2–6 cm v priemere; niektoré stredoeurópske príručky uvádzajú 3–8 cm a Wild Food UK 3–6 cm. Najprv je vypuklý, neskôr sploštený a často slabo prehĺbený, s zvlneným alebo laločnatým okrajom, ktorý je v mladosti ešte podvinutý. Povrch je suchý, hladký až jemne plstnatý, tehlovo oranžový až marhuľový alebo bledohnedasto žltý, často sýtejší v strede a bledší pri okraji. Klobúk často sedí trochu mimo stredu hlúbika.",
+      "hymenium": "Úrodný povrch husto pokrývajú mäkké, husté, nadol visiace ostne, typicky 2–4 mm dlhé; myko.cz pripúšťa až 5 mm a botany.cz až 0,5 cm. Sú bledo lososové až marhuľové, zvyčajne bledšie ako klobúk, a končia sa pri hlúbiku alebo tesne pred ním (pripojené až takmer voľné), takže na vrchole hlúbika ostáva zreteľný bledý pásik a po hlúbiku nezbiehajú.",
+      "stipe": "Hlúbik je typicky 2–4 cm vysoký a 1,5–3 cm hrubý; Wild Food UK uvádza 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm a botany.cz 3–7 cm na výšku a až 2 cm na hrúbku. Je pevný, často trochu mimo stredu, hladký a plný, belavý až bledomarhuľový, niekedy so žltkastými alebo oranžovými škvrnami. Prsteň chýba.",
+      "flesh": "Pevná, pomerne hrubá, biela až bledokrémová, niekedy s ružovým alebo žltkastým nádychom. Rez alebo otlačené miesto môže slabo zožltnúť až oranžovožlto. Vôňa nie je výrazná. Chuť je najprv mierna a často po chvíli zhorkne; niektoré stredoeurópske príručky ju označujú za miernu alebo len slabo horkastú.",
+      "sporePrint": "Biely. Výtrusy sú hladké a bezfarebné, asi 6,5–9 × 5,5–8 µm a takmer guľovité až široko elipsoidné podľa obvyklých európskych príručiek (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz uvádza väčší rozmer, 8–10 × 6–8 µm. Hydnum ellipsosporum sa oddelí dlhšími, zreteľne elipsoidnými výtrusmi.",
+      "habitat": "Mykorízna huba lesnej pôdy, rastúca na zemi, v machu a v listovom alebo ihličnatom opade, niekedy v malých skupinách, oblúkoch alebo kruhoch. Žije v symbióze s ihličnanmi aj listnatými stromami, predovšetkým s bukom, tiež s dubom a smrekom. Je pomerne hojná v Británii a Írsku i v celej pevninskej Európe a bola zaznamenaná aj vo východnej Severnej Amerike. Plodnice sa objavujú od júla do decembra: v strednej Európe často od júla do novembra a v Británii a Írsku predovšetkým od augusta do decembra (Wild Food UK uvádza september až december).",
+      "uses": "Jedlá a obľúbená jedlá huba, kým je mladá a bez červivosti. Staršie plodnice môžu zhorknúť a je lepšie ich nezbierať. Tu ju nepokladáme za pochúťku v tom istom zmysle ako jelenku poprehýbanú. Bežné európske príručky ju neoznačujú za jedovatú.",
+      "confusion": "Hydnum repandum je väčšia a bledšia, krémová až okrová, a jej ostne zbiehajú po hlúbiku. Hydnum ellipsosporum je v teréne podobná a oddelí sa dlhšími, zreteľne elipsoidnými výtrusmi. Tmavé, šupinaté alebo pásikavé, kožovité ostňovité huby, ako sú jelenkovce (Sarcodon) a jelenkovky (Hydnellum), majú tužšiu dužinu a zvyčajne sivohnedé ostne. Kuriatka majú tupé rýhy, nie ostne. Novšie štúdie ukazujú, že Hydnum rufescens v širšom zmysle zahŕňa viac druhov; tento popis sa drží obvyklého európskeho terénneho poňatia menšej, tehlovo sfarbenej jelenky s ostňami, ktoré sa končia pri hlúbiku.",
+      "notes": "Spoľahlivým terénnym znakom je kombinácia malého až stredného tehlového alebo marhuľového klobúka, bledých ostňov, ktoré sa končia pri hlúbiku, a pevného, bledého, plného hlúbika, ktorý často sedí trochu mimo stredu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://botany.cz/cs/hydnum-rufescens/"
+      ],
+      "label": "jelenka ryšavá"
+    },
+    "sl": {
+      "description": "Manjša, opečnato oranžna ježevka mahovnatih gozdov, ki jo prepoznamo po suhem, gladkem do fino plstnatem klobuku, ki pogosto sedi nekoliko izven središča beta, in po bledo lososovih do mareličnih bodicah, ki se končajo pri betu in ne tečejo po njem navzdol. Običajno je manjša in bolj nasičeno obarvana kot rumeni ježek, ki je že v tem atlasu.",
+      "cap": "Klobuk ima običajno premer 2–6 cm; nekateri srednjeevropski priročniki navajajo 3–8 cm, Wild Food UK pa 3–6 cm. Najprej je izbočen, nato sploščen in pogosto rahlo vdrt, z valovitim ali krpastim robom, ki je v mladosti še podvinjen. Površina je suha, gladka do fino plstnata, opečnato oranžna do marelična ali bledo rumenkasto rjava, pogosto temnejša na sredini in bledša proti robu. Klobuk pogosto sedi nekoliko izven središča beta.",
+      "hymenium": "Trosovnico gosto pokrivajo mehke, goste, navzdol viséče bodice, običajno dolge 2–4 mm; myko.cz dopušča do 5 mm, botany.cz pa do 0,5 cm. So bledo lososove do marelične, običajno bledše od klobuka, in se končajo pri betu ali tik pred njim (prirasle do skoraj proste), tako da na vrhu beta ostane jasen bled pas in po betu ne tečejo navzdol.",
+      "stipe": "Bet je običajno visok 2–4 cm in debel 1,5–3 cm; Wild Food UK navaja 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, botany.cz pa 3–7 cm višine in do 2 cm debeline. Je čokat, pogosto nekoliko izven središča, gladek in poln, belkast do bledo mareličen, včasih z rumenkastimi ali oranžnimi pegami. Obroča ni.",
+      "flesh": "Čvrsto, precej debelo in belo do bledo kremasto, včasih z rožnatim ali rumenkastim odtenkom. Prerez ali zatislina lahko rahlo porumeni do oranžno rumeno. Vonj ni značilen. Okus je sprva blag in pogosto po kratkem času postane grenak; nekateri srednjeevropski priročniki ga označujejo kot blagega ali le rahlo grenkega.",
+      "sporePrint": "Bel. Trosi so gladki in brezbarvni, približno 6,5–9 × 5,5–8 µm in skoraj okrogli do široko elipsoidni v običajnih evropskih priročnikih (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz navaja večjo mero, 8–10 × 6–8 µm. Hydnum ellipsosporum ločimo po daljših, jasno elipsoidnih trosih.",
+      "habitat": "Ektomikorizna goba gozdnih tal, ki raste na prsti, v mahu in v listnem ali igličnem opadu, včasih v majhnih skupinah, lokih ali krogih. Živi v sožitju z iglavci in listavci, zlasti z bukvijo, tudi z hrastom in smreko. Je precej pogosta v Britaniji in na Irskem ter po vsej celinski Evropi, zabeležena pa je tudi v vzhodni Severni Ameriki. Trosišča se pojavljajo od julija do decembra: v srednji Evropi pogosto od julija do novembra, v Britaniji in na Irskem predvsem od avgusta do decembra (Wild Food UK navaja september do december).",
+      "uses": "Užitna in priljubljena jedilna goba, dokler je mlada in brez črvivosti. Starejša trosišča lahko postanejo grenka in se jim je bolje izogniti. Tu je ne obravnavamo kot odlično jedilno gobo v enakem pomenu kot rumenega ježka. Običajni evropski priročniki je ne označujejo za strupeno.",
+      "confusion": "Hydnum repandum je večji in bledši, kremast do okrov, njegove bodice pa tečejo po betu navzdol. Hydnum ellipsosporum je na terenu podoben in ga ločimo po daljših, jasno elipsoidnih trosih. Temnejše, luskaste ali conaste, usnjate bodicaste gobe, kot sta Sarcodon in Hydnellum, imajo čvrstejše meso in običajno sivo rjave bodice. Lisičke imajo tope grebene, ne bodic. Novejše raziskave kažejo, da Hydnum rufescens v širšem pomenu vključuje več vrst; ta opis sledi običajnemu evropskemu terenskemu pojmovanju manjšega, opečnato obarvanega ježka z bodicami, ki se končajo pri betu.",
+      "notes": "Zanesljiva terenska značilnost je kombinacija majhnega do srednje velikega opečnatega ali mareličnega klobuka, bledih bodic, ki se končajo pri betu, in čokatega, bledega, polnega beta, ki pogosto sedi nekoliko izven središča.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470"
+      ],
+      "label": "rdečkasti ježek"
+    },
+    "sr": {
+      "description": "Мања, цигласто наранџаста јежевица маховитих шума, препознатљива по сувом, глатком до фино филцастом шеширу који често седи мало ван средине дршке, и по бледолососовим до кајсијастим бодљама које се завршавају на дршци и не спуштају се низ њу. Обично је мања и засићеније обојена од жуте јежевице, која је већ у овом атласу.",
+      "cap": "Шешир је типично широк 2–6 cm; неки средњоевропски приручници наводе 3–8 cm, а Wild Food UK 3–6 cm. Најпре је испупчен, затим спљоштен и често благо удубљен, са таласастом или режњевитом ивицом која је у младости још подвијена. Површина је сува, глатка до фино филцаста, цигласто наранџаста до кајсијаста или бледо жућкастосмеђа, често тамнија у средини и светлија према ивици. Шешир често седи мало ван средине дршке.",
+      "hymenium": "Плодну површину густо покривају меке, збијене, наниже висеће бодље, типично дуге 2–4 mm; myko.cz допушта до 5 mm, а botany.cz до 0,5 cm. Бледолососове су до кајсијасте, обично светлије од шешира, и завршавају се на дршци или непосредно пред њом (прирасле до готово слободне), остављајући јасан бледи појас на врху дршке, уместо да се спуштају низ њу.",
+      "stipe": "Дршка је типично висока 2–4 cm и дебела 1,5–3 cm; Wild Food UK наводи 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, а botany.cz 3–7 cm висине и до 2 cm дебљине. Чврста је, често мало ван средине, глатка и пуна, беличаста до бледо кајсијаста, понекад са жућкастим или наранџастим мрљама. Прстена нема.",
+      "flesh": "Чврсто, прилично дебело и бело до бледо крем, понекад са ружичастим или жућкастим тоном. Пресек или утиснуто место може слабо да пожути до наранџастожуто. Мирис није особит. Укус је најпре благ и често после кратког времена постане горак; неки средњоевропски приручници га описују као благ или само слабо горак.",
+      "sporePrint": "Бео. Споре су глатке и безбојне, око 6,5–9 × 5,5–8 µm и готово лоптасте до широко елипсоидне у уобичајеним европским приручницима (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz наводи већу меру, 8–10 × 6–8 µm. Hydnum ellipsosporum се одваја дужим, јасно елипсоидним спорама.",
+      "habitat": "Ектомикоризна гљива шумског тла, која расте на земљи, у маховини и у лисном или четинарском опаду, понекад у малим групама, луковима или круговима. Живи у симбиози са четинарима и лишћарима, нарочито са буквом, такође са храстом и смрчом. Прилично је честа у Британији и Ирској и широм континенталне Европе, а забележена је и у источној Северној Америци. Плодна тела се јављају од јула до децембра: у средњој Европи често од јула до новембра, а у Британији и Ирској углавном од августа до децембра (Wild Food UK наводи септембар до децембар).",
+      "uses": "Јстива и омиљена јестива гљива док је млада и без црвљивости. Старија плодна тела могу да постану горка и боље их је избегавати. Овде је не сматрамо врхунском јестивом гљивом у истом смислу као жуту јежевицу. Уобичајени европски приручници је не сматрају отровном.",
+      "confusion": "Hydnum repandum је већи и светлији, крем до окераст, а његове бодље спуштају се низ дршку. Hydnum ellipsosporum је на терену сличан и одваја се дужим, јасно елипсоидним спорама. Тамније, љускаве или зониране, кожасте бодљасте гљиве, као што су Sarcodon и Hydnellum, имају чвршће месо и обично сивосмеђе бодље. Лисичарке имају тупе наборе, а не бодље. Новија истраживања показују да Hydnum rufescens у ширем смислу укључује више врста; овај опис прати уобичајено европско теренско схватање мање, цигласто обојене јежевице са бодљама које се завршавају на дршци.",
+      "notes": "Поуздано теренско обележје је спој малог до средње великог цигластог или кајсијастог шешира, бледих бодљи које се завршавају на дршци, и чврсте, бледе, пуне дршке која често седи мало ван средине.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten, terrakottaorange taggsvamp i mossiga skogar, känd på en torr, slät till fint filtluden hatt som ofta sitter lite excentriskt på foten, och på blekt lax- till aprikosfärgade taggar som slutar vid foten och inte löper nedför den. Den är vanligen mindre och mer mättat färgad än blek taggsvamp, som redan finns i denna bok.",
+      "cap": "Hatten är typiskt 2–6 cm bred; vissa centraleuropeiska verk anger 3–8 cm, Wild Food UK 3–6 cm. Först är den välvd, sedan tillplattad och ofta något nedsänkt, med en vågig eller flikig kant som hos unga fruktkroppar fortfarande är invikt. Ytan är torr, slät till fint filtluden, terrakottaorange till aprikosfärgad eller blekt gulbrun, ofta djupare mot mitten och blekare mot kanten. Hatten sitter ofta lite excentriskt på foten.",
+      "hymenium": "Den fertila ytan är tätt täckt av mjuka, tättsittande, nedhängande taggar, typiskt 2–4 mm långa; myko.cz tillåter upp till 5 mm, botany.cz upp till 0,5 cm. De är blekt lax- till aprikosfärgade, vanligen blekare än hatten, och slutar vid eller strax före foten (vidfästa till nästan fria), så att ett tydligt blekt band finns kvar vid fotens topp, i stället för att de löper nedför foten.",
+      "stipe": "Foten är typiskt 2–4 cm hög och 1,5–3 cm tjock; Wild Food UK anger 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, och botany.cz 3–7 cm hög och upp till 2 cm tjock. Den är kraftig, ofta något excentrisk, slät och solid, och vitaktig till blekt aprikosfärgad, ibland med gulaktiga eller orangefärgade fläckar. Ring saknas.",
+      "flesh": "Fast, tämligen tjock och vit till blekt gräddfärgad, ibland med en rosa eller gulaktig ton. Ett snitt eller ett tryckmärke kan svagt gulna till orangegult. Lukten är inte karakteristisk. Smaken är först mild och blir ofta bitter efter en stund; vissa centraleuropeiska verk kallar den mild eller bara svagt bitter.",
+      "sporePrint": "Vitt. Sporerna är släta och färglösa, ungefär 6,5–9 × 5,5–8 µm och nästan klotformiga till brett ellipsoida i de vanliga europeiska verken (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz anger ett större mått, 8–10 × 6–8 µm. Hydnum ellipsosporum skiljs genom längre, tydligt ellipsoida sporer.",
+      "habitat": "En ektomykorrhizabildande svamp på skogsbotten, som växer på jord, i mossa och i löv- eller barrförna, ibland i små grupper, bågar eller ringar. Den lever tillsammans med barr- och lövträd, särskilt bok, även ek och gran. Den är tämligen allmän i Storbritannien och Irland och i hela det kontinentala Europa, och har också rapporterats från östra Nordamerika. Fruktkroppar uppträder från juli till december: i Centraleuropa ofta från juli till november, i Storbritannien och Irland främst från augusti till december (Wild Food UK anger september till december).",
+      "uses": "Ätlig och en uppskattad matsvamp så länge den är ung och fri från mask. Äldre fruktkroppar kan bli bittra och bör undvikas. Här betraktas den inte som en lika utsökt matsvamp som blek taggsvamp. Vanliga europeiska verk betraktar den inte som giftig.",
+      "confusion": "Hydnum repandum är större och blekare, grädd- till ockrafärgad, och dess taggar löper nedför foten. Hydnum ellipsosporum liknar den i fält och skiljs genom längre, tydligt ellipsoida sporer. Mörkare, fjälliga eller zonerade, läderartade taggsvampar som Sarcodon och Hydnellum har segare kött och vanligen gråbruna taggar. Kantareller har trubbiga åsar, inte taggar. Nyare studier visar att Hydnum rufescens i vid mening omfattar mer än en art; denna beskrivning följer det vanliga europeiska fältbegreppet av den mindre, terrakottafärgade taggsvampen vars taggar slutar vid foten.",
+      "notes": "Ett tillförlitligt fältkännetecken är kombinationen av en liten till medelstor terrakotta- eller aprikosfärgad hatt, bleka taggar som slutar vid foten, och en kraftig, blek, solid fot som ofta sitter lite excentriskt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866",
+        "https://www.wikidata.org/wiki/Q2475470",
+        "https://sv.wikipedia.org/wiki/Rödgul_taggsvamp"
+      ],
+      "label": "rödgul taggsvamp"
+    },
+    "tr": {
+      "description": "Yosunlu ormanların küçük, terracotta turuncusu bir sığırdili mantarı; kuru, pürüzsüz veya ince keçemsi, gövde üzerinde çoğu zaman biraz merkez dışına oturmuş şapkası ve gövdeye inmek yerine gövdede sona eren soluk somon ile kayısı renginde dikenleriyle tanınır. Bu kitapta zaten bulunan beyaz sığır dili mantarından genellikle daha küçük ve daha canlı renklidir.",
+      "cap": "Şapka tipik olarak 2–6 cm çaptadır; bazı Orta Avrupa kılavuzları 3–8 cm, Wild Food UK ise 3–6 cm verir. Önce dışbükeydir, sonra yassılaşır ve çoğu zaman biraz çukurlaşır; dalgalı veya loplu kenarı gençken hâlâ içe kıvrıktır. Yüzey kuru, pürüzsüz veya ince keçemsidir, terracotta turuncusundan kayısıya veya soluk sarımsı kahverengiye değişir, çoğu zaman merkeze doğru daha koyu, kenara doğru daha soluktur. Şapka çoğu zaman gövde üzerinde biraz merkez dışına oturur.",
+      "hymenium": "Verimli yüzey, tipik olarak 2–4 mm uzunluğunda, yumuşak, sık ve aşağı sarkan dikenlerle sıkça kaplıdır; myko.cz 5 mm’ye, botany.cz 0,5 cm’ye kadar izin verir. Dikenler soluk somon ile kayısı rengindedir, genellikle şapkadan daha soluktur ve gövdede veya hemen öncesinde biter (bitişik ile neredeyse serbest), gövde tepesinde belirgin soluk bir bant bırakır ve gövde boyunca inmez.",
+      "stipe": "Gövde tipik olarak 2–4 cm boyunda ve 1,5–3 cm kalınlığındadır; Wild Food UK 4–7 × 1,5–3 cm, myko.cz 2–7 × 1–2 cm, botany.cz ise 3–7 cm boy ve 2 cm’ye kadar kalınlık verir. Sağlam, çoğu zaman biraz merkez dışı, pürüzsüz ve doludur; beyazımsı ile soluk kayısı rengindedir, bazen sarımsı veya turuncu lekeler taşır. Halka yoktur.",
+      "flesh": "Sıkı, oldukça kalın ve beyaz ile soluk krem rengindedir, bazen pembemsi veya sarımsı bir ton alır. Kesik veya ezilme hafifçe turuncu sarıya dönebilir. Koku ayırt edici değildir. Tat önce yumuşaktır ve çoğu zaman kısa süre sonra acılaşır; bazı Orta Avrupa kılavuzları onu yumuşak veya yalnızca hafif acı olarak niteler.",
+      "sporePrint": "Beyaz. Sporlar pürüzsüz ve renksizdir, yaklaşık 6,5–9 × 5,5–8 µm olup alışılmış Avrupa kılavuzlarında hemen hemen küresel ile geniş elipsoittir (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz daha büyük bir ölçü verir, 8–10 × 6–8 µm. Hydnum ellipsosporum daha uzun, açıkça elipsoit sporlarıyla ayrılır.",
+      "habitat": "Orman tabanının ektomikorizal bir mantarıdır; toprakta, yosunda ve yaprak veya iğne döküntüsünde, bazen küçük gruplar, yaylar veya halkalar halinde büyür. İğne yapraklılar ve geniş yapraklı ağaçlarla, özellikle kayınla, ayrıca meşe ve ladinle ortak yaşar. Britanya ve İrlanda’da ve bütün kara Avrupası’nda oldukça yaygındır ve Doğu Kuzey Amerika’dan da bildirilmiştir. Meyve gövdeleri temmuzdan aralığa kadar çıkar: Orta Avrupa’da çoğu zaman temmuzdan kasıma, Britanya ve İrlanda’da başlıca ağustostan aralığa (Wild Food UK eylülden aralığa verir).",
+      "uses": "Yenilebilir ve gençken, böcek zararı yokken sevilen bir yemek mantarıdır. Yaşlı meyve gövdeleri acılaşabilir ve bunlardan kaçınmak daha iyidir. Burada, beyaz sığır dili mantarı kadar seçkin bir yenilebilir tür olarak ele alınmaz. Alışılmış Avrupa kılavuzları onu zehirli saymaz.",
+      "confusion": "Hydnum repandum daha büyük ve daha soluktur, krem ile sarımsı kahverengi arasındadır ve dikenleri gövde boyunca iner. Hydnum ellipsosporum arazide benzer görünür ve daha uzun, açıkça elipsoit sporlarıyla ayrılır. Sarcodon ve Hydnellum gibi daha koyu, pullu veya kuşaklı, derimsi dikenli mantarların eti daha serttir ve dikenleri genellikle gri-kahverengidir. Cantharellus türlerinin küt kıvrımları vardır, dikenleri değil. Son çalışmalar, geniş anlamda Hydnum rufescens’in birden fazla tür içerdiğini gösterir; bu anlatım, dikenleri gövdede sona eren daha küçük terracotta sığırdili mantarının alışılmış Avrupa arazi kavramını izler.",
+      "notes": "Güvenilir bir arazi işareti, küçük veya orta boy terracotta ya da kayısı renginde bir şapka, gövdede duran soluk dikenler ve çoğu zaman biraz merkez dışı, sağlam, soluk, dolu bir gövdenin birleşimidir.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "Sarı Sığırdili"
+    },
+    "uk": {
+      "description": "Невеликий теракотово-помаранчевий їжовик мохових лісів, який пізнають за сухою, гладкою або тонко повстистою шапинкою, що часто сидить трохи збоку від ніжки, і за блідо-лососевими або абрикосовими шипиками, які закінчуються біля ніжки і не збігають по ній. Звичайно він менший і насиченіше забарвлений, ніж жовтуватий їжовик, уже вміщений у цій книзі.",
+      "cap": "Шапинка зазвичай 2–6 см у діаметрі; деякі середньоєвропейські визначники вказують 3–8 см, а Wild Food UK — 3–6 см. Спочатку вона опукла, потім сплощена і часто трохи вдавлена, з хвилястим або лопатевим краєм, у молодих ще загорнутим униз. Поверхня суха, гладка або тонко повстиста, теракотово-помаранчева до абрикосової чи блідо-жовтувато-бурої, часто насиченіша до центру й блідіша до краю. Шапинка часто сидить трохи ексцентрично на ніжці.",
+      "hymenium": "Плідну поверхню густо вкривають м’які, щільні, униз звисаючі шипики, зазвичай завдовжки 2–4 мм; myko.cz допускає до 5 мм, а botany.cz — до 0,5 cm. Вони блідо-лососеві або абрикосові, звичайно блідіші за шапинку, і закінчуються біля ніжки або безпосередньо перед нею (прирослі до майже вільних), залишаючи на верхівці ніжки явну бліду смужку і не збігаючи по ній.",
+      "stipe": "Ніжка зазвичай 2–4 см заввишки і 1,5–3 см завтовшки; Wild Food UK вказує 4–7 × 1,5–3 см, myko.cz — 2–7 × 1–2 см, а botany.cz — 3–7 см заввишки і до 2 см завтовшки. Вона міцна, часто трохи ексцентрична, гладка і суцільна, білувата до блідо-абрикосової, іноді з жовтуватими або помаранчевими плямами. Кільця немає.",
+      "flesh": "Щільна, досить товста, біла до блідо-кремової, іноді з рожевуватим або жовтуватим відтінком. Зріз або вм’ятина можуть слабко жовтіти до помаранчево-жовтого. Запах не характерний. Смак спочатку м’який і часто за короткий час стає гірким; деякі середньоєвропейські визначники називають його м’яким або лише злегка гіркуватим.",
+      "sporePrint": "Білий. Спори гладкі й безбарвні, близько 6,5–9 × 5,5–8 µm і майже кулясті до широко еліпсоїдних у звичайних європейських визначниках (First Nature 6,5–8 × 5,5–7 µm; myko.cz 6,5–9 × 5,5–8 µm). botany.cz дає більший розмір, 8–10 × 6–8 µm. Hydnum ellipsosporum відрізняють довші, явно еліпсоїдні спори.",
+      "habitat": "Ектомікоризний гриб лісового ґрунту, що росте на землі, у моху та в листяній або хвойній підстилці, іноді невеликими групами, дугами чи колами. Він пов’язаний із хвойними та широколистяними деревами, особливо з буком, а також із дубом і смерекою. Досить звичайний у Великій Британії та Ірландії й по всій континентальній Європі, зазначений також на сході Північної Америки. Плодові тіла з’являються з липня до грудня: у Центральній Європі часто з липня до листопада, а у Великій Британії та Ірландії переважно з серпня до грудня (Wild Food UK вказує вересень–грудень).",
+      "uses": "Їстівний і популярний як харчовий гриб, поки молодий і не червивий. Старіші плодові тіла можуть гірчити, і їх краще не брати. Тут його не вважають таким самим добірним їстівним грибом, як жовтуватий їжовик. Звичайні європейські визначники не вважають його отруйним.",
+      "confusion": "Hydnum repandum більший і блідіший, кремовий до палевого, і його шипики збігають по ніжці. Hydnum ellipsosporum у природі подібний і відрізняється довшими, явно еліпсоїдними спорами. Темніші, лускаті або зональні, шкірясті їжовикові гриби, такі як Sarcodon і Hydnellum, мають жорсткішу м’якоть і зазвичай сіро-коричневі шипики. Лисички мають тупі складки, а не шипики. Недавні дослідження показують, що Hydnum rufescens у широкому розумінні включає більш ніж один вид; цей опис дотримується звичайного європейського польового поняття меншого теракотового їжовика, у якого шипики закінчуються біля ніжки.",
+      "notes": "Надійна польова ознака — поєднання невеликої або середньої теракотової чи абрикосової шапинки, блідих шипиків, що закінчуються біля ніжки, і міцної, блідої, суцільної ніжки, часто трохи ексцентричної.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "苔藓林地中的小型砖红橙色齿菌，以干燥、平滑至细毡状、常略偏生于柄上的菌盖，以及在柄部终止而不沿柄下延的淡鲑红至杏色刺为特征。它通常比本书中已收录的浅色近缘种更小、颜色更深。",
+      "cap": "菌盖直径通常为 2–6 cm；一些中欧图鉴给出 3–8 cm，Wild Food UK 给出 3–6 cm。最初凸起，随后变平，常略下凹，边缘波状或浅裂，幼时仍内卷。表面干燥，平滑至细毡状，呈砖红橙至杏色或浅黄褐色，中央常较深、边缘较淡。菌盖常略偏生于柄上。",
+      "hymenium": "孕面密被柔软、拥挤、下垂的刺，通常长 2–4 mm；myko.cz 允许至 5 mm，botany.cz 允许至 0,5 cm。刺呈淡鲑红至杏色，通常比菌盖更淡，在柄部或紧靠柄前终止（近生至几乎离生），在柄顶留下明显的淡色带，而不沿柄下延。",
+      "stipe": "菌柄通常高 2–4 cm、粗 1,5–3 cm；Wild Food UK 给出 4–7 × 1,5–3 cm，myko.cz 给出 2–7 × 1–2 cm，botany.cz 给出高 3–7 cm、粗可达 2 cm。柄粗壮，常略偏生，平滑实心，污白至淡杏色，有时带黄或橙色斑点。无菌环。",
+      "flesh": "坚实、较厚，白色至淡奶油色，有时带粉红或黄色调。切割或碰伤处可微微变为橙黄色。气味不明显。味道起初温和，常在片刻后变苦；一些中欧图鉴称之为温和或仅微苦。",
+      "sporePrint": "白色。孢子平滑无色，约 6,5–9 × 5,5–8 µm，在常见欧洲图鉴中近球形至宽椭圆形（First Nature 6,5–8 × 5,5–7 µm；myko.cz 6,5–9 × 5,5–8 µm）。botany.cz 给出更大数值，8–10 × 6–8 µm。Hydnum ellipsosporum 以更长、明显椭圆形的孢子相区别。",
+      "habitat": "林地土壤上的外生菌根真菌，生于土表、苔藓及落叶或针叶层中，有时成小群、弧或圈。与针叶树及阔叶树共生，尤其是山毛榉，也与栎和云杉共生。在英国、爱尔兰及整个欧洲大陆相当常见，东亚北美洲亦有报道。子实体见于 7 月至 12 月：中欧常为 7 月至 11 月，英国和爱尔兰主要为 8 月至 12 月（Wild Food UK 给出 9 月至 12 月）。",
+      "uses": "可食用，幼嫩且无虫蛀时是受欢迎的食用菌。较老的子实体可能变苦，最好避开。此处不把它当作与浅色近缘种同等的上品食用菌。常见欧洲图鉴不将其视为有毒。",
+      "confusion": "Hydnum repandum 较大较淡，呈奶油色至浅黄褐色，刺沿柄下延。Hydnum ellipsosporum 在野外相似，以更长、明显椭圆形的孢子相区别。较暗、具鳞或有环带、肉质革质的齿菌，如 Sarcodon 和 Hydnellum，菌肉更韧，刺通常灰褐色。鸡油菌具钝棱而不具刺。近期研究表明广义的 Hydnum rufescens 包含不止一个种；本记述遵循通常的欧洲野外概念，即刺在柄部终止的较小砖红齿菌。",
+      "notes": "可靠的野外特征是小型至中型砖红或杏色菌盖、在柄部终止的淡色刺，以及粗壮、淡色、实心且常略偏生的菌柄的组合。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/340866"
+      ],
+      "label": "变红齿菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Dentinum rufescens",
+      "author": "(Pers.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "synonym",
+      "if": 296549
+    },
+    {
+      "name": "Tyrodon rufescens",
+      "author": "(Pers.) P. Karst.",
+      "year": 1889,
+      "rank": "species",
+      "type": "synonym",
+      "if": 472011
+    },
+    {
+      "name": "Hydnum sulcatipes",
+      "author": "Peck",
+      "year": 1907,
+      "rank": "species",
+      "type": "synonym",
+      "if": 205323
+    }
+  ],
+  "reserved": false,
+  "id": 234,
+  "citation": "Observ. mycol. (Lipsiae) 2: 95 (1800) [1799]"
 }
 ];

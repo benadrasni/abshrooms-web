@@ -1181,15 +1181,31 @@ export const TAXA = {
     sk: "rôsolovka"
   },
   Bolbitiaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "hnojovcovité"
   },
   Bolbitius: {
-    rank: "genus"
+    rank: "genus",
+    sk: "hnojovec"
   },
   Schizophyllaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "klanolupeňovkovité"
   },
   Schizophyllum: {
+    rank: "genus",
+    sk: "klanolupeňovka"
+  },
+  Xylariomycetidae: {
+    rank: "subclass"
+  },
+  Xylariales: {
+    rank: "order"
+  },
+  Xylariaceae: {
+    rank: "family"
+  },
+  Xylaria: {
     rank: "genus"
   }
 };
