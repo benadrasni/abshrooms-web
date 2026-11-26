@@ -1,7 +1,7 @@
 // One allowlist for the Identify page, the filter event, and page_path.
 // A new cap colour is added here and nowhere else.
 
-export const KEY_UNDER = ['gills', 'tubes', 'ridges', 'teeth', 'pits', 'smooth', 'gleba'];
+export const KEY_UNDER = ['gills', 'tubes', 'ridges', 'folds', 'teeth', 'pits', 'smooth', 'gleba'];
 export const KEY_WHERE = ['wood', 'ground', 'grass'];
 export const KEY_COLOR = ['white', 'yellow', 'red', 'brown', 'green', 'purple', 'dark'];
 export const KEY_SEASON = ['spring', 'summer', 'autumn', 'winter'];

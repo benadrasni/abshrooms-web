@@ -227598,5 +227598,2103 @@ export const CATALOG = [
   "reserved": false,
   "id": 225,
   "citation": "Fl. Calvados: 34 (1796)"
+},
+{
+  "name": "Tremella mesenterica",
+  "author": "(Schaeff.) Pers.",
+  "family": "Tremellaceae",
+  "genus": "Tremella",
+  "order": "Tremellales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Tremellomycetes",
+    "Incertae sedis",
+    "Tremellales",
+    "Tremellaceae",
+    "Tremella"
+  ],
+  "summary": [
+    "Tremellales",
+    "Tremellaceae",
+    "Tremella"
+  ],
+  "edibility": "edible",
+  "hymenium": "folds",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow"
+  ],
+  "capFrom": 2.0,
+  "capTo": 8.0,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "ar": "تريميلا ميسينتيركا",
+    "bg": "Жълта тремела",
+    "cs": "rosolovka mozkovitá",
+    "da": "Gul bævresvamp",
+    "de": "Goldgelber Zitterling",
+    "en": "yellow brain",
+    "es": "Hongo temblón amarillo",
+    "et": "kollane kõhrik",
+    "fa": "قارچ مغز زرد",
+    "fi": "keltahytykkä",
+    "fr": "Trémelle mésentérique",
+    "he": "קרישית זהובה",
+    "hr": "Naborana drhtalica",
+    "hu": "aranyos rezgőgomba",
+    "ja": "コガネニカワタケ",
+    "ko": "황금흰목이",
+    "lt": "Raukšlinis žiūrytis",
+    "lv": "Dzeltenā receklene",
+    "nl": "gele trilzwam",
+    "no": "gul gelésopp",
+    "pl": "Trzęsak pomarańczowożółty",
+    "ru": "Дрожалка оранжевая",
+    "sk": "rôsolovka zlatožltá",
+    "sl": "rumena drhtavka",
+    "sv": "Gullkrös",
+    "tr": "Sarıpelte mantarı",
+    "uk": "Дрижалка помаранчева",
+    "zh": "橙黄银耳"
+  },
+  "names": {
+    "ar": [],
+    "bg": [
+      "Жълта желирана гъба",
+      "Жълта желатинова гъба"
+    ],
+    "cs": [
+      "rosolovka mozková",
+      "rosolovka střevovitá"
+    ],
+    "da": [],
+    "de": [
+      "Großer Laubholzzitterling"
+    ],
+    "en": [
+      "golden jelly fungus",
+      "yellow trembler",
+      "witches' butter",
+      "witch's butter",
+      "yellow brain fungus"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "Trzęsak pomarańczowy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "Тремелла брыжейковая"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [
+      "Saripelte"
+    ],
+    "uk": [
+      "Тремела звивиста",
+      "Дрожалка помаранчева"
+    ],
+    "zh": [
+      "金黄银耳",
+      "金黃銀耳"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=350980",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=350980",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=350980",
+      "https://www.gbif.org/species/11945016",
+      "https://www.first-nature.com/fungi/tremella-mesenterica.php",
+      "https://www.myko.cz/myko-atlas/Tremella-mesenterica/",
+      "https://botany.cz/cs/tremella-mesenterica/",
+      "https://en.wikipedia.org/wiki/Tremella_mesenterica",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "ar": [
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Rosolovka_mozkovit%C3%A1",
+      "https://botany.cz/cs/tremella-mesenterica/",
+      "https://www.myko.cz/myko-atlas/Tremella-mesenterica/",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Goldgelber_Zitterling",
+      "https://123pilzsuche.de/daten/details/GoldgelberZitter.htm",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "es": [
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "et": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "fa": [
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "fi": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "fr": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "he": [
+      "https://www.gbif.org/species/11945016"
+    ],
+    "hi": [],
+    "hr": [
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "hu": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/11945016"
+    ],
+    "lt": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "nl": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016",
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=T&typ=latin",
+      "https://botany.cz/cs/tremella-mesenterica/",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/11945016"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "tr": [
+      "https://www.gbif.org/species/11945016",
+      "https://www.wikidata.org/wiki/Q19733"
+    ],
+    "uk": [
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q19733",
+      "https://www.inaturalist.org/taxa/48529",
+      "https://www.gbif.org/species/11945016"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_1.webp",
+      "author": "Karol Filo III",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/245968565"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_2.webp",
+      "author": "Alexis Tinker-Tsavalas",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/67847150"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_3.webp",
+      "author": "Ben Deed",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/102005191"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_4.webp",
+      "author": "Andrey Polstianoi",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/325301109"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_5.webp",
+      "author": "Daniel Seth Jackson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/108585939"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 9136f3563f90a046f6738ae1c76a6870e7d38716d3a5d1046a7e9d09d8d063c7, Exif Orientation 1) has a cursive “Gemini” mark at the lower right. plate --mode fit: scale 2.000 (upscaled; disclose softness), cropBox [96, 0, 1600, 2400] (96 output px / 48 source px each side, no vertical crop). Visual inspection of the @1600 fit confirms that all figures (main golden-yellow, brain-like folds on a dead hardwood branch; a young pale lemon cushion at the top; a shrunken dark-orange dry crust; a vertical section of a lobe with uniform translucent yellow jelly and no white core; oak leaves and greyish-pink Peniophora patches on the bark) and the signature remain fully inside the trimmed frame; only paper margin is cut. Nothing was erased or painted. @1600 SHA-256 c3f4e68fc99a2d37c6751a586db5013174e35490511d6622e80e0a5d07a5349d; @400 SHA-256 dfbfc954427b09c1e3478e821e7aa3a97795791c6ef74f66471b7e2a57a2e2fa."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_1.webp",
+      "author": "Karol Filo III",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/245968565"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_2.webp",
+      "author": "Alexis Tinker-Tsavalas",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/67847150"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_3.webp",
+      "author": "Ben Deed",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/102005191"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_4.webp",
+      "author": "Andrey Polstianoi",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/325301109"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Tremellales/Tremellaceae/Tremella_mesenterica/Tremella_mesenterica_5.webp",
+      "author": "Daniel Seth Jackson",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/108585939"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر هلامي شائع على الأغصان الميتة للأشجار عريضة الأوراق، يُتعرَّف عليه بطياته الشفافة، الذهبية الصفراء الزاهية إلى الصفراء البرتقالية، الشبيهة بالدماغ، التي تخرج مباشرة من اللحاء. لا قبعة له ولا ساق ولا صفائح ولا مسام. في الطقس الجاف ينكمش إلى قشرة صلبة برتقالية داكنة، وينتفخ من جديد بعد المطر. اللحم هلامي بانتظام وليس فيه نواة بيضاء متماسكة.",
+      "cap": "لا توجد قبعة حقيقية. الجسم الثمري عرضه ٢–٨ سم (غالبًا ٢–٥ سم فقط؛ وبعض الأدلة الأوروبية تعطي ١–٤ سم، وتذكر بعض المصادر الألمانية عينات أكبر بكثير). كتلة رخوة غير منتظمة من هلام مطوي، شبيه بالدماغ أو مفصص؛ في البداية قرص صغير أو وسادة تخرج من شق في اللحاء. وهو طازج يكون أصفر ذهبيًا إلى أصفر برتقالي واضح، ويبهت بعد مطر طويل، ونادرًا ما يكون أبيض تقريبًا. السطح أملس، دهني أو لزج وهو رطب، ولامع. يلتصق مباشرة باللحاء.",
+      "hymenium": "السطح الحامل للأبواغ يغطي خارج الطيات. لا صفائح ولا أنابيب ولا مسام.",
+      "stipe": "لا ساق. يخرج الجسم الثمري من شقوق لحاء الأغصان الميتة للأشجار عريضة الأوراق، وكثيرًا ما تكون لا تزال متصلة.",
+      "flesh": "اللحم هلامي بانتظام، أصفر إلى أصفر برتقالي شفاف في كل المقطع، بلا نواة بيضاء متماسكة أو غير شفافة. وهو رطب يكون رخوًا ومتينًا، وهو جاف صلبًا وقرنيًا. الأجسام الثمرية الجافة أصغر كثيرًا، برتقالية داكنة إلى برتقالية محمرّة، وتعود إلى الحياة بعد المطر. الرائحة ضعيفة أو معدومة؛ والطعم لطيف ويكاد يكون عديم الطعم.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى صفراء شاحبة. الأبواغ واسعة الإهليلجية إلى مستطيلة، ملساء، عادة ١٠–١٦ × ٦–٩٫٥ ميكرومتر.",
+      "habitat": "فطر متطفل على فطريات قشرية من جنس Peniophora، على أغصان ميتة لأشجار عريضة الأوراق، ولا سيما البلوط والزان والبندق والرماد والبتولا وUlex، بما في ذلك الأغصان الدقيقة الساقطة أو التي لا تزال متصلة. وهو منتشر في المناطق المعتدلة من أوروبا، وقد سُجِّل أيضًا في آسيا وأستراليا والأمريكتين. قد تظهر الأجسام الثمرية في الطقس الرطب طوال السنة؛ وتُرى في الأكثر من أواخر الخريف إلى أوائل الربيع.",
+      "uses": "صالح للأكل، لكن قيمته الطعامية قليلة: اللحم يكاد يكون عديم الطعم وغير ذي بال، وإن كان قد يضفي قوامًا هلاميًا على الحساء، ويُستخدم في بعض الأطباق النباتية في شرق آسيا. بعض الأدلة تعدّه غير صالح للأكل. وهو ليس سامًا. في هذا الفهرس يُسجَّل صالحًا للأكل، مع بيان هذا التعارض، لا ممتازًا للأكل.",
+      "confusion": "تكوّن Naematelia encephala أيضًا هلامًا شاحبًا، أصفر إلى وردي، شبيهًا بالدماغ، لكن لها نواة بيضاء متماسكة غير شفافة وتنمو على خشب المخروطيات. تشبه Tremella aurantia في اللون والشكل، لكنها تنمو على مشيجة Stereum hirsutum (عادة على جذوع وقواعد) ومظهرها أبهت وذات فصوص أثخن. تكوّن Dacrymyces stillatus على الخشب الرطب وسائد صفراء ضئيلة لا يتجاوز عرضها بضعة مليمترات، لا كتلًا مطوية كبيرة. ليست أي من هذه الأنواع الشبيهة خطرة.",
+      "notes": "أوثق الصفات في الميدان هي الهلام الأصفر الزاهي الشفاف، بلا ساق والشبيه بالدماغ، على أغصان دقيقة ميتة لأشجار عريضة الأوراق، وغياب النواة البيضاء، واعتياد الانكماش إلى قشرة برتقالية في الطقس الجاف والانتفاخ من جديد بعد المطر. وكثيرًا ما توجد على الغصن نفسه قشور رمادية وردية غير بارزة للعائل Peniophora. قد تُغطى الأجسام الثمرية الفتية بمخاط أصفر زاهٍ من أبواغ لا جنسية. الفطريات المزروعة المباعة بهذا الاسم في شرق آسيا تنتمي إلى نوع آخر.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "تريميلا ميسينتيركا"
+    },
+    "bg": {
+      "description": "Обикновена желеобразна гъба по мъртви клони на широколистни дървета, разпознаваема по ярко златистожълти до оранжевожълти, прозирни, мозъковидни гънки, които излизат направо от кората. Гугла, пънче, ламели и пори липсват. При сухо време се свива в твърда, тъмнооранжева коричка и отново набъбва след дъжд. Месото е равномерно желеобразно и няма плътно бяло ядро.",
+      "cap": "Истинска гугла липсва. Плодното тяло е 2–8 cm широко (често само 2–5 cm; някои европейски определители дават 1–4 cm, а отделни немски източници посочват значително по-големи екземпляри). Това е мека, неправилна маса от нагънато, мозъковидно или лопатовидно желе; отначало малък диск или възглавничка, пробиваща се през цепнатина в кората. Прясно е златистожълто до ясно оранжевожълто, след продължителен дъжд по-бледо и рядко почти бяло. Повърхността е гладка, при влага мазна или слузеста и лъскава. Прираства направо към кората.",
+      "hymenium": "Спороносната повърхност покрива външната страна на гънките. Ламели, тръбички и пори липсват.",
+      "stipe": "Пънче липсва. Плодното тяло излиза през цепнатини в кората на мъртви, често още закачени клони на широколистни дървета.",
+      "flesh": "Месото е равномерно желеобразно, в целия разрез прозирно жълто до оранжевожълто, без плътно бяло или непрозрачно ядро. Във влажно състояние е меко и жилаво, в сухо — твърдо и роговидно. Изсъхналите плодни тела са много по-малки, тъмнооранжеви до червеникавооранжеви и се съживяват след дъжд. Мирисът е слаб или липсва; вкусът е мек и почти безвкусен.",
+      "sporePrint": "Споровият прашец е бял до бледожълт. Спорите са широко елипсовидни до продълговати, гладки, обикновено 10–16 × 6–9,5 µm.",
+      "habitat": "Паразитна гъба върху коричковидни гъби от род Peniophora, по мъртви клони на широколистни дървета, особено дъб, бук, леска, ясен, бреза и Ulex, включително опадали и още закачени клончета. Широко разпространена е в умерения пояс на Европа и е отбелязана също в Азия, Австралия и Америка. Плодни тела могат да се появяват при влажно време през цялата година; най-често се виждат от късна есен до ранна пролет.",
+      "uses": "Ядлива, но с малка кулинарна стойност: месото е почти безвкусно и незначително, макар да може да придаде желеобразна текстура на супи и да се използва в някои източноазиатски вегетариански ястия. Някои определители я посочват като неядлива. Не е отровна. В този каталог е записана като ядлива, с посочване на това противоречие, а не като отлична ядлива.",
+      "confusion": "Naematelia encephala също образува бледожълто до розово, мозъковидно желе, но има плътно непрозрачно бяло ядро и расте на дървесина на иглолистни. Tremella aurantia е сходна по цвят и форма, но расте върху мицела на Stereum hirsutum (обикновено по стволове и пънове) и изглежда по-матова, с по-дебели дялове. Dacrymyces stillatus върху влажна дървесина образува само мънички жълти възглавнички от няколко милиметра, а не големи нагънати маси. Нито един от тези подобни видове не е опасен.",
+      "notes": "Най-надеждните теренни белези са яркожълтото, прозирно, без пънче, мозъковидно желе по мъртви клончета на широколистни, липсата на бяло ядро и това, че при сухо време се свива в оранжева коричка и отново набъбва след дъжд. Незабележими сиво-розови корички на гостоприемника Peniophora често са на същия клон. Младите плодни тела може да са покрити с яркожълта слуз от безполови спори. Култивираните гъби, продавани под това име в Източна Азия, принадлежат на друг вид.",
+      "names": [
+        "Жълта желирана гъба",
+        "Жълта желатинова гъба"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "Жълта тремела"
+    },
+    "cs": {
+      "description": "Běžná rosolovitá houba odumřelých větví listnáčů, podle které se dá poznat jasně zlatožlutými až oranžovožlutými, průsvitnými, mozkovitými záhyby vyrůstajícími přímo z kůry. Klobouk, třeň, lupeny ani póry nemá. Za sucha se scvrkne na tvrdou, tmavě oranžovou krustu a po dešti znovu nabobtná. Dužnina je rovnoměrně rosolovitá a nemá pevné bílé jádro.",
+      "cap": "Pravý klobouk chybí. Plodnice má 2–8 cm v průměru (často jen 2–5 cm; některé evropské příručky uvádějí 1–4 cm a několik německých zdrojů uvádí podstatně větší exempláře). Je to měkká, nepravidelná hmota složená ze záhybů a laloků, mozkovitého tvaru; zprvu je to malý terčík nebo polštářek prorůstající trhlinou v kůře. Čerstvá je zlatožlutá až jasně oranžovožlutá, po delším dešti bledší a vzácně téměř bílá. Povrch je hladký, za vlhka mastný nebo slizký a lesklý. Přirůstá přímo ke kůře.",
+      "hymenium": "Výtrusorodý povrch pokrývá vnější stranu záhybů. Lupeny, rourky ani póry nemá.",
+      "stipe": "Třeň chybí. Plodnice vyrůstá trhlinami v kůře odumřelých, často ještě visících větví listnáčů.",
+      "flesh": "Dužnina je rovnoměrně rosolovitá, v celém průřezu průsvitně žlutá až oranžovožlutá, bez pevného bílého nebo neprůsvitného jádra. Za vlhka je měkká a tuhá, za sucha tvrdá a rohovitá. Suché plodnice jsou podstatně menší, tmavě oranžové až červenohnědé a po dešti znovu ožijí. Vůně je slabá nebo žádná; chuť je mírná a téměř bez příchuti.",
+      "sporePrint": "Výtrusný prach je bílý až nažloutlý. Výtrusy jsou široce elipsoidní až podlouhlé, hladké, typicky 10–16 × 6–9,5 µm.",
+      "habitat": "Parazitická houba kornatcovitých hub rodu Peniophora, na odumřelých větvích listnáčů, zejména dubu, buku, lísky, jasanu, břízy a hlodáše (Ulex), včetně spadlých i ještě visících větviček. Je rozšířená v mírném pásu Evropy a je zaznamenána také v Asii, Austrálii a Americe. Plodnice se mohou objevit za vlhkého počasí po celý rok; nejčastěji je vidět od pozdního podzimu do časného jara.",
+      "uses": "Je jedlá, ale kulinářsky málo hodnotná: dužnina je téměř bez chuti a nevýrazná, i když může dodat rosolovitou texturu polévkám a v některých východoasijských vegetariánských jídlech se používá. Některé příručky ji uvádějí jako nejedlou. Není jedovatá. V katalogu je zařazena jako jedlá, s uvedením tohoto rozporu, a nikoli jako výborná jedlá.",
+      "confusion": "Naematelia encephala také tvoří bledě žlutou až narůžovělou, mozkovitou rosolovitou hmotu, má však pevné, neprůsvitné bílé jádro a roste na dřevě jehličnanů. Tremella aurantia je podobné barvy a tvaru, roste však na podhoubí druhu Stereum hirsutum (obvykle na kmenech a pařezech) a má matnější, tlustší laloky. Kropilka rosolovitá (Dacrymyces stillatus) tvoří na vlhkém dřevě jen drobné žluté polštářky o průměru několika milimetrů, nikoli velké zřasené masy. Žádná z těchto záměn není nebezpečná.",
+      "notes": "Nejspolehlivějšími terénními znaky jsou jasně žlutá, průsvitná, bez třeně, mozkovitá rosolovitá hmota na odumřelých větvičkách listnáčů, nepřítomnost bílého jádra a to, že se za sucha scvrkne na oranžovou krustu a po dešti znovu nabobtná. Nenápadné šedorůžové povlaky hostitele Peniophora bývají často na téže větvi. Mladé plodnice může pokrývat jasně žlutý sliz nepohlavních výtrusů. Pěstované houby prodávané pod tímto jménem ve východní Asii patří jinému druhu.",
+      "names": [
+        "rosolovka mozková",
+        "rosolovka střevovitá"
+      ],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Rosolovka_mozkovit%C3%A1",
+        "https://botany.cz/cs/tremella-mesenterica/",
+        "https://www.myko.cz/myko-atlas/Tremella-mesenterica/",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "rosolovka mozkovitá"
+    },
+    "da": {
+      "description": "En almindelig geléagtig svamp på døde løvtræsgrene, kendt på klart gyldengule til orangegule, gennemskinnelige, hjerneagtige folder, der vokser direkte ud af barken. Hat, stok, lameller og porer mangler. I tørt vejr skrumper den til en hård, mørkeorange skorpe og svulmer op igen efter regn. Kødet er jævnt geléagtigt og har ingen fast hvid kerne.",
+      "cap": "En ægte hat mangler. Frugtlegemet er 2–8 cm bredt (ofte kun 2–5 cm; nogle europæiske håndbøger angiver 1–4 cm, og enkelte tyske kilder nævner væsentligt større eksemplarer). Det er en blød, uregelmæssig masse af foldet, hjerneagtig eller lappet gelé, først en lille skive eller pude, der bryder frem gennem en barkrevne. Frisk er den gyldengul til klart orangegul, blegere efter længere regn og sjældent næsten hvid. Overfladen er glat, fedtet eller slimet i vådt vejr og blank. Den sidder direkte på barken.",
+      "hymenium": "Den sporedannende overflade dækker ydersiden af folderne. Lameller, rør og porer mangler.",
+      "stipe": "En stok mangler. Frugtlegemet vokser frem gennem revner i barken på døde, ofte endnu siddende løvtræsgrene.",
+      "flesh": "Kødet er jævnt geléagtigt, i hele snittet gennemskinneligt gult til orangegult, uden fast hvid eller uigennemsigtig kerne. Fugtig er det blødt og sejt, tørt hårdt og hornagtigt. Tørrede frugtlegemer er meget mindre, mørkeorange til rødligt orange, og de genoplives efter regn. Lugten er svag eller savnes; smagen er mild og næsten smagløs.",
+      "sporePrint": "Sporeaftrykket er hvidt til bleggul. Sporerne er bredt ellipsoide til aflange, glatte, typisk 10–16 × 6–9,5 µm.",
+      "habitat": "En parasitisk svamp på skorpeformede svampe i slægten Peniophora, på døde grene af løvtræer, især eg, bøg, hassel, ask, birk og tornblad (Ulex), herunder nedfaldne og endnu siddende kviste. Den er udbredt i de tempererede egne af Europa og er også fundet i Asien, Australien og Amerika. Frugtlegemer kan vise sig i vådt vejr hele året; de ses oftest fra det sene efterår til det tidlige forår.",
+      "uses": "Spiselig, men af ringe kulinarisk værdi: kødet er næsten smagløst og ubetydeligt, men kan give supper en geléagtig tekstur og bruges i nogle østasiatiske vegetarretter. Nogle felthåndbøger angiver den som uspiselig. Den er ikke giftig. I kataloget er den registreret som spiselig, med denne uoverensstemmelse oplyst, og ikke som velsmagende spisesvamp.",
+      "confusion": "Naematelia encephala danner også en bleggul til rosa, hjerneagtig gelé, men har en fast, uigennemsigtig hvid kerne og vokser på nåletræ. Tremella aurantia er lignende i farve og form, men vokser på myceliet af Stereum hirsutum (som regel på stammer og stubbe) og har et mattere, tykkere lappet udseende. Almindelig tåresvamp (Dacrymyces stillatus) danner på vådt ved kun bittesmå gule puder på få millimeter, ikke store foldede masser. Ingen af disse forvekslingsmuligheder er farlige.",
+      "notes": "De mest pålidelige feltkendetegn er den klart gule, gennemskinnelige, stokløse, hjerneagtige gelé på døde løvtræskviste, manglen på en hvid kerne, og at den i tørt vejr skrumper til en orange skorpe og svulmer op igen efter regn. Uanselige grårosa skorper af værten Peniophora sidder ofte på samme gren. Unge frugtlegemer kan være dækket af et klart gult slim af ukønnede sporer. Dyrkede svampe solgt under dette navn i Østasien tilhører en anden art.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Gul bævresvamp"
+    },
+    "de": {
+      "description": "Ein häufiger gelatinöser Pilz an toten Laubholzzweigen, erkennbar an leuchtend goldgelben bis orangegelben, durchscheinenden, hirnartigen Falten, die unmittelbar aus der Rinde hervortreten. Hut, Stiel, Lamellen und Poren fehlen. Bei Trockenheit schrumpft er zu einer harten, dunkelorangefarbenen Kruste zusammen und quillt nach Regen wieder auf. Das Fleisch ist gleichmäßig gallertartig und hat keinen festen weißen Kern.",
+      "cap": "Ein echter Hut fehlt. Der Fruchtkörper ist 2–8 cm breit (oft nur 2–5 cm; einige europäische Führer geben 1–4 cm an, und einzelne deutsche Quellen nennen wesentlich größere Exemplare). Er ist eine weiche, unregelmäßige Masse gefalteter, hirnartiger oder gelappter Gallerte, zunächst eine kleine Scheibe oder ein Polster, das durch einen Rindenriss bricht. Frisch ist er goldgelb bis klar orangegelb, nach längerem Regen blasser und selten fast weiß. Die Oberfläche ist glatt, bei Nässe fettig oder schleimig und glänzend. Er sitzt unmittelbar an der Rinde.",
+      "hymenium": "Die sporentragende Fläche bedeckt die Außenseite der Falten. Lamellen, Röhren und Poren fehlen.",
+      "stipe": "Ein Stiel fehlt. Der Fruchtkörper wächst durch Risse in der Rinde toter, oft noch ansitzender Laubholzzweige hervor.",
+      "flesh": "Das Fleisch ist gleichmäßig gelatinös, im ganzen Schnitt durchscheinend gelb bis orangegelb, ohne festen weißen oder undurchsichtigen Kern. Feucht ist es weich und zäh, trocken hart und hornartig. Getrocknete Fruchtkörper sind deutlich kleiner, dunkelorange bis rötlich orange und beleben sich nach Regen wieder. Der Geruch ist schwach oder fehlt; der Geschmack ist mild und nahezu geschmacklos.",
+      "sporePrint": "Das Sporenpulver ist weiß bis blassgelb. Die Sporen sind breit ellipsoid bis länglich, glatt, typischerweise 10–16 × 6–9,5 µm.",
+      "habitat": "Ein parasitischer Pilz an rindenbewohnenden Pilzen der Gattung Peniophora, an toten Ästen von Laubbäumen, besonders Eiche, Buche, Hasel, Esche, Birke und Stechginster (Ulex), einschließlich abgefallener und noch ansitzender Zweige. Er ist in den gemäßigten Regionen Europas weit verbreitet und auch in Asien, Australien und Amerika nachgewiesen. Fruchtkörper können bei feuchtem Wetter das ganze Jahr erscheinen; am häufigsten sind sie vom Spätherbst bis zum zeitigen Frühjahr zu sehen.",
+      "uses": "Essbar, aber von geringem Speisewert: das Fleisch ist nahezu geschmacklos und unbedeutend, kann Suppen jedoch eine gelatinöse Textur geben und wird in manchen ostasiatischen vegetarischen Gerichten verwendet. Einige Bestimmungsbücher führen ihn als ungenießbar. Er ist nicht giftig. Im Katalog ist er als essbar erfasst, mit diesem Widerspruch, und nicht als hervorragend.",
+      "confusion": "Naematelia encephala bildet ebenfalls eine blassgelbe bis rosa, hirnartige Gallerte, hat aber einen festen, undurchsichtigen weißen Kern und wächst an Nadelholz. Tremella aurantia ist in Farbe und Form ähnlich, wächst jedoch auf dem Myzel von Stereum hirsutum (meist an Stämmen und Stümpfen) und wirkt matter und dicker gelappt. Die zerfließende Gallertträne (Dacrymyces stillatus) bildet auf nassem Holz nur winzige gelbe Polster von wenigen Millimetern Durchmesser, keine großen gefalteten Massen. Keine dieser Verwechslungsmöglichkeiten ist gefährlich.",
+      "notes": "Die zuverlässigsten Feldmerkmale sind die leuchtend gelbe, durchscheinende, stiellose, hirnartige Gallerte an toten Laubholzzweigen, das Fehlen eines weißen Kerns und die Gewohnheit, bei Trockenheit zu einer orangen Kruste zu schrumpfen und nach Regen wieder aufzuquellen. Unauffällige graurosa Krusten des Wirts Peniophora sitzen oft am selben Zweig. Junge Fruchtkörper können mit einem leuchtend gelben Schleim ungeschlechtlicher Sporen überzogen sein. In Ostasien unter diesem Namen verkaufte Kulturpilze gehören zu einer anderen Art.",
+      "names": [
+        "Großer Laubholzzitterling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Goldgelber_Zitterling",
+        "https://123pilzsuche.de/daten/details/GoldgelberZitter.htm",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Goldgelber Zitterling"
+    },
+    "en": {
+      "description": "A common gelatinous fungus of dead hardwood branches, recognised by bright golden-yellow to orange-yellow, translucent, brain-like folds that emerge directly from the bark. There is no cap, stem, gills or pores. In dry weather it shrinks to a hard, dark orange crust, and it swells again after rain. The flesh is uniformly jelly-like and has no firm white core.",
+      "cap": "There is no true cap. The fruit body is 2–8 cm across (often only 2–5 cm; some European guides give 1–4 cm, and a few German sources cite much larger specimens). It is a soft, irregular mass of folded, brain-like or lobed jelly, at first a small disc or cushion breaking through a bark crack. Fresh colours are golden yellow to clear orange-yellow, paler after prolonged rain, and rarely almost white. The surface is smooth and greasy or slimy when wet, and glossy. It attaches directly to the bark.",
+      "hymenium": "The spore-bearing surface covers the outside of the folds. There are no gills, tubes or pores.",
+      "stipe": "There is no stem. The fruit body grows out through cracks in the bark of dead, often still-attached, hardwood branches.",
+      "flesh": "The flesh is uniformly gelatinous, translucent yellow to orange-yellow throughout, with no firm white or opaque core. It is soft and tough when wet, and hard and horny when dry. Dried fruit bodies are much smaller, dark orange to reddish orange, and revive after rain. The smell is weak or none; the taste is mild and almost flavourless.",
+      "sporePrint": "The spore print is white to pale yellow. Spores are broadly ellipsoid to oblong, smooth, typically 10–16 × 6–9.5 µm.",
+      "habitat": "A parasite of corticioid fungi in the genus Peniophora, on dead branches of broad-leaved trees, especially oak, beech, hazel, ash, birch and gorse, including fallen or still-attached twigs. It is widespread in temperate regions of Europe and has been recorded in Asia, Australia and the Americas. Fruit bodies can appear in wet weather throughout the year; they are most often seen from late autumn to early spring.",
+      "uses": "Edible but of little culinary value: the flesh is almost flavourless and insubstantial, though it can add a gelatinous texture to soups, and it is used in some East Asian vegetarian dishes. Some field guides list it as inedible. It is not poisonous. In this catalog it is stored as edible, with that conflict disclosed, and it is not treated as a choice edible.",
+      "confusion": "Naematelia encephala also forms a pale yellow to pinkish, brain-like jelly, but it has a firm, opaque white core and grows on conifer wood. Tremella aurantia is similar in colour and shape but grows on the mycelium of Stereum hirsutum (usually on logs and stumps) and has a duller, thicker-lobed appearance. Common jellyspot (Dacrymyces stillatus) forms only tiny yellow cushions, a few millimetres across, on wet wood, not large folded masses. None of these look-alikes is dangerous.",
+      "notes": "The most reliable field characters are the bright yellow, translucent, stemless, brain-like jelly on dead hardwood twigs, the lack of a white core, and the habit of shrinking to an orange crust in dry weather and swelling again after rain. Inconspicuous greyish-pink crusts of the host Peniophora are often present on the same branch. Young fruit bodies may be coated with a bright yellow slime of asexual spores. Cultivated fungi sold under this name in East Asia belong to a different species.",
+      "names": [
+        "golden jelly fungus",
+        "yellow trembler",
+        "witches' butter",
+        "witch's butter",
+        "yellow brain fungus"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=350980",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=350980",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=350980",
+        "https://www.gbif.org/species/11945016",
+        "https://www.first-nature.com/fungi/tremella-mesenterica.php",
+        "https://www.myko.cz/myko-atlas/Tremella-mesenterica/",
+        "https://botany.cz/cs/tremella-mesenterica/",
+        "https://en.wikipedia.org/wiki/Tremella_mesenterica",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "yellow brain"
+    },
+    "es": {
+      "description": "Un hongo gelatinoso frecuente de las ramas muertas de frondosas, reconocible por sus pliegues translúcidos, de un amarillo dorado intenso a amarillo anaranjado, con forma de cerebro, que emergen directamente de la corteza. No tiene sombrero, pie, láminas ni poros. En tiempo seco se contrae en una costra dura, de color naranja oscuro, y vuelve a hincharse después de la lluvia. La carne es uniformemente gelatinosa y no tiene un núcleo blanco firme.",
+      "cap": "No hay un sombrero verdadero. El cuerpo fructífero mide 2–8 cm de ancho (a menudo solo 2–5 cm; algunas guías europeas indican 1–4 cm, y algunas fuentes alemanas citan ejemplares mucho mayores). Es una masa blanda e irregular de gelatina plegada, cerebriforme o lobulada; al principio un pequeño disco o almohadilla que rompe una grieta de la corteza. En fresco es de color amarillo dorado a amarillo anaranjado claro, más pálido tras una lluvia prolongada y rara vez casi blanco. La superficie es lisa, grasienta o viscosa en húmedo, y brillante. Se une directamente a la corteza.",
+      "hymenium": "La superficie que produce las esporas cubre el exterior de los pliegues. No hay láminas, tubos ni poros.",
+      "stipe": "No hay pie. El cuerpo fructífero sale por grietas de la corteza de ramas muertas de frondosas, a menudo todavía unidas.",
+      "flesh": "La carne es uniformemente gelatinosa, de un amarillo a amarillo anaranjado translúcido en todo el corte, sin un núcleo blanco firme u opaco. En húmedo es blanda y tenaz; en seco, dura y córnea. Los cuerpos fructíferos secos son mucho más pequeños, de color naranja oscuro a naranja rojizo, y reviven después de la lluvia. El olor es débil o nulo; el sabor es suave y casi insípido.",
+      "sporePrint": "La esporada es blanca a amarillo pálido. Las esporas son ampliamente elipsoides a oblongas, lisas, típicamente 10–16 × 6–9,5 µm.",
+      "habitat": "Un hongo parásito de hongos corticioides del género Peniophora, en ramas muertas de frondosas, sobre todo roble, haya, avellano, fresno, abedul y tojo (Ulex), incluidas ramitas caídas o todavía unidas. Está extendido en las regiones templadas de Europa y se ha citado también en Asia, Australia y América. Los cuerpos fructíferos pueden aparecer con tiempo húmedo durante todo el año; se ven con más frecuencia desde finales del otoño hasta principios de la primavera.",
+      "uses": "Comestible, pero de poco valor culinario: la carne es casi insípida e inconsistente, aunque puede dar una textura gelatinosa a las sopas, y se usa en algunos platos vegetarianos del este de Asia. Algunas guías lo indican como no comestible. No es tóxico. En este catálogo se registra como comestible, con ese desacuerdo indicado, y no como excelente comestible.",
+      "confusion": "Naematelia encephala también forma una gelatina pálida, amarilla a rosada, con forma de cerebro, pero tiene un núcleo blanco firme y opaco y crece en madera de coníferas. Tremella aurantia es similar en color y forma, pero crece sobre el micelio de Stereum hirsutum (por lo general en troncos y tocones) y tiene un aspecto más apagado, con lóbulos más gruesos. Dacrymyces stillatus forma, en madera húmeda, solo diminutas almohadillas amarillas de unos pocos milímetros, no grandes masas plegadas. Ninguna de estas confusiones es peligrosa.",
+      "notes": "Los caracteres de campo más fiables son la gelatina amarilla intensa, translúcida, sin pie y con forma de cerebro, sobre ramitas muertas de frondosas, la ausencia de un núcleo blanco, y la costumbre de contraerse en una costra naranja en tiempo seco y de hincharse de nuevo después de la lluvia. Costras grisáceas rosadas poco visibles del huésped Peniophora suelen estar en la misma rama. Los cuerpos fructíferos jóvenes pueden cubrirse de un mucílago amarillo intenso de esporas asexuales. Los hongos cultivados vendidos con este nombre en el este de Asia pertenecen a otra especie.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Hongo temblón amarillo"
+    },
+    "et": {
+      "description": "Sagedane želeetaoline seen surnud lehtpuuokstel, tunnuslik eredalt kuldkolletest kuni oranžkollastest, läbipaistvatest, ajutaolistest voltidest, mis kasvavad otse koorest. Kübarat, jalga, eoslehti ega poore ei ole. Kuiva ilmaga kahaneb ta kõvaks, tumedaks oranžiks koorikuks ja paisub pärast vihma jälle. Seeneliha on ühtlaselt želeetaoline ega ole kindlat valget tuuma.",
+      "cap": "Tõelist kübarat ei ole. Viljakeha on 2–8 cm lai (sageli vaid 2–5 cm; mõned Euroopa määrajad annavad 1–4 cm ja mõned saksa allikad mainivad tunduvalt suuremaid isendeid). See on pehme, ebakorrapärane volditud, ajutaoliste või hõlmadega želeemass; algul väike ketas või padi, mis murdub läbi koorelõhe. Värskelt on ta kuldane kuni selgelt oranžkollane, pärast pikemat vihma kahvatum ja harva peaaegu valge. Pind on sile, niiskelt rasvane või limane ja läikiv. Ta kinnitub otse koorele.",
+      "hymenium": "Eooseid kandev pind katab voltide väliskülge. Eoslehti, torukesi ega poore ei ole.",
+      "stipe": "Jalga ei ole. Viljakeha kasvab välja surnud, sageli veel kinnitunud lehtpuuokste koorelõhedest.",
+      "flesh": "Seeneliha on ühtlaselt želeetaoline, kogu lõikepinnal läbipaistvalt kollane kuni oranžkollane, ilma kindla valge või läbipaistmatu tuumata. Niiskelt on ta pehme ja sitke, kuivalt kõva ja sarvjataoline. Kuivanud viljakehad on tunduvalt väiksemad, tumedoranžid kuni punakasooranžid ning elustuvad pärast vihma. Lõhn on nõrk või puudub; maitse on leebe ja peaaegu maitsetu.",
+      "sporePrint": "Eosetolm on valge kuni kahvatukollane. Eosed on laialt ellipsoidse kuni pikliku kujuga, siledad, tüüpiliselt 10–16 × 6–9,5 µm.",
+      "habitat": "Parasiitne seen kortaliste seente perekonnal Peniophora, surnud lehtpuuokstel, eriti tamme, pöögi, sarapuu, saare, kase ja Ulexi okstel, sealhulgas langenud ja veel kinnitunud oksakestel. Ta on levinud Euroopa parasvöötmes ning on kirja pandud ka Aasias, Austraalias ja Ameerikas. Viljakehad võivad ilmuda märja ilmaga aastaringselt; kõige sagedamini nähakse neid hilissügisest varakevadeni.",
+      "uses": "Söödav, kuid toiduna väheväärtuslik: seeneliha on peaaegu maitsetu ja tühine, kuigi võib anda suppidele želeetaolise tekstuuri ja seda kasutatakse mõnes Ida-Aasia taimetoidus. Mõned määrajad märgivad ta mittesöödavaks. Ta ei ole mürgine. Kataloogis on ta märgitud söödavaks, selle vastuolu avaldatuna, mitte väga heaks söögiseeneks.",
+      "confusion": "Naematelia encephala moodustab samuti kahvatukollase kuni roosaka, ajutaolise želee, kuid tal on kindel, läbipaistmatu valge tuum ja ta kasvab okaspuu puidul. Tremella aurantia on värvilt ja kujult sarnane, kuid kasvab liigi Stereum hirsutum mütseelil (tavaliselt tüvedel ja kändudel) ning on tuhmima, paksema hõlmadega välimusega. Dacrymyces stillatus moodustab märjal puidul vaid mõne millimeetri suurusi kollaseid patju, mitte suuri volditud masse. Ükski neist sarnastest liikidest ei ole ohtlik.",
+      "notes": "Kõige usaldusväärsemad välimääramistunnused on ere kollane, läbipaistev, jalata, ajutaoline želee surnud lehtpuuoksakestel, valge tuuma puudumine ning see, et kuiva ilmaga kahaneb ta oranžiks koorikuks ja paisub pärast vihma jälle. Peremehe Peniophora silmatorkamatud hallikasroosad kored on sageli samal oksal. Noori viljakehi võib katta ere kollane suguta eoste lima. Selle nime all Ida-Aasias müüdavad viljeldavad seened kuuluvad teise liiki.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "kollane kõhrik"
+    },
+    "fa": {
+      "description": "قارچ ژله‌ای رایج شاخه‌های مرده درختان پهن‌برگ، که با چین‌های شفاف طلایی‌زرد تا نارنجی‌زرد، شبیه مغز، که مستقیم از پوست بیرون می‌آیند شناخته می‌شود. کلاهک، ساقه، تیغه و روزنه ندارد. در هوای خشک به پوسته‌ای سخت و نارنجی تیره جمع می‌شود و پس از باران دوباره ورم می‌کند. گوشت یکنواخت ژله‌ای است و هسته سفید سفت ندارد.",
+      "cap": "کلاهک واقعی ندارد. اندام میوه‌ای ۲–۸ سانتی‌متر پهنا دارد (اغلب فقط ۲–۵ سانتی‌متر؛ برخی راهنماهای اروپایی ۱–۴ سانتی‌متر می‌دهند و چند منبع آلمانی نمونه‌های بسیار بزرگ‌تری را ذکر می‌کنند). توده نرم و نامنظم ژله چین‌خورده، مغزمانند یا لبه‌دار است؛ در آغاز قرص یا بالشتک کوچکی که از شکاف پوست بیرون می‌زند. تازه، طلایی‌زرد تا نارنجی‌زرد روشن است، پس از باران طولانی رنگ‌پریده‌تر و به‌ندرت تقریباً سفید. سطح صاف، در رطوبت چرب یا لزج و براق است. مستقیم به پوست می‌چسبد.",
+      "hymenium": "سطح هاگ‌زا روی بیرون چین‌ها را می‌پوشاند. تیغه، لوله و روزنه ندارد.",
+      "stipe": "ساقه ندارد. اندام میوه‌ای از شکاف‌های پوست شاخه‌های مرده درختان پهن‌برگ، که اغلب هنوز متصل‌اند، بیرون می‌آید.",
+      "flesh": "گوشت یکنواخت ژله‌ای است، در همه برش زرد تا نارنجی‌زرد شفاف، بدون هسته سفید سفت یا کدر. در رطوبت نرم و مقاوم، و در خشکی سخت و شاخی است. اندام‌های خشک‌شده بسیار کوچک‌ترند، نارنجی تیره تا نارنجی مایل به سرخ، و پس از باران دوباره زنده می‌شوند. بو ضعیف است یا نیست؛ طعم ملایم و تقریباً بی‌مزه است.",
+      "sporePrint": "نقش هاگ سفید تا زرد کم‌رنگ است. هاگ‌ها پهن‌بیضوی تا مستطیلی، صاف، معمولاً ۱۰–۱۶ × ۶–۹٫۵ µm.",
+      "habitat": "قارچ انگلی قارچ‌های پوسته‌ای سرده Peniophora، روی شاخه‌های مرده درختان پهن‌برگ، به‌ویژه بلوط، راش، فندق، زبان‌گنجشک، توس و Ulex، از جمله ترکه‌های افتاده یا هنوز متصل. در مناطق معتدل اروپا گسترده است و در آسیا، استرالیا و آمریکا نیز ثبت شده است. اندام‌های میوه‌ای می‌توانند در هوای مرطوب در تمام سال پدیدار شوند؛ بیشتر از اواخر پاییز تا اوایل بهار دیده می‌شوند.",
+      "uses": "خوراکی است، اما ارزش خوراکی کمی دارد: گوشت تقریباً بی‌مزه و ناچیز است، هرچند می‌تواند به سوپ‌ها بافتی ژله‌ای بدهد و در برخی غذاهای گیاهی شرق آسیا به کار می‌رود. برخی راهنماها آن را غیرخوراکی می‌دانند. سمی نیست. در این فهرست با ذکر این ناسازگاری به‌عنوان خوراکی ثبت شده است، نه عالی برای خوردن.",
+      "confusion": "Naematelia encephala نیز ژله‌ای رنگ‌پریده، زرد تا مایل به صورتی و شبیه مغز می‌سازد، اما هسته سفید سفت و کدر دارد و روی چوب مخروطیان می‌روید. Tremella aurantia از نظر رنگ و شکل مشابه است، اما روی ریسه Stereum hirsutum می‌روید (معمولاً روی تنه و کنده) و ظاهری مات‌تر با لبه‌های ضخیم‌تر دارد. Dacrymyces stillatus روی چوب مرطوب فقط بالشتک‌های زرد بسیار کوچک چند میلی‌متری می‌سازد، نه توده‌های چین‌خورده بزرگ. هیچ‌یک از این گونه‌های مشابه خطرناک نیست.",
+      "notes": "قابل‌اعتمادترین نشانه‌های صحرایی ژله زرد روشن، شفاف، بی‌ساقه و شبیه مغز روی ترکه‌های مرده پهن‌برگ، نبود هسته سفید، و عادت جمع شدن به پوسته‌ای نارنجی در خشکی و ورم دوباره پس از باران است. پوسته‌های خاکستری‌صورتی کم‌نمای میزبان Peniophora اغلب روی همان شاخه هستند. اندام‌های جوان ممکن است با لعاب زرد روشن هاگ‌های غیرجنسی پوشیده شوند. قارچ‌های پرورشی که در شرق آسیا با این نام فروخته می‌شوند به گونه دیگری تعلق دارند.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "قارچ مغز زرد"
+    },
+    "fi": {
+      "description": "Yleinen hyytelömäinen sieni kuolleilla lehtipuunuorilla, tunnistettavissa kirkkaan kultankeltaisista tai oranssinkeltaisista, läpikuultavista, aivomaisista poimuista, jotka kasvavat suoraan kuoresta. Lakkia, jalkaa, helttoja ja pillien suita ei ole. Kuivalla säällä se kutistuu kovaksi, tummanoranssiksi kuoreksi ja turpoaa sateen jälkeen taas. Malto on tasaisen hyytelömäistä, eikä siinä ole kiinteää valkoista ydintä.",
+      "cap": "Varsinaista lakkia ei ole. Itiöemä on 2–8 cm leveä (usein vain 2–5 cm; jotkin eurooppalaiset oppaat antavat 1–4 cm, ja muutamat saksalaiset lähteet mainitsevat huomattavasti suurempia yksilöitä). Se on pehmeä, epäsäännöllinen massa poimuttunutta, aivomaista tai liuskaisista hyytelöä, aluksi pieni kiekko tai tyyny, joka puhkeaa kuoren halkeamasta. Tuoreena se on kultankeltainen tai kirkkaan oranssinkeltainen, pidemmän sateen jälkeen vaaleampi ja harvoin miltei valkoinen. Pinta on sileä, kosteana rasvainen tai limainen ja kiiltävä. Se kiinnittyy suoraan kuoreen.",
+      "hymenium": "Itiöitä tuottava pinta peittää poimujen ulkopinnan. Helttoja, pillien suita tai huokosia ei ole.",
+      "stipe": "Jalkaa ei ole. Itiöemä kasvaa esiin kuolleiden, usein vielä kiinni olevien lehtipuunuorien kuoren halkeamista.",
+      "flesh": "Malto on tasaisen hyytelömäistä, koko leikkauspinnalta läpikuultavan keltaista tai oranssinkeltaista, ilman kiinteää valkoista tai läpinäkymätöntä ydintä. Kostea malto on pehmeää ja sitkeää, kuivana kovaa ja sarvimaista. Kuivuneet itiöemät ovat paljon pienempiä, tummanoransseja tai punertavanoransseja, ja ne elpyvät sateen jälkeen. Tuoksu on heikko tai puuttuu; maku on mieto ja lähes mauton.",
+      "sporePrint": "Itiöpöly on valkoista tai vaaleankeltaista. Itiöt ovat leveän ellipsoidisia tai pitkulaisia, sileitä, tyypillisesti 10–16 × 6–9,5 µm.",
+      "habitat": "Peniophora-suvun koroilla loisiva sieni kuolleilla lehtipuun oksilla, etenkin tammen, pyökin, pähkinäpensaan, saarnen, koivun ja Ulexin oksilla, myös pudonneilla ja vielä kiinni olevilla taimilla. Se on levinnyt Euroopan lauhkeille alueille ja on tavattu myös Aasiassa, Australiassa ja Amerikassa. Itiöemiä voi ilmestyä märällä säällä ympäri vuoden; niitä nähdään useimmin myöhäissyksystä alkukevääseen.",
+      "uses": "Syötävä, mutta ruokakäytössä vähäarvoinen: malto on lähes mautonta ja vähäistä, vaikka se voi antaa keitoille hyytelömäisen rakenteen ja sitä käytetään joissakin itäaasialaisissa kasvisruoissa. Jotkin oppaat merkitsevät sen syötäväksi kelpaamattomaksi. Se ei ole myrkyllinen. Tässä luettelossa se on merkitty syötäväksi, tämä ristiriita ilmoitettuna, eikä erinomaiseksi ruokasieneksi.",
+      "confusion": "Naematelia encephala muodostaa myös vaaleankeltaista tai vaaleanpunaista, aivomaista hyytelöä, mutta sillä on kiinteä, läpinäkymätön valkoinen ydin ja se kasvaa havupuun puulla. Tremella aurantia on väriltään ja muodoltaan samanlainen, mutta kasvaa lajin Stereum hirsutum rihmastossa (tavallisesti rungoilla ja kannoilla) ja on himmeämmän, paksumpi liuskainen. Lahotipakka (Dacrymyces stillatus) muodostaa märälle puulle vain muutaman millimetrin kokoisia keltaisia tyynyjä, ei suuria poimuttuneita massaosia. Mikään näistä näköislajeista ei ole vaarallinen.",
+      "notes": "Luotettavimmat maastotuntomerkit ovat kirkkaankeltainen, läpikuultava, varreton, aivomainen hyytelö kuolleilla lehtipuunuorilla, valkoisen ytimen puuttuminen sekä se, että kuivalla säällä se kutistuu oranssiksi kuoreksi ja turpoaa sateen jälkeen taas. Isännän Peniophora huomaamattomia harmaanpunertavia koroja on usein samalla oksalla. Nuoria itiöemiä voi peittää kirkkaankeltainen suvuttomien itiöiden lima. Tällä nimellä Itä-Aasiassa myydyt viljellyt sienet kuuluvat toiseen lajiin.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "keltahytykkä"
+    },
+    "fr": {
+      "description": "Un champignon gélatineux commun des branches mortes de feuillus, reconnaissable à ses plis translucides, d’un jaune d’or vif à jaune orangé, en forme de cerveau, qui émergent directement de l’écorce. Il n’a ni chapeau, ni pied, ni lames, ni pores. Par temps sec, il se rétracte en une croûte dure, orange foncé, et il se gonfle de nouveau après la pluie. La chair est uniformément gélatineuse et n’a pas de noyau blanc ferme.",
+      "cap": "Il n’y a pas de vrai chapeau. Le sporophore mesure 2–8 cm de large (souvent seulement 2–5 cm ; certains guides européens indiquent 1–4 cm, et quelques sources allemandes citent des spécimens bien plus grands). C’est une masse molle et irrégulière de gelée plissée, cérébriforme ou lobée, d’abord un petit disque ou un coussinet perçant une fente de l’écorce. Frais, il est jaune d’or à jaune orangé clair, plus pâle après une pluie prolongée, et rarement presque blanc. La surface est lisse, grasse ou visqueuse par temps humide, et luisante. Il s’attache directement à l’écorce.",
+      "hymenium": "La surface sporifère recouvre l’extérieur des plis. Il n’y a ni lames, ni tubes, ni pores.",
+      "stipe": "Il n’y a pas de pied. Le sporophore sort par des fentes de l’écorce de branches mortes de feuillus, souvent encore attachées.",
+      "flesh": "La chair est uniformément gélatineuse, d’un jaune à jaune orangé translucide sur toute la coupe, sans noyau blanc ferme ou opaque. Elle est molle et tenace à l’état humide, dure et cornée à l’état sec. Les sporophores desséchés sont beaucoup plus petits, orange foncé à orange rougeâtre, et ils reprennent vie après la pluie. L’odeur est faible ou nulle ; la saveur est douce et presque insipide.",
+      "sporePrint": "La sporée est blanche à jaune pâle. Les spores sont largement ellipsoïdes à oblongues, lisses, typiquement 10–16 × 6–9,5 µm.",
+      "habitat": "Un champignon parasite de champignons corticoles du genre Peniophora, sur des branches mortes de feuillus, surtout le chêne, le hêtre, le noisetier, le frêne, le bouleau et l’ajonc (Ulex), y compris les ramilles tombées ou encore attachées. Il est répandu dans les régions tempérées d’Europe et a aussi été signalé en Asie, en Australie et dans les Amériques. Les sporophores peuvent apparaître par temps humide tout au long de l’année ; on les voit le plus souvent de la fin de l’automne au début du printemps.",
+      "uses": "Comestible, mais de peu d’intérêt culinaire : la chair est presque insipide et inconsistante, bien qu’elle puisse donner une texture gélatineuse aux soupes, et elle est utilisée dans certains plats végétariens d’Asie orientale. Certains guides le donnent comme non comestible. Il n’est pas toxique. Dans ce catalogue, il est enregistré comme comestible, avec ce désaccord indiqué, et non comme excellent comestible.",
+      "confusion": "Naematelia encephala forme aussi une gelée pâle, jaune à rosâtre, en forme de cerveau, mais elle a un noyau blanc ferme et opaque et pousse sur le bois de conifères. Tremella aurantia est semblable par la couleur et la forme, mais pousse sur le mycélium de Stereum hirsutum (le plus souvent sur des troncs et des souches) et a un aspect plus terne, à lobes plus épais. Le dacrymycète déliquescent (Dacrymyces stillatus) ne forme, sur le bois humide, que de tout petits coussinets jaunes de quelques millimètres, et non de grandes masses plissées. Aucune de ces confusions possibles n’est dangereuse.",
+      "notes": "Les caractères de terrain les plus sûrs sont la gelée jaune vif, translucide, sans pied et en forme de cerveau, sur des ramilles mortes de feuillus, l’absence de noyau blanc, et l’habitude de se rétracter en une croûte orange par temps sec et de se gonfler de nouveau après la pluie. Des croûtes gris-rosé peu visibles de l’hôte Peniophora sont souvent présentes sur la même branche. Les jeunes sporophores peuvent être recouverts d’un mucus jaune vif de spores asexuées. Les champignons cultivés vendus sous ce nom en Asie orientale appartiennent à une autre espèce.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Trémelle mésentérique"
+    },
+    "he": {
+      "description": "פטרייה ג׳לטינית שכיחה על ענפים מתים של עצים רחבי עלים, מזוהה לפי קפלים שקופים, בצבע צהוב זהוב עז עד צהוב-כתום, דמויי מוח, הפורצים ישר מקליפת העץ. אין לה כובע, רגל, דפים או נקבוביות. במזג אוויר יבש היא מתכווצת לקרום קשה, כתום כהה, ותופחת שוב אחרי גשם. הבשר ג׳לטיני באופן אחיד ואין בו ליבה לבנה מוצקה.",
+      "cap": "אין כובע אמיתי. גוף הפרי הוא 2–8 ס״מ לרוחב (לעיתים קרובות רק 2–5 ס״מ; מדריכים אירופיים אחדים נותנים 1–4 ס״מ, ומקורות גרמניים אחדים מציינים פרטים גדולים בהרבה). זו מסה רכה ולא סדירה של ג׳לי מקופל, דמוי מוח או בעל אונות; תחילה דיסקה או כרית קטנה הפורצת דרך סדק בקליפה. במצב טרי הצבע צהוב זהוב עד צהוב-כתום בהיר, חיוור יותר אחרי גשם ממושך ולעיתים רחוקות כמעט לבן. המשטח חלק, שמנוני או רירי בלחות, ומבריק. היא נצמדת ישירות לקליפה.",
+      "hymenium": "המשטח נושא הנבגים מכסה את צדם החיצוני של הקפלים. אין דפים, צינורות או נקבוביות.",
+      "stipe": "אין רגל. גוף הפרי יוצא דרך סדקים בקליפת ענפים מתים של עצים רחבי עלים, שלעיתים קרובות עדיין מחוברים.",
+      "flesh": "הבשר ג׳לטיני באופן אחיד, צהוב עד צהוב-כתום שקוף לכל אורך החתך, בלי ליבה לבנה מוצקה או אטומה. בלחות הוא רך ועמיד, וביובש קשה וקרני. גופי פרי יבשים קטנים בהרבה, כתומים כהים עד כתום-אדמדם, ומתעוררים לחיים אחרי גשם. הריח חלש או חסר; הטעם עדין וכמעט חסר טעם.",
+      "sporePrint": "הדפס הנבגים לבן עד צהוב חיוור. הנבגים רחבים-אליפסואידיים עד מוארכים, חלקים, בדרך כלל 10–16 × 6–9.5 µm.",
+      "habitat": "פטרייה טפילית של פטריות קרומיות בסוג Peniophora, על ענפים מתים של עצים רחבי עלים, בייחוד אלון, אשור, אגוז לוז, מילה, ליבנה ו-Ulex, כולל זרדים שנשרו או שעדיין מחוברים. היא נפוצה באזורים הממוזגים של אירופה ותועדה גם באסיה, באוסטרליה ובאמריקה. גופי פרי יכולים להופיע במזג אוויר לח לאורך כל השנה; לרוב רואים אותם מסוף הסתיו עד ראשית האביב.",
+      "uses": "אכילה, אך ערכה הקולינרי מועט: הבשר כמעט חסר טעם ודל, אף שהוא יכול להעניק מרקם ג׳לטיני למרקים, והוא משמש במאכלים צמחוניים אחדים במזרח אסיה. מדריכים אחדים מציינים אותה כלא למאכל. היא אינה רעילה. בקטלוג זה היא רשומה כאכילה, תוך ציון הסתירה הזאת, ולא כמובחרת למאכל.",
+      "confusion": "גם Naematelia encephala יוצרת ג׳לי חיוור, צהוב עד ורדרד, דמוי מוח, אך יש לה ליבה לבנה מוצקה ואטומה והיא גדלה על עץ מחטניים. Tremella aurantia דומה בצבע ובצורה, אך גדלה על התפטיר של Stereum hirsutum (בדרך כלל על גזעים וגזעים כרותים) ויש לה מראה עמום יותר, עם אונות עבות יותר. Dacrymyces stillatus יוצר על עץ לח רק כריות צהובות זעירות של כמה מילימטרים, לא מסות מקופלות גדולות. אף אחד ממינים דומים אלה אינו מסוכן.",
+      "notes": "הסימנים האמינים ביותר בשדה הם הג׳לי הצהוב העז, השקוף, בלי רגל ודמוי מוח, על זרדים מתים של עצים רחבי עלים, היעדר ליבה לבנה, וההרגל להתכווץ לקרום כתום במזג אוויר יבש ולתפוח שוב אחרי גשם. קרומים אפורים-ורודים לא בולטים של הפונדקאי Peniophora מצויים לעיתים קרובות על אותו ענף. גופי פרי צעירים עשויים להיות מכוסים בריר צהוב עז של נבגים אל-מיניים. פטריות תרבות הנמכרות בשם זה במזרח אסיה שייכות למין אחר.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "קרישית זהובה"
+    },
+    "hi": {
+      "description": "चौड़ी पत्ती वाले पेड़ों की मृत शाखाओं का एक सामान्य जेली जैसा कवक, जिसे छाल से सीधे निकलने वाली चमकीली सुनहरी-पीली से नारंगी-पीली, पारभासी, मस्तिष्क जैसी परतों से पहचाना जाता है। टोपी, डंठल, गिल्स और छिद्र नहीं होते। सूखे मौसम में यह एक कठोर, गहरे नारंगी परत में सिकुड़ जाता है और वर्षा के बाद फिर फूल जाता है। गूदा समान रूप से जेली जैसा होता है और इसमें कोई ठोस सफेद क्रोड नहीं होता।",
+      "cap": "सच्ची टोपी नहीं होती। फलन-काय 2–8 सेमी चौड़ा होता है (अक्सर केवल 2–5 सेमी; कुछ यूरोपीय मार्गदर्शिकाएँ 1–4 सेमी देती हैं, और कुछ जर्मन स्रोत कहीं बड़े नमूनों का उल्लेख करते हैं)। यह मुड़ी हुई, मस्तिष्क जैसी या पालियुक्त जेली का नरम, अनियमित पिंड है; पहले एक छोटी डिस्क या गद्दी जो छाल की दरार से निकलती है। ताज़ा होने पर यह सुनहरा-पीला से साफ़ नारंगी-पीला होता है, लंबी वर्षा के बाद अधिक फीका और कभी-कभी लगभग सफेद। सतह चिकनी है, नमी में चिकना या श्लेष्मी और चमकदार। यह सीधे छाल से जुड़ा होता है।",
+      "hymenium": "बीजाणु उत्पन्न करने वाली सतह परतों के बाहरी भाग को ढकती है। गिल्स, नलिकाएँ और छिद्र नहीं होते।",
+      "stipe": "डंठल नहीं होता। फलन-काय चौड़ी पत्ती वाले पेड़ों की मृत शाखाओं की छाल की दरारों से निकलता है, जो अक्सर अभी भी जुड़ी होती हैं।",
+      "flesh": "गूदा समान रूप से जेली जैसा है, पूरे काट में पारभासी पीला से नारंगी-पीला, बिना ठोस सफेद या अपारदर्शी क्रोड के। नमी में यह नरम और दृढ़ है, सूखने पर कठोर और सींग जैसा। सूखे फलन-काय बहुत छोटे होते हैं, गहरे नारंगी से लाल-नारंगी, और वर्षा के बाद फिर जीवित हो जाते हैं। गंध कमज़ोर है या नहीं होती; स्वाद मृदु और लगभग स्वादहीन है।",
+      "sporePrint": "बीजाणु छाप सफेद से हल्की पीली होती है। बीजाणु चौड़े दीर्घवृत्ताकार से आयताकार, चिकने, आमतौर पर 10–16 × 6–9.5 µm।",
+      "habitat": "Peniophora वंश के छाल कवकों का परजीवी कवक, चौड़ी पत्ती वाले पेड़ों की मृत शाखाओं पर, विशेषकर ओक, बीच, हेज़ल, अश, सन्टी और Ulex पर, गिरी हुई या अभी भी जुड़ी टहनियों सहित। यह यूरोप के शीतोष्ण क्षेत्रों में व्यापक है और एशिया, ऑस्ट्रेलिया तथा अमेरिका में भी दर्ज है। फलन-काय गीले मौसम में वर्ष भर प्रकट हो सकते हैं; सबसे अधिक देर पतझड़ से प्रारंभिक वसंत तक दिखते हैं।",
+      "uses": "खाद्य है, किंतु पाक मूल्य कम है: गूदा लगभग स्वादहीन और नगण्य है, यद्यपि यह सूपों को जेली जैसा गठन दे सकता है, और पूर्वी एशिया के कुछ शाकाहारी व्यंजनों में प्रयुक्त होता है। कुछ मार्गदर्शिकाएँ इसे अखाद्य बताती हैं। यह विषाक्त नहीं है। इस सूची में इसे इस मतभेद के साथ खाद्य के रूप में दर्ज किया गया है, उत्कृष्ट खाद्य के रूप में नहीं।",
+      "confusion": "Naematelia encephala भी एक फीकी पीली से गुलाबी, मस्तिष्क जैसी जेली बनाता है, किंतु उसमें ठोस, अपारदर्शी सफेद क्रोड होता है और वह शंकुधारी लकड़ी पर उगता है। Tremella aurantia रंग और आकार में समान है, पर Stereum hirsutum के कवकजाल पर उगता है (सामान्यतः तनों और ठूँठों पर) और अधिक धुंधला, मोटे पालियों वाला दिखता है। Dacrymyces stillatus गीली लकड़ी पर केवल कुछ मिलीमीटर की छोटी पीली गद्दियाँ बनाता है, बड़ी मुड़ी हुई राशियाँ नहीं। इन मिलते-जुलते में से कोई भी खतरनाक नहीं है।",
+      "notes": "सबसे विश्वसनीय क्षेत्र लक्षण मृत चौड़ी-पत्ती टहनियों पर चमकीली पीली, पारभासी, बिना डंठल की, मस्तिष्क जैसी जेली, सफेद क्रोड का अभाव, और सूखे में नारंगी परत में सिकुड़कर वर्षा के बाद फिर फूल जाना हैं। परपोषी Peniophora की अस्पष्ट धूसर-गुलाबी परतें अक्सर उसी शाखा पर होती हैं। युवा फलन-काय अलैंगिक बीजाणुओं के चमकीले पीले श्लेष्म से ढके हो सकते हैं। पूर्वी एशिया में इस नाम से बेचे जाने वाले कृषक कवक किसी अन्य प्रजाति के हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Česta želatinozna gljiva odumrlih grana listača, prepoznatljiva po jarko zlatnožutim do narančastožutim, prozirnim, moždanastim naborima koji izbijaju izravno iz kore. Klobuka, stručka, listića ni pora nema. Po suhom vremenu se skuplja u tvrdu, tamnonarančastu koricu i nakon kiše ponovno nabubri. Meso je ravnomjerno želatinozno i nema čvrstu bijelu jezgru.",
+      "cap": "Pravog klobuka nema. Plodno tijelo ima 2–8 cm u promjeru (često samo 2–5 cm; neki europski vodiči navode 1–4 cm, a nekoliko njemačkih izvora navodi znatno veće primjerke). To je mekana, nepravilna masa naborane, moždanaste ili režnjevite žele mase; isprva je mali disk ili jastučić koji izbija kroz pukotinu u kori. Svježe je zlatnožuto do čisto narančastožuto, nakon dugotrajne kiše bljeđe i rijetko gotovo bijelo. Površina je glatka, po vlažnom vremenu masna ili sluzava i sjajna. Prirasta izravno na koru.",
+      "hymenium": "Površina koja nosi spore pokriva vanjsku stranu nabora. Listića, cjevčica ni pora nema.",
+      "stipe": "Stručka nema. Plodno tijelo izbija kroz pukotine u kori odumrlih, često još visjećih grana listača.",
+      "flesh": "Meso je ravnomjerno želatinozno, u cijelom presjeku prozirno žuto do narančastožuto, bez čvrste bijele ili neprozirne jezgre. Po vlažnom je mekano i čvrsto, po suhom tvrdo i rožnato. Osušena plodna tijela znatno su manja, tamnonarančasta do crvenkastonarančasta i nakon kiše ožive. Miris je slab ili ga nema; okus je blag i gotovo bez okusa.",
+      "sporePrint": "Otisak spora je bijel do blijedožut. Spore su široko elipsoidne do duguljaste, glatke, tipično 10–16 × 6–9,5 µm.",
+      "habitat": "Parazitska gljiva korticioidnih gljiva roda Peniophora, na odumrlim granama listača, osobito hrasta, bukve, lijeske, jasena, breze i žuke (Ulex), uključujući pale i još visjeće grančice. Raširena je u umjerenim predjelima Europe i zabilježena je i u Aziji, Australiji i Americi. Plodna tijela mogu se pojaviti po vlažnom vremenu tijekom cijele godine; najčešće se vide od kasne jeseni do ranog proljeća.",
+      "uses": "Jestiva je, ali kulinarske vrijednosti ima malo: meso je gotovo bez okusa i neznatno, iako može dati želatinoznu teksturu juhama i koristi se u nekim istočnoazijskim vegetarijanskim jelima. Neki vodiči je navode kao nejestivu. Nije otrovna. U katalogu je navedena kao jestiva, uz otkrivanje te proturječnosti, a ne kao izvrsna jestiva.",
+      "confusion": "Naematelia encephala također stvara blijedožutu do ružičastu, moždanastu žele masu, ali ima čvrstu, neprozirnu bijelu jezgru i raste na drvu četinjača. Tremella aurantia slične je boje i oblika, ali raste na miceliju vrste Stereum hirsutum (obično na deblima i panjevima) i ima matnije, deblje režnjeve. Dacrymyces stillatus na vlažnom drvu stvara samo sitne žute jastučiće promjera nekoliko milimetara, a ne velike naborane mase. Nijedna od ovih sličnih vrsta nije opasna.",
+      "notes": "Najpouzdanija terenska obilježja su jarko žuta, prozirna, bez stručka, moždanasta žele masa na odumrlim grančicama listača, nedostatak bijele jezgre i to što se po suhom vremenu skuplja u narančastu koricu i nakon kiše ponovno nabubri. Neupadljive sivo-ružičaste pokorice domaćina Peniophora često su na istoj grani. Mlada plodna tijela može prekrivati jarko žuta sluz nespolnih spora. Uzgojene gljive prodavane pod ovim imenom u istočnoj Aziji pripadaju drugoj vrsti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "Naborana drhtalica"
+    },
+    "hu": {
+      "description": "Gyakori kocsonyás gomba elhalt lomblevelű ágakon, felismerhető az élénk aranysárga vagy narancssárga, áttetsző, agyvelőszerű redőkről, amelyek egyenesen a kéregből bújnak elő. Kalapja, tönkje, lemezei és pórusai nincsenek. Száraz időben kemény, sötétnarancs kérggé zsugorodik, és eső után újra megduzzad. A hús egyenletesen kocsonyás, és nincs benne tömör fehér mag.",
+      "cap": "Valódi kalapja nincs. A termőtest 2–8 cm széles (gyakran csak 2–5 cm; egyes európai határozók 1–4 cm-t adnak meg, néhány német forrás pedig lényegesen nagyobb példányokat említ). Puha, szabálytalan tömeg redős, agyvelőszerű vagy karéjos kocsonyából; eleinte kis korong vagy párna, amely a kéreg repedésén tör elő. Frissen aranysárga vagy tisztán narancssárga, hosszas eső után halványabb, ritkán majdnem fehér. A felszín sima, nedvesen zsíros vagy nyálkás és fénylő. Közvetlenül a kéreghez tapad.",
+      "hymenium": "A spóratermő felszín a redők külsejét borítja. Lemezei, csövei és pórusai nincsenek.",
+      "stipe": "Tönkje nincs. A termőtest elhalt, gyakran még a fán ülő lomblevelű ágak kérgének repedésein nő ki.",
+      "flesh": "A hús egyenletesen kocsonyás, az egész metszéslapján áttetszően sárga vagy narancssárga, tömör fehér vagy átlátszatlan mag nélkül. Nedvesen puha és szívós, szárazon kemény és szarvas. A kiszáradt termőtestek sokkal kisebbek, sötétnarancs vagy vörösesnarancs színűek, és eső után újraélednek. A szag gyenge vagy hiányzik; az íz enyhe és szinte íztelen.",
+      "sporePrint": "A spórapor fehér vagy halványsárga. A spórák szélesen ellipszoidok vagy hosszúkásak, simák, jellemzően 10–16 × 6–9,5 µm.",
+      "habitat": "Élősködő gomba a Peniophora nemzetség kérges gombáin, elhalt lomblevelű ágakon, különösen tölgyön, bükkön, mogyorón, kőrisen, nyíren és Ulexen, lehullott és még a fán ülő gallyakon is. Európa mérsékelt övében elterjedt, és Ázsiában, Ausztráliában és Amerikában is feljegyezték. A termőtestek nedves időben az év folyamán bármikor megjelenhetnek; leggyakrabban a késő ősztől a kora tavaszig láthatók.",
+      "uses": "Ehető, de konyhailag csekély értékű: a hús szinte íztelen és jelentéktelen, bár leveseknek kocsonyás textúrát adhat, és egyes kelet-ázsiai vegetáriánus ételekben használják. Egyes határozók nem ehetőnek tüntetik fel. Nem mérgező. Ebben a katalógusban ehetőként szerepel, ezzel az ellentmondással jelezve, és nem kiváló csemegegombaként.",
+      "confusion": "A Naematelia encephala szintén halványsárga vagy rózsás, agyvelőszerű kocsonyát képez, de tömör, átlátszatlan fehér magja van, és fenyőfélék fáján nő. A Tremella aurantia színben és alakban hasonló, de a Stereum hirsutum micéliumán nő (rendszerint törzseken és tuskókon), és tompább, vastagabb karéjú. A sárga gümőgomba (Dacrymyces stillatus) nedves fán csak apró, néhány milliméteres sárga párnákat képez, nem nagy redős tömegeket. E hasonló fajok közül egyik sem veszélyes.",
+      "notes": "A legmegbízhatóbb terepi bélyegek az élénksárga, áttetsző, tönk nélküli, agyvelőszerű kocsonya elhalt lomblevelű gallyakon, a fehér mag hiánya, és az, hogy száraz időben narancsszínű kérggé zsugorodik, majd eső után újra megduzzad. A gazda Peniophora feltűnésmentes szürkésrózsás kérgei gyakran ugyanazon az ágon vannak. A fiatal termőtesteket élénksárga, ivartalan spórákból álló nyálka boríthatja. Az e néven Kelet-Ázsiában árusított termesztett gombák más fajhoz tartoznak.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "aranyos rezgőgomba"
+    },
+    "id": {
+      "description": "Jamur bersifat jeli yang umum pada cabang mati pohon berdaun lebar, dikenali dari lipatan tembus pandang berwarna kuning keemasan cerah hingga kuning jingga, menyerupai otak, yang keluar langsung dari kulit kayu. Tidak memiliki tudung, tangkai, lamela, maupun pori. Pada cuaca kering ia mengerut menjadi kerak keras berwarna jingga tua, lalu mengembang lagi setelah hujan. Dagingnya merata seperti jeli dan tidak memiliki inti putih yang padat.",
+      "cap": "Tidak ada tudung sejati. Tubuh buah selebar 2–8 cm (sering hanya 2–5 cm; beberapa panduan Eropa menyebut 1–4 cm, dan beberapa sumber Jerman mencatat spesimen yang jauh lebih besar). Ini adalah massa lunak dan tidak beraturan dari jeli berlipat, menyerupai otak atau berlobus; mula-mula cakram atau bantalan kecil yang menembus celah kulit kayu. Ketika segar berwarna kuning keemasan hingga kuning jingga jernih, lebih pucat setelah hujan lama, dan jarang hampir putih. Permukaan halus, berminyak atau berlendir ketika basah, dan mengilap. Melekat langsung pada kulit kayu.",
+      "hymenium": "Permukaan penghasil spora menutupi sisi luar lipatan. Tidak ada lamela, tabung, maupun pori.",
+      "stipe": "Tidak ada tangkai. Tubuh buah keluar melalui celah kulit kayu pada cabang mati pohon berdaun lebar, yang sering masih menempel.",
+      "flesh": "Daging merata seperti jeli, kuning hingga kuning jingga tembus pandang di seluruh irisan, tanpa inti putih yang padat atau buram. Ketika basah lunak dan ulet; ketika kering keras dan seperti tanduk. Tubuh buah yang mengering jauh lebih kecil, jingga tua hingga jingga kemerahan, dan hidup kembali setelah hujan. Baunya lemah atau tidak ada; rasanya lembut dan hampir tawar.",
+      "sporePrint": "Jejak spora putih hingga kuning pucat. Spora lebar elipsoid hingga lonjong, halus, biasanya 10–16 × 6–9,5 µm.",
+      "habitat": "Jamur parasit pada jamur berkulit dalam genus Peniophora, pada cabang mati pohon berdaun lebar, terutama ek, beech, hazel, abu, birch, dan Ulex, termasuk ranting yang gugur atau masih menempel. Tersebar luas di kawasan beriklim sedang di Eropa dan juga tercatat di Asia, Australia, dan Amerika. Tubuh buah dapat muncul pada cuaca basah sepanjang tahun; paling sering terlihat dari akhir musim gugur hingga awal musim semi.",
+      "uses": "Dapat dimakan, tetapi nilai kuliner rendah: daging hampir tawar dan tidak berarti, meski dapat memberi tekstur seperti jeli pada sup, dan digunakan dalam beberapa hidangan vegetarian Asia Timur. Beberapa panduan mencantumkannya sebagai tidak dapat dimakan. Tidak beracun. Dalam katalog ini dicatat sebagai dapat dimakan, dengan pertentangan itu dijelaskan, bukan sebagai pilihan utama.",
+      "confusion": "Naematelia encephala juga membentuk jeli pucat, kuning hingga keunguan-merah muda, menyerupai otak, tetapi memiliki inti putih yang padat dan buram serta tumbuh pada kayu konifer. Tremella aurantia serupa dalam warna dan bentuk, tetapi tumbuh pada miselium Stereum hirsutum (biasanya pada batang dan tunggak) dan tampak lebih kusam, dengan lobus yang lebih tebal. Dacrymyces stillatus pada kayu basah hanya membentuk bantalan kuning sangat kecil berukuran beberapa milimeter, bukan massa berlipat yang besar. Tidak satu pun kemiripan ini berbahaya.",
+      "notes": "Ciri lapangan yang paling andal adalah jeli kuning cerah, tembus pandang, tanpa tangkai, dan menyerupai otak pada ranting mati pohon berdaun lebar, tiadanya inti putih, serta kebiasaan mengerut menjadi kerak jingga pada cuaca kering dan mengembang lagi setelah hujan. Kerak kelabu-merah muda yang tidak mencolok dari inang Peniophora sering ada pada cabang yang sama. Tubuh buah muda dapat dilapisi lendir kuning cerah dari spora aseksual. Jamur budidaya yang dijual dengan nama ini di Asia Timur termasuk spesies lain.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo gelatinoso comune sui rami morti delle latifoglie, riconoscibile per le pieghe traslucide, giallo oro vivace o giallo-arancio, a forma di cervello, che emergono direttamente dalla corteccia. Non ha cappello, gambo, lamelle né pori. Con il tempo asciutto si contrae in una crosta dura, arancio scuro, e si rigonfia di nuovo dopo la pioggia. La carne è uniformemente gelatinosa e non ha un nucleo bianco consistente.",
+      "cap": "Non c’è un vero cappello. Il corpo fruttifero è largo 2–8 cm (spesso solo 2–5 cm; alcune guide europee indicano 1–4 cm e alcune fonti tedesche citano esemplari molto più grandi). È una massa morbida e irregolare di gelatina pieghettata, cerebriforme o lobata; all’inizio un piccolo disco o un cuscinetto che irrompe da una fessura della corteccia. Da fresco è giallo oro o giallo-arancio chiaro, più pallido dopo piogge prolungate e raramente quasi bianco. La superficie è liscia, grassa o vischiosa a umido, e lucente. Si attacca direttamente alla corteccia.",
+      "hymenium": "La superficie che produce le spore copre l’esterno delle pieghe. Non ci sono lamelle, tubuli né pori.",
+      "stipe": "Non c’è gambo. Il corpo fruttifero esce attraverso fessure della corteccia di rami morti di latifoglie, spesso ancora attaccati.",
+      "flesh": "La carne è uniformemente gelatinosa, giallo o giallo-arancio traslucido in tutta la sezione, senza un nucleo bianco consistente o opaco. A umido è morbida e tenace; a secco, dura e cornea. I corpi fruttiferi secchi sono molto più piccoli, arancio scuro o arancio-rossastro, e rivivono dopo la pioggia. L’odore è debole o assente; il sapore è mite e quasi insipido.",
+      "sporePrint": "L’impronta sporale è bianca o giallo pallido. Le spore sono ampiamente ellissoidi o oblunghe, lisce, tipicamente 10–16 × 6–9,5 µm.",
+      "habitat": "Un fungo parassita di funghi corticioidi del genere Peniophora, su rami morti di latifoglie, soprattutto quercia, faggio, nocciolo, frassino, betulla e ginestrone (Ulex), comprese ramette cadute o ancora attaccate. È diffuso nelle regioni temperate d’Europa ed è stato segnalato anche in Asia, in Australia e nelle Americhe. I corpi fruttiferi possono comparire con tempo umido per tutto l’anno; si vedono più spesso dalla fine dell’autunno all’inizio della primavera.",
+      "uses": "Commestibile, ma di scarso valore culinario: la carne è quasi insipida e inconsistente, anche se può dare una consistenza gelatinosa alle zuppe, ed è usata in alcuni piatti vegetariani dell’Asia orientale. Alcune guide lo indicano come non commestibile. Non è velenoso. In questo catalogo è registrato come commestibile, con quel disaccordo indicato, e non come ottimo commestibile.",
+      "confusion": "Naematelia encephala forma anch’essa una gelatina pallida, gialla o rosata, a forma di cervello, ma ha un nucleo bianco consistente e opaco e cresce sul legno di conifere. Tremella aurantia è simile per colore e forma, ma cresce sul micelio di Stereum hirsutum (di solito su tronchi e ceppaie) e ha un aspetto più opaco, con lobi più spessi. Dacrymyces stillatus forma, sul legno umido, solo minuscoli cuscinetti gialli di pochi millimetri, non grandi masse pieghettate. Nessuna di queste specie simili è pericolosa.",
+      "notes": "I caratteri di campo più affidabili sono la gelatina giallo vivace, traslucida, senza gambo e a forma di cervello, su ramette morte di latifoglie, l’assenza di un nucleo bianco, e l’abitudine di contrarsi in una crosta arancio con il tempo asciutto e di rigonfiarsi di nuovo dopo la pioggia. Croste grigio-rosate poco visibili dell’ospite Peniophora sono spesso presenti sullo stesso ramo. I corpi fruttiferi giovani possono essere coperti da un muco giallo vivace di spore asessuate. I funghi coltivati venduti con questo nome in Asia orientale appartengono a un’altra specie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "広葉樹の枯枝にふつう見られるゼラチン質の菌で、樹皮から直接出る鮮やかな黄金色から橙黄色の、半透明で脳状のひだによって識別される。傘・柄・ひだ・管孔はない。乾燥すると硬く暗い橙色の殻に縮み、雨の後に再び膨らむ。肉は一様にゼラチン質で、堅い白色の芯はない。",
+      "cap": "真の傘はない。子実体は幅 2–8 cm（しばしば 2–5 cm のみ。一部のヨーロッパの図鑑は 1–4 cm とし、少数のドイツ語の資料ははるかに大型の個体を記す）。軟らかい不規則な、ひだ状・脳状または裂片状のゼリーの塊で、初めは樹皮の割れ目から出る小さな円盤またはクッションである。新鮮なときは黄金色から澄んだ橙黄色、長雨の後はより淡く、まれにほぼ白色となる。表面は平滑で、湿時は脂っぽいか粘性があり、光沢がある。樹皮に直接着生する。",
+      "hymenium": "胞子を生じる面はひだの外側を覆う。ひだ・管孔・孔口はない。",
+      "stipe": "柄はない。子実体は広葉樹の枯枝（しばしばまだ着いているもの）の樹皮の割れ目から出る。",
+      "flesh": "肉は一様にゼラチン質で、切断面全体が半透明の黄色から橙黄色、堅い白色または不透明な芯はない。湿時は軟らかく強靱、乾時は硬く角質様である。乾燥した子実体ははるかに小さく、暗い橙色から赤みを帯びた橙色で、雨の後に復活する。においはややあるかないか、味は穏やかでほとんど無味である。",
+      "sporePrint": "胞子紋は白色から淡黄。胞子は広楕円形から長楕円形、平滑、ふつう 10–16 × 6–9.5 µm。",
+      "habitat": "Peniophora 属のこうやく状菌に寄生し、広葉樹、とくにナラ・ブナ・ハシバミ・トネリコ・カバノキおよび Ulex の枯枝に生じ、落下した小枝やまだ着いている小枝も含む。ヨーロッパの温帯に広く分布し、アジア・オーストラリア・アメリカでも記録がある。子実体は湿った天候であれば一年中現れ、晩秋から早春に最もよく見られる。",
+      "uses": "食用になるが、食材としての価値は低い。肉はほとんど無味で実質に乏しいが、汁物にゼラチン質の食感を与えることができ、東アジアの一部の菜食料理にも用いられる。一部の図鑑では不食とする。有毒ではない。本図鑑ではこの食い違いを記したうえで食用として扱い、優秀な食用キノコとはしない。",
+      "confusion": "Naematelia encephala も淡黄から淡紅色の脳状のゼリーを作るが、堅く不透明な白色の芯があり、針葉樹の材に生じる。Tremella aurantia は色と形が似るが、Stereum hirsutum の菌糸体上（通常は幹や切り株）に生じ、より鈍く厚い裂片をもつ。ヒメアカキクラゲ（Dacrymyces stillatus）は湿った材に数ミリメートルの小さな黄色いクッションを作るだけで、大きなひだ状の塊にはならない。これらの類似種に危険なものはない。",
+      "notes": "最も確実な野外の特徴は、広葉樹の枯れた小枝上の鮮やかな黄色で半透明、無柄の脳状ゼリー、白色の芯がないこと、乾燥時に橙色の殻に縮み雨の後に再び膨らむ習性である。宿主 Peniophora の目立たない灰紅色のこうやくが同じ枝にあることが多い。若い子実体は無性胞子の鮮黄色の粘液で覆われることがある。東アジアでこの名で売られる栽培菌は別種である。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "コガネニカワタケ"
+    },
+    "ko": {
+      "description": "활엽수의 죽은 가지에서 흔히 보이는 젤라틴질 버섯으로, 나무껍질에서 바로 나오는 선명한 금황색에서 주황황색의, 반투명하고 뇌 모양인 주름으로 알아봅니다. 갓, 대, 주름살, 관공이 없습니다. 건조한 날씨에는 단단하고 짙은 주황색 껍질로 오그라들고, 비가 온 뒤에 다시 부풉니다. 살은 고르게 젤라틴질이며 단단한 흰색 속이 없습니다.",
+      "cap": "진짜 갓은 없습니다. 자실체는 너비 2–8 cm입니다(흔히 2–5 cm뿐이며, 일부 유럽 도감은 1–4 cm를 주고, 몇몇 독일 자료는 훨씬 큰 개체를 적습니다). 접히고 뇌 모양이거나 갈래진 젤리의 부드럽고 불규칙한 덩어리이며, 처음에는 나무껍질 틈으로 나오는 작은 원반이나 방석입니다. 신선할 때는 금황색에서 맑은 주황황색이고, 긴 비 뒤에는 더 옅으며 드물게 거의 흰색입니다. 표면은 매끄럽고, 습할 때는 기름지거나 점액질이며 광택이 있습니다. 나무껍질에 바로 붙습니다.",
+      "hymenium": "포자를 만드는 면이 주름의 바깥을 덮습니다. 주름살, 관, 구멍은 없습니다.",
+      "stipe": "대가 없습니다. 자실체는 활엽수의 죽은 가지, 종종 아직 붙어 있는 가지의 나무껍질 틈으로 나옵니다.",
+      "flesh": "살은 고르게 젤라틴질이며, 절단면 전체가 반투명의 노랑에서 주황노랑이고, 단단한 흰색이나 불투명한 속이 없습니다. 습할 때는 부드럽고 질기며, 마를 때는 단단하고 각질 같습니다. 마른 자실체는 훨씬 작아 짙은 주황에서 붉은 주황이며, 비가 온 뒤에 다시 살아납니다. 냄새는 약하거나 없고, 맛은 담백하며 거의 무미합니다.",
+      "sporePrint": "포자문은 흰색에서 옅은 노랑입니다. 포자는 넓은 타원형에서 긴 타원형이고 매끄러우며, 보통 10–16 × 6–9.5 µm입니다.",
+      "habitat": "Peniophora속의 껍질 버섯에 기생하며, 참나무, 너도밤나무, 개암나무, 물푸레나무, 자작나무 및 Ulex를 비롯한 활엽수의 죽은 가지, 떨어진 잔가지나 아직 붙어 있는 잔가지에서도 납니다. 유럽의 온대에 널리 퍼져 있고 아시아, 오스트레일리아, 아메리카에서도 기록되었습니다. 자실체는 습한 날씨라면 한 해 내내 나타날 수 있으며, 늦가을부터 이른 봄에 가장 자주 보입니다.",
+      "uses": "식용이지만 요리 가치는 낮습니다. 살은 거의 무미하고 보잘것없으나 국에 젤라틴질 식감을 더할 수 있고, 동아시아의 일부 채식 요리에 쓰입니다. 일부 도감은 식용 부적합으로 적습니다. 독버섯은 아닙니다. 이 목록에서는 그 어긋남을 밝히며 식용으로 다루고, 최고의 식용으로는 다루지 않습니다.",
+      "confusion": "Naematelia encephala 역시 옅은 노랑에서 분홍빛의, 뇌 모양 젤리를 만들지만 단단하고 불투명한 흰색 속이 있으며 침엽수의 나무에서 납니다. Tremella aurantia는 색과 모양이 비슷하지만 Stereum hirsutum의 균사체 위(보통 줄기와 그루터기)에서 나며 더 흐리고 두꺼운 갈래를 가집니다. Dacrymyces stillatus는 젖은 나무에 몇 밀리미터의 아주 작은 노란 방석만 만들 뿐, 큰 주름 덩어리는 만들지 않습니다. 이들 유사종 가운데 위험한 것은 없습니다.",
+      "notes": "가장 믿을 수 있는 야외 특징은 활엽수의 죽은 잔가지 위의 선명한 노랑, 반투명하고 대가 없으며 뇌 모양인 젤리, 흰 속의 없음, 그리고 건조할 때 주황 껍질로 오그라들었다가 비 뒤에 다시 부푸는 습성입니다. 기주 Peniophora의 눈에 잘 띄지 않는 회색 분홍 껍질이 같은 가지에 있는 경우가 많습니다. 어린 자실체는 무성 포자의 선명한 노란 점액으로 덮일 수 있습니다. 동아시아에서 이 이름으로 팔리는 재배 버섯은 다른 종입니다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "황금흰목이"
+    },
+    "lt": {
+      "description": "Dažnas drebutinis grybas ant negyvų lapuočių šakų, atpažįstamas iš ryškiai aukso geltonų iki oranžiniai geltonų, peršviečiamų, smegenis primenančių klosčių, išaugančių tiesiai iš žievės. Kepurėlės, koto, lakštelių ir porų nėra. Sausu oru jis susitraukia į kietą, tamsiai oranžinę plutelę ir po lietaus vėl išbrinksta. Trama yra tolygiai drebutinė ir neturi kieto balto branduolio.",
+      "cap": "Tikros kepurėlės nėra. Vaisiakūnis yra 2–8 cm pločio (dažnai tik 2–5 cm; kai kurie Europos vadovai nurodo 1–4 cm, o keli vokiečių šaltiniai mini gerokai didesnius egzempliorius). Tai minkšta, netaisyklinga sulankstytos, smegenis primenančios ar skiautėtos drebučių masė; iš pradžių mažas diskelis ar pagalvėlė, prasiveržianti pro žievės plyšį. Šviežias jis aukso geltonas iki aiškiai oranžiniai geltono, po ilgesnio lietaus blankesnis ir retai beveik baltas. Paviršius lygus, drėgnu oru riebus ar gleivėtas ir blizgus. Jis prisitvirtina tiesiai prie žievės.",
+      "hymenium": "Sparas gimdantis paviršius dengia klosčių išorę. Lakštelių, vamzdelių ir porų nėra.",
+      "stipe": "Koto nėra. Vaisiakūnis išauga pro negyvų, dažnai dar prikibusių lapuočių šakų žievės plyšius.",
+      "flesh": "Trama yra tolygiai drebutinė, visame pjūvyje peršviečiamai geltona iki oranžiniai geltonos, be kieto balto ar neperšviečiamo branduolio. Drėgna ji minkšta ir tvirta, sausa kieta ir ragiška. Išdžiūvę vaisiakūniai yra gerokai mažesni, tamsiai oranžiniai iki rausvai oranžinių, ir po lietaus atgyja. Kvapas silpnas arba jo nėra; skonis švelnus ir beveik beskonis.",
+      "sporePrint": "Sporų atspaudas baltas iki blyškiai geltono. Sporos plačiai elipsoidinės iki pailgų, lygios, paprastai 10–16 × 6–9,5 µm.",
+      "habitat": "Parazitinis grybas, gyvenantis skorinių grybų genties Peniophora sąskaita, ant negyvų lapuočių šakų, ypač ąžuolo, buko, lazdyno, uosio, beržo ir Ulex, įskaitant nukritusias ir dar prikibusias šakeles. Jis paplitęs vidutinių platumų Europoje ir užfiksuotas taip pat Azijoje, Australijoje ir Amerikoje. Vaisiakūniai gali pasirodyti drėgnu oru ištisus metus; dažniausiai matomi nuo vėlyvo rudens iki ankstyvo pavasario.",
+      "uses": "Valgomas, bet kulinariškai mažai vertingas: trama beveik beskonė ir neryški, nors sriuboms gali suteikti drebutinę tekstūrą, ir jis naudojamas kai kuriuose Rytų Azijos vegetariškuose patiekaluose. Kai kurie vadovai jį nurodo kaip nevalgomą. Jis nenuodingas. Šiame kataloge jis įrašytas kaip valgomas, nurodant šį nesutapimą, o ne kaip vertingas valgomas grybas.",
+      "confusion": "Naematelia encephala taip pat sudaro blyškiai geltoną iki rausvą, smegenis primenančią drebučių masę, tačiau turi kietą, neperšviečiamą baltą branduolį ir auga ant spygliuočių medienos. Tremella aurantia panaši spalva ir forma, bet auga ant Stereum hirsutum grybienos (paprastai ant kamienų ir kelmų) ir atrodo blanksesnė, storesnėmis skiautėmis. Lašelinis dakrimicis (Dacrymyces stillatus) ant drėgnos medienos sudaro tik mažytes geltonas pagalvėles kelių milimetrų skersmens, o ne dideles klostuotas mases. Nė viena iš šių panašių rūšių nėra pavojinga.",
+      "notes": "Patikimiausi lauko požymiai yra ryškiai geltona, peršviečiama, be koto, smegenis primenanti drebučių masė ant negyvų lapuočių šakelių, balto branduolio nebuvimas ir tai, kad sausu oru ji susitraukia į oranžinę plutelę ir po lietaus vėl išbrinksta. Neryškios pilkai rausvos šeimininko Peniophora plutelės dažnai būna toje pačioje šakoje. Jaunus vaisiakūnius gali dengti ryškiai geltonos nelytinės sporos gleivės. Kultivuojami grybai, parduodami šiuo vardu Rytų Azijoje, priklauso kitai rūšiai.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Raukšlinis žiūrytis"
+    },
+    "lv": {
+      "description": "Bieži sastopama želejveida sēne uz atmirušiem lapkoku zariem, atpazīstama pēc koši zeltaini dzeltenām līdz oranždzeltenām, caurspīdīgām, smadzenēm līdzīgām krokām, kas izaug tieši no mizas. Cepurītes, kātiņa, lapiņu un poru nav. Sausā laikā tā saraujas cietā, tumši oranžā garoziņā un pēc lietus atkal uzbriest. Mīkstums ir vienmērīgi želejveida un tam nav stingra balta kodola.",
+      "cap": "Īstas cepurītes nav. Augļķermenis ir 2–8 cm plats (bieži tikai 2–5 cm; dažos Eiropas ceļvežos norādīti 1–4 cm, un dažos vācu avotos minēti ievērojami lielāki eksemplāri). Tā ir mīksta, neregulāra krokotas, smadzenēm līdzīgas vai daivainas želejas masa; sākumā mazs disks vai spilventiņš, kas izlaužas caur mizas plaisu. Svaigs tas ir zeltaini dzeltens līdz skaidri oranždzeltens, pēc ilgāka lietus gaišāks un reti gandrīz balts. Virsma ir gluda, mitrā laikā taukaina vai gļotaina un spīdīga. Tas piestiprinās tieši pie mizas.",
+      "hymenium": "Spores nesošā virsma klāj kroku ārpusi. Lapiņu, stobriņu un poru nav.",
+      "stipe": "Kātiņa nav. Augļķermenis izaug caur atmirušu, bieži vēl piekļuvušu lapkoku zaru mizas plaisām.",
+      "flesh": "Mīkstums ir vienmērīgi želejveida, visā griezumā caurspīdīgi dzeltens līdz oranždzeltens, bez stingra balta vai necaurspīdīga kodola. Mitrs tas ir mīksts un izturīgs, sauss — ciets un ragu līdzīgs. Izžuvuši augļķermeņi ir daudz mazāki, tumši oranži līdz sarkanīgi oranži, un pēc lietus atdzīvojas. Smarža ir vāja vai tās nav; garša ir maiga un gandrīz bez garšas.",
+      "sporePrint": "Sporu nospiedums ir balts līdz gaiši dzeltens. Sporas ir plati elipsoidālas līdz iegarenas, gludas, tipiski 10–16 × 6–9,5 µm.",
+      "habitat": "Parazītiska sēne uz garozsēnēm ģintī Peniophora, uz atmirušiem lapkoku zariem, īpaši ozola, dižskābarža, lazdas, oša, bērza un Ulex zariem, ieskaitot nokritušus un vēl piekļuvušus zariņus. Tā ir izplatīta Eiropas mērenajā joslā un ir reģistrēta arī Āzijā, Austrālijā un Amerikā. Augļķermeņi var parādīties mitrā laikā visa gada garumā; visbiežāk tos redz no vēla rudens līdz agrajam pavasarim.",
+      "uses": "Ēdama, bet kulināri mazvērtīga: mīkstums ir gandrīz bez garšas un nenozīmīgs, lai gan zupām var piešķirt želejveida tekstūru, un to lieto dažos Austrumāzijas veģetārajos ēdienos. Daži ceļveži to norāda kā neēdamu. Tā nav indīga. Šajā katalogā tā ir reģistrēta kā ēdama, norādot šo pretrunu, un nevis kā teicama ēdamā sēne.",
+      "confusion": "Naematelia encephala arī veido bāli dzeltenu līdz sārtu, smadzenēm līdzīgu želeju, bet tai ir ciets, necaurspīdīgs balts kodols un tā aug uz skujkoku koksnes. Tremella aurantia ir līdzīga krāsā un formā, bet aug uz Stereum hirsutum micēlija (parasti uz stumbriem un celmiem) un ir matētāka, ar biezākām daivām. Oranžā galertene (Dacrymyces stillatus) uz mitras koksnes veido tikai sīkus dzeltenus spilventiņus dažu milimetru diametrā, nevis lielas krokotas masas. Neviena no šīm līdzīgajām sugām nav bīstama.",
+      "notes": "Uzticamākās lauka pazīmes ir koši dzeltenā, caurspīdīgā, bez kātiņa, smadzenēm līdzīgā želeja uz atmirušiem lapkoku zariņiem, baltā kodola trūkums un tas, ka sausā laikā tā saraujas oranžā garoziņā un pēc lietus atkal uzbriest. Saimnieka Peniophora neuzkrītošas pelēksārtas garoziņas bieži ir uz tā paša zara. Jaunus augļķermeņus var klāt koši dzeltenas bezdzimuma sporu gļotas. Kultivētās sēnes, ko Austrumāzijā pārdod ar šo nosaukumu, pieder citai sugai.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Dzeltenā receklene"
+    },
+    "nl": {
+      "description": "Een algemene gelatineuze zwam van dode loofhouttakken, te herkennen aan helder goudgele tot oranjegele, doorschijnende, hersenvormige plooien die rechtstreeks uit de schors tevoorschijn komen. Hoed, steel, plaatjes en poriën ontbreken. Bij droog weer krimpt hij tot een harde, donkeroranje korst en zwelt hij na regen weer op. Het vlees is gelijkmatig gelei-achtig en heeft geen stevige witte kern.",
+      "cap": "Een echte hoed ontbreekt. Het vruchtlichaam is 2–8 cm breed (vaak slechts 2–5 cm; sommige Europese gidsen geven 1–4 cm, en enkele Duitse bronnen noemen veel grotere exemplaren). Het is een zachte, onregelmatige massa gevouwen, hersenvormige of gelobde gelei, aanvankelijk een klein schijfje of kussentje dat door een scheur in de schors breekt. Vers is hij goudgeel tot helder oranjegeel, na langdurige regen bleker en zelden bijna wit. Het oppervlak is glad, bij vocht vettig of slijmerig en glanzend. Hij zit rechtstreeks op de schors vast.",
+      "hymenium": "Het sporenproducerende oppervlak bedekt de buitenkant van de plooien. Plaatjes, buizen en poriën ontbreken.",
+      "stipe": "Een steel ontbreekt. Het vruchtlichaam groeit door spleten in de schors van dode, vaak nog vastzittende loofhouttakken naar buiten.",
+      "flesh": "Het vlees is gelijkmatig gelatineus, in de hele doorsnede doorschijnend geel tot oranjegeel, zonder stevige witte of ondoorzichtige kern. Vochtig is het zacht en taai, droog hard en hoornachtig. Gedroogde vruchtlichamen zijn veel kleiner, donkeroranje tot roodachtig oranje, en komen na regen weer tot leven. De geur is zwak of ontbreekt; de smaak is mild en bijna smaakloos.",
+      "sporePrint": "De sporenprint is wit tot vaalgeel. De sporen zijn breed ellipsoïd tot langwerpig, glad, typisch 10–16 × 6–9,5 µm.",
+      "habitat": "Een parasitaire zwam van korstvormige schimmels van het geslacht Peniophora, op dode takken van loofbomen, vooral eik, beuk, hazelaar, es, berk en gaspeldoorn (Ulex), inclusief afgevallen en nog vastzittende twijgen. Hij is wijdverbreid in de gematigde streken van Europa en is ook in Azië, Australië en Amerika vastgesteld. Vruchtlichamen kunnen bij nat weer het hele jaar verschijnen; ze worden het vaakst gezien van de late herfst tot het vroege voorjaar.",
+      "uses": "Eetbaar, maar van geringe culinaire waarde: het vlees is bijna smaakloos en onbeduidend, al kan het soepen een gelatineuze textuur geven en wordt het in sommige Oost-Aziatische vegetarische gerechten gebruikt. Sommige veldgidsen vermelden hem als niet eetbaar. Hij is niet giftig. In de catalogus staat hij als eetbaar, met vermelding van die tegenstrijdigheid, en niet als uitstekend eetbaar.",
+      "confusion": "Naematelia encephala vormt eveneens een vaalgele tot roze, hersenvormige gelei, maar heeft een stevige, ondoorzichtige witte kern en groeit op naaldhout. Tremella aurantia is vergelijkbaar van kleur en vorm, maar groeit op het mycelium van Stereum hirsutum (meestal op stammen en stronken) en heeft een doffer, dikker gelobd uiterlijk. De oranje druppelzwam (Dacrymyces stillatus) vormt op nat hout slechts minuscule gele kussentjes van enkele millimeters, geen grote geplooide massa’s. Geen van deze vergelijkbare soorten is gevaarlijk.",
+      "notes": "De betrouwbaarste veldkenmerken zijn de heldergele, doorschijnende, steelloze, hersenvormige gelei op dode loofhouttwijgen, het ontbreken van een witte kern, en de gewoonte om bij droogte tot een oranje korst te krimpen en na regen weer op te zwellen. Onopvallende grijzig-roze korsten van de gastheer Peniophora zitten vaak op dezelfde tak. Jonge vruchtlichamen kunnen bedekt zijn met een heldergeel slijm van ongeslachtelijke sporen. Gekweekte zwammen die in Oost-Azië onder deze naam worden verkocht, behoren tot een andere soort.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "gele trilzwam"
+    },
+    "no": {
+      "description": "En vanlig geléaktig sopp på døde løvvedgreiner, kjent på klart gullgule til orangegule, gjennomskinnelige, hjerneaktige folder som vokser rett ut av barken. Hatt, stilk, skiver og porer mangler. I tørt vær skrumper den inn til en hard, mørkeoransje skorpe og sveler opp igjen etter regn. Kjøttet er jevnt geléaktig og har ingen fast hvit kjerne.",
+      "cap": "En ekte hatt mangler. Fruktlegemet er 2–8 cm bredt (ofte bare 2–5 cm; enkelte europeiske håndbøker oppgir 1–4 cm, og noen tyske kilder nevner vesentlig større eksemplarer). Det er en myk, uregelmessig masse av foldet, hjerneaktig eller lappet gelé, først en liten skive eller pute som bryter fram gjennom en barksprekk. Fersk er den gullgul til klart orangegul, blekere etter lengre regn og sjelden nesten hvit. Overflaten er glatt, fettete eller slimete i væte og blank. Den sitter direkte på barken.",
+      "hymenium": "Den sporedannende overflaten dekker utsiden av foldene. Skiver, rør og porer mangler.",
+      "stipe": "En stilk mangler. Fruktlegemet vokser fram gjennom sprekker i barken på døde, ofte ennå sittende løvvedgreiner.",
+      "flesh": "Kjøttet er jevnt geléaktig, i hele snittet gjennomskinnelig gult til orangegult, uten fast hvit eller ugjennomsiktig kjerne. Fuktig er det mykt og seigt, tørt hardt og hornaktig. Tørkede fruktlegemer er mye mindre, mørkeoransje til rødlig oransje, og de gjenopplives etter regn. Lukten er svak eller mangler; smaken er mild og nesten smakløs.",
+      "sporePrint": "Sporeavtrykket er hvitt til blekgult. Sporene er bredt ellipsoide til avlange, glatte, typisk 10–16 × 6–9,5 µm.",
+      "habitat": "En parasittisk sopp på skorpesopper i slekten Peniophora, på døde greiner av løvtrær, særlig eik, bøk, hassel, ask, bjørk og gyvel (Ulex), inkludert nedfalne og ennå sittende kvister. Den er vidt utbredt i de tempererte delene av Europa og er også funnet i Asia, Australia og Amerika. Fruktlegemer kan vise seg i vått vær hele året; de ses oftest fra sein høst til tidlig vår.",
+      "uses": "Spiselig, men av liten kulinarisk verdi: kjøttet er nesten smakløst og ubetydelig, men kan gi supper en geléaktig tekstur og brukes i noen østasiatiske vegetarretter. Enkelte feltguider oppgir den som ikke matsopp. Den er ikke giftig. I katalogen er den registrert som spiselig, med denne motsetningen opplyst, og ikke som god matsopp.",
+      "confusion": "Naematelia encephala danner også en blekgul til rosa, hjerneaktig gelé, men har en fast, ugjennomsiktig hvit kjerne og vokser på bartreved. Tremella aurantia er lik i farge og form, men vokser på myceliet til Stereum hirsutum (vanligvis på stammer og stubber) og har et mattare, tykkere lappet utseende. Vanlig tåresopp (Dacrymyces stillatus) danner på våt ved bare bittesmå gule puter på noen millimeter, ikke store foldede masser. Ingen av disse forvekslingsartene er farlige.",
+      "notes": "De mest pålitelige feltkjennetegnene er den klart gule, gjennomskinnelige, stilkløse, hjerneaktige geléen på døde løvvedkvister, mangelen på en hvit kjerne, og at den i tørt vær skrumper inn til en oransje skorpe og sveler opp igjen etter regn. Uanselige grårosa skorper av verten Peniophora sitter ofte på samme grein. Unge fruktlegemer kan være dekket av et klart gult slim av ukjønnede sporer. Dyrkede sopper solgt under dette navnet i Øst-Asia tilhører en annen art.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "gul gelésopp"
+    },
+    "pl": {
+      "description": "Pospolity galaretowaty grzyb martwych gałęzi drzew liściastych, rozpoznawany po jasno złotożółtych do pomarańczowożółtych, prześwitujących, mózgokształtnych fałdach wyrastających wprost z kory. Kapelusza, trzonu, blaszek ani porów nie ma. W suchą pogodę kurczy się w twardą, ciemnopomarańczową skorupkę i po deszczu znowu pęcznieje. Miąższ jest równomiernie galaretowaty i nie ma twardego białego rdzenia.",
+      "cap": "Prawdziwego kapelusza brak. Owocnik ma 2–8 cm średnicy (często tylko 2–5 cm; niektóre europejskie przewodniki podają 1–4 cm, a kilka niemieckich źródeł wymienia znacznie większe okazy). Jest to miękka, nieregularna masa pofałdowanych, mózgokształtnych lub klapowanych galaretek; z początku mały krążek lub poduszeczka przebijająca się szczeliną w korze. Świeży jest złotożółty do czysto pomarańczowożółtego, po dłuższym deszczu bledszy, rzadko niemal biały. Powierzchnia jest gładka, w wilgoci tłustawa lub śluzowata i lśniąca. Przyrasta bezpośrednio do kory.",
+      "hymenium": "Powierzchnia zarodnikotwórcza pokrywa zewnętrzną stronę fałd. Blaszek, rurek ani porów nie ma.",
+      "stipe": "Trzonu brak. Owocnik wyrasta szczelinami w korze martwych, często jeszcze wiszących gałęzi drzew liściastych.",
+      "flesh": "Miąższ jest równomiernie galaretowaty, w całym przekroju prześwitująco żółty do pomarańczowożółtego, bez twardego białego lub nieprzezroczystego rdzenia. W wilgoci jest miękki i jędrny, w suchości twardy i rogowaty. Wyschnięte owocniki są znacznie mniejsze, ciemnopomarańczowe do czerwonawopomarańczowych i po deszczu ożywają. Zapach jest słaby lub żaden; smak łagodny i niemal bez smaku.",
+      "sporePrint": "Wysyp zarodników jest biały do bladożółtego. Zarodniki są szeroko elipsoidalne do podłużnych, gładkie, typowo 10–16 × 6–9,5 µm.",
+      "habitat": "Pasożytniczy grzyb korownicowatych grzybów z rodzaju Peniophora, na martwych gałęziach drzew liściastych, zwłaszcza dębu, buka, leszczyny, jesionu, brzozy i kolcolistu (Ulex), w tym na opadłych i jeszcze wiszących gałązkach. Jest rozpowszechniony w umiarkowanych rejonach Europy i notowany także w Azji, Australii i Ameryce. Owocniki mogą pojawiać się w wilgotną pogodę przez cały rok; najczęściej widać je od późnej jesieni do wczesnej wiosny.",
+      "uses": "Jest jadalny, ale o niewielkiej wartości kulinarnej: miąższ jest niemal bez smaku i nieistotny, choć może dodać galaretowatej tekstury zupom i bywa używany w niektórych wschodnioazjatyckich potrawach wegetariańskich. Niektóre przewodniki podają go jako niejadalny. Nie jest trujący. W katalogu jest zapisany jako jadalny, z ujawnieniem tej sprzeczności, a nie jako wyborny.",
+      "confusion": "Naematelia encephala także tworzy bladożółtą do różowawej, mózgokształtną galaretkę, ma jednak twardy, nieprzezroczysty biały rdzeń i rośnie na drewnie drzew iglastych. Tremella aurantia jest podobna barwą i kształtem, ale rośnie na grzybni gatunku Stereum hirsutum (zazwyczaj na kłodach i pniakach) i ma matowsze, grubsze płaty. Łzawnik rozciekliwy (Dacrymyces stillatus) tworzy na wilgotnym drewnie jedynie drobne żółte poduszeczki o średnicy kilku milimetrów, a nie duże pofałdowane masy. Żaden z tych gatunków podobnych nie jest niebezpieczny.",
+      "notes": "Najpewniejszymi cechami terenowymi są jasnożółta, prześwitująca, beztrzonowa, mózgokształtna galaretka na martwych gałązkach drzew liściastych, brak białego rdzenia oraz to, że w suchą pogodę kurczy się w pomarańczową skorupkę i po deszczu znowu pęcznieje. Niewidoczne szaroróżowe naloty gospodarza Peniophora bywają często na tej samej gałęzi. Młode owocniki może pokrywać jasnożółty śluz zarodników bezpłciowych. Uprawiane grzyby sprzedawane pod tą nazwą w Azji Wschodniej należą do innego gatunku.",
+      "names": [
+        "Trzęsak pomarańczowy"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016",
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "Trzęsak pomarańczowożółty"
+    },
+    "pt": {
+      "description": "Um fungo gelatinoso comum de ramos mortos de folhosas, reconhecível pelos seus pregueados translúcidos, de um amarelo-dourado vivo a amarelo-alaranjado, em forma de cérebro, que emergem diretamente da casca. Não tem chapéu, estipe, lâminas nem poros. Em tempo seco contrai-se numa crosta dura, de cor laranja-escura, e volta a inchar depois da chuva. A carne é uniformemente gelatinosa e não tem um núcleo branco firme.",
+      "cap": "Não há um chapéu verdadeiro. O corpo frutífero mede 2–8 cm de largura (muitas vezes apenas 2–5 cm; alguns guias europeus indicam 1–4 cm, e algumas fontes alemãs citam exemplares bem maiores). É uma massa mole e irregular de geleia pregueada, cerebriforme ou lobada; a princípio um pequeno disco ou almofadinha que rompe uma fenda da casca. Em fresco é amarelo-dourado a amarelo-alaranjado claro, mais pálido após chuva prolongada e raramente quase branco. A superfície é lisa, gordurosa ou viscosa quando húmida, e brilhante. Liga-se diretamente à casca.",
+      "hymenium": "A superfície que produz os esporos cobre o exterior das pregas. Não há lâminas, tubos nem poros.",
+      "stipe": "Não há estipe. O corpo frutífero sai por fendas da casca de ramos mortos de folhosas, muitas vezes ainda presos.",
+      "flesh": "A carne é uniformemente gelatinosa, de um amarelo a amarelo-alaranjado translúcido em todo o corte, sem um núcleo branco firme ou opaco. Quando húmida é mole e tenaz; quando seca, dura e córnea. Os corpos frutíferos secos são muito mais pequenos, de cor laranja-escura a laranja-avermelhada, e revivem depois da chuva. O cheiro é fraco ou nulo; o sabor é suave e quase insípido.",
+      "sporePrint": "A esporada é branca a amarelo-pálido. Os esporos são largamente elipsoides a oblongos, lisos, tipicamente 10–16 × 6–9,5 µm.",
+      "habitat": "Um fungo parasita de fungos corticioides do género Peniophora, em ramos mortos de folhosas, sobretudo carvalho, faia, aveleira, freixo, bétula e tojo (Ulex), incluindo raminhos caídos ou ainda presos. Está difundido nas regiões temperadas da Europa e também foi registado na Ásia, na Austrália e nas Américas. Os corpos frutíferos podem aparecer em tempo húmido ao longo de todo o ano; veem-se com mais frequência desde o fim do outono até ao início da primavera.",
+      "uses": "Comestível, mas de pouco valor culinário: a carne é quase insípida e inconsistente, embora possa dar uma textura gelatinosa às sopas, e é usada em alguns pratos vegetarianos da Ásia Oriental. Alguns guias indicam-no como não comestível. Não é venenoso. Neste catálogo está registado como comestível, com esse desacordo indicado, e não como excelente comestível.",
+      "confusion": "Naematelia encephala também forma uma geleia pálida, amarela a rosada, em forma de cérebro, mas tem um núcleo branco firme e opaco e cresce em madeira de coníferas. Tremella aurantia é semelhante na cor e na forma, mas cresce no micélio de Stereum hirsutum (em geral em troncos e cepos) e tem um aspeto mais baço, com lóbulos mais espessos. Dacrymyces stillatus forma, em madeira húmida, apenas minúsculas almofadinhas amarelas de alguns milímetros, e não grandes massas pregueadas. Nenhuma destas espécies semelhantes é perigosa.",
+      "notes": "Os caracteres de campo mais fiáveis são a geleia amarela viva, translúcida, sem estipe e em forma de cérebro, em raminhos mortos de folhosas, a ausência de um núcleo branco, e o hábito de se contrair numa crosta laranja em tempo seco e de voltar a inchar depois da chuva. Crostas cinzento-rosadas pouco visíveis do hospedeiro Peniophora estão muitas vezes no mesmo ramo. Os corpos frutíferos jovens podem estar cobertos por um muco amarelo vivo de esporos assexuais. Os fungos cultivados vendidos sob este nome na Ásia Oriental pertencem a outra espécie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă gelatinosă comună a ramurilor moarte de foioase, recunoscută după pliurile translucide, de un galben-auriu viu până la galben-portocaliu, în formă de creier, care ies direct din scoarță. Nu are pălărie, picior, lamele și nici pori. Pe vreme uscată se strânge într-o crustă tare, portocalie închis, și se umflă din nou după ploaie. Carnea este uniform gelatinosă și nu are un nucleu alb ferm.",
+      "cap": "Nu există o pălărie adevărată. Corpul de fructificație are 2–8 cm lățime (adesea doar 2–5 cm; unele ghiduri europene indică 1–4 cm, iar câteva surse germane citează exemplare mult mai mari). Este o masă moale și neregulată de jeleu pliat, cerebroid sau lobat; la început un disc mic sau o perniță care iese printr-o crăpătură a scoarței. Proaspăt este galben-auriu până la galben-portocaliu clar, mai palid după o ploaie prelungită și rar aproape alb. Suprafața este netedă, grasă sau vâscoasă pe umezeală și lucioasă. Se prinde direct de scoarță.",
+      "hymenium": "Suprafața care produce sporii acoperă exteriorul pliurilor. Nu are lamele, tuburi și nici pori.",
+      "stipe": "Nu are picior. Corpul de fructificație iese prin crăpăturile scoarței ramurilor moarte de foioase, adesea încă prinse.",
+      "flesh": "Carnea este uniform gelatinosă, galbenă până la galben-portocalie translucidă pe toată secțiunea, fără un nucleu alb ferm sau opac. Umedă este moale și tenace; uscată, tare și cornoasă. Corpurile uscate sunt mult mai mici, portocalii închis până la portocaliu-roșiatice, și reînvie după ploaie. Mirosul este slab sau lipsește; gustul este blând și aproape fără gust.",
+      "sporePrint": "Amprenta sporală este albă până la galben-pal. Sporii sunt larg elipsoizi până la oblongi, netezi, tipic 10–16 × 6–9,5 µm.",
+      "habitat": "O ciupercă parazită a ciupercilor corticioide din genul Peniophora, pe ramuri moarte de foioase, mai ales stejar, fag, alun, frasin, mesteacăn și Ulex, inclusiv crenguțe căzute sau încă prinse. Este răspândită în regiunile temperate ale Europei și a fost consemnată și în Asia, Australia și Americi. Corpurile de fructificație pot apărea pe vreme umedă pe tot parcursul anului; se văd cel mai des de la sfârșitul toamnei până la începutul primăverii.",
+      "uses": "Comestibilă, dar de mică valoare culinară: carnea este aproape fără gust și inconsistentă, deși poate da o textură gelatinoasă supelor, și este folosită în unele mâncăruri vegetariene din Asia de Est. Unele ghiduri o indică drept necomestibilă. Nu este otrăvitoare. În acest catalog este înregistrată ca comestibilă, cu acest dezacord menționat, și nu ca un comestibil excelent.",
+      "confusion": "Naematelia encephala formează și ea un jeleu palid, galben până la rozaliu, în formă de creier, dar are un nucleu alb ferm și opac și crește pe lemn de conifere. Tremella aurantia este similară ca și culoare și formă, dar crește pe miceliul speției Stereum hirsutum (de obicei pe trunchiuri și cioate) și are un aspect mai mat, cu lobi mai groși. Dacrymyces stillatus formează, pe lemn umed, doar pernițe galbene minuscule de câțiva milimetri, nu mase mari pliate. Niciuna dintre aceste specii asemănătoare nu este periculoasă.",
+      "notes": "Cele mai de încredere caractere de teren sunt jeleul galben viu, translucid, fără picior și în formă de creier, pe crenguțe moarte de foioase, lipsa unui nucleu alb, și obiceiul de a se strânge într-o crustă portocalie pe vreme uscată și de a se umfla din nou după ploaie. Cruște cenușiu-roze, greu de văzut, ale gazdei Peniophora sunt adesea pe aceeași ramură. Corpurile tinere pot fi acoperite de un mucus galben viu de spori asexuați. Ciupercile cultivate vândute sub acest nume în Asia de Est aparțin altei specii.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Обычный студенистый гриб на мёртвых ветвях лиственных деревьев, узнаваемый по ярко-золотисто-жёлтым до оранжево-жёлтых, просвечивающим, мозговидным складкам, выходящим прямо из коры. Шляпки, ножки, пластинок и пор нет. В сухую погоду он ссыхается в твёрдую тёмно-оранжевую корочку и снова набухает после дождя. Мякоть равномерно студенистая и не имеет плотного белого ядра.",
+      "cap": "Настоящей шляпки нет. Плодовое тело 2–8 см в поперечнике (часто всего 2–5 см; некоторые европейские определители указывают 1–4 см, а отдельные немецкие источники приводят значительно более крупные экземпляры). Это мягкая, неправильная масса складчатого, мозговидного или лопастного студня; сначала маленький диск или подушечка, прорывающаяся через трещину коры. Свежее тело золотисто-жёлтое до ясно оранжево-жёлтого, после затяжного дождя бледнее и редко почти белое. Поверхность гладкая, во влажную погоду жирноватая или слизистая и блестящая. Оно прирастает прямо к коре.",
+      "hymenium": "Спороносная поверхность покрывает наружную сторону складок. Пластинок, трубочек и пор нет.",
+      "stipe": "Ножки нет. Плодовое тело выходит через трещины коры мёртвых, часто ещё прикреплённых ветвей лиственных деревьев.",
+      "flesh": "Мякоть равномерно студенистая, на всём срезе просвечивающе-жёлтая до оранжево-жёлтой, без плотного белого или непрозрачного ядра. Во влажном состоянии мягкая и упругая, в сухом — твёрдая и роговидная. Высохшие плодовые тела гораздо меньше, тёмно-оранжевые до красновато-оранжевых, и оживают после дождя. Запах слабый или отсутствует; вкус мягкий и почти безвкусный.",
+      "sporePrint": "Споровый порошок белый до бледно-жёлтого. Споры широкоэллипсоидные до продолговатых, гладкие, обычно 10–16 × 6–9,5 мкм.",
+      "habitat": "Паразитический гриб на корковых грибах рода Peniophora, на мёртвых ветвях лиственных деревьев, особенно дуба, бука, лещины, ясеня, берёзы и улекса (Ulex), включая опавшие и ещё прикреплённые веточки. Широко распространён в умеренных областях Европы и отмечен также в Азии, Австралии и Америке. Плодовые тела могут появляться во влажную погоду в течение всего года; чаще всего их видят с поздней осени до ранней весны.",
+      "uses": "Съедобный, но кулинарно малоценный: мякоть почти безвкусная и незначительная, хотя может придавать супам студенистую текстуру, и его используют в некоторых восточноазиатских вегетарианских блюдах. Некоторые определители указывают его как несъедобный. Он не ядовит. В этом каталоге он записан как съедобный, с указанием этого противоречия, а не как деликатесный съедобный гриб.",
+      "confusion": "Naematelia encephala тоже образует бледно-жёлтый до розоватого, мозговидный студень, но имеет плотное непрозрачное белое ядро и растёт на древесине хвойных. Tremella aurantia сходна по цвету и форме, но растёт на мицелии Stereum hirsutum (обычно на стволах и пнях) и выглядит тусклее, с более толстыми лопастями. Дакримицес исчезающий (Dacrymyces stillatus) на влажной древесине образует лишь крошечные жёлтые подушечки в несколько миллиметров, а не крупные складчатые массы. Ни один из этих двойников не опасен.",
+      "notes": "Самые надёжные полевые признаки — ярко-жёлтый, просвечивающий, без ножки, мозговидный студень на мёртвых веточках лиственных деревьев, отсутствие белого ядра и то, что в сухую погоду он ссыхается в оранжевую корочку и снова набухает после дождя. Незаметные серо-розовые корочки хозяина Peniophora часто бывают на той же ветке. Молодые плодовые тела может покрывать ярко-жёлтая слизь бесполых спор. Культивируемые грибы, продаваемые под этим названием в Восточной Азии, относятся к другому виду.",
+      "names": [
+        "Тремелла брыжейковая"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Дрожалка оранжевая"
+    },
+    "sk": {
+      "description": "Bežná rosolovitá huba odumretých konárov listnáčov, ktorú možno spoznať podľa jasne zlatožltých až oranžovožltých, priesvitných, mozgovitých záhybov vyrastajúcich priamo z kôry. Klobúk, hlúbik, lupene ani póry nemá. Za sucha sa scvrkne na tvrdú, tmavo oranžovú kôrku a po daždi znova nabobná. Dužina je rovnomerne rosolovitá a nemá pevné biele jadro.",
+      "cap": "Pravý klobúk chýba. Plodnica má 2–8 cm v priemere (často len 2–5 cm; niektoré európske príručky uvádzajú 1–4 cm a niekoľko nemeckých zdrojov uvádza podstatne väčšie exempláre). Je to mäkká, nepravidelná hmota zložená zo záhybov a lalokov, mozgovitého tvaru; najprv je to malý terčík alebo vankúšik prerastajúci trhlinou v kôre. Čerstvá je zlatožltá až jasne oranžovožltá, po dlhšom daždi bledšia a zriedka takmer biela. Povrch je hladký, za vlhka mastný alebo slizký a lesklý. Prirastá priamo na kôru.",
+      "hymenium": "Výtrusorodý povrch pokrýva vonkajšiu stranu záhybov. Lupene, rúrky ani póry nemá.",
+      "stipe": "Hlúbik chýba. Plodnica vyrastá trhlinami v kôre odumretých, často ešte visiacich konárov listnáčov.",
+      "flesh": "Dužina je rovnomerne rosolovitá, v celom priereze priesvitne žltá až oranžovožltá, bez pevného bieleho alebo nepriesvitného jadra. Za vlhka je mäkká a tuhá, za sucha tvrdá a rohovitá. Suché plodnice sú výrazne menšie, tmavo oranžové až červenohnedé a po daždi znova ožijú. Vôňa je slabá alebo žiadna; chuť je jemná a takmer bez príchute.",
+      "sporePrint": "Výtrusný prach je biely až belavožltý. Výtrusy sú široko elipsoidné až podlhovasté, hladké, typicky 10–16 × 6–9,5 µm.",
+      "habitat": "Parazitická huba kôrnatých húb rodu Peniophora, na odumretých konároch listnáčov, najmä duba, buka, liesky, jaseňa, brezy a kŕča (Ulex), vrátane opadaných aj ešte visiacich konárikov. Je rozšírená v miernom pásme Európy a je zaznamenaná aj v Ázii, Austrálii a Amerike. Plodnice sa môžu objaviť za vlhkého počasia po celý rok; najčastejšie ich vidieť od neskorej jesene do skorej jari.",
+      "uses": "Je jedlá, ale kulinársky málo hodnotná: dužina je takmer bez chuti a nevýrazná, hoci môže pridať rosolovitú textúru do polievok a v niektorých východoázijských vegetariánskych jedlách sa používa. Niektoré príručky ju uvádzajú ako nejedlú. Nie je jedovatá. V katalógu je zaradená ako jedlá, s uvedením tohto rozporu, a nie ako výborná jedlá.",
+      "confusion": "Naematelia encephala tiež tvorí belavožltú až ružovkastú, mozgovitú rosolovitú hmotu, má však pevné, nepriesvitné biele jadro a rastie na dreve ihličnanov. Tremella aurantia je podobnej farby a tvaru, rastie však na podhubí druhu Stereum hirsutum (zvyčajne na kmeňoch a pňoch) a má matnejšie, hrubšie laloky. Slzovec rôsolovitý (Dacrymyces stillatus) tvorí na vlhkom dreve len drobné žlté vankúšiky s priemerom niekoľkých milimetrov, nie veľké zložené masy. Žiadna z týchto zámen nie je nebezpečná.",
+      "notes": "Najspoľahlivejšími terénnymi znakmi sú jasne žltá, priesvitná, bezhlúbiková, mozgovitá rosolovitá hmota na odumretých konárikoch listnáčov, neprítomnosť bieleho jadra a to, že sa za sucha scvrkne na oranžovú kôrku a po daždi znova nabobná. Nenápadné sivo-ružové povlaky hostiteľa Peniophora bývajú často na tom istom konári. Mladé plodnice môže pokrývať jasne žltý sliz nepohlavných výtrusov. Pestované huby predávané pod týmto menom vo východnej Ázii patria inému druhu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=T&typ=latin",
+        "https://botany.cz/cs/tremella-mesenterica/",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "rôsolovka zlatožltá"
+    },
+    "sl": {
+      "description": "Pogosta želatinasta goba odmrlih vej listavcev, prepoznavna po svetlo zlato rumenih do oranžno rumenih, prosojnih, možganastih gubah, ki prerastejo neposredno iz skorje. Klobuka, beta, lističev in por nima. V suhem vremenu se skrči v trdo, temno oranžno skorjico in se po dežju spet napihne. Meso je enakomerno želatinasto in nima trdnega belega jedra.",
+      "cap": "Pravega klobuka ni. Trosnjak meri 2–8 cm premera (pogosto le 2–5 cm; nekateri evropski priročniki navajajo 1–4 cm, nekaj nemških virov pa navaja precej večje primerke). Je mehka, nepravilna masa zloženih, možganastih ali krpastih želatinoznih reženjev; najprej je majhen disk ali blazinica, ki preraste razpoko v skorji. Svež je zlato rumen do čisto oranžno rumen, po daljšem dežju bledši in redko skoraj bel. Površina je gladka, v vlagi mastna ali sluzasta in sijoča. Pritrjuje se neposredno na skorjo.",
+      "hymenium": "Trosorodna površina pokriva zunanjo stran gub. Lističev, cevk in por nima.",
+      "stipe": "Beta ni. Trosnjak preraste razpoke v skorji odmrlih, pogosto še visečih vej listavcev.",
+      "flesh": "Meso je enakomerno želatinasto, v celotnem prerezu prosojno rumeno do oranžno rumeno, brez trdnega belega ali neprosojnega jedra. V vlagi je mehko in čvrsto, v suhem trdo in roževinasto. Posušeni trosnjaki so precej manjši, temno oranžni do rdečkasto oranžni in po dežju oživijo. Vonj je šibek ali ga ni; okus je blag in skoraj brez okusa.",
+      "sporePrint": "Trosni prah je bel do bledo rumen. Trosi so široko elipsoidni do podolgovati, gladki, tipično 10–16 × 6–9,5 µm.",
+      "habitat": "Zajedavska goba skorjastih gliv iz rodu Peniophora, na odmrlih vejah listavcev, zlasti hrasta, bukve, leske, jesena, breze in Ulexa, vključno z odpadlimi in še visečimi vejicami. Razširjena je v zmernih predelih Evrope in je zabeležena tudi v Aziji, Avstraliji in Ameriki. Trosnjaki se lahko pojavijo v mokrem vremenu vse leto; najpogosteje so vidni od pozne jeseni do zgodnje pomladi.",
+      "uses": "Je užitna, vendar kulinarično malo vredna: meso je skoraj brez okusa in neznatno, čeprav lahko juham doda želatinasto teksturo in se uporablja v nekaterih vzhodnoazijskih vegetarijanskih jedeh. Nekateri priročniki jo navajajo kot neuživno. Ni strupena. V katalogu je zapisana kot užitna, z navedbo tega nasprotja, in ne kot odlična užitna.",
+      "confusion": "Naematelia encephala prav tako tvori bledo rumeno do rožnato, možganasto želatino, ima pa trdno, neprosojno belo jedro in raste na lesu iglavcev. Tremella aurantia je podobne barve in oblike, raste pa na miceliju vrste Stereum hirsutum (običajno na hlodih in panjih) in ima matnejše, debelejše režnje. Kapljasta solzovka (Dacrymyces stillatus) na mokrem lesu tvori le drobne rumene blazinice premera nekaj milimetrov, ne velikih zloženih mas. Nobena od teh podobnih vrst ni nevarna.",
+      "notes": "Najzanesljivejši terenski znaki so svetlo rumena, prosojna, brez beta, možganasta želatina na odmrlih vejicah listavcev, odsotnost belega jedra in to, da se v suhem vremenu skrči v oranžno skorjico in se po dežju spet napihne. Neopazne sivoroznate skorjice gostitelja Peniophora so pogosto na isti veji. Mlade trosnjake lahko prekriva svetlo rumen sluz nespolnih trosov. Gojene gobe, prodajane pod tem imenom v vzhodni Aziji, spadajo k drugi vrsti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "rumena drhtavka"
+    },
+    "sr": {
+      "description": "Честа желатинозна гљива мртвих грана лишћара, препознатљива по јарко златножутим до наранџастожутим, провидним, можданастим наборима који избијају директно из коре. Шешира, дршке, листића ни пора нема. По сувом времену се скупи у тврду, тамнонаранџасту корицу и после кише поново набубри. Месо је равномерно желатинозно и нема чврсто бело језгро.",
+      "cap": "Правог шешира нема. Плодно тело има 2–8 cm у пречнику (често само 2–5 cm; неки европски водичи наводе 1–4 cm, а неколико немачких извора наводи знатно веће примерке). То је мекана, неправилна маса наборане, можданасте или режњевите желе масе; најпре је мали диск или јастучић који избија кроз пукотину у кори. Свеже је златножуто до чисто наранџастожуто, после дуготрајне кише блеђе и ретко готово бело. Површина је глатка, по влажном времену масна или слузава и сјајна. Прираста директно на кору.",
+      "hymenium": "Површина која носи споре покрива спољашњу страну набора. Листића, цевчица ни пора нема.",
+      "stipe": "Дршке нема. Плодно тело избија кроз пукотине у кори мртвих, често још висећих грана лишћара.",
+      "flesh": "Месо је равномерно желатинозно, у целом пресеку провидно жуто до наранџастожуто, без чврстог белог или непровидног језгра. По влажном је мекано и чврсто, по сувом тврдо и рожнато. Осушена плодна тела знатно су мања, тамнонаранџаста до црвенкастонаранџаста и после кише оживе. Мирис је слаб или га нема; укус је благ и готово без укуса.",
+      "sporePrint": "Отисак спора је бео до бледожут. Споре су широко елипсоидне до издужене, глатке, типично 10–16 × 6–9,5 µm.",
+      "habitat": "Паразитска гљива кортициоидних гљива рода Peniophora, на мртвим гранама лишћара, нарочито храста, букве, леске, јасена, брезе и Ulex-а, укључујући опале и још висеће гранчице. Распрострањена је у умереним пределима Европе и забележена је и у Азији, Аустралији и Америци. Плодна тела могу се појавити по влажном времену током целе године; најчешће се виде од касне јесени до раног пролећа.",
+      "uses": "Јестива је, али кулинарске вредности има мало: месо је готово без укуса и незнатно, иако може дати желатинозну текстуру супама и користи се у неким источноазијским вегетаријанским јелима. Неки водичи је наводе као нејестиву. Није отровна. У каталогу је наведена као јестива, уз откривање те противречности, а не као одлична јестива.",
+      "confusion": "Naematelia encephala такође ствара бледожуту до ружичасту, можданасту желе масу, али има чврсто, непровидно бело језгро и расте на дрвету четинара. Tremella aurantia сличне је боје и облика, али расте на мицелијуму врсте Stereum hirsutum (обично на деблима и пањевима) и има матње, дебље режњеве. Dacrymyces stillatus на влажном дрвету ствара само ситне жуте јастучиће пречника неколико милиметара, а не велике наборане масе. Ниједна од ових сличних врста није опасна.",
+      "notes": "Најпоузданија теренска обележја су јарко жута, провидна, без дршке, можданаста желе маса на мртвим гранчицама лишћара, недостатак белог језгра и то што се по сувом времену скупи у наранџасту корицу и после кише поново набубри. Неупадљиве сиво-ружичасте покорице домаћина Peniophora често су на истој грани. Млада плодна тела може прекривати јарко жута слуз бесполних спора. Гајене гљиве продаване под овим именом у источној Азији припадају другој врсти.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En vanlig geléartad svamp på döda lövvedsgrenar, känd på klart guldgula till orangegula, genomskinliga, hjärnlika veck som växer rakt ut ur barken. Hatt, fot, skivor och porer saknas. I torrt väder skrumpnar den till en hård, mörkorange skorpa och sväller upp igen efter regn. Köttet är jämnt geléaktigt och har ingen fast vit kärna.",
+      "cap": "En äkta hatt saknas. Fruktkroppen är 2–8 cm bred (ofta bara 2–5 cm; vissa europeiska guider anger 1–4 cm, och enstaka tyska källor nämner väsentligt större exemplar). Den är en mjuk, oregelbunden massa av veckad, hjärnlik eller flikig gelé, först en liten skiva eller kudde som bryter fram genom en barkspringa. Färsk är den guldgul till klart orangegul, blekare efter längre regn och sällan nästan vit. Ytan är slät, fettig eller slemmig i väta och blank. Den sitter direkt på barken.",
+      "hymenium": "Den sporbärande ytan täcker utsidan av vecken. Skivor, rör och porer saknas.",
+      "stipe": "En fot saknas. Fruktkroppen växer fram genom sprickor i barken på döda, ofta ännu sittande lövvedsgrenar.",
+      "flesh": "Köttet är jämnt geléaktigt, i hela snittet genomskinligt gult till orangegult, utan fast vit eller ogenomskinlig kärna. Fuktigt är det mjukt och seigt, torrt hårt och hornartat. Torkade fruktkroppar är mycket mindre, mörkorange till rödaktigt orange, och de återupplivas efter regn. Lukten är svag eller saknas; smaken är mild och nästan smaklös.",
+      "sporePrint": "Sporavtrycket är vitt till blekgult. Sporerna är brett ellipsoida till avlånga, släta, typiskt 10–16 × 6–9,5 µm.",
+      "habitat": "En parasitisk svamp på skinnsvampar i släktet Peniophora, på döda grenar av lövträd, särskilt ek, bok, hassel, ask, björk och ärttörne (Ulex), inklusive nedfallna och ännu sittande kvistar. Den är vida spridd i tempererade delar av Europa och är också påträffad i Asien, Australien och Amerika. Fruktkroppar kan visa sig i vått väder under hela året; de ses oftast från senhösten till tidig vår.",
+      "uses": "Ätlig, men av litet kulinariskt värde: köttet är nästan smaklöst och obetydligt, men kan ge soppor en geléaktig textur och används i vissa östasiatiska vegetariska rätter. Vissa fältguider anger den som oätlig. Den är inte giftig. I katalogen är den registrerad som ätlig, med denna motstridighet redovisad, och inte som läcker matsvamp.",
+      "confusion": "Naematelia encephala bildar också en blekgul till rosa, hjärnlik gelé, men har en fast, ogenomskinlig vit kärna och växer på barrved. Tremella aurantia är likartad i färg och form, men växer på myceliet av Stereum hirsutum (vanligen på stammar och stubbar) och har ett mattare, tjockare flikigt utseende. Vedplätt (Dacrymyces stillatus) bildar på våt ved bara pyttesmå gula kuddar på några millimeter, inte stora veckade massor. Ingen av dessa förväxlingsarter är farlig.",
+      "notes": "De mest tillförlitliga fältkännetecknen är den klart gula, genomskinliga, fotlösa, hjärnlika gelén på döda lövvedskvistar, avsaknaden av en vit kärna, och att den i torrt väder skrumpnar till en orange skorpa och sväller upp igen efter regn. Oansenliga grårosa skinn av värden Peniophora sitter ofta på samma gren. Unga fruktkroppar kan vara täckta av ett klart gult slem av könlösa sporer. Odlade svampar som säljs under detta namn i Östasien tillhör en annan art.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Gullkrös"
+    },
+    "tr": {
+      "description": "Ölü yapraklı ağaç dallarında yaygın, jelatinimsi bir mantar; kabuktan doğrudan çıkan parlak altın sarısından turuncu sarıya, yarı saydam, beyin biçimli kıvrımlarıyla tanınır. Şapkası, sapı, lamelleri ve gözenekleri yoktur. Kuru havada sert, koyu turuncu bir kabuğa büzülür ve yağmurdan sonra yeniden şişer. Etli kısım eşit biçimde jölemsidir ve sert beyaz bir özü yoktur.",
+      "cap": "Gerçek bir şapka yoktur. Meyve gövdesi 2–8 cm geniştir (çoğunlukla yalnızca 2–5 cm; bazı Avrupa kılavuzları 1–4 cm verir ve bazı Alman kaynaklar çok daha büyük örnekler bildirir). Kıvrımlı, beyin biçimli veya lop biçimli jöleden oluşan yumuşak, düzensiz bir kitledir; başlangıçta kabuktaki bir çatlaktan çıkan küçük bir disk veya yastıktır. Taze iken altın sarısından açık turuncu sarıya kadardır, uzun süren yağmurdan sonra daha soluk, nadiren neredeyse beyazdır. Yüzey düz, ıslakken yağlı veya sümüksü ve parlaktır. Doğrudan kabuğa bağlanır.",
+      "hymenium": "Spor üreten yüzey kıvrımların dışını kaplar. Lameller, borucuklar ve gözenekler yoktur.",
+      "stipe": "Sap yoktur. Meyve gövdesi, ölü ve çoğu zaman hâlâ bağlı yapraklı ağaç dallarının kabuğundaki çatlaklardan çıkar.",
+      "flesh": "Etli kısım eşit biçimde jölemsidir, tüm kesitte yarı saydam sarıdan turuncu sarıya kadardır; sert beyaz veya opak bir özü yoktur. Islakken yumuşak ve dirençli, kuruyken sert ve boynuzumsudur. Kurumuş meyve gövdeleri çok daha küçüktür, koyu turuncudan kırmızımsı turuncuya kadardır ve yağmurdan sonra yeniden canlanır. Koku zayıf veya yoktur; tat hafif ve neredeyse tatsızdır.",
+      "sporePrint": "Spor izi beyazdan soluk sarıya kadardır. Sporlar geniş elipsoitten dikdörtgensiye, pürüzsüz, tipik olarak 10–16 × 6–9,5 µm.",
+      "habitat": "Peniophora cinsindeki kabuk mantarlarının paraziti olan bir mantardır; meşe, kayın, fındık, dişbudak, huş ve Ulex başta olmak üzere ölü yapraklı ağaç dallarında, düşmüş veya hâlâ bağlı ince dallar dahil, yetişir. Avrupa’nın ılıman bölgelerinde yaygındır ve Asya, Avustralya ve Amerika’da da kaydedilmiştir. Meyve gövdeleri ıslak havada yıl boyunca ortaya çıkabilir; en çok geç sonbahardan erken ilkbahara kadar görülür.",
+      "uses": "Yenilebilir, ancak mutfak değeri düşüktür: etli kısım neredeyse tatsız ve önemsizdir, yine de çorbalara jölemsi bir doku katabilir ve bazı Doğu Asya vejetaryen yemeklerinde kullanılır. Bazı kılavuzlar onu yenmez olarak belirtir. Zehirli değildir. Bu katalogda, bu çelişki belirtilerek yenilebilir olarak kaydedilmiştir; seçkin yemeklik olarak değil.",
+      "confusion": "Naematelia encephala da soluk sarıdan pembemsiye, beyin biçimli bir jöle oluşturur, ancak sert, opak beyaz bir özü vardır ve iğne yapraklı ağaç odununda büyür. Tremella aurantia renk ve biçimde benzerdir, fakat Stereum hirsutum miselyumunda (genellikle gövde ve kütüklerde) büyür ve daha mat, daha kalın loplu görünür. Dacrymyces stillatus ıslak odunda yalnızca birkaç milimetrelik minik sarı yastıklar oluşturur, büyük kıvrımlı kitleler değil. Bu benzer türlerin hiçbiri tehlikeli değildir.",
+      "notes": "En güvenilir arazi özellikleri, ölü yapraklı ince dallar üzerindeki parlak sarı, yarı saydam, sapsız, beyin biçimli jöle, beyaz özün yokluğu ve kuru havada turuncu bir kabuğa büzülüp yağmurdan sonra yeniden şişmesidir. Konak Peniophora’nın göze çarpmayan gri-pembe kabukları çoğu zaman aynı daldadır. Genç meyve gövdeleri, eşeysiz sporların parlak sarı bir mukusuyla kaplanabilir. Doğu Asya’da bu adla satılan yetiştirilmiş mantarlar başka bir türe aittir.",
+      "names": [
+        "Saripelte"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/11945016",
+        "https://www.wikidata.org/wiki/Q19733"
+      ],
+      "label": "Sarıpelte mantarı"
+    },
+    "uk": {
+      "description": "Звичайний драглистий гриб на мертвих гілках листяних дерев, пізнаваний за яскраво золотисто-жовтими до оранжево-жовтих, просвічувальними, мозкоподібними складками, що виходять просто з кори. Шапинки, ніжки, пластинок і пор немає. У суху погоду він зсихається в тверду темно-оранжеву кірочку і знову набухає після дощу. М'якуш рівномірно драглистий і не має щільного білого ядра.",
+      "cap": "Справжньої шапинки немає. Плодове тіло 2–8 см упоперек (часто лише 2–5 см; деякі європейські визначники вказують 1–4 см, а окремі німецькі джерела наводять значно більші екземпляри). Це м'яка, неправильна маса складчастого, мозкоподібного або лопатевого драглю; спочатку маленький диск або подушечка, що проривається крізь тріщину кори. Свіже тіло золотисто-жовте до ясно оранжево-жовтого, після тривалого дощу блідіше і рідко майже біле. Поверхня гладенька, у вологу погоду жирнувата або слизиста і блискуча. Воно приростає просто до кори.",
+      "hymenium": "Спороносна поверхня вкриває зовнішній бік складок. Пластинок, трубочок і пор немає.",
+      "stipe": "Ніжки немає. Плодове тіло виходить крізь тріщини кори мертвих, часто ще прикріплених гілок листяних дерев.",
+      "flesh": "М'якуш рівномірно драглистий, на всьому зрізі просвічувально-жовтий до оранжево-жовтого, без щільного білого чи непрозорого ядра. У вологому стані м'який і пружний, у сухому — твердий і рогоподібний. Висохлі плодові тіла набагато менші, темно-оранжеві до червонувато-оранжевих, і оживають після дощу. Запах слабкий або відсутній; смак м'який і майже безсмаковий.",
+      "sporePrint": "Споровий порошок білий до блідо-жовтого. Спори широко еліпсоїдні до довгастих, гладкі, зазвичай 10–16 × 6–9,5 мкм.",
+      "habitat": "Паразитичний гриб на кіркових грибах роду Peniophora, на мертвих гілках листяних дерев, особливо дуба, бука, ліщини, ясена, берези та улекса (Ulex), включно з опалими й ще прикріпленими гілочками. Широко поширений у помірних областях Європи і зазначений також в Азії, Австралії та Америці. Плодові тіла можуть з'являтися у вологу погоду протягом усього року; найчастіше їх бачать з пізньої осені до ранньої весни.",
+      "uses": "Їстівний, але кулінарно малоцінний: м'якуш майже безсмаковий і незначний, хоча може надавати супам драглистої текстури, і його використовують у деяких східноазійських вегетаріанських стравах. Деякі визначники вказують його як неїстівний. Він не отруйний. У цьому каталозі він записаний як їстівний, із зазначенням цієї суперечності, а не як чудовий їстівний гриб.",
+      "confusion": "Naematelia encephala також утворює блідо-жовтий до рожевуватого, мозкоподібний драгель, але має щільне непрозоре біле ядро і росте на деревині хвойних. Tremella aurantia подібна за кольором і формою, але росте на міцелії Stereum hirsutum (звичайно на стовбурах і пнях) і виглядає тьмяніше, з товстішими лопатями. Дакриміцес краплистий (Dacrymyces stillatus) на вологій деревині утворює лише крихітні жовті подушечки в кілька міліметрів, а не великі складчасті маси. Жоден із цих двійників не небезпечний.",
+      "notes": "Найбільш надійні польові ознаки — яскраво-жовтий, просвічувальний, без ніжки, мозкоподібний драгель на мертвих гілочках листяних дерев, відсутність білого ядра і те, що в суху погоду він зсихається в оранжеву кірочку і знову набухає після дощу. Непомітні сіро-рожеві кірочки хазяїна Peniophora часто бувають на тій самій гілці. Молоді плодові тіла може вкривати яскраво-жовтий слиз нестатевих спор. Культивовані гриби, що продаються під цією назвою в Східній Азії, належать до іншого виду.",
+      "names": [
+        "Тремела звивиста",
+        "Дрожалка помаранчева"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "Дрижалка помаранчева"
+    },
+    "zh": {
+      "description": "常見於闊葉樹枯枝上的膠質菌，以其自樹皮直接長出、鮮豔金黃至橙黃、半透明而呈腦狀的褶皺辨認。無菌蓋、菌柄、菌褶與菌管孔。乾燥時縮成堅硬的深橙色殼，雨後再膨脹。菌肉均勻膠質，沒有堅實的白色核心。",
+      "cap": "沒有真正的菌蓋。子實體寬 2–8 cm（常常只有 2–5 cm；部分歐洲圖鑑作 1–4 cm，少數德語資料記載更大的標本）。為柔軟不規則、摺疊而呈腦狀或裂片狀的膠體；起初是自樹皮裂縫冒出的小盤或墊狀體。新鮮時金黃至澄澈橙黃，久雨後較淡，罕見近乎白色。表面平滑，濕時油膩或黏滑，並有光澤。直接著生於樹皮。",
+      "hymenium": "產孢面覆蓋褶皺外側。無菌褶、菌管或孔口。",
+      "stipe": "沒有菌柄。子實體自闊葉樹枯枝（常常仍連在樹上）的樹皮裂縫長出。",
+      "flesh": "菌肉均勻膠質，整個切面呈半透明黃色至橙黃，沒有堅實的白色或不透明核心。濕時柔軟而強韌，乾時堅硬如角質。乾燥的子實體小得多，呈深橙至紅橙色，雨後會復活。氣味微弱或無；味道溫和，幾乎無味。",
+      "sporePrint": "孢子印白色至淡黃。孢子寬橢圓形至長橢圓形，平滑，通常 10–16 × 6–9.5 µm。",
+      "habitat": "寄生於 Peniophora 屬的皮殼菌，生於闊葉樹枯枝上，尤其是櫟、山毛櫸、榛、梣、樺及 Ulex，包括已落或仍連在樹上的小枝。廣布於歐洲溫帶，亞洲、澳洲與美洲亦有紀錄。子實體可在潮濕天氣全年出現；最常見於晚秋至早春。",
+      "uses": "可食，但食用價值不高：菌肉幾乎無味且單薄，雖可為湯品增添膠質口感，並用於東亞部分素食料理。有些圖鑑列為不可食。無毒。本目錄記為可食，並說明此一歧異，而非極佳食用蕈。",
+      "confusion": "Naematelia encephala 也形成淡黃至帶粉紅、腦狀的膠體，但具有堅實而不透明的白色核心，並生於針葉樹材上。Tremella aurantia 在顏色與外形上相似，但生於 Stereum hirsutum 的菌絲體上（通常在樹幹與樹樁），外觀較暗、裂片較厚。Dacrymyces stillatus 在潮濕木材上僅形成數毫米大的微小黃墊，而非大型摺疊團塊。這些相似種皆不危險。",
+      "notes": "最可靠的野外特徵，是闊葉樹枯枝上鮮黃、半透明、無柄而呈腦狀的膠體，沒有白色核心，以及乾燥時縮成橙色殼、雨後再膨脹的習性。寄主 Peniophora 不顯眼的灰粉色皮殼常在同一枝上。幼小子實體可能覆有無性孢子的鮮黃黏液。在東亞以此名稱販售的栽培菌類屬另一種。",
+      "names": [
+        "金黄银耳",
+        "金黃銀耳"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q19733",
+        "https://www.inaturalist.org/taxa/48529",
+        "https://www.gbif.org/species/11945016"
+      ],
+      "label": "橙黄银耳"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Helvella mesenterica",
+      "author": "Schaeff.",
+      "year": 1774,
+      "rank": "species",
+      "type": "basionym",
+      "if": 224650
+    },
+    {
+      "name": "Tremella lutescens",
+      "author": "Pers.",
+      "year": 1798,
+      "rank": "species",
+      "type": "synonym",
+      "if": 270003
+    },
+    {
+      "name": "Tremella brasiliensis",
+      "author": "(Möller) Lloyd",
+      "year": 1922,
+      "rank": "species",
+      "type": "synonym",
+      "if": 258817
+    }
+  ],
+  "reserved": false,
+  "id": 226,
+  "citation": "Syn. meth. fung. (Göttingen) 2: 622 (1801)"
+},
+{
+  "name": "Coprinellus micaceus",
+  "author": "(Bull.) Vilgalys, Hopple & Jacq. Johnson",
+  "family": "Psathyrellaceae",
+  "genus": "Coprinellus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinellus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinellus"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "brown",
+    "white",
+    "dark"
+  ],
+  "capFrom": 1.0,
+  "capTo": 5.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 12.0,
+  "stipeThickFrom": 0.2,
+  "stipeThickTo": 0.7,
+  "fruitingFrom": 4,
+  "fruitingTo": 11,
+  "label": {
+    "bg": "зърнеста копринка",
+    "cs": "hnojník třpytivý",
+    "da": "glimmer-blækhat",
+    "de": "Gemeiner Glimmertintling",
+    "en": "glistening inkcap",
+    "es": "tapón de tinta brillante",
+    "et": "sätendav tindik",
+    "fi": "kiillemustesieni",
+    "fr": "coprin micacé",
+    "he": "דיואית מנצנצת",
+    "hu": "kerti tintagomba",
+    "ja": "キララタケ",
+    "ko": "갈색먹물버섯",
+    "lt": "kelminis mėšlagrybis",
+    "lv": "vizuļojošā tintene",
+    "nl": "Gewone glimmerinktzwam",
+    "no": "glimmerblekksopp",
+    "pl": "czernidłaczek błyszczący",
+    "ru": "навозник мерцающий",
+    "sk": "hnojník ligotavý",
+    "sl": "sljudnati tintovec",
+    "sr": "блистава гнојиштарка",
+    "sv": "glitterbläcksvamp",
+    "tr": "pullu mürekkep mantarı",
+    "uk": "гнойовик іскристий",
+    "zh": "晶鬼傘"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Glimmertintling",
+      "Glimmer-Tintling",
+      "Gewöhnlicher Glimmertintling"
+    ],
+    "en": [
+      "mica cap",
+      "shiny cap",
+      "glistening inky cap",
+      "glistening ink-cap"
+    ],
+    "es": [
+      "coprino micáceo"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "ツブヒトヨタケ"
+    ],
+    "ko": [],
+    "lt": [
+      "kelminis mėšlagrybukas"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "czernidłak błyszczący"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [
+      "светлуцава гнојиштарка"
+    ],
+    "sv": [],
+    "tr": [
+      "unlu mürekkep mantarı",
+      "eşek mantarı"
+    ],
+    "uk": [],
+    "zh": [
+      "晶粒鬼傘",
+      "晶粒小鬼傘"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474361",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=474361",
+      "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=474361",
+      "https://www.gbif.org/species/2534578",
+      "https://www.first-nature.com/fungi/coprinellus-micaceus.php",
+      "https://www.myko.cz/myko-atlas/Coprinellus-micaceus/",
+      "https://botany.cz/cs/coprinellus-micaceus/",
+      "https://en.wikipedia.org/wiki/Coprinellus_micaceus",
+      "https://de.wikipedia.org/wiki/Gemeiner_Glimmertintling",
+      "https://www.inaturalist.org/taxa/56318",
+      "https://www.wikidata.org/wiki/Q933206"
+    ],
+    "ar": [],
+    "bg": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Hnojn%C3%ADk_t%C5%99pytiv%C3%BD",
+      "https://www.myko.cz/myko-atlas/Coprinellus-micaceus/",
+      "https://botany.cz/cs/coprinellus-micaceus/",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318",
+      "https://www.wikidata.org/wiki/Q933206"
+    ],
+    "da": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Gemeiner_Glimmertintling",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.inaturalist.org/taxa/56318",
+      "https://www.gbif.org/species/2534578"
+    ],
+    "es": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318",
+      "https://www.wikidata.org/wiki/Q933206"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/S%C3%A4tendav_tindik",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Kiillemustesieni",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "he": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Kerti_tintagomba",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Kelminis_m%C4%97%C5%A1lagrybis",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Gewone_glimmerinktzwam",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "no": [
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_b%C5%82yszcz%C4%85cy",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA_%D0%BC%D0%B5%D1%80%D1%86%D0%B0%D1%8E%D1%89%D0%B8%D0%B9",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "sk": [
+      "https://botany.cz/cs/coprinellus-micaceus/",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "sl": [
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318",
+      "https://sl.wikipedia.org/wiki/Sljudnati_tintovec"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Glitterbl%C3%A4cksvamp",
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "tr": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "uk": [
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q933206",
+      "https://www.gbif.org/species/2534578",
+      "https://www.inaturalist.org/taxa/56318"
+    ]
+  },
+  "added": "2026-11-25",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_1.webp",
+      "author": "Mark Breaks",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/324539626"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_2.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/325217080"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_3.webp",
+      "author": "Ilkka Kaita-aho",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/141783973"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_4.webp",
+      "author": "Paweł Sadkowski",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/322590193"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_5.webp",
+      "author": "Frances Ross",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/191184538"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG bytes in a .png filename, SHA-256 9ec71e678a0852607740586716d7cb650a92cd04442a51996579a9bc929553b9, Exif Orientation 1, software Picasa) has a cursive “Gemini” mark at the lower right. plate --mode fit: scale 2.000 (upscaled; disclose softness), cropBox [96, 0, 1600, 2400] (96 output px / 48 source px each side, no vertical crop). Visual inspection of the source and the fit confirms that all figures (a dense cluster of honey-brown, finely grooved caps on mossy wood, some dusted with white mica-like granules; young egg-shaped buttons; an underside with grey-black gills; a vertical section of a thin cap, crowded gills and a hollow white stem; oak and beech leaves) and the signature remain fully inside the trimmed frame; only paper margin is cut. Nothing was erased or painted. @1600 SHA-256 8d629437c0b27385b40beff6753fdef30b722682a04f493387bc998b47a1e3a5; @400 SHA-256 972a60b1faa78415b0382e7626dda4f053814a8526c1830a993644db5318efc5."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_1.webp",
+      "author": "Mark Breaks",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/324539626"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_2.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/325217080"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_3.webp",
+      "author": "Ilkka Kaita-aho",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/141783973"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_4.webp",
+      "author": "Paweł Sadkowski",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/322590193"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_micaceus/Coprinellus_micaceus_5.webp",
+      "author": "Frances Ross",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/191184538"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر حبري شائع ينمو في عناقيد كثيفة على خشب الأشجار عريضة الأوراق المتعفن، ويُعرف بقلانس عسلية بنية محززة بدقة، تغطيها وهي فتية حبيبات بيضاء لمّاعة شبيهة بالميكا، وبسيقان بيضاء رفيعة مجوفة بلا حلقة، وبصفائح تنتقل من الأبيض إلى البني الرمادي ثم الأسود ولا تذوب إلا جزئياً في الحبر.",
+      "cap": "القلنسوة عرضها ١–٥ سم (وعادة ٢–٤ سم بعد الانبساط)؛ تكون أولاً بيضية أو بيضوية وارتفاعها ١–٣٫٥ سم، ثم جرسية إلى مخروطية، وأخيراً ذات حاشية ممزقة ومنثنية إلى الأعلى. لونها أصفر عسلي إلى بني ترابي أو أسمر، ومركزها بني صدئي أغمق، وهي رطبة المظهر ومحززة بدقة من الحاشية حتى القرص تقريباً. القلانس الفتية مرشوشة بحبيبات دقيقة بيضاء إلى شاحبة لمّاعة (بقايا الغشاء) يغسلها المطر، لذا غالباً ما تكون القلانس الأكبر سناً ملساء.",
+      "hymenium": "الصفائح متزاحمة، حرة إلى ملتصقة ضيقاً، بيضاء أولاً، ثم بنية رمادية إلى بنية بنفسجية، وأخيراً سوداء، ولا تذوب إلا جزئياً — تسودّ من الحاشية، لكن القلنسوة لا تذوب عادة بالكامل في سائل أسود حبري. قد تكون حواف صفائح القلانس الأكبر سناً حبرية قليلاً.",
+      "stipe": "الساق طولها ٣–١٢ سم وسُمكها ٠٫٢–٠٫٧ سم (وعادة ٤–١٠ × ٠٫٢–٠٫٥ سم)، أسطوانية، قد تتضخم قليلاً عند القاعدة، بيضاء مجوفة هشة حريرية، كثيراً ما تكون مغبرة وهي فتية، ثم ملساء لمّاعة، وتسمر قليلاً نحو القاعدة. لا حلقة ولا فولفا، ولا توجد عند القاعدة سجادة ميسيليوم صوفية برتقالية.",
+      "flesh": "اللحم رقيق جداً وهش، مبيض في الأجسام الثمرية الفتية. الرائحة والطعم غير مميزين.",
+      "sporePrint": "طبعة الأبواغ بنية داكنة جداً إلى سوداء. الأبواغ ملساء، إهليلجية إلى تاجية (درعية الشكل)، ٧–١١ × ٤٫٥–٧ µm، ذات ثقب إنبات مركزي.",
+      "habitat": "رمّي، في عناقيد كثيفة على جذوع وسيقان وجذور مدفونة متعفنة لأشجار عريضة الأوراق أو بجانبها، في الغابات والحدائق والمتنزهات؛ وقد يبدو أنه ينمو من التربة أو من عشب قصير عندما يكون الخشب مدفوناً. واسع الانتشار وشائع جداً في أوروبا وفي جانب كبير من المنطقة المعتدلة في نصف الكرة الشمالي. في وسط أوروبا يثمر أساساً من أبريل أو مايو إلى نوفمبر؛ وفي بريطانيا وأيرلندا يُوجد في الغالب من مايو إلى نوفمبر، وبعض المصادر الأوروبية تمدّ الموسم إلى ديسمبر.",
+      "uses": "يؤكل وهو فتي، قبل أن تسودّ الصفائح، لكنه رقيق اللحم قصير العمر وقليل القيمة في الطبخ — ينبغي طهيه سريعاً بعد القطف لأن القلانس تنهار سريعاً. بعض الأدلة في وسط أوروبا تعدّه غير صالح للأكل أو غير جدير بالجمع. وبعض المصادر الشائعة تحذّر من تفاعل شبيه بالأنتابيوز مع الكحول؛ ولم تجد الدراسات الكيميائية فيه كوبرين، بخلاف Coprinopsis atramentaria. قد تراكم الأجسام الثمرية من جوانب الطرق أو الأرض الملوثة معادن ثقيلة وينبغي تجنبها. لا يُعامل في هذا الفهرس على أنه فطر مختار.",
+      "confusion": "Coprinellus truncorum مطابق تقريباً في الحقل وغالباً لا يُفصل إلا بالمجهر (شكل الأبواغ ووجود أو غياب الكيسات على الساق)؛ وقد تنتمي سجلات كثيرة لأحد الاسمين إلى الآخر، ويعاملهما هذا الفهرس كنوعين منفصلين. Coprinellus domesticus ينمو عادة في عناقيد أقل كثافة، وله غشاء أشبه باللباد منه بحبيبات ميكا لمّاعة، وكثيراً ما ينشأ من سجادة ميسيليوم صوفية برتقالية ظاهرة. Coprinopsis atramentaria أكبر وأكثر لحماً، بقلنسوة ملساء بنية رمادية بلا حبيبات لمّاعة، ويذوب بمزيد من التمام ويحتوي كوبرين يسبب وعكة إذا شُرب الكحول. قد تشبه أنواع Psathyrella البنية عندما تُغسل الحبيبات، لكن صفائحها لا تذوب إلى حبر. Coprinellus disseminatus ينمو في جماعات أوفر عدداً بكثير من قلانس أصغر وأشحب بلا حبيبات لمّاعة، وتسودّ صفائحه دون أن تذوب حقاً.",
+      "notes": "أوثق علامة ميدانية هي اجتماع العناقيد الكثيفة على خشب عريض الأوراق، والقلنسوة العسلية البنية المحززة ذات الحبيبات اللمّاعة الشبيهة بالميكا وهي فتية، والساق البيضاء الرفيعة بلا حلقة، والصفائح التي تسودّ لكنها لا تذوب إلا جزئياً. بعد غسل الحبيبات يلزم مقارنة دقيقة بفطور حبرية مشابهة، ولا يمكن استبعاد Coprinellus truncorum بالعين المجردة.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Обикновена, букетовидна мастилена гъба на гниеща широколистна дървесина, разпознаваема по меденокафявите, фино набраздени шапки, които в младост са посипани със светли, слюдести бели зрънца, по тънкото бяло кухо пънче без пръстен и по пластинките, които от бели стават сивокафяви, после черни и само частично се разтичат в мастило.",
+      "cap": "Шапката е 1–5 cm в диаметър (обикновено 2–4 cm след разтваряне); първо яйцевидна или овална и висока 1–3,5 cm, после камбанковидна до конусовидна, накрая с разкъсан, подвит нагоре ръб. Меденожълта до охракафява или бледокафява, с по-тъмен ръждивокафяв център, хигрофанна и фино набраздена от ръба почти до диска. Младите шапки са посипани с мънички светли бели до бледи зрънца (остатъци от булото), които дъждът отмива, така че по-старите шапки често са гладки.",
+      "hymenium": "Пластинките са гъсти, свободни до тясно прираснали, първо бели, после сивокафяви до виолетовкафяви, накрая черни, и само частично делинесцентни — почерняват от ръба, но шапката обикновено не се разтваря изцяло в черна, мастилена течност. Ръбчетата на пластинките на по-старите шапки могат да бъдат леко мастилени.",
+      "stipe": "Пънчето е 3–12 cm дълго и 0,2–0,7 cm дебело (обикновено 4–10 × 0,2–0,5 cm), цилиндрично, понякога леко удебелено в основата, бяло, кухо, крехко и копринено, в младост често набрашено, по-късно гладко и лъскаво, към основата леко покафенява. Няма пръстен и волва, а в основата липсва оранжева вълнеста мицелна постилка.",
+      "flesh": "Месото е много тънко и крехко, при младите плодни тела белезникаво. Мирисът и вкусът не са отличителни.",
+      "sporePrint": "Споровият прашец е много тъмнокафяв до черен. Спорите са гладки, елипсовидни до митриформни (щитовидни), 7–11 × 4,5–7 µm, с централна кълняема пора.",
+      "habitat": "Сапротрофна, в гъсти снопчета върху или до гниещи пънове, стъбла и заровени корени на широколистни дървета, в гори, паркове и градини; може да изглежда, че расте от почва или ниска трева, когато дървесината е заровена. Широко разпространена и много обикновена в Европа и в голяма част от умерения северен полукълбо. В Централна Европа плододава главно от април или май до ноември; във Великобритания и Ирландия най-често се среща от май до ноември, а някои европейски източници удължават сезона до декември.",
+      "uses": "Ядлива в младост, преди пластинките да почернеят, но тънкомесеста, краткотрайна и с малка кулинарна стойност — трябва да се свари скоро след брането, защото шапките бързо се свиват. Някои централноевропейски ръководства я смятат за неядлива или недостойна за бране. Някои популярни източници предупреждават за антабусоподобна реакция с алкохол; химически изследвания не са открили в нея коприн, за разлика от мастилената копринка (Coprinopsis atramentaria). Плодните тела от крайпътни и замърсени места могат да натрупват тежки метали и трябва да се избягват. В този каталог не се разглежда като първокласна ядлива гъба.",
+      "confusion": "Coprinellus truncorum на терен е почти същият и често се отделя само под микроскоп (форма на спорите и наличие или отсъствие  на цистиди по пънчето); много записи на едното име могат да принадлежат на другото, и този каталог ги води като отделни видове. Coprinellus domesticus обикновено расте в по-редки снопчета, има по-скоро плъстесто було, отколкото блестящи слюдести зрънца, и често излиза от забележима оранжева вълнеста мицелна постилка. Мастилената копринка (Coprinopsis atramentaria) е по-едра и месеста, с гладка сивокафява шапка без блестящи зрънца, разтича се по-пълно и съдържа коприн, който при прием на алкохол причинява неразположение. Кафявите видове от род Psathyrella могат да си приличат, когато зрънцата са отмити, но техните пластинки не се разтичат в мастило. Coprinellus disseminatus расте в много по-многобройни групи от по-малки, по-бледи шапки без блестящи зрънца, а пластинките му почерняват, без наистина да се разтичат.",
+      "notes": "Най-надеждният теренен белег е съчетанието от гъсти снопчета на широколистна дървесина, меденокафява набраздена шапка с блестящи слюдести зрънца в младост, тънко бяло пънче без пръстен и пластинки, които почерняват, но се разтичат само частично. Когато зрънцата са отмити, гъбата трябва внимателно да се сравни с подобни видове, а Coprinellus truncorum не може да се изключи с невъоръжено око.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "зърнеста копринка"
+    },
+    "cs": {
+      "description": "Běžná trsnatá houba tlejícího listnatého dřeva, kterou poznáme podle medově hnědých, jemně rýhovaných klobouků v mládí poprášených lesklými slídovitými bílými zrnky, tenkého bílého dutého třeně bez prstenu a lupenů, které přecházejí z bílé přes šedohnědou do černé a jen částečně se rozplývají v inkoust.",
+      "cap": "Klobouk má 1–5 cm v průměru (typicky 2–4 cm po otevření); zprvu je vejčitý nebo oválný a 1–3,5 cm vysoký, potom zvoncovitý až kuželovitý, nakonec s roztrhaným, vyhnutým okrajem. Je medově žlutý až okrově hnědý nebo plavý, s tmavším rezavě hnědým středem, hygrofánní a jemně rýhovaný od okraje téměř až ke středu. Mladé klobouky jsou posypané drobnými lesklými bílými až bledými zrnky (zbytky vela), která déšť smyje, takže starší klobouky bývají často hladké.",
+      "hymenium": "Lupeny jsou husté, volné až úzce připojené, zprvu bílé, potom šedohnědé až fialovohnědé, nakonec černé, a jen částečně delikvescentní — černají od okraje, ale klobouk se obvykle nerozplyne celý v černou inkoustovou tekutinu. Ostří lupenů starších klobouků může být slabě inkoustové.",
+      "stipe": "Třeň je 3–12 cm dlouhý a 0,2–0,7 cm tlustý (typicky 4–10 × 0,2–0,5 cm), válcovitý, někdy na bázi slabě ztlustlý, bílý, dutý, křehký a hedvábný, v mládí často ojíněný, později hladký a lesklý, při bázi trochu hnědnoucí. Nemá prsten ani pochvu a na bázi není oranžová vlněná myceliální plst.",
+      "flesh": "Dužnina je velmi tenká a křehká, u mladých plodnic bělavá. Vůně i chuť jsou nevýrazné.",
+      "sporePrint": "Výtrusný prach je velmi tmavohnědý až černý. Výtrusy jsou hladké, elipsoidní až mitrovité (štítovité), 7–11 × 4,5–7 µm, se středovým klíčním pórem.",
+      "habitat": "Saprotrofní, v hustých trsech na tlejících pařezech, kmenech a zahrabaných kořenech listnatých stromů nebo těsně vedle nich, v lesích, parcích a zahradách; může se zdát, že roste ze země nebo z krátké trávy, je-li dřevo zahrabané. Je rozšířená a velmi hojná v Evropě a ve velké části mírného pásu severní polokoule. Ve střední Evropě plodí především od dubna nebo května do listopadu; v Británii a Irsku se nejčastěji nachází od května do listopadu a některé evropské údaje prodlužují sezonu až do prosince.",
+      "uses": "Jedlá v mládí, dokud lupeny nečernají, ale má tenkou dužninu, je krátkověká a kuchyňsky málo hodnotná — po sběru ji je třeba brzy uvařit, protože klobouky se brzy slévají. Některé středoevropské příručky ji označují za nejedlou nebo za nehodnou sběru. Některé populární zdroje varují před antabusovým účinkem s alkoholem; chemické studie v ní koprin nenašly, na rozdíl od hnojníku inkoustového (Coprinopsis atramentaria). Plodnice ze silnic a znečištěných míst mohou hromadit těžké kovy a je třeba se jim vyhnout. V tomto katalogu se nepovažuje za prvotřídní jedlou houbu.",
+      "confusion": "Coprinellus truncorum je v terénu prakticky totožný a často ho odlišíme jen pod mikroskopem (tvar výtrusů a přítomnost nebo nepřítomnost cystid na třeni); mnohé záznamy jednoho jména mohou patřit druhému a tento katalog je vede jako samostatné druhy. Hnojník domácí (Coprinellus domesticus) roste obvykle v méně hustých trsech, má spíše plstnaté velum než lesklá slídovitá zrnka a často vyrůstá z nápadné oranžové vlněné myceliální plsti. Hnojník inkoustový (Coprinopsis atramentaria) je větší a masitější, s hladkým šedohnědým kloboukem bez lesklých zrnek, rozplývá se důkladněji a obsahuje koprin, který při požití alkoholu vyvolává nevolnost. Hnědé druhy rodu Psathyrella mohou být podobné, když zrnka smyla voda, ale jejich lupeny se v inkoust nerozplývají. Hnojník nasetý (Coprinellus disseminatus) roste v mnohem hojnějších trsech menších, bledších klobouků bez lesklých zrnek a jeho lupeny černají, ale skutečně se nerozplývají.",
+      "notes": "Spolehlivým terénním znakem je kombinace hustých trsů na listnatém dřevě, medově hnědého rýhovaného klobouku s lesklými slídovitými zrnky v mládí, tenkého bílého třeně bez prstenu a lupenů, které černají, ale jen částečně se rozplývají. Když zrnka smyla voda, je třeba houbu opatrně porovnat s podobnými druhy a Coprinellus truncorum nelze podle oka vyloučit.",
+      "names": [],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Hnojn%C3%ADk_t%C5%99pytiv%C3%BD",
+        "https://www.myko.cz/myko-atlas/Coprinellus-micaceus/",
+        "https://botany.cz/cs/coprinellus-micaceus/",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318",
+        "https://www.wikidata.org/wiki/Q933206"
+      ],
+      "label": "hnojník třpytivý"
+    },
+    "da": {
+      "description": "En almindelig, tuevoksende blækhat på rådnende løvtræ, kendt på honningbrune, fint furede hatte, der som unge er overstrøet med glinsende, glimmeragtige hvide korn, tynde hvide hule stokke uden ring, og lameller, der går fra hvide over gråbrune til sorte og kun delvis opløses til blæk.",
+      "cap": "Hat 1–5 cm i diameter (typisk 2–4 cm, når den er udbredt); først ægformet eller oval og 1–3,5 cm høj, derefter klokkeformet til kegleformet, til sidst med flænget, opadbøjet rand. Honninggul til okkerbrun eller falmet brun, med mørkere rustbrun midte, hygrofan og fint furet fra randen næsten ind til skiven. Unge hatte er bestrøet med bittesmå glinsende hvide til blege korn (velumrester), som regnen vasker af, så ældre hatte ofte er glatte.",
+      "hymenium": "Lameller tætte, frie til smalt tilhæftede, først hvide, derefter gråbrune til purpurbrune, til sidst sorte, og kun delvis delikvescente — de sortner fra randen, men hatten opløses sædvanligvis ikke helt til en sort, blækagtig væske. Lamelskarpene på ældre hatte kan være let blækede.",
+      "stipe": "Stok 3–12 cm lang og 0,2–0,7 cm tyk (typisk 4–10 × 0,2–0,5 cm), cylindrisk, undertiden lidt fortykket ved basis, hvid, hul, skrøbelig og silkeagtig, som ung ofte pudret, senere glat og blank, lidt brunende mod basis. Der er ingen ring og ingen volva, og ved basis findes ingen orange, ulden myceliemåtte.",
+      "flesh": "Kød meget tyndt og skrøbeligt, hvidligt hos unge frugtlegemer. Lugt og smag er ikke karakteristiske.",
+      "sporePrint": "Sporeaftryk meget mørkebrunt til sort. Sporer glatte, ellipsoide til mitriforme (skjoldformede), 7–11 × 4,5–7 µm, med en central kimporus.",
+      "habitat": "Saprotrof, i tætte tuer på eller ved rådnende stubbe, stammer og nedgravede rødder af løvtræer, i skove, parker og haver; den kan se ud til at gro fra jord eller kort græs, når træ er begravet. Udbredt og meget almindelig i Europa og i store dele af den tempererede nordlige halvkugle. I Centraleuropa frugtificerer den hovedsagelig fra april eller maj til november; i Storbritannien og Irland findes den oftest fra maj til november, og nogle europæiske kilder forlænger sæsonen ind i december.",
+      "uses": "Spiselig som ung, før lamellerne sortner, men tyndkødet, kortlivet og af ringe kulinarisk værdi — kog den snart efter plukning, fordi hattene hurtigt klapper sammen. Nogle centraleuropæiske håndbøger kalder den uspiselig eller ikke værd at samle. Nogle populære kilder advarer om en antabuslignende reaktion med alkohol; kemiske undersøgelser har ikke fundet coprin i den, i modsætning til almindelig blækhat (Coprinopsis atramentaria). Frugtlegemer fra vejkanter eller forurenet jord kan ophobe tungmetaller og bør undgås. I dette katalog behandles den ikke som en udsøgt spisesvamp.",
+      "confusion": "Coprinellus truncorum er i felten næsten identisk og kan ofte kun skilles under mikroskop (sporeform samt tilstedeværelse eller fravær af cystider på stokken); mange registreringer af det ene navn kan tilhøre den anden, og dette katalog behandler dem som særskilte arter. Hus-blækhat (Coprinellus domesticus) vokser sædvanligvis i mindre tætte tuer, har snarere et filtet velum end glinsende glimmerkorn og udspringer ofte fra en iøjnefaldende orange, ulden myceliemåtte. Almindelig blækhat (Coprinopsis atramentaria) er større og kødfyldigere, med en glat gråbrun hat uden glinsende korn, opløses mere fuldstændigt og indeholder coprin, som ved indtagelse af alkohol giver ubehag. Brune arter af slægten Psathyrella kan ligne, når kornene er vasket af, men deres lameller opløses ikke til blæk. Bredsået blækhat (Coprinellus disseminatus) vokser i langt talrigere flokke af mindre, blegere hatte uden glinsende korn, og dens lameller sortner uden egentlig at opløses.",
+      "notes": "Kombinationen af tætte tuer på løvtræ, en honningbrun furet hat med glinsende, glimmeragtige korn i ungdommen, en tynd hvid stok uden ring, og lameller, der sortner, men kun delvis opløses, er det mest pålidelige feltkendetegn. Når kornene er vasket af, kræves omhyggelig sammenligning med lignende blækhate, og Coprinellus truncorum kan ikke udelukkes med det blotte øje.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "glimmer-blækhat"
+    },
+    "de": {
+      "description": "Ein häufiger, büschelig wachsender Tintling an faulendem Laubholz, kenntlich an honigbraunen, fein gerieften Hüten, die jung mit glitzernden, glimmerartigen weißen Körnchen bestäubt sind, an dünnen, weißen, hohlen, ringlosen Stielen und an Lamellen, die von weiß über graubraun nach schwarz übergehen und sich nur teilweise in Tinte auflösen.",
+      "cap": "Hut 1–5 cm im Durchmesser (typisch 2–4 cm nach dem Aufschirmen); zuerst eiförmig oder oval und 1–3,5 cm hoch, dann glockig bis kegelig, zuletzt mit eingerissenem, aufgebogenem Rand. Honiggelb bis ockerbraun oder fahlbraun, mit dunklerer rostbrauner Mitte, hygrophan und vom Rand fast bis zur Scheibe fein gerieft. Junge Hüte sind mit winzigen glitzernden weißen bis blassen Körnchen (Velumreste) bestreut, die der Regen abwäscht, sodass ältere Hüte oft glatt sind.",
+      "hymenium": "Lamellen gedrängt, frei bis schmal angewachsen, zuerst weiß, dann graubraun bis violettbraun, zuletzt schwarz, und nur teilweise zerfließend — sie schwärzen vom Rand her, aber der Hut löst sich gewöhnlich nicht vollständig in eine schwarze, tintenartige Flüssigkeit auf. Die Lamellenschneiden älterer Hüte können leicht tintenartig sein.",
+      "stipe": "Stiel 3–12 cm lang und 0,2–0,7 cm dick (typisch 4–10 × 0,2–0,5 cm), zylindrisch, an der Basis manchmal etwas verdickt, weiß, hohl, zerbrechlich und seidig, jung oft bereift, später glatt und glänzend, zur Basis hin etwas bräunend. Es gibt keinen Ring und keine Volva, und an der Basis fehlt eine orange, wollige Myzelmatte.",
+      "flesh": "Fleisch sehr dünn und zerbrechlich, bei jungen Fruchtkörpern weißlich. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Sporenpulver sehr dunkelbraun bis schwarz. Sporen glatt, ellipsoid bis mitriform (schildförmig), 7–11 × 4,5–7 µm, mit zentralem Keimporus.",
+      "habitat": "Saprotroph, in dichten Büscheln auf oder neben faulenden Stümpfen, Stämmen und vergrabenen Wurzeln von Laubbäumen, in Wäldern, Parks und Gärten; er kann aus dem Boden oder aus kurzem Gras zu wachsen scheinen, wenn Holz vergraben ist. Weit verbreitet und sehr häufig in Europa und in weiten Teilen der gemäßigten Nordhalbkugel. In Mitteleuropa fruchtet er vor allem von April oder Mai bis November; in Großbritannien und Irland wird er am häufigsten von Mai bis November gefunden, und einige europäische Angaben verlängern die Saison bis in den Dezember.",
+      "uses": "Jung essbar, bevor die Lamellen schwärzen, aber dünnfleischig, kurzlebig und von geringem kulinarischen Wert — bald nach dem Sammeln kochen, weil die Hüte rasch zusammenfallen. Einige mitteleuropäische Führer bezeichnen ihn als ungenießbar oder nicht sammelwürdig. Einige populäre Quellen warnen vor einer antabusartigen Reaktion mit Alkohol; chemische Untersuchungen fanden darin kein Coprin, im Gegensatz zum Faltentintling (Coprinopsis atramentaria). Fruchtkörper von Straßenrändern oder belasteten Standorten können Schwermetalle anreichern und sollten gemieden werden. In diesem Katalog gilt er nicht als erstklassiger Speisepilz.",
+      "confusion": "Coprinellus truncorum ist im Gelände praktisch identisch und oft nur unter dem Mikroskop zu trennen (Sporenform sowie Vorhandensein oder Fehlen von Zystiden am Stiel); viele Angaben des einen Namens können dem anderen gelten, und dieser Katalog führt sie als getrennte Arten. Der Haus-Tintling (Coprinellus domesticus) wächst gewöhnlich in weniger dichten Büscheln, hat eher ein filziges Velum als glitzernde Glimmerkörnchen und entspringt oft einer auffälligen orangen, wolligen Myzelmatte. Der Faltentintling (Coprinopsis atramentaria) ist größer und fleischiger, mit glattem graubraunem Hut ohne glitzernde Körnchen, zerfließt vollständiger und enthält Coprin, das bei Alkoholgenuss Unwohlsein verursacht. Braune Arten der Gattung Psathyrella können ähnlich aussehen, wenn die Körnchen abgewaschen sind, aber ihre Lamellen lösen sich nicht in Tinte auf. Der Gesäte Tintling (Coprinellus disseminatus) wächst in viel zahlreicheren Trupps kleinerer, blasserer Hüte ohne glitzernde Körnchen, und seine Lamellen schwärzen, ohne wirklich zu zerfließen.",
+      "notes": "Die Kombination dichter Büschel an Laubholz, eines honigbraunen, gerieften Hutes mit glitzernden, glimmerartigen Körnchen in der Jugend, eines dünnen, weißen, ringlosen Stiels und von Lamellen, die schwärzen, aber nur teilweise zerfließen, ist das zuverlässigste Feldmerkmal. Sind die Körnchen abgewaschen, ist ein sorgfältiger Vergleich mit ähnlichen Tintlingen nötig, und Coprinellus truncorum lässt sich mit bloßem Auge nicht ausschließen.",
+      "names": [
+        "Glimmertintling",
+        "Glimmer-Tintling",
+        "Gewöhnlicher Glimmertintling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Gemeiner_Glimmertintling",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.inaturalist.org/taxa/56318",
+        "https://www.gbif.org/species/2534578"
+      ],
+      "label": "Gemeiner Glimmertintling"
+    },
+    "en": {
+      "description": "A common clustered inkcap of rotting hardwood, recognised by honey-brown, finely grooved caps that are dusted when young with glistening mica-like white granules, thin white hollow stems with no ring, and gills that turn from white to grey-brown then black and only partly dissolve into ink.",
+      "cap": "1–5 cm across (typically 2–4 cm when expanded); at first egg-shaped or oval and 1–3.5 cm tall, then bell-shaped to conical, finally with a torn, upturned margin. Honey-yellow to ochre-brown or tawny, with a darker rusty-brown centre, hygrophanous, and finely grooved from the margin almost to the disc. Young caps are sprinkled with tiny glistening white to pale granules (veil remains) that wash off in rain, so older caps are often smooth.",
+      "hymenium": "Gills crowded, free to narrowly attached, white at first, then grey-brown to purple-brown, finally black, and only partly deliquescent — they blacken from the margin but the cap does not usually dissolve completely into a black inky fluid. The gill edges of older caps may be slightly inky.",
+      "stipe": "3–12 cm long and 0.2–0.7 cm thick (typically 4–10 × 0.2–0.5 cm), cylindrical, sometimes slightly swollen at the base, white, hollow, fragile and silky, often pruinose when young, later smooth and shiny, browning a little towards the base. There is no ring and no volva, and no orange woolly mycelial mat at the base.",
+      "flesh": "Very thin and fragile, whitish in young fruit bodies. Smell and taste are not distinctive.",
+      "sporePrint": "Very dark brown to black. Spores smooth, ellipsoidal to mitriform (shield-shaped), 7–11 × 4.5–7 µm, with a central germ pore.",
+      "habitat": "Saprotrophic, in dense clusters on or beside rotting stumps, logs and buried roots of broad-leaved trees, in woods, parks and gardens; it may appear to grow from soil or short grass where wood is buried. Widespread and very common in Europe and across much of the temperate Northern Hemisphere. In Central Europe it fruits mainly from April or May to November; in Britain and Ireland it is most often found from May to November, and some European accounts extend the season into December.",
+      "uses": "Edible when young, before the gills blacken, but thin-fleshed, short-lived and of little culinary value — cook soon after picking, because the caps soon collapse. Some Central European guides call it inedible or not worth eating. Some popular sources warn of an antabuse-like reaction with alcohol; chemical studies have found it devoid of coprine, unlike the common inkcap (Coprinopsis atramentaria). Fruit bodies from roadsides or polluted ground can accumulate heavy metals and should be avoided. Not treated as a choice mushroom in this catalog.",
+      "confusion": "Coprinellus truncorum is virtually identical in the field and is often separable only under a microscope (spore shape and the presence or absence of cystidia on the stem); many records of one name may belong to the other, and this catalog treats them as separate species. The firerug inkcap (Coprinellus domesticus) is usually less densely clustered, has a more felt-like veil rather than glistening mica granules, and often arises from a conspicuous orange woolly mycelial mat. The common inkcap (Coprinopsis atramentaria) is larger and fleshier, with a smooth grey-brown cap without glistening granules, deliquesces more completely, and contains coprine, which causes illness if alcohol is drunk. Brown Psathyrella species can look similar when the granules have washed off, but their gills do not dissolve into ink. The fairy inkcap (Coprinellus disseminatus) grows in much larger troops of smaller, paler caps without glistening granules, and its gills blacken without truly deliquescing.",
+      "notes": "The combination of dense clusters on hardwood, a honey-brown grooved cap with glistening mica-like granules when young, a thin white ringless stem, and gills that blacken but only partly deliquesce is the most reliable field character. Once the granules have washed off, careful comparison with similar inkcaps is needed, and Coprinellus truncorum cannot be excluded by eye.",
+      "names": [
+        "mica cap",
+        "shiny cap",
+        "glistening inky cap",
+        "glistening ink-cap"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474361",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=474361",
+        "https://www.indexfungorum.org/IXFWebService/Fungus.asmx/NameByKey?NameKey=474361",
+        "https://www.gbif.org/species/2534578",
+        "https://www.first-nature.com/fungi/coprinellus-micaceus.php",
+        "https://www.myko.cz/myko-atlas/Coprinellus-micaceus/",
+        "https://botany.cz/cs/coprinellus-micaceus/",
+        "https://en.wikipedia.org/wiki/Coprinellus_micaceus",
+        "https://de.wikipedia.org/wiki/Gemeiner_Glimmertintling",
+        "https://www.inaturalist.org/taxa/56318",
+        "https://www.wikidata.org/wiki/Q933206"
+      ],
+      "label": "glistening inkcap"
+    },
+    "es": {
+      "description": "Un coprino gregario frecuente de la madera de frondosas en descomposición, reconocible por los sombreros pardo miel, finamente estriados, que de jóvenes están cubiertos de gránulos blancos brillantes, semejantes a mica, por los pies blancos, delgados, huecos y sin anillo, y por las láminas que pasan de blancas a pardo grisáceas y luego a negras y solo se disuelven parcialmente en tinta.",
+      "cap": "Sombrero de 1–5 cm de diámetro (típicamente 2–4 cm al expandirse); al principio ovoide u oval y de 1–3,5 cm de alto, luego acampanado a cónico, al final con el margen rasgado y revoluto. Amarillo miel a pardo ocráceo o leonado, con el centro pardo herrumbroso más oscuro, higrófano y finamente estriado desde el margen casi hasta el disco. Los sombreros jóvenes están salpicados de diminutos gránulos blancos a pálidos, brillantes (restos de velo), que la lluvia lava, de modo que los sombreros más viejos suelen ser lisos.",
+      "hymenium": "Láminas apretadas, libres a estrechamente adnatas, al principio blancas, luego pardo grisáceas a pardo violáceas, al final negras, y solo parcialmente deliquescentes: ennegrecen desde el margen, pero el sombrero no suele disolverse por completo en un líquido negro tintóreo. El filo de las láminas de los sombreros viejos puede ser ligeramente tintóreo.",
+      "stipe": "Pie de 3–12 cm de largo y 0,2–0,7 cm de grosor (típicamente 4–10 × 0,2–0,5 cm), cilíndrico, a veces un poco ensanchado en la base, blanco, hueco, frágil y sedoso, a menudo pruinoso de joven, luego liso y brillante, un poco pardo hacia la base. No hay anillo ni volva, y en la base falta una mata micelial lanosa de color naranja.",
+      "flesh": "Carne muy delgada y frágil, blanquecina en los cuerpos fructíferos jóvenes. Olor y sabor poco distintivos.",
+      "sporePrint": "Esporada pardo muy oscuro a negra. Esporas lisas, elipsoidales a mitriformes (en forma de escudo), 7–11 × 4,5–7 µm, con poro germinativo central.",
+      "habitat": "Saprotrófico, en racimos densos sobre o junto a tocones, troncos y raíces enterradas de árboles de hoja ancha en descomposición, en bosques, parques y jardines; puede parecer que crece del suelo o de un césped corto cuando la madera está enterrada. Ampliamente extendido y muy común en Europa y en gran parte del hemisferio norte templado. En Europa central fructifica sobre todo de abril o mayo a noviembre; en Gran Bretaña e Irlanda se encuentra con mayor frecuencia de mayo a noviembre, y algunos relatos europeos prolongan la temporada hasta diciembre.",
+      "uses": "Comestible de joven, antes de que las láminas ennegrezcan, pero de carne delgada, de vida corta y de poco valor culinario: hay que cocinarlo pronto después de recolectarlo, porque los sombreros se colapsan enseguida. Algunas guías de Europa central lo consideran no comestible o no digno de recolectarse. Algunas fuentes populares advierten de una reacción de tipo antabús con el alcohol; los estudios químicos no han hallado coprina en él, a diferencia de Coprinopsis atramentaria. Los cuerpos fructíferos de bordes de carretera o de suelos contaminados pueden acumular metales pesados y deben evitarse. En este catálogo no se trata como una seta de calidad.",
+      "confusion": "Coprinellus truncorum es prácticamente idéntico en el campo y a menudo solo se separa al microscopio (forma de las esporas y presencia o ausencia de cistidios en el pie); muchos registros de un nombre pueden pertenecer al otro, y este catálogo los trata como especies distintas. Coprinellus domesticus suele crecer en racimos menos densos, tiene un velo más afelpado que gránulos de mica brillantes, y a menudo nace de una conspicua mata micelial lanosa de color naranja. Coprinopsis atramentaria es mayor y más carnoso, con sombrero liso pardo grisáceo sin gránulos brillantes, se deliquesce más por completo y contiene coprina, que provoca malestar si se bebe alcohol. Las especies pardas del género Psathyrella pueden parecerse cuando los gránulos se han lavado, pero sus láminas no se disuelven en tinta. Coprinellus disseminatus crece en tropas mucho más numerosas de sombreros más pequeños y pálidos, sin gránulos brillantes, y sus láminas ennegrecen sin deliquescer de verdad.",
+      "notes": "La combinación de racimos densos sobre madera de frondosas, un sombrero pardo miel estriado con gránulos brillantes semejantes a mica de joven, un pie blanco delgado y sin anillo, y láminas que ennegrecen pero solo se disuelven parcialmente, es el carácter de campo más fiable. Una vez lavados los gránulos, hace falta una comparación atenta con coprinos semejantes, y Coprinellus truncorum no puede excluirse a simple vista.",
+      "names": [
+        "coprino micáceo"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318",
+        "https://www.wikidata.org/wiki/Q933206"
+      ],
+      "label": "tapón de tinta brillante"
+    },
+    "et": {
+      "description": "Sage, mättaliselt kasvav tindik kõduneval lehtpuul, mida tuntakse meepruunide, peenelt vaguliste kübarate järgi, mis noorelt on pudistatud sätendavate, vilgukivitaoliste valgete terakestega, peente valgete õõnsate, rõngata jalgade ja eoslehekeste järgi, mis muutuvad valgest hallikaspruuniks ja siis mustaks ning sulavad vaid osaliselt tindiks.",
+      "cap": "Kübar 1–5 cm läbimõõdus (tüüpiliselt 2–4 cm laiali avanedes); algul munajas või ovaalne ja 1–3,5 cm kõrge, siis kellukjas kuni koonusjas, lõpuks rebenenud, ülespöördunud servaga. Mee-kollane kuni ookerpruun või kolkjas pruun, tumedama roostepunase keskmega, hügrofaanne ja peenelt vaguline servast peaaegu kettani. Noored kübarad on puistatud tillukeste sätendavate valgete kuni kahvatute terakestega (loori jäänused), mille vihm maha uhub, nii et vanemad kübarad on sageli siledad.",
+      "hymenium": "Eoslehekesed tihedad, vabad kuni kitsalt kinnitunud, algul valged, siis hallikaspruunid kuni lillakaspruunid, lõpuks mustad, ja vaid osaliselt delikvestsed — nad mustuvad servast, kuid kübar ei lahustu tavaliselt täielikult mustaks tindilaadseks vedelikuks. Vanemate kübarate eoslehekeste servad võivad olla veidi tindised.",
+      "stipe": "Jalg 3–12 cm pikk ja 0,2–0,7 cm jäme (tüüpiliselt 4–10 × 0,2–0,5 cm), silinderjas, alusel vahel veidi jämenenud, valge, õõnes, habras ja siidine, noorelt sageli jahune, hiljem sile ja läikiv, aluse suunas veidi pruunistuv. Rõngast ega tupe pole, ja alusel puudub oranž villane seeneniidistiku vaip.",
+      "flesh": "Liha väga õhuke ja habras, noortel viljakehadel valkjas. Lõhn ja maitse ei ole iseloomulikud.",
+      "sporePrint": "Eospulber väga tumepruun kuni must. Eosed siledad, ellipsoidsed kuni mitriformsed (kilbikujulised), 7–11 × 4,5–7 µm, keskmise iduporiga.",
+      "habitat": "Saprotroofne, tihedates mättades kõdunevatel kändudel, tüvedel ja lehtpuude maetud juurtel või nende kõrval, metsades, parkides ja aedades; võib paista kasvavat mullast või lühikesest rohust, kui puit on maetud. Laialt levinud ja väga sage Euroopas ning suures osas põhjapoolkera parasvöötmest. Kesk-Euroopas viljub peamiselt aprillist või maist novembrini; Suurbritannias ja Iirimaal leitakse teda kõige sagedamini maist novembrini ning mõned Euroopa allikad pikendavad hooaja detsembrini.",
+      "uses": "Söödav noorelt, enne eoslehekeste mustumist, kuid õhukese lihaga, lühiealine ja köögiväärtuselt vähene — keeda varsti pärast korjamist, sest kübarad vajuvad ruttu kokku. Mõned Kesk-Euroopa juhendid peavad teda mittesöödavaks või korjamist mitte väärivaks. Mõned populaarsed allikad hoiatavad antabuselaadse reaktsiooni eest alkoholiga; keemilised uuringud ei ole temast kopriini leidnud, erinevalt voldilisest tindikust (Coprinopsis atramentaria). Teeservade või saastunud pinnase viljakehad võivad koguda raskmetalle ja neid tuleks vältida. Selles kataloogis ei käsitleta teda esmaklassilise söögiseenena.",
+      "confusion": "Coprinellus truncorum on maastikul praktiliselt sama ja teda saab sageli eristada ainult mikroskoobi all (eoste kuju ning tsüstiidide olemasolu või puudumine jalal); paljud ühe nime kirjed võivad kuuluda teisele ja see kataloog käsitleb neid eraldi liikidena. Coprinellus domesticus kasvab tavaliselt hõredamates mättades, tal on pigem viltjas loor kui sätendavad vilguterakesed ja ta tõuseb sageli silmatorkavast oranžist villasest seeneniidistikumatist. Voldiline tindik (Coprinopsis atramentaria) on suurem ja lihakam, sileda hallikaspruuni kübaraga ilma sätendavate terakesteta, sulab täielikumalt ja sisaldab kopriini, mis alkoholi tarvitamisel põhjustab halba enesetunnet. Perekonna Psathyrella pruunid liigid võivad sarnaneda, kui terakesed on maha uhutud, kuid nende eoslehekesed ei sula tindiks. Seltsiv tindik (Coprinellus disseminatus) kasvab palju arvukamates salkades väiksemate, kahvatumate kübaratega ilma sätendavate terakesteta ning tema eoslehekesed mustuvad ilma tegelikult sulamata.",
+      "notes": "Kõige usaldusväärsem välimustunnus on tihedate lehtpuul kasvavate mätaste, noorelt sätendavate vilgukivitaoliste terakestega meepruuni vagulise kübara, peene valge rõngata jala ja eoslehekeste kombinatsioon, mis mustuvad, kuid sulavad vaid osaliselt. Kui terakesed on maha uhutud, tuleb seent hoolikalt võrrelda sarnaste tindikutega ja Coprinellus truncorum'it ei saa palja silmaga välistada.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/S%C3%A4tendav_tindik",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "sätendav tindik"
+    },
+    "fa": {
+      "description": "یک قارچ جوهری رایج که به صورت دسته‌ای روی چوب پهن‌برگ در حال پوسیدن می‌روید و با کلاهک‌های قهوه‌ای عسلی شیاردار ظریف که در جوانی با دانه‌های سفید براق شبیه میکا پوشیده می‌شوند، ساقه‌های سفید نازک توخالی بدون حلقه، و تیغه‌هایی که از سفید به قهوه‌ای مایل به خاکستری و سپس سیاه می‌شوند و تنها تا حدی به جوهر حل می‌شوند، شناخته می‌شود.",
+      "cap": "کلاهک ۱–۵ سانتی‌متر پهنا دارد (معمولاً ۲–۴ سانتی‌متر پس از باز شدن)؛ ابتدا تخم‌مرغی یا بیضی و ۱–۳٫۵ سانتی‌متر بلندی دارد، سپس زنگی تا مخروطی می‌شود و سرانجام حاشیه پاره و برگشته به بالا پیدا می‌کند. زرد عسلی تا قهوه‌ای اخرایی یا نخودی است، با مرکز قهوه‌ای زنگاری تیره‌تر، هیگروفان، و از حاشیه تقریباً تا دیسک به‌طور ظریف شیاردار. کلاهک‌های جوان با دانه‌های بسیار ریز سفید تا رنگ‌پریده براق (باقی‌مانده پرده) پاشیده می‌شوند که باران آن‌ها را می‌شوید، بنابراین کلاهک‌های مسن‌تر اغلب صاف‌اند.",
+      "hymenium": "تیغه‌ها فشرده، آزاد تا به‌طور باریک چسبیده، ابتدا سفید، سپس قهوه‌ای مایل به خاکستری تا قهوه‌ای بنفش، سرانجام سیاه، و تنها تا حدی ذوب‌شونده هستند — از حاشیه سیاه می‌شوند، اما کلاهک معمولاً به‌طور کامل در مایعی سیاه و جوهری حل نمی‌شود. لبه تیغه‌های کلاهک‌های مسن‌تر ممکن است اندکی جوهری باشد.",
+      "stipe": "ساقه ۳–۱۲ سانتی‌متر درازا و ۰٫۲–۰٫۷ سانتی‌متر ستبرا دارد (معمولاً ۴–۱۰ × ۰٫۲–۰٫۵ سانتی‌متر)، استوانه‌ای است، گاهی در پایه کمی متورم، سفید، توخالی، شکننده و ابریشمی، در جوانی اغلب آردی، سپس صاف و براق، و به سوی پایه کمی قهوه‌ای می‌شود. حلقه و والو ندارد و در پایه پوشش میسلیومی پشمی نارنجی دیده نمی‌شود.",
+      "flesh": "گوشت بسیار نازک و شکننده است و در جسم‌های میوه‌ای جوان سفیدرنگ است. بو و مزه مشخص نیستند.",
+      "sporePrint": "گرده هاگ قهوه‌ای بسیار تیره تا سیاه است. هاگ‌ها صاف، بیضوی تا میتری‌شکل (سپرمانند)، ۷–۱۱ × ۴٫۵–۷ µm، با منفذ جوانه‌زنی مرکزی هستند.",
+      "habitat": "ساپروتروف، در دسته‌های انبوه روی یا کنار کنده، تنه و ریشه‌های دفن‌شده درختان پهن‌برگ در حال پوسیدن، در جنگل‌ها، پارک‌ها و باغ‌ها؛ اگر چوب دفن شده باشد ممکن است از خاک یا چمن کوتاه روییده به نظر برسد. در اروپا و بخش بزرگی از نیمکره شمالی معتدل گسترده و بسیار رایج است. در اروپای مرکزی عمدتاً از آوریل یا مه تا نوامبر میوه می‌دهد؛ در بریتانیا و ایرلند بیشتر از مه تا نوامبر یافت می‌شود و برخی منابع اروپایی فصل را تا دسامبر امتداد می‌دهند.",
+      "uses": "در جوانی، پیش از سیاه شدن تیغه‌ها، خوراکی است، اما گوشت نازک، عمر کوتاه و ارزش آشپزی اندکی دارد — باید به‌زودی پس از چیدن پخته شود، زیرا کلاهک‌ها به‌سرعت فرو می‌ریزند. برخی راهنماهای اروپای مرکزی آن را غیرخوراکی یا ارزش چیدن نداشتن می‌دانند. برخی منابع عمومی در مورد واکنش شبیه آنتابوس با الکل هشدار می‌دهند؛ مطالعات شیمیایی، برخلاف Coprinopsis atramentaria، در آن کوپرین نیافته‌اند. جسم‌های میوه‌ای کنار جاده یا زمین آلوده می‌توانند فلزات سنگین انباشته کنند و باید از آن‌ها پرهیز شود. در این فهرست به‌عنوان قارچ مرغوب خوراکی در نظر گرفته نمی‌شود.",
+      "confusion": "Coprinellus truncorum در میدان عملاً یکسان است و اغلب تنها زیر میکروسکوپ جدا می‌شود (شکل هاگ و حضور یا غیاب سیستیدیوم‌ها روی ساقه)؛ بسیاری از ثبت‌های یک نام ممکن است به دیگری تعلق داشته باشند و این فهرست آن‌ها را گونه‌های جداگانه می‌داند. Coprinellus domesticus معمولاً در دسته‌های کمتر انبوه می‌روید، پرده‌ای نمدی‌تر از دانه‌های میکای براق دارد و اغلب از پوشش میسلیومی پشمی نارنجی چشمگیر بیرون می‌آید. Coprinopsis atramentaria بزرگ‌تر و گوشتی‌تر است، با کلاهک صاف قهوه‌ای مایل به خاکستری بدون دانه‌های براق، کامل‌تر حل می‌شود و کوپرین دارد که اگر الکل نوشیده شود بیماری می‌آورد. گونه‌های قهوه‌ای سرده Psathyrella هنگامی که دانه‌ها شسته شده‌اند ممکن است شبیه باشند، اما تیغه‌هایشان به جوهر حل نمی‌شود. Coprinellus disseminatus در گروه‌های بسیار پرشمارتر از کلاهک‌های کوچک‌تر و رنگ‌پریده‌تر بدون دانه‌های براق می‌روید و تیغه‌هایش بدون حل شدن واقعی سیاه می‌شوند.",
+      "notes": "قابل‌اعتمادترین نشانه میدانی ترکیب دسته‌های انبوه روی چوب پهن‌برگ، کلاهک قهوه‌ای عسلی شیاردار با دانه‌های براق شبیه میکا در جوانی، ساقه سفید نازک بدون حلقه، و تیغه‌هایی است که سیاه می‌شوند اما تنها تا حدی حل می‌شوند. پس از شسته شدن دانه‌ها باید با قارچ‌های جوهری مشابه با دقت مقایسه شود و Coprinellus truncorum را نمی‌توان با چشم غیرمسلح کنار گذاشت.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Yleinen, tuppaina kasvava mustesieni lahoavalla lehtipuulla, jonka tunnistaa hunajanruskeista, hienosti uurteisista lakeista, jotka nuorina ovat hohtavien, kiillevien valkoisten jyvästen peittämiä, ohuista valkoisista onttoista, renkaattomista jaloista sekä heltoista, jotka vaihtuvat valkoisista harmaanruskeiksi ja sitten mustiksi ja liukenevat vain osittain musteeksi.",
+      "cap": "Laki 1–5 cm halkaisijaltaan (tyypillisesti 2–4 cm auettuaan); ensin munamainen tai soikea ja 1–3,5 cm korkea, sitten kellomainen tai kartiomainen, lopulta repeytynein, ylöspäin kääntynein reunoin. Hunajankeltainen tai okranruskea tai kellanruskea, keskustasta tummemman ruosteenruskea, hygrofaaninen ja hienosti uurteinen reunasta lähes kiekolle asti. Nuoret lakit ovat siroteltuina pienenpienillä hohtavilla valkoisilla tai vaaleilla jyväsillä (suojuksen jäänteitä), jotka sade huuhtoo pois, joten vanhemmat lakit ovat usein sileitä.",
+      "hymenium": "Heltat tiheässä, vapaat tai kapeasti kiinnittyneet, ensin valkoiset, sitten harmaanruskeat tai purppuranruskeat, lopulta mustat, ja vain osittain delikvesenssit — ne mustuvat reunasta, mutta laki ei tavallisesti liukene kokonaan mustaksi, mustemiseksi nesteeksi. Vanhempien lakkien helttojen terät voivat olla hieman mustemaiset.",
+      "stipe": "Jalka 3–12 cm pitkä ja 0,2–0,7 cm paksu (tyypillisesti 4–10 × 0,2–0,5 cm), lieriömäinen, tyvestä joskus hieman paksuuntunut, valkoinen, ontto, hauras ja silkkinen, nuorena usein jauheinen, myöhemmin sileä ja kiiltävä, tyveä kohti hieman ruskettuva. Renkasta ja tuppea ei ole, eikä tyvessä ole oranssia, villaista rihmastoalustaa.",
+      "flesh": "Malto hyvin ohut ja hauras, nuorissa itiöemissä vaaleanvalkoinen. Tuoksu ja maku eivät ole erikoisia.",
+      "sporePrint": "Itiöpöly hyvin tummanruskea tai musta. Itiöt sileät, ellipsoidisia tai mitriformisia (kilpimäisiä), 7–11 × 4,5–7 µm, keskellä itureikä.",
+      "habitat": "Saprotrofinen, tiheinä tuppaina lahoavilla kannoilla, rungoilla ja lehtipuiden haudatuilla juurilla tai niiden vieressä, metsissä, puistoissa ja puutarhoissa; se voi näyttää kasvavan maasta tai lyhyestä ruohosta, jos puu on haudattuna. Laajalle levinnyt ja hyvin yleinen Euroopassa ja suuressa osassa lauhkeaa pohjoista pallonpuoliskoa. Keski-Euroopassa itiöemiä ilmestyy pääasiassa huhtikuusta tai toukokuusta marraskuuhun; Britanniassa ja Irlannissa se tavataan useimmin toukokuusta marraskuuhun, ja jotkin eurooppalaiset lähteet ulottavat kauden joulukuuhun.",
+      "uses": "Syötävä nuorena, ennen helttojen mustumista, mutta ohutmaltoinen, lyhytikäinen ja keittiöarvoltaan vähäinen — keitä pian poimimisen jälkeen, sillä lakit luhistuvat pian. Jotkin keskieurooppalaiset oppaat pitävät sitä syömäkelvottomana tai ei poimimisen arvoisena. Jotkin yleistajuiset lähteet varoittavat antabusmaiseen reaktioon alkoholin kanssa; kemialliset tutkimukset eivät ole löytäneet siitä kopriinia, toisin kuin harmaamustesienestä (Coprinopsis atramentaria). Tienvarsien tai saastuneen maan itiöemät voivat kerätä raskasmetalleja, ja niitä on vältettävä. Tässä luettelossa sitä ei pidetä ensiluokkaisena ruokasienenä.",
+      "confusion": "Coprinellus truncorum on maastossa käytännössä samanlainen ja erottuu usein vain mikroskoopilla (itiöiden muoto sekä jalkasystidien esiintyminen tai puuttuminen); moni merkitä yhden nimen alla voi kuulua toiselle, ja tämä luettelo käsittelee niitä erillisinä lajeina. Coprinellus domesticus kasvaa tavallisesti harvemmissa tupissa, sillä on mieluummin huopamainen suojus kuin hohtavia kiillejyväsiä, ja se nousee usein silmiinpistävästä oranssista, villaisesta rihmastomatosta. Harmaamustesieni (Coprinopsis atramentaria) on kookkaampi ja maltoisampi, sileälakkinen harmaanruskea ilman hohtavia jyväsiä, liukenee täydellisemmin ja sisältää kopriinia, joka alkoholin nauttimisen yhteydessä aiheuttaa pahoinvointia. Suvun Psathyrella ruskeat lajit voivat näyttää samanlaisilta, kun jyväset on huuhdottu pois, mutta niiden heltat eivät liukene musteeksi. Parvimustesieni (Coprinellus disseminatus) kasvaa paljon runsaslukuisemmissa joukoissa pienempiä, vaaleampia lakkeja ilman hohtavia jyväsiä, ja sen heltat mustuvat ilman todellista liukenemista.",
+      "notes": "Luotettavin tuntomerkki maastossa on tiheiden lehtipuulla kasvavien tuppien, nuorena hohtavin kiillejyväsin peittyvän hunajanruskean uurteisen lakin, ohuen valkoisen renkaattoman jalan ja helttojen, jotka mustuvat mutta liukenevat vain osittain, yhdistelmä. Kun jyväset on huuhdottu pois, sientä on vertailtava huolellisesti samankaltaisiin mustesieniin, eikä Coprinellus truncorumia voi sulkea pois paljaalla silmällä.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Kiillemustesieni",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "kiillemustesieni"
+    },
+    "fr": {
+      "description": "Un coprin grégaire commun du bois feuillu en décomposition, reconnaissable à ses chapeaux brun miel finement striés, poudrés chez les jeunes d’un granité blanc, luisant, analogue à du mica, à ses pieds blancs, minces, creux et sans anneau, et à ses lames qui passent du blanc au brun-gris puis au noir et ne se déliquescent que partiellement en encre.",
+      "cap": "Chapeau de 1–5 cm de diamètre (typiquement 2–4 cm une fois étalé) ; d’abord ovoïde ou ovale et haut de 1–3,5 cm, puis campanulé à conique, enfin à marge déchirée et relevée. Jaune miel à brun ocré ou fauve, à centre brun rouille plus foncé, hygrophane et finement strié de la marge presque jusqu’au disque. Les jeunes chapeaux sont parsemés de minuscules granules blancs à pâles, luisants (restes de voile), que la pluie lave, si bien que les chapeaux plus âgés sont souvent lisses.",
+      "hymenium": "Lames serrées, libres à étroitement adnées, d’abord blanches, puis brun-gris à brun violacé, enfin noires, et seulement partiellement déliquescentes — elles noircissent à partir de la marge, mais le chapeau ne se dissout généralement pas entièrement en un liquide noir, encreux. Les arêtes des lames des chapeaux âgés peuvent être légèrement encreuses.",
+      "stipe": "Pied de 3–12 cm de long et 0,2–0,7 cm d’épaisseur (typiquement 4–10 × 0,2–0,5 cm), cylindrique, parfois un peu renflé à la base, blanc, creux, fragile et soyeux, souvent pruineux chez le jeune, plus tard lisse et luisant, un peu brunissant vers la base. Il n’y a ni anneau ni volve, et aucune natte mycélienne laineuse orange à la base.",
+      "flesh": "Chair très mince et fragile, blanchâtre chez les jeunes sporophores. Odeur et saveur peu caractéristiques.",
+      "sporePrint": "Sporée brun très foncé à noire. Spores lisses, ellipsoïdes à mitriformes (en forme de bouclier), 7–11 × 4,5–7 µm, avec un pore germinatif central.",
+      "habitat": "Saprotrophe, en touffes denses sur ou à côté de souches, de troncs et de racines enterrées d’arbres feuillus en décomposition, dans les bois, les parcs et les jardins ; il peut sembler pousser du sol ou d’une pelouse rase lorsque le bois est enterré. Répandu et très commun en Europe et dans une grande partie de l’hémisphère nord tempéré. En Europe centrale, il fructifie surtout d’avril ou mai à novembre ; en Grande-Bretagne et en Irlande, on le trouve le plus souvent de mai à novembre, et certains auteurs européens prolongent la saison jusqu’en décembre.",
+      "uses": "Comestible à l’état jeune, avant le noircissement des lames, mais à chair mince, de courte durée et de peu d’intérêt culinaire — à cuire bientôt après la récolte, car les chapeaux s’affaissent vite. Certains guides d’Europe centrale le disent non comestible ou indigne d’être cueilli. Certaines sources grand public mettent en garde contre une réaction de type antabuse avec l’alcool ; des études chimiques n’y ont pas trouvé de coprine, contrairement au coprin noir d'encre (Coprinopsis atramentaria). Les sporophores des bords de route ou des sols pollués peuvent accumuler des métaux lourds et sont à éviter. Ce catalogue ne le traite pas comme un champignon de choix.",
+      "confusion": "Coprinellus truncorum est pratiquement identique sur le terrain et ne se sépare souvent qu’au microscope (forme des spores et présence ou absence de cystides sur le pied) ; de nombreux relevés sous l’un des noms peuvent concerner l’autre, et ce catalogue les traite comme des espèces distinctes. Le coprin domestique (Coprinellus domesticus) pousse généralement en touffes moins denses, a un voile plutôt feutré que des granules de mica luisants, et naît souvent d’une natte mycélienne laineuse orange, bien visible. Le coprin noir d'encre (Coprinopsis atramentaria) est plus grand et plus charnu, à chapeau lisse brun-gris sans granules luisants, se déliquesce plus complètement et contient de la coprine, qui provoque un malaise si l’on boit de l’alcool. Les espèces brunes du genre Psathyrella peuvent lui ressembler lorsque les granules ont été lavés, mais leurs lames ne se dissolvent pas en encre. Le coprin disséminé (Coprinellus disseminatus) pousse en troupes bien plus nombreuses de chapeaux plus petits et plus pâles, sans granules luisants, et ses lames noircissent sans vraiment se déliquescer.",
+      "notes": "La combinaison de touffes denses sur bois feuillu, d’un chapeau brun miel strié à granules luisants, semblables à du mica, chez le jeune, d’un pied blanc, mince et sans anneau, et de lames qui noircissent mais ne se déliquescent que partiellement, est le caractère de terrain le plus fiable. Une fois les granules lavés, une comparaison attentive avec des coprins voisins s’impose, et Coprinellus truncorum ne peut être exclu à l’œil nu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "coprin micacé"
+    },
+    "he": {
+      "description": "פטריית דיו נפוצה הצומחת בצרורות על עץ רחב-עלים נרקב, ומזוהה לפי כובעים חום-דבש, מחורצים דק, המאובקים בצעירותם בגרגירים לבנים מבריקים דמויי נציץ, לפי רגלים לבנות דקות וחלולות בלי טבעת, ולפי דפים העוברים מלבן לחום-אפור ואחר כך לשחור ונמסים רק בחלקם לדיו.",
+      "cap": "הכובע בקוטר 1–5 ס״מ (בדרך כלל 2–4 ס״מ לאחר התפשטות); תחילה דמוי ביצה או סגלגל וגובהו 1–3,5 ס״מ, אחר כך דמוי פעמון עד חרוטי, ולבסוף בשוליים קרועים והפוכים כלפי מעלה. צהוב-דבש עד חום-אוכרה או חום בהיר, עם מרכז חום-חלודה כהה יותר, היגרופני ומחורץ דק מהשוליים כמעט עד הדיסק. כובעים צעירים זרועים גרגירים זעירים לבנים עד חיוורים ומבריקים (שרידי מעטה) שהגשם שוטף, כך שכובעים מבוגרים יותר לעיתים קרובות חלקים.",
+      "hymenium": "הדפים צפופים, חופשיים עד מחוברים בצר, תחילה לבנים, אחר כך חום-אפור עד חום-סגול, ולבסוף שחורים, ונמסים רק בחלקם — הם משחירים מהשוליים, אך הכובע בדרך כלל אינו נמס כולו לנוזל שחור דיוני. שולי הדפים של כובעים מבוגרים עשויים להיות מעט דיוניים.",
+      "stipe": "הרגל באורך 3–12 ס״מ ובעובי 0,2–0,7 ס״מ (בדרך כלל 4–10 × 0,2–0,5 ס״מ), גלילית, לעיתים מעט נפוחה בבסיס, לבנה, חלולה, שבירה ומשיית, בצעירותה לעיתים קרובות קמחית, אחר כך חלקה ומבריקה, ומשחירה מעט לכיוון הבסיס. אין טבעת ואין נרתיק, ובבסיס אין שטיח תפטיר צמרי כתום.",
+      "flesh": "הבשר דק מאוד ושביר, בגפי פרי צעירים הוא לבנבן. הריח והטעם אינם אופייניים.",
+      "sporePrint": "אבקת הנבגים חומה כהה מאוד עד שחורה. הנבגים חלקים, אליפסואידיים עד מיטריפורמיים (דמויי מגן), 7–11 × 4,5–7 µm, עם נקבוביות נביטה מרכזית.",
+      "habitat": "ספרוטרופית, בצרורות צפופים על גדמים, גזעים ושורשים קבורים של עצים רחבי-עלים נרקבים או לצדם, ביערות, בפארקים ובגנים; היא עשויה להיראות כצומחת מהקרקע או מדשא קצר כאשר העץ קבור. נפוצה מאוד באירופה ובחלק גדול של חצי הכדור הצפוני הממוזג. במרכז אירופה היא מניבה בעיקר מאפריל או ממאי עד נובמבר; בבריטניה ובאירלנד היא נמצאת לרוב ממאי עד נובמבר, ומקורות אירופיים אחדים מאריכים את העונה עד דצמבר.",
+      "uses": "אכילה בצעירותה, לפני שהדפים משחירים, אך דקת בשר, קצרת-חיים ובעלת ערך קולינרי מועט — יש לבשל אותה במהרה לאחר הלקיטה, כי הכובעים קורסים במהרה. מדריכים אחדים במרכז אירופה רואים בה בלתי אכילה או שאינה שווה לקט. מקורות עממיים אחדים מזהירים מתגובה דמוית אנטבוס עם אלכוהול; מחקרים כימיים לא מצאו בה קופרין, שלא כמו Coprinopsis atramentaria. גופי פרי משולי דרכים או מקרקע מזוהמת עשויים לצבור מתכות כבדות ויש להימנע מהם. בקטלוג זה אין רואים בה פטרייה משובחת.",
+      "confusion": "Coprinellus truncorum זהה כמעט בשדה ולעיתים קרובות ניתן להפרידו רק במיקרוסקופ (צורת הנבגים ונוכחות או היעדר ציסטידות על הרגל); רישומים רבים של שם אחד עשויים להשתייך לשני, וקטלוג זה מטפל בהם כמינים נפרדים. Coprinellus domesticus גדל בדרך כלל בצרורות פחות צפופים, יש לו מעטה דמוי לבד יותר מאשר גרגירי נציץ מבריקים, ולעיתים קרובות הוא עולה מתוך שטיח תפטיר צמרי כתום בולט. Coprinopsis atramentaria גדולה ובשרנית יותר, עם כובע חלק חום-אפור בלי גרגירים מבריקים, נמסה באופן שלם יותר ומכילה קופרין, הגורם לחולי אם שותים אלכוהול. מינים חומים בסוג Psathyrella עשויים להידמות כאשר הגרגירים נשטפו, אך הדפים שלהם אינם נמסים לדיו. Coprinellus disseminatus גדל בלהקות גדולות בהרבה של כובעים קטנים וחיוורים יותר, בלי גרגירים מבריקים, והדפים שלו משחירים בלי להימס באמת.",
+      "notes": "הסימן האמין ביותר בשדה הוא צירוף של צרורות צפופים על עץ רחב-עלים, כובע חום-דבש מחורץ עם גרגירים מבריקים דמויי נציץ בצעירותו, רגל לבנה דקה בלי טבעת, ודפים שמשחירים אך נמסים רק בחלקם. לאחר שהגרגירים נשטפו יש להשוות בזהירות לפטריות דיו דומות, ואין לשלול את Coprinellus truncorum בעין בלתי מזוינת.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "דיואית מנצנצת"
+    },
+    "hi": {
+      "description": "सड़ते चौड़े-पत्तेदार काठ पर गुच्छों में उगने वाला एक सामान्य स्याही मशरूम, जिसे शहद-भूरे, बारीक खांचेदार टोपों से पहचाना जाता है जो युवा अवस्था में चमकदार अभ्रक-जैसे सफेद कणों से ढके होते हैं, पतले सफेद खोखले बिना वलय के डंठलों से, और गिलों से जो सफेद से धूसर-भूरे फिर काले हो जाते हैं और केवल आंशिक रूप से स्याही में घुलते हैं।",
+      "cap": "टोप 1–5 सेमी चौड़ा (फैलने पर आमतौर पर 2–4 सेमी); पहले अंडाकार या अंडाभ और 1–3.5 सेमी ऊँचा, फिर घंटाकार से शंक्वाकार, अंत में फटे, ऊपर मुड़े किनारे वाला। शहद-पीला से गेरुआ-भूरा या फिका भूरा, गहरे जंग-भूरे केंद्र के साथ, हाइग्रोफैनस, और किनारे से लगभग चक्र तक बारीक खांचेदार। युवा टोप बहुत छोटे चमकदार सफेद से फीके कणों (आवरण अवशेष) से बिखरे होते हैं जिन्हें वर्षा धो देती है, इसलिए पुराने टोप अक्सर चिकने होते हैं।",
+      "hymenium": "गिल घने, मुक्त से संकीर्ण रूप से जुड़े, पहले सफेद, फिर धूसर-भूरे से बैंगनी-भूरे, अंत में काले, और केवल आंशिक रूप से विलयशील — वे किनारे से काले होते हैं, लेकिन टोप आमतौर पर पूरी तरह काले स्याही जैसे द्रव में नहीं घुलता। पुराने टोपों के गिल किनारों पर हल्की स्याही हो सकती है।",
+      "stipe": "डंठल 3–12 सेमी लंबा और 0.2–0.7 सेमी मोटा (आमतौर पर 4–10 × 0.2–0.5 सेमी), बेलनाकार, कभी-कभी आधार पर थोड़ा फूला हुआ, सफेद, खोखला, भंगुर और रेशमी, युवा अवस्था में अक्सर चूर्णिल, बाद में चिकना और चमकदार, आधार की ओर थोड़ा भूरा। कोई वलय और कोई वाल्वा नहीं है, और आधार पर कोई नारंगी ऊनी कवकजाल चटाई नहीं होती।",
+      "flesh": "मांस बहुत पतला और भंगुर है, युवा फलन पिंडों में सफेदपन लिए हुए। गंध और स्वाद विशिष्ट नहीं हैं।",
+      "sporePrint": "बीजाणु छाप बहुत गहरा भूरा से काला। बीजाणु चिकने, दीर्घवृत्ताकार से मिट्रिफॉर्म (ढाल-आकार), 7–11 × 4.5–7 µm, केंद्रीय अंकुरण छिद्र के साथ।",
+      "habitat": "मृतजीवी, सड़ते ठूँठों, तनों और चौड़े-पत्तेदार वृक्षों की दबी जड़ों पर या उनके पास घने गुच्छों में, वन, उद्यान और बागों में; जब काठ दबा हो तो यह मिट्टी या छोटी घास से उगता दिखाई दे सकता है। यूरोप और समशीतोष्ण उत्तरी गोलार्ध के बड़े भाग में व्यापक और बहुत सामान्य। मध्य यूरोप में मुख्यतः अप्रैल या मई से नवंबर तक फलता है; ब्रिटेन और आयरलैंड में अधिकतर मई से नवंबर तक मिलता है, और कुछ यूरोपीय स्रोत मौसम को दिसंबर तक बढ़ाते हैं।",
+      "uses": "युवा अवस्था में, गिलों के काले होने से पहले, खाद्य है, लेकिन पतले मांस वाला, अल्पकालिक और रसोई मूल्य में कम — तुड़ाई के शीघ्र बाद पकाना चाहिए, क्योंकि टोप जल्दी ढह जाते हैं। कुछ मध्य यूरोपीय मार्गदर्शिकाएँ इसे अखाद्य या तोड़ने योग्य नहीं मानतीं। कुछ लोकप्रिय स्रोत शराब के साथ एंटाब्यूस-जैसी प्रतिक्रिया की चेतावनी देते हैं; रासायनिक अध्ययनों ने Coprinopsis atramentaria के विपरीत इसमें कॉप्रीन नहीं पाया। सड़क किनारे या प्रदूषित भूमि के फलन पिंड भारी धातुएँ संचित कर सकते हैं और उनसे बचना चाहिए। इस सूची में इसे उत्कृष्ट खाद्य मशरूम नहीं माना जाता।",
+      "confusion": "Coprinellus truncorum मैदान में व्यावहारिक रूप से एक जैसा है और अक्सर केवल सूक्ष्मदर्शी से अलग किया जाता है (बीजाणु आकार और डंठल पर सिस्टिडिया की उपस्थिति या अनुपस्थिति); एक नाम के कई अभिलेख दूसरे के हो सकते हैं, और यह सूची उन्हें अलग प्रजातियाँ मानती है। Coprinellus domesticus आमतौर पर कम घने गुच्छों में उगता है, चमकदार अभ्रक कणों के बजाय अधिक महसूसी आवरण रखता है, और अक्सर एक स्पष्ट नारंगी ऊनी कवकजाल चटाई से निकलता है। Coprinopsis atramentaria बड़ा और अधिक मांसल है, चमकदार कणों के बिना चिकने धूसर-भूरे टोप के साथ, अधिक पूर्ण रूप से घुलता है और कॉप्रीन रखता है, जो शराब पीने पर बीमारी करता है। वंश Psathyrella की भूरी प्रजातियाँ कण धुल जाने पर समान लग सकती हैं, लेकिन उनकी गिलें स्याही में नहीं घुलतीं। Coprinellus disseminatus चमकदार कणों के बिना छोटे, फीके टोपों के कहीं अधिक बड़े झुंडों में उगता है, और उसकी गिलें वास्तव में घुले बिना काली पड़ती हैं।",
+      "notes": "सबसे विश्वसनीय क्षेत्र लक्षण चौड़े-पत्तेदार काठ पर घने गुच्छ, युवा अवस्था में चमकदार अभ्रक-जैसे कणों वाला शहद-भूरा खांचेदार टोप, पतला सफेद बिना वलय का डंठल, और गिलें जो काली पड़ती हैं पर केवल आंशिक रूप से घुलती हैं, का संयोजन है। कण धुल जाने के बाद समान स्याही मशरूमों से सावधानी से तुलना करनी चाहिए, और Coprinellus truncorum को नंगी आँख से बाहर नहीं किया जा सकता।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Česta, busenasta tintnica truležnog lišćarskog drva, prepoznatljiva po medeno smeđim, fino izbrazdanim klobucima u mladosti posutima svjetlucavim sljudastim bijelim zrncalima, tankoj bijeloj šupljoj stručku bez prstena i listićima koji prelaze iz bijelih preko sivosmeđih u crne i samo se djelomično rastapaju u tintu.",
+      "cap": "Klobuk ima 1–5 cm u promjeru (obično 2–4 cm kada se raširi); najprije je jajolik ili ovalan i 1–3,5 cm visok, zatim zvonast do stožast, naposljetku s rastrganim, zavinutim rubom. Medeno je žut do oker-smeđ ili plav, s tamnijim hrđastosmeđim središtem, higrofan i fino izbrazdan od ruba gotovo do tjemena. Mladi klobuci posuti su sitnim svjetlucavim bijelim do bljedim zrncalima (ostaci vela) koje kiša ispere, pa su stariji klobuci često glatki.",
+      "hymenium": "Listići su gusti, slobodni do usko prirasli, najprije bijeli, zatim sivosmeđi do ljubičastosmeđi, naposljetku crni, i samo djelomično delikvescentni — crne od ruba, ali se klobuk obično ne rastopi cijeli u crnu tintastu tekućinu. Oštrice listića starijih klobuka mogu biti slabo tintaste.",
+      "stipe": "Stručak je 3–12 cm dug i 0,2–0,7 cm debel (obično 4–10 × 0,2–0,5 cm), valjkast, ponekad malo zadebljao pri dnu, bijel, šuplji, krhak i svilenkast, u mladosti često berešan, poslije gladak i sjajan, pri dnu malo posmeđi. Nema prstena ni volve, a pri dnu nema narančastog vunenog micelijskog prostira.",
+      "flesh": "Meso je vrlo tanko i krhko, u mladih plodišta bjelkasto. Miris i okus nisu izraženi.",
+      "sporePrint": "Otisak spora je vrlo tamnosmeđ do crn. Spore su glatke, elipsoidne do mitriformne (štitaste), 7–11 × 4,5–7 µm, sa središnjim klijnim porom.",
+      "habitat": "Saprotrofna, u gustim skupinama na trulim panjevima, deblima i zakopanim korijenima lišćarskog drveća ili tik do njih, u šumama, parkovima i vrtovima; može izgledati kao da raste iz tla ili niske trave kad je drvo zakopano. Raširena je i vrlo česta u Europi i u velikom dijelu umjerenog pojasa sjeverne polutke. U srednjoj Europi plodna tijela pojavljuju se uglavnom od travnja ili svibnja do studenoga; u Britaniji i Irskoj najčešće od svibnja do studenoga, a neki europski izvori sezonu produžuju do prosinca.",
+      "uses": "Jestiva u mladosti, dok listići ne pocrne, ali tankog mesa, kratkotrajna i kuhinjski malo vrijedna — nakon branja treba je uskoro skuhati jer se klobuci uskoro slegnu. Neki srednjoeuropski vodiči smatraju je nejestivom ili ne vrijednom branja. Neki popularni izvori upozoravaju na antabusni učinak s alkoholom; kemijske studije u njoj nisu našle koprin, za razliku od vrste Coprinopsis atramentaria. Plodišta uz ceste i sa zagađenih staništa mogu skupljati teške metale pa ih treba izbjegavati. U ovom katalogu se ne smatra vrsnom jestivom gljivom.",
+      "confusion": "Coprinellus truncorum na terenu je praktički istovjetan i često ga se razlikuje samo pod mikroskopom (oblik spora te nazočnost ili odsutnost cistida na stručku); mnogi zapisi jednog imena mogu pripadati drugome, a ovaj katalog ih vodi kao zasebne vrste. Coprinellus domesticus obično raste u manje gustim skupinama, ima više filtasto velo nego svjetlucava sljudasta zrnca i često izrasta iz uočljive narančaste vunene micelijske prostirke. Coprinopsis atramentaria veća je i mesnatija, s glatkim sivosmeđim klobukom bez svjetlucavih zrnaca, rastapa se potpunije i sadrži koprin, koji pri konzumaciji alkohola izaziva tegobe. Smeđe vrste roda Psathyrella mogu biti slične kad zrncima spere kiša, ali njihovi se listići ne rastapaju u tintu. Coprinellus disseminatus raste u znatno brojnijim skupinama manjih, blijedih klobuka bez svjetlucavih zrnaca, a njegovi listići crne, ali se zapravo ne rastapaju.",
+      "notes": "Najpouzdanije terensko obilježje je kombinacija gustih skupina na lišćarskom drvu, medeno smeđeg izbrazdanog klobuka sa svjetlucavim sljudastim zrncalima u mladosti, tankog bijelog stručka bez prstena i listića koji crne, ali se samo djelomično rastapaju. Kad zrncima spere kiša, gljivu treba pažljivo usporediti sa sličnim vrstama, a Coprinellus truncorum se golim okom ne može isključiti.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Gyakori, csomókban növő tintagomba korhadó lombos fán, amelyről a mézbarna, finoman barázdált kalapok, fiatalon csillogó, csillámszerű fehér szemcsékkel hintve, a vékony fehér, üreges, gallér nélküli tönkök és a lemezek ismerhetők fel, amelyek fehérről szürkésbarnára, majd feketére váltanak, és csak részben olvadnak tintává.",
+      "cap": "A kalap 1–5 cm átmérőjű (jellemzően 2–4 cm kiterülés után); eleinte tojásdad vagy ovális és 1–3,5 cm magas, majd harang alakútól kúposig, végül szakadozott, felkanyarodó széllel. Mézsárga vagy okkerbarna vagy sárgásbarna, sötétebb rozsdabarna közeppel, higrofán és finoman barázdált a széltől majdnem a korongig. A fiatal kalapokat apró, csillogó fehér vagy halvány szemcsék (burokmaradványok) hintik, amelyeket az eső lemos, így az idősebb kalapok gyakran simák.",
+      "hymenium": "A lemezek sűrűn állók, szabadok vagy keskenyen tönkhöz nőttek, eleinte fehérek, majd szürkésbarnák vagy ibolyásbarnák, végül feketék, és csak részben delikveszcensek — a széltől feketednek, de a kalap általában nem oldódik fel teljesen fekete, tintaszerű folyadékká. Az idősebb kalapok lemezeinek éle enyhén tintás lehet.",
+      "stipe": "A tönk 3–12 cm hosszú és 0,2–0,7 cm vastag (jellemzően 4–10 × 0,2–0,5 cm), hengeres, az alján néha kissé vastagodott, fehér, üreges, törékeny és selymes, fiatalon gyakran deresen, később sima és fényes, az alja felé kissé barnuló. Nincs gallér és nincs bocskor, és az alján nincs narancsszínű, gyapjas micéliumszőnyeg.",
+      "flesh": "A hús nagyon vékony és törékeny, a fiatal termőtestekben fehéres. Szaga és íze nem jellegzetes.",
+      "sporePrint": "A spórapor nagyon sötétbarna vagy fekete. A spórák simák, ellipszoidok vagy mitriformak (pajzs alakúak), 7–11 × 4,5–7 µm, középső csírapórussal.",
+      "habitat": "Szaprotróf, sűrű csomókban korhadó tuskókon, törzseken és lombos fák eltemetett gyökerein vagy mellettük, erdőkben, parkokban és kertekben; úgy tűnhet, hogy talajból vagy rövid fűből nő, ha a fa el van temetve. Elterjedt és nagyon gyakori Európában és a mérsékelt északi félteke nagy részén. Közép-Európában elsősorban áprilistól vagy májustól novemberig terem; Nagy-Britanniában és Írországban a leggyakrabban májustól novemberig található, és egyes európai források a szezont decemberig hosszabbítják.",
+      "uses": "Fiatalon ehető, mielőtt a lemezek megfeketednének, de vékony húsú, rövid életű és konyhailag kevéssé értékes — szedés után hamar meg kell főzni, mert a kalapok hamar összeroskadnak. Egyes közép-európai útmutatók ehetetlennek vagy gyűjtésre nem érdemesnek tartják. Egyes népszerű források antabuszszerű reakcióra figyelmeztetnek alkohollal; kémiai vizsgálatok nem találtak benne koprint, ellentétben a ráncos tintagombával (Coprinopsis atramentaria). Az útmenti vagy szennyezett talajról származó termőtestek nehézfémeket halmozhatnak fel, ezért kerülendők. Ebben a katalógusban nem számít elsőrangú étkezési gombának.",
+      "confusion": "A Coprinellus truncorum a terepen gyakorlatilag azonos, és gyakran csak mikroszkóp alatt választható el (a spórák alakja, valamint a tönkön lévő cisztídiumok megléte vagy hiánya); sok, az egyik név alatt szereplő adat tartozhat a másikhoz, és ez a katalógus külön fajként kezeli őket. A házi tintagomba (Coprinellus domesticus) általában ritkább csomókban nő, inkább nemezes burokkal, mint csillogó csillámszemcsékkel, és gyakran feltűnő narancsszínű, gyapjas micéliumszőnyegből emelkedik. A ráncos tintagomba (Coprinopsis atramentaria) nagyobb és húsosabb, sima szürkésbarna kalappal, csillogó szemcsék nélkül, teljesebben elfolyik, és koprint tartalmaz, amely alkohol fogyasztásakor rosszullétet okoz. A Psathyrella nemzetség barna fajai hasonlíthatnak, ha a szemcséket lemossa az eső, de lemezeik nem oldódnak tintává. A sereges tintagomba (Coprinellus disseminatus) jóval népesebb csoportokban nő, kisebb, halványabb kalapokkal, csillogó szemcsék nélkül, és lemezei feketednek anélkül, hogy valóban elfolynának.",
+      "notes": "A legmegbízhatóbb terepi bélyeg a lomblevelű fán növő sűrű csomók, a fiatalon csillogó, csillámszerű szemcsékkel borított mézbarna, barázdált kalap, a vékony fehér, gallér nélküli tönk, valamint a lemezek együttese, amelyek feketednek, de csak részben olvadnak szét. Ha a szemcséket lemossa az eső, a gombát gondosan össze kell vetni hasonló tintagombákkal, és a Coprinellus truncorum szabad szemmel nem zárható ki.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Kerti_tintagomba",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "kerti tintagomba"
+    },
+    "id": {
+      "description": "Jamur tinta yang umum dan berumpun pada kayu daun lebar yang membusuk, dikenal dari tudung cokelat madu beralur halus yang ketika muda ditaburi butiran putih berkilat seperti mika, batang putih tipis berongga tanpa cincin, dan insang yang berubah dari putih menjadi cokelat keabu-abuan lalu hitam dan hanya sebagian larut menjadi tinta.",
+      "cap": "Tudung berdiameter 1–5 cm (biasanya 2–4 cm setelah mekar); mula-mula berbentuk telur atau oval dan tinggi 1–3,5 cm, lalu berbentuk lonceng hingga kerucut, akhirnya dengan tepi sobek dan terlipat ke atas. Kuning madu hingga cokelat oker atau cokelat pucat, dengan pusat cokelat karat yang lebih gelap, higrofan, dan beralur halus dari tepi hampir sampai cakram. Tudung muda ditaburi butiran sangat kecil putih hingga pucat yang berkilat (sisa selubung) yang dibasuh hujan, sehingga tudung yang lebih tua sering licin.",
+      "hymenium": "Insang rapat, bebas hingga melekat sempit, mula-mula putih, lalu cokelat keabu-abuan hingga cokelat keunguan, akhirnya hitam, dan hanya sebagian deliquescent — menghitam dari tepi, tetapi tudung biasanya tidak larut sepenuhnya menjadi cairan hitam seperti tinta. Tepi insang tudung yang lebih tua dapat sedikit bertrinta.",
+      "stipe": "Batang panjang 3–12 cm dan tebal 0,2–0,7 cm (biasanya 4–10 × 0,2–0,5 cm), silindris, kadang sedikit membengkak di pangkal, putih, berongga, rapuh dan seperti sutra, ketika muda sering berpruina, kemudian licin dan mengilap, sedikit memcokelat ke arah pangkal. Tidak ada cincin dan tidak ada volva, dan di pangkal tidak terdapat hamparan miselium berbulu oranye.",
+      "flesh": "Daging sangat tipis dan rapuh, keputihan pada tubuh buah muda. Bau dan rasa tidak khas.",
+      "sporePrint": "Jejak spora cokelat sangat tua hingga hitam. Spora licin, elipsoidal hingga mitriform (berbentuk perisai), 7–11 × 4,5–7 µm, dengan pori kecambah pusat.",
+      "habitat": "Saprofit, dalam rumpun rapat pada atau di samping tunggul, batang, dan akar terkubur pohon berdaun lebar yang membusuk, di hutan, taman, dan kebun; dapat tampak tumbuh dari tanah atau rumput pendek jika kayu terkubur. Meluas dan sangat umum di Eropa dan di sebagian besar kawasan beriklim sedang belahan bumi utara. Di Eropa Tengah berbuah terutama dari April atau Mei hingga November; di Britania dan Irlandia paling sering dijumpai dari Mei hingga November, dan beberapa sumber Eropa memperpanjang musim hingga Desember.",
+      "uses": "Dapat dimakan ketika muda, sebelum insang menghitam, tetapi berdaging tipis, berumur pendek, dan bernilai kuliner rendah — masak segera setelah dipetik, karena tudung segera roboh. Beberapa panduan Eropa Tengah menyebutnya tidak dapat dimakan atau tidak layak dipetik. Beberapa sumber populer memperingatkan reaksi mirip antabus dengan alkohol; kajian kimia tidak menemukan koprin di dalamnya, tidak seperti Coprinopsis atramentaria. Tubuh buah dari tepi jalan atau tanah tercemar dapat menimbun logam berat dan harus dihindari. Dalam katalog ini tidak diperlakukan sebagai jamur pangan pilihan.",
+      "confusion": "Coprinellus truncorum hampir identik di lapangan dan sering hanya dapat dipisahkan di bawah mikroskop (bentuk spora serta ada atau tidaknya sistidia pada batang); banyak catatan satu nama mungkin milik yang lain, dan katalog ini memperlakukan keduanya sebagai spesies terpisah. Coprinellus domesticus biasanya tumbuh dalam rumpun yang kurang rapat, memiliki selubung lebih seperti felt daripada butiran mika berkilat, dan sering muncul dari hamparan miselium berbulu oranye yang mencolok. Coprinopsis atramentaria lebih besar dan lebih berdaging, dengan tudung licin cokelat keabu-abuan tanpa butiran berkilat, larut lebih lengkap, dan mengandung koprin yang menyebabkan sakit jika alkohol diminum. Spesies cokelat genus Psathyrella dapat tampak serupa setelah butiran tercuci, tetapi insangnya tidak larut menjadi tinta. Coprinellus disseminatus tumbuh dalam pasukan yang jauh lebih banyak dari tudung yang lebih kecil dan lebih pucat tanpa butiran berkilat, dan insangnya menghitam tanpa benar-benar larut.",
+      "notes": "Ciri lapangan yang paling andal adalah gabungan rumpun rapat pada kayu daun lebar, tudung cokelat madu beralur dengan butiran berkilat seperti mika ketika muda, batang putih tipis tanpa cincin, dan insang yang menghitam tetapi hanya sebagian larut. Setelah butiran tercuci, perbandingan cermat dengan jamur tinta serupa diperlukan, dan Coprinellus truncorum tidak dapat dikesampingkan dengan mata telanjang.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un coprino gregario comune del legno di latifoglie in decomposizione, riconoscibile dai cappelli bruno miele, finemente striati, che da giovani sono cosparsi di granuli bianchi lucenti, simili a mica, dai gambi bianchi, sottili, cavi e privi di anello, e dalle lamelle che passano dal bianco al bruno-grigiastro e poi al nero e si dissolvono solo in parte in inchiostro.",
+      "cap": "Cappello di 1–5 cm di diametro (tipicamente 2–4 cm una volta espanso); dapprima ovoide o ovale e alto 1–3,5 cm, poi campanulato o conico, infine con il margine lacerato e rivolto all’insù. Giallo miele o bruno ocra o fulvo, con il centro bruno ruggine più scuro, igrofano e finemente striato dal margine quasi fino al disco. I cappelli giovani sono cosparsi di minuscoli granuli bianchi o pallidi, lucenti (resti di velo), che la pioggia lava via, così che i cappelli più vecchi sono spesso lisci.",
+      "hymenium": "Lamelle fitte, libere o strettamente adnate, dapprima bianche, poi bruno-grigiastre o bruno-violacee, infine nere, e solo parzialmente deliquescenti — anneriscono a partire dal margine, ma il cappello di solito non si dissolve interamente in un liquido nero inchiostrato. Il filo delle lamelle dei cappelli vecchi può essere leggermente inchiostrato.",
+      "stipe": "Gambo di 3–12 cm di lunghezza e 0,2–0,7 cm di spessore (tipicamente 4–10 × 0,2–0,5 cm), cilindrico, talvolta un poco ingrossato alla base, bianco, cavo, fragile e sericeo, spesso pruinoso da giovane, poi liscio e lucente, un poco imbrunente verso la base. Non vi è anello né volva, e alla base manca un feltro miceliare lanoso di colore arancio.",
+      "flesh": "Carne molto sottile e fragile, biancastra nei corpi fruttiferi giovani. Odore e sapore poco distintivi.",
+      "sporePrint": "Sporata bruno molto scuro o nera. Spore lisce, ellissoidali o mitriformi (a scudo), 7–11 × 4,5–7 µm, con poro germinativo centrale.",
+      "habitat": "Saprotrofo, in cespi densi su o accanto a ceppi, tronchi e radici interrate di alberi a foglia larga in decomposizione, in boschi, parchi e giardini; può sembrare crescere dal suolo o da un prato raso quando il legno è interrato. Ampia diffusione e molto comune in Europa e in gran parte dell’emisfero settentrionale temperato. Nell’Europa centrale fruttifica soprattutto da aprile o maggio a novembre; in Gran Bretagna e Irlanda si trova più spesso da maggio a novembre, e alcuni resoconti europei prolungano la stagione fino a dicembre.",
+      "uses": "Commestibile da giovane, prima che le lamelle anneriscano, ma di carne sottile, di breve durata e di scarso valore culinario — va cotto presto dopo la raccolta, perché i cappelli collassano in fretta. Alcune guide dell’Europa centrale lo considerano non commestibile o non degno di essere raccolto. Alcune fonti divulgative avvertono di una reazione di tipo antabuse con l’alcol; studi chimici non vi hanno trovato coprina, a differenza di Coprinopsis atramentaria. I corpi fruttiferi dei bordi stradali o di suoli inquinati possono accumulare metalli pesanti e vanno evitati. In questo catalogo non è trattato come un fungo di pregio.",
+      "confusion": "Coprinellus truncorum è praticamente identico sul campo e spesso si distingue solo al microscopio (forma delle spore e presenza o assenza di cistidi sul gambo); molti reperti di un nome possono appartenere all’altro, e questo catalogo li tratta come specie distinte. Coprinellus domesticus cresce di solito in cespi meno densi, ha un velo più feltroso che granuli di mica lucenti, e sorge spesso da un evidente feltro miceliare lanoso di colore arancio. Coprinopsis atramentaria è più grande e più carnoso, con cappello liscio bruno-grigiastro senza granuli lucenti, si deliquesce in modo più completo e contiene coprina, che provoca malessere se si beve alcol. Le specie brune del genere Psathyrella possono assomigliargli quando i granuli sono stati lavati via, ma le loro lamelle non si dissolvono in inchiostro. Coprinellus disseminatus cresce in truppe assai più numerose di cappelli più piccoli e più pallidi, senza granuli lucenti, e le sue lamelle anneriscono senza davvero deliquescere.",
+      "notes": "La combinazione di cespi densi sul legno di latifoglie, di un cappello bruno miele striato con granuli lucenti simili a mica da giovane, di un gambo bianco sottile e senza anello, e di lamelle che anneriscono ma si dissolvono solo in parte, è il carattere di campo più affidabile. Una volta lavati via i granuli, occorre un confronto attento con coprini simili, e Coprinellus truncorum non può essere escluso a occhio nudo.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "腐った広葉樹材に束生する普通のイグチ類で、若いうちにきらめく雲母状の白い粒に覆われた蜂蜜褐色で細かく溝のある傘、環のない細い白い中空の柄、白から灰褐色、やがて黒になりインク状に一部だけ溶けるひだによって識別される。",
+      "cap": "傘は径 1–5 cm（開いたときはふつう 2–4 cm）。初め卵形または楕円形で高さ 1–3.5 cm、のち鐘形から円錐形になり、縁は裂けて反り返る。蜂蜜黄色から黄土褐色または淡黄褐色で、中央はより暗い錆褐色、湿性変色性があり、縁からほぼ盤まで細かく溝がある。若い傘はごく小さなきらめく白〜淡色の粒（被膜の名残）に覆われ、雨で洗い流されるため、古い傘はしばしば滑らかである。",
+      "hymenium": "ひだは密、離生から狭く着生、初め白、のち灰褐色から紫褐色、ついに黒くなり、部分的にしか溶らない。縁から黒ずむが、傘が黒いインク状の液体に完全に溶けることはふつうない。古い傘のひだの縁はわずかにインク状になることがある。",
+      "stipe": "柄は長さ 3–12 cm、太さ 0.2–0.7 cm（ふつう 4–10 × 0.2–0.5 cm）、円筒形で基部はやや膨らむことがあり、白く中空でもろく絹状、若いときはしばしば粉状、のち滑らかで光沢があり、基部に向かってやや褐変する。環もつぼもなく、基部にオレンジ色の綿状菌糸マットはない。",
+      "flesh": "肉はごく薄くてもろく、若い子実体では白っぽい。匂いと味は特にない。",
+      "sporePrint": "胞子紋はごく暗い褐色から黒色。胞子は平滑、楕円形から僧帽形（盾形）、7–11 × 4.5–7 µm、中央に発芽孔がある。",
+      "habitat": "腐生性で、腐った広葉樹の切り株、幹、埋もれた根の上やそばに密な束になって生じ、森、公園、庭に見られる。材が埋まっていると土や短い草から生えているように見えることがある。ヨーロッパおよび温帯の北半球の広い範囲に分布し、ごく普通。中部ヨーロッパでは主に4月または5月から11月に子実体をつけ、イギリスとアイルランドでは5月から11月に最もよく見つかり、一部のヨーロッパの記録では季節を12月まで延ばす。",
+      "uses": "ひだが黒くなる前の若いものは食用になるが、肉は薄く短命で料理価値は低い。傘はすぐに崩れるため、採取後はやみなく煮る。中部ヨーロッパの図鑑には食用にならない、または採取する価値がないとするものもある。一般向けの資料にはアルコールとのアンタビュース様反応を警告するものもあるが、化学的研究ではヒトヨタケ（Coprinopsis atramentaria）と異なり、コプリンは検出されていない。路傍や汚染地の子実体は重金属を蓄積しうるので避ける。本図鑑では上質の食用きのことしては扱わない。",
+      "confusion": "Coprinellus truncorum は野外ではほとんど同一で、しばしば顕微鏡下でしか分けられない（胞子の形と柄のシスチジアの有無）。一方の名の記録の多くが他方に属することがあり、本図鑑では別種として扱う。コキララタケ（Coprinellus domesticus）はふつう束がやや疎らで、きらめく雲母粒よりもフェルト状の被膜があり、しばしば目立つオレンジ色の綿状菌糸マットから生じる。ヒトヨタケ（Coprinopsis atramentaria）はより大きく肉厚で、きらめく粒のない滑らかな灰褐色の傘をもち、より完全に溶け、アルコールを飲むと体調不良を起こすコプリンを含む。Psathyrella 属の褐色種は粒が洗い流されると似て見えることがあるが、ひだはインク状に溶けない。イヌセンボンタケ（Coprinellus disseminatus）はきらめく粒のない、より小さく色の淡い傘のずっと大きな群れで生じ、ひだは黒くなるが本当には溶けない。",
+      "notes": "広葉樹材上の密な束、若いときにきらめく雲母状の粒がある蜂蜜褐色の溝のある傘、環のない細い白い柄、黒くなるが一部だけ溶けるひだ、の組み合わせが最も信頼できる野外の特徴である。粒が洗い流されたあとは似たイグチ類と慎重に比較する必要があり、Coprinellus truncorum は肉眼では除外できない。",
+      "names": [
+        "ツブヒトヨタケ"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "キララタケ"
+    },
+    "ko": {
+      "description": "썩는 활엽수 나무에 다발로 나는 흔한 먹물버섯으로, 어릴 때 반짝이는 운모 같은 흰 알갱이가 묻은 꿀갈색의 가늘게 홈 파인 갓, 고리가 없는 가늘고 하얀 속이 빈 대, 그리고 흰색에서 회갈색으로 변했다가 검어지며 먹물처럼 일부만 녹는 주름으로 알아본다.",
+      "cap": "갓은 지름 1–5 cm(펼쳐지면 보통 2–4 cm)이며, 처음에는 달걀형 또는 타원형으로 높이 1–3.5 cm, 나중에 종형에서 원추형으로 되고, 끝에는 찢기고 위로 젖혀진 가장자리를 가진다. 꿀노란색에서 황토갈색 또는 옅은 갈색이며, 가운데는 더 어두운 녹슨 갈색이고, 습기 변색성이 있으며, 가장자리에서 거의 원반까지 가늘게 홈이 파인다. 어린 갓은 아주 작은 반짝이는 흰색에서 옅은 알갱이(피막 잔여물)로 덮여 있고 비에 씻기므로, 오래된 갓은 종종 매끈하다.",
+      "hymenium": "주름은 빽빽하고, 떨어진 것에서 좁게 붙은 것까지이며, 처음에는 흰색, 나중에 회갈색에서 자갈색, 마침내 검고, 부분적으로만 액화한다 — 가장자리에서부터 검어지지만, 갓이 검은 먹물 같은 액체로 완전히 녹는 일은 보통 없다. 오래된 갓의 주름 가장자리는 약간 먹물빛을 띨 수 있다.",
+      "stipe": "대는 길이 3–12 cm, 두께 0.2–0.7 cm(보통 4–10 × 0.2–0.5 cm)이며, 원통형이고 기부에서 약간 굵어지기도 하며, 하얗고 속이 비고 부서지기 쉬우며 비단결이고, 어릴 때는 종종 가루가 묻어 있으며, 나중에 매끈하고 윤이 나고, 기부를 향해 조금 갈색으로 변한다. 고리와 외피막이 없고, 기부에 주황색 솜털 균사 매트도 없다.",
+      "flesh": "살은 매우 얇고 부서지기 쉬우며, 어린 자실체에서는 희끄무레하다. 냄새와 맛은 특이하지 않다.",
+      "sporePrint": "포자문은 매우 어두운 갈색에서 검은색이다. 포자는 매끈하고, 타원형에서 승모형(방패형)이며, 7–11 × 4.5–7 µm이고, 가운데에 발아공이 있다.",
+      "habitat": "부생성이며, 썩는 활엽수의 그루터기, 줄기, 묻힌 뿌리 위나 곁에 빽빽한 다발로, 숲, 공원, 정원에서 난다. 나무가 묻혀 있으면 흙이나 짧은 풀에서 나는 것처럼 보일 수 있다. 유럽과 온대 북반구의 넓은 지역에 널리 퍼져 매우 흔하다. 중부 유럽에서는 주로 4월 또는 5월부터 11월까지 자실체가 나오고, 영국과 아일랜드에서는 5월부터 11월에 가장 흔히 발견되며, 일부 유럽 기록은 계절을 12월까지 늘린다.",
+      "uses": "주름이 검어지기 전의 어린 것은 먹을 수 있으나, 살이 얇고 수명이 짧으며 요리 가치가 낮다. 갓이 곧 무너지므로 딴 뒤 바로 익혀야 한다. 일부 중부 유럽 도감은 식용이 아니거나 딸 가치가 없다고 본다. 일부 대중 자료는 알코올과의 안타부스 유사 반응을 경고하지만, 화학 연구에서는 두엄먹물버섯(Coprinopsis atramentaria)과 달리 코프린이 검출되지 않았다. 길가이나 오염된 땅의 자실체는 중금속을 축적할 수 있으므로 피해야 한다. 이 목록에서는 上等 식용 버섯으로 다루지 않는다.",
+      "confusion": "Coprinellus truncorum은 야외에서 거의 같고 종종 현미경으로만 나눌 수 있다(포자 모양과 대의 낭상체 유무). 한 이름의 많은 기록이 다른 쪽에 속할 수 있으며, 이 목록에서는 별개의 종으로 다룬다. Coprinellus domesticus는 보통 덜 빽빽한 다발로 나고, 반짝이는 운모 알갱이보다 펠트 같은 피막을 가지며, 종종 눈에 띄는 주황색 솜털 균사 매트에서 나온다. 두엄먹물버섯(Coprinopsis atramentaria)은 더 크고 살이 두꺼우며, 반짝이는 알갱이 없는 매끈한 회갈색 갓을 갖고, 더 완전히 녹으며, 술을 마시면 몸이 나빠지는 코프린을 함유한다. Psathyrella속의 갈색 종은 알갱이가 씻긴 뒤 비슷해 보일 수 있으나, 주름은 먹물로 녹지 않는다. Coprinellus disseminatus는 반짝이는 알갱이 없는, 더 작고 더 옅은 갓의 훨씬 많은 무리로 나며, 주름은 실제로 녹지 않고 검어진다.",
+      "notes": "활엽수 나무 위의 빽빽한 다발, 어릴 때 반짝이는 운모 같은 알갱이가 있는 꿀갈색의 홈 파인 갓, 고리 없는 가늘고 하얀 대, 검어지지만 일부만 녹는 주름의 조합이 가장 믿을 만한 야외 특징이다. 알갱이가 씻긴 뒤에는 비슷한 먹물버섯과 주의 깊게 비교해야 하며, Coprinellus truncorum은 육안으로 배제할 수 없다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "갈색먹물버섯"
+    },
+    "lt": {
+      "description": "Dažnas, kuokštais augantis mėšlagrybis ant pūvančios lapuočių medienos, atpažįstamas iš medaus rudų, smulkiai raukšlėtų kepurėlių, kurios jaunos būna apibarstytos blizgančiais, žėručio pavidalo baltais grūdeliais, plonų baltų tuščiavidurių, be žiedo kotų ir lakštelių, kurie iš baltų pereina į pilkai rudus, paskui į juodus ir tik iš dalies ištirpsta į rašalą.",
+      "cap": "Kepurėlė 1–5 cm skersmens (tipiškai 2–4 cm išsiskleidusi); pirma kiaušiniška arba ovali ir 1–3,5 cm aukščio, paskui varpiška iki kūgiškos, galiausiai su suplėšytu, atlenktu kraštu. Medaus geltona iki ochriškai rudos arba gelsvai rudos, su tamsesniu rūdijančiai rudu centru, higrofaniška ir smulkiai raukšlėta nuo krašto beveik iki disko. Jaunos kepurėlės apibarstytos smulkiais blizgančiais baltais iki blyškių grūdeliais (dangalo likučiais), kuriuos lietus nuplauna, todėl senesnės kepurėlės dažnai būna lygios.",
+      "hymenium": "Lakšteliai tankūs, laisvi iki siaurai priaugusių, pirma balti, paskui pilkai rudi iki violetiniai rudi, galiausiai juodi, ir tik iš dalies delikvescentiniai — jie juoduoja nuo krašto, bet kepurėlė paprastai neištirpsta visa į juodą, rašalinį skystį. Senesnių kepurėlių lakštelių ašmenys gali būti šiek tiek rašaliniai.",
+      "stipe": "Kotas 3–12 cm ilgio ir 0,2–0,7 cm storio (tipiškai 4–10 × 0,2–0,5 cm), cilindriškas, kartais prie pagrindo šiek tiek sustorėjęs, baltas, tuščiaviduris, trapus ir šilkinis, jaunas dažnai apšerkšnijęs, vėliau lygus ir blizgus, prie pagrindo šiek tiek paruduojantis. Žiedo ir makšties nėra, o prie pagrindo nėra oranžinio vilnoto grybienos kilimo.",
+      "flesh": "Mėsa labai plona ir trapi, jaunose vaisiakūniuose balkšva. Kvapas ir skonis nėra išskirtiniai.",
+      "sporePrint": "Sporų milteliai labai tamsiai rudi iki juodų. Sporos lygios, elipsoidinės iki mitriforminių (skydo pavidalo), 7–11 × 4,5–7 µm, su centrine dygimo pora.",
+      "habitat": "Saprotrofinis, tankiais kuokštais ant pūvančių lapuočių kelmų, kamienų ir palaidotų šaknų arba šalia jų, miškuose, parkuose ir soduose; gali atrodyti augantis iš dirvožemio arba trumpos žolės, kai mediena palaidota. Plačiai paplitęs ir labai dažnas Europoje ir didelėje vidutinių platumų šiaurinio pusrutulio dalyje. Vidurio Europoje dera daugiausia nuo balandžio arba gegužės iki lapkričio; Didžiojoje Britanijoje ir Airijoje dažniausiai randamas nuo gegužės iki lapkričio, o kai kurie Europos šaltiniai sezoną pratęsia iki gruodžio.",
+      "uses": "Valgomas jaunas, kol lakšteliai nenuojuoduoja, bet plonomis mėsomis, trumpaamžis ir virtuvėje mažos vertės — reikia greitai išvirti po rinkimo, nes kepurėlės greitai subliūkšta. Kai kurie Vidurio Europos vadovai laiko jį nevalgomu arba neverta rinkti. Kai kurie populiarūs šaltiniai įspėja dėl antabusinio poveikio su alkoholiu; cheminiai tyrimai jame koprino nerado, kitaip nei rašalinėje mėšlabudėje (Coprinopsis atramentaria). Vaisiakūniai nuo kelių pakraščių ar užterštos žemės gali kaupti sunkiuosius metalus ir jų reikėtų vengti. Šiame kataloge jis nelaikomas aukščiausios kokybės valgomu grybu.",
+      "confusion": "Coprinellus truncorum lauke beveik identiškas ir dažnai atskiriamas tik mikroskopu (sporų forma ir cistidžių buvimas arba nebuvimas ant koto); daugelis įrašų vienu vardu gali priklausyti kitam, ir šis katalogas juos laiko atskiromis rūšimis. Coprinellus domesticus paprastai auga retesniais kuokštais, turi greičiau veltinišką dangalą nei blizgančius žėručio grūdelius ir dažnai kyla iš ryškaus oranžinio vilnoto grybienos kilimo. Rašalinė mėšlabudė (Coprinopsis atramentaria) didesnė ir mėsingesnė, su lygiu pilkai rudu kepurėle be blizgančių grūdelių, labiau ištirpsta ir turi koprino, kuris geriant alkoholį sukelia negalavimą. Rudos genties Psathyrella rūšys gali būti panašios, kai grūdeliai nuplauti, bet jų lakšteliai neištirpsta į rašalą. Išsėtinis mėšlagrybis (Coprinellus disseminatus) auga daug gausesnėmis grupėmis mažesnių, blyškesnių kepurėlių be blizgančių grūdelių, o jo lakšteliai juoduoja, bet iš tikrųjų neištirpsta.",
+      "notes": "Patikimiausias lauko požymis yra tankių kuokštų ant lapuočių medienos, medaus rudos raukšlėtos kepurėlės su blizgančiais žėručio pavidalo grūdeliais jaunystėje, plono balto koto be žiedo ir lakštelių, kurie juoduoja, bet tik iš dalies ištirpsta, derinys. Kai grūdeliai nuplauti, grybą reikia atidžiai palyginti su panašiais mėšlagrybiais, o Coprinellus truncorum plika akimi negalima atmesti.",
+      "names": [
+        "kelminis mėšlagrybukas"
+      ],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Kelminis_m%C4%97%C5%A1lagrybis",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "kelminis mėšlagrybis"
+    },
+    "lv": {
+      "description": "Bieži sastopama, ceru veidā augoša tintene uz trūdošas lapu koku koksnes, atpazīstama pēc medus brūnām, smalki rievotām cepurītēm, kas jaunībā ir nokaisītas ar spīdīgām, vizlas veida baltām graudiņām, plāniem baltiem, dobiem, bez gredzena kātiem un lapiņām, kas no baltām pāriet pelēkbrūnās, tad melnās un tikai daļēji izšķīst tinte.",
+      "cap": "Cepurīte 1–5 cm diametrā (parasti 2–4 cm, kad izpletusies); sākumā olveida vai ovāla un 1–3,5 cm augsta, pēc tam zvanveida līdz koniskai, visbeidzot ar saplēstu, uzlocītu malu. Medus dzeltena līdz okera brūnai vai dzeltenīgi brūnai, ar tumšāku rūsgani brūnu vidu, higrofāna un smalki rievota no malas gandrīz līdz diskam. Jaunas cepurītes ir nokaisītas ar sīkām spīdīgām baltām līdz bālām graudiņām (plīvura paliekām), ko lietus noskalo, tādēļ vecākas cepurītes bieži ir gludas.",
+      "hymenium": "Lapiņas blīvas, brīvas līdz šauri pieaugušas, sākumā baltas, pēc tam pelēkbrūnas līdz violeti brūnām, visbeidzot melnas, un tikai daļēji delikvescentas — tās kļūst melnas no malas, bet cepurīte parasti neizšķīst visa melnā, tintes šķidrumā. Vecāku cepurīšu lapiņu asmeņi var būt viegli tintaini.",
+      "stipe": "Kāts 3–12 cm garš un 0,2–0,7 cm biezs (parasti 4–10 × 0,2–0,5 cm), cilindrisks, pie pamatnes dažkārt nedaudz resnāks, balts, dobs, trausls un zīdains, jaunībā bieži apsarmojis, vēlāk gluds un spīdīgs, pie pamatnes nedaudz brūnējošs. Gredzena un maksts nav, un pie pamatnes nav oranža vilnaina micēlija klājuma.",
+      "flesh": "Mīkstums ļoti plāns un trausls, jaunās augļķermeņos bālgans. Smarža un garša nav izteiktas.",
+      "sporePrint": "Sporu putekļi ļoti tumši brūni līdz melniem. Sporas gludas, elipsoidālas līdz mitriformām (vairoga veida), 7–11 × 4,5–7 µm, ar centrālu dīgšanas poru.",
+      "habitat": "Saprotrofa, blīvos ceros uz trūdošiem lapu koku celmiem, stumbriem un ieraktām saknēm vai tiem blakus, mežos, parkos un dārzos; var šķist augam no augsnes vai īsas zāles, ja koksne ir ierakta. Plaši izplatīta un ļoti bieži sastopama Eiropā un lielā daļā ziemeļu puslodes mērenās joslas. Centrāleiropā augļķermeņi parādās galvenokārt no aprīļa vai maija līdz novembrim; Lielbritānijā un Īrijā to visbiežāk atrod no maija līdz novembrim, un daži Eiropas avoti sezonu pagarina līdz decembrim.",
+      "uses": "Ēdama jaunībā, kamēr lapiņas nav kļuvušas melnas, bet ar plānu mīkstumu, īslaicīga un kulināri mazvērtīga — jānovāra drīz pēc vākšanas, jo cepurītes drīz saļimst. Dažas Centrāleiropas rokasgrāmatas to uzskata par neēdamu vai nevērtīgu vākšanai. Daži populāri avoti brīdina par antabusam līdzīgu reakciju ar alkoholu; ķīmiskie pētījumi tajā koprīnu nav atraduši, atšķirībā no pelēkās tintenes (Coprinopsis atramentaria). Augļķermeņi no ceļmalām vai piesārņotas augsnes var uzkrāt smagos metālus, un no tiem jāizvairās. Šajā katalogā to neuzskata par izcilu ēdamo sēni.",
+      "confusion": "Coprinellus truncorum laukā ir praktiski identisks un bieži atšķirams tikai mikroskopā (sporu forma un cistīdu klātbūtne vai trūkums uz kāta); daudzi ieraksti ar vienu nosaukumu var piederēt otram, un šis katalogs tos uzskata par atsevišķām sugām. Coprinellus domesticus parasti aug retākos ceros, tam ir drīzāk filcveida plīvurs nekā spīdīgas vizlas graudiņas, un tas bieži izaug no uzkrītoša oranža vilnaina micēlija klājuma. Pelēkā tintene (Coprinopsis atramentaria) ir lielāka un gaļīgāka, ar gludu pelēkbrūnu cepurīti bez spīdīgām graudiņām, izšķīst pilnīgāk un satur koprīnu, kas, lietojot alkoholu, izraisa sliktu pašsajūtu. Ģints Psathyrella brūnās sugas var būt līdzīgas, kad graudiņas ir noskalotas, bet to lapiņas neizšķīst tinte. Dižbara tintene (Coprinellus disseminatus) aug daudz kuplākās grupās ar mazākām, bālākām cepurītēm bez spīdīgām graudiņām, un tās lapiņas kļūst melnas, bet īsti neizšķīst.",
+      "notes": "Uzticamākā lauka pazīme ir blīvu ceru uz lapu koku koksnes, medus brūnas rievotas cepurītes ar spīdīgām vizlas veida graudiņām jaunībā, plāna balta kāta bez gredzena un lapiņu, kas kļūst melnas, bet izšķīst tikai daļēji, savienojums. Kad graudiņas ir noskalotas, sēne rūpīgi jāsalīdzina ar līdzīgām tintenēm, un Coprinellus truncorum ar neapbruņotu aci nevar izslēgt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "vizuļojošā tintene"
+    },
+    "nl": {
+      "description": "Een algemene, bundelvormige inktzwam van rottend loofhout, herkenbaar aan honingbruine, fijn gegroefde hoeden die jong met glinsterende, mica-achtige witte korreltjes bestoven zijn, dunne witte holle stelen zonder ring, en lamellen die van wit via grijzig bruin naar zwart gaan en slechts gedeeltelijk tot inkt vervloeien.",
+      "cap": "Hoed 1–5 cm breed (meestal 2–4 cm na het openspreiden); eerst eivormig of ovaal en 1–3,5 cm hoog, daarna klokvormig tot conisch, tenslotte met een gescheurde, omhoog gebogen rand. Honinggeel tot okerbruin of vaalbruin, met een donkerder roestbruin centrum, hygrofaan en fijn gegroefd vanaf de rand bijna tot de schijf. Jonge hoeden zijn bezaaid met minuscule glinsterende witte tot bleke korreltjes (velumresten) die de regen afwast, zodat oudere hoeden vaak glad zijn.",
+      "hymenium": "Lamellen dicht opeen, vrij tot smal aangehecht, eerst wit, daarna grijzig bruin tot paarsbruin, tenslotte zwart, en slechts gedeeltelijk deliquescent — ze zwarten vanaf de rand, maar de hoed lost meestal niet volledig op in een zwarte, inktachtige vloeistof. De lamelsneden van oudere hoeden kunnen licht inktig zijn.",
+      "stipe": "Steel 3–12 cm lang en 0,2–0,7 cm dik (meestal 4–10 × 0,2–0,5 cm), cilindrisch, soms iets verdikt aan de basis, wit, hol, broos en zijdeachtig, jong vaak berijpt, later glad en glanzend, naar de basis toe wat bruinend. Er is geen ring en geen volva, en aan de basis ontbreekt een oranje, wollige myceliummat.",
+      "flesh": "Vlees zeer dun en broos, bij jonge vruchtlichamen witachtig. Geur en smaak zijn niet kenmerkend.",
+      "sporePrint": "Sporenafdruk zeer donkerbruin tot zwart. Sporen glad, ellipsoïd tot mitriform (schildvormig), 7–11 × 4,5–7 µm, met een centrale kiemporie.",
+      "habitat": "Saprotroof, in dichte bundels op of naast rottende stronken, stammen en begraven wortels van loofbomen, in bossen, parken en tuinen; hij kan uit de bodem of uit kort gras te groeien lijken wanneer hout begraven is. Wijdverbreid en zeer algemeen in Europa en in een groot deel van de gematigde noordelijk halfrond. In Midden-Europa vrucht hij vooral van april of mei tot november; in Groot-Brittannië en Ierland wordt hij het meest van mei tot november gevonden, en sommige Europese bronnen verlengen het seizoen tot in december.",
+      "uses": "Eetbaar wanneer jong, voordat de lamellen zwarten, maar dunvlezig, kortlevend en van geringe culinaire waarde — spoedig na het plukken koken, omdat de hoeden snel inzakken. Sommige Midden-Europese gidsen noemen hem oneetbaar of het plukken niet waard. Sommige populaire bronnen waarschuwen voor een antabuse-achtige reactie met alcohol; chemisch onderzoek vond er geen coprine in, in tegenstelling tot de Grote kale inktzwam (Coprinopsis atramentaria). Vruchtlichamen langs wegen of van vervuilde grond kunnen zware metalen ophopen en moeten worden vermeden. In deze catalogus wordt hij niet als een voortreffelijke eetbare paddenstoel behandeld.",
+      "confusion": "Coprinellus truncorum is in het veld vrijwel identiek en vaak alleen onder de microscoop te scheiden (sporenvorm en de aan- of afwezigheid van cystiden op de steel); veel waarnemingen van de ene naam kunnen tot de andere behoren, en deze catalogus behandelt ze als aparte soorten. De Grote viltinktzwam (Coprinellus domesticus) groeit gewoonlijk minder dicht gebundeld, heeft eerder een viltig velum dan glinsterende micakorreltjes, en ontspringt vaak aan een opvallende oranje, wollige myceliummat. De Grote kale inktzwam (Coprinopsis atramentaria) is groter en vleziger, met een gladde grijzig bruine hoed zonder glinsterende korreltjes, vervloeit vollediger en bevat coprine, die bij alcoholgebruik ziekte veroorzaakt. Bruine soorten van het geslacht Psathyrella kunnen erop lijken wanneer de korreltjes zijn afgewassen, maar hun lamellen lossen niet tot inkt op. De Zwerminktzwam (Coprinellus disseminatus) groeit in veel talrijkere groepen van kleinere, blekere hoeden zonder glinsterende korreltjes, en haar lamellen zwarten zonder werkelijk te vervloeien.",
+      "notes": "De combinatie van dichte bundels op loofhout, een honingbruine gegroefde hoed met glinsterende, mica-achtige korreltjes in de jeugd, een dunne witte steel zonder ring, en lamellen die zwarten maar slechts gedeeltelijk vervloeien, is het meest betrouwbare veldkenmerk. Zijn de korreltjes afgewassen, dan is een zorgvuldige vergelijking met gelijkende inktzwammen nodig, en Coprinellus truncorum kan met het blote oog niet worden uitgesloten.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Gewone_glimmerinktzwam",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "Gewone glimmerinktzwam"
+    },
+    "no": {
+      "description": "En vanlig, tuet blekksopp på råtnende lauvved, kjent på honningbrune, fint furede hatter som i ungdommen er overstrødd med glinsende, glimmeraktige hvite korn, tynne hvite hule stilker uten ring, og skiver som går fra hvite via gråbrune til svarte og bare delvis løses opp til blekk.",
+      "cap": "Hatt 1–5 cm i diameter (typisk 2–4 cm når den er utbredt); først eggformet eller oval og 1–3,5 cm høy, deretter klokkeformet til kjegleformet, til slutt med fliset, oppoverbøyd rand. Honninggul til okerbrun eller falmet brun, med mørkere rustbrun midt, hygrofan og fint furet fra randen nesten inn til skiven. Unge hatter er bestrødd med bittesmå glinsende hvite til bleke korn (velumrester) som regnet vasker av, slik at eldre hatter ofte er glatte.",
+      "hymenium": "Skiver tette, frie til smalt festet, først hvite, deretter gråbrune til purpurbrune, til slutt svarte, og bare delvis delikvescente — de svertes fra randen, men hatten løses vanligvis ikke helt opp til en svart, blekklignende væske. Skiveneggene på eldre hatter kan være lett blekkfargete.",
+      "stipe": "Stilk 3–12 cm lang og 0,2–0,7 cm tykk (typisk 4–10 × 0,2–0,5 cm), sylindrisk, av og til litt fortykket ved basis, hvit, hul, skjør og silkeaktig, som ung ofte pudret, senere glatt og blank, litt brunende mot basis. Det er ingen ring og ingen volva, og ved basis finnes ingen oransje, ullaktig mycelmatte.",
+      "flesh": "Kjøtt svært tynt og skjørt, hvitaktig hos unge fruktlegemer. Lukt og smak er ikke karakteristiske.",
+      "sporePrint": "Sporeavtrykk svært mørkebrunt til svart. Sporer glatte, ellipsoide til mitriforme (skjoldformede), 7–11 × 4,5–7 µm, med en sentral kimporus.",
+      "habitat": "Saprotrof, i tette tuer på eller ved råtnende stubber, stammer og nedgravde røtter av lauvtrær, i skog, parker og hager; den kan se ut til å vokse fra jord eller kort gress når ved er nedgravd. Utbredt og svært vanlig i Europa og i store deler av den tempererte nordlige halvkule. I Sentral-Europa fruktifiserer den hovedsakelig fra april eller mai til november; i Storbritannia og Irland finnes den oftest fra mai til november, og noen europeiske kilder forlenger sesongen inn i desember.",
+      "uses": "Spiselig som ung, før skivene svertes, men tynnkjøttet, kortlivet og av liten kulinarisk verdi — kok den snart etter plukking, fordi hattene raskt faller sammen. Noen sentraleuropeiske håndbøker kaller den uspiselig eller ikke verd å plukke. Noen populære kilder advarer om en antabuslignende reaksjon med alkohol; kjemiske studier har ikke funnet coprin i den, i motsetning til grå blekksopp (Coprinopsis atramentaria). Fruktlegemer fra veikanten eller forurenset jord kan hope opp tungmetaller og bør unngås. I denne katalogen behandles den ikke som en utsøkt matsopp.",
+      "confusion": "Coprinellus truncorum er i feltet praktisk talt identisk og kan ofte bare skilles under mikroskop (sporeform samt tilstedeværelse eller fravær av cystider på stilken); mange registreringer under det ene navnet kan tilhøre den andre, og denne katalogen behandler dem som atskilte arter. Vedblekksopp (Coprinellus domesticus) vokser vanligvis i mindre tette tuer, har snarere et filtet velum enn glinsende glimmerkorn og utgår ofte fra en iøynefallende oransje, ullaktig mycelmatte. Grå blekksopp (Coprinopsis atramentaria) er større og kjøttfullere, med glatt gråbrun hatt uten glinsende korn, løses opp mer fullstendig og inneholder coprin, som ved alkoholinntak gir ubehag. Brune arter av slekten Psathyrella kan ligne når kornene er vasket av, men skivene deres løses ikke opp til blekk. Stubbeblekksopp (Coprinellus disseminatus) vokser i langt tallrikere flokker av mindre, blekere hatter uten glinsende korn, og skivene svertes uten egentlig å løses opp.",
+      "notes": "Kombinasjonen av tette tuer på lauvved, en honningbrun furet hatt med glinsende, glimmeraktige korn i ungdommen, en tynn hvit stilk uten ring, og skiver som svertes men bare delvis løses opp, er det mest pålitelige feltkjennetegnet. Når kornene er vasket av, kreves nøye sammenligning med lignende blekksopper, og Coprinellus truncorum kan ikke utelukkes med det blotte øye.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "glimmerblekksopp"
+    },
+    "pl": {
+      "description": "Pospolity, kępkowy czernidłak zgnilizny drewna liściastego, rozpoznawany po miodowobrązowych, drobno żłobkowanych kapeluszach w młodości obsypanych lśniącymi, łyszczykowatymi białymi ziarnkami, cienkim białym, pustym trzonie bez pierścienia oraz blaszkach, które przechodzą z białych przez szarobrązowe do czarnych i tylko częściowo rozpływają się w atrament.",
+      "cap": "Kapelusz ma 1–5 cm średnicy (typowo 2–4 cm po rozpostarciu); początkowo jest jajowaty lub owalny i 1–3,5 cm wysoki, potem dzwonkowaty do stożkowatego, wreszcie z postrzępionym, odgiętym brzegiem. Jest miodowożółty do ochrowobrązowego lub płowy, z ciemniejszym rdzawobrązowym środkiem, higrofaniczny i drobno żłobkowany od brzegu niemal aż do tarczy. Młode kapelusze są obsypane drobnymi lśniącymi białymi do bladych ziarnkami (pozostałości osłony), które zmywa deszcz, więc starsze kapelusze są często gładkie.",
+      "hymenium": "Blaszki są gęste, wolne do wąsko przyrośniętych, początkowo białe, potem szarobrązowe do fioletowobrązowych, wreszcie czarne, i tylko częściowo delikwescencyjne — czernieją od brzegu, ale kapelusz zwykle nie rozpływa się całkowicie w czarny, atramentowy płyn. Ostrza blaszek starszych kapeluszy mogą być lekko atramentowe.",
+      "stipe": "Trzon ma 3–12 cm długości i 0,2–0,7 cm grubości (typowo 4–10 × 0,2–0,5 cm), jest walcowaty, czasem lekko zgrubiały u podstawy, biały, pusty, kruchy i jedwabisty, w młodości często oszroniony, później gładki i lśniący, przy podstawie nieco brązowiejący. Nie ma pierścienia ani pochwy, a u podstawy nie występuje pomarańczowa, wełnista grzybnia.",
+      "flesh": "Miąższ jest bardzo cienki i kruchy, u młodych owocników białawy. Zapach i smak są niewyraźne.",
+      "sporePrint": "Wysyp zarodników jest bardzo ciemnobrązowy do czarnego. Zarodniki są gładkie, elipsoidalne do mitrowatych (tarczowatych), 7–11 × 4,5–7 µm, z centralną porą rostwową.",
+      "habitat": "Saprotroficzny, w gęstych kępkach na butwiejących pniakach, kłodach i zagrzebanych korzeniach drzew liściastych lub tuż obok nich, w lasach, parkach i ogrodach; może sprawiać wrażenie, że rośnie z gleby lub niskiej trawy, gdy drewno jest zagrzebane. Jest rozpowszechniony i bardzo pospolity w Europie i w dużej części umiarkowanej półkuli północnej. W Europie Środkowej owocniki pojawiają się głównie od kwietnia lub maja do listopada; w Wielkiej Brytanii i Irlandii najczęściej od maja do listopada, a niektóre europejskie źródła przedłużają sezon do grudnia.",
+      "uses": "Jadalny w młodości, zanim blaszki sczernieją, ale o cienkim miąższu, krótkotrwały i mało wartościowy w kuchni — po zbiorze należy go szybko ugotować, bo kapelusze wkrótce opadają. Niektóre środkowoeuropejskie przewodniki uznają go za niejadalny lub nie wart zbierania. Niektóre popularne źródła ostrzegają przed reakcją podobną do antabusu z alkoholem; badania chemiczne nie wykazały w nim kopryny, w przeciwieństwie do czernidłówki pospolitej (Coprinopsis atramentaria). Owocniki z poboczy dróg i zanieczyszczonych miejsc mogą gromadzić metale ciężkie i należy ich unikać. W tym katalogu nie jest traktowany jako wyborne jadalny grzyb.",
+      "confusion": "Coprinellus truncorum jest w terenie niemal identyczny i często da się go odróżnić tylko pod mikroskopem (kształt zarodników oraz obecność lub brak cystyd na trzonie); wiele zapisów jednej nazwy może dotyczyć drugiego gatunku, a ten katalog prowadzi je jako osobne gatunki. Czernidłaczek podwórzowy (Coprinellus domesticus) rośnie zwykle w mniej zagęszczonych kępkach, ma raczej filcowatą osłonę niż lśniące łyszczykowate ziarnka i często wyrasta z wyrazistej pomarańczowej, wełnistej maty grzybni. Czernidłówka pospolita (Coprinopsis atramentaria) jest większa i mięsistsza, z gładkim szarobrązowym kapeluszem bez lśniących ziarnek, rozpływa się dokładniej i zawiera koprynę, która po spożyciu alkoholu wywołuje dolegliwości. Brązowe gatunki z rodzaju Psathyrella mogą być podobne, gdy ziarnka zmyje deszcz, ale ich blaszki nie rozpływają się w atrament. Czernidłaczek gromadny (Coprinellus disseminatus) rośnie w znacznie liczniejszych kępach mniejszych, jaśniejszych kapeluszy bez lśniących ziarnek, a jego blaszki czernieją, ale naprawdę się nie rozpływają.",
+      "notes": "Najpewniejszą cechą terenową jest połączenie gęstych kęp na drewnie liściastym, miodowobrązowego, żłobkowanego kapelusza z lśniącymi łyszczykowatymi ziarnkami w młodości, cienkiego białego trzonu bez pierścienia oraz blaszek, które czernieją, ale tylko częściowo się rozpływają. Gdy ziarnka zmyje deszcz, trzeba ostrożnie porównać grzyba z podobnymi gatunkami, a Coprinellus truncorum nie da się wykluczyć gołym okiem.",
+      "names": [
+        "czernidłak błyszczący"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_b%C5%82yszcz%C4%85cy",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "czernidłaczek błyszczący"
+    },
+    "pt": {
+      "description": "Um coprino gregário comum da madeira de folhosas em decomposição, reconhecível pelos chapéus pardo-mel, finamente estriados, que quando jovens estão cobertos de grânulos brancos brilhantes, semelhantes a mica, pelos pés brancos, finos, ocos e sem anel, e pelas lâminas que passam de brancas a pardo-acinzentadas e depois a pretas e só se dissolvem parcialmente em tinta.",
+      "cap": "Chapéu de 1–5 cm de diâmetro (tipicamente 2–4 cm quando expandido); a princípio ovóide ou oval e com 1–3,5 cm de altura, depois campanulado a cónico, por fim com a margem rasgada e revoluta. Amarelo-mel a pardo-ocre ou fulvo, com o centro pardo-ferrugíneo mais escuro, higrófano e finamente estriado da margem quase até ao disco. Os chapéus jovens estão salpicados de minúsculos grânulos brancos a pálidos, brilhantes (restos de véu), que a chuva lava, de modo que os chapéus mais velhos são muitas vezes lisos.",
+      "hymenium": "Lâminas apertadas, livres a estreitamente adnatas, a princípio brancas, depois pardo-acinzentadas a pardo-violáceas, por fim pretas, e só parcialmente deliquescentes — escurecem a partir da margem, mas o chapéu geralmente não se dissolve por completo num líquido preto, tintoso. O fio das lâminas dos chapéus velhos pode ser ligeiramente tintoso.",
+      "stipe": "Pé de 3–12 cm de comprimento e 0,2–0,7 cm de espessura (tipicamente 4–10 × 0,2–0,5 cm), cilíndrico, por vezes um pouco inchado na base, branco, oco, frágil e sedoso, muitas vezes pruinoso quando jovem, depois liso e brilhante, um pouco acastanhado para a base. Não há anel nem volva, e na base falta um tapete micelial lanoso de cor laranja.",
+      "flesh": "Carne muito fina e frágil, esbranquiçada nos corpos frutíferos jovens. Cheiro e sabor pouco distintivos.",
+      "sporePrint": "Esporada pardo muito escuro a preta. Esporos lisos, elipsoidais a mitriformes (em forma de escudo), 7–11 × 4,5–7 µm, com poro germinativo central.",
+      "habitat": "Saprotrófico, em tufos densos sobre ou junto a cepos, troncos e raízes enterradas de árvores de folha larga em decomposição, em bosques, parques e jardins; pode parecer crescer do solo ou de relva curta quando a madeira está enterrada. Ampliamente difundido e muito comum na Europa e em grande parte do hemisfério norte temperado. Na Europa Central frutifica sobretudo de abril ou maio a novembro; na Grã-Bretanha e na Irlanda encontra-se mais frequentemente de maio a novembro, e alguns relatos europeus prolongam a estação até dezembro.",
+      "uses": "Comestível quando jovem, antes de as lâminas escurecerem, mas de carne fina, de vida curta e de pouco valor culinário — deve cozinhar-se pouco depois da colheita, porque os chapéus colapsam depressa. Alguns guias da Europa Central consideram-no não comestível ou não digno de ser colhido. Algumas fontes populares avisam de uma reação do tipo antabuse com o álcool; estudos químicos não encontraram coprina nele, ao contrário de Coprinopsis atramentaria. Os corpos frutíferos de bermas de estrada ou de solos poluídos podem acumular metais pesados e devem evitar-se. Neste catálogo não é tratado como um cogumelo de escolha.",
+      "confusion": "Coprinellus truncorum é praticamente idêntico no campo e muitas vezes só se separa ao microscópio (forma dos esporos e presença ou ausência de cistídios no pé); muitos registos de um nome podem pertencer ao outro, e este catálogo trata-os como espécies distintas. Coprinellus domesticus cresce habitualmente em tufos menos densos, tem um véu mais feltrado do que grânulos de mica brilhantes, e nasce muitas vezes de um conspícuo tapete micelial lanoso de cor laranja. Coprinopsis atramentaria é maior e mais carnudo, com chapéu liso pardo-acinzentado sem grânulos brilhantes, deliquesce de forma mais completa e contém coprina, que provoca mal-estar se se beber álcool. As espécies pardas do género Psathyrella podem parecer-se quando os grânulos foram lavados, mas as suas lâminas não se dissolvem em tinta. Coprinellus disseminatus cresce em tropas muito mais numerosas de chapéus mais pequenos e pálidos, sem grânulos brilhantes, e as suas lâminas escurecem sem realmente se deliquescerem.",
+      "notes": "A combinação de tufos densos em madeira de folhosas, um chapéu pardo-mel estriado com grânulos brilhantes semelhantes a mica quando jovem, um pé branco fino e sem anel, e lâminas que escurecem mas só se dissolvem parcialmente, é o carácter de campo mais fiável. Depois de os grânulos serem lavados, é precisa uma comparação cuidadosa com coprinos semelhantes, e Coprinellus truncorum não pode ser excluído a olho nu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un coprin gregar comun al lemnului de foioase în putrefacție, recunoscut după pălăriile brun-miere, fin striatate, care la tinerețe sunt pudrate cu granule albe lucioase, asemănătoare micei, după piciorușele albe, subțiri, goale și fără inel, și după lamelele care trec din alb în brun-cenușiu, apoi în negru, și se dizolvă doar parțial în cerneală.",
+      "cap": "Pălăria are 1–5 cm în diametru (de obicei 2–4 cm după deschidere); la început ovoidă sau ovală și înaltă de 1–3,5 cm, apoi campanulată până la conică, în cele din urmă cu marginea sfâșiată și răsfrântă în sus. Galben-miere până la brun-ocru sau gălbui-brun, cu centrul brun-ruginos mai închis, higrofană și fin striată de la margine aproape până la disc. Pălăriile tinere sunt presărate cu granule minuscule albe până la palide, lucioase (resturi de văl), pe care ploaia le spală, astfel că pălăriile mai bătrâne sunt adesea netede.",
+      "hymenium": "Lamelele sunt dese, libere până la îngust adnate, la început albe, apoi brun-cenușii până la brun-violacee, în cele din urmă negre, și doar parțial delicescente — se înnegresc de la margine, dar pălăria de obicei nu se dizolvă cu totul într-un lichid negru, cernelos. Tăișul lamelor pălăriilor bătrâne poate fi ușor cernelos.",
+      "stipe": "Piciorul are 3–12 cm lungime și 0,2–0,7 cm grosime (de obicei 4–10 × 0,2–0,5 cm), cilindric, uneori ușor îngroșat la bază, alb, gol, fragil și mătăsos, adesea pruinos la tinerețe, mai târziu neted și lucios, brunind puțin spre bază. Nu există inel și nici volvă, iar la bază lipsește un covor micelian lânos de culoare portocalie.",
+      "flesh": "Carnea este foarte subțire și fragilă, albicioasă la corpurile de fructificare tinere. Mirosul și gustul nu sunt distinctive.",
+      "sporePrint": "Pulberea sporilor este brun foarte închis până la neagră. Sporii sunt netezi, elipsoidali până la mitriformi (în formă de scut), 7–11 × 4,5–7 µm, cu por germinativ central.",
+      "habitat": "Saprotof, în tufe dense pe sau lângă cioate, trunchiuri și rădăcini îngropate de arbori foioși în putrefacție, în păduri, parcuri și grădini; poate părea că crește din sol sau din iarbă scurtă atunci când lemnul este îngropat. Răspândit și foarte comun în Europa și în mare parte a emisferei nordice temperate. În Europa Centrală fructifică mai ales din aprilie sau mai până în noiembrie; în Marea Britanie și Irlanda se găsește cel mai des din mai până în noiembrie, iar unele surse europene prelungesc sezonul până în decembrie.",
+      "uses": "Comestibil la tinerețe, înainte ca lamelele să se înnegrească, dar cu carne subțire, de scurtă durată și de puțină valoare culinară — trebuie fiert curând după cules, deoarece pălăriile se prăbușesc repede. Unele ghiduri din Europa Centrală îl consideră necomestibil sau nedemn de a fi cules. Unele surse populare avertizează asupra unei reacții de tip antabus cu alcoolul; studiile chimice nu au găsit coprină în el, spre deosebire de Coprinopsis atramentaria. Corpurile de fructificare de pe marginea drumurilor sau de pe soluri poluate pot acumula metale grele și trebuie evitate. În acest catalog nu este tratat ca o ciupercă de calitate.",
+      "confusion": "Coprinellus truncorum este practic identic pe teren și adesea se deosebește doar la microscop (forma sporilor și prezența sau absența cistidelor pe picior); multe înregistrări ale unui nume pot aparține celuilalt, iar acest catalog le tratează ca specii distincte. Coprinellus domesticus crește de obicei în tufe mai puțin dense, are un văl mai degrabă pâslos decât granule de mică lucioase și apare adesea dintr-un covor micelian lânos portocaliu, evident. Coprinopsis atramentaria este mai mare și mai cărnos, cu pălărie netedă brun-cenușie fără granule lucioase, se deliquescește mai complet și conține coprină, care provoacă disconfort dacă se consumă alcool. Speciile brune ale genului Psathyrella pot semăna atunci când granulele au fost spălate, dar lamelele lor nu se dizolvă în cerneală. Coprinellus disseminatus crește în trupe mult mai numeroase de pălării mai mici și mai palide, fără granule lucioase, iar lamelele sale se înnegresc fără a se deliquesce cu adevărat.",
+      "notes": "Combinația de tufe dense pe lemn de foioase, a unei pălării brun-miere striatate cu granule lucioase asemănătoare micei la tinerețe, a unui picior alb subțire și fără inel, și a lamelor care se înnegresc dar se dizolvă doar parțial, este caracterul de teren cel mai de încredere. După ce granulele au fost spălate, este nevoie de o comparație atentă cu coprinii asemănători, iar Coprinellus truncorum nu poate fi exclus cu ochiul liber.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Обычный, пучковидный навозник гниющей древесины лиственных пород, который узнают по медово-коричневым, тонко бороздчатым шляпкам, в молодости осыпанным блестящими, слюдяными белыми крупинками, по тонкой белой полой ножке без кольца и по пластинкам, которые из белых становятся серо-коричневыми, затем чёрными и лишь частично расплываются в чернила.",
+      "cap": "Шляпка 1–5 см в диаметре (обычно 2–4 см в раскрытом состоянии); сначала яйцевидная или овальная и 1–3,5 см высотой, затем колокольчатая до конической, наконец с разорванным, загнутым вверх краем. Медово-жёлтая до охристо-коричневой или палевой, с более тёмным ржаво-коричневым центром, гигрофанная и тонко бороздчатая от края почти до диска. Молодые шляпки усыпаны мельчайшими блестящими белыми до бледных крупинками (остатки покрывала), которые смывает дождь, так что более старые шляпки часто гладкие.",
+      "hymenium": "Пластинки частые, свободные до узко приросших, сначала белые, затем серо-коричневые до фиолетово-коричневых, наконец чёрные, и лишь частично делинесцентные — они чернеют от края, но шляпка обычно не расплывается целиком в чёрную, чернильную жидкость. Края пластинок более старых шляпок могут быть слегка чернильными.",
+      "stipe": "Ножка 3–12 см длиной и 0,2–0,7 см толщиной (обычно 4–10 × 0,2–0,5 см), цилиндрическая, иногда слегка утолщённая у основания, белая, полая, хрупкая и шелковистая, в молодости часто мучнистая, позднее гладкая и блестящая, к основанию слегка буреющая. Кольца и вольвы нет, и у основания отсутствует оранжевый шерстистый мицелиальный коврик.",
+      "flesh": "Мякоть очень тонкая и хрупкая, у молодых плодовых тел беловатая. Запах и вкус невыразительны.",
+      "sporePrint": "Споровый порошок очень тёмно-коричневый до чёрного. Споры гладкие, эллипсоидальные до митриформных (щитовидных), 7–11 × 4,5–7 µm, с центральной ростковой порой.",
+      "habitat": "Сапротроф, густыми пучками на гниющих пнях, стволах и погребённых корнях лиственных деревьев или рядом с ними, в лесах, парках и садах; может казаться растущим из почвы или низкой травы, если древесина погребена. Широко распространён и очень обычен в Европе и на большей части умеренного Северного полушария. В Центральной Европе плодоносит главным образом с апреля или мая по ноябрь; в Великобритании и Ирландии чаще всего встречается с мая по ноябрь, а некоторые европейские источники продлевают сезон до декабря.",
+      "uses": "Съедобен в молодости, пока пластинки не почернели, но тонкомясый, недолговечный и кулинарно малоценный — его нужно быстро сварить после сбора, потому что шляпки скоро опадают. Некоторые центральноевропейские справочники считают его несъедобным или не стоящим сбора. Некоторые популярные источники предупреждают об антабусоподобной реакции с алкоголем; химические исследования не обнаружили в нём коприна, в отличие от навозника серого (Coprinopsis atramentaria). Плодовые тела с обочин дорог и загрязнённых мест могут накапливать тяжёлые металлы, и их следует избегать. В этом каталоге он не считается отборным съедобным грибом.",
+      "confusion": "Coprinellus truncorum в природе практически неотличим и часто отделяется только под микроскопом (форма спор и наличие или отсутствие цистид на ножке); многие записи одного имени могут относиться к другому, и этот каталог ведёт их как отдельные виды. Coprinellus domesticus обычно растёт менее густыми пучками, имеет скорее войлочное покрывало, чем блестящие слюдяные крупинки, и часто вырастает из заметного оранжевого шерстистого мицелиального коврика. Навозник серый (Coprinopsis atramentaria) крупнее и мясистее, с гладкой серо-коричневой шляпкой без блестящих крупинок, расплывается полнее и содержит коприн, который при употреблении алкоголя вызывает недомогание. Бурые виды рода Psathyrella могут быть сходны, когда крупинки смыты, но их пластинки не расплываются в чернила. Навозник рассеянный (Coprinellus disseminatus) растёт гораздо более многочисленными группами более мелких, бледных шляпок без блестящих крупинок, и его пластинки чернеют, но по-настоящему не расплываются.",
+      "notes": "Самый надёжный полевой признак — сочетание густых пучков на древесине лиственных пород, медово-коричневой бороздчатой шляпки с блестящими слюдяными крупинками в молодости, тонкой белой ножки без кольца и пластинок, которые чернеют, но лишь частично расплываются. Когда крупинки смыты, гриб нужно тщательно сравнить с похожими навозниками, а Coprinellus truncorum нельзя исключить невооружённым глазом.",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA_%D0%BC%D0%B5%D1%80%D1%86%D0%B0%D1%8E%D1%89%D0%B8%D0%B9",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "навозник мерцающий"
+    },
+    "sk": {
+      "description": "Bežná trsnatá huba hnijúceho listnatého dreva, ktorú spoľahlivo spoznáme podľa medovohnedých, jemne ryhovaných klobúkov v mladosti posypaných ligotavými sľudovitými bielymi zrnkami, tenkého bieleho dutého hlúbika bez prsteňa a lupení, ktoré prechádzajú z bielej cez sivohnedú do čiernej a iba čiastočne sa rozplývajú na atrament.",
+      "cap": "Klobúk má 1–5 cm v priemere (typicky 2–4 cm po otvorení); najprv je vajcovitý alebo oválny a 1–3,5 cm vysoký, potom zvoncovitý až kužeľovitý, nakoniec s roztrhnutým, vyhnutým okrajom. Je medovožltý až okrivo-hnedý alebo plavý, s tmavším hrdzavohnedým stredom, hygrofánny a jemne ryhovaný od okraja takmer až po disk. Mladé klobúky sú posypané drobnými ligotavými bielymi až bledými zrnkami (zvyšky závoja), ktoré dážď zmyje, takže staršie klobúky bývajú často hladké.",
+      "hymenium": "Lupene sú husté, voľné až úzko pripojené, najprv biele, potom sivohnedé až fialovohnedé, nakoniec čierne, a iba čiastočne delikvescentné — černejú od okraja, ale klobúk sa zvyčajne nerozplynie celý na čiernu atramentovú tekutinu. Ostrie lupení starších klobúkov môže byť slabo atramentové.",
+      "stipe": "Hlúbik je 3–12 cm dlhý a 0,2–0,7 cm hrubý (typicky 4–10 × 0,2–0,5 cm), valcovitý, niekedy pri báze slabo zhrubnutý, biely, dutý, krehký a hodvábny, za mladi často ojinený, neskôr hladký a lesklý, pri báze trochu hnednúci. Nemá prsteň ani pošvu a na báze nie je oranžová vlnená podhoubová plstina.",
+      "flesh": "Dužina je veľmi tenká a krehká, u mladých plodníc belavá. Vôňa aj chuť sú nevýrazné.",
+      "sporePrint": "Výtrusný prach je veľmi tmavohnedý až čierny. Výtrusy sú hladké, elipsoidné až mitrovité (štítovité), 7–11 × 4,5–7 µm, so stredovým klíčnym pórom.",
+      "habitat": "Saprotrofná, v hustých trsoch na hnijúcich pňoch, kmeňoch a zakopaných koreňoch listnatých stromov alebo tesne vedľa nich, v lesoch, parkoch a záhradách; môže sa zdať, že rastie zo zeme alebo z nízkej trávy, ak je drevo zakopané. Je rozšírená a veľmi hojná v Európe a vo veľkej časti mierneho pásma severnej pologule. V strednej Európe plodí najmä od apríla alebo mája do novembra; v Británii a Írsku sa najčastejšie nachádza od mája do novembra a niektoré európske údaje predlžujú sezónu až do decembra.",
+      "uses": "Jedlá za mladi, kým lupene nečernejú, ale má tenkú dužinu, je krátkoveká a kuchynsky málo hodnotná — po zbere ju treba čoskoro uvariť, lebo klobúky sa čoskoro zložia. Niektoré stredoeurópske príručky ju označujú za nejedlú alebo za nehodnú zberu. Niektoré populárne zdroje varujú pred antabusovým účinkom s alkoholom; chemické štúdie v nej koprín nenašli, na rozdiel od hnojníka atramentového (Coprinopsis atramentaria). Plodnice z ciest a znečistených miest môžu hromadiť ťažké kovy a treba sa im vyhnúť. V tomto katalógu sa nepovažuje za prvotriednu jedlú hubu.",
+      "confusion": "Coprinellus truncorum je v teréne prakticky totožný a často ho oddelíme len pod mikroskopom (tvar výtrusov a prítomnosť alebo neprítomnosť cystíd na hlúbiku); mnohé záznamy jedného mena môžu patriť druhému a tento katalóg ich vedie ako samostatné druhy. Hnojník okrový (Coprinellus domesticus) rastie zvyčajne v menej hustých trsoch, má skôr plstnatý závoj než ligotavé sľudovité zrnká a často vyrastá z nápadnej oranžovej vlnenej podhoubovej plstiny. Hnojník atramentový (Coprinopsis atramentaria) je väčší a mäsitejší, so hladkým sivohnedým klobúkom bez ligotavých zrniek, rozplýva sa dôkladnejšie a obsahuje koprín, ktorý pri požití alkoholu vyvoláva nevoľnosť. Hnedé druhy rodu Psathyrella môžu byť podobné, keď zrnká zmyla voda, ale ich lupene sa na atrament nerozplývajú. Hnojník rozsiaty (Coprinellus disseminatus) rastie v oveľa hojnejších trsoch menších, bledších klobúkov bez ligotavých zrniek a jeho lupene černejú, ale skutočne sa nerozplývajú.",
+      "notes": "Spoľahlivým terénnym znakom je kombinácia hustých trsov na listnatom dreve, medovohnedého ryhovaného klobúka s ligotavými sľudovitými zrnkami za mladi, tenkého bieleho hlúbika bez prsteňa a lupení, ktoré černejú, ale iba čiastočne sa rozplývajú. Keď zrnká zmyla voda, treba hubu opatrne porovnať s podobnými druhmi a Coprinellus truncorum nemožno podľa oka vylúčiť.",
+      "names": [],
+      "sourceUrls": [
+        "https://botany.cz/cs/coprinellus-micaceus/",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "hnojník ligotavý"
+    },
+    "sl": {
+      "description": "Pogosta, šopasta črnivka trohnečega listnatega lesa, ki jo prepoznamo po medeno rjavih, fino žlebastih klobukih, v mladosti posutih z lesketajočimi se sljudnatimi belimi zrnci, tankem belem votlem betu brez obročka in lističih, ki preidejo iz belih prek sivo rjavih v črne in se le deloma raztajijo v črnilo.",
+      "cap": "Klobuk meri 1–5 cm v premeru (običajno 2–4 cm, ko se razpre); sprva je jajčast ali ovalen in 1–3,5 cm visok, nato zvonast do stožčast, nazadnje s strganim, zavihanim robom. Je medeno rumen do okrasto rjav ali rumenkasto rjav, s temnejšim rjasto rjavim središčem, higrofan in fino žlebast od roba skoraj do temena. Mladi klobuki so posuti z drobnimi lesketajočimi se belimi do bledimi zrnci (ostanki ovojnice), ki jih dež spere, zato so starejši klobuki pogosto gladki.",
+      "hymenium": "Lističi so gosti, prosti do ozko prirasli, sprva beli, nato sivo rjavi do vijoličasto rjavi, nazadnje črni, in le deloma delikvescentni — črnijo od roba, vendar se klobuk običajno ne raztali povsem v črno črnilno tekočino. Ostrina lističev starejših klobukov je lahko rahlo črnilna.",
+      "stipe": "Bet je 3–12 cm dolg in 0,2–0,7 cm debel (običajno 4–10 × 0,2–0,5 cm), valjast, včasih pri dnu nekoliko zadebeljen, bel, votel, krhek in svilnat, v mladosti pogosto poprhnjen, pozneje gladek in sijajen, pri dnu nekoliko porjavi. Nima obročka in tuleca, ob dnu pa ni oranžne volnate micelijske plasti.",
+      "flesh": "Meso je zelo tanko in krhko, pri mladih trosnjakih belkasto. Vonj in okus sta neizrazita.",
+      "sporePrint": "Trosni prah je zelo temno rjav do črn. Trosi so gladki, elipsoidni do mitrasti (ščitasti), 7–11 × 4,5–7 µm, s sredinsko kalilno poro.",
+      "habitat": "Saprotrofna, v gostih šopih na trohnečih panjih, deblih in zakopanih koreninah listavcev ali tik ob njih, v gozdovih, parkih in vrtovih; lahko se zdi, da raste iz zemlje ali nizke trave, če je les zakopan. Je razširjena in zelo pogosta v Evropi in v velikem delu zmernega pasu severne poloble. V srednji Evropi trosnjake razvija predvsem od aprila ali maja do novembra; v Britaniji in na Irskem jo najpogosteje najdemo od maja do novembra, nekateri evropski viri pa sezono podaljšujejo do decembra.",
+      "uses": "Užitna v mladosti, dokler lističi ne počenijo, vendar je tankega mesa, kratkoživa in kuhinjsko malo vredna — po nabiranju jo je treba kmalu skuhati, ker se klobuki kmalu sesedejo. Nekateri srednjeevropski vodniki jo označujejo za neužitno ali ne vredno nabiranja. Nekateri poljudni viri svarijo pred antabusnim učinkom z alkoholom; kemijske študije v njej niso našle koprina, za razliko od prave tintovke (Coprinopsis atramentaria). Trosnjaki z obcestnih in onesnaženih rastišč lahko kopičijo težke kovine, zato se jim je treba izogibati. V tem katalogu je ne obravnavamo kot odlično užitno gobo.",
+      "confusion": "Coprinellus truncorum je na terenu skoraj enak in ga pogosto ločimo le pod mikroskopom (oblika trosov ter navzočnost ali odsotnost cistid na betu); številni zapisi enega imena lahko spadajo k drugemu, in ta katalog ju vodi kot ločeni vrsti. Domači tintovec (Coprinellus domesticus) raste navadno v manj gostih šopih, ima bolj klobučevinast ovoj kot lesketajoča se sljudnata zrnca in pogosto zraste iz opazne oranžne volnate micelijske preproge. Prava tintovka (Coprinopsis atramentaria) je večja in mesnatejša, z gladkim sivo rjavim klobukom brez lesketajočih se zrnc, se bolj popolnoma raztali in vsebuje koprin, ki ob uživanju alkohola povzroči slabo počutje. Rjave vrste rodu Psathyrella so lahko podobne, ko zrnca spere dež, vendar se njihovi lističi ne raztalijo v črnilo. Razsejani tintovec (Coprinellus disseminatus) raste v precej številčnejših skupinah manjših, bledih klobukov brez lesketajočih se zrnc, njegovi lističi pa črnijo, vendar se v resnici ne raztalijo.",
+      "notes": "Najzanesljivejši terenski znak je kombinacija gostih šopov na listnatem lesu, medeno rjavega žlebastega klobuka z lesketajočimi se sljudnatimi zrnci v mladosti, tankega belega beta brez obročka in lističev, ki črnijo, a se le deloma raztalijo. Ko zrnca spere dež, je gobo treba previdno primerjati s podobnimi vrstami, Coprinellus truncorum pa s prostim očesom ni mogoče izključiti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318",
+        "https://sl.wikipedia.org/wiki/Sljudnati_tintovec"
+      ],
+      "label": "sljudnati tintovec"
+    },
+    "sr": {
+      "description": "Честа, бусенаста гљива трулог лишћарског дрвета, која се препознаје по меденосмеђим, танко избразданим клобуцима у младости посутим блиставим лискунастим белим зрнцима, танком белом шупљем стручку без прстена и листићима који прелазе из белих преко сивосмеђих у црне и само се делимично растапају у мастило.",
+      "cap": "Клобук има 1–5 cm у пречнику (типично 2–4 cm када се рашири); најпре је јајаст или овалан и 1–3,5 cm висок, затим звонаст до купаст, напослетку са поцепаним, повијеним ободом. Медено је жут до окераста-смеђ или плав, с тамнијим рђастосмеђим средиштем, хигрофан и танко избраздан од обода готово до темена. Млади клобуци посути су ситним блиставим белим до бледих зрнцима (остаци вела) које киша спере, па су старији клобуци често глатки.",
+      "hymenium": "Листићи су густи, слободни до уско прирасли, најпре бели, затим сивосмеђи до љубичастосмеђи, напослетку црни, и само делимично деликвенсцентни — црне од обода, али се клобук обично не растопи сав у црну мастиласту течност. Оштрице листића старијих клобука могу бити слабо мастиласте.",
+      "stipe": "Стручак је 3–12 cm дуг и 0,2–0,7 cm дебео (типично 4–10 × 0,2–0,5 cm), ваљкаст, понекад мало задебљао при дну, бео, шупаљ, крт и свиленкаст, у младости често опорошен, касније гладак и сјајан, при дну мало посмеђи. Нема прстена ни волве, а при дну нема наранџасте вунасте мицелијске простирке.",
+      "flesh": "Месо је врло танко и крто, код младих плодоносних тела беличасто. Мирис и укус нису изражени.",
+      "sporePrint": "Отисак спора је врло тамносмеђ до црн. Споре су глатке, елипсоидне до митриформне (штитасте), 7–11 × 4,5–7 µm, са средишњим клијавим пором.",
+      "habitat": "Сапротрофна, у густим бусенима на трулим пањевима, стаблима и закопаним коренима лишћарског дрвећа или одмах поред њих, у шумама, парковима и баштама; може изгледати као да расте из земље или ниске траве када је дрво закопано. Раширена је и врло честа у Европи и у великом делу умереног појаса северне полулопте. У средњој Европи плодоносна тела се јављају углавном од априла или маја до новембра; у Британији и Ирској најчешће од маја до новембра, а неки европски извори сезону продужују до децембра.",
+      "uses": "Јестива у младости, док листићи не поцрне, али танког меса, краткотрајна и кухињски мало вредна — после брања треба је ускоро скувати јер се клобуци ускоро слегну. Неки средњоевропски водичи сматрају је нејестивом или не вредном брања. Неки популарни извори упозоравају на антабусно дејство с алкохолом; хемијске студије у њој нису нашле коприн, за разлику од сивог јарчића (Coprinopsis atramentaria). Плодоносна тела поред путева и са загађених станишта могу скупљати тешке метале па их треба избегавати. У овом каталогу се не сматра врсно јестивом гљивом.",
+      "confusion": "Coprinellus truncorum на терену је практично истоветан и често се разликује само под микроскопом (облик спора и присуство или одсуство цистида на стручку); многи записи једног имена могу припадати другом, а овај каталог их води као засебне врсте. Coprinellus domesticus обично расте у мање густим групама, има пре вунасто-филцасто вело него блистава лискунаста зрнца и често израста из упадљиве наранџасте вунасте мицелијске простирке. Сиви јарчић (Coprinopsis atramentaria) већи је и меснатији, с глатким сивосмеђим клобуком без блиставих зрнаца, растапа се потпуније и садржи коприн, који при конзумацији алкохола изазива тегобе. Смеђе врсте рода Psathyrella могу бити сличне када зрнца спере киша, али њихови листићи не растапају се у мастило. Coprinellus disseminatus расте у знатно бројнијим групама мањих, бледих клобука без блиставих зрнаца, а његови листићи црне, али се заправо не растапају.",
+      "notes": "Најпоузданије теренско обележје је комбинација густих бусена на лишћарском дрвету, меденосмеђег избразданог клобука са блиставим лискунастим зрнцима у младости, танког белог стручка без прстена и листића који црне, али се само делимично растапају. Када зрнца спере киша, гљиву треба пажљиво упоредити са сличним врстама, а Coprinellus truncorum се голим оком не може искључити.",
+      "names": [
+        "светлуцава гнојиштарка"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "блистава гнојиштарка"
+    },
+    "sv": {
+      "description": "En vanlig, tuvväxande bläcksvamp på ruttnande lövved, känd på honungsbruna, fint fårade hattar som i ungt stadium är pudrade med glittrande, glimmerlika vita korn, tunna vita ihåliga fötter utan ring, och skivor som går från vita via gråbruna till svarta och bara delvis löses upp till bläck.",
+      "cap": "Hatt 1–5 cm i diameter (typiskt 2–4 cm när den är utbredd); först äggformad eller oval och 1–3,5 cm hög, därefter klockformad till konisk, till sist med sliten, uppåtböjd kant. Honungsgul till ockrabrun eller blekt brun, med mörkare rostbrun mitt, hygrofan och fint fårad från kanten nästan in till skivan. Unga hattar är beströdda med pyttesmå glittrande vita till bleka korn (velumrester) som regnet sköljer bort, så äldre hattar ofta är släta.",
+      "hymenium": "Skivor täta, fria till smalt vidvuxna, först vita, därefter gråbruna till purpurbruna, till sist svarta, och bara delvis delikvescenta — de svartnar från kanten, men hatten löses vanligen inte helt upp till en svart, bläcklik vätska. Skiveggarna på äldre hattar kan vara något bläckfärgade.",
+      "stipe": "Fot 3–12 cm lång och 0,2–0,7 cm tjock (typiskt 4–10 × 0,2–0,5 cm), cylindrisk, ibland något förtjockad vid basen, vit, ihålig, skör och sidenaktig, som ung ofta pudrad, senare slät och blank, något bruntonad mot basen. Det finns ingen ring och ingen volva, och vid basen saknas en orange, ullig mycelmatta.",
+      "flesh": "Kött mycket tunt och skört, vitaktigt hos unga fruktkroppar. Lukt och smak är inte utmärkande.",
+      "sporePrint": "Sporavtryck mycket mörkbrunt till svart. Sporer släta, ellipsoida till mitriforma (sköldformade), 7–11 × 4,5–7 µm, med en central groddpor.",
+      "habitat": "Saprotrof, i täta tuvor på eller intill ruttnande stubbar, stammar och nedgrävda rötter av lövträd, i skogar, parker och trädgårdar; den kan se ut att växa ur jord eller kort gräs när ved är nedgrävd. Vid spridd och mycket allmän i Europa och i stora delar av den tempererade norra halvklotet. I Centraleuropa fruktifierar den främst från april eller maj till november; i Storbritannien och Irland påträffas den oftast från maj till november, och vissa europeiska källor förlänger säsongen in i december.",
+      "uses": "Ätlig när den är ung, innan skivorna svartnar, men tunnköttig, kortlivad och av litet kulinariskt värde — koka den snart efter plockning, eftersom hattarna snabbt sjunker ihop. Vissa centraleuropeiska handböcker kallar den oätlig eller inte värd att plocka. Vissa populära källor varnar för en antabusliknande reaktion med alkohol; kemiska studier har inte funnit coprin i den, till skillnad från grå bläcksvamp (Coprinopsis atramentaria). Fruktkroppar från vägrenar eller förorenad mark kan anrika tungmetaller och bör undvikas. I denna katalog behandlas den inte som en utsökt matsvamp.",
+      "confusion": "Coprinellus truncorum är i fält praktiskt taget identisk och kan ofta endast skiljas under mikroskop (sporform samt förekomst eller avsaknad av cystider på foten); många uppgifter under det ena namnet kan tillhöra den andra, och denna katalog behandlar dem som skilda arter. Vedbläcksvamp (Coprinellus domesticus) växer vanligen i mindre täta tuvor, har snarare ett filtlikt velum än glittrande glimmerkorn och utgår ofta från en iögonfallande orange, ullig mycelmatta. Grå bläcksvamp (Coprinopsis atramentaria) är större och köttigare, med slät gråbrun hatt utan glittrande korn, löses upp mer fullständigt och innehåller coprin, som vid alkoholförtäring ger illamående. Bruna arter av släktet Psathyrella kan likna den när kornen sköljts bort, men deras skivor löses inte upp till bläck. Stubbläcksvamp (Coprinellus disseminatus) växer i betydligt talrikare grupper av mindre, blekare hattar utan glittrande korn, och dess skivor svartnar utan att verkligen lösas upp.",
+      "notes": "Kombinationen av täta tuvor på lövved, en honungsbrun fårad hatt med glittrande, glimmerlika korn i ungt stadium, en tunn vit fot utan ring, och skivor som svartnar men bara delvis löses upp, är det mest tillförlitliga fältkännetecknet. När kornen sköljts bort krävs noggrann jämförelse med liknande bläcksvampar, och Coprinellus truncorum kan inte uteslutas med blotta ögat.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Glitterbl%C3%A4cksvamp",
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "glitterbläcksvamp"
+    },
+    "tr": {
+      "description": "Çürüyen yapraklı ağaç odununda yaygın, kümeler halinde büyüyen bir mürekkep mantarı; gençken parıltılı, mika benzeri beyaz taneciklerle tozlu bal-kahverengi, ince oluklu şapkaları, halkasız ince beyaz içi boş sapları ve beyazdan gri-kahverengiye, sonra siyahlaşarak yalnızca kısmen mürekkebe çözünen lamelleriyle tanınır.",
+      "cap": "Şapka 1–5 cm çapında (açıldığında tipik olarak 2–4 cm); önce yumurta biçimli veya oval ve 1–3,5 cm yüksekliğinde, sonra çan biçimli ile konik arasında, sonunda yırtık, yukarı kıvrık kenarlıdır. Bal sarısından okrumsu kahverengiye veya soluk kahverengiye kadar, daha koyu pas kahverengi merkezli, higrofandır ve kenardan neredeyse diske kadar ince olukludur. Genç şapkalar, yağmurun yıkadığı minik parıltılı beyaz veya soluk taneciklerle (örtü kalıntıları) serpilidir, bu yüzden daha yaşlı şapkalar çoğu zaman pürüzsüzdür.",
+      "hymenium": "Lameller sık, serbest veya dar yapışıktır; önce beyaz, sonra gri-kahverengi ile morumsu kahverengi, sonunda siyahtır ve yalnızca kısmen deliquescenttir — kenardan kararırlar, ancak şapka genellikle tamamen siyah, mürekkepsi bir sıvıya çözünmez. Daha yaşlı şapkaların lamel kenarları hafifçe mürekkepsi olabilir.",
+      "stipe": "Sap 3–12 cm uzunluğunda ve 0,2–0,7 cm kalınlığındadır (tipik olarak 4–10 × 0,2–0,5 cm), silindirik, tabanda bazen biraz şişkin, beyaz, içi boş, kırılgan ve ipeksidir; gençken çoğu zaman unsu, sonra pürüzsüz ve parlak, tabana doğru biraz kahverengileşir. Halka ve volva yoktur ve tabanda turuncu yünlü bir miselyum örtüsü bulunmaz.",
+      "flesh": "Et çok ince ve kırılgandır, genç meyve cisimlerinde beyazımsıdır. Koku ve tat belirgin değildir.",
+      "sporePrint": "Spor izi çok koyu kahverengiden siyaha kadardır. Sporlar pürüzsüz, elipsoidal ile mitriform (kalkan biçimli) arasında, 7–11 × 4,5–7 µm, merkezi bir çimlenme poruyla.",
+      "habitat": "Saprofit, çürüyen yapraklı ağaç kütükleri, gövdeleri ve gömülü kökleri üzerinde veya yanında, ormanlarda, parklarda ve bahçelerde sık kümeler halinde büyür; odun gömülü olduğunda topraktan veya kısa çimden büyüyormuş gibi görünebilir. Avrupa’da ve ılıman Kuzey Yarımküre’nin büyük bölümünde yaygındır ve çok sıktır. Orta Avrupa’da başlıca Nisan veya Mayıs’tan Kasım’a kadar meyve verir; Britanya ve İrlanda’da en sık Mayıs’tan Kasım’a kadar bulunur ve bazı Avrupa kaynakları mevsimi Aralık’a kadar uzatır.",
+      "uses": "Lameller kararmazdan önce, gençken yenilebilir, ancak ince etli, kısa ömürlü ve mutfak değeri düşüktür — şapkalar çabuk çöktüğü için toplandıktan hemen sonra pişirilmelidir. Bazı Orta Avrupa rehberleri onu yenmez veya toplamaya değmez sayar. Bazı popüler kaynaklar alkolle antabus benzeri bir tepkime konusunda uyarır; kimyasal çalışmalar, Coprinopsis atramentaria’dan farklı olarak onda koprin bulamamıştır. Yol kenarlarından veya kirlenmiş zeminden gelen meyve cisimleri ağır metaller biriktirebilir ve bunlardan kaçınılmalıdır. Bu katalogda seçkin bir yenilebilir mantar olarak ele alınmaz.",
+      "confusion": "Coprinellus truncorum arazide neredeyse özdeş olup çoğu zaman ancak mikroskopla ayrılır (spor şekli ve sapta sistidyumların varlığı veya yokluğu); bir adın birçok kaydı diğerine ait olabilir ve bu katalog onları ayrı türler olarak işler. Coprinellus domesticus genellikle daha seyrek kümelerde büyür, parıltılı mika taneciklerinden çok keçemsi bir örtüye sahiptir ve çoğu zaman belirgin turuncu yünlü bir miselyum örtüsünden çıkar. Coprinopsis atramentaria daha büyük ve daha etlidir, parıltılı taneciksiz pürüzsüz gri-kahverengi şapkası vardır, daha tam çözünür ve alkol içildiğinde rahatsızlık yapan koprin içerir. Psathyrella cinsinin kahverengi türleri tanecikler yıkanınca benzeyebilir, ancak lamelleri mürekkebe çözünmez. Minikmürekkep mantarı (Coprinellus disseminatus) parıltılı taneciksiz, daha küçük ve daha soluk şapkaların çok daha kalabalık kümelerinde büyür ve lamelleri gerçekten çözünmeden kararır.",
+      "notes": "En güvenilir arazi karakteri, yapraklı odun üzerindeki sık kümeler, gençken parıltılı mika benzeri tanecikli bal-kahverengi oluklu şapka, ince beyaz halkasız sap ve karararak yalnızca kısmen çözünen lamellerin birleşimidir. Tanecikler yıkanınca benzer mürekkep mantarlarıyla dikkatli karşılaştırma gerekir ve Coprinellus truncorum gözle dışlanamaz.",
+      "names": [
+        "unlu mürekkep mantarı",
+        "eşek mantarı"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "pullu mürekkep mantarı"
+    },
+    "uk": {
+      "description": "Звичайний, пучкуватий гнойовик гниючої деревини листяних порід, який впізнають за медово-коричневими, тонко борозенчастими шапинками, у молодості посипаними блискучими, слюдяними білими крупинками, за тонкою білою порожнистою ніжкою без кільця і за пластинками, що з білих стають сіро-коричневими, потім чорними і лише частково розпливаються в чорнило.",
+      "cap": "Шапинка 1–5 см у діаметрі (зазвичай 2–4 см у розкритому стані); спочатку яйцеподібна або овальна і 1–3,5 см заввишки, потім дзвоникоподібна до конічної, зрештою з розірваним, загнутим угору краєм. Медово-жовта до вохристо-коричневої або палевої, з темнішим іржаво-коричневим центром, гігрофанна і тонко борозенчаста від краю майже до диска. Молоді шапинки усипані найдрібнішими блискучими білими до блідих крупинками (залишки покривала), які змиває дощ, тож старіші шапинки часто гладкі.",
+      "hymenium": "Пластинки густі, вільні до вузько прирослих, спочатку білі, потім сіро-коричневі до фіолетово-коричневих, зрештою чорні, і лише частково деліквесцентні — вони чорніють від краю, але шапинка зазвичай не розпливається цілком у чорну, чорнильну рідину. Краї пластинок старіших шапинок можуть бути злегка чорнильними.",
+      "stipe": "Ніжка 3–12 см завдовжки і 0,2–0,7 см завтовшки (зазвичай 4–10 × 0,2–0,5 см), циліндрична, іноді трохи потовщена біля основи, біла, порожниста, крихка і шовковиста, в молодості часто борошниста, пізніше гладка і блискуча, до основи трохи буріє. Кільця і вольви немає, і біля основи відсутній помаранчевий вовнистий міцеліальний килимок.",
+      "flesh": "М’якуш дуже тонкий і крихкий, у молодих плодових тіл білуватий. Запах і смак невиразні.",
+      "sporePrint": "Споровий порошок дуже темно-коричневий до чорного. Спори гладкі, еліпсоїдальні до мітриформних (щитоподібних), 7–11 × 4,5–7 µm, із центральною ростковою порою.",
+      "habitat": "Сапротроф, густими пучками на гниючих пнях, стовбурах і похованому корінні листяних дерев або поряд із ними, у лісах, парках і садах; може здаватися, що росте з ґрунту чи низької трави, якщо деревина похована. Широко поширений і дуже звичайний в Європі та на більшій частині помірної Північної півкулі. У Центральній Європі плодоносить головним чином з квітня або травня по листопад; у Великій Британії та Ірландії найчастіше трапляється з травня по листопад, а деякі європейські джерела продовжують сезон до грудня.",
+      "uses": "Їстівний у молодості, поки пластинки не почорніли, але тонком’ясистий, недовговічний і кулінарно малоцінний — його треба швидко зварити після збору, бо шапинки скоро осідають. Деякі центральноєвропейські довідники вважають його неїстівним або не вартим збору. Деякі популярні джерела попереджають про антабусоподібну реакцію з алкоголем; хімічні дослідження не виявили в ньому коприну, на відміну від гнойовика чорнильного (Coprinopsis atramentaria). Плодові тіла з узбіч доріг і забруднених місць можуть накопичувати важкі метали, і їх слід уникати. У цьому каталозі його не вважають добірним їстівним грибом.",
+      "confusion": "Coprinellus truncorum у природі практично невідрізнений і часто відокремлюється лише під мікроскопом (форма спор і наявність або відсутність цистид на ніжці); багато записів однієї назви можуть належати іншій, і цей каталог веде їх як окремі види. Coprinellus domesticus зазвичай росте менш густими пучками, має радше повстисте покривало, ніж блискучі слюдяні крупинки, і часто виростає з помітного помаранчевого вовнистого міцеліального килимка. Гнойовик чорнильний (Coprinopsis atramentaria) більший і м’ясистіший, з гладкою сіро-коричневою шапинкою без блискучих крупинок, розпливається повніше і містить коприн, який при вживанні алкоголю викликає нездужання. Бурі види роду Psathyrella можуть бути схожими, коли крупинки змито, але їхні пластинки не розпливаються в чорнило. Гнойовик розсіяний (Coprinellus disseminatus) росте значно численнішими групами дрібніших, блідих шапинок без блискучих крупинок, і його пластинки чорніють, але насправді не розпливаються.",
+      "notes": "Найнадійніша польова ознака — поєднання густих пучків на деревині листяних порід, медово-коричневої борозенчастої шапинки з блискучими слюдяними крупинками в молодості, тонкої білої ніжки без кільця і пластинок, які чорніють, але лише частково розпливаються. Коли крупинки змито, гриб треба уважно порівняти з подібними гнойовиками, а Coprinellus truncorum не можна виключити неозброєним оком.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "гнойовик іскристий"
+    },
+    "zh": {
+      "description": "一种常见的、在腐朽阔叶树木上丛生的墨汁菌，幼时可凭覆有闪亮云母状白色颗粒的蜜褐色细沟纹菌盖、无菌环的细白中空菌柄，以及由白转灰褐再变黑、仅部分溶化为墨汁的菌褶来识别。",
+      "cap": "菌盖直径 1–5 cm（展开后通常为 2–4 cm）；起初卵形或椭圆形，高 1–3.5 cm，随后钟形至圆锥形，最后边缘撕裂并上翘。蜜黄色至赭褐色或淡黄褐色，中央较深的锈褐色，具吸湿变色性，自边缘几乎到菌盘都有细沟纹。幼盖布满微小闪亮的白色至浅色颗粒（菌幕残迹），会被雨水冲掉，因此较老的菌盖往往光滑。",
+      "hymenium": "菌褶密，离生至狭生，起初白色，随后灰褐色至紫褐色，最后黑色，仅部分胶化——从边缘开始变黑，但菌盖通常不会完全溶成黑色墨汁状液体。较老菌盖的菌褶边缘可能略带墨色。",
+      "stipe": "菌柄长 3–12 cm，粗 0.2–0.7 cm（通常 4–10 × 0.2–0.5 cm），圆柱形，基部有时稍膨大，白色、中空、脆而丝质，幼时常被粉末，后变光滑有光泽，近基部略褐变。无菌环也无菌托，基部没有橙色绒毛状菌丝垫。",
+      "flesh": "菌肉极薄而脆，幼子实体近白色。气味和味道不明显。",
+      "sporePrint": "孢子印极深褐色至黑色。孢子光滑，椭圆形至僧帽形（盾形），7–11 × 4.5–7 µm，具中央芽孔。",
+      "habitat": "腐生，在腐朽阔叶树的树桩、树干和埋藏的根上或其旁密集成丛，见于林地、公园和园圃；若木材被埋，可能看似从土壤或短草中长出。广布于欧洲和北温带的大部分地区，极为常见。在中欧主要于四月或五月至十一月出菇；在英国和爱尔兰最常见于五月至十一月，部分欧洲记载将季节延至十二月。",
+      "uses": "幼时可食，须在菌褶变黑之前，但菌肉薄、寿命短、烹饪价值低——采后应尽快烹煮，因为菌盖很快塌陷。一些中欧图鉴将其视为不可食或不值得采集。一些通俗资料警告与酒精会发生类似戒酒硫的反应；化学研究未在其中检出光盖伞素，这与墨汁鬼傘（Coprinopsis atramentaria）不同。路边或受污染土地上的子实体可能富集重金属，应当避免。本图鉴不将其视为上等食用菌。",
+      "confusion": "Coprinellus truncorum 在野外几乎无法区分，往往只能在显微镜下分开（孢子形状以及菌柄上囊状体的有无）；许多以一名记录的标本可能属于另一种，本图鉴将二者作为独立物种处理。Coprinellus domesticus 通常丛生较稀，菌幕更偏毡状而非闪亮的云母颗粒，并常从醒目的橙色绒毛状菌丝垫长出。墨汁鬼傘（Coprinopsis atramentaria）更大更肉质，菌盖平滑灰褐色、无闪亮颗粒，胶化更彻底，并含光盖伞素，饮酒后会引起不适。当颗粒被冲掉时，Psathyrella 属的褐色种类可能相似，但其菌褶不会溶成墨汁。簇生鬼傘（Coprinellus disseminatus）以远为众多的较小、较浅、无闪亮颗粒的菌盖成群出现，其菌褶变黑但并不真正胶化。",
+      "notes": "最可靠的野外特征是阔叶树木上的密丛、幼时具闪亮云母状颗粒的蜜褐色沟纹菌盖、无菌环的细白菌柄，以及变黑但仅部分胶化的菌褶。颗粒被冲掉后，需与相近的墨汁菌仔细比较，且不能用肉眼排除 Coprinellus truncorum。",
+      "names": [
+        "晶粒鬼傘",
+        "晶粒小鬼傘"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q933206",
+        "https://www.gbif.org/species/2534578",
+        "https://www.inaturalist.org/taxa/56318"
+      ],
+      "label": "晶鬼傘"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus micaceus",
+      "author": "Bull.",
+      "year": 1786,
+      "rank": "species",
+      "type": "basionym",
+      "if": 245257
+    },
+    {
+      "name": "Coprinus micaceus",
+      "author": "(Bull.) Fr.",
+      "year": 1838,
+      "rank": "species",
+      "type": "synonym",
+      "if": 196470
+    },
+    {
+      "name": "Coprinopsis micacea",
+      "author": "(Bull.) Fayod",
+      "year": 1889,
+      "rank": "species",
+      "type": "synonym",
+      "if": 663449
+    },
+    {
+      "name": "Agaricus turbinatus",
+      "author": "Ray ex With.",
+      "year": 1776,
+      "rank": "species",
+      "type": "synonym",
+      "if": 654381
+    }
+  ],
+  "reserved": false,
+  "id": 227,
+  "citation": "in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)"
 }
 ];

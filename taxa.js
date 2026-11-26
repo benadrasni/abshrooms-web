@@ -1161,5 +1161,17 @@ export const TAXA = {
   },
   Stropharia: {
     rank: "genus"
+  },
+  Tremellomycetes: {
+    rank: "class"
+  },
+  Tremellales: {
+    rank: "order"
+  },
+  Tremellaceae: {
+    rank: "family"
+  },
+  Tremella: {
+    rank: "genus"
   }
 };

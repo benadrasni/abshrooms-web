@@ -6,7 +6,7 @@ import { CATALOG } from '../species.js';
 
 const WHERE = new Set(['wood', 'ground', 'grass']);
 const COLOR = new Set(['white', 'yellow', 'red', 'brown', 'green', 'purple', 'dark']);
-const HYMENIUM = new Set(['gills', 'tubes', 'ridges', 'teeth', 'pits', 'smooth', 'gleba']);
+const HYMENIUM = new Set(['gills', 'tubes', 'ridges', 'folds', 'teeth', 'pits', 'smooth', 'gleba']);
 
 test('each species carries its own identify facts', () => {
   assert.equal(siteCatalog, CATALOG);
