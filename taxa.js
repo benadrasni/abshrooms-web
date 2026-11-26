@@ -1200,12 +1200,18 @@ export const TAXA = {
     rank: "subclass"
   },
   Xylariales: {
-    rank: "order"
+    rank: "order",
+    sk: "drevnatcotvaré"
   },
   Xylariaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "drevnatcovité"
   },
   Xylaria: {
+    rank: "genus",
+    sk: "drevnatec"
+  },
+  Suillellus: {
     rank: "genus"
   }
 };

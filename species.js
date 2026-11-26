@@ -236191,5 +236191,3027 @@ export const CATALOG = [
   "reserved": false,
   "id": 234,
   "citation": "Observ. mycol. (Lipsiae) 2: 95 (1800) [1799]"
+},
+{
+  "name": "Xylaria hypoxylon",
+  "author": "(L.) Grev.",
+  "family": "Xylariaceae",
+  "genus": "Xylaria",
+  "order": "Xylariales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Sordariomycetes",
+    "Xylariomycetidae",
+    "Xylariales",
+    "Xylariaceae",
+    "Xylaria"
+  ],
+  "summary": [
+    "Xylariales",
+    "Xylariaceae",
+    "Xylaria"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "dark",
+    "white"
+  ],
+  "capFrom": 3.0,
+  "capTo": 8.0,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "ar": "خشبية تحت الخشب",
+    "bg": "дървесна ксилария",
+    "cs": "dřevnatka parohatá",
+    "da": "grenet stødsvamp",
+    "de": "Geweihförmige Holzkeule",
+    "en": "candlesnuff fungus",
+    "es": "hongo astas de carbón",
+    "et": "sarvjas süsik",
+    "fi": "haarasarvisieni",
+    "fr": "xylaire du bois",
+    "hu": "szarvas agancsgomba",
+    "ja": "カノツノタケ",
+    "ko": "콩꼬투리버섯",
+    "lt": "baltaviršūnis elniagrybis",
+    "lv": "briežu ksilārija",
+    "nl": "Geweizwam",
+    "no": "stubbehorn",
+    "pl": "próchnilec gałęzisty",
+    "ro": "coarnele cerbului",
+    "ru": "ксилярия гипоксилон",
+    "sk": "drevnatec parohatý",
+    "sl": "vitka lesenjača",
+    "sr": "рогата дрварица",
+    "sv": "stubbhorn",
+    "uk": "ксиларія гіпоксилон",
+    "zh": "鹿角炭角菌"
+  },
+  "names": {
+    "ar": [
+      "فطر الشمعدان"
+    ],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "carbon antlers",
+      "candlestick fungus",
+      "stag's horn fungus"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [
+      "クロサイワイタケ",
+      "サキジロカノツノタケ"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "hornsopp"
+    ],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "drevnatka obyčajná"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "stubbhornssvamp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "鹿角菌"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=228616",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=228616",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=228616",
+      "https://www.gbif.org/species/5255147",
+      "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.first-nature.com/fungi/xylaria-hypoxylon.php",
+      "https://www.mushroomexpert.com/xylaria_hypoxylon.html",
+      "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/candlesnuff-fungus/",
+      "https://en.wikipedia.org/wiki/Xylaria_hypoxylon",
+      "https://www.myko.cz/myko-atlas/Xylaria-hypoxylon/",
+      "https://botany.cz/cs/xylaria-hypoxylon/",
+      "https://www.inaturalist.org/taxa/55267"
+    ],
+    "ar": [
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Xylaria-hypoxylon/",
+      "https://botany.cz/cs/xylaria-hypoxylon/",
+      "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+      "https://www.gbif.org/species/5255147",
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "da": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "de": [
+      "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+      "https://www.gbif.org/species/5255147",
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "es": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "et": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "fi": [
+      "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+      "https://www.gbif.org/species/5255147",
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "fr": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "hu": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "ja": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "ko": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "lt": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "lv": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+      "https://www.gbif.org/species/5255147",
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "no": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "pl": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "ro": [
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "ru": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "sk": [
+      "https://www.gbif.org/species/5255147",
+      "https://botany.cz/cs/xylaria-hypoxylon/"
+    ],
+    "sl": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q1272474"
+    ],
+    "sv": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ],
+    "uk": [
+      "https://www.gbif.org/species/5255147"
+    ],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q1272474",
+      "https://www.gbif.org/species/5255147"
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "Generated with Gemini",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_1.webp",
+      "author": "Achim Lammerts (Syntaxys)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2025-11-01_D500-1490_Achim-Lammerts_Xylaria-hypoxylon.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_2.webp",
+      "author": "RomkeHoekstra",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Geweiswam_(Xylaria_hypoxylon).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_3.webp",
+      "author": "hedera.baltica from Wrocław, Poland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Candlestick_fungus_(52711352712).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_4.webp",
+      "author": "Katja Schulz from Washington, D. C., USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Candlesnuff_Fungus_-_Flickr_-_treegrow_(1).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_5.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Candlestick_Fungus_-_Xylaria_hypoxylon_(38938220124).jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon@1600.webp",
+      "author": "Gemini",
+      "license": "Generated with Gemini",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon@1600.webp"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_1.webp",
+      "author": "Achim Lammerts (Syntaxys)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-11-01_D500-1490_Achim-Lammerts_Xylaria-hypoxylon.jpg"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_2.webp",
+      "author": "RomkeHoekstra",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_Geweiswam_(Xylaria_hypoxylon).jpg"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_3.webp",
+      "author": "hedera.baltica from Wrocław, Poland",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candlestick_fungus_(52711352712).jpg"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_4.webp",
+      "author": "Katja Schulz from Washington, D. C., USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candlesnuff_Fungus_-_Flickr_-_treegrow_(1).jpg"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Xylariales/Xylariaceae/Xylaria_hypoxylon/Xylaria_hypoxylon_5.webp",
+      "author": "Björn S...",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Candlestick_Fungus_-_Xylaria_hypoxylon_(38938220124).jpg"
+    }
+  ],
+  "text": {
+    "ar": {
+      "label": "خشبية تحت الخشب",
+      "names": [
+        "فطر الشمعدان"
+      ],
+      "description": "فطر شائع جداً، صلب ومحلل للخشب، ينمو في مجموعات كثيفة على جذوع الأشجار عريضة الأوراق المتحللة، والأغصان المتساقطة، والخشب الميت المدفون في بريطانيا وأيرلندا وأوروبا القارية وغرب أمريكا الشمالية، مع تقارير أوسع في المناطق المعتدلة حول العالم. يثمر على مدار العام، متناوباً بين طور لاجنسي مغطى بمسحوق أبيض عند الأطراف وطور جنسي أسود متصلب.",
+      "cap": "يبلغ ارتفاع كل حشوة فطرية (ستروما) قائمة عادةً ٣–٨ سم، وأحياناً يتراوح بين ١ و١٠ سم. ويبلغ سمك الفروع الفردية ٢–٨ مم، وقد يصل إلى ١٥ مم في العينات العريضة؛ وتكون أسطوانية ضيقة ومدببة أو مفلطحة ومتفرعة بشكل غير منتظم في الأعلى كقرون أيل مصغرة. الجزء السفلي العقيم أسود فحمي ومكسو بزغب دقيق، بينما تكون الفروع العلوية مغطاة في البداية بمسحوق طباشيري أبيض إلى رمادي باهت من الأبواغ الكونيدية أسفل طرف أملس مستدق مبيض إلى مصفر. ومع نضج الفطر وانتقاله إلى الطور الجنسي، يختفي المسحوق الأبيض وتتحول الستروما بأكملها إلى لون أسود فحمي مطفأ ذي بثور دقيقة. لا توجد قبعة منفصلة.",
+      "hymenium": "لا توجد صفائح ولا مسام ولا أشواك. في الطور الجنسي الناضج، تتكون أوعية ثمرية قارورية دقيقة (بيريثيسيا) في طبقة واحدة أسفل القشرة الخارجية السوداء الرقيقة للجزء العلوي من الستروما مباشرة، ويفتح كل منها عبر فوهة دقيقة مرتفعة (أوستيول) تمنح السطح ملمساً ثؤلولياً دقيقاً. وبداخل هذه الأوعية تنمو أكياس بوغية (أزقاق) أسطوانية تحتوي كل منها على ثمانية أبواغ، بأبعاد ١٠٠–٢٢٠ × ٨ ميكرومتر.",
+      "stipe": "لا توجد ساق حقيقية. فالجزء السفلي الضيق والأسطواني من الستروما هو امتداد قصير عقيم أسود ذو شعيرات دقيقة للجسم نفسه، ويمتد أحياناً إلى قاعدة جذرية متصلة بالخشب.",
+      "flesh": "اللحم صلب ومرن وخشبي، مصمت وأبيض ناصع في الداخل تحت القشرة الخارجية السوداء الرقيقة. الرائحة والطعم غير مميزين.",
+      "sporePrint": "طبعة الأبواغ سوداء. الأبواغ الزقية الجنسية ملساء، بنية داكنة إلى سوداء، كلوية إلى شبه مغزلية ذات شق إنبات مستقيم يمتد بطول البوغ، وتقيس ١٠–١٦ × ٤–٦ ميكرومتر. أما الأبواغ الكونيدية اللاجنسية المنتجة في الطور الأبيض المسحوق فهي ملساء وشفافة، إهليلجية إلى مغزلية، وتقيس ٥–١١ × ٢–٣ ميكرومتر.",
+      "habitat": "رمّي ينمو في مجموعات كثيفة على الجذوع المتعفنة والجذوع الساقطة وأغصان الأشجار عريضة الأوراق، وغالباً ما يبرز من بين الحزازيات، ونادراً جداً ما يوجد على جذوع الصنوبريات مثل الصنوبر. وهو كثيراً ما يكون من أواخر المستوطنين للخشب المتحلل، لاحقاً بالفطريات المحللة للخشب التي تسبقه. يمكن العثور على الأجسام الثمرية طوال العام: إذ تكون الستروما اللاجنسية ذات الأطراف البيضاء الزاهية أكثر وضوحاً في الطقس الرطب خلال الخريف والشتاء والربيع، بينما تنضج الستروما الجنسية السوداء المتصلبة في الخريف والشتاء وتبقى لفترة طويلة.",
+      "uses": "غير صالح للأكل. على الرغم من أنه لا يُعدّ ساماً، فإن حجمه الصغير وقوامه الصلب والخشبي يجعلان منه غير ملائم للأكل.",
+      "confusion": "يكوّن الفطر (Xylaria polymorpha) هراوات سوداء أسمك وأضخم بكثير، غير متفرعة أو ذات فصوص غير حادة، بدلاً من الفروع الرفيعة المفلطحة الشبيهة بقرون الأيل. أما الفطر (Xylaria longipes) فله هراوات أسطوانية أنحف وغير متفرعة على عنق عقيم أطول، ويفضل خشب القيقب. بينما يكون الفطر (Xylaria carpophila) أدق بكثير وخيطي الشكل، وينمو تحديداً على أغطية ثمار الزان المتساقطة بين أوراق الغابة. ويشبهه الفطر (Calocera viscosa) في أجسامه الثمرية المتفرعة كالقرون، لكنه أصفر برتقالي زاهٍ وهلامي القوام بدلاً من أن يكون أسود وأبيض وخشبياً.",
+      "notes": "يتخصص هذا الفطر في تفكيك السكريات المتعددة في الخشب مثل الغلوكان، بدلاً من هضم السليلوز أو اللغنين بشكل أساسي، ويمكنه أحياناً أن يسبب تعفن الجذور في الزعرور والكشمش الشائك. ويُظهر غزله الفطري توهجاً حيوياً مخضراً ضعيفاً، غير أن التوهج يكون عادةً خافتاً جداً بحيث لا تراه العين البشرية المجردة ويتطلب تصويراً بتعريض طويل أو معاينة بعين متكيفة مع الظلام لخشب مستوطن مشقوق حديثاً. أظهرت الدراسات الجزيئية أن العينات المجمعة عالمياً والمنسوبة تاريخياً إلى هذا الاسم تشكل معقداً نوعياً، مع تأكيد وجود النوع الأوروبي بالمعنى الدقيق في أوروبا وعلى طول الساحل الغربي للولايات المتحدة. وقد استُخلصت منه مستقلبات ثانوية نشطة حيوياً، تشمل السيتوكالازينات ومركبات الزيلاريال، وتُدرس مخبرياً لخصائصها المضادة للميكروبات والسامة للخلايا.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "bg": {
+      "label": "дървесна ксилария",
+      "names": [],
+      "description": "Много разпространена, жилава дърворазрушаваща гъба, която расте на гъсти туфи върху гниещи пънове на широколистни дървета, паднали клони и заровена в почвата мъртва дървесина в Британия, Ирландия, континентална Европа и западната част на Северна Америка, с по-широки съобщения в умерените области по целия свят. Плододава целогодишно, като редува безполова фаза с бяло напрашени върхове и втвърдена черна полова фаза.",
+      "cap": "Всяка изправена строма обикновено е висока 3–8 cm, понякога от 1 до 10 cm. Отделните разклонения са дебели 2–8 mm, при по-широки екземпляри до 15 mm, тясно цилиндрични и заострени или сплеснати и в горната част неправилно разклонени като миниатюрни еленови рога. Стерилната долна част е въгленочерна и фино влакнеста, докато горните разклонения първоначално са покрити с тебеширенобял до бледосив прахообразен налеп от конидии под гол, стесняващ се белезникав до жълтеникав връх. Когато гъбата узрее до половия си стадий, белият прах изчезва и цялата строма става матово въгленочерна и ситно пъпчива. Отделна гугла липсва.",
+      "hymenium": "Няма ламели, тръбички, пори или шипчета. В зрелия полов стадий точно под тънката черна външна кора на горната част на стромата се развиват в един слой дребни колбовидни перитеции, всеки от които се отваря чрез миниатюрен изпъкнал отвор (остиола), придаващ на повърхността фино брадавичаста текстура. Вътре в перитециите се намират цилиндрични осемспорови аски (торбички) с размери 100–220 × 8 µm.",
+      "stipe": "Истинско пънче липсва. Стеснената, цилиндрична долна част на стромата е късо, стерилно, фино окосмено черно продължение на същото плодно тяло, което понякога преминава в кореноподобна основа, прикрепена към дървесината.",
+      "flesh": "Жилаво, еластично и дървенисто, плътно и чисто бяло отвътре под тънката черна външна кора. Миризмата и вкусът са неизразителни.",
+      "sporePrint": "Споровият прашец е черен. Половите аскоспори са гладки, тъмнокафяви до черни, бобовидни до почти вретеновидни с права кълнителна цепнатина по цялата дължина и размери 10–16 × 4–6 µm. Безполовите конидии, образувани в белия прахообразен стадий, са гладки, безцветни, елипсовидни до вретеновидни и измерват 5–11 × 2–3 µm.",
+      "habitat": "Сапротрофен вид, растящ на гъсти туфи върху гниещи пънове, паднали стволове и клони на широколистни дървета, често прорастващ през мъх, и много рядко върху пънове на иглолистни дървета като бор. Често е един от по-късните колонизатори на разлагащата се дървесина, следвайки по-ранни дърворазрушаващи гъби. Плодни тела могат да се намерят през цялата година: ярко белите по върховете безполови строми са най-забележими при влажно есенно, зимно и пролетно време, докато втвърдените черни полови строми узряват през есента и зимата и се запазват дълго.",
+      "uses": "Неядлива. Въпреки че не се смята за отровна, малките ѝ размери и жилавата, дървениста консистенция я правят негодна за консумация.",
+      "confusion": "Xylaria polymorpha образува много по-дебели, по-набити, неразклонени или тъпо нарязани черни бухалки вместо тънки, сплеснати, роговидни разклонения. Xylaria longipes има по-тънки, неразклонени цилиндрични бухалки върху по-дълга стерилна дръжка и предпочита яворова дървесина. Xylaria carpophila е много по-фина и нишковидна и расте специфично върху паднали букови купули в листната постилка. Calocera viscosa има подобно разклонени, роговидни плодни тела, но е ярко жълто-оранжева и желатинозна, а не черно-бяла и дървениста.",
+      "notes": "Гъбата е специализирана в разграждането на дървесни полизахариди като глюкан, вместо да разгражда предимно целулоза или лигнин, и понякога може да причини кореново гниене при глог и цариградско грозде. Нейният мицел проявява слаба зеленикава биолуминесценция, макар че сиянието обикновено е твърде слабо за невъоръжено човешко око и изисква фотография с дълга експозиция или наблюдение на прясно разцепена колонизирана дървесина с очи, привикнали към тъмнината. Молекулярни изследвания показват, че сбирките от цял свят, исторически отнасяни към това име, образуват видов комплекс, като същинският европейски вид е потвърден в Европа и по западното крайбрежие на Съединените щати. От екстракти са изолирани биоактивни вторични метаболити, включително цитохалазини и ксилариални съединения, изследвани in vitro за антимикробни и цитотоксични свойства.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "cs": {
+      "label": "dřevnatka parohatá",
+      "names": [],
+      "description": "Velmi hojná, tuhá dřevokazná houba rostoucí v hustých trsech na rozkládajících se pařezech listnatých stromů, spadaných větvích a v půdě zanořeném mrtvém dřevě v Británii, Irsku, kontinentální Evropě a na západě Severní Ameriky, se širšími nálezy v mírném pásmu po celém světě. Plodí celoročně a střídá nepohlavní fázi s bílými poprášenými špičkami a ztvrdlou černou pohlavní fázi.",
+      "cap": "Jednotlivé vzpřímené stroma bývá obvykle 3–8 cm vysoké, ojediněle dosahuje 1 až 10 cm. Jednotlivé větve jsou 2–8 mm silné, u širokých plodnic až 15 mm, úzce válcovité a zašpičatělé nebo zploštělé a v horní části nepravidelně rozvětvené jako miniaturní parůžky. Sterilní spodní část je uhlově černá a jemně plstnatá, zatímco horní větve jsou zpočátku pokryté křídově bílým až světle šedým práškovitým povlakem konidií pod holou, zužující se bělavou až nažloutlou špičkou. Jakmile houba dozraje do pohlavního stadia, bílý poprašek zmizí a celé stroma se zbarví matně uhlově černě a stane se jemně bradavčitým. Samostatný klobouk chybí.",
+      "hymenium": "Nemá lupeny, rourky ani ostny. Ve zralém pohlavním stadiu se těsně pod tenkou černou vnější kůrou horní části stromatu vyvíjejí v jediné vrstvě drobná lahvicovitá perithecia, z nichž každé ústí drobným vyvýšeným otvorem (ostiolou), což dodává povrchu jemně bradavčitou strukturu. Uvnitř perithecií jsou válcovitá osmivýtrusná vřecka o rozměrech 100–220 × 8 µm.",
+      "stipe": "Pravý třeň chybí. Zúžená, válcovitá spodní část stromatu tvoří krátké, sterilní, jemně chlupaté černé pokračování téže plodnice, někdy protažené v kořenující bázi přirostlou ke dřevu.",
+      "flesh": "Tuhá, pružná a dřevnatá, uvnitř plná a čistě bílá pod tenkou černou vnější kůrou. Vůně i chuť jsou nevýrazné.",
+      "sporePrint": "Výtrusný prach je černý. Pohlavní askospory jsou hladké, tmavě hnědé až černé, ledvinovité až téměř vřetenovité s rovnou klíční štěrbinou po celé délce a měří 10–16 × 4–6 µm. Nepohlavní konidie tvořící se v bílém práškovitém stadiu jsou hladké, bezbarvé, elipsoidní až vřetenovité a měří 5–11 × 2–3 µm.",
+      "habitat": "Saprotrofní houba rostoucí v hustých trsech na tlejících pařezech, padlých kmenech a větvích listnatých stromů, často prorůstající mechem, a jen velmi vzácně na pařezech jehličnanů, například borovice. Často patří k pozdějším kolonizátorům rozkládajícího se dřeva a následuje po dřívějších dřevokazných houbách. Plodnice lze nalézt po celý rok: jasně bíle zakončená nepohlavní stromata jsou nejnápadnější za vlhkého podzimního, zimního a jarního počasí, zatímco ztvrdlá černá pohlavní stromata dozrávají na podzim a v zimě a dlouho vytrvávají.",
+      "uses": "Nejedlá. Přestože není považována za jedovatou, její malé rozměry a tuhá, dřevnatá konzistence ji činí nevhodnou ke konzumaci.",
+      "confusion": "Xylaria polymorpha vytváří mnohem silnější, zavalitější, nevětvené nebo tupě laločnaté černé kyje namísto štíhlých, zploštělých, parohatých větví. Xylaria longipes má štíhlejší, nevětvené válcovité kyje na delší sterilní stopce a dává přednost javorovému dřevu. Xylaria carpophila je mnohem jemnější a nitkovitá a roste specificky na spadaných bukových číškách v opadu. Calocera viscosa má podobně rozvětvené, parohaté plodnice, ale je jasně žlutooranžová a rosolovitá, nikoli černobílá a dřevnatá.",
+      "notes": "Houba se specializuje na rozklad dřevních polysacharidů, jako je glukan, spíše než na primární trávení celulózy či ligninu, a příležitostně může způsobovat hnilobu kořenů hlohu a angreštu. Její mycelium vykazuje slabou nazelenalou bioluminiscenci, ačkoli záře je obvykle příliš slabá pro pouhé lidské oko a vyžaduje fotografování s dlouhou expozicí nebo pohled očima přivyklýma tmě na čerstvě rozštípnuté kolonizované dřevo. Molekulární studie ukázaly, že celosvětové sběry historicky řazené k tomuto jménu tvoří druhový komplex, přičemž vlastní evropský druh byl potvrzen v Evropě a podél západního pobřeží Spojených států. Z extraktů byly izolovány bioaktivní sekundární metabolity včetně cytochalasinů a xylariálových sloučenin, zkoumané in vitro pro antimikrobiální a cytotoxické vlastnosti.",
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Xylaria-hypoxylon/",
+        "https://botany.cz/cs/xylaria-hypoxylon/",
+        "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+        "https://www.gbif.org/species/5255147",
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "da": {
+      "label": "grenet stødsvamp",
+      "names": [],
+      "description": "En meget almindelig, sej, trænedbrydende svamp, der vokser i tætte knipper på rådnende løvtræsstubbe, nedfaldne grene og begravet dødt ved i Storbritannien, Irland, det europæiske fastland og det vestlige Nordamerika, med bredere fund fra tempererede egne over hele verden. Den sætter frugtlegemer året rundt og skifter mellem en pudret, hvidspidset ukønnet fase og en hård, sort kønnet fase.",
+      "cap": "Hvert opret stroma er typisk 3–8 cm højt, lejlighedsvis fra 1 til 10 cm. De enkelte grene er 2–8 mm tykke, hos brede eksemplarer op til 15 mm, smalt cylindriske og tilspidsede eller affladede og uregelmæssigt gaffeldelte foroven som miniaturegevirer. Den sterile nedre del er kulsort og fint dunet, mens de øvre grene i begyndelsen er dækket af kridhvide til lysegrå, pudrede konidier neden for en nøgen, tilspidset hvidlig til gullig spids. Når svampen modnes til sit kønnede stadium, forsvinder det hvide pudder, og hele stromaet bliver mat kulsort og fint vortet. Der findes ingen særskilt hat.",
+      "hymenium": "Der er ingen lameller, porer eller pigge. I det modne kønnede stadium udvikles bitte små, flaskeformede perithecier i et enkelt lag lige under den tynde sorte ydre skorpe på det øvre stroma; hvert perithecium åbner sig gennem en lille hævet pore (ostiolum), som giver overfladen en fint vortet struktur. Inde i perithecierne måler de cylindriske, ottesporede sække (asci) 100–220 × 8 µm.",
+      "stipe": "Der er ingen egentlig stok. Den indsnævrede, cylindriske nedre del af stromaet er en kort, steril, fint behåret sort fortsættelse af samme frugtlegeme, som undertiden løber ud i en rodslående basis fæstnet til veddet.",
+      "flesh": "Sejt, elastisk og træagtigt, kompakt og rent hvidt indvendigt under den tynde sorte ydre bark. Lugt og smag er ubetydelige.",
+      "sporePrint": "Sporeaftrykket er sort. De kønnede askosporer er glatte, mørkebrune til sorte, bønneformede til næsten tenformede med en lige spirespalte i hele længden, og de måler 10–16 × 4–6 µm. De ukønnede konidier, der dannes i det hvide pudrede stadium, er glatte, hyaline og ellipsoide til tenformede, og de måler 5–11 × 2–3 µm.",
+      "habitat": "Saprotrof i tætte knipper på rådnende stubbe, væltede stammer og grene af løvtræer, ofte brydende frem gennem mos, og meget sjældent på nåletræsstubbe som fyr. Den hører ofte til de senere kolonisatorer af rådnende ved efter tidligere trænedbrydere. Frugtlegemer kan findes hele året: klare, hvidspidsede ukønnede stromata er mest iøjnefaldende i fugtigt efterårs-, vinter- og forårsvejr, mens hårde sorte kønnede stromata modnes om efteråret og vinteren og bliver stående længe.",
+      "uses": "Uspiselig. Selvom svampen ikke regnes for giftig, gør dens ringe størrelse og seje, træagtige konsistens den uegnet som spisesvamp.",
+      "confusion": "Xylaria polymorpha danner langt tykkere, kraftigere, ugrenede eller stumpt lappede sorte køller i stedet for slanke, affladede, geviragtige grene. Xylaria longipes har smallere, ugrenede cylindriske køller på en længere steril stokdel og foretrækker ahorntræ. Xylaria carpophila er langt finere og trådformet og vokser specifikt på nedfaldne bøgeskåle i førnelaget. Calocera viscosa har tilsvarende grenede, geviragtige frugtlegemer, men er klar gulorange og geléagtig frem for sort-hvid og træagtig.",
+      "notes": "Svampen er specialiseret i at nedbryde vedpolysakkarider som glukan frem for primært at nedbryde cellulose eller lignin, og den kan lejlighedsvis forårsage rodråd hos hvidtjørn og stikkelsbær. Dens mycelie udviser svag grønlig bioluminescens, men skæret er som regel for svagt for det blotte øje og kræver lang eksponeringstid ved fotografering eller et mørketilvænnet blik på friskkløvet, gennemvokset ved. Molekylære studier har vist, at verdensomspændende indsamlinger, der historisk er henført til dette navn, udgør et artskompleks, hvor arten i snæver europæisk forstand er bekræftet i Europa og langs USA's vestkyst. Ekstrakter har givet bioaktive sekundære metabolitter, herunder cytochalasiner og xylarial-forbindelser, som er undersøgt in vitro for antimikrobielle og cytotoksiske egenskaber.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "de": {
+      "label": "Geweihförmige Holzkeule",
+      "names": [],
+      "description": "Ein sehr häufiger, zäher, holzzersetzender Pilz, der in dichten Büscheln an verrottenden Laubholzstümpfen, heruntergefallenen Ästen und im Boden vergrabenem Totholz in Großbritannien, Irland, auf dem europäischen Festland und im westlichen Nordamerika wächst, mit weiteren Nachweisen aus gemäßigten Regionen weltweit. Er fruktifiziert ganzjährig und wechselt dabei zwischen einer pudrig weißspitzigen asexuellen Phase und einer verhärteten schwarzen sexuellen Phase.",
+      "cap": "Jedes aufrechte Stroma ist typischerweise 3–8 cm hoch, gelegentlich 1 bis 10 cm. Einzelne Äste sind 2–8 mm dick, bei breiten Exemplaren bis zu 15 mm, schmal zylindrisch und zugespitzt oder oben abgeflacht und unregelmäßig wie Miniaturgeweihe gegabelt. Der sterile untere Abschnitt ist kohlschwarz und fein filzig, während die oberen Äste anfangs unterhalb einer kahlen, sich verjüngenden weißlichen bis gelblichen Spitze mit kreideweißen bis blassgrauen, pudrigen Konidien überzogen sind. Wenn der Pilz in sein sexuelles Stadium heranreift, verschwindet das weiße Pulver, und das gesamte Stroma färbt sich mattschwarz und wird fein warzig. Ein eigener Hut ist nicht vorhanden.",
+      "hymenium": "Es gibt weder Lamellen noch Poren oder Stacheln. Im reifen sexuellen Stadium entwickeln sich winzige flaschenförmige Perithecien in einer einzelnen Schicht unmittelbar unter der dünnen schwarzen Außenkruste des oberen Stromas; jedes öffnet sich durch eine winzige erhabene Pore (Ostiolum), die der Oberfläche eine fein warzige Struktur verleiht. Im Inneren der Perithecien messen die zylindrischen, achtsporigen Asci (Schläuche) 100–220 × 8 µm.",
+      "stipe": "Ein echter Stiel ist nicht vorhanden. Der verjüngte, zylindrische untere Teil des Stromas ist eine kurze, sterile, fein behaarte schwarze Fortsetzung desselben Fruchtkörpers, die sich mitunter in eine wurzelnde, am Holz haftende Basis fortsetzt.",
+      "flesh": "Zäh, elastisch und holzig, im Inneren unter der dünnen schwarzen Außenrinde fest und rein weiß. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Das Sporenpulver ist schwarz. Die sexuellen Ascosporen sind glatt, dunkelbraun bis schwarz, bohnenförmig bis fast spindelförmig mit einer geraden, durchgehenden Keimspalte und messen 10–16 × 4–6 µm. Die im weißen pudrigen Stadium gebildeten asexuellen Konidien sind glatt, hyalin und ellipsoid bis spindelförmig und messen 5–11 × 2–3 µm.",
+      "habitat": "Saprotroph in dichten Büscheln an morschen Stümpfen, umgestürzten Stämmen und Ästen von Laubbäumen, oft durch Moos hindurchbrechend, und sehr selten an Nadelholzstümpfen wie Kiefer. Er gehört häufig zu den späteren Besiedlern von verrottendem Holz und folgt früheren Holzzersetzern nach. Fruchtkörper lassen sich das ganze Jahr über finden: Auffällige, weißspitzige asexuelle Stromata sind bei feuchtem Herbst-, Winter- und Frühlingswetter am deutlichsten sichtbar, während verhärtete schwarze sexuelle Stromata im Herbst und Winter reifen und lange bestehen bleiben.",
+      "uses": "Ungenießbar. Obwohl der Pilz nicht als giftig gilt, machen ihn seine geringe Größe und die zähe, holzige Konsistenz zum Verzehr ungeeignet.",
+      "confusion": "Xylaria polymorpha bildet deutlich dickere, gedrungenere, unverzweigte oder stumpf gelappte schwarze Keulen anstelle schlanker, abgeflachter, geweihartiger Äste. Xylaria longipes hat schlankere, unverzweigte zylindrische Keulen auf einem längeren sterilen Stielteil und bevorzugt Ahornholz. Xylaria carpophila ist wesentlich feiner und fadenförmig und wächst gezielt auf abgefallenen Fruchtbechern der Buche in der Laubstreu. Calocera viscosa hat ähnlich verzweigte, geweihartige Fruchtkörper, ist jedoch leuchtend gelborange und gallertartig statt schwarz-weiß und holzig.",
+      "notes": "Der Pilz ist auf den Abbau von Holzpolysacchariden wie Glucan spezialisiert, anstatt vorwiegend Zellulose oder Lignin zu verdauen, und kann gelegentlich Wurzelfäule an Weißdorn und Stachelbeere verursachen. Sein Myzel zeigt eine schwache grünliche Biolumineszenz, die für das bloße menschliche Auge meist zu schwach ist und Langzeitbelichtungen oder einen an die Dunkelheit gewöhnten Blick auf frisch gespaltenes, besiedeltes Holz erfordert. Molekulare Untersuchungen haben gezeigt, dass weltweit unter diesem Namen geführte Aufsammlungen einen Artenkomplex bilden, wobei die Art im engeren europäischen Sinn in Europa und entlang der Westküste der Vereinigten Staaten bestätigt ist. Extrakte lieferten bioaktive Sekundärmetabolite, darunter Cytochalasine und Xylarial-Verbindungen, die in vitro auf antimikrobielle und zytotoxische Eigenschaften untersucht wurden.",
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+        "https://www.gbif.org/species/5255147",
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "en": {
+      "label": "candlesnuff fungus",
+      "names": [
+        "carbon antlers",
+        "candlestick fungus",
+        "stag's horn fungus"
+      ],
+      "description": "A very common, tough, wood-rotting fungus that grows in dense clusters on decaying hardwood stumps, fallen branches, and buried deadwood across Britain, Ireland, mainland Europe, and western North America, with broader reports across temperate regions worldwide. It fruits year-round, alternating between a powdery white-tipped asexual phase and a hardened black sexual phase.",
+      "cap": "Each upright stroma is typically 3–8 cm tall, occasionally ranging from 1 to 10 cm. Individual branches are 2–8 mm thick, reaching up to 15 mm in broad specimens, narrowly cylindrical and pointed or flattened and irregularly forked above like miniature antlers. The sterile lower portion is charcoal-black and finely downy, while the upper branches are initially coated in chalky white to pale grey powdery conidia below a bald, tapering whitish to yellowish tip. As the fungus matures into its sexual stage, the white powder disappears and the entire stroma turns matte charcoal-black and finely pimpled. There is no separate cap.",
+      "hymenium": "There are no gills, pores, or teeth. In the mature sexual stage, tiny flask-shaped perithecia develop in a single layer just beneath the thin black outer crust of the upper stroma, each opening through a minute raised pore (ostiole) that gives the surface a finely warty texture. Inside the perithecia, cylindrical eight-spored asci measure 100–220 × 8 µm.",
+      "stipe": "There is no true stem. The narrowed, cylindrical lower part of the stroma is a short, sterile, finely hairy black continuation of the same body, sometimes extending into a rooting base attached to the wood.",
+      "flesh": "Tough, elastic, and woody, solid pure white inside beneath the thin black outer rind. Odour and taste are not distinctive.",
+      "sporePrint": "The spore print is black. Sexual ascospores are smooth, dark brown to black, bean-shaped to subfusoid with a straight full-length germ slit, measuring 10–16 × 4–6 µm. Asexual conidia produced on the white powdery stage are smooth, hyaline, and ellipsoid to fusiform, measuring 5–11 × 2–3 µm.",
+      "habitat": "Saprotrophic in dense clusters on rotting stumps, fallen logs, and branches of broadleaved trees, often emerging through moss, and very rarely on conifer stumps such as pine. It is frequently one of the later colonisers of decaying wood, following earlier wood-rotters. Fruit bodies can be found throughout the year: bright white-tipped asexual stromata are most conspicuous in moist autumn, winter, and spring weather, while hardened black sexual stromata mature in autumn and winter and persist.",
+      "uses": "Inedible. Although not considered poisonous, its small size and tough, woody texture make it unsuitable for eating.",
+      "confusion": "Xylaria polymorpha forms much thicker, stouter, unbranched or bluntly lobed black clubs rather than slender, flattened, antler-like branches. Xylaria longipes has slimmer, unbranched cylindrical clubs on a longer sterile stalk and prefers maple wood. Xylaria carpophila is much finer and thread-like, growing specifically on fallen beech cupules in leaf litter. Calocera viscosa has similarly branched, antler-like fruit bodies but is bright yellow-orange and gelatinous rather than black-and-white and woody.",
+      "notes": "The fungus specialises in breaking down wood polysaccharides such as glucan rather than primarily digesting cellulose or lignin, and it can occasionally cause root rot in hawthorn and gooseberry. Its mycelium exhibits weak greenish bioluminescence, though the glow is usually too faint for the unaided human eye and requires long-exposure photography or a dark-adapted view of freshly split colonised wood. Molecular studies have shown that worldwide collections historically assigned to this name form a species complex, with the strict European species confirmed in Europe and along the West Coast of the United States. Extracts have yielded bioactive secondary metabolites, including cytochalasins and xylarial compounds, studied in vitro for antimicrobial and cytotoxic properties.",
+      "wikipedia": "https://en.wikipedia.org/wiki/Xylaria_hypoxylon",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=228616",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=228616",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=228616",
+        "https://www.gbif.org/species/5255147",
+        "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.first-nature.com/fungi/xylaria-hypoxylon.php",
+        "https://www.mushroomexpert.com/xylaria_hypoxylon.html",
+        "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/candlesnuff-fungus/",
+        "https://en.wikipedia.org/wiki/Xylaria_hypoxylon",
+        "https://www.myko.cz/myko-atlas/Xylaria-hypoxylon/",
+        "https://botany.cz/cs/xylaria-hypoxylon/",
+        "https://www.inaturalist.org/taxa/55267"
+      ]
+    },
+    "es": {
+      "label": "hongo astas de carbón",
+      "names": [],
+      "description": "Un hongo lignícola muy común y correoso que crece en densos racimos sobre tocones podridos de frondosas, ramas caídas y madera muerta enterrada en Gran Bretaña, Irlanda, Europa continental y el oeste de Norteamérica, con registros más amplios en regiones templadas de todo el mundo. Fructifica durante todo el año, alternando entre una fase asexual pulverulenta de puntas blancas y una fase sexual negra y endurecida.",
+      "cap": "Cada estroma erecto mide habitualmente 3–8 cm de altura, ocasionalmente de 1 a 10 cm. Las ramas individuales tienen 2–8 mm de grosor, llegando hasta 15 mm en ejemplares anchos, estrechamente cilíndricas y puntiagudas o aplanadas e irregularmente bifurcadas en la parte superior como astas en miniatura. La parte inferior estéril es negro carbón y finamente vellosa, mientras que las ramas superiores están cubiertas inicialmente por conidios pulverulentos de color blanco tiza a gris pálido bajo un ápice glabro, ahusado y blanquecino a amarillento. A medida que el hongo madura hacia su fase sexual, el polvo blanco desaparece y todo el estroma se vuelve negro carbón mate y finamente granulado. No posee sombrero diferenciado.",
+      "hymenium": "No presenta láminas, poros ni aguijones. En la fase sexual madura, se desarrollan diminutos peritecios en forma de botella en una sola capa justo debajo de la fina corteza externa negra del estroma superior, cada uno abierto por un minúsculo poro prominente (ostiolo) que otorga a la superficie una textura finamente verrugosa. En el interior de los peritecios, las ascas cilíndricas octospóricas miden 100–220 × 8 µm.",
+      "stipe": "No existe un pie verdadero. La parte inferior estrechada y cilíndrica del estroma es una corta continuación negra, estéril y finamente pilosa del mismo cuerpo, que a veces se prolonga en una base radicante adherida a la madera.",
+      "flesh": "Correosa, elástica y leñosa, maciza y de color blanco puro en el interior bajo la fina corteza externa negra. El olor y el sabor no son distintivos.",
+      "sporePrint": "La esporada es negra. Las ascosporas sexuales son lisas, de color pardo oscuro a negro, con forma de alubia a subfusoide y una hendidura germinativa recta a lo largo de toda su longitud, y miden 10–16 × 4–6 µm. Los conidios asexuales producidos en la fase pulverulenta blanca son lisos, hialinos y elipsoides a fusiformes, de 5–11 × 2–3 µm.",
+      "habitat": "Saprótrofo en densos racimos sobre tocones podridos, troncos caídos y ramas de árboles frondosos, emergiendo con frecuencia entre el musgo, y muy raramente sobre tocones de coníferas como el pino. Suele ser uno de los colonizadores tardíos de la madera en descomposición, sucediendo a otros hongos lignícolas. Los cuerpos fructíferos pueden hallarse durante todo el año: los estromas asexuales de puntas blancas brillantes resultan más llamativos con tiempo húmedo en otoño, invierno y primavera, mientras que los estromas sexuales negros y endurecidos maduran en otoño e invierno y persisten.",
+      "uses": "No comestible. Aunque no se considera tóxico, su pequeño tamaño y su textura correosa y leñosa lo hacen inadecuado para el consumo.",
+      "confusion": "Xylaria polymorpha forma mazas negras mucho más gruesas y robustas, sin ramificar o con lóbulos romos, en lugar de ramas delgadas, aplanadas y con aspecto de astas. Xylaria longipes presenta mazas cilíndricas más finas y sin ramificar sobre un pie estéril más largo y prefiere la madera de arce. Xylaria carpophila es mucho más fina y filiforme, y crece específicamente sobre cúpulas caídas de haya en la hojarasca. Calocera viscosa tiene cuerpos fructíferos ramificados de forma similar a astas, pero es de color amarillo anaranjado vivo y gelatinoso en lugar de blanco y negro y leñoso.",
+      "notes": "El hongo está especializado en descomponer polisacáridos de la madera como el glucano en lugar de digerir principalmente celulosa o lignina, y puede provocar ocasionalmente podredumbre radicular en espino albar y grosellero espinoso. Su micelio muestra una débil bioluminiscencia verdosa, aunque el resplandor suele ser demasiado tenue para el ojo humano desnudo y requiere fotografía de larga exposición o una observación adaptada a la oscuridad de madera colonizada recién hendida. Los estudios moleculares han demostrado que las recolecciones mundiales asignadas históricamente a este nombre constituyen un complejo de especies, con la especie europea en sentido estricto confirmada en Europa y a lo largo de la costa oeste de Estados Unidos. De sus extractos se han obtenido metabolitos secundarios bioactivos, entre ellos citocalasinas y compuestos xilariales, estudiados in vitro por sus propiedades antimicrobianas y citotóxicas.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "et": {
+      "label": "sarvjas süsik",
+      "names": [],
+      "description": "Väga sage, sitke, puitu lagundav seen, mis kasvab tihedate kogumikena kõdunevatel lehtpuukändudel, langenud okstel ja pinnasesse mattunud lamapuidul Suurbritannias, Iirimaal, Mandri-Euroopas ja Põhja-Ameerika lääneosas, laiemate leidudega parasvöötme aladelt üle maailma. Ta viljub aasta ringi, vaheldudes jahuse valgetipulise suguta faasi ja kõva musta sugulise faasi vahel.",
+      "cap": "Iga püstine strooma on tavaliselt 3–8 cm kõrge, vahel 1 kuni 10 cm. Üksikud harud on 2–8 mm paksused, laiadel eksemplaridel kuni 15 mm, kitsalt silinderjad ja teritunud või ülaosas lapikud ja ebakorrapäraselt miniatuursete sarvedena harunenud. Steriilne alaosa on süsimust ja peenelt viltjas, samal ajal kui ülemised harud on algselt kaetud kriitvalgete kuni helehallide jahuste koniididega palja, aheneva valkja kuni kollaka tipu all. Seene küpsedes sugulisse järku kaob valge pulber ning kogu strooma muutub mattmustaks ja peenelt näsaliseks. Eraldi kübar puudub.",
+      "hymenium": "Eoslehed, poorid ja narmad puuduvad. Küpses sugulises järgus arenevad ülemise strooma õhukese musta väliskoore all ühe kihina tillukesed pudelikujulised periteetsiumid, millest igaüks avaneb väikese kõrgema poori (ostiooli) kaudu, andes pinnale peenelt näsalise tekstuuri. Periteetsiumide sees on silinderjad kaheksaeoselised eoskotid (askused) mõõtmetega 100–220 × 8 µm.",
+      "stipe": "Päris jalg puudub. Strooma ahenenud, silinderjas alaosa on sama viljakeha lühike, steriilne ja peenekarvaline must jätk, mis mõnikord ulatub puidule kinnituva juurduva alusena.",
+      "flesh": "Sitke, elastne ja puitunud, õhukese musta väliskoore all seest tihe ja puhasvalge. Lõhn ja maitse ei ole eristatavad.",
+      "sporePrint": "Eosetolm on must. Sugulised kottspoorid on siledad, tumepruunid kuni mustad, oakujulised kuni kergelt käävjad sirge täispikkuses idupiluga ning mõõtmetega 10–16 × 4–6 µm. Valges jahuses järgus moodustuvad suguta koniidid on siledad, hüaliinsed ja ellipsoidsed kuni käävjad, mõõtmetega 5–11 × 2–3 µm.",
+      "habitat": "Saprotroofne tihedate kogumikena lehtpuude kõdunevatel kändudel, lamatüvedel ja okstel, sageli läbi sambla kasvades, ning väga harva okaspuukändudel, näiteks männil. Ta on sageli üks hilisemaid kõduneva puidu asustajaid varasemate puidulagundajate järel. Viljakehi võib leida aasta läbi: silmatorkavad valgetipulised suguta stroomad on kõige märgatavamad niiskete sügis-, talve- ja kevadilmadega, samas kui kõvad mustad sugulised stroomad küpsevad sügisel ja talvel ning püsivad kaua.",
+      "uses": "Mittesöödav. Kuigi liiki ei peeta mürgiseks, muudavad väike suurus ning sitke, puitunud konsistents selle toiduks kõlbmatuks.",
+      "confusion": "Xylaria polymorpha moodustab palju paksemaid, jässakamaid, harunemata või tömbilt hõlmiseid musti nuiasid peenikeste, lapikute, sarvjate harude asemel. Xylaria longipes moodustab kitsamaid harunemata silinderjaid nuiasid pikemal steriilsel jalaosal ja eelistab vahtrapuitu. Xylaria carpophila on palju peenem ja niitjas ning kasvab spetsiifiliselt langenud pöögi lüdidel lehekõdus. Calocera viscosa moodustab sarnaselt harunenud sarvjaid viljakehi, kuid on ere kollakasoranž ja sültjas, mitte mustvalge ja puitunud.",
+      "notes": "Seen on spetsialiseerunud puidu polüsahhariidide, näiteks glükaani lagundamisele, mitte esmajoones tselluloosi või ligniini lagundamisele, ning võib vahel põhjustada juuremädanikku viirpuul ja karusmarjal. Tema mütseelil esineb nõrk rohekas bioluminestsents, kuid helendus on paljale inimsilmale tavaliselt liiga nõrk ning nõuab pika säriajaga fotografeerimist või pimedusega harjunud pilku värskelt lõhestatud läbikasvanud puidule. Molekulaaruuringud on näidanud, et ajalooliselt selle nime alla koondatud ülemaailmsed kogud moodustavad liigikompleksi, kus kitsas tähenduses Euroopa liik on kinnitatud Euroopas ja Ameerika Ühendriikide läänerannikul. Ekstraktidest on saadud bioaktiivseid sekundaarseid metaboliite, sealhulgas tsütohalasiine ja ksülariaaliühendeid, mille antimikroobseid ja tsütotoksilisi omadusi on uuritud in vitro.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "fa": {
+      "names": [],
+      "description": "قارچی بسیار رایج، سفت و چوب‌پوسان است که به صورت دسته‌های متراکم روی کنده‌های پوسیدهٔ درختان پهن‌برگ، شاخه‌های افتاده و چوب‌های مردهٔ مدفون در بریتانیا، ایرلند، اروپای قاره‌ای و غرب آمریکای شمالی می‌روید و گزارش‌های گسترده‌تری نیز از مناطق معتدل سراسر جهان دارد. در تمام طول سال اندام بارده تولید می‌کند و میان مرحلهٔ غیرجنسی با نوک سفید پودری و مرحلهٔ جنسی سیاه و سخت‌شده در تناوب است.",
+      "cap": "هر استرومای ایستاده معمولاً ۳–۸ سانتی‌متر ارتفاع دارد و گاهی از ۱ تا ۱۰ سانتی‌متر متغیر است. شاخه‌های منفرد ۲–۸ میلی‌متر ضخامت دارند و در نمونه‌های پهن به ۱۵ میلی‌متر می‌رسند؛ این شاخه‌ها باریک و استوانه‌ای با نوک تیز یا پهن‌شده و در بالا به شکل نامنظم شاخه‌شاخه شبیه شاخ‌های مینیاتوری گوزن هستند. بخش پایینی عقیم به رنگ سیاه زغالی و دارای کرک‌های ریز است، در حالی که شاخه‌های بالایی در ابتدا زیر نوک برهنه و باریک‌شوندهٔ سفید مایل به زرد، با پوششی پودری و گچی به رنگ سفید تا خاکستری کم‌رنگ از کنیدیوم‌ها پوشیده شده‌اند. با بالغ شدن قارچ و ورود به مرحلهٔ جنسی، پودر سفید از میان می‌رود و تمام استروما به رنگ سیاه زغالی مات و دارای برجستگی‌های ریز درمی‌آید. کلاهک مجزایی وجود ندارد.",
+      "hymenium": "تیغه‌ها، روزنه‌ها و خارها وجود ندارند. در مرحلهٔ جنسی بالغ، پریتسیوم‌های ریز فلاسک‌شکل در یک لایه دقیقاً زیر پوستهٔ بیرونی نازک و سیاه بخش بالایی استروما شکل می‌گیرند و هر یک از طریق یک روزنهٔ برجستهٔ بسیار ریز (استیول) باز می‌شوند که به سطح، بافتی ریززگیل‌دار می‌دهد. درون پریتسیوم‌ها، آسک‌های استوانه‌ای هشت‌هاگی به اندازهٔ ۱۰۰–۲۲۰ × ۸ میکرومتر قرار دارند.",
+      "stipe": "ساقهٔ واقعی وجود ندارد. بخش پایینی باریک و استوانه‌ای استروما، ادامهٔ کوتاه، عقیم، سیاه‌رنگ و دارای موهای ریز همان پیکره است که گاهی به پایه‌ای ریشه‌مانند متصل به چوب کشیده می‌شود.",
+      "flesh": "گوشت آن سفت، کشسان و چوبی است و در درون، زیر پوستهٔ بیرونی نازک سیاه، توپر و سفید خالص است. بو و مزهٔ شاخصی ندارد.",
+      "sporePrint": "نقش هاگ سیاه است. هاگ‌های آسکی جنسی صاف، قهوه‌ای تیره تا سیاه، لوبیایی‌شکل تا نیمه‌دوکی با یک شکاف جوانه‌زنی مستقیم در تمام طول هاگ هستند و اندازهٔ آن‌ها ۱۰–۱۶ × ۴–۶ میکرومتر است. کنیدیوم‌های غیرجنسی که در مرحلهٔ سفید پودری تولید می‌شوند، صاف، شفاف و بیضوی تا دوکی‌شکل‌اند و ۵–۱۱ × ۲–۳ میکرومتر اندازه دارند.",
+      "habitat": "ساپروتروف است و به صورت دسته‌های متراکم روی کنده‌های پوسیده، تنه‌های افتاده و شاخه‌های درختان پهن‌برگ می‌روید، اغلب از میان خزه‌ها سر برمی‌آورد و بسیار به ندرت روی کنده‌های مخروطیان مانند کاج دیده می‌شود. اغلب یکی از آخرین استقراریافتگان روی چوب در حال پوسیدگی است و پس از قارچ‌های چوب‌پوسان اولیه ظاهر می‌شود. اندام‌های بارده در سراسر سال یافت می‌شوند: استروماهای غیرجنسی با نوک سفید درخشان در هوای مرطوب پاییز، زمستان و بهار چشمگیرترند، در حالی که استروماهای جنسی سیاه و سخت‌شده در پاییز و زمستان بالغ می‌شوند و ماندگار می‌مانند.",
+      "uses": "غیرخوراکی است. هرچند سمی به شمار نمی‌آید، اندازهٔ کوچک و بافت سفت و چوبی آن باعث می‌شود برای خوردن مناسب نباشد.",
+      "confusion": "گونهٔ (Xylaria polymorpha) گرزهای سیاه بسیار ضخیم‌تر، تنومندتر، بدون شاخه یا با لوب‌های کند می‌سازد و مانند این گونه شاخه‌های باریک، پهن‌شده و شاخ‌گوزنی ندارد. گونهٔ (Xylaria longipes) گرزهای استوانه‌ای باریک‌تر و بدون شاخه روی پایه‌ای عقیم و بلندتر دارد و چوب افرا را ترجیح می‌دهد. گونهٔ (Xylaria carpophila) بسیار ظریف‌تر و نخی‌شکل است و به طور خاص روی پیاله‌های افتادهٔ راش در بستر برگ‌ها می‌روید. گونهٔ (Calocera viscosa) اندام‌های باردهٔ شاخه‌شاخه و شاخ‌گوزنی مشابهی دارد، اما به جای سیاه و سفید و چوبی بودن، به رنگ زرد-نارنجی درخشان و ژله‌ای است.",
+      "notes": "این قارچ به جای هضم اصلی سلولز یا لیگنین، در تجزیهٔ پلی‌ساکاریدهای چوب مانند گلوکان تخصص دارد و گاهی می‌تواند باعث پوسیدگی ریشه در زالزالک و انگور فرنگی شود. میسلیوم آن زیست‌تابی سبزفام ضعیفی از خود نشان می‌دهد، اما این درخشش معمولاً برای چشم غیرمسلح انسان بیش از حد کم‌نور است و به عکاسی با نوردهی طولانی یا نگاه با چشم عادت‌کرده به تاریکی به چوب تازه‌شکافتهٔ آلوده به قارچ نیاز دارد. مطالعات مولکولی نشان داده‌اند نمونه‌های سراسر جهان که به طور تاریخی با این نام ثبت شده‌اند یک مجموعهٔ گونه‌ای را تشکیل می‌دهند و گونهٔ اروپایی به معنای دقیق آن در اروپا و در امتداد ساحل غربی ایالات متحده تأیید شده است. از عصاره‌های آن متابولیت‌های ثانویهٔ زیست‌فعال، از جمله سیتوکالازین‌ها و ترکیبات زایلاریال، استخراج شده که در شرایط آزمایشگاهی (in vitro) از نظر خواص ضدمیکروبی و سمیت سلولی بررسی می‌شوند.",
+      "sourceUrls": []
+    },
+    "fi": {
+      "label": "haarasarvisieni",
+      "names": [],
+      "description": "Hyvin yleinen, sitkeä ja puuta lahottava sieni, joka kasvaa tiheinä ryhminä lahoavilla lehtipuiden kannoilla, pudonneilla oksilla ja maahan hautautuneella lahopuulla Isossa-Britanniassa, Irlannissa, Manner-Euroopassa ja läntisessä Pohjois-Amerikassa; laajempia havaintoja tunnetaan lauhkeilta alueilta eri puolilta maailmaa. Se muodostaa itiöemiä ympäri vuoden vaihdellen jauhemaisen valkokärkisen suvuttoman vaiheen ja kovettuneen mustan suvullisen vaiheen välillä.",
+      "cap": "Kukin pysty strooma on tyypillisesti 3–8 cm korkea, joskus 1–10 cm. Yksittäiset haarat ovat 2–8 mm paksuja, leveillä yksilöillä jopa 15 mm, kapean lieriömäisiä ja suippokärkisiä tai yläosastaan litteitä ja epäsäännöllisesti pienoissarvien tavoin haarautuneita. Steriili tyviosa on hiilenmusta ja hienon nukkainen, kun taas ylähaarat ovat aluksi liidunvalkoisten tai vaaleanharmaiden jauhemaisten kuromaitiöiden peittämät paljaan, suippenevan valkeahkon tai kellertävän kärjen alapuolelta. Sienen kypsyessä suvulliseen vaiheeseen valkoinen jauhe katoaa ja koko strooma muuttuu himmeän hiilenmustaksi sekä hienon näppyläiseksi. Erillistä lakkia ei ole.",
+      "hymenium": "Helttoja, pillejä tai piikkejä ei ole. Kypsässä suvullisessa vaiheessa ylästrooman ohuen mustan pintakuoren alle kehittyy yhteen kerrokseen pikkuruisia pullomaisia kotelopulloja (periteekioita), joista jokainen avautuu pienen kohollaan olevan suuaukon (ostiolin) kautta tehden pinnasta hienon nystyräisen. Kotelopullojen sisällä lieriömäiset, kahdeksanitiöiset itiökotelot (askukset) ovat kooltaan 100–220 × 8 µm.",
+      "stipe": "Varsinaista jalkaa ei ole. Strooman kaventunut, lieriömäinen tyviosa on saman itiöemän lyhyt, steriili ja hienokarvainen musta jatke, joka ulottuu toisinaan puuhun kiinnittyväksi juurehtivaksi tyveksi.",
+      "flesh": "Sitkeä, joustava ja puumainen, ohuen mustan pintakuoren alla sisältä tiivis ja puhtaanvalkoinen. Haju ja maku eivät ole erottuvia.",
+      "sporePrint": "Itiöpöly on mustaa. Suvulliset koteloitiöt ovat sileitä, tummanruskeita tai mustia, pavunmuotoisia tai hieman sukkulamaisia, ja niissä on suora koko pituudelta kulkeva itämishalkeama; ne ovat kooltaan 10–16 × 4–6 µm. Valkoisessa jauhemaisessa vaiheessa muodostuvat suvuttomat kuromaitiöt ovat sileitä, hyaliineja ja soikeita tai sukkulamaisia, kooltaan 5–11 × 2–3 µm.",
+      "habitat": "Lahottaja tiheinä ryhminä lehtipuiden lahoavilla kannoilla, kaatuneilla rungoilla ja oksilla, nousten usein esiin sammalen läpi, sekä hyvin harvoin havupuiden, kuten männyn, kannoilla. Se kuuluu usein lahoavan puun myöhäisempiin asuttajiin aiempien lahottajien jälkeen. Itiöemiä löytyy ympäri vuoden: kirkkaan valkokärkiset suvuttomat stroomat ovat huomiota herättävimpiä kosteina syksyn, talven ja kevään säinä, kun taas kovettuneet mustat suvulliset stroomat kypsyvät syksyllä ja talvella ja säilyvät pitkään.",
+      "uses": "Syötäväksi kelpaamaton. Vaikka lajia ei pidetä myrkyllisenä, sen pieni koko ja sitkeä, puumainen rakenne tekevät siitä syötäväksi soveltumattoman.",
+      "confusion": "Xylaria polymorpha muodostaa paljon paksumpia, tanakampia, haarattomia tai tylppäliuskaisia mustia nuijia hoikkien, litteiden ja sarvimaisten haarojen sijaan. Xylaria longipes muodostaa kapeampia, haarattomia lieriömäisiä nuijia pidemmän steriilin tyviosan päässä ja suosii vaahterapuuta. Xylaria carpophila on paljon hennompi ja lankamainen, ja se kasvaa erityisesti karikkeessa olevilla pudonneilla pyökin kehtokupeilla. Calocera viscosa muodostaa samankaltaisia haarautuneita, sarvimaisia itiöemiä, mutta se on kirkkaan keltaoranssi ja hyytelömäinen mustavalkoisen ja puumaisen sijaan.",
+      "notes": "Sieni on erikoistunut hajottamaan puun polysakkarideja, kuten glukaania, ensisijaisesti selluloosan tai ligniinin hajottamisen sijaan, ja se voi satunnaisesti aiheuttaa juurilahoa orapihlajalle ja karviaiselle. Sen rihmasto osoittaa heikkoa vihertävää bioluminesenssia, mutta hohde on yleensä liian himmeä paljaalle ihmissilmälle ja vaatii pitkän valotusajan kuvausta tai pimeään tottuneen katseen tuoreeltaan haljenneeseen rihmaston valtaamaan puuhun. Molekyylitutkimukset ovat osoittaneet, että historiallisesti tälle nimelle määritetyt maailmanlaajuiset kokoelmat muodostavat lajikompleksin, jossa varsinainen eurooppalainen laji on vahvistettu Euroopasta ja Yhdysvaltojen länsirannikolta. Uutteista on eristetty bioaktiivisia sekundäärimetaboliitteja, kuten sytokalasiineja ja ksylariaaliyhdisteitä, joiden antimikrobisia ja sytotoksisia ominaisuuksia on tutkittu in vitro.",
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+        "https://www.gbif.org/species/5255147",
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "fr": {
+      "label": "xylaire du bois",
+      "names": [],
+      "description": "Champignon lignicole très commun et coriace qui pousse en touffes denses sur les souches pourrissantes de feuillus, les branches tombées et le bois mort enfoui en Grande-Bretagne, en Irlande, en Europe continentale et dans l'ouest de l'Amérique du Nord, avec des mentions plus larges dans les régions tempérées du monde entier. Il fructifie toute l'année, alternant entre une phase asexuée poudreuse à sommet blanc et une phase sexuée noire et durcie.",
+      "cap": "Chaque stroma dressé mesure généralement 3–8 cm de hauteur, parfois 1–10 cm. Les rameaux individuels font 2–8 mm d'épaisseur, atteignant jusqu'à 15 mm chez les spécimens larges, étroitement cylindriques et pointus ou aplatis et irrégulièrement fourchus au sommet tels des bois de cerf miniatures. La partie inférieure stérile est noir charbon et finement duveteuse, tandis que les rameaux supérieurs sont d'abord recouverts de conidies poudreuses blanc crayeux à gris pâle sous une pointe glabre, effilée, blanchâtre à jaunâtre. À mesure que le champignon mûrit vers son stade sexué, la poudre blanche disparaît et tout le stroma devient noir charbon mat et finement pustuleux. Il n'y a pas de chapeau distinct.",
+      "hymenium": "Il n'y a ni lames, ni pores, ni aiguillons. Au stade sexué mature, de minuscules périthèces en forme de bouteille se développent en une seule couche juste sous la mince croûte externe noire de la partie supérieure du stroma, chacun s'ouvrant par un minuscule pore saillant (ostiole) qui confère à la surface une texture finement verruqueuse. À l'intérieur des périthèces, les asques cylindriques octosporés mesurent 100–220 × 8 µm.",
+      "stipe": "Il n'y a pas de véritable pied. La partie inférieure rétrécie et cylindrique du stroma est un court prolongement noir, stérile et finement poilu du même corps, se prolongeant parfois en une base radicante fixée au bois.",
+      "flesh": "Coriace, élastique et ligneuse, pleine et d'un blanc pur à l'intérieur sous la mince écorce externe noire. L'odeur et la saveur ne sont pas caractéristiques.",
+      "sporePrint": "La sporée est noire. Les ascospores sexuées sont lisses, brun foncé à noires, en forme de haricot à subfusoïdes avec une fente germinative droite sur toute leur longueur, et mesurent 10–16 × 4–6 µm. Les conidies asexuées produites lors du stade poudreux blanc sont lisses, hyalines, ellipsoïdes à fusiformes, et mesurent 5–11 × 2–3 µm.",
+      "habitat": "Saprotrophe en touffes denses sur les souches pourrissantes, les troncs tombés et les branches de feuillus, émergeant souvent à travers la mousse, et très rarement sur des souches de conifères tels que le pin. Il fait fréquemment partie des colonisateurs tardifs du bois en décomposition, succédant à d'autres champignons lignicoles. Les fructifications peuvent s'observer toute l'année : les stromas asexués à sommet blanc vif sont surtout visibles par temps humide en automne, en hiver et au printemps, tandis que les stromas sexués noirs et durcis mûrissent en automne et en hiver et persistent.",
+      "uses": "Non comestible. Bien qu'il ne soit pas considéré comme toxique, sa petite taille et sa texture coriace et ligneuse le rendent impropre à la consommation.",
+      "confusion": "Xylaria polymorpha forme des massues noires beaucoup plus épaisses et trapues, non ramifiées ou obtusément lobées, plutôt que des rameaux fins, aplatis et en forme de bois de cerf. Xylaria longipes présente des massues cylindriques plus minces et non ramifiées sur un stipe stérile plus long et préfère le bois d'érable. Xylaria carpophila est beaucoup plus fin et filiforme, poussant spécifiquement sur les cupules de hêtre tombées dans la litière. Calocera viscosa possède des fructifications ramifiées en bois de cerf similaires, mais est jaune-orangé vif et gélatineux plutôt que noir et blanc et ligneux.",
+      "notes": "Le champignon est spécialisé dans la dégradation de polysaccharides du bois tels que le glucane plutôt que dans la digestion principale de la cellulose ou de la lignine, et peut occasionnellement provoquer une pourriture racinaire chez l'aubépine et le groseillier à maquereau. Son mycélium présente une faible bioluminescence verdâtre, mais cette lueur est généralement trop faible pour l'œil humain nu et nécessite une photographie en pose longue ou une observation adaptée à l'obscurité sur du bois fraîchement fendu et colonisé. Les études moléculaires ont montré que les récoltes mondiales historiquement attribuées à ce nom forment un complexe d'espèces, l'espèce européenne au sens strict étant confirmée en Europe et le long de la côte ouest des États-Unis. Des extraits ont livré des métabolites secondaires bioactifs, notamment des cytochalasines et des composés xylariales, étudiés in vitro pour leurs propriétés antimicrobiennes et cytotoxiques.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "he": {
+      "names": [],
+      "description": "פטרייה מפרקת עץ קשה ונפוצה מאוד הגדלה בצברים צפופים על גדמי עצי עלים נרקבים, ענפים שנפלו ועץ מת קבור ברחבי בריטניה, אירלנד, יבשת אירופה ומערב אמריקה הצפונית, עם דיווחים נרחבים יותר באזורים ממוזגים ברחבי העולם. היא יוצרת גופי פרי לאורך כל השנה, ומחליפה בין שלב אל-מיני אבקתי בעל קצוות לבנים לבין שלב מיני שחור ומוקשה.",
+      "cap": "כל סטרומה זקופה היא לרוב בגובה 3–8 cm, ולעתים 1–10 cm. הענפים הבודדים בעובי 2–8 mm, ומגיעים עד 15 mm בפרטים רחבים; הם גליליים צרים ומחודדים או פחוסים ומפוצלים באופן לא סדיר בחלקם העליון בדומה לקרני אייל זעירות. החלק התחתון העקר שחור-פחם ופלומתי עדין, ואילו הענפים העליונים מצופים בתחילה בקונידיות אבקתיות בצבע לבן גירי עד אפור חיוור מתחת לקצה קירח ומחודד שצבעו לבנבן עד צהבהב. כשהפטרייה מבשילה לשלב המיני שלה, האבקה הלבנה נעלמת והסטרומה כולה הופכת לשחורה-פחם עמומה ומגובששת בעדינות. אין כובע נפרד.",
+      "hymenium": "אין דפים, נקבוביות או שיניים. בשלב המיני הבשל מתפתחות פריתציות זעירות דמויות בקבוקון בשכבה אחת ממש מתחת לקרום החיצוני השחור הדק של חלקה העליון של הסטרומה, וכל אחת מהן נפתחת דרך נקבובית זעירה מוגבהת (אוסטיאול) המקנה לפני השטח מרקם יבלתי עדין. בתוך הפריתציות מצויים אסקוסים גליליים בני שמונה נבגים, שמידותיהם 100–220 × 8 µm.",
+      "stipe": "אין רגל אמיתית. החלק התחתון הצר והגלילי של הסטרומה הוא המשך קצר, עקר, שחור ושעיר בעדינות של אותו גוף, שלעתים נמשך לבסיס דמוי שורש המחובר לעץ.",
+      "flesh": "קשה, גמיש ועצי, לבן טהור ומוצק מבפנים מתחת לקליפה החיצונית השחורה הדקה. הריח והטעם אינם אופייניים.",
+      "sporePrint": "הדפס הנבגים שחור. האסקוספורות המיניות חלקות, חומות כהות עד שחורות, בצורת שעועית עד דמויות כישור מעט, עם סדק נביטה ישר לאורכן המלא, ומידותיהן 10–16 × 4–6 µm. הקונידיות האל-מיניות הנוצרות בשלב האבקתי הלבן חלקות, שקופות וצורתן אליפסואידית עד כישורית, ומידותיהן 5–11 × 2–3 µm.",
+      "habitat": "סאפרוטרופית הגדלה בצברים צפופים על גדמים נרקבים, גזעים שנפלו וענפים של עצי עלים רחבים, לעתים קרובות מבצבצת מבעד לטחב, ורק לעתים נדירות מאוד על גדמי מחטניים כגון אורן. לעתים קרובות היא מן המאכלסות המאוחרות יותר של עץ נרקב, בעקבות מפרקי עץ קודמים. גופי פרי ניתן למצוא לאורך כל השנה: הסטרומות האל-מיניות הבולטות בקצותיהן הלבנים ניכרות ביותר במזג אוויר לח בסתיו, בחורף ובאביב, ואילו הסטרומות המיניות השחורות והמוקשות מבשילות בסתיו ובחורף ומתקיימות לאורך זמן.",
+      "uses": "לא למאכל. אף שאינה נחשבת רעילה, גודלה הקטן ומרקמה הקשה והעצי הופכים אותה לבלתי מתאימה לאכילה.",
+      "confusion": "Xylaria polymorpha יוצרת אלות שחורות עבות, חסונות ובלתי מסועפות או בעלות אונות קהות הרבה יותר, במקום ענפים דקים ופחוסים דמויי קרני אייל. ל-Xylaria longipes יש אלות גליליות דקות יותר ובלתי מסועפות על גבעול עקר ארוך יותר, והיא מעדיפה עץ אדר. Xylaria carpophila דקה הרבה יותר ודמוית חוט, וגדלה במיוחד על ספלולי אשור שנשרו בנשורת העלים. ל-Calocera viscosa יש גופי פרי מסועפים דמויי קרני אייל באופן דומה, אך צבעם צהוב-כתום עז ומרקמם ג'לטיני במקום שחור-לבן ועצי.",
+      "notes": "הפטרייה מתמחה בפירוק רב-סוכרים של עץ כגון גלוקן, ולא בעיקר בעיכול תאית או ליגנין, ולעתים רחוקות היא עלולה לגרום לריקבון שורשים בעוזרר ובחזרזר. התפטיר שלה מציג ביולומינסנציה ירקרקה חלשה, אך הזוהר לרוב חלש מכדי להיראות בעין בלתי מזוינת ומצריך צילום בחשיפה ארוכה או התבוננות בעיניים שהסתגלו לחושך בעץ מאוכלס שזה עתה בוקע. מחקרים מולקולריים הראו כי אוספים מכל העולם שיוחסו בעבר לשם זה מהווים קומפלקס מינים, כשהמין האירופי במובן הצר אומת באירופה ולאורך החוף המערבי של ארצות הברית. תמציות מהפטרייה הניבו מטבוליטים שניוניים פעילים ביולוגית, כולל ציטוכאלאזינים ותרכובות קסילאריאליות, שנחקרו במבחנה בשל תכונותיהם האנטי-מיקרוביאליות והציטוטוקסיות.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "names": [],
+      "description": "एक अत्यंत सामान्य, सख्त, काष्ठ-अपघटक कवक जो ब्रिटेन, आयरलैंड, मुख्यभूमि यूरोप और पश्चिमी उत्तरी अमेरिका में सड़ते हुए चौड़ी पत्ती वाले वृक्षों के ठूँठों, गिरी हुई टहनियों और मिट्टी में दबी मृत लकड़ी पर घने गुच्छों में उगता है, तथा दुनिया भर के समशीतोष्ण क्षेत्रों से भी इसके व्यापक अभिलेख मिलते हैं। इसमें वर्ष भर फलनकाय बनते हैं, जो सफेद चूर्णयुक्त सिरे वाली अलैंगिक अवस्था और कठोर काली लैंगिक अवस्था के बीच बदलते रहते हैं।",
+      "cap": "प्रत्येक सीधा स्ट्रोमा आमतौर पर 3–8 cm ऊँचा होता है, कभी-कभी 1 से 10 cm तक हो सकता है। अलग-अलग शाखाएँ 2–8 mm मोटी होती हैं और चौड़े नमूनों में 15 mm तक पहुँच सकती हैं; ये संकीर्ण बेलनाकार और नुकीली या चपटी तथा ऊपर से छोटे सींगों की तरह अनियमित रूप से शाखित होती हैं। निचला बंध्य भाग कोयले जैसा काला और महीन रोएँदार होता है, जबकि ऊपरी शाखाएँ शुरू में एक चिकने, पतले होते सफेदी या पीलापन लिए सिरे के नीचे चाक जैसे सफेद से हल्के भूरे चूर्णयुक्त कोनिडिया से ढकी रहती हैं। जैसे ही कवक अपनी लैंगिक अवस्था में परिपक्व होता है, सफेद चूर्ण गायब हो जाता है और पूरा स्ट्रोमा फीका कोयला-काला और महीन दानों वाला हो जाता है। इसमें कोई अलग टोपी नहीं होती।",
+      "hymenium": "इसमें कोई गिल्स, छिद्र या दांते नहीं होते। परिपक्व लैंगिक अवस्था में, ऊपरी स्ट्रोमा की पतली काली बाहरी परत के ठीक नीचे एक ही स्तर में छोटे फ्लास्क के आकार के पेरिथीसिया विकसित होते हैं, जिनमें से प्रत्येक एक सूक्ष्म उभरे हुए छिद्र (ऑस्टियोल) से खुलता है, जिससे सतह को महीन मस्सेदार बनावट मिलती है। पेरिथीसिया के भीतर बेलनाकार आठ-बीजाणु वाले एस्कस होते हैं, जिनका माप 100–220 × 8 µm होता है।",
+      "stipe": "इसमें कोई वास्तविक डंठल नहीं होता। स्ट्रोमा का संकरा, बेलनाकार निचला भाग उसी शरीर का छोटा, बंध्य, महीन बालों वाला काला विस्तार है, जो कभी-कभी लकड़ी से जुड़े जड़नुमा आधार के रूप में आगे बढ़ता है।",
+      "flesh": "सख्त, लचीला और काष्ठीय, पतली काली बाहरी छाल के नीचे भीतर से ठोस शुद्ध सफेद। गंध और स्वाद विशिष्ट नहीं होते।",
+      "sporePrint": "बीजाणु छाप काली होती है। लैंगिक एस्कोबीजाणु चिकने, गहरे भूरे से काले, सेम के आकार से उप-तर्कुकार होते हैं जिनमें पूरी लंबाई तक सीधी अंकुरण दरार होती है, और इनका माप 10–16 × 4–6 µm होता है। सफेद चूर्णयुक्त अवस्था में बनने वाले अलैंगिक कोनिडिया चिकने, पारदर्शी और दीर्घवृत्ताकार से तर्कुकार होते हैं, जिनका माप 5–11 × 2–3 µm होता है।",
+      "habitat": "चौड़ी पत्ती वाले वृक्षों के सड़ते ठूँठों, गिरे हुए तनों और टहनियों पर घने गुच्छों में मृतोपजीवी रूप से उगता है, अक्सर काई के बीच से बाहर निकलता है, और चीड़ जैसे शंकुधारी वृक्षों के ठूँठों पर बहुत ही कम पाया जाता है। यह प्रायः सड़ती लकड़ी पर पहले के काष्ठ-अपघटकों के बाद बसने वाले परवर्ती कवकों में से एक है। इसके फलनकाय वर्ष भर देखे जा सकते हैं: चमकीले सफेद सिरे वाले अलैंगिक स्ट्रोमा नम शरद, शीत और वसंत के मौसम में सबसे अधिक स्पष्ट होते हैं, जबकि कठोर काले लैंगिक स्ट्रोमा शरद और शीत ऋतु में परिपक्व होते हैं और लंबे समय तक बने रहते हैं।",
+      "uses": "अखाद्य। यद्यपि इसे विषाक्त नहीं माना जाता, लेकिन इसका छोटा आकार और सख्त, काष्ठीय बनावट इसे खाने के लिए अनुपयुक्त बनाती है।",
+      "confusion": "Xylaria polymorpha पतली, चपटी, सींग जैसी शाखाओं के बजाय बहुत मोटी, मजबूत, अशाखित या भोथरे पालियुक्त काली गदा जैसी संरचनाएँ बनाती है। Xylaria longipes में लंबे बंध्य डंठल पर अधिक पतली, अशाखित बेलनाकार गदाएँ होती हैं और यह मेपल की लकड़ी को पसंद करती है। Xylaria carpophila बहुत अधिक बारीक और धागे जैसी होती है, जो विशेष रूप से पत्तियों के कूड़े में गिरे हुए बीच के प्यालानुमा आवरणों पर उगती है। Calocera viscosa के फलनकाय भी इसी तरह शाखित और सींग जैसे होते हैं, लेकिन वे काले-सफेद और काष्ठीय होने के बजाय चमकीले पीले-नारंगी और जिलेटिन जैसे होते हैं।",
+      "notes": "यह कवक मुख्य रूप से सेल्यूलोज या लिग्निन को पचाने के बजाय ग्लूकन जैसे काष्ठ पॉलीसैकेराइड को तोड़ने में विशेषज्ञता रखता है, और कभी-कभी हॉथोर्न तथा गूज़बेरी में जड़ सड़न का कारण बन सकता है। इसका कवकजाल हल्की हरी जैव-संदीप्ति दर्शाता है, हालांकि यह चमक आमतौर पर नग्न मानव आँख के लिए बहुत क्षीण होती है और इसके लिए लंबे एक्सपोज़र वाली फोटोग्राफी या ताज़ा चीरी गई संक्रमित लकड़ी को अंधेरे में अभ्यस्त आँखों से देखने की आवश्यकता होती है। आणविक अध्ययनों से पता चला है कि ऐतिहासिक रूप से इस नाम के अंतर्गत रखे गए विश्वव्यापी संग्रह एक प्रजाति-संकुल बनाते हैं, जिसमें सख्त यूरोपीय प्रजाति की पुष्टि यूरोप और संयुक्त राज्य अमेरिका के पश्चिमी तट पर हुई है। इसके अर्क से साइटोचैलासिन और ज़ाइलैरियल यौगिकों सहित जैव-सक्रिय द्वितीयक उपापचयज प्राप्त हुए हैं, जिनका प्रतिसूक्ष्मजीवी और कोशिका-विषाक्त गुणों के लिए प्रयोगशाला में अध्ययन किया गया है।",
+      "sourceUrls": []
+    },
+    "hr": {
+      "names": [],
+      "description": "Vrlo česta, žilava lignikolna gljiva koja raste u gustim busenima na trulim panjevima bjelogoričnog drveća, otpalim granama i u tlu ukopanom mrtvom drvu diljem Britanije, Irske, kontinentalne Europe i zapadne Sjeverne Amerike, uz šire nalaze u umjerenim područjima diljem svijeta. Plodonosi tijekom cijele godine, izmjenjujući bespolnu fazu s bijelo naprašenim vrhovima i otvrdnutu crnu spolnu fazu.",
+      "cap": "Pojedinačna uspravna stroma obično je visoka 3–8 cm, a povremeno doseže od 1 do 10 cm. Pojedinačne su grane debele 2–8 mm, u širokih primjeraka do 15 mm, usko valjkaste i zašiljene ili spljoštene i pri vrhu nepravilno račvaste poput minijaturnog rogovlja. Sterilni donji dio je ugljenocrn i fino maljav, dok su gornje grane isprva prekrivene kredastobijelim do svijetlosivim praškastim slojem konidija ispod golog, suženog bjelkastog do žućkastog vrha. Kako gljiva sazrijeva u spolni stadij, bijeli prah nestaje, a cijela stroma postaje mat ugljenocrna i sitno bradavčasta. Zasebnog klobuka nema.",
+      "hymenium": "Nema listića, pora ni bodlji. U zrelom spolnom stadiju tik ispod tanke crne vanjske kore gornjeg dijela strome u jednom se sloju razvijaju sitni bočasti periteciji, od kojih se svaki otvara sićušnim uzdignutim otvorom (ostiolom), što površini daje fino bradavčastu teksturu. Unutar peritecija nalaze se valjkasti osmosporni askusi (vrećice) veličine 100–220 × 8 µm.",
+      "stipe": "Pravog stručka nema. Suženi, valjkasti donji dio strome kratak je, sterilan, fino dlakav crni nastavak istog plodišta, koji se ponekad produljuje u korjenastu osnovu pričvršćenu za drvo.",
+      "flesh": "Žilavo, elastično i drvenasto, iznutra puno i čisto bijelo ispod tanke crne vanjske kore. Miris i okus nisu izraženi.",
+      "sporePrint": "Otisak spora je crn. Spolne askospore su glatke, tamnosmeđe do crne, bubrežaste do gotovo vretenaste s ravnom klijavom pukotinom cijelom duljinom, veličine 10–16 × 4–6 µm. Bespolne konidije koje nastaju u bijelom praškastom stadiju glatke su, bezbojne, elipsoidne do vretenaste i mjere 5–11 × 2–3 µm.",
+      "habitat": "Saprotrofna vrsta u gustim busenima na trulim panjevima, srušenim deblima i granama bjelogoričnog drveća, često probijajući kroz mahovinu, a vrlo rijetko na panjevima crnogorice poput bora. Često je jedan od kasnijih kolonizatora raspadajućeg drva, slijedeći ranije razlagače drva. Plodišta se mogu naći tijekom cijele godine: jarko bijelo završene bespolne strome najuočljivije su za vlažnog jesenskog, zimskog i proljetnog vremena, dok otvrdnute crne spolne strome sazrijevaju u jesen i zimi te dugo opstaju.",
+      "uses": "Nejestiva. Iako se ne smatra otrovnom, njezina mala veličina i žilava, drvenasta tekstura čine je neprikladnom za jelo.",
+      "confusion": "Xylaria polymorpha tvori znatno deblje, zdepastije, nerazgranate ili tupo režnjaste crne toljage umjesto vitkih, spljoštenih grana nalik rogovlju. Xylaria longipes ima vitkije, nerazgranate valjkaste toljage na duljem sterilnom dršku i preferira javorovo drvo. Xylaria carpophila znatno je finija i nitasta te raste isključivo na otpalim bukovim kupulama u listincu. Calocera viscosa ima slično razgranata plodišta nalik rogovlju, ali je jarko žutonarančasta i želatinozna umjesto crno-bijela i drvenasta.",
+      "notes": "Gljiva je specijalizirana za razgradnju drvnih polisaharida poput glukana umjesto primarne razgradnje celuloze ili lignina, a povremeno može uzrokovati trulež korijena gloga i ogrozda. Njezin micelij pokazuje slabu zelenkastu bioluminiscenciju, iako je sjaj obično preslab za ljudsko oko bez pomagala i zahtijeva fotografiranje s dugom ekspozicijom ili promatranje svježe raskoljenog koloniziranog drva očima prilagođenima tami. Molekularna istraživanja pokazala su da zbirke iz cijelog svijeta povijesno pripisivane ovom imenu čine kompleks vrsta, pri čemu je uža europska vrsta potvrđena u Europi i duž zapadne obale Sjedinjenih Američkih Država. Iz ekstrakata su dobiveni bioaktivni sekundarni metaboliti, uključujući citohalazine i ksilarijalne spojeve, koji se proučavaju in vitro zbog antimikrobnih i citotoksičnih svojstava.",
+      "sourceUrls": []
+    },
+    "hu": {
+      "label": "szarvas agancsgomba",
+      "names": [],
+      "description": "Nagyon gyakori, szívós, fabontó gomba, amely sűrű csoportokban nő korhadó lombos tuskókon, lehullott ágakon és eltemetett holtfán Nagy-Britanniában, Írországban, a kontinentális Európában és Észak-Amerika nyugati részén, szélesebb körű előfordulási adatokkal a világ mérsékelt égövi tájairól. Egész évben terem, váltakozva egy poros, fehér csúcsú ivartalan szakasz és egy megkeményedett, fekete ivaros szakasz között.",
+      "cap": "Az egyes felálló sztrómák jellemzően 3–8 cm magasak, esetenként 1–10 cm között változnak. Az egyes ágak 2–8 mm vastagok, szélesebb példányoknál akár 15 mm-t is elérnek, keskeny hengeresek és hegyesek, vagy felül ellaposodók és szabálytalanul villásan elágazók, miniatűr agancsokra emlékeztetve. A meddő alsó rész szénfekete és finoman szőrös, míg a felső ágakat kezdetben krétafehértől halványszürkéig terjedő, poros konídiumréteg borítja a csupasz, elkeskenyedő, fehéres vagy sárgás csúcs alatt. Ahogy a gomba ivaros szakaszába érve megérik, a fehér por eltűnik, és az egész sztróma matt szénfeketévé, finoman szemölcsössé válik. Különálló kalapja nincs.",
+      "hymenium": "Lemezek, pórusok és tüskék nincsenek. Az érett ivaros szakaszban apró, palack alakú peritéciumok fejlődnek egyetlen rétegben közvetlenül a felső sztróma vékony, fekete külső kérge alatt, és mindegyik egy apró, kiemelkedő nyíláson (osztiólumon) át nyílik, ami finoman szemölcsös tapintást ad a felszínnek. A peritéciumok belsejében a hengeres, nyolcspórás tömlők (aszkuszok) 100–220 × 8 µm méretűek.",
+      "stipe": "Valódi tönkje nincs. A sztróma elkeskenyedő, hengeres alsó része ugyanennek a testnek rövid, meddő, finoman szőrös, fekete folytatása, amely néha a fához kapcsolódó gyökerező alapba nyúlik.",
+      "flesh": "Szívós, rugalmas és fás, belül tömör hófehér a vékony fekete külső kéreg alatt. Szaga és íze nem jellegzetes.",
+      "sporePrint": "A spórapor fekete. Az ivaros tömlőspórák (aszkospórák) simák, sötétbarnától feketéig terjedő színűek, bab alakútól kissé orsó alakúig változnak, teljes hosszúságú egyenes csírahasítékkal, méretük 10–16 × 4–6 µm. A fehér poros szakaszban képződő ivartalan konídiumok simák, színtelenek, ellipszoidtól orsó alakúig terjedők, 5–11 × 2–3 µm méretűek.",
+      "habitat": "Szaprotróf, sűrű csoportokban nő lombos fák korhadó tuskóin, kidőlt törzsein és ágain, gyakran mohán át törve elő, és nagyon ritkán tűlevelűek, például fenyő tuskóin. Gyakran a korhadó fa későbbi megtelepedői közé tartozik, más fabontókat követve. Termőtestei az év minden szakában megtalálhatók: az élénk fehér csúcsú ivartalan sztrómák őszi, téli és tavaszi nedves időben a legfeltűnőbbek, míg a megkeményedett fekete ivaros sztrómák ősszel és télen érnek meg, és tartósan megmaradnak.",
+      "uses": "Nem ehető. Bár nem számít mérgezőnek, kis mérete és szívós, fás állaga miatt fogyasztásra alkalmatlan.",
+      "confusion": "A Xylaria polymorpha sokkal vastagabb, zömökebb, el nem ágazó vagy tompán karéjos fekete bunkókat képez a karcsú, lapított, agancsszerű ágak helyett. A Xylaria longipes karcsúbb, el nem ágazó hengeres bunkókat fejleszt hosszabb meddő nyélen, és a juharfát részesíti előnyben. A Xylaria carpophila sokkal finomabb és fonálszerű, kifejezetten az avarban fekvő lehullott bükkmakk-kupacsokon nő. A Calocera viscosa hasonlóan elágazó, agancsszerű termőtestű, de élénk sárgásnarancs színű és kocsonyás, nem pedig fekete-fehér és fás.",
+      "notes": "A gomba inkább a fa poliszacharidjainak, például a glükánnak a lebontására specializálódott, nem elsősorban a cellulóz vagy a lignin emésztésére, és esetenként gyökérrothadást okozhat galagonyán és köszmétén. Micéliuma gyenge zöldes biolumineszcenciát mutat, bár a fény általában túl halvány a szabad emberi szem számára, és hosszú expozíciós fényképezést vagy sötéthez szoktatott szemmel végzett megfigyelést igényel frissen hasított, átszőtt faanyagon. Molekuláris vizsgálatok kimutatták, hogy a világ minden tájáról e név alá sorolt gyűjtések fajkomplexet alkotnak, a szűkebb értelemben vett európai faj jelenlétét pedig Európában és az Egyesült Államok nyugati partvidékén igazolták. Kivonataiból bioaktív másodlagos anyagcseretermékeket, köztük citokalazinokat és xilarial-vegyületeket izoláltak, amelyeket in vitro antimikrobiális és citotoxikus tulajdonságaik miatt vizsgálnak.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "id": {
+      "names": [],
+      "description": "Jamur pelapuk kayu yang sangat umum dan liat, tumbuh bergerombol rapat pada tunggul kayu keras yang membusuk, ranting tumbang, dan kayu mati yang terkubur di seluruh Inggris, Irlandia, daratan Eropa, dan Amerika Utara bagian barat, dengan laporan lebih luas di wilayah beriklim sedang di seluruh dunia. Jamur ini berbuah sepanjang tahun, bergantian antara fase aseksual berujung putih bertepung dan fase seksual hitam yang mengeras.",
+      "cap": "Setiap stroma tegak biasanya setinggi 3–8 cm, sesekali berkisar antara 1 hingga 10 cm. Cabang-cabangnya masing-masing setebal 2–8 mm, mencapai hingga 15 mm pada spesimen yang lebar, berbentuk silindris sempit dan meruncing atau pipih dan bercabang tidak beraturan di bagian atas menyerupai tanduk rusa mini. Bagian bawah yang steril berwarna hitam arang dan berbulu halus, sedangkan cabang bagian atas awalnya dilapisi konidia bertepung berwarna putih kapur hingga abu-abu pucat di bawah ujung yang gundul, meruncing, dan berwarna keputihan hingga kekuningan. Saat jamur matang memasuki tahap seksual, lapisan tepung putih menghilang dan seluruh stroma berubah menjadi hitam arang kusam dengan permukaan berbintil halus. Tidak terdapat tudung yang terpisah.",
+      "hymenium": "Tidak terdapat lamela, pori, ataupun duri. Pada tahap seksual yang matang, peritesium kecil berbentuk labu berkembang dalam satu lapisan tepat di bawah kerak luar hitam yang tipis pada stroma bagian atas, masing-masing membuka melalui pori kecil menonjol (ostiol) yang memberi permukaan tekstur berbintil halus. Di dalam peritesium, askus berbentuk silindris berspora delapan berukuran 100–220 × 8 µm.",
+      "stipe": "Tidak terdapat tangkai sejati. Bagian bawah stroma yang menyempit dan silindris merupakan kelanjutan tubuh yang sama yang pendek, steril, berwarna hitam, dan berambut halus, terkadang memanjang menjadi pangkal menyerupai akar yang melekat pada kayu.",
+      "flesh": "Liat, elastis, dan berkayu, bagian dalam padat berwarna putih murni di bawah kulit luar hitam yang tipis. Bau dan rasanya tidak khas.",
+      "sporePrint": "Jejak sporanya berwarna hitam. Askospora seksual halus, cokelat tua hingga hitam, berbentuk seperti kacang hingga agak gelendong dengan celah kecambah lurus sepanjang spora, berukuran 10–16 × 4–6 µm. Konidia aseksual yang dihasilkan pada tahap bertepung putih halus, hialin, dan berbentuk elipsoid hingga gelendong, berukuran 5–11 × 2–3 µm.",
+      "habitat": "Saprotrof yang tumbuh bergerombol rapat pada tunggul membusuk, batang tumbang, dan ranting pohon berdaun lebar, sering kali muncul menembus lumut, dan sangat jarang pada tunggul konifera seperti pinus. Jamur ini sering menjadi salah satu pengkoloni tahap lanjut pada kayu yang membusuk, menyusul jamur pelapuk kayu sebelumnya. Tubuh buah dapat ditemukan sepanjang tahun: stroma aseksual berujung putih cerah paling mencolok pada cuaca lembap musim gugur, musim dingin, dan musim semi, sedangkan stroma seksual hitam yang mengeras matang pada musim gugur dan musim dingin lalu bertahan lama.",
+      "uses": "Tidak dapat dimakan. Meskipun tidak dianggap beracun, ukurannya yang kecil serta teksturnya yang liat dan berkayu membuatnya tidak layak dikonsumsi.",
+      "confusion": "Xylaria polymorpha membentuk gada hitam yang jauh lebih tebal, gemuk, tidak bercabang, atau bercuping tumpul, alih-alih cabang ramping pipih menyerupai tanduk rusa. Xylaria longipes memiliki gada silindris yang lebih ramping dan tidak bercabang pada tangkai steril yang lebih panjang serta menyukai kayu mapel. Xylaria carpophila jauh lebih halus dan menyerupai benang, tumbuh khusus pada kupula buah pohon beech yang jatuh di serasah daun. Calocera viscosa memiliki tubuh buah bercabang menyerupai tanduk rusa yang serupa, tetapi berwarna kuning-oranye cerah dan bertekstur seperti gelatin, bukan hitam-putih dan berkayu.",
+      "notes": "Jamur ini terspesialisasi dalam menguraikan polisakarida kayu seperti glukan alih-alih terutama mencerna selulosa atau lignin, dan sesekali dapat menyebabkan busuk akar pada hawthorn dan gooseberry. Miseliumnya menunjukkan bioluminesensi kehijauan yang lemah, meskipun pendarannya biasanya terlalu redup bagi mata manusia tanpa alat bantu dan memerlukan fotografi pencahayaan panjang atau pengamatan dengan mata yang sudah beradaptasi gelap pada kayu terkolonisasi yang baru dibelah. Studi molekuler menunjukkan bahwa koleksi dari seluruh dunia yang secara historis dikaitkan dengan nama ini membentuk suatu kompleks spesies, dengan spesies Eropa dalam arti sempit terkonfirmasi di Eropa dan sepanjang Pantai Barat Amerika Serikat. Ekstraknya menghasilkan metabolit sekunder bioaktif, termasuk sitokalasin dan senyawa ksilarial, yang diteliti secara in vitro untuk sifat antimikroba dan sitotoksiknya.",
+      "sourceUrls": []
+    },
+    "it": {
+      "names": [],
+      "description": "Un fungo lignicolo molto comune e tenace che cresce in densi cespi su ceppaie marcescenti di latifoglie, rami caduti e legno morto interrato in Gran Bretagna, Irlanda, Europa continentale e Nord America occidentale, con segnalazioni più ampie nelle regioni temperate di tutto il mondo. Fruttifica tutto l'anno, alternando una fase asessuata polverulenta con punte bianche e una fase sessuata nera e indurita.",
+      "cap": "Ciascuno stroma eretto è tipicamente alto 3–8 cm, occasionalmente da 1 a 10 cm. I singoli rami sono spessi 2–8 mm, fino a 15 mm negli esemplari larghi, strettamente cilindrici e appuntiti oppure appiattiti e irregolarmente biforcati in alto come palchi di cervo in miniatura. La porzione inferiore sterile è nero carbone e finemente pelosa, mentre i rami superiori sono inizialmente ricoperti da conidi polverulenti da bianco gesso a grigio pallido sotto un apice glabro, affusolato, biancastro o giallastro. Man mano che il fungo matura nello stadio sessuato, la polvere bianca scompare e l'intero stroma diventa nero carbone opaco e finemente punteggiato. Non vi è un cappello separato.",
+      "hymenium": "Non sono presenti lamelle, pori né aculei. Nello stadio sessuato maturo si sviluppano minuscoli periteci a forma di fiasco in un unico strato appena sotto la sottile crosta esterna nera dello stroma superiore, ciascuno aprentesi tramite un minuto poro sporgente (ostiolo) che conferisce alla superficie una consistenza finemente verrucosa. All'interno dei periteci, gli aschi cilindrici ottosporici misurano 100–220 × 8 µm.",
+      "stipe": "Non vi è un vero gambo. La parte inferiore ristretta e cilindrica dello stroma è una breve continuazione nera, sterile e finemente pelosa dello stesso corpo, talvolta prolungata in una base radicante ancorata al legno.",
+      "flesh": "Tenace, elastica e legnosa, soda e bianco puro all'interno sotto la sottile scorza esterna nera. Odore e sapore non sono distintivi.",
+      "sporePrint": "L'impronta sporale è nera. Le ascospore sessuate sono lisce, da bruno scuro a nere, a forma di fagiolo o subfusiformi con una fessura germinativa diritta lungo tutta la lunghezza, e misurano 10–16 × 4–6 µm. I conidi asessuati prodotti nello stadio polverulento bianco sono lisci, ialini e da ellissoidali a fusiformi, di 5–11 × 2–3 µm.",
+      "habitat": "Saprotrofo in densi cespi su ceppaie marcescenti, tronchi caduti e rami di latifoglie, emergendo spesso attraverso il muschio, e molto raramente su ceppaie di conifere come il pino. È spesso uno dei colonizzatori tardivi del legno in decomposizione, succedendo ad altri funghi lignicoli. I corpi fruttiferi si rinvengono durante tutto l'anno: gli stromi asessuati dalle punte bianco vivo sono più evidenti con tempo umido in autunno, inverno e primavera, mentre gli stromi sessuati neri e induriti maturano in autunno e in inverno e persistono.",
+      "uses": "Non commestibile. Sebbene non sia considerato velenoso, le piccole dimensioni e la consistenza tenace e legnosa lo rendono inadatto al consumo alimentare.",
+      "confusion": "Xylaria polymorpha forma clave nere molto più spesse e tozze, non ramificate o ottusamente lobate, anziché rami sottili, appiattiti e ramificati a palco di cervo. Xylaria longipes presenta clave cilindriche più slanciate e non ramificate su uno stipite sterile più lungo e predilige il legno di acero. Xylaria carpophila è molto più sottile e filiforme e cresce specificamente sulle cupule cadute di faggio nella lettiera. Calocera viscosa ha corpi fruttiferi ramificati in modo simile a palchi, ma è di colore giallo-arancio vivo e gelatinosa anziché bianco-nera e legnosa.",
+      "notes": "Il fungo è specializzato nella degradazione dei polisaccaridi del legno come il glucano anziché digerire principalmente cellulosa o lignina, e può occasionalmente causare marciume radicale in biancospino e uva spina. Il suo micelio presenta una debole bioluminescenza verdastra, ma il bagliore è di solito troppo flebile per l'occhio umano nudo e richiede fotografie a lunga esposizione o un'osservazione adattata al buio di legno colonizzato spaccato di fresco. Studi molecolari hanno mostrato che le raccolte mondiali storicamente attribuite a questo nome costituiscono un complesso di specie, con la specie europea in senso stretto confermata in Europa e lungo la costa occidentale degli Stati Uniti. Gli estratti hanno fornito metaboliti secondari bioattivi, tra cui citocalasine e composti xilariali, studiati in vitro per le proprietà antimicrobiche e citotossiche.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "label": "カノツノタケ",
+      "names": [
+        "クロサイワイタケ",
+        "サキジロカノツノタケ"
+      ],
+      "description": "イギリス、アイルランド、ヨーロッパ大陸、北アメリカ西部の全域で、腐朽した広葉樹の切り株、落ち枝、土中に埋もれた枯死木に密に束生する、非常に普通で硬い木材腐朽性の菌です。世界中の温帯地域からも広く報告があります。年間を通じて子実体を形成し、先端が白い粉状になる無性世代と、硬化して黒くなる有性世代を交互に経ます。",
+      "cap": "直立する子座は通常高さ3–8 cmで、ときに1–10 cmになります。個々の枝は太さ2–8 mm、幅広い個体では最大15 mmに達し、細い円筒形で先端が尖るか、扁平になって上部が小さな鹿の角のように不規則に分枝します。不稔の下部は炭黒色で細かい綿毛に覆われ、上部の枝ははじめ、平滑で先細りの白っぽい色から帯黄色の先端の下側が、チョークのような白から淡灰色の粉状の分生子で覆われます。有性世代へ成熟すると白い粉は消え、子座全体がつや消しの炭黒色となり表面に細かい粒状の隆起が生じます。独立した傘はありません。",
+      "hymenium": "ひだ、管孔、針状突起はありません。成熟した有性世代では、子座上部の薄い黒い外皮のすぐ下に、小さなフラスコ形の被子器が一層に並びます。各被子器は微小に隆起した孔口で外に開き、表面に細かい疣状の質感を与えます。被子器の内部には8胞子性の円筒形の子嚢があり、大きさは100–220 × 8 µmです。",
+      "stipe": "真の柄はありません。子座の細くすぼまった円筒形の下部は、同じ子座の短く不稔な黒い細毛に覆われた連続部であり、ときに材に付着する根状の基部へ延びます。",
+      "flesh": "硬くて弾力があり木質で、薄い黒い外皮の内側は充実した純白色です。においや味に特徴はありません。",
+      "sporePrint": "胞子紋は黒色です。有性世代の子嚢胞子は平滑で暗褐色から黒色、豆形から亜紡錘形で全長にわたるまっすぐな発芽スリットをもち、大きさは10–16 × 4–6 µmです。白い粉状の時期に形成される無性世代の分生子は平滑で無色透明、楕円形から紡錘形で、大きさは5–11 × 2–3 µmです。",
+      "habitat": "広葉樹の腐朽した切り株、倒木、落ち枝に密に群生する腐生性の菌で、しばしば苔の間から立ち上がり、マツなどの針葉樹の切り株に生じることはごくまれです。初期の木材腐朽菌に続いて腐朽材に定着する後期の菌となることが多くあります。子実体は一年を通して見られ、鮮やかな白い先端をもつ無性世代の子座は湿潤な秋・冬・春に最も目立ち、硬化した黒い有性世代の子座は秋から冬にかけて成熟して長く残ります。",
+      "uses": "不食。有毒とはみなされていませんが、小型で硬く木質のため食用には適しません。",
+      "confusion": "Xylaria polymorphaは、細く扁平な鹿の角状の枝ではなく、はるかに太くずんぐりとした無分枝または鈍く浅裂した黒い棍棒状の子座を形成します。Xylaria longipesは、より長い不稔の柄の先にやや細い無分枝の円筒形の棍棒をもち、カエデ材を好みます。Xylaria carpophilaははるかに細く糸状で、落ち葉の中のブナの殻斗に特化して発生します。Calocera viscosaは同様に鹿の角状に分枝する子実体をもちますが、白黒で木質ではなく、鮮やかな黄橙色で膠質です。",
+      "notes": "セルロースやリグニンを主に分解するのではなく、グルカンなどの木材多糖類の分解に特化しており、まれにサンザシやセイヨウスグリの根腐れを引き起こすことがあります。菌糸体は弱い緑色の生物発光を示しますが、通常その光は肉眼にはかすかすぎ、長時間露光撮影や、新たに割った定着材を暗順応した目で観察する必要があります。分子系統解析により、歴史的にこの学名のもとに扱われてきた世界各地の標本は種複合体をなしており、狭義のヨーロッパ種はヨーロッパとアメリカ合衆国西海岸に分布することが確認されています。抽出物からはサイトカラシン類やキシラリア由来化合物などの生理活性二次代謝産物が得られており、試験管内で抗菌活性や細胞毒性が研究されています。",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "ko": {
+      "label": "콩꼬투리버섯",
+      "names": [],
+      "description": "영국, 아일랜드, 유럽 대륙, 북아메리카 서부 전역의 썩어가는 활엽수 그루터기, 떨어진 가지, 땅에 묻힌 고사목에 빽빽한 다발로 자라는 매우 흔하고 질긴 목재부후성 균류입니다. 전 세계 온대 지역에서도 널리 보고됩니다. 연중 자실체를 형성하며, 끝이 흰 가루로 덮이는 무성 단계와 단단한 검은색 유성 단계를 번갈아 거칩니다.",
+      "cap": "곧게 서는 각 자좌는 보통 높이 3–8 cm이며, 드물게 1–10 cm에 이릅니다. 개별 가지는 두께 2–8 mm로, 넓은 개체에서는 최대 15 mm까지 달하며, 가늘고 뾰족한 원통형이거나 납작해져 위쪽이 작은 사슴뿔처럼 불규칙하게 갈라집니다. 불임성 아랫부분은 숯처럼 검고 고운 솜털이 덮여 있으며, 위쪽 가지는 처음에 매끈하고 가늘어지는 희끄무레하거나 누르스름한 끝부분 아래쪽이 분필처럼 흰색에서 옅은 회색의 가루 같은 분생포자로 덮입니다. 유성 단계로 성숙하면 흰 가루가 사라지고 자좌 전체가 광택 없는 숯검은색으로 변하며 표면에 잔돌기가 돋습니다. 따로 구분되는 갓은 없습니다.",
+      "hymenium": "주름살, 관공, 침형 돌기가 없습니다. 성숙한 유성 단계에서는 자좌 상단의 얇고 검은 외피 바로 아래에 작은 플라스크 모양의 자낭각이 한 층으로 발달하며, 각 자낭각은 미세하게 솟은 공구로 열려 표면에 고운 사마귀 같은 질감을 줍니다. 자낭각 내부에는 포자 8개가 들어 있는 원통형 자낭이 있으며 크기는 100–220 × 8 µm입니다.",
+      "stipe": "진정한 대는 없습니다. 자좌의 좁아진 원통형 아랫부분은 같은 몸체가 이어진 짧고 불임성이며 잔털이 난 검은 부분으로, 때로 나무에 붙는 뿌리 모양의 기저부로 뻗습니다.",
+      "flesh": "질기고 탄력 있으며 목질이고, 얇은 검은 겉껍질 안쪽은 속이 꽉 찬 순백색입니다. 냄새와 맛은 뚜렷하지 않습니다.",
+      "sporePrint": "포자문은 검은색입니다. 유성 자낭포자는 매끈하고 짙은 갈색에서 검은색이며, 콩 모양에서 아방추형이고 전체 길이에 걸쳐 곧은 발아열구가 있으며 크기는 10–16 × 4–6 µm입니다. 흰 가루 단계에서 만들어지는 무성 분생포자는 매끈하고 무색투명하며 타원형에서 방추형이고 크기는 5–11 × 2–3 µm입니다.",
+      "habitat": "활엽수의 썩는 그루터기, 쓰러진 통나무, 가지에 빽빽한 무리를 이루어 자라는 부생성 균류로, 종종 이끼를 뚫고 돋아나며 소나무 같은 침엽수 그루터기에는 극히 드뭅니다. 초기 목재부후균에 이어 썩어가는 나무에 정착하는 후기 정착종인 경우가 많습니다. 자실체는 연중 관찰할 수 있으며, 밝은 흰 끝을 지닌 무성 자좌는 습한 가을, 겨울, 봄철에 가장 눈에 잘 띄고, 단단한 검은 유성 자좌는 가을과 겨울에 성숙해 오래 남습니다.",
+      "uses": "식용 부적합. 독버섯으로 여겨지지는 않지만 크기가 작고 질긴 목질이어서 먹기에 적합하지 않습니다.",
+      "confusion": "Xylaria polymorpha는 가늘고 납작한 사슴뿔 모양 가지 대신 훨씬 굵고 뭉툭하며 갈라지지 않거나 뭉뚝하게 갈래진 검은 곤봉 모양 자좌를 형성합니다. Xylaria longipes는 더 긴 불임성 자루 위에 가지가 갈라지지 않은 더 가느다란 원통형 곤봉을 가지며 단풍나무 재질을 선호합니다. Xylaria carpophila는 훨씬 가늘고 실 모양이며 낙엽층에 떨어진 너도밤나무 깍정이에 특이적으로 자랍니다. Calocera viscosa는 비슷하게 사슴뿔 모양으로 갈라진 자실체를 가지지만, 흑백의 목질이 아니라 선명한 황적색의 젤라틴질입니다.",
+      "notes": "셀룰로오스나 리그닌을 주로 분해하기보다 글루칸 같은 목재 다당류 분해에 특화되어 있으며, 때때로 산사나무와 구즈베리에서 뿌리썩음병을 일으킬 수 있습니다. 균사체는 약한 녹색 생물발광을 보이지만, 보통 맨눈으로는 보기 어려울 만큼 희미해 장노출 사진 촬영이나 갓 쪼갠 감염목을 어둠에 순응한 눈으로 관찰해야 합니다. 분자 연구에 따르면 역사적으로 이 학명에 배정된 전 세계 채집 표본들은 종 복합체를 이루며, 협의의 유럽종은 유럽과 미국 서부 해안에서 확인되었습니다. 추출물에서는 사이토칼라신과 자일라리아 계열 화합물을 포함한 생리활성 이차대사산물이 분리되어 시험관 내에서 항균 및 세포독성 특성이 연구되었습니다.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "lt": {
+      "label": "baltaviršūnis elniagrybis",
+      "names": [],
+      "description": "Labai dažnas, kietas medieną ardantis grybas, augantis tankiais kuokštais ant pūvančių lapuočių kelmų, nukritusių šakų ir žemėje esančios negyvos medienos Didžiojoje Britanijoje, Airijoje, žemyninėje Europoje ir vakarinėje Šiaurės Amerikos dalyje, o platesni radiniai žinomi vidutinio klimato regionuose visame pasaulyje. Vaisiakūnius augina ištisus metus, pereidamas iš miltuotos nelytinės stadijos baltomis viršūnėmis į sukietėjusią juodą lytinę stadiją.",
+      "cap": "Kiekviena stati stroma paprastai būna 3–8 cm aukščio, kartais nuo 1 iki 10 cm. Atskiri atšakojimai yra 2–8 mm storio, plačiuose egzemplioriuose siekia iki 15 mm, siaurai cilindriški ir smailėjantys arba suploti ir netaisyklingai išsišakoję viršuje lyg miniatiūriniai elnio ragai. Sterili apatinė dalis anglies juodumo ir smulkiai pūkuota, o viršutinės šakos iš pradžių būna padengtos kreidiškai balta ar šviesiai pilka miltuota konidijų danga žemiau plikos, smailėjančios balsvos ar gelsvos viršūnėlės. Grybui subręstant į lytinę stadiją, baltos apnašos išnyksta, ir visa stroma tampa matine anglies juodumo bei smulkiai spuoguota. Atskiros kepurėlės nėra.",
+      "hymenium": "Lakštelių, porų ir dygliukų nėra. Subrendusioje lytinėje stadijoje iškart po plona juoda viršutinės stromos žievele vienu sluoksniu išsivysto mažyčiai kolbos pavidalo periteciai, kurių kiekvienas atsiveria per smulkią iškilusią angelę (ostiolę), suteikiančią paviršiui smulkiai karpotą tekstūrą. Peritecių viduje esantys cilindriški aštuoniasporiai sakeliai (askai) yra 100–220 × 8 µm dydžio.",
+      "stipe": "Tikro koto nėra. Susiaurėjusi cilindriška apatinė stromos dalis yra trumpas, sterilus, smulkiai plaukuotas juodas to paties vaisiakūnio tęsinys, kartais pereinantis į šaknišką pamatą, prisitvirtinusį prie medienos.",
+      "flesh": "Trama kieta, elastinga ir sumedėjusi, viduje vientisa ir grynai balta po plona juoda išorine žievele. Kvapas ir skonis neišraiškingi.",
+      "sporePrint": "Sporų atspaudas juodas. Lytinės askosporos lygios, tamsiai rudos arba juodos, pupelės formos ar beveik verpstiškos, su tiesiu per visą ilgį einančiu dygimo plyšiu, 10–16 × 4–6 µm dydžio. Nelytinės konidijos, susidarančios baltos miltuotos stadijos metu, yra lygios, bespalvės, elipsiškos ar verpstiškos, 5–11 × 2–3 µm dydžio.",
+      "habitat": "Saprotrofinis grybas, augantis tankiais kuokštais ant pūvančių lapuočių medžių kelmų, nuvirtusių kamienų ir šakų, dažnai prasikalantis pro samanas, ir labai retai ant spygliuočių, pavyzdžiui, pušies, kelmų. Dažnai būna vienas vėlesnių pūvančios medienos kolonizatorių, pakeičiantis ankstyvuosius medienos ardytojus. Vaisiakūniai randami visus metus: ryškios baltaviršūnės nelytinės stromos geriausiai pastebimos drėgnais rudens, žiemos ir pavasario orais, o sukietėjusios juodos lytinės stromos subręsta rudenį ir žiemą bei išsilaiko ilgiau.",
+      "uses": "Nevalgomas. Nors nelaikomas nuodingu, dėl mažo dydžio ir kietos, sumedėjusios tramos maistui netinka.",
+      "confusion": "Xylaria polymorpha sudaro gerokai storesnes, stambesnes, nešakotas arba bukai skiautėtas juodas buoželes, o ne lieknas, suplotas, į elnio ragus panašias šakeles. Xylaria longipes turi lieknesnes nešakotas cilindriškas buoželes ant ilgesnio sterilaus kotelio ir renkasi klevo medieną. Xylaria carpophila yra daug smulkesnis ir siūliškas, auga būtent ant nukritusių buko goželių miško paklotėje. Calocera viscosa turi panašiai išsišakojusius, į ragus panašius vaisiakūnius, tačiau yra ryškiai geltonai oranžinis ir drebučiškas, o ne juodai baltas ir sumedėjęs.",
+      "notes": "Grybas specializuojasi skaidydamas medienos polisacharidus, tokius kaip gliukanas, o ne pirmiausia virškindamas celiuliozę ar ligniną, ir kartais gali sukelti gudobelių bei agrastų šaknų puvinį. Jo grybiena pasižymi silpna žalsva bioliuminescencija, tačiau švytėjimas plika žmogaus akimi paprastai yra per blankus ir jam užfiksuoti reikia ilgo išlaikymo fotografijos arba prie tamsos pripratusio žvilgsnio į šviežiai perskeltą grybo apimtą medieną. Molekuliniai tyrimai parodė, kad viso pasaulio radiniai, istoriškai priskirti šiam pavadinimui, sudaro rūšių kompleksą, o tikroji europinė rūšis patvirtinta Europoje ir palei vakarinę JAV pakrantę. Iš ekstraktų išskirta biologiškai aktyvių antrinių metabolitų, įskaitant citochalazinus ir ksilarialinius junginius, kurie tiriami in vitro dėl antimikrobinių ir citotoksinių savybių.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "lv": {
+      "label": "briežu ksilārija",
+      "names": [],
+      "description": "Ļoti bieži sastopama, sīksta koksni noārdoša sēne, kas aug blīvos ceros uz trūdošiem lapu koku celmiem, nokritušiem zariem un augsnē ieraktas atmirušas koksnes Lielbritānijā, Īrijā, kontinentālajā Eiropā un Ziemeļamerikas rietumos, bet plašāki ziņojumi aptver mērenās joslas reģionus visā pasaulē. Augļķermeņus veido visu gadu, mijoties miltainai bezdzimuma fāzei ar baltiem galiem un sacietējušai melnai dzimumfāzei.",
+      "cap": "Katra stāvā stroma parasti ir 3–8 cm augsta, reizēm no 1 līdz 10 cm. Atsevišķi zari ir 2–8 mm biezi, platākos eksemplāros sasniedzot līdz 15 mm; tie ir šauri cilindriski un smaili vai saplacināti un augšdaļā neregulāri sazaroti kā miniatūri brieža ragi. Sterilā apakšdaļa ir ogļmelna un smalki pūkaina, savukārt augšējie zari sākotnēji ir pārklāti ar krītaini baltu līdz gaiši pelēku miltainu konīdiju apsarmi zem kaila, sašaurināta bālgana līdz dzeltenīga gala. Sēnei nobriestot dzimumstadijā, baltais apsarmes slānis izzūd, un visa stroma kļūst matēti ogļmelna un smalki kārpiņaina. Atsevišķas cepurītes nav.",
+      "hymenium": "Lapiņu, poru un dzelonīšu nav. Nobriedušajā dzimumstadijā tieši zem plānās melnās augšējās stromas ārmizas vienā slānī attīstās sīki kolbveida peritēciji, no kuriem katrs atveras caur niecīgu paceltu atverīti (ostiolu), piešķirot virsmai smalki kārpainu tekstūru. Peritēciju iekšpusē cilindriskās astoņsporu somiņas (aski) ir 100–220 × 8 µm lielas.",
+      "stipe": "Īsta kātiņa nav. Sašaurinātā cilindriskā stromas apakšdaļa ir īss, sterils, smalki apmatots melns tā paša augļķermeņa turpinājums, kas reizēm pāriet sakņveida pamatnē, piestiprinātā pie koksnes.",
+      "flesh": "Mīkstums sīksts, elastīgs un pārkoksnējies, iekšpusē blīvs un tīri balts zem plānās melnās ārējās mizas. Smarža un garša nav izteiktas.",
+      "sporePrint": "Sporu nospiedums ir melns. Dzimuma askosporas ir gludas, tumši brūnas līdz melnas, pupveida līdz gandrīz vārpstveida, ar taisnu dīgšanas spraugu visā garumā, 10–16 × 4–6 µm lielas. Bezdzimuma konīdijas, kas veidojas baltajā miltainajā stadijā, ir gludas, bezkrāsainas un elipsoīdas līdz vārpstveida, 5–11 × 2–3 µm lielas.",
+      "habitat": "Saprotrofa sēne, kas aug blīvos ceros uz trūdošiem lapu koku celmiem, kritušiem stumbriem un zariem, bieži spraucoties cauri sūnām, un ļoti reti uz skuju koku, piemēram, priedes, celmiem. Bieži ir viena no vēlākajām trūdošas koksnes kolonizētājām, sekojot agrīnajām koksni noārdošajām sēnēm. Augļķermeņi atrodami visa gada garumā: spilgtās bezdzimuma stromas ar baltajiem galiem vislabāk pamanāmas mitrā rudens, ziemas un pavasara laikā, savukārt sacietējušās melnās dzimumstromas nogatavojas rudenī un ziemā un saglabājas ilgāk.",
+      "uses": "Neēdama. Lai gan tā netiek uzskatīta par indīgu, nelielais izmērs un sīkstais, pārkoksnējušais mīkstums padara to nepiemērotu uzturam.",
+      "confusion": "Xylaria polymorpha veido daudz resnākas, masīvākas, nesazarotas vai truli daivainas melnas vāles, nevis slaidas, saplacinātas, brieža ragiem līdzīgas zarotas daļas. Xylaria longipes ir slaidākas, nesazarotas cilindriskas vāles uz garāka sterila kātiņa, un tā dod priekšroku kļavas koksnei. Xylaria carpophila ir daudz smalkāka un diegveida, augot tieši uz nokritušām dižskābarža augļkausu čaulām lapu nobirās. Calocera viscosa veido līdzīgi sazarotus, ragveida augļķermeņus, taču tie ir koši dzeltenoranži un recekļaini, nevis melnbalti un pārkoksnējušies.",
+      "notes": "Sēne specializējas koksnes polisaharīdu, piemēram, glikāna, noārdīšanā, nevis galvenokārt celulozes vai lignīna sagremošanā, un reizēm var izraisīt sakņu puvi vilkābelēm un ērkšķogām. Tās micēlijam piemīt vāja zaļgana bioluminiscence, lai gan mirdzums parasti ir pārāk vājš neapbruņotai cilvēka acij un tā saskatīšanai nepieciešama fotografēšana ar garu ekspozīciju vai tumsai pielāgots skatiens uz svaigi pāršķeltu kolonizētu koksni. Molekulārie pētījumi parādījuši, ka visā pasaulē savāktie paraugi, kas vēsturiski attiecināti uz šo nosaukumu, veido sugu kompleksu, turklāt īstā Eiropas suga apstiprināta Eiropā un gar ASV rietumu krastu. No ekstraktiem izdalīti bioloģiski aktīvi sekundārie metabolīti, tostarp citohalazīni un ksilariālie savienojumi, kurus in vitro pēta pretmikrobu un citotoksisko īpašību dēļ.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "nl": {
+      "label": "Geweizwam",
+      "names": [],
+      "description": "Een zeer algemene, taaie, houtafbrekende zwam die in dichte bundels groeit op rottende loofhoutstronken, gevallen takken en begraven dood hout in Groot-Brittannië, Ierland, het Europese vasteland en westelijk Noord-Amerika, met ruimere meldingen uit gematigde streken wereldwijd. Hij vormt het hele jaar door vruchtlichamen en wisselt daarbij tussen een poederige, witgetopte ongeslachtelijke fase en een verharde zwarte geslachtelijke fase.",
+      "cap": "Elk rechtopstaand stroma is doorgaans 3–8 cm hoog, soms 1 tot 10 cm. De afzonderlijke takken zijn 2–8 mm dik, bij brede exemplaren tot 15 mm, smal cilindrisch en toegespitst of bovenaan afgeplat en onregelmatig vertakt als miniatuurgeweien. Het steriele onderste deel is houtskoolzwart en fijn donzig, terwijl de bovenste takken aanvankelijk bedekt zijn met krijtwitte tot lichtgrijze, poederige conidiën onder een kale, spits toelopende witachtige tot gelige top. Wanneer de zwam uitgroeit tot het geslachtelijke stadium, verdwijnt het witte poeder en wordt het hele stroma mat houtskoolzwart en fijn wrattig. Een afzonderlijke hoed ontbreekt.",
+      "hymenium": "Plaatjes, poriën of stekels ontbreken. In het rijpe geslachtelijke stadium ontwikkelen zich minuscuul kleine, flesvormige peritheciën in een enkele laag vlak onder de dunne zwarte buitenkorst van het bovenste stroma; elk perithecium opent via een kleine verheven porie (ostiolum), wat het oppervlak een fijn wrattige structuur geeft. Binnen in de peritheciën meten de cilindrische, achtsporige zakjes (asci) 100–220 × 8 µm.",
+      "stipe": "Een echte steel ontbreekt. Het versmalde, cilindrische onderste deel van het stroma is een korte, steriele, fijn behaarde zwarte voortzetting van hetzelfde vruchtlichaam, die soms uitloopt in een wortelende basis vastgehecht aan het hout.",
+      "flesh": "Taai, elastisch en houtachtig, van binnen stevig en zuiver wit onder de dunne zwarte buitenkorst. Geur en smaak zijn onopvallend.",
+      "sporePrint": "De sporenprint is zwart. Geslachtelijke ascosporen zijn glad, donkerbruin tot zwart, boonvormig tot bijna spoelvormig met een rechte kiemspleet over de volle lengte, en meten 10–16 × 4–6 µm. Ongeslachtelijke conidiën die in het witte poederige stadium worden gevormd zijn glad, hyalien en ellipsoïd tot spoelvormig, en meten 5–11 × 2–3 µm.",
+      "habitat": "Saprotroof in dichte bundels op rottende stronken, omgevallen stammen en takken van loofbomen, vaak door mos heen groeiend, en zeer zelden op naaldhoutstronken zoals den. De soort behoort vaak tot de latere kolonisatoren van rottend hout, na eerdere houtafbrekers. Vruchtlichamen zijn het hele jaar door te vinden: opvallende, witgetopte ongeslachtelijke stromata zijn het duidelijkst zichtbaar bij vochtig herfst-, winter- en voorjaarsweer, terwijl verharde zwarte geslachtelijke stromata in de herfst en winter rijpen en lang blijven staan.",
+      "uses": "Niet eetbaar. Hoewel de soort niet als giftig wordt beschouwd, maken de geringe grootte en de taaie, houtachtige structuur haar ongeschikt voor consumptie.",
+      "confusion": "Xylaria polymorpha vormt veel dikkere, stevigere, onvertakte of stomp gelobde zwarte knotsen in plaats van slanke, afgeplatte, geweiachtige takken. Xylaria longipes heeft slankere, onvertakte cilindrische knotsen op een langere steriele steel en geeft de voorkeur aan esdoornhout. Xylaria carpophila is veel fijner en draadvormig en groeit specifiek op gevallen beukennapjes in de strooisellaag. Calocera viscosa heeft vergelijkbaar vertakte, geweiachtige vruchtlichamen, maar is helder geeloranje en gelatineus in plaats van zwart-wit en houtachtig.",
+      "notes": "De zwam is gespecialiseerd in het afbreken van houtpolysachariden zoals glucaan in plaats van voornamelijk cellulose of lignine af te breken, en kan incidenteel wortelrot veroorzaken bij meidoorn en kruisbes. Het mycelium vertoont zwakke groenachtige bioluminescentie, al is de gloed meestal te zwak voor het blote oog en zijn lange belichtingstijden of een aan het donker aangepaste blik op vers gespleten gekoloniseerd hout nodig. Moleculair onderzoek heeft aangetoond dat collecties wereldwijd die historisch onder deze naam zijn geplaatst een soortencomplex vormen, waarbij de soort in strikte Europese zin is bevestigd in Europa en langs de westkust van de Verenigde Staten. Extracten hebben bioactieve secundaire metabolieten opgeleverd, waaronder cytochalasinen en xylariaalverbindingen, die in vitro zijn onderzocht op antimicrobiële en cytotoxische eigenschappen.",
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Xylaria_hypoxylon",
+        "https://www.gbif.org/species/5255147",
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "no": {
+      "label": "stubbehorn",
+      "names": [
+        "hornsopp"
+      ],
+      "description": "En svært vanlig, seig, vednedbrytende sopp som vokser i tette knipper på råtnende lauvtrestubber, nedfalne greiner og nedgravd død ved i Storbritannia, Irland, på det europeiske fastlandet og i vestlige Nord-Amerika, med videre funn fra tempererte strøk verden over. Den danner fruktlegemer året rundt og veksler mellom en pudret, hvitspisset ukjønnet fase og en forhardet, svart kjønnet fase.",
+      "cap": "Hvert opprett stroma er typisk 3–8 cm høyt, av og til fra 1 til 10 cm. De enkelte greinene er 2–8 mm tykke, opptil 15 mm hos brede eksemplarer, smalt sylindriske og tilspissede eller avflatede og uregelmessig gaffeldelte øverst som miniatyrgevirer. Den sterile nedre delen er kullsvart og fint dunhåret, mens de øvre greinene først er dekket av kritthvite til lysgrå, pudrete konidier nedenfor en naken, tilspisset hvitaktig til gulaktig spiss. Når soppen modnes til sitt kjønnede stadium, forsvinner det hvite pudderet, og hele stromaet blir matt kullsvart og fint vortete. Det finnes ingen egen hatt.",
+      "hymenium": "Det finnes ingen skiver, porer eller pigger. I det modne kjønnede stadiet utvikles bittesmå, flaskeformede perithecier i et enkelt lag rett under den tynne svarte ytre skorpen på det øvre stromaet; hvert perithecium åpner seg gjennom en liten opphøyd pore (ostiolum) som gir overflaten en fint vortete struktur. Inne i peritheciene måler de sylindriske, åttesporede sporesekkene (asci) 100–220 × 8 µm.",
+      "stipe": "Det finnes ingen egentlig stilk. Den avsmalnede, sylindriske nedre delen av stromaet er en kort, steril, fint håret svart fortsettelse av samme fruktlegeme, som iblant går over i en rotslående basis festet til veden.",
+      "flesh": "Seigt, elastisk og treaktig, fast og rent hvitt innvendig under den tynne svarte ytterbarken. Lukt og smak er ukarakteristiske.",
+      "sporePrint": "Sporeavtrykket er svart. Kjønnede askosporer er glatte, mørkebrune til svarte, bønneformede til svakt spoleformede med en rett spirespalte i full lengde, og måler 10–16 × 4–6 µm. Ukjønnede konidier som dannes i det hvite pudrede stadiet er glatte, hyaline og ellipsoide til spoleformede, og måler 5–11 × 2–3 µm.",
+      "habitat": "Saprotrof i tette knipper på råtnende stubber, falne stammer og greiner av lauvtrær, ofte voksende opp gjennom mose, og svært sjelden på bartrestubber som furu. Den er ofte blant de senere kolonisatorene av råtnende ved etter tidligere vednedbrytere. Fruktlegemer kan finnes gjennom hele året: lyse, hvitspissede ukjønnede stromata er mest iøynefallende i fuktig høst-, vinter- og vårvær, mens forhardede svarte kjønnede stromata modnes om høsten og vinteren og blir stående lenge.",
+      "uses": "Ikke matsopp. Selv om den ikke regnes som giftig, gjør den lille størrelsen og den seige, treaktige konsistensen den uegnet til mat.",
+      "confusion": "Xylaria polymorpha danner mye tykkere, kraftigere, ugrenede eller butt lappede svarte køller i stedet for slanke, avflatede, gevirliknende greiner. Xylaria longipes har smalere, ugrenede sylindriske køller på en lengre steril stilkdel og foretrekker lønneved. Xylaria carpophila er langt finere og trådformet, og vokser spesifikt på nedfalne bøkeskåler i strølaget. Calocera viscosa har tilsvarende grenede, gevirliknende fruktlegemer, men er klart guloransje og geléaktig i stedet for svart-hvit og treaktig.",
+      "notes": "Soppen er spesialisert på å bryte ned vedpolysakkarider som glukan fremfor primært å bryte ned cellulose eller lignin, og den kan av og til forårsake rotråte på hagtorn og stikkelsbær. Mycelet viser svak grønnlig bioluminescens, men lyset er vanligvis for svakt for det blotte øye og krever lang eksponeringstid ved fotografering eller mørketilvendte øyne på nykløyvd, gjennomvokst ved. Molekylære studier har vist at verdensomspennende innsamlinger som historisk er ført til dette navnet utgjør et artskompleks, der arten i streng europeisk forstand er bekreftet i Europa og langs vestkysten av USA. Ekstrakter har gitt bioaktive sekundærmetabolitter, inkludert cytochalasiner og xylarial-forbindelser, som er undersøkt in vitro for antimikrobielle og cytotoksiske egenskaper.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "pl": {
+      "label": "próchnilec gałęzisty",
+      "names": [],
+      "description": "Bardzo pospolity, twardy grzyb rozkładający drewno, rosnący w gęstych kępach na rozkładających się pniakach drzew liściastych, opadłych gałęziach i zagrzebanym w ziemi martwym drewnie w Wielkiej Brytanii, Irlandii, kontynentalnej Europie i zachodniej Ameryce Północnej, z szerszymi doniesieniami ze strefy umiarkowanej całego świata. Owocnikuje przez cały rok, występując naprzemiennie w stadium bezpłciowym o biało opylonych wierzchołkach oraz w stwardniałym czarnym stadium płciowym.",
+      "cap": "Pojedyncza wzniesiona podkładka ma zazwyczaj 3–8 cm wysokości, sporadycznie od 1 do 10 cm. Poszczególne odgałęzienia mają 2–8 mm grubości, a u szerokich okazów do 15 mm; są wąsko walcowate i zaostrzone lub spłaszczone i w górnej części nieregularnie rozwidlone niczym miniaturowe poroże. Płonna dolna część jest węglowoczarna i drobno omszona, natomiast górne odgałęzienia pokrywa początkowo kredowobiały do jasnoszarego, mączysty nalot konidiów, sięgający poniżej nagiego, zwężającego się białawego do żółtawego wierzchołka. Gdy grzyb dojrzewa do stadium płciowego, biały nalot zanika, a cała podkładka staje się matowo węglowoczarna i drobno brodawkowana. Odrębny kapelusz nie występuje.",
+      "hymenium": "Nie ma blaszek, rurek ani kolców. W dojrzałym stadium płciowym tuż pod cienką czarną zewnętrzną korą górnej części podkładki rozwijają się w pojedynczej warstwie drobne, butelkowate perytecja, z których każde otwiera się maleńkim uniesionym ujściem (ostiolą), nadając powierzchni drobno brodawkowatą fakturę. Wewnątrz perytecjów znajdują się walcowate, ośmiozarodnikowe worki o wymiarach 100–220 × 8 µm.",
+      "stipe": "Prawdziwy trzon nie występuje. Zwężona, walcowata dolna część podkładki stanowi krótkie, płonne, drobno owłosione czarne przedłużenie tego samego owocnika, niekiedy wydłużone w korzeniastą podstawę przyrośniętą do drewna.",
+      "flesh": "Twardy, elastyczny i zdrewniały, w środku pełny i czysto biały pod cienką czarną skórką zewnętrzną. Zapach i smak są niewyraźne.",
+      "sporePrint": "Wysyp zarodników jest czarny. Płciowe askospory są gładkie, ciemnobrązowe do czarnych, fasolkowate do niemal wrzecionowatych, z prostą porą rostkową biegnącą wzdłuż całej długości, o wymiarach 10–16 × 4–6 µm. Bezpłciowe konidia wytwarzane w białym, mączystym stadium są gładkie, bezbarwne, elipsoidalne do wrzecionowatych i mierzą 5–11 × 2–3 µm.",
+      "habitat": "Gatunek saprotroficzny, rosnący w gęstych kępach na gnijących pniakach, powalonych kłodach i gałęziach drzew liściastych, często wyrastający spośród mchu, a bardzo rzadko na pniakach drzew iglastych, takich jak sosna. Często należy do późniejszych kolonizatorów rozkładającego się drewna, pojawiając się po wcześniejszych grzybach rozkładających drewno. Owocniki można spotkać przez cały rok: jaskrawo biało zakończone podkładki bezpłciowe są najbardziej rzucające się w oczy przy wilgotnej jesiennej, zimowej i wiosennej pogodzie, podczas gdy stwardniałe czarne podkładki płciowe dojrzewają jesienią i zimą oraz długo się utrzymują.",
+      "uses": "Niejadalny. Choć nie jest uznawany za trujący, jego niewielkie rozmiary oraz twarda, zdrewniała konsystencja sprawiają, że nie nadaje się do spożycia.",
+      "confusion": "Xylaria polymorpha tworzy znacznie grubsze, bardziej krępe, nierozgałęzione lub tępo klapowane czarne maczugi zamiast smukłych, spłaszczonych, rogowatych odgałęzień. Xylaria longipes ma smuklejsze, nierozgałęzione walcowate maczugi na dłuższym płonnym trzonku i preferuje drewno klonowe. Xylaria carpophila jest znacznie delikatniejsza i nitkowata oraz rośnie wyłącznie na opadłych okrywach owocowych buku w ściółce. Calocera viscosa ma podobnie rozgałęzione, przypominające poroże owocniki, lecz jest jaskrawo żółtopomarańczowa i galaretowata, a nie czarno-biała i zdrewniała.",
+      "notes": "Grzyb specjalizuje się w rozkładzie polisacharydów drewna, takich jak glukan, zamiast przede wszystkim trawić celulozę lub ligninę, i może sporadycznie powodować zgniliznę korzeni głogu oraz agrestu. Jego grzybnia wykazuje słabą zielonkawą bioluminescencję, choć świecenie jest zazwyczaj zbyt słabe dla nieuzbrojonego ludzkiego oka i wymaga fotografii z długim czasem naświetlania lub obserwacji świeżo rozłupanego skolonizowanego drewna wzrokiem zaadaptowanym do ciemności. Badania molekularne wykazały, że zbiory z całego świata tradycyjnie zaliczane do tej nazwy tworzą kompleks gatunków, przy czym właściwy gatunek europejski potwierdzono w Europie oraz wzdłuż zachodniego wybrzeża Stanów Zjednoczonych. Z ekstraktów wyizolowano bioaktywne metabolity wtórne, w tym cytochalazyny i związki ksylariowe, badane in vitro pod kątem właściwości przeciwdrobnoustrojowych i cytotoksycznych.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "pt": {
+      "names": [],
+      "description": "Um fungo lignícola muito comum e coriáceo que cresce em tufos densos sobre cepos apodrecidos de folhosas, ramos caídos e madeira morta enterrada na Grã-Bretanha, na Irlanda, na Europa continental e no oeste da América do Norte, com registos mais alargados nas regiões temperadas de todo o mundo. Frutifica durante todo o ano, alternando entre uma fase assexuada pulverulenta de pontas brancas e uma fase sexuada negra e endurecida.",
+      "cap": "Cada estroma ereto mede tipicamente 3–8 cm de altura, variando ocasionalmente de 1 a 10 cm. Os ramos individuais têm 2–8 mm de espessura, atingindo até 15 mm em exemplares largos, estreitamente cilíndricos e pontiagudos ou achatados e irregularmente bifurcados no topo, semelhantes a hastes de veado em miniatura. A porção inferior estéril é preto-carvão e finamente penugenta, enquanto os ramos superiores são inicialmente revestidos por conídios pulverulentos de cor branco-giz a cinzento-pálido abaixo de um ápice glabro, afilado e esbranquiçado a amarelado. À medida que o fungo amadurece para o seu estádio sexuado, o pó branco desaparece e todo o estroma torna-se preto-carvão mate e finamente granuloso. Não apresenta chapéu distinto.",
+      "hymenium": "Não apresenta lâminas, poros nem espinhos. No estádio sexuado maduro, desenvolvem-se minúsculos peritécios em forma de frasco numa única camada logo abaixo da fina crosta externa negra do estroma superior, abrindo-se cada um através de um minúsculo poro saliente (ostíolo) que confere à superfície uma textura finamente verrugosa. No interior dos peritécios, os ascos cilíndricos octospóricos medem 100–220 × 8 µm.",
+      "stipe": "Não existe um estipe verdadeiro. A parte inferior estreitada e cilíndrica do estroma é uma continuação curta, estéril, negra e finamente pilosa do mesmo corpo, prolongando-se por vezes numa base radicante presa à madeira.",
+      "flesh": "Coriácea, elástica e lenhosa, maciça e de um branco puro no interior sob a fina casca externa negra. O odor e o sabor não são distintivos.",
+      "sporePrint": "A esporada é negra. Os ascósporos sexuados são lisos, castanho-escuros a negros, em forma de feijão a subfusoides com uma fenda germinativa reta ao longo de todo o comprimento, medindo 10–16 × 4–6 µm. Os conídios assexuados produzidos na fase pulverulenta branca são lisos, hialinos e elipsoides a fusiformes, medindo 5–11 × 2–3 µm.",
+      "habitat": "Saprotrófico em tufos densos sobre cepos apodrecidos, troncos caídos e ramos de árvores folhosas, emergindo frequentemente através do musgo, e muito raramente sobre cepos de coníferas como o pinheiro. É frequentemente um dos colonizadores tardios da madeira em decomposição, sucedendo a outros fungos decompositores de madeira. Os corpos frutíferos podem ser encontrados ao longo de todo o ano: os estromas assexuados de pontas brancas vivas são mais visíveis em tempo húmido no outono, inverno e primavera, enquanto os estromas sexuados negros e endurecidos amadurecem no outono e no inverno e persistem.",
+      "uses": "Não comestível. Embora não seja considerado venenoso, o seu pequeno tamanho e a textura coriácea e lenhosa tornam-no impróprio para consumo.",
+      "confusion": "Xylaria polymorpha forma clavas negras muito mais grossas e robustas, não ramificadas ou com lobos obtusos, em vez de ramos delgados, achatados e semelhantes a hastes de veado. Xylaria longipes apresenta clavas cilíndricas mais finas e não ramificadas sobre um pé estéril mais comprido e prefere madeira de ácer. Xylaria carpophila é muito mais fina e filiforme, crescendo especificamente em cúpulas caídas de faia na folhada. Calocera viscosa tem corpos frutíferos ramificados de forma semelhante a hastes, mas é amarelo-alaranjada viva e gelatinosa em vez de preta e branca e lenhosa.",
+      "notes": "O fungo é especializado na degradação de polissacáridos da madeira, como o glucano, em vez de digerir principalmente celulose ou lenhina, podendo causar ocasionalmente podridão radicular em pilriteiro e groselheira-espinhosa. O seu micélio exibe uma fraca bioluminescência esverdeada, embora o brilho seja geralmente demasiado ténue para o olho humano desarmado e exija fotografia de longa exposição ou uma observação adaptada ao escuro de madeira colonizada recém-rachada. Estudos moleculares mostraram que colheitas mundiais historicamente atribuídas a este nome formam um complexo de espécies, com a espécie europeia em sentido estrito confirmada na Europa e ao longo da costa oeste dos Estados Unidos. Os extratos forneceram metabolitos secundários bioativos, incluindo citocalasinas e compostos xilariais, estudados in vitro pelas suas propriedades antimicrobianas e citotóxicas.",
+      "sourceUrls": []
+    },
+    "ro": {
+      "label": "coarnele cerbului",
+      "names": [],
+      "description": "O ciupercă lignicolă foarte comună și rezistentă, care crește în tufe dense pe cioate putrezite de foioase, ramuri căzute și lemn mort îngropat din Marea Britanie, Irlanda, Europa continentală și vestul Americii de Nord, cu semnalări mai largi în regiunile temperate din întreaga lume. Fructifică pe tot parcursul anului, alternând între o fază asexuată pulverulentă cu vârfuri albe și o fază sexuată neagră, întărită.",
+      "cap": "Fiecare stromă erectă are de obicei 3–8 cm înălțime, variind ocazional între 1 și 10 cm. Ramurile individuale au 2–8 mm grosime, ajungând până la 15 mm la exemplarele late, fiind îngust cilindrice și ascuțite sau aplatizate și neregulat bifurcate spre vârf, asemănătoare unor coarne de cerb în miniatură. Partea inferioară sterilă este negru-cărbune și fin pufoasă, în timp ce ramurile superioare sunt acoperite inițial de conidii pulverulente alb-cretos până la gri-pal, sub un vârf glabru, subțiat, albicios până la gălbui. Pe măsură ce ciuperca ajunge la stadiul sexuat, pulberea albă dispare, iar întreaga stromă devine negru-cărbune mată și fin granulată. Nu are o pălărie separată.",
+      "hymenium": "Nu are lamele, pori sau aculi. În stadiul sexuat matur, peritecii minusculi în formă de butelie se dezvoltă într-un singur strat chiar sub crusta externă neagră și subțire a stromei superioare, fiecare deschizându-se printr-un por minuscul proeminent (ostiol) care conferă suprafeței o textură fin verucoasă. În interiorul periteciilor, ascii cilindrici octospori măsoară 100–220 × 8 µm.",
+      "stipe": "Nu există un picior adevărat. Partea inferioară îngustată și cilindrică a stromei este o continuare scurtă, sterilă, neagră și fin păroasă a aceluiași corp, prelungindu-se uneori într-o bază radicantă fixată pe lemn.",
+      "flesh": "Rezistentă, elastică și lemnoasă, plină și de un alb pur la interior, sub scoarța externă neagră și subțire. Mirosul și gustul nu sunt distinctive.",
+      "sporePrint": "Amprenta sporală este neagră. Ascosporii sexuați sunt netezi, brun-închis până la negri, în formă de bob de fasole până la subfuzoizi, cu o fantă germinativă dreaptă pe toată lungimea, măsurând 10–16 × 4–6 µm. Conidiile asexuate produse în stadiul pulverulent alb sunt netede, hialine și elipsoidale până la fusiforme, măsurând 5–11 × 2–3 µm.",
+      "habitat": "Saprotrofă în tufe dense pe cioate putrezite, bușteni căzuți și ramuri de foioase, ieșind adesea prin mușchi, și foarte rar pe cioate de conifere precum pinul. Este adesea unul dintre colonizatorii târzii ai lemnului aflat în descompunere, urmând după alte ciuperci lignicole. Corpurile fructifere pot fi întâlnite tot anul: stromele asexuate cu vârfuri alb-strălucitor sunt cel mai vizibile pe vreme umedă toamna, iarna și primăvara, în timp ce stromele sexuate negre și întărite ajung la maturitate toamna și iarna și persistă.",
+      "uses": "Necomestibil. Deși nu este considerată otrăvitoare, dimensiunile mici și textura rezistentă, lemnoasă o fac improprie pentru consum.",
+      "confusion": "Xylaria polymorpha formează măciuci negre mult mai groase și robuste, neramificate sau cu lobi obtuzi, în locul ramurilor subțiri, aplatizate și ramificate. Xylaria longipes are măciuci cilindrice mai zvelte, neramificate, pe un pedicel steril mai lung și preferă lemnul de arțar. Xylaria carpophila este mult mai fină și filiformă, crescând specific pe cupulele căzute de fag din litieră. Calocera viscosa are corpuri fructifere ramificate asemănător, dar este galben-portocaliu aprins și gelatinoasă, nu alb-neagră și lemnoasă.",
+      "notes": "Ciuperca este specializată în descompunerea polizaharidelor din lemn, precum glucanul, mai degrabă decât în digestia principală a celulozei sau ligninei, și poate provoca ocazional putrezirea rădăcinilor la păducel și agriș. Miceliul său prezintă o bioluminescență verzuie slabă, însă strălucirea este de obicei prea palidă pentru ochiul liber și necesită fotografie cu expunere lungă sau observarea adaptată la întuneric a lemnului colonizat proaspăt despicat. Studiile moleculare au arătat că recoltările din întreaga lume atribuite istoric acestui nume formează un complex de specii, specia europeană în sens strict fiind confirmată în Europa și de-a lungul coastei de vest a Statelor Unite. Extractele au furnizat metaboliți secundari bioactivi, inclusiv citocalazine și compuși xilariali, studiați in vitro pentru proprietățile lor antimicrobiene și citotoxice.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "ru": {
+      "label": "ксилярия гипоксилон",
+      "names": [],
+      "description": "Очень распространенный жесткий дереворазрушающий гриб, растущий плотными группами на гниющих пнях лиственных пород, опавших ветвях и погребенной в почве мертвой древесине в Великобритании, Ирландии, континентальной Европе и на западе Северной Америки; более широкие находки отмечены в умеренных регионах по всему миру. Плодоносит круглый год, сменяя мучнистую бесполую стадию с белыми кончиками на твердую черную половую стадию.",
+      "cap": "Каждая прямостоячая строма обычно достигает 3–8 см в высоту, иногда от 1 до 10 см. Отдельные ветви имеют толщину 2–8 мм, а у широких экземпляров до 15 мм; они узкоцилиндрические и заостренные либо уплощенные и неправильно разветвленные в верхней части наподобие миниатюрных оленьих рогов. Стерильная нижняя часть угольно-черная и тонкоопушенная, тогда как верхние ветви сначала покрыты меловидным белым или бледно-серым мучнистым налетом конидий ниже голой, сужающейся беловатой или желтоватой верхушки. По мере созревания половой стадии белый налет исчезает, и вся строма становится матово-угольно-черной и мелкобугорчатой. Обособленной шляпки нет.",
+      "hymenium": "Пластинок, пор и шипиков нет. В зрелой половой стадии под тонкой черной наружной коркой верхней части стромы в один слой развиваются крошечные бутылковидные перитеции, каждый из которых открывается наружу мелким приподнятым отверстием (остиолой), придающим поверхности мелкобородавчатую фактуру. Внутри перитециев расположены цилиндрические восьмиспоровые сумки (аски) размером 100–220 × 8 мкм.",
+      "stipe": "Настоящей ножки нет. Суженная цилиндрическая нижняя часть стромы представляет собой короткое стерильное тонкоопушенное черное продолжение того же плодового тела, иногда переходящее в корневидное основание, прикрепленное к древесине.",
+      "flesh": "Жесткая, упругая и деревянистая, внутри плотная и чисто-белая под тонкой черной наружной коркой. Запах и вкус невыразительные.",
+      "sporePrint": "Споровый порошок черный. Половые аскоспоры гладкие, от темно-коричневых до черных, бобовидные или почти веретеновидные, с прямой продольной ростковой щелью, размером 10–16 × 4–6 мкм. Бесполые конидии, образующиеся на стадии белого мучнистого налета, гладкие, бесцветные, эллипсоидные или веретеновидные, размером 5–11 × 2–3 мкм.",
+      "habitat": "Сапротрофный вид, растущий плотными группами на гниющих пнях, валежных стволах и ветвях лиственных деревьев, нередко пробиваясь сквозь мох, и очень редко на пнях хвойных пород, таких как сосна. Часто выступает одним из более поздних колонизаторов разлагающейся древесины, сменяя ранние дереворазрушающие грибы. Плодовые тела встречаются в течение всего года: яркие бесполые стромы с белыми верхушками наиболее заметны во влажную погоду осенью, зимой и весной, а твердые черные половые стромы созревают осенью и зимой и долго сохраняются.",
+      "uses": "Несъедобный. Хотя гриб не считается ядовитым, небольшие размеры и жесткая деревянистая мякоть делают его непригодным для употребления в пищу.",
+      "confusion": "Xylaria polymorpha образует гораздо более толстые, массивные, неразветвленные или туполопастные черные булавы, а не тонкие уплощенные ветви, похожие на оленьи рога. Xylaria longipes формирует более стройные неразветвленные цилиндрические булавы на более длинной стерильной ножке и предпочитает древесину клена. Xylaria carpophila значительно тоньше и нитевидная, растет исключительно на опавших плюсках бука в листовом опаде. Calocera viscosa имеет сходные разветвленные роговидные плодовые тела, но они ярко-желто-оранжевые и студенистые, а не черно-белые и деревянистые.",
+      "notes": "Гриб специализируется на расщеплении полисахаридов древесины, таких как глюкан, а не на преимущественном разложении целлюлозы или лигнина, и изредка может вызывать корневую гниль у боярышника и крыжовника. Его мицелий обладает слабой зеленоватой биолюминесценцией, однако свечение обычно слишком тусклое для невооруженного человеческого глаза и требует съемки с длинной выдержкой либо наблюдения адаптированным к темноте зрением на свежерасколотой колонизированной древесине. Молекулярные исследования показали, что сборы со всего мира, исторически относимые к этому названию, образуют видовой комплекс, при этом собственно европейский вид подтвержден в Европе и вдоль западного побережья США. Из экстрактов выделены биологически активные вторичные метаболиты, включая цитохалазины и соединения ксилариального ряда, изучаемые in vitro на антимикробную и цитотоксическую активность.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "sk": {
+      "label": "drevnatec parohatý",
+      "names": [
+        "drevnatka obyčajná"
+      ],
+      "description": "Veľmi hojná, húževnatá drevokazná huba, ktorá rastie v hustých trsoch na rozkladajúcich sa pňoch listnatých stromov, popadaných konároch a v pôde pochovanom odumretom dreve v Británii, Írsku, kontinentálnej Európe a na západe Severnej Ameriky, pričom širšie nálezy pochádzajú z mierneho pásma po celom svete. Plodí celoročne a strieda nepohlavnú fázu s bielymi pomúčenými končekmi a stvrdnutú čiernu pohlavnú fázu.",
+      "cap": "Jednotlivá vzpriamená stróma býva zvyčajne 3–8 cm vysoká, ojedinele dosahuje 1 až 10 cm. Jednotlivé vetvy sú 2–8 mm hrubé, u širších plodníc až do 15 mm, úzko valcovité a zahrotené alebo sploštené a v hornej časti nepravidelne rozkonárené ako miniatúrne parohy. Sterilná spodná časť je uhoľnočierna a jemne plstnatá, zatiaľ čo horné vetvy sú spočiatku pokryté kriedovobielym až bledosivým práškovitým povlakom konídií pod holou, zužujúcou sa belavou až žltkastou špičkou. Keď huba dozrie do pohlavného štádia, biely prášok zmizne a celá stróma sa zmení na matnú uhoľnočiernu a jemne bradavičnatú. Samostatný klobúk chýba.",
+      "hymenium": "Nemá lupene, rúrky ani ostne. V zrelom pohlavnom štádiu sa tesne pod tenkou čiernou vonkajšou kôrou hornej časti strómy vytvárajú v jednej vrstve drobné bankovité peritéciá, z ktorých každé ústi drobným vyvýšeným otvorom (ostiolou), čo dodáva povrchu jemne bradavičnatý vzhľad. Vnútri peritécií sa nachádzajú valcovité osemvýtrusové vrecká s rozmermi 100–220 × 8 µm.",
+      "stipe": "Pravý hlúbik chýba. Zúžená, valcovitá spodná časť strómy tvorí krátke, sterilné, jemne chlpaté čierne pokračovanie tej istej plodnice, niekedy predĺžené do koreňujúcej bázy prirastenej k drevu.",
+      "flesh": "Húževnatá, pružná a drevnatá, vnútri plná a čisto biela pod tenkou čiernou vonkajšou kôrou. Vôňa a chuť sú nevýrazné.",
+      "sporePrint": "Výtrusný prach je čierny. Pohlavné askospóry sú hladké, tmavohnedé až čierne, obličkovité až mierne vretenovité s priamou klíčnou štrbinou po celej dĺžke a merajú 10–16 × 4–6 µm. Nepohlavné konídie tvoriace sa v bielom práškovitom štádiu sú hladké, bezfarebné, elipsovité až vretenovité a merajú 5–11 × 2–3 µm.",
+      "habitat": "Saprotrofná huba rastúca v hustých trsoch na rozkladajúcich sa pňoch, padnutých kmeňoch a konároch listnatých stromov, často prerastajúca cez mach, a len veľmi zriedkavo na pňoch ihličnanov, napríklad borovice. Často patrí medzi neskorších kolonizátorov rozkladajúceho sa dreva a nasleduje po skorších drevokazných hubách. Plodnice možno nájsť počas celého roka: nápadné nepohlavné strómy s bielymi končekmi vynikajú najmä za vlhkého jesenného, zimného a jarného počasia, zatiaľ čo stvrdnuté čierne pohlavné strómy dozrievajú na jeseň a v zime a dlho vytrvávajú.",
+      "uses": "Nejedlá. Hoci sa nepovažuje za jedovatú, jej malé rozmery a húževnatá, drevnatá konzistencia ju robia nevhodnou na konzumáciu.",
+      "confusion": "Xylaria polymorpha vytvára oveľa hrubšie, zavalitejšie, nerozkonárené alebo tupo laločnaté čierne kyjaky namiesto štíhlych, sploštených, parohatých vetiev. Xylaria longipes má štíhlejšie, nerozkonárené valcovité kyjaky na dlhšej sterilnej stopke a uprednostňuje javorové drevo. Xylaria carpophila je oveľa jemnejšia a nitkovitá a rastie špecificky na popadaných bukových čiaškach v opadanke. Calocera viscosa má podobne rozkonárené, parohaté plodnice, ale je jasne žltooranžová a rôsolovitá, nie čiernobiela a drevnatá.",
+      "notes": "Huba sa špecializuje na rozklad drevených polysacharidov, ako je glukán, skôr než na primárne trávenie celulózy či lignínu, a príležitostne môže spôsobovať hnilobu koreňov hlohu a egreša. Jej mycélium vykazuje slabú zelenkastú bioluminiscenciu, hoci žiara je zvyčajne príliš slabá pre voľné ľudské oko a vyžaduje fotografovanie s dlhou expozíciou alebo pohľad očami prispôsobenými tme na čerstvo rozštiepené kolonizované drevo. Molekulárne štúdie ukázali, že celosvetové zbery historicky priraďované k tomuto menu tvoria druhový komplex, pričom vlastný európsky druh bol potvrdený v Európe a pozdĺž západného pobrežia Spojených štátov. Z extraktov boli izolované bioaktívne sekundárne metabolity vrátane cytochalazínov a xylariálových zlúčenín, ktoré sa skúmajú in vitro pre antimikrobiálne a cytotoxické účinky.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147",
+        "https://botany.cz/cs/xylaria-hypoxylon/"
+      ]
+    },
+    "sl": {
+      "label": "vitka lesenjača",
+      "names": [],
+      "description": "Zelo pogosta, žilava gliva, ki razkraja les in raste v gostih šopih na trohnečih štorih listavcev, odpadlih vejah ter v prsti zakopanem odmrlem lesu v Britaniji, na Irskem, v celinski Evropi in zahodni Severni Ameriki, s širšimi najdbami v zmernem pasu po vsem svetu. Obrodi vse leto ter izmenjuje nespolno fazo z belo poprašenimi konicami in otrdelo črno spolno fazo.",
+      "cap": "Posamezna pokončna stroma je običajno visoka 3–8 cm, občasno od 1 do 10 cm. Posamezne veje so debele 2–8 mm, pri širokih primerkih do 15 mm, ozko valjaste in koničaste ali sploščene ter v zgornjem delu nepravilno razvejane kot miniaturno rogovje. Sterilni spodnji del je ogljeno črn in fino puhast, zgornje veje pa so sprva prekrite s kredasto belim do bledo sivim prašnatim poprhom konidijev pod golo, zoženo belkasto do rumenkasto konico. Ko gliva dozori v spolno fazo, beli prah izgine in celotna stroma postane matirano ogljeno črna ter drobno mozoljasta. Ločenega klobuka nima.",
+      "hymenium": "Nima lističev, cevk ali iglic. V zreli spolni fazi se tik pod tanko črno zunanjo skorjo zgornjega dela strome v eni plasti razvijejo drobni stekleničasti periteciji, pri čemer se vsak odpira skozi drobno dvignjeno odprtino (ostiolo), ki daje površini fino bradavičasto teksturo. V peritecijih so valjasti osemtrosni askusi (mešički) velikosti 100–220 × 8 µm.",
+      "stipe": "Pravega beta nima. Zoženi, valjasti spodnji del strome je kratko, sterilno, fino dlakavo črno nadaljevanje istega trosnjaka, ki se včasih podaljša v koreninasto osnovo, priraščeno na les.",
+      "flesh": "Žilavo, prožno in olesenelo, znotraj polno in čisto belo pod tanko črno zunanjo skorjo. Vonj in okus sta neizrazita.",
+      "sporePrint": "Trosni prah je črn. Spolne askospore so gladke, temno rjave do črne, fižolaste do skoraj vretenaste z ravno kalitveno režo po vsej dolžini, velike 10–16 × 4–6 µm. Nespolni konidiji, ki nastajajo v beli prašnati fazi, so gladki, brezbarvni, elipsoidni do vretenasti in merijo 5–11 × 2–3 µm.",
+      "habitat": "Saprotrofna vrsta, ki raste v gostih šopih na trohnečih štorih, podrtih deblih in vejah listavcev, pogosto skozi mah, in le zelo redko na štorih iglavcev, kot je bor. Pogosto je med poznejšimi naseljevalci razpadajočega lesa, saj sledi zgodnejšim lesnim razkrojevalcem. Trosnjake je mogoče najti vse leto: izrazito belo obrobljene nespolne strome so najbolj opazne v vlažnem jesenskem, zimskem in spomladanskem vremenu, medtem ko otrdele črne spolne strome dozorijo jeseni in pozimi ter dolgo vztrajajo.",
+      "uses": "Neužitna. Čeprav ne velja za strupeno, je zaradi majhne velikosti ter žilave, olesenele teksture neprimerna za uživanje.",
+      "confusion": "Xylaria polymorpha tvori precej debelejše, čokatejše, nerazvejane ali topo krpaste črne kijce namesto vitkih, sploščenih, rogovju podobnih vej. Xylaria longipes ima vitkejše, nerazvejane valjaste kijce na daljšem sterilnem peclju in daje prednost javorjevemu lesu. Xylaria carpophila je precej finejša in nitasta ter raste posebej na odpadlih bukovih lupinah v listnem opadu. Calocera viscosa ima podobno razvejane, rogovju podobne trosnjake, vendar je živo rumeno-oranžna in želatinasta, ne pa črno-bela in olesenela.",
+      "notes": "Gliva je specializirana za razgradnjo lesnih polisaharidov, kot je glukan, namesto da bi primarno razgrajevala celulozo ali lignin, občasno pa lahko povzroča gnilobo korenin pri glogu in kosmulji. Njen micelij izkazuje šibko zelenkasto bioluminiscenco, čeprav je sij običajno prešibak za prosto človeško oko in zahteva fotografiranje z dolgo osvetlitvijo ali opazovanje sveže razcepljenega koloniziranega lesa z očmi, prilagojenimi temi. Molekularne raziskave so pokazale, da svetovne zbirke, zgodovinsko uvrščene pod to ime, tvorijo kompleks vrst, pri čemer je bila ožje opredeljena evropska vrsta potrjena v Evropi in vzdolž zahodne obale Združenih držav Amerike. Iz izvlečkov so izolirali bioaktivne sekundarne metabolite, vključno s citohalazini in ksilarijskimi spojinami, ki jih proučujejo in vitro glede protimikrobnih in citotoksičnih lastnosti.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "sr": {
+      "label": "рогата дрварица",
+      "names": [],
+      "description": "Веома честа, жилава лигниколна гљива која расте у густим бусенима на трулим пањевима листопадног дрвећа, опалим гранама и у земљи закопаном мртвом дрвету широм Британије, Ирске, континенталне Европе и западне Северне Америке, уз шире налазе у умереним пределима широм света. Плодоноси током целе године, смењујући бесполну фазу са бело напудерисаним врховима и отврдлу црну полну фазу.",
+      "cap": "Појединачна усправна строма обично је висока 3–8 cm, а повремено достиже од 1 до 10 cm. Појединачне гране су дебеле 2–8 mm, код широких примерака до 15 mm, уско ваљкасте и зашиљене или спљоштене и при врху неправилно рачвасте попут минијатурних рогова. Стерилни доњи део је угљеноцрн и фино маљав, док су горње гране испрва прекривене кредастобелим до светлосивим прашкастим слојем конидија испод голог, суженог беличастог до жућкастог врха. Како гљива сазрева у полни стадијум, бели прах нестаје и цела строма постаје мат угљеноцрна и ситно брадавичаста. Засебног шешира нема.",
+      "hymenium": "Нема листића, цевчица, пора ни бодљи. У зрелом полном стадијуму тик испод танке црне спољашње коре горњег дела строме у једном слоју се развијају ситне бочасте перитеције, од којих се свака отвара сићушним уздигнутим отвором (остиолом), што површини даје фино брадавичасту текстуру. Унутар перитеција налазе се ваљкасти осмоспорни аскуси (врећице) величине 100–220 × 8 µm.",
+      "stipe": "Праве дршке нема. Сужени, ваљкасти доњи део строме је кратак, стерилан, фино длакав црни наставак истог плодног тела, који се понекад продужава у коренолику основу причвршћену за дрво.",
+      "flesh": "Жилаво, еластично и дрвенасто, изнутра пуно и чисто бело испод танке црне спољашње коре. Мирис и укус нису изражени.",
+      "sporePrint": "Отисак спора је црн. Полне аскоспоре су глатке, тамносмеђе до црне, пасуљасте до готово вретенасте са правом клијавом пукотином целом дужином, величине 10–16 × 4–6 µm. Бесполне конидије које настају у белом прашкастом стадијуму глатке су, безбојне, елипсоидне до вретенасте и мере 5–11 × 2–3 µm.",
+      "habitat": "Сапротрофна врста у густим бусенима на трулим пањевима, обореним деблима и гранама листопадног дрвећа, често избијајући кроз маховину, а веома ретко на пањевима четинара попут бора. Често је један од каснијих колонизатора распадајућег дрвета, након ранијих разлагача дрвета. Плодна тела могу се наћи током целе године: јарко бело завршене бесполне строме најуочљивије су по влажном јесењем, зимском и пролећном времену, док отврдле црне полне строме сазревају у јесен и зими и дуго опстају.",
+      "uses": "Нејестива. Иако се не сматра отровном, њена мала величина и жилава, дрвенаста текстура чине је непогодном за јело.",
+      "confusion": "Xylaria polymorpha образује знатно дебље, здепастије, неразгранате или тупо режњевите црне батине уместо витких, спљоштених грана налик роговима. Xylaria longipes има виткије, неразгранате ваљкасте батине на дужој стерилној дршци и преферира јаворово дрво. Xylaria carpophila је знатно финија и кончаста и расте искључиво на опалим буковим купулама у стељи. Calocera viscosa има слично разграната плодна тела налик роговима, али је јарко жутонаранџаста и желатинозна уместо црно-бела и дрвенаста.",
+      "notes": "Гљива је специјализована за разградњу дрвних полисахарида попут глукана уместо примарне разградње целулозе или лигнина, а повремено може изазвати трулеж корена глога и огрозда. Њен мицелијум показује слабу зеленкасту биолуминисценцију, иако је сјај обично преслаб за голо људско око и захтева фотографисање са дугом експозицијом или посматрање свеже расцепљеног колонизованог дрвета очима прилагођеним тами. Молекуларна истраживања су показала да збирке из целог света историјски приписиване овом имену чине комплекс врста, при чему је ужа европска врста потврђена у Европи и дуж западне обале Сједињених Америчких Држава. Из екстраката су добијени биоактивни секундарни метаболити, укључујући цитохалазине и ксиларијална једињења, који се проучавају in vitro због антимикробних и цитотоксичних својстава.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474"
+      ]
+    },
+    "sv": {
+      "label": "stubbhorn",
+      "names": [
+        "stubbhornssvamp"
+      ],
+      "description": "En mycket vanlig, seg, vedlevande svamp som växer i täta tuvor på multnande lövträdsstubbar, nedfallna grenar och begravd död ved i Storbritannien, Irland, på det europeiska fastlandet och i västra Nordamerika, med bredare rapporter från tempererade områden världen över. Den bildar fruktkroppar året runt och växlar mellan en pudrig, vitspetsad asexuell fas och en hård, svart sexuell fas.",
+      "cap": "Varje upprätt stroma är vanligen 3–8 cm högt, ibland 1 till 10 cm. Enskilda grenar är 2–8 mm tjocka, upp till 15 mm hos breda exemplar, smalt cylindriska och spetsiga eller tillplattade och oregelbundet gaffelgrenade upptill som miniatyrhorn. Den sterila nedre delen är kolsvart och fint luden, medan de övre grenarna inledningsvis är täckta av kritvita till ljusgrå, pudriga konidier nedanför en kal, avsmalnande vitaktig till gulaktig spets. När svampen mognar till sitt sexuella stadium försvinner det vita pudret och hela stromat blir mattsvart och fint knottrigt. Någon separat hatt finns inte.",
+      "hymenium": "Det finns inga skivor, porer eller taggar. I det mogna sexuella stadiet utvecklas pyttesmå, flaskformade perithecier i ett enkelt lager strax under den tunna svarta ytterbarken på det övre stromat; varje perithecium mynnar genom en liten upphöjd por (ostiolum) som ger ytan en fint vårtig struktur. Inuti perithecierna mäter de cylindriska, åttasporiga sporsäckarna (asci) 100–220 × 8 µm.",
+      "stipe": "Någon egentlig fot finns inte. Den avsmalnande, cylindriska nedre delen av stromat är en kort, steril, fint hårig svart fortsättning av samma fruktkropp, ibland utdragen i en rotlik bas fäst i veden.",
+      "flesh": "Segt, elastiskt och träartat, kompakt och rent vitt inuti under den tunna svarta ytterbarken. Lukt och smak är obetydliga.",
+      "sporePrint": "Sporavtrycket är svart. De sexuella askosporerna är släta, mörkbruna till svarta, bönformade till svagt spolformade med en rak groddspringa i hela längden och mäter 10–16 × 4–6 µm. Asexuella konidier som bildas under det vita pudriga stadiet är släta, hyalina och ellipsoida till spolformade samt mäter 5–11 × 2–3 µm.",
+      "habitat": "Saprotrof i täta tuvor på murknande stubbar, fallna stammar och grenar av lövträd, ofta framväxande genom mossa, och mycket sällan på barrträdsstubbar som tall. Den hör ofta till de senare kolonisatörerna av multnande ved efter tidigare vednedbrytare. Fruktkroppar kan hittas året runt: ljusa, vitspetsade asexuella stromata syns tydligast i fuktigt höst-, vinter- och vårväder, medan hårda svarta sexuella stromata mognar under hösten och vintern och står kvar länge.",
+      "uses": "Oätlig. Även om den inte betraktas som giftig gör den ringa storleken och den sega, träiga konsistensen den olämplig som matsvamp.",
+      "confusion": "Xylaria polymorpha bildar betydligt tjockare, kraftigare, ogrenade eller trubbigt flikiga svarta klubbor i stället för slanka, tillplattade, hornliknande grenar. Xylaria longipes har smalare, ogrenade cylindriska klubbor på en längre steril fotdel och föredrar lönnved. Xylaria carpophila är mycket finare och trådlik samt växer specifikt på nedfallna bokskålar i förnan. Calocera viscosa har liknande grenade, hornliknande fruktkroppar men är klart gulorange och geléartad snarare än svartvit och träig.",
+      "notes": "Svampen är specialiserad på att bryta ned vedpolysackarider som glukan snarare än att i första hand bryta ned cellulosa eller lignin, och den kan ibland orsaka rotröta på hagtorn och krusbär. Dess mycel uppvisar svag grönaktig bioluminescens, men skenet är vanligen för svagt för det obeväpnade ögat och kräver lång exponeringstid vid fotografering eller en mörkeranpassad blick på nykluven, koloniserad ved. Molekylära studier har visat att världsomspännande insamlingar som historiskt förts till detta namn utgör ett artkomplex, där arten i strikt europeisk mening är bekräftad i Europa och längs USA:s västkust. Extrakt har gett bioaktiva sekundära metaboliter, däribland cytochalasiner och xylarialföreningar, som har studerats in vitro för antimikrobiella och cytotoxiska egenskaper.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "tr": {
+      "names": [],
+      "description": "Büyük Britanya, İrlanda, kıta Avrupası ve Kuzey Amerika'nın batısında çürüyen geniş yapraklı ağaç kütükleri, düşmüş dallar ve gömülü ölü odunlar üzerinde sık kümeler hâlinde yetişen, dünyanın ılıman bölgelerinden daha geniş kayıtları da bulunan çok yaygın, sert ve odun çürüten bir mantardır. Yıl boyunca meyve verir; tozlu beyaz uçlu eşeysiz evre ile sertleşmiş siyah eşeyli evre arasında değişir.",
+      "cap": "Her bir dik stroma tipik olarak 3–8 cm boyundadır, nadiren 1–10 cm arasında değişir. Tekil dallar 2–8 mm kalınlığında olup geniş örneklerde 15 mm'ye kadar ulaşır; dar silindirik ve sivri uçlu ya da üst kısımda yassılaşmış ve minyatür geyik boynuzları gibi düzensiz çatallıdır. Kısır alt kısım kömür siyahı ve ince tüylüdür; üst dallar ise başlangıçta çıplak, sivrilen beyazımsı-sarımsı bir ucun altında tebeşir beyazından soluk griye çalan tozlu konidyumlarla kaplıdır. Mantar eşeyli evresine olgunlaştıkça beyaz toz kaybolur ve tüm stroma mat kömür siyahına dönerek ince kabarcıklı bir görünüm alır. Ayrı bir şapkası yoktur.",
+      "hymenium": "Lameller, gözenekler veya dikenler yoktur. Olgun eşeyli evrede, üst stromanın ince siyah dış kabuğunun hemen altında tek bir tabaka hâlinde şişe biçimli minik peritesyumlar gelişir; her biri yüzeye ince siğilli bir doku kazandıran ufak, çıkıntılı bir delikle (ostiyol) dışa açılır. Peritesyumların içinde silindirik, sekiz sporlu askuslar 100–220 × 8 µm ölçülerindedir.",
+      "stipe": "Gerçek bir sapı yoktur. Stromanın daralmış, silindirik alt bölümü aynı gövdenin kısa, kısır, ince kıllı siyah bir devamıdır ve bazen oduna tutunan köksü bir tabana doğru uzanır.",
+      "flesh": "Sert, esnek ve odunsu yapıdadır; ince siyah dış kabuğun altında içi katı ve saf beyazdır. Kokusu ve tadı belirgin değildir.",
+      "sporePrint": "Spor izi siyahtır. Eşeyli askosporlar pürüzsüz, koyu kahverengiden siyaha dönük, fasulye biçimliden yarı iğ biçimliye kadar değişen yapıda ve tüm boyu boyunca uzanan düz bir çimlenme yarıklıdır; 10–16 × 4–6 µm ölçülerindedir. Beyaz tozlu evrede üretilen eşeysiz konidyumlar pürüzsüz, renksiz, elipsoitten iğ biçimliye kadar değişen yapıda ve 5–11 × 2–3 µm ölçülerindedir.",
+      "habitat": "Geniş yapraklı ağaçların çürüyen kütükleri, devrilmiş gövdeleri ve dalları üzerinde sık kümeler hâlinde saprofit olarak yaşar; sık sık yosunların arasından çıkar ve çok nadiren çam gibi iğne yapraklı ağaç kütüklerinde görülür. Çürüyen odunu daha önceki odun çürütücülerden sonra kolonize eden geç yerleşimcilerden biridir. Meyve gövdeleri yıl boyunca bulunabilir: parlak beyaz uçlu eşeysiz stromalar nemli sonbahar, kış ve ilkbahar havalarında en belirgindir; sertleşmiş siyah eşeyli stromalar ise sonbahar ve kış aylarında olgunlaşır ve kalıcıdır.",
+      "uses": "Yenmez. Zehirli kabul edilmese de küçük boyutu ve sert, odunsu dokusu tüketim için uygun değildir.",
+      "confusion": "Xylaria polymorpha, ince, yassı ve boynuz benzeri dallar yerine çok daha kalın, tıknaz, dallanmamış veya küt loblu siyah topuzlar oluşturur. Xylaria longipes daha uzun kısır bir sap üzerinde daha ince, dallanmamış silindirik topuzlara sahiptir ve akçaağaç odununu tercih eder. Xylaria carpophila çok daha ince ve ipliksidir; yaprak döküntüsü içindeki düşmüş kayın kupulaları üzerinde özellikle yetişir. Calocera viscosa benzer biçimde dallanmış, boynuz görünümlü meyve gövdelerine sahiptir ancak siyah-beyaz ve odunsu değil, parlak sarı-turuncu ve jelatinimsidir.",
+      "notes": "Mantar, esas olarak selüloz veya lignini sindirmek yerine glukan gibi odun polisakkaritlerini parçalamada uzmanlaşmıştır ve nadiren alıç ile bektaşi üzümünde kök çürüklüğüne yol açabilir. Miselyumu zayıf yeşilimsi bir biyolüminesans sergiler; ancak bu ışıltı genellikle çıplak insan gözü için fazla soluktur ve uzun pozlamalı fotoğrafçılık ya da yeni yarılmış kolonize odunun karanlığa alışmış gözle incelenmesini gerektirir. Moleküler çalışmalar, tarihsel olarak bu ad altında toplanan dünya genelindeki örneklerin bir tür kompleksi oluşturduğunu, dar anlamdaki Avrupa türünün ise Avrupa'da ve Amerika Birleşik Devletleri'nin batı kıyısı boyunca doğrulandığını göstermiştir. Ekstraktlarından sitokalazinler ve ksilarial bileşikler dâhil olmak üzere biyoaktif ikincil metabolitler elde edilmiş olup bunlar antimikrobiyal ve sitotoksik özellikleri bakımından in vitro ortamda incelenmektedir.",
+      "sourceUrls": []
+    },
+    "uk": {
+      "label": "ксиларія гіпоксилон",
+      "names": [],
+      "description": "Дуже поширений жорсткий дереворуйнівний гриб, що росте щільними групами на гнилих пнях листяних порід, опалих гілках і зануреній у ґрунт мертвій деревині у Великій Британії, Ірландії, континентальній Європі та на заході Північної Америки, а ширші знахідки відомі в помірних регіонах усього світу. Плодоносить цілий рік, змінюючи борошнисту безстатеву стадію з білими верхівками на тверду чорну статеву стадію.",
+      "cap": "Кожна прямостояча строма зазвичай сягає 3–8 см заввишки, інколи від 1 до 10 см. Окремі гілки завтовшки 2–8 мм, а в широких екземплярів до 15 мм; вони вузькоциліндричні й загострені або сплющені й неправильно розгалужені вгорі на кшталт мініатюрних оленячих рогів. Стерильна нижня частина вугільно-чорна й тонкоопушена, тоді як верхні гілки спочатку вкриті крейдяно-білим або блідо-сірим борошнистим нальотом конідій нижче голої, звуженої білуватої чи жовтуватої верхівки. У міру дозрівання статевої стадії білий наліт зникає, і вся строма стає матово-вугільно-чорною та дрібногорбкуватою. Окремої шапинки немає.",
+      "hymenium": "Пластинок, пор і шипів немає. У зрілій статевій стадії безпосередньо під тонкою чорною зовнішньою кіркою верхньої частини строми в один шар розвиваються крихітні пляшкоподібні перитеції, кожен із яких відкривається назовні дрібним піднятим отвором (остіолою), що надає поверхні дрібнобородавчастої текстури. Усередині перитеціїв містяться циліндричні восьмиспорові сумки (аски) розміром 100–220 × 8 мкм.",
+      "stipe": "Справжньої ніжки немає. Звужена циліндрична нижня частина строми є коротким стерильним тонкоопушеним чорним продовженням того самого плодового тіла, яке інколи переходить у коренеподібну основу, прикріплену до деревини.",
+      "flesh": "Жорсткий, пружний і дерев'янистий, усередині щільний і чисто-білий під тонкою чорною зовнішньою кіркою. Запах і смак невиразні.",
+      "sporePrint": "Споровий порошок чорний. Статеві аскоспори гладенькі, темно-коричневі до чорних, бобоподібні до майже веретеноподібних, із прямою поздовжньою ростковою щілиною, розміром 10–16 × 4–6 мкм. Безстатеві конідії, що утворюються на стадії білого борошнистого нальоту, гладенькі, безбарвні, еліпсоїдні до веретеноподібних, розміром 5–11 × 2–3 мкм.",
+      "habitat": "Сапротрофний гриб, що росте щільними групами на гнилих пнях, повалених стовбурах і гілках листяних дерев, часто пробиваючись крізь мох, і дуже рідко на пнях хвойних порід, як-от сосна. Нерідко є одним із пізніших колонізаторів деревини, що розкладається, змінюючи ранніх дереворуйнівників. Плодові тіла трапляються протягом усього року: яскраві безстатеві строми з білими верхівками найпомітніші у вологу погоду восени, взимку та навесні, тоді як тверді чорні статеві строми дозрівають восени й узимку та довго зберігаються.",
+      "uses": "Неїстівний. Хоча гриб не вважається отруйним, його малі розміри та жорсткий дерев'янистий м'якуш роблять його непридатним для вживання в їжу.",
+      "confusion": "Xylaria polymorpha утворює значно товстіші, масивніші, нерозгалужені або туполопатеві чорні булави замість тонких сплющених рогоподібних гілок. Xylaria longipes має стрункіші нерозгалужені циліндричні булави на довшій стерильній ніжці й надає перевагу деревині клена. Xylaria carpophila набагато тонша й ниткоподібна, росте саме на опалих плюсках бука в листовому опаді. Calocera viscosa має схожі розгалужені рогоподібні плодові тіла, але вони яскраво-жовто-оранжеві й драглисті, а не чорно-білі й дерев'янисті.",
+      "notes": "Гриб спеціалізується на розщепленні полісахаридів деревини, зокрема глюкану, а не на переважному перетравленні целюлози чи лігніну, і зрідка може спричиняти кореневу гниль глоду та аґрусу. Його міцелій виявляє слабку зеленкувату біолюмінесценцію, проте світіння зазвичай надто слабке для неозброєного людського ока й потребує фотографування з довгою витримкою або спостереження адаптованим до темряви зором на свіжорозколотій колонізованій деревині. Молекулярні дослідження показали, що зразки з усього світу, які історично відносили до цієї назви, утворюють видовий комплекс, причому власне європейський вид підтверджено в Європі та вздовж західного узбережжя США. З екстрактів виділено біологічно активні вторинні метаболіти, зокрема цитохалазини та сполуки ксиларіального ряду, які вивчають in vitro щодо антимікробних і цитотоксичних властивостей.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5255147"
+      ]
+    },
+    "zh": {
+      "label": "鹿角炭角菌",
+      "names": [
+        "鹿角菌"
+      ],
+      "description": "一种极为常见、质地坚韧的木腐真菌，成密簇生于腐朽阔叶树树桩、倒枝及埋于土中的枯木上，广布于英国、爱尔兰、欧洲大陆及北美洲西部，并在全球温带地区有更广泛的记录。该菌全年均可产生子实体，在顶端覆白粉的无性阶段与硬化变黑的有性阶段之间交替。",
+      "cap": "每枚直立子座通常高3–8 cm，偶见1–10 cm。单根分枝粗2–8 mm，宽大标本可达15 mm，呈细圆柱形而顶端尖细，或扁平并在上部如迷你鹿角般不规则分叉。下部不育部分呈炭黑色并具细绒毛，上部枝条初期在光秃、渐尖的淡白至淡黄色顶端下方覆有粉笔白至淡灰色的粉状分生孢子。随着真菌成熟进入有性阶段，白粉消失，整个子座转为无光泽的炭黑色并呈细小瘤点状。没有独立的菌盖。",
+      "hymenium": "无菌褶、菌管孔或齿状突起。在成熟的有性阶段，微小的烧瓶状子囊壳单层着生于子座上部薄而黑的外壳正下方，每个子囊壳通过一个细小隆起的孔口向外开口，使表面呈现细腻的疣状质感。子囊壳内含圆柱形、具8枚孢子的子囊，大小为100–220 × 8 µm。",
+      "stipe": "无真正的菌柄。子座下部变窄的圆柱形部分是同一菌体短小、不育、具细毛的黑色延续，有时向下延伸为附着于木材的根状基部。",
+      "flesh": "坚韧、富有弹性且呈木质，在薄而黑的外皮之下内部为实心纯白色。气味和味道均不明显。",
+      "sporePrint": "孢子印呈黑色。有性子囊孢子光滑，深褐色至黑色，豆形至近纺锤形，具一条贯通全长的直芽缝，大小为10–16 × 4–6 µm。白色粉状阶段产生的无性分生孢子光滑、无色透明，椭圆形至纺锤形，大小为5–11 × 2–3 µm。",
+      "habitat": "腐生，密簇生于阔叶树的腐烂树桩、倒木和枝条上，常穿过苔藓长出，极少见于松树等针叶树树桩。常继早期木腐菌之后作为腐木的后期定殖者出现。全年均可见子实体：顶端亮白的无性子座在潮湿的秋、冬和春季最为醒目，而硬化变黑的有性子座于秋冬季成熟并持久存在。",
+      "uses": "不可食。虽不被认为有毒，但体型小且质地坚韧呈木质，不适合食用。",
+      "confusion": "Xylaria polymorpha形成粗壮得多、不分枝或钝裂的黑色棒状体，而非纤细扁平的鹿角状分枝。Xylaria longipes在较长的不育柄上生有更细长、不分枝的圆柱形棒状体，且偏好枫木。Xylaria carpophila纤细得多、呈丝状，专生于落叶层中掉落的山毛榉壳斗上。Calocera viscosa同样具有分枝的鹿角状子实体，但呈鲜艳的黄橙色且为胶质，而非黑白相间的木质。",
+      "notes": "该菌专长于分解葡聚糖等木材多糖，而非以消化纤维素或木质素为主，偶可引起山楂和醋栗的根腐病。其菌丝体具有微弱的绿光生物发光现象，但发光通常过于微弱而难以用肉眼直接察觉，需通过长曝光摄影或在暗适应后观察新劈开的带菌木材才能看到。分子研究表明，历史上归于该学名的全球标本构成一个物种复合群，狭义的欧洲物种已确认分布于欧洲及美国西海岸。其提取物已分离出多种具有生物活性的次级代谢产物，包括细胞松弛素和炭角菌属相关化合物，并在体外进行了抗菌和细胞毒活性研究。",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q1272474",
+        "https://www.gbif.org/species/5255147"
+      ]
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Clavaria hypoxylon",
+      "author": "L.",
+      "year": 1753,
+      "rank": "species",
+      "type": "basionym"
+    },
+    {
+      "name": "Sphaeria hypoxylon",
+      "author": "(L.) Pers.",
+      "year": 1796,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Cordyceps hypoxylon",
+      "author": "(L.) Fr.",
+      "year": 1818,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Cordylia hypoxylon",
+      "author": "(L.) Fr.",
+      "year": 1818,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Xylosphaera hypoxylon",
+      "author": "(L.) Dumort.",
+      "year": 1822,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Sphaeria cupressiformis",
+      "author": "Woodw.",
+      "year": 1792,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Xylaria cupressiformis",
+      "author": "(Woodw.) J. Kickx f.",
+      "year": 1835,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Sphaeria ramosa",
+      "author": "Dicks.",
+      "year": 1801,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Sphaeria adscendens",
+      "author": "Fr.",
+      "year": 1830,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Xylaria adscendens",
+      "author": "(Fr.) Fr.",
+      "year": 1851,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Xylosphaera adscendens",
+      "author": "(Fr.) Dennis",
+      "year": 1958,
+      "rank": "species",
+      "type": "synonym"
+    },
+    {
+      "name": "Xylaria subtrachelina",
+      "author": "Henn.",
+      "year": 1904,
+      "rank": "species",
+      "type": "synonym"
+    }
+  ],
+  "reserved": false,
+  "id": 235,
+  "citation": "Fl. Edin.: 355 (1824)"
+},
+{
+  "name": "Coprinopsis picacea",
+  "author": "(Bull.) Redhead, Vilgalys & Moncalvo",
+  "family": "Psathyrellaceae",
+  "genus": "Coprinopsis",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinopsis"
+  ],
+  "summary": [
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinopsis"
+  ],
+  "edibility": "poisonous",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "dark",
+    "white"
+  ],
+  "capFrom": 3.0,
+  "capTo": 8.0,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 20.0,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 1.5,
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
+  "label": {
+    "bg": "Пъстра копринка",
+    "cs": "hnojník strakatý",
+    "da": "Skade-blækhat",
+    "de": "Specht-Tintling",
+    "en": "magpie inkcap",
+    "es": "Coprino blanco y negro",
+    "fi": "ruutumustesieni",
+    "fr": "Coprin pie",
+    "he": "דיואית עקודה",
+    "hr": "Šarena gnojištarka",
+    "hu": "harkálytintagomba",
+    "lt": "Girinė mėšlabudė",
+    "nl": "Spechtinktzwam",
+    "no": "ruteblekksopp",
+    "pl": "Czernidłak pstry",
+    "ro": "Buretele ciocănitoarei",
+    "ru": "Навозник смолистый",
+    "sk": "hnojník strakatý",
+    "sl": "pisana tintovka",
+    "sr": "Шарена гнојиштарка",
+    "sv": "rutbläcksvamp",
+    "tr": "Saksağan Mantarı",
+    "uk": "Гнойовик сорочий"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Elstern-Tintling"
+    ],
+    "en": [
+      "magpie fungus",
+      "magpie mushroom"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "Coprin noir et blanc"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "Pjegava gnojištarka"
+    ],
+    "hu": [
+      "harkály-tintagomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "Czernidłówka pstra"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "Гнойовик дятловий",
+      "Гнойовик смолистий"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=474632",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474632",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=474632",
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.first-nature.com/fungi/coprinopsis-picacea.php",
+      "https://en.wikipedia.org/wiki/Coprinopsis_picacea",
+      "https://www.myko.cz/myko-atlas/Coprinopsis-picacea/",
+      "https://de.wikipedia.org/wiki/Specht-Tintling",
+      "https://fr.wikipedia.org/wiki/Coprin_pie",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "ar": [],
+    "bg": [
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Coprinopsis-picacea/",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "da": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Specht-Tintling",
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "es": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [
+      "https://www.wikidata.org/wiki/Q779716"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Coprin_pie",
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "hi": [],
+    "hr": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "hu": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "lv": [],
+    "nl": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "no": [
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "pl": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "pt": [],
+    "ro": [
+      "https://www.wikidata.org/wiki/Q779716"
+    ],
+    "ru": [
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "sk": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q779716"
+    ],
+    "sv": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "tr": [
+      "https://www.gbif.org/species/5242777",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "uk": [
+      "https://www.wikidata.org/wiki/Q779716",
+      "https://www.inaturalist.org/taxa/63224"
+    ],
+    "zh": []
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "Generated with Gemini",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_1.webp",
+      "author": "George Chernilevsky",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_2024_G1.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_2.webp",
+      "author": "Lukas Large from Stourbridge, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_(Magpie_Inkcap)_(51391960136).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_3.webp",
+      "author": "Lukas Large from Stourbridge, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_-_Magpie_Inkcap_(51567939401).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_4.webp",
+      "author": "Claude PAGE",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_(15668396799).jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_5.webp",
+      "author": "Christina Staudigl",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_168650519.jpg"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea@1600.webp",
+      "author": "Gemini",
+      "license": "Generated with Gemini",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_1.webp",
+      "author": "George Chernilevsky",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_2024_G1.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_2.webp",
+      "author": "Lukas Large from Stourbridge, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_(Magpie_Inkcap)_(51391960136).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_3.webp",
+      "author": "Lukas Large from Stourbridge, United Kingdom",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_-_Magpie_Inkcap_(51567939401).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_4.webp",
+      "author": "Claude PAGE",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_(15668396799).jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinopsis_picacea/Coprinopsis_picacea_5.webp",
+      "author": "Christina Staudigl",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coprinopsis_picacea_168650519.jpg"
+    }
+  ],
+  "text": {
+    "ar": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "فطر حبري رمّي لافت للنظر ينمو منفرداً أو في مجموعات متباعدة في الغابات النفضية، ولا سيما غابات الزان على الترب القلوية أو الكلسية. ينتشر على نطاق واسع في أوروبا من بريطانيا وأيرلندا إلى أوروبا الشرقية وحوض البحر الأبيض المتوسط، كما يوجد في أستراليا، وبصورة أقل شيوعاً في أمريكا الشمالية.",
+      "cap": "القبعة بارتفاع ٢–٧ سم وعرض ١٫٥–٤ سم عندما تكون فتية وبيضاوية الشكل، ثم تتمدد لتصبح ناقوسية أو مخروطية بقطر ٣–٨ سم وارتفاع ٧–١٢ سم قبل أن تنفرج الحافة نحو الخارج وتلتف إلى الأعلى وتسودّ وتتميع. تكون القبعة في البداية مغلّفة بغلاف كلي متواصل أبيض إلى كريمي يتمزق مع اتساع القبعة، تاركاً بقعاً غير منتظمة وثابتة بيضاء أو رمادية أو رمادية بنية تتباين بوضوح مع سطح القبعة اللامع البني الداكن إلى المسودّ والمخطط بأخاديد دقيقة تحتها.",
+      "hymenium": "الصفائح مزدحمة وحرة إلى ملتصقة بشكل ضيق بالساق، تكون في البداية مبيضة إلى بيضاء رمادية، ثم تتحول إلى وردية فبنية رمادية، وأخيراً تسودّ وتتميع إلى سائل حبري من الحافة نحو الداخل. الدعاميات رباعية الأبواغ؛ والخلايا العقيمة الحافية والجانبية حويصلية أو قربية الشكل أو أنبوبية، يصل قياسها إلى ١٥٠ × ٥٠ ميكرومتر.",
+      "stipe": "الساق بارتفاع ٥–٢٠ سم وقد تصل أحياناً إلى ٣٠ سم، وبسماكة ٠٫٥–١٫٥ سم، أسطوانية وتستدق قليلاً نحو القمة، ومنتفخة على شكل هراوة أو بصلية قليلاً عند القاعدة. لونها مبيض إلى رمادي باهت، مكسوة بزغب دقيق أو لييفات أو حراشف دقيقة تشكل أحياناً أشرطة عرضية باهتة نحو القاعدة، مجوفة وهشة. لا توجد حلقة.",
+      "flesh": "اللحم رقيق وهش ومائي ومبيض. الرائحة ضعيفة إلى كريهة بوضوح، وتوصف بطرق مختلفة بأنها تشبه الكربول أو غاز الفحم أو كرات النفتالين؛ والطعم معتدل إلى غير مستساغ.",
+      "sporePrint": "طبعة الأبواغ سوداء. الأبواغ إهليلجية إلى بيضاوية، ملساء، بنية داكنة إلى مسودّة، بقياس ١٣–١٩ × ٩–١٣ ميكرومتر (وأحياناً يضيق عرضها حتى ٦٫٥ ميكرومتر، ونسبة الطول إلى العرض Q = ١٫٢٥–١٫٦٠)، ولها ثقب إنبات مركزي.",
+      "habitat": "رمّي على الدبال وفرشة الأوراق الغنية بالمغذيات والقلوية أو الكلسية في الغابات النفضية، وغالباً تحت أشجار الزان، وبوتيرة أقل تحت البلوط أو الشرد، وأحياناً بين مخلفات الأشجار الصلبة الرطبة والمظللة على حواف الغابات. ينمو عادةً منفرداً أو في مجموعات صغيرة متباعدة، ويثمر من مايو إلى نوفمبر مع ذروة من أغسطس إلى أكتوبر.",
+      "uses": "سام وغير صالح للأكل. يسبب ابتلاعه اضطرابات هضمية، كما أن رائحته الكريهة تفقده أي قيمة غذائية.",
+      "confusion": "قبل أن تخترق القبعة الداكنة الغلاف الأبيض، قد تشبه الأجسام الثمرية الفتية البيضاوية فطر Coprinus comatus، الذي يتميز بقبعة بيضاء مغطاة بألياف بيضاء كثة متجهة إلى الأعلى وحلقة متحركة على الساق، ويفتقر إلى قشرة قبعة بنية داكنة مسودّة تحت البقع البيضاء. أما Coprinopsis atramentaria فهو أصغر حجماً وله قبعة رمادية بنية أكثر نعومة ومخططة شعاعياً دون بقع غلاف بيضاء بارزة. كما أن Coprinopsis stangliana نوع شبيه أصغر حجماً بكثير وذو أبواغ أصغر، وينمو أساساً في المروج الكلسية الجافة والمكشوفة بدلاً من الغابات النفضية المظللة.",
+      "notes": "مثل غيره من الفطريات الحبرية الكبيرة، تخضع الصفائح للتحلل الذاتي والتميع من الحافة نحو الداخل متحولةً إلى حبر أسود محمل بالأبواغ يساعد على انتشارها في الطقس الرطب. ويُعد مؤشراً على الترب الكلسية الغنية بالقواعد، وهو مدرج في فئة المعرض للخطر (Vulnerable) في عدة قوائم حمراء وطنية أوروبية."
+    },
+    "bg": {
+      "label": "Пъстра копринка",
+      "names": [],
+      "description": "Впечатляваща, растяща поединично или на редки групи сапротрофна копринка на широколистните гори, особено буковите гори върху алкални или варовити почви. Широко разпространена из цяла Европа от Британия и Ирландия до Източна Европа и Средиземноморието, тя се среща и в Австралия, както и по-рядко в Северна Америка.",
+      "cap": "Гуглата е висока 2–7 cm и широка 1,5–4 cm, когато е млада и яйцевидна, и се разтваря до камбанковидна или конусовидна гугла с диаметър 3–8 cm и височина 7–12 cm, преди ръбът да се извие навън, да се подгъне нагоре, да почернее и да се разтече. Отначало е обвита в непрекъснато бяло до кремаво общо було, което се разкъсва при разтварянето на гуглата и оставя неправилни, трайни бели, сивкави или кафеникавосиви парцали, рязко контрастиращи с лъскавата тъмнокафява до черникава, фино набраздена повърхност на гуглата отдолу.",
+      "hymenium": "Ламелите са гъсти и свободни до тясно прираснали към пънчето, отначало белезникави до сивкавобели, после розовеещи до сивокафяви и накрая почерняват и се разтичат в мастилена течност от ръба навътре. Базидиите са четириспорни; хейлоцистидиите и плевроцистидиите са мехурести, меховидни или тръбовидни с размери до 150 × 50 µm.",
+      "stipe": "Пънчето е високо 5–20 cm, понякога достига 30 cm, и дебело 0,5–1,5 cm, цилиндрично, леко стеснено към върха и бухалковидно до слабо луковично задебелено в основата. Белезникаво до бледосивкаво, фино люспесто-влакнесто до влакнесто или люспесто — понякога образуващо бледи напречни ивици към основата —, кухо и крехко. Пръстен липсва.",
+      "flesh": "Месото е тънко, крехко, воднисто и белезникаво. Миризмата е слаба до отчетливо неприятна, описвана различно като карболова, подобна на светилен газ или напомняща нафталин; вкусът е мек до неприятен.",
+      "sporePrint": "Споровият прашец е черен. Спорите са елипсовидни до яйцевидни, гладки, тъмнокафяви до черникави, с размери 13–19 × 9–13 µm (понякога широки едва 6,5 µm, Q = 1,25–1,60), с централна покълнителна пора.",
+      "habitat": "Расте сапротрофно върху богат на хранителни вещества, алкален или варовит хумус и листна постилка в широколистни гори, предимно под бук и по-рядко под дъб или габър, а понякога сред влажни, сенчести остатъци от широколистна дървесина по горските краища. Обикновено расте поединично или на малки, разредени групи, като плододава от май до ноември, с пик от август до октомври.",
+      "uses": "Отровна и неядлива гъба. Поглъщането причинява стомашно-чревни разстройства, а неприятната ѝ миризма също я прави без кулинарна стойност.",
+      "confusion": "Преди тъмната гугла да пробие бялото було, младите яйцевидни плодни тела могат да наподобяват порцеланова копринка (Coprinus comatus), която има бяла гугла, покрита с извити нагоре рошави бели влакна, подвижен пръстен на пънчето и няма тъмнокафяво-черна кожица на гуглата под белите парцали. Мастилената копринка (Coprinopsis atramentaria) е по-дребна и има по-гладка, радиално набраздена сивокафява гугла без ясно изразени бели парцали от булото. Coprinopsis stangliana е много по-дребен подобен вид с по-малки спори, който расте предимно на сухи, открити варовити тревни площи вместо в сенчести широколистни гори.",
+      "notes": "Както при други едри коприноидни гъби, ламелите претърпяват автолиза (разтичане) от ръба навътре, превръщайки се в черно мастило, наситено със спори, което подпомага разпространението при влажно време. Смята се за индикатор на богати на основи варовити почви и е включена като уязвим вид (Vulnerable) в няколко европейски национални червени списъка.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "cs": {
+      "label": "hnojník strakatý",
+      "names": [],
+      "description": "Nápadná saprotrofní hnojníkovitá houba listnatých lesů, zejména bučin na zásaditých nebo vápencových půdách, rostoucí jednotlivě nebo v řídkých skupinách. Je široce rozšířena po celé Evropě od Británie a Irska po východní Evropu a Středomoří a vyskytuje se také v Austrálii a méně často v Severní Americe.",
+      "cap": "V mládí je vejčitý, vysoký 2–7 cm a široký 1,5–4 cm, poté se rozevírá ve zvoncovitý až kuželovitý klobouk široký 3–8 cm a vysoký 7–12 cm, než se okraj vyhne ven, zvedne a svine vzhůru, zčerná a rozplyne se. Zprvu je obalen souvislým bílým až krémovým celkovým závojem (velem), který se při rozpínání klobouku roztrhá a zanechává nepravidelné, vytrvalé bílé, šedavé nebo hnědošedé skvrny, jež ostře kontrastují s lesklým tmavě hnědým až černavým, jemně rýhovaným povrchem klobouku pod nimi.",
+      "hymenium": "Lupeny jsou husté, u třeně volné až úzce připojené, zprvu bělavé až šedobílé, pak narůžovělé až šedohnědé a nakonec od okraje ke středu černají a rozplývají se v inkoustovou tekutinu. Bazidie jsou čtyřvýtrusné; cheilocystidy a pleurocystidy jsou měchýřkovité, vakovité nebo trubkovité, velké až 150 × 50 µm.",
+      "stipe": "Třeň je vysoký 5–20 cm, občas dosahuje až 30 cm, a tlustý 0,5–1,5 cm, válcovitý, směrem k vrcholu mírně zúžený a na bázi kyjovitý až slabě hlízovitě ztlustlý. Je bělavý až světle šedavý, jemně vločkatý až vláknitý nebo šupinatý – někdy směrem k bázi tvoří nevýrazné příčné pásy –, dutý a křehký. Prsten chybí.",
+      "flesh": "Dužnina je tenká, křehká, vodnatá a bělavá. Vůně je slabá až výrazně nepříjemná, popisovaná různě jako karbolová, po svítiplynu nebo připomínající naftalín; chuť je mírná až nepříjemná.",
+      "sporePrint": "Výtrusný prach je černý. Výtrusy jsou elipsoidní až vejčité, hladké, tmavě hnědé až černavé, velké 13–19 × 9–13 µm (ojediněle jen 6,5 µm široké, Q = 1,25–1,60), s centrálním klíčním pórem.",
+      "habitat": "Roste saprotrofně na živinami bohatém, zásaditém nebo vápencovém humusu a listovém opadu v listnatých lesích, převážně pod bukem, méně často pod dubem nebo habrem, příležitostně mezi vlhkými, stíněnými zbytky dřeva listnáčů na okrajích lesů. Obvykle roste jednotlivě nebo v malých, řídce rozestoupených skupinách a plodí od května do listopadu s vrcholem od srpna do října.",
+      "uses": "Jedovatá a nejedlá houba. Požití způsobuje zažívací potíže a její nepříjemný pach ji rovněž zbavuje kulinářské hodnoty.",
+      "confusion": "Než tmavý klobouk prorazí bílým závojem, mohou mladé vejčité plodnice připomínat hnojník obecný (Coprinus comatus), který má bílý klobouk pokrytý odstávajícími střapatými bílými vlákny, posuvný prsten na třeni a postrádá tmavě hnědočernou pokožku klobouku pod bílými skvrnami. Hnojník inkoustový (Coprinopsis atramentaria) je menší a má hladší, paprsčitě rýhovaný šedohnědý klobouk bez výrazných bílých zbytků závoje. Coprinopsis stangliana je mnohem menší podobný druh s menšími výtrusy, který roste převážně na suchých, otevřených vápencových trávnících spíše než ve stíněných listnatých lesích.",
+      "notes": "Podobně jako u jiných velkých hnojníkovitých hub podléhají lupeny od okraje dovnitř autolýze (rozplývání) a mění se v černý inkoust nesoucí výtrusy, což napomáhá šíření za vlhkého počasí. Je považována za indikátor bazických, vápencových půd a v několika evropských národních červených seznamech je vedena jako zranitelný druh (Vulnerable).",
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Coprinopsis-picacea/",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "da": {
+      "label": "Skade-blækhat",
+      "names": [],
+      "description": "En iøjnefaldende, enlig eller løst grupperet saprotrof blækhat fra løvskove, især bøgeskove på alkalisk eller kalkrig jordbund. Den er vidt udbredt i Europa fra Storbritannien og Irland til Østeuropa og Middelhavsområdet og forekommer desuden i Australien samt mere sjældent i Nordamerika.",
+      "cap": "Som ung ægformet og 2–7 cm høj samt 1,5–4 cm bred, senere udvidet til en klokkeformet eller kegleformet hat på 3–8 cm i bredden og 7–12 cm i højden, før randen slår udad, ruller op, sortner og opløses. Oprindeligt omsluttet af et sammenhængende hvidt til flødefarvet ydre slør, der brister, efterhånden som hatten vokser ud, og efterlader uregelmæssige, vedvarende hvide, grålige eller brungrå pletter i skarp kontrast til den blanke, mørkebrune til sortagtige, fint furede hatoverflade nedenunder.",
+      "hymenium": "Lamellerne er tætstillede og frie til smalt tilhæftede ved stokken, først hvidlige til gråhvide, derefter rosa til gråbrune, og til sidst sortnende og opløsende til en blækagtig væske fra randen og indefter. Basidierne er firesporede; cheilocystider og pleurocystider er blæreformede, krukkeformede (utriforme) eller rørformede og måler op til 150 × 50 µm.",
+      "stipe": "Stokken er 5–20 cm høj, lejlighedsvis op til 30 cm, og 0,5–1,5 cm tyk, cylindrisk, let tilspidset mod toppen og kølleformet til svagt knoldformet ved basis. Den er hvidlig til blegt grålig, fint fnugget til trævlet eller skællet — undertiden med svage tværbånd mod basis — hul og skør. Der er ingen ring.",
+      "flesh": "Kødet er tyndt, skørt, vandigt og hvidligt. Lugten er svag til tydeligt ubehagelig og beskrives forskelligt som karbolagtig, kulgasagtig eller mindende om mølkugler; smagen er mild til ubehagelig.",
+      "sporePrint": "Sporeaftrykket er sort. Sporerne er ellipsoide til ægformede, glatte, mørkebrune til sortagtige og måler 13–19 × 9–13 µm (lejlighedsvis ned til 6,5 µm brede, Q = 1,25–1,60), med en central spirepore.",
+      "habitat": "Saprotrof på næringsrig, alkalisk eller kalkrig humus og løvstrøelse i løvskove, overvejende under bøg og sjældnere under eg eller avnbøg, lejlighedsvis blandt fugtige, skyggede løvtræsrester i skovbryn. Vokser oftest enkeltvis eller i små, spredte grupper og danner frugtlegemer fra maj til november med højdepunkt fra august til oktober.",
+      "uses": "Giftig og uspiselig. Indtagelse giver mave-tarm-gener, og den ubehagelige lugt gør den desuden uden kulinarisk værdi.",
+      "confusion": "Før den mørke hat bryder gennem det hvide slør, kan unge ægformede frugtlegemer ligne stor parykhat (Coprinus comatus), som har en hvid hat dækket af opadbøjede, pjuskede hvide trævler, en bevægelig ring på stokken og mangler en mørkebrun-sort hathud under hvide pletter. Almindelig blækhat (Coprinopsis atramentaria) er mindre og har en glattere, radiært furet gråbrun hat uden markante hvide slørpletter. Coprinopsis stangliana er en meget mindre dobbeltgænger med mindre sporer, som overvejende vokser på tørre, åbne kalkoverdrev snarere end i skyggede løvskove.",
+      "notes": "Ligesom hos andre store blækhatte gennemgår lamellerne selvfordøjelse (autolyse) fra randen og indefter og omdannes til et sort, sporeholdigt blæk, som fremmer spredningen i vådt vejr. Den betragtes som en indikatorart for baserige, kalkholdige jorde og er opført som sårbar på flere europæiske nationale rødlister.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "de": {
+      "label": "Specht-Tintling",
+      "names": [
+        "Elstern-Tintling"
+      ],
+      "description": "Ein auffälliger, einzeln oder locker gesellig wachsender saprotropher Tintling der Laubwälder, besonders von Buchenwäldern auf alkalischen oder kalkhaltigen Böden. Er ist in Europa von Großbritannien und Irland bis nach Osteuropa und in den Mittelmeerraum weit verbreitet und kommt außerdem in Australien sowie seltener in Nordamerika vor.",
+      "cap": "Jung eiförmig und 2–7 cm hoch sowie 1,5–4 cm breit; später zu einem glockigen bis kegeligen Hut von 3–8 cm Breite und 7–12 cm Höhe aufschirmend, bevor sich der Rand nach außen biegt, einrollt, schwärzt und zerfließt. Anfangs von einem durchgehenden weißen bis cremefarbenen Gesamtvelum umschlossen, das beim Aufschirmen des Hutes aufreißt und unregelmäßige, dauerhafte weiße, gräuliche oder bräunlich-graue Flicken zurücklässt, die sich scharf von der glänzenden, dunkelbraunen bis schwärzlichen, fein gefurchten Hutoberfläche darunter abheben.",
+      "hymenium": "Die Lamellen stehen gedrängt und sind am Stiel frei bis schmal angeheftet; sie sind anfangs weißlich bis grauweiß, verfärben sich rosa bis graubraun und werden schließlich vom Rand her schwarz, bevor sie zu einer tintigen Flüssigkeit zerfließen. Die Basidien sind viersporig; Cheilozystiden und Pleurozystiden sind blasenförmig, schlauchförmig oder röhrenförmig und messen bis zu 150 × 50 µm.",
+      "stipe": "Der Stiel ist 5–20 cm, gelegentlich bis 30 cm lang und 0,5–1,5 cm dick, zylindrisch, zur Spitze hin leicht verjüngt und an der Basis keulig bis schwach knollig verdickt. Er ist weißlich bis blassgräulich, fein flockig bis faserig oder schuppig — zur Basis hin bisweilen mit schwachen Querbändern — sowie hohl und zerbrechlich. Ein Ring fehlt.",
+      "flesh": "Das Fleisch ist dünn, zerbrechlich, wässrig und weißlich. Der Geruch ist schwach bis deutlich unangenehm und wird unterschiedlich als karbolartig, leuchtgasartig oder an Mottenkugeln erinnernd beschrieben; der Geschmack ist mild bis unangenehm.",
+      "sporePrint": "Das Sporenpulver ist schwarz. Die Sporen sind ellipsoid bis eiförmig, glatt, dunkelbraun bis schwärzlich, messen 13–19 × 9–13 µm (gelegentlich bis herab zu 6,5 µm Breite, Q = 1,25–1,60) und besitzen einen zentralen Keimporus.",
+      "habitat": "Saprotroph auf nährstoffreichem, alkalischem oder kalkhaltigem Humus und Falllaub in Laubwäldern, vorwiegend unter Buche, seltener unter Eiche oder Hainbuche, gelegentlich auch an feuchten, schattigen Laubholzresten an Waldrändern. Meist einzeln oder in kleinen, locker stehenden Gruppen; Fruchtkörper erscheinen von Mai bis November mit einem Schwerpunkt von August bis Oktober.",
+      "uses": "Giftig und ungenießbar. Der Verzehr verursacht Magen-Darm-Beschwerden, und der unangenehme Geruch macht den Pilz zudem kulinarisch wertlos.",
+      "confusion": "Bevor der dunkle Hut das weiße Velum durchbricht, können junge eiförmige Fruchtkörper dem Schopf-Tintling (Coprinus comatus) ähneln, der jedoch einen weißen, mit aufgerichteten zottig-weißen Fasern bedeckten Hut sowie einen verschiebbaren Ring am Stiel besitzt und keine dunkelbraun-schwarze Huthaut unter weißen Flicken aufweist. Der Faltentintling (Coprinopsis atramentaria) ist kleiner und hat einen glatteren, radial gefurchten graubraunen Hut ohne markante weiße Velumflicken. Coprinopsis stangliana ist ein wesentlich kleinerer Doppelgänger mit kleineren Sporen, der vorwiegend auf trockenen, offenen Kalkmagerrasen statt in schattigen Laubwäldern wächst.",
+      "notes": "Wie bei anderen großen Tintlingen durchlaufen die Lamellen vom Rand her eine Selbstverdauung (Autolyse) und zerfließen zu einer schwarzen, sporenreichen Tinte, was die Sporenverbreitung bei feuchtem Wetter unterstützt. Die Art gilt als Zeiger basenreicher, kalkhaltiger Böden und wird in mehreren europäischen nationalen Roten Listen als gefährdet geführt.",
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Specht-Tintling",
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "en": {
+      "label": "magpie inkcap",
+      "names": [
+        "magpie fungus",
+        "magpie mushroom"
+      ],
+      "wikipedia": "https://en.wikipedia.org/wiki/Coprinopsis_picacea",
+      "description": "A striking, solitary or loosely grouped saprotrophic inkcap of deciduous woodland, especially beech woods on alkaline or calcareous soils. Widespread across Europe from Britain and Ireland to Eastern Europe and the Mediterranean, it also occurs in Australia and, less commonly, in North America.",
+      "cap": "2–7 cm tall and 1.5–4 cm wide when young and ovoid, expanding to a campanulate or conical cap 3–8 cm across and 7–12 cm tall before the margin flares outward, rolls up, blackens, and deliquesces. Initially enclosed in a continuous white to cream universal veil that tears apart as the cap expands, leaving irregular, persistent white, greyish, or brownish-grey patches contrasting sharply against the glossy dark brown to blackish, finely grooved cap surface beneath.",
+      "hymenium": "Gills are crowded and free to narrowly adnate at the stipe, initially whitish to greyish-white, turning pinkish to greyish-brown, and finally blackening and deliquescing into an inky fluid from the margin inward. Basidia are four-spored; cheilocystidia and pleurocystidia are vesiculose, utriform, or tubular, measuring up to 150 × 50 µm.",
+      "stipe": "5–20 cm tall, occasionally reaching 30 cm, and 0.5–1.5 cm thick, cylindrical, slightly tapering toward the apex, and club-shaped to slightly bulbous at the base. Whitish to pale greyish, finely floccose to fibrillose or scaly—sometimes forming faint transverse bands toward the base—hollow, and fragile. There is no ring.",
+      "flesh": "Thin, fragile, watery, and whitish. The odour is weak to distinctly unpleasant, variously described as carbolic, coal-gas-like, or reminiscent of mothballs; the taste is mild to unpleasant.",
+      "sporePrint": "Black. Spores are ellipsoid to ovoid, smooth, dark brown to blackish, measuring 13–19 × 9–13 µm (occasionally down to 6.5 µm wide, Q = 1.25–1.60), with a central germ pore.",
+      "habitat": "Saprotrophic on nutrient-rich, alkaline or calcareous humus and leaf litter in deciduous woodland, predominantly under beech, and less frequently under oak or hornbeam, occasionally among damp, shaded hardwood debris at woodland edges. Usually solitary or in small, well-spaced groups, fruiting from May to November, with a peak from August to October.",
+      "uses": "Poisonous and inedible. Ingestion causes gastrointestinal upset, and its unpleasant odour also makes it without culinary value.",
+      "confusion": "Before the dark cap breaks through the white veil, young ovoid fruit bodies can resemble Coprinus comatus, which has a white cap covered in upturned shaggy white fibres, a movable ring on the stipe, and lacks a dark brown-black cap cuticle beneath white patches. Coprinopsis atramentaria is smaller and has a smoother, radially grooved grey-brown cap without bold white veil patches. Coprinopsis stangliana is a much smaller lookalike with smaller spores that grows primarily in dry, open calcareous grasslands rather than shaded deciduous woodland.",
+      "notes": "Like other large inkcaps, the gills undergo autodigestion (deliquescence) from the margin inward, turning into a black spore-laden ink that aids dispersal in wet weather. It is considered an indicator of base-rich, calcareous soils and is listed as vulnerable on several European national red lists.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=474632",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=474632",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=474632",
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.first-nature.com/fungi/coprinopsis-picacea.php",
+        "https://en.wikipedia.org/wiki/Coprinopsis_picacea",
+        "https://www.myko.cz/myko-atlas/Coprinopsis-picacea/",
+        "https://de.wikipedia.org/wiki/Specht-Tintling",
+        "https://fr.wikipedia.org/wiki/Coprin_pie",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "es": {
+      "description": "Un llamativo coprino saprótrofo, solitario o en grupos laxos, propio de bosques caducifolios, especialmente hayedos sobre suelos alcalinos o calcáreos. Ampliamente distribuido por Europa, desde Gran Bretaña e Irlanda hasta Europa del Este y el Mediterráneo, también aparece en Australia y, con menor frecuencia, en América del Norte.",
+      "cap": "De 2–7 cm de altura y 1,5–4 cm de anchura cuando es joven y ovoide, expandiéndose a un sombrero campanulado o cónico de 3–8 cm de diámetro y 7–12 cm de altura antes de que el margen se abra hacia fuera, se enrolle hacia arriba, se ennegrezca y se delicuesca. Inicialmente envuelto en un velo universal continuo de color blanco a crema que se desgarra al expandirse el sombrero, dejando placas irregulares y persistentes de color blanco, grisáceo o gris parduzco que contrastan marcadamente con la superficie brillante de color pardo oscuro a negruzco, finamente estriada, situada debajo.",
+      "hymenium": "Las láminas son apretadas y libres a estrechamente adnatas al pie, inicialmente blanquecinas a blanco grisáceas, tornándose rosadas a pardo grisáceas y finalmente ennegreciéndose y delicuesciendo en un líquido similar a la tinta desde el margen hacia el interior. Los basidios son tetraspóricos; los queilocistidios y pleurocistidios son vesiculosos, utriformes o tubulares, de hasta 150 × 50 µm.",
+      "stipe": "Pie de 5–20 cm de altura, alcanzando ocasionalmente los 30 cm, y 0,5–1,5 cm de grosor, cilíndrico, ligeramente atenuado hacia el ápice y claviforme a algo bulboso en la base. Blanquecino a grisáceo pálido, finamente floconoso a fibriloso o escamoso —formando a veces tenues bandas transversales hacia la base—, hueco y frágil. Carece de anillo.",
+      "flesh": "Carne delgada, frágil, acuosa y blanquecina. El olor es débil a claramente desagradable, descrito de diversas maneras como fenicado, similar al gas de hulla o a bolas de naftalina; el sabor es suave a desagradable.",
+      "sporePrint": "Negra. Las esporas son de elipsoides a ovoides, lisas, de color pardo oscuro a negruzco, de 13–19 × 9–13 µm (ocasionalmente hasta 6,5 µm de anchura, Q = 1,25–1,60), con poro germinativo central.",
+      "habitat": "Saprótrofo sobre humus rico en nutrientes, alcalino o calcáreo, y hojarasca en bosques caducifolios, predominantemente bajo hayas y con menor frecuencia bajo robles o carpes, ocasionalmente entre restos húmedos y sombreados de frondosas en los linderos del bosque. Suele crecer solitario o en pequeños grupos bien espaciados, fructificando de mayo a noviembre, con un máximo de agosto a octubre.",
+      "uses": "Tóxica y no comestible. Su ingestión provoca trastornos gastrointestinales, y su olor desagradable hace además que carezca de valor culinario.",
+      "confusion": "Antes de que el sombrero oscuro rompa el velo blanco, los carpóforos jóvenes ovoides pueden parecerse a la barbuda (Coprinus comatus), que tiene un sombrero blanco cubierto de fibras blancas lanosas levantadas, un anillo móvil en el pie y carece de cutícula pardo-negra bajo placas blancas. El coprino antialcohólico (Coprinopsis atramentaria) es más pequeño y presenta un sombrero gris parduzco más liso y estriado radialmente, sin llamativas placas blancas del velo. Coprinopsis stangliana es una especie parecida mucho más pequeña, con esporas menores, que crece principalmente en pastizales calcáreos secos y abiertos en lugar de bosques caducifolios sombreados.",
+      "notes": "Al igual que otros coprinos grandes, las láminas sufren autodigestión (delicuescencia) desde el margen hacia el interior, transformándose en una tinta negra cargada de esporas que favorece la dispersión en tiempo húmedo. Se considera un indicador de suelos básicos y calcáreos y figura como vulnerable en varias listas rojas nacionales europeas.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.inaturalist.org/taxa/63224"
+      ],
+      "label": "Coprino blanco y negro"
+    },
+    "et": {
+      "names": [],
+      "description": "Silmatorkav, üksikult või hõredate rühmadena kasvav saprotroofne tindik lehtmetsades, eriti pöögimetsades aluselistel või lubjarikastel muldadel. Laialt levinud Euroopas Suurbritanniast ja Iirimaast Ida-Euroopa ja Vahemere maadeni, esineb ka Austraalias ning harvemini Põhja-Ameerikas.",
+      "cap": "Noorelt munajas, 2–7 cm kõrge ja 1,5–4 cm lai, laienedes kellukjaks või koonusjaks kübaraks laiusega 3–8 cm ja kõrgusega 7–12 cm, enne kui kübara serv väljapoole laieneb, üles rullub, mustub ja sulab. Algul ümbritseb kübarat pidev valge kuni kreemjas üldkate, mis kübara laienedes rebeneb ning jätab järele ebakorrapärased püsivad valged, hallikad või pruunikashallid laigud, mis eristuvad teravalt allpool olevast läikivast tumepruunist kuni mustjast peenrihulisest kübarapinnast.",
+      "hymenium": "Eoslehed on tihedad ning jala küljes vabad kuni kitsalt kinnitunud, algul valkjad kuni hallikasvalged, muutuvad roosakaks kuni hallikaspruuniks ning lõpuks mustuvad ja sulavad servast sissepoole tindiseks vedelikuks. Basiidiumid on neljaeoselised; heilotsüstiidid ja pleurotsüstiidid on põisjad, lähkrilaadsed (utriformsed) või torujad ning ulatuvad mõõtmeteni kuni 150 × 50 µm.",
+      "stipe": "Jalg on 5–20 cm kõrge, vahel kuni 30 cm, ja 0,5–1,5 cm jäme, silindriline, tipu suunas veidi ahenev ning alusel nuiakujuliselt kuni kergelt muguljalt jämenenud. See on valkjas kuni kahvatuhall, peenelt helbeline kuni kiuline või soomuseline — aluse suunas mõnikord nõrkade põikvöötidega — õõnes ja habras. Rõngas puudub.",
+      "flesh": "Seeneliha on õhuke, habras, vesine ja valkjas. Lõhn on nõrgast kuni selgelt ebameeldivani, mida on kirjeldatud karboolilõhnalise, kivisöegaasitaolise või koipalle meenutavana; maitse on mahe kuni ebameeldiv.",
+      "sporePrint": "Eosetolm on must. Eosed on ellipsoidsed kuni munajad, siledad, tumepruunid kuni mustjad, mõõtmetega 13–19 × 9–13 µm (vahel laiusega kuni 6,5 µm, Q = 1,25–1,60), keskse idupooriga.",
+      "habitat": "Saprotroofne toitainerikkal, aluselisel või lubjarikkal huumusel ja lehekõdul lehtmetsades, peamiselt pöögi ning harvem tamme või valgepöögi all, vahel ka niiskete varjuliste lehtpuujäänuste seas metsaservas. Tavaliselt üksikult või väikeste hõredate rühmadena; viljakehad ilmuvad maist novembrini, kõrgajaga augustist oktoobrini.",
+      "uses": "Mürgine ja mittesöödav. Söömine põhjustab seedetrakti vaevusi ning ebameeldiv lõhn teeb seenest ka kulinaarses mõttes väärtusetu.",
+      "confusion": "Enne kui tume kübar valgest üldkattest läbi tungib, võivad noored munajad viljakehad meenutada tava-soomustindikut (Coprinus comatus), millel on ülespoole keerdunud takuste valgete kiududega kaetud valge kübar ja jalal liikuv rõngas ning puudub valgete laikude alune tumepruun-must kübaranahk. Voldiline tindik (Coprinopsis atramentaria) on väiksem ja siledama, radiaalselt rihulise hallikaspruuni kübaraga ilma silmatorkavate valgete kattelaikudeta. Coprinopsis stangliana on palju väiksem sarnane liik väiksemate eostega, mis kasvab varjuliste lehtmetsade asemel peamiselt kuivadel avatud lubjarikastel rohumaadel.",
+      "notes": "Nagu teistelgi suurtel tindikutel, toimub eoslehtedel servast sissepoole iselagunemine (autolüüs), mille käigus need muutuvad mustaks eoseid sisaldavaks tindiks, soodustades levimist niiske ilmaga. Liiki peetakse aluselis-lubjarikaste muldade indikaatoriks ning see on kantud ohualtina mitmesse Euroopa riiklikku punasesse nimestikku.",
+      "sourceUrls": []
+    },
+    "fa": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "قارچ جوهری ساپروتروف چشم‌گیری است که به‌صورت منفرد یا در گروه‌های پراکنده در جنگل‌های پهن‌برگ، به‌ویژه جنگل‌های راش روی خاک‌های قلیایی یا آهکی می‌روید. این گونه در سراسر اروپا از بریتانیا و ایرلند تا اروپای شرقی و حوضه مدیترانه گسترده است و در استرالیا و با فراوانی کمتر در آمریکای شمالی نیز دیده می‌شود.",
+      "cap": "کلاهک در جوانی تخم‌مرغی‌شکل و به بلندی ۲–۷ سانتی‌متر و پهنای ۱٫۵–۴ سانتی‌متر است و سپس به‌صورت زنگوله‌ای یا مخروطی با قطر ۳–۸ سانتی‌متر و بلندی ۷–۱۲ سانتی‌متر باز می‌شود، پیش از آنکه لبه آن به بیرون برگشته، به بالا لوله شود، سیاه گردد و آبکی و جوهری شود. در ابتدا در پوشینه عمومی پیوسته سفید تا کرم محصور است که با باز شدن کلاهک پاره می‌شود و تکه‌های نامنظم و پایدار سفید، خاکستری یا خاکستری-قهوه‌ای بر جای می‌گذارد که تضاد شدیدی با سطح براق قهوه‌ای تیره تا مایل به سیاه و ظریف‌شیاردار کلاهک در زیر آن دارند.",
+      "hymenium": "تیغه‌ها متراکم و آزاد تا اندکی متصل به ساقه هستند؛ ابتدا سفید مایل به کرم تا سفید خاکستری‌اند، سپس صورتی تا قهوه‌ای خاکستری می‌شوند و سرانجام از لبه به سمت داخل سیاه شده و به مایعی جوهری تبدیل می‌گردند. بازیدی‌ها چهارهاگه هستند؛ سیستیدی‌های لبه و سطح تیغه کیسه‌ای، خمره‌ای یا لوله‌ای‌شکل بوده و اندازه آن‌ها تا ۱۵۰ × ۵۰ میکرومتر می‌رسد.",
+      "stipe": "ساقه ۵–۲۰ سانتی‌متر و گاهی تا ۳۰ سانتی‌متر بلند و ۰٫۵–۱٫۵ سانتی‌متر ضخیم است؛ استوانه‌ای، کمی باریک‌شونده به سمت نوک و چماقی تا کمی پیازدار در قاعده است. رنگ آن سفید مایل به کرم تا خاکستری کم‌رنگ است و با کرک‌های ظریف، رشته‌های ریز یا فلس‌های ظریف پوشیده شده که گاهی نوارهای عرضی کم‌رنگی در نزدیکی قاعده می‌سازند؛ توخالی و شکننده است و حلقه ندارد.",
+      "flesh": "گوشت نازک، شکننده، آبکی و سفید مایل به کرم است. بوی آن از ضعیف تا کاملاً ناخوشایند متغیر بوده و به بوی کربولیک، گاز زغال‌سنگ یا گلوله‌های نفتالین تشبیه شده است؛ طعم آن ملایم تا ناخوشایند است.",
+      "sporePrint": "نقش هاگ سیاه است. هاگ‌ها بیضوی تا تخم‌مرغی، صاف و قهوه‌ای تیره تا مایل به سیاه هستند، به اندازه ۱۳–۱۹ × ۹–۱۳ میکرومتر (گاهی تا ۶٫۵ میکرومتر پهنا، Q = ۱٫۲۵–۱٫۶۰)، و دارای منفذ تندشی مرکزی هستند.",
+      "habitat": "ساپروتروف روی هوموس و لاش‌برگ غنی از مواد مغذی، قلیایی یا آهکی در جنگل‌های پهن‌برگ، عمدتاً زیر درختان راش و با فراوانی کمتر زیر بلوط یا ممرز، و گاهی در میان بقایای چوبی مرطوب و سایه‌دار درختان پهن‌برگ در حاشیه جنگل‌ها. معمولاً منفرد یا در گروه‌های کوچک و با فاصله می‌روید و از مه تا نوامبر با اوج باردهی از اوت تا اکتبر دیده می‌شود.",
+      "uses": "سمی و غیرخوراکی است. مصرف آن باعث ناراحتی‌های گوارشی می‌شود و بوی ناخوشایندش نیز آن را بی‌ارزش غذایی می‌کند.",
+      "confusion": "پیش از آنکه کلاهک تیره از پوشینه سفید بیرون بزند، اندام‌های بارده جوان و تخم‌مرغی‌شکل می‌توانند شبیه Coprinus comatus باشند؛ گونه‌ای که کلاهک سفید پوشیده از رشته‌های پرزدار و برگشته به بالای سفید و حلقه‌ای متحرک روی ساقه دارد و فاقد پوستک قهوه‌ای-سیاه تیره در زیر تکه‌های سفید است. Coprinopsis atramentaria کوچک‌تر است و کلاهک خاکستری-قهوه‌ای صاف‌تر و با شیارهای شعاعی بدون تکه‌های برجسته سفید پوشینه دارد. Coprinopsis stangliana گونه مشابه بسیار کوچک‌تری با هاگ‌های کوچک‌تر است که عمدتاً در علفزارهای آهکی خشک و باز می‌روید نه در جنگل‌های پهن‌برگ سایه‌دار.",
+      "notes": "همانند دیگر قارچ‌های جوهری بزرگ، تیغه‌ها از لبه به سمت داخل دچار خودهضمی و آبکی‌شدن می‌شوند و به جوهر سیاه سرشار از هاگ تبدیل می‌گردند که به پراکنش در هوای مرطوب کمک می‌کند. این گونه شاخص خاک‌های آهکی غنی از بازها به شمار می‌رود و در چندین فهرست سرخ ملی اروپا در رده آسیب‌پذیر (Vulnerable) ثبت شده است."
+    },
+    "fi": {
+      "label": "ruutumustesieni",
+      "names": [],
+      "description": "Näyttävä, yksittäin tai harvoina ryhminä kasvava lahottajasieni lehtimetsissä, erityisesti emäksisen tai kalkkipitoisen maan pyökkimetsissä. Se on laajalle levinnyt Euroopassa Britanniasta ja Irlannista Itä-Eurooppaan ja Välimeren alueelle, ja sitä esiintyy myös Australiassa sekä harvinaisempana Pohjois-Amerikassa.",
+      "cap": "Nuorena munamainen, 2–7 cm korkea ja 1,5–4 cm leveä; laajenee kellomaiseksi tai kartiomaiseksi lakiksi, joka on 3–8 cm leveä ja 7–12 cm korkea, ennen kuin reuna kääntyy ulospäin, kiertyy ylös, mustuu ja liukenee. Aluksi lakkia ympäröi yhtenäinen valkoinen tai kermanvalkoinen yleissuojus, joka repeilee lakin kasvaessa ja jättää jäljelle epäsäännöllisiä, pysyviä valkoisia, harmahtavia tai ruskeanharmaita laikkuja, jotka erottuvat jyrkästi alla olevasta kiiltävästä, tummanruskeasta tai mustahkosta, hienouurteisesta lakin pinnasta.",
+      "hymenium": "Heltat ovat tiheät ja jalassa vapaat tai kapeasti kiinnittyneet, aluksi valkeahkot tai harmaanvalkoiset, muuttuvat vaaleanpunaisista harmaanruskeiksi ja lopulta mustuvat sekä liukenevat mustemaiseksi nesteeksi reunasta sisäänpäin. Basidiat ovat nelitiöisiä; keilokystidit ja pleurokystidit ovat rakkulamaisia, leilimäisiä (utriformisia) tai putkimaisia, enintään 150 × 50 µm.",
+      "stipe": "Jalka on 5–20 cm korkea, toisinaan jopa 30 cm, ja 0,5–1,5 cm paksu, lieriömäinen, latvaa kohti lievästi kapeneva ja tyvestä nuijamainen tai hieman mukulamaisesti paksuuntunut. Se on valkeahko tai vaaleanharmaa, hienohötyinen, säikeinen tai suomuinen — tyveä kohti joskus himmeästi poikkivyöhykkeinen — ontto ja hauras. Rengasta ei ole.",
+      "flesh": "Malto on ohutta, haurasta, vetistä ja valkeahkoa. Haju on heikosta selvästi epämiellyttävään ja sitä kuvataan vaihdellen karbolimaiseksi, kivihiilikaasumaiseksi tai koipalloja muistuttavaksi; maku on mieto tai epämiellyttävä.",
+      "sporePrint": "Itiöpöly on mustaa. Itiöt ovat ellipsoidisia tai munamaisia, sileitä, tummanruskeita tai mustahkoja, kooltaan 13–19 × 9–13 µm (toisinaan leveydeltään vain 6,5 µm, Q = 1,25–1,60), ja niissä on keskellä itämishuokonen.",
+      "habitat": "Lahottaja ravinteikkaalla, emäksisellä tai kalkkipitoisella humuksella ja lehtikarikkeella lehtimetsissä, pääasiassa pyökin ja harvemmin tammen tai valkopyökin alla, toisinaan myös kosteassa ja varjoisassa lehtipuukarikkeessa metsänreunoilla. Kasvaa tavallisesti yksittäin tai pienissä, väljissä ryhmissä; itiöemiä tavataan toukokuusta marraskuuhun, runsaimmin elokuusta lokakuuhun.",
+      "uses": "Myrkyllinen ja syötäväksi kelpaamaton. Nauttiminen aiheuttaa ruoansulatuskanavan oireita, ja epämiellyttävä haju tekee siitä myös ruokasienenä arvottoman.",
+      "confusion": "Ennen kuin tumma lakki puhkaisee valkoisen suojuksen, nuoret munamaiset itiöemät voivat muistuttaa suomumustesientä (Coprinus comatus), jonka valkoista lakkia peittävät ylöspäin käpristyneet takkuisen valkoiset kuidut, jalassa on liikkuva rengas ja valkoisten laikkujen alta puuttuu tummanruskea–musta pintakelmu. Harmaamustesieni (Coprinopsis atramentaria) on pienempi ja sillä on sileämpi, säteittäisesti uurtunut harmaanruskea lakki ilman selkeitä valkoisia suojuslaikkuja. Coprinopsis stangliana on huomattavasti pienempi näköislaji, jolla on pienemmät itiöt ja joka kasvaa pääasiassa kuivilla, avoimilla kalkkipitoisilla niityillä varjoisien lehtimetsien sijaan.",
+      "notes": "Kuten muillakin suurilla mustesienillä, heltat käyvät läpi itsesulamisen (autolyysin) reunasta sisäänpäin ja muuttuvat mustaksi, itiöpitoiseksi musteeksi, mikä edistää itiöiden leviämistä kostealla säällä. Lajia pidetään runsasravinteisten, kalkkipitoisten maiden indikaattorina, ja se on merkitty vaarantuneeksi useilla Euroopan kansallisilla punaisilla listoilla.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716"
+      ]
+    },
+    "fr": {
+      "description": "Un coprin saprotrophe remarquable, solitaire ou en groupes lâches, des forêts de feuillus, en particulier des hêtraies sur sols alcalins ou calcaires. Largement répandu en Europe, de la Grande-Bretagne et de l'Irlande jusqu'à l'Europe de l'Est et au bassin méditerranéen, il se rencontre également en Australie et, plus rarement, en Amérique du Nord.",
+      "cap": "Haut de 2–7 cm et large de 1,5–4 cm dans sa jeunesse lorsqu'il est ovoïde, s'étalant en un chapeau campanulé ou conique de 3–8 cm de diamètre et 7–12 cm de hauteur avant que la marge ne s'évase vers l'extérieur, ne s'enroule, ne noircisse et ne devienne déliquescente. Initialement enfermé dans un voile général continu blanc à crème qui se déchire lors de l'expansion du chapeau, laissant des plaques irrégulières persistantes blanches, grisâtres ou gris-brunâtre contrastant vivement avec la surface brillante brun foncé à noirâtre et finement striée sous-jacente.",
+      "hymenium": "Les lames sont serrées et libres à étroitement adnées au pied, d'abord blanchâtres à blanc grisâtre, devenant rosâtres à gris-brun, puis noircissant et se liquéfiant en un fluide noir d'encre de la marge vers l'intérieur. Les basides sont tétrasporiques ; les cheilocystides et les pleurocystides sont vésiculeuses, utriformes ou tubulaires, mesurant jusqu'à 150 × 50 µm.",
+      "stipe": "Le pied mesure 5–20 cm de hauteur, atteignant parfois 30 cm, pour 0,5–1,5 cm d'épaisseur, cylindrique, légèrement atténué vers le sommet et claviforme à légèrement bulbeux à la base. Blanchâtre à grisâtre pâle, finement floconneux à fibrilleux ou écailleux — formant parfois de vagues bandes transversales vers la base —, creux et fragile. Il n'y a pas d'anneau.",
+      "flesh": "La chair est mince, fragile, aqueuse et blanchâtre. L'odeur est faible à nettement désagréable, diversement décrite comme phéniquée, rappelant le gaz de houille ou la naphtaline ; la saveur est douce à désagréable.",
+      "sporePrint": "Noire. Les spores sont ellipsoïdes à ovoïdes, lisses, brun foncé à noirâtres, mesurant 13–19 × 9–13 µm (descendant parfois jusqu'à 6,5 µm de largeur, Q = 1,25–1,60), avec un pore germinatif central.",
+      "habitat": "Saprotrophe sur l'humus riche en nutriments, alcalin ou calcaire et la litière de feuilles des forêts de feuillus, principalement sous les hêtres et moins fréquemment sous les chênes ou les charmes, parfois parmi les débris humides et ombragés de feuillus en lisière forestière. Généralement solitaire ou en petits groupes bien espacés, fructifiant de mai à novembre, avec un pic d'août à octobre.",
+      "uses": "Toxique et non comestible. L'ingestion provoque des troubles gastro-intestinaux, et son odeur désagréable lui ôte également toute valeur culinaire.",
+      "confusion": "Avant que le chapeau sombre ne perce le voile blanc, les jeunes sporophores ovoïdes peuvent ressembler au coprin chevelu (Coprinus comatus), qui possède un chapeau blanc couvert de fibres blanches hérissées vers le haut, un anneau mobile sur le pied et est dépourvu de cuticule brun-noir sous des plaques blanches. Le coprin noir d'encre (Coprinopsis atramentaria) est plus petit et présente un chapeau gris-brun plus lisse, sillonné radialement, sans plaques nettes de voile blanc. Coprinopsis stangliana est une espèce sosie nettement plus petite, à spores plus petites, qui pousse principalement dans les pelouses calcaires sèches et ouvertes plutôt que dans les forêts de feuillus ombragées.",
+      "notes": "Comme chez d'autres grands coprins, les lames subissent une autodigestion (déliquescence) de la marge vers l'intérieur, se transformant en une encre noire chargée de spores qui favorise la dispersion par temps humide. Il est considéré comme un indicateur de sols basiques et calcaires et figure comme vulnérable sur plusieurs listes rouges nationales européennes.",
+      "names": [
+        "Coprin noir et blanc"
+      ],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Coprin_pie",
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ],
+      "label": "Coprin pie"
+    },
+    "he": {
+      "label": "דיואית עקודה",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63224"
+      ],
+      "description": "פטריית דיו סאפרוטרופית מרשימה הגדלה ביחידות או בקבוצות דלילות ביערות נשירים, ובייחוד ביערות אשור על קרקעות בסיסיות או גירניות. נפוצה ברחבי אירופה מבריטניה ואירלנד עד מזרח אירופה ואגן הים התיכון, ומופיעה גם באוסטרליה ובאופן נדיר יותר בצפון אמריקה.",
+      "cap": "הכובע בגובה 2–7 ס\"מ וברוחב 1.5–4 ס\"מ בצעירותו וצורתו דמוית ביצה, ולאחר מכן מתרחב לצורה פעמונית או חרוטית בקוטר 3–8 ס\"מ ובגובה 7–12 ס\"מ לפני שהשוליים מתפשקים החוצה, מתגלגלים כלפי מעלה, משחירים ונמסים. בתחילה הוא עטוף בהינומה כללית רציפה שצבעה לבן עד קרם, הנקרעת עם התרחבות הכובע ומותירה כתמים בלתי סדירים ויציבים בצבע לבן, אפרפר או אפור-חום הבולטים בחדות על פני השטח המבריקים, החומים-כהים עד שחלחלים והחרוצים עדינות של הכובע שמתחת.",
+      "hymenium": "הדפים צפופים וחופשיים עד נוגעים קלות ברגל; בתחילה צבעם לבנבן עד לבן-אפרפר, בהמשך הם הופכים לוורדרדים עד חומים-אפרפרים, ולבסוף משחירים ונמסים לנוזל דמוי דיו מן השוליים פנימה. הבסידיות בעלות ארבעה נבגים; הציסטידיות שעל שפת הדף ועל פניו שלפוחיתיות, דמויות נאד או צינוריות, ומגיעות לממדים של עד 150 × 50 מיקרומטר.",
+      "stipe": "הרגל בגובה 5–20 ס\"מ, לעיתים עד 30 ס\"מ, ובעובי 0.5–1.5 ס\"מ, גלילית, מצטמצמת קלות כלפי הקודקוד, ודמוית אלה עד מעובה קלות בבסיס. צבעה לבנבן עד אפרפר חיוור, מכוסה בצמיריות עדינה, סיבים דקים או קשקשים עדינים היוצרים לעיתים פסים רוחביים קלושים לכיוון הבסיס; היא חלולה ושבירה, ואין עליה טבעת.",
+      "flesh": "הבשר דק, שביר, מימי ולבנבן. הריח חלש עד לא נעים במובהק, ומתואר כריח קרבול, גז פחם או כדורי נפתלין; הטעם מתון עד לא נעים.",
+      "sporePrint": "הדפס הנבגים שחור. הנבגים אליפסואידיים עד דמויי ביצה, חלקים, חומים כהים עד שחלחלים, בגודל 13–19 × 9–13 מיקרומטר (לעיתים רחבם יורד עד 6.5 מיקרומטר, Q = 1.25–1.60), ובעלי נקב נביטה מרכזי.",
+      "habitat": "סאפרוטרופית על רקבובית ופסולת עלים עשירה בחומרי מזון, בסיסית או גירנית ביערות נשירים, בעיקר תחת אשור, ובשכיחות נמוכה יותר תחת אלון או קרפינוס, ולעיתים בין שרידי עצים רחבי-עלים לחים ומוצלים בשולי יערות. גדלה לרוב ביחידות או בקבוצות קטנות ומרווחות, ומניבה גופי פרי ממאי עד נובמבר, עם שיא מאוגוסט עד אוקטובר.",
+      "uses": "רעיל ולא למאכל. אכילתו גורמת להפרעות במערכת העיכול, וריחו הלא נעים שולל ממנו כל ערך קולינרי.",
+      "confusion": "לפני שהכובע הכהה פורץ מבעד להינומה הלבנה, גופי הפרי הצעירים דמויי הביצה עלולים להידמות ל-Coprinus comatus, שלו כובע לבן המכוסה סיבים לבנים מדובללים ופונים כלפי מעלה, טבעת נעה על הרגל, והוא חסר קרום כובע חום-שחור כהה מתחת לכתמים לבנים. Coprinopsis atramentaria קטן יותר ולו כובע אפור-חום חלק יותר וחרוץ רדיאלית ללא כתמי הינומה לבנים בולטים. Coprinopsis stangliana הוא מין דומה קטן בהרבה בעל נבגים קטנים יותר, הגדל בעיקר בערבות עשב גירניות יבשות וחשופות ולא ביערות נשירים מוצלים.",
+      "notes": "בדומה לפטריות דיו גדולות אחרות, הדפים עוברים עיכול עצמי ונמסים מן השוליים פנימה לנוזל דיו שחור עמוס נבגים המסייע להפצה במזג אוויר לח. היא נחשבת לסמן לקרקעות גירניות עשירות בבסיסים, ומופיעה במעמד פגיע (Vulnerable) בכמה רשימות אדומות לאומיות באירופה."
+    },
+    "hi": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "पर्णपाती वनों, विशेषकर क्षारीय या चूनेदार मिट्टी वाले बीच के जंगलों में पाया जाने वाला एक आकर्षक, एकल या ढीले समूहों में उगने वाला मृतोपजीवी स्याही कवक है। यह ब्रिटेन और आयरलैंड से लेकर पूर्वी यूरोप और भूमध्यसागरीय क्षेत्र तक पूरे यूरोप में व्यापक रूप से फैला है, तथा ऑस्ट्रेलिया और कम सामान्यतः उत्तरी अमेरिका में भी पाया जाता है।",
+      "cap": "युवा और अंडाकार अवस्था में टोपी 2–7 cm ऊँची और 1.5–4 cm चौड़ी होती है, जो फैलकर 3–8 cm चौड़ी और 7–12 cm ऊँची घंटी के आकार की या शंक्वाकार टोपी बन जाती है, और फिर इसका किनारा बाहर की ओर फैलता है, ऊपर की ओर मुड़ता है, काला पड़ता है तथा गलकर द्रवित हो जाता है। आरंभ में यह एक निरंतर सफेद से क्रीम रंग के सार्वभौमिक आवरण में ढकी होती है, जो टोपी के फैलने पर फट जाता है और अनियमित, स्थायी सफेद, धूसर या भूरे-धूसर धब्बे छोड़ता है जो नीचे की चमकदार गहरे भूरे से काले रंग की बारीक खांचेदार टोपी की सतह से स्पष्ट विपरीत दिखते हैं।",
+      "hymenium": "गिल्स घने होते हैं और डंठल से मुक्त से लेकर संकीर्ण रूप से जुड़े रहते हैं; शुरू में सफेदी लिए या धूसर-सफेद होते हैं, फिर गुलाबी से धूसर-भूरे हो जाते हैं, और अंततः किनारे से अंदर की ओर काले पड़कर स्याही जैसे द्रव में गल जाते हैं। बेसिडिया चार बीजाणुओं वाले होते हैं; किनारे और पार्श्व की सिस्टिडिया थैलीनुमा, मशक के आकार की या नलिकाकार होती हैं, जिनका माप 150 × 50 µm तक होता है।",
+      "stipe": "डंठल 5–20 cm लंबा, कभी-कभी 30 cm तक, और 0.5–1.5 cm मोटा होता है; बेलनाकार, शीर्ष की ओर थोड़ा पतला होता हुआ, और आधार पर गदाकार से हल्का कंदिल होता है। यह सफेदी लिए से हल्का धूसर, महीन रूईदार से रेशेदार या शल्की होता है—जो कभी-कभी आधार की ओर हल्की अनुप्रस्थ पट्टियाँ बनाता है—खोखला और भंगुर होता है। इसमें कोई वलय नहीं होता।",
+      "flesh": "गूदा पतला, भंगुर, जलीय और सफेदी लिए होता है। गंध हल्की से लेकर स्पष्ट रूप से अप्रिय होती है, जिसे कार्बोलिक, कोयला-गैस जैसी या नेफ्थलीन की गोलियों जैसी बताया गया है; स्वाद हल्का से अप्रिय होता है।",
+      "sporePrint": "बीजाणु छाप काली होती है। बीजाणु दीर्घवृत्ताकार से अंडाकार, चिकने, गहरे भूरे से काले रंग के होते हैं, जिनका माप 13–19 × 9–13 µm (कभी-कभी चौड़ाई 6.5 µm तक कम, Q = 1.25–1.60) होता है और इनमें एक केंद्रीय अंकुरण छिद्र होता है।",
+      "habitat": "यह पर्णपाती वनों में पोषक तत्वों से भरपूर, क्षारीय या चूनेदार ह्यूमस और पत्तों के कचरे पर मृतोपजीवी के रूप में उगता है, मुख्यतः बीच के पेड़ों के नीचे और कम बार ओक या हॉर्नबीम के नीचे, कभी-कभी जंगल के किनारों पर नम, छायादार कठोर लकड़ी के मलबे के बीच भी पाया जाता है। आमतौर पर एकल या छोटे, दूर-दूर स्थित समूहों में मई से नवंबर तक फलता है, जिसमें अगस्त से अक्टूबर के बीच चरम होता है।",
+      "uses": "विषाक्त और अखाद्य। इसके सेवन से जठरांत्र संबंधी विकार उत्पन्न होते हैं, और इसकी अप्रिय गंध के कारण भी इसका कोई पाक महत्व नहीं है।",
+      "confusion": "गहरी टोपी के सफेद आवरण को भेदकर बाहर आने से पहले, युवा अंडाकार फलनकाय Coprinus comatus से मिलते-जुलते लग सकते हैं, जिसकी सफेद टोपी ऊपर मुड़े हुए झबरे सफेद रेशों से ढकी होती है, डंठल पर एक चल वलय होता है, और सफेद धब्बों के नीचे गहरे भूरे-काले रंग की टोपी की बाह्यत्वचा नहीं होती। Coprinopsis atramentaria छोटा होता है और इसकी टोपी अधिक चिकनी, त्रिज्यीय खांचेदार तथा धूसर-भूरे रंग की होती है जिस पर स्पष्ट सफेद आवरण धब्बे नहीं होते। Coprinopsis stangliana एक बहुत छोटा सदृश कवक है जिसके बीजाणु छोटे होते हैं और यह छायादार पर्णपाती वनों के बजाय मुख्य रूप से शुष्क, खुले चूनेदार घास के मैदानों में उगता है।",
+      "notes": "अन्य बड़े स्याही कवकों की तरह, इसके गिल्स किनारे से अंदर की ओर स्वपाचन द्वारा गल जाते हैं और बीजाणुओं से भरी काली स्याही में बदल जाते हैं जो नम मौसम में फैलाव में मदद करती है। इसे क्षार-समृद्ध, चूनेदार मिट्टी का संकेतक माना जाता है और कई यूरोपीय राष्ट्रीय लाल सूचियों में इसे सुभेद्य (Vulnerable) के रूप में सूचीबद्ध किया गया है।"
+    },
+    "hr": {
+      "label": "Šarena gnojištarka",
+      "names": [
+        "Pjegava gnojištarka"
+      ],
+      "description": "Upadljiva saprotrofna gljiva iz skupine gnojištarki koja raste pojedinačno ili u rahlim skupinama u listopadnim šumama, osobito bukovim šumama na lužnatim ili vapnenačkim tlima. Široko je rasprostranjena diljem Europe od Britanije i Irske do istočne Europe i Sredozemlja, a pojavljuje se i u Australiji te, rjeđe, u Sjevernoj Americi.",
+      "cap": "Klobuk je u mladosti jajolik, visok 2–7 cm i širok 1,5–4 cm, a zatim se širi u zvonolik ili stožast klobuk promjera 3–8 cm i visine 7–12 cm prije nego što se rub izvrne prema van, uvije prema gore, pocrni i rastopi. Ispočetka je obavijen cjelovitim bijelim do kremastim općim ovojem (velumom) koji se širenjem klobuka kida i ostavlja nepravilne, postojane bijele, sivkaste ili smećkastosive krpe u oštrom kontrastu prema sjajnoj tamnosmeđoj do crnkastoj, fino izbrazdanoj površini klobuka ispod njih.",
+      "hymenium": "Listići su gusti i slobodni do usko prirasli uz stručak, isprva bjelkasti do sivkastobijeli, zatim postaju ružičasti do sivosmeđi te na kraju pocrne i rastope se u tintastu tekućinu od ruba prema unutrašnjosti. Bazidiji su četverosporni; heilocistide i pleurocistide su mjehuraste, vrećaste ili cjevaste, veličine do 150 × 50 µm.",
+      "stipe": "Stručak je visok 5–20 cm, povremeno doseže i 30 cm, te debeo 0,5–1,5 cm, valjkast, blago sužen prema vrhu i batinast do blago gomoljasto zadebljan u osnovi. Bjelkast je do blijedosivkast, fino pahuljičast do vlaknast ili ljuskav — ponekad prema osnovi tvori slabe poprečne pojaseve —, šupalj i krhak. Vjenčića nema.",
+      "flesh": "Meso je tanko, krhko, vodenasto i bjelkasto. Miris je slab do izrazito neugodan, različito opisivan kao karbolni, sličan gradskom plinu ili naftalinu; okus je blag do neugodan.",
+      "sporePrint": "Otisak spora je crn. Spore su elipsoidne do jajolike, glatke, tamnosmeđe do crnkaste, veličine 13–19 × 9–13 µm (povremeno široke svega 6,5 µm, Q = 1,25–1,60), sa središnjom klicinom porom.",
+      "habitat": "Raste saprotrofno na hranjivima bogatom, lužnatom ili vapnenačkom humusu i listincu u listopadnim šumama, pretežno ispod bukve, rjeđe ispod hrasta ili graba, a povremeno među vlažnim, zasjenjenim drvnim ostacima listača na rubovima šuma. Obično je pojedinačna ili u malim, razmaknutim skupinama, a plodonosi od svibnja do studenoga, s vrhuncem od kolovoza do listopada.",
+      "uses": "Otrovna i nejestiva gljiva. Konzumacija uzrokuje probavne tegobe, a neugodan miris također je čini kulinarski bezvrijednom.",
+      "confusion": "Prije nego što tamni klobuk probije bijeli ovoj, mlada jajolika plodišta mogu nalikovati velikoj gnojištarki (Coprinus comatus), koja ima bijeli klobuk prekriven uzdignutim čupavim bijelim vlaknima, pomični vjenčić na stručku i nema tamnosmeđe-crnu kožicu klobuka ispod bijelih krpa. Coprinopsis atramentaria je manja i ima glađi, radijalno izbrazdan sivosmeđi klobuk bez upadljivih bijelih krpa ovoja. Coprinopsis stangliana je znatno manja slična vrsta s manjim sporama koja raste ponajprije na suhim, otvorenim vapnenačkim travnjacima umjesto u zasjenjenim listopadnim šumama.",
+      "notes": "Kao i kod drugih krupnih koprinoidnih gljiva, listići od ruba prema unutrašnjosti prolaze kroz autodigestiju (delikvescenciju), pretvarajući se u crnu tintu punu spora koja pomaže rasprostranjivanju po vlažnom vremenu. Smatra se pokazateljem bazičnih, vapnenačkih tala te se na nekoliko europskih nacionalnih crvenih popisa navodi kao osjetljiva vrsta (Vulnerable).",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "hu": {
+      "description": "Feltűnő megjelenésű, magányosan vagy lazább csoportokban növő szaprotróf tintagomba lombos erdőkben, különösen lúgos vagy meszes talajú bükkösökben. Európában Nagy-Britanniától és Írországtól Kelet-Európáig és a Földközi-tenger térségéig széles körben elterjedt; előfordul Ausztráliában, valamint ritkábban Észak-Amerikában is.",
+      "cap": "Fiatalon tojásdad, 2–7 cm magas és 1,5–4 cm széles, majd kiterülve harang vagy kúp alakú, 3–8 cm átmérőjű és 7–12 cm magas, mielőtt a kalap széle kifelé hajlik, felkunkorodik, megfeketedik és elfolyósodik. Kezdetben összefüggő, fehér vagy krémszínű teljes burok veszi körül, amely a kalap növekedésével felszakadozik, szabálytalan, tartós fehér, szürkés vagy barnásszürke foltokat hagyva vissza; ezek élesen elütnek az alattuk lévő fényes, sötétbarnától feketésig terjedő, finoman barázdált kalapbőrtől.",
+      "hymenium": "A lemezek sűrűn állók, a tönknél szabadok vagy keskenyen felkanyarodva tönkhöz nőttek, kezdetben fehéresek vagy szürkésfehérek, majd rózsaszínesek, később szürkésbarnák, végül a széle felől befelé megfeketednek és tintaszerű folyadékká folyósodnak el. A bazídiumok négyspórásak; a keilocisztídiumok és pleurocisztídiumok hólyagszerűek, tömlő vagy cső alakúak, legfeljebb 150 × 50 µm méretűek.",
+      "stipe": "A tönk 5–20 cm magas, esetenként elérheti a 30 cm-t, és 0,5–1,5 cm vastag, hengeres, a csúcsa felé kissé elkeskenyedő, töve felé bunkós vagy enyhén gumós. Fehérestől halványszürkésig terjedő színű, finoman pelyhes, szálas vagy pikkelyes — a töve közelében olykor halvány harántsávokat alkotva —, üreges és törékeny. Gallérja nincs.",
+      "flesh": "A hús vékony, törékeny, vizenyős és fehéres. Szaga gyengétől kifejezetten kellemetlenig terjed, sokféleképpen karbolos, kőszéngázszerű vagy naftalingolyókra emlékeztető illatként írják le; íze enyhe vagy kellemetlen.",
+      "sporePrint": "Fekete. A spórák ellipszoidtól tojásdadig terjedő alakúak, simák, sötétbarnától feketésig terjedő színűek, 13–19 × 9–13 µm méretűek (esetenként akár 6,5 µm keskenyek, Q = 1,25–1,60), központi csírapórussal.",
+      "habitat": "Szaprotróf faj tápanyagban gazdag, lúgos vagy meszes humuszon és avarban, lombos erdőkben, elsősorban bükk, ritkábban tölgy vagy gyertyán alatt, alkalmilag nedves, árnyékos keményfa-maradványokon az erdőszéleken. Általában magányosan vagy kisebb, szellősen álló csoportokban terem májustól novemberig, augusztus és október közötti csúccsal.",
+      "uses": "Mérgező és nem ehető. Elfogyasztása gyomor- és bélrendszeri panaszokat okoz, kellemetlen szaga pedig gasztronómiai szempontból is értéktelenné teszi.",
+      "confusion": "Mielőtt a sötét kalap áttörné a fehér burkot, a fiatal, tojásdad termőtestek hasonlíthatnak a gyapjas tintagombára (Coprinus comatus), amelynek fehér kalapját felálló, bozontos fehér szálak borítják, tönkjén elmozdítható gallér található, és hiányzik alatta a fehér foltokkal tarkított sötét barnásfekete kalapbőr. A ráncos tintagomba (Coprinopsis atramentaria) kisebb, kalapja simább, sugarasan barázdált szürkésbarna, feltűnő fehér burokfoltok nélkül. A Coprinopsis stangliana jóval kisebb, kisebb spórájú hasonló faj, amely árnyékos lombos erdők helyett főként száraz, nyílt meszes gyepeken nő.",
+      "notes": "Más nagy termetű tintagombákhoz hasonlóan a lemezek a széle felől befelé önfeloldódáson (delikveszcencián) mennek keresztül, és spórákkal teli fekete tintává alakulnak, ami nedves időben elősegíti a spórák terjedését. A bázisokban gazdag, meszes talajok jelzőfajának tekintik, és több európai nemzeti vörös listán sebezhető besorolással szerepel.",
+      "names": [
+        "harkály-tintagomba"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ],
+      "label": "harkálytintagomba"
+    },
+    "id": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "Jamur tinta saprotrof yang mencolok, tumbuh menyendiri atau berkelompok renggang di hutan gugur, terutama hutan beech pada tanah alkalin atau berkapur. Tersebar luas di seluruh Eropa mulai dari Inggris dan Irlandia hingga Eropa Timur dan kawasan Mediterania, jamur ini juga terdapat di Australia dan lebih jarang di Amerika Utara.",
+      "cap": "Tudung berukuran tinggi 2–7 cm dan lebar 1,5–4 cm saat masih muda dan berbentuk bulat telur, lalu mengembang menjadi bentuk lonceng atau kerucut berdiameter 3–8 cm dan tinggi 7–12 cm sebelum tepinya melebar keluar, menggulung ke atas, menghitam, dan mencair. Pada awalnya terbungkus selubung universal utuh berwarna putih hingga krem yang sobek saat tudung mengembang, meninggalkan bercak-bercak tidak beraturan yang menetap berwarna putih, keabu-abuan, atau abu-abu kecokelatan yang kontras tajam dengan permukaan tudung mengilap berwarna cokelat tua hingga kehitaman dan beralur halus di bawahnya.",
+      "hymenium": "Lamela rapat dan bebas hingga melekat sempit pada tangkai, awalnya keputihan hingga putih keabu-abuan, berubah menjadi merah muda hingga cokelat keabu-abuan, dan akhirnya menghitam serta mencair menjadi cairan bertinta dari tepi ke arah dalam. Basidium berspora empat; keilosistidia dan pleurosistidia berbentuk gelembung, kantung, atau tabung dengan ukuran hingga 150 × 50 µm.",
+      "stipe": "Tangkai setinggi 5–20 cm, sesekali mencapai 30 cm, dan tebal 0,5–1,5 cm, berbentuk silindris, sedikit meruncing ke arah puncak, dan berbentuk gada hingga agak membulat di pangkalnya. Berwarna keputihan hingga abu-abu pucat, bersisik kapas halus hingga berserabut atau bersisik—terkadang membentuk pita melintang samar di dekat pangkal—berongga, dan rapuh. Tidak ada cincin.",
+      "flesh": "Daging tipis, rapuh, berair, dan keputihan. Baunya lemah hingga jelas tidak sedap, digambarkan beragam seperti karbol, mirip gas batu bara, atau menyerupai kapur barus; rasanya hambar hingga tidak enak.",
+      "sporePrint": "Jejak spora hitam. Spora berbentuk elipsoid hingga bulat telur, halus, berwarna cokelat tua hingga kehitaman, berukuran 13–19 × 9–13 µm (sesekali lebarnya serendah 6,5 µm, Q = 1,25–1,60), dengan pori kecambah di tengah.",
+      "habitat": "Saprotrof pada humus dan serasah daun yang kaya nutrisi, bersifat alkalin atau berkapur di hutan gugur, terutama di bawah pohon beech, dan lebih jarang di bawah ek atau hornbeam, sesekali di antara serpihan kayu keras yang lembap dan teduh di tepi hutan. Biasanya tumbuh menyendiri atau dalam kelompok kecil yang berjarak, berbuah dari Mei hingga November dengan puncak dari Agustus hingga Oktober.",
+      "uses": "Beracun dan tidak dapat dimakan. Mengonsumsinya menyebabkan gangguan saluran pencernaan, dan baunya yang tidak sedap juga membuatnya tidak bernilai kuliner.",
+      "confusion": "Sebelum tudung gelap menembus selubung putih, tubuh buah muda yang berbentuk bulat telur dapat menyerupai Coprinus comatus, yang memiliki tudung putih tertutup serat putih kasar mencuat ke atas, cincin yang dapat digeser pada tangkai, serta tidak memiliki kutikula tudung berwarna cokelat-hitam tua di bawah bercak putih. Coprinopsis atramentaria berukuran lebih kecil dan memiliki tudung abu-abu kecokelatan yang lebih halus dan beralur radial tanpa bercak selubung putih yang mencolok. Coprinopsis stangliana adalah jamur mirip yang jauh lebih kecil dengan spora lebih kecil, tumbuh terutama di padang rumput berkapur yang kering dan terbuka, bukan di hutan gugur yang teduh.",
+      "notes": "Seperti jamur tinta besar lainnya, lamelanya mengalami pencernaan sendiri dan mencair dari tepi ke arah dalam, berubah menjadi tinta hitam penuh spora yang membantu penyebaran saat cuaca basah. Jamur ini dianggap sebagai indikator tanah berkapur yang kaya basa dan tercantum sebagai rentan (Vulnerable) pada beberapa daftar merah nasional di Eropa."
+    },
+    "it": {
+      "description": "Un vistoso coprino saprotrofo, solitario o in gruppi sparsi, tipico dei boschi di latifoglie, in particolare delle faggete su suoli alcalini o calcarei. Ampiamente diffuso in tutta Europa, dalla Gran Bretagna e dall'Irlanda fino all'Europa orientale e al bacino del Mediterraneo, è presente anche in Australia e, più raramente, in Nord America.",
+      "cap": "Alto 2–7 cm e largo 1,5–4 cm da giovane e ovoide, si distende in un cappello campanulato o conico largo 3–8 cm e alto 7–12 cm prima che il margine si svasa verso l'esterno, si arrotoli verso l'alto, annerisca e diventi deliquescente. Inizialmente avvolto in un velo universale continuo da bianco a crema che si lacera con l'espansione del cappello, lasciando placche irregolari e persistenti bianche, grigiastre o bruno-grigiastre in netto contrasto con la sottostante superficie lucida bruno scura o nerastra, finemente solcata.",
+      "hymenium": "Le lamelle sono fitte e da libere a strettamente adnate al gambo, inizialmente biancastre o bianco-grigiastre, poi rosate fino a grigio-brune, infine annerenti e deliquescenti in un fluido nerastro simile a inchiostro dal margine verso l'interno. I basidi sono tetrasporici; cheilocistidi e pleurocistidi sono vescicolosi, utriformi o tubulari, fino a 150 × 50 µm.",
+      "stipe": "Gambo alto 5–20 cm, occasionalmente fino a 30 cm, e spesso 0,5–1,5 cm, cilindrico, leggermente attenuato verso l'apice e clavato fino a leggermente bulboso alla base. Biancastro o grigiastro pallido, finemente fioccoso fino a fibrilloso o squamuloso — formando talvolta tenui bande trasversali verso la base —, cavo e fragile. È privo di anello.",
+      "flesh": "Carne sottile, fragile, acquosa e biancastra. L'odore è da debole a nettamente sgradevole, descritto variamente come fenolico, simile al gas illuminante o alla naftalina; il sapore è da mite a sgradevole.",
+      "sporePrint": "Nera. Le spore sono da ellissoidali a ovoidi, lisce, bruno scure fino a nerastre, di 13–19 × 9–13 µm (occasionalmente fino a 6,5 µm di larghezza, Q = 1,25–1,60), con poro germinativo centrale.",
+      "habitat": "Saprotrofo su humus ricco di nutrienti, alcalino o calcareo, e lettiera di foglie in boschi di latifoglie, prevalentemente sotto faggio e meno frequentemente sotto quercia o carpino, talvolta tra detriti umidi e ombreggiati di latifoglie ai margini dei boschi. Solitamente solitario o in piccoli gruppi ben distanziati, fruttifica da maggio a novembre, con un picco tra agosto e ottobre.",
+      "uses": "Velenoso e non commestibile. L'ingestione provoca disturbi gastrointestinali e il suo odore sgradevole lo rende inoltre privo di valore culinario.",
+      "confusion": "Prima che il cappello scuro laceri il velo bianco, i giovani carpofori ovoidi possono assomigliare al coprino chiomato (Coprinus comatus), che ha un cappello bianco ricoperto di squame fibrose bianche rivolte verso l'alto, un anello mobile sul gambo ed è privo di cuticola bruno-nerastra sotto placche bianche. Coprinopsis atramentaria è più piccolo e presenta un cappello grigio-bruno più liscio, solcato radialmente, privo di vistose placche bianche del velo. Coprinopsis stangliana è una specie sosia molto più piccola, con spore più piccole, che cresce principalmente in praterie calcaree aride e aperte anziché in boschi ombrosi di latifoglie.",
+      "notes": "Come in altri grandi coprini, le lamelle vanno incontro ad autodigestione (deliquescenza) dal margine verso l'interno, trasformandosi in un inchiostro nero carico di spore che favorisce la dispersione con tempo umido. È considerato un indicatore di suoli ricchi di basi e calcarei ed è inserito come vulnerabile in diverse liste rosse nazionali europee.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "落葉広葉樹林、とりわけアルカリ性または石灰質土壌のブナ林に単生または疎らに群生する、人目を引く腐生性のヒトヨタケ類です。グレートブリテンおよびアイルランドから東ヨーロッパ、地中海地域にかけてのヨーロッパ全域に広く分布し、オーストラリアや、よりまれに北アメリカにも産します。",
+      "cap": "傘は幼時で卵形のとき高さ2–7 cm、幅1.5–4 cmで、のちに広がって直径3–8 cm、高さ7–12 cmの釣鐘形または円錐形となり、やがて縁が外側に反り返って巻き上がり、黒変して液化します。初めは途切れのない白色からクリーム色の外被膜に包まれており、傘が開くにつれてこれが裂け、下の光沢のある暗褐色から黒褐色で細かい条線のある傘表面との対比が際立つ、不規則で脱落しにくい白色、灰白色、または褐灰色の斑紋を残します。",
+      "hymenium": "ひだは密で、柄に対して離生から狭く直生し、初めは類白色から灰白色、のちに桃色から灰褐色へと変わり、最終的には縁から内側に向かって黒変し、インク状の液体へと液化します。担子器は4胞子性です。縁シスチジアおよび側シスチジアは嚢状、ウトリフォルム形、または円筒形で、大きさは最大150 × 50 µmに達します。",
+      "stipe": "柄は高さ5–20 cm、ときに30 cmに達し、太さ0.5–1.5 cmで、円筒形、頂部に向かってわずかに細まり、基部はこん棒状からわずかに球根状に膨らみます。類白色から淡灰色で、細かい綿毛状から繊維状または鱗片状を呈し、ときに基部付近に淡い横帯をつくり、中空でもろいです。つばはありません。",
+      "flesh": "肉は薄くてもろく、水っぽく、類白色です。においは弱いか明瞭に不快で、石炭酸臭、石炭ガス臭、または防虫剤のナフタリンに似たにおいなどと表現されます。味は温和から不快です。",
+      "sporePrint": "胞子紋は黒色です。胞子は楕円形から卵形で平滑、暗褐色から黒褐色で、大きさは13–19 × 9–13 µm（まれに幅が6.5 µmまで狭く、Q = 1.25–1.60）、中央に発芽孔があります。",
+      "habitat": "落葉広葉樹林の栄養に富んだアルカリ性または石灰質の腐植土および落葉上に腐生し、主にブナの下に発生し、ナラ類やシデ類の下ではより少なく、ときに林縁の湿った日陰の広葉樹の枯死木片の間にも見られます。ふつう単生または間隔をあけた小さな群れで発生し、5月から11月にかけて子実体を形成し、8月から10月が最盛期です。",
+      "uses": "有毒で不食です。摂取すると胃腸障害を引き起こし、不快なにおいのため食用価値もありません。",
+      "confusion": "暗い傘が白い外被膜を突き破る前の卵形の幼菌はCoprinus comatusに似ることがありますが、Coprinus comatusは上向きに反った毛羽立つ白い繊維に覆われた白い傘と柄に可動性のつばを持ち、白い斑紋の下に暗褐黒色の傘表皮を欠きます。Coprinopsis atramentariaはより小型で、顕著な白い外被膜の斑紋を持たず、より平滑で放射状の溝がある灰褐色の傘を持ちます。Coprinopsis stanglianaはずっと小型の類似種で胞子も小さく、日陰の落葉広葉樹林ではなく、主に乾燥した開けた石灰質の草地に発生します。",
+      "notes": "他の大型のヒトヨタケ類と同様に、ひだは縁から内側へ向かって自己消化し液化して胞子を多く含んだ黒いインク状となり、湿った天候下での胞子散布を助けます。塩基に富む石灰質土壌の指標とみなされており、ヨーロッパの複数の国のレッドリストで危急（Vulnerable）に指定されています。"
+    },
+    "ko": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "활엽수림, 특히 알칼리성이나 석회질 토양의 너도밤나무 숲에서 홀로 또는 성글게 무리 지어 자라는 눈에 띄는 부생성 먹물버섯류입니다. 영국과 아일랜드에서 동유럽과 지중해에 이르기까지 유럽 전역에 널리 분포하며, 호주와 드물게 북아메리카에서도 나타납니다.",
+      "cap": "갓은 어리고 달걀 모양일 때 높이 2–7 cm, 너비 1.5–4 cm이며, 자라면서 지름 3–8 cm, 높이 7–12 cm의 종 모양이나 원뿔 모양으로 펴진 뒤 가장자리가 바깥으로 벌어지고 말려 올라가며 검게 변해 액화합니다. 처음에는 끊김이 없는 흰색에서 크림색의 전체피막에 싸여 있다가 갓이 펴지면서 피막이 찢어져, 아래쪽의 광택이 나고 미세한 홈이 있는 암갈색에서 흑색 갓 표면과 뚜렷한 대비를 이루는 불규칙하고 잘 떨어지지 않는 흰색, 회백색 또는 갈회색 조각들을 남깁니다.",
+      "hymenium": "주름살은 빽빽하고 대에 떨어져 붙거나 좁게 붙으며, 처음에는 희끄무레하거나 회백색이다가 분홍빛에서 회갈색으로 변하고, 마침내 가장자리에서 안쪽으로 검게 변하며 먹물 같은 액체로 녹아내립니다. 담자기는 4포자성입니다. 연낭상체와 측낭상체는 주머니 모양, 항아리 모양 또는 관 모양이며, 크기는 최대 150 × 50 µm입니다.",
+      "stipe": "대는 높이 5–20 cm로 간혹 30 cm에 달하며, 굵기는 0.5–1.5 cm이고 원통형이며 꼭대기 쪽으로 갈수록 약간 가늘어지고 밑동은 곤봉 모양에서 약간 구근 모양으로 부풀어 있습니다. 색은 희끄무레하거나 옅은 회색이며, 미세한 솜털상에서 섬유상 또는 비늘상이고 때로는 밑동 쪽으로 희미한 가로 띠를 이루며, 속이 비어 있고 부서지기 쉽습니다. 턱받이는 없습니다.",
+      "flesh": "살은 얇고 부서지기 쉬우며 물기가 많고 희끄무레합니다. 냄새는 약하거나 뚜렷하게 불쾌하며, 석탄산 냄새, 석탄가스 냄새 또는 나프탈렌 좀약 냄새에 비유됩니다. 맛은 순하거나 불쾌합니다.",
+      "sporePrint": "포자문은 검은색입니다. 포자는 타원형에서 달걀형이며 매끄럽고 암갈색에서 흑색을 띠며, 크기는 13–19 × 9–13 µm(간혹 너비가 6.5 µm까지 작아지며, Q = 1.25–1.60)이고 중앙에 발아공이 있습니다.",
+      "habitat": "활엽수림의 양분이 풍부하고 알칼리성 또는 석회질인 부식토와 낙엽층에서 부생하며, 주로 너도밤나무 아래에 나고 참나무나 서어나무 아래에서는 덜 흔하며, 간혹 숲 가장자리의 습하고 그늘진 활엽수 잔해 사이에서도 자랍니다. 보통 홀로 또는 간격이 떨어진 작은 무리로 자라며, 5월부터 11월까지 버섯이 발생하고 8월부터 10월 사이에 가장 많이 나타납니다.",
+      "uses": "독버섯이며 식용 부적합합니다. 섭취하면 위장 장애를 일으키며, 불쾌한 냄새 때문에 식용 가치도 없습니다.",
+      "confusion": "어두운 갓이 흰 피막을 뚫고 나오기 전의 어린 달걀 모양 자실체는 Coprinus comatus와 비슷해 보일 수 있으나, Coprinus comatus는 위로 말려 올라간 거친 흰 섬유로 덮인 흰 갓과 대에 움직이는 턱받이가 있고 흰 조각 아래에 암갈흑색 갓 표피가 없습니다. Coprinopsis atramentaria는 크기가 더 작고, 도드라진 흰 피막 조각 없이 더 매끄럽고 방사상으로 홈이 패인 회갈색 갓을 가집니다. Coprinopsis stangliana는 훨씬 작은 유사종으로 포자도 더 작으며, 그늘진 활엽수림이 아니라 주로 건조하고 트인 석회질 초지에서 자랍니다.",
+      "notes": "다른 대형 먹물버섯류와 마찬가지로 주름살이 가장자리에서 안쪽으로 자가소화되어 액화하면서 포자가 가득한 검은 먹물로 변해 비 오는 날씨에 포자 분산을 돕습니다. 염기가 풍부한 석회질 토양의 지표종으로 여겨지며, 유럽 여러 국가의 국가 적색목록에 취약 (Vulnerable) 등급으로 등재되어 있습니다."
+    },
+    "lt": {
+      "label": "Girinė mėšlabudė",
+      "names": [],
+      "description": "Įspūdinga, pavieniui arba retomis grupėmis auganti saprotrofinė lapuočių miškų mėšlabudė, ypač dažna buko miškuose ant šarminių arba kalkingų dirvožemių. Plačiai paplitusi Europoje nuo Didžiosios Britanijos ir Airijos iki Rytų Europos bei Viduržemio jūros regiono, taip pat aptinkama Australijoje ir rečiau Šiaurės Amerikoje.",
+      "cap": "Jauna kiaušiniška, 2–7 cm aukščio ir 1,5–4 cm pločio, vėliau išsiskleidžia į varpelio formos arba kūgišką 3–8 cm skersmens ir 7–12 cm aukščio kepurėlę, kol kraštas išlinksta į išorę, užsiriečia į viršų, pajuoduoja ir ištirpsta. Iš pradžių apgaubta vientiso balto arba kreminio bendrojo šydo, kuris kepurėlei skleidžiantis plyšta ir palieka netaisyklingus, išliekančius baltus, pilkšvus arba rusvai pilkus lopinėlius, ryškiai kontrastuojančius su po jais esančiu blizgiu tamsiai rudu iki juosvo, smulkiai vagotu kepurėlės paviršiumi.",
+      "hymenium": "Lakšteliai tankūs, prie koto laisvi arba siaurai prisitvirtinę, iš pradžių balsvi iki pilkšvai baltų, vėliau rausvi iki pilkšvai rudų, o galiausiai pajuoduoja ir nuo krašto į vidų ištirpsta į rašalą primenantį skystį. Bazidijos ketursporės; cheilocistidės ir pleurocistidės pūsliškos, ąsotiškos arba vamzdiškos, siekia iki 150 × 50 µm.",
+      "stipe": "Kotas 5–20 cm aukščio, kartais iki 30 cm, ir 0,5–1,5 cm storio, cilindriškas, viršūnės link šiek tiek siaurėjantis, o ties pamatu buožiškas iki nežymiai gumbiškai sustorėjusio. Balsvas iki šviesiai pilkšvo, smulkiai dribsniuotas iki plaušuoto arba žvynuoto — pamato link kartais sudaro neryškius skersinius ruožus — tuščiaviduris ir trapus. Žiedo nėra.",
+      "flesh": "Trama plona, trapi, vandeninga ir balsva. Kvapas nuo silpno iki aiškiai nemalonaus, įvairiai apibūdinamas kaip karbolio, akmens anglių dujų arba primenantis naftalino rutuliukus; skonis švelnus iki nemalonaus.",
+      "sporePrint": "Sporų atspaudas juodas. Sporos elipsoidinės iki kiaušiniškų, lygios, tamsiai rudos iki juosvų, 13–19 × 9–13 µm dydžio (kartais siauresnės, iki 6,5 µm pločio, Q = 1,25–1,60), su centrine dygimo pora.",
+      "habitat": "Saprotrofinė rūšis ant maistingų medžiagų turtingo, šarminio arba kalkingo humuso ir lapų paklotės lapuočių miškuose, dažniausiai po bukais, rečiau po ąžuolais ar skroblais, kartais tarp drėgnų, pavėsingų lapuočių medžių liekanų miško pakraščiuose. Paprastai auga pavieniui arba nedidelėmis, retomis grupėmis, vaisiakūniai formuojasi nuo gegužės iki lapkričio mėnesio, daugiausia nuo rugpjūčio iki spalio.",
+      "uses": "Nuodingas ir nevalgomas. Suvalgius sukelia virškinimo trakto sutrikimų, o nemalonus kvapas taip pat lemia, kad kulinarinės vertės neturi.",
+      "confusion": "Kol tamsi kepurėlė dar nėra praplėšusi balto šydo, jauni kiaušiniški vaisiakūniai gali būti panašūs į gauruotąjį mėšlagrybį (Coprinus comatus), kuris turi baltą kepurėlę, apaugusią į viršų užsirietusiais gauruotais baltais plaušeliais, paslankų žiedą ant koto ir neturi tamsiai rudai juodos kepurėlės odelės po baltais lopinėliais. Rašalinė mėšlabudė (Coprinopsis atramentaria) yra mažesnė, turi lygesnę, spinduliškai vagotą pilkai rudą kepurėlę be ryškių baltų šydo lopinėlių. Coprinopsis stangliana yra gerokai mažesnė panaši rūšis smulkesnėmis sporomis, auganti daugiausia sausose, atvirose kalkingose pievose, o ne pavėsingose lapuočių giriose.",
+      "notes": "Kaip ir kituose stambiuose mėšlagrybiuose, lakšteliuose nuo krašto į vidų vyksta savaiminis susivirškinimas (autolizė), ir jie virsta juodu sporų pilnu rašalu, padedančiu sporoms plisti drėgnu oru. Laikoma bazingų, kalkingų dirvožemių indikatore ir kelių Europos šalių raudonuosiuose sąrašuose įrašyta kaip pažeidžiama rūšis.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "lv": {
+      "description": "Uzkrītoša, atsevišķi vai izkliedētās grupās augoša saprotrofa tintene lapu koku mežos, īpaši dižskābaržu audzēs uz sārmainām vai kaļķainām augsnēm. Plaši izplatīta Eiropā no Lielbritānijas un Īrijas līdz Austrumeiropai un Vidusjūras reģionam, sastopama arī Austrālijā un retāk Ziemeļamerikā.",
+      "cap": "Jaunībā olveida, 2–7 cm augsta un 1,5–4 cm plata, vēlāk izplešoties kļūst zvanveida vai koniska, 3–8 cm plata un 7–12 cm augsta, pirms mala izliecas uz āru, ieritinās, nomelnē un sašķīst. Sākotnēji klāta ar nepārtrauktu baltu līdz krēmkrāsas vispārējo plīvuru, kas cepurītei izplešoties saplīst, atstājot neregulārus, noturīgus baltus, pelēcīgus vai brūnpelēkus lēverus, kas asi kontrastē ar spīdīgo tumši brūno līdz melnīgo, smalki rievoto virsmiziņu zem tiem.",
+      "hymenium": "Lapiņas ir ciešas, pie kātiņa brīvas līdz šauri pieaugušas, sākotnēji baltas līdz pelēkbaltas, vēlāk kļūst sārtas līdz pelēkbrūnas un visbeidzot no malas uz iekšpusi nomelnē un sašķīst tintes šķidrumā. Bazīdijas ir četrsporu; heilocistīdas un pleirocistīdas ir pūslīšveida, maisveida vai cauruļveida, līdz 150 × 50 µm lielas.",
+      "stipe": "Kātiņš ir 5–20 cm garš, reizēm sasniedz 30 cm, un 0,5–1,5 cm biezs, cilindrisks, uz augšu nedaudz sašaurināts, bet pie pamatnes vālesveida līdz nedaudz bumbuļveida. Bālgans līdz gaiši pelēcīgs, smalki pārslains līdz šķiedrains vai zvīņains — dažkārt pie pamatnes veido vājas šķērsjoslas —, dobs un trausls. Gredzena nav.",
+      "flesh": "Mīkstums ir plāns, trausls, ūdeņains un bālgans. Smarža ir vāja līdz izteikti nepatīkama, ko raksturo kā karbola, akmeņogļu gāzes vai naftalīna smaku; garša ir maiga līdz nepatīkama.",
+      "sporePrint": "Melns. Sporas ir elipsoīdas līdz olveida, gludas, tumši brūnas līdz melnīgas, 13–19 × 9–13 µm lielas (reizēm tikai 6,5 µm platas, Q = 1,25–1,60), ar centrālu dīgšanas poru.",
+      "habitat": "Saprotrofs uz barības vielām bagāta, sārmaina vai kaļķaina humusa un lapu nobirām lapu koku mežos, galvenokārt zem dižskābaržiem, retāk zem ozoliem vai skābaržiem, dažkārt mitrās, ēnainās cietkoksnes atliekās mežmalās. Parasti aug atsevišķi vai nelielās, izkliedētās grupās no maija līdz novembrim, visbagātīgāk no augusta līdz oktobrim.",
+      "uses": "Indīga un neēdama. Apēšana izraisa kuņģa un zarnu trakta darbības traucējumus, turklāt nepatīkamās smaržas dēļ tai nav arī kulināras vērtības.",
+      "confusion": "Pirms tumšā cepurīte izlaužas cauri baltajam plīvuram, jauni olveida augļķermeņi var atgādināt porcelāna tinteni (Coprinus comatus), kurai ir balta cepurīte ar uzliektām pinkainām baltām šķiedrām, kustīgs gredzens uz kātiņa un kurai trūkst tumši brūnmelnas virsmiziņas zem baltiem lēveriem. Pelēkā tintene (Coprinopsis atramentaria) ir mazāka, un tai ir gludāka, radiāli rievota pelēkbrūna cepurīte bez izteiktiem baltiem plīvura lēveriem. Coprinopsis stangliana ir daudz mazāka līdzīga suga ar mazākām sporām, kas aug galvenokārt sausās, atklātās kaļķainās pļavās, nevis ēnainos lapu koku mežos.",
+      "notes": "Tāpat kā citām lielajām tintenēm, lapiņas no malas uz iekšpusi pakļaujas pašsagremošanai (autolīzei), pārvēršoties melnā, sporām bagātā tintē, kas mitrā laikā palīdz izplatīt sporas. Šī suga tiek uzskatīta par bāzēm bagātu, kaļķainu augšņu indikatoru un vairākos Eiropas valstu sarkanajos sarakstos ir iekļauta kā jutīga suga.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "label": "Spechtinktzwam",
+      "names": [],
+      "description": "Een opvallende, solitair of in losse groepjes groeiende saprotrofe inktzwam van loofbossen, vooral beukenbossen op alkalische of kalkrijke bodems. De soort is wijdverspreid in Europa, van Groot-Brittannië en Ierland tot Oost-Europa en het Middellandse Zeegebied, en komt ook voor in Australië en, minder algemeen, in Noord-Amerika.",
+      "cap": "Jong eivormig en 2–7 cm hoog en 1,5–4 cm breed, uitgroeiend tot een klokvormige of kegelvormige hoed van 3–8 cm breed en 7–12 cm hoog voordat de rand naar buiten uitstaat, omkrult, zwart wordt en vervloeit. Aanvankelijk omgeven door een aaneengesloten wit tot crèmekleurig algeheel velum dat bij het uitgroeien van de hoed scheurt en onregelmatige, blijvende witte, grijsachtige of bruingrijze vlokken achterlaat die scherp afsteken tegen het glanzende, donkerbruine tot zwartachtige, fijn gegroefde hoedoppervlak eronder.",
+      "hymenium": "De plaatjes staan dicht opeen en zijn vrij tot smal aangehecht aan de steel; ze zijn aanvankelijk witachtig tot grijswit, verkleuren roze tot grijsbruin en worden uiteindelijk zwart waarna ze van de rand naar binnen toe vervloeien tot een inktachtige vloeistof. De basidiën zijn viersporig; de cheilocystiden en pleurocystiden zijn blaasvormig, utriform of buisvormig en meten tot 150 × 50 µm.",
+      "stipe": "De steel is 5–20 cm hoog, soms tot 30 cm, en 0,5–1,5 cm dik, cilindrisch, naar de top iets versmald en aan de voet knotsvormig tot licht knolvormig verbreed. Hij is witachtig tot bleekgrijs, fijn vlokkig tot vezelig of schubbig — naar de voet toe soms met vage dwarse banden — hol en breekbaar. Er is geen ring.",
+      "flesh": "Het vlees is dun, breekbaar, waterig en witachtig. De geur is zwak tot duidelijk onaangenaam en wordt wisselend omschreven als carbolachtig, lichtgasachtig of aan mottenballen herinnerend; de smaak is mild tot onaangenaam.",
+      "sporePrint": "De sporenprint is zwart. De sporen zijn ellipsoïde tot eivormig, glad, donkerbruin tot zwartachtig en meten 13–19 × 9–13 µm (soms tot slechts 6,5 µm breed, Q = 1,25–1,60), met een centrale kiemporie.",
+      "habitat": "Saprotroof op voedselrijke, alkalische of kalkrijke humus en strooisellaag in loofbossen, voornamelijk onder beuk en minder vaak onder eik of haagbeuk, soms ook tussen vochtig, beschaduwd loofhoutafval aan bosranden. Meestal solitair of in kleine, ruim uiteenstaande groepjes; vruchtlichamen verschijnen van mei tot november, met een piek van augustus tot oktober.",
+      "uses": "Giftig en niet eetbaar. Consumptie veroorzaakt maag-darmklachten en de onaangename geur maakt de paddenstoel bovendien zonder culinaire waarde.",
+      "confusion": "Voordat de donkere hoed door het witte velum breekt, kunnen jonge eivormige vruchtlichamen lijken op de geschubde inktzwam (Coprinus comatus), die echter een witte hoed bedekt met omhoogstaande ruige witte vezels en een beweeglijke ring om de steel heeft, en een donkerbruin-zwarte hoedhuid onder witte vlokken mist. De grote kale inktzwam (Coprinopsis atramentaria) is kleiner en heeft een gladdere, radiaal gegroefde grijsbruine hoed zonder opvallende witte velumvlokken. Coprinopsis stangliana is een veel kleinere dubbelganger met kleinere sporen die voornamelijk op droge, open kalkgraslanden groeit in plaats van in beschaduwde loofbossen.",
+      "notes": "Net als bij andere grote inktzwammen ondergaan de plaatjes van de rand naar binnen toe zelfvertering (vervloeiing), waarbij ze veranderen in een zwarte, sporenrijke inkt die de verspreiding bij nat weer bevordert. De soort geldt als indicator voor basenrijke, kalkhoudende bodems en staat op verschillende Europese nationale rode lijsten als kwetsbaar vermeld.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "no": {
+      "label": "ruteblekksopp",
+      "names": [],
+      "description": "En iøynefallende, enslig eller løst gruppevis voksende saprotrof blekksopp i løvskog, særlig bøkeskog på alkalisk eller kalkrik jord. Den er vidt utbredt i Europa fra Storbritannia og Irland til Øst-Europa og middelhavsområdet, og forekommer også i Australia samt sjeldnere i Nord-Amerika.",
+      "cap": "Som ung eggformet og 2–7 cm høy og 1,5–4 cm bred, senere utvidet til en klokkeformet eller kjegleformet hatt som er 3–8 cm bred og 7–12 cm høy før kanten bøyer seg utover, ruller seg opp, svartner og går i oppløsning. Til å begynne med omsluttet av et sammenhengende hvitt til kremfarget ytre slør som sprekker opp når hatten vokser ut, og etterlater uregelmessige, vedvarende hvite, gråaktige eller brungrå flekker i skarp kontrast til den blanke, mørkebrune til svartaktige, fint furede hattoverflaten under.",
+      "hymenium": "Skivene sitter tett og er frie til smalt festet til stilken, først hvitaktige til gråhvite, deretter rosa til gråbrune, og til slutt svartnende og oppløste til en blekklignende væske fra kanten og innover. Basidiene er firesporede; cheilocystider og pleurocystider er blæreformede, krukkeformede (utriforme) eller rørformede og måler opptil 150 × 50 µm.",
+      "stipe": "Stilken er 5–20 cm høy, av og til opptil 30 cm, og 0,5–1,5 cm tykk, sylindrisk, svakt avsmalnende mot toppen og kølleformet til svakt knollformet ved basis. Den er hvitaktig til blekt gråaktig, fint fnokket til trådet eller skjellete — av og til med svake tverrbånd mot basis — hul og skjør. Det er ingen ring.",
+      "flesh": "Kjøttet er tynt, skjørt, vannaktig og hvitaktig. Lukten er svak til tydelig ubehagelig og beskrives ulikt som karbolaktig, kullgasslignende eller minner om møllkuler; smaken er mild til ubehagelig.",
+      "sporePrint": "Sporeavtrykket er svart. Sporene er ellipsoide til eggformede, glatte, mørkebrune til svartaktige og måler 13–19 × 9–13 µm (av og til ned til 6,5 µm brede, Q = 1,25–1,60), med en sentral spirepore.",
+      "habitat": "Saprotrof på næringsrik, alkalisk eller kalkrik humus og løvstrø i løvskog, hovedsakelig under bøk og sjeldnere under eik eller agnbøk, av og til blant fuktige, skyggefulle løvtrerester i skogkanter. Vanligvis enslig eller i små, spredte grupper; fruktlegemer dannes fra mai til november med en topp fra august til oktober.",
+      "uses": "Giftig og uspiselig. Inntak gir mage- og tarmplager, og den ubehagelige lukten gjør den også uten kulinarisk verdi.",
+      "confusion": "Før den mørke hatten bryter gjennom det hvite sløret, kan unge eggformede fruktlegemer ligne matblekksopp (Coprinus comatus), som har en hvit hatt dekket av oppbøyde rufsete hvite fibre, en bevegelig ring på stilken og mangler mørkebrun-svart hatthud under hvite flekker. Grå blekksopp (Coprinopsis atramentaria) er mindre og har en glattere, radiært furet gråbrun hatt uten tydelige hvite slørflekker. Coprinopsis stangliana er en mye mindre forvekslingsart med mindre sporer som først og fremst vokser på tørre, åpne kalkenger i stedet for i skyggefull løvskog.",
+      "notes": "Som hos andre store blekksopper gjennomgår skivene selvoppløsning (autolyse) fra kanten og innover, og blir til et svart, sporeholdig blekk som hjelper spredningen i vått vær. Arten regnes som en indikator på baserike, kalkholdige jordsmonn og står oppført som sårbar på flere europeiske nasjonale rødlister.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "pl": {
+      "label": "Czernidłak pstry",
+      "names": [
+        "Czernidłówka pstra"
+      ],
+      "description": "Okazały, rosnący pojedynczo lub w luźnych grupach saprotroficzny grzyb z grupy czernidłaków, występujący w lasach liściastych, zwłaszcza buczynach na glebach zasadowych lub wapiennych. Szeroko rozpowszechniony w całej Europie od Wielkiej Brytanii i Irlandii po Europę Wschodnią i basen Morza Śródziemnego, występuje również w Australii oraz, rzadziej, w Ameryce Północnej.",
+      "cap": "Za młodu jajowaty, o wysokości 2–7 cm i szerokości 1,5–4 cm, następnie rozpościera się w dzwonkowaty lub stożkowaty kapelusz o średnicy 3–8 cm i wysokości 7–12 cm, zanim brzeg wywinie się na zewnątrz, podwinie ku górze, sczernieje i rozpłynie się. Początkowo zamknięty w ciągłej białej do kremowej osłonie całkowitej, która pęka w miarę rozrastania się kapelusza, pozostawiając nieregularne, trwałe białe, szarawe lub brązowoszare łatki, wyraźnie kontrastujące z błyszczącą ciemnobrązową do czarniawej, drobno żłobkowaną powierzchnią kapelusza pod spodem.",
+      "hymenium": "Blaszki są gęste, przy trzonie wolne do wąsko przyrośniętych, początkowo białawe do szarobiałych, następnie różowawe do szarobrązowych, a ostatecznie czerniejące i rozpływające się od brzegu ku środkowi w atramentową ciecz. Podstawki są czterozarodnikowe; cheilocystydy i pleurocystydy są pęcherzykowate, workowate lub rurkowate, o wymiarach do 150 × 50 µm.",
+      "stipe": "Trzon ma 5–20 cm wysokości, niekiedy osiągając 30 cm, i 0,5–1,5 cm grubości, jest walcowaty, lekko zwężający się ku szczytowi i maczugowaty do słabo bulwiastego u podstawy. Białawy do bladoszarego, drobno kłaczkowaty do włóknistego lub łuseczkowatego — czasem tworzący ku podstawie niewyraźne poprzeczne pasy — pusty w środku i kruchy. Pierścienia brak.",
+      "flesh": "Miąższ jest cienki, kruchy, wodnisty i białawy. Zapach jest słaby do wyraźnie nieprzyjemnego, opisywany rozmaicie jako karbolowy, przypominający gaz świetlny lub naftalinę; smak łagodny do nieprzyjemnego.",
+      "sporePrint": "Wysyp zarodników jest czarny. Zarodniki są elipsoidalne do jajowatych, gładkie, ciemnobrązowe do czarniawych, o wymiarach 13–19 × 9–13 µm (wyjątkowo do 6,5 µm szerokości, Q = 1,25–1,60), z centralną porą rostkową.",
+      "habitat": "Grzyb saprotroficzny rosnący na zasobnej w składniki odżywcze, zasadowej lub wapiennej próchnicy oraz ściółce liściastej w lasach liściastych, przeważnie pod bukami, rzadziej pod dębami lub grabami, sporadycznie wśród wilgotnych, zacienionych szczątków drewna drzew liściastych na skrajach lasów. Zwykle występuje pojedynczo lub w małych, luźnych grupach, owocnikując od maja do listopada, ze szczytem od sierpnia do października.",
+      "uses": "Grzyb trujący i niejadalny. Spożycie powoduje dolegliwości żołądkowo-jelitowe, a jego nieprzyjemny zapach również pozbawia go wartości kulinarnych.",
+      "confusion": "Zanim ciemny kapelusz przebije się przez białą osłonę, młode jajowate owocniki mogą przypominać czernidłaka kołpakowatego (Coprinus comatus), który ma biały kapelusz pokryty odstającymi, kosmatymi białymi włóknami, ruchomy pierścień na trzonie i nie ma ciemnobrązowoczarnej skórki kapelusza pod białymi łatkami. Czernidłówka pospolita (Coprinopsis atramentaria) jest mniejsza i ma gładszy, promieniście bruzdowany szarobrązowy kapelusz bez wyraźnych białych łatek osłony. Coprinopsis stangliana jest znacznie mniejszym podobnym gatunkiem o mniejszych zarodnikach, który rośnie głównie na suchych, otwartych murawach wapiennych, a nie w zacienionych lasach liściastych.",
+      "notes": "Podobnie jak u innych dużych grzybów z grupy czernidłaków, blaszki ulegają autolizie (rozpływaniu) od brzegu ku środkowi, zamieniając się w czarny, pełen zarodników atrament ułatwiający rozsiewanie przy deszczowej pogodzie. Jest uznawany za gatunek wskaźnikowy gleb zasadowych, wapiennych i widnieje jako gatunek wrażliwy (Vulnerable) na kilku europejskich krajowych czerwonych listach.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "pt": {
+      "description": "Um cogumelo saprotrófico vistoso, solitário ou em grupos dispersos, próprio de bosques caducifólios, sobretudo faiais em solos alcalinos ou calcários. Amplamente distribuído pela Europa, da Grã-Bretanha e Irlanda à Europa de Leste e ao Mediterrâneo, ocorre também na Austrália e, menos frequentemente, na América do Norte.",
+      "cap": "Com 2–7 cm de altura e 1,5–4 cm de largura quando jovem e ovoide, expandindo-se para um chapéu campanulado ou cónico com 3–8 cm de diâmetro e 7–12 cm de altura antes de a margem se abrir para fora, enrolar para cima, enegrecer e deliquescer. Inicialmente envolvido por um véu universal contínuo, branco a creme, que se rasga à medida que o chapéu se expande, deixando placas irregulares e persistentes brancas, acinzentadas ou cinzento-acastanhadas em forte contraste com a superfície brilhante castanho-escura a enegrecida, finamente sulcada, por baixo.",
+      "hymenium": "As lâminas são apertadas e livres a estreitamente adnatas ao estipe, inicialmente esbranquiçadas a branco-acinzentadas, passando a rosadas a cinzento-acastanhadas e, por fim, enegrecendo e deliquescendo num fluido escuro semelhante a tinta a partir da margem para o interior. Os basídios são tetraspóricos; os queilocistídios e pleurocistídios são vesiculosos, utriformes ou tubulares, medindo até 150 × 50 µm.",
+      "stipe": "O estipe tem 5–20 cm de altura, atingindo ocasionalmente 30 cm, e 0,5–1,5 cm de espessura, cilíndrico, ligeiramente estreitado em direção ao ápice e claviforme a ligeiramente bulboso na base. Esbranquiçado a cinzento-pálido, finamente floconoso a fibriloso ou escamoso — formando por vezes faixas transversais ténues perto da base —, oco e frágil. Não possui anel.",
+      "flesh": "A carne é fina, frágil, aquosa e esbranquiçada. O odor é fraco a nitidamente desagradável, descrito de várias formas como fénico, semelhante a gás de hulha ou a naftalina; o sabor é suave a desagradável.",
+      "sporePrint": "Preta. Os esporos são elipsoides a ovoides, lisos, castanho-escuros a enegrecidos, medindo 13–19 × 9–13 µm (ocasionalmente até apenas 6,5 µm de largura, Q = 1,25–1,60), com um poro germinativo central.",
+      "habitat": "Saprotrófico sobre húmus rico em nutrientes, alcalino ou calcário, e folhada em bosques caducifólios, predominantemente sob faias e menos frequentemente sob carvalhos ou cárpinos, ocasionalmente entre detritos húmidos e ensombrados de folhosas nas orlas dos bosques. Habitualmente solitário ou em pequenos grupos bem espaçados, frutificando de maio a novembro, com pico entre agosto e outubro.",
+      "uses": "Venenoso e não comestível. A ingestão provoca perturbações gastrointestinais, e o seu odor desagradável retira-lhe também qualquer valor culinário.",
+      "confusion": "Antes de o chapéu escuro romper o véu branco, os carpóforos jovens ovoides podem assemelhar-se ao coprino-cabeludo (Coprinus comatus), que apresenta um chapéu branco coberto de fibras brancas eriçadas para cima, um anel móvel no estipe e não tem cutícula castanho-negra sob placas brancas. Coprinopsis atramentaria é mais pequeno e tem um chapéu cinzento-acastanhado mais liso, sulcado radialmente, sem placas brancas vistosas do véu. Coprinopsis stangliana é uma espécie semelhante muito mais pequena, com esporos menores, que cresce sobretudo em prados calcários secos e abertos, em vez de bosques caducifólios ensombrados.",
+      "notes": "Tal como noutros grandes coprinos, as lâminas sofrem autodigestão (deliquescência) a partir da margem para o interior, transformando-se numa tinta negra carregada de esporos que favorece a dispersão em tempo húmido. É considerado um indicador de solos básicos e calcários e figura como vulnerável em várias listas vermelhas nacionais europeias.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă izbitoare, solitară sau în grupuri răsfirate, specifică pădurilor de foioase, în special făgetelor de pe soluri alcaline sau calcaroase. Larg răspândită în Europa, din Marea Britanie și Irlanda până în Europa de Est și bazinul mediteranean, apare și în Australia și, mai rar, în America de Nord.",
+      "cap": "De 2–7 cm înălțime și 1,5–4 cm lățime când este tânără și ovoidă, deschizându-se într-o pălărie campanulată sau conică de 3–8 cm diametru și 7–12 cm înălțime înainte ca marginea să se răsfrângă spre exterior, să se ruleze în sus, să se înnegrească și să se lichefieze. Inițial închisă într-un văl universal continuu, alb până la crem, care se rupe pe măsură ce pălăria se extinde, lăsând pete neregulate și persistente albe, cenușii sau cenușiu-brune care contrastează puternic cu suprafața lucioasă brun-închis până la negricioasă, fin striată, de dedesubt.",
+      "hymenium": "Lamelele sunt dese și libere până la îngust adnate la picior, inițial albicioase până la alb-cenușii, devenind rozalii până la cenușiu-brune, iar în final înnegrindu-se și lichefiindu-se într-un lichid ca cerneala dinspre margine spre interior. Bazidiile sunt tetrasporice; cheilocistidele și pleurocistidele sunt veziculoase, utriforme sau tubulare, măsurând până la 150 × 50 µm.",
+      "stipe": "Piciorul are 5–20 cm înălțime, ajungând ocazional la 30 cm, și 0,5–1,5 cm grosime, cilindric, ușor subțiat spre vârf și măciucat până la ușor bulbos la bază. Albicios până la cenușiu pal, fin flocos până la fibrilos sau solzos — formând uneori benzi transversale șterse spre bază —, gol pe dinăuntru și fragil. Nu are inel.",
+      "flesh": "Carnea este subțire, fragilă, apoasă și albicioasă. Mirosul este slab până la pronunțat neplăcut, descris felurit ca fenolic, asemănător gazului de cărbune sau naftalinei; gustul este blând până la neplăcut.",
+      "sporePrint": "Neagră. Sporii sunt elipsoidali până la ovoizi, netezi, brun-închiși până la negricioși, măsurând 13–19 × 9–13 µm (ocazional până la 6,5 µm lățime, Q = 1,25–1,60), cu por germinativ central.",
+      "habitat": "Saprotrofă pe humus bogat în nutrienți, alcalin sau calcaros, și pe litiera de frunze din pădurile de foioase, predominant sub fagi și mai rar sub stejari sau carpeni, ocazional printre resturi lemnoase umede și umbrite de foioase la marginile pădurilor. De obicei solitară sau în grupuri mici, bine distanțate, fructificând din mai până în noiembrie, cu un vârf din august până în octombrie.",
+      "uses": "Otrăvitoare și necomestibilă. Ingerarea provoacă tulburări gastrointestinale, iar mirosul ei neplăcut o face de asemenea lipsită de valoare culinară.",
+      "confusion": "Înainte ca pălăria întunecată să străpungă vălul alb, corpurile fructifere tinere și ovoide pot semăna cu buretele cu perucă (Coprinus comatus), care are o pălărie albă acoperită cu fibre albe zburlite în sus, un inel mobil pe picior și nu prezintă o cuticulă brun-neagră sub pete albe. Coprinopsis atramentaria este mai mic și are o pălărie cenușiu-brună mai netedă, striată radial, fără pete albe evidente ale vălului. Coprinopsis stangliana este o specie asemănătoare mult mai mică, cu spori mai mici, care crește în principal în pajiști calcaroase uscate și deschise, mai degrabă decât în păduri umbrite de foioase.",
+      "notes": "Ca și la alte specii mari din acest grup, lamelele suferă autodigestie (delicvescență) dinspre margine spre interior, transformându-se într-o cerneală neagră plină de spori care ajută la dispersie pe vreme umedă. Este considerată un indicator al solurilor bogate în baze, calcaroase, și figurează ca vulnerabilă pe mai multe liste roșii naționale europene.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716"
+      ],
+      "label": "Buretele ciocănitoarei"
+    },
+    "ru": {
+      "label": "Навозник смолистый",
+      "names": [],
+      "description": "Эффектный, растущий одиночно или рыхлыми группами сапротрофный навозник лиственных лесов, особенно буковых лесов на щелочных или известковых почвах. Широко распространён по всей Европе от Великобритании и Ирландии до Восточной Европы и Средиземноморья, встречается также в Австралии и, реже, в Северной Америке.",
+      "cap": "В молодом возрасте яйцевидная, 2–7 см высотой и 1,5–4 см шириной, затем раскрывается до колокольчатой или конической шляпки 3–8 см в диаметре и 7–12 см высотой, прежде чем край выгнется наружу, завернётся вверх, почернеет и расплывётся. Первоначально заключена в сплошное белое до кремового общее покрывало, которое разрывается по мере роста шляпки, оставляя неровные, сохраняющиеся белые, сероватые или коричневато-серые хлопья, резко контрастирующие с блестящей тёмно-коричневой до черноватой, мелкобороздчатой поверхностью шляпки под ними.",
+      "hymenium": "Пластинки частые, от свободных до узко приросших к ножке, сначала беловатые до серовато-белых, затем розоватые до серо-коричневых и в конце концов чернеющие и расплывающиеся в чернильную жидкость от края к центру. Базидии четырёхспоровые; хейлоцистиды и плевроцистиды пузыревидные, мешковидные или трубчатые, размером до 150 × 50 µm.",
+      "stipe": "Ножка 5–20 см высотой, иногда достигает 30 см, и 0,5–1,5 см толщиной, цилиндрическая, слегка сужающаяся к вершине и булавовидная до слабо клубневидной в основании. Беловатая до бледно-сероватой, мелкохлопьевидная до волокнистой или чешуйчатой — иногда образует слабые поперечные пояски ближе к основанию —, полая и ломкая. Кольцо отсутствует.",
+      "flesh": "Мякоть тонкая, ломкая, водянистая и беловатая. Запах слабый до отчётливо неприятного, описываемый по-разному как карболовый, напоминающий светильный газ или нафталин; вкус мягкий до неприятного.",
+      "sporePrint": "Споровый порошок чёрный. Споры эллипсоидные до яйцевидных, гладкие, тёмно-коричневые до черноватых, размером 13–19 × 9–13 µm (изредка шириной до 6,5 µm, Q = 1,25–1,60), с центральной ростковой порой.",
+      "habitat": "Растёт сапротрофно на богатом питательными веществами, щелочном или известковом гумусе и листовом опаде в лиственных лесах, преимущественно под буком, реже под дубом или грабом, изредка среди влажных затенённых остатков лиственной древесины на лесных опушках. Обычно одиночный или в небольших разреженных группах, плодоносит с мая по ноябрь с пиком с августа по октябрь.",
+      "uses": "Ядовитый и несъедобный гриб. Употребление вызывает желудочно-кишечные расстройства, а неприятный запах также лишает его кулинарной ценности.",
+      "confusion": "Пока тёмная шляпка не прорвала белое покрывало, молодые яйцевидные плодовые тела могут напоминать навозник белый (Coprinus comatus), у которого белая шляпка покрыта отогнутыми вверх лохматыми белыми волокнами, на ножке есть подвижное кольцо, а под белыми лоскутами отсутствует тёмно-коричнево-чёрная кожица шляпки. Навозник серый (Coprinopsis atramentaria) мельче и имеет более гладкую, радиально бороздчатую серо-коричневую шляпку без ярких белых хлопьев покрывала. Coprinopsis stangliana — гораздо более мелкий схожий вид с более мелкими спорами, растущий главным образом на сухих открытых известковых лугах, а не в затенённых лиственных лесах.",
+      "notes": "Как и у других крупных коприноидных грибов, пластинки подвергаются автолизу (расплыванию) от края к центру, превращаясь в чёрные, насыщенные спорами чернила, что способствует распространению в сырую погоду. Считается индикатором богатых основаниями, известковых почв и включён как уязвимый вид (Vulnerable) в ряд европейских национальных Красных списков.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "sk": {
+      "label": "hnojník strakatý",
+      "names": [],
+      "description": "Nápadná saprotrofná hnojníkovitá huba listnatých lesov, najmä bučín na zásaditých alebo vápencových pôdach, rastúca jednotlivo alebo v riedkych skupinách. Je široko rozšírená v celej Európe od Británie a Írska po východnú Európu a Stredomorie a vyskytuje sa aj v Austrálii a menej často v Severnej Amerike.",
+      "cap": "Za mladi je vajcovitý, vysoký 2–7 cm a široký 1,5–4 cm, neskôr sa rozprestiera na zvoncovitý až kužeľovitý klobúk široký 3–8 cm a vysoký 7–12 cm, kým sa mu okraj nevyhne von, nezvinie nahor, nesčernie a nerozplynie sa. Spočiatku ho obaľuje súvislý biely až krémový celkový závoj (vélum), ktorý sa pri rozpínaní klobúka roztrhá a zanechá nepravidelné, trváce biele, sivasté alebo hnedastosivé útržky véla, ostro kontrastujúce s lesklým tmavohnedým až černastým, jemne ryhovaným povrchom klobúka pod nimi.",
+      "hymenium": "Lupene sú husté, pri hlúbiku voľné až úzko prirastené, spočiatku belavé až sivobiele, potom ružovkasté až sivohnedé a napokon od okraja dovnútra černejú a rozplývajú sa na atramentovú tekutinu. Bazídiá sú štvorvýtrusné; cheilocystidy a pleurocystidy sú mechúrikovité, vakcovité alebo rúrkovité, veľké až 150 × 50 µm.",
+      "stipe": "Hlúbik je vysoký 5–20 cm, občas dosahuje až 30 cm, a hrubý 0,5–1,5 cm, valcovitý, smerom k vrcholu mierne zúžený a na báze kyjakovitý až slabo hľuzovito zhrubnutý. Je belavý až bledosivastý, jemne vločkatý až vláknitý alebo šupinatý – niekedy smerom k báze vytvára nevýrazné priečne pásy –, dutý a krehký. Prsteň chýba.",
+      "flesh": "Dužina je tenká, krehká, vodnatá a belavá. Vôňa je slabá až výrazne nepríjemná, rôzne opisovaná ako karbolová, pripomínajúca svietiplyn alebo naftalín; chuť je mierna až nepríjemná.",
+      "sporePrint": "Výtrusný prach je čierny. Výtrusy sú elipsoidné až vajcovité, hladké, tmavohnedé až černasté, veľké 13–19 × 9–13 µm (ojedinele len 6,5 µm široké, Q = 1,25–1,60), s centrálnym klíčnym pórom.",
+      "habitat": "Rastie saprotrofne na živinami bohatom, zásaditom alebo vápencovom humuse a opadanke v listnatých lesoch, najmä pod bukom, menej často pod dubom alebo hrabom, príležitostne medzi vlhkými, zatienenými zvyškami dreva listnáčov na okrajoch lesov. Zvyčajne rastie jednotlivo alebo v malých, riedko rozostúpených skupinách, plodí od mája do novembra s vrcholom od augusta do októbra.",
+      "uses": "Jedovatá a nejedlá huba. Požitie spôsobuje tráviace ťažkosti a jej nepríjemný zápach ju zároveň zbavuje kulinárskej hodnoty.",
+      "confusion": "Predtým, než tmavý klobúk prerazí cez biely závoj, môžu mladé vajcovité plodnice pripomínať hnojník obyčajný (Coprinus comatus), ktorý má biely klobúk pokrytý odstávajúcimi strapatými bielymi vláknami, pohyblivý prsteň na hlúbiku a pod bielymi útržkami nemá tmavohnedo-čiernu pokožku klobúka. Hnojník atramentový (Coprinopsis atramentaria) je menší a má hladší, lúčovito ryhovaný sivohnedý klobúk bez výrazných bielych zvyškov závoja. Coprinopsis stangliana je omnoho menší podobný druh s menšími výtrusmi, ktorý rastie predovšetkým na suchých, otvorených vápencových trávnikoch namiesto zatienených listnatých lesov.",
+      "notes": "Podobne ako u iných veľkých hnojníkovitých húb podliehajú lupene od okraja dovnútra autolýze (rozplývaniu), pričom sa menia na čierny atrament plný výtrusov, ktorý uľahčuje šírenie za vlhkého počasia. Považuje sa za indikátor zásaditých, vápencových pôd a vo viacerých európskych národných červených zoznamoch je vedená ako zraniteľný druh (Vulnerable).",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "sl": {
+      "label": "pisana tintovka",
+      "names": [],
+      "description": "Izrazita, posamično ali v redkih skupinah rastoča saprotrofna tintovka listnatih gozdov, zlasti bukovij na bazičnih ali apnenčastih tleh. Široko je razširjena po vsej Evropi od Britanije in Irske do vzhodne Evrope in Sredozemlja, pojavlja pa se tudi v Avstraliji in redkeje v Severni Ameriki.",
+      "cap": "Klobuk je mlad in jajčast visok 2–7 cm ter širok 1,5–4 cm, nato pa se razpre v zvonast ali stožčast klobuk s premerom 3–8 cm in višino 7–12 cm, preden se rob izviha navzven, zavije navzgor, počrni in utekočini. Sprva je zaprt v neprekinjeno belo do smetanasto splošno zastiralce, ki se med širjenjem klobuka raztrga ter zapusti nepravilne, obstojne bele, sivkaste ali rjavkastosive krpe, ki ostro izstopajo na bleščeči temno rjavi do črnkasti, drobno nažlebljeni površini klobuka pod njimi.",
+      "hymenium": "Lističi so gosti in pri betu prosti do ozko priraščeni, sprva belkasti do sivobelasti, nato rožnati do sivorjavi, nazadnje pa od roba navznoter počrnijo in se raztopijo v črnilu podobno tekočino. Bazidiji so štiritrosni; heilocistide in plevrocistide so mehurjaste, mešičaste ali cevaste ter merijo do 150 × 50 µm.",
+      "stipe": "Bet je visok 5–20 cm, občasno doseže 30 cm, in debel 0,5–1,5 cm, valjast, proti vrhu rahlo zožen ter v dnišču kijast do rahlo gomoljasto zadebeljen. Je belkast do bledo sivkast, drobno kosmičast do vlaknat ali luskast — včasih proti dnišču tvori medle prečne pasove —, votel in krhek. Obročka nima.",
+      "flesh": "Meso je tanko, krhko, vodeno in belkasto. Vonj je šibek do izrazito neprijeten, različno opisan kot karbolen, podoben svetilnemu plinu ali naftalinu; okus je mil do neprijeten.",
+      "sporePrint": "Trosni prah je črn. Trosi so elipsoidni do jajčasti, gladki, temno rjavi do črnkasti, merijo 13–19 × 9–13 µm (občasno do 6,5 µm široki, Q = 1,25–1,60) in imajo osrednjo kalilno poro.",
+      "habitat": "Raste saprotrofno na s hranili bogatem, bazičnem ali apnenčastem humusu in listnem opadu v listnatih gozdovih, pretežno pod bukvijo, redkeje pod hrastom ali gabrom, občasno pa med vlažnimi, senčnimi ostanki lesa listavcev na gozdnih robovih. Običajno raste posamično ali v majhnih, razmaknjenih skupinah, obrodi pa od maja do novembra, z vrhuncem od avgusta do oktobra.",
+      "uses": "Strupena in neužitna goba. Zaužitje povzroča prebavne motnje, njen neprijeten vonj pa ji prav tako jemlje vsako kulinarično vrednost.",
+      "confusion": "Preden temni klobuk predre belo zastiralce, so mladi jajčasti trosnjaki lahko podobni veliki tintnici (Coprinus comatus), ki ima bel klobuk, prekrit z navzgor štrlečimi kosmatimi belimi vlakni, premični obroček na betu in nima temno rjavo-črne kožice klobuka pod belimi krpami. Prava tintovka (Coprinopsis atramentaria) je manjša in ima bolj gladek, žarkasto nažlebljen sivorjav klobuk brez izrazitih belih krp zastiralca. Coprinopsis stangliana je precej manjša podobna vrsta z manjšimi trosi, ki raste predvsem na suhih, odprtih apnenčastih travnikih in ne v senčnih listnatih gozdovih.",
+      "notes": "Podobno kot pri drugih velikih koprinoidnih gobah so lističi od roba navznoter podvrženi avtolizi (utekočinjanju) in se spremenijo v črno, s trosi bogato črnilo, ki pomaga pri razširjanju v mokrem vremenu. Velja za kazalca bazičnih, apnenčastih tal in je na več evropskih nacionalnih rdečih seznamih uvrščena kot ranljiva vrsta (Vulnerable).",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "sr": {
+      "label": "Шарена гнојиштарка",
+      "names": [],
+      "description": "Упадљива сапротрофна гљива из групе гнојиштарки која расте појединачно или у растреситим групама у листопадним шумама, нарочито буковим шумама на базним или кречњачким земљиштима. Широко је распрострањена широм Европе од Британије и Ирске до источне Европе и Средоземља, а јавља се и у Аустралији и, ређе, у Северној Америци.",
+      "cap": "Шешир је у младости јајаст, висок 2–7 cm и широк 1,5–4 cm, а затим се шири у звонаст или купаст шешир пречника 3–8 cm и висине 7–12 cm пре него што се ивица извије упоље, увије навише, поцрни и расплине. У почетку је затворен у непрекидном белом до крем општем велу (омотачу) који се при ширењу шешира цепа и оставља неправилне, постојане беле, сивкасте или смећкастосиве крпе у оштром контрасту према сјајној тамносмеђој до црнкастој, фино избразданој површини шешира испод њих.",
+      "hymenium": "Листићи су густи и слободни до уско прирасли уз дршку, у почетку беличасти до сивкастобели, затим постају ружичасти до сивосмеђи, да би на крају поцрнели и расплинули се у мастиљаву течност од ивице ка унутрашњости. Базидије су четвороспорне; хеилоцистиде и плеуроцистиде су мехурасте, мешинасте или цевасте, величине до 150 × 50 µm.",
+      "stipe": "Дршка је висока 5–20 cm, повремено достиже 30 cm, и дебела 0,5–1,5 cm, ваљкаста, благо сужена ка врху и батинаста до благо гомољасто задебљана у основи. Беличаста је до бледосивкаста, фино пахуљичаста до влакнаста или љуспаста — понекад ка основи образује слабе попречне појасеве —, шупља и крта. Прстена нема.",
+      "flesh": "Месо је танко, крто, воденасто и беличасто. Мирис је слаб до изразито непријатан, различито описиван као карболни, сличан светлећем гасу или нафталину; укус је благ до непријатан.",
+      "sporePrint": "Отисак спора је црн. Споре су елипсоидне до јајасте, глатке, тамносмеђе до црнкасте, величине 13–19 × 9–13 µm (повремено широке свега 6,5 µm, Q = 1,25–1,60), са централном клицином пором.",
+      "habitat": "Расте сапротрофно на хранљивим материјама богатом, базном или кречњачком хумусу и лишћу у листопадним шумама, претежно под буквом, а ређе под храстом или грабом, повремено међу влажним, засењеним дрвним остацима лишћара на ободима шума. Обично је појединачна или у малим, размакнутим групама, а плодоноси од маја до новембра, са врхунцем од августа до октобра.",
+      "uses": "Отровна и нејестива гљива. Уношење изазива гастроинтестиналне тегобе, а непријатан мирис је такође чини без икакве кулинарске вредности.",
+      "confusion": "Пре него што тамни шешир пробије бели вео, млада јајаста плодна тела могу подсећати на велику гнојиштарку (Coprinus comatus), која има бео шешир прекривен подигнутим чупавим белим влакнима, покретан прстен на дршци и нема тамносмеђе-црну кожицу шешира испод белих крпа. Сиви јарчић (Coprinopsis atramentaria) је мањи и има глађи, зракасто избраздан сивосмеђ шешир без упадљивих белих крпа вела. Coprinopsis stangliana је знатно мања слична врста са мањим спорама која расте првенствено на сувим, отвореним кречњачким травњацима уместо у засењеним листопадним шумама.",
+      "notes": "Као и код других крупних коприноидних гљива, листићи од ивице ка унутрашњости пролазе кроз аутодигестију (деликвесценцију), претварајући се у црно мастило пуно спора које помаже расејавању по влажном времену. Сматра се индикатором базних, кречњачких земљишта и на више европских националних црвених листа наведена је као рањива врста (Vulnerable).",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716"
+      ]
+    },
+    "sv": {
+      "label": "rutbläcksvamp",
+      "names": [],
+      "description": "En iögonfallande, ensamväxande eller glest grupperad saprotrof bläcksvamp i lövskogar, särskilt bokskogar på alkalisk eller kalkrik mark. Den är vida spridd i Europa från Storbritannien och Irland till Östeuropa och Medelhavsområdet och förekommer även i Australien samt, mer sällsynt, i Nordamerika.",
+      "cap": "Som ung äggformad, 2–7 cm hög och 1,5–4 cm bred, senare utbredd till en klocklik eller kägelformad hatt, 3–8 cm bred och 7–12 cm hög innan kanten viker utåt, rullar upp sig, svartnar och löses upp. Till en början omsluten av ett sammanhängande vitt till gräddvitt yttre hylle som spricker upp när hatten växer ut och lämnar oregelbundna, bestående vita, gråaktiga eller brungrå fläckar i skarp kontrast mot den blanka, mörkbruna till svartaktiga, fint fårade hattytan därunder.",
+      "hymenium": "Skivorna är täta och fria till smalt fästade vid foten, först vitaktiga till gråvita, sedan rosa till gråbruna och slutligen svartnande och upplösta till en bläckliknande vätska från kanten och inåt. Basidierna är fyrsporiga; cheilocystider och pleurocystider är blåslika, säckformade (utriforma) eller rörformade och mäter upp till 150 × 50 µm.",
+      "stipe": "Foten är 5–20 cm hög, ibland upp till 30 cm, och 0,5–1,5 cm tjock, cylindrisk, lätt avsmalnande mot toppen och klubblik till svagt lökformigt förtjockad vid basen. Den är vitaktig till blekt gråaktig, fint flockig till tråd- eller fjällbeklädd — ibland med svaga tvärband mot basen — ihålig och skör. Ring saknas.",
+      "flesh": "Köttet är tunt, skört, vattnigt och vitaktigt. Lukten är svag till tydligt obehaglig och beskrivs omväxlande som karbolartad, lysgasliknande eller påminnande om malkulor; smaken är mild till obehaglig.",
+      "sporePrint": "Sporavtrycket är svart. Sporerna är ellipsoida till äggformade, släta, mörkbruna till svartaktiga och mäter 13–19 × 9–13 µm (ibland ned till 6,5 µm breda, Q = 1,25–1,60), med en central groningspor.",
+      "habitat": "Saprotrof på näringsrik, alkalisk eller kalkrik humus och lövförna i lövskog, främst under bok och mer sällan under ek eller avenbok, ibland bland fuktiga, skuggiga lövträdsrester i skogsbryn. Vanligen ensam eller i små, glesa grupper; fruktkroppar uppträder från maj till november med en topp från augusti till oktober.",
+      "uses": "Giftig och oätlig. Förtäring orsakar mag-tarmbesvär, och den obehagliga lukten gör den dessutom värdelös som matsvamp.",
+      "confusion": "Innan den mörka hatten bryter igenom det vita hyllet kan unga äggformade fruktkroppar likna fjällig bläcksvamp (Coprinus comatus), som har en vit hatt täckt av uppåtböjda rufsiga vita fibrer, en rörlig ring på foten och saknar en mörkbrun-svart hatthud under vita fläckar. Grå bläcksvamp (Coprinopsis atramentaria) är mindre och har en slätare, radiärt fårad gråbrun hatt utan tydliga vita hyllefläckar. Coprinopsis stangliana är en betydligt mindre förväxlingsart med mindre sporer som främst växer på torra, öppna kalkgräsmarker i stället för i skuggig lövskog.",
+      "notes": "Liksom hos andra stora bläcksvampar genomgår skivorna självupplösning (autolys) från kanten och inåt och omvandlas till ett svart, sporrikt bläck som underlättar spridningen i vått väder. Arten betraktas som en indikator på basrika, kalkhaltiga jordar och är upptagen som sårbar på flera europeiska nationella rödlistor.",
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "tr": {
+      "description": "Özellikle alkali veya kireçli topraklardaki kayın ormanları başta olmak üzere yaprak döken ormanlarda tek başına ya da gevşek gruplar hâlinde yetişen, dikkat çekici bir saprotrof mantar türüdür. Büyük Britanya ve İrlanda'dan Doğu Avrupa'ya ve Akdeniz'e kadar Avrupa genelinde yaygın olup Avustralya'da ve daha nadir olarak Kuzey Amerika'da da görülür.",
+      "cap": "Gençken ve yumurta biçimindeyken 2–7 cm boyunda ve 1,5–4 cm genişliğindedir; kenarı dışa doğru açılıp yukarı kıvrılmadan, kararmadan ve eriyip sıvılaşmadan önce 3–8 cm çapında ve 7–12 cm yüksekliğinde çan veya koni biçimli bir şapkaya dönüşür. Başlangıçta beyazdan krem rengine kadar değişen kesintisiz bir evrensel peçe ile sarılıdır; şapka açıldıkça bu peçe yırtılarak altındaki parlak koyu kahverengiden siyahımsıya dönük, ince oluklu şapka yüzeyiyle keskin bir tezat oluşturan düzensiz, kalıcı beyaz, grimsi veya kahverengimsi gri yamalar bırakır.",
+      "hymenium": "Lameller sık ve sapa serbest ile dar biçimde birleşik arasındadır; başlangıçta beyazımsı ile grimsi beyaz arasındayken pembemsiden grimsi kahverengiye döner, sonunda ise kenardan içe doğru karararak mürekkep kıvamında bir sıvıya dönüşerek erir. Bazidiyumlar dört sporludur; keilosistidler ve pleurosistidler kesecik, tulum veya boru biçiminde olup 150 × 50 µm boyutuna kadar ulaşır.",
+      "stipe": "Sap 5–20 cm boyunda, bazen 30 cm'ye kadar ulaşabilen ve 0,5–1,5 cm kalınlığındadır; silindirik, tepeye doğru hafifçe incelen, tabanda ise çomak biçimli ile hafifçe soğanlı arasındadır. Beyazımsıdan soluk grimsiye kadar değişen renkte, ince yünlümsüden lifsi veya pulluya kadar yüzeyli — bazen tabana doğru belirsiz enine bantlar oluşturur —, içi boş ve kırılgandır. Yüzüğü yoktur.",
+      "flesh": "Etli kısım ince, kırılgan, sulu ve beyazımsıdır. Kokusu zayıftan belirgin biçimde hoş olmayana kadar değişir; fenolik (karbolik), kömür gazı benzeri veya naftalini andıran biçimlerde tanımlanır; tadı hafiften hoş olmayana kadar değişir.",
+      "sporePrint": "Siyahtır. Sporlar elipsoitten yumurtamsıya kadar değişen biçimde, pürüzsüz, koyu kahverengiden siyahımsıya kadar renklerde, 13–19 × 9–13 µm boyutlarında (bazen 6,5 µm genişliğe kadar inen, Q = 1,25–1,60) ve merkezi bir çimlenme poruna sahiptir.",
+      "habitat": "Yaprak döken ormanlarda besin açısından zengin, alkali veya kireçli humus ve yaprak döküntüleri üzerinde saprotrof olarak, ağırlıklı olarak kayın altında, daha seyrek olarak meşe veya gürgen altında, bazen de orman kenarlarındaki nemli ve gölgeli sert ağaç kalıntıları arasında yetişir. Genellikle tek başına veya birbirinden aralıklı küçük gruplar hâlinde görülür; mayıstan kasıma kadar meyve verir, ağustos ile ekim ayları arasında yoğunlaşır.",
+      "uses": "Zehirli ve yenmez. Tüketilmesi sindirim sistemi rahatsızlıklarına yol açar; ayrıca hoş olmayan kokusu da mutfak değeri taşımasını engeller.",
+      "confusion": "Koyu renkli şapka beyaz peçeyi delmeden önce, genç ve yumurta biçimli meyve gövdeleri pösteki mantarına (Coprinus comatus) benzeyebilir; ancak pösteki mantarının şapkası yukarı doğru kıvrılmış kaba beyaz liflerle kaplı beyaz bir yüzeye sahiptir, sapında hareketli bir yüzük bulunur ve beyaz yamaların altında koyu kahverengi-siyah bir şapka derisi yoktur. Mürekkep mantarı (Coprinopsis atramentaria) daha küçüktür ve belirgin beyaz peçe yamaları olmaksızın daha pürüzsüz, ışınsal oluklu gri-kahverengi bir şapkaya sahiptir. Coprinopsis stangliana ise çok daha küçük ve daha küçük sporlu bir benzer tür olup gölgeli yaprak döken ormanlardan ziyade başlıca kuru, açık kireçli çayırlarda yetişir.",
+      "notes": "Diğer büyük mürekkepli türlerde olduğu gibi, lameller kenardan içe doğru kendi kendini sindirmeye (otoliz / erimeye) uğrayarak yağışlı havalarda sporların dağılmasına yardımcı olan spor yüklü siyah bir mürekkebe dönüşür. Bazlarca zengin, kireçli toprakların gösterge türü olarak kabul edilir ve çeşitli Avrupa ulusal kırmızı listelerinde hassas kategorisinde yer alır.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5242777",
+        "https://www.inaturalist.org/taxa/63224"
+      ],
+      "label": "Saksağan Mantarı"
+    },
+    "uk": {
+      "label": "Гнойовик сорочий",
+      "names": [
+        "Гнойовик дятловий",
+        "Гнойовик смолистий"
+      ],
+      "description": "Ефектний сапротрофний гнойовик, що росте поодинці або нещільними групами в листяних лісах, особливо в букових лісах на лужних чи вапнякових ґрунтах. Широко поширений у всій Європі від Британії та Ірландії до Східної Європи й Середземномор'я, трапляється також в Австралії та, рідше, у Північній Америці.",
+      "cap": "У молодому віці яйцеподібна, 2–7 см заввишки й 1,5–4 см завширшки, згодом розкривається в дзвоникоподібну або конусоподібну шапинку діаметром 3–8 см і заввишки 7–12 см, перш ніж край відігнеться назовні, загорнеться догори, почорніє й розпливеться. Спочатку вкрита суцільним білим до кремового загальним покривалом, яке розривається в міру розростання шапинки, залишаючи нерівні, стійкі білі, сіруваті або коричнево-сірі клапті, що різко контрастують із блискучою темно-коричневою до чорнуватої, дрібноборознистою поверхнею шапинки під ними.",
+      "hymenium": "Пластинки густі, вільні або вузько прирослі до ніжки, спочатку білуваті до сірувато-білих, згодом рожевуваті до сіро-коричневих і врешті-решт чорніють та розпливаються в чорнильну рідину від краю до центру. Базидії чотириспорові; хейлоцистиди та плевроцистиди пухирчасті, мішкоподібні або трубчасті, розміром до 150 × 50 µm.",
+      "stipe": "Ніжка 5–20 см заввишки, іноді сягає 30 см, і 0,5–1,5 см завтовшки, циліндрична, дещо звужується догори й булавоподібна до слабко бульбоподібної біля основи. Білувата до блідо-сіруватої, дрібнопластівчаста до волокнистої або лускатої — подекуди утворює слабкі поперечні смуги ближче до основи —, порожниста й ламка. Кільце відсутнє.",
+      "flesh": "М'якуш тонкий, ламкий, водянистий і білуватий. Запах слабкий до виразно неприємного, його описують по-різному — як карболовий, подібний до світильного гасу або нафталіну; смак м'який до неприємного.",
+      "sporePrint": "Споровий порошок чорний. Спори еліпсоїдні до яйцеподібних, гладенькі, темно-коричневі до чорнуватих, розміром 13–19 × 9–13 µm (зрідка завширшки до 6,5 µm, Q = 1,25–1,60), із центральною ростковою порою.",
+      "habitat": "Сапротроф на багатому на поживні речовини, лужному або вапняковому гумусі й листовому опаді в листяних лісах, переважно під буком, рідше під дубом чи грабом, інколи серед вологих затінених решток деревини листяних порід на узліссях. Зазвичай росте поодинці або невеликими розрідженими групами, плодоносить із травня по листопад із піком із серпня по жовтень.",
+      "uses": "Отруйний і неїстівний гриб. Споживання спричиняє шлунково-кишкові розлади, а неприємний запах також позбавляє його кулінарної цінності.",
+      "confusion": "Доки темна шапинка не прорвала біле покривало, молоді яйцеподібні плодові тіла можуть нагадувати гнойовик чубатий (Coprinus comatus), який має білу шапинку, вкриту загнутими догори кошлатими білими волокнами, рухоме кільце на ніжці й не має темно-коричнево-чорної шкірки шапинки під білими клаптями. Гнойовик чорнильний (Coprinopsis atramentaria) дрібніший і має гладенькішу, радіально борознисту сіро-коричневу шапинку без виразних білих клаптів покривала. Coprinopsis stangliana — значно дрібніший схожий вид із дрібнішими спорами, що росте насамперед на сухих відкритих вапнякових луках, а не в затінених листяних лісах.",
+      "notes": "Як і в інших великих коприноїдних грибів, пластинки зазнають автолізу (розпливання) від краю до центру, перетворюючись на чорне, насичене спорами чорнило, що сприяє поширенню за вологої погоди. Вважається індикатором багатих на основи вапнякових ґрунтів і наведений як уразливий вид (Vulnerable) у низці європейських національних червоних списків.",
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q779716",
+        "https://www.inaturalist.org/taxa/63224"
+      ]
+    },
+    "zh": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "一種醒目的腐生性鬼傘類真菌，單生或鬆散群生於落葉闊葉林中，特別常見於鹼性或石灰質土壤上的山毛櫸林。廣泛分布於歐洲各地，從英國與愛爾蘭延伸至東歐及地中海地區，亦見於澳洲，在北美洲則較為少見。",
+      "cap": "菌蓋幼時呈卵形，高2–7 cm、寬1.5–4 cm；隨後展開成鐘形或圓錐形，直徑3–8 cm、高7–12 cm，之後菌蓋邊緣向外張開、上捲、變黑並自溶液化。初期被包覆於連續的白色至乳白色外菌幕中，隨著菌蓋張開而破裂，在下方具有光澤、呈深褐色至黑褐色且具細溝紋的菌蓋表面上，留下不規則、持久且對比鮮明的白色、灰白色或褐灰色斑片。",
+      "hymenium": "菌褶密集，與菌柄離生至狹窄直生；初為近白色至灰白色，轉為粉紅色至灰褐色，最終從邊緣向內變黑並液化為墨汁狀液體。擔子具四個孢子；褶緣囊狀體與褶側囊狀體呈囊泡狀、囊狀或管狀，大小可達150 × 50 µm。",
+      "stipe": "菌柄高5–20 cm，偶爾可達30 cm，粗0.5–1.5 cm，圓柱形，向頂端略微漸細，基部呈棒狀至略膨大成球莖狀。近白色至淡灰色，表面被細絮狀、纖絲狀或鱗片狀物，有時在接近基部處形成模糊的橫向帶紋，中空且脆弱。無菌環。",
+      "flesh": "菌肉薄、脆弱、水漬狀且呈近白色。氣味微弱至明顯令人不快，常被形容為石炭酸味、煤氣味或樟腦丸味；味道溫和至令人不快。",
+      "sporePrint": "孢子印黑色。孢子橢圓形至卵形，平滑，深褐色至黑褐色，大小為13–19 × 9–13 µm（偶爾寬度可窄至6.5 µm，Q = 1.25–1.60），具中央芽孔。",
+      "habitat": "腐生於落葉闊葉林中富含養分、呈鹼性或石灰質的腐殖質與落葉層上，主要生長於山毛櫸林下，較少見於櫟樹或鵝耳櫪林下，偶爾也生於林緣潮濕陰蔽的闊葉木碎屑間。通常單生或成小而疏散的群體生長，5月至11月出菇，8月至10月為盛產期。",
+      "uses": "有毒且不可食。誤食會引起胃腸不適，且其難聞的氣味也使其沒有食用價值。",
+      "confusion": "在深色菌蓋突破白色菌幕之前，幼嫩的卵形子實體可能與Coprinus comatus相似，但後者具有覆滿上翹蓬鬆白色纖維的白色菌蓋、菌柄上有可移動的菌環，且白色斑片下方沒有深褐黑色的菌蓋表皮。Coprinopsis atramentaria體型較小，菌蓋為較平滑、具放射狀溝紋的灰褐色，缺乏醒目的白色菌幕斑片。Coprinopsis stangliana是體型小得多的相似種，孢子也較小，主要生長於乾燥開闊的石灰質草地而非陰蔽的落葉闊葉林中。",
+      "notes": "與其他大型鬼傘類真菌一樣，其菌褶會從邊緣向內進行自溶並液化，化為富含孢子的黑色墨汁，有助於在潮濕天氣中傳播孢子。此物種被視為富含鹽基的石灰質土壤之指標物種，並在數個歐洲國家的紅皮書名錄中被列為易危（Vulnerable）。"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus picaceus",
+      "author": "Bull.",
+      "year": 1784,
+      "rank": "species",
+      "type": "basionym",
+      "if": 149761
+    },
+    {
+      "name": "Coprinus picaceus",
+      "author": "(Bull.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 179014
+    }
+  ],
+  "reserved": false,
+  "id": 236,
+  "citation": "in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 230 (2001)"
+},
+{
+  "name": "Suillellus luridus",
+  "author": "(Schaeff.) Murrill",
+  "family": "Boletaceae",
+  "genus": "Suillellus",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Boletales",
+    "Boletaceae",
+    "Suillellus"
+  ],
+  "summary": [
+    "Boletales",
+    "Boletaceae",
+    "Suillellus"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "tubes",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "yellow",
+    "red"
+  ],
+  "capFrom": 5.0,
+  "capTo": 20.0,
+  "stipeHeightFrom": 5.0,
+  "stipeHeightTo": 15.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 5.0,
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "label": {
+    "bg": "огнена манатарка",
+    "cs": "hřib koloděj",
+    "da": "netstokket indigorørhat",
+    "de": "Netzstieliger Hexen-Röhrling",
+    "en": "lurid bolete",
+    "es": "boleto cetrino",
+    "et": "tamme-kivipuravik",
+    "fi": "tauriontatti",
+    "fr": "bolet blafard",
+    "he": "גושית עמומה",
+    "hr": "mrežastonogi vrganj",
+    "hu": "változékony tinóru",
+    "it": "boleto lurido",
+    "lt": "tikrasis paąžuolis",
+    "lv": "parastā raganbeka",
+    "nl": "Netstelige heksenboleet",
+    "no": "ildrørsopp",
+    "pl": "modroborowik ponury",
+    "ro": "buretele vrăjitoarei",
+    "ru": "дубовик оливково-бурый",
+    "sk": "hríb siný",
+    "sl": "svinjski lupljivec",
+    "sr": "ковара",
+    "sv": "eldsopp",
+    "uk": "дубовик",
+    "zh": "紅網牛肝菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Netzstieliger Hexenröhrling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [
+      "porcino lurido"
+    ],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "baravykas paąžuolis"
+    ],
+    "lv": [
+      "raganu beka"
+    ],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "borowik ponury"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "дубовик обыкновенный"
+    ],
+    "sk": [],
+    "sl": [
+      "svinjski goban"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "синюх"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=102402",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=102402",
+      "https://www.mycobank.org/page/Name%20details%20page/102402",
+      "https://www.gbif.org/species/3355021",
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.wikidata.org/wiki/Q752494",
+      "https://en.wikipedia.org/wiki/Suillellus_luridus",
+      "https://www.first-nature.com/fungi/suillellus-luridus.php",
+      "https://boletales.com/genera/boletus/b-luridus/",
+      "https://www.myko.cz/myko-atlas/Suillellus-luridus/",
+      "https://de.wikipedia.org/wiki/Netzstieliger_Hexen-R%C3%B6hrling"
+    ],
+    "ar": [],
+    "bg": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Suillellus-luridus/",
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021"
+    ],
+    "da": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Netzstieliger_Hexen-R%C3%B6hrling",
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021"
+    ],
+    "es": [
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "et": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "fa": [],
+    "fi": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "fr": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "he": [
+      "https://www.gbif.org/species/3355021"
+    ],
+    "hi": [],
+    "hr": [
+      "https://www.gbif.org/species/3355021"
+    ],
+    "hu": [
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "id": [],
+    "it": [
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.gbif.org/species/3355021",
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "lv": [
+      "https://www.wikidata.org/wiki/Q752494",
+      "https://www.gbif.org/species/3355021"
+    ],
+    "nl": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "no": [
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "pl": [
+      "https://www.gbif.org/species/3355021",
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "pt": [],
+    "ro": [
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "ru": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "sk": [
+      "https://www.gbif.org/species/3355021"
+    ],
+    "sl": [
+      "https://www.gbif.org/species/3355021",
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "sr": [
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "sv": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "tr": [],
+    "uk": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021",
+      "https://www.wikidata.org/wiki/Q752494"
+    ],
+    "zh": [
+      "https://species.wikimedia.org/wiki/Boletus_luridus",
+      "https://www.gbif.org/species/3355021"
+    ]
+  },
+  "added": "2026-11-26",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "license": "Generated with Gemini",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_1.webp",
+      "author": "George Chernilevsky",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Boletus_luridus_2011_G1.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_2.webp",
+      "author": "Steinpilz (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_3.webp",
+      "author": "George Chernilevsky",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Boletus_luridus_2016_G1.jpg"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_4.webp",
+      "author": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Netzstieliger_Hexen-R%C3%B6hrling_Boletus_luridus.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_5.webp",
+      "author": "petra_cze",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Suillellus_luridus_80259977.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus@1600.webp",
+      "author": "Gemini",
+      "license": "Generated with Gemini",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus@1600.webp"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_1.webp",
+      "author": "George Chernilevsky",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boletus_luridus_2011_G1.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_2.webp",
+      "author": "Steinpilz (Mushroom Observer)",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_3.webp",
+      "author": "George Chernilevsky",
+      "license": "Public domain",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boletus_luridus_2016_G1.jpg"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_4.webp",
+      "author": "Holger Krisp",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Netzstieliger_Hexen-R%C3%B6hrling_Boletus_luridus.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Boletales/Boletaceae/Suillellus_luridus/Suillellus_luridus_5.webp",
+      "author": "petra_cze",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suillellus_luridus_80259977.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "text": {
+    "ar": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "فطر بوليطي متين ذو مسام حمراء يعيش في تكافل جذري فطري خارجي (إكتوميكوريزا)، ويثمر منفردًا أو في مجموعات متفرقة على التربة الكلسية في الغابات عريضة الأوراق والمختلطة والمتنزهات وجادات الأشجار. ينتشر على نطاق واسع في أنحاء أوروبا من بريطانيا وأيرلندا حتى حوض المتوسط وشرق أوروبا، بينما يُرجّح أن التقارير التاريخية غير الموثقة من آسيا وأمريكا الشمالية تعود إلى أنواع قريبة منه.",
+      "cap": "عرض القبعة ٥–٢٠ سم، سميكة ووسادية الشكل، تكون نصف كروية في البداية ثم تنبسط لتصبح محدبة وأخيرًا مسطحة بشكل واسع. سطحها جاف ومخملي ناعم يصبح أكثر ملسًا مع التقدم في العمر ولزجًا قليلًا في الطقس الرطب، ويتراوح لونه بين الأصفر الزيتوني أو البني المغري أو البني الزيتوني إلى البني البرتقالي الباهت أو البني المحمر، وغالبًا ما تكون الحواف أفتح لونًا، ويغمق إلى الأزرق الداكن أو الأسود البني عند الكدم.",
+      "hymenium": "الأنابيب بطول ١–٢ سم، أقصر قرب الحافة ومنخفضة حول قمة الساق، وتكون صفراء باهتة في البداية ثم تصبح صفراء زيتونية، وتتلون بالأخضر المزرق عند تعرضها للهواء. المسام صغيرة ومستديرة (٢–٣ في كل مم)، صفراء برتقالية في الصغر وسرعان ما تنضج إلى الأحمر البرتقالي أو الأحمر القرمزي، وغالبًا ما توجد منطقة أفتح على طول حافة القبعة، وتكدم بسرعة إلى الأزرق الداكن أو الأزرق المسود عند اللمس. الدعامات (الباسيديا) هراوية الشكل، رباعية الأبواغ، وتبلغ أبعادها ٢٩٫٢–٣٦٫٥ × ١١٫٠–١٢٫٤ ميكرومتر؛ أما السيستيدات الجانبية والطرفية فمغزلية الشكل ذات وسط منتفخ وعنق طويل، وتبلغ أبعادها ٣٣–٤٨ × ٧٫٣–١٣٫٥ ميكرومتر.",
+      "stipe": "طول الساق ٥–١٥ سم وسمكها ١–٥ سم، متينة، هراوية أو منتفخة في الصغر ثم تصبح أسطوانية مع التقدم في العمر، وغالبًا ما تستدق قليلًا أو تمتد كجذر عند القاعدة. سطحها أصفر باهت إلى أصفر مغري في الأعلى وأكثر قتامة مائلًا إلى الأحمر أو الأحمر الخمري نحو القاعدة، وتعلوه شبكة بارزة خشنة ممتدة عموديًا بلون أحمر برتقالي إلى أحمر قرمزي قد تقتصر على النصف العلوي في العينات الفتية قبل أن تمتد إلى أسفل الساق؛ وتكدم إلى الأزرق الداكن عند لمسها. لا توجد حلقة، والغزل الفطري القاعدي مصفر اللون.",
+      "flesh": "اللحم سميك ومتماسك في الصغر، أصفر باهت إلى أصفر ليموني في القبعة والجزء العلوي من الساق، وأحمر خمري داكن إلى أحمر راوندي في قاعدة الساق السفلية، وغالبًا ما توجد طبقة رقيقة تحت الغشاء البوغي بلون كستنائي محمر إلى أحمر برتقالي (خط باتاي) فوق الأنابيب مباشرة، وإن كانت هذه الطبقة تغيب أحيانًا. عند القطع أو الكدم يتحول اللحم بسرعة وبشدة إلى الأزرق الداكن ثم يبهت تدريجيًا. الرائحة خفيفة وغير مميزة أو حامضية قليلًا، والطعم معتدل. في كاشف ميلزر يتفاعل لحم قاعدة الساق بتفاعل نشوي (أميلويدي) قوي (أزرق داكن بعد تلاشي الازرقاق الطبيعي)، بينما يصبغ هيدروكسيد البوتاسيوم المخفف بشرة القبعة بالأحمر الداكن إلى المسود واللحم بالأصفر البرتقالي.",
+      "sporePrint": "زيتوني إلى بني زيتوني. الأبواغ ملساء، إهليلجية إلى مغزلية الشكل، أبعادها ١٠٫٥–١٦ × ٤٫٥–٧ ميكرومتر (عادةً ١١–١٥ × ٤٫٥–٦٫٥ ميكرومتر؛ Q = ١٫٨–٢٫٨، الوسيط ٢٫٢).",
+      "habitat": "يعيش في تكافل جذري فطري خارجي أساسًا مع الأشجار عريضة الأوراق — ولا سيما البلوط والزان والزيزفون والشرد والبتولا والبندق والكستناء الحلوة — وأحيانًا مع الصنوبريات أو شجيرات جنس Helianthemum، مع تفضيل قوي للتربة الكلسية أو القلوية أو الطباشيرية ونادرًا ما يظهر في التربة الحمضية. يثمر منفردًا أو في مجموعات متفرقة على الأرض في الغابات النفضية والمختلطة والمتنزهات وجادات الأشجار وعلى ضفاف البرك من يونيو إلى نوفمبر، وبأكبر وفرة من يونيو إلى أكتوبر بعد أمطار الصيف.",
+      "uses": "صالح للأكل بحذر بعد الطهي الجيد، ويُؤكل على نطاق واسع في أجزاء من وسط أوروبا وجنوبها. يسبب تناوله نيئًا أو غير مطهو جيدًا تسممًا معديًا معويًا خلال ٣٠ دقيقة إلى ساعتين، مع غثيان وقيء وتقلصات في البطن وإسهال. ونظرًا لتشابهه مع أنواع البوليط السامة ذات المسام الحمراء وارتباطه تاريخيًا بعدم التحمل المصاحب للكحول، يُنصح عادةً بالتعرف الدقيق وتجنب تناول الكحول مع الوجبات.",
+      "confusion": "يظهر Suillellus mendax تحت العوائل نفسها لكنه يفضل التربة الحمضية، وله قبعة أكثر احمرارًا ومخملية بوضوح، وشبكة أقل بروزًا تقتصر على النصف العلوي من الساق وتتحول إلى حبيبات دقيقة في الأسفل، وأبواغ أضيق وأكثر استطالة (Q نحو ٢٫٧). يشترك Suillellus queletii في قاعدة الساق الحمراء الخمرية والازرقاق القوي، لكنه يفتقر إلى أي شبكة على الساق، ولحمه أصفر تحت الأنابيب، ومسامه برتقالية عادةً بدلًا من الأحمر الداكن. أما Neoboletus luridiformis فله قبعة مخملية بنية كستنائية أغمق، ويفضل التربة الحمضية وغالبًا مع الصنوبريات، ويحمل نقطًا حمراء دقيقة على الساق بدلًا من الشبكة البارزة. وينمو Rubroboletus satanas أيضًا على التربة الكلسية لكنه سام، وله قبعة أفتح بكثير بيضاء طباشيرية إلى رمادية متكتلة، وساق أضخم بصلية قرمزية ذات شبكة أدق، وازرقاق أضعف، ورائحة عفنة كريهة عند الكبر. ويتميز Rubroboletus rhodoxanthus بمسحات وردية على قبعة أفتح، وشبكة أكثر كثافة، ولحم أصفر زاهٍ يزرقّ في القبعة فقط بينما يبقى أصفر في الساق.",
+      "notes": "يعود التلون السريع بالأزرق الداكن عند الجرح إلى الأكسدة الإنزيمية لمشتقات حمض البولفينيك، وعلى رأسها حمضا الفاريجاتيك والزيروكوميك، عند التعرض للهواء. ورغم أن الطبقة الكستنائية المحمرة تحت الغشاء البوغي فوق الأنابيب (خط باتاي) تعد صفة حقلية كلاسيكية، فإن الدراسات التطورية تظهر أنها قد تغيب وليست تشخيصية بحد ذاتها داخل الجنس. تتعرض الأجسام الثمرية لغزو شديد من يرقات ثنائيات الأجنحة، في حين تتجنبها البزاقات عمومًا. وتظهر تجارب التلقيح المختبرية تحملًا مرتفعًا غير معتاد للملوحة مقارنةً بأنواع البوليط الجذرية الفطرية الشائعة الأخرى. ولم تؤكد التقارير التاريخية عن تفاعلات شبيهة بالديسولفيرام مع الكحول كيميائيًا؛ إذ لم تكشف التحاليل عن وجود الكوبرين وعزت الحالات السابقة إلى الخلط مع Imperator torosus، وإن لم يُستبعد وجود مركب غير معروف."
+    },
+    "bg": {
+      "label": "огнена манатарка",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Едра, ектомикоризна манатарка с червени пори, която плододава единично или на разпръснати групи върху варовити почви в широколистни и смесени гори, паркове и алеи. Широко разпространена в Европа — от Великобритания и Ирландия до Средиземноморието и Източна Европа; непотвърдените исторически съобщения от Азия и Северна Америка вероятно се отнасят за сродни видове.",
+      "cap": "Широка 5–20 см, дебела и възглавничеста, отначало полусферична, след това изпъкнала и накрая широко разперена. Сухата, фино кадифена повърхност става по-гладка с възрастта и леко лепкава във влажно време; оцветяването варира от жълто-маслинено, охренокафяво или маслиненокафяво до убито оранжево-кафяво или червеникавокафяво, често с по-блед ръб, и потъмнява до тъмносиньо или кафеникавочерно при натиск.",
+      "hymenium": "Тръбичките са дълги 1–2 см, по-къси близо до ръба и вдлъбнати около върха на пънчето, първоначално бледожълти, по-късно маслиненожълти, посиняващо-позеленяващи на въздух. Дребните, закръглени пори (2–3 на мм) са жълто-оранжеви при младите плодни тела, но скоро узряват до оранжево-червени или карминеночервени, често с по-бледа ивица по ръба на гуглата, и при докосване бързо посиняват до тъмносиньо или синьо-черно. Базидиите са бухалковидни, четириспорови, с размери 29,2–36,5 × 11,0–12,4 мкм; вретеновидните плевроцистидии и хейлоцистидии са с издута средна част и дълги шийки, с размери 33–48 × 7,3–13,5 мкм.",
+      "stipe": "Високо 5–15 см и дебело 1–5 см, здраво, бухалковидно или издуто в младост, с възрастта цилиндрично, често леко стеснено или вкореняващо се в основата. Повърхността е бледожълта до охреножълта в горната част и по-тъмно червеникава до виненочервена към основата, покрита с едра, вертикално издължена, релефна оранжево-червена до карминеночервена мрежа, която при младите екземпляри може да е ограничена в горната половина, преди да се разпростре надолу по пънчето; при докосване посинява тъмносиньо. Пръстенче липсва, а базалният мицел е жълтеникав.",
+      "flesh": "Дебело и плътно в младост, бледожълто до лимоненожълто в гуглата и горната част на пънчето, и наситено виненочервено до ревеновочервено в долната основа на пънчето, често с тънък бордо до оранжево-червен субхимениален слой (линия на Батай) непосредствено над тръбичките, макар че този слой понякога отсъства. При разрязване или нараняване месото бързо и интензивно потъмнява до тъмносиньо, след което постепенно избледнява. Миризмата е слаба и неопределена или леко кисела, а вкусът е мек. В реактива на Мелцер месото в основата на пънчето реагира силно амилоидно (тъмносиньо, след като естественото посиняване избледнее), докато разреденият калиев хидроксид оцветява кожицата на гуглата в тъмночервено до черникаво, а месото — в оранжево-жълто.",
+      "sporePrint": "Маслиненозелен до маслиненокафяв. Спорите са гладки, елипсовидни до вретеновидни, с размери 10,5–16 × 4,5–7 мкм (обикновено 11–15 × 4,5–6,5 мкм; Q = 1,8–2,8, медиана 2,2).",
+      "habitat": "Ектомикоризен вид предимно с широколистни дървета — особено дъб, бук, липа, габър, бреза, леска и сладък кестен — и понякога с иглолистни или полухрасти от род Helianthemum, със силно предпочитание към варовити, алкални или тебеширени почви, като рядко се среща на кисели терени. Плододава единично или на разпръснати групи върху почва в широколистни и смесени гори, паркове, алеи и по диги на водоеми от юни до ноември, най-обилно от юни до октомври след летни дъждове.",
+      "uses": "Условно ядлива след продължителна термична обработка и широко консумирана в части от Централна и Южна Европа. Консумацията в сурово или недосварено състояние причинява стомашно-чревно отравяне в рамките на 30 минути до два часа, с гадене, повръщане, коремни спазми и диария. Тъй като наподобява отровни манатарки с червени пори и в миналото е била свързвана с непоносимост при употреба на алкохол, обичайно се препоръчват внимателно определяне и избягване на алкохол по време на хранене.",
+      "confusion": "Suillellus mendax расте под същите гостоприемници, но предпочита кисели почви, има по-червеникава и отчетливо кадифена гугла, по-слабо изразена мрежа, ограничена в горната половина на пънчето и преминаваща надолу във фини гранули, както и по-тесни, по-удължени спори (Q около 2,7). Suillellus queletii също има виненочервена основа на пънчето и силно посиняване, но е напълно лишен от мрежа по пънчето, има жълто месо под тръбичките и обикновено носи оранжеви, а не наситено червени пори. Neoboletus luridiformis има по-тъмна кестенявокафява кадифена гугла, предпочита кисели почви, често с иглолистни, и има фини червени точици по пънчето вместо релефна мрежа. Rubroboletus satanas също расте върху варовити почви, но е отровна, с много по-бледа тебеширенобяла до сивкава неравна гугла, по-масивно луковично карминеночервено пънче с по-фина мрежа, по-слабо посиняване и неприятна гнилостна миризма в старост. Rubroboletus rhodoxanthus има розови оттенъци върху по-бледа гугла, по-гъста мрежа и ярко жълто месо, което посинява само в гуглата, докато в пънчето остава жълто.",
+      "notes": "Бързото тъмносиньо оцветяване при нараняване се дължи на ензимното окисляване на производни на пулвиновата киселина — главно вариегатова и ксерокомова киселина — при контакт с въздуха. Въпреки че бордовият субхимениален слой над тръбичките (линия на Батай) е класически полеви белег, филогенетичните изследвания показват, че той може да липсва и сам по себе си не е диагностичен в рамките на рода. Плодните тела силно се заселват от ларви на двукрили, докато голите охлюви обикновено ги избягват. Експериментални проучвания с инокулация показват необичайно висока устойчивост на засоляване в сравнение с други обичайни ектомикоризни манатарки. Историческите съобщения за дисулфирам-подобни реакции с алкохол не са потвърдени химически — анализите не са открили коприн и приписват предишните случаи на погрешно определяне на Imperator torosus, макар наличието на неидентифицирано съединение да не е изключено."
+    },
+    "cs": {
+      "label": "hřib koloděj",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Suillellus-luridus/",
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "Statný červenopórový ektomykorhizní hřibovitý druh, který plodí jednotlivě nebo v roztroušených skupinách na vápnitých půdách v listnatých a smíšených lesích, parcích a alejích. Je široce rozšířen v celé Evropě od Británie a Irska po Středomoří a východní Evropu; neověřené historické nálezy z Asie a Severní Ameriky pravděpodobně patří příbuzným druhům.",
+      "cap": "Široký 5–20 cm, masitý a poduškovitý, zpočátku polokulovitý, později se rozprostírá do klenutého a nakonec široce zploštělého tvaru. Suchý, jemně sametový povrch stářím olysává a za vlhkého počasí bývá mírně slizký; barvou přechází od žlutoolivové, okrově hnědé nebo olivově hnědé po matně oranžovohnědou či červenohnědou, často se světlejším okrajem, a na otlačených místech tmavne do tmavě modra nebo hnědočerna.",
+      "hymenium": "Rourky jsou dlouhé 1–2 cm, u okraje kratší a u vrcholu třeně vykrojené, zpočátku světle žluté, později olivově žluté, na vzduchu se zbarvují modrozeleně. Drobné okrouhlé póry (2–3 na mm) jsou v mládí žlutooranžové, brzy dozrávají do oranžovočervené až karmínově červené barvy, často se světlejším pásmem podél okraje klobouku, a při dotyku rychle tmavě modrají až modročernají. Bazidie jsou kyjovité, čtyřvýtrusé a měří 29,2–36,5 × 11,0–12,4 µm; vřetenovité pleurocystidy a cheilocystidy mají břichatý střed a dlouhý krček a měří 33–48 × 7,3–13,5 µm.",
+      "stipe": "Vysoký 5–15 cm a silný 1–5 cm, statný, v mládí kyjovitý nebo břichatý, stářím válcovitý, na bázi často mírně zúžený nebo kořenující. Povrch je nahoře světle žlutý až okrově žlutý a směrem k bázi tmavší načervenalý až vínově červený, pokrytý hrubou, svisle protáhlou vystouplou oranžovočervenou až karmínově červenou síťkou, která může být u mladých plodnic omezena na horní polovinu a později se rozšiřuje dolů po třeni; při manipulaci tmavě modrá. Prsten chybí a bazální mycelium je nažloutlé.",
+      "flesh": "V mládí masitá a pevná, v klobouku a horní části třeně světle až citronově žlutá, v dolní části báze třeně sytě vínově červená až rebarborově červená, často s tenkou kaštanově červenou až oranžovočervenou subhymeniální vrstvou (Batailleova linie) přímo nad rourkami, ačkoli tato vrstva občas chybí. Na řezu nebo po otlačení dužnina rychle a intenzivně tmavě modrá, než postupně vybledne. Vůně je slabá a nevýrazná nebo mírně nakyslá a chuť je mírná. V Melzerově činidle reaguje dužnina báze třeně silně amyloidně (tmavě modře po vyblednutí přirozeného modrání), zatímco zředěný hydroxid draselný barví pokožku klobouku tmavě červeně až černavě a dužninu oranžově žlutě.",
+      "sporePrint": "Olivový až olivově hnědý. Výtrusy jsou hladké, elipsoidní až vřetenovité, velké 10,5–16 × 4,5–7 µm (obvykle 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, medián 2,2).",
+      "habitat": "Ektomykorhizní druh vázaný především na listnaté stromy – zejména dub, buk, lípu, habr, břízu, lísku a kaštanovník setý – a příležitostně na jehličnany nebo polokeře rodu Helianthemum, přičemž výrazně upřednostňuje vápnité, zásadité nebo křídové půdy a na kyselém podkladu se vyskytuje jen zřídka. Plodí jednotlivě nebo v roztroušených skupinách na zemi v listnatých a smíšených lesích, parcích, alejích a podél hrází rybníků od června do listopadu, nejhojněji od června do října po letních deštích.",
+      "uses": "Jedlý s výhradou po důkladné tepelné úpravě a v částech střední a jižní Evropy hojně sbíraný. Konzumace za syrova nebo po nedostatečné tepelné úpravě způsobuje během 30 minut až dvou hodin gastrointestinální otravu s nevolností, zvracením, křečemi v břiše a průjmem. Protože se podobá jedovatým červenopórovým hřibům a historicky byl spojován s nesnášenlivostí v kombinaci s alkoholem, běžně se doporučuje pečlivé určení a vyhýbání se alkoholu při jídle.",
+      "confusion": "Suillellus mendax roste pod stejnými hostiteli, ale upřednostňuje kyselé půdy, má načervenalejší a výrazně sametový klobouk, méně zřetelnou síťku omezenou na horní polovinu třeně a přecházející níže v jemná zrnka, a užší, protáhlejší výtrusy (Q kolem 2,7). Suillellus queletii sdílí vínově červenou bázi třeně a silné modrání, ale nemá na třeni žádnou síťku, pod rourkami má žlutou dužninu a obvykle nese oranžové spíše než sytě červené póry. Neoboletus luridiformis má tmavší kaštanově hnědý sametový klobouk, upřednostňuje kyselé půdy často s jehličnany a na třeni má jemné červené vločky místo vystouplé síťky. Rubroboletus satanas roste také na vápnitých půdách, ale je jedovatý, má mnohem světlejší křídově bílý až našedlý hrbolatý klobouk, statnější břichatý karmínový třeň s jemnější síťkou, slabší modrání a ve stáří nepříjemný hnilobný zápach. Rubroboletus rhodoxanthus má na světlejším klobouku narůžovělé tóny, hustší síťku a jasně žlutou dužninu, která modrá pouze v klobouku, zatímco ve třeni zůstává žlutá.",
+      "notes": "Rychlé tmavě modré zbarvení při poranění způsobuje enzymatická oxidace derivátů kyseliny pulvinové, zejména kyseliny variegátové a xerokomové, při kontaktu se vzduchem. Ačkoli kaštanově červená subhymeniální vrstva nad rourkami (Batailleova linie) představuje klasický terénní znak, fylogenetické studie ukazují, že může chybět a sama o sobě není v rámci rodu diagnostická. Plodnice bývají silně napadány larvami dvoukřídlých, zatímco slimáci se jim obvykle vyhýbají. Experimentální inokulační studie prokazují neobvykle vysokou toleranci k zasolení ve srovnání s jinými běžnými ektomykorhizními hřibovitými houbami. Historické zprávy o reakcích podobných disulfiramu po požití alkoholu nebyly chemicky potvrzeny – analýzy neodhalily žádný koprin a dřívější případy připsaly záměně s druhem Imperator torosus, ačkoli přítomnost dosud neidentifikované látky nebyla vyloučena."
+    },
+    "da": {
+      "label": "netstokket indigorørhat",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "En kraftig, ektomykorrhizadannende rørhat med røde porer, der vokser enkeltvis eller i spredte grupper på kalkholdig jord i løv- og blandingsskove, parker og alléer. Vidt udbredt i Europa fra Storbritannien og Irland til Middelhavsområdet og Østeuropa, mens ubekræftede historiske fund fra Asien og Nordamerika sandsynligvis repræsenterer nærtstående arter.",
+      "cap": "5–20 cm bred, tyk og pudeformet, først halvkugleformet, siden hvælvet og til sidst bredt affladet. Den tørre, fint fløjlsagtige overflade bliver glattere med alderen og let klæbrig i fugtigt vejr; farven varierer fra guloliven, okkerbrun eller olivenbrun til mat orangebrun eller rødbrun, ofte med lysere rand, og den mørkner til mørkeblå eller brunsort ved tryk.",
+      "hymenium": "Rørene er 1–2 cm lange, kortere mod randen og nedtrykte omkring stokkens spids, først bleggule, siden olivengule, og de farves blågrønne ved udsættelse for luft. De små, afrundede porer (2–3 pr. mm) er gulorange som unge og bliver snart orangerøde til karminrøde, ofte med en lysere zone langs hatranden, og de farves hurtigt mørkeblå til blåsorte ved berøring. Basidierne er kølleformede, firesporede og måler 29,2–36,5 × 11,0–12,4 µm; tenformede pleurocystider og cheilocystider har opsvulmet midte og lang hals og måler 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm høj og 1–5 cm tyk, kraftig, kølleformet eller opsvulmet som ung og senere cylindrisk, ofte let tilspidset eller rodslående ved basis. Overfladen er bleggul til okkergul foroven og mørkere rødlig til vinrød mod basis, dækket af et groft, lodret strakt, ophøjet orangerødt til karminrødt netværk, der hos unge frugtlegemer kan være begrænset til den øverste halvdel, før det breder sig ned ad stokken; den bliver mørkeblå ved berøring. Der er ingen ring, og basalmyceliet er gulligt.",
+      "flesh": "Tykt og fast som ungt, bleg- til citrongult i hatten og den øverste del af stokken og dybt vinrødt til rabarberrødt i stokbasis, ofte med et tyndt rødbrunt til orangerødt subhymenialt lag (Batailles linje) lige over rørene, selv om dette lag lejlighedsvis mangler. Ved gennemskæring eller tryk bliver kødet hurtigt og intenst mørkeblåt, før farven gradvist blegner. Lugten er svag og ubestemmelig eller let syrlig, og smagen er mild. I Melzers reagens reagerer kødet i stokbasis kraftigt amyloidt (mørkeblåt, når den naturlige blåfarvning er aftaget), mens fortyndet kaliumhydroxid farver hathuden mørkerød til sortagtig og kødet orangegult.",
+      "sporePrint": "Oliven til olivenbrunt. Sporerne er glatte, ellipsoide til tenformede og måler 10,5–16 × 4,5–7 µm (typisk 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, median 2,2).",
+      "habitat": "Ektomykorrhizadannende primært med løvtræer – især eg, bøg, lind, avnbøg, birk, hassel og ægte kastanje – og lejlighedsvis med nåletræer eller dværgbuske af slægten Helianthemum, med en udpræget præference for kalkholdig, alkalisk eller kridtagtig jord og sjældent forekommende på sur bund. Den vokser enkeltvis eller i spredte grupper på jorden i løv- og blandingsskove, parker, alléer og langs dæmninger ved damme fra juni til november, hyppigst fra juni til oktober efter sommerregn.",
+      "uses": "Betinget spiselig efter grundig tilberedning og udbredt som spisesvamp i dele af Central- og Sydeuropa. Indtagelse i rå eller utilstrækkeligt tilberedt tilstand giver mave-tarmforgiftning inden for 30 minutter til to timer med kvalme, opkastning, mavekramper og diarré. Da den ligner giftige rødporede rørhatte og historisk har været sat i forbindelse med alkoholintolerans, tilrådes omhyggelig bestemmelse og at undgå alkohol til måltidet.",
+      "confusion": "Suillellus mendax vokser under de samme værtstræer, men foretrækker sur jord, har en mere rødlig og tydeligt fløjlsagtig hat, et mindre udtalt netværk begrænset til stokkens øverste halvdel, der går over i fine korn nedefter, samt smallere, mere aflange sporer (Q omkring 2,7). Suillellus queletii deler den vinrøde stokbasis og den kraftige blåfarvning, men mangler netværk på stokken, har gult kød over rørene og bærer typisk orange snarere end dybrøde porer. Neoboletus luridiformis har en mørkere kastanjebrun, fløjlsagtig hat, foretrækker sur jord ofte sammen med nåletræer og har fine røde prikker på stokken i stedet for et ophøjet netværk. Rubroboletus satanas vokser også på kalkholdig jord, men er giftig, med en langt blegere kalkhvid til grålig, knudret hat, en kraftigere, opsvulmet karminrød stok med finere netværk, svagere blåfarvning og en ubehagelig rådden lugt med alderen. Rubroboletus rhodoxanthus har rosa nuancer på en blegere hat, tættere netværk og klart gult kød, der kun blåner i hatten, mens det forbliver gult i stokken.",
+      "notes": "Den hurtige mørkeblå farvning ved beskadigelse skyldes enzymatisk oxidation af pulvinsyrederivater, hovedsagelig variegatsyre og xerocomsyre, ved udsættelse for luft. Selv om det rødbrune subhymeniale lag over rørene (Batailles linje) er et klassisk feltkendetegn, viser fylogenetiske studier, at det kan mangle og ikke i sig selv er diagnostisk inden for slægten. Frugtlegemerne angribes kraftigt af larver af tovingede insekter, mens snegle som regel undgår dem. Eksperimentelle inokulationsforsøg viser en usædvanlig høj salttolerance sammenlignet med andre almindelige ektomykorrhizadannende rørhatte. Historiske rapporter om disulfiramlignende reaktioner sammen med alkohol er ikke blevet kemisk bekræftet – analyser har ikke påvist coprin og har tilskrevet tidligere tilfælde forveksling med Imperator torosus, selv om et uidentificeret stof ikke er udelukket."
+    },
+    "de": {
+      "label": "Netzstieliger Hexen-Röhrling",
+      "names": [
+        "Netzstieliger Hexenröhrling"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Netzstieliger_Hexen-R%C3%B6hrling",
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "Ein kräftiger, rotporiger Ektomykorrhizapilz, der einzeln oder in verstreuten Gruppen auf kalkhaltigen Böden in Laub- und Mischwäldern, Parks und Alleen fruktifiziert. Er ist in ganz Europa von Großbritannien und Irland bis in den Mittelmeerraum und nach Osteuropa weit verbreitet; unbestätigte historische Meldungen aus Asien und Nordamerika beziehen sich wahrscheinlich auf verwandte Arten.",
+      "cap": "5–20 cm breit, dickfleischig und polsterförmig, anfangs halbkugelig, später konvex aufschirmend und schließlich breit abgeflacht. Die trockene, fein samtige Oberfläche wird im Alter glatter und bei feuchtem Wetter leicht schmierig; farblich reicht sie von gelboliv, ockerbraun oder olivbraun bis zu matt orangebraun oder rotbraun, oft mit blasserem Rand, und dunkelt auf Druck dunkelblau oder bräunlichschwarz nach.",
+      "hymenium": "Die Röhren sind 1–2 cm lang, zum Rand hin kürzer und um die Stielspitze ausgebuchtet, anfangs blassgelb und später olivgelb, an der Luft blaugrün anlaufend. Die kleinen, rundlichen Poren (2–3 pro mm) sind jung gelborange, reifen rasch zu orangerot oder karminrot nach, oft mit einer blasseren Zone entlang des Hutrandes, und verfärben sich bei Berührung rasch dunkelblau bis blauschwarz. Die Basidien sind keulig, viersporig und messen 29,2–36,5 × 11,0–12,4 µm; die spindelförmigen Pleuro- und Cheilozystiden haben eine bauchig erweiterte Mitte und einen langen Hals und messen 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm hoch und 1–5 cm dick, kräftig, jung keulig oder bauchig und im Alter zylindrisch, an der Basis oft leicht verjüngt oder wurzelnd. Die Oberfläche ist oben blassgelb bis ockergelb und zur Basis hin dunkler rötlich bis weinrot, überzogen von einem groben, längsgestreckten, erhabenen orangeroten bis karminroten Netz, das bei jungen Fruchtkörpern auf die obere Hälfte beschränkt sein kann, bevor es sich weiter den Stiel hinabzieht; bei Berührung blaut er dunkel. Ein Ring fehlt, und das Basalmyzel ist gelblich.",
+      "flesh": "Jung dick und fest, im Hut und oberen Stiel blass- bis zitronengelb und in der unteren Stielbasis tief weinrot bis rhabarberrot, oft mit einer dünnen kastanien- bis orangeroten Subhymenialschicht (Bataille-Linie) unmittelbar über den Röhren, wobei diese Schicht gelegentlich fehlt. Bei Verletzung oder im Schnitt verfärbt sich das Fleisch rasch und intensiv dunkelblau, bevor es allmählich verblasst. Der Geruch ist schwach und unauffällig oder leicht säuerlich, der Geschmack mild. Mit Melzers Reagenz reagiert das Fleisch der Stielbasis stark amyloid (dunkelblau, sobald das natürliche Blauen abklingt), während verdünnte Kalilauge die Huthaut dunkelrot bis schwärzlich und das Fleisch orangegelb verfärbt.",
+      "sporePrint": "Oliv bis olivbraun. Die Sporen sind glatt, ellipsoid bis spindelförmig und messen 10,5–16 × 4,5–7 µm (typischerweise 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, Median 2,2).",
+      "habitat": "Ektomykorrhizabildend vor allem mit Laubbäumen – insbesondere Eiche, Buche, Linde, Hainbuche, Birke, Hasel und Edelkastanie – sowie gelegentlich mit Nadelbäumen oder Halbsträuchern der Gattung Helianthemum, mit ausgeprägter Vorliebe für kalkhaltige, alkalische oder kreidehaltige Böden und nur selten auf saurem Untergrund. Er fruktifiziert einzeln oder in verstreuten Gruppen auf dem Boden in Laub- und Mischwäldern, Parks, Alleen und entlang von Teichdämmen von Juni bis November, am reichlichsten von Juni bis Oktober nach Sommerregen.",
+      "uses": "Nach gründlichem Durchgaren bedingt essbar und in Teilen Mittel- und Südeuropas weit verbreitet als Speisepilz genutzt. Der Verzehr in rohem oder unzureichend gegartem Zustand führt innerhalb von 30 Minuten bis zwei Stunden zu einer gastrointestinalen Vergiftung mit Übelkeit, Erbrechen, Bauchkrämpfen und Durchfall. Da er giftigen rotporigen Röhrlingen ähnelt und historisch mit alkoholbedingten Unverträglichkeiten in Verbindung gebracht wurde, werden eine sorgfältige Bestimmung sowie der Verzicht auf Alkohol zu Mahlzeiten allgemein empfohlen.",
+      "confusion": "Suillellus mendax kommt unter denselben Wirten vor, bevorzugt jedoch saure Böden, besitzt einen rötlicheren und deutlich samtigen Hut, ein weniger ausgeprägtes, auf die obere Stielhälfte beschränktes und nach unten in feine Körnchen übergehendes Netz sowie schmalere, stärker verlängerte Sporen (Q etwa 2,7). Suillellus queletii teilt die weinrote Stielbasis und das starke Blauen, besitzt jedoch keinerlei Stielnetz, hat gelbes Fleisch über den Röhren und trägt meist orangefarbene statt tiefroter Poren. Neoboletus luridiformis hat einen dunkleren, kastanienbraunen samtigen Hut, bevorzugt saure Böden häufig mit Nadelbäumen und zeigt am Stiel feine rote Flöckchen statt eines erhabenen Netzes. Rubroboletus satanas wächst ebenfalls auf Kalkböden, ist aber giftig, mit einem viel helleren, kreideweißen bis gräulichen, unregelmäßig buckeligen Hut, einem kräftigeren, knolligen karminroten Stiel mit feinerer Netzzeichnung, schwächerer Blaufärbung und im Alter einem widerlichen Aasgeruch. Rubroboletus rhodoxanthus zeigt rosafarbene Töne auf einem helleren Hut, ein dichteres Netz sowie leuchtend gelbes Fleisch, das nur im Hut blaut, im Stiel jedoch gelb bleibt.",
+      "notes": "Die rasche dunkelblaue Verfärbung bei Verletzung entsteht durch die enzymatische Oxidation von Pulvinsäurederivaten, vor allem Variegatsäure und Xerocomsäure, bei Luftkontakt. Obwohl die weinrote Subhymenialschicht über den Röhren (Bataille-Linie) ein klassisches Feldmerkmal ist, zeigen phylogenetische Untersuchungen, dass sie fehlen kann und für sich allein innerhalb der Gattung nicht diagnostisch ist. Die Fruchtkörper werden stark von Zweiflüglerlarven befallen, während Nacktschnecken sie meist meiden. Experimentelle Inokulationsstudien belegen eine ungewöhnlich hohe Salztoleranz im Vergleich zu anderen häufigen ektomykorrhizabildenden Röhrlingen. Historische Berichte über disulfiramähnliche Reaktionen mit Alkohol konnten chemisch nicht bestätigt werden – Analysen wiesen kein Coprin nach und führten frühere Fälle auf Verwechslungen mit Imperator torosus zurück, auch wenn ein bislang unidentifizierter Inhaltsstoff nicht ausgeschlossen wurde."
+    },
+    "en": {
+      "label": "lurid bolete",
+      "names": [],
+      "wikipedia": "https://en.wikipedia.org/wiki/Suillellus_luridus",
+      "description": "A stout, red-pored ectomycorrhizal bolete fruiting singly or in scattered groups on calcareous soils in broadleaved and mixed woodlands, parks, and avenues. Widely distributed across Europe from Britain and Ireland to the Mediterranean and eastern Europe, with unverified historical reports from Asia and North America likely representing allied species.",
+      "cap": "5–20 cm wide, thick and cushion-shaped, hemispherical at first before expanding to convex and eventually broadly flattened. The dry, finely velvety surface becomes smoother with age and slightly viscid in wet weather, ranging from yellow-olive, ochre-brown, or olive-brown to dull orange-brown or reddish-brown, often with paler margins and darkening to dark blue or brownish-black where bruised.",
+      "hymenium": "Tubes are 1–2 cm long, shorter near the margin and depressed around the stipe apex, initially pale yellow and becoming olive-yellow, staining bluish-green on exposure to air. The small, rounded pores (2–3 per mm) are yellow-orange when young, soon maturing to orange-red or crimson-red, often with a paler zone along the cap margin, and bruising rapidly dark blue to blue-black when touched. Basidia are club-shaped, four-spored, and measure 29.2–36.5 × 11.0–12.4 µm; fusiform pleurocystidia and cheilocystidia have swollen middles and long necks, measuring 33–48 × 7.3–13.5 µm.",
+      "stipe": "5–15 cm tall and 1–5 cm thick, stout, club-shaped or swollen when young and becoming cylindrical with age, often slightly tapering or rooting at the base. The surface is pale yellow to ochre-yellow above and darker reddish to vinaceous-red toward the base, overlaid with a coarse, vertically elongated orange-red to crimson-red raised network that may be restricted to the upper half in young specimens before extending down the stipe; it bruises dark blue on handling. There is no ring, and the basal mycelium is yellowish.",
+      "flesh": "Thick and firm when young, pale to lemon-yellow in the cap and upper stipe, and deep wine-red to rhubarb-red in the lower stipe base, often with a thin maroon to orange-red subhymenial layer (Bataille's line) directly above the tubes, though this layer is occasionally absent. When cut or bruised, the flesh turns rapidly and intensely dark blue before gradually fading. The odour is faint and indistinct or mildly sour, and the taste is mild. In Melzer's reagent the stipe-base flesh reacts strongly amyloid (dark blue once natural bluing fades), while dilute potassium hydroxide stains the cap cuticle dark red to blackish and the flesh orange-yellow.",
+      "sporePrint": "Olive to olive-brown. Spores are smooth, ellipsoid to fusiform, measuring 10.5–16 × 4.5–7 µm (typically 11–15 × 4.5–6.5 µm; Q = 1.8–2.8, median 2.2).",
+      "habitat": "Ectomycorrhizal primarily with broadleaved trees—especially oak, beech, lime, hornbeam, birch, hazel, and sweet chestnut—and occasionally with conifers or Helianthemum subshrubs, showing a strong preference for calcareous, alkaline, or chalky soils and rarely occurring on acidic ground. It fruits singly or in scattered groups on the ground in deciduous and mixed woodlands, parks, avenues, and along pond embankments from June to November, most abundantly from June to October after summer rains.",
+      "uses": "Edible with caution after thorough cooking, and widely eaten in parts of central and southern Europe. Eating it raw or undercooked causes gastrointestinal poisoning within 30 minutes to two hours, with nausea, vomiting, abdominal cramps, and diarrhoea. Because it resembles toxic red-pored boletes and has historically been associated with alcohol-related intolerance, careful identification and avoidance of alcohol with meals are commonly advised.",
+      "confusion": "Suillellus mendax occurs under the same hosts but favours acidic soils, has a more reddish and markedly velvety cap, a less pronounced network confined to the upper half of the stipe passing into fine granules below, and narrower, more elongated spores (Q about 2.7). Suillellus queletii shares the wine-red stipe base and strong bluing but lacks any stipe network, has yellow flesh beneath the tubes, and typically bears orange rather than deep red pores. Neoboletus luridiformis has a darker chestnut-brown velvety cap, favours acidic soils often with conifers, and bears fine red speckles on the stipe rather than a raised network. Rubroboletus satanas also grows on calcareous soils but is toxic, with a much paler chalky-white to greyish lumpy cap, a stouter bulbous crimson stipe with finer reticulation, weaker blue staining, and a foul decaying odour in age. Rubroboletus rhodoxanthus has pinkish tones on a paler cap, denser reticulation, and bright yellow flesh that stains blue only in the cap while remaining yellow in the stipe.",
+      "notes": "The rapid dark-blue staining on injury is caused by enzymatic oxidation of pulvinic acid derivatives, chiefly variegatic and xerocomic acids, upon exposure to air. Although the maroon subhymenial layer above the tubes (Bataille's line) is a classic field character, phylogenetic studies show it can be absent and is not by itself diagnostic within the genus. Fruit bodies are heavily colonized by dipteran larvae, whereas slugs generally avoid them. Experimental inoculation studies show unusually high salinity tolerance compared with other common ectomycorrhizal boletes. Historical reports of disulfiram-like reactions with alcohol have not been confirmed chemically—analyses found no coprine and attributed past cases to misidentification of Imperator torosus, though an unidentified compound has not been ruled out.",
+      "sourceUrls": [
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=102402",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=102402",
+        "https://www.mycobank.org/page/Name%20details%20page/102402",
+        "https://www.gbif.org/species/3355021",
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.wikidata.org/wiki/Q752494",
+        "https://en.wikipedia.org/wiki/Suillellus_luridus",
+        "https://www.first-nature.com/fungi/suillellus-luridus.php",
+        "https://boletales.com/genera/boletus/b-luridus/",
+        "https://www.myko.cz/myko-atlas/Suillellus-luridus/",
+        "https://de.wikipedia.org/wiki/Netzstieliger_Hexen-R%C3%B6hrling"
+      ]
+    },
+    "es": {
+      "label": "boleto cetrino",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Boleto ectomicorrícico robusto de poros rojos que fructifica de forma aislada o en grupos dispersos sobre suelos calcáreos en bosques planifolios y mixtos, parques y paseos arbolados. Ampliamente distribuido por toda Europa desde Gran Bretaña e Irlanda hasta el Mediterráneo y Europa oriental, con citas históricas no verificadas de Asia y Norteamérica que probablemente corresponden a especies afines.",
+      "cap": "De 5–20 cm de anchura, grueso y almohadillado, al principio hemisférico antes de extenderse a convexo y finalmente aplanado. La superficie seca y finamente aterciopelada se vuelve más lisa con la edad y ligeramente viscosa en tiempo húmedo, variando del amarillo oliváceo, pardo ocráceo o pardo oliváceo al pardo anaranjado apagado o pardo rojizo, a menudo con márgenes más pálidos, y oscureciéndose a azul oscuro o pardo negruzco en las zonas rozadas.",
+      "hymenium": "Los tubos miden 1–2 cm de longitud, son más cortos cerca del margen y deprimidos alrededor del ápice del pie, inicialmente amarillo pálido y luego amarillo oliváceo, tiñéndose de azul verdoso al contacto con el aire. Los poros pequeños y redondeados (2–3 por mm) son amarillo anaranjados de jóvenes y maduran pronto a rojo anaranjado o rojo carmesí, a menudo con una zona más pálida junto al margen del sombrero, azuleando rápidamente a azul oscuro o negro azulado al tacto. Los basidios son claviformes, tetraspóricos y miden 29,2–36,5 × 11,0–12,4 µm; los pleurocistidios y queilocistidios fusiformes presentan la parte media ensanchada y cuellos largos, midiendo 33–48 × 7,3–13,5 µm.",
+      "stipe": "De 5–15 cm de altura y 1–5 cm de grosor, robusto, claviforme o ventrudo de joven y cilíndrico con la edad, a menudo ligeramente atenuado o radicante en la base. La superficie es amarillo pálida a amarillo ocrácea en la parte superior y más oscura, rojiza a rojo vinosa hacia la base, cubierta por una red gruesa en relieve, alargada verticalmente, de color rojo anaranjado a rojo carmesí, que puede quedar restringida a la mitad superior en ejemplares jóvenes antes de extenderse hacia abajo; azulea intensamente al manipularlo. Carece de anillo y el micelio basal es amarillento.",
+      "flesh": "Gruesa y firme de joven, de color amarillo pálido a amarillo limón en el sombrero y parte superior del pie, y rojo vinoso intenso a rojo ruibarbo en la base inferior del pie, a menudo con una fina capa subhimenial granate a rojo anaranjada (línea de Bataille) directamente sobre los tubos, aunque esta capa falta ocasionalmente. Al corte o al roce, la carne vira rápida e intensamente a azul oscuro antes de ir palideciendo gradualmente. El olor es débil e indistinto o ligeramente acidulado, y el sabor es suave. En reactivo de Melzer la carne de la base del pie reacciona fuertemente amiloide (azul oscuro una vez que se desvanece el azuleamiento natural), mientras que el hidróxido potásico diluido tiñe la cutícula del sombrero de rojo oscuro a negruzco y la carne de amarillo anaranjado.",
+      "sporePrint": "Olivácea a pardo olivácea. Las esporas son lisas, elipsoidales a fusiformes, de 10,5–16 × 4,5–7 µm (normalmente 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediana 2,2).",
+      "habitat": "Ectomicorrícico principalmente con árboles planifolios —especialmente roble, haya, tilo, carpe, abedul, avellano y castaño— y ocasionalmente con coníferas o matas del género Helianthemum, mostrando una marcada preferencia por suelos calcáreos, alcalinos o cretácicos y apareciendo rara vez en terrenos ácidos. Fructifica de forma aislada o en grupos dispersos sobre el suelo en bosques caducifolios y mixtos, parques, paseos arbolados y taludes de estanques de junio a noviembre, con mayor abundancia de junio a octubre tras las lluvias estivales.",
+      "uses": "Comestible con precaución tras una cocción prolongada y ampliamente consumido en partes de Europa central y meridional. Su consumo crudo o poco cocinado provoca una intoxicación gastrointestinal entre 30 minutos y dos horas después, con náuseas, vómitos, calambres abdominales y diarrea. Dado que se asemeja a boletos tóxicos de poros rojos y se ha asociado históricamente a intolerancias relacionadas con el alcohol, suelen recomendarse una identificación cuidadosa y evitar el alcohol en las comidas.",
+      "confusion": "Suillellus mendax aparece bajo los mismos hospedadores pero prefiere suelos ácidos, tiene un sombrero más rojizo y marcadamente aterciopelado, una red menos pronunciada limitada a la mitad superior del pie que pasa a finas granulaciones hacia abajo y esporas más estrechas y alargadas (Q en torno a 2,7). Suillellus queletii comparte la base del pie rojo vinosa y el fuerte azuleamiento, pero carece de cualquier red en el pie, presenta carne amarilla bajo los tubos y suele tener poros anaranjados en lugar de rojo intenso. Neoboletus luridiformis posee un sombrero aterciopelado pardo castaño más oscuro, prefiere suelos ácidos a menudo con coníferas y presenta finos punteados rojos en el pie en lugar de una red en relieve. Rubroboletus satanas también crece en suelos calcáreos pero es tóxico, con un sombrero giboso mucho más pálido, blanco tiza a grisáceo, un pie bulboso carmesí más robusto con retículo más fino, un azuleamiento más débil y un olor fétido a descomposición en la vejez. Rubroboletus rhodoxanthus muestra tonos rosáceos en un sombrero más pálido, un retículo más denso y carne amarillo vivo que azulea solo en el sombrero mientras permanece amarilla en el pie.",
+      "notes": "El rápido viraje a azul oscuro tras una lesión se debe a la oxidación enzimática de derivados del ácido pulvínico, principalmente los ácidos variegático y xerocómico, al exponerse al aire. Aunque la capa subhimenial granate sobre los tubos (línea de Bataille) es un carácter de campo clásico, los estudios filogenéticos demuestran que puede faltar y no resulta diagnóstica por sí sola dentro del género. Los cuerpos fructíferos son intensamente colonizados por larvas de dípteros, mientras que las babosas suelen evitarlos. Los ensayos experimentales de inoculación muestran una tolerancia a la salinidad inusualmente elevada en comparación con otros boletos ectomicorrícicos comunes. Los informes históricos de reacciones de tipo disulfiram con el alcohol no han sido confirmados químicamente —los análisis no hallaron coprina y atribuyeron los casos pasados a confusiones con Imperator torosus, aunque no se ha descartado un compuesto aún no identificado."
+    },
+    "et": {
+      "label": "tamme-kivipuravik",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Tugev punaste pooridega ektomükoriisat moodustav puravik, mis kasvab üksikult või hajusate rühmadena lubjarikastel muldadel leht- ja segametsades, parkides ning alleedel. Laialdaselt levinud Euroopas Suurbritanniast ja Iirimaast kuni Vahemere piirkonna ja Ida-Euroopani; kinnitamata ajaloolised teated Aasiast ja Põhja-Ameerikast kuuluvad tõenäoliselt lähisliikidele.",
+      "cap": "5–20 cm lai, paks ja padjandjas, algul poolkerajas, seejärel kumer ja lõpuks laialt lamendunud. Kuiv, peenelt sametine pind muutub vanusega siledamaks ja märja ilmaga kergelt kleepuvaks; värvus varieerub kollakasoliivist, ookerpruunist või oliivpruunist tuhmi oranžikaspruuni või punakaspruunini, sageli heledama servaga, ning vajutuskohtadel tumeneb tumesiniseks või pruunikasmustaks.",
+      "hymenium": "Torukesed on 1–2 cm pikad, serva suunas lühemad ja jala tipu ümber nõgusalt sisse vajunud, algul kahvatukollased, hiljem oliivkollased, värvudes õhuga kokkupuutel sinakasroheliseks. Väikesed ümarad poorid (2–3 tk/mm) on noorelt kollakasoranžid, muutudes peagi oranžikaspunaseks või karmiinpunaseks, sageli heledama vööndiga kübaraserva ääres, ning värvuvad puudutamisel kiiresti tumesiniseks kuni sinakasmustaks. Basiidiumid on nuikujulised, neljaeoselised ja mõõtmetega 29,2–36,5 × 11,0–12,4 µm; käävjad pleurotsüstiidid ja keilotsüstiidid on pundunud keskosa ja pika kaelaga, mõõtmetega 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm kõrge ja 1–5 cm jäme, tugev, noorelt nuikujuline või pundunud, vananedes silindriline, alusel sageli kergelt ahenev või juurduv. Pind on ülaosas kahvatukollane kuni ookerkollane ja aluse poole tumedam punakas kuni veinipunane, kaetud jämeda, pikisuunas venitatud kõrgema oranžikaspunase kuni karmiinpunase võrgustikuga, mis noortel viljakehadel võib piirduda ülemise poolega enne allapoole ulatumist; puudutamisel värvub jalg tumesiniseks. Rõngas puudub ja alusmütseel on kollakas.",
+      "flesh": "Noorelt paks ja tihke, kübaras ja jala ülaosas kahvatu- kuni sidrunkollane ning jala aluses sügavalt veinipunane kuni rabarberipunane, sageli õhukese kastanpunase kuni oranžikaspunase subhümeniaalse kihiga (Bataille' joon) otse torukeste kohal, kuigi see kiht võib vahel puududa. Lõikamisel või muljumisel värvub seeneliha kiiresti ja intensiivselt tumesiniseks, enne kui värvus järk-järgult tuhmub. Lõhn on nõrk ja ebamäärane või kergelt hapukas ning maitse mahe. Melzeri reagendis reageerib jala aluse seeneliha tugevalt amüloidselt (tumesinine pärast loomuliku sinetamise taandumist), samas kui lahjendatud kaaliumhüdroksiid värvib kübaranaha tumepunaseks kuni mustjaks ja seeneliha oranžikaskollaseks.",
+      "sporePrint": "Oliivroheline kuni oliivpruun. Eosed on siledad, ellipsoidist käävjani, mõõtmetega 10,5–16 × 4,5–7 µm (tavaliselt 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediaan 2,2).",
+      "habitat": "Ektomükoriisat moodustav peamiselt lehtpuudega — eriti tamme, pöögi, pärna, valgepöögi, kase, sarapuu ja hariliku kastanipuuga — ning harva okaspuude või perekonna Helianthemum kääbuspõõsastega, eelistades selgelt lubjarikkaid, aluselisi või kriitjaid muldi ja esinedes harva happelisel pinnasel. Viljakehad kasvavad üksikult või hajusate rühmadena maapinnal leht- ja segametsades, parkides, alleedel ja tiigitammidel juunist novembrini, kõige arvukamalt juunist oktoobrini pärast suviseid vihmu.",
+      "uses": "Tinglikult söödav pärast põhjalikku kuumtöötlemist ning laialdaselt tarbitav osades Kesk- ja Lõuna-Euroopa piirkondades. Toorelt või ebapiisavalt kuumtöödeldult söömine põhjustab 30 minuti kuni kahe tunni jooksul seedetrakti mürgistuse iivelduse, oksendamise, kõhukrampide ja kõhulahtisusega. Kuna liik sarnaneb mürgiste punapooriliste puravikega ja seda on ajalooliselt seostatud alkoholitalumatusega, soovitatakse tavaliselt hoolikat määramist ja alkoholi vältimist toidukorra juures.",
+      "confusion": "Suillellus mendax kasvab samade peremeespuude all, kuid eelistab happelisi muldi, tal on punakam ja märgatavalt sametisem kübar, vähem väljendunud võrgustik, mis piirdub jala ülemise poolega ja läheb allpool üle peenteks terakesteks, ning kitsamad, piklikumad eosed (Q umbes 2,7). Suillellus queletii jagab veinipunast jala alust ja tugevat sinetamist, kuid sellel puudub jalal igasugune võrgustik, torukeste kohal olev seeneliha on kollane ja poorid on tavaliselt oranžid, mitte sügavpunased. Neoboletus luridiformis on tumedama kastanpruuni sametise kübaraga, eelistab happelisi muldi sageli koos okaspuudega ning kannab jalal kõrgema võrgustiku asemel peeneid punaseid täppe. Rubroboletus satanas kasvab samuti lubjarikastel muldadel, kuid on mürgine, palju heledama kriitvalge kuni hallika mügarliku kübaraga, jämedama mugulja karmiinpunase ja peenema võrgustikuga jalaga, nõrgema sinetamisega ning vanemas eas ebameeldiva roiskuva lõhnaga. Rubroboletus rhodoxanthus on heledamal kübaral roosakate toonidega, tihedama võrgustikuga ja erkkollase seenelihaga, mis sinetab ainult kübaras, jäädes jalas kollaseks.",
+      "notes": "Kiire tumesinine värvumine vigastamisel on tingitud pulviinhappe derivaatide, peamiselt variegaat- ja kserokoomhappe, ensümaatilisest oksüdeerumisest õhuga kokkupuutel. Kuigi kastanpunane subhümeniaalne kiht torukeste kohal (Bataille' joon) on klassikaline välitunnus, näitavad fülogeneetilised uuringud, et see võib puududa ega ole perekonna piires iseseisvalt eristav. Viljakehad on tugevalt asustatud kahetiivaliste vastsetega, samas kui nälkjad neid üldjuhul väldivad. Eksperimentaalsed inokuleerimiskatsed näitavad teiste tavaliste ektomükoriisat moodustavate puravikega võrreldes ebatavaliselt suurt soolataluvust. Ajaloolised teated disulfiraamisarnastest reaktsioonidest alkoholiga ei ole keemiliselt kinnitust leidnud — analüüsid ei tuvastanud kopriini ja omistasid varasemad juhtumid segiajamisele liigiga Imperator torosus, kuigi tuvastamata ühendi esinemist ei ole välistatud."
+    },
+    "fa": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "قارچی بولتی تنومند با روزنه‌های سرخ و همزیست اکتومیکوریز که به‌صورت تکی یا در گروه‌های پراکنده روی خاک‌های آهکی در جنگل‌های پهن‌برگ و آمیخته، پارک‌ها و خیابان‌های درخت‌کاری‌شده می‌روید. این گونه به‌طور گسترده در سراسر اروپا از بریتانیا و ایرلند تا مدیترانه و اروپای شرقی پراکنده است، اما گزارش‌های تاریخی تأییدنشده از آسیا و آمریکای شمالی احتمالاً به گونه‌های خویشاوند مربوط می‌شوند.",
+      "cap": "عرض کلاهک ۵–۲۰ سانتی‌متر، ضخیم و بالش‌مانند است که در ابتدا نیم‌کروی بوده و سپس به شکل محدب و در نهایت گسترده و تخت درمی‌آید. سطح خشک و ظریفاً مخملی آن با افزایش سن صاف‌تر و در هوای مرطوب اندکی چسبناک می‌شود؛ رنگ آن از زرد زیتونی، قهوه‌ای اخرایی یا قهوه‌ای زیتونی تا قهوه‌ای نارنجی کدر یا قهوه‌ای مایل به سرخ متغیر است، اغلب حاشیه‌های روشن‌تری دارد و در محل کوفتگی به آبی تیره یا سیاه مایل به قهوه‌ای تیره می‌شود.",
+      "hymenium": "لوله‌ها به طول ۱–۲ سانتی‌متر، در نزدیکی حاشیه کوتاه‌تر و در اطراف رأس ساقه فرورفته‌اند؛ در ابتدا زرد کمرنگ هستند و به زرد زیتونی تبدیل می‌شوند و در تماس با هوا به سبز مایل به آبی رنگ می‌گیرند. روزنه‌های کوچک و گرد (۲–۳ عدد در هر میلی‌متر) در جوانی زرد نارنجی هستند و به‌سرعت به نارنجی مایل به سرخ یا سرخ زرشکی می‌رسند، اغلب نواری روشن‌تر در امتداد حاشیه کلاهک دارند و با لمس به‌سرعت به آبی تیره تا آبی مایل به سیاه کبود می‌شوند. بازیدی‌ها چماقی‌شکل، چهارهاگی و به ابعاد ۲۹٫۲–۳۶٫۵ × ۱۱٫۰–۱۲٫۴ میکرومتر هستند؛ پلوروسیستیدیوم‌ها و کیلوسیستیدیوم‌های دوکی‌شکل میانه متورم و گردن بلند دارند و ابعاد آن‌ها ۳۳–۴۸ × ۷٫۳–۱۳٫۵ میکرومتر است.",
+      "stipe": "ساقه به ارتفاع ۵–۱۵ سانتی‌متر و ضخامت ۱–۵ سانتی‌متر، تنومند، در جوانی چماقی یا متورم است و با افزایش سن استوانه‌ای می‌شود و اغلب در قاعده اندکی باریک یا ریشه‌مانند می‌گردد. سطح آن در بالا زرد کمرنگ تا زرد اخرایی و به سمت قاعده تیره‌تر و سرخ تا سرخ شرابی است و با شبکه‌ای برجسته و درشت با کشیدگی عمودی به رنگ نارنجی مایل به سرخ تا سرخ زرشکی پوشیده شده که در نمونه‌های جوان ممکن است به نیمه بالایی محدود باشد و سپس در طول ساقه گسترش یابد؛ در اثر دست‌زدن به آبی تیره کبود می‌شود. حلقه ندارد و میسلیوم قاعده‌ای آن متمایل به زرد است.",
+      "flesh": "گوشت در جوانی ضخیم و سفت است، در کلاهک و بخش بالایی ساقه زرد کمرنگ تا زرد لیمویی و در قاعده پایینی ساقه سرخ شرابی تیره تا سرخ ریواسی است و اغلب لایه‌ای نازک به رنگ عنابی تا نارنجی مایل به سرخ در زیر هیمنیوم (خط باتای) دقیقاً بالای لوله‌ها دارد، هرچند این لایه گاهی دیده نمی‌شود. هنگام برش یا کوفتگی، گوشت به‌سرعت و به‌شدت به آبی تیره تبدیل می‌شود و سپس به‌تدریج کمرنگ می‌گردد. بو خفیف و نامشخص یا اندکی ترش و مزه آن ملایم است. در معرف ملزر، گوشت قاعده ساقه واکنش آمیلوئیدی قوی (آبی تیره پس از محو شدن کبودی طبیعی) نشان می‌دهد، در حالی که هیدروکسید پتاسیم رقیق پوستک کلاهک را به سرخ تیره تا مایل به سیاه و گوشت را به زرد نارنجی رنگ می‌کند.",
+      "sporePrint": "زیتونی تا قهوه‌ای زیتونی. هاگ‌ها صاف، بیضی‌شکل تا دوکی هستند و ابعاد آن‌ها ۱۰٫۵–۱۶ × ۴٫۵–۷ میکرومتر (معمولاً ۱۱–۱۵ × ۴٫۵–۶٫۵ میکرومتر؛ Q = ۱٫۸–۲٫۸، میانه ۲٫۲) است.",
+      "habitat": "اکتومیکوریز، عمدتاً با درختان پهن‌برگ — به‌ویژه بلوط، راش، نمدار، ممرز، توس، فندق و شاه‌بلوط شیرین — و گاهی با سوزنی‌برگان یا بوته‌چه‌های جنس Helianthemum است و ترجیح قوی به خاک‌های آهکی، قلیایی یا گچی دارد و به‌ندرت روی زمین‌های اسیدی دیده می‌شود. به‌صورت تکی یا در گروه‌های پراکنده روی زمین در جنگل‌های برگ‌ریز و آمیخته، پارک‌ها، خیابان‌های درخت‌کاری‌شده و حاشیه خاکریز برکه‌ها از ژوئن تا نوامبر و بیش از همه از ژوئن تا اکتبر پس از باران‌های تابستانی می‌روید.",
+      "uses": "پس از پخت کامل خوراکی با احتیاط است و در بخش‌هایی از اروپای مرکزی و جنوبی به‌طور گسترده مصرف می‌شود. خوردن آن به‌صورت خام یا نیم‌پز ظرف ۳۰ دقیقه تا دو ساعت باعث مسمومیت گوارشی همراه با تهوع، استفراغ، دل‌پیچه و اسهال می‌شود. از آنجا که به بولت‌های سمی با روزنه‌های سرخ شباهت دارد و در گذشته با ناسازگاری مرتبط با الکل پیوند داده شده است، شناسایی دقیق و پرهیز از مصرف الکل همراه با غذا معمولاً توصیه می‌شود.",
+      "confusion": "گونه Suillellus mendax زیر همان میزبان‌ها می‌روید اما خاک‌های اسیدی را ترجیح می‌دهد، کلاهکی سرخ‌تر و به‌وضوح مخملی دارد، شبکه آن کم‌برجسته‌تر بوده و به نیمه بالایی ساقه محدود است و در پایین به دانه‌های ریز تبدیل می‌شود و هاگ‌های باریک‌تر و کشیده‌تری دارد (Q حدود ۲٫۷). گونه Suillellus queletii نیز قاعده ساقه سرخ شرابی و کبودشدن شدید دارد اما هیچ شبکه‌ای روی ساقه ندارد، گوشت زیر لوله‌هایش زرد است و معمولاً روزنه‌هایی نارنجی به‌جای سرخ تیره دارد. گونه Neoboletus luridiformis کلاهک مخملی قهوه‌ای بلوطی تیره‌تری دارد، خاک‌های اسیدی و اغلب همراه با سوزنی‌برگان را ترجیح می‌دهد و روی ساقه به‌جای شبکه برجسته، نقطه‌های ریز سرخ دارد. گونه Rubroboletus satanas نیز روی خاک‌های آهکی می‌روید اما سمی است، کلاهک بسیار روشن‌تر و سفید گچی تا خاکستری و ناهموار دارد، ساقه آن تنومندتر، پیازی و زرشکی با شبکه‌ای ظریف‌تر است، کبودشدن ضعیف‌تری دارد و در پیری بوی تعفن نامطبوعی می‌دهد. گونه Rubroboletus rhodoxanthus ته‌رنگ‌های صورتی روی کلاهکی روشن‌تر، شبکه‌ای متراکم‌تر و گوشتی زرد روشن دارد که فقط در کلاهک آبی می‌شود و در ساقه زرد باقی می‌ماند.",
+      "notes": "کبودشدن سریع به آبی تیره در اثر آسیب ناشی از اکسایش آنزیمی مشتقات اسید پولوینیک، عمدتاً اسیدهای واریگاتیک و زروکومیک، در تماس با هوا است. اگرچه لایه عنابی زیر هیمنیوم بالای لوله‌ها (خط باتای) یک نشانه صحرایی کلاسیک به شمار می‌رود، پژوهش‌های تبارشناختی نشان می‌دهند که ممکن است وجود نداشته باشد و به‌تنهایی در این جنس تشخیصی نیست. اندام‌های بارده به‌شدت مورد هجوم لاروهای دوبالان قرار می‌گیرند، در حالی که لیسه‌ها معمولاً از آن‌ها دوری می‌کنند. آزمایش‌های مایه‌زنی تجربی تحمل شوری به‌طور غیرعادی بالایی را در مقایسه با دیگر بولت‌های اکتومیکوریز رایج نشان داده‌اند. گزارش‌های تاریخی درباره واکنش‌های شبه‌دی‌سولفیرام با الکل از نظر شیمیایی تأیید نشده‌اند — تحلیل‌ها هیچ کوپرینی نیافتند و موارد گذشته را به اشتباه گرفتن با Imperator torosus نسبت دادند، هرچند وجود یک ترکیب ناشناخته هنوز رد نشده است."
+    },
+    "fi": {
+      "label": "tauriontatti",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Tukeva, punapillinen ektomykorritsainen tatti, joka kasvaa yksittäin tai hajaryhminä kalkkipitoisilla mailla lehti- ja sekametsissä, puistoissa sekä puistokujilla. Laajalle levinnyt Euroopassa Britanniasta ja Irlannista Välimerelle ja Itä-Eurooppaan; vahvistamattomat historialliset havainnot Aasiasta ja Pohjois-Amerikasta koskevat todennäköisesti lähilajeja.",
+      "cap": "5–20 cm leveä, paksu ja tyynynmäinen, aluksi puolipallomainen, myöhemmin kupera ja lopulta leveän laakea. Kuiva, hienon samettinen pinta silottuu iän myötä ja muuttuu kostealla säällä hieman tahmeaksi; väri vaihtelee keltaoliivista, okranruskeasta tai oliivinruskeasta himmeän oranssinruskeaan tai punaruskeaan, reuna on usein vaaleampi ja kosketuskohdat tummuvat tummansinisiksi tai ruskeanmustiksi.",
+      "hymenium": "Pillit ovat 1–2 cm pitkiä, reunoja kohti lyhyempiä ja jalan yläosan ympäriltä kuopalla, aluksi vaaleankeltaisia ja myöhemmin oliivinkeltaisia, sinertyen ilman vaikutuksesta sinivihreiksi. Pienet, pyöreähköt pillinsuut (2–3 kpl/mm) ovat nuorina keltaoransseja, muuttuvat pian oranssinpunaisiksi tai karmiininpunaisiksi, usein lakin reunan myötäisellä vaaleammalla vyöhykkeellä, ja värjäytyvät kosketettaessa nopeasti tummansinisiksi tai sinimustiksi. Basidit ovat nuijamaisia, neli-itiöisiä ja kooltaan 29,2–36,5 × 11,0–12,4 µm; sukkulamaiset pleurokystidit ja keilokystidit ovat keskeltä pulleita ja pitkäkaulaisia, kooltaan 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm korkea ja 1–5 cm paksu, tukeva, nuorena nuijamainen tai pullea ja iän myötä lieriömäinen, tyvestä usein hieman suippeneva tai juurehtiva. Pinta on yläosasta vaaleankeltainen tai okrankeltainen ja tyveä kohti tummemman punertava tai viininpunainen; sitä peittää karkea, pystysuunnassa pitkulainen, koholla oleva oranssinpunainen tai karmiininpunainen verkkokuvio, joka voi nuorilla itiöemillä rajoittua yläpuoliskoon ennen kuin se ulottuu alas jalkaa pitkin. Kosketettaessa jalka sinertyy tummansiniseksi. Rengasta ei ole, ja tyvirihmasto on kellertävää.",
+      "flesh": "Nuorena paksua ja kiinteää, lakissa ja jalan yläosassa vaalean- tai sitruunankeltaista sekä jalan tyvessä syvän viininpunaista tai raparperinpunaista; pillistön yläpuolella on usein ohut kastanjanpunainen tai oranssinpunainen kerros (Bataillen viiva), joskin tämä kerros voi joskus puuttua. Leikattaessa tai kolhittaessa malto muuttuu nopeasti ja voimakkaasti tummansiniseksi ennen kuin väri vähitellen haalistuu. Tuoksu on heikko ja epämääräinen tai miedosti hapan, maku on mieto. Melzerin reagenssissa jalan tyven malto reagoi voimakkaan amyloidisesti (tummansiniseksi luonnollisen sinertymisen haalistuttua), kun taas laimea kaliumhydroksidi värjää lakin pintakelmun tummanpunaiseksi tai mustahkoksi ja mallon oranssinkeltaiseksi.",
+      "sporePrint": "Oliivinvihreä tai oliivinruskea. Itiöt ovat sileitä, ellipsoidista sukkulamaisiin ja kooltaan 10,5–16 × 4,5–7 µm (tavallisesti 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediaani 2,2).",
+      "habitat": "Ektomykorritsainen pääasiassa lehtipuiden – erityisesti tammen, pyökin, lehmuksen, valkopyökin, koivun, pähkinäpensaan ja jalokastanjan – sekä satunnaisesti havupuiden tai Helianthemum-suvun varpujen kanssa; suosii voimakkaasti kalkkipitoista, emäksistä tai liitupitoista maaperää ja esiintyy harvoin happamalla alustalla. Itiöemiä kasvaa yksittäin tai hajaryhminä maassa lehti- ja sekametsissä, puistoissa, puistokujilla ja lampien penkereillä kesäkuusta marraskuuhun, runsaimmin kesäkuusta lokakuuhun kesäsateiden jälkeen.",
+      "uses": "Syötävä varauksin perusteellisen kypsennyksen jälkeen, ja sitä syödään laajalti osissa Keski- ja Etelä-Eurooppaa. Raakana tai riittämättömästi kypsennettynä syötynä se aiheuttaa 30 minuutin–kahden tunnin kuluessa ruoansulatuskanavan myrkytyksen, jonka oireita ovat pahoinvointi, oksentelu, vatsakrampit ja ripuli. Koska laji muistuttaa myrkyllisiä punapillisiä tatteja ja siihen on historiallisesti liitetty alkoholi-intoleranssia, suositellaan yleisesti huolellista tunnistamista ja alkoholin välttämistä aterian yhteydessä.",
+      "confusion": "Suillellus mendax kasvaa samojen isäntäpuiden alla mutta suosii hapanta maaperää; sen lakki on punertavampi ja selvästi samettinen, verkkokuvio on heikompi ja rajoittuu jalan yläpuoliskoon muuttuen alaosassa hienoiksi jyväsiksi, ja itiöt ovat kapeampia sekä pitkulaisempia (Q noin 2,7). Suillellus queletii omaa samoin viininpunaisen jalantyven ja voimakkaan sinertymisen, mutta sen jalasta puuttuu verkkokuvio kokonaan, pillistön yläpuolella oleva malto on keltaista ja pillinsuut ovat tavallisesti oransseja eivätkä syvänpunaisia. Neoboletus luridiformis on lakiltaan tummemman kastanjanruskea ja samettinen, suosii hapanta maata usein havupuiden seurassa, ja sen jalassa on koholla olevan verkkokuvion sijaan hienoja punaisia pisteitä. Rubroboletus satanas kasvaa niin ikään kalkkipitoisilla mailla mutta on myrkyllinen; sen lakki on paljon vaaleampi, liidunvalkoinen tai harmahtava ja epätasainen, jalka on pulleampi, karmiininpunainen ja hienoverkkoisempi, sinertyminen on heikompaa ja vanhemmiten haju on vastenmielisen mädäntynyt. Rubroboletus rhodoxanthus on vaaleampilakkinen ja punertavasävyinen, sen verkkokuvio on tiheämpi ja kirkkaankeltainen malto sinertyy vain lakissa pysyen jalassa keltaisena.",
+      "notes": "Vaurioitumisen aiheuttama nopea tummansininen värjäytyminen johtuu pulviinihappojohdannaisten, pääasiassa variegaatti- ja kserokoomihapon, entsymaattisesta hapettumisesta ilman vaikutuksesta. Vaikka pillistön yläpuolinen kastanjanpunainen kerros (Bataillen viiva) on klassinen maastotuntomerkki, fylogeneettiset tutkimukset osoittavat, että se voi puuttua eikä ole yksinään suvussa ratkaiseva tuntomerkki. Kaksisiipisten toukat käyttävät itiöemiä runsaasti ravintonaan, kun taas etanat yleensä välttävät niitä. Kokeelliset inokulaatiotutkimukset osoittavat poikkeuksellisen korkeaa suolansietokykyä verrattuna muihin yleisiin ektomykorritsaisiin tatteihin. Historiallisia raportteja disulfiraamin kaltaisista reaktioista alkoholin kanssa ei ole vahvistettu kemiallisesti – analyyseissä ei ole löydetty kopriinia, ja aiemmat tapaukset on liitetty Imperator torosus -lajiin sekoittamiseen, vaikka tunnistamatonta yhdistettä ei ole voitu sulkea pois."
+    },
+    "fr": {
+      "label": "bolet blafard",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Bolet ectomycorhizien robuste à pores rouges, fructifiant isolément ou en groupes épars sur sols calcaires dans les bois feuillus et mixtes, les parcs et les allées. Largement répandu à travers l'Europe, de la Grande-Bretagne et de l'Irlande jusqu'au bassin méditerranéen et à l'Europe orientale, avec des mentions historiques non vérifiées d'Asie et d'Amérique du Nord correspondant probablement à des espèces voisines.",
+      "cap": "Large de 5–20 cm, épais et pulviné, d'abord hémisphérique avant de s'étaler en forme convexe puis largement aplanie. La surface sèche et finement veloutée devient plus lisse avec l'âge et légèrement visqueuse par temps humide, passant du jaune-olive, brun-ocre ou brun-olive au brun-orangé terne ou brun-rougeâtre, souvent avec une marge plus pâle, et noircissant en bleu foncé ou brun-noir au froissement.",
+      "hymenium": "Les tubes mesurent 1–2 cm de long, plus courts près de la marge et déprimés autour du sommet du pied, d'abord jaune pâle puis jaune-olive, virant au bleu-vert à l'air. Les petits pores arrondis (2–3 par mm) sont jaune-orangé chez les jeunes sujets, évoluant rapidement vers l'orange-rouge ou le rouge carmin, souvent avec une zone plus pâle le long de la marge piléique, et bleuissant rapidement en bleu foncé à bleu-noir au toucher. Les basides sont claviformes, tétrasporiques et mesurent 29,2–36,5 × 11,0–12,4 µm ; les pleurocystides et cheilocystides fusiformes présentent un ventre renflé et un long col, mesurant 33–48 × 7,3–13,5 µm.",
+      "stipe": "Haut de 5–15 cm et épais de 1–5 cm, robuste, claviforme ou ventru dans la jeunesse puis cylindrique avec l'âge, souvent légèrement atténué ou radicant à la base. La surface est jaune pâle à jaune-ocre en haut et plus foncée, rougeâtre à rouge vineux vers la base, recouverte d'un réseau en relief grossier à mailles allongées verticalement, orange-rouge à rouge carmin, parfois limité à la moitié supérieure chez les jeunes spécimens avant de descendre le long du pied ; elle bleuit foncé à la manipulation. Il n'y a pas d'anneau et le mycélium basal est jaunâtre.",
+      "flesh": "Épaisse et ferme dans la jeunesse, jaune pâle à jaune citron dans le chapeau et le haut du pied, et rouge vineux profond à rouge rhubarbe dans la base inférieure du pied, souvent pourvue d'une fine couche subhyméniale bordeaux à orange-rouge (ligne de Bataille) directement au-dessus des tubes, bien que cette couche soit parfois absente. À la coupe ou au froissement, la chair vire rapidement et intensément au bleu foncé avant de pâlir progressivement. L'odeur est faible et indistincte ou légèrement acidulée, et la saveur est douce. Dans le réactif de Melzer, la chair de la base du pied présente une forte réaction amyloïde (bleu foncé une fois le bleuissement naturel atténué), tandis que la potasse diluée teinte la cuticule du chapeau en rouge foncé à noirâtre et la chair en jaune-orangé.",
+      "sporePrint": "Olive à brun-olive. Les spores sont lisses, ellipsoïdes à fusiformes, mesurant 10,5–16 × 4,5–7 µm (typiquement 11–15 × 4,5–6,5 µm ; Q = 1,8–2,8, médiane 2,2).",
+      "habitat": "Ectomycorhizien principalement sous feuillus — notamment chêne, hêtre, tilleul, charme, bouleau, noisetier et châtaignier — et occasionnellement sous conifères ou sous-arbrisseaux du genre Helianthemum, montrant une nette préférence pour les sols calcaires, alcalins ou crayeux et n'apparaissant que rarement sur terrain acide. Il fructifie isolément ou en groupes épars au sol dans les bois de feuillus et mixtes, les parcs, les allées et le long des digues d'étangs de juin à novembre, plus abondamment de juin à octobre après les pluies estivales.",
+      "uses": "Comestible sous conditions après une cuisson prolongée, et largement consommé dans certaines régions d'Europe centrale et méridionale. Sa consommation cru ou insuffisamment cuit provoque en 30 minutes à deux heures une intoxication gastro-intestinale avec nausées, vomissements, crampes abdominales et diarrhée. Comme il ressemble à des bolets toxiques à pores rouges et a été historiquement associé à des intolérances liées à l'alcool, une identification rigoureuse et l'évitement de l'alcool lors des repas sont généralement recommandés.",
+      "confusion": "Suillellus mendax pousse sous les mêmes hôtes mais préfère les sols acides, présente un chapeau plus rougeâtre et nettement velouté, un réseau moins marqué limité à la moitié supérieure du pied et passant à de fines granulations vers le bas, ainsi que des spores plus étroites et plus allongées (Q d'environ 2,7). Suillellus queletii partage la base du pied rouge vineux et le fort bleuissement, mais est dépourvu de tout réseau sur le pied, possède une chair jaune au-dessus des tubes et porte généralement des pores orangés plutôt que rouge profond. Neoboletus luridiformis a un chapeau velouté brun-châtain plus foncé, privilégie les sols acides souvent avec des conifères et porte de fines ponctuations rouges sur le pied plutôt qu'un réseau en relief. Rubroboletus satanas croît également sur sols calcaires mais est toxique, avec un chapeau bosselé beaucoup plus pâle, blanc crayeux à grisâtre, un pied bulbeux carmin plus trapu à réseau plus fin, un bleuissement plus faible et une odeur fétide de décomposition avec l'âge. Rubroboletus rhodoxanthus présente des teintes rosées sur un chapeau plus pâle, un réseau plus dense et une chair jaune vif qui ne bleuit que dans le chapeau tout en restant jaune dans le pied.",
+      "notes": "Le bleuissement foncé rapide à la blessure résulte de l'oxydation enzymatique de dérivés de l'acide pulvinique, principalement les acides variégatique et xérocomique, au contact de l'air. Bien que la couche subhyméniale bordeaux au-dessus des tubes (ligne de Bataille) soit un caractère de terrain classique, les études phylogénétiques montrent qu'elle peut faire défaut et ne suffit pas à elle seule au diagnostic au sein du genre. Les sporophores sont fortement colonisés par les larves de diptères, tandis que les limaces les évitent généralement. Des essais expérimentaux d'inoculation révèlent une tolérance à la salinité inhabituellement élevée par rapport à d'autres bolets ectomycorhiziens communs. Les signalements historiques de réactions de type disulfirame avec l'alcool n'ont pas été confirmés chimiquement — les analyses n'ont détecté aucune coprine et ont attribué les cas anciens à une confusion avec Imperator torosus, bien que la présence d'un composé non identifié n'ait pas été écartée."
+    },
+    "he": {
+      "label": "גושית עמומה",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "פטריית גושית חסונה ואקטומיקוריזית בעלת נקבוביות אדומות, הגדלה ביחידות או בקבוצות פזורות על קרקעות גיריות ביערות רחבי עלים ומעורבים, בפארקים ובשדרות. נפוצה ברחבי אירופה מבריטניה ואירלנד ועד אגן הים התיכון ומזרח אירופה, בעוד שדיווחים היסטוריים לא מאומתים מאסיה ומצפון אמריקה מייצגים ככל הנראה מינים קרובים.",
+      "cap": "רוחב הכובע 5–20 cm, עבה וכריתי, בתחילה חצי-כדורי ובהמשך נפתח לקמור ולבסוף שטוח באופן רחב. פני השטח היבשים והקטיפתיים בעדינות נעשים חלקים יותר עם הגיל ודביקים קלות במזג אוויר לח; הצבע נע מצהוב-זית, חום-אוכרה או חום-זית ועד חום-כתום עמום או חום-אדמדם, לעיתים קרובות עם שוליים בהירים יותר, ומתכהה לכחול כהה או שחור-חום במקום שנחבל.",
+      "hymenium": "הצינורות באורך 1–2 cm, קצרים יותר בקרבת השוליים ושקועים סביב ראש הרגל; בתחילה צהובים בהירים והופכים לצהוב-זית, ומכתימים לירוק-כחלחל בחשיפה לאוויר. הנקבוביות הקטנות והעגולות (2–3 לכל mm) צהובות-כתומות בצעירותן, מבשילות במהרה לכתום-אדום או אדום-ארגמן, לעיתים קרובות עם רצועה בהירה יותר לאורך שולי הכובע, ומכחילות במהירות לכחול כהה עד כחול-שחור במגע. הבסידיות דמויות אלה, בעלות ארבעה נבגים, וממדיהן 29.2–36.5 × 11.0–12.4 µm; פלאורוציסטידיות וכיילוציסטידיות כישוריות בעלות מרכז תפוח וצוואר ארוך, בממדים 33–48 × 7.3–13.5 µm.",
+      "stipe": "גובה הרגל 5–15 cm ועובייה 1–5 cm, חסונה, דמוית אלה או תפוחה בצעירותה ונעשית גלילית עם הגיל, לעיתים קרובות מצטמצמת קלות או משתרשת בבסיסה. פני השטח צהובים בהירים עד צהוב-אוכרה בחלק העליון וכהים יותר, אדמדמים עד אדום-יין, כלפי הבסיס, מכוסים ברשת בולטת גסה ומוארכת אנכית בצבע כתום-אדום עד אדום-ארגמן, העשויה להיות מוגבלת למחצית העליונה בפרטים צעירים לפני שהיא מתפשטת לאורך הרגל; מכתימה לכחול כהה במגע. אין טבעת, והתפטיר בבסיס הרגל צהבהב.",
+      "flesh": "הבשר עבה ומוצק בצעירותו, צהוב בהיר עד צהוב-לימון בכובע ובחלקה העליון של הרגל, ואדום-יין עמוק עד אדום-ריבס בבסיס הרגל התחתון, לעיתים קרובות עם שכבה תת-הימניאלית דקה בצבע חום-בורדו עד כתום-אדום (קו בטאיי) מיד מעל הצינורות, אם כי שכבה זו נעדרת לעיתים. בחיתוך או בחבלה הבשר הופך במהירות ובעוצמה לכחול כהה ולאחר מכן דוהה בהדרגה. הריח חלש ולא מובחן או חמצמץ קלות, והטעם עדין. בתמיסת מלצר בשר בסיס הרגל מגיב בעוצמה באופן עמילני (כחול כהה לאחר דעיכת ההכחלה הטבעית), ואילו תמיסה מהולה של אשלגן הידרוקסידי צובעת את קליפת הכובע באדום כהה עד שחרחר ואת הבשר בצהוב-כתום.",
+      "sporePrint": "זית עד חום-זית. הנבגים חלקים, אליפסואידיים עד כישוריים, בממדים 10.5–16 × 4.5–7 µm (לרוב 11–15 × 4.5–6.5 µm; Q = 1.8–2.8, חציון 2.2).",
+      "habitat": "אקטומיקוריזית בעיקר עם עצים רחבי עלים — במיוחד אלון, אשור, תרזה, אילנית החורש (אלה לבנה/קרפינוס), שדר, לוז וערמון מתוק — ולעיתים עם מחטניים או בני-שיח מהסוג Helianthemum, עם העדפה מובהקת לקרקעות גיריות, בסיסיות או קירטוניות, ונדירה בקרקע חומצית. גדלה ביחידות או בקבוצות פזורות על הקרקע ביערות נשירים ומעורבים, בפארקים, בשדרות ולאורך סוללות בריכות מיוני עד נובמבר, ובשפע הרב ביותר מיוני עד אוקטובר לאחר גשמי קיץ.",
+      "uses": "אכילה בזהירות לאחר בישול יסודי, ונאכלת באופן נרחב בחלקים ממרכז ודרום אירופה. אכילתה נאה או לא מבושלת דיה גורמת להרעלת מערכת העיכול תוך 30 דקות עד שעתיים, עם בחילה, הקאות, התכווצויות בטן ושלשול. מאחר שהיא דומה לגושיות רעילות בעלות נקבוביות אדומות ונקשרה היסטורית לאי-סבילות הקשורה לאלכוהול, מומלץ לרוב לזהותה בקפידה ולהימנע משתיית אלכוהול עם הארוחה.",
+      "confusion": "Suillellus mendax גדל תחת אותם פונדקאים אך מעדיף קרקעות חומציות, בעל כובע אדמדם יותר וקטיפתי במובהק, רשת בולטת פחות המוגבלת למחצית העליונה של הרגל והופכת לגרגירים עדינים למטה, ונבגים צרים ומוארכים יותר (Q כ-2.7). Suillellus queletii חולק את בסיס הרגל האדום-יין ואת ההכחלה החזקה, אך חסר רשת על הרגל, בשרו צהוב מתחת לצינורות, ונקבוביותיו לרוב כתומות ולא אדומות כהות. Neoboletus luridiformis בעל כובע קטיפתי חום-ערמוני כהה יותר, מעדיף קרקעות חומציות ולעיתים קרובות עם מחטניים, ונושא נקודות אדומות עדינות על הרגל במקום רשת בולטת. Rubroboletus satanas גדל אף הוא על קרקעות גיריות אך הוא רעיל, בעל כובע גבשושי בהיר בהרבה בגוון לבן-גיר עד אפרפר, רגל עבה ובצלית יותר בצבע ארגמן עם רשת עדינה יותר, הכחלה חלשה יותר וריח ריקבון רע בזקנתו. Rubroboletus rhodoxanthus בעל גוונים ורדרדים על כובע בהיר יותר, רשת צפופה יותר ובשר צהוב בהיר המכחיל בכובע בלבד ונשאר צהוב ברגל.",
+      "notes": "ההכחלה המהירה לכחול כהה בעת פציעה נגרמת מחמצון אנזימטי של נגזרות חומצה פולבינית, בעיקר חומצות ואריגאטית וקסרוקומית, בחשיפה לאוויר. אף שהשכבה התת-הימניאלית בצבע חום-בורדו מעל הצינורות (קו בטאיי) היא סימן שדה קלאסי, מחקרים פילוגנטיים מראים שהיא עלולה להיעדר ואינה אבחנתית כשלעצמה בתוך הסוג. גופי הפרי מותקפים בכבדות בידי זחלי זבובאים, בעוד שחשופיות נמנעות מהם בדרך כלל. ניסויי הדבקה מבוקרים הראו עמידות גבוהה באופן חריג למליחות בהשוואה למיני גושיות אקטומיקוריזיות נפוצים אחרים. דיווחים היסטוריים על תגובות דמויות דיסולפירם עם אלכוהול לא אוששו כימית — בדיקות לא מצאו קופרין וייחסו מקרים בעבר לזיהוי שגוי של Imperator torosus, אם כי לא נשלל קיומו של חומר לא מזוהה."
+    },
+    "hi": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "यह लाल छिद्रों वाला एक मजबूत, बहिःकवकमूली (एक्टोमाइकोराइज़ल) बोलेट मशरूम है, जो चौड़ी पत्ती वाले और मिश्रित वनों, उद्यानों तथा वृक्षों से सजे मार्गों की चूनायुक्त मिट्टी पर अकेले या बिखरे समूहों में उगता है। यह ब्रिटेन और आयरलैंड से लेकर भूमध्यसागरीय क्षेत्र तथा पूर्वी यूरोप तक पूरे यूरोप में व्यापक रूप से पाया जाता है, जबकि एशिया और उत्तरी अमेरिका से प्राप्त अपुष्ट ऐतिहासिक विवरण संभवतः इसके निकट संबंधी प्रजातियों के हैं।",
+      "cap": "टोपी 5–20 cm चौड़ी, मोटी और गद्देदार होती है, जो शुरू में अर्धगोलाकार होती है और बाद में फैलकर उत्तल तथा अंततः चौड़ी व चपटी हो जाती है। इसकी सूखी, बारीक मखमली सतह उम्र के साथ चिकनी और गीले मौसम में हल्की चिपचिपी हो जाती है; इसका रंग पीला-जैतूनी, गेरुआ-भूरा या जैतूनी-भूरा से लेकर हल्का नारंगी-भूरा या लाल-भूरा तक होता है, किनारे प्रायः हल्के रंग के होते हैं, और चोट लगने पर यह गहरे नीले या भूरे-काले रंग की हो जाती है।",
+      "hymenium": "नलिकाएं 1–2 cm लंबी होती हैं, किनारे के पास छोटी और डंठल के शीर्ष के चारों ओर धंसी हुई रहती हैं; शुरू में हल्की पीली और बाद में जैतूनी-पीली हो जाती हैं तथा हवा के संपर्क में आने पर नीले-हरे रंग की हो जाती हैं। छोटे, गोल छिद्र (प्रति mm 2–3) युवावस्था में पीले-नारंगी होते हैं और शीघ्र ही नारंगी-लाल या गहरे लाल (किरमिजी) हो जाते हैं, टोपी के किनारे के साथ प्रायः हल्का भाग होता है, और छूने पर तेजी से गहरे नीले से नीले-काले रंग के हो जाते हैं। बेसिडियम गदाकार, चार-बीजाणु वाले होते हैं और इनका माप 29.2–36.5 × 11.0–12.4 µm होता है; तर्कुरूपी प्ल्यूरोसिस्टिडिया और कीलोसिस्टिडिया का मध्य भाग फूला हुआ तथा गर्दन लंबी होती है, जिनका माप 33–48 × 7.3–13.5 µm होता है।",
+      "stipe": "डंठल 5–15 cm लंबा और 1–5 cm मोटा, मजबूत, युवावस्था में गदाकार या फूला हुआ होता है जो उम्र के साथ बेलनाकार हो जाता है, और आधार पर प्रायः थोड़ा पतला या जड़ जैसा होता है। इसकी सतह ऊपर की ओर हल्की पीली से गेरुआ-पीली और आधार की ओर गहरी लाल से मदिरा-लाल होती है, जिस पर नारंगी-लाल से किरमिजी-लाल रंग का मोटा, लंबवत फैला हुआ उभरा जाल बना होता है; युवा नमूनों में यह जाल ऊपरी आधे भाग तक सीमित रह सकता है और बाद में पूरे डंठल पर फैल जाता है; छूने पर यह गहरे नीले रंग का हो जाता है। इसमें कोई वलय नहीं होता और आधार का कवकजाल पीलापन लिए होता है।",
+      "flesh": "गूदा युवावस्था में मोटा और ठोस होता है, टोपी व ऊपरी डंठल में हल्का से नींबू-पीला तथा निचले डंठल के आधार में गहरा मदिरा-लाल से रूबर्ब-लाल होता है; नलिकाओं के ठीक ऊपर प्रायः मैरून से नारंगी-लाल रंग की पतली उप-हाइमीनियल परत (बटाय की रेखा) होती है, हालांकि यह परत कभी-कभी अनुपस्थित भी रहती है। काटने या चोट लगने पर गूदा तेजी से और गहराई से गहरे नीले रंग का हो जाता है और फिर धीरे-धीरे फीका पड़ जाता है। गंध हल्की और अस्पष्ट या हल्की खट्टी होती है, तथा स्वाद सौम्य होता है। मेल्ज़र के अभिकर्मक में डंठल के आधार का गूदा प्रबल एमाइलॉइड प्रतिक्रिया (प्राकृतिक नीलापन फीका पड़ने पर गहरा नीला) देता है, जबकि तनु पोटैशियम हाइड्रॉक्साइड टोपी की बाहरी त्वचा को गहरे लाल से काले और गूदे को नारंगी-पीले रंग में रंग देता है।",
+      "sporePrint": "जैतूनी से जैतूनी-भूरा। बीजाणु चिकने, दीर्घवृत्ताकार से तर्कुरूपी होते हैं, जिनका माप 10.5–16 × 4.5–7 µm (सामान्यतः 11–15 × 4.5–6.5 µm; Q = 1.8–2.8, माध्यिका 2.2) होता है।",
+      "habitat": "यह मुख्यतः चौड़ी पत्ती वाले वृक्षों — विशेषकर ओक, बीच, लाइम, हॉर्नबीम, बर्च, हेज़ल और मीठे चेस्टनट — तथा कभी-कभी शंकुधारी वृक्षों या Helianthemum उपझाड़ियों के साथ बहिःकवकमूली सहजीवन बनाता है; यह चूनायुक्त, क्षारीय या खड़िया वाली मिट्टी को प्रबल रूप से पसंद करता है और अम्लीय भूमि पर विरले ही मिलता है। यह जून से नवंबर तक, विशेषकर ग्रीष्मकालीन वर्षा के बाद जून से अक्टूबर में सबसे अधिक मात्रा में, पर्णपाती और मिश्रित वनों, उद्यानों, वृक्ष-मार्गों तथा तालाबों के किनारों की जमीन पर अकेले या बिखरे समूहों में उगता है।",
+      "uses": "अच्छी तरह पकाने के बाद सावधानी के साथ खाद्य है और मध्य तथा दक्षिणी यूरोप के कुछ भागों में व्यापक रूप से खाया जाता है। इसे कच्चा या अधपका खाने से 30 मिनट से दो घंटे के भीतर जठरांत्र विषाक्तता हो जाती है, जिसमें मतली, उल्टी, पेट में मरोड़ और दस्त शामिल हैं। चूंकि यह लाल छिद्रों वाले विषाक्त बोलेट मशरूमों से मिलता-जुलता है और ऐतिहासिक रूप से अल्कोहल-संबंधी असहिष्णुता से जुड़ा रहा है, इसलिए सावधानीपूर्वक पहचान करने और भोजन के साथ शराब से बचने की सलाह दी जाती है।",
+      "confusion": "Suillellus mendax उन्हीं पोषक वृक्षों के नीचे उगता है लेकिन अम्लीय मिट्टी पसंद करता है, इसकी टोपी अधिक लालिमायुक्त व स्पष्ट रूप से मखमली होती है, डंठल के ऊपरी आधे भाग तक सीमित कम उभरा जाल नीचे बारीक कणों में बदल जाता है, और बीजाणु अधिक संकरे व लंबे होते हैं (Q लगभग 2.7)। Suillellus queletii में भी मदिरा-लाल डंठल आधार और तीव्र नीलापन होता है, लेकिन डंठल पर कोई जाल नहीं होता, नलिकाओं के नीचे गूदा पीला होता है, और इसके छिद्र गहरे लाल के बजाय सामान्यतः नारंगी होते हैं। Neoboletus luridiformis की मखमली टोपी गहरे चेस्टनट-भूरे रंग की होती है, यह अम्लीय मिट्टी और प्रायः शंकुधारी वृक्षों के साथ उगना पसंद करता है, तथा इसके डंठल पर उभरे जाल के बजाय बारीक लाल धब्बे होते हैं। Rubroboletus satanas भी चूनायुक्त मिट्टी पर उगता है लेकिन विषाक्त है; इसकी टोपी बहुत हल्की खड़िया-सफेद से धूसर व उबड़-खाबड़ होती है, डंठल अधिक मोटा, कंदिल और किरमिजी होता है जिस पर बारीक जाल रहता है, नीलापन हल्का होता है और पुराने होने पर सड़ी हुई दुर्गंध आती है। Rubroboletus rhodoxanthus की हल्की टोपी पर गुलाबी आभा होती है, जाल अधिक सघन होता है और चमकीला पीला गूदा केवल टोपी में नीला पड़ता है जबकि डंठल में पीला ही बना रहता है।",
+      "notes": "चोट लगने पर तेजी से गहरे नीले रंग का होना हवा के संपर्क में आने पर पुल्विनिक अम्ल व्युत्पन्नों — मुख्यतः वैरीगेटिक और ज़ेरोकोमिक अम्लों — के एंजाइमी ऑक्सीकरण के कारण होता है। यद्यपि नलिकाओं के ऊपर मैरून उप-हाइमीनियल परत (बटाय की रेखा) एक पारंपरिक क्षेत्रीय पहचान चिह्न है, जातिवृत्तीय अध्ययनों से पता चलता है कि यह अनुपस्थित भी हो सकती है और इस वंश के भीतर अकेले निर्णायक नहीं है। फलनकाय द्वि-पंखीय कीटों (डिप्टेरा) के लार्वा से भारी रूप से संक्रमित होते हैं, जबकि स्लग आमतौर पर इनसे बचते हैं। प्रयोगात्मक संरोपण अध्ययनों से अन्य सामान्य बहिःकवकमूली बोलेट की तुलना में असामान्य रूप से उच्च लवणता सहनशीलता का पता चलता है। अल्कोहल के साथ डाइसल्फिरम जैसी प्रतिक्रियाओं की ऐतिहासिक रिपोर्टों की रासायनिक पुष्टि नहीं हुई है — विश्लेषणों में कोप्रिन नहीं मिला और पिछले मामलों को Imperator torosus की गलत पहचान से जोड़ा गया, हालांकि किसी अज्ञात यौगिक की संभावना से इनकार नहीं किया गया है।"
+    },
+    "hr": {
+      "label": "mrežastonogi vrganj",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "Snažan ektomikorizni vrganj crvenih pora koji raste pojedinačno ili u raspršenim skupinama na vapnenačkim tlima u bjelogoričnim i mješovitim šumama, parkovima i drvoredima. Široko je rasprostranjen diljem Europe, od Britanije i Irske do Sredozemlja i istočne Europe, dok nepotvrđeni povijesni nalazi iz Azije i Sjeverne Amerike vjerojatno predstavljaju srodne vrste.",
+      "cap": "Širok 5–20 cm, debeo i jastučast, isprva polukuglast, zatim ispupčen i naposljetku široko raširen. Suha, fino baršunasta površina sa starošću postaje glađa, a za vlažnog vremena blago ljepljiva; boja se kreće od žutomaslinaste, okersmeđe ili maslinastosmeđe do zagasito narančastosmeđe ili crvenkastosmeđe, često sa svjetlijim rubom, a na pritisak potamni u tamnoplavu ili smeđecrnu.",
+      "hymenium": "Cjevčice su duge 1–2 cm, kraće uz rub i udubljene oko vrha stručka, isprva blijedožute, zatim maslinastožute, a na zraku poprimaju plavozelenu boju. Sitne, okrugle pore (2–3 na mm) u mladosti su žutonarančaste, ubrzo sazrijevaju u narančastocrvene ili karmincrvene, često sa svjetlijim pojasom uz rub klobuka, te na dodir brzo potamne u tamnoplavu do plavocrnu. Bazidiji su batinasti, s četiri spore, veličine 29,2–36,5 × 11,0–12,4 µm; vretenasti pleurocistidiji i heilocistidiji imaju proširenu sredinu i duge vratove, veličine 33–48 × 7,3–13,5 µm.",
+      "stipe": "Visok 5–15 cm i debeo 1–5 cm, snažan, u mladosti batinast ili trbušast, sa starošću valjkast, pri dnu često blago sužen ili korjenast. Površina je gore blijedožuta do okeržuta, a prema dnu tamnije crvenkasta do vinocrvena, prekrivena grubom, okomito izduženom, reljefnom narančastocrvenom do karmincrvenom mrežicom koja u mladih primjeraka može biti ograničena na gornju polovicu prije nego se proširi niz stručak; pri rukovanju potamni u tamnoplavu. Prstena nema, a bazalni micelij je žućkast.",
+      "flesh": "U mladosti debelo i čvrsto, blijedožuto do limunžuto u klobuku i gornjem dijelu stručka, te duboko vinocrveno do rabarbarinocrveno u donjem dnu stručka, često s tankim kestenjastocrvenim do narančastocrvenim subhimenijalnim slojem (Batailleova linija) neposredno iznad cjevčica, iako taj sloj katkad nedostaje. Na prerezu ili oštećenju meso brzo i snažno potamni u tamnoplavu prije nego postupno izblijedi. Miris je slab i neodređen ili blago kiselkast, a okus blag. U Melzerovu reagensu meso na dnu stručka reagira snažno amiloidno (tamnoplavo nakon što prirodno plavljenje izblijedi), dok razrijeđeni kalijev hidroksid kožicu klobuka boji tamnocrveno do crnkasto, a meso narančastožuto.",
+      "sporePrint": "Maslinast do maslinastosmeđ. Spore su glatke, elipsoidne do vretenaste, veličine 10,5–16 × 4,5–7 µm (obično 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, medijan 2,2).",
+      "habitat": "Ektomikorizna prvenstveno s bjelogoričnim drvećem — osobito hrastom, bukvom, lipom, grabom, brezom, lijeskom i pitomim kestenom — te povremeno s crnogoricom ili polugrmovima roda Helianthemum, pokazujući snažnu sklonost vapnenačkim, lužnatim ili kredastim tlima, a rijetko raste na kiseloj podlozi. Plodnosi pojedinačno ili u raspršenim skupinama na tlu u bjelogoričnim i mješovitim šumama, parkovima, drvoredima i duž nasipa ribnjaka od lipnja do studenoga, najobilnije od lipnja do listopada nakon ljetnih kiša.",
+      "uses": "Uvjetno jestiva nakon temeljite termičke obrade te široko konzumirana u dijelovima srednje i južne Europe. Konzumacija sirove ili nedovoljno kuhane gljive uzrokuje probavno trovanje unutar 30 minuta do dva sata, uz mučninu, povraćanje, grčeve u trbuhu i proljev. Budući da nalikuje otrovnim vrganjima crvenih pora te se povijesno povezivala s netolerancijom na alkohol, uobičajeno se savjetuju pažljivo određivanje i izbjegavanje alkohola uz obroke.",
+      "confusion": "Suillellus mendax javlja se pod istim domaćinima, ali preferira kisela tla, ima crvenkastiji i izrazito baršunast klobuk, slabije izraženu mrežicu ograničenu na gornju polovicu stručka koja prema dolje prelazi u sitna zrnca te uže, izduženije spore (Q oko 2,7). Suillellus queletii dijeli vinocrveno dno stručka i snažno plavljenje, ali nema nikakvu mrežicu na stručku, ima žuto meso ispod cjevčica i obično narančaste, a ne tamnocrvene pore. Neoboletus luridiformis ima tamniji kestenjastosmeđi baršunasti klobuk, preferira kisela tla često uz crnogoricu te nosi sitne crvene točkice na stručku umjesto reljefne mrežice. Rubroboletus satanas također raste na vapnenačkim tlima, ali je otrovna, sa znatno bljeđim kredastobijelim do sivkastim neravnim klobukom, snažnijim gomoljastim karmincrvenim stručkom s finijom mrežicom, slabijim plavljenjem i neugodnim mirisom truleži u starosti. Rubroboletus rhodoxanthus ima ružičaste tonove na bljeđem klobuku, gušću mrežicu i jarkožuto meso koje poplavi samo u klobuku, dok u stručku ostaje žuto.",
+      "notes": "Brzo tamnoplavo bojenje pri ozljedi uzrokovano je enzimskom oksidacijom derivata pulvinske kiseline, ponajprije variegatne i kserokomne kiseline, pri izlaganju zraku. Iako je kestenjastocrveni subhimenijalni sloj iznad cjevčica (Batailleova linija) klasičan terenski znak, filogenetska istraživanja pokazuju da može nedostajati i sam po sebi nije dijagnostički unutar roda. Plodna tijela snažno napadaju ličinke dvokrilaca, dok ih puževi golaći uglavnom izbjegavaju. Pokusna istraživanja inokulacije pokazuju neuobičajeno visoku otpornost na salinitet u usporedbi s drugim čestim ektomikoriznim vrganjima. Povijesna izvješća o reakcijama nalik disulfiramu s alkoholom nisu kemijski potvrđena — analize nisu pronašle koprin te su prijašnje slučajeve pripisale zamjeni s vrstom Imperator torosus, iako prisutnost neidentificiranog spoja nije isključena."
+    },
+    "hu": {
+      "label": "változékony tinóru",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Zömök, vörös pórusú ektomikorrhizás tinóru, amely egyesével vagy szórt csoportokban terem meszes talajon lombos és vegyes erdőkben, parkokban és fasorokban. Európa-szerte széles körben elterjedt Nagy-Britanniától és Írországtól a Mediterráneumig és Kelet-Európáig; az ázsiai és észak-amerikai nem ellenőrzött történeti adatok valószínűleg közeli rokon fajokra vonatkoznak.",
+      "cap": "5–20 cm széles, húsos és párnás, kezdetben félgömb alakú, később domborúvá, végül szélesen kiterülővé válik. Száraz, finoman bársonyos felszíne idővel simább lesz, nedves időben enyhén tapadós; színe a sárgás-olív, okkerbarna vagy olívbarna árnyalatoktól a fakó narancsbarnáig vagy vörösesbarnáig terjed, gyakran halványabb széllel, nyomásra sötétkékre vagy barnásfeketére sötétedik.",
+      "hymenium": "A csövek 1–2 cm hosszúak, a kalap szélénél rövidebbek, a tönk csúcsa körül bemélyedők, kezdetben halványsárgák, később olívsárgák, levegővel érintkezve kékeszöldre színeződnek. A kis, kerekded pórusok (2–3 db/mm) fiatalon sárgásnarancsok, hamarosan narancsvörösre vagy kárminvörösre érnek, a kalap széle mentén gyakran halványabb zónával, és érintésre gyorsan sötétkékre vagy kékesfeketére színeződnek. A bazídiumok bunkó alakúak, négyspórásak, 29,2–36,5 × 11,0–12,4 µm méretűek; az orsó alakú pleurocisztídiumok és keilocisztídiumok közepe duzzadt, nyakuk hosszú, méretük 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm magas és 1–5 cm vastag, zömök, fiatalon bunkó alakú vagy hasas, idővel hengeres, alján gyakran enyhén elkeskenyedő vagy gyökerező. Felszíne felül halványsárga vagy okkersárga, a töve felé sötétebb vöröses vagy borvörös, amelyet durva, függőlegesen megnyúlt, narancsvörös–kárminvörös, kiemelkedő hálózat borít; ez fiatal termőtesteken a tönk felső felére korlátozódhat, majd később lefelé is kiterjed, érintésre pedig sötétkékre színeződik. Gallérja nincs, a tövi micélium sárgás.",
+      "flesh": "Fiatalon vastag és kemény, a kalapban és a tönk felső részében halványsárga–citromsárga, a tönk alsó tövében mély borvörös–rebarbaravörös; a csövek felett közvetlenül gyakran vékony, gesztenyevörös vagy narancsvörös csőalapréteg (Bataille-vonal) látható, bár ez időnként hiányozhat. Vágásra vagy sérülésre a hús gyorsan és intenzíven sötétkékre színeződik, majd fokozatosan kifakul. Szaga gyenge és jellegtelen vagy enyhén savanykás, íze enyhe. Melzer-reagenssel a tönk tövének húsa erősen amiloid reakciót ad (a természetes kékülés halványodása után sötétkékre színeződik), míg a híg kálium-hidroxid a kalapbőrt sötétvörösre vagy feketésre, a húst pedig narancssárgára festi.",
+      "sporePrint": "Olívzöld vagy olívbarna. A spórák simák, ellipszoid vagy orsó alakúak, 10,5–16 × 4,5–7 µm méretűek (jellemzően 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, medián 2,2).",
+      "habitat": "Elsősorban lombos fákkal — különösen tölggyel, bükkel, hárssal, gyertyánnal, nyírrel, mogyoróval és szelídgesztenyével —, ritkábban tűlevelűekkel vagy Helianthemum félcserjékkel él ektomikorrhizás kapcsolatban; határozottan kedveli a meszes, lúgos vagy krétás talajokat, savanyú talajon ritkán fordul elő. Egyesével vagy szórt csoportokban terem talajon lombos és vegyes erdőkben, parkokban, fasorokban és tavak töltésein júniustól novemberig, legbőségesebben júniustól októberig, nyári esők után.",
+      "uses": "Alapos hőkezelés után feltételesen ehető, Közép- és Dél-Európa egyes részein széles körben fogyasztják. Nyersen vagy nem kellően megfőzve 30 perctől két órán belül gyomor-bélrendszeri mérgezést okoz hányingerrel, hányással, hasi görcsökkel és hasmenéssel. Mivel hasonlít mérgező, vörös pórusú tinórukra, és korábban alkohollal összefüggő intoleranciával is összefüggésbe hozták, a gondos határozás és az alkoholfogyasztás kerülése az étkezés mellé általánosan javasolt.",
+      "confusion": "A Suillellus mendax ugyanazok alatt a gazdanövények alatt nő, de a savanyú talajokat kedveli, kalapja vörösesebb és kifejezettebben bársonyos, a tönk felső felére korlátozódó kevésbé hangsúlyos hálózata lefelé finom szemcsékbe megy át, spórái pedig keskenyebbek és megnyúltabbak (Q körülbelül 2,7). A Suillellus queletii szintén borvörös tönktővel és erős kéküléssel rendelkezik, de a tönkjén egyáltalán nincs hálózat, a csövek feletti húsa sárga, pórusai pedig jellemzően inkább narancssárgák, mint mélyvörösek. A Neoboletus luridiformis kalapja sötétebb gesztenyebarna és bársonyos, a savanyú talajokat kedveli, gyakran tűlevelűek társaságában, tönkjét pedig kiemelkedő hálózat helyett finom vörös pontozás borítja. A Rubroboletus satanas szintén meszes talajon terem, de mérgező; kalapja sokkal halványabb, krétafehértől szürkésig terjedő és egyenetlen, zömökebb, hagymásan duzzadt kárminvörös tönkjén finomabb a hálózat, gyengébben kékül, idősen pedig kellemetlen, rothadó szagú. A Rubroboletus rhodoxanthus halványabb kalapján rózsaszínes árnyalatok láthatók, hálózata sűrűbb, élénksárga húsa pedig csak a kalapban kékül, míg a tönkben sárga marad.",
+      "notes": "A sérülésre bekövetkező gyors, sötétkék elszíneződést a pulvinsav-származékok — főként a variegátsav és a xerokómsav — levegővel érintkezve lezajló enzimes oxidációja okozza. Bár a csövek feletti gesztenyevörös csőalapréteg (Bataille-vonal) klasszikus terepi bélyeg, a filogenetikai vizsgálatok szerint hiányozhat is, és önmagában nem diagnosztikus a nemzetségen belül. A termőtesteket erősen megtelepedik a kétszárnyúak lárvái, míg a meztelencsigák általában elkerülik őket. Kísérletes inokulációs vizsgálatok a többi gyakori ektomikorrhizás tinóruhoz képest szokatlanul magas sótűrést mutattak ki. Az alkohollal kapcsolatos diszulfirám-szerű reakciókról szóló régi beszámolókat kémiailag nem sikerült megerősíteni: a vizsgálatok nem mutattak ki koprint, és a korábbi eseteket az Imperator torosus fajjal való összetévesztésnek tulajdonították, bár egy még azonosítatlan vegyület jelenlétét nem zárták ki."
+    },
+    "id": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "Jamur bolete ektomikoriza bertubuh kekar dengan pori merah yang tumbuh tunggal atau berkelompok terpencar di tanah berkapur pada hutan berdaun lebar dan hutan campuran, taman, serta jalan berpohon. Tersebar luas di seluruh Eropa mulai dari Britania dan Irlandia hingga kawasan Mediterania dan Eropa timur, sedangkan catatan historis yang belum terverifikasi dari Asia dan Amerika Utara kemungkinan mewakili spesies kerabatnya.",
+      "cap": "Tudung selebar 5–20 cm, tebal dan berbentuk seperti bantal, mula-mula setengah bulat sebelum melebar menjadi cembung dan akhirnya mendatar lebar. Permukaannya yang kering dan berbulu halus seperti beludru menjadi lebih licin seiring bertambahnya usia dan agak lengket saat cuaca basah, berwarna mulai dari kuning zaitun, cokelat oker, atau cokelat zaitun hingga cokelat jingga kusam atau cokelat kemerahan, sering kali dengan tepi lebih pucat dan berubah gelap menjadi biru tua atau hitam kecokelatan bila memar.",
+      "hymenium": "Tabung sepanjang 1–2 cm, lebih pendek di dekat tepi dan melekuk di sekitar puncak tangkai, mula-mula kuning pucat lalu menjadi kuning zaitun, dan berubah warna menjadi hijau kebiruan saat terpapar udara. Pori-porinya kecil dan membulat (2–3 per mm), berwarna kuning jingga saat muda dan segera matang menjadi merah jingga atau merah tua (merah padam), sering kali dengan zona lebih pucat di sepanjang tepi tudung, serta cepat memar menjadi biru tua hingga biru kehitaman bila disentuh. Basidium berbentuk gada, berspora empat, dan berukuran 29,2–36,5 × 11,0–12,4 µm; pleurosistidia dan keilosistidia berbentuk gelendong dengan bagian tengah menggembung dan leher panjang, berukuran 33–48 × 7,3–13,5 µm.",
+      "stipe": "Tangkai setinggi 5–15 cm dan setebal 1–5 cm, kekar, berbentuk gada atau menggembung saat muda lalu menjadi silindris seiring bertambahnya usia, sering kali sedikit meruncing atau mengakar di bagian pangkal. Permukaannya berwarna kuning pucat hingga kuning oker di bagian atas dan lebih gelap kemerahan hingga merah anggur ke arah pangkal, dilapisi jaring timbul kasar yang memanjang vertikal berwarna merah jingga hingga merah padam yang pada spesimen muda mungkin terbatas di separuh atas sebelum meluas ke bawah tangkai; memar menjadi biru tua saat dipegang. Tidak memiliki cincin, dan miselium pangkalnya kekuningan.",
+      "flesh": "Daging tebal dan padat saat muda, kuning pucat hingga kuning lemon pada tudung dan tangkai atas, serta merah anggur tua hingga merah kelembak pada pangkal tangkai bawah, sering kali memiliki lapisan subhimenial tipis berwarna merah marun hingga merah jingga (garis Bataille) tepat di atas tabung, meskipun lapisan ini terkadang tidak ada. Saat dipotong atau memar, daging berubah cepat dan pekat menjadi biru tua sebelum perlahan memudar. Baunya samar dan tidak khas atau sedikit asam, dengan rasa yang ringan. Dalam reagen Melzer, daging pangkal tangkai bereaksi amiloid kuat (biru tua setelah warna biru alaminya memudar), sedangkan kalium hidroksida encer mewarnai kutikula tudung menjadi merah tua hingga kehitaman dan daging menjadi kuning jingga.",
+      "sporePrint": "Zaitun hingga cokelat zaitun. Spora licin, berbentuk elipsoid hingga gelendong, berukuran 10,5–16 × 4,5–7 µm (umumnya 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, median 2,2).",
+      "habitat": "Ektomikoriza terutama dengan pohon berdaun lebar—khususnya ek, beech, linden, hornbeam, birch, hazel, dan kastanya manis—serta sesekali dengan konifera atau perdu kecil Helianthemum, dengan preferensi kuat terhadap tanah berkapur, alkalin, atau kapur dan jarang muncul di tanah asam. Tumbuh tunggal atau berkelompok terpencar di permukaan tanah di hutan gugur dan hutan campuran, taman, jalan berpohon, serta sepanjang tanggul kolam dari Juni hingga November, paling melimpah dari Juni hingga Oktober setelah hujan musim panas.",
+      "uses": "Dapat dimakan dengan hati-hati setelah dimasak hingga benar-benar matang, dan banyak dikonsumsi di beberapa bagian Eropa tengah dan selatan. Memakannya dalam keadaan mentah atau kurang matang menyebabkan keracunan saluran cerna dalam 30 menit hingga dua jam, dengan gejala mual, muntah, kram perut, dan diare. Karena menyerupai jamur bolete berpori merah yang beracun dan secara historis dikaitkan dengan intoleransi terhadap alkohol, identifikasi yang cermat dan menghindari alkohol saat menyantapnya lazim dianjurkan.",
+      "confusion": "Suillellus mendax tumbuh di bawah inang yang sama tetapi menyukai tanah asam, memiliki tudung lebih kemerahan dan jelas berbeludru, jaring yang kurang menonjol dan terbatas pada separuh atas tangkai lalu berubah menjadi bintik-bintik halus di bawahnya, serta spora yang lebih sempit dan memanjang (Q sekitar 2,7). Suillellus queletii sama-sama memiliki pangkal tangkai merah anggur dan perubahan warna biru yang kuat, tetapi tidak memiliki jaring pada tangkai, berdaging kuning di bawah tabung, dan biasanya berpori jingga alih-alih merah tua. Neoboletus luridiformis memiliki tudung berbeludru cokelat kastanya lebih gelap, menyukai tanah asam yang sering kali bersama konifera, serta berbintik-bintik merah halus pada tangkai alih-alih jaring timbul. Rubroboletus satanas juga tumbuh di tanah berkapur tetapi beracun, dengan tudung berbenjol jauh lebih pucat berwarna putih kapur hingga keabu-abuan, tangkai lebih gemuk membulat berwarna merah padam dengan jaring lebih halus, perubahan warna biru lebih lemah, dan bau busuk menyengat saat tua. Rubroboletus rhodoxanthus memiliki semburat merah muda pada tudung yang lebih pucat, jaring lebih rapat, dan daging kuning cerah yang membiru hanya pada tudung sementara tetap kuning pada tangkai.",
+      "notes": "Perubahan warna cepat menjadi biru tua saat terluka disebabkan oleh oksidasi enzimatik turunan asam pulvinat, terutama asam variegatat dan asam xerokomat, ketika terpapar udara. Meskipun lapisan subhimenial merah marun di atas tabung (garis Bataille) merupakan ciri lapangan klasik, kajian filogenetik menunjukkan bahwa lapisan tersebut bisa saja tidak ada dan tidak cukup menjadi ciri diagnostik tunggal dalam marga ini. Tubuh buahnya sering kali banyak diserang larva serangga diptera, sedangkan siput telanjang umumnya menghindarinya. Studi inokulasi eksperimental menunjukkan toleransi salinitas yang luar biasa tinggi dibandingkan jamur bolete ektomikoriza umum lainnya. Laporan historis mengenai reaksi mirip disulfiram bersama alkohol belum terkonfirmasi secara kimia—analisis tidak menemukan koprin dan mengaitkan kasus-kasus terdahulu dengan kesalahan identifikasi terhadap Imperator torosus, meskipun keberadaan senyawa yang belum teridentifikasi belum sepenuhnya dikesampingkan."
+    },
+    "it": {
+      "label": "boleto lurido",
+      "names": [
+        "porcino lurido"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Robusto boleto ectomicorrizico a pori rossi che fruttifica isolato o in gruppi sparsi su suoli calcarei in boschi di latifoglie e misti, parchi e viali alberati. Ampiamente diffuso in tutta Europa dalla Gran Bretagna e dall'Irlanda fino al Mediterraneo e all'Europa orientale, con segnalazioni storiche non verificate dall'Asia e dal Nord America probabilmente riferibili a specie affini.",
+      "cap": "Largo 5–20 cm, spesso e pulvinato, dapprima emisferico per poi distendersi a convesso e infine ampiamente appianato. La superficie asciutta e finemente vellutata diventa più liscia con l'età e leggermente viscida con tempo umido, variando dal giallo-oliva, bruno-ocra o bruno-oliva al bruno-arancio opaco o bruno-rossastro, spesso con margini più pallidi, e scurendosi al blu scuro o bruno-nerastro dove contusa.",
+      "hymenium": "I tubuli sono lunghi 1–2 cm, più corti verso il margine e depressi attorno all'apice del gambo, inizialmente giallo pallido e poi giallo-oliva, viranti al blu-verde a contatto con l'aria. I pori piccoli e tondeggianti (2–3 per mm) sono giallo-arancio da giovani, maturando presto al rosso-arancio o rosso cremisi, spesso con una zona più chiara lungo il margine del cappello, e virando rapidamente al blu scuro fino al blu-nero al tocco. I basidi sono clavati, tetrasporici e misurano 29,2–36,5 × 11,0–12,4 µm; i pleurocistidi e cheilocistidi fusiformi hanno porzione mediana rigonfia e colli lunghi, misurando 33–48 × 7,3–13,5 µm.",
+      "stipe": "Alto 5–15 cm e spesso 1–5 cm, robusto, clavato o panciuto da giovane e cilindrico con l'età, spesso leggermente attenuato o radicante alla base. La superficie è giallo pallido fino a giallo-ocra in alto e più scura, rossastra fino a rosso vinosa verso la base, rivestita da un reticolo in rilievo grossolano a maglie allungate verticalmente, rosso-arancio fino a rosso cremisi, che può essere limitato alla metà superiore negli esemplari giovani prima di estendersi lungo il gambo; vira al blu scuro alla manipolazione. È privo di anello e il micelio basale è giallastro.",
+      "flesh": "Spessa e soda da giovane, giallo pallido fino a giallo limone nel cappello e nella parte superiore del gambo, e rosso vinoso profondo fino a rosso rabarbaro nella base inferiore del gambo, spesso con un sottile strato subimeniale bruno-rossastro fino a rosso-arancio (linea di Bataille) subito sopra i tubuli, sebbene tale strato sia talvolta assente. Al taglio o alla contusione la carne vira rapidamente e intensamente al blu scuro prima di scolorire gradualmente. L'odore è debole e indistinto o lievemente acidulo e il sapore è mite. Con il reagente di Melzer la carne della base del gambo mostra una forte reazione amiloide (blu scuro una volta attenuato il viraggio naturale), mentre l'idrossido di potassio diluito colora la cuticola del cappello di rosso scuro fino a nerastro e la carne di giallo-arancio.",
+      "sporePrint": "Oliva fino a bruno-oliva. Le spore sono lisce, ellissoidi fino a fusiformi, di 10,5–16 × 4,5–7 µm (tipicamente 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediana 2,2).",
+      "habitat": "Ectomicorrizico soprattutto con latifoglie — in particolare quercia, faggio, tiglio, carpino, betulla, nocciolo e castagno — e occasionalmente con conifere o suffrutici del genere Helianthemum, con una spiccata preferenza per suoli calcarei, alcalini o cretosi e solo raramente su terreni acidi. Fruttifica isolato o in gruppi sparsi sul terreno in boschi di latifoglie e misti, parchi, viali alberati e lungo gli argini di stagni da giugno a novembre, con maggiore abbondanza da giugno a ottobre dopo le piogge estive.",
+      "uses": "Commestibile con riserva dopo cottura prolungata e ampiamente consumato in parti dell'Europa centrale e meridionale. Il consumo da crudo o poco cotto provoca entro 30 minuti fino a due ore un'intossicazione gastrointestinale con nausea, vomito, crampi addominali e diarrea. Poiché somiglia a boleti velenosi a pori rossi ed è stato storicamente associato a intolleranze legate all'alcol, sono comunemente raccomandati un'identificazione accurata e l'astensione dall'alcol durante i pasti.",
+      "confusion": "Suillellus mendax cresce sotto gli stessi ospiti ma predilige suoli acidi, ha un cappello più rossastro e marcatamente vellutato, un reticolo meno pronunciato limitato alla metà superiore del gambo che passa a fini granulazioni in basso e spore più strette e allungate (Q circa 2,7). Suillellus queletii condivide la base del gambo rosso vinosa e il forte viraggio al blu, ma è privo di reticolo sul gambo, presenta carne gialla sopra i tubuli e porta in genere pori aranciati anziché rosso intenso. Neoboletus luridiformis ha un cappello vellutato bruno-castano più scuro, predilige suoli acidi spesso con conifere e presenta fini punteggiature rosse sul gambo anziché un reticolo in rilievo. Rubroboletus satanas cresce anch'esso su suoli calcarei ma è velenoso, con un cappello gibboso molto più chiaro, bianco gesso fino a grigiastro, un gambo bulboso cremisi più tozzo con reticolatura più fine, viraggio al blu più debole e un odore fetido di decomposizione in vecchiaia. Rubroboletus rhodoxanthus mostra toni rosati su un cappello più pallido, una reticolatura più fitta e carne giallo vivo che vira al blu solo nel cappello rimanendo gialla nel gambo.",
+      "notes": "Il rapido viraggio al blu scuro in seguito a lesioni è causato dall'ossidazione enzimatica di derivati dell'acido pulvinico, principalmente gli acidi variegatico e xerocomico, a contatto con l'aria. Sebbene lo strato subimeniale bruno-rossastro sopra i tubuli (linea di Bataille) sia un classico carattere sul campo, studi filogenetici dimostrano che può mancare e non è di per sé diagnostico all'interno del genere. I carpofori sono fortemente colonizzati da larve di ditteri, mentre le limacce generalmente li evitano. Studi sperimentali di inoculazione evidenziano una tolleranza alla salinità insolitamente elevata rispetto ad altri comuni boleti ectomicorrizici. Le segnalazioni storiche di reazioni simili al disulfiram con l'alcol non sono state confermate chimicamente — le analisi non hanno rilevato coprina e hanno attribuito i casi passati a scambi con Imperator torosus, sebbene non sia stata esclusa la presenza di un composto non identificato."
+    },
+    "ja": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "石灰質の土壌を好む、赤い管孔を持つがっしりとした外生菌根性のイグチ類で、広葉樹林や混交林、公園、並木道などに単生または散生します。イギリスやアイルランドから地中海沿岸、東ヨーロッパにかけてヨーロッパ全域に広く分布しており、アジアや北アメリカからの未確認の古い記録は近縁種を指している可能性が高いと考えられます。",
+      "cap": "傘の径は5–20 cmで厚みがありクッション状を呈し、初めは半球形ですが、のちにまんじゅう形を経て広く平らに開きます。表面は乾いて微細なビロード状ですが、成熟すると滑らかになり、湿時にはやや粘性を帯びます。色は黄オリーブ色、黄土褐色、オリーブ褐色からくすんだ橙褐色や赤褐色まで幅があり、縁はやや淡色になることが多く、傷つくと暗青色または褐黒色に暗変します。",
+      "hymenium": "管孔の管は長さ1–2 cmで、傘の縁付近では短く、柄の頂部周辺でくぼみます。初め淡黄色でのちにオリーブ黄色となり、空気に触れると青緑色に変色します。孔口は小さく円形（1 mmあたり2–3個）で、幼時は黄橙色ですがすぐに橙赤色または深紅色になり、傘の縁沿いに淡色の帯を持つことが多く、触れると速やかに暗青色から青黒色に変色します。担子器はこん棒形で4胞子性、大きさは29.2–36.5 × 11.0–12.4 µmです。紡錘形の側シスチジアおよび縁シスチジアは中央が膨らみ長い頸部を持ち、大きさは33–48 × 7.3–13.5 µmです。",
+      "stipe": "柄は高さ5–15 cm、太さ1–5 cmとがっしりしており、幼時はこん棒形または膨らみますが、成長すると円柱形になり、基部はしばしばやや細まるか根状に伸びます。表面は上部が淡黄色から黄土黄色、基部に向かって暗い赤色からぶどう酒赤色となり、縦長で粗く隆起した橙赤色から深紅色の網目模様に覆われます。網目模様は幼菌では上半部に限られることもありますが、のちに柄の下方へ広がり、触れると暗青色に変色します。つばはなく、基部の菌糸は帯黄色です。",
+      "flesh": "肉は幼時に厚く締まっており、傘と柄の上部では淡黄色からレモン黄色、柄の基部下部では濃いぶどう酒赤色からルバーブ赤色になります。管孔のすぐ上には暗赤褐色から橙赤色の薄い子実層下層（バタイユ線）が見られることが多いものの、この層を欠く場合もあります。切ったり傷つけたりすると、肉は速やかに強く暗青色に変色し、その後徐々に退色します。においは弱く不明瞭かかすかに酸味があり、味は温和です。メルツァー試薬に対して柄の基部の肉は強いアミロイド反応（自然な青変が退色したのちに暗青色）を示し、希水酸化カリウム液は傘表皮を暗赤色から黒褐色に、肉を橙黄色に染めます。",
+      "sporePrint": "オリーブ色からオリーブ褐色です。胞子は平滑で楕円形から紡錘形、大きさは10.5–16 × 4.5–7 µm（通常11–15 × 4.5–6.5 µm、Q = 1.8–2.8、中央値2.2）です。",
+      "habitat": "主に広葉樹（特にナラ類、ブナ、シナノキ、シデ、カバノキ、ハシバミ、ヨーロッパグリ）と外生菌根を形成し、まれに針葉樹やHelianthemum属の小低木とも共生します。石灰質・アルカリ性・白亜質の土壌を強く好み、酸性土壌に発生することはまれです。落葉樹林や混交林、公園、並木道、池の堤防沿いの地上に6月から11月にかけて単生または散生し、夏の降雨後の6月から10月に最も多く発生します。",
+      "uses": "十分に加熱すれば条件付き食用となり、中央ヨーロッパや南ヨーロッパの一部では広く食べられています。生食や加熱不十分な状態で食べると、30分から2時間以内に吐き気、嘔吐、腹痛、下痢を伴う胃腸系の中毒を起こします。赤い管孔を持つ有毒なイグチ類と似ており、歴史的にアルコールとの不耐症が関連づけられてきたため、慎重な同定と食事の際の飲酒を避けることが一般に勧められています。",
+      "confusion": "Suillellus mendaxは同じ樹種の下に発生しますが酸性土壌を好み、傘はより赤みが強く明瞭なビロード状で、柄の網目模様は目立たず上半部に限られ下部では微細な粒点に移行し、胞子はより細長くなります（Qは約2.7）。Suillellus queletiiはぶどう酒赤色の柄の基部と強い青変性を共有しますが、柄に網目模様がなく、管孔の下の肉が黄色で、孔口は通常深紅色ではなく橙色です。Neoboletus luridiformisはより暗い栗褐色のビロード状の傘を持ち、針葉樹を伴うことの多い酸性土壌を好み、柄には隆起した網目ではなく細かい赤い斑点があります。Rubroboletus satanasも石灰質土壌に発生しますが有毒で、はるかに淡い白亜白色から帯灰色の凹凸ある傘、より太く球根状で細かい網目を持つ深紅色の柄、より弱い青変性、そして老成時の不快な腐敗臭によって区別されます。Rubroboletus rhodoxanthusはより淡色の傘に桃色の色調を帯び、網目がより緻密で、鮮やかな黄色の肉は傘の部分のみ青変し柄では黄色のまま残ります。",
+      "notes": "傷ついた際の急速な暗青変は、空気に触れることでプルビン酸誘導体（主にバリエガチン酸およびゼロコミン酸）が酵素的に酸化されるために生じます。管孔の上にある暗赤褐色の層（バタイユ線）は古くから野外での特徴とされてきましたが、系統学的研究により欠如する場合があることが示されており、本属内で単独の識別形質にはなりません。子実体は双翅目昆虫の幼虫による食害を強く受ける一方、ナメクジ類は一般にこれを避けます。実験的な接種試験では、他の一般的な外生菌根性イグチ類と比べて異常に高い耐塩性を示すことが報告されています。アルコールとの併用によるジスルフィラム様反応の古い報告は化学的には確認されておらず、分析でもコプリンは検出されず過去の事例はImperator torosusとの誤認によるものとされましたが、未同定の成分の存在は完全には否定されていません。"
+    },
+    "ko": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "붉은 관공을 가진 튼튼한 외생균근성 그물버섯으로, 활엽수림과 혼효림, 공원, 가로수길의 석회질 토양에서 홀로 또는 흩어져 자랍니다. 영국과 아일랜드에서 지중해 연안과 동유럽에 이르기까지 유럽 전역에 널리 분포하며, 아시아와 북아메리카의 미확인 과거 기록은 근연종을 가리킬 가능성이 높습니다.",
+      "cap": "갓은 지름 5–20 cm로 두껍고 방석 모양이며, 처음에는 반구형이다가 점차 둥근 산 모양을 거쳐 넓고 편평하게 펴집니다. 건조하고 미세한 벨벳 같은 표면은 나이가 들면서 매끄러워지고 습한 날씨에는 약간 끈적거리며, 색은 황올리브색, 황토갈색, 올리브갈색에서 탁한 주황갈색이나 적갈색까지 다양하고 가장자리가 더 연한 경우가 많으며, 상처가 나면 짙은 청색이나 흑갈색으로 어두워집니다.",
+      "hymenium": "관공의 관은 길이 1–2 cm로 가장자리 쪽이 더 짧고 대의 꼭대기 둘레에서 움푹 들어가 있으며, 처음에는 연한 노란색이다가 올리브황색으로 변하고 공기에 닿으면 청록색으로 변색됩니다. 작고 둥근 구멍(1 mm당 2–3개)은 어릴 때 황주황색이지만 곧 주황적색이나 진홍색으로 익으며, 갓 가장자리를 따라 더 연한 띠가 나타나는 경우가 많고, 만지면 빠르게 짙은 청색에서 청흑색으로 변합니다. 담자기는 곤봉 모양에 4포자성이며 크기는 29.2–36.5 × 11.0–12.4 µm입니다. 방추형의 측낭상체와 연낭상체는 가운데가 부풀고 긴 목을 가지며 크기는 33–48 × 7.3–13.5 µm입니다.",
+      "stipe": "대는 높이 5–15 cm, 굵기 1–5 cm로 튼튼하며, 어릴 때는 곤봉 모양이거나 부풀어 있다가 나이가 들면서 원통형이 되고 기부가 다소 가늘어지거나 뿌리처럼 뻗는 경우가 많습니다. 표면은 위쪽이 연한 노란색에서 황토황색이고 기부로 갈수록 더 어두운 적색에서 포도주적색을 띠며, 주황적색에서 진홍색의 거칠고 세로로 긴 돌출 그물눈이 덮여 있습니다. 이 그물눈은 어린 개체에서는 상반부에만 국한되다가 점차 대 아래쪽으로 퍼지며, 만지면 짙은 청색으로 변합니다. 턱받이는 없고 기부의 균사는 누르스름합니다.",
+      "flesh": "살은 어릴 때 두껍고 단단하며, 갓과 대 위쪽은 연한 노란색에서 레몬황색, 대 아래쪽 기부는 짙은 포도주적색에서 대황적색을 띱니다. 관공 바로 위에는 얇은 적갈색에서 주황적색의 자실층하층(바타유 선)이 있는 경우가 많으나 때로는 없을 수도 있습니다. 자르거나 상처를 내면 살이 빠르고 강하게 짙은 청색으로 변했다가 서서히 옅어집니다. 냄새는 약하고 뚜렷하지 않거나 약간 시큼하며 맛은 순합니다. 멜저 시약에서 대 기부의 살은 강한 아밀로이드 반응(자연적인 청변이 옅어진 뒤 짙은 청색)을 보이며, 묽은 수산화칼륨 용액은 갓 표피를 암적색에서 흑색으로, 살을 주황황색으로 물들입니다.",
+      "sporePrint": "올리브색에서 올리브갈색입니다. 포자는 매끄럽고 타원형에서 방추형이며 크기는 10.5–16 × 4.5–7 µm(보통 11–15 × 4.5–6.5 µm, Q = 1.8–2.8, 중앙값 2.2)입니다.",
+      "habitat": "주로 활엽수—특히 참나무, 너도밤나무, 피나무, 서어나무, 자작나무, 개암나무, 밤나무—와 외생균근을 형성하며, 드물게 침엽수나 Helianthemum속 소관목과도 공생합니다. 석회질, 알칼리성, 백악질 토양을 강하게 선호하며 산성 토양에서는 드물게 나타납니다. 6월부터 11월까지, 특히 여름철 비가 내린 뒤인 6월부터 10월에 가장 풍부하게 활엽수림과 혼효림, 공원, 가로수길, 연못 제방의 땅 위에서 홀로 또는 흩어져 발생합니다.",
+      "uses": "충분히 익혀 먹으면 주의해서 식용할 수 있으며, 중부 및 남부 유럽 일부 지역에서는 널리 식용됩니다. 날것이나 덜 익힌 상태로 먹으면 30분에서 2시간 이내에 메스꺼움, 구토, 복통, 설사를 동반하는 위장관 중독을 일으킵니다. 붉은 관공을 가진 독성 그물버섯들과 비슷하게 생겼고 과거에 알코올 관련 불내증과 연관된 바 있어, 정확한 동정과 식사 시 음주를 피하는 것이 일반적으로 권장됩니다.",
+      "confusion": "Suillellus mendax는 같은 기주 아래에서 자라지만 산성 토양을 선호하며, 갓이 더 붉고 뚜렷하게 벨벳 같고, 덜 두드러진 그물눈이 대의 상반부에만 국한되어 아래쪽에서는 미세한 알갱이로 이어지며, 포자가 더 좁고 깁니다(Q 약 2.7). Suillellus queletii는 포도주적색 대 기부와 강한 청변성을 공유하지만 대에 그물눈이 전혀 없고 관공 아래 살이 노란색이며 구멍은 보통 짙은 붉은색 대신 주황색입니다. Neoboletus luridiformis는 더 어두운 밤갈색의 벨벳 같은 갓을 가지며 침엽수가 섞인 산성 토양을 선호하고, 대에 돌출된 그물눈 대신 미세한 붉은 반점이 있습니다. Rubroboletus satanas 역시 석회질 토양에서 자라지만 독버섯이며, 훨씬 연한 백악질 흰색에서 회색빛의 울퉁불퉁한 갓, 더 굵고 구근 모양인 진홍색 대와 더 미세한 그물눈, 더 약한 청변성, 노숙 시 불쾌한 부패취를 가집니다. Rubroboletus rhodoxanthus는 더 연한 갓에 분홍빛을 띠고 그물눈이 더 촘촘하며, 선명한 노란색 살이 갓에서만 청변하고 대에서는 노란색을 유지합니다.",
+      "notes": "상처가 났을 때 빠르게 짙은 청색으로 변하는 것은 공기에 노출될 때 풀빈산 유도체, 주로 바리에가트산과 제로콤산이 효소적으로 산화되기 때문입니다. 관공 위의 적갈색 자실층하층(바타유 선)은 전통적인 야외 동정 형질이지만, 계통학 연구에 따르면 이 층이 없을 수도 있어 속 내에서 단독 진단 형질은 아닙니다. 자실체는 파리목 유충의 피해를 심하게 받는 반면 민달팽이는 대체로 이를 피합니다. 실험적 접종 연구에서는 다른 흔한 외생균근성 그물버섯에 비해 이례적으로 높은 염분 내성을 보였습니다. 알코올과 함께 섭취 시 디설피람 유사 반응이 일어난다는 과거 보고는 화학적으로 확인되지 않았으며, 분석에서 코프린이 검출되지 않아 과거 사례는 Imperator torosus를 오인한 결과로 여겨졌으나 미확인 성분의 가능성도 배제되지는 않았습니다."
+    },
+    "lt": {
+      "label": "tikrasis paąžuolis",
+      "names": [
+        "baravykas paąžuolis"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021",
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Stambus, raudonporis ektomikorizinis baravykinis grybas, augantis pavieniui arba negausiomis grupėmis kalkinguose dirvožemiuose lapuočių ir mišriuose miškuose, parkuose bei alėjose. Plačiai paplitęs Europoje nuo Didžiosios Britanijos ir Airijos iki Viduržemio jūros regiono ir Rytų Europos; nepatvirtinti istoriniai pranešimai iš Azijos ir Šiaurės Amerikos greičiausiai susiję su giminingomis rūšimis.",
+      "cap": "5–20 cm skersmens, stora ir pagalvėlės formos, iš pradžių pusrutuliška, vėliau iškili ir galiausiai plačiai paplokščia. Sausas, švelniai aksominis paviršius senstant tampa lygesnis, o drėgnu oru – šiek tiek gleivėtas; spalva svyruoja nuo gelsvai alyvinės, ochriškai rudos ar alyviškai rudos iki blankiai oranžiškai rudos ar rausvai rudos, dažnai šviesesniais kraštais, o paspaudus tamsėja iki tamsiai mėlynos arba rusvai juodos.",
+      "hymenium": "Vamzdeliai 1–2 cm ilgio, ties kraštu trumpesni ir įdubę aplink koto viršūnę, iš pradžių blyškiai geltoni, vėliau alyviškai geltoni, ore nusidažantys melsvai žaliai. Smulkios, apvalios poros (2–3 viename mm) jaunų grybų yra gelsvai oranžinės, netrukus tampa oranžiškai raudonos arba karmino raudonumo, dažnai su šviesesne juostele palei kepurėlės kraštą, o palietus greitai pamėlynuoja iki tamsiai mėlynos ar melsvai juodos spalvos. Bazidijos buožiškos, ketursporės, 29,2–36,5 × 11,0–12,4 µm dydžio; verpstiškos pleurocistidės ir cheilocistidės išsipūtusiu viduriu ir ilgu kakleliu, 33–48 × 7,3–13,5 µm dydžio.",
+      "stipe": "5–15 cm aukščio ir 1–5 cm storio, tvirtas, jaunas buožiškas arba išsipūtęs, senstant cilindriškas, ties pamatu dažnai kiek smailėjantis arba šakniškai pailgėjęs. Paviršius viršuje blyškiai geltonas iki ochriškai geltono, o link pamato tamsesnis, rausvas iki vyno raudonumo, padengtas stambiu, išilgai pailgėjusiu iškilusiu oranžiškai raudonu arba karmino raudonumo tinkleliu, kuris jaunuose vaisiakūniuose gali apimti tik viršutinę pusę, o vėliau nusidriekiantis žemyn kotu; palietus tamsiai pamėlynuoja. Žiedo nėra, pamatinė grybiena gelsva.",
+      "flesh": "Jauna stora ir kieta, kepurėlėje ir viršutinėje koto dalyje blyškiai iki citriniškai geltona, o apatinėje koto dalyje sodriai vyno raudonumo iki rabarbarų raudonumo, dažnai su plonu kaštoniniu iki oranžiškai raudonu subhimenialiniu sluoksniu (Bataille linija) tiesiai virš vamzdelių, nors kartais šio sluoksnio nebūna. Perpjovus arba paspaudus trama greitai ir intensyviai pasidaro tamsiai mėlyna, vėliau spalva pamažu blunka. Kvapas silpnas, neišraiškingas arba švelniai rūgštokas, skonis švelnus. Melzerio reagente koto pamato trama reaguoja stipriai amiloidiškai (tamsiai mėlynai, kai išblunka natūralus pamėlynavimas), o praskiestas kalio hidroksidas kepurėlės odelę nudažo tamsiai raudonai iki juosvos, o tramą – oranžiškai geltonai.",
+      "sporePrint": "Alyvinis iki alyviškai rudo. Sporos lygios, elipsoidinės iki verpstiškų, 10,5–16 × 4,5–7 µm dydžio (paprastai 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediana 2,2).",
+      "habitat": "Ektomikorizinis grybas, daugiausia susijęs su lapuočiais medžiais – ypač ąžuolu, buku, liepa, skroblu, beržu, lazdynu ir valgomuoju kaštainiu – o kartais su spygliuočiais arba Helianthemum genties puskrūmiais; aiškiai mėgsta kalkingus, šarminius ar kreidingus dirvožemius ir retai pasitaiko rūgščioje dirvoje. Vaisiakūniai auga pavieniui arba išsibarsčiusiomis grupėmis ant žemės lapuočių ir mišriuose miškuose, parkuose, alėjose ir palei tvenkinių pylimus nuo birželio iki lapkričio, gausiausiai – nuo birželio iki spalio po vasaros lietų.",
+      "uses": "Sąlyginai valgomas po kruopštaus terminio apdorojimo ir plačiai vartojamas dalyje Vidurio ir Pietų Europos. Suvalgius žalią arba nepakankamai termiškai apdorotą grybą, per 30 minučių – dvi valandas pasireiškia virškinamojo trakto apsinuodijimas su pykinimu, vėmimu, pilvo spazmais ir viduriavimu. Kadangi jis panašus į nuodingus raudonporius grybus ir istoriškai buvo siejamas su alkoholio netoleravimu, paprastai patariama atidžiai atpažinti rūšį ir valgant vengti alkoholio.",
+      "confusion": "Suillellus mendax auga po tais pačiais medžiais šeimininkais, tačiau mėgsta rūgščius dirvožemius, turi rausvesnę ir ryškiai aksominę kepurėlę, silpniau išreikštą tinklelį tik viršutinėje koto pusėje, žemiau pereinantį į smulkius grūdelius, bei siauresnes, labiau pailgėjusias sporas (Q apie 2,7). Suillellus queletii taip pat pasižymi vyno raudonumo koto pamatu ir stipriu mėlynavimu, tačiau ant koto neturi jokio tinklelio, trama virš vamzdelių geltona, o poros paprastai oranžinės, o ne sodriai raudonos. Neoboletus luridiformis turi tamsesnę kaštoniškai rudą aksominę kepurėlę, mėgsta rūgščius dirvožemius dažnai su spygliuočiais, o ant koto vietoj iškilusio tinklelio turi smulkių raudonų taškelių. Rubroboletus satanas taip pat auga kalkinguose dirvožemiuose, bet yra nuodingas, su gerokai šviesesne kreidiškai balta iki pilkšvos nelygia kepurėle, stambesniu gumbiškai išsipūtusiu karmino raudonumo kotu su smulkesniu tinkleliu, silpnesniu mėlynavimu ir nemaloniu puvėsių kvapu senstant. Rubroboletus rhodoxanthus pasižymi rausvais atspalviais ant šviesesnės kepurėlės, tankesniu tinkleliu ir ryškiai geltona trama, kuri mėlynuoja tik kepurėlėje, o kote lieka geltona.",
+      "notes": "Greitą tamsiai mėlyną spalvos pokytį pažeidus sukelia pulvino rūgšties darinių, daugiausia variegatinės ir kserokominės rūgščių, fermentinė oksidacija ore. Nors kaštoninis subhimenialinis sluoksnis virš vamzdelių (Bataille linija) yra klasikinis lauko požymis, filogenetiniai tyrimai rodo, kad jo gali nebūti ir vien jis gentyje nėra diagnostinis. Vaisiakūnius gausiai puola dvisparnių lervos, o šliužai jų paprastai vengia. Eksperimentiniai inokuliacijos tyrimai rodo neįprastai didelį atsparumą druskingumui, palyginti su kitais įprastais ektomikoriziniais baravykiniais grybais. Istoriniai pranešimai apie į disulfiramą panašias reakcijas su alkoholiu chemiškai nebuvo patvirtinti – analizės koprino nenustatė ir ankstesnius atvejus priskyrė supainiojimui su Imperator torosus, nors nenustatytas junginys dar nėra visiškai atmestas."
+    },
+    "lv": {
+      "label": "parastā raganbeka",
+      "names": [
+        "raganu beka"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q752494",
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "Masīva, sarkanporaina ektomikorizas sēne, kas aug pa vienai vai izkliedētās grupās kaļķainās augsnēs lapu koku un jauktos mežos, parkos un alejās. Plaši izplatīta Eiropā no Lielbritānijas un Īrijas līdz Vidusjūras reģionam un Austrumeiropai; neapstiprināti vēsturiski ziņojumi no Āzijas un Ziemeļamerikas, visticamāk, attiecas uz radniecīgām sugām.",
+      "cap": "5–20 cm plata, bieza un spilvenveida, sākumā puslodveida, vēlāk izliekta un beidzot plaši saplacināta. Sausā, smalki samtainā virsma ar vecumu kļūst gludāka un mitrā laikā nedaudz lipīga; krāsa variē no dzeltenolīvas, okera brūnas vai olīvbrūnas līdz blāvi oranžbrūnai vai sarkanbrūnai, bieži ar gaišāku malu, un iespieduma vietās satumst līdz tumši zilai vai brūngani melnai.",
+      "hymenium": "Stobriņi ir 1–2 cm gari, pie malas īsāki un ap kātiņa augšgalu ieliekti, sākumā gaiši dzelteni, vēlāk olīvdzelteni, saskarē ar gaisu krāsojas zilganzaļi. Sīkās, noapaļotās poras (2–3 uz mm) jaunām sēnēm ir dzeltenoranžas, drīz kļūst oranžsarkanas vai karmīnsarkanas, bieži ar gaišāku joslu gar cepurītes malu, un pieskaroties strauji krāsojas tumši zilas līdz zili melnas. Bazīdijas ir vālesveida, četrsporu, 29,2–36,5 × 11,0–12,4 µm lielas; vārpstveida pleirocistīdas un heilocistīdas ar uzpūstu vidu un garu kakliņu, 33–48 × 7,3–13,5 µm lielas.",
+      "stipe": "5–15 cm augsts un 1–5 cm resns, masīvs, jaunībā vālesveida vai uzpūsts, ar vecumu kļūst cilindrisks, pie pamatnes bieži nedaudz sašaurināts vai sakņveidīgi pagarināts. Virsma augšdaļā ir gaiši dzeltena līdz okera dzeltena, bet virzienā uz pamatni tumšāka, sarkanīga līdz vīnsarkana, klāta ar rupju, vertikāli izstieptu, reljefu oranžsarkanu līdz karmīnsarkanu tīklojumu, kas jauniem augļķermeņiem var būt tikai augšējā pusē, bet vēlāk izplešas lejup pa kātiņu; pieskaroties kļūst tumši zils. Gredzena nav, un pamatnes micēlijs ir dzeltenīgs.",
+      "flesh": "Jaunībā biezs un stingrs, cepurītē un kātiņa augšdaļā gaiši līdz citrondzeltens, bet kātiņa apakšējā pamatnē dziļi vīnsarkans līdz rabarbersarkans, bieži ar plānu kastaņsarkanu līdz oranžsarkanu subhimēnija slāni (Bataija līnija) tieši virs stobriņiem, lai gan reizēm šis slānis trūkst. Pārgriežot vai saspiežot, mīkstums strauji un intensīvi kļūst tumši zils, pēc tam krāsa pakāpeniski bālē. Smarža ir vāja un nenoteikta vai viegli skābena, garša maiga. Melcera reaģentā kātiņa pamatnes mīkstums reaģē spēcīgi amiloīdi (tumši zils, tiklīdz dabiskā zilēšana izzūd), savukārt atšķaidīts kālija hidroksīds cepurītes virsmiziņu iekrāso tumši sarkanu līdz melnganu, bet mīkstumu – oranždzeltenu.",
+      "sporePrint": "Olīvkrāsas līdz olīvbrūns. Sporas ir gludas, elipsoīdas līdz vārpstveida, 10,5–16 × 4,5–7 µm lielas (parasti 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediāna 2,2).",
+      "habitat": "Ektomikorizas veidotājs galvenokārt ar lapu kokiem — īpaši ozolu, dižskābardi, liepu, skābardi, bērzu, lazdu un ēdamo kastani — un reizēm ar skujkokiem vai Helianthemum ģints puskrūmiem, ar izteiktu noslieci uz kaļķainām, sārmainām vai krītainām augsnēm un reti sastopams skābā augsnē. Augļķermeņi veidojas pa vienam vai izkliedētās grupās uz zemes lapu koku un jauktos mežos, parkos, alejās un gar dīķu dambjiem no jūnija līdz novembrim, visbagātīgāk no jūnija līdz oktobrim pēc vasaras lietavām.",
+      "uses": "Nosacīti ēdama pēc rūpīgas termiskas apstrādes un plaši lietota uzturā daļā Centrāleiropas un Dienvideiropas. Ēdot jēlu vai nepietiekami apstrādātu, 30 minūšu līdz divu stundu laikā rodas kuņģa un zarnu trakta saindēšanās ar sliktu dūšu, vemšanu, vēderkrampjiem un caureju. Tā kā tā līdzinās indīgām sarkanporainām bekām un vēsturiski saistīta ar alkohola nepanesību, parasti iesaka rūpīgu noteikšanu un atturēšanos no alkohola maltītes laikā.",
+      "confusion": "Suillellus mendax aug zem tiem pašiem saimniekkokiem, taču dod priekšroku skābām augsnēm, tai ir sarkanāka un izteikti samtaina cepurīte, mazāk izteikts tīklojums, kas aprobežojas ar kātiņa augšējo pusi un lejup pāriet sīkās granulās, kā arī šaurākas, garākas sporas (Q ap 2,7). Suillellus queletii arī ir vīnsarkana kātiņa pamatne un spēcīga zilēšana, taču uz kātiņa pilnībā trūkst tīklojuma, mīkstums virs stobriņiem ir dzeltens un poras parasti ir oranžas, nevis dziļi sarkanas. Neoboletus luridiformis ir tumšāka kastaņbrūna samtaina cepurīte, tā dod priekšroku skābām augsnēm bieži kopā ar skujkokiem, un uz kātiņa reljefa tīklojuma vietā ir smalki sarkani punktiņi. Rubroboletus satanas arī aug kaļķainās augsnēs, taču ir indīga, ar daudz gaišāku krītbaltu līdz pelēcīgu grubuļainu cepurīti, masīvāku bumbuļveida karmīnsarkanu kātiņu ar smalkāku tīklojumu, vājāku zilēšanu un nepatīkamu trūdošu smaržu vecumā. Rubroboletus rhodoxanthus ir sārtas nokrāsas uz gaišākas cepurītes, blīvāks tīklojums un koši dzeltens mīkstums, kas zilē tikai cepurītē, bet kātiņā paliek dzeltens.",
+      "notes": "Straujo tumši zilo iekrāsošanos bojājuma vietā izraisa pulvīnskābes atvasinājumu, galvenokārt variegātskābes un kserokomskābes, fermentatīva oksidēšanās saskarē ar gaisu. Lai gan kastaņsarkanais subhimēnija slānis virs stobriņiem (Bataija līnija) ir klasiska lauka pazīme, filoģenētiskie pētījumi liecina, ka tas var nebūt un pats par sevi ģintī nav diagnostisks. Augļķermeņus stipri apsēž divspārņu kāpuri, savukārt kailgliemeži no tiem parasti izvairās. Eksperimentāli inokulācijas pētījumi uzrāda neparasti augstu sāļuma toleranci salīdzinājumā ar citām parastām ektomikorizas bekām. Vēsturiski ziņojumi par disulfiramam līdzīgām reakcijām kopā ar alkoholu ķīmiski nav apstiprināti — analīzēs koprīns netika konstatēts, un agrākie gadījumi tika saistīti ar sajaukšanu ar Imperator torosus, lai gan neidentificēts savienojums nav izslēgts."
+    },
+    "nl": {
+      "label": "Netstelige heksenboleet",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Een stevige, ectomycorrhizavormende boleet met rode poriën die alleenstaand of in verspreide groepjes groeit op kalkrijke bodems in loof- en gemengde bossen, parken en lanen. Wijdverspreid in Europa van Groot-Brittannië en Ierland tot het Middellandse Zeegebied en Oost-Europa; niet-geverifieerde historische meldingen uit Azië en Noord-Amerika betreffen waarschijnlijk verwante soorten.",
+      "cap": "5–20 cm breed, dik en kussenvormig, aanvankelijk halfbolvormig, daarna uitgroeiend tot gewelfd en uiteindelijk breed afgeplat. Het droge, fijn fluwelige oppervlak wordt op latere leeftijd gladder en bij nat weer licht kleverig, variërend van geelolijfkleurig, okerbruin of olijfbruin tot dof oranjebruin of roodbruin, vaak met een blekere rand en donkerblauw tot bruinzwart verkleurend bij kneuzing.",
+      "hymenium": "De buizen zijn 1–2 cm lang, korter bij de rand en ingedeukt rond de steeltop, aanvankelijk bleekgeel en later olijfgeel, blauwgroen verkleurend bij blootstelling aan lucht. De kleine, afgeronde poriën (2–3 per mm) zijn jong geeloranje, kleuren spoedig oranjerood tot karmijnrood, vaak met een blekere zone langs de hoedrand, en verkleuren bij aanraking snel donkerblauw tot blauwzwart. De basidiën zijn knotsvormig, viersporig en meten 29,2–36,5 × 11,0–12,4 µm; spoelvormige pleurocystiden en cheilocystiden hebben een gezwollen midden en een lange hals en meten 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm lang en 1–5 cm dik, stevig, jong knotsvormig of gezwollen en op latere leeftijd cilindrisch, aan de voet vaak licht versmald of wortelend. Het oppervlak is bovenaan bleekgeel tot okergeel en naar de voet toe donkerder roodachtig tot wijnrood, overdekt met een grof, verticaal gerekt, verheven oranjerood tot karmijnrood netwerk dat bij jonge vruchtlichamen soms beperkt is tot de bovenste helft voordat het zich verder over de steel uitbreidt; bij aanraking verkleurt de steel donkerblauw. Een ring ontbreekt en het basale mycelium is gelig.",
+      "flesh": "Jong dik en stevig, bleek- tot citroengeel in de hoed en de bovenste helft van de steel, en diep wijnrood tot rabarberrood in de onderste steelvoet, vaak met een dunne kastanjerode tot oranjerode subhymeniale laag (lijn van Bataille) direct boven de buizen, al ontbreekt deze laag soms. Bij doorsnijden of kneuzen verkleurt het vlees snel en intens donkerblauw, waarna de kleur geleidelijk vervaagt. De geur is zwak en onopvallend of licht zuur, en de smaak is mild. Met Melzers reagens reageert het vlees in de steelvoet sterk amyloïd (donkerblauw zodra de natuurlijke blauwverkleuring wegtrekt), terwijl verdunde kaliloog de hoedhuid donkerrood tot zwartachtig en het vlees oranjegeel kleurt.",
+      "sporePrint": "Olijfkleurig tot olijfbruin. De sporen zijn glad, ellipsoïde tot spoelvormig en meten 10,5–16 × 4,5–7 µm (doorgaans 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediaan 2,2).",
+      "habitat": "Ectomycorrhizavormend, voornamelijk met loofbomen — vooral eik, beuk, linde, haagbeuk, berk, hazelaar en tamme kastanje — en incidenteel met naaldbomen of dwergstruiken van het geslacht Helianthemum, met een sterke voorkeur voor kalkrijke, basische of krijthoudende bodems en zelden voorkomend op zure grond. Groeit alleenstaand of in verspreide groepjes op de grond in loof- en gemengde bossen, parken, lanen en langs vijveroevers van juni tot november, het rijkelijkst van juni tot oktober na zomerregens.",
+      "uses": "Eetbaar onder voorbehoud na grondig verhitten en in delen van Midden- en Zuid-Europa veel gegeten. Rauwe of onvoldoende verhitte consumptie veroorzaakt binnen 30 minuten tot twee uur maag-darmvergiftiging met misselijkheid, braken, buikkrampen en diarree. Omdat de soort lijkt op giftige boleten met rode poriën en historisch in verband is gebracht met alcoholintolerantie, worden zorgvuldige determinatie en het vermijden van alcohol bij de maaltijd algemeen aanbevolen.",
+      "confusion": "Suillellus mendax groeit onder dezelfde gastheerbomen maar geeft de voorkeur aan zure bodems, heeft een rodere en duidelijk fluwelige hoed, een minder uitgesproken netwerk dat beperkt blijft tot de bovenste helft van de steel en naar onderen overgaat in fijne korreltjes, en smallere, langgerektere sporen (Q ongeveer 2,7). Suillellus queletii deelt de wijnrode steelvoet en de sterke blauwverkleuring, maar mist elk netwerk op de steel, heeft geel vlees boven de buizen en doorgaans oranje in plaats van dieprode poriën. Neoboletus luridiformis heeft een donkerdere kastanjebruine fluwelige hoed, prefereert zure bodems vaak bij naaldbomen en heeft fijne rode spikkels op de steel in plaats van een verheven netwerk. Rubroboletus satanas groeit eveneens op kalkrijke bodems maar is giftig, met een veel blekere kalkwitte tot grijzige bobbelige hoed, een dikkere, buikige karmijnrode steel met een fijner netwerk, zwakkere blauwverkleuring en een onaangename rottende geur op latere leeftijd. Rubroboletus rhodoxanthus heeft rozige tinten op een blekere hoed, een dichter netwerk en heldergeel vlees dat alleen in de hoed blauw verkleurt maar in de steel geel blijft.",
+      "notes": "De snelle donkerblauwe verkleuring bij beschadiging wordt veroorzaakt door enzymatische oxidatie van pulvinezuurderivaten, vooral variegatazuur en xerocominezuur, bij blootstelling aan lucht. Hoewel de kastanjerode subhymeniale laag boven de buizen (lijn van Bataille) een klassiek veldkenmerk is, tonen fylogenetische studies aan dat deze kan ontbreken en op zichzelf binnen het geslacht niet doorslaggevend is. Vruchtlichamen worden sterk aangetast door larven van tweevleugeligen, terwijl slakken ze doorgaans mijden. Experimentele inoculatieproeven laten een ongewoon hoge zouttolerantie zien in vergelijking met andere algemene ectomycorrhizavormende boleten. Historische meldingen van disulfiramachtige reacties met alcohol zijn chemisch niet bevestigd: analyses vonden geen coprine en schreven eerdere gevallen toe aan verwisseling met Imperator torosus, al is een niet-geïdentificeerde verbinding niet uitgesloten."
+    },
+    "no": {
+      "label": "ildrørsopp",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "En kraftig, ektomykorrhizadannende rørsopp med røde porer som vokser enkeltvis eller i spredte grupper på kalkrik jord i løv- og blandingsskog, parker og alléer. Vidt utbredt i Europa fra Storbritannia og Irland til middelhavsområdet og Øst-Europa, mens ubekreftede historiske funn fra Asia og Nord-Amerika trolig representerer nærstående arter.",
+      "cap": "5–20 cm bred, tykk og puteformet, først halvkuleformet, deretter hvelvet og til slutt bredt utflatet. Den tørre, fint fløyelsaktige overflaten blir glattere med alderen og svakt klebrig i fuktig vær; fargen varierer fra guloliven, okerbrun eller olivenbrun til matt oransjebrun eller rødbrun, ofte med lysere hattkant, og den mørkner til mørkeblå eller brunsvart ved trykk.",
+      "hymenium": "Rørene er 1–2 cm lange, kortere mot kanten og nedsenket rundt stilktoppen, først blekgule og senere olivengule, og de farges blågrønne når de utsettes for luft. De små, avrundede porene (2–3 per mm) er guloransje som unge og blir snart oransjerøde til karminrøde, ofte med en lysere sone langs hattkanten, og de blir raskt mørkeblå til blåsvarte ved berøring. Basidiene er kølleformede, firesporede og måler 29,2–36,5 × 11,0–12,4 µm; spoleformede pleurocystider og cheilocystider har oppsvulmet midte og lang hals og måler 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm høy og 1–5 cm tykk, kraftig, kølleformet eller oppsvulmet som ung og etter hvert sylindrisk, ofte svakt avsmalnende eller rotforlenget ved basis. Overflaten er blekgul til okergul øverst og mørkere rødlig til vinrød mot basis, dekket av et grovt, vertikalt langstrakt, opphøyd oransjerødt til karminrødt årenett som hos unge fruktlegemer kan være begrenset til øvre halvdel før det brer seg nedover stilken; den blir mørkeblå ved berøring. Den mangler ring, og basalmycelet er gulaktig.",
+      "flesh": "Tykt og fast som ungt, blekt til sitrongult i hatten og øvre del av stilken, og dypt vinrødt til rabarbrarødt nederst i stilkbasis, ofte med et tynt kastanjerødt til oransjerødt subhymenialt lag (Batailles linje) rett over rørene, selv om dette laget av og til mangler. Ved gjennomskjæring eller trykk blir kjøttet raskt og intenst mørkeblått før fargen gradvis blekner. Lukten er svak og ubestemmelig eller mildt syrlig, og smaken er mild. I Melzers reagens reagerer kjøttet i stilkbasis sterkt amyloid (mørkeblått når den naturlige blåfargingen avtar), mens fortynnet kaliumhydroksid farger hatthuden mørkerød til svartaktig og kjøttet oransjegult.",
+      "sporePrint": "Oliven til olivenbrunt. Sporene er glatte, ellipsoide til spoleformede og måler 10,5–16 × 4,5–7 µm (typisk 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, median 2,2).",
+      "habitat": "Ektomykorrhizadannende hovedsakelig med løvtrær – særlig eik, bøk, lind, agnbøk, bjørk, hassel og edelkastanje – og av og til med bartrær eller dvergbusker i slekten Helianthemum, med en sterk preferanse for kalkrik, basisk eller krittrik jord, og forekommer sjelden på sur grunn. Den danner fruktlegemer enkeltvis eller i spredte grupper på bakken i løv- og blandingsskog, parker, alléer og langs damvoller fra juni til november, rikest fra juni til oktober etter sommerregn.",
+      "uses": "Spiselig med forbehold etter grundig varmebehandling, og mye spist i deler av Sentral- og Sør-Europa. Rå eller utilstrekkelig tilberedt sopp gir mage- og tarmforgiftning innen 30 minutter til to timer, med kvalme, oppkast, magekramper og diaré. Siden den ligner giftige rødporede rørsopper og historisk har vært satt i sammenheng med alkoholintoleranse, anbefales nøye artsbestemmelse og å unngå alkohol til måltidet.",
+      "confusion": "Suillellus mendax vokser under de samme vertstrærne, men foretrekker sur jord, har en rødere og tydelig fløyelsaktig hatt, et mindre markert nett begrenset til øvre halvdel av stilken som går over i fine korn nedover, samt smalere, mer langstrakte sporer (Q rundt 2,7). Suillellus queletii deler den vinrøde stilkbasis og den sterke blåfargingen, men mangler nett på stilken, har gult kjøtt over rørene og vanligvis oransje snarere enn dyprøde porer. Neoboletus luridiformis har mørkere kastanjebrun, fløyelsaktig hatt, foretrekker sur jord ofte sammen med bartrær og har fine røde prikker på stilken i stedet for et opphøyd årenett. Rubroboletus satanas vokser også på kalkrik jord, men er giftig, med en mye blekere kritthvit til gråaktig, ujevn hatt, en kraftigere, oppsvulmet karminrød stilk med finere nettverk, svakere blåfarging og en ubehagelig råtten lukt med alderen. Rubroboletus rhodoxanthus har rosa skjær på en blekere hatt, tettere nettverk og klart gult kjøtt som bare blåner i hatten, mens det forblir gult i stilken.",
+      "notes": "Den raske mørkeblå fargingen ved skade skyldes enzymatisk oksidasjon av pulvinsyrederivater, særlig variegatsyre og xerocomsyre, ved eksponering for luft. Selv om det kastanjerøde subhymeniale laget over rørene (Batailles linje) er et klassisk feltkjennetegn, viser fylogenetiske studier at det kan mangle og ikke alene er diagnostisk innen slekten. Fruktlegemene angripes sterkt av larver av tovinger, mens snegler stort sett unngår dem. Eksperimentelle inokuleringsforsøk viser uvanlig høy salttoleranse sammenlignet med andre vanlige ektomykorrhizadannende rørsopper. Historiske rapporter om disulfiramlignende reaksjoner med alkohol er ikke bekreftet kjemisk – analyser fant ikke koprin og tilskrev tidligere tilfeller forveksling med Imperator torosus, selv om en uidentifisert forbindelse ikke er utelukket."
+    },
+    "pl": {
+      "label": "modroborowik ponury",
+      "names": [
+        "borowik ponury"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021",
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Masywny, czerwonopory ektomikoryzowy grzyb borowikowaty, owocnikujący pojedynczo lub w rozproszonych grupach na glebach wapiennych w lasach liściastych i mieszanych, parkach oraz alejach. Szeroko rozpowszechniony w całej Europie, od Wielkiej Brytanii i Irlandii po basen Morza Śródziemnego i Europę Wschodnią; niezweryfikowane doniesienia historyczne z Azji i Ameryki Północnej dotyczą prawdopodobnie gatunków pokrewnych.",
+      "cap": "Szerokości 5–20 cm, gruby i poduszkowaty, początkowo półkulisty, następnie wypukły, a z czasem szeroko spłaszczony. Sucha, drobno aksamitna powierzchnia z wiekiem staje się gładsza, a podczas wilgotnej pogody lekko lepka; ma barwę od żółtooliwkowej, ochrowobrązowej lub oliwkowobrązowej po matowo pomarańczowobrązową lub czerwonobrązową, często z jaśniejszym brzegiem, a w miejscach uciśniętych ciemnieje do ciemnoniebieskiej lub brązowoczarnej.",
+      "hymenium": "Rurki długości 1–2 cm, krótsze przy brzegu i wycięte wokół szczytu trzonu, początkowo bladożółte, później oliwkowożółte, na powietrzu siniejące na niebieskozielono. Drobne, okrągłe pory (2–3 na mm) u młodych owocników są żółtopomarańczowe, wkrótce dojrzewają do barwy pomarańczowoczerwonej lub karminowoczerwonej, często z jaśniejszą strefą wzdłuż brzegu kapelusza, i po dotknięciu szybko ciemnieją na ciemnoniebiesko do niebieskoczarnego. Podstawki są maczugowate, czterozarodnikowe i mierzą 29,2–36,5 × 11,0–12,4 µm; wrzecionowate pleurocystydy i cheilocystydy mają rozdęty środek i długą szyjkę oraz wymiary 33–48 × 7,3–13,5 µm.",
+      "stipe": "Wysokości 5–15 cm i grubości 1–5 cm, masywny, u młodych okazów maczugowaty lub brzuchaty, z wiekiem walcowaty, u podstawy często lekko zwężony lub korzeniący się. Powierzchnia jest u góry bladożółta do ochrowożółtej, a ku podstawie ciemniejsza, czerwonawa do winoczerwonej, pokryta grubą, pionowo wydłużoną, wypukłą pomarańczowoczerwoną do karminowoczerwonej siateczką, która u młodych owocników bywa ograniczona do górnej połowy, zanim rozciągnie się w dół trzonu; po dotknięciu ciemnoniebiesko sinieje. Pierścienia brak, a grzybnia u podstawy jest żółtawa.",
+      "flesh": "Gruby i jędrny u młodych owocników, bladożółty do cytrynowożółtego w kapeluszu i górnej części trzonu oraz głęboko winoczerwony do rabarbarowoczerwonego w dolnej części podstawy trzonu, często z cienką bordową do pomarańczowoczerwonej warstwą podhymenialną (linia Bataille’a) bezpośrednio nad rurkami, choć warstwa ta bywa nieobecna. Po przekrojeniu lub uciśnięciu miąższ szybko i intensywnie przebarwia się na ciemnoniebiesko, po czym stopniowo blednie. Zapach jest słaby i niewyraźny lub lekko kwaskowaty, a smak łagodny. W odczynniku Melzera miąższ podstawy trzonu reaguje silnie amyloidalnie (ciemnoniebiesko po wyblaknięciu naturalnego sinienia), natomiast rozcieńczony wodorotlenek potasu barwi skórkę kapelusza na ciemnoczerwono do czarniawego, a miąższ na pomarańczowożółto.",
+      "sporePrint": "Oliwkowy do oliwkowobrązowego. Zarodniki są gładkie, elipsoidalne do wrzecionowatych, o wymiarach 10,5–16 × 4,5–7 µm (zwykle 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediana 2,2).",
+      "habitat": "Grzyb ektomikoryzowy związany przede wszystkim z drzewami liściastymi – zwłaszcza dębem, bukiem, lipą, grabem, brzozą, leszczyną i kasztanem jadalnym – a sporadycznie z drzewami iglastymi lub półkrzewami z rodzaju Helianthemum; wykazuje silne upodobanie do gleb wapiennych, zasadowych lub kredowych i rzadko występuje na podłożu kwaśnym. Owocnikuje pojedynczo lub w rozproszonych grupach na ziemi w lasach liściastych i mieszanych, parkach, alejach oraz wzdłuż grobli stawów od czerwca do listopada, najobficiej od czerwca do października po letnich deszczach.",
+      "uses": "Warunkowo jadalny po dokładnej obróbce termicznej i chętnie spożywany w części Europy Środkowej i Południowej. Spożycie na surowo lub po niedostatecznym ugotowaniu wywołuje w ciągu 30 minut do dwóch godzin zatrucie żołądkowo-jelitowe z nudnościami, wymiotami, skurczami brzucha i biegunką. Ponieważ przypomina trujące czerwonopore borowiki i historycznie wiązano go z nietolerancją po spożyciu alkoholu, powszechnie zaleca się ostrożne oznaczanie oraz unikanie alkoholu przy posiłkach.",
+      "confusion": "Suillellus mendax występuje pod tymi samymi żywicielami, lecz preferuje gleby kwaśne, ma bardziej czerwonawy i wyraźnie aksamitny kapelusz, mniej wyraźną siateczkę ograniczoną do górnej połowy trzonu i przechodzącą poniżej w drobne ziarenka oraz węższe, bardziej wydłużone zarodniki (Q około 2,7). Suillellus queletii ma podobnie winoczerwoną podstawę trzonu i silnie sinieje, ale nie ma żadnej siateczki na trzonie, ma żółty miąższ pod rurkami i zazwyczaj pomarańczowe, a nie ciemnoczerwone pory. Neoboletus luridiformis ma ciemniejszy, kasztanowobrązowy aksamitny kapelusz, preferuje gleby kwaśne, często z drzewami iglastymi, i ma na trzonie drobne czerwone ziarenka zamiast wypukłej siateczki. Rubroboletus satanas również rośnie na glebach wapiennych, lecz jest trujący; ma znacznie jaśniejszy, kredowobiały do szarawego, pofałdowany kapelusz, masywniejszy, bulwiasty karminowy trzon z delikatniejszą siateczką, słabsze sinienie i nieprzyjemny, gnilny zapach na starość. Rubroboletus rhodoxanthus ma różowawe odcienie na jaśniejszym kapeluszu, gęstszą siateczkę oraz jaskrawożółty miąższ, który sinieje wyłącznie w kapeluszu, pozostając żółty w trzonie.",
+      "notes": "Gwałtowne ciemnoniebieskie przebarwienie po uszkodzeniu jest spowodowane enzymatycznym utlenianiem pochodnych kwasu pulwinowego, głównie kwasu wariegatowego i kserokomowego, w kontakcie z powietrzem. Chociaż bordowa warstwa podhymenialna nad rurkami (linia Bataille’a) jest klasyczną cechą terenową, badania filogenetyczne wskazują, że może być nieobecna i sama w sobie nie ma wartości diagnostycznej w obrębie rodzaju. Owocniki są silnie zasiedlane przez larwy muchówek, podczas gdy ślimaki na ogół ich unikają. Eksperymentalne badania inokulacyjne wykazują niezwykle wysoką tolerancję na zasolenie w porównaniu z innymi pospolitymi ektomikoryzowymi borowikowatymi. Historyczne doniesienia o reakcjach przypominających działanie disulfiramu po spożyciu alkoholu nie zostały potwierdzone chemicznie – analizy nie wykazały obecności kopryny, a dawne przypadki przypisano pomyłce z Imperator torosus, choć obecności niezidentyfikowanego związku nie wykluczono."
+    },
+    "pt": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "Boleto ectomicorrízico robusto de poros vermelhos, que frutifica isoladamente ou em grupos dispersos em solos calcários de bosques de folhosas e mistos, parques e alamedas. Amplamente distribuído por toda a Europa, da Grã-Bretanha e Irlanda até ao Mediterrâneo e Europa Oriental, com registos históricos não verificados da Ásia e da América do Norte que provavelmente correspondem a espécies afins.",
+      "cap": "Com 5–20 cm de largura, espesso e almofadado, inicialmente hemisférico antes de se expandir para convexo e, por fim, amplamente aplanado. A superfície seca e finamente aveludada torna-se mais lisa com a idade e ligeiramente viscosa em tempo húmido, variando de amarelo-oliváceo, castanho-ocráceo ou castanho-oliváceo a castanho-alaranjado baço ou castanho-avermelhado, frequentemente com margens mais pálidas, escurecendo para azul-escuro ou castanho-enegrecido onde é pisado.",
+      "hymenium": "Os tubos têm 1–2 cm de comprimento, sendo mais curtos junto à margem e deprimidos em torno do ápice do estipe, inicialmente amarelo-pálido e passando a amarelo-oliváceo, tingindo-se de azul-esverdeado ao contacto com o ar. Os poros pequenos e arredondados (2–3 por mm) são amarelo-alaranjados quando jovens, amadurecendo rapidamente para vermelho-alaranjado ou vermelho-carmesim, muitas vezes com uma zona mais pálida ao longo da margem do chapéu, e escurecendo rapidamente para azul-escuro a preto-azulado ao toque. Os basídios são claviformes, tetraspóricos e medem 29,2–36,5 × 11,0–12,4 µm; os pleurocistídios e queilocistídios fusiformes apresentam parte média dilatada e pescoços longos, medindo 33–48 × 7,3–13,5 µm.",
+      "stipe": "Com 5–15 cm de altura e 1–5 cm de espessura, robusto, claviforme ou bojudo quando jovem e tornando-se cilíndrico com a idade, frequentemente ligeiramente atenuado ou radicante na base. A superfície é amarelo-pálida a amarelo-ocrácea na parte superior e mais escura, avermelhada a vermelho-vinosa para a base, revestida por um retículo saliente grosseiro, alongado verticalmente, de cor vermelho-alaranjada a vermelho-carmesim, que pode restringir-se à metade superior em exemplares jovens antes de se estender ao longo do estipe; mancha-se de azul-escuro ao manuseamento. Não possui anel e o micélio basal é amarelado.",
+      "flesh": "Espessa e firme quando jovem, amarelo-pálida a amarelo-limão no chapéu e na parte superior do estipe, e vermelho-vinosa profunda a vermelho-ruibarbo na base inferior do estipe, frequentemente com uma fina camada sub-himenial grená a vermelho-alaranjada (linha de Bataille) diretamente acima dos tubos, embora esta camada esteja ocasionalmente ausente. Ao corte ou contusão, a carne vira rápida e intensamente para azul-escuro antes de desvanecer gradualmente. O odor é fraco e indistinto ou ligeiramente ácido, e o sabor é suave. Em reagente de Melzer, a carne da base do estipe reage fortemente amiloide (azul-escuro assim que o azuleamento natural atenua), enquanto o hidróxido de potássio diluído tinge a cutícula do chapéu de vermelho-escuro a enegrecido e a carne de amarelo-alaranjado.",
+      "sporePrint": "Olivácea a castanho-olivácea. Os esporos são lisos, elipsoides a fusiformes, medindo 10,5–16 × 4,5–7 µm (tipicamente 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediana 2,2).",
+      "habitat": "Ectomicorrízico sobretudo com árvores folhosas — especialmente carvalho, faia, tília, cárpino, bétula, aveleira e castanheiro — e ocasionalmente com coníferas ou subarbustos do género Helianthemum, mostrando uma forte preferência por solos calcários, alcalinos ou gredosos e ocorrendo raramente em solos ácidos. Frutifica isoladamente ou em grupos dispersos no solo em bosques caducifólios e mistos, parques, alamedas e ao longo de margens de lagoas de junho a novembro, com maior abundância de junho a outubro após as chuvas de verão.",
+      "uses": "Comestível com precaução após cozedura prolongada e amplamente consumido em partes da Europa Central e Meridional. O seu consumo cru ou mal cozinhado provoca intoxicação gastrointestinal num prazo de 30 minutos a duas horas, com náuseas, vómitos, cólicas abdominais e diarreia. Por se assemelhar a boletos venenosos de poros vermelhos e ter sido historicamente associado a intolerâncias relacionadas com o álcool, recomenda-se geralmente uma identificação cuidadosa e evitar o consumo de álcool às refeições.",
+      "confusion": "Suillellus mendax ocorre sob os mesmos hospedeiros mas prefere solos ácidos, tem um chapéu mais avermelhado e marcadamente aveludado, um retículo menos pronunciado confinado à metade superior do estipe que passa a granulações finas na parte inferior e esporos mais estreitos e alongados (Q cerca de 2,7). Suillellus queletii partilha a base do estipe vermelho-vinosa e o forte azuleamento, mas não apresenta qualquer retículo no estipe, tem carne amarela por baixo dos tubos e exibe geralmente poros alaranjados em vez de vermelho-escuros. Neoboletus luridiformis possui um chapéu aveludado castanho-escuro, prefere solos ácidos frequentemente com coníferas e apresenta pontuações vermelhas finas no estipe em vez de um retículo saliente. Rubroboletus satanas também cresce em solos calcários mas é venenoso, com um chapéu irregular muito mais pálido, branco-giz a acinzentado, um estipe bolboso carmesim mais robusto com retículo mais fino, azuleamento mais fraco e um odor fétido a decomposição na velhice. Rubroboletus rhodoxanthus apresenta tons rosados num chapéu mais pálido, retículo mais denso e carne amarelo-viva que azuleia apenas no chapéu, permanecendo amarela no estipe.",
+      "notes": "O rápido escurecimento para azul-escuro após lesão deve-se à oxidação enzimática de derivados do ácido pulvínico, principalmente os ácidos variegático e xerocómico, aquando da exposição ao ar. Embora a camada sub-himenial grená acima dos tubos (linha de Bataille) seja um caráter de campo clássico, estudos filogenéticos mostram que pode estar ausente e não é, por si só, diagnóstica dentro do género. Os carpóforos são intensamente colonizados por larvas de dípteros, enquanto as lesmas geralmente os evitam. Estudos experimentais de inoculação revelam uma tolerância à salinidade invulgarmente elevada em comparação com outros boletos ectomicorrízicos comuns. Os relatos históricos de reações semelhantes ao dissulfiram com o álcool não foram confirmados quimicamente — as análises não encontraram coprina e atribuíram os casos passados a confusões com Imperator torosus, embora não se tenha descartado a presença de um composto não identificado."
+    },
+    "ro": {
+      "label": "buretele vrăjitoarei",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Un hrib ectomicorizic robust, cu pori roșii, care fructifică solitar sau în grupuri răsfirate pe soluri calcaroase, în păduri de foioase și de amestec, parcuri și alei. Larg răspândit în Europa, din Marea Britanie și Irlanda până în zona mediteraneană și Europa de Est; semnalările istorice neverificate din Asia și America de Nord reprezintă probabil specii înrudite.",
+      "cap": "Lat de 5–20 cm, gros și în formă de pernă, inițial emisferic, apoi convex și în cele din urmă larg aplatizat. Suprafața uscată, fin catifelată, devine mai netedă la maturitate și ușor vâscoasă pe vreme umedă; coloritul variază de la galben-măsliniu, ocru-brun sau brun-măsliniu până la brun-portocaliu tern sau brun-roșcat, adesea cu margini mai palide, închizându-se la albastru închis sau brun-negricios la apăsare.",
+      "hymenium": "Tuburile au lungimea de 1–2 cm, sunt mai scurte spre margine și adâncite în jurul vârfului piciorului, inițial galben-palide, devenind galben-măslinii și pătându-se în verde-albăstrui la contactul cu aerul. Porii mici și rotunjiți (2–3 pe mm) sunt galben-portocalii în tinerețe, maturizându-se rapid spre roșu-portocaliu sau roșu-carmin, adesea cu o zonă mai palidă de-a lungul marginii pălăriei, și se albăstresc rapid în albastru închis până la negru-albăstrui la atingere. Bazidiile sunt clavate, cu patru spori, măsurând 29,2–36,5 × 11,0–12,4 µm; pleurocistidele și cheilocistidele fusiforme au partea mediană umflată și gâturi lungi, măsurând 33–48 × 7,3–13,5 µm.",
+      "stipe": "Înalt de 5–15 cm și gros de 1–5 cm, robust, clavat sau bombat în tinerețe, devenind cilindric la maturitate, adesea ușor îngustat sau radicant la bază. Suprafața este galben-palidă până la galben-ocru în partea superioară și mai închisă, roșiatică până la roșu-vinaceu spre bază, acoperită de o rețea reliefată grosieră, alungită vertical, de culoare roșu-portocaliu până la roșu-carmin, care la exemplarele tinere poate fi limitată la jumătatea superioară înainte de a se extinde în jos pe picior; se pătează în albastru închis la manipulare. Nu prezintă inel, iar miceliul bazal este gălbui.",
+      "flesh": "Groasă și fermă în tinerețe, galben-palidă până la galben-lămâie în pălărie și în partea superioară a piciorului, și roșu-vinaceu intens până la roșu-rubarbă la baza inferioară a piciorului, adesea cu un strat subhimenial subțire, grena până la roșu-portocaliu (linia lui Bataille), direct deasupra tuburilor, deși acest strat lipsește ocazional. La tăiere sau lovire, carnea virează rapid și intens în albastru închis, apoi se decolorează treptat. Mirosul este slab și nedistinct sau ușor acrișor, iar gustul este blând. În reactivul Melzer, carnea de la baza piciorului prezintă o reacție puternic amiloidă (albastru închis după ce albăstrirea naturală se estompează), în timp ce hidroxidul de potasiu diluat colorează cuticula pălăriei în roșu închis până la negricios, iar carnea în galben-portocaliu.",
+      "sporePrint": "Măslinie până la brun-măslinie. Sporii sunt netezi, elipsoizi până la fusiformi, măsurând 10,5–16 × 4,5–7 µm (de obicei 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediană 2,2).",
+      "habitat": "Ectomicorizic în principal cu arbori de foioase — în special stejar, fag, tei, carpen, mesteacăn, alun și castan comestibil — și ocazional cu conifere sau subarbuști din genul Helianthemum, arătând o preferință puternică pentru solurile calcaroase, alcaline sau cretoase și apărând rar pe terenuri acide. Fructifică solitar sau în grupuri răsfirate pe sol, în păduri de foioase și de amestec, parcuri, alei și de-a lungul malurilor de iazuri din iunie până în noiembrie, cel mai abundent din iunie până în octombrie, după ploile de vară.",
+      "uses": "Comestibil cu precauție după o preparare termică temeinică, fiind consumat pe scară largă în părți din Europa Centrală și de Sud. Consumul în stare crudă sau insuficient gătită provoacă intoxicații gastrointestinale în interval de 30 de minute până la două ore, cu greață, vărsături, crampe abdominale și diaree. Deoarece seamănă cu hribi toxici cu pori roșii și a fost asociat istoric cu intoleranța legată de alcool, se recomandă în mod obișnuit identificarea atentă și evitarea alcoolului la masă.",
+      "confusion": "Suillellus mendax apare sub aceleași gazde, dar preferă solurile acide, are pălăria mai roșiatică și pronunțat catifelată, o rețea mai puțin evidentă limitată la jumătatea superioară a piciorului care trece inferior în granule fine, și spori mai îngusti și mai alungiți (Q aproximativ 2,7). Suillellus queletii are aceeași bază a piciorului de culoare roșu-vinaceu și albăstrire puternică, dar îi lipsește complet rețeaua de pe picior, are carne galbenă sub tuburi și prezintă de obicei pori portocalii, nu roșu intens. Neoboletus luridiformis are pălăria catifelată brun-castanie mai închisă, preferă solurile acide, adesea cu conifere, și prezintă puncte roșii fine pe picior în loc de o rețea reliefată. Rubroboletus satanas crește de asemenea pe soluri calcaroase, dar este toxic, cu o pălărie mult mai palidă, alb-cretoasă până la cenușie și neregulată, un picior mai robust, bulbos, roșu-carmin cu rețea mai fină, albăstrire mai slabă și un miros respingător de putrefacție la bătrânețe. Rubroboletus rhodoxanthus are nuanțe rozalii pe o pălărie mai palidă, rețea mai densă și carne galben-aprins care se albăstrește doar în pălărie, rămânând galbenă în picior.",
+      "notes": "Albăstrirea rapidă în albastru închis la rănire este cauzată de oxidarea enzimatică a derivaților acidului pulvinic, în principal acidul variegatic și acidul xerocomic, la expunerea la aer. Deși stratul subhimenial grena de deasupra tuburilor (linia lui Bataille) este un caracter clasic de teren, studiile filogenetice arată că poate lipsi și nu are valoare diagnostică de unul singur în cadrul genului. Corpurile fructifere sunt puternic colonizate de larvele dipterelor, în timp ce limacșii le evită în general. Studiile experimentale de inoculare arată o toleranță neobișnuit de ridicată la salinitate în comparație cu alți hribi ectomicorizici comuni. Relatările istorice despre reacții de tip disulfiram cu alcoolul nu au fost confirmate chimic — analizele nu au identificat coprină și au atribuit cazurile anterioare confundării cu Imperator torosus, deși existența unui compus neidentificat nu a fost exclusă."
+    },
+    "ru": {
+      "label": "дубовик оливково-бурый",
+      "names": [
+        "дубовик обыкновенный"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Крупный эктомикоризный трубчатый гриб с красными порами, плодоносящий одиночно или разрозненными группами на известковых почвах в лиственных и смешанных лесах, парках и аллеях. Широко распространён по всей Европе — от Британии и Ирландии до Средиземноморья и Восточной Европы; неподтверждённые исторические сообщения из Азии и Северной Америки, вероятно, относятся к родственным видам.",
+      "cap": "Шириной 5–20 см, толстая и подушковидная, сначала полушаровидная, затем выпуклая и со временем широко распростёртая. Сухая, тонкобархатистая поверхность с возрастом становится более гладкой и слегка клейкой в сырую погоду; окраска варьирует от жёлто-оливковой, охристо-бурой или оливково-бурой до тускло-оранжево-бурой или красновато-бурой, часто с более бледным краем, а в местах надавливания темнеет до тёмно-синего или буровато-чёрного цвета.",
+      "hymenium": "Трубочки длиной 1–2 см, более короткие у края и вдавленные вокруг вершины ножки, сначала бледно-жёлтые, затем оливково-жёлтые, на воздухе приобретают сине-зелёный оттенок. Мелкие округлые поры (2–3 на мм) у молодых грибов жёлто-оранжевые, вскоре созревают до оранжево-красных или карминно-красных, часто с более бледной полосой по краю шляпки, и при прикосновении быстро синеют до тёмно-синего или сине-чёрного цвета. Базидии булавовидные, четырёхспоровые, размером 29,2–36,5 × 11,0–12,4 мкм; веретеновидные плевроцистиды и хейлоцистиды с вздутой средней частью и длинной шейкой, размером 33–48 × 7,3–13,5 мкм.",
+      "stipe": "Высотой 5–15 см и толщиной 1–5 см, плотная, в молодости булавовидная или вздутая, с возрастом цилиндрическая, часто слегка суженная или укореняющаяся в основании. Поверхность вверху бледно-жёлтая или охристо-жёлтая, к основанию темнее — красноватая до винно-красной, покрыта грубой, вертикально вытянутой рельефной сеткой от оранжево-красного до карминно-красного цвета, которая у молодых экземпляров может ограничиваться верхней половиной, а затем распространяется вниз по ножке; при прикосновении синеет до тёмно-синего. Кольцо отсутствует, базальный мицелий желтоватый.",
+      "flesh": "В молодости толстая и плотная, бледно-жёлтая до лимонно-жёлтой в шляпке и верхней части ножки и насыщенно винно-красная до ревенево-красной в самом основании ножки, часто с тонким бордовым или оранжево-красным субгимениальным слоем (линией Батайя) непосредственно над трубочками, хотя этот слой иногда отсутствует. На срезе или при повреждении мякоть быстро и интенсивно окрашивается в тёмно-синий цвет, а затем постепенно бледнеет. Запах слабый и невыразительный или слегка кисловатый, вкус мягкий. В реактиве Мельцера мякоть основания ножки даёт сильно амилоидную реакцию (тёмно-синюю после того, как естественное посинение побледнеет), тогда как разбавленный гидроксид калия окрашивает кожицу шляпки в тёмно-красный или черноватый цвет, а мякоть — в оранжево-жёлтый.",
+      "sporePrint": "Оливковый до оливково-бурого. Споры гладкие, эллипсоидные до веретеновидных, размером 10,5–16 × 4,5–7 мкм (обычно 11–15 × 4,5–6,5 мкм; Q = 1,8–2,8, медиана 2,2).",
+      "habitat": "Образует эктомикоризу преимущественно с лиственными деревьями — особенно с дубом, буком, липой, грабом, берёзой, лещиной и каштаном посевным — и изредка с хвойными или полукустарничками рода Helianthemum, проявляя сильное предпочтение к известковым, щелочным или меловым почвам и редко встречаясь на кислых грунтах. Плодоносит одиночно или разрозненными группами на почве в лиственных и смешанных лесах, парках, аллеях и по береговым насыпям прудов с июня по ноябрь, наиболее обильно с июня по октябрь после летних дождей.",
+      "uses": "Условно-съедобный после тщательной термической обработки, широко употребляется в пищу в ряде регионов Центральной и Южной Европы. Употребление в сыром или недостаточно проваренном виде вызывает желудочно-кишечное отравление через 30 минут — два часа, сопровождающееся тошнотой, рвотой, спазмами в животе и диареей. Поскольку вид сходен с ядовитыми трубчатыми грибами с красными порами и исторически связывался с непереносимостью алкоголя, обычно рекомендуются тщательное определение и отказ от алкоголя во время еды.",
+      "confusion": "Suillellus mendax встречается под теми же породами-хозяевами, но предпочитает кислые почвы, имеет более красноватую и выраженно бархатистую шляпку, менее чёткую сетку, ограниченную верхней половиной ножки и переходящую ниже в мелкую зернистость, а также более узкие и вытянутые споры (Q около 2,7). Suillellus queletii также обладает винно-красным основанием ножки и сильным посинением, но полностью лишён сетки на ножке, имеет жёлтую мякоть над трубочками и обычно оранжевые, а не густо-красные поры. Neoboletus luridiformis отличается более тёмной каштаново-бурой бархатистой шляпкой, предпочитает кислые почвы, часто с хвойными, и имеет мелкую красную крапчатость на ножке вместо рельефной сетки. Rubroboletus satanas также растёт на известковых почвах, но ядовит: у него гораздо более бледная меловидная или сероватая бугристая шляпка, более массивная клубневидная карминно-красная ножка с более тонкой сеткой, более слабое посинение и неприятный гнилостный запах в старости. Rubroboletus rhodoxanthus имеет розоватые тона на более бледной шляпке, более густую сетку и ярко-жёлтую мякоть, которая синеет только в шляпке, оставаясь жёлтой в ножке.",
+      "notes": "Быстрое тёмно-синее окрашивание при повреждении вызвано ферментативным окислением производных пульвиновой кислоты — главным образом вариегатовой и ксерокомовой кислот — при контакте с воздухом. Хотя бордовый субгимениальный слой над трубочками (линия Батайя) считается классическим полевым признаком, филогенетические исследования показывают, что он может отсутствовать и сам по себе не является диагностическим в пределах рода. Плодовые тела сильно заселяются личинками двукрылых, тогда как слизни обычно их избегают. Экспериментальные исследования инокуляции выявили необычно высокую солеустойчивость по сравнению с другими обычными эктомикоризными болетовыми. Исторические сообщения о дисульфирамоподобных реакциях с алкоголем химически не подтверждены: анализы не обнаружили коприна и отнесли прежние случаи к ошибочному определению Imperator torosus, хотя наличие неидентифицированного соединения не исключено."
+    },
+    "sk": {
+      "label": "hríb siný",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "Statný, červenopórový ektomykorízny hríbovitý druh, ktorý plodí jednotlivo alebo v roztrúsených skupinách na vápnitých pôdach v listnatých a zmiešaných lesoch, parkoch a stromoradiach. Je široko rozšírený v celej Európe od Británie a Írska až po Stredomorie a východnú Európu; neoverené historické údaje z Ázie a Severnej Ameriky pravdepodobne patria príbuzným druhom.",
+      "cap": "Široký 5–20 cm, hrubý a vankúšovitý, spočiatku polguľovitý, neskôr sa rozprestiera do klenutého a napokon široko splošteného tvaru. Suchý, jemne zamatový povrch vekom olysieva a za vlhkého počasia býva mierne slizký; farbou prechádza od žltoolivovej, okrovohnedej alebo olivovohnedej až po matne oranžovohnedú či červenohnedú, často so svetlejším okrajom, a na otlačených miestach tmavne do tmavomodra alebo hnedočierna.",
+      "hymenium": "Rúrky sú dlhé 1–2 cm, pri okraji kratšie a pri vrchole hlúbika vykrojené, spočiatku bledožlté, neskôr olivovožlté, na vzduchu sa sfarbujú do modrozelena. Drobné okrúhle póry (2–3 na mm) sú za mladi žltooranžové, čoskoro dozrievajú do oranžovočervenej až karmínovočervenej farby, často so svetlejším pásmom pozdĺž okraja klobúka, a pri dotyku rýchlo modrejú až modročernejú. Bazídiá sú kyjakovité, štvorvýtrusné a merajú 29,2–36,5 × 11,0–12,4 µm; vretenovité pleurocystidy a cheilocystidy majú bruškatý stred a dlhý krčok a merajú 33–48 × 7,3–13,5 µm.",
+      "stipe": "Vysoký 5–15 cm a hrubý 1–5 cm, statný, za mladi kyjakovitý alebo bruškatý, vekom valcovitý, pri báze často mierne zúžený alebo koreňujúci. Povrch je hore bledožltý až okrovožltý a smerom k báze tmavšie červenkastý až vínovočervený, pokrytý hrubou, zvislo pretiahnutou vystúpenou oranžovočervenou až karmínovočervenou sieťkou, ktorá môže byť u mladých plodníc obmedzená len na hornú polovicu a neskôr sa rozširuje nadol po hlúbiku; pri manipulácii tmavomodrie. Prsteň chýba a bazálne mycélium je žltkasté.",
+      "flesh": "Za mladi hrubá a pevná, v klobúku a hornej časti hlúbika bledožltá až citrónovožltá, v dolnej časti bázy hlúbika sýto vínovočervená až rebarborovočervená, často s tenkou gaštanovohnedou až oranžovočervenou subhymeniálnou vrstvou (Bataillova línia) priamo nad rúrkami, hoci táto vrstva občas chýba. Na reze alebo po otlačení dužina rýchlo a intenzívne tmavomodrie, neskôr postupne bledne. Vôňa je slabá a nevýrazná alebo mierne kyslastá, chuť je mierna. V Melzerovom činidle reaguje dužina bázy hlúbika silne amyloidne (tmavomodro po vyblednutí prirodzeného modrania), zatiaľ čo zriedený hydroxid draselný sfarbuje pokožku klobúka do tmavočervena až čierna a dužinu do oranžovožlta.",
+      "sporePrint": "Olivový až olivovohnedý. Výtrusy sú hladké, elipsoidné až vretenovité, veľké 10,5–16 × 4,5–7 µm (zvyčajne 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, medián 2,2).",
+      "habitat": "Ektomykorízny druh viazaný predovšetkým na listnaté stromy – najmä dub, buk, lipu, hrab, brezu, liesku a gaštan jedlý – a príležitostne aj na ihličnany alebo polokry rodu Helianthemum, pričom výrazne uprednostňuje vápnité, zásadité alebo kriedové pôdy a na kyslom podklade sa vyskytuje len zriedkavo. Plodí jednotlivo alebo v roztrúsených skupinách na zemi v listnatých a zmiešaných lesoch, parkoch, stromoradiach a na hrádzach rybníkov od júna do novembra, najhojnejšie od júna do októbra po letných dažďoch.",
+      "uses": "Jedlý s výhradou po dôkladnej tepelnej úprave a v častiach strednej a južnej Európy hojne zbieraný. Konzumácia v surovom alebo nedostatočne tepelne upravenom stave spôsobuje do 30 minút až dvoch hodín gastrointestinálnu otravu s nevoľnosťou, vracaním, kŕčmi v bruchu a hnačkou. Keďže sa podobá jedovatým červenopórovým hríbom a historicky sa spájal s neznášanlivosťou pri požití alkoholu, bežne sa odporúča dôkladné určenie a vyhýbanie sa alkoholu pri konzumácii.",
+      "confusion": "Suillellus mendax rastie pod tými istými hostiteľmi, ale uprednostňuje kyslé pôdy, má červenší a výrazne zamatový klobúk, menej výraznú sieťku obmedzenú na hornú polovicu hlúbika, ktorá nadol prechádza do jemných zrniečok, a užšie, pretiahnutejšie výtrusy (Q okolo 2,7). Suillellus queletii má takisto vínovočervenú bázu hlúbika a silne modrie, ale na hlúbiku mu úplne chýba sieťka, nad rúrkami má žltú dužinu a zvyčajne má oranžové, nie sýtočervené póry. Neoboletus luridiformis má tmavší gaštanovohnedý zamatový klobúk, uprednostňuje kyslé pôdy často s ihličnanmi a na hlúbiku má jemné červené bodkovanie namiesto vystúpenej sieťky. Rubroboletus satanas rastie takisto na vápnitých pôdach, ale je jedovatý, má oveľa svetlejší kriedovobiely až sivastý hrboľatý klobúk, statnejší bruškatý karmínový hlúbik s jemnejšou sieťkou, slabšie modranie a v starobe nepríjemný hnilobný zápach. Rubroboletus rhodoxanthus má na svetlejšom klobúku ružovkasté odtiene, hustejšiu sieťku a jasnožltú dužinu, ktorá modrie iba v klobúku, zatiaľ čo v hlúbiku zostáva žltá.",
+      "notes": "Rýchle tmavomodré sfarbenie pri poranení spôsobuje enzymatická oxidácia derivátov kyseliny pulvinovej, najmä kyseliny variegátovej a xerokomovej, pri styku so vzduchom. Hoci gaštanovohnedá subhymeniálna vrstva nad rúrkami (Bataillova línia) predstavuje klasický terénny znak, fylogenetické štúdie ukazujú, že môže chýbať a sama osebe nie je v rámci rodu diagnostická. Plodnice bývajú silne napádané larvami dvojkrídlovcov, zatiaľ čo slizniaky sa im zvyčajne vyhýbajú. Experimentálne inokulačné štúdie preukazujú nezvyčajne vysokú znášanlivosť voči zasoleniu v porovnaní s inými bežnými ektomykoríznymi hríbovitými hubami. Historické správy o disulfiramovým podobných reakciách s alkoholom sa chemicky nepotvrdili – analýzy nezistili žiadny koprín a staršie prípady pripísali zámene s druhom Imperator torosus, hoci prítomnosť zatiaľ neidentifikovanej látky nebola vylúčená."
+    },
+    "sl": {
+      "label": "svinjski lupljivec",
+      "names": [
+        "svinjski goban"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/3355021",
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Čokat ektomikorizni goban z rdečimi porami, ki raste posamično ali v razpršenih skupinah na apnenčastih tleh v listnatih in mešanih gozdovih, parkih ter drevoredih. Široko je razširjen po Evropi od Britanije in Irske do Sredozemlja in vzhodne Evrope, medtem ko nepreverjena zgodovinska poročila iz Azije in Severne Amerike verjetno predstavljajo sorodne vrste.",
+      "cap": "Širok 5–20 cm, debel in blazinast, sprva polkroglast, nato izbočen in nazadnje široko razprt. Suha, fino žametna površina s starostjo postane bolj gladka, v vlažnem vremenu pa rahlo lepljiva; barva sega od rumeno-olivne, okrasto rjave ali olivno rjave do zamolklo oranžnorjave ali rdečerjave, pogosto s svetlejšim robom, na pritisnjenih mestih pa potemni v temnomodro ali rjavočrno.",
+      "hymenium": "Cevke so dolge 1–2 cm, krajše ob robu in vdrte okoli vrha beta, sprva bledo rumene, nato olivno rumene, na zraku pa se obarvajo modrozeleno. Drobne, okrogle pore (2–3 na mm) so v mladosti rumeno-oranžne, kmalu dozorijo v oranžnordeče ali karminasto rdeče, pogosto s svetlejšim pasom ob robu klobuka, in ob dotiku hitro potemnijo v temnomodro do modročrno. Bazidiji so kijasti, štiritrosni, veliki 29,2–36,5 × 11,0–12,4 µm; vretenasti plevrocistidi in heilocistidi imajo napihnjen srednji del in dolge vratove ter merijo 33–48 × 7,3–13,5 µm.",
+      "stipe": "Visok 5–15 cm in debel 1–5 cm, čokat, v mladosti kijast ali trebušast, s starostjo valjast, v dnišču pogosto rahlo zožen ali koreninast. Površina je zgoraj bledo rumena do okrasto rumena, proti dnišču pa temneje rdečkasta do vinsko rdeča, prekrita z grobo, navpično podaljšano, izbočeno oranžnordečo do karminasto rdečo mrežico, ki je pri mladih primerkih lahko omejena na zgornjo polovico, preden se razširi navzdol po betu; ob prijemanju potemni v temnomodro. Obročka nima, bazalni micelij pa je rumenkast.",
+      "flesh": "V mladosti debelo in čvrsto, bledo do limonasto rumeno v klobuku in zgornjem delu beta ter globoko vinsko rdeče do rabarbarasto rdeče v spodnjem dnišču beta, pogosto s tanko kostanjevo rdečo do oranžnordečo podhimenialno plastjo (Batailleova črta) neposredno nad cevkami, čeprav ta plast občasno manjka. Na prerezu ali ob poškodbi meso hitro in intenzivno pomodri v temnomodro, nato pa postopoma obledi. Vonj je šibak in nedoločen ali rahlo kiselkast, okus pa blag. V Melzerjevem reagentu meso v dnišču beta reagira močno amiloidno (temnomodro, ko naravno modrenje obledi), razredčen kalijev hidroksid pa kožico klobuka obarva temnordeče do črnkasto, meso pa oranžnorumeno.",
+      "sporePrint": "Oliven do olivno rjav. Trosi so gladki, elipsoidni do vretenasti, veliki 10,5–16 × 4,5–7 µm (običajno 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, mediana 2,2).",
+      "habitat": "Ektomikorizna predvsem z listavci — zlasti hrastom, bukvijo, lipo, gabrom, brezo, lesko in pravim kostanjem — ter občasno z iglavci ali polgrmički rodu Helianthemum, pri čemer izrazito raje raste na apnenčastih, bazičnih ali kredastih tleh in se le redko pojavlja na kisli podlagi. Plodove tvori posamično ali v razpršenih skupinah na tleh v listnatih in mešanih gozdovih, parkih, drevoredih ter vzdolž nasipov ribnikov od junija do novembra, najbolj obilno od junija do oktobra po poletnih deževjih.",
+      "uses": "Pogojno užitna po temeljiti toplotni obdelavi in široko uživana v delih srednje ter južne Evrope. Uživanje surove ali premalo kuhane gobe povzroči prebavno zastrupitev v 30 minutah do dveh urah s slabostjo, bruhanjem, trebušnimi krči in drisko. Ker je podobna strupenim gobanom z rdečimi porami in je bila zgodovinsko povezana z intoleranco na alkohol, se običajno svetujeta skrbno določanje in izogibanje alkoholu ob obrokih.",
+      "confusion": "Suillellus mendax raste pod istimi gostitelji, vendar ima raje kisla tla, ima bolj rdečkast in izrazito žameten klobuk, manj izrazito mrežico, omejeno na zgornjo polovico beta, ki navzdol prehaja v drobna zrnca, ter ožje, bolj podolgovate trose (Q približno 2,7). Suillellus queletii ima prav tako vinsko rdeče dnišče beta in močno modrenje, vendar je brez kakršne koli mrežice na betu, ima rumeno meso pod cevkami in običajno oranžne, ne globoko rdeče pore. Neoboletus luridiformis ima temnejši kostanjevo rjav žameten klobuk, raje raste na kislih tleh, pogosto z iglavci, in ima na betu drobne rdeče pikice namesto izbočene mrežice. Rubroboletus satanas prav tako raste na apnenčastih tleh, vendar je strupena, z veliko svetlejšim kredasto belim do sivkastim grčastim klobukom, čokatejšim gomoljastim karminasto rdečim betom s finejšo mrežico, šibkejšim modrenjem in neprijetnim gnilobnim vonjem v starosti. Rubroboletus rhodoxanthus ima rožnate odtenke na svetlejšem klobuku, gostejšo mrežico in živorumeno meso, ki pomodri le v klobuku, v betu pa ostane rumeno.",
+      "notes": "Hitro temnomodro obarvanje ob poškodbi povzroča encimska oksidacija derivatov pulvinske kisline, predvsem variegatne in kserokomne kisline, ob stiku z zrakom. Čeprav je kostanjevo rdeča podhimenialna plast nad cevkami (Batailleova črta) klasičen terenski znak, filogenetske raziskave kažejo, da lahko manjka in sama po sebi ni diagnostična znotraj rodu. Trosnjake močno naseljujejo ličinke dvokrilcev, medtem ko se jih polži lazarji praviloma izogibajo. Eksperimentalne inokulacijske študije kažejo nenavadno visoko odpornost na slanost v primerjavi z drugimi pogostimi ektomikoriznimi gobani. Zgodovinska poročila o disulfiramu podobnih reakcijah z alkoholom niso bila kemijsko potrjena — analize niso odkrile koprina in so pretekle primere pripisale zamenjavi z vrsto Imperator torosus, čeprav prisotnost neznane spojine ni bila izključena."
+    },
+    "sr": {
+      "label": "ковара",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Снажан ектомикоризни вргањ црвених пора који плодоноси појединачно или у расутим групама на кречњачким земљиштима у листопадним и мешовитим шумама, парковима и дрворедима. Широко је распрострањен широм Европе, од Британије и Ирске до Средоземља и источне Европе, док непотврђени историјски налази из Азије и Северне Америке вероватно представљају сродне врсте.",
+      "cap": "Широк 5–20 cm, дебео и јастучаст, у почетку полулоптаст, затим испупчен и на крају широко раван. Сува, фино баршунаста површина са старошћу постаје глаткија, а по влажном времену благо лепљива; боја варира од жутомаслинасте, окерсмеђе или маслинастосмеђе до загасито наранџастосмеђе или црвенкастосмеђе, често са блеђим рубом, а на притисак потамни у тамноплаву или смеђецрну.",
+      "hymenium": "Цевчице су дуге 1–2 cm, краће уз руб и удубљене око врха дршке, у почетку бледожуте, затим маслинастожуте, а на ваздуху постају плавозелене. Ситне, округле поре (2–3 по mm) у младости су жутонаранџасте, убрзо сазревају у наранџастоцрвене или карминцрвене, често са блеђим појасом дуж руба шешира, и на додир брзо потамне у тамноплаву до плавоцрну. Базидије су батинасте, четвороспорне, величине 29,2–36,5 × 11,0–12,4 µm; вретенасти плеуроцистидији и хеилоцистидији имају проширену средину и дуге вратове, величине 33–48 × 7,3–13,5 µm.",
+      "stipe": "Висока 5–15 cm и дебела 1–5 cm, снажна, у младости батинаста или трбушаста, са старошћу ваљкаста, при дну често благо сужена или коренаста. Површина је горе бледожута до окержута, а према дну тамније црвенкаста до виноцрвена, прекривена грубом, вертикално издуженом, рељефном наранџастоцрвеном до карминцрвеном мрежицом која код младих примерака може бити ограничена на горњу половину пре него што се прошири низ дршку; при додиру потамни у тамноплаву. Прстена нема, а базални мицелијум је жућкаст.",
+      "flesh": "У младости дебело и чврсто, бледожуто до лимунжуто у шеширу и горњем делу дршке, а дубоко виноцрвено до рабарбариноцрвено у доњем дну дршке, често са танким кестењастоцрвеним до наранџастоцрвеним субхименијалним слојем (Батајова линија) непосредно изнад цевчица, иако тај слој повремено недостаје. На пресеку или оштећењу месо брзо и интензивно потамни у тамноплаву пре него што постепено избледи. Мирис је слаб и неодређен или благо киселкаст, а укус благ. У Мелзеровом реагенсу месо при дну дршке реагује снажно амилоидно (тамноплаво након што природно плављење избледи), док разблажени калијум-хидроксид кожицу шешира боји тамноцрвено до црнкасто, а месо наранџастожуто.",
+      "sporePrint": "Маслинаст до маслинастосмеђ. Споре су глатке, елипсоидне до вретенасте, величине 10,5–16 × 4,5–7 µm (обично 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, медијана 2,2).",
+      "habitat": "Ектомикоризна првенствено са листопадним дрвећем — посебно храстом, буквом, липом, грабом, брезом, леском и питомим кестеном — и повремено са четинарима или полужбуновима рода Helianthemum, показујући снажну склоност ка кречњачким, алкалним или кредастим земљиштима, док се ретко јавља на киселој подлози. Плодоноси појединачно или у расутим групама на тлу у листопадним и мешовитим шумама, парковима, дрворедима и дуж насипа рибњака од јуна до новембра, најобилније од јуна до октобра након летњих киша.",
+      "uses": "Условно јестива након темељне термичке обраде и широко конзумирана у деловима средње и јужне Европе. Конзумирање у сировом или недовољно куваном стању изазива гастроинтестинално тровање у року од 30 минута до два сата, са мучнином, повраћањем, грчевима у стомаку и проливом. Пошто личи на отровне вргање црвених пора и историјски се повезивала са нетолеранцијом на алкохол, уобичајено се саветују пажљива идентификација и избегавање алкохола уз оброке.",
+      "confusion": "Suillellus mendax се јавља под истим домаћинима, али преферира кисела земљишта, има црвенкастији и изразито баршунаст шешир, мање изражену мрежицу ограничену на горњу половину дршке која надоле прелази у ситна зрнца, као и уже, издуженије споре (Q око 2,7). Suillellus queletii дели виноцрвено дно дршке и снажно плављење, али нема никакву мрежицу на дршци, има жуто месо испод цевчица и обично наранџасте, а не дубоко црвене поре. Neoboletus luridiformis има тамнији кестењастосмеђи баршунасти шешир, преферира кисела земљишта често са четинарима и носи ситне црвене пеге на дршци уместо рељефне мрежице. Rubroboletus satanas такође расте на кречњачким земљиштима, али је отровна, са много блеђим кредастобелим до сивкастим неравним шеширом, снажнијом гомољастом карминцрвеном дршком са финијом мрежицом, слабијим плављењем и непријатним мирисом трулежи у старости. Rubroboletus rhodoxanthus има ружичасте тонове на блеђем шеширу, гушћу мрежицу и јаркожуто месо које поплави само у шеширу, док у дршци остаје жуто.",
+      "notes": "Брзо тамноплаво бојење при повреди изазвано је ензимском оксидацијом деривата пулвинске киселине, првенствено варијегатне и ксерокомне киселине, при излагању ваздуху. Иако је кестењастоцрвени субхименијални слој изнад цевчица (Батајова линија) класичан теренски знак, филогенетска истраживања показују да може недостајати и сам по себи није дијагностички унутар рода. Плодна тела снажно насељавају ларве двокрилаца, док их голаћи углавном избегавају. Експерименталне студије инокулације показују неуобичајено високу отпорност на салинитет у поређењу са другим честим ектомикоризним вргањима. Историјски извештаји о реакцијама сличним дисулфираму са алкохолом нису хемијски потврђени — анализе нису пронашле коприн и приписале су прошле случајеве погрешној идентификацији врсте Imperator torosus, иако неидентификовано једињење није искључено."
+    },
+    "sv": {
+      "label": "eldsopp",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "En kraftig, ektomykorrhizabildande sopp med röda porer som växer enstaka eller i spridda grupper på kalkrik mark i löv- och blandskogar, parker och alléer. Vidsträckt utbredd i Europa från Storbritannien och Irland till Medelhavsområdet och Östeuropa, medan obekräftade historiska fynd från Asien och Nordamerika sannolikt avser närstående arter.",
+      "cap": "5–20 cm bred, tjock och dynformad, först halvklotformad, därefter välvd och till slut brett utbredd. Den torra, fint sammetsludna ytan blir slätare med åldern och lätt klibbig i fuktigt väder; färgen varierar från guloliv, ockrabrun eller olivbrun till matt orangebrun eller rödbrun, ofta med ljusare hattkant, och den mörknar till mörkblått eller brunsvart vid tryck.",
+      "hymenium": "Rören är 1–2 cm långa, kortare mot kanten och intryckta kring fotspetsen, först blekgula och senare olivgula, och de blånar i blågrönt vid kontakt med luft. De små, rundade porerna (2–3 per mm) är gulorange som unga och övergår snart till orangerött eller karminrött, ofta med en ljusare zon längs hattkanten, och de färgas snabbt mörkblå till blåsvarta vid beröring. Basidierna är klubbformade, fyrsporiga och mäter 29,2–36,5 × 11,0–12,4 µm; spolformade pleurocystider och cheilocystider har uppsvälld mitt och lång hals och mäter 33–48 × 7,3–13,5 µm.",
+      "stipe": "5–15 cm hög och 1–5 cm tjock, kraftig, klubbformad eller uppsvälld som ung och med åldern cylindrisk, ofta lätt avsmalnande eller rotlikt förlängd vid basen. Ytan är blekgul till ockragul upptill och mörkare rödaktig till vinröd mot basen, täckt av ett grovt, vertikalt utdraget, upphöjt orangerött till karminrött ådernät som hos unga fruktkroppar kan vara begränsat till den övre halvan innan det breder ut sig nedåt längs foten; den blånar mörkblått vid hantering. Ring saknas och basalmycelet är gulaktigt.",
+      "flesh": "Tjockt och fast som ungt, blek- till citrongult i hatten och övre delen av foten samt djupt vinrött till rabarberrött i fotbasen, ofta med ett tunt kastanjerött till orangerött subhymenialt skikt (Batailles linje) direkt ovanför rören, även om detta skikt ibland saknas. Vid snitt eller tryck färgas köttet snabbt och intensivt mörkblått innan färgen gradvis bleknar. Doften är svag och obestämd eller milt syrlig, och smaken är mild. I Melzers reagens reagerar köttet i fotbasen starkt amyloid (mörkblått när den naturliga blånaden har avtagit), medan utspädd kaliumhydroxid färgar hatthuden mörkröd till svartaktig och köttet orangegult.",
+      "sporePrint": "Olivfärgat till olivbrunt. Sporerna är släta, ellipsoida till spolformade och mäter 10,5–16 × 4,5–7 µm (vanligen 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, median 2,2).",
+      "habitat": "Ektomykorrhizabildande främst med lövträd – särskilt ek, bok, lind, avenbok, björk, hassel och äkta kastanj – och ibland med barrträd eller dvärgbuskar i släktet Helianthemum, med stark förkärlek för kalkrik, alkalisk eller kritrik mark och sällan förekommande på sur jord. Den bildar fruktkroppar enstaka eller i spridda grupper på marken i löv- och blandskogar, parker, alléer och längs dammvallar från juni till november, rikligast från juni till oktober efter sommarregn.",
+      "uses": "Ätlig med försiktighet efter noggrann tillagning och allmänt äten i delar av Central- och Sydeuropa. Förtäring i rått eller otillräckligt tillagat tillstånd orsakar mag-tarmförgiftning inom 30 minuter till två timmar med illamående, kräkningar, magkramper och diarré. Eftersom den liknar giftiga rödporiga soppar och historiskt har förknippats med alkoholintolerans rekommenderas noggrann artbestämning samt att undvika alkohol i samband med måltiden.",
+      "confusion": "Suillellus mendax förekommer under samma värdträd men föredrar sur mark, har en rödare och tydligt sammetsluden hatt, ett mindre markerat ådernät begränsat till fotens övre halva som nedåt övergår i fina korn, samt smalare, mer långsträckta sporer (Q omkring 2,7). Suillellus queletii delar den vinröda fotbasen och den kraftiga blånaden men saknar helt ådernät på foten, har gult kött ovanför rören och har vanligen orange snarare än djupröda porer. Neoboletus luridiformis har en mörkare kastanjebrun, sammetsluden hatt, föredrar sur mark ofta med barrträd och har fina röda prickar på foten i stället för ett upphöjt ådernät. Rubroboletus satanas växer också på kalkrik mark men är giftig, med en betydligt blekare kritvit till gråaktig knölig hatt, en kraftigare, uppsvälld karminröd fot med finare ådernät, svagare blånad och en obehaglig ruttnande lukt med åldern. Rubroboletus rhodoxanthus har rosa toner på en blekare hatt, tätare ådernät och klart gult kött som bara blånar i hatten men förblir gult i foten.",
+      "notes": "Den snabba mörkblå färgningen vid skada orsakas av enzymatisk oxidation av pulvinsyraderivat, främst variegatsyra och xerocomsyra, vid kontakt med luft. Även om det kastanjeröda subhymeniala skiktet ovanför rören (Batailles linje) är en klassisk fältkaraktär visar fylogenetiska studier att det kan saknas och inte ensamt är diagnostiskt inom släktet. Fruktkropparna angrips kraftigt av tvåvingelarver, medan sniglar i regel undviker dem. Experimentella inokuleringsförsök visar ovanligt hög salttolerans jämfört med andra vanliga ektomykorrhizabildande soppar. Historiska rapporter om disulfiramliknande reaktioner med alkohol har inte bekräftats kemiskt – analyser har inte påvisat koprin och har tillskrivit tidigare fall förväxling med Imperator torosus, även om en oidentifierad förening inte har uteslutits."
+    },
+    "tr": {
+      "names": [],
+      "sourceUrls": [],
+      "description": "Yapraklı ve karışık ormanlarda, parklarda ve ağaçlıklı yollarda kireçli topraklarda tek tek ya da dağınık gruplar hâlinde meyve veren, sağlam yapılı, kırmızı gözenekli ektomikorizal bir bolet türüdür. Britanya ve İrlanda'dan Akdeniz'e ve Doğu Avrupa'ya kadar Avrupa genelinde yaygın olarak bulunur; Asya ve Kuzey Amerika'dan bildirilen doğrulanmamış tarihsel kayıtlar muhtemelen akraba türlere aittir.",
+      "cap": "5–20 cm genişliğinde, kalın ve yastık biçimindedir; başlangıçta yarım küre şeklindedir, zamanla dışbükeyleşir ve sonunda genişçe yayvanlaşır. Kuru, ince kadifemsi yüzeyi yaşlandıkça daha pürüzsüz olur ve yağışlı havalarda hafifçe yapışkanlaşır; rengi sarı-zeytin, aşıboyası-kahverengi veya zeytin-kahverengiden mat turuncu-kahverengiye ya da kırmızımsı kahverengiye kadar değişir, kenarları sıklıkla daha soluktur ve zedelenen yerlerde koyu maviye ya da kahverengimsi siyaha kararır.",
+      "hymenium": "Borucuklar 1–2 cm uzunluğundadır, kenara yakın yerlerde daha kısadır ve sapın tepe kısmı çevresinde çöküktür; başlangıçta soluk sarıdır, zamanla zeytin-sarıya döner ve havayla temas edince mavimsi yeşile boyanır. Küçük, yuvarlak gözenekler (mm başına 2–3 adet) gençken sarı-turuncudur, kısa sürede turuncu-kırmızı veya koyu kızıl-kırmızıya olgunlaşır, şapka kenarı boyunca sıklıkla daha soluk bir kuşak taşır ve dokunulduğunda hızla koyu mavi ile mavi-siyah arasına kararır. Bazidiyumlar lobut biçiminde, dört sporlu ve 29,2–36,5 × 11,0–12,4 µm boyutlarındadır; iğ biçimli plevrosistidyumlar ve keylosistidyumlar şişkin orta kısımlara ve uzun boyunlara sahip olup 33–48 × 7,3–13,5 µm ölçülerindedir.",
+      "stipe": "5–15 cm boyunda ve 1–5 cm kalınlığındadır; sağlam yapılı, gençken lobut biçiminde veya şişkin olup yaşlandıkça silindirik hâle gelir ve tabanda çoğu kez hafifçe incelir ya da köksü uzantı yapar. Yüzeyi üstte soluk sarıdan aşıboyası-sarıya, tabana doğru ise daha koyu kırmızımsıdan şarap kırmızısına döner; üzeri genç örneklerde sapın üst yarısıyla sınırlı kalıp sonradan aşağıya doğru yayılabilen, kaba, dikey olarak uzamış, kabartmalı turuncu-kırmızı ila kızıl-kırmızı bir ağ deseniyle kaplıdır ve tutulduğunda koyu maviye kararır. Yüzük bulunmaz ve taban miselyumu sarımsıdır.",
+      "flesh": "Gençken kalın ve serttir; şapkada ve sapın üst kısmında soluk sarıdan limon sarısına, sapın alt tabanında ise koyu şarap kırmızısından ravent kırmızısına döner ve zaman zaman bulunmasa da borucukların hemen üzerinde çoğu kez ince, bordo ila turuncu-kırmızı bir subhimenyal tabaka (Bataille çizgisi) görülür. Kesildiğinde veya zedelendiğinde etli kısım hızla ve yoğun biçimde koyu maviye döner, ardından yavaş yavaş solar. Kokusu zayıf ve belirsiz ya da hafif ekşimsidir; tadı yumuşaktır. Melzer reaktifinde sap tabanındaki etli kısım güçlü amiloid tepkime verir (doğal mavileşme solduktan sonra koyu mavi olur); seyreltik potasyum hidroksit ise şapka kütikülünü koyu kırmızıdan siyahımsıya, etli kısmı ise turuncu-sarıya boyar.",
+      "sporePrint": "Zeytin rengi ila zeytin-kahverengi. Sporlar pürüzsüz, elipsoit ila iğ biçimli olup 10,5–16 × 4,5–7 µm (genellikle 11–15 × 4,5–6,5 µm; Q = 1,8–2,8, medyan 2,2) boyutlarındadır.",
+      "habitat": "Başta meşe, kayın, ıhlamur, gürgen, huş, fındık ve tatlı kestane olmak üzere ağırlıklı olarak yapraklı ağaçlarla, nadiren de ibrelilerle veya Helianthemum yarı çalılarıyla ektomikorizal ilişki kurar; kireçli, alkali veya tebeşirli toprakları belirgin biçimde tercih eder ve asidik zeminlerde nadiren görülür. Yapraklı ve karışık ormanlarda, parklarda, ağaçlıklı yollarda ve gölet setleri boyunca toprak üzerinde hazirandan kasıma kadar, en bol olarak ise yaz yağmurlarının ardından hazirandan ekime kadar tek tek ya da dağınık gruplar hâlinde meyve verir.",
+      "uses": "İyice pişirildikten sonra şartlı yenilebilir ve Orta ile Güney Avrupa'nın bazı bölgelerinde yaygın olarak tüketilir. Çiğ ya da az pişmiş tüketilmesi 30 dakika ile iki saat içinde bulantı, kusma, karın krampları ve ishalle seyreden mide-bağırsak zehirlenmesine yol açar. Zehirli kırmızı gözenekli boletlere benzediği ve geçmişte alkolle ilişkili tahammülsüzlükle ilişkilendirildiği için dikkatli teşhis ve yemeklerle birlikte alkolden kaçınılması yaygın olarak önerilir.",
+      "confusion": "Suillellus mendax aynı konukçuların altında yetişir ancak asidik toprakları tercih eder; şapkası daha kırmızımsı ve belirgin biçimde kadifemsidir, sapın üst yarısıyla sınırlı daha az belirgin ağ deseni aşağıda ince taneciklere dönüşür ve sporları daha dar ve uzundur (Q yaklaşık 2,7). Suillellus queletii de şarap kırmızısı sap tabanını ve güçlü mavileşmeyi paylaşır ancak sapında hiç ağ deseni yoktur, borucukların üstündeki etli kısım sarıdır ve genellikle koyu kırmızı yerine turuncu gözenekler taşır. Neoboletus luridiformis daha koyu kestane-kahverengi kadifemsi bir şapkaya sahiptir, çoğu zaman ibrelilerle birlikte asidik toprakları tercih eder ve sapında kabartmalı ağ deseni yerine ince kırmızı benekler bulunur. Rubroboletus satanas da kireçli topraklarda yetişir ancak zehirlidir; çok daha soluk, tebeşir beyazı ila grimsi tümsekli bir şapkaya, daha ince ağ desenli, daha kalın ve soğanımsı kızıl bir sapa, daha zayıf mavileşmeye ve yaşlandıkça pis bir çürüme kokusuna sahiptir. Rubroboletus rhodoxanthus daha soluk şapkasında pembemsi tonlar, daha sık bir ağ deseni ve yalnızca şapkada mavileşip sapta sarı kalan parlak sarı etli kısım taşır.",
+      "notes": "Zedelenme üzerine hızlı koyu mavi renk değişimi, başta variegatik ve kserokomik asitler olmak üzere pulvinik asit türevlerinin havayla temas ettiğinde enzimatik oksidasyona uğramasından kaynaklanır. Borucukların üzerindeki bordo subhimenyal tabaka (Bataille çizgisi) klasik bir arazi karakteri olsa da filogenetik çalışmalar bunun bulunmayabileceğini ve cins içinde tek başına ayırt edici olmadığını göstermektedir. Meyve gövdeleri çift kanatlı larvaları tarafından yoğun biçimde istila edilirken, sümüklüböcekler genellikle onlardan uzak durur. Deneysel inokulasyon çalışmaları, diğer yaygın ektomikorizal boletlere kıyasla olağan dışı derecede yüksek tuzluluk toleransı ortaya koymuştur. Alkolle birlikte disülfiram benzeri tepkimelere ilişkin tarihsel bildirimler kimyasal olarak doğrulanmamıştır; analizler koprin bulmamış ve geçmiş vakaları Imperator torosus ile karıştırılmasına bağlamıştır, ancak henüz tanımlanmamış bir bileşiğin varlığı dışlanmamıştır."
+    },
+    "uk": {
+      "label": "дубовик",
+      "names": [
+        "синюх"
+      ],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021",
+        "https://www.wikidata.org/wiki/Q752494"
+      ],
+      "description": "Міцний ектомікоризний трубчастий гриб із червоними порами, що плодоносить поодинці або розсіяними групами на вапнякових ґрунтах у листяних і мішаних лісах, парках та алеях. Широко поширений у Європі — від Британії та Ірландії до Середземномор'я і Східної Європи; непідтверджені історичні повідомлення з Азії та Північної Америки, ймовірно, стосуються споріднених видів.",
+      "cap": "Завширшки 5–20 см, товста і подушкоподібна, спочатку напівкуляста, згодом опукла і врешті-решт широко розпростерта. Суха, тонкооксамитова поверхня з віком стає гладшою і злегка клейкою у вологу погоду; забарвлення варіює від жовто-оливкового, вохристо-бурого або оливково-бурого до тьмяно-оранжево-бурого чи червонувато-бурого, часто зі світлішим краєм, а в місцях натискання темнішає до темно-синього або бурувато-чорного.",
+      "hymenium": "Трубочки завдовжки 1–2 см, коротші біля краю та втиснуті навколо верхівки ніжки, спочатку блідо-жовті, згодом оливково-жовті, на повітрі набувають синьо-зеленого забарвлення. Дрібні округлі пори (2–3 на мм) у молодих грибів жовто-оранжеві, невдовзі дозрівають до оранжево-червоних або карміново-червоних, часто зі світлішою смугою вздовж краю шапинки, і при дотику швидко синіють до темно-синього чи синьо-чорного. Базидії булавоподібні, чотириспорові, розміром 29,2–36,5 × 11,0–12,4 мкм; веретеноподібні плевроцистиди і хейлоцистиди мають роздуту середину та довгу шийку, розміром 33–48 × 7,3–13,5 мкм.",
+      "stipe": "Заввишки 5–15 см і завтовшки 1–5 см, міцна, у молодості булавоподібна або здута, з віком циліндрична, часто злегка звужена чи вкорінена біля основи. Поверхня зверху блідо-жовта до вохристо-жовтої, до основи темніша — червонувата до винно-червоної, вкрита грубою, вертикально витягнутою рельєфною оранжево-червоною або карміново-червоною сіткою, яка в молодих екземплярів може обмежуватися верхньою половиною, перш ніж поширитися вниз по ніжці; при дотику синіє до темно-синього. Кільце відсутнє, базальний міцелій жовтуватий.",
+      "flesh": "У молодості товстий і щільний, від блідо-жовтого до лимонно-жовтого в шапинці й верхній частині ніжки та насичено винно-червоний до ревенево-червоного в нижній основі ніжки, часто з тонким бордовим або оранжево-червоним субгіменіальним шаром (лінія Батая) безпосередньо над трубочками, хоча цей шар іноді відсутній. На зрізі або при пошкодженні м'якуш швидко й інтенсивно темнішає до темно-синього, після чого поступово блідне. Запах слабкий і невиразний або злегка кислуватий, смак м'який. У реактиві Мельцера м'якуш основи ніжки дає сильно амілоїдну реакцію (темно-синій колір після того, як природне посиніння зблідне), тоді як розведений гідроксид калію забарвлює шкірку шапинки в темно-червоний до чорнуватого, а м'якуш — в оранжево-жовтий.",
+      "sporePrint": "Оливковий до оливково-бурого. Спори гладкі, еліпсоїдні до веретеноподібних, розміром 10,5–16 × 4,5–7 мкм (зазвичай 11–15 × 4,5–6,5 мкм; Q = 1,8–2,8, медіана 2,2).",
+      "habitat": "Ектомікоризний переважно з листяними деревами — особливо дубом, буком, липою, грабом, березою, ліщиною та каштаном їстівним — і зрідка з хвойними або напівчагарничками роду Helianthemum, виявляючи сильну схильність до вапнякових, лужних чи крейдяних ґрунтів і рідко трапляючись на кислих ґрунтах. Плодоносить поодинці або розсіяними групами на ґрунті в листяних і мішаних лісах, парках, алеях та вздовж гребель ставків із червня до листопада, найрясніше з червня до жовтня після літніх дощів.",
+      "uses": "Умовно-їстівний після ретельної термічної обробки, широко споживається в частині Центральної та Південної Європи. Вживання в сирому або недостатньо провареному вигляді спричиняє шлунково-кишкове отруєння через 30 хвилин — дві години з нудотою, блюванням, спазмами в животі та діареєю. Оскільки гриб схожий на отруйні трубчасті гриби з червоними порами та історично пов'язувався з непереносимістю алкоголю, зазвичай радять ретельно визначати вид і уникати алкоголю під час їжі.",
+      "confusion": "Suillellus mendax трапляється під тими самими деревами-господарями, але віддає перевагу кислим ґрунтам, має червонуватішу й виразно оксамитову шапинку, менш помітну сітку, обмежену верхньою половиною ніжки, що нижче переходить у дрібну зернистість, а також вужчі, більш видовжені спори (Q близько 2,7). Suillellus queletii також має винно-червону основу ніжки й сильне посиніння, але зовсім не має сітки на ніжці, має жовтий м'якуш під трубочками і зазвичай оранжеві, а не темно-червоні пори. Neoboletus luridiformis має темнішу каштаново-буру оксамитову шапинку, віддає перевагу кислим ґрунтам, часто з хвойними, і вкритий дрібними червоними цятками на ніжці замість рельєфної сітки. Rubroboletus satanas також росте на вапнякових ґрунтах, але є отруйним, із значно блідішою крейдяно-білою до сіруватої горбкуватою шапинкою, масивнішою бульбоподібною карміново-червоною ніжкою з тоншою сіткою, слабшим посинінням і неприємним гнильним запахом у старості. Rubroboletus rhodoxanthus має рожевуваті відтінки на блідішій шапинці, густішу сітку та яскраво-жовтий м'якуш, що синіє лише в шапинці, залишаючись жовтим у ніжці.",
+      "notes": "Швидке темно-синє забарвлення при пошкодженні спричинене ферментативним окисненням похідних пульвінової кислоти, переважно варієгатової та ксерокомової кислот, при контакті з повітрям. Хоча бордовий субгіменіальний шар над трубочками (лінія Батая) є класичною польовою ознакою, філогенетичні дослідження показують, що він може бути відсутнім і сам по собі не є діагностичним у межах роду. Плодові тіла сильно заселяються личинками двокрилих, тоді як слимаки зазвичай їх уникають. Експериментальні дослідження інокуляції свідчать про незвично високу солестійкість порівняно з іншими звичайними ектомікоризними болетовими. Історичні повідомлення про дисульфірамоподібні реакції з алкоголем хімічно не підтверджені — аналізи не виявили коприну й пов'язали минулі випадки з помилковим визначенням Imperator torosus, хоча наявність неідентифікованої сполуки не виключена."
+    },
+    "zh": {
+      "label": "紅網牛肝菌",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Boletus_luridus",
+        "https://www.gbif.org/species/3355021"
+      ],
+      "description": "一種粗壯、具紅色菌孔的外生菌根牛肝菌，單生或散生於闊葉林、混交林、公園及林蔭道的石灰質土壤上。廣泛分布於歐洲各地，自英國與愛爾蘭延伸至地中海及東歐，而來自亞洲與北美洲未經核實的歷史紀錄，很可能實為近緣物種。",
+      "cap": "菌蓋寬5–20 cm，厚實呈墊狀，初期半球形，隨後展開呈凸鏡形，最終寬平。表面乾燥、具細絨毛，隨成熟漸趨平滑，潮濕天氣下略顯黏滑；色澤自黃橄欖色、赭褐色或橄欖褐色至暗橙褐色或紅褐色不等，邊緣常較淡，擦傷處變暗呈深藍色或褐黑色。",
+      "hymenium": "菌管長1–2 cm，近菌蓋邊緣處較短，於菌柄頂端周圍凹陷；初期淡黃色，後轉橄欖黃色，暴露於空氣中時變為藍綠色。菌孔細小圓形（每mm 2–3個），幼時黃橙色，很快成熟為橙紅色或深紅色，沿菌蓋邊緣常有一圈較淡區域，觸碰後迅速變為深藍色至藍黑色。擔子棒狀、四孢子，大小為29.2–36.5 × 11.0–12.4 µm；梭形的側囊狀體與緣囊狀體中部膨大並具長頸，大小為33–48 × 7.3–13.5 µm。",
+      "stipe": "菌柄高5–15 cm、粗1–5 cm，粗壯，幼時棒狀或膨大，隨成熟變為圓柱形，基部常略微收細或呈根狀。表面上部淡黃色至赭黃色，向基部轉為較暗的紅色至葡萄酒紅色，其上覆有粗大、縱向拉長的橙紅色至深紅色隆起網紋；幼菌時期網紋可能僅限於上半部，隨後向下延伸至菌柄；觸碰後變為深藍色。無菌環，基部菌絲帶黃色。",
+      "flesh": "菌肉幼時厚實緊緻，菌蓋與菌柄上部呈淡黃色至檸檬黃色，菌柄下部基部呈深葡萄酒紅色至大黃紅色；菌管正上方常有一層暗褐紅色至橙紅色的薄子實層下層（巴塔耶線），但此層偶爾缺失。切開或擦傷時，菌肉迅速且強烈地變為深藍色，隨後逐漸褪色。氣味微弱不明顯或略帶酸味，味道溫和。菌柄基部菌肉遇梅澤試劑呈強類澱粉反應（待自然藍變褪去後顯深藍色），而稀氫氧化鉀溶液可將菌蓋表皮染成暗紅色至黑褐色，並將菌肉染成橙黃色。",
+      "sporePrint": "橄欖色至橄欖褐色。孢子平滑，橢圓形至梭形，大小為10.5–16 × 4.5–7 µm（通常11–15 × 4.5–6.5 µm；Q = 1.8–2.8，中位數2.2）。",
+      "habitat": "主要與闊葉樹形成外生菌根——特別是櫟樹、山毛櫸、椴樹、鵝耳櫪、樺樹、榛樹及甜栗——偶爾亦與針葉樹或半日花屬（Helianthemum）亞灌木共生，強烈偏好石灰質、鹼性或白堊質土壤，極少見於酸性地面。六月至十一月單生或散生於落葉林、混交林、公園、林蔭道及池塘堤岸地面，其中夏季降雨後的六月至十月最為豐富。",
+      "uses": "徹底煮熟後可謹慎食用，在中歐及南歐部分地區廣泛食用。生食或未煮熟會於30分鐘至兩小時內引起腸胃中毒，出現噁心、嘔吐、腹絞痛與腹瀉。由於外形酷似有毒的紅孔牛肝菌，且歷史上曾與酒精相關不耐反應相聯繫，通常建議仔細辨識並避免佐酒食用。",
+      "confusion": "Suillellus mendax生長於相同寄主下但偏好酸性土壤，菌蓋較紅且絨毛更明顯，網紋較不明顯並僅限於菌柄上半部、向下過渡為細顆粒，孢子也更狹長（Q約2.7）。Suillellus queletii同樣具有葡萄酒紅色的菌柄基部與強烈藍變，但菌柄全無網紋，菌管下方菌肉呈黃色，且菌孔通常為橙色而非深紅色。Neoboletus luridiformis具有更暗的栗褐色絨毛菌蓋，偏好常伴針葉樹的酸性土壤，菌柄上具細紅點而非隆起網紋。Rubroboletus satanas亦生於石灰質土壤但有毒，菌蓋明顯更淡呈粉筆白色至灰白色且凹凸不平，菌柄更粗壯呈球莖狀、深紅色且網紋較細，藍變較弱，老熟時具惡臭腐敗氣味。Rubroboletus rhodoxanthus較淡的菌蓋帶有粉紅色調，網紋更緻密，鮮黃色菌肉僅在菌蓋處變藍，菌柄內則保持黃色。",
+      "notes": "受傷後迅速呈深藍色，是由於暴露於空氣時，普爾文酸衍生物（主要為雜色酸與絨蓋牛肝菌酸）發生酵素氧化所致。雖然菌管上方的暗褐紅色子實層下層（巴塔耶線）是經典的野外辨識特徵，但親緣演化研究顯示其可能缺失，單憑此特徵不足以作為本屬內的鑑別依據。子實體極易遭受雙翅目幼蟲蛀食，而蛞蝓通常避而遠之。實驗接種研究顯示，相較於其他常見外生菌根牛肝菌，其耐鹽性異常高。歷史上有關與酒精併服產生類雙硫崙反應的報導尚未獲化學證實——分析未檢出鬼傘素，並將過去案例歸因於誤認為Imperator torosus，但仍未排除存在未鑑定化合物的可能。"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Boletus luridus",
+      "author": "Schaeff.",
+      "year": 1774,
+      "rank": "species",
+      "type": "basionym",
+      "if": 246945
+    },
+    {
+      "name": "Leccinum luridum",
+      "author": "(Schaeff.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Tubiporus luridus",
+      "author": "(Schaeff.) P. Karst.",
+      "year": 1881,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Dictyopus luridus",
+      "author": "(Schaeff.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Suillus luridus",
+      "author": "(Schaeff.) Richon & Roze",
+      "year": 1888,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Boletus subvescus",
+      "author": "J.F. Gmel.",
+      "year": 1792,
+      "rank": "species",
+      "type": "homotypic"
+    },
+    {
+      "name": "Boletus rubeolarius",
+      "author": "Bull.",
+      "year": 1791,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Suillus rubeolarius",
+      "author": "(Bull.) Poir.",
+      "year": 1806,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Leccinum rubeolarium",
+      "author": "(Bull.) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Boletus tuberosus",
+      "author": "Bull.",
+      "year": 1791,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Dictyopus tuberosus",
+      "author": "(Bull.) Quél.",
+      "year": 1886,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Boletus xanthorhodius",
+      "author": "Schulzer",
+      "year": 1866,
+      "rank": "species",
+      "type": "heterotypic"
+    },
+    {
+      "name": "Boletus erythrentheron",
+      "author": "Bezděk",
+      "year": 1901,
+      "rank": "species",
+      "type": "heterotypic"
+    }
+  ],
+  "reserved": false,
+  "id": 237,
+  "citation": "Mycologia 1(1): 17 (1909)"
 }
 ];
