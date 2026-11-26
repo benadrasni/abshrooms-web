@@ -1166,12 +1166,15 @@ export const TAXA = {
     rank: "class"
   },
   Tremellales: {
-    rank: "order"
+    rank: "order",
+    sk: "rôsolovkotvaré"
   },
   Tremellaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "rôsolovkovité"
   },
   Tremella: {
-    rank: "genus"
+    rank: "genus",
+    sk: "rôsolovka"
   }
 };
