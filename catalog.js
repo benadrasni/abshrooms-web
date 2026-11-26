@@ -1010,7 +1010,7 @@ function searchHits(query, lang) {
     if (score < 99) hits.push({ kind: kind, name: name, label: spoken, score: score });
   });
   CATALOG.forEach(function (species) {
-    var names = [species.name].concat((species.label && species.label[lang]) ? [species.label[lang]] : [], (species.names && species.names[lang]) || [], species.synonyms || []);
+    var names = [species.name].concat((species.label && species.label[lang]) ? [species.label[lang]] : [], (species.names && species.names[lang]) || [], synonymLines(species));
     var mushroomScore = 99;
     names.forEach(function (name) {
       var folded = fold(name);
@@ -1184,7 +1184,7 @@ function ensureLookalikes() {
   CATALOG.forEach(function (species) {
     lookalikeAccepted[species.name.toLowerCase()] = species;
     (species.synonyms || []).forEach(function (citation) {
-      var match = String(citation).match(/^([A-Z][A-Za-z-]{2,}) ([a-z][a-z-]{2,})\b/);
+      var match = synonymLine(citation).match(/^([A-Z][A-Za-z-]{2,}) ([a-z][a-z-]{2,})\b/);
       if (!match) return;
       var key = (match[1] + " " + match[2]).toLowerCase();
       if (lookalikeAccepted[key]) return;
@@ -1269,9 +1269,53 @@ function rankLine(lang, name, full) {
   return '<div class="' + (full ? "rank-full" : "rank") + '"><div class="rk">' + esc(label) + "</div><div>" + rankBody(lang, name) + "</div></div>";
 }
 
-function synonymName(name) {
-  var parts = String(name).match(/^(\S+\s+\S+)(?:\s+([\s\S]+))?$/);
-  if (!parts || !parts[2]) return '<span class="latin">' + esc(name) + "</span>";
+// Newer catalog rows store {name, author}. Older rows store one citation string.
+function synonymLine(synonym) {
+  if (synonym && typeof synonym === "object") {
+    var name = String(synonym.name || "").trim();
+    var author = String(synonym.author || "").trim();
+    if (!name) return "";
+    return author ? name + " " + author : name;
+  }
+  return String(synonym == null ? "" : synonym).trim();
+}
+
+function synonymLines(species) {
+  return (species.synonyms || []).map(synonymLine).filter(Boolean);
+}
+
+var INFRASPECIFIC = { "var.": true, "f.": true, "subsp.": true };
+
+function scientificHtml(name) {
+  var html = "";
+  var latin = [];
+  function flush() {
+    if (!latin.length) return;
+    html += (html ? " " : "") + '<span class="latin">' + esc(latin.join(" ")) + "</span>";
+    latin = [];
+  }
+  String(name || "").trim().split(/\s+/).filter(Boolean).forEach(function (word) {
+    if (INFRASPECIFIC[word]) {
+      flush();
+      html += (html ? " " : "") + esc(word);
+      return;
+    }
+    latin.push(word);
+  });
+  flush();
+  return html;
+}
+
+function synonymName(synonym) {
+  if (synonym && typeof synonym === "object") {
+    var scientific = scientificHtml(synonym.name);
+    var author = String(synonym.author || "").trim();
+    if (!scientific) return author ? esc(author) : "";
+    return scientific + (author ? " " + esc(author) : "");
+  }
+  var line = String(synonym == null ? "" : synonym);
+  var parts = line.match(/^(\S+\s+\S+)(?:\s+([\s\S]+))?$/);
+  if (!parts || !parts[2]) return '<span class="latin">' + esc(line) + "</span>";
   return '<span class="latin">' + esc(parts[1]) + "</span> " + esc(parts[2]);
 }
 
@@ -1283,7 +1327,9 @@ function synonymFlow(names) {
 
 function synonymBlock(species, lang) {
   var copy = t(lang);
-  var names = species.synonyms || [];
+  var names = (species.synonyms || []).filter(function (synonym) {
+    return synonymLine(synonym);
+  });
   if (!names.length) return "";
   var rest = names.slice(2);
   var extra = rest.length

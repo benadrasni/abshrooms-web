@@ -618,6 +618,9 @@ export const TAXA = {
     rank: "genus",
     sk: "hadovka"
   },
+  Mutinus: {
+    rank: "genus"
+  },
   Auriculariaceae: {
     rank: "family",
     lv: "ausaiņu dzimta",
@@ -1176,5 +1179,11 @@ export const TAXA = {
   Tremella: {
     rank: "genus",
     sk: "rôsolovka"
+  },
+  Bolbitiaceae: {
+    rank: "family"
+  },
+  Bolbitius: {
+    rank: "genus"
   }
 };

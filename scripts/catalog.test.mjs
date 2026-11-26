@@ -508,6 +508,21 @@ function sourceItems(html) {
   return [...bib.matchAll(/<li>([\s\S]*?)<\/li>/g)].map((match) => match[1]);
 }
 
+test('synonym objects render as a name and an author', () => {
+  const blushing = viewModel({ lang: 'en', view: 'mushroom', key: 'Agaricus sylvaticus' });
+  assert.equal(blushing.html.includes('[object Object]'), false);
+  assert.match(blushing.html, /<span class="latin">Agaricus haemorrhoidarius<\/span> Schulzer/);
+  assert.match(blushing.html, /12 more names/);
+  const waxcap = viewModel({ lang: 'en', view: 'mushroom', key: 'Hygrophorus chrysodon' });
+  assert.match(
+    waxcap.html,
+    /<span class="latin">Agaricus chrysodon<\/span> var\. <span class="latin">leucodon<\/span> Alb\. &amp; Schwein\./
+  );
+  const bolete = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus edulis' });
+  assert.match(bolete.html, /<span class="latin">Leccinum edule<\/span> \(Bull\.\) Gray/);
+  assert.equal(bolete.html.includes('[object Object]'), false);
+});
+
 test('a URL source list renders short titles', () => {
   const bolete = viewModel({ lang: 'sk', view: 'mushroom', key: 'Boletus edulis' });
   const boleteItems = sourceItems(bolete.html);
