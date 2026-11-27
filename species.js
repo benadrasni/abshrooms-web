@@ -251160,5 +251160,1967 @@ export const CATALOG = [
   "reserved": false,
   "id": 249,
   "citation": "Mycol. Res. 105(7): 781 (2001)"
+},
+{
+  "name": "Sarcomyxa serotina",
+  "author": "(Pers.) V. Papp",
+  "family": "Sarcomyxaceae",
+  "genus": "Sarcomyxa",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Sarcomyxaceae",
+    "Sarcomyxa"
+  ],
+  "summary": [
+    "Agaricales",
+    "Sarcomyxaceae",
+    "Sarcomyxa"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown",
+    "green",
+    "purple"
+  ],
+  "capFrom": 3.0,
+  "capTo": 10.0,
+  "stipeHeightFrom": 1.0,
+  "stipeHeightTo": 3.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 2.0,
+  "fruitingFrom": 10,
+  "fruitingTo": 12,
+  "label": {
+    "cs": "pařezník pozdní",
+    "da": "Gummihat",
+    "de": "Gelbstieliger Muschelseitling",
+    "en": "olive oysterling",
+    "et": "tigupanell",
+    "fi": "talvivinokas",
+    "fr": "Pleurote tardif",
+    "hu": "sárgatönkű áldücskőgomba",
+    "ja": "オソムキタケ",
+    "lt": "Geltonkotis skiautenėlis",
+    "lv": "Vēlā pundurkamolene",
+    "nl": "Groene schelpzwam",
+    "no": "gulgrønn lærhatt",
+    "pl": "Łycznik późny",
+    "ru": "Вёшенка осенняя",
+    "sk": "pňovka neskorá",
+    "sl": "pozna zgručevka",
+    "sv": "grönmussling",
+    "zh": "鳞皮扇菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Gelbstieliger Zwergknäueling",
+      "Später Seitling"
+    ],
+    "en": [
+      "late oyster",
+      "late fall oyster mushroom"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [
+      "pozni zgručevec"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=556853",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=556853",
+      "https://api.gbif.org/v1/species/match?name=Sarcomyxa%20serotina",
+      "https://www.gbif.org/species/11011338",
+      "https://www.wikidata.org/wiki/Q81202193",
+      "https://www.inaturalist.org/taxa/63585",
+      "https://species.wikimedia.org/wiki/Sarcomyxa_serotina",
+      "https://www.first-nature.com/fungi/sarcomyxa-serotina.php",
+      "https://www.myko.cz/myko-atlas/Sarcomyxa-serotina/",
+      "https://www.nahuby.sk/atlas-hub/Sarcomyxa-serotina/pnovka-neskora/pareznik-pozdni/ID488",
+      "https://123pilzsuche.de/daten/details/GelbstieligerMuschelseitling.htm"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.inaturalist.org/taxa/63585",
+      "https://www.myko.cz/myko-atlas/Sarcomyxa-serotina/",
+      "https://www.nahuby.sk/atlas-hub/Sarcomyxa-serotina/pnovka-neskora/pareznik-pozdni/ID488"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "de": [
+      "https://www.inaturalist.org/taxa/63585",
+      "https://123pilzsuche.de/daten/details/GelbstieligerMuschelseitling.htm"
+    ],
+    "es": [],
+    "et": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "ko": [],
+    "lt": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "nl": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/63585",
+      "https://www.wikidata.org/wiki/Q81202193"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/63585",
+      "https://www.nahuby.sk/atlas-hub/Sarcomyxa-serotina/pnovka-neskora/pareznik-pozdni/ID488"
+    ],
+    "sl": [
+      "https://www.inaturalist.org/taxa/63585",
+      "https://www.gbif.org/species/11011338"
+    ],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/63585"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q81202193"
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_1.webp",
+      "author": "Stuart",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/325514975"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_2.webp",
+      "author": "Charles Joynson",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/334741982"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_3.webp",
+      "author": "Anita Engler",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/339146262"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_4.webp",
+      "author": "Dave",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/324507999"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_5.webp",
+      "author": "considerthelilies",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/332600969"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG/JFIF bytes in a .png filename, SHA-256 e0e9afe7d5eefb1f1cca9a14936900c715c94a26f04ae2c5adcb03dd58536e12, Exif Orientation 1, software Picasa, no alpha) was cropped 96 px from the left and 0 px from the right (exact 2:3, 800×1200) so the cursive Gemini signature is not clipped, then enlarged uniformly 2× (Lanczos) to 1600×2400. In the source the signature has an 11 px right margin and a 4 px bottom margin; a centred 48 px side trim would clip it. Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by colour-weighted multiply, with the paper field fitted from 16 px strips inset 48 px (same method as Helvella lacunosa and Suillus variegatus). @1600 SHA-256 9fb7d2052ccb5622b44ef78cbd98f49d4474659adf3a69716d6c24be9f43220d; @400 SHA-256 3a37f0525c60810121e1b5491ed7512c4f071205128232f16d76b6a3e2fe0b2d."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_1.webp",
+      "author": "Stuart",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/325514975"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_2.webp",
+      "author": "Charles Joynson",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/334741982"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_3.webp",
+      "author": "Anita Engler",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/339146262"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_4.webp",
+      "author": "Dave",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/324507999"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Sarcomyxaceae/Sarcomyxa_serotina/Sarcomyxa_serotina_5.webp",
+      "author": "considerthelilies",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/332600969"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "فطر خشبي متأخر شبيه بالرف، قبعته زيتونية خضراء إلى مُظلَّلة بالبنفسج، لزجة عند البلل، وخياشيمه متزاحمة صفراء إلى أصفر برتقالي، وساق جانبية قصيرة غليظة، غالباً دقيقة الحراشف، وقد تكاد تكون معدومة. تنمو الأجسام الثمرية عادة في صفوف متراكبة على خشب ميت من الأشجار العريضة الأوراق، ولا سيما بعد أول صقيع خريفي.",
+      "cap": "عرضها في العادة 3–10 سم (تذكر بعض المصادر وسط أوروبا 3–12 سم، وبعض المصادر الألمانية 3–15 سم، ونادراً أكثر من ذلك)، نصف دائرية إلى كلوية الشكل، وغالباً بحافة مسننة ملفوفة إلى الداخل؛ محدبة أولاً ثم تتسطح. قليلاً لبادية وهي فتية، ثم أملس وأكثر لزوجة عند البلل. زيتونية خضراء، وغالباً بدرجات بنفسجية وبنية، ثم تباهت إلى بنيٍّ أُخَيري.",
+      "hymenium": "الخياشيم متزاحمة، ضيقة، صفراء شاحبة إلى برتقالي أُخَيري، وليست بيضاء أبداً. تتصل بالساق الجانبية القصيرة وتنحدر عليها قليلاً، لكنها تنتهي بحدة نسبياً ولا تستدق تدريجياً في الخشب.",
+      "stipe": "جانبية، قصيرة وغليظة. عندما تكون موجودة يبلغ طولها عادة 1–3 سم وسمكها 1–2 سم (تعطي بعض المصادر طولاً أقصاه 2 سم، وأخرى ساقاً أغلظ وأطول)؛ وغالباً ما تكاد تكون معدومة. مصفرة إلى أُخَيرية، مخملية دقيقة أو مرقطة بحراشف بنية صغيرة، وعادة ما تضيق نحو الخشب.",
+      "flesh": "مبيضّة إلى صفراء شاحبة، سميكة نوعاً ما وهلامية قليلاً مباشرة تحت قشرة القبعة. الرائحة غير مميزة. الطعم لطيف إلى مر قليلاً؛ ولا يُنصح بتذوقها.",
+      "sporePrint": "بيضاء. الأبواغ أسطوانية إلى شبه سجقية، ملساء، نشوية التفاعل (أميلويد)، نحو 4–6.5 × 1–2 ميكرومتر.",
+      "habitat": "رمّية، منفردة أو في أكثر الأحيان في مجموعات صغيرة أو صفوف متراكبة على خشب متعفن، ولا سيما من الأشجار العريضة الأوراق (زان، جار الماء، صفصاف، دردار، بتولا) في مواضع رطبة ظليلة، ونادراً فقط على المخروطيات. في وسط أوروبا عادة من أكتوبر إلى ديسمبر؛ وفي بريطانيا وإيرلندا في الخريف والشتاء، وغالباً بعد أول صقيع.",
+      "uses": "لا تزال بعض الأدلة الأوروبية تعدّه صالحاً للأكل، وإن كانت جودته متواضعة. ظهر لاحقاً تحذير مرتبط بأندرياس غميندر بأنه قد يحتوي مواد مسرطنة؛ ولم يُؤكَّد ذلك بصورة متسقة، واعتبرت مراجعة عام 2012 هذا الزعم بلا أساس. وأدلة أخرى لا تقدم توصية طهوية. وبما أن الآراء ما زالت منقسمة، يسجّله هذا الفهرس صالحاً للأكل مع الحذر ولا يشجع على أكله. النوع الآسيوي المزروع Sarcomyxa edulis فطر مختلف ولا يُعالج هنا.",
+      "confusion": "فطر المحار (Pleurotus ostreatus) يثمر هو أيضاً متأخراً على الخشب، لكن خياشيمه بيضاء إلى بنفسجية شاحبة وتنحدر بعيداً على ساق مبيضة، من دون نطاق قصير أصفر حرشفي. البانيلوس القابض (Panellus stipticus) أصغر وأصلب بكثير، أُخَيري شاحب، وطعمه لاذع مر. أنواع الجنس Hohenbuehelia، ومنها Hohenbuehelia petaloides، أنحل وأكثر مطاطية، وغالباً بقبعات أشد رمادياً وخياشيم رمادية. فطر العش البرتقالي (Phyllotopsis nidulans) له قبعة برتقالية زاهية مشعرة ورائحة قوية كريهة.",
+      "notes": "قد تكاد الساق تنعدم في بعض الأجسام الثمرية، لكنها إن وُجدت فإن الالتصاق الجانبي الأصفر إلى البرتقالي الدقيق الحراشف علامة ميدانية مفيدة. وقد تفقد القبعات القديمة اللون الزيتوني وتصبح بنية أُخَيرية؛ وعندئذٍ تكون الخياشيم الصفراء والساق أهم. لا ينبغي تعيين هذا النوع من عينات سوق أو زراعة آسيوية قد تنتمي إلى النوع Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Късна, рафтовидна гъба върху дървесина, с маслиненозелена, често с виолетов оттенък, при влага слузеста гугла, гъсти жълти до оранжевожълти пластинки и къса дебела, често дребнолюспеста странично пънче, което почти може да липсва. Плодните тела обикновено растат в припокриващи се редове върху мъртва широколистна дървесина, особено след първите есенни слани.",
+      "cap": "Обикновено 3–10 cm широка (някои средноевропейски източници посочват 3–12 cm, някои немски 3–15 cm, рядко повече), полукръгла до бъбрековидна, често с надиплен, завит ръб; отначало изпъкнала, после се сплесква. В младост леко плъстена, по-късно по-гладка и при влага слузеста. Маслиненозелена, често с виолетови и кафяви тонове, после избледняваща до охракафява.",
+      "hymenium": "Пластинките са гъсти, тесни, бледожълти до охраоранжеви, никога бели. Прикрепени са към късото странично пънче и малко се спускат по него, но завършват доста рязко, а не се стесняват постепенно в дървесината.",
+      "stipe": "Странично, късо и дебело. Когато е налице, обикновено е 1–3 cm дълго и 1–2 cm дебело (някои източници дават най-много 2 cm дължина, други — по-дебело и по-дълго пънче); често почти липсва. Жълтеникаво до охраво, финно кадифено или осеяно с дребни кафяви люспици, към дървесината обикновено стеснено.",
+      "flesh": "Белезникава до бледожълтеникава, доста дебела и малко пихтиеста непосредствено под кожицата на гуглата. Миризмата не е характерна. Вкусът е мек до леко горчив; не се препоръчва да се опитва.",
+      "sporePrint": "Бял. Спорите са цилиндрични до алантоидни, гладки, амилоидни, около 4–6,5 × 1–2 µm.",
+      "habitat": "Сапротроф, поединично или по-често на малки групи или припокриващи се редове върху загниваща дървесина, предимно широколистна (бук, елша, върба, ясен, бреза) във влажни сенчести места, само рядко върху иглолистни. В Централна Европа типично от октомври до декември; във Великобритания и Ирландия през есента и зимата, често след първите слани.",
+      "uses": "Някои европейски определители все още го смятат за ядлив, макар и със скромно качество. По-късно се появи свързано с Андреас Гминдер предупреждение, че може да съдържа канцерогенни вещества; то не беше последователно потвърдено, а преглед от 2012 г. счете твърдението за необосновано. Други определители не дават кулинарни препоръки. Тъй като мненията остават разделени, този каталог го записва като ядлив с внимание и не насърчава консумацията. Култивираният азиатски вид Sarcomyxa edulis е друга гъба и тук не се разглежда.",
+      "confusion": "Стридата (Pleurotus ostreatus) също плододава късно върху дървесина, но пластинките ѝ са бели до бледолилави и се спускат надалеч по белезникаво пънче, без къса жълта люспеста зона. Стягащият панел (Panellus stipticus) е много по-малък и по-твърд, бледоохров, с лютив горчив вкус. Видовете от род Hohenbuehelia, включително Hohenbuehelia petaloides, са по-тънки и по-гумени, обикновено с по-сиви гугли и сивкави пластинки. Оранжевото гнездо (Phyllotopsis nidulans) има яркооранжева космата гугла и силна неприятна миризма.",
+      "notes": "Пънчето при някои плодни тела почти може да липсва, но когато е налице, жълтото до оранжево, дребнолюспесто странично прикрепване е полезен теренен белег. Старите гугли могат да загубят маслинения тон и да станат охракафяви; тогава жълтите пластинки и пънчето са още по-важни. Този вид не трябва да се определя по азиатски пазарни или култивирани образци, които могат да принадлежат на вида Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Pozdní, poličkovitá dřevní houba s olivově zeleným až fialově zbarveným, za vlhka slizkým kloboukem, hustými žlutými až oranžově žlutými lupeny a krátkým, pevným, často jemně šupinatým bočním třeněm, který může téměř chybět. Plodnice obvykle rostou v překrývajících se patrech na odumřelém listnatém dřevě, nejčastěji po prvních podzimních mrazech.",
+      "cap": "Obvykle 3–10 cm široký (některé středoevropské zdroje uvádějí 3–12 cm a některé německé 3–15 cm, vzácně i více), polokruhový až ledvinovitý, často s laločnatým, podvinutým okrajem; nejprve klenutý, později se zplošťuje. Za mlada slabě plstnatý, později hladší a za vlhka slizký. Olivově zelený, často s fialovými a hnědými tóny, později blednoucí do okrově hnědé.",
+      "hymenium": "Lupeny husté, úzké, světle žluté až okrově oranžové, nikdy bílé. Jsou přirostlé ke krátkému bočnímu třeni a kousek po něm sbíhají, končí však poměrně ostře, nikoli pozvolna do dřeva.",
+      "stipe": "Boční, krátký a pevný. Je-li přítomen, měří typicky 1–3 cm na délku a 1–2 cm na tloušťku (některé zdroje uvádějí délku nejvýše 2 cm, jiné tlustší a delší třeň); často téměř chybí. Žlutavý až okrový, jemně sametový nebo pokrytý drobnými hnědavými šupinami, ke dřevu obvykle zúžený.",
+      "flesh": "Bělavá až nažloutlá, poměrně tlustá a těsně pod pokožkou klobouku trochu rosolovitá. Vůně není výrazná. Chuť je mírná až slabě nahořklá; ochutnávání se nedoporučuje.",
+      "sporePrint": "Bílý. Výtrusy válcovité až párovitě zahnuté, hladké, amyloidní, přibližně 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrófní, jednotlivě nebo častěji v malých skupinách či překrývajících se patrech na tlejícím dřevě, zejména listnatých stromů (buk, olše, vrba, jasan, bříza) na vlhkých, stinných místech, jen příležitostně na jehličnanech. Ve střední Evropě plodí typicky od října do prosince; v Británii a Irsku se objevuje na podzim a v zimě, často po prvních mrazech.",
+      "uses": "Některé evropské příručky ji stále uvádějí jako jedlou, byť jen průměrné kvality. Později se objevilo varování, spojované s Andreasem Gminderem, že může obsahovat karcinogeny; toto tvrzení se však nepodařilo důsledně potvrdit a recenze z roku 2012 je považovala za nepodložené. Jiné příručky nedávají žádné kuchyňské doporučení. Protože názory zůstávají rozdělené, tento katalog ji uvádí jako jedlou s opatrností a k jídlu ji nedoporučuje. Pěstovaný asijský druh Sarcomyxa edulis je jiná houba a zde se neřeší.",
+      "confusion": "Hlíva ústřičná (Pleurotus ostreatus) rovněž plodí pozdě na dřevě, ale její lupeny jsou bílé až bělavě fialové a dlouze sbíhají na bělavý třeň, bez krátké žluté, šupinatého pásu. Pařezník obecný (Panellus stipticus) je mnohem menší a tužší, bledě okrový, s palčivě hořkou chutí. Druhy rodu Hohenbuehelia, včetně druhu Hohenbuehelia petaloides, jsou tenčí a gumovitější, obvykle se šedšími klobouky a šedavými lupeny. Oranžová hlíva hnízdovitá (Phyllotopsis nidulans) má jasně oranžový, chlupatý klobouk a silný nepříjemný zápach.",
+      "notes": "Třeň na některých plodnicích téměř chybí, ale když je přítomen, žluté až oranžové, jemně šupinkaté boční připojení je užitečný terénní znak. Starší klobouky mohou ztratit olivový nádech a zhnědnout, tehdy jsou ještě důležitější žluté lupeny a třeň. Tento druh se nemá určovat podle asijských tržních či pěstovaných plodnic, které mohou patřit druhu Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585",
+        "https://www.myko.cz/myko-atlas/Sarcomyxa-serotina/",
+        "https://www.nahuby.sk/atlas-hub/Sarcomyxa-serotina/pnovka-neskora/pareznik-pozdni/ID488"
+      ],
+      "label": "pařezník pozdní"
+    },
+    "da": {
+      "description": "En sen, hyldelignende vedboende svamp med olivengrøn til violettonet, i vådt vejr slimet hat, tætte gule til orangegule lameller og en kort, kraftig, ofte fint skællet sidelstillet stok, der næsten kan mangle. Frugtlegemerne vokser sædvanligvis i overlappende rækker på dødt løvtræ, især efter de første efterårsfrostnætter.",
+      "cap": "Typisk 3–10 cm bred (nogle mellemeuropæiske kilder angiver 3–12 cm, nogle tyske 3–15 cm, sjældent større), halvrund til nyreformet, ofte med scalloppet, indrullet rand; først hvælvet, senere fladere. Ung lidt filtet, senere glattere og slimet i vådt vejr. Olivengrøn, ofte med violette og brune toner, senere falmende til okkerbrun.",
+      "hymenium": "Lameller tætte, smalle, bleggule til okkerorange, aldrig hvide. De er fæstnet til den korte sidelstillede stok og løber et stykke ned ad den, men ender ret brat og ikke gradvist ud i veden.",
+      "stipe": "Sidelstillet, kort og kraftig. Når den er til stede typisk 1–3 cm lang og 1–2 cm tyk (nogle kilder angiver højst 2 cm længde, andre en tykkere og længere stok); ofte næsten manglende. Gullig til okker, fint fløjlset eller besat med små brunlige skæl, som regel indsnævret mod veden.",
+      "flesh": "Hvidlig til bleggullig, ret tyk og lidt geléagtig lige under hathuden. Lugten er uanselig. Smagen er mild til svagt bitter; det frarådes at smage på den.",
+      "sporePrint": "Hvidt. Sporer cylindriske til pølseformede, glatte, amyloide, cirka 4–6,5 × 1–2 µm.",
+      "habitat": "Saprofytisk, enkeltvis eller oftere i små grupper eller overlappende rækker på rådnent ved, især af løvtræer (bøg, el, pil, ask, birk) på fugtige, skyggede steder, kun lejlighedsvis på nåletræ. I Centraleuropa typisk fra oktober til december; i Storbritannien og Irland om efteråret og vinteren, ofte efter de første frostnætter.",
+      "uses": "Nogle europæiske håndbøger anfører den stadig som spiselig, dog kun af beskeden kvalitet. En senere advarsel, knyttet til Andreas Gminder, om at den kan indeholde kræftfremkaldende stoffer, er ikke blevet konsekvent bekræftet; en gennemgang fra 2012 anså påstanden for udokumenteret. Andre håndbøger giver ingen kulinarisk anbefaling. Fordi vurderingerne stadig er delte, registrerer dette katalog den som spiselig med forsigtighed og opfordrer ikke til at spise den. Den dyrkede asiatiske art Sarcomyxa edulis er en anden svamp og behandles ikke her.",
+      "confusion": "Østershat (Pleurotus ostreatus) fruktificerer også sent på ved, men har hvide til blegviolette lameller, der løber langt ned ad en hvidlig stok, uden en kort gul, skællet stokzone. Den bitre muslingesvamp (Panellus stipticus) er langt mindre og seigere, bleg okker, med skarp bitter smag. Arter af slægten Hohenbuehelia, herunder Hohenbuehelia petaloides, er tyndere og mere gummiagtige, sædvanligvis med gråere hatte og grålige lameller. Den orange redenhat (Phyllotopsis nidulans) har en klart orange, håret hat og en stærk ubehagelig lugt.",
+      "notes": "Stokken kan næsten mangle på nogle frugtlegemer, men når den er til stede, er den gule til orange, fint skællede sidelstillede tilhæftning et nyttigt feltkendetegn. Ældre hatte kan miste oliventonen og blive okkerbrune; da er de gule lameller og stokken endnu vigtigere. Arten bør ikke bestemmes ud fra asiatiske markeds- eller dyrkede frugtlegemer, som kan tilhøre Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Gummihat"
+    },
+    "de": {
+      "description": "Ein spät im Jahr erscheinender, konsolenartiger Holzpilz mit olivgrünem bis violett getöntem, bei Nässe schleimigem Hut, gedrängten gelben bis orangegelben Lamellen und einem kurzen, kräftigen, oft fein schuppigen seitlichen Stiel, der nahezu fehlen kann. Die Fruchtkörper wachsen meist in übereinander greifenden Reihen an totem Laubholz, besonders nach den ersten Herbstfrösten.",
+      "cap": "Typischerweise 3–10 cm breit (einige mitteleuropäische Angaben 3–12 cm, einige deutsche 3–15 cm, selten größer), halbrund bis nierenförmig, oft mit gekerbtem, eingerolltem Rand; zuerst gewölbt, später flacher. Jung etwas filzig, später glatter und bei Nässe schleimig. Olivgrün, oft mit violetten und braunen Tönen, später zu ockerbraun verblassend.",
+      "hymenium": "Lamellen gedrängt, schmal, blassgelb bis ockerorange, niemals weiß. Sie sind am kurzen seitlichen Stiel angewachsen und laufen ein Stück an ihm herab, enden dort aber ziemlich abrupt und nicht allmählich im Holz.",
+      "stipe": "Seitlich, kurz und kräftig. Wenn vorhanden typischerweise 1–3 cm lang und 1–2 cm dick (manche Quellen nennen nur bis 2 cm Länge, andere einen dickeren und längeren Stiel); oft nahezu fehlend. Gelblich bis ocker, fein samtig oder mit kleinen bräunlichen Schüppchen, zum Holz hin meist verjüngt.",
+      "flesh": "Weißlich bis blassgelblich, ziemlich dick und unmittelbar unter der Huthaut etwas gelatinös. Geruch unauffällig. Geschmack mild bis leicht bitter; vom Kosten wird abgeraten.",
+      "sporePrint": "Weiß. Sporen zylindrisch bis würstchenförmig, glatt, amyloid, etwa 4–6,5 × 1–2 µm.",
+      "habitat": "Saprobiontisch, einzeln oder häufiger in kleinen Gruppen oder übereinander greifenden Reihen an faulendem Holz, vor allem von Laubbäumen (Buche, Erle, Weide, Esche, Birke) an feuchten, schattigen Stellen, nur gelegentlich an Nadelholz. In Mitteleuropa typischerweise von Oktober bis Dezember; in Großbritannien und Irland im Herbst und Winter, oft nach den ersten Frösten.",
+      "uses": "Einige europäische Bücher führen ihn weiterhin als essbar, wenn auch nur von bescheidener Qualität. Eine spätere Warnung, die mit Andreas Gminder verbunden wird, er könne krebserregende Stoffe enthalten, ließ sich nicht durchgängig bestätigen; eine Übersicht von 2012 hielt diese Behauptung für unbegründet. Andere Bücher geben keine kulinarische Empfehlung. Weil die Einschätzungen geteilt bleiben, verzeichnet dieser Katalog ihn als essbar mit Vorsicht und rät nicht zum Verzehr. Die in Asien kultivierte Art Sarcomyxa edulis ist ein anderer Pilz und wird hier nicht behandelt.",
+      "confusion": "Der Austernseitling (Pleurotus ostreatus) fruktifiziert ebenfalls spät am Holz, hat aber weißliche bis blassviolette Lamellen, die weit an einem weißlichen Stiel herablaufen, ohne eine kurze gelbe, schuppige Stielzone. Der bitterliche Zwergknäueling (Panellus stipticus) ist viel kleiner und zäher, blass ockerfarben, mit scharf bitterem Geschmack. Arten der Gattung Hohenbuehelia, darunter Hohenbuehelia petaloides, sind dünner und gummiartiger, meist mit graueren Hüten und gräulichen Lamellen. Der orangefarbene Nestseitling (Phyllotopsis nidulans) hat einen leuchtend orangen, haarigen Hut und einen starken unangenehmen Geruch.",
+      "notes": "An manchen Fruchtkörpern fehlt der Stiel nahezu, aber wenn er vorhanden ist, ist der gelbe bis orange, fein schuppige seitliche Ansatz ein hilfreiches Feldmerkmal. Ältere Hüte können den Olivton verlieren und ockerbraun werden; dann sind die gelben Lamellen und der Stiel noch wichtiger. Diese Art sollte nicht nach asiatischen Markt- oder Kulturfruchtkörpern bestimmt werden, die zu Sarcomyxa edulis gehören können.",
+      "names": [
+        "Gelbstieliger Zwergknäueling",
+        "Später Seitling"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585",
+        "https://123pilzsuche.de/daten/details/GelbstieligerMuschelseitling.htm"
+      ],
+      "label": "Gelbstieliger Muschelseitling"
+    },
+    "en": {
+      "description": "A late-season, shelf-like wood mushroom with an olive-green to violet-tinged, slimy cap, crowded yellow to orange-yellow gills, and a short, stout, often finely scaly lateral stem that may be almost absent. Fruit bodies usually grow in overlapping tiers on dead broadleaf wood, most often after the first autumn frosts.",
+      "cap": "Typically 3–10 cm across (some Central European guides give 3–12 cm, and some German accounts 3–15 cm, rarely larger), half-round to kidney-shaped, often with a scalloped, incurved margin; convex at first, then flattening. Slightly downy when young, smoother with age, and slimy when wet. Olive green, often with violet and brown tones, later fading to ochre-brown.",
+      "hymenium": "Crowded, narrow gills, pale yellow to ochre-orange, never white. They are attached to the short lateral stem and run a little way down it, ending quite abruptly rather than tapering away into the wood.",
+      "stipe": "Lateral, short and stout. When present it is typically 1–3 cm long and 1–2 cm thick (some guides give a length of up to 2 cm only, or a thicker and longer stem); it is often almost absent. Yellowish to ochre, finely velvety or dotted with small brownish scales, usually tapering toward the wood.",
+      "flesh": "Whitish to pale yellowish, fairly thick and a little gelatinous under the cap skin. The odour is not distinctive. The taste is mild to slightly bitter; tasting is not advised.",
+      "sporePrint": "White. Spores cylindrical to sausage-shaped, smooth, amyloid, about 4–6.5 × 1–2 µm.",
+      "habitat": "Saprobic, solitary or more often in small groups or overlapping tiers on rotten wood, most often of broadleaf trees (beech, alder, willow, ash, birch) in damp, shaded places, and only occasionally on conifers. In Central Europe it typically fruits from October to December; in Britain and Ireland it appears in autumn and winter, often after the first frosts.",
+      "uses": "Some European guides still list it as edible, though only of modest quality. A later warning that it may contain carcinogens, associated with Andreas Gminder, has not been consistently confirmed, and a 2012 review treated that claim as unsubstantiated. Other guides offer no culinary recommendation. Because advice remains divided, this catalog records it as edible with caution and does not encourage eating it. The cultivated Asian species Sarcomyxa edulis is a different fungus and is not treated here.",
+      "confusion": "The oyster mushroom (Pleurotus ostreatus) also fruits late on wood, but its gills are white to pale lilac and run far down a whitish stem, without a short yellow, scaly stem zone. The bitter oyster (Panellus stipticus) is much smaller and tougher, pale ochre, with a peppery-bitter taste. Species of Hohenbuehelia, including Hohenbuehelia petaloides, are thinner and more rubbery, usually with greyer caps and greyish gills. The orange mock oyster (Phyllotopsis nidulans) has a bright orange, hairy cap and a strong unpleasant smell.",
+      "notes": "The stem may be almost absent on some fruit bodies, but when it is present the yellow to orange, finely scaly lateral attachment is a useful field character. Old caps can lose the olive tone and become ochre-brown, which makes the yellow gills and the stem even more important. Do not identify this species from Asian market or cultivated specimens, which may belong to Sarcomyxa edulis.",
+      "names": [
+        "late oyster",
+        "late fall oyster mushroom"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=556853",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=556853",
+        "https://api.gbif.org/v1/species/match?name=Sarcomyxa%20serotina",
+        "https://www.gbif.org/species/11011338",
+        "https://www.wikidata.org/wiki/Q81202193",
+        "https://www.inaturalist.org/taxa/63585",
+        "https://species.wikimedia.org/wiki/Sarcomyxa_serotina",
+        "https://www.first-nature.com/fungi/sarcomyxa-serotina.php",
+        "https://www.myko.cz/myko-atlas/Sarcomyxa-serotina/",
+        "https://www.nahuby.sk/atlas-hub/Sarcomyxa-serotina/pnovka-neskora/pareznik-pozdni/ID488",
+        "https://123pilzsuche.de/daten/details/GelbstieligerMuschelseitling.htm"
+      ],
+      "label": "olive oysterling"
+    },
+    "es": {
+      "description": "Un hongo lignícola tardío, en forma de estante, con sombrero de color verde oliva a teñido de violeta, viscoso en tiempo húmedo, láminas apiñadas amarillas a amarillo anaranjado, y un pie lateral corto, robusto, a menudo finamente escamoso, que puede casi faltar. Los cuerpos fructíferos suelen crecer en hileras superpuestas sobre madera muerta de frondosas, sobre todo tras las primeras heladas otoñales.",
+      "cap": "Por lo general 3–10 cm de ancho (algunas fuentes centroeuropeas indican 3–12 cm, algunas alemanas 3–15 cm, raramente más), semicircular o reniforme, a menudo con el margen festoneado y enrollado; primero convexo, luego se aplana. Algo afelpado de joven, más liso después, viscoso en tiempo húmedo. Verde oliva, a menudo con tonos violetas y pardos, más tarde palideciendo a pardo ocráceo.",
+      "hymenium": "Láminas apiñadas, estrechas, de un amarillo pálido a naranja ocráceo, nunca blancas. Están adheridas al corto pie lateral y descienden un poco por él, pero terminan de forma bastante abrupta, no adelgazándose hacia la madera.",
+      "stipe": "Lateral, corto y robusto. Cuando está presente, suele medir 1–3 cm de largo y 1–2 cm de grosor (algunas fuentes dan una longitud máxima de 2 cm, otras un pie más grueso y más largo); a menudo casi falta. Amarillento a ocráceo, finamente aterciopelado o salpicado de pequeñas escamas parduscas, por lo general atenuado hacia la madera.",
+      "flesh": "Blanquecina a amarillo pálido, bastante gruesa y un poco gelatinosa justo bajo la cutícula. Olor poco característico. Sabor dulce a ligeramente amargo; no se recomienda probarla.",
+      "sporePrint": "Blanca. Esporas cilíndricas a alantoides, lisas, amiloides, de unos 4–6,5 × 1–2 µm.",
+      "habitat": "Saprótrofo, solitario o más a menudo en pequeños grupos o hileras superpuestas sobre madera en descomposición, sobre todo de frondosas (haya, aliso, sauce, fresno, abedul) en lugares húmedos y umbrosos, solo ocasionalmente sobre coníferas. En Europa central, típicamente de octubre a diciembre; en Gran Bretaña e Irlanda, en otoño e invierno, a menudo tras las primeras heladas.",
+      "uses": "Algunas guías europeas lo siguen considerando comestible, aunque de calidad mediocre. Una advertencia posterior, asociada a Andreas Gminder, de que podría contener sustancias cancerígenas, no se ha confirmado de forma consistente; una revisión de 2012 consideró esa afirmación infundada. Otras guías no ofrecen recomendación culinaria. Como las opiniones siguen divididas, este catálogo lo registra como comestible con precaución y no anima a comerlo. La especie asiática cultivada Sarcomyxa edulis es un hongo distinto y no se trata aquí.",
+      "confusion": "La seta de ostra (Pleurotus ostreatus) también fructifica tarde sobre madera, pero sus láminas son blancas a lila pálido y descienden mucho por un pie blanquecino, sin una zona corta, amarilla y escamosa. El panelo astringente (Panellus stipticus) es mucho más pequeño y coriáceo, de un ocre pálido, de sabor acre y amargo. Las especies del género Hohenbuehelia, entre ellas Hohenbuehelia petaloides, son más delgadas y gomosas, por lo general con sombreros más grises y láminas grisáceas. El hongo nido anaranjado (Phyllotopsis nidulans) tiene un sombrero de un naranja vivo, peloso, y un olor fuerte y desagradable.",
+      "notes": "El pie puede casi faltar en algunos cuerpos fructíferos, pero cuando está presente, la inserción lateral amarilla a anaranjada, finamente escamosa, es un carácter útil en el campo. Los sombreros viejos pueden perder el tono oliva y volverse pardo ocráceos; entonces las láminas amarillas y el pie son aún más importantes. No debe identificarse esta especie a partir de ejemplares de mercado o de cultivo asiáticos, que pueden pertenecer a Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Hiline, riiulikujuline puidul kasvav seen oliivrohelise kuni violetselt varjundatud, niiskelt limase kübaraga, tihedate kollaste kuni oranžikaskollaste eoslehekestega ning lühikese, jässaka, sageli peenelt soomuselise külgmise jalaga, mis võib peaaegu puududa. Viljakehad kasvavad tavaliselt üksteist osaliselt katvates ridades surnud lehtpuupuidul, eriti pärast esimesi sügiskülmi.",
+      "cap": "Tavaliselt 3–10 cm lai (mõned Kesk-Euroopa allikad annavad 3–12 cm, mõned Saksa allikad 3–15 cm, harva rohkem), poolümmargune kuni neerjas, sageli hõlmise, sissekäänatud servaga; algul kumer, hiljem lamenev. Noorelt veidi viltjas, hiljem siledam ja niiskelt limane. Oliivroheline, sageli violetsete ja pruunide toonidega, hiljem tuhmuv ookerpruuniks.",
+      "hymenium": "Eoslehekesed tihedad, kitsad, kahvatukollased kuni ookeroranžid, mitte kunagi valged. Need kinnituvad lühikesele külgmisele jale ja kulgevad seda veidi pidi allapoole, kuid lõpevad üsna järsult, mitte järk-järgult puidus.",
+      "stipe": "Külgmine, lühike ja jässakas. Kui jalg on olemas, on see tüüpiliselt 1–3 cm pikk ja 1–2 cm jäme (mõned allikad annavad pikkuseks kõige rohkem 2 cm, teised jämedama ja pikema jala); sageli peaaegu puudub. Kollakas kuni ookerjas, peenelt sametine või kaetud väikeste pruunikate soomustega, puidu suunas tavaliselt ahenev.",
+      "flesh": "Valkjas kuni kahvatukollakas, üsna paks ja kohe kübaranaha all veidi želeetaoline. Lõhn on tagasihoidlik. Maitse on leebe kuni kergelt kibe; maitsmist ei soovitata.",
+      "sporePrint": "Valge. Eosed silindrilised kuni vorstikujulised, siledad, amüloidsed, umbes 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotroofne, üksikult või sagedamini väikeste rühmadena või osaliselt kattuvates ridades kõduneval puidul, peamiselt lehtpuudel (pöök, lepp, paju, saar, kask) niisketes, varjulistes kohtades, vaid harva okaspuudel. Kesk-Euroopas tüüpiliselt oktoobrist detsembrini; Suurbritannias ja Iirimaal sügisel ja talvel, sageli pärast esimesi külmi.",
+      "uses": "Mõned Euroopa käsiraamatud peavad teda endiselt söödavaks, ehkki vaid tagasihoidliku kvaliteediga. Hiljem ilmus Andreas Gminderiga seostatud hoiatus, et ta võib sisaldada kantserogeene; seda väidet ei ole suudetud järjekindlalt kinnitada ning 2012. aasta ülevaade pidas seda põhjendamatuks. Teised käsiraamatud ei anna kulinaarset soovitust. Kuna hinnangud on endiselt jagunenud, märgib see kataloog ta ettevaatlikult söödavaks ega julgusta teda sööma. Aasias viljeldav liik Sarcomyxa edulis on teine seen ja seda siin ei käsitleta.",
+      "confusion": "Austerservik (Pleurotus ostreatus) viljub samuti hilja puidul, kuid tema eoslehekesed on valged kuni kahvatulillad ja kulgevad kaugele valkjal jalal, ilma lühikese kollase, soomuselise jalavööndita. Mõru kännuseen (Panellus stipticus) on palju väiksem ja sitkem, kahvatuookerjas, teravalt mõru maitsega. Perekonna Hohenbuehelia liigid, sealhulgas Hohenbuehelia petaloides, on õhemad ja kumjamad, tavaliselt hallimate kübarate ja hallikate eoslehekestega. Oranž pesaseen (Phyllotopsis nidulans) on ereoranži, karvase kübaraga ja tugeva ebameeldiva lõhnaga.",
+      "notes": "Mõnel viljakehal jalg peaaegu puudub, kuid kui ta on olemas, on kollane kuni oranž, peenelt soomuseline külgmine kinnitus kasulik välistunnus. Vanemad kübarad võivad kaotada oliivtooni ja muutuda ookerpruuniks; siis on kollased eoslehekesed ja jalg veelgi olulisemad. Seda liiki ei tohiks määrata Aasia turu- või kasvatusviljakehade järgi, mis võivad kuuluda liigile Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "tigupanell"
+    },
+    "fa": {
+      "description": "قارچی دیررس و قفسه‌مانند روی چوب، با کلاهک زیتونی‌سبز تا مایل به بنفش که در هوای مرطوب لزج است، تیغه‌های متراکم زرد تا زردنارنجی، و پایهٔ کوتاه و ستبرِ کناری که اغلب ریزپولک‌دار است و ممکن است تقریباً وجود نداشته باشد. اندام‌های میوه‌ای معمولاً در ردیف‌های روی‌هم بر چوب مردهٔ پهن‌برگان می‌رویند، به‌ویژه پس از نخستین یخبندان‌های پاییزی.",
+      "cap": "معمولاً ۳–۱۰ سانتی‌متر پهنا (برخی منابع اروپای مرکزی ۳–۱۲ سانتی‌متر و برخی منابع آلمانی ۳–۱۵ سانتی‌متر، به‌ندرت بیشتر ذکر می‌کنند)، نیم‌دایره تا کلیه‌مانند، اغلب با حاشیهٔ دندانه‌دار و پیچ‌خورده به درون؛ نخست محدب و سپس پهن می‌شود. در جوانی کمی نمدی، بعد صاف‌تر و در رطوبت لزج. زیتونی‌سبز، اغلب با ته‌رنگ‌های بنفش و قهوه‌ای، و بعدها به قهوه‌ای اخرایی می‌گراید.",
+      "hymenium": "تیغه‌ها متراکم، باریک، زرد کمرنگ تا نارنجی اخرایی، هرگز سفید نیستند. به پایهٔ کوتاه کناری چسبیده‌اند و کمی روی آن پایین می‌روند، اما نسبتاً ناگهانی تمام می‌شوند و به‌تدریج در چوب باریک نمی‌گردند.",
+      "stipe": "کناری، کوتاه و ستبر. وقتی وجود دارد معمولاً ۱–۳ سانتی‌متر طول و ۱–۲ سانتی‌متر قطر دارد (برخی منابع حداکثر طول ۲ سانتی‌متر و برخی پایهٔ کلفت‌تر و بلندتر می‌دهند)؛ اغلب تقریباً غایب است. مایل به زرد تا اخرایی، ریزمخملی یا نقطه‌نقطه با پولک‌های قهوه‌ای کوچک، و معمولاً به سوی چوب باریک می‌شود.",
+      "flesh": "مایل به سفید تا زرد کمرنگ، نسبتاً ضخیم و درست زیر پوست کلاهک کمی ژلاتینی. بو مشخص نیست. طعم ملایم تا کمی تلخ است؛ چشیدن توصیه نمی‌شود.",
+      "sporePrint": "سفید. هاگ‌ها استوانه‌ای تا سوسیس‌مانند، صاف، آمیلویید، حدود ۴–۶٫۵ × ۱–۲ میکرومتر.",
+      "habitat": "ساپروتروف، منفرد یا بیشتر در گروه‌های کوچک یا ردیف‌های روی‌هم بر چوب پوسیده، عمدتاً پهن‌برگان (راش، توسکا، بید، زبان‌گنجشک، توس) در جاهای مرطوب و سایه‌دار، و فقط گهگاه روی مخروطیان. در اروپای مرکزی معمولاً از اکتبر تا دسامبر؛ در بریتانیا و ایرلند در پاییز و زمستان، اغلب پس از نخستین یخبندان‌ها.",
+      "uses": "برخی راهنماهای اروپایی هنوز آن را خوراکی می‌دانند، هرچند با کیفیت متوسط. هشدار بعدی مرتبط با آندریاس گمیندر که ممکن است مواد سرطان‌زا داشته باشد به‌طور یکدست تأیید نشده و بازنگری سال ۲۰۱۲ آن ادعا را بی‌پایه دانسته است. راهنماهای دیگر توصیهٔ غذایی نمی‌دهند. چون نظرها همچنان دوگانه است، این فهرست آن را «خوراکی با احتیاط» ثبت می‌کند و به خوردنش تشویق نمی‌کند. گونهٔ کشت‌شدهٔ آسیایی Sarcomyxa edulis قارچ دیگری است و اینجا بررسی نمی‌شود.",
+      "confusion": "قارچ صدفی (Pleurotus ostreatus) نیز دیر هنگام روی چوب میوه می‌دهد، اما تیغه‌هایش سفید تا بنفش کمرنگ است و خیلی پایین روی پایه‌ای مایل به سفید می‌رود، بدون ناحیهٔ کوتاه زرد و پولک‌دار. پانلوس گس (Panellus stipticus) بسیار کوچک‌تر و سفت‌تر، اخرایی کمرنگ و با طعم تند و تلخ است. گونه‌های سردهٔ Hohenbuehelia، از جمله Hohenbuehelia petaloides، نازک‌تر و لاستیکی‌ترند و معمولاً کلاهک‌های خاکستری‌تر و تیغه‌های خاکستری دارند. قارچ آشیانهٔ نارنجی (Phyllotopsis nidulans) کلاهکی روشن نارنجی و کُرک‌دار و بویی تند و ناخوشایند دارد.",
+      "notes": "پایه در برخی اندام‌های میوه‌ای تقریباً ممکن است نباشد، اما وقتی هست اتصال کناری زرد تا نارنجی و ریزپولک‌دار نشانهٔ میدانی مفیدی است. کلاهک‌های پیر ممکن است رنگ زیتونی را از دست بدهند و قهوه‌ای اخرایی شوند؛ آن‌گاه تیغه‌های زرد و پایه حتی مهم‌ترند. این گونه را نباید از نمونه‌های بازار یا کشت آسیایی شناخت که ممکن است به گونهٔ Sarcomyxa edulis تعلق داشته باشند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Myöhäinen, hyllymäinen puulla kasvava sieni, jonka lakki on oliivinvihreä tai violettinsävyinen ja kosteana limaisehko, heltat tiheät, keltaiset tai oranssinkeltaiset, ja sivuun kiinnittynyt jalka lyhyt, tanakka ja usein hienosuomuinen, toisinaan lähes olematon. Itiöemiöt kasvavat tavallisesti limittäisinä riveinä lahopuulla, lehtipuilla, etenkin ensimmäisten syyshallojen jälkeen.",
+      "cap": "Tavallisesti 3–10 cm leveä (jotkin keskieurooppalaiset lähteet ilmoittavat 3–12 cm, jotkin saksalaiset 3–15 cm, harvoin enemmän), puoliympyrän tai munuaisen muotoinen, usein liuskareunainen ja sisäänkiertynyt; aluksi kupera, myöhemmin litistyvä. Nuorena hieman nukkainen, myöhemmin sileämpi ja kosteana limaisehko. Oliivinvihreä, usein violetin ja ruskean sävyinen, myöhemmin haalistuva okranruskeaksi.",
+      "hymenium": "Heltat tiheät, kapeat, vaaleankeltaiset tai okranoranssit, eivät koskaan valkoiset. Ne kiinnittyvät lyhyeen sivujalkaan ja laskeutuvat sitä hieman, mutta päättyvät varsin jyrkästi, eivät vähitellen puuhun.",
+      "stipe": "Sivulle kiinnittynyt, lyhyt ja tanakka. Kun jalka on näkyvissä, se on tyypillisesti 1–3 cm pitkä ja 1–2 cm paksu (jotkin lähteet ilmoittavat pituudeksi enintään 2 cm, toiset paksumman ja pidemmän jalan); usein se lähes puuttuu. Kellertävä tai okranvärinen, hienon samettinen tai pienten ruskehtavien suomujen peittämä, puuta kohti yleensä kapeneva.",
+      "flesh": "Valkeahko tai vaaleankeltainen, melko paksu ja aivan lakin pinnan alla hieman hyytelömäinen. Tuoksu on heikko. Maku on mieto tai lievästi karvas; maistamista ei suositella.",
+      "sporePrint": "Valkoinen. Itiöt lieriömäisiä tai makkaramaisia, sileitä, amyloideja, noin 4–6,5 × 1–2 µm.",
+      "habitat": "Lahottaja, yksittäin tai useammin pieninä ryhminä tai limittäisinä riveinä lahopuulla, etenkin lehtipuilla (pyökki, leppä, paju, saarni, koivu) kosteilla, varjoisilla paikoilla, vain satunnaisesti havupuulla. Keski-Euroopassa tyypillisesti lokakuusta joulukuuhun; Britanniassa ja Irlannissa syksyllä ja talvella, usein ensimmäisten hallojen jälkeen.",
+      "uses": "Jotkin eurooppalaiset oppaat pitävät sitä edelleen syötävänä, tosin vain vaatimattoman laatuisena. Myöhemmin esitettiin Andreas Gminderin nimeen liitetty varoitus, että se saattaa sisältää syöpävaarallisia aineita; väitettä ei ole pystytty johdonmukaisesti vahvistamaan, ja vuoden 2012 katsaus piti sitä perusteettomana. Toiset oppaat eivät anna kulinaarista suositusta. Koska arviot ovat yhä jakautuneita, tämä luettelo merkitsee sen varovaisesti syötäväksi eikä kehota syömään sitä. Aasiassa viljelty laji Sarcomyxa edulis on eri sieni, eikä sitä käsitellä tässä.",
+      "confusion": "Osterivinokas (Pleurotus ostreatus) itiöi myös myöhään puulla, mutta sen heltat ovat valkoiset tai vaaleanvioletit ja laskeutuvat pitkälle vaaleaa jalkaa pitkin, ilman lyhyttä keltaista, suomuista jalkavyöhykettä. Karvas vinokas (Panellus stipticus) on paljon pienempi ja sitkeämpi, vaaleanokranvärinen, kirpeän karvas. Suvun Hohenbuehelia lajit, muun muassa Hohenbuehelia petaloides, ovat ohuempia ja kumimaisempia, yleensä harmaammilla lakeilla ja harmahtavilla heltoilla. Oranssi pesävinokas (Phyllotopsis nidulans) on kirkkaanoranssi, karvainen lakiltaan ja voimakkaan epämiellyttävän hajuinen.",
+      "notes": "Joissakin itiöemiöissä jalka lähes puuttuu, mutta kun se on näkyvissä, keltainen tai oranssi, hienosuomuinen sivukiinnitys on hyödyllinen maastotuntomerkki. Vanhat lakit voivat menettää oliivinsävyn ja muuttua okranruskeiksi; silloin keltaiset heltat ja jalka ovat entistä tärkeämpiä. Lajia ei pidä määrittää aasialaisten tori- tai viljelyitiöemiöiden perusteella, jotka voivat kuulua lajiin Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "talvivinokas"
+    },
+    "fr": {
+      "description": "Un champignon lignicole tardif, en tablette, à chapeau vert olive à teinté de violet, visqueux par temps humide, à lames serrées jaunes à jaune orangé, et à pied latéral court, trapu, souvent finement squamuleux, qui peut presque manquer. Les sporophores poussent le plus souvent en gradins superposés sur le bois mort des feuillus, surtout après les premières gelées d’automne.",
+      "cap": "En général 3–10 cm de large (certains guides d’Europe centrale indiquent 3–12 cm, certains guides allemands 3–15 cm, rarement davantage), en demi-cercle ou en rein, souvent à marge festonnée et enroulée; d’abord convexe, puis s’aplatissant. Un peu duveteux dans le jeune âge, plus lisse ensuite, visqueux par temps humide. Vert olive, souvent à tons violets et bruns, pâlissant ensuite vers le brun ocré.",
+      "hymenium": "Lames serrées, étroites, jaune pâle à orangé ocré, jamais blanches. Elles sont adnées au court pied latéral et y décurrent un peu, mais s’arrêtent assez abruptement, sans s’effiler dans le bois.",
+      "stipe": "Latéral, court et trapu. Lorsqu’il est présent, typiquement 1–3 cm de long et 1–2 cm d’épaisseur (certains auteurs ne donnent qu’une longueur maximale de 2 cm, d’autres un pied plus épais et plus long); souvent presque absent. Jaunâtre à ocré, finement velouté ou parsemé de petites squames brunâtres, généralement atténué vers le bois.",
+      "flesh": "Blanchâtre à jaune pâle, assez épaisse et un peu gélatineuse juste sous la cuticule. Odeur peu caractéristique. Saveur douce à légèrement amère; il est déconseillé d’en goûter.",
+      "sporePrint": "Blanche. Spores cylindriques à allantoïdes, lisses, amyloïdes, d’environ 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrophe, solitaire ou plus souvent en petits groupes ou en gradins superposés sur le bois pourrissant, surtout de feuillus (hêtre, aulne, saule, frêne, bouleau) dans des stations humides et ombragées, seulement occasionnellement sur des conifères. En Europe centrale, typiquement d’octobre à décembre; en Grande-Bretagne et en Irlande, en automne et en hiver, souvent après les premières gelées.",
+      "uses": "Certains guides européens le tiennent encore pour comestible, quoique de qualité médiocre. Un avertissement plus tardif, associé à Andreas Gminder, selon lequel il pourrait contenir des substances cancérogènes, n’a pas été confirmé de façon constante; une revue de 2012 a jugé cette affirmation infondée. D’autres guides ne donnent aucune recommandation culinaire. Les avis demeurant partagés, ce catalogue le consigne comme comestible avec prudence et n’encourage pas à le consommer. L’espèce asiatique cultivée Sarcomyxa edulis est un champignon différent, qui n’est pas traité ici.",
+      "confusion": "Le pleurote en huître (Pleurotus ostreatus) fructifie aussi tardivement sur le bois, mais ses lames sont blanches à lilas pâle et décurrentes longuement sur un pied blanchâtre, sans courte zone squamuleuse jaune. Le panelle astringent (Panellus stipticus) est beaucoup plus petit et plus coriace, d’un ocre pâle, à saveur âcre et amère. Les espèces du genre Hohenbuehelia, dont Hohenbuehelia petaloides, sont plus minces et plus caoutchouteuses, généralement à chapeaux plus gris et à lames grisâtres. Le pleurote nidifiant (Phyllotopsis nidulans) a un chapeau d’un orange vif, poilu, et une odeur forte et désagréable.",
+      "notes": "Le pied peut presque manquer sur certains sporophores, mais lorsqu’il est présent, l’insertion latérale jaune à orangée, finement squamuleuse, est un bon caractère de terrain. Les chapeaux âgés peuvent perdre la teinte olive et devenir brun ocré; les lames jaunes et le pied sont alors encore plus importants. Il ne faut pas identifier cette espèce d’après des sporophores de marché ou de culture asiatiques, qui peuvent appartenir à Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Pleurote tardif"
+    },
+    "he": {
+      "description": "פטריית עץ מאוחרת דמוית מדף, בעלת כובע ירוק-זית עד סגול-גוון, רירי בלחות, דפים צפופים צהובים עד צהוב-כתום, ורגל צדדית קצרה ועבה, לעיתים קרובות מחוספסת בקשקשים עדינים, שעשויה כמעט להיעדר. גופי הפרי גדלים בדרך כלל ברובדים חופפים על עץ מת של עצים רחבי-עלים, במיוחד לאחר הכפורים הראשונים של הסתיו.",
+      "cap": "בדרך כלל 3–10 ס״מ ברוחב (מקורות מרכז-אירופיים אחדים מציינים 3–12 ס״מ, מקורות גרמניים אחדים 3–15 ס״מ, ולעיתים נדירות יותר), חצי-עגול עד דמוי כליה, לעיתים קרובות עם שוליים משוננים וכפופים פנימה; תחילה קמור ואחר כך משטח. בצעירותו מעט לבדד, אחר כך חלק יותר ורירי בלחות. ירוק-זית, לעיתים קרובות בגוונים סגולים וחומים, ובהמשך דוהה לחום-אוכרה.",
+      "hymenium": "הדפים צפופים, צרים, צהוב-חיוור עד כתום-אוכרה, לעולם לא לבנים. הם מחוברים לרגל הצדדית הקצרה ויורדים עליה מעט, אך מסתיימים בחדות יחסית ואינם הולכים וצרים בהדרגה לתוך העץ.",
+      "stipe": "צדדית, קצרה ועבה. כשהיא קיימת, אורכה בדרך כלל 1–3 ס״מ ועובייה 1–2 ס״מ (מקורות אחדים נותנים אורך מרבי של 2 ס״מ, אחרים רגל עבה וארוכה יותר); לעיתים קרובות היא כמעט נעדרת. צהבהבה עד אוכרה, קטיפתית בעדינות או מנוקדת בקשקשים חומים קטנים, ובדרך כלל הולכת וצרה לכיוון העץ.",
+      "flesh": "לבנבנה עד צהובה-חיוורת, עבה למדי וג׳לטינית מעט ממש מתחת לקליפת הכובע. הריח אינו אופייני. הטעם עדין עד מעט מר; לא מומלץ לטעום.",
+      "sporePrint": "לבן. הנבגים גליליים עד דמויי נקניק, חלקים, עמילואידיים, כ־4–6.5 × 1–2 µm.",
+      "habitat": "ספרוטרופית, בודדת או לעיתים קרובות יותר בקבוצות קטנות או ברובדים חופפים על עץ נרקב, בעיקר של עצים רחבי-עלים (אשור, אלנוס, ערבה, מילה, ליבנה) במקומות לחים ומוצלים, ורק לעיתים על מחטניים. במרכז אירופה בדרך כלל מאוקטובר עד דצמבר; בבריטניה ובאירלנד בסתיו ובחורף, לעיתים קרובות לאחר הכפורים הראשונים.",
+      "uses": "מדריכים אירופיים אחדים עדיין רואים בה פטרייה אכילה, אם כי באיכות בינונית. אזהרה מאוחרת יותר, המיוחסת לאנדריאס גמינדר, ולפיה היא עלולה להכיל חומרים מסרטנים, לא אושרה באופן עקבי; סקירה משנת 2012 ראתה בטענה זו חסרת בסיס. מדריכים אחרים אינם נותנים המלצה קולינרית. מאחר שהדעות עדיין חלוקות, קטלוג זה רושם אותה כאכילה בזהירות ואינו מעודד לאכול אותה. המין האסייתי המגודל Sarcomyxa edulis הוא פטרייה אחרת ואינו נדון כאן.",
+      "confusion": "פטריית הצדפה (Pleurotus ostreatus) גם היא מניבה מאוחר על עץ, אך הדפים שלה לבנים עד סגלגל-חיוור ויורדים הרחק על רגל לבנבנה, בלי אזור קצר, צהוב ומחוספס. הפנלוס הכיווצי (Panellus stipticus) קטן וקשה בהרבה, אוכרה-חיוור, וטעמו חריף-מר. מיני הסוג Hohenbuehelia, ובהם Hohenbuehelia petaloides, דקים וגומיים יותר, בדרך כלל עם כובעים אפורים יותר ודפים אפרפרים. פטריית הקן הכתומה (Phyllotopsis nidulans) בעלת כובע כתום עז ושעיר, וריח חזק ולא נעים.",
+      "notes": "הרגל עשויה כמעט להיעדר בחלק מגופי הפרי, אך כשהיא קיימת, החיבור הצדדי הצהוב עד הכתום, המחוספס בקשקשים עדינים, הוא סימן שדה מועיל. כובעים ישנים עלולים לאבד את גוון הזית ולהפוך לחום-אוכרה; אז הדפים הצהובים והרגל חשובים עוד יותר. אין לזהות מין זה על פי דגימות שוק או תרבית אסייתיות, שעשויות להשתייך למין Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "देर मौसम का, तख्ते जैसा काष्ठीय कवक, जिसका छत्रक जैतून-हरा से बैंगनी-आभा वाला और नमी में चिपचिपा होता है, गिल घने पीले से नारंगी-पीले होते हैं, और छोटा मोटा, अक्सर बारीक शल्कदार पार्श्व स्तंभ होता है जो लगभग अनुपस्थित भी हो सकता है। फलनकाय आमतौर पर पहली शरद की पाले के बाद मृत चौड़ी-पत्ती लकड़ी पर एक के ऊपर एक पंक्तियों में उगते हैं।",
+      "cap": "आमतौर पर 3–10 सेमी चौड़ा (कुछ मध्य यूरोपीय स्रोत 3–12 सेमी, कुछ जर्मन स्रोत 3–15 सेमी, कभी-कभी और अधिक बताते हैं), अर्धवृत्ताकार से वृक्काकार, अक्सर दांतेदार और अंदर मुड़ी किनारी के साथ; पहले उत्तल, फिर चपटा होता है। युवा अवस्था में थोड़ा महसूस जैसा, बाद में अधिक चिकना और नमी में चिपचिपा। जैतून-हरा, अक्सर बैंगनी और भूरे स्वरों के साथ, बाद में गेरुआ-भूरा पड़ जाता है।",
+      "hymenium": "गिल घने, संकरे, फीके पीले से गेरुआ-नारंगी, कभी सफेद नहीं। वे छोटे पार्श्व स्तंभ से जुड़े होते हैं और उस पर थोड़ा नीचे उतरते हैं, लेकिन काफी अचानक समाप्त होते हैं और लकड़ी में धीरे-धीरे पतले नहीं होते।",
+      "stipe": "पार्श्व, छोटा और मोटा। जब मौजूद हो तो आमतौर पर 1–3 सेमी लंबा और 1–2 सेमी मोटा (कुछ स्रोत अधिकतम लंबाई 2 सेमी देते हैं, कुछ मोटा और लंबा स्तंभ); अक्सर लगभग अनुपस्थित। पीलापन लिए गेरुए तक, बारीक मखमली या छोटे भूरे शल्कों से बिंदीदार, आमतौर पर लकड़ी की ओर संकरा।",
+      "flesh": "सफेदपन लिए फीके पीले तक, काफी मोटी और छत्रक की त्वचा के ठीक नीचे थोड़ी जेलेटिनी। गंध विशिष्ट नहीं। स्वाद मृदु से हल्का कड़वा; चखना सलाह योग्य नहीं।",
+      "sporePrint": "सफेद। बीजाणु बेलनाकार से सॉसेज-आकार, चिकने, ऐमिलॉइड, लगभग 4–6.5 × 1–2 µm।",
+      "habitat": "मृतोपजीवी, अकेला या अधिकतर छोटे समूहों अथवा अतिव्यापी पंक्तियों में सड़ती लकड़ी पर, मुख्यतः चौड़ी-पत्ती वृक्षों (बीच, एल्डर, विलो, ऐश, बर्च) पर नम, छायादार स्थानों में, और केवल कभी-कभी शंकुधारियों पर। मध्य यूरोप में आमतौर पर अक्टूबर से दिसंबर तक; ब्रिटेन और आयरलैंड में शरद और शीत में, अक्सर पहली पाले के बाद।",
+      "uses": "कुछ यूरोपीय मार्गदर्शिकाएँ इसे अभी भी खाने योग्य मानती हैं, यद्यपि गुणवत्ता साधारण है। एंड्रियास ग्मिंडर से जुड़ी बाद की चेतावनी कि इसमें कैंसरकारी पदार्थ हो सकते हैं, लगातार सिद्ध नहीं हुई; 2012 की एक समीक्षा ने उस दावे को निराधार माना। अन्य मार्गदर्शिकाएँ पाक सिफारिश नहीं देतीं। चूँकि मत अभी भी विभाजित हैं, यह सूची इसे सावधानी से खाने योग्य दर्ज करती है और खाने के लिए प्रोत्साहित नहीं करती। एशियाई कृषिकृत जाति Sarcomyxa edulis एक भिन्न कवक है और यहाँ नहीं ली गई है।",
+      "confusion": "ऑयस्टर मशरूम (Pleurotus ostreatus) भी लकड़ी पर देर से फलता है, लेकिन उसके गिल सफेद से फीके बैंगनी होते हैं और सफेदपन लिए स्तंभ पर दूर तक उतरते हैं, बिना छोटे पीले शल्कदार क्षेत्र के। कसैला पैनिलस (Panellus stipticus) बहुत छोटा और कठोर, फीका गेरुआ, तीखा-कड़वा स्वाद वाला है। वंश Hohenbuehelia की जातियाँ, जिनमें Hohenbuehelia petaloides शामिल है, पतली और रबर जैसी होती हैं, आमतौर पर अधिक धूसर छत्रक और धूसर गिल के साथ। नारंगी घोंसला कवक (Phyllotopsis nidulans) का छत्रक चमकीला नारंगी और रोएँदार होता है, तथा गंध तेज और अप्रिय।",
+      "notes": "कुछ फलनकायों पर स्तंभ लगभग अनुपस्थित हो सकता है, लेकिन जब होता है तो पीला से नारंगी, बारीक शल्कदार पार्श्व जुड़ाव एक उपयोगी क्षेत्र लक्षण है। पुराने छत्रक जैतून रंग खोकर गेरुआ-भूरे हो सकते हैं; तब पीले गिल और स्तंभ और भी महत्वपूर्ण हैं। इस जाति की पहचान एशियाई बाज़ार या कृषिकृत नमूनों से नहीं करनी चाहिए, जो जाति Sarcomyxa edulis के हो सकते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Kasna, policasta drvna gljiva maslinasto zelenog do ljubičasto obojenog, u vlazi sluzavog klobuka, gustih žutih do narančastožutih listića i kratkog, čvrstog, često sitno ljuskavog bočnog stručka koji može gotovo nedostajati. Plodišta obično rastu u preklapajućim redovima na odumrlom lisnatom drvu, najčešće nakon prvih jesenskih mrazeva.",
+      "cap": "Obično 3–10 cm širok (neki srednjoeuropski izvori navode 3–12 cm, a neki njemački 3–15 cm, rijetko više), polukružan do bubrežast, često s nazubljenim, podvinutim rubom; najprije ispupčen, kasnije se spljoštava. U mladosti slabo filcast, kasnije glađi i u vlazi sluzav. Maslinasto zelen, često s ljubičastim i smeđim tonovima, kasnije blijedi u oker smeđu.",
+      "hymenium": "Listići gusti, uski, svijetložuti do oker narančasti, nikad bijeli. Prirasli su kratkom bočnom stručku i malo niz njega silaze, ali završavaju prilično oštro, a ne postupno u drvu.",
+      "stipe": "Bočni, kratak i čvrst. Kad je prisutan, tipično je dug 1–3 cm i debel 1–2 cm (neki izvori navode duljinu najviše 2 cm, drugi deblji i duži stručak); često gotovo nedostaje. Žućkast do oker, sitno baršunast ili posut sitnim smeđastim ljuskama, prema drvu se obično suzuje.",
+      "flesh": "Bjelkasta do blijedo žućkasta, prilično debela i neposredno pod kožicom klobuka pomalo želeasta. Miris nije izražen. Okus je blag do slabo gorak; kušanje se ne preporučuje.",
+      "sporePrint": "Bijel. Spore cilindrične do kobasičaste, glatke, amiloidne, oko 4–6,5 × 1–2 µm.",
+      "habitat": "Saprofitska, pojedinačno ili češće u malim skupinama ili preklapajućim redovima na trulećem drvu, uglavnom lisnatog drveća (bukva, joha, vrba, jasen, breza) na vlažnim, sjenovitim staništima, samo ponekad na crnogorici. U srednjoj Europi tipično plodni od listopada do prosinca; u Britaniji i Irskoj u jesen i zimu, često nakon prvih mrazeva.",
+      "uses": "Neki europski priručnici je i dalje navode kao jestivu, iako samo skromne kakvoće. Kasnije se pojavilo upozorenje, povezano s Andreasom Gminderom, da može sadržavati kancerogene tvari; tu tvrdnju nije bilo moguće dosljedno potvrditi, a pregled iz 2012. smatrao ju je neutemeljenom. Drugi priručnici ne daju nikakvu kulinarsku preporuku. Budući da mišljenja ostaju podijeljena, ovaj je katalog bilježi kao jestivu s oprezom i ne potiče jedenje. Uzgojena azijska vrsta Sarcomyxa edulis druga je gljiva i ovdje se ne razmatra.",
+      "confusion": "Bukovača (Pleurotus ostreatus) također plodi kasno na drvu, ali su joj listići bijeli do bjeloljubičasti i daleko silaze niz bjelkasti stručak, bez kratke žute, ljuskave zone. Obična panjevčica (Panellus stipticus) znatno je manja i tvrđa, blijedo oker, ljuto-gorkog okusa. Vrste roda Hohenbuehelia, uključujući Hohenbuehelia petaloides, tanje su i više gumene, obično sa sivijim klobucima i sivkastim listićima. Narančasta gnijezdovka (Phyllotopsis nidulans) ima jarko narančast, dlakav klobuk i jak neugodan miris.",
+      "notes": "Stručak na nekim plodištima gotovo nedostaje, ali kad je prisutan, žuto do narančasto, sitno ljuskavo bočno pričvršćenje korisno je terensko obilježje. Stariji klobuci mogu izgubiti maslinasti ton i posmeđiti; tada su žuti listići i stručak još važniji. Ovu vrstu ne treba određivati prema azijskim tržnim ili uzgojenim plodištima, koja mogu pripadati vrsti Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Késői, polcszerű, fán növő gomba olajzöldtől ibolyásan árnyalt, nedves időben nyálkás kalappal, sűrű sárga vagy narancssárga lemezekkel, valamint rövid, zömök, gyakran finoman pikkelyes oldalsó tönkkel, amely majdnem hiányozhat. A termőtestek rendszerint egymást átfedő sorokban nőnek elhalt lomblevelű faanyagon, különösen az első őszi fagyok után.",
+      "cap": "Általában 3–10 cm széles (egyes közép-európai források 3–12 cm-t, egyes németek 3–15 cm-t említenek, ritkán többet), félkörös vagy vese alakú, gyakran csipkézett, begöngyölt széllel; először domború, majd ellaposodik. Fiatalon kissé nemezes, később simább, nedves időben nyálkás. Olajzöld, gyakran ibolyás és barnás tónusokkal, később okkerbarnára fakul.",
+      "hymenium": "A lemezek sűrűek, keskenyek, halványsárgák vagy okkernarancsok, soha nem fehérek. A rövid oldalsó tönkhöz nőttek, és kissé lefutnak rajta, de meglehetősen hirtelen végződnek, nem vékonyodnak fokozatosan a fába.",
+      "stipe": "Oldalsó, rövid és zömök. Ha megvan, tipikusan 1–3 cm hosszú és 1–2 cm vastag (egyes források legfeljebb 2 cm hosszt adnak, mások vastagabb és hosszabb tönköt); gyakran majdnem hiányzik. Sárgás vagy okkeres, finoman bársonyos vagy apró barnás pikkelyekkel hintett, a fa felé általában keskenyedő.",
+      "flesh": "Fehéres vagy halványsárgás, elég vastag, és közvetlenül a kalapbőr alatt kissé kocsonyás. Szaga nem jellegzetes. Íze enyhe vagy enyhén kesernyés; megkóstolni nem ajánlott.",
+      "sporePrint": "Fehér. A spórák hengeresek vagy kolbász alakúak, simák, amiloidok, körülbelül 4–6,5 × 1–2 µm.",
+      "habitat": "Szaprotróf, magányosan vagy gyakrabban kis csoportokban, illetve egymást átfedő sorokban korhadó fán, elsősorban lomblevelűeken (bükk, éger, fűz, kőris, nyír) nedves, árnyékos helyeken, csak alkalmanként tűlevelűeken. Közép-Európában tipikusan októbertől decemberig; Nagy-Britanniában és Írországban ősszel és télen, gyakran az első fagyok után.",
+      "uses": "Egyes európai határozók még mindig ehetőnek tartják, bár csak szerény minőségűnek. Később Andreas Gminderhez kapcsolódó figyelmeztetés jelent meg, miszerint rákkeltő anyagokat tartalmazhat; ezt nem sikerült következetesen igazolni, és egy 2012-es áttekintés megalapozatlannak ítélte. Más határozók nem adnak kulináris ajánlást. Mivel a vélemények megosztottak, ez a katalógus óvatosan ehetőként tartja nyilván, és nem bátorít a fogyasztására. A termesztett ázsiai Sarcomyxa edulis másik gomba, és itt nem tárgyaljuk.",
+      "confusion": "A laskagomba (Pleurotus ostreatus) szintén későn terem fán, de lemezei fehérek vagy halványlilák, és hosszan lefutnak egy fehéres tönkön, rövid sárga, pikkelyes tönkzóna nélkül. A keserű kacskagomba (Panellus stipticus) sokkal kisebb és keményebb, halványokkeres, csípősen keserű ízű. A Hohenbuehelia nemzetség fajai, köztük a Hohenbuehelia petaloides, vékonyabbak és gumiszerűbbek, általában szürkébb kalappal és szürkés lemezekkel. A narancsszínű fészekgomba (Phyllotopsis nidulans) élénknarancs, szőrös kalapú, erős kellemetlen szagú.",
+      "notes": "A tönk egyes termőtesteken majdnem hiányozhat, de ha megvan, a sárga vagy narancsszínű, finoman pikkelyes oldalsó tapadás hasznos terepi bélyeg. Az idős kalapok elveszíthetik az olajzöld tónust, és okkerbarnává válhatnak; akkor a sárga lemezek és a tönk még fontosabbak. Ezt a fajt nem szabad ázsiai piaci vagy termesztett példányokról azonosítani, amelyek a Sarcomyxa edulis fajhoz tartozhatnak.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "sárgatönkű áldücskőgomba"
+    },
+    "id": {
+      "description": "Jamur kayu akhir musim yang berbentuk rak, dengan tudung hijau zaitun hingga keunguan, berlendir saat basah, insang rapat berwarna kuning hingga kuning jingga, dan batang lateral yang pendek, kekar, sering bersisik halus, yang hampir boleh tidak ada. Badan buah biasanya tumbuh dalam deretan bertingkat pada kayu mati pohon berdaun lebar, terutama setelah embun beku musim gugur yang pertama.",
+      "cap": "Umumnya 3–10 cm lebar (beberapa sumber Eropa Tengah menyebut 3–12 cm, beberapa sumber Jerman 3–15 cm, jarang lebih), setengah lingkaran hingga berbentuk ginjal, sering dengan tepi bergerigi dan terlipat ke dalam; mula-mula cembung, kemudian merata. Ketika muda sedikit berbulu halus, kemudian lebih licin dan berlendir saat basah. Hijau zaitun, sering dengan nada ungu dan cokelat, kemudian memudar menjadi cokelat oker.",
+      "hymenium": "Insang rapat, sempit, kuning pucat hingga jingga oker, tidak pernah putih. Melekat pada batang lateral yang pendek dan turun sedikit di situ, tetapi berakhir cukup mendadak, tidak meruncing berangsur ke dalam kayu.",
+      "stipe": "Lateral, pendek dan kekar. Jika ada, biasanya 1–3 cm panjang dan 1–2 cm tebal (beberapa sumber memberi panjang paling-paling 2 cm, yang lain batang lebih tebal dan lebih panjang); sering hampir tidak ada. Kekuningan hingga oker, berbulu beludru halus atau bertabur sisik cokelat kecil, umumnya menyempit ke arah kayu.",
+      "flesh": "Keputihan hingga kuning pucat, cukup tebal dan sedikit beragar tepat di bawah kulit tudung. Bau tidak khas. Rasa lunak hingga agak pahit; tidak dianjurkan untuk dicicipi.",
+      "sporePrint": "Putih. Spora silindris hingga berbentuk sosis, licin, amiloid, kira-kira 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotof, soliter atau lebih sering dalam kelompok kecil atau deretan bertingkat pada kayu membusuk, terutama pohon berdaun lebar (beech, alder, willow, abu, birch) di tempat lembap dan teduh, hanya kadang-kadang pada konifer. Di Eropa Tengah biasanya dari Oktober hingga Desember; di Britania dan Irlandia pada musim gugur dan musim dingin, sering setelah embun beku pertama.",
+      "uses": "Beberapa panduan Eropa masih menganggapnya dapat dimakan, meskipun mutunya sedang. Peringatan kemudian yang dikaitkan dengan Andreas Gminder bahwa jamur ini mungkin mengandung zat karsinogen tidak dikonfirmasi secara konsisten; tinjauan tahun 2012 menilai klaim itu tidak berdasar. Panduan lain tidak memberi anjuran kuliner. Karena pendapat masih terbagi, katalog ini mencatatnya sebagai dapat dimakan dengan hati-hati dan tidak menganjurkan untuk memakannya. Spesies Asia yang dibudidayakan Sarcomyxa edulis adalah jamur lain dan tidak dibahas di sini.",
+      "confusion": "Jamur tiram (Pleurotus ostreatus) juga berbuah terlambat pada kayu, tetapi insangnya putih hingga ungu pucat dan turun jauh pada batang keputihan, tanpa zona batang pendek, kuning, dan bersisik. Panellus sepat (Panellus stipticus) jauh lebih kecil dan lebih keras, oker pucat, dengan rasa pedas pahit. Spesies genus Hohenbuehelia, termasuk Hohenbuehelia petaloides, lebih tipis dan lebih kenyal, biasanya dengan tudung lebih abu-abu dan insang keabu-abuan. Jamur sarang jingga (Phyllotopsis nidulans) bertudung jingga cerah dan berbulu, serta berbau kuat dan tidak sedap.",
+      "notes": "Batang hampir boleh tidak ada pada beberapa badan buah, tetapi bila ada, perlekatan lateral kuning hingga jingga yang bersisik halus adalah ciri lapangan yang berguna. Tudung tua dapat kehilangan nada zaitun dan menjadi cokelat oker; saat itu insang kuning dan batang menjadi lebih penting. Spesies ini tidak boleh diidentifikasi dari spesimen pasar atau budidaya Asia, yang mungkin termasuk spesies Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo lignicolo tardivo, a mensola, con cappello verde oliva o tinto di violetto, viscido a umido, lamelle fitte gialle o giallo-arancio, e un gambo laterale corto, tozzo, spesso finemente squamuloso, che può quasi mancare. I corpi fruttiferi crescono di solito in file sovrapposte su legno morto di latifoglie, soprattutto dopo le prime gelate autunnali.",
+      "cap": "Di solito 3–10 cm di larghezza (alcune fonti dell’Europa centrale indicano 3–12 cm, alcune tedesche 3–15 cm, raramente di più), semicircolare o reniforme, spesso con margine festonato e involuto; dapprima convesso, poi si appiattisce. Un po’ feltrato da giovane, più liscio in seguito, viscido a umido. Verde oliva, spesso con toni violetti e bruni, poi scolorante verso il bruno ocra.",
+      "hymenium": "Lamelle fitte, strette, giallo pallido o arancio ocra, mai bianche. Sono adnate al corto gambo laterale e vi decorrono un poco, ma terminano in modo piuttosto brusco, senza assottigliarsi nel legno.",
+      "stipe": "Laterale, corto e tozzo. Quando è presente misura tipicamente 1–3 cm di lunghezza e 1–2 cm di spessore (alcune fonti danno una lunghezza massima di 2 cm, altre un gambo più grosso e più lungo); spesso quasi manca. Giallastro o ocra, finemente vellutato o cosparso di piccole squamette brunastre, in genere attenuato verso il legno.",
+      "flesh": "Biancastra o giallo pallido, piuttosto spessa e un po’ gelatinosa appena sotto la cuticola. Odore poco caratteristico. Sapore mite o lievemente amaro; non si consiglia di assaggiarlo.",
+      "sporePrint": "Bianca. Spore cilindriche o allantoidi, lisce, amiloidi, di circa 4–6,5 × 1–2 µm.",
+      "habitat": "Saprofita, solitario o più spesso in piccoli gruppi o file sovrapposte su legno in decomposizione, soprattutto di latifoglie (faggio, ontano, salice, frassino, betulla) in stazioni umide e ombrose, solo occasionalmente su conifere. In Europa centrale tipicamente da ottobre a dicembre; in Gran Bretagna e Irlanda in autunno e in inverno, spesso dopo le prime gelate.",
+      "uses": "Alcune guide europee lo ritengono ancora commestibile, sebbene di qualità mediocre. Un avvertimento successivo, associato ad Andreas Gminder, secondo cui potrebbe contenere sostanze cancerogene, non è stato confermato in modo coerente; una rassegna del 2012 ha giudicato tale affermazione infondata. Altre guide non danno raccomandazioni culinarie. Poiché i pareri restano divisi, questo catalogo lo registra come commestibile con cautela e non incoraggia a mangiarlo. La specie asiatica coltivata Sarcomyxa edulis è un fungo diverso e non è trattata qui.",
+      "confusion": "L’ostrica (Pleurotus ostreatus) fruttifica anch’essa tardi sul legno, ma ha lamelle bianche o lilla pallido che decorrono a lungo su un gambo biancastro, senza una breve zona gialla e squamulosa. Il panelletto astringente (Panellus stipticus) è molto più piccolo e coriaceo, ocra pallido, dal sapore acre e amaro. Le specie del genere Hohenbuehelia, tra cui Hohenbuehelia petaloides, sono più sottili e gomose, di solito con cappelli più grigi e lamelle grigiastre. Il fungo nido arancione (Phyllotopsis nidulans) ha un cappello di un arancio vivo, peloso, e un odore forte e sgradevole.",
+      "notes": "Il gambo può quasi mancare su alcuni corpi fruttiferi, ma quando è presente l’inserzione laterale gialla o aranciata, finemente squamulosa, è un utile carattere di campo. I cappelli vecchi possono perdere la tinta oliva e diventare bruno ocra; allora le lamelle gialle e il gambo sono ancora più importanti. Questa specie non va identificata da esemplari di mercato o di coltivazione asiatici, che possono appartenere a Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "晩秋から冬にかけて材上に棚状に生じるきのこで、傘はオリーブ緑色から紫を帯び、湿時は粘性があり、ひだは密で黄色から橙黄色、柄は短く太い側生で、しばしば細かい鱗片をつけ、ほとんど欠くこともある。子実体は、特に秋の初霜のあと、広葉樹の枯れ木に重なり合う段になって生じることが多い。",
+      "cap": "通常は幅3–10 cm（中欧の資料では3–12 cm、ドイツの資料では3–15 cm、まれにそれ以上とするものもある）、半円形から腎臓形で、しばしば縁は波形で内巻き、初めは丸山形、のちに扁平になる。若いときはやや綿毛状、のちに滑らかになり、湿時は粘性がある。オリーブ緑色で、しばしば紫や褐色を帯び、のちに淡黄褐色に退色する。",
+      "hymenium": "ひだは密で狭く、淡黄色から淡黄橙色、決して白色ではない。短い側生の柄に着き、やや垂生するが、材へ向かって細く伸びるのではなく、比較的急に終わる。",
+      "stipe": "側生で短く太い。ある場合は通常、長さ1–3 cm、太さ1–2 cm（最大長を2 cmとする資料も、より太く長い柄を記す資料もある）。しばしばほとんどない。淡黄から淡黄褐色、細かくビロード状、または小さな褐色の鱗片を散らし、材に向かって細くなることが多い。",
+      "flesh": "白っぽいから淡黄色、かなり厚く、傘の表皮の直下は少しゼラチン質。臭いは特にない。味は温和からやや苦く、味わうことはすすめない。",
+      "sporePrint": "白色。胞子は円筒形からソーセージ形、平滑、アミロイド、およそ4–6.5 × 1–2 µm。",
+      "habitat": "腐生。単独、またはより多くは小さな群れや重なり合う段になって、腐朽材上、主に広葉樹（ブナ、ハンノキ、ヤナギ、トネリコ、カバノキ）の湿った日陰に生じ、針葉樹上はまれである。中欧では典型的に10月から12月、イギリスおよびアイルランドでは秋から冬、しばしば初霜のあとに見られる。",
+      "uses": "一部のヨーロッパの図鑑では、品質は劣るものの食用としている。のちにアンドレアス・グミンダーに関連づけられた、発がん性物質を含む可能性への注意は一貫して確認されておらず、2012年の総説はその主張を根拠薄弱とした。他の図鑑は食用としての推奨を示さない。見解が分かれたままであるため、本目録では慎重に食用とし、食用をすすめない。アジアで栽培される Sarcomyxa edulis は別種であり、ここでは扱わない。",
+      "confusion": "ヒラタケ（Pleurotus ostreatus）も材上に遅く発生するが、ひだは白から淡紫色で、白い柄を長く垂生し、短い黄色い鱗片帯はない。ニガカワタケ（Panellus stipticus）はずっと小さく硬く、淡い黄土色で、味は辛く苦い。Hohenbuehelia 属、とくに Hohenbuehelia petaloides はより薄くゴム質で、傘はより灰色、ひだも灰白色であることが多い。キヒラタケ（Phyllotopsis nidulans）は鮮やかな橙色の毛深い傘と、強く不快な臭いをもつ。",
+      "notes": "一部の子実体では柄がほとんどないこともあるが、ある場合は、黄から橙の細かい鱗片のある側生の着き方がよい野外形質となる。古い傘はオリーブ色を失って淡黄褐色になることがあり、そのときは黄色いひだと柄がいっそう重要になる。本種を、Sarcomyxa edulis である可能性のあるアジアの市場品や栽培品から同定してはならない。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "オソムキタケ"
+    },
+    "ko": {
+      "description": "늦은 철에 나무에 선반처럼 나는 버섯으로, 갓은 올리브녹색에서 보랏빛을 띠고 습할 때 점성이 있으며, 주름살은 빽빽하고 노랑에서 주황노랑이며, 대는 짧고 굵은 측생으로 흔히 잔비늘이 있고 거의 없을 수도 있다. 자실체는 특히 가을 첫서리 뒤에 죽은 활엽수 목재에 겹치는 단으로 자라는 일이 많다.",
+      "cap": "보통 폭 3–10 cm(일부 중부 유럽 자료는 3–12 cm, 일부 독일 자료는 3–15 cm, 드물게 더 넓다고 한다), 반원형에서 신장형이며 가장자리가 물결치고 안쪽으로 말리는 일이 많다. 처음에는 볼록하다가 나중에 편평해진다. 어릴 때는 약간 면모상이고 나중에 더 매끈하며 습할 때 점성이 있다. 올리브녹색이며 자주 보라와 갈색 톤을 띠고, 나중에 황토갈색으로 바랜다.",
+      "hymenium": "주름살은 빽빽하고 좁으며 연한 노랑에서 황토주황이고, 결코 하얗지 않다. 짧은 측생 대에 붙고 그 위로 조금 내려가나, 나무 속으로 점점 가늘어지지 않고 비교적 갑자기 끝난다.",
+      "stipe": "측생이며 짧고 굵다. 있을 때는 보통 길이 1–3 cm, 굵기 1–2 cm이다(어떤 자료는 최대 길이 2 cm, 다른 자료는 더 굵고 긴 대를 적는다). 흔히 거의 없다. 노르스름하거나 황토색이며, 가늘게 벨벳 같거나 작은 갈색 비늘이 흩어져 있고, 보통 나무를 향해 가늘어진다.",
+      "flesh": "희거나 연한 노랑이며 꽤 두껍고, 갓 표피 바로 아래는 약간 젤라틴질이다. 냄새는 특징적이지 않다. 맛은 온화하거나 약간 쓰며, 맛보는 것은 권하지 않는다.",
+      "sporePrint": "흰색. 포자는 원통형에서 소시지형, 평활, 아밀로이드, 약 4–6.5 × 1–2 µm.",
+      "habitat": "부생균으로, 홀로 나거나 더 흔히는 작은 무리 또는 겹치는 단으로 썩는 나무, 주로 활엽수(너도밤나무, 오리나무, 버드나무, 물푸레나무, 자작나무)의 습하고 그늘진 곳에 나며, 침엽수에는 드물다. 중부 유럽에서는 전형적으로 10월에서 12월, 영국과 아일랜드에서는 가을과 겨울, 흔히 첫서리 뒤에 난다.",
+      "uses": "일부 유럽 도감은 품질은 평범하더라도 여전히 식용으로 본다. 나중에 안드레아스 그민더와 관련된, 발암 물질을 포함할 수 있다는 경고는 일관되게 확인되지 않았고, 2012년 리뷰는 그 주장을 근거 없는 것으로 보았다. 다른 도감은 요리 권고를 하지 않는다. 견해가 여전히 갈리므로 이 목록은 주의하여 식용으로 기록하며 먹기를 권하지 않는다. 아시아에서 재배되는 Sarcomyxa edulis는 다른 버섯이며 여기서는 다루지 않는다.",
+      "confusion": "느타리(Pleurotus ostreatus)도 나무에 늦게 돋지만, 주름살은 하얗거나 연한 자주색이고 희끄무레한 대를 따라 멀리 내려가며, 짧고 노란 비늘 띠가 없다. 쓴부채버섯(Panellus stipticus)은 훨씬 작고 단단하며 연한 황토색이고 맛은 맵고 쓰다. Hohenbuehelia속의 종들, 그중 Hohenbuehelia petaloides는 더 얇고 고무질이며, 보통 더 회색인 갓과 회백색 주름살을 가진다. 주황둥지버섯(Phyllotopsis nidulans)은 선명한 주황의 털이 있는 갓과 강하고 불쾌한 냄새가 있다.",
+      "notes": "일부 자실체에서는 대가 거의 없을 수 있으나, 있을 때는 노랑에서 주황의 잔비늘이 있는 측생 착생부가 유용한 야외 특징이다. 오래된 갓은 올리브색을 잃고 황토갈색이 될 수 있으며, 그때는 노란 주름살과 대가 더욱 중요하다. 이 종을 Sarcomyxa edulis일 수 있는 아시아 시장 또는 재배 표본으로 동정해서는 안 된다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Vėlyvas, lentyninis ant medienos augantis grybas su alyvžaliu iki violetinio atspalvio, drėgnu oru gleivėtu kepurėle, tankiomis geltonomis iki oranžinės geltonos lakštelėmis ir trumpu, tvirtu, dažnai smulkiai žvynuotu šoniniu kotu, kuris beveik gali nebūti. Vaisiakūniai paprastai auga persidengiančiomis eilėmis ant negyvos lapuočių medienos, ypač po pirmųjų rudeninių šalnų.",
+      "cap": "Paprastai 3–10 cm pločio (kai kurie Vidurio Europos šaltiniai nurodo 3–12 cm, kai kurie vokiški 3–15 cm, retai daugiau), pusapvalė iki inkstiška, dažnai su skiautėtu, užsirietusiu kraštu; pirma iškili, vėliau plokštėja. Jauna šiek tiek veltiniška, vėliau lygesnė ir drėgnu oru gleivėta. Alyvžalė, dažnai su violetiniais ir rudais tonais, vėliau blunkanti į ochros rudą.",
+      "hymenium": "Lakštelės tankios, siauros, blyškiai geltonos iki ochros oranžinės, niekada baltos. Jos priaugusios prie trumpo šoninio koto ir šiek tiek juo leidžiasi žemyn, bet baigiasi gana staigiai, o ne palaipsniui medienoje.",
+      "stipe": "Šoninis, trumpas ir tvirtas. Kai yra, paprastai 1–3 cm ilgio ir 1–2 cm storio (kai kurie šaltiniai nurodo ilgiausiai 2 cm, kiti storesnį ir ilgesnį kotą); dažnai beveik nėra. Geltonas iki ochros, smulkiai aksominis arba nusėtas smulkiais rusvais žvyneliais, medienos link paprastai smailėjantis.",
+      "flesh": "Balsva iki blyškiai gelsva, gana stora ir tuoj po kepurėlės odele kiek drebutinė. Kvapas neišraiškingas. Skonis švelnus iki silpnai kartaus; ragauti nerekomenduojama.",
+      "sporePrint": "Balta. Sporos cilindriškos iki dešrelinės, lygios, amiloidinės, apie 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrofinis, pavieniui arba dažniau mažomis grupelėmis ar persidengiančiomis eilėmis ant pūvančios medienos, ypač lapuočių (bukas, alksnis, gluosnis, uosis, beržas) drėgnose, pavėsingose vietose, tik retkarčiais ant spygliuočių. Vidurio Europoje tipiškai nuo spalio iki gruodžio; Britanijoje ir Airijoje rudenį ir žiemą, dažnai po pirmųjų šalnų.",
+      "uses": "Kai kurie Europos vadovai vis dar laiko jį valgomu, nors tik kuklios kokybės. Vėliau pasirodė su Andreasu Gminderiu siejamas įspėjimas, kad jis gali turėti kancerogeninių medžiagų; šio teiginio nepavyko nuosekliai patvirtinti, o 2012 m. apžvalga laikė jį nepagrįstu. Kiti vadovai kulinarinių rekomendacijų neduoda. Kadangi nuomonės vis dar skiriasi, šis katalogas jį žymi kaip valgomas atsargiai ir neskatina valgyti. Azijoje auginama rūšis Sarcomyxa edulis yra kitas grybas ir čia nenagrinėjama.",
+      "confusion": "Austriagalvė (Pleurotus ostreatus) taip pat dera vėlai ant medienos, bet jos lakštelės baltos iki blyškiai violetinės ir toli leidžiasi balsvu kotu, be trumpos geltonos, žvynuotos koto zonos. Kartusis kelmutis (Panellus stipticus) yra daug mažesnis ir kietesnis, blyškiai ochrinis, aštriai kartaus skonio. Genties Hohenbuehelia rūšys, įskaitant Hohenbuehelia petaloides, yra plonesnės ir gumiškesnės, paprastai su pilkesnėmis kepurėlėmis ir pilkšvomis lakštelėmis. Oranžinė lizdinė kreivabudė (Phyllotopsis nidulans) turi ryškiai oranžinę, plaukuotą kepurėlę ir stiprų nemalonų kvapą.",
+      "notes": "Kai kuriuose vaisiakūniuose kotas beveik nėra, bet kai jis yra, geltonas iki oranžinis, smulkiai žvynuotas šoninis prisitvirtinimas yra naudingas lauko požymis. Senos kepurėlės gali prarasti alyvinį atspalvį ir paruduoti; tada geltonos lakštelės ir kotas dar svarbesni. Šios rūšies nereikėtų nustatyti pagal Azijos turgaus ar auginamus vaisiakūnius, kurie gali priklausyti rūšiai Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Geltonkotis skiautenėlis"
+    },
+    "lv": {
+      "description": "Vēla, plauktveida koksnes sēne ar olīvzaļu līdz violeti tonētu, mitrumā gļotainu cepurīti, blīvām dzeltenām līdz oranžidzeltenām lapiņām un īsu, tvirtu, bieži sīki zvīņainu sānu kātiņu, kas var gandrīz iztrūkt. Augļķermeņi parasti aug pārklājošās rindās uz atmirušas lapkoku koksnes, īpaši pēc pirmajām rudens salnām.",
+      "cap": "Parasti 3–10 cm plata (daži Viduseiropas avoti norāda 3–12 cm, daži vācu 3–15 cm, reti vairāk), pusapaļa līdz nieres formai, bieži ar robainu, ieritinātu malu; vispirms izliekta, vēlāk saplok. Jauna nedaudz filcaina, vēlāk gludāka un mitrumā gļotaina. Olīvzaļa, bieži ar violeti un brūniem toņiem, vēlāk bālējot uz okrbrūnu.",
+      "hymenium": "Lapiņas blīvas, šauras, gaiši dzeltenas līdz okrooranžas, nekad baltas. Tās ir pieaugušas īsam sānu kātiņam un nedaudz pa to nolaidas, bet beidzas diezgan strauji, nevis pakāpeniski koksnē.",
+      "stipe": "Sānu, īss un tvirts. Kad ir klātesošs, tipiski 1–3 cm garš un 1–2 cm biezs (daži avoti norāda garumu ne vairāk kā 2 cm, citi biezāku un garāku kātiņu); bieži gandrīz iztrūkst. Dzeltenīgs līdz okrains, sīki samtains vai nokaisīts ar sīkām brūnganām zvīņām, pret koksni parasti sašaurināts.",
+      "flesh": "Bālgana līdz gaiši dzeltenīga, diezgan bieza un tieši zem cepurītes miziņas nedaudz želejveida. Smarža nav izteikta. Garša ir maiga līdz viegli rūgta; nogaršot nav ieteicams.",
+      "sporePrint": "Balta. Sporas cilindriskas līdz desiņveida, gludas, amiloīdas, apmēram 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrofa, pa vienai vai biežāk nelielās grupās vai pārklājošās rindās uz trūdošas koksnes, galvenokārt lapkokiem (dižskābardis, alksnis, kārkls, osis, bērzs) mitrās, ēnainās vietās, tikai retumis uz skujkokiem. Viduseiropā tipiski no oktobra līdz decembrim; Lielbritānijā un Īrijā rudenī un ziemā, bieži pēc pirmajām salnām.",
+      "uses": "Daži Eiropas ceļveži to joprojām uzskata par ēdamu, kaut arī tikai pieticīgas kvalitātes. Vēlāk parādījās ar Andreasu Gminderu saistīts brīdinājums, ka tā var saturēt kancerogēnas vielas; šo apgalvojumu nav izdevies konsekventi apstiprināt, un 2012. gada pārskats to uzskatīja par nepamatotu. Citi ceļveži kulināru ieteikumu nedod. Tā kā viedokļi joprojām dalās, šis katalogs to reģistrē kā ēdamu ar piesardzību un nemudina ēst. Āzijā kultivētā suga Sarcomyxa edulis ir cita sēne un šeit netiek aplūkota.",
+      "confusion": "Austeru atmatene (Pleurotus ostreatus) arī aug vēlu uz koksnes, bet tās lapiņas ir baltas līdz gaiši violetām un tālu nolaidas pa bālganu kātiņu, bez īsas dzeltenas, zvīņainas kātiņa zonas. Rūgtā celmene (Panellus stipticus) ir daudz mazāka un cietāka, gaiši okra, ar asas rūgtuma garšu. Ģints Hohenbuehelia sugas, tostarp Hohenbuehelia petaloides, ir tievākas un gumijveidīgākas, parasti ar pelēkākām cepurītēm un pelēcīgām lapiņām. Oranžajai ligzdas sēnei (Phyllotopsis nidulans) ir spilgti oranža, mataina cepurīte un stipra nepatīkama smarža.",
+      "notes": "Dažiem augļķermeņiem kātiņš gandrīz iztrūkst, bet kad tas ir, dzeltenais līdz oranžais, sīki zvīņainais sānu piestiprinājums ir noderīga lauka pazīme. Vecākas cepurītes var zaudēt olīvas toni un kļūt okrbrūnas; tad dzeltenās lapiņas un kātiņš ir vēl svarīgāki. Šo sugu nevajadzētu noteikt pēc Āzijas tirgus vai audzētiem augļķermeņiem, kas var piederēt sugai Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Vēlā pundurkamolene"
+    },
+    "nl": {
+      "description": "Een laat in het seizoen verschijnende, plankvormige houtzwam met een olijfgroene tot violet getinte, bij vocht slijmerige hoed, dichte gele tot oranjegele lamellen en een korte, stevige, vaak fijn schubbige laterale steel die bijna kan ontbreken. De vruchtlichamen groeien meestal in elkaar overlappende rijen op dood loofhout, vooral na de eerste herfstvorst.",
+      "cap": "Doorgaans 3–10 cm breed (sommige Midden-Europese bronnen geven 3–12 cm, sommige Duitse 3–15 cm, zelden groter), halfrond tot niervormig, vaak met een gelobde, ingerolde rand; eerst gewelfd, later afplattend. Jong iets viltig, later gladder en bij vocht slijmerig. Olijfgroen, vaak met violette en bruine tinten, later verblekend tot okerbruin.",
+      "hymenium": "Lamellen dicht, smal, bleekgeel tot okeroranje, nooit wit. Ze zijn aangehecht aan de korte laterale steel en lopen er een stukje langs af, maar eindigen vrij abrupt en niet geleidelijk in het hout.",
+      "stipe": "Lateraal, kort en stevig. Indien aanwezig typisch 1–3 cm lang en 1–2 cm dik (sommige bronnen noemen hoogstens 2 cm lengte, andere een dikkere en langere steel); vaak bijna afwezig. Geelachtig tot oker, fijn fluweelachtig of bezet met kleine bruinachtige schubjes, naar het hout toe meestal versmald.",
+      "flesh": "Witachtig tot bleekgeel, vrij dik en vlak onder de hoedhuid wat gelatineus. Geur onopvallend. Smaak mild tot licht bitter; proeven wordt afgeraden.",
+      "sporePrint": "Wit. Sporen cilindrisch tot worstvormig, glad, amyloïde, ongeveer 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotroof, alleen of vaker in kleine groepjes of overlappende rijen op rottend hout, vooral van loofbomen (beuk, els, wilg, es, berk) op vochtige, beschaduwde plaatsen, slechts incidenteel op naaldhout. In Midden-Europa typisch van oktober tot december; in Groot-Brittannië en Ierland in de herfst en winter, vaak na de eerste vorst.",
+      "uses": "Sommige Europese gidsen vermelden hem nog steeds als eetbaar, zij het van bescheiden kwaliteit. Een latere waarschuwing, verbonden met Andreas Gminder, dat hij kankerverwekkende stoffen zou bevatten, is niet consistent bevestigd; een overzicht uit 2012 achtte die claim ongegrond. Andere gidsen geven geen culinaire aanbeveling. Omdat de meningen verdeeld blijven, noteert deze catalogus hem als eetbaar met voorzichtigheid en moedigt het eten ervan niet aan. De in Azië gekweekte soort Sarcomyxa edulis is een andere zwam en wordt hier niet behandeld.",
+      "confusion": "De oesterzwam (Pleurotus ostreatus) vrucht eveneens laat op hout, maar heeft witte tot bleeklila lamellen die ver langs een witachtige steel aflopen, zonder een korte gele, schubbige steelzone. De bittere schelpzwam (Panellus stipticus) is veel kleiner en taaier, bleek oker, met een scherp bittere smaak. Soorten van het geslacht Hohenbuehelia, waaronder Hohenbuehelia petaloides, zijn dunner en rubberachtiger, meestal met grijzere hoeden en grijze lamellen. De oranje nestzwam (Phyllotopsis nidulans) heeft een helder oranje, behaarde hoed en een sterke onaangename geur.",
+      "notes": "Aan sommige vruchtlichamen ontbreekt de steel bijna, maar als hij aanwezig is, is de gele tot oranje, fijn schubbige laterale aanhechting een nuttig veldkenmerk. Oudere hoeden kunnen de olijftint verliezen en okerbruin worden; dan zijn de gele lamellen en de steel nog belangrijker. Deze soort moet niet worden gedetermineerd aan de hand van Aziatische markt- of kweekvruchtlichamen, die tot Sarcomyxa edulis kunnen behoren.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Groene schelpzwam"
+    },
+    "no": {
+      "description": "En sein, hylleliknende vedboende sopp med olivengrønn til fiolettonnet, i vått vær slimete hatt, tette gule til orangegule skiver og en kort, kraftig, ofte fint skjellkledd sidestilt stilk som nesten kan mangle. Fruktlegemene vokser vanligvis i overlappende rekker på død lauvved, særlig etter de første høstfrostene.",
+      "cap": "Vanligvis 3–10 cm bred (noen sentraleuropeiske kilder oppgir 3–12 cm, noen tyske 3–15 cm, sjelden større), halvrund til nyreformet, ofte med fliket, innrullet rand; først hvelvet, senere flatere. Ung litt filtet, senere jevnere og slimete i vått vær. Olivengrønn, ofte med fiolette og brune toner, senere blekende til okerbrun.",
+      "hymenium": "Skiver tette, smale, blekgule til okeroransje, aldri hvite. De er festet til den korte sidestilte stilken og løper et stykke nedover den, men ender ganske brått og ikke gradvis ut i veden.",
+      "stipe": "Sidestilt, kort og kraftig. Når den er til stede typisk 1–3 cm lang og 1–2 cm tykk (noen kilder oppgir høyst 2 cm lengde, andre en tykkere og lengre stilk); ofte nesten manglende. Gulaktig til oker, fint fløyelsaktig eller besatt med små brunlige skjell, vanligvis avsmalnende mot veden.",
+      "flesh": "Hvitaktig til blekgul, ganske tykk og litt geléaktig like under hatthuden. Lukten er ubetydelig. Smaken er mild til svakt bitter; det frarådes å smake på den.",
+      "sporePrint": "Hvit. Sporer sylindriske til pølseformede, glatte, amyloide, omtrent 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrof, enkeltvis eller oftere i små grupper eller overlappende rekker på råtten ved, særlig av lauvtrær (bøk, or, vier, ask, bjørk) på fuktige, skyggefulle steder, bare av og til på barved. I Sentral-Europa typisk fra oktober til desember; i Storbritannia og Irland om høsten og vinteren, ofte etter de første frostene.",
+      "uses": "Noen europeiske håndbøker oppgir den fortsatt som spiselig, om enn av beskjeden kvalitet. En senere advarsel, knyttet til Andreas Gminder, om at den kan inneholde kreftfremkallende stoffer, er ikke blitt konsekvent bekreftet; en gjennomgang fra 2012 anså påstanden som udokumentert. Andre håndbøker gir ingen kulinarisk anbefaling. Fordi vurderingene fortsatt er delte, registrerer denne katalogen den som spiselig med forsiktighet og oppfordrer ikke til å spise den. Den dyrkede asiatiske arten Sarcomyxa edulis er en annen sopp og behandles ikke her.",
+      "confusion": "Østerssopp (Pleurotus ostreatus) fruktifiserer også seint på ved, men har hvite til blekfiolette skiver som løper langt nedover en hvitaktig stilk, uten en kort gul, skjellkledd stilksone. Den bitre muslingsoppen (Panellus stipticus) er mye mindre og seigere, blekt oker, med skarpt bitter smak. Arter i slekten Hohenbuehelia, deriblant Hohenbuehelia petaloides, er tynnere og mer gummiaktige, vanligvis med gråere hatter og grålige skiver. Den oransje reirsoppen (Phyllotopsis nidulans) har en klart oransje, håret hatt og en sterk ubehagelig lukt.",
+      "notes": "Stilken kan nesten mangle på noen fruktlegemer, men når den er til stede, er det gule til oransje, fint skjellkledde sidestilte festet et nyttig feltkjennetegn. Eldre hatter kan miste oliventonen og bli okerbrune; da er de gule skivene og stilken enda viktigere. Arten bør ikke bestemmes ut fra asiatiske markeds- eller dyrkede fruktlegemer, som kan tilhøre Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585",
+        "https://www.wikidata.org/wiki/Q81202193"
+      ],
+      "label": "gulgrønn lærhatt"
+    },
+    "pl": {
+      "description": "Późnojesienny, półeczkowaty grzyb nadrzewny o oliwkowozielonym do fioletowawego, w wilgoci śliskim kapeluszu, gęstych żółtych do pomarańczowożółtych blaszkach i krótkim, krępym, często delikatnie łuskowatym bocznym trzonie, który może niemal zanikać. Owocniki zwykle rosną w zachodzących na siebie piętrach na martwym drewnie liściastym, najczęściej po pierwszych jesiennych przymrozkach.",
+      "cap": "Zwykle 3–10 cm szerokości (niektóre środkowoeuropejskie źródła podają 3–12 cm, a niektóre niemieckie 3–15 cm, rzadko więcej), półokrągły do nerkowatego, często z karbowanym, podwiniętym brzegiem; najpierw wypukły, później się spłaszcza. Za młodu słabo filcowaty, później gładszy i w wilgoci śliski. Oliwkowozielony, często z fioletowymi i brązowymi tonami, później blednący do ochrowobrązowego.",
+      "hymenium": "Blaszki gęste, wąskie, jasnożółte do ochrowopomarańczowych, nigdy białe. Są przyrośnięte do krótkiego bocznego trzonu i trochę po nim zbiegają, kończą się jednak dość ostro, a nie zanikając stopniowo w drewnie.",
+      "stipe": "Boczny, krótki i krępy. Gdy obecny, ma typowo 1–3 cm długości i 1–2 cm grubości (niektóre źródła podają długość najwyżej 2 cm, inne grubszy i dłuższy trzon); często niemal zanika. Żółtawy do ochrowego, delikatnie aksamitny lub pokryty drobnymi brązowawymi łuskami, zwykle zwężający się ku drewnu.",
+      "flesh": "Biaława do jasnożółtawej, dość gruba i tuż pod skórką kapelusza nieco galaretowata. Zapach niewyraźny. Smak łagodny do lekko gorzkawego; prób smaku smaku się nie zaleca.",
+      "sporePrint": "Biały. Zarodniki cylindryczne do kiełbaskowatych, gładkie, amyloidalne, około 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotroficzny, pojedynczo lub częściej w małych grupach albo zachodzących na siebie piętrach na próchniejącym drewnie, głównie drzew liściastych (buk, olsza, wierzba, jesion, brzoza) w wilgotnych, cienistych miejscach, tylko sporadycznie na iglastych. W Europie Środkowej owocniki pojawiają się typowo od października do grudnia; w Wielkiej Brytanii i Irlandii jesienią i zimą, często po pierwszych przymrozkach.",
+      "uses": "Niektóre europejskie przewodniki nadal podają go jako jadalny, choć tylko przeciętnej jakości. Później pojawiło się ostrzeżenie, wiązane z Andreasem Gminderem, że może zawierać substancje rakotwórcze; tego twierdzenia nie udało się konsekwentnie potwierdzić, a przegląd z 2012 r. uznał je za bezpodstawne. Inne przewodniki nie dają żadnej rekomendacji kulinarnej. Ponieważ opinie pozostają podzielone, ten katalog oznacza go jako jadalny z ostrożnością i nie zachęca do spożycia. Uprawiany azjatycki gatunek Sarcomyxa edulis to inny grzyb i nie jest tu omawiany.",
+      "confusion": "Boczniak ostrygowaty (Pleurotus ostreatus) również owocuje późno na drewnie, ale jego blaszki są białe do białawofioletowych i daleko zbiegają na białawy trzon, bez krótkiej żółtej, łuskowatej strefy. Łycznik ochrowy (Panellus stipticus) jest znacznie mniejszy i twardszy, bladoochrowy, o ostrym gorzkim smaku. Gatunki z rodzaju Hohenbuehelia, w tym Hohenbuehelia petaloides, są cieńsze i bardziej gumowate, zwykle z szarawymi kapeluszami i szarawymi blaszkami. Boczniak gniazdowaty (Phyllotopsis nidulans) ma jaskrawopomarańczowy, owłosiony kapelusz i silny nieprzyjemny zapach.",
+      "notes": "Na niektórych owocnikach trzon niemal zanika, ale gdy jest obecny, żółte do pomarańczowego, delikatnie łuseczkowate boczne przyczepienie jest przydatną cechą terenową. Starsze kapelusze mogą tracić oliwkowy odcień i brązowieć; wtedy jeszcze ważniejsze stają się żółte blaszki i trzon. Tego gatunku nie należy oznaczać na podstawie azjatyckich okazów targowych lub uprawnych, które mogą należeć do Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Łycznik późny"
+    },
+    "pt": {
+      "description": "Um fungo lenhícola tardio, em forma de prateleira, com chapéu verde-azeitona a tingido de violeta, viscoso com humidade, lâminas apertadas amarelas a amarelo-alaranjado, e um pé lateral curto, robusto, muitas vezes finamente escamoso, que pode quase faltar. Os basidiomas crescem habitualmente em fiadas sobrepostas em madeira morta de folhosas, sobretudo após as primeiras geadas de outono.",
+      "cap": "Em geral 3–10 cm de largura (algumas fontes da Europa Central indicam 3–12 cm, algumas alemãs 3–15 cm, raramente mais), semicircular a reniforme, muitas vezes com margem festonada e enrolada; primeiro convexo, depois aplanando. Um pouco felpudo quando jovem, mais liso depois, viscoso com humidade. Verde-azeitona, muitas vezes com tons violetas e acastanhados, mais tarde desbotando para pardo-ocre.",
+      "hymenium": "Lâminas apertadas, estreitas, amarelo-pálido a laranja-ocre, nunca brancas. Estão adnadas ao curto pé lateral e descem um pouco por ele, mas terminam de forma bastante abrupta, e não adelgaçando na madeira.",
+      "stipe": "Lateral, curto e robusto. Quando presente, mede tipicamente 1–3 cm de comprimento e 1–2 cm de espessura (algumas fontes dão um comprimento máximo de 2 cm, outras um pé mais grosso e mais longo); muitas vezes quase falta. Amarelado a ocre, finamente aveludado ou salpicado de pequenas escamas acastanhadas, em geral atenuado para a madeira.",
+      "flesh": "Esbranquiçada a amarelo-pálido, bastante espessa e um pouco gelatinosa logo sob a cutícula. Cheiro pouco característico. Sabor doce a ligeiramente amargo; não se recomenda prová-la.",
+      "sporePrint": "Branca. Esporos cilíndricos a alantoides, lisos, amiloides, com cerca de 4–6,5 × 1–2 µm.",
+      "habitat": "Saprótrofo, solitário ou mais frequentemente em pequenos grupos ou fiadas sobrepostas em madeira em decomposição, sobretudo de folhosas (faia, amieiro, salgueiro, freixo, bétula) em lugares húmidos e sombrios, só ocasionalmente em coníferas. Na Europa Central, tipicamente de outubro a dezembro; na Grã-Bretanha e na Irlanda, no outono e no inverno, muitas vezes após as primeiras geadas.",
+      "uses": "Alguns guias europeus continuam a considerá-lo comestível, embora de qualidade medíocre. Um aviso posterior, associado a Andreas Gminder, de que poderia conter substâncias cancerígenas, não foi confirmado de forma consistente; uma revisão de 2012 considerou essa afirmação infundada. Outros guias não oferecem recomendação culinária. Como as opiniões permanecem divididas, este catálogo regista-o como comestível com precaução e não incentiva o seu consumo. A espécie asiática cultivada Sarcomyxa edulis é um fungo diferente e não é tratada aqui.",
+      "confusion": "A ostra (Pleurotus ostreatus) também frutifica tarde na madeira, mas as suas lâminas são brancas a lilás pálido e descem muito por um pé esbranquiçado, sem uma zona curta, amarela e escamosa. O panelo adstringente (Panellus stipticus) é muito mais pequeno e coriáceo, de um ocre pálido, de sabor acre e amargo. As espécies do género Hohenbuehelia, incluindo Hohenbuehelia petaloides, são mais finas e borrachudas, em geral com chapéus mais cinzentos e lâminas acinzentadas. O fungo-ninho-alaranjado (Phyllotopsis nidulans) tem um chapéu de um laranja vivo, peloso, e um cheiro forte e desagradável.",
+      "notes": "O pé pode quase faltar em alguns basidiomas, mas quando está presente, a inserção lateral amarela a alaranjada, finamente escamosa, é um carácter útil no campo. Os chapéus velhos podem perder o tom azeitona e tornar-se pardo-ocre; então as lâminas amarelas e o pé são ainda mais importantes. Não se deve identificar esta espécie a partir de exemplares de mercado ou de cultivo asiáticos, que podem pertencer a Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă lignicolă târzie, în formă de poliță, cu pălăria verde-măslinie până la nuanțată cu violet, vâscoasă pe umezeală, lamele dese galbene până la galben-portocaliu, și un picior lateral scurt, îndesat, adesea fin solzos, care poate aproape să lipsească. Corpurile de rod cresc de obicei în rânduri suprapuse pe lemn mort de foioase, mai ales după primele înghețuri de toamnă.",
+      "cap": "De obicei 3–10 cm lățime (unele surse din Europa Centrală dau 3–12 cm, unele germane 3–15 cm, rar mai mult), semicirculară până la reniformă, adesea cu marginea festonată și răsfrântă; mai întâi convexă, apoi se aplatizează. Un pic pâslită la tinerețe, mai netedă ulterior, vâscoasă pe umezeală. Verde-măslinie, adesea cu tonuri violete și brune, mai târziu palind spre brun-ocru.",
+      "hymenium": "Lamele dese, înguste, galben-pal până la portocaliu-ocru, niciodată albe. Sunt adnate la scurtul picior lateral și coboară un pic pe el, dar se termină destul de brusc, nu se subțiază treptat în lemn.",
+      "stipe": "Lateral, scurt și îndesat. Când este prezent, măsoară de obicei 1–3 cm lungime și 1–2 cm grosime (unele surse dau o lungime de cel mult 2 cm, altele un picior mai gros și mai lung); adesea aproape lipsește. Gălbui până la ocru, fin catifelat sau presărat cu solzișori brunatici, de obicei îngustat spre lemn.",
+      "flesh": "Albicioasă până la galben-pal, destul de groasă și un pic gelatinoasă imediat sub cuticulă. Mirosul nu este caracteristic. Gustul este blând până la ușor amar; nu se recomandă gustarea.",
+      "sporePrint": "Albă. Sporii cilindrici până la alantoizi, netezi, amiloizi, de circa 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrofă, solitară sau mai adesea în grupuri mici ori rânduri suprapuse pe lemn în putrefacție, mai ales de foioase (fag, arin, salcie, frasin, mesteacăn) în stațiuni umede și umbroase, doar ocazional pe conifere. În Europa Centrală, tipic din octombrie până în decembrie; în Marea Britanie și Irlanda, toamna și iarna, adesea după primele înghețuri.",
+      "uses": "Unele ghiduri europene o consideră încă comestibilă, deși de calitate modestă. Un avertisment ulterior, asociat lui Andreas Gminder, că ar putea conține substanțe cancerigene, nu a fost confirmat în mod consecvent; o recenzie din 2012 a considerat acea afirmație neîntemeiată. Alte ghiduri nu dau nicio recomandare culinară. Deoarece opiniile rămân împărțite, acest catalog o înregistrează ca comestibilă cu prudență și nu încurajează consumul. Specia asiatică cultivată Sarcomyxa edulis este o ciupercă diferită și nu este tratată aici.",
+      "confusion": "Păstrăvul de fag (Pleurotus ostreatus) fructifică și el târziu pe lemn, dar lamelele sale sunt albe până la liliachiu-pal și coboară departe pe un picior albicios, fără o zonă scurtă, galbenă și solzoasă. Paneluța astringentă (Panellus stipticus) este mult mai mică și mai tare, ocru-pal, cu gust iute-amar. Speciile genului Hohenbuehelia, inclusiv Hohenbuehelia petaloides, sunt mai subțiri și mai cauciucate, de obicei cu pălării mai cenușii și lamele cenușii. Ciuperca-cuib portocalie (Phyllotopsis nidulans) are o pălărie portocaliu-viu, păroasă, și un miros puternic neplăcut.",
+      "notes": "Piciorul poate aproape să lipsească la unele corpuri de rod, dar când este prezent, inserția laterală galbenă până la portocalie, fin solzoasă, este un caracter util în teren. Pălăriile bătrâne pot pierde nuanța măslinie și devin brun-ocru; atunci lamelele galbene și piciorul sunt și mai importante. Această specie nu trebuie identificată după exemplare de piață sau de cultură asiatice, care pot aparține speciei Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Поздний полочковидный гриб, растущий на древесине, с оливково-зелёной, часто с фиолетовым оттенком, в сырую погоду слизистой шляпкой, частыми жёлтыми до оранжево-жёлтых пластинками и коротким толстым, часто мелкочешуйчатым боковым пеньком, который может почти отсутствовать. Плодовые тела обычно растут нависающими ярусами на мёртвой древесине лиственных пород, особенно после первых осенних заморозков.",
+      "cap": "Обычно 3–10 см в поперечнике (некоторые среднеевропейские источники указывают 3–12 см, некоторые немецкие — 3–15 см, изредка больше), полукруглая или почковидная, часто с фестончатым, завёрнутым краем; сначала выпуклая, затем уплощается. В молодости слегка войлочная, позднее более гладкая и в сырую погоду слизистая. Оливково-зелёная, часто с фиолетовыми и бурыми тонами, позднее бледнеет до охристо-бурой.",
+      "hymenium": "Пластинки частые, узкие, бледно-жёлтые до охристо-оранжевых, никогда не белые. Они приросшие к короткому боковому пеньку и немного сбегают по нему, но оканчиваются довольно резко, не сужаясь постепенно в древесину.",
+      "stipe": "Боковой, короткий и толстый. Когда имеется, обычно 1–3 см длиной и 1–2 см толщиной (некоторые источники дают максимальную длину 2 см, другие — более толстый и длинный пенёк); часто почти отсутствует. Желтоватый до охристого, тонко бархатистый или усеянный мелкими буроватыми чешуйками, к древесине обычно суженный.",
+      "flesh": "Беловатая до бледно-желтоватой, довольно толстая и чуть студенистая сразу под кожицей шляпки. Запах нехарактерный. Вкус мягкий до слегка горьковатого; пробовать на вкус не рекомендуется.",
+      "sporePrint": "Белый. Споры цилиндрические до аллантоидных, гладкие, амилоидные, около 4–6,5 × 1–2 мкм.",
+      "habitat": "Сапротроф, одиночно или чаще небольшими группами либо нависающими ярусами на гниющей древесине, преимущественно лиственных пород (бук, ольха, ива, ясень, берёза) во влажных тенистых местах, лишь изредка на хвойных. В Центральной Европе обычно с октября по декабрь; в Великобритании и Ирландии осенью и зимой, часто после первых заморозков.",
+      "uses": "Некоторые европейские определители до сих пор считают его съедобным, хотя и невысокого качества. Позднее появилось связанное с Андреасом Гминдером предупреждение о возможных канцерогенных веществах; оно не было последовательно подтверждено, а обзор 2012 года счёл это утверждение необоснованным. Другие определители не дают кулинарных рекомендаций. Поскольку мнения остаются противоречивыми, в этом каталоге гриб указан как съедобный с осторожностью, и есть его не рекомендуется. Культивируемый азиатский вид Sarcomyxa edulis — другой гриб и здесь не рассматривается.",
+      "confusion": "Устричная вёшенка (Pleurotus ostreatus) тоже плодоносит поздно на древесине, но её пластинки белые до бледно-лиловых и далеко сбегают по беловатой ножке, без короткой жёлтой чешуйчатой зоны. Вяжущий паннеллюс (Panellus stipticus) гораздо мельче и жёстче, бледно-охристый, с острым горьким вкусом. Виды рода Hohenbuehelia, в том числе Hohenbuehelia petaloides, тоньше и резинистее, обычно с более серыми шляпками и сероватыми пластинками. Гнездовик оранжевый (Phyllotopsis nidulans) имеет ярко-оранжевую волосистую шляпку и сильный неприятный запах.",
+      "notes": "Пенёк на некоторых плодовых телах может почти отсутствовать, но когда он есть, жёлтое до оранжевого, мелкочешуйчатое боковое прикрепление — полезный полевой признак. Старые шляпки могут утратить оливковый тон и стать охристо-бурыми; тогда жёлтые пластинки и пенёк ещё важнее. Этот вид не следует определять по азиатским рыночным или культивируемым экземплярам, которые могут принадлежать виду Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "Вёшенка осенняя"
+    },
+    "sk": {
+      "description": "Neskorá, poličkovitá drevná huba s olivovozeleným až fialovo sfarbeným, za vlhka slizkým klobúkom, hustými žltými až oranžovožltými lupeňmi a krátkym, pevným, často jemne šupinatým bočným hlúbikom, ktorý môže takmer chýbať. Plodnice zvyčajne rastú v prekrývajúcich sa poschodiach na odumretom listnatom dreve, najmä po prvých jesenných mrazoch.",
+      "cap": "Zvyčajne 3–10 cm široký (niektoré stredoeurópske zdroje uvádzajú 3–12 cm a niektoré nemecké 3–15 cm, vzácne aj viac), polkruhový až obličkovitý, často s laločnatým, podvinutým okrajom; najprv klenutý, neskôr sa splošťuje. Za mlada slabo plstnatý, neskôr hladší a za vlhka slizký. Olivovozelený, často s fialovými a hnedými tónmi, neskôr blednúci do okrovo hnedej.",
+      "hymenium": "Lupene husté, úzke, bledožlté až okrovo oranžové, nikdy biele. Sú prirastené ku krátkemu bočnému hlúbiku a kúsok po ňom zbiehajú, končia však pomerne ostro, nie pozvoľna do dreva.",
+      "stipe": "Bočný, krátky a pevný. Keď je prítomný, meria typicky 1–3 cm na dĺžku a 1–2 cm na hrúbku (niektoré zdroje uvádzajú dĺžku najviac 2 cm, iné hrubší a dlhší hlúbik); často takmer chýba. Žltkastý až okrový, jemne zamatový alebo pokrytý drobnými hnedastými šupinami, k drevu zvyčajne zúžený.",
+      "flesh": "Bielkastá až belavo žltá, pomerne hrubá a tesne pod pokožkou klobúka trochu rosolovitá. Vôňa nie je výrazná. Chuť je mierna až slabo horkastá; ochutnávanie sa neodporúča.",
+      "sporePrint": "Biely. Výtrusy valcovité až párkovité, hladké, amyloídne, približne 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrófná, osamote alebo častejšie v malých skupinách či prekrývajúcich sa poschodiach na tlejúcom dreve, najmä listnatých stromov (buk, jelša, vŕba, jaseň, breza) na vlhkých, tienistých miestach, len príležitostne na ihličnanoch. V strednej Európe plodí typicky od októbra do decembra; v Británii a Írsku sa objavuje na jeseň a v zime, často po prvých mrazoch.",
+      "uses": "Niektoré európske príručky ju stále uvádzajú ako jedlú, hoci len priemernej kvality. Neskôr sa objavilo varovanie, spojené s menom Andreasa Gmindera, že môže obsahovať karcinogény; toto tvrdenie sa však nepodarilo dôsledne potvrdiť a recenzia z roku 2012 ho považovala za nepodložené. Iné príručky nedávajú žiadne kuchynské odporúčanie. Keďže názory ostávajú rozdelené, tento katalóg ju uvádza ako jedlú s opatrnosťou a na jedenie ju neodporúča. Pestovaný ázijský druh Sarcomyxa edulis je iná huba a tu sa nerieši.",
+      "confusion": "Hliva ustricovitá (Pleurotus ostreatus) takisto plodí neskoro na dreve, ale jej lupene sú biele až belavo fialové a dlho zbiehajú na belavý hlúbik, bez krátkej žltej, šupinitej zóny. Pňovka obyčajná (Panellus stipticus) je omnoho menšia a tužšia, belavo okrová, s palčivo horkou chuťou. Druhy rodu Hohenbuehelia, vrátane druhu Hohenbuehelia petaloides, sú tenšie a gumovitejšie, zvyčajne so sivšími klobúkmi a sivastými lupeňmi. Oranžová hliva hniezdovitá (Phyllotopsis nidulans) má jasne oranžový, chlpatý klobúk a silný nepríjemný zápach.",
+      "notes": "Hlúbik na niektorých plodniciach takmer chýba, ale keď je prítomný, žlté až oranžové, jemne šupinkaté bočné pripojenie je užitočný terénny znak. Staršie klobúky môžu stratiť olivový nádych a zhnednúť, vtedy sú ešte dôležitejšie žlté lupene a hlúbik. Tento druh sa nemá určovať podľa ázijských trhových či pestovaných plodníc, ktoré môžu patriť druhu Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585",
+        "https://www.nahuby.sk/atlas-hub/Sarcomyxa-serotina/pnovka-neskora/pareznik-pozdni/ID488"
+      ],
+      "label": "pňovka neskorá"
+    },
+    "sl": {
+      "description": "Pozna, policasta lesna goba z olivno zelenim do vijoličasto obarvanim, v vlagi sluzastim klobukom, gostimi rumenimi do oranžno rumenimi lističi in kratkim, čvrstim, pogosto drobno luskinastim stranskim betom, ki lahko skoraj manjka. Trosišča običajno rastejo v prekrivajočih se nadstropjih na odmrlem listnatem lesu, najpogosteje po prvih jesenskih slanah.",
+      "cap": "Običajno 3–10 cm širok (nekateri srednjeevropski viri navajajo 3–12 cm, nekateri nemški pa 3–15 cm, redko več), polkrožen do ledvičast, pogosto z nažetim, podvinjenim robom; najprej izbočen, pozneje se splošči. V mladosti rahlo klobučast, pozneje bolj gladek in v vlagi sluzast. Olivno zelen, pogosto z vijoličastimi in rjavimi odtenki, pozneje bledi v okrasto rjavo.",
+      "hymenium": "Lističi gosti, ozki, svetlo rumeni do okrasto oranžni, nikoli beli. Priraščeni so h kratkemu stranskemu betu in malo po njem tečejo navzdol, končajo pa se precej ostro, ne pa postopoma v lesu.",
+      "stipe": "Stranski, kratek in čvrst. Kadar je prisoten, meri tipično 1–3 cm v dolžino in 1–2 cm v debelino (nekateri viri navajajo dolžino največ 2 cm, drugi debelejši in daljši bet); pogosto skoraj manjka. Rumenkast do okrast, drobno žameten ali posejan z drobnimi rjavkastimi luskami, proti lesu se običajno zožuje.",
+      "flesh": "Belkasta do bledo rumenkasta, precej debela in tik pod kožico klobuka nekoliko želatinasta. Vonj ni izrazit. Okus je blag do rahlo grenak; okušanje se ne priporoča.",
+      "sporePrint": "Bel. Trosi valjasti do klobasasti, gladki, amiloidni, približno 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotska, posamič ali pogosteje v majhnih skupinah oziroma prekrivajočih se nadstropjih na trohnečem lesu, predvsem listavcev (bukev, jelša, vrba, jesen, breza) na vlažnih, senčnih rastiščih, le občasno na iglavcih. V Srednji Evropi trosišča običajno rastejo od oktobra do decembra; v Britaniji in na Irskem jeseni in pozimi, pogosto po prvih slanah.",
+      "uses": "Nekateri evropski priročniki jo še vedno navajajo kot užitno, čeprav le skromne kakovosti. Pozneje se je pojavilo opozorilo, povezano z Andreasom Gminderjem, da lahko vsebuje rakotvorne snovi; te trditve ni bilo mogoče dosledno potrditi, pregled iz leta 2012 pa jo je imel za neutemeljeno. Drugi priročniki ne dajejo nobenega kuharskega priporočila. Ker mnenja ostajajo deljena, jo ta katalog navaja kot užitno s previdnostjo in k uživanju je ne spodbujamo. Gojena azijska vrsta Sarcomyxa edulis je druga goba in tu ni obravnavana.",
+      "confusion": "Bukov ostrigar (Pleurotus ostreatus) prav tako trosi pozno na lesu, vendar so njegovi lističi beli do belovijoličasti in daleč tečejo po belkastem betu, brez kratkega rumenega, luskinastega pasu. Navadna zgručevka (Panellus stipticus) je precej manjša in trša, bledo okrasta, s pekoče grenkim okusom. Vrste rodu Hohenbuehelia, vključno z vrsto Hohenbuehelia petaloides, so tanjše in bolj gumijaste, običajno s sivimi klobuki in sivkastimi lističi. Oranžna gnezdivka (Phyllotopsis nidulans) ima živo oranžen, dlakav klobuk in močan neprijeten vonj.",
+      "notes": "Bet pri nekaterih trosiščih skoraj manjka, a kadar je prisoten, je rumeno do oranžno, drobno luskinasto stransko pripenjališče koristna terenska značilnost. Starejši klobuki lahko izgubijo olivni odtenek in porjavijo; tedaj sta rumena lističa in bet še pomembnejša. Te vrste se ne sme določati po azijskih tržnih ali gojenih trosiščih, ki lahko pripadajo vrsti Sarcomyxa edulis.",
+      "names": [
+        "pozni zgručevec"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585",
+        "https://www.gbif.org/species/11011338"
+      ],
+      "label": "pozna zgručevka"
+    },
+    "sr": {
+      "description": "Касна, полицаста дрвна гљива маслинастозеленог до љубичасто обојеног, у влази слузавог клобука, густих жутих до наранџастожутих листића и кратког, чврстог, често ситно љускавог бочног стручка који може скоро да недостаје. Плодишта обично расту у преклапајућим редовима на мртвом лиснатом дрвету, најчешће после првих јесењих мразева.",
+      "cap": "Обично 3–10 cm широк (неки средњоевропски извори наводе 3–12 cm, а неки немачки 3–15 cm, ретко више), полукружан до бубрежаст, често са назубљеним, повијеним рубом; најпре испупчен, касније се сплоштава. У младости слабо филцаст, касније глађи и у влази слузав. Маслинастозелен, често са љубичастим и смеђим тоновима, касније бледи у окер смеђу.",
+      "hymenium": "Листићи густи, уски, светложути до окер наранџасти, никад бели. Прирасли су кратком бочном стручку и мало низ њега силазе, али се завршавају прилично оштро, а не постепено у дрвету.",
+      "stipe": "Бочни, кратак и чврст. Када је присутан, типично је дуг 1–3 cm и дебео 1–2 cm (неки извори наводе дужину највише 2 cm, други дебљи и дужи стручак); често скоро недостаје. Жућкаст до окер, ситно сомотаст или посут ситним смеђастим љускама, према дрвету се обично сужава.",
+      "flesh": "Белкаста до бледо жућкаста, прилично дебела и непосредно под кожицом клобука помало желеаста. Мирис није изражен. Укус је благ до слабо горак; пробање се не препоручује.",
+      "sporePrint": "Бео. Споре цилиндричне до кобасичасте, глатке, амилоидне, око 4–6,5 × 1–2 µm.",
+      "habitat": "Сапрофитска, појединачно или чешће у малим групама или преклапајућим редовима на трулом дрвету, углавном лиснатог дрвећа (буква, јова, врба, јасен, бреза) на влажним, сеновитим стаништима, само повремено на четинарима. У средњој Европи типично плодоноси од октобра до децембра; у Британији и Ирској у јесен и зиму, често после првих мразева.",
+      "uses": "Неки европски приручници је и даље наводе као јестиву, иако само скромног квалитета. Касније се појавило упозорење, повезано са Андреасом Гминдером, да може садржати канцерогене материје; ту тврдњу није било могуће доследно потврдити, а преглед из 2012. сматрао ју је неутемељеном. Други приручници не дају никакву кулинарску препоруку. Пошто мишљења остају подељена, овај каталог је бележи као јестиву с опрезом и не подстиче једење. Гајена азијска врста Sarcomyxa edulis друга је гљива и овде се не разматра.",
+      "confusion": "Буковача (Pleurotus ostreatus) такође плодоноси касно на дрвету, али су јој листићи бели до белољубичасти и далеко силазе низ белкасти стручак, без кратке жуте, љускаве зоне. Обична пањевача (Panellus stipticus) знатно је мања и тврђа, бледо окер, љуто-горког укуса. Врсте рода Hohenbuehelia, укључујући Hohenbuehelia petaloides, тање су и више гумене, обично са сивијим клобуцима и сивкастим листићима. Наранџаста гнездиљка (Phyllotopsis nidulans) има јарко наранџаст, длакав клобук и јак непријатан мирис.",
+      "notes": "Стручак на неким плодиштима скоро недостаје, али када је присутан, жуто до наранџасто, ситно љускаво бочно причвршћење корисна је теренска одлика. Старији клобуци могу изгубити маслинасти тон и посмеђети; тада су жути листићи и стручак још важнији. Ову врсту не треба одређивати према азијским тржним или гајеним плодиштима, која могу припадати врсти Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En sen, hyllik svamp på ved med olivgrön till violettonad, i väta slemmig hatt, täta gula till orangegula skivor och en kort, kraftig, ofta fint fjällig sidoställd fot som nästan kan saknas. Fruktkropparna växer vanligen i överlappande rader på död lövved, särskilt efter de första höstfrosterna.",
+      "cap": "Vanligen 3–10 cm bred (vissa centraleuropeiska källor anger 3–12 cm, vissa tyska 3–15 cm, sällan större), halvrund till njurformad, ofta med flikig, invikt kant; först välvd, senare mer plan. Ung något luddig, senare slätare och slemmig i väta. Olivgrön, ofta med violetta och bruna toner, senare bleknande till ockrabrun.",
+      "hymenium": "Skivor täta, smala, blekgula till ockraorange, aldrig vita. De är fästa vid den korta sidoställda foten och löper en bit nerför den, men slutar ganska abrupt och inte gradvis ut i veden.",
+      "stipe": "Sidoställd, kort och kraftig. När den finns typiskt 1–3 cm lång och 1–2 cm tjock (vissa källor anger högst 2 cm längd, andra en tjockare och längre fot); ofta nästan saknad. Gulaktig till ockra, fint sammetsluden eller besatt med små brunaktiga fjäll, vanligen avsmalnande mot veden.",
+      "flesh": "Vitaktig till blekgul, ganska tjock och något geléartad precis under hatthuden. Lukten är obetydlig. Smaken är mild till svagt bitter; det avråds från att smaka på den.",
+      "sporePrint": "Vit. Sporer cylindriska till korvformade, släta, amyloida, cirka 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotrof, ensam eller oftare i små grupper eller överlappande rader på murken ved, främst av lövträd (bok, al, vide, ask, björk) på fuktiga, skuggiga platser, endast tillfälligt på barrved. I Centraleuropa typiskt från oktober till december; i Storbritannien och Irland på hösten och vintern, ofta efter de första frosterna.",
+      "uses": "Vissa europeiska handböcker anger den fortfarande som ätlig, om än av blygsam kvalitet. En senare varning, kopplad till Andreas Gminder, att den kan innehålla cancerframkallande ämnen, har inte kunnat bekräftas konsekvent; en översikt från 2012 ansåg påståendet ogrundat. Andra handböcker ger ingen kulinarisk rekommendation. Eftersom bedömningarna fortfarande går isär noterar denna katalog den som ätlig med försiktighet och uppmuntrar inte till förtäring. Den odlade asiatiska arten Sarcomyxa edulis är en annan svamp och behandlas inte här.",
+      "confusion": "Ostronmussling (Pleurotus ostreatus) fruktar också sent på ved, men har vita till blekvioletta skivor som löper långt nerför en vitaktig fot, utan en kort gul, fjällig fotzon. Den bittra musslingen (Panellus stipticus) är mycket mindre och segare, blekt ockra, med skarpt bitter smak. Arter i släktet Hohenbuehelia, däribland Hohenbuehelia petaloides, är tunnare och mer gummiartade, vanligen med gråare hattar och gråaktiga skivor. Den orange bopmusslingen (Phyllotopsis nidulans) har en klart orange, hårig hatt och en stark obehaglig lukt.",
+      "notes": "Foten kan nästan saknas på vissa fruktkroppar, men när den finns är det gula till orange, fint fjälliga sidoställda fästet ett användbart fältkännetecken. Äldre hattar kan förlora olivotonen och bli ockrabruna; då är de gula skivorna och foten ännu viktigare. Arten bör inte artbestämmas utifrån asiatiska marknads- eller odlade fruktkroppar, som kan tillhöra Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/63585"
+      ],
+      "label": "grönmussling"
+    },
+    "tr": {
+      "description": "Geç mevsimde odun üzerinde ranza gibi büyüyen, zeytin yeşilinden mora çalan, ıslakken sümüksü şapkalı, sık sarıdan turuncu-sarıya lamelli ve kısa, tıknaz, çoğu kez ince pulcuklu, neredeyse hiç bulunmayan yanal saplı bir mantardır. Meyve gövdeleri, özellikle ilk sonbahar donlarından sonra, ölü yapraklı ağaç odunu üzerinde genellikle üst üste binen sıralar halinde gelişir.",
+      "cap": "Genellikle 3–10 cm genişliğinde (bazı Orta Avrupa kaynakları 3–12 cm, bazı Alman kaynakları 3–15 cm, nadiren daha geniş verir), yarım daire veya böbrek biçiminde, çoğu kez dişli ve içeri kıvrık kenarlı; önce dışbükey, sonra yassılaşır. Gençken biraz keçemsi, sonra daha düzgün ve ıslakken sümüksüdür. Zeytin yeşili, çoğu kez mor ve kahverengi tonlu, ileride okrumsu kahverengiye solar.",
+      "hymenium": "Lameller sık, dar, soluk sarıdan okrumsu turuncuya, asla beyaz değildir. Kısa yanal sapla bitişiktir ve biraz iner, ancak oduna doğru incelmeden oldukça ani biter.",
+      "stipe": "Yanal, kısa ve tıknazdır. Var olduğunda tipik olarak 1–3 cm uzunluğunda ve 1–2 cm kalınlığındadır (bazı kaynaklar en fazla 2 cm uzunluk, bazıları daha kalın ve daha uzun sap verir); çoğu kez neredeyse yoktur. Sarımsı veya okrumsu, ince kadifemsi veya küçük kahverengimsi pulcuklarla benekli, oduna doğru genellikle daralır.",
+      "flesh": "Beyazımsı veya soluk sarımsı, oldukça kalın ve şapka derisinin hemen altında biraz jelatinimsi. Kokusu belirgin değildir. Tadı hafif veya hafif acıdır; tadına bakılması önerilmez.",
+      "sporePrint": "Beyaz. Sporlar silindirik veya sosis biçiminde, düz, amiloid, yaklaşık 4–6,5 × 1–2 µm.",
+      "habitat": "Saprotroftur; tek tek veya daha çok küçük kümeler ya da üst üste binen sıralar halinde, özellikle nemli, gölgeli yerlerde çürüyen yapraklı ağaç odunu (kayın, kızılağaç, söğüt, dişbudak, huş) üzerinde, yalnızca ara sıra iğne yapraklılarda bulunur. Orta Avrupa’da tipik olarak ekimden aralığa kadar; Britanya ve İrlanda’da sonbahar ve kışın, çoğu kez ilk donlardan sonra görülür.",
+      "uses": "Bazı Avrupa rehberleri onu hâlâ yenilebilir sayar, ancak niteliği vasattır. Andreas Gminder ile ilişkilendirilen, kanserojen maddeler içerebileceğine dair sonraki bir uyarı tutarlı biçimde doğrulanmamıştır; 2012 tarihli bir inceleme bu iddiayı temelsiz bulmuştur. Başka rehberler mutfak önerisi vermez. Görüşler bölünmüş kaldığından bu katalog onu dikkatle yenilebilir diye kaydeder ve yenmesini teşvik etmez. Yetiştirilen Asya türü Sarcomyxa edulis başka bir mantardır ve burada ele alınmaz.",
+      "confusion": "İstiridye mantarı (Pleurotus ostreatus) da odun üzerinde geç meyve verir, ancak lamelleri beyaz veya soluk leylak rengi olup beyazımsı bir sap boyunca uzun iner; kısa, sarı, pulcuklu bir sap bölgesi yoktur. Buruşturucu panellus (Panellus stipticus) çok daha küçük ve serttir, soluk okrumsu, keskin acı tattadır. Hohenbuehelia cinsinin, Hohenbuehelia petaloides dahil, türleri daha ince ve lastiksi, genellikle daha gri şapkalı ve grimsi lamellidir. Turuncu yuva mantarı (Phyllotopsis nidulans) parlak turuncu, tüylü şapkalı ve güçlü, hoş olmayan kokuludur.",
+      "notes": "Bazı meyve gövdelerinde sap neredeyse hiç olmayabilir, ancak varken sarıdan turuncuya, ince pulcuklu yanal tutunma yararlı bir arazi karakteridir. Eski şapkalar zeytin tonunu yitirip okrumsu kahverengiye dönebilir; o zaman sarı lameller ve sap daha da önemlidir. Bu tür, Sarcomyxa edulis’e ait olabilecek Asya pazar veya kültür örneklerinden teşhis edilmemelidir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Пізній полицеподібний гриб, що росте на деревині, з оливково-зеленою, часто з фіолетовим відтінком, у вологу погоду слизистою шапинкою, густими жовтими до оранжево-жовтих пластинками та коротким товстим, часто дрібнолускатим бічним пеньком, який може майже бути відсутнім. Плодові тіла зазвичай ростуть навислими ярусами на мертвій деревині листяних порід, особливо після перших осінніх приморозків.",
+      "cap": "Зазвичай 3–10 см завширшки (деякі середньоєвропейські джерела вказують 3–12 см, деякі німецькі — 3–15 см, зрідка більше), півкругла або ниркоподібна, часто з фестончастим, загорнутим краєм; спочатку випукла, потім сплощується. У молодості трохи повстиста, пізніше гладкіша і у вологу погоду слизиста. Оливково-зелена, часто з фіолетовими та бурими тонами, пізніше блідніє до вохристо-бурої.",
+      "hymenium": "Пластинки густі, вузькі, блідо-жовті до вохристо-оранжевих, ніколи не білі. Вони прирослі до короткого бічного пенька і трохи збігають ним, але закінчуються досить різко, не звужуючись поступово в деревину.",
+      "stipe": "Бічний, короткий і товстий. Коли наявний, зазвичай 1–3 см завдовжки і 1–2 см завтовшки (деякі джерела дають максимальну довжину 2 см, інші — товстіший і довший пеньок); часто майже відсутній. Жовтуватий до вохристого, тонко оксамитовий або вкритий дрібними буруватими лусочками, до деревини зазвичай звужений.",
+      "flesh": "Білувата до блідо-жовтуватої, досить товста і трохи драглиста одразу під шкіркою шапинки. Запах нехарактерний. Смак м’який до злегка гіркуватого; пробувати на смак не рекомендується.",
+      "sporePrint": "Білий. Спори циліндричні до алантоїдних, гладкі, амілоїдні, близько 4–6,5 × 1–2 мкм.",
+      "habitat": "Сапротроф, поодинці або частіше невеликими групами чи навислими ярусами на гнилій деревині, переважно листяних порід (бук, вільха, верба, ясен, береза) у вологих затінених місцях, лише зрідка на хвойних. У Центральній Європі зазвичай з жовтня до грудня; у Великій Британії та Ірландії восени та взимку, часто після перших приморозків.",
+      "uses": "Деякі європейські визначники досі вважають його їстівним, хоча й невисокої якості. Пізніше з’явилося пов’язане з Андреасом Гміндером попередження про можливі канцерогенні речовини; його не було послідовно підтверджено, а огляд 2012 року визнав це твердження необґрунтованим. Інші визначники не дають кулінарних рекомендацій. Оскільки думки залишаються суперечливими, у цьому каталозі гриб зазначено як їстівний з обережністю, і їсти його не заохочується. Культивований азійський вид Sarcomyxa edulis — інший гриб і тут не розглядається.",
+      "confusion": "Устрична глива (Pleurotus ostreatus) також плодоносить пізно на деревині, але її пластинки білі до блідо-лілових і далеко збігають білуватою ніжкою, без короткої жовтої лускатої зони. В’яжучий панел (Panellus stipticus) набагато дрібніший і жорсткіший, блідо-вохристий, з гострим гірким смаком. Види роду Hohenbuehelia, зокрема Hohenbuehelia petaloides, тонші й гумовіші, зазвичай із сірішими шапинками та сіруватими пластинками. Гніздовик оранжевий (Phyllotopsis nidulans) має яскраво-оранжеву волосисту шапинку і сильний неприємний запах.",
+      "notes": "Пеньок на деяких плодових тілах може майже бути відсутнім, але коли він є, жовте до оранжевого, дрібнолускате бічне прикріплення — корисна польова ознака. Старі шапинки можуть втратити оливковий тон і стати вохристо-бурими; тоді жовті пластинки і пеньок ще важливіші. Цей вид не слід визначати за азійськими ринковими чи культивованими зразками, які можуть належати виду Sarcomyxa edulis.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "晚季生于木材上的架状菇，菌盖橄榄绿色至带紫，湿时黏滑，菌褶密生、黄色至橙黄色，菌柄短而粗、侧生，常有细鳞，有时几乎缺失。子实体多在秋初霜后，于阔叶树枯木上成层叠生。",
+      "cap": "通常宽3–10厘米（部分中欧资料记为3–12厘米，部分德语资料记为3–15厘米，偶有更宽），半圆形至肾形，边缘常波状内卷；先凸后趋平。幼时稍被毡毛，后较平滑，湿时黏滑。橄榄绿色，常带紫褐色调，随后褪为赭褐色。",
+      "hymenium": "菌褶密而窄，淡黄至赭橙色，绝非白色。着生于短侧生菌柄并稍下延，但终止较突然，并不逐渐变细伸入木材。",
+      "stipe": "侧生，短而粗。存在时通常长1–3厘米、粗1–2厘米（有资料记最长2厘米，也有记更粗、更长的菌柄）；常几乎缺失。淡黄至赭色，细绒状或散生褐色小鳞，通常向着生处渐细。",
+      "flesh": "近白至淡黄，较厚，菌盖表皮正下方略呈胶质。气味不明显。味道温和至微苦；不建议品尝。",
+      "sporePrint": "白色。孢子圆柱形至腊肠形，光滑，淀粉质，约4–6.5 × 1–2微米。",
+      "habitat": "腐生，单生，更常成小群或层叠生于腐木上，主要为阔叶树（山毛榉、桤木、柳、白蜡、桦）潮湿荫处，仅偶见于针叶树。在中欧典型见于10月至12月；在不列颠和爱尔兰见于秋冬，常在初霜之后。",
+      "uses": "部分欧洲图鉴仍将其列为可食，但品质一般。其后与安德烈亚斯·格明德相关的、可能含致癌物质的警告并未得到一贯证实；2012年的一篇综述认为该说法缺乏根据。另有图鉴不作食用建议。因意见仍有分歧，本目录记为谨慎可食，并不鼓励食用。亚洲栽培种 Sarcomyxa edulis 是另一种真菌，此处不作讨论。",
+      "confusion": "平菇（Pleurotus ostreatus）同样晚季生于木材，但菌褶白色至淡紫，沿近白色菌柄长下延，没有短而黄、具鳞的柄区。止血小香菇（Panellus stipticus）小得多也硬得多，呈浅赭色，味辛而苦。Hohenbuehelia 属种类，包括 Hohenbuehelia petaloides，更薄而呈橡胶质，通常菌盖更灰、菌褶灰白。橙巢菇（Phyllotopsis nidulans）菌盖鲜橙而具毛，气味强烈难闻。",
+      "notes": "有些子实体几乎无柄，但一旦存在，黄至橙色、具细鳞的侧生着生处是有用的野外特征。老菌盖可能失去橄榄色而变为赭褐，此时黄菌褶和菌柄更为关键。不要根据可能属于 Sarcomyxa edulis 的亚洲市售或栽培标本鉴定本种。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q81202193"
+      ],
+      "label": "鳞皮扇菇"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Agaricus serotinus",
+      "author": "Pers.",
+      "year": 1793,
+      "rank": "species",
+      "type": "basionym",
+      "if": 234165
+    },
+    {
+      "name": "Pleuropus serotinus",
+      "author": "(Pers.) Zaw.",
+      "year": 1835,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 654338
+    },
+    {
+      "name": "Pleurotus serotinus",
+      "author": "(Pers.) P. Kumm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 234120
+    },
+    {
+      "name": "Crepidopus serotinus",
+      "author": "(Pers.) Murrill",
+      "year": 1912,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 653771
+    },
+    {
+      "name": "Acanthocystis serotinus",
+      "author": "(Pers.) Konrad & Maubl.",
+      "year": 1937,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 277967
+    },
+    {
+      "name": "Panellus serotinus",
+      "author": "(Pers.) Kühner",
+      "year": 1950,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 433470
+    },
+    {
+      "name": "Hohenbuehelia serotina",
+      "author": "(Pers.) Singer",
+      "year": 1951,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 298489
+    },
+    {
+      "name": "Panus serotinus",
+      "author": "(Pers.) Kühner",
+      "year": 1980,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 107651
+    },
+    {
+      "name": "Agaricus serotinus",
+      "author": "Schrad.",
+      "year": 1794,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 372253
+    },
+    {
+      "name": "Panus mollis",
+      "author": "Thüm.",
+      "year": 1871,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 654997
+    },
+    {
+      "name": "Agaricus almenii",
+      "author": "Fr. [as 'almeni']",
+      "year": 1874,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 628685
+    },
+    {
+      "name": "Pleurotus almenii",
+      "author": "(Fr.) P. Karst. [as 'almeni']",
+      "year": 1879,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 628803
+    }
+  ],
+  "reserved": false,
+  "id": 250,
+  "citation": "Index Fungorum 419: 1 (2019)"
+},
+{
+  "name": "Daldinia concentrica",
+  "author": "(Bolton) Ces. & De Not.",
+  "family": "Hypoxylaceae",
+  "genus": "Daldinia",
+  "order": "Xylariales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Sordariomycetes",
+    "Xylariomycetidae",
+    "Xylariales",
+    "Hypoxylaceae",
+    "Daldinia"
+  ],
+  "summary": [
+    "Xylariales",
+    "Hypoxylaceae",
+    "Daldinia"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "dark",
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 8.0,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
+  "label": {
+    "cs": "sazovka kruhatá",
+    "da": "Aske-bæltekugle",
+    "de": "Kohlen-Kugelpilz",
+    "en": "King Alfred's cakes",
+    "es": "Bola de carbón",
+    "et": "harilik kerasüsik",
+    "fi": "pikipallo",
+    "fr": "Daldinie concentrique",
+    "he": "קשתנית טבעתית",
+    "hu": "Szenes gömbgomba",
+    "ko": "콩버섯",
+    "lt": "Rievėtoji anglenė",
+    "lv": "Lodveida daldīnija",
+    "nl": "Kogelhoutskoolzwam",
+    "no": "beltekullsopp",
+    "pl": "warstwiak zwęglony",
+    "ru": "Дальдиния концентрическая",
+    "sk": "daldínia koncentrická",
+    "sv": "äkta skiktdyna",
+    "tr": "Karadaldın mantarı",
+    "zh": "同心環紋炭球菌"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Kugelkohlenpilz",
+      "Kohliger Kugelpilz",
+      "Konzentrischer Holzkohlenpilz"
+    ],
+    "en": [
+      "cramp balls",
+      "cramp ball"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "sazovka kruhatá"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "Askskiktdyna"
+    ],
+    "tr": [
+      "Kral Pastası"
+    ],
+    "uk": [],
+    "zh": [
+      "黑轮层炭壳"
+    ]
+  },
+  "sources": {
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=146158",
+      "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=146158",
+      "https://api.gbif.org/v1/species/match?name=Daldinia%20concentrica",
+      "https://www.gbif.org/species/2576893",
+      "https://www.wikidata.org/wiki/Q935453",
+      "https://www.inaturalist.org/taxa/121714",
+      "https://species.wikimedia.org/wiki/Daldinia_concentrica",
+      "https://www.first-nature.com/fungi/daldinia-concentrica.php",
+      "https://www.myko.cz/myko-atlas/Daldinia-concentrica/",
+      "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=s&typ=cz"
+    ],
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453",
+      "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=s&typ=cz",
+      "https://www.myko.cz/myko-atlas/Daldinia-concentrica/"
+    ],
+    "da": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "de": [
+      "https://www.wikidata.org/wiki/Q935453",
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "es": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "et": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453"
+    ],
+    "fa": [],
+    "fi": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453"
+    ],
+    "fr": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "he": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "lt": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "lv": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "nl": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453"
+    ],
+    "no": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "pl": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "sk": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=s&typ=cz"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://www.inaturalist.org/taxa/121714",
+      "https://www.wikidata.org/wiki/Q935453"
+    ],
+    "tr": [
+      "https://www.inaturalist.org/taxa/121714"
+    ],
+    "uk": [],
+    "zh": [
+      "https://www.wikidata.org/wiki/Q935453",
+      "https://www.inaturalist.org/taxa/121714"
+    ]
+  },
+  "added": "2026-11-27",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica@400.webp",
+  "plateCredit": {
+    "author": "Adrian Benko (Gemini)",
+    "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_1.webp",
+      "author": "Jonathan Hughes",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/410762038"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_2.webp",
+      "author": "Nick Butcher",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/404964059"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_3.webp",
+      "author": "Jamie O'Neill",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/404152130"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_4.webp",
+      "author": "Jane Concannon",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/416624005"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_5.webp",
+      "author": "Patrick Le Mao",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/416127596"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica@1600.webp",
+      "author": "Adrian Benko (Gemini)",
+      "license": "Generated by Adrian Benko with Gemini; used with owner's authorization",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica@1600.webp",
+      "basedOn": [],
+      "existingMark": "The 896×1200 source (JPEG/JFIF bytes in a .png filename, SHA-256 4e3e38cde5349bbc9e95a458320faef9af398469c07be0882e2a461d00987c2f, Exif Orientation 1, software Picasa, no alpha) was cropped 96 px from the left and 0 px from the right (exact 2:3, 800×1200) so the cursive Gemini signature is not clipped, then enlarged uniformly 2× (Lanczos) to 1600×2400. In the source the signature has a 14 px right margin and a 3 px bottom margin (luminance <170, ignoring the paper vignette); a centred 48 px side trim would clip it. Official background.webp (SHA-256 d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c) was applied by colour-weighted multiply, with the paper field fitted from 16 px strips inset 48 px (same method as Helvella lacunosa, Suillus variegatus and Sarcomyxa serotina). @1600 SHA-256 388ac2d9e768cc26425c4898b4ecc8d3be12ba6d912bf8cfead3b1ec1a86daf8; @400 SHA-256 0c78095258e7937786d58240165e002fa0f5a08ae9da8281c961799d31c90236."
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_1.webp",
+      "author": "Jonathan Hughes",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/410762038"
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_2.webp",
+      "author": "Nick Butcher",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/404964059"
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_3.webp",
+      "author": "Jamie O'Neill",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/404152130"
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_4.webp",
+      "author": "Jane Concannon",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/416624005"
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Xylariales/Hypoxylaceae/Daldinia_concentrica/Daldinia_concentrica_5.webp",
+      "author": "Patrick Le Mao",
+      "license": "CC0 1.0",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/416127596"
+    }
+  ],
+  "text": {
+    "ar": {
+      "description": "أجسام ثمرية صلبة مستديرة، على هيئة وسادة إلى شبه كروية (ستروما)، تجلس مباشرة على الخشب الميت دون ساق. يبلغ عرضها عادة 2–8 سم. الصغيرة منها حمراء بنية إلى أرجوانية بنية ومغبرة قليلاً. الناضجة سوداء مطفية، وكثيراً ما تلمع قليلاً في المواضع المحكوكة، وهي دقيقة النتوءات بفتحات صغيرة وكثيراً ما تتشقق، مع غبار أبواغ أسود على الخشب المحيط. يُظهر مقطع عمودي مناطق متحدة المركز رمادية فضية وسوداء وطبقة رقيقة من حجرات شبه قنينة تحت القشرة الخارجية مباشرة.",
+      "cap": "يبلغ قطرها عادة 2–8 سم (تذكر بعض الأدلة في وسط أوروبا 1,5–6 × 1–4 سم). هيئة وسادة إلى شبه كروية، بارتباط عريض مسطح ودون قبعة منفصلة. السطح في البدء أحمر بني إلى أرجواني بني ومخملي أو مغبر قليلاً، ثم أسود مطفي، وقد يلمع قليلاً في المواضع المحكوكة، دقيق النتوءات بفتحات الحجرات الصغيرة تحت القشرة، وكثيراً ما يتشقق.",
+      "hymenium": "السطح الخصب ليس صفائح ولا أنابيب ولا أشواكاً. تحت القشرة السوداء الرقيقة مباشرة طبقة واحدة من حجرات صغيرة شبه قنينة، تفتح كل منها بثقب دقيق على السطح. في المقطع العمودي تظهر كخط داكن رقيق تحت القشرة، فوق الداخل المتمنطق.",
+      "stipe": "لا ساق لها. يلتصق كل جسم ثمري بالخشب بقاعدة عريضة مسطحة.",
+      "flesh": "صلبة وتشبه الفحم الخشبي، ذات مناطق متحدة المركز واضحة رمادية بنية فضية وسوداء. الرائحة والطعم غير مميزين؛ والأجسام الثمرية أصلب من أن تؤكل.",
+      "sporePrint": "مسحوق الأبواغ أسود. الأبواغ الكيسية إهليلجية إلى مغزليّة، عادة نحو 12–17 × 6–9 µm (تذكر بعض الأدلة في وسط أوروبا 13–17,5 × 6–7,5 µm).",
+      "habitat": "رمّية على خشب صلب ميت أو آيل إلى الموت. في أوروبا توجد تقريباً دائماً على شجر الدردار (Fraxinus). أنواع مشابهة من الجنس نفسه تظهر على الزان والتمّام والخشب المحروق وعوائل أخرى، ولا تُعامل هنا على أنها هذا النوع. يمكن رؤية الأجسام الثمرية الصلبة في أي شهر؛ وتتحرر الأبواغ الكيسية أساساً من أواخر الربيع إلى نهاية الخريف.",
+      "uses": "غير صالحة للأكل. الأجسام الثمرية صلبة وتشبه الفحم الخشبي، ولا تُعد فطر مائدة.",
+      "confusion": "تكوّن Kretzschmaria deusta على الجذوع قشرة مسطحة متموجة رمادية سوداء، وليس لها حلقات نمو متحدة المركز في المقطع. أنواع جنس Hypoxylon عادة أصغر، وكثيراً ما تكون صدئية أو حمراء آجرّية، وتفتقر إلى الداخل المتمنطق الشبيه بالفحم. تكوّن Xylaria polymorpha أجساماً ثمرية قائمة صولجانية، لا وسائد سوداء صلبة. قد تتشابه عدة أنواع أوروبية أخرى من الجنس نفسه، وكثيراً ما تُفصل حسب العائل والاختبارات الكيميائية، ومنها Daldinia childiae.",
+      "notes": "قد يساعد تفاعل أرجواني للداخل في هيدروكسيد البوتاسيوم على تمييز هذا النوع من بعض الأنواع المشابهة التي تتلون بالأصفر البني أو البرتقالي. قد تنتمي الموجودات على الزان أو الخشب المحروق إلى تلك الأنواع الأخرى؛ لا تعرّفه من العائل وحده دون مقطع يُظهر المناطق المتحدة المركز.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Твърди, заоблени, възглавницевидни до почти кълбовидни плодни тела (строми), седящи направо върху мъртва дървесина, без пънче. Обикновено са 2–8 cm в диаметър. Младите са червеникавокафяви до пурпурнокафяви и слабо напрашени. Зрелите са матовочерни, на протрити места често слабо лъскави, дребногрудчести с мънички отвори и често напукани, с черен споров прах върху околната дървесина. Вертикален разрез показва концентрични сребристосиви и черни зони и тънък слой бутилковидни камерки точно под външната коричка.",
+      "cap": "Обикновено 2–8 cm в диаметър (някои централноевропейски определители посочват 1,5–6 × 1–4 cm). Възглавницевидно до почти кълбовидно образувание с широко, плоско прикрепване, без отделна шапка. Повърхността отначало е червеникавокафява до пурпурнокафява и слабо кадифена или напрашена, по-късно матовочерна, на протрити места понякога слабо лъскава, дребногрудчеста заради мъничките отвори на камерките под коричката и често напукана.",
+      "hymenium": "Плодородната повърхност не са пластинки, тръбички или бодли. Точно под тънката черна коричка има един слой мънички бутилковидни камерки, всяка от които се отваря с мъничка пора на повърхността. При вертикален разрез те се виждат като тънка тъмна линия под коричката, над зонираната вътрешност.",
+      "stipe": "Пънче няма. Всяко плодно тяло е прикрепено към дървесината с широка, плоска основа.",
+      "flesh": "Твърда и подобна на дървени въглища, с ясни концентрични зони от сребристосивокафяво и черно. Мирисът и вкусът не са характерни; плодните тела са твърде твърди, за да се ядат.",
+      "sporePrint": "Споровият прах е черен. Аскоспорите са елипсовидни до вретеновидни, обикновено около 12–17 × 6–9 µm (някои централноевропейски определители посочват 13–17,5 × 6–7,5 µm).",
+      "habitat": "Сапрофит върху мъртва или отмираща твърда дървесина. В Европа се среща почти винаги върху ясен (Fraxinus). Подобни видове от същия род се срещат върху бук, елша, изгоряла дървесина и други гостоприемници и тук не се разглеждат като този вид. Твърдите плодни тела могат да се намерят през всеки месец; аскоспорите се освобождават главно от късна пролет до края на есента.",
+      "uses": "Неядлив. Плодните тела са твърди и подобни на дървени въглища и не се смята за хранителна гъба.",
+      "confusion": "Kretzschmaria deusta образува върху пънове плоска, вълниста сиво-черна коричка и в разрез няма концентрични растежни пръстени. Видовете от род Hypoxylon обикновено са по-малки, често ръждиви или тухленочервени, и им липсва зонираната, въгленодобна вътрешност. Xylaria polymorpha образува изправени, бухалковидни плодни тела, а не твърди черни възглавнички. Няколко други европейски вида от същия род могат да изглеждат подобно и често се разделят по гостоприемник и химични тестове, включително Daldinia childiae.",
+      "notes": "Виолетова реакция на вътрешността в калиев хидроксид може да помогне да се отличи този вид от някои подобни, които се оцветяват жълтокафяво или оранжево. Находки върху бук или изгоряла дървесина могат да принадлежат на онези други видове; не го определяйте само по гостоприемника без разрез, който показва концентричните зони.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Tvrdé, zaoblené, poduškovité až téměř kulovité plodnice (stromata), které sedí přímo na odumřelém dřevě a nemají třeň. Bývají 2–8 cm v průměru. Mladé jsou červenohnědé až fialovohnědé a mírně oprášené. Zralé jsou matně černé, v odřených místech často slabě lesklé, jemně hrbolkaté s drobnými ústími a často popraskané, s černým výtrusným prachem na okolním dřevě. Svislý řez ukazuje soustředné stříbřitě šedé a černé zóny a tenkou vrstvu lahvicovitých komůrek těsně pod vnější kůrou.",
+      "cap": "Typicky 2–8 cm v průměru (některé středoevropské příručky uvádějí 1,5–6 × 1–4 cm). Poduškovitý až téměř kulovitý útvar se širokým, plochým přirůstáním, bez samostatného klobouku. Povrch je zprvu červenohnědý až fialovohnědý a slabě sametový nebo oprášený, později matně černý, někdy v odřených místech slabě lesklý, jemně hrbolkatý s drobnými ústími komůrek pod kůrou a často popraskaný.",
+      "hymenium": "Výtrusorodé rouško nejsou lupeny, rourky ani ostny. Těsně pod tenkou černou kůrou je jedna vrstva drobných lahvicovitých komůrek, z nichž každá se otvírá maličkým pórem na povrchu. Svislý řez je ukazuje jako tenkou tmavou čáru pod kůrou, nad zonálním nitrem.",
+      "stipe": "Třeň chybí. Každá plodnice je přirostlá ke dřevu širokou, plochou bází.",
+      "flesh": "Tvrdá a uhlíkovitá, s výraznými soustřednými zónami stříbřitě šedohnědé a černé. Vůně ani chuť nejsou výrazné; plodnice jsou k jídlu příliš tvrdé.",
+      "sporePrint": "Výtrusný prach je černý. Askospory jsou elipsoidní až vřetenovité, typicky asi 12–17 × 6–9 µm (některé středoevropské příručky uvádějí 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprobní houba na odumřelém nebo odumírajícím tvrdém dřevě. V Evropě roste téměř vždy na jasanech (Fraxinus). Podobné druhy téhož rodu se vyskytují na buku, olši, spáleném dřevě a jiných hostitelích a zde se za tento druh nepovažují. Tvrdé plodnice lze najít v kterémkoli měsíci; askospory se uvolňují především od pozdního jara do konce podzimu.",
+      "uses": "Nejedlá. Plodnice jsou tvrdé a uhlíkovité a za jedlou houbu se nepovažuje.",
+      "confusion": "Kretzschmaria deusta tvoří na pařezech plochou, zvlněnou šedočernou kůru a v řezu nemá soustředné růstové kruhy. Druhy rodu Hypoxylon jsou obvykle menší, často rezavé nebo cihlově červené, a chybí jim zonální, uhlíkovité nitro. Xylaria polymorpha tvoří vzpřímené, kyjovité plodnice, nikoli tvrdé černé podušky. Několik dalších evropských druhů téhož rodu může vypadat podobně a často se oddělují podle hostitele a chemických testů, včetně druhu Daldinia childiae.",
+      "notes": "Fialová reakce nitra v hydroxidu draselném může pomoci odlišit tento druh od některých podobných, které se barví žlutohnědě nebo oranžově. Nálezy na buku nebo spáleném dřevě mohou patřit těmto jiným druhům; neurčujte ho jen podle hostitele bez řezu, který ukáže soustředné zóny.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453",
+        "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=s&typ=cz",
+        "https://www.myko.cz/myko-atlas/Daldinia-concentrica/"
+      ],
+      "label": "sazovka kruhatá"
+    },
+    "da": {
+      "description": "Hårde, afrundede, pudeformede til næsten kugleformede frugtlegemer (stromata), der sidder direkte på dødt ved uden stok. De er typisk 2–8 cm brede. Unge er rødbrune til purpurbrune og let støvede. Modne er matsorte, ofte svagt skinnende hvor de er gnidet, fint knudrede med bitte åbninger og ofte revnede, med sort sporestøv på det omliggende ved. Et lodret snit viser koncentriske sølvgrå og sorte zoner og et tyndt lag flaskeformede kamre lige under den ydre skorpe.",
+      "cap": "Typisk 2–8 cm i diameter (nogle mellemeuropæiske håndbøger angiver 1,5–6 × 1–4 cm). Pudeformet til næsten kugleformet, med en bred, flad tilhæftning og uden en særskilt hat. Overfladen er først rødbrun til purpurbrun og svagt fløjlset eller støvet, senere matsort, undertiden svagt skinnende hvor den er gnidet, fint knudret med de bitte åbninger fra kamrene under skorpen og ofte revnet.",
+      "hymenium": "Den fertile flade består ikke af lameller, rør eller pigge. Lige under den tynde sorte skorpe ligger et enkelt lag bitte flaskeformede kamre, der hver åbner sig med en lille pore i overfladen. Et lodret snit viser dem som en tynd mørk linje under skorpen, over det zonede indre.",
+      "stipe": "Der er ingen stok. Hvert frugtlegeme er fæstnet til veden med en bred, flad basis.",
+      "flesh": "Hård og trækulagtig, med tydelige koncentriske zoner af sølvgråbrun og sort. Lugt og smag er ikke karakteristiske; frugtlegemerne er alt for hårde at spise.",
+      "sporePrint": "Sporeaftrykket er sort. Askosporerne er ellipseformede til tenformede, typisk omkring 12–17 × 6–9 µm (nogle mellemeuropæiske håndbøger angiver 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrof på dødt eller døende løvtræ. I Europa findes den næsten altid på ask (Fraxinus). Lignende arter i samme slægt forekommer på bøg, el, brændt ved og andre værter og behandles ikke som denne art her. De hårde frugtlegemer kan ses i enhver måned; askosporer frigives især fra det sene forår til slutningen af efteråret.",
+      "uses": "Uspiselig. Frugtlegemerne er hårde og trækulagtige og betragtes ikke som en spisesvamp.",
+      "confusion": "Kretzschmaria deusta danner en flad, bølget gråsort skorpe på stubbe og har ingen koncentriske vækstringe i snit. Arter af slægten Hypoxylon er sædvanligvis mindre, ofte rust- eller teglrøde, og mangler det zonede, trækulagtige indre. Xylaria polymorpha danner oprette, kølleformede frugtlegemer, ikke hårde sorte puder. Flere andre europæiske arter i samme slægt kan ligne og adskilles ofte efter vært og kemiske test, herunder Daldinia childiae.",
+      "notes": "En violet reaktion af det indre i kaliumhydroxid kan hjælpe med at skille denne art fra nogle lignende, der farves gulbrune eller orange. Fund på bøg eller brændt ved kan tilhøre de andre arter; bestem den ikke alene ud fra værten uden et snit, der viser de koncentriske zoner.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Aske-bæltekugle"
+    },
+    "de": {
+      "description": "Harte, rundliche, kissen- bis fast kugelförmige Fruchtkörper (Stromata), die ohne Stiel unmittelbar auf totem Holz sitzen. Sie sind typischerweise 2–8 cm breit. Junge Exemplare sind rotbraun bis purpurbraun und leicht bestäubt. Reife sind matt schwarz, an beriebenen Stellen oft schwach glänzend, fein höckerig mit winzigen Mündungen und häufig rissig, mit schwarzem Sporenstaub auf dem umgebenden Holz. Ein senkrechter Schnitt zeigt konzentrische silbergraue und schwarze Zonen und eine dünne Schicht flaschenförmiger Kammern direkt unter der äußeren Kruste.",
+      "cap": "Typischerweise 2–8 cm breit (einige mitteleuropäische Werke geben 1,5–6 × 1–4 cm an). Kissen- bis fast kugelförmig, mit breitem, flachem Ansatz und ohne eigenen Hut. Die Oberfläche ist zuerst rotbraun bis purpurbraun und schwach samtig oder bestäubt, später matt schwarz, an beriebenen Stellen manchmal schwach glänzend, fein höckerig mit den winzigen Mündungen der darunter liegenden Kammern und oft rissig.",
+      "hymenium": "Die fruchtbare Fläche besteht nicht aus Lamellen, Röhren oder Stacheln. Unmittelbar unter der dünnen schwarzen Kruste liegt eine einzige Schicht winziger flaschenförmiger Kammern, die sich jeweils durch eine winzige Pore an der Oberfläche öffnen. Im senkrechten Schnitt erscheinen sie als dünne dunkle Linie unter der Kruste, über dem gezonten Inneren.",
+      "stipe": "Ein Stiel fehlt. Jeder Fruchtkörper ist mit breiter, flacher Basis am Holz angewachsen.",
+      "flesh": "Hart und holzkohleartig, mit deutlichen konzentrischen Zonen aus silbrig graubrauner und schwarzer Farbe. Geruch und Geschmack sind unauffällig; die Fruchtkörper sind zum Essen viel zu hart.",
+      "sporePrint": "Das Sporenpulver ist schwarz. Die Ascosporen sind ellipsoid bis spindelförmig, typischerweise etwa 12–17 × 6–9 µm (einige mitteleuropäische Werke geben 13–17,5 × 6–7,5 µm an).",
+      "habitat": "Saprobiont auf totem oder absterbendem Laubholz. In Europa findet man sie fast immer an Esche (Fraxinus). Ähnliche Arten derselben Gattung kommen an Buche, Erle, verbranntem Holz und anderen Wirten vor und werden hier nicht als diese Art behandelt. Die harten Fruchtkörper sind in jedem Monat zu finden; Ascosporen werden vor allem vom späten Frühling bis zum Ende des Herbstes freigesetzt.",
+      "uses": "Ungenießbar. Die Fruchtkörper sind hart und holzkohleartig und gelten nicht als Speisepilz.",
+      "confusion": "Kretzschmaria deusta bildet auf Stümpfen eine flache, wellige grau-schwarze Kruste und hat im Schnitt keine konzentrischen Zuwachszonen. Arten der Gattung Hypoxylon sind meist kleiner, oft rost- oder ziegelrot, und ihnen fehlt das gezonte, holzkohleartige Innere. Xylaria polymorpha bildet aufrechte, keulenförmige Fruchtkörper, keine harten schwarzen Kissen. Mehrere andere europäische Arten derselben Gattung können ähnlich aussehen und werden oft nach Wirt und chemischen Tests getrennt, darunter Daldinia childiae.",
+      "notes": "Eine violette Reaktion des Inneren in Kaliumhydroxid kann helfen, diese Art von einigen ähnlichen zu trennen, die sich gelbbraun oder orange färben. Funde an Buche oder verbranntem Holz können zu diesen anderen Arten gehören; bestimmen Sie sie nicht allein nach dem Wirt, ohne einen Schnitt, der die konzentrischen Zonen zeigt.",
+      "names": [
+        "Kugelkohlenpilz",
+        "Kohliger Kugelpilz",
+        "Konzentrischer Holzkohlenpilz"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q935453",
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Kohlen-Kugelpilz"
+    },
+    "en": {
+      "description": "Hard, rounded, cushion-shaped to almost ball-shaped fruit bodies (stromata) that sit directly on dead wood, with no stem. They are typically 2–8 cm across. Young ones are reddish brown to purplish brown and slightly dusty. Mature ones are matt black, often slightly shiny where rubbed, finely bumpy with tiny openings, and frequently cracked, with black spore dust on the surrounding wood. A vertical section shows concentric silvery-grey and black zones and a thin layer of flask-shaped chambers just under the outer crust.",
+      "cap": "Typically 2–8 cm across (some Central European guides give 1.5–6 × 1–4 cm). Cushion-shaped to almost ball-shaped, with a broad, flat attachment and no separate cap. The surface starts reddish brown to purplish brown and slightly velvety or dusty, then becomes matt black, sometimes slightly shiny where rubbed, finely bumpy with the tiny openings of the chambers beneath, and often cracked.",
+      "hymenium": "The fertile surface is not gills, pores or teeth. Just beneath the thin black crust is a single layer of tiny flask-shaped chambers, each opening by a minute pore on the surface. A vertical section shows these as a thin dark line under the crust, above the zoned interior.",
+      "stipe": "There is no stem. Each fruit body is attached to the wood by a broad, flat base.",
+      "flesh": "Hard and charcoal-like, with clear concentric zones of silvery grey-brown and black. Smell and taste are not distinctive; the fruit bodies are far too hard to eat.",
+      "sporePrint": "The spore deposit is black. The ascospores are ellipsoidal to fusiform, typically about 12–17 × 6–9 µm (some Central European guides give 13–17.5 × 6–7.5 µm).",
+      "habitat": "Saprobic on dead or dying hardwood. In Europe it is found almost always on ash (Fraxinus). Similar-looking species in the same genus occur on beech, alder, burnt wood and other hosts and are not treated as this species here. The hard fruit bodies can be seen in any month; ascospores are released mainly from late spring to the end of autumn.",
+      "uses": "Inedible. The fruit bodies are hard and charcoal-like, and it is not considered a food fungus.",
+      "confusion": "Kretzschmaria deusta forms a flat, wavy grey-to-black crust on stumps and has no concentric growth rings in section. Species of Hypoxylon are usually smaller, often rusty or brick-red, and lack the zoned charcoal-like interior. Xylaria polymorpha forms upright, club-shaped fruit bodies, not hard black cushions. Several other European species in the same genus can look similar and are often separated by host and chemical tests, including Daldinia childiae.",
+      "notes": "A purple reaction of the interior in potassium hydroxide can help to separate this species from some similar ones that stain yellow-brown or orange. Records on beech or burnt wood may belong to those other species; do not identify from the host alone without a section that shows the concentric zones.",
+      "names": [
+        "cramp balls",
+        "cramp ball"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=146158",
+        "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=146158",
+        "https://api.gbif.org/v1/species/match?name=Daldinia%20concentrica",
+        "https://www.gbif.org/species/2576893",
+        "https://www.wikidata.org/wiki/Q935453",
+        "https://www.inaturalist.org/taxa/121714",
+        "https://species.wikimedia.org/wiki/Daldinia_concentrica",
+        "https://www.first-nature.com/fungi/daldinia-concentrica.php",
+        "https://www.myko.cz/myko-atlas/Daldinia-concentrica/",
+        "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=s&typ=cz"
+      ],
+      "label": "King Alfred's cakes"
+    },
+    "es": {
+      "description": "Fructificaciones duras, redondeadas, en cojín hasta casi esféricas (estromas), sentadas directamente sobre madera muerta y sin pie. Miden por lo general 2–8 cm de ancho. Las jóvenes son pardo-rojizas a pardo-violáceas y ligeramente polvorientas. Las maduras son de un negro mate, a menudo un poco brillantes donde se han frotado, finamente abultadas con minúsculas aberturas y con frecuencia agrietadas, con polvo esporal negro sobre la madera de alrededor. Un corte vertical muestra zonas concéntricas gris plateado y negras y una capa delgada de cámaras en forma de frasco justo debajo de la corteza externa.",
+      "cap": "Por lo general 2–8 cm de ancho (algunas guías de Europa central indican 1,5–6 × 1–4 cm). En cojín hasta casi esférica, con una inserción ancha y plana y sin sombrero aparte. La superficie es al principio pardo-rojiza a pardo-violácea y ligeramente aterciopelada o polvorienta, luego de un negro mate, a veces un poco brillante donde se ha frotado, finamente abultada por las minúsculas aberturas de las cámaras bajo la corteza, y a menudo agrietada.",
+      "hymenium": "La superficie fértil no son láminas, tubos ni dientes. Justo debajo de la delgada corteza negra hay una sola capa de minúsculas cámaras en forma de frasco, cada una de las cuales se abre por un poro diminuto en la superficie. En corte vertical aparecen como una línea oscura delgada bajo la corteza, por encima del interior zonado.",
+      "stipe": "No hay pie. Cada fructificación está unida a la madera por una base ancha y plana.",
+      "flesh": "Dura y de aspecto carbonoso, con claras zonas concéntricas pardo-grisáceas plateadas y negras. El olor y el sabor no son distintivos; las fructificaciones son demasiado duras para comerse.",
+      "sporePrint": "La esporada es negra. Las ascosporas son elipsoidales a fusiformes, por lo general de unos 12–17 × 6–9 µm (algunas guías de Europa central indican 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprófito sobre madera dura muerta o moribunda. En Europa se encuentra casi siempre sobre fresno (Fraxinus). Especies parecidas del mismo género aparecen sobre haya, aliso, madera quemada y otros huéspedes, y no se tratan aquí como esta especie. Las fructificaciones duras pueden verse en cualquier mes; las ascosporas se liberan sobre todo desde finales de la primavera hasta el final del otoño.",
+      "uses": "No comestible. Las fructificaciones son duras y de aspecto carbonoso, y no se considera un hongo comestible.",
+      "confusion": "Kretzschmaria deusta forma sobre los tocones una costra plana, ondulada, de gris a negra, y no tiene anillos de crecimiento concéntricos en el corte. Las especies del género Hypoxylon suelen ser más pequeñas, a menudo de color óxido o rojo ladrillo, y carecen del interior zonado de aspecto carbonoso. Xylaria polymorpha forma fructificaciones erectas, en forma de porra, no cojines negros duros. Varias otras especies europeas del mismo género pueden parecerse y a menudo se separan por el huésped y por pruebas químicas, entre ellas Daldinia childiae.",
+      "notes": "Una reacción púrpura del interior en hidróxido de potasio puede ayudar a separar esta especie de algunas parecidas que se tiñen de pardo amarillento o naranja. Los hallazgos sobre haya o madera quemada pueden pertenecer a esas otras especies; no la identifique solo por el huésped sin un corte que muestre las zonas concéntricas.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Bola de carbón"
+    },
+    "et": {
+      "description": "Kõvad, ümarad, padjandilised kuni peaaegu kerajad viljakehad (stromad), mis istuvad ilma jalata otse surnud puidul. Need on tavaliselt 2–8 cm läbimõõduga. Noored on punakaspruunid kuni purpurpruunid ja kergelt tolmused. Küpsed on mattmustad, hõõrutud kohtades sageli nõrgalt läikivad, peenelt kühmulised tillukeste avade tõttu ja sageli mõranenud, ümbritseval puidul musta eospulbriga. Püstlõige näitab kontsentrilisi hõbehalli ja musti vööndeid ning õhukest kihti pudelikujulisi kambreid vahetult välimise kooriku all.",
+      "cap": "Tavaliselt 2–8 cm läbimõõduga (mõned Kesk-Euroopa käsiraamatud annavad 1,5–6 × 1–4 cm). Padjandiline kuni peaaegu kerajas, laia lameda kinnitusega, ilma eraldi kübarata. Pind on algul punakaspruun kuni purpurpruun ja nõrgalt sametjas või tolmune, hiljem mattmust, hõõrutud kohtades vahel nõrgalt läikiv, peenelt kühmuline kooriku all olevate kambrite tillukeste avade tõttu ja sageli mõranenud.",
+      "hymenium": "Viljakas pind ei koosne eoslehekestest, torukestest ega ogadest. Vahetult õhukese musta kooriku all on üks kiht tillukesi pudelikujulisi kambreid, millest igaüks avaneb pinnal tillukese poorina. Püstlõikes paistavad need õhukese tumeda joonena kooriku all, vööndilise sisemuse kohal.",
+      "stipe": "Jalga ei ole. Iga viljakeha on kinnitunud puidule laia lameda alusega.",
+      "flesh": "Kõva ja söetaoline, selgete kontsentriliste hõbehallikaspruunide ja mustade vöönditega. Lõhn ja maitse ei ole iseloomulikud; viljakehad on söömiseks liiga kõvad.",
+      "sporePrint": "Eospulber on must. Askospoorid on ellipsoidse kuni käävjad, tavaliselt umbes 12–17 × 6–9 µm (mõned Kesk-Euroopa käsiraamatud annavad 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotroof surnud või sureval lehtpuul. Euroopas leitakse teda peaaegu alati saarelt (Fraxinus). Sama perekonna sarnased liigid esinevad pöögil, lepal, põlenud puidul ja teistel peremeestel ning neid ei käsitleta siin selle liigina. Kõvasid viljakehi võib leida igal kuul; askospoorid vabanevad peamiselt hiliskevadest sügise lõpuni.",
+      "uses": "Mittesöödav. Viljakehad on kõvad ja söetaolised ning teda ei peeta toiduseenteks.",
+      "confusion": "Kretzschmaria deusta moodustab kändudel lameda, lainelise hallikas-musta kooriku ja lõikes puuduvad kontsentrilised kasvurõngad. Perekonna Hypoxylon liigid on tavaliselt väiksemad, sageli rooste- või telliskivipunased, ja neil puudub vööndiline, söetaoline sisemus. Xylaria polymorpha moodustab püstiseid, nuiakujulisi viljakehi, mitte kõvasid musti padjandeid. Mitu teist Euroopa liiki samast perekonnast võivad sarnaneda ja eraldatakse sageli peremehe ning keemiliste katsete järgi, sealhulgas Daldinia childiae.",
+      "notes": "Sisemuse lilla reaktsioon kaaliumhüdroksiidis võib aidata seda liiki eristada mõnest sarnasest, mis värvuvad kollakaspruuniks või oranžiks. Leiud pöögilt või põlenud puidult võivad kuuluda nende teiste liikide hulka; ärge määrake teda ainult peremehe järgi ilma lõiketa, mis näitab kontsentrilisi vööndeid.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453"
+      ],
+      "label": "harilik kerasüsik"
+    },
+    "fa": {
+      "description": "اندام‌های میوه‌ای سخت، گرد، بالشتکی تا تقریباً کروی (استروما) که بدون پایه مستقیماً روی چوب مرده می‌نشینند. پهنای آنها معمولاً 2–8 سانتی‌متر است. نمونه‌های جوان قهوه‌ای مایل به سرخ تا قهوه‌ای ارغوانی و اندکی غبارآلود هستند. نمونه‌های بالغ سیاه مات‌اند، در جاهایی که مالیده شده‌اند اغلب کمی براق، با برآمدگی‌های ریز و روزنه‌های کوچک و غالباً ترک‌خورده، با گردهٔ هاگ سیاه روی چوب پیرامون. برش عمودی نوارهای متحدالمرکز خاکستری نقره‌ای و سیاه و لایه‌ای نازک از حجره‌های شیشه‌مانند را درست زیر پوستهٔ بیرونی نشان می‌دهد.",
+      "cap": "معمولاً 2–8 سانتی‌متر قطر دارد (برخی راهنماهای اروپای مرکزی 1,5–6 × 1–4 سانتی‌متر می‌دهند). بالشتکی تا تقریباً کروی، با اتصال پهن و تخت و بدون کلاهک جداگانه. سطح ابتدا قهوه‌ای مایل به سرخ تا قهوه‌ای ارغوانی و اندکی مخملی یا غبارآلود است، سپس سیاه مات می‌شود، گاهی در جاهای مالیده‌شده کمی براق، به‌خاطر روزنه‌های کوچک حجره‌های زیر پوسته ریزبرآمدگی دارد و غالباً ترک می‌خورد.",
+      "hymenium": "سطح بارور تیغه، لوله یا دندانه نیست. درست زیر پوستهٔ سیاه نازک یک لایه از حجره‌های کوچک شیشه‌مانند وجود دارد که هر کدام با منفذی ریز در سطح باز می‌شوند. در برش عمودی به صورت خط تیرهٔ نازکی زیر پوسته، بالای درون منطقه‌بندی‌شده دیده می‌شوند.",
+      "stipe": "پایه وجود ندارد. هر اندام میوه‌ای با قاعده‌ای پهن و تخت به چوب متصل است.",
+      "flesh": "سخت و شبیه زغال چوب، با نوارهای متحدالمرکز مشخص خاکستری‌قهوه‌ای نقره‌ای و سیاه. بو و طعم مشخص نیستند؛ اندام‌های میوه‌ای برای خوردن بسیار سخت‌اند.",
+      "sporePrint": "گردهٔ هاگ سیاه است. آسکوسپورها بیضوی تا دوکی، معمولاً حدود 12–17 × 6–9 µm هستند (برخی راهنماهای اروپای مرکزی 13–17,5 × 6–7,5 µm می‌دهند).",
+      "habitat": "ساپروتروف روی چوب سخت مرده یا در حال مرگ. در اروپا تقریباً همیشه روی زبان‌گنجشک (Fraxinus) یافت می‌شود. گونه‌های مشابه همان سرده روی راش، توسکا، چوب سوخته و میزبان‌های دیگر دیده می‌شوند و در اینجا به‌عنوان این گونه در نظر گرفته نمی‌شوند. اندام‌های میوه‌ای سخت را می‌توان در هر ماهی دید؛ آسکوسپورها بیشتر از اواخر بهار تا پایان پاییز آزاد می‌شوند.",
+      "uses": "خوراکی نیست. اندام‌های میوه‌ای سخت و شبیه زغال چوب‌اند و قارچ خوراکی به‌شمار نمی‌آید.",
+      "confusion": "Kretzschmaria deusta روی کنده‌ها پوسته‌ای تخت، موج‌دار و خاکستری‌سیاه می‌سازد و در برش حلقه‌های رشد متحدالمرکز ندارد. گونه‌های سردهٔ Hypoxylon معمولاً کوچک‌ترند، اغلب زنگاری یا آجری‌رنگ، و درون منطقه‌بندی‌شده و زغال‌مانند ندارند. Xylaria polymorpha اندام‌های میوه‌ای ایستاده و گرزی می‌سازد، نه بالشتک‌های سیاه سخت. چند گونهٔ اروپایی دیگر همان سرده ممکن است شبیه باشند و اغلب با میزبان و آزمون‌های شیمیایی از هم جدا می‌شوند، از جمله Daldinia childiae.",
+      "notes": "واکنش بنفش درون در هیدروکسید پتاسیم می‌تواند به جدا کردن این گونه از برخی گونه‌های مشابه که به زردقهوه‌ای یا نارنجی رنگ می‌گیرند کمک کند. یافته‌ها روی راش یا چوب سوخته ممکن است به آن گونه‌های دیگر تعلق داشته باشند؛ آن را تنها از روی میزبان، بدون برشی که نوارهای متحدالمرکز را نشان دهد، شناسایی نکنید.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Kovia, pyöreähköjä, tyynymäisiä tai lähes pallomaisia itiöemiä (stroomia), jotka istuvat suoraan kuolleella puulla ilman jalkaa. Ne ovat tyypillisesti 2–8 cm levyisiä. Nuoret ovat punaruskeita tai purppuranruskeita ja hieman tomuiset. Täysikasvuiset ovat himmeän mustia, hierotuista kohdista usein heikosti kiiltäviä, hienosti nystermäisiä pienten aukkojen vuoksi ja usein halkeilleita, ja ympäröivällä puulla on mustaa itiöpölyä. Pystysuora leikkaus paljastaa samankeskiset hopeanharmaat ja mustat vyöhykkeet sekä ohuen kerroksen pullomaisia kammioita heti ulomman kuoren alla.",
+      "cap": "Tyypillisesti 2–8 cm halkaisijaltaan (jotkut keskieurooppalaiset oppaat antavat 1,5–6 × 1–4 cm). Tyynymäinen tai lähes pallomainen, leveällä, litteällä kiinnittymällä, ilman erillistä latvaa. Pinta on aluksi punaruskea tai purppuranruskea ja heikosti samettinen tai tomuinen, myöhemmin himmeän musta, hierotuista kohdista joskus heikosti kiiltävä, hienosti nystermäinen kuoren alaisten kammioiden pienten aukkojen vuoksi ja usein halkeillut.",
+      "hymenium": "Itiöitä tuottava pinta ei ole helttainen, pillimäinen eikä orainen. Heti ohuen mustan kuoren alla on yksi kerros pieniä pullomaisia kammioita, joista kukin avautuu pienen huokosen kautta pinnalle. Pystysuorassa leikkauksessa ne näkyvät ohuena tummana juovana kuoren alla, vyöhykkeisen sisuksen yläpuolella.",
+      "stipe": "Jalkaa ei ole. Jokainen itiöemä on kiinnittynyt puuhun leveällä, litteällä tyvellä.",
+      "flesh": "Kovaa ja hiilimäistä, ja siinä on selvästi erottuvat samankeskiset hopeanharmaaruskeat ja mustat vyöhykkeet. Haju ja maku eivät ole erikoisia; itiöemät ovat aivan liian kovia syötäväksi.",
+      "sporePrint": "Itiöpöly on mustaa. Askosporit ovat ellipsoidisista sukkulamaisiin, tyypillisesti noin 12–17 × 6–9 µm (jotkut keskieurooppalaiset oppaat antavat 13–17,5 × 6–7,5 µm).",
+      "habitat": "Lahottaja kuolleella tai kuolevalla lehtipuulla. Euroopassa se löytyy lähes aina saarolta (Fraxinus). Saman suvun samannäköisiä lajeja esiintyy pyökillä, leppällä, palaneella puulla ja muilla isäntäpuilla, eikä niitä käsitellä tässä tänä lajina. Kovia itiöemiä voi nähdä minä tahansa kuukautena; askosporit vapautuvat lähinnä myöhäisestä keväästä syksyn loppuun.",
+      "uses": "Syötäväksi kelpaamaton. Itiöemät ovat kovia ja hiilimäisiä, eikä sitä pidetä ruokasienenä.",
+      "confusion": "Kretzschmaria deusta muodostaa kannoille litteän, aaltoilevan harmaanmustan kuoren eikä leikkauksessa näy samankeskisiä kasvurenkaita. Suvun Hypoxylon lajit ovat yleensä pienempiä, usein ruosteen- tai tiilenpunaisia, ja niiltä puuttuu vyöhykkeinen, hiilimäinen sisus. Xylaria polymorpha muodostaa pystyjä, nuijamaisia itiöemiä, ei kovia mustia tyynyjä. Useat muut eurooppalaiset saman suvun lajit voivat näyttää samalta, ja ne erotetaan usein isäntäpuun ja kemiallisten testien avulla, mukaan lukien Daldinia childiae.",
+      "notes": "Sisuksen violetti reaktio kaliumhydroksidissa voi auttaa erottamaan tämän lajin joistakin samannäköisistä, jotka värjäytyvät keltaruskeiksi tai oransseiksi. Pyökiltä tai palaneelta puulta tehdyt löydöt voivat kuulua noille muille lajeille; älä määritä sitä pelkän isäntäpuun perusteella ilman leikkausta, jossa samankeskiset vyöhykkeet näkyvät.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453"
+      ],
+      "label": "pikipallo"
+    },
+    "fr": {
+      "description": "Des fructifications dures, arrondies, en coussin presque sphérique (stromas), posées directement sur le bois mort, sans pied. Elles mesurent typiquement 2–8 cm de large. Les jeunes sont brun-rouge à brun-violacé et légèrement pruineuses. Les matures sont d’un noir mat, souvent un peu luisantes aux endroits frottés, finement bosselées de minuscules ostioles, et fréquemment fissurées, avec une poussière de spores noire sur le bois environnant. Une coupe verticale montre des zones concentriques gris argenté et noires et une mince couche de loges en forme de flacon juste sous la croûte externe.",
+      "cap": "Typiquement 2–8 cm de large (certains guides d’Europe centrale indiquent 1,5–6 × 1–4 cm). En coussin presque sphérique, à large attache plane, sans chapeau distinct. La surface est d’abord brun-rouge à brun-violacé et légèrement veloutée ou pruineuse, puis d’un noir mat, parfois un peu luisante aux endroits frottés, finement bosselée par les minuscules ostioles des loges sous-jacentes, et souvent fissurée.",
+      "hymenium": "La surface fertile n’est ni des lames, ni des tubes, ni des aiguillons. Juste sous la mince croûte noire se trouve une seule couche de minuscules loges en forme de flacon, chacune s’ouvrant par un ostiole minuscule à la surface. En coupe verticale, elles apparaissent comme une fine ligne sombre sous la croûte, au-dessus de l’intérieur zoné.",
+      "stipe": "Il n’y a pas de pied. Chaque fructification est fixée au bois par une base large et plane.",
+      "flesh": "Dure et d’aspect charbonneux, avec de nettes zones concentriques gris-brun argenté et noires. L’odeur et la saveur ne sont pas caractéristiques ; les fructifications sont beaucoup trop dures pour être mangées.",
+      "sporePrint": "La sporée est noire. Les ascospores sont ellipsoïdes à fusiformes, typiquement d’environ 12–17 × 6–9 µm (certains guides d’Europe centrale indiquent 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrophe sur bois feuillu mort ou dépérissant. En Europe, on le trouve presque toujours sur le frêne (Fraxinus). Des espèces semblables du même genre se rencontrent sur le hêtre, l’aulne, le bois brûlé et d’autres hôtes, et ne sont pas traitées ici comme cette espèce. Les fructifications dures peuvent être vues à n’importe quel mois ; les ascospores sont libérées surtout de la fin du printemps à la fin de l’automne.",
+      "uses": "Non comestible. Les fructifications sont dures et d’aspect charbonneux ; ce n’est pas considéré comme un champignon de table.",
+      "confusion": "Kretzschmaria deusta forme sur les souches une croûte plane, ondulée, gris-noir, et n’a pas d’anneaux de croissance concentriques en coupe. Les espèces du genre Hypoxylon sont généralement plus petites, souvent rouille ou rouge brique, et n’ont pas l’intérieur zoné d’aspect charbonneux. Xylaria polymorpha forme des fructifications dressées, en massue, et non de durs coussins noirs. Plusieurs autres espèces européennes du même genre peuvent se ressembler et se distinguent souvent par l’hôte et des tests chimiques, notamment Daldinia childiae.",
+      "notes": "Une réaction pourpre de l’intérieur dans l’hydroxyde de potassium peut aider à séparer cette espèce de certaines semblables qui se teintent de jaune-brun ou d’orangé. Les récoltes sur hêtre ou bois brûlé peuvent appartenir à ces autres espèces ; ne l’identifiez pas d’après l’hôte seul, sans une coupe montrant les zones concentriques.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Daldinie concentrique"
+    },
+    "he": {
+      "description": "גופי פרי קשים, מעוגלים, דמויי כרית עד כמעט כדוריים (סטרומות), היושבים ישירות על עץ מת ובלי רגל. בדרך כלל רוחבם 2–8 ס\"מ. הצעירים חומים-אדמדמים עד חומים-סגלגלים ומעט מאובקים. הבוגרים שחורים מט, לעיתים קרובות מעט מבריקים במקומות ששופשפו, גבשושיים דק עם פתחים זעירים ולעיתים קרובות סדוקים, ועם אבק נבגים שחור על העץ הסובב. חתך אנכי מראה אזורים קונצנטריים אפור-כסוף ושחור ושכבה דקה של תאים דמויי בקבוק ממש מתחת לקרום החיצוני.",
+      "cap": "בדרך כלל 2–8 ס\"מ בקוטר (כמה מדריכים ממרכז אירופה מציינים 1.5–6 × 1–4 ס\"מ). דמוי כרית עד כמעט כדורי, עם הצמדה רחבה ושטוחה ובלי כיפה נפרדת. פני השטח בהתחלה חומים-אדמדמים עד חומים-סגלגלים ומעט קטיפתיים או מאובקים, אחר כך שחורים מט, לעיתים מעט מבריקים במקומות ששופשפו, גבשושיים דק בגלל הפתחים הזעירים של התאים שמתחת לקרום, ולעיתים קרובות סדוקים.",
+      "hymenium": "פני השטח הפוריים אינם דפים, צינורות או שיניים. ממש מתחת לקרום השחור הדק יש שכבה אחת של תאים זעירים דמויי בקבוק, שכל אחד מהם נפתח בנקב זעיר על פני השטח. בחתך אנכי הם נראים כקו כהה דק מתחת לקרום, מעל הפנים המחולק לאזורים.",
+      "stipe": "אין רגל. כל גוף פרי מחובר לעץ בבסיס רחב ושטוח.",
+      "flesh": "קשה ודמוי פחם עץ, עם אזורים קונצנטריים ברורים של אפור-חום כסוף ושחור. הריח והטעם אינם אופייניים; גופי הפרי קשים מדי לאכילה.",
+      "sporePrint": "אבקת הנבגים שחורה. האסקוספורות אליפסואידיות עד דמויות כישור, בדרך כלל בערך 12–17 × 6–9 µm (כמה מדריכים ממרכז אירופה מציינים 13–17.5 × 6–7.5 µm).",
+      "habitat": "ספרוטרוף על עץ קשה מת או גוסס. באירופה הוא נמצא כמעט תמיד על מֵיליה (Fraxinus). מינים דומים באותו סוג מופיעים על אשור, אלנוס, עץ שרוף ופונדקאים אחרים, ואינם מטופלים כאן כמין זה. אפשר לראות את גופי הפרי הקשים בכל חודש; האסקוספורות משתחררות בעיקר מסוף האביב עד סוף הסתיו.",
+      "uses": "אינו אכיל. גופי הפרי קשים ודמויי פחם עץ, ואינו נחשב לפטריית מאכל.",
+      "confusion": "Kretzschmaria deusta יוצר על גדמים קרום שטוח, גלי, אפור-שחור, ובחתך אין לו טבעות גידול קונצנטריות. מיני הסוג Hypoxylon בדרך כלל קטנים יותר, לעיתים קרובות בצבע חלודה או אדום-לבֵנים, וחסר להם הפנים המחולק לאזורים ודמוי הפחם. Xylaria polymorpha יוצר גופי פרי זקופים דמויי אלה, לא כריות שחורות קשות. כמה מינים אירופיים אחרים באותו סוג עשויים להיראות דומים, ולעיתים קרובות מפרידים אותם לפי הפונדקאי ומבחנים כימיים, ובהם Daldinia childiae.",
+      "notes": "תגובה סגולה של הפנים בהידרוקסיד אשלגן יכולה לעזור להפריד מין זה ממינים דומים שנצבעים בצהוב-חום או כתום. ממצאים על אשור או עץ שרוף עשויים להיות שייכים לאותם מינים אחרים; אין לזהות לפי הפונדקאי לבדו בלי חתך שמראה את האזורים הקונצנטריים.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "קשתנית טבעתית"
+    },
+    "hi": {
+      "description": "कठोर, गोलाकार, गद्देनुमा से लगभग गेंद जैसे फलन-पिंड (स्ट्रोमा) जो बिना डंठल के सीधे मरे हुए काष्ठ पर बैठते हैं। इनकी चौड़ाई आमतौर पर 2–8 सेमी होती है। युवा पिंड लाल-भूरे से बैंगनी-भूरे और हल्के धूलिल होते हैं। परिपक्व पिंड मैट काले होते हैं, रगड़े गए स्थानों पर अक्सर हल्के चमकदार, छोटे छिद्रों से बारीक ऊबड़-खाबड़ और प्रायः फटे हुए, और आसपास की काष्ठ पर काला बीजाणु-धूल होता है। ऊर्ध्वाधर काट चांदी-धूसर और काले संकेंद्रित वलय तथा बाहरी पपड़ी के ठीक नीचे बोतल-आकार की कक्षों की पतली परत दिखाती है।",
+      "cap": "आमतौर पर 2–8 सेमी व्यास (कुछ मध्य यूरोपीय निर्देशिकाएँ 1.5–6 × 1–4 सेमी देती हैं)। गद्देनुमा से लगभग गेंद जैसा, चौड़े सपाट जुड़ाव के साथ, अलग टोपी के बिना। सतह पहले लाल-भूरी से बैंगनी-भूरी और हल्की मखमली या धूलिल होती है, फिर मैट काली, रगड़े गए स्थानों पर कभी-कभी हल्की चमकदार, पपड़ी के नीचे की कक्षों के छोटे छिद्रों से बारीक ऊबड़-खाबड़, और अक्सर फटी हुई।",
+      "hymenium": "उर्वर सतह गिल्स, नलिकाएँ या दाँत नहीं है। पतली काली पपड़ी के ठीक नीचे बोतल-आकार की छोटी कक्षों की एक परत होती है, जिनमें से प्रत्येक सतह पर एक सूक्ष्म छिद्र से खुलती है। ऊर्ध्वाधर काट में वे पपड़ी के नीचे, वलयित आंतरिक भाग के ऊपर, एक पतली गहरी रेखा के रूप में दिखाई देती हैं।",
+      "stipe": "डंठल नहीं होता। प्रत्येक फलन-पिंड चौड़े, सपाट आधार से काष्ठ से जुड़ा होता है।",
+      "flesh": "कठोर और कोयले जैसी, चांदी-धूसर-भूरे और काले स्पष्ट संकेंद्रित वलयों के साथ। गंध और स्वाद विशिष्ट नहीं हैं; फलन-पिंड खाने के लिए अत्यंत कठोर हैं।",
+      "sporePrint": "बीजाणु-चूर्ण काला होता है। ऐस्कोस्पोर दीर्घवृत्ताकार से तर्कु-आकार के होते हैं, आमतौर पर लगभग 12–17 × 6–9 µm (कुछ मध्य यूरोपीय निर्देशिकाएँ 13–17.5 × 6–7.5 µm देती हैं)।",
+      "habitat": "मरी हुई या मरती कठोर काष्ठ पर सैप्रोट्रॉफ। यूरोप में यह लगभग हमेशा राख वृक्ष (Fraxinus) पर पाया जाता है। उसी वंश की मिलती-जुलती जातियाँ बीच, एल्डर, जली काष्ठ और अन्य परपोषियों पर होती हैं और यहाँ इस जाति के रूप में नहीं मानी जातीं। कठोर फलन-पिंड किसी भी महीने देखे जा सकते हैं; ऐस्कोस्पोर मुख्यतः देर वसंत से शरद के अंत तक मुक्त होते हैं।",
+      "uses": "अखाद्य। फलन-पिंड कठोर और कोयले जैसे हैं, और इसे खाद्य कवक नहीं माना जाता।",
+      "confusion": "Kretzschmaria deusta ठूँठों पर चपटी, लहरदार धूसर-काली पपड़ी बनाती है और काट में संकेंद्रित वृद्धि-वलय नहीं होते। Hypoxylon वंश की जातियाँ आमतौर पर छोटी होती हैं, अक्सर जंग-रंग या ईंट-लाल, और उनमें वलयित, कोयले जैसा आंतरिक भाग नहीं होता। Xylaria polymorpha सीधे, गदाकार फलन-पिंड बनाती है, कठोर काले गद्दे नहीं। उसी वंश की कई अन्य यूरोपीय जातियाँ मिलती-जुलती दिख सकती हैं और अक्सर परपोषी तथा रासायनिक परीक्षणों से अलग की जाती हैं, जिनमें Daldinia childiae शामिल है।",
+      "notes": "पोटैशियम हाइड्रॉक्साइड में आंतरिक भाग की बैंगनी अभिक्रिया कुछ मिलती-जुलती जातियों से अलग करने में मदद कर सकती है जो पीले-भूरे या नारंगी रंग लेती हैं। बीच या जली काष्ठ पर मिले नमूने उन अन्य जातियों के हो सकते हैं; संकेंद्रित वलय दिखाने वाले काट के बिना केवल परपोषी से पहचान न करें।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Tvrda, zaobljena, jastučasta do gotovo kuglasta plodišta (strome) koja sjede izravno na mrtvom drvu i nemaju stručak. Obično su promjera 2–8 cm. Mlada su crvenosmeđa do ljubičastosmeđa i pomalo zaprašena. Zrela su mat crna, na odranim mjestima često slabo sjajna, sitno kvržasta s malim otvorima i često ispucala, s crnom prašinom spora na okolnom drvu. Okomiti presjek pokazuje koncentrične srebrnosive i crne zone te tanki sloj bočicastih komorica odmah pod vanjskom korom.",
+      "cap": "Obično 2–8 cm u promjeru (neki srednjoeuropski vodiči navode 1,5–6 × 1–4 cm). Jastučast do gotovo kuglast tvorevina sa širokim, ravnim pripajanjem, bez zasebnog klobuka. Površina je najprije crvenosmeđa do ljubičastosmeđa i slabo baršunasta ili zaprašena, zatim mat crna, ponekad na odranim mjestima slabo sjajna, sitno kvržasta s malim otvorima komorica pod korom i često ispucala.",
+      "hymenium": "Plodni sloj nisu listići, cjevčice ni bodlje. Odmah pod tankom crnom korom nalazi se jedan sloj sitnih bočicastih komorica, od kojih se svaka otvara sitnom porom na površini. Okomiti presjek ih pokazuje kao tanku tamnu crtu pod korom, iznad zoniranog unutrašnjeg tkiva.",
+      "stipe": "Stručka nema. Svako plodište je pričvršćeno na drvo širokom, ravnom bazom.",
+      "flesh": "Tvrdo i nalik na drveni ugljen, s jasnim koncentričnim zonama srebrnosivosmeđe i crne boje. Miris i okus nisu osobiti; plodišta su pre tvrda za jelo.",
+      "sporePrint": "Otisak spora je crn. Askospore su elipsoidne do vretenaste, obično oko 12–17 × 6–9 µm (neki srednjoeuropski vodiči navode 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprofitska gljiva na mrtvom ili odumirućem tvrdom drvu. U Europi raste gotovo uvijek na jasenu (Fraxinus). Slične vrste istog roda javljaju se na bukvi, johi, izgorjelom drvu i drugim domaćinima i ovdje se ne smatraju ovom vrstom. Tvrda plodišta mogu se naći u svakom mjesecu; askospore se oslobađaju uglavnom od kasnog proljeća do kraja jeseni.",
+      "uses": "Nejestiva. Plodišta su tvrda i nalik na drveni ugljen; ne smatra se jestivom gljivom.",
+      "confusion": "Kretzschmaria deusta na panjevima stvara ravnu, valovitu sivo-crnu koru i u presjeku nema koncentrične prstenove rasta. Vrste roda Hypoxylon obično su manje, često hrđaste ili ciglastocrvene, i nedostaje im zonirana, ugljenasta unutrašnjost. Xylaria polymorpha stvara uspravna, kijačasta plodišta, a ne tvrde crne jastučiće. Nekoliko drugih europskih vrsta istog roda može izgledati slično i često se razlikuju prema domaćinu i kemijskim testovima, uključujući Daldinia childiae.",
+      "notes": "Ljubičasta reakcija unutrašnjosti u kalijevu hidroksidu može pomoći da se ova vrsta odvoji od nekih sličnih koje se boje žutosmeđe ili narančasto. Nalazi na bukvi ili izgorjelom drvu mogu pripadati tim drugim vrstama; ne određujte je samo prema domaćinu bez presjeka koji pokazuje koncentrične zone.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kemény, kerekded, párnaszerűtől csaknem gömbölyű termőtestek (stromák), amelyek tönk nélkül ülnek közvetlenül az elhalt fán. Rendszerint 2–8 cm szélesek. A fiatalok vörösbarnák vagy bíborbarnák és enyhén porosak. Az érettek matt feketék, a dörzsölt helyeken gyakran gyengén fénylők, apró dudorosak a parányi nyílásoktól és gyakran berepedezettek, a környező fán fekete sporaporral. A függőleges metszet ezüstszürke és fekete koncentrikus zónákat mutat, valamint egy vékony, palack alakú kamraréteget közvetlenül a külső kéreg alatt.",
+      "cap": "Rendszerint 2–8 cm átmérőjű (egyes közép-európai kalauzok 1,5–6 × 1–4 cm-t adnak meg). Párnaszerűtől csaknem gömbölyű képződmény széles, lapos tapadással, különálló kalap nélkül. A felszín eleinte vörösbarna vagy bíborbarna és gyengén bársonyos vagy poros, később matt fekete, a dörzsölt helyeken néha gyengén fénylő, apró dudoros a kéreg alatti kamrák parányi nyílásaitól, és gyakran berepedezett.",
+      "hymenium": "A termőréteg nem lemezes, nem csöves és nem tüskés. Közvetlenül a vékony fekete kéreg alatt egyetlen réteg parányi, palack alakú kamra van, amelyek mindegyike apró pórussal nyílik a felszínen. Függőleges metszetben vékony sötét vonalként látszanak a kéreg alatt, a zónázott belseje felett.",
+      "stipe": "Tönkje nincs. Minden termőtest széles, lapos alappal tapad a fához.",
+      "flesh": "Kemény és faszénre emlékeztető, jól látható ezüstös szürkésbarna és fekete koncentrikus zónákkal. Szaga és íze nem jellemző; a termőtestek evésre túlságosan kemények.",
+      "sporePrint": "A spórapor fekete. Az aszkospórák ellipszoidálisak vagy orsó alakúak, rendszerint körülbelül 12–17 × 6–9 µm (egyes közép-európai kalauzok 13–17,5 × 6–7,5 µm-t adnak meg).",
+      "habitat": "Szaprotróf elhalt vagy pusztuló keményfán. Európában csaknem mindig kőrisen (Fraxinus) található. Ugyanezen nemzetség hasonló fajai bükkön, égeren, égett fán és más gazdákon fordulnak elő, és itt nem ezt a fajt jelentik. A kemény termőtestek bármely hónapban megtalálhatók; az aszkospórák főként késő tavasztól ősz végéig szabadulnak fel.",
+      "uses": "Ehetetlen. A termőtestek kemények és faszénre emlékeztetők, és nem tekintik étkezési gombának.",
+      "confusion": "A Kretzschmaria deusta tuskókon sík, hullámos szürkésfekete kérget képez, és metszetben nincsenek koncentrikus növekedési gyűrűi. A Hypoxylon nemzetség fajai általában kisebbek, gyakran rozsdásak vagy téglavörösek, és hiányzik belőlük a zónázott, faszenes belseje. A Xylaria polymorpha felálló, bunkós termőtesteket képez, nem kemény fekete párnákat. Ugyanezen nemzetség több más európai faja hasonlíthat, és gyakran a gazda és kémiai tesztek alapján választják szét őket, köztük a Daldinia childiae-t.",
+      "notes": "A belseje lilás reakciója kálium-hidroxidban segíthet elkülöníteni ezt a fajt néhány hasonlótól, amelyek sárgásbarnára vagy narancsszínűre festődnek. A bükkön vagy égett fán talált példányok azokhoz a más fajokhoz tartozhatnak; ne határozza meg csupán a gazda alapján, metszet nélkül, amely megmutatja a koncentrikus zónákat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453"
+      ],
+      "label": "Szenes gömbgomba"
+    },
+    "id": {
+      "description": "Tubuh buah yang keras, membulat, berbentuk bantal hingga hampir bulat (stroma), duduk langsung pada kayu mati tanpa batang. Lebarnya biasanya 2–8 cm. Yang muda cokelat kemerahan hingga cokelat keunguan dan sedikit berdebu. Yang dewasa hitam kusam, sering agak mengilap pada tempat yang tergesek, berbenjol halus dengan lubang-lubang kecil dan sering retak, dengan debu spora hitam pada kayu di sekitarnya. Irisan tegak menunjukkan zona konsentris abu-abu keperakan dan hitam serta lapisan tipis bilik berbentuk botol tepat di bawah kerak luar.",
+      "cap": "Biasanya 2–8 cm diameter (beberapa panduan Eropa Tengah menyebutkan 1,5–6 × 1–4 cm). Berbentuk bantal hingga hampir bulat, dengan pelekatan lebar dan datar, tanpa tudung yang terpisah. Permukaan mula-mula cokelat kemerahan hingga cokelat keunguan dan sedikit beludru atau berdebu, kemudian hitam kusam, kadang agak mengilap pada tempat yang tergesek, berbenjol halus karena lubang kecil bilik di bawah kerak, dan sering retak.",
+      "hymenium": "Permukaan subur bukan insang, pori, atau duri. Tepat di bawah kerak hitam yang tipis terdapat satu lapisan bilik kecil berbentuk botol, yang masing-masing membuka melalui pori amat kecil di permukaan. Pada irisan tegak mereka tampak sebagai garis gelap tipis di bawah kerak, di atas bagian dalam yang berzona.",
+      "stipe": "Tidak ada batang. Setiap tubuh buah melekat pada kayu dengan pangkal yang lebar dan datar.",
+      "flesh": "Keras dan menyerupai arang, dengan zona konsentris yang jelas berwarna cokelat-abu keperakan dan hitam. Bau dan rasa tidak khas; tubuh buah terlalu keras untuk dimakan.",
+      "sporePrint": "Cetakan spora berwarna hitam. Askospora elipsoidal hingga fusiform, biasanya sekitar 12–17 × 6–9 µm (beberapa panduan Eropa Tengah menyebutkan 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprofit pada kayu keras yang mati atau sekarat. Di Eropa hampir selalu ditemukan pada pohon abu (Fraxinus). Spesies serupa dalam genus yang sama terdapat pada beech, alder, kayu terbakar, dan inang lain, dan di sini tidak diperlakukan sebagai spesies ini. Tubuh buah yang keras dapat dilihat pada bulan apa pun; askospora dilepaskan terutama dari akhir musim semi hingga akhir musim gugur.",
+      "uses": "Tidak dapat dimakan. Tubuh buah keras dan menyerupai arang, dan tidak dianggap jamur pangan.",
+      "confusion": "Kretzschmaria deusta membentuk kerak datar, bergelombang, abu-abu kehitaman pada tunggul dan pada irisan tidak memiliki cincin tumbuh konsentris. Spesies genus Hypoxylon biasanya lebih kecil, sering berwarna karat atau merah bata, dan tidak memiliki bagian dalam berzona yang menyerupai arang. Xylaria polymorpha membentuk tubuh buah tegak berbentuk gada, bukan bantal hitam yang keras. Beberapa spesies Eropa lain dalam genus yang sama dapat tampak serupa dan sering dipisahkan menurut inang serta uji kimia, termasuk Daldinia childiae.",
+      "notes": "Reaksi ungu bagian dalam dalam kalium hidroksida dapat membantu memisahkan spesies ini dari beberapa yang serupa yang berubah kuning-cokelat atau oranye. Temuan pada beech atau kayu terbakar mungkin termasuk spesies lain itu; jangan mengidentifikasi hanya dari inang tanpa irisan yang menunjukkan zona konsentris.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Fruttificazioni dure, arrotondate, a cuscinetto fino a quasi sferiche (stromi), sessili sul legno morto e prive di gambo. Misurano in genere 2–8 cm di larghezza. Quelle giovani sono bruno-rossastre fino a bruno-violacee e leggermente pruinose. Quelle mature sono nero opaco, spesso un po’ lucide dove strofinate, finemente tubercolate con minuscoli ostioli e di frequente fessurate, con polvere sporale nera sul legno circostante. Una sezione verticale mostra zone concentriche grigio-argentee e nere e un sottile strato di logge a fiasco appena sotto la crosta esterna.",
+      "cap": "In genere 2–8 cm di larghezza (alcune guide dell’Europa centrale indicano 1,5–6 × 1–4 cm). A cuscinetto fino a quasi sferica, con un ampio attacco piano e senza cappello distinto. La superficie è dapprima bruno-rossastra fino a bruno-violacea e lievemente vellutata o pruinosa, poi nero opaco, talvolta un po’ lucida dove strofinata, finemente tubercolata per i minuscoli ostioli delle logge sotto la crosta, e spesso fessurata.",
+      "hymenium": "La superficie fertile non è costituita da lamelle, tubuli o aculei. Subito sotto la sottile crosta nera si trova un solo strato di minuscole logge a fiasco, ciascuna aprentesi con un ostiolo minutissimo in superficie. In sezione verticale appaiono come una sottile linea scura sotto la crosta, al di sopra dell’interno zonato.",
+      "stipe": "Non c’è gambo. Ogni fruttificazione è attaccata al legno con una base ampia e piana.",
+      "flesh": "Dura e di aspetto carbonioso, con chiare zone concentriche grigio-brunastre argentee e nere. Odore e sapore non sono distintivi; le fruttificazioni sono troppo dure per essere mangiate.",
+      "sporePrint": "La sporata è nera. Le ascospore sono ellissoidali o fusiformi, in genere di circa 12–17 × 6–9 µm (alcune guide dell’Europa centrale indicano 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrofo su legno duro morto o morente. In Europa si trova quasi sempre su frassino (Fraxinus). Specie simili dello stesso genere si trovano su faggio, ontano, legno bruciato e altri ospiti, e qui non sono trattate come questa specie. Le fruttificazioni dure si possono vedere in qualsiasi mese; le ascospore si liberano soprattutto dalla tarda primavera alla fine dell’autunno.",
+      "uses": "Non commestibile. Le fruttificazioni sono dure e di aspetto carbonioso e non è considerato un fungo da tavola.",
+      "confusion": "Kretzschmaria deusta forma sui ceppi una crosta piana, ondulata, grigio-nera, e in sezione non ha anelli di accrescimento concentrici. Le specie del genere Hypoxylon sono di solito più piccole, spesso rugginose o rosso mattone, e mancano dell’interno zonato di aspetto carbonioso. Xylaria polymorpha forma fruttificazioni erette, claviformi, non cuscinetti neri duri. Diverse altre specie europee dello stesso genere possono assomigliarle e spesso si distinguono in base all’ospite e a test chimici, tra cui Daldinia childiae.",
+      "notes": "Una reazione porpora dell’interno in idrossido di potassio può aiutare a separare questa specie da alcune simili che si colorano di giallo-brunastro o arancio. I ritrovamenti su faggio o legno bruciato possono appartenere a quelle altre specie; non identificarla solo in base all’ospite senza una sezione che mostri le zone concentriche.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "硬く、丸みがあり、枕状からほぼ球状の子実体（ストロマ）で、柄はなく枯死した材に直接つく。大きさはふつう径2–8 cm。若いものは赤褐色から紫褐色で、やや粉をふいたように見える。成熟すると艶消しの黒色になり、こすれた所ではしばしば弱く光り、微小な開口による細かい凹凸があり、しばしばひび割れ、周囲の材には黒い胞子の粉がつく。縦断面では銀灰色と黒色の同心円状の帯と、外皮の直下にフラスコ形の小さな部屋の薄い層が見える。",
+      "cap": "ふつう径2–8 cm（中欧の図鑑には1.5–6 × 1–4 cmとするものもある）。枕状からほぼ球状で、広く平らな付着部をもち、独立した傘はない。表面は初め赤褐色から紫褐色でわずかにビロード状または粉状、のちに艶消しの黒色となり、こすれた所では弱く光ることがあり、外皮の下の部屋の微小な開口による細かい凹凸があり、しばしばひび割れる。",
+      "hymenium": "子実層はひだ、管孔、針のいずれでもない。薄い黒い外皮の直下にフラスコ形の小さな部屋が1層あり、それぞれ表面の微小な孔で開く。縦断面では外皮の下、帯状の内部の上に細い暗い線として見える。",
+      "stipe": "柄はない。各子実体は広く平らな基部で材に付着する。",
+      "flesh": "硬く炭状で、銀灰色がかった褐色と黒色の明瞭な同心円状の帯がある。匂いや味は目立たず、子実体は食用にするには硬すぎる。",
+      "sporePrint": "胞子紋は黒色。子嚢胞子は楕円形から紡錘形で、ふつうおよそ12–17 × 6–9 µm（中欧の図鑑には13–17.5 × 6–7.5 µmとするものもある）。",
+      "habitat": "枯死または衰弱した広葉樹材上の腐生菌。ヨーロッパではほとんど常にトネリコ属（Fraxinus）上で見つかる。同属の似た種はブナ、ハンノキ、焼けた材やほかの宿主に生じ、ここでは本種としては扱わない。硬い子実体はどの月でも見られ、子嚢胞子は主に晩春から秋の終わりに放出される。",
+      "uses": "食用にならない。子実体は硬く炭状で、食用きのことはみなされない。",
+      "confusion": "Kretzschmaria deustaは切り株上に平らで波打つ灰黒色の痂皮をつくり、断面に同心円状の成長輪がない。Hypoxylon属の種はふつうより小さく、しばしばさび色や煉瓦色で、帯状の炭のような内部を欠く。Xylaria polymorphaは直立する棍棒状の子実体をつくり、硬い黒い枕状体ではない。同属のほかのヨーロッパ産の種も似ることがあり、宿主や化学試験で分けられることが多く、その中に Daldinia childiae がある。",
+      "notes": "内部の水酸化カリウムによる紫色の反応は、黄褐色や橙色に染まる似た種から本種を分ける手がかりになる。ブナや焼けた材での記録はそれらの別種である可能性があり、同心円状の帯が見える断面なしに宿主だけで同定してはならない。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "단단하고 둥글며 방석 모양에서 거의 공 모양에 이르는 자실체(스트로마)로, 자루 없이 죽은 나무에 바로 붙는다. 너비는 보통 2–8 cm이다. 어린 것은 적갈색에서 자갈색이며 약간 가루가 묻은 듯하다. 성숙하면 무광의 검은색이 되고, 문지른 곳은 종종 약하게 광택이 나며, 작은 구멍 때문에 미세하게 울퉁불퉁하고 자주 갈라지며, 주변 나무에는 검은 포자 가루가 묻는다. 세로 단면에서는 은회색과 검은색의 동심원 띠와, 바깥 껍질 바로 아래에 있는 병 모양 작은 방들의 얇은 층이 보인다.",
+      "cap": "보통 지름 2–8 cm이다(일부 중부 유럽 도감은 1.5–6 × 1–4 cm를 든다). 방석 모양에서 거의 공 모양이며, 넓고 평평한 부착부가 있고 따로 된 갓은 없다. 표면은 처음에는 적갈색에서 자갈색이며 약간 벨벳 같거나 가루가 묻은 듯하고, 나중에는 무광의 검은색이 되며, 문지른 곳은 약하게 광택이 나기도 하고, 껍질 아래 방들의 작은 구멍 때문에 미세하게 울퉁불퉁하며 자주 갈라진다.",
+      "hymenium": "생식면은 주름살, 관공, 침이 아니다. 얇은 검은 껍질 바로 아래에 병 모양의 작은 방들이 한 층 있으며, 각각 표면의 아주 작은 구멍으로 열린다. 세로 단면에서는 껍질 아래, 띠가 있는 내부 위에 얇은 어두운 선으로 보인다.",
+      "stipe": "자루가 없다. 각 자실체는 넓고 평평한 기부로 나무에 붙는다.",
+      "flesh": "단단하고 숯 같으며, 은회색을 띤 갈색과 검은색의 분명한 동심원 띠가 있다. 냄새와 맛은 특징적이지 않으며, 자실체는 먹기에는 너무 단단하다.",
+      "sporePrint": "포자무늬는 검은색이다. 자낭포자는 타원형에서 방추형이며, 보통 약 12–17 × 6–9 µm이다(일부 중부 유럽 도감은 13–17.5 × 6–7.5 µm를 든다).",
+      "habitat": "죽거나 죽어 가는 활엽수 목재의 부생균이다. 유럽에서는 거의 언제나 물푸레나무속(Fraxinus)에서 발견된다. 같은 속의 비슷한 종은 너도밤나무, 오리나무, 탄 나무와 다른 기주에서 나타나며, 여기서는 이 종으로 다루지 않는다. 단단한 자실체는 어느 달에도 볼 수 있고, 자낭포자는 주로 늦은 봄부터 가을 끝까지 방출된다.",
+      "uses": "식용할 수 없다. 자실체는 단단하고 숯 같으며, 식용 버섯으로 보지 않는다.",
+      "confusion": "Kretzschmaria deusta는 그루터기에 평평하고 물결치는 회흑색 껍질을 만들며 단면에는 동심원 생장륜이 없다. Hypoxylon속의 종은 보통 더 작고, 흔히 녹슨색 또는 벽돌색이며, 띠가 있고 숯 같은 내부가 없다. Xylaria polymorpha는 곧추선 곤봉형 자실체를 만들며, 단단한 검은 방석이 아니다. 같은 속의 다른 여러 유럽 종도 비슷해 보일 수 있으며, 기주와 화학 시험으로 흔히 구별되고, 그중에는 Daldinia childiae가 있다.",
+      "notes": "내부가 수산화칼륨에서 보라색으로 반응하면, 황갈색이나 주황색으로 물드는 비슷한 종과 구별하는 데 도움이 될 수 있다. 너도밤나무나 탄 나무에서의 기록은 그 다른 종일 수 있으니, 동심원 띠가 보이는 단면 없이 기주만으로 동정하지 말라.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "콩버섯"
+    },
+    "lt": {
+      "description": "Kieti, apvalūs, pagalvėlės pavidalo iki beveik rutuliškų vaisiažodžiai (stromos), sėdintys tiesiai ant negyvos medienos, be koto. Paprastai būna 2–8 cm pločio. Jauni yra rausvai rudi iki purpuriniai rudi ir šiek tiek apdulkėję. Brandūs yra matiniai juodi, patrintose vietose dažnai silpnai blizgantys, smulkiai gumbuoti su mažytėmis angomis ir dažnai sutrūkinėję, o aplinkinėje medienoje yra juodų sporų dulkių. Vertikalus pjūvis rodo koncentriškas sidabriškai pilkas ir juodas juostas ir ploną kolbinių kamerų sluoksnį tuoj po išorine pluta.",
+      "cap": "Paprastai 2–8 cm skersmens (kai kurie Vidurio Europos vadovai nurodo 1,5–6 × 1–4 cm). Pagalvėlės pavidalo iki beveik rutuliškas darinys su plačiu, plokščiu prisitvirtinimu, be atskiro kepurėlės. Paviršius iš pradžių rausvai rudas iki purpuriniai rudas ir silpnai aksomiškas ar apdulkėjęs, vėliau matinis juodas, patrintose vietose kartais silpnai blizgantis, smulkiai gumbuotas dėl po pluta esančių kamerų mažyčių angų ir dažnai sutrūkinėjęs.",
+      "hymenium": "Derlingasis paviršius nėra lakšteliai, vamzdeliai ar dygliukai. Tuoj po plona juoda pluta yra vienas sluoksnis mažyčių kolbinių kamerų, kurių kiekviena atsiveria mažyčiu poru paviršiuje. Vertikaliame pjūvyje jos matomos kaip plona tamsi linija po pluta, virš juostuoto vidaus.",
+      "stipe": "Koto nėra. Kiekvienas vaisiažodis pritvirtintas prie medienos plačiu, plokščiu pamatu.",
+      "flesh": "Kietas ir panašus į anglį, su ryškiomis koncentriškomis sidabriškai pilkai rudomis ir juodomis juostomis. Kvapas ir skonis nėra būdingi; vaisiažodžiai per kieti valgyti.",
+      "sporePrint": "Sporų milteliai juodi. Askosporos elipsoidinės iki verpstiškų, paprastai apie 12–17 × 6–9 µm (kai kurie Vidurio Europos vadovai nurodo 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrofas ant negyvos ar žūstančios kietosios medienos. Europoje jis beveik visada randamas ant uosio (Fraxinus). Panašios tos pačios genties rūšys auga ant bukų, alksnių, apdegusios medienos ir kitų šeimininkų ir čia nelaikomos šia rūšimi. Kietus vaisiažodžius galima rasti bet kurį mėnesį; askosporos paleidžiamos daugiausia nuo vėlyvo pavasario iki rudens pabaigos.",
+      "uses": "Nevalgomas. Vaisiažodžiai kieti ir panašūs į anglį; nelaikomas valgoma kempine.",
+      "confusion": "Kretzschmaria deusta ant kelmų sudaro plokščią, banguotą pilkai juodą plutą ir pjūvyje neturi koncentriškų augimo žiedų. Genties Hypoxylon rūšys paprastai mažesnės, dažnai rūdžių ar plytų raudonumo, ir neturi juostuoto, anglies pavidalo vidaus. Xylaria polymorpha sudaro stačius, buožiškus vaisiažodžius, o ne kietas juodas pagalvėles. Kelios kitos Europos tos pačios genties rūšys gali būti panašios ir dažnai skiriamos pagal šeimininką ir cheminius bandymus, įskaitant Daldinia childiae.",
+      "notes": "Vidinės dalies violetinė reakcija kalio hidrokside gali padėti atskirti šią rūšį nuo kai kurių panašių, kurios nudažo gelsvai rudai ar oranžine spalva. Radiniai ant bukų ar apdegusios medienos gali priklausyti toms kitoms rūšims; neapibūdinkite jos vien pagal šeimininką be pjūvio, rodančio koncentriškas juostas.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Rievėtoji anglenė"
+    },
+    "lv": {
+      "description": "Cieti, noapaļoti, spilvenveida līdz gandrīz lodveida augļķermeņi (stromas), kas sēž tieši uz atmirušas koksnes bez kātiņa. Tie parasti ir 2–8 cm plati. Jaunie ir sarkanbrūni līdz purpurbrūni un viegli apputējuši. Nobriedušie ir matēti melni, berzētajās vietās bieži viegli spīdīgi, sīki pauguraini ar sīkām atverēm un bieži plaisājuši, ar melniem sporu putekļiem uz apkārtējās koksnes. Vertikāls griezums rāda koncentriskas sudrabaini pelēkas un melnas joslas un plānu kolbveida kameru slāni tieši zem ārējās garozas.",
+      "cap": "Parasti 2–8 cm diametrā (dažas Centrāleiropas rokasgrāmatas norāda 1,5–6 × 1–4 cm). Spilvenveida līdz gandrīz lodveida veidojums ar platu, plakanu piesaisti, bez atsevišķas cepurītes. Virsma vispirms ir sarkanbrūna līdz purpurbrūna un viegli samtaina vai apputējusi, vēlāk matēti melna, berzētajās vietās reizēm viegli spīdīga, sīki pauguraina ar kameru sīkajām atverēm zem garozas un bieži plaisājusi.",
+      "hymenium": "Auglīgā virsma nav lapiņas, stobriņi vai adatiņas. Tieši zem plānās melnās garozas atrodas viens slānis sīku kolbveida kameru, no kurām katra atveras ar sīku poru uz virsmas. Vertikālā griezumā tās redzamas kā plāna tumša līnija zem garozas, virs joslainā iekšējā slāņa.",
+      "stipe": "Kātiņa nav. Katrs augļķermenis ir piestiprināts pie koksnes ar platu, plakanu pamatni.",
+      "flesh": "Ciets un kokogles līdzīgs, ar skaidrām koncentriskām sudrabaini pelēkbrūnām un melnām joslām. Smarža un garša nav raksturīgas; augļķermeņi ir pārāk cieti, lai tos ēstu.",
+      "sporePrint": "Sporu putekļi ir melni. Askosporas ir elipsoidālas līdz vārpstveida, parasti ap 12–17 × 6–9 µm (dažas Centrāleiropas rokasgrāmatas norāda 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrofs uz atmirušas vai atmirstošas cietās koksnes. Eiropā tas gandrīz vienmēr sastopams uz oša (Fraxinus). Līdzīgas tās pašas ģints sugas sastopamas uz dižskābarža, alkšņa, apdegušas koksnes un citiem saimniekiem un šeit netiek uzskatītas par šo sugu. Cietos augļķermeņus var atrast jebkurā mēnesī; askosporas izdalās galvenokārt no vēla pavasara līdz rudens beigām.",
+      "uses": "Neēdams. Augļķermeņi ir cieti un kokogles līdzīgi; par ēdamu sēni netiek uzskatīts.",
+      "confusion": "Kretzschmaria deusta uz celmiem veido plakanu, viļņotu pelēkmelnu garozu un griezumā nav koncentrisku augšanas gredzenu. Ģints Hypoxylon sugas parasti ir mazākas, bieži rūsganas vai ķieģeļsarkanas, un tām trūkst joslainā, kokogles līdzīgā iekšējā slāņa. Xylaria polymorpha veido stāvus, vālesveida augļķermeņus, nevis cietus melnus spilveniņus. Vairākas citas Eiropas tās pašas ģints sugas var izskatīties līdzīgas un bieži tiek atdalītas pēc saimnieka un ķīmiskiem testiem, tostarp Daldinia childiae.",
+      "notes": "Iekšējās daļas violeta reakcija kālija hidroksīdā var palīdzēt atšķirt šo sugu no dažām līdzīgām, kas iekrāsojas dzeltenbrūnas vai oranžas. Atradumi uz dižskābarža vai apdegušas koksnes var piederēt tām citām sugām; nenosakiet to tikai pēc saimnieka bez griezuma, kas parāda koncentriskās joslas.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Lodveida daldīnija"
+    },
+    "nl": {
+      "description": "Harde, afgeronde, kussenvormige tot bijna bolvormige vruchtlichamen (stromata) die zonder steel rechtstreeks op dood hout zitten. Ze zijn typisch 2–8 cm breed. Jonge exemplaren zijn roodbruin tot purperbruin en licht berijpt. Rijpe zijn matzwart, op gewreven plaatsen vaak zwak glanzend, fijn bobbelig met minuscule openingen en vaak gescheurd, met zwart sporenstof op het omliggende hout. Een verticale doorsnede toont concentrische zilvergrijze en zwarte zones en een dunne laag flesvormige kamers vlak onder de buitenste korst.",
+      "cap": "Typisch 2–8 cm breed (sommige Midden-Europese gidsen geven 1,5–6 × 1–4 cm). Kussenvormig tot bijna bolvormig, met een brede, platte aanhechting en zonder aparte hoed. Het oppervlak is eerst roodbruin tot purperbruin en zwak fluweelachtig of berijpt, later matzwart, soms op gewreven plaatsen zwak glanzend, fijn bobbelig met de minuscule openingen van de kamers eronder, en vaak gescheurd.",
+      "hymenium": "Het vruchtbare oppervlak bestaat niet uit lamellen, buisjes of stekels. Vlak onder de dunne zwarte korst ligt een enkele laag minuscule flesvormige kamers, die elk via een minuscuul poriënopeningetje aan het oppervlak openen. In verticale doorsnede verschijnen ze als een dunne donkere lijn onder de korst, boven het gezoneerde binnenste.",
+      "stipe": "Er is geen steel. Elk vruchtlichaam is met een brede, platte basis aan het hout vastgegroeid.",
+      "flesh": "Hard en houtskoolachtig, met duidelijke concentrische zones van zilvergrijsbruin en zwart. Geur en smaak zijn niet kenmerkend; de vruchtlichamen zijn veel te hard om te eten.",
+      "sporePrint": "De sporenafdruk is zwart. De ascosporen zijn ellipsoïd tot spoelvormig, typisch ongeveer 12–17 × 6–9 µm (sommige Midden-Europese gidsen geven 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotroof op dood of afstervend loofhout. In Europa wordt hij bijna altijd op es (Fraxinus) gevonden. Gelijkende soorten van hetzelfde geslacht komen voor op beuk, els, verbrand hout en andere waardplanten en worden hier niet als deze soort behandeld. De harde vruchtlichamen zijn in elke maand te vinden; ascosporen komen vooral van de late lente tot het einde van de herfst vrij.",
+      "uses": "Oneetbaar. De vruchtlichamen zijn hard en houtskoolachtig en worden niet als voedselzwam beschouwd.",
+      "confusion": "Kretzschmaria deusta vormt op stronken een platte, golvende grijs-zwarte korst en heeft in doorsnede geen concentrische groeiringen. Soorten van het geslacht Hypoxylon zijn meestal kleiner, vaak roest- of steenrood, en missen het gezoneerde, houtskoolachtige binnenste. Xylaria polymorpha vormt rechtopstaande, knotsvormige vruchtlichamen, geen harde zwarte kussens. Verscheidene andere Europese soorten van hetzelfde geslacht kunnen er gelijkend uitzien en worden vaak gescheiden op waardplant en chemische tests, waaronder Daldinia childiae.",
+      "notes": "Een paarse reactie van het binnenste in kaliumhydroxide kan helpen deze soort te onderscheiden van sommige gelijkende soorten die geelbruin of oranje verkleuren. Vondsten op beuk of verbrand hout kunnen tot die andere soorten behoren; identificeer hem niet alleen aan de hand van de waardplant zonder een doorsnede die de concentrische zones toont.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453"
+      ],
+      "label": "Kogelhoutskoolzwam"
+    },
+    "no": {
+      "description": "Harde, avrundede, puteformede til nesten kuleformede fruktlegemer (stromata) som sitter rett på død ved uten stilk. De er typisk 2–8 cm brede. Unge er rødbrune til purpurbrune og lett støvete. Modne er matt svarte, ofte svakt blanke der de er gnedd, fint knudrete med små åpninger og ofte oppsprukne, med svart sporestøv på veden rundt. Et loddrett snitt viser konsentriske sølvgrå og svarte soner og et tynt lag flaskeformede kamre like under den ytre skorpen.",
+      "cap": "Typisk 2–8 cm i diameter (noen sentraleuropeiske håndbøker angir 1,5–6 × 1–4 cm). Puteformet til nesten kuleformet, med en bred, flat festeflate og uten egen hatt. Overflaten er først rødbrun til purpurbrun og svakt fløyelsaktig eller støvete, senere matt svart, av og til svakt blank der den er gnedd, fint knudret med de små åpningene fra kamrene under skorpen og ofte oppsprukket.",
+      "hymenium": "Den fertile flaten består ikke av skiver, rør eller pigger. Like under den tynne svarte skorpen ligger et enkelt lag små flaskeformede kamre, som hver åpner seg med en liten pore på overflaten. Et loddrett snitt viser dem som en tynn mørk linje under skorpen, over det sonede indre.",
+      "stipe": "Det finnes ingen stilk. Hvert fruktlegeme er festet til veden med en bred, flat basis.",
+      "flesh": "Hard og trekullaktig, med tydelige konsentriske soner av sølvgråbrunt og svart. Lukt og smak er ikke særpregete; fruktlegemene er altfor harde å spise.",
+      "sporePrint": "Sporeavtrykket er svart. Askosporene er ellipseformede til spindelformede, typisk omkring 12–17 × 6–9 µm (noen sentraleuropeiske håndbøker angir 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrof på død eller døende lauvved. I Europa finnes den nesten alltid på ask (Fraxinus). Liknende arter i samme slekt forekommer på bøk, or, brent ved og andre verter og behandles ikke som denne arten her. De harde fruktlegemene kan ses i hvilken som helst måned; askosporer frigis hovedsakelig fra sein vår til slutten av høsten.",
+      "uses": "Uspiselig. Fruktlegemene er harde og trekullaktige og regnes ikke som en matsopp.",
+      "confusion": "Kretzschmaria deusta danner en flat, bølgete gråsvart skorpe på stubber og har ingen konsentriske vekstringer i snitt. Arter i slekten Hypoxylon er vanligvis mindre, ofte rust- eller teglsteinsrøde, og mangler det sonede, trekullaktige indre. Xylaria polymorpha danner opprette, kølleformede fruktlegemer, ikke harde svarte puter. Flere andre europeiske arter i samme slekt kan likne og skilles ofte etter vert og kjemiske tester, deriblant Daldinia childiae.",
+      "notes": "En fiolett reaksjon i det indre i kaliumhydroksid kan hjelpe å skille denne arten fra noen liknende som farges gulbrune eller oransje. Funn på bøk eller brent ved kan tilhøre de andre artene; identifiser den ikke bare etter verten uten et snitt som viser de konsentriske sonene.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "beltekullsopp"
+    },
+    "pl": {
+      "description": "Twarde, zaokrąglone, poduszkowate do niemal kulistych owocniki (stromata), siedzące bezpośrednio na martwym drewnie, bez trzonu. Zwykle mają 2–8 cm średnicy. Młode są czerwonobrązowe do fioletowobrązowych i nieco oprószone. Dojrzałe są matowo czarne, w miejscach otarcia często lekko połyskujące, drobno pagórkowate z drobnymi ujściami i często spękane, z czarnym pyłem zarodników na otaczającym drewnie. Przekrój pionowy ukazuje koncentryczne srebrzystoszare i czarne strefy oraz cienką warstwę butelkowatych komór tuż pod zewnętrzną korą.",
+      "cap": "Zwykle 2–8 cm średnicy (niektóre środkowoeuropejskie przewodniki podają 1,5–6 × 1–4 cm). Poduszkowaty do niemal kulistego twór o szerokim, płaskim przyrośnięciu, bez osobnego kapelusza. Powierzchnia jest początkowo czerwonobrązowa do fioletowobrązowej i lekko aksamitna lub oprószona, później matowo czarna, czasem w miejscach otarcia lekko połyskująca, drobno pagórkowata z drobnymi ujściami komór pod korą i często spękana.",
+      "hymenium": "Warstwa zarodnikotwórcza to nie blaszki, rurki ani kolce. Tuż pod cienką czarną korą znajduje się pojedyncza warstwa drobnych butelkowatych komór, z których każda otwiera się minutowym porem na powierzchni. Przekrój pionowy ukazuje je jako cienką ciemną linię pod korą, nad strefowanym wnętrzem.",
+      "stipe": "Trzonu brak. Każdy owocnik jest przyrośnięty do drewna szeroką, płaską podstawą.",
+      "flesh": "Twarda i przypominająca węgiel drzewny, z wyraźnymi koncentrycznymi strefami srebrzystoszaro-brązowymi i czarnymi. Zapach i smak nie są charakterystyczne; owocniki są zbyt twarde, by je jeść.",
+      "sporePrint": "Wysyp zarodników jest czarny. Askospory są elipsoidalne do wrzecionowatych, zwykle około 12–17 × 6–9 µm (niektóre środkowoeuropejskie przewodniki podają 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrof na martwym lub zamierającym drewnie liściastym. W Europie występuje niemal zawsze na jesionie (Fraxinus). Podobne gatunki tego samego rodzaju rosną na buku, olszy, spalonej tkance drzewnej i innych żywicielach i nie są tu traktowane jako ten gatunek. Twarde owocniki można znaleźć w każdym miesiącu; askospory uwalniają się głównie od późnej wiosny do końca jesieni.",
+      "uses": "Niejadalny. Owocniki są twarde i przypominają węgiel drzewny; nie uważa się go za grzyb jadalny.",
+      "confusion": "Kretzschmaria deusta tworzy na pniakach płaską, falistą szaroczarną skorupę i w przekroju nie ma koncentrycznych pierścieni wzrostu. Gatunki z rodzaju Hypoxylon są zwykle mniejsze, często rdzawe lub ceglastoczerwone, i brak im strefowanego, węglastego wnętrza. Xylaria polymorpha tworzy wzniesione, buławkowate owocniki, a nie twarde czarne poduszki. Kilka innych europejskich gatunków tego samego rodzaju może wyglądać podobnie i często rozdziela się je według żywiciela oraz testów chemicznych, w tym Daldinia childiae.",
+      "notes": "Fioletowa reakcja wnętrza w wodorotlenku potasu może pomóc odróżnić ten gatunek od niektórych podobnych, które barwią się żółtobrązowo lub pomarańczowo. Stanowiska na buku lub spalonym drewnie mogą należeć do tych innych gatunków; nie oznaczaj go wyłącznie na podstawie żywiciela bez przekroju ukazującego koncentryczne strefy.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453"
+      ],
+      "label": "warstwiak zwęglony"
+    },
+    "pt": {
+      "description": "Frutificações duras, arredondadas, em almofada até quase esféricas (stromas), assentes diretamente sobre madeira morta e sem pé. Medem tipicamente 2–8 cm de largura. As jovens são pardo-avermelhadas a pardo-purpúreas e ligeiramente poeirentas. As maduras são de um negro mate, muitas vezes um pouco brilhantes onde foram esfregadas, finamente irregularmente borbulhadas com minúsculas aberturas e frequentemente gretadas, com poeira de esporos negra na madeira em redor. Um corte vertical mostra zonas concêntricas cinzento-prateadas e negras e uma camada fina de câmaras em forma de frasco logo sob a crosta externa.",
+      "cap": "Tipicamente 2–8 cm de largura (alguns guias da Europa Central indicam 1,5–6 × 1–4 cm). Em almofada até quase esférica, com uma inserção larga e plana e sem chapéu distinto. A superfície é primeiro pardo-avermelhada a pardo-purpúrea e ligeiramente aveludada ou poeirenta, depois de um negro mate, por vezes um pouco brilhante onde foi esfregada, finamente irregular com as minúsculas aberturas das câmaras sob a crosta, e muitas vezes gretada.",
+      "hymenium": "A superfície fértil não são lâminas, tubos nem dentes. Logo sob a fina crosta negra há uma única camada de minúsculas câmaras em forma de frasco, cada uma abrindo-se por um poro diminuto à superfície. Em corte vertical aparecem como uma linha escura fina sob a crosta, acima do interior zonado.",
+      "stipe": "Não há pé. Cada frutificação está ligada à madeira por uma base larga e plana.",
+      "flesh": "Dura e de aspeto carbonoso, com zonas concêntricas nítidas cinzento-pardo prateadas e negras. O cheiro e o sabor não são distintivos; as frutificações são demasiado duras para se comerem.",
+      "sporePrint": "A esporada é negra. Os ascósporos são elipsoidais a fusiformes, tipicamente cerca de 12–17 × 6–9 µm (alguns guias da Europa Central indicam 13–17,5 × 6–7,5 µm).",
+      "habitat": "Sapróbia sobre madeira dura morta ou moribunda. Na Europa encontra-se quase sempre sobre freixo (Fraxinus). Espécies semelhantes do mesmo género ocorrem sobre faia, amieiro, madeira queimada e outros hospedeiros, e não são aqui tratadas como esta espécie. As frutificações duras podem ser vistas em qualquer mês; os ascósporos libertam-se principalmente do fim da primavera ao fim do outono.",
+      "uses": "Não comestível. As frutificações são duras e de aspeto carbonoso e não é considerado um cogumelo comestível.",
+      "confusion": "Kretzschmaria deusta forma sobre os tocos uma crosta plana, ondulada, cinzento-negra, e não tem anéis de crescimento concêntricos no corte. As espécies do género Hypoxylon são geralmente menores, muitas vezes ferrugíneas ou vermelho-tijolo, e carecem do interior zonado de aspeto carbonoso. Xylaria polymorpha forma frutificações erectas, em forma de clava, não almofadas negras duras. Várias outras espécies europeias do mesmo género podem parecer-se e distinguem-se muitas vezes pelo hospedeiro e por testes químicos, incluindo Daldinia childiae.",
+      "notes": "Uma reação púrpura do interior em hidróxido de potássio pode ajudar a separar esta espécie de algumas semelhantes que se tingem de amarelo-pardo ou laranja. Achados sobre faia ou madeira queimada podem pertencer a essas outras espécies; não a identifique só pelo hospedeiro sem um corte que mostre as zonas concêntricas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Fructificații dure, rotunjite, în formă de perniță până aproape sferice (strome), așezate direct pe lemnul mort, fără picior. Au de obicei 2–8 cm lățime. Cele tinere sunt brun-roșietice până la brun-violacee și ușor prăfuite. Cele mature sunt negru-mate, adesea ușor lucioase unde au fost frecate, fin denivelate cu orificii minuscule și adesea crăpate, cu praf de spori negru pe lemnul din jur. O secțiune verticală arată zone concentrice gri-argintii și negre și un strat subțire de cămăruțe în formă de flacon chiar sub crusta exterioară.",
+      "cap": "De obicei 2–8 cm lățime (unele ghiduri din Europa Centrală indică 1,5–6 × 1–4 cm). În formă de perniță până aproape sferică, cu o prindere largă și plată, fără pălărie distinctă. Suprafața este la început brun-roșietică până la brun-violacee și ușor catifelată sau prăfuită, apoi negru-mată, uneori ușor lucioasă unde a fost frecată, fin denivelată de orificiile minuscule ale cămăruțelor de sub crustă și adesea crăpată.",
+      "hymenium": "Suprafața fertilă nu este formată din lamele, tuburi sau țepi. Chiar sub crusta neagră subțire se află un singur strat de cămăruțe minuscule în formă de flacon, fiecare deschizându-se printr-un por minuscul la suprafață. În secțiune verticală apar ca o linie întunecată subțire sub crustă, deasupra interiorului zonat.",
+      "stipe": "Nu există picior. Fiecare fructificație este prinsă de lemn printr-o bază largă și plată.",
+      "flesh": "Dură și cu aspect de cărbune, cu zone concentrice clare gri-brun argintiu și negre. Mirosul și gustul nu sunt caracteristice; fructificațiile sunt prea dure pentru a fi mâncate.",
+      "sporePrint": "Pulberea de spori este neagră. Ascosporii sunt elipsoidali până la fusiformi, de obicei de circa 12–17 × 6–9 µm (unele ghiduri din Europa Centrală indică 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprofită pe lemn dur mort sau pe cale de uscare. În Europa se găsește aproape întotdeauna pe frasin (Fraxinus). Specii asemănătoare din același gen apar pe fag, arin, lemn ars și pe alți gazde și nu sunt tratate aici ca această specie. Fructificațiile dure pot fi văzute în orice lună; ascosporii sunt eliberați mai ales de la sfârșitul primăverii până la sfârșitul toamnei.",
+      "uses": "Necomestibilă. Fructificațiile sunt dure și cu aspect de cărbune și nu este considerată o ciupercă de consum.",
+      "confusion": "Kretzschmaria deusta formează pe cioate o crustă plată, ondulată, gri-neagră, și nu are inele de creștere concentrice în secțiune. Speciile din genul Hypoxylon sunt de obicei mai mici, adesea ruginii sau roșu-cărămizii, și nu au interiorul zonat cu aspect de cărbune. Xylaria polymorpha formează fructificații erecte, în formă de măciucă, nu pernițe negre dure. Mai multe alte specii europene din același gen pot arăta similar și se deosebesc adesea după gazdă și teste chimice, inclusiv Daldinia childiae.",
+      "notes": "O reacție purpurie a interiorului în hidroxid de potasiu poate ajuta la deosebirea acestei specii de unele asemănătoare care se colorează galben-brun sau portocaliu. Descoperirile pe fag sau lemn ars pot aparține acelor alte specii; nu o identificați doar după gazdă, fără o secțiune care să arate zonele concentrice.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Твёрдые, округлые, подушковидные до почти шаровидных плодовые тела (стромы), сидящие прямо на мёртвой древесине, без ножки. Обычно они 2–8 см в поперечнике. Молодые красновато-коричневые до пурпурно-коричневых и слегка припудренные. Зрелые матово-чёрные, в потёртых местах часто слабо блестящие, мелкобугорчатые с крошечными устьицами и нередко трещиноватые, с чёрной споровой пылью на окружающей древесине. Вертикальный разрез показывает концентрические серебристо-серые и чёрные зоны и тонкий слой бутылковидных камер сразу под наружной коркой.",
+      "cap": "Обычно 2–8 см в поперечнике (некоторые центральноевропейские определители указывают 1,5–6 × 1–4 cm). Подушковидное до почти шаровидного образование с широким плоским прикреплением, без отдельной шляпки. Поверхность сначала красновато-коричневая до пурпурно-коричневой и слабо бархатистая или припудренная, позднее матово-чёрная, в потёртых местах иногда слабо блестящая, мелкобугорчатая из-за крошечных устьиц камер под коркой и часто трещиноватая.",
+      "hymenium": "Спороносная поверхность — не пластинки, не трубочки и не шипики. Сразу под тонкой чёрной коркой лежит один слой крошечных бутылковидных камер, каждая из которых открывается крошечной порой на поверхности. На вертикальном разрезе они видны как тонкая тёмная линия под коркой, над зонатой внутренней частью.",
+      "stipe": "Ножки нет. Каждое плодовое тело прикреплено к древесине широким плоским основанием.",
+      "flesh": "Твёрдая, напоминающая древесный уголь, с отчётливыми концентрическими зонами серебристо-серо-коричневого и чёрного цвета. Запах и вкус нехарактерны; плодовые тела слишком твёрдые, чтобы их есть.",
+      "sporePrint": "Споровый порошок чёрный. Аскоспоры эллипсоидальные до веретеновидных, обычно около 12–17 × 6–9 µm (некоторые центральноевропейские определители указывают 13–17,5 × 6–7,5 µm).",
+      "habitat": "Сапротроф на мёртвой или отмирающей твёрдой древесине. В Европе встречается почти всегда на ясене (Fraxinus). Сходные виды того же рода встречаются на буке, ольхе, горелой древесине и других хозяевах и здесь не рассматриваются как этот вид. Твёрдые плодовые тела можно найти в любом месяце; аскоспоры высвобождаются главным образом с поздней весны до конца осени.",
+      "uses": "Несъедобен. Плодовые тела твёрдые, напоминают древесный уголь, и гриб не считается пищевым.",
+      "confusion": "Kretzschmaria deusta образует на пнях плоскую, волнистую серо-чёрную корку и на разрезе не имеет концентрических зон роста. Виды рода Hypoxylon обычно мельче, часто ржавые или кирпично-красные, и у них нет зонатой, углеподобной внутренней части. Xylaria polymorpha образует прямостоячие, булавовидные плодовые тела, а не твёрдые чёрные подушки. Несколько других европейских видов того же рода могут быть сходны и часто различаются по хозяину и химическим тестам, включая Daldinia childiae.",
+      "notes": "Фиолетовая реакция внутренней части в гидроксиде калия может помочь отличить этот вид от некоторых сходных, которые окрашиваются в жёлто-коричневый или оранжевый цвет. Находки на буке или горелой древесине могут относиться к тем другим видам; не определяйте его только по хозяину без разреза, показывающего концентрические зоны.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Дальдиния концентрическая"
+    },
+    "sk": {
+      "description": "Tvrdé, zaoblené, vankúšovité až takmer guľovité plodnice (stromatá), ktoré sedia priamo na odumretom dreve a nemajú hlúbik. Zvyčajne merajú 2–8 cm v priemere. Mladé sú červenohnedé až fialovohnedé a mierne oprášené. Zrelé sú matne čierne, v miestach odretia často slabo lesklé, jemne hrboľaté s drobnými otvormi a často popraskané, s čiernym výtrusným prachom na okolité drevo. Zvislý rez ukazuje sústredné striebornošedé a čierne pásy a tenkú vrstvu bankovitých komôrok tesne pod vonkajšou kôrou.",
+      "cap": "Zvyčajne 2–8 cm v priemere (niektoré stredoeurópske príručky uvádzajú 1,5–6 × 1–4 cm). Vankúšovitý až takmer guľovitý útvar so širokým, plochým prirastením, bez samostatného klobúka. Povrch je najprv červenohnedý až fialovohnedý a slabo zamatový alebo oprášený, neskôr matne čierny, niekedy v miestach odretia slabo lesklý, jemne hrboľatý s drobnými otvormi komôrok pod kôrou a často popraskaný.",
+      "hymenium": "Výtrusorodá vrstva nie sú lupene, rúrky ani ostne. Tesne pod tenkou čiernou kôrou je jedna vrstva drobných bankovitých komôrok, z ktorých každá sa otvára maličkým otvorom na povrchu. Zvislý rez ich ukazuje ako tenkú tmavú čiaru pod kôrou, nad pásovitým vnútrajškom.",
+      "stipe": "Hlúbik chýba. Každá plodnica je prirastená k drevu širokou, plochou základňou.",
+      "flesh": "Tvrdá a uhlíkovitá, s výraznými sústrednými pásmi striebornošedohnedej a čiernej. Vôňa ani chuť nie sú výrazné; plodnice sú na jedenie príliš tvrdé.",
+      "sporePrint": "Výtrusný prach je čierny. Askospóry sú elipsoidné až vretenovité, zvyčajne približne 12–17 × 6–9 µm (niektoré stredoeurópske príručky uvádzajú 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprobná huba na odumretom alebo odumierajúcom tvrdom dreve. V Európe rastie takmer vždy na jaseňoch (Fraxinus). Podobné druhy toho istého rodu sa vyskytujú na buku, jelši, spálenom dreve a iných hostiteľoch a tu sa za tento druh nepovažujú. Tvrdé plodnice možno nájsť v ktoromkoľvek mesiaci; askospóry sa uvoľňujú predovšetkým od neskorej jari do konca jesene.",
+      "uses": "Nejedlá. Plodnice sú tvrdé a uhlíkovité a za jedlú hubu sa nepovažuje.",
+      "confusion": "Kretzschmaria deusta tvorí na pňoch plochú, zvlnenú sivočiernu kôru a v reze nemá sústredné rastové kruhy. Druhy rodu Hypoxylon sú zvyčajne menšie, často hrdzavé alebo tehlovočervené, a chýba im pásovitý, uhlíkovitý vnútrajšok. Xylaria polymorpha tvorí vzpriamené, kyjakovité plodnice, nie tvrdé čierne vankúšiky. Viaceré ďalšie európske druhy toho istého rodu môžu vyzerať podobne a často sa oddeľujú podľa hostiteľa a chemických testov, vrátane druhu Daldinia childiae.",
+      "notes": "Fialová reakcia vnútrajška v hydroxide draselnom môže pomôcť odlíšiť tento druh od niektorých podobných, ktoré sa farbia žltohnedo alebo oranžovo. Nálezy na buku alebo spálenom dreve môžu patriť týmto iným druhom; neurčujte ho len podľa hostiteľa bez rezu, ktorý ukáže sústredné pásy.",
+      "names": [
+        "sazovka kruhatá"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.nahuby.sk/atlas-hub-zoznam?pismeno=s&typ=cz"
+      ],
+      "label": "daldínia koncentrická"
+    },
+    "sl": {
+      "description": "Trda, zaobljena, blazinasta do skoraj kroglasta trosišča (strome), ki sedijo neposredno na odmrlem lesu in nimajo beta. Običajno merijo 2–8 cm v premeru. Mlada so rdečerjava do vijoličasto rjava in nekoliko oprhane. Zrela so mat črna, na odrgnjenih mestih pogosto rahlo sijajna, fino grbinasta z drobnimi odprtinami in pogosto razpokana, s črnim trosnim prahom na okoliškem lesu. Navpični prerez pokaže koncentrične srebrno sive in črne cone ter tanko plast stekleničastih komoric tik pod zunanjo skorjo.",
+      "cap": "Običajno 2–8 cm v premeru (nekateri srednjeevropski vodniki navajajo 1,5–6 × 1–4 cm). Blazinast do skoraj kroglast tvor s široko, plosko pritrditvijo, brez ločenega klobuka. Površina je sprva rdečerjava do vijoličasto rjava in rahlo žametasta ali oprhana, nato mat črna, včasih na odrgnjenih mestih rahlo sijajna, fino grbinasta z drobnimi odprtinami komoric pod skorjo in pogosto razpokana.",
+      "hymenium": "Trosovna ploskev niso lističi, cevke ali bodice. Tik pod tanko črno skorjo je ena plast drobnih stekleničastih komoric, od katerih se vsaka odpira z drobno poro na površini. Navpični prerez jih pokaže kot tanko temno črto pod skorjo, nad conastim notranjim tkivom.",
+      "stipe": "Beta ni. Vsako trosišče je pritrjeno na les s široko, plosko osnovo.",
+      "flesh": "Trdo in oglju podobno, z jasnimi koncentričnimi conami srebrno sivo-rjave in črne barve. Vonj in okus nista značilna; trosišča so za prehrano pretrda.",
+      "sporePrint": "Trosni prah je črn. Askospore so elipsoidne do vretenaste, običajno približno 12–17 × 6–9 µm (nekateri srednjeevropski vodniki navajajo 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprofit na odmrlem ali odmirajočem trdem lesu. V Evropi raste skoraj vedno na jesenu (Fraxinus). Podobne vrste istega rodu se pojavljajo na bukvi, jelši, ožganem lesu in drugih gostiteljih in tukaj niso obravnavane kot ta vrsta. Trda trosišča je mogoče najti v katerem koli mesecu; askospore se sproščajo predvsem od pozne pomladi do konca jeseni.",
+      "uses": "Neužitna. Trosišča so trda in oglju podobna; za užitno gobo se ne šteje.",
+      "confusion": "Kretzschmaria deusta na panjih tvori plosko, valovito sivo-črno skorjo in v prerezu nima koncentričnih rastnih obročev. Vrste rodu Hypoxylon so običajno manjše, pogosto rjavordeče ali opečnato rdeče, in jim manjka conasto, oglju podobno notranje tkivo. Xylaria polymorpha tvori pokončna, kijasta trosišča, ne trdih črnih blazinic. Več drugih evropskih vrst istega rodu je lahko podobnih in se pogosto ločujejo po gostitelju in kemijskih preizkusih, vključno z vrsto Daldinia childiae.",
+      "notes": "Vijoličasta reakcija notranjosti v kalijevem hidroksidu lahko pomaga ločiti to vrsto od nekaterih podobnih, ki se obarvajo rumeno-rjavo ali oranžno. Najdbe na bukvi ali ožganem lesu lahko spadajo k tem drugim vrstam; ne določajte je samo po gostitelju brez prereza, ki pokaže koncentrične cone.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Тврда, заобљена, јастучаста до готово лоптаста плодишта (строме) која седе директно на мртвом дрвету и немају дршку. Обично су пречника 2–8 cm. Млада су црвенкастосмеђа до љубичастосмеђа и помало запрашена. Зрела су мат црна, на огуљеним местима често слабо сјајна, ситно квржичаста са ситним отворима и често испуцала, са црном прашином спора на околном дрвету. Усправни пресек показује концентричне сребрнастосиве и црне зоне и танак слој бочичастих коморица одмах испод спољашње коре.",
+      "cap": "Обично 2–8 cm у пречнику (неки средњоевропски водичи наводе 1,5–6 × 1–4 cm). Јастучаст до готово лоптаст твор са широким, равним припајањем, без засебног клобука. Површина је најпре црвенкастосмеђа до љубичастосмеђа и слабо сомотаста или запрашена, затим мат црна, понекад на огуљеним местима слабо сјајна, ситно квржичаста са ситним отворима коморица под кором и често испуцала.",
+      "hymenium": "Плодна површина нису листићи, цевчице ни бодље. Одмах испод танке црне коре налази се један слој ситних бочичастих коморица, од којих се свака отвара ситном пором на површини. Усправни пресек их показује као танку тамну црту под кором, изнад зониране унутрашњости.",
+      "stipe": "Дршке нема. Свако плодиште је причвршћено за дрво широком, равном основом.",
+      "flesh": "Тврдо и налик на дрвени угаљ, са јасним концентричним зонама сребрнастосивосмеђе и црне боје. Мирис и укус нису карактеристични; плодишта су претврда за јело.",
+      "sporePrint": "Отисак спора је црн. Аскоспоре су елипсоидне до вретенасте, обично око 12–17 × 6–9 µm (неки средњоевропски водичи наводе 13–17,5 × 6–7,5 µm).",
+      "habitat": "Сапрофитска гљива на мртвом или одумирућем тврдом дрвету. У Европи расте готово увек на јасену (Fraxinus). Сличне врсте истог рода јављају се на букви, јови, спаљеном дрвету и другим домаћинима и овде се не сматрају овом врстом. Тврда плодишта могу се наћи у сваком месецу; аскоспоре се ослобађају углавном од касног пролећа до краја јесени.",
+      "uses": "Нејестива. Плодишта су тврда и налик на дрвени угаљ; не сматра се јестивом гљивом.",
+      "confusion": "Kretzschmaria deusta на пањевима ствара равну, таласасту сиво-црну кору и у пресеку нема концентричне прстенове раста. Врсте рода Hypoxylon обично су мање, често рђасте или цигластоцрвене, и недостаје им зонирана, угљенаста унутрашњост. Xylaria polymorpha ствара усправна, штапићаста плодишта, а не тврде црне јастучиће. Неколико других европских врста истог рода може изгледати слично и често се раздвајају према домаћину и хемијским тестовима, укључујући Daldinia childiae.",
+      "notes": "Љубичаста реакција унутрашњости у калијум-хидроксиду може помоћи да се ова врста одвоји од неких сличних које се боје жутосмеђе или наранџасто. Налази на букви или спаљеном дрвету могу припадати тим другим врстама; не одређујте је само према домаћину без пресека који показује концентричне зоне.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "Hårda, rundade, kuddlika till nästan klotformiga fruktkroppar (stromata) som sitter direkt på död ved utan fot. De är typiskt 2–8 cm breda. Unga är rödbruna till purpurbruna och lätt pudrade. Mogna är mattsvarta, ofta svagt blanka där de gnidits, fint knöliga med små mynningar och ofta spruckna, med svart spordamm på den omgivande veden. Ett vertikalt snitt visar koncentriska silvergrå och svarta zoner och ett tunt skikt flaskformade kammare precis under den yttre skorpan.",
+      "cap": "Typiskt 2–8 cm i diameter (vissa centraleuropeiska handböcker anger 1,5–6 × 1–4 cm). Kuddlika till nästan klotformiga, med en bred, platt fästyta och utan särskilt hatt. Ytan är först rödbrun till purpurbrun och svagt sammetslik eller pudrad, senare mattsvart, ibland svagt blank där den gnidits, fint knölig med de små mynningarna från kamrarna under skorpan och ofta sprucken.",
+      "hymenium": "Den fertila ytan består inte av skivor, rör eller taggar. Precis under den tunna svarta skorpan ligger ett enda skikt små flaskformade kammare, som var och en öppnar sig med en liten por på ytan. Ett vertikalt snitt visar dem som en tunn mörk linje under skorpan, ovanför det zonerade innandömet.",
+      "stipe": "Det finns ingen fot. Varje fruktkropp är fäst vid veden med en bred, platt bas.",
+      "flesh": "Hård och träkolslik, med tydliga koncentriska zoner av silvergråbrunt och svart. Lukt och smak är inte särpräglade; fruktkropparna är alldeles för hårda att äta.",
+      "sporePrint": "Sporavtrycket är svart. Askosporerna är ellipsoidiska till spolformiga, typiskt omkring 12–17 × 6–9 µm (vissa centraleuropeiska handböcker anger 13–17,5 × 6–7,5 µm).",
+      "habitat": "Saprotrof på död eller döende lövved. I Europa hittas den nästan alltid på ask (Fraxinus). Liknande arter i samma släkte förekommer på bok, al, bränd ved och andra värdar och behandlas inte som denna art här. De hårda fruktkropparna kan ses under vilket som helst månad; askosporer släpps främst från sen vår till slutet av hösten.",
+      "uses": "Oätlig. Fruktkropparna är hårda och träkolslika och betraktas inte som en matsvamp.",
+      "confusion": "Kretzschmaria deusta bildar en platt, vågig gråsvart skorpa på stubbar och saknar koncentriska tillväxtringar i snitt. Arter av släktet Hypoxylon är vanligen mindre, ofta rost- eller tegelröda, och saknar det zonerade, träkolslika innandömet. Xylaria polymorpha bildar upprätta, klubblika fruktkroppar, inte hårda svarta kuddar. Flera andra europeiska arter i samma släkte kan likna den och skiljs ofta åt efter värd och kemiska tester, däribland Daldinia childiae.",
+      "notes": "En violett reaktion hos innandömet i kaliumhydroxid kan hjälpa att skilja denna art från vissa liknande som färgas gulbruna eller orangefärgade. Fynd på bok eller bränd ved kan tillhöra de andra arterna; identifiera den inte enbart efter värden utan ett snitt som visar de koncentriska zonerna.",
+      "names": [
+        "Askskiktdyna"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714",
+        "https://www.wikidata.org/wiki/Q935453"
+      ],
+      "label": "äkta skiktdyna"
+    },
+    "tr": {
+      "description": "Sert, yuvarlak, yastık biçiminden neredeyse küreye varan meyve gövdeleri (stromalar), ölü odun üzerinde doğrudan oturur ve sapları yoktur. Tipik olarak 2–8 cm genişliğindedir. Gençler kırmızımsı kahverengiden morumsu kahverengiye değişir ve hafif tozludur. Olgunlar mat siyahtır, ovulduğu yerlerde çoğu zaman hafif parlak, minik açıklıklarla ince engebeli ve sıklıkla çatlaktır; çevredeki odunda siyah spor tozu bulunur. Dikey bir kesit, gümüşi gri ve siyah eşmerkezli kuşaklar ile dış kabuğun hemen altında ince bir katman halinde şişe biçimli odacıklar gösterir.",
+      "cap": "Tipik olarak 2–8 cm çapındadır (bazı Orta Avrupa kılavuzları 1,5–6 × 1–4 cm verir). Yastık biçiminden neredeyse küreye varır, geniş ve yassı bir tutunma yeri vardır ve ayrı bir şapkası yoktur. Yüzey önce kırmızımsı kahverengiden morumsu kahverengiye değişir ve hafif kadifemsi ya da tozludur, sonra mat siyah olur, ovulduğu yerlerde bazen hafif parlak, kabuğun altındaki odacıkların minik açıklıklarıyla ince engebeli ve sıklıkla çatlaktır.",
+      "hymenium": "Verimli yüzey lamel, tüp ya da dikenlerden oluşmaz. İnce siyah kabuğun hemen altında tek bir katman halinde minik şişe biçimli odacıklar bulunur; her biri yüzeyde çok küçük bir gözenekle açılır. Dikey kesitte kabuğun altında, kuşaklı iç kısmın üstünde ince koyu bir çizgi olarak görünürler.",
+      "stipe": "Sap yoktur. Her meyve gövdesi geniş, yassı bir tabanla oduna tutunur.",
+      "flesh": "Sert ve odun kömürüne benzer; gümüşi gri-kahverengi ve siyah belirgin eşmerkezli kuşakları vardır. Koku ve tat ayırt edici değildir; meyve gövdeleri yenmek için fazla serttir.",
+      "sporePrint": "Spor izi siyahtır. Askosporlar elipsoitten iğ biçimine kadar değişir, tipik olarak yaklaşık 12–17 × 6–9 µm (bazı Orta Avrupa kılavuzları 13–17,5 × 6–7,5 µm verir).",
+      "habitat": "Ölü ya da ölmekte olan sert odunda saproftur. Avrupa’da neredeyse her zaman dişbudak (Fraxinus) üzerinde bulunur. Aynı cinsin benzer türleri kayın, kızılağaç, yanmış odun ve başka konukçularda görülür ve burada bu tür olarak ele alınmaz. Sert meyve gövdeleri her ay görülebilir; askosporlar başlıca geç ilkbahardan sonbaharın sonuna kadar salınır.",
+      "uses": "Yenmez. Meyve gövdeleri sert ve odun kömürüne benzer; yenilebilir bir mantar sayılmaz.",
+      "confusion": "Kretzschmaria deusta kütüklerde yassı, dalgalı gri-siyah bir kabuk oluşturur ve kesitte eşmerkezli büyüme halkaları yoktur. Hypoxylon cinsi türleri genellikle daha küçüktür, çoğu zaman pas ya da tuğla kırmızısıdır ve kuşaklı, kömür görünümünde bir iç kısımları yoktur. Xylaria polymorpha dik, sopa biçimli meyve gövdeleri oluşturur, sert siyah yastıklar değil. Aynı cinsin başka bazı Avrupa türleri benzer görünebilir ve çoğu zaman konukçu ve kimyasal testlerle ayrılır; bunlar arasında Daldinia childiae vardır.",
+      "notes": "İç kısmın potasyum hidroksitte mor tepkimesi, sarı-kahverengi ya da turuncuya boyanan bazı benzer türlerden ayırmaya yardımcı olabilir. Kayın ya da yanmış odundaki kayıtlar o diğer türlüre ait olabilir; eşmerkezli kuşakları gösteren bir kesit olmadan yalnızca konukçuya bakarak teşhis etmeyin.",
+      "names": [
+        "Kral Pastası"
+      ],
+      "sourceUrls": [
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "Karadaldın mantarı"
+    },
+    "uk": {
+      "description": "Тверді, округлі, подушкоподібні до майже кулястих плодові тіла (строми), що сидять просто на мертвій деревині, без ніжки. Зазвичай вони 2–8 cm у поперечнику. Молоді червонувато-коричневі до пурпурово-коричневих і злегка припорошені. Зрілі матово-чорні, у потертих місцях часто слабко блискучі, дрібногорбкуваті з крихітними гирлами і часто потріскані, з чорним споровим пилом на навколишній деревині. Вертикальний розріз показує концентричні сріблясто-сірі й чорні зони та тонкий шар пляшкоподібних камер одразу під зовнішньою кіркою.",
+      "cap": "Зазвичай 2–8 cm у поперечнику (деякі центральноєвропейські визначники вказують 1,5–6 × 1–4 cm). Подушкоподібне до майже кулястого утворення з широким плоским прикріпленням, без окремої шапинки. Поверхня спочатку червонувато-коричнева до пурпурово-коричневої і слабко оксамитова або припорошена, пізніше матово-чорна, у потертих місцях іноді слабко блискуча, дрібногорбкувата через крихітні гирла камер під кіркою і часто потріскана.",
+      "hymenium": "Спороносна поверхня — не пластинки, не трубочки і не шипики. Одразу під тонкою чорною кіркою лежить один шар крихітних пляшкоподібних камер, кожна з яких відкривається крихітною порою на поверхні. На вертикальному розрізі вони видно як тонка темна лінія під кіркою, над зонатою внутрішньою частиною.",
+      "stipe": "Ніжки немає. Кожне плодове тіло прикріплене до деревини широкою плоскою основою.",
+      "flesh": "Тверда, подібна до деревного вугілля, з чіткими концентричними зонами сріблясто-сіро-коричневого і чорного кольору. Запах і смак нехарактерні; плодові тіла надто тверді, щоб їх їсти.",
+      "sporePrint": "Споровий порошок чорний. Аскоспори еліпсоїдні до веретеноподібних, зазвичай близько 12–17 × 6–9 µm (деякі центральноєвропейські визначники вказують 13–17,5 × 6–7,5 µm).",
+      "habitat": "Сапротроф на мертвій або відмираючій твердій деревині. В Європі трапляється майже завжди на ясені (Fraxinus). Схожі види того самого роду трапляються на буку, вільсі, обгорілій деревині та інших живителях і тут не розглядаються як цей вид. Тверді плодові тіла можна знайти в будь-якому місяці; аскоспори вивільняються здебільшого з пізньої весни до кінця осені.",
+      "uses": "Неїстівний. Плодові тіла тверді, подібні до деревного вугілля, і гриб не вважається харчовим.",
+      "confusion": "Kretzschmaria deusta утворює на пнях плоску, хвилясту сіро-чорну кірку і на розрізі не має концентричних зон росту. Види роду Hypoxylon зазвичай дрібніші, часто іржаві або цегляно-червоні, і в них немає зонатої, вугілеподібної внутрішньої частини. Xylaria polymorpha утворює прямостоячі, булавоподібні плодові тіла, а не тверді чорні подушки. Кілька інших європейських видів того самого роду можуть бути схожими і часто розрізняються за живителем і хімічними тестами, зокрема Daldinia childiae.",
+      "notes": "Фіолетова реакція внутрішньої частини в гідроксиді калію може допомогти відрізнити цей вид від деяких схожих, що забарвлюються в жовто-коричневий або помаранчевий колір. Знахідки на буку або обгорілій деревині можуть належати тим іншим видам; не визначайте його лише за живителем без розрізу, що показує концентричні зони.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "坚硬、圆钝、垫状至近球形的子实体（子座），无柄，直接着生于枯死木材上。通常宽2–8厘米。幼时红褐色至紫褐色，略带粉霜。成熟后呈无光泽的黑色，摩擦处常略有光泽，因细小开口而微呈瘤状，并常开裂，周围木材上有黑色孢子粉。纵切面可见银灰色与黑色的同心环带，以及外皮正下方一层薄薄的瓶状小室。",
+      "cap": "通常直径2–8厘米（部分中欧图鉴记为1.5–6 × 1–4厘米）。垫状至近球形，着生面宽而扁平，无单独的菌盖。表面初为红褐色至紫褐色，略呈绒状或粉状，后变为无光泽的黑色，摩擦处有时略有光泽，因外皮下小室的细小开口而微呈瘤状，并常开裂。",
+      "hymenium": "产孢面既非菌褶、菌管，也非菌刺。黑色薄皮正下方有一层细小的瓶状小室，各以表面的微小孔口开口。纵切面上它们呈外皮下方、环带状内部之上的一条细暗线。",
+      "stipe": "无柄。每个子实体以宽而扁平的基部着生于木材上。",
+      "flesh": "坚硬如木炭，具明显的银灰褐色与黑色同心环带。气味与味道均不明显；子实体过硬，不宜食用。",
+      "sporePrint": "孢子印为黑色。子囊孢子椭圆形至纺锤形，通常约12–17 × 6–9 µm（部分中欧图鉴记为13–17.5 × 6–7.5 µm）。",
+      "habitat": "腐生于枯死或濒死的阔叶树木材上。在欧洲几乎总是生于梣属（Fraxinus）。同属的相似种见于山毛榉、桤木、烧过的木材及其他寄主，此处不作为本种处理。坚硬的子实体一年中任何月份都可见到；子囊孢子主要在晚春至秋末释放。",
+      "uses": "不可食用。子实体坚硬如木炭，不被视为食用菌。",
+      "confusion": "Kretzschmaria deusta在树桩上形成平坦、波状的灰黑色壳层，切面没有同心生长环。Hypoxylon属的种类通常较小，常呈锈色或砖红色，并缺少环带状、炭质的内部。Xylaria polymorpha形成直立的棒状子实体，而不是坚硬的黑色垫状体。同属的若干其他欧洲种类可能外形相似，常依据寄主和化学试验加以区分，其中包括 Daldinia childiae。",
+      "notes": "内部在氢氧化钾中呈紫色反应，有助于将本种与一些染成黄褐色或橙色的相似种区分开。生于山毛榉或烧过的木材上的记录可能属于那些其他种类；不要仅凭寄主鉴定，须有能显示同心环带的切面。",
+      "names": [
+        "黑轮层炭壳"
+      ],
+      "sourceUrls": [
+        "https://www.wikidata.org/wiki/Q935453",
+        "https://www.inaturalist.org/taxa/121714"
+      ],
+      "label": "同心環紋炭球菌"
+    }
+  },
+  "synonyms": [
+    {
+      "name": "Sphaeria concentrica",
+      "author": "Bolton",
+      "year": 1792,
+      "rank": "species",
+      "type": "basionym",
+      "if": 224036
+    },
+    {
+      "name": "Peripherostoma concentricum",
+      "author": "(Bolton) Gray",
+      "year": 1821,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 431905
+    },
+    {
+      "name": "Gamosphaera concentrica",
+      "author": "(Bolton) Dumort.",
+      "year": 1822,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 652136
+    },
+    {
+      "name": "Stromatosphaeria concentrica",
+      "author": "(Bolton) Grev.",
+      "year": 1824,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 465421
+    },
+    {
+      "name": "Hypoxylon concentricum",
+      "author": "(Bolton) Grev.",
+      "year": 1827,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 203929
+    },
+    {
+      "name": "Hemisphaeria concentrica",
+      "author": "(Bolton) Klotzsch",
+      "year": 1843,
+      "rank": "species",
+      "type": "homotypic",
+      "if": 190869
+    },
+    {
+      "name": "Valsa tuberosa",
+      "author": "Scop.",
+      "year": 1772,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 480778
+    },
+    {
+      "name": "Sphaeria tuberosa",
+      "author": "(Scop.) Timm",
+      "year": 1788,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443992
+    },
+    {
+      "name": "Daldinia tuberosa",
+      "author": "(Scop.) J. Schröt.",
+      "year": 1881,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 438126
+    },
+    {
+      "name": "Hypoxylon tuberosum",
+      "author": "(Scop.) Wettst.",
+      "year": 1886,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443932
+    },
+    {
+      "name": "Hemisphaeria tuberosa",
+      "author": "(Scop.) Kuntze",
+      "year": 1898,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 526580
+    },
+    {
+      "name": "Lycoperdon fraxineum",
+      "author": "Huds.",
+      "year": 1778,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443971
+    },
+    {
+      "name": "Sphaeria tunicata",
+      "author": "Tode",
+      "year": 1791,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443972
+    },
+    {
+      "name": "Sphaeria fraxinea",
+      "author": "Sibth.",
+      "year": 1794,
+      "rank": "species",
+      "type": "heterotypic",
+      "if": 443970
+    }
+  ],
+  "reserved": false,
+  "id": 251,
+  "citation": "Comm. Soc. crittog. Ital. 1(fasc. 4): 197 (1863)"
 }
 ];

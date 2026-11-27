@@ -876,13 +876,6 @@ export const TAXA = {
     hu: "kígyógomba",
     pl: "grzybówka"
   },
-  Gloeophyllales: {
-    rank: "order"
-  },
-  Gloeophyllaceae: {
-    rank: "family",
-    sk: "trámovkovité"
-  },
   Neolentinus: {
     rank: "genus",
     sk: "húževnatec"
@@ -1252,10 +1245,12 @@ export const TAXA = {
     de: "Zwergknäuelinge"
   },
   Gloeophyllales: {
-    rank: "order"
+    rank: "order",
+    sk: "trámovkotvaré"
   },
   Gloeophyllaceae: {
     rank: "family",
+    sk: "trámovkovité",
     de: "Blättlingsverwandte",
     pl: "niszczycowate"
   },
@@ -1266,12 +1261,26 @@ export const TAXA = {
     sl: "tramovka"
   },
   Hymenochaetales: {
-    rank: "order"
+    rank: "order",
+    sk: "kožnačkotvaré"
   },
   Hymenochaetaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "kožnačkovité"
   },
   Pseudoinonotus: {
+    rank: "genus"
+  },
+  Sarcomyxaceae: {
+    rank: "family"
+  },
+  Sarcomyxa: {
+    rank: "genus"
+  },
+  Hypoxylaceae: {
+    rank: "family"
+  },
+  Daldinia: {
     rank: "genus"
   }
 };
