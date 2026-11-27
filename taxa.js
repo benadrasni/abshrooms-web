@@ -1219,5 +1219,8 @@ export const TAXA = {
   },
   Pseudoboletus: {
     rank: "genus"
+  },
+  Butyriboletus: {
+    rank: "genus"
   }
 };
